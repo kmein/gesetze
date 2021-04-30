@@ -1,10 +1,7 @@
-# [WaStrBAV] Bekanntmachung der Strompolizeiverordnung zum Schutz bundeseigener Betriebsanlagen an Bundeswasserstraßen  (Wasserstraßen-Betriebsanlagenverordnung - WaStrBAV)
-
-Ausfertigungsdatum: 06.06.2016
-
+% Bekanntmachung der Strompolizeiverordnung zum Schutz bundeseigener Betriebsanlagen an Bundeswasserstraßen  (Wasserstraßen-Betriebsanlagenverordnung - WaStrBAV)
+% Ausfertigungsdatum: 06.06.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
@@ -14,8 +11,7 @@ auf Grund des § 27 Absatz 1 des Bundeswasserstraßengesetzes in der Fassung der
 \-  
 auf Grund des § 46 Satz 1 Nummer 3 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; BGBl. 2008 I S. 1980), § 46 Satz 1 Nummer 3 geändert durch Artikel 522 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. S. 1474), in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung, Beschränkung oder Untersagung des Gemeingebrauchs vom 21. September 1971 (BGBl. I S. 1617), der zuletzt durch Artikel 24 der Verordnung vom 02. Juni 2016 geändert worden ist:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Die Verordnung gilt vorbehaltlich des Absatzes 2 für alle Bundeswasserstraßen.
 
@@ -29,8 +25,7 @@ auf Grund des § 46 Satz 1 Nummer 3 des Bundeswasserstraßengesetzes in der Fass
 
 4. auf den Strandschutzwerken auf der Insel Borkum im Sinne des § 1 der Strandschutzwerk-Sicherungsverordnung Borkum.
 
-
-## § 2 – Benutzungsverbot
+# § 2 – Benutzungsverbot
 
 (1) Es ist verboten
 
@@ -54,8 +49,7 @@ verboten werden.
 
 (+++ § 2 Abs. 4: zur Anwendung vgl. § 4 Satz 2 +++)
 
-
-## § 3 – Ausnahmen
+# § 3 – Ausnahmen
 
 (1) Ausnahmen von den Verboten nach § 2 Absatz 1 und § 2 Absatz 2 können
 
@@ -71,13 +65,11 @@ zugelassen werden.
 
 (4) Eine allgemeine Genehmigung wird durch das Aufstellen des Schildes nach dem Muster 3 der Anlage mit der im Einzelfall erforderlichen Aufschrift erteilt. Die allgemeine Genehmigung kann mit Nebenbestimmungen versehen werden. Das Schild wird unter dem Schild nach dem Muster 1 der Anlage oder unter dem Schild nach dem Muster 2 der Anlage angebracht. Ist das Aufstellen von Schildern untunlich, so kann für bestimmte Personengruppen die allgemeine Genehmigung öffentlich, sowie nachrichtlich im Internet, bekannt gemacht werden.
 
-
-## § 4 – Befreiungen
+# § 4 – Befreiungen
 
 Von den Benutzungsverboten nach § 2 Absatz 1 oder den besonderen Betretens- und Befahrensverboten nach § 2 Absatz 2 sind die Bediensteten oder Beauftragten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, anderer Behörden, der Einrichtungen des Rettungs- und des Feuerwehrdienstes sowie sonstiger Hilfsorganisationen befreit, soweit das Benutzen zur Erfüllung der dienstlichen Aufgaben erforderlich ist. § 2 Absatz 4 gilt entsprechend.
 
-
-## § 5 – Zerstörungs- und Beschädigungsverbot
+# § 5 – Zerstörungs- und Beschädigungsverbot
 
 (1) Es ist verboten,
 
@@ -91,13 +83,11 @@ unbefugt zu zerstören, zu beschädigen, unbrauchbar zu machen, zu verändern od
 
 (3) Das Verbot nach Absatz 2 kann durch das Schild nach dem Muster 4 der Anlage kenntlich gemacht werden.
 
-
-## § 6 – Zuständigkeit
+# § 6 – Zuständigkeit
 
 Die Wasserstraßen- und Schifffahrtsämter erlassen die Verbote nach § 2 Absatz 2 und erteilen Ausnahmegenehmigungen nach § 3.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 Bundeswasserstraßengesetz handelt, wer vorsätzlich oder fahrlässig
 
@@ -111,8 +101,7 @@ Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 Bundeswasserstraßengesetz h
 
 5. entgegen § 5 Absatz 2 in einem dort genannten Bereich raucht oder mit offenem Feuer oder mit glühenden Stoffen umgeht.
 
-
-## § 8 – Übergangsbestimmungen
+# § 8 – Übergangsbestimmungen
 
 Schilder, die am 30. Juni 2016 aufgestellt sind, gelten neben den nach dieser Verordnung aufgestellten Schildern bis zum 31. Dezember 2021 fort. Im Umfang der sich aus den fortgeltenden Schildern ergebenden Verbote oder Berechtigungen sind
 
@@ -126,8 +115,7 @@ Schilder, die am 30. Juni 2016 aufgestellt sind, gelten neben den nach dieser Ve
 
 weiter anzuwenden.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -143,17 +131,16 @@ weiter anzuwenden.
 
 außer Kraft.
 
-
-## Anlage – (zu § 2 Absatz 3, § 3 Absatz 4 und § 5 Absatz 3)  Schilder zur Kennzeichnung der Verbote
+# Anlage – (zu § 2 Absatz 3, § 3 Absatz 4 und § 5 Absatz 3)  Schilder zur Kennzeichnung der Verbote
 
 (Fundstelle: VkBl. 2016, 437 – 438)
 
-![](../normengrafiken/vkbl_2016/juris-n_VkBl_2016_437_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/vkbl_2016/juris-n_VkBl_2016_437_0010.jpg)
 
-![](../normengrafiken/vkbl_2016/juris-n_VkBl_2016_437_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/vkbl_2016/juris-n_VkBl_2016_437_0020.jpg)
 
-![](../normengrafiken/vkbl_2016/juris-n_VkBl_2016_437_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/vkbl_2016/juris-n_VkBl_2016_437_0030.jpg)
 
-![](../normengrafiken/vkbl_2016/juris-n_VkBl_2016_438_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/vkbl_2016/juris-n_VkBl_2016_438_0010.jpg)
 
-![](../normengrafiken/vkbl_2016/juris-n_VkBl_2016_438_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/vkbl_2016/juris-n_VkBl_2016_438_0020.jpg)

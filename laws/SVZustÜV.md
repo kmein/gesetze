@@ -1,15 +1,11 @@
-# [SVZustÜV] Verordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenversorgung  (Soldatenversorgungs-Zuständigkeitsübertragungsverordnung - SVZustÜV)
-
-Ausfertigungsdatum: 22.07.2013
-
+% Verordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenversorgung  (Soldatenversorgungs-Zuständigkeitsübertragungsverordnung - SVZustÜV)
+% Ausfertigungsdatum: 22.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Absatz 1 Satz 3 und 4 des Soldatenversorgungsgesetzes, der durch Artikel 7 Nummer 1 des Gesetzes vom 11. Juni 2013 (BGBl. I S. 1514) geändert worden ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen:
 
-
-## § 1 – Übertragung von Zuständigkeiten auf das Bundesamt für das Personalmanagement der Bundeswehr
+# § 1 – Übertragung von Zuständigkeiten auf das Bundesamt für das Personalmanagement der Bundeswehr
 
 Dem Bundesamt für das Personalmanagement der Bundeswehr werden übertragen:
 
@@ -31,8 +27,7 @@ Dem Bundesamt für das Personalmanagement der Bundeswehr werden übertragen:
 
 9. die Ausgleichszahlung nach § 63f des Soldatenversorgungsgesetzes, wenn nicht ein Einsatzunfall eines Soldaten auf Zeit vorliegt.
 
-
-## § 2 – Übertragung von Zuständigkeiten auf die Service-Center der Generalzolldirektion
+# § 2 – Übertragung von Zuständigkeiten auf die Service-Center der Generalzolldirektion
 
 (1) Den Service-Centern der Generalzolldirektion werden übertragen:
 
@@ -54,8 +49,7 @@ Bei der Übertragung nach Satz 1 werden die Schluss- und Übergangsvorschriften 
 
 (3) (weggefallen)
 
-
-## § 3 – Übertragung von Zuständigkeiten auf das Bundesverwaltungsamt
+# § 3 – Übertragung von Zuständigkeiten auf das Bundesverwaltungsamt
 
 (1) Dem Bundesverwaltungsamt werden übertragen:
 
@@ -71,15 +65,12 @@ Bei der Übertragung nach Satz 1 werden die Schluss- und Übergangsvorschriften 
 
 2. die Aufgaben und Befugnisse nach § 2 Absatz 2 Nummer 1, 3 und 4.
 
-
-## § 4 – Entscheidung durch das Bundesministerium der Verteidigung
+# § 4 – Entscheidung durch das Bundesministerium der Verteidigung
 
 Das Bundesministerium der Verteidigung behält sich vor, die nach den §§ 1 bis 3 übertragenen Aufgaben und Befugnisse bei grundsätzlicher Bedeutung selbst auszuüben oder unter Zustimmungsvorbehalt zu stellen.
 
+# § 5 – (weggefallen)
 
-## § 5 – (weggefallen)
-
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung vom 24. Oktober 2002 (BGBl. I S. 4334), die zuletzt durch Artikel 2 Absatz 11 des Gesetzes vom 8. April 2013 (BGBl. I S. 730) geändert worden ist, außer Kraft.

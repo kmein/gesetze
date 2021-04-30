@@ -1,15 +1,11 @@
-# [SozSichAbkAUSErgAbkG] Gesetz zu dem Abkommen vom 9. Februar 2007 zwischen der Bundesrepublik Deutschland und Australien über die Soziale Sicherheit von vorübergehend im Hoheitsgebiet des anderen Staates beschäftigten Personen ("Ergänzungsabkommen")
-
-Ausfertigungsdatum: 08.12.2007
-
+% Gesetz zu dem Abkommen vom 9. Februar 2007 zwischen der Bundesrepublik Deutschland und Australien über die Soziale Sicherheit von vorübergehend im Hoheitsgebiet des anderen Staates beschäftigten Personen ("Ergänzungsabkommen")
+% Ausfertigungsdatum: 08.12.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Folgenden in Berlin am 9. Februar 2007 unterzeichneten zwischenstaatlichen Übereinkünften wird zugestimmt:
 
@@ -19,8 +15,7 @@ Folgenden in Berlin am 9. Februar 2007 unterzeichneten zwischenstaatlichen Über
 
 Das Ergänzungsabkommen und die Durchführungsvereinbarung werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Ergänzungsabkommens sowie Änderungen der Durchführungsvereinbarung vom 9. Februar 2007 in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und Durchführung des Ergänzungsabkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -30,8 +25,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. die Zuständigkeit der Versicherungsträger oder anderer im Ergänzungsabkommen genannter Stellen und Behörden.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

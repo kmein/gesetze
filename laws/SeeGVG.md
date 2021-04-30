@@ -1,15 +1,11 @@
-# [SeeGVG] Gesetz über die Vollstreckung von Entscheidungen internationaler Gerichte auf dem Gebiet des Seerechts  (Seegerichtsvollstreckungsgesetz - SeeGVG)
-
-Ausfertigungsdatum: 06.06.1995
-
+% Gesetz über die Vollstreckung von Entscheidungen internationaler Gerichte auf dem Gebiet des Seerechts  (Seegerichtsvollstreckungsgesetz - SeeGVG)
+% Ausfertigungsdatum: 06.06.1995
  
-
-## § 1 – Vollstreckbarkeit
+# § 1 – Vollstreckbarkeit
 
 Entscheidungen der Kammer für Meeresbodenstreitigkeiten des Internationalen Seegerichtshofs (Artikel 39 der Anlage VI zum Seerechtsübereinkommen der Vereinten Nationen vom 10. Dezember 1982) und endgültige Entscheidungen eines auf Grund dieses Übereinkommens zuständigen Gerichtshofs betreffend die Rechte und Pflichten der Behörde und des Vertragsnehmers (Artikel 21 Abs. 2 der Anlage III zum Seerechtsübereinkommen) sind vollstreckbare Titel. Die Zwangsvollstreckung erfolgt nach den Vorschriften des Zivilverfahrensrechts mit den nachfolgenden Maßgaben.
 
-
-## § 2 – Vollstreckungsklausel
+# § 2 – Vollstreckungsklausel
 
 (1) Eine mit der Vollstreckungsklausel versehene Ausfertigung des Titels wird auf Antrag dem in der Entscheidung bezeichneten Gläubiger nach Prüfung der Wirksamkeit des Titels, seiner Vollstreckbarkeit nach § 1 Satz 1 und seiner Eignung zur Zwangsvollstreckung erteilt. Zuständig für die Erteilung der Vollstreckungsklausel ist das Oberlandesgericht am Sitz des Seegerichtshofs.
 
@@ -37,12 +33,10 @@ Entscheidungen der Kammer für Meeresbodenstreitigkeiten des Internationalen See
     (Angabe der Entscheidungsformel in deutscher Sprache, die aus dem Beschluß
     des Senats zu übernehmen ist)." 
 
-
-## § 3 – Zuständigkeit des Oberlandesgerichts als Vollstreckungsorgan
+# § 3 – Zuständigkeit des Oberlandesgerichts als Vollstreckungsorgan
 
 Soweit das Prozeßgericht des ersten Rechtszuges als Vollstreckungsorgan bestimmt ist, nimmt diese Aufgabe das Oberlandesgericht am Sitz des Seegerichtshofs wahr. Es entscheidet durch unanfechtbaren Beschluß. Vor der Entscheidung ist der Schuldner zu hören.
 
-
-## § 4 – Rechtsbehelfe in der Zwangsvollstreckung
+# § 4 – Rechtsbehelfe in der Zwangsvollstreckung
 
 Einwendungen, die den durch die Entscheidung des Seegerichtshofs festgestellten Anspruch betreffen, können vor inländischen Gerichten nicht geltend gemacht werden.

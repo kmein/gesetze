@@ -1,10 +1,7 @@
-# [SokaSiG] Gesetz zur Sicherung der Sozialkassenverfahren im Baugewerbe   (Sozialkassenverfahrensicherungsgesetz - SokaSiG)
-
-Ausfertigungsdatum: 16.05.2017
-
+% Gesetz zur Sicherung der Sozialkassenverfahren im Baugewerbe   (Sozialkassenverfahrensicherungsgesetz - SokaSiG)
+% Ausfertigungsdatum: 16.05.2017
  
-
-## § 1 – Berufsbildung im Baugewerbe
+# § 1 – Berufsbildung im Baugewerbe
 
 (1) Mit Ausnahme der §§ 6, 10, 12, 13, 14 Absatz 2 und des § 15 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im Baugewerbe vom 10. Dezember 2014 in der aus der Anlage 1 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2015 bis zur Beendigung des Tarifvertrags, soweit die jeweilige Rechtsnorm des Tarifvertrags nicht auf den Rahmentarifvertrag für die Angestellten und Poliere des Baugewerbes verweist.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 16.05.2017
 
 (7) Für den Zeitraum vom 1. Januar 2006 bis zum 30. September 2007 gelten die Rechtsnormen des Tarifvertrags über die Berufsbildung im Baugewerbe vom 29. Januar 1987 in der aus der Anlage 7 ersichtlichen Fassung mit Ausnahme der §§ 6, 10, 12, 13, 14 Absatz 2 und des § 15 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer, soweit die jeweilige Rechtsnorm des Tarifvertrags nicht auf den Rahmentarifvertrag für die Angestellten und Poliere des Baugewerbes verweist.
 
-
-## § 2 – Zusätzliche Altersversorgung im Baugewerbe
+# § 2 – Zusätzliche Altersversorgung im Baugewerbe
 
 (1) Die Rechtsnormen des Tarifvertrags über eine zusätzliche Altersversorgung im Baugewerbe vom 5. Juni 2014 gelten in der aus der Anlage 8 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. September 2016 bis zur Beendigung des Tarifvertrags.
 
@@ -31,8 +27,7 @@ Ausfertigungsdatum: 16.05.2017
 
 (4) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Dezember 2007 gelten die Rechtsnormen des Tarifvertrags über Rentenbeihilfen im Baugewerbe in der aus der Anlage 11 ersichtlichen Fassung vom 31. Oktober 2002 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 3 – Urlaubsregelungen für das Baugewerbe
+# § 3 – Urlaubsregelungen für das Baugewerbe
 
 (1) Die Rechtsnormen des § 3 Nummer 1.1, 1.2, 5.1, 5.2, 5.3 und 6, des § 4 Nummer 6, der §§ 6 bis 8, des § 11 Nummer 2 sowie des § 14 des Bundesrahmentarifvertrags für das Baugewerbe vom 4. Juli 2002 gelten in der aus der Anlage 12 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2017 bis zur Beendigung des Tarifvertrags.
 
@@ -50,8 +45,7 @@ Ausfertigungsdatum: 16.05.2017
 
 (8) Die Absätze 1 bis 7 finden auch auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern Anwendung, soweit die tarifvertraglichen Rechtsnormen, auf die in den Absätzen 1 bis 7 verwiesen wird, Arbeitsbedingungen im Sinne des § 5 Satz 1 Nummer 1, Nummer 2 oder Nummer 3 des Arbeitnehmer-Entsendegesetzes zum Gegenstand haben.
 
-
-## § 4 – Urlaubsregelung für das Baugewerbe in Bayern
+# § 4 – Urlaubsregelung für das Baugewerbe in Bayern
 
 (1) Die Rechtsnormen des Tarifvertrags Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern gelten in der aus der Anlage 19 ersichtlichen Fassung vom 10. Dezember 2014 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2015 bis zur Beendigung des Tarifvertrags.
 
@@ -63,18 +57,15 @@ Ausfertigungsdatum: 16.05.2017
 
 (5) Für den Zeitraum vom 1. Januar 2006 bis zum 31. Mai 2006 gelten die Rechtsnormen des Tarifvertrags Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern in der aus der Anlage 23 ersichtlichen Fassung vom 29. Juli 2005 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer.
 
-
-## § 5 – Berufsbildungsverfahren im Berliner Baugewerbe
+# § 5 – Berufsbildungsverfahren im Berliner Baugewerbe
 
 Die Rechtsnormen des Tarifvertrags über das Verfahren für die Berufsbildung im Berliner Baugewerbe gelten in der aus der Anlage 24 ersichtlichen Fassung vom 10. Dezember 2002 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 6 – Sozialaufwandserstattung
+# § 6 – Sozialaufwandserstattung
 
 Die Rechtsnormen des Tarifvertrags über Sozialaufwandserstattung im Berliner Baugewerbe – gewerbliche Arbeitnehmer – gelten in der aus der Anlage 25 ersichtlichen Fassung vom 17. Dezember 2002 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2006 bis zur Beendigung des Tarifvertrags.
 
-
-## § 7 – Sozialkassenverfahren im Baugewerbe
+# § 7 – Sozialkassenverfahren im Baugewerbe
 
 (1) Die Rechtsnormen des Tarifvertrags über das Sozialkassenverfahren im Baugewerbe vom 3. Mai 2013 gelten in der aus der Anlage 26 ersichtlichen Fassung in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2016 bis zur Beendigung des Tarifvertrags.
 
@@ -98,47 +89,39 @@ Die Rechtsnormen des Tarifvertrags über Sozialaufwandserstattung im Berliner Ba
 
 (11) Die Absätze 1 bis 10 finden auch auf Arbeitsverhältnisse zwischen einem im Ausland ansässigen Arbeitgeber und seinen im Inland beschäftigten Arbeitnehmern Anwendung, soweit die tarifvertraglichen Rechtsnormen, auf die in den Absätzen 1 bis 10 verwiesen wird, Arbeitsbedingungen im Sinne des § 5 Satz 1 Nummer 3 des Arbeitnehmer-Entsendegesetzes zum Gegenstand haben.
 
-
-## § 8 – Meldeverfahren im Berliner Baugewerbe
+# § 8 – Meldeverfahren im Berliner Baugewerbe
 
 Die Rechtsnormen des Tarifvertrags über zusätzliche Angaben im arbeitnehmerbezogenen Meldeverfahren im Berliner Baugewerbe gelten in der aus der Anlage 36 ersichtlichen Fassung vom 19. Mai 2006 in seinem Geltungsbereich für alle Arbeitgeber und Arbeitnehmer für den Zeitraum vom 1. Januar 2007 bis zur Beendigung des Tarifvertrags.
 
-
-## § 9 – Beendigung des Tarifvertrags
+# § 9 – Beendigung des Tarifvertrags
 
 (1) Ein Tarifvertrag endet im Sinne dieses Gesetzes, wenn er gekündigt, aufgehoben, geändert oder durch einen anderen Tarifvertrag ganz oder teilweise abgelöst wird.
 
 (2) Die oberste Arbeitsbehörde des Bundes macht die Beendigung des Tarifvertrags im Bundesanzeiger bekannt.
 
-
-## § 10 – Anwendungsbereich
+# § 10 – Anwendungsbereich
 
 (1) Die tarifvertraglichen Rechtsnormen, auf die in den §§ 1 bis 8 verwiesen wird, gelten nicht für Betriebe und selbständige Betriebsabteilungen, die die Maßgaben der Anlage 37 erfüllen.
 
 (2) Arbeitnehmer im Sinne der §§ 1 bis 8 sind die unter den persönlichen Geltungsbereich des jeweiligen Tarifvertrags fallenden Personen.
 
-
-## § 11 – Geltung der tarifvertraglichen Rechtsnormen
+# § 11 – Geltung der tarifvertraglichen Rechtsnormen
 
 Die tarifvertraglichen Rechtsnormen, auf die in den §§ 1 bis 8 verwiesen wird, gelten unabhängig davon, ob die Tarifverträge wirksam abgeschlossen wurden.
 
-
-## § 12 – Zivilrechtliche Durchsetzung
+# § 12 – Zivilrechtliche Durchsetzung
 
 Auf die Verpflichtung zur Zahlung von Beiträgen zum Urlaubskassenverfahren an die Urlaubs- und Lohnausgleichskasse der Bauwirtschaft findet Abschnitt 5 des Arbeitnehmer-Entsendegesetzes entsprechende Anwendung.
 
-
-## § 13 – Verhältnis zur Allgemeinverbindlichkeit nach dem Tarifvertragsgesetz
+# § 13 – Verhältnis zur Allgemeinverbindlichkeit nach dem Tarifvertragsgesetz
 
 Die Allgemeinverbindlichkeit tarifvertraglicher Rechtsnormen nach dem Tarifvertragsgesetz bleibt unberührt.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-
-## Inhalt – Anlagen
+# Inhalt – Anlagen
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 1)
 
@@ -355,8 +338,7 @@ tarifvertraglichen Rechtsnormen
 |:-----------------------------|----:|
 | Anlage 37 (zu § 10 Absatz 1) | 396 |
 
-
-## Anlage 1 – (zu § 1 Absatz 1)
+# Anlage 1 – (zu § 1 Absatz 1)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 3 - 11)
 
@@ -642,8 +624,7 @@ Für das Verfahren gilt im Übrigen der Tarifvertrag über das Sozialkassenverfa
 
 (2) Die §§ 19 Abs. 1 bis 4 und 24 Abs. 1 und 2 gelten nicht für vor dem 1. Juli 2013 liegende Ausbildungszeiten, wenn der Auszubildende bei Beginn der Ausbildung bereits das 28. Lebensjahr vollendet hatte.
 
-
-## Anlage 2 – (zu § 1 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 3. Mai 2013
+# Anlage 2 – (zu § 1 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 3. Mai 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 12 - 21)
 
@@ -939,8 +920,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 (3) Die §§ 19 Abs. 1 bis 4 und 24 Abs. 1 und 2 gelten nicht für vor dem 1. Juli 2013 liegende Ausbildungszeiten, wenn der Auszubildende bei Beginn der Ausbildung bereits das 28. Lebensjahr vollendet hatte.
 
-
-## Anlage 3 – (zu § 1 Absatz 3)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 6. August 2010
+# Anlage 3 – (zu § 1 Absatz 3)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 6. August 2010
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 22 - 31)
 
@@ -1248,8 +1228,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 (2) Für duale Studiengänge, die vor dem 1. September 2010 bereits bestanden und für welche die tariflichen Voraussetzungen für die Erstattung von Ausbildungskosten nach diesem Tarifvertrag in der Fassung vom 18. Dezember 2009 erfüllt sind, gilt § 30 erst für die nach dem 31. Dezember 2011 beginnenden Ausbildungsverhältnisse. § 19 Abs. 1 Buchst. c) und d) gelten nicht für Ausbildungsverhältnisse, die vor dem 1. September 2010 bereits bestanden haben.
 
-
-## Anlage 4 – (zu § 1 Absatz 4)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 18. Dezember 2009
+# Anlage 4 – (zu § 1 Absatz 4)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 18. Dezember 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 32 - 40)
 
@@ -1519,8 +1498,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Dieser Tarifvertrag tritt am 1. Januar 1987 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 30. Juni, erstmals zum 30. Juni 1989, § 2 Abs. 1 jedoch erstmals zum 31. März 2000 gekündigt werden.
 
-
-## Anlage 5 – (zu § 1 Absatz 5)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 30. Juni 2008
+# Anlage 5 – (zu § 1 Absatz 5)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 30. Juni 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 41 - 49)
 
@@ -1792,8 +1770,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Dieser Tarifvertrag tritt am 1. Januar 1987 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 30. Juni, erstmals zum 30. Juni 1989, § 2 Abs. 1 jedoch erstmals zum 31. März 2000 gekündigt werden.
 
-
-## Anlage 6 – (zu § 1 Absatz 6)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 20. August 2007
+# Anlage 6 – (zu § 1 Absatz 6)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 20. August 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 50 - 58)
 
@@ -2051,8 +2028,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Dieser Tarifvertrag tritt am 1. Januar 1987 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 30. Juni, erstmals zum 30. Juni 1989, § 2 Abs. 1 jedoch erstmals zum 31. März 2000 gekündigt werden.
 
-
-## Anlage 7 – (zu § 1 Absatz 7)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 30. Juni 2006
+# Anlage 7 – (zu § 1 Absatz 7)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 30. Juni 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 59 - 67)
 
@@ -2308,8 +2284,7 @@ Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung di
 
 Dieser Tarifvertrag tritt am 1. Januar 1987 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 30. Juni, erstmals zum 30. Juni 1989, § 2 Abs. 1 jedoch erstmals zum 31. März 2000 gekündigt werden.
 
-
-## Anlage 8 – (zu § 2 Absatz 1)Tarifvertrag über eine zusätzliche Altersversorgung im Baugewerbe (TZA Bau) vom 5. Juni 2014, zuletzt geändert durch Tarifvertrag vom 10. Juni 2016
+# Anlage 8 – (zu § 2 Absatz 1)Tarifvertrag über eine zusätzliche Altersversorgung im Baugewerbe (TZA Bau) vom 5. Juni 2014, zuletzt geändert durch Tarifvertrag vom 10. Juni 2016
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 68 - 76)
 
@@ -2602,8 +2577,7 @@ Die Tarifvertragsparteien verpflichten sich, gemeinsam die Allgemeinverbindliche
 
 (3) Im Übrigen kann dieser Tarifvertrag mit einer Frist von sechs Monaten zum Jahresende, erstmals zum 31. Dezember 2020 gekündigt werden.
 
-
-## Anlage 9 – (zu § 2 Absatz 2)Tarifvertrag über eine zusätzliche Altersversorgung im Baugewerbe (TZA Bau) vom 5. Juni 2014, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
+# Anlage 9 – (zu § 2 Absatz 2)Tarifvertrag über eine zusätzliche Altersversorgung im Baugewerbe (TZA Bau) vom 5. Juni 2014, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 77 - 84)
 
@@ -2784,8 +2758,7 @@ b) mindestens drei Jahre in einem Arbeitsverhältnis zu ein und demselben Arbeit
 120 Monaten 17 v. H.,  
 180 Monaten 20 v. H.,  
 240 Monaten 50 v. H.,  
-360 Monaten 80 v. H.  
-der Beihilfen nach § 13. Für die Berechnung des unverfallbaren Teils der Beihilfen nach einer Wartezeit von weniger als 220 Monaten sind die Beihilfen des § 13 nach Erfüllung der allgemeinen Wartezeit zugrunde zu legen.
+360 Monaten 80 v. H. der Beihilfen nach § 13. Für die Berechnung des unverfallbaren Teils der Beihilfen nach einer Wartezeit von weniger als 220 Monaten sind die Beihilfen des § 13 nach Erfüllung der allgemeinen Wartezeit zugrunde zu legen.
 
 Die Ansprüche der Versicherten bleiben auch dann unberührt, wenn die Beiträge durch die ZVK-Bau nicht beigetrieben werden können.
 
@@ -2884,8 +2857,7 @@ Die Tarifvertragsparteien verpflichten sich, gemeinsam die Allgemeinverbindliche
 
 (3) Im Übrigen kann dieser Tarifvertrag mit einer Frist von sechs Monaten zum Jahresende, erstmals zum 31. Dezember 2020 gekündigt werden.
 
-
-## Anlage 10 – (zu § 2 Absatz 3)Tarifvertrag über Rentenbeihilfen im Baugewerbe (TVR) vom 31. Oktober 2002, zuletzt geändert durch Tarifvertrag vom 5. Dezember 2007
+# Anlage 10 – (zu § 2 Absatz 3)Tarifvertrag über Rentenbeihilfen im Baugewerbe (TVR) vom 31. Oktober 2002, zuletzt geändert durch Tarifvertrag vom 5. Dezember 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 85 - 90)
 
@@ -2989,8 +2961,7 @@ b) mindestens fünf Jahre in einem Arbeitsverhältnis zu ein und demselben Arbei
 120 Monaten 17 v. H.,  
 180 Monaten 20 v. H.,  
 240 Monaten 50 v. H.,  
-360 Monaten 80 v. H.  
-der Beihilfen nach § 5. Für die Berechnung des unverfallbaren Teils der Beihilfen nach einer Wartezeit von weniger als 220 Monaten sind die Beihilfen des § 5 nach Erfüllung der allgemeinen Wartezeit zugrunde zu legen.
+360 Monaten 80 v. H. der Beihilfen nach § 5. Für die Berechnung des unverfallbaren Teils der Beihilfen nach einer Wartezeit von weniger als 220 Monaten sind die Beihilfen des § 5 nach Erfüllung der allgemeinen Wartezeit zugrunde zu legen.
 
 (3) Der unverfallbare Teil des Hinterbliebenengeldes beträgt nach einer Wartezeit (§ 4 Abs. 2) von  
  60 Monaten  92,05 Euro,  
@@ -3086,8 +3057,7 @@ Die §§ 1a, 2 bis 5, 16, 18a Satz 1, 27 und 28 BetrAVG finden keine Anwendung. 
 
 Dieser Tarifvertrag tritt am 1. Januar 2003 in Kraft. Er kann mit einer Frist von sechs Monaten zum Jahresende, erstmals zum 31. Dezember 2007, gekündigt werden.
 
-
-## Anlage 11 – (zu § 2 Absatz 4)Tarifvertrag über Rentenbeihilfen im Baugewerbe (TVR) vom 31. Oktober 2002
+# Anlage 11 – (zu § 2 Absatz 4)Tarifvertrag über Rentenbeihilfen im Baugewerbe (TVR) vom 31. Oktober 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 91 - 96)
 
@@ -3298,8 +3268,7 @@ Die §§ 1a, 2 bis 5, 16, 18a Satz 1, 27 und 28 BetrAVG finden keine Anwendung. 
 
 Dieser Tarifvertrag tritt am 1. Januar 2003 in Kraft. Er kann mit einer Frist von sechs Monaten zum Jahresende, erstmals zum 31. Dezember 2007, gekündigt werden.
 
-
-## Anlage 12 – (zu § 3 Absatz 1) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 10. Juni 2016
+# Anlage 12 – (zu § 3 Absatz 1) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 10. Juni 2016
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 97 - 114)
 
@@ -4623,8 +4592,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. Dezember bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2008, schriftlich gekündigt werden.
 
-
-## Anlage 13 – (zu § 3 Absatz 2)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
+# Anlage 13 – (zu § 3 Absatz 2)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 115 - 133)
 
@@ -5955,8 +5923,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. Dezember bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2008, schriftlich gekündigt werden.
 
-
-## Anlage 14 – (zu § 3 Absatz 3) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
+# Anlage 14 – (zu § 3 Absatz 3) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 134 - 152)
 
@@ -7277,8 +7244,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. Dezember bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2008, schriftlich gekündigt werden.
 
-
-## Anlage 15 – (zu § 3 Absatz 4) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 31. Mai 2012
+# Anlage 15 – (zu § 3 Absatz 4) Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 31. Mai 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 153 - 171)
 
@@ -8621,8 +8587,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. Dezember bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2008, schriftlich gekündigt werden.
 
-
-## Anlage 16 – (zu § 3 Absatz 5)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 20. August 2007
+# Anlage 16 – (zu § 3 Absatz 5)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 20. August 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 172 - 190)
 
@@ -9977,8 +9942,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. Dezember bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2008, schriftlich gekündigt werden.
 
-
-## Anlage 17 – (zu § 3 Absatz 6)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 19. Mai 2006
+# Anlage 17 – (zu § 3 Absatz 6)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 19. Mai 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 191 - 209)
 
@@ -11321,8 +11285,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. Dezember bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2007, schriftlich gekündigt werden.
 
-
-## Anlage 18 – (zu § 3 Absatz 7)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 29. Juli 2005
+# Anlage 18 – (zu § 3 Absatz 7)Auszug aus dem Bundesrahmentarifvertrag für das Baugewerbe (BRTV) vom 4. Juli 2002, zuletzt geändert durch Tarifvertrag vom 29. Juli 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 210 - 228)
 
@@ -12687,8 +12650,7 @@ Das Arbeitsverhältnis kann in der Zeit vom 1. November bis 31. März (Schlechtw
 
 Dieser Tarifvertrag tritt am 1. September 2002 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 2007, schriftlich gekündigt werden.
 
-
-## Anlage 19 – (zu § 4 Absatz 1)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 10. Dezember 2014
+# Anlage 19 – (zu § 4 Absatz 1)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 10. Dezember 2014
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 229 - 232)
 
@@ -12737,13 +12699,9 @@ Tage unbezahlten Urlaubs, wenn dieser länger als 14 Kalendertage gedauert hat.
 
 1. Der Arbeitnehmer erhält für den Urlaub gemäß § 2 eine Urlaubsvergütung.
 
-a) Die Urlaubsvergütung beträgt 14,25 v. H., bei Schwerbehinderten im Sinne der gesetzlichen Bestimmungen 16,63 v. H. des Bruttolohnes.  
-Die Urlaubsvergütung besteht aus dem Urlaubsentgelt in Höhe von 11,4 v. H. – bei Schwerbehinderten in Höhe von 13,3 v. H. – des Bruttolohnes und dem zusätzlichen Urlaubsgeld.  
-Das zusätzliche Urlaubsgeld beträgt 25 v. H. des Urlaubsentgelts. Es kann auf betrieblich gewährtes zusätzliches Urlaubsgeld angerechnet werden.
+a) Die Urlaubsvergütung beträgt 14,25 v. H., bei Schwerbehinderten im Sinne der gesetzlichen Bestimmungen 16,63 v. H. des Bruttolohnes. Die Urlaubsvergütung besteht aus dem Urlaubsentgelt in Höhe von 11,4 v. H. – bei Schwerbehinderten in Höhe von 13,3 v. H. – des Bruttolohnes und dem zusätzlichen Urlaubsgeld. Das zusätzliche Urlaubsgeld beträgt 25 v. H. des Urlaubsentgelts. Es kann auf betrieblich gewährtes zusätzliches Urlaubsgeld angerechnet werden.
 
-b) Die Urlaubsvergütung für den nach dem 31. Dezember 2015 und vor dem 1. Januar 2018 entstandenen Urlaub beträgt 13,68 v. H., bei Schwerbehinderten im Sinne der gesetzlichen Bestimmungen 15,96 v. H. des Bruttolohnes.  
-Die Urlaubsvergütung besteht aus dem Urlaubsentgelt in Höhe von 11,4 v. H. – bei Schwerbehinderten in Höhe von 13,3 v. H. – des Bruttolohnes und dem zusätzlichen Urlaubsgeld.  
-Das zusätzliche Urlaubsgeld beträgt 20 v. H. des Urlaubsentgelts. Es kann auf betrieblich gewährtes zusätzliches Urlaubsgeld angerechnet werden.
+b) Die Urlaubsvergütung für den nach dem 31. Dezember 2015 und vor dem 1. Januar 2018 entstandenen Urlaub beträgt 13,68 v. H., bei Schwerbehinderten im Sinne der gesetzlichen Bestimmungen 15,96 v. H. des Bruttolohnes. Die Urlaubsvergütung besteht aus dem Urlaubsentgelt in Höhe von 11,4 v. H. – bei Schwerbehinderten in Höhe von 13,3 v. H. – des Bruttolohnes und dem zusätzlichen Urlaubsgeld. Das zusätzliche Urlaubsgeld beträgt 20 v. H. des Urlaubsentgelts. Es kann auf betrieblich gewährtes zusätzliches Urlaubsgeld angerechnet werden.
 
 2. Bruttolohn ist
 
@@ -12763,8 +12721,7 @@ Zum Bruttolohn gehören nicht das tarifliche 13. Monatseinkommen oder betrieblic
 
 2. Für jede Ausfallstunde in dem Zeitraum vom 1. Dezember bis 31. März, für die der Arbeitnehmer Saison-Kurzarbeitergeld bezieht, erhöht sich die nach § 5 Ziff. 1 errechnete Urlaubsvergütung nach Ablauf dieses Zeitraumes um 14,25 % des zuletzt nach § 6 Abs. 1 Satz 1 Nr. 1 VTV gemeldeten Bruttolohnes. Dabei bleiben die ersten 90 Ausfallstunden mit Bezug von Saison-Kurzarbeitergeld unberücksichtigt.
 
-3. § 7 Ziff. 2 Satz 2 findet auf die Ansprüche nach Ziff. 1 und Ziff. 2 keine Anwendung.  
-§ 9 findet auf die Ansprüche nach Ziff. 1 keine Anwendung.
+3. § 7 Ziff. 2 Satz 2 findet auf die Ansprüche nach Ziff. 1 und Ziff. 2 keine Anwendung. § 9 findet auf die Ansprüche nach Ziff. 1 keine Anwendung.
 
 4. Für den nach dem 31. Dezember 2015 und vor dem 1. Januar 2018 entstandenen Urlaub beträgt der Prozentsatz für die Mindesturlaubsvergütung abweichend von Ziff. 1 und 2 jedoch 13,68 v. H.
 
@@ -12824,8 +12781,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1984 in Kraft.
 
 Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 
-
-## Anlage 20 – (zu § 4 Absatz 2)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 17. Dezember 2012
+# Anlage 20 – (zu § 4 Absatz 2)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 17. Dezember 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 233 - 236)
 
@@ -12956,8 +12912,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1984 in Kraft.
 
 Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 
-
-## Anlage 21 – (zu § 4 Absatz 3)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 20. August 2007
+# Anlage 21 – (zu § 4 Absatz 3)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 20. August 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 237 - 241)
 
@@ -13105,8 +13060,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1984 in Kraft.
 
 Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 
-
-## Anlage 22 – (zu § 4 Absatz 4)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 19. Mai 2006
+# Anlage 22 – (zu § 4 Absatz 4)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 19. Mai 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 242 - 245)
 
@@ -13246,8 +13200,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1984 in Kraft.
 
 Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 
-
-## Anlage 23 – (zu § 4 Absatz 5)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 29. Juli 2005
+# Anlage 23 – (zu § 4 Absatz 5)Urlaubsregelung für die gewerblichen Arbeitnehmer im Baugewerbe in Bayern vom 29. Juli 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 246 - 250)
 
@@ -13397,8 +13350,7 @@ Dieser Tarifvertrag tritt am 1. Januar 1984 in Kraft.
 
 Er kann mit einer Frist von sechs Monaten jeweils zum 31. Dezember, erstmals zum 31. Dezember 1999, schriftlich gekündigt werden.
 
-
-## Anlage 24 – (zu § 5)Tarifvertrag über das Verfahren für die Berufsbildung im Berliner Baugewerbe (Verfahrenstarifvertrag Berufsbildung Berlin) vom 10.Dezember 2002
+# Anlage 24 – (zu § 5)Tarifvertrag über das Verfahren für die Berufsbildung im Berliner Baugewerbe (Verfahrenstarifvertrag Berufsbildung Berlin) vom 10.Dezember 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 251 - 252)
 
@@ -13444,8 +13396,7 @@ Erfüllungsort und Gerichtsstand für Ansprüche der Sozialkasse gegen Arbeitgeb
 
 (2) Der Tarifvertrag über das Verfahren für die Berufsbildung im Berliner Baugewerbe (Verfahrenstarifvertrag Berufsbildung) vom 1. August 1995 tritt mit Ablauf des 31. Dezember 2002 außer Kraft.
 
-
-## Anlage 25 – (zu § 6)Tarifvertrag über Sozialaufwandserstattung im Berliner Baugewerbe – gewerbliche Arbeitnehmer – vom 17. Dezember 2002
+# Anlage 25 – (zu § 6)Tarifvertrag über Sozialaufwandserstattung im Berliner Baugewerbe – gewerbliche Arbeitnehmer – vom 17. Dezember 2002
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 253 - 254)
 
@@ -13481,8 +13432,7 @@ Die Tarifvertragsparteien verpflichten sich, die Allgemeinverbindlicherklärung 
 
 (2) Der Tarifvertrag über die Sozialaufwandserstattung im Berliner Baugewerbe vom 05. Dezember 1997 tritt mit Ablauf des 30. Juni 2003 außer Kraft.
 
-
-## Anlage 26 – (zu § 7 Absatz 1)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 24.November 2015
+# Anlage 26 – (zu § 7 Absatz 1)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 24.November 2015
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 255 - 268)
 
@@ -14012,8 +13962,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 (2) Für die Monate Juli bis September 2013 nehmen die Kassen neben den elektronischen Meldungen (§ 4) auch nichtelektronische Meldungen entgegen, ohne dass dafür ein Antrag nach § 4 Abs. 2 gestellt werden muss.
 
-
-## Anlage 27 – (zu § 7 Absatz 2)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
+# Anlage 27 – (zu § 7 Absatz 2)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 10. Dezember 2014
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 269 - 282)
 
@@ -14527,8 +14476,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 (2) Für die Monate Juli bis September 2013 nehmen die Kassen neben den elektronischen Meldungen (§ 4) auch nichtelektronische Meldungen entgegen, ohne dass dafür ein Antrag nach § 4 Abs. 2 gestellt werden muss.
 
-
-## Anlage 28 – (zu § 7 Absatz 3)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 3. Dezember 2013
+# Anlage 28 – (zu § 7 Absatz 3)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013, zuletzt geändert durch Tarifvertrag vom 3. Dezember 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 283 - 295)
 
@@ -15032,8 +14980,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 (2) Für die Monate Juli bis September 2013 nehmen die Kassen neben den elektronischen Meldungen (§ 4) auch nichtelektronische Meldungen entgegen, ohne dass dafür ein Antrag nach § 4 Abs. 2 gestellt werden muss.
 
-
-## Anlage 29 – (zu § 7 Absatz 4)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013
+# Anlage 29 – (zu § 7 Absatz 4)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 3. Mai 2013
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 296 - 308)
 
@@ -15539,8 +15486,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 (2) Für die Monate Juli bis September 2013 nehmen die Kassen neben den elektronischen Meldungen (§ 4) auch nichtelektronische Meldungen entgegen, ohne dass dafür ein Antrag nach § 4 Abs. 2 gestellt werden muss.
 
-
-## Anlage 30 – (zu § 7 Absatz 5)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
+# Anlage 30 – (zu § 7 Absatz 5)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009, zuletzt geändert durch Tarifvertrag vom 17. Dezember 2012
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 309 - 322)
 
@@ -16052,8 +15998,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 Dieser Tarifvertrag tritt am 1. Januar 2010 in Kraft. Er kann mit einer Frist von sechs Monaten zum 31. Dezember, erstmals zum 31. Dezember 2010 gekündigt werden.
 
-
-## Anlage 31 – (zu § 7 Absatz 6)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009, zuletzt geändert durch Tarifvertrag vom 21. Dezember 2011
+# Anlage 31 – (zu § 7 Absatz 6)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009, zuletzt geändert durch Tarifvertrag vom 21. Dezember 2011
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 323 - 336)
 
@@ -16557,8 +16502,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 Dieser Tarifvertrag tritt am 1. Januar 2010 in Kraft. Er kann mit einer Frist von sechs Monaten zum 31. Dezember, erstmals zum 31. Dezember 2010 gekündigt werden.
 
-
-## Anlage 32 – (zu § 7 Absatz 7)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009
+# Anlage 32 – (zu § 7 Absatz 7)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 18. Dezember 2009
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 337 - 350)
 
@@ -17062,8 +17006,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 Dieser Tarifvertrag tritt am 1. Januar 2010 in Kraft. Er kann mit einer Frist von sechs Monaten zum 31. Dezember, erstmals zum 31. Dezember 2010 gekündigt werden.
 
-
-## Anlage 33 – (zu § 7 Absatz 8)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 5. Dezember 2007
+# Anlage 33 – (zu § 7 Absatz 8)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 5. Dezember 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 351 - 365)
 
@@ -17554,8 +17497,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 Der Tarifvertrag tritt am 1. Januar 2000 in Kraft, § 7 Abs. 1 jedoch erst am 1. Juli 2000. Statt dessen gilt § 8 Abs. 1 des Tarifvertrages über das Sozialkassenverfahren im Baugewerbe (VTV) vom 12. November 1986 in der Fassung vom 26. Mai 1999, welcher im übrigen am 31. Dezember 1999 außer Kraft tritt. Der Tarifvertrag ist kündbar mit sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2000.
 
-
-## Anlage 34 – (zu § 7 Absatz 9)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 20. August 2007
+# Anlage 34 – (zu § 7 Absatz 9)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 20. August 2007
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 366 - 379)
 
@@ -18046,8 +17988,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 Der Tarifvertrag tritt am 1. Januar 2000 in Kraft, § 7 Abs. 1 jedoch erst am 1. Juli 2000. Statt dessen gilt § 8 Abs. 1 des Tarifvertrages über das Sozialkassenverfahren im Baugewerbe (VTV) vom 12. November 1986 in der Fassung vom 26. Mai 1999, welcher im übrigen am 31. Dezember 1999 außer Kraft tritt. Der Tarifvertrag ist kündbar mit sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2000.
 
-
-## Anlage 35 – (zu § 7 Absatz 10)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 15. Dezember 2005
+# Anlage 35 – (zu § 7 Absatz 10)Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) vom 20. Dezember 1999, zuletzt geändert durch Tarifvertrag vom 15. Dezember 2005
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 380 - 394)
 
@@ -18546,8 +18487,7 @@ Für die Durchführung der Verfahren nach diesem Tarifvertrag gilt deutsches Rec
 
 Der Tarifvertrag tritt am 1. Januar 2000 in Kraft, § 7 Abs. 1 jedoch erst am 1. Juli 2000. Statt dessen gilt § 8 Abs. 1 des Tarifvertrages über das Sozialkassenverfahren im Baugewerbe (VTV) vom 12. November 1986 in der Fassung vom 26. Mai 1999, welcher im übrigen am 31. Dezember 1999 außer Kraft tritt. Der Tarifvertrag ist kündbar mit sechsmonatiger Frist zum 31. Dezember, erstmals zum 31. Dezember 2000.
 
-
-## Anlage 36 – (zu § 8)Tarifvertrag über zusätzliche Angaben im arbeitnehmerbezogenen Meldeverfahren im Berliner Baugewerbe (TV ZABB) vom 19.Mai 2006
+# Anlage 36 – (zu § 8)Tarifvertrag über zusätzliche Angaben im arbeitnehmerbezogenen Meldeverfahren im Berliner Baugewerbe (TV ZABB) vom 19.Mai 2006
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 395)
 
@@ -18575,8 +18515,7 @@ Die Tarifvertragsparteien verpflichten sich, die Allgemeinverbindlicherklärung 
 
 Dieser Tarifvertrag tritt am 01. Januar 2007, frühestens jedoch mit Beginn seiner Allgemeinverbindlichkeit, in Kraft. Er kann mit einer Frist von 6 Monaten – jeweils zum 31. Dezember, erstmalig zum 31. Dezember 2008 – gekündigt werden.
 
-
-## Anlage 37 – (zu § 10 Absatz 1)
+# Anlage 37 – (zu § 10 Absatz 1)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 396 - 397)
 
@@ -18632,8 +18571,7 @@ wenn im Betrieb oder in der selbständigen Betriebsabteilung kalenderjährlich m
 
 (5) Diese Rechtsnormen erstrecken sich nicht auf Betriebe und selbständige Betriebsabteilungen von Arbeitgebern mit Sitz im Ausland, wenn sie überwiegend Tätigkeiten ausüben, die in den vorstehenden Absätzen oder fachlichen Geltungsbereichen aufgeführt sind, soweit diese Tätigkeiten ein Unterfallen unter den jeweiligen fachlichen Geltungsbereich begründen.
 
-
-## Anhang 1 – (zu Absatz 1 der Anlage 37)
+# Anhang 1 – (zu Absatz 1 der Anlage 37)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 398 - 401)
 
@@ -18906,8 +18844,7 @@ Herstellung von Musikinstrumenten, Sportgeräten, Spiel- und Schmuckwaren;
 
 Für alle außerbetrieblichen Arbeitsstellen (Montagen) der Eisen-, Metall- und Elektroindustrie einschließlich des Fahrleitungs-, Freileitungs-, Ortsnetz- und Kabelbaues mit Ausnahme des Zentralheizungs- und Lüftungsbaues sowie der Arbeitsstellen auf Schiffen auf Fahrt.
 
-
-## Anhang 2 – (zu Absatz 2 der Anlage 37)
+# Anhang 2 – (zu Absatz 2 der Anlage 37)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 402)
 
@@ -18955,8 +18892,7 @@ Allgemeiner Arbeitgeberverband Thüringen e.V., Gruppe Metall- und Elektroindust
 
 AGV Nord – Allgemeiner Verband der Wirtschaft Norddeutschlands e.V., Fachgruppe Metall und Elektro
 
-
-## Anhang 3 – (zu Absatz 4 der Anlage 37)
+# Anhang 3 – (zu Absatz 4 der Anlage 37)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 29 v. 24.5.2017, S. 403 - 404)
 

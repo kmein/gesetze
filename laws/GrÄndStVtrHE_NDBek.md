@@ -1,10 +1,7 @@
-# [GrÄndStVtrHE/NDBek] Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze
-
-Ausfertigungsdatum: 22.07.2011
-
+% Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze
+% Ausfertigungsdatum: 22.07.2011
  
-
-## ----
+# ----
 
 Zwischen dem Land Hessen und dem Land Niedersachsen wurde am 27. Oktober 2010/10. November 2010 ein Staatsvertrag über die Änderung der gemeinsamen Landesgrenze abgeschlossen. Diesem Vertrag haben der Hessische Landtag mit Gesetz vom 9. März 2011 (Gesetz- und Verordnungsblatt für das Land Hessen, Teil I S. 146) und der Niedersächsische Landtag mit Gesetz vom 13. April 2011 (Niedersächsisches Gesetz- und Verordnungsblatt, S. 100) zugestimmt.
 
@@ -14,7 +11,6 @@ Die in Artikel 1 Absatz 1 des Staatsvertrages genannten Kartenblätter und Flurs
 
 Gemäß § 2 Absatz 3 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Absatz 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) wird der Staatsvertrag nachstehend bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium des Innern

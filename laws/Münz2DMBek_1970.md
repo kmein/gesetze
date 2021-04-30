@@ -1,10 +1,7 @@
-# [Münz2DMBek 1970] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
-
-Ausfertigungsdatum: 10.12.1970
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
+% Ausfertigungsdatum: 10.12.1970
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) gibt der Bund aus Anlaß des 20. Jahrestages der Verkündung des Grundgesetzes nachfolgend beschriebene, für den Zahlungsverkehr bestimmte Bundesmünze im Nennwert von 2 Deutschen Mark heraus. Die Münze wird in hoher Auflage nach und nach geprägt und soll die Max-Planck-Münze zu 2 Deutsche Mark ersetzen, die zu gegebener Zeit außer Kurs gesetzt wird. Mit der Ausgabe der neuen Münze wird demnächst begonnen.
 
@@ -20,13 +17,11 @@ Ausfertigungsdatum: 10.12.1970
 
 (7) Der Entwurf der Münze stammt von Herrn Reinhardt Heinsdorff, Lehen (Württ).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

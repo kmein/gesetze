@@ -1,30 +1,23 @@
-# [HafenSchAusbV] Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
-
-Ausfertigungsdatum: 20.01.2006
-
+% Verordnung über die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
+% Ausfertigungsdatum: 20.01.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Hafenschiffer/Hafenschifferin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -52,23 +45,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 12. Verhalten bei besonderen Umständen, Havarien und Betriebsstörungen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -82,14 +71,12 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 In insgesamt höchstens 120 Minuten soll der Prüfling Aufgaben schriftlich bearbeiten, die sich auf die praktischen Arbeitsaufgaben beziehen. Durch die Durchführung der praktischen Arbeitsaufgaben, deren Dokumentation, das Fachgespräch und die Bearbeitung der schriftlichen Aufgaben soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen sowie Informations- und Kommunikationssysteme nutzen, bei logistischen Prozessen mitwirken, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz, zur Qualitätssicherung und zur Kundenorientierung anwenden sowie seine Vorgehensweise begründen kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens fünf Stunden eine Arbeitsaufgabe, die aus mehreren Teilen bestehen kann, durchführen und mit praxisüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 20 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Führen von Wasserfahrzeugen.  
-Durch die Durchführung der Arbeitsaufgabe, deren Dokumentation und das Fachgespräch soll der Prüfling zeigen, dass er Arbeitsabläufe ziel- und kundenorientiert unter Beachtung wirtschaftlicher, technischer, logistischer und rechtlicher Vorgaben selbstständig planen und durchführen, Arbeitsergebnisse kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen sowie seine Vorgehensweise begründen kann. Des Weiteren soll der Prüfling zeigen, dass er Wasserfahrzeuge los-, festmachen und manövrieren, technische Einrichtungen bedienen, überwachen, pflegen und warten, seemännische Arbeiten ausführen sowie mit Rettungsmitteln und persönlicher Schutzausrüstung umgehen kann. Bei der Erstellung der Arbeitsaufgabe ist der betriebliche Bereich, in dem der Prüfling überwiegend ausgebildet wurde, zu berücksichtigen.
+Führen von Wasserfahrzeugen. Durch die Durchführung der Arbeitsaufgabe, deren Dokumentation und das Fachgespräch soll der Prüfling zeigen, dass er Arbeitsabläufe ziel- und kundenorientiert unter Beachtung wirtschaftlicher, technischer, logistischer und rechtlicher Vorgaben selbstständig planen und durchführen, Arbeitsergebnisse kontrollieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen sowie seine Vorgehensweise begründen kann. Des Weiteren soll der Prüfling zeigen, dass er Wasserfahrzeuge los-, festmachen und manövrieren, technische Einrichtungen bedienen, überwachen, pflegen und warten, seemännische Arbeiten ausführen sowie mit Rettungsmitteln und persönlicher Schutzausrüstung umgehen kann. Bei der Erstellung der Arbeitsaufgabe ist der betriebliche Bereich, in dem der Prüfling überwiegend ausgebildet wurde, zu berücksichtigen.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Nautik, Betriebstechnik sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Nautik und Betriebstechnik sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Inhalten zu analysieren, zu bewerten und zu lösen. Dabei sollen Arbeitssicherheit, Gesundheits- und Umweltschutz, Einsatz, Pflege und Wartung von technischen Einrichtungen und Anlagen sowie Kundenorientierung und qualitätssichernde Maßnahmen berücksichtigt werden. Den Prüfungsbereichen sind folgende Gebiete zugrunde zu legen:
 
@@ -147,23 +134,19 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn im praktischen Teil der Prüfung und im schriftlichen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des schriftlichen Teils der Prüfung dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Nichtanwenden von Vorschriften
+# § 10 – Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsausbildungspläne und Prüfungsanforderungen für die Ausbildungsberufe Ewerführer/Ewerführerin und Hafenschiffer/Hafenschifferin sind vorbehaltlich des § 11 nicht mehr anzuwenden.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Hafenschiffer/zur Hafenschifferin
 
 (Fundstelle: BGBl. I 2006, 209 - 212)
 

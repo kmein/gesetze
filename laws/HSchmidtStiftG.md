@@ -1,20 +1,15 @@
-# [HSchmidtStiftG] Gesetz über die Errichtung einer Bundeskanzler-Helmut-Schmidt-Stiftung
-
-Ausfertigungsdatum: 13.10.2016
-
+% Gesetz über die Errichtung einer Bundeskanzler-Helmut-Schmidt-Stiftung
+% Ausfertigungsdatum: 13.10.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## § 1 – Rechtsform der Stiftung
+# § 1 – Rechtsform der Stiftung
 
 Unter dem Namen „Bundeskanzler-Helmut-Schmidt-Stiftung“ wird mit Sitz in Hamburg eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist es, das Andenken an das politische Wirken Helmut Schmidts für Freiheit und Einheit des deutschen Volkes, für den Frieden und die Einigung Europas sowie für die Verständigung und Versöhnung unter den Völkern zu wahren und so in seinem Sinne
 
@@ -38,8 +33,7 @@ Unter dem Namen „Bundeskanzler-Helmut-Schmidt-Stiftung“ wird mit Sitz in Ham
 
 (3) Der Erfüllung des Stiftungszwecks dienen auch die Pflege und Auswertung des bestehenden Archivs Helmut Schmidt im Haus der Eheleute Schmidt in Hamburg-Langenhorn sowie die Schaffung der Voraussetzungen seiner öffentlichen Nutzung. In Archivfragen arbeitet die Stiftung mit der Friedrich-Ebert-Stiftung e. V. und dem Bundesarchiv zusammen.
 
-
-## § 3 – Stiftungsvermögen
+# § 3 – Stiftungsvermögen
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland für Zwecke der Stiftung erwirbt.
 
@@ -49,13 +43,11 @@ Unter dem Namen „Bundeskanzler-Helmut-Schmidt-Stiftung“ wird mit Sitz in Ham
 
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur im Sinne des Stiftungszwecks zu verwenden.
 
-
-## § 4 – Satzung
+# § 4 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde bedarf. Das Gleiche gilt für die Änderung der Satzung.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -63,8 +55,7 @@ Organe der Stiftung sind
 
 2. der Vorstand.
 
-
-## § 6 – Kuratorium
+# § 6 – Kuratorium
 
 (1) Das Kuratorium besteht aus sechs Mitgliedern, die von der Bundespräsidentin oder vom Bundespräsidenten für die Dauer von fünf Jahren bestellt werden.
 
@@ -76,8 +67,7 @@ Organe der Stiftung sind
 
 (5) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören. Es überwacht die Tätigkeit des Vorstands. Das Nähere regelt die Satzung.
 
-
-## § 7 – Vorstand
+# § 7 – Vorstand
 
 (1) Der Vorstand besteht aus drei Mitgliedern, sie werden vom Kuratorium mit einer Mehrheit von zwei Dritteln seiner Mitglieder bestellt.
 
@@ -91,8 +81,7 @@ Organe der Stiftung sind
 
 (6) Das Nähere regelt die Satzung.
 
-
-## § 8 – Internationaler Beirat
+# § 8 – Internationaler Beirat
 
 (1) Zur Beratung des Kuratoriums und des Vorstands bei der Erfüllung des Stiftungszwecks kann ein Internationaler Beirat berufen werden. Die Mitglieder des Beirats sind ehrenamtlich tätig.
 
@@ -100,13 +89,11 @@ Organe der Stiftung sind
 
 (3) Die Mitglieder des Beirats wählen aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden. Die oder der Vorsitzende beruft die Beiratssitzungen im Einvernehmen mit der oder dem Vorsitzenden des Kuratoriums ein und leitet sie.
 
-
-## § 9 – Neben- und ehrenamtliche Tätigkeit
+# § 9 – Neben- und ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des Vorstands sind, soweit sie nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
-
-## § 10 – Aufsicht, Haushalt, Rechtsprüfung
+# § 10 – Aufsicht, Haushalt, Rechtsprüfung
 
 (1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und Medien zuständigen obersten Bundesbehörde. Bei der Erfüllung ihrer Aufgaben wird die Stiftung durch das Bundesarchiv unterstützt; Art und Umfang regelt die für Kultur und Medien zuständige oberste Bundesbehörde im Benehmen mit dem Kuratorium und dem Helmut-Schmidt-Archiv im Archiv der sozialen Demokratie der Friedrich-Ebert-Stiftung e. V..
 
@@ -114,8 +101,7 @@ Die Mitglieder des Kuratoriums und des Vorstands sind, soweit sie nicht nebenamt
 
 § 10 Abs. 1 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde hinter dem Wort "Friedrich-Ebert-Stiftung e.V." ein fehlender Punkt eingefügt
 
-
-## § 11 – Beschäftigte
+# § 11 – Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer wahrgenommen.
 
@@ -123,17 +109,14 @@ Die Mitglieder des Kuratoriums und des Vorstands sind, soweit sie nicht nebenamt
 
 (3) Der Stiftung kann durch Satzungsregelung das Recht, Beamte zu haben, verliehen werden.
 
-
-## § 12 – Gebühren
+# § 12 – Gebühren
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwands nach näherer Bestimmung der Satzung Gebühren und Auslagen für die Benutzung von Stiftungseinrichtungen erheben.
 
-
-## § 13 – Dienstsiegel
+# § 13 – Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2017 in Kraft.

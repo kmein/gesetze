@@ -1,15 +1,11 @@
-# [RDeckInfV] Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder  (Rinder-Deckinfektionen-Verordnung)
-
-Ausfertigungsdatum: 03.06.1975
-
+% Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder  (Rinder-Deckinfektionen-Verordnung)
+% Ausfertigungsdatum: 03.06.1975
  
-
-## § 1
+# § 1
 
 Im Sinne dieser Verordnung sind Deckinfektionen des Rindes die durch den Deckakt oder die künstliche Besamung übertragbaren Geschlechtskrankheiten des Rindes.
 
-
-## § 2
+# § 2
 
 (1) Die Vorschriften des § 2 Abs. 2 bis § 10 gelten nur für
 
@@ -45,8 +41,7 @@ die Auswertung der Besamungsergebnisse auf eine Deckinfektion oder den Verdacht 
 bb)  
 durch Untersuchung bei mindestens einem Rind eine Deckinfektion oder der Verdacht einer Deckinfektion festgestellt worden ist.
 
-
-## § 3
+# § 3
 
 Im Falle des Verdachts auf eine Deckinfektion hat der Tierhalter
 
@@ -70,26 +65,21 @@ d) die zur Samengewinnung benutzten Gerätschaften gereinigt und desinfiziert we
 
 e) bereits gewonnener Samen bis zu dem Zeitpunkt, in dem sich der Verdacht auf eine Deckinfektion als unbegründet erwiesen hat, nicht verwendet wird.
 
-
-## § 4
+# § 4
 
 Ist der Ausbruch einer Deckinfektion amtlich festgestellt, gilt § 3 Nr. 1 bis 3 Buchstabe a bis d entsprechend. Über Satz 1 hinaus hat der Tierhalter sicherzustellen, dass Samen seuchenkranker Bullen, der nach der letzten Untersuchung auf Erreger der Deckinfektionen mit negativem Ergebnis im Betrieb entnommen worden ist, unverzüglich unschädlich beseitigt wird.
 
+# §§ 5 und 6 – (weggefallen)
 
-## §§ 5 und 6 – (weggefallen)
-
-
-## § 7
+# § 7
 
 Die zuständige Behörde kann anordnen, dass der Tierhalter eines Rinderbestandes, in dem eine Deckinfektion oder der Verdacht einer Deckinfektion amtlich festgestellt ist, Rinder seines Bestandes durch einen Tierarzt behandeln zu lassen hat.
 
-
-## § 8
+# § 8
 
 Ansteckungsverdächtige Rinder, die sich in nicht gesperrten Gehöften oder sonstigen Standorten befinden, unterliegen bis zur amtlichen Feststellung der Unverdächtigkeit (§ 10 Abs. 4) der behördlichen Beobachtung. Während dieses Zeitraumes dürfen diese Rinder aus dem Gehöft oder sonstigen Standort nur mit Genehmigung der zuständigen Behörde entfernt, nur künstlich besamt und Bullen nicht zum Decken verwendet werden.
 
-
-## § 9
+# § 9
 
 Nach näherer Anweisung des beamteten Tierarztes sind
 
@@ -101,8 +91,7 @@ Nach näherer Anweisung des beamteten Tierarztes sind
 
 zu reinigen und zu desinfizieren.
 
-
-## § 10
+# § 10
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Deckinfektion erloschen ist oder der Verdacht auf eine Deckinfektion sich als unbegründet erwiesen hat.
 
@@ -132,18 +121,15 @@ b) bei einer klinischen Untersuchung Anzeichen, die das Vorliegen einer Deckinfe
 
 c) während des Zeitraumes der Untersuchung der Bulle abgesondert von weiblichen Tieren gehalten wurde.
 
-
-## § 11
+# § 11
 
 Werden bei Rindern durch klinische, bakteriologische, virologische oder serologische Untersuchungsverfahren andere als in § 2 Abs. 1 genannte Deckinfektionen festgestellt, kann die zuständige Behörde die sinngemäße Anwendung der in den §§ 3 bis 9 enthaltenen Maßregeln anordnen, sofern zu befürchten ist, dass diese Seuchen sich ausgebreitet haben.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13
+# § 13
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -157,7 +143,6 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 5. einer mit einer Genehmigung nach § 8 Satz 2 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 14
+# § 14
 
 (Inkrafttreten)

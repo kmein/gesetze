@@ -1,15 +1,11 @@
-# [SchwPestMonV] Verordnung zur Durchführung eines Monitorings auf das Virus der Klassischen und der Afrikanischen Schweinepest bei Wild- und Hausschweinen  (Schweinepest-Monitoring-Verordnung - SchwPestMonV)
-
-Ausfertigungsdatum: 09.11.2016
-
+% Verordnung zur Durchführung eines Monitorings auf das Virus der Klassischen und der Afrikanischen Schweinepest bei Wild- und Hausschweinen  (Schweinepest-Monitoring-Verordnung - SchwPestMonV)
+% Ausfertigungsdatum: 09.11.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Absatz 2 des Tiergesundheitsgesetzes vom 22. Mai 2013 (BGBl. I S. 1324) verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Monitoring
+# § 1 – Monitoring
 
 (1) Die Länder führen jährlich ein Monitoring zur Früherkennung
 
@@ -47,8 +43,7 @@ zu untersuchen.
 
 (4) Für die nach Absatz 1 Nummer 2 durchzuführenden Monitoringuntersuchungen bestimmt sich die Gesamtzahl der im jeweiligen Land mindestens zu untersuchenden Proben nach der Anlage.
 
-
-## § 2 – Duldungs- und Mitwirkungspflichten
+# § 2 – Duldungs- und Mitwirkungspflichten
 
 Jagdausübungsberechtigte haben nach näherer Anweisung der zuständigen Behörde
 
@@ -80,27 +75,22 @@ c) den festgestellten Auffälligkeiten
 
 mitzuteilen.
 
-
-## § 3 – Mitteilungen der Länder
+# § 3 – Mitteilungen der Länder
 
 Die Länder übermitteln dem Bundesministerium für Ernährung und Landwirtschaft jährlich bis zum 30. März des Folgejahres die Anzahl der im Rahmen des jeweiligen Monitorings untersuchten Tiere für das zurückliegende Kalenderjahr.
 
-
-## § 4 – Weitergehende Maßnahmen
+# § 4 – Weitergehende Maßnahmen
 
 Diese Verordnung steht der Befugnis der zuständigen Behörden, nach § 38 Absatz 11 in Verbindung mit § 10 des Tiergesundheitsgesetzes weitergehende Anordnungen zu Umfang und Methodik der Untersuchungen zur Erkennung der Afrikanischen Schweinepest oder Klassischen Schweinepest zu treffen, nicht entgegen.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1 Absatz 4)Probenschlüssel für die nach § 1 Absatz 1 Nummer 2 durchzuführenden Untersuchungen auf das Virus der Klassischen Schweinepest
+# Anlage – (zu § 1 Absatz 4)Probenschlüssel für die nach § 1 Absatz 1 Nummer 2 durchzuführenden Untersuchungen auf das Virus der Klassischen Schweinepest
 
 (Fundstelle: BGBl. I 2016, 2520)

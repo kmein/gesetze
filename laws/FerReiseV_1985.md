@@ -1,15 +1,11 @@
-# [FerReiseV 1985] Verordnung zur Erleichterung des Ferienreiseverkehrs auf der Straße  (Ferienreiseverordnung)
-
-Ausfertigungsdatum: 13.05.1985
-
+% Verordnung zur Erleichterung des Ferienreiseverkehrs auf der Straße  (Ferienreiseverordnung)
+% Ausfertigungsdatum: 13.05.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, der zuletzt durch das Gesetz von 6. April 1980 (BGBl. I S. 413) geändert worden ist, wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 (1) Lastkraftwagen mit einer zulässigen Gesamtmasse über 7,5 Tonnen sowie Lastkraftwagen mit Anhänger dürfen zur geschäftsmäßigen oder entgeltlichen Beförderung von Gütern einschließlich damit verbundener Leerfahrten auf den in Absatz 2 genannten Autobahnen (Zeichen 330.1 der Straßenverkehrs-Ordnung) und den in Absatz 3 genannten Bundesstraßen an allen Samstagen vom 1. Juli bis einschließlich 31. August eines Jahres jeweils in der Zeit von 7.00 Uhr bis 20.00 Uhr nicht geführt werden.
 
@@ -48,8 +44,7 @@ Auf Grund des § 6 Abs. 1 Nr. 3 des Straßenverkehrsgesetzes in der im Bundesges
 |    1     |     B 31     | von Anschlussstelle Stockach-Ost der A 98 bis Anschlussstelle Sigmarszell der A 96 |
 |    2     |  B 96/E 251  |                         Neubrandenburger Ring bis Berlin.                          |
 
-
-## § 2
+# § 2
 
 (1) § 1 gilt nicht für Fahrzeuge
 
@@ -75,15 +70,13 @@ mitzuführen und auf Verlangen den zur Überwachung zuständigen Personen zur Pr
 
 (3) Die Befreiungen nach Absatz 1 dürfen nur unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung in Anspruch genommen werden.
 
-
-## § 3
+# § 3
 
 (1) § 1 gilt ferner nicht für
 
 1. kombinierten Güterverkehr Schiene-Straße vom Versender bis zum nächstgelegenen Verladebahnhof oder vom nächstgelegenen Entladebahnhof bis zum Empfänger,
 
-1a.  
-kombinierten Güterverkehr Hafen-Straße zwischen Belade- oder Entladestelle und einem innerhalb eines Umkreises von höchstens 150 Kilometern gelegenen Hafen (An- oder Abfuhr),
+1a. kombinierten Güterverkehr Hafen-Straße zwischen Belade- oder Entladestelle und einem innerhalb eines Umkreises von höchstens 150 Kilometern gelegenen Hafen (An- oder Abfuhr),
 
 2. Beförderungen von
 
@@ -105,8 +98,7 @@ d) leichtverderblichem Obst und Gemüse,
 
 (2) Für alle geladenen Güter sind die vorgeschriebenen Fracht- oder Begleitpapiere mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
 
-
-## § 4
+# § 4
 
 (1) Die Straßenverkehrsbehörden können Ausnahmen vom Verbot des § 1 in dringenden Fällen genehmigen, wenn eine Beförderung mit anderen Verkehrsmitteln nicht möglich ist.
 
@@ -116,8 +108,7 @@ d) leichtverderblichem Obst und Gemüse,
 
 (4) Die Ausnahmegenehmigung ist schriftlich zu erteilen. Der Bescheid über die Erteilung der Ausnahmegenehmigung ist mitzuführen und auf Verlangen zuständigen Personen zur Prüfung auszuhändigen.
 
-
-## § 5
+# § 5
 
 Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -125,15 +116,12 @@ Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vors
 
 2. entgegen § 2 Abs. 2 einen Leistungsbescheid oder einen Verpflichtungsbescheid oder entgegen § 3 Abs. 2 vorgeschriebene Fracht- oder Begleitpapiere oder entgegen § 4 Abs. 4 Satz 2 die Ausnahmegenehmigung nicht mitführt oder zuständigen Personen auf Verlangen zur Prüfung nicht aushändigt.
 
+# § 6 – (weggefallen)
 
-## § 6 – (weggefallen)
-
-
-## § 7
+# § 7
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

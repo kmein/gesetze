@@ -1,15 +1,11 @@
-# [FremdSprPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fremdsprachenkorrespondent/Geprüfte Fremdsprachenkorrespondentin
-
-Ausfertigungsdatum: 23.12.1999
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fremdsprachenkorrespondent/Geprüfte Fremdsprachenkorrespondentin
+% Ausfertigungsdatum: 23.12.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung
+# § 1 – Ziel der Prüfung
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Fremdsprachenkorrespondenten erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
@@ -23,8 +19,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß Geprüfter Fremdsprachenkorrespondent/Geprüfte Fremdsprachenkorrespondentin.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen,
 
@@ -38,8 +33,7 @@ oder
 
 (3) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die eine Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche
 
@@ -71,8 +65,7 @@ Die Kommunikationssituationen sind auf der Grundlage kaufmännischer und interku
 
 (4) Die Prüfung im Handlungsbereich "Mündliche Kommunikation" ist erst nach erfolgreichem Abschluss der Prüfung in den Handlungsbereichen "Übersetzung" und "Korrespondenz" durchzuführen.
 
-
-## § 4 – Prüfungsanforderungen
+# § 4 – Prüfungsanforderungen
 
 (1) Im Handlungsbereich "Übersetzung" ist zu prüfen in den Qualifikationsschwerpunkten:  
 
@@ -126,25 +119,21 @@ Schriftliche Zusammenfassung in der deutschen Sprache (Hauptsprache) einer einfa
 
 Die Prüfung im Handlungsbereich "Mündliche Kommunikation" soll insgesamt (einschließlich Vorbereitung) nicht länger als 30 Minuten dauern.
 
-
-## § 5 – Prüfung in zwei Fremdsprachen
+# § 5 – Prüfung in zwei Fremdsprachen
 
 (1) Die zuständige Stelle kann die Prüfung auch in zwei Fremdsprachen durchführen. In diesem Fall ist der Prüfungsteilnehmer in den Handlungsbereichen gemäß § 4 Abs. 1 und 3 in einem Qualifikationsschwerpunkt seiner Wahl in der ersten Fremdsprache und in dem anderen Qualifikationsschwerpunkt in der zweiten Fremdsprache zu prüfen. Im Handlungsbereich gemäß § 4 Abs. 2 sind alle Qualifikationsschwerpunkte in beiden Fremdsprachen zu prüfen.
 
 (2) Die Durchführung der Prüfung in der jeweiligen Fremdsprache obliegt dem für diese Sprache errichteten Prüfungsausschuss. Es können auch doppelfremdsprachliche Prüfungsausschüsse errichtet werden.
 
-
-## § 6 – Deutsch als Fremdsprache
+# § 6 – Deutsch als Fremdsprache
 
 Prüfungsteilnehmer, deren Hauptsprache nicht Deutsch ist, können in Deutsch als Fremdsprache geprüft werden. Eine Prüfung in zwei Fremdsprachen gemäß § 5 ist dann nicht möglich.
 
-
-## § 7 – Anrechnung anderer Prüfungsleistungen
+# § 7 – Anrechnung anderer Prüfungsleistungen
 
 Von der Prüfung in einzelnen Handlungsbereichen und Qualifikationsschwerpunkten gemäß § 4 ist der Prüfungsteilnehmer auf Antrag freizustellen, wenn er vor einer zuständigen Stelle, einer öffentlich-rechtlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung in den letzten fünf Jahren vor Antragstellung bestanden hat, die den Anforderungen dieser Handlungsbereiche oder Qualifikationsschwerpunkte entspricht. Eine vollständige Freistellung ist nicht möglich.
 
-
-## § 8 – Bestehen der Prüfung
+# § 8 – Bestehen der Prüfung
 
 (1) Die Qualifikationsschwerpunkte in den einzelnen Handlungsbereichen sind gesondert zu bewerten. Aus der Bewertung der jeweiligen Qualifikationsschwerpunkte ist der Durchschnittswert für eine Benotung des Handlungsbereiches zu bilden. Bei der Bewertung ist die in den Anlagen aufgeführte Punktebewertungsskala zu verwenden. Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in allen Qualifikationsschwerpunkten gemäß § 4 wenigstens ausreichende Leistungen erzielt hat.
 
@@ -152,8 +141,7 @@ Von der Prüfung in einzelnen Handlungsbereichen und Qualifikationsschwerpunkten
 
 (3) Falls für eine Prüfung in zwei Fremdsprachen kein doppelfremdsprachlicher Prüfungsausschuss errichtet wurde, stellt der für die jeweilige Fremdsprache errichtete Prüfungsausschuss die Prüfungsleistungen in dieser Fremdsprache fest. Das Zeugnis wird von den Vorsitzenden beider Prüfungsausschüsse unterschrieben.
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Eine schriftliche Prüfung in den Handlungsbereichen gemäß § 3 Abs. 1 Nr. 1 und 2, die nicht bestanden ist, kann insgesamt zweimal wiederholt werden. Eine mündliche Prüfung im Handlungsbereich gemäß § 3 Abs. 1 Nr. 3, die nicht bestanden ist, kann zweimal wiederholt werden.
 
@@ -161,20 +149,17 @@ Von der Prüfung in einzelnen Handlungsbereichen und Qualifikationsschwerpunkten
 
 (3) In der Wiederholungsprüfung ist der Prüfungsteilnehmer von der Prüfung in einzelnen Handlungsbereichen und Qualifikationsschwerpunkten zu befreien, wenn er mit seinen Leistungen darin in einer vorangegangenen Prüfung mindestens ausreichende Leistungen erzielt hat und er sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der Prüfungsteilnehmer kann beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In diesem Fall gilt das letzte Ergebnis.
 
-
-## § 10 – Übergangsvorschriften
+# § 10 – Übergangsvorschriften
 
 (1) Mit dem Inkrafttreten dieser Verordnung treten die Rechtsvorschriften der zuständigen Stellen über die Prüfung zum Fremdsprachenkorrespondenten, zum Fremdsprachlichen Korrespondenten, zum Fremdsprachlichen Wirtschaftskorrespondent und zum Fremdsprachenkundigen Korrespondenten außer Kraft.
 
 (2) Begonnene Prüfungsverfahren können nach den bisher geltenden Regelungen zu Ende geführt werden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2000 in Kraft.
 
-
-## Anlage 1 – (zu § 8 Abs. 2)
+# Anlage 1 – (zu § 8 Abs. 2)
 
 (Fundstelle: BGBl. I 2000, 14)
 
@@ -240,8 +225,7 @@ Diese Verordnung tritt am 1. Mai 2000 in Kraft.
        Note 4 = ausreichend; unter 50-30 Punkte = Note 5 = mangelhaft;
        unter 30-0 Punkte = Note 6 = ungenügend. 
 
-
-## Anlage 2 – (zu § 8 Abs. 2)
+# Anlage 2 – (zu § 8 Abs. 2)
 
 (Fundstelle: BGBl. I 2000, 13)
 

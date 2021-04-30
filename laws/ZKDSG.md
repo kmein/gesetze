@@ -1,15 +1,11 @@
-# [ZKDSG] Gesetz über den Schutz von zugangskontrollierten Diensten und von Zugangskontrolldiensten  (Zugangskontrolldiensteschutz-Gesetz - ZKDSG)
-
-Ausfertigungsdatum: 19.03.2002
-
+% Gesetz über den Schutz von zugangskontrollierten Diensten und von Zugangskontrolldiensten  (Zugangskontrolldiensteschutz-Gesetz - ZKDSG)
+% Ausfertigungsdatum: 19.03.2002
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck des Gesetzes ist es, Zugangskontrolldienste gegen unerlaubte Eingriffe zu schützen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bezeichnet der Ausdruck
 
@@ -27,8 +23,7 @@ die unter der Voraussetzung eines Entgelts erbracht werden und nur unter Verwend
 
 4. "Absatzförderung" jede Form der unmittelbaren oder mittelbaren Förderung des Absatzes von Waren, Dienstleistungen oder des Erscheinungsbilds eines Unternehmens, einer sonstigen Organisation oder einer natürlichen Person, die eine Tätigkeit im Handel, Gewerbe oder Handwerk oder einen freien Beruf ausübt.
 
-
-## § 3 – Verbot von gewerbsmäßigen Eingriffen zur Umgehung von Zugangskontrolldiensten
+# § 3 – Verbot von gewerbsmäßigen Eingriffen zur Umgehung von Zugangskontrolldiensten
 
 Verboten sind
 
@@ -38,24 +33,20 @@ Verboten sind
 
 3. die Absatzförderung von Umgehungsvorrichtungen.
 
-
-## § 4 – Strafvorschriften
+# § 4 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer entgegen § 3 Nr. 1 eine Umgehungsvorrichtung herstellt, einführt oder verbreitet.
 
-
-## § 5 – Bußgeldvorschriften
+# § 5 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 3 Nr. 2 eine Umgehungsvorrichtung besitzt, technisch einrichtet, wartet oder austauscht.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 6 – Einziehung
+# § 6 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können eingezogen werden.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

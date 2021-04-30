@@ -1,30 +1,23 @@
-# [HafenlogAusbV] Verordnung über die Berufsausbildung zur Fachkraft für Hafenlogistik
-
-Ausfertigungsdatum: 20.01.2006
-
+% Verordnung über die Berufsausbildung zur Fachkraft für Hafenlogistik
+% Ausfertigungsdatum: 20.01.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachkraft für Hafenlogistik wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -52,23 +45,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 12. Umgang mit Gefahrgut.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -86,8 +75,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 Der Prüfling soll in insgesamt höchstens 120 Minuten Aufgaben, die sich auf die praktischen Arbeitsaufgaben beziehen, schriftlich bearbeiten. Durch die Durchführung der Prüfung soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel, technische Unterlagen sowie Informations-, Kommunikations- und Dokumentationssysteme nutzen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit und zum Umweltschutz anwenden sowie kundenorientiert handeln kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -149,18 +137,15 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">20 Prozent.</td>
 
 (7) Die Prüfung ist bestanden, wenn im praktischen und schriftlichen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der schriftlichen Prüfungsbereiche müssen mindestens ausreichende Leistungen erbracht worden sein. Des Weiteren darf weder in einer der Arbeitsaufgaben des praktischen Teils noch in dem weiteren schriftlichen Prüfungsbereich eine ungenügende Leistung erbracht worden sein.
 
-
-## § 10 – Bestehende Berufsausbildungsverhältnisse
+# § 10 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Hafenlogistik
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Hafenlogistik
 
 (Fundstelle: BGBl. I 2006, 216 - 219)
 

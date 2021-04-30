@@ -1,10 +1,7 @@
-# [DSLBUmwG] Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft  (DSL Bank-Umwandlungsgesetz - DSLBUmwG)
-
-Ausfertigungsdatum: 16.12.1999
-
+% Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft  (DSL Bank-Umwandlungsgesetz - DSLBUmwG)
+% Ausfertigungsdatum: 16.12.1999
  
-
-## § 1 – Errichtung durch Umwandlung
+# § 1 – Errichtung durch Umwandlung
 
 (1) Die Deutsche Siedlungs- und Landesrentenbank, bundesunmittelbare Anstalt des öffentlichen Rechts, ist mit Ablauf des 31. Dezember 1999 in eine Aktiengesellschaft umgewandelt. Die Vorschriften des Umwandlungsgesetzes sind nicht anzuwenden.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 16.12.1999
 
 (4) Die Aktiengesellschaft ist unter Bezugnahme auf dieses Gesetz in das Handelsregister einzutragen. § 39 des Aktiengesetzes ist anzuwenden.
 
-
-## § 2 – Wirkungen der Umwandlung für die Anteilsinhaber
+# § 2 – Wirkungen der Umwandlung für die Anteilsinhaber
 
 Die Anteilsinhaber der Deutschen Siedlungs- und Landesrentenbank übernehmen das Grundkapital der Aktiengesellschaft in Höhe von 113.750.000 Deutsche Mark, das in 56.875.000 Stückaktien eingeteilt ist. Den Anteilsinhabern steht die folgende Zahl von Aktien zu:
 
@@ -27,32 +23,27 @@ Die Anteilsinhaber der Deutschen Siedlungs- und Landesrentenbank übernehmen das
 
 Ferner steht der Bundesrepublik Deutschland und dem Freistaat Bayern eine Aktie in Bruchteilsgemeinschaft jeweils zur Hälfte zu.
 
-
-## § 3 – Satzung
+# § 3 – Satzung
 
 Die Satzung der Aktiengesellschaft wird im Anhang zu diesem Gesetz festgestellt. Sie kann nach Maßgabe des Aktiengesetzes geändert werden.
 
-
-## § 4 – Vorstand
+# § 4 – Vorstand
 
 (1) Die Vorstandsmitglieder der Deutschen Siedlungs- und Landesrentenbank gelten bis zum Ablauf der Amtszeit, für die sie berufen sind, als bestellt im Sinne des § 84 des Aktiengesetzes. Ihre Abberufung nach § 84 Abs. 3 des Aktiengesetzes ist zulässig.
 
 (2) Bis zur Eintragung in das Handelsregister gelten für die Vorstandsmitglieder die bisherigen Nachweise der Vertretungsbefugnis.
 
-
-## § 5 – Aufsichtsrat
+# § 5 – Aufsichtsrat
 
 (1) Mitglieder des ersten Aufsichtsrats der Aktiengesellschaft sind die Mitglieder des Verwaltungsrats der Deutschen Siedlungs- und Landesrentenbank. Ihre Amtszeit endet mit der Wahl des Aufsichtsrats durch die nach § 6 einzuberufende Hauptversammlung.
 
 (2) Die §§ 95 bis 104 mit Ausnahme des § 103 Abs. 3 Satz 1, 2 und 4 des Aktiengesetzes sowie § 76 des Betriebsverfassungsgesetzes 1952 finden auf den ersten Aufsichtsrat keine Anwendung.
 
-
-## § 6 – Erste Hauptversammlung
+# § 6 – Erste Hauptversammlung
 
 Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 2000 ein. Diese Hauptversammlung wählt zehn Mitglieder des Aufsichtsrats. Zehn weitere Aufsichtsratsmitglieder werden nach den Vorschriften des Mitbestimmungsgesetzes von den Arbeitnehmern gewählt.
 
-
-## § 7 – Ausgabe gedeckter Schuldverschreibungen
+# § 7 – Ausgabe gedeckter Schuldverschreibungen
 
 (1) Die Aktiengesellschaft kann gedeckte Schuldverschreibungen bis zum Fünfzehnfachen des jeweils haftenden Eigenkapitals nach Maßgabe der folgenden Absätze ausgeben.
 
@@ -66,8 +57,7 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 
 (6) § 248 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs findet auch Anwendung, wenn andere Kreditinstitute Darlehen aus dem ihnen zur Verfügung gestellten Erlös der von der Aktiengesellschaft ausgegebenen gedeckten Schuldverschreibungen gewähren.
 
-
-## § 8 – Zwangsvollstreckung und Insolvenz
+# § 8 – Zwangsvollstreckung und Insolvenz
 
 (1) Auf Arreste und Zwangsvollstreckungen in die in das Deckungsregister nach § 7 Abs. 4 eingetragenen Werte ist § 29 des Pfandbriefgesetzes entsprechend anzuwenden.
 
@@ -75,8 +65,7 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 
 (+++ § 8: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
 
-
-## § 9 – Anlagesicherheit, Deckungsstockfähigkeit
+# § 9 – Anlagesicherheit, Deckungsstockfähigkeit
 
 (1) Soweit Unternehmen nach Gesetz oder Satzung Geld in mündelsicheren Werten anzulegen haben, stehen gedeckte Schuldverschreibungen der Aktiengesellschaft, die nicht auf ausländische Zahlungsmittel lauten, diesen Werten gleich.
 
@@ -84,8 +73,7 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 
 (+++ § 9: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
 
-
-## § 10 – Übergangsregelung für Schuldverschreibungen und Geschäfte der Deutschen Siedlungs- und Landesrentenbank sowie ihr gewährte Darlehen
+# § 10 – Übergangsregelung für Schuldverschreibungen und Geschäfte der Deutschen Siedlungs- und Landesrentenbank sowie ihr gewährte Darlehen
 
 (1) Die von der Deutschen Siedlungs- und Landesrentenbank begebenen Pfandbriefe, Kommunalobligationen, Genussscheine, nachrangigen Verbindlichkeiten und sonstigen Schuldverschreibungen gelten nach der Umwandlung als von der Aktiengesellschaft begeben. Die Aktiengesellschaft unterliegt hinsichtlich der von der Deutschen Siedlungs- und Landesrentenbank abgeschlossenen Geschäfte auch nach der Umwandlung den für öffentlich-rechtliche Kreditanstalten geltenden bankrechtlichen Vorschriften.
 
@@ -97,13 +85,11 @@ Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31. März 200
 
 (+++ § 10: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
 
-
-## § 11 – Haftung des Bundes für Altverbindlichkeiten
+# § 11 – Haftung des Bundes für Altverbindlichkeiten
 
 Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen Siedlungs- und Landesrentenbank, soweit diese vor Eintragung der Aktiengesellschaft in das Handelsregister begründet worden sind. Die Gläubiger der Aktiengesellschaft können den Bund nur in Anspruch nehmen, soweit sie aus dem Vermögen der Aktiengesellschaft nicht befriedigt werden können.
 
-
-## § 12 – Regelungen für betriebliche Interessenvertretungen sowie sonstige Übergangsregelungen
+# § 12 – Regelungen für betriebliche Interessenvertretungen sowie sonstige Übergangsregelungen
 
 (1) Die Aufgaben des Betriebsrates in den Betrieben und Betriebsteilen der Aktiengesellschaft nimmt der bisherige Personalrat übergangsweise wahr. Das Übergangsmandat endet, sobald ein Betriebsrat gewählt und das Wahlergebnis bekannt gegeben ist, spätestens jedoch am 30. Juni 2000. Die vorstehenden Sätze gelten für die Jugend- und Auszubildendenvertretungen und die Schwerbehindertenvertretung der Deutschen Siedlungs- und Landesrentenbank entsprechend.
 
@@ -115,8 +101,7 @@ Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen Siedlung
 
 (5) Auf den Jahresabschluss und den Konzernabschluss für das Geschäftsjahr 1999 sind die für die Deutsche Siedlungs- und Landesrentenbank vor der Umwandlung geltenden Vorschriften anzuwenden.
 
-
-## § 13 – Weiterführung des Förderauftrags und Verwaltung des Zweckvermögens
+# § 13 – Weiterführung des Förderauftrags und Verwaltung des Zweckvermögens
 
 (1) Die Aktiengesellschaft hat anstelle der Deutschen Siedlungs- und Landesrentenbank im öffentlichen Auftrag gegen angemessenes Entgelt Maßnahmen zur Strukturverbesserung des ländlichen Raums einschließlich der ländlichen Siedlung zur Verbesserung der Infrastruktur und des Umweltschutzes sowie zur Eingliederung der aus der Landwirtschaft stammenden Vertriebenen, Flüchtlinge und Spätaussiedler zu fördern.
 
@@ -126,15 +111,13 @@ Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen Siedlung
 
 (+++ § 13: Zur Anwendung vgl. § 14 Abs. 2 Satz 2 F. vom 14.07.2018 +++)
 
-
-## § 14 – Verschmelzung der Aktiengesellschaft
+# § 14 – Verschmelzung der Aktiengesellschaft
 
 (1) Für den Fall der Verschmelzung der Aktiengesellschaft gilt für die Anwendung des § 67 des Umwandlungsgesetzes die Aktiengesellschaft als seit dem 14. September 1989 in das Register eingetragener Rechtsträger.
 
 (2) Ist die Aktiengesellschaft im Fall der Verschmelzung nicht übernehmender Rechtsträger, sind die Vorschriften der §§ 7 bis 9 über die Ausgabe gedeckter Schuldverschreibungen sowie die §§ 10 und 13 auf den übernehmenden Rechtsträger entsprechend anzuwenden. Im Fall jeder weiteren Verschmelzung eines Rechtsnachfolgers der Aktiengesellschaft sind die Vorschriften des § 7 Absatz 2 bis 6 und der §§ 8 bis 10 und 13 auf den jeweiligen übernehmenden Rechtsträger entsprechend anzuwenden.
 
-
-## § 15 – Inkrafttreten, Außerkrafttreten
+# § 15 – Inkrafttreten, Außerkrafttreten
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

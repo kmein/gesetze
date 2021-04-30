@@ -1,10 +1,7 @@
-# [Münz100EuroBek 2008] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Altstadt Goslar – Bergwerk Rammelsberg“)
-
-Ausfertigungsdatum: 25.08.2008
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Altstadt Goslar – Bergwerk Rammelsberg“)
+% Ausfertigungsdatum: 25.08.2008
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum Thema „UNESCO Welterbe – Altstadt Goslar – Bergwerk Rammelsberg“ eine Gedenkmünze zu 100 Euro aus Gold prägen zu lassen.
 
@@ -18,10 +15,8 @@ Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“
 
 Der Entwurf der Münze stammt von Herrn Wolfgang Th. Doehm, Stuttgart.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----

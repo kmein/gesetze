@@ -1,5 +1,3 @@
-# [PostPakÜbkVollzOSchlProt] Schlußprotokoll zur Vollzugsordnung zum Postpaketübereinkommen
-
-Ausfertigungsdatum: 16.02.1995
-
+% Schlußprotokoll zur Vollzugsordnung zum Postpaketübereinkommen
+% Ausfertigungsdatum: 16.02.1995
  

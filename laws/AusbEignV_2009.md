@@ -1,20 +1,15 @@
-# [AusbEignV 2009] Ausbilder-Eignungsverordnung
-
-Ausfertigungsdatum: 21.01.2009
-
+% Ausbilder-Eignungsverordnung
+% Ausfertigungsdatum: 21.01.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30 Absatz 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Ausbilder und Ausbilderinnen haben für die Ausbildung in anerkannten Ausbildungsberufen nach dem Berufsbildungsgesetz den Erwerb der berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach dieser Verordnung nachzuweisen. Dies gilt nicht für die Ausbildung im Bereich der Angehörigen der freien Berufe.
 
-
-## § 2 – Berufs- und arbeitspädagogische Eignung
+# § 2 – Berufs- und arbeitspädagogische Eignung
 
 Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstständigen Planen, Durchführen und Kontrollieren der Berufsausbildung in den Handlungsfeldern:
 
@@ -26,8 +21,7 @@ Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstst�
 
 4. Ausbildung abschließen.
 
-
-## § 3 – Handlungsfelder
+# § 3 – Handlungsfelder
 
 (1) Das Handlungsfeld nach § 2 Nummer 1 umfasst die berufs- und arbeitspädagogische Eignung, Ausbildungsvoraussetzungen zu prüfen und Ausbildung zu planen. Die Ausbilder und Ausbilderinnen sind dabei in der Lage,
 
@@ -89,8 +83,7 @@ Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstst�
 
 4. Auszubildende über betriebliche Entwicklungswege und berufliche Weiterbildungsmöglichkeiten zu informieren und zu beraten.
 
-
-## § 4 – Nachweis der Eignung
+# § 4 – Nachweis der Eignung
 
 (1) Die Eignung nach § 2 ist in einer Prüfung nachzuweisen. Die Prüfung besteht aus einem schriftlichen und einem praktischen Teil. Die Prüfung ist bestanden, wenn jeder Prüfungsteil mit mindestens „ausreichend“ bewertet wurde. Innerhalb eines Prüfungsverfahrens kann eine nicht bestandene Prüfung zweimal wiederholt werden. Ein bestandener Prüfungsteil kann dabei angerechnet werden.
 
@@ -102,13 +95,11 @@ Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstst�
 
 (5) Für die Abnahme der Prüfung errichtet die zuständige Stelle einen Prüfungsausschuss. § 37 Absatz 2 und 3, § 39 Absatz 1 Satz 2, die §§ 40 bis 42, 46 und 47 des Berufsbildungsgesetzes gelten entsprechend.
 
-
-## § 5 – Zeugnis
+# § 5 – Zeugnis
 
 Über die bestandene Prüfung ist jeweils ein Zeugnis nach den Anlagen 1 und 2 auszustellen.
 
-
-## § 6 – Andere Nachweise
+# § 6 – Andere Nachweise
 
 (1) Wer die Prüfung nach einer vor Inkrafttreten dieser Verordnung geltenden Ausbilder-Eignungsverordnung bestanden hat, die auf Grund des Berufsbildungsgesetzes erlassen worden ist, gilt für die Berufsausbildung als im Sinne dieser Verordnung berufs- und arbeitspädagogisch geeignet.
 
@@ -118,23 +109,19 @@ Die berufs- und arbeitspädagogische Eignung umfasst die Kompetenz zum selbstst�
 
 (4) Die zuständige Stelle kann von der Vorlage des Nachweises über den Erwerb der berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten auf Antrag befreien, wenn das Vorliegen berufs- und arbeitspädagogischer Eignung auf andere Weise glaubhaft gemacht wird und die ordnungsgemäße Ausbildung sichergestellt ist. Die zuständige Stelle kann Auflagen erteilen. Auf Antrag erteilt die zuständige Stelle hierüber eine Bescheinigung.
 
-
-## § 7 – Fortführen der Ausbildertätigkeit
+# § 7 – Fortführen der Ausbildertätigkeit
 
 Wer vor dem 1. August 2009 als Ausbilder im Sinne des § 28 Absatz 1 Satz 2 des Berufsbildungsgesetzes tätig war, ist vom Nachweis nach den §§ 5 und 6 dieser Verordnung befreit, es sei denn, dass die bisherige Ausbildertätigkeit zu Beanstandungen mit einer Aufforderung zur Mängelbeseitigung durch die zuständige Stelle geführt hat. Sind nach Aufforderung die Mängel beseitigt worden und Gefährdungen für eine ordnungsgemäße Ausbildung nicht zu erwarten, kann die zuständige Stelle vom Nachweis nach den §§ 5 und 6 befreien; sie kann dabei Auflagen erteilen.
 
-
-## § 8 – Übergangsregelung
+# § 8 – Übergangsregelung
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 31. Juli 2010 nach den bisherigen Vorschriften zu Ende geführt werden. Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin die Wiederholungsprüfung nach dieser Verordnung durchführen; § 4 Absatz 1 Satz 5 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. April 2010 die Anwendung der bisherigen Vorschriften beantragt werden.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Muster
+# Anlage 1 – (zu § 5)Muster
 
 ( Fundstelle: BGBl. I 2009, 91 )
 
@@ -142,8 +129,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 (Siegel der zuständigen Stelle)
 
-
-## Anlage 2 – (zu § 5)Muster
+# Anlage 2 – (zu § 5)Muster
 
 ( Fundstelle: BGBl. I 2009, 92 )
 

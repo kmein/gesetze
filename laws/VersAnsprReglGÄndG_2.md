@@ -1,15 +1,11 @@
-# [VersAnsprReglGÄndG 2] Zweites Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen
-
-Ausfertigungsdatum: 25.05.1964
-
+% Zweites Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen
+% Ausfertigungsdatum: 25.05.1964
  
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
+# Art 2
 
 (1) § 11 des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen in der Fassung vom 15. Juli 1959 bleibt auf Verbindlichkeiten aus Renten- und Pensionsversicherungsverhältnissen anwendbar, wenn der Anspruchsberechtigte vor Inkrafttreten dieses Gesetzes die Voraussetzungen der §§ 2 bis 4 des obenbezeichneten Gesetzes in der Fassung vom 15. Juli 1959 erfüllt hatte und den Anspruch hätte geltend machen können.
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 25.05.1964
 
 (3) Soweit Ansprüche aus einem Versicherungsverhältnis erst infolge der Neufassung der §§ 2 und 3 des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen (Artikel 1 Nr. 1 und 2) geltend gemacht werden können, sind die Vorschriften des Artikels 2 Abs. 1 und 2 des Gesetzes zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen vom 6. Juli 1959 (Bundesgesetzbl. I S. 421) entsprechend anzuwenden.
 
-
-## Art 3
+# Art 3
 
 (1) Verpflichtet sich ein Lebensversicherungsunternehmen, die Verbindlichkeiten von Versicherungsunternehmen zu erfüllen, die ihren Sitz in einem Gebiet Deutschlands außerhalb des Geltungsbereichs dieses Gesetzes hatten und nur in Berlin (West) am 1. Februar 1950 eine Verwaltungsstelle besaßen, und übernimmt es gleichzeitig im Geltungsbereich des Gesetzes vorhandene Vermögensgegenstände dieser Unternehmen, so bedarf der Vertrag der Genehmigung des Bundesaufsichtsamts für das Versicherungs- und Bausparwesen. Das Bundesaufsichtsamt erteilt die Genehmigung, wenn dies im Interesse der Versicherungsnehmer geboten erscheint. Der Vertrag braucht nicht gerichtlich oder notariell beurkundet zu werden; Schriftform genügt.
 
@@ -26,17 +21,14 @@ Ausfertigungsdatum: 25.05.1964
 
 (3) Für die in Reichsmark begründeten Verbindlichkeiten aus Versicherungsverhältnissen der in Absatz 1 bezeichneten Versicherungsunternehmen gelten die im Geltungsbereich dieses Gesetzes bestehenden Vorschriften über Versicherungsverhältnisse. Die Verbindlichkeiten sind nach dem Gesetz zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen in der Fassung dieses Gesetzes zu erfüllen. Auf Ansprüche aus Renten- und Pensionsversicherungsverhältnissen ist Artikel 2 Abs. 1 und 2 nur insofern anzuwenden, als diese Ansprüche bereits bei Inkrafttreten dieses Gesetzes geltend gemacht werden konnten.
 
-
-## Art 4
+# Art 4
 
 \-
 
-
-## Art 5
+# Art 5
 
 Dieses Gesetz gilt nach § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## Art 6
+# Art 6
 
 Dieses Gesetz tritt am ersten Tage des auf seine Verkündung folgenden zweiten Monats in Kraft.

@@ -1,15 +1,11 @@
-# [ZStBFDV] Verordnung über die Mindestanforderungen für die Bildung einer Zentralstelle des Bundesfreiwilligendienstes  (Zentralstellenverordnung)
-
-Ausfertigungsdatum: 20.07.2011
-
+% Verordnung über die Mindestanforderungen für die Bildung einer Zentralstelle des Bundesfreiwilligendienstes  (Zentralstellenverordnung)
+% Ausfertigungsdatum: 20.07.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Absatz 1 Satz 3 des Bundesfreiwilligendienstgesetzes vom 28. April 2011 (BGBl. I S. 687) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
-
-## § 1 – Durchführungsumfang
+# § 1 – Durchführungsumfang
 
 (1) Die Mindestanforderungen an eine Zentralstelle des Bundesfreiwilligendienstes erfüllt, wer den Bundesfreiwilligendienst innerhalb der letzten zwölf Monate wie folgt durchgeführt hat:
 
@@ -25,12 +21,10 @@ Auf Grund des § 7 Absatz 1 Satz 3 des Bundesfreiwilligendienstgesetzes vom 28. 
 
 (3) Für den ökologischen und kulturellen Bereich sowie den Bereich des Sports, der Integration und des Zivil- und Katastrophenschutzes erfüllt die Mindestanforderungen an eine Zentralstelle abweichend von den Absätzen 1 und 2 auch, wer den Bundesfreiwilligendienst innerhalb der letzten zwölf Monate in mindestens drei Bundesländern in einem Umfang, der mindestens einem zwölfmonatigen Dienst von 100 Freiwilligen entspricht, durchgeführt hat.
 
-
-## § 2 – Erreichbarkeit
+# § 2 – Erreichbarkeit
 
 Zentralstelle kann nur sein, wer seine Erreichbarkeit sicherstellt. Eine Zentralstelle, die den Anforderungen des § 1 Absatz 1 genügt, muss von Montag bis Freitag mit Ausnahme der Feiertage von 9 Uhr bis 15 Uhr telefonisch erreichbar sein. Eine Zentralstelle, die nur den Anforderungen des § 1 Absatz 2 oder 3 genügt, muss von Montag bis Freitag mit Ausnahme der Feiertage von 9 Uhr bis 12 Uhr telefonisch erreichbar sein.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [StrRehaHomG] Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen  (StrRehaHomG)
-
-Ausfertigungsdatum: 17.07.2017
-
+% Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen  (StrRehaHomG)
+% Ausfertigungsdatum: 17.07.2017
  
-
-## § 1 – Aufhebung von Urteilen
+# § 1 – Aufhebung von Urteilen
 
 (1) Wer wegen einvernehmlicher homosexueller Handlungen als Täter verurteilt wurde, wird rehabilitiert, indem mit diesem Gesetz die strafgerichtlichen Urteile aufgehoben werden, die aufgrund
 
@@ -28,15 +25,13 @@ ergangen sind, es sei denn, den Verurteilungen liegen sexuelle Handlungen mit Pe
 
 (5) Über die Regelungen dieses Gesetzes hinaus entfaltet die Aufhebung der Urteile nach den Absätzen 1 und 2 keine Rechtswirkungen.
 
-
-## § 2 – Teilaufhebung von Urteilen
+# § 2 – Teilaufhebung von Urteilen
 
 (1) Ist ein Urteil auch aufgrund anderer als der in § 1 Absatz 1 genannten Strafvorschriften ergangen, so wird der Teil des Urteils aufgehoben, der auf den in § 1 Absatz 1 genannten Strafvorschriften beruht.
 
 (2) Absatz 1 gilt für strafgerichtliche Unterbringungsanordnungen entsprechend.
 
-
-## § 3 – Feststellung der Aufhebung von Urteilen; Rehabilitierungsbescheinigung
+# § 3 – Feststellung der Aufhebung von Urteilen; Rehabilitierungsbescheinigung
 
 (1) Die Staatsanwaltschaft stellt auf Antrag fest, ob ein Urteil nach § 1 Absatz 1 aufgehoben ist. In den Fällen des § 2 Absatz 1 stellt sie die Teilaufhebung des Urteils und deren Umfang fest. Über die Feststellungen nach den Sätzen 1 und 2 erteilt die Staatsanwaltschaft dem Antragsteller eine Rehabilitierungsbescheinigung.
 
@@ -56,13 +51,11 @@ ergangen sind, es sei denn, den Verurteilungen liegen sexuelle Handlungen mit Pe
 
 (7) Die Absätze 1 bis 6 gelten für strafgerichtliche Unterbringungsanordnungen entsprechend.
 
-
-## § 4 – Tilgung im Bundeszentralregister
+# § 4 – Tilgung im Bundeszentralregister
 
 Eintragungen im Bundeszentralregister über strafgerichtliche Urteile oder Unterbringungsanordnungen, deren vollständige Aufhebung nach § 3 Absatz 1 Satz 1 und Absatz 7 festgestellt wurde, sind auf Antrag des Verurteilten zu tilgen.
 
-
-## § 5 – Entschädigung
+# § 5 – Entschädigung
 
 (1) Der rehabilitierten Person steht nach Aufhebung eines Urteils nach § 1 Absatz 1 und 2 sowie § 2 ein Anspruch auf Entschädigung in Geld aus dem Bundeshaushalt zu.
 
@@ -78,8 +71,7 @@ Eintragungen im Bundeszentralregister über strafgerichtliche Urteile oder Unter
 
 (5) Die Entschädigungen nach den Absätzen 1 bis 3 werden nicht auf Sozialleistungen angerechnet.
 
-
-## § 6 – Entschädigungsverfahren beim Bundesamt für Justiz
+# § 6 – Entschädigungsverfahren beim Bundesamt für Justiz
 
 (1) Der Anspruch auf Entschädigung ist innerhalb von fünf Jahren ab dem 22. Juli 2017 beim Bundesamt für Justiz geltend zu machen. Das Bundesamt für Justiz setzt die Höhe der Entschädigung durch Verwaltungsakt fest.
 
@@ -89,7 +81,6 @@ Eintragungen im Bundeszentralregister über strafgerichtliche Urteile oder Unter
 
 (4) Für das Entschädigungsverfahren beim Bundesamt für Justiz werden keine Kosten erhoben.
 
-
-## § 7 – Rechtsweg
+# § 7 – Rechtsweg
 
 Für den Anspruch auf Entschädigung nach § 5 ist der Verwaltungsrechtsweg gegeben.

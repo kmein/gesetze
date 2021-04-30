@@ -1,10 +1,7 @@
-# [PSA-BV] Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher Schutzausrüstungen bei der Arbeit  (PSA-Benutzungsverordnung - PSA-BV)
-
-Ausfertigungsdatum: 04.12.1996
-
+% Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher Schutzausrüstungen bei der Arbeit  (PSA-Benutzungsverordnung - PSA-BV)
+% Ausfertigungsdatum: 04.12.1996
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Bereitstellung persönlicher Schutzausrüstungen durch Arbeitgeber sowie für die Benutzung persönlicher Schutzausrüstungen durch Beschäftigte bei der Arbeit.
 
@@ -28,8 +25,7 @@ Ausfertigungsdatum: 04.12.1996
 
 (4) Die Verordnung gilt nicht in Betrieben, die dem Bundesberggesetz unterliegen.
 
-
-## § 2 – Bereitstellung und Benutzung
+# § 2 – Bereitstellung und Benutzung
 
 (1) Unbeschadet seiner Pflichten nach den §§ 3, 4 und 5 des Arbeitsschutzgesetzes darf der Arbeitgeber nur persönliche Schutzausrüstungen auswählen und den Beschäftigten bereitstellen, die
 
@@ -47,8 +43,7 @@ Ausfertigungsdatum: 04.12.1996
 
 (4) Durch Wartungs-, Reparatur- und Ersatzmaßnahmen sowie durch ordnungsgemäße Lagerung trägt der Arbeitgeber dafür Sorge, daß die persönlichen Schutzausrüstungen während der gesamten Benutzungsdauer gut funktionieren und sich in einem hygienisch einwandfreien Zustand befinden.
 
-
-## § 3 – Unterweisung
+# § 3 – Unterweisung
 
 (1) Bei der Unterweisung nach § 12 des Arbeitsschutzgesetzes hat der Arbeitgeber die Beschäftigten darin zu unterweisen, wie die persönlichen Schutzausrüstungen sicherheitsgerecht benutzt werden. Soweit erforderlich, führt er eine Schulung in der Benutzung durch.
 

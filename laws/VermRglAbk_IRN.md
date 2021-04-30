@@ -1,5 +1,3 @@
-# [VermRglAbk IRN] Abkommen zwischen der Bundesrepublik Deutschland und dem Kaiserreich Iran über die Liquidation des früheren deutsch-iranischen Verrechnungsverkehrs
-
-Ausfertigungsdatum: 22.12.1959
-
+% Abkommen zwischen der Bundesrepublik Deutschland und dem Kaiserreich Iran über die Liquidation des früheren deutsch-iranischen Verrechnungsverkehrs
+% Ausfertigungsdatum: 22.12.1959
  

@@ -1,15 +1,11 @@
-# [GräbPauschV 2019/2020] Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2019 und 2020  (Gräberpauschalenverordnung 2019/2020 - GräbPauschV 2019/2020)
-
-Ausfertigungsdatum: 15.02.2019
-
+% Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2019 und 2020  (Gräberpauschalenverordnung 2019/2020 - GräbPauschV 2019/2020)
+% Ausfertigungsdatum: 15.02.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Absatz 4 Satz 2 des Gräbergesetzes in der Fassung der Bekanntmachung vom 16. Januar 2012 (BGBl. I S. 98) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Pauschalen
+# § 1 – Pauschalen
 
 Die Pauschalen zur Erstattung der Aufwendungen an die Länder nach § 10 Absatz 4 Satz 1 des Gräbergesetzes betragen für die Haushaltsjahre 2019 und 2020 jeweils:  
   
@@ -33,12 +29,10 @@ Die Pauschalen zur Erstattung der Aufwendungen an die Länder nach § 10 Absatz 
 | Schleswig-Holstein     |   703 416 Euro |
 | Thüringen              |  672 912 Euro. |
 
-
-## § 2 – Inkrafttreten, Außerkrafttreten
+# § 2 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2019 in Kraft. Gleichzeitig tritt die Gräberpauschalenverordnung 2017/2018 vom 7. Dezember 2016 (BGBl. I S. 2854) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

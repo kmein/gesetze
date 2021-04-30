@@ -1,15 +1,11 @@
-# [KlagRegV] Verordnung über das Klageregister nach dem Kapitalanleger-Musterverfahrensgesetz  (Klageregisterverordnung - KlagRegV)
-
-Ausfertigungsdatum: 14.12.2012
-
+% Verordnung über das Klageregister nach dem Kapitalanleger-Musterverfahrensgesetz  (Klageregisterverordnung - KlagRegV)
+% Ausfertigungsdatum: 14.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 5 des Kapitalanleger-Musterverfahrensgesetzes vom 19. Oktober 2012 (BGBl. I S. 2182) verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Inhalt und Aufbau des Klageregisters
+# § 1 – Inhalt und Aufbau des Klageregisters
 
 (1) Bekanntmachungen nach dem Kapitalanleger-Musterverfahrensgesetz sind in den folgenden Rubriken vorzunehmen:
 
@@ -65,8 +61,7 @@ Jede Bekanntmachung muss das Datum ihrer Eintragung in das Klageregister enthalt
 
 4. Aktenzeichen des Prozessgerichts nach § 3 Absatz 2 Nummer 4 des Kapitalanleger-Musterverfahrensgesetzes.
 
-
-## § 2 – Eintragungen
+# § 2 – Eintragungen
 
 (1) Eintragungen in das Klageregister dürfen nur durch die Gerichte und nur in elektronischer Form veranlasst werden. Die Gerichte können mit Ausnahme von Bekanntmachungen nach § 10 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes die Eintragungen durch die Übermittlung einer Datei an den Betreiber des Klageregisters vornehmen. Welche Dateiformate zur Übermittlung zugelassen sind, richtet sich nach den Allgemeinen Geschäftsbedingungen des Betreibers des Klageregisters. Musterverfahrensanträge können auch direkt durch das Gericht mittels eines Formulars eingetragen werden; Bekanntmachungen nach § 10 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes müssen mittels Formular vorgenommen werden. Die Bekanntmachung eines Musterverfahrensantrags soll ohne Berücksichtigung von Leerzeichen insgesamt höchstens 25 000 Zeichen umfassen.
 
@@ -76,8 +71,7 @@ Jede Bekanntmachung muss das Datum ihrer Eintragung in das Klageregister enthalt
 
 (4) Die Eintragung ist kostenpflichtig. Die Höhe des Entgelts richtet sich nach den Allgemeinen Geschäftsbedingungen des Betreibers des Klageregisters.
 
-
-## § 3 – Bekanntmachungen
+# § 3 – Bekanntmachungen
 
 (1) Die Gerichte müssen jederzeit die nach dem Kapitalanleger-Musterverfahrensgesetz erforderlichen öffentlichen Bekanntmachungen in das Klageregister eintragen können.
 
@@ -85,8 +79,7 @@ Jede Bekanntmachung muss das Datum ihrer Eintragung in das Klageregister enthalt
 
 (3) Die Bekanntmachung eines Musterverfahrensantrags muss das Datum seines Eingangs bei Gericht enthalten.
 
-
-## § 4 – Berichtigung, Löschung, Kennzeichnung und Überprüfung
+# § 4 – Berichtigung, Löschung, Kennzeichnung und Überprüfung
 
 (1) Der Betreiber des Klageregisters hat durch organisatorische und technische Vorkehrungen sicherzustellen, dass im Klageregister gespeicherte Daten nur durch das Gericht berichtigt oder gelöscht werden können, das die Eintragung vorgenommen hat. Soweit Daten berichtigt wurden, muss erkennbar sein, dass ein Fall der Berichtigung vorliegt. Die Berichtigung von Daten führt nicht zu einer Veränderung der Eintragungsreihenfolge nach § 4 Absatz 1 des Kapitalanleger-Musterverfahrensgesetzes.
 
@@ -96,8 +89,7 @@ Jede Bekanntmachung muss das Datum ihrer Eintragung in das Klageregister enthalt
 
 (4) Das Gericht, das die Eintragung vorgenommen hat, prüft spätestens nach jeweils drei Monaten, ob die von ihm vorgenommenen Eintragungen noch aktuell sind. Es nimmt die erforderlichen Berichtigungen und Löschungen unter Beachtung der Löschungsfristen nach Absatz 2 unverzüglich vor.
 
-
-## § 5 – Einsichtnahme
+# § 5 – Einsichtnahme
 
 (1) Die Einsichtnahme in das Klageregister erfolgt ausschließlich auf elektronischem Weg; sie ist kostenfrei.
 
@@ -105,21 +97,18 @@ Jede Bekanntmachung muss das Datum ihrer Eintragung in das Klageregister enthalt
 
 (3) Für die Gestaltung des Registers ist die Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung entsprechend anzuwenden.
 
-
-## § 6 – Datensicherheit
+# § 6 – Datensicherheit
 
 (1) Der Betreiber des Klageregisters hat durch organisatorische und technische Vorkehrungen sicherzustellen, dass die von den Gerichten übermittelten Daten während ihrer Bekanntmachung im Klageregister unversehrt und vollständig bleiben.
 
 (2) Der Betreiber des Klageregisters hat durch organisatorische und technische Vorkehrungen sicherzustellen, dass er von auftretenden Fehlfunktionen unverzüglich Kenntnis erlangt, und hat diese unverzüglich zu beheben.
 
-
-## § 7 – Übergangsvorschrift
+# § 7 – Übergangsvorschrift
 
 (1) Vor dem Inkrafttreten dieser Verordnung vorgenommene Eintragungen im Klageregister bleiben bestehen. Das Gericht, das eine Eintragung vorgenommen hatte, prüft, ob die Eintragung zu berichtigen ist, weil eine Vorschrift des Kapitalanleger-Musterverfahrensgesetzes oder dieser Verordnung eine andere Eintragung verlangt. Bereits vorgenommene Eintragungen sind nicht allein deshalb zu berichtigen, weil das Kapitalanleger-Musterverfahrensgesetz und diese Verordnung die bisherigen Vorschriften ersetzt haben.
 
 (2) § 1 Absatz 3 Nummer 1 in der bis zum 20. Juli 2019 geltenden Fassung findet weiterhin Anwendung für einen Prospekt, der nach dem Wertpapierprospektgesetz in der bis zum 20. Juli 2019 geltenden Fassung gebilligt wurde, solange dieser Prospekt Gültigkeit hat.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Klageregisterverordnung vom 26. Oktober 2005 (BGBl. I S. 3092), die zuletzt durch Artikel 18 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2481) geändert worden ist, außer Kraft.

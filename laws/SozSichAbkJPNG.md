@@ -1,15 +1,11 @@
-# [SozSichAbkJPNG] Gesetz zu dem Abkommen vom 20. April 1998 zwischen der Bundesrepublik Deutschland und Japan über Soziale Sicherheit
-
-Ausfertigungsdatum: 22.09.1999
-
+% Gesetz zu dem Abkommen vom 20. April 1998 zwischen der Bundesrepublik Deutschland und Japan über Soziale Sicherheit
+% Ausfertigungsdatum: 22.09.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Folgenden in Tokio am 20. April 1998 unterzeichneten zwischenstaatlichen Übereinkünften wird zugestimmt:
 
@@ -19,8 +15,7 @@ Folgenden in Tokio am 20. April 1998 unterzeichneten zwischenstaatlichen Überei
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Die Vereinbarungen können auch Änderungen der in Artikel 1 Nr. 2 genannten Durchführungsvereinbarung vorsehen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -34,8 +29,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 5. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

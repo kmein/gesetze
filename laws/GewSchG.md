@@ -1,10 +1,7 @@
-# [GewSchG] Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen  (Gewaltschutzgesetz - GewSchG)
-
-Ausfertigungsdatum: 11.12.2001
-
+% Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen  (Gewaltschutzgesetz - GewSchG)
+% Ausfertigungsdatum: 11.12.2001
  
-
-## § 1 – Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
+# § 1 – Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
 
 (1) Hat eine Person vorsätzlich den Körper, die Gesundheit oder die Freiheit einer anderen Person widerrechtlich verletzt, hat das Gericht auf Antrag der verletzten Person die zur Abwendung weiterer Verletzungen erforderlichen Maßnahmen zu treffen. Die Anordnungen sollen befristet werden; die Frist kann verlängert werden. Das Gericht kann insbesondere anordnen, dass der Täter es unterlässt,
 
@@ -34,8 +31,7 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 (3) In den Fällen des Absatzes 1 Satz 1 oder des Absatzes 2 kann das Gericht die Maßnahmen nach Absatz 1 auch dann anordnen, wenn eine Person die Tat in einem die freie Willensbestimmung ausschließenden Zustand krankhafter Störung der Geistestätigkeit begangen hat, in den sie sich durch geistige Getränke oder ähnliche Mittel vorübergehend versetzt hat.
 
-
-## § 2 – Überlassung einer gemeinsam genutzten Wohnung
+# § 2 – Überlassung einer gemeinsam genutzten Wohnung
 
 (1) Hat die verletzte Person zum Zeitpunkt einer Tat nach § 1 Abs. 1 Satz 1, auch in Verbindung mit Abs. 3, mit dem Täter einen auf Dauer angelegten gemeinsamen Haushalt geführt, so kann sie von diesem verlangen, ihr die gemeinsam genutzte Wohnung zur alleinigen Benutzung zu überlassen.
 
@@ -55,15 +51,13 @@ Im Falle des Satzes 1 Nr. 2 Buchstabe b liegt eine unzumutbare Belästigung nich
 
 (6) Hat die bedrohte Person zum Zeitpunkt einer Drohung nach § 1 Abs. 2 Satz 1 Nr. 1, auch in Verbindung mit Abs. 3, einen auf Dauer angelegten gemeinsamen Haushalt mit dem Täter geführt, kann sie die Überlassung der gemeinsam genutzten Wohnung verlangen, wenn dies erforderlich ist, um eine unbillige Härte zu vermeiden. Eine unbillige Härte kann auch dann gegeben sein, wenn das Wohl von im Haushalt lebenden Kindern beeinträchtigt ist. Im Übrigen gelten die Absätze 2 bis 5 entsprechend.
 
-
-## § 3 – Geltungsbereich, Konkurrenzen
+# § 3 – Geltungsbereich, Konkurrenzen
 
 (1) Steht die verletzte oder bedrohte Person im Zeitpunkt einer Tat nach § 1 Abs. 1 oder Abs. 2 Satz 1 unter elterlicher Sorge, Vormundschaft oder unter Pflegschaft, so treten im Verhältnis zu den Eltern und zu sorgeberechtigten Personen an die Stelle von §§ 1 und 2 die für das Sorgerechts-, Vormundschafts- oder Pflegschaftsverhältnis maßgebenden Vorschriften.
 
 (2) Weitergehende Ansprüche der verletzten Person werden durch dieses Gesetz nicht berührt.
 
-
-## § 4 – Strafvorschriften
+# § 4 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer bestimmten vollstreckbaren
 

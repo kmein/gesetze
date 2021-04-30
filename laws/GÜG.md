@@ -1,10 +1,7 @@
-# [GÜG] Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerlaubte Herstellung von Betäubungsmitteln missbraucht werden können  (Grundstoffüberwachungsgesetz - GÜG)
-
-Ausfertigungsdatum: 11.03.2008
-
+% Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerlaubte Herstellung von Betäubungsmitteln missbraucht werden können  (Grundstoffüberwachungsgesetz - GÜG)
+% Ausfertigungsdatum: 11.03.2008
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -26,18 +23,15 @@ Im Sinne dieses Gesetzes ist
 
 9. Wirtschaftsbeteiligter: eine in Artikel 2 Buchstabe d der Verordnung (EG) Nr. 273/2004 oder in Artikel 2 Buchstabe f der Verordnung (EG) Nr. 111/2005 bezeichnete natürliche oder juristische Person.
 
-
-## § 2 – Anwendung der Verordnungen (EG) Nr. 111/2005 und Nr. 1277/2005
+# § 2 – Anwendung der Verordnungen (EG) Nr. 111/2005 und Nr. 1277/2005
 
 Soweit die Verordnung (EG) Nr. 111/2005 und die Verordnung (EG) Nr. 1277/2005 der Kommission vom 27. Juli 2005 mit Durchführungsvorschriften zu der Verordnung (EG) Nr. 273/2004 des Europäischen Parlaments und des Rates betreffend Drogenausgangsstoffe und zur Verordnung (EG) Nr. 111/2005 des Rates zur Festlegung von Vorschriften für die Überwachung des Handels mit Drogenausgangsstoffen zwischen der Gemeinschaft und Drittländern (ABl. EU Nr. L 202 S. 7) in ihrer jeweils geltenden Fassung auf das Zollgebiet der Gemeinschaft Bezug nehmen, sind sie auch auf den nicht zum Zollgebiet der Gemeinschaft gehörenden Teil des Hoheitsgebietes der Bundesrepublik Deutschland anzuwenden.
 
-
-## § 3 – Verbote
+# § 3 – Verbote
 
 Es ist verboten, einen Grundstoff, der zur unerlaubten Herstellung von Betäubungsmitteln verwendet werden soll, zu besitzen, herzustellen, mit ihm Handel zu treiben, ihn, ohne Handel zu treiben, einzuführen, auszuführen, durch den oder im Geltungsbereich dieses Gesetzes zu befördern, zu veräußern, abzugeben oder in sonstiger Weise einem anderen die Möglichkeit zu eröffnen, die tatsächliche Verfügung über ihn zu erlangen, zu erwerben oder sich in sonstiger Weise zu verschaffen.
 
-
-## § 4 – Allgemeine Vorkehrungen gegen Abzweigung
+# § 4 – Allgemeine Vorkehrungen gegen Abzweigung
 
 (1) Wirtschaftsbeteiligte sind verpflichtet, im Rahmen der im Verkehr erforderlichen Sorgfalt Vorkehrungen zu treffen, um eine Abzweigung von Grundstoffen zur unerlaubten Herstellung von Betäubungsmitteln zu verhindern.
 
@@ -45,8 +39,7 @@ Es ist verboten, einen Grundstoff, der zur unerlaubten Herstellung von Betäubun
 
 (3) Wer nach Absatz 2 Satz 1 Tatsachen mitteilt, die auf eine Straftat nach § 19 schließen lassen, kann wegen dieser Mitteilung nicht verantwortlich gemacht werden, es sei denn, die Mitteilung ist vorsätzlich oder grob fahrlässig unrichtig erstattet worden.
 
-
-## § 5 – Zuständige Behörden
+# § 5 – Zuständige Behörden
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist zuständige Behörde
 
@@ -60,8 +53,7 @@ Es ist verboten, einen Grundstoff, der zur unerlaubten Herstellung von Betäubun
 
 (3) Benannte Behörden im Sinne des Artikels 11 Abs. 1 und 2 Satz 2 der Verordnung (EG) Nr. 273/2004 und des Artikels 27 Satz 2 der Verordnung (EG) Nr. 111/2005 sind das Bundesinstitut für Arzneimittel und Medizinprodukte, das Zollkriminalamt und die Gemeinsame Grundstoffüberwachungsstelle nach § 6. Für die Entgegennahme von Informationen, einschließlich personenbezogener Daten, die das Erlaubnis- und Genehmigungsverfahren sowie die innerstaatliche Überwachung betreffen, ist das Bundesinstitut für Arzneimittel und Medizinprodukte, für die Entgegennahme von Informationen zur Überwachung der Ein- und Ausfuhr sowie des Warenverkehrs zwischen den Mitgliedstaaten der Gemeinschaft ist das Zollkriminalamt, und für die Entgegennahme von Informationen zu strafrechtlichen und anderen Ermittlungen ist die Gemeinsame Grundstoffüberwachungsstelle nach § 6 zuständig.
 
-
-## § 6 – Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes und des Bundeskriminalamtes beim Bundeskriminalamt
+# § 6 – Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes und des Bundeskriminalamtes beim Bundeskriminalamt
 
 (1) Die Gemeinsame Grundstoffüberwachungsstelle des Zollkriminalamtes und des Bundeskriminalamtes ist beim Bundeskriminalamt eingerichtet. Sie nimmt Aufgaben des Zollkriminalamtes und des Bundeskriminalamtes im Bereich der Grundstoffüberwachung wahr. Die Aufgaben der Gemeinsamen Grundstoffüberwachungsstelle sowie die Verteilung der Aufgaben und Zuständigkeiten innerhalb dieser Stelle werden im Einzelnen von dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen einvernehmlich festgelegt.
 
@@ -79,18 +71,15 @@ Es ist verboten, einen Grundstoff, der zur unerlaubten Herstellung von Betäubun
 
 (4) Im Übrigen darf die Gemeinsame Grundstoffüberwachungsstelle die in den Mitteilungen nach Absatz 2 enthaltenen personenbezogenen Daten nur zu den in § 4 Abs. 2 Satz 3 genannten Zwecken verwenden.
 
-
-## § 7 – Mitwirkung der Bundespolizei
+# § 7 – Mitwirkung der Bundespolizei
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat die Beamten der Bundespolizei, die mit Aufgaben des Grenzschutzes nach § 2 des Bundespolizeigesetzes betraut sind, mit der Wahrnehmung von Aufgaben betrauen, die nach § 5 Abs. 2 den Zollbehörden obliegen. In diesem Fall gilt § 67 Abs. 2 des Bundespolizeigesetzes entsprechend.
 
-
-## § 8 – Befugnisse der Zollbehörden
+# § 8 – Befugnisse der Zollbehörden
 
 Bei Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20 kann die zuständige Verfolgungsbehörde Ermittlungen (§ 161 Abs. 1 Satz 1 der Strafprozessordnung, § 46 Abs. 1 des Gesetzes über Ordnungswidrigkeiten) auch durch die Hauptzollämter oder die Behörden des Zollfahndungsdienstes und deren Beamte vornehmen lassen. § 21 Absatz 2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
 
-
-## § 9 – Daten beim Bundesinstitut für Arzneimittel und Medizinprodukte
+# § 9 – Daten beim Bundesinstitut für Arzneimittel und Medizinprodukte
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte darf die in den Meldungen nach den Artikeln 17 und 18 der Verordnung (EG) Nr. 1277/2005 enthaltenen personenbezogenen Daten nur verwenden, um Straftaten nach § 19 zu verhindern und Ordnungswidrigkeiten nach § 20 zu verhindern und zu verfolgen.
 
@@ -102,8 +91,7 @@ Bei Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20 kann die zustän
 
 3. die zuständige Zollbehörde zur Erfüllung ihrer Aufgaben nach § 5 Abs. 2 und zur Verhinderung und Verfolgung von Straftaten und Ordnungswidrigkeiten.
 
-
-## § 10 – Automatisierter Datenabruf
+# § 10 – Automatisierter Datenabruf
 
 (1) Das Zollkriminalamt darf die beim Bundesinstitut für Arzneimittel und Medizinprodukte gespeicherten Daten aus den Meldungen nach Artikel 18 der Verordnung (EG) Nr. 1277/2005, einschließlich personenbezogener Daten, im automatisierten Verfahren abrufen. Das Bundesinstitut für Arzneimittel und Medizinprodukte trifft geeignete technische und organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung.
 
@@ -121,8 +109,7 @@ Die erforderlichen Festlegungen können auch von den Fachaufsichtsbehörden getr
 
 (3) Das Bundesinstitut für Arzneimittel und Medizinprodukte und das Zollkriminalamt protokollieren die Zeitpunkte der Abrufe, die abgerufenen Daten sowie Angaben, die eine eindeutige Identifizierung der für den Abruf verantwortlichen Person ermöglichen. Die Protokolldaten dürfen ohne Einwilligung der betroffenen Person nur für die Kontrolle der Zulässigkeit der Abrufe verwendet werden und sind nach sechs Monaten zu löschen.
 
-
-## § 11 – Gegenseitige Unterrichtung
+# § 11 – Gegenseitige Unterrichtung
 
 (1) Sofern tatsächliche Anhaltspunkte für den Verdacht einer Straftat nach § 19 vorliegen, unterrichten die nach § 5 Abs. 2 zuständigen Zollbehörden sowie die nach § 7 betrauten Beamten der Bundespolizei unverzüglich das Zollkriminalamt zur Erfüllung seiner Aufgaben nach den §§ 3 und 4 des Zollfahndungsdienstgesetzes. Das Zollkriminalamt leitet diese Informationen unter Beachtung des § 30 der Abgabenordnung unbeschadet sonstiger Meldepflichten unverzüglich an die Gemeinsame Grundstoffüberwachungsstelle weiter. Sofern tatsächliche Anhaltspunkte für den Verdacht einer Straftat nach § 19 vorliegen, unterrichten das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundeskriminalamt unverzüglich die Gemeinsame Grundstoffüberwachungsstelle. Die Gemeinsame Grundstoffüberwachungsstelle darf die nach den Sätzen 2 und 3 übermittelten Informationen nur für die in § 4 Abs. 2 Satz 3 genannten Zwecke einschließlich der Weiterleitung nach § 6 Abs. 2 verwenden.
 
@@ -136,8 +123,7 @@ Die erforderlichen Festlegungen können auch von den Fachaufsichtsbehörden getr
 
 (6) Dritte, an die die Daten übermittelt werden, dürfen die Daten nur zu dem Zweck verwenden, für den sie übermittelt worden sind. Eine Verwendung für andere Zwecke ist zulässig, soweit die Daten auch für diese Zwecke hätten übermittelt werden dürfen.
 
-
-## § 12 – Berichterstattung
+# § 12 – Berichterstattung
 
 (1) Die Gemeinsame Grundstoffüberwachungsstelle berichtet dem Bundesinstitut für Arzneimittel und Medizinprodukte über
 
@@ -151,25 +137,21 @@ Der Bericht ist jährlich bis zum 15. April für das vergangene Kalenderjahr abz
 
 (3) Die nach Artikel 29 Abs. 1 der Verordnung (EG) Nr. 1277/2005 vorgeschriebene Berichterstattung obliegt der Gemeinsamen Grundstoffüberwachungsstelle.
 
-
-## § 13 – Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005
+# § 13 – Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005
 
 Für die Versagung der Erlaubnis nach Artikel 6 Abs. 1 der Verordnung (EG) Nr. 111/2005 gilt Artikel 3 Abs. 4 Satz 2 der Verordnung (EG) Nr. 273/2004 entsprechend.
 
-
-## § 14 – Registrierung
+# § 14 – Registrierung
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Anzeigenden innerhalb eines Monats die Registrierung nach Artikel 3 Abs. 6 der Verordnung (EG) Nr. 273/2004 oder Artikel 7 Abs. 1 der Verordnung (EG) Nr. 111/2005.
 
-
-## § 15 – Gebühren und Auslagen
+# § 15 – Gebühren und Auslagen
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für die in Artikel 3 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der Verordnung (EG) Nr. 111/2005 bezeichneten individuell zurechenbaren öffentlichen Leistungen Gebühren zur Deckung des Verwaltungsaufwands sowie Auslagen erheben.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und Gebühren nach Absatz 1 zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Das Bundesgebührengesetz ist nach Maßgabe von Artikel 3 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der Verordnung (EG) Nr. 111/2005 anzuwenden.
 
-
-## § 16 – Überwachungsmaßnahmen
+# § 16 – Überwachungsmaßnahmen
 
 (1) Die für die Überwachung des Verkehrs mit Grundstoffen zuständigen Behörden oder die mit der Überwachung beauftragten Personen sind befugt,
 
@@ -193,22 +175,19 @@ Insbesondere können sie die weitere Teilnahme am Grundstoffverkehr ganz oder te
 
 (3) Die auf Grund von Überwachungsmaßnahmen nach Absatz 1 und 2 erlangten Informationen dürfen nur zu den in § 4 Abs. 2 Satz 3 genannten Zwecken verwendet werden. Die für die Überwachung des Verkehrs mit Grundstoffen zuständigen Behörden dürfen die Informationen auch ohne Ersuchen an die Gemeinsame Grundstoffüberwachungsstelle übermitteln, soweit aus ihrer Sicht die Kenntnis der Informationen für die in § 4 Abs. 2 Satz 3 genannten Zwecke erforderlich ist.
 
-
-## § 17 – Probenahmen
+# § 17 – Probenahmen
 
 (1) Soweit es zur Durchführung dieses Gesetzes, der Verordnung (EG) Nr. 273/2004, der Verordnung (EG) Nr. 111/2005 oder der Verordnung (EG) Nr. 1277/2005 erforderlich ist, sind die mit der Überwachung beauftragten Personen befugt, gegen Empfangsbescheinigung Proben nach ihrer Auswahl zum Zwecke der Untersuchung zu fordern oder zu entnehmen. Soweit nicht ausdrücklich darauf verzichtet wird, ist ein Teil der Probe, oder sofern die Probe nicht oder ohne Gefährdung des Untersuchungszwecks nicht in Teile von gleicher Qualität teilbar ist, ein zweites Stück der gleichen Art wie das als Probe entnommene zurückzulassen.
 
 (2) Zurückzulassende Proben sind amtlich zu verschließen oder zu versiegeln. Sie sind mit dem Datum der Probenahme und dem Datum des Tages zu versehen, nach dessen Ablauf der Verschluss oder die Versiegelung als aufgehoben gelten.
 
-
-## § 18 – Duldungs- und Mitwirkungspflichten
+# § 18 – Duldungs- und Mitwirkungspflichten
 
 (1) Jeder Wirtschaftsbeteiligte ist verpflichtet, Maßnahmen nach den §§ 16 und 17 zu dulden und bei der Durchführung der Überwachung mitzuwirken, insbesondere auf Verlangen der mit der Überwachung beauftragten Personen die Stellen zu bezeichnen, an denen der Verkehr mit Grundstoffen stattfindet, umfriedete Grundstücke, Gebäude, Räume, Behälter und Behältnisse zu öffnen, Auskünfte zu erteilen, Unterlagen vorzulegen sowie die Entnahme von Proben zu ermöglichen.
 
 (2) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen seiner in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Der zur Auskunft Verpflichtete ist vor der Auskunft über sein Recht zur Auskunftsverweigerung zu belehren.
 
-
-## § 19 – Strafvorschriften
+# § 19 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -234,8 +213,7 @@ Insbesondere können sie die weitere Teilnahme am Grundstoffverkehr ganz oder te
 
 (5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung (EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 7. Juli 2018 geltende Fassung maßgeblich.
 
-
-## § 20 – Bußgeldvorschriften
+# § 20 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -279,13 +257,11 @@ Insbesondere können sie die weitere Teilnahme am Grundstoffverkehr ganz oder te
 
 (4) Soweit auf die Verordnung (EG) Nr. 273/2004, die Verordnung (EG) Nr. 111/2005 oder die Verordnung (EG) Nr. 1277/2005 Bezug genommen wird, ist jeweils die am 18. August 2005 geltende Fassung maßgeblich.
 
-
-## § 21 – Einziehung
+# § 21 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 19 oder eine Ordnungswidrigkeit nach § 20 bezieht, können eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 22 – Bundeswehr
+# § 22 – Bundeswehr
 
 (1) Dieses Gesetz sowie die Verordnung (EG) Nr. 273/2004, die Verordnung (EG) Nr. 111/2005 und die Verordnung (EG) Nr. 1277/2005 sind auf die Bundeswehr entsprechend anzuwenden.
 

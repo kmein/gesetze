@@ -1,15 +1,11 @@
-# [GartenKundenBerPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Kundenberater/Geprüfte Kundenberaterin - Gartenbau
-
-Ausfertigungsdatum: 12.07.1994
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Kundenberater/Geprüfte Kundenberaterin - Gartenbau
+% Ausfertigungsdatum: 12.07.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, verordnet das Bundesministerium für Bildung und Wissenschaft nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Kundenberater/zur Kundenberaterin - Gartenbau erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 8 durchführen.
 
@@ -27,8 +23,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß Geprüfter Kundenberater/Geprüfte Kundenberaterin - Gartenbau.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -42,8 +37,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Inhalt der Prüfung
+# § 3 – Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile
 
@@ -55,8 +49,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Die Prüfung ist nach Maßgabe der §§ 4 bis 6 praktisch, schriftlich und mündlich durchzuführen.
 
-
-## § 4 – Prüfungsteil Warenkunde und Dienstleistungen
+# § 4 – Prüfungsteil Warenkunde und Dienstleistungen
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er die für die Kundenberatung und den Verkauf erforderlichen Kenntnisse über gartenbauliche Erzeugnisse und Gartenbedarfsartikel sowie deren Einsatz und Pflege besitzt. Darüber hinaus soll er nachweisen, daß er Sortimente gestalten und gärtnerische Dienstleistungen im Rahmen seines Aufgabenbereiches ausführen kann.
 
@@ -114,8 +107,7 @@ e) Verpacken und Liefern von Gartenbauerzeugnissen und Gartenbedarfsartikeln.
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit und soll nicht länger als 120 Minuten dauern. Sie bezieht sich insbesondere auf Inhalte, die nicht Gegenstand der praktischen Arbeit sind. Die schriftliche Prüfung ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
-## § 5 – Prüfungsteil Kundenberatung und Verkauf
+# § 5 – Prüfungsteil Kundenberatung und Verkauf
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er gartenbauliche Erzeugnisse und Gartenbedarfsartikel entsprechend den Verbraucherbedürfnissen auswählen und fachgerecht präsentieren sowie Beratungs- und Verkaufsgespräche führen kann.
 
@@ -171,8 +163,7 @@ e) Werbemittel, -träger und -maßnahmen.
 
 (5) Bei der Beurteilung eines Verkaufsbereiches ist ein gärtnerischer Verkaufsbereich zu erfassen, zu analysieren und zu beurteilen. Die Ergebnisse sind in einem Prüfungsgespräch zu erläutern. Für die Beurteilung des Verkaufsbereiches stehen insgesamt bis zu 90 Minuten zur Verfügung. Dabei soll das Prüfungsgespräch je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
-## § 6 – Prüfungsteil Markt und Betrieb
+# § 6 – Prüfungsteil Markt und Betrieb
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er betriebs- und marktwirtschaftliche Zusammenhänge in der Gartenbauwirtschaft unter Berücksichtigung sozialer, rechtlicher und ökologischer Gesichtspunkte analysieren und beurteilen kann. Darüber hinaus soll er nachweisen, daß er über die erforderlichen Kenntnisse auf den Gebieten Warenbeschaffung, Rechnungswesen und Umweltschutz verfügt und diese anwenden kann.
 
@@ -240,8 +231,7 @@ e) umweltbezogene Rechtsvorschriften, insbesondere für die Bereiche Artenschutz
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit und soll nicht länger als 120 Minuten dauern. Sie bezieht sich insbesondere auf Inhalte, die nicht Gegenstand der praxisbezogenen Aufgabe sind. Die schriftliche Prüfung ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von Bedeutung ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil "Warenkunde und Dienstleistungen" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 4 Abs. 4 und in der Prüfung gemäß § 4 Abs. 5 zu bilden. Für den Teil "Kundenberatung und Verkauf" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 5 Abs. 4 und in der Prüfung gemäß § 5 Abs. 5 zu bilden. Für den Teil "Markt und Betrieb" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 6 Abs. 4 und in der Prüfung gemäß § 6 Abs. 5 zu bilden.
 
@@ -249,14 +239,12 @@ e) umweltbezogene Rechtsvorschriften, insbesondere für die Bereiche Artenschutz
 
 (3) Die Prüfung ist bestanden, wenn der Prüfungsteilnehmer in jedem Prüfungsteil mindestens die Note "ausreichend" erzielt hat. Sie ist nicht bestanden, wenn in der gesamten Prüfung eine der Prüfungsleistungen gemäß Absatz 1 mit "ungenügend" oder mehr als eine dieser Prüfungsleistungen mit "mangelhaft" benotet worden ist.
 
-
-## § 8 – Wiederholung der Prüfung
+# § 8 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag von der Prüfung in den einzelnen Prüfungsteilen und in den einzelnen Prüfungsleistungen gemäß § 7 Abs. 1 zu befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note "ausreichend" bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

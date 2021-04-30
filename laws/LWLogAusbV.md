@@ -1,15 +1,11 @@
-# [LWLogAusbV] Verordnung über die Berufsausbildung im Lagerbereich in den Ausbildungsberufen Fachlagerist/Fachlageristin und Fachkraft für Lagerlogistik
-
-Ausfertigungsdatum: 26.07.2004
-
+% Verordnung über die Berufsausbildung im Lagerbereich in den Ausbildungsberufen Fachlagerist/Fachlageristin und Fachkraft für Lagerlogistik
+% Ausfertigungsdatum: 26.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -105,8 +101,7 @@ Anlage 2:
 
 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Lagerlogistik
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -116,33 +111,27 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert im Ausbildungsberuf Fachlagerist/Fachlageristin zwei Jahre und im Ausbildungsberuf Fachkraft für Lagerlogistik drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 oder 13 und 14 nachzuweisen.
 
-
-## § 4 – Ausbildungsplan
+# § 4 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 5 – Berichtsheft
+# § 5 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 6 – Fortsetzung der Berufsausbildung
+# § 6 – Fortsetzung der Berufsausbildung
 
 Die Berufsausbildung im Ausbildungsberuf Fachlagerist/Fachlageristin gemäß § 1 Nr. 1 kann nach den Vorschriften dieser Verordnung für das dritte Ausbildungsjahr im Ausbildungsberuf Fachkraft für Lagerlogistik gemäß § 1 Nr. 2 fortgesetzt werden.
 
-
-## § 7 – Ausbildungsberufsbild
+# § 7 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -168,13 +157,11 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 11. Versand von Gütern.
 
-
-## § 8 – Ausbildungsrahmenplan
+# § 8 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 7 sollen nach den in der Anlage 1 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des ersten Ausbildungsjahres stattfinden.
 
@@ -188,8 +175,7 @@ Die Fertigkeiten und Kenntnisse nach § 7 sollen nach den in der Anlage 1 enthal
 
 Dabei soll der Prüfling auch zeigen, dass er Arbeitsmittel auswählen und nach Kontrolle ihrer Funktionsfähigkeit anwenden kann. Darüber hinaus soll er zeigen, dass er den Sicherheits- und Gesundheitsschutz bei der Arbeit sowie den Umweltschutz berücksichtigen kann.
 
-
-## § 10 – Abschlussprüfung
+# § 10 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -245,8 +231,7 @@ Die Prüfungen in den Prüfungsbereichen nach den Nummern 2 bis 4 sind schriftli
 
 (10) Die Prüfung ist bestanden, wenn im Prüfungsbereich Praktische Aufgaben sowie im Gesamtergebnis der schriftlichen Prüfungsbereiche jeweils mindestens ausreichende Leistungen erbracht sind. In zwei der schriftlichen Prüfungsbereiche müssen mindestens ausreichende Leistungen erbracht sein, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 11 – Ausbildungsberufsbild
+# § 11 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -272,13 +257,11 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 11. Versand von Gütern.
 
-
-## § 12 – Ausbildungsrahmenplan
+# § 12 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 11 sollen nach den in der Anlage 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 13 – Zwischenprüfung
+# § 13 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -300,8 +283,7 @@ Dabei soll der Prüfling auch zeigen, dass er Arbeitsmittel auswählen und nach 
 
 3. Lagerungsprozesse.
 
-
-## § 14 – Abschlussprüfung
+# § 14 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -405,23 +387,19 @@ Prüfungsbereich Wirtschafts- und Sozialkunde
 
 jeweils mindestens ausreichende Leistungen erbracht worden sind. Werden die Prüfungsleistungen in einem schriftlichen Prüfungsbereich oder in einer der Aufgaben des Prüfungsbereiches Praktische Arbeitsaufgaben mit "ungenügend" bewertet, so ist die Abschlussprüfung nicht bestanden.
 
-
-## § 15 – Nichtanwendung von Vorschriften
+# § 15 – Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Handelsfachpacker sind vorbehaltlich des § 17 nicht mehr anzuwenden.
 
-
-## § 16 – Übergangsregelung
+# § 16 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage 1 – (zu § 8)
+# Anlage 1 – (zu § 8)
 
 (Fundstelle: BGBl. I 2004, 1892 - 1896)
 
@@ -615,8 +593,7 @@ Die Fertigkeiten und Kenntnisse der Berufsbildpositionen 1 bis 4 sind während d
 
 4. Umweltschutz
 
-insbesondere mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen 7 bis 11 vertieft werden.  
-
+insbesondere mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen 7 bis 11 vertieft werden. 
 |                     |
 |:-------------------:|
 |         B.          |
@@ -657,8 +634,7 @@ zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Ken
 
 6. Güterkontrolle und qualitätssichernde Maßnahmen, Lernziele a bis c,
 
-zu vertiefen.  
-
+zu vertiefen. 
 |                     |
 |:-------------------:|
 | 2\. Ausbildungsjahr |
@@ -704,8 +680,7 @@ zu vermitteln und in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsb
 
 zu vertiefen.
 
-
-## Anlage 2 – (zu § 12)
+# Anlage 2 – (zu § 12)
 
 (Fundstelle: BGBl. I 2004, 1897 - 1901)
 
@@ -1050,8 +1025,7 @@ Die Fertigkeiten und Kenntnisse der Berufsbildpositionen 1 bis 4 sind während d
 
 4. Umweltschutz
 
-insbesondere mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen 7 bis 11 vertieft werden.  
-
+insbesondere mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen 7 bis 11 vertieft werden. 
 |                     |
 |:-------------------:|
 |         B.          |
@@ -1090,8 +1064,7 @@ zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Ken
 
 7. Einsatz von Arbeitsmitteln, Lernziele a, b und d,
 
-zu vertiefen.  
-
+zu vertiefen. 
 |                     |
 |:-------------------:|
 | 2\. Ausbildungsjahr |
@@ -1139,8 +1112,7 @@ in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen
 
 6. Logistische Prozesse; qualitätssichernde Maßnahmen, Lernziele k und n,
 
-zu vermitteln.  
-
+zu vermitteln. 
 |                     |
 |:-------------------:|
 | 3\. Ausbildungsjahr |

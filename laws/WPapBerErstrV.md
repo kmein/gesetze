@@ -1,15 +1,11 @@
-# [WPapBerErstrV] Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten Wirtschaftsgebiets auf dem Gebiet der Wertpapierbereinigung und des Kapitalverkehrs auf die Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau
-
-Ausfertigungsdatum: 12.05.1950
-
+% Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten Wirtschaftsgebiets auf dem Gebiet der Wertpapierbereinigung und des Kapitalverkehrs auf die Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau
+% Ausfertigungsdatum: 12.05.1950
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 127 des Grundgesetzes für die Bundesrepublik Deutschland verordnet die Bundesregierung mit Zustimmung der Regierungen der Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und des Kreispräsidenten von Lindau:
 
-
-## § 1
+# § 1
 
 Das Gesetz der Verwaltung des Vereinigten Wirtschaftsgebiets zur Bereinigung des Wertpapierwesens (Wertpapierbereinigungsgesetz) vom 19. August 1949 (WiGBl. S. 295) wird in den Ländern Baden, Rheinland-Pfalz und Württemberg-Hohenzollern sowie im bayerischen Kreis Lindau mit der Maßgabe in Kraft gesetzt, daß auch Wertpapiere in Kraft bleiben, für die eine Lieferbarkeitsbescheinigung nach
 
@@ -21,12 +17,10 @@ c) der Verordnung des Finanzministeriums des Landes Württemberg-Hohenzollern ü
 
 bis zum 1. Oktober 1949 ausgestellt worden ist oder auf Grund eines bis zum 31. Januar 1950 gestellten Antrags bis zum 30. September 1950 ausgestellt wird.
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

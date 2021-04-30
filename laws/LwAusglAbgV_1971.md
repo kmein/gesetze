@@ -1,15 +1,11 @@
-# [LwAusglAbgV 1971] Verordnung über die Erhebung einer Ausgleichsabgabe zur Sicherung der deutschen Landwirtschaft
-
-Ausfertigungsdatum: 14.05.1971
-
+% Verordnung über die Erhebung einer Ausgleichsabgabe zur Sicherung der deutschen Landwirtschaft
+% Ausfertigungsdatum: 14.05.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 Abs. 2 Nr. 4 Buchstabe f des Zollgesetzes in der Fassung der Bekanntmachung vom 18. Mai 1970 (Bundesgesetzbl. I S. 529), geändert durch das Dreizehnte Gesetz zur Änderung des Zollgesetzes vom 8. März 1971 (Bundesgesetzbl. I S. 165), verordnet die Bundesregierung:
 
-
-## § 1
+# § 1
 
 (1) Für in § 21 Abs. 2 Nr. 4 Buchstabe f Doppelbuchstabe cc des Zollgesetzes aufgeführte Waren, für die nach der Verordnung (EWG) Nr. 974/71 des Rates vom 12. Mai 1971 (Amtsblatt der Europäischen Gemeinschaften vom 12. Mai 1971 Nr. L 106) Ausgleichsbeträge zugelassen und von der Kommission der Europäischen Gemeinschaften festgesetzt sind, werden diese Ausgleichsbeträge als Angleichungszoll erhoben.
 
@@ -19,22 +15,18 @@ Auf Grund des § 21 Abs. 2 Nr. 4 Buchstabe f des Zollgesetzes in der Fassung der
 
 § 1 Abs. 3 Kursivdruck: Jetzt "Bundesminister der Finanzen"
 
-
-## § 2
+# § 2
 
 Für die Entstehung der Angleichungszollschuld steht die Abfertigung zur bleibenden Zollgutverwendung der Abfertigung zum freien Verkehr gleich.
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
+# § 4
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 89 des Zollgesetzes auch im Land Berlin.
 
-
-## § 5
+# § 5
 
 Diese Verordnung tritt mit Wirkung vom 12. Mai 1971 in Kraft.

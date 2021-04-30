@@ -1,32 +1,25 @@
-# [MBergKostV] Meeresbodenbergbau-Kostenverordnung  (MBergKostV)
-
-Ausfertigungsdatum: 20.12.1996
-
+% Meeresbodenbergbau-Kostenverordnung  (MBergKostV)
+% Ausfertigungsdatum: 20.12.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 des Meeresbodenbergbaugesetzes vom 6. Juni 1995 (BGBl. I S. 778, 782) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Wirtschaft:
 
-
-## § 1
+# § 1
 
 Für individuell zurechenbare öffentliche Leistungen nach dem Meeresbodenbergbaugesetz (MBergG) erhebt das Landesamt für Bergbau, Energie und Geologie (LBEG) mit Sitz in Hannover und Clausthal-Zellerfeld Gebühren und Auslagen nach dieser Verordnung. Die gebührenpflichtigen Tatbestände und die Rahmensätze für die Gebühren ergeben sich aus dem anliegenden Gebührenverzeichnis. Auslagen werden gesondert erhoben.
 
-
-## § 2
+# § 2
 
 (1) Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie in den Fällen der Rücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
 (2) Für die vollständige oder teilweise Zurückweisung eines nicht ausschließlich gegen eine Gebührenfestsetzung gerichteten Widerspruchs wird eine Gebühr bis zur Höhe der für den angegriffenen Verwaltungsakt vorgesehenen Gebühr erhoben. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach verwaltungsverfahrensrechtlichen Vorschriften unbeachtlich ist. Wird ein Widerspruch nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 Prozent der Widerspruchsgebühr.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1 Satz 2)Gebührenverzeichnis
+# Anlage – (zu § 1 Satz 2)Gebührenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2999)
 

@@ -1,10 +1,7 @@
-# [KBAG] Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes
-
-Ausfertigungsdatum: 04.08.1951
-
+% Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes
+% Ausfertigungsdatum: 04.08.1951
  
-
-## § 1
+# § 1
 
 (1) Als Bundesoberbehörde für den Straßenverkehr wird das Kraftfahrt-Bundesamt errichtet.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 04.08.1951
 
 (3) Das Kraftfahrt-Bundesamt untersteht dem Bundesministerium für Verkehr und digitale Infrastruktur. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
 
-
-## § 2
+# § 2
 
 (1) Das Kraftfahrt-Bundesamt übernimmt
 
@@ -39,8 +35,7 @@ e) des Infrastrukturabgaberegisters nach § 6 Absatz 1 Satz 1 des Infrastruktura
 
 f) des Berufskraftfahrerqualifikationsregisters nach § 12 des Berufskraftfahrerqualifikationsgesetzes,
 
-2a.  
-für Zwecke der Zulassung von Fahrzeugen und der Zuteilung von Kennzeichen die Errichtung und den Betrieb informationstechnischer Systeme für eine zentrale elektronische, auch internetbasierte Verarbeitung von für diesen Zweck erforderlichen Daten und deren Weiterleitung an die für den Vollzug zulassungsrechtlicher Vorschriften zuständigen Behörden und Stellen,
+2a. für Zwecke der Zulassung von Fahrzeugen und der Zuteilung von Kennzeichen die Errichtung und den Betrieb informationstechnischer Systeme für eine zentrale elektronische, auch internetbasierte Verarbeitung von für diesen Zweck erforderlichen Daten und deren Weiterleitung an die für den Vollzug zulassungsrechtlicher Vorschriften zuständigen Behörden und Stellen,
 
 3. die Erstellung, die Veröffentlichung und die Auswertung von Statistiken
 
@@ -62,8 +57,7 @@ c) auf dem Gebiet des Kraftfahrsachverständigenwesens über die bei Hauptunters
 
 5. die Aufgaben nach den auf der Grundlage des § 6 Abs. 1 Nr. 19 des Straßenverkehrsgesetzes beruhenden Rechtsverordnungen und allgemeinen Verwaltungsvorschriften,
 
-5a.  
-die Durchführung des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) für alle Produkte im Sinne von § 2 Nummer 22 und 26 des Produktsicherheitsgesetzes, soweit sie dem Regelungsbereich des Straßenverkehrsgesetzes unterliegen,
+5a. die Durchführung des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) für alle Produkte im Sinne von § 2 Nummer 22 und 26 des Produktsicherheitsgesetzes, soweit sie dem Regelungsbereich des Straßenverkehrsgesetzes unterliegen,
 
 6. die Durchführung des Ausschreibungsverfahrens zur Bestimmung des Herstellers und Vertreibers von Führerscheinen und Fahrerqualifizierungsnachweisen,
 
@@ -71,8 +65,7 @@ die Durchführung des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S
 
 8. die Zusammenarbeit mit Behörden oder Stellen ausländischer Staaten oder der Europäischen Union auf den Gebieten des Straßenverkehrs und des Kraftfahrwesens auf Grund von multilateralen oder bilateralen Vereinbarungen mit anderen Staaten oder zur Durchführung von Rechtsakten der Europäischen Union,
 
-8a.  
-die Aufgaben der nationalen Kontaktstelle nach Maßgabe des Artikels 3 Buchstabe l und des Artikels 4 Absatz 3 der Richtlinie (EU) 2015/413 des Europäischen Parlaments und des Rates vom 11. März 2015 zur Erleichterung des grenzüberschreitenden Austausches von Informationen über die Straßenverkehrssicherheit gefährdende Verkehrsdelikte (ABl. L 68 vom 13.3.2015, S. 9),
+8a. die Aufgaben der nationalen Kontaktstelle nach Maßgabe des Artikels 3 Buchstabe l und des Artikels 4 Absatz 3 der Richtlinie (EU) 2015/413 des Europäischen Parlaments und des Rates vom 11. März 2015 zur Erleichterung des grenzüberschreitenden Austausches von Informationen über die Straßenverkehrssicherheit gefährdende Verkehrsdelikte (ABl. L 68 vom 13.3.2015, S. 9),
 
 9. die Aufgaben der deutschen Zertifizierungsstelle nach fahrpersonalrechtlichen Vorschriften,
 
@@ -82,17 +75,14 @@ die Aufgaben der nationalen Kontaktstelle nach Maßgabe des Artikels 3 Buchstabe
 
 (2) Die Aufgaben, die dem Kraftfahrt-Bundesamt durch andere Vorschriften zugewiesen werden, bleiben unberührt.
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
+# § 4
 
 Das Kraftfahrt-Bundesamt ist ferner zuständig, wenn ihm durch eine Gesetzgebung im Land Berlin Zuständigkeiten in Übereinstimmung mit diesem Gesetz übertragen werden.
 
-
-## § 5
+# § 5
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

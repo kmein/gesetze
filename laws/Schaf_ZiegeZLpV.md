@@ -1,15 +1,11 @@
-# [Schaf/ZiegeZLpV] Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schafen und Ziegen
-
-Ausfertigungsdatum: 16.05.1991
-
+% Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Schafen und Ziegen
+% Ausfertigungsdatum: 16.05.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 bis 3 des Tierzuchtgesetzes vom 22. Dezember 1989 (BGBl. I S. 2493) verordnet der Bundesminister für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1
+# § 1
 
 (1) Zur Zuchtwertfeststellung bei einem Schaf oder einer Ziege werden mindestens
 
@@ -53,18 +49,15 @@ b) für die Zuchtwertteile Milchleistung und Zuchtleistung an weiblichen Tieren 
 
 (4) Der Zuchtwert wird nach den Grundsätzen der Anlage 2 festgestellt. Werden dabei die Leistungsmerkmale in einem Index zusammengefaßt, so werden sie nach ihrer sich aus dem Zuchtprogramm ergebenden Bedeutung gewichtet.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 3)  Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der Wollqualität und Fellqualität sowie der äußeren Erscheinung und der Eignung zur Landschaftspflege
+# Anlage 1 – (zu § 1 Abs. 3)  Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der Wollqualität und Fellqualität sowie der äußeren Erscheinung und der Eignung zur Landschaftspflege
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1127 - 1128
 
@@ -187,8 +180,7 @@ Eignung zur Landschaftspflege
 
 Zur Beurteilung der Eignung zur Landschaftspflege werden die Merkmale Widerstandsfähigkeit, Genügsamkeit und Marschfähigkeit zusammengefaßt bewertet.
 
-
-## Anlage 2 – (zu § 1 Abs. 4)  Grundsätze für die Zuchtwertfeststellung
+# Anlage 2 – (zu § 1 Abs. 4)  Grundsätze für die Zuchtwertfeststellung
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1129
 

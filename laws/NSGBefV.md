@@ -1,20 +1,15 @@
-# [NSGBefV] Verordnung über das Befahren der Bundeswasserstraßen in bestimmten Naturschutzgebieten  (Naturschutzgebietsbefahrensverordnung - NSGBefV)
-
-Ausfertigungsdatum: 08.12.1987
-
+% Verordnung über das Befahren der Bundeswasserstraßen in bestimmten Naturschutzgebieten  (Naturschutzgebietsbefahrensverordnung - NSGBefV)
+% Ausfertigungsdatum: 08.12.1987
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173), der durch § 36 Nr. 1 des Gesetzes vom 20. Dezember 1976 (BGBl. I S. 3574) eingefügt worden ist, wird im Einvernehmen mit dem Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit verordnet:
 
-
-## § 1
+# § 1
 
 Zur Sicherung des jeweiligen Schutzzwecks der in § 2 aufgeführten Naturschutzgebiete wird das Befahren der darin gelegenen Bundeswasserstraßen nach Maßgabe dieser Verordnung geregelt.
 
-
-## § 2
+# § 2
 
 (1) Es ist untersagt, die Bundeswasserstraße Rhein in der Zeit vom 15. Oktober bis zum 31. März in folgenden Bereichen zu befahren:
 
@@ -96,18 +91,15 @@ Satz 1 Nummer 1 gilt nicht für die Durchfahrt zum Fleesensee und die Ausfahrt z
 
 Satz 1 Nummer 2 gilt nicht für die Zufahrt zum Anleger und zur Hafenanlage am Südufer der Insel sowie in der Zeit vom 15. April bis 15. Oktober für das Ankern und Liegen in den im Ost- und Westteil der Insel gelegenen, im Lageplan 18 gekennzeichneten Buchten. Satz 1 Nummer 3 gilt nicht für das Ankern und Liegen in dem im Westteil der Insel gelegenen, im Lageplan 19 gekennzeichneten Bereich.
 
-
-## § 3
+# § 3
 
 Die nach § 2 für das Befahren mit Wasserfahrzeugen gesperrten Wasserflächen werden, soweit erforderlich, von dem örtlich zuständigen Wasserstraßen- und Schifffahrtsamt durch gelbe Tonnen oder durch Hinweistafeln gekennzeichnet.
 
-
-## § 4
+# § 4
 
 Soweit das Befahren der in § 2 genannten Wasserflächen mit Wasserfahrzeugen mit Maschinenantrieb zulässig ist, dürfen diese eine Höchstgeschwindigkeit gegenüber dem Ufer von 6 km je Stunde nicht überschreiten. Satz 1 gilt nicht, soweit in der Talfahrt zur Erhaltung der Steuerungsfähigkeit eine höhere Geschwindigkeit erforderlich ist.
 
-
-## § 5
+# § 5
 
 Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann von den Verboten der §§ 2 und 4 allgemein und im Einzelfall, zeitlich begrenzt oder auf Dauer Befreiungen gewähren, wenn
 
@@ -117,8 +109,7 @@ Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann von den Verbot
 
 Befreiungen nach Nummer 1 müssen mit dem Schutzzweck dieser Verordnung zu vereinbaren sein. Befreiungen von den Verboten nach § 2 sind zu gewähren, soweit sie erforderlich sind, um eine nach Maßgabe der jeweiligen Schutzgebietsverordnung zulässige Tätigkeit in einem Naturschutzgebiet auszuüben.
 
-
-## § 6
+# § 6
 
 (1) Bei unmittelbar drohender Gefahr kann von den Vorschriften dieser Verordnung abgewichen werden.
 
@@ -130,11 +121,9 @@ Befreiungen nach Nummer 1 müssen mit dem Schutzzweck dieser Verordnung zu verei
 
 3. Wasserfahrzeuge bei Ausübung der gewerblichen Fischerei, soweit diese auf den jeweiligen Wasserflächen zulässig ist.
 
+# § 6a – (weggefallen)
 
-## § 6a – (weggefallen)
-
-
-## § 7
+# § 7
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -146,18 +135,15 @@ Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengese
 
 4. entgegen § 4 Satz 1 die zulässige Höchstgeschwindigkeit überschreitet.
 
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage – Lagepläne 1 bis 20
+# Anlage – Lagepläne 1 bis 20
 
 (Fundstellen:  
 Lageplan 1 — BGBl I 1987, 2540,  
@@ -182,42 +168,42 @@ Lageplan 19 — BGBl. I 2017, 3777
 Lageplan 20 — BGBl. I 2015, 1818;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-![](../normengrafiken/bgbl1_1987/j2540-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2540-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_2018/j0886-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j0886-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2542-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2542-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2543-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2543-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2544-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2544-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2545-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2545-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2546-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2546-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2547-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2547-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2548-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2548-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_1987/j2549-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1987/j2549-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0020.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0030.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0040.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0050.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0060.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0070.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0070.jpg)
 
-![](../normengrafiken/bgbl1_2017/j3775-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j3775-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_2017/j3775-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j3775-1_0020.jpg)
 
-![](../normengrafiken/bgbl1_2015/j1807-1_0100.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1807-1_0100.jpg)

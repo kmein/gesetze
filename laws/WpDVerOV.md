@@ -1,10 +1,7 @@
-# [WpDVerOV] Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen für Wertpapierdienstleistungsunternehmen  (Wertpapierdienstleistungs-Verhaltens- und -Organisationsverordnung - WpDVerOV)
-
-Ausfertigungsdatum: 17.10.2017
-
+% Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen für Wertpapierdienstleistungsunternehmen  (Wertpapierdienstleistungs-Verhaltens- und -Organisationsverordnung - WpDVerOV)
+% Ausfertigungsdatum: 17.10.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnet
 
@@ -35,8 +32,7 @@ des § 34 Absatz 10 Satz 1 des Wertpapierhandelsgesetzes, der zuletzt durch Arti
 –  
 des § 34a Absatz 10 Satz 1 des Wertpapierhandelsgesetzes, der zuletzt durch Artikel 3 Nummer 85 Buchstabe h des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) geändert worden ist:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung sind anzuwenden auf
 
@@ -78,8 +74,7 @@ f) Art, Inhalt und Umfang der schriftlichen Grundsätze nach § 70 Absatz 2 Satz
 
 (2) Die Verordnung gilt entsprechend für Zweigniederlassungen im Sinne des § 53b des Kreditwesengesetzes, Kapitalverwaltungsgesellschaften im Sinne des § 17 des Kapitalanlagegesetzbuches, ausländische AIF-Verwaltungsgesellschaften, deren Referenzmitgliedstaat die Bundesrepublik Deutschland nach § 56 des Kapitalanlagegesetzbuches ist, sowie Zweigniederlassungen und Tätigkeiten im Wege des grenzüberschreitenden Dienstleistungsverkehrs von Verwaltungsgesellschaften nach § 51 Absatz 1 Satz 1, § 54 Absatz 1 und § 66 Absatz 1 des Kapitalanlagesetzbuchs, soweit die Vorschriften des Wertpapierhandelsgesetzes auf diese Anwendung finden.
 
-
-## § 2 – Kunden
+# § 2 – Kunden
 
 (1) Wertpapierdienstleistungsunternehmen müssen die notwendigen organisatorischen Vorkehrungen treffen, insbesondere Grundsätze aufstellen, Verfahren einrichten und Maßnahmen ergreifen, um Kunden nach § 67 des Wertpapierhandelsgesetzes einzustufen und die Einstufung professioneller Kunden aus begründetem Anlass überprüfen zu können.
 
@@ -97,15 +92,13 @@ Beabsichtigt das Wertpapierdienstleistungsunternehmen, einen Kunden nach § 67 A
 
 (4) Eine vor dem 1. November 2007 entsprechend dem Bewertungsverfahren nach Teil C der Richtlinie gemäß § 35 Absatz 6 des Gesetzes über den Wertpapierhandel zur Konkretisierung der §§ 31 und 32 des Wertpapierhandelsgesetzes für das Kommissionsgeschäft, den Eigenhandel für andere und das Vermittlungsgeschäft der Wertpapierdienstleistungsunternehmen vom 23. August 2001 (BAnz. S. 19 217) durchgeführte Kundeneinstufung entspricht den Anforderungen des § 67 Absatz 5 Satz 5 des Wertpapierhandelsgesetzes. Die Information nach § 67 Absatz 5 Satz 6 des Wertpapierhandelsgesetzes kann in standardisierter Form erfolgen.
 
-
-## § 3 – Kundeninformationen über das Wertpapierdienstleistungsunternehmen und die Wertpapierdienstleistung im Rahmen der Unabhängigen Honorar-Anlageberatung
+# § 3 – Kundeninformationen über das Wertpapierdienstleistungsunternehmen und die Wertpapierdienstleistung im Rahmen der Unabhängigen Honorar-Anlageberatung
 
 (1) Die Information nach § 64 Absatz 6 Satz 1 des Wertpapierhandelsgesetzes ist dem Kunden für jedes zu empfehlende Finanzinstrument unmittelbar vor der Empfehlung zur Verfügung zu stellen.
 
 (2) Die Informationen nach § 64 Absatz 6 Satz 1 des Wertpapierhandelsgesetzes sind auf einem dauerhaften Datenträger im Sinne des § 2 Absatz 43 des Wertpapierhandelsgesetzes zur Verfügung zu stellen. Artikel 3 der Delegierten Verordnung (EU) 2017/565 der Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 87 vom 31.3.2017, S. 1) gilt entsprechend.
 
-
-## § 4 – Informationsblätter
+# § 4 – Informationsblätter
 
 (1) Das nach § 64 Absatz 2 Satz 1 Nummer 1 des Wertpapierhandelsgesetzes zur Verfügung zu stellende Informationsblatt darf bei nicht komplexen Finanzinstrumenten im Sinne des Artikels 57 der Delegierten Verordnung (EU) 2017/565 nicht mehr als zwei DIN-A4-Seiten, bei allen übrigen Finanzinstrumenten nicht mehr als drei DIN-A4-Seiten umfassen. Es muss die wesentlichen Informationen über das jeweilige Finanzinstrument in übersichtlicher und leicht verständlicher Weise so enthalten, dass der Kunde insbesondere
 
@@ -125,13 +118,11 @@ einschätzen und bestmöglich mit den Merkmalen anderer Finanzinstrumente vergle
 
 (3) Für Aktien, die zum Zeitpunkt der Anlageberatung am organisierten Markt gehandelt werden, kann anstelle des Informationsblattes nach § 64 Absatz 2 Satz 1 Nummer 1 des Wertpapierhandelsgesetzes ein standardisiertes Informationsblatt nach § 64 Absatz 2 Satz 3 des Wertpapierhandelsgesetzes zur Verfügung gestellt werden. Das standardisierte Informationsblatt erhält die aus der Anlage zu dieser Verordnung ersichtliche Form.
 
-
-## § 5 – Aufhebung der Bekanntmachungspflicht nach § 69 Absatz 2 des Wertpapierhandelsgesetzes
+# § 5 – Aufhebung der Bekanntmachungspflicht nach § 69 Absatz 2 des Wertpapierhandelsgesetzes
 
 Eine Aufhebung der Bekanntmachungspflicht nach § 69 Absatz 2 Satz 3 des Wertpapierhandelsgesetzes setzt voraus, dass die Mindestvolumina erreicht sind, die in Anhang II Tabelle 1 der Delegierten Verordnung (EU) 2017/587 der Kommission vom 14. Juli 2016 zur Ergänzung der Verordnung (EU) Nr. 600/2014 des Europäischen Parlaments und des Rates über Märkte für Finanzinstrumente durch technische Regulierungsstandards mit Transparenzanforderungen für Handelsplätze und Wertpapierfirmen in Bezug auf Aktien, Aktienzertifikate, börsengehandelte Fonds, Zertifikate und andere vergleichbare Finanzinstrumente und mit Ausführungspflichten in Bezug auf bestimmte Aktiengeschäfte an einem Handelsplatz oder über einen systematischen Internalisierer (ABl. L 87 vom 31.3.2017, S. 387) genannt sind.
 
-
-## § 6 – Zuwendungen
+# § 6 – Zuwendungen
 
 (1) Als geringfügige nichtmonetäre Vorteile im Sinne des § 64 Absatz 7 des Wertpapierhandelsgesetzes kommen, sofern sie die in § 64 Absatz 7 Satz 2 Nummer 1 und 2 des Wertpapierhandelsgesetzes genannten Voraussetzungen erfüllen, insbesondere in Betracht:
 
@@ -187,8 +178,7 @@ a) wie die erhaltenen oder gewährten Zuwendungen, oder Zuwendungen, deren Erhal
 
 b) welche Schritte unternommen wurden, um die Erfüllung der Pflicht des Wertpapierdienstleistungsunternehmens, ehrlich, redlich und professionell im bestmöglichen Interesse der Kunden zu handeln, nicht zu beeinträchtigen.
 
-
-## § 7 – Zuwendungen im Zusammenhang mit Analysen
+# § 7 – Zuwendungen im Zusammenhang mit Analysen
 
 (1) Für die Zwecke des § 70 Absatz 2 Satz 2 Nummer 2 Buchstabe a des Wertpapierhandelsgesetzes darf eine spezielle Analysegebühr
 
@@ -218,13 +208,11 @@ Wird die Analysegebühr zusammen mit dem Entgelt für ein Geschäft erhoben, mus
 
 2. dem vom Wertpapierdienstleistungsunternehmen gewählten Verfahren zur gerechten Verteilung der Kosten für die über das Analysekonto erworbenen Analysen auf die verschiedenen Kundenportfolios.
 
-
-## § 8 – Anforderungen an die Unabhängige Honorar-Anlageberatung
+# § 8 – Anforderungen an die Unabhängige Honorar-Anlageberatung
 
 Um die Unabhängige Honorar-Anlageberatung von der übrigen Anlageberatung nach § 80 Absatz 7 des Wertpapierhandelsgesetzes zu trennen, müssen Wertpapierdienstleistungsunternehmen entsprechend ihrer Größe und Organisation sowie der Art, des Umfangs und der Komplexität ihrer Geschäftstätigkeit sicherstellen, dass seitens der übrigen Anlageberatung kein Einfluss auf die Unabhängige Honorar-Anlageberatung ausgeübt werden kann. Dazu ist insbesondere sicherzustellen, dass die Vertriebsvorgaben für die Unabhängige Honorar-Anlageberatung unabhängig von den Vertriebsvorgaben für die übrige Anlageberatung ausgestaltet, umgesetzt und überwacht werden und die Anforderungen gemäß Artikel 53 Absatz 3 Satz 2 der Verordnung (EU) 2017/565 erfüllt werden.
 
-
-## § 9 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 9 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Vertriebsvorgaben im Sinne des § 80 Absatz 1 Satz 2 Nummer 3 des Wertpapierhandelsgesetzes, die zur Umsetzung oder Überwachung der Vertriebsvorgaben getroffenen Maßnahmen, die Erfüllung der Vertriebsvorgaben und die Kriterien zur Überprüfung der Vereinbarkeit der Vertriebsvorgaben mit den Kundeninteressen sowie die Ergebnisse dieser Überprüfung sind aufzuzeichnen.
 
@@ -234,8 +222,7 @@ Um die Unabhängige Honorar-Anlageberatung von der übrigen Anlageberatung nach 
 
 (4) Soweit nicht bereits in § 77 Absatz 3, § 80 Absatz 3 oder § 83 Absatz 8 des Wertpapierhandelsgesetzes geregelt, sind die Aufzeichnungen eines Wertpapierdienstleistungsunternehmens, die es auf Grund dieser Verordnung, auf Grund des 11. Abschnitts des Wertpapierhandelsgesetzes, auf Grund anderer nach dem Wertpapierhandelsgesetz erlassener Rechtsverordnungen sowie auf Grund der Artikel 26 und 72 bis 76 der Delegierten Verordnung (EU) 2017/565, in der jeweils geltenden Fassung, erstellt, ab dem Zeitpunkt ihrer Erstellung fünf Jahre lang aufzubewahren. Die Bundesanstalt kann die Aufbewahrungsfrist um zwei Jahre verlängern, wenn sie vor Ablauf der in Satz 1 genannten Frist Kenntnis von Umständen erhält, die eine Verlängerung der Aufbewahrungsfrist erforderlich machen.
 
-
-## § 10 – Getrennte Vermögensverwahrung
+# § 10 – Getrennte Vermögensverwahrung
 
 (1) Wertpapierdienstleistungsunternehmen müssen bei der Auswahl, Beauftragung und regelmäßigen Überwachung von Dritten, bei denen sie nach § 84 Absatz 2 des Wertpapierhandelsgesetzes Kundengelder halten oder bei denen sie Kundenfinanzinstrumente verwahren, mit der erforderlichen Sorgfalt und Gewissenhaftigkeit vorgehen und im Rahmen ihrer Sorgfaltspflicht die Notwendigkeit der Aufteilung der Kundengelder auf verschiedene Dritte prüfen. Soweit es sich bei dem Dritten nicht um eine Zentralbank handelt, müssen Wertpapierdienstleistungsunternehmen in den Fällen des Satzes 1 der fachlichen Eignung und der Zuverlässigkeit sowie den relevanten Vorschriften und Marktpraktiken des Dritten im Zusammenhang mit dem Halten von Kundengeldern und der Verwahrung von Kundenfinanzinstrumenten Rechnung tragen.
 
@@ -309,8 +296,7 @@ Ein Geldmarktinstrument ist erstklassig im Sinne des Satzes 1 Nummer 2 Buchstabe
 
 6. die Vereinbarungen, die zur Feststellung der Eigentumsverhältnisse an den Vermögensgegenständen von Kunden relevant sind.
 
-
-## § 11 – Produktfreigabeverfahren für Konzepteure von Finanzinstrumenten
+# § 11 – Produktfreigabeverfahren für Konzepteure von Finanzinstrumenten
 
 (1) Das Konzipieren von Finanzinstrumenten im Sinne des § 80 Absatz 9 des Wertpapierhandelsgesetzes umfasst das Neuschaffen, Entwickeln, Begeben oder die Gestaltung von Finanzinstrumenten. Ein Wertpapierdienstleistungsunternehmen, das Finanzinstrumente konzipiert, (Konzepteur) hat die Anforderungen der Absätze 2 bis 15 und des § 81 Absatz 4 und 5 des Wertpapierhandelsgesetzes so zu erfüllen, wie es angesichts der Art des Finanzinstruments, der Wertpapierdienstleistung und des Zielmarkts für das Produkt angemessen und verhältnismäßig ist.
 
@@ -389,8 +375,7 @@ Ein Geldmarktinstrument ist erstklassig im Sinne des Satzes 1 Nummer 2 Buchstabe
 (+++ § 11: zur Anwendung vgl. § 13 +++)  
 (+++ § 11 Abs. 5: zur Anwendung vgl. § 12 Abs. 10 +++)
 
-
-## § 12 – Produktfreigabeverfahren für Vertriebsunternehmen
+# § 12 – Produktfreigabeverfahren für Vertriebsunternehmen
 
 (1) Ein Wertpapierdienstleistungsunternehmen hat bei der Auswahl derjenigen Finanzinstrumente, die von diesem oder anderen Wertpapierdienstleistungsunternehmen begeben werden, und der Dienstleistungen, die es Kunden anzubieten oder zu empfehlen beabsichtigt, die Anforderungen der Absätze 2 bis 12 sowie des § 80 Absatz 12 und 13 und des § 81 Absatz 4 des Wertpapierhandelsgesetzes so zu erfüllen, wie es angesichts der Art des Finanzinstruments, der Wertpapierdienstleistung und des Zielmarkts des Produkts angemessen und verhältnismäßig ist.
 
@@ -436,18 +421,15 @@ Die vorstehenden Pflichten gelten sowohl für Produkte, die auf dem Primärmarkt
 
 (+++ § 12: zur Anwendung vgl. § 13 +++)
 
-
-## § 13 – Strukturierte Einlagen
+# § 13 – Strukturierte Einlagen
 
 Die §§ 11 und 12 dieser Verordnung gelten entsprechend für den Verkauf von und die Beratung zu strukturierten Einlagen durch Wertpapierdienstleistungsunternehmen und Kreditinstitute, die strukturierte Einlagen ausgeben.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 3. Januar 2018 in Kraft. Gleichzeitig tritt die Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung vom 20. Juli 2007 (BGBl. I S. 1432), die zuletzt durch Artikel 16 Absatz 4 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 4 Absatz 3)Standardisiertes Informationsblatt für Aktien am organisierten Markt nach § 64 Absatz 2 Satz 3 des Wertpapierhandelsgesetzes
+# Anlage – (zu § 4 Absatz 3)Standardisiertes Informationsblatt für Aktien am organisierten Markt nach § 64 Absatz 2 Satz 3 des Wertpapierhandelsgesetzes
 
 (Fundstelle: BGBl. I 2018, 542 – 543)
 

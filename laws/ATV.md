@@ -1,22 +1,17 @@
-# [ATV] Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe  (Altguthabentilgungsverordnung - ATV)
-
-Ausfertigungsdatum: 27.06.1990
-
+% Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe  (Altguthabentilgungsverordnung - ATV)
+% Ausfertigungsdatum: 27.06.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Zur Realisierung von bisher ruhenden Ansprüchen aus Anteilrechten an der Altguthaben-Ablösungs-Anleihe wird folgendes verordnet:
 
-
-## § 1
+# § 1
 
 (1) Das Ruhen der Ansprüche aus Anteilrechten an der Altguthaben-Ablösungs-Anleihe von Inhabern, die ihren Wohnsitz außerhalb der Grenzen der Deutschen Demokratischen Republik haben, gemäß § 2 der Vierten Verordnung über die Tilgung der Anteilrechte von Bürgern der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe vom 18. Dezember 1963 (GBl. II Nr. 109 S. 861), wird ab 1. Juli 1990 aufgehoben.
 
 (2) Eine bestehende staatliche Verwaltung für Anteilrechte an der Altguthaben-Ablösungs-Anleihe gilt gleichzeitig als aufgehoben.
 
-
-## § 2
+# § 2
 
 (1) Inhaber von Anteilrechten an der Altguthaben-Ablösungs-Anleihe bzw. deren Erben können bis zum 31. Dezember 1992 einen entsprechenden Antrag auf Tilgung an das zuständige Geldinstitut, bei dem die Anteilrechte begründet wurden, stellen. Bis zu diesem Zeitpunkt nicht zur Tilgung angemeldete Ansprüche aus Anteilrechten an der Altguthaben-Ablösungs-Anleihe erlöschen.
 
@@ -30,19 +25,16 @@ Zur Realisierung von bisher ruhenden Ansprüchen aus Anteilrechten an der Altgut
 
 (6) Anträge von Sparkassen auf Aufwendungsersatz für Auszahlungen von Uraltguthaben von Inhabern mit Wohnsitz in dem in Artikel 3 des Einigungsvertrages genannten Gebiet, die vor dem 9. Juli 1990 umgewertet worden sind, sind bis spätestens 31. Dezember 1998 bei dem Bundesministerium der Finanzen, Außenstelle Berlin, einzureichen. Danach erlöschen diese Ansprüche.
 
-
-## § 3
+# § 3
 
 (1) Die Anteilrechte an der Altguthaben-Ablösungs-Anleihe werden mit einem Zinssatz von 3% pro Jahr für den Zeitraum vom 1. Januar 1949 bis zur Tilgung verzinst.
 
 (2) Die Auszahlung der Anteilrechte zuzüglich Zinsen erfolgt nach Bestätigung vom zuständigen Geldinstitut durch die Kreditanstalt für Wiederaufbau, Niederlassung Berlin, in der Weise, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark in Anrechnung gebracht wird.
 
-
-## § 4
+# § 4
 
 Bürger von Staaten, mit denen die Deutsche Demokratische Republik Ansprüche aus Anteilrechten an der Altguthaben-Ablösungs-Anleihe durch zwischenstaatliche Vereinbarung geregelt hat, können keine Ansprüche mehr geltend machen.
 
-
-## § 5
+# § 5
 
 (Inkrafttreten)

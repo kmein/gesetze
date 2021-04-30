@@ -1,22 +1,17 @@
-# [NDÜV] Verordnung über die Übermittlung von Auskünften an die Nachrichtendienste des Bundes  (Nachrichtendienste-Übermittlungsverordnung - NDÜV)
-
-Ausfertigungsdatum: 11.10.2012
-
+% Verordnung über die Übermittlung von Auskünften an die Nachrichtendienste des Bundes  (Nachrichtendienste-Übermittlungsverordnung - NDÜV)
+% Ausfertigungsdatum: 11.10.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8b Absatz 8 Satz 1 bis 3 des Bundesverfassungsschutzgesetzes, der durch Artikel 1 Nummer 2 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2576) eingefügt worden ist, auch in Verbindung mit § 4a Satz 1 des MAD-Gesetzes, der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2576) geändert worden ist, und auch in Verbindung mit § 2a Satz 1 des BND-Gesetzes, der zuletzt durch Artikel 3 Nummer 1 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2576) geändert worden ist, verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium für Wirtschaft und Technologie, dem Bundesministerium der Justiz und dem Bundesministerium der Verteidigung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Form und das Verfahren von Auskünften, die auf Grund von Anordnungen nach § 8a Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 4a Satz 1 des MAD-Gesetzes oder § 3 Satz 1 des BND-Gesetzes, zu erteilen sind.
 
 (2) Durch diese Verordnung wird keine Verpflichtung begründet, personenbezogene Daten zu einem Betroffenen zu erheben oder gespeicherte Daten inhaltlich zu überprüfen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -38,8 +33,7 @@ d) Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des Bundesverfassung
 
 (2) DIN-, ISO- und ISO/IEC-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt, soweit nichts anderes angegeben ist.
 
-
-## § 3 – Datenübermittlung
+# § 3 – Datenübermittlung
 
 (1) Der Verpflichtete hat Auskünfte als Datensätze auf Datenträgern der Art CD-ROM nach der Norm ISO/IEC 10149:1995 (Datum der Veröffentlichung: Juli 1995), DVD-R nach der Norm ISO/IEC 20563:2001 (Datum der Veröffentlichung: Juni 2001), DVD-R DL nach der Norm ISO/IEC 12862:2011-05 (Datum der Veröffentlichung: Mai 2011), DVD+R nach ISO/IEC 17344:2009 (Datum der Veröffentlichung: Juni 2009) oder DVD+R DL nach der Norm ISO/IEC 25434:2008 (Datum der Veröffentlichung: Dezember 2008) zu übermitteln. Der Verpflichtete kann ausnahmsweise Auskünfte auf Papier oder durch Telefax übermitteln, wenn auf die Anfrage keine Datensätze zu übermitteln sind, oder wenn eine Übermittlung in anderer Form wegen eines unverhältnismäßigen Aufwands, auch unter Berücksichtigung des Schutzes der zu übermittelnden personenbezogenen Daten, nicht zumutbar ist.
 
@@ -51,15 +45,13 @@ d) Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des Bundesverfassung
 
 (5) Stellt der betroffene Nachrichtendienst des Bundes bei Annahme der Daten Mängel fest, die deren Auswertung beeinträchtigen, insbesondere dass die Datensätze unvollständig sind, hat er die Daten durch Erklärung zurückzuweisen. Der Verpflichtete ist dabei über die festgestellten Mängel zu unterrichten. Sofern die Unterrichtung personenbezogene Daten enthält, ist Absatz 2 und, wenn die Unterrichtung elektronisch erfolgt, Absatz 4 entsprechend anzuwenden. Die Mängel sind unverzüglich zu beheben und die zurückgewiesenen Datenübermittlungen erneut in mangelfreier Form durchzuführen.
 
-
-## § 4 – Abwicklung der Auskunft
+# § 4 – Abwicklung der Auskunft
 
 (1) Die Auskunftsersuchen werden schriftlich unter Setzung einer angemessenen Frist für die Übermittlung der Daten an die Verpflichteten übermittelt. Sie enthalten nach § 8b Absatz 4 des Bundesverfassungsschutzgesetzes nur die personenbezogenen Daten, die erforderlich sind, um dem Verpflichteten die Erfüllung seiner Verpflichtung zu ermöglichen. Sofern das Auskunftsersuchen personenbezogene Daten enthält, gilt § 3 Absatz 2 bis 4 entsprechend.
 
 (2) Dem Auskunftsersuchen ist ein Formblatt für die Beantragung der Entschädigung nach § 7 Absatz 2 beigefügt, sofern der betroffene Nachrichtendienst des Bundes mit dem Verpflichteten nicht die Erstellung von Sammelrechnungen vereinbart hat. Sofern ein Formblatt nach Satz 1 vorgesehen ist, ist es für die Beantragung der Entschädigung zu verwenden.
 
-
-## § 5 – Übermittlungsformat und Anforderungen an Auskunftsersuchen
+# § 5 – Übermittlungsformat und Anforderungen an Auskunftsersuchen
 
 (1) Die Datensätze sind im XML-Format nach W3C-Spezifikation vom 10. Februar 1998 (im Internet veröffentlicht unter http://www.w3.org/TR/REC-xml/; archivmäßig gesichert im Bundesministerium des Innern, für Bau und Heimat, Berlin) zu übermitteln, soweit nicht in Anlage 1 für den betreffenden Sektor abweichende oder genauer festgelegte Formate vorgegeben sind. Soweit dies in Anlage 1 vorgesehen ist, sind Beschreibungen der verwendeten Datensätze oder Hinweise auf kostenfreie, uneingeschränkt abrufbare Veröffentlichungen solcher Beschreibungen im Internet zusammen mit den Datensätzen zu übermitteln.
 
@@ -67,13 +59,11 @@ d) Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des Bundesverfassung
 
 (3) Abfragen müssen inhaltlich derart gestaltet sein, dass der Auskunftsverpflichtete auf ihrer Grundlage unter Berücksichtigung der technischen Gegebenheiten seiner Datensysteme mit vertretbarem Aufwand Auskunft erteilen kann.
 
-
-## § 6 – Zulassung von Ausnahmen; einstweilige Beweissicherung
+# § 6 – Zulassung von Ausnahmen; einstweilige Beweissicherung
 
 Der betroffene Nachrichtendienst des Bundes und ein Verpflichteter können Abweichungen von den in § 3 Absatz 1, § 5 Absatz 1 und 2 sowie der Anlage 1 enthaltenen Vorgaben für den Einzelfall, für eine Gruppe von Fällen oder allgemein vereinbaren. Abreden nach Satz 1 haben Vorrang vor den Regelungen dieser Verordnung. Verpflichtete sind auch, während entsprechende Verhandlungen geführt werden, zur Auskunftserteilung verpflichtet. Die Datensicherheit muss bei vereinbarten Verfahren gleichwertig zu den in dieser Verordnung vorgesehenen Verfahren sein; insbesondere bleibt § 3 Absatz 2 bis 5 unberührt.
 
-
-## § 7 – Entschädigung
+# § 7 – Entschädigung
 
 (1) Die für die Erteilung von Auskünften zu leistende Entschädigung richtet sich nach Anlage 2. Die Entschädigung wird ausschließlich unbar durch Überweisung auf ein Zahlungskonto gezahlt.
 
@@ -83,13 +73,11 @@ Der betroffene Nachrichtendienst des Bundes und ein Verpflichteter können Abwei
 
 (4) Die Angemessenheit der festgesetzten Entschädigungen wird regelmäßig, erstmalig ein Jahr nach Inkrafttreten der Verordnung, überprüft.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 5 Absatz 1)Datenübermittlungsformate für die einzelnen Sektoren
+# Anlage 1 – (zu § 5 Absatz 1)Datenübermittlungsformate für die einzelnen Sektoren
 
 (Fundstelle: BGBl. I 2012, 2120)
 
@@ -168,7 +156,6 @@ soweit die Voraussetzungen nach Doppelbuchstabe aa nicht erfüllt sind:
 
 bei der Verwendung von Tabellen sind der Aufbau der Felder und ihr Inhalt zu erläutern (§ 5 Absatz 1 findet Anwendung).
 
-
-## Anlage 2 – (zu § 7 Absatz 1 Satz 1)
+# Anlage 2 – (zu § 7 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2012, 2121)

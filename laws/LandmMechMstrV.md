@@ -1,15 +1,11 @@
-# [LandmMechMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Landmaschinenmechaniker-Handwerk  (Landmaschinenmechanikermeisterverordnung - LandmMechMstrV)
-
-Ausfertigungsdatum: 05.04.2001
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Landmaschinenmechaniker-Handwerk  (Landmaschinenmechanikermeisterverordnung - LandmMechMstrV)
+% Ausfertigungsdatum: 05.04.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -21,8 +17,7 @@ Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbst�
 
 4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung im Landmaschinenmechaniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
@@ -50,8 +45,7 @@ Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbst�
 
 11. Leistungen abnehmen und protokollieren, Nachkalkulation durchführen.
 
-
-## § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst folgende Prüfungsbereiche:
 
@@ -65,8 +59,7 @@ Die Meisterprüfung im Landmaschinenmechaniker-Handwerk umfasst folgende selbst�
 
 (4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass er einen Kundenauftrag im Landmaschinenmechaniker-Handwerk planen, durchführen und abschließen kann. Der Prüfling wählt, ob er die Aufgabe nach Absatz 2 an einer Landmaschine, einer Baumaschine oder einem Motorgerät durchführen will. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
 
@@ -83,13 +76,11 @@ Eine Hydraulik- oder Pneumatikanlage mit einer elektrischen oder elektronischen 
 
 Die Entwurfs-, Planungs- und Kalkulationsunterlagen werden mit 35 vom Hundert, das Aufbauen einer Anlage und die Anfertigung eines mechanischen Bauteils mit 45 vom Hundert und das Prüfprotokoll mit 20 vom Hundert gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe vervollständigt den Qualifikationsnachweis für die Meisterprüfung im Landmaschinenmechaniker-Handwerk.
 
@@ -98,8 +89,7 @@ Fehler und Störungen an Fahrzeugen, Maschinen, Geräten oder Anlagen, insbesond
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen der Arbeiten nach Absatz 2 gebildet.
 
-
-## § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 7 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, ablauf- und verfahrenstechnischer, werkstofftechnischer und mathematischer Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
 
@@ -189,19 +179,16 @@ h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreib
 
 (+++ § 7 Abs. 5 u. 6: Zur Anwendung vgl. § 9 +++)
 
-
-## § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 8 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die Regelungen des § 7 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.

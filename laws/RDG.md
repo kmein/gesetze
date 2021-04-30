@@ -1,13 +1,9 @@
-# [RDG] Gesetz über außergerichtliche Rechtsdienstleistungen  (Rechtsdienstleistungsgesetz - RDG)
-
-Ausfertigungsdatum: 12.12.2007
-
+% Gesetz über außergerichtliche Rechtsdienstleistungen  (Rechtsdienstleistungsgesetz - RDG)
+% Ausfertigungsdatum: 12.12.2007
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Befugnis, in der Bundesrepublik Deutschland außergerichtliche Rechtsdienstleistungen zu erbringen. Es dient dazu, die Rechtsuchenden, den Rechtsverkehr und die Rechtsordnung vor unqualifizierten Rechtsdienstleistungen zu schützen.
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 12.12.2007
 
 (3) Regelungen in anderen Gesetzen über die Befugnis, Rechtsdienstleistungen zu erbringen, bleiben unberührt.
 
-
-## § 2 – Begriff der Rechtsdienstleistung
+# § 2 – Begriff der Rechtsdienstleistung
 
 (1) Rechtsdienstleistung ist jede Tätigkeit in konkreten fremden Angelegenheiten, sobald sie eine rechtliche Prüfung des Einzelfalls erfordert.
 
@@ -36,18 +31,15 @@ Ausfertigungsdatum: 12.12.2007
 
 6. die Erledigung von Rechtsangelegenheiten innerhalb verbundener Unternehmen (§ 15 des Aktiengesetzes).
 
-
-## § 3 – Befugnis zur Erbringung außergerichtlicher Rechtsdienstleistungen
+# § 3 – Befugnis zur Erbringung außergerichtlicher Rechtsdienstleistungen
 
 Die selbständige Erbringung außergerichtlicher Rechtsdienstleistungen ist nur in dem Umfang zulässig, in dem sie durch dieses Gesetz oder durch oder aufgrund anderer Gesetze erlaubt wird.
 
-
-## § 4 – Unvereinbarkeit mit einer anderen Leistungspflicht
+# § 4 – Unvereinbarkeit mit einer anderen Leistungspflicht
 
 Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung einer anderen Leistungspflicht haben können, dürfen nicht erbracht werden, wenn hierdurch die ordnungsgemäße Erbringung der Rechtsdienstleistung gefährdet wird.
 
-
-## § 5 – Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit
+# § 5 – Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit
 
 (1) Erlaubt sind Rechtsdienstleistungen im Zusammenhang mit einer anderen Tätigkeit, wenn sie als Nebenleistung zum Berufs- oder Tätigkeitsbild gehören. Ob eine Nebenleistung vorliegt, ist nach ihrem Inhalt, Umfang und sachlichen Zusammenhang mit der Haupttätigkeit unter Berücksichtigung der Rechtskenntnisse zu beurteilen, die für die Haupttätigkeit erforderlich sind.
 
@@ -59,15 +51,13 @@ Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung einer ande
 
 3. Fördermittelberatung.
 
-
-## § 6 – Unentgeltliche Rechtsdienstleistungen
+# § 6 – Unentgeltliche Rechtsdienstleistungen
 
 (1) Erlaubt sind Rechtsdienstleistungen, die nicht im Zusammenhang mit einer entgeltlichen Tätigkeit stehen (unentgeltliche Rechtsdienstleistungen).
 
 (2) Wer unentgeltliche Rechtsdienstleistungen außerhalb familiärer, nachbarschaftlicher oder ähnlich enger persönlicher Beziehungen erbringt, muss sicherstellen, dass die Rechtsdienstleistung durch eine Person, der die entgeltliche Erbringung dieser Rechtsdienstleistung erlaubt ist, durch eine Person mit Befähigung zum Richteramt oder unter Anleitung einer solchen Person erfolgt. Anleitung erfordert eine an Umfang und Inhalt der zu erbringenden Rechtsdienstleistungen ausgerichtete Einweisung und Fortbildung sowie eine Mitwirkung bei der Erbringung der Rechtsdienstleistung, soweit dies im Einzelfall erforderlich ist.
 
-
-## § 7 – Berufs- und Interessenvereinigungen, Genossenschaften
+# § 7 – Berufs- und Interessenvereinigungen, Genossenschaften
 
 (1) Erlaubt sind Rechtsdienstleistungen, die
 
@@ -79,8 +69,7 @@ im Rahmen ihres satzungsmäßigen Aufgabenbereichs für ihre Mitglieder oder fü
 
 (2) Wer Rechtsdienstleistungen nach Absatz 1 erbringt, muss über die zur sachgerechten Erbringung dieser Rechtsdienstleistungen erforderliche personelle, sachliche und finanzielle Ausstattung verfügen und sicherstellen, dass die Rechtsdienstleistung durch eine Person, der die entgeltliche Erbringung dieser Rechtsdienstleistung erlaubt ist, durch eine Person mit Befähigung zum Richteramt oder unter Anleitung einer solchen Person erfolgt. § 6 Abs. 2 Satz 2 gilt entsprechend.
 
-
-## § 8 – Öffentliche und öffentlich anerkannte Stellen
+# § 8 – Öffentliche und öffentlich anerkannte Stellen
 
 (1) Erlaubt sind Rechtsdienstleistungen, die
 
@@ -98,8 +87,7 @@ im Rahmen ihres Aufgaben- und Zuständigkeitsbereichs erbringen.
 
 (2) Für die in Absatz 1 Nr. 4 und 5 genannten Stellen gilt § 7 Abs. 2 entsprechend.
 
-
-## § 9 – Untersagung von Rechtsdienstleistungen
+# § 9 – Untersagung von Rechtsdienstleistungen
 
 (1) Die für den Wohnsitz einer Person oder den Sitz einer Vereinigung zuständige Behörde kann den in den §§ 6, 7 Abs. 1 und § 8 Abs. 1 Nr. 4 und 5 genannten Personen und Vereinigungen die weitere Erbringung von Rechtsdienstleistungen für längstens fünf Jahre untersagen, wenn begründete Tatsachen die Annahme dauerhaft unqualifizierter Rechtsdienstleistungen zum Nachteil der Rechtsuchenden oder des Rechtsverkehrs rechtfertigen. Das ist insbesondere der Fall, wenn erhebliche Verstöße gegen die Pflichten nach § 6 Abs. 2, § 7 Abs. 2 oder § 8 Abs. 2 vorliegen.
 
@@ -107,8 +95,7 @@ im Rahmen ihres Aufgaben- und Zuständigkeitsbereichs erbringen.
 
 (3) Von der Untersagung bleibt die Befugnis, unentgeltliche Rechtsdienstleistungen innerhalb familiärer, nachbarschaftlicher oder ähnlich enger persönlicher Beziehungen zu erbringen, unberührt.
 
-
-## § 10 – Rechtsdienstleistungen aufgrund besonderer Sachkunde
+# § 10 – Rechtsdienstleistungen aufgrund besonderer Sachkunde
 
 (1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die bei der zuständigen Behörde registriert sind (registrierte Personen), dürfen aufgrund besonderer Sachkunde Rechtsdienstleistungen in folgenden Bereichen erbringen:
 
@@ -124,8 +111,7 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 
 (3) Die Registrierung kann, wenn dies zum Schutz der Rechtsuchenden oder des Rechtsverkehrs erforderlich ist, von Bedingungen abhängig gemacht oder mit Auflagen verbunden werden. Im Bereich der Inkassodienstleistungen soll die Auflage angeordnet werden, fremde Gelder unverzüglich an eine empfangsberechtigte Person weiterzuleiten oder auf ein gesondertes Konto einzuzahlen. Auflagen können jederzeit angeordnet oder geändert werden. Ist die Registrierung auf einen Teilbereich beschränkt, muss der Umfang der beruflichen Tätigkeit den Rechtsuchenden gegenüber eindeutig angegeben werden.
 
-
-## § 11 – Besondere Sachkunde, Berufsbezeichnungen
+# § 11 – Besondere Sachkunde, Berufsbezeichnungen
 
 (1) Inkassodienstleistungen erfordern besondere Sachkunde in den für die beantragte Inkassotätigkeit bedeutsamen Gebieten des Rechts, insbesondere des Bürgerlichen Rechts, des Handels-, Wertpapier- und Gesellschaftsrechts, des Zivilprozessrechts einschließlich des Zwangsvollstreckungs- und Insolvenzrechts sowie des Kostenrechts.
 
@@ -137,8 +123,7 @@ Die Registrierung kann auf einen Teilbereich der in Satz 1 genannten Bereiche be
 
 (5) Personen, die eine Berufsqualifikation im Sinne des § 12 Absatz 3 Satz 4 besitzen und nur für einen Teilbereich nach § 10 Absatz 1 Satz 2 registriert sind, haben ihre Berufstätigkeit unter der in die deutsche Sprache übersetzten Berufsbezeichnung ihres Herkunftsstaates auszuüben.
 
-
-## § 11a – Darlegungs- und Informationspflichten bei Inkassodienstleistungen
+# § 11a – Darlegungs- und Informationspflichten bei Inkassodienstleistungen
 
 (1) Registrierte Personen, die Inkassodienstleistungen erbringen, müssen, wenn sie eine Forderung gegenüber einer Privatperson geltend machen, mit der ersten Geltendmachung folgende Informationen klar und verständlich übermitteln:
 
@@ -164,8 +149,7 @@ Auf Anfrage sind der Privatperson folgende Informationen ergänzend mitzuteilen:
 
 (2) Privatperson im Sinne des Absatzes 1 ist jede natürliche Person, gegen die eine Forderung geltend gemacht wird, die nicht im Zusammenhang mit ihrer gewerblichen oder selbständigen beruflichen Tätigkeit steht.
 
-
-## § 12 – Registrierungsvoraussetzungen
+# § 12 – Registrierungsvoraussetzungen
 
 (1) Voraussetzungen für die Registrierung sind
 
@@ -199,8 +183,7 @@ aus der Rechts- oder Patentanwaltschaft oder einem im Steuerberatungsgesetz oder
 
 (5) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten zu den Voraussetzungen der Registrierung nach den §§ 11 und 12 zu regeln, insbesondere die Anforderungen an die Sachkunde und ihren Nachweis einschließlich der Anerkennung und Zertifizierung privater Anbieter von Sachkundelehrgängen, an die Anerkennung ausländischer Berufsqualifikationen und den Anpassungslehrgang sowie, auch abweichend von den Vorschriften des Versicherungsvertragsgesetzes für die Pflichtversicherung, an Inhalt und Ausgestaltung der Berufshaftpflichtversicherung.
 
-
-## § 13 – Registrierungsverfahren
+# § 13 – Registrierungsverfahren
 
 (1) Der Antrag auf Registrierung ist an die für den Ort der inländischen Hauptniederlassung zuständige Behörde zu richten. Hat eine Person im Inland keine Niederlassung, so kann sie den Antrag an jede nach § 19 für die Durchführung dieses Gesetzes zuständige Behörde richten. Das Registrierungsverfahren kann auch über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Mit dem Antrag, der alle nach § 16 Absatz 2 Satz 1 Nummer 1 Buchstabe a bis d in das Rechtsdienstleistungsregister einzutragenden Angaben enthalten muss, sind zur Prüfung der Voraussetzungen nach § 12 Abs. 1 Nr. 1 und 2 sowie Abs. 4 beizubringen:
 
@@ -222,8 +205,7 @@ In den Fällen des § 12 Abs. 4 müssen die in Satz 4 genannten Unterlagen sowie
 
 (4) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Registrierungsverfahrens und des Meldeverfahrens nach § 15 zu regeln. Dabei sind insbesondere Aufbewahrungs- und Löschungsfristen vorzusehen.
 
-
-## § 13a – Aufsichtsmaßnahmen
+# § 13a – Aufsichtsmaßnahmen
 
 (1) Die zuständige Behörde übt die Aufsicht über die Einhaltung dieses Gesetzes aus.
 
@@ -237,8 +219,7 @@ In den Fällen des § 12 Abs. 4 müssen die in Satz 4 genannten Unterlagen sowie
 
 (4) Soweit es zur Erfüllung der der zuständigen Behörde als Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, hat die Person, die Rechtsdienstleistungen erbringt, der zuständigen Behörde und den in ihrem Auftrag handelnden Personen das Betreten der Geschäftsräume während der üblichen Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen Unterlagen in geeigneter Weise zur Einsicht vorzulegen, auch soweit sie elektronisch geführt werden, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht hinzuweisen.
 
-
-## § 14 – Widerruf der Registrierung
+# § 14 – Widerruf der Registrierung
 
 Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des Verwaltungsverfahrensgesetzes oder entsprechender landesrechtlicher Vorschriften,
 
@@ -250,15 +231,13 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 4. wenn eine juristische Person oder eine Gesellschaft ohne Rechtspersönlichkeit, die keine weitere qualifizierte Person benannt hat, bei Ausscheiden der qualifizierten Person nicht innerhalb von sechs Monaten eine qualifizierte Person benennt.
 
-
-## § 14a – Bestellung eines Abwicklers für Rentenberater
+# § 14a – Bestellung eines Abwicklers für Rentenberater
 
 (1) Ist eine als Rentenberater registrierte Person (§ 10 Absatz 1 Satz 1 Nummer 2) verstorben oder wurde ihre Registrierung zurückgenommen oder widerrufen, so kann die für die Registrierung zuständige Behörde einen Abwickler für ihre Praxis bestellen. Der Abwickler muss Rechtsanwalt sein oder eine Registrierung für denselben Bereich besitzen wie die registrierte Person, deren Praxis abzuwickeln ist.
 
 (2) Für die Bestellung und Durchführung der Abwicklung gelten § 53 Absatz 5 Satz 3, Absatz 9 und 10 Satz 1 bis 6 sowie § 55 Absatz 1 Satz 4 und 5, Absatz 2 Satz 1 und 4, Absatz 3 Satz 2 und Absatz 4 der Bundesrechtsanwaltsordnung entsprechend mit der Maßgabe, dass an die Stelle des Vorstands der Rechtsanwaltskammer die Behörde tritt, die den Abwickler bestellt hat.
 
-
-## § 15 – Vorübergehende Rechtsdienstleistungen
+# § 15 – Vorübergehende Rechtsdienstleistungen
 
 (1) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz zur Ausübung eines in § 10 Absatz 1 Satz 1 Nummer 1 oder 2 genannten oder eines vergleichbaren Berufs rechtmäßig niedergelassen sind, dürfen diesen Beruf in der Bundesrepublik Deutschland mit denselben Rechten und Pflichten wie eine nach § 10 Absatz 1 Satz 1 Nummer 1 oder 2 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert sind, gilt dies nur, wenn die Person oder Gesellschaft den Beruf in den in Satz 1 genannten Staaten während der vorhergehenden zehn Jahre mindestens ein Jahr ausgeübt hat. Ob Rechtsdienstleistungen vorübergehend und gelegentlich erbracht werden, ist insbesondere anhand ihrer Dauer, Häufigkeit, regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
 
@@ -296,18 +275,15 @@ Die zuständige Behörde widerruft die Registrierung unbeschadet des § 49 des V
 
 (7) Natürliche und juristische Personen sowie Gesellschaften ohne Rechtspersönlichkeit, die in einem in Absatz 1 Satz 1 genannten Staat zur Erbringung von Rechtsdienstleistungen in einem ausländischen Recht (§ 10 Absatz 1 Satz 1 Nummer 3) rechtmäßig niedergelassen sind, dürfen diese Rechtsdienstleistungen in der Bundesrepublik Deutschland mit denselben Befugnissen wie eine nach § 10 Absatz 1 Satz 1 Nummer 3 registrierte Person vorübergehend und gelegentlich ausüben (vorübergehende Rechtsdienstleistungen). Absatz 1 Satz 2 und 3 sowie die Absätze 2 bis 6 gelten entsprechend.
 
-
-## § 15a – Statistik
+# § 15a – Statistik
 
 Über Verfahren nach § 12 Absatz 3 Satz 4 und § 15 wird eine Bundesstatistik durchgeführt. § 17 des Berufsqualifikationsfeststellungsgesetzes ist anzuwenden.
 
-
-## § 15b – Betrieb ohne Registrierung
+# § 15b – Betrieb ohne Registrierung
 
 Werden Rechtsdienstleistungen ohne erforderliche Registrierung oder vorübergehende Registrierung erbracht, so kann die zuständige Behörde die Fortsetzung des Betriebs verhindern.
 
-
-## § 16 – Inhalt des Rechtsdienstleistungsregisters
+# § 16 – Inhalt des Rechtsdienstleistungsregisters
 
 (1) Das Rechtsdienstleistungsregister dient der Information der Rechtsuchenden, der Personen, die Rechtsdienstleistungen anbieten, des Rechtsverkehrs und öffentlicher Stellen. Die Einsicht in das Rechtsdienstleistungsregister steht jedem unentgeltlich zu.
 
@@ -343,8 +319,7 @@ Bei öffentlichen Bekanntmachungen nach Satz 1 Nummer 1 werden mit der Geschäft
 
 (3) Die öffentliche Bekanntmachung erfolgt durch eine zentrale und länderübergreifende Veröffentlichung im Internet unter der Adresse www.rechtsdienstleistungsregister.de. Die nach § 9 Absatz 1 Satz 1, § 13 Absatz 1 Satz 1 oder 2 oder § 15 Absatz 2 Satz 1 zuständige Behörde trägt die datenschutzrechtliche Verantwortung für die von ihr im Rechtsdienstleistungsregister veröffentlichten Daten, insbesondere für die Rechtmäßigkeit ihrer Erhebung, die Zulässigkeit ihrer Veröffentlichung und ihre Richtigkeit. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der öffentlichen Bekanntmachung im Internet zu regeln.
 
-
-## § 17 – Löschung von Veröffentlichungen
+# § 17 – Löschung von Veröffentlichungen
 
 (1) Die im Rechtsdienstleistungsregister öffentlich bekanntgemachten Daten sind zu löschen
 
@@ -364,8 +339,7 @@ Wird im Fall des Satzes 1 Nummer 2 oder 4 ein Abwickler bestellt, erfolgt eine L
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten des Löschungsverfahrens zu regeln.
 
-
-## § 18 – Umgang mit personenbezogenen Daten
+# § 18 – Umgang mit personenbezogenen Daten
 
 (1) Die zuständigen Behörden dürfen einander und anderen für die Durchführung dieses Gesetzes zuständigen Behörden Daten über Registrierungen nach § 9 Abs. 2, § 10 Abs. 1 und § 15 Abs. 3 übermitteln, soweit die Kenntnis der Daten zur Durchführung dieses Gesetzes erforderlich ist. Sie dürfen die nach § 16 Abs. 2 öffentlich bekanntzumachenden Daten längstens für die Dauer von drei Jahren nach Löschung der Veröffentlichung zentral und länderübergreifend in einer Datenbank speichern und aus dieser im automatisierten Verfahren abrufen; § 16 Abs. 3 Satz 2 gilt entsprechend. Gerichte und Behörden dürfen der zuständigen Behörde personenbezogene Daten übermitteln, soweit deren Kenntnis für folgende Zwecke erforderlich ist:
 
@@ -387,15 +361,13 @@ Satz 3 gilt nur, soweit durch die Übermittlung der Daten schutzwürdige Interes
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, die Einzelheiten des Umgangs mit personenbezogenen Daten, insbesondere der Veröffentlichung in dem Rechtsdienstleistungsregister, der Einsichtnahme in das Register, der Datenübermittlung einschließlich des automatisierten Datenabrufs und der Amtshilfe, durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln.
 
-
-## § 19 – Zuständigkeit und Übertragung von Befugnissen
+# § 19 – Zuständigkeit und Übertragung von Befugnissen
 
 (1) Zuständig für die Durchführung dieses Gesetzes sind die Landesjustizverwaltungen, die zugleich zuständige Stellen im Sinn des § 117 Abs. 2 des Gesetzes über den Versicherungsvertrag sind. Mehrere Länder können eine Aufgabenwahrnehmung durch eine Landesjustizverwaltung vereinbaren.
 
 (2) Die Landesregierungen werden ermächtigt, die Aufgaben und Befugnisse, die den Landesjustizverwaltungen nach diesem Gesetz zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu übertragen. Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 20 – Bußgeldvorschriften
+# § 20 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 

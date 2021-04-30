@@ -1,13 +1,9 @@
-# [SchaumwZwStG] Schaumwein- und Zwischenerzeugnissteuergesetz  (SchaumwZwStG)
-
-Ausfertigungsdatum: 15.07.2009
-
+% Schaumwein- und Zwischenerzeugnissteuergesetz  (SchaumwZwStG)
+% Ausfertigungsdatum: 15.07.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Steuergebiet, Steuergegenstand
+# § 1 – Steuergebiet, Steuergegenstand
 
 (1) Schaumwein unterliegt im Steuergebiet der Schaumweinsteuer. Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Schaumweinsteuer ist eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
@@ -27,8 +23,7 @@ Ausfertigungsdatum: 15.07.2009
 
 2. zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften über die Feststellung des Alkoholgehalts und die Erfassung der steuerbaren Menge zu erlassen.
 
-
-## § 2 – Steuertarif
+# § 2 – Steuertarif
 
 (1) Die Steuer beträgt für Schaumwein vorbehaltlich des Absatzes 2 136 Euro je Hektoliter (hl).
 
@@ -38,8 +33,7 @@ Ausfertigungsdatum: 15.07.2009
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Verfahrensvereinfachung zu bestimmen, dass nichtverkehrsfähige kohlensäurehaltige Getränke, die für den Fall ihrer Verkehrsfähigkeit der Schaumweinsteuer nach Absatz 1 unterliegen würden, unter Angabe des Herstellers den zuständigen Lebensmittelüberwachungsbehörden mitgeteilt werden.
 
-
-## § 3 – Sonstige Begriffsbestimmungen
+# § 3 – Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -69,15 +63,13 @@ b) beim Eingang aus Drittgebieten der Ort, an dem der Schaumwein in sinngemäße
 
 11. Personen: natürliche und juristische Personen sowie Personenvereinigungen ohne eigene Rechtspersönlichkeit.
 
-
-## § 4 – Steuerlager
+# § 4 – Steuerlager
 
 (1) Steuerlager sind Orte, an oder von denen Schaumwein unter Steueraussetzung hergestellt, bearbeitet oder verarbeitet, gelagert, empfangen oder versandt werden darf.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens sowie zur Wahrung der Gleichmäßigkeit der Besteuerung zu bestimmen, welche Räume, Flächen, Anlagen und Betriebsteile zum Steuerlager gehören.
 
-
-## § 5 – Steuerlagerinhaber
+# § 5 – Steuerlagerinhaber
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die – soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind – ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Sind Anzeichen für eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer Sicherheit in Höhe des Steuerwerts des voraussichtlich im Jahresdurchschnitt in 1,5 Monaten aus dem Steuerlager in den steuerrechtlich freien Verkehr überführten Schaumweins abhängig.
 
@@ -91,8 +83,7 @@ b) beim Eingang aus Drittgebieten der Ort, an dem der Schaumwein in sinngemäße
 
 3. bei Gefährdung der Steuerbelange Sicherheit bis zur Höhe des Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder das Steuerlager unter amtlichen Verschluss zu nehmen.
 
-
-## § 6 – Registrierte Empfänger
+# § 6 – Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die Schaumwein unter Steueraussetzung
 
@@ -108,8 +99,7 @@ in ihren Betrieben im Steuergebiet zu gewerblichen Zwecken empfangen dürfen, we
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen.
 
-
-## § 7 – Registrierte Versender
+# § 7 – Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Schaumwein vom Ort der Einfuhr unter Steueraussetzung versenden dürfen.
 
@@ -119,8 +109,7 @@ in ihren Betrieben im Steuergebiet zu gewerblichen Zwecken empfangen dürfen, we
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung zu erlassen und dabei zur Vorbeugung des Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen, den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn steuerliche Belange dem nicht entgegenstehen.
 
-
-## § 8 – Begünstigte
+# § 8 – Begünstigte
 
 (1) Begünstigte, die Schaumwein unter Steueraussetzung im Steuergebiet empfangen dürfen, sind vorbehaltlich des Absatzes 2
 
@@ -150,8 +139,7 @@ und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren für den Empfang unter Steueraussetzung mit Freistellungsbescheinigung für Begünstigte nach Absatz 1 näher zu regeln und zur Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im Steuergebiet anstelle einer Freistellungsbescheinigung andere geeignete Dokumente zuzulassen.
 
-
-## § 9 – Beförderungen (Allgemeines)
+# § 9 – Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur dann als unter Steueraussetzung durchgeführt, wenn sie mit einem elektronischen Verwaltungsdokument nach Artikel 21 der Systemrichtlinie erfolgen.
 
@@ -159,8 +147,7 @@ und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Beförderung unter Steueraussetzung entsprechend den Artikeln 21 bis 31 der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und den dazu erforderlichen Datenaustausch zu regeln und dabei das Verfahren abweichend von Absatz 1 zu bestimmen.
 
-
-## § 10 – Beförderungen im Steuergebiet
+# § 10 – Beförderungen im Steuergebiet
 
 (1) Schaumwein darf unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet
 
@@ -192,8 +179,7 @@ aufzunehmen oder
 
 2. zur Verfahrensvereinfachung zuzulassen, dass Schaumwein, den Steuerlagerinhaber oder Verwender (§ 23a Absatz 1) in Besitz genommen haben, als in ihr Steuerlager oder ihren Betrieb aufgenommen gilt, soweit Steuerbelange dadurch nicht beeinträchtigt werden.
 
-
-## § 11 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+# § 11 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
 (1) Schaumwein darf unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden
 
@@ -249,8 +235,7 @@ im Steuergebiet aufzunehmen oder
 
 2. für häufig und regelmäßig stattfindende Beförderungen von Schaumwein in einem Verfahren der Steueraussetzung zwischen den Gebieten von zwei oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-
-## § 12 – Ausfuhr
+# § 12 – Ausfuhr
 
 (1) Schaumwein darf unter Steueraussetzung, auch über Drittländer oder Drittgebiete, aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet zu einem Ort befördert werden, an dem der Schaumwein das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlässt.
 
@@ -260,8 +245,7 @@ im Steuergebiet aufzunehmen oder
 
 (4) Für die Verfahrensvorschriften, die Sicherheitsleistung und die Zulassung von Verfahrensvereinfachungen gilt für die unmittelbare Ausfuhr aus dem Steuergebiet § 10 Absatz 2 und 5, für die Ausfuhr über andere Mitgliedstaaten § 11 Absatz 2 und 6 entsprechend.
 
-
-## § 13 – Unregelmäßigkeiten während der Beförderung
+# § 13 – Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 14 Absatz 3 geregelten Fälle, auf Grund dessen die Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
@@ -283,8 +267,7 @@ Hatte die Person, die für die Beförderung Sicherheit geleistet hat (§ 11 Absa
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 2 bis 6 zu erlassen.
 
-
-## § 14 – Steuerentstehung, Steuerschuldner
+# § 14 – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung des Schaumweins in den steuerrechtlich freien Verkehr, es sei denn, es schließt sich eine Steuerbefreiung an.
 
@@ -316,8 +299,7 @@ Wird Schaumwein aus einem Steuerlager an Personen abgegeben, die nicht im Besitz
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu Absatz 3 zu erlassen, insbesondere zu den Anforderungen an den Nachweis.
 
-
-## § 15 – Steueranmeldung, Fälligkeit
+# § 15 – Steueranmeldung, Fälligkeit
 
 (1) Die Steuerschuldner nach § 14 Absatz 4 Satz 1 Nummer 1 erste Alternative und Nummer 3 haben über Schaumwein, für den in einem Monat die Steuer entstanden ist, spätestens am zehnten Tag des auf die Steuerentstehung folgenden Monats eine Steuererklärung abzugeben und in ihr die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist am fünften Tag des zweiten auf die Steuerentstehung folgenden Monats fällig.
 
@@ -325,8 +307,7 @@ Wird Schaumwein aus einem Steuerlager an Personen abgegeben, die nicht im Besitz
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung die Einzelheiten zur Steueranmeldung zu bestimmen.
 
-
-## § 16 – Einfuhr
+# § 16 – Einfuhr
 
 (1) Einfuhr ist
 
@@ -352,13 +333,11 @@ und die dazu ergangenen Vorschriften;
 
 2. beim Eingang von Schaumwein im zollrechtlichen Status als Gemeinschaftsware aus Drittgebieten in sinngemäßer Anwendung die nach Titel III Kapitel 1 bis 4 des Zollkodex vorgesehenen besonderen Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der Gemeinschaft.
 
-
-## § 17 – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
+# § 17 – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich der Schaumwein befindet, Unregelmäßigkeiten ein, gilt Artikel 215 des Zollkodex sinngemäß.
 
-
-## § 18 – Steuerentstehung, Steuerschuldner
+# § 18 – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung des Schaumweins in den steuerrechtlich freien Verkehr durch die Einfuhr, es sei denn, der Schaumwein wird unmittelbar am Ort der Einfuhr in ein Verfahren der Steueraussetzung überführt oder es schließt sich eine Steuerbefreiung an. Die Steuer entsteht nicht, wenn der Schaumwein unter Steueraussetzung aus dem Steuergebiet oder einem anderen Mitgliedstaat über Drittländer oder Drittgebiete in das Steuergebiet befördert wird.
 
@@ -376,8 +355,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich der Schaumw
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu Absatz 3 zu erlassen und die Besteuerung abweichend von Absatz 3 zu regeln, soweit dies zur Sicherung des Steueraufkommens oder zur Anpassung an die Behandlung im Steuergebiet hergestellten Schaumweins oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
 
-
-## § 19 – Erwerb durch Privatpersonen
+# § 19 – Erwerb durch Privatpersonen
 
 (1) Schaumwein, den eine Privatperson für ihren Eigenbedarf in anderen Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst in das Steuergebiet befördert (private Zwecke), ist steuerfrei.
 
@@ -393,8 +371,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich der Schaumw
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens vorzuschreiben, bei welcher Menge Schaumwein nach Absatz 1 widerleglich vermutet wird, dass dieser nicht für den Eigenbedarf der Privatperson bestimmt ist.
 
-
-## § 20 – Bezug und Besitz zu gewerblichen Zwecken
+# § 20 – Bezug und Besitz zu gewerblichen Zwecken
 
 (1) Wird Schaumwein in anderen als den in § 19 Absatz 1 genannten Fällen aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats bezogen (gewerbliche Zwecke), entsteht die Steuer dadurch, dass der Bezieher
 
@@ -420,8 +397,7 @@ Steuerschuldner ist, wer den Schaumwein versendet, in Besitz hält oder verwende
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu den Absätzen 1, 2, 4 und 5 zu erlassen, insbesondere zum Besteuerungsverfahren und zur Sicherheit.
 
-
-## § 21 – Versandhandel
+# § 21 – Versandhandel
 
 (1) Versandhandel betreibt, wer Schaumwein aus dem steuerrechtlich freien Verkehr des Mitgliedstaats, in dem er seinen Sitz hat, an Privatpersonen in anderen Mitgliedstaaten liefert und den Versand der Ware an den Erwerber selbst durchführt oder durch andere durchführen lässt (Versandhändler). Als Privatpersonen gelten alle Erwerber, die sich gegenüber dem Versandhändler nicht als Abnehmer ausweisen, deren innergemeinschaftliche Erwerbe nach den Vorschriften des Umsatzsteuergesetzes der Umsatzsteuer unterliegen.
 
@@ -439,8 +415,7 @@ Steuerschuldner ist, wer den Schaumwein versendet, in Besitz hält oder verwende
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1, 2, 4 bis 7 zu erlassen.
 
-
-## § 22 – Unregelmäßigkeiten während der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+# § 22 – Unregelmäßigkeiten während der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
 (1) Treten während der Beförderung von Schaumwein nach § 20 Absatz 1 und 2 oder nach § 21 Absatz 2 im Steuergebiet Unregelmäßigkeiten ein, entsteht die Steuer. Dies gilt auch, wenn während der Beförderung im Steuergebiet eine Unregelmäßigkeit festgestellt wurde, ohne dass sich der Ort, an dem sie begangen wurde, bestimmen lässt.
 
@@ -450,8 +425,7 @@ Steuerschuldner ist, wer den Schaumwein versendet, in Besitz hält oder verwende
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und 3 zu erlassen.
 
-
-## § 23 – Steuerbefreiungen
+# § 23 – Steuerbefreiungen
 
 (1) Schaumwein ist von der Steuer befreit, wenn er gewerblich verwendet wird
 
@@ -495,8 +469,7 @@ d) anzuordnen, dass Vergällungsmittel von den Betrieben auf ihre Kosten bereitz
 
 2. bei wirtschaftlichem Bedürfnis auch die nichtgewerbliche steuerbefreite Verwendung nach Absatz 1 zuzulassen.
 
-
-## § 23a – Verwender
+# § 23a – Verwender
 
 (1) Wer Schaumwein in den Fällen des § 23 Absatz 1 steuerfrei verwenden will, bedarf einer Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen.
 
@@ -520,15 +493,13 @@ a) Mindestmengen für die Verwendung von Schaumwein vorzuschreiben,
 
 b) die steuerbefreite Verwendung unter Verzicht auf Einzelerlaubnisse allgemein zuzulassen.
 
-
-## § 24 – Steuerentlastung im Steuergebiet
+# § 24 – Steuerentlastung im Steuergebiet
 
 (1) Nachweislich versteuerter Schaumwein, der in ein Steuerlager aufgenommen worden ist, wird auf Antrag von der Steuer entlastet. Entlastungsberechtigt ist der Steuerlagerinhaber.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 1 zu erlassen und insbesondere eine für den Entlastungsberechtigten ausgestellte Versteuerungsbestätigung des Steuerschuldners für den Antrag nach Absatz 1 Satz 1 vorzuschreiben.
 
-
-## § 25 – Steuerentlastung bei der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
+# § 25 – Steuerentlastung bei der Beförderung von Schaumwein des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
 (1) Nachweislich versteuerter Schaumwein, der zu gewerblichen Zwecken (einschließlich Versandhandel) in einen anderen Mitgliedstaat befördert worden ist, wird auf Antrag von der Steuer entlastet. Das gilt auch, wenn der Schaumwein nicht am Bestimmungsort angekommen ist, der Beförderer jedoch auf Grund einer in einem anderen Mitgliedstaat festgestellten Unregelmäßigkeit als Steuerschuldner in Anspruch genommen worden ist. Entlastungsberechtigt ist, wer den Schaumwein in den anderen Mitgliedstaat befördert hat.
 
@@ -550,8 +521,7 @@ c) eine ordnungsgemäße Empfangsbestätigung sowie eine amtliche Bestätigung d
 
 2. zur Verwaltungsvereinfachung Mindestmengen vorzuschreiben sowie Steuerlagerinhaber von dem Verfahren auszuschließen.
 
-
-## § 26 – Steueraufsicht
+# § 26 – Steueraufsicht
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegt die Tätigkeit eines Beauftragten nach § 21 Absatz 4 Satz 1 im Steuergebiet der Steueraufsicht.
 
@@ -565,15 +535,13 @@ c) eine ordnungsgemäße Empfangsbestätigung sowie eine amtliche Bestätigung d
 
 Die §§ 215, 216 der Abgabenordnung finden entsprechende Anwendung.
 
-
-## § 27 – Geschäftsstatistik
+# § 27 – Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen stellen die Hauptzollämter für statistische Zwecke Erhebungen an und teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für allgemeine Zwecke übermitteln.
 
-
-## § 28 – Besondere Ermächtigungen
+# § 28 – Besondere Ermächtigungen
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -629,8 +597,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 7. zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in Fertigpackungen in den freien Verkehr des Steuergebiets gelangt, zu diesem Zeitpunkt durch Steuerzeichen gekennzeichnet sein muss, und Schaumwein, der im freien Verkehr zu gewerblichen Zwecken in Fertigpackungen abgefüllt wird, bei seiner Entfernung aus dem abfüllenden Betrieb in gleicher Weise gekennzeichnet sein muss. Dabei können die Kennzeichnung und insbesondere die Herstellung, die Gestaltung, der Bezug, die Anbringung und die Verwendung der Steuerzeichen und das Steuerzeichenverfahren im Übrigen geregelt sowie notwendige Sicherungsmaßnahmen angeordnet werden. Darüber hinaus können in der Rechtsverordnung die Steuerzeichen als Wertzeichen zur Entrichtung der Schaumweinsteuer bestimmt und angeordnet werden, dass mit dem Bezug des Steuerzeichens in Höhe des Steuerwerts eine Steuerzeichenschuld in der Person des Beziehers entsteht, sowie Regelungen über die Entlastung von der Steuerzeichenschuld oder der Schaumweinsteuer getroffen werden, wenn Steuerzeichen zurückgegeben oder unter Steueraufsicht vernichtet werden oder ungültig gemacht oder gekennzeichneter Schaumwein aus dem freien Verkehr des Steuergebiets genommen wird. Dabei kann das Bundesministerium der Finanzen zur Durchführung des Steuerzeichenverfahrens bestimmen, dass Schaumwein nur in Steuerlagern in Fertigpackungen abgefüllt werden darf und für zurückgegebene, vernichtete oder ungültig gemachte Steuerzeichen Gebühren erhoben werden.
 
-
-## § 29 – Steuergegenstand
+# § 29 – Steuergegenstand
 
 (1) Zwischenerzeugnisse unterliegen im Steuergebiet (§ 1 Absatz 1 Satz 2) der Zwischenerzeugnissteuer. Die Steuer ist eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
@@ -638,8 +605,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 (3) Auf Zwischenerzeugnisse finden vorbehaltlich des § 31 der § 1 Absatz 3 und 4 und die §§ 3 bis 28 des Teils 1 entsprechende Anwendung.
 
-
-## § 30 – Steuertarif
+# § 30 – Steuertarif
 
 (1) Die Steuer beträgt für Zwischenerzeugnisse vorbehaltlich des Absatzes 2 153 Euro/hl.
 
@@ -653,13 +619,11 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 136 Euro/hl.
 
-
-## § 31 – Herstellung von Zwischenerzeugnissen
+# § 31 – Herstellung von Zwischenerzeugnissen
 
 Die Vorschrift des § 14 Absatz 2 Nummer 2 in Verbindung mit Absatz 1 über die Steuerentstehung bei der Herstellung ohne Erlaubnis nach § 5 findet auf Zwischenerzeugnisse keine Anwendung, sofern die für die Bestandteile (Alkohol im Sinne des Alkoholsteuergesetzes, alkoholische Getränke) entrichtete Verbrauchsteuer insgesamt nicht niedriger ist als die Steuer für das Zwischenerzeugnis.
 
-
-## § 32 – Begriffsbestimmung
+# § 32 – Begriffsbestimmung
 
 (1) Wein im Sinn dieses Gesetzes sind die nicht der Schaumweinsteuer nach § 1 Absatz 2 unterliegenden Erzeugnisse
 
@@ -679,8 +643,7 @@ b) sie weisen einen vorhandenen Alkoholgehalt von mehr als 15 Volumenprozent bis
 
 2. vorbehaltlich des § 33 bei Beförderungen von Wein aus anderen, in andere oder über andere Mitgliedstaaten die §§ 3 bis 9, 11 bis 13, 16 und 17 und 21 Absatz 7.
 
-
-## § 33 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+# § 33 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
 (1) Beförderungen von Wein aus anderen, in andere oder über andere Mitgliedstaaten im gewerblichen Verkehr und die daran beteiligten Betriebe und Personen unterliegen im Steuergebiet (§ 1 Absatz 1 Satz 2) der Steueraufsicht. Die §§ 210 bis 217 der Abgabenordnung sind für diese Beförderungen entsprechend anzuwenden.
 
@@ -692,11 +655,9 @@ b) sie weisen einen vorhandenen Alkoholgehalt von mehr als 15 Volumenprozent bis
 
 2. zur Verfahrensvereinfachung für Traubenwein erzeugende Betriebe mit einer durchschnittlichen Erzeugung von weniger als 1 000 Hektoliter Wein pro Weinwirtschaftsjahr zuzulassen, dass sie die für den Versand von Traubenwein nach dem Weinrecht vorgeschriebenen Begleitpapiere verwenden können und diejenigen Betriebe, die die nach Weinrecht vorgeschriebenen Bücher führen, von der Pflicht zur Führung besonderer steuerlicher Aufzeichnungen zu befreien.
 
+# § 34 – (weggefallen)
 
-## § 34 – (weggefallen)
-
-
-## § 35 – Ordnungswidrigkeiten
+# § 35 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -712,13 +673,11 @@ b) § 21 Absatz 7 Satz 1, auch in Verbindung mit § 29 Absatz 3 oder § 32 Absat
 
 eine Anzeige nicht oder nicht rechtzeitig erstattet.
 
-
-## § 36 – Verwaltungsvorschriften
+# § 36 – Verwaltungsvorschriften
 
 Das Bundesministerium der Finanzen erlässt die allgemeinen Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
-## § 37 – Übergangsvorschriften
+# § 37 – Übergangsvorschriften
 
 (1) Für Beförderungen unter Steueraussetzung, die vor dem 1. Januar 2011 begonnen worden sind, gilt dieses Gesetz in der bis zum 31. März 2010 geltenden Fassung bis zum 31. Dezember 2010 fort, es sei denn die Beförderungen sind mit elektronischem Verwaltungsdokument nach Artikel 21 der Systemrichtlinie eröffnet worden.
 

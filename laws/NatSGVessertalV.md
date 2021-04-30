@@ -1,36 +1,24 @@
-# [NatSGVessertalV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Vessertal"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Vessertal"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 In dem in § 2 näher bezeichneten Umfang werden im Thüringer Wald Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Vessertal" festgesetzt.
 
+# § 2 – Flächenbeschreibung und Abgrenzung
 
-## § 2 – Flächenbeschreibung und Abgrenzung
-
-(1) Das Biosphärenreservat repräsentiert einen charakteristischen Querschnitt durch den mittleren Thüringer Wald. Es erstreckt sich aus 420 m ü. NN am Gebirgsrand bis über 982 m ü. NN im Kammbereich. Der Untergrund besteht aus Sedimenten und Ergußgesteinen des Rotliegenden (Unteres Perm) sowie kleinflächig aus kambrischen Tonschiefern und im Randbereich aus Buntsandstein. Das Gebirge ist durch zahlreiche tiefe Täler zerschnitten. Das Gewässernetz ist sehr dicht (1,5 bis 2,5 km Lauflänge pro Quadratkilometer). Es überwiegen kleine, gefällreiche, kiesig-blockige Bäche mit meist klarem Wasser. An stehenden Gewässern sind vor allem zwei Trinkwassertalsperren zu nennen.  
-Das Gebiet ist zu 85% bewaldet, wobei naturnahe Buchenwälder verschiedener Ausprägungen einen erheblichen Anteil besitzen. Der größere Teil wird von Fichtenforsten eingenommen, insbesondere in den höheren Lagen.  
-Zum charakteristischen Landschaftsinventar gehören die Grünlandflächen auf den langgestreckten Talsohlen, an flacheren Hängen und in Quellmulden. Mit Borstgrasrasen, Frisch- und Feuchtwiesen, Hochstaudenfluren, Bachröhrichten und Quellfluren spiegeln sie das reichhaltige Standortmosaik an den Hängen, in den Tälern und entlang der Bäche wider. Die früher zweischürige Mahd mit umfangreicher Rieselbewässerung ist in den letzten Jahrzehnten meist intensiverer Nutzung durch Rinderbeweidung gewichen. Entfernt gelegene Wiesen blieben ungenutzt.  
-In den Kammlagen sind mehrere Hochmoore in das Reservat einbezogen.  
-Die sehr unterschiedlichen Landschaftsstrukturen werden von einer sehr artenreichen Tier- und Pflanzenwelt besiedelt. Dazu zählen zahlreiche besonders geschützte Arten aus den verschiedenen taxonomischen Gruppen. Auch vom Aussterben bedrohte Arten kommen vor.  
-Die landschaftlichen Schönheiten bieten traditionsgemäß Urlaubern und Touristen zu allen Jahreszeiten hervorragende Erholungsmöglichkeiten.
+(1) Das Biosphärenreservat repräsentiert einen charakteristischen Querschnitt durch den mittleren Thüringer Wald. Es erstreckt sich aus 420 m ü. NN am Gebirgsrand bis über 982 m ü. NN im Kammbereich. Der Untergrund besteht aus Sedimenten und Ergußgesteinen des Rotliegenden (Unteres Perm) sowie kleinflächig aus kambrischen Tonschiefern und im Randbereich aus Buntsandstein. Das Gebirge ist durch zahlreiche tiefe Täler zerschnitten. Das Gewässernetz ist sehr dicht (1,5 bis 2,5 km Lauflänge pro Quadratkilometer). Es überwiegen kleine, gefällreiche, kiesig-blockige Bäche mit meist klarem Wasser. An stehenden Gewässern sind vor allem zwei Trinkwassertalsperren zu nennen. Das Gebiet ist zu 85% bewaldet, wobei naturnahe Buchenwälder verschiedener Ausprägungen einen erheblichen Anteil besitzen. Der größere Teil wird von Fichtenforsten eingenommen, insbesondere in den höheren Lagen. Zum charakteristischen Landschaftsinventar gehören die Grünlandflächen auf den langgestreckten Talsohlen, an flacheren Hängen und in Quellmulden. Mit Borstgrasrasen, Frisch- und Feuchtwiesen, Hochstaudenfluren, Bachröhrichten und Quellfluren spiegeln sie das reichhaltige Standortmosaik an den Hängen, in den Tälern und entlang der Bäche wider. Die früher zweischürige Mahd mit umfangreicher Rieselbewässerung ist in den letzten Jahrzehnten meist intensiverer Nutzung durch Rinderbeweidung gewichen. Entfernt gelegene Wiesen blieben ungenutzt. In den Kammlagen sind mehrere Hochmoore in das Reservat einbezogen. Die sehr unterschiedlichen Landschaftsstrukturen werden von einer sehr artenreichen Tier- und Pflanzenwelt besiedelt. Dazu zählen zahlreiche besonders geschützte Arten aus den verschiedenen taxonomischen Gruppen. Auch vom Aussterben bedrohte Arten kommen vor. Die landschaftlichen Schönheiten bieten traditionsgemäß Urlaubern und Touristen zu allen Jahreszeiten hervorragende Erholungsmöglichkeiten.
 
 (2) Die Grenze des Biosphärenreservates verläuft wie folgt:  
-Straße vom oberen Ende des Floßgrabens (nordwestlich des Großen Beerberges) in Richtung Schmücke bis Abzweigung zum Schneekopf, Richtung Schneekopf 1.000 m, Weg nördlich des Teufelskreismoores zur Straße Schmücke - Gehlberg (Güldene Brücke), nach 500 m Richtung Südost ins Große Löffeltal, dieses 500 m talabwärts, 900 m Richtung Sachsenstein, nach Osten zur Straße Schmücke-Mönchshof, diese bis Zwei Wiesen, Silbergrund bis Osthang Großer Rödel, nach Süden Weg östlich Rosenkopf bis Taubachtal, talabwärts bis Stützerbach, Ort ausschließend, Busselbach aufwärts nach Ost und Nord bis Auerhahn, Straße in Richtung Ilmenau bis Nördlicher Erbskopf, nördlicher Hangweg des Schortetales bis Voglersmühle, Schortetal bis Mühle, westlich Öhrenstock am Waldrand entlang nach Süden ins Schobsetal, über Weißlederspitze durch Haßlachtal zur Straße Gehren-Schönbrunn oberhalb der Katsmühle (Wohlrosestraße), über Ebereschenhügel, Straße in Richtung Schönbrunn durch Tannengrund, Südufer der Talsperre Schönbrunn, Sperrmauer, Waldweg Zehn Buchen ins Glasbachtal, nach Schleusingerneundorf, Straße in Richtung Schleusingen bis 2 km nordöstlich Hinternah, Waldrand Eisenhügel und Silberbacher Kuppe in Richtung Nord, östlich Breitenbach zum Kreckebach, am Bach entlang nach Breitenbach, Weg Breitenbach-Erlau, Eisenbahn und F 247 bis Suhl, Waldrand Döllberg und Ringberg östlich Suhl und nördlicher Waldrand Ringberg, Steinhorst, Krötengrund, Waldrand südlich, östlich und nördlich Goldlauter, Tal der Dürren Lauter zur Rosenkopfstraße, Richtung Südwest zum Punkt 758,8, Weg zum Rennsteig am Floßgraben.  
-Der Verlauf der Grenze entlang der Straßen, Wege und Schienen versteht sich ausschließlich dieser. Verläuft sie an Bächen, sind diese eingeschlossen.
+Straße vom oberen Ende des Floßgrabens (nordwestlich des Großen Beerberges) in Richtung Schmücke bis Abzweigung zum Schneekopf, Richtung Schneekopf 1.000 m, Weg nördlich des Teufelskreismoores zur Straße Schmücke - Gehlberg (Güldene Brücke), nach 500 m Richtung Südost ins Große Löffeltal, dieses 500 m talabwärts, 900 m Richtung Sachsenstein, nach Osten zur Straße Schmücke-Mönchshof, diese bis Zwei Wiesen, Silbergrund bis Osthang Großer Rödel, nach Süden Weg östlich Rosenkopf bis Taubachtal, talabwärts bis Stützerbach, Ort ausschließend, Busselbach aufwärts nach Ost und Nord bis Auerhahn, Straße in Richtung Ilmenau bis Nördlicher Erbskopf, nördlicher Hangweg des Schortetales bis Voglersmühle, Schortetal bis Mühle, westlich Öhrenstock am Waldrand entlang nach Süden ins Schobsetal, über Weißlederspitze durch Haßlachtal zur Straße Gehren-Schönbrunn oberhalb der Katsmühle (Wohlrosestraße), über Ebereschenhügel, Straße in Richtung Schönbrunn durch Tannengrund, Südufer der Talsperre Schönbrunn, Sperrmauer, Waldweg Zehn Buchen ins Glasbachtal, nach Schleusingerneundorf, Straße in Richtung Schleusingen bis 2 km nordöstlich Hinternah, Waldrand Eisenhügel und Silberbacher Kuppe in Richtung Nord, östlich Breitenbach zum Kreckebach, am Bach entlang nach Breitenbach, Weg Breitenbach-Erlau, Eisenbahn und F 247 bis Suhl, Waldrand Döllberg und Ringberg östlich Suhl und nördlicher Waldrand Ringberg, Steinhorst, Krötengrund, Waldrand südlich, östlich und nördlich Goldlauter, Tal der Dürren Lauter zur Rosenkopfstraße, Richtung Südwest zum Punkt 758,8, Weg zum Rennsteig am Floßgraben. Der Verlauf der Grenze entlang der Straßen, Wege und Schienen versteht sich ausschließlich dieser. Verläuft sie an Bächen, sind diese eingeschlossen.
 
 (3) Die Grenze des Biosphärenreservates ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Biosphärenreservates in Karten M 1:10.000 und M 1:25.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Reservatsverwaltung und der Kreisverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumlichen Eigenarten des mittleren Thüringer Waldes in der Umgebung des Vessertales in Verbindung mit ihrer gebietstypischen Nutzung zu schützen, zu pflegen und zu entwickeln. Insbesondere sind
 
@@ -48,8 +36,7 @@ Mit der Festsetzung als Biosphärenreservat wird bezweckt, die naturräumlichen 
 
 7. die Teile der harmonischen Kulturlandschaft für landschaftsökologisch vertretbare Formen der Bildung und Erholung zu erschließen und zu sichern.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Biosphärenreservat wird in die Schutzzonen I, II und III gegliedert.
 
@@ -107,8 +94,7 @@ Revier 4.21 Morast, Abt. 1407, 1408, 1412 - 1417, NHB 16 - 18, (Waldzustand 01. 
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Biosphärenreservat ist es geboten,
 
@@ -142,8 +128,7 @@ Revier 4.21 Morast, Abt. 1407, 1408, 1412 - 1417, NHB 16 - 18, (Waldzustand 01. 
 
 11. in der Schutzzone II durch die Bewirtschafter alle Voraussetzungen zu schaffen, daß die mit der Reservatsverwaltung abgestimmten Freilandforschungen und die Nutzung des Biosphärenreservats für Studien- und Demonstrationszwecke gewährleistet ist.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) In der Schutzzone III ist es verboten,
 
@@ -195,8 +180,7 @@ Revier 4.21 Morast, Abt. 1407, 1408, 1412 - 1417, NHB 16 - 18, (Waldzustand 01. 
 
 2. das Gebiet in irgendeiner Weise zu beeinträchtigen.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -220,8 +204,7 @@ sowie durch Sonstige mit Genehmigung der Reservatsverwaltung,
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Biosphärenreservats (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -235,8 +218,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
@@ -246,34 +228,28 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen aufgrund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1475)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

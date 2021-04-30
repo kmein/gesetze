@@ -1,18 +1,13 @@
-# [BWFSPrV] Verordnung über die Abschlussprüfungen an Bundeswehrfachschulen  (Bundeswehrfachschulprüfungsverordnung - BWFSPrV)
-
-Ausfertigungsdatum: 23.04.2015
-
+% Verordnung über die Abschlussprüfungen an Bundeswehrfachschulen  (Bundeswehrfachschulprüfungsverordnung - BWFSPrV)
+% Ausfertigungsdatum: 23.04.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10a Absatz 1 und 3 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S. 3054) verordnet die Bundesregierung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Abschlüsse
+# § 1 – Abschlüsse
 
 An Bundeswehrfachschulen können folgende Abschlüsse erlangt werden:
 
@@ -40,8 +35,7 @@ c) in der Fachrichtung Wirtschaft,
 
 d) in weiteren Fachrichtungen, für die die bundesweite Anerkennung des Abschlusses gewährleistet ist.
 
-
-## § 2 – Zugangsvoraussetzungen
+# § 2 – Zugangsvoraussetzungen
 
 (1) Das Vorliegen der Zugangsvoraussetzungen für die Teilnahme an der Abschlussprüfung wird durch die Bundeswehrfachschule sichergestellt.
 
@@ -65,8 +59,7 @@ b) der Nachweis einer einschlägigen abgeschlossenen Berufsausbildung oder einer
 
 (3) Die Teilnahme an einer Abschlussprüfung ist nicht zulässig, wenn der angestrebte Abschluss bereits erworben wurde.
 
-
-## § 3 – Bestandteile, Zeitpunkt und Organisation der Prüfung
+# § 3 – Bestandteile, Zeitpunkt und Organisation der Prüfung
 
 (1) Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil (§§ 11 und 14).
 
@@ -74,8 +67,7 @@ b) der Nachweis einer einschlägigen abgeschlossenen Berufsausbildung oder einer
 
 (3) Für die Organisation der Prüfung ist die Schulleiterin oder der Schulleiter zuständig.
 
-
-## § 4 – Prüfungsausschuss
+# § 4 – Prüfungsausschuss
 
 (1) Für die Durchführung der Prüfung wird ein Prüfungsausschuss gebildet.
 
@@ -97,8 +89,7 @@ Die oder der Beauftragte der obersten Schulaufsichtsbehörde des Landes kann den
 
 (4) Der Prüfungsausschuss ist beschlussfähig, wenn außer der oder dem Vorsitzenden mindestens die Hälfte seiner Mitglieder anwesend ist. Er entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 5 – Unterausschüsse
+# § 5 – Unterausschüsse
 
 (1) Zur Durchführung der mündlichen Abschlussprüfung kann die oder der Vorsitzende aus den Mitgliedern des Prüfungsausschusses und weiteren Fachlehrkräften einer Bundeswehrfachschule Unterausschüsse bilden, um durch gleichzeitige Prüfungen die Gesamtprüfungsdauer zu verkürzen.
 
@@ -110,15 +101,13 @@ Die oder der Beauftragte der obersten Schulaufsichtsbehörde des Landes kann den
 
 3. eine Fachlehrkraft als Protokollführerin oder Protokollführer.
 
-
-## § 6 – Anmeldung zur Prüfung
+# § 6 – Anmeldung zur Prüfung
 
 (1) Die Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer haben sich im Prüfungshalbjahr schriftlich oder elektronisch bei der Schulleitung zur Prüfung anzumelden.
 
 (2) Mit der Anmeldung zur Prüfung zur Erlangung des Hauptschulabschlusses hat die Lehrgangsteilnehmerin oder der Lehrgangsteilnehmer auch anzugeben, ob sie oder er als drittes Fach der schriftlichen Abschlussprüfung Englisch oder Gemeinschaftskunde wählt.
 
-
-## § 7 – Anmeldefrist
+# § 7 – Anmeldefrist
 
 (1) Für die Anmeldung zur Prüfung gilt die von der Schulleitung bestimmte Frist.
 
@@ -126,20 +115,17 @@ Die oder der Beauftragte der obersten Schulaufsichtsbehörde des Landes kann den
 
 (3) Lehrgangsteilnehmerinnen oder Lehrgangsteilnehmer, die die Anmeldefrist unverschuldet versäumt haben, lässt die Schulleiterin oder der Schulleiter zum weiteren Prüfungsverfahren zu.
 
-
-## § 8 – Zulassung zur Prüfung
+# § 8 – Zulassung zur Prüfung
 
 (1) Über die Zulassung zur Prüfung entscheidet die oder der Vorsitzende des Prüfungsausschusses.
 
 (2) Die Schulleiterin oder der Schulleiter benachrichtigt die Lehrgangsteilnehmerin oder den Lehrgangsteilnehmer über die Entscheidung. Bei Nichtzulassung ist die Entscheidung unter Mitteilung der wesentlichen Gründe schriftlich oder elektronisch bekannt zu geben.
 
-
-## § 9 – Prüfungsliste
+# § 9 – Prüfungsliste
 
 Die Schulleitung erstellt eine Prüfungsliste mit allen zur Prüfung zugelassenen Lehrgangsteilnehmerinnen und Lehrgangsteilnehmern. In die Prüfungsliste sind für jede Teilnehmerin und jeden Teilnehmer nach Abschluss der einzelnen Prüfungsteile die Vornoten, die Prüfungsnoten, die Endnoten und die Gesamtnote einzutragen.
 
-
-## § 10 – Vornoten
+# § 10 – Vornoten
 
 (1) Aus den Leistungen, die während des Prüfungshalbjahrs in einem Fach erbracht worden sind, ermittelt die Fachlehrkraft eine Vornote für die Prüfung. Zwischennoten sind nicht zulässig.
 
@@ -147,8 +133,7 @@ Die Schulleitung erstellt eine Prüfungsliste mit allen zur Prüfung zugelassene
 
 (3) Die Vornoten für die Fächer ohne schriftliche Abschlussprüfung setzt die Klassenkonferenz vor Beginn der mündlichen Abschlussprüfung fest.
 
-
-## § 11 – Schriftliche Abschlussprüfung
+# § 11 – Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung zur Erlangung des Hauptschulabschlusses gehören:
 
@@ -204,8 +189,7 @@ c) in der Fachrichtung Wirtschaft im Fach Betriebs- und Volkswirtschaftslehre.
 
 (6) Für Abschlüsse in den weiteren Fachrichtungen nach § 1 Nummer 3 Buchstabe d und Nummer 4 Buchstabe d werden die Fächer der schriftlichen Abschlussprüfung und die Prüfungsdauer von den Schulaufsichtsbehörden der Länder festgelegt.
 
-
-## § 12 – Vorschlag für die Aufgaben der schriftlichen Abschlussprüfung
+# § 12 – Vorschlag für die Aufgaben der schriftlichen Abschlussprüfung
 
 (1) Für jedes Prüfungsfach erstellen grundsätzlich die Fachlehrkräfte, die in den Fächern der schriftlichen Abschlussprüfung regelmäßig unterrichtet haben, pro Bundeswehrfachschule einen einheitlichen Vorschlag für die Prüfungsaufgaben. Der Vorschlag muss dem Lehrplan für Bundeswehrfachschulen in der jeweils geltenden Fassung entsprechen. Dem Vorschlag sind ein Verzeichnis der zugelassenen Hilfsmittel, eine konkrete Beschreibung der erwarteten Leistungen (Erwartungshorizont) und ein Bewertungsschema beizufügen.
 
@@ -217,8 +201,7 @@ c) in der Fachrichtung Wirtschaft im Fach Betriebs- und Volkswirtschaftslehre.
 
 (5) Der Vorschlag ist bis zum Beginn der Prüfung geheim zu halten.
 
-
-## § 13 – Durchführung der schriftlichen Abschlussprüfung
+# § 13 – Durchführung der schriftlichen Abschlussprüfung
 
 (1) Die Schulleiterin oder der Schulleiter bestimmt im Einvernehmen mit der oder dem Beauftragten der obersten Schulaufsichtsbehörde des Landes den Termin für die schriftlichen Abschlussprüfungen und gibt ihn allen an der Prüfung Beteiligten bekannt. Der Termin soll nicht vor dem 71. Unterrichtstag des Prüfungshalbjahrs liegen.
 
@@ -228,8 +211,7 @@ c) in der Fachrichtung Wirtschaft im Fach Betriebs- und Volkswirtschaftslehre.
 
 (4) Eine Fachlehrkraft bewertet die Klausuren und schlägt jeweils eine Note vor. Die Schulleiterin oder der Schulleiter beauftragt eine zweite Fachlehrkraft mit einer zweiten Bewertung der Klausuren. Weichen die Noten der ersten und zweiten Bewertung voneinander ab und können sich die Lehrkräfte nicht einigen, setzt die oder der Vorsitzende des Prüfungsausschusses die Note fest. Die Klausuren können von den Mitgliedern des Prüfungsausschusses eingesehen werden.
 
-
-## § 14 – Mündliche Abschlussprüfung
+# § 14 – Mündliche Abschlussprüfung
 
 (1) In jedem Fach, das im Prüfungshalbjahr unterrichtet worden ist, kann eine mündliche Abschlussprüfung durchgeführt werden. Sie ist eine eigenständige Prüfungsleistung.
 
@@ -241,8 +223,7 @@ c) in der Fachrichtung Wirtschaft im Fach Betriebs- und Volkswirtschaftslehre.
 
 (5) Anträge nach Absatz 2 Satz 2 oder Absatz 3 sind schriftlich oder elektronisch bei der Schulleiterin oder dem Schulleiter zu stellen. Die Antragsfrist endet am ersten Unterrichtstag nach der Mitteilung und Belehrung nach § 15 Absatz 3. Eine nachträgliche Änderung des Antrags ist nicht zulässig.
 
-
-## § 15 – Vorbereitung der mündlichen Abschlussprüfung
+# § 15 – Vorbereitung der mündlichen Abschlussprüfung
 
 (1) Die Schulleiterin oder der Schulleiter bestimmt im Einvernehmen mit der oder dem Beauftragten der obersten Schulaufsichtsbehörde des Landes den Termin der mündlichen Abschlussprüfung.
 
@@ -254,13 +235,11 @@ c) in der Fachrichtung Wirtschaft im Fach Betriebs- und Volkswirtschaftslehre.
 
 (5) Die Schulleiterin oder der Schulleiter legt im Einvernehmen mit der oder dem Beauftragten der obersten Schulaufsichtsbehörde des Landes die Reihenfolge der mündlichen Abschlussprüfungen fest. Die betroffenen Prüflinge werden unverzüglich darüber informiert, wann ihre mündlichen Abschlussprüfungen durchgeführt werden.
 
-
-## § 16 – Aufgaben der mündlichen Abschlussprüfung
+# § 16 – Aufgaben der mündlichen Abschlussprüfung
 
 Die Prüfungsaufgabe, die zulässigen Hilfsmittel, den Erwartungshorizont und das Bewertungsschema soll die Fachlehrkraft festlegen, die das Fach der mündlichen Abschlussprüfung planmäßig unterrichtet hat.
 
-
-## § 17 – Durchführung der mündlichen Abschlussprüfung
+# § 17 – Durchführung der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung findet als Einzelprüfung vor dem Prüfungsausschuss oder einem Unterausschuss statt. Die Prüfung sowie die anschließende Beratung des Prüfungsausschusses oder des Unterausschusses sind nicht öffentlich.
 
@@ -270,8 +249,7 @@ Die Prüfungsaufgabe, die zulässigen Hilfsmittel, den Erwartungshorizont und da
 
 (4) Die Entscheidungen des Unterausschusses sind für den Prüfungsausschuss bindend.
 
-
-## § 18 – Zuhörerinnen und Zuhörer der mündlichen Abschlussprüfung
+# § 18 – Zuhörerinnen und Zuhörer der mündlichen Abschlussprüfung
 
 (1) Mit Zustimmung des Prüflings und der oder des Beauftragten der obersten Schulaufsichtsbehörde des Landes können als Zuhörerinnen und Zuhörer der mündlichen Abschlussprüfung eingeladen werden:
 
@@ -281,8 +259,7 @@ Die Prüfungsaufgabe, die zulässigen Hilfsmittel, den Erwartungshorizont und da
 
 (2) § 4 Absatz 3 gilt entsprechend.
 
-
-## § 19 – Festsetzung der Endnoten
+# § 19 – Festsetzung der Endnoten
 
 (1) Nach Beendigung der mündlichen Abschlussprüfung setzt der Prüfungsausschuss die Endnoten fest. Zwischennoten sind nicht zulässig.
 
@@ -302,8 +279,7 @@ a) der Vornote und
 
 b) der in der mündlichen Abschlussprüfung erreichten Note.
 
-
-## § 20 – Gesamtergebnis und Bestehen der Prüfung
+# § 20 – Gesamtergebnis und Bestehen der Prüfung
 
 (1) Das Gesamtergebnis der Prüfung lautet „bestanden“ oder „nicht bestanden“.
 
@@ -313,8 +289,7 @@ b) der in der mündlichen Abschlussprüfung erreichten Note.
 
 (4) Die in den einzelnen mündlichen Abschlussprüfungen erzielten Ergebnisse sowie das Gesamtergebnis der Prüfung sind den Prüflingen unverzüglich nach der Beratung des Prüfungsausschusses durch die Vorsitzende oder den Vorsitzenden bekannt zu geben.
 
-
-## § 21 – Abschlusszeugnis
+# § 21 – Abschlusszeugnis
 
 (1) Nach bestandener Prüfung erhalten die Prüflinge ein Abschlusszeugnis, das die Gesamtnote sowie die Endnoten der während des Lehrgangs unterrichteten Fächer enthält. Fächer, in denen der Unterricht vor dem Prüfungshalbjahr abgeschlossen war, sind zu kennzeichnen.
 
@@ -322,8 +297,7 @@ b) der in der mündlichen Abschlussprüfung erreichten Note.
 
 (3) Prüflinge, die die Prüfung nicht bestanden haben, erhalten anstelle des Abschlusszeugnisses eine Bescheinigung über das Ergebnis der Prüfung. Prüflinge, die die Prüfung nicht abgelegt haben, erhalten eine Bescheinigung über den Besuch der Bundeswehrfachschule.
 
-
-## § 22 – Rücktritt oder Versäumnis
+# § 22 – Rücktritt oder Versäumnis
 
 (1) Tritt ein Prüfling von der Prüfung zurück oder nimmt er ohne einen wichtigen Grund an der Prüfung nicht teil, gilt die Prüfung als nicht bestanden. Nimmt er ohne einen wichtigen Grund an einem Prüfungsteil nicht teil, wird dieser Prüfungsteil mit „ungenügend“ bewertet.
 
@@ -333,8 +307,7 @@ b) der in der mündlichen Abschlussprüfung erreichten Note.
 
 (4) Sofern ein wichtiger Grund vorliegt, gilt die Prüfung als nicht begonnen. Die Prüfung oder der Prüfungsteil soll schnellstmöglich nachgeholt werden. Der Nachholtermin wird von der Schulleiterin oder dem Schulleiter in Abstimmung mit der oder dem Beauftragten der obersten Schulaufsichtsbehörde des Landes festgelegt.
 
-
-## § 23 – Täuschung, Ordnungsverstoß
+# § 23 – Täuschung, Ordnungsverstoß
 
 (1) Prüflingen, die bei der Prüfung täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsausschusses gestattet werden. Der Prüfungsausschuss kann je nach Schwere des Verstoßes die Wiederholung der gesamten Prüfung oder einzelner Prüfungsteile anordnen, die Prüfungsleistung mit „ungenügend“ bewerten oder die gesamte Prüfung für nicht bestanden erklären. Bei einem erheblichen Verstoß kann der Prüfling von der weiteren Teilnahme an der gesamten Prüfung ausgeschlossen werden. Wird ein Prüfling ausgeschlossen, gilt die Prüfung als nicht bestanden.
 
@@ -346,20 +319,17 @@ b) der in der mündlichen Abschlussprüfung erreichten Note.
 
 (5) Vor einer Entscheidung nach Absatz 1 oder Absatz 4 sind die Betroffenen anzuhören.
 
-
-## § 24 – Belehrung
+# § 24 – Belehrung
 
 Vor Beginn der schriftlichen Abschlussprüfung hat die Schulleiterin oder der Schulleiter den Prüflingen die Bestimmungen der §§ 22 und 23 bekannt zu geben. Die Bekanntgabe ist zu dokumentieren.
 
-
-## § 25 – Wiederholung der Prüfung
+# § 25 – Wiederholung der Prüfung
 
 (1) Prüflinge, die die Prüfung nicht bestanden haben, können die Prüfung einmal wiederholen, und zwar frühestens am Ende des folgenden Studienhalbjahrs.
 
 (2) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 26 – Prüfungsprotokolle
+# § 26 – Prüfungsprotokolle
 
 (1) Der Verlauf der schriftlichen und der mündlichen Abschlussprüfung ist zu protokollieren.
 
@@ -407,13 +377,11 @@ Vor Beginn der schriftlichen Abschlussprüfung hat die Schulleiterin oder der Sc
 
 6. die erreichte Note.
 
-
-## § 27 – Rechtsbehelfe
+# § 27 – Rechtsbehelfe
 
 Gegen die Entscheidung des Prüfungsausschusses steht dem Prüfling das Recht des Widerspruchs oder der Beschwerde nach der Wehrbeschwerdeordnung zu. Über den Widerspruch oder die Beschwerde entscheidet die Schulaufsichtsbehörde der Bundeswehrverwaltung; die Schulaufsichtsbehörde des Landes, die die Vorsitzende oder den Vorsitzenden entsandt hat, ist zu beteiligen.
 
-
-## § 28 – Prüfungsakte
+# § 28 – Prüfungsakte
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -427,7 +395,6 @@ Gegen die Entscheidung des Prüfungsausschusses steht dem Prüfling das Recht de
 
 (3) Die Klausuren und Protokolle werden nach Beendigung der Prüfung mindestens fünf und höchstens zehn Jahre aufbewahrt. Die Prüfungsliste wird 30 Jahre aufbewahrt und sodann vernichtet.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

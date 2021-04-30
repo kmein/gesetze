@@ -1,22 +1,17 @@
-# [GOT] Gebührenordnung für Tierärzte  (Tierärztegebührenordnung - GOT)
-
-Ausfertigungsdatum: 28.07.1999
-
+% Gebührenordnung für Tierärzte  (Tierärztegebührenordnung - GOT)
+% Ausfertigungsdatum: 28.07.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 der Bundes-Tierärzteordnung in der Fassung der Bekanntmachung vom 20. November 1981 (BGBl. I S. 1193) und der Anlage I Kapitel X Sachgebiet G Abschnitt III Nr. 1 Buchstabe b des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1093), jeweils auch in Verbindung mit Artikel 6 Abs. 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885) verordnet die Bundesregierung:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Den Tierärzten stehen für ihre Berufstätigkeit Vergütungen (Gebühren, Entschädigungen, Barauslagen sowie Entgelte für Arzneimittel und Verbrauchsmaterialien) nach dieser Verordnung, insbesondere nach dem in der Anlage vorgeschriebenen Gebührenverzeichnis zu. Die in der Anlage zu dieser Verordnung aufgeführten Gebührensätze entsprechen dem einfachen Satz. Eine Vereinbarung oder Forderung geringerer Gebühren ist nur unter den Voraussetzungen des § 4 Abs. 1 zulässig; § 4 Abs. 2 und 3 bleibt unberührt.
 
 (2) In den Gebührensätzen des anliegenden Gebührenverzeichnisses ist die Umsatzsteuer nicht enthalten.
 
-
-## § 2 – Gebührenhöhe
+# § 2 – Gebührenhöhe
 
 Die Höhe der einzelnen Gebühr bemißt sich, soweit nichts anderes bestimmt ist, nach dem Einfachen bis Dreifachen des Gebührensatzes. Die Gebühr ist innerhalb dieses Rahmens nach billigem Ermessen und unter Berücksichtigung der besonderen Umstände des einzelnen Falles zu bestimmen, insbesondere unter Berücksichtigung
 
@@ -40,8 +35,7 @@ Bemessungskriterien, die bereits in der Leistungsbeschreibung berücksichtigt wo
 
 Satz 4 gilt nicht für Leistungen, die im Rahmen der regulären Sprechstunden einer tierärztlichen Praxis, Tierärztlichen Klinik oder sonstigen tierärztlichen Einrichtung erbracht werden.
 
-
-## § 3 – Gebührenhöhe in besonderen Fällen
+# § 3 – Gebührenhöhe in besonderen Fällen
 
 (1) Gebühren sind nach den einfachen Gebührensätzen des Gebührenverzeichnisses zu berechnen, wenn der Tierhalter auf Grund einer allgemeinen öffentlich-rechtlichen Anordnung oder im Rahmen eines mit öffentlichen Mitteln geförderten Verfahrens, für das eine Kostenvereinbarung zwischen Kostenträger und Tierärztekammer getroffen worden ist, tierärztliche Leistungen in Anspruch nimmt. Die einfachen Gebührensätze sind auch dann zu berechnen, wenn tierärztliche Leistungen an Tieren erbracht werden, die zur Erfüllung hoheitlicher Aufgaben gehalten werden, und für die Bund, Länder, Gemeinden oder andere öffentlich-rechtliche Kostenträger die Zahlung leisten. Die Regelungen über die Gebühren für amtstierärztliche Verrichtungen und solche tierärztlichen Leistungen, die ein Tierarzt in amtlicher Eigenschaft erbringt, bleiben unberührt.
 
@@ -51,8 +45,7 @@ Satz 4 gilt nicht für Leistungen, die im Rahmen der regulären Sprechstunden ei
 
 (4) Einfache Gebührensätze nach Absatz 1 erhöhen sich um 100 vom Hundert, bei landwirtschaftlich genutzten Tieren um 50 vom Hundert, für Leistungen, die auf Verlangen des Tierbesitzers bei Nacht, an Wochenenden und an Feiertagen erbracht werden.
 
-
-## § 3a – Gebühren für tierärztlichen Notdienst
+# § 3a – Gebühren für tierärztlichen Notdienst
 
 (1) Für Leistungen, die bei Nacht, an Wochenenden und an Feiertagen im Rahmen eines tierärztlichen Notdienstes erbracht werden, erhöhen sich die einfachen Gebührensätze nach § 2 Satz 1 auf das Zweifache und nach Maßgabe des § 2 Satz 2 bis zum Vierfachen. Zusätzlich steht dem Tierarzt abweichend von § 2 Satz 1 eine Gebühr in Höhe von 50,00 Euro (Notdienstgebühr) zu. Die Sätze 1 und 2 gelten nicht für die instrumentelle Samenübertragung bei Einzeltieren (laufende Nummer G 2.6 der Anlage).
 
@@ -64,8 +57,7 @@ Satz 4 gilt nicht für Leistungen, die im Rahmen der regulären Sprechstunden ei
 
 (5) § 3 Absatz 4 bleibt unberührt.
 
-
-## § 4 – Sonstige abweichende Gebührensätze
+# § 4 – Sonstige abweichende Gebührensätze
 
 (1) Überschreitungen des Dreifachen der Gebührensätze oder eine Unterschreitung der einfachen Gebührensätze sind im begründeten Einzelfall vor Erbringung der Leistung des Tierarztes in einem Schriftstück zu vereinbaren. Der Tierarzt hat dem Zahlungspflichtigen ein Doppel der von ihm und dem Zahlungspflichtigen unterschriebenen Vereinbarung auszuhändigen. Abweichend von Satz 1 können die einfachen Gebührensätze im Falle der Durchführung einer Kastration oder Sterilisation einer freilebenden Katze unterschritten werden, soweit
 
@@ -83,13 +75,11 @@ Satz 3 gilt auch für sonstige Leistungen, soweit diese auf Grund der Kastration
 
 (3) In den Fällen des § 3 Abs. 1 können die Zahlungspflichtigen Vereinbarungen über abweichende Gebührensätze mit den Tierärztekammern treffen. Die für die betreffenden Leistungen vereinbarten Gebührensätze gelten in dem vereinbarten Umfang als einfache Gebührensätze im Sinne des § 3 Abs. 1 Satz 1.
 
-
-## § 5 – Verbot von Doppelbewertungen
+# § 5 – Verbot von Doppelbewertungen
 
 Eine Gebühr darf für eine Leistung nicht berechnet werden, die nach den Leistungsansätzen des Gebührenverzeichnisses Teil einer anderen Leistung ist, wenn für letztere eine Gebühr berechnet wird.
 
-
-## § 6 – Gebühren- und Rechnungsbestandteile
+# § 6 – Gebühren- und Rechnungsbestandteile
 
 (1) Die allgemeinen Praxiskosten und die durch die Anwendung von tierärztlichen Instrumenten und Apparaturen entstehenden Kosten werden mit den Gebühren abgegolten, soweit nicht etwas anderes bestimmt ist.
 
@@ -111,18 +101,15 @@ Eine Gebühr darf für eine Leistung nicht berechnet werden, die nach den Leistu
 
 Entschädigungen, Barauslagen, Entgelte für Arzneimittel und verbrauchtes oder abgegebenes Material nach Absatz 2 sowie Wegegelder sind, soweit sie nicht in den Gebührensätzen des Gebührenverzeichnisses enthalten sind, gesondert auszuweisen. Im übrigen ist die Rechnung auf Verlangen des Zahlungspflichtigen aufzugliedern.
 
-
-## § 7 – Außerordentliche Leistungen
+# § 7 – Außerordentliche Leistungen
 
 Bei Leistungen, die in dem Gebührenverzeichnis nicht aufgeführt sind, richten sich die Gebühren nach den Gebührensätzen, die für gleichwertige Leistungen gewährt werden, wobei insbesondere Schwierigkeit und erforderlicher zeitlicher und technischer Aufwand zu berücksichtigen sind.
 
-
-## § 8 – Arzneimittelpreise
+# § 8 – Arzneimittelpreise
 
 Die in der Arzneimittelpreisverordnung vom 14. November 1980 (BGBl. I S. 2147) in ihrer jeweils geltenden Fassung enthaltenen Vorschriften über die von Tierärzten abgegebenen Arzneimittel gelten entsprechend für die von Tierärzten angewandten Arzneimittel.
 
-
-## § 9 – Entschädigungen, Wegegeld
+# § 9 – Entschädigungen, Wegegeld
 
 (1) Als Entschädigungen für Besuche erhalten die Tierärzte Wegegeld oder Reiseentschädigung; hierdurch sind Zeitversäumnisse und die durch den Besuch bedingten Mehrkosten abgegolten.
 
@@ -134,23 +121,19 @@ Die in der Arzneimittelpreisverordnung vom 14. November 1980 (BGBl. I S. 2147) i
 
 2. Tagegeld für die Dauer der Abwesenheit in Höhe der Gebühr nach laufender Nummer 40 des Gebührenverzeichnisses.
 
-
-## § 10 – Gebühren für im Beitrittsgebiet erbrachte Leistungen
+# § 10 – Gebühren für im Beitrittsgebiet erbrachte Leistungen
 
 Anlage I Kapitel X Sachgebiet G Abschnitt III Nr. 1 Buchstabe a Doppelbuchstabe aa des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1093) ist nicht mehr anzuwenden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Monats in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu den §§ 1 und 2)
+# Anlage – (zu den §§ 1 und 2)
 
 (Fundstelle: BGBl I 2017, 2696 - 2725)
 

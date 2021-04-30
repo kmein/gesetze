@@ -1,10 +1,7 @@
-# [FGlG] Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Flächen
-
-Ausfertigungsdatum: 10.07.1995
-
+% Gesetz zur Gleichstellung stillgelegter und landwirtschaftlich genutzter Flächen
+% Ausfertigungsdatum: 10.07.1995
  
-
-## § 1
+# § 1
 
 (1) Flächen, die nach Maßgabe der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Direktzahlungen im Rahmen der Gemeinsamen Agrarpolitik oder über sonstige Stützungsregelungen für Inhaber landwirtschaftlicher Betriebe stillgelegt worden sind, gelten weiterhin als landwirtschaftlich genutzte Flächen. Als stillgelegt gelten auch die Flächen, die nach Maßgabe der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über Direktzahlungen im Rahmen der Gemeinsamen Agrarpolitik
 
@@ -18,7 +15,6 @@ soweit diese Flächen für die Nutzung von Zahlungsansprüchen für die einheitl
 
 (3) Bei der Anwendung der von Absatz 2 Satz 1 erfassten Rechtsvorschriften bleibt die infolge der Stilllegung geänderte Beschaffenheit der von Absatz 1 erfassten Flächen unberücksichtigt. Insbesondere bleibt das Recht, diese Flächen nach Beendigung der Stilllegungsperiode in derselben Art und demselben Umfang wie zum Zeitpunkt vor der Stilllegung nutzen zu können, unberührt.
 
-
-## § 2
+# § 2
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1994 in Kraft.

@@ -1,15 +1,11 @@
-# [RentÜG] Gesetz zur Entwicklung und Einführung einer Digitalen Rentenübersicht  (Rentenübersichtsgesetz - RentÜG)
-
-Ausfertigungsdatum: 11.02.2021
-
+% Gesetz zur Entwicklung und Einführung einer Digitalen Rentenübersicht  (Rentenübersichtsgesetz - RentÜG)
+% Ausfertigungsdatum: 11.02.2021
  
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 Die Digitale Rentenübersicht dient der Verbesserung des Kenntnisstandes der Bürgerinnen und Bürger über ihre jeweilige Altersvorsorge und enthält Informationen insbesondere über deren Höhe. Die Informationen sollen verlässlich, verständlich und möglichst vergleichbar sein.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -35,8 +31,7 @@ c) sind zur privaten Altersvorsorge insbesondere die nach den §§ 5 und 5a des 
 
 8. Identifikationsnummer: die einer natürlichen Person vom Bundeszentralamt für Steuern nach § 139b der Abgabenordnung zugeteilte Identifikationsnummer.
 
-
-## § 3 – Zentrale Stelle für die Digitale Rentenübersicht
+# § 3 – Zentrale Stelle für die Digitale Rentenübersicht
 
 (1) Es wird eine Zentrale Stelle für die Digitale Rentenübersicht errichtet, die ein elektronisches Portal betreibt, über das die Digitale Rentenübersicht abgerufen werden kann.
 
@@ -46,15 +41,13 @@ c) sind zur privaten Altersvorsorge insbesondere die nach den §§ 5 und 5a des 
 
 (4) Die Zentrale Stelle für die Digitale Rentenübersicht erteilt Bürgerinnen und Bürgern Auskunft zu ihren Verfahren und zur Zusammenführung der Informationen. Sie erteilt keine Auskünfte über die Altersvorsorgeansprüche aus den einzelnen Altersvorsorgeprodukten der jeweiligen Vorsorgeeinrichtungen. Die Zentrale Stelle für die Digitale Rentenübersicht erteilt Vorsorgeeinrichtungen Auskunft über die Anwendung dieses Gesetzes.
 
-
-## § 4 – Grundsätze der Digitalen Rentenübersicht
+# § 4 – Grundsätze der Digitalen Rentenübersicht
 
 (1) Bürgerinnen und Bürger können die Digitale Rentenübersicht über das Portal der Zentralen Stelle für die Digitale Rentenübersicht abfragen. Die Digitale Rentenübersicht wird den Nutzenden von der Zentralen Stelle für die Digitale Rentenübersicht ausschließlich elektronisch zur Verfügung gestellt.
 
 (2) Die Zentrale Stelle für die Digitale Rentenübersicht fragt nach Abfrage der oder des Nutzenden die in § 5 Absatz 1 genannten Informationen bei den angebundenen Vorsorgeeinrichtungen unter Angabe der Identifikationsnummer der oder des Nutzenden an. Sind bei der Vorsorgeeinrichtung die in § 5 Absatz 1 genannten Daten zu der oder dem Nutzenden gespeichert und kann die Vorsorgeeinrichtung eine Zuordnung der oder des Nutzenden anhand der Identifikationsnummer vornehmen, werden die in § 5 Absatz 1 genannten Daten unter Angabe der Identifikationsnummer der Zentralen Stelle für die Digitale Rentenübersicht übermittelt. Sind bei der Vorsorgeeinrichtung keine Daten nach § 5 Absatz 1 vorhanden oder kann sie eine eindeutige Zuordnung der Anfrage nicht vornehmen, meldet die Vorsorgeeinrichtung dies unter Angabe der Identifikationsnummer der Zentralen Stelle für die Digitale Rentenübersicht. In diesem Fall hat die Vorsorgeeinrichtung die mit der Anfrage durch die Zentrale Stelle für die Digitale Rentenübersicht übermittelten personenbezogenen Daten unmittelbar nach Beantwortung der Anfrage zu löschen, soweit die Vorsorgeeinrichtung diese Daten nicht bereits in einem anderen Zusammenhang rechtmäßig erhoben hat.
 
-
-## § 5 – Inhalte der Digitalen Rentenübersicht
+# § 5 – Inhalte der Digitalen Rentenübersicht
 
 (1) Auf Anfrage der Zentralen Stelle für die Digitale Rentenübersicht nach § 4 Absatz 2 übermitteln die angebundenen Vorsorgeeinrichtungen die folgenden Informationen zu den Altersvorsorgeprodukten der Nutzenden:
 
@@ -74,8 +67,7 @@ c) sind zur privaten Altersvorsorge insbesondere die nach den §§ 5 und 5a des 
 
 (4) Aus der Zusammenfassung von erreichten und erreichbaren Werten in einem Gesamtüberblick können keine Ansprüche gegen die Vorsorgeeinrichtungen oder die Zentrale Stelle für die Digitale Rentenübersicht abgeleitet werden. In der Darstellung für Nutzende ist in deutlicher Form darauf hinzuweisen, dass sowohl aus den Angaben zu den erreichten und erreichbaren Werten der einzelnen Altersvorsorgeprodukte als auch aus dem dargestellten Gesamtüberblick keine Ansprüche abgeleitet werden können und die tatsächliche Höhe der Altersvorsorgeansprüche abweichen kann.
 
-
-## § 6 – Entwicklung und erste Betriebsphase
+# § 6 – Entwicklung und erste Betriebsphase
 
 (1) Die Zentrale Stelle für die Digitale Rentenübersicht entwickelt unter Beachtung der Vorgaben dieses Gesetzes die inhaltliche und technische Ausgestaltung des Portals und der Digitalen Rentenübersicht.
 
@@ -83,8 +75,7 @@ c) sind zur privaten Altersvorsorge insbesondere die nach den §§ 5 und 5a des 
 
 (3) Die erste Betriebsphase soll 21 Monate nach Inkrafttreten dieses Gesetzes beginnen und nach zwölf Monaten enden. Vor Abschluss der ersten Betriebsphase legt die Zentrale Stelle für die Digitale Rentenübersicht dem Steuerungsgremium nach § 9 einen Evaluierungsbericht über die Erfahrungen und Ergebnisse der ersten Betriebsphase vor.
 
-
-## § 7 – Anbindung der Vorsorgeeinrichtungen
+# § 7 – Anbindung der Vorsorgeeinrichtungen
 
 (1) Vorsorgeeinrichtungen können sich freiwillig an die Zentrale Stelle für die Digitale Rentenübersicht anbinden. Die Zentrale Stelle für die Digitale Rentenübersicht lehnt eine Anbindung ab, wenn die anbindungswillige Stelle keine Vorsorgeeinrichtung im Sinne des § 2 Nummer 2 ist. Ist eine Vorsorgeeinrichtung durch eine unionsrechtliche oder bundesrechtliche Regelung oder durch eine aufgrund einer solchen Regelung erlassenen Verordnung verpflichtet, mindestens jährlich Standmitteilungen zu übermitteln, so ist sie ab dem Stichtag, der in der aufgrund des § 13 Absatz 3 erlassenen Verordnung festgelegt wird, auch verpflichtet, sich an die Zentrale Stelle für die Digitale Rentenübersicht anzubinden. Die dem Landesrecht unterliegenden Vorsorgeeinrichtungen der Versorgung von Beamten und Richtern sowie der berufsständischen Versorgungswerke entscheiden vorbehaltlich anderweitiger landesrechtlicher Regelungen selbstständig über eine Anbindung an die Zentrale Stelle für die Digitale Rentenübersicht.
 
@@ -92,8 +83,7 @@ c) sind zur privaten Altersvorsorge insbesondere die nach den §§ 5 und 5a des 
 
 (3) Die Kosten, die den Vorsorgeeinrichtungen durch die Anbindung und die Übermittlung von Informationen an die Zentrale Stelle für die Digitale Rentenübersicht entstehen, werden diesen nicht erstattet.
 
-
-## § 8 – Gestaltung der Zentralen Stelle für die Digitale Rentenübersicht
+# § 8 – Gestaltung der Zentralen Stelle für die Digitale Rentenübersicht
 
 (1) Die Zentrale Stelle für die Digitale Rentenübersicht wird bei der Deutschen Rentenversicherung Bund eingerichtet.
 
@@ -101,25 +91,21 @@ c) sind zur privaten Altersvorsorge insbesondere die nach den §§ 5 und 5a des 
 
 (3) Die Zentrale Stelle für die Digitale Rentenübersicht steht unter Rechtsaufsicht des Bundesministeriums für Arbeit und Soziales. Das Bundesministerium für Arbeit und Soziales kann die Aufsicht ganz oder teilweise dem Bundesamt für Soziale Sicherung übertragen. Die Vorschriften über die Selbstverwaltung der Träger der Sozialversicherung finden keine Anwendung in Bezug auf die inhaltliche Ausgestaltung der Digitalen Rentenübersicht.
 
-
-## § 9 – Steuerungsgremium
+# § 9 – Steuerungsgremium
 
 (1) Bei der Zentralen Stelle für die Digitale Rentenübersicht wird ein Steuerungsgremium gebildet. Das Steuerungsgremium hat, ungeachtet der in den Sätzen 3 bis 5 geregelten Befugnisse, grundsätzlich die Aufgabe, die Zentrale Stelle für die Digitale Rentenübersicht bei der Erfüllung ihrer Aufgaben zu unterstützen und zu beraten. Die Zentrale Stelle für die Digitale Rentenübersicht entscheidet über die grundlegenden Fragen der inhaltlichen Ausgestaltung der Digitalen Rentenübersicht und die Darstellung im Portal im Einvernehmen mit dem Steuerungsgremium auf Vorlage der Zentralen Stelle für die Digitale Rentenübersicht. Dies gilt auch für die grundlegende inhaltliche Weiterentwicklung. Entscheidungen über die technische Ausgestaltung der Datensätze und der Schnittstellen trifft die Zentrale Stelle für die Digitale Rentenübersicht im Benehmen mit dem Steuerungsgremium.
 
 (2) Das Steuerungsgremium setzt sich aus Vertreterinnen und Vertretern der gesetzlichen, betrieblichen und privaten Altersvorsorge, der Verbraucherschutzorganisationen sowie des Bundesministeriums für Arbeit und Soziales und des Bundesministeriums der Finanzen zusammen.
 
-
-## § 10 – Fachbeiräte
+# § 10 – Fachbeiräte
 
 Zu ihrer weiteren Unterstützung und Beratung kann die Zentrale Stelle für die Digitale Rentenübersicht Fachbeiräte einsetzen. Zu bestimmten Fragestellungen setzt die Zentrale Stelle für die Digitale Rentenübersicht auf Beschluss des Steuerungsgremiums Fachbeiräte ein.
 
-
-## § 11 – Verarbeitung der Identifikationsnummer
+# § 11 – Verarbeitung der Identifikationsnummer
 
 Die angebundenen Vorsorgeeinrichtungen sind berechtigt, die Identifikationsnummern bei ihren Kundinnen und Kunden zu erheben. Nur die angebundenen Träger der gesetzlichen Rentenversicherung, der Alterssicherung der Landwirte und die berufsständischen Versorgungseinrichtungen können nach § 22a Absatz 2 Satz 10 des Einkommensteuergesetzes die Identifikationsnummern ihrer Kundinnen und Kunden erheben. Die angebundenen Vorsorgeeinrichtungen sind berechtigt, eine rechtmäßig erhobene Identifikationsnummer ihrer Kundinnen und Kunden zur Durchführung dieses Gesetzes zu verarbeiten, auch wenn sie zu einem anderen Zweck erhoben wurde. Entsprechendes gilt für die Datenstelle der Rentenversicherung sowie für die mit der Anbindung und Übermittlung nach § 4 Absatz 2 an die Zentrale Stelle für die Digitale Rentenübersicht beauftragten Dritten.
 
-
-## § 12 – Datenschutz
+# § 12 – Datenschutz
 
 (1) Die Nutzung des Portals erfordert eine sichere elektronische Authentifizierung der oder des Nutzenden nach dem jeweils aktuellen Stand der Technik.
 
@@ -127,8 +113,7 @@ Die angebundenen Vorsorgeeinrichtungen sind berechtigt, die Identifikationsnumme
 
 (3) Die Zentrale Stelle für die Digitale Rentenübersicht bietet den Nutzenden nach abschließender Bearbeitung einer Abfrage die Möglichkeit zur freiwilligen Speicherung ihrer Daten in Nutzerkonten an. Die Nutzenden sind darauf in geeigneter Weise hinzuweisen. Verzichtet der oder die Nutzende auf ein solches Nutzerkonto, sind die Daten zu löschen.
 
-
-## § 13 – Verordnungsermächtigung
+# § 13 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zu regeln
 

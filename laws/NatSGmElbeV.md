@@ -1,22 +1,17 @@
-# [NatSGmElbeV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung "Biosphärenreservat Mittlere Elbe"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung "Biosphärenreservat Mittlere Elbe"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit den §§ 12, 13 und 15 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) Das Gebiet Mittlere Elbe in dem im § 2 näher bezeichneten Umfang wird als Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung festgesetzt.
 
 (2) Das Gesamtgebiet erhält die Bezeichnung "Biosphärenreservat Mittlere Elbe".
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Das Biosphärenreservat liegt in einem der ausgedehntesten Auwaldgebiete Mitteleuropas im Bereich der Mittleren Elbe, Unteren Mulde und Unteren Saale. Es schließt die an die Flußtalauen grenzenden Talsandterrassen und die kulturhistorisch bedeutsame Dessau-Wörlitzer Kulturlandschaft ein. Wesentliche Lebensräume auebesiedelnder Lebensgemeinschaften werden in 12 Naturschutzgebieten gesichert.
 
@@ -96,8 +91,7 @@ Auf Grund des Artikels 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (
 
 (3) Die Grenze des Biosphärenreservates ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Biosphärenreservates in Forstkarten M 1:25.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt werden und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Reservatsverwaltung und der Kreisverwaltung. Bei den bezeichneten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Das Biosphärenreservat dient der Erhaltung der gebietsspezifischen Arten- und Formenmannigfaltigkeit, wie sie in ihrer Komplexität im Landschaftsmosaik mitteleuropäischer Flußtalauen mit den angrenzenden Talsandterrassen auftreten.
 
@@ -111,8 +105,7 @@ Auf Grund des Artikels 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (
 
 (6) Die Teile der harmonischen Kulturlandschaft des Biosphärenreservates sind für landschaftsökologisch vertretbare Formen der Bildung und Erholung zu erschließen und zu sichern.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Biosphärenreservat wird in die Schutzzonen I bis IV gegliedert.
 
@@ -223,8 +216,7 @@ Raum zwischen Rehsen-Raguhn-Brambach südlich der Elbe.
 Elbauen Coswig, Klieken, Roßlau, Elbtal zwischen Brambach und Barby nordwestlich der Elbe sowie zwischen Barby und Dornburg.
 
 (5) Die Schutzzone IV (Regenerationszone) wird als Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen. Sie umfaßt folgendes Gebiet:  
-Landgraben-Saaleniederung.  
-Der Grenzverlauf führt, beginnend im Südosten bei Groß Kühnau
+Landgraben-Saaleniederung. Der Grenzverlauf führt, beginnend im Südosten bei Groß Kühnau
 
 1. entlang des Siebeneichenweges nordwärts bis an die Elbe
 
@@ -238,8 +230,7 @@ Der Grenzverlauf führt, beginnend im Südosten bei Groß Kühnau
 
 (6) Die Grenzen der Schutzzonen I bis IV sind in den in § 2 Abs. 3 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Schutzzone I:
 
@@ -299,8 +290,7 @@ Der Grenzverlauf führt, beginnend im Südosten bei Groß Kühnau
 
 9. Biotopschutz erfolgt entsprechend § 20c des Bundesnaturschutzgesetzes, erweitert auf Wohnbauten des Elbebibers, Höhlenbäume, Horstbäume von Greifvögeln und Koloniebrütern sowie 100 m-Bereiche um Horststandorte vom Aussterben bedrohter Großvögel.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) In Schutzzone III und IV ist es nicht gestattet, ungenehmigte Flächennutzungsänderungen und Bebauungen vorzunehmen.
 
@@ -344,8 +334,7 @@ Der Grenzverlauf führt, beginnend im Südosten bei Groß Kühnau
 
 Das Betreten der Schutzzone I außerhalb markierter Wege ist verboten.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -367,8 +356,7 @@ Das Betreten der Schutzzone I außerhalb markierter Wege ist verboten.
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Reservats (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -382,8 +370,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Biosphärenreservatsverwaltung.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
@@ -393,34 +380,28 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei:
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung
+# § 10 – Entschädigung
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet voraus.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1474)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

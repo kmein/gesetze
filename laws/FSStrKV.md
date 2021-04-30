@@ -1,15 +1,11 @@
-# [FSStrKV] Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung  (FS-Strecken-Kostenverordnung - FSStrKV)
-
-Ausfertigungsdatum: 14.04.1984
-
+% Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung  (FS-Strecken-Kostenverordnung - FSStrKV)
+% Ausfertigungsdatum: 14.04.1984
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), zuletzt geändert durch Artikel 4 des Gesetzes vom 2. Februar 1984 zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren (BGBl. 1984 II S. 69), wird im Einvernehmen mit dem Bundesminister für Wirtschaft und mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung bei der Benutzung des Luftraums der Fluginformationsgebiete der Bundesrepublik Deutschland werden Kosten (Gebühren und Auslagen) erhoben. Dies gilt nicht für
 
@@ -25,8 +21,7 @@ Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigation
 
 3. im Flugplan Angaben zum Zweck des Übungsfluges eingetragen werden.
 
-
-## § 2
+# § 2
 
 (1) Für die Festlegung der Gebühren und die Einziehung der Kosten bedient sich die Bundesrepublik Deutschland der Dienste der Organisation EUROCONTROL. Die Gebühren werden von der Organisation EUROCONTROL nach Maßgabe der Mehrseitigen Vereinbarung über Flugsicherungs-Streckengebühren erhoben.
 
@@ -34,8 +29,7 @@ Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigation
 
 (3) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist die auf die Kosten nach § 1 Satz 1 entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
 
-
-## § 3
+# § 3
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem die Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren vom 12. Februar 1981 in Kraft tritt.
 
@@ -43,13 +37,11 @@ Für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigation
 
 (3) Der Tag des Inkrafttretens und des Außerkrafttretens sind im Bundesgesetzblatt bekanntzugeben.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1106)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1106)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 1. und 2. ...

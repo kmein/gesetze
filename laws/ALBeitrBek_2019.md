@@ -1,10 +1,7 @@
-# [ALBeitrBek 2019] Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2019
-
-Ausfertigungsdatum: 27.11.2018
-
+% Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2019
+% Ausfertigungsdatum: 27.11.2018
  
-
-## ----
+# ----
 
 Auf Grund des § 33 Absatz 1 und der §§ 68, 114 und 120 des Gesetzes über die Alterssicherung der Landwirte, von denen § 33 Absatz 1 und § 68 zuletzt durch Artikel 17 Nummer 13 und 23 geändert und § 120 durch Artikel 17 Nummer 38 des Gesetzes vom 20. April 2007 (BGBl. I S. 554) neu gefasst worden sind, sowie § 114 zuletzt durch Artikel 7 Nummer 11 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2575) geändert worden ist, wird bekannt gemacht:  
   
@@ -23,7 +20,6 @@ Einkommensklasse
 
 Einkommensklasse
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

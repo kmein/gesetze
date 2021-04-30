@@ -1,15 +1,11 @@
-# [LVANDZustÄndG] Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
-
-Ausfertigungsdatum: 19.01.1979
-
+% Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
+% Ausfertigungsdatum: 19.01.1979
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 Im Land Niedersachsen sind örtlich zuständig:
 
@@ -23,17 +19,14 @@ a) die Landkreise Aurich, Emsland, Gifhorn, Göttingen, Grafschaft Bentheim, Lee
 
 b) die kreisfreien Städte Emden, Osnabrück und Wolfsburg.
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 4
+# § 4
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

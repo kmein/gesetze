@@ -1,10 +1,7 @@
-# [DMBilG] Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung  (D-Markbilanzgesetz - DMBilG)
-
-Ausfertigungsdatum: 23.09.1990
-
+% Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung  (D-Markbilanzgesetz - DMBilG)
+% Ausfertigungsdatum: 23.09.1990
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -378,8 +375,7 @@ Ermächtigung
 
 Anwendung
 
-
-## § 1 – Pflicht zur Aufstellung
+# § 1 – Pflicht zur Aufstellung
 
 (1) Unternehmen mit Hauptniederlassung (Sitz) in der Deutschen Demokratischen Republik am 1. Juli 1990, die als Kaufleute nach § 238 des Handelsgesetzbuchs verpflichtet sind, Bücher zu führen, haben ein Inventar und eine Eröffnungsbilanz in Deutscher Mark für den 1. Juli 1990 sowie einen Anhang nach § 19 aufzustellen, der mit der Eröffnungsbilanz eine Einheit bildet. Unternehmen, die ihre Eröffnungsbilanz nicht nach § 37 offenlegen müssen, brauchen einen Anhang nicht aufzustellen.
 
@@ -407,13 +403,11 @@ Anwendung
 
 (5) Zur Rechnungslegung verpflichtete Unternehmen, die bis 30. Juni 1991 durch Gründung, Umwandlung, Verschmelzung, Spaltung oder Entflechtung entstehen, können für die Zwecke dieses Gesetzes als zum 1. Juli 1990 entstanden angesehen werden; auf Unternehmen, die aus landwirtschaftlichen Produktionsgenossenschaften hervorgegangen sind, ist diese Regelung bis zum 31. Dezember 1991 und auf kommunale Wohnungsunternehmen, auf die Wohnzwecken dienende Grundstücke und sonstiges Wohnungsvermögen von früher volkseigenen Wohnungswirtschaftsbetrieben oder von Kommunen übertragen worden sind, bis zum 31. Dezember 1997 anzuwenden. Führen Maßnahmen nach Satz 1 dazu, daß ein Unternehmen nicht mehr besteht, so braucht dieses Gesetz auf das untergegangene Unternehmen nicht angewendet zu werden. Satz 2 ist auch anzuwenden, wenn das Unternehmen, das eine Rechtsform im Sinne des Absatzes 2 Nr. 1 oder 3 hat, bis 30. Juni 1991 aufgelöst wird und die Fortsetzung des aufgelösten Unternehmens ausgeschlossen ist. Die Frist nach Satz 1 ist gewahrt, wenn das neue Unternehmen oder die neue Rechtsform bis zum Ablauf der Frist ordnungsgemäß zur Eintragung in das zuständige Register angemeldet ist. Sind einer fristgerechten Anmeldung nicht alle erforderlichen Unterlagen beigefügt, gilt die Anmeldung als ordnungsgemäß, wenn diese Unterlagen unverzüglich bei dem für die Anmeldung zuständigen Gericht nachgereicht werden.
 
-
-## § 2 – Inventar
+# § 2 – Inventar
 
 Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend anzuwenden. In das Inventar sind auch solche Vermögensgegenstände aufzunehmen, die dem Unternehmen nach dem 30. Juni 1990 innerhalb der Aufstellungsfrist nach § 4 Abs. 1 Satz 1 für die Eröffnungsbilanz aus ehemals volkseigenem Vermögen unentgeltlich übertragen werden.
 
-
-## § 3 – Inventur
+# § 3 – Inventur
 
 (1) Für die Aufstellung des Inventars braucht eine Inventur zur mengenmäßigen Erfassung der Vermögensgegenstände und Schulden nicht durchgeführt zu werden, wenn bei der Inventur zum 30. Juni 1990 die Vermögensgegenstände und Schulden vollständig aufgenommen und die in den Absätzen 2 bis 6 enthaltenen Grundsätze beachtet worden sind. Die erst nach dem 30. Juni 1990 erworbenen Vermögensgegenstände und Schulden, die nach § 2 Satz 2 oder nach § 4 Abs. 3 in das Inventar aufzunehmen sind, sind in die Inventur einzubeziehen oder gesondert aufzunehmen. War der Prüfer bei prüfungspflichtigen Unternehmen (§ 33 Abs. 1) bei der Inventur nicht anwesend, kann auf eine neue Inventur nur verzichtet werden, wenn der Prüfer die Ordnungsmäßigkeit der Inventur zum 30. Juni 1990 anerkennt.
 
@@ -427,16 +421,14 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (6) In besonderen Listen sind alle Haftungsverhältnisse, die nach § 251 des Handelsgesetzbuchs zu vermerken sind, und alle sonstigen finanziellen Verpflichtungen zu erfassen, über die nach § 19 Abs. 3 Nr. 6 im Anhang zu berichten ist, soweit sie nicht nach den Absätzen 2 bis 5 berücksichtigt sind.
 
-
-## § 3a – Nachholung der Inventur
+# § 3a – Nachholung der Inventur
 
 (1) Ist die nach § 3 vorgeschriebene Inventur nicht oder nicht ordnungsgemäß durchgeführt worden, so ist eine den Anforderungen des § 3 Abs. 2 bis 6 genügende Inventur auf einen Stichtag innerhalb der Feststellungsfrist nach § 35 Abs. 1 Satz 3 durchzuführen. Bei prüfungspflichtigen Unternehmen muß der Prüfer bei der Inventur anwesend sein. Das Inventar und die Eröffnungsbilanz für den 1. Juli 1990 sind zu berichtigen oder zu ergänzen, wenn sich anhand der neuen Inventur unter Berücksichtigung der seit dem 1. Juli 1990 nach § 238 Abs. 1 des Handelsgesetzbuchs geführten Handelsbücher mengen- oder wertmäßige Abweichungen ergeben. Die Änderungen und Ergänzungen sind im Anhang betragsmäßig anzugeben und zu erläutern.
 
 (2) Bei prüfungspflichtigen Unternehmen ist im Falle des Absatzes 1 der Bestätigungsvermerk ohne den Hinweis auf die Ordnungsmäßigkeit von Inventar und Inventur zu erteilen und, soweit er aus anderen Gründen nicht einzuschränken oder zu versagen ist, wie folgt zu fassen:  
 "Die Buchführung, die Eröffnungsbilanz und der Anhang entsprechen nach meiner/unserer pflichtgemäßen Prüfung den gesetzlichen Vorschriften. Die Eröffnungsbilanz und der Anhang vermitteln unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögenslage des Unternehmens. Die Inventur mußte gemäß § 3a des D-Markbilanzgesetzes nachgeholt werden. Ihre Ordnungsmäßigkeit wird bestätigt."
 
-
-## § 4 – Aufstellung der Eröffnungsbilanz
+# § 4 – Aufstellung der Eröffnungsbilanz
 
 (1) Die Eröffnungsbilanz und der Anhang sind in den ersten vier Monaten des Geschäftsjahrs aufzustellen. Unternehmen, die in der Eröffnungsbilanz eine Bilanzsumme von höchstens drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs ausweisen oder die am 1. Juli 1990 höchstens fünfzig Arbeitnehmer beschäftigen, dürfen die Eröffnungsbilanz und den Anhang in den ersten sechs Monaten des Geschäftsjahrs aufstellen, wenn dies einem ordnungsgemäßen Geschäftsgang entspricht.
 
@@ -444,15 +436,13 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (3) Übertragen Unternehmen zum Zwecke der Neustrukturierung oder Privatisierung bis zum 30. Juni 1991 Vermögensgegenstände oder Schulden auf andere Unternehmen, so können die sich daraus ergebenden Änderungen in den Eröffnungsbilanzen und Inventaren der betroffenen Unternehmen, jedoch nur übereinstimmend, berücksichtigt werden; ist das übertragende Unternehmen eine landwirtschaftliche Produktionsgenossenschaft, tritt an die Stelle des 30. Juni 1991 der 31. Dezember 1991. Satz 1 ist auch anzuwenden, wenn alle Vermögensgegenstände und Schulden eines Unternehmens einschließlich der nach diesem Gesetz vorgesehenen Sonderposten übertragen werden. Auf das verbleibende Unternehmen braucht bei Vermögenslosigkeit dieses Gesetz nicht angewendet zu werden; ist es in einem Register eingetragen, so ist es von Amts wegen zu löschen. Die Übertragung von Vermögensgegenständen nach Satz 1 bis zum 31. Dezember 1995 ist stets in der Eröffnungsbilanz und im Inventar zu berücksichtigen, wenn die Treuhandanstalt die Vermögensänderung von einem Unternehmen verlangt hat, dessen Anteile ihr gehören, und ein angemessenes Entgelt nicht gewährt wird. Erfolgt die Übertragung des Vermögensgegenstandes auf ein anderes Unternehmen, dessen Anteile im Zeitpunkt der Übertragung der Treuhandanstalt gehören, so ist die Vermögensänderung auch in der Eröffnungsbilanz und im Inventar des übernehmenden Unternehmens zu berücksichtigen. Die Eröffnungsbilanz gilt als geändert, sobald die Vermögensänderung in dem folgenden Jahresabschluß berücksichtigt worden ist.
 
-
-## § 5 – Anzuwendende Vorschriften
+# § 5 – Anzuwendende Vorschriften
 
 (1) Auf die Eröffnungsbilanz sind die §§ 243 bis 261 des Handelsgesetzbuchs mit Ausnahme von § 243 Abs. 3, § 247 Abs. 3, §§ 252, 253 Abs. 1 Satz 1, Abs. 4, § 255 Abs. 3, § 256 Satz 1 entsprechend anzuwenden, soweit sie sich auf die Bilanz beziehen und dieses Gesetz keine abweichenden Regelungen enthält; Angaben über verbundene Unternehmen brauchen nicht gemacht zu werden. Unternehmen, die nicht Einzelkaufmann oder Personenhandelsgesellschaft sind, haben außerdem § 265 Abs. 3 bis 8, §§ 266, 268 Abs. 3 bis 7, §§ 270 bis 272, Genossenschaften die §§ 336, 337 des Handelsgesetzbuchs anzuwenden, soweit dieses Gesetz abweichende Regelungen nicht enthält oder geschäftszweigbezogene Vorschriften über Form und Inhalt der Bilanz nicht zu beachten sind.
 
 (2) Werden in der Eröffnungsbilanz die Größenmerkmale des § 267 Abs. 1 oder 2 des Handelsgesetzbuchs bezüglich der Bilanzsumme oder der Arbeitnehmerzahl nicht überschritten, dürfen kleine Unternehmen die Erleichterungen des § 266 Abs. 1 Satz 3 des Handelsgesetzbuchs und mittelgroße Unternehmen die Erleichterungen des § 327 Nr. 1 des Handelsgesetzbuchs bereits bei der Aufstellung der Eröffnungsbilanz in Anspruch nehmen.
 
-
-## § 6 – Allgemeine Anforderungen
+# § 6 – Allgemeine Anforderungen
 
 (1) Bei der Bewertung der in der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände und Schulden gilt insbesondere folgendes:
 
@@ -464,8 +454,7 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (2) Die auf die in der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände und Schulden angewandten Ansatz- und Bewertungsmethoden sind für die folgenden Bilanzen verbindlich, soweit nicht abgewichen werden muß oder eine Abweichung nach § 252 Abs. 2 des Handelsgesetzbuchs zulässig ist; für die erstmalige Abweichung in einem nachfolgenden Abschluß von einem in der Eröffnungsbilanz ausgeübten Wahlrecht bedarf es eines begründeten Ausnahmefalls nicht. Satz 1 gilt auch, wenn sich die Zulässigkeit der Methode nur aus diesem Gesetz ergibt. Die in der Eröffnungsbilanz angesetzten Werte dürfen jedoch in den Folgebilanzen nicht überschritten werden.
 
-
-## § 7 – Neubewertung
+# § 7 – Neubewertung
 
 (1) Vermögensgegenstände und Schulden sind neu zu bewerten. Vermögensgegenstände sind mit ihren Wiederbeschaffungs- oder Wiederherstellungskosten anzusetzen (Neuwert); sie dürfen jedoch höchstens mit dem Wert angesetzt werden, der ihnen beizulegen ist (Zeitwert). Wesentliche Werterhöhungen, die innerhalb von vier Monaten nach dem Bilanzstichtag eintreten, sind zu berücksichtigen. Die bisherige Nutzung der Vermögensgegenstände und ihr Zurückbleiben hinter dem technischen Fortschritt sind bei der Ermittlung des Zeitwerts durch einen Wertabschlag zu berücksichtigen. Die in der Eröffnungsbilanz angesetzten Werte gelten für die Folgezeit als Anschaffungs- oder Herstellungskosten, soweit Berichtigungen nach § 36 nicht vorzunehmen sind.
 
@@ -479,8 +468,7 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (6) Forderungen und Verbindlichkeiten nach dem Vermögensgesetz sind in die Eröffnungsbilanz mit dem Wert aufzunehmen, der dem rückgabepflichtigen Unternehmen nach § 11 oder zurückzugebenden Vermögensgegenständen nach den §§ 8 bis 18 zukommt. In Höhe des aktivierten Betrags ist innerhalb der Gewinnrücklagen eine Sonderrücklage zu bilden, die bis zur Erfüllung des Anspruchs nur zum Ausgleich von Verlusten verwendet werden darf, soweit sie nicht zur Bildung des gezeichneten Kapitals benötigt wird.
 
-
-## § 8 – Immaterielle Vermögensgegenstände
+# § 8 – Immaterielle Vermögensgegenstände
 
 (1) Das Bilanzierungsverbot des § 248 Abs. 2 des Handelsgesetzbuchs für selbst geschaffene immaterielle Vermögensgegenstände des Anlagevermögens gilt auch, wenn die Vermögensgegenstände im Wege der Umwandlung vor dem 1. Juli 1990 erworben worden sind. Ein unentgeltlich erworbener Geschäfts- oder Firmenwert darf nicht angesetzt werden; § 31 Abs. 1 Nr. 1 bleibt unberührt.
 
@@ -488,8 +476,7 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (3) Statt der Summe der aus der Einzelbewertung der entgeltlich erworbenen immateriellen Vermögensgegenstände sich ergebenden Beträge kann der Betrag angesetzt werden, den ein Käufer bei Fortführung des Unternehmens im Rahmen des Gesamtkaufpreises für die entgeltlich erworbenen immateriellen Vermögensgegenstände insgesamt zu zahlen bereit wäre. Der Betrag ist, soweit es sich um abnutzbare Vermögensgegenstände handelt, in entsprechender Anwendung des § 255 Abs. 4 des Handelsgesetzbuchs abzuschreiben.
 
-
-## § 9 – Grund und Boden
+# § 9 – Grund und Boden
 
 (1) Grund und Boden ist mit seinem Verkehrswert anzusetzen. Dabei darf die Preisentwicklung im gesamten Währungsgebiet der Deutschen Mark bis zur Feststellung der Eröffnungsbilanz berücksichtigt werden. Bis zur Bildung von selbständigen und unabhängigen Gutachterausschüssen für die Ermittlung der Grundstückswerte und für sonstige Wertermittlungen können für die Ermittlung des Verkehrswerts die vom Ministerium für Wirtschaft empfohlenen Richtwerte herangezogen werden.
 
@@ -497,15 +484,13 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (3) Ein unentgeltlich auf mindestens zehn Jahre unentziehbar eingeräumtes grundstücksgleiches Recht darf mit dem Barwert der üblichen Nutzungsentschädigung angesetzt werden, wenn der dazu gehörende Grund und Boden wie Anlagevermögen genutzt wird. Der angesetzte Betrag ist in der Bilanz oder im Anhang gesondert anzugeben.
 
-
-## § 10 – Bauten und andere Anlagen
+# § 10 – Bauten und andere Anlagen
 
 (1) Gebäude und andere Bauten, technische und andere Anlagen, Maschinen, Betriebs- und Geschäftsausstattung sind mit ihren Wiederherstellungskosten (§ 7 Abs. 3) oder mit ihren Wiederbeschaffungskosten (§ 7 Abs. 2) unter Berücksichtigung des Wertabschlags für zwischenzeitliche Nutzung (§ 7 Abs. 4), höchstens jedoch mit ihrem Zeitwert (§ 7 Abs. 1 Satz 2) anzusetzen. Unterlassene Instandhaltungen und Großreparaturen zur Erhaltung sind bei der Ermittlung des Zeitwerts wertmindernd zu berücksichtigen, soweit eine Rückstellung nach § 249 Abs. 2 des Handelsgesetzbuchs nicht gebildet wird.
 
 (2) Als Zeitwert der in Absatz 1 bezeichneten Vermögensgegenstände kann auch ihr höherer Verkehrswert angesetzt werden. Unterlassene Instandhaltungen und Großreparaturen zur Erhaltung des Vermögensgegenstandes dürfen bei Ansatz des Verkehrswerts nicht wertmindernd berücksichtigt werden, soweit eine Rückstellung nach § 249 Abs. 1 Satz 2 Nr. 1 oder Satz 3 oder Absatz 2 des Handelsgesetzbuchs gebildet wird.
 
-
-## § 11 – Finanzanlagen
+# § 11 – Finanzanlagen
 
 (1) Beteiligungen an einem anderen Unternehmen nach § 1 sind in der Eröffnungsbilanz mit dem Betrag anzusetzen, der dem ausgewiesenen anteiligen Eigenkapital (§ 26 Abs. 1) in der Eröffnungsbilanz dieses Unternehmens entspricht. Steht dem anderen Unternehmen eine Ausgleichsforderung oder eine Forderung auf Einzahlung von Eigenkapital gegen das beteiligte Unternehmen zu, so sind diese unter den Verbindlichkeiten gegenüber verbundenen Unternehmen gesondert auszuweisen. Andere Beteiligungen sind mit ihrem Verkehrswert anzusetzen. Satz 3 darf auch auf Beteiligungen nach Satz 1 angewandt werden.
 
@@ -513,8 +498,7 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (3) Ausleihungen, die vor dem 1. Juli 1990 begründet wurden, sind mit der Wirkung auf Deutsche Mark umzustellen, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.
 
-
-## § 12 – Vorräte
+# § 12 – Vorräte
 
 (1) Roh-, Hilfs- und Betriebsstoffe sind mit ihren Wiederbeschaffungs- oder Wiederherstellungskosten anzusetzen.
 
@@ -524,8 +508,7 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (4) Vorräte nach den Absätzen 1 bis 3 sind jedoch höchstens mit ihrem Zeitwert (§ 7 Abs. 1 Satz 1) anzusetzen. § 7 Abs. 5 Satz 1 bleibt unberührt.
 
-
-## § 13 – Forderungen
+# § 13 – Forderungen
 
 (1) Auf Mark der Deutschen Demokratischen Republik lautende Forderungen, die vor dem 1. Juli 1990 begründet wurden, werden, soweit Absatz 2 nichts anderes bestimmt, mit der Wirkung auf Deutsche Mark umgerechnet, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.
 
@@ -537,8 +520,7 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (5) Ausstehende Einlagen sind, auch wenn sie nicht eingefordert sind, wie Forderungen zu bewerten, jedoch nicht abzuzinsen.
 
-
-## § 14 – Kassenbestand, Schecks, Guthaben bei Geldinstituten
+# § 14 – Kassenbestand, Schecks, Guthaben bei Geldinstituten
 
 (1) Zahlungsmittel in Mark der Deutschen Demokratischen Republik sind nur anzusetzen, soweit sie weiterhin gesetzliche Zahlungsmittel sind.
 
@@ -546,13 +528,11 @@ Auf das Inventar zum 1. Juli 1990 ist § 240 des Handelsgesetzbuchs entsprechend
 
 (3) Guthaben bei Geldinstituten in Mark der Deutschen Demokratischen Republik sind mit dem Betrag anzusetzen, den das Geldinstitut in Deutscher Mark gutbringen muß.
 
-
-## § 15 – Rechnungsabgrenzungsposten
+# § 15 – Rechnungsabgrenzungsposten
 
 Aktive und passive Rechnungsabgrenzungsposten nach § 250 des Handelsgesetzbuchs sind im Verhältnis von zwei Mark der Deutschen Demokratischen Republik zu einer Deutschen Mark umzurechnen, soweit nicht ein anderes Umstellungsverhältnis vorgeschrieben ist.
 
-
-## § 16 – Verbindlichkeiten
+# § 16 – Verbindlichkeiten
 
 (1) Auf Mark der Deutschen Demokratischen Republik lautende Verbindlichkeiten, die vor dem 1. Juli 1990 begründet wurden, werden, soweit Absatz 2 nichts anderes bestimmt, mit der Wirkung auf Deutsche Mark umgerechnet, daß für zwei Mark der Deutschen Demokratischen Republik eine Deutsche Mark anzusetzen ist.
 
@@ -574,8 +554,7 @@ Der Gesamtbetrag solcher Verbindlichkeiten ist im Anhang unter den sonstigen fin
 
 (4) Verbindlichkeiten, die bis zur Feststellung der Eröffnungsbilanz erlassen oder von einem Dritten unentgeltlich übernommen werden, sind nicht zu bilanzieren.
 
-
-## § 17 – Rückstellungen
+# § 17 – Rückstellungen
 
 (1) Ungewisse Verbindlichkeiten, die vor dem 1. Juli 1990 in Mark der Deutschen Demokratischen Republik begründet wurden, sind wie Verbindlichkeiten in Deutsche Mark umzurechnen und als Rückstellungen auszuweisen.
 
@@ -593,13 +572,11 @@ Der Gesamtbetrag solcher Verbindlichkeiten ist im Anhang unter den sonstigen fin
 
 (5) § 249 Abs. 1 Satz 2 Nr. 1 des Handelsgesetzbuchs braucht nicht angewandt zu werden. § 249 des Handelsgesetzbuchs bleibt im übrigen unberührt. Anstelle eines Wertabschlags nach § 9 Abs. 2 Satz 2 oder § 10 Abs. 1 Satz 2 oder Abs. 2 Satz 2 kann eine Rückstellung nach § 249 Abs. 1 Satz 2 Nr. 1 oder Satz 3 oder Absatz 2 des Handelsgesetzbuchs gebildet werden, wenn die Voraussetzungen hierfür erfüllt sind. § 16 Abs. 3 und 4 ist entsprechend anzuwenden.
 
-
-## § 18 – Währungsumrechnung
+# § 18 – Währungsumrechnung
 
 Auf ausländische Währung lautende Vermögensgegenstände, Schulden und Rechnungsabgrenzungsposten sowie am Bilanzstichtag nicht abgewickelte Kassa-Geschäfte sind mit dem Kassa-Kurs am Bilanzstichtag in Deutsche Mark umzurechnen. Nicht abgewickelte Termingeschäfte sind zum Terminkurs am Bilanzstichtag umzurechnen. Forderungen und Lieferansprüche sind mit dem Geldkurs, Verbindlichkeiten und Lieferverpflichtungen mit dem Briefkurs umzurechnen.
 
-
-## § 19 – Anhang
+# § 19 – Anhang
 
 (1) Im Anhang sind die auf die Posten der Eröffnungsbilanz angewandten Bilanzierungs- und Bewertungsmethoden, insbesondere die bei der Neubewertung angewandten, anzugeben und so zu erläutern, daß ein sachverständiger Dritter die Wertansätze beurteilen kann; insbesondere sind bei Schätzungen die Vergleichsmaßstäbe darzustellen. Bei der Ausübung von Wahlrechten sind wesentliche Auswirkungen auf die Vermögenslage gesondert darzustellen. Außerdem sind diejenigen Angaben aufzunehmen, die zu den einzelnen Posten der Eröffnungsbilanz vorgeschrieben oder die im Anhang zu machen sind, weil sie in Ausübung eines Wahlrechts nicht in die Eröffnungsbilanz aufgenommen wurden.
 
@@ -639,13 +616,11 @@ b) der Gesamtbetrag der Verbindlichkeiten, die durch Pfandrechte oder ähnliche 
 
 2. in den Fällen der Absätze 2 und 3 Nr. 4 und 9 nach vernünftiger kaufmännischer Beurteilung geeignet sind, dem Unternehmen einen erheblichen Nachteil zuzufügen.
 
-
-## § 20 – Vergleichende Darstellung
+# § 20 – Vergleichende Darstellung
 
 Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang eine vergleichende Darstellung als Anlage beizufügen, aus der sich ergibt, in welchem Umfang die Posten der Schlußbilanz zum 30. Juni 1990 im Vergleich mit den Posten der D-Markeröffnungsbilanz zum 1. Juli 1990 sich verändert haben. Die sich aus der Neubewertung der Vermögensgegenstände und der Schulden ergebenden Differenzen gegenüber der Schlußbilanz sind in einem gesonderten Nachweis unter der Bezeichnung Neubewertungsdifferenzen, gegliedert nach den Posten der D-Markeröffnungsbilanz, darzustellen. Die Neubewertungsdifferenzen sind durch Einzelnachweise zu dokumentieren.
 
-
-## § 21 – Pflicht zur Aufstellung
+# § 21 – Pflicht zur Aufstellung
 
 (1) Zur Aufstellung einer Eröffnungsbilanz verpflichtete Unternehmen, die die Mehrheit der Anteile an einem anderen Unternehmen (Tochterunternehmen) besitzen (Mutterunternehmen), haben spätestens innerhalb von zwei Monaten nach Ablauf der Feststellungsfrist für kleine Unternehmen nach § 35 Abs. 1 Satz 3 für den 1. Juli 1990 eine Konzerneröffnungsbilanz in Deutscher Mark sowie einen Anhang gemäß § 22 aufzustellen, der mit der Konzerneröffnungsbilanz eine Einheit bildet. Ein Mutterunternehmen ist von der Pflicht zur Aufstellung der Konzerneröffnungsbilanz und des Anhangs befreit, wenn am Stichtag die Bilanzsummen in den Eröffnungsbilanzen des Mutterunternehmens und der einzubeziehenden Tochterunternehmen nach Abzug von in den Eröffnungsbilanzen auf der Aktivseite ausgewiesenen Fehlbeträgen insgesamt fünfzig Millionen Deutsche Mark nicht überschreiten oder die Konzernunternehmen insgesamt nicht mehr als fünfhundert Arbeitnehmer beschäftigen.
 
@@ -657,22 +632,19 @@ Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang
 
 (5) Die Treuhandanstalt und die von ihr gegründeten Treuhand-Aktiengesellschaften stellen in den ersten zwei Monaten nach Ablauf der Feststellungsfrist für die Konzerneröffnungsbilanz nach § 35 Abs. 1 Satz 3 anstatt einer Konzerneröffnungsbilanz eine Gesamteröffnungsbilanz in vereinfachter Form und anstatt eines Konzernanhangs einen Gesamtanhang auf. Sie fassen jeweils die Gesamt- oder Konzerneröffnungsbilanzen ihrer Tochtergesellschaften zusammen. Bei der Kapitalkonsolidierung nach § 301 des Handelsgesetzbuchs kann unterstellt werden, daß ein nach Verrechnung auf der Aktivseite entstehender Unterschiedsbetrag Geschäfts- oder Firmenwert oder ein auf der Passivseite entstehender Unterschiedsbetrag Eigenkapital ist, soweit er im letzteren Fall nicht auf unterlassene Rückstellungen zurückzuführen ist. § 303 des Handelsgesetzbuchs über die Schuldenkonsolidierung braucht nur auf Geschäfte zwischen den Mutterunternehmen und ihren jeweiligen Tochterunternehmen angewandt zu werden. Auch brauchen Zwischenergebnisse nach § 304 des Handelsgesetzbuchs nur herausgerechnet zu werden, wenn sie auf Lieferungen und Leistungen zwischen den aufstellenden Mutterunternehmen und ihren jeweiligen Tochterunternehmen beruhen. Im übrigen sind auf die Aufstellung, Prüfung, Feststellung und Offenlegung die nach diesem Gesetz für die Konzerneröffnungsbilanz und den Konzernanhang geltenden Vorschriften entsprechend anzuwenden.
 
-
-## § 22 – Konzernanhang
+# § 22 – Konzernanhang
 
 (1) Auf den Konzernanhang ist § 19 entsprechend anzuwenden. Aus den Anhängen der Tochterunternehmen sind jedoch nur diejenigen Angaben zusammenfassend zu übernehmen, die für die Beurteilung des Konzerns von wesentlicher Bedeutung sind.
 
 (2) Im Konzernanhang sind außerdem die nach § 313 Abs. 2 des Handelsgesetzbuchs verlangten Angaben zu machen. § 313 Abs. 3 des Handelsgesetzbuchs ist anzuwenden.
 
-
-## § 23 – Vorlage- und Auskunftspflichten
+# § 23 – Vorlage- und Auskunftspflichten
 
 (1) Jedes Mutterunternehmen kann von seinen Tochterunternehmen alle Aufklärungen und Nachweise verlangen, welche die Aufstellung der Konzerneröffnungsbilanz und des Konzernanhangs erfordert. Dies gilt auch für Auskünfte, die sich auf andere, dem Mutterunternehmen durch Gesetz übertragene Aufgaben beziehen.
 
 (2) Die Tochterunternehmen haben jedem Mutterunternehmen ihre Eröffnungsbilanz einschließlich Anhang und, wenn sie gleichzeitig Mutterunternehmen sind, ihre Konzerneröffnungsbilanz einschließlich Konzernanhang unverzüglich nach deren Aufstellung und die Prüfungsberichte unverzüglich nach deren Eingang einzureichen. Werden die einzureichenden Unterlagen nachträglich geändert, so sind die geänderten Fassungen unverzüglich nach der Änderung einzureichen. Werden die Unterlagen vor ihrer Feststellung eingereicht, ist die Feststellung mitzuteilen, sobald diese erfolgt ist.
 
-
-## § 24 – Ausgleichsforderungen
+# § 24 – Ausgleichsforderungen
 
 (1) Unternehmen, die als bisher volkseigenes Vermögen der Treuhandanstalt oder einem ihrer Tochterunternehmen zur Privatisierung oder dem Staat, den Gemeinden, Städten, Kreisen, Ländern oder anderen Vermögensträgern unentgeltlich übertragen wurden und sich am 1. Juli 1990 noch in deren alleinigem Anteilsbesitz befanden, und die nicht Geldinstitute, Außenhandelsbetriebe oder Versicherungsunternehmen sind, erhalten, wenn sich bei der Aufstellung der Eröffnungsbilanz ergibt, daß sie einen nicht durch Eigenkapital gedeckten Fehlbetrag ausweisen müßten, beginnend mit dem 1. Juli 1990 eine gesondert auszuweisende verzinsliche Forderung (Ausgleichsforderung) in Höhe des Fehlbetrags, wenn der Schuldner die Ausgleichsforderung nicht innerhalb von drei Monaten nach Einreichung der festgestellten Eröffnungsbilanz ablehnt. Er hat sie abzulehnen, wenn das Unternehmen nicht sanierungsfähig ist. Die Ablehnung ist dem Unternehmen schriftlich mitzuteilen. Die Ausgleichsforderung und die dazu gehörenden Zinsen entfallen mit dem Zugang der Ablehnungserklärung.
 
@@ -686,8 +658,7 @@ Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang
 
 (5) Mutterunternehmen, die Schuldner einer Ausgleichsforderung nach Absatz 1 sind, stellen in Höhe ihrer Verbindlichkeit aus dieser Ausgleichsforderung auf der Aktivseite ihrer Eröffnungsbilanz ein Beteiligungsentwertungskonto ein, soweit nicht ein nicht durch Eigenkapital gedeckter Fehlbetrag auszuweisen ist. Der aktivierte Betrag ist in den Folgejahren jeweils in Höhe der Tilgung der Ausgleichsforderung abzuschreiben. In Höhe des Beteiligungsentwertungskontos ist innerhalb der Gewinnrücklagen eine Sonderrücklage zu bilden, die nur zum Ausgleich von Verlusten verwendet werden darf; die Sonderrücklage wird entsprechend der Auflösung des Beteiligungsentwertungskontos frei verfügbar, soweit sie nicht zum Ausgleich eines eingetretenen Verlustes benötigt wird. Der aktivierte Betrag ist nicht geeignet, Ausstehende Einlagen zur Bildung des gezeichneten Kapitals oder das Kapitalentwertungskonto nach § 26 Abs. 4, § 28 Abs. 1 zu ersetzen.
 
-
-## § 25 – Ausgleichsverbindlichkeiten
+# § 25 – Ausgleichsverbindlichkeiten
 
 (1) Ergibt sich bei der Aufstellung der Eröffnungsbilanz von in § 24 Abs. 1 Satz 1 bezeichneten Unternehmen, daß ein höheres Eigenkapital auszuweisen wäre, als es dem für das Sachanlagevermögen auszuweisenden Betrag, vermindert um den für den zum 1. Juli 1990 übergegangenen Grund und Boden auszuweisenden Betrag, entspricht, so werden sie in Höhe des übersteigenden Betrags mit einer gesondert auszuweisenden Ausgleichsverbindlichkeit belastet. Das für die Rechtsform des Unternehmens oder seine Tätigkeit gesetzlich vorgeschriebene Mindestkapital darf jedoch nicht unterschritten werden. § 36 bleibt unberührt. Bei der Berechnung der Ausgleichsverbindlichkeiten sind Sonderrücklagen nach § 17 Abs. 4 Satz 3, § 24 Abs. 5 Satz 3 und gezeichnetes Kapital, das über Ausstehende Einlagen oder ein Kapitalentwertungskonto nach § 26 Abs. 4, § 28 gebildet wird, nicht zu berücksichtigen. Vermögensgegenstände des Sachanlagevermögens, die nach dem Vermögensgesetz zurückzugeben sind, und die Verbindlichkeit oder Rückstellung für die Rückgabeverpflichtung nach § 7 Abs. 6 sind bei der Berechnung der Ausgleichsverbindlichkeit ebenfalls nicht zu berücksichtigen. § 24 Abs. 2 Satz 1 ist entsprechend anzuwenden.
 
@@ -701,8 +672,7 @@ Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang
 
 (6) Die Treuhandanstalt kann von Unternehmen, deren Anteile ihr gehören und die nicht nach § 6 des Vermögensgesetzes zurückzugeben sind, die Übertragung von Vermögensgegenständen verlangen. In der Zeit vom 1. Juli 1990 bis zum Zeitpunkt der Übertragung entstandene Abschreibungen, Wertberichtigungen und Rückstellungen sind nach § 36 zu berichtigen. Absatz 5 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 26 – Eigenkapitalsicherung
+# § 26 – Eigenkapitalsicherung
 
 (1) Unternehmen im Sinne des § 24 Abs. 1 Satz 1 haben als Eigenkapital den Betrag auszuweisen, um den der Gesamtbetrag der auf der Aktivseite der Eröffnungsbilanz ausgewiesenen Vermögensgegenstände einschließlich der nach diesem Gesetz einzustellenden Sonderposten und der Rechnungsabgrenzungsposten höher ist als der Gesamtbetrag der auf der Passivseite ausgewiesenen Schulden und der Rechnungsabgrenzung.
 
@@ -712,8 +682,7 @@ Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang
 
 (4) Hat der Anteilseigner nach Überführung des Unternehmens in eine private Rechtsform seine Einlage bis zum 30. Juni 1990 geleistet, so kann in den Fällen des Absatzes 3 ein Fehlbetrag dadurch ausgeglichen werden, daß auf der Aktivseite der Eröffnungsbilanz an Stelle der Ausstehenden Einlage in entsprechender Anwendung des § 28 Abs. 1 und 2 unter den dortigen Voraussetzungen ein Kapitalentwertungskonto ausgewiesen wird. § 30 ist anzuwenden.
 
-
-## § 27 – Neufestsetzung
+# § 27 – Neufestsetzung
 
 (1) Dieser Unterabschnitt ist auf alle Unternehmen anzuwenden, auf die § 24 nach dessen Absatz 1 Satz 1 nicht anzuwenden ist, auch wenn sie nach § 1 Abs. 5 als zum 1. Juli 1990 gegründet angesehen werden oder auf sie nach § 4 Abs. 3 das gesamte Vermögen eines Unternehmens als zum 1. Juli 1990 übergegangen gilt. Als Eigenkapital ist der in § 26 Abs. 1 bezeichnete Betrag auszuweisen.
 
@@ -737,15 +706,13 @@ Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang
 
 (8) Die Absätze 2 bis 7 ist auf ein Unternehmen in einer Rechtsform nach § 1 Abs. 2 Nr. 1 bis 7 jeweils entsprechend anzuwenden, wenn es nach dem für seine Rechtsform maßgeblichen Recht zwischen einem gezeichneten Kapital und Rücklagen unterscheidet; dabei ist jeweils die Regelung für diejenige Rechtsform anzuwenden, die der des Unternehmens am nächsten kommt.
 
-
-## § 28 – Vorläufige Neufestsetzung
+# § 28 – Vorläufige Neufestsetzung
 
 (1) An Stelle einer endgültigen Neufestsetzung nach § 27 kann von Unternehmen, die nicht Geldinstitute oder Außenhandelsbetriebe sind, die Neufestsetzung vorläufig in der Weise durchgeführt werden, daß das in der Schlußbilanz in Mark der Deutschen Demokratischen Republik ausgewiesene gezeichnete Kapital (Grundkapital, Stammkapital, Einlagen, Genußrechtskapital, Geschäftsguthaben) mit dem gleichen Betrag in Deutscher Mark in die Eröffnungsbilanz übernommen und der Unterschied, um den der Betrag des gezeichneten Kapitals das bei der Aufstellung der Eröffnungsbilanz ermittelte Eigenkapital übersteigt, als Kapitalentwertungskonto auf der Aktivseite der Eröffnungsbilanz eingestellt wird.
 
 (2) Der Betrag, der als Kapitalentwertungskonto ausgewiesen wird, darf nicht höher sein als neun Zehntel des gezeichneten Kapitals. Eine Kapitalrücklage darf nicht beibehalten werden. Eine Gewinnrücklage darf beibehalten werden, soweit diese nach § 31 gebildet worden ist und nach vernünftiger kaufmännischer Beurteilung erwartet werden kann, daß das Unternehmen das Kapitalentwertungskonto aus künftigen Jahresüberschüssen tilgen kann. Das Unternehmen ist verpflichtet, das Kapitalentwertungskonto innerhalb von fünf Geschäftsjahren nach dem Stichtag der Eröffnungsbilanz auszugleichen. Zur Tilgung sind Werterhöhungen auf Grund der Berichtigung von Wertansätzen nach § 36 sowie die Jahresüberschüsse zu verwenden. Eine anderweitige Verwendung ist unzulässig, solange das Kapitalentwertungskonto besteht.
 
-
-## § 29 – Gesellschaftsrechtliche Beziehungen
+# § 29 – Gesellschaftsrechtliche Beziehungen
 
 (1) Das Verhältnis der mit den Anteilen verbundenen Rechte zueinander wird durch die Neufestsetzung nicht berührt.
 
@@ -753,15 +720,13 @@ Unternehmen, die Geldinstitute oder Außenhandelsbetriebe sind, haben dem Anhang
 
 (3) Wird während des Bestehens eines Kapitalentwertungskontos eine Kapitalerhöhung beschlossen, so ist jedem Anteilseigner auf sein Verlangen ein seinem Anteil an dem bisherigen gezeichneten Kapital entsprechender Teil der neuen Anteile zuzuteilen, es sei denn, daß ein Dritter die Anteile übernommen und sich verpflichtet hat, sie den Anteilseignern zum Bezug anzubieten.
 
-
-## § 30 – Auflösung von Kapitalentwertungskonten
+# § 30 – Auflösung von Kapitalentwertungskonten
 
 (1) Wird ein Kapitalentwertungskonto nicht innerhalb der in § 28 Abs. 2 Satz 4 bestimmten Frist ausgeglichen, so hat das für Kapitalmaßnahmen zuständige Organ des Unternehmens spätestens bei der Beschlußfassung über die Verwendung des Ergebnisses aus dem Jahresabschluß des fünften Geschäftsjahrs nach dem Stichtag der Eröffnungsbilanz die Maßnahmen zu beschließen, die erforderlich sind, um das Kapitalentwertungskonto auf andere Weise als durch Tilgung, insbesondere durch Ermäßigung des gezeichneten Kapitals, auszugleichen.
 
 (2) Die Maßnahmen gemäß Absatz 1 sind unverzüglich durchzuführen. Ihre Durchführung gilt als endgültige Neufestsetzung. Auf die Ermäßigung des gezeichneten Kapitals sind die für die Rechtsform des Unternehmens maßgeblichen Vorschriften, von Aktiengesellschaften und Kommanditgesellschaften auf Aktien die §§ 229 bis 236 des Aktiengesetzes über die vereinfachte Kapitalherabsetzung anzuwenden.
 
-
-## § 31 – Vorläufige Gewinnrücklage
+# § 31 – Vorläufige Gewinnrücklage
 
 (1) Unternehmen dürfen, wenn sie nicht Geldinstitute oder Außenhandelsbetriebe sind, folgende Maßnahmen treffen, um eine Gewinnrücklage bilden zu können:
 
@@ -787,8 +752,7 @@ In Höhe der nach Satz 1 Nr. 1 bis 3 aktivierten Beträge ist auf der Passivseit
 
 (8) Nach Absatz 1 aktivierte Beträge und die in Höhe dieser Beträge gebildete Gewinnrücklage sind gesondert unter entsprechender Bezeichnung auszuweisen und im Anhang zu erläutern.
 
-
-## § 32 – Festsetzung und Anpassung von Leistungen in Deutscher Mark
+# § 32 – Festsetzung und Anpassung von Leistungen in Deutscher Mark
 
 (1) Verweisen Verträge, die erst nach dem 30. Juni 1990 zu erfüllen sind, auf Preise, die bisher nach staatlichen Preisvorschriften festgesetzt wurden, aber einer Preisbindung nicht mehr unterliegen, so ist der Preis, wenn eine Preisfestsetzung bis zum 30. Juni 1990 nicht stattgefunden hat, von dem Gläubiger durch Erklärung gegenüber dem zur Zahlung Verpflichteten zu bestimmen. Die getroffene Bestimmung ist für den anderen Teil jedoch nur verbindlich, wenn sie der Billigkeit entspricht. Entspricht sie nicht der Billigkeit, wird die Bestimmung durch Urteil getroffen; das gleiche gilt, wenn die Bestimmung verzögert wird.
 
@@ -796,8 +760,7 @@ In Höhe der nach Satz 1 Nr. 1 bis 3 aktivierten Beträge ist auf der Passivseit
 
 (3) Erfolgt in den Fällen der Absätze 1 und 2 die Neubestimmung nach billigem Ermessen innerhalb der Aufstellungsfrist für die Eröffnungsbilanz, so ist eine Rückstellung nach § 17 Abs. 2 nur zu bilden, wenn zu erwarten ist, daß auch das neu festgesetzte Entgelt zu einem Verlust führen wird.
 
-
-## § 33 – Prüfung
+# § 33 – Prüfung
 
 (1) Die Eröffnungsbilanz und der Anhang, jedoch ohne die vergleichende Darstellung nach § 20, sind durch einen Prüfer zu prüfen. Hat keine Prüfung stattgefunden, so kann die Eröffnungsbilanz nicht festgestellt werden. Kapitalgesellschaften und Genossenschaften, deren Bilanzsumme in der Eröffnungsbilanz drei Millionen neunhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs nicht übersteigt oder die am Stichtag nicht mehr als fünfzig Arbeitnehmer beschäftigen, brauchen die Eröffnungsbilanz und den Anhang nicht prüfen zu lassen, soweit sie nicht Geldinstitute oder Außenhandelsbetriebe oder Rechtsnachfolger eines prüfungspflichtigen Unternehmens nach § 1 Abs. 5 oder § 4 Abs. 3 sind. Einzelkaufleute und Personenhandelsgesellschaften brauchen die Eröffnungsbilanz nicht prüfen zu lassen, soweit sie nicht Geldinstitute sind.
 
@@ -817,8 +780,7 @@ In Höhe der nach Satz 1 Nr. 1 bis 3 aktivierten Beträge ist auf der Passivseit
 
 Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Geschäftsführung beizufügen, aus der sich ergibt, daß sie der aufstellenden Person alle Unterlagen vorgelegt und alle Auskünfte erteilt hat, die für die Aufstellung erforderlich waren. § 323 Abs. 2 des Handelsgesetzbuchs über die Haftung bei Fahrlässigkeit ist entsprechend anzuwenden. Die Sätze 1 bis 3 sind entsprechend auf die in § 34 Abs. 2 bezeichneten Prüfungsverbände anzuwenden.
 
-
-## § 34 – Durchführung der Prüfung
+# § 34 – Durchführung der Prüfung
 
 (1) Prüfer können nach der Wirtschaftsprüferordnung der Bundesrepublik Deutschland bestellte und vereidigte Wirtschaftsprüfer und anerkannte Wirtschaftsprüfungsgesellschaften sein. Gesellschaften mit beschränkter Haftung, deren Bilanzsumme in der Eröffnungsbilanz fünfzehn Millionen fünfhunderttausend Deutsche Mark nach Abzug eines Fehlbetrags nach § 268 Abs. 3 des Handelsgesetzbuchs nicht übersteigt oder die am Stichtag der Eröffnungsbilanz nicht mehr als zweihundertfünfzig Arbeitnehmer beschäftigen, können ihre Eröffnungsbilanz auch von nach der Wirtschaftsprüferordnung der Bundesrepublik Deutschland bestellten vereidigten Buchprüfern oder anerkannten Buchprüfungsgesellschaften prüfen lassen.
 
@@ -830,8 +792,7 @@ Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Ges
 
 (5) Auf die Prüfung sind die §§ 317, 318, 319 Abs. 2, 3, §§ 320 bis 323 des Handelsgesetzbuchs entsprechend anzuwenden.
 
-
-## § 35 – Feststellung
+# § 35 – Feststellung
 
 (1) Die Eröffnungsbilanz und der Anhang sowie die Konzerneröffnungsbilanz und der Konzernanhang bedürfen der Feststellung. Die für die Aufstellung dieser Unterlagen geltenden Vorschriften sind auch bei der Feststellung anzuwenden. Die Feststellung ist bei Einzelunternehmen vom Inhaber, bei anderen Unternehmen von den Anteilseignern oder dem sonst zuständigen Organ in der für Beschlußfassungen nach der Rechtsform des Unternehmens vorgeschriebenen Form unverzüglich nach Vorlage der Unterlagen herbeizuführen; die Eröffnungsbilanz und der Anhang sind spätestens vor Ablauf des zwölften Monats und von kleinen Unternehmen nach § 4 Abs. 1 Satz 2 spätestens vor Ablauf des fünfzehnten Monats nach dem Bilanzstichtag, die Konzerneröffnungsbilanz und der Konzernanhang spätestens innerhalb von zwei Monaten nach Ablauf der Aufstellungsfrist nach § 21 Abs. 1 Satz 1 festzustellen. Die Gesamteröffnungsbilanz und der Gesamtanhang sind innerhalb von zwei Monaten nach Ablauf der Aufstellungsfrist nach § 21 Abs. 5 festzustellen. Das Geschäftsführungsorgan hat zu diesem Zweck die festzustellenden Unterlagen unverzüglich nach ihrer Aufstellung und den Prüfungsbericht unverzüglich nach seiner Vorlage dem zur Feststellung berufenen Organ vorzulegen. Hat das Unternehmen einen Aufsichtsrat, so hat der Aufsichtsrat die Unterlagen in entsprechender Anwendung des § 171 des Aktiengesetzes zu prüfen und über das Ergebnis der Prüfung schriftlich zu berichten.
 
@@ -841,8 +802,7 @@ Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Ges
 
 (4) Wird die Eröffnungs- oder Konzerneröffnungsbilanz vor Ablauf einer Frist festgestellt, die die Berücksichtigung von Bilanz- oder Wertansätzen zu einem späteren Zeitpunkt vorschreibt oder zuläßt, so ist eine sofortige Änderung nicht erforderlich. Die sich ergebenden Berichtigungen können nachträglich im Rahmen der Aufstellung des nächstfolgenden Abschlusses nach § 36 berücksichtigt werden.
 
-
-## § 36 – Berichtigung von Wertansätzen
+# § 36 – Berichtigung von Wertansätzen
 
 (1) Ergibt sich bei der Aufstellung späterer Jahresabschlüsse, daß Vermögensgegenstände oder Sonderposten in der Eröffnungsbilanz nicht oder mit einem zu niedrigen Wert oder Schulden oder Sonderposten zu Unrecht oder mit einem zu hohen Wert angesetzt worden sind, so ist in der späteren Bilanz der unterlassene Ansatz nachzuholen oder der Wertansatz zu berichtigen, wenn es sich um einen wesentlichen Betrag handelt; dies gilt auch, wenn die Vermögensgegenstände oder Schulden am Bilanzstichtag nicht mehr vorhanden sind, jedoch nur für den auf die Vermögensänderung folgenden Jahresabschluß. Der Gewinn ist in eine Sonderrücklage nach § 27 Abs. 2 Satz 3, bei Aktiengesellschaften vorweg in die gesetzliche Rücklage bis zu deren vorgeschriebenen Höhe, einzustellen, soweit er nicht mit einem Verlust aus einer Verminderung des Sonderverlustkontos aus Rückstellungsbildung nach § 17 Abs. 4 oder der Ausgleichsforderung nach § 24 Abs. 1 oder des Beteiligungsentwertungskontos nach § 24 Abs. 5 oder der Ausstehenden Einlage nach § 26 Abs. 3 oder des Kapitalentwertungskontos nach § 26 Abs. 4, § 28 Abs. 1 oder einem Verlust aus der Erhöhung der Ausgleichsverbindlichkeiten nach § 25 Abs. 1 zu verrechnen ist.
 
@@ -856,8 +816,7 @@ Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Ges
 
 (6) Die Absätze 1 bis 4 gelten auch für die übernommenen Vermögensgegenstände, Schulden und Sonderposten einschließlich der Verfügungsbeschränkungen sowie das sich daraus ergebende Eigenkapital in den Jahresabschlüssen derjenigen Unternehmen, die nach dem 1. Juli 1990 durch Gründung, Umwandlung, Verschmelzung, Spaltung oder Entflechtung aus den in § 1 Abs. 1 bis 3 bezeichneten Unternehmen unter Fortführung der Buchwerte aus deren D-Markeröffnungsbilanz hervorgegangen sind.
 
-
-## § 37 – Offenlegung
+# § 37 – Offenlegung
 
 (1) Unternehmen haben die Eröffnungsbilanz und den Anhang sowie die Konzerneröffnungsbilanz und den Konzernanhang innerhalb eines Monats nach Ablauf der jeweiligen Feststellungsfrist offenzulegen, wenn sie nach ihrer Rechtsform oder wegen ihres Geschäftszweigs zur Offenlegung ihrer Jahresabschlüsse verpflichtet sind oder wenn sie in ihrer Eröffnungsbilanz oder in ihrer Konzerneröffnungsbilanz eine Bilanzsumme von mehr als einhundertfünfundzwanzig Millionen Deutsche Mark ausweisen und am Bilanzstichtag mehr als fünftausend Arbeitnehmer beschäftigen. Die §§ 325, 326, 328 und 339 des Handelsgesetzbuchs sind entsprechend anzuwenden; auf die Bestimmung der Größenmerkmale ist § 5 Abs. 2 anzuwenden. Die vergleichende Darstellung nach § 20 braucht nicht offengelegt zu werden. § 4 des Gesetzes über die Inkraftsetzung von Rechtsvorschriften der Bundesrepublik Deutschland in der Deutschen Demokratischen Republik vom 21. Juni 1990 (GBl. I Nr. 34 S. 357) ist nicht anzuwenden.
 
@@ -867,8 +826,7 @@ Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Ges
 
 (4) Unternehmen, die nach den bis zum 30. Juni 1990 gültigen Rechtsvorschriften gegenüber dem Statistischen Amt der Deutschen Demokratischen Republik berichtspflichtig waren, haben die D-Markeröffnungsbilanz unverzüglich nach ihrer Feststellung der Treuhandanstalt in zweifacher Ausfertigung einzureichen.
 
-
-## § 38 – Anwendungsbereich
+# § 38 – Anwendungsbereich
 
 (1) Geldinstitute und Außenhandelsbetriebe haben die Vorschriften dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist. Sie dürfen die in diesem Gesetz größenabhängig zugelassenen Erleichterungen nicht in Anspruch nehmen. § 19 Abs. 3 Nr. 1 Buchstabe a dieses Gesetzes und § 26 des Gesetzes über das Kreditwesen sind auf Geldinstitute nicht anzuwenden. § 1 Abs. 5 Satz 2 und 3, § 4 Abs. 3 Satz 3 sind auf Geldinstitute und Außenhandelsbetriebe nicht anzuwenden.
 
@@ -878,8 +836,7 @@ Der Eröffnungsbilanz ist die Erklärung nach Satz 2 und eine Erklärung der Ges
 
 (4) Die Eröffnungsbilanz und der Anhang der Geldinstitute und Außenhandelsbetriebe sind spätestens vor Ablauf des achten Monats nach dem Bilanzstichtag festzustellen. Bis zu diesem Zeitpunkt können Maßnahmen nach § 1 Abs. 5 Satz 1 oder § 4 Abs. 3 Satz 1 und 2 berücksichtigt werden.
 
-
-## § 39 – Eröffnungsbilanz
+# § 39 – Eröffnungsbilanz
 
 (1) Geldinstitute haben abweichend von § 247 Abs. 1, §§ 251, 265 Abs. 5 bis 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren Gliederung die Eröffnungsbilanz gemäß der Verordnung über Formblätter für die Gliederung des Jahresabschlusses von Kreditinstituten in der Fassung der Bekanntmachung vom 14. September 1987 (BGBl. I S. 2169) aufzustellen, und zwar
 
@@ -907,8 +864,7 @@ die vor dem 2. Juli 1931 geboren sind, bis zu sechstausend Mark,
 
 sofern sie einen entsprechenden Antrag gestellt haben. Ferner sind die nach dem 31. Dezember 1989 begründeten Verbindlichkeiten gegenüber natürlichen oder juristischen Personen oder Stellen, deren Wohnsitz sich außerhalb der Deutschen Demokratischen Republik befindet, in der Weise umzustellen, daß für drei Mark der Deutschen Demokratischen Republik eine Deutsche Mark gutgeschrieben wird, sofern diese Personen oder Stellen einen entsprechenden Antrag gestellt haben.
 
-
-## § 40 – Ausgleichsforderungen
+# § 40 – Ausgleichsforderungen
 
 (1) Geldinstituten und Außenhandelsbetrieben wird, soweit ihre Vermögenswerte in Anwendung der Bewertungsvorschriften des Unterabschnitts 2 dieses Gesetzes zur Deckung der aus der Einführung der Währung der Deutschen Mark und der Währungsumstellung in der Deutschen Demokratischen Republik hervorgehenden Verbindlichkeiten einschließlich der Rückstellungen nicht ausreichen, beginnend mit dem 1. Juli 1990 eine verzinsliche Forderung gegen den Ausgleichsfonds Währungsumstellung zugeteilt. Zinseszinsen werden nicht gewährt.
 
@@ -920,15 +876,13 @@ sofern sie einen entsprechenden Antrag gestellt haben. Ferner sind die nach dem 
 
 (5) § 24 Abs. 2 Satz 1 ist anzuwenden.
 
-
-## § 41 – Ausgleichsverbindlichkeiten
+# § 41 – Ausgleichsverbindlichkeiten
 
 (1) Geldinstitute und Außenhandelsbetriebe haben in ihre Eröffnungsbilanz zum 1. Juli 1990 Verbindlichkeiten gegenüber dem Ausgleichsfonds Währungsumstellung (Ausgleichsverbindlichkeiten) in der Höhe einzustellen, in der bei Geldinstituten das Eigenkapital die in § 40 Abs. 2 genannten Grenzen und bei Außenhandelsbetrieben die Vermögenswerte die Schulden übersteigen.
 
 (2) § 24 Abs. 2 Satz 1 und § 40 Abs. 1 Satz 2 und Absatz 4 sind entsprechend anzuwenden.
 
-
-## § 42 – Vergleichende Darstellung
+# § 42 – Vergleichende Darstellung
 
 Geldinstitute haben in der vergleichenden Darstellung nach § 20 außerdem anzugeben,
 
@@ -946,49 +900,41 @@ gutgeschrieben wurden;
 
 3. den Gesamtbetrag der Guthaben in Mark der Deutschen Demokratischen Republik, für die ein Umstellungsantrag noch gestellt werden kann.
 
-
-## § 43 – Prüfung
+# § 43 – Prüfung
 
 (1) Geldinstitute und Außenhandelsbetriebe in der Rechtsform einer Kapitalgesellschaft oder des öffentlichen Rechts können abweichend von § 34 Abs. 1 nur von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft geprüft werden, soweit sie nicht Sparkassen sind.
 
 (2) Die Prüfung erstreckt sich auch auf die Frage, ob bei der nachträglichen Umstellung von Kontoguthaben natürlicher Personen die Voraussetzungen gemäß Artikel 5 Abs. 7 der Anlage I zum Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik für die Wiedereinsetzung in den vorigen Stand vorlagen.
 
-
-## § 43a – Abführungspflicht für wertberichtigte Forderungen
+# § 43a – Abführungspflicht für wertberichtigte Forderungen
 
 (1) Ein Geldinstitut ist verpflichtet, Zins- und Tilgungsbeträge, die der Schuldner oder ein Dritter nach dem 31. Dezember 1994 und vor dem 1. Januar 2030 auf ein ihm vor dem 1. Juli 1990 gewährtes Darlehen leistet, an den Ausgleichsfonds Währungsumstellung abzuführen, wenn das Geldinstitut hierfür in seiner D-Markeröffnungsbilanz eine Wertberichtigung vorgenommen hat. Wurde die Forderung nur teilweise wertberichtigt, sind Zins- und Tilgungsbeträge nur insoweit abzuführen, als sie nicht zur Bedienung des werthaltigen Teils der Forderung dienen.
 
 (2) Abzuführen sind auch Zins- und Tilgungsbeträge im Sinne des Absatzes 1, die der Schuldner oder ein Dritter auf Darlehensforderungen geleistet hat, die das Geldinstitut wegen einer Rangrücktrittsvereinbarung gemäß § 13 Abs. 4 mit dem Schuldner nicht in seine D-Markeröffnungsbilanz aufgenommen hat.
 
-
-## § 43b – Abführungspflicht für wertberichtigte Schulden
+# § 43b – Abführungspflicht für wertberichtigte Schulden
 
 Ist eine in der D-Markeröffnungsbilanz berücksichtigte Verbindlichkeit oder Rückstellung nach dem 31. Dezember 1994 und vor dem 1. Januar 2030 ganz oder teilweise aufgelöst worden, weil die Schuld erloschen oder mit einer Inanspruchnahme nicht mehr zu rechnen ist, hat das Geldinstitut einen der Berichtigung entsprechenden Betrag an den Ausgleichsfonds Währungsumstellung abzuführen. Der Betrag ist vom 1. Juli 1990 an bis zu dem Tag der Abführung an den Ausgleichsfonds Währungsumstellung mit dem für Ausgleichsforderungen jeweils geltenden Zinssatz zu verzinsen.
 
-
-## § 43c – Fälligkeit
+# § 43c – Fälligkeit
 
 Eingehende Zins- und Tilgungsbeträge nach § 43a sind innerhalb von sechs Wochen vom Eingang der Zahlung an gerechnet an den Ausgleichsfonds Währungsumstellung zu zahlen. Abführungen nach § 43b sind innerhalb von sechs Wochen vom Zeitpunkt der Feststellung des Jahresabschlusses an gerechnet, in dem die Berichtigung vorgenommen wird, zu leisten.
 
-
-## § 43d – Prüfung der Abführung
+# § 43d – Prüfung der Abführung
 
 Die Einhaltung der Abführung ist von dem für die Prüfung des Jahresabschlusses bestellten Prüfer im Rahmen der Prüfung des Jahresabschlusses zu prüfen. Er hat hierauf im Prüfungsbericht nach § 321 des Handelsgesetzbuchs einzugehen.
 
-
-## § 43e – Außenhandelsbetriebe
+# § 43e – Außenhandelsbetriebe
 
 Die Vorschriften dieses Unterabschnitts sind auf Außenhandelsbetriebe entsprechend anzuwenden.
 
-
-## § 44 – Anwendungsbereich
+# § 44 – Anwendungsbereich
 
 (1) Versicherungsunternehmen haben die Vorschriften dieses Gesetzes zu beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist. Sie dürfen die in diesem Gesetz größenabhängig zugelassenen Erleichterungen nicht in Anspruch nehmen. Die §§ 37 und 38 des Versicherungsaufsichtsgesetzes sind nicht anzuwenden.
 
 (2) Versicherungsunternehmen sind Unternehmen, die den Betrieb von Versicherungsgeschäften zum Gegenstand haben und nicht Träger der Sozialversicherung sind. Dazu gehören auch Unternehmen, die nicht der Versicherungsaufsicht unterliegen oder keine eigene Rechtspersönlichkeit haben. Die Vorschriften über Versicherungsunternehmen sind auch auf Unternehmen anzuwenden, die keine Erlaubnis zum Geschäftsbetrieb als Versicherungsunternehmen haben oder die sich in Abwicklung befinden.
 
-
-## § 45 – Eröffnungsbilanz
+# § 45 – Eröffnungsbilanz
 
 (1) Versicherungsunternehmen haben abweichend von § 265 Abs. 6, 7, §§ 266 bis 268 des Handelsgesetzbuchs und unbeschadet einer weiteren Gliederung die Eröffnungsbilanz gemäß der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973, zuletzt geändert durch Verordnung vom 23. Dezember 1986 (BGBl. 1987 I S. 2), aufzustellen.
 
@@ -996,22 +942,19 @@ Die Vorschriften dieses Unterabschnitts sind auf Außenhandelsbetriebe entsprech
 
 (3) Versicherungsunternehmen haben im Anhang zusätzlich die in § 12 Nr. 3 der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973 vorgeschriebenen Angaben zu machen.
 
-
-## § 46 – Prüfung. Einreichung
+# § 46 – Prüfung. Einreichung
 
 (1) Versicherungsunternehmen können abweichend von § 34 Abs. 1 nur von einem Wirtschaftsprüfer oder einer Wirtschaftsprüfungsgesellschaft geprüft werden.
 
 (2) Die D-Markeröffnungsbilanz, der Anhang sowie die Schlußbilanz zum 30. Juni 1990 sind spätestens vor Ablauf des elften Monats nach dem Bilanzstichtag, die Konzerneröffnungsbilanz und der Konzernanhang spätestens vor Ablauf des siebzehnten Monats dem Bundesaufsichtsamt für das Versicherungswesen in zweifacher Ausfertigung einzureichen. Der Bericht des Prüfers über die Prüfung nach § 33 Abs. 1 Satz 1 ist spätestens vor Ablauf des zwölften Monats nach dem Bilanzstichtag, der Bericht über die Prüfung nach § 33 Abs. 3 Satz 1 spätestens vor Ablauf des neunzehnten Monats dem Bundesaufsichtsamt für das Versicherungswesen in zweifacher Ausfertigung einzureichen.
 
-
-## § 47 – Strafvorschriften
+# § 47 – Strafvorschriften
 
 (1) Die Strafvorschriften der §§ 331 bis 333 des Handelsgesetzbuchs sind auf die Eröffnungsbilanz, den Anhang, die Konzerneröffnungsbilanz, den Konzernanhang und die nach diesem Gesetz zu bestellenden Prüfer entsprechend anzuwenden. Satz 1 gilt auch für nicht in der Rechtsform einer Kapitalgesellschaft betriebene Unternehmen.
 
 (2) § 331 des Handelsgesetzbuchs ist darüber hinaus auch anzuwenden auf die Verletzung von Pflichten durch den Geschäftsleiter (§ 1 Abs. 2 Satz 1 des Gesetzes über das Kreditwesen) eines nicht in der Rechtsform einer Kapitalgesellschaft betriebenen Geldinstituts, durch den Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Geldinstituts oder durch den Geschäftsleiter im Sinne des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen.
 
-
-## § 48 – Bußgeldvorschriften
+# § 48 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Unternehmens oder als Geschäftsleiter im Sinne des § 1 Abs. 2 Satz 1 oder des § 53 Abs. 2 Nr. 1 des Gesetzes über das Kreditwesen oder als Inhaber eines in der Rechtsform des Einzelkaufmanns betriebenen Unternehmens
 
@@ -1049,13 +992,11 @@ zuwiderhandelt.
 
 (4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2 das Bundesamt für Justiz.
 
-
-## § 49 – Festsetzung von Ordnungsgeld
+# § 49 – Festsetzung von Ordnungsgeld
 
 Gegen Mitglieder des vertretungsberechtigten Organs, bei Einzelunternehmen gegen den Inhaber, die § 37 dieses Gesetzes in Verbindung mit § 325 des Handelsgesetzbuchs über die Pflicht zur Offenlegung der Eröffnungsbilanz oder des Anhangs oder der Konzerneröffnungsbilanz oder des Konzernanhangs nicht befolgen, ist wegen des pflichtwidrigen Unterlassens der Offenlegung vom Bundesamt für Justiz ein Ordnungsgeld nach § 335 des Handelsgesetzbuchs festzusetzen. § 335 Abs. 1 Satz 2 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
-
-## § 50 – Steuerliche Eröffnungsbilanz und Folgewirkungen
+# § 50 – Steuerliche Eröffnungsbilanz und Folgewirkungen
 
 (1) Steuerpflichtige, die Rechtsträger eines Unternehmens nach § 1 sind, haben die Vorschriften dieses Gesetzes auch für die steuerrechtliche Gewinnermittlung zu befolgen. Ein Steuerpflichtiger, der Rechtsträger eines Unternehmens ist, das nach § 1 Abs. 5 als zum 1. Juli 1990 entstanden angesehen wird, ist mit dem Unternehmen vom 1. Juli 1990 an für die Steuern vom Einkommen und Ertrag steuerpflichtig. Wird die Übertragung von Vermögensgegenständen oder Schulden nach § 4 Abs. 3 bereits in der Eröffnungsbilanz der betroffenen Unternehmen zum 1. Juli 1990 berücksichtigt, so gilt dies auch für die Steuerpflicht der Rechtsträger der betroffenen Unternehmen.
 
@@ -1067,27 +1008,23 @@ Gegen Mitglieder des vertretungsberechtigten Organs, bei Einzelunternehmen gegen
 
 (5) Auf Steuerpflichtige, die freiwillig Bücher führen und regelmäßig Abschlüsse machen, ist Absatz 1 bis 4 entsprechend anzuwenden.
 
-
-## § 51 – Umstellungsbedingte Vermögensänderungen
+# § 51 – Umstellungsbedingte Vermögensänderungen
 
 (1) Die aus der Eröffnungsbilanz und der Neufestsetzung nach § 26 Abs. 2 bis 4, §§ 27, 28, 30 sich ergebenden zahlenmäßigen Veränderungen im Vermögen der in § 50 Abs. 1 oder 5 bezeichneten Steuerpflichtigen sowie deren Gesellschafter oder Mitglieder wirken sich auf die Steuern vom Einkommen und Ertrag nicht aus. Dies gilt insbesondere für die Bildung von Rücklagen oder die Auflösung bisheriger Unterbewertungen, wenn die Erträge auf der Neubewertung von Vermögensgegenständen und Schulden beruhen, die spätestens am 1. Juli 1990 Betriebsvermögen gewesen sind oder auf das Unternehmen mit Wirkung vom 1. Juli 1990 übertragen worden sind, oder auf dem Erlaß von Schulden beruhen.
 
 (2) Die aus der Neufestsetzung sich ergebenden zahlenmäßigen Veränderungen im Vermögen der in § 1 bezeichneten Gesellschaften und deren Gesellschafter und im Vermögen der in § 1 bezeichneten Genossenschaften und deren Genossen unterliegen nicht den Steuern vom Kapitalverkehr.
 
-
-## § 52 – Steuerliche Ausgangswerte in anderen Fällen
+# § 52 – Steuerliche Ausgangswerte in anderen Fällen
 
 (1) Bei Steuerpflichtigen, die ihren Gewinn nach § 4 Abs. 3 des Einkommensteuergesetzes ermitteln, gelten als Anschaffungs- oder Herstellungskosten der Wirtschaftsgüter, die spätestens am 1. Juli 1990 Anlagevermögen gewesen sind oder auf den Steuerpflichtigen mit Wirkung vom 1. Juli 1990 übertragen worden sind, die Werte, die sich in entsprechender Anwendung der §§ 7 bis 11 und 18 ergeben. Wirtschaftsgüter nach Satz 1 sind unter Angabe ihres Werts zum 1. Juli 1990 in ein besonderes Verzeichnis (Anlageverzeichnis) aufzunehmen. Ergibt sich bis zum 31. Dezember 1994 einschließlich, daß sie zum 1. Juli 1990 nicht angesetzt werden durften oder zu Unrecht nicht oder wesentlich zu hoch oder zu niedrig angesetzt worden sind, so ist das Anlageverzeichnis insoweit zu berichtigen; sind bereits Steuerbescheide erlassen worden, so sind sie zu ändern, soweit die Berichtigung zu einem geänderten Gewinn oder Verlust führt.
 
 (2) Absatz 1 Satz 1 und 3 ist auf Steuerpflichtige mit Einkünften aus nichtselbständiger Arbeit, Kapitalvermögen, Vermietung und Verpachtung oder mit anderen Einkünften nach §§ 17 und 22 des Einkommensteuergesetzes entsprechend anzuwenden. Rückübertragungen nach dem Vermögensgesetz sind keine Anschaffungen. In diesen Fällen gelten als Anschaffungs- oder Herstellungskosten die Werte, die sich in entsprechender Anwendung des Absatzes 1 Satz 1 und 3 ergeben.
 
-
-## § 53 – Wirtschaftsjahre 1990 und steuerliche Schlußbilanz
+# § 53 – Wirtschaftsjahre 1990 und steuerliche Schlußbilanz
 
 Bei Steuerpflichtigen mit Einkünften nach § 2 Abs. 3 Nr. 1 bis 3 des Einkommensteuergesetzes sind Wirtschaftsjahre im Kalenderjahr 1990 die Zeiträume vom 1. Januar bis zum 30. Juni und vom 1. Juli bis zum 31. Dezember. In der steuerlichen Schlußbilanz zum 31. Dezember können Rückstellungen nach § 5 Abs. 4 des Einkommensteuergesetzes nicht und Pensionsrückstellungen nur unter den Voraussetzungen des § 54 gebildet werden.
 
-
-## § 54 – Pensionsrückstellungen
+# § 54 – Pensionsrückstellungen
 
 (1) Für eine Pensionsverpflichtung darf eine Rückstellung (Pensionsrückstellung) nur gebildet werden, wenn
 
@@ -1115,13 +1052,11 @@ Bei der Berechnung des Teilwerts der Pensionsverpflichtung sind ein Rechnungszin
 
 (5) Die Absätze 3 und 4 sind entsprechend anzuwenden, wenn der Pensionsberechtigte zu dem Pensionsverpflichteten in einem anderen Rechtsverhältnis als einem Dienstverhältnis steht.
 
-
-## § 55 – Einlagen
+# § 55 – Einlagen
 
 Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaftsgüter als Einlage zugeführt, die vor dem 1. Juli 1990 angeschafft oder hergestellt worden sind, so gilt der Betrag, den der Steuerpflichtige in einer Eröffnungsbilanz zum 1. Juli 1990 hätte ansetzen können, als Anschaffungs- oder Herstellungskosten.
 
-
-## § 56 – Gebühren
+# § 56 – Gebühren
 
 (1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die anläßlich der Feststellung der Eröffnungsbilanz und der Neufestsetzung der Kapitalverhältnisse nach diesem Gesetz entstehen, ermäßigen sich um fünfzig vom Hundert. Übersteigt die nach Satz 1 zu berechnende Gebühr für die Beurkundung von Versammlungsbeschlüssen zweitausend Deutsche Mark, so ermäßigt sich der zweitausend Deutsche Mark übersteigende Betrag um weitere fünfundzwanzig vom Hundert. Fließen die Gebühren dem Notar selbst zu, ermäßigen sich die Gebühren entsprechend § 144 Abs. 1 des Gesetzes über die Kosten in Angelegenheiten der Freiwilligen Gerichtsbarkeit (Kostenordnung) der Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 361-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 5 des Gesetzes vom 5. April 1990 (BGBl. I S. 701).
 
@@ -1133,15 +1068,13 @@ Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaft
 
 (5) Die Bestimmungen über die Mindestgebühr bleiben unberührt.
 
-
-## § 56a – Einfache Mehrheit
+# § 56a – Einfache Mehrheit
 
 (1) Für den Beschluß der Hauptversammlung oder der Gesellschafterversammlung von Kapitalgesellschaften über die Neufestsetzung des gezeichneten Kapitals und die Einziehung von Anteilen genügt die einfache Mehrheit des bei der Beschlußfassung vertretenen gezeichneten Kapitals ohne Rücksicht auf die Stimmenzahl. Eines Sonderbeschlusses der einzelnen Gattungen von Anteilen bedarf es nicht. Dies gilt auch dann, wenn die Satzung oder der Gesellschaftsvertrag etwas anderes bestimmen. Für eine zugleich mit der Neufestsetzung beschlossene Erhöhung des gezeichneten Kapitals gelten die für die Rechtsform maßgeblichen Vorschriften über die Kapitalerhöhung nur, wenn diese nicht aus vorhandenem Eigenkapital erfolgt.
 
 (2) Für den Beschluß der Mitgliederversammlung von Genossenschaften, durch den die Geschäftsguthaben, die Geschäftsanteile und die Haftsummen neu festgesetzt werden, genügt die einfache Mehrheit der abgegebenen Stimmen, auch wenn gesetzliche Vorschriften oder das Statut etwas anderes bestimmen. Wird mit der Neufestsetzung gleichzeitig eine Erhöhung der neu festgesetzten Geschäftsanteile beschlossen, so sind die Vorschriften des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften nur anzuwenden, wenn die Erhöhung nicht aus vorhandenem Eigenkapital erfolgt.
 
-
-## § 56b – Inhalt der Anmeldung. Prüfung durch das Gericht
+# § 56b – Inhalt der Anmeldung. Prüfung durch das Gericht
 
 (1) Bei der Anmeldung des Beschlusses über die Neufestsetzung sind die festgestellte Eröffnungsbilanz und der Bericht des Vorstands oder der Geschäftsführer zum Handelsregister des Sitzes der Kapitalgesellschaft einzureichen; dies gilt bei Genossenschaften entsprechend für die Anmeldung zum Genossenschaftsregister. Bei der Anmeldung haben der Vorstand oder die Geschäftsführer zu erklären, daß die Beschlüsse über die Feststellung der Eröffnungsbilanz und die Neufestsetzung nicht angefochten sind oder die Anfechtung rechtskräftig zurückgewiesen ist.
 
@@ -1155,15 +1088,13 @@ Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaft
 
 (6) Die Kapitalneufestsetzung ist bewirkt, sobald sie in das Handelsregister oder Genossenschaftsregister des Sitzes des Unternehmens eingetragen ist.
 
-
-## § 56c – Umtausch und Zusammenlegung von Anteilen
+# § 56c – Umtausch und Zusammenlegung von Anteilen
 
 (1) Die auf Mark der Deutschen Demokratischen Republik lautenden Aktien sind in Aktien, die auf Deutsche Mark lauten, umzutauschen oder abzustempeln. Müssen Aktien zusammengelegt werden, so ist auf den Umtausch und die Abstempelung § 226 des Aktiengesetzes entsprechend anzuwenden.
 
 (2) Bevor die Neufestsetzung in das Handelsregister oder in das Genossenschaftsregister eingetragen ist, dürfen die sich aus ihr ergebenden neuen Geschäftsanteile nicht gebildet werden. Werden im Falle der Verminderung der Zahl der Geschäftsanteile der Gesellschaft oder Genossenschaft Anteile nicht zur Verwertung für Rechnung der Beteiligten zur Verfügung gestellt, so sind die anstelle der bisherigen Geschäftsanteile zu bildenden neuen Geschäftsanteile für Rechnung der Beteiligten durch die Gesellschaft oder Genossenschaft im Wege der öffentlichen Versteigerung zu verkaufen. Der Erlös ist den Beteiligten nach Abzug der Kosten auszuzahlen oder, wenn ein Recht zur Hinterlegung besteht, zu hinterlegen.
 
-
-## § 56d – Überschuldung oder Verlust des halben gezeichneten Kapitals
+# § 56d – Überschuldung oder Verlust des halben gezeichneten Kapitals
 
 (1) Der Vorstand oder die Geschäftsführer sind bis zur Beschlußfassung über die Kapitalneufestsetzung durch das dafür zuständige Organ nicht verpflichtet, wegen einer bei Aufstellung der Eröffnungsbilanz sich ergebenden Überschuldung nach § 92 Abs. 2 Satz 2 des Aktiengesetzes, § 64 Abs. 1 Satz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung oder § 99 Abs. 1 Satz 2 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften die Eröffnung des Gesamtvollstreckungsverfahrens zu beantragen; dies gilt auch für Abwickler oder Liquidatoren. Während dieser Zeit sind der Vorstand und die Geschäftsführer auch von der Pflicht zur Einberufung einer Versammlung nach § 92 Abs. 1 des Aktiengesetzes oder § 49 Abs. 3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung wegen eines Verlustes des gezeichneten Kapitals, der sich bei der Aufstellung der Eröffnungsbilanz ergibt, befreit.
 
@@ -1171,15 +1102,13 @@ Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaft
 
 (3) Absatz 1 gilt auch für den Fall, daß bei einer Kapitalgesellschaft, deren Anteile der Treuhandanstalt gehören, die Überschuldung zu einem späteren Zeitpunkt, aber vor der Beschlußfassung über die Kapitalneufestsetzung oder danach auf Grund einer Berichtigung nach § 36 eintritt. Leitet die Treuhandanstalt die Liquidation einer Kapitalgesellschaft vor der Beschlußfassung über die Kapitalneufestsetzung ein, so ist Absatz 1 in Verbindung mit Satz 1 bis zum Abschluß der Liquidation anzuwenden.
 
-
-## § 56e – Kredite an Treuhandunternehmen
+# § 56e – Kredite an Treuhandunternehmen
 
 (1) Die §§ 32a und 32b des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung sind nicht anzuwenden auf Kredite gemäß Artikel 25 Abs. 7 des Einigungsvertrages und auf Kredite, welche die Treuhandanstalt der Gesellschaft gewährt oder für die sie eine Sicherung bestellt oder sich verbürgt hat. Dies gilt nicht für Kredite, welche die Treuhandanstalt der Gesellschaft nach einer Neufestsetzung der Kapitalverhältnisse gewährt oder für die sie nach diesem Zeitpunkt eine Sicherung bestellt oder sich verbürgt.
 
 (2) Absatz 1 ist auch anzuwenden, soweit ein Rechtsnachfolger nach § 23a Abs. 3 des Treuhandgesetzes in die Rechte und Pflichten der Treuhandanstalt in bezug auf den Kredit eintritt.
 
-
-## § 57 – Auflösung
+# § 57 – Auflösung
 
 (1) Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung, welche die Neufestsetzung ihrer Kapitalverhältnisse nach diesem Gesetz nicht bis zum 31. Dezember 1994 ordnungsgemäß zur Eintragung in das Handelsregister angemeldet haben, sind mit dem Ablauf dieses Tages aufgelöst. Ist der Beschluß über die Neufestsetzung vor dem 31. Dezember 1994 angefochten worden, so tritt an die Stelle des 31. Dezember 1994 der sechs Monate nach dem Tag der Rechtskraft der Entscheidung liegende Tag.
 
@@ -1189,19 +1118,16 @@ Werden einem Betrieb innerhalb von drei Jahren nach dem 30. Juni 1990 Wirtschaft
 
 (4) Absatz 1 Satz 1 ist entsprechend auf Erwerbs- und Wirtschaftsgenossenschaften anzuwenden, wenn die notwendigen Änderungen des Statuts nicht bis zum 31. Dezember 1992 ordnungsgemäß zur Eintragung in das Genossenschaftsregister angemeldet worden sind. Auf die Beschlüsse der Mitgliederversammlung ist das am 1. Juli 1990 geltende Statut der Genossenschaft mit den danach beschlossenen Änderungen anzuwenden.
 
-
-## § 58 – Geschäftsjahr
+# § 58 – Geschäftsjahr
 
 (1) Die Unternehmen haben ihr Geschäftsjahr neu festzusetzen. Das erste Geschäftsjahr kann abweichend von § 240 Abs. 2 Satz 2 des Handelsgesetzbuchs bis zu achtzehn Monate, bei Geldinstituten und Versicherungsunternehmen bis zu zwölf Monate umfassen. Der Beschluß über die Verlängerung des Geschäftsjahres kann nur bis zum Ablauf des 30. Juni 1991 gefaßt werden. Einer Änderung der Satzung oder des Gesellschaftsvertrages bedarf es nicht, wenn das Geschäftsjahr lediglich aufgrund dieser Vorschrift verlängert wird.
 
 (2) Unternehmen, die von Absatz 1 Gebrauch machen, müssen für den 31. Dezember 1990 einen Jahresabschluß nach den für sie maßgeblichen Vorschriften des Handelsrechts aufstellen. Eines Anhangs bedarf es nicht. Der Jahresabschluß braucht weder geprüft noch offengelegt zu werden.
 
-
-## § 59 – Ermächtigung
+# § 59 – Ermächtigung
 
 Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur Ausführung dieses Gesetzes über Form und Inhalt der nach den §§ 1, 21, 39 und 45 aufzustellenden Unterlagen, die Kapitalausstattung der Unternehmen sowie über die Durchführung der Prüfung, die Feststellung und Offenlegung dieser Unterlagen und des dabei einzuhaltenden Verfahrens zu erlassen, soweit diese Vorschriften erforderlich sind, um die Durchführung der Währungsumstellung im Sinne des Vertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion und der Zielsetzung dieses Gesetzes zu gewährleisten.
 
-
-## § 60 – Anwendung
+# § 60 – Anwendung
 
 Dieses Gesetz ist mit Wirkung vom 1. Juli 1990 im gesamten Bundesgebiet anzuwenden, die Bestimmungen des Abschnitts 7 jedoch erst vom 29. März 1991 an. Für das in Artikel 3 des Einigungsvertrages genannte Gebiet sind die Bestimmungen des Abschnitts 7 mit Ausnahme des § 48 Abs. 1 Nr. 4 mit Wirkung vom 29. September 1990 anzuwenden.

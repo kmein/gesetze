@@ -1,10 +1,7 @@
-# [MilchErzV] Verordnung über Milcherzeugnisse  (Milcherzeugnisverordnung - MilchErzV)
-
-Ausfertigungsdatum: 15.07.1970
-
+% Verordnung über Milcherzeugnisse  (Milcherzeugnisverordnung - MilchErzV)
+% Ausfertigungsdatum: 15.07.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Mit Zustimmung des Bundesrates verordnen  
 auf Grund der §§ 37 und 52 Abs. 1 Satz 1 des Milchgesetzes vom 31. Juli 1930 (Reichsgesetzbl. I S. 421), zuletzt geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes der Bundesminister für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesminister für Jugend, Familie und Gesundheit nach Anhörung eines Sachverständigenbeirates,  
@@ -12,8 +9,7 @@ hinsichtlich des § 1 Abs. 1, § 2 Abs. 1 und § 8 auch auf Grund des § 5 Nr. 4
 und  
 hinsichtlich des § 5 auf Grund des § 5a Abs. 1 Nr. 1, 2 und 6, Abs. 2 und 3 des Lebensmittelgesetzes der Bundesminister für Jugend, Familie und Gesundheit im Einvernehmen mit dem Bundesminister für Ernährung, Landwirtschaft und Forsten und dem Bundesminister für Wirtschaft:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Milcherzeugnisse im Sinne dieser Verordnung sind die in der Anlage 1 bezeichneten Erzeugnisse, soweit sie zur Verwendung als Lebensmittel bestimmt sind.
 
@@ -21,15 +17,13 @@ hinsichtlich des § 5 auf Grund des § 5a Abs. 1 Nr. 1, 2 und 6, Abs. 2 und 3 de
 
 (3) Die Vorschriften der Verordnung über diätetische Lebensmittel vom 20. Juni 1963 (Bundesgesetzbl. I S. 415) in der jeweiligen Fassung bleiben unberührt.
 
-
-## § 1a – Begriffsbestimmungen
+# § 1a – Begriffsbestimmungen
 
 (1) Milchretentat im Sinne dieser Verordnung ist das Erzeugnis, das durch Konzentrieren von Milcheiweiß mit Hilfe der Ultrafiltration von Milch, teilentrahmter Milch oder Magermilch gewonnen wird.
 
 (2) Milchpermeat im Sinne dieser Verordnung ist das Erzeugnis, das durch Entzug von Milcheiweißen und Milchfett aus Milch, teilentrahmter Milch oder Magermilch mit Hilfe der Ultrafiltration entsteht.
 
-
-## § 2 – Anforderungen an die Herstellung und Verpackung
+# § 2 – Anforderungen an die Herstellung und Verpackung
 
 (1) Ungezuckerte Kondensmilch der Gruppe VII der Anlage 1 darf nur in den Verkehr gebracht werden, wenn sie nach einem Verfahren wärmebehandelt worden ist, das den Anforderungen des Anhangs III Abschnitt IX Kapitel II Teil II der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. EU Nr. L 139 S. 55, Nr. L 226 S. 22), zuletzt geändert durch die Verordnung (EG) Nr. 1662/2006 der Kommission vom 6. November 2006 (ABl. EU Nr. L 320 S. 1), entspricht.
 
@@ -59,13 +53,11 @@ Beigegebene Lebensmittel im Sinne von Spalte 1 Buchstabe b der Gruppen XIV und X
 
 (5) Zur Abgabe im Einzelhandel bestimmte ungezuckerte Kondensmilcherzeugnisse, gezuckerte Kondensmilcherzeugnisse und Trockenmilcherzeugnisse dürfen nur in Behältnissen in den Verkehr gebracht werden, die fest verschlossen sind und die Erzeugnisse vor nachteiliger Beeinflussung schützen.
 
-
-## § 2a – (weggefallen)
+# § 2a – (weggefallen)
 
 \-
 
-
-## § 3 – Allgemeine Kennzeichnungsvorschriften
+# § 3 – Allgemeine Kennzeichnungsvorschriften
 
 (1) Milcherzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichnungsverordnung sowie § 9 der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
 
@@ -115,8 +107,7 @@ b) bei Milcherzeugnissen, die nicht wärmebehandelt wurden, ist eine Wärmebehan
 
 Dies gilt nicht für Milcherzeugnisse, die unverpackt zum unmittelbaren Verzehr an Ort und Stelle abgegeben werden.
 
-
-## § 4 – Besondere Kennzeichnungsvorschriften
+# § 4 – Besondere Kennzeichnungsvorschriften
 
 (1) Die Kennzeichnung muß ferner enthalten
 
@@ -146,8 +137,7 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 (2) Wird bei einem Milcherzeugnis im Sinne der Anlage 1 der Laktosegehalt verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose nur erfolgen, soweit der Laktosegehalt nach Maßgabe der nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches in seiner jeweils geltenden Fassung für die Feststellung von Laktose veröffentlichten Prüfungsmethode unter 0,1 Gramm je 100 Gramm des Fertigerzeugnisses liegt und die Kennzeichnung die Angabe „Laktosegehalt: unter 0,1 g/100 g“ oder eine inhaltsgleiche Angabe enthält.
 
-
-## § 5 – Zulassung von Zusatzstoffen
+# § 5 – Zulassung von Zusatzstoffen
 
 (1) Als Zusatz beim Herstellen von Milcherzeugnissen werden die in Anlage 2 aufgeführten Zusatzstoffe für die dort bezeichneten Verwendungszwecke zugelassen. Der Gehalt an den Zusatzstoffen darf die in der Anlage 2 angegebenen Höchstmengen nicht überschreiten.
 
@@ -159,27 +149,23 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 (4) Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden.
 
-
-## § 5a
+# § 5a
 
 \-
 
-
-## § 5b – Analysenmethoden
+# § 5b – Analysenmethoden
 
 (1) Bei den in Anlage 3 genannten Milcherzeugnissen sind die Bestimmungen, die zur Überprüfung der dort angegebenen Merkmale erforderlich sind, nach den dort vorgesehenen Methoden durchzuführen.
 
 (2) Sofern in Anlage 3 für eine einzelne Bestimmung Methoden wahlweise vorgesehen sind, ist die angewandte Methode in dem Prüfbericht anzugeben.
 
-
-## § 6 – Ausländische Erzeugnisse
+# § 6 – Ausländische Erzeugnisse
 
 (1) Außerhalb des Geltungsbereichs dieser Verordnung hergestellte Milcherzeugnisse (ausländische Milcherzeugnisse), die nicht den Vorschriften dieser Verordnung entsprechen, dürfen vorbehaltlich des Absatzes 2 in den Verkehr gebracht werden, wenn sie nach den Rechtsvorschriften des Herstellungslandes hergestellt und dort verkehrsfähig sind.
 
 (2) Ausländische Milcherzeugnisse, die in wesentlichen charakteristischen Merkmalen, insbesondere hinsichtlich des Fettgehaltes und der Verwendung von Ausgangsstoffen, von inländischen Erzeugnissen abweichen, dürfen nur in den Verkehr gebracht werden, wenn zusätzlich zu der Kennzeichnung nach den §§ 3 und 4 die Beschreibung der Abweichung auf der Fertigpackung oder dem Hinweisschild in Verbindung mit der Verkehrsbezeichnung deutlich lesbar angegeben ist. Satz 1 gilt bei Milcherzeugnissen, die in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum rechtmäßig hergestellt oder rechtmäßig in den Verkehr gebracht werden oder die aus einem Drittland stammen und sich in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum rechtmäßig im Verkehr befinden, nicht, es sei denn, daß trotz einer Angabe im Zutatenverzeichnis eine Irreführung des Verbrauchers nicht ausgeschlossen werden kann.
 
-
-## § 7 – Straftaten und Ordnungswidrigkeiten
+# § 7 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 2 Abs. 1 ungezuckerte Kondensmilch in den Verkehr bringt.
 
@@ -199,13 +185,11 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 2. entgegen § 3 Abs. 1 in Verbindung mit Absatz 2 Nummer 6, Abs. 5 Satz 1 oder 3 oder Abs. 7 Satz 1 Nr. 2 Milcherzeugnisse, die nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet sind, in den Verkehr bringt.
 
-
-## § 7a – Besondere Zubereitungen
+# § 7a – Besondere Zubereitungen
 
 § 2 Abs. 2, § 3 Abs. 3 und § 4 Abs. 1 gelten nicht für Zubereitungen aus Sauermilch-, Joghurt- und Kefirerzeugnissen, die in Griechenland unter Verwendung von Öl und sonstigen typischen Zusätzen, insbesondere Gurken, hergestellt werden oder solchen griechischen Erzeugnissen nach Herstellungsweise und Zusammensetzung entsprechen.
 
-
-## § 7b – Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
+# § 7b – Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
 
 (1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen entgegenstehen aus
 
@@ -217,13 +201,11 @@ d) den in unmittelbarem Zusammenhang mit der Verkehrsbezeichnung stehenden Hinwe
 
 (3) Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1970, 1154 - 1159;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1182,13 +1164,11 @@ a) Milchfetterzeugnis
 
 b) hergestellt aus Milch, Sahne durch Abtrennen von Buttermilch und/oder Butter durch Abtrennen von Wasser und Einstellen der fettfreien Trockenmasse, flüssig oder teilkristallisiert, auch unter Verwendung von Inertgas, auch durch Auftrennen in unterschiedliche Erweichungs- und Erstarrungsbereiche, Fettgehalt mehr als 90%
 
-
-## Anlage 1a – (weggefallen)
+# Anlage 1a – (weggefallen)
 
 \- Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv 15.8.2007
 
-
-## Anlage 2 – (zu § 5 Abs. 1)  Zugelassene Zusatzstoffe
+# Anlage 2 – (zu § 5 Abs. 1)  Zugelassene Zusatzstoffe
 
 1. Die in § 1a Abs. 1 der Verordnung über vitaminisierte Lebensmittel genannten Zusatzstoffe zur Vitaminisierung von Trockenmilcherzeugnissen, Milchmischerzeugnissen und Molkenmischerzeugnissen.
 
@@ -1202,14 +1182,12 @@ bis zu insgesamt 5 Milligramm auf ein Kilogramm, berechnet als Retinol (Vitamin 
   
 bis zu insgesamt 12,5 Mikrogramm auf ein Kilogramm, berechnet als Calciferol.
 
-
-## Anlage 3 – (zu § 5b Abs. 1)Analysenmethoden
+# Anlage 3 – (zu § 5b Abs. 1)Analysenmethoden
 
 (Fundstelle: BGBl. I 1987, 2452 u. 2453  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Die anzuwendende Methode ist aus der nachstehenden Aufstellung zu ersehen. Die Beschreibung der Analysenmethoden ergibt sich aus der Amtlichen Sammlung von Verfahren zur Probenahme und Untersuchung nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches \*1) unter der angegebenen Gliederungsnummer.  
-
+Die anzuwendende Methode ist aus der nachstehenden Aufstellung zu ersehen. Die Beschreibung der Analysenmethoden ergibt sich aus der Amtlichen Sammlung von Verfahren zur Probenahme und Untersuchung nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches \*1) unter der angegebenen Gliederungsnummer. 
 Milcherzeugnis
 
 Merkmal

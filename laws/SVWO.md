@@ -1,15 +1,11 @@
-# [SVWO] Wahlordnung für die Sozialversicherung  (SVWO)
-
-Ausfertigungsdatum: 28.07.1997
-
+% Wahlordnung für die Sozialversicherung  (SVWO)
+% Ausfertigungsdatum: 28.07.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 56 des Vierten Buches Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel 1 des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845), der durch Artikel 1 des Gesetzes vom 29. April 1997 (BGBl. I S. 968) geändert worden ist, verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -1033,8 +1029,7 @@ Anlage 13
 
 Zustimmungserklärung von Bewerberinnen und Bewerbern für die Wahl eines – ehrenamtlichen – Vorstandes
 
-
-## § 1 – Wahlorgane
+# § 1 – Wahlorgane
 
 Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch sind
 
@@ -1046,8 +1041,7 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 4. die Briefwahlleitungen (Wahlleitungen).
 
-
-## § 2 – Wahlbeauftragte
+# § 2 – Wahlbeauftragte
 
 (1) Die Wahlbeauftragten und ihre Stellvertreter werden jeweils mit Wirkung vom 1. Oktober des zweiten Jahres vor dem Jahr bestellt, in dem allgemeine Wahlen (§ 45 Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch) stattfinden. Mit Ablauf des vorhergehenden Tages endet die Amtsdauer der früher bestellten Wahlbeauftragten und ihrer Stellvertreter.
 
@@ -1055,8 +1049,7 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 (3) Die Wahlbeauftragten treffen im Rahmen der ihnen nach dem Vierten Buch Sozialgesetzbuch zustehenden Befugnisse alle Maßnahmen, die zur Vorbereitung und Durchführung der während ihrer Amtsdauer stattfindenden Wahlen erforderlich sind. Insbesondere erläßt der Bundeswahlbeauftragte Richtlinien, die die einheitliche Durchführung der allgemeinen Wahlen sicherstellen; er kann die Verwendung einheitlicher Merkblätter empfehlen. Im Einzelfalle können die Wahlbeauftragten Regelungen zur Anpassung an besondere Verhältnisse treffen.
 
-
-## § 3 – Wahlausschüsse
+# § 3 – Wahlausschüsse
 
 (1) Der Vorstand eines Versicherungsträgers bestellt spätestens mit Wirkung vom 1. Februar des dem Wahljahr vorhergehenden Jahres einen Wahlausschuß. Mit Ablauf des vorhergehenden Tages endet die Amtsdauer eines früher bestellten Wahlausschusses. Haben Bezirksverwaltungen oder Landesgeschäftsstellen eigene Selbstverwaltungsorgane, bestellen auch diese einen Wahlausschuß. Ist bei einem Versicherungsträger kein Vorstand vorhanden, bestellt die Aufsichtsbehörde den Wahlausschuß.
 
@@ -1078,8 +1071,7 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 (10) Der Wahlausschuß kann Bedienstete des Versicherungsträgers für die Durchführung seiner Aufgaben in Anspruch nehmen; zu seinen Sitzungen kann er sie als Schriftführer heranziehen.
 
-
-## § 4 – Beschwerdewahlausschüsse
+# § 4 – Beschwerdewahlausschüsse
 
 (1) Das Bundesministerium für Arbeit und Soziales bestellt am Sitz des Bundeswahlbeauftragten für die Sozialversicherungswahlen einen Bundeswahlausschuß und bestimmt die Stelle, die dessen Geschäfte führt. Die oberste Verwaltungsbehörde jedes Landes bestellt am Sitz des Landeswahlbeauftragten für die Sozialversicherungswahlen einen Landeswahlausschuß und bestimmt die Stelle, die dessen Geschäfte führt. Die obersten Verwaltungsbehörden mehrerer Länder können einen gemeinsamen Landeswahlausschuß bestellen; sie bestimmen in diesem Falle auch gemeinsam die Stelle, die dessen Geschäfte führt.
 
@@ -1093,8 +1085,7 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 (6) Für das Verfahren der Beschwerdewahlausschüsse gelten im übrigen die Regelungen für die Wahlausschüsse entsprechend. Dem in der Sitzung anwesenden Wahlbeauftragten oder dessen Beauftragten ist Gelegenheit zur Äußerung zu geben.
 
-
-## § 5 – Wahlleitungen
+# § 5 – Wahlleitungen
 
 (1) Der Wahlausschuß bestellt Briefwahlleitungen oder nimmt deren Aufgaben selbst wahr. Nimmt er die Aufgaben der Briefwahlleitungen selbst wahr, sind seine Mitglieder insoweit Mitglieder von Briefwahlleitungen; soweit erforderlich sind weitere Mitglieder zu bestellen.
 
@@ -1112,22 +1103,19 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 (8) (weggefallen)
 
-
-## § 6 – Entschädigung der Wahlbeauftragten
+# § 6 – Entschädigung der Wahlbeauftragten
 
 (1) Der Bundeswahlbeauftragte und sein Stellvertreter erhalten Reisekostenvergütung nach dem Bundesreisekostengesetz und eine Aufwandsentschädigung, über deren Höhe das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen entscheidet.
 
 (2) Die Entschädigung der Landeswahlbeauftragten und ihrer Stellvertreter regeln die obersten Verwaltungsbehörden der Länder.
 
-
-## § 7 – Entschädigung der Mitglieder der Wahlausschüsse
+# § 7 – Entschädigung der Mitglieder der Wahlausschüsse
 
 (1) Die Mitglieder der Wahlausschüsse werden wie die Mitglieder der Selbstverwaltungsorgane des Versicherungsträgers entschädigt, für den sie tätig sind.
 
 (2) Wird ein Wahlausschuß von der Aufsichtsbehörde bestellt, regelt diese die Entschädigung der Mitglieder.
 
-
-## § 8 – Entschädigung der Mitglieder der Beschwerdewahlausschüsse
+# § 8 – Entschädigung der Mitglieder der Beschwerdewahlausschüsse
 
 (1) Der Vorsitzende des Bundeswahlausschusses und sein Stellvertreter erhalten Reisekostenvergütung nach dem Bundesreisekostengesetz und einen Pauschbetrag für Zeitaufwand.
 
@@ -1139,8 +1127,7 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 (5) Die Entschädigung der Mitglieder der Landeswahlausschüsse regeln die obersten Verwaltungsbehörden der Länder.
 
-
-## § 9 – Entschädigung der Mitglieder der Wahlleitungen und anderer Wahlhelfer
+# § 9 – Entschädigung der Mitglieder der Wahlleitungen und anderer Wahlhelfer
 
 (1) Den Mitgliedern der Wahlleitungen werden in entsprechender Anwendung des § 41 Abs. 2 des Vierten Buches Sozialgesetzbuch der entgangene Bruttoverdienst ersetzt und die den Arbeitnehmeranteil übersteigenden Beiträge zur gesetzlichen Rentenversicherung erstattet.
 
@@ -1152,13 +1139,11 @@ Wahlorgane im Sinne des § 53 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch 
 
 (5) Der Antrag auf Zahlung der Entschädigung ist innerhalb eines Monats nach dem Wahltag beim Versicherungsträger zu stellen. Den Mitgliedern der Wahlleitungen ist bei ihrer Bestellung ein Antragsvordruck auszuhändigen; sie sind auf die Antragsfrist hinzuweisen.
 
-
-## § 10 – Wahltag, Wahlankündigung
+# § 10 – Wahltag, Wahlankündigung
 
 Der Bundeswahlbeauftragte soll spätestens einen Monat vor Ablauf der Frist des § 48c Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch durch öffentliche Bekanntmachung unter Bestimmung des Wahltages für die Wahl der Vertreterversammlungen und der Verwaltungsräte (§ 54 Abs. 3 des Vierten Buches Sozialgesetzbuch) auf die nächsten allgemeinen Sozialversicherungswahlen und auf die Fristen für Anträge nach den §§ 48b und 48c des Vierten Buches Sozialgesetzbuch hinweisen. Er soll außerdem den Inhalt der Bekanntmachung der Presse mitteilen. Wahltag soll ein Mittwoch in dem Zeitraum vom 15. Mai bis zum 15. Juni sein.
 
-
-## § 11 – Verfahren zur vorgezogenen Feststellung der Vorschlagsberechtigung
+# § 11 – Verfahren zur vorgezogenen Feststellung der Vorschlagsberechtigung
 
 (1) In dem Antrag auf Feststellung der Vorschlagsberechtigung nach § 48b Abs. 1 Satz 2 des Vierten Buches Sozialgesetzbuch sind dem Wahlausschuß die Tatsachen anzugeben, aus denen sich die Vorschlagsberechtigung der Vereinigung ergibt. Der Antragsteller hat insbesondere
 
@@ -1200,13 +1185,11 @@ anzugeben.
 
 unter Beifügung einer Rechtsbehelfsbelehrung unverzüglich schriftlich mit. Die Beschwerdefrist beginnt mit der öffentlichen Bekanntmachung; bei den Personen und Vereinigungen, denen die Entscheidung schriftlich bekanntzugeben ist, beginnt die Beschwerdefrist mit der schriftlichen Bekanntgabe, wenn dieser Zeitpunkt später liegt als die öffentliche Bekanntmachung.
 
-
-## § 12 – Verfahren zur Feststellung der allgemeinen Vorschlagsberechtigung
+# § 12 – Verfahren zur Feststellung der allgemeinen Vorschlagsberechtigung
 
 Den Antrag auf Feststellung der allgemeinen Vorschlagsberechtigung nach § 48c des Vierten Buches Sozialgesetzbuch sollen nur Arbeitnehmervereinigungen stellen, deren Vorschlagsberechtigung bei allen Versicherungsträgern offenkundig ist. Der Antragsteller hat dem Bundeswahlbeauftragten mindestens fünf Versicherungsträger zu benennen, bei denen er oder an seiner Stelle der Verband, dem er angehört, Vorschlagslisten einreichen möchte. Dem Antrag ist die Satzung der Vereinigung beizufügen; ferner ist die Zahl der Mitglieder anzugeben. Der Bundeswahlbeauftragte ist berechtigt, von dem Antragsteller Angaben entsprechend § 11 Abs. 1 zu verlangen.
 
-
-## § 13 – Beschwerde im Feststellungsverfahren
+# § 13 – Beschwerde im Feststellungsverfahren
 
 (1) Beschwerden nach § 48b Abs. 3 des Vierten Buches Sozialgesetzbuch sind, wenn sie sich gegen die Entscheidung des Wahlausschusses eines bundesunmittelbaren Versicherungsträgers richten, beim Bundeswahlausschuß, im übrigen beim zuständigen Landeswahlausschuß schriftlich oder per Telefax einzulegen und zu begründen. Der Beschwerdeführer soll dem zuständigen Wahlbeauftragten und dem zuständigen Wahlausschuß eine Abschrift der Beschwerde und ihrer Begründung übersenden. Der Wahlausschuß legt dem Beschwerdewahlausschuß die Akten unverzüglich vor.
 
@@ -1214,8 +1197,7 @@ Den Antrag auf Feststellung der allgemeinen Vorschlagsberechtigung nach § 48c d
 
 (3) Zu der Sitzung des Beschwerdewahlausschusses lädt der Vorsitzende als Beteiligte den Beschwerdeführer, den Antragsteller und den Vorsitzenden des Wahlausschusses; er teilt dem zuständigen Wahlbeauftragten den Termin der Sitzung mit. Für das Verfahren gelten § 11 Abs. 3 und § 25 Abs. 2 Satz 2 bis 4, Abs. 3 und 4 entsprechend.
 
-
-## § 14 – Wahlausschreibung
+# § 14 – Wahlausschreibung
 
 (1) Der Bundeswahlbeauftragte weist spätestens am 1. April des Kalenderjahres vor dem Kalenderjahr des Wahltages durch öffentliche Bekanntmachung erneut auf die nächsten allgemeinen Sozialversicherungswahlen hin und fordert gleichzeitig auf, Vorschlagslisten für die Wahl zu den Vertreterversammlungen und den Verwaltungsräten (§ 46 Abs. 1 des Vierten Buches Sozialgesetzbuch) bis zum 195. Tag vor dem Wahltag, 18.00 Uhr, einzureichen (Wahlausschreibung nach § 51 Abs. 1 des Vierten Buches Sozialgesetzbuch).
 
@@ -1285,8 +1267,7 @@ bezeichnen.
 
 (4) (weggefallen)
 
-
-## § 15 – Vorschlagslisten und Niederschriften
+# § 15 – Vorschlagslisten und Niederschriften
 
 (1) Die Vorschlagslisten für die Wahlen der Vertreterversammlungen sind auf Vordrucken nach dem Muster der Anlage 1 und für die Wahlen der Verwaltungsräte nach dem Muster der Anlage 2 einzureichen. Muß die Vorschlagsliste nach § 48 Abs. 2 des Vierten Buches Sozialgesetzbuch von einer bestimmten Anzahl von Personen unterzeichnet sein (Unterstützerliste), sind diese Unterschriften in der Rentenversicherung und in der Krankenversicherung nach dem Muster der Anlage 3 und in der Unfallversicherung nach dem Muster der Anlage 4 beizubringen. Die Vordrucke müssen in Maschinenschrift oder in anderer gut leserlicher Schrift ausgefüllt sein. Unterschriften sind eigenhändig zu vollziehen. Werden Vorschlagslisten oder Zustimmungserklärungen zur Wahrung der Einreichungsfrist elektronisch übersandt, gilt die Frist als gewahrt, wenn spätestens bis zum Ablauf der Mängelbeseitigungsfrist dem Wahlausschuß die Originale vorliegen.
 
@@ -1314,8 +1295,7 @@ Weiterhin muss die Niederschrift die nach § 48 Absatz 10 Satz 3 des Vierten Buc
 
 (6) Der Versicherungsträger legt am Tag nach Ablauf der Mängelbeseitigungsfrist bis zum Ablauf des Wahltages die Abschriften der Vorschlagslisten und der Niederschriften in seinen Geschäftsstellen öffentlich aus. Sie können zusätzlich im Internet veröffentlicht werden. § 88 Absatz 2 Satz 2 und 4 erste Alternative gilt entsprechend. In den Abschriften der Vorschlagslisten sind Familienname, Vorname, Geburtsjahr und Wohnort anzugeben.
 
-
-## § 16 – Listenvertreter
+# § 16 – Listenvertreter
 
 (1) In den Vorschlagslisten von Personenvereinigungen und Verbänden sind ein Listenvertreter und sein Stellvertreter zu benennen. Scheidet der Listenvertreter oder sein Stellvertreter vor der Bekanntmachung des endgültigen Wahlergebnisses (§ 79) aus, benennt der Listenträger (§ 60 Abs. 1 des Vierten Buches Sozialgesetzbuch) dem Wahlausschuß unverzüglich einen Nachfolger.
 
@@ -1323,8 +1303,7 @@ Weiterhin muss die Niederschrift die nach § 48 Absatz 10 Satz 3 des Vierten Buc
 
 (3) Unbeschadet des Absatzes 1 Satz 2 und des Absatzes 2 Satz 2 können der Listenvertreter und sein Stellvertreter jederzeit durch Erklärung gegenüber dem Wahlausschuß durch andere Personen ersetzt werden. Die Erklärung muß bei Personenvereinigungen und Verbänden von vertretungsberechtigten Personen, bei freien Listen von mehr als der Hälfte der Unterzeichner unterschrieben sein.
 
-
-## § 17 – Stellung des Listenvertreters
+# § 17 – Stellung des Listenvertreters
 
 (1) Der Listenvertreter übt die Befugnisse aus, die ihm nach § 60 des Vierten Buches Sozialgesetzbuch und nach dieser Verordnung zustehen. Er ist insbesondere berechtigt, dem Wahlausschuß gegenüber alle Erklärungen abzugeben, die die Vorbereitung und Durchführung der Wahl betreffen und solche Erklärungen von dem Wahlausschuß entgegenzunehmen. Für Vorschlagslisten, die nicht von einer Organisation im Sinne des § 48 Abs. 1 Nr. 1 bis 3 des Vierten Buches Sozialgesetzbuch eingereicht worden sind, nimmt er die Aufgaben des Listenträgers nach § 60 des Vierten Buches Sozialgesetzbuch wahr. Vorschriften, nach denen ein Zusammenwirken des Listenvertreters und seines Stellvertreters oder mehrerer Listenvertreter erforderlich ist, bleiben unberührt. Der Listenträger kann in der Vorschlagsliste festlegen, daß der Listenvertreter und dessen Stellvertreter alle Erklärungen nur gemeinsam abgeben können.
 
@@ -1334,8 +1313,7 @@ Weiterhin muss die Niederschrift die nach § 48 Absatz 10 Satz 3 des Vierten Buc
 
 (4) Ist der Listenvertreter verhindert oder ausgeschieden, übt sein Stellvertreter die dem Listenvertreter zustehenden Befugnisse aus; von ihm abgegebene Erklärungen sind wirksam, auch wenn in dem Zeitpunkt, in dem sie dem Wahlausschuß zugehen, die Verhinderung des Listenvertreters nicht mehr besteht oder ein neuer Listenvertreter benannt ist.
 
-
-## § 18 – Listenänderung und Listenergänzung
+# § 18 – Listenänderung und Listenergänzung
 
 (1) Soll die Aufstellung der Bewerber in einer Vorschlagsliste vor Ablauf der Einreichungsfrist geändert oder ergänzt werden, muß die Vorschlagsliste, soweit sich aus den Absätzen 2 und 3 nichts anderes ergibt, zurückgenommen und form- und fristgerecht neu eingereicht werden. Die Vorschriften über Listenzusammenlegung und Listenverbindung bleiben unberührt.
 
@@ -1347,27 +1325,23 @@ Weiterhin muss die Niederschrift die nach § 48 Absatz 10 Satz 3 des Vierten Buc
 
 (5) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten sowie Änderungen der Anschrift können auf Antrag des Listenvertreters oder vom Wahlausschuß von Amts wegen jederzeit berichtigt werden, soweit dies technisch möglich ist. Absatz 3 Satz 4 findet Anwendung.
 
-
-## § 19 – Zurücknahme von Vorschlagslisten
+# § 19 – Zurücknahme von Vorschlagslisten
 
 (1) Eine Vorschlagsliste kann durch gemeinsame Erklärung des Listenvertreters und seines Stellvertreters zurückgenommen werden, solange der Wahlausschuß nicht über ihre Zulassung entschieden hat.
 
 (2) Mit Zustimmung des zuständigen Wahlbeauftragten kann eine Vorschlagsliste auch nach dem in Absatz 1 bezeichneten Zeitpunkt zurückgenommen werden.
 
-
-## § 20 – Listenzusammenlegung
+# § 20 – Listenzusammenlegung
 
 (1) Die Listenvertreter können die Erklärung, daß ihre Vorschlagslisten zusammengelegt werden sollen (§ 48 Abs. 7 des Vierten Buches Sozialgesetzbuch), nur übereinstimmend abgeben. Die Erklärung muß innerhalb der Einreichungsfrist bei der Stelle eingehen, bei der die Vorschlagslisten einzureichen sind. Der Wahlausschuss hat auf Anfrage einer vorschlagsberechtigten Organisation bis zum Ende der Einreichungsfrist zum Zweck der Listenzusammenlegung jederzeit den Kontakt zu den anderen bei ihm eingereichten Vorschlagslisten zu ermöglichen.
 
 (2) Aus der Erklärung über die Zusammenlegung der Vorschlagslisten müssen das Kennwort der einheitlichen Vorschlagsliste, die Namen ihres Listenvertreters und seines Stellvertreters sowie die Reihenfolge der Bewerber ersichtlich sein. Die Vorschlagsliste in der Fassung, die sich durch die Zusammenlegung ergibt, ist beizufügen oder innerhalb einer Frist einzureichen, die der Wahlausschuß bestimmt. An die Stelle der in § 15 Abs. 3 geforderten Unterschriften treten die Unterschriften der beteiligten Listenvertreter.
 
-
-## § 21 – Listenverbindung
+# § 21 – Listenverbindung
 
 Die Listenvertreter können die Erklärung, daß ihre Vorschlagslisten verbunden werden sollen (§ 48 Abs. 7 des Vierten Buches Sozialgesetzbuch), nur übereinstimmend abgeben. Die Erklärung muß spätestens in der Sitzung des Wahlausschusses abgegeben werden, in der über die Zulassung der Vorschlagslisten entschieden wird; § 24 Abs. 1 Satz 3 bleibt unberührt.
 
-
-## § 22 – Vorläufige Prüfung der Vorschlagslisten
+# § 22 – Vorläufige Prüfung der Vorschlagslisten
 
 (1) Der Vorsitzende des Wahlausschusses vermerkt auf den Vorschlagslisten den Tag des Eingangs und bezeichnet sie in der Reihenfolge ihres Eingangs mit Ordnungsnummern. Gehen mehrere Vorschlagslisten am selben Tag ein, entscheidet über die Ordnungsnummer, die eine Liste erhält, das Los; Vorschlagslisten, die bis zum 225. Tag vor dem Wahltag eingereicht werden, gelten als an diesem Tage eingegangen. Die Lose werden von den Listenvertretern in Gegenwart des Vorsitzenden des Wahlausschusses gezogen; für nicht erschienene Listenvertreter zieht der Vorsitzende des Wahlausschusses das Los.
 
@@ -1391,8 +1365,7 @@ wird der Name des Bewerbers oder Wahlberechtigten in sämtlichen Vorschlagsliste
 
 (7) Die Mitteilungen nach den Absätzen 3 bis 6 sind dem Listenvertreter zuzustellen oder gegen persönliche Empfangsbestätigung auszuhändigen.
 
-
-## § 23 – Zulassung der Vorschlagslisten
+# § 23 – Zulassung der Vorschlagslisten
 
 (1) Der Wahlausschuß entscheidet bis zum 142. Tag vor dem Wahltag in einer Sitzung über die Zulassung sämtlicher Vorschlagslisten, Listenzusammenlegungen und Listenverbindungen sowie über die Reihenfolge, in der die zugelassenen Listen auf dem Stimmzettel aufgeführt werden (§ 41 Abs. 2). Zu dieser Sitzung lädt der Vorsitzende des Wahlausschusses die Listenvertreter.
 
@@ -1428,8 +1401,7 @@ Der Wahlausschuß hat Vorschlagslisten zurückzuweisen, die ungültig sind oder 
 
 und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Die aus einer Vorschlagsliste gestrichenen Bewerber erhalten vom Wahlausschuß eine gesonderte Mitteilung, der ebenfalls eine Belehrung über den Rechtsbehelf des § 24 beizufügen ist. Die Mitteilungen des Wahlausschusses sind gegen Empfangsbestätigung auszuhändigen oder zuzustellen. Findet eine Wahl mit Wahlhandlung statt, hat der Wahlausschuss dies unverzüglich dem Bundeswahlbeauftragten und dem zuständigen Landeswahlbeauftragten mitzuteilen.
 
-
-## § 24 – Beschwerde gegen die Entscheidung des Wahlausschusses
+# § 24 – Beschwerde gegen die Entscheidung des Wahlausschusses
 
 (1) Gegen eine Entscheidung des Wahlausschusses, die eine Vorschlagsliste, Listenzusammenlegung oder Listenverbindung, insbesondere deren Zurückweisung betrifft, kann der Listenvertreter jeder betroffenen Liste Beschwerde einlegen. Gegen die Zulassung einer Vorschlagsliste, Listenzusammenlegung oder Listenverbindung kann der Listenvertreter jeder anderen zugelassenen Liste Beschwerde einlegen. Eine Erklärung nach § 48 Abs. 7 Satz 2 des Vierten Buches Sozialgesetzbuch kann noch in der Sitzung des Beschwerdewahlausschusses abgegeben werden, in der über eine Beschwerde nach Satz 1 oder 2 entschieden wird.
 
@@ -1437,8 +1409,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (3) Die Beschwerde ist bis zum 134. Tag vor dem Wahltag bei dem Beschwerdewahlausschuß schriftlich oder per Telefax einzulegen und zu begründen. Der Beschwerdeführer soll dem Wahlausschuß und dem zuständigen Wahlbeauftragten eine Abschrift der Beschwerde und ihrer Begründung übersenden. Der Wahlausschuß legt seine Akten unverzüglich dem Beschwerdewahlausschuß vor.
 
-
-## § 25 – Entscheidung des Beschwerdewahlausschusses
+# § 25 – Entscheidung des Beschwerdewahlausschusses
 
 (1) Über die Beschwerde entscheidet der Bundeswahlausschuß, wenn sie sich gegen die Entscheidung des Wahlausschusses eines bundesunmittelbaren Versicherungsträgers richtet; im übrigen entscheidet der zuständige Landeswahlausschuß. Die Entscheidung über die Beschwerde muß bis zum 114. Tag vor dem Wahltag getroffen werden; soweit dies nach ihrem Inhalt erforderlich ist, muß sie sich auch auf die Reihenfolge erstrecken, in der die zugelassenen Vorschlagslisten auf dem Stimmzettel aufgeführt werden.
 
@@ -1448,15 +1419,13 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (4) Die Entscheidung des Beschwerdewahlausschusses kann nur durch Klage nach § 57 des Vierten Buches Sozialgesetzbuch angefochten werden.
 
-
-## § 26 – Auslegung der Vorschlagslisten
+# § 26 – Auslegung der Vorschlagslisten
 
 (1) Wird eine Wahl mit Wahlhandlung durchgeführt, legt der Versicherungsträger in seinen Geschäftsstellen Abschriften der zugelassenen Vorschlagslisten und die Darstellungen der Listenträger öffentlich aus.
 
 (2) Die Abschriften der Vorschlagslisten sind spätestens am 51. Tag vor dem Wahltag auszulegen und müssen bis zum Ablauf des Wahltages ausliegen. Sie können zusätzlich im Internet veröffentlicht werden. In den Abschriften sind Familienname, Vorname, Geburtsjahr und Wohnort anzugeben. § 88 Absatz 2 Satz 2 und 4 erste Alternative gilt entsprechend.
 
-
-## § 27 – Information der Wahlberechtigten
+# § 27 – Information der Wahlberechtigten
 
 (1) Wird eine Wahl mit Wahlhandlung durchgeführt, ist den Trägern der zugelassenen Vorschlagslisten durch den Versicherungsträger Gelegenheit zu geben, die Liste, Wahlbewerber sowie die sozialpolitische Zielsetzung der die Liste tragenden Vereinigung für die Wahlberechtigten darzustellen. Vergleichende Darstellungen sind unzulässig. Der Vorstand oder der Verwaltungsrat oder ein vom Verwaltungsrat bestimmter Erledigungsausschuß legt unter Berücksichtigung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit die geeignete Form der Darstellung fest. Er stellt sicher, daß sich jede der zugelassenen Vorschlagslisten in gleichem Umfang und auf die gleiche Weise darstellen kann und daß den Listenträgern jeder zugelassenen Vorschlagsliste die festgelegte Form der Darstellung und das Datum, bis zu dem die Darstellung in der geeigneten Form dem Versicherungsträger spätestens vorliegen muß, schriftlich bekanntgegeben wird. Die Bekanntgabe hat unverzüglich nach der Entscheidung des Wahlausschusses über die Zulassung der Vorschlagsliste zu erfolgen. Die Darstellung der zugelassenen Vorschlagslisten soll insbesondere im Rahmen von Mitgliederzeitschriften des Versicherungsträgers oder in dessen sonstigen Veröffentlichungen, die im Zusammenhang mit der Wahl stehen, erfolgen; sie muß bis zum 20. Tag vor dem Wahltag erfolgt sein. Die Versicherungsträger können ihren Veröffentlichungen eine nicht freigemachte Postkarte beilegen, mittels derer die Wahlberechtigten die Darstellungen der zugelassenen Vorschlagslisten anfordern können.
 
@@ -1464,8 +1433,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (3) Die Versicherungsträger sollen die Wahlberechtigten in geeigneter und angemessener Weise über den Zweck und den Ablauf der Wahl und der Wahlhandlung informieren. Hierzu können sie sich insbesondere der Mittel bedienen, mit denen sie auch der ihnen nach § 13 des Ersten Buches Sozialgesetzbuch obliegenden Verpflichtungen zur Aufklärung über Rechte und Pflichten nach dem Sozialgesetzbuch nachkommen. Die Information der Wahlberechtigten kann mit der Aushändigung oder Übermittlung der Wahlunterlagen verbunden werden.
 
-
-## § 28 – Wahl ohne Wahlhandlung und Bekanntmachung des Ergebnisses
+# § 28 – Wahl ohne Wahlhandlung und Bekanntmachung des Ergebnisses
 
 (1) Wird aus einer Wählergruppe keine gültige Vorschlagsliste eingereicht oder nur eine Vorschlagsliste zugelassen, findet für diese Wählergruppe keine Wahlhandlung statt; dies gilt auch, wenn zwar mehrere Vorschlagslisten zugelassen werden, in ihnen aber insgesamt nicht mehr Bewerber benannt sind, als Mitglieder zu wählen sind oder in ihnen insgesamt für keinen Ältestensprengel mehr als ein Bewerber benannt ist.
 
@@ -1475,18 +1443,15 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (4) (weggefallen)
 
-
-## § 29
-
-(weggefallen)
-
-
-## § 30
+# § 29
 
 (weggefallen)
 
+# § 30
 
-## § 31 – Bekanntmachung von Wahlen zu den Vertreterversammlungen und Verwaltungsräten
+(weggefallen)
+
+# § 31 – Bekanntmachung von Wahlen zu den Vertreterversammlungen und Verwaltungsräten
 
 (1) Frühestens am 51. und spätestens am 37. Tag vor dem Wahltag machen die Versicherungsträger die Wahl öffentlich bekannt (Wahlbekanntmachung).
 
@@ -1504,13 +1469,11 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (3) Die Wahlbekanntmachung ist den Wahlberechtigten durch öffentlichen Anschlag oder Aushang, auf den in der Tagespresse oder in anderer Weise hinzuweisen ist, hinreichend zur Kenntnis zu bringen.
 
-
-## § 32
+# § 32
 
 (weggefallen)
 
-
-## § 33 – Wahlausweise
+# § 33 – Wahlausweise
 
 (1) Die Wahlberechtigten wählen auf Grund von Wahlausweisen. Als Wahlausweise gelten auch besondere, personenbezogene Kennzeichnungen in den Wahlunterlagen, wenn die Wahlberechtigung durch sie nachgewiesen wird.
 
@@ -1518,8 +1481,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (3) Die Stimmabgabe ist nicht deshalb ungültig, weil bei der Ausstellung des Wahlausweises von unzutreffenden Voraussetzungen ausgegangen worden ist.
 
-
-## § 34 – Ausstellung der Wahlausweise
+# § 34 – Ausstellung der Wahlausweise
 
 (1) Die Wahlausschüsse verteilen bis zum 51. Tag vor dem Wahltag die Vordrucke für die Wahlausweise, die Stimmzettel, die Merkblätter, die Stimmzettelumschläge und die Wahlbriefumschläge in der erforderlichen Zahl an die Stellen, die die Wahlausweise ausstellen. Dabei sorgen sie dafür, daß eine mißbräuchliche Verwendung von Stimmzetteln verhindert wird.
 
@@ -1533,8 +1495,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (6) Der Bundeswahlbeauftragte macht spätestens am 107. Tag vor dem Wahltag bekannt, in welchen Fällen Wahlberechtigte einen Antrag auf Ausstellung des Wahlausweises stellen müssen, und bestimmt dazu das Nähere.
 
-
-## § 35 – Ausstellung der Wahlausweise für Arbeitgeber in der Rentenversicherung
+# § 35 – Ausstellung der Wahlausweise für Arbeitgeber in der Rentenversicherung
 
 (1) Die Arbeitgeber erhalten die Wahlausweise auf Antrag.
 
@@ -1544,8 +1505,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (4) Die Krankenkasse stellt die Wahlausweise aus und benachrichtigt beteiligte Krankenkassen hiervon.
 
-
-## § 36 – Ausstellung der Wahlausweise in der Unfallversicherung für Unternehmer
+# § 36 – Ausstellung der Wahlausweise in der Unfallversicherung für Unternehmer
 
 (1) Die Wahlausweise für wahlberechtigte Unternehmer werden vom Versicherungsträger auf Antrag ausgestellt.
 
@@ -1553,8 +1513,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (3) Die Kosten für die Rückantwort trägt der Versicherungsträger.
 
-
-## § 37 – Ausstellung der Wahlausweise in der Unfallversicherung für Beschäftigte
+# § 37 – Ausstellung der Wahlausweise in der Unfallversicherung für Beschäftigte
 
 (1) Die Wahlausweise werden
 
@@ -1572,8 +1531,7 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (6) Die Arbeitgeber haben dem Versicherungsträger bis zum 18. Tag vor dem Wahltag die Gesamtzahl der ausgestellten und ausgehändigten oder übermittelten Wahlausweise mitzuteilen.
 
-
-## § 38 – Ausstellung der Wahlausweise in der Unfallversicherung für Rentenbezieher
+# § 38 – Ausstellung der Wahlausweise in der Unfallversicherung für Rentenbezieher
 
 (1) Die Wahlausweise werden für wahlberechtigte Rentenbezieher vom Versicherungsträger auf Antrag ausgestellt.
 
@@ -1581,18 +1539,15 @@ und fügt der Mitteilung eine Belehrung über den Rechtsbehelf des § 24 bei. Di
 
 (3) Die Kosten für die Rückantwort trägt der Versicherungsträger.
 
-
-## § 39 – Ausstellung der Wahlausweise in der Unfallversicherung für Schüler, Lernende und Studierende
+# § 39 – Ausstellung der Wahlausweise in der Unfallversicherung für Schüler, Lernende und Studierende
 
 Für die nach § 2 Abs. 1 Nr. 2 und 8 Buchstabe b und c des Siebten Buches Sozialgesetzbuch versicherten Schüler, Lernenden und Studierenden werden die Wahlausweise von der Stelle ausgestellt, die die Rechte und Pflichten des Unternehmers nach den Vorschriften des Siebten Buches Sozialgesetzbuch wahrzunehmen hat. Sind bei einer Schule Schulhoheitsträger und Schullastträger nicht dieselbe Stelle, hat der Schulhoheitsträger die Stelle zu bestimmen, die die Wahlausweise ausstellt.
 
-
-## § 40 – Ausstellung von Wahlausweisen in der Unfallversicherung für andere Versicherte
+# § 40 – Ausstellung von Wahlausweisen in der Unfallversicherung für andere Versicherte
 
 Die Wahlausweise für andere am Stichtag (§ 50 Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch) gegen Versicherungsfälle der gesetzlichen Unfallversicherung versicherte Wahlberechtigte, die zur Gruppe der Versicherten nach § 47 Abs. 1 Nr. 2 des Vierten Buches Sozialgesetzbuch gehören, werden von dem Versicherungsträger auf Antrag ausgestellt.
 
-
-## § 41 – Form und Inhalt der Wahlausweise und der Stimmzettel sowie der Stimmzettelumschläge und Wahlbriefumschläge
+# § 41 – Form und Inhalt der Wahlausweise und der Stimmzettel sowie der Stimmzettelumschläge und Wahlbriefumschläge
 
 (1) Die Wahlausweise und die Stimmzettel werden auf amtlichen Vordrucken nach dem Muster der Anlage 7 oder 8 ausgestellt; der Wahlbeauftragte kann die Aufnahme zusätzlicher Angaben wie Versicherungsnummer oder Betriebsstammnummer auf dem Wahlausweis sowie die Aufnahme postalischer Leitvermerke auf dem Stimmzettel zulassen. Die Stimmzettel sollen mit den Wahlausweisen verbunden sein; Ausnahmen aus technischen Gründen sind zulässig. In Anlage 7 werden für die Wahl in der Gruppe der Selbständigen ohne fremde Arbeitskräfte jeweils die Wörter "Gruppe der Versicherten" durch die Wörter "Gruppe der Selbständigen ohne fremde Arbeitskräfte" ersetzt.
 
@@ -1636,8 +1591,7 @@ zu lauten.
 
 (6) Der Wahlausschuß kann die Muster, die in den Anlagen zu dieser Verordnung vorgeschrieben sind, dem jeweiligen Stand der Bürotechnik und der Datenverarbeitung anpassen. In Zweifelsfällen ist die Zustimmung des Wahlbeauftragten zu einer Abweichung einzuholen.
 
-
-## § 42 – Verwendung personenbezogener Kennzeichnungen als Wahlausweise
+# § 42 – Verwendung personenbezogener Kennzeichnungen als Wahlausweise
 
 (1) Werden personenbezogene Kennzeichnungen als Wahlausweise verwendet, dürfen diese nur auf die Wahlbriefumschläge aufgedruckt werden.
 
@@ -1651,8 +1605,7 @@ b) auf der Rückseite mit folgendem Hinweis zu versehen: "In diesen Wahlbriefums
 
 (4) In Zweifelsfällen ist die Zustimmung des zuständigen Wahlbeauftragten einzuholen.
 
-
-## § 43 – Briefliche Stimmabgabe
+# § 43 – Briefliche Stimmabgabe
 
 (1) Der Wahlberechtigte, der brieflich wählt,
 
@@ -1675,13 +1628,11 @@ Werden die Wahlunterlagen dem Wahlberechtigten nicht übersandt, sondern ausgeh�
 
 (2) Ein Wähler, der infolge einer Behinderung, oder weil er des Lesens unkundig ist, bei der Stimmabgabe beeinträchtigt ist, kann sich bei der Stimmabgabe einer Person seines Vertrauens bedienen. Blinden oder sehbehinderten Wählern wird für das Kennzeichnen des Stimmzettels auf Antrag vom Versicherungsträger kostenfrei eine Wahlschablone zur Verfügung gestellt. Das Nähere regelt der Bundeswahlbeauftragte.
 
-
-## § 44 – Frist für die briefliche Stimmabgabe
+# § 44 – Frist für die briefliche Stimmabgabe
 
 Der Wähler soll den Wahlbrief möglichst frühzeitig absenden; er muß ihn so rechtzeitig absenden, daß der Wahlbrief spätestens am Wahltag bei dem Versicherungsträger eingeht. In den Wahlunterlagen ist dieser Tag genau zu bezeichnen. Wahlbriefe, die erst am Tage nach dem Wahltag zu Dienstbeginn bei dem Empfänger oder im Postfach des Empfängers vorgefunden werden, gelten im Zweifelsfalle als rechtzeitig eingegangen.
 
-
-## § 45 – Behandlung der Wahlbriefe
+# § 45 – Behandlung der Wahlbriefe
 
 (1) Der Wahlausschuß prüft die Wahlbriefe selbst oder läßt sie durch Briefwahlleitungen behandeln, die er in der erforderlichen Zahl bestellt. Bei der Prüfung der Wahlbriefe ist zunächst festzustellen, wie viele Wahlbriefumschläge insgesamt eingegangen sind und wie viele davon nicht durch das amtlich bekanntgemachte Postunternehmen befördert worden sind.
 
@@ -1691,58 +1642,47 @@ Der Wähler soll den Wahlbrief möglichst frühzeitig absenden; er muß ihn so r
 
 (4) Die danach verbleibenden Stimmzettelumschläge werden frühestens am Tag nach dem Wahltag geöffnet und von den in ihnen befindlichen Stimmzetteln getrennt. Anschließend wird das Wahlergebnis entsprechend den §§ 57 ermittelt. Briefwahlleitungen übersenden die Wahlniederschriften unverzüglich den Wahlausschüssen. Stimmzettelumschläge und Stimmzettel werden getrennt verpackt und aufbewahrt.
 
-
-## § 46 – Behandlung der Wahlbriefe beim Arbeitgeber
+# § 46 – Behandlung der Wahlbriefe beim Arbeitgeber
 
 In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbeitgeber oder der sonst für die Ausgabe der Wahlunterlagen Zuständige dafür Sorge zu tragen, dass die Wahlbriefe ordnungsgemäß in einem Behälter gesammelt, ständig gegen Zugriffe gesichert und unverzüglich an den Adressaten abgesandt werden.
 
-
-## § 47
-
-(weggefallen)
-
-
-## § 48
+# § 47
 
 (weggefallen)
 
-
-## § 49
-
-(weggefallen)
-
-
-## § 50
+# § 48
 
 (weggefallen)
 
-
-## § 51
-
-(weggefallen)
-
-
-## § 52
+# § 49
 
 (weggefallen)
 
-
-## § 53
-
-(weggefallen)
-
-
-## § 54
+# § 50
 
 (weggefallen)
 
-
-## § 55
+# § 51
 
 (weggefallen)
 
+# § 52
 
-## § 56 – Ungültige Stimmen
+(weggefallen)
+
+# § 53
+
+(weggefallen)
+
+# § 54
+
+(weggefallen)
+
+# § 55
+
+(weggefallen)
+
+# § 56 – Ungültige Stimmen
 
 (1) Ungültig ist die Stimmabgabe, wenn der Stimmzettel
 
@@ -1776,8 +1716,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 2. der Wahlberechtigte sein Wahlrecht bereits einmal durch Stimmabgabe ausgeübt hat.
 
-
-## § 57 – Ermittlung des Wahlergebnisses durch die Briefwahlleitungen
+# § 57 – Ermittlung des Wahlergebnisses durch die Briefwahlleitungen
 
 (1) Die Briefwahlleitung ermittelt unverzüglich nach dem Wahltag getrennt nach Wählergruppen, wie viele Stimmen für die einzelnen Vorschlagslisten abgegeben sind. Sie hat dabei über die Gültigkeit der abgegebenen Stimmen zu entscheiden. Auf für ungültig erklärten Stimmzetteln ist der Grund der Ungültigkeit zu vermerken.
 
@@ -1791,8 +1730,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 4. die Zahl der für jede Vorschlagsliste abgegebenen gültigen Stimmen.
 
-
-## § 58 – Ermittlung des Wahlergebnisses durch den Wahlausschuss
+# § 58 – Ermittlung des Wahlergebnisses durch den Wahlausschuss
 
 (1) Auf Grund der Wahlniederschriften der Briefwahlleitungen und unter Berücksichtigung der Stimmen, die ihm selbst brieflich zugegangen sind, ermittelt der Wahlausschuß unverzüglich gesondert für die einzelnen Wählergruppen
 
@@ -1812,18 +1750,15 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (6) Der zuständige Landeswahlbeauftragte und der Bundeswahlbeauftragte erhalten eine Abschrift der Niederschrift.
 
-
-## § 59
-
-(weggefallen)
-
-
-## § 60
+# § 59
 
 (weggefallen)
 
+# § 60
 
-## § 61 – Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten
+(weggefallen)
+
+# § 61 – Bekanntmachung der Ergebnisse der Wahlen mit Wahlhandlung zu den Vertreterversammlungen und den Verwaltungsräten
 
 (1) Der Wahlausschuß stellt unverzüglich das Wahlergebnis fest und macht es mit den in der Anlage 11 unter den Nummern 1 bis 6 bezeichneten Angaben öffentlich bekannt.
 
@@ -1833,63 +1768,51 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (4) Der Bundeswahlbeauftragte, der zuständige Landeswahlbeauftragte und die zuständige Aufsichtsbehörde erhalten unverzüglich eine Abschrift der Bekanntmachung.
 
-
-## § 62
-
-(weggefallen)
-
-
-## § 63
+# § 62
 
 (weggefallen)
 
-
-## § 64
-
-(weggefallen)
-
-
-## § 65
+# § 63
 
 (weggefallen)
 
-
-## § 66
-
-(weggefallen)
-
-
-## § 67
+# § 64
 
 (weggefallen)
 
-
-## § 68
-
-(weggefallen)
-
-
-## § 69
+# § 65
 
 (weggefallen)
 
-
-## § 70
-
-(weggefallen)
-
-
-## § 71
+# § 66
 
 (weggefallen)
 
-
-## § 72
+# § 67
 
 (weggefallen)
 
+# § 68
 
-## § 73 – Erste Sitzung der Vertreterversammlungen
+(weggefallen)
+
+# § 69
+
+(weggefallen)
+
+# § 70
+
+(weggefallen)
+
+# § 71
+
+(weggefallen)
+
+# § 72
+
+(weggefallen)
+
+# § 73 – Erste Sitzung der Vertreterversammlungen
 
 (1) Die erste Sitzung der in einer allgemeinen Wahl neu gewählten Vertreterversammlung muß spätestens fünf Monate nach dem Wahltag stattfinden.
 
@@ -1903,8 +1826,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (4) Der Vorsitzende des Wahlausschusses leitet die Sitzung bis zur Wahl des Vorsitzenden der Vertreterversammlung.
 
-
-## § 74 – Wahl des Vorsitzenden der Vertreterversammlung
+# § 74 – Wahl des Vorsitzenden der Vertreterversammlung
 
 (1) Der Vorsitzende des Wahlausschusses eröffnet die erste Sitzung der Vertreterversammlung und führt einen Beschluß darüber herbei, ob der Vorsitzende durch Zuruf oder schriftlich gewählt werden soll. Schriftlich gewählt wird, wenn mindestens ein Drittel der Mitglieder der Vertreterversammlung dies verlangt.
 
@@ -1922,8 +1844,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (8) Über die Sitzung wird eine Niederschrift aufgenommen. Die Niederschrift ist vom Vorsitzenden des Wahlausschusses und vom Vorsitzenden der Vertreterversammlung zu unterzeichnen.
 
-
-## § 75 – Erste Sitzung der Verwaltungsräte
+# § 75 – Erste Sitzung der Verwaltungsräte
 
 (1) Die erste Sitzung des in einer allgemeinen Wahl neu gewählten Verwaltungsrates muß spätestens fünf Monate nach dem Wahltag stattfinden.
 
@@ -1933,8 +1854,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (4) Der Vorsitzende des Wahlausschusses leitet die Sitzung bis zur Wahl des Vorsitzenden des Verwaltungsrates.
 
-
-## § 76 – Wahl des Vorsitzenden des Verwaltungsrates
+# § 76 – Wahl des Vorsitzenden des Verwaltungsrates
 
 (1) Der Vorsitzende des Wahlausschusses eröffnet die erste Sitzung des Verwaltungsrates und führt einen Beschluß darüber herbei, ob der Vorsitzende durch Zuruf oder schriftlich gewählt werden soll. Schriftlich gewählt wird, wenn mindestens ein Drittel der Mitglieder des Verwaltungsrates dies verlangt.
 
@@ -1952,8 +1872,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (8) Über die Sitzung wird eine Niederschrift aufgenommen. Die Niederschrift ist vom Vorsitzenden des Wahlausschusses und vom Vorsitzenden des Verwaltungsrates zu unterzeichnen.
 
-
-## § 77 – Wahl des Vorstandes
+# § 77 – Wahl des Vorstandes
 
 (1) Der Vorstand wird im Anschluß an die Wahl des Vorsitzenden der Vertreterversammlung gewählt.
 
@@ -1967,8 +1886,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (6) Für die Durchführung der Wahl gilt die Vorschrift des § 74 Abs. 2, 3, 4, 6 Satz 1 und Abs. 8 entsprechend.
 
-
-## § 78 – Wahl des Vorsitzenden des Vorstandes
+# § 78 – Wahl des Vorsitzenden des Vorstandes
 
 (1) Die Wahl des Vorsitzenden des Vorstandes kann unmittelbar im Anschluß an die Wahl des Vorstandes stattfinden; sie muß innerhalb von zwei Wochen nach der Wahl des Vorstandes stattfinden.
 
@@ -1980,8 +1898,7 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (5) Im übrigen gilt für die Wahl des Vorsitzenden § 74 entsprechend.
 
-
-## § 79 – Bekanntmachung
+# § 79 – Bekanntmachung
 
 (1) Der Vorsitzende der Vertreterversammlung oder des Verwaltungsrates teilt dem Wahlausschuß das Ergebnis der Wahl der Vorsitzenden der Vertreterversammlung oder des Verwaltungsrates und der Wahl des Vorstandes mit. Der Vorsitzende des Vorstandes teilt dem Wahlausschuß das Ergebnis der Wahl der Vorsitzenden des Vorstandes mit. Bei abwechselndem Vorsitz sind die Zeiträume mitzuteilen, in denen die Gewählten den Vorsitz führen.
 
@@ -1995,20 +1912,17 @@ In den Fällen des § 54 Abs. 2 des Vierten Buches Sozialgesetzbuch hat der Arbe
 
 (6) Bei Ergänzung eines Selbstverwaltungsorgans nach § 60 des Vierten Buches Sozialgesetzbuch macht der Vorsitzende des Vorstandes den Beschluss, dass der Vorgeschlagene als gewählt gilt sowie die nach § 60 Absatz 1 Satz 3 des Vierten Buches Sozialgesetzbuch erforderliche Begründung öffentlich bekannt.
 
-
-## § 80 – Wahlverfahren
+# § 80 – Wahlverfahren
 
 (1) Für die Wahl von Versichertenältesten in der Rentenversicherung, der Unfallversicherung und der Kranken- und Pflegeversicherung sowie von Vertrauenspersonen gelten die verfahrensrechtlichen Vorschriften über die Wahl des Vorstandes entsprechend.
 
 (2) Der Bundeswahlbeauftragte kann Richtlinien über die Durchführung der Wahl und die Ermittlung des Wahlergebnisses erlassen. Das endgültige Wahlergebnis und die Nachfolge vorzeitig ausgeschiedener Versichertenältester und Vertrauenspersonen sind öffentlich bekannt zu machen. § 79 Absatz 3 und 6 findet entsprechende Anwendung.
 
-
-## § 81 – Zeitpunkt der Wahl
+# § 81 – Zeitpunkt der Wahl
 
 Soweit die Satzung des Versicherungsträgers nichts anderes bestimmt, soll die Wahl von Versichertenältesten und Vertrauenspersonen in der ersten Sitzung der Vertreterversammlung oder des Verwaltungsrates stattfinden.
 
-
-## § 82 – Kostenträger
+# § 82 – Kostenträger
 
 (1) Der Bund trägt die durch die Tätigkeit des Bundeswahlbeauftragten entstehenden Kosten.
 
@@ -2018,8 +1932,7 @@ Soweit die Satzung des Versicherungsträgers nichts anderes bestimmt, soll die W
 
 (4) Jede öffentliche Dienststelle hat über die ihr aus Anlaß der Wahlen entstehenden Kosten Nachweise in der für sie üblichen Form zu führen. Die Wahlbeauftragten können in die Nachweise Einsicht nehmen und beglaubigte Abschriften von Belegen verlangen.
 
-
-## § 83 – Erstattung von Auslagen des Bundeswahlbeauftragten
+# § 83 – Erstattung von Auslagen des Bundeswahlbeauftragten
 
 (1) Die Versicherungsträger haben dem Bund die nach § 14 Abs. 1 entstehenden Auslagen zu erstatten. Diese Auslagen werden auf alle Versicherungsträger nach der Zahl der wahlberechtigten Versicherten umgelegt; soweit die Zahl der wahlberechtigten Versicherten nicht bekannt ist, ist sie vom Bundeswahlbeauftragten zu schätzen. Bei der Zahl der Wahlberechtigten bleiben in der Unfallversicherung die nach § 2 Abs. 1 Nr. 2, 3, 10 bis 14, 15 Buchstabe a und b und Nr. 16 sowie Abs. 2 des Siebten Buches Sozialgesetzbuch versicherten Personen außer Betracht.
 
@@ -2027,32 +1940,27 @@ Soweit die Satzung des Versicherungsträgers nichts anderes bestimmt, soll die W
 
 (3) Die Versicherungsträger haben dem Bundeswahlbeauftragten, bei landesunmittelbaren Versicherungsträgern über den Landeswahlbeauftragten, die zur Durchführung des Erstattungsverfahrens nach Absatz 1 erforderlichen Angaben zu machen. Die Landeswahlbeauftragten stellen die Angaben der landesunmittelbaren Versicherungsträger zusammen, nehmen dazu Stellung, soweit eine Schätzung erforderlich ist oder dies aus anderen Gründen erforderlich erscheint, und leiten die Aufstellung dem Bundeswahlbeauftragten zu. Der Bundeswahlbeauftragte stellt die auf die einzelnen Versicherungsträger entfallenden Umlagebeträge fest und zieht die Beträge von den Versicherungsträgern ein. Der zuständige Wahlbeauftragte bestimmt das Nähere.
 
-
-## § 84
-
-(weggefallen)
-
-
-## § 85
+# § 84
 
 (weggefallen)
 
+# § 85
 
-## § 86 – Kostenerstattung im Beschwerdeverfahren
+(weggefallen)
+
+# § 86 – Kostenerstattung im Beschwerdeverfahren
 
 (1) Obsiegt der Beschwerdeführer in einem Beschwerdeverfahren nach den §§ 13 und 24, hat ihm der Versicherungsträger die notwendigen Aufwendungen zu erstatten. Auf Antrag setzt der Vorsitzende des Beschwerdewahlausschusses die Höhe des zu erstattenden Betrages fest. Die Festsetzung verpflichtet den Versicherungsträger, den festgesetzten Betrag innerhalb eines Monats nach Zustellung des Feststellungsbescheides an den Beschwerdeführer zu zahlen.
 
 (2) Unterliegt der Beschwerdeführer in dem Beschwerdeverfahren und ist er Listenvertreter einer Personenvereinigung oder eines Verbandes, beschließt der Beschwerdewahlausschuß auf Antrag eines Beteiligten, ob und inwieweit die Personenvereinigung oder der Verband dem Antragsteller seine notwendigen Aufwendungen zu erstatten hat. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-
-## § 87 – Kosten der Beschwerdewahlausschüsse
+# § 87 – Kosten der Beschwerdewahlausschüsse
 
 (1) Die Kosten, die durch die Bestellung des Bundeswahlausschusses und seine Tätigkeit entstehen, tragen die bundesunmittelbaren Versicherungsträger, für die eine Wahl mit Stimmabgabe stattgefunden hat oder die an einem Beschwerdeverfahren beteiligt gewesen sind, nach dem Verhältnis der Zahl der wahlberechtigten Versicherten. Ist ein Kostenträger nach Satz 1 nicht vorhanden, werden die Kosten auf alle bundesunmittelbaren Versicherungsträger nach der Zahl der wahlberechtigten Versicherten umgelegt. § 83 Abs. 1 Satz 2 letzter Halbsatz und Satz 3, Abs. 2 und 3 Satz 1, 3 und 4 gilt entsprechend.
 
 (2) Die Kosten, die durch die Bestellung des Landeswahlausschusses und seine Tätigkeit entstehen, tragen entsprechend Absatz 1 die Versicherungsträger, die der Aufsicht des jeweiligen Landes unterstehen. An die Stelle des Bundeswahlbeauftragten tritt der zuständige Landeswahlbeauftragte.
 
-
-## § 88 – Öffentliche Bekanntmachungen
+# § 88 – Öffentliche Bekanntmachungen
 
 (1) Die nach dieser Verordnung erforderlichen Bekanntmachungen veröffentlichen
 
@@ -2069,20 +1977,17 @@ der Wahlausschuß in der bei dem Versicherungsträger üblichen Weise.
 
 (3) Der Bundeswahlbeauftragte soll die Wahlausschreibung auch in der Tagespresse durch eine viertelseitige Anzeige veröffentlichen.
 
-
-## § 88a – Datenschutzrechtliche Spezialregelungen
+# § 88a – Datenschutzrechtliche Spezialregelungen
 
 (1) Hinsichtlich der in den Vorschlagslisten enthaltenen personenbezogenen Daten bestehen das Recht auf Berichtigung nach Artikel 16 und das Recht auf Einschränkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) im Zeitraum vom Ablauf der Frist für die Einreichung von Vorschlagslisten bis zum Ablauf des Wahltages abschließend nach Maßgabe der §§ 18 und 22.
 
 (2) In Bezug auf die für die Erstellung von Wahlausweisen verarbeiteten personenbezogenen Daten erfolgt die Information der betroffenen Person abweichend von Artikel 13 Absatz 3 der Verordnung (EU) 2016/679 mit der Erteilung der Wahlausweise. Die Berichtigung der im Wahlausweis enthaltenen personenbezogenen Daten gemäß Artikel 16 der Verordnung (EU) 2016/679 erfolgt nur bis zum siebten Kalendertag vor dem Wahltag. Die Löschung der in den Wahlausweisen enthaltenen Daten sowie die Einschränkung der Verarbeitung erfolgt nur unter den Voraussetzungen des § 91.
 
-
-## § 89 – Gebührenfreiheit
+# § 89 – Gebührenfreiheit
 
 Für die Ausstellung von Bescheinigungen, die in dieser Verordnung vorgesehen sind, werden Gebühren nicht erhoben.
 
-
-## § 90 – Vordrucke
+# § 90 – Vordrucke
 
 (1) Die Versicherungsträger und alle am Wahlverfahren Beteiligte sind berechtigt, die Vordrucke nach dem Muster der Anlagen selbst herzustellen; inhaltliche Veränderungen dürfen nicht vorgenommen werden.
 
@@ -2090,18 +1995,15 @@ Für die Ausstellung von Bescheinigungen, die in dieser Verordnung vorgesehen si
 
 (3) (weggefallen)
 
-
-## § 91 – Aufbewahrung der Wahlunterlagen
+# § 91 – Aufbewahrung der Wahlunterlagen
 
 Die Wahlunterlagen werden bis zum Ablauf der Amtsdauer der gewählten Organe aufbewahrt. Die Wahlausweise, Stimmzettel, Stimmzettelumschläge und Wahlbriefumschläge können jedoch bereits zwei Monate nach Ablauf der in § 57 Abs. 3 Satz 2 des Vierten Buches Sozialgesetzbuch für eine Wahlanfechtung gesetzten Frist, im Falle einer Wahlanfechtung jedoch frühestens zwei Monate, nachdem die Entscheidung über die Wahlanfechtung rechtskräftig geworden ist, vernichtet werden, soweit ihre Aufbewahrung nicht aus besonderen Gründen geboten ist; im Zweifelsfall oder auf Antrag eines Beteiligten entscheidet hierüber der zuständige Wahlbeauftragte. In begründeten Ausnahmefällen können auch bei einer Wahlanfechtungsklage die Wahlausweise, Stimmzettel, Stimmzettelumschläge oder Wahlbriefumschläge vor Ablauf der in diesen Fällen vorgesehenen Frist vernichtet werden, sofern diese Unterlagen nicht für das Streitverfahren entscheidungserheblich sind. Über eine vorzeitige Vernichtung entscheidet auf Antrag des beklagten Versicherungsträgers der zuständige Wahlbeauftragte, der zuvor dem Gericht, bei dem Wahlanfechtungsklagen anhängig sind, Gelegenheit zur Stellungnahme gibt. Für die Aufbewahrung sind die Stellen zuständig, bei denen die Wahlunterlagen nach den Vorschriften dieser Verordnung endgültig verbleiben.
 
-
-## § 92 – Amtshilfe
+# § 92 – Amtshilfe
 
 Alle an der Durchführung der Wahlen beteiligten Behörden und Versicherungsträger leisten sich gegenseitig Amtshilfe.
 
-
-## § 93 – Wahlen in besonderen Fällen
+# § 93 – Wahlen in besonderen Fällen
 
 (1) Die Vorschriften dieser Verordnung gelten entsprechend, wenn eine Wahl wiederholt werden oder für einen neu errichteten Versicherungsträger besonders stattfinden muß, soweit nicht abweichende Regelungen (§ 2 Abs. 3 Satz 3) im Hinblick darauf geboten sind, daß es sich um die unverzüglich durchzuführende Wahl bei nur einem Versicherungsträger handelt. Bei Wahlen in besonderen Fällen, die ausschließlich für landesunmittelbare Versicherungsträger stattfinden, tritt der Landeswahlbeauftragte an die Stelle des Bundeswahlbeauftragten.
 
@@ -2109,112 +2011,95 @@ Alle an der Durchführung der Wahlen beteiligten Behörden und Versicherungsträ
 
 (3) Bei Wiederholungswahlen ist das Wahlverfahren nur insoweit zu erneuern, als das nach der Entscheidung, die die Wiederholungswahl notwendig macht, erforderlich ist.
 
-
-## § 94 – Stadtstaaten-Klausel
+# § 94 – Stadtstaaten-Klausel
 
 In den Ländern Berlin, Bremen und Hamburg bestimmt der Senat, welche Stellen die Aufgaben wahrnehmen, die im Vierten Buch Sozialgesetzbuch und in dieser Verordnung den Gemeindeverwaltungen übertragen sind.
 
-
-## § 95 – Inkrafttreten, Außerkrafttreten
+# § 95 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 1997 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 96 – Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023
+# § 96 – Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023
 
 Für die Sozialversicherungswahlen im Jahr 2023 gilt § 11 Absatz 1 Satz 2 Nummer 8 in der bis zum 17. Februar 2021 geltenden Fassung.
 
-
-## Anlage 1 – (zu § 15 Absatz 1)
+# Anlage 1 – (zu § 15 Absatz 1)
 
 (Fundstelle: BGBl. I 2021, 169 - 172)
 
 <a href="../normengrafiken/bgbl1_2021/j0169_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 15 Absatz 1)
+# Anlage 2 – (zu § 15 Absatz 1)
 
 (Fundstelle: BGBl. I 2021, 173 - 176)
 
 <a href="../normengrafiken/bgbl1_2021/j0173_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 15 Absatz 1)
+# Anlage 3 – (zu § 15 Absatz 1)
 
 (Fundstelle: BGBl. I 2021, 177 - 178)
 
 <a href="../normengrafiken/bgbl1_2021/j0177_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 4 – (zu § 15 Absatz 1)
+# Anlage 4 – (zu § 15 Absatz 1)
 
 (Fundstelle: BGBl. I 2021, 179 - 180)
 
 <a href="../normengrafiken/bgbl1_2021/j0179_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – (zu § 15 Absatz 4)
+# Anlage 5 – (zu § 15 Absatz 4)
 
 (Fundstelle: BGBl. I 2021, 181 - 182)
 
 <a href="../normengrafiken/bgbl1_2021/j0181_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 6 – (zu § 15 Absatz 4)
+# Anlage 6 – (zu § 15 Absatz 4)
 
 (Fundstelle: BGBl. I 2021, 183)
 
 <a href="../normengrafiken/bgbl1_2021/j0183_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 7 – (zu § 41 Absatz 1)
+# Anlage 7 – (zu § 41 Absatz 1)
 
 (Fundstelle: BGBl. I 2021, 184 - 185)
 
 <a href="../normengrafiken/bgbl1_2021/j0184_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 8 – (zu § 41 Absatz 1)
+# Anlage 8 – (zu § 41 Absatz 1)
 
 (Fundstelle: BGBl. I 2021, 186 - 187)
 
 <a href="../normengrafiken/bgbl1_2021/j0186_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 9 – (zu § 41 Absatz 4)
+# Anlage 9 – (zu § 41 Absatz 4)
 
 (Fundstelle: BGBl. I 2021, 188)
 
 <a href="../normengrafiken/bgbl1_2021/j0188_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 10 – (zu § 41 Absatz 4)
+# Anlage 10 – (zu § 41 Absatz 4)
 
 (Fundstelle: BGBl. I 2021, 189)
 
 <a href="../normengrafiken/bgbl1_2021/j0189_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 11 – (zu § 3 Absatz 9 in Verbindung mit § 58 Absatz 5)
+# Anlage 11 – (zu § 3 Absatz 9 in Verbindung mit § 58 Absatz 5)
 
 (Fundstelle: BGBl. I 2021, 190 - 196)
 
 <a href="../normengrafiken/bgbl1_2021/j0190_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 12 – (zu § 77 Absatz 3 Satz 1)
+# Anlage 12 – (zu § 77 Absatz 3 Satz 1)
 
 (Fundstelle: BGBl. I 2021, 197 - 200)
 
 <a href="../normengrafiken/bgbl1_2021/j0197_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 13 – (zu § 77 Absatz 3 Satz 1)
+# Anlage 13 – (zu § 77 Absatz 3 Satz 1)
 
 (Fundstelle: BGBl. I 2021, 201 - 202)
 

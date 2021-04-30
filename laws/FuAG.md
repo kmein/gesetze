@@ -1,12 +1,7 @@
-# [FuAG] Gesetz über die Bereitstellung von Funkanlagen auf dem Markt   (Funkanlagengesetz - FuAG)
-
-Ausfertigungsdatum: 27.06.2017
-
+% Gesetz über die Bereitstellung von Funkanlagen auf dem Markt   (Funkanlagengesetz - FuAG)
+% Ausfertigungsdatum: 27.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -44,15 +39,15 @@ Ausfertigungsdatum: 27.06.2017
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für alle Funkanlagen, die auf dem Markt bereitgestellt oder in Betrieb genommen werden.
 
 (2) Die Verordnung über elektrische Betriebsmittel vom 17. März 2016 (BGBl. I S. 502) findet auf Funkanlagen Anwendung, soweit der Schutz der Gesundheit und Sicherheit von Menschen und Haus- und Nutztieren sowie der Schutz von Gütern einschließlich der in der Richtlinie 2014/35/EU enthaltenen Ziele in Bezug auf die Sicherheitsanforderungen, jedoch ohne Anwendung der Spannungsgrenze, betroffen ist.
 
-
-## § 2 – Einschränkungen des Anwendungsbereichs
+# § 2 – Einschränkungen des Anwendungsbereichs
 
 (1) Dieses Gesetz gilt nicht für
 
@@ -90,8 +85,7 @@ Die §§ 32 und 37 Absatz 1 Nummer 14 sind auch auf Funkanlagen und Geräte im S
 
 5. immissionsschutzrechtliche Anforderungen an Funkanlagen nach dem Bundesimmissionsschutzgesetz und nach aufgrund des Bundesimmissionsschutzgesetzes erlassenen Rechtsverordnungen.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes ist beziehungsweise sind
 
@@ -163,8 +157,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (2) Wenn die Kommission Durchführungsrechtsakte erlässt, in denen sie festlegt, ob bestimmte Kategorien elektrischer oder elektronischer Produkte der Definition in Absatz 1 Nummer 1 entsprechen, sind diese zu berücksichtigen.
 
-
-## § 4 – Grundlegende Anforderungen an Funkanlagen
+# § 4 – Grundlegende Anforderungen an Funkanlagen
 
 (1) Funkanlagen müssen so konstruiert sein, dass Folgendes gewährleistet ist:
 
@@ -194,8 +187,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 9. Sie unterstützen bestimmte Funktionen, mit denen sichergestellt werden soll, dass nur solche Software geladen werden kann, für die die Konformität ihrer Kombination mit der Funkanlage nachgewiesen wurde.
 
-
-## § 5 – Bereitstellung von Informationen über die Konformität von Kombinationen von Funkanlagen und Software
+# § 5 – Bereitstellung von Informationen über die Konformität von Kombinationen von Funkanlagen und Software
 
 (1) Die Hersteller von Funkanlagen und von Software, die die bestimmungsgemäße Verwendung von Funkanlagen ermöglicht, haben der Bundesnetzagentur und der Kommission unter Berücksichtigung der Durchführungsrechtsakte nach Artikel 4 Absatz 3 der Richtlinie 2014/53/EU Informationen über die Konformität beabsichtigter Kombinationen von Funkanlagen und Software mit den grundlegenden Anforderungen nach § 4 Absatz 1 und 2 und, soweit zutreffend, Absatz 3 zu übermitteln. Die Informationen sind vor dem Inverkehrbringen der Funkanlage zu übermitteln.
 
@@ -203,8 +195,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (3) Die Kommission legt durch delegierten Rechtsakt nach Artikel 44 der Richtlinie 2014/53/EU fest, welche Kategorien oder Klassen von Funkanlagen den Anforderungen des Absatzes 1 unterfallen.
 
-
-## § 6 – Registrierung von Funkanlagen bestimmter Kategorien
+# § 6 – Registrierung von Funkanlagen bestimmter Kategorien
 
 (1) Ab dem 12. Juni 2018 dürfen Funkanlagentypen, die zu Gerätekategorien nach Absatz 2 mit einem geringen Maß an Konformität mit den grundlegenden Anforderungen nach § 4 Absatz 1 und 2 und, soweit zutreffend, Absatz 3 aufweisen, nur noch in Verkehr gebracht werden, wenn der Hersteller sie zuvor nach Maßgabe des Artikels 5 der Richtlinie 2014/53/EU hat registrieren lassen. Die von der Kommission für jeden registrierten Funkanlagentyp vergebene Registriernummer hat der Hersteller an den Funkanlagen anzubringen.
 
@@ -212,22 +203,19 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (3) Die Registrierung und die Anbringung der Registriernummer an der Funkanlage erfolgt entsprechend den Festlegungen der Kommission gemäß Artikel 5 Absatz 3 der Richtlinie 2014/53/EU.
 
-
-## § 7 – Bereitstellung auf dem Markt, Inbetriebnahme und Nutzung
+# § 7 – Bereitstellung auf dem Markt, Inbetriebnahme und Nutzung
 
 (1) Funkanlagen dürfen nur auf dem Markt bereitgestellt, in Betrieb genommen und genutzt werden, wenn sie bei ordnungsgemäßer Installierung und Wartung sowie bei bestimmungsgemäßer Nutzung den Anforderungen dieses Gesetzes genügen.
 
 (2) Zusätzliche Anforderungen in Rechtsvorschriften zur effektiven und effizienten Nutzung des Funkspektrums, zur Vermeidung funktechnischer Störungen, zur Vermeidung elektromagnetischer Störungen oder aus Gründen der öffentlichen Gesundheit bleiben unberührt.
 
-
-## § 8 – Besondere Regelungen zum freien Warenverkehr
+# § 8 – Besondere Regelungen zum freien Warenverkehr
 
 (1) Funkanlagen, die den Anforderungen dieses Gesetzes genügen, dürfen auf dem Markt bereitgestellt werden. Beschränkungen aufgrund anderer Vorschriften sind nur zulässig, wenn sie aus Gründen erfolgen, die durch die Regelungen dieses Gesetzes nicht erfasst werden oder nicht mit ihnen im Zusammenhang stehen.
 
 (2) Ein Wirtschaftsakteur darf Funkanlagen, die den Anforderungen dieses Gesetzes nicht genügen, auf Messen, Ausstellungen und ähnlichen Veranstaltungen ausstellen, wenn er darauf hinweist, dass sie erst dann auf dem Markt bereitgestellt oder in Betrieb genommen oder genutzt werden dürfen, wenn sie den Anforderungen dieses Gesetzes genügen. Die Vorführung von Funkanlagen darf nur stattfinden, wenn geeignete Maßnahmen ergriffen wurden, um funktechnische und elektromagnetische Störungen zu vermeiden und Gefahren für die Gesundheit oder Sicherheit von Menschen oder Haus- und Nutztieren oder für Güter abzuwenden.
 
-
-## § 9 – Allgemeine Pflichten des Herstellers
+# § 9 – Allgemeine Pflichten des Herstellers
 
 (1) Wenn der Hersteller Funkanlagen in Verkehr bringt, hat er sicherzustellen, dass diese so entworfen und gebaut wurden, dass sie den grundlegenden Anforderungen des § 4 Absatz 1 und 2 und, soweit zutreffend, Absatz 3 entsprechen. Zudem hat der Hersteller sicherzustellen, dass diese Funkanlagen so gebaut sind, dass sie in mindestens einem Mitgliedstaat der Europäischen Union betrieben werden können, ohne die Vorschriften über die Nutzung des Funkspektrums zu verletzen.
 
@@ -241,8 +229,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (6) Hat der Hersteller Kenntnis davon oder Grund zu der Annahme, dass von einer Funkanlage eine Gefahr ausgeht, hat der Hersteller Stichproben von auf dem Markt bereitgestellten Funkanlagen zu nehmen und zu überprüfen, soweit dies zum Schutz der Gesundheit und der Sicherheit der Endnutzer erforderlich ist. Der Hersteller führt ein Verzeichnis der Beschwerden, der nichtkonformen Funkanlagen und der Rückrufe. Der Hersteller unterrichtet die Händler fortlaufend über diese Überwachungstätigkeiten.
 
-
-## § 10 – Kennzeichnungs- und Informationspflichten des Herstellers
+# § 10 – Kennzeichnungs- und Informationspflichten des Herstellers
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Funkanlagen beim Inverkehrbringen eine Typen-,Chargen- oder Seriennummer oder eine andere Information zu ihrer Identifikation tragen. Falls dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, hat der Hersteller dafür zu sorgen, dass die zur Identifikation erforderliche Information auf der Verpackung oder in den der Funkanlage beigefügten Unterlagen angegeben wird.
 
@@ -252,8 +239,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (4) Der Hersteller hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen in Papierform oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität der Funkanlage mit den Anforderungen dieses Gesetzes erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Hersteller hat mit der Bundesnetzagentur auf deren Verlangen bei allen Maßnahmen zur Abwehr von Gefahren zusammenzuarbeiten, die von der Funkanlage ausgehen, die er in Verkehr gebracht hat.
 
-
-## § 11 – Bevollmächtigter des Herstellers
+# § 11 – Bevollmächtigter des Herstellers
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -269,8 +255,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (4) Die Pflichten nach § 9 Absatz 1 und die Pflicht zur Erstellung der technischen Unterlagen nach Anhang II Nummer 2 oder Anhang III Modul B Nummer 3 Buchstabe c oder Anhang IV Nummer 3.1 Buchstabe b der Richtlinie 2014/53/EU kann der Hersteller nicht dem Bevollmächtigten übertragen.
 
-
-## § 12 – Allgemeine Pflichten des Einführers
+# § 12 – Allgemeine Pflichten des Einführers
 
 (1) Der Einführer darf nur Funkanlagen in Verkehr bringen, die den Anforderungen dieses Gesetzes genügen.
 
@@ -294,8 +279,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (6) Hat der Einführer Kenntnis davon oder Grund zu der Annahme, dass von der Funkanlage eine Gefahr ausgeht, hat der Einführer Stichproben von auf dem Markt bereitgestellten Funkanlagen zu nehmen und zu überprüfen, soweit dies zum Schutz der Gesundheit und der Sicherheit der Endnutzer erforderlich ist. Der Einführer führt ein Verzeichnis der Beschwerden, der nichtkonformen Funkanlagen und der Rückrufe. Der Einführer unterrichtet die Händler fortlaufend über diese Überwachungstätigkeiten.
 
-
-## § 13 – Kennzeichnungs- und Informationspflichten des Einführers
+# § 13 – Kennzeichnungs- und Informationspflichten des Einführers
 
 (1) Der Einführer hat beim Inverkehrbringen der Funkanlage seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf der Funkanlage anzugeben. Falls dies aufgrund der Größe oder der Art der Funkanlage nicht möglich ist, müssen diese Kontaktdaten auf der Verpackung oder in den der Funkanlage beigefügten Unterlagen angegeben werden. Das Anbringen auf der Verpackung oder den Unterlagen ist auch dann zulässig, wenn der Einführer die Verpackung der Funkanlage öffnen müsste, um seinen Namen oder seine Anschrift anzubringen. Die Kontaktdaten sind in einer Sprache abzufassen, die von den Endnutzern und der Bundesnetzagentur leicht verstanden werden kann. Die Postanschrift muss eine zentrale Stelle bezeichnen, über die der Einführer kontaktiert werden kann.
 
@@ -303,8 +287,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (3) Der Einführer hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen in Papierform oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität der Funkanlage erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Einführer hat mit der Bundesnetzagentur auf deren Verlangen bei allen Maßnahmen zur Abwehr von Gefahren zusammenzuarbeiten, die von der Funkanlage ausgehen, die er in Verkehr gebracht hat.
 
-
-## § 14 – Pflichten des Händlers
+# § 14 – Pflichten des Händlers
 
 (1) Der Händler darf eine Funkanlage erst auf dem Markt bereitstellen, wenn er sichergestellt hat, dass
 
@@ -324,8 +307,7 @@ b) einen Funkdienst, der im Einklang mit den geltenden internationalen, gemeinsc
 
 (5) Der Händler hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen in Papierform oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität einer Funkanlage erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Händler hat mit der Bundesnetzagentur auf deren Verlangen bei allen Maßnahmen zur Abwehr von Gefahren zusammenzuarbeiten, die von der Funkanlage ausgehen, die von ihm auf dem Markt bereitgestellt wurde.
 
-
-## § 15 – Einführer oder Händler als Hersteller
+# § 15 – Einführer oder Händler als Hersteller
 
 Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes und unterliegt den Pflichten des Herstellers nach den §§ 9 und 10, wenn er
 
@@ -333,8 +315,7 @@ Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes un
 
 2. eine auf dem Markt befindliche Funkanlage so verändert, dass die Konformität mit den Anforderungen dieses Gesetzes beeinträchtigt werden kann.
 
-
-## § 16 – Identifizierung der Wirtschaftsakteure
+# § 16 – Identifizierung der Wirtschaftsakteure
 
 (1) Die Wirtschaftsakteure sind verpflichtet, der Bundesnetzagentur auf Verlangen die Wirtschaftsakteure zu nennen,
 
@@ -344,13 +325,11 @@ Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes un
 
 (2) Die Verpflichtung zur Benennung der Wirtschaftsakteure gilt für die Dauer von zehn Jahren nach Abgabe oder Bezug der Funkanlage.
 
-
-## § 17 – Konformitätsvermutung bei Funkanlagen
+# § 17 – Konformitätsvermutung bei Funkanlagen
 
 Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen davon, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, überein, so wird widerleglich vermutet, dass die Funkanlage den von diesen Normen oder Teilen dieser Normen abgedeckten Anforderungen des § 4 genügt.
 
-
-## § 18 – Konformitätsbewertungsverfahren
+# § 18 – Konformitätsbewertungsverfahren
 
 (1) Der Hersteller hat die Konformität der Funkanlage mit den Anforderungen des § 4 Absatz 1 durch eines der folgenden Konformitätsbewertungsverfahren nachzuweisen:
 
@@ -374,8 +353,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (6) Unterliegt eine Funkanlage mehreren Rechtsakten der Europäischen Union, in denen jeweils eine EU-Konformitätserklärung vorgeschrieben ist, so stellt der Hersteller nur eine EU-Konformitätserklärung für sämtliche Rechtsakte der Europäischen Union aus. Diese Erklärung muss alle betroffenen Rechtsakte nebst Fundstelle im Amtsblatt der Europäischen Union enthalten.
 
-
-## § 19 – CE-Kennzeichnung von Funkanlagen
+# § 19 – CE-Kennzeichnung von Funkanlagen
 
 (1) Funkanlagen, deren Konformität mit den Anforderungen des § 4 im Konformitätsbewertungsverfahren nachgewiesen wurde, sind mit der CE-Kennzeichnung zu versehen. Die CE-Kennzeichnung ist anzubringen, bevor die Funkanlagen in Verkehr gebracht werden.
 
@@ -387,8 +365,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (5) In Fällen, in denen das Konformitätsbewertungsverfahren als umfassende Qualitätssicherung nach Anhang IV der Richtlinie 2014/53/EU durchgeführt wurde, muss nach der CE-Kennzeichnung die Kennnummer der notifizierten Stelle stehen. Die Kennnummer der notifizierten Stelle muss die gleiche Höhe haben wie die CE-Kennzeichnung. Die Kennnummer der notifizierten Stelle ist entweder von der notifizierten Stelle selbst anzubringen oder nach ihren Anweisungen durch den Hersteller oder seinen Bevollmächtigten.
 
-
-## § 20 – Gebrauchsanleitung und Sicherheitsinformationen, Hinweise auf Nutzungsbeschränkungen
+# § 20 – Gebrauchsanleitung und Sicherheitsinformationen, Hinweise auf Nutzungsbeschränkungen
 
 (1) Jeder Funkanlage sind eine Gebrauchsanleitung und Sicherheitsinformationen beizufügen, die zur bestimmungsgemäßen Nutzung der Funkanlage erforderlich sind. Dies schließt gegebenenfalls eine Beschreibung des Zubehörs und der Bestandteile einschließlich der Software ein. Die Gebrauchsanleitung und die Sicherheitsinformationen sowie alle Kennzeichnungen müssen klar, verständlich und deutlich sein. Bei Funkanlagen für nichtgewerbliche Nutzer müssen diese Angaben in deutscher Sprache abgefasst sein.
 
@@ -402,8 +379,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (4) Unterliegt die Inbetriebnahme einer Funkanlage Beschränkungen, so muss aus den Angaben auf der Verpackung der Funkanlage hervorgehen, in welchem Mitgliedstaat der Europäischen Union oder in welchem geografischen Gebiet innerhalb eines Mitgliedstaates diese Beschränkungen gelten. Bedarf eine Funkanlage einer Nutzungsgenehmigung, die von der Einhaltung weiterer Anforderungen abhängt, so sind die weiteren einzuhaltenden Anforderungen in der Gebrauchsanleitung vollständig anzugeben. Die Art und Weise der Darstellung der Angaben erfolgen nach den Festlegungen der Kommission nach Artikel 10 Absatz 10 Satz 3 der Richtlinie 2014/53/EU.
 
-
-## § 21 – Technische Unterlagen
+# § 21 – Technische Unterlagen
 
 (1) Die technischen Unterlagen enthalten alle einschlägigen Daten und Angaben darüber, wie der Hersteller sicherstellt, dass die Funkanlage den grundlegenden Anforderungen des § 4 genügt. Sie enthalten zumindest die in Anhang V der Richtlinie 2014/53/EU aufgeführten Elemente.
 
@@ -411,8 +387,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (3) Die technischen Unterlagen und die Korrespondenz im Zusammenhang mit EU-Baumusterprüfverfahren müssen in deutscher Sprache oder in einer Sprache, die von der jeweiligen notifizierten Stelle zugelassen ist, abgefasst sein.
 
-
-## § 22 – Notifizierende Behörde, Verordnungsermächtigung
+# § 22 – Notifizierende Behörde, Verordnungsermächtigung
 
 (1) Notifizierende Behörde ist die Bundesnetzagentur. Die Bundesnetzagentur richtet das Verfahren zur Anerkennung einer Konformitätsbewertungsstelle als notifizierte Stelle und das Verfahren zur Überwachung der notifizierten Stelle ein und führt diese Verfahren durch.
 
@@ -432,8 +407,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (3) Die Absätze 1 und 2 sind entsprechend auf Konformitätsbewertungsstellen anzuwenden, die Konformitätsbewertungen nach Abkommen mit Drittstaaten durchführen.
 
-
-## § 23 – Zuständigkeiten und Befugnisse der Bundesnetzagentur
+# § 23 – Zuständigkeiten und Befugnisse der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur führt dieses Gesetz aus, soweit nichts anderes bestimmt ist. Sie überwacht die Einhaltung der Bestimmungen dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen.
 
@@ -453,8 +427,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 7. die Rechtsverordnungen nach § 22 Absatz 2, den §§ 32, 33 Absatz 3 sowie § 35 Absatz 4 auszuführen.
 
-
-## § 24 – Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht
+# § 24 – Maßnahmen bei Funkanlagen, von denen eine Gefahr ausgeht
 
 (1) Hat die Bundesnetzagentur Grund zu der Annahme, dass eine Funkanlage die Gesundheit oder Sicherheit von Menschen oder andere im öffentlichen Interesse stehende und durch dieses Gesetz geschützte Werte wie die effektive und effiziente Nutzung des Funkspektrums oder die Vermeidung funktechnischer oder elektromagnetischer Störungen gefährdet, so prüft sie, ob die Funkanlage den Anforderungen dieses Gesetzes genügt. Die Wirtschaftsakteure sind verpflichtet, zu diesem Zweck im erforderlichen Umfang mit der Bundesnetzagentur zusammenzuarbeiten.
 
@@ -464,8 +437,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (4) Der Wirtschaftsakteur hat sicherzustellen, dass sich Korrekturmaßnahmen, die er ergreift, auf alle betroffenen Funkanlagen erstrecken, die er auf dem Markt der Europäischen Union bereitgestellt hat.
 
-
-## § 25 – Maßnahmen bei nichtkonformen Funkanlagen
+# § 25 – Maßnahmen bei nichtkonformen Funkanlagen
 
 (1) Ergreift der Wirtschaftsakteur, in dessen Verantwortungsbereich sich eine nichtkonforme Funkanlage befindet, innerhalb der in § 24 Absatz 2 Satz 1 gesetzten Frist keine geeigneten Korrekturmaßnahmen, so trifft die Bundesnetzagentur alle geeigneten Maßnahmen, um die Bereitstellung der Funkanlage auf dem deutschen Markt einzuschränken oder zu untersagen, oder sie ordnet an, dass die Funkanlage zurückgenommen oder zurückgerufen wird. Ist kein Wirtschaftsakteur im Markt der Europäischen Union ansässig, können die Maßnahmen gegen jeden gerichtet werden, der die Weitergabe im Auftrag des Wirtschaftsakteurs vornimmt.
 
@@ -477,22 +449,19 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (+++ § 25 Abs. 1 Satz 2: Zur Anwendung vgl. § 28 Abs. 3 +++)
 
-
-## § 26 – Maßnahmen auf Messen und Ausstellungen
+# § 26 – Maßnahmen auf Messen und Ausstellungen
 
 (1) Stellt die Bundesnetzagentur fest, dass eine Funkanlage, die auf Messen, Ausstellungen oder ähnlichen Veranstaltungen ausgestellt ist oder vorgeführt wird, den Anforderungen des § 8 Absatz 2 nicht genügt, so fordert sie unverzüglich den ausstellenden Wirtschaftsakteur auf, alle geeigneten Maßnahmen zu ergreifen, damit die Funkanlage den Anforderungen dieses Gesetzes genügt.
 
 (2) Ergreift der Aussteller keine geeigneten Korrekturmaßnahmen, so untersagt die Bundesnetzagentur die Vorführung oder Ausstellung der Funkanlage.
 
-
-## § 27 – Maßnahmen bei fehlerhaften technischen Unterlagen
+# § 27 – Maßnahmen bei fehlerhaften technischen Unterlagen
 
 (1) Genügen die technischen Unterlagen nicht den Anforderungen des § 21 und ergibt sich daraus, dass die vorgelegten einschlägigen Daten oder die Mittel, die zur Sicherstellung der Konformität von Funkanlagen mit den grundlegenden Anforderungen nach § 4 eingesetzt werden, nicht ausreichend sind, so kann die Bundesnetzagentur den Hersteller oder den Einführer auffordern, die Konformität auf eigene Kosten prüfen zu lassen.
 
 (2) Die Prüfung muss von einer Konformitätsbewertungsstelle durchgeführt werden, die von der Bundesnetzagentur anerkannt ist. Die Bundesnetzagentur bestimmt die Frist, innerhalb derer die Prüfung durchzuführen ist.
 
-
-## § 28 – Maßnahmen bei formaler Nichtkonformität
+# § 28 – Maßnahmen bei formaler Nichtkonformität
 
 (1) Stellt die Bundesnetzagentur eine formale Nichtkonformität fest, so fordert sie den betreffenden Wirtschaftsakteur auf, die Nichtkonformität innerhalb einer angemessenen Frist zu korrigieren.
 
@@ -516,8 +485,7 @@ Stimmt eine Funkanlage mit den einschlägigen harmonisierten Normen oder Teilen 
 
 (3) Ergreift der Wirtschaftsakteur innerhalb der gesetzten Frist keine geeigneten Korrekturmaßnahmen, so trifft die Bundesnetzagentur alle geeigneten Maßnahmen, um die Bereitstellung der Funkanlage auf dem Markt zu beschränken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt dafür, dass die Funkanlage zurückgenommen oder zurückgerufen wird. § 25 Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 29 – Pflichten der Bundesnetzagentur bei Funkanlagen, von denen eine Gefahr ausgeht
+# § 29 – Pflichten der Bundesnetzagentur bei Funkanlagen, von denen eine Gefahr ausgeht
 
 (1) Ist die Bundesnetzagentur der Auffassung, dass die nach § 24 Absatz 2 beanstandeten Funkanlagen auch in anderen Mitgliedstaaten der Europäischen Union auf dem Markt bereitgestellt werden, so unterrichtet sie die Kommission und die übrigen Mitgliedstaaten der Europäischen Union hierüber. Außerdem unterrichtet die Bundesnetzagentur die Kommission und die übrigen Mitgliedstaaten der Europäischen Union über das Ergebnis der Beurteilung nach § 24 Absatz 1 und die Maßnahmen, die zu ergreifen sie den Wirtschaftsakteur aufgefordert hat.
 
@@ -541,8 +509,7 @@ Die Bundesnetzagentur hat die von ihr nach § 25 Absatz 1 getroffenen Maßnahmen
 
 (6) Die Bundesnetzagentur widerruft die nach § 25 Absatz 1 getroffenen Maßnahmen, wenn die Kommission nach Artikel 41 Absatz 1 der Richtlinie 2014/30/EU feststellt, dass die Maßnahmen nicht gerechtfertigt sind.
 
-
-## § 30 – Pflichten der Bundesnetzagentur bei Funkanlagen, von denen eine Gefahr ausgeht, bei Maßnahmen anderer Mitgliedstaaten
+# § 30 – Pflichten der Bundesnetzagentur bei Funkanlagen, von denen eine Gefahr ausgeht, bei Maßnahmen anderer Mitgliedstaaten
 
 (1) Wird die Bundesnetzagentur von einem anderen Mitgliedstaat der Europäischen Union darüber informiert, dass dieser Mitgliedstaat nach seinen Vorschriften eine markteinschränkende Maßnahme getroffen hat, die einer der in § 25 Absatz 1 genannten Maßnahmen entspricht, so prüft sie unverzüglich, ob diese Maßnahme gerechtfertigt ist. Sie informiert die nationalen Wirtschaftsakteure in geeigneter Weise im Amtsblatt der Bundesnetzagentur über die Maßnahme des anderen Mitgliedstaates und gibt ihnen Gelegenheit zur Stellungnahme. Die Frist zur Stellungnahme beträgt vier Wochen ab der Veröffentlichung.
 
@@ -554,8 +521,7 @@ Die Bundesnetzagentur hat die von ihr nach § 25 Absatz 1 getroffenen Maßnahmen
 
 (5) Wird die Bundesnetzagentur von einem anderen Mitgliedstaat der Europäischen Union darüber informiert, dass dieser Mitgliedstaat eine markteinschränkende Maßnahme nach Artikel 42 Absatz 1 der Richtlinie 2014/53/EU veranlasst hat, so prüft sie unverzüglich, ob diese Maßnahme gerechtfertigt ist. Sie informiert die nationalen Wirtschaftsakteure in geeigneter Weise im Amtsblatt über die Maßnahme des anderen Mitgliedstaates und gibt ihnen Gelegenheit zur Stellungnahme. Die Frist zur Stellungnahme beträgt vier Wochen ab der Veröffentlichung. Das Ergebnis ihrer Prüfung teilt die Bundesnetzagentur der Kommission mit.
 
-
-## § 31 – Auskunftsrechte
+# § 31 – Auskunftsrechte
 
 (1) Die Bundesnetzagentur kann von den Wirtschaftsakteuren, von sonstigen Akteuren, die Funkanlagen ausstellen, betreiben, lagern oder die Weitergabe von Funkanlagen vermittelnd unterstützen, und von den notifizierten Stellen die zur Erfüllung ihrer Aufgaben erforderlichen Auskünfte und sonstige Unterstützung unentgeltlich verlangen. Die Auskunftspflichtigen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -577,15 +543,13 @@ Sie dürfen die Funkanlagen besichtigen und prüfen, zur Prüfung betreiben lass
 
 (3) Die Auskunftspflichtigen haben die Maßnahmen nach Absatz 2 zu dulden.
 
-
-## § 32 – Schutz von Personen vor elektromagnetischen Feldern
+# § 32 – Schutz von Personen vor elektromagnetischen Feldern
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Regelungen zur Gewährleistung des Schutzes von Personen in den durch den Betrieb von Funkanlagen und Radaranlagen entstehenden elektromagnetischen Feldern zu treffen. Immissionsschutzrechtliche und arbeitsschutzrechtliche Regelungen bleiben hiervon unberührt.
 
 (+++ § 32: Zur Anwendung vgl. § 2 Abs. 1 +++)
 
-
-## § 33 – Bereitstellung von Schnittstellenbeschreibungen durch die Bundesnetzagentur
+# § 33 – Bereitstellung von Schnittstellenbeschreibungen durch die Bundesnetzagentur
 
 (1) Die Bundesnetzagentur stellt für Funkanlagen, die in Frequenzbändern betrieben werden, deren Nutzungsbedingungen nicht gemeinschaftsweit harmonisiert sind, konkrete und angemessene Beschreibungen der Funkschnittstellen bereit. Die Schnittstellenbeschreibungen enthalten Angaben, die erforderlich sind, damit der Hersteller die jeweiligen Prüfungen in Bezug auf die für die jeweilige Funkanlage geltenden grundlegenden Anforderungen nach eigener Wahl durchführen kann. Die Bundesnetzagentur verfügt die Inkraftsetzung der Schnittstellenbeschreibungen in ihrem Amtsblatt und veröffentlicht dort deren Fundstellen. Die Bundesnetzagentur veröffentlicht in ihrem Amtsblatt ferner eine Übersicht der Frequenzbänder, bei denen die Bedingungen der Nutzung für Funkanlagen gemeinschaftsweit harmonisiert sind.
 
@@ -597,13 +561,11 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 (3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die von der Kommission nach Artikel 8 Absatz 2 der Richtlinie 2014/53/EU festgestellten Äquivalenzen mitgeteilter nationaler Schnittstellen und die vergebenen Funkanlagenklassen-Kennungen verbindlich zu bestimmen. Für den Bereich der Schifffahrt, den Bereich des Eisenbahnwesens und den Bereich der Luftfahrt erfolgt dies im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
-
-## § 34 – Zwangsgeld
+# § 34 – Zwangsgeld
 
 Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach § 24 Absatz 2 und 3, § 25 Absatz 1 sowie den §§ 26 bis 29 und 31 ein Zwangsgeld von bis zu 500 000 Euro festsetzen.
 
-
-## § 35 – Beiträge, Verordnungsermächtigung
+# § 35 – Beiträge, Verordnungsermächtigung
 
 (1) Senderbetreiber haben einen Jahresbeitrag zur Abgeltung der Kosten für Maßnahmen nach den §§ 24 bis 29 zu entrichten.
 
@@ -617,15 +579,13 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach § 24 Absatz 2 
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den Kreis der Beitragspflichtigen, die Beitragssätze und das Verfahren der Beitragserhebung einschließlich der Zahlungsweise und der Zahlungsfristen zu bestimmen. Das Bundesministerium für Wirtschaft und Energie kann diese Ermächtigung durch Rechtsverordnung auf die Bundesnetzagentur übertragen.
 
-
-## § 36 – Vorverfahren
+# § 36 – Vorverfahren
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur haben keine aufschiebende Wirkung.
 
 (2) Die Kosten des Vorverfahrens richten sich nach § 146 des Telekommunikationsgesetzes.
 
-
-## § 37 – Bußgeldvorschriften
+# § 37 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -663,7 +623,6 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach § 24 Absatz 2 
 
 (+++ § 37 Abs. 1 Nr. 14: Zur Anwendung vgl. § 2 Abs. 1 +++)
 
-
-## § 38 – Übergangsbestimmung
+# § 38 – Übergangsbestimmung
 
 Funkanlagen, auf die dieses Gesetz anzuwenden ist und die mit den bis zum 13. Juni 2016 geltenden Bestimmungen in Einklang stehen und vor dem 13. Juni 2017 in Verkehr gebracht werden, dürfen auf dem Markt bereitgestellt und in Betrieb genommen werden. Funkanlagen, die mit bislang geltenden harmonisierten Normen übereinstimmen, dürfen auch nach dem 12. Juni 2017 bis zur Veröffentlichung aktueller harmonisierter Normen in Verkehr gebracht werden.

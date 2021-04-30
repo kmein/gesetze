@@ -1,10 +1,7 @@
-# [RHBG] Gesetz über die Haftung des Reichs für seine Beamten
-
-Ausfertigungsdatum: 22.05.1910
-
+% Gesetz über die Haftung des Reichs für seine Beamten
+% Ausfertigungsdatum: 22.05.1910
  
-
-## § 1
+# § 1
 
 (1) Verletzt ein Reichsbeamter in Ausübung der ihm anvertrauten öffentlichen Gewalt vorsätzlich oder fahrlässig die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die in § 839 des Bürgerlichen Gesetzbuchs bestimmte Verantwortlichkeit an Stelle des Beamten das Reich.
 
@@ -12,25 +9,21 @@ Ausfertigungsdatum: 22.05.1910
 
 (3) Personen des Soldatenstandes mit Ausnahme derjenigen des Königlich Bayerischen Kontingents stehen im Sinne dieses Gesetzes den Reichsbeamten gleich.
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 (1) Für die Ansprüche, welche auf Grund dieses Gesetzes gegen das Reich erhoben werden, sind die Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
 (2) In bürgerlichen Rechtsstreitigkeiten, in welchen durch Klage oder Widerklage ein Anspruch auf Grund dieses Gesetzes geltend gemacht ist, wird die Verhandlung und Entscheidung letzter Instanz im Sinne des § 8 des Einführungsgesetzes zum Gerichtsverfassungsgesetze dem Bundesgerichtshof zugewiesen.
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5
+# § 5
 
 Die Vorschriften dieses Gesetzes finden keine Anwendung:
 
@@ -38,13 +31,11 @@ Die Vorschriften dieses Gesetzes finden keine Anwendung:
 
 2. soweit es sich um das Verhalten eines mit Angelegenheiten des auswärtigen Dienstes befaßten Beamten handelt und dieses Verhalten nach einer amtlichen Erklärung des Reichskanzlers politischen oder internationalen Rücksichten entsprochen hat.
 
-
-## § 6
+# § 6
 
 Unberührt bleiben die Vorschriften anderer Reichsgesetze, soweit sie für bestimmte Fälle die Haftung des Reichs über einen gewissen Umfang hinaus ausschließen.
 
-
-## § 7
+# § 7
 
 (1) Die Bundesregierung kann zur Herstellung der Gegenseitigkeit durch Rechtsverordnung bestimmen, daß einem ausländischen Staat und seinen Angehörigen, die im Geltungsbereich dieses Gesetzes keinen Wohnsitz oder ständigen Aufenthalt haben, Ansprüche aus diesem Gesetz nicht zustehen, wenn der Bundesrepublik Deutschland oder Deutschen nach dem ausländischen Recht bei vergleichbaren Schädigungen kein gleichwertiger Schadensausgleich von dem ausländischen Staat geleistet wird. Angehörigen eines ausländischen Staates stehen juristische Personen sowie Gesellschaften und Vereinigungen des bürgerlichen Rechts oder des Handelsrechts gleich; an die Stelle des Wohnsitzes oder des ständigen Aufenthaltsortes tritt bei ihnen der tatsächliche und, wenn ein solcher bestimmt ist, der satzungsmäßige Sitz.
 

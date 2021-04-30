@@ -1,15 +1,11 @@
-# [SchildlV] Verordnung zur Bekämpfung der San-Jose-Schildlaus
-
-Ausfertigungsdatum: 20.04.1972
-
+% Verordnung zur Bekämpfung der San-Jose-Schildlaus
+% Ausfertigungsdatum: 20.04.1972
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3, 5, 7, 8, 12 und 13 des Pflanzenschutzgesetzes vom 10. Mai 1968 (Bundesgesetzbl. I S. 352), zuletzt geändert durch das Gesetz zur Änderung des Pflanzenschutzgesetzes vom 27. Juli 1971 (Bundesgesetzbl. I S. 1161), wird im Einvernehmen mit dem Bundesminister für Jugend, Familie und Gesundheit mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 (1) Verfügungsberechtigte und Besitzer von Wirtspflanzen außer Früchten und Samen sind verpflichtet, der zuständigen Behörde das Auftreten und den Verdacht des Auftretens der San-Jose-Schildlaus (Quadraspidiotus perniciosus Comst.) unter Angabe des Standorts unverzüglich zu melden.
 
@@ -17,18 +13,15 @@ Auf Grund des § 3 Abs. 1 Nr. 1, 3, 5, 7, 8, 12 und 13 des Pflanzenschutzgesetze
 
 (3) Wirtspflanzen sind Pflanzen der Gattungen Acer L., Cotoneaster Ehrh., Crataegus L., Cydonia Mill., Euonymus L., Fagus L., Juglans L., Ligustrum L., Malus Mill., Populus L., Prunus L., Pyrus L., Ribes L., Rosa L., Salix L., Sorbus L., Syringa L., Tilia L., Ulmus L. und Vitis L..
 
-
-## § 2
+# § 2
 
 Wird das Auftreten der San-Jose-Schildlaus festgestellt, so grenzt die zuständige Behörde das befallene Gebiet ab. Sie grenzt ferner unter Berücksichtigung der örtlichen Gegebenheiten um das befallene Gebiet herum eine Sicherheitszone ab, soweit dies zum Schutz des benachbarten Gebietes erforderlich ist.
 
-
-## § 3
+# § 3
 
 In den befallenen Gebieten und in den Sicherheitszonen sind die Verfügungsberechtigten und Besitzer von Wirtspflanzen verpflichtet, an den Wirtspflanzen die San-Jose-Schildlaus ohne Rücksicht auf ihr tatsächliches Vorhandensein zu bekämpfen, soweit nicht die zuständige Behörde die San-Jose-Schildlaus bekämpft oder feststellt, daß durch andere Maßnahmen eine ausreichende Bekämpfung sichergestellt ist.
 
-
-## § 4
+# § 4
 
 (1) Befallene Pflanzen sind zu vernichten, wenn sie sich in Baumschulen oder anderen Kulturen befinden, in denen Wirtspflanzen gezogen werden, die zum Verpflanzen, zur Vermehrung oder zum Vertrieb als bewurzelte Pflanzen bestimmt sind.
 
@@ -38,25 +31,21 @@ In den befallenen Gebieten und in den Sicherheitszonen sind die Verfügungsberec
 
 (4) Eine Pflanze gilt als befallen, wenn sich an ihr mindestens eine San-Jose-Schildlaus befindet, die nicht nachweislich tot ist.
 
-
-## § 5
+# § 5
 
 (1) Wird bei Partien von Pflanzen, die nicht mit dem Erdboden verwurzelt sind, einschließlich frischer Früchte, ein Befall festgestellt, so sind die befallenen Pflanzen zu vernichten. Die übrigen Pflanzen sind so zu behandeln oder zu verarbeiten, daß die etwa noch vorhandenen San-Jose-Schildläuse vernichtet werden.
 
 (2) Absatz 1 gilt nicht für Partien frischer Früchte mit geringfügigem Befall.
 
-
-## § 6
+# § 6
 
 Die zuständige Behörde hebt die Abgrenzungen nach § 2 auf, wenn sie bei einer erneuten Untersuchung keinen Befall feststellt.
 
-
-## § 7
+# § 7
 
 Das Züchten und Halten der San-Jose-Schildlaus sowie das Arbeiten mit diesem Schadorganismus sind verboten.
 
-
-## § 8
+# § 8
 
 Die zuständige Behörde kann
 
@@ -66,13 +55,11 @@ Die zuständige Behörde kann
 
 soweit hierdurch die Bekämpfung der San-Jose-Schildlaus nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieses Schadorganismus entsteht.
 
-
-## § 9
+# § 9
 
 Unberührt bleibt die Befugnis der Landesregierungen, durch Rechtsverordnung nach § 3 Abs. 3 des Pflanzenschutzgesetzes ergänzende und weitergehende Vorschriften zur Bekämpfung der San-Jose-Schildlaus zu erlassen und diese Befugnis weiter zu übertragen.
 
-
-## § 10
+# § 10
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -92,12 +79,10 @@ Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschu
 
 8. einer mit einer Genehmigung nach § 8 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 11
+# § 11
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

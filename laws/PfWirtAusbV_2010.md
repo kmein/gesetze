@@ -1,25 +1,19 @@
-# [PfWirtAusbV 2010] Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
-
-Ausfertigungsdatum: 07.06.2010
-
+% Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
+% Ausfertigungsdatum: 07.06.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Pferdewirt/Pferdewirtin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Ausbildung
+# § 3 – Struktur der Ausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen
 
@@ -33,8 +27,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 5. Spezialreitweisen.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -143,8 +136,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6. Qualitätssichernde Maßnahmen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 11 nachzuweisen.
 
@@ -152,8 +144,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben jeweils einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -205,8 +196,7 @@ und dabei fachliche Regelwerke umsetzen, Arbeiten kontrollieren und dokumentiere
 
 3. die Prüfungszeit beträgt 60 Minuten; innerhalb dieser Zeit soll das Fachgespräch in höchstens 15 Minuten durchgeführt werden.
 
-
-## § 7 – Abschlussprüfung in der Fachrichtung Pferdehaltung und Service
+# § 7 – Abschlussprüfung in der Fachrichtung Pferdehaltung und Service
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu Grunde zu legen.
 
@@ -350,8 +340,7 @@ bewertet worden sind.
 
 (11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 8 – Abschlussprüfung in der Fachrichtung Pferdezucht
+# § 8 – Abschlussprüfung in der Fachrichtung Pferdezucht
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu Grunde zu legen.
 
@@ -476,8 +465,7 @@ bewertet worden sind.
 
 (11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Abschlussprüfung in der Fachrichtung Klassische Reitausbildung
+# § 9 – Abschlussprüfung in der Fachrichtung Klassische Reitausbildung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu Grunde zu legen.
 
@@ -604,8 +592,7 @@ bewertet worden sind.
 
 (11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Pferderennen
+# § 10 – Abschlussprüfung in der Fachrichtung Pferderennen
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu Grunde zu legen.
 
@@ -730,8 +717,7 @@ bewertet worden sind.
 
 (11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 11 – Abschlussprüfung in der Fachrichtung Spezialreitweisen
+# § 11 – Abschlussprüfung in der Fachrichtung Spezialreitweisen
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zu Grunde zu legen.
 
@@ -852,18 +838,15 @@ bewertet worden sind.
 
 (11) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 12 – Bestehende Berufsausbildungsverhältnisse
+# § 12 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Pferdewirt vom 1. November 1975 (BGBl. I S. 2719), die durch Artikel 1 Nummer 7 der Verordnung vom 20. Juli 1979 (BGBl. I S. 1145) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 
 (Fundstelle: BGBl. I 2010, 738 - 747;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

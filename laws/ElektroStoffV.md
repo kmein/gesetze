@@ -1,10 +1,7 @@
-# [ElektroStoffV] Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten ,   (Elektro- und Elektronikgeräte-Stoff-Verordnung - ElektroStoffV)
-
-Ausfertigungsdatum: 19.04.2013
-
+% Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten ,   (Elektro- und Elektronikgeräte-Stoff-Verordnung - ElektroStoffV)
+% Ausfertigungsdatum: 19.04.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -14,8 +11,7 @@ des § 24 Nummer 1 und 2 und des § 65 Absatz 1 jeweils in Verbindung mit § 67 
 –  
 des § 8 Absatz 1 Satz 1 und 2 Nummer 1 Buchstabe b und e und Nummer 2 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2179) verordnet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Wirtschaft und Technologie, dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium der Verteidigung nach Anhörung des Ausschusses für Produktsicherheit:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Inverkehrbringen und das Bereitstellen von neuen Elektro- und Elektronikgeräten auf dem Markt. Elektro- und Elektronikgeräte werden in die folgenden Kategorien unterteilt:
 
@@ -73,8 +69,7 @@ c) nur durch gleichartige Geräte ersetzt werden können,
 
 (3) Soweit auf Grund anderer Rechtsvorschriften besondere Anforderungen an die Verwendung der durch diese Verordnung beschränkten Stoffe in Elektro- und Elektronikgeräten bestehen, gelten diese Rechtsvorschriften,
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
@@ -208,8 +203,7 @@ b) ausschließlich bei einer beruflichen Tätigkeit genutzt werden und
 
 c) beim Betrieb entweder beweglich sind oder kontinuierlich oder halbkontinuierlich zu verschiedenen festen Betriebsorten bewegt werden.
 
-
-## § 3 – Voraussetzungen für das Inverkehrbringen
+# § 3 – Voraussetzungen für das Inverkehrbringen
 
 (1) Elektro- und Elektronikgeräte einschließlich Kabeln und Ersatzteilen dürfen nur in Verkehr gebracht werden, wenn die zulässigen Höchstkonzentrationen folgender Stoffe nicht überschritten werden:
 
@@ -251,8 +245,7 @@ Ist nach anderen geltenden Rechtsvorschriften der Europäischen Union die Durchf
 
 (4) Absatz 1 Nummer 1 Buchstabe f bis h gilt nicht für Spielzeug, das bereits gemäß Eintrag 51 in Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2015/1494 (ABl. L 233 vom 5.9.2015, S. 2) geändert worden ist, einer Beschränkung unterliegt.
 
-
-## § 4 – Allgemeine Pflichten des Herstellers
+# § 4 – Allgemeine Pflichten des Herstellers
 
 (1) Der Hersteller darf nur Elektro- und Elektronikgeräte in Verkehr bringen, die die Anforderungen des § 3 Absatz 1 erfüllen.
 
@@ -264,8 +257,7 @@ Ist nach anderen geltenden Rechtsvorschriften der Europäischen Union die Durchf
 
 (5) Besteht Grund zu der Annahme, dass ein vom Hersteller in Verkehr gebrachtes Elektro- oder Elektronikgerät nicht den Anforderungen des § 3 entspricht, hat der Hersteller unverzüglich Maßnahmen zu ergreifen, durch die die Konformität dieses Geräts hergestellt wird; wenn dies nicht möglich ist, muss der Hersteller erforderlichenfalls das Elektro- oder Elektronikgerät vom Markt nehmen oder zurückrufen. Er muss unverzüglich die zuständigen Behörden darüber informieren und ausführliche Angaben machen, insbesondere über die Nichtkonformität und die ergriffenen Maßnahmen.
 
-
-## § 5 – Besondere Kennzeichnungs- und Informationspflichten des Herstellers
+# § 5 – Besondere Kennzeichnungs- und Informationspflichten des Herstellers
 
 (1) Der Hersteller muss sicherstellen, dass seine Elektro- und Elektronikgeräte zur Identifikation eine Typen-, Chargen- oder Seriennummer oder ein anderes Kennzeichen tragen. Falls dies auf Grund der Größe oder Art des Geräts nicht möglich ist, muss der Hersteller die erforderlichen Informationen auf der Verpackung oder in den Unterlagen, die dem Gerät beigefügt sind, angeben.
 
@@ -275,8 +267,7 @@ Ist nach anderen geltenden Rechtsvorschriften der Europäischen Union die Durchf
 
 (4) Der Hersteller muss ein Verzeichnis seiner nichtkonformen Elektro- und Elektronikgeräte sowie der diesbezüglichen Rückrufe und Rücknahmen führen und die Vertreiber über die in diesem Verzeichnis gelisteten Elektro- und Elektronikgeräte in regelmäßigen Abständen informieren.
 
-
-## § 6 – Ermächtigung eines Bevollmächtigten
+# § 6 – Ermächtigung eines Bevollmächtigten
 
 (1) Ein Hersteller kann schriftlich einen Bevollmächtigten ermächtigen.
 
@@ -296,8 +287,7 @@ Ist nach anderen geltenden Rechtsvorschriften der Europäischen Union die Durchf
 
 (4) Der Bevollmächtigte muss die ihm übertragenen Aufgaben gegenüber den Marktüberwachungsbehörden wahrnehmen.
 
-
-## § 7 – Verpflichtungen des Importeurs
+# § 7 – Verpflichtungen des Importeurs
 
 (1) Der Importeur muss sich, bevor er ein Elektro- oder Elektronikgerät in Verkehr bringt, vergewissern, dass der Hersteller durch ein Verfahren nach § 3 Absatz 2 Satz 1 Nummer 2 oder Satz 2 nachgewiesen hat, dass das Elektro- oder Elektronikgerät die Anforderungen nach § 3 Absatz 1 erfüllt. Hierbei hat der Importeur insbesondere zu prüfen, ob
 
@@ -319,8 +309,7 @@ Besteht Grund zu der Annahme, dass ein Elektro- oder Elektronikgerät nicht die 
 
 (6) Der Importeur ist verpflichtet, der zuständigen Behörde auf deren begründetes Verlangen alle Informationen und Unterlagen zur Verfügung zu stellen, die erforderlich sind, um die Konformität des in Verkehr gebrachten Elektro- oder Elektronikgeräts mit den Anforderungen des § 3 nachzuweisen. Die Informationen und Unterlagen sind in deutscher oder englischer Sprache zu verfassen. Der Importeur hat mit dieser Behörde auf deren Verlangen bei allen erforderlichen Maßnahmen zu kooperieren, die sicherstellen sollen, dass das von ihm in Verkehr gebrachte Gerät die Anforderungen dieser Verordnung einhält.
 
-
-## § 8 – Verpflichtungen des Vertreibers
+# § 8 – Verpflichtungen des Vertreibers
 
 (1) Der Vertreiber muss, bevor er ein Elektro- und Elektronikgerät auf dem Markt bereitstellt, mit der erforderlichen Sorgfalt prüfen, ob dieses die Anforderungen nach § 3 erfüllt. Er hat insbesondere zu prüfen, ob
 
@@ -334,8 +323,7 @@ Besteht Grund zu der Annahme, dass ein Elektro- oder Elektronikgerät nicht die 
 
 (3) Der Vertreiber hat der zuständigen Behörde auf deren begründetes Verlangen alle ihm vorliegenden Informationen und Unterlagen auszuhändigen, die für den Nachweis der Konformität von Elektro- und Elektronikgeräten mit den Anforderungen des § 3 erforderlich sind. Der Vertreiber hat mit dieser Behörde auf deren Verlangen bei allen Maßnahmen zu kooperieren, die sicherstellen sollen, dass das von ihm auf dem Markt bereitgestellte Gerät die Anforderungen des § 3 erfüllt.
 
-
-## § 9 – Umstände, unter denen die Verpflichtungen des Herstellers auch für den Importeur und den Vertreiber gelten
+# § 9 – Umstände, unter denen die Verpflichtungen des Herstellers auch für den Importeur und den Vertreiber gelten
 
 Ein Importeur oder Vertreiber gilt für die Zwecke dieser Verordnung als Hersteller und hat die Verpflichtungen für Hersteller gemäß den §§ 4, 5 und 11 einzuhalten, wenn er
 
@@ -343,8 +331,7 @@ Ein Importeur oder Vertreiber gilt für die Zwecke dieser Verordnung als Herstel
 
 2. ein bereits in Verkehr gebrachtes Elektro- oder Elektronikgerät so verändert, dass die Erfüllung der sich aus dieser Verordnung ergebenden Anforderungen beeinträchtigt werden kann.
 
-
-## § 10 – Benennung der Wirtschaftsakteure
+# § 10 – Benennung der Wirtschaftsakteure
 
 (1) Jeder Wirtschaftsakteur hat den zuständigen Behörden auf deren Verlangen diejenigen Wirtschaftsakteure zu benennen,
 
@@ -354,8 +341,7 @@ Ein Importeur oder Vertreiber gilt für die Zwecke dieser Verordnung als Herstel
 
 (2) Der Hersteller muss die in Absatz 1 genannten Informationen über einen Zeitraum von zehn Jahren ab dem Inverkehrbringen bereithalten. Die übrigen Wirtschaftsakteure müssen die in Absatz 1 genannten Informationen über einen Zeitraum von zehn Jahren nach der Abgabe des Elektro- oder Elektronikgeräts bereithalten.
 
-
-## § 11 – EU-Konformitätserklärung
+# § 11 – EU-Konformitätserklärung
 
 (1) Mit der Ausstellung der EU-Konformitätserklärung bestätigt der Hersteller, dass
 
@@ -373,15 +359,13 @@ Ein Importeur oder Vertreiber gilt für die Zwecke dieser Verordnung als Herstel
 
 Eine unterzeichnete Version muss nach Wahl des Herstellers entweder in deutscher oder englischer Sprache vorgehalten werden. Sie ist auf Verlangen der zuständigen Behörde in die deutsche Sprache zu übersetzen.
 
-
-## § 12 – CE-Kennzeichnung
+# § 12 – CE-Kennzeichnung
 
 (1) Für die CE-Kennzeichnung gelten die allgemeinen Grundsätze gemäß Artikel 30 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30).
 
 (2) Die CE-Kennzeichnung ist sichtbar, lesbar und dauerhaft auf dem fertigen Elektro- oder Elektronikgerät oder seiner Datenplakette anzubringen. Falls dies auf Grund der Größe oder Art des Elektro- oder Elektronikgeräts nicht möglich ist, wird sie auf der Verpackung und den Begleitunterlagen angebracht.
 
-
-## § 13 – Konformitätsvermutung
+# § 13 – Konformitätsvermutung
 
 (1) Bei einem Elektro- oder Elektronikgerät, das mit der CE-Kennzeichnung versehen ist, gehen die Marktüberwachungsbehörden davon aus, dass das Gerät die Anforderungen nach § 3 Absatz 1, 2 Satz 1 Nummer 1, 2 und 3 und Satz 2 erfüllt.
 
@@ -391,8 +375,7 @@ Eine unterzeichnete Version muss nach Wahl des Herstellers entweder in deutscher
 
 2. sie nach harmonisierten Normen bewertet wurden, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 1 ein Elektro- oder Elektronikgerät in Verkehr bringt.
 
@@ -406,8 +389,7 @@ Eine unterzeichnete Version muss nach Wahl des Herstellers entweder in deutscher
 
 4. entgegen § 5 Absatz 3 Satz 1, § 7 Absatz 6 Satz 1 oder § 8 Absatz 3 Satz 1 eine dort genannte Information oder eine dort genannte Unterlage nicht, nicht vollständig oder nicht rechtzeitig aushändigt oder nicht, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
-
-## § 15 – Übergangsvorschriften
+# § 15 – Übergangsvorschriften
 
 (1) (weggefallen)
 
@@ -455,12 +437,10 @@ Eine unterzeichnete Version muss nach Wahl des Herstellers entweder in deutscher
 
 6. sonstigen Elektro- und Elektronikgeräten ausgebaut werden, die vor dem Inkrafttreten dieser Verordnung nicht in den Anwendungsbereich des bis zum 23. Oktober 2015 geltenden Elektro- und Elektronikgerätegesetzes fielen, bis zum Ablauf des 21. Juli 2019 in Verkehr gebracht werden und in Elektro- und Elektronikgeräten wiederverwendet werden, die bis zum Ablauf des 21. Juli 2029 in Verkehr gebracht werden.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am 9. Mai 2013 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

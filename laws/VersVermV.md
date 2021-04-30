@@ -1,12 +1,7 @@
-# [VersVermV] Verordnung über die Versicherungsvermittlung und -beratung  (Versicherungsvermittlungsverordnung - VersVermV)
-
-Ausfertigungsdatum: 17.12.2018
-
+% Verordnung über die Versicherungsvermittlung und -beratung  (Versicherungsvermittlungsverordnung - VersVermV)
+% Ausfertigungsdatum: 17.12.2018
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -32,8 +27,9 @@ Ausfertigungsdatum: 17.12.2018
 
  
 
+ 
 
-## § 1 – Zusätzliche Angaben bei der Antragstellung
+# § 1 – Zusätzliche Angaben bei der Antragstellung
 
 (1) Mit einem Antrag auf Erteilung einer Erlaubnis nach § 34d Absatz 1 oder 2 der Gewerbeordnung hat der Antragsteller der zuständigen Industrie- und Handelskammer zum Zwecke der späteren Überwachung des Erlaubnisinhabers zusätzlich folgende Angaben zu übermitteln:
 
@@ -45,8 +41,7 @@ Ausfertigungsdatum: 17.12.2018
 
 (2) Änderungen der Angaben nach Absatz 1, die nach Erteilung der Erlaubnis eintreten, hat der Antragsteller der zuständigen Industrie- und Handelskammer unverzüglich mitzuteilen.
 
-
-## § 2 – Sachkundeprüfung
+# § 2 – Sachkundeprüfung
 
 (1) Gegenstand der Sachkundeprüfung nach § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung sind die erforderlichen Kenntnisse und Fähigkeiten auf folgenden Gebieten und deren praktische Anwendung:
 
@@ -74,8 +69,7 @@ c) Produktdarstellung und Information.
 
 (3) Personen, die seit dem 31. August 2000 selbständig oder unselbständig ununterbrochen als Versicherungsvermittler oder als Versicherungsberater tätig sind, bedürfen keiner Sachkundeprüfung. Personen, die vor dem 1. Januar 2009 eine Erlaubnis nach § 34d Absatz 1 oder nach § 34e Absatz 1 der Gewerbeordnung in der zu dem vorstehend genannten Zeitpunkt geltenden Fassung beantragt haben, bedürfen auch im Falle einer nach der Antragstellung eingetretenen Unterbrechung ihrer Tätigkeit als Versicherungsvermittler oder Versicherungsberater keiner Sachkundeprüfung.
 
-
-## § 3 – Zuständige Stelle und Prüfungsausschuss
+# § 3 – Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer abgelegt werden.
 
@@ -83,8 +77,7 @@ c) Produktdarstellung und Information.
 
 (3) Mehrere Industrie- und Handelskammern können im Rahmen des § 10 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern Vereinbarungen zur gemeinsamen Durchführung der Sachkundeprüfung, insbesondere über einen gemeinsamen Prüfungsausschuss, schließen.
 
-
-## § 4 – Prüfung, Verfahren
+# § 4 – Prüfung, Verfahren
 
 (1) Die Sachkundeprüfung besteht aus einem schriftlichen und einem praktischen Teil. Die Teilnahme am praktischen Teil der Prüfung setzt das Bestehen des schriftlichen Teils voraus.
 
@@ -150,8 +143,7 @@ der erreichbaren Punkte erzielt. Der praktische Teil der Prüfung ist bestanden,
 
 (9) Die Einzelheiten des Prüfungsverfahrens regeln die Industrie- und Handelskammern nach Maßgabe des § 32 Absatz 1 Satz 2 der Gewerbeordnung durch Satzung.
 
-
-## § 5 – Gleichstellung anderer Berufsqualifikationen
+# § 5 – Gleichstellung anderer Berufsqualifikationen
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer sind der Sachkundeprüfung gleichgestellt:
 
@@ -189,13 +181,11 @@ wenn zusätzlich eine mindestens zweijährige Berufserfahrung im Bereich der Ver
 
 (2) Der erfolgreiche Abschluss eines mathematischen, wirtschaftswissenschaftlichen oder rechtswissenschaftlichen Studiums an einer Hochschule oder Berufsakademie wird als Sachkundenachweis anerkannt, wenn in der Regel zusätzlich eine mindestens dreijährige Berufserfahrung im Bereich der Versicherungsvermittlung oder der Versicherungsberatung nachgewiesen wird.
 
-
-## § 6 – Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
+# § 6 – Anerkennung von ausländischen Befähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 2 und 4 und gleichen die Kenntnisse, Fähigkeiten und Kompetenzen, die die antragstellende Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworben hat, diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
 
-
-## § 7 – Weiterbildung
+# § 7 – Weiterbildung
 
 (1) Durch die Weiterbildung erbringen die nach § 34d Absatz 9 Satz 2 der Gewerbeordnung zur Weiterbildung Verpflichteten den Nachweis, dass sie ihre berufliche Handlungsfähigkeit erhalten, anpassen oder erweitern. Die Weiterbildung muss dabei mindestens den Anforderungen der ausgeübten Tätigkeiten des zur Weiterbildung Verpflichteten entsprechen und die Aufrechterhaltung seiner Fachkompetenz und seiner personalen Kompetenz gewährleisten. Die Weiterbildung kann in Präsenzform, im Selbststudium, durch betriebsinterne Maßnahmen des Gewerbetreibenden oder in einer anderen geeigneten Form durchgeführt werden. Bei Weiterbildungsmaßnahmen im Selbststudium ist eine nachweisbare Lernerfolgskontrolle durch den Anbieter der Weiterbildung erforderlich. Der Anbieter muss sicherstellen, dass der Weiterbildungsmaßnahme eine Planung zugrunde liegt, sie systematisch organisiert ist und die Qualifikation derjenigen, die die Weiterbildung durchführen, gewährleistet wird. Die Anforderungen an die Qualität der Weiterbildungsmaßnahme bestimmen sich nach der Anlage 3. Der Erwerb einer der in § 5 aufgeführten Berufsqualifikationen gilt als Weiterbildung.
 
@@ -211,8 +201,7 @@ Die Nachweise und Unterlagen sind fünf Jahre auf einem dauerhaften Datenträger
 
 (3) Die zuständige Industrie- und Handelskammer kann anordnen, dass der Gewerbetreibende ihr gegenüber eine unentgeltliche Erklärung mit dem Inhalt nach dem Muster der Anlage 4 über die Erfüllung der Weiterbildungspflicht im vorangegangenen Kalenderjahr durch ihn und seine zur Weiterbildung verpflichteten Beschäftigten abgibt. Die Erklärung kann elektronisch erfolgen.
 
-
-## § 8 – Angaben zur Speicherung im Vermittlerregister
+# § 8 – Angaben zur Speicherung im Vermittlerregister
 
 Im Vermittlerregister nach § 11a der Gewerbeordnung werden folgende Angaben zu den Eintragungspflichtigen gespeichert:
 
@@ -260,8 +249,7 @@ c) als Versicherungsberater mit Erlaubnis nach § 34d Absatz 2 der Gewerbeordnun
 
 Ist der Eintragungspflichtige eine juristische Person, so werden auch der Name und der Vorname der natürlichen Personen gespeichert, die innerhalb des für die Geschäftsführung verantwortlichen Organs für die Vermittlertätigkeiten zuständig sind.
 
-
-## § 9 – Mitteilungspflichten
+# § 9 – Mitteilungspflichten
 
 (1) Der Eintragungspflichtige hat der Registerbehörde die nach § 8 einzutragenden Angaben mitzuteilen. Änderungen der Angaben nach § 8 hat der Eintragungspflichtige der Registerbehörde unverzüglich mitzuteilen.
 
@@ -271,18 +259,15 @@ Ist der Eintragungspflichtige eine juristische Person, so werden auch der Name u
 
 (4) Die Registerbehörde unterrichtet den Eintragungspflichtigen und im Falle des § 48 Absatz 5 des Versicherungsaufsichtsgesetzes zusätzlich das Versicherungsunternehmen unverzüglich über eine Datenlöschung nach § 11a Absatz 3 Satz 2 der Gewerbeordnung.
 
-
-## § 10 – Zugang
+# § 10 – Zugang
 
 Die Angaben nach § 8 Satz 1 Nummer 2 und 8 dürfen nicht automatisiert abgerufen werden. Die Registerbehörde darf zu diesen Angaben nur den in § 11a Absatz 7 der Gewerbeordnung genannten Behörden Auskunft erteilen.
 
-
-## § 11 – Geltungsbereich der Versicherung
+# § 11 – Geltungsbereich der Versicherung
 
 Die Berufshaftpflichtversicherung nach § 34d Absatz 5 Satz 1 Nummer 3 der Gewerbeordnung muss für das gesamte Gebiet der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gelten.
 
-
-## § 12 – Umfang der Versicherung
+# § 12 – Umfang der Versicherung
 
 (1) Die Versicherung nach § 34d Absatz 5 Satz 1 Nummer 3 der Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen abgeschlossen werden.
 
@@ -294,8 +279,7 @@ Die Berufshaftpflichtversicherung nach § 34d Absatz 5 Satz 1 Nummer 3 der Gewer
 
 (5) Von der Versicherung kann die Haftung für Ersatzansprüche wegen wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
 
-
-## § 13 – Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
+# § 13 – Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum Zeitpunkt der Antragstellung bei der Industrie- und Handelskammer, die für die Erlaubniserteilung nach § 34d Absatz 1 oder 2 der Gewerbeordnung oder für die Erlaubnisbefreiung nach § 34d Absatz 6 der Gewerbeordnung zuständig ist, nicht älter als drei Monate sein.
 
@@ -311,15 +295,13 @@ Die zuständige Industrie- und Handelskammer hat dem Versicherungsunternehmen da
 
 (3) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung oder die für die Erlaubnisbefreiung zuständige Industrie- und Handelskammer.
 
-
-## § 14 – Anforderungen an die Geschäftsorganisation, Vergütung, Vermeidung von Interessenkonflikten
+# § 14 – Anforderungen an die Geschäftsorganisation, Vergütung, Vermeidung von Interessenkonflikten
 
 (1) Der Gewerbetreibende muss über alle sachgerechten Informationen zu dem Versicherungsprodukt und dem Produktfreigabeverfahren einschließlich des bestimmten Zielmarkts des Versicherungsprodukts verfügen. Satz 1 gilt nicht für Versicherungsverträge über Großrisiken nach § 210 Absatz 2 des Versicherungsvertragsgesetzes.
 
 (2) Der Gewerbetreibende darf seine Beschäftigten nicht in einer Weise vergüten oder bewerten, die mit ihrer Pflicht, im bestmöglichen Interesse der Versicherungsnehmer zu handeln, kollidiert. Der Gewerbetreibende darf keine Vorkehrungen durch die Vergütung, Verkaufsziele oder in anderer Weise treffen, durch die Anreize für ihn selbst oder seine Beschäftigten geschaffen werden könnten, einem Versicherungsnehmer ein bestimmtes Versicherungsprodukt zu empfehlen, obwohl er ein anderes, den Bedürfnissen des Versicherungsnehmers besser entsprechendes Versicherungsprodukt anbieten könnte.
 
-
-## § 15 – Information des Versicherungsnehmers
+# § 15 – Information des Versicherungsnehmers
 
 (1) Der Gewerbetreibende hat dem Versicherungsnehmer beim ersten Geschäftskontakt folgende Angaben nach Maßgabe des § 16 Absatz 1 mitzuteilen:
 
@@ -375,8 +357,7 @@ bei der zuständigen Behörde gemeldet und in das Vermittlerregister nach § 34d
 
 (3) Die Absätze 1 und 2 gelten nicht für Tätigkeiten in Bezug auf Rückversicherungen und Versicherungsverträge über Großrisiken nach § 210 Absatz 2 des Versicherungsvertragsgesetzes.
 
-
-## § 16 – Einzelheiten der Mitteilung
+# § 16 – Einzelheiten der Mitteilung
 
 (1) Die Mitteilung nach § 15 Absatz 1 hat wie folgt zu erfolgen:
 
@@ -413,8 +394,7 @@ es gewährleistet ist, dass diese Auskünfte auf der Website so lange verfügbar
 
 (4) Handelt es sich um einen telefonischen Kontakt, ist die Mitteilung dem Versicherungsnehmer nach Absatz 1 oder Absatz 2 unmittelbar nach dem ersten Geschäftskontakt zu erteilen.
 
-
-## § 17 – Behandlung von Beschwerden
+# § 17 – Behandlung von Beschwerden
 
 (1) Der Gewerbetreibende mit einer Erlaubnis nach § 34d Absatz 1 oder 2 der Gewerbeordnung muss über Leitlinien zur Beschwerdebearbeitung verfügen, die von ihm oder von der für die Leitung des Gewerbebetriebs verantwortlichen Person bestimmt wurden. Der Gewerbetreibende oder die für die Leitung des Gewerbebetriebs verantwortliche Person ist verpflichtet, die Leitlinien umzusetzen und ihre Einhaltung zu überwachen. Die Leitlinien sind den mit der Beschwerdebearbeitung befassten Beschäftigten des Gewerbetreibenden schriftlich zugänglich zu machen.
 
@@ -438,18 +418,15 @@ Ist im Falle des Satzes 1 Nummer 6 eine unverzügliche Antwort nicht möglich, u
 
 (4) Wenn der Versicherungsnehmer zur außergerichtlichen Beilegung einer Streitigkeit zwischen ihm und dem Gewerbetreibenden die Schlichtungsstelle nach § 214 Absatz 1 Satz 1 Nummer 2 des Versicherungsvertragsgesetzes anruft, ist der Gewerbetreibende verpflichtet, an dem Schlichtungsverfahren teilzunehmen.
 
-
-## § 18 – Vermeidung und Offenlegung von Interessenkonflikten
+# § 18 – Vermeidung und Offenlegung von Interessenkonflikten
 
 Gewerbetreibende, die Versicherungsanlageprodukte im Sinne des Artikels 2 Absatz 1 Nummer 17 der Richtlinie (EU) 2016/97 vermitteln oder dazu beraten, müssen angemessene Maßnahmen treffen, um Interessenkonflikte zu erkennen und zu vermeiden, die zwischen ihnen, den bei der Vermittlung oder Beratung mitwirkenden oder in leitender Position verantwortlichen Personen oder anderen Personen, die mit ihnen unmittelbar oder mittelbar durch Kontrolle verbunden sind, und den Versicherungsnehmern oder zwischen den Versicherungsnehmern auftreten können. § 48a Absatz 4 und 5 des Versicherungsaufsichtsgesetzes ist entsprechend anzuwenden.
 
-
-## § 19 – Vergütung
+# § 19 – Vergütung
 
 Gewerbetreibende, die im Zusammenhang mit der Vermittlung eines Versicherungsanlageprodukts eine Zuwendung an Dritte zahlen oder eine Zuwendung von einem Dritten erhalten, der nicht Versicherungsnehmer oder eine Person ist, die im Auftrag des Versicherungsnehmers tätig wird, müssen dafür Sorge tragen, dass die Zuwendung sich nicht nachteilig auf die Qualität der Vermittlung auswirkt. Die Zuwendung darf nicht die Verpflichtung des Gewerbetreibenden beeinträchtigen, im besten Interesse des Versicherungsnehmers ehrlich, redlich und professionell im Sinne des § 1a Absatz 1 Satz 1 des Versicherungsvertragsgesetzes zu handeln.
 
-
-## § 20 – Sicherheitsleistung, Versicherung
+# § 20 – Sicherheitsleistung, Versicherung
 
 (1) Der Gewerbetreibende darf für das Versicherungsunternehmen bestimmte Zahlungen, die der Versicherungsnehmer im Zusammenhang mit der Vermittlung oder dem Abschluss eines Versicherungsvertrags an ihn leistet, nur annehmen, wenn der Gewerbetreibende zuvor eine Sicherheit geleistet oder eine geeignete Versicherung abgeschlossen hat, die den Versicherungsnehmer dagegen schützt, dass der Gewerbetreibende die Zahlung nicht an das Versicherungsunternehmen weiterleiten kann. Dies gilt nicht, soweit der Gewerbetreibende seitens des Versicherungsunternehmens zur Entgegennahme von Zahlungen des Versicherungsnehmers bevollmächtigt ist.
 
@@ -471,15 +448,13 @@ Gewerbetreibende, die im Zusammenhang mit der Vermittlung eines Versicherungsanl
 
 (+++ § 20: zur Nichtgeltung vgl. § 25 +++)
 
-
-## § 21 – Nachweis
+# § 21 – Nachweis
 
 Soweit der Gewerbetreibende nach § 20 Absatz 1 Satz 1 oder Absatz 2 Satz 1 Sicherheiten zu leisten oder Versicherungen abzuschließen hat, hat er diese dem Versicherungsnehmer auf Verlangen nachzuweisen.
 
 (+++ § 21: zur Nichtgeltung vgl. § 25 +++)
 
-
-## § 22 – Aufzeichnungspflicht des Gewerbetreibenden
+# § 22 – Aufzeichnungspflicht des Gewerbetreibenden
 
 (1) Der Gewerbetreibende hat nach Maßgabe des Satzes 2 und des Absatzes 2 die Pflicht, Aufzeichnungen zu machen sowie die dort genannten Belege übersichtlich zu sammeln. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache anzufertigen.
 
@@ -505,8 +480,7 @@ Mit den Aufzeichnungen sind als Beleg Kopien der Bürgschaftsurkunde und des Ver
 
 (+++ § 22: zur Nichtgeltung vgl. § 25 +++)
 
-
-## § 23 – Prüfungen
+# § 23 – Prüfungen
 
 (1) Die für die Erlaubniserteilung nach § 34d Absatz 1 oder Absatz 2 der Gewerbeordnung zuständige Industrie- und Handelskammer kann aus besonderem Anlass anordnen, dass der Gewerbetreibende sich im Rahmen einer außerordentlichen Prüfung durch einen geeigneten Prüfer auf die Einhaltung der sich aus den §§ 20 und 22 ergebenden Pflichten auf seine Kosten überprüfen lässt. Der Prüfer wird von der nach Satz 1 zuständigen Behörde bestimmt. Der Prüfungsbericht hat einen Vermerk darüber zu enthalten, ob und welche Verstöße des Gewerbetreibenden festgestellt worden sind. Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu unterzeichnen, wobei die elektronische Namenswiedergabe genügt.
 
@@ -528,8 +502,7 @@ c) sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder
 
 (+++ § 23: zur Nichtgeltung vgl. § 25 +++)
 
-
-## § 24 – Rechte und Pflichten der an der Prüfung Beteiligten
+# § 24 – Rechte und Pflichten der an der Prüfung Beteiligten
 
 (1) Der Gewerbetreibende hat dem Prüfer Einsicht in die Bücher, Aufzeichnungen und Unterlagen zu gestatten. Er hat dem Prüfer alle Aufklärungen und Nachweise auf Verlangen zu geben, die der Prüfer für eine sorgfältige Prüfung benötigt.
 
@@ -537,13 +510,11 @@ c) sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder
 
 (+++ § 24: zur Nichtgeltung vgl. § 25 +++)
 
-
-## § 25 – Rückversicherungen
+# § 25 – Rückversicherungen
 
 Die §§ 20 bis 24 gelten nicht für die Vermittlung von und die Beratung über Rückversicherungen.
 
-
-## § 26 – Ordnungswidrigkeiten
+# § 26 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -565,13 +536,11 @@ Die §§ 20 bis 24 gelten nicht für die Vermittlung von und die Beratung über 
 
 (3) Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 11 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Messe-, Ausstellungs- oder Marktgewerbes begeht.
 
-
-## § 27 – Übergangsregelung
+# § 27 – Übergangsregelung
 
 Ein vor dem 1. Januar 2009 erworbener Abschluss als Versicherungsfachmann oder Versicherungsfachfrau des Berufsbildungswerks der Deutschen Versicherungswirtschaft e. V. steht der erfolgreich abgelegten Sachkundeprüfung nach § 2 gleich.
 
-
-## Anlage 1 – (zu § 2 Absatz 2 Satz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
+# Anlage 1 – (zu § 2 Absatz 2 Satz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2018, 2493 - 2495)
 
@@ -928,8 +897,7 @@ Versicherungsfall
 4.5.6  
 Besonderheiten
 
-
-## Anlage 2 – (zu § 4 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Fachmann für Versicherungsvermittlung IHK“ und „Geprüfte Fachfrau für Versicherungsvermittlung IHK“ nach § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung
+# Anlage 2 – (zu § 4 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Fachmann für Versicherungsvermittlung IHK“ und „Geprüfte Fachfrau für Versicherungsvermittlung IHK“ nach § 34d Absatz 5 Satz 1 Nummer 4 der Gewerbeordnung
 
 (Fundstelle: BGBl. I 2018, 2496)
 
@@ -961,8 +929,7 @@ Die Prüfung erstreckte sich insbesondere auf die fachspezifischen Pflichten und
 
 .....................................................
 
-
-## Anlage 3 – (zu § 7 Absatz 1)Anforderungen an die Qualität der Weiterbildungsmaßnahme
+# Anlage 3 – (zu § 7 Absatz 1)Anforderungen an die Qualität der Weiterbildungsmaßnahme
 
 (Fundstelle: BGBl. I 2018, 2497)
 
@@ -996,8 +963,7 @@ Diejenigen, die die Weiterbildungsmaßnahme durchführen, verfügen über die er
 3.2  
 Systematische Prozesse stellen die Einhaltung dieser Anforderungen sicher.
 
-
-## Anlage 4 – (zu § 7 Absatz 3)Erklärung über die Erfüllung der Weiterbildungsverpflichtung nach § 34d Absatz 9 Satz 2 GewO i. V. m. § 7 Absatz 1 VersVermV für das Jahr … .
+# Anlage 4 – (zu § 7 Absatz 3)Erklärung über die Erfüllung der Weiterbildungsverpflichtung nach § 34d Absatz 9 Satz 2 GewO i. V. m. § 7 Absatz 1 VersVermV für das Jahr … .
 
 (Fundstelle: BGBl. I 2018, 2498)
 

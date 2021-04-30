@@ -1,25 +1,19 @@
-# [KGUGEG] Gesetz über die nachträgliche Umstellung von Kontoguthaben, über die Tilgung von Anteilrechten an der Altguthaben-Ablösungs-Anleihe, zur Änderung lastenausgleichsrechtlicher Bestimmungen und zur Ergänzung des Gesetzes über die Errichtung der "Staatlichen Versicherung der DDR in Abwicklung"
-
-Ausfertigungsdatum: 24.07.1992
-
+% Gesetz über die nachträgliche Umstellung von Kontoguthaben, über die Tilgung von Anteilrechten an der Altguthaben-Ablösungs-Anleihe, zur Änderung lastenausgleichsrechtlicher Bestimmungen und zur Ergänzung des Gesetzes über die Errichtung der "Staatlichen Versicherung der DDR in Abwicklung"
+% Ausfertigungsdatum: 24.07.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 – Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen (Kontoguthabenumstellungsgesetz - KGUG)
-
-\-
-
-
-## Art 2 und 3 – ----
+# Art 1 – Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen (Kontoguthabenumstellungsgesetz - KGUG)
 
 \-
 
+# Art 2 und 3 – ----
 
-## Art 3a – Aufhebung des Beweissicherungs- und Feststellungsgesetzes
+\-
+
+# Art 3a – Aufhebung des Beweissicherungs- und Feststellungsgesetzes
 
 1. Das Beweissicherungs- und Feststellungsgesetz in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1897), zuletzt geändert durch Artikel 15 des Gesetzes vom 17. Dezember 1990 (BGBl. I S. 2809), wird aufgehoben.
 
@@ -27,10 +21,8 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Art 3a Nr. 1 Kursivdruck: Aufhebungsvorschrift
 
+# Art 3b bis 3e, 4 – (weggefallen)
 
-## Art 3b bis 3e, 4 – (weggefallen)
-
-
-## Art 5 – Inkrafttreten
+# Art 5 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

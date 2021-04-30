@@ -1,17 +1,13 @@
-# [WoFlV] Verordnung zur Berechnung der Wohnfläche  (Wohnflächenverordnung - WoFlV)
-
-Ausfertigungsdatum: 25.11.2003
-
+% Verordnung zur Berechnung der Wohnfläche  (Wohnflächenverordnung - WoFlV)
+% Ausfertigungsdatum: 25.11.2003
  
-
-## § 1 – Anwendungsbereich, Berechnung der Wohnfläche
+# § 1 – Anwendungsbereich, Berechnung der Wohnfläche
 
 (1) Wird nach dem Wohnraumförderungsgesetz die Wohnfläche berechnet, sind die Vorschriften dieser Verordnung anzuwenden.
 
 (2) Zur Berechnung der Wohnfläche sind die nach § 2 zur Wohnfläche gehörenden Grundflächen nach § 3 zu ermitteln und nach § 4 auf die Wohnfläche anzurechnen.
 
-
-## § 2 – Zur Wohnfläche gehörende Grundflächen
+# § 2 – Zur Wohnfläche gehörende Grundflächen
 
 (1) Die Wohnfläche einer Wohnung umfasst die Grundflächen der Räume, die ausschließlich zu dieser Wohnung gehören. Die Wohnfläche eines Wohnheims umfasst die Grundflächen der Räume, die zur alleinigen und gemeinschaftlichen Nutzung durch die Bewohner bestimmt sind.
 
@@ -45,8 +41,7 @@ g) Garagen,
 
 3. Geschäftsräume.
 
-
-## § 3 – Ermittlung der Grundfläche
+# § 3 – Ermittlung der Grundfläche
 
 (1) Die Grundfläche ist nach den lichten Maßen zwischen den Bauteilen zu ermitteln; dabei ist von der Vorderkante der Bekleidung der Bauteile auszugehen. Bei fehlenden begrenzenden Bauteilen ist der bauliche Abschluss zu Grunde zu legen.
 
@@ -82,8 +77,7 @@ g) Garagen,
 
 Ist die Grundfläche nach einer Bauzeichnung ermittelt worden und ist abweichend von dieser Bauzeichnung gebaut worden, ist die Grundfläche durch Ausmessung im fertig gestellten Wohnraum oder auf Grund einer berichtigten Bauzeichnung neu zu ermitteln.
 
-
-## § 4 – Anrechnung der Grundflächen
+# § 4 – Anrechnung der Grundflächen
 
 Die Grundflächen
 
@@ -97,7 +91,6 @@ Die Grundflächen
 
 anzurechnen.
 
-
-## § 5 – Überleitungsvorschrift
+# § 5 – Überleitungsvorschrift
 
 Ist die Wohnfläche bis zum 31. Dezember 2003 nach der Zweiten Berechnungsverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2178), zuletzt geändert durch Artikel 3 der Verordnung vom 25. November 2003 (BGBl. I S. 2346), in der jeweils geltenden Fassung berechnet worden, bleibt es bei dieser Berechnung. Soweit in den in Satz 1 genannten Fällen nach dem 31. Dezember 2003 bauliche Änderungen an dem Wohnraum vorgenommen werden, die eine Neuberechnung der Wohnfläche erforderlich machen, sind die Vorschriften dieser Verordnung anzuwenden.

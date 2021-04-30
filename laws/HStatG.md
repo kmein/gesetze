@@ -1,22 +1,17 @@
-# [HStatG] Gesetz über die Statistik für das Hochschulwesen sowie für die Berufsakademien  (Hochschulstatistikgesetz - HStatG)
-
-Ausfertigungsdatum: 02.11.1990
-
+% Gesetz über die Statistik für das Hochschulwesen sowie für die Berufsakademien  (Hochschulstatistikgesetz - HStatG)
+% Ausfertigungsdatum: 02.11.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 (1) Für Zwecke der Gesetzgebung und Planung im Hochschulbereich und bei den Berufsakademien sowie zur Erfüllung der Datenlieferverpflichtungen nach der Verordnung (EU) Nr. 912/2013 der Kommission vom 23. September 2013 zur Durchführung der Verordnung (EG) Nr. 452/2008 des Europäischen Parlaments und des Rates über die Erstellung und die Entwicklung von Statistiken über Bildung und lebenslanges Lernen im Hinblick auf Statistiken über die Systeme der allgemeinen und beruflichen Bildung (ABl. L 252 vom 24.9.2013, S. 5) und der Durchführungsverordnung (EU) Nr. 995/2012 der Kommission vom 26. Oktober 2012 mit Durchführungsvorschriften zur Entscheidung Nr. 1608/2003/EG des Europäischen Parlaments und des Rates zur Erstellung und Entwicklung von Gemeinschaftsstatistiken über Wissenschaft und Technologie (ABl. L 299 vom 27.10.2012, S. 18) wird eine Bundesstatistik, teilweise als Studienverlaufsstatistik, durchgeführt. Sie liefert Entscheidungsgrundlagen für eine evidenzbasierte Forschungs- und Wissenschaftspolitik und dient der Kapazitäts- und Finanzplanung im Hochschulbereich, der Qualitätssicherung der Hochschulbildung, der Planung von Maßnahmen zur Förderung des wissenschaftlichen Nachwuchses sowie der Mobilität im Hochschulbereich und der Sicherung der Chancengleichheit von Frauen in Führungspositionen.
 
 (2) Das Erhebungs- und Aufbereitungsprogramm ist so zu gestalten, daß die Ergebnisse für Zwecke der Gesetzgebung sowie der Planung in Bund, Ländern, Hochschulen und Berufsakademien im Rahmen der jeweiligen Zuständigkeiten Verwendung finden können.
 
-
-## § 2 – Erhebungsbereich
+# § 2 – Erhebungsbereich
 
 Die Erhebungen erstrecken sich auf:
 
@@ -26,8 +21,7 @@ Die Erhebungen erstrecken sich auf:
 
 3. Berufsakademien.
 
-
-## § 3 – Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)
+# § 3 – Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)
 
 (1) Bei den in § 2 Nummer 1 genannten Einrichtungen werden für die Studierenden, die Prüfungsteilnehmenden sowie die Exmatrikulierten semesterweise, jeweils nach Ablauf der Immatrikulationsfrist oder nach bestandener oder endgültig nicht bestandener Abschlussprüfung folgende Erhebungsmerkmale erfasst:
 
@@ -147,8 +141,7 @@ b) in fachlicher und organisatorischer Gliederung;
 
 Die Erfassung der Drittmittel erfolgt zusätzlich nach Mittelgebern und Zweckbestimmung.
 
-
-## § 4 – Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 und 2 (Hochschulen, Hochschulkliniken sowie staatliche und kirchliche Prüfungsämter)
+# § 4 – Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 und 2 (Hochschulen, Hochschulkliniken sowie staatliche und kirchliche Prüfungsämter)
 
 Bei den in § 2 Nummer 1 und 2 genannten Einrichtungen werden für die Prüfungsteilnehmenden, soweit die Merkmale nicht bereits nach § 3 Absatz 1 erhoben werden, folgende Erhebungsmerkmale semesterweise nach Abschluss des Prüfungsverfahrens erfasst:
 
@@ -178,8 +171,7 @@ Bei den in § 2 Nummer 1 und 2 genannten Einrichtungen werden für die Prüfungs
 
 13. für studienbezogene Auslandsaufenthalte jeweils Art des Aufenthalts; Dauer des Aufenthalts in Monaten; Staat des Aufenthalts sowie Art des Mobilitätsprogramms.
 
-
-## § 5 – Erhebungsmerkmale für Promovierende bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)
+# § 5 – Erhebungsmerkmale für Promovierende bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)
 
 (1) Als Promovierende gelten Personen, die von einer zur Promotion berechtigten Einrichtung eine schriftliche Bestätigung über die Annahme als Doktorandin oder Doktorand in dieser Einrichtung erhalten haben. Der Zeitpunkt der Bestätigung gilt als Promotionsbeginn.
 
@@ -217,8 +209,7 @@ Bei den in § 2 Nummer 1 und 2 genannten Einrichtungen werden für die Prüfungs
 
 16. Art der Dissertation.
 
-
-## § 6 – Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 3 (Berufsakademien)
+# § 6 – Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 3 (Berufsakademien)
 
 (1) Bei den in § 2 Nummer 3 genannten Einrichtungen werden für alle Studierenden und Prüfungsteilnehmenden jährlich jeweils nach Ablauf der Immatrikulationsfrist oder nach bestandener oder endgültig nicht bestandener Abschlussprüfung folgende Erhebungsmerkmale erfasst:
 
@@ -266,8 +257,7 @@ b) in fachlicher und organisatorischer Gliederung;
 
 2. vierteljährlich: nach Arten.
 
-
-## § 7 – Studienverlaufsstatistik
+# § 7 – Studienverlaufsstatistik
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder führen eine Studienverlaufsstatistik mit den folgenden nach § 3 Absatz 1 sowie den §§ 4 und 5 vorliegenden Angaben durch:
 
@@ -339,13 +329,11 @@ j) Immatrikulation als Promotionsstudierender.
 
 (5) Die Pseudonyme sowie die in Absatz 4 dargestellten Zusammenführungen werden achtzehn Jahre nach dem letzten Hochschulabschluss, der Exmatrikulation und vier Jahre nach Beendigung des Promotionsverfahrens gelöscht.
 
-
-## § 8 – Auswertungsdatenbank Hochschulstatistik
+# § 8 – Auswertungsdatenbank Hochschulstatistik
 
 Die Einzelangaben nach § 3 Absatz 1, 3 bis 5 und 7, den §§ 4 und 5 dieses Gesetzes sowie nach § 3 Absatz 1 Nummer 1 Buchstabe d und Nummer 2 Buchstabe c des Finanz- und Personalstatistikgesetzes in der jeweils geltenden Fassung dürfen zur Erstellung von Standard- und Sonderauswertungen im Rahmen der Hochschulplanung und -steuerung sowie der Bildungs- und Forschungsberichterstattung in einer zentralen Auswertungsdatenbank des Statistischen Bundesamtes gespeichert werden. Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen die Datenbank für Auswertungen in ihrem jeweiligen Zuständigkeitsbereich nutzen.
 
-
-## § 9 – Hilfsmerkmale
+# § 9 – Hilfsmerkmale
 
 (1) Hilfsmerkmale sind:
 
@@ -357,8 +345,7 @@ Die Einzelangaben nach § 3 Absatz 1, 3 bis 5 und 7, den §§ 4 und 5 dieses Ges
 
 (2) § 12 Absatz 2 des Bundesstatistikgesetzes findet auf die Hilfsmerkmale nach Absatz 1 Nummer 2 keine Anwendung.
 
-
-## § 10 – Auskunftserteilung
+# § 10 – Auskunftserteilung
 
 (1) Für die Erhebungen nach den §§ 3 bis 6 besteht Auskunftspflicht.
 
@@ -378,15 +365,13 @@ Die Einzelangaben nach § 3 Absatz 1, 3 bis 5 und 7, den §§ 4 und 5 dieses Ges
 
 (5) (weggefallen)
 
-
-## § 11 – Veröffentlichung und Übermittlung von Tabellen
+# § 11 – Veröffentlichung und Übermittlung von Tabellen
 
 (1) Ergebnisse der Hochschulstatistik dürfen auf die einzelne Hochschule und einzelne Hochschulstandorte bezogen veröffentlicht werden.
 
 (2) An die für Wissenschaft und Forschung zuständigen obersten Landes- und Bundesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-
-## § 12 – Ausschuß für die Hochschulstatistik
+# § 12 – Ausschuß für die Hochschulstatistik
 
 (1) Beim Statistischen Bundesamt wird ein Ausschuß für die Hochschulstatistik gebildet.
 
@@ -412,8 +397,7 @@ Die Einzelangaben nach § 3 Absatz 1, 3 bis 5 und 7, den §§ 4 und 5 dieses Ges
 
 (6) Die Vertreter nach Absatz 3 Nr. 6 werden durch den Vorsitzenden auf Vorschlag der in Frage kommenden Einrichtungen berufen; das Bundesministerium für Bildung und Forschung bestimmt die vorschlagsberechtigten Einrichtungen.
 
-
-## § 13 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
 (1) Die Erhebungen zu Studierenden und Prüfungen nach § 3 Absatz 1 sowie § 4 werden erstmals im Sommersemester 2017 durchgeführt. Die Erhebung zum Personal nach § 3 Absatz 4 und 5 erfolgt erstmals für das Berichtsjahr 2016. Bis dahin werden die Erhebungen zu Studierenden, Prüfungen und Personal nach § 3 in der bis zum 29. Februar 2016 geltenden Fassung des Gesetzes durchgeführt.
 

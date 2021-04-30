@@ -1,15 +1,11 @@
-# [LmhFortbPrüfV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Verkaufsleiter im Lebensmittelhandwerk und Geprüfte Verkaufsleiterin im Lebensmittelhandwerk  (Lebensmittelhandwerkfortbildungsprüfungsverordnung - LmhFortbPrüfV)
-
-Ausfertigungsdatum: 10.11.2015
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Verkaufsleiter im Lebensmittelhandwerk und Geprüfte Verkaufsleiterin im Lebensmittelhandwerk  (Lebensmittelhandwerkfortbildungsprüfungsverordnung - LmhFortbPrüfV)
+% Ausfertigungsdatum: 10.11.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 der Handwerksordnung, von denen Absatz 1 durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Verkaufsleiter im Lebensmittelhandwerk und Geprüfte Verkaufsleiterin im Lebensmittelhandwerk soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -49,8 +45,7 @@ Auf Grund des § 42 Absatz 1 in Verbindung mit Absatz 2 der Handwerksordnung, vo
 
 (6) Die erbrachten Nachweise nach § 3 Absatz 1 Nummer 1 und 2 führen zusammen mit der erfolgreich abgelegten Prüfung nach § 3 Absatz 1 Nummer 3 zum anerkannten Fortbildungsabschluss „Geprüfter Verkaufsleiter im Lebensmittelhandwerk“ oder „Geprüfte Verkaufsleiterin im Lebensmittelhandwerk“.
 
-
-## § 2 – Voraussetzung für die Zulassung zur Prüfung
+# § 2 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -70,8 +65,7 @@ Die Berufspraxis muss jeweils inhaltlich wesentliche Bezüge zu den in § 1 Absa
 
 (2) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Teile des Fortbildungsabschlusses
+# § 3 – Teile des Fortbildungsabschlusses
 
 (1) Für den Fortbildungsabschluss zum Geprüften Verkaufsleiter im Lebensmittelhandwerk und zur Geprüften Verkaufsleiterin im Lebensmittelhandwerk ist Folgendes erforderlich:
 
@@ -83,8 +77,7 @@ Die Berufspraxis muss jeweils inhaltlich wesentliche Bezüge zu den in § 1 Absa
 
 (2) Die Prüfung der schwerpunktspezifischen Verkaufsleitungsqualifikationen ist innerhalb von zwei Jahren ab der ersten abgelegten Prüfungsleistung in dieser Prüfung abzuschließen.
 
-
-## § 4 – Nachweis des Erwerbs der betriebswirtschaftlichen, kaufmännischen und rechtlichen Qualifikationen
+# § 4 – Nachweis des Erwerbs der betriebswirtschaftlichen, kaufmännischen und rechtlichen Qualifikationen
 
 (1) Den Erwerb der betriebswirtschaftlichen, kaufmännischen und rechtlichen Qualifikationen hat die zu prüfende Person nachzuweisen durch eine erfolgreich abgelegte Prüfung nach § 2 der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
@@ -92,8 +85,7 @@ Die Berufspraxis muss jeweils inhaltlich wesentliche Bezüge zu den in § 1 Absa
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+# § 5 – Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
 
 Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prüfende Person nachzuweisen durch
 
@@ -105,8 +97,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Inhalte der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
+# § 6 – Inhalte der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
 
 (1) In der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“ wählt die zu prüfende Person einen der Schwerpunkte Bäckerei, Fleischerei oder Konditorei.
 
@@ -132,8 +123,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Handlungsbereich „Informationen zu Rohstoffen und Herstellungsweisen aufbereiten und weitergeben“
+# § 7 – Handlungsbereich „Informationen zu Rohstoffen und Herstellungsweisen aufbereiten und weitergeben“
 
 (1) Im Handlungsbereich „Informationen zu Rohstoffen und Herstellungsweisen aufbereiten und weitergeben“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, das Deklarieren der Waren entsprechend rechtlichen Erfordernissen zu steuern sowie Informationen zu Lebensmitteln, insbesondere zu Allergenen, kundengerecht aufzubereiten und Kunden sowie Mitarbeitern und Mitarbeiterinnen zur Verfügung zu stellen.
 
@@ -145,8 +135,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Handlungsbereich „Vertriebskonzepte entwickeln“
+# § 8 – Handlungsbereich „Vertriebskonzepte entwickeln“
 
 (1) Im Handlungsbereich „Vertriebskonzepte entwickeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, den Markt systematisch zu beobachten und aus der Beobachtung Maßnahmen abzuleiten, auf Veränderungen des Absatzmarktes zu reagieren und Handlungsstrategien zu entwickeln sowie neue Märkte zu erschließen und neue Vertriebswege aufzuzeigen. Dabei soll die zu prüfende Person Sortimente gestalten und Marketinginstrumente anwenden.
 
@@ -168,8 +157,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Handlungsbereich „Warenströme und Retourenmanagement organisieren“
+# § 9 – Handlungsbereich „Warenströme und Retourenmanagement organisieren“
 
 (1) Im Handlungsbereich „Warenströme und Retourenmanagement organisieren“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, auch unter Einsatz moderner Kommunikationstechnologien bei der Bestellung von Waren den Lagerbestand, die Haltbarkeit verderblicher Waren und saisonale Aspekte zu berücksichtigen sowie Lagerhaltung und Lagerführung zu gestalten und zu überwachen. Dabei sollen Daten rechnergestützter Kassensysteme ausgewertet, Konzepte für Logistik und Lagerwirtschaft entwickelt, diese Konzepte umgesetzt, die Umsetzung überwacht und die Konzepte verbessert sowie Retouren organisiert werden.
 
@@ -189,8 +177,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Handlungsbereich „Qualitätsmanagement gestalten, Maßstäbe für die Lebensmittelqualität bestimmen und die Einhaltung von Qualitätsvorgaben systematisch überwachen“
+# § 10 – Handlungsbereich „Qualitätsmanagement gestalten, Maßstäbe für die Lebensmittelqualität bestimmen und die Einhaltung von Qualitätsvorgaben systematisch überwachen“
 
 (1) Im Handlungsbereich „Qualitätsmanagement gestalten, Maßstäbe für die Lebensmittelqualität bestimmen und die Einhaltung von Qualitätsvorgaben systematisch überwachen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Maßnahmen zur Sicherstellung von Qualitätskriterien festzulegen und zu steuern sowie Vorschriften zu Lebensmittelrecht, Hygiene, Arbeits- und Gesundheitsschutz zu vermitteln und deren Einhaltung sicherzustellen.
 
@@ -208,8 +195,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Handlungsbereich „Betriebswirtschaftliche Kennzahlen ermitteln und für die Verkaufsleitung nutzen“
+# § 11 – Handlungsbereich „Betriebswirtschaftliche Kennzahlen ermitteln und für die Verkaufsleitung nutzen“
 
 (1) Im Handlungsbereich „Betriebswirtschaftliche Kennzahlen ermitteln und für die Verkaufsleitung nutzen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, betriebliche Abläufe zu erfassen und zu bewerten, auch unter Einsatz moderner Kommunikationstechnologien.
 
@@ -227,8 +213,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Handlungsbereich „Marketing- und Präsentationskonzepte planen, umsetzen und optimieren“
+# § 12 – Handlungsbereich „Marketing- und Präsentationskonzepte planen, umsetzen und optimieren“
 
 (1) Im Handlungsbereich „Marketing- und Präsentationskonzepte planen, umsetzen und optimieren“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, auch unter Einsatz moderner Kommunikationstechnologien Verkaufsaktionen von handwerklich hergestellten Produkten zu planen, durchzuführen und auch unter kalkulatorischen und gestalterischen Gesichtspunkten auszuwerten. Dabei soll die zu prüfende Person die Warenpräsentation in Theken und Regalen unter Berücksichtigung von Vorschriften zum Lebensmittelrecht und zur Hygiene veranlassen und optimieren, neue Produkte in bestehende Sortimente integrieren sowie Markenprodukte und Handelsware etablieren. In diesem Rahmen hat die zu prüfende Person zu zeigen, dass sie in der Lage ist, Verkaufsräume, insbesondere Läden und Marktstände, sowie Schauflächen unter Berücksichtigung von saisonalen und regionalen Besonderheiten zu gestalten.
 
@@ -244,8 +229,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Handlungsbereich „Gastronomiekonzepte für Imbiss, Café und Außer-Haus-Service ausgestalten und realisieren“
+# § 13 – Handlungsbereich „Gastronomiekonzepte für Imbiss, Café und Außer-Haus-Service ausgestalten und realisieren“
 
 (1) Im Handlungsbereich „Gastronomiekonzepte für Imbiss, Café und Außer-Haus-Service ausgestalten und realisieren“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Produkte zu entwickeln und zu vermarkten, Herstellungsprozesse zu planen und zu überwachen sowie Gastronomiekonzepte zu entwickeln und zu integrieren und dabei die schwerpunktspezifischen Kompetenzen zu nutzen.
 
@@ -263,8 +247,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Handlungsbereich „Verkaufs-, Verhandlungs- und Beratungsgespräche fachlich vorbereiten, führen und auswerten“
+# § 14 – Handlungsbereich „Verkaufs-, Verhandlungs- und Beratungsgespräche fachlich vorbereiten, führen und auswerten“
 
 (1) Im Handlungsbereich „Verkaufs-, Verhandlungs- und Beratungsgespräche fachlich vorbereiten, führen und auswerten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, durch Gesprächsführung Kunden zu gewinnen und zu binden, Anfrage-, Auftrags- und Reklamationsgespräche mit gewerblichen Kunden eigenverantwortlich zu führen und auszuwerten, Betriebsabläufe umfassend gegenüber Aufsichtsbehörden, Institutionen und Geschäftspartnern fachlich fundiert darzustellen und argumentativ zu vertreten sowie Verhandlungsgespräche insbesondere im Einkauf, Absatz und Vertrieb vorzubereiten und zu führen. Dabei soll die zu prüfende Person Instrumente zur Konfliktlösung anwenden und vermitteln.
 
@@ -284,8 +267,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Handlungsbereich „Mitarbeiter und Mitarbeiterinnen führen, fördern und schulen“
+# § 15 – Handlungsbereich „Mitarbeiter und Mitarbeiterinnen führen, fördern und schulen“
 
 (1) Im Handlungsbereich „Mitarbeiter und Mitarbeiterinnen führen, fördern und schulen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, unter Beachtung der gesetzlichen Vorschriften Mitarbeiter und Mitarbeiterinnen verantwortlich zu führen und zu motivieren, Personal zu gewinnen, Teams zusammenzustellen und deren Zusammenarbeit zu entwickeln, Mitarbeiter und Mitarbeiterinnen und deren Leistungen zu beurteilen, die berufliche Entwicklung der Mitarbeiter und Mitarbeiterinnen entsprechend den individuellen und den Unternehmensinteressen zu gestalten sowie Mitarbeiter und Mitarbeiterinnen in der service- und verkaufsorientierten Kommunikation anzuleiten. Dabei soll die zu prüfende Person Instrumente zur Konfliktbewältigung im Team einsetzen.
 
@@ -305,8 +287,7 @@ Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prü
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Gliederung der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
+# § 16 – Gliederung der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
 
 Die Prüfung gliedert sich in
 
@@ -314,8 +295,7 @@ Die Prüfung gliedert sich in
 
 2. eine praktische Prüfung.
 
-
-## § 17 – Schriftliche Prüfung
+# § 17 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung umfasst alle Handlungsbereiche der §§ 7 bis 11.
 
@@ -323,8 +303,7 @@ Die Prüfung gliedert sich in
 
 (3) Die Bearbeitungszeit beträgt 300 Minuten.
 
-
-## § 18 – Praktische Prüfung
+# § 18 – Praktische Prüfung
 
 (1) Die praktische Prüfung umfasst
 
@@ -338,8 +317,7 @@ Die Prüfung gliedert sich in
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 19 – Projektarbeit
+# § 19 – Projektarbeit
 
 (1) Die Projektarbeit besteht aus
 
@@ -369,8 +347,7 @@ Die Prüfung gliedert sich in
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 20 – Arbeitsaufgabe
+# § 20 – Arbeitsaufgabe
 
 (1) Im Rahmen der Arbeitsaufgabe soll die zu prüfende Person
 
@@ -388,8 +365,7 @@ Die Prüfung gliedert sich in
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 21 – Gesprächssimulation
+# § 21 – Gesprächssimulation
 
 (1) Im Rahmen der Gesprächssimulation führt die zu prüfende Person ein Verkaufs-, Verhandlungs-, Beratungs- oder Mitarbeitergespräch mit Bezug zu dem von ihr entwickelten Marketing- und Präsentationskonzept oder zu dem von ihr entwickelten Gastronomiekonzept.
 
@@ -397,15 +373,13 @@ Die Prüfung gliedert sich in
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 22 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 22 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 23 und 24 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 23 Absatz 3 Satz 1 oder § 24 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 23 – Bewerten der Prüfungsleistungen
+# § 23 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -439,8 +413,7 @@ e) die Gesprächssimulation nach § 21.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 24 – Bestehen der Prüfung, Gesamtnote
+# § 24 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -462,8 +435,7 @@ e) die Gesprächssimulation nach § 21.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 25 – Zeugnisse
+# § 25 – Zeugnisse
 
 (1) Wer die Prüfung nach § 24 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -478,8 +450,7 @@ e) die Gesprächssimulation nach § 21.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)  
 § 25 Abs. 2 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit der Änderungsanweisung in Art. 7 Nr. 20 V v. 9.12.2019 I 2153 wurde die Angabe "Anlage 2 B" durch die Angabe "Anlage 2 Teil B" ersetzt
 
-
-## § 26 – Übergangsvorschriften
+# § 26 – Übergangsvorschriften
 
 (1) Diesem Fortbildungsabschluss entsprechende Prüfungen nach den nach der Handwerksordnung in Kraft gesetzten Regelungen der Handwerkskammern, die vor Ablauf des 31. Dezember 2015 angemeldet wurden, werden bis zum 31. Dezember 2017 nach den bisherigen Vorschriften zu Ende geführt; insbesondere:
 
@@ -503,8 +474,7 @@ e) die Gesprächssimulation nach § 21.
 
 (3) Die Wiederholungsprüfung kann auf Antrag des Prüflings auch nach dieser Verordnung durchgeführt werden; die Wiederholungsprüfung ist bis zum 31. Dezember 2017 zu Ende zu führen. § 24 Absatz 3 ist in diesem Fall nicht anzuwenden.
 
-
-## § 26 – Wiederholung der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
+# § 26 – Wiederholung der Prüfung „Schwerpunktspezifische Verkaufsleitungsqualifikationen“
 
 (1) Ist die schriftliche oder die praktische Prüfung nicht bestanden, kann sie jeweils zweimal wiederholt werden.
 
@@ -516,20 +486,17 @@ e) die Gesprächssimulation nach § 21.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 27 – Inkrafttreten
+# § 27 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-
-## Anlage 1 – (zu den §§ 23 und 24)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 23 und 24)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2176 - 2177)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 25)Zeugnisinhalte
+# Anlage 2 – (zu § 25)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2177 - 2178)
 

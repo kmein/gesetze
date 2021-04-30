@@ -1,15 +1,11 @@
-# [MinÖlDatG] Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft  (Mineralöldatengesetz - MinÖlDatG)
-
-Ausfertigungsdatum: 20.12.1988
-
+% Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft  (Mineralöldatengesetz - MinÖlDatG)
+% Ausfertigungsdatum: 20.12.1988
  
-
-## § 1 – Erhebungszweck, Zuständigkeit
+# § 1 – Erhebungszweck, Zuständigkeit
 
 Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. November 1974 über ein Internationales Energieprogramm vom 30. April 1975, der Rechtsvorschriften der Europäischen Union über Informationssysteme und Notstandsmaßnahmen im Mineralölbereich und des Energiesicherungsgesetzes 1975 einschließlich der auf seiner Grundlage beruhenden Rechtsverordnungen sowie zur Erfüllung energiepolitischer Aufgaben im Mineralölbereich, insbesondere zur Sicherstellung einer ausreichenden Versorgung mit Erdöl und Erdölerzeugnissen zu Wettbewerbspreisen, erhebt das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) von den Unternehmen der Mineralölwirtschaft Meldungen.
 
-
-## § 2 – Meldepflichtige
+# § 2 – Meldepflichtige
 
 (1) Meldepflichtig ist, wer gewerbsmäßig oder im Rahmen wirtschaftlicher Unternehmungen
 
@@ -23,8 +19,7 @@ Zur Sicherstellung des Vollzugs des Gesetzes zu dem Übereinkommen vom 18. Novem
 
 (4) Werden das Erdöl oder die Erdölerzeugnisse von einem Ausländer eingeführt, so ist meldepflichtig derjenige mit Sitz im Geltungsbereich dieses Gesetzes, der das Eigentum an dem Erdöl oder den Erdölerzeugnissen von dem Ausländer erwirbt. Ist der vorgenannte Erwerber seinerseits nicht Inländer, so ist insoweit der letzte inländische Lagerhalter meldepflichtig, der das Erdöl oder die Erdölerzeugnisse in sein Lager aufgenommen hat. Läßt ein Ausländer die Erdölerzeugnisse für eigene Rechnung herstellen, so ist meldepflichtig derjenige, der sie für ihn im Geltungsbereich dieses Gesetzes herstellt. Meldepflichtig sind auch Ausländer, denen durch einen ausländischen Staat eine Bevorratungspflicht für Erdöl oder Erdölerzeugnisse auferlegt ist, wenn sie die Voraussetzungen des Absatzes 1 Satz 1 Nummer 1 oder 2 erfüllen oder Bestände an Erdöl oder Erdölerzeugnissen im Geltungsbereich dieses Gesetzes halten. Hält ein ausländischer Vorratspflichtiger im Sinne des Satzes 4 Bestände an Erdöl oder Erdölerzeugnissen im Geltungsbereich dieses Gesetzes, kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle auch denjenigen, der von dem Ausländer mit der Lagerung seiner Bestände beauftragt worden ist, zur Abgabe von Meldungen verpflichten.
 
-
-## § 3 – Meldepflichten
+# § 3 – Meldepflichten
 
 (1) Zu melden sind für jeden Kalendermonat (Meldezeitraum) nach Art und Menge
 
@@ -58,13 +53,11 @@ Als Erdölerzeugnisse gelten auch die aus anderen Rohstoffen gewonnenen, den Erd
 
 (5) Meldepflichtige haben Amtsträgern der BAFA während der Geschäfts- und Arbeitszeit Auskunft zu erteilen sowie Zutritt zu Betriebsräumen und Betriebsgrundstücken und Einsicht in Unterlagen und Aufzeichnungen, die im Zusammenhang mit der Meldepflicht stehen, zu gewähren.
 
-
-## § 4 – Verordnungsermächtigung
+# § 4 – Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung die Meldepflichten nach § 3 Abs. 1 zu ändern oder auszuweiten, soweit es zur zeitnahen Erfassung von Erdöl und Erdölerzeugnissen nach Art und Menge für die in § 1 bestimmten Zwecke erforderlich ist.
 
-
-## § 5 – Geheimhaltung, Weiterleitung
+# § 5 – Geheimhaltung, Weiterleitung
 
 (1) Die von den Meldepflichtigen erhobenen Einzelangaben sind geheimzuhalten. Sie dürfen nur zu den in diesem Gesetz bestimmten Zwecken verwendet werden, soweit in dieser Vorschrift nichts anderes bestimmt ist.
 
@@ -78,8 +71,7 @@ Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechts
 
 Einzelangaben dürfen an das jeweilige statistische Landesamt zu den in Satz 1 genannten Zwecken nur übermittelt werden, sofern die Einzelangaben dort einem gesetzlichen Geheimhaltungsschutz unterliegen, der § 16 des Bundesstatistikgesetzes entspricht.
 
-
-## § 6 – Bußgeldvorschrift
+# § 6 – Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig als nach § 2 Meldepflichtiger entgegen § 3, auch in Verbindung mit einer Rechtsverordnung nach § 4, eine Meldung nicht, nicht richtig, nicht vollständig, nicht rechtzeitig oder nicht in der vorgeschriebenen Form erstattet.
 
@@ -87,17 +79,14 @@ Einzelangaben dürfen an das jeweilige statistische Landesamt zu den in Satz 1 g
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8
+# § 8
 
 (weggefallen)
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [AnerkV] Verordnung über die Anforderungen an und das Verfahren für die Anerkennung von Konformitätsbewertungsstellen im Bereich der elektromagnetischen Verträglichkeit von Betriebsmitteln und im Bereich der Bereitstellung von Funkanlagen  (Konformitätsbewertungsstellen-Anerkennungs-Verordnung - AnerkV)
-
-Ausfertigungsdatum: 11.01.2016
-
+% Verordnung über die Anforderungen an und das Verfahren für die Anerkennung von Konformitätsbewertungsstellen im Bereich der elektromagnetischen Verträglichkeit von Betriebsmitteln und im Bereich der Bereitstellung von Funkanlagen  (Konformitätsbewertungsstellen-Anerkennungs-Verordnung - AnerkV)
+% Ausfertigungsdatum: 11.01.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Wirtschaft und Energie verordnet auf Grund
 
@@ -16,11 +13,9 @@ des § 21 Absatz 2 des Elektromagnetische-Verträglichkeit-Gesetzes vom 14. Deze
 
 jeweils in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154):
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Anforderungen und das Verfahren
 
@@ -36,8 +31,7 @@ a) die Anerkennung von Konformitätsbewertungsstellen als notifizierte Stellen u
 
 b) die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten nach den in Anlage 2 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Gemeinschaft und den genannten Drittstaaten.
 
-
-## § 2 – Zuständige Behörde
+# § 2 – Zuständige Behörde
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) ist im Rahmen dieser Verordnung zuständige Behörde für
 
@@ -61,8 +55,7 @@ b) die Anerkennung von Konformitätsbewertungsstellen für Drittstaaten nach den
 
 (+++ § 2 Abs. 1: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 3 – Antrag
+# § 3 – Antrag
 
 (1) Um als notifizierte Stelle anerkannt zu werden, muss
 
@@ -90,8 +83,7 @@ c) des Geräts für das oder der Funkanlage für die der Antragsteller Kompetenz
 
 (+++ § 3 Abs. 1: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++) (+++ § 3 Abs. 2 Nr. 1: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++) (+++ § 3 Abs. 3: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++) (+++ § 3 Abs. 4: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 4 – Anerkennung als notifizierte Stelle
+# § 4 – Anerkennung als notifizierte Stelle
 
 (1) Hat die Bundesnetzagentur festgestellt, dass der Antragsteller die Anforderungen des § 5 dieser Verordnung erfüllt, so erteilt sie diesem die Befugnis, Konformitätsbewertungen durchzuführen. Die Befugnis wird durch schriftlichen Bescheid erteilt. Der Bescheid muss Folgendes enthalten:
 
@@ -125,8 +117,7 @@ c) dem betreffenden Gerät oder der betreffenden Funkanlage,
 
 (+++ § 4 Abs. 1: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++) (+++ § 4 Abs. 3 bis 7: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 5 – Allgemeine Anforderungen an die notifizierte Stelle
+# § 5 – Allgemeine Anforderungen an die notifizierte Stelle
 
 (1) Die notifizierte Stelle muss Rechtspersönlichkeit nach deutschem Recht besitzen.
 
@@ -188,15 +179,13 @@ b) die Fähigkeit zur Erstellung von EU-Baumusterprüfbescheinigungen oder Zulas
 
 (+++ § 5: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 6 – Konformitätsvermutung bei notifizierten Stellen
+# § 6 – Konformitätsvermutung bei notifizierten Stellen
 
 Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einschlägigen harmonisierten Normen, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, oder von Teilen davon erfüllt, so wird vermutet, dass sie die Anforderungen nach § 5 dieser Verordnung erfüllt, in dem Maße, wie die anwendbaren harmonisierten Normen diese Anforderungen abdecken.
 
 (+++ § 6: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 7 – Verpflichtungen der notifizierten Stelle
+# § 7 – Verpflichtungen der notifizierten Stelle
 
 (1) Konformitätsbewertungen sind unter Wahrung der Verhältnismäßigkeit und im Einklang mit den Konformitätsbewertungsverfahren gemäß den Richtlinien 2014/30/EU oder 2014/53/EU durchzuführen, wobei unnötige Belastungen für die Wirtschaftsakteure zu vermeiden sind.
 
@@ -218,8 +207,7 @@ Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einsch
 
 (+++ § 7: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 8 – Meldepflichten der notifizierten Stelle
+# § 8 – Meldepflichten der notifizierten Stelle
 
 (1) Die notifizierte Stelle ist verpflichtet, der Bundesnetzagentur Folgendes zu melden:
 
@@ -237,8 +225,7 @@ Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einsch
 
 (+++ § 8: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 9 – Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
+# § 9 – Zweigunternehmen einer notifizierten Stelle und Vergabe von Unteraufträgen
 
 (1) Mit der Konformitätsbewertung verbundene Aufgaben dürfen nur mit Zustimmung des Auftraggebers an Unterauftragnehmer oder Zweigunternehmen übertragen werden.
 
@@ -250,15 +237,13 @@ Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einsch
 
 (+++ § 9: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 10 – Befugnis der notifizierten Stelle
+# § 10 – Befugnis der notifizierten Stelle
 
 Mit der Anerkennung als notifizierte Stelle im Sinne des Funkanlagengesetzes ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die Konformitätsbewertung nach Anhang III der Richtlinie 2014/53/EU sowie die Bewertung und Überwachung von Qualitätsmanagementsystemen nach Anhang IV der Richtlinie 2014/53/EU wahrzunehmen.
 
 (+++ § 10: Zur Anwendung vgl. § 11 Abs. 2, § 13 Abs. 2 +++)
 
-
-## § 11 – Befugnis der Konformitätsbewertungsstelle für Drittstaaten
+# § 11 – Befugnis der Konformitätsbewertungsstelle für Drittstaaten
 
 (1) Aufgrund der Anerkennung als Konformitätsbewertungsstelle für Drittstaaten im Rahmen der in Anlage 1 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Gemeinschaft und den dort genannten Drittstaaten ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die Aufgaben der Konformitätsbewertung im Bereich der Telekommunikation für den oder die genannten Drittstaaten im Rahmen des jeweiligen Abkommens wahrzunehmen.
 
@@ -266,13 +251,11 @@ Mit der Anerkennung als notifizierte Stelle im Sinne des Funkanlagengesetzes ist
 
 (3) Die Notifizierung erfolgt unter Anwendung des geltenden Dossiers auf elektronischem Weg an die Europäische Kommission. Die Konformitätsbewertungsstelle für Drittstaaten darf nach erfolgter Notifizierung nach § 4 Absatz 3 dieser Verordnung die Konformitätsbewertungstätigkeit erst aufnehmen, wenn die durch die Europäische Kommission an den Drittstaat übermittelte Notifizierung durch diesen anerkannt und bestätigt ist.
 
-
-## § 12 – Befugnis der notifizierten Stelle
+# § 12 – Befugnis der notifizierten Stelle
 
 Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die Konformitätsbewertung nach Anhang III der Richtlinie 2014/30/EU wahrzunehmen.
 
-
-## § 13 – Befugnis der Konformitätsbewertungsstelle für Drittstaaten
+# § 13 – Befugnis der Konformitätsbewertungsstelle für Drittstaaten
 
 (1) Mit der Anerkennung als Konformitätsbewertungsstelle für Drittstaaten im Rahmen der in Anlage 2 zu dieser Verordnung aufgeführten Abkommen zwischen der Europäischen Union und den dort genannten Drittstaaten ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, die Aufgaben der Konformitätsbewertung in Bezug auf die elektromagnetische Verträglichkeit für Drittstaaten im Rahmen des jeweiligen Abkommens wahrzunehmen.
 
@@ -280,8 +263,7 @@ Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elek
 
 (3) Die Notifizierung erfolgt unter Anwendung des geltenden Dossiers auf elektronischem Weg an die Europäische Kommission. Die Konformitätsbewertungsstelle für Drittstaaten darf nach erfolgter Notifizierung nach § 4 Absatz 3 dieser Verordnung die Konformitätsbewertungstätigkeit erst aufnehmen, wenn die durch die Europäische Kommission an den Drittstaat übermittelte Notifizierung durch diesen anerkannt und bestätigt ist.
 
-
-## § 14 – Widerruf der erteilten Befugnis
+# § 14 – Widerruf der erteilten Befugnis
 
 (1) Die Anerkennung als notifizierte Stelle oder Konformitätsbewertungsstelle für Drittstaaten erlischt mit der Einstellung des Betriebs dieser Stelle. Die Einstellung ist der Bundesnetzagentur unverzüglich schriftlich anzuzeigen.
 
@@ -299,16 +281,13 @@ Mit der Anerkennung als notifizierte Stelle im Sinne des Gesetzes über die elek
 
 2. die Akten für die Marktüberwachungsbehörde und für die Bundesnetzagentur auf Verlangen bereitgehalten werden.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Anerkennungs-Verordnung vom 7. Juni 2002 (BGBl. I S. 1792), die zuletzt durch Artikel 460 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 11)Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
+# Anlage 1 – (zu § 11)Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor Telekommunikation
 
 (Fundstelle: BGBl. I 2016, 83)
 
@@ -322,8 +301,7 @@ Beschluss des Rates 98/78/EG vom 22. Juni 1998 über den Abschluss des Abkommens
 
 Beschluss des Rates 2001/747/EG vom 27. September 2001 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und Japan über die gegenseitige Anerkennung (ABl. L 284 vom 29.10.2001, S. 1), zuletzt geändert durch Beschluss des Rates 2002/804/EG (ABl. L 278 vom 16.10.2002, S. 23)
 
-
-## Anlage 2 – (zu § 13)Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor elektromagnetische Verträglichkeit
+# Anlage 2 – (zu § 13)Abkommen im Hinblick auf die Anerkennung von Konformitätsbewertungsstellen im Sektor elektromagnetische Verträglichkeit
 
 (Fundstelle: BGBl. I 2016, 84)
 
@@ -337,5 +315,4 @@ Beschluss des Rates 98/78/EG vom 22. Juni 1998 über den Abschluss des Abkommens
 
 Beschluss des Rates 2001/747/EG vom 27. September 2001 über den Abschluss des Abkommens zwischen der Europäischen Gemeinschaft und Japan über die gegenseitige Anerkennung (ABl. L 284 vom 29.10.2001, S. 1), zuletzt geändert durch Beschluss des Rates 2002/804/EG (ABl. L 278 vom 16.10.2002, S. 23)
 
-
-## Anlage 3 – (weggefallen)
+# Anlage 3 – (weggefallen)

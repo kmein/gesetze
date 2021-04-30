@@ -1,10 +1,7 @@
-# [DrittelbG] Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat  (Drittelbeteiligungsgesetz - DrittelbG)
-
-Ausfertigungsdatum: 18.05.2004
-
+% Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat  (Drittelbeteiligungsgesetz - DrittelbG)
+% Ausfertigungsdatum: 18.05.2004
  
-
-## § 1 – Erfasste Unternehmen
+# § 1 – Erfasste Unternehmen
 
 (1) Die Arbeitnehmer haben ein Mitbestimmungsrecht im Aufsichtsrat nach Maßgabe dieses Gesetzes in
 
@@ -28,20 +25,17 @@ a) politischen, koalitionspolitischen, konfessionellen, karitativen, erzieherisc
 
 b) Zwecken der Berichterstattung oder Meinungsäußerung, auf die Artikel 5 Abs. 1 Satz 2 des Grundgesetzes anzuwenden ist,
 
-dienen.  
-Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitativen und erzieherischen Einrichtungen unbeschadet deren Rechtsform.
+dienen. Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitativen und erzieherischen Einrichtungen unbeschadet deren Rechtsform.
 
 (3) Die Vorschriften des Genossenschaftsgesetzes über die Zusammensetzung des Aufsichtsrats sowie über die Wahl und die Abberufung von Aufsichtsratsmitgliedern gelten insoweit nicht, als sie den Vorschriften dieses Gesetzes widersprechen.
 
-
-## § 2 – Konzern
+# § 2 – Konzern
 
 (1) An der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer des herrschenden Unternehmens eines Konzerns (§ 18 Abs. 1 des Aktiengesetzes) nehmen auch die Arbeitnehmer der übrigen Konzernunternehmen teil.
 
 (2) Soweit nach § 1 die Beteiligung der Arbeitnehmer im Aufsichtsrat eines herrschenden Unternehmens von dem Vorhandensein oder der Zahl von Arbeitnehmern abhängt, gelten die Arbeitnehmer eines Konzernunternehmens als solche des herrschenden Unternehmens, wenn zwischen den Unternehmen ein Beherrschungsvertrag besteht oder das abhängige Unternehmen in das herrschende Unternehmen eingegliedert ist.
 
-
-## § 3 – Arbeitnehmer, Betrieb
+# § 3 – Arbeitnehmer, Betrieb
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind die in § 5 Abs. 1 des Betriebsverfassungsgesetzes bezeichneten Personen mit Ausnahme der in § 5 Abs. 3 des Betriebsverfassungsgesetzes bezeichneten leitenden Angestellten.
 
@@ -49,8 +43,7 @@ Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitati
 
 (3) Die Gesamtheit der Schiffe eines Unternehmens gilt für die Anwendung dieses Gesetzes als ein Betrieb. Schiffe im Sinne dieses Gesetzes sind Kauffahrteischiffe, die nach dem Flaggenrechtsgesetz die Bundesflagge führen. Schiffe, die in der Regel binnen 48 Stunden nach dem Auslaufen an den Sitz eines Landbetriebs zurückkehren, gelten als Teil dieses Landbetriebs.
 
-
-## § 4 – Zusammensetzung
+# § 4 – Zusammensetzung
 
 (1) Der Aufsichtsrat eines in § 1 Abs. 1 bezeichneten Unternehmens muss zu einem Drittel aus Arbeitnehmervertretern bestehen.
 
@@ -60,37 +53,31 @@ Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitati
 
 (4) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer sollen Frauen und Männer entsprechend ihrem zahlenmäßigen Verhältnis im Unternehmen vertreten sein.
 
-
-## § 5 – Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+# § 5 – Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer werden nach den Grundsätzen der Mehrheitswahl in allgemeiner, geheimer, gleicher und unmittelbarer Wahl für die Zeit gewählt, die im Gesetz oder in der Satzung für die von der Hauptversammlung zu wählenden Aufsichtsratsmitglieder bestimmt ist.
 
 (2) Wahlberechtigt sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben. § 7 Satz 2 des Betriebsverfassungsgesetzes gilt entsprechend.
 
-
-## § 6 – Wahlvorschläge
+# § 6 – Wahlvorschläge
 
 Die Wahl erfolgt auf Grund von Wahlvorschlägen der Betriebsräte und der Arbeitnehmer. Die Wahlvorschläge der Arbeitnehmer müssen von mindestens einem Zehntel der Wahlberechtigten oder von mindestens 100 Wahlberechtigten unterzeichnet sein.
 
-
-## § 7 – Ersatzmitglieder
+# § 7 – Ersatzmitglieder
 
 (1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Ein Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
 
-
-## § 8 – Bekanntmachung der Mitglieder des Aufsichtsrats
+# § 8 – Bekanntmachung der Mitglieder des Aufsichtsrats
 
 Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats unverzüglich nach ihrer Bestellung in den Betrieben des Unternehmens bekannt zu machen und im Bundesanzeiger zu veröffentlichen. Nehmen an der Wahl der Aufsichtsratsmitglieder des Unternehmens auch die Arbeitnehmer eines anderen Unternehmens teil, so ist daneben das zur gesetzlichen Vertretung des anderen Unternehmens befugte Organ zur Bekanntmachung in seinen Betrieben verpflichtet.
 
-
-## § 9 – Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
+# § 9 – Schutz von Aufsichtsratsmitgliedern vor Benachteiligung
 
 Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert werden. Sie dürfen wegen ihrer Tätigkeit im Aufsichtsrat nicht benachteiligt oder begünstigt werden. Dies gilt auch für ihre berufliche Entwicklung.
 
-
-## § 10 – Wahlschutz und Wahlkosten
+# § 10 – Wahlschutz und Wahlkosten
 
 (1) Niemand darf die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer behindern. Insbesondere darf niemand in der Ausübung des aktiven und passiven Wahlrechts beschränkt werden.
 
@@ -98,8 +85,7 @@ Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigke
 
 (3) Die Kosten der Wahlen trägt das Unternehmen. Versäumnis von Arbeitszeit, die zur Ausübung des Wahlrechts oder der Betätigung im Wahlvorstand erforderlich ist, berechtigt nicht zur Minderung des Arbeitsentgelts.
 
-
-## § 11 – Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
+# § 11 – Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
@@ -113,15 +99,13 @@ Aufsichtsratsmitglieder der Arbeitnehmer dürfen in der Ausübung ihrer Tätigke
 
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
-
-## § 12 – Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
+# § 12 – Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der Amtszeit auf Antrag eines Betriebsrats oder von mindestens einem Fünftel der Wahlberechtigten durch Beschluss abberufen werden. Der Beschluss der Wahlberechtigten wird in allgemeiner, geheimer, gleicher und unmittelbarer Abstimmung gefasst; er bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Auf die Beschlussfassung findet § 2 Abs. 1 Anwendung.
 
 (2) Absatz 1 ist für die Abberufung von Ersatzmitgliedern entsprechend anzuwenden.
 
-
-## § 13 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 13 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über das Verfahren für die Wahl und die Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere über
 
@@ -143,7 +127,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften über 
 
 9. die Aufbewahrung der Wahlakten.
 
-
-## § 14 – Verweisungen
+# § 14 – Verweisungen
 
 Soweit in anderen Gesetzen auf Vorschriften verwiesen wird, die durch Artikel 6 Abs. 2 des Zweiten Gesetzes zur Vereinfachung der Wahl der Arbeitnehmervertreter in den Aufsichtsrat aufgehoben werden, treten an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.

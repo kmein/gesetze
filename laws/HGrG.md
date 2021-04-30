@@ -1,20 +1,15 @@
-# [HGrG] Gesetz über die Grundsätze des Haushaltsrechts des Bundes und der Länder  (Haushaltsgrundsätzegesetz - HGrG)
-
-Ausfertigungsdatum: 19.08.1969
-
+% Gesetz über die Grundsätze des Haushaltsrechts des Bundes und der Länder  (Haushaltsgrundsätzegesetz - HGrG)
+% Ausfertigungsdatum: 19.08.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Gesetzgebungsauftrag
+# § 1 – Gesetzgebungsauftrag
 
 Die Vorschriften dieses Teils enthalten Grundsätze für die Gesetzgebung des Bundes und der Länder. Bund und Länder sind verpflichtet, ihr Haushaltsrecht nach diesen Grundsätzen zu regeln.
 
-
-## § 1a – Haushaltswirtschaft
+# § 1a – Haushaltswirtschaft
 
 (1) Die Haushaltswirtschaft kann in ihrem Rechnungswesen im Rahmen der folgenden Vorschriften kameral oder nach den Grundsätzen der staatlichen doppelten Buchführung nach § 7a (staatliche Doppik) gestaltet werden. Die Aufstellung, Bewirtschaftung und Rechnungslegung des Haushalts kann gegliedert nach Titeln, Konten oder Produktstrukturen (Produkthaushalt) erfolgen.
 
@@ -22,30 +17,25 @@ Die Vorschriften dieses Teils enthalten Grundsätze für die Gesetzgebung des Bu
 
 (3) Die Aufstellung und Ausführung des Haushaltsplans als Produkthaushalt erfolgt leistungsbezogen durch die Verbindung von nach Produkten strukturierten Mittelzuweisungen mit einer Spezialität nach Leistungszwecken. Art und Umfang der zu erbringenden Leistungen sind durch Gesetz oder den Haushaltsplan verbindlich festzulegen. Für die Bereiche, für die ein Produkthaushalt aufgestellt wird, ist grundsätzlich eine Kosten- und Leistungsrechnung einzuführen.
 
-
-## § 2 – Bedeutung des Haushaltsplans
+# § 2 – Bedeutung des Haushaltsplans
 
 Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs beziehungsweise bei doppisch basierter Haushaltswirtschaft auch des Aufwands, der zur Erfüllung der Aufgaben des Bundes oder des Landes im Bewilligungszeitraum voraussichtlich notwendig ist. Der Haushaltsplan ist die Grundlage für die Haushalts- und Wirtschaftsführung. Bei seiner Aufstellung und Ausführung ist den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.
 
-
-## § 3 – Wirkungen des Haushaltsplans
+# § 3 – Wirkungen des Haushaltsplans
 
 (1) Der Haushaltsplan ermächtigt die Verwaltung, Ausgaben zu leisten und Verpflichtungen einzugehen.
 
 (2) Durch den Haushaltsplan werden Ansprüche oder Verbindlichkeiten weder begründet noch aufgehoben.
 
-
-## § 4 – Haushaltsjahr
+# § 4 – Haushaltsjahr
 
 Rechnungsjahr (Haushaltsjahr) ist das Kalenderjahr. Das für die Finanzen zuständige Ministerium kann für einzelne Bereiche etwas anderes bestimmen.
 
-
-## § 5 – Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen
+# § 5 – Notwendigkeit der Ausgaben und Verpflichtungsermächtigungen
 
 Bei Aufstellung und Ausführung des Haushaltsplans sind nur die Ausgaben und die Ermächtigungen zum Eingehen von Verpflichtungen zur Leistung von Ausgaben in künftigen Jahren (Verpflichtungsermächtigungen) zu berücksichtigen, die zur Erfüllung der Aufgaben des Bundes oder des Landes notwendig sind.
 
-
-## § 6 – Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung
+# § 6 – Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung
 
 (1) Bei Aufstellung und Ausführung des Haushaltsplans sind die Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten.
 
@@ -53,20 +43,17 @@ Bei Aufstellung und Ausführung des Haushaltsplans sind nur die Ausgaben und die
 
 (3) In geeigneten Bereichen soll eine Kosten- und Leistungsrechnung eingeführt werden.
 
-
-## § 6a – Budgetierung
+# § 6a – Budgetierung
 
 (1) Die Einnahmen, Ausgaben und Verpflichtungsermächtigungen können im Rahmen eines Systems der dezentralen Verantwortung einer Organisationseinheit veranschlagt werden. Dabei wird die Finanzverantwortung auf der Grundlage der Haushaltsermächtigung auf die Organisationseinheiten übertragen, die die Fach- und Sachverantwortung haben. Voraussetzung sind geeignete Informations- und Steuerungsinstrumente, mit denen insbesondere sichergestellt wird, daß das jeweils verfügbare Ausgabevolumen nicht überschritten wird. Art und Umfang der zu erbringenden Leistungen sind durch Gesetz oder den Haushaltsplan festzulegen.
 
 (2) In den Fällen des Absatzes 1 sollen durch Gesetz oder Haushaltsplan für die jeweilige Organisationseinheit Regelungen zur Zweckbindung, Übertragbarkeit und Deckungsfähigkeit getroffen werden.
 
-
-## § 7 – Grundsatz der Gesamtdeckung
+# § 7 – Grundsatz der Gesamtdeckung
 
 Alle Einnahmen dienen als Deckungsmittel für alle Ausgaben. Auf die Verwendung für bestimmte Zwecke dürfen Einnahmen beschränkt werden, soweit dies durch Gesetz vorgeschrieben oder im Haushaltsplan zugelassen ist.
 
-
-## § 7a – Grundsätze der staatlichen Doppik
+# § 7a – Grundsätze der staatlichen Doppik
 
 (1) Die staatliche Doppik folgt den Vorschriften des Ersten und des Zweiten Abschnitts Erster und Zweiter Unterabschnitt des Dritten Buches Handelsgesetzbuch und den Grundsätzen der ordnungsmäßigen Buchführung und Bilanzierung. Dies umfasst insbesondere die Vorschriften zur
 
@@ -92,8 +79,7 @@ Maßgeblich sind die Bestimmungen für Kapitalgesellschaften.
 
 (2) Konkretisierungen, insbesondere die Ausübung handelsrechtlicher Wahlrechte, und von Absatz 1 abweichende Regelungen, die aufgrund der Besonderheiten der öffentlichen Haushaltswirtschaft erforderlich sind, werden von Bund und Ländern in dem Gremium nach § 49a Absatz 1 erarbeitet.
 
-
-## § 8 – Vollständigkeit und Einheit, Fälligkeitsprinzip
+# § 8 – Vollständigkeit und Einheit, Fälligkeitsprinzip
 
 (1) Für jedes Haushaltsjahr ist ein Haushaltsplan aufzustellen.
 
@@ -105,15 +91,13 @@ Maßgeblich sind die Bestimmungen für Kapitalgesellschaften.
 
 3. voraussichtlich benötigten Verpflichtungsermächtigungen.
 
-
-## § 9 – Geltungsdauer der Haushaltspläne
+# § 9 – Geltungsdauer der Haushaltspläne
 
 (1) Der Haushaltsplan kann für zwei Haushaltsjahre, nach Jahren getrennt, aufgestellt werden.
 
 (2) Der Haushaltsplan kann in einen Verwaltungshaushalt und in einen Finanzhaushalt gegliedert werden; beide können jeweils für zwei Haushaltsjahre, nach Jahren getrennt, aufgestellt werden. Die Bewilligungszeiträume für beide Haushalte können in aufeinanderfolgenden Haushaltsjahren beginnen.
 
-
-## § 10 – Gliederung von Einzelplänen und Gesamtplan
+# § 10 – Gliederung von Einzelplänen und Gesamtplan
 
 (1) Der Haushaltsplan besteht aus den Einzelplänen und dem Gesamtplan, bei einem doppischen Rechnungswesen aus einem Erfolgsplan auf Ebene der Einzelpläne sowie des Gesamtplans und aus einem doppischen Finanzplan auf Ebene des Gesamtplans.
 
@@ -149,8 +133,7 @@ g) Zuweisungen und Zuschüsse zur Finanzierung von Ausgaben für die in den Buch
 
 Bei doppisch basierten Haushalten tritt an die Stelle der Nummern 2 und 3 eine Übersicht über den Zahlungsmittelfluss von Ein- und Auszahlungen aus laufender Verwaltungstätigkeit, Investitionstätigkeit, Finanzierungstätigkeit sowie über die sich daraus ergebenden zahlungswirksamen Veränderungen des Zahlungsmittelbestandes (doppischer Finanzplan) und eine Übersicht über den Finanzierungssaldo.
 
-
-## § 11 – Übersichten zum Haushaltsplan
+# § 11 – Übersichten zum Haushaltsplan
 
 (1) Der Haushaltsplan hat folgende Anlagen:
 
@@ -172,8 +155,7 @@ Die Anlagen sind dem Entwurf des Haushaltsplans beizufügen.
 
 (3) Bei Produkthaushalten ist die Funktionenübersicht nach Absatz 1 Nummer 1b durch eine Produktübersicht zu ersetzen. Die Produktübersicht richtet sich nach Verwaltungsvorschriften über die funktionale Gliederung des Produkthaushalts (Produktrahmen).
 
-
-## § 12 – Bruttoveranschlagung, Einzelveranschlagung, Selbstbewirtschaftungsmittel, Erläuterungen, Planstellen
+# § 12 – Bruttoveranschlagung, Einzelveranschlagung, Selbstbewirtschaftungsmittel, Erläuterungen, Planstellen
 
 (1) Die Einnahmen und Ausgaben in kameralen Haushalten, Aufwendungen und Erträge in doppischen Haushalten sowie die zur Produkterstellung vorgesehenen Mittel in Produkthaushalten sind in voller Höhe und getrennt voneinander zu veranschlagen. Durch Gesetz kann zugelassen werden, daß Satz 1 nicht für die Veranschlagung der Einnahmen aus Krediten vom Kreditmarkt und der hiermit zusammenhängenden Tilgungsausgaben gilt. Darüber hinaus können Ausnahmen von Satz 1 im Haushaltsplan zugelassen werden, insbesondere für Nebenkosten und Nebenerlöse bei Erwerbs- oder Veräußerungsgeschäften. In den Fällen des Satzes 3 ist die Berechnung des veranschlagten Betrages dem Haushaltsplan als Anlage beizufügen oder in die Erläuterungen aufzunehmen.
 
@@ -187,8 +169,7 @@ Die Anlagen sind dem Entwurf des Haushaltsplans beizufügen.
 
 (6) Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im Haushaltsplan auszubringen.
 
-
-## § 13 – Kreditermächtigungen
+# § 13 – Kreditermächtigungen
 
 (1) Das Haushaltsgesetz bestimmt, bis zu welcher Höhe das für die Finanzen zuständige Ministerium Kredite aufnehmen darf
 
@@ -200,13 +181,11 @@ Die Anlagen sind dem Entwurf des Haushaltsplans beizufügen.
 
 (3) (weggefallen)
 
-
-## § 14 – Zuwendungen
+# § 14 – Zuwendungen
 
 Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen außerhalb der Verwaltung des Bundes oder des Landes zur Erfüllung bestimmter Zwecke (Zuwendungen) dürfen nur veranschlagt werden, wenn der Bund oder das Land an der Erfüllung durch solche Stellen ein erhebliches Interesse hat, das ohne die Zuwendungen nicht oder nicht im notwendigen Umfang befriedigt werden kann.
 
-
-## § 15 – Übertragbarkeit, Deckungsfähigkeit
+# § 15 – Übertragbarkeit, Deckungsfähigkeit
 
 (1) Ausgaben für Investitionen und Ausgaben aus zweckgebundenen Einnahmen sind übertragbar. Andere Ausgaben können im Haushaltsplan für übertragbar erklärt werden, wenn dies ihre wirtschaftliche und sparsame Verwendung fördert.
 
@@ -214,8 +193,7 @@ Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen außerhalb
 
 (3) Im Haushaltsplan können Ausgaben und Verpflichtungsermächtigungen jeweils für gegenseitig oder einseitig deckungsfähig erklärt werden, wenn ein verwaltungsmäßiger oder sachlicher Zusammenhang besteht oder eine wirtschaftliche und sparsame Verwendung gefördert wird. Ausgaben und Verpflichtungsermächtigungen, die ohne nähere Angabe des Verwendungszweckes veranschlagt sind, dürfen nicht für deckungsfähig erklärt werden.
 
-
-## § 16 – Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+# § 16 – Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
 (1) Ausgaben und Verpflichtungsermächtigungen für Baumaßnahmen dürfen erst veranschlagt werden, wenn Pläne, Kostenermittlungen und Erläuterungen vorliegen, aus denen die Art der Ausführung, die Kosten der Baumaßnahme, des Grunderwerbs und der Einrichtungen sowie die vorgesehene Finanzierung und ein Zeitplan ersichtlich sind. Den Unterlagen ist eine Schätzung der nach Fertigstellung der Maßnahme entstehenden jährlichen Haushaltsbelastungen beizufügen.
 
@@ -223,20 +201,17 @@ Ausgaben und Verpflichtungsermächtigungen für Leistungen an Stellen außerhalb
 
 (3) Ausnahmen von den Absätzen 1 und 2 sind nur zulässig, wenn es im Einzelfall nicht möglich ist, die Unterlagen rechtzeitig fertigzustellen, und aus einer späteren Veranschlagung dem Bund oder dem Land ein Nachteil erwachsen würde.
 
-
-## § 17 – Fehlbetrag
+# § 17 – Fehlbetrag
 
 Ein finanzieller Fehlbetrag ist spätestens in den Haushaltsplan für das zweitnächste Haushaltsjahr einzustellen. Er darf durch Kredite nur gedeckt werden, soweit die Möglichkeiten einer Kreditaufnahme nicht ausgeschöpft sind.
 
-
-## § 18 – Betriebe, Sondervermögen
+# § 18 – Betriebe, Sondervermögen
 
 (1) Betriebe des Bundes oder des Landes haben einen Wirtschaftsplan aufzustellen, wenn ein Wirtschaften nach dem Haushaltsplan des Bundes oder des Landes nicht zweckmäßig ist. Der Wirtschaftsplan oder eine Übersicht über den Wirtschaftsplan ist dem Haushaltsplan als Anlage beizufügen oder in die Erläuterungen aufzunehmen. Im Haushaltsplan sind nur die Zuführungen oder die Ablieferungen zu veranschlagen. Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im Haushaltsplan auszubringen.
 
 (2) Bei Sondervermögen sind nur die Zuführungen oder die Ablieferungen im Haushaltsplan zu veranschlagen. Über die Einnahmen, Ausgaben und Verpflichtungsermächtigungen der Sondervermögen sind Übersichten dem Haushaltsplan als Anlagen beizufügen oder in die Erläuterungen aufzunehmen.
 
-
-## § 19 – Bewirtschaftung der Ansätze des Haushaltsplans
+# § 19 – Bewirtschaftung der Ansätze des Haushaltsplans
 
 (1) Einnahmen sind rechtzeitig und vollständig zu erheben. In der staatlichen Doppik sind Erträge und Forderungen vollständig zu erfassen. Forderungen sind rechtzeitig einzuziehen.
 
@@ -244,20 +219,17 @@ Ein finanzieller Fehlbetrag ist spätestens in den Haushaltsplan für das zweitn
 
 (3) Für die Bewirtschaftung von Ermächtigungen des Bundes durch Landesstellen sind die Bewirtschaftungserfordernisse des Bundes zu berücksichtigen, soweit in Rechtsvorschriften des Bundes oder Vereinbarungen nicht etwas anderes bestimmt ist.
 
-
-## § 20 – Bruttonachweis, Einzelnachweis
+# § 20 – Bruttonachweis, Einzelnachweis
 
 (1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei dem hierfür vorgesehenen Titel zu buchen, soweit sich aus § 12 Abs. 1 Satz 2 und 3 nichts anderes ergibt.
 
 (2) Für denselben Zweck dürfen Ausgaben aus verschiedenen Titeln nur geleistet werden, soweit der Haushaltsplan dies zuläßt. Entsprechendes gilt für die Inanspruchnahme von Verpflichtungsermächtigungen.
 
-
-## § 21 – (weggefallen)
+# § 21 – (weggefallen)
 
 \-
 
-
-## § 22 – Verpflichtungsermächtigungen
+# § 22 – Verpflichtungsermächtigungen
 
 (1) Maßnahmen, die den Bund oder das Land zur Leistung von Ausgaben in künftigen Haushaltsjahren verpflichten können, sind nur zulässig, wenn der Haushaltsplan dazu ermächtigt. Im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses kann das für die Finanzen zuständige Ministerium Ausnahmen zulassen.
 
@@ -269,8 +241,7 @@ Ein finanzieller Fehlbetrag ist spätestens in den Haushaltsplan für das zweitn
 
 (5) Die Absätze 1 bis 4 sind auf Verträge im Sinne von Artikel 59 Abs. 2 Satz 1 des Grundgesetzes nicht anzuwenden.
 
-
-## § 23 – Gewährleistungen, Kreditzusagen
+# § 23 – Gewährleistungen, Kreditzusagen
 
 (1) Die Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen, die zu Ausgaben in künftigen Haushaltsjahren führen können, bedarf einer Ermächtigung durch Gesetz, die der Höhe nach bestimmt ist.
 
@@ -278,25 +249,21 @@ Ein finanzieller Fehlbetrag ist spätestens in den Haushaltsplan für das zweitn
 
 (3) Bei Maßnahmen nach Absatz 2 haben die zuständigen Stellen auszubedingen, daß sie oder ihre Beauftragten bei den Beteiligten jederzeit prüfen können, soweit dies im Zusammenhang mit der Verpflichtung notwendig ist. Von der Ausbedingung eines Prüfungsrechts kann ausnahmsweise mit Einwilligung des für die Finanzen zuständigen Ministeriums abgesehen werden.
 
-
-## § 24 – Andere Maßnahmen von finanzieller Bedeutung
+# § 24 – Andere Maßnahmen von finanzieller Bedeutung
 
 Der Erlaß von Verwaltungsvorschriften, der Abschluß von Tarifverträgen und die Gewährung von über- oder außertariflichen Leistungen sowie die Festsetzung oder Änderung von Entgelten für Verwaltungsleistungen bedürfen der Einwilligung des für die Finanzen zuständigen Ministeriums, wenn diese Regelungen zu Einnahmeminderungen oder zu zusätzlichen Ausgaben im laufenden Haushaltsjahr oder in künftigen Haushaltsjahren führen können. Satz 1 ist auf sonstige Maßnahmen von grundsätzlicher oder erheblicher finanzieller Bedeutung anzuwenden, wenn sie zu Einnahmeminderungen im laufenden Haushaltsjahr oder in künftigen Haushaltsjahren oder zu zusätzlichen Ausgaben im laufenden Haushaltsjahr führen können.
 
-
-## § 25 – Haushaltswirtschaftliche Sperre
+# § 25 – Haushaltswirtschaftliche Sperre
 
 Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann es das für die Finanzen zuständige Ministerium von seiner Einwilligung abhängig machen, ob Verpflichtungen eingegangen oder Ausgaben geleistet werden.
 
-
-## § 26 – Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen
+# § 26 – Zuwendungen, Verwaltung von Mitteln oder Vermögensgegenständen
 
 (1) Zuwendungen dürfen nur unter den Voraussetzungen des § 14 gewährt werden. Dabei ist zu bestimmen, wie die zweckentsprechende Verwendung der Zuwendungen nachzuweisen ist. Außerdem ist ein Prüfungsrecht der zuständigen Dienststelle oder ihrer Beauftragten festzulegen.
 
 (2) Sollen Mittel oder Vermögensgegenstände des Bundes oder des Landes von Stellen außerhalb der Verwaltung des Bundes oder des Landes verwaltet werden, ist Absatz 1 entsprechend anzuwenden.
 
-
-## § 27 – Sachliche und zeitliche Bindung
+# § 27 – Sachliche und zeitliche Bindung
 
 (1) Ermächtigungen dürfen nur zu im Haushaltsplan bezeichneten Zwecken und Leistungen, soweit und solange sie fortdauern, und nur bis zum Ende des Haushaltsjahres geleistet oder in Anspruch genommen werden. Durch Gesetz kann zugelassen werden, daß nicht in Anspruch genommene Verpflichtungsermächtigungen bis zur Verkündung des Haushaltsgesetzes für das nächste Haushaltsjahr gelten.
 
@@ -306,27 +273,23 @@ Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann es das für 
 
 (4) Die Bildung und die Inanspruchnahme von doppischen Rücklagen bedürfen der Einwilligung des für die Finanzen zuständigen Ministeriums.
 
-
-## § 28 – Personalwirtschaftliche Grundsätze
+# § 28 – Personalwirtschaftliche Grundsätze
 
 (1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Planstelle verliehen werden.
 
 (2) Personalausgaben, die nicht auf Gesetz oder Tarifvertrag beruhen, dürfen nur geleistet werden, wenn dafür Ausgabemittel besonders zur Verfügung gestellt sind.
 
-
-## § 29 – Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
+# § 29 – Baumaßnahmen, größere Beschaffungen, größere Entwicklungsvorhaben
 
 (1) Baumaßnahmen dürfen nur begonnen werden, wenn ausführliche Entwurfszeichnungen und Kostenberechnungen vorliegen, es sei denn, daß es sich um kleine Maßnahmen handelt. In den Zeichnungen und Berechnungen darf von den in § 16 bezeichneten Unterlagen nur insoweit abgewichen werden, als die Änderung nicht erheblich ist; weitergehende Ausnahmen bedürfen der Einwilligung des für die Finanzen zuständigen Ministeriums.
 
 (2) Größeren Beschaffungen und größeren Entwicklungsvorhaben sind ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 30 – Öffentliche Ausschreibung
+# § 30 – Öffentliche Ausschreibung
 
 Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen. Teilnahmewettbewerb ist ein Verfahren, bei dem der öffentliche Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme eine beschränkte Anzahl von geeigneten Unternehmen nach objektiven, transparenten und nichtdiskriminierenden Kriterien auswählt und zur Abgabe von Angeboten auffordert.
 
-
-## § 31 – Änderung von Verträgen, Veränderung von Ansprüchen
+# § 31 – Änderung von Verträgen, Veränderung von Ansprüchen
 
 (1) Verträge dürfen zum Nachteil des Bundes oder Landes nur in besonders begründeten Ausnahmefällen aufgehoben oder geändert werden. Vergleiche dürfen nur abgeschlossen werden, wenn dies für den Bund oder das Land zweckmäßig und wirtschaftlich ist.
 
@@ -342,23 +305,19 @@ Dem Abschluss von Verträgen über Lieferungen und Leistungen muss eine Öffentl
 
 (4) Andere Regelungen in Rechtsvorschriften bleiben unberührt.
 
-
-## § 32 – Zahlungen
+# § 32 – Zahlungen
 
 Zahlungen dürfen nur von Kassen und Zahlstellen angenommen oder geleistet werden. Die Anordnung der Zahlung muß durch das zuständige Ministerium oder die von ihm ermächtigte Dienststelle schriftlich oder auf elektronischem Wege erteilt werden. Das für die Finanzen zuständige Ministerium kann Ausnahmen zulassen.
 
-
-## § 33 – Buchführung, Belegpflicht
+# § 33 – Buchführung, Belegpflicht
 
 Über Zahlungen ist nach der im Haushaltsplan oder sonst vorgesehenen Ordnung in zeitlicher Folge Buch zu führen. Das für die Finanzen zuständige Ministerium kann für eingegangene Verpflichtungen, Geldforderungen und andere Bewirtschaftungsvorgänge die Buchführung anordnen. Alle Buchungen sind zu belegen.
 
-
-## § 33a – (weggefallen)
+# § 33a – (weggefallen)
 
 \-
 
-
-## § 34 – Buchung nach Haushaltsjahren
+# § 34 – Buchung nach Haushaltsjahren
 
 (1) Zahlungen sowie eingegangene Verpflichtungen, Geldforderungen und andere Bewirtschaftungsvorgänge, für die nach § 33 Satz 2 die Buchführung angeordnet ist, sind nach Haushaltsjahren getrennt zu buchen.
 
@@ -380,20 +339,17 @@ Für doppisch basierte Haushalte sind die §§ 7a und 49a entsprechend anzuwende
 
 (6) Ausnahmen von den Absätzen 2 bis 4 können zugelassen werden.
 
-
-## § 35 – Vermögensbuchführung, integrierte Buchführung
+# § 35 – Vermögensbuchführung, integrierte Buchführung
 
 Über das Vermögen und die Schulden ist Buch zu führen oder ein anderer Nachweis zu erbringen. Die Buchführung über das Vermögen und die Schulden kann mit der Buchführung über die Einnahmen und Ausgaben verbunden werden.
 
-
-## § 36 – Abschluß der Bücher
+# § 36 – Abschluß der Bücher
 
 (1) Die Bücher sind jährlich abzuschließen. Das für die Finanzen zuständige Ministerium bestimmt den Zeitpunkt des Abschlusses.
 
 (2) Nach dem Abschluß der Bücher dürfen Einnahmen oder Ausgaben nicht mehr für den abgelaufenen Zeitraum gebucht werden.
 
-
-## § 37 – Rechnungslegung
+# § 37 – Rechnungslegung
 
 (1) Die zuständigen Stellen haben für jedes Haushaltsjahr auf der Grundlage der abgeschlossenen Bücher Rechnung zu legen. Das für die Finanzen zuständige Ministerium kann im Einvernehmen mit dem Rechnungshof bestimmen, daß für einen anderen Zeitraum Rechnung zu legen ist.
 
@@ -403,8 +359,7 @@ Für doppisch basierte Haushalte sind die §§ 7a und 49a entsprechend anzuwende
 
 (4) Bei Produkthaushalten ist über die nach Produkten strukturierte Mittelzuweisung sowie über Art und Umfang der erbrachten Leistungen Rechnung zu legen.
 
-
-## § 38 – Gliederung der Haushaltsrechnung
+# § 38 – Gliederung der Haushaltsrechnung
 
 (1) In der kameralen Haushaltsrechnung sind die Einnahmen und Ausgaben nach der in § 33 bezeichneten Ordnung den Ansätzen des Haushaltsplans unter Berücksichtigung der Einnahme- und Ausgabereste (Haushaltsreste) und der Vorgriffe gegenüberzustellen.
 
@@ -452,8 +407,7 @@ Für doppisch basierte Haushalte sind die §§ 7a, 37 Absatz 3 und 4 sowie § 49
 
 (3) Für die jeweiligen Ausgaben und entsprechend für die Schlußsummen ist die Höhe der eingegangenen Verpflichtungen und Geldforderungen besonders anzugeben, soweit sie nach § 33 Satz 2 der Buchführung unterliegen.
 
-
-## § 39 – Kassenmäßiger Abschluß
+# § 39 – Kassenmäßiger Abschluß
 
 In kameralen Haushalten sind in dem kassenmäßigen Abschluss nachzuweisen:
 
@@ -475,8 +429,7 @@ c) der Finanzierungssaldo aus Buchstabe a und Buchstabe b.
 
 Für doppisch basierte Haushalte sind die §§ 7a, 37 Absatz 3 und 4 sowie § 49a entsprechend anzuwenden.
 
-
-## § 40 – Haushaltsabschluß
+# § 40 – Haushaltsabschluß
 
 In kameralen Haushalten sind in dem Haushaltsabschluss nachzuweisen:
 
@@ -498,13 +451,11 @@ e) das rechnungsmäßige Gesamtergebnis aus Nummer 1 Buchstabe b und Nummer 2 Bu
 
 Für doppisch basierte Haushalte sind die §§ 7a, 37 Absatz 3 und 4 sowie § 49a entsprechend anzuwenden.
 
-
-## § 41 – Abschlußbericht
+# § 41 – Abschlußbericht
 
 Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem Bericht zu erläutern.
 
-
-## § 42 – Aufgaben des Rechnungshofes
+# § 42 – Aufgaben des Rechnungshofes
 
 (1) Die gesamte Haushalts- und Wirtschaftsführung des Bundes und der Länder einschließlich ihrer Sondervermögen und Betriebe wird von Rechnungshöfen geprüft.
 
@@ -522,8 +473,7 @@ Der kassenmäßige Abschluß und der Haushaltsabschluß sind in einem Bericht zu
 
 (5) Auf Grund von Prüfungserfahrungen kann der Rechnungshof beraten. Das Nähere wird durch Gesetz geregelt.
 
-
-## § 43 – Prüfung bei Stellen außerhalb der Verwaltung
+# § 43 – Prüfung bei Stellen außerhalb der Verwaltung
 
 (1) Der Rechnungshof ist, unbeschadet weitergehender landesrechtlicher Bestimmungen, berechtigt, bei Stellen außerhalb der Verwaltung des Bundes oder des Landes zu prüfen, wenn sie
 
@@ -539,20 +489,17 @@ Leiten diese Stellen die Mittel an Dritte weiter, so kann der Rechnungshof auch 
 
 (3) Bei der Gewährung von Krediten aus Haushaltsmitteln sowie bei der Übernahme von Bürgschaften, Garantien oder sonstigen Gewährleistungen durch den Bund oder das Land kann der Rechnungshof bei den Beteiligten prüfen, ob sie ausreichende Vorkehrungen gegen Nachteile für den Bund oder das Land getroffen oder ob die Voraussetzungen für eine Inanspruchnahme des Bundes oder des Landes vorgelegen haben.
 
-
-## § 44 – Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen
+# § 44 – Prüfung staatlicher Betätigung bei privatrechtlichen Unternehmen
 
 (1) Der Rechnungshof prüft die Betätigung des Bundes oder des Landes bei Unternehmen in einer Rechtsform des privaten Rechts, an denen der Bund oder das Land unmittelbar oder mittelbar beteiligt ist, unter Beachtung kaufmännischer Grundsätze.
 
 (2) Absatz 1 gilt entsprechend bei Genossenschaften, in denen der Bund oder das Land Mitglied ist.
 
-
-## § 45 – Gemeinsame Prüfung
+# § 45 – Gemeinsame Prüfung
 
 Sind für die Prüfung mehrere Rechnungshöfe zuständig, so soll gemeinsam geprüft werden. Soweit nicht die Prüfung durch einen bestimmten Rechnungshof verfassungsrechtlich vorgeschrieben ist, können die Rechnungshöfe einander durch Vereinbarung Prüfungsaufgaben übertragen.
 
-
-## § 46 – Ergebnis der Prüfung
+# § 46 – Ergebnis der Prüfung
 
 (1) Der Rechnungshof faßt das Ergebnis seiner Prüfung, soweit es für die Entlastung der Regierung von Bedeutung sein kann, jährlich in einem Bericht für die gesetzgebenden Körperschaften zusammen.
 
@@ -560,15 +507,13 @@ Sind für die Prüfung mehrere Rechnungshöfe zuständig, so soll gemeinsam gepr
 
 (3) Über Angelegenheiten von besonderer Bedeutung kann der Rechnungshof die gesetzgebenden Körperschaften und die Regierung jederzeit unterrichten.
 
-
-## § 47 – Entlastung, Rechnung des Rechnungshofes
+# § 47 – Entlastung, Rechnung des Rechnungshofes
 
 (1) Die gesetzgebenden Körperschaften beschließen auf Grund der Rechnung und des jährlichen Berichts des Rechnungshofes über die Entlastung der Regierung.
 
 (2) Die Rechnung des Rechnungshofes wird von den gesetzgebenden Körperschaften geprüft, die auch die Entlastung erteilen.
 
-
-## § 48 – Grundsatz
+# § 48 – Grundsatz
 
 (1) Auf Sondervermögen des Bundes oder des Landes und bundes- oder landesunmittelbare juristische Personen des öffentlichen Rechts ist dieses Gesetz entsprechend anzuwenden, soweit durch Gesetz oder auf Grund eines Gesetzes nichts anderes bestimmt ist.
 
@@ -576,25 +521,21 @@ Sind für die Prüfung mehrere Rechnungshöfe zuständig, so soll gemeinsam gepr
 
 (3) Für Unternehmen in der Rechtsform einer juristischen Person des privaten Rechts, an denen die in Absatz 2 Satz 1 genannten Unternehmen unmittelbar oder mittelbar mit Mehrheit beteiligt sind, gelten die §§ 53 und 54 entsprechend.
 
-
-## § 49 – Grundsatz
+# § 49 – Grundsatz
 
 Die Vorschriften dieses Teils gelten einheitlich und unmittelbar für den Bund und die Länder.
 
-
-## § 49a – Gremium zur Standardisierung des staatlichen Rechnungswesens
+# § 49a – Gremium zur Standardisierung des staatlichen Rechnungswesens
 
 (1) Zur Gewährleistung einer einheitlichen Verfahrens- und Datengrundlage jeweils für Kameralistik, Doppik und Produkthaushalte richten Bund und Länder ein gemeinsames Gremium ein. Das Gremium erarbeitet Standards für kamerale und doppische Haushalte sowie für Produkthaushalte und stellt dabei sicher, dass die Anforderungen der Finanzstatistik einschließlich der der Volkswirtschaftlichen Gesamtrechnungen berücksichtigt werden. Beschlüsse werden mit den Stimmen des Bundes und der Mehrheit von zwei Dritteln der Zahl der Länder gefasst. Die Standards werden jeweils durch Verwaltungsvorschriften des Bundes und der Länder umgesetzt. Das Gremium erarbeitet die Standards für doppische Haushalte und Produkthaushalte erstmals zum 1. Januar 2010 und überprüft die Standards für doppische Haushalte, Produkthaushalte und kamerale Haushalte anschließend einmal jährlich. Näheres regelt eine Verwaltungsvereinbarung zwischen Bund und Ländern.
 
 (2) Zur Gewährleistung der Vergleichbarkeit der Haushaltswirtschaft bei Bund und Ländern kann die Bundesregierung durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, nähere Bestimmungen erlassen über die Standards für kamerale und doppische Haushalte sowie für Produkthaushalte, insbesondere zum Gruppierungs- und Funktionenplan, zum Verwaltungskontenrahmen und Produktrahmen sowie zu den Standards nach § 7a Absatz 2 für die staatliche Doppik.
 
-
-## § 49b – Finanzstatistische Berichtspflichten
+# § 49b – Finanzstatistische Berichtspflichten
 
 Bund und Länder stellen unabhängig von der Art ihrer Haushaltswirtschaft sicher, dass zur Erfüllung finanzstatistischer Anforderungen einschließlich der der Volkswirtschaftlichen Gesamtrechnungen sowie für sonstige Berichtspflichten die Plan- und IstDaten weiterhin nach dem Gruppierungs- und Funktionenplan mindestens auf Ebene der dreistelligen Gliederung bereitgestellt werden.
 
-
-## § 50 – Verfahren bei der Finanzplanung
+# § 50 – Verfahren bei der Finanzplanung
 
 (1) Bund und Länder legen ihrer Haushaltswirtschaft je für sich eine fünfjährige Finanzplanung zugrunde (§ 9 Abs. 1 und § 14 des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft vom 8. Juni 1967 - Bundesgesetzbl. I S. 582 -).
 
@@ -610,20 +551,17 @@ Bund und Länder stellen unabhängig von der Art ihrer Haushaltswirtschaft siche
 
 (7) Die Regierung soll rechtzeitig geeignete Maßnahmen treffen, die nach der Finanzplanung erforderlich sind, um eine geordnete Haushaltsentwicklung unter Berücksichtigung des voraussichtlichen gesamtwirtschaftlichen Leistungsvermögens in den einzelnen Planungsjahren zu sichern.
 
-
-## § 51 – Koordinierende Beratung der Grundannahmen der Haushalts- und Finanzplanungen; Einhaltung der Haushaltsdisziplin im Rahmen der Europäischen Wirtschafts- und Währungsunion
+# § 51 – Koordinierende Beratung der Grundannahmen der Haushalts- und Finanzplanungen; Einhaltung der Haushaltsdisziplin im Rahmen der Europäischen Wirtschafts- und Währungsunion
 
 (1) Zur Koordinierung der Haushalts- und Finanzplanungen des Bundes, der Länder und der Gemeinden und Gemeindeverbände berät der Stabilitätsrat über die zugrunde liegenden volks- und finanzwirtschaftlichen Annahmen. Dabei ist den Verpflichtungen der Bundesrepublik Deutschland aus Rechtsakten der Europäischen Union auf Grund der Artikel 121, 126 und 136 des Vertrags über die Arbeitsweise der Europäischen Union zur Einhaltung der Haushaltsdisziplin und in diesem Rahmen den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen. Der Stabilitätsrat kann zur Koordinierung der Haushalts- und Finanzplanungen Empfehlungen beschließen. Die voraussichtlichen Einnahmen und Ausgaben der in § 52 genannten Einrichtungen sollen in die Beratungen und Empfehlungen einbezogen werden, soweit sie nicht schon in den Finanzplanungen des Bundes, der Länder und der Gemeinden und Gemeindeverbände enthalten sind.
 
 (2) Das strukturelle gesamtstaatliche Finanzierungsdefizit von Bund, Ländern, Gemeinden und Sozialversicherungen darf eine Obergrenze von 0,5 Prozent des nominalen Bruttoinlandsprodukts nicht überschreiten. Für Einzelheiten zu Abgrenzung, Berechnung und zulässigen Abweichungen von der Obergrenze sowie zum Umfang und Zeitrahmen der Rückführung des strukturellen gesamtstaatlichen Finanzierungsdefizits im Falle einer Abweichung sind Artikel 3 des Vertrages vom 2. März 2012 über Stabilität, Koordinierung und Steuerung in der Wirtschafts- und Währungsunion (BGBl. 2012 II S. 1006, 1008) und die Verordnung (EG) Nr. 1466/97 des Rates vom 7. Juli 1997 über den Ausbau der haushaltspolitischen Überwachung und der Überwachung und Koordinierung der Wirtschaftspolitiken (ABl. L 209 vom 2.8.1997, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1175/2011 (ABl. L 306 vom 23.11.2011, S. 12) geändert worden ist, maßgeblich.
 
-
-## § 51a – (weggefallen)
+# § 51a – (weggefallen)
 
 \-
 
-
-## § 52 – Auskunftspflicht
+# § 52 – Auskunftspflicht
 
 (1) Bund und Länder erteilen durch ihre für die Finanzen zuständigen Ministerien dem Stabilitätsrat die Auskünfte, die dieser zur Wahrnehmung seiner Aufgaben nach § 51 benötigt. Die Auskunftserteilung umfasst auch die Vorlage der in den jeweiligen Zuständigkeitsbereichen aufgestellten Finanzplanungen in einheitlicher Systematik.
 
@@ -633,8 +571,7 @@ Bund und Länder stellen unabhängig von der Art ihrer Haushaltswirtschaft siche
 
 (4) Die Träger der gesetzlichen Krankenversicherung, der sozialen Pflegeversicherung, der gesetzlichen Unfallversicherung und der gesetzlichen Rentenversicherungen einschließlich der Alterssicherung der Landwirte, ihre Verbände sowie die sonstigen Vereinigungen auf dem Gebiet der Sozialversicherung und die Bundesagentur für Arbeit erteilen dem Bundesministerium der Finanzen die für den Stabilitätsrat erforderlichen Auskünfte über das Bundesministerium für Arbeit und Soziales; landesunmittelbare Körperschaften leiten die Auskünfte über die für die Sozialversicherung zuständige oberste Verwaltungsbehörde des Landes zu.
 
-
-## § 53 – Rechte gegenüber privatrechtlichen Unternehmen
+# § 53 – Rechte gegenüber privatrechtlichen Unternehmen
 
 (1) Gehört einer Gebietskörperschaft die Mehrheit der Anteile eines Unternehmens in einer Rechtsform des privaten Rechts oder gehört ihr mindestens der vierte Teil der Anteile und steht ihr zusammen mit anderen Gebietskörperschaften die Mehrheit der Anteile zu, so kann sie verlangen, daß das Unternehmen
 
@@ -652,22 +589,19 @@ c) die Ursachen eines in der Gewinn- und Verlustrechnung ausgewiesenen Jahresfeh
 
 (2) Für die Anwendung des Absatzes 1 rechnen als Anteile der Gebietskörperschaft auch Anteile, die einem Sondervermögen der Gebietskörperschaft gehören. Als Anteile der Gebietskörperschaft gelten ferner Anteile, die Unternehmen gehören, bei denen die Rechte aus Absatz 1 der Gebietskörperschaft zustehen.
 
-
-## § 54 – Unterrichtung der Rechnungsprüfungsbehörde
+# § 54 – Unterrichtung der Rechnungsprüfungsbehörde
 
 (1) In den Fällen des § 53 kann in der Satzung (im Gesellschaftsvertrag) mit Dreiviertelmehrheit des vertretenen Kapitals bestimmt werden, daß sich die Rechnungsprüfungsbehörde der Gebietskörperschaft zur Klärung von Fragen, die bei der Prüfung nach § 44 auftreten, unmittelbar unterrichten und zu diesem Zweck den Betrieb, die Bücher und die Schriften des Unternehmens einsehen kann.
 
 (2) Ein vor dem Inkrafttreten dieses Gesetzes begründetes Recht der Rechnungsprüfungsbehörde auf unmittelbare Unterrichtung bleibt unberührt.
 
-
-## § 55 – Prüfung von juristischen Personen des öffentlichen Rechts
+# § 55 – Prüfung von juristischen Personen des öffentlichen Rechts
 
 (1) Erhält eine juristische Person des öffentlichen Rechts, die nicht Gebietskörperschaft, Gemeindeverband, Zusammenschluß von Gebietskörperschaften oder Gemeindeverbänden oder Religionsgesellschaft des öffentlichen Rechts nach Artikel 137 Abs. 5 der Deutschen Verfassung vom 11. August 1919 ist, vom Bund oder einem Land Zuschüsse, die dem Grund oder der Höhe nach gesetzlich begründet sind, oder ist eine Garantieverpflichtung des Bundes oder eines Landes gesetzlich begründet, so prüft der Rechnungshof des Bundes oder des Landes die Haushalts- und Wirtschaftsführung der juristischen Person. Entsprechendes gilt, wenn die Prüfung mit Zustimmung eines Rechnungshofes in der Satzung vorgesehen ist. Andere Prüfungsrechte, die nach § 48 begründet werden, bleiben unberührt.
 
 (2) Auf Unternehmen in der Rechtsform einer juristischen Person des öffentlichen Rechts ist unabhängig von der Höhe der Beteiligung des Bundes oder des Landes § 53 entsprechend anzuwenden, soweit die Unternehmen nicht von der Rechnungsprüfung freigestellt sind (§ 48 Abs. 2 Satz 2 und 3).
 
-
-## § 56 – Rechte der Rechnungsprüfungsbehörde, gegenseitige Unterrichtung
+# § 56 – Rechte der Rechnungsprüfungsbehörde, gegenseitige Unterrichtung
 
 (1) Erlassen oder erläutern die obersten Behörden einer Gebietskörperschaft allgemeine Vorschriften, welche die Bewirtschaftung der Haushaltsmittel einer anderen Gebietskörperschaft betreffen oder sich auf deren Einnahmen oder Ausgaben auswirken, so ist die Rechnungsprüfungsbehörde der anderen Gebietskörperschaft unverzüglich zu unterrichten.
 
@@ -675,8 +609,7 @@ c) die Ursachen eines in der Gewinn- und Verlustrechnung ausgewiesenen Jahresfeh
 
 (3) Sind für Prüfungen oder Erhebungen mehrere Rechnungshöfe zuständig, so unterrichten sie sich gegenseitig über Arbeitsplanung und Prüfungsergebnisse.
 
-
-## § 57 – Bundeskassen, Landeskassen
+# § 57 – Bundeskassen, Landeskassen
 
 (1) Die Aufgaben der Kassen bei der Annahme und der Leistung von Zahlungen für den Bund werden für alle Stellen innerhalb und außerhalb der Bundesverwaltung von den Bundeskassen wahrgenommen, soweit es sich nicht um die Erhebung von Steuern handelt, die von den Landesfinanzbehörden verwaltet werden.
 
@@ -684,11 +617,9 @@ c) die Ursachen eines in der Gewinn- und Verlustrechnung ausgewiesenen Jahresfeh
 
 (3) (weggefallen)
 
+# §§ 57a bis 57c – (weggefallen)
 
-## §§ 57a bis 57c – (weggefallen)
-
-
-## § 58 – Öffentlich-rechtliche Dienst- oder Amtsverhältnisse, Zuständigkeitsregelungen
+# § 58 – Öffentlich-rechtliche Dienst- oder Amtsverhältnisse, Zuständigkeitsregelungen
 
 (1) Vorschriften dieses Gesetzes für Beamte sind auf andere öffentlich-rechtliche Dienst- oder Amtsverhältnisse entsprechend anzuwenden.
 
@@ -696,12 +627,10 @@ c) die Ursachen eines in der Gewinn- und Verlustrechnung ausgewiesenen Jahresfeh
 
 (3) (weggefallen)
 
-
-## § 59 – (weggefallen)
+# § 59 – (weggefallen)
 
 \-
 
-
-## § 60 – Inkrafttreten
+# § 60 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.

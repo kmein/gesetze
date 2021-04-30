@@ -1,15 +1,11 @@
-# [IsolMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk  (Isolierermeisterverordnung - IsolMstrV)
-
-Ausfertigungsdatum: 03.06.1982
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk  (Isolierermeisterverordnung - IsolMstrV)
+% Ausfertigungsdatum: 03.06.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Wärme-, Kälte- und Schallschutzisolierer-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -75,8 +71,7 @@ einschließlich Akustik-, Trockenbau- und Brandschutzarbeiten an Gebäuden und t
 
 23. Warten der Maschinen und Geräte sowie Instandhalten der Werkzeuge.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -84,8 +79,7 @@ einschließlich Akustik-, Trockenbau- und Brandschutzarbeiten an Gebäuden und t
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehenden Arbeiten anzufertigen:
 
@@ -111,8 +105,7 @@ einschließlich Akustik-, Trockenbau- und Brandschutzarbeiten an Gebäuden und t
 
 6. die Angaben über die aufgewandte Arbeitszeit.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind zwei der nachstehenden Arbeiten auszuführen:
 
@@ -126,8 +119,7 @@ einschließlich Akustik-, Trockenbau- und Brandschutzarbeiten an Gebäuden und t
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -177,29 +169,24 @@ Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschlie
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr. 1, 3 und 5.
 
-
-## § 6
+# § 6
 
 \-
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Berlin-Klausel
+# § 8 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. November 1982 in Kraft.
 
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft

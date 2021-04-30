@@ -1,15 +1,11 @@
-# [ElektroGBattGGebV] Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batteriegesetz  (Elektro- und Elektronikgerätegesetz-Batteriegesetz-Gebührenverordnung - ElektroGBattGGebV)
-
-Ausfertigungsdatum: 20.10.2015
-
+% Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batteriegesetz  (Elektro- und Elektronikgerätegesetz-Batteriegesetz-Gebührenverordnung - ElektroGBattGGebV)
+% Ausfertigungsdatum: 20.10.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Gebührenerhebung
+# § 1 – Gebührenerhebung
 
 (1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz erhebt für gebührenfähige Leistungen des Umweltbundesamtes oder der beliehenen Gemeinsamen Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz Gebühren nach
 
@@ -23,8 +19,7 @@ Unterliegen die in Anlage 1 genannten gebührenfähigen Leistungen der Umsatzste
 
 (2) Verwaltungsakte des Umweltbundesamtes oder der nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehenen Gemeinsamen Stelle nach Absatz 1 Satz 1 können unbeschadet des § 24 Absatz 1 Satz 3 des Verwaltungsverfahrensgesetzes vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten.
 
-
-## § 2 – Gebührenermäßigung und Gebührenbefreiung
+# § 2 – Gebührenermäßigung und Gebührenbefreiung
 
 (1) Das Umweltbundesamt oder die nach § 40 Absatz 1 des Elektro- und Elektronikgerätegesetzes oder nach § 23 Absatz 1 des Batteriegesetzes beliehene Gemeinsame Stelle der Hersteller nach dem Elektro- und Elektronikgerätegesetz kann die Gebühr nach den Nummern 1.1, 1.4 bis 1.7, 1.15, 2.1, 2.3, 3.1 und 3.2 der Anlage 1 auf Antrag ermäßigen oder von der Gebühr befreien, wenn die Anwendung der Regelgebühr unter Berücksichtigung
 
@@ -44,8 +39,7 @@ unverhältnismäßig wäre. Der Antrag muss Angaben zu allen Kriterien nach Satz
 
 (4) Der Antrag nach Absatz 1 oder Absatz 2 ist innerhalb von drei Monaten nach Bekanntgabe des Gebührenbescheids bei der Behörde oder bei der beliehenen Gemeinsamen Stelle zu stellen, die den Gebührenbescheid erlassen hat. Erfolgt keine Bekanntgabe, ist der Antrag nach Absatz 1 oder Absatz 2 spätestens innerhalb eines Jahres nach Entstehung der Gebührenschuld zu stellen. In den Fällen des Satzes 2 ist der Antrag bei der Behörde oder der beliehenen Gemeinsamen Stelle zu stellen, die für den Erlass des Gebührenbescheids zuständig ist.
 
-
-## § 3 – Übergangsvorschriften
+# § 3 – Übergangsvorschriften
 
 (1) Diese Verordnung gilt auch für die Erhebung von Gebühren für gebührenfähige Leistungen, die am 1. Januar 2021 bereits beantragt oder begonnen wurden, aber noch nicht vollständig erbracht sind.
 
@@ -55,18 +49,15 @@ unverhältnismäßig wäre. Der Antrag muss Angaben zu allen Kriterien nach Satz
 
 (4) Abweichend von § 2 Absatz 2 Satz 1 und Absatz 3 Satz 2 ist für Entscheidungen über Gebührenbefreiungen für Garantieprüfungen, die Gerätearten gemäß der bis zum 14. August 2018 geltenden Zuordnung nach § 33 Absatz 1 Satz 1 des Elektro- und Elektronikgerätegesetzes betreffen, Anlage 2 der Elektro- und Elektronikgerätegesetz-Gebührenverordnung in der ab dem 1. Januar 2018 geltenden Fassung maßgeblich.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Elektro- und Elektronikgerätegesetz-Kostenverordnung vom 6. Juli 2005 (BGBl. I S. 2020), die zuletzt durch Artikel 1 der Verordnung vom 28. November 2013 (BGBl. I S. 4094) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis
+# Anlage 1 – (zu § 1 Absatz 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2020, 2498 – 2501)
 
-
-## Anlage 2 – (zu § 2 Absatz 2)
+# Anlage 2 – (zu § 2 Absatz 2)
 
 (Fundstelle: BGBl. I 2017, 3981)
 

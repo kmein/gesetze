@@ -1,10 +1,7 @@
-# [KARBV] Verordnung über Inhalt, Umfang und Darstellung der Rechnungslegung von Sondervermögen, Investmentaktiengesellschaften und Investmentkommanditgesellschaften sowie über die Bewertung der zu dem Investmentvermögen gehörenden Vermögensgegenstände  (Kapitalanlage-Rechnungslegungs- und -Bewertungsverordnung - KARBV)
-
-Ausfertigungsdatum: 16.07.2013
-
+% Verordnung über Inhalt, Umfang und Darstellung der Rechnungslegung von Sondervermögen, Investmentaktiengesellschaften und Investmentkommanditgesellschaften sowie über die Bewertung der zu dem Investmentvermögen gehörenden Vermögensgegenstände  (Kapitalanlage-Rechnungslegungs- und -Bewertungsverordnung - KARBV)
+% Ausfertigungsdatum: 16.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet auf Grund
 
@@ -16,10 +13,7 @@ des § 106 Satz 1, des § 120 Absatz 8 Satz 1, dieser auch in Verbindung mit § 
 
 jeweils in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 11. Juli 2013 (BGBl. I S. 2231) geändert worden ist:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -35,8 +29,9 @@ jeweils in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Bef
 
  
 
+ 
 
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung regelt über die Bestimmungen des Kapitalanlagegesetzbuches hinausgehende Einzelheiten
 
@@ -52,8 +47,7 @@ c) der Jahresberichte, Zwischen-, Auflösungs- und Liquidationsberichte von Inve
 
 (+++ Abschnitt 1 (§§ 1 bis 5): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -69,8 +63,7 @@ Im Sinne dieser Verordnung ist
 
 (+++ Abschnitt 1 (§§ 1 bis 5): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 3 – Inhalt und Umfang der Berichterstattung
+# § 3 – Inhalt und Umfang der Berichterstattung
 
 (1) Die Berichterstattung durch die Kapitalverwaltungsgesellschaft, die Verwahrstelle oder den Liquidator muss vollständig, richtig und frei von Willkür sein und die Berichte müssen klar und übersichtlich gestaltet sein, so dass es den Anlegerinnen und Anlegern ermöglicht wird, sich im Hinblick auf die Anlageentscheidung sowie auf die laufende Beurteilung der Anlage ein umfassendes Bild der tatsächlichen Verhältnisse und Entwicklungen des Investmentvermögens zu verschaffen. Ereignisse, Entscheidungen und Faktoren, die die weitere Entwicklung des Investmentvermögens wesentlich beeinflussen können, sind in die Berichterstattung mit einzubeziehen.
 
@@ -80,8 +73,7 @@ Im Sinne dieser Verordnung ist
 
 (+++ Abschnitt 1 (§§ 1 bis 5): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 4 – Einreichung bei der Bundesanstalt
+# § 4 – Einreichung bei der Bundesanstalt
 
 (1) Die Berichte nach den §§ 101, 103 bis 105, 120, 122, 135, 148, 158 und 161 des Kapitalanlagegesetzbuches sind in dreifacher Ausfertigung bei der Bundesanstalt am Dienstsitz in Frankfurt am Main einzureichen. Eines dieser Exemplare ist elektronisch zu übermitteln.
 
@@ -93,8 +85,7 @@ Im Sinne dieser Verordnung ist
 
 (+++ Abschnitt 1 (§§ 1 bis 5): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 5 – Investmentrechtliche Rechnungslegung
+# § 5 – Investmentrechtliche Rechnungslegung
 
 (1) Auf die investmentrechtliche Rechnungslegung sind die formellen Grundsätze ordnungsmäßiger Buchführung anzuwenden, soweit sich aus dem Kapitalanlagegesetzbuch und dieser Verordnung sowie hinsichtlich der AIF auch aus der Verordnung (EU) Nr. 231/2013 nichts anderes ergibt. Bei der investmentrechtlichen Rechnungslegung ist der Grundsatz der Stetigkeit zu beachten.
 
@@ -102,8 +93,7 @@ Im Sinne dieser Verordnung ist
 
 (+++ Abschnitt 1 (§§ 1 bis 5): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 6 – Verantwortung und Zweck
+# § 6 – Verantwortung und Zweck
 
 (1) Die Aufstellung des Jahresberichts gemäß § 101 des Kapitalanlagegesetzbuches (Jahresbericht) einschließlich der der Vermögensaufstellung zugrunde liegenden Bewertungen liegt in der Verantwortung der Kapitalverwaltungsgesellschaft, die das Sondervermögen verwaltet. Die Aufstellung des Abwicklungsberichts liegt in der Verantwortung der Verwahrstelle.
 
@@ -115,8 +105,7 @@ Im Sinne dieser Verordnung ist
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 7 – Bestandteile des Jahresberichts
+# § 7 – Bestandteile des Jahresberichts
 
 Bestandteile des Jahresberichts sind:
 
@@ -158,8 +147,7 @@ Satz 1 Nummer 9 Buchstabe c Doppelbuchstabe bb gilt nicht für offene inländisc
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 8 – Tätigkeitsbericht
+# § 8 – Tätigkeitsbericht
 
 (1) Der Tätigkeitsbericht ist ein eigenständiger Teil des Jahresberichts. Der Tätigkeitsbericht muss aus sich heraus für den Anleger verständlich sein. Durch Verweise darf seine Verständlichkeit nicht gemindert werden.
 
@@ -179,15 +167,13 @@ Satz 1 Nummer 9 Buchstabe c Doppelbuchstabe bb gilt nicht für offene inländisc
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 9 – Vermögensübersicht
+# § 9 – Vermögensübersicht
 
 (1) Der Vermögensaufstellung nach § 10 ist eine Vermögensübersicht voranzustellen, die eine zusammengefasste Gliederung der Vermögensaufstellung enthält. Die Vermögensübersicht ist nach geeigneten Kriterien unter Berücksichtigung der Anlagepolitik des Sondervermögens, beispielsweise nach wirtschaftlichen oder geographischen Kriterien, und nach prozentualen Anteilen am Wert des Sondervermögens zu gliedern.
 
 (2) Die Gliederung der Vermögensübersicht hat mindestens die folgenden Gliederungspunkte zu enthalten; Leerposten können jeweils entfallen:
 
-I.  
-Vermögensgegenstände
+I. Vermögensgegenstände
 
 1. Aktien
 
@@ -211,11 +197,9 @@ Bei Spezial-AIF sind den Posten nach Satz 1 die Posten „I. Sachwerte“ und �
 
 (3) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften hat die Gliederung der Vermögensübersicht mindestens die folgenden Gliederungspunkte zu enthalten; Leerposten können jeweils entfallen:
 
-A.  
-Vermögensgegenstände
+A. Vermögensgegenstände
 
-I.  
-Immobilien
+I. Immobilien
 
 1. Mietwohngrundstücke  
 (davon in Fremdwährung)
@@ -276,11 +260,9 @@ b) bei Beteiligungen an Immobilien-Gesellschaften
 
 Summe Vermögensgegenstände
 
-B.  
-Schulden
+B. Schulden
 
-I.  
-Verbindlichkeiten aus
+I. Verbindlichkeiten aus
 
 1. Krediten  
 (davon in Fremdwährung)
@@ -304,8 +286,7 @@ Fondsvermögen.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 10 – Vermögensaufstellung
+# § 10 – Vermögensaufstellung
 
 (1) Die Vermögensaufstellung im Sinne des § 101 Absatz 1 Satz 3 Nummer 1 des Kapitalanlagegesetzbuches ist nach Arten von Vermögensgegenständen und Märkten zu untergliedern.
 
@@ -321,13 +302,11 @@ Fondsvermögen.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 11 – Ertrags- und Aufwandsrechnung
+# § 11 – Ertrags- und Aufwandsrechnung
 
 (1) Die Ertrags- und Aufwandsrechnung ist wie folgt darzustellen; Leerposten können jeweils entfallen:
 
-I.  
-Erträge
+I. Erträge
 
 1. Dividenden inländischer Aussteller
 
@@ -378,8 +357,7 @@ IV. Veräußerungsgeschäfte
 
 Ergebnis aus Veräußerungsgeschäften
 
-V.  
-Realisiertes Ergebnis des Geschäftsjahres
+V. Realisiertes Ergebnis des Geschäftsjahres
 
 1. Nettoveränderung der nicht realisierten Gewinne
 
@@ -391,8 +369,7 @@ VII. Ergebnis des Geschäftsjahres.
 
 (2) Bei Immobilien-Sondervermögen und offenen inländischen Spezial-AIF mit Anlagen in Immobilien oder Immobilien-Gesellschaften ist die Ertrags- und Aufwandsrechnung nach Absatz 1 wie folgt unter den jeweiligen Posten zu ergänzen (Gliederungsziffer I und II) oder zu ersetzen (Gliederungsziffer IV):
 
-I.  
-Erträge
+I. Erträge
 
 11. Erträge aus Immobilien
 
@@ -444,13 +421,11 @@ Die Posten unter Satz 1 Gliederungsziffer II sind den entsprechenden Posten unte
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 12 – Verwendungsrechnung für das Sondervermögen
+# § 12 – Verwendungsrechnung für das Sondervermögen
 
 (1) Die Berechnung der Verwendung der Erträge des Sondervermögens ist insgesamt und je Anteil wie folgt darzustellen; Leerposten können jeweils entfallen:
 
-I.  
-Für die Ausschüttung verfügbar
+I. Für die Ausschüttung verfügbar
 
 1. Vortrag aus dem Vorjahr
 
@@ -484,8 +459,7 @@ c) Einbehaltener Solidaritätszuschlag.
 
 (2) Für thesaurierende Sondervermögen ist die Verwendungsrechnung insgesamt und je Anteil wie folgt darzustellen:
 
-I.  
-Für die Wiederanlage verfügbar
+I. Für die Wiederanlage verfügbar
 
 1. Realisiertes Ergebnis des Geschäftsjahres
 
@@ -501,13 +475,11 @@ II. Wiederanlage.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 13 – Entwicklungsrechnung für das Sondervermögen
+# § 13 – Entwicklungsrechnung für das Sondervermögen
 
 (1) Die Übersicht über die Entwicklung des Sondervermögens ist unter Berücksichtigung folgender Posten darzustellen; Leerposten können jeweils entfallen:
 
-I.  
-Wert des Sondervermögens am Beginn des Geschäftsjahres
+I. Wert des Sondervermögens am Beginn des Geschäftsjahres
 
 1. Ausschüttung für das Vorjahr/Steuerabschlag für das Vorjahr
 
@@ -534,15 +506,13 @@ II. Wert des Sondervermögens am Ende des Geschäftsjahres.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 14 – Vergleichende Übersicht über die letzten drei Geschäftsjahre
+# § 14 – Vergleichende Übersicht über die letzten drei Geschäftsjahre
 
 Über den Inhalt nach § 101 Absatz 1 Satz 3 Nummer 6 des Kapitalanlagegesetzbuches hinaus ist bei Sondervermögen mit einer Wertentwicklung von weniger als drei Geschäftsjahren die Wertentwicklung für die Zeit seit der Auflegung anzugeben. Bei mehreren Anteilklassen ist die Wertentwicklung mindestens für die Anteilklasse mit der höchsten Gesamtkostenquote darzustellen.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 15 – Anteilklassen
+# § 15 – Anteilklassen
 
 (1) Bei mehreren Anteilklassen ist zu erläutern, unter welchen Voraussetzungen Anteile mit unterschiedlichen Ausgestaltungsmerkmalen ausgegeben werden und welche Ausgestaltungsmerkmale den Anteilklassen im Einzelnen zugeordnet werden. Für jede Anteilklasse ist Folgendes zu ergänzen:
 
@@ -556,8 +526,7 @@ Bei mehreren Anteilklassen sind die Angaben nach den §§ 11, 12 und 13 je Antei
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 16 – Sonstige Angaben
+# § 16 – Sonstige Angaben
 
 (1) Folgende zusätzliche Angaben sind erforderlich:
 
@@ -591,22 +560,19 @@ Die Angabe nach Satz 1 Nummer 1 muss auch im Halbjahresbericht (§ 17) enthalten
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 17 – Halbjahresbericht
+# § 17 – Halbjahresbericht
 
 Auf den Halbjahresbericht sind die Vorschriften über den Jahresbericht entsprechend anzuwenden. Der Halbjahresbericht kann ohne Tätigkeitsbericht, Entwicklungsrechnung, Verwendungsrechnung, besonderen Vermerk des Abschlussprüfers und vergleichende Übersicht der letzten drei Geschäftsjahre erstellt werden. Eine Ertrags- und Aufwandsrechnung sowie eine Entwicklungsrechnung sind nur aufzunehmen, wenn im jeweiligen Halbjahr eine Zwischenausschüttung erfolgt ist.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 18 – Zwischenbericht
+# § 18 – Zwischenbericht
 
 Auf den Zwischenbericht sind die Vorschriften über den Jahresbericht entsprechend anzuwenden. Neben dem Zwischenbericht sind die Saldenlisten einschließlich Ergebnisvorträgen und Skontros, die Grundlage für die Erstellung des Zwischenberichts sind, für Wertpapiere und sonstige Vermögensgegenstände zu Einstiegspreisen zu erstellen. Diese Aufstellungen sind der aufnehmenden Kapitalverwaltungsgesellschaft zur Fortführung der Buchhaltung zu übermitteln.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 19 – Auflösungs- und Abwicklungsbericht
+# § 19 – Auflösungs- und Abwicklungsbericht
 
 (1) Auf den Auflösungsbericht und den Abwicklungsbericht sind die Vorschriften für den Jahresbericht entsprechend anzuwenden. Darüber hinaus haben Auflösungs- und Abwicklungsberichte eine Übersicht der im Geschäftsjahr an die Anleger durchgeführten Auszahlungen zu enthalten.
 
@@ -614,8 +580,7 @@ Auf den Zwischenbericht sind die Vorschriften über den Jahresbericht entspreche
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 20 – Anwendbarkeit auf Investmentgesellschaften
+# § 20 – Anwendbarkeit auf Investmentgesellschaften
 
 (1) Die für Sondervermögen geltenden Vorschriften dieses Abschnitts sind entsprechend für den Jahresabschluss und den Lagebericht sowie den Halbjahresbericht und den Liquidationsbericht einer Investmentgesellschaft anzuwenden, soweit sich aus diesem Unterabschnitt nichts anderes ergibt. Soweit sich aus den Vorschriften des Kapitalanlagegesetzbuches, der Verordnung (EU) Nr. 231/2013 und dieser Verordnung nichts anderes ergibt, sind die Bestimmungen des Dritten Buches des Handelsgesetzbuches anzuwenden. In der Bilanz und in der Gewinn- und Verlustrechnung ist zu jedem Posten auch der entsprechende Betrag des vorhergehenden Geschäftsjahres anzugeben.
 
@@ -625,8 +590,7 @@ Auf den Zwischenbericht sind die Vorschriften über den Jahresbericht entspreche
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 21 – Bilanz
+# § 21 – Bilanz
 
 (1) In der Bilanz der Investmentaktiengesellschaft (§ 120 Absatz 2 Satz 1 und § 148 Absatz 1 des Kapitalanlagegesetzbuches) und der Investmentkommanditgesellschaft (§ 135 Absatz 3 Satz 1 und § 158 des Kapitalanlagegesetzbuches) sind die für den Betrieb der intern verwalteten Investmentgesellschaft notwendigen Vermögensgegenstände und Schulden (Investmentbetriebsvermögen) und die dem Sondervermögen vergleichbaren Vermögensgegenstände und Schulden (Investmentanlagevermögen) gesondert auszuweisen. Sofern bei der Investmentaktiengesellschaft mit veränderlichem Kapital oder bei der offenen Investmentkommanditgesellschaft Teilgesellschaftsvermögen gebildet wurden, ist die Bilanz darüber hinaus nach Teilgesellschaftsvermögen aufzugliedern.
 
@@ -636,21 +600,17 @@ Auf den Zwischenbericht sind die Vorschriften über den Jahresbericht entspreche
 
 (4) Die Bilanz der Investmentaktiengesellschaft und der Investmentkommanditgesellschaft ist wie folgt zu gliedern:
 
-I.  
-Investmentbetriebsvermögen
+I. Investmentbetriebsvermögen
 
-A.  
-Aktiva  
+A. Aktiva  
 Vermögenswerte
 
-B.  
-Passiva  
+B. Passiva  
 Verbindlichkeiten
 
 II. Investmentanlagevermögen
 
-A.  
-Aktiva
+A. Aktiva
 
 1. Sachanlagen
 
@@ -684,8 +644,7 @@ e) Andere Forderungen
 
 8. Aktive Rechnungsabgrenzung
 
-B.  
-Passiva
+B. Passiva
 
 1. Rückstellungen
 
@@ -748,8 +707,7 @@ Bei dem Eigenkapitalausweis der Investmentkommanditgesellschaft ist § 264c des 
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 22 – Gewinn- und Verlustrechnung
+# § 22 – Gewinn- und Verlustrechnung
 
 (1) In der Gewinn- und Verlustrechnung der intern verwalteten Investmentaktiengesellschaft und der intern verwalteten Investmentkommanditgesellschaft sind die dem Investmentbetriebsvermögen und die dem Investmentanlagevermögen zuzuordnenden Aufwendungen und Erträge jeweils gesondert auszuweisen. Soweit die Investmentgesellschaft in Form einer Umbrella-Konstruktion besteht, hat die Investmentgesellschaft die Gewinn- und Verlustrechnung darüber hinaus nach Teilgesellschaftsvermögen aufzugliedern. Soweit die Satzung oder die Anlagebedingungen der Investmentaktiengesellschaft ein Ertragsausgleichsverfahren vorsehen, gilt § 11 Absatz 5 entsprechend.
 
@@ -757,8 +715,7 @@ Bei dem Eigenkapitalausweis der Investmentkommanditgesellschaft ist § 264c des 
 
 (3) Die Gewinn- und Verlustrechnung der Investmentaktiengesellschaft mit fixem Kapital und der geschlossenen Investmentkommanditgesellschaft ist für die Zwecke der Ertrags- und Aufwandsrechnung nach § 11 wie folgt darzustellen; Leerposten können jeweils entfallen:
 
-I.  
-Verwaltungstätigkeit
+I. Verwaltungstätigkeit
 
 a) Erträge
 
@@ -818,8 +775,7 @@ Summe des nicht realisierten Ergebnisses des Geschäftsjahres
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 23 – Lagebericht
+# § 23 – Lagebericht
 
 (1) Die Investmentaktiengesellschaft und die Investmentkommanditgesellschaft haben unabhängig von ihrer Größenklasse nach den §§ 267, 267a des Handelsgesetzbuches einen Lagebericht nach § 289 des Handelsgesetzbuches aufzustellen.
 
@@ -853,8 +809,7 @@ Der Lagebericht der Investmentaktiengesellschaft mit fixem Kapital hat darüber 
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 24 – Verwendungsrechnung und Entwicklungsrechnung bei der Investmentkommanditgesellschaft
+# § 24 – Verwendungsrechnung und Entwicklungsrechnung bei der Investmentkommanditgesellschaft
 
 (1) Bei einer Investmentkommanditgesellschaft ist die Verwendungsrechnung wie folgt darzustellen; Leerposten können jeweils entfallen:
 
@@ -870,8 +825,7 @@ Der Lagebericht der Investmentaktiengesellschaft mit fixem Kapital hat darüber 
 
 (2) Die Entwicklungsrechnung für das Vermögen der Kommanditisten und der Komplementäre ist jeweils getrennt wie folgt darzustellen; Leerposten können jeweils entfallen:
 
-I.  
-Wert des Eigenkapitals am Beginn des Geschäftsjahres
+I. Wert des Eigenkapitals am Beginn des Geschäftsjahres
 
 1. Entnahmen für das Vorjahr
 
@@ -891,8 +845,7 @@ II. Wert des Eigenkapitals am Ende des Geschäftsjahres.
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 25 – Anhang
+# § 25 – Anhang
 
 (1) Investmentaktiengesellschaften mit veränderlichem Kapital, die über Teilgesellschaftsvermögen verfügen, und offene Investmentkommanditgesellschaften, die über Teilgesellschaftsvermögen verfügen, müssen im Anhang des Jahresabschlusses die Angaben nach den Absätzen 2 bis 5 sowie nach § 7 Satz 1 Nummer 9 für jedes Teilgesellschaftsvermögen gesondert machen.
 
@@ -1096,8 +1049,7 @@ Die Angaben nach Satz 1 sind für Sachwerte, die mittelbar nach § 261 Absatz 1 
 
 (+++ Abschnitt 2 (§§ 6 bis 25): Zur Anwendung vgl. § 35 Abs. 1 +++)
 
-
-## § 26 – Allgemeine Bewertungsgrundsätze
+# § 26 – Allgemeine Bewertungsgrundsätze
 
 (1) Bewertet die Verwahrstelle einen OGAW unter Mitwirkung der Kapitalverwaltungsgesellschaft, hat die Kapitalverwaltungsgesellschaft die von der Verwahrstelle ermittelten Wertansätze für Vermögensgegenstände in geeigneter Weise auf Plausibilität zu prüfen und darauf hinzuwirken, dass Auffälligkeiten geklärt werden. Sie hat nachvollziehbar zu dokumentieren, dass sie ihre Mitwirkungspflicht wahrnimmt. Die Verwahrstelle ist dabei der Kapitalverwaltungsgesellschaft gegenüber verpflichtet, Auskunft über Einzelheiten der Bewertung des Investmentvermögens zu erteilen.
 
@@ -1107,8 +1059,7 @@ Die Angaben nach Satz 1 sind für Sachwerte, die mittelbar nach § 261 Absatz 1 
 
 (4) Die Einhaltung der Anforderungen nach den Absätzen 1 bis 3 sowie nach den §§ 27 und 28 ist bei Investmentvermögen regelmäßig von der internen Revision zu überprüfen.
 
-
-## § 27 – Bewertung auf der Grundlage von handelbaren Kursen
+# § 27 – Bewertung auf der Grundlage von handelbaren Kursen
 
 (1) Für die Bewertung von Vermögensgegenständen, die zum Handel an einer Börse oder an einem anderen organisierten Markt zugelassen oder in den regulierten Markt oder Freiverkehr einer Börse einbezogen sind, ist der letzte verfügbare handelbare Kurs zugrunde zu legen, der eine verlässliche Bewertung im Sinne des Artikels 2 Absatz 1 Buchstabe c Ziffer i der Richtlinie 2007/16/EG der Kommission vom 19. März 2007 zur Durchführung der Richtlinie 85/611/EWG des Rates zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) im Hinblick auf die Erläuterung gewisser Definitionen (ABl. L 79 vom 20.3.2007, S. 11) gewährleistet.
 
@@ -1116,8 +1067,7 @@ Die Angaben nach Satz 1 sind für Sachwerte, die mittelbar nach § 261 Absatz 1 
 
 (3) Vermögensgegenstände, für die die Kursstellung auf der Grundlage von Geld- und Briefkursen erfolgt, sind grundsätzlich entweder zum Mittelkurs oder zum Geldkurs zu bewerten.
 
-
-## § 28 – Bewertung auf der Grundlage geeigneter Bewertungsmodelle
+# § 28 – Bewertung auf der Grundlage geeigneter Bewertungsmodelle
 
 (1) Für Vermögensgegenstände, die weder zum Handel an einer Börse noch an einem anderen organisierten Markt zugelassen oder in den regulierten Markt oder Freiverkehr einer Börse einbezogen sind oder für die kein handelbarer Kurs verfügbar ist, sind gemäß § 168 Absatz 3 des Kapitalanlagegesetzbuches die Verkehrswerte zugrunde zu legen, die sich bei sorgfältiger Einschätzung nach geeigneten Bewertungsmodellen unter Berücksichtigung der aktuellen Marktgegebenheiten ergeben.
 
@@ -1125,8 +1075,7 @@ Die Angaben nach Satz 1 sind für Sachwerte, die mittelbar nach § 261 Absatz 1 
 
 (3) Der Verkehrswert kann auch von einem Emittenten, Kontrahenten oder sonstigen Dritten ermittelt und mitgeteilt werden. In diesem Fall ist der ermittelte Verkehrswert durch die Kapitalverwaltungsgesellschaft oder die Verwahrstelle oder den externen Bewerter auf Plausibilität zu prüfen; die Plausibilitätsprüfung ist zu dokumentieren. Diese Prüfung kann durch einen Vergleich mit einer zweiten verlässlichen und aktuellen Preisquelle, einen Vergleich des Wertes mit einer eigenen modellgestützten Bewertung oder durch andere geeignete Verfahren erfolgen.
 
-
-## § 29 – Besonderheiten bei Investmentanteilen, Bankguthaben und Verbindlichkeiten
+# § 29 – Besonderheiten bei Investmentanteilen, Bankguthaben und Verbindlichkeiten
 
 (1) Anteile an Investmentvermögen sind mit ihrem letzten festgestellten Rücknahmepreis oder mit einem aktuellen Kurs nach § 27 Absatz 1 zu bewerten. Stehen keine aktuellen Werte nach Satz 1 zur Verfügung, ist der Wert der Anteile gemäß § 28 zu ermitteln; auf die Ermittlung auf der Grundlage eines geeigneten Bewertungsmodells ist im Jahresbericht hinzuweisen.
 
@@ -1134,8 +1083,7 @@ Die Angaben nach Satz 1 sind für Sachwerte, die mittelbar nach § 261 Absatz 1 
 
 (3) Verbindlichkeiten sind mit ihrem Rückzahlungsbetrag anzusetzen.
 
-
-## § 30 – Besonderheiten bei Anlagen in Immobilien
+# § 30 – Besonderheiten bei Anlagen in Immobilien
 
 (1) Zur Ermittlung des Verkehrswertes einer Immobilie ist in der Regel der Ertragswert der Immobilie anhand eines Verfahrens zu ermitteln, das am jeweiligen Immobilienmarkt anerkannt ist. Zur Plausibilisierung können auch andere am jeweiligen Immobilienmarkt anerkannte Bewertungsverfahren herangezogen werden, wenn dies für eine sachgerechte Bewertung der Immobilie nach Auffassung des Bewerters erforderlich oder zweckmäßig erscheint. In diesem Fall sind die Ergebnisse des anderen Bewertungsverfahrens und die Gründe für seine Anwendung in nachvollziehbarer Form dem Gutachten als Anlage beizufügen.
 
@@ -1149,8 +1097,7 @@ Die Angaben nach Satz 1 sind für Sachwerte, die mittelbar nach § 261 Absatz 1 
 
 (+++ § 30 Abs. 2 Nr. 2: Zur Anwendung vgl. § 35 Abs. 2 +++)
 
-
-## § 31 – Bewertung von Beteiligungen an Immobilien-Gesellschaften
+# § 31 – Bewertung von Beteiligungen an Immobilien-Gesellschaften
 
 (1) Die Bewertung einer Beteiligung vor ihrem Erwerb gemäß § 236 Absatz 1 des Kapitalanlagegesetzbuches dient dazu, die Angemessenheit der Gegenleistung in sinngemäßer Anwendung des § 231 Absatz 2 des Kapitalanlagegesetzbuches festzustellen. Der externe Bewerter gemäß § 236 Absatz 3 des Kapitalanlagegesetzbuches hat die wesentlichen Grundlagen und Annahmen seiner Bewertung der Immobilien, insbesondere alle wertbeeinflussenden Faktoren, im Gutachten darzulegen. Der Abschlussprüfer hat in seinem Gutachten die wertmäßigen Zusammenhänge und Unterschiede zwischen dem Nettovermögenswert laut Vermögensaufstellung und dem ermittelten Beteiligungswert darzulegen und zu erläutern.
 
@@ -1186,8 +1133,7 @@ Im Einzelfall kann jedoch auch bei den Bewertungsfaktoren nach Satz 2 eine Neube
 
 (8) In den Vermögensaufstellungen nach § 101 Absatz 1 Satz 3 Nummer 1 des Kapitalanlagegesetzbuches ist der gemäß § 248 Absatz 4 und § 250 Absatz 1 Nummer 2 des Kapitalanlagegesetzbuches ermittelte und von der Kapitalverwaltungsgesellschaft bis zum Berichtsstichtag fortgeschriebene Wert der direkt für Rechnung des Investmentvermögens gehaltenen Beteiligungen an Immobilien-Gesellschaften anzusetzen.
 
-
-## § 32 – Besonderheiten bei Vermögensgegenständen mit dem Charakter einer unternehmerischen Beteiligung
+# § 32 – Besonderheiten bei Vermögensgegenständen mit dem Charakter einer unternehmerischen Beteiligung
 
 (1) Für die Zwecke des § 261 Absatz 6 Satz 1 und des § 271 des Kapitalanlagegesetzbuches sind Verkehrswerte für Unternehmensbeteiligungen gemäß § 261 Absatz 1 Nummer 4 des Kapitalanlagegesetzbuches (Vermögensgegenstände mit dem Charakter einer unternehmerischen Beteiligung) nach anerkannten Grundsätzen für die Unternehmensbewertung zu ermitteln. Dabei ist Folgendes zu dokumentieren:
 
@@ -1201,8 +1147,7 @@ Im Einzelfall kann jedoch auch bei den Bewertungsfaktoren nach Satz 2 eine Neube
 
 (2) Für Vermögensgegenstände mit dem Charakter einer unternehmerischen Beteiligung ist zum Zeitpunkt des Erwerbs als Verkehrswert der Kaufpreis einschließlich der Anschaffungsnebenkosten anzusetzen. Der Wert dieser Vermögensgegenstände ist spätestens nach Ablauf von zwölf Monaten nach dem Erwerb oder nach der letzten Bewertung erneut zu ermitteln und als Verkehrswert anzusetzen. Abweichend hiervon ist der Wert erneut zu ermitteln, wenn der Ansatz des zuletzt ermittelten Wertes auf Grund von Änderungen wesentlicher Bewertungsfaktoren nicht mehr sachgerecht ist. Die Kapitalverwaltungsgesellschaft hat ihre Entscheidung und die sie tragenden Gründe nachvollziehbar zu dokumentieren.
 
-
-## § 33 – Besonderheiten bei Anlagen in sonstigen Sachwerten
+# § 33 – Besonderheiten bei Anlagen in sonstigen Sachwerten
 
 (1) Sonstige Sachwerte, für die gemäß dieser Verordnung keine Sonderregelung gilt, sind mit dem Verkehrswert anzusetzen, der unter Berücksichtigung der aktuellen Marktgegebenheiten erzielt werden könnte.
 
@@ -1274,8 +1219,7 @@ Wurde kein Zeitchartervertrag nach Satz 1 Nummer 1 abgeschlossen, ist die langfr
 
 (7) Der Verkehrswert von Vermögensgegenständen, bei denen auf Grund ihrer Ausgestaltung keine laufenden Erträge erzielt werden können, ist unter Verwendung eines Substanzwertverfahrens zu ermitteln.
 
-
-## § 34 – Besonderheiten bei Anlagen von Spezial-AIF
+# § 34 – Besonderheiten bei Anlagen von Spezial-AIF
 
 (1) § 32 gilt entsprechend für offene inländische Spezial-AIF mit festen Anlagebedingungen, die in Vermögensgegenständen gemäß § 284 Absatz 2 Nummer 2 Buchstabe e, f, h und i des Kapitalanlagegesetzbuches anlegen, soweit eine Abweichung von den gesetzlichen Vorschriften nach § 284 Absatz 2 des Kapitalanlagegesetzbuches vereinbart wurde.
 
@@ -1283,8 +1227,7 @@ Wurde kein Zeitchartervertrag nach Satz 1 Nummer 1 abgeschlossen, ist die langfr
 
 (3) Die Absätze 1 und 2 gelten für die Bewertung von Vermögensgegenständen gemäß § 284 Absatz 2 Nummer 2 Buchstabe e des Kapitalanlagegesetzbuches mit der Maßgabe, dass diese Vermögensgegenstände stets nach den anerkannten Grundsätzen für die Immobilien-Bewertung zu bewerten sind.
 
-
-## § 35 – Übergangsregelungen
+# § 35 – Übergangsregelungen
 
 (1) Die Vorschriften der Abschnitte 1 und 2 sind auf Investmentvermögen erstmals zu dem Abschlussstichtag anzuwenden, der auf das Inkrafttreten der nach den §§ 345, 351 oder des § 353 des Kapitalanlagegesetzbuches anzupassenden Anlagebedingungen folgt. Im Falle des § 355 Absatz 2 Satz 3 des Kapitalanlagegesetzbuches sind die Vorschriften der Abschnitte 1 und 2 auf OGAW erstmals zu dem Abschlussstichtag anzuwenden, der auf die Anpassung der Anlagebedingungen folgt.
 
@@ -1294,7 +1237,6 @@ Wurde kein Zeitchartervertrag nach Satz 1 Nummer 1 abgeschlossen, ist die langfr
 
 (4) Die Investment-Rechnungslegungs- und Bewertungsverordnung vom 16. Dezember 2009 (BGBl. I S. 3871), die durch Artikel 3 der Verordnung vom 28. Juni 2011 (BGBl. I S. 1278) geändert worden ist, ist in der am 21. Juli 2013 geltenden Fassung auf die am 21. Juli 2013 bestehenden Kapitalanlagegesellschaften, Sondervermögen und Investmentaktiengesellschaften anzuwenden, soweit für diese nach den Übergangsvorschriften der §§ 345 bis 350 und 355 des Kapitalanlagegesetzbuches weiterhin die Vorschriften des Investmentgesetzes anwendbar sind.
 
-
-## § 36 – Inkrafttreten, Außerkrafttreten
+# § 36 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 22. Juli 2013 in Kraft. Gleichzeitig tritt die Investment-Rechnungslegungs- und Bewertungsverordnung vom 16. Dezember 2009 (BGBl. I S. 3871), die durch Artikel 3 der Verordnung vom 28. Juni 2011 (BGBl. I S. 1278) geändert worden ist, außer Kraft.

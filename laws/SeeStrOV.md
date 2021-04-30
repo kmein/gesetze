@@ -1,20 +1,15 @@
-# [SeeStrOV] Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
-
-Ausfertigungsdatum: 13.06.1977
-
+% Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
+% Ausfertigungsdatum: 13.06.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 1, 2 und 4 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833), geändert durch Artikel 2 des Gesetzes zu dem Übereinkommen vom 20. Oktober 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See vom 29. Juni 1976 (BGBl. II S. 1017), und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten, wird verordnet:
 
-
-## § 1 – Inkraftsetzung der Internationalen Regeln
+# § 1 – Inkraftsetzung der Internationalen Regeln
 
 Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem Übereinkommen von 1972 (BGBl. 1976 II, S. 1023) beigefügt und zuletzt durch Beschluß der 25. Vollversammlung der Internationalen Seeschifffahrts-Organisation (IMO) in London vom 25. November 2007 geändert worden sind, im folgenden als "Internationale Regeln" bezeichnet, sind in der aus der Anlage ersichtlichen deutschen Übersetzung nach Maßgabe der folgenden Vorschriften anzuwenden.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 (1) Diese Verordnung gilt
 
@@ -26,8 +21,7 @@ Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem 
 
 (3) Abweichend von Absatz 1 gilt § 7 dieser Verordnung in den nach § 11 der Seeanlagenverordnung in der deutschen ausschließlichen Wirtschaftszone von der zuständigen Genehmigungsbehörde eingerichteten Sicherheitszonen auch für Schiffe unter ausländischer Flagge.
 
-
-## § 3 – Grundregeln für das Verhalten im Verkehr
+# § 3 – Grundregeln für das Verhalten im Verkehr
 
 (1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß die Sicherheit und Leichtigkeit des Verkehrs gewährleistet ist und daß kein Anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird. Er hat insbesondere die Vorsichtsmaßregeln zu beachten, die Seemannsbrauch oder besondere Umstände des Falles erfordern.
 
@@ -39,8 +33,7 @@ Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem 
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines Fahrbeschränkungen und Fahrverboten nach § 30 Abs. 1 der Seeschifffahrtsstraßen-Ordnung unterliegenden Fahrzeuges darf in der Dienstzeit während der Fahrt alkoholische Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter der Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen Erholungszeiten an Bord darf der Schiffsführer alkoholische Getränke zu sich nehmen, wenn sichergestellt ist, dass er bei der Übernahme sicherheitsrelevanter Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1 gilt für die im Brückendienst eingesetzten Mitglieder der Schiffsbesatzung entsprechend.
 
-
-## § 4 – Verantwortlichkeit
+# § 4 – Verantwortlichkeit
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit Verantwortliche haben die Vorschriften dieser Verordnung über das Verhalten im Verkehr und über die Ausrüstung der Fahrzeuge mit Einrichtungen für das Führen und Zeigen von Lichtern und Signalkörpern und das Geben von Schallsignalen zu befolgen. Auf Binnenschiffen ist neben dem Fahrzeugführer hierfür auch jedes Mitglied der Besatzung verantwortlich, das vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt.
 
@@ -52,20 +45,17 @@ Die Internationalen Regeln zur Verhütung von Zusammenstößen auf See, die dem 
 
 (5) Die Verantwortlichkeit anderer Personen, die sich aus dieser Verordnung oder sonstigen Vorschriften ergibt, bleibt unberührt.
 
-
-## § 5 – Fahrzeuge des öffentlichen Dienstes
+# § 5 – Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist. Satz 1 gilt für Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger, soweit diese Maßnahmen des Such- und Rettungsdienstes in Seenotfällen nach § 1 Nr. 7 des Seeaufgabengesetzes durchführen, entsprechend.
 
-
-## § 6 – Verkehrstrennungsgebiete
+# § 6 – Verkehrstrennungsgebiete
 
 (1) Verkehrstrennungsgebiete sind Schiffahrtswege, die durch Trennlinien oder Trennzonen oder anderweitig in Einbahnwege geteilt sind, auf denen jeweils nur in Fahrtrichtung rechts der Trennlinie oder Trennzone gefahren werden darf.
 
 (2) Regel 10 der Internationale Regeln gilt für die Verkehrstrennungsgebiete, die von der Internationalen Seeschiffahrts-Organisation (IMO) angenommen und in den Nachrichten für Seefahrer (Amtliche Veröffentlichung für die Seeschiffahrt des Bundesamtes für Seeschiffahrt und Hydrographie) bekanntgemacht worden sind.
 
-
-## § 7 – Sicherheitszonen
+# § 7 – Sicherheitszonen
 
 (1) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von 500 m, gemessen von jedem Punkt des äußeren Randes, um Anlagen oder sonstige Vorrichtungen zur wissenschaftlichen Meeresforschung oder zur Erforschung oder Ausbeutung von Naturschätzen erstrecken. Die nach § 53 des Windenergie-auf-See-Gesetzes oder nach § 11 der Seeanlagenverordnung von der zuständigen Genehmigungsbehörde eingerichteten Sicherheitszonen gelten als Sicherheitszonen im Sinne dieser Verordnung.
 
@@ -73,8 +63,7 @@ Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser Verordnung
 
 (3) Die Generaldirektion Wasserstraßen und Schifffahrt kann durch Allgemeinverfügung nach § 35 Satz 2 des Verwaltungsverfahrensgesetzes oder im Einzelfall Einzelheiten des Befahrensverbotes regeln und Befreiungen vom Befahrensverbot auch mit Auflagen oder Bedingungen, bei Sicherheitszonen nach § 11 der Seeanlagenverordnung im Einvernehmen mit dem Bundesamt für Seeschifffahrt und Hydrographie, zulassen, soweit dies mit den Anforderungen der Sicherheit und Leichtigkeit des Verkehrs vereinbar ist. Sie legt ferner nach den in Satz 1 genannten Voraussetzungen und Verfahren die Bedingungen für die Befreiung vom Befahrensverbot für Fahrzeuge, deren Rumpflänge 24 Meter nicht übersteigt, fest. Die insoweit erlassenen Allgemeinverfügungen werden nach Maßgabe von § 60 Abs. 1 der Seeschifffahrtsstraßen-Ordnung und von § 12 der Seeanlagenverordnung bekannt gemacht.
 
-
-## § 7a – Auskunft auf Ersuchen
+# § 7a – Auskunft auf Ersuchen
 
 (1) Wird der Fahrzeugführer eines Schiffes, das sich in der ausschließlichen Wirtschaftszone oder dem Küstenmeer eines anderen Staates befindet, von den Behörden dieses Staates mit der Begründung, daß er gegen anwendbare internationale Regeln und Normen zur Verhütung, Verringerung und Überwachung der Verschmutzung durch Schiffe verstoßen habe, ersucht, Angaben über die Identität und den Registerhafen, den letzten oder nächsten Anlaufhafen seines Schiffes und andere sachdienliche Angaben zu machen, die erforderlich sind, um festzustellen, ob ein Verstoß erfolgt ist, so hat er diesem Ersuchen nachzukommen.
 
@@ -82,20 +71,17 @@ Fahrzeuge des öffentlichen Dienstes sind von den Vorschriften dieser Verordnung
 
 (3) Das Bundesministerium für Verkehr macht die in Absatz 2 genannten Staaten in den Nachrichten für Seefahrer (Amtliche Veröffentlichung für die Seeschiffahrt des Bundesamtes für Seeschiffahrt und Hydrographie) bekannt.
 
-
-## § 8 – Überwachung, Befreiung
+# § 8 – Überwachung, Befreiung
 
 (1) Für die Überwachung der Vorschriften dieser Verordnung sind die Strom- und Schiffahrtpolizeibehörden nach Maßgabe des § 55 der Seeschiffahrtstraßen-Ordnung zuständig; § 5 Abs. 1 Satz 2 Nr. 2 und § 6 Abs. 1 des Seeaufgabengesetzes bleiben unberührt.
 
 (2) Die Strom- und Schiffahrtpolizeibehörden können von den Vorschriften dieser Verordnung im Einzelfall befreien, soweit dies nach den Internationalen Regeln zulässig ist.
 
-
-## § 8a – Verweisungen
+# § 8a – Verweisungen
 
 Soweit in anderen Vorschriften auf die "Seestraßenordnung" verwiesen wird, treten an deren Stelle die "Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See".
 
-
-## § 8b – Verwendung von Lichtern, Signalkörpern und Schallsignalanlagen
+# § 8b – Verwendung von Lichtern, Signalkörpern und Schallsignalanlagen
 
 (1) Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind, dürfen
 
@@ -109,8 +95,7 @@ Soweit in anderen Vorschriften auf die "Seestraßenordnung" verwiesen wird, tret
 
 (3) Für die Baumusterzulassung, die Wirksamkeit und die Instandsetzung der Lichter, Signalkörper und Schallsignalanlagen gilt Abschnitt D Nr. 10 der Anlage zum Schiffssicherheitsgesetz in der jeweils geltenden Fassung.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -118,11 +103,9 @@ Soweit in anderen Vorschriften auf die "Seestraßenordnung" verwiesen wird, tret
 
 2. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
-2a.  
-entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
+2a. entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
 
-2b.  
-entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
+2b. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
 
 3. als Seelotse entgegen § 4 Abs. 2 den Fahrzeugführer oder dessen Vertreter nicht oder nicht ausreichend berät,
 
@@ -176,12 +159,10 @@ entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt ode
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## § 10 – Inkrafttreten, Aufhebung von Vorschriften
+# § 10 – Inkrafttreten, Aufhebung von Vorschriften
 
 Die Verordnung tritt am 15. Juli 1977 in Kraft; ... .
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

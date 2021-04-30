@@ -1,34 +1,27 @@
-# [ForstWiAusbV 1998] Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin
-
-Ausfertigungsdatum: 23.01.1998
-
+% Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin
+% Ausfertigungsdatum: 23.01.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Forstwirt/Forstwirtin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Rechtsverordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+# § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -104,23 +97,19 @@ Handhaben, Warten und Instandsetzen von Maschinen und Geräten,
 6.2  
 Be- und Verarbeiten von Holz und anderen Werkstoffen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in den Anlagen I und II für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -162,8 +151,7 @@ Dabei sind Sicherheit und Gesundheitsschutz bei der Arbeit, Umweltschutz sowie O
 
 7. Maschinen, Geräte und Betriebseinrichtungen.
 
-
-## § 9 – Abschlußprüfung
+# § 9 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage I aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch und schriftlich durchgeführt.
 
@@ -235,18 +223,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Die Prüfung ist bestanden, wenn im Gesamtergebnis und in den beiden Bereichen Waldwirtschaft und Landschaftspflege sowie Holzernte und Forsttechnik mindestens ausreichende Leistungen erbracht worden sind. Die Prüfung ist nicht bestanden, wenn eine der Prüfungsaufgaben in der praktischen Prüfung oder eines der Prüfungsfächer in der schriftlichen Prüfung mit ungenügend bewertet worden ist.
 
-
-## § 10 – Übergangsregelungen
+# § 10 – Übergangsregelungen
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
-## Anlage I – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin- sachliche Gliederung -
+# Anlage I – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 209 - 215)
 
@@ -1120,8 +1105,7 @@ c)
 
 Holzschutzmaßnahmen umweltschonend durchführen
 
-
-## Anlage II – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin  - zeitliche Gliederung -
+# Anlage II – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 216 - 218)
 

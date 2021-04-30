@@ -1,15 +1,11 @@
-# [Brau/MälzAusbV 2007] Verordnung über die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
-
-Ausfertigungsdatum: 22.02.2007
-
+% Verordnung über die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
+% Ausfertigungsdatum: 22.02.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 zuletzt durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs. 1 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Brauer und Mälzer/Brauerin und Mälzerin wird
 
@@ -19,13 +15,11 @@ Der Ausbildungsberuf Brauer und Mälzer/Brauerin und Mälzerin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -68,8 +62,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 6. Information und Kommunikation.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
@@ -77,8 +70,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Zwischenprüfung
+# § 5 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -122,8 +114,7 @@ f) Reinigung und Desinfektion;
 
 3. die Prüfungszeit beträgt höchstens drei Stunden.
 
-
-## § 6 – Gesellenprüfung/Abschlussprüfung
+# § 6 – Gesellenprüfung/Abschlussprüfung
 
 (1) Durch die Gesellenprüfung/Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung/Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -214,18 +205,15 @@ bewertet worden sind.
 
 (9) Auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses ist die Prüfung in einem der mit schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 7 – Bestehende Berufsausbildungsverhältnisse
+# § 7 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-
-## Anlage – (zu § 3)Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
+# Anlage – (zu § 3)Ausbildungsrahmenplan für die Berufsausbildung zum Brauer und Mälzer/zur Brauerin und Mälzerin
 
 (Fundstelle: BGBl. I 2007, 189 - 192 (1202))
 
@@ -241,11 +229,9 @@ Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
 
 Zeitliche Richtwerte in Wochen
 
-1.-18.  
-Monat
+1.-18. Monat
 
-19.-36.  
-Monat
+19.-36. Monat
 
 1
 

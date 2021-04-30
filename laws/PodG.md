@@ -1,17 +1,13 @@
-# [PodG] Gesetz über den Beruf der Podologin und des Podologen  (Podologengesetz - PodG)
-
-Ausfertigungsdatum: 04.12.2001
-
+% Gesetz über den Beruf der Podologin und des Podologen  (Podologengesetz - PodG)
+% Ausfertigungsdatum: 04.12.2001
  
-
-## § 1
+# § 1
 
 (1) Wer die Berufsbezeichnung "Podologin" oder "Podologe" führen will, bedarf der Erlaubnis. Die Bezeichnung "Medizinische Fußpflegerin" oder "Medizinischer Fußpfleger" darf nur von Personen mit einer Erlaubnis nach Satz 1 oder einer Berechtigung oder staatlichen Anerkennung nach § 10 Abs. 1 geführt werden.
 
 (2) Podologinnen und Podologen, die Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes sind, führen die Berufsbezeichnung nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
-## § 2
+# § 2
 
 (1) Die Erlaubnis nach § 1 Satz 1 ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -53,8 +49,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (7) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a
+# § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Podologen ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte der zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des Podologen auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind. Die Länder können zur Wahrnehmung der Aufgaben nach den Sätzen 1 und 2 gemeinsame Stellen bestimmen.
 
@@ -62,8 +57,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Abs. 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 2b
+# § 2b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -95,18 +89,15 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 3
+# § 3
 
 Die Ausbildung soll entsprechend der Aufgabenstellung des Berufs insbesondere dazu befähigen, durch Anwendung geeigneter Verfahren nach den anerkannten Regeln der Hygiene allgemeine und spezielle fußpflegerische Maßnahmen selbständig auszuführen, pathologische Veränderungen oder Symptome von Erkrankungen am Fuß, die eine ärztliche Abklärung erfordern, zu erkennen, unter ärztlicher Anleitung oder auf ärztliche Veranlassung medizinisch indizierte podologische Behandlungen durchzuführen und damit bei der Prävention, Therapie und Rehabilitation von Fußerkrankungen mitzuwirken (Ausbildungsziel).
 
-
-## § 4
+# § 4
 
 Die Ausbildung dauert in Vollzeitform zwei Jahre, in Teilzeitform höchstens vier Jahre. Sie wird durch staatlich anerkannte Schulen vermittelt und schließt mit der staatlichen Prüfung ab. Die Ausbildung besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung. Sie steht unter der Gesamtverantwortung der Schule. Die Schulen haben die praktische Ausbildung im Rahmen einer Regelung mit geeigneten Einrichtungen, an denen podologische Behandlungsmaßnahmen durchgeführt werden, sicherzustellen.
 
-
-## § 5
+# § 5
 
 Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
@@ -114,8 +105,7 @@ Voraussetzung für den Zugang zur Ausbildung nach § 4 ist
 
 2. der Realschulabschluss oder eine gleichwertige Schulbildung oder eine andere abgeschlossene zehnjährige Schulbildung, die den Hauptschulabschluss erweitert, oder eine nach Hauptschulabschluss oder einer gleichwertigen Schulbildung erfolgreich abgeschlossene Berufsausbildung von mindestens zweijähriger Dauer.
 
-
-## § 6
+# § 6
 
 (1) Auf die Dauer der Ausbildung nach § 4 werden angerechnet
 
@@ -129,8 +119,7 @@ Die zuständige Behörde kann auf Antrag auch über die Nummern 1 bis 3 hinausge
 
 (2) Auf Antrag kann eine andere abgeschlossene Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer der Ausbildung angerechnet werden, wenn die Durchführung der Ausbildung und die Erreichung des Ausbildungsziels dadurch nicht gefährdet werden.
 
-
-## § 7
+# § 7
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung die Mindestanforderungen an die Ausbildung nach § 4, das Nähere über die staatliche Prüfung für Podologinnen und Podologen, die staatliche Ergänzungsprüfung nach § 10 Abs. 4 und 5 sowie die Urkunde für die Erlaubnis nach § 1 Satz 1 zu regeln.
 
@@ -150,8 +139,7 @@ Die zuständige Behörde kann auf Antrag auch über die Nummern 1 bis 3 hinausge
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 7a
+# § 7a
 
 (1) Staatsangehörige eines Vertragsstaates des Europäischen Wirtschaftsraumes, die zur Ausübung des Berufs des Podologen in einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -183,18 +171,15 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 § 1 Abs. 2 Satz 3 gilt entsprechend.
 
-
-## § 7b
+# § 7b
 
 Im Fall von berechtigten Zweifeln sind die zuständigen Behörden berechtigt, für jede Dienstleistungserbringung von den zuständigen Behörden des Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf Anforderung der zuständigen Behörden eines Vertragsstaates des Europäischen Wirtschaftsraumes haben die zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung und die gute Führung des Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
 
-
-## § 7c
+# § 7c
 
 Podologinnen und Podologen im Sinne des § 7a haben beim Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats dieses Dienstleistungserbringers hierüber zu unterrichten.
 
-
-## § 8
+# § 8
 
 (1) Die Entscheidungen nach § 2 Abs. 1 trifft die zuständige Behörde des Landes, in dem der Antragsteller die staatliche Prüfung bestanden hat.
 
@@ -202,8 +187,7 @@ Podologinnen und Podologen im Sinne des § 7a haben beim Erbringen der Dienstlei
 
 (3) Die Meldung nach § 7a Abs. 2 und 3 nimmt die zuständige Behörde des Landes entgegen, in dem die Dienstleistung erbracht werden soll oder erbracht worden ist. Sie fordert die Informationen nach § 7b Satz 1 an. Die Informationen nach § 7b Satz 2 werden durch die zuständige Behörde des Landes übermittelt, in dem der Beruf des Podologen ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung des Herkunftsmitgliedstaats gemäß § 7c erfolgt durch die zuständige Behörde des Landes, in dem die Dienstleistung erbracht wird oder erbracht worden ist. Die Bescheinigungen nach § 7a Abs. 4 stellt die zuständige Behörde des Landes aus, in dem der Antragsteller den Beruf des Podologen ausübt.
 
-
-## § 9
+# § 9
 
 (1) Ordnungswidrig handelt, wer
 
@@ -217,8 +201,7 @@ führt.
 
 (+++ § 9 Abs. 1 Nr. 2: Ist gem. § 11 nicht vor dem 1.1.2003 anzuwenden +++)
 
-
-## § 10
+# § 10
 
 (1) Eine auf Grund
 
@@ -242,7 +225,6 @@ gilt als Erlaubnis nach § 1 Satz 1.
 
 (6) Personen, die bei Inkrafttreten dieses Gesetzes, ohne unter die Absätze 1 bis 5 zu fallen, eine mindestens fünfjährige Tätigkeit auf dem Gebiet der medizinischen Fußpflege nachweisen, erhalten bei Vorliegen der Voraussetzungen des § 2 Abs. 1 Nr. 2 und 3 die Erlaubnis nach § 1 Satz 1, wenn sie innerhalb von fünf Jahren nach Inkrafttreten dieses Gesetzes die staatliche Prüfung erfolgreich ablegen.
 
-
-## § 11
+# § 11
 
 § 1 Satz 2 und § 9 Abs. 1 Nr. 2 sind vor dem 1. Januar 2003 nicht anzuwenden.

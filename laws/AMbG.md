@@ -1,25 +1,19 @@
-# [AMbG] Allgemeines Magnetschwebebahngesetz  (AMbG)
-
-Ausfertigungsdatum: 19.07.1996
-
+% Allgemeines Magnetschwebebahngesetz  (AMbG)
+% Ausfertigungsdatum: 19.07.1996
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz gilt für Magnetschwebebahnen.
 
-
-## § 2 – Öffentliche Magnetschwebebahnen
+# § 2 – Öffentliche Magnetschwebebahnen
 
 Magnetschwebebahnen dienen dem öffentlichen Verkehr (öffentliche Magnetschwebebahnen), wenn sie gewerbs- oder geschäftsmäßig betrieben werden und jedermann sie nach ihrer Zweckbestimmung zur Personen- oder Güterbeförderung benutzen kann.
 
-
-## § 3 – Sicherheitsvorschriften
+# § 3 – Sicherheitsvorschriften
 
 Die Magnetschwebebahnunternehmen sind verpflichtet, ihren Betrieb sicher zu führen und die Magnetschwebebahnstrecken, sonstige Magnetschwebebahnanlagen, Fahrzeuge und Zubehör sicher zu bauen und in betriebssicherem Zustand zu halten.
 
-
-## § 4 – Aufgaben des Eisenbahn-Bundesamtes
+# § 4 – Aufgaben des Eisenbahn-Bundesamtes
 
 (1) Das Eisenbahn-Bundesamt ist über § 1 Abs. 2 des Magnetschwebebahnplanungsgesetzes vom 23. November 1994 (BGBl. I S. 3486) hinaus auch Aufsichts- und Genehmigungsbehörde für Magnetschwebebahnen in bezug auf dieses Gesetz und den hierauf beruhenden Rechtsverordnungen.
 
@@ -39,8 +33,7 @@ Die Magnetschwebebahnunternehmen sind verpflichtet, ihren Betrieb sicher zu füh
 
 (5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach diesen Vorschriften zuständigen Behörden überwacht. Für Fahrzeuge von Magnetschwebebahnunternehmen und deren Anlagen, die unmittelbar der Sicherstellung des Betriebsablaufs dienen, kann das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 
-
-## § 5 – Erteilung und Versagung der Genehmigung
+# § 5 – Erteilung und Versagung der Genehmigung
 
 (1) Ohne eine Genehmigung dürfen öffentliche Magnetschwebebahnen nicht betrieben werden.
 
@@ -56,15 +49,13 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 (3) Antragsteller kann jede natürliche Person sein, die Angehörige eines Mitgliedstaates der Europäischen Gemeinschaften ist. Das gleiche gilt für Gesellschaften, juristische Personen und Gebietskörperschaften, die nach den Rechtsvorschriften eines Mitgliedstaates der Europäischen Gemeinschaften gegründet wurden und ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Europäischen Gemeinschaften haben.
 
-
-## § 6 – Widerruf der Genehmigung
+# § 6 – Widerruf der Genehmigung
 
 (1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn eine der Voraussetzungen des § 5 Abs. 2 nicht mehr vorliegt.
 
 (2) Auf Verlangen der Genehmigungsbehörde hat das Magnetschwebebahnunternehmen den Nachweis zu führen, daß die ihm gesetzlich obliegenden arbeitsrechtlichen, sozialrechtlichen und steuerrechtlichen Verpflichtungen erfüllt werden. Die Finanzbehörden dürfen den Genehmigungsbehörden Mitteilung über die wiederholte Nichterfüllung der steuerrechtlichen Verpflichtungen oder die Abgabe der Vermögensauskunft nach § 284 der Abgabenordnung machen. Die Mitteilung der Finanzbehörden darf nur für Zwecke eines Widerrufsverfahrens verwendet werden.
 
-
-## § 7 – Beförderungspflicht
+# § 7 – Beförderungspflicht
 
 Öffentliche Magnetschwebebahnunternehmen sind zur Beförderung von Personen und Reisegepäck verpflichtet, wenn
 
@@ -74,8 +65,7 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 3. die Beförderung nicht durch Umstände verhindert wird, welche die Magnetschwebebahnunternehmen nicht abwenden und denen sie auch nicht abhelfen konnten.
 
-
-## § 8 – Tarife
+# § 8 – Tarife
 
 (1) Tarife sind die Beförderungsentgelte und Beförderungsbedingungen. Das Magnetschwebebahnunternehmen ist verpflichtet, daran mitzuwirken, daß
 
@@ -93,8 +83,7 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 (4) Die in Absatz 2 genannten Tarife müssen bekanntgemacht werden. Erhöhungen der Beförderungsentgelte oder andere für den Kunden nachteilige Änderungen der Beförderungsbedingungen werden frühestens einen Monat nach der Bekanntmachung wirksam. Die Genehmigungsbehörde kann eine Abkürzung der Bekanntmachungsfrist für die Anwendung der Beförderungsbedingungen genehmigen. Die Genehmigung muß aus der Bekanntmachung ersichtlich sein.
 
-
-## § 9 – Überwachung
+# § 9 – Überwachung
 
 (1) Zur Durchführung ihrer Überwachungsaufgaben hat die zuständige Behörde folgende Befugnisse:
 
@@ -104,8 +93,7 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 (2) Die Magnetschwebebahnunternehmen und die im Geschäftsbetrieb tätigen Personen haben der Aufsichtsbehörde und deren Beauftragten bei der Durchführung der Überwachungsmaßnahmen die erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste zu leisten.
 
-
-## § 10 – Rechtsverordnungen
+# § 10 – Rechtsverordnungen
 
 (1) Zur Gewährleistung der Sicherheit und Ordnung im Magnetschwebebahnverkehr oder zum Schutz von Leben und Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt, für öffentliche Magnetschwebebahnen Rechtsverordnungen zu erlassen, die
 
@@ -139,13 +127,11 @@ und damit die Gewähr für eine sichere Betriebsführung bieten.
 
 (4) Für Magnetschwebebahnen, die nicht dem öffentlichen Verkehr dienen, gelten die Ermächtigungen nach Absatz 1 insoweit, als die Einheit des Magnetschwebebahnbetriebes es erfordert. Die Ermächtigung nach Absatz 2 gilt für diese Magnetschwebebahnen insoweit, als sie Strecken öffentlicher Magnetschwebebahnen benutzen.
 
-
-## § 11 – Allgemeine Verwaltungsvorschriften
+# § 11 – Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales zur Durchführung der auf Grund des § 10 Abs. 2 erlassenen Rechtsverordnungen Allgemeine Verwaltungsvorschriften erlassen, insbesondere über die Ahndung von Ordnungswidrigkeiten.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -163,22 +149,18 @@ b) Unterlagen nicht oder nicht rechtzeitig aushändigt,
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 3 mit einer Geldbuße bis zu fünfhundert Euro, in den Fällen des Absatzes 1 Nr. 1, 2 und 4 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 13 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+# § 13 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Eisenbahn-Bundesamt.
 
-
-## § 14
+# § 14
 
 \-
 
-
-## § 15 – Rückkehr zum einheitlichen Verordnungsrang
+# § 15 – Rückkehr zum einheitlichen Verordnungsrang
 
 Die auf § 14 beruhenden Teile der dort geänderten Rechtsverordnungen können auf Grund der jeweils einschlägigen Ermächtigung durch Rechtsverordnung geändert werden.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

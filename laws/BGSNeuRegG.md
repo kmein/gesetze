@@ -1,15 +1,11 @@
-# [BGSNeuRegG] Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz  (Bundesgrenzschutzneuregelungsgesetz - BGSNeuRegG)
-
-Ausfertigungsdatum: 19.10.1994
-
+% Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz  (Bundesgrenzschutzneuregelungsgesetz - BGSNeuRegG)
+% Ausfertigungsdatum: 19.10.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Artikel 1
 
@@ -81,8 +77,6 @@ Artikel 3
 
 Inkrafttretens-, Außerkrafttretens- und Anwendungsbestimmungen
 
+# §§ 1 bis 12 – (Änderungsvorschriften)
 
-## §§ 1 bis 12 – (Änderungsvorschriften)
-
-
-## § 13 – (weggefallen)
+# § 13 – (weggefallen)

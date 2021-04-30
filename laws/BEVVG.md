@@ -1,10 +1,7 @@
-# [BEVVG] Gesetz über die Eisenbahnverkehrsverwaltung des Bundes  (Bundeseisenbahnverkehrsverwaltungsgesetz - BEVVG)
-
-Ausfertigungsdatum: 27.12.1993
-
+% Gesetz über die Eisenbahnverkehrsverwaltung des Bundes  (Bundeseisenbahnverkehrsverwaltungsgesetz - BEVVG)
+% Ausfertigungsdatum: 27.12.1993
  
-
-## § 1 – Zuständige Behörden
+# § 1 – Zuständige Behörden
 
 (1) Die Aufgaben der Eisenbahnverkehrsverwaltung des Bundes werden, soweit dieses Gesetz nichts anderes bestimmt, vom Bundesministerium für Verkehr und digitale Infrastruktur wahrgenommen. Es kann seine Aufgaben nach Satz 1 ganz oder teilweise durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf das Eisenbahn-Bundesamt übertragen.
 
@@ -22,8 +19,7 @@ ganz oder teilweise zu übertragen oder die privaten Stellen daran zu beteiligen
 
 (2) Die Aufgaben des Bundeseisenbahnvermögens auf Grund des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S. 2378) bleiben unberührt.
 
-
-## § 2 – Eisenbahn-Bundesamt
+# § 2 – Eisenbahn-Bundesamt
 
 (1) Als selbständige Bundesoberbehörde für Aufgaben der Eisenbahnverkehrsverwaltung wird das Eisenbahn-Bundesamt errichtet, das dem Bundesministerium für Verkehr und digitale Infrastruktur untersteht.
 
@@ -41,8 +37,7 @@ ganz oder teilweise zu übertragen oder die privaten Stellen daran zu beteiligen
 
 (8) Das Eisenbahn-Bundesamt wird von einem Präsidenten geleitet.
 
-
-## § 3 – Aufgaben des Eisenbahn-Bundesamtes
+# § 3 – Aufgaben des Eisenbahn-Bundesamtes
 
 (1) Dem Eisenbahn-Bundesamt obliegen folgende Aufgaben, soweit nicht die in § 4 Abs. 1 bezeichnete Behörde zuständig ist:
 
@@ -72,8 +67,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (4) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes werden Gebühren und Auslagen erhoben. Bis zum Inkrafttreten der Rechtsverordnung nach § 26 Abs. 1 Nr. 9 des Allgemeinen Eisenbahngesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2396) sind die Gebühren im Einzelfall an Hand des mit dieser Leistung verbundenen Verwaltungsaufwandes und der Bedeutung, des wirtschaftlichen Wertes oder des sonstigen Nutzens dieser Leistung für den Gebührenschuldner unter Berücksichtigung der wirtschaftlichen Verhältnisse des Gebührenschuldners festzusetzen.
 
-
-## § 4 – Regulierungsbehörde
+# § 4 – Regulierungsbehörde
 
 (1) Die Aufgabe, die Einhaltung der Rechtsvorschriften über den Zugang zur Eisenbahninfrastruktur zu überwachen, obliegt der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur). Sie untersteht insoweit der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur. Die Dienstaufsicht für die Aufgaben nach Satz 1 übt das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur aus. Die Einzelheiten werden durch Verwaltungsvereinbarung geregelt.
 
@@ -91,8 +85,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (7) Bis zum 31. Dezember 2005 werden die der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen nach Absatz 1 zugewiesenen Aufgaben vom Eisenbahn-Bundesamt wahrgenommen.
 
-
-## § 4a – Leitung der Bundesnetzagentur im Eisenbahnbereich
+# § 4a – Leitung der Bundesnetzagentur im Eisenbahnbereich
 
 (1) Der Präsident oder die Präsidentin hat unabhängig von allen Marktinteressen in Bezug auf den Eisenbahnsektor zu handeln und darf in keinen Beteiligungs- oder Geschäftsbeziehungen zu Unternehmen oder Stellen, die der Regulierung unterliegen, stehen.
 
@@ -104,8 +97,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (5) Nach dem Ende seiner oder ihrer Amtszeit in der Regulierungsbehörde darf der Präsident oder die Präsidentin bei Unternehmen oder Stellen, die der Regulierung unterliegen, für einen Zeitraum von einem Jahr weder eine berufliche Position bekleiden noch berufliche Aufgaben wahrnehmen.
 
-
-## § 5 – Eisenbahnsicherheitsbeirat
+# § 5 – Eisenbahnsicherheitsbeirat
 
 (1) Beim Eisenbahn-Bundesamt wird ein Eisenbahnsicherheitsbeirat gebildet. Er besteht aus je einem Vertreter der für die Eisenbahnaufsicht zuständigen obersten Landesbehörden sowie einem Vertreter des Bundesministeriums für Verkehr und digitale Infrastruktur, der den Vorsitz führt.
 
@@ -115,8 +107,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (4) Der Eisenbahnsicherheitsbeirat gibt sich eine Geschäftsordnung, die der Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur bedarf.
 
-
-## § 6 – Bundesstelle für Eisenbahnunfalluntersuchung
+# § 6 – Bundesstelle für Eisenbahnunfalluntersuchung
 
 (1) Als selbständige Bundesoberbehörde für Aufgaben der Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb wird die Bundesstelle für Eisenbahnunfalluntersuchung errichtet, die dem Bundesministerium für Verkehr und digitale Infrastruktur untersteht.
 
@@ -128,8 +119,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (5) Die Bundesstelle für Eisenbahnunfalluntersuchung wird von einem Direktor oder einer Direktorin geleitet.
 
-
-## § 7 – Aufgaben der Bundesstelle für Eisenbahnunfalluntersuchung
+# § 7 – Aufgaben der Bundesstelle für Eisenbahnunfalluntersuchung
 
 (1) Die Untersuchung gefährlicher Ereignisse, die dem Bund obliegt, wird durch die Bundesstelle für Eisenbahnunfalluntersuchung wahrgenommen.
 
@@ -157,15 +147,13 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 11. Führung einer Datenbank über die gemeldeten gefährlichen Ereignisse im Eisenbahnbetrieb in nicht personenbezogener Form.
 
-
-## § 8 – Übergangsregelungen
+# § 8 – Übergangsregelungen
 
 (1) Spätestens sechs Monate nach Errichtung der Bundesstelle für Eisenbahnunfalluntersuchung finden Wahlen zur Personalvertretung statt. Bis zur Konstituierung des Personalrates werden die Aufgaben der Personalvertretung bei der Bundesstelle für Eisenbahnunfalluntersuchung vom Hauptpersonalrat beim Bundesministerium für Verkehr und digitale Infrastruktur wahrgenommen. Der Übergangspersonalrat bestellt unverzüglich den Wahlvorstand für die Durchführung der Personalratswahlen in der Bundesstelle für Eisenbahnunfalluntersuchung.
 
 (2) Die Dienstvereinbarungen und Verwaltungsanordnungen im Sinne des § 78 Absatz 1 Nummer 1 des Bundespersonalvertretungsgesetzes des Eisenbahn-Bundesamtes gelten bis zum Abschluss neuer Dienstvereinbarungen für alle Beamtinnen und Beamten sowie Arbeitnehmerinnen und Arbeitnehmer der Bundesstelle für Eisenbahnunfalluntersuchung fort.
 
-
-## § 9 – Zusammenarbeit zwischen Regulierungs-, Sicherheits-, Genehmigungs- und Kartellbehörden
+# § 9 – Zusammenarbeit zwischen Regulierungs-, Sicherheits-, Genehmigungs- und Kartellbehörden
 
 (1) Die Regulierungsbehörde, die Sicherheitsbehörde und die Genehmigungsbehörde arbeiten auf der Grundlage des Absatzes 2 zusammen. Alle übermittelten Informationen sind in den Verfahren der die Informationen empfangenden Behörde verwertbar. Etwaige Beweisverwertungsverbote bleiben davon unberührt.
 
@@ -173,8 +161,7 @@ Soweit diese Aufgaben vom Verwaltungsbereich des Bundeseisenbahnvermögens im Si
 
 (3) Die Aufgaben und Zuständigkeiten der Kartellbehörden nach dem Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt. Die Regulierungsbehörde und die Eisenbahnaufsichtsbehörden sowie die Kartellbehörden und die nach dem Telekommunikationsgesetz und dem Energiewirtschaftsgesetz zuständigen Regulierungsbehörden teilen einander Informationen mit, die für die Erfüllung der jeweiligen Aufgaben von Bedeutung sein können. Insbesondere sollen sie sich gegenseitig über beabsichtigte Entscheidungen informieren, mit denen ein missbräuchliches oder diskriminierendes Verhalten von Eisenbahninfrastrukturunternehmen untersagt werden soll. Sie sollen einander Gelegenheit zur Stellungnahme geben, bevor das Verfahren von der zuständigen Behörde abgeschlossen wird.
 
-
-## § 10 – Übergangsregelungen
+# § 10 – Übergangsregelungen
 
 (1) § 4a Absatz 1 und 5 ist erst ab dem 1. März 2017 anzuwenden.
 

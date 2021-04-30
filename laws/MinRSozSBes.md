@@ -1,10 +1,7 @@
-# [MinRSozSBes] Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
-
-Ausfertigungsdatum: 08.08.1990
-
+% Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990
+% Ausfertigungsdatum: 08.08.1990
  
-
-## ----
+# ----
 
 1. Mitglieder des Ministerrates, die aus nicht in ihrer Person liegenden Gründen aus der Regierung ausscheiden, das Rentenalter noch nicht erreicht haben und nicht sofort eine andere Tätigkeit aufnehmen können bzw. die Aufnahme einer solchen mit einer Einkommensminderung verbunden ist, erhalten ein Übergangsgeld. Das Übergangsgeld wird
 
@@ -30,13 +27,11 @@ c) Die Zeiten des Bezuges dieser Leistungen gelten bei der Gewährung und Berech
 
 b) An leitende Funktionäre und Mitarbeiter der zentralen und örtlichen Staats- und Justizorgane gezahlte Dienstaufwandsentschädigungen werden ebenfalls in die Berechnung des durchschnittlichen Nettolohnes nach der Verordnung über die Gewährung von Vorruhestandsgeld vom 8. Februar 1990 einbezogen.
 
-
-## Schlußformel
+# Schlußformel
 
 Minister im Amt des Ministerpräsidenten
 
-
-## Anhang EV – Auszug aus EinigVtrVbg Art 3(BGBl. II 1990, 1239)
+# Anhang EV – Auszug aus EinigVtrVbg Art 3(BGBl. II 1990, 1239)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend.
 

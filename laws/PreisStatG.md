@@ -1,15 +1,11 @@
-# [PreisStatG] Gesetz über die Preisstatistik
-
-Ausfertigungsdatum: 09.08.1958
-
+% Gesetz über die Preisstatistik
+% Ausfertigungsdatum: 09.08.1958
  
-
-## § 1
+# § 1
 
 Im Geltungsbereich dieses Gesetzes wird eine Preisstatistik als Bundesstatistik durchgeführt.
 
-
-## § 2
+# § 2
 
 Die Statistik erstreckt sich auf
 
@@ -23,8 +19,7 @@ Die Statistik erstreckt sich auf
 
 5. Preise für Grundstücke, Gebäude und Wohnungen.
 
-
-## § 3
+# § 3
 
 (1) Die Statistik nach § 2 Nr. 1 erfaßt die Preise für nach Art, Sorte, Qualität und Handelsbedingungen bezeichnete Güter. Die Statistik der Halbjahresdurchschnittspreise von Strom und Erdgas für Haushaltskunden und Endkunden des Nichthaushaltssektors erfasst auch diejenigen Angaben zu Abnahmemengen von Strom und Erdgas für Endkunden, die erforderlich sind zur Erfüllung der Verpflichtungen aus der Verordnung (EU) 2016/1952 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über europäische Erdgas- und Strompreisstatistik und zur Aufhebung der Richtlinie 2008/92/EG (ABl. L 311 vom 17.11.2016, S. 1).
 
@@ -54,29 +49,25 @@ c) die Höhe der Umlage nach § 17f des Energiewirtschaftsgesetzes.
 
 (4) Soweit Angaben nach Absatz 3 übermittelt werden, sieht das Statistische Bundesamt von einer Erhebung bei den landwirtschaftlichen, forstwirtschaftlichen und gewerblichen Unternehmen, Behörden und Einrichtungen ab.
 
-
-## § 4
+# § 4
 
 (1) Die Statistik nach § 2 Nr. 2 erfaßt die Preise und Entgelte für nach Arten und Merkmalen bezeichnete Werk- und Dienstleistungen.
 
 (2) Auskunftspflichtig sind die Unternehmen und selbständig tätigen Personen des Werk- und Dienstleistungsbereichs sowie Behörden und Einrichtungen. Die Erhebungen werden bei höchstens 22 000 Auskunftspflichtigen durchgeführt.
 
-
-## § 5
+# § 5
 
 (1) Die Statistik nach § 2 Nr. 3 erfaßt die Preise und Entgelte für nach Arten und Merkmalen bezeichnete Leistungen und Nebenleistungen im Verkehr sowie die Entgelte für die Vercharterung von nach Arten bezeichneten Schiffen.
 
 (2) Auskunftspflichtig sind die Unternehmen und selbständig tätigen Personen, die Verkehrsleistungen erbringen oder vermitteln oder - in Fällen der Einfuhr von Gütern - in Anspruch nehmen, Schiffsmieten bezahlen oder erhalten sowie Behörden und Einrichtungen des Verkehrswesens.
 
-
-## § 6
+# § 6
 
 (1) Die Statistik nach § 2 Nummer 4 erfasst die Mieten einschließlich Umlagen und Zuschläge für nach Arten und Merkmalen bezeichneten Wohnraum, Gewerberaum, Garagen und Stellplätze.
 
 (2) Auskunftspflichtig sind die Vertragsparteien. Die Erhebungen werden bei höchstens 38 000 Auskunftspflichtigen durchgeführt.
 
-
-## § 7
+# § 7
 
 (1) Die Statistik nach § 2 Nummer 5 erfasst
 
@@ -90,8 +81,7 @@ c) die Höhe der Umlage nach § 17f des Energiewirtschaftsgesetzes.
 
 (2) Auskunftspflichtig sind die Finanzämter oder die Geschäftsstellen der Gutachterausschüsse für Grundstückswerte.
 
-
-## § 7a
+# § 7a
 
 (1) Hilfsmerkmale der Erhebungen sind:
 
@@ -153,8 +143,7 @@ e) dem Stellplatz.
 
 4. die Kennzeichnung der jeweiligen Statistik.
 
-
-## § 7b
+# § 7b
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 7a Absatz 1 Nummer 2 sind freiwillig.
 
@@ -166,13 +155,11 @@ e) dem Stellplatz.
 
 (5) Existenzgründer im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
-
-## § 7c
+# § 7c
 
 Die nach § 7b Absatz 2 abgerufenen Daten sowie die nach § 7b Absatz 3 übermittelten Aufzeichnungen dürfen auch für andere als die Zwecke dieses Gesetzes statistisch ausgewertet werden.
 
-
-## § 8
+# § 8
 
 (1) Die Erhebungen nach den §§ 3 bis 7 finden, soweit die folgenden Absätze nichts anderes bestimmen, monatlich statt.
 
@@ -214,8 +201,7 @@ durchgeführt.
 
 (8) Die elektronischen Aufzeichnungen von Transaktionen nach § 7b Absatz 3 dürfen in der Periodizität angefordert werden, die erforderlich ist, um die Preisentwicklung in der gesetzlich angeordneten Periodizität repräsentativ abzubilden, höchstens jedoch wöchentlich.
 
-
-## § 8a
+# § 8a
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, für die nach § 2 durchzuführenden Bundesstatistiken
 
@@ -227,8 +213,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung
 
 Wird die betroffene Bundesstatistik zentral vom Statistischen Bundesamt durchgeführt, bedarf die Rechtsverordnung nicht der Zustimmung des Bundesrates.
 
-
-## § 9
+# § 9
 
 Folgende Statistiken werden zentral vom Statistischen Bundesamt durchgeführt:
 
@@ -274,10 +259,8 @@ k) Dienstleistungen einschließlich der für die Erstellung des Index der Erzeug
 
 10. Ausfuhrpreise.
 
+# §§ 10 und 11 – (weggefallen)
 
-## §§ 10 und 11 – (weggefallen)
-
-
-## § 12
+# § 12
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

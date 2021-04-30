@@ -1,20 +1,15 @@
-# [AutGAAPolAbkG] Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für den neuen Grenzübergang im Raum Görlitz und Zgorzelec
-
-Ausfertigungsdatum: 07.01.1994
-
+% Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für den neuen Grenzübergang im Raum Görlitz und Zgorzelec
+% Ausfertigungsdatum: 07.01.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für den neuen Grenzübergang im Raum Görlitz und Zgorzelec sowie dem dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen und das Protokoll werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze findet deutsches Umsatzsteuerrecht Anwendung.
 
@@ -22,8 +17,7 @@ Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der Bundesrep
 
 (3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen Bestimmungen sind mit Wirkung vom 1. August 1992 anzuwenden.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

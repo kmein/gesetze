@@ -1,10 +1,7 @@
-# [MZG] Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und die Arbeitsmarktbeteiligung sowie die Wohnsituation der Haushalte  (Mikrozensusgesetz - MZG)
-
-Ausfertigungsdatum: 07.12.2016
-
+% Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und die Arbeitsmarktbeteiligung sowie die Wohnsituation der Haushalte  (Mikrozensusgesetz - MZG)
+% Ausfertigungsdatum: 07.12.2016
  
-
-## § 1 – Art und Gegenstand der Erhebung
+# § 1 – Art und Gegenstand der Erhebung
 
 (1) Ab dem Jahr 2017 wird eine Erhebung auf repräsentativer Grundlage über die Bevölkerungsstruktur sowie über die wirtschaftliche und soziale Lage der Bevölkerung (Mikrozensus) als Bundesstatistik durchgeführt.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 07.12.2016
 
 4. dem Erhebungsteil in Bezug auf Informations- und Kommunikationstechnologien nach § 9.
 
-
-## § 2 – Zweck der Erhebung
+# § 2 – Zweck der Erhebung
 
 (1) Der Zweck des Mikrozensus ist es, statistische Angaben in regionaler und tiefer fachlicher Gliederung bereitstellen zu können.
 
@@ -31,22 +27,19 @@ Ausfertigungsdatum: 07.12.2016
 
 3. der Verordnung (EG) Nr. 808/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 über Gemeinschaftsstatistiken zur Informationsgesellschaft (ABl. L 143 vom 30.4.2004, S. 49), die zuletzt durch Artikel 1 der Verordnung (EG) Nr. 1006/2009 (ABl. L 286 vom 31.10.2009, S. 31) geändert worden ist, in der jeweils geltenden Fassung sowie aus den auf dieser Verordnung basierenden Rechtsakten, jeweils soweit Einzelpersonen und Haushalte betroffen sind.
 
-
-## § 3 – Erhebungseinheiten
+# § 3 – Erhebungseinheiten
 
 (1) Erhebungseinheiten sind meldepflichtige Personen sowie Haushalte und Wohnungen.
 
 (2) Einen Haushalt bilden alle Personen, die gemeinsam wohnen und wirtschaften. Wer allein wohnt oder allein wirtschaftet, bildet einen eigenen Haushalt. Personen mit mehreren Wohnungen werden in jeder ausgewählten Wohnung einem Haushalt zugeordnet.
 
-
-## § 4 – Auswahl der Stichprobe, Grundstichprobe
+# § 4 – Auswahl der Stichprobe, Grundstichprobe
 
 (1) Die Erhebungseinheiten werden auf der Grundlage von Flächen oder vergleichbaren Bezugsgrößen (Auswahlbezirke) ausgewählt. Die Erhebungseinheiten werden durch mathematisch-statistische Verfahren bestimmt.
 
 (2) Der Auswahlsatz beträgt 1 Prozent der Bevölkerung (Grundstichprobe). Die Grundstichprobe umfasst sowohl Haushalte nach § 3 Absatz 2 als auch Gemeinschaftsunterkünfte nach § 10 Absatz 2.
 
-
-## § 5 – Periodizität, Berichtswoche
+# § 5 – Periodizität, Berichtswoche
 
 (1) In jedem Auswahlbezirk werden die Angaben zu den Erhebungsmerkmalen innerhalb von fünf aufeinanderfolgenden Kalenderjahren bis zu viermal erhoben; hierzu werden eine Erstbefragung und Folgebefragungen durchgeführt.
 
@@ -62,8 +55,7 @@ Ausfertigungsdatum: 07.12.2016
 
 2. die Angaben zum Arbeitsmarkt nach § 7 Absatz 1 Nummer 1 Buchstabe a Doppelbuchstabe aa bis ff, Nummer 2 Buchstabe a bis d, Nummer 3 Buchstabe a sowie Nummer 4 werden gemeinsam mit den Angaben zum Kernprogramm nach § 6 Absatz 1 zu bis zu zwei Berichtswochen pro Kalenderjahr, insgesamt jedoch höchstens viermal erhoben.
 
-
-## § 6 – Kernprogramm der Erhebungsmerkmale
+# § 6 – Kernprogramm der Erhebungsmerkmale
 
 (1) In Haushalten werden jährlich Angaben zu folgenden Erhebungsmerkmalen erhoben:
 
@@ -344,8 +336,7 @@ m) Art der öffentlichen Leistungen für die Wohnkosten,
 
 3. für Frauen im Alter von 15 bis 75 Jahren: Zahl der lebend geborenen Kinder.
 
-
-## § 7 – Erhebungsmerkmale in Bezug auf die Arbeitsmarktbeteiligung
+# § 7 – Erhebungsmerkmale in Bezug auf die Arbeitsmarktbeteiligung
 
 (1) Gemeinsam mit den Angaben zu § 6 werden, soweit in § 5 Absatz 3 Nummer 2 nichts anderes bestimmt ist, jährlich die Angaben zu folgenden Erhebungsmerkmalen erhoben:
 
@@ -520,8 +511,7 @@ b) Stellung im Betrieb.
 
 (6) Ab dem Jahr 2020 beträgt der Auswahlsatz höchstens 45 Prozent der nach § 6 zu Befragenden.
 
-
-## § 8 – Erhebungsmerkmale in Bezug auf Einkommen und Lebensbedingungen
+# § 8 – Erhebungsmerkmale in Bezug auf Einkommen und Lebensbedingungen
 
 (1) Ab dem Jahr 2020 werden jährlich gemeinsam mit den Angaben zum Kernprogramm nach § 6 bei Personen, die im Auswahlbezirk ihren Hauptwohnsitz haben, mit einem Auswahlsatz von höchstens 12 Prozent der nach § 6 zu Befragenden die Angaben zu folgenden Erhebungsmerkmalen erhoben:
 
@@ -710,13 +700,11 @@ j) Kalenderjahr des Einzugs des Haushalts,
 
 2. die neuen Haushaltsmitglieder der in Nummer 1 genannten Personen und Haushalte.
 
-
-## § 9 – Erhebungsmerkmale in Bezug auf Informations- und Kommunikationstechnologie
+# § 9 – Erhebungsmerkmale in Bezug auf Informations- und Kommunikationstechnologie
 
 Ab dem Jahr 2021 werden jährlich gemeinsam mit den Angaben zum Kernprogramm nach § 6 bei Personen, die im Auswahlbezirk ihren Hauptwohnsitz haben, die Angaben zu den Merkmalen nach der Verordnung (EG) Nr. 808/2004 sowie nach den auf dieser Verordnung basierenden Rechtsakten, soweit Personen und Haushalte betroffen sind, erhoben, soweit diese Angaben nicht bereits nach § 6 erhoben werden. Der Befragung liegt ein Auswahlsatz von höchstens 3,5 Prozent der nach § 6 zu Befragenden zugrunde.
 
-
-## § 10 – Erhebungsmerkmale in Gemeinschaftsunterkünften
+# § 10 – Erhebungsmerkmale in Gemeinschaftsunterkünften
 
 (1) In Gemeinschaftsunterkünften werden abweichend von § 6 Angaben zu folgenden Erhebungsmerkmalen erhoben:
 
@@ -740,8 +728,7 @@ Ab dem Jahr 2021 werden jährlich gemeinsam mit den Angaben zum Kernprogramm nac
 
 (2) Gemeinschaftsunterkünfte nach Absatz 1 sind Einrichtungen, die regelmäßig der längerfristigen Unterbringung und Versorgung von Personen dienen, soweit diese keinen eigenen Haushalt führen.
 
-
-## § 11 – Hilfsmerkmale
+# § 11 – Hilfsmerkmale
 
 (1) Hilfsmerkmale sind:
 
@@ -779,15 +766,13 @@ Ab dem Jahr 2021 werden jährlich gemeinsam mit den Angaben zum Kernprogramm nac
 
 (3) Die Angaben nach Absatz 1 Nummer 6 dürfen nur zur Überprüfung der Zuordnung der Erwerbstätigen zu Wirtschaftszweigen verwendet werden.
 
-
-## § 12 – Erhebungsbeauftragte
+# § 12 – Erhebungsbeauftragte
 
 (1) Werden Erhebungsbeauftragte nach § 14 des Bundesstatistikgesetzes eingesetzt, dürfen sie die Angaben nach § 13 Absatz 6 Satz 1 selbst in die Erhebungsunterlagen eintragen oder elektronisch erfassen. Das gilt auch für weitere Eintragungen in die Erhebungsunterlagen, soweit die Auskunftspflichtigen einverstanden sind.
 
 (2) Werden Erhebungsbeauftragte ehrenamtlich eingesetzt, erhalten sie für ihre Tätigkeit eine steuerfreie Aufwandsentschädigung im Sinne des § 3 Nummer 12 Satz 2 des Einkommensteuergesetzes.
 
-
-## § 13 – Auskunftspflicht
+# § 13 – Auskunftspflicht
 
 (1) Für den Mikrozensus besteht Auskunftspflicht, soweit in Absatz 7 nichts anderes bestimmt ist. Die Auskunftspflicht über Dritte erstreckt sich nur auf die Angaben, die der auskunftspflichtigen Person bekannt sind.
 
@@ -811,8 +796,7 @@ Diese Angaben sind den Erhebungsbeauftragten von den angetroffenen Auskunftspfli
 
 (8) Soweit Anhaltspunkte dem nicht entgegenstehen, wird vermutet, dass alle auskunftspflichtigen Personen eines Haushalts befugt sind, Auskünfte auch für die jeweils anderen Personen des Haushalts zu erteilen. Dies gilt entsprechend für die Bestätigung der im Vorjahr erhobenen Angaben nach § 14 Absatz 2.
 
-
-## § 14 – Trennung und Löschung von Angaben
+# § 14 – Trennung und Löschung von Angaben
 
 (1) Die Angaben zu den Hilfsmerkmalen nach § 11 sind von den Angaben zu den Erhebungsmerkmalen, unverzüglich nachdem die Überprüfung der Erhebungs- und der Hilfsmerkmale auf ihre Schlüssigkeit und Vollständigkeit abgeschlossen ist, zu trennen. Die Angaben zu den Hilfsmerkmalen nach § 11 sind gesondert aufzubewahren.
 
@@ -824,8 +808,7 @@ Diese Angaben sind den Erhebungsbeauftragten von den angetroffenen Auskunftspfli
 
 (5) Vor- und Familienname sowie Gemeinde, Straße, Hausnummer und Kontaktdaten der befragten Personen dürfen auch im Haushaltszusammenhang für die Durchführung von Folgebefragungen nach § 5 Absatz 1 verwendet werden. Die Angaben zu den Merkmalen nach Satz 1 dürfen auch als Grundlage für die Gewinnung geeigneter Personen und Haushalte zur Durchführung der Statistik der Wirtschaftsrechnungen privater Haushalte und anderer Erhebungen auf freiwilliger Basis verwendet werden.
 
-
-## § 15 – Datenübermittlung
+# § 15 – Datenübermittlung
 
 (1) Die nach Landesrecht für die Übermittlung von Meldedaten zuständigen Stellen übermitteln den statistischen Ämtern der Länder auf Ersuchen für die Durchführung des Mikrozensus einschließlich seiner methodischen Auswertung folgende Daten der Einwohner und Einwohnerinnen, die in den Auswahlbezirken nach § 4 Absatz 1 wohnen:
 
@@ -845,25 +828,21 @@ Diese Angaben sind den Erhebungsbeauftragten von den angetroffenen Auskunftspfli
 
 (2) Ziehen für die Erhebung nach § 8 ausgewählte Personen in den Zuständigkeitsbereich eines anderen statistischen Amtes, werden die Angaben zu den Erhebungs- und Hilfsmerkmalen einschließlich der Ordnungsnummern von dem bisher zuständigen statistischen Amt dem nunmehr zuständigen statistischen Amt übermittelt.
 
-
-## § 16 – Zusatzaufbereitungen zur Erwerbsbeteiligung
+# § 16 – Zusatzaufbereitungen zur Erwerbsbeteiligung
 
 Für Zusatzaufbereitungen zur Erwerbsbeteiligung übermitteln die statistischen Ämter der Länder jeweils monatlich die für den Vormonat verfügbaren Angaben zu den Erhebungsmerkmalen nach den §§ 6 und 7 an das Statistische Bundesamt. Das Statistische Bundesamt stellt die Angaben unverzüglich zusammen und veröffentlicht die Ergebnisse.
 
-
-## § 17 – Weitere Stichprobenerhebungen
+# § 17 – Weitere Stichprobenerhebungen
 
 Die Angaben zu den §§ 6 bis 10 dürfen zur Auswahl von Erhebungseinheiten für Bundesstatistiken nach § 7 des Bundesstatistikgesetzes verwendet werden. Die Auswahl erfolgt nach mathematisch-statistischen Verfahren.
 
-
-## § 18 – Experimentierklausel
+# § 18 – Experimentierklausel
 
 (1) Zur Erprobung neuer Erhebungsverfahren ist es zulässig, bei bis zu 2,5 Prozent der Grundstichprobe die Verfahren der ab 2020 geltenden Regelungen zu testen. Die nach Satz 1 erhobenen Angaben dürfen in die Auswertung der Erhebung nach den §§ 6 bis 9 einbezogen werden.
 
 (2) Die Länder teilen dem Statistischen Bundesamt mit, ob ihre jeweiligen statistischen Ämter an der Erprobung nach Absatz 1 teilnehmen.
 
-
-## § 19 – Verordnungsermächtigung
+# § 19 – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 

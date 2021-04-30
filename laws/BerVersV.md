@@ -1,10 +1,7 @@
-# [BerVersV] Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht  (Versicherungsberichterstattungs-Verordnung - BerVersV)
-
-Ausfertigungsdatum: 19.07.2017
-
+% Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht  (Versicherungsberichterstattungs-Verordnung - BerVersV)
+% Ausfertigungsdatum: 19.07.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -14,11 +11,9 @@ des § 39 Absatz 1 Satz 1 Nummer 1 in Verbindung mit Satz 2, 4 und 5, auch in Ve
 –  
 des § 39 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2 und 4, auch in Verbindung mit § 68 Absatz 1 Satz 4, § 165 Absatz 1, § 212 Absatz 1, § 219 Absatz 1 und § 234 Absatz 1 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434), nach Anhörung des Versicherungsbeirats:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Umfang der Berichterstattung
+# § 1 – Umfang der Berichterstattung
 
 (1) Versicherungsunternehmen im Sinne des § 1 Absatz 1 Nummer 1 des Versicherungsaufsichtsgesetzes, die der Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) unterliegen, haben der Bundesanstalt einen internen jährlichen Bericht vorzulegen, der sich aus folgenden Unterlagen zusammensetzt:
 
@@ -30,8 +25,7 @@ des § 39 Absatz 1 Satz 1 Nummer 2 in Verbindung mit Satz 2 und 4, auch in Verbi
 
 (2) Für die zu verwendenden Formblätter und Nachweisungen gelten die in Anlage 3 festgelegten Muster.
 
-
-## § 2 – Bilanz und Gewinn- und Verlust-Rechnung aller Versicherungsunternehmen
+# § 2 – Bilanz und Gewinn- und Verlust-Rechnung aller Versicherungsunternehmen
 
 Die Versicherungsunternehmen haben ihre Bilanz und ihre Gewinn- und Verlust-Rechnung gegenüber der Bundesanstalt wie folgt darzustellen:
 
@@ -39,8 +33,7 @@ Die Versicherungsunternehmen haben ihre Bilanz und ihre Gewinn- und Verlust-Rech
 
 2. die Gewinn- und Verlust-Rechnung für das gesamte Versicherungsgeschäft nach Formblatt 200.
 
-
-## § 3 – Gesonderte Gewinn- und Verlust-Rechnungen der Lebens- und Krankenversicherungsunternehmen
+# § 3 – Gesonderte Gewinn- und Verlust-Rechnungen der Lebens- und Krankenversicherungsunternehmen
 
 (1) Lebens- und Krankenversicherungsunternehmen haben zusätzlich jeweils gesonderte versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt 200 aufzustellen, und zwar
 
@@ -64,8 +57,7 @@ Die gesonderten versicherungstechnischen Gewinn- und Verlust-Rechnungen gemäß 
 
 (+++ § 3 Abs. 2: zur Anwendung vgl. § 7 Abs. 2 +++)
 
-
-## § 4 – Gesonderte Gewinn- und Verlust-Rechnungen der Schaden- und Unfallversicherungsunternehmen
+# § 4 – Gesonderte Gewinn- und Verlust-Rechnungen der Schaden- und Unfallversicherungsunternehmen
 
 (1) Schaden- und Unfallversicherungsunternehmen haben zusätzlich jeweils gesonderte versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt 200 aufzustellen, und zwar
 
@@ -155,8 +147,7 @@ Werden für einen Versicherungszweig keine gesonderten versicherungstechnischen 
 (+++ § 4 Abs. 2: zur Anwendung vgl. § 6 Satz 5 +++)  
 (+++ § 4 Abs. 2 Satz 2: zur Anwendung vgl. § 22 Abs. 2 +++)
 
-
-## § 5 – Gesonderte Gewinn- und Verlust-Rechnungen in besonderen Fällen
+# § 5 – Gesonderte Gewinn- und Verlust-Rechnungen in besonderen Fällen
 
 (1) Lebensversicherungsunternehmen, die auch die selbst abgeschlossene Allgemeine Unfallversicherung betreiben, haben für diesen Versicherungszweig zusätzlich eine gesonderte versicherungstechnische Gewinn- und Verlust-Rechnung nach Formblatt 200 bis einschließlich Seite 5 Zeile 26 aufzustellen.
 
@@ -164,8 +155,7 @@ Werden für einen Versicherungszweig keine gesonderten versicherungstechnischen 
 
 (+++ § 5 Abs. 1: zur Nichtanwendung vgl. § 18 Abs. 2 +++)
 
-
-## § 6 – Gesonderte Gewinn- und Verlust-Rechnungen der Rückversicherungsunternehmen
+# § 6 – Gesonderte Gewinn- und Verlust-Rechnungen der Rückversicherungsunternehmen
 
 Rückversicherungsunternehmen haben zusätzlich jeweils gesonderte versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt 200 aufzustellen, und zwar
 
@@ -201,8 +191,7 @@ k) Sonstige Sachversicherung;
 
 Unter „Sonstige Sachversicherung“ sind auch die Ergebnisse der Versicherungszweige „Verbundene Hausratversicherung“ und „Verbundene Wohngebäudeversicherung“ auszuweisen. Unter „Sonstige Schadenversicherung“ sind auch die versicherungstechnischen Ergebnisse der Versicherungszweige „Rechtsschutzversicherung“ und „Beistandsleistungsversicherung“ auszuweisen. Die gesonderten versicherungstechnischen Gewinn- und Verlust-Rechnungen gemäß Satz 1 entfallen, soweit ihre Aufstellung nach dem betriebenen Versicherungsgeschäft ausscheidet. § 4 Absatz 2 gilt entsprechend.
 
-
-## § 7 – Gesonderte Gewinn- und Verlust-Rechnungen der Pensionskassen
+# § 7 – Gesonderte Gewinn- und Verlust-Rechnungen der Pensionskassen
 
 (1) Pensionskassen haben zusätzlich jeweils gesonderte versicherungstechnische Gewinn- und Verlust-Rechnungen nach Formblatt 200 aufzustellen, und zwar bis einschließlich Seite 3 Zeile 17
 
@@ -216,8 +205,7 @@ Unter „Sonstige Sachversicherung“ sind auch die Ergebnisse der Versicherungs
 
 (+++ § 7: zur Nichtanwendung vgl. § 18 Abs. 2 +++)
 
-
-## § 8 – Einzelheiten der Formblatteinreichung einschließlich einzuhaltender Fristen
+# § 8 – Einzelheiten der Formblatteinreichung einschließlich einzuhaltender Fristen
 
 (1) Die Formblätter 100 und 200 gemäß den §§ 2 bis 7 sind der Bundesanstalt in jeweils doppelter Ausfertigung spätestens fünf Monate nach Schluss des Geschäftsjahres einzureichen.
 
@@ -227,8 +215,7 @@ Unter „Sonstige Sachversicherung“ sind auch die Ergebnisse der Versicherungs
 
 (4) Ergeben sich bis zur Feststellung des Jahresabschlusses Abweichungen, sind der Bundesanstalt unverzüglich nach der Feststellung zusätzlich die insoweit berichtigten Formblätter 100 und 200 in jeweils doppelter Ausfertigung einzureichen.
 
-
-## § 9 – Allgemeine formgebundene Erläuterungen
+# § 9 – Allgemeine formgebundene Erläuterungen
 
 (1) Versicherungsunternehmen haben folgende formgebundene Erläuterungen zu erstellen:
 
@@ -246,8 +233,7 @@ Unter „Sonstige Sachversicherung“ sind auch die Ergebnisse der Versicherungs
 
 (4) Kleine Versicherungsunternehmen im Sinne des § 211 des Versicherungsaufsichtsgesetzes, Pensionskassen und Sterbekassen haben zusätzlich formgebundene Erläuterungen mit Angaben zu übernommenem und abgegebenem Versicherungsgeschäft gemäß Nachweisung 203 zu erstellen.
 
-
-## § 10 – Zusätzliche formgebundene Erläuterungen der Lebensversicherungsunternehmen
+# § 10 – Zusätzliche formgebundene Erläuterungen der Lebensversicherungsunternehmen
 
 Lebensversicherungsunternehmen haben zusätzlich folgende formgebundene Erläuterungen zu erstellen:
 
@@ -259,8 +245,7 @@ Lebensversicherungsunternehmen haben zusätzlich folgende formgebundene Erläute
 
 4. Zerlegung des Rohergebnisses nach Ergebnisquellen gemäß Nachweisungen 213 bis 219.
 
-
-## § 11 – Zusätzliche formgebundene Erläuterungen der Pensions- und Sterbekassen
+# § 11 – Zusätzliche formgebundene Erläuterungen der Pensions- und Sterbekassen
 
 Pensions- und Sterbekassen haben zusätzlich folgende formgebundene Erläuterungen zu erstellen:
 
@@ -276,8 +261,7 @@ Pensions- und Sterbekassen haben zusätzlich folgende formgebundene Erläuterung
 
 6. Angaben zum Auslandsgeschäft, gesondert für jeden Mitglied- und Vertragsstaat, gemäß Nachweisung 265.
 
-
-## § 12 – Zusätzliche formgebundene Erläuterungen der Krankenversicherungsunternehmen
+# § 12 – Zusätzliche formgebundene Erläuterungen der Krankenversicherungsunternehmen
 
 (1) Krankenversicherungsunternehmen haben zusätzlich folgende formgebundene Erläuterungen zu erstellen:
 
@@ -289,8 +273,7 @@ Pensions- und Sterbekassen haben zusätzlich folgende formgebundene Erläuterung
 
 (2) Für Krankenversicherungsunternehmen, die kleinere Vereine im Sinne des § 210 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes sind und deren gebuchte Bruttobeiträge im vorausgegangenen Geschäftsjahr drei Millionen Euro nicht überstiegen haben, entfallen die formgebundenen Erläuterungen gemäß Absatz 1 Nummer 3.
 
-
-## § 13 – Zusätzliche formgebundene Erläuterungen der Schaden- und Unfallversicherungsunternehmen
+# § 13 – Zusätzliche formgebundene Erläuterungen der Schaden- und Unfallversicherungsunternehmen
 
 (1) Schaden- und Unfallversicherungsunternehmen haben zusätzlich folgende formgebundene Erläuterungen zu erstellen:
 
@@ -304,13 +287,11 @@ Pensions- und Sterbekassen haben zusätzlich folgende formgebundene Erläuterung
 
 (2) Schaden- und Unfallversicherungsunternehmen, die auch das selbst abgeschlossene Krankenversicherungsgeschäft betreiben, haben für diesen Versicherungszweig zusätzlich die formgebundenen Erläuterungen gemäß § 12 vorzulegen. Wird das Krankenversicherungsgeschäft ausschließlich nach Art der Schadenversicherung betrieben, entfallen die formgebundenen Erläuterungen gemäß § 12 Absatz 1 Nummer 1 und 3.
 
-
-## § 14 – Zusätzliche formgebundene Erläuterungen der Rückversicherungsunternehmen
+# § 14 – Zusätzliche formgebundene Erläuterungen der Rückversicherungsunternehmen
 
 Rückversicherungsunternehmen haben zusätzlich formgebundene Erläuterungen mit Angaben zu den Beiträgen sowie zur Zusammensetzung und Abwicklung der Rückstellung für noch nicht abgewickelte Versicherungsfälle des in Rückdeckung übernommenen Versicherungsgeschäfts gemäß Nachweisung 252 zu erstellen.
 
-
-## § 15 – Fristen für die Einreichung
+# § 15 – Fristen für die Einreichung
 
 (1) Die formgebundenen Erläuterungen gemäß den §§ 9 bis 14 sind der Bundesanstalt in jeweils doppelter Ausfertigung einzureichen
 
@@ -342,8 +323,7 @@ e) von den Rückversicherungsunternehmen die Nachweisung 252.
 
 (2) Für Rückversicherungsunternehmen gilt die gleiche Vorlagefrist wie für Erstversicherungsunternehmen, sofern sie den Jahresabschluss innerhalb der von Erstversicherungsunternehmen gemäß § 341a Absatz 1 des Handelsgesetzbuchs einzuhaltenden Frist aufstellen; ansonsten verlängern sich die in Absatz 1 genannten Fristen um jeweils sechs Monate, sofern der Abschlussstichtag der 31. Dezember ist.
 
-
-## § 16 – Unterlagen aller Versicherungsunternehmen
+# § 16 – Unterlagen aller Versicherungsunternehmen
 
 (1) Alle Versicherungsunternehmen haben der Bundesanstalt folgende Unterlagen einzureichen:
 
@@ -386,13 +366,11 @@ In der Ausfertigung ist ferner der Bericht des Aufsichtsrats oder des entspreche
 (+++ § 16 Abs. 1 Nr. 2 u. 3: zur Nichtanwendung vgl. § 18 Abs. 2 +++)  
 (+++ § 16 Abs. 2: zur Nichtanwendung vgl. § 18 Abs. 2 +++)
 
-
-## § 17 – Versicherungsmathematische Gutachten der Pensions- und Sterbekassen
+# § 17 – Versicherungsmathematische Gutachten der Pensions- und Sterbekassen
 
 Pensions- und Sterbekassen haben der Bundesanstalt spätestens sieben Monate nach Schluss des Geschäftsjahres in doppelter Ausfertigung zusätzlich ein versicherungsmathematisches Gutachten über den Einfluss der wesentlichen Gewinn- und Verlustquellen auf das Bilanzergebnis und über die wesentlichen versicherungsmathematischen Annahmen, die der Berechnung der versicherungstechnischen Rückstellungen zugrunde liegen, einzureichen. Bei Pensions- und Sterbekassen, die kleinere Vereine im Sinne des § 210 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes sind, ist das Gutachten der Bundesanstalt mindestens zum Abschlussstichtag eines jeden dritten Geschäftsjahres einzureichen.
 
-
-## § 18 – Anzuwendende Vorschriften
+# § 18 – Anzuwendende Vorschriften
 
 (1) Ausländische Versicherungsunternehmen, die zum Betrieb des Erst- oder Rückversicherungsgeschäfts der Erlaubnis durch die Bundesanstalt bedürfen, haben der Bundesanstalt für das Geschäft der Niederlassung einen internen Bericht gemäß § 1 Absatz 1 vorzulegen, der zusätzlich ergänzende Unterlagen nach Maßgabe der Absätze 4 und 5 umfasst.
 
@@ -422,8 +400,7 @@ b) die anteilig auf das Geschäft der Niederlassung entfallenden Rückversicheru
 
 (5) Die in § 65 Absatz 1 des Versicherungsaufsichtsgesetzes genannten Versicherungsunternehmen sind von der Einreichungspflicht nach Absatz 4 ausgenommen.
 
-
-## § 19 – Umfang der Berichterstattung
+# § 19 – Umfang der Berichterstattung
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die der Aufsicht durch die Bundesanstalt unterliegen, haben der Bundesanstalt vierteljährlich innerhalb der Frist nach § 20 die Angaben zur Geschäftsentwicklung mit den Inhalten nach Satz 2 vorzulegen. Die Berichterstattung erfolgt
 
@@ -437,13 +414,11 @@ b) die anteilig auf das Geschäft der Niederlassung entfallenden Rückversicheru
 
 (2) Für die Nachweisungen 601 bis 604 gelten die in Anlage 3 festgelegten Muster.
 
-
-## § 20 – Frist für die Einreichung
+# § 20 – Frist für die Einreichung
 
 Die vierteljährlichen Zwischenberichte gemäß § 19 sind der Bundesanstalt in jeweils doppelter Ausfertigung spätestens bis zum Ende des Monats einzureichen, der auf das jeweilige Berichtsvierteljahr folgt.
 
-
-## § 21 – Abgrenzungsmerkmale
+# § 21 – Abgrenzungsmerkmale
 
 Die Vorschriften dieses Kapitels gelten für die folgenden Versicherungsunternehmen mit Sitz im Inland, soweit es sich um kleinere Vereine im Sinne des § 210 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes handelt, die der Aufsicht durch die Bundesanstalt unterliegen:
 
@@ -455,8 +430,7 @@ Die Vorschriften dieses Kapitels gelten für die folgenden Versicherungsunterneh
 
 4. Schaden- und Unfallversicherungsvereine, deren Bruttobeiträge im vorausgegangenen Geschäftsjahr eine Million Euro nicht überstiegen haben.
 
-
-## § 22 – Anzuwendende Vorschriften
+# § 22 – Anzuwendende Vorschriften
 
 (1) Für die in § 21 genannten Versicherungsunternehmen gelten lediglich die §§ 1, 2, 8, 9 Absatz 1, 2 und 4, § 11 Nummer 1 bis 5, § 12 Absatz 1 Nummer 1 und 2, § 13 Absatz 1 Nummer 1 und 2, § 15 Absatz 1, § 16 Absatz 1 Nummer 1, 2 und 3 Buchstabe a und Absatz 2, § 17 sowie die §§ 23 bis 27. Dabei gilt die Maßgabe, dass
 
@@ -474,22 +448,19 @@ Die Vorschriften dieses Kapitels gelten für die folgenden Versicherungsunterneh
 
 § 4 Absatz 1 Satz 2 und Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 23 – Kennzahlen und Versicherungszweige
+# § 23 – Kennzahlen und Versicherungszweige
 
 (1) Die auf den Formblättern und Nachweisungen zu setzenden Kennzahlen ergeben sich aus Anlage 1.
 
 (2) Als Versicherungszweige im Sinne dieser Verordnung gelten die in der Anlage 1 Abschnitt C als solche bezeichneten Versicherungen mit den Kennzahlen 01 bis 29. Hierbei stellen die im selbst abgeschlossenen Versicherungsgeschäft abgeschlossenen Versicherungen und die im in Rückdeckung übernommenen Versicherungsgeschäft abgeschlossenen Versicherungen jeweils gesonderte Versicherungszweige dar. Die Versicherungsarten und -unterarten der Versicherungszweige sind durch drei- und mehrstellige Kennzahlen gekennzeichnet. Die von Schaden- und Unfallversicherungsunternehmen betriebenen Versicherungszweige 09, 10, 11, 12, 15, 16, 17, 18, 21 und 23 sind als „Sonstige Sachversicherung“ unter der Kennzahl 28 zusammengefasst. Die Zusammenfassung aller von den Schaden- und Unfallversicherungsunternehmen betriebenen Versicherungszweige hat die Kennzahl 30.
 
-
-## § 24 – Anwendung der Formblätter und Nachweisungen
+# § 24 – Anwendung der Formblätter und Nachweisungen
 
 (1) Bei der Verwendung der Formblätter und Nachweisungen sind die sich aus Anlage 2 Abschnitt A und B ergebenden Anmerkungen und Abkürzungen zu beachten.
 
 (2) Bei der Erstellung der Formblätter und Nachweisungen ist Anlage 2 Abschnitt C zu beachten.
 
-
-## § 25 – Ordnungswidrigkeiten
+# § 25 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 332 Absatz 2 Nummer 2 des Versicherungsaufsichtsgesetzes handelt, wer als Mitglied des Vorstands, als Hauptbevollmächtigter nach § 68 Absatz 2 des Versicherungsaufsichtsgesetzes oder als Liquidator eines Versicherungsunternehmens vorsätzlich oder leichtfertig
 
@@ -497,13 +468,11 @@ Ordnungswidrig im Sinne des § 332 Absatz 2 Nummer 2 des Versicherungsaufsichtsg
 
 2. entgegen § 19 Absatz 1 Satz 1 eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 26 – Ausnahme von der Berichtspflicht
+# § 26 – Ausnahme von der Berichtspflicht
 
 Diese Verordnung ist auf Versicherungsvereine auf Gegenseitigkeit, die auf Grund des § 5 Absatz 1 und 2 des Versicherungsaufsichtsgesetzes von der laufenden Aufsicht freigestellt sind, nicht anzuwenden.
 
-
-## § 27 – Übergangsvorschriften
+# § 27 – Übergangsvorschriften
 
 (1) Die Vorschriften dieser Verordnung sind erstmals anzuwenden
 
@@ -517,8 +486,7 @@ Diese Verordnung ist auf Versicherungsvereine auf Gegenseitigkeit, die auf Grund
 
 (4) Für Geschäftsjahre, die vor dem 1. Januar 2018 enden, gilt § 13 Absatz 1 mit der Maßgabe, dass zusätzlich die formgebundenen Erläuterungen nach § 13 Nummer 2 und 5 der Versicherungsberichterstattungs-Verordnung in der bis zum 31. März 2016 geltenden Fassung zu erstellen sind. Insoweit sind Anlage 1 sowie Anlage 2 Abschnitt A und Abschnitt C Nummer 3 der Versicherungsberichterstattungs-Verordnung in der bis zum 31. März 2016 geltenden Fassung anzuwenden.
 
-
-## Anlage 1 – (zu § 23)Kennzahlen und Versicherungszweige
+# Anlage 1 – (zu § 23)Kennzahlen und Versicherungszweige
 
 (Fundstelle: BGBl. I 2017, 2866 - 2882)
 
@@ -680,11 +648,9 @@ Sonstiges
 Vorzeitiger Abgang
 
 Anmerkung zum Abschnitt E  
-Nach den vorgegebenen Klassifikationszahlen muss stets unterschieden werden. Der zahlenmäßige Ausweis erscheint immer nur auf der tiefsten Stufe der jeweiligen Risikoart.  
-Nicht formgebundene Aufteilungen nach tieferen Stufen (unterschiedliche Ausscheideordnungen oder weitere Risikomerkmale wie z. B. Raucher/Nichtraucher, Berufsgruppen) sind nach zwei vollen Geschäftsjahren vorzunehmen, wenn der entsprechend objektiv umschriebene Teilbestand mindestens 30 000 Risiken umfasst oder der rechnungsmäßige Ertrag mindestens 5 Prozent vom Gesamtertrag der jeweiligen Risikoart beträgt.
+Nach den vorgegebenen Klassifikationszahlen muss stets unterschieden werden. Der zahlenmäßige Ausweis erscheint immer nur auf der tiefsten Stufe der jeweiligen Risikoart. Nicht formgebundene Aufteilungen nach tieferen Stufen (unterschiedliche Ausscheideordnungen oder weitere Risikomerkmale wie z. B. Raucher/Nichtraucher, Berufsgruppen) sind nach zwei vollen Geschäftsjahren vorzunehmen, wenn der entsprechend objektiv umschriebene Teilbestand mindestens 30 000 Risiken umfasst oder der rechnungsmäßige Ertrag mindestens 5 Prozent vom Gesamtertrag der jeweiligen Risikoart beträgt.
 
-
-## Anlage 2 – (zu § 24)Anwendung der Formblätter und Nachweisungen
+# Anlage 2 – (zu § 24)Anwendung der Formblätter und Nachweisungen
 
 (Fundstelle: BGBl. I 2017, 2883 - 2912)
 
@@ -2232,8 +2198,7 @@ die selbst abg. Unfallversicherungen mit Beitragsrückgewähr
 
 § 5 Abs. 2
 
-das selbst abg.  
-Kranken-VG
+das selbst abg. Kranken-VG
 
 1
 
@@ -2772,8 +2737,7 @@ Beispiele
 
 Die Unterlagen sind in Euro vorzulegen. Die Beträge sind in vollen „Euro“ oder „TsdEuro“ anzugeben. In der Kopfzeile der Formblätter und Nachweisungen ist in dem Feld „Version“ die Zahl „8“ einzusetzen.
 
-
-## Anlage 3 – (zu § 1 Absatz 2 und § 19 Absatz 2)Formblätter und Nachweisungen
+# Anlage 3 – (zu § 1 Absatz 2 und § 19 Absatz 2)Formblätter und Nachweisungen
 
 (Fundstelle: BGBl. I 2017, 2913 - 3022)
 

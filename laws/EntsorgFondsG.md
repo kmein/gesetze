@@ -1,10 +1,7 @@
-# [EntsorgFondsG] Gesetz zur Errichtung eines Fonds zur Finanzierung der kerntechnischen Entsorgung  (Entsorgungsfondsgesetz - EntsorgFondsG)
-
-Ausfertigungsdatum: 27.01.2017
-
+% Gesetz zur Errichtung eines Fonds zur Finanzierung der kerntechnischen Entsorgung  (Entsorgungsfondsgesetz - EntsorgFondsG)
+% Ausfertigungsdatum: 27.01.2017
  
-
-## § 1 – Errichtung, Zweck und Sitz
+# § 1 – Errichtung, Zweck und Sitz
 
 (1) Es wird eine rechtsfähige Stiftung des öffentlichen Rechts mit der Bezeichnung „Fonds zur Finanzierung der kerntechnischen Entsorgung“ (Fonds) errichtet. Der Fonds entsteht mit Inkrafttreten dieses Gesetzes.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 27.01.2017
 
 (3) Sitz des Fonds ist Berlin.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Einzahlender ist der Betreiber einer oder mehrerer der in Anhang 1 aufgeführten Anlagen zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität, auch wenn die Anlage nicht mehr im Leistungsbetrieb ist. Einzahlender für die dem Versuchsatomkraftwerk Kahl zugeordneten radioaktiven Abfälle ist die RWE AG, Essen. Einzahlender für die dem Mehrzweckforschungsreaktor Karlsruhe zugeordneten radioaktiven Abfälle ist die EnBW Energie Baden-Württemberg AG, Karlsruhe.
 
@@ -21,15 +17,13 @@ Ausfertigungsdatum: 27.01.2017
 
 (3) Barmittel sind liquide Mittel.
 
-
-## § 3 – Aufgaben und Organisation des Fonds
+# § 3 – Aufgaben und Organisation des Fonds
 
 (1) Zur Verwirklichung des Zwecks nach § 1 Absatz 2 erstattet der Fonds die dem Bund ab dem Übergang der Entsorgungsverpflichtung nach dem Entsorgungsübergangsgesetz entstehenden Kosten für die sichere Entsorgung der entstandenen und zukünftig noch entstehenden radioaktiven Abfälle aus der gewerblichen Nutzung der Kernenergie zur Erzeugung von Elektrizität in Deutschland und legt die dazu übertragenen Mittel an.
 
 (2) Organe des Fonds sind das Kuratorium und der Vorstand.
 
-
-## § 4 – Kuratorium
+# § 4 – Kuratorium
 
 (1) Das Kuratorium beschließt über alle grundsätzlichen Fragen, die mit der Erfüllung des Stiftungszwecks nach § 1 Absatz 2 und den Aufgaben des Fonds nach § 3 Absatz 1 verbunden sind. Hierbei kann das Kuratorium die Bundesbank beratend hinzuziehen. Es überwacht die Tätigkeiten des Vorstands. Das Nähere regelt die Satzung.
 
@@ -41,8 +35,7 @@ Ausfertigungsdatum: 27.01.2017
 
 (5) Das Kuratorium wählt einen Vorsitzenden und einen Stellvertreter. Es beschließt mit der einfachen Mehrheit seiner Mitglieder.
 
-
-## § 5 – Vorstand
+# § 5 – Vorstand
 
 (1) Der Vorstand führt die Beschlüsse des Kuratoriums aus und führt die Geschäfte der Stiftung. Er beschließt mit der einfachen Mehrheit seiner Mitglieder. Er ist berechtigt, externe Dienstleister zu beauftragen. Das Nähere regelt die Satzung.
 
@@ -54,13 +47,11 @@ Ausfertigungsdatum: 27.01.2017
 
 (5) Die Bundesregierung kann konkrete Anlagevorhaben durch Weisung untersagen. Die Berichtspflichten des Fonds ergeben sich aus den §§ 11 und 12 sowie aus den Vorgaben der Satzung.
 
-
-## § 6 – Satzung
+# § 6 – Satzung
 
 Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der Organisation und der Ausführung der Aufgaben des Fonds geregelt.
 
-
-## § 7 – Fondsvermögen
+# § 7 – Fondsvermögen
 
 (1) Dem Fonds fließen Zahlungen für die abgezinsten zukünftigen Entsorgungskosten und für den Risikoaufschlag von den Einzahlenden nach den nachstehenden Bestimmungen zu.
 
@@ -70,8 +61,7 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (4) Für den Gesamtbetrag, bestehend aus den Beträgen gemäß den Absätzen 2 und 3, kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen mit dem Einzahlenden eine Ratenzahlung vereinbaren. Die letzte Rate ist spätestens bis zum 31. Dezember 2026 zu zahlen. Der jeweils noch ausstehende Betrag ist mit mindestens 4,58 Prozent pro Jahr zu verzinsen. Für die Wirksamkeit einer solchen Ratenzahlungsvereinbarung hat der Einzahlende eine anspruchssichernde Sicherheitsleistung zu erbringen. Die Höhe der ersten Rate beträgt mindestens 20 Prozent des Gesamtbetrags. Eine Aufrechnung mit anderen Forderungen sowie die Geltendmachung eines Zurückbehaltungsrechts sind ausgeschlossen.
 
-
-## § 8 – Vorzeitige Ratenzahlung, Nachschusspflicht
+# § 8 – Vorzeitige Ratenzahlung, Nachschusspflicht
 
 (1) Drohen aufgrund einer Ratenzahlungsvereinbarung vor Zahlung der letzten Rate die dem Fonds bereits zur Verfügung stehenden Mittel innerhalb der nächsten zwei Jahre nicht auszureichen, um die durch den Fonds nach § 10 zu erstattenden Kosten zu decken, so hat das Bundesamt für Wirtschaft und Ausfuhrkontrolle von allen Einzahlenden, mit denen eine Ratenzahlungsvereinbarung geschlossen wurde, mit einer für die Einzahlenden angemessenen Frist eine vorzeitige Einzahlung einzelner oder aller noch ausstehender Zahlungsraten zu verlangen. Die Ratenzahlungsvereinbarung hat eine entsprechende Verpflichtung vorzusehen. Sollten mehrere Einzahlende eine Ratenzahlungsvereinbarung geschlossen haben, so sind vorzeitige Einzahlungen von allen betroffenen Einzahlenden im jeweils erforderlichen Umfang zu fordern.
 
@@ -79,8 +69,7 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (3) Eine Kreditaufnahme des Fonds ist nicht zulässig. Um die Handlungsfähigkeit des Fonds von Beginn an zu gewährleisten, kann der Bund einmalig im Jahr 2017 dem Fonds unterjährig ein verzinsliches Liquiditätsdarlehen gewähren, das in demselben Jahr zurückzuzahlen ist. Weitere Einzahlungen in den Fonds aus dem Bundeshaushalt sind nicht zulässig.
 
-
-## § 9 – Anlage der Mittel
+# § 9 – Anlage der Mittel
 
 (1) Der Fonds richtet getrennte Konten für jeden Einzahlenden ein. Auf den Konten sind jeweils die Einzahlungen nach § 7 Absatz 2 bis 4 sowie § 8 Absatz 1 und 2 getrennt zu verbuchen. Bis zur Verwendung der Mittel nach § 10 sind die dem Fonds zur Verfügung stehenden Mittel nach Maßgabe von Absatz 2 bis 4 anzulegen.
 
@@ -96,8 +85,7 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (4) Der Fonds unterliegt nicht der Körperschaftsteuer oder der Gewerbesteuer. Auf Kapitalerträge des Fonds ist ein Steuerabzug nicht vorzunehmen. Ist Kapitalertragsteuer dennoch einbehalten und abgeführt worden, hat der zum Steuerabzug Verpflichtete die Steueranmeldung insoweit zu ändern. Zahlungen und Leistungen des Fonds unterliegen keinem Kapitalertragsteuerabzug. Für Zwecke der Doppelbesteuerungsabkommen gilt der Fonds als in Deutschland ansässige Person, die der deutschen Besteuerung unterliegt.
 
-
-## § 10 – Verwendung der Mittel
+# § 10 – Verwendung der Mittel
 
 (1) Die Mittel des Fonds dürfen nur zur Erfüllung des Fondszwecks nach § 1 Absatz 2 und nach Maßgabe von § 3 Absatz 1 verwendet werden.
 
@@ -105,8 +93,7 @@ Das Kuratorium erlässt eine Satzung. In der Satzung werden die Einzelheiten der
 
 (3) Der Fonds trägt die Kosten, die dem Bundesamt für Wirtschaft und Ausfuhrkontrolle für die Erfüllung seiner Aufgaben nach diesem Gesetz sowie nach dem Gesetz zur Transparenz über die Kosten der Stilllegung und des Rückbaus der Kernkraftwerke sowie der Verpackung radioaktiver Abfälle entstehen.
 
-
-## § 11 – Finanz- und Wirtschaftsplanung
+# § 11 – Finanz- und Wirtschaftsplanung
 
 (1) Der Fonds erstellt für jedes Kalenderjahr einen Finanz- und Wirtschaftsplan. Der Finanz- und Wirtschaftsplan ist einmalig für die Jahre 2017 und 2018 zusammen zu erstellen. Er umfasst regelmäßig
 
@@ -124,8 +111,7 @@ Der Finanz- und Wirtschaftsplan ist jährlich zu aktualisieren.
 
 (4) Der Bund unterrichtet den Fonds über die geplanten Kostenfolgen der zukünftigen Entsorgungsmaßnahmen so rechtzeitig, dass der Fonds darauf eine Planung der Anlage und zeitgerechten Liquidität der Fondsmittel gründen kann. Drei Monate vor Beginn eines jeden Kalenderjahres teilt der Bund dem Fonds auf der Grundlage der Planung für den Bundeshaushalt die für die nächsten drei Kalenderjahre geplanten Entsorgungsmaßnahmen und die zu erwartenden Kosten mit.
 
-
-## § 12 – Rechnungslegung
+# § 12 – Rechnungslegung
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung des Fonds finden die für die Bundesverwaltung geltenden Bestimmungen entsprechende Anwendung.
 
@@ -135,31 +121,26 @@ Der Finanz- und Wirtschaftsplan ist jährlich zu aktualisieren.
 
 (4) Die Haushalts- und die Wirtschaftsführung des Fonds unterliegen der Prüfung durch den Bundesrechnungshof.
 
-
-## § 13 – Aufsicht
+# § 13 – Aufsicht
 
 Der Fonds untersteht der Rechtsaufsicht des Bundesministeriums für Wirtschaft und Energie, die im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit auszuüben ist.
 
-
-## § 14 – Auflösung
+# § 14 – Auflösung
 
 (1) Der Fonds ist bei Verbrauch seiner Mittel, spätestens jedoch nach Erfüllung seines Zwecks aufzulösen.
 
 (2) Ein nach Auflösung des Fonds verbleibendes Vermögen fällt dem Bund zu.
 
-
-## § 15 – Verordnungsermächtigungen
+# § 15 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die in Anhang 2 festgesetzten Einzahlungsbeträge unter Berücksichtigung der Differenz zwischen den für die Jahre 2015 und 2016 kalkulierten Ausgaben der Einzahlenden und den durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft bestätigten tatsächlichen Ausgaben der Einzahlenden zu ändern.
 
 (2) Das Bundesministerium für Wirtschaft und Energie regelt im Einvernehmen mit dem Bundesministerium der Finanzen nähere Einzelheiten zur Vereinnahmung der Zahlungen nach § 7 Absatz 2 bis 4 und § 8 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
-
-## Anhang 1
+# Anhang 1
 
 (Fundstelle: BGBl. I 2017, 118)
 
-
-## Anhang 2
+# Anhang 2
 
 (Fundstelle: BGBl. I 2017, 1672)

@@ -1,15 +1,11 @@
-# [PortalV] Verordnung zu den Voraussetzungen und dem Verfahren der Zulassung von in nicht öffentlich-rechtlicher Form betriebenen Portalen zur Durchführung von einfachen Melderegisterauskünften über das Internet  (Portalverordnung - PortalV)
-
-Ausfertigungsdatum: 15.10.2015
-
+% Verordnung zu den Voraussetzungen und dem Verfahren der Zulassung von in nicht öffentlich-rechtlicher Form betriebenen Portalen zur Durchführung von einfachen Melderegisterauskünften über das Internet  (Portalverordnung - PortalV)
+% Ausfertigungsdatum: 15.10.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 56 Absatz 1 Nummer 5 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084) unter Berücksichtigung des Artikels 1 Nummer 3 des Gesetzes vom 20. November 2014 (BGBl. I S. 1738) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Anwendungsbereich; Begriffe
+# § 1 – Anwendungsbereich; Begriffe
 
 (1) Diese Verordnung regelt die Voraussetzungen und das Verfahren für die Zulassung gemäß § 49 Absatz 3 Satz 2 des Bundesmeldegesetzes von in nicht öffentlich-rechtlicher Form betriebenen Portalen zur Erteilung von einfachen Melderegisterauskünften über das Internet.
 
@@ -17,8 +13,7 @@ Auf Grund des § 56 Absatz 1 Nummer 5 des Bundesmeldegesetzes vom 3. Mai 2013 (B
 
 (3) Betreiber eines Portals ist jede natürliche oder juristische Person, die ein Portal als entgeltliche Dienstleistung anbietet.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 Das Portal muss geeignet sein, die in § 49 Absatz 3 Satz 3 des Bundesmeldegesetzes genannten Aufgaben zu erfüllen und dabei
 
@@ -28,8 +23,7 @@ Das Portal muss geeignet sein, die in § 49 Absatz 3 Satz 3 des Bundesmeldegeset
 
 3. die Melderegisterauskünfte zusammen mit der Vorgangsnummer an den Anfragenden weiterleiten.
 
-
-## § 3 – Protokollierungspflicht
+# § 3 – Protokollierungspflicht
 
 (1) Bei einem automatisierten Abruf von Daten einer Person hat das Portal zu gewährleisten, dass Folgendes protokolliert wird:
 
@@ -55,8 +49,7 @@ Das Portal muss geeignet sein, die in § 49 Absatz 3 Satz 3 des Bundesmeldegeset
 
 3. nur für Zwecke der Datenschutzkontrolle, hieraus folgender Strafverfahren, der Sicherstellung des Betriebs des Portals und der Auskunftserteilung an die betroffene Person verarbeitet werden.
 
-
-## § 4 – Datenschutz und Datensicherheit
+# § 4 – Datenschutz und Datensicherheit
 
 Beim Betrieb des Portals ist sicherzustellen, dass
 
@@ -70,8 +63,7 @@ Beim Betrieb des Portals ist sicherzustellen, dass
 
 5. Übermittlungen personenbezogener Daten an Drittländer oder an internationale Organisationen im Einklang mit Kapitel V der Verordnung (EU) 2016/679 stehen.
 
-
-## § 5 – Zulassungsverfahren
+# § 5 – Zulassungsverfahren
 
 (1) Zuständig für die Zulassung von Portalen im Sinne dieser Verordnung ist die nach Landesrecht dazu bestimmte Landesbehörde (§ 49 Absatz 3 Satz 2 des Bundesmeldegesetzes).
 
@@ -81,8 +73,7 @@ Beim Betrieb des Portals ist sicherzustellen, dass
 
 (4) Bei der Prüfung der in den §§ 2 bis 4 genannten Voraussetzungen ist die oder der Datenschutzbeauftragte des Landes zu beteiligen.
 
-
-## § 6 – Vorläufige Zulassung
+# § 6 – Vorläufige Zulassung
 
 Für Portale, die sich bereits vor dem 1. November 2015 im Betrieb befanden, gilt eine befristete vorläufige Zulassung. Diese entfällt, wenn
 
@@ -92,12 +83,10 @@ Für Portale, die sich bereits vor dem 1. November 2015 im Betrieb befanden, gil
 
 werden. Mit der bestandskräftigen Entscheidung über die Zulassung endet die vorläufige Zulassung.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2015 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

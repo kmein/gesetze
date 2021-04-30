@@ -1,25 +1,19 @@
-# [GVV] Verordnung über die Vorgaben für das EETS-Gebiet Bundesfernstraßenmautgesetz  (EEMD-Gebietsvorgabenverordnung - GVV)
-
-Ausfertigungsdatum: 20.03.2018
-
+% Verordnung über die Vorgaben für das EETS-Gebiet Bundesfernstraßenmautgesetz  (EEMD-Gebietsvorgabenverordnung - GVV)
+% Ausfertigungsdatum: 20.03.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4i Satz 1 und 2 des Bundesfernstraßenmautgesetzes vom 12. Juli 2011 (BGBl. I S. 1378) in Verbindung mit § 9 Absatz 1, 3 und 4 des Mautsystem-gesetzes, die durch die Artikel 1 und 2 Nummer 3 des Gesetzes vom 5. Dezember 2014 (BGBl. I S. 1980) eingefügt worden sind, in Verbindung mit § 1 Nummer 1 der BAG-Übertragungsverordnung vom 14. Januar 2016 (BAnz AT 26.01.2016 V1), verordnet das Bundesamt für Güterverkehr:
 
-
-## § 1 – Gebietsvorgaben
+# § 1 – Gebietsvorgaben
 
 Die Gebietsvorgaben im Sinne des § 9 Absatz 1, 3 und 4 des Mautsystemgesetzes für die nach § 1 des Bundesfernstraßenmautgesetzes mautpflichtigen Straßen ergeben sich aus den Anlagen zu dieser Verordnung.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BAnz AT 27.03.2018 V1)
 
@@ -800,8 +794,7 @@ Anlage 1 Nr. 1.2 Abschn. 9 Abs. 4 Kursivdruck (früher Abs. 3): "Leitlinie EZB/2
 Anlage 1 Nr. 1.2 Abschn. 11 Abs. 2 Kursivdruck: "Leitlinie EZB/2012/2" müsste richtig lauten "Leitlinie EZB/2012/27"  
 Anlage 1 Nr. 2.1 Abschn. 24 Abs. 3 Kursivdruck: "Leitlinie EZB/2012/2" müsste richtig lauten "Leitlinie EZB/2012/27"
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BAnz AT 27.03.2018 V1)
 
@@ -878,8 +871,7 @@ Wirtschaftliche Vorgabe
 Verlust von  
 Mauteinnahmen
 
-Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.  
-  
+Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.   
 Beschreibung der Maßnahmen zur Minimierung der Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der Auswirkungen bezüglich des Risikos der Inanspruchnahme der Zahlungshaftung.
 
 –  
@@ -899,8 +891,7 @@ Wirtschaftliche Vorgabe
 
 Verzug
 
-Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.  
-  
+Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.   
 Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an den Mauterheber, insbesondere hinsichtlich der korrekten Berücksichtigung von Zahlungsfristen und Berechnung von Verzugszinsen bei der Erstellung der Tagesberichte.
 
 Wirtschaftliche Vorgabe
@@ -929,8 +920,7 @@ Wirtschaftliche Vorgabe
 Mauterhebung und  
 Mautauskehr
 
-Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an den Mauterheber, insbesondere hinsichtlich der korrekten Berücksichtigung der Wertstellungsfrist und der fristgerechten Auslösung von Überweisungen auf das Verrechnungskonto des Mauterhebers.  
-  
+Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an den Mauterheber, insbesondere hinsichtlich der korrekten Berücksichtigung der Wertstellungsfrist und der fristgerechten Auslösung von Überweisungen auf das Verrechnungskonto des Mauterhebers.   
 Beschreibung der Maßnahmen zur Minimierung der Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der Auswirkungen (insbesondere Sicherstellung der vollständigen Auskehr der Mautbeträge an den Mauterheber) bezüglich des Insolvenzrisikos des EETS-Anbieters.
 
 –  
@@ -951,8 +941,7 @@ Wirtschaftliche Vorgabe
 Bericht über  
 Mauteinnahmen
 
-Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an den Mauterheber insbesondere hinsichtlich der Erstellung der Tagesberichte und Gewährleistung der termingerechten Übermittlung.  
-  
+Beschreibung des Geschäftsprozesses der Auskehr der Mauteinnahmen an den Mauterheber insbesondere hinsichtlich der Erstellung der Tagesberichte und Gewährleistung der termingerechten Übermittlung.   
 Erläuterung der geplanten Umsetzung der Schnittstelle „Tagesbericht“ im System des EETS-Anbieters (vgl. Spezifikation der SST 008 – „Tagesbericht“).
 
 Wirtschaftliche Vorgabe
@@ -962,8 +951,7 @@ Wirtschaftliche Vorgabe
 Überwachung des  
 EETS-Anbieters
 
-Beschreibung der technischen Prozesse und Geschäftsprozesse zur Überwachung der Qualität der Systeme des EETS-Anbieters.  
-  
+Beschreibung der technischen Prozesse und Geschäftsprozesse zur Überwachung der Qualität der Systeme des EETS-Anbieters.   
 Beschreibung der Prozesse der Datenübermittlung, Datenlöschung und Datenarchivierung in Verbindung mit den geltenden Löschvorgaben und -fristen.
 
 –  
@@ -976,12 +964,9 @@ Wirtschaftliche Vorgabe
 manuelle Korrektur  
 von Daten
 
-Beschreibung der Geschäftsprozesse der Mauterhebung und Abrechnung der Mautbeträge gegenüber dem Nutzer. Hier sind insbesondere eventuell vorhandene Prozessschritte darzustellen, im Rahmen derer Abrechnungsdaten manuell bearbeitet werden.  
-  
-Im Prozess sollte berücksichtigt sein, dass der Auslöser für einen solchen Korrekturprozess auch der Mauterheber sein kann und dass im Prozess dahingehend unterschieden werden muss, ob die Daten bereits erfolgreich an den Mauterheber übermittelt wurden oder nicht.  
-  
-Darstellung der Maßnahmen und Methoden, die zur Verhinderung von Missbrauch vorgesehen sind (z. B. Logging, lückenlose Dokumentation).  
-  
+Beschreibung der Geschäftsprozesse der Mauterhebung und Abrechnung der Mautbeträge gegenüber dem Nutzer. Hier sind insbesondere eventuell vorhandene Prozessschritte darzustellen, im Rahmen derer Abrechnungsdaten manuell bearbeitet werden.   
+Im Prozess sollte berücksichtigt sein, dass der Auslöser für einen solchen Korrekturprozess auch der Mauterheber sein kann und dass im Prozess dahingehend unterschieden werden muss, ob die Daten bereits erfolgreich an den Mauterheber übermittelt wurden oder nicht.   
+Darstellung der Maßnahmen und Methoden, die zur Verhinderung von Missbrauch vorgesehen sind (z. B. Logging, lückenlose Dokumentation).   
 → Vorlage Sicherheitskonzept
 
 Wirtschaftliche  
@@ -996,10 +981,8 @@ Vorgabe
 Kompatibilität der  
 EETS-Teilsysteme
 
-Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten sowie deren Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation).  
-  
-Beschreibung aller Geschäftsprozesse und IT-Serviceprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.  
-  
+Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten sowie deren Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation).   
+Beschreibung aller Geschäftsprozesse und IT-Serviceprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.   
 Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät – straßenseitiges Kontrollequipment“, „Blacklist“, „Nutzerlisten“, „abschnittsbezogene Erhebungsdaten“, „Mautbuchungsnachweise“, „Tagesbericht“ sowie der „übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
 
 Technisch-  
@@ -1020,12 +1003,9 @@ organisatorische Vorgabe
 Funktionen des  
 EETS-Teilsystems
 
-Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten (High-Level-Systemdokumentation).  
-  
-Beschreibung der Geschäftsprozesse in den Bereichen Mauterhebung und -abrechnung sowie Prozesse zur Unterstützung der Kontrolle und Überwachung des Mauterhebers.  
-  
-Beschreibung der IT-Serviceprozesse des EETS-Anbieters.  
-  
+Funktionale Beschreibung der vom EETS-Anbieter eingesetzten mautrelevanten IT-Komponenten (High-Level-Systemdokumentation).   
+Beschreibung der Geschäftsprozesse in den Bereichen Mauterhebung und -abrechnung sowie Prozesse zur Unterstützung der Kontrolle und Überwachung des Mauterhebers.   
+Beschreibung der IT-Serviceprozesse des EETS-Anbieters.   
 Erläuterung der geplanten Umsetzung der Schnittstellen „Bordgerät – straßenseitiges Kontrollequipment“, „Blacklist“, „Nutzerlisten“, „Abschnittsbezogene Erhebungsdaten“, „Mautbuchungsnachweise“, „Tagesbericht“ sowie der „übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
 
 Technisch-  
@@ -1044,10 +1024,8 @@ organisatorische Vorgabe
 
 Schnittstellen
 
-Funktionale Beschreibung der vom EETS-Anbieter geplanten Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation).  
-  
-Beschreibung aller Geschäftsprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.  
-  
+Funktionale Beschreibung der vom EETS-Anbieter geplanten Schnittstellen und Hauptdatenflüsse zum/vom Mauterheber (High-Level-Systemdokumentation).   
+Beschreibung aller Geschäftsprozesse des EETS-Anbieters, die eine Verbindung zum Mauterheber haben, insbesondere in Hinblick auf die Art und Weise der Interaktion zwischen EETS-Anbieter und Mauterheber.   
 Erläuterung der geplanten Umsetzung der Schnittstellen, insbesondere „Bordgerät – straßenseitiges Kontrollequipment“, „Blacklist“, „Nutzerlisten“, „Abschnittsbezogene Erhebungsdaten“, „Mautbuchungsnachweise“, „Tagesbericht“ sowie der „übergreifenden Aspekte“ im System des EETS-Anbieters (vgl. Schnittstellenspezifikationen).
 
 Technisch-  
@@ -1066,8 +1044,7 @@ organisatorische Vorgabe
 
 Nutzerliste
 
-Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers bzgl. Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung der in Dokument 4.3.3 der Gebietsvorgaben, Schnittstellen 002b und 002c geforderten Informationen.  
-  
+Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers bzgl. Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung der in Dokument 4.3.3 der Gebietsvorgaben, Schnittstellen 002b und 002c geforderten Informationen.   
 Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Dokument 4.3.3 − Spezifikation der Schnittstelle SST 002 – Nutzerlisten).
 
 Technisch-  
@@ -1077,8 +1054,7 @@ organisatorische Vorgabe
 
 Trustobjects
 
-Beschreibung des Geschäftsprozesses des Austauschs der sicherheitsrelevanten Objekte zwischen EETS-Anbieter und Mauterheber.  
-  
+Beschreibung des Geschäftsprozesses des Austauschs der sicherheitsrelevanten Objekte zwischen EETS-Anbieter und Mauterheber.   
 Erläuterung der geplanten Umsetzung der Schnittstelle 004 „Trustobjects“ im System des EETS-Anbieters (vgl. Dokument 4.3.11 – Spezifikation der Schnittstelle SST 004 – Trustobjects).
 
 Technisch-  
@@ -1089,8 +1065,7 @@ organisatorische Vorgabe
 Abschnittsbezogene  
 Erhebungsdaten
 
-Beschreibung des Geschäftsprozesses der Übermittlung der abschnittsbezogenen Erhebungsdaten.  
-  
+Beschreibung des Geschäftsprozesses der Übermittlung der abschnittsbezogenen Erhebungsdaten.   
 Erläuterung der geplanten Umsetzung der Schnittstelle 006 „Abschnittsbezogene Erhebungsdaten“ im System des EETS-Anbieters (vgl. Dokument 4.3.4, Spezifikation der Schnittstelle zum EETS-Anbieter SST 006 – Abschnittsbezogene Erhebungsdaten).
 
 Technisch-  
@@ -1100,8 +1075,7 @@ organisatorische Vorgabe
 
 Mautbuchungsnachweise
 
-Beschreibung des Geschäftsprozesses der Übermittlung der Mautbuchungsnachweise.  
-  
+Beschreibung des Geschäftsprozesses der Übermittlung der Mautbuchungsnachweise.   
 Erläuterung der geplanten Umsetzung der Schnittstelle 007 „Mautbuchungsnachweise“ im System des EETS-Anbieters (vgl. Dokument 4.3.5, Spezifikation der Schnittstelle zum EETS-Anbieter SST 007 – Mautbuchungsnachweise).
 
 Technisch-  
@@ -1111,8 +1085,7 @@ organisatorische Vorgabe
 
 Tagesbericht
 
-Beschreibung des Geschäftsprozesses der Übermittlung des Tagesberichts.  
-  
+Beschreibung des Geschäftsprozesses der Übermittlung des Tagesberichts.   
 Erläuterung der geplanten Umsetzung der Schnittstelle 008 „Tagesbericht“ im System des EETS-Anbieters (vgl. Dokument 4.3.6, Spezifikation der Schnittstelle zum EETS-Anbieter SST 008 − Tagesbericht).
 
 Technisch-  
@@ -1151,8 +1124,7 @@ organisatorische Vorgabe
 
 Überwachungsreports
 
-Beschreibung des Geschäftsprozesses der Erfassung von Überwachungsdaten, inkl. Erstellung des geforderten Überwachungsreports.  
-  
+Beschreibung des Geschäftsprozesses der Erfassung von Überwachungsdaten, inkl. Erstellung des geforderten Überwachungsreports.   
 Vorlage eines beispielhaften Entwurfs eines Überwachungsreports in den vom Mauterheber geforderten Bereichen (vgl. Vorgaben zu SST 013 – „Überwachungsreports“).
 
 Technisch-  
@@ -1162,8 +1134,7 @@ organisatorische Vorgabe
 
 DSRC-Daten
 
-Beschreibung des Geschäftsprozesses der Übermittlung der DSRC-Daten.  
-  
+Beschreibung des Geschäftsprozesses der Übermittlung der DSRC-Daten.   
 Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Dokument 4.3.1 − Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).
 
 Technisch-  
@@ -1175,10 +1146,8 @@ organisatorische Vorgabe
 
 Gebührenklassen
 
-Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung, Deklaration am Fahrzeuggerät vor Fahrtbeginn.  
-  
-Beschreibung des Geschäftsprozesses der Mauterhebung, insbesondere hinsichtlich der Berücksichtigung der Mauttabelle und des Tarifmodells des Mauterhebers.  
-  
+Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung, Deklaration am Fahrzeuggerät vor Fahrtbeginn.   
+Beschreibung des Geschäftsprozesses der Mauterhebung, insbesondere hinsichtlich der Berücksichtigung der Mauttabelle und des Tarifmodells des Mauterhebers.   
 Beschreibung der Möglichkeiten zur Nutzerinteraktion (HMI) der OBU (Benutzerhandbuch der OBU, Informationsmaterial für Nutzer).
 
 Technisch-  
@@ -1198,8 +1167,7 @@ organisatorische Vorgabe
 Abschnittsweise  
 Mauterhebung
 
-Beschreibung des Geschäftsprozesses der Mauterhebung, wobei eine detaillierte Beschreibung der korrekten Abschnittserkennung in kritisch eingeschätzten Fahrsituationen (z. B. Grenzübertritte, Wendemöglichkeiten, extrem kurze und extrem lange Abschnitte, Tunnel und Einschnitte) sowie auf die Rundung des Mautbetrags erfolgen sollte.  
-  
+Beschreibung des Geschäftsprozesses der Mauterhebung, wobei eine detaillierte Beschreibung der korrekten Abschnittserkennung in kritisch eingeschätzten Fahrsituationen (z. B. Grenzübertritte, Wendemöglichkeiten, extrem kurze und extrem lange Abschnitte, Tunnel und Einschnitte) sowie auf die Rundung des Mautbetrags erfolgen sollte.   
 Beschreibung des Geschäftsprozesses des Mautbasisdatenmanagements, inkl. Entgegennahme und Verarbeitung der Mautbasisdaten des Mauterhebers.
 
 Technisch-  
@@ -1210,8 +1178,7 @@ organisatorische Vorgabe
 Zuordnung der  
 Mauterhebung
 
-Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung sowie der Prozesse zur Änderung von Nutzer- bzw. Fahrzeugdaten.  
-  
+Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung sowie der Prozesse zur Änderung von Nutzer- bzw. Fahrzeugdaten.   
 Beschreibung des Geschäftsprozesses der Mauterhebung. Es muss deutlich werden an welcher Stelle im Prozess die Zusammenführung zwischen Kfz-Kennzeichen und der Mauterhebung erfolgt und wie einer falschen Zuordnung vorgebeugt wird.
 
 Technisch-  
@@ -1221,8 +1188,7 @@ organisatorische Vorgabe
 
 Zuordnung des Bordgeräts
 
-Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung sowie der Prozesse zur Änderung von Nutzer- bzw. Fahrzeugdaten.  
-  
+Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung sowie der Prozesse zur Änderung von Nutzer- bzw. Fahrzeugdaten.   
 Beschreibung der Geschäftsprozesse der Fahrzeuggeräteinstallation und Inbetriebnahme, insbesondere für das Szenario, dass der Nutzer vorher bereits ein Fahrzeuggerät des EETS-Anbieters verwendet hat (OBU-Tausch).
 
 Technisch-  
@@ -1232,10 +1198,8 @@ organisatorische Vorgabe
 
 Funktionsfähigkeit der Bordgeräte
 
-Beschreibung des Geschäftsprozesses/IT-Serviceprozesses des Systemmonitorings/-überwachung mit Fokus auf Monitoring der Fahrzeuggeräte.  
-  
-Beschreibung des Geschäftsprozesses des Remote-Device-Management der Fahrzeuggeräteflotte.  
-  
+Beschreibung des Geschäftsprozesses/IT-Serviceprozesses des Systemmonitorings/-überwachung mit Fokus auf Monitoring der Fahrzeuggeräte.   
+Beschreibung des Geschäftsprozesses des Remote-Device-Management der Fahrzeuggeräteflotte.   
 Beschreibung des bei Auftreten von HW-Defekten an Fahrzeuggeräten (Überprüfung, Austausch, Reparatur, Neukonfiguration, etc.) ablaufenden Geschäftsprozesses.
 
 Technisch-  
@@ -1245,8 +1209,7 @@ organisatorische Vorgabe
 
 Erhebungsbereitschaft des Bordgeräts
 
-Beschreibung des Geschäftsprozesses/IT-Serviceprozesses des Systemmonitorings/-überwachung mit Fokus auf Monitoring der Fahrzeuggeräte.  
-  
+Beschreibung des Geschäftsprozesses/IT-Serviceprozesses des Systemmonitorings/-überwachung mit Fokus auf Monitoring der Fahrzeuggeräte.   
 Beschreibung der Anzeige- und Ausgabemöglichkeiten der Nutzerschnittstelle (HMI) der OBU (Benutzerhandbuch der OBU).
 
 Technisch-  
@@ -1265,8 +1228,7 @@ organisatorische Vorgabe
 
 Sicherstellung korrekter Mauterhebung
 
-Beschreibung der IT-Serviceprozesse in den Bereichen Systemmonitoring/-überwachung, Backup sowie Desaster/Recovery.  
-  
+Beschreibung der IT-Serviceprozesse in den Bereichen Systemmonitoring/-überwachung, Backup sowie Desaster/Recovery.   
 Beschreibung der Maßnahmen zur Minimierung der Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der Auswirkungen von Systemausfällen oder -störungen, insbesondere hinsichtlich der Sicherstellung der vollständigen Abrechnung und Auskehr der Mautbeträge (Risikomanagementplan).
 
 Technisch-  
@@ -1277,8 +1239,7 @@ organisatorische Vorgabe
 Anpassungen des  
 EETS-Teilsystems
 
-Beschreibung des Geschäftsprozesses des Mautbasisdatenmanagements, inkl. der Angabe von Umsetzungs-/Aktualisierungszeiten im Teilsystem des EETS-Anbieters.  
-  
+Beschreibung des Geschäftsprozesses des Mautbasisdatenmanagements, inkl. der Angabe von Umsetzungs-/Aktualisierungszeiten im Teilsystem des EETS-Anbieters.   
 Beschreibung des Vorgehens zur Umsetzung der genannten Veränderungen und Erweiterungen durch den EETS-Anbieter insbesondere hinsichtlich der durchzuführenden Phasen und der zu veranschlagenden Dauer.
 
 –  
@@ -1303,16 +1264,11 @@ Vorgabe
 Unterstützung der  
 Kontrollprozesse
 
-Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung und Änderungen der Angaben, insbesondere hinsichtlich der dabei erfassten Nutzer- und Fahrzeugdaten sowie deren Qualitätssicherung.  
-  
-Beschreibung der Geschäftsprozesse, die der EETS-Anbieter bezüglich der Befreiung einzelner Nutzer von der Mautpflicht vorsieht inkl. der vorgesehenen Maßnahmen zur Information der Nutzer über die Bestimmungen und Möglichkeiten der Mautbefreiung.  
-  
-Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers bzgl. Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung der in den Schnittstellen 002b und 002c geforderten Informationen.  
-  
-Beschreibung des Geschäftsprozesses der den Umgang mit Ansprüchen des Mauterhebers im Rahmen der Anbieterausfallhaftung beinhaltet.  
-  
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).  
-  
+Beschreibung der Geschäftsprozesse der Nutzerregistrierung, Fahrzeugregistrierung und Änderungen der Angaben, insbesondere hinsichtlich der dabei erfassten Nutzer- und Fahrzeugdaten sowie deren Qualitätssicherung.   
+Beschreibung der Geschäftsprozesse, die der EETS-Anbieter bezüglich der Befreiung einzelner Nutzer von der Mautpflicht vorsieht inkl. der vorgesehenen Maßnahmen zur Information der Nutzer über die Bestimmungen und Möglichkeiten der Mautbefreiung.   
+Beschreibung des Geschäftsprozesses, in dem Anfragen des Mauterhebers bzgl. Adress- und Fahrzeugdaten zu Ahndungszwecken behandelt werden, insbesondere hinsichtlich der Verfügbarkeit und Übermittlung der in den Schnittstellen 002b und 002c geforderten Informationen.   
+Beschreibung des Geschäftsprozesses der den Umgang mit Ansprüchen des Mauterhebers im Rahmen der Anbieterausfallhaftung beinhaltet.   
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).   
 Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 – Nutzerlisten).
 
 Technisch-  
@@ -1322,10 +1278,8 @@ organisatorische Vorgabe
 
 Datenübermittlung für Kontrollzwecke
 
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).  
-  
-Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 – „Nutzerlisten“).  
-  
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).   
+Erläuterung der geplanten Umsetzung der Schnittstellen SST 002b/c „Adress- und Fahrzeugdaten bzw. weitere Fahrzeuge eines EETS-Nutzers“ im System des EETS-Anbieters (vgl. Spezifikation der Schnittstelle SST 002 – „Nutzerlisten“).   
 Darstellung der Maßnahmen und Methoden zur Erkennung und Verhinderung von Manipulation am Fahrzeuggerät.
 
 –  
@@ -1338,8 +1292,7 @@ organisatorische Vorgabe
 
 Ermöglichung der Kontrolle
 
-Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).  
-  
+Erläuterung der geplanten Umsetzung der Schnittstelle SST 301 „Fahrzeuggerät des EETS-Anbieters und straßenseitigem Kontrollequipment des Mauterhebers“ im System des EETS-Anbieters (vgl. Spezifikation der DSRC-Schnittstelle zwischen einem Bordgerät und der straßenseitigen Ausrüstung im Mautgebiet BFStrMG).   
 Beschreibung der Anzeige- und Ausgabemöglichkeiten der Nutzerschnittstelle (HMI) der OBU (Benutzerhandbuch der OBU).
 
 Technisch-  
@@ -1359,8 +1312,7 @@ organisatorische Vorgabe
 
 Sicherheit
 
-Beschreibung der technischen Daten der für den Einsatz vorgesehenen OBU, insbesondere hinsichtlich der vorhandenen Typenzulassungen (Benutzerhandbuch der OBU).  
-  
+Beschreibung der technischen Daten der für den Einsatz vorgesehenen OBU, insbesondere hinsichtlich der vorhandenen Typenzulassungen (Benutzerhandbuch der OBU).   
 Hinweis: Für die in Verkehr gebrachten Geräte sollte die Erfüllung der Gebietsvorgabe bereits durch die entsprechenden Konformitätsnachweise der Baumuster erbracht sein.
 
 Technisch-  
@@ -1379,8 +1331,7 @@ organisatorische Vorgabe
 
 Einbauten in die Fahrbahn
 
-Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.  
-  
+Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.   
 Beschreibung gegebenenfalls notwendiger straßenseitiger Komponenten im System des EETS-Anbieters (High-Level-Systemdokumentation).
 
 Technisch-  
@@ -1442,8 +1393,7 @@ organisatorische Vorgabe
 Einrichtungen des  
 EETS-Anbieters
 
-Beschreibung der IT-Serviceprozesse in den Bereichen Systemmonitoring/-überwachung, Backup sowie Desaster/Recovery.  
-  
+Beschreibung der IT-Serviceprozesse in den Bereichen Systemmonitoring/-überwachung, Backup sowie Desaster/Recovery.   
 Beschreibung der Maßnahmen zur Minimierung der Eintrittswahrscheinlichkeit bzw. Maßnahmen zur Reduktion der Auswirkungen von Systemausfällen oder -störungen, insbesondere hinsichtlich der Sicherstellung der vollständigen Abrechnung und Auskehr der Mautbeträge.
 
 –  
@@ -1458,8 +1408,7 @@ organisatorische Vorgabe
 
 Qualitätsparameter
 
-Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.  
-  
+Schriftlicher Hinweis zur Kenntnisnahme und Akzeptanz der Vorgabe.   
 Beschreibung der technischen Prozesse und Geschäftsprozesse zur Umsetzung und Erfüllung der Qualitätsanforderungen.
 
 Technisch-  
@@ -1475,8 +1424,7 @@ Beschreibung des Systems, das der EETS-Anbieter zur Messung und Überwachung der
 –  
 High-Level Systemdokumentation
 
-Beschreibung der Maßnahmen zur Minimierung der Eintrittswahrscheinlichkeit bzw. Reduktion der Auswirkungen von Qualitätsverschlechterungen.  
-  
+Beschreibung der Maßnahmen zur Minimierung der Eintrittswahrscheinlichkeit bzw. Reduktion der Auswirkungen von Qualitätsverschlechterungen.   
 Beschreibung der Maßnahmen, die bei festgestellter Verschlechterung ergriffen werden, um die Qualität wiederherzustellen.
 
 –  
@@ -1485,13 +1433,11 @@ Risikomanagementplan
 Technisch-  
 organisatorische Vorgabe
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BAnz AT 27.03.2018 V1)
 
-Zur Orientierung und Vermeidung unnötiger Nachfragen ist eine tabellarische Übersicht zu erstellen, in der die Erfüllung der einzelnen Gebietsvorgaben anhand der eingereichten Unterlagen dokumentiert und/oder zusätzlich genau erläutert wird.  
-  
+Zur Orientierung und Vermeidung unnötiger Nachfragen ist eine tabellarische Übersicht zu erstellen, in der die Erfüllung der einzelnen Gebietsvorgaben anhand der eingereichten Unterlagen dokumentiert und/oder zusätzlich genau erläutert wird.   
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; "><colgroup><col style="width: 18%" /><col style="width: 82%" /></colgroup><thead><tr class="header"><th style="text-align: center;"> </th><th style="text-align: left;">Erläuterung</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">Gebietsvorgabe<br />
 1</td><td style="text-align: left;">Erläuterung:<br />

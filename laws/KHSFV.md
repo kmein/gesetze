@@ -1,15 +1,11 @@
-# [KHSFV] Verordnung zur Verwaltung des Strukturfonds im Krankenhausbereich  (Krankenhausstrukturfonds-Verordnung - KHSFV)
-
-Ausfertigungsdatum: 17.12.2015
-
+% Verordnung zur Verwaltung des Strukturfonds im Krankenhausbereich  (Krankenhausstrukturfonds-Verordnung - KHSFV)
+% Ausfertigungsdatum: 17.12.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Absatz 3 des Krankenhausfinanzierungsgesetzes, der durch Artikel 1 Nummer 5 des Gesetzes vom 10. Dezember 2015 (BGBl. I S. 2229) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Förderungsfähige Vorhaben
+# § 1 – Förderungsfähige Vorhaben
 
 (1) Ein Vorhaben wird nach § 12 Absatz 1 des Krankenhausfinanzierungsgesetzes gefördert, wenn
 
@@ -27,8 +23,7 @@ b) eine nicht akutstationäre Versorgungseinrichtung, insbesondere in eine Einri
 
 (3) Nicht gefördert werden Vorhaben nach Absatz 1 Nummer 1, wenn ein zeitlicher und örtlicher Zusammenhang mit dem Aufbau von Behandlungsplätzen oder der Neuaufnahme entsprechender Fachrichtungen an anderen Krankenhäusern besteht.
 
-
-## § 2 – Förderungsfähige Kosten
+# § 2 – Förderungsfähige Kosten
 
 (1) Nicht förderungsfähig sind die Kosten, die auf andere als die in § 9 des Krankenhausfinanzierungsgesetzes genannten Fördertatbestände entfallen, sowie die vom Land zurückgeforderten Mittel der Investitionsförderung.
 
@@ -42,8 +37,7 @@ b) eine nicht akutstationäre Versorgungseinrichtung, insbesondere in eine Einri
 
 (4) Fördermittel dürfen nur dem Förderzweck entsprechend verwendet werden. Es sind nur die Kosten zu berücksichtigen, die den Grundsätzen von Wirtschaftlichkeit und Sparsamkeit entsprechen.
 
-
-## § 3 – Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
+# § 3 – Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
 
 (1) Das Bundesamt für Soziale Sicherung veröffentlicht auf seiner Internetseite die auf die einzelnen Länder entfallenden Anteile an den Fördermitteln, die sich aus dem Königsteiner Schlüssel nach dem Stand vom 1. Januar 2016 abzüglich des Betrags nach Absatz 2 ergeben.
 
@@ -53,8 +47,7 @@ b) eine nicht akutstationäre Versorgungseinrichtung, insbesondere in eine Einri
 
 (4) Das Bundesamt für Soziale Sicherung kann zum Zweck einer einheitlichen und wirtschaftlichen Durchführung des Förderverfahrens nähere Bestimmungen zur Durchführung des Förderverfahrens treffen und verlangen, dass die Unterlagen nach § 4 Absatz 2 und § 8 in einem einheitlichen Format oder in einer maschinell auswertbaren Form übermittelt werden.
 
-
-## § 4 – Antragstellung
+# § 4 – Antragstellung
 
 (1) Die Länder können bis zum 31. Juli 2017 Anträge an das Bundesamt für Soziale Sicherung auf Auszahlung von Fördermitteln aus dem Strukturfonds stellen. Wird ein fristgemäß gestellter Antrag nach Fristablauf bestandskräftig abgelehnt oder zurückgenommen oder werden Fördermittel nach § 7 zurückgezahlt, kann das betreffende Land auch nach dem 31. Juli 2017 Fördermittel beantragen, soweit sein Anteil nach § 3 Absatz 1 noch nicht ausgeschöpft ist.
 
@@ -80,15 +73,13 @@ b) der betroffene Krankenhausträger gegenüber dem antragstellenden Land auf Gr
 
 Das Bundesamt für Soziale Sicherung kann im Einzelfall weitere Nachweise verlangen, wenn dies erforderlich ist, um die Förderungsfähigkeit eines Vorhabens zu prüfen.
 
-
-## § 5 – Nachverteilung
+# § 5 – Nachverteilung
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt, in welcher Höhe für die bis zum 31. Juli 2017 eingegangenen Anträge höchstens Mittel aus dem Strukturfonds bereitzustellen sind. Unterschreitet der nach Satz 1 ermittelte Betrag den Betrag von 500 Millionen Euro abzüglich der Aufwendungen des Bundesamtes für Soziale Sicherung nach § 12 Absatz 2 Satz 6 des Krankenhausfinanzierungsgesetzes und § 14 Satz 4 des Krankenhausfinanzierungsgesetzes, steht der Unterschiedsbetrag zur Nachverteilung zur Verfügung (Nachverteilungsbetrag). Im Fall einer finanziellen Beteiligung der privaten Krankenversicherung erhöht sich der Betrag nach Satz 2 entsprechend. Das Bundesamt für Soziale Sicherung teilt den Ländern unverzüglich die Höhe des Nachverteilungsbetrags mit.
 
 (2) Der Nachverteilungsbetrag wird für die Förderung von Vorhaben verwendet, für die nach dem 1. September 2017 Anträge von den Ländern gestellt werden. Das Bundesamt für Soziale Sicherung entscheidet über die Anträge in der Reihenfolge ihres Eingangs und zahlt die Mittel aus, bis der Betrag von 500 Millionen Euro abzüglich der Aufwendungen des Bundesamtes für Soziale Sicherung nach § 12 Absatz 2 Satz 6 des Krankenhausfinanzierungsgesetzes und § 14 Satz 4 des Krankenhausfinanzierungsgesetzes ausgeschöpft ist. Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 6 – Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
+# § 6 – Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
 
 (1) Das Bundesamt für Soziale Sicherung entscheidet über die Anträge durch Bescheid und zahlt die bewilligten Mittel an das antragstellende Land aus. Die Bescheide können mit Nebenbestimmungen versehen werden, soweit diese erforderlich sind, um eine zweckentsprechende, wirtschaftliche und sparsame Verwendung der Fördermittel sicherzustellen.
 
@@ -98,8 +89,7 @@ Das Bundesamt für Soziale Sicherung kann im Einzelfall weitere Nachweise verlan
 
 (4) Die Länder stellen sicher, dass die Gewährung der Fördermittel an die Krankenhausträger in Übereinstimmung mit dem Wettbewerbsrecht und dem Beihilfenrecht der Europäischen Union erfolgt.
 
-
-## § 7 – Rückforderung und Verzinsung von Fördermitteln
+# § 7 – Rückforderung und Verzinsung von Fördermitteln
 
 (1) Für die Rücknahme oder den Widerruf von Auszahlungsbescheiden des Bundesamtes für Soziale Sicherung und für die Erstattung von Fördermitteln gelten die §§ 44 bis 51 des Zehnten Buches Sozialgesetzbuch.
 
@@ -107,8 +97,7 @@ Das Bundesamt für Soziale Sicherung kann im Einzelfall weitere Nachweise verlan
 
 (3) Fordert ein Land von ihm gewährte Mittel vom Krankenhausträger zurück, hat es auch den aus dem Strukturfonds gezahlten Anteil zurückzufordern und an das Bundesamt für Soziale Sicherung zu Gunsten des Strukturfonds zurückzuzahlen. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 8 – Auswertung der Wirkungen der Förderung
+# § 8 – Auswertung der Wirkungen der Förderung
 
 (1) Für die Auswertung der Wirkungen der Förderung übermitteln die zuständigen obersten Landesbehörden dem Bundesamt für Soziale Sicherung sowie den Landesverbänden der Krankenkassen und den Ersatzkassen zum 1. April eines Jahres, erstmals zum 1. April 2017, für die Vorhaben, für die das Bundesamt für Soziale Sicherung Fördermittel bewilligt hat,
 
@@ -128,18 +117,15 @@ Das Bundesamt für Soziale Sicherung kann im Einzelfall weitere Nachweise verlan
 
 (4) Das Bundesamt für Soziale Sicherung übermittelt die ihm von den zuständigen obersten Landesbehörden nach Absatz 1 Satz 1 und 3 sowie die von den Ländern nach Absatz 3 Satz 1 übermittelten Unterlagen an die von ihm mit der Auswertung nach § 14 des Krankenhausfinanzierungsgesetzes beauftragte Stelle.
 
-
-## § 9 – Bewirtschaftung der Fördermittel
+# § 9 – Bewirtschaftung der Fördermittel
 
 Die vom Bundesamt für Soziale Sicherung aus dem Strukturfonds ausgezahlten Fördermittel werden als Einnahmen in den Haushaltsplänen der Länder vereinnahmt. Die Länder haben für die haushaltsmäßige Übertragbarkeit der ihnen aus dem Strukturfonds gewährten Fördermittel Sorge zu tragen. Die Bewirtschaftung der Fördermittel richtet sich nach dem Haushaltsrecht der Länder.
 
-
-## § 10 – Beteiligung der privaten Krankenversicherung
+# § 10 – Beteiligung der privaten Krankenversicherung
 
 Im Fall einer finanziellen Beteiligung der privaten Krankenversicherung an der Förderung nach § 12 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes sind diese Mittel dem Strukturfonds zuzuführen. Das Nähere über die Zahlung und Abrechnung des Finanzierungsanteils vereinbart das Bundesamt für Soziale Sicherung mit dem Verband der privaten Krankenversicherungen.
 
-
-## § 11 – Förderungsfähige Vorhaben
+# § 11 – Förderungsfähige Vorhaben
 
 (1) Ein Vorhaben wird nach § 12a Absatz 1 in Verbindung mit Absatz 2 Satz 1 oder Satz 4 des Krankenhausfinanzierungsgesetzes gefördert, wenn
 
@@ -179,8 +165,7 @@ b) telemedizinische Netzwerkstrukturen insbesondere zwischen Krankenhäusern der
 
 (3) Nicht gefördert werden können Vorhaben nach Absatz 1 Nummer 1, wenn ein zeitlicher und örtlicher Zusammenhang mit dem Aufbau von Behandlungsplätzen oder der Neuaufnahme entsprechender Fachrichtungen an anderen Krankenhäusern besteht.
 
-
-## § 12 – Förderungsfähige Kosten
+# § 12 – Förderungsfähige Kosten
 
 (1) Gefördert werden können
 
@@ -208,8 +193,7 @@ höchstens jedoch jeweils in Höhe der tatsächlich entstehenden Kosten, bei vol
 
 (3) § 2 Absatz 3 und 4 gilt entsprechend.
 
-
-## § 13 – Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
+# § 13 – Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
 
 (1) Das Bundesamt für Soziale Sicherung veröffentlicht auf seiner Internetseite die nach § 12a Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes auf die einzelnen Länder entfallenden Anteile, die sich aus dem Königsteiner Schlüssel nach dem Stand vom 1. Oktober 2018 abzüglich des Betrags nach Absatz 2 ergeben, sowie den Betrag, der für die Förderung länderübergreifender Vorhaben zur Verfügung steht.
 
@@ -225,8 +209,7 @@ höchstens jedoch jeweils in Höhe der tatsächlich entstehenden Kosten, bei vol
 
 (4) Das Bundesamt für Soziale Sicherung kann zum Zweck einer einheitlichen und wirtschaftlichen Durchführung des Förderverfahrens nähere Bestimmungen zur Durchführung des Förderverfahrens treffen und verlangen, dass die Unterlagen nach den §§ 14 und 17 in einem einheitlichen Format oder in einer maschinell auswertbaren Form übermittelt werden.
 
-
-## § 14 – Antragstellung
+# § 14 – Antragstellung
 
 (1) Die Länder können bis zum 31. Dezember 2024 Anträge an das Bundesversicherungsamt auf Auszahlung von Fördermitteln nach § 12a des Krankenhausfinanzierungsgesetzes aus dem Strukturfonds stellen. Wird ein fristgemäß gestellter Antrag nach Fristablauf bestandskräftig abgelehnt oder zurückgenommen oder werden Fördermittel nach § 16 zurückgezahlt, kann das antragstellende Land, soweit sein Anteil nach § 13 Absatz 1 noch nicht ausgeschöpft ist, oder können die gemeinsam antragstellenden Länder, soweit der Betrag nach § 13 Absatz 1, der für die Förderung länderübergreifender Vorhaben zur Verfügung steht, noch nicht ausgeschöpft ist, auch nach dem 31. Dezember 2024 Fördermittel beantragen.
 
@@ -270,8 +253,7 @@ c) in welchem Umfang die beteiligten Länder den ihnen zustehenden Anteil nach �
 
 d) in welchem Umfang die beteiligten Länder jeweils zurückzuzahlende Beträge aufbringen würden.
 
-
-## § 15 – Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
+# § 15 – Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
 
 (1) Für die Auszahlungsbescheide des Bundesamtes für Soziale Sicherung gilt § 6 Absatz 1 entsprechend.
 
@@ -279,15 +261,13 @@ d) in welchem Umfang die beteiligten Länder jeweils zurückzuzahlende Beträge 
 
 (3) § 6 Absatz 3 und 4 gilt entsprechend. Wird der Abdruck des Förderbescheids des Landes dem Bundesamt für Soziale Sicherung nicht innerhalb von 15 Monaten nach dem Erhalt des Auszahlungsbescheids übermittelt, kann das Bundesamt für Soziale Sicherung den Auszahlungsbescheid aufheben und die Fördermittel zurückfordern.
 
-
-## § 16 – Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln
+# § 16 – Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln
 
 (1) Das Bundesamt für Soziale Sicherung macht Rückforderungsansprüche gegenüber den Ländern durch Bescheid geltend, soweit einer der in § 15 Absatz 2 genannten Sachverhalte eingetreten ist. Bei länderübergreifenden Vorhaben sind Rückforderungsansprüche nur gegenüber dem beteiligten Land geltend zu machen, bei dem der die Rückforderung begründende Sachverhalt eingetreten ist. Im Übrigen gilt § 7 Absatz 1 und 2 Satz 2 und 3 sowie Absatz 3 entsprechend.
 
 (2) Für die Bewirtschaftung der Fördermittel gilt § 9 entsprechend.
 
-
-## § 17 – Auswertung der Wirkungen der Förderung
+# § 17 – Auswertung der Wirkungen der Förderung
 
 (1) Für die Auswertung der Wirkungen der Förderung übermitteln die zuständigen obersten Landesbehörden dem Bundesamt für Soziale Sicherung sowie den Landesverbänden der Krankenkassen und den Ersatzkassen zum 1. April eines Jahres, erstmals zum 1. April 2020, für die Vorhaben, für die das Bundesamt für Soziale Sicherung Fördermittel bewilligt hat,
 
@@ -303,18 +283,15 @@ d) in welchem Umfang die beteiligten Länder jeweils zurückzuzahlende Beträge 
 
 (2) Im Übrigen gilt § 8 Absatz 1 Satz 2 und 3 sowie Absatz 2 und 3 entsprechend.
 
-
-## § 18 – Beteiligung der privaten Krankenversicherung
+# § 18 – Beteiligung der privaten Krankenversicherung
 
 Im Fall einer Beteiligung der privaten Krankenversicherung an der Förderung nach § 12a Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes sind diese Mittel dem Strukturfonds zuzuführen. Das Nähere über die Zahlung, Rückzahlung und Abrechnung des Finanzierungsanteils vereinbart das Bundesamt für Soziale Sicherung mit dem Verband der privaten Krankenversicherungen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 19 – Förderungsfähige Vorhaben
+# § 19 – Förderungsfähige Vorhaben
 
 (1) Nach § 14a Absatz 2 Satz 1 des Krankenhausfinanzierungsgesetzes werden folgende Vorhaben, insbesondere zur Digitalisierung der Prozesse und Strukturen im Verlauf eines Krankenhausaufenthalts von Patientinnen und Patienten, gefördert:
 
@@ -356,8 +333,7 @@ Vorhaben an Hochschulkliniken und Vorhaben, an denen Hochschulkliniken beteiligt
 
 (3) Bei den Vorhaben nach Absatz 1 Satz 1 Nummer 2 bis 6 und 9 sind im Rahmen der geförderten Strukturen Dienste und Anwendungen der Telematikinfrastruktur nach dem Fünften Buch Sozialgesetzbuch zu nutzen, sobald diese zur Verfügung stehen.
 
-
-## § 20 – Förderungsfähige Kosten
+# § 20 – Förderungsfähige Kosten
 
 (1) Bei den in § 19 Absatz 1 genannten Vorhaben können folgende Kosten erstattet werden:
 
@@ -373,8 +349,7 @@ Vorhaben an Hochschulkliniken und Vorhaben, an denen Hochschulkliniken beteiligt
 
 (3) § 2 Absatz 3 Satz 2 und 3 und Absatz 4 gilt entsprechend.
 
-
-## § 21 – Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
+# § 21 – Verwaltungsaufgaben des Bundesamtes für Soziale Sicherung
 
 (1) Das Bundesamt für Soziale Sicherung veröffentlicht auf seiner Internetseite die nach § 14a Absatz 3 Satz 1 des Krankenhausfinanzierungsgesetzes auf die einzelnen Länder entfallenden Anteile, die sich aus dem Königsteiner Schlüssel mit Stand vom 6. November 2018 abzüglich des Betrags nach Absatz 3 ergeben.
 
@@ -396,8 +371,7 @@ Im Fall von Satz 1 Nummer 3 sind die Fördermittel für Vorhaben und Vorhaben, a
 
 (6) Das Bundesamt für Soziale Sicherung beauftragt die Kreditanstalt für Wiederaufbau mit einem den Krankenhauszukunftsfonds begleitenden Kreditprogramm, das Krankenhausträger bei der Zahlung des von ihnen nach § 14a Absatz 5 Nummer 2 des Krankenhausfinanzierungsgesetzes zu tragenden Anteils der förderungsfähigen Kosten unterstützt.
 
-
-## § 22 – Antragstellung
+# § 22 – Antragstellung
 
 (1) Die Länder können bis zum 31. Dezember 2021 Anträge auf Auszahlung von Fördermitteln nach § 14a Absatz 3 Satz 1 des Krankenhausfinanzierungsgesetzes aus dem Krankenhauszukunftsfonds an das Bundesamt für Soziale Sicherung stellen.
 
@@ -433,8 +407,7 @@ b) in welchem Verhältnis die Fördermittel an sie auszuzahlen sind und
 
 c) in welchem Verhältnis sie die zurückgeforderten Fördermittel erstatten.
 
-
-## § 23 – Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
+# § 23 – Auszahlungsbescheide des Bundesamtes für Soziale Sicherung
 
 (1) Für die Auszahlungsbescheide des Bundesamtes für Soziale Sicherung gilt § 6 Absatz 1 entsprechend.
 
@@ -452,8 +425,7 @@ c) in welchem Verhältnis sie die zurückgeforderten Fördermittel erstatten.
 
 (3) Die Länder legen dem Bundesamt für Soziale Sicherung unverzüglich, spätestens jedoch 15 Monate nach der Bekanntgabe des Auszahlungsbescheides ihren Bescheid über die Förderung des jeweiligen Vorhabens vor.
 
-
-## § 24 – Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln
+# § 24 – Rückforderung, Verzinsung und Bewirtschaftung von Fördermitteln
 
 (1) Für die Rücknahme oder den Widerruf von Auszahlungsbescheiden des Bundesamtes für Soziale Sicherung und für die Erstattung von Fördermitteln gelten die §§ 44 bis 51 des Zehnten Buches Sozialgesetzbuch.
 
@@ -461,8 +433,7 @@ c) in welchem Verhältnis sie die zurückgeforderten Fördermittel erstatten.
 
 (3) Für die Bewirtschaftung der Fördermittel gilt § 9 entsprechend.
 
-
-## § 25 – Nachweis über die zweckentsprechende Verwendung der Fördermittel
+# § 25 – Nachweis über die zweckentsprechende Verwendung der Fördermittel
 
 (1) Die Länder übermitteln dem Bundesamt für Soziale Sicherung zum 1. April eines Jahres, erstmals zum 1. April 2021, für die Vorhaben, für die das Bundesamt für Soziale Sicherung Fördermittel gewährt hat, die folgenden Angaben:
 

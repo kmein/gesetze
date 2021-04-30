@@ -1,10 +1,7 @@
-# [PVÜG] Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts
-
-Ausfertigungsdatum: 17.08.1973
-
+% Gesetz zu den am 24. Juli 1971 in Paris unterzeichneten Übereinkünften auf dem Gebiet des Urheberrechts
+% Ausfertigungsdatum: 17.08.1973
  
-
-## Art 1
+# Art 1
 
 Den folgenden von der Bundesrepublik Deutschland am 21. Juli 1971 in Paris unterzeichneten Übereinkünften wird zugestimmt:
 
@@ -14,28 +11,23 @@ Den folgenden von der Bundesrepublik Deutschland am 21. Juli 1971 in Paris unter
 
 Die Übereinkünfte werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, die in Artikel VI Abs. 1 Ziffer ii des Anhangs zur Pariser Fassung der Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst vorgesehene Erklärung abzugeben.
 
-
-## Art 3
+# Art 3
 
 \-
 
-
-## Art 4
+# Art 4
 
 Für die Berechnung der Dauer des Schutzes, den ausländische Staatsangehörige für ihre Werke nach dem revidierten Welturheberrechtsabkommen im Geltungsbereich dieses Gesetzes genießen, sind die Bestimmungen in Artikel IV Abs. 4 bis 6 des revidierten Welturheberrechtsabkommens anzuwenden.
 
-
-## Art 5
+# Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 6
+# Art 6
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -1,27 +1,21 @@
-# [AMGKostV] Kostenverordnung für die Zulassung und Registrierung von Arzneimitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  (AMG-Kostenverordnung - AMGKostV)
-
-Ausfertigungsdatum: 10.12.2003
-
+% Kostenverordnung für die Zulassung und Registrierung von Arzneimitteln durch das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  (AMG-Kostenverordnung - AMGKostV)
+% Ausfertigungsdatum: 10.12.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 33 Abs. 2 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165), den Organisationserlassen vom 22. Januar 2001 (BGBl. I S. 127) und vom 22. Oktober 2002 (BGBl. I S. 4206), verordnet das Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte und das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit erheben nach dem anliegenden Gebührenverzeichnis und den folgenden Vorschriften Gebühren und Auslagen für Entscheidungen über die Zulassung von Arzneimitteln, für Entscheidungen über die Registrierung von homöopathischen Arzneimitteln und traditionellen pflanzlichen Arzneimitteln, für die Bearbeitung von Anträgen, für die Tätigkeit im Rahmen der Sammlung und Bewertung von Arzneimittelrisiken, für Widerspruchsverfahren gegen auf Grund des Arzneimittelgesetzes erlassene Verwaltungsakte oder gegen die Festsetzung von Gebühren und Auslagen nach dieser Verordnung sowie für andere individuell zurechenbare öffentliche Leistungen.
 
 (2) Für die Bekanntmachung im Bundesanzeiger werden in den Fällen des Erlöschens oder Ruhens einer Zulassung Auslagen nicht erhoben.
 
-
-## § 2 – Gebühren bei Ablehnung oder Rücknahme eines Antrags
+# § 2 – Gebühren bei Ablehnung oder Rücknahme eines Antrags
 
 Im Fall der Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung aus anderen Gründen als wegen Unzuständigkeit oder der Rücknahme eines Antrags nach Beginn der sachlichen Bearbeitung wird eine Gebühr in Höhe von 75 Prozent der für die individuell zurechenbaren öffentlichen Leistung festzusetzenden Gebühr erhoben. Sie kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit entspricht.
 
-
-## § 3 – Ermäßigungen
+# § 3 – Ermäßigungen
 
 (1) Die Gebühr kann bis auf die Hälfte der vorgesehenen Gebühr ermäßigt werden, wenn der mit der individuell zurechenbaren öffentlichen Leistung verbundene Personal- und Sachaufwand einerseits und die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der individuell zurechenbaren öffentlichen Leistung für den Gebührenschuldner andererseits dies rechtfertigen.
 
@@ -31,13 +25,11 @@ Im Fall der Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren
 
 2. die Anwendungsfälle selten oder die Zielgruppe, für die das Arzneimittel bestimmt ist, klein ist.
 
-
-## § 4 – Anrechnung von Kosten für Sachverständige
+# § 4 – Anrechnung von Kosten für Sachverständige
 
 Wird eine der in den Nummern 1 bis 13 sowie 18 bis 25 des Gebührenverzeichnisses genannten individuell zurechenbaren öffentlichen Leistungen in den gesetzlich vorgesehenen Fällen unter Zugrundelegung der Beurteilung von Unterlagen durch unabhängige Sachverständige vorgenommen, so sind die hierfür zu erstattenden Kosten auf die festzusetzende Gebühr anzurechnen.
 
-
-## § 5 – Übergangsvorschriften
+# § 5 – Übergangsvorschriften
 
 (1) Die AMG-Kostenverordnung ist weiterhin anzuwenden in der Fassung vom 10. Dezember 2003 (BGBl. I S. 2510), die zuletzt durch Artikel 2 Absatz 26 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, wenn die zugrunde liegende individuell zurechenbare öffentliche Leistung vor dem 7. März 2015 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde. Dies gilt nicht, wenn für die individuell zurechenbare öffentliche Leistung bereits ein Gebührentatbestand nach der AMG-Kostenverordnung in der Fassung vom 10. Dezember 2003, die zuletzt durch Artikel 2 Absatz 26 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, vorhanden war und die danach zu erhebende Gebühr höher ist als die in der AMG-Kostenverordnung in der Fassung vom 7. März 2015 vorgesehene Gebühr. In diesem Fall werden Gebühren nach der AMG-Kostenverordnung in der Fassung vom 7. März 2015 erhoben.
 
@@ -47,13 +39,11 @@ Wird eine der in den Nummern 1 bis 13 sowie 18 bis 25 des Gebührenverzeichnisse
 
 (4) Die nach den Gebührennummern 10 des Gebührenverzeichnisses zu erhebenden Gebühren ermäßigen sich um 50 Prozent, wenn die zugrunde liegende individuell zurechenbare öffentliche Leistung, soweit ein Antrag notwendig ist, bis zum 7. März 2016 beantragt worden ist. Die nach den Gebührennummern 10 des Gebührenverzeichnisses zu erhebenden Gebühren ermäßigen sich um 25 Prozent, wenn die zugrunde liegende individuell zurechenbare öffentliche Leistung, soweit ein Antrag notwendig ist, bis zum 7. März 2017 beantragt worden ist.
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-
-## Anlage – (zu § 1)
+# Anlage – (zu § 1)
 
 Im nachstehenden Gebührenverzeichnis bedeuten:
 

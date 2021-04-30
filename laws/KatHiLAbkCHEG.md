@@ -1,15 +1,11 @@
-# [KatHiLAbkCHEG] Gesetz zu dem Abkommen vom 28. November 1984 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
-
-Ausfertigungsdatum: 22.01.1987
-
+% Gesetz zu dem Abkommen vom 28. November 1984 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
+% Ausfertigungsdatum: 22.01.1987
  
-
-## Art 1
+# Art 1
 
 Dem in Bern am 28. November 1984 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Aufwendungen, die auf seiten der Bundesrepublik Deutschland bei Hilfeleistungen in der Schweiz entstehen, trägt
 
@@ -21,13 +17,11 @@ Dem in Bern am 28. November 1984 unterzeichneten Abkommen zwischen der Bundesrep
 
 (3) Bei Aufwendungen, die auf seiten der Bundesrepublik Deutschland in den Fällen des Artikels 10 Abs. 3 entstehen, richtet sich die Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

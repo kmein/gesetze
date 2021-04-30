@@ -1,10 +1,7 @@
-# [BBVLG 1975] Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit
-
-Ausfertigungsdatum: 23.05.1975
-
+% Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit
+% Ausfertigungsdatum: 23.05.1975
  
-
-## § 1
+# § 1
 
 (1) Vermögenswirksame Leistungen nach dem Fünften Vermögensbildungsgesetz erhalten
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 23.05.1975
 
 (3) Der Anspruch auf die vermögenswirksamen Leistungen entsteht frühestens für den Kalendermonat, in dem der Berechtigte die nach § 4 Abs. 1 erforderlichen Angaben mitteilt, und für die beiden vorangegangenen Monate desselben Kalenderjahres.
 
-
-## § 2
+# § 2
 
 (1) Die vermögenswirksame Leistung beträgt 6,65 Euro. Teilzeitbeschäftigte erhalten den Betrag, der dem Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht; bei begrenzter Dienstfähigkeit nach bundes- oder landesrechtlicher Regelung gilt Entsprechendes.
 
@@ -29,8 +25,7 @@ Ausfertigungsdatum: 23.05.1975
 
 (4) Die vermögenswirksame Leistung ist bis zum Ablauf der auf den Monat der Mitteilung nach § 4 Abs. 1 folgenden drei Kalendermonate, danach monatlich im Voraus zu zahlen.
 
-
-## § 3
+# § 3
 
 (1) Die vermögenswirksame Leistung wird dem Berechtigten im Kalendermonat nur einmal gewährt.
 
@@ -40,8 +35,7 @@ Ausfertigungsdatum: 23.05.1975
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für vermögenswirksame Leistungen aus einem anderen Rechtsverhältnis, auch wenn die Regelungen im Einzelnen nicht übereinstimmen.
 
-
-## § 4
+# § 4
 
 (1) Der Berechtigte teilt seiner Dienststelle oder der nach Landesrecht bestimmten Stelle schriftlich oder elektronisch die Art der gewählten Anlage mit und gibt hierbei, soweit dies nach der Art der Anlage erforderlich ist, das Unternehmen oder Institut mit der Nummer des Kontos an, auf das die Leistung eingezahlt werden soll.
 
@@ -49,17 +43,14 @@ Ausfertigungsdatum: 23.05.1975
 
 (3) Der Wechsel der Anlage bedarf im Falle des § 11 Abs. 3 Satz 2 des Fünften Vermögensbildungsgesetzes nicht der Zustimmung der zuständigen Stelle, wenn der Berechtigte diesen Wechsel aus Anlass der erstmaligen Gewährung der vermögenswirksamen Leistung verlangt.
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6
+# § 6
 
 Dieses Gesetz gilt nicht für die öffentlich-rechtlichen Religionsgesellschaften und ihre Verbände.
 
-
-## § 7
+# § 7
 
 (weggefallen)

@@ -1,10 +1,7 @@
-# [NpSG] Neue-psychoaktive-Stoffe-Gesetz  (NpSG)
-
-Ausfertigungsdatum: 21.11.2016
-
+% Neue-psychoaktive-Stoffe-Gesetz  (NpSG)
+% Ausfertigungsdatum: 21.11.2016
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz ist anzuwenden auf neue psychoaktive Stoffe im Sinne des § 2 Nummer 1.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 21.11.2016
 
 2. Arzneimittel im Sinne des § 2 Absatz 1, 2, 3a und 4 Satz 1 des Arzneimittelgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -27,8 +23,7 @@ Im Sinne dieses Gesetzes ist
 
 4. Inverkehrbringen das Vorrätighalten zum Verkauf oder zu sonstiger Abgabe sowie das Feilhalten, das Feilbieten, die Abgabe und das Überlassen zum unmittelbaren Verbrauch an andere.
 
-
-## § 3 – Unerlaubter Umgang mit neuen psychoaktiven Stoffen
+# § 3 – Unerlaubter Umgang mit neuen psychoaktiven Stoffen
 
 (1) Es ist verboten, mit einem neuen psychoaktiven Stoff Handel zu treiben, ihn in den Verkehr zu bringen, ihn herzustellen, ihn in den, aus dem oder durch den Geltungsbereich dieses Gesetzes zu verbringen, ihn zu erwerben, ihn zu besitzen oder ihn einem anderen zu verabreichen.
 
@@ -42,8 +37,7 @@ Im Sinne dieses Gesetzes ist
 
 (4) Unbeschadet des Absatzes 3 können die Zollbehörden im Rahmen ihrer Aufgabenwahrnehmung nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um neue psychoaktive Stoffe handelt, die entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden sind oder verbracht werden sollen, sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
-
-## § 4 – Strafvorschriften
+# § 4 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer entgegen § 3 Absatz 1
 
@@ -77,23 +71,19 @@ b) einen anderen der Gefahr des Todes oder einer schweren Schädigung an Körper
 
 (6) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1 fahrlässig, ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 5 – Einziehung
+# § 5 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 4 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches ist anzuwenden.
 
-
-## § 6 – Datenübermittlung
+# § 6 – Datenübermittlung
 
 Das Zollkriminalamt darf zu Straftaten nach § 4 Informationen, einschließlich personenbezogener Daten nach der aufgrund des § 7 Absatz 11 des Bundeskriminalamtgesetzes erlassenen Rechtsverordnung, dem Bundeskriminalamt zur Erfüllung von dessen Aufgaben als Zentralstelle übermitteln, soweit Zwecke des Strafverfahrens dem nicht entgegenstehen. Übermittlungen nach Satz 1 sind auch zulässig, sofern sie Daten betreffen, die dem Steuergeheimnis nach § 30 der Abgabenordnung unterliegen. Übermittlungsbefugnisse nach anderen Rechtsvorschriften bleiben unberührt.
 
-
-## § 7 – Verordnungsermächtigung
+# § 7 – Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat, mit dem Bundesministerium der Justiz und für Verbraucherschutz und mit dem Bundesministerium der Finanzen und nach Anhörung von Sachverständigen die Liste der Stoffgruppen in der Anlage zu ändern, wenn dies nach wissenschaftlicher Erkenntnis wegen der Wirkungsweise von psychoaktiv wirksamen Stoffen, wegen des Ausmaßes ihrer missbräuchlichen Verwendung und wegen der unmittelbaren oder mittelbaren Gefährdung der Gesundheit erforderlich ist.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2019, 1085 - 1094)
 
@@ -104,7 +94,7 @@ Von 2-Phenethylamin abgeleitete Verbindungen
 
 Eine von 2-Phenethylamin abgeleitete Verbindung ist jede chemische Verbindung, die von einer 2-Phenylethan-1-amin-Grundstruktur abgeleitet werden kann (ausgenommen 2-Phenethylamin selbst), eine maximale Molekülmasse von 500 u hat und dem nachfolgend beschriebenen modularen Aufbau aus Strukturelement A und Strukturelement B entspricht.
 
-![](../normengrafiken/bgbl1_2019/j1083-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0010.jpg)
 
 1.1  
 Strukturelement A
@@ -116,7 +106,7 @@ Phenyl-, Naphthyl-, Tetralinyl-, Methylendioxyphenyl-, Ethylendioxyphenyl-, Fury
   
   
 
-![](../normengrafiken/bgbl1_2019/j1083-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0030.jpg)
 
 1.2  
 Strukturelement B
@@ -156,7 +146,7 @@ Die Abbildung verdeutlicht den modularen Aufbau am Beispiel des 1-Fluor-JWH-018:
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0210.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0210.jpg) |
 
   
   
@@ -244,35 +234,35 @@ a) 1,4-Benzodiazepine
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0350.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0360.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0370.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0350.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0360.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0370.jpg) |
 
 b) 1,5-Benzodiazepine
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0380.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0390.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0400.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0380.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0390.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0400.jpg) |
 
 c) Loprazolam-Abkömmlinge
 
-![](../normengrafiken/bgbl1_2019/j1083-1_0410.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0410.jpg)
 
 d) Ketazolam-Abkömmlinge
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0420.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0430.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0440.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0420.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0430.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0440.jpg) |
 
 e) Oxazolam-Abkömmlinge
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0450.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0460.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0470.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0450.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0460.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0470.jpg) |
 
 f) Chlordiazepoxid-Abkömmlinge
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0480.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0490.jpg) | ![](../normengrafiken/bgbl1_2019/j1083-1_0500.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0480.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0490.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0500.jpg) |
 
 3.2  
 Reste R<sub>1</sub> bis R<sub>7</sub> und X
@@ -326,7 +316,7 @@ Eine von N-(2-Aminocyclohexyl)amid abgeleitete Verbindung ist jede chemische Ver
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0510.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0510.jpg) |
 
 Die Grundstruktur N-(2-Aminocyclohexyl)amid kann an den in der Abbildung gekennzeichneten Positionen mit einer beliebigen Kombination der folgenden Atome, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>6</sub>) substituiert sein:
 
@@ -362,7 +352,7 @@ Eine von Indol-3-alkylamin abgeleitete Verbindung ist jede chemische Verbindung,
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0520.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0520.jpg) |
 
 Die Grundstruktur Indol-3-alkylamin kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>5</sub> und R<sub>n</sub>) substituiert sein:
 
@@ -397,7 +387,7 @@ Eine von Δ9,10</sup>-Ergolen abgeleitete Verbindung ist jede chemische Verbindu
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j1083-1_0530.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j1083-1_0530.jpg) |
 
 Die Grundstruktur Δ9,10</sup>-Ergolen kann an den in der Abbildung gekennzeichneten Positionen mit den folgenden Atomen, verzweigten oder nicht verzweigten Atomgruppen oder Ringsystemen (Reste R<sub>1</sub> bis R<sub>4</sub>) substituiert sein:
 

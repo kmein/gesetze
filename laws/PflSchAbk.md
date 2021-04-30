@@ -1,5 +1,3 @@
-# [PflSchAbk] Internationales Pflanzenschutzabkommen
-
-Ausfertigungsdatum: 06.12.1951
-
+% Internationales Pflanzenschutzabkommen
+% Ausfertigungsdatum: 06.12.1951
  

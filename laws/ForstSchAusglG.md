@@ -1,10 +1,7 @@
-# [ForstSchAusglG] Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft  (Forstschäden-Ausgleichsgesetz)
-
-Ausfertigungsdatum: 29.08.1969
-
+% Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft  (Forstschäden-Ausgleichsgesetz)
+% Ausfertigungsdatum: 29.08.1969
  
-
-## § 1 – Beschränkung des ordentlichen Holzeinschlags
+# § 1 – Beschränkung des ordentlichen Holzeinschlags
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates den ordentlichen Holzeinschlag der Forstwirtschaft für einzelne Holzartengruppen (Fichte, Kiefer, Buche, Eiche) oder Holzsorten zu beschränken, wenn und soweit dies erforderlich ist, um erhebliche und überregionale Störungen des Rohholzmarktes durch außerordentliche Holznutzungen zu vermeiden, die infolge eines oder mehrerer besonderer Schadensereignisse, insbesondere Windwurf und Windbruch, Schnee- und Eisbruch, Pilzbefall, Insektenfraß oder sonstige Schädigungen auch unbekannter Ursache (Kalamitätsnutzungen), erforderlich werden.
 
@@ -22,13 +19,11 @@ b) im Bundesgebiet bei allen Holzartengruppen voraussichtlich mindestens 20 vom 
 
 (5) Forstwirte, die nicht zur Buchführung verpflichtet sind, können in der Rechtsverordnung von der Einschlagsbeschränkung ausgenommen werden, wenn das Holzaufkommen dieser Betriebe die Marktstörung nur unerheblich beeinflußt. Die zuständige Landesbehörde kann auf Antrag einzelne Forstbetriebe von der Einschlagsbeschränkung befreien, wenn diese zu einer wirtschaftlich unbilligen Härte führen würde.
 
-
-## § 2 – Beschränkung der Holzeinfuhr
+# § 2 – Beschränkung der Holzeinfuhr
 
 Die Einfuhr von Holz und Holzerzeugnissen der ersten Bearbeitungsstufe kann, soweit es mit dem Recht der Europäischen Wirtschaftsgemeinschaft vereinbar ist, auf Grund des Außenwirtschaftsgesetzes auch zur Wahrnehmung der durch § 1 Abs. 1 geschützten Belange beschränkt werden, wenn der Erfolg einer Einschlagsbeschränkung ohne die Einfuhrbeschränkung erheblich gefährdet würde und eine solche Gefährdung im Interesse der Allgemeinheit abgewendet werden muß oder wenn nach einem bundesweiten Großschaden eine Einschlagsbeschränkung angesichts der Schwere der Störung auf dem Rohholzmarkt wirkungslos wäre.
 
-
-## § 3 – Steuerfreie Rücklage für die Bildung eines betrieblichen Ausgleichsfonds
+# § 3 – Steuerfreie Rücklage für die Bildung eines betrieblichen Ausgleichsfonds
 
 (1) Steuerpflichtige, die Einkünfte aus dem Betrieb von Forstwirtschaft im Sinne des § 13 des Einkommensteuergesetzes beziehen und bei denen der nach § 4 Abs. 1 des Einkommensteuergesetzes ermittelte Gewinn der Besteuerung zugrunde gelegt wird, können unter den Voraussetzungen des Absatzes 2 eine den steuerlichen Gewinn mindernde Rücklage bilden. Satz 1 gilt entsprechend für natürliche Personen, Körperschaften, Personenvereinigungen und Vermögensmassen, bei denen Einkünfte aus dem Betrieb von Forstwirtschaft steuerlich als Einkünfte aus Gewerbebetrieb zu behandeln sind. Die Rücklage darf 100 vom Hundert, die jährliche Zuführung zur Rücklage 25 vom Hundert der im Durchschnitt der vorangegangenen drei Wirtschaftsjahre erzielten nutzungssatzmäßigen Einnahmen nicht übersteigen. Sinkt in den Folgejahren die nutzungssatzmäßige Einnahme ab, so bleibt dies ohne Wirkung auf die zulässige Höhe einer bereits gebildeten Rücklage.
 
@@ -50,32 +45,27 @@ Die Einfuhr von Holz und Holzerzeugnissen der ersten Bearbeitungsstufe kann, sow
 
 (5) Die Rücklage nach Absatz 1 ist bei der Berechnung der in § 141 Abs. 1 Nr. 5 der Abgabenordnung bezeichneten Grenze nicht zu berücksichtigen.
 
-
-## § 4 – Pauschsatz für Betriebsausgaben
+# § 4 – Pauschsatz für Betriebsausgaben
 
 (1) Steuerpflichtige, die für ihren Betrieb nicht zur Buchführung verpflichtet sind und ihren Gewinn nicht nach § 4 Absatz 1, § 5 des Einkommensteuergesetzes ermitteln, können im Wirtschaftsjahr einer Einschlagsbeschränkung nach § 1 zur Abgeltung der Betriebsausgaben pauschal 90 Prozent der Einnahmen aus der Verwertung des eingeschlagenen Holzes abziehen. Soweit Holz auf dem Stamm verkauft wird, betragen die pauschalen Betriebsausgaben 65 Prozent der Einnahmen aus der Verwertung des stehenden Holzes.
 
 (2) Absatz 1 gilt auch, wenn diese Forstwirte nach § 1 Abs. 5 von der Einschlagsbeschränkung ausgenommen sind, jedoch freiwillig die Einschlagsbeschränkung befolgen.
 
-
-## § 4a – Bewertung von Holzvorräten aus Kalamitätsnutzungen bei der Forstwirtschaft
+# § 4a – Bewertung von Holzvorräten aus Kalamitätsnutzungen bei der Forstwirtschaft
 
 Steuerpflichtige mit Einkünften aus Forstwirtschaft, bei denen der nach § 4 Absatz 1, § 5 des Einkommensteuergesetzes ermittelte Gewinn der Besteuerung zugrunde gelegt wird, können im Falle einer Einschlagsbeschränkung nach § 1 von einer Aktivierung des eingeschlagenen und unverkauften Kalamitätsholzes ganz oder teilweise absehen.
 
-
-## § 5 – Sonstige steuerliche Maßnahmen
+# § 5 – Sonstige steuerliche Maßnahmen
 
 (1) Im Wirtschaftsjahr einer Einschlagsbeschränkung nach § 1 gilt für jegliche Kalamitätsnutzung einheitlich der Steuersatz nach § 34b Absatz 3 Nummer 2 des Einkommensteuergesetzes.
 
 (2) Kalamitätsnutzungen, die in Folgejahren gezogen werden und im ursächlichen Zusammenhang mit einer Kalamitätsnutzung stehen, welche in der Zeit einer Einschlagsbeschränkung angefallen ist, können einkommensteuerlich so behandelt werden, als wären sie im Jahr der Einschlagsbeschränkung mit der ersten Mitteilung des Schadensfalles angefallen.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7 – Übervorräte bei der Holzwirtschaft
+# § 7 – Übervorräte bei der Holzwirtschaft
 
 (1) Steuerpflichtige, die den Gewinn nach § 5 des Einkommensteuergesetzes ermitteln, können den Mehrbestand an
 
@@ -89,13 +79,11 @@ an Bilanzstichtagen, die in einen Zeitraum fallen, für den eine Einschlagsbesch
 
 (2) Mehrbestand ist die mengenmäßige Erhöhung der Bestände an Holz oder Holzwaren im Sinne des Absatzes 1 gegenüber den durchschnittlichen Beständen an diesen Waren an den letzten drei vorangegangenen Bilanzstichtagen, die nach Abzug etwaiger bei diesen Wirtschaftsgütern eingetretener mengenmäßiger Bestandsminderungen verbleibt. Die mengenmäßigen Bestandsänderungen an Bilanzstichtagen gegenüber den durchschnittlichen Beständen an den letzten drei vorangegangenen Bilanzstichtagen sind dabei für die in Absatz 1 Satz 1 Nr. 1, 2 und 3 genannten Wirtschaftsgüter getrennt zu ermitteln. Der Abzug der Bestandsminderungen ist in der Weise durchzuführen, daß bei den Bestandserhöhungen die Mengen abzusetzen sind, die dem Wert der Bestandsminderungen entsprechen; dabei sind die Wirtschaftsgüter mit dem Wiederbeschaffungspreis am Bilanzstichtag zu bewerten.
 
-
-## § 8
+# § 8
 
 (weggefallen)
 
-
-## § 9 – Durchführungsvorschriften
+# § 9 – Durchführungsvorschriften
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu überwachen.
 
@@ -105,13 +93,11 @@ an Bilanzstichtagen, die in einen Zeitraum fallen, für den eine Einschlagsbesch
 
 (4) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 10
+# § 10
 
 (weggefallen)
 
-
-## § 11 – Bußgeldvorschriften
+# § 11 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -121,17 +107,14 @@ an Bilanzstichtagen, die in einen Zeitraum fallen, für den eine Einschlagsbesch
 
 (2) Die Ordnungswidrigkeit kann im Falle des Absatzes 1 Nr. 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, im Falle des Absatzes 1 Nr. 2 mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## § 11a – Übergangsvorschrift
+# § 11a – Übergangsvorschrift
 
 Die §§ 3 bis 7 sind in ihrer vom 1. September 1985 an geltenden Fassung erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 1984 enden.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13 – (Inkrafttreten)
+# § 13 – (Inkrafttreten)
 
 \-

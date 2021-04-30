@@ -1,15 +1,11 @@
-# [GPV] Verordnung über die Zulassung privater Gegenprobensachverständiger und über Regelungen für amtliche Gegenproben  (Gegenproben-Verordnung - GPV)
-
-Ausfertigungsdatum: 11.08.2009
-
+% Verordnung über die Zulassung privater Gegenprobensachverständiger und über Regelungen für amtliche Gegenproben  (Gegenproben-Verordnung - GPV)
+% Ausfertigungsdatum: 11.08.2009
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Zur Untersuchung von in § 43 Absatz 1 Satz 2 des Lebensmittel- und Futtermittelgesetzbuches bezeichneten Gegen- oder Zweitproben, ausgenommen Futtermittel, sind nur solche private Sachverständige befugt, die für diese Tätigkeit durch die zuständigen Behörden des Landes, in dem sie ihren Hauptsitz haben, durch eine Entscheidung nach § 3 Absatz 6 zugelassen sind.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Als Gegenprobensachverständige dürfen nur zugelassen werden
 
@@ -41,8 +37,7 @@ Für Personen aus einem Niederlassungsstaat, die in Deutschland den Beruf des Ge
 
 3. bei denen Interessenkollisionen bei der Durchführung ihrer Tätigkeit als Gegenprobensachverständige zu erwarten sind, insbesondere wenn sie in einem Beschäftigungsverhältnis oder in wirtschaftlicher Abhängigkeit zu einem Unternehmen stehen, das Erzeugnisse herstellt, behandelt oder in Verkehr bringt, die in das beantragte Untersuchungsgebiet fallen.
 
-
-## § 3 – Zulassungsverfahren
+# § 3 – Zulassungsverfahren
 
 (1) Der Antrag auf Zulassung ist schriftlich oder elektronisch bei der zuständigen Behörde zu stellen. In dem Antrag ist anzugeben, für welches Untersuchungsgebiet die Zulassung beantragt wird.
 
@@ -70,8 +65,7 @@ Ferner sind die Anschrift des Hauptsitzes der oder des Gegenprobensachverständi
 
 (7) Der Zulassungsinhaber hat der zuständigen Behörde Änderungen, die seine Zulassung betreffen, unverzüglich mitzuteilen. Für die Verwaltungszusammenarbeit ist Artikel 8 in Verbindung mit Artikel 56 der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22) in der jeweils geltenden Fassung anzuwenden.
 
-
-## § 4 – Anzeigeverfahren
+# § 4 – Anzeigeverfahren
 
 (1) Personen nach § 2 Absatz 2 Satz 2 müssen der zuständigen Behörde die Tätigkeit als Gegenprobensachverständiger vor dem erstmaligen Tätigwerden schriftlich oder elektronisch anzeigen und der Anzeige folgende Unterlagen im Original, in schriftlich oder elektronisch beglaubigter Kopie oder, sofern die zuständige Behörde dies zur sachgerechten Bearbeitung der Anzeige als erforderlich ansieht, in beglaubigter Übersetzung beifügen:
 
@@ -89,8 +83,7 @@ Ferner sind die Anschrift des Hauptsitzes der oder des Gegenprobensachverständi
 
 (4) Der Anzeigende hat der zuständigen Behörde wesentliche Änderungen, die seine Anzeige betreffen, unverzüglich mitzuteilen. § 3 Absatz 5 und 7 Satz 2 gilt entsprechend.
 
-
-## § 5 – Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung von Gegenprobensachverständigen
+# § 5 – Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung von Gegenprobensachverständigen
 
 (1) Prüflaboratorien, in denen Gegenproben oder Zweitproben untersucht werden sollen, müssen die Anforderungen nach Artikel 37 Absatz 4 Buchstabe e in Verbindung mit Absatz 5 der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 48 vom 21.2.2018, S. 44; L 322 vom 18.12.2018, S. 85) in der jeweils geltenden Fassung erfüllen. Satz 1 gilt auch für Prüflaboratorien, die nur einzelne Untersuchungen im Auftrag der oder des Gegenprobensachverständigen ausführen. Für die Akkreditierung der Prüflaboratorien ist die Akkreditierungsstelle im Sinne des § 1 Absatz 1 Satz 1 des Akkreditierungsstellengesetzes zuständig.
 
@@ -100,13 +93,11 @@ Ferner sind die Anschrift des Hauptsitzes der oder des Gegenprobensachverständi
 
 2. die Akkreditierung sich auf die Erfüllung der Anforderungen nach Artikel 37 Absatz 4 Buchstabe e der Verordnung (EU) 2017/625 bezieht.
 
-
-## § 6 – Bestehende Zulassungen
+# § 6 – Bestehende Zulassungen
 
 Private Sachverständige, die vor dem 20. August 2009 über eine Zulassung für die Untersuchung von Gegen- oder Zweitproben verfügen, dürfen Untersuchungen bis zum Ablauf des 30. September 2010 auf Grundlage der bestehenden Zulassung weiter durchführen.
 
-
-## § 7 – Unterrichtung des Herstellers über die Zurücklassung von amtlich entnommenen Proben
+# § 7 – Unterrichtung des Herstellers über die Zurücklassung von amtlich entnommenen Proben
 
 (1) Die zuständige Behörde hat, sofern eine Probe eines Lebensmittels, kosmetischen Mittels oder Bedarfsgegenstandes nach § 43 Absatz 1 Satz 2 des Lebensmittel- und Futtermittelgesetzbuches bei demjenigen zurückgelassen worden ist, der nicht der Hersteller ist, den
 
@@ -126,8 +117,7 @@ soweit dieser seinen Sitz in einem Mitgliedstaat der Europäischen Union oder in
 
 (3) Die zuständige Behörde hat dem Hersteller auf Nachfrage Auskunft über die Zielrichtung der Untersuchung zu erteilen.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
@@ -137,8 +127,7 @@ Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe b des Lebensmitte
 
 3. entgegen § 7 Absatz 2 Satz 2, auch in Verbindung mit Satz 3, einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt oder aufbewahrt.
 
-
-## Anlage 1 – (zu § 2 Absatz 1)Anforderungen an die fachgerechte Untersuchung und Beurteilung von Gegen- oder Zweitproben
+# Anlage 1 – (zu § 2 Absatz 1)Anforderungen an die fachgerechte Untersuchung und Beurteilung von Gegen- oder Zweitproben
 
 1. Prüfung der Unverletztheit des amtlichen Siegels und der Veränderungen der Gegen- oder Zweitprobe bzw. ihrer Verpackung,
 
@@ -172,15 +161,11 @@ h) Erklärung zur Übernahme der fachlichen Gesamtverantwortung für das Gutacht
 
 8. Teilnahme an Fortbildungsveranstaltungen, um die erworbenen Kenntnisse zu erweitern und auf dem neuesten Stand zu halten; die Teilnahmenachweise sind fünf Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
+# Anlage 2 – (weggefallen)
 
-## Anlage 2 – (weggefallen)
+# Anlage 3 – (zu § 3 Absatz 5)Verpflichtungserklärung
 
-
-## Anlage 3 – (zu § 3 Absatz 5)Verpflichtungserklärung
-
-Herr/Frau ................  
-geb. am: ................ in: ................  
-verpflichtet sich hiermit
+Herr/Frau ................ geb. am: ................ in: ................ verpflichtet sich hiermit
 
 –  
 zu einer unparteiischen Durchführung der Gegen- oder Zweitprobenuntersuchung,

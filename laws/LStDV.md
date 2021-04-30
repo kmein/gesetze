@@ -1,10 +1,7 @@
-# [LStDV] Lohnsteuer-Durchführungsverordnung
-
-Ausfertigungsdatum: 16.06.1949
-
+% Lohnsteuer-Durchführungsverordnung
+% Ausfertigungsdatum: 16.06.1949
  
-
-## § 1 – Arbeitnehmer, Arbeitgeber
+# § 1 – Arbeitnehmer, Arbeitgeber
 
 (1) Arbeitnehmer sind Personen, die in öffentlichem oder privatem Dienst angestellt oder beschäftigt sind oder waren und die aus diesem Dienstverhältnis oder einem früheren Dienstverhältnis Arbeitslohn beziehen. Arbeitnehmer sind auch die Rechtsnachfolger dieser Personen, soweit sie Arbeitslohn aus dem früheren Dienstverhältnis ihres Rechtsvorgängers beziehen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 16.06.1949
 
 (3) Arbeitnehmer ist nicht, wer Lieferungen und sonstige Leistungen innerhalb der von ihm selbständig ausgeübten gewerblichen oder beruflichen Tätigkeit im Inland gegen Entgelt ausführt, soweit es sich um die Entgelte für diese Lieferungen und sonstigen Leistungen handelt.
 
-
-## § 2 – Arbeitslohn
+# § 2 – Arbeitslohn
 
 (1) Arbeitslohn sind alle Einnahmen, die dem Arbeitnehmer aus dem Dienstverhältnis zufließen. Es ist unerheblich, unter welcher Bezeichnung oder in welcher Form die Einnahmen gewährt werden.
 
@@ -35,13 +31,11 @@ Ausfertigungsdatum: 16.06.1949
 
 8. Entschädigungen für Nebenämter und Nebenbeschäftigungen im Rahmen eines Dienstverhältnisses.
 
-
-## § 3
+# § 3
 
 (weggefallen)
 
-
-## § 4 – Lohnkonto
+# § 4 – Lohnkonto
 
 (1) Der Arbeitgeber hat im Lohnkonto des Arbeitnehmers Folgendes aufzuzeichnen:
 
@@ -79,8 +73,7 @@ Ausfertigungsdatum: 16.06.1949
 
 (+++ § 4 Abs. 2a: Zur Anwendung vgl. § 8 Abs. 3 +++)
 
-
-## § 5 – Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
+# § 5 – Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
 
 (1) Der Arbeitgeber hat bei der Durchführung einer kapitalgedeckten betrieblichen Altersversorgung über eine Pensionskasse oder eine Direktversicherung im Fall des § 52 Absatz 40 des Einkommensteuergesetzes aufzuzeichnen, dass vor dem 1. Januar 2018 mindestens ein Beitrag nach § 40b Absatz 1 und 2 des Einkommensteuergesetzes in einer vor dem 1. Januar 2005 geltenden Fassung pauschal besteuert wurde.
 
@@ -96,18 +89,15 @@ Beiträge mitzuteilen. Ferner hat der Arbeitgeber oder die Unterstützungskasse 
 
 (3) Eine Mitteilung nach Absatz 2 kann unterbleiben, wenn die Versorgungseinrichtung die steuerliche Behandlung der für den einzelnen Arbeitnehmer im Kalenderjahr geleisteten Beiträge bereits kennt oder aus den bei ihr vorhandenen Daten feststellen kann, und dieser Umstand dem Arbeitgeber mitgeteilt worden ist. Unterbleibt die Mitteilung des Arbeitgebers, ohne dass ihm eine entsprechende Mitteilung der Versorgungseinrichtung vorliegt, so hat die Versorgungseinrichtung davon auszugehen, dass es sich insgesamt bis zu den in § 3 Nr. 56 oder 63 des Einkommensteuergesetzes genannten Höchstbeträgen um steuerbegünstigte Beiträge handelt, die in der Auszahlungsphase als Leistungen im Sinne von § 22 Nr. 5 Satz 1 des Einkommensteuergesetzes zu besteuern sind.
 
-
-## § 6
-
-(aufgehoben)
-
-
-## § 7
+# § 6
 
 (aufgehoben)
 
+# § 7
 
-## § 8 – Anwendungszeitraum
+(aufgehoben)
+
+# § 8 – Anwendungszeitraum
 
 (1) Die Vorschriften dieser Verordnung in der Fassung des Artikels 2 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) sind erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach dem 31. Dezember 2006 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 2006 zufließen.
 

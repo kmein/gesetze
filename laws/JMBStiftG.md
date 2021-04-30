@@ -1,15 +1,11 @@
-# [JMBStiftG] Gesetz zur Errichtung einer "Stiftung Jüdisches Museum Berlin"
-
-Ausfertigungsdatum: 16.08.2001
-
+% Gesetz zur Errichtung einer "Stiftung Jüdisches Museum Berlin"
+% Ausfertigungsdatum: 16.08.2001
  
-
-## § 1 – Name, Sitz und Rechtsform der Stiftung
+# § 1 – Name, Sitz und Rechtsform der Stiftung
 
 Unter dem Namen "Stiftung Jüdisches Museum Berlin" wird mit Sitz in Berlin eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
-
-## § 2 – Zweck der Stiftung
+# § 2 – Zweck der Stiftung
 
 (1) Zweck der Stiftung ist es, jüdisches Leben in Berlin und in Deutschland, die von hier ausgehenden Einflüsse auf das europäische und das außereuropäische Ausland sowie die Wechselbeziehungen zwischen jüdischer und nichtjüdischer Kultur zu erforschen und darzustellen sowie einen Ort der Begegnung zu schaffen.
 
@@ -31,8 +27,7 @@ Unter dem Namen "Stiftung Jüdisches Museum Berlin" wird mit Sitz in Berlin eine
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-
-## § 3 – Stiftungsvermögen
+# § 3 – Stiftungsvermögen
 
 (1) Auf die Stiftung gehen mit Inkrafttreten dieses Gesetzes in vollem Umfang Eigentum, Besitz, Forderungen und Rechte der bisherigen landesunmittelbaren "Stiftung Jüdisches Museum Berlin" über, wenn und sobald ein Gesetz des Landes Berlin die Auflösung der Landesstiftung und diesen Vermögensanfall feststellt.
 
@@ -44,13 +39,11 @@ Unter dem Namen "Stiftung Jüdisches Museum Berlin" wird mit Sitz in Berlin eine
 
 (5) Erträge des Stiftungsvermögens und sonstige Einnahmen sind nur im Sinne des Stiftungszwecks zu verwenden.
 
-
-## § 4 – Satzung
+# § 4 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit einer Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der Genehmigung der auf Bundesebene für die Kultur zuständigen obersten Bundesbehörde bedarf. Das Gleiche gilt für Änderungen der Satzung.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -60,8 +53,7 @@ Organe der Stiftung sind
 
 3. der Beirat.
 
-
-## § 6 – Stiftungsrat
+# § 6 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus sieben, vom Bundespräsidenten für eine Amtszeit von fünf Jahren berufenen Mitgliedern:
 
@@ -89,8 +81,7 @@ Organe der Stiftung sind
 
 (8) Das Nähere regelt die Satzung.
 
-
-## § 7 – Verfahren des Stiftungsrates
+# § 7 – Verfahren des Stiftungsrates
 
 (1) Der Stiftungsrat entscheidet in der Regel in Sitzungen, die der oder die Vorsitzende nach Bedarf, jedoch mindestens zweimal im Jahr einberuft. Auf Antrag von mindestens der Hälfte der Mitglieder muss der oder die Vorsitzende eine Sitzung einberufen.
 
@@ -98,15 +89,13 @@ Organe der Stiftung sind
 
 (3) Der Stiftungsrat fasst seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich an einer schriftlichen oder elektronischen Abstimmung beteiligenden Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den Ausschlag. Haushaltsangelegenheiten dürfen nicht gegen die Stimmen der Vertreter und Vertreterinnen des Bundes entschieden werden. Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder anwesend oder vertreten ist. Eine Beschlussfassung im schriftlichen oder elektronischen Umlaufverfahren ist zulässig, wenn alle Stiftungsratsmitglieder sich mit diesem Verfahren schriftlich oder elektronisch einverstanden erklärt haben und sich mindestens zwei Drittel der Mitglieder an der Abstimmung beteiligen.
 
-
-## § 8 – Direktor/Direktorin
+# § 8 – Direktor/Direktorin
 
 (1) Der Direktor oder die Direktorin wird vom Stiftungsrat nach Anhörung des Beirates berufen. Die Berufung ist nur mit den Stimmen der Vertreter und der Vertreterinnen des Bundes im Stiftungsrat möglich. Die Vertretung des Direktors oder der Direktorin regelt die Satzung.
 
 (2) Der Direktor oder die Direktorin führt die Geschäfte der Stiftung. Er oder sie entscheidet in allen Angelegenheiten der Stiftung, soweit dafür nicht der Stiftungsrat zuständig ist. Er oder sie vertritt die Stiftung gerichtlich und außergerichtlich.
 
-
-## § 9 – Beirat
+# § 9 – Beirat
 
 (1) Der Beirat hat mindestens fünf und höchstens 15 Mitglieder. Sie werden vom Stiftungsrat für fünf Jahre berufen, nachdem dieser Vorschläge des Direktors oder der Direktorin eingeholt hat. Erneute Berufung ist zulässig. Nach Maßgabe der Satzung können stellvertretende Mitglieder berufen werden. § 6 Abs. 5 gilt entsprechend.
 
@@ -116,18 +105,15 @@ Organe der Stiftung sind
 
 (4) Das Nähere regelt die Satzung.
 
-
-## § 10 – Ehrenamtliche Tätigkeit
+# § 10 – Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Stiftungsrates und des Beirates üben ihre Tätigkeit unentgeltlich aus. Die Erstattung von Reisekosten und sonstigen Auslagen richten sich nach den Bestimmungen, die für die unmittelbare Bundesverwaltung gelten.
 
-
-## § 11 – Aufsicht, Haushalt, Rechnungsprüfung
+# § 11 – Aufsicht, Haushalt, Rechnungsprüfung
 
 Die Stiftung untersteht der Rechtsaufsicht der auf Bundesebene für die Kultur zuständigen obersten Bundesbehörde. Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung werden die Bestimmungen entsprechend angewandt, die für die unmittelbare Bundesverwaltung gelten. Die Haushalts- und die Wirtschaftsführung der Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
 
-
-## § 12 – Beschäftigte
+# § 12 – Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer und Arbeitnehmerinnen (Angestellte und Arbeiter) wahrgenommen. Auf diese sind die für Arbeitnehmer und Arbeitnehmerinnen des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
@@ -135,23 +121,19 @@ Die Stiftung untersteht der Rechtsaufsicht der auf Bundesebene für die Kultur z
 
 (3) Die Stiftung besitzt Dienstherrenfähigkeit im Sinne des § 2 des Bundesbeamtengesetzes. Der oder die Vorsitzende des Stiftungsrates ist oberste Dienstbehörde und ernennt die Beamten und Beamtinnen der Stiftung, soweit nicht die Befugnis zur Ernennung durch die Satzung dem Direktor oder der Direktorin übertragen ist.
 
-
-## § 13 – Berichterstattung
+# § 13 – Berichterstattung
 
 Die Stiftung legt regelmäßig einen öffentlich zugänglichen Bericht über ihre bisherige Tätigkeit und ihre Vorhaben vor.
 
-
-## § 14 – Gebühren
+# § 14 – Gebühren
 
 Die Stiftung kann nach näherer Bestimmung der Satzung Gebühren und sonstige Entgelte für die Benutzung von Stiftungseinrichtungen und für Veranstaltungen erheben.
 
-
-## § 15 – Dienstsiegel
+# § 15 – Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
 
-
-## § 16 – Übernahme von Rechten und Pflichten
+# § 16 – Übernahme von Rechten und Pflichten
 
 (1) Mit ihrem Entstehen übernimmt die "Stiftung Jüdisches Museum Berlin" die Rechte und Pflichten, welche für die zum selben Zeitpunkt aufgelöste landesunmittelbare Stiftung gleichen Namens begründet worden sind.
 
@@ -159,7 +141,6 @@ Die Stiftung führt ein Dienstsiegel.
 
 (3) Für die Zeit bis zum Inkrafttreten der nach § 4 vorgesehenen Satzung findet die Verordnung des Landes Berlin über die Satzung der "Stiftung Jüdisches Museum Berlin" vom 23. Juni 1999 (GVBl. S. 359) entsprechende Anwendung.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Dieses Gesetz tritt am gleichen Tage in Kraft wie dasjenige des Landes Berlin, das die bestehende "Stiftung Jüdisches Museum Berlin" auflöst und den Vermögensanfall an die durch dieses Gesetz errichtete "Stiftung Jüdisches Museum Berlin" bestimmt. Der Beauftragte der Bundesregierung für die Angelegenheiten der Kultur und der Medien gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.

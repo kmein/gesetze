@@ -1,20 +1,15 @@
-# [VUDat-DV] Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz  (Verkehrsunternehmensdatei-Durchführungsverordnung - VUDat-DV)
-
-Ausfertigungsdatum: 21.12.2011
-
+% Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz  (Verkehrsunternehmensdatei-Durchführungsverordnung - VUDat-DV)
+% Ausfertigungsdatum: 21.12.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Absatz 7 des Güterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), der durch Artikel 1 Nummer 16 Buchstabe g des Gesetzes vom 22. November 2011 (BGBl. I S. 2272) eingefügt worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Verkehrsunternehmensdatei
+# § 1 – Verkehrsunternehmensdatei
 
 Das Bundesamt für Güterverkehr (Bundesamt) betreibt die Verkehrsunternehmensdatei nach § 15 des Güterkraftverkehrsgesetzes in Form einer Datenbank. Die Datei ist nach Maßgabe des § 2 Absatz 3 allgemein zugänglich.
 
-
-## § 2 – Zu speichernde Daten
+# § 2 – Zu speichernde Daten
 
 (1) In der Verkehrsunternehmensdatei sind folgende Daten zu speichern:
 
@@ -60,8 +55,7 @@ Das Bundesamt für Güterverkehr (Bundesamt) betreibt die Verkehrsunternehmensda
 
 8. Nummer der Erlaubnis nach § 3 des Güterkraftverkehrsgesetzes, der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1072/2009 und der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1073/2009 sowie jeweils die zuständige Erteilungsbehörde und den Gültigkeitszeitraum.
 
-
-## § 3 – Datenübermittlung durch das Bundesamt
+# § 3 – Datenübermittlung durch das Bundesamt
 
 (1) Auskünfte aus dem allgemein zugänglichen Teil der Verkehrsunternehmensdatei werden über das Internet erteilt.
 
@@ -69,15 +63,13 @@ Das Bundesamt für Güterverkehr (Bundesamt) betreibt die Verkehrsunternehmensda
 
 (3) Die Verantwortung für die Zulässigkeit des einzelnen automatisierten Abrufs nach Absatz 2 trägt der Empfänger. Das Bundesamt prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Es hat bei jedem zehnten Abruf Protokolle zu fertigen, die zumindest die bei der Durchführung der Abrufe verwendeten Daten, den Tag und die Uhrzeit der Abrufe, die abrufenden öffentlichen Stellen und die abgerufenen Daten enthalten müssen. Die nach Satz 3 protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten nach Satz 3 sind durch geeignete technische und organisatorische Maßnahmen nach § 9 des Bundesdatenschutzgesetzes gegen zweckfremde Nutzung und gegen sonstigen Missbrauch zu schützen und sechs Monate nach der Protokollierung nach Satz 3 zu löschen.
 
-
-## § 4 – Datenübermittlung an das Bundesamt
+# § 4 – Datenübermittlung an das Bundesamt
 
 (1) Die Erteilungsbehörden haben die Daten nach § 2 Absatz 1 dem Bundesamt in einer den Regelungen nach § 7 Absatz 1 entsprechenden standardisierten Form im Wege der Datenfernübertragung zu übermitteln. Zuvor haben sie durch automatisierten Abruf festzustellen, ob im Datenbestand der Verkehrsunternehmensdatei zu dem betroffenen Unternehmen bereits ein Datensatz besteht. Besteht ein solcher Datensatz, sind diesem die zu übermittelnden Daten unter Angabe der Registrierungsnummer zuzuordnen.
 
 (2) Das Bundesamt hat als speichernde Stelle die übermittelten Daten, die übermittelnde öffentliche Stelle, die für die Übermittlung verantwortliche Person und den Übermittlungszeitpunkt zu protokollieren.
 
-
-## § 5 – Auskunft an Behörden
+# § 5 – Auskunft an Behörden
 
 (1) Auf Ersuchen werden inländischen Erteilungsbehörden und zuständigen öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union für die Überprüfung der Einhaltung der Zugangsvoraussetzungen zum Beruf des Güter- und Personenkraftverkehrsunternehmers folgende gespeicherte Daten des Verkehrsleiters übermittelt:
 
@@ -89,8 +81,7 @@ Das Bundesamt für Güterverkehr (Bundesamt) betreibt die Verkehrsunternehmensda
 
 (2) Auskunftsersuchen und Auskünfte werden im Wege eines automatisierten Anfrage- und Auskunftsverfahrens übermittelt. § 3 Absatz 3 gilt entsprechend.
 
-
-## § 6 – Verantwortung für den Inhalt der Verkehrsunternehmensdatei, Datenpflege
+# § 6 – Verantwortung für den Inhalt der Verkehrsunternehmensdatei, Datenpflege
 
 (1) Die übermittelnden öffentlichen Stellen sind gegenüber dem Bundesamt für die Richtigkeit und Aktualität der von ihnen übermittelten Daten verantwortlich. Sie haben das Bundesamt unverzüglich zu unterrichten, wenn
 
@@ -106,19 +97,16 @@ Das Bundesamt für Güterverkehr (Bundesamt) betreibt die Verkehrsunternehmensda
 
 (4) Bei einem Wechsel der Zuständigkeit gelten die Absätze 1 und 3 für die Stelle entsprechend, auf die die Zuständigkeit übergegangen ist.
 
-
-## § 7 – Organisatorische und technische Leitlinien und Maßnahmen
+# § 7 – Organisatorische und technische Leitlinien und Maßnahmen
 
 (1) Das Bundesamt bestimmt im Benehmen mit den obersten Landesverkehrsbehörden sowie unter Beteiligung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit sowie des Bundesamtes für Sicherheit in der Informationstechnik in Leitlinien die organisatorischen und technischen Einzelheiten der Führung der Verkehrsunternehmensdatei, insbesondere die Kommunikation zwischen den übermittelnden Stellen und dem Bundesamt sowie den Aufbau der Datensätze und der Datenstruktur.
 
 (2) Das Bundesamt hat dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Gewährleistung von Datensicherheit und Datenschutz zu treffen, die insbesondere die Unversehrtheit der Daten und die Vertraulichkeit der im nicht allgemein zugänglichen Teil der Verkehrsunternehmensdatei gespeicherten Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Datennetze für die Datenübermittlung nach § 3 Absatz 2, § 4 Absatz 1 und § 5 Absatz 2 sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,20 +1,15 @@
-# [ÜblG 6] Gesetz zur Überleitung von Bundesrecht nach Berlin (West)  (Sechstes Überleitungsgesetz)
-
-Ausfertigungsdatum: 25.09.1990
-
+% Gesetz zur Überleitung von Bundesrecht nach Berlin (West)  (Sechstes Überleitungsgesetz)
+% Ausfertigungsdatum: 25.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Bundesrecht, das in Berlin (West) auf Grund alliierter Vorbehaltsrechte bisher nicht oder nicht in vollem Umfang gilt, gilt vom Inkrafttreten dieses Gesetzes an uneingeschränkt in Berlin (West), soweit sich aus den §§ 2 und 3 nicht etwas anderes ergibt. Entsprechendes gilt auch für bereits verkündetes, jedoch noch nicht in Kraft getretenes Bundesrecht vom Zeitpunkt des jeweils bestimmten Inkrafttretens an.
 
-
-## § 2 – Sonderregelungen
+# § 2 – Sonderregelungen
 
 (1) Das Gesetz über die Erweiterung des Katastrophenschutzes in der Fassung der Bekanntmachung vom 14. Februar 1990 (BGBl. I S. 229) tritt in Berlin (West) mit der Maßgabe in Kraft, daß Katastrophenschutzhelfer, die auf Grund der Verordnung des Berliner Senats über die Erweiterung des Katastrophenschutzes vom 25. März 1974 (GVBl. S. 683), die zuletzt durch Verordnung vom 29. November 1977 (GVBl. S. 2290) geändert worden ist, im erweiterten Katastrophenschutz mitwirken und nach Inkrafttreten des Wehrpflichtgesetzes in Berlin (West) wehrpflichtig sind, als vom Wehrdienst gemäß § 8 Abs. 2 Katastrophenschutzgesetz freigestellt gelten. Die 8-Jahresfrist gemäß § 8 Abs. 3 Katastrophenschutzgesetz beginnt mit der Annahme der Verpflichtung durch die Organisation, frühestens jedoch, nachdem der Helfer das 18. Lebensjahr vollendet hat.
 
@@ -38,8 +33,7 @@ Bundesrecht, das in Berlin (West) auf Grund alliierter Vorbehaltsrechte bisher n
 
 3. Die Erstattung der Kosten für bauliche Schallschutzmaßnahmen wird nach den bisher geltenden Vorschriften vorgenommen, wenn die Maßnahmen vor Inkrafttreten dieses Gesetzes ins Werk gesetzt worden sind.
 
-
-## § 3 – Ausnahmen
+# § 3 – Ausnahmen
 
 Folgendes Bundesrecht findet in Berlin (West) weiterhin keine Anwendung:
 
@@ -83,8 +77,7 @@ j) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten 
 
 10. Notenwechsel vom 4. Mai 1988 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über Inspektionen in bezug auf den Vertrag vom 8. Dezember 1987 zwischen den Vereinigten Staaten von Amerika und der Union der Sozialistischen Sowjetrepubliken über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite mit Verordnung vom 30. Mai 1988 (BGBl. 1988 II S. 534) - Verordnung über Inspektionen nach dem INF-Vertrag -.
 
-
-## § 4 – Außerkrafttretende Sondervorschriften
+# § 4 – Außerkrafttretende Sondervorschriften
 
 (1) Mit dem Inkrafttreten dieses Gesetzes treten außer Kraft:  
 1.
@@ -113,8 +106,7 @@ j) Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten 
 § 4 Abs. 1 Nr. 8 Kursivdruck: Betr. Landesrecht  
 § 4 Abs. 2 Satz 1 Kursivdruck: Aufhebungsvorschrift
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 (1) Dieses Gesetz tritt in dem Zeitpunkt in Kraft, in dem die alliierten Vorbehaltsrechte in bezug auf Berlin fortfallen oder suspendiert werden.
 

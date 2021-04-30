@@ -1,10 +1,7 @@
-# [BtMG] Gesetz über den Verkehr mit Betäubungsmitteln  (Betäubungsmittelgesetz - BtMG)
-
-Ausfertigungsdatum: 28.07.1981
-
+% Gesetz über den Verkehr mit Betäubungsmitteln  (Betäubungsmittelgesetz - BtMG)
+% Ausfertigungsdatum: 28.07.1981
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -250,8 +247,7 @@ Achter Abschnitt
 
 (weggefallen)
 
-
-## § 1 – Betäubungsmittel
+# § 1 – Betäubungsmittel
 
 (1) Betäubungsmittel im Sinne dieses Gesetzes sind die in den Anlagen I bis III aufgeführten Stoffe und Zubereitungen.
 
@@ -269,8 +265,7 @@ erforderlich ist. In der Rechtsverordnung nach Satz 1 können einzelne Stoffe od
 
 (4) Das Bundesministerium für Gesundheit (Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlagen I bis III oder die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu ändern, soweit das auf Grund von Änderungen der Anhänge zu dem Einheits-Übereinkommen von 1961 über Suchtstoffe in der Fassung der Bekanntmachung vom 4. Februar 1977 (BGBl. II S. 111) und dem Übereinkommen von 1971 über psychotrope Stoffe (BGBl. 1976 II S. 1477) (Internationale Suchtstoffübereinkommen) oder auf Grund von Änderungen des Anhangs des Rahmenbeschlusses 2004/757/JI des Rates vom 25. Oktober 2004 zur Festlegung von Mindestvorschriften über die Tatbestandsmerkmale strafbarer Handlungen und die Strafen im Bereich des illegalen Drogenhandels (ABl. L 335 vom 11.11.2004, S. 8), der durch die Richtlinie (EU) 2017/2103 (ABl. L 305 vom 21.11.2017, S. 12) geändert worden ist, erforderlich ist.
 
-
-## § 2 – Sonstige Begriffe
+# § 2 – Sonstige Begriffe
 
 (1) Im Sinne dieses Gesetzes ist
 
@@ -298,8 +293,7 @@ das Gewinnen, Anfertigen, Zubereiten, Be- oder Verarbeiten, Reinigen und Umwande
 
 (2) Der Einfuhr oder Ausfuhr eines Betäubungsmittels steht jedes sonstige Verbringen in den oder aus dem Geltungsbereich dieses Gesetzes gleich.
 
-
-## § 3 – Erlaubnis zum Verkehr mit Betäubungsmitteln
+# § 3 – Erlaubnis zum Verkehr mit Betäubungsmitteln
 
 (1) Einer Erlaubnis des Bundesinstitutes für Arzneimittel und Medizinprodukte bedarf, wer
 
@@ -311,8 +305,7 @@ will.
 
 (2) Eine Erlaubnis für die in Anlage I bezeichneten Betäubungsmittel kann das Bundesinstitut für Arzneimittel und Medizinprodukte nur ausnahmsweise zu wissenschaftlichen oder anderen im öffentlichen Interesse liegenden Zwecken erteilen.
 
-
-## § 4 – Ausnahmen von der Erlaubnispflicht
+# § 4 – Ausnahmen von der Erlaubnispflicht
 
 (1) Einer Erlaubnis nach § 3 bedarf nicht, wer
 
@@ -378,8 +371,7 @@ b) die Versendung von Betäubungsmitteln zwischen befugten Teilnehmern am Betäu
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet die zuständige oberste Landesbehörde unverzüglich über den Inhalt der Anzeigen, soweit sie tierärztliche Hausapotheken betreffen.
 
-
-## § 5 – Versagung der Erlaubnis
+# § 5 – Versagung der Erlaubnis
 
 (1) Die Erlaubnis nach § 3 ist zu versagen, wenn
 
@@ -399,8 +391,7 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet die zustä
 
 (2) Die Erlaubnis kann versagt werden, wenn sie der Durchführung der internationalen Suchtstoffübereinkommen oder Beschlüssen, Anordnungen oder Empfehlungen zwischenstaatlicher Einrichtungen der Suchtstoffkontrolle entgegensteht oder dies wegen Rechtsakten der Organe der Europäischen Union geboten ist.
 
-
-## § 6 – Sachkenntnis
+# § 6 – Sachkenntnis
 
 (1) Der Nachweis der erforderlichen Sachkenntnis (§ 5 Abs. 1 Nr. 2) wird erbracht
 
@@ -414,8 +405,7 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet die zustä
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann im Einzelfall von den im Absatz 1 genannten Anforderungen an die Sachkenntnis abweichen, wenn die Sicherheit und Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen gewährleistet sind.
 
-
-## § 7 – Antrag
+# § 7 – Antrag
 
 Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist in doppelter Ausfertigung beim Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen, das eine Ausfertigung der zuständigen obersten Landesbehörde übersendet. Dem Antrag müssen folgende Angaben und Unterlagen beigefügt werden:
 
@@ -435,8 +425,7 @@ Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist in doppelter Ausfertigung
 
 8. im Falle des Verwendens zu wissenschaftlichen oder anderen im öffentlichen Interesse liegenden Zwecken eine Erläuterung des verfolgten Zwecks unter Bezugnahme auf einschlägige wissenschaftliche Literatur.
 
-
-## § 8 – Entscheidung
+# § 8 – Entscheidung
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte soll innerhalb von drei Monaten nach Eingang des Antrages über die Erteilung der Erlaubnis entscheiden. Es unterrichtet die zuständige oberste Landesbehörde unverzüglich über die Entscheidung.
 
@@ -444,8 +433,7 @@ Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist in doppelter Ausfertigung
 
 (3) Der Inhaber der Erlaubnis hat jede Änderung der in § 7 bezeichneten Angaben dem Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich mitzuteilen. Bei einer Erweiterung hinsichtlich der Art der Betäubungsmittel oder des Betäubungsmittelverkehrs sowie bei Änderungen in der Person des Erlaubnisinhabers oder der Lage der Betriebsstätten, ausgenommen innerhalb eines Gebäudes, ist eine neue Erlaubnis zu beantragen. In den anderen Fällen wird die Erlaubnis geändert. Die zuständige oberste Landesbehörde wird über die Änderung der Erlaubnis unverzüglich unterrichtet.
 
-
-## § 9 – Beschränkungen, Befristung, Bedingungen und Auflagen
+# § 9 – Beschränkungen, Befristung, Bedingungen und Auflagen
 
 (1) Die Erlaubnis ist zur Sicherheit und Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen auf den jeweils notwendigen Umfang zu beschränken. Sie muß insbesondere regeln:
 
@@ -465,15 +453,13 @@ Der Antrag auf Erteilung einer Erlaubnis nach § 3 ist in doppelter Ausfertigung
 
 wenn dies zur Sicherheit oder Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen erforderlich ist oder die Erlaubnis der Durchführung der internationalen Suchtstoffübereinkommen oder von Beschlüssen, Anordnungen oder Empfehlungen zwischenstaatlicher Einrichtungen der Suchtstoffkontrolle entgegensteht oder dies wegen Rechtsakten der Organe der Europäischen Union geboten ist.
 
-
-## § 10 – Rücknahme und Widerruf
+# § 10 – Rücknahme und Widerruf
 
 (1) Die Erlaubnis kann auch widerrufen werden, wenn von ihr innerhalb eines Zeitraumes von zwei Kalenderjahren kein Gebrauch gemacht worden ist. Die Frist kann verlängert werden, wenn ein berechtigtes Interesse glaubhaft gemacht wird.
 
 (2) Die zuständige oberste Landesbehörde wird über die Rücknahme oder den Widerruf der Erlaubnis unverzüglich unterrichtet.
 
-
-## § 10a – Erlaubnis für den Betrieb von Drogenkonsumräumen
+# § 10a – Erlaubnis für den Betrieb von Drogenkonsumräumen
 
 (1) Einer Erlaubnis der zuständigen obersten Landesbehörde bedarf, wer eine Einrichtung betreiben will, in deren Räumlichkeiten Betäubungsmittelabhängigen eine Gelegenheit zum Verbrauch von mitgeführten, ärztlich nicht verschriebenen Betäubungsmitteln verschafft oder gewährt wird (Drogenkonsumraum). Eine Erlaubnis kann nur erteilt werden, wenn die Landesregierung die Voraussetzungen für die Erteilung in einer Rechtsverordnung nach Maßgabe des Absatzes 2 geregelt hat.
 
@@ -503,8 +489,7 @@ wenn dies zur Sicherheit oder Kontrolle des Betäubungsmittelverkehrs oder der H
 
 (4) Eine Erlaubnis nach Absatz 1 berechtigt das in einem Drogenkonsumraum tätige Personal nicht, eine Substanzanalyse der mitgeführten Betäubungsmittel durchzuführen oder beim unmittelbaren Verbrauch der mitgeführten Betäubungsmittel aktive Hilfe zu leisten.
 
-
-## § 11 – Einfuhr, Ausfuhr und Durchfuhr
+# § 11 – Einfuhr, Ausfuhr und Durchfuhr
 
 (1) Wer Betäubungsmittel im Einzelfall einführen oder ausführen will, bedarf dazu neben der erforderlichen Erlaubnis nach § 3 einer Genehmigung des Bundesinstitutes für Arzneimittel und Medizinprodukte. Betäubungsmittel dürfen durch den Geltungsbereich dieses Gesetzes nur unter zollamtlicher Überwachung ohne weiteren als den durch die Beförderung oder den Umschlag bedingten Aufenthalt und ohne daß das Betäubungsmittel zu irgendeinem Zeitpunkt während des Verbringens dem Durchführenden oder einer dritten Person tatsächlich zur Verfügung steht, durchgeführt werden. Ausgenommene Zubereitungen dürfen nicht in Länder ausgeführt werden, die die Einfuhr verboten haben.
 
@@ -520,8 +505,7 @@ wenn dies zur Sicherheit oder Kontrolle des Betäubungsmittelverkehrs oder der H
 
 werden.
 
-
-## § 12 – Abgabe und Erwerb
+# § 12 – Abgabe und Erwerb
 
 (1) Betäubungsmittel dürfen nur abgegeben werden an
 
@@ -549,8 +533,7 @@ c) durch den Arzt nach § 13 Absatz 1a Satz 1,
 
 (4) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Meldung und der Empfangsbestätigung zu regeln. Es kann dabei insbesondere deren Form, Inhalt und Aufbewahrung sowie eine elektronische Übermittlung regeln.
 
-
-## § 13 – Verschreibung und Abgabe auf Verschreibung
+# § 13 – Verschreibung und Abgabe auf Verschreibung
 
 (1) Die in Anlage III bezeichneten Betäubungsmittel dürfen nur von Ärzten, Zahnärzten und Tierärzten und nur dann verschrieben oder im Rahmen einer ärztlichen, zahnärztlichen oder tierärztlichen Behandlung einschließlich der ärztlichen Behandlung einer Betäubungsmittelabhängigkeit verabreicht oder einem anderen zum unmittelbaren Verbrauch oder nach Absatz 1a Satz 1 überlassen werden, wenn ihre Anwendung am oder im menschlichen oder tierischen Körper begründet ist. Die Anwendung ist insbesondere dann nicht begründet, wenn der beabsichtigte Zweck auf andere Weise erreicht werden kann. Die in Anlagen I und II bezeichneten Betäubungsmittel dürfen nicht verschrieben, verabreicht oder einem anderen zum unmittelbaren Verbrauch oder nach Absatz 1a Satz 1 überlassen werden.
 
@@ -596,11 +579,9 @@ Im Falle des Überlassens nach Satz 1 hat der Arzt den ambulant versorgten Palli
 
 2. das Verschreiben von Substitutionsmitteln für Drogenabhängige von der Erfüllung von Mindestanforderungen an die Qualifikation der verschreibenden Ärzte abhängig gemacht und die Festlegung der Mindestanforderungen den Ärztekammern übertragen,
 
-2a.  
-das Verschreiben von Diamorphin nur in Einrichtungen, denen eine Erlaubnis von der zuständigen Landesbehörde erteilt wurde, zugelassen,
+2a. das Verschreiben von Diamorphin nur in Einrichtungen, denen eine Erlaubnis von der zuständigen Landesbehörde erteilt wurde, zugelassen,
 
-2b.  
-die Mindestanforderungen an die Ausstattung der Einrichtungen, in denen die Behandlung mit dem Substitutionsmittel Diamorphin stattfindet, festgelegt,
+2b. die Mindestanforderungen an die Ausstattung der Einrichtungen, in denen die Behandlung mit dem Substitutionsmittel Diamorphin stattfindet, festgelegt,
 
 3. Meldungen
 
@@ -624,8 +605,7 @@ sowie Art der Anonymisierung, Form und Inhalt der Meldungen und Mitteilungen vor
 
 Für das Verfahren zur Erteilung einer Erlaubnis nach Satz 2 Nummer 2a gelten § 7 Satz 2 Nummer 1 bis 4, § 8 Absatz 1 Satz 1, Absatz 2 und 3 Satz 1 bis 3, § 9 Absatz 2 und § 10 entsprechend. Dabei tritt an die Stelle des Bundesinstitutes für Arzneimittel und Medizinprodukte jeweils die zuständige Landesbehörde, an die Stelle der zuständigen obersten Landesbehörde jeweils das Bundesinstitut für Arzneimittel und Medizinprodukte. Die Empfänger nach Satz 2 Nr. 3 dürfen die übermittelten Daten nicht für einen anderen als den in Satz 1 genannten Zweck verwenden. Das Bundesinstitut für Arzneimittel und Medizinprodukte handelt bei der Wahrnehmung der ihm durch Rechtsverordnung nach Satz 2 zugewiesenen Aufgaben als vom Bund entliehenes Organ des jeweils zuständigen Landes; Einzelheiten einschließlich der Kostenerstattung an den Bund werden durch Vereinbarung geregelt.
 
-
-## § 14 – Kennzeichnung und Werbung
+# § 14 – Kennzeichnung und Werbung
 
 (1) Im Betäubungsmittelverkehr sind die Betäubungsmittel unter Verwendung der in den Anlagen aufgeführten Kurzbezeichnungen zu kennzeichnen. Die Kennzeichnung hat in deutlich lesbarer Schrift, in deutscher Sprache und auf dauerhafte Weise zu erfolgen.
 
@@ -641,13 +621,11 @@ Für das Verfahren zur Erteilung einer Erlaubnis nach Satz 2 Nummer 2a gelten §
 
 (5) Für in Anlage I bezeichnete Betäubungsmittel darf nicht geworben werden. Für in den Anlagen II und III bezeichnete Betäubungsmittel darf nur in Fachkreisen der Industrie und des Handels sowie bei Personen und Personenvereinigungen, die eine Apotheke oder eine tierärztliche Hausapotheke betreiben, geworben werden, für in Anlage III bezeichnete Betäubungsmittel auch bei Ärzten, Zahnärzten und Tierärzten.
 
-
-## § 15 – Sicherungsmaßnahmen
+# § 15 – Sicherungsmaßnahmen
 
 Wer am Betäubungsmittelverkehr teilnimmt, hat die Betäubungsmittel, die sich in seinem Besitz befinden, gesondert aufzubewahren und gegen unbefugte Entnahme zu sichern. Das Bundesinstitut für Arzneimittel und Medizinprodukte kann Sicherungsmaßnahmen anordnen, soweit es nach Art oder Umfang des Betäubungsmittelverkehrs, dem Gefährdungsgrad oder der Menge der Betäubungsmittel erforderlich ist.
 
-
-## § 16 – Vernichtung
+# § 16 – Vernichtung
 
 (1) Der Eigentümer von nicht mehr verkehrsfähigen Betäubungsmitteln hat diese auf seine Kosten in Gegenwart von zwei Zeugen in einer Weise zu vernichten, die eine auch nur teilweise Wiedergewinnung der Betäubungsmittel ausschließt sowie den Schutz von Mensch und Umwelt vor schädlichen Einwirkungen sicherstellt. Über die Vernichtung ist eine Niederschrift zu fertigen und diese drei Jahre aufzubewahren.
 
@@ -655,8 +633,7 @@ Wer am Betäubungsmittelverkehr teilnimmt, hat die Betäubungsmittel, die sich i
 
 (3) Absatz 1 und Absatz 2 Satz 1 und 3 gelten entsprechend, wenn der Eigentümer nicht mehr benötigte Betäubungsmittel beseitigen will.
 
-
-## § 17 – Aufzeichnungen
+# § 17 – Aufzeichnungen
 
 (1) Der Inhaber einer Erlaubnis nach § 3 ist verpflichtet, getrennt für jede Betriebsstätte und jedes Betäubungsmittel fortlaufend folgende Aufzeichnungen über jeden Zugang und jeden Abgang zu führen:
 
@@ -682,8 +659,7 @@ Anstelle der in Nummer 6 bezeichneten Aufzeichnungen können die Durchschriften 
 
 (3) Die Aufzeichnungen oder Rechnungsdurchschriften sind drei Jahre, von der letzten Aufzeichnung oder vom letzten Rechnungsdatum an gerechnet, gesondert aufzubewahren.
 
-
-## § 18 – Meldungen
+# § 18 – Meldungen
 
 (1) Der Inhaber einer Erlaubnis nach § 3 ist verpflichtet, dem Bundesinstitut für Arzneimittel und Medizinprodukte getrennt für jede Betriebsstätte und für jedes Betäubungsmittel die jeweilige Menge zu melden, die
 
@@ -721,8 +697,7 @@ Anstelle der in Nummer 6 bezeichneten Aufzeichnungen können die Durchschriften 
 
 (4) Für die in Absatz 1 bezeichneten Meldungen sind die vom Bundesinstitut für Arzneimittel und Medizinprodukte herausgegebenen amtlichen Formblätter zu verwenden.
 
-
-## § 19 – Durchführende Behörde
+# § 19 – Durchführende Behörde
 
 (1) Der Betäubungsmittelverkehr sowie die Herstellung ausgenommener Zubereitungen unterliegt der Überwachung durch das Bundesinstitut für Arzneimittel und Medizinprodukte. Diese Stelle ist auch zuständig für die Anfertigung, Ausgabe und Auswertung der zur Verschreibung von Betäubungsmitteln vorgeschriebenen amtlichen Formblätter. Der Betäubungsmittelverkehr bei Ärzten, Zahnärzten und Tierärzten, pharmazeutischen Unternehmern im Falle der Abgabe von Diamorphin und in Apotheken sowie im Falle von § 4 Absatz 1 Nummer 1 Buchstabe f zwischen Apotheken, tierärztlichen Hausapotheken, Krankenhäusern und Tierkliniken unterliegt der Überwachung durch die zuständigen Behörden der Länder. Diese überwachen auch die Einhaltung der in § 10a Abs. 2 aufgeführten Mindeststandards; den mit der Überwachung beauftragten Personen stehen die in den §§ 22 und 24 geregelten Befugnisse zu.
 
@@ -732,8 +707,7 @@ Anstelle der in Nummer 6 bezeichneten Aufzeichnungen können die Durchschriften 
 
 (3) Der Anbau von Nutzhanf im Sinne des Buchstabens d der Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I unterliegt der Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung. Artikel 45 Absatz 4 Unterabsatz 1 und der Anhang der Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227 vom 31.7.2014, S. 69) in der jeweils geltenden Fassung gelten entsprechend. Im Übrigen gelten die Vorschriften des Integrierten Verwaltungs- und Kontrollsystems über den Anbau von Hanf entsprechend. Die Bundesanstalt für Landwirtschaft und Ernährung darf die ihr nach den Vorschriften des Integrierten Verwaltungs- und Kontrollsystems über den Anbau von Hanf von den zuständigen Landesstellen übermittelten Daten sowie die Ergebnisse von im Rahmen der Regelungen über die Basisprämie durchgeführten THC-Kontrollen zum Zweck der Überwachung nach diesem Gesetz verwenden.
 
-
-## § 20 – Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
+# § 20 – Besondere Ermächtigung für den Spannungs- oder Verteidigungsfall
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen für Verteidigungszwecke zu ändern, um die medizinische Versorgung der Bevölkerung mit Betäubungsmitteln sicherzustellen, wenn die Sicherheit und Kontrolle des Betäubungsmittelverkehrs oder der Herstellung ausgenommener Zubereitungen gewährleistet bleiben. Insbesondere können
 
@@ -755,8 +729,7 @@ angeordnet werden. In der Rechtsverordnung kann ferner der über die in Satz 2 N
 
 (3) (weggefallen)
 
-
-## § 21 – Mitwirkung anderer Behörden
+# § 21 – Mitwirkung anderer Behörden
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Einfuhr, Ausfuhr und Durchfuhr von Betäubungsmitteln mit.
 
@@ -764,8 +737,7 @@ angeordnet werden. In der Rechtsverordnung kann ferner der über die in Satz 2 N
 
 (3) Bei Verdacht von Verstößen gegen Verbote und Beschränkungen dieses Gesetzes, die sich bei der Abfertigung ergeben, unterrichten die mitwirkenden Behörden das Bundesinstitut für Arzneimittel und Medizinprodukte unverzüglich.
 
-
-## § 22 – Überwachungsmaßnahmen
+# § 22 – Überwachungsmaßnahmen
 
 (1) Die mit der Überwachung beauftragten Personen sind befugt,
 
@@ -779,8 +751,7 @@ angeordnet werden. In der Rechtsverordnung kann ferner der über die in Satz 2 N
 
 (2) Die zuständige Behörde kann Maßnahmen gemäß Absatz 1 Nr. 1 und 2 auch auf schriftlichem Wege anordnen.
 
-
-## § 23 – Probenahme
+# § 23 – Probenahme
 
 (1) Soweit es zur Durchführung der Vorschriften über den Betäubungsmittelverkehr oder die Herstellung ausgenommener Zubereitungen erforderlich ist, sind die mit der Überwachung beauftragten Personen befugt, gegen Empfangsbescheinigung Proben nach ihrer Auswahl zum Zwecke der Untersuchung zu fordern oder zu entnehmen. Soweit nicht ausdrücklich darauf verzichtet wird, ist ein Teil der Probe oder, sofern die Probe nicht oder ohne Gefährdung des Untersuchungszwecks nicht in Teile von gleicher Qualität teilbar ist, ein zweites Stück der gleichen Art wie das als Probe entnommene zurückzulassen.
 
@@ -788,15 +759,13 @@ angeordnet werden. In der Rechtsverordnung kann ferner der über die in Satz 2 N
 
 (3) Für entnommene Proben ist eine angemessene Entschädigung zu leisten, soweit nicht ausdrücklich darauf verzichtet wird.
 
-
-## § 24 – Duldungs- und Mitwirkungspflicht
+# § 24 – Duldungs- und Mitwirkungspflicht
 
 (1) Jeder Teilnehmer am Betäubungsmittelverkehr oder jeder Hersteller ausgenommener Zubereitungen ist verpflichtet, die Maßnahmen nach den §§ 22 und 23 zu dulden und die mit der Überwachung beauftragten Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere ihnen auf Verlangen die Stellen zu bezeichnen, in denen der Betäubungsmittelverkehr oder die Herstellung ausgenommener Zubereitungen stattfindet, umfriedete Grundstücke, Gebäude, Räume, Behälter und Behältnisse zu öffnen, Auskünfte zu erteilen sowie Einsicht in Unterlagen und die Entnahme der Proben zu ermöglichen.
 
 (2) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen seiner in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 24a – Anzeige des Anbaus von Nutzhanf
+# § 24a – Anzeige des Anbaus von Nutzhanf
 
 Der Anbau von Nutzhanf im Sinne des Buchstabens d der Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I ist bis zum 1. Juli des Anbaujahres in dreifacher Ausfertigung der Bundesanstalt für Landwirtschaft und Ernährung zur Erfüllung ihrer Aufgaben nach § 19 Abs. 3 anzuzeigen. Für die Anzeige ist das von der Bundesanstalt für Landwirtschaft und Ernährung herausgegebene amtliche Formblatt zu verwenden. Die Anzeige muß enthalten:
 
@@ -810,15 +779,13 @@ Der Anbau von Nutzhanf im Sinne des Buchstabens d der Ausnahmeregelung zu Cannab
 
 Erfolgt die Aussaat von Nutzhanf nach dem 1. Juli des Anbaujahres, sind die amtlichen Etiketten nach Satz 3 Nummer 3 bis zum 1. September des Anbaujahres vorzulegen. Die Bundesanstalt für Landwirtschaft und Ernährung übersendet eine von ihr abgezeichnete Ausfertigung der Anzeige unverzüglich dem Antragsteller. Sie hat ferner eine Ausfertigung der Anzeige den zuständigen Polizeibehörden und Staatsanwaltschaften auf deren Ersuchen zu übersenden, wenn dies zur Verfolgung von Straftaten nach diesem Gesetz erforderlich ist. Liegen der Bundesanstalt für Landwirtschaft und Ernährung Anhaltspunkte vor, daß der Anbau von Nutzhanf nicht den Voraussetzungen des Buchstabens d der Ausnahmeregelung zu Cannabis (Marihuana) in Anlage I entspricht, teilt sie dies der örtlich zuständigen Staatsanwaltschaft mit.
 
-
-## § 25 – Gebühren und Auslagen
+# § 25 – Gebühren und Auslagen
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Gebühren und Auslagen.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-
-## § 26 – Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz
+# § 26 – Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz
 
 (1) Dieses Gesetz findet mit Ausnahme der Vorschriften über die Erlaubnis nach § 3 auf Einrichtungen, die der Betäubungsmittelversorgung der Bundeswehr und der Bundespolizei dienen, sowie auf die Bevorratung mit in Anlage II oder III bezeichneten Betäubungsmitteln für den Zivilschutz entsprechende Anwendung.
 
@@ -830,8 +797,7 @@ Erfolgt die Aussaat von Nutzhanf nach dem 1. Juli des Anbaujahres, sind die amtl
 
 (5) (weggefallen)
 
-
-## § 27 – Meldungen und Auskünfte
+# § 27 – Meldungen und Auskünfte
 
 (1) Das Bundeskriminalamt meldet dem Bundesinstitut für Arzneimittel und Medizinprodukte jährlich bis zum 31. März für das vergangene Kalenderjahr die ihm bekanntgewordenen Sicherstellungen von Betäubungsmitteln nach Art und Menge sowie gegebenenfalls die weitere Verwendung der Betäubungsmittel. Im Falle der Verwertung sind der Name oder die Firma und die Anschrift des Erwerbers anzugeben.
 
@@ -853,15 +819,13 @@ Die Übermittlung veranlaßt die Strafvollstreckungs- oder die Strafverfolgungsb
 
 (4) Die das Verfahren abschließende Entscheidung mit Begründung in sonstigen Strafsachen darf der zuständigen Landesbehörde übermittelt werden, wenn ein Zusammenhang der Straftat mit dem Betäubungsmittelverkehr besteht und die Kenntnis der Entscheidung aus der Sicht der übermittelnden Stelle für die Überwachung des Betäubungsmittelverkehrs erforderlich ist; Absatz 3 Satz 1 Nr. 2 Buchstabe c zweiter Halbsatz gilt entsprechend.
 
-
-## § 28 – Jahresbericht an die Vereinten Nationen
+# § 28 – Jahresbericht an die Vereinten Nationen
 
 (1) Die Bundesregierung erstattet jährlich bis zum 30. Juni für das vergangene Kalenderjahr dem Generalsekretär der Vereinten Nationen einen Jahresbericht über die Durchführung der internationalen Suchtstoffübereinkommen nach einem von der Suchtstoffkommission der Vereinten Nationen beschlossenen Formblatt. Die zuständigen Behörden der Länder wirken bei der Erstellung des Berichtes mit und reichen ihre Beiträge bis zum 31. März für das vergangene Kalenderjahr dem Bundesinstitut für Arzneimittel und Medizinprodukte ein. Soweit die im Formblatt geforderten Angaben nicht ermittelt werden können, sind sie zu schätzen.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche Personen und welche Stellen Meldungen, nämlich statistische Aufstellungen, sonstige Angaben und Auskünfte, zu erstatten haben, die zur Durchführung der internationalen Suchtstoffübereinkommen erforderlich sind. In der Verordnung können Bestimmungen über die Art und Weise, die Form, den Zeitpunkt und den Empfänger der Meldungen getroffen werden.
 
-
-## § 29 – Straftaten
+# § 29 – Straftaten
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -881,8 +845,7 @@ a) verschreibt,
 
 b) verabreicht oder zum unmittelbaren Verbrauch überläßt,
 
-6a.  
-entgegen § 13 Absatz 1a Satz 1 und 2 ein dort genanntes Betäubungsmittel überlässt,
+6a. entgegen § 13 Absatz 1a Satz 1 und 2 ein dort genanntes Betäubungsmittel überlässt,
 
 7. entgegen § 13 Absatz 2
 
@@ -924,8 +887,7 @@ Die Abgabe von sterilen Einmalspritzen an Betäubungsmittelabhängige und die ö
 
 § 29 Abs. 1 Satz 1 Nr. 1, 3, 5: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 9.3.1994 I 1207 - 2 BvL 43/92 u. a. -
 
-
-## § 29a – Straftaten
+# § 29a – Straftaten
 
 (1) Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer
 
@@ -937,8 +899,7 @@ Betäubungsmittel unerlaubt an eine Person unter 18 Jahren abgibt oder sie ihr e
 
 (2) In minder schweren Fällen ist die Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
-
-## § 30 – Straftaten
+# § 30 – Straftaten
 
 (1) Mit Freiheitsstrafe nicht unter zwei Jahren wird bestraft, wer
 
@@ -954,8 +915,7 @@ Betäubungsmittel unerlaubt an eine Person unter 18 Jahren abgibt oder sie ihr e
 
 § 30 Abs. 1 Nr. 4: Nach Maßgabe der Entscheidungsformel mit dem GG vereinbar gem. BVerfGE v. 9.3.1994 - 2 BvL 43/92 u. a. -
 
-
-## § 30a – Straftaten
+# § 30a – Straftaten
 
 (1) Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer Betäubungsmittel in nicht geringer Menge unerlaubt anbaut, herstellt, mit ihnen Handel treibt, sie ein- oder ausführt (§ 29 Abs. 1 Satz 1 Nr. 1) und dabei als Mitglied einer Bande handelt, die sich zur fortgesetzten Begehung solcher Taten verbunden hat.
 
@@ -967,13 +927,11 @@ Betäubungsmittel unerlaubt an eine Person unter 18 Jahren abgibt oder sie ihr e
 
 (3) In minder schweren Fällen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu zehn Jahren.
 
-
-## § 30b – Straftaten
+# § 30b – Straftaten
 
 § 129 des Strafgesetzbuches gilt auch dann, wenn eine Vereinigung, deren Zwecke oder deren Tätigkeit auf den unbefugten Vertrieb von Betäubungsmitteln im Sinne des § 6 Nr. 5 des Strafgesetzbuches gerichtet sind, nicht oder nicht nur im Inland besteht.
 
-
-## § 31 – Strafmilderung oder Absehen von Strafe
+# § 31 – Strafmilderung oder Absehen von Strafe
 
 Das Gericht kann die Strafe nach § 49 Abs. 1 des Strafgesetzbuches mildern oder, wenn der Täter keine Freiheitsstrafe von mehr als drei Jahren verwirkt hat, von Strafe absehen, wenn der Täter
 
@@ -983,15 +941,13 @@ Das Gericht kann die Strafe nach § 49 Abs. 1 des Strafgesetzbuches mildern oder
 
 War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung nach Satz 1 Nummer 1 über den eigenen Tatbeitrag hinaus erstrecken. § 46b Abs. 2 und 3 des Strafgesetzbuches gilt entsprechend.
 
-
-## § 31a – Absehen von der Verfolgung
+# § 31a – Absehen von der Verfolgung
 
 (1) Hat das Verfahren ein Vergehen nach § 29 Abs. 1, 2 oder 4 zum Gegenstand, so kann die Staatsanwaltschaft von der Verfolgung absehen, wenn die Schuld des Täters als gering anzusehen wäre, kein öffentliches Interesse an der Strafverfolgung besteht und der Täter die Betäubungsmittel lediglich zum Eigenverbrauch in geringer Menge anbaut, herstellt, einführt, ausführt, durchführt, erwirbt, sich in sonstiger Weise verschafft oder besitzt. Von der Verfolgung soll abgesehen werden, wenn der Täter in einem Drogenkonsumraum Betäubungsmittel lediglich zum Eigenverbrauch, der nach § 10a geduldet werden kann, in geringer Menge besitzt, ohne zugleich im Besitz einer schriftlichen Erlaubnis für den Erwerb zu sein.
 
 (2) Ist die Klage bereits erhoben, so kann das Gericht in jeder Lage des Verfahrens unter den Voraussetzungen des Absatzes 1 mit Zustimmung der Staatsanwaltschaft und des Angeschuldigten das Verfahren einstellen. Der Zustimmung des Angeschuldigten bedarf es nicht, wenn die Hauptverhandlung aus den in § 205 der Strafprozeßordnung angeführten Gründen nicht durchgeführt werden kann oder in den Fällen des § 231 Abs. 2 der Strafprozeßordnung und der §§ 232 und 233 der Strafprozeßordnung in seiner Abwesenheit durchgeführt wird. Die Entscheidung ergeht durch Beschluß. Der Beschluß ist nicht anfechtbar.
 
-
-## § 32 – Ordnungswidrigkeiten
+# § 32 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1009,11 +965,9 @@ War der Täter an der Tat beteiligt, muss sich sein Beitrag zur Aufklärung nach
 
 7. entgegen § 12 Abs. 1 Betäubungsmittel abgibt oder entgegen § 12 Abs. 2 die Abgabe oder den Erwerb nicht richtig, nicht vollständig oder nicht unverzüglich meldet oder den Empfang nicht bestätigt,
 
-7a.  
-entgegen § 13 Absatz 1a Satz 3 nicht, nicht richtig oder nicht rechtzeitig bei einer Apotheke anfragt,
+7a. entgegen § 13 Absatz 1a Satz 3 nicht, nicht richtig oder nicht rechtzeitig bei einer Apotheke anfragt,
 
-7b.  
-entgegen § 13 Absatz 1a Satz 4 oder 5 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder eine Aufzeichnung nicht oder nicht mindestens drei Jahre aufbewahrt,
+7b. entgegen § 13 Absatz 1a Satz 4 oder 5 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder eine Aufzeichnung nicht oder nicht mindestens drei Jahre aufbewahrt,
 
 8. entgegen § 14 Abs. 1 bis 4 Betäubungsmittel nicht vorschriftsmäßig kennzeichnet,
 
@@ -1035,18 +989,15 @@ entgegen § 13 Absatz 1a Satz 4 oder 5 eine Aufzeichnung nicht, nicht richtig od
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesinstitut für Arzneimittel und Medizinprodukte, soweit das Gesetz von ihm ausgeführt wird, im Falle des § 32 Abs. 1 Nr. 14 die Bundesanstalt für Landwirtschaft und Ernährung.
 
-
-## § 33 – Einziehung
+# § 33 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach den §§ 29 bis 30a oder eine Ordnungswidrigkeit nach § 32 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 34 – Führungsaufsicht
+# § 34 – Führungsaufsicht
 
 In den Fällen des § 29 Abs. 3, der §§ 29a, 30 und 30a kann das Gericht Führungsaufsicht anordnen (§ 68 Abs. 1 des Strafgesetzbuches).
 
-
-## § 35 – Zurückstellung der Strafvollstreckung
+# § 35 – Zurückstellung der Strafvollstreckung
 
 (1) Ist jemand wegen einer Straftat zu einer Freiheitsstrafe von nicht mehr als zwei Jahren verurteilt worden und ergibt sich aus den Urteilsgründen oder steht sonst fest, daß er die Tat auf Grund einer Betäubungsmittelabhängigkeit begangen hat, so kann die Vollstreckungsbehörde mit Zustimmung des Gerichts des ersten Rechtszuges die Vollstreckung der Strafe, eines Strafrestes oder der Maßregel der Unterbringung in einer Entziehungsanstalt für längstens zwei Jahre zurückstellen, wenn der Verurteilte sich wegen seiner Abhängigkeit in einer seiner Rehabilitation dienenden Behandlung befindet oder zusagt, sich einer solchen zu unterziehen, und deren Beginn gewährleistet ist. Als Behandlung gilt auch der Aufenthalt in einer staatlich anerkannten Einrichtung, die dazu dient, die Abhängigkeit zu beheben oder einer erneuten Abhängigkeit entgegenzuwirken.
 
@@ -1072,8 +1023,7 @@ und im übrigen die Voraussetzungen des Absatzes 1 für den ihrer Bedeutung nach
 
 (7) Hat die Vollstreckungsbehörde die Zurückstellung widerrufen, so ist sie befugt, zur Vollstreckung der Freiheitsstrafe oder der Unterbringung in einer Entziehungsanstalt einen Haftbefehl zu erlassen. Gegen den Widerruf kann die Entscheidung des Gerichts des ersten Rechtszuges herbeigeführt werden. Der Fortgang der Vollstreckung wird durch die Anrufung des Gerichts nicht gehemmt. § 462 der Strafprozeßordnung gilt entsprechend.
 
-
-## § 36 – Anrechnung und Strafaussetzung zur Bewährung
+# § 36 – Anrechnung und Strafaussetzung zur Bewährung
 
 (1) Ist die Vollstreckung zurückgestellt worden und hat sich der Verurteilte in einer staatlich anerkannten Einrichtung behandeln lassen, so wird die vom Verurteilten nachgewiesene Zeit seines Aufenthaltes in dieser Einrichtung auf die Strafe angerechnet, bis infolge der Anrechnung zwei Drittel der Strafe erledigt sind. Die Entscheidung über die Anrechnungsfähigkeit trifft das Gericht zugleich mit der Zustimmung nach § 35 Abs. 1. Sind durch die Anrechnung zwei Drittel der Strafe erledigt oder ist eine Behandlung in der Einrichtung zu einem früheren Zeitpunkt nicht mehr erforderlich, so setzt das Gericht die Vollstreckung des Restes der Strafe zur Bewährung aus, sobald dies unter Berücksichtigung des Sicherheitsinteresses der Allgemeinheit verantwortet werden kann.
 
@@ -1085,8 +1035,7 @@ und im übrigen die Voraussetzungen des Absatzes 1 für den ihrer Bedeutung nach
 
 (5) Die Entscheidungen nach den Absätzen 1 bis 3 trifft das Gericht des ersten Rechtszuges ohne mündliche Verhandlung durch Beschluß. Die Vollstreckungsbehörde, der Verurteilte und die behandelnden Personen oder Einrichtungen sind zu hören. Gegen die Entscheidungen ist sofortige Beschwerde möglich. Für die Entscheidungen nach Absatz 1 Satz 3 und nach Absatz 2 gilt § 454 Abs. 4 der Strafprozeßordnung entsprechend; die Belehrung über die Aussetzung des Strafrestes erteilt das Gericht.
 
-
-## § 37 – Absehen von der Erhebung der öffentlichen Klage
+# § 37 – Absehen von der Erhebung der öffentlichen Klage
 
 (1) Steht ein Beschuldigter in Verdacht, eine Straftat auf Grund einer Betäubungsmittelabhängigkeit begangen zu haben, und ist keine höhere Strafe als eine Freiheitsstrafe bis zu zwei Jahren zu erwarten, so kann die Staatsanwaltschaft mit Zustimmung des für die Eröffnung des Hauptverfahrens zuständigen Gerichts vorläufig von der Erhebung der öffentlichen Klage absehen, wenn der Beschuldigte nachweist, daß er sich wegen seiner Abhängigkeit der in § 35 Abs. 1 bezeichneten Behandlung unterzieht, und seine Resozialisierung zu erwarten ist. Die Staatsanwaltschaft setzt Zeitpunkte fest, zu denen der Beschuldigte die Fortdauer der Behandlung nachzuweisen hat. Das Verfahren wird fortgesetzt, wenn
 
@@ -1104,33 +1053,27 @@ In den Fällen des Satzes 3 Nr. 1, 2 kann von der Fortsetzung des Verfahrens abg
 
 (3) Die in § 172 Abs. 2 Satz 3, § 396 Abs. 3 und § 467 Abs. 5 der Strafprozeßordnung zu § 153a der Strafprozeßordnung getroffenen Regelungen gelten entsprechend.
 
-
-## § 38 – Jugendliche und Heranwachsende
+# § 38 – Jugendliche und Heranwachsende
 
 (1) Bei Verurteilung zu Jugendstrafe gelten die §§ 35 und 36 sinngemäß. Neben der Zusage des Jugendlichen nach § 35 Abs. 1 Satz 1 bedarf es auch der Einwilligung des Erziehungsberechtigten und des gesetzlichen Vertreters. Im Falle des § 35 Abs. 7 Satz 2 findet § 83 Abs. 2 Nr. 1, Abs. 3 Satz 2 des Jugendgerichtsgesetzes sinngemäß Anwendung. Abweichend von § 36 Abs. 4 gelten die §§ 22 bis 26a des Jugendgerichtsgesetzes entsprechend. Für die Entscheidungen nach § 36 Abs. 1 Satz 3 und Abs. 2 sind neben § 454 Abs. 4 der Strafprozeßordnung die §§ 58, 59 Abs. 2 bis 4 und § 60 des Jugendgerichtsgesetzes ergänzend anzuwenden.
 
 (2) § 37 gilt sinngemäß auch für Jugendliche und Heranwachsende.
 
-
-## § 39 – Übergangsregelung
+# § 39 – Übergangsregelung
 
 Einrichtungen, in deren Räumlichkeiten der Verbrauch von mitgeführten, ärztlich nicht verschriebenen Betäubungsmitteln vor dem 1. Januar 1999 geduldet wurde, dürfen ohne eine Erlaubnis der zuständigen obersten Landesbehörde nur weiterbetrieben werden, wenn spätestens 24 Monate nach dem Inkrafttreten des Dritten BtMG-Änderungsgesetzes vom 28. März 2000 (BGBl. I S. 302) eine Rechtsverordnung nach § 10a Abs. 2 erlassen und ein Antrag auf Erlaubnis nach § 10a Abs. 1 gestellt wird. Bis zur unanfechtbaren Entscheidung über einen Antrag können diese Einrichtungen nur weiterbetrieben werden, soweit die Anforderungen nach § 10a Abs. 2 oder einer nach dieser Vorschrift erlassenen Rechtsverordnung erfüllt werden. § 29 Abs. 1 Satz 1 Nr. 10 und 11 gilt auch für Einrichtungen nach Satz 1.
 
-
-## § 39a – Übergangsregelung aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
+# § 39a – Übergangsregelung aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
 Für eine Person, die die Sachkenntnis nach § 5 Absatz 1 Nummer 2 nicht hat, aber am 22. Juli 2009 die Voraussetzungen nach § 141 Absatz 3 des Arzneimittelgesetzes erfüllt, gilt der Nachweis der erforderlichen Sachkenntnis nach § 6 Absatz 1 Nummer 1 als erbracht.
 
+# §§ 40 und 40a – (gegenstandslos)
 
-## §§ 40 und 40a – (gegenstandslos)
-
-
-## § 41
+# § 41
 
 (weggefallen)
 
-
-## Anlage I – (zu § 1 Abs. 1)(nicht verkehrsfähige Betäubungsmittel)
+# Anlage I – (zu § 1 Abs. 1)(nicht verkehrsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1180 - 1186;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2286,8 +2229,7 @@ die Stereoisomere der in dieser oder einer anderen Anlage aufgeführten Stoffe, 
 \-  
 Stoffe nach § 2 Absatz 1 Nummer 1 Buchstabe b bis d mit in dieser oder einer anderen Anlage aufgeführten Stoffen sowie die zur Reproduktion oder Gewinnung von Stoffen nach § 2 Absatz 1 Nummer 1 Buchstabe b bis d geeigneten biologischen Materialien, wenn ein Missbrauch zu Rauschzwecken vorgesehen ist.
 
-
-## Anlage II – (zu § 1 Abs. 1)(verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
+# Anlage II – (zu § 1 Abs. 1)(verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel)
 
 (Fundstelle: BGBl. I 2001, 1187 - 1189;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3584,8 +3526,7 @@ a) ohne am oder im menschlichen oder tierischen Körper angewendet zu werden, au
 
 b) besonders ausgenommen sind.
 
-
-## Anlage III – (zu § 1 Abs. 1)verkehrsfähige und verschreibungsfähige Betäubungsmittel
+# Anlage III – (zu § 1 Abs. 1)verkehrsfähige und verschreibungsfähige Betäubungsmittel
 
 (Fundstelle: BGBl. I 2001, 1189 - 1195;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

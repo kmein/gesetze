@@ -1,15 +1,11 @@
-# [KAEAnO] Anordnung über die Zulässigkeit von Konzessionsabgaben der Unternehmen und Betriebe zur Versorgung mit Elektrizität, Gas und Wasser an Gemeinden und Gemeindeverbände
-
-Ausfertigungsdatum: 04.03.1941
-
+% Anordnung über die Zulässigkeit von Konzessionsabgaben der Unternehmen und Betriebe zur Versorgung mit Elektrizität, Gas und Wasser an Gemeinden und Gemeindeverbände
+% Ausfertigungsdatum: 04.03.1941
  
-
-## Eingangsformel
+# Eingangsformel
 
 Um die Versorgungsunternehmen von betriebsfremden Ausgaben zu entlasten und eine fortschreitende Verbilligung von Elektrizität, Gas und Wasser anzubahnen, wird auf Grund des Gesetzes zur Durchführung des Vierjahresplans - Bestellung eines Reichskommissars für die Preisbildung - vom 29. Oktober 1936 (Reichsgesetzbl. I S. 927) mit Zustimmung des Beauftragten für den Vierjahresplan angeordnet:
 
-
-## § 1
+# § 1
 
 (1) Von der Verkündung dieser Anordnung ab dürfen Konzessionsabgaben von Unternehmen und Betrieben zur Versorgung mit Elektrizität, Gas oder Wasser (Versorgungsunternehmen) an Gemeinden, Gemeindeverbände oder Zweckverbände nicht neu eingeführt oder erhöht werden.
 
@@ -17,8 +13,7 @@ Um die Versorgungsunternehmen von betriebsfremden Ausgaben zu entlasten und eine
 
 (3)
 
-
-## § 2
+# § 2
 
 (1) Vom 1. April 1941 ab werden Konzessionsabgaben von Versorgungsunternehmen an Gemeinden auf folgende Höchstsätze herabgesetzt:
 
@@ -51,8 +46,7 @@ Die Konzessionsabgaben werden in den folgenden Jahren weiter herabgesetzt und in
 
 (4) Bei Bestimmung der Einwohnerzahl ist von der einzelnen versorgten Gemeinde oder dem einzelnen gesondert versorgten Gemeindeteil und dem Ergebnis der Volkszählung vom 17. Mai 1939 auszugehen.
 
-
-## § 3
+# § 3
 
 (1) Konzessionsabgaben, die nach den vorstehenden Bestimmungen kreisangehörigen Gemeinden weitergewährt werden dürfen, dürfen statt an diese auch an den Landkreis gezahlt werden.
 
@@ -60,8 +54,7 @@ Die Konzessionsabgaben werden in den folgenden Jahren weiter herabgesetzt und in
 
 (3) Haben Ämter in Rheinland und Westfalen Zweckverbände oder gleichgestellte Zusammenschlüsse bis zum 31. März 1941 Konzessionsabgaben erhalten, können diese Konzessionsabgaben nach Maßgabe der Durchführungsbestimmungen zu dieser Anordnung an die Gemeinden fortgezahlt werden, die zu dem Amt gehören oder die Mitglieder der Zweckverbände oder gleichgestellten Zusammenschlüsse sind. Den Gemeinden stehen - unter Beachtung der Vorschriften des Absatzes 2 - die Landkreise gleich, die Mitglieder von Zweckverbänden oder gleichgestellten Zusammenschlüssen sind.
 
-
-## § 4
+# § 4
 
 (1) Soweit Konzessionsabgaben nach dem 31. März 1941 weitererhoben werden dürfen, sind sie nach Hundertsätzen der Entgelte aus Versorgungsleistungen an den letzten Verbraucher zu bemessen.
 
@@ -69,8 +62,7 @@ Die Konzessionsabgaben werden in den folgenden Jahren weiter herabgesetzt und in
 
 (3) Zu den Entgelten aus Versorgungsleistungen an den letzten Verbraucher gehören nicht Einnahmen, die aus der Lieferung von Neben- oder Abfallerzeugnissen (z.B. Gaskoks) oder für die Lieferung an Wiederverkäufer von Elektrizität, Gas oder Wasser erzielt werden.
 
-
-## § 5
+# § 5
 
 (1) Konzessionsabgaben, deren Forterhebung nach den §§ 2 oder 3 zulässig ist, dürfen nur insoweit an die Gemeinde oder den Landkreis abgeführt werden, als durch die Abführung eine ordnungsmäßige Weiterführung des Versorgungsunternehmens nicht gefährdet wird.
 
@@ -88,8 +80,7 @@ b) bei sonstigen Unternehmen, wenn für das Stamm- oder Gesellschaftskapital ein
 
 (6) Bei Versorgungsunternehmen, für die nach Maßgabe der §§ 22, 24 der Eigenbetriebsverordnung vom 21. November 1938 (Reichsgesetzbl. I S. 1650) ein gemeinsamer Jahresabschluß gefertigt wird, braucht die Konzessionsabgabe mit Rücksicht auf den Vorrang einer angemessenen Verzinsung des Eigenkapitals nur gekürzt zu werden, wenn die Erträgnisse sämtlicher Versorgungsunternehmen, für die der gemeinsame Abschluß gefertigt ist, zur angemessenen Verzinsung des in sämtlichen Unternehmen investierten Eigenkapitals und zur Deckung der von sämtlichen Unternehmen abzuführenden Konzessionsabgaben nicht ausreichen.
 
-
-## § 6
+# § 6
 
 (1) Vom 1. April 1941 ab dürfen Gemeinden, Gemeindeverbände oder Zweckverbände Finanzzuschläge oder sonstige Leistungen (z.B. Verwaltungskostenbeiträge, Sachleistungen) von Versorgungsunternehmen neben oder an Stelle von Konzessionsabgaben nicht mehr erheben.
 
@@ -103,15 +94,13 @@ b) Sachleistungen zu einem Preis angerechnet werden, den sonstige Abnehmer mit g
 
 (4) Lassen sich Aufwendungen, die durch die Zahlung von Verwaltungskostenbeiträgen abgegolten werden sollen, nur schätzen, dürfen die auf Grund einer solchen Schätzung ermittelten Verwaltungskostenbeiträge von den tatsächlichen Aufwendungen nicht wesentlich abweichen.
 
-
-## § 7
+# § 7
 
 (1) Ist zweifelhaft, inwieweit Leistungen eines Versorgungsunternehmens an eine Gemeinde, einen Gemeindeverband oder Zweckverband als Konzessionsabgabe, als Pachtzins für gepachtete Anlagen oder als Zinsen und Tilgung auf ein Restkaufgeld für überlassene Anlagen anzusehen sind, so haben die Beteiligten dies alsbald durch eine Vereinbarung klarzustellen. Die Vereinbarung bedarf der Genehmigung des Reichskommissars für die Preisbildung, der auch endgültig über die Aufteilung entscheidet, wenn die Beteiligten in einer von ihm bestimmten Frist zu keiner Einigung kommen.
 
 (2)
 
-
-## § 8
+# § 8
 
 (1) Bei Übernahme der Versorgung durch ein anderes Unternehmen darf höchstens die bisherige, nach den Vorschriften dieser Anordnung berechnete Konzessionsabgabe weitergezahlt werden.
 
@@ -119,31 +108,26 @@ b) Sachleistungen zu einem Preis angerechnet werden, den sonstige Abnehmer mit g
 
 (3) Werden die Grenzen von Gemeindebezirken in anderer Weise verändert, bestimmt sich die Zulässigkeit und Höhe der Konzessionsabgabe nach den Verhältnissen der Stammgemeinde, zu der Teile eines anderen Gemeindebezirks zugelegt oder von der Teile abgetrennt werden. Das gleiche gilt, wenn Gemeinden mit weniger als 3.000 Einwohnern vollständig in eine andere Gemeinde eingemeindet werden. In diesem Fall tritt an die Stelle der Stammgemeinde die aufnehmende Gemeinde.
 
-
-## § 9
+# § 9
 
 (1) Die Erhebung von Konzessionsabgaben nach Maßgabe der §§ 2 und 3 dieser Anordnung wird nicht dadurch ausgeschlossen, daß die Preisbehörde noch keine Ausnahmebewilligung zur Erhebung der bis zum Tag der Verkündung dieser Anordnung gezahlten, zurückgestellten oder vereinbarten Konzessionsabgabe erteilt hatte.
 
 (2)
 
-
-## § 10
+# § 10
 
 Durch den Wegfall oder die Herabsetzung von Konzessionsabgaben nach Maßgabe dieser Anordnung werden die Gültigkeit und die sonstigen Bestimmungen eines Konzessionsvertrags nicht berührt.
 
-
-## § 11
+# § 11
 
 Der Reichskommissar für die Preisbildung erläßt die zur Durchführung ... erforderlichen Rechts- und Verwaltungsvorschriften sowie von den Vorschriften dieser Anordnung abweichende preisbildende Anordnungen für den Einzelfall.
 
-
-## § 12
+# § 12
 
 (1) Die Anordnung tritt am Tage der Verkündung in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Reichskommissar für die Preisbildung

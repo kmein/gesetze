@@ -1,15 +1,11 @@
-# [LAP-gbautDV] Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes  (LAP-gbautDV)
-
-Ausfertigungsdatum: 21.01.2004
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes  (LAP-gbautDV)
+% Ausfertigungsdatum: 21.01.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -151,8 +147,7 @@ Sonstige Vorschriften
 
 Inkrafttreten
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des gehobenen bautechnischen Verwaltungsdienstes des Bundes mit den Fachrichtungen
 
@@ -184,8 +179,7 @@ c) Besoldungsgruppe A 13 Bauoberamtsrätin/Bauoberamtsrat.
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
-## § 2 – Ziel der Ausbildung
+# § 2 – Ziel der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den Beamtinnen und Beamten die Fähigkeiten, Kenntnisse und Fertigkeiten, die zur Anwendung ihres im Studium erworbenen Wissens in der Laufbahn des gehobenen bautechnischen Dienstes des Bundes erforderlich sind. Die Beamtinnen und Beamten werden mit den Aufgaben des Bauwesens, zu denen auch Aufgaben, die durch den Betrieb und die Wartung betriebstechnischer Anlagen bestimmt sind, gehören, sowie mit den Gebieten Verwaltung und Recht allgemein und fachbezogen vertraut gemacht. Ihr Verständnis für technische, wirtschaftliche und verwaltungsmäßige Zusammenhänge wird gefördert. Grundlagen der Volks- und Betriebswirtschaft, des Managements und der Führung von Mitarbeiterinnen und Mitarbeitern werden vermittelt.
 
@@ -193,8 +187,7 @@ c) Besoldungsgruppe A 13 Bauoberamtsrätin/Bauoberamtsrat.
 
 (3) Die Beamtinnen und Beamten werden befähigt, sich eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet; das Selbststudium ist zu fördern.
 
-
-## § 3 – Einstellungsbehörden
+# § 3 – Einstellungsbehörden
 
 Einstellungsbehörden sind
 
@@ -204,8 +197,7 @@ Einstellungsbehörden sind
 
 Ihnen obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung und die Betreuung der Anwärterinnen und Anwärter; sie treffen die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung. Die Einstellungsbehörden sind die für die beamtenrechtlichen Entscheidungen zuständigen Dienstbehörden.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -213,8 +205,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 2. ein Abschlusszeugnis (Diplom) einer Technischen Fachhochschule in den Fachrichtungen Architektur (Hochbau), Bauingenieurwesen, Maschinenbau, Elektro- oder Versorgungstechnik oder in einer anderen geeigneten technischen Fachrichtung oder einen als gleichwertig anerkannten Bildungsabschluss besitzt.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -234,8 +225,7 @@ b) eine Ablichtung des Schwerbehindertenausweises oder des Bescheides über die 
 
 c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -259,8 +249,7 @@ Beisitzende können auch geeignete Angestellte sein. Die Mitglieder der Auswahlk
 
 (7) Die Einstellungsbehörden bestellen die Mitglieder und Ersatzmitglieder der Auswahlkommission für die Dauer von drei Jahren; Wiederbestellung ist zulässig.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörden entscheiden nach dem Ergebnis des Auswahlverfahrens über die Einstellung von Bewerberinnen und Bewerbern.
 
@@ -284,15 +273,13 @@ b) in geordneten wirtschaftlichen Verhältnissen lebt.
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Bauoberinspektoranwärterinnen und Bewerber zu Bauoberinspektoranwärtern ernannt.
 
 (2) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht ihrer Einstellungsbehörde.
 
-
-## § 9 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+# § 9 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
@@ -316,18 +303,15 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 30 Abs. 2.
 
-
-## § 10 – Urlaub während des Vorbereitungsdienstes
+# § 10 – Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 11 – Ausbildungsakte
+# § 11 – Ausbildungsakte
 
 Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung" zu führen, in die der Ausbildungsplan sowie alle Leistungsnachweise und Bewertungen aufzunehmen sind.
 
-
-## § 12 – Schwerbehinderte Menschen
+# § 12 – Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für die Erbringung von Leistungsnachweisen und für die Teilnahme an Prüfungen die ihrer Behinderung angemessenen Erleichterungen gewährt. Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu gewährenden Erleichterungen sind mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden. Die Vorschriften des Neunten Buches Sozialgesetzbuch sowie der Vereinbarung zur Integration schwerbehinderter Menschen in der Bundesverwaltung für Verkehr, Bau- und Wohnungswesen (Rahmenintegrationsvereinbarung) sind zu beachten. Die Sätze 1 bis 4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 
@@ -337,8 +321,7 @@ Für die Anwärterinnen und Anwärter sind Personalteilakten "Ausbildung" zu fü
 
 (4) Bezüglich der Bewertungen während des Vorbereitungsdienstes nach § 16 wird auf die Rahmenintegrationsvereinbarung hingewiesen.
 
-
-## § 13 – Gliederung des Vorbereitungsdienstes
+# § 13 – Gliederung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst gliedert sich für die jeweiligen Fachrichtungen wie folgt in eine praktische Ausbildung (Praktika) und praxisbezogene Lehrveranstaltungen (Lehrgänge), die aufeinander abgestimmt und gegebenenfalls durch eine Exkursion ergänzt werden:  
 
@@ -554,8 +537,7 @@ Urlaub
 
 (2) Die Einzelheiten der Ausbildung werden für jede Anwärterin und jeden Anwärter in einem Ausbildungsplan festgelegt, insbesondere die Ausbildungsstellen und die Zeiträume der Zuweisung. Den Ausbildungsplan stellt die Ausbildungsleitung im Einvernehmen mit dem Prüfungsamt auf.
 
-
-## § 14 – Ausbildungsleitung, Ausbilderinnen und Ausbilder
+# § 14 – Ausbildungsleitung, Ausbilderinnen und Ausbilder
 
 (1) Die Einstellungsbehörden bestellen jeweils eine Beamtin oder einen Beamten des höheren oder gehobenen technischen Dienstes oder eine geeignete Angestellte oder einen geeigneten Angestellten als Ausbildungsleitung, die für die ordnungsgemäße Durchführung der Ausbildung verantwortlich ist; außerdem bestellen sie Ausbilderinnen und Ausbilder und bestimmen die Vertretung der Ausbildungsleitung.
 
@@ -563,8 +545,7 @@ Urlaub
 
 (3) Den Ausbilderinnen und Ausbildern dürfen nicht mehr Anwärterinnen und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die Anwärterinnen und Anwärter werden am Arbeitsplatz unterwiesen und angeleitet. Die Ausbilderinnen und Ausbilder unterrichten die Ausbildungsleitung regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 15 – Leistungsnachweise während des Vorbereitungsdienstes
+# § 15 – Leistungsnachweise während des Vorbereitungsdienstes
 
 (1) Während des Vorbereitungsdienstes haben die Anwärterinnen und Anwärter drei Leistungsnachweise zu erbringen. Leistungsnachweise können sein:
 
@@ -588,8 +569,7 @@ Urlaub
 
 (5) Bei Verhinderung, Rücktritt, Säumnis, Täuschungshandlungen und Ordnungsverstößen sind die §§ 24 und 25 entsprechend anzuwenden. Über die Folgen entscheidet die Stelle, die die Aufgabe des Leistungsnachweises bestimmt hat.
 
-
-## § 16 – Bewertungen während des Vorbereitungsdienstes
+# § 16 – Bewertungen während des Vorbereitungsdienstes
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und Anwärter während des Vorbereitungsdienstes wird für jeden Ausbildungsabschnitt, dem die Anwärterinnen und Anwärter nach dem Ausbildungsplan mindestens für einen Monat zugewiesen werden, eine schriftliche Bewertung nach § 26 abgegeben.
 
@@ -597,13 +577,11 @@ Urlaub
 
 (3) Zum Abschluss der praktischen Ausbildung erstellt die Ausbildungsleitung ein zusammenfassendes Zeugnis, das die Bewertungen nach Absatz 1 und § 15 aufführt. Die Durchschnittspunktzahl wird festgesetzt, indem die Summe der Rangpunkte durch die Anzahl der bewerteten Ausbildungsabschnitte und der Leistungsnachweise geteilt wird. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
-## § 17 – Prüfungsamt
+# § 17 – Prüfungsamt
 
 Dem beim Bundesamt für Bauwesen und Raumordnung eingerichteten Prüfungsamt obliegt die Durchführung der Laufbahnprüfung; es trägt Sorge für die Entwicklung und gleichmäßige Anwendung der Bewertungsmaßstäbe und vollzieht die Entscheidungen der Prüfungskommission. Die Aufgaben des Prüfungsamtes können ganz oder teilweise auf andere Behörden übertragen werden.
 
-
-## § 18 – Prüfungskommission
+# § 18 – Prüfungskommission
 
 (1) Die Laufbahnprüfung wird vor einer Prüfungskommission abgelegt; für die schriftliche und mündliche Prüfung können gesonderte Prüfungskommissionen eingerichtet werden. Es können mehrere, auch fachspezifische Prüfungskommissionen eingerichtet werden, wenn die Zahl der zu prüfenden Anwärterinnen und Anwärter, die Zeitplanung zum fristgemäßen Abschluss der Prüfungen oder fachliche Gesichtspunkte in Bezug auf die Bewertung der schriftlichen Prüfungsarbeiten es erfordern; die gleichmäßige Anwendung der Bewertungsmaßstäbe muss gewährleistet sein. Die Vorsitzenden, sonstigen Mitglieder und Ersatzmitglieder der Prüfungskommissionen bestellt das Prüfungsamt. Die Spitzenorganisationen der Gewerkschaften und Berufsverbände des öffentlichen Dienstes können Mitglieder vorschlagen.
 
@@ -623,8 +601,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die schriftliche und die 
 
 (5) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder, darunter die oder der Vorsitzende, anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 19 – Ziel und Inhalt der Laufbahnprüfung
+# § 19 – Ziel und Inhalt der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und Anwärter für die vorgesehene Laufbahn befähigt sind.
 
@@ -636,8 +613,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die schriftliche und die 
 
 (5) Die Prüfung ist nicht öffentlich. Angehörige des Prüfungsamtes können teilnehmen. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums des Innern, für Bau und Heimat, des Bundesministeriums der Verteidigung und der Einstellungsbehörden, in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen, die Anwesenheit in der mündlichen Prüfung allgemein oder im Einzelfall gestatten. Auf Wunsch von schwerbehinderten Anwärterinnen und Anwärtern kann während des sie betreffenden mündlichen Teils der Prüfung die Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der Prüfungskommission dürfen, mit Ausnahme einer Protokollführerin oder eines Protokollführers, nur deren Mitglieder anwesend sein.
 
-
-## § 20 – Prüfungsort, Prüfungstermin
+# § 20 – Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen und der mündlichen Prüfung fest.
 
@@ -645,8 +621,7 @@ Bei der Bildung gesonderter Prüfungskommissionen für die schriftliche und die 
 
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern rechtzeitig Ort und Zeit der schriftlichen und der mündlichen Prüfung mit.
 
-
-## § 21 – Schriftliche Prüfung
+# § 21 – Schriftliche Prüfung
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt. Es kann hierzu von den Ausbildungsbehörden Vorschläge verlangen. Die vier schriftlichen Arbeiten sind aus folgenden Aufgabenbereichen auszuwählen:
 
@@ -682,15 +657,13 @@ b) Auswahlverfahren nach den Abschnitten 5 und 6 der Vergabeverordnung (Grundsä
 
 (8) Erscheinen Anwärterinnen oder Anwärter verspätet zu einer Aufsichtsarbeit und wird nicht nach § 24 Abs. 4 verfahren, gilt die versäumte Zeit als Bearbeitungszeit.
 
-
-## § 22 – Zulassung zur mündlichen Prüfung
+# § 22 – Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen Prüfung zu, wenn zwei oder mehr schriftliche Aufsichtsarbeiten mindestens mit der Note "ausreichend" bewertet worden sind. Andernfalls ist die Prüfung nicht bestanden.
 
 (2) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit. Dabei teilt es den zugelassenen Anwärterinnen und Anwärtern die von ihnen in den einzelnen schriftlichen Aufsichtsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
 
-
-## § 23 – Mündliche Prüfung
+# § 23 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung richtet sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt die Prüfungsfragen aus folgenden Prüfungsfächern je nach Fachrichtung aus:
 
@@ -834,8 +807,7 @@ cc) öffentliches Dienstrecht, Tarifrecht.
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die die Mitglieder der Prüfungskommission unterschreiben.
 
-
-## § 24 – Verhinderung, Rücktritt, Säumnis
+# § 24 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines ärztlichen Zeugnisses nachzuweisen.
 
@@ -845,8 +817,7 @@ cc) öffentliches Dienstrecht, Tarifrecht.
 
 (4) Versäumen Anwärterinnen oder Anwärter die schriftliche oder die mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 25 – Täuschung, Ordnungsverstoß
+# § 25 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung des Prüfungsamtes oder der Prüfungskommission nach Absatz 2 über die weitere Fortsetzung der Prüfung gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -856,8 +827,7 @@ cc) öffentliches Dienstrecht, Tarifrecht.
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören.
 
-
-## § 26 – Bewertung von Prüfungsleistungen
+# § 26 – Bewertung von Prüfungsleistungen
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
 
@@ -900,8 +870,7 @@ Durchschnittsrangpunktzahlen werden aus den Rangpunkten errechnet; sie werden au
 
 (5) Ist nach der Art des Leistungsnachweises oder der Prüfungsarbeit die Bewertung nach Absatz 2 nicht durchführbar, werden den Grundsätzen der Absätze 3 und 4 entsprechend für den unteren Rangpunkt jeder Note typische Anforderungen festgelegt. Von diesen Anforderungen aus wird die Erteilung des der Leistung entsprechenden Rangpunktes begründet. Für die Bewertung mündlicher Leistungen gelten diese Grundsätze sinngemäß.
 
-
-## § 27 – Gesamtergebnis
+# § 27 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote fest. Dabei werden berücksichtigt:
 
@@ -923,8 +892,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl fünf oder mehr betr�
 
 (3) Im Anschluss an die Beratung der Prüfungskommission teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-
-## § 28 – Zeugnis
+# § 28 – Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die Prüfung bestanden haben, ein Prüfungszeugnis, das mindestens die Abschlussnote sowie die nach § 27 Abs. 1 Satz 2 errechnete Durchschnittspunktzahl enthält. Ist die Prüfung nicht bestanden, gibt das Prüfungsamt dies den Anwärterinnen und Anwärtern schriftlich bekannt. Das Zeugnis nach Satz 1 und die Bekanntgabe nach Satz 2 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalakten genommen. Das Beamtenverhältnis auf Widerruf endet mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
@@ -932,26 +900,22 @@ Soweit die abschließend errechnete Durchschnittspunktzahl fünf oder mehr betr�
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den Fällen des § 25 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
-## § 29 – Prüfungsakten, Einsichtnahme
+# § 29 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Niederschriften über die Laufbahnprüfung und des Laufbahnprüfungszeugnisses ist mit den schriftlichen Aufsichtsarbeiten der Laufbahnprüfung zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Prüfungsamt fünf Jahre aufbewahrt. Der Aufbewahrungszeitraum beginnt mit dem Tag nach der mündlichen Prüfung. In den Fällen des § 25 Abs. 3 Satz 1 endet die Aufbewahrungsfrist fünf Jahre nach Eintritt der Bestandskraft des Bescheides.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der Laufbahnprüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 30 – Wiederholung
+# § 30 – Wiederholung
 
 (1) Wer die Prüfung nicht bestanden hat oder wessen Prüfung als nicht bestanden gilt, kann die Prüfung einmal wiederholen; die oberste Bundesbehörde kann in begründeten Fällen eine zweite Wiederholung zulassen.
 
 (2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission, innerhalb welcher Frist die Prüfung wiederholt werden kann, welche Teile der Ausbildung zu wiederholen und welche Leistungsnachweise zu erbringen sind. Die Wiederholungsfrist soll mindestens drei Monate betragen und ein Jahr nicht überschreiten. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verlängert. Die Wiederholungsprüfung soll zusammen mit den Anwärterinnen und Anwärtern der nächsten Laufbahnprüfung abgelegt werden.
 
-
-## § 31 – Übergangsregelung
+# § 31 – Übergangsregelung
 
 Für Anwärterinnen und Anwärter, die sich zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits im Vorbereitungsdienst befinden, gelten die Bestimmungen der Ausbildungs- und Prüfungsordnung für die Laufbahn des gehobenen bautechnischen Verwaltungsdienstes des Bundes vom 22. Juni 1994 (GMBl S. 899), geändert durch Verwaltungsvorschrift vom 29. September 1998 (GMBl S. 882), weiter.
 
-
-## § 32 – Inkrafttreten
+# § 32 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2004 in Kraft.

@@ -1,10 +1,7 @@
-# [HoheSeeÜbkG] Gesetz zum Übereinkommen vom 29. April 1958 über die Hohe See
-
-Ausfertigungsdatum: 21.09.1972
-
+% Gesetz zum Übereinkommen vom 29. April 1958 über die Hohe See
+% Ausfertigungsdatum: 21.09.1972
  
-
-## Art 1
+# Art 1
 
 Dem in New York am 30. Oktober 1958 von der Bundesrepublik Deutschland unterzeichneten
 
@@ -18,8 +15,7 @@ Fakultativen Unterzeichnungsprotokoll vom 29. April 1958 über die obligatorisch
 
 wird zugestimmt. Das Übereinkommen und das Unterzeichnungsprotokoll werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Die Bundesregierung wird ermächtigt, zur Verhütung der Verunreinigung des Meeres und des darüber befindlichen Luftraumes durch Rechtsverordnung zu bestimmen, daß Stoffe, die geeignet sind, die physikalische, chemische oder biologische Beschaffenheit des Meerwassers, des Meeresbodens oder der Luft nachteilig zu verändern, nicht oder nur unter bestimmten nachteilige Veränderungen ausschließende Voraussetzungen
 
@@ -43,30 +39,25 @@ in der Hohen See versenkt, dort dem Meer beigemengt oder auf andere Weise beseit
 
 4. das Wasserhaushaltsgesetz vom 27. Juli 1957 (Bundesgesetzbl. I S. 1110), zuletzt geändert durch das Kostenermächtigungs-Änderungsgesetz vom 23. Juni 1970 (Bundesgesetzbl. I S. 805).
 
-
-## Art 3
+# Art 3
 
 \-
 
-
-## Art 4
+# Art 4
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach Artikel 2 Abs. 1 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 100.000 (einhunderttausend) Deutsche Mark geahndet werden.
 
-
-## Art 5
+# Art 5
 
 Durch dieses Gesetz wird das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) eingeschränkt.
 
-
-## Art 6
+# Art 6
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art 7
+# Art 7
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

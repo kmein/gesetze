@@ -1,15 +1,11 @@
-# [ChemIndMeistPrV 2004] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie
-
-Ausfertigungsdatum: 15.09.2004
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie
+% Ausfertigungsdatum: 15.09.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Industriemeister/zur Geprüften Industriemeisterin - Fachrichtung Chemie erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -29,8 +25,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie.
 
-
-## § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften Industriemeisterin - Fachrichtung Chemie umfasst:
 
@@ -50,8 +45,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Im Prüfungsteil nach Absatz 3 Nr. 1 ist schriftlich in Form von anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen. Im Prüfungsteil nach Absatz 3 Nr. 2 ist in Form von zwei handlungsspezifischen, integrierten Situationsaufgaben I und II sowie einer anwendungsbezogenen schriftlichen Ausarbeitung gemäß § 5 zu prüfen. Die Situationsaufgabe I wird schriftlich geprüft; die Situationsaufgabe II besteht aus einer schriftlichen Aufgabenstellung und einem Fachgespräch.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen" ist zuzulassen, wer Folgendes nachweist:
 
@@ -71,8 +65,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Abweichend von den in den Absätzen 1 und 2 Nr. 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, berufspraktische Qualifikationen erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Fachrichtungsübergreifende Basisqualifikationen
+# § 4 – Fachrichtungsübergreifende Basisqualifikationen
 
 (1) Im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen" ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -142,8 +135,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (7) Wurde in nicht mehr als einer schriftlichen Prüfungsleistung in den in Absatz 1 Nr. 1 bis 4 genannten Prüfungsbereichen eine mangelhafte Leistung erbracht, ist in diesem Prüfungsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen ist eine Ergänzungsprüfung nicht anzubieten. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst die Handlungsbereiche:
 
@@ -333,15 +325,13 @@ c) Ergreifen von Maßnahmen zur Kosten- und Leistungsbeeinflussung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für diese Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2, Absatz 3 Satz 3, Absatz 5 Satz 2 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -375,8 +365,7 @@ Aus den einzelnen Bewertungen wird als zusammengefasste Bewertung das arithmetis
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsbestandteilen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -410,8 +399,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -425,8 +413,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -434,29 +421,25 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zusatzqualifikationen
+# § 11 – Zusatzqualifikationen
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, kann beantragen, die Prüfung in weiteren Spezialisierungsgebieten nach § 5 Abs. 4 abzulegen. Über die bestandene Prüfung ist eine Bescheinigung auszustellen. § 8 Abs. 1 gilt entsprechend.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschrift
+# § 12 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/ Geprüfte Industriemeisterin – Fachrichtung Chemie vom 3. Mai 1979 (BGBI. I S. 513), zuletzt geändert durch Artikel 1 Nr. 3 und Artikel 2 der Verordnung vom 15. April 1999 (BGBI. I S. 711), außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2258 – 2259)
 
@@ -465,8 +448,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2259 – 2260)
 

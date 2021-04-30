@@ -1,20 +1,15 @@
-# [FischNATÜbkG] Gesetz zu dem Übereinkommen vom 1. Juni 1967 über das Verhalten beim Fischfang im Nordatlantik
-
-Ausfertigungsdatum: 19.12.1975
-
+% Gesetz zu dem Übereinkommen vom 1. Juni 1967 über das Verhalten beim Fischfang im Nordatlantik
+% Ausfertigungsdatum: 19.12.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
+# Art 2
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft und das Bundesministerium für Verkehr und digitale Infrastruktur werden ermächtigt, für den Bereich nach Artikel 8 Abs. 2 des Übereinkommens für solche Fahrzeuge oder Geräte, die wegen ihrer Größe oder Art nur in Küstengewässern verwendet werden, durch Rechtsverordnung ohne Zustimmung des Bundesrates besondere Bestimmungen zu erlassen oder Befreiungen vorzusehen (Artikel 8 Abs. 3 des Übereinkommens) in bezug auf
 
@@ -36,13 +31,11 @@ Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung ganz od
 
 (4) Die Landesregierungen oder die von ihnen bestimmten obersten Landesbehörden unterrichten das Bundesministerium für Ernährung und Landwirtschaft über die Zuteilung der Kennzeichen an die Fischereifahrzeuge.
 
-
-## Art 3
+# Art 3
 
 Die Vorschriften der Anlage II des Übereinkommens in der jeweils geltenden Fassung, die auf Grund von Artikel 2 Abs. 3 erlassenen Rechtsverordnungen sowie Artikel 6 Abs. 1 Nr. 1, 2 Buchstabe a und Nr. 4 sind auch auf den Seeschiffahrtstraßen im Sinne des § 1 der Seeschiffahrtstraßen-Ordnung vom 3. Mai 1971 (Bundesgesetzbl. I S. 641), geändert durch die Erste Verordnung zur Änderung der Seeschiffahrtstraßen-Ordnung vom 7. Juli 1972 (Bundesgesetzbl. I S. 1169), sowie in den Häfen anzuwenden.
 
-
-## Art 4
+# Art 4
 
 (1) Außerhalb der seewärtigen Begrenzung des Küstenmeeres der Bundesrepublik Deutschland wird die Überwachung der Einhaltung der Vorschriften des Übereinkommens, dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Vorschriften von den Kapitänen oder den Schiffsoffizieren des nautischen Dienstes der im Fischereihilfsdienst eingesetzten Fahrzeuge der Bundesrepublik Deutschland, von sonstigen vom Bundesministerium für Ernährung und Landwirtschaft und vom Bundesministerium für Verkehr und digitale Infrastruktur hierzu beauftragten Bediensteten und, soweit die Gegenseitigkeit verbürgt ist, von besonders bevollmächtigten Kontrollbeamten (Artikel 9 des Übereinkommens) der Fischereiaufsichtsdienste der Vertragsstaaten des Übereinkommens durchgeführt.
 
@@ -52,13 +45,11 @@ Die Vorschriften der Anlage II des Übereinkommens in der jeweils geltenden Fass
 
 (4) Wohnräume dürfen nur zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung betreten werden.
 
-
-## Art 5
+# Art 5
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## Art 6
+# Art 6
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -88,13 +79,11 @@ zuwiderhandelt.
 
 2. das Bundesministerium für Verkehr und digitale Infrastruktur in den übrigen Fällen; es kann seine Zuständigkeit durch Rechtsverordnung ohne Zustimmung des Bundesrates auf nachgeordnete Behörden seines Bereiches übertragen.
 
-
-## Art 7
+# Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art 8
+# Art 8
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

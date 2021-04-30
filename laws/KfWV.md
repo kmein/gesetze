@@ -1,15 +1,11 @@
-# [KfWV] Verordnung zur Anwendung von bankaufsichtsrechtlichen Vorschriften auf die Kreditanstalt für Wiederaufbau sowie zur Zuweisung der Aufsicht über die Einhaltung dieser Vorschriften an die Bundesanstalt für Finanzdienstleistungsaufsicht  (KfW-Verordnung - KfWV)
-
-Ausfertigungsdatum: 20.09.2013
-
+% Verordnung zur Anwendung von bankaufsichtsrechtlichen Vorschriften auf die Kreditanstalt für Wiederaufbau sowie zur Zuweisung der Aufsicht über die Einhaltung dieser Vorschriften an die Bundesanstalt für Finanzdienstleistungsaufsicht  (KfW-Verordnung - KfWV)
+% Ausfertigungsdatum: 20.09.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12a des Gesetzes über die Kreditanstalt für Wiederaufbau, der durch Artikel 1 des Gesetzes vom 4. Juli 2013 (BGBl. I S. 2178) eingefügt worden ist, verordnet das Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium für Wirtschaft und Technologie nach Anhörung der Bundesanstalt für Finanzdienstleistungsaufsicht und der Deutschen Bundesbank:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt, welche Vorschriften
 
@@ -25,8 +21,7 @@ entsprechend anzuwenden sind auf die Kreditanstalt für Wiederaufbau (Anstalt) u
 
 (3) Die Verordnung regelt ferner die Zuweisung der Aufsicht über die Einhaltung der in dieser Verordnung für entsprechend anwendbar erklärten bankaufsichtsrechtlichen Vorschriften durch die Anstalt und die KfW-Gruppe an die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt).
 
-
-## § 2 – Allgemeine Vorschriften
+# § 2 – Allgemeine Vorschriften
 
 Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind entsprechend anzuwenden:
 
@@ -42,8 +37,7 @@ Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetz
 
 6. § 8 Absatz 2 des Kreditwesengesetzes.
 
-
-## § 3 – Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
+# § 3 – Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, Finanzkonglomerate, gemischte Finanzholding-Gesellschaften und gemischte Unternehmen
 
 Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetzes sind auf die Anstalt und die KfW-Gruppe entsprechend anzuwenden:
 
@@ -73,8 +67,7 @@ Folgende Vorschriften der Verordnung (EU) Nr. 575/2013 und des Kreditwesengesetz
 
 13. die Artikel 429 und 430 der Verordnung (EU) Nr. 575/2013.
 
-
-## § 4 – Vorschriften über die Beaufsichtigung der Institute
+# § 4 – Vorschriften über die Beaufsichtigung der Institute
 
 Folgende Vorschriften des Kreditwesengesetzes sind auf die Anstalt und die KfW-Gruppe entsprechend anzuwenden:
 
@@ -88,28 +81,23 @@ Folgende Vorschriften des Kreditwesengesetzes sind auf die Anstalt und die KfW-G
 
 5. § 49 des Kreditwesengesetzes.
 
-
-## § 5 – Finanzkonglomerate-Aufsichtsgesetz
+# § 5 – Finanzkonglomerate-Aufsichtsgesetz
 
 Das Finanzkonglomerate-Aufsichtsgesetz ist entsprechend anzuwenden.
 
-
-## § 6 – Sondervorschriften
+# § 6 – Sondervorschriften
 
 Die §§ 52, 52a und 53e bis 53n des Kreditwesengesetzes sind entsprechend anzuwenden.
 
-
-## § 7 – Sonstiges
+# § 7 – Sonstiges
 
 Die §§ 60a und 60b des Kreditwesengesetzes sind entsprechend anzuwenden.
 
-
-## § 8 – Zuweisungsgeschäfte
+# § 8 – Zuweisungsgeschäfte
 
 Für Zuweisungsgeschäfte nach § 2 Absatz 4 des Gesetzes über die Kreditanstalt für Wiederaufbau ist die Entscheidung über die Kreditgewährung und den Erwerb sowie die Veräußerung von Finanzinstrumenten von der Anwendung der §§ 25a und 25b des Kreditwesengesetzes ausgenommen. Dies gilt auch für im Einzelfall von der Bundesregierung getroffene Folgeentscheidungen im Zusammenhang mit Zuweisungsgeschäften nach § 2 Absatz 4 des Gesetzes über die Kreditanstalt für Wiederaufbau.
 
-
-## § 9 – Zuweisung der Aufsicht über die Einhaltung der bankaufsichtsrechtlichen Vorschriften
+# § 9 – Zuweisung der Aufsicht über die Einhaltung der bankaufsichtsrechtlichen Vorschriften
 
 (1) Die Bundesanstalt übt die Aufsicht über die Einhaltung der in dieser Verordnung für entsprechend anwendbar erklärten bankaufsichtsrechtlichen Vorschriften durch die Anstalt und die KfW-Gruppe aus. Die Bundesanstalt arbeitet dabei entsprechend § 7 des Kreditwesengesetzes mit der Deutschen Bundesbank zusammen.
 
@@ -123,8 +111,7 @@ Die jeweils geltenden Grundsätze für die Ausübung der Rechts- und Fachaufsich
 
 (3) § 9 des Kreditwesengesetzes gilt für die dort genannten Personen, soweit sie zur Durchführung dieser Verordnung tätig werden, entsprechend; hiervon ausgenommen ist § 9 Absatz 1 Satz 4 Nummer 7, 9 bis 11 und 16 bis 18 des Kreditwesengesetzes.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich der Absätze 2 bis 4 am 1. Januar 2016 in Kraft.
 

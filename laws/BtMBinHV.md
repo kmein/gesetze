@@ -1,20 +1,15 @@
-# [BtMBinHV] Betäubungsmittel-Binnenhandelsverordnung  (BtMBinHV)
-
-Ausfertigungsdatum: 16.12.1981
-
+% Betäubungsmittel-Binnenhandelsverordnung  (BtMBinHV)
+% Ausfertigungsdatum: 16.12.1981
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 4 des Betäubungsmittelgesetzes vom 28. Juli 1981 (BGBl. I S. 681) wird verordnet:
 
-
-## § 1
+# § 1
 
 Wer Betäubungsmittel nach § 12 Abs. 1 des Betäubungsmittelgesetzes abgibt, hat für jede einzelne Abgabe einen Abgabebeleg schriftlich unter Verwendung des amtlichen Formblatts gemäß § 6 Absatz 1 Satz 1 oder elektronisch gemäß § 6 Absatz 1 Satz 2 zu erstellen.
 
-
-## § 2
+# § 2
 
 (1) Der Abgebende hat auf allen Teilen des Abgabebelegs (Abgabemeldung, Empfangsbestätigung, Lieferschein und Lieferscheindoppel) übereinstimmend folgende Angaben zu machen:
 
@@ -49,8 +44,7 @@ Der Abgebende hat die Abgabemeldung eigenhändig mit Kugelschreiber zu unterschr
 
 (3) (weggefallen)
 
-
-## § 3
+# § 3
 
 (1) Die Empfangsbestätigung und der Lieferschein sind dem Erwerber zusammen mit den Betäubungsmitteln als Schriftstücke oder elektronische Dokumente zu übersenden.
 
@@ -58,8 +52,7 @@ Der Abgebende hat die Abgabemeldung eigenhändig mit Kugelschreiber zu unterschr
 
 (3) Das Lieferscheindoppel ist vorbehaltlich der Vorschrift des § 4 Abs. 2 bis zum Eingang der Empfangsbestätigung aufzubewahren.
 
-
-## § 4
+# § 4
 
 (1) Der Erwerber hat
 
@@ -81,13 +74,11 @@ b) die von dem Erwerber nach Absatz 1 Nr. 2 vermerkten Abweichungen als solche e
 
 2. das Lieferscheindoppel dem Bundesinstitut für Arzneimittel und Medizinprodukte binnen einer Woche nach dem Empfang der Empfangsbestätigung zu übersenden.
 
-
-## § 5
+# § 5
 
 Die Empfangsbestätigungen oder bis zu deren Eingang die Lieferscheindoppel sind vom Abgebenden nach Abgabedaten, die Lieferscheine vom Erwerber nach Erwerbsdaten geordnet drei Jahre gesondert aufzubewahren und auf Verlangen der nach § 19 Abs. 1 des Betäubungsmittelgesetzes zuständigen Behörde einzusenden, Beauftragten dieser Behörde vorzulegen oder ihnen im Falle einer elektronischen Aufbewahrung zugänglich zu machen. Die Frist beginnt für den Abgebenden mit dem Abgabedatum, für den Erwerber mit dem Datum des Empfangs der Betäubungsmittel.
 
-
-## § 6
+# § 6
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt das amtliche Formblatt nach § 1 heraus und macht es im Bundesanzeiger bekannt. Für das elektronische Verfahren legt das Bundesinstitut für Arzneimittel und Medizinprodukte die Bearbeitungsvoraussetzungen fest und gibt auf seiner Internetseite www.bfarm.de insbesondere Folgendes bekannt:
 
@@ -97,8 +88,7 @@ Die Empfangsbestätigungen oder bis zu deren Eingang die Lieferscheindoppel sind
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte weist die BtM-Nummern (§ 2 Abs. 1 Satz 1 Nr. 1 und 2) den berechtigten Personen und Personenvereinigungen zu und macht die vom Bundesinstitut für Arzneimittel und Medizinprodukte zugewiesenen Pharmazentralnummern für Betäubungsmittel (§ 2 Abs. 1 Satz 1 Nr. 3 Buchstabe a) auf seiner Internetseite www.bfarm.de bekannt.
 
-
-## § 7
+# § 7
 
 Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des Betäubungsmittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -116,13 +106,11 @@ Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des Betäubungsmittelgesetzes han
 
 7. entgegen § 5 die dort bezeichneten Teile des Abgabebelegs nicht oder nicht vorschriftsmäßig aufbewahrt.
 
-
-## § 8 – (weggefallen)
+# § 8 – (weggefallen)
 
 \-
 
-
-## § 9
+# § 9
 
 (1) Diese Verordnung tritt am 1. Januar 1982 in Kraft.
 
@@ -130,7 +118,6 @@ Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des Betäubungsmittelgesetzes han
 
 (3)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit

@@ -1,15 +1,11 @@
-# [LAP-gDFm/EloAufklBundV] Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes  (LAP-gDFm/EloAufklBundV)
-
-Ausfertigungsdatum: 22.08.2006
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes  (LAP-gDFm/EloAufklBundV)
+% Ausfertigungsdatum: 22.08.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -205,8 +201,7 @@ Sonstige Vorschriften
 
 Inkrafttreten
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des gehobenen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes mit den Fachgebieten Technik und Sprachen umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn.
 
@@ -224,20 +219,17 @@ Inkrafttreten
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
-## § 2 – Ziel und Inhalt der Ausbildung
+# § 2 – Ziel und Inhalt der Ausbildung
 
 (1) Die Ausbildung führt zur Berufsbefähigung. Sie vermittelt den Beamtinnen und Beamten die Fähigkeiten, Kenntnisse und Fertigkeiten, die sie zur Anwendung ihres im Studium erworbenen Wissens in ihrer Laufbahn benötigen. Darüber hinaus werden sie mit den Gebieten Verwaltung und Recht allgemein und fachbezogen vertraut gemacht. Ihr Systemverständnis für technische, wirtschaftliche und verwaltungsmäßige Zusammenhänge wird gefördert. Grundlagen der Volks- und Betriebswirtschaft, des Managements und der Mitarbeiterführung werden vermittelt. Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung sowie einer leistungsfähigen Fernmelde- und Elektronischen Aufklärung für die Sicherheit der freiheitlichen demokratischen Grundordnung hingewiesen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt; die Beamtinnen und Beamten erwerben europaspezifische Kenntnisse. Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns und zum selbständigen und wirtschaftlichen Handeln sowie soziale Kompetenz sind zu fördern.
 
 (2) Die Beamtinnen und Beamten sind zum Selbststudium verpflichtet; das Selbststudium ist zu fördern.
 
-
-## § 3 – Einstellungsbehörden
+# § 3 – Einstellungsbehörden
 
 Einstellungsbehörden sind die Wehrbereichsverwaltungen und der Bundesnachrichtendienst. Ihnen obliegen die Ausschreibung und die Durchführung des Auswahlverfahrens sowie die Einstellung und die Betreuung der Anwärterinnen und Anwärter; sie treffen die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes und der Aufstiegsausbildung. Sie sind die für die beamtenrechtlichen Entscheidungen zuständigen Dienstbehörden.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -245,8 +237,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 2. einen Fachhochschulabschluss oder einen als gleichwertig anerkannten Studienabschluss in einem dem jeweiligen Fachgebiet dieser Laufbahn verwandten Studiengang, insbesondere als Dolmetscherin oder Dolmetscher, Übersetzerin oder Übersetzer, Diplom-Ingenieurin oder Diplom-Ingenieur der Elektrotechnik oder Informationstechnik, Diplom-Informatikerin oder Diplom-Informatiker sowie als Diplom-Mathematikerin oder Diplom-Mathematiker, besitzt.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -272,8 +263,7 @@ c) Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes und übe
 
 2. die Studienbücher der Fachhochschulen oder vergleichbarer Einrichtungen.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber aufgrund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -289,8 +279,7 @@ c) Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes und übe
 
 (7) Die Einstellungsbehörde bestellt die Mitglieder und Ersatzmitglieder der Auswahlkommission für die Dauer von drei Jahren; Wiederbestellung ist zulässig.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Einstellungsbehörden entscheiden nach dem Ergebnis des Auswahlverfahrens über die Einstellung von Bewerberinnen und Bewerbern.
 
@@ -314,15 +303,13 @@ b) in geordneten wirtschaftlichen Verhältnissen lebt sowie
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde. Anstelle der Kostenübernahme kann die Einstellungsbehörde die Einstellungsuntersuchung selbst vornehmen.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Regierungsinspektoranwärterinnen und Bewerber zu Regierungsinspektoranwärtern ernannt.
 
 (2) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht der Einstellungsbehörde. Während der Ausbildung bei den einzelnen Ausbildungsbehörden unterstehen sie auch deren Dienstaufsicht.
 
-
-## § 9 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
+# § 9 – Dauer, Verkürzung und Verlängerung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert 18 Monate.
 
@@ -348,13 +335,11 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (7) Bei Nichtbestehen der Laufbahnprüfung wird der Vorbereitungsdienst bis zum Ablauf der Wiederholungsfrist verlängert.
 
-
-## § 10 – Urlaub während des Vorbereitungsdienstes
+# § 10 – Urlaub während des Vorbereitungsdienstes
 
 Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 11 – Schwerbehinderte Menschen
+# § 11 – Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für die Erbringung von Leistungsnachweisen und für die Teilnahme an Prüfungen die ihrer Behinderung angemessenen Erleichterungen gewährt. Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu gewährenden Erleichterungen sind mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung rechtzeitig, sofern dies zeitlich möglich ist, zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden. Die Sätze 1 bis 4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 
@@ -362,8 +347,7 @@ Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das Prüfungsamt.
 
-
-## § 12 – Gliederung des Vorbereitungsdienstes
+# § 12 – Gliederung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst gliedert sich wie folgt in Praktika und praxisbezogene Lehrveranstaltungen:  
 
@@ -380,8 +364,7 @@ Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 (2) Von der Reihenfolge der einzelnen Ausbildungsabschnitte kann abgewichen werden. Die Abweichungen ergeben sich aus dem Ausbildungsrahmenplan (§ 19 Abs. 2 Satz 3). Die Ausbildung kann durch Exkursionen zu Dienststellen der Fernmelde- und Elektronischen Aufklärung des Bundes sowie zu Behörden, Gerichten, industriellen, kaufmännischen oder kulturellen Einrichtungen ergänzt werden. Die jeweilige Exkursion ordnet die Einstellungsbehörde im Einvernehmen mit der Ausbildungsleitung (§ 19 Abs. 2 Satz 1) an.
 
-
-## § 13 – Grundsätze der praxisbezogenen Lehrveranstaltungen
+# § 13 – Grundsätze der praxisbezogenen Lehrveranstaltungen
 
 (1) Die praxisbezogenen Lehrveranstaltungen werden an der Schule Strategische Aufklärung der Bundeswehr, der Schule des Bundesnachrichtendienstes und an einer Bundeswehrverwaltungsschule durchgeführt. Sie werden anwendungsorientiert unter Mitarbeit und Mitgestaltung der Anwärterinnen und Anwärter durchgeführt. Sie bauen ergänzend und vertiefend auf den Inhalten des Studiums auf und vermitteln das für die Laufbahn notwendige spezifische Wissen.
 
@@ -389,8 +372,7 @@ Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 (3) Die Ausbildungseinrichtungen und Schulen erstellen die Lehrpläne; diese bedürfen der im Einvernehmen mit dem Bundeskanzleramt erzielten Genehmigung des Bundesministeriums der Verteidigung. Die Lehrpläne bestimmen die Lernziele der Lehrgebiete, die ihnen und ihren Intensitätsstufen entsprechenden Lerninhalte, die Stundenzahlen und die Art der Leistungsnachweise.
 
-
-## § 14 – Praxisbezogene Lehrveranstaltung I
+# § 14 – Praxisbezogene Lehrveranstaltung I
 
 (1) In der Praxisbezogenen Lehrveranstaltung I werden den Anwärterinnen und Anwärtern die allgemeinen Grundlagen der Fernmelde- und Elektronischen Aufklärung vermittelt. Außerdem werden die Anwärterinnen und Anwärter in die Grundzüge der einzelnen Fachgebiete eingeführt.
 
@@ -420,8 +402,7 @@ Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 12. Informationsaustausch und Sicherheit.
 
-
-## § 15 – Praxisbezogene Lehrveranstaltung II
+# § 15 – Praxisbezogene Lehrveranstaltung II
 
 (1) Die Praxisbezogene Lehrveranstaltung II baut ergänzend und vertiefend auf den Lerninhalten der Praxisbezogenen Lehrveranstaltung I sowie auf den im Praktikum I vermittelten Kenntnissen auf.
 
@@ -431,8 +412,7 @@ Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
 2. Aufklärungsschwerpunkte.
 
-
-## § 16 – Praxisbezogene Lehrveranstaltung III
+# § 16 – Praxisbezogene Lehrveranstaltung III
 
 In der Praxisbezogenen Lehrveranstaltung III werden die Anwärterinnen und Anwärter mit den spezialgesetzlichen Vorschriften und Verwaltungsbestimmungen insbesondere in den Lehrgebieten
 
@@ -444,8 +424,7 @@ In der Praxisbezogenen Lehrveranstaltung III werden die Anwärterinnen und Anwä
 
 soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertraut gemacht.
 
-
-## § 17 – Praxisbezogene Lehrveranstaltung IV
+# § 17 – Praxisbezogene Lehrveranstaltung IV
 
 (1) Die Praxisbezogene Lehrveranstaltung IV baut ergänzend und vertiefend auf den Lerninhalten der vorausgegangenen praxisbezogenen Lehrveranstaltungen sowie auf den in den Praktika vermittelten Kenntnissen auf.
 
@@ -457,8 +436,7 @@ soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertrau
 
 3. Fremde Streitkräfte und daneben oder stattdessen Paramilitärische Organisationen.
 
-
-## § 18 – Praktika
+# § 18 – Praktika
 
 (1) In den Praktika vertiefen die Anwärterinnen und Anwärter die im Studium und in den praxisbezogenen Lehrveranstaltungen erworbenen Kenntnisse und lernen, sie in der Praxis anzuwenden.
 
@@ -472,8 +450,7 @@ soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertrau
 
 (6) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
-## § 19 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
+# § 19 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
 (1) Die Bedarfsträger bestellen jeweils eine Beamtin oder einen Beamten des gehobenen Dienstes der Fernmelde- und Elektronischen Aufklärung als Ausbildungsbeauftragte oder Ausbildungsbeauftragten. Diese sind - soweit erforderlich - von anderen Dienstgeschäften zu entlasten. Sie lenken und überwachen die Ausbildung der Anwärterinnen und Anwärter ihres Bereichs und stellen eine sorgfältige Ausbildung sicher. Mit den Anwärterinnen und Anwärtern führen sie regelmäßig Besprechungen durch und beraten sie in Fragen der Ausbildung.
 
@@ -485,8 +462,7 @@ soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertrau
 
 (5) Die Ausbildungsleitung führt für die Anwärterinnen und Anwärter die Personalteilakten "Ausbildung", in die der Ausbildungsrahmenplan, der Ausbildungsplan, alle Leistungsnachweise und Bewertungen sowie eine Ausfertigung des Prüfungszeugnisses aufzunehmen sind.
 
-
-## § 20 – Leistungsnachweise während der praxisbezogenen Lehrveranstaltungen
+# § 20 – Leistungsnachweise während der praxisbezogenen Lehrveranstaltungen
 
 (1) Während der praxisbezogenen Lehrveranstaltungen haben die Anwärterinnen und Anwärter Leistungsnachweise zu erbringen. Leistungsnachweise können sein:
 
@@ -518,8 +494,7 @@ soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertrau
 
 (9) Zum Abschluss der Praxisbezogenen Lehrveranstaltung IV erstellt die Ausbildungsleitung ein zusammenfassendes Zeugnis, in dem die Leistungen der Anwärterinnen und Anwärter nach den Absätzen 2 bis 5 aufgeführt werden. Das Zeugnis schließt mit einer nach § 31 Abs. 1 Satz 2 ermittelten Durchschnittspunktzahl. Bei der Ermittlung der Durchschnittspunktzahl werden die schriftlichen Aufsichtsarbeiten vierfach und die übrigen Bewertungen einfach gewertet. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
-## § 21 – Bewertungen während der Praktika
+# § 21 – Bewertungen während der Praktika
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und Anwärter während der Praktika wird für jedes Ausbildungsgebiet, dem Anwärterinnen und Anwärter nach dem Ausbildungsplan mindestens für vier Wochen zugewiesen werden, eine schriftliche oder elektronische Bewertung nach § 31 abgegeben.
 
@@ -529,15 +504,13 @@ soweit dies für die Wahrnehmung ihrer späteren Aufgaben notwendig ist, vertrau
 
 (4) Soweit eine lehrgangsgebundene Sprachausbildung durchgeführt wird, finden für Anwärterinnen und Anwärter des Fachgebiets Sprachen keine Bewertungen statt.
 
-
-## § 22 – Prüfungsamt
+# § 22 – Prüfungsamt
 
 (1) Dem beim Bundesministerium der Verteidigung eingerichteten Prüfungsamt obliegt die Durchführung der Laufbahnprüfung; es trägt Sorge für die Entwicklung und gleichmäßige Anwendung der Bewertungsmaßstäbe und vollzieht die sonstigen Entscheidungen der Prüfungskommission.
 
 (2) Die Aufgaben des Prüfungsamtes können ganz oder teilweise auf andere Behörden übertragen werden.
 
-
-## § 23 – Prüfungskommission
+# § 23 – Prüfungskommission
 
 (1) Die Laufbahnprüfung wird vor einer Prüfungskommission abgelegt; für die schriftliche und mündliche Prüfung können gesonderte Prüfungskommissionen eingerichtet werden. Es können mehrere, auch fachspezifische Prüfungskommissionen eingerichtet werden, wenn die Zahl der zu prüfenden Anwärterinnen und Anwärter und die Zeitplanung zum fristgemäßen Abschluss der Prüfungen oder fachliche Gesichtspunkte in Bezug auf die Bewertung der schriftlichen Prüfungsarbeiten es erfordern; die gleichmäßige Anwendung der Bewertungsmaßstäbe muss gewährleistet sein. Die Vorsitzenden, sonstigen Mitglieder und Ersatzmitglieder der Prüfungskommissionen bestellt das Prüfungsamt unter Beteiligung der Ausbildungsleitung auf Vorschlag der Einstellungsbehörden; die Spitzenorganisationen der Gewerkschaften und Berufsverbände des öffentlichen Dienstes können Mitglieder vorschlagen. Die Mitglieder und Ersatzmitglieder werden für die Dauer von höchstens drei Jahren bestellt. Eine Wiederbestellung ist zulässig.
 
@@ -567,8 +540,7 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (6) Die Prüfungskommission ist beschlussfähig, wenn mindestens drei Mitglieder, darunter die oder der Vorsitzende, anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 24 – Inhalt und Durchführung der Laufbahnprüfung
+# § 24 – Inhalt und Durchführung der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und Anwärter für die vorgesehene Laufbahn befähigt sind.
 
@@ -580,8 +552,7 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (5) Die Prüfung ist nicht öffentlich. Angehörige des Prüfungsamtes können teilnehmen. Das Prüfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums der Verteidigung, des Bundeskanzleramtes und der Einstellungsbehörden, in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen, die Anwesenheit in der mündlichen Prüfung allgemein oder im Einzelfall gestatten. Auf Wunsch von schwerbehinderten Anwärterinnen und Anwärtern kann während des sie betreffenden mündlichen Teils der Prüfung die Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der Prüfungskommission über die Bewertung der Prüfungsleistungen dürfen nur deren Mitglieder anwesend sein.
 
-
-## § 25 – Prüfungsort, Prüfungstermin
+# § 25 – Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen und der mündlichen Prüfung fest.
 
@@ -589,8 +560,7 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern Ort und Zeit der schriftlichen und der mündlichen Prüfung rechtzeitig mit.
 
-
-## § 26 – Schriftliche Prüfung
+# § 26 – Schriftliche Prüfung
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt. Jeweils eine Aufgabe der vier schriftlichen Arbeiten ist aus den in den §§ 14 bis 17 genannten Lehrgebieten zu bestimmen. Die Zusammenfassung mehrerer Lehrgebiete zu einer Aufgabe ist zulässig.
 
@@ -608,15 +578,13 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (8) Erscheinen Anwärterinnen oder Anwärter verspätet zu einer Aufsichtsarbeit und wird nicht nach § 29 verfahren, gilt die versäumte Zeit als Bearbeitungszeit.
 
-
-## § 27 – Zulassung zur mündlichen Prüfung
+# § 27 – Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen Prüfung zu, wenn zwei oder mehr schriftliche Prüfungsarbeiten mindestens mit der Note "ausreichend" bewertet worden sind. Andernfalls ist die Prüfung nicht bestanden.
 
 (2) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit. Dabei teilt es den zugelassenen Anwärterinnen und Anwärtern die von ihnen in den einzelnen schriftlichen Prüfungsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
 
-
-## § 28 – Mündliche Prüfung
+# § 28 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung erstreckt sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte. Die Prüfungskommission wählt den Prüfungsstoff aus den in den §§ 14 bis 17 genannten Lehrgebieten aus.
 
@@ -628,8 +596,7 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (5) Über den Ablauf der Prüfung wird ein Protokoll durch die Mitglieder der jeweiligen Prüfungskommission schriftlich oder elektronisch gefertigt.
 
-
-## § 29 – Verhinderung, Rücktritt, Säumnis
+# § 29 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines amts-, vertrauens- oder personalärztlichen Zeugnisses oder eines Zeugnisses einer beamteten Ärztin oder eines beamteten Arztes nachzuweisen; ein privatärztliches Zeugnis kann anerkannt werden.
 
@@ -639,8 +606,7 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (4) Versäumen Anwärterinnen oder Anwärter die schriftliche oder die mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 30 – Täuschung, Ordnungsverstoß
+# § 30 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung des Prüfungsamtes oder der Prüfungskommission über die weitere Fortsetzung der Prüfung gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -650,8 +616,7 @@ b) mindestens zwei weitere Beamtinnen oder Beamte des gehobenen Dienstes der Fer
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören.
 
-
-## § 31 – Bewertung von Prüfungsleistungen
+# § 31 – Bewertung von Prüfungsleistungen
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
 
@@ -693,8 +658,7 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 
 (5) Ist nach der Art des Leistungsnachweises oder der Prüfungsarbeit die Bewertung nach Absatz 2 nicht durchführbar, werden den Grundsätzen der Absätze 3 und 4 entsprechend für den unteren Rangpunkt jeder Note typische Anforderungen festgelegt. Von diesen Anforderungen aus wird die Erteilung des der Leistung entsprechenden Rangpunktes begründet. Für die Bewertung mündlicher Leistungen gelten diese Grundsätze sinngemäß.
 
-
-## § 32 – Gesamtergebnis
+# § 32 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote fest. Dabei werden berücksichtigt:  
 
@@ -714,8 +678,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (4) Über das Gesamtergebnis der Laufbahnprüfung ist ein schriftliches oder elektronisches Protokoll zu fertigen.
 
-
-## § 33 – Zeugnis
+# § 33 – Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die Prüfung bestanden haben, ein Prüfungszeugnis, das mindestens die Abschlussnote sowie die nach § 31 Abs. 1 Satz 2 errechnete Durchschnittspunktzahl enthält. Ist die Prüfung nicht bestanden, gibt das Prüfungsamt dies den Anwärterinnen und Anwärtern schriftlich bekannt. Das Zeugnis nach Satz 1 und die Bekanntgabe nach Satz 2 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalgrundakten genommen. Das Beamtenverhältnis auf Widerruf endet mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
@@ -723,22 +686,19 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den Fällen des § 30 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
-## § 34 – Prüfungsakten, Einsichtnahme
+# § 34 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die praxisbezogenen Lehrveranstaltungen und die Praktika, der Niederschriften über die Laufbahnprüfung und des Zeugnisses der Laufbahnprüfung ist mit den schriftlichen Aufsichtsarbeiten der Laufbahnprüfung zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Kommando Strategische Aufklärung mindestens fünf Jahre aufbewahrt.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der Laufbahnprüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 35 – Wiederholung
+# § 35 – Wiederholung
 
 (1) Wer die Prüfung nicht bestanden hat oder wessen Prüfung als nicht bestanden gilt, kann diese einmal wiederholen; das Bundesministerium der Verteidigung kann im Einvernehmen mit dem Bundeskanzleramt in begründeten Fällen eine zweite Wiederholung zulassen. Prüfungen sind vollständig zu wiederholen.
 
 (2) Das Prüfungsamt bestimmt auf Vorschlag der Prüfungskommission, innerhalb welcher Frist die Prüfung wiederholt werden kann, welche Teile der Ausbildung zu wiederholen und welche Leistungsnachweise zu erbringen sind. Die Wiederholungsfrist soll mindestens drei Monate betragen und ein Jahr nicht überschreiten. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Die Wiederholungsprüfung soll zusammen mit den Anwärterinnen und Anwärtern der nächsten oder der übernächsten Laufbahnprüfung abgelegt werden.
 
-
-## § 36 – Allgemeine Regelungen zum Aufstieg
+# § 36 – Allgemeine Regelungen zum Aufstieg
 
 (1) Beamtinnen und Beamte der Laufbahn des mittleren Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes mit der Fachrichtung Fernmeldeaufklärung können bei Erfüllung der Voraussetzungen der §§ 33 bis 33b der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, am Aufstieg in die Laufbahn des gehobenen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes teilnehmen, und zwar Beamtinnen und Beamte
 
@@ -752,8 +712,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (4) Aufstiegsbeamtinnen und Aufstiegsbeamte, die die Aufstiegs- oder die Zwischenprüfung endgültig nicht bestehen, die praxisbezogenen Lehrveranstaltungen endgültig nicht erfolgreich abschließen oder deren Befähigung für die höhere Laufbahn endgültig nicht festgestellt wird, verbleiben in ihrer bisherigen Laufbahn.
 
-
-## § 37 – Allgemeine Regelungen zum Ausbildungsaufstieg
+# § 37 – Allgemeine Regelungen zum Ausbildungsaufstieg
 
 (1) Die Aufstiegsbeamtinnen und Aufstiegsbeamten werden für die Aufgaben der höheren Laufbahn ausgebildet. Die Ausbildung besteht aus einer Fachausbildung von 18 Monaten, die im Fachgebiet Technik inhaltlich wie ein Ingenieurstudium und im Fachgebiet Sprachen als Sprachausbildung einschließlich der Vermittlung grundlegender Übersetzungstechniken zu gestalten ist, und einer berufspraktischen Ausbildung von 18 Monaten. Sie vermittelt den Aufstiegsbeamtinnen und Aufstiegsbeamten die wissenschaftsbezogenen Kenntnisse, Erkenntnisse und Methoden sowie die berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die zur Erfüllung der Aufgaben in der Laufbahn des gehobenen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes erforderlich sind. Nach Abschluss der Ausbildung sollen sie in der Lage sein, die ihnen übertragenen Dienstobliegenheiten in der neuen Laufbahn wahrzunehmen.
 
@@ -763,8 +722,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (4) § 9 Abs. 3 bis 7 und die §§ 10 bis 35 mit Ausnahme von § 32 Abs. 1 Satz 1 und 2 gelten entsprechend, soweit nicht im Kapitel 3 etwas Abweichendes geregelt ist.
 
-
-## § 38 – Fachausbildung und berufspraktische Ausbildung während des Ausbildungsaufstiegs
+# § 38 – Fachausbildung und berufspraktische Ausbildung während des Ausbildungsaufstiegs
 
 (1) Im Fachgebiet Technik besteht die wissenschaftsorientiert zu gestaltende Fachausbildung bei der Bundesakademie für Wehrverwaltung und Wehrtechnik aus sechs Trimestern von je drei Monaten Dauer. Sie wird für die Hauptfachrichtungen Maschinenbau und Elektro-/Informationstechnik durchgeführt. Den Aufstiegsbeamtinnen und Aufstiegsbeamten werden Kenntnisse und Fertigkeiten in folgenden Prüfungsgebieten vermittelt:
 
@@ -780,8 +738,7 @@ Daneben werden die Aufstiegsbeamtinnen und Aufstiegsbeamten während der Ausbild
 
 (3) Die berufspraktische Ausbildung findet für beide Fachgebiete gemeinsam statt. Sie entspricht dem Vorbereitungsdienst für Laufbahnbewerberinnen und Laufbahnbewerber des gehobenen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes.
 
-
-## § 39 – Leistungsnachweise während der Fachausbildung im Ausbildungsaufstieg
+# § 39 – Leistungsnachweise während der Fachausbildung im Ausbildungsaufstieg
 
 (1) Während der Fachausbildung sind von den Aufstiegsbeamtinnen und Aufstiegsbeamten im Fachgebiet Technik Leistungsnachweise zu erbringen, und zwar
 
@@ -799,8 +756,7 @@ Die Aufgaben für die schriftlichen Arbeiten sind den in § 38 Abs. 1 genannten 
 
 (5) Für die Leistungsnachweise im Fachgebiet Sprachen gelten die Prüfungsbestimmungen des Bundessprachenamtes sowie für die Aufstiegsbeamtinnen und Aufstiegsbeamten des Bundesnachrichtendienstes darüber hinaus für die Fertigkeit "Übersetzen" die Prüfungsbestimmungen der Schule des Bundesnachrichtendienstes.
 
-
-## § 40 – Zwischenprüfung im Ausbildungsaufstieg
+# § 40 – Zwischenprüfung im Ausbildungsaufstieg
 
 (1) Im Anschluss an die Fachausbildung haben die Aufstiegsbeamtinnen und Aufstiegsbeamten in einer Zwischenprüfung nachzuweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt. Die Zwischenprüfung richtet sich an den Lernzielen aus.
 
@@ -824,8 +780,7 @@ zu bestimmen sind. Dabei sind zwei Aufsichtsarbeiten aus dem Prüfungsgebiet nac
 
 (7) Die Zwischenprüfung ist bestanden, wenn mindestens die Durchschnittspunktzahl 5 erreicht wurde und höchstens eine Arbeit schlechter als mit Rangpunkt 5, aber mindestens mit Rangpunkt 2 bewertet wurde. Ist die Zwischenprüfung nicht bestanden, kann sie innerhalb von vier Monaten nach Abschluss der Fachausbildung wiederholt werden; in begründeten Ausnahmefällen kann das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundeskanzleramt eine zweite Wiederholungsprüfung zulassen. Die Zwischenprüfung ist vollständig zu wiederholen. Die weitere Ausbildung wird wegen der Wiederholung der Prüfung nicht ausgesetzt.
 
-
-## § 41 – Prüfung und Gesamtergebnis im Ausbildungsaufstieg
+# § 41 – Prüfung und Gesamtergebnis im Ausbildungsaufstieg
 
 Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote fest. Dabei werden berücksichtigt:  
 
@@ -838,8 +793,7 @@ Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschl
 | 5\. | die Durchschnittspunktzahl der drei übrigen schriftlichen Prüfungsarbeiten mit                                                                  | 45 Prozent, |
 | 6\. | die Durchschnittspunktzahl der mündlichen Prüfung mit                                                                                           | 23 Prozent. |
 
-
-## § 42 – Regelungen zum Praxisaufstieg
+# § 42 – Regelungen zum Praxisaufstieg
 
 (1) Die zweijährige Einführungszeit für die zum Aufstieg zugelassenen Beamtinnen und Beamten gestalten die Wehrbereichsverwaltungen mit Zustimmung des Bundesministeriums der Verteidigung und der Bundesnachrichtendienst. Die Einführungszeit besteht aus
 
@@ -853,7 +807,6 @@ Zu Beginn der Einführungszeit kann unter entsprechender Verkürzung der praktis
 
 (3) Die praktische Einführung in Aufgaben der höheren Laufbahn ist in mindestens zwei verschiedenen Verwendungen vorzusehen. Die jeweiligen Vorgesetzten sorgen für die eigenverantwortliche und selbständige Wahrnehmung der Aufgaben. Während der praktischen Einführung sind mindestens zwei Aufträge, einschließlich Dokumentation und Vorlagebericht, zu bearbeiten. Für die Bewertung der Leistungen während der praktischen Einführung gilt § 21 entsprechend. Darüber hinaus ist über die fachliche Leistung, Eignung und Befähigung während der praktischen Einführung eine dienstliche Beurteilung zu erstellen.
 
-
-## § 43 – Inkrafttreten
+# § 43 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

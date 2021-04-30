@@ -1,41 +1,33 @@
-# [KPrüfTechnAusbV] Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik   (Keramikprüftechnologenausbildungsverordnung - KPrüfTechnAusbV)
-
-Ausfertigungsdatum: 23.11.2017
-
+% Verordnung über die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik   (Keramikprüftechnologenausbildungsverordnung - KPrüfTechnAusbV)
+% Ausfertigungsdatum: 23.11.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Prüftechnologen Keramik und der Prüftechnologin Keramik wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -89,20 +81,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 Das Einsatzgebiet oder die Einsatzgebiete werden vom Ausbildungsbetrieb vor Beginn der Ausbildung festgelegt.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Ziel und Zeitpunkt
+# § 6 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung findet im vierten Ausbildungshalbjahr statt.
 
-
-## § 7 – Inhalt
+# § 7 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -110,8 +99,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereiche
+# § 8 – Prüfungsbereiche
 
 Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -119,8 +107,7 @@ Die Zwischenprüfung findet in den folgenden Prüfungsbereichen statt:
 
 2. Werkstofftechnologie und Werkstoffeigenschaften.
 
-
-## § 9 – Prüfungsbereich Rohstoff- und Werkstoffprüfung
+# § 9 – Prüfungsbereich Rohstoff- und Werkstoffprüfung
 
 (1) Im Prüfungsbereich Rohstoff- und Werkstoffprüfung soll der Prüfling nachweisen, dass er in der Lage ist, sechs der folgenden Untersuchungen durchzuführen:
 
@@ -154,8 +141,7 @@ Weiterhin soll er nachweisen, dass er in der Lage ist, bei der jeweiligen Unters
 
 (3) Die Prüfungszeit beträgt insgesamt 240 Minuten.
 
-
-## § 10 – Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften
+# § 10 – Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften
 
 (1) Im Prüfungsbereich Werkstofftechnologie und Werkstoffeigenschaften soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -171,15 +157,13 @@ Weiterhin soll er nachweisen, dass er in der Lage ist, bei der jeweiligen Unters
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 11 – Ziel und Zeitpunkt
+# § 11 – Ziel und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 12 – Inhalt
+# § 12 – Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -187,8 +171,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 13 – Prüfungsbereiche
+# § 13 – Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -200,8 +183,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 14 – Prüfungsbereich Probennahme und Probenvorbereitung
+# § 14 – Prüfungsbereich Probennahme und Probenvorbereitung
 
 (1) Im Prüfungsbereich Probennahme und Probenvorbereitung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -237,8 +219,7 @@ Der Prüfungsausschuss legt fest, welche zwei Tätigkeiten zugrunde gelegt werde
 
 (3) Die Prüfungszeit beträgt für alle drei Arbeitsproben 120 Minuten.
 
-
-## § 15 – Prüfungsbereich Physikalische, chemische und keramische Prüfungen
+# § 15 – Prüfungsbereich Physikalische, chemische und keramische Prüfungen
 
 (1) Im Prüfungsbereich Physikalische, chemische und keramische Prüfungen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -280,8 +261,7 @@ f) Thermogravimetrie,
 
 (3) Die Prüfungszeit beträgt insgesamt 480 Minuten. Das situative Fachgespräch dauert höchstens 15 Minuten.
 
-
-## § 16 – Prüfungsbereich Prüftechnik
+# § 16 – Prüfungsbereich Prüftechnik
 
 (1) Im Prüfungsbereich Prüftechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -303,8 +283,7 @@ f) Thermogravimetrie,
 
 (3) Die Prüfungszeit beträgt 240 Minuten.
 
-
-## § 17 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 17 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -312,8 +291,7 @@ f) Thermogravimetrie,
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 18 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -347,18 +325,15 @@ keramische Prüfungen mit</td><td style="text-align: right;">40 Prozent,</td></t
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 19 – Bestehende Berufsausbildungsverhältnisse
+# § 19 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse zum Beruf des Stoffprüfers Chemie und der Stoffprüferin Chemie, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch keine Zwischenprüfung absolviert hat.
 
-
-## § 20 – Inkrafttreten
+# § 20 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2018 in Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Prüftechnologen Keramik und zur Prüftechnologin Keramik
 
 (Fundstelle: BGBl. I 2017, 3800 - 3802)
 

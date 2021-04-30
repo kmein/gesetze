@@ -1,17 +1,13 @@
-# [RMVerblG] Gesetz über Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften
-
-Ausfertigungsdatum: 15.08.1950
-
+% Gesetz über Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften
+% Ausfertigungsdatum: 15.08.1950
  
-
-## § 1
+# § 1
 
 (1) Reichsmarkverbindlichkeiten zwischen Ländern, Gemeinden und Gemeindeverbänden (Gebietskörperschaften) erlöschen, soweit sie vor dem 21. Juni 1948 fällig geworden sind.
 
 (2) Reichsmarkverbindlichkeiten aus Abgaben zwischen Gebietskörperschaften erlöschen ohne Rücksicht auf den Zeitpunkt der Fälligkeit.
 
-
-## § 2
+# § 2
 
 (1) Folgende Reichsmarkverbindlichkeiten zwischen Gebietskörperschaften erlöschen nicht:
 
@@ -27,8 +23,7 @@ e) Verbindlichkeiten zwischen Ländern, die sich aus der Auflösung des Haushalt
 
 (2) Absatz 1 Buchstab a gilt nicht für Zinsen, Tilgungsraten und andere regelmäßig wiederkehrende Leistungen, die vor dem 21. Juni 1948 fällig geworden sind.
 
-
-## § 3
+# § 3
 
 (1) Bei Meinungsverschiedenheiten darüber, ob eine Reichsmarkverbindlichkeit auf Grund dieses Gesetzes erlischt, entscheidet eine Schiedsstelle. Diese Schiedsstelle besteht aus einem Vorsitzenden und zwei Beisitzern.
 
@@ -40,12 +35,10 @@ e) Verbindlichkeiten zwischen Ländern, die sich aus der Auflösung des Haushalt
 
 (5) Die Entscheidung der Schiedsstelle ist endgültig.
 
-
-## § 4
+# § 4
 
 Dieses Gesetz findet auf bereits erfüllte Verbindlichkeiten keine Anwendung.
 
-
-## § 5
+# § 5
 
 Dieses Gesetz tritt mit Wirkung vom 21. Juni 1948 in Kraft.

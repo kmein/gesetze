@@ -1,15 +1,11 @@
-# [LwErzgSchulproTeilnV] Verordnung zur Durchführung der Teilnahme der Länder am Schulprogramm für landwirtschaftliche Erzeugnisse  (Landwirtschaftserzeugnisse-Schulprogramm-Teilnahmeverordnung - LwErzgSchulproTeilnV)
-
-Ausfertigungsdatum: 26.05.2017
-
+% Verordnung zur Durchführung der Teilnahme der Länder am Schulprogramm für landwirtschaftliche Erzeugnisse  (Landwirtschaftserzeugnisse-Schulprogramm-Teilnahmeverordnung - LwErzgSchulproTeilnV)
+% Ausfertigungsdatum: 26.05.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Satz 1 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes vom 13. Dezember 2016 (BGBl. I S. 2858) verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Anzeige- und Übermittlungsfristen
+# § 1 – Anzeige- und Übermittlungsfristen
 
 (1) Die Länder zeigen ihre Teilnahme am Schulprogramm für landwirtschaftliche Erzeugnisse nach § 3 Absatz 1 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum 31. Oktober des Kalenderjahres, das dem Schuljahr der geplanten Teilnahme vorangeht, dem Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) an.
 
@@ -21,24 +17,20 @@ Auf Grund des § 6 Absatz 1 Satz 1 des Landwirtschaftserzeugnisse-Schulprogrammg
 
 (3) Die am Schulprogramm teilnehmenden Länder übermitteln dem Bundesministerium ihre jeweilige regionale Strategie nach § 3 Absatz 2 Satz 1 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum 31. März des Kalenderjahres, in dem das Schuljahr beginnt, für das die Strategie erstmals angewendet werden soll. Änderungen an der regionalen Strategie nach § 3 Absatz 3 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes sind dem Bundesministerium innerhalb eines Monats nach der Änderung mitzuteilen.
 
-
-## § 2 – Vorläufige und endgültige Mittelzuweisung
+# § 2 – Vorläufige und endgültige Mittelzuweisung
 
 (1) Das Bundesministerium teilt den am Schulprogramm teilnehmenden Ländern die voraussichtliche Höhe der auf die Länder jeweils entfallenden Unionsbeihilfe nach § 4 Absatz 2 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum 15. November des Kalenderjahres mit, das dem Schuljahr der geplanten Teilnahme vorangeht.
 
 (2) Die endgültige Höhe der auf die am Schulprogramm teilnehmenden Länder jeweils entfallenden Unionsbeihilfe nach § 4 Absatz 3 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes gibt das Bundesministerium den Ländern innerhalb von zwei Wochen nach Erhalt des Durchführungsbeschlusses der Kommission über die endgültige Zuteilung einer Unionsbeihilfe an die Mitgliedstaaten im Rahmen des EU-Schulprogramms bekannt.
 
-
-## § 3 – Übergangsregelung für das Schuljahr 2017/2018
+# § 3 – Übergangsregelung für das Schuljahr 2017/2018
 
 Abweichend von § 1 Absatz 3 Satz 1 haben diejenigen Länder, die zum Schuljahr 2017/2018 am Schulprogramm teilnehmen, ihre jeweilige regionale Strategie dem Bundesministerium bis zum 1. Juli 2017 zu übermitteln.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

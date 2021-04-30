@@ -1,15 +1,11 @@
-# [BBFestV 2018] Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2018  (Bundesbeteiligungs-Festlegungsverordnung 2018 - BBFestV 2018)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2018  (Bundesbeteiligungs-Festlegungsverordnung 2018 - BBFestV 2018)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch Artikel 2 Nummer 2 Buchstabe a des Gesetzes vom 1. Dezember 2016 (BGBl. I S. 2755) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
+# § 1 – Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
 Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für das Jahr 2018 rückwirkend angepasst wird, beträgt  
   
@@ -31,8 +27,7 @@ Hamburg,
 4,2 Prozentpunkte für Schleswig-Holstein und  
 5,1 Prozentpunkte für den Freistaat Thüringen.
 
-
-## § 2 – Festlegung und Anpassung der Werte nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch
+# § 2 – Festlegung und Anpassung der Werte nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
 Der landesspezifische Wert nach § 46 Absatz 9 Satz 1 des Zweiten Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für die Jahre 2017 und 2018 rückwirkend angepasst wird, beträgt  
   
@@ -54,8 +49,7 @@ Hamburg,
  9,6 Prozentpunkte für Schleswig-Holstein und  
  7,1 Prozentpunkte für den Freistaat Thüringen.
 
-
-## § 3 – Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
+# § 3 – Festlegung und Anpassung der landesspezifischen Beteiligungsquoten nach § 46 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch
 
 (1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2017  
   
@@ -114,12 +108,10 @@ Hamburg,
 44,7 Prozent für Schleswig-Holstein und  
 43,1 Prozent für den Freistaat Thüringen.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

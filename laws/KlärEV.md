@@ -1,15 +1,11 @@
-# [KlärEV] Verordnung über den Klärschlamm-Entschädigungsfonds  (Klärschlamm-Entschädigungsfondsverordnung - KlärEV)
-
-Ausfertigungsdatum: 20.05.1998
-
+% Verordnung über den Klärschlamm-Entschädigungsfonds  (Klärschlamm-Entschädigungsfondsverordnung - KlärEV)
+% Ausfertigungsdatum: 20.05.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November 1977 (BGBl. I S. 2134), der durch Artikel 4 Nr. 8 des Gesetzes vom 27. September 1994 (BGBl. I S. 2705) eingefügt worden ist, verordnet die Bundesregierung unter Berücksichtigung der Rechte des Bundestages:
 
-
-## § 1 – Rechtsform, Verwaltung
+# § 1 – Rechtsform, Verwaltung
 
 (1) Die Entschädigungen nach § 11 Abs. 1 des Düngegesetzes werden mit Inkrafttreten dieser Verordnung aus einem nicht rechtsfähigen Sondervermögen des Bundes mit dem Namen "Klärschlamm-Entschädigungsfonds" erbracht. Das Sondervermögen ist von den übrigen Vermögen des Bundes, seinen Rechten und Pflichten getrennt zu halten. Es kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen oder verklagt werden.
 
@@ -17,8 +13,7 @@ Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November 1977 (BGBl. 
 
 (3) Wird das Sondervermögen aufgelöst, so werden die Fondsmittel im Verhältnis der geleisteten Beiträge an die Beitragspflichtigen erstattet.
 
-
-## § 2 – Beirat
+# § 2 – Beirat
 
 (1) Es wird ein Beirat gebildet, der die Bundesanstalt bei der Erfüllung der Aufgaben des Klärschlamm-Entschädigungsfonds berät.
 
@@ -52,8 +47,7 @@ Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November 1977 (BGBl. 
 
 (9) Der Beirat gibt sich eine Geschäftsordnung. Zum Erlaß und zur Änderung der Geschäftsordnung bedarf es einer Mehrheit von dreiviertel der Mitglieder des Beirates einschließlich des Vertreters des Bundesministeriums und des Vertreters des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 3 – Haushalts- und Wirtschaftsführung
+# § 3 – Haushalts- und Wirtschaftsführung
 
 (1) Auf die Haushalts- und Wirtschaftsführung sind die Teile I bis V, VIII und IX der Bundeshaushaltsordnung entsprechend anzuwenden.
 
@@ -65,13 +59,11 @@ Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November 1977 (BGBl. 
 
 (5) Eine Kreditaufnahme ist unzulässig.
 
-
-## § 4 – Beitragshöhe
+# § 4 – Beitragshöhe
 
 Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm bezogen auf dessen Trockenmasse, der zur landbaulichen Verwertung abgegeben wird. Satz 1 gilt auch für Klärschlämme, die für die Herstellung von Sekundärrohstoffdünger im Sinne der Düngemittelverordnung abgegeben werden.
 
-
-## § 5 – Beitragszahlung
+# § 5 – Beitragszahlung
 
 (1) Die Beiträge nach § 11 Abs. 2 des Düngegesetzes werden jährlich erhoben.
 
@@ -83,8 +75,7 @@ Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm bezogen auf de
 
 (5) Werden Beiträge nicht rechtzeitig gezahlt, sind diese vom Fälligkeitstag an mit drei vom Hundert über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen. Der am ersten eines Monats geltende Basiszinssatz ist für jeden Zinstag dieses Monats zu Grunde zu legen.
 
-
-## § 6 – Ruhen und Wiederaufleben der Beitragspflicht
+# § 6 – Ruhen und Wiederaufleben der Beitragspflicht
 
 (1) Die Beitragspflicht ruht, sobald die finanzielle Ausstattung des Fonds den Betrag von 125 Millionen Deutsche Mark erreicht hat. Die Bundesanstalt macht das Ruhen im Bundesanzeiger bekannt. Die übrigen Pflichten bleiben hiervon unberührt.
 
@@ -92,8 +83,7 @@ Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm bezogen auf de
 
 (3) Steigt nach dem Ruhen der Beitragspflicht die finanzielle Ausstattung des Fonds aufgrund der Pflicht nach § 3 Abs. 2 Satz 1 auf 250 Millionen Deutsche Mark und ist aufgrund der Schadensentwicklung absehbar, daß diese Mittel nicht benötigt werden, werden die eingezahlten Beiträge unter Berücksichtigung des Anteils am Gesamtaufkommen aus der Beitragszahlung zurückerstattet, bis die finanzielle Ausstattung des Fonds 125 Millionen Deutsche Mark beträgt.
 
-
-## § 7 – Nachschußpflicht
+# § 7 – Nachschußpflicht
 
 (1) Im Falle der Erschöpfung der Fondsmittel sind alle Hersteller von Klärschlamm, die seit Inkrafttreten dieser Verordnung Klärschlamm zur landbaulichen Verwertung abgegeben haben, zum Nachschuß verpflichtet. Die Nachschußpflicht darf insgesamt den Betrag von 250 Millionen Deutsche Mark nicht überschreiten.
 
@@ -101,8 +91,7 @@ Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm bezogen auf de
 
 (3) Die Bundesanstalt erhebt den Nachschuß durch Bescheid. Der Nachschuß wird drei Monate nach Zugang des Bescheids fällig. § 5 Abs. 5 gilt entsprechend.
 
-
-## § 8 – Auskunftspflicht, Überwachung
+# § 8 – Auskunftspflicht, Überwachung
 
 (1) Die Hersteller von Klärschlämmen sind verpflichtet, vor der Abgabe des Klärschlamms die verbindliche Zweckbestimmung zur landbaulichen Verwertung oder zu einer anderen Entsorgung des Klärschlamms zu treffen und auf Verlangen die Auskünfte zu erteilen oder die Unterlagen vorzulegen, die zur Festsetzung und Erhebung der Beiträge erforderlich sind.
 
@@ -110,37 +99,30 @@ Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm bezogen auf de
 
 (3) Weigert sich der Auskunftspflichtige, eine Auskunft zu erteilen oder entsprechende Unterlagen vorzulegen, so kann die Bundesanstalt die erforderlichen Feststellungen im Wege der Schätzung treffen.
 
-
-## § 9 – Antragstellung
+# § 9 – Antragstellung
 
 Die Entschädigungen nach § 11 Abs. 1 des Düngegesetzes wird auf Antrag gewährt. Der Antrag ist schriftlich bei der Bundesanstalt zu stellen.
 
-
-## § 10 – Selbstbehalt für Sachschäden
+# § 10 – Selbstbehalt für Sachschäden
 
 Der durch die landbauliche Verwertung von Klärschlamm Geschädigte hat bei Sachschäden einen Schaden bis zu einer Höhe von 1.125 Deutsche Mark pro Schadensfall selbst zu tragen.
 
-
-## § 11 – Entschädigungshöchstbetrag
+# § 11 – Entschädigungshöchstbetrag
 
 Der Entschädigungshöchstbetrag für durch die landbauliche Verwertung von Klärschlamm entstehende Schäden an Personen und Sachen sowie sich daraus ergebende Folgeschäden beträgt pro Schadensfall insgesamt 5 Millionen Deutsche Mark.
 
-
-## § 12 – Übergang von Ansprüchen
+# § 12 – Übergang von Ansprüchen
 
 Soweit der Klärschlamm-Entschädigungsfonds die Ansprüche des Geschädigten befriedigt, gehen Forderungen des Geschädigten gegen sonstige Ersatzpflichtige auf den Klärschlamm-Entschädigungsfonds über.
 
-
-## § 13 – Bußgeldvorschriften
+# § 13 – Bußgeldvorschriften
 
 Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe c des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 8 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,10 +1,7 @@
-# [ChemKlimaschutzV] Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase    (Chemikalien-Klimaschutzverordnung - ChemKlimaschutzV)
-
-Ausfertigungsdatum: 02.07.2008
-
+% Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase    (Chemikalien-Klimaschutzverordnung - ChemKlimaschutzV)
+% Ausfertigungsdatum: 02.07.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnet die Bundesregierung
 
@@ -20,8 +17,7 @@ auf Grund des § 57 Satz 1 in Verbindung mit § 59 des Kreislaufwirtschafts- und
 –  
 auf Grund des § 24 Abs. 1 Nr. 2 und 4 in Verbindung mit den §§ 59 und 60 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705) nach Anhörung der beteiligten Kreise und unter Wahrung der Rechte des Bundestages:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt ergänzend zu der Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG) Nr. 842/2006 (ABl. L 150 vom 20.5.2014, S. 195).
 
@@ -33,8 +29,7 @@ auf Grund des § 24 Abs. 1 Nr. 2 und 4 in Verbindung mit den §§ 59 und 60 des 
 
 3. in Luftfahrzeugen, die nicht im Geltungsbereich dieser Verordnung eingetragen und zugelassen sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -54,8 +49,7 @@ Betriebszustand einer stationären Anlage, deren Funktionstüchtigkeit nicht auf
 
 Im Übrigen gelten die Begriffsbestimmungen des Artikels 2 der Verordnung (EU) Nr. 517/2014.
 
-
-## § 3 – Verhinderung des Austrittes von fluorierten Treibhausgasen in die Atmosphäre
+# § 3 – Verhinderung des Austrittes von fluorierten Treibhausgasen in die Atmosphäre
 
 (1) Wer ortsfeste Einrichtungen im Sinne des Artikels 4 Absatz 2 Buchstabe a bis d der Verordnung (EU) Nr. 517/2014 betreibt, hat sicherzustellen, dass zusätzlich zu den Anforderungen des Artikels 3 Absatz 1 und 2 der Verordnung (EU) Nr. 517/2014 der spezifische Kältemittelverlust der Einrichtung während des Normalbetriebs die folgenden Grenzwerte nicht überschreitet:  
   
@@ -97,8 +91,7 @@ Die Betreiber von Einrichtungen nach Satz 1 haben den Zugang zu allen lösbaren 
 
 (4) (weggefallen)
 
-
-## § 4 – Rückgewinnung und Rücknahme verwendeter Stoffe
+# § 4 – Rückgewinnung und Rücknahme verwendeter Stoffe
 
 (1) Betreiber, die für die Rückgewinnung fluorierter Treibhausgase aus Einrichtungen nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 517/2014 verantwortlich sind, oder Unternehmen, die für die Rückgewinnung von Gasresten aus Behältern nach Artikel 8 Absatz 2 der Verordnung (EU) Nr. 517/2014 verantwortlich sind, können die Erfüllung ihrer Pflichten auf Dritte übertragen.
 
@@ -112,8 +105,7 @@ Die Betreiber von Einrichtungen nach Satz 1 haben den Zugang zu allen lösbaren 
 
 hat über Art und Menge der zurückgenommenen oder entsorgten Stoffe und Zubereitungen sowie über deren Verbleib Aufzeichnungen zu führen. Die Aufzeichnungen sind nach ihrer Erstellung mindestens fünf Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Soweit der Betreiber einer Entsorgungsanlage nach § 49 des Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 3 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298, 2007 I S. 2316), die zuletzt durch Artikel 97 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, über die Entsorgung fluorierter Treibhausgase Register zu führen hat, werden die erforderlichen Aufzeichnungen durch die Register nach der Nachweisverordnung ersetzt. In diesem Fall ist bei der Führung des Registers nach § 24 Abs. 2 der Nachweisverordnung in den in das Register einzustellenden Begleitdokumenten zusätzlich im Feld „Frei für Vermerke“ und bei Führung der Register nach § 24 Abs. 4 und 5 der Nachweisverordnung zusätzlich zur Angabe des Abfallschlüssels und der Abfallart jeweils der entsorgte Stoff oder die entsprechende Stoffgruppe nach Anhang I der Verordnung (EU) Nr. 517/2014 zu nennen und anzugeben, ob eine Verwertung oder Beseitigung erfolgte. Die Bestimmungen zur elektronischen Nachweis- und Registerführung nach den §§ 17 bis 22 der Nachweisverordnung finden entsprechende Anwendung mit der Maßgabe, dass die für die zusätzlichen Angaben nach Satz 4 erforderlichen Schnittstellen nach § 18 Abs. 1 Satz 2 der Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bekannt gegeben werden.
 
-
-## § 5 – Persönliche Voraussetzungen für bestimmte Tätigkeiten
+# § 5 – Persönliche Voraussetzungen für bestimmte Tätigkeiten
 
 (1) Eine in Artikel 10 Absatz 1 Buchstabe a bis c der Verordnung (EU) Nr. 517/2014 aufgeführte Tätigkeit sowie die Rückgewinnung aus Klimaanlagen in Kraftfahrzeugen, die nicht in Artikel 8 Absatz 1 der Verordnung (EU) Nr. 517/2014 aufgeführt sind, oder die Rückgewinnung aus anderen mobilen Kälte- und Klimaanlagen darf nur von Personen durchgeführt werden, die
 
@@ -169,8 +161,7 @@ Die nach Satz 3 zuständigen Handwerkskammern und Industrie- und Handelskammern 
 
 (3) Die zuständige Behörde kann nach Maßgabe der Artikel 4 und 5 der Durchführungsverordnung (EU) 2015/2066, der Artikel 7 und 8 der Durchführungsverordnung (EU) 2015/2067, der Artikel 10 und 11 der Verordnung (EG) Nr. 304/2008 oder der Artikel 4 und 5 der Verordnung (EG) Nr. 306/2008 eine Aus- oder Fortbildungseinrichtung oder ein Unternehmen auf Antrag durch Erteilung einer entsprechenden Bescheinigung als zur Abnahme von Prüfungen nach Absatz 2 Satz 1 Nummer 1 bis 4 und zur Erteilung von Sachkundebescheinigungen nach Absatz 2 Satz 1 berechtigt anerkennen, wenn und soweit die dort durchgeführten Aus- und Fortbildungen sowie die entsprechenden Prüfungen den in Artikel 3 der Durchführungsverordnung (EU) 2015/2066, Artikel 4 der Durchführungsverordnung (EU) 2015/2067, Artikel 5 der Verordnung (EG) Nr. 304/2008, Artikel 3 der Verordnung (EG) Nr. 306/2008 oder in Artikel 3 der Verordnung (EG) Nr. 307/2008 aufgeführten Anforderungen entsprechen und die Einrichtung in den Fällen des Absatzes 2 Satz 1 Nummer 1, 2 und 4 Buchstabe a in der Lage ist, die Geeignetheit einer technischen oder handwerklichen Ausbildung zu beurteilen.
 
-
-## § 6 – Zertifizierung von Unternehmen
+# § 6 – Zertifizierung von Unternehmen
 
 (1) Unternehmen dürfen Tätigkeiten nach Artikel 3 Absatz 4 Unterabsatz 2 der Verordnung (EU) Nr. 517/2014 nur durchführen, wenn sie eines der nachstehenden Dokumente vorweisen können:
 
@@ -190,15 +181,13 @@ Dies gilt auch für Unternehmensteile, die diese Tätigkeiten im eigenen Unterne
 
 (3) Ein Unternehmen, das ein eingetragener EMAS-Standort nach Artikel 6 der Verordnung (EG) Nr. 761/2001 des Europäischen Parlaments und des Rates vom 19. März 2001 über die freiwillige Beteiligung von Organisationen an einem Gemeinschaftssystem für das Umweltmanagement und die Umweltbetriebsprüfung (EMAS) (ABl. EG Nr. L 114 S. 1), die zuletzt durch die Verordnung (EG) Nr. 196/2006 der Kommission vom 3. Februar 2006 (ABl. EU Nr. L 32 S. 4) geändert wurde, in der jeweiligen Fassung ist und Tätigkeiten nach Absatz 1 ausübt, erhält das in Absatz 2 genannte Unternehmenszertifikat, sofern aus der Umwelterklärung oder dem Bericht über die Umweltbetriebsprüfung hervorgeht, dass die Voraussetzungen in § 6 Absatz 2 eingehalten sind und die nach Artikel 6 Absatz 2 der Durchführungsverordnung (EU) 2015/2067 oder Artikel 8 Absatz 2 der Verordnung (EG) Nr. 304/2008 und nach Absatz 2 Satz 2 erforderlichen Angaben ersichtlich sind.
 
-
-## § 7 – Kennzeichnung
+# § 7 – Kennzeichnung
 
 (1) Wer nach Artikel 12 der Verordnung (EU) Nr. 517/2014 in Verbindung mit Artikel 2 der Durchführungsverordnung (EU) 2015/2068 der Kommission vom 17. November 2015 zur Festlegung – gemäß der Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates – der Form der Kennzeichnung von Erzeugnissen und Einrichtungen, die fluorierte Treibhausgase enthalten (ABl. L 301 vom 18.11.2015, S. 39) kennzeichnungspflichtige Erzeugnisse oder Einrichtungen für den Einsatz in Deutschland in Verkehr bringt, hat sicherzustellen, dass in Bedienungsanleitungen und in zu Werbezwecken genutzten Beschreibungen die nach Artikel 12 Absatz 3 und 5 Satz 1 und 2 der Verordnung (EU) Nr. 517/2014 genannten Informationen in deutscher Sprache enthalten sind.
 
 (2) Wer aufgearbeitete oder recycelte fluorierte Treibhausgase abfüllt oder abgibt, hat sicherzustellen, dass die Behälter, in denen die Treibhausgase abgegeben werden, gemäß Satz 2 gekennzeichnet sind. Die Kennzeichnung muss die Angaben nach Artikel 12 Absatz 6 der Verordnung (EU) Nr. 517/2014 in Verbindung mit Artikel 2 Absatz 7 Buchstabe a der Durchführungsverordnung (EU) 2015/2068 enthalten.
 
-
-## § 8 – Sonstige Betreiberpflichten
+# § 8 – Sonstige Betreiberpflichten
 
 (1) Der Betreiber einer stationären Einrichtung nach Artikel 4 Absatz 2 Buchstabe a bis d der Verordnung (EU) Nr. 517/2014 darf ein anderes Unternehmen mit der Durchführung von in Artikel 10 Absatz 1 Satz 2 der Verordnung (EU) Nr. 517/2014 genannten Tätigkeiten nur beauftragen, wenn das beauftragte Unternehmen die für die Ausführung der betreffenden Tätigkeit erforderliche Bescheinigung oder das erforderliche Unternehmenszertifikat nach § 6 Absatz 1 vorweisen kann. Beauftragt der Betreiber kein anderes Unternehmen, hat er sicherzustellen, dass diese Tätigkeiten durch natürliche Personen durchgeführt werden, die eine Sachkundebescheinigung nach § 5 Absatz 1 Satz 1 Nummer 1 vorweisen können.
 
@@ -208,8 +197,7 @@ Dies gilt auch für Unternehmensteile, die diese Tätigkeiten im eigenen Unterne
 
 (4) Der Betreiber von elektrischen Schaltanlagen nach Artikel 4 Absatz 2 Buchstabe f der Verordnung (EU) Nr. 517/2014 hat sicherzustellen, dass Tätigkeiten nach Artikel 10 Absatz 1 Satz 2 Buchstabe a und c von natürlichen Personen durchgeführt werden, die eine zu der jeweiligen Tätigkeit befähigende Sachkundebescheinigung nach § 5 Absatz 1 Satz 1 Nummer 1 vorweisen können.
 
-
-## § 9 – Inverkehrbringen, Verkauf und Kauf fluorierter Treibhausgase
+# § 9 – Inverkehrbringen, Verkauf und Kauf fluorierter Treibhausgase
 
 (1) Wer teilfluorierte Kohlenwasserstoffe in Verkehr bringt, bedarf der vorherigen Zuteilung einer Quote nach Artikel 16 Absatz 5 Satz 1 der Verordnung (EU) Nr. 517/2014 durch die Europäische Kommission oder der Übertragung einer solchen Quote nach Artikel 18 Absatz 1 der Verordnung (EU) Nr. 517/2014. Dies gilt nicht für die in Artikel 15 Absatz 2 Satz 2 genannten Arten von teilfluorierten Treibhausgasen sowie Mengen teilfluorierter Treibhausgase, für die die Kommission nach Artikel 15 Absatz 4 der Verordnung (EU) Nr. 517/2014 eine Ausnahme von der Quotenregelung genehmigt hat.
 
@@ -219,8 +207,7 @@ Dies gilt auch für Unternehmensteile, die diese Tätigkeiten im eigenen Unterne
 
 (4) Absatz 2 gilt bis zum 1. Juli 2017 nicht für den Verkauf an Unternehmen und den Kauf durch Unternehmen, die die in Artikel 9 der Durchführungsverordnung (EU) 2015/2066 aufgeführten Tätigkeiten durchführen.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 5 Buchstabe c des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -258,13 +245,11 @@ Dies gilt auch für Unternehmensteile, die diese Tätigkeiten im eigenen Unterne
 
 (5) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Absatz 3 Satz 1 oder Satz 2 eine dort genannte Aufzeichnung nicht, nicht richtig oder nicht vollständig führt, nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 11 – Straftaten
+# § 11 – Straftaten
 
 Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes wird bestraft, wer ohne Zuteilung oder Übertragung nach § 9 Absatz 1 Satz 1 teilfluorierte Kohlenwasserstoffe in Verkehr bringt.
 
-
-## § 12 – Verfahrensvorschriften
+# § 12 – Verfahrensvorschriften
 
 (1) Über einen Antrag auf
 
@@ -284,7 +269,6 @@ ist jeweils innerhalb einer Frist von drei Monaten zu entscheiden; § 42a Absatz
 
 (4) Nachweise im Sinne der Absätze 2 und 3 sind der zuständigen Behörde bei Antragstellung im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

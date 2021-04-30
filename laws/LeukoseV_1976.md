@@ -1,10 +1,7 @@
-# [LeukoseV 1976] Verordnung zum Schutz gegen die Leukose der Rinder  (Rinder-Leukose-Verordnung)
-
-Ausfertigungsdatum: 10.08.1976
-
+% Verordnung zum Schutz gegen die Leukose der Rinder  (Rinder-Leukose-Verordnung)
+% Ausfertigungsdatum: 10.08.1976
  
-
-## § 1
+# § 1
 
 (1) Leukose im Sinne dieser Verordnung ist die Enzootische Leukose.
 
@@ -76,30 +73,25 @@ In Beständen, die mindestens zu 30 vom Hundert aus Milchkühen bestehen, ist di
 
 (4) Zucht- und Nutzrinder im Sinne dieser Verordnung sind Hausrinder, die zur Erzeugung von Milch, zur Zucht, zur Mast oder zur Verwendung als Zugtiere bestimmt sind.
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
-
-## § 3
+# § 3
 
 Impfungen gegen die Leukose der Rinder und Heilversuche sind verboten. Die zuständige Behörde kann Ausnahmen für wissenschaftliche Versuche zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 3a
+# § 3a
 
 (1) Der Halter von Rindern ist verpflichtet, die über 24 Monate alten Tiere nach näherer Anweisung der zuständigen Behörde im Abstand von längstens drei Jahren mittels einer blutserologischen Untersuchung nach § 1 Absatz 3 untersuchen zu lassen. In Beständen, die mindestens zu 30 vom Hundert aus Milchkühen bestehen, ist die Untersuchung nach Satz 1 mit Ausnahme der Zuchtbullen entbehrlich, wenn die Milch gebenden Kühe mittels einer im Abstand von längstens drei Jahren durch zwei im Abstand von mindestens fünf und höchstens sieben Monaten vorgenommenen serologischen Untersuchung der Einzel-, Kannen- oder Tankmilch nach § 1 Absatz 3 untersucht worden sind.
 
 (2) Abweichend von Absatz 1 Satz 1 kann die zuständige Behörde anordnen, dass nach Maßgabe der Sätze 2 bis 4 Stichprobenuntersuchungen in den Beständen durchgeführt werden. Die zuständige Behörde legt die im Rahmen der Stichprobenuntersuchung zu untersuchenden Bestände fest. Dabei sind so viele Bestände einzubeziehen, dass Leukose mit einer Wahrscheinlichkeit von 99 vom Hundert und einer Prävalenzschwelle von 0,2 vom Hundert festgestellt werden kann. In den der Stichprobenuntersuchung unterfallenden Bestände sind jeweils alle über zwölf Monate alten Rinder zu untersuchen. Absatz 1 Satz 2 bleibt unberührt.
 
-
-## § 4
+# § 4
 
 (weggefallen)
 
-
-## § 5
+# § 5
 
 (1) Zucht- und Nutzrinder dürfen
 
@@ -113,18 +105,15 @@ werden, wenn die Tiere aus einem leukoseunverdächtigen Rinderbestand stammen. D
 
 (3) (weggefallen)
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7
+# § 7
 
 Die zuständige Behörde kann die Untersuchung von Rindern und die amtliche Beobachtung von Rindern anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist. Sie kann die Art der Untersuchung anordnen.
 
-
-## § 8
+# § 8
 
 (1) Ist in einem Bestand Leukose der Rinder oder der Verdacht auf Leukose amtlich festgestellt, so unterliegt das Gehöft oder der sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -142,13 +131,11 @@ Die zuständige Behörde kann die Untersuchung von Rindern und die amtliche Beob
 
 (2) Die zuständige Behörde kann im Einzelfall Ausnahmen von Absatz 1 Nummer 2 und 6 zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 9
+# § 9
 
 Die zuständige Behörde ordnet die Tötung von Rindern an, bei denen leukotische Tumoren oder ein positiver serologischer Befund festgestellt worden sind. Sie kann die Tötung von Rindern anordnen, bei denen wiederholt zweifelhafte serologische Befunde festgestellt worden sind, sowie von ansteckungsverdächtigen Rindern eines verseuchten Bestandes, wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist.
 
-
-## § 10
+# § 10
 
 Nach Entfernung der Rinder, bei denen leukotische Tumoren, positive oder wiederholt zweifelhafte serologische Befunde festgestellt worden sind, sind
 
@@ -158,8 +145,7 @@ Nach Entfernung der Rinder, bei denen leukotische Tumoren, positive oder wiederh
 
 nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu desinfizieren.
 
-
-## § 11
+# § 11
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die Leukose der Rinder erloschen ist oder der Verdacht auf Leukose der Rinder beseitigt ist oder sich als unbegründet erwiesen hat.
 
@@ -181,13 +167,11 @@ b) bei den im Bestand verbliebenen über sechs Monate alten Rindern mindestens d
 
 3. die Desinfektion nach Absatz 2 Nummer 3 durchgeführt worden ist.
 
-
-## § 11a
+# § 11a
 
 Ein Rinderbestand, der sich im Inland befindet, ist im Sinne des Artikels 3 Absatz 1 der Entscheidung 2003/467/EG der Kommission vom 23. Juni 2003 zur Feststellung des amtlich anerkannt tuberkulose-, brucellose- und rinderleukosefreien Status bestimmter Mitgliedstaaten und Regionen von Mitgliedstaaten in Bezug auf die Rinderbestände (ABl. L 156 vom 25.6.2003, S. 74), die zuletzt durch den Durchführungsbeschluss (EU) 2016/448 (ABl. L 78 vom 24.3.2016, S. 78) geändert worden ist, ein amtlich anerkannter leukosefreier Rinderbestand.
 
-
-## § 11b
+# § 11b
 
 (1) Die zuständige Behörde entzieht dem Inhaber eines Rinderbestandes die amtliche Anerkennung seines Bestandes als leukosefrei, soweit für den Bestand
 
@@ -201,8 +185,7 @@ In den Fällen des Verdachts auf Leukose der Rinder kann die zuständige Behörd
 
 (3) Die zuständige Behörde hebt die Anordnung des Ruhens der amtlichen Anerkennung nach Absatz 1 Satz 2 auf, soweit der Verdacht im Sinne des § 11 Absatz 3 beseitigt ist.
 
-
-## § 12
+# § 12
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -230,8 +213,7 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 12. entgegen § 8 Absatz 1 Nummer 6 oder § 10 einen dort genannten Gegenstand oder einen dort genannten Standort nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert.
 
-
-## § 13
+# § 13
 
 § 11a gilt nicht für einen Rinderbestand, soweit die zuständige Behörde am 30. Mai 2017
 
@@ -241,7 +223,6 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 Die zuständige Behörde erkennt den Rinderbestand amtlich als frei von Leukose der Rinder an, soweit die Voraussetzungen nach § 11b Absatz 2 vorliegen.
 
-
-## § 14
+# § 14
 
 (Inkrafttreten, Außerkrafttreten)

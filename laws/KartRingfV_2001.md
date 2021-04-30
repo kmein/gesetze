@@ -1,10 +1,7 @@
-# [KartRingfV 2001] Verordnung zur Bekämpfung der Bakteriellen Ringfäule und der Schleimkrankheit
-
-Ausfertigungsdatum: 05.06.2001
-
+% Verordnung zur Bekämpfung der Bakteriellen Ringfäule und der Schleimkrankheit
+% Ausfertigungsdatum: 05.06.2001
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -80,8 +77,7 @@ Ausnahmen zu Versuchs- und Züchtungszwecken
 
 Ordnungswidrigkeiten
 
-
-## § 1 – Anzeigepflichten
+# § 1 – Anzeigepflichten
 
 (1) Der Verpflichtete nach Absatz 2 hat das Auftreten und den Verdacht des Auftretens
 
@@ -107,8 +103,7 @@ erhält, hat dies unverzüglich der zuständigen Behörde anzuzeigen. Zur unverz
 
 (4) Die Vorschriften dieser Verordnung gelten nicht für Früchte und Samen von Tomatenpflanzen.
 
-
-## § 2 – Überwachung
+# § 2 – Überwachung
 
 (1) Die zuständige Behörde überwacht durch jährliche systematische Erhebungen
 
@@ -132,8 +127,7 @@ durch. Sie kann auch Abwässer, die aus Anlagen zur Verarbeitung oder Verpackung
 
 (5) Die zuständige Behörde kann auch anderes Material, insbesondere Kultursubstrat, Erde oder feste Abfälle industrieller Verarbeitungs- und Verpackungsanlagen in die Untersuchungen nach Absatz 4 einbeziehen.
 
-
-## § 3 – Befallsverdacht
+# § 3 – Befallsverdacht
 
 (1) Bei Verdacht des Befalls mit der Bakteriellen Ringfäule oder der Schleimkrankheit ordnet die zuständige Behörde die zur Verhütung der Ausbreitung der jeweiligen Krankheit erforderlichen Maßnahmen an. Sie kann insbesondere anordnen, dass der Verfügungsberechtigte oder Besitzer die im Betrieb vorhandenen Kartoffeln nicht anpflanzen oder nicht von dem Ort, an dem sich die Kartoffeln befinden, entfernen darf, bis sie festgestellt hat, ob und in welchem Ausmaß ein Befall vorliegt. Satz 2 gilt entsprechend
 
@@ -173,8 +167,7 @@ vorgesehene Verfahren durchführt. Liegen bei der Schleimkrankheit Anhaltspunkte
 
 aufzubewahren.
 
-
-## § 4 – Befallsfeststellung
+# § 4 – Befallsfeststellung
 
 (1) Die zuständige Behörde stellt fest
 
@@ -196,8 +189,7 @@ b) unter Berücksichtigung insbesondere des Anhangs V Nr. 1 der Richtlinie 98/57
 
 (4) Stellt die zuständige Behörde in den Untersuchungen nach § 2 Abs. 4 Nr. 1 einen Befall mit der Schleimkrankheit an anderen Wirtspflanzen fest, so untersucht sie zur Ermittlung des Ausmaßes des Befalls und seines wahrscheinlichen Ausgangspunktes Kartoffeln und Tomatenpflanzen und Oberflächenwasser unter Berücksichtigung des Anhangs IV der Richtlinie 98/57/EG. Stellt sie in den Erhebungen nach § 2 Abs. 4 Nr. 2 und 3 einen Befall mit der Schleimkrankheit fest, so untersucht sie zu geeigneten Zeitpunkten Oberflächengewässer und Abwässer, die aus Anlagen zur Verarbeitung oder Verpackung von Kartoffeln oder Tomatenpflanzen stammen und zur Beregnung oder Bewässerung bei der Erzeugung von Kartoffeln oder Tomatenpflanzen verwendet werden, sowie Unkräuter aus der Familie der Nachtschattengewächse, die Wirtspflanzen des Schadorganismus sind, um das Ausmaß des Befalls zu bestimmen. Sie untersucht auch die Kartoffeln und Tomatenpflanzen, die mit diesem Oberflächenwasser oder diesen Abwässern beregnet worden sind.
 
-
-## § 5 – Abgrenzung und Aufhebung der Sicherheitszone
+# § 5 – Abgrenzung und Aufhebung der Sicherheitszone
 
 (1) Wird bei der Bakteriellen Ringfäule oder der Schleimkrankheit Befall festgestellt, so grenzt die zuständige Behörde eine Sicherheitszone ab.
 
@@ -217,8 +209,7 @@ b) unter Berücksichtigung des Anhangs V Nr. 2 der Richtlinie 98/57/EG ein Gebie
 
 (3) Die zuständige Behörde hebt die Sicherheitszone auf, wenn bei der Bakteriellen Ringfäule oder der Schleimkrankheit an Kartoffeln oder an Tomatenpflanzen seit dem letzten Auftreten der Krankheit drei Jahre vergangen sind.
 
-
-## § 6 – Schutzmaßnahmen in der Sicherheitszone
+# § 6 – Schutzmaßnahmen in der Sicherheitszone
 
 (1) In der Sicherheitszone dürfen bei der Bakteriellen Ringfäule Kartoffeln nur unter Verwendung amtlich anerkannten oder unter amtlicher Überwachung erzeugten Pflanzguts angebaut werden. Pflanzkartoffeln, die an Produktionsorten erzeugt worden sind, die nach § 4 Abs. 1 Nr. 1 Buchstabe b als wahrscheinlich befallen gelten, dürfen nur dann verwendet werden, wenn sie nach dem in Anhang I der Richtlinie 93/85/EWG vorgesehenen Verfahren von der zuständigen Behörde untersucht worden sind. Bei der Bakteriellen Ringfäule dürfen in der Sicherheitszone außerdem
 
@@ -258,13 +249,11 @@ erzeugen, befördern oder lagern und Betriebe, die Maschinen für die Erzeugung 
 
 2. vor der Nutzung des belasteten Wassers amtlich zugelassene Verfahren angewandt werden, die die Eliminierung des Schadorganismus gewährleisten und seine Verschleppung verhindern.
 
-
-## § 7 – Züchtungs- und Haltungsverbot
+# § 7 – Züchtungs- und Haltungsverbot
 
 Das Züchten und das Halten der Schadorganismen nach § 1 Abs. 1 sowie das Arbeiten mit diesen Schadorganismen sind verboten.
 
-
-## § 8 – Verwendung und Behandlung bei Befall an Kartoffeln
+# § 8 – Verwendung und Behandlung bei Befall an Kartoffeln
 
 (1) Verfügungsberechtigte und Besitzer sind verpflichtet,
 
@@ -280,8 +269,7 @@ Die Pflicht zur Vernichtung oder Behandlung nach Nummer 2 endet, wenn keine Gefa
 
 (3) Die zuständige Behörde kann zu den Absätzen 1 und 2 nähere Anordnungen treffen, soweit dies zur Bekämpfung des jeweiligen Schadorganismus erforderlich ist.
 
-
-## § 9 – Verwendung und Behandlung bei Befall an Tomatenpflanzen
+# § 9 – Verwendung und Behandlung bei Befall an Tomatenpflanzen
 
 (1) Verfügungsberechtigte und Besitzer sind verpflichtet,
 
@@ -297,8 +285,7 @@ Die Pflicht zur Vernichtung oder Behandlung nach Nummer 2 endet, wenn seit der t
 
 (3) Die zuständige Behörde kann zu den Absätzen 1 und 2 nähere Anordnungen treffen, soweit dies zur Bekämpfung des Schadorganismus erforderlich ist.
 
-
-## § 10 – Verbote und Beschränkungen bei Befall mit der Bakteriellen Ringfäule
+# § 10 – Verbote und Beschränkungen bei Befall mit der Bakteriellen Ringfäule
 
 (1) Ist in einem landwirtschaftlichen Betrieb der Befall einer Anbaufläche, eines Lagers, einer Sendung oder einer Partie festgestellt worden, so dürfen Kartoffeln, die in diesem Betrieb erzeugt worden sind oder sich beim Auftreten der Bakteriellen Ringfäule dort befinden, nicht angebaut werden.
 
@@ -328,8 +315,7 @@ Durchwuchs und Wirtspflanzen einschließlich Unkräuter aus der Familie der Nach
 
 Sie kann hierzu alle zur Bekämpfung des Schadorganismus und zur Vermeidung seiner Verschleppung erforderlichen Anordnungen treffen. Sie kann insbesondere anordnen, Aufzeichnungen über Herkunft und Verwendung der in den Betriebsteilen erzeugten Partien sowie über die produktionstechnischen Maßnahmen und durchgeführten Reinigungs- und Desinfektionsmaßnahmen in den Betriebsteilen zu führen. Die Aufzeichnungen sind mindestens 3 Jahre aufzubewahren. Eine deutliche Trennung der Betriebsteile liegt insbesondere vor, wenn keine klonale Verbundenheit der im Betrieb vorhandenen Kartoffeln besteht sowie Anbau, Behandlung und Lagerung der Kartoffeln getrennt in den Betriebsteilen erfolgen. Die zuständige Behörde überwacht die Betriebsteile und untersucht die in den Betriebsteilen erzeugten Kartoffeln.
 
-
-## § 11 – Verbote und Beschränkungen bei Befall mit der Schleimkrankheit
+# § 11 – Verbote und Beschränkungen bei Befall mit der Schleimkrankheit
 
 (1) Ist in einem landwirtschaftlichen oder gärtnerischen Produktionsort der Befall einer Anbaufläche, eines Lagers, einer Sendung oder einer Partie festgestellt worden, dürfen Kartoffeln oder Tomatenpflanzen, die in diesem Produktionsort erzeugt worden sind oder sich beim Auftreten dort befinden, nicht angebaut werden.
 
@@ -381,11 +367,9 @@ Die zuständige Behörde kann die Genehmigung nach Satz 1 Nr. 2 mit Auflagen ver
 
 (7) Die zuständige Behörde kann Ausnahmen vom Anbauverbot nach Absatz 2 Satz 1 und von den Anbaubeschränkungen nach den Absätzen 2, 3 und 4 zulassen, wenn keine Gefahr der Verschleppung der Schleimkrankheit auf einen anderen Betriebsteil oder andere Betriebe besteht und die Kartoffelerzeugung in Betriebsteilen erfolgt, die deutlich voneinander getrennt sind. § 10 Abs. 7 Satz 2 bis 5 gilt entsprechend.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Ausnahmen zu Versuchs- und Züchtungszwecken
+# § 13 – Ausnahmen zu Versuchs- und Züchtungszwecken
 
 (1) Die zuständige Behörde kann auf Antrag im Einzelfall Ausnahmen von den §§ 3, 6, 7 und 8 bis 11 für wissenschaftliche Untersuchungen und Versuche zur Prüfung von Kartoffeln auf Resistenz und für Züchtungsvorhaben genehmigen, soweit hierdurch die Bekämpfung der Schadorganismen nach § 1 Abs. 1 nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieser Schadorganismen besteht.
 
@@ -405,22 +389,19 @@ Dem Antrag ist ein geeigneter Herkunftsnachweis für das Pflanzenmaterial oder d
 
 (3) Die Genehmigung kann erteilt werden, wenn die Einhaltung der Anforderungen des Anhanges I der Richtlinie 95/44/EG der Kommission vom 26. Juli 1995 mit den Bedingungen, unter denen bestimmte Pflanzen, Pflanzenerzeugnisse und andere Gegenstände gemäß den Anhängen I bis V der Richtlinie 77/93/EWG des Rates zu Versuchs-, Forschungs- und Züchtungszwecken in die Gemeinschaft oder bestimmte Schutzgebiete derselben eingeführt oder darin verbracht werden dürfen (ABl. EG Nr. L 184 S. 34), in der jeweils geltenden Fassung sichergestellt ist. Der Antragsteller ist verpflichtet, unverzüglich jede Änderung im Verlauf des im Antrag angegebenen Vorhabens oder jede Änderung des Zwecks anzuzeigen. Die Genehmigung kann, auch nachträglich, mit Auflagen verbunden werden. Sie kann eine Befreiung von den Anzeigepflichten nach § 1 enthalten, wenn der Antragsteller dies beantragt hat. Die Vorschriften des § 14a der Pflanzenbeschauverordnung bleiben unberührt.
 
-
-## § 14 – Ordnungswidrigkeiten
+# § 14 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 1 Abs. 1 oder 3 Satz 1, auch in Verbindung mit Satz 2, eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-1a.  
-einer vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1, § 6 Absatz 4 Satz 1 oder Absatz 5 Satz 3, § 8 Absatz 3, § 9 Absatz 3 oder § 10 Absatz 7 Satz 2, auch in Verbindung mit § 11 Absatz 7 Satz 2, zuwiderhandelt,
+1a. einer vollziehbaren Anordnung nach § 3 Absatz 1 Satz 1, § 6 Absatz 4 Satz 1 oder Absatz 5 Satz 3, § 8 Absatz 3, § 9 Absatz 3 oder § 10 Absatz 7 Satz 2, auch in Verbindung mit § 11 Absatz 7 Satz 2, zuwiderhandelt,
 
 2. entgegen § 6 Abs. 1 Satz 1, 2 oder 3 Nr. 1 oder 2, oder Abs. 2 Satz 1, 2 oder 3 Nr. 1 oder 2 Kartoffeln anbaut, verwendet, pflanzt, behandelt oder lagert,
 
 3. entgegen § 6 Abs. 1 Satz 3 Nr. 3, Abs. 2 Satz 3 Nr. 3 oder Abs. 3 Satz 3 eine Maschine oder einen Lagerraum verwendet,
 
-3a.  
-entgegen § 6 Abs. 3 Satz 1 Tomatenpflanzen verwendet,
+3a. entgegen § 6 Abs. 3 Satz 1 Tomatenpflanzen verwendet,
 
 4. entgegen § 7 einen Schadorganismus züchtet, hält oder mit ihm arbeitet,
 

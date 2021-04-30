@@ -1,15 +1,11 @@
-# [StVUnfStatG1990V] Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit Sachschaden im Sinne des Straßenverkehrsunfallstatistikgesetzes
-
-Ausfertigungsdatum: 21.12.1994
-
+% Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit Sachschaden im Sinne des Straßenverkehrsunfallstatistikgesetzes
+% Ausfertigungsdatum: 21.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 des Straßenverkehrsunfallstatistikgesetzes, der durch Artikel 1 Nr. 5 des Gesetzes vom 23. November 1994 (BGBl. I S. 3491) neu gefaßt worden ist, verordnet das Bundesministerium für Verkehr:
 
-
-## § 1
+# § 1
 
 Ein schwerwiegender Unfall mit Sachschaden im Sinne des § 2 Abs. 1 des Straßenverkehrsunfallstatistikgesetzes vom 15. Juni 1990, das durch Artikel 1 des Gesetzes vom 23. November 1994 (BGBl. I S. 3491) geändert worden ist, liegt vor, wenn nach den Feststellungen der Beamten des Polizeidienstes
 
@@ -25,12 +21,10 @@ anzunehmen ist und
 
 Ein schwerwiegender Unfall mit Sachschaden liegt auch vor, wenn ohne Rücksicht auf Art des Sachschadens ein Unfallbeteiligter unter der Einwirkung von Alkohol oder anderen berauschenden Mitteln gestanden hat.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

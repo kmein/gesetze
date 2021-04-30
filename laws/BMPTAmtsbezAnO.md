@@ -1,10 +1,7 @@
-# [BMPTAmtsbezAnO] Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung von Amtsbezeichnungen
-
-Ausfertigungsdatum: 19.09.1989
-
+% Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung von Amtsbezeichnungen
+% Ausfertigungsdatum: 19.09.1989
  
-
-## ----
+# ----
 
 Gemäß § 47 Abs. 3 Satz 2 des Postverfassungsgesetzes vom 8. Juni 1989 (BGBl. I S. 1026) setze ich folgende Amtsbezeichnungen fest:  
 Direktor bei der Generaldirektion POSTDIENST  

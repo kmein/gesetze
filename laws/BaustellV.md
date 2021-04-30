@@ -1,15 +1,11 @@
-# [BaustellV] Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen  (Baustellenverordnung - BaustellV)
-
-Ausfertigungsdatum: 10.06.1998
-
+% Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen  (Baustellenverordnung - BaustellV)
+% Ausfertigungsdatum: 10.06.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl. I S. 1246) verordnet die Bundesregierung:
 
-
-## § 1 – Ziele, Begriffe
+# § 1 – Ziele, Begriffe
 
 (1) Diese Verordnung dient der wesentlichen Verbesserung von Sicherheit und Gesundheitsschutz der Beschäftigten auf Baustellen.
 
@@ -17,8 +13,7 @@ Auf Grund des § 19 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl. I S. 124
 
 (3) Baustelle im Sinne dieser Verordnung ist der Ort, an dem ein Bauvorhaben ausgeführt wird. Ein Bauvorhaben ist das Vorhaben, eine oder mehrere bauliche Anlagen zu errichten, zu ändern oder abzubrechen.
 
-
-## § 2 – Planung der Ausführung des Bauvorhabens
+# § 2 – Planung der Ausführung des Bauvorhabens
 
 (1) Bei der Planung der Ausführung eines Bauvorhabens, insbesondere bei der Einteilung der Arbeiten, die gleichzeitig oder nacheinander durchgeführt werden, und bei der Bemessung der Ausführungszeiten für diese Arbeiten, sind die allgemeinen Grundsätze nach § 4 des Arbeitsschutzgesetzes zu berücksichtigen.
 
@@ -32,8 +27,7 @@ ist der zuständigen Behörde spätestens zwei Wochen vor Einrichtung der Bauste
 
 (3) Ist für eine Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, eine Vorankündigung zu übermitteln, oder werden auf einer Baustelle, auf der Beschäftigte mehrerer Arbeitgeber tätig werden, besonders gefährliche Arbeiten nach Anhang II ausgeführt, so ist dafür zu sorgen, daß vor Einrichtung der Baustelle ein Sicherheits- und Gesundheitsschutzplan erstellt wird. Der Plan muß die für die betreffende Baustelle anzuwendenden Arbeitsschutzbestimmungen erkennen lassen und besondere Maßnahmen für die besonders gefährlichen Arbeiten nach Anhang II enthalten. Erforderlichenfalls sind bei Erstellung des Planes betriebliche Tätigkeiten auf dem Gelände zu berücksichtigen.
 
-
-## § 3 – Koordinierung
+# § 3 – Koordinierung
 
 (1) Für Baustellen, auf denen Beschäftigte mehrerer Arbeitgeber tätig werden, sind ein oder mehrere geeignete Koordinatoren zu bestellen. Der Bauherr oder der von ihm nach § 4 beauftragte Dritte kann die Aufgaben des Koordinators selbst wahrnehmen.
 
@@ -59,13 +53,11 @@ ist der zuständigen Behörde spätestens zwei Wochen vor Einrichtung der Bauste
 
 5. die Überwachung der ordnungsgemäßen Anwendung der Arbeitsverfahren durch die Arbeitgeber zu koordinieren.
 
-
-## § 4 – Beauftragung
+# § 4 – Beauftragung
 
 Die Maßnahmen nach § 2 und § 3 Abs. 1 Satz 1 hat der Bauherr zu treffen, es sei denn, er beauftragt einen Dritten, diese Maßnahmen in eigener Verantwortung zu treffen.
 
-
-## § 5 – Pflichten der Arbeitgeber
+# § 5 – Pflichten der Arbeitgeber
 
 (1) Die Arbeitgeber haben bei der Ausführung der Arbeiten die erforderlichen Maßnahmen des Arbeitsschutzes insbesondere in bezug auf die
 
@@ -85,13 +77,11 @@ zu treffen sowie die Hinweise des Koordinators und den Sicherheits- und Gesundhe
 
 (3) Die Verantwortlichkeit der Arbeitgeber für die Erfüllung ihrer Arbeitsschutzpflichten wird durch die Maßnahmen nach den §§ 2 und 3 nicht berührt.
 
-
-## § 6 – Pflichten sonstiger Personen
+# § 6 – Pflichten sonstiger Personen
 
 Zur Gewährleistung von Sicherheit und Gesundheitsschutz der Beschäftigten haben auch die auf einer Baustelle tätigen Unternehmer ohne Beschäftigte die bei den Arbeiten anzuwendenden Arbeitsschutzvorschriften einzuhalten. Sie haben die Hinweise des Koordinators sowie den Sicherheits- und Gesundheitsschutzplan zu berücksichtigen. Die Sätze 1 und 2 gelten auch für Arbeitgeber, die selbst auf der Baustelle tätig sind.
 
-
-## § 7 – Ordnungswidrigkeiten und Strafvorschriften
+# § 7 – Ordnungswidrigkeiten und Strafvorschriften
 
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -101,20 +91,17 @@ Zur Gewährleistung von Sicherheit und Gesundheitsschutz der Beschäftigten habe
 
 (2) Wer durch eine im Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
 (2) Für Bauvorhaben, mit deren Ausführung bereits vor dem 1. Juli 1998 begonnen worden ist, bleiben die bisherigen Vorschriften maßgebend.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anhang I
+# Anhang I
 
 Fundstelle des Originaltextes: BGBl. I 1998, 1285
 
@@ -136,8 +123,7 @@ Fundstelle des Originaltextes: BGBl. I 1998, 1285
 
 9. Angabe der bereits ausgewählten Arbeitgeber und Unternehmer ohne Beschäftigte.
 
-
-## Anhang II
+# Anhang II
 
 (Fundstelle: BGBl. I 1998, 1285;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

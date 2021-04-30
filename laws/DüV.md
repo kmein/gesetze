@@ -1,13 +1,9 @@
-# [DüV] Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen   (Düngeverordnung - DüV)
-
-Ausfertigungsdatum: 26.05.2017
-
+% Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen   (Düngeverordnung - DüV)
+% Ausfertigungsdatum: 26.05.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 26.05.2017
 
 (2) Die Anforderungen dieser Verordnung gelten auch für die in Absatz 1 genannten Stoffe, die nach § 3 Absatz 1 Satz 3 des Düngegesetzes angewendet und nach § 5 Absatz 1 Satz 2 des Düngegesetzes in den Verkehr gebracht werden dürfen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -100,8 +95,7 @@ Nicht zur landwirtschaftlich genutzten Fläche im Sinne des Satzes 1 Nummer 1 ge
 
 2. Flächen in Gewächshäusern oder unter stationären Folientunneln, soweit durch eine gesteuerte Wasserzufuhr eine Auswaschung von Nährstoffen verhindert wird.
 
-
-## § 3 – Grundsätze für die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
+# § 3 – Grundsätze für die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 
 (1) Die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln ist unter Berücksichtigung der Standortbedingungen auf ein Gleichgewicht zwischen dem voraussichtlichen Nährstoffbedarf der Pflanzen einerseits und der Nährstoffversorgung aus dem Boden und aus der Düngung andererseits auszurichten. Aufbringungszeitpunkt und -menge sind bei den in Satz 1 genannten Stoffen so zu wählen, dass verfügbare oder verfügbar werdende Nährstoffe den Pflanzen zeitgerecht in einer dem Nährstoffbedarf der Pflanzen entsprechenden Menge zur Verfügung stehen und Einträge in oberirdische Gewässer und das Grundwasser vermieden werden. Hierbei sollen auch die Ergebnisse regionaler Feldversuche zur Validierung herangezogen werden. Erfordernisse für die Erhaltung der standortbezogenen Bodenfruchtbarkeit sind zusätzlich zu berücksichtigen.
 
@@ -135,8 +129,7 @@ Für in Anlage 3 nicht genannte Düngemittel sind im Falle des Satzes 1 Nummer 2
 
 (6) Auf Schlägen, bei denen die Bodenuntersuchung nach § 4 Absatz 4 Satz 1 Nummer 2 ergeben hat, dass der Phosphatgehalt im Durchschnitt (gewogenes Mittel) 20 Milligramm Phosphat je 100 Gramm Boden nach dem Calcium-Acetat-Lactat-Extraktionsverfahren (CAL-Methode), 25 Milligramm Phosphat je 100 Gramm Boden nach dem Doppel-Lactat-Verfahren (DL-Methode) oder 3,6 Milligramm Phosphor je 100 Gramm Boden nach dem Elektro-Ultrafiltrationsverfahren (EUF-Verfahren) überschreitet, dürfen phosphathaltige Düngemittel höchstens bis in Höhe der voraussichtlichen Phosphatabfuhr aufgebracht werden; im Rahmen einer Fruchtfolge kann die voraussichtliche Phosphatabfuhr für einen Zeitraum von höchstens drei Jahren zu Grunde gelegt werden. Bei der Ermittlung der Phosphatabfuhr der angebauten Kulturen sind die Phosphatgehalte pflanzlicher Erzeugnisse nach Anlage 7 Tabelle 1 bis 3 heranzuziehen. Wenn schädliche Gewässerveränderungen in Folge des Aufbringens phosphathaltiger Düngemittel nach Satz 1 festgestellt werden, hat die nach Landesrecht zuständige Stelle im Einzelfall gegenüber dem Betriebsinhaber anzuordnen, dass abweichend von Satz 1 nur geringere Phosphatmengen aufgebracht werden dürfen, oder das Aufbringen phosphathaltiger Düngemittel zu untersagen.
 
-
-## § 4 – Ermittlung des Düngebedarfs an Stickstoff und Phosphat
+# § 4 – Ermittlung des Düngebedarfs an Stickstoff und Phosphat
 
 (1) Der Stickstoffdüngebedarf ist im Falle von Ackerland als standortbezogene Obergrenze auf der Grundlage der nachfolgenden Bestimmungen und der Anlage 4 Tabelle 1 bis 7 zu ermitteln. Bei der Ermittlung sind die folgenden Einflüsse auf den zu ermittelnden Bedarf heranzuziehen:
 
@@ -194,8 +187,7 @@ durch Anwendung von Berechnungs- und Schätzverfahren, die auf fachspezifischen 
 
 Satz 1 Nummer 1 Buchstabe b gilt nicht für den Anbau von Gemüsekulturen, die nach einer Gemüsevorkultur im selben Jahr angebaut werden; in diesem Fall ist die im Boden verfügbare Stickstoffmenge durch Untersuchung repräsentativer Proben zu ermitteln. Die Probennahmen und Untersuchungen sind nach Vorgaben der nach Landesrecht zuständigen Stelle durchzuführen.
 
-
-## § 5 – Besondere Vorgaben für die Anwendung von stickstoff- oder phosphathaltigen Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
+# § 5 – Besondere Vorgaben für die Anwendung von stickstoff- oder phosphathaltigen Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 
 (1) Das Aufbringen von stickstoff- oder phosphathaltigen Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln darf nicht erfolgen, wenn der Boden überschwemmt, wassergesättigt, gefroren oder schneebedeckt ist. Abweichend von Satz 1 dürfen Kalkdünger mit einem Gehalt von weniger als zwei vom Hundert Phosphat auf gefrorenen Boden aufgebracht werden, soweit ein Abschwemmen in oberirdische Gewässer oder auf benachbarte Flächen nicht zu besorgen ist.
 
@@ -233,8 +225,7 @@ Auf Ackerflächen mit einer Hangneigung nach Satz 1 Nummer 3, die unbestellt sin
 
 (5) Wasserrechtliche Abstands- und Bewirtschaftungsregelungen, die über die Regelungen der Absätze 2 und 3 hinausgehen, bleiben unberührt.
 
-
-## § 6 – Zusätzliche Vorgaben für die Anwendung von bestimmten Düngemitteln
+# § 6 – Zusätzliche Vorgaben für die Anwendung von bestimmten Düngemitteln
 
 (1) Wer organische, organisch-mineralische Düngemittel, einschließlich Wirtschaftsdünger, jeweils mit wesentlichem Gehalt an verfügbarem Stickstoff oder Ammoniumstickstoff auf unbestelltes Ackerland aufbringt, hat diese unverzüglich, jedoch spätestens innerhalb von vier Stunden, ab dem 1. Februar 2025 innerhalb einer Stunde nach Beginn des Aufbringens einzuarbeiten. Satz 1 gilt nicht für
 
@@ -292,8 +283,7 @@ Satz 1 gilt nicht für eine Aufbringung von Festmist von Huftieren oder Klauenti
 
 (11) Auf Grünland, Dauergrünland und auf Ackerland mit mehrjährigem Feldfutterbau bei einer Aussaat bis zum Ablauf des 15. Mai dürfen in der Zeit vom 1. September bis zum Beginn des Verbotszeitraums nach Absatz 8 Satz 1 Nummer 2, auch in Verbindung mit Absatz 10, mit flüssigen organischen und flüssigen organisch-mineralischen Düngemitteln, einschließlich flüssigen Wirtschaftsdüngern, mit wesentlichem Gehalt an verfügbarem Stickstoff oder Ammoniumstickstoff nicht mehr als 80 Kilogramm Gesamtstickstoff je Hektar aufgebracht werden.
 
-
-## § 7 – Anwendungsbeschränkungen und Anwendungsverbote
+# § 7 – Anwendungsbeschränkungen und Anwendungsverbote
 
 (1) Die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln entgegen den Anwendungsbeschränkungen, die sich für die genannten Stoffe aus der Kennzeichnung nach den Vorgaben der Düngemittelverordnung ergeben, ist verboten.
 
@@ -305,14 +295,11 @@ Satz 1 gilt nicht für eine Aufbringung von Festmist von Huftieren oder Klauenti
 
 (5) Ammoniumcarbonat darf nicht als Düngemittel, Bodenhilfsstoff, Kultursubstrat oder Pflanzenhilfsmittel angewendet werden.
 
+# § 8 – Nährstoffvergleich(aufgehoben)
 
-## § 8 – Nährstoffvergleich(aufgehoben)
+# § 9 – Bewertung des betrieblichen Nährstoffvergleiches(aufgehoben)
 
-
-## § 9 – Bewertung des betrieblichen Nährstoffvergleiches(aufgehoben)
-
-
-## § 10 – Aufzeichnungen
+# § 10 – Aufzeichnungen
 
 (1) Betriebsinhaber haben vor dem jeweiligen Aufbringen von wesentlichen Nährstoffmengen mit Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln aufzuzeichnen:
 
@@ -368,13 +355,11 @@ d) keine außerhalb des Betriebes anfallenden Wirtschaftsdünger sowie organisch
 
 (5) Der Betriebsinhaber hat die Aufzeichnungen nach den Absätzen 1, 2 und 4 sieben Jahre nach Ablauf des Düngejahres aufzubewahren und der nach Landesrecht zuständigen Stelle auf Verlangen vorzulegen.
 
-
-## § 11 – Anforderungen an die Geräte zum Aufbringen
+# § 11 – Anforderungen an die Geräte zum Aufbringen
 
 Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln müssen den allgemein anerkannten Regeln der Technik entsprechen. Das Aufbringen von Stoffen nach Satz 1 mit Geräten nach Anlage 8 ist verboten.
 
-
-## § 12 – Fassungsvermögen von Anlagen zur Lagerung von Wirtschaftsdüngern und Gärrückständen
+# § 12 – Fassungsvermögen von Anlagen zur Lagerung von Wirtschaftsdüngern und Gärrückständen
 
 (1) Das Fassungsvermögen von Anlagen zur Lagerung von Wirtschaftsdüngern und Gärrückständen aus dem Betrieb einer Biogasanlage, die als Düngemittel angewendet werden sollen, muss auf die Belange des jeweiligen Betriebes und des Gewässerschutzes abgestimmt sein. Das Fassungsvermögen muss größer sein als die Kapazität, die in dem Zeitraum erforderlich ist, in dem das Aufbringen der in Satz 1 genannten Düngemittel auf landwirtschaftlich genutzten Flächen nach § 6 Absatz 8 und 9 sowie in den nach § 13a Absatz 1 Satz 1 Nummer 1 bis 3 durch Rechtsverordnung ausgewiesenen Gebieten und in den nach § 13a Absatz 4 festgelegten Gebieten ferner nach § 13a Absatz 2 Nummer 3, 4 und 5 verboten ist.
 
@@ -388,15 +373,13 @@ Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten od
 
 (6) Auf Verlangen der nach Landesrecht zuständigen Stelle haben die Inhaber der in den Absätzen 2 bis 5 genannten Betriebe durch die Vorlage geeigneter Unterlagen nachzuweisen, dass sie ihre Verpflichtungen erfüllen.
 
-
-## § 13 – Besondere Anforderungen an Genehmigungen und sonstige Anordnungen durch die zuständigen Stellen, Erlass von Rechtsverordnungen durch die Landesregierungen
+# § 13 – Besondere Anforderungen an Genehmigungen und sonstige Anordnungen durch die zuständigen Stellen, Erlass von Rechtsverordnungen durch die Landesregierungen
 
 (1) Soweit die nach Landesrecht zuständige Stelle auf Grund dieser Verordnung eine Genehmigung erteilt oder sonstige Anordnung trifft, hat sie dabei besonders zu berücksichtigen, dass die Fruchtbarkeit des Bodens, die Gesundheit von Menschen und Tieren sowie der Naturhaushalt, insbesondere die Gewässerqualität, nicht gefährdet werden und andere öffentlich-rechtliche Vorschriften nicht entgegenstehen.
 
 (2) Den Landesregierungen wird ferner die Befugnis übertragen, durch Rechtsverordnung auf Grund des § 3 Absatz 4, auch in Verbindung mit Absatz 5, oder auf Grund des § 4 des Düngegesetzes Regelungen über Vorlage-, Melde- oder Mitteilungspflichten im Zusammenhang mit den Aufzeichnungen nach § 10 Absatz 1, 2 und 4 sowie über die Form der genannten Aufzeichnungen zu erlassen, soweit dies zur Überwachung der Einhaltung der düngerechtlichen Vorschriften erforderlich ist.
 
-
-## § 13a – Besondere Anforderungen zum Schutz der Gewässer vor Verunreinigung, Erlass von Rechtsverordnungen durch die Landesregierungen
+# § 13a – Besondere Anforderungen zum Schutz der Gewässer vor Verunreinigung, Erlass von Rechtsverordnungen durch die Landesregierungen
 
 (1) Die Landesregierungen haben zum Schutz der Gewässer vor Verunreinigung durch Nitrat oder Phosphat durch Rechtsverordnung auf Grund des § 3 Absatz 4 Satz 1 in Verbindung mit Satz 2 Nummer 3 und mit Absatz 5 des Düngegesetzes folgende Gebiete auszuweisen:
 
@@ -504,8 +487,7 @@ d) keine außerhalb des Betriebes anfallenden Wirtschaftsdünger sowie organisch
 
 (8) Die Landesregierungen unterrichten das Bundesministerium über den erstmaligen Erlass und jede Änderung einer Rechtsverordnung nach den Absätzen 1, 3 oder 7. Die Landesregierungen überprüfen die nach den Absätzen 1, 3 oder 7 erlassenen Rechtsverordnungen spätestens vier Jahre nach ihrem erstmaligen Erlass und danach in Abständen von höchstens vier Jahren.
 
-
-## § 14 – Ordnungswidrigkeiten
+# § 14 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe a des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -533,8 +515,7 @@ d) keine außerhalb des Betriebes anfallenden Wirtschaftsdünger sowie organisch
 
 2. entgegen § 10 Absatz 5 eine Aufzeichnung nicht oder nicht mindestens sieben Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 15 – Übergangsvorschrift
+# § 15 – Übergangsvorschrift
 
 (1) Die abweichenden oder ergänzenden Anforderungen nach § 13a Absatz 2 dieser Verordnung gelten ab dem 1. Januar 2021 auch in Gebieten und Teilgebieten, für die die Landesregierungen durch eine Rechtsverordnung nach § 13 Absatz 2 dieser Verordnung in der bis zum 30. April 2020 geltenden Fassung abweichende Vorschriften erlassen haben.
 
@@ -544,13 +525,11 @@ d) keine außerhalb des Betriebes anfallenden Wirtschaftsdünger sowie organisch
 
 (4) Die Landesregierungen überprüfen bis zum Ablauf des 31. Dezember 2020, ob Änderungen der Rechtsverordnungen, die nach § 13 Absatz 2 dieser Verordnung in der bis zum 30. April 2020 geltenden Fassung erlassen worden sind, erforderlich sind. Hat die Überprüfung ergeben, dass Änderungen erforderlich sind, so passen die Landesregierungen bis zum Ablauf des 31. Dezember 2020 die betroffenen Rechtsverordnungen insoweit an die Vorgaben dieser Verordnung an. Die Landesregierungen unterrichten das Bundesministerium über die Ergebnisse der Überprüfung.
 
-
-## Anlage 1 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr oder je Tier
+# Anlage 1 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Mittlere Nährstoffausscheidung landwirtschaftlicher Nutztiere je Stallplatz und Jahr oder je Tier
 
 (Fundstelle: BGBl. I 2017, 1317 - 1323)
 
-
-## Anlage 2 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
+# Anlage 2 – (zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)Kennzahlen für die sachgerechte Bewertung zugeführter Stickstoffdünger
 
 (Fundstelle: BGBl. I 2020, 853)
 
@@ -626,13 +605,11 @@ Basis: Stickstoffausscheidung abzüglich der Lagerungsverluste bzw. Ermittlung d
 <span id="FnA1-F811377_03"></span><a href="#FnR.FnA1-F811377_03" class="Footnote">2</a>  
 Weidetage sind anteilig zu berechnen, über die Weidehaltung sind geeignete Aufzeichnungen zu führen, die der nach Landesrecht zuständigen Stelle auf Verlangen vorzulegen sind.
 
-
-## Anlage 3 – (zu § 3 Absatz 5 Satz 1 Nummer 2)Mindestwerte für die Ausnutzung des Stickstoffs aus organischen oder organisch-mineralischen Düngemitteln im Jahr des Aufbringens, die aus folgenden Ausgangsstoffen bestehen
+# Anlage 3 – (zu § 3 Absatz 5 Satz 1 Nummer 2)Mindestwerte für die Ausnutzung des Stickstoffs aus organischen oder organisch-mineralischen Düngemitteln im Jahr des Aufbringens, die aus folgenden Ausgangsstoffen bestehen
 
 (Fundstelle: BGBl. I 2017, 1325)
 
-
-## Anlage 4 – (zu § 4 Absatz 1 und 2)Ermittlung des Stickstoffdüngebedarfs
+# Anlage 4 – (zu § 4 Absatz 1 und 2)Ermittlung des Stickstoffdüngebedarfs
 
 (Fundstelle: BGBl. I 2017, 1326 - 1333)
 
@@ -684,8 +661,7 @@ Vorbemerkungen und Hinweise:
 
 4. Im Falle von „Ackergras (3 – 4 Schnitte/Jahr)“ gelten die angegebenen Werte für zeitweise trockene Standorte.
 
-
-## Anlage 5 – (zu § 10 Absatz 1 Satz 2 und Absatz 2 Satz 2)Jährlicher betrieblicher Nährstoffeinsatz für Stickstoff (N) und Phosphat (P2O5) für das Düngejahr ………
+# Anlage 5 – (zu § 10 Absatz 1 Satz 2 und Absatz 2 Satz 2)Jährlicher betrieblicher Nährstoffeinsatz für Stickstoff (N) und Phosphat (P2O5) für das Düngejahr ………
 
 (Fundstelle: BGBl. I 2020, 854 - 855)
 
@@ -716,11 +692,9 @@ Phosphat (in kg P<sub>2</sub>O<sub>5</sub>): .........
 
  
 
+# Anlage 6 – (weggefallen)
 
-## Anlage 6 – (weggefallen)
-
-
-## Anlage 7 – (zu § 3 Absatz 2 und 6 und § 4 Absatz 3)Nährstoffgehalte pflanzlicher Erzeugnisse
+# Anlage 7 – (zu § 3 Absatz 2 und 6 und § 4 Absatz 3)Nährstoffgehalte pflanzlicher Erzeugnisse
 
 (Fundstelle: BGBl. I 2020, 855 - 860)
 
@@ -3024,8 +2998,7 @@ Ganzpflanze
 <span id="FnA3-F811377_08"></span><a href="#FnR.FnA3-F811377_08" class="Footnote">1</a>  
 TM = Trockenmasse.
 
-
-## Anlage 8 – (zu § 11 Satz 2)Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, die nicht den allgemein anerkannten Regeln der Technik entsprechen
+# Anlage 8 – (zu § 11 Satz 2)Geräte zum Aufbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln, die nicht den allgemein anerkannten Regeln der Technik entsprechen
 
 (Fundstelle: BGBl. I 2017, 1341)
 
@@ -3039,7 +3012,6 @@ TM = Trockenmasse.
 
 5. Drehstrahlregner zur Verregnung von Gülle.
 
-
-## Anlage 9 – (zu § 12)Dunganfall bei der Haltung landwirtschaftlicher Nutztiere; Umrechnungsschlüssel zur Ermittlung der Großvieheinheiten (GV)
+# Anlage 9 – (zu § 12)Dunganfall bei der Haltung landwirtschaftlicher Nutztiere; Umrechnungsschlüssel zur Ermittlung der Großvieheinheiten (GV)
 
 (Fundstelle: BGBl. I 2017, 1342 - 1347)

@@ -1,23 +1,18 @@
-# [WasSkiV 1990] Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen  (Wasserskiverordnung)
-
-Ausfertigungsdatum: 17.01.1990
-
+% Verordnung über das Wasserskilaufen auf den Binnenschiffahrtsstraßen  (Wasserskiverordnung)
+% Ausfertigungsdatum: 17.01.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1 und 5 und des § 3c Abs. 1 Satz 1 und 2 Nr. 2 in Verbindung mit § 11 Abs. 1 Satz 2 des Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270) wird verordnet:
 
-
-## § 1
+# § 1
 
 (1) Auf den Binnenschiffahrtstraßen darf das Wasserskilaufen nur betrieben werden
 
 1. auf den durch Tafelzeichen E.17
 
   
-...  
-(nicht darstellbares Tafelzeichen E.17 Wasserskistrecke, BGBl. I 1990, 107)
+... (nicht darstellbares Tafelzeichen E.17 Wasserskistrecke, BGBl. I 1990, 107)
 
 hierfür freigegebenen Strecken und Wasserflächen, 0 2.
 
@@ -43,8 +38,7 @@ verfügt.
 
 (3) Eine Übersicht über die freigegebenen Strecken und Wasserflächen wird im Verkehrsblatt - Amtsblatt des Bundesministers für Verkehr und digitale Infrastruktur der Bundesrepublik Deutschland - veröffentlicht.
 
-
-## § 2
+# § 2
 
 Im Sinne dieser Verordnung sind
 
@@ -52,8 +46,7 @@ Im Sinne dieser Verordnung sind
 
 2. Wasserskilaufen alle Betätigungen, bei denen Personen, von einem Fahrzeug gezogen, mit oder ohne Wasserski oder auf sonstigen Gegenständen über das Wasser gleiten, sowie das Drachenfliegen und Fallschirmfliegen hinter einem ziehenden Wasserfahrzeug.
 
-
-## § 3
+# § 3
 
 (1) Die Schiffsführer der ziehenden Fahrzeuge und die Wasserskiläufer dürfen insbesondere durch die Erzeugung von Wellenschlag oder Sogwirkung
 
@@ -77,8 +70,7 @@ Zu diesem Zweck müssen bei der Vorbeifahrt
 
 Ein Wassermotorrad (§ 1 Nr. 3 der Wassermotorräder-Verordnung vom 31. Mai 1995 (BGBl. I S. 79), die zuletzt durch Artikel 9 der Verordnung vom 18. Dezember 2002 (BGBl. I S. 4580) geändert worden ist, in der jeweils geltenden Fassung) darf als ziehendes Fahrzeug nur eingesetzt werden, wenn es zusätzlich zu den Anforderungen nach Satz 1 über ausreichende Kippstabilität verfügt und sein Typ in einer amtlichen Liste des Bundesministeriums für Verkehr und digitale Infrastruktur, die im Verkehrsblatt bekannt gemacht wird, aufgeführt ist. Die Aufnahme in die Liste erfolgt, wenn der Typ die Anforderungen nach den Sätzen 1 und 2 erfüllt.
 
-
-## § 4
+# § 4
 
 (1) Unbeschadet des § 1 Abs. 1 Satz 1 Nr. 1 dürfen nur mit Erlaubnis der Generaldirektion Wasserstraßen und Schifffahrt betrieben werden:
 
@@ -92,13 +84,11 @@ Die Erlaubnis kann auch nachträglich befristet und mit Auflagen verbunden werde
 
 (3) Die Generaldirektion Wasserstraßen und Schifffahrt kann die Befugnis zur Erteilung der Erlaubnis nach Absatz 1 oder 2 ihren nachgeordneten Wasserstraßen- und Schifffahrtsämtern übertragen.
 
-
-## § 5
+# § 5
 
 Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung für einzelne zum Wasserskilaufen freigegebene Strecken oder Wasserflächen von dieser Verordnung abweichende Regelungen zu treffen, soweit es die örtlichen Verhältnisse gebieten oder zulassen.
 
-
-## § 6
+# § 6
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -110,17 +100,14 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes ha
 
 4. (weggefallen)
 
-
-## § 7
-
-(weggefallen)
-
-
-## § 8
+# § 7
 
 (weggefallen)
 
+# § 8
 
-## Schlußformel
+(weggefallen)
+
+# Schlußformel
 
 Der Bundesminister für Verkehr

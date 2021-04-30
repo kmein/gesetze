@@ -1,17 +1,11 @@
-# [MISSAufstV] Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“  (MISSAufstV)
-
-Ausfertigungsdatum: 28.02.2019
-
+% Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“  (MISSAufstV)
+% Ausfertigungsdatum: 28.02.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit § 39 Absatz 6 der Bundeslaufbahnverordnung, der durch Artikel 1 Nummer 8 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 14. März 2018 (BGBl. I S. 374) verordnet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Verteidigung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -25,8 +19,9 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artik
 
  
 
+ 
 
-## § 1 – Zulassungsvoraussetzungen
+# § 1 – Zulassungsvoraussetzungen
 
 (1) Zum Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“ können Beamtinnen und Beamte zugelassen werden, die
 
@@ -36,27 +31,23 @@ Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artik
 
 (2) Im Übrigen bleibt § 36 der Bundeslaufbahnverordnung unberührt.
 
-
-## § 2 – Ziele
+# § 2 – Ziele
 
 (1) Das Studium vermittelt die notwendigen wissenschaftlichen Methoden und Kenntnisse für die Erfüllung der Aufgaben im höheren nichttechnischen Verwaltungsdienst der Nachrichtendienste und anderer Sicherheitsbehörden, die mit Nachrichtendiensten eng zusammenarbeiten.
 
 (2) Die Beamtinnen und Beamten sollen ihre im Erststudium und in der beruflichen Praxis erworbenen Kompetenzen weiterentwickeln, um den ständig wachsenden Herausforderungen in den Nachrichtendiensten und in anderen Sicherheitsbehörden, die mit Nachrichtendiensten eng zusammenarbeiten, gerecht zu werden.
 
-
-## § 3 – Vollzeitstudium
+# § 3 – Vollzeitstudium
 
 Das Studium ist ein Vollzeitstudium.
 
-
-## § 4 – Regelstudienzeit
+# § 4 – Regelstudienzeit
 
 (1) Die Regelstudienzeit beträgt zwei Jahre.
 
 (2) Für Verlängerungen und Verkürzungen der Regelstudienzeit gelten § 15 Absatz 1 und § 16 Absatz 1 der Bundeslaufbahnverordnung entsprechend. Die Entscheidung trifft die Dienstbehörde im Einvernehmen mit der Universität der Bundeswehr München und der Hochschule des Bundes für öffentliche Verwaltung.
 
-
-## § 5 – Prüfungsordnung
+# § 5 – Prüfungsordnung
 
 (1) Die Prüfungsordnung regelt insbesondere:
 
@@ -86,8 +77,7 @@ Das Studium ist ein Vollzeitstudium.
 
 (2) Die Prüfungsordnung wird von der Universität der Bundeswehr München auf ihrer Internetseite veröffentlicht.
 
-
-## § 6 – Module
+# § 6 – Module
 
 Das Studium gliedert sich in
 
@@ -97,8 +87,7 @@ Das Studium gliedert sich in
 
 3. das Modul Masterarbeit.
 
-
-## § 7 – Allgemeine Module
+# § 7 – Allgemeine Module
 
 (1) Die allgemeinen Module sind den folgenden Themenbereichen zuzuordnen:
 
@@ -116,8 +105,7 @@ Das Studium gliedert sich in
 
 (3) Für die allgemeinen Module werden insgesamt 75 Leistungspunkte vergeben.
 
-
-## § 8 – Modul der Vertiefungsrichtung
+# § 8 – Modul der Vertiefungsrichtung
 
 (1) Die Beamtin oder der Beamte wählt eine Vertiefungsrichtung (§ 5 Absatz 1 Nummer 2) aus.
 
@@ -125,20 +113,17 @@ Das Studium gliedert sich in
 
 (3) Für das Modul der gewählten Vertiefungsrichtung werden 20 Leistungspunkte vergeben.
 
-
-## § 9 – Modul Masterarbeit
+# § 9 – Modul Masterarbeit
 
 (1) Die Masterarbeit kann berufsbegleitend in der Dienststelle angefertigt werden. In diesem Fall werden die Beamtinnen und Beamten während der Bearbeitungszeit der Masterarbeit für 30 Arbeitstage von ihren sonstigen Aufgaben freigestellt.
 
 (2) Für das Modul Masterarbeit werden 25 Leistungspunkte vergeben.
 
-
-## § 10 – Modulprüfungen
+# § 10 – Modulprüfungen
 
 Für die Modulprüfungen gilt die Prüfungsordnung in der zu Beginn des Studiums geltenden Fassung.
 
-
-## § 11 – Abschlusszeugnis
+# § 11 – Abschlusszeugnis
 
 (1) Wer das Studium erfolgreich abgeschlossen hat, erhält ein Abschlusszeugnis.
 
@@ -152,8 +137,7 @@ Für die Modulprüfungen gilt die Prüfungsordnung in der zu Beginn des Studiums
 
 4. die Gesamtnote.
 
-
-## § 12 – Leitung, Planung und Durchführung des Studiums
+# § 12 – Leitung, Planung und Durchführung des Studiums
 
 (1) Für die wissenschaftliche und organisatorische Leitung des Studiums sind die Universität der Bundeswehr München und die Hochschule des Bundes für öffentliche Verwaltung zuständig.
 
@@ -173,8 +157,7 @@ Für die Modulprüfungen gilt die Prüfungsordnung in der zu Beginn des Studiums
 
 6. die Abnahme der Modulprüfungen.
 
-
-## § 13 – Prüfungsamt
+# § 13 – Prüfungsamt
 
 Die Universität der Bundeswehr München richtet ein Prüfungsamt ein. Dieses ist zuständig für
 
@@ -186,21 +169,18 @@ Die Universität der Bundeswehr München richtet ein Prüfungsamt ein. Dieses is
 
 4. die Durchführung von Widerspruchsverfahren.
 
-
-## § 14 – Zeitpunkt, Dauer und Ziel
+# § 14 – Zeitpunkt, Dauer und Ziel
 
 (1) An den erfolgreichen Abschluss des Masterstudiengangs „Intelligence and Security Studies“ schließt sich eine einjährige berufspraktische Einführung an. Für Verlängerungen der berufspraktischen Einführung gilt § 15 Absatz 1 und 2 der Bundeslaufbahnverordnung entsprechend. Über die Verlängerung entscheidet die Dienstbehörde.
 
 (2) In der berufspraktischen Einführung sollen sich die Beamtinnen und Beamten im höheren nichttechnischen Verwaltungsdienst des Bundes bewähren.
 
-
-## § 15 – Aufgaben und Verwendungsbereiche
+# § 15 – Aufgaben und Verwendungsbereiche
 
 (1) In der berufspraktischen Einführung nehmen die Beamtinnen und Beamten Aufgaben des höheren nichttechnischen Verwaltungsdienstes wahr.
 
 (2) Die Beamtinnen und Beamten sollen in mindestens zwei Verwendungsbereichen eingesetzt werden, wenn dienstliche Gründe dem nicht entgegenstehen.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

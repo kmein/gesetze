@@ -1,15 +1,11 @@
-# [EJG] Gesetz über Eurojust und das Europäische Justizielle Netz in Strafsachen  (Eurojust-Gesetz - EJG)
-
-Ausfertigungsdatum: 09.12.2019
-
+% Gesetz über Eurojust und das Europäische Justizielle Netz in Strafsachen  (Eurojust-Gesetz - EJG)
+% Ausfertigungsdatum: 09.12.2019
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz regelt die Durchführung der Verordnung (EU) 2018/1727 des Europäischen Parlaments und des Rates vom 14. November 2018 betreffend die Agentur der Europäischen Union für justizielle Zusammenarbeit in Strafsachen (Eurojust) und zur Ersetzung und Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L 295 vom 21.11.2018, S. 138 – Eurojust-Verordnung).
 
-
-## § 2 – Nationales Mitglied von Eurojust
+# § 2 – Nationales Mitglied von Eurojust
 
 (1) Das nach Artikel 7 Absatz 1 der Eurojust-Verordnung zu entsendende deutsche Mitglied von Eurojust (nationales Mitglied) wird vom Bundesministerium der Justiz und für Verbraucherschutz benannt und abberufen; die Ernennung erfolgt im Benehmen mit den Landesjustizverwaltungen. Die als nationales Mitglied zu benennende Person muss die Befähigung zum Richteramt besitzen und soll Bundesbediensteter sein.
 
@@ -22,8 +18,7 @@ Dieses Gesetz regelt die Durchführung der Verordnung (EU) 2018/1727 des Europä
 (+++ § 2 Abs. 1: Zur Geltung vgl. § 3 Abs. 1  
 § 2 Abs. 3: Zur Geltung vgl. § 3 Abs. 4 +++)
 
-
-## § 3 – Unterstützende Personen
+# § 3 – Unterstützende Personen
 
 (1) Für die Benennung und Abberufung von Personen, die das nationale Mitglied gemäß Artikel 7 Absatz 2 und 3 der Eurojust-Verordnung unterstützen, gilt § 2 Absatz 1 mit der Maßgabe entsprechend, dass die zu benennenden Personen auch von den Landesjustizverwaltungen vorgeschlagene Landesbedienstete sein können.
 
@@ -35,13 +30,11 @@ Dieses Gesetz regelt die Durchführung der Verordnung (EU) 2018/1727 des Europä
 
 (5) Abgeordnete nationale Sachverständige und andere Bedienstete gemäß Artikel 66 der Eurojust-Verordnung, die das nationale Mitglied unterstützen, unterliegen bei der Erfüllung der ihnen übertragenen Aufgaben nach Maßgabe der von Eurojust nach Artikel 66 Absatz 2 der Eurojust-Verordnung zu beschließenden Regelung den fachlichen Weisungen des nationalen Mitglieds. Absatz 3 Satz 2 und 3 gilt entsprechend.
 
-
-## § 4 – Verbindungsrichterinnen oder Verbindungsrichter sowie Verbindungsstaatsanwältinnen oder Verbindungsstaatsanwälte von Eurojust
+# § 4 – Verbindungsrichterinnen oder Verbindungsrichter sowie Verbindungsstaatsanwältinnen oder Verbindungsstaatsanwälte von Eurojust
 
 Für die Zustimmung des Mitgliedstaates zur Entsendung von deutschen Verbindungsrichterinnen oder Verbindungsrichtern und deutschen Verbindungsstaatsanwältinnen oder Verbindungsstaatsanwälten nach Artikel 53 Absatz 3 Satz 2 der Eurojust-Verordnung ist das Bundesministerium der Justiz und für Verbraucherschutz zuständig. Es setzt sich mit den Landesjustizverwaltungen ins Benehmen.
 
-
-## § 5 – Befugnisse des nationalen Mitglieds
+# § 5 – Befugnisse des nationalen Mitglieds
 
 (1) Das nationale Mitglied übt seine Befugnisse gemäß den Artikeln 8, 9, 19 und 51 Absatz 4 der Eurojust-Verordnung mit folgenden Maßgaben aus:
 
@@ -59,8 +52,7 @@ Für die Zustimmung des Mitgliedstaates zur Entsendung von deutschen Verbindungs
 
 (4) Register im Sinne des Absatzes 1 Nummer 2 sind automatisiert geführte Datensammlungen, die nicht nur internen Zwecken der verantwortlichen Stellen dienen.
 
-
-## § 6 – Eurojust-Anlaufstellen und nationales Eurojust-Koordinierungssystem; Verordnungsermächtigung
+# § 6 – Eurojust-Anlaufstellen und nationales Eurojust-Koordinierungssystem; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz ernennt oder errichtet durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -80,8 +72,7 @@ Für die Zustimmung des Mitgliedstaates zur Entsendung von deutschen Verbindungs
 
 (3) Mit der Rechtsverordnung gemäß Absatz 1 kann auch die Zusammenarbeit der Eurojust-Anlaufstellen mit Eurojust sowie die Zusammenarbeit der Eurojust-Anlaufstellen untereinander näher ausgestaltet werden. Den Eurojust-Anlaufstellen kann die Zusammenführung und Weiterleitung von Informationen übertragen werden, die zwischen den für die Strafverfolgung oder die grenzüberschreitende strafrechtliche Zusammenarbeit zuständigen deutschen Stellen und Eurojust übermittelt werden sollen, um Aufgaben von Eurojust nach der Eurojust-Verordnung zu erfüllen. Den Eurojust-Anlaufstellen kann zur Wahrnehmung ihrer Aufgabe nach Satz 2 das Recht eingeräumt werden, die Informationen in Arbeitsdateien zu verarbeiten.
 
-
-## § 7 – Informationsaustausch nach Artikel 21 der Eurojust-Verordnung
+# § 7 – Informationsaustausch nach Artikel 21 der Eurojust-Verordnung
 
 Für den Informationsaustausch der zuständigen deutschen Stellen mit dem nationalen Mitglied, der sich nach Artikel 21 der Eurojust-Verordnung richtet, gilt ergänzend:
 
@@ -89,8 +80,7 @@ Für den Informationsaustausch der zuständigen deutschen Stellen mit dem nation
 
 2. die Übermittlung von Informationen erfolgt in der Regel durch die sachleitende Staatsanwaltschaft; die Übermittlung kann über die zuständige Eurojust-Anlaufstelle oder das Bundesamt für Justiz erfolgen, das die erhaltenen Daten zu Zwecken der Übermittlung nur nach Maßgabe einer nach § 6 zu erlassenden Rechtsverordnung speichern darf.
 
-
-## § 8 – Verwaltung von Arbeitsdateien und Index des Fallbearbeitungssystems von Eurojust durch das nationale Mitglied
+# § 8 – Verwaltung von Arbeitsdateien und Index des Fallbearbeitungssystems von Eurojust durch das nationale Mitglied
 
 (1) Das nationale Mitglied nimmt Informationen zu Arbeitsdateien des Fallbearbeitungssystems von Eurojust gemäß Artikel 23 Absatz 5 der Eurojust-Verordnung (Arbeitsdateien) in den Index des Fallbearbeitungssystems gemäß Artikel 23 Absatz 4 der Eurojust-Verordnung (Index) auf, soweit dies zur Aufgabenerfüllung von Eurojust oder für Zwecke der Strafrechtspflege erforderlich ist. Für den Umfang der aufzunehmenden Daten gilt § 484 Absatz 1 Nummer 1 bis 5 der Strafprozessordnung entsprechend.
 
@@ -102,8 +92,7 @@ Für den Informationsaustausch der zuständigen deutschen Stellen mit dem nation
 
 (5) Das nationale Mitglied trifft Entscheidungen nach den Absätzen 1, 2 und 4 im Einvernehmen mit derjenigen zuständigen deutschen Stelle, von der die Daten oder Informationen stammen.
 
-
-## § 9 – Nationale Kontrollbehörden
+# § 9 – Nationale Kontrollbehörden
 
 (1) Nationale Kontrollbehörden im Sinne des Artikels 31 Absatz 1, des Artikels 40 Absatz 1 und 5 sowie der Artikel 42 und 43 Absatz 2 und 3 der Eurojust-Verordnung sind die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (§ 8 Absatz 1 des Bundesdatenschutzgesetzes) sowie die zuständigen Aufsichtsbehörden der Länder.
 
@@ -117,8 +106,7 @@ Für den Informationsaustausch der zuständigen deutschen Stellen mit dem nation
 
 richtet sich nach § 17 des Bundesdatenschutzgesetzes.
 
-
-## § 10 – Zustimmungen durch die zuständigen deutschen Stellen
+# § 10 – Zustimmungen durch die zuständigen deutschen Stellen
 
 (1) Holt das nationale Mitglied die vorherige Zustimmung der zuständigen deutschen Stellen nach Artikel 3 Absatz 6, Artikel 47 Absatz 5 und Artikel 56 Absatz 1 Buchstabe c der Eurojust-Verordnung ein, gilt Folgendes:
 
@@ -128,8 +116,7 @@ richtet sich nach § 17 des Bundesdatenschutzgesetzes.
 
 (2) Informiert Eurojust gemäß Artikel 56 Absatz 4 der Eurojust-Verordnung die zuständige deutsche Stelle nachträglich über eine Datenweiterleitung ohne vorherige Zustimmung und hält die zuständige deutsche Stelle die Datenweiterleitung unter Anwendung des Absatzes 1 Nummer 2 für nicht zustimmungsfähig, so teilt sie dies Eurojust unverzüglich mit.
 
-
-## § 11 – Mitteilung von Einschränkungen und Bedingungen
+# § 11 – Mitteilung von Einschränkungen und Bedingungen
 
 Bei der Übermittlung von personenbezogenen Daten und Informationen an Eurojust teilt die übermittelnde Stelle gegebenenfalls mit,
 
@@ -137,8 +124,7 @@ Bei der Übermittlung von personenbezogenen Daten und Informationen an Eurojust 
 
 2. welche Bedingungen nach Maßgabe des innerstaatlichen Rechts für die Verwendung der über Eurojust ausgetauschten Daten und Informationen durch die empfangende Behörde in einem anderen Mitgliedstaat gelten (Artikel 73 Absatz 1 der Eurojust-Verordnung).
 
-
-## § 12 – Europäisches Justizielles Netz in Strafsachen
+# § 12 – Europäisches Justizielles Netz in Strafsachen
 
 (1) Der EJN-Beschluss ist anzuwenden.
 

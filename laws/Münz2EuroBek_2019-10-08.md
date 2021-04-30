@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2019-10-08] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „30 Jahre Mauerfall“)
-
-Ausfertigungsdatum: 08.10.2019
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „30 Jahre Mauerfall“)
+% Ausfertigungsdatum: 08.10.2019
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „30 Jahre Mauerfall“ prägen zu lassen. Die Münze erinnert an die Öffnung der Berliner Mauer, die sich am 9. November 2019 zum 30. Mal jährt.
 
@@ -16,12 +13,10 @@ Das Motiv auf der nationalen Seite der Münze (Bildseite) wurde von der französ
 
 Die für den Umlauf bestimmte Auflage der Münze soll 30 Millionen Stück betragen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2019, 1542)

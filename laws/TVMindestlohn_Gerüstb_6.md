@@ -1,10 +1,7 @@
-# [TVMindestlohn Gerüstb 6] Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020
-
-Ausfertigungsdatum: 24.02.2021
-
+% Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 16. September 2020
+% Ausfertigungsdatum: 24.02.2021
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 1. Räumlicher Geltungsbereich
 
@@ -42,8 +39,7 @@ d) Arbeitnehmer, die ausschließlich auf dem Lagerplatz im Betrieb oder station�
 
 e) das Reinigungspersonal, das für Reinigungsarbeiten in Verwaltungs- und Sozialräumen des Betriebes beschäftigt wird.
 
-
-## § 2 – Mindestlohn
+# § 2 – Mindestlohn
 
 1. Der Mindestlohn beträgt ab
 

@@ -1,10 +1,7 @@
-# [KohleUMeldeG] Gesetz über Meldungen der Unternehmen des deutschen Steinkohlenbergbaus
-
-Ausfertigungsdatum: 19.12.1977
-
+% Gesetz über Meldungen der Unternehmen des deutschen Steinkohlenbergbaus
+% Ausfertigungsdatum: 19.12.1977
  
-
-## § 1 – Meldungen
+# § 1 – Meldungen
 
 (1) Die Unternehmen, die in der Bundesrepublik Deutschland Steinkohlenbergbau betreiben (Bergbauunternehmen), melden dem Bundesministerium für Wirtschaft und Energie bis zum 15. November eines jeden Jahres nach Maßgabe des Absatzes 2
 
@@ -42,7 +39,6 @@ Mit den Meldungen teilen die Bergbauunternehmen dem Bundesministerium für Wirts
 
 (4) Auf die nach dieser Vorschrift erlangten Kenntnisse sind die §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-
-## § 2
+# § 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.

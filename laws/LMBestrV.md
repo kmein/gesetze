@@ -1,10 +1,7 @@
-# [LMBestrV] Verordnung über die Behandlung von Lebensmitteln mit Elektronen-, Gamma- und Röntgenstrahlen, Neutronen oder ultravioletten Strahlen  (Lebensmittelbestrahlungsverordnung - LMBestrV)
-
-Ausfertigungsdatum: 14.12.2000
-
+% Verordnung über die Behandlung von Lebensmitteln mit Elektronen-, Gamma- und Röntgenstrahlen, Neutronen oder ultravioletten Strahlen  (Lebensmittelbestrahlungsverordnung - LMBestrV)
+% Ausfertigungsdatum: 14.12.2000
  
-
-## § 1 – Zulassungen
+# § 1 – Zulassungen
 
 (1) Die Behandlung von getrockneten aromatischen Kräutern und Gewürzen mit den in der Nummer 1 der Anlage aufgeführten Elektronen-, Gamma- und Röntgenstrahlen (Bestrahlung) ist zugelassen.
 
@@ -30,8 +27,7 @@ Die Strahlendosis im Sinne der Nummer 1 darf in mehreren Teildosen verabreicht w
 
 (5) Die bei der Entkeimung von Luft durch ultraviolette Strahlen auftretende indirekte Einwirkung auf Lebensmittel ist zugelassen.
 
-
-## § 2 – Lebensmittel aus Drittländern
+# § 2 – Lebensmittel aus Drittländern
 
 (1) Bestrahlte getrocknete aromatische Kräuter und Gewürze sowie Lebensmittel, die bestrahlte getrocknete aromatische Kräuter und Gewürze enthalten, aus einem Drittland dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn die Bestrahlung in einer von der Europäischen Union zugelassenen und im Amtsblatt der Europäischen Gemeinschaften oder der Europäischen Union veröffentlichten Bestrahlungsanlage durchgeführt worden ist.
 
@@ -55,8 +51,7 @@ Die Strahlendosis im Sinne der Nummer 1 darf in mehreren Teildosen verabreicht w
 
 9. Hinweise auf die vor der Bestrahlung durchgeführten Validierungsmessungen.
 
-
-## § 3 – Kenntlichmachung
+# § 3 – Kenntlichmachung
 
 (1) Bestrahlte getrocknete aromatische Kräuter und Gewürze – auch aus einem Drittland – müssen von dem, der diese in den Verkehr bringt, spätestens bei der Abgabe an den Verbraucher, wobei dem Verbraucher Anbieter von Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleichstehen, durch die Angabe „bestrahlt“ oder die Angabe „mit ionisierenden Strahlen behandelt“ gemäß Absatz 2 und 3 Satz 1 sowie Absatz 4, 5 Satz 1 und Absatz 6 kenntlich gemacht werden. Dies gilt auch, wenn die Lebensmittel nach Satz 1 als Zutaten in einem anderen Lebensmittel enthalten sind.
 
@@ -84,8 +79,7 @@ Im Fall der Nummer 4 dürfen die vorgeschriebenen Angaben in Fußnoten angebrach
 
 2. Name und Anschrift der Bestrahlungsanlage oder deren amtliche Referenznummer nach § 4 Absatz 3.
 
-
-## § 4 – Zulassung von Einrichtungen zur Bestrahlung
+# § 4 – Zulassung von Einrichtungen zur Bestrahlung
 
 (1) Einrichtungen zur Bestrahlung im Sinne des § 1 Absatz 1 (Bestrahlungsanlagen) dürfen nur verwendet werden, wenn sie durch die nach Landesrecht zuständigen Behörden für diesen Zweck zugelassen sind. Die Zulassung erfolgt unbeschadet sonstiger öffentlich-rechtlicher Vorschriften für solche Einrichtungen.
 
@@ -97,8 +91,7 @@ Im Fall der Nummer 4 dürfen die vorgeschriebenen Angaben in Fußnoten angebrach
 
 (3) Die zuständigen Behörden erteilen jeder zugelassenen Anlage eine Referenznummer.
 
-
-## § 5 – Aufzeichnungspflichten
+# § 5 – Aufzeichnungspflichten
 
 Der Betreiber jeder zugelassenen Bestrahlungsanlage hat für jede Quelle ionisierender Bestrahlung eine Aufzeichnung zu führen, die für jedes Los des behandelten Lebensmittels Folgendes angibt:
 
@@ -120,13 +113,11 @@ Der Betreiber jeder zugelassenen Bestrahlungsanlage hat für jede Quelle ionisie
 
 Die Aufzeichnungen nach Satz 1 sind von dem Betreiber der Bestrahlungsanlage fünf Jahre aufzubewahren; die Aufbewahrungsfrist beginnt mit dem Ablauf des Kalenderjahres, in dem die Bestrahlung durchgeführt worden ist.
 
-
-## § 6 – Analysenmethoden
+# § 6 – Analysenmethoden
 
 Die zum Nachweis einer Bestrahlung angewandten Methoden müssen hinsichtlich der im Anhang unter den Nummern 1 und 2 der Richtlinie 85/591/EWG des Rates vom 20. Dezember 1985 zur Einführung gemeinschaftlicher Probenahmeverfahren und Analysemethoden für die Kontrolle von Lebensmitteln (ABl. EG Nr. L 372 S. 50) aufgeführten erforderlichen Kriterien getestet sein.
 
-
-## § 7 – Mitteilungen, Berichte
+# § 7 – Mitteilungen, Berichte
 
 (1) Die Länder teilen dem Bundesministerium für Ernährung und Landwirtschaft die nach § 4 für die Zulassung zuständigen Behörden mit.
 
@@ -138,8 +129,7 @@ Die zum Nachweis einer Bestrahlung angewandten Methoden müssen hinsichtlich der
 
 2. die Ergebnisse der Kontrollen, die auf der Stufe des Inverkehrbringens von Lebensmitteln zum Nachweis der Bestrahlung durchgeführt werden, einschließlich der jeweils angewandten Analysemethode.
 
-
-## § 8 – Straftaten, Ordnungswidrigkeiten
+# § 8 – Straftaten, Ordnungswidrigkeiten
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 1 Absatz 2 Satz 1 Nummer 1 oder 2 eine Bestrahlung durchführt.
 
@@ -157,18 +147,15 @@ Die zum Nachweis einer Bestrahlung angewandten Methoden müssen hinsichtlich der
 
 2. entgegen § 5 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt oder nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
-
-## § 9
+# § 9
 
 (Übergangsfrist)
 
-
-## § 10
+# § 10
 
 (Inkrafttreten, Außerkrafttreten)
 
-
-## Anlage – (zu § 1)
+# Anlage – (zu § 1)
 
 (Fundstelle: BGBl. I 2019, 120)
 

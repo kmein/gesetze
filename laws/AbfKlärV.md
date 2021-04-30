@@ -1,13 +1,9 @@
-# [AbfKlärV] Verordnung über die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost  (Klärschlammverordnung - AbfKlärV)
-
-Ausfertigungsdatum: 27.09.2017
-
+% Verordnung über die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost  (Klärschlammverordnung - AbfKlärV)
+% Ausfertigungsdatum: 27.09.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt
 
@@ -55,8 +51,7 @@ d) mit einer Nutzung als Haus-, Nutz- oder Kleingarten;
 
 (5) Die Vorschriften des Düngerechts bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Absätze 2 bis 19.
 
@@ -112,15 +107,13 @@ Zu den Böden des Landschaftsbaus zählen insbesondere Rekultivierungsflächen, 
 
 (19) Das erstmalige Auf- oder Einbringen von Klärschlamm, Klärschlammgemisch oder Klärschlammkompost auf oder in einen Boden bezeichnet den Zeitpunkt, zu dem zum ersten Mal Klärschlamm, Klärschlammgemisch oder Klärschlammkompost nach dem 1. April 1983 auf- oder eingebracht wurde.
 
-
-## § 3 – Kreislaufwirtschaft von Klärschlamm, Klärschlammgemisch und Klärschlammkompost
+# § 3 – Kreislaufwirtschaft von Klärschlamm, Klärschlammgemisch und Klärschlammkompost
 
 (1) Der Klärschlammerzeuger hat den in seiner Abwasserbehandlungsanlage anfallenden Klärschlamm möglichst hochwertig zu verwerten, soweit dies technisch möglich und wirtschaftlich zumutbar ist. Hierbei sind eine Rückgewinnung von Phosphor und eine Rückführung des gewonnenen Phosphors oder der phosphorhaltigen Klärschlammverbrennungsasche in den Wirtschaftskreislauf anzustreben.
 
 (2) Ein Klärschlammerzeuger, Gemischhersteller oder Komposthersteller, der Klärschlamm, Klärschlammgemisch oder Klärschlammkompost auf oder in einem Boden verwertet, hat die Verwertung nach Maßgabe der Anforderungen dieser Verordnung vorzunehmen.
 
-
-## § 4 – Bodenbezogene Untersuchungspflichten
+# § 4 – Bodenbezogene Untersuchungspflichten
 
 (1) Der Klärschlammerzeuger hat vor der erstmaligen Auf- oder Einbringung des Klärschlamms auf der durch den Klärschlammnutzer nach § 16 Absatz 1 Satz 1 mitgeteilten Auf- oder Einbringungsfläche
 
@@ -142,8 +135,7 @@ Im Fall der erstmaligen Auf- oder Einbringung eines Klärschlammgemischs oder ei
 
 (7) Mit Zustimmung der zuständigen Behörde, im Fall der Auf- oder Einbringung auf oder in landwirtschaftlich genutzten Boden im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde, können bei einer Auf- oder Einbringung von Klärschlamm aus Abwasserbehandlungsanlagen mit einer genehmigten Ausbaugröße von weniger als 1 000 Einwohnerwerten die Wiederholungsuntersuchungen nach Absatz 4 entfallen.
 
-
-## § 5 – Klärschlammbezogene Untersuchungspflichten
+# § 5 – Klärschlammbezogene Untersuchungspflichten
 
 (1) Vor der Abgabe des Klärschlamms an den Klärschlammnutzer, den Gemischhersteller oder den Komposthersteller hat der Klärschlammerzeuger Proben des Klärschlamms auf folgende Parameter nach den Bestimmungen des § 32 Absatz 1, 3 und 4 untersuchen zu lassen:
 
@@ -187,15 +179,13 @@ Die Untersuchung nach Satz 1 ist mindestens alle zwei Jahre zu wiederholen.
 
 (+++ § 5 Abs. 2: zur Nichtanwendung vgl. § 6 Abs. 1 +++)
 
-
-## § 6 – Beschränkte Klärschlammuntersuchung
+# § 6 – Beschränkte Klärschlammuntersuchung
 
 (1) Bei der Auf- oder Einbringung von Klärschlamm aus der eigenen Kleinkläranlage eines landwirtschaftlichen Betriebs auf oder in selbst bewirtschafteten Boden findet § 5 Absatz 2 keine Anwendung. Der Klärschlammerzeuger hat die Untersuchungen nach § 5 Absatz 1 Satz 1 abweichend von § 5 Absatz 1 Satz 2 einmalig vor der erstmaligen Auf- oder Einbringung des Klärschlamms durchführen zu lassen. Die Ergebnisse der Untersuchungen hat der Klärschlammerzeuger abweichend von § 5 Absatz 4 unverzüglich der zuständigen Behörde vorzulegen.
 
 (2) Bei der Auf- oder Einbringung von Klärschlamm aus Abwasserbehandlungsanlagen mit einer genehmigten Ausbaugröße von weniger als 1 000 Einwohnerwerten ist die Untersuchung des Klärschlamms nach § 5 Absatz 1 Satz 1 mindestens alle zwei Jahre durchführen zu lassen. Die zuständige Behörde kann den Abstand zwischen den Untersuchungen bis auf sechs Monate verkürzen oder ihn bis auf 48 Monate verlängern sowie die Untersuchung auf weitere Inhaltsstoffe ausdehnen. Mit Zustimmung der zuständigen Behörde, im Fall der Auf- oder Einbringung auf oder in landwirtschaftlich genutzten Boden im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde, kann die Untersuchung nach § 5 Absatz 2 Satz 1 nach einer Erstuntersuchung entfallen.
 
-
-## § 7 – Bodenbezogene Grenzwerte
+# § 7 – Bodenbezogene Grenzwerte
 
 (1) Das Auf- oder Einbringen des Klärschlamms, des Klärschlammgemischs oder des Klärschlammkomposts auf oder in den Boden ist nur zulässig, wenn die Bodenuntersuchung nach § 4 Absatz 1 Satz 1 Nummer 2, Absatz 2 und 4 unter Berücksichtigung des § 10 ergibt, dass die Vorsorgewerte für Metalle nach Nummer 4.1 und für die organischen Stoffe polychlorierte Biphenyle und Benzo(a)pyren nach Nummer 4.2 des Anhangs 2 der Bundes-Bodenschutz- und Altlastenverordnung vom 12. Juli 1999 (BGBl. I S. 1554), die zuletzt durch Artikel 102 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, nicht überschritten werden. Für die Anwendung der Vorsorgewerte gilt Nummer 4.3 des Anhangs 2 der Bundes-Bodenschutz- und Altlastenverordnung entsprechend.
 
@@ -203,15 +193,13 @@ Die Untersuchung nach Satz 1 ist mindestens alle zwei Jahre zu wiederholen.
 
 (3) Bei geogen bedingt erhöhten Schwermetall-Hintergrundwerten des Bodens kann die zuständige Behörde, im Fall der geplanten Auf- oder Einbringung auf oder in landwirtschaftlich genutzten Boden im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde, auf Antrag des Klärschlammerzeugers trotz Überschreitung der in Absatz 1 Satz 1 genannten Vorsorgewerte, mit Ausnahme des Vorsorgewertes für Cadmium, eine Auf- oder Einbringung zulassen, sofern die Auf- oder Einbringungsfläche im Zuständigkeitsbereich der am Sitz der Abwasserbehandlungsanlage für den Vollzug dieser Verordnung zuständigen Behörde liegt. Im Fall der Auf- oder Einbringung eines Klärschlammgemischs oder eines Klärschlammkomposts gilt Satz 1 für den Gemischhersteller oder den Komposthersteller entsprechend.
 
-
-## § 8 – Klärschlammbezogene Grenzwerte
+# § 8 – Klärschlammbezogene Grenzwerte
 
 (1) Die Abgabe des Klärschlamms durch den Klärschlammerzeuger sowie die Auf- oder Einbringung des Klärschlamms auf oder in den Boden ist nur zulässig, wenn die Untersuchungen nach § 5 Absatz 1 und 2 ergeben, dass die Grenzwerte nach Anlage 2 Tabelle 1.4 Spalte 4 der Düngemittelverordnung sowie die zusätzlichen Grenzwerte nach Anlage 1 nicht überschritten werden. Für das Schwermetall Kupfer gilt als Grenzwert der zulässige Höchstgehalt nach Anlage 1 Abschnitt 4.1 Nummer 4.1.1 Spalte 6 Absatz 2 der Düngemittelverordnung.
 
 (2) Bei der Herstellung eines Klärschlammgemischs oder eines Klärschlammkomposts sind die Grenzwerte nach Absatz 1 mit der Maßgabe anzuwenden, dass diese sowohl für den Klärschlamm vor der Vermischung als auch für das hergestellte Klärschlammgemisch oder den hergestellten Klärschlammkompost gelten. Bei den zur Herstellung eines Klärschlammgemischs oder eines Klärschlammkomposts eingesetzten Materialien nach § 2 Absatz 7 hat der Gemischhersteller oder der Komposthersteller die Anforderungen der Düngemittelverordnung zu beachten.
 
-
-## § 9 – Rückstellprobe
+# § 9 – Rückstellprobe
 
 (1) Die zuständige Behörde kann den Klärschlammerzeuger, den Gemischhersteller und den Komposthersteller verpflichten, zur Überwachung der in § 8 Absatz 1 genannten Grenzwerte eine Rückstellprobe aus dem für eine Abgabe oder Auf- oder Einbringung vorgesehenen Klärschlamm, Klärschlammgemisch oder Klärschlammkompost zu entnehmen. Die Probennahme hat nach § 32 Absatz 3 zu erfolgen.
 
@@ -221,18 +209,15 @@ Die Untersuchung nach Satz 1 ist mindestens alle zwei Jahre zu wiederholen.
 
 (4) Die nach Absatz 1 zur Aufbewahrung von Rückstellproben Verpflichteten haben die Rückstellproben der zuständigen Behörde auf Verlangen herauszugeben.
 
-
-## § 10 – Analysefehler und Messtoleranzen
+# § 10 – Analysefehler und Messtoleranzen
 
 Bei der Untersuchung der Einhaltung eines Grenzwertes nach § 7 Absatz 1 oder nach § 8 dürfen vom festgelegten Grenzwert pauschale Abzüge wegen möglicher Analysefehler oder Messtoleranzen nicht vorgenommen werden.
 
-
-## § 11 – Anforderungen an die Seuchen- und die Phytohygiene
+# § 11 – Anforderungen an die Seuchen- und die Phytohygiene
 
 Die Abgabe eines Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts und die Auf- oder Einbringung eines Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts auf oder in den Boden sind nur zulässig, wenn der Klärschlamm, das Klärschlammgemisch oder der Klärschlammkompost den Anforderungen an die Seuchen- und die Phytohygiene nach § 5 Absatz 1 bis 3 der Düngemittelverordnung in der jeweils geltenden Fassung entspricht.
 
-
-## § 12 – Abgabe von Klärschlamm
+# § 12 – Abgabe von Klärschlamm
 
 (1) Der Klärschlammerzeuger hat den Klärschlamm unmittelbar an einen Klärschlammnutzer abzugeben. Der Klärschlammerzeuger hat den Klärschlamm in Abstimmung mit dem Klärschlammnutzer auf- oder einzubringen. Einer unmittelbaren Abgabe steht nicht entgegen, wenn ein Dritter mit der Beförderung oder der Auf- oder Einbringung des Klärschlamms beauftragt wird. Der Klärschlammerzeuger bleibt auch im Falle der Beauftragung eines Dritten für die Klärschlammverwertung verantwortlich.
 
@@ -244,8 +229,7 @@ Die Abgabe eines Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts u
 
 sofern sichergestellt ist, dass der Gemischhersteller das hergestellte Klärschlammgemisch, der Komposthersteller den hergestellten Klärschlammkompost oder der Qualitätszeichennehmer den einer regelmäßigen Qualitätssicherung unterzogenen Klärschlamm unmittelbar an den Klärschlammnutzer abgibt. Der Gemischhersteller hat das hergestellte Klärschlammgemisch, der Komposthersteller den hergestellten Klärschlammkompost oder der Qualitätszeichennehmer den einer regelmäßigen Qualitätssicherung unterzogenen Klärschlamm auf- oder einzubringen.
 
-
-## § 13 – Bereitstellung von Klärschlamm
+# § 13 – Bereitstellung von Klärschlamm
 
 (1) Der Klärschlammerzeuger, Gemischhersteller oder Komposthersteller, der die Auf- oder Einbringung eines Klärschlamms, eines Klärschlammgemischs oder eines Klärschlammkomposts auf oder in einen Boden beabsichtigt, darf den Klärschlamm, das Klärschlammgemisch oder den Klärschlammkompost nur wie folgt bereitstellen:
 
@@ -259,8 +243,7 @@ Die Bereitstellung hat so zu erfolgen, dass ein oberflächiger Abfluss des Klär
 
 (2) Eine Überschreitung der Frist nach Absatz 1 Satz 1 Nummer 3 ist nur zulässig, sofern die Auf- oder Einbringung des bereitgestellten Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts auf Grund einer nicht vorhersehbaren Unbefahrbarkeit des Bodens zum vorgesehenen Zeitpunkt der Auf- oder Einbringung unmöglich ist.
 
-
-## § 14 – Auf- oder Einbringungsmenge
+# § 14 – Auf- oder Einbringungsmenge
 
 (1) Innerhalb von drei Kalenderjahren dürfen nicht mehr als 5 Tonnen Klärschlamm Trockenmasse je Hektar auf oder in einen Boden auf- oder eingebracht werden. Abweichend von Satz 1 ist auf oder in einen Boden bei landschaftsbaulichen Maßnahmen eine einmalige Auf- oder Einbringung von Klärschlamm von bis zu 10 Tonnen Trockenmasse je Hektar zulässig, sofern auf diesem Boden in den letzten sechs Jahren vor der Auf- oder Einbringung keine Auf- oder Einbringung erfolgt ist.
 
@@ -268,8 +251,7 @@ Die Bereitstellung hat so zu erfolgen, dass ein oberflächiger Abfluss des Klär
 
 (3) § 12 Absatz 7 der Bundes-Bodenschutz- und Altlastenverordnung gilt für Anwendungen im Landschaftsbau entsprechend.
 
-
-## § 15 – Beschränkung der Klärschlammverwertung
+# § 15 – Beschränkung der Klärschlammverwertung
 
 (1) Die Abgabe und das Auf- oder Einbringen von Klärschlamm aus anderen Anlagen als aus Abwasserbehandlungsanlagen sowie von Rohschlamm ist nicht zulässig.
 
@@ -305,8 +287,7 @@ Das Auf- oder Einbringen eines Klärschlamms, Klärschlammgemischs oder Klärsch
 
 Abweichend von Satz 1 Nummer 2 kann die zuständige Behörde im Einvernehmen mit der zuständigen Naturschutzbehörde und der landwirtschaftlichen Fachbehörde auf Antrag des Klärschlammnutzers die Auf- oder Einbringung eines Klärschlamms, eines Klärschlammgemischs oder eines Klärschlammkomposts auf oder in einen Boden mit landwirtschaftlicher Nutzung zulassen.
 
-
-## § 16 – Anzeigeverfahren
+# § 16 – Anzeigeverfahren
 
 (1) Der Klärschlammnutzer hat dem Klärschlammerzeuger die genaue Bezeichnung der für eine Auf- oder Einbringung von Klärschlamm vorgesehenen Auf- oder Einbringungsfläche nach Gemarkung, Flur, Flurstücksnummer und Größe in Hektar sowie die derzeitige und nächste beabsichtigte Bodennutzung mitzuteilen. Die für die Auf- oder Einbringungsfläche zuständige Behörde kann, im Fall der Auf- oder Einbringung auf oder in einen landwirtschaftlich genutzten Boden im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde, auf Antrag auch einen anderen Flächennachweis zulassen, wenn hierbei die Auf- oder Einbringungsfläche mit vergleichbarer Genauigkeit erfasst wird. Sofern die Auf- oder Einbringung eines Klärschlammgemischs oder eines Klärschlammkomposts beabsichtigt ist, so hat der Klärschlammnutzer dem Gemischhersteller oder dem Komposthersteller die konkrete Auf- oder Einbringungsfläche nach Satz 1 mitzuteilen.
 
@@ -314,8 +295,7 @@ Abweichend von Satz 1 Nummer 2 kann die zuständige Behörde im Einvernehmen mit
 
 (3) Die Anzeige nach Absatz 2 Satz 1 hat die Angaben nach Anlage 3 Abschnitt 1 Nummer 1 und die Anzeige nach Absatz 2 Satz 2 die Angaben nach Anlage 3 Abschnitt 2 Nummer 1 zu enthalten. Die Änderung des in der Anzeige angegebenen Zeitpunkts der beabsichtigten Auf- oder Einbringung des Klärschlamms, des Klärschlammgemischs oder des Klärschlammkomposts oder der in der Anzeige angegebenen Auf- oder Einbringungsfläche hat der Klärschlammerzeuger, Gemischhersteller oder Komposthersteller der zuständigen Behörde unverzüglich mitzuteilen.
 
-
-## § 17 – Lieferscheinverfahren bei bodenbezogener Klärschlammverwertung
+# § 17 – Lieferscheinverfahren bei bodenbezogener Klärschlammverwertung
 
 (1) Der Klärschlammerzeuger hat vor der Abgabe des Klärschlamms einen Lieferschein zu verwenden oder zu erstellen, der die Angaben nach Anlage 3 Abschnitt 1 Nummer 2.1 bis 2.6 enthalten muss. Der Lieferschein ist richtig und vollständig auszufüllen. Bei Abgabe des Klärschlamms hat der Klärschlammerzeuger den Zeitpunkt der Abgabe auf dem Lieferschein nach Anlage 3 Abschnitt 1 Nummer 2.7 zu vermerken und, sofern der Transport nicht von ihm selbst durchgeführt wird, dem Beförderer den Lieferschein zu übergeben. Der Klärschlammerzeuger hat eine Kopie des Lieferscheins zu behalten, sofern der Transport nicht von ihm selbst durchgeführt wird. Der Klärschlammerzeuger hat die Kopie des Lieferscheins nach Satz 4 bis zum Zeitpunkt des Zugangs des Originals nach Absatz 5 Satz 1 aufzubewahren und anschließend zu löschen.
 
@@ -345,8 +325,7 @@ Abweichend von Satz 1 Nummer 2 kann die zuständige Behörde im Einvernehmen mit
 
 (7) Der Klärschlammerzeuger hat das Original des vollständig ausgefüllten und mit den notwendigen Unterschriften versehenen Lieferscheins zwölf Jahre, gerechnet vom Zeitpunkt der Abgabe des Klärschlamms an, aufzubewahren und den zuständigen Behörden auf Verlangen vorzulegen. Für die Aufbewahrung und Vorlage der Kopie des Lieferscheins durch den Klärschlammnutzer, Beförderer, Gemischhersteller, Komposthersteller oder Qualitätszeichennehmer gilt Satz 1 entsprechend. Nach Ablauf des in Satz 1 genannten Zeitraums haben die in den Sätzen 1 und 2 genannten Aufbewahrungsverpflichteten die dort genannten Unterlagen zu löschen.
 
-
-## § 18 – Lieferscheinverfahren bei bodenbezogener Verwertung von Klärschlammgemisch und Klärschlammkompost
+# § 18 – Lieferscheinverfahren bei bodenbezogener Verwertung von Klärschlammgemisch und Klärschlammkompost
 
 (1) Der Gemischhersteller oder der Komposthersteller hat vor der Abgabe eines mit Klärschlamm nach § 17 Absatz 3 Satz 2 hergestellten Klärschlammgemischs oder Klärschlammkomposts einen Lieferschein zu verwenden oder zu erstellen, der die Angaben nach Anlage 3 Abschnitt 2 Nummer 2.1 bis 2.9 enthalten muss. Der Lieferschein ist richtig und vollständig auszufüllen. Bei Abgabe des hergestellten Klärschlammgemischs oder des hergestellten Klärschlammkomposts an einen Klärschlammnutzer hat der Gemischhersteller oder der Komposthersteller den Zeitpunkt der Abgabe auf dem Lieferschein nach Anlage 3 Abschnitt 2 Nummer 2.10 zu vermerken und, soweit der Transport nicht durch den Gemischhersteller oder den Komposthersteller durchgeführt wird, dem Beförderer den Lieferschein zu übergeben. Eine Kopie des Lieferscheins verbleibt beim Gemischhersteller oder Komposthersteller, sofern der Transport nicht von ihm selbst durchgeführt wird. Der Gemischhersteller oder Komposthersteller hat die Kopie des Lieferscheins nach Satz 4 bis zum Zeitpunkt des Zugangs des Originals nach Absatz 5 Satz 1 aufzubewahren und anschließend zu löschen.
 
@@ -378,13 +357,11 @@ Abweichend von Satz 1 Nummer 2 kann die zuständige Behörde im Einvernehmen mit
 
 (7) Der Gemischhersteller oder der Komposthersteller hat das Original des Lieferscheins ab dem Zeitpunkt der Abgabe des Klärschlammgemischs oder des Klärschlammkomposts zwölf Jahre aufzubewahren und den zuständigen Behörden auf Verlangen vorzulegen. Für die Aufbewahrung und die Vorlage der Kopie des Lieferscheins durch den Klärschlammnutzer, den Beförderer, den Klärschlammerzeuger und den Qualitätszeichennehmer gilt Satz 1 entsprechend. Nach Ablauf des in Satz 1 genannten Zeitraums haben die in den Sätzen 1 und 2 genannten Aufbewahrungsverpflichteten die dort genannten Unterlagen zu löschen.
 
-
-## § 19 – Regelmäßige Qualitätssicherung
+# § 19 – Regelmäßige Qualitätssicherung
 
 Eine regelmäßige Qualitätssicherung im Sinne von § 12 Absatz 1 des Kreislaufwirtschaftsgesetzes muss den in den §§ 20 bis 31 geregelten Mindestanforderungen entsprechen.
 
-
-## § 20 – Anerkennung des Trägers der Qualitätssicherung
+# § 20 – Anerkennung des Trägers der Qualitätssicherung
 
 (1) Die für die Anerkennung eines Trägers der Qualitätssicherung zuständige Behörde im Sinne des § 12 Absatz 5 Satz 2 des Kreislaufwirtschaftsgesetzes ist die für die Abfallwirtschaft zuständige oberste Landesbehörde desjenigen Landes, in dem der Träger der Qualitätssicherung seinen Hauptsitz hat, oder die von ihr bestimmte Behörde.
 
@@ -408,8 +385,7 @@ Eine regelmäßige Qualitätssicherung im Sinne von § 12 Absatz 1 des Kreislauf
 
 (4) Die Anerkennung als Träger einer Qualitätssicherung gilt für das gesamte Bundesgebiet. Sie kann mit Bedingungen, Auflagen und dem Vorbehalt von Auflagen versehen werden, soweit dies zur Sicherstellung der in Absatz 2 genannten Anerkennungsvoraussetzungen erforderlich ist.
 
-
-## § 21 – Pflichten des Trägers der Qualitätssicherung
+# § 21 – Pflichten des Trägers der Qualitätssicherung
 
 (1) Der Träger der Qualitätssicherung hat sicherzustellen, dass jeder Qualitätszeichennehmer ein individuelles Konzept zur Minderung von Schadstoffeinträgen im Vorfeld der Klärschlammentstehung in einer Abwasserbehandlungsanlage und zur Minderung von hygienischen Risiken des Klärschlamms erstellt. In dem Konzept ist insbesondere festzulegen, dass der Qualitätszeichennehmer
 
@@ -445,15 +421,13 @@ Der Träger der Qualitätssicherung hat die Umsetzung des Konzepts durch den Kl�
 
 (6) Der Träger der Qualitätssicherung hat ein aktuelles Verzeichnis der Qualitätszeichennehmer zu führen, die zur Führung seines Qualitätszeichens berechtigt sind. Das Verzeichnis hat der Träger der Qualitätssicherung in geeigneter Weise öffentlich zugänglich zu machen.
 
-
-## § 22 – Sachverständige
+# § 22 – Sachverständige
 
 (1) Sachverständige nach § 12 Absatz 6 des Kreislaufwirtschaftsgesetzes besitzen die für die Wahrnehmung ihrer Aufgaben im Sinne dieser Verordnung erforderliche Zuverlässigkeit, Unabhängigkeit und Fachkunde, wenn sie die Anforderungen erfüllen, die in den §§ 5 bis 7 des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4. September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 13 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 1966) geändert worden ist, in der jeweils geltenden Fassung, genannt sind. Der Träger der Qualitätssicherung hat die Nachweise der Eignung und Fachkunde eines Sachverständigen vor Aufnahme der Tätigkeit des Sachverständigen der für die Anerkennung des Trägers der Qualitätssicherung zuständigen Behörde vorzulegen.
 
 (2) Jeder Sachverständige ist verpflichtet, ein Prüftagebuch zu führen, aus dem sich Art, Umfang und Ergebnisse aller durchgeführten Prüfungen ergeben. Das Prüftagebuch hat der Sachverständige dem Träger der Qualitätssicherung auf Verlangen vorzulegen. Der Träger der Qualitätssicherung hat das Prüftagebuch der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 23 – Unabhängiger Ausschuss beim Träger der Qualitätssicherung
+# § 23 – Unabhängiger Ausschuss beim Träger der Qualitätssicherung
 
 (1) Der unabhängige Ausschuss beim Träger der Qualitätssicherung setzt sich wie folgt zusammen:
 
@@ -477,15 +451,13 @@ Der Träger der Qualitätssicherung hat die Umsetzung des Konzepts durch den Kl�
 
 (4) Das Verfahren zum Ausschluss eines Mitglieds ist in einer Satzung, einem Überwachungsvertrag oder einer sonstigen verbindlichen Regelung festzulegen.
 
-
-## § 24 – Behördliche Überwachung des Trägers der Qualitätssicherung
+# § 24 – Behördliche Überwachung des Trägers der Qualitätssicherung
 
 (1) Die nach § 20 Absatz 1 für die Anerkennung eines Trägers der Qualitätssicherung zuständige Behörde überprüft in Abständen von längstens fünf Jahren, ob der anerkannte Träger der Qualitätssicherung die Anerkennungsvoraussetzungen weiterhin erfüllt.
 
 (2) Der Träger der Qualitätssicherung hat der zuständigen Behörde für jedes Kalenderjahr bis zum 31. März eines jeden Folgejahres unaufgefordert über die im Kalenderjahr erfolgte Überwachung der Qualitätszeichennehmer sowie über die Erteilung und den Entzug von Qualitätszeichen zu berichten. Der Bericht hat auch ein aktuelles Verzeichnis der Qualitätszeichennehmer nach § 21 Absatz 6 Satz 1 zu enthalten. Die zuständige Behörde kann die Frist zur Vorlage des Berichts verkürzen.
 
-
-## § 25 – Widerruf der Anerkennung; Auflösung des Trägers der Qualitätssicherung
+# § 25 – Widerruf der Anerkennung; Auflösung des Trägers der Qualitätssicherung
 
 (1) Die Anerkennung eines Trägers der Qualitätssicherung kann unbeschadet des § 49 des Verwaltungsverfahrensgesetzes widerrufen werden, wenn der Träger der Qualitätssicherung eine der Anforderungen nach § 20 Absatz 2 oder wiederholt eine oder mehrere Pflichten nach § 21 nicht oder nicht ordnungsgemäß erfüllt.
 
@@ -493,15 +465,13 @@ Der Träger der Qualitätssicherung hat die Umsetzung des Konzepts durch den Kl�
 
 (3) Ist die Anerkennung eines Trägers der Qualitätssicherung erloschen, verliert der Qualitätszeichennehmer die Berechtigung zum Führen des Qualitätszeichens des Trägers der Qualitätssicherung. Abweichend von Satz 1 kann die für die Anerkennung zuständige Behörde dem Qualitätszeichennehmer die weitere Führung des Qualitätszeichens für eine angemessene Übergangszeit genehmigen.
 
-
-## § 26 – Anforderungen an die Zuverlässigkeit sowie an die Fach- und Sachkunde des Qualitätszeichennehmers
+# § 26 – Anforderungen an die Zuverlässigkeit sowie an die Fach- und Sachkunde des Qualitätszeichennehmers
 
 (1) Die nach § 12 Absatz 3 Nummer 1 des Kreislaufwirtschaftsgesetzes erforderliche Zuverlässigkeit und Fachkunde ist gegeben, wenn die für die Leitung und Beaufsichtigung des Betriebs des Qualitätszeichennehmers verantwortlichen Personen die Anforderungen an die Zuverlässigkeit und die Fachkunde nach § 9 der Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 (BGBl. I S. 2770), die durch Artikel 2 Absatz 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2234) geändert worden ist, in der jeweils geltenden Fassung, erfüllen.
 
 (2) Die nach § 12 Absatz 3 Nummer 1 des Kreislaufwirtschaftsgesetzes erforderliche Sachkunde ist gegeben, wenn das sonstige Personal die Anforderungen an die Sachkunde nach § 10 der Entsorgungsfachbetriebeverordnung erfüllt.
 
-
-## § 27 – Antrag auf Erteilung des Qualitätszeichens
+# § 27 – Antrag auf Erteilung des Qualitätszeichens
 
 (1) Der Antrag auf Erteilung eines Qualitätszeichens ist schriftlich bei einem Träger der Qualitätssicherung zu stellen. Dem Antrag sind folgende prüffähige Unterlagen beizufügen:
 
@@ -527,8 +497,7 @@ Der Träger der Qualitätssicherung hat die Umsetzung des Konzepts durch den Kl�
 
 (4) Der Träger der Qualitätssicherung hat den Antrag auf Erteilung des Qualitätszeichens sowie den Nachweis nach § 28 dem unabhängigen Ausschuss zur Bewertung nach § 23 Absatz 2 Nummer 1 und 2 vorzulegen.
 
-
-## § 28 – Nachweis der Erfüllung der Anforderungen der regelmäßigen Qualitätssicherung
+# § 28 – Nachweis der Erfüllung der Anforderungen der regelmäßigen Qualitätssicherung
 
 (1) Der nach § 12 Absatz 3 Nummer 2 des Kreislaufwirtschaftsgesetzes für die Erteilung des Qualitätszeichens erforderliche Nachweis der Erfüllung der Anforderungen an die Qualitätssicherung setzt voraus, dass vor Antragstellung
 
@@ -564,15 +533,13 @@ Für den untersuchten Klärschlamm nach Satz 1 Nummer 1 gelten die Grenzwerte na
 
 (5) Der Träger der Qualitätssicherung hat einen Sachverständigen zu beauftragen, der die Einhaltung der Anforderungen nach Absatz 2 Satz 1 Nummer 2 bis 4 überprüft und die Ergebnisse der Prüfung dokumentiert.
 
-
-## § 29 – Fortlaufende Überwachung
+# § 29 – Fortlaufende Überwachung
 
 (1) Die fortlaufende Überwachung nach § 12 Absatz 3 Nummer 3 des Kreislaufwirtschaftsgesetzes besteht aus der Eigen- und der Fremdüberwachung nach § 30.
 
 (2) Der Träger der Qualitätssicherung hat dem Qualitätszeichennehmer im Rahmen der fortlaufenden Überwachung mindestens einmal jährlich eine Prüfbescheinigung als Nachweis der regelmäßigen Qualitätssicherung auszustellen.
 
-
-## § 30 – Anforderungen an die Eigen- und die Fremdüberwachung in der fortlaufenden Überwachung
+# § 30 – Anforderungen an die Eigen- und die Fremdüberwachung in der fortlaufenden Überwachung
 
 (1) Die Eigenüberwachung hat der Qualitätszeichennehmer durchzuführen. Durch die Eigenüberwachung sind folgende Maßnahmen sicherzustellen:
 
@@ -612,8 +579,7 @@ Der Träger der Qualitätssicherung hat sicherzustellen, dass die Erfüllung der
 
 (6) Der Träger der Qualitätssicherung hat die Ergebnisse der Eigenüberwachung nach Absatz 1 und der Fremdüberwachung nach Absatz 4 zu kontrollieren und dem unabhängigen Ausschuss zur Bewertung nach § 23 Absatz 2 Nummer 3 vorzulegen. Die Bewertung der Überwachungsergebnisse hat der Träger der Qualitätssicherung halbjährlich zu dokumentieren und dem Qualitätszeichennehmer mitzuteilen. Die Dokumentation hat auch Angaben über festgestellte Säumnisse, Unregelmäßigkeiten und Mängel sowie Maßnahmen nach § 20 Absatz 2 Nummer 7 zu berücksichtigen.
 
-
-## § 31 – Abweichende Regelungen bei Abgabe eines qualitätsgesicherten Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts
+# § 31 – Abweichende Regelungen bei Abgabe eines qualitätsgesicherten Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts
 
 (1) Bei Abgabe eines qualitätsgesicherten Klärschlamms, Klärschlammgemischs oder Klärschlammkomposts gilt Folgendes:
 
@@ -655,8 +621,7 @@ d) die Grenzwerte nach § 8 eingehalten werden.
 
 (5) Wird eine Befreiung nach Absatz 4 Satz 1 von einem Qualitätszeichennehmer beantragt, der kein Klärschlammerzeuger, Gemischhersteller oder Komposthersteller ist, so ist bei Antragstellung eine Erklärung des Klärschlammerzeugers, Gemischherstellers oder Kompostherstellers vorzulegen, in der dieser zusichert, bei der Erbringung der Nachweise nach Absatz 4 Satz 3 und 4 mitzuwirken. Die Vorlage der Nachweise nach Absatz 4 Satz 3 und 4 hat durch den Qualitätszeichennehmer zu erfolgen.
 
-
-## § 32 – Probenuntersuchung
+# § 32 – Probenuntersuchung
 
 (1) Die Probenuntersuchung umfasst Probennahmen, Probenvorbereitungen und Probenanalysen für alle nach dieser Verordnung erforderlichen Untersuchungen von Boden, Klärschlamm, Klärschlammgemisch und Klärschlammkompost. Der zur Probenuntersuchung Verpflichtete hat eine unabhängige und notifizierte Untersuchungsstelle nach § 33 mit der Probenuntersuchung zu beauftragen.
 
@@ -668,8 +633,7 @@ d) die Grenzwerte nach § 8 eingehalten werden.
 
 (5) Die Untersuchungsergebnisse hat der zur Untersuchung Verpflichtete zehn Jahre lang aufzubewahren. Er hat diese auf Verlangen der zuständigen Behörde vorzulegen.
 
-
-## § 33 – Unabhängige Untersuchungsstellen
+# § 33 – Unabhängige Untersuchungsstellen
 
 (1) Eine Untersuchungsstelle bedarf der Notifizierung nach Maßgabe dieser Vorschrift.
 
@@ -679,8 +643,7 @@ d) die Grenzwerte nach § 8 eingehalten werden.
 
 (4) Notifizierungen aus einem anderen Mitgliedstaat der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum stehen Notifizierungen nach Absatz 2 Satz 1 gleich, wenn sie diesen gleichwertig sind. Bei der Prüfung des Antrags auf Notifizierung nach Absatz 2 Satz 1 stehen Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass die Untersuchungsstelle die betreffenden Anforderungen nach Absatz 2 Satz 1 oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt. Nachweise über Notifizierungen im Sinne des Satzes 1 oder sonstige Nachweise nach Satz 2 sind der zuständigen Behörde vor Aufnahme der Untersuchungstätigkeit im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 
-
-## § 34 – Registerführung
+# § 34 – Registerführung
 
 (1) Der Klärschlammerzeuger hat für das jeweilige Kalenderjahr ein Register zu führen, das folgende Angaben zu enthalten hat:
 
@@ -718,13 +681,11 @@ c) Menge an Klärschlammkomposten, mit Angabe der zur Kompostherstellung eingese
 
 (4) Auf die Verwertung von Klärschlamm, für den die Bestimmungen dieser Verordnung gelten, sind die Bestimmungen der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298), die zuletzt durch Artikel 7 der Verordnung vom 2. Dezember 2016 (BGBl. I S. 2770) geändert worden ist, in der jeweils geltenden Fassung, nicht anzuwenden; davon ausgenommen sind § 2 Absatz 1 Nummer 2 und § 23 Nummer 2 der Nachweisverordnung.
 
-
-## § 35 – Auf- oder Einbringungsplan
+# § 35 – Auf- oder Einbringungsplan
 
 Die zuständige Behörde hat jährlich einen Auf- oder Einbringungsplan über den im Verlauf des Kalenderjahres auf- oder eingebrachten Klärschlamm, über das im Verlauf des Kalenderjahres auf- oder eingebrachte Klärschlammgemisch und über den im Verlauf des Kalenderjahres auf- oder eingebrachten Klärschlammkompost zu erstellen. Bei der Erstellung des Auf- oder Einbringungsplans sollen die Möglichkeiten der elektronischen Datenverarbeitung genutzt werden.
 
-
-## § 36 – Ordnungswidrigkeiten
+# § 36 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -778,15 +739,13 @@ Die zuständige Behörde hat jährlich einen Auf- oder Einbringungsplan über de
 
 10. entgegen § 34 Absatz 3 Satz 1 eine Angabe nicht oder nicht rechtzeitig übermittelt.
 
-
-## § 37 – Bereits erteilte Qualitätszeichen
+# § 37 – Bereits erteilte Qualitätszeichen
 
 (1) Ein Klärschlammerzeuger, ein Gemischhersteller oder ein Komposthersteller oder eine andere natürliche oder juristische Person oder Personenvereinigung, der oder die am 2. Oktober 2017 berechtigt war, das Qualitätszeichen eines bestehenden Trägers einer Qualitätssicherung zu führen, gilt bis zum 3. Oktober 2020 als Qualitätszeichennehmer im Sinne dieser Verordnung, solange die Anforderungen nach § 27 Absatz 1 und 2 erfüllt sind und der bestehende Träger einer Qualitätssicherung die Erfüllung der Anforderungen überwacht.
 
 (2) Hat ein Qualitätszeichennehmer eines vor Ablauf der Frist nach Absatz 1 vergebenen Qualitätszeichens bereits Anforderungen an die Erteilung des Qualitätszeichens nach den §§ 26 bis 30 erfüllt und dies nachgewiesen, können die Nachweise bei dem Antrag auf Erteilung eines Qualitätszeichens nach § 27 anerkannt werden.
 
-
-## § 38 – Verwendung vorliegender Untersuchungsergebnisse
+# § 38 – Verwendung vorliegender Untersuchungsergebnisse
 
 (1) Abweichend von § 4 Absatz 1 Satz 1 Nummer 2 können Ergebnisse von Untersuchungen, die vor dem 3. Oktober 2017 durchgeführt wurden, verwendet werden, wenn diese Ergebnisse nicht älter als zehn Jahre sind.
 
@@ -794,13 +753,11 @@ Die zuständige Behörde hat jährlich einen Auf- oder Einbringungsplan über de
 
 (3) Abweichend von § 28 Absatz 2 Satz 1 Nummer 1 können Ergebnisse von Untersuchungen auf die Gehalte der organischen Schadstoffe polychlorierte Biphenyle und polychlorierte Dibenzodioxine und Dibenzofurane einschließlich dioxinähnliche polychlorierte Biphenyle, die vor dem 3. Oktober 2017 auf der Grundlage von § 3 Absatz 6 der Klärschlammverordnung vom 15. April 1992 (BGBl. I S. 912), die zuletzt durch Artikel 74 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, durchgeführt wurden, für eine prüffähige Dokumentation verwendet werden. Die Ergebnisse dürfen nur verwendet werden, sofern die Grenzwerte nach § 8 Absatz 1 nicht überschritten werden.
 
-
-## § 39 – Bestehende Untersuchungsstellen
+# § 39 – Bestehende Untersuchungsstellen
 
 Eine Stelle, die nach § 3 Absatz 11 Satz 1 der Klärschlammverordnung vom 15. April 1992 (BGBl. I S. 912), die zuletzt durch Artikel 74 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, als Untersuchungsstelle bestimmt worden ist, gilt als unabhängige Untersuchungsstelle nach § 33 Absatz 2 Satz 1 fort. Soweit § 33 Anforderungen enthält, die über die Anforderungen der bisherigen landesrechtlichen Vorschriften hinausgehen, sind diese Anforderungen ab dem 1. April 2018 zu erfüllen. Wurde die Bestimmung nach Satz 1 befristet und endet diese Befristung vor dem 1. April 2018, so gilt sie bis zum 1. April 2018 als Notifizierung im Sinne des § 33 fort.
 
-
-## Anlage 1 – (zu § 8 Absatz 1)Zusätzliche Grenzwerte für im Klärschlamm, Klärschlammgemisch und Klärschlammkompost enthaltene Schadstoffe
+# Anlage 1 – (zu § 8 Absatz 1)Zusätzliche Grenzwerte für im Klärschlamm, Klärschlammgemisch und Klärschlammkompost enthaltene Schadstoffe
 
 (Fundstelle: BGBl. I 2017, 3483)
 
@@ -811,8 +768,7 @@ Neben den Grenzwerten nach Anlage 2 Tabelle 1.4 Spalte 4 der Düngemittelverordn
 (in Milligramm je Kilogramm<br />
 Klärschlamm Trockenmasse)</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">1</td><td>Zink</td><td style="text-align: center;">4 000  </td></tr><tr class="even"><td style="text-align: center;">2</td><td>Summe organischer Halogenverbindungen als adsorbierte organisch gebundene Halogene (AOX)</td><td style="text-align: center;">  400  </td></tr><tr class="odd"><td style="text-align: center;">3</td><td>Benzo(a)pyren (B(a)P)</td><td style="text-align: center;">    1  </td></tr><tr class="even"><td style="text-align: center;">4</td><td>Polychlorierte Biphenyle (PCB), jeweils für die Kongenere 28, 52, 101, 138, 153, 180</td><td style="text-align: center;">    0,1</td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 32 Absatz 2 und 3)Probenuntersuchung
+# Anlage 2 – (zu § 32 Absatz 2 und 3)Probenuntersuchung
 
 (Fundstelle: BGBl. I 2017, 3484 - 3490)
 
@@ -843,8 +799,7 @@ Gleichwertige Analysemethoden nach dem Stand der Technik sind mit Zustimmung der
 
 Der Nachweis, dass die geforderten Analysen ordnungsgemäß durchgeführt wurden, ist durch die vom Klärschlammerzeuger, Gemischhersteller oder Komposthersteller beauftragte Untersuchungsstelle zu erbringen und vom Klärschlammerzeuger, Gemischhersteller oder Komposthersteller vorzulegen.
 
-Die Schadstoffgehalte sind auf die Trockenmasse, die bei 105 Grad Celsius gewonnen wurde, zu beziehen. Sie müssen in der gleichen Einheit wie die entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte in Anlage 1 angegeben werden.  
-  
+Die Schadstoffgehalte sind auf die Trockenmasse, die bei 105 Grad Celsius gewonnen wurde, zu beziehen. Sie müssen in der gleichen Einheit wie die entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte in Anlage 1 angegeben werden.   
 
 Tabelle 1  
 Analysemethoden für Böden  
@@ -896,8 +851,7 @@ Gleichwertige Analysemethoden nach dem Stand der Technik sind mit Zustimmung der
 
 Der Nachweis, dass die geforderten Analysen ordnungsgemäß durchgeführt wurden, ist durch die vom Klärschlammerzeuger, Gemischhersteller oder Komposthersteller beauftragte Untersuchungsstelle zu erbringen und vom Klärschlammerzeuger, Gemischhersteller oder Komposthersteller vorzulegen.
 
-Zur Berechnung der 2,3,7,8-TCDD-Toxizitätsäquivalente (TEQ) werden die jeweiligen Massenkonzentrationen mit den Toxizitätsäquivalentfaktoren aus Tabelle 3 multipliziert und die Produkte addiert. Bei der Addition bleiben Einzelstoffkonzentrationen unterhalb der analytischen Nachweisgrenze unberücksichtigt; Einzelstoffkonzentrationen, die oberhalb der Nachweisgrenze, aber unterhalb der Bestimmungsgrenze liegen, gehen mit der Hälfte des Werts der Bestimmungsgrenze in die Addition ein.  
-  
+Zur Berechnung der 2,3,7,8-TCDD-Toxizitätsäquivalente (TEQ) werden die jeweiligen Massenkonzentrationen mit den Toxizitätsäquivalentfaktoren aus Tabelle 3 multipliziert und die Produkte addiert. Bei der Addition bleiben Einzelstoffkonzentrationen unterhalb der analytischen Nachweisgrenze unberücksichtigt; Einzelstoffkonzentrationen, die oberhalb der Nachweisgrenze, aber unterhalb der Bestimmungsgrenze liegen, gehen mit der Hälfte des Werts der Bestimmungsgrenze in die Addition ein.   
 
 Tabelle 2  
 Analysemethoden für Klärschlamm, Klärschlammgemisch und Klärschlammkompost  
@@ -913,8 +867,7 @@ a) die DIN-Normen über die Beuth-Verlag GmbH, Berlin und Köln,
 
 b) das Handbuch der landwirtschaftlichen Versuchs- und Untersuchungsmethodik (Methodenbuch), Band I – Die Untersuchung von Böden und Band II.2 – Die Untersuchung von Sekundärrohstoffdüngern, Kultursubstraten und Bodenhilfsstoffen, über den VDLUFA-Verlag in Darmstadt.
 
-
-## Anlage 3 – (zu § 16 Absatz 3, § 17 Absatz 1, 3 und 4 und § 18 Absatz 1, 3 und 4)Anzeigen, Lieferscheine, Bestätigungen
+# Anlage 3 – (zu § 16 Absatz 3, § 17 Absatz 1, 3 und 4 und § 18 Absatz 1, 3 und 4)Anzeigen, Lieferscheine, Bestätigungen
 
 (Fundstelle: BGBl. I 2017, 3491 - 3511)
 
@@ -928,8 +881,7 @@ Klärschlammerzeuger (Name, Anschrift; im Fall des § 31 Absatz 1 Nummer 5 AbfK
 Angaben zur vorgesehenen Klärschlammverwertung
 
 Am . . . . . werde ich aus meiner Abwasserbehandlungsanlage  
-(Name und Anschrift der Betriebsstätte): . . . . .  
-(im Fall des § 31 Absatz 1 Nummer 5 hier auch Angaben zu den übrigen Abwasserbehandlungsanlagen)
+(Name und Anschrift der Betriebsstätte): . . . . . (im Fall des § 31 Absatz 1 Nummer 5 hier auch Angaben zu den übrigen Abwasserbehandlungsanlagen)
 
 . . . . . Kubikmeter/ . . . . . Tonnen Klärschlamm mit einem Trockensubstanzgehalt von  
 . . . . . Prozent (das entspricht . . . . . Tonnen Trockenmasse) zur Verwertung
@@ -974,8 +926,7 @@ nicht ergeben.
 ergeben.
 
   
-ergeben, die von der zuständigen Behörde nach § 7 Absatz 3 AbfKlärV zugelassen wurde.  
-(Nachweis ist beizufügen).
+ergeben, die von der zuständigen Behörde nach § 7 Absatz 3 AbfKlärV zugelassen wurde. (Nachweis ist beizufügen).
 
 1.5  
 Klärschlammbezogene Angaben
@@ -1234,8 +1185,7 @@ Klärschlammnutzer oder Gemischhersteller oder Komposthersteller
 Klärschlammbeförderer  
 (Name, Anschrift): . . . . .
 
-Amtliches Kennzeichen des Transportfahrzeugs, sofern der Transport auf der Straße erfolgt: . . . . .  
-. . . . . .                            
+Amtliches Kennzeichen des Transportfahrzeugs, sofern der Transport auf der Straße erfolgt: . . . . . . . . . . .                            
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 48%" /><col style="width: 3%" /><col style="width: 48%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">           <br />
 (Datum)</td><td style="text-align: left;"> </td><td style="text-align: left;"><br />
@@ -1606,8 +1556,7 @@ das hergestellte Klärschlammgemisch
 der hergestellte Klärschlammkompost
 
 aus meiner Anlage (Name und Anschrift der Betriebsstätte):  
-. . . . . .  
-nach den vorstehenden Angaben nach Maßgabe der Klärschlammverordnung in der jeweils geltenden Fassung und gegebenenfalls bestehenden ergänzenden Vorgaben der zuständigen obersten Landesbehörde auf Böden verwertet werden kann.
+. . . . . . nach den vorstehenden Angaben nach Maßgabe der Klärschlammverordnung in der jeweils geltenden Fassung und gegebenenfalls bestehenden ergänzenden Vorgaben der zuständigen obersten Landesbehörde auf Böden verwertet werden kann.
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 32%" /><col style="width: 3%" /><col style="width: 65%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"><br />
 (Datum)</td><td style="text-align: left;"> </td><td style="text-align: left;"><br />
@@ -1688,8 +1637,7 @@ anderer von der zuständigen Behörde, im Fall der Auf- oder Einbringung auf ode
 
 Die Lieferung erfolgte aufgrund der Anzeige vom . . . . .
 
-Die Auf- oder Einbringung des Klärschlammgemischs oder Klärschlammkomposts ist am . . . . .  
-erfolgt durch  
+Die Auf- oder Einbringung des Klärschlammgemischs oder Klärschlammkomposts ist am . . . . . erfolgt durch  
 (Name, Anschrift): . . . . .
 
 Die nach § 14 Absatz 2 AbfKlärV zulässige Aufbringungsmenge wurde nicht überschritten.

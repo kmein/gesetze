@@ -1,15 +1,11 @@
-# [WoFÜG] Gesetz zur Überleitung der sozialen Wohnraumförderung auf die Länder  (Wohnraumförderung-Überleitungsgesetz - WoFÜG)
-
-Ausfertigungsdatum: 05.09.2006
-
+% Gesetz zur Überleitung der sozialen Wohnraumförderung auf die Länder  (Wohnraumförderung-Überleitungsgesetz - WoFÜG)
+% Ausfertigungsdatum: 05.09.2006
  
-
-## § 1 – Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus gewährten Darlehen des Bundes
+# § 1 – Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus gewährten Darlehen des Bundes
 
 Die den Ländern zur Förderung des Wohnungsbaus als Darlehen gewährten Bundesmittel und Finanzhilfen sind mindestens so zu verzinsen und zu tilgen, dass die Zins- und Tilgungsbeträge demjenigen Anteil aller im Land aufgekommenen Zins- und Tilgungsbeträge einschließlich außerplanmäßiger Tilgungen entsprechen, der sich nach dem Verhältnis der am Ende des Kalenderjahres dem Land insgesamt als Darlehen gewährten Bundesmittel und Finanzhilfen zu den übrigen Mitteln des Landes errechnet. Die Tilgung der Bundesmittel und Finanzhilfen muss mindestens ein Prozent betragen. Die Verpflichtung des Landes zur vollständigen Tilgung der als Darlehen gewährten Bundesmittel und Finanzhilfen bleibt unberührt. Näheres wird durch Verwaltungsvereinbarung geregelt.
 
-
-## § 2 – Wohnungsfürsorge des Bundes, Bergarbeiterwohnungsbau
+# § 2 – Wohnungsfürsorge des Bundes, Bergarbeiterwohnungsbau
 
 (1) Auf Wohnungsfürsorgemittel, die aus Haushalten des Bundes sowie der früheren öffentlich-rechtlichen Sondervermögen des Bundes oder deren Rechtsnachfolger zur Verfügung gestellt worden sind und die
 

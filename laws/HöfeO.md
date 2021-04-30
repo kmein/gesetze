@@ -1,10 +1,7 @@
-# [HöfeO] Höfeordnung  (HöfeO)
-
-Ausfertigungsdatum: 24.04.1947
-
+% Höfeordnung  (HöfeO)
+% Ausfertigungsdatum: 24.04.1947
  
-
-## § 1 – Begriff des Hofes
+# § 1 – Begriff des Hofes
 
 (1) Hof im Sinne dieses Gesetzes ist eine im Gebiet der Länder Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein belegene land- oder forstwirtschaftliche Besitzung mit einer zu ihrer Bewirtschaftung geeigneten Hofstelle, die im Alleineigentum einer natürlichen Person oder im gemeinschaftlichen Eigentum von Ehegatten (Ehegattenhof) steht oder zum Gesamtgut einer fortgesetzten Gütergemeinschaft gehört, sofern sie einen Wirtschaftswert von mindestens 10.000 Euro hat. Wirtschaftswert ist der nach den steuerlichen Bewertungsvorschriften festgestellte Wirtschaftswert im Sinne des § 46 des Bewertungsgesetzes in der Fassung der Bekanntmachung vom 26. September 1974 (Bundesgesetzbl. I S. 2369), geändert durch Artikel 15 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685). Eine Besitzung, die einen Wirtschaftswert von weniger als 10.000 Euro, mindestens jedoch von 5.000 Euro hat, wird Hof, wenn der Eigentümer erklärt, daß sie Hof sein soll, und wenn der Hofvermerk im Grundbuch eingetragen wird.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 24.04.1947
 
 (7) Wird ein Hofvermerk auf Grund einer Erklärung des Eigentümers oder von Ehegatten eingetragen oder gelöscht, so tritt die dadurch bewirkte Rechtsfolge rückwirkend mit dem Eingang der Erklärung beim Landwirtschaftsgericht ein.
 
-
-## § 2 – Bestandteile
+# § 2 – Bestandteile
 
 Zum Hof gehören:
 
@@ -29,18 +25,15 @@ a) alle Grundstücke des Hofeigentümers, die regelmäßig von der Hofstelle aus
 
 b) Mitgliedschaftsrechte, Nutzungsrechte und ähnliche Rechte, die dem Hof dienen, gleichviel ob sie mit dem Eigentum am Hof verbunden sind oder dem Eigentümer persönlich zustehen, ferner dem Hof dienende Miteigentumsanteile an einem Grundstück, falls diese Anteile im Verhältnis zu dem sonstigen, den Hof bildenden Grundbesitz von untergeordneter Bedeutung sind.
 
-
-## § 3 – Hofeszubehör
+# § 3 – Hofeszubehör
 
 Zum Hof gehört auch das Hofeszubehör. Es umfaßt insbesondere das auf dem Hof für die Bewirtschaftung vorhandene Vieh, Wirtschafts- und Hausgerät, den vorhandenen Dünger und die für die Bewirtschaftung bis zur nächsten Ernte dienenden Vorräte an landwirtschaftlichen Erzeugnissen und Betriebsmittel.
 
-
-## § 4 – Erbfolge in einen Hof
+# § 4 – Erbfolge in einen Hof
 
 Der Hof fällt als Teil der Erbschaft kraft Gesetzes nur einem der Erben (dem Hoferben) zu. An seine Stelle tritt im Verhältnis der Miterben untereinander der Hofeswert.
 
-
-## § 5 – Gesetzliche Hoferbenordnung
+# § 5 – Gesetzliche Hoferbenordnung
 
 Wenn der Erblasser keine andere Bestimmung trifft, sind als Hoferben kraft Gesetzes in folgender Ordnung berufen:
 
@@ -52,8 +45,7 @@ Wenn der Erblasser keine andere Bestimmung trifft, sind als Hoferben kraft Geset
 
 4. die Geschwister des Erblassers und deren Abkömmlinge.
 
-
-## § 6 – Einzelheiten zur Hoferbenordnung
+# § 6 – Einzelheiten zur Hoferbenordnung
 
 (1) In der ersten Hoferbenordnung ist als Hoferbe berufen:
 
@@ -81,15 +73,13 @@ Liegen die Voraussetzungen der Nummer 2 bei mehreren Miterben vor, ohne daß erk
 
 (7) Wirtschaftsfähig ist, wer nach seinen körperlichen und geistigen Fähigkeiten, nach seinen Kenntnissen und seiner Persönlichkeit in der Lage ist, den von ihm zu übernehmenden Hof selbständig ordnungsmäßig zu bewirtschaften.
 
-
-## § 7 – Bestimmung des Hoferben durch den Eigentümer
+# § 7 – Bestimmung des Hoferben durch den Eigentümer
 
 (1) Der Eigentümer kann den Hoferben durch Verfügung von Todes wegen frei bestimmen oder ihm den Hof im Wege der vorweggenommenen Erbfolge (Übergabevertrag) übergeben. Zum Hoferben kann nicht bestimmt werden, wer wegen Wirtschaftsunfähigkeit nach § 6 Abs. 6 Satz 1 und 2 als Hoferbe ausscheidet; die Wirtschaftsunfähigkeit eines Abkömmlings steht jedoch seiner Bestimmung zum Hoferben nicht entgegen, wenn sämtliche Abkömmlinge wegen Wirtschaftsunfähigkeit ausscheiden und ein wirtschaftsfähiger Ehegatte nicht vorhanden ist.
 
 (2) Hat der Eigentümer die Bewirtschaftung des Hofes unter den Voraussetzungen des § 6 Abs. 1 Satz 1 Nr. 1 einem hoferbenberechtigten Abkömmling übertragen, so ist, solange dieser den Hof bewirtschaftet, eine vom Eigentümer nach Übertragung der Bewirtschaftung vorgenommene Bestimmung eines anderen zum Hoferben insoweit unwirksam, als durch sie der Hoferbenberechtigte von der Hoferbfolge ausgeschlossen würde. Das gleiche gilt, wenn der Eigentümer durch Art und Umfang der Beschäftigung (§ 6 Abs. 1 Satz 1 Nr. 2) eines hoferbenberechtigten Abkömmlings auf dem Hof hat erkennen lassen, daß er den Hof übernehmen soll. Das Recht des Eigentümers, über sein der Hoferbfolge unterliegendes Vermögen durch Rechtsgeschäft unter Lebenden zu verfügen, wird durch Satz 1 und 2 nicht beschränkt.
 
-
-## § 8 – Der Hoferbe beim Ehegattenhof
+# § 8 – Der Hoferbe beim Ehegattenhof
 
 (1) Bei einem Ehegattenhof fällt der Anteil des Erblassers dem überlebenden Ehegatten als Hoferben zu.
 
@@ -97,8 +87,7 @@ Liegen die Voraussetzungen der Nummer 2 bei mehreren Miterben vor, ohne daß erk
 
 (3) Gehört der Hof zum Gesamtgut einer Gütergemeinschaft, so kann der überlebende Ehegatte die Gütergemeinschaft bezüglich des Hofes nach den Vorschriften des allgemeinen Rechts mit den Abkömmlingen fortsetzen. Wird die fortgesetzte Gütergemeinschaft anders als durch den Tod des überlebenden Ehegatten beendet, so wachsen ihm die Anteile der Abkömmlinge an. Im übrigen steht die Beendigung der fortgesetzten Gütergemeinschaft dem Erbfall gleich. Die Fortsetzung der Gütergemeinschaft läßt eine nach Absatz 2 getroffene Bestimmung sowie das Recht, eine solche Bestimmung zu treffen, unberührt.
 
-
-## § 9 – Vererbung mehrerer Höfe
+# § 9 – Vererbung mehrerer Höfe
 
 (1) Hinterläßt der Erblasser mehrere Höfe, so können die als Hoferben berufenen Abkömmlinge in der Reihenfolge ihrer Berufung je einen Hof wählen; dabei kann jedoch nicht ein Hof gewählt werden, für den ein anderer Abkömmling, der noch nicht gewählt hat, nach § 6 Abs. 1 Satz 1 Nr. 1 oder Nr. 2 vorrangig als Hoferbe berufen ist. Sind mehr Höfe vorhanden als berechtigte Abkömmlinge, so wird die Wahl nach denselben Grundsätzen wiederholt. Hinterläßt der Eigentümer keine Abkömmlinge, so können die als Hoferben in derselben Ordnung Berufenen in der gleichen Weise wählen. Diese Vorschriften gelten auch dann, wenn ein Hoferbe nach § 6 Abs. 1 Satz 1 Nr. 1 oder Nr. 2 hinsichtlich mehrerer Höfe als berufen anzusehen wäre.
 
@@ -106,18 +95,15 @@ Liegen die Voraussetzungen der Nummer 2 bei mehreren Miterben vor, ohne daß erk
 
 (3) Jeder Hoferbenberechtigte erwirbt das Eigentum an dem ihm zufallenden Hof rückwirkend vom Tode des Erblassers an.
 
-
-## § 10 – Vererbung nach allgemeinem Recht
+# § 10 – Vererbung nach allgemeinem Recht
 
 Der Hof vererbt sich nach den Vorschriften des allgemeinen Rechts, wenn nach den Vorschriften dieses Gesetzes kein Hoferbe vorhanden oder wirksam bestimmt ist.
 
-
-## § 11 – Ausschlagung
+# § 11 – Ausschlagung
 
 Der Hoferbe kann den Anfall des Hofes durch Erklärung gegenüber dem Gericht ausschlagen, ohne die Erbschaft in das übrige Vermögen auszuschlagen. Auf diese Ausschlagung finden die Vorschriften des Bürgerlichen Gesetzbuchs über die Ausschlagung der Erbschaft entsprechende Anwendung.
 
-
-## § 12 – Abfindung der Miterben nach dem Erbfall
+# § 12 – Abfindung der Miterben nach dem Erbfall
 
 (1) Den Miterben, die nicht Hoferben geworden sind, steht vorbehaltlich anderweitiger Regelung durch Übergabevertrag oder Verfügung von Todes wegen an Stelle eines Anteils am Hof ein Anspruch gegen den Hoferben auf Zahlung einer Abfindung in Geld zu.
 
@@ -139,8 +125,7 @@ Der Hoferbe kann den Anfall des Hofes durch Erklärung gegenüber dem Gericht au
 
 (10) Die Vorschriften der Absätze 2 bis 5 gelten sinngemäß für die Ansprüche von Pflichtteilsberechtigten, Vermächtnisnehmern sowie des überlebenden Ehegatten, der den Ausgleich des Zugewinns (§ 1371 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs) verlangt.
 
-
-## § 13 – Ergänzung der Abfindung wegen Wegfalls des höferechtlichen Zwecks
+# § 13 – Ergänzung der Abfindung wegen Wegfalls des höferechtlichen Zwecks
 
 (1) Veräußert der Hoferbe innerhalb von zwanzig Jahren nach dem Erbfall den Hof, so können die nach § 12 Berechtigten unter Anrechnung einer bereits empfangenen Abfindung die Herausgabe des erzielten Erlöses zu dem Teil verlangen, der ihrem nach dem allgemeinen Recht bemessenen Anteil am Nachlaß oder an dessen Wert entspricht. Dies gilt auch, wenn zum Hof gehörende Grundstücke einzeln oder nacheinander veräußert werden und die dadurch erzielten Erlöse insgesamt ein Zehntel des Hofeswertes (§ 12 Abs. 2) übersteigen, es sei denn, daß die Veräußerung zur Erhaltung des Hofes erforderlich war. Eine Übergabe des Hofes im Wege der vorweggenommenen Erbfolge gilt nicht als Veräußerung im Sinne des Satzes 1. Wird der Hof in eine Gesellschaft eingebracht, so gilt der Verkehrswert des Hofes im Zeitpunkt der Einbringung als Veräußerungserlös.
 
@@ -168,8 +153,7 @@ und dadurch erhebliche Gewinne erzielt.
 
 (10) Der Verpflichtete hat den Berechtigten über eine Veräußerung oder Verwertung unverzüglich Mitteilung zu machen sowie über alle für die Berechnung des Anspruchs erheblichen Umstände auf Verlangen Auskunft zu erteilen.
 
-
-## § 14 – Stellung des überlebenden Ehegatten
+# § 14 – Stellung des überlebenden Ehegatten
 
 (1) Dem überlebenden Ehegatten des Erblassers steht, wenn der Hoferbe ein Abkömmling des Erblassers ist, bis zur Vollendung des fünfundzwanzigsten Lebensjahres des Hoferben die Verwaltung und Nutznießung am Hof zu. Dieses Recht kann
 
@@ -183,8 +167,7 @@ verlängern, beschränken oder aufheben.
 
 (3) Der überlebende Ehegatte kann, wenn ihm der Eigentümer durch Verfügung von Todes wegen eine dahingehende Befugnis erteilt hat, unter den Abkömmlingen des Eigentümers den Hoferben bestimmen. Seine Befugnis erlischt, wenn er sich wieder verheiratet oder wenn der gesetzliche Hoferbe das fünfundzwanzigste Lebensjahr vollendet. Die Bestimmung erfolgt durch mündliche Erklärung zur Niederschrift des Gerichts oder durch Einreichung einer öffentlich beglaubigten schriftlichen Erklärung; die Niederschrift wird nach den Vorschriften des Beurkundungsgesetzes errichtet. Mit Abgabe der Erklärung tritt der neu bestimmte Hoferbe hinsichtlich des Hofes in die Rechtsstellung des bisherigen gesetzlichen Hoferben ein. Auf Antrag eines Beteiligten regelt das Gericht, und zwar auch mit Wirkung gegenüber Dritten, die mit dem Übergang des Hofes zusammenhängenden Fragen.
 
-
-## § 15 – Nachlaßverbindlichkeiten
+# § 15 – Nachlaßverbindlichkeiten
 
 (1) Der Hoferbe haftet, auch wenn er an dem übrigen Nachlaß nicht als Miterbe beteiligt ist, für die Nachlaßverbindlichkeiten als Gesamtschuldner.
 
@@ -196,15 +179,13 @@ verlängern, beschränken oder aufheben.
 
 (5) Gehören zum Nachlaß mehrere Höfe, so werden die Pflicht zur Abfindung der Miterben einschließlich der Leistungen nach § 12 Abs. 6 Satz 2 ebenso wie die Nachlaßverbindlichkeiten von allen Hoferben gemeinschaftlich, und zwar im Verhältnis zueinander entsprechend den Hofeswerten getragen.
 
-
-## § 16 – Verfügung von Todes wegen
+# § 16 – Verfügung von Todes wegen
 
 (1) Der Eigentümer kann die Erbfolge kraft Höferechts (§ 4) durch Verfügung von Todes wegen nicht ausschließen. Er kann sie jedoch beschränken; soweit nach den Vorschriften des Grundstücksverkehrsgesetzes vom 28. Juli 1961 (Bundesgesetzbl. I S. 1091), geändert durch Artikel 199 des Gesetzes vom 2. März 1974 (Bundesgesetzbl. I S. 469), für ein Rechtsgeschäft unter Lebenden gleichen Inhalts eine Genehmigung erforderlich wäre, ist die Zustimmung des Gerichts zu der Verfügung von Todes wegen erforderlich.
 
 (2) Für die Berechnung des Pflichtteils des Hoferben ist der nach dem allgemeinen Recht, für die Berechnung des Pflichtteils der übrigen Erben der nach diesem Gesetz zu ermittelnde gesetzliche Erbteil maßgebend. Dabei ist der Hof in jedem Falle nach dem in § 12 Abs. 2 bestimmten Wert anzusetzen.
 
-
-## § 17 – Übergabevertrag
+# § 17 – Übergabevertrag
 
 (1) Bei der Übergabe des Hofes an den Hoferben im Wege der vorweggenommenen Hoferbfolge finden die Vorschriften des § 16 entsprechende Anwendung.
 
@@ -212,15 +193,13 @@ verlängern, beschränken oder aufheben.
 
 (3) Soweit nach den Vorschriften des Grundstücksverkehrsgesetzes eine Genehmigung erforderlich ist, wird sie durch das Gericht erteilt.
 
-
-## § 18 – Zuständigkeit der Gerichte
+# § 18 – Zuständigkeit der Gerichte
 
 (1) Für die Entscheidung über alle Anträge und Streitigkeiten, die sich bei Anwendung der Höfeordnung ergeben, sowie aus Abmachungen der Beteiligten hierüber sind die im Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen vom 21. Juli 1953 (Bundesgesetzbl. I S. 667), zuletzt geändert durch Artikel 2 des Gesetzes vom 8. Juli 1975 (Bundesgesetzbl. I S. 1863), genannten Gerichte ausschließlich zuständig.
 
 (2) Diese Gerichte sind auch zuständig für die Entscheidung der Frage, wer kraft Gesetzes oder kraft Verfügung von Todes wegen Hoferbe eines Hofes geworden ist, und für die Ausstellung eines Erbscheins oder eines Europäischen Nachlasszeugnisses. In dem Erbschein oder dem Europäischen Nachlasszeugnis ist der Hoferbe als solcher aufzuführen. Auf Antrag eines Beteiligten ist in dem Erbschein lediglich die Hoferbfolge zu bescheinigen.
 
-
-## § 19 – Geltung für Lebenspartner; Übergangsbestimmungen
+# § 19 – Geltung für Lebenspartner; Übergangsbestimmungen
 
 (1) Die für Ehegatten geltenden Vorschriften dieses Gesetzes gelten entsprechend für Lebenspartner. Eine land- oder forstwirtschaftliche Besitzung, die im gemeinschaftlichen Eigentum von Lebenspartnern steht und gemäß § 1 Absatz 1 die Eigenschaft als Hof besitzt oder diese entsprechend § 1 Absatz 2 durch Erklärung der Lebenspartner erhält, ist ein Lebenspartnerhof.
 

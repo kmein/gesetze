@@ -1,15 +1,11 @@
-# [OberflbeschAusbV] Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin
-
-Ausfertigungsdatum: 26.04.2005
-
+% Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin
+% Ausfertigungsdatum: 26.04.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), die durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden sind, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Oberflächenbeschichter/Oberflächenbeschichterin wird
 
@@ -19,13 +15,11 @@ Der Ausbildungsberuf Oberflächenbeschichter/Oberflächenbeschichterin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -88,25 +82,21 @@ Feuerverzinken,
 
 21. Verfahren der Umwelttechnik.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -115,8 +105,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 (3) Der Prüfling soll in höchstens sieben Stunden eine Arbeitsaufgabe durchführen sowie in höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
 Anfertigen eines Werkstückes unter Anwendung von Fertigungs- und Fügeverfahren einschließlich Vor- und Nachbehandeln von Oberflächen unter Berücksichtigung der Regeln des Produktionsprozesses, der Sicherheit und des Gesundheitsschutzes bei der Arbeit. Dabei soll der Prüfling zeigen, dass er Oberflächen vorbereiten und prüfen, Messwerte erfassen und protokollieren sowie Arbeitsabläufe, insbesondere den Zusammenhang von Technik, Arbeitsorganisation, Arbeitssicherheit, Umweltschutz und Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
-
-## § 8 – Abschlussprüfung/Gesellenprüfung
+# § 8 – Abschlussprüfung/Gesellenprüfung
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -159,18 +148,15 @@ allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs-
 
 (10) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in den Arbeitsaufgaben einschließlich Dokumentationen insgesamt, in dem Fachgespräch oder in einem der drei Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Fortsetzung der Berufsausbildung
+# § 9 – Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Oberflächenbeschichter/ zur Oberflächenbeschichterin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Oberflächenbeschichter/ zur Oberflächenbeschichterin
 
 (Fundstelle: BGBl. I 2005, 1152 - 1159)
 

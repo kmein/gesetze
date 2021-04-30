@@ -1,10 +1,7 @@
-# [MOG] Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen  (Marktorganisationsgesetz - MOG)
-
-Ausfertigungsdatum: 31.08.1972
-
+% Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen  (Marktorganisationsgesetz - MOG)
+% Ausfertigungsdatum: 31.08.1972
  
-
-## § 1 – Gemeinsame Marktorganisationen und Direktzahlungen
+# § 1 – Gemeinsame Marktorganisationen und Direktzahlungen
 
 (1) Gemeinsame Marktorganisationen im Sinne dieses Gesetzes sind Regelungen zur Schaffung und Durchführung der gemeinsamen Organisation der Agrarmärkte für die in Anhang I des Vertrages zur Gründung der Europäischen Gemeinschaft (EG-Vertrag) oder in Anhang I des Vertrages über die Arbeitsweise der Europäischen Union (AEU-Vertrag) aufgeführten Erzeugnisse.
 
@@ -30,22 +27,19 @@ b) auf Grund des EU-Vertrages oder des AEU-Vertrages zustande gekommen sind oder
 
 (+++ Abschn. 1 (§§ 1 bis 5): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 2 – Marktordnungswaren
+# § 2 – Marktordnungswaren
 
 Marktordnungswaren im Sinne dieses Gesetzes sind die Erzeugnisse, die den gemeinsamen Marktorganisationen unterliegen, sowie die Erzeugnisse, für die in Ergänzung oder zur Sicherung einer gemeinsamen Marktorganisation Regelungen im Sinne des § 1 Absatz 2 getroffen sind.
 
 (+++ Abschn. 1 (§§ 1 bis 5): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 3 – Marktordnungsstelle
+# § 3 – Marktordnungsstelle
 
 Marktordnungsstelle im Sinne dieses Gesetzes ist die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt).
 
 (+++ Abschn. 1 (§§ 1 bis 5): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 4 – Ein- und Ausfuhr
+# § 4 – Ein- und Ausfuhr
 
 Soweit sich aus unmittelbar geltenden Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 nichts anderes ergibt, gelten die Vorschriften dieses Gesetzes
 
@@ -61,8 +55,7 @@ c) für die Lieferung von Marktordnungswaren, soweit sie in Regelungen im Sinne 
 
 (+++ Abschn. 1 (§§ 1 bis 5): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 5 – Sonstige Begriffsbestimmungen
+# § 5 – Sonstige Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind:  
   
@@ -83,8 +76,7 @@ Einfuhr- und Ausfuhrlizenzen einschließlich Teillizenzen sowie Vorausfestsetzun
 
 (+++ Abschn. 1 (§§ 1 bis 5): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 6 – Vergünstigungen
+# § 6 – Vergünstigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies zur Durchführung von
 
@@ -146,8 +138,7 @@ erforderlich ist, Vorschriften zu erlassen über das Verfahren sowie über die V
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 6a – Vermarktungsnormen
+# § 6a – Vermarktungsnormen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 über Vermarktungsvorschriften, insbesondere Vermarktungsnormen oder Begriffsbestimmungen, Bezeichnungen oder Verkehrsbezeichnungen (Bezeichnungen), hinsichtlich Marktordnungswaren erforderlich ist, Vorschriften zu erlassen über das Verfahren sowie über
 
@@ -165,8 +156,7 @@ soweit sie nach den Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 bestimm
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 7 – Interventionen
+# § 7 – Interventionen
 
 (1) Interventionsstelle ist die Marktordnungsstelle. Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -184,8 +174,7 @@ zu übertragen.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 8 – Mengen
+# § 8 – Mengen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates hinsichtlich Garantiemengen, Referenzmengen, Referenzbeträgen, Quoten, Obergrenzen, Zahlungsansprüchen und sonstigen Mindest- oder Höchstmengen oder -beträgen, die in Regelungen im Sinne des § 1 Absatz 2 vorgesehen sind, (Mengen) Vorschriften über das Verfahren bezüglich Mengen und die Zuordnung von Mengen zu erlassen, soweit
 
@@ -219,15 +208,13 @@ geregelt werden. § 6 Absatz 4 Satz 2 und Absatz 5 gilt entsprechend.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 8a – Branchenvereinbarungen und Preisberichterstattung
+# § 8a – Branchenvereinbarungen und Preisberichterstattung
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 erforderlich ist, Vorschriften über das Verfahren hinsichtlich Branchenvereinbarungen und der Markt- und Preisberichterstattung zu erlassen.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 9 – Obligatorische Maßnahmen
+# § 9 – Obligatorische Maßnahmen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 hinsichtlich Marktordnungswaren erforderlich ist, Vorschriften zu erlassen über das Verfahren bei Marktordnungsmaßnahmen, an denen teilzunehmen der Einzelne verpflichtet ist (obligatorische Maßnahmen), sowie über die Voraussetzungen, den Umfang und die Dauer solcher obligatorischer Maßnahmen, soweit sie nach den Regelungen im Sinne des § 1 Absatz 2 bestimmt, bestimmbar oder begrenzt sind. § 6 Absatz 4 und 5 gilt entsprechend.
 
@@ -235,15 +222,13 @@ Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministeriu
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 9a – Einhaltung anderweitiger Verpflichtungen
+# § 9a – Einhaltung anderweitiger Verpflichtungen
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 hinsichtlich Marktordnungswaren oder Direktzahlungen erforderlich ist, Vorschriften zu erlassen über das Verfahren bei anderweitigen Verpflichtungen, insbesondere bei Grundanforderungen und Standards, die bei Vergünstigungen einzuhalten sind, und, soweit sie nach den Regelungen im Sinne des § 1 Absatz 2 bestimmt, bestimmbar oder begrenzt sind, über die Voraussetzungen, den Umfang, den Inhalt und die Dauer von anderweitigen Verpflichtungen sowie über die Kürzung oder den Ausschluss von Vergünstigungen bei Nichteinhaltung anderweitiger Verpflichtungen. § 6 Absatz 4 Satz 2 und Absatz 5 gilt entsprechend.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 9b – Außergewöhnliche Maßnahmen zur Marktstützung
+# § 9b – Außergewöhnliche Maßnahmen zur Marktstützung
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies im Rahmen von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 zur Durchführung von Rechtsakten der Europäischen Union über
 
@@ -279,8 +264,7 @@ In den in Satz 1 bezeichneten Rechtsverordnungen können insbesondere
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 9c – Außergewöhnliche Maßnahmen zur Marktstützung auf Antrag mit finanzieller Beteiligung
+# § 9c – Außergewöhnliche Maßnahmen zur Marktstützung auf Antrag mit finanzieller Beteiligung
 
 (1) Das Bundesministerium kann bei den zuständigen Stellen der Europäischen Union außergewöhnliche Maßnahmen zur Marktstützung mit finanzieller Beteiligung des Bundes, der Länder oder der Erzeuger, die in Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 vorgesehen sind, beantragen, soweit für diese außergewöhnliche Maßnahme
 
@@ -322,8 +306,7 @@ geregelt werden. Der Anspruch auf Teilnahme an einer außergewöhnlichen Maßnah
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 9d – Weitere Finanzierung außergewöhnlicher Maßnahmen zur Marktstützung ohne Antrag
+# § 9d – Weitere Finanzierung außergewöhnlicher Maßnahmen zur Marktstützung ohne Antrag
 
 (1) Rechtsverordnungen auf Grund der Ermächtigungen der §§ 6, 6a, 7, 8, 9, 9a, 9b und 12 können auch erlassen werden, soweit ein Rechtsakt nach § 1 Absatz 2 Nummer 1 bis 3 die Mitgliedstaaten bei außergewöhnlichen Maßnahmen ermächtigt, solche unter Verwendung nationaler Finanzmittel zu gewähren und die innerstaatlichen haushaltsrechtlichen Voraussetzungen hierfür erfüllt sind.
 
@@ -353,8 +336,7 @@ geregelt werden. Der Anspruch auf Teilnahme an einer außergewöhnlichen Maßnah
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 9e – Vorbehalt der Nachprüfung
+# § 9e – Vorbehalt der Nachprüfung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung der Bestimmungen über die Einhaltung anderweitiger Verpflichtungen, über Ausfuhrerstattungen oder über außergewöhnliche Maßnahmen zur Marktstützung erforderlich ist,
 
@@ -372,8 +354,7 @@ Es bedürfen Rechtsverordnungen nach Satz 1
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 10 – Rücknahme, Widerruf, Erstattung
+# § 10 – Rücknahme, Widerruf, Erstattung
 
 (1) Rechtswidrige begünstigende Bescheide in den Fällen der §§ 6, 8 und 9b, jeweils auch in Verbindung mit den §§ 9c und 9d, sind, auch nachdem sie unanfechtbar geworden sind, zurückzunehmen; § 48 Absatz 2 bis 4 und § 49a Absatz 1 Satz 1 und Absatz 2 des Verwaltungsverfahrensgesetzes sind anzuwenden. Soweit Regelungen im Sinne des § 1 Absatz 2 dies erfordern, können in Rechtsverordnungen nach den §§ 6, 8 und 9b, jeweils auch in Verbindung mit den §§ 9c und 9d, zur Erstattung von zu Unrecht gewährten rechtlich erheblichen Vorteilen auch Dritte verpflichtet werden, die Marktordnungswaren erzeugen, gewinnen, be- oder verarbeiten, verbringen, ein- oder ausführen, besitzen oder besessen haben oder unmittelbar oder mittelbar am Geschäftsverkehr mit solchen Waren teilnehmen oder teilgenommen haben.
 
@@ -383,15 +364,13 @@ Es bedürfen Rechtsverordnungen nach Satz 1
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 11 – Beweislast
+# § 11 – Beweislast
 
 Der Begünstigte trägt, soweit nicht Regelungen im Sinne des § 1 Absatz 2 etwas anderes vorsehen, auch nach Empfang eines rechtlich erheblichen Vorteils nach § 6, § 8 oder § 9b, jeweils auch in Verbindung mit den §§ 9c und 9d, in dem Verantwortungsbereich, der nicht zum Bereich der für die Gewährung des rechtlich erheblichen Vorteils zuständigen Stelle gehört, die Beweislast für das Vorliegen der Voraussetzungen für die Gewährung des rechtlich erheblichen Vorteils bis zum Ablauf des vierten Jahres, das dem Kalenderjahr der Gewährung folgt.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 12 – Abgaben
+# § 12 – Abgaben
 
 (1) Auf Abgaben zu Marktordnungszwecken, die nach Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 hinsichtlich Marktordnungswaren erhoben werden, sind die Vorschriften der Abgabenordnung mit Ausnahme des § 222 Satz 3 und 4 entsprechend anzuwenden, sofern nicht durch dieses Gesetz oder durch Rechtsverordnung auf Grund dieses Gesetzes eine von diesen Vorschriften abweichende Regelung getroffen ist. Die Bundesfinanzbehörden sind befugt, dem Bundesministerium und der Marktordnungsstelle Auskünfte über Umstände zu erteilen, die im Zusammenhang mit der Erhebung dieser Abgaben stehen; § 7 Absatz 4 Satz 2 gilt entsprechend.
 
@@ -405,8 +384,7 @@ a) Voraussetzungen dieser Abgaben und
 
 b) die Höhe dieser Abgaben einschließlich der Einzelheiten der Berechnung der Abgabenhöhe, insbesondere unter Berücksichtigung von Referenzzeiträumen,
 
-soweit sie nach den Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 bestimmt, bestimmbar oder nach oben begrenzt sind.  
-  
+soweit sie nach den Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 bestimmt, bestimmbar oder nach oben begrenzt sind.   
 Rechtsverordnungen nach Satz 1 bedürfen jedoch der Zustimmung des Bundesrates, soweit der eigentlichen Abgabenerhebung ein selbständiges Verwaltungsverfahren vorgeschaltet ist, das von den Ländern durchgeführt wird. § 6 Absatz 4 Satz 2 gilt entsprechend.
 
 (3) In Rechtsverordnungen nach Absatz 2 Satz 1 können Abnehmer von Marktordnungswaren, die Abgaben zu Marktordnungszwecken unterliegen, zum Einbehalten und Abführen der Abgaben sowie zum Erstatten zu viel einbehaltener Abgaben verpflichtet werden, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 erforderlich ist. Dabei kann vorgeschrieben werden, dass der so Verpflichtete (Abführungspflichtiger) von den Bundesfinanzbehörden für die Abgaben in Anspruch genommen werden kann,
@@ -427,8 +405,7 @@ Rechtsverordnungen nach Satz 1 bedürfen jedoch der Zustimmung des Bundesrates, 
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 13 – Sicherheiten
+# § 13 – Sicherheiten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit Regelungen im Sinne des § 1 Absatz 2 hinsichtlich Marktordnungswaren oder Direktzahlungen oder auf Grund dieses Gesetzes erlassene Rechtsverordnungen dies erfordern, Vorschriften zu erlassen über Art, Höhe und Verfahren bei Sicherheiten, Kautionen und Garantien (Sicherheiten), insbesondere über Gestellung, Verwaltung, Freigabe und Verfall. § 6 Absatz 4 und 5 gilt entsprechend. Sind für die Freigabe die Entnahme von Mustern und Proben und Warenuntersuchungen erforderlich, gilt § 17 entsprechend mit der Maßgabe, dass Begünstigter derjenige ist, der die Sicherheit gestellt hat.
 
@@ -436,8 +413,7 @@ Rechtsverordnungen nach Satz 1 bedürfen jedoch der Zustimmung des Bundesrates, 
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 14 – Zinsen
+# § 14 – Zinsen
 
 (1) Ansprüche auf Erstattung von Vergünstigungen sowie auf Beträge, die wegen Nichteinhaltung anderweitiger Verpflichtungen zu erstatten sind, sind vom Zeitpunkt ihrer Entstehung an mit fünf Prozentpunkten über dem Basiszinssatz zu verzinsen. Werden Abgaben nicht rechtzeitig gezahlt, sind sie vom Fälligkeitstag an mit fünf Prozentpunkten über dem Basiszinssatz zu verzinsen. Satz 1 oder 2 ist nicht anzuwenden, soweit Regelungen im Sinne des § 1 Absatz 2 etwas anderes vorsehen.
 
@@ -445,22 +421,19 @@ Rechtsverordnungen nach Satz 1 bedürfen jedoch der Zustimmung des Bundesrates, 
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 15 – Überwachung
+# § 15 – Überwachung
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung der Einhaltung der Regelungen im Sinne des § 1 Absatz 2 hinsichtlich Marktordnungswaren oder Direktzahlungen sowie der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich sind. § 6 Absatz 4 gilt entsprechend.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 16 – Duldungs- und Mitwirkungspflichten
+# § 16 – Duldungs- und Mitwirkungspflichten
 
 In Rechtsverordnungen nach § 15 können Meldepflichten, Aufzeichnungspflichten, Pflichten zur Aufbewahrung von geschäftlichen Unterlagen, Pflichten zu Auskünften, zur Duldung von Besichtigungen der Geschäftsräume und Betriebsstätten, Unterstützungspflichten, Pflichten zur Verwendung von Begleit- und Schlussscheinen sowie eine amtliche Überwachung der zweck- und fristgerechten Verwendung vorgeschrieben werden.
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 17 – Entnahme von Proben; Erhebung von Gebühren und Auslagen durch Behörden des Bundes
+# § 17 – Entnahme von Proben; Erhebung von Gebühren und Auslagen durch Behörden des Bundes
 
 (1) Wer eine Vergünstigung in Anspruch nimmt oder an einer Intervention teilnimmt (Begünstigter), hat, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 oder von Rechtsverordnungen auf Grund dieses Gesetzes erforderlich ist, in dem notwendigen Umfang die Entnahme von Mustern und Proben ohne Entschädigung zu dulden. Das Gleiche gilt für denjenigen, der, ohne Begünstigter zu sein,
 
@@ -490,8 +463,7 @@ soweit dies zur Überwachung der in § 1 Absatz 2 genannten Regelungen erforderl
 
 (+++ Abschn. 2 (§§ 6 bis 17): Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 18 – Lizenzen, Erlaubnisse, Dokumente, Genehmigungen
+# § 18 – Lizenzen, Erlaubnisse, Dokumente, Genehmigungen
 
 (1) Lizenzen sowie Erlaubnisse und Genehmigungen im Sinne des § 27 Nummer 2 Buchstabe b werden von der Marktordnungsstelle erteilt.
 
@@ -499,13 +471,11 @@ soweit dies zur Überwachung der in § 1 Absatz 2 genannten Regelungen erforderl
 
 (3) (weggefallen)
 
-
-## § 19 – Vorausfestsetzungen
+# § 19 – Vorausfestsetzungen
 
 Zuständig für die Vorausfestsetzung von Ausfuhrabgaben, Ausfuhrerstattungen und Beträgen, die zum Zwecke des Währungsausgleichs gewährt werden, in Bescheiden nach § 18 ist die Marktordnungsstelle.
 
-
-## § 20 – Sicherheit
+# § 20 – Sicherheit
 
 (1) Ist die Erteilung der in § 18 genannten Bescheide von der Stellung einer Sicherheit abhängig, so ist die Sicherheit durch Hinterlegung einer Geldsumme zugunsten oder durch selbstschuldnerische Bürgschaft gegenüber der Bundesrepublik Deutschland zu leisten. Der Bürge muss zur geschäftsmäßigen Übernahme von Bürgschaften im Geltungsbereich dieses Gesetzes berechtigt sein. Die Sicherheit wird von der Marktordnungsstelle verwaltet.
 
@@ -513,8 +483,7 @@ Zuständig für die Vorausfestsetzung von Ausfuhrabgaben, Ausfuhrerstattungen un
 
 (3) (weggefallen)
 
-
-## § 21 – Ermächtigungen
+# § 21 – Ermächtigungen
 
 Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 erforderlich ist, Vorschriften zu erlassen über das Verfahren bei
 
@@ -528,8 +497,7 @@ Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministeriu
 
 sowie über die Voraussetzungen und den Umfang dieser Maßnahmen, soweit sie nach den Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 bestimmt oder bestimmbar sind. Hinsichtlich des Satzes 1 Nummer 2 gilt § 13 Absatz 1 Satz 3 entsprechend.
 
-
-## § 22 – Mengenkontingente
+# § 22 – Mengenkontingente
 
 (1) Soweit Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 vorsehen, dass Genehmigungen im Sinne des § 18 Absatz 1 oder 2 insgesamt nur bis zu einer bestimmten Menge oder einem bestimmten Wert erteilt werden dürfen, sind diese so zu erteilen, dass die zugelassenen Mengen und Werte volkswirtschaftlich zweckmäßig ausgenutzt werden können. Dabei ist der Versorgungslage, der Wirtschaftlichkeit dieser Geschäfte und der Pflege bestehender Handelsbeziehungen Rechnung zu tragen. Im Rahmen dieser Grundsätze kann die Erteilung dieser Genehmigungen von sachlichen und persönlichen Voraussetzungen abhängig gemacht werden. Unternehmen, die durch die Beschränkung der Geschäfte in der Ausübung ihres Gewerbes besonders betroffen sind, können bevorzugt berücksichtigt werden.
 
@@ -539,8 +507,7 @@ sowie über die Voraussetzungen und den Umfang dieser Maßnahmen, soweit sie nac
 
 2. die Maßstäbe und Merkmale, nach denen die bereitgestellten Warenmengen oder -werte auf die Bewerber verteilt werden.
 
-
-## § 23 – Allgemeine Vorschriften
+# § 23 – Allgemeine Vorschriften
 
 (1) Soweit sich aus unmittelbar geltenden Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 nichts anderes ergibt oder in diesem Gesetz oder in Rechtsverordnungen auf Grund dieses Gesetzes nichts anderes bestimmt ist,
 
@@ -558,8 +525,7 @@ sowie über die Voraussetzungen und den Umfang dieser Maßnahmen, soweit sie nac
 
 (5) Werden Waren, die auf Grund ihrer besonderen Zweckbestimmung ganz oder teilweise von der Ausfuhrabgabe befreit worden sind, nicht dieser Bestimmung zugeführt, entsteht die Abgabeschuld in dem Zeitpunkt, in dem die Waren einer anderen Bestimmung zugeführt werden. Dieser Zeitpunkt ist maßgebend für die Menge, die Beschaffenheit und den Wert sowie für die Anwendung der für die Erhebung der Ausfuhrabgabe geltenden Vorschriften.
 
-
-## § 24 – Ermächtigungen
+# § 24 – Ermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 hinsichtlich Marktordnungswaren erforderlich ist, Vorschriften zu erlassen über die Voraussetzungen und die Höhe von Ausfuhrabgaben, soweit diese nach den Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 bestimmt, bestimmbar oder nach oben begrenzt sind.
 
@@ -575,18 +541,15 @@ b) bei Waren, die in das Zolllagerverfahren oder in die aktive oder passive Vere
 
 (3) § 14 Absatz 1 und die §§ 15 und 16 gelten für Ausfuhrabgaben entsprechend mit der Maßgabe, dass die Rechtsverordnungen vom Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium erlassen werden.
 
-
-## § 25 – Befugnis zur Auskunftserteilung
+# § 25 – Befugnis zur Auskunftserteilung
 
 Die Behörden der Bundesfinanzverwaltung sind befugt, dem Bundesministerium und der Marktordnungsstelle Auskünfte über Umstände zu erteilen, die im Zusammenhang stehen mit der Erhebung von Ausfuhrabgaben.
 
-
-## § 26 – Abgaben im innergemeinschaftlichen Handel
+# § 26 – Abgaben im innergemeinschaftlichen Handel
 
 Die Vorschriften dieses Gesetzes, die sich ausschließlich oder auch auf Ausfuhrabgaben beziehen, gelten sinngemäß für Abgaben, die beim Verbringen von Waren aus dem Geltungsbereich dieses Gesetzes nach anderen Teilen des Zollgebiets der Gemeinschaft erhoben werden.
 
-
-## § 27 – Zuständigkeiten und Durchführung
+# § 27 – Zuständigkeiten und Durchführung
 
 Für Maßnahmen, die in Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 bei Marktstörungen oder drohenden Marktstörungen vorgesehen sind, gelten, sofern die Maßnahmen nicht von Organen der Europäischen Union unmittelbar getroffen werden, für Marktordnungswaren die folgenden Vorschriften:
 
@@ -604,8 +567,7 @@ b) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministe
 
 3. Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur Sicherung von durch die Europäische Union festzusetzenden Ausfuhrabgaben Vorschriften zu erlassen über die Voraussetzungen, die Höhe und das Verfahren der Hinterlegung eines Betrages oder der Stellung einer Sicherheit; der zu hinterlegende Betrag und die Sicherheit können bis zu einer Höhe bemessen werden, bei der eine entsprechende Ausfuhrabgabe geeignet ist, die Marktstörung oder die Gefahr einer Marktstörung zu beheben.
 
-
-## § 28 – Überwachung des Fracht-, Post- und Reiseverkehrs
+# § 28 – Überwachung des Fracht-, Post- und Reiseverkehrs
 
 § 27 des Außenwirtschaftsgesetzes gilt für Marktordnungswaren hinsichtlich des Verbringens in dritte Länder und aus dritten Ländern mit der Maßgabe, dass
 
@@ -619,11 +581,9 @@ b) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministe
 
 5. § 27 Absatz 5 des Außenwirtschaftsgesetzes sich auch auf die Überwachung der Einhaltung der unmittelbar geltenden Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über die Einfuhr und Ausfuhr sowie über den sonstigen Waren- und Dienstleistungsverkehr mit dritten Ländern hinsichtlich Marktordnungswaren bezieht, soweit es sich um Nichtgemeinschaftswaren handelt.
 
+# §§ 29 und 30 – (weggefallen)
 
-## §§ 29 und 30 – (weggefallen)
-
-
-## § 31 – Zuständigkeit für die Durchführung
+# § 31 – Zuständigkeit für die Durchführung
 
 (1) Zuständig ist für die Durchführung von
 
@@ -641,8 +601,7 @@ bestimmt werden. Satz 1 gilt nicht, soweit Regelungen im Sinne des § 1 Absatz 2
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Marktordnungsstelle als zuständige Stelle für die Durchführung von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 hinsichtlich Marktordnungswaren zu bestimmen. § 6 Absatz 4 Satz 2 gilt entsprechend.
 
-
-## § 32 – Meldepflichten
+# § 32 – Meldepflichten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 erforderlich ist,
 
@@ -652,8 +611,7 @@ bestimmt werden. Satz 1 gilt nicht, soweit Regelungen im Sinne des § 1 Absatz 2
 
 (2) In Rechtsverordnungen nach Absatz 1 können insbesondere die Häufigkeit sowie Inhalt und Form der Meldungen und die Art der Übermittlung geregelt werden.
 
-
-## § 33 – Allgemeine Prüfungsrechte und Auskunftspflichten
+# § 33 – Allgemeine Prüfungsrechte und Auskunftspflichten
 
 (1) Das Bundesministerium, der Bundesrechnungshof, das Hauptzollamt, die Marktordnungsstelle und, wenn die Länder Regelungen im Sinne des § 1 Absatz 2 durchführen oder an der Durchführung dieser Regelungen mitwirken, die nach Landesrecht zuständigen Behörden können Auskünfte verlangen, soweit dies erforderlich ist, um die Einhaltung von unmittelbar geltenden Regelungen im Sinne des § 1 Absatz 2 hinsichtlich Marktordnungswaren oder Direktzahlungen sowie die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu überwachen. Zu diesem Zweck können sie verlangen, dass ihnen die geschäftlichen Unterlagen vorgelegt werden. Sie können zu dem genannten Zweck auch Prüfungen bei den Auskunftspflichtigen vornehmen. Zur Vornahme der Prüfungen können die in Satz 1 genannten Stellen, die Mitglieder ihrer Organe und ihre Bediensteten und Beauftragten Grundstücke, Geschäftsräume und zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung auch Wohnräume des Auskunftspflichtigen betreten; das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschränkt.
 
@@ -665,8 +623,7 @@ bestimmt werden. Satz 1 gilt nicht, soweit Regelungen im Sinne des § 1 Absatz 2
 
 (+++ § 33: Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 34 – Öffentlich-rechtliche Streitigkeiten
+# § 34 – Öffentlich-rechtliche Streitigkeiten
 
 (1) In öffentlich-rechtlichen Streitigkeiten über Maßnahmen zur Durchführung einer gemeinsamen Marktorganisation ist der Finanzrechtsweg gegeben, soweit eine Bundesfinanzbehörde für die Maßnahme zuständig ist. Er ist auch gegeben bei Entscheidungen der Marktordnungsstelle im Falle des § 19. Soweit eine Rechtsstreitigkeit Entscheidungen nach Satz 2 betrifft, kann das Bundesministerium dem Verfahren über die Revision beitreten; § 122 Absatz 2 Satz 3 und 4 der Finanzgerichtsordnung gilt entsprechend. § 139 Absatz 2 der Finanzgerichtsordnung findet auf Verfahren nach den Sätzen 1 und 2 keine Anwendung. Für das außergerichtliche Vorverfahren gelten die Vorschriften der §§ 347 bis 368 der Abgabenordnung sinngemäß mit der Maßgabe, dass soweit eine andere Behörde als eine Finanzbehörde zuständig ist, die andere Behörde an die Stelle der Finanzbehörde tritt.
 
@@ -678,8 +635,7 @@ bestimmt werden. Satz 1 gilt nicht, soweit Regelungen im Sinne des § 1 Absatz 2
 
 (5) Für die Vollstreckung öffentlich-rechtlicher Geldforderungen, für die nach Absatz 1 Satz 1 der Finanzrechtsweg begründet ist, sind die §§ 2 bis 5 und 19 des Verwaltungs-Vollstreckungsgesetzes anzuwenden.
 
-
-## § 34a – Betriebsdaten
+# § 34a – Betriebsdaten
 
 (1) Betriebsdaten sind die in der Anlage bezeichneten Daten,
 
@@ -697,13 +653,11 @@ erhoben oder übermittelt werden oder
 
 (2) Betriebsdaten, auf die nach § 12 Absatz 1 Satz 1 die Abgabenordnung anwendbar ist, sind von Absatz 1 ausgenommen.
 
-
-## § 34b – Verarbeitung von Daten durch die zuständige Behörde
+# § 34b – Verarbeitung von Daten durch die zuständige Behörde
 
 Die nach diesem Gesetz oder auf Grund des § 31 Absatz 2 oder 3 zuständige Behörde oder die nach Landesrecht zuständige Behörde verarbeitet in ihrem Zuständigkeitsbereich Betriebsdaten nach § 34a Absatz 1 zum Zwecke der Durchführung und Überwachung von Vorschriften im Sinne des § 34a Absatz 1 Nummer 1.
 
-
-## § 34c – Übermittlung von Daten
+# § 34c – Übermittlung von Daten
 
 (1) Die nach diesem Gesetz oder auf Grund des § 31 Absatz 2 oder 3 zuständige Behörde oder die nach Landesrecht zuständige Behörde übermittelt Betriebsdaten nach § 34a Absatz 1 zum Zwecke der Rechts- und Fachaufsicht an die hierfür zuständige Behörde, soweit dies in Vorschriften im Sinne des § 34a Absatz 1 Nummer 1 vorgesehen ist.
 
@@ -711,20 +665,17 @@ Die nach diesem Gesetz oder auf Grund des § 31 Absatz 2 oder 3 zuständige Beh�
 
 (3) Hat ein Betrieb mehrere Standorte, so übermittelt die nach diesem Gesetz oder auf Grund des § 31 Absatz 2 oder 3 zuständige Behörde oder die nach Landesrecht zuständige Behörde der für die weiteren Standorte zuständigen Behörde Betriebsdaten nach § 34a Absatz 1 zum Zwecke der Durchführung und Überwachung von Vorschriften im Sinne des § 34a Absatz 1 Nummer 1.
 
-
-## § 34d – Löschungsfristen
+# § 34d – Löschungsfristen
 
 (1) Die Betriebsdaten sind durch die die Daten verarbeitenden Behörden unverzüglich zu löschen, sobald die Daten zur Erfüllung des Zwecks, zu dem sie verarbeitet worden sind, nicht mehr erforderlich sind, spätestens jedoch nach Ablauf des zehnten Jahres, das auf das Jahr folgt, in dem die Daten erhoben worden sind.
 
 (2) An die Stelle der Löschung tritt die Einschränkung der Verarbeitung, soweit einer Löschung der Daten gesetzliche Aufbewahrungsfristen entgegenstehen.
 
-
-## § 34e – Verarbeitung weiterer Daten bei außergewöhnlichen Maßnahmen
+# § 34e – Verarbeitung weiterer Daten bei außergewöhnlichen Maßnahmen
 
 Die zuständigen Zahlstellen im Sinne des Integrierten Verwaltungs- und Kontrollsystems für Maßnahmen der Gemeinsamen Agrarpolitik übermitteln der Marktordnungsstelle zur Durchführung und Überwachung außergewöhnlicher Maßnahmen Betriebsdaten im Sinne des § 2 des InVeKoS-Daten-Gesetzes, die in Vorschriften im Sinne des § 34a Absatz 1 Nummer 1 vorgesehen sind. Die Marktordnungsstelle verarbeitet die nach Satz 1 übermittelten Daten zum Zwecke der Durchführung und Überwachung außergewöhnlicher Maßnahmen. § 34d gilt entsprechend.
 
-
-## § 34f – Ermächtigungen
+# § 34f – Ermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Verwaltungsverfahren und technische und organisatorische Maßnahmen bei der Datenverarbeitung zu regeln, um Vorschriften im Sinne des § 34a Absatz 1 Nummer 1 sachgerecht durchzuführen.
 
@@ -732,13 +683,11 @@ Die zuständigen Zahlstellen im Sinne des Integrierten Verwaltungs- und Kontroll
 
 (3) Rechtsverordnungen nach den Absätzen 1 und 2 können ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 erforderlich ist. Sie treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft; ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-
-## § 35 – Geltungsbereich der Straf- und Bußgeldvorschriften der Abgabenordnung
+# § 35 – Geltungsbereich der Straf- und Bußgeldvorschriften der Abgabenordnung
 
 Die nach § 12 Absatz 1 Satz 1 anzuwendenden Straf- und Bußgeldvorschriften der Abgabenordnung sowie die auf Zölle für Marktordnungswaren und Ausfuhrabgaben anzuwendenden Straf- und Bußgeldvorschriften der Abgabenordnung gelten, unabhängig von dem Recht des Tatortes, auch für Taten, die außerhalb des Geltungsbereichs dieses Gesetzes begangen werden.
 
-
-## § 36 – Bußgeldvorschriften
+# § 36 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig unrichtige oder unvollständige Angaben tatsächlicher Art macht oder benutzt, um für sich oder einen anderen eine Lizenz, Erlaubnis, Genehmigung, Zulassung, Anerkennung, Bewilligung oder Bescheinigung zu erlangen, die nach Regelungen im Sinne des § 1 Absatz 2 hinsichtlich Marktordnungswaren oder Direktzahlungen oder nach Rechtsverordnungen auf Grund dieses Gesetzes erforderlich sind.
 
@@ -796,8 +745,7 @@ geahndet werden.
 
 (+++ § 36: Zur Anwendung vgl. § 2 Nr. 1 LwErzgSchulproG +++)
 
-
-## § 37 – Befugnisse der Zollbehörden
+# § 37 – Befugnisse der Zollbehörden
 
 (1) Die Staatsanwaltschaft kann bei
 
@@ -815,8 +763,7 @@ Ermittlungen (§ 161 Absatz 1 Satz 1 Strafprozessordnung) auch durch die Hauptzo
 
 (4) In diesen Fällen können die Hauptzollämter und Zollfahndungsämter sowie deren Beamte im Bußgeldverfahren Beschlagnahmen, Durchsuchungen, Untersuchungen und sonstige Maßnahmen nach den für Ermittlungspersonen der Staatsanwaltschaft geltenden Vorschriften der Strafprozessordnung vornehmen; unter den Voraussetzungen des § 111p Absatz 2 Satz 2 der Strafprozessordnung können auch die Hauptzollämter die Notveräußerung anordnen.
 
-
-## § 38 – Straf- und Bußgeldverfahren
+# § 38 – Straf- und Bußgeldverfahren
 
 (1) Soweit für Straftaten der in § 37 Absatz 1 Satz 1 bezeichneten Art das Amtsgericht sachlich zuständig ist, ist örtlich zuständig das Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat. Die Landesregierung kann durch Rechtsverordnung die örtliche Zuständigkeit des Amtsgerichts abweichend regeln, soweit dies mit Rücksicht auf die Wirtschafts- oder Verkehrsverhältnisse, den Aufbau der Verwaltung oder andere örtliche Bedürfnisse zweckmäßig erscheint. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen.
 
@@ -836,27 +783,23 @@ Im Falle einer Bestimmung nach Satz 3 Nummer 1 sind die Landesregierungen ermäc
 
 (5) Die Verwaltungsbehörde nach Absatz 3 Satz 1 oder 2 gibt in den Fällen, in denen die Länder Regelungen im Sinne des § 1 Absatz 2 oder Maßnahmen nach diesem Gesetz oder nach Rechtsverordnungen auf Grund dieses Gesetzes durchführen, vor Abschluss eines auf diesem Gesetz beruhenden Verfahrens der zuständigen Landesbehörde Gelegenheit zur Stellungnahme.
 
-
-## § 39 – Gewährung von Ausgleichsbeträgen
+# § 39 – Gewährung von Ausgleichsbeträgen
 
 Ausgleichsbeträge, die im Falle des Beitritts neuer Mitgliedstaaten zur Europäischen Gemeinschaft oder Europäischen Union auf Grund der Beitrittsvereinbarungen im Handel der Europäischen Gemeinschaft oder der Europäischen Union in ihrer bisherigen Zusammensetzung mit dem jeweiligen neuen Mitgliedstaat zu gewähren sind oder gewährt werden können, stehen bei der Anwendung dieses Gesetzes den Ausfuhrerstattungen gleich, soweit sich aus Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 nichts anderes ergibt.
 
-
-## § 40 – Besondere Maßnahmen bei wirtschaftlichen Schwierigkeiten
+# § 40 – Besondere Maßnahmen bei wirtschaftlichen Schwierigkeiten
 
 (1) Auf Maßnahmen, die im Rahmen der Beitrittsakte oder der Protokolle zum Beitrittsvertrag zur Erleichterung oder Beseitigung von wirtschaftlichen Schwierigkeiten vorgesehen sind, ist, soweit die Schwierigkeiten die Durchführung, die Überleitung oder Anpassung der gemeinsamen Marktorganisationen nach Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 und der in Ergänzung oder zur Sicherung dieser gemeinsamen Marktorganisationen getroffenen Regelungen im Sinne des § 1 Absatz 2 Nummer 1 bis 3 betreffen und sich aus Regelungen nach § 1 Absatz 2 Nummer 1 bis 3 nichts anderes ergibt, dieses Gesetz mit der Maßgabe anzuwenden, dass die die Ein- und Ausfuhr betreffenden Vorschriften, insbesondere über Schutzmaßnahmen, sinngemäß auch für den Handel zwischen den ursprünglichen und den neuen Mitgliedstaaten der Europäischen Gemeinschaft oder der Europäischen Union gelten.
 
 (2) Im Übrigen kann das Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies zur Durchführung der in Absatz 1 genannten Maßnahmen erforderlich ist und die in Absatz 1 genannten Vorschriften nicht ausreichen, Vorschriften erlassen über die Vermarktung, Preise, Produktions- und Verwendungsbeschränkungen sowie über ähnliche Maßnahmen, soweit deren Voraussetzungen und Umfang nach den auf Grund der Beitrittsakte oder der Protokolle zum Beitrittsvertrag erlassenen Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union bestimmt, bestimmbar oder begrenzt sind. In Rechtsverordnungen nach Satz 1 kann die Marktordnungsstelle oder die Bundesfinanzverwaltung als für die Durchführung zuständige Stelle bestimmt werden.
 
-
-## § 41 – Rechtsverordnungen
+# § 41 – Rechtsverordnungen
 
 (1) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass von Rechtsverordnungen des Bundes fortgefallen sind, können Vorschriften, die auf solche Ermächtigungen gestützt sind, durch Rechtsverordnung des Bundesministeriums, die nicht der Zustimmung des Bundesrates bedarf, aufgehoben werden.
 
 (2) Soweit durch Änderungen dieses Gesetzes oder Änderungen von auf Grund dieses Gesetzes erlassenen Rechtsverordnungen Ermächtigungen zum Erlass von Rechtsverordnungen der Länder fortgefallen sind, werden die Landesregierungen ermächtigt, Vorschriften, die auf solche Ermächtigungen gestützt sind, aufzuheben. § 6 Absatz 5 Satz 3 gilt entsprechend.
 
-
-## § 42 – Bestimmungen zum Verwaltungsverfahren
+# § 42 – Bestimmungen zum Verwaltungsverfahren
 
 Für Vorschriften des Verwaltungsverfahrens in Rechtsverordnungen auf Grund
 
@@ -874,13 +817,11 @@ dienen,
 
 kann in der jeweiligen Rechtsverordnung mit Zustimmung des Bundesrates vorgeschrieben werden, dass von diesen Vorschriften durch Landesrecht nicht abgewichen werden kann. Die Vorschriften, von denen durch Landesrecht nicht abgewichen werden kann, sind dabei zu nennen. § 6 Absatz 4 Satz 2 ist im Falle einer Rechtsverordnung nach Satz 1 nicht anzuwenden.
 
-
-## § 43 – Verkündung von Rechtsverordnungen
+# § 43 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 44 – Übergangsregelungen
+# § 44 – Übergangsregelungen
 
 (1) Bis zum Ablauf des 30. April 2016 ist § 4 in der am 22. Januar 2016 geltenden Fassung weiter anzuwenden.
 
@@ -892,13 +833,11 @@ Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des V
 
 (5) Für Rechtsverordnungen, die vor dem 23. Januar 2016 auf Grund dieses Gesetzes erlassen worden sind, gilt bis zu ihrer erstmaligen Änderung nach dem 23. Januar 2016 die Anlage unmittelbar.
 
-
-## Anlage – (zu § 34a Absatz 1 und § 34f Absatz 2)
+# Anlage – (zu § 34a Absatz 1 und § 34f Absatz 2)
 
 (Fundstelle: BGBl. I 2017, 3764)
 
-I.  
-Allgemeine Angaben im Zusammenhang mit Maßnahmen nach dem Marktorganisationsgesetz
+I. Allgemeine Angaben im Zusammenhang mit Maßnahmen nach dem Marktorganisationsgesetz
 
 1. Name und Vorname oder Firma,
 

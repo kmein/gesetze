@@ -1,15 +1,11 @@
-# [AuslWBGDV 5] Fünfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Verwaltungsabgabe und Vorschußverpflichtung der Aussteller)
-
-Ausfertigungsdatum: 28.07.1953
-
+% Fünfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Verwaltungsabgabe und Vorschußverpflichtung der Aussteller)
+% Ausfertigungsdatum: 28.07.1953
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 58, 64, 65 des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Verwaltungsabgabe für das allgemeine Bereinigungsverfahren
+# § 1 – Verwaltungsabgabe für das allgemeine Bereinigungsverfahren
 
 (1) Die Aussteller von Auslandsbonds haben als Abschlag auf die Verwaltungsabgabe (§ 64 des Gesetzes) drei vom Tausend des vorläufigen Bemessungsbetrages (Absätze 2, 3) zu entrichten.
 
@@ -51,15 +47,13 @@ Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit Goldklausel verseh
 
 (5) Die Aussteller können die nach Absatz 1 entrichteten Beträge zurückfordern, soweit sie die nach der endgültigen Regelung zu zahlenden Beträge übersteigen oder Stücke nachträglich durch Sammelanerkennung anerkannt worden sind.
 
-
-## § 2 – Verwaltungsabgabe für das Verfahren der Sammelanerkennung
+# § 2 – Verwaltungsabgabe für das Verfahren der Sammelanerkennung
 
 (1) Für das Verfahren der Sammelanerkennung (§§ 13, 55 bis 58 des Gesetzes) haben die Aussteller als Verwaltungsabgabe eins vom Tausend des Nennbetrags der Stücke zu entrichten, deren Sammelanerkennung sie beantragen. Der Nennbetrag der Stücke ist nach § 1 Abs. 3 in Deutsche Mark umzurechnen.
 
 (2) Die Aussteller können die nach Absatz 1 entrichteten Beträge zurückfordern, soweit sie den Antrag auf Sammelanerkennung vor der Entscheidung des Bundesministers der Finanzen (§ 57 Abs. 1 des Gesetzes) zurückgenommen haben.
 
-
-## § 3 – Erhebung der Verwaltungsabgabe
+# § 3 – Erhebung der Verwaltungsabgabe
 
 (1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt für Wertpapierbereinigung gegen die Aussteller nach dem Inkrafttreten dieser Verordnung, im Falle des § 2 nach Stellung des Antrags auf Sammelanerkennung einen Zahlungsbescheid; ist ein Antrag auf Sammelanerkennung ohne Angabe von Stücknummern gestellt, so ist der Zahlungsbescheid zu erlassen, sobald der Aussteller die Stücke bezeichnet hat, deren Sammelanerkennung er beantragt. Für die Zustellung des Zahlungsbescheids gelten die Vorschriften des Verwaltungszustellungsgesetzes.
 
@@ -71,36 +65,30 @@ Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit Goldklausel verseh
 
 (+++ § 3 Abs. 1 Satz 1, Abs. 3 u. Abs. 4 Satz 1 Halbsatz 2: Vgl. V v. 8.5.1964 4139-1-7 +++)
 
-
-## § 4 – Befreiungen
+# § 4 – Befreiungen
 
 Der Bund, die Länder sowie die Konversionskasse für deutsche Auslandsschulden sind von den Zahlungen nach §§ 1 und 2 befreit.
 
-
-## § 5 – Vorschußverpflichtung
+# § 5 – Vorschußverpflichtung
 
 (1) Auf Verlangen der zuständigen Auslandsbevollmächtigten haben die Aussteller von Auslandsbonds auf die Zahlungen, die von den Auslandsbevollmächtigten nach § 63 Abs. 5 Satz 1, Abs. 6 des Gesetzes für ihre Rechnung zu leisten sind, Vorschüsse in Höhe von fünf vom Tausend des vorläufigen Bemessungsbetrages (§ 1 Abs. 2, 3) zu entrichten.
 
 (2) Die Aussteller können die nach Absatz 1 entrichteten Beträge zurückfordern, soweit sie die nach § 63 Abs. 5 Satz 1, Abs. 6 für ihre Rechnung geleisteten Zahlungen übersteigen und sobald feststeht, daß eine weitere Inanspruchnahme auf Erstattung von Aufwendungen nicht mehr zu erwarten ist.
 
-
-## § 6 – Erhebung der Vorschüsse
+# § 6 – Erhebung der Vorschüsse
 
 (1) Für die Erhebung der Vorschüsse gilt § 3 Abs. 1, 3 und 4 sinngemäß, soweit er sich nicht auf das Verfahren der Sammelanerkennung bezieht.
 
 (2) Die Vorschüsse sind innerhalb eines Monats nach Zustellung des Zahlungsbescheids an die zuständigen Auslandsbevollmächtigten zu zahlen.
 
-
-## § 7 – Geltung der Abgabenordnung
+# § 7 – Geltung der Abgabenordnung
 
 Die Allgemeinen Vorschriften des Zweiten Teils der Abgabenordnung gelten sinngemäß, soweit nichts anderes bestimmt ist.
 
-
-## § 8 – Land Berlin
+# § 8 – Land Berlin
 
 Nach § 14 des Gesetzes über die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 78 des Gesetzes gilt diese Rechtsverordnung auch im Land Berlin.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

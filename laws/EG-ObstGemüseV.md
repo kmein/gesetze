@@ -1,20 +1,15 @@
-# [EG-ObstGemüseV] Verordnung über EU-Normen für Obst und Gemüse
-
-Ausfertigungsdatum: 10.06.2009
-
+% Verordnung über EU-Normen für Obst und Gemüse
+% Ausfertigungsdatum: 10.06.2009
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über Vermarktungsnormen für Obst und Gemüse.
 
-
-## § 2 – Befreiungen
+# § 2 – Befreiungen
 
 Äpfel und Birnen sind unter Berücksichtigung des Artikels 4 Absatz 3 der Durchführungsverordnung (EU) Nr. 543/2011 der Kommission vom 7. Juni 2011 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates für die Sektoren Obst und Gemüse und Verarbeitungserzeugnisse aus Obst und Gemüse (ABl. L 157 vom 15.6.2011, S. 1), unter den dort genannten Bedingungen von der Verpflichtung zur Einhaltung der speziellen Vermarktungsnormen befreit, sofern die Bedingungen der allgemeinen Vermarktungsnorm eingehalten werden.
 
-
-## § 3 – Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
+# § 3 – Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
 
 (1) Die Überwachung der Einhaltung der Vorschriften des Rates und der Kommission der Europäischen Gemeinschaft beim Verbringen von Obst und Gemüse sowie Verarbeitungserzeugnissen aus Obst und Gemüse
 
@@ -42,8 +37,7 @@ wird der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) übert
 
 (4) (weggefallen)
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 76 Absatz 3 erster Halbsatz der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) ein Erzeugnis feilhält, anbietet, liefert oder anderweitig vermarktet.
 
@@ -55,8 +49,7 @@ wird der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) übert
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 5 – Verwaltungsbehörde
+# § 5 – Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird in den Fällen
 
@@ -66,7 +59,6 @@ Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird
 
 auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen, soweit sie nach § 3 für die Überwachung zuständig ist.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

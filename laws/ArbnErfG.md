@@ -1,10 +1,7 @@
-# [ArbnErfG] Gesetz über Arbeitnehmererfindungen
-
-Ausfertigungsdatum: 25.07.1957
-
+% Gesetz über Arbeitnehmererfindungen
+% Ausfertigungsdatum: 25.07.1957
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 ERSTER ABSCHNITT
 
@@ -586,23 +583,19 @@ Inkrafttreten
 
 § 49
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diesem Gesetz unterliegen die Erfindungen und technischen Verbesserungsvorschläge von Arbeitnehmern im privaten und im öffentlichen Dienst, von Beamten und Soldaten.
 
-
-## § 2 – Erfindungen
+# § 2 – Erfindungen
 
 Erfindungen im Sinne dieses Gesetzes sind nur Erfindungen, die patent- oder gebrauchsmusterfähig sind.
 
-
-## § 3 – Technische Verbesserungsvorschläge
+# § 3 – Technische Verbesserungsvorschläge
 
 Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind Vorschläge für sonstige technische Neuerungen, die nicht patent- oder gebrauchsmusterfähig sind.
 
-
-## § 4 – Diensterfindungen und freie Erfindungen
+# § 4 – Diensterfindungen und freie Erfindungen
 
 (1) Erfindungen von Arbeitnehmern im Sinne dieses Gesetzes können gebundene oder freie Erfindungen sein.
 
@@ -616,8 +609,7 @@ Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind Vorschläge f�
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für Erfindungen von Beamten und Soldaten.
 
-
-## § 5 – Meldepflicht
+# § 5 – Meldepflicht
 
 (1) Der Arbeitnehmer, der eine Diensterfindung gemacht hat, ist verpflichtet, sie unverzüglich dem Arbeitgeber gesondert in Textform zu melden und hierbei kenntlich zu machen, daß es sich um die Meldung einer Erfindung handelt. Sind mehrere Arbeitnehmer an dem Zustandekommen der Erfindung beteiligt, so können sie die Meldung gemeinsam abgeben. Der Arbeitgeber hat den Zeitpunkt des Eingangs der Meldung dem Arbeitnehmer unverzüglich in Textform zu bestätigen.
 
@@ -625,44 +617,37 @@ Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind Vorschläge f�
 
 (3) Eine Meldung, die den Anforderungen des Absatzes 2 nicht entspricht, gilt als ordnungsgemäß, wenn der Arbeitgeber nicht innerhalb von zwei Monaten erklärt, daß und in welcher Hinsicht die Meldung einer Ergänzung bedarf. Er hat den Arbeitnehmer, soweit erforderlich, bei der Ergänzung der Meldung zu unterstützen.
 
-
-## § 6 – Inanspruchnahme
+# § 6 – Inanspruchnahme
 
 (1) Der Arbeitgeber kann eine Diensterfindung durch Erklärung gegenüber dem Arbeitnehmer in Anspruch nehmen.
 
 (2) Die Inanspruchnahme gilt als erklärt, wenn der Arbeitgeber die Diensterfindung nicht bis zum Ablauf von vier Monaten nach Eingang der ordnungsgemäßen Meldung (§ 5 Abs. 2 Satz 1 und 3) gegenüber dem Arbeitnehmer durch Erklärung in Textform freigibt.
 
-
-## § 7 – Wirkung der Inanspruchnahme
+# § 7 – Wirkung der Inanspruchnahme
 
 (1) Mit der Inanspruchnahme gehen alle vermögenswerten Rechte an der Diensterfindung auf den Arbeitgeber über.
 
 (2) Verfügungen, die der Arbeitnehmer über eine Diensterfindung vor der Inanspruchnahme getroffen hat, sind dem Arbeitgeber gegenüber unwirksam, soweit seine Rechte beeinträchtigt werden.
 
-
-## § 8 – Frei gewordene Diensterfindungen
+# § 8 – Frei gewordene Diensterfindungen
 
 Eine Diensterfindung wird frei, wenn der Arbeitgeber sie durch Erklärung in Textform freigibt. Über eine frei gewordene Diensterfindung kann der Arbeitnehmer ohne die Beschränkungen der §§ 18 und 19 verfügen.
 
-
-## § 9 – Vergütung bei Inanspruchnahme
+# § 9 – Vergütung bei Inanspruchnahme
 
 (1) Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald der Arbeitgeber die Diensterfindung in Anspruch genommen hat.
 
 (2) Für die Bemessung der Vergütung sind insbesondere die wirtschaftliche Verwertbarkeit der Diensterfindung, die Aufgaben und die Stellung des Arbeitnehmers im Betrieb sowie der Anteil des Betriebes an dem Zustandekommen der Diensterfindung maßgebend.
 
-
-## § 10 – (weggefallen)
+# § 10 – (weggefallen)
 
 \-
 
-
-## § 11 – Vergütungsrichtlinien
+# § 11 – Vergütungsrichtlinien
 
 Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer (§ 12 des Tarifvertragsgesetzes) Richtlinien über die Bemessung der Vergütung.
 
-
-## § 12 – Feststellung oder Festsetzung der Vergütung
+# § 12 – Feststellung oder Festsetzung der Vergütung
 
 (1) Die Art und Höhe der Vergütung soll in angemessener Frist nach Inanspruchnahme der Diensterfindung durch Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer festgestellt werden.
 
@@ -676,8 +661,7 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (6) Arbeitgeber und Arbeitnehmer können voneinander die Einwilligung in eine andere Regelung der Vergütung verlangen, wenn sich Umstände wesentlich ändern, die für die Feststellung oder Festsetzung der Vergütung maßgebend waren. Rückzahlung einer bereits geleisteten Vergütung kann nicht verlangt werden. Die Absätze 1 bis 5 sind nicht anzuwenden.
 
-
-## § 13 – Schutzrechtsanmeldung im Inland
+# § 13 – Schutzrechtsanmeldung im Inland
 
 (1) Der Arbeitgeber ist verpflichtet und allein berechtigt, eine gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts anzumelden. Eine patentfähige Diensterfindung hat er zur Erteilung eines Patents anzumelden, sofern nicht bei verständiger Würdigung der Verwertbarkeit der Erfindung der Gebrauchsmusterschutz zweckdienlicher erscheint. Die Anmeldung hat unverzüglich zu geschehen.
 
@@ -693,8 +677,7 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (4) Ist die Diensterfindung frei geworden, so ist nur der Arbeitnehmer berechtigt, sie zur Erteilung eines Schutzrechts anzumelden. Hatte der Arbeitgeber die Diensterfindung bereits zur Erteilung eines Schutzrechts angemeldet, so gehen die Rechte aus der Anmeldung auf den Arbeitnehmer über.
 
-
-## § 14 – Schutzrechtsanmeldung im Ausland
+# § 14 – Schutzrechtsanmeldung im Ausland
 
 (1) Nach Inanspruchnahme der Diensterfindung ist der Arbeitgeber berechtigt, diese auch im Ausland zur Erteilung von Schutzrechten anzumelden.
 
@@ -702,15 +685,13 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (3) Der Arbeitgeber kann sich gleichzeitig mit der Freigabe nach Absatz 2 ein nichtausschließliches Recht zur Benutzung der Diensterfindung in den betreffenden ausländischen Staaten gegen angemessene Vergütung vorbehalten und verlangen, daß der Arbeitnehmer bei der Verwertung der freigegebenen Erfindung in den betreffenden ausländischen Staaten die Verpflichtungen des Arbeitgebers aus den im Zeitpunkt der Freigabe bestehenden Verträgen über die Diensterfindung gegen angemessene Vergütung berücksichtigt.
 
-
-## § 15 – Gegenseitige Rechte und Pflichten beim Erwerb von Schutzrechten
+# § 15 – Gegenseitige Rechte und Pflichten beim Erwerb von Schutzrechten
 
 (1) Der Arbeitgeber hat dem Arbeitnehmer zugleich mit der Anmeldung der Diensterfindung zur Erteilung eines Schutzrechts Abschriften der Anmeldeunterlagen zu geben. Er hat ihn von dem Fortgang des Verfahrens zu unterrichten und ihm auf Verlangen Einsicht in den Schriftwechsel zu gewähren.
 
 (2) Der Arbeitnehmer hat den Arbeitgeber auf Verlangen beim Erwerb von Schutzrechten zu unterstützen und die erforderlichen Erklärungen abzugeben.
 
-
-## § 16 – Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts
+# § 16 – Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts
 
 (1) Wenn der Arbeitgeber vor Erfüllung des Anspruchs des Arbeitnehmers auf angemessene Vergütung die Anmeldung der Diensterfindung zur Erteilung eines Schutzrechts nicht weiterverfolgen oder das auf die Diensterfindung erteilte Schutzrecht nicht aufrechterhalten will, hat er dies dem Arbeitnehmer mitzuteilen und ihm auf dessen Verlangen und Kosten das Recht zu übertragen sowie die zur Wahrung des Rechts erforderlichen Unterlagen auszuhändigen.
 
@@ -718,8 +699,7 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (3) Gleichzeitig mit der Mitteilung nach Absatz 1 kann sich der Arbeitgeber ein nichtausschließliches Recht zur Benutzung der Diensterfindung gegen angemessene Vergütung vorbehalten.
 
-
-## § 17 – Betriebsgeheimnisse
+# § 17 – Betriebsgeheimnisse
 
 (1) Wenn berechtigte Belange des Betriebes es erfordern, eine gemeldete Diensterfindung nicht bekanntwerden zu lassen, kann der Arbeitgeber von der Erwirkung eines Schutzrechts absehen, sofern er die Schutzfähigkeit der Diensterfindung gegenüber dem Arbeitnehmer anerkennt.
 
@@ -727,8 +707,7 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (3) Bei der Bemessung der Vergütung für eine Erfindung nach Absatz 1 sind auch die wirtschaftlichen Nachteile zu berücksichtigen, die sich für den Arbeitnehmer daraus ergeben, daß auf die Diensterfindung kein Schutzrecht erteilt worden ist.
 
-
-## § 18 – Mitteilungspflicht
+# § 18 – Mitteilungspflicht
 
 (1) Der Arbeitnehmer, der während der Dauer des Arbeitsverhältnisses eine freie Erfindung gemacht hat, hat dies dem Arbeitgeber unverzüglich durch Erklärung in Textform mitzuteilen. Dabei muß über die Erfindung und, wenn dies erforderlich ist, auch über ihre Entstehung so viel mitgeteilt werden, daß der Arbeitgeber beurteilen kann, ob die Erfindung frei ist.
 
@@ -736,8 +715,7 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (3) Eine Verpflichtung zur Mitteilung freier Erfindungen besteht nicht, wenn die Erfindung offensichtlich im Arbeitsbereich des Betriebes des Arbeitgebers nicht verwendbar ist.
 
-
-## § 19 – Anbietungspflicht
+# § 19 – Anbietungspflicht
 
 (1) Bevor der Arbeitnehmer eine freie Erfindung während der Dauer des Arbeitsverhältnisses anderweitig verwertet, hat er zunächst dem Arbeitgeber mindestens ein nichtausschließliches Recht zur Benutzung der Erfindung zu angemessenen Bedingungen anzubieten, wenn die Erfindung im Zeitpunkt des Angebots in den vorhandenen oder vorbereiteten Arbeitsbereich des Betriebes des Arbeitgebers fällt. Das Angebot kann gleichzeitig mit der Mitteilung nach § 18 abgegeben werden.
 
@@ -747,32 +725,27 @@ Der Bundesminister für Arbeit erläßt nach Anhörung der Spitzenorganisationen
 
 (4) Der Arbeitgeber oder der Arbeitnehmer kann eine andere Festsetzung der Bedingungen beantragen, wenn sich Umstände wesentlich ändern, die für die vereinbarten oder festgesetzten Bedingungen maßgebend waren.
 
-
-## § 20
+# § 20
 
 (1) Für technische Verbesserungsvorschläge, die dem Arbeitgeber eine ähnliche Vorzugsstellung gewähren wie ein gewerbliches Schutzrecht, hat der Arbeitnehmer gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser sie verwertet. Die Bestimmungen der §§ 9 und 12 sind sinngemäß anzuwenden.
 
 (2) Im übrigen bleibt die Behandlung technischer Verbesserungsvorschläge der Regelung durch Tarifvertrag oder Betriebsvereinbarung überlassen.
 
-
-## § 21 – (weggefallen)
+# § 21 – (weggefallen)
 
 \-
 
-
-## § 22 – Unabdingbarkeit
+# § 22 – Unabdingbarkeit
 
 Die Vorschriften dieses Gesetzes können zuungunsten des Arbeitnehmers nicht abgedungen werden. Zulässig sind jedoch Vereinbarungen über Diensterfindungen nach ihrer Meldung, über freie Erfindungen und technische Verbesserungsvorschläge (§ 20 Abs. 1) nach ihrer Mitteilung.
 
-
-## § 23 – Unbilligkeit
+# § 23 – Unbilligkeit
 
 (1) Vereinbarungen über Diensterfindungen, freie Erfindungen oder technische Verbesserungsvorschläge (§ 20 Abs. 1), die nach diesem Gesetz zulässig sind, sind unwirksam, soweit sie in erheblichem Maße unbillig sind. Das gleiche gilt für die Festsetzung der Vergütung (§ 12 Abs. 4).
 
 (2) Auf die Unbilligkeit einer Vereinbarung oder einer Festsetzung der Vergütung können sich Arbeitgeber und Arbeitnehmer nur berufen, wenn sie die Unbilligkeit spätestens bis zum Ablauf von sechs Monaten nach Beendigung des Arbeitsverhältnisses durch Erklärung in Textform gegenüber dem anderen Teil geltend machen.
 
-
-## § 24 – Geheimhaltungspflicht
+# § 24 – Geheimhaltungspflicht
 
 (1) Der Arbeitgeber hat die ihm gemeldete oder mitgeteilte Erfindung eines Arbeitnehmers so lange geheimzuhalten, als dessen berechtigte Belange dies erfordern.
 
@@ -780,18 +753,15 @@ Die Vorschriften dieses Gesetzes können zuungunsten des Arbeitnehmers nicht abg
 
 (3) Sonstige Personen, die auf Grund dieses Gesetzes von einer Erfindung Kenntnis erlangt haben, dürfen ihre Kenntnis weder auswerten noch bekanntgeben.
 
-
-## § 25 – Verpflichtungen aus dem Arbeitsverhältnis
+# § 25 – Verpflichtungen aus dem Arbeitsverhältnis
 
 Sonstige Verpflichtungen, die sich für den Arbeitgeber und den Arbeitnehmer aus dem Arbeitsverhältnis ergeben, werden durch die Vorschriften dieses Gesetzes nicht berührt, soweit sich nicht daraus, daß die Erfindung frei geworden ist (§ 8), etwas anderes ergibt.
 
-
-## § 26 – Auflösung des Arbeitsverhältnisses
+# § 26 – Auflösung des Arbeitsverhältnisses
 
 Die Rechte und Pflichten aus diesem Gesetz werden durch die Auflösung des Arbeitsverhältnisses nicht berührt.
 
-
-## § 27 – Insolvenzverfahren
+# § 27 – Insolvenzverfahren
 
 Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren über das Vermögen des Arbeitgebers eröffnet, so gilt folgendes:
 
@@ -803,20 +773,17 @@ Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren über das V
 
 4. Im Übrigen kann der Arbeitnehmer seine Vergütungsansprüche nach den §§ 9 bis 12 nur als Insolvenzgläubiger geltend machen.
 
-
-## § 28 – Gütliche Einigung
+# § 28 – Gütliche Einigung
 
 In allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund dieses Gesetzes kann jederzeit die Schiedsstelle angerufen werden. Die Schiedsstelle hat zu versuchen, eine gütliche Einigung herbeizuführen.
 
-
-## § 29 – Errichtung der Schiedsstelle
+# § 29 – Errichtung der Schiedsstelle
 
 (1) Die Schiedsstelle wird beim Patentamt errichtet.
 
 (2) Die Schiedsstelle kann außerhalb ihres Sitzes zusammentreten.
 
-
-## § 30 – Besetzung der Schiedsstelle
+# § 30 – Besetzung der Schiedsstelle
 
 (1) Die Schiedsstelle besteht aus einem Vorsitzenden oder seinem Vertreter und zwei Beisitzern.
 
@@ -830,20 +797,17 @@ In allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund dieses Ge
 
 (6) Die Dienstaufsicht über die Schiedsstelle führt der Vorsitzende, die Dienstaufsicht über den Vorsitzenden der Präsident des Patentamts. Die Mitglieder der Schiedsstelle sind an Weisungen nicht gebunden.
 
-
-## § 31 – Anrufung der Schiedsstelle
+# § 31 – Anrufung der Schiedsstelle
 
 (1) Die Anrufung der Schiedsstelle erfolgt durch schriftlichen Antrag. Der Antrag soll in zwei Stücken eingereicht werden. Er soll eine kurze Darstellung des Sachverhalts sowie Namen und Anschrift des anderen Beteiligten enthalten.
 
 (2) Der Antrag wird vom Vorsitzenden der Schiedsstelle dem anderen Beteiligten mit der Aufforderung zugestellt, sich innerhalb einer bestimmten Frist zu dem Antrag schriftlich zu äußern.
 
-
-## § 32 – Antrag auf Erweiterung der Schiedsstelle
+# § 32 – Antrag auf Erweiterung der Schiedsstelle
 
 Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, der die Schiedsstelle anruft, zugleich mit der Anrufung (§ 31 Abs. 1), von dem anderen Beteiligten innerhalb von zwei Wochen nach Zustellung des die Anrufung enthaltenden Antrags (§ 31 Abs. 2) zu stellen.
 
-
-## § 33 – Verfahren vor der Schiedsstelle
+# § 33 – Verfahren vor der Schiedsstelle
 
 (1) Auf das Verfahren vor der Schiedsstelle sind §§ 41 bis 48, 1042 Abs. 1 und § 1050 der Zivilprozeßordnung sinngemäß anzuwenden. § 1042 Abs. 2 der Zivilprozeßordnung ist mit der Maßgabe sinngemäß anzuwenden, daß auch Patentanwälte und Erlaubnisscheininhaber (Artikel 3 des Zweiten Gesetzes zur Änderung und Überleitung von Vorschriften auf dem Gebiet des gewerblichen Rechtsschutzes vom 2. Juli 1949 - WiGBl. S. 179) sowie Verbandsvertreter im Sinne des § 11 des Arbeitsgerichtsgesetzes von der Schiedsstelle nicht zurückgewiesen werden dürfen.
 
@@ -851,8 +815,7 @@ Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, d
 
 § 33 Abs. 1 Kursivdruck: Aufgeh. durch § 188 Nr. 2 G v. 7.9.1966 I 557 mWv 1.1.1967. Wegen der Fortgeltung von Erlaubnisscheinen vgl. § 177 G v. 7.9.1966 424-5-1
 
-
-## § 34 – Einigungsvorschlag der Schiedsstelle
+# § 34 – Einigungsvorschlag der Schiedsstelle
 
 (1) Die Schiedsstelle faßt ihre Beschlüsse mit Stimmenmehrheit, § 196 Abs. 2 des Gerichtsverfassungsgesetzes ist anzuwenden.
 
@@ -864,8 +827,7 @@ Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, d
 
 (5) Über den Wiedereinsetzungsantrag entscheidet die Schiedsstelle. Gegen die Entscheidung der Schiedsstelle findet die sofortige Beschwerde nach den Vorschriften der Zivilprozeßordnung an das für den Sitz des Antragstellers zuständige Landgericht statt.
 
-
-## § 35 – Erfolglose Beendigung des Schiedsverfahrens
+# § 35 – Erfolglose Beendigung des Schiedsverfahrens
 
 (1) Das Verfahren vor der Schiedsstelle ist erfolglos beendet,
 
@@ -877,13 +839,11 @@ Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, d
 
 (2) Der Vorsitzende der Schiedsstelle teilt die erfolglose Beendigung des Schiedsverfahrens den Beteiligten mit.
 
-
-## § 36 – Kosten des Schiedsverfahrens
+# § 36 – Kosten des Schiedsverfahrens
 
 Im Verfahren vor der Schiedsstelle werden keine Gebühren oder Auslagen erhoben.
 
-
-## § 37 – Voraussetzungen für die Erhebung der Klage
+# § 37 – Voraussetzungen für die Erhebung der Klage
 
 (1) Rechte oder Rechtsverhältnisse, die in diesem Gesetz geregelt sind, können im Wege der Klage erst geltend gemacht werden, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist.
 
@@ -903,20 +863,17 @@ Im Verfahren vor der Schiedsstelle werden keine Gebühren oder Auslagen erhoben.
 
 (5) Die Klage ist nach Erlaß eines Arrestes oder einer einstweiligen Verfügung ohne die Beschränkung des Absatzes 1 zulässig, wenn der Partei nach den §§ 926, 936 der Zivilprozeßordnung eine Frist zur Erhebung der Klage bestimmt worden ist.
 
-
-## § 38 – Klage auf angemessene Vergütung
+# § 38 – Klage auf angemessene Vergütung
 
 Besteht Streit über die Höhe der Vergütung, so kann die Klage auch auf Zahlung eines vom Gericht zu bestimmenden angemessenen Betrages gerichtet werden.
 
-
-## § 39 – Zuständigkeit
+# § 39 – Zuständigkeit
 
 (1) Für alle Rechtsstreitigkeiten über Erfindungen eines Arbeitnehmers sind die für Patentstreitsachen zuständigen Gerichte (§ 143 des Patentgesetzes) ohne Rücksicht auf den Streitwert ausschließlich zuständig. Die Vorschriften über das Verfahren in Patentstreitsachen sind anzuwenden.
 
 (2) Ausgenommen von der Regelung des Absatzes 1 sind Rechtsstreitigkeiten, die ausschließlich Ansprüche auf Leistung einer festgestellten oder festgesetzten Vergütung für eine Erfindung zum Gegenstand haben.
 
-
-## § 40 – Arbeitnehmer im öffentlichen Dienst
+# § 40 – Arbeitnehmer im öffentlichen Dienst
 
 Auf Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern, die in Betrieben und Verwaltungen des Bundes, der Länder, der Gemeinden und sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts beschäftigt sind, sind die Vorschriften für Arbeitnehmer im privaten Dienst mit folgender Maßgabe anzuwenden:
 
@@ -930,13 +887,11 @@ Auf Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern, die i
 
 5. Soweit öffentliche Verwaltungen eigene Schiedsstellen zur Beilegung von Streitigkeiten auf Grund dieses Gesetzes errichtet haben, finden die Vorschriften der §§ 29 bis 32 keine Anwendung.
 
-
-## § 41 – Beamte, Soldaten
+# § 41 – Beamte, Soldaten
 
 Auf Erfindungen und technische Verbesserungsvorschläge von Beamten und Soldaten sind die Vorschriften für Arbeitnehmer im öffentlichen Dienst entsprechend anzuwenden.
 
-
-## § 42 – Besondere Bestimmungen für Erfindungen an Hochschulen
+# § 42 – Besondere Bestimmungen für Erfindungen an Hochschulen
 
 Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonderen Bestimmungen:
 
@@ -950,8 +905,7 @@ Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonder
 
 5. § 40 Nr. 1 findet keine Anwendung.
 
-
-## § 43 – Übergangsvorschrift
+# § 43 – Übergangsvorschrift
 
 (1) § 42 in der am 7. Februar 2002 (BGBl. I S. 414) geltenden Fassung dieses Gesetzes findet nur Anwendung auf Erfindungen, die nach dem 6. Februar 2002 gemacht worden sind. Abweichend von Satz 1 ist in den Fällen, in denen sich Professoren, Dozenten oder wissenschaftliche Assistenten an einer wissenschaftlichen Hochschule zur Übertragung der Rechte an einer Erfindung gegenüber einem Dritten vor dem 18. Juli 2001 vertraglich verpflichtet haben, § 42 des Gesetzes über Arbeitnehmererfindungen in der bis zum 6. Februar 2002 geltenden Fassung bis zum 7. Februar 2003 weiter anzuwenden.
 
@@ -959,11 +913,9 @@ Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonder
 
 (3) Auf Erfindungen, die vor dem 1. Oktober 2009 gemeldet wurden, sind die Vorschriften dieses Gesetzes in der bis zum 30. September 2009 geltenden Fassung weiter anzuwenden. Für technische Verbesserungsvorschläge gilt Satz 1 entsprechend.
 
+# § 44 – (weggefallen)
 
-## § 44 – (weggefallen)
-
-
-## § 45 – Durchführungsbestimmungen
+# § 45 – Durchführungsbestimmungen
 
 Der Bundesminister der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesminister für Arbeit die für die Erweiterung der Besetzung der Schiedsstelle (§ 30 Abs. 4 und 5) erforderlichen Durchführungsbestimmungen zu erlassen. Insbesondere kann er bestimmen,
 
@@ -971,8 +923,7 @@ Der Bundesminister der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesmi
 
 2. wie die auf Grund der Vorschlagslisten ausgewählten Beisitzer für ihre Tätigkeit zu entschädigen sind.
 
-
-## § 46 – Außerkrafttreten von Vorschriften
+# § 46 – Außerkrafttreten von Vorschriften
 
 Mit dem Inkrafttreten dieses Gesetzes werden folgende Vorschriften aufgehoben, soweit sie nicht bereits außer Kraft getreten sind:
 
@@ -980,15 +931,12 @@ Mit dem Inkrafttreten dieses Gesetzes werden folgende Vorschriften aufgehoben, s
 
 2. die Durchführungsverordnung zur Verordnung über die Behandlung von Erfindungen von Gefolgschaftsmitgliedern vom 20. März 1943 (Reichsgesetzbl. I S. 257).
 
+# § 47 – (weggefallen)
 
-## § 47 – (weggefallen)
-
-
-## § 48 – (weggefallen)
+# § 48 – (weggefallen)
 
 \-
 
-
-## § 49 – Inkrafttreten
+# § 49 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Oktober 1957 in Kraft.

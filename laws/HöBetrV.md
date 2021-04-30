@@ -1,15 +1,11 @@
-# [HöBetrV] Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes  (Schutzbau-Höchstbetragsverordnung)
-
-Ausfertigungsdatum: 25.02.1970
-
+% Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes  (Schutzbau-Höchstbetragsverordnung)
+% Ausfertigungsdatum: 25.02.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 1 Satz 2 und 3 und des § 12 Abs. 3 Satz 1 des Schutzbaugesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1232), zuletzt geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Als Höchstbeträge, bis zu denen die Herstellungskosten von Schutzräumen bei Bemessung der erhöhten Absetzungen nach § 7 oder § 12 Abs. 3 des Schutzbaugesetzes berücksichtigt werden können, werden festgesetzt:
 
@@ -25,18 +21,15 @@ die sich aus der Anlage 2 zu dieser Verordnung ergebenden Beträge;
 
 die sich aus der Anlage 3 zu dieser Verordnung ergebenden Beträge.
 
-
-## § 2
+# § 2
 
 Die in den Anlagen 1 bis 3 zu dieser Verordnung genannten Höchstbeträge gelten erstmals für Hausschutzräume, die nach dem 31. Dezember 1986 fertiggestellt worden sind. Für Schutzräume, die vor dem 1. Januar 1987 fertiggestellt worden sind, gelten die Höchstbeträge nach den bisherigen Fassungen der Schutzbau-Höchstbetragsverordnung vom 25. Februar 1970 (BGBl. I S. 217).
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1957 - 1958;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -502,8 +495,7 @@ mit Sandvorfilter 3)
 
 3) Bei Ausführung des Schutzraumes nicht als Tiefgarage mindert sich der Höchstbetrag um 25.000 DM.
 
-
-## Anlage 2
+# Anlage 2
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1958;  
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -560,8 +552,7 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 Errichtung von Hausschutzräumen im Inneren von bestehenden Gebäuden (nachträglicher Ausbau)
 
-
-## Anlage 3
+# Anlage 3
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1958 - 1959;  
 bezgl. der einzelnen Änderungen vgl. Fußnote
@@ -618,7 +609,6 @@ bezgl. der einzelnen Änderungen vgl. Fußnote
 
 Errichtung von Hausschutzräumen außerhalb von Gebäuden (Außenbauten)
 
-
-## Anlage 4
+# Anlage 4
 
 \-

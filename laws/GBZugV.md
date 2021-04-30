@@ -1,20 +1,15 @@
-# [GBZugV] Berufszugangsverordnung für den Güterkraftverkehr  (GBZugV)
-
-Ausfertigungsdatum: 21.12.2011
-
+% Berufszugangsverordnung für den Güterkraftverkehr  (GBZugV)
+% Ausfertigungsdatum: 21.12.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Absatz 6 und des § 23 Absatz 3 des Güterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), von denen § 3 Absatz 6 durch Artikel 1 Nummer 4 Buchstabe e des Gesetzes vom 22. November 2011 (BGBl. I S. 2272) und § 23 Absatz 3 durch Artikel 1 Nummer 24 Buchstabe b des Gesetzes vom 22. November 2011 (BGBl. I S. 2272) geändert worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt den Zugang zum Beruf des Unternehmers im Güterkraftverkehr.
 
-
-## § 2 – Persönliche Zuverlässigkeit
+# § 2 – Persönliche Zuverlässigkeit
 
 (1) Der Unternehmer und der Verkehrsleiter im Sinne des Artikels 4 der Verordnung (EG) Nr. 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG des Rates (ABl. L 300 vom 14.11.2009, S. 51) sind zuverlässig im Sinne des Artikels 6 der Verordnung (EG) Nr. 1071/2009, wenn keine Tatsachen dafür vorliegen, dass
 
@@ -54,18 +49,15 @@ g) Vorschriften des Handels- und Insolvenzrechts.
 
 (4) Zur Prüfung, ob Verstöße im Sinne der Absätze 2 und 3 vorliegen, kann die nach Landesrecht zuständige Behörde Bescheinigungen und Auszüge aus Registern, in denen derartige Verstöße registriert sind, von dem Antragsteller verlangen oder mit dessen Einverständnis anfordern.
 
-
-## § 3 – Finanzielle Leistungsfähigkeit
+# § 3 – Finanzielle Leistungsfähigkeit
 
 Der Unternehmer besitzt die erforderliche finanzielle Leistungsfähigkeit, wenn er die Voraussetzungen des Artikels 7 der Verordnung (EG) Nr. 1071/2009 erfüllt.
 
-
-## § 4 – Fachliche Eignung
+# § 4 – Fachliche Eignung
 
 Fachlich geeignet im Sinne des Artikels 3 Absatz 1 Buchstabe d der Verordnung (EG) Nr. 1071/2009 ist, wer über die Kenntnisse verfügt, die zur ordnungsgemäßen Führung eines Güterkraftverkehrsunternehmens erforderlich sind, und zwar auf den jeweiligen Sachgebieten, die im Anhang I Teil I der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aufgeführt sind.
 
-
-## § 5 – Fachkundeprüfung
+# § 5 – Fachkundeprüfung
 
 (1) Die fachliche Eignung im Sinne des § 4 wird durch eine Prüfung nachgewiesen, die sich aus zwei schriftlichen und einem mündlichen Prüfungsteil zusammensetzt.
 
@@ -87,8 +79,7 @@ Fachlich geeignet im Sinne des Artikels 3 Absatz 1 Buchstabe d der Verordnung (E
 
 (7) Bewerbern, die die Prüfung bestanden haben, wird eine Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung erteilt. Die Bescheinigung, die Spezialfasern im Papier enthält, die unter UV-Licht sichtbar werden, ist mit einer Seriennummer und einer Ausgabenummer zu versehen.
 
-
-## § 6 – Prüfungsausschuss
+# § 6 – Prüfungsausschuss
 
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer abgelegt, die einen Prüfungsausschuss errichtet.
 
@@ -98,29 +89,25 @@ Fachlich geeignet im Sinne des Artikels 3 Absatz 1 Buchstabe d der Verordnung (E
 
 (4) Bei Bedarf muss der Prüfungsausschuss der Industrie- und Handelskammer mindestens einmal im Vierteljahr einen Prüfungstermin festsetzen. Zuständig ist der Prüfungsausschuss, in dessen Bezirk der Bewerber seinen Wohnsitz hat. Hat der Bewerber seinen Wohnsitz im Ausland, ist die Industrie- und Handelskammer des Bezirkes zuständig, in dem der Bewerber arbeitet. Der Bewerber kann mit seiner Zustimmung an den Prüfungsausschuss bei einer anderen Industrie- und Handelskammer verwiesen werden, wenn innerhalb eines Vierteljahrs weniger als drei Bewerber zur Prüfung anstehen oder dem Bewerber andernfalls wirtschaftliche Nachteile entstehen.
 
-
-## § 7 – Gleichwertige Abschlussprüfungen
+# § 7 – Gleichwertige Abschlussprüfungen
 
 (1) Als Prüfungen der fachlichen Eignung gelten auch die in der Anlage 4 der bis zum 31. Dezember 2011 geltenden Fassung der Berufszugangsverordnung für den Güterkraftverkehr vom 21. Juni 2000 (BGBl. I S. 918), die durch Artikel 485 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, aufgeführten Abschlussprüfungen, wenn die Ausbildung vor dem 4. Dezember 2011 begonnen worden ist. Als Prüfungen der fachlichen Eignung gelten auch Abschlussprüfungen, die von den nach Landesrecht zuständigen Behörden nach § 6 Absatz 2 der bis zum 31. Dezember 2011 geltenden Fassung der Berufszugangsverordnung für den Güterkraftverkehr vom 21. Juni 2000 (BGBl. I S. 918), die durch Artikel 485 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, bis zum 4. Dezember 2011 anerkannt worden sind, wenn die Ausbildung vor dem 4. Dezember 2011 begonnen worden ist.
 
 (2) Die nach § 6 Absatz 4 zuständige Industrie- und Handelskammer stellt dem Inhaber eines nach Absatz 1 anerkannten Abschlusses auf Antrag eine Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus.
 
-
-## § 8 – Übergangsregelung für die Anerkennung leitender Tätigkeit
+# § 8 – Übergangsregelung für die Anerkennung leitender Tätigkeit
 
 (1) Die fachliche Eignung für den Güterkraftverkehr kann auch durch eine mindestens zehnjährige leitende Tätigkeit in einem Unternehmen, das Güterkraftverkehr betreibt, nachgewiesen werden. Diese Tätigkeit muss in dem Zeitraum von zehn Jahren vor dem 4. Dezember 2009 ohne Unterbrechung in einem oder mehreren Mitgliedstaaten der Europäischen Union ausgeübt worden sein.
 
 (2) Die Prüfung der Voraussetzungen nach Absatz 1 obliegt der Industrie- und Handelskammer, in deren Zuständigkeitsbereich der Bewerber seinen Wohnsitz hat. Hat der Bewerber seinen Wohnsitz im Ausland, ist die Industrie- und Handelskammer des Bezirkes zuständig, in dem der Bewerber arbeitet. Der Bewerber hat der Kammer die zur Prüfung nach Satz 1 erforderlichen Unterlagen vorzulegen. Reichen die Unterlagen zum Nachweis der fachlichen Eignung nicht aus, so kann die Kammer mit dem Bewerber ein ergänzendes Beurteilungsgespräch führen. Hält die Kammer den Bewerber für fachlich geeignet, so stellt sie eine Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus.
 
-
-## § 9 – Geltungsumfang beschränkter Fachkundebescheinigungen
+# § 9 – Geltungsumfang beschränkter Fachkundebescheinigungen
 
 (1) Bescheinigungen über den Nachweis der fachlichen Eignung, die bis zum Inkrafttreten der Fünften Verordnung zur Änderung von Rechtsvorschriften zum Güterkraftverkehrsgesetz vom 23. Februar 1993 (BGBl. I S. 268) auf die Durchführung von Güternah- oder Umzugsverkehr oder auf innerstaatliche Beförderungen beschränkt wurden, gelten als uneingeschränkte Fachkundebescheinigungen.
 
 (2) Die zuständige Industrie- und Handelskammer stellt dem Inhaber einer Bescheinigung nach Absatz 1 auf Antrag eine Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus.
 
-
-## § 10 – Erlaubnisverfahren
+# § 10 – Erlaubnisverfahren
 
 (1) Bei der Stellung eines Antrags nach § 3 des Güterkraftverkehrsgesetzes sind gegenüber der nach Landesrecht zuständigen Behörde folgende Angaben zu machen und vorbehaltlich des Absatzes 2 auf Verlangen nachzuweisen:
 
@@ -184,8 +171,7 @@ Das Führungszeugnis und die Auskunft aus dem Gewerbezentralregister dürfen zum
 
 (5) Ändern sich nach Erteilung der Erlaubnis die in Absatz 1 Nummer 1, 2, 3, 5, 6, 8 oder 9 genannten Angaben, so hat das Unternehmen dies der nach Landesrecht zuständigen Behörde innerhalb von 28 Tagen mitzuteilen und auf Verlangen nachzuweisen. Ist eine Änderung der Erlaubnisurkunde erforderlich, so hat das Unternehmen die Erlaubnisurkunde und deren Ausfertigungen unverzüglich vorzulegen.
 
-
-## § 11 – Kontrolle
+# § 11 – Kontrolle
 
 (1) Die nach Landesrecht zuständigen Behörden kontrollieren die Unternehmen nach Maßgabe des Artikels 12 der Verordnung (EG) Nr. 1071/2009. Hierzu überprüfen sie regelmäßig und mindestens alle zehn Jahre, ob der Unternehmer die Berufszugangsvoraussetzungen nach Artikel 3 der Verordnung (EG) Nr. 1071/2009 noch erfüllt. Zur Durchführung der Kontrollen hat der Unternehmer auf Verlangen der zuständigen Behörde erforderliche Nachweise vorzulegen.
 
@@ -193,8 +179,7 @@ Das Führungszeugnis und die Auskunft aus dem Gewerbezentralregister dürfen zum
 
 (3) Die Verfahren auf Erneuerung der Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1072/2009 oder der Erlaubnis nach dem Güterkraftverkehrsgesetz ersetzen die Kontrolle nach Absatz 1, soweit dabei zugleich der Nachweis geführt wird, dass die Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -204,18 +189,15 @@ Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 2 des Güterkraftverkehrsgeset
 
 3. entgegen § 11 Absatz 1 Satz 3 einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Berufszugangsverordnung für den Güterkraftverkehr vom 21. Juni 2000 (BGBl. I S. 918), die durch Artikel 485 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 10 Absatz 4)
+# Anlage 1 – (zu § 10 Absatz 4)
 
 (Fundstelle: BGBl. I 2011, 3124 - 3125)
 

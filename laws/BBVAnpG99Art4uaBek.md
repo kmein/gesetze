@@ -1,10 +1,7 @@
-# [BBVAnpG99Art4uaBek] Bekanntmachung nach Artikel 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1999 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
-
-Ausfertigungsdatum: 22.11.1999
-
+% Bekanntmachung nach Artikel 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1999 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
+% Ausfertigungsdatum: 22.11.1999
  
-
-## ----
+# ----
 
 Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1999 vom 19. November 1999 (BGBl. I S. 2198) und des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764) werden bekanntgemacht
 
@@ -14,8 +11,7 @@ Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungs
 
 Der Bundesminister des Innern
 
-
-## Anlage 1 – (Anlage IV des BBesG) *)
+# Anlage 1 – (Anlage IV des BBesG) *)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2208 - 2210)
 
@@ -947,8 +943,7 @@ R 2
 
 9.905,04
 
-
-## Anlage 2 – (Anlage V des BBesG) *)
+# Anlage 2 – (Anlage V des BBesG) *)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2211)
 
@@ -982,22 +977,18 @@ Besoldungsgruppen A 1 bis A 8 übrige Besoldungsgruppen
 
 351,48
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 162,06 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 214,96 DM.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 162,06 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 214,96 DM. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 10 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 50 DM,  
 in Besoldungsgruppe A 4 um je 40 DM und  
-in Besoldungsgruppe A 5 um je 30 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+in Besoldungsgruppe A 5 um je 30 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |           |
 |:------------------------------------------|:----------|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 167,70 DM |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 178,02 DM |
 
-
-## Anlage 3a – (Anlage VIa des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3a – (Anlage VIa des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2212)
 
@@ -1376,8 +1367,7 @@ B 8 und höher .
 
 10.616
 
-
-## Anlage 3b – (Anlage VIb des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3b – (Anlage VIb des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2212)
 
@@ -1756,8 +1746,7 @@ B 8 und höher .
 
 9.024
 
-
-## Anlage 3c – (Anlage VIc des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3c – (Anlage VIc des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2213)
 
@@ -2136,8 +2125,7 @@ B 8 und höher .
 
 7.431
 
-
-## Anlage 3d – (Anlage VId des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3d – (Anlage VId des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2213)
 
@@ -2517,8 +2505,7 @@ B 8 und höher .
 
 5.202
 
-
-## Anlage 3e – (Anlage VIe des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3e – (Anlage VIe des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2214)
 
@@ -2898,8 +2885,7 @@ B 8 und höher .
 
 6.317
 
-
-## Anlage 3f – (Anlage VIf des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3f – (Anlage VIf des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2214)
 
@@ -3278,8 +3264,7 @@ B 8 und höher .
 
  
 
-
-## Anlage 3g – (Anlage VIg des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3g – (Anlage VIg des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2215)
 
@@ -3659,8 +3644,7 @@ B 8 und höher .
 
  
 
-
-## Anlage 3h – (Anlage VIh des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3h – (Anlage VIh des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2215)
 
@@ -4039,8 +4023,7 @@ B 8 und höher .
 
  
 
-
-## Anlage 3i – (Anlage VIi des BBesG)  Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+# Anlage 3i – (Anlage VIi des BBesG)  Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2216
 
@@ -4113,8 +4096,7 @@ A 1 bis A 16
 
 B 1 bis B 11
 
-
-## Anlage 4 – (Anlage VIII des BBesG)  Gültig ab 1. März 1999 ++)
+# Anlage 4 – (Anlage VIII des BBesG)  Gültig ab 1. März 1999 ++)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2216
 
@@ -4132,8 +4114,7 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2216
 Anwärtergrundbetrag  
 (Monatsbeträge in DM)
 
-
-## Anlage 5 – (Anlage IX des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000 ++)
+# Anlage 5 – (Anlage IX des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000 ++)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2217 - 2219)
 
@@ -5346,8 +5327,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
-## Anlage 6 – (Anlage IV des BBesG)Gültig ab 1. Juni 1999
+# Anlage 6 – (Anlage IV des BBesG)Gültig ab 1. Juni 1999
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2220 - 2222
 
@@ -6183,8 +6163,7 @@ R 10
 
 16.181,58
 
-
-## Anlage 7 – (Anlage V des BBesG)  Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
+# Anlage 7 – (Anlage V des BBesG)  Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2223
 
@@ -6213,22 +6192,18 @@ Besoldungsgruppen A 1 bis A 8
 304,04
 
   
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 140,18 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 185,94 DM.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 140,18 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 185,94 DM. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,65 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 43,25 DM,  
 in Besoldungsgruppe A 4 um je 34,60 DM  
-und in Besoldungsgruppe A 5 um je 25,95 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+und in Besoldungsgruppe A 5 um je 25,95 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |           |
 |:------------------------------------------|----------:|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 145,06 DM |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 153,99 DM |
 
-
-## Anlage 8 – (Anlage VIII des BBesG)  Gültig ab 1. März 1999
+# Anlage 8 – (Anlage VIII des BBesG)  Gültig ab 1. März 1999
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2223
 
@@ -6246,8 +6221,7 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2223
 Anwärtergrundbetrag  
 (Monatsbeträge in DM)
 
-
-## Anlage 9 – (Anlage IX des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
+# Anlage 9 – (Anlage IX des BBesG)Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2224 - 2226)
 

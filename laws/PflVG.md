@@ -1,20 +1,15 @@
-# [PflVG] Gesetz über die Pflichtversicherung für Kraftfahrzeughalter  (Pflichtversicherungsgesetz)
-
-Ausfertigungsdatum: 05.04.1965
-
+% Gesetz über die Pflichtversicherung für Kraftfahrzeughalter  (Pflichtversicherungsgesetz)
+% Ausfertigungsdatum: 05.04.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 Der Halter eines Kraftfahrzeugs oder Anhängers mit regelmäßigem Standort im Inland ist verpflichtet, für sich, den Eigentümer und den Fahrer eine Haftpflichtversicherung zur Deckung der durch den Gebrauch des Fahrzeugs verursachten Personenschäden, Sachschäden und sonstigen Vermögensschäden nach den folgenden Vorschriften abzuschließen und aufrechtzuerhalten, wenn das Fahrzeug auf öffentlichen Wegen oder Plätzen (§ 1 des Straßenverkehrsgesetzes) verwendet wird.
 
-
-## § 2
+# § 2
 
 (1) § 1 gilt nicht für
 
@@ -38,13 +33,11 @@ c) Anhängern, die den Vorschriften über das Zulassungsverfahren nicht unterlie
 
 (2) Die nach Absatz 1 Nrn. 1 bis 5 von der Versicherungspflicht befreiten Fahrzeughalter haben, sofern nicht auf Grund einer von ihnen abgeschlossenen und den Vorschriften dieses Gesetzes entsprechenden Versicherung Haftpflichtversicherungsschutz gewährt wird, bei Schäden der in § 1 bezeichneten Art für den Fahrer und die übrigen Personen, die durch eine auf Grund dieses Gesetzes abgeschlossene Haftpflichtversicherung Deckung erhalten würden, in gleicher Weise und in gleichem Umfang einzutreten wie ein Versicherer bei Bestehen einer solchen Haftpflichtversicherung. Die Verpflichtung beschränkt sich auf den Betrag der festgesetzten Mindestversicherungssummen. Wird ein Personen- oder Sachschaden verursacht, haftet der Fahrzeughalter im Verhältnis zu einem Dritten auch, wenn der Fahrer den Eintritt der Tatsache, für die er dem Dritten verantwortlich ist, vorsätzlich und widerrechtlich herbeigeführt hat. § 12 Abs. 1 Satz 2 bis 5 gilt entsprechend. Die Vorschriften der §§ 100 bis 124 des Versicherungsvertragsgesetzes sowie der §§ 3 und 3b sowie die Kraftfahrzeug-Pflichtversicherungsverordnung sind sinngemäß anzuwenden. Erfüllt der Fahrzeughalter Verpflichtungen nach Satz 1, so kann er in sinngemäßer Anwendung der §§ 116 und 124 des Versicherungsvertragsgesetzes Ersatz der aufgewendeten Beträge verlangen, wenn bei Bestehen einer Versicherung der Versicherer gegenüber dem Fahrer oder der sonstigen mitversicherten Person leistungsfrei gewesen wäre; im übrigen ist der Rückgriff des Halters gegenüber diesen Personen ausgeschlossen.
 
-
-## § 3
+# § 3
 
 Ist der Versicherer gegenüber dem Versicherungsnehmer nicht zur Leistung verpflichtet, weil das Fahrzeug den Bau- und Betriebsvorschriften der Straßenverkehrs-Zulassungs-Ordnung nicht entsprach oder von einem unberechtigten Fahrer oder von einem Fahrer ohne die vorgeschriebene Fahrerlaubnis geführt wurde, kann der Versicherer den Dritten abweichend von § 117 Abs. 3 Satz 2 des Versicherungsvertragsgesetzes nicht auf die Möglichkeit verweisen, Ersatz seines Schadens von einem anderen Schadensversicherer oder von einem Sozialversicherungsträger zu erlangen. Soweit der Dritte jedoch von einem nach § 2 Abs. 1 Nr. 1 bis 5 von der Versicherungspflicht befreiten Fahrzeughalter Ersatz seines Schadens erlangen kann, entfällt die Leistungspflicht des Versicherers.
 
-
-## § 3a
+# § 3a
 
 (1) Macht der Dritte den Anspruch nach § 115 Abs. 1 des Versicherungsvertragsgesetzes geltend, gelten darüber hinaus die folgenden Vorschriften:
 
@@ -54,13 +47,11 @@ Ist der Versicherer gegenüber dem Versicherungsnehmer nicht zur Leistung verpfl
 
 (2) Soweit die Schadenregulierung über das deutsche Büro des Systems der Grünen Internationalen Versicherungskarte oder den Entschädigungsfonds nach § 12 erfolgt, ist Absatz 1 entsprechend anzuwenden.
 
-
-## § 3b
+# § 3b
 
 Schließt der Erwerber eines veräußerten Fahrzeugs eine neue Kraftfahrzeug-Haftpflichtversicherung, ohne das auf ihn übergegangene Versicherungsverhältnis zu kündigen, gilt dieses mit Beginn des neuen Versicherungsverhältnisses als gekündigt.
 
-
-## § 4
+# § 4
 
 (1) Um einen dem Zweck dieses Gesetzes gerecht werdenden Schutz sicherzustellen, bestimmt das Bundesministerium der Justiz und für Verbraucherschutz unter Beachtung gemeinschaftsrechtlicher Verpflichtungen sowie des Europäischen Übereinkommens vom 20. April 1959 über die obligatorische Haftpflichtversicherung für Kraftfahrzeuge (BGBl. 1965 II S. 281) im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates den Umfang des notwendigen Versicherungsschutzes, den der Versicherungsvertrag zu gewähren hat. Das gilt auch für den Fall, daß durch Gesetz oder gemeinschaftsrechtliche Verpflichtung eine Versicherungspflicht zur Deckung der beim Transport gefährlicher Güter durch Kraftfahrzeuge verursachten Schäden begründet wird.
 
@@ -72,8 +63,7 @@ Schließt der Erwerber eines veräußerten Fahrzeugs eine neue Kraftfahrzeug-Haf
 
 Ergeben sich auf Grund der Platzzahl des Personenfahrzeugs, auf das sich die Versicherung bezieht, erhöhte Mindestversicherungssummen, so haftet der Versicherer in den Fällen des § 117 Abs. 1 und 2 des Versicherungsvertragsgesetzes für den einer einzelnen Person zugefügten Schaden nur im Rahmen der nicht erhöhten Mindestversicherungssummen.
 
-
-## § 5
+# § 5
 
 (1) Die Versicherung kann nur bei einem im Inland zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung befugten Versicherungsunternehmen genommen werden.
 
@@ -103,8 +93,7 @@ Es verlängert sich um jeweils ein Jahr, wenn es nicht spätestens einen Monat v
 
 (8) Ist die Versicherung mit einem Versicherungsunternehmen ohne Sitz im Inland im Dienstleistungsverkehr abgeschlossen, so haben der Versicherungsschein und die Versicherungsbestätigung auch Angaben über den Namen und die Anschrift des gemäß § 8 Abs. 2 Satz 1 bestellten Vertreters zu enthalten.
 
-
-## § 6
+# § 6
 
 (1) Wer ein Fahrzeug auf öffentlichen Wegen oder Plätzen gebraucht oder den Gebrauch gestattet, obwohl für das Fahrzeug der nach § 1 erforderliche Haftpflichtversicherungsvertrag nicht oder nicht mehr besteht, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
@@ -112,8 +101,7 @@ Es verlängert sich um jeweils ein Jahr, wenn es nicht spätestens einen Monat v
 
 (3) Ist die Tat vorsätzlich begangen worden, so kann das Fahrzeug eingezogen werden, wenn es dem Täter oder Teilnehmer zur Zeit der Entscheidung gehört.
 
-
-## § 7
+# § 7
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Durchführung des Ersten Abschnitts dieses Gesetzes im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -125,15 +113,13 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 4. Maßnahmen der Verkehrsbehörden, durch welche der Gebrauch nicht oder nicht ausreichend versicherter Fahrzeuge im Straßenverkehr verhindert werden soll.
 
-
-## § 8
+# § 8
 
 (1) Versicherungsunternehmen, die zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung für Kraftfahrzeuge und Anhänger mit regelmäßigem Standort im Inland befugt sind, sind verpflichtet, die satzungsmäßigen Leistungen und Beiträge an das mit der Durchführung des Abkommens über die internationale Versicherungskarte beauftragte deutsche Versicherungsbüro sowie an den nach § 13 dieses Gesetzes errichteten Entschädigungsfonds oder an eine andere mit der Erfüllung dieser Aufgaben betraute juristische Person und an die nach § 13a errichtete oder anerkannte Entschädigungsstelle zu erbringen. Sie teilen hierzu dem deutschen Versicherungsbüro, dem Entschädigungsfonds und der Entschädigungsstelle bezüglich der von ihnen in der Bundesrepublik Deutschland nach diesem Gesetz getätigten Kraftfahrzeug-Haftpflichtversicherungen die gebuchten Prämienbeträge oder die Anzahl der versicherten Risiken mit.
 
 (2) Versicherungsunternehmen, die im Dienstleistungsverkehr die Kraftfahrzeug-Haftpflichtversicherung für Kraftfahrzeuge und Anhänger mit regelmäßigem Standort im Inland betreiben, sind verpflichtet, einen im Inland ansässigen oder niedergelassenen Vertreter zu bestellen, der den Anforderungen nach § 59 des Versicherungsaufsichtsgesetzes zu genügen hat. Ansprüche aus Kraftfahrzeug-Haftpflichtfällen gegen das Versicherungsunternehmen können auch gegen den nach Satz 1 bestellten Vertreter gerichtlich und außergerichtlich mit Wirkung für und gegen das Versicherungsunternehmen geltend gemacht werden. Der nach Satz 1 bestellte Vertreter ist auch verpflichtet, Auskunft über das Bestehen oder die Gültigkeit von diesem Gesetz unterliegenden Haftpflichtversicherungsverträgen bei dem Versicherungsunternehmen zu erteilen.
 
-
-## § 8a
+# § 8a
 
 (1) Es wird eine Auskunftsstelle eingerichtet, die Geschädigten, deren Versicherern, dem deutschen Büro des Systems der Grünen Internationalen Versicherungskarte und dem Entschädigungsfonds nach § 12 unter den Voraussetzungen des Satzes 2 auf Anforderung folgende Angaben übermittelt, soweit dies zur Geltendmachung von Schadenersatzansprüchen im Zusammenhang mit der Teilnahme am Straßenverkehr erforderlich ist:
 
@@ -153,8 +139,7 @@ Geschädigte sind berechtigt, sich an die Auskunftsstelle zu wenden, wenn sie ih
 
 (4) Versicherungsunternehmen, denen im Inland die Erlaubnis zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung für Kraftfahrzeuge und Anhänger erteilt ist, haben der Auskunftsstelle nach Absatz 3 sowie den in den anderen Mitgliedstaaten der Europäischen Union und den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nach Artikel 23 Absatz 1 der Richtlinie 2009/103/EG errichteten oder anerkannten Auskunftsstellen die Namen und Anschriften der nach § 163 des Versicherungsaufsichtsgesetzes bestellten Schadenregulierungsbeauftragten sowie jede Änderung dieser Angaben mitzuteilen.
 
-
-## § 9
+# § 9
 
 (1) Es wird eine jährliche Gemeinschaftsstatistik über den Schadenverlauf in der Kraftfahrzeug-Haftpflichtversicherung geführt. Sie muß Angaben enthalten über die Art und Anzahl der versicherten Risiken, die Anzahl der gemeldeten Schäden, die Erstattungsleistungen und Rückstellungen (Schadenaufwand), die Schadenhäufigkeit, den Schadendurchschnitt und den Schadenbedarf.
 
@@ -162,20 +147,17 @@ Geschädigte sind berechtigt, sich an die Auskunftsstelle zu wenden, wenn sie ih
 
 (3) Die Ergebnisse der Statistik sind von der Bundesanstalt für Finanzdienstleistungsaufsicht jährlich zu veröffentlichen.
 
-
-## § 10
+# § 10
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die Kraftfahrzeug-Haftpflichtversicherung nach diesem Gesetz betreiben, übermitteln der Aufsichtsbehörde die für die Führung der Statistik nach § 9 erforderlichen Daten.
 
 (2) Soweit Versicherungsunternehmen mit Sitz im Inland außerhalb des Geltungsbereichs dieses Gesetzes in einem Mitgliedstaat der Europäischen Gemeinschaft oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum die Kraftfahrzeug-Haftpflichtversicherung betreiben, sind der Aufsichtsbehörde die in § 9 Abs. 1 Satz 2 genannten Angaben für jeden Mitgliedstaat gesondert mitzuteilen.
 
-
-## § 11
+# § 11
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung Vorschriften zu erlassen über den Inhalt, die Form und die Gliederung der nach § 9 zu führenden Kraftfahrzeug-Haftpflichtversicherungsstatistik sowie über die Fristen, den Inhalt, die Form und die Stückzahl der von den Versicherungsunternehmen einzureichenden Mitteilungen.
 
-
-## § 12
+# § 12
 
 (1) Wird durch den Gebrauch eines Kraftfahrzeugs oder eines Anhängers im Geltungsbereich dieses Gesetzes ein Personen- oder Sachschaden verursacht, so kann derjenige, dem wegen dieser Schäden Ersatzansprüche gegen den Halter, den Eigentümer oder den Fahrer des Fahrzeugs zustehen, diese Ersatzansprüche auch gegen den "Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen" (Entschädigungsfonds) geltend machen,
 
@@ -183,8 +165,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bun
 
 2. wenn die auf Grund eines Gesetzes erforderliche Haftpflichtversicherung zugunsten des Halters, des Eigentümers und des Fahrers des Fahrzeugs nicht besteht,
 
-2a.  
-wenn der Halter des Fahrzeugs nach § 2 Abs. 1 Nr. 6 oder nach einer in Umsetzung des Artikels 5 Absatz 2 der Richtlinie 2009/103/EG erlassenen Bestimmung eines anderen Mitgliedstaats der Europäischen Union von der Versicherungspflicht befreit ist,
+2a. wenn der Halter des Fahrzeugs nach § 2 Abs. 1 Nr. 6 oder nach einer in Umsetzung des Artikels 5 Absatz 2 der Richtlinie 2009/103/EG erlassenen Bestimmung eines anderen Mitgliedstaats der Europäischen Union von der Versicherungspflicht befreit ist,
 
 3. wenn für den Schaden, der durch den Gebrauch des ermittelten oder nicht ermittelten Fahrzeugs verursacht worden ist, eine Haftpflichtversicherung deswegen keine Deckung gewährt oder gewähren würde, weil der Ersatzpflichtige den Eintritt der Tatsache, für die er dem Ersatzberechtigten verantwortlich ist, vorsätzlich und widerrechtlich herbeigeführt hat,
 
@@ -204,8 +185,7 @@ Das gilt nur, soweit der Ersatzberechtigte in den Fällen der Nummern 1 bis 3 gl
 
 (7) Im Fall des Absatzes 1 Satz 1 Nr. 4 sind der Versicherer und sein nach § 8 Abs. 2 Satz 1 bestellter Vertreter, der vorläufige Insolvenzverwalter ebenso wie der Insolvenzverwalter (§ 22 Abs. 1 Satz 1, § 56 der Insolvenzordnung), der von der Aufsichtsbehörde bestellte Sonderbeauftragte sowie alle Personen, die mit der Verwaltung der Kraftfahrzeug-Haftpflichtversicherungsverträge einschließlich der Regulierung der diesen Verträgen zuzurechnenden Schadensfälle betraut sind, verpflichtet, dem Entschädigungsfonds die für die Erfüllung seiner Aufgaben erforderlichen Auskünfte zu erteilen, die benötigten Unterlagen zu überlassen und ihn bei der Abwicklung zu unterstützen.
 
-
-## § 12a
+# § 12a
 
 (1) Wird durch den Gebrauch eines Kraftfahrzeugs oder eines Anhängers im Ausland nach dem 31. Dezember 2002 ein Personen- oder Sachschaden verursacht, so kann derjenige, der seinen Wohnsitz in der Bundesrepublik Deutschland hat und dem wegen dieser Schäden Ersatzansprüche gegen den Haftpflichtversicherer des schädigenden Fahrzeugs zustehen, diese vorbehaltlich des Absatzes 4 gegen die "Entschädigungsstelle für Schäden aus Auslandsunfällen" (Entschädigungsstelle) geltend machen,
 
@@ -233,20 +213,17 @@ Ein Antrag auf Erstattung ist nicht zulässig, wenn der Geschädigte unmittelbar
 
 (4) Hat sich der Unfall in einem Staat ereignet, der nicht Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, so kann der Geschädigte unter den Voraussetzungen des Absatzes 1 einen Antrag auf Erstattung an die Entschädigungsstelle richten, wenn der Unfall durch die Nutzung eines Fahrzeugs verursacht wurde, das in einem Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum versichert ist und dort seinen gewöhnlichen Standort hat und wenn das nationale Versicherungsbüro (Artikel 1 Nummer 3 der Richtlinie 2009/103/EG) des Staates, in dem sich der Unfall ereignet hat, dem System der Grünen Karte beigetreten ist.
 
-
-## § 12b
+# § 12b
 
 Soweit die Entschädigungsstelle nach § 12a dem Ersatzberechtigten den Schaden ersetzt, geht der Anspruch des Ersatzberechtigten gegen den Halter, den Eigentümer, den Fahrer und einen sonstigen Ersatzpflichtigen auf die Entschädigungsstelle über. Der Übergang kann nicht zum Nachteil des Ersatzberechtigten geltend gemacht werden. Soweit eine Entschädigungsstelle im Sinne des Artikels 24 der Richtlinie 2009/103/EG einer anderen Entschädigungsstelle einen als Entschädigung gezahlten Betrag erstattet, gehen die auf die zuletzt genannte Entschädigungsstelle übergegangenen Ansprüche des Geschädigten gegen den Halter, den Eigentümer, den Fahrer und einen sonstigen Ersatzpflichtigen auf die zuerst genannte Entschädigungsstelle über.
 
-
-## § 12c
+# § 12c
 
 (1) Der Entschädigungsfonds nach § 12 ist verpflichtet, einem Entschädigungsfonds im Sinne des Artikels 10 Absatz 1 der Richtlinie 2009/103/EG eines anderen Mitgliedstaats der Europäischen Union den Betrag zu erstatten, den dieser als Entschädigung wegen eines Personen- oder Sachschadens zahlt, der auf dem Gebiet dieses Mitgliedstaats durch ein Fahrzeug verursacht wurde, dessen Halter nach § 2 Abs. 1 Nr. 6 von der Versicherungspflicht befreit ist.
 
 (2) Soweit der Entschädigungsfonds nach § 12 einen Betrag nach Absatz 1 erstattet, gehen die auf den Entschädigungsfonds des anderen Mitgliedstaats der Europäischen Union übergegangenen Ansprüche des Geschädigten gegen den Halter, den Eigentümer, den Fahrer und einen sonstigen Ersatzpflichtigen auf den Entschädigungsfonds nach § 12 über.
 
-
-## § 13
+# § 13
 
 (1) Zur Wahrnehmung der Aufgaben des Entschädigungsfonds wird eine rechtsfähige Anstalt des öffentlichen Rechts errichtet, die mit dem Inkrafttreten dieses Gesetzes als entstanden gilt. Organe der Anstalt sind der Vorstand und der Verwaltungsrat. Die Anstalt untersteht der Aufsicht des Bundesministeriums der Justiz und für Verbraucherschutz. Das Nähere über die Anstalt bestimmt die Satzung, die von der Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird. Die im Geltungsbereich dieses Gesetzes zum Betrieb der Kraftfahrzeug-Haftpflichtversicherung befugten Versicherungsunternehmen und die Haftpflichtschadenausgleiche im Sinne von § 3 Absatz 1 Nummer 4 des Versicherungsaufsichtsgesetzes sowie die nach § 2 Nrn. 1 bis 4 von der Versicherungspflicht befreiten Halter nichtversicherter Fahrzeuge sind verpflichtet, unter Berücksichtigung ihres Anteils am Gesamtbestand der Fahrzeuge und der Art dieser Fahrzeuge an die Anstalt Beiträge zur Deckung der Entschädigungsleistungen und der Verwaltungskosten zu leisten. Das Nähere über die Beitragspflicht bestimmt das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
@@ -258,15 +235,13 @@ Soweit die Entschädigungsstelle nach § 12a dem Ersatzberechtigten den Schaden 
 
 (5) Die vom Entschädigungsfonds zur Befriedigung von Ansprüchen nach § 12 Abs. 1 Nr. 4 in einem Kalenderjahr zu erbringenden Aufwendungen sind auf 0,5 vom Hundert des Gesamtprämienaufkommens der Kraftfahrzeug-Haftpflichtversicherung des vorangegangenen Kalenderjahres begrenzt.
 
-
-## § 13a
+# § 13a
 
 (1) Die Aufgaben und Befugnisse der Entschädigungsstelle nach § 12a werden von dem rechtsfähigen Verein "Verkehrsopferhilfe eingetragener Verein" in Hamburg (Verkehrsopferhilfe) wahrgenommen, sobald und soweit dieser schriftlich gegenüber dem Bundesministerium der Justiz und für Verbraucherschutz seine Bereitschaft dazu erklärt hat. Das Bundesministerium der Justiz und für Verbraucherschutz gibt die Erklärung und den Zeitpunkt, ab dem die betroffenen Aufgaben von der Verkehrsopferhilfe wahrgenommen werden, im Bundesanzeiger bekannt. Die Verkehrsopferhilfe untersteht, soweit sie die übertragenen Aufgaben wahrnimmt, der Aufsicht des Bundesministeriums der Justiz und für Verbraucherschutz. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Aufgaben und Befugnisse der Entschädigungsstelle nach § 12a der in § 13 genannten Anstalt zu übertragen, soweit die Wahrnehmung der Aufgaben durch die Verkehrsopferhilfe nicht gewährleistet ist oder diese nicht mehr zur Wahrnehmung der Aufgaben bereit ist.
 
 (2) Die Entschädigungsstelle ist von der Körperschaftsteuer, der Gewerbesteuer und der Vermögensteuer befreit.
 
-
-## § 14
+# § 14
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -282,18 +257,15 @@ b) wie die Mitglieder der Schiedsstelle, die aus einem die Befähigung zum Richt
 
 c) daß Ansprüche gegen den Entschädigungsfonds im Wege der Klage erst geltend gemacht werden können, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist, sofern nicht seit der Anrufung der Schiedsstelle mehr als drei Monate verstrichen sind.
 
-
-## § 15
+# § 15
 
 Wird zur Vermeidung einer Insolvenz ein Bestand an Kraftfahrzeug-Haftpflichtversicherungsverträgen mit Genehmigung der Aufsichtsbehörden auf einen anderen Versicherer übertragen, so kann der übernehmende Versicherer die Anwendung des für sein Unternehmen geltenden Tarifs (Prämie und Tarifbestimmungen) und seiner Versicherungsbedingungen vom Beginn der nächsten Versicherungsperiode an erklären, wenn er dem Versicherungsnehmer die Tarifänderung unter Kenntlichmachung der Unterschiede des alten und neuen Tarifs spätestens einen Monat vor Inkrafttreten der Änderung mitteilt und ihn schriftlich über sein Kündigungsrecht belehrt.
 
-
-## § 16
+# § 16
 
 § 12 Absatz 4 Satz 2 und Absatz 6 Satz 5 und 6 gilt nicht für Ansprüche, die vor dem 1. Mai 2013 entstanden sind.
 
-
-## Anlage – zu § 4 Abs. 2
+# Anlage – zu § 4 Abs. 2
 
 (Fundstelle: BGBl. I 1965, 221;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

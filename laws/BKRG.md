@@ -1,17 +1,13 @@
-# [BKRG] Bundeskrebsregisterdatengesetz  (BKRG)
-
-Ausfertigungsdatum: 10.08.2009
-
+% Bundeskrebsregisterdatengesetz  (BKRG)
+% Ausfertigungsdatum: 10.08.2009
  
-
-## § 1 – Einrichtung eines Zentrums für Krebsregisterdaten
+# § 1 – Einrichtung eines Zentrums für Krebsregisterdaten
 
 (1) Beim Robert Koch-Institut wird ein Zentrum für Krebsregisterdaten eingerichtet.
 
 (2) Zur fachlichen Beratung und Begleitung des Zentrums für Krebsregisterdaten wird ein Beirat eingerichtet. Die Mitglieder des Beirats werden vom Bundesministerium für Gesundheit berufen.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 Das Zentrum für Krebsregisterdaten hat folgende Aufgaben:
 
@@ -39,8 +35,7 @@ d) weiterer Indikatoren des Krebsgeschehens, insbesondere Prävalenz, Erkrankung
 
 8. die Mitarbeit in wissenschaftlichen Gremien, europäischen und internationalen Organisationen mit Bezug zu Krebsregistrierung und Krebsepidemiologie.
 
-
-## § 3 – Datenübermittlung
+# § 3 – Datenübermittlung
 
 (1) Die Landeskrebsregister übermitteln an das Zentrum für Krebsregisterdaten zur Erfüllung seiner Aufgaben nach § 2 spätestens bis 31. Dezember des übernächsten Jahres zu allen bis zum Ende eines Jahres erfassten Krebsneuerkrankungen folgende Daten:
 
@@ -82,8 +77,7 @@ c) Durchführung einer Obduktion,
 
 (2) Die zuständigen Landesbehörden stellen sicher, dass die Daten nach Absatz 1 flächendeckend und vollzählig erhoben, nach Prüfung auf Mehrfachmeldungen bereinigt und vollständig in einem einheitlichen Format übermittelt werden. Die Daten klinischer Krebsregistrierung sind zu nutzen.
 
-
-## § 4 – Kontrollnummer, Datenabgleich
+# § 4 – Kontrollnummer, Datenabgleich
 
 (1) Für den Datenabgleich der Landeskrebsregister untereinander und mit dem Zentrum für Krebsregisterdaten ist nach einem für alle Landeskrebsregister einheitlichen Verfahren, das die Wiederherstellung des Personenbezugs durch den Empfänger ausschließt, für jede an Krebs erkrankte Person eine eindeutige Kontrollnummer zu bilden.
 
@@ -91,8 +85,7 @@ c) Durchführung einer Obduktion,
 
 (3) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorgaben für die Bildung der Kontrollnummer nach Absatz 1 sowie für den Umgang mit den vom Zentrum für Krebsregisterdaten festgestellten Mehrfachübermittlungen der Landeskrebsregister festzulegen.
 
-
-## § 5 – Datennutzung
+# § 5 – Datennutzung
 
 (1) Das Zentrum für Krebsregisterdaten nutzt den Datensatz nach § 3 Absatz 1 Nummer 1 bis 3 zur Erfüllung seiner Aufgaben nach § 2 Nummer 3 bis 8.
 
@@ -102,8 +95,7 @@ c) Durchführung einer Obduktion,
 
 (4) Das Zentrum für Krebsregisterdaten veröffentlicht Auswertungen und stellt Auswertungswerkzeuge auf einer interaktiven Internetplattform zur Verfügung.
 
-
-## § 6 – Zusammenarbeit des Zentrums für Krebsregisterdaten mit den Landeskrebsregistern
+# § 6 – Zusammenarbeit des Zentrums für Krebsregisterdaten mit den Landeskrebsregistern
 
 (1) Das Zentrum für Krebsregisterdaten übermittelt dem zuständigen Landeskrebsregister die nach § 2 Nummer 1 geprüften Daten sowie das Ergebnis der Vollzähligkeitsprüfung innerhalb von sechs Monaten nach deren Übermittlung nach § 3 Absatz 1. Das Zentrum für Krebsregisterdaten unterrichtet die Landeskrebsregister über wesentliche Erkenntnisse, die sich aus der Datenauswertung nach § 2 Nummer 3 und 4 ergeben.
 

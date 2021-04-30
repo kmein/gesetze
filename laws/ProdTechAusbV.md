@@ -1,25 +1,19 @@
-# [ProdTechAusbV] Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin
-
-Ausfertigungsdatum: 16.06.2008
-
+% Verordnung über die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin
+% Ausfertigungsdatum: 16.06.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Produktionstechnologe/Produktionstechnologin wird nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -149,8 +143,7 @@ Produkt- und Prozessdatenmanagement;
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -158,15 +151,13 @@ Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete 
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Abschlussprüfung
+# § 5 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der Abschlussprüfung mit 35 Prozent und Teil 2 der Abschlussprüfung mit 65 Prozent gewichtet.
 
-
-## § 6 – Teil 1 der Abschlussprüfung
+# § 6 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -190,8 +181,7 @@ kann;
 
 3. die Prüfungszeit für die Durchführung des betrieblichen Auftrags beträgt neun Stunden; für das auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
-
-## § 7 – Teil 2 der Abschlussprüfung
+# § 7 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -247,8 +237,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelung
+# § 8 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -270,13 +259,10 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+# Anlage 1 – (zu § 3 Abs. 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Sachliche Gliederung –
 
-## Anlage 1 – (zu § 3 Abs. 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Sachliche Gliederung –
-
-
-## Anlage 2 – (zu § 3 Abs. 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Zeitliche Gliederung –
+# Anlage 2 – (zu § 3 Abs. 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Zeitliche Gliederung –

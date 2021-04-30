@@ -1,15 +1,11 @@
-# [TierZOV] Verordnung über Zuchtorganisationen   (Tierzuchtorganisationsverordnung - TierZOV)
-
-Ausfertigungsdatum: 29.04.2009
-
+% Verordnung über Zuchtorganisationen   (Tierzuchtorganisationsverordnung - TierZOV)
+% Ausfertigungsdatum: 29.04.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 1 Nr. 1 Buchstabe a bis d und Nr. 4 und des § 18 Abs. 1 Nr. 3 und 5 des Tierzuchtgesetzes vom 21. Dezember 2006 (BGBl. I S. 3294) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Für die Zuchtarbeit verantwortliche Person
+# § 1 – Für die Zuchtarbeit verantwortliche Person
 
 (1) In einer Zuchtorganisation muss die für die Zuchtarbeit verantwortliche Person die Diplomprüfung oder Masterprüfung in den Agrarwissenschaften an einer Hochschule oder die Masterprüfung in den Agrarwissenschaften an einer Fachhochschule bestanden haben und einen Nachweis erbringen, dass sie eingehende Kenntnisse der Tierzüchtung einschließlich der Verfahren der Leistungsprüfung und Zuchtwertschätzung hat. Der Nachweis nach Satz 1 kann durch einen erfolgreichen Abschluss einer
 
@@ -23,8 +19,7 @@ erbracht werden. Den jeweiligen Befähigungsnachweisen stehen entsprechende Bef�
 
 (2) Hat die zuständige Behörde nach bisherigem Recht einen anderen als in Absatz 1 Satz 2 genannten Nachweis zugelassen, so gilt dieser für den benannten Zuchtleiter oder die benannte Zuchtleiterin fort.
 
-
-## § 2 – Zuchtbuchordnung
+# § 2 – Zuchtbuchordnung
 
 (1) In der Zuchtbuchordnung ist zu regeln,
 
@@ -86,8 +81,7 @@ vorzunehmen sind und wer für die Aufzeichnungen verantwortlich ist;
 
 (4) Den Aufzeichnungen nach Absatz 1 Nr. 3, 5 und 6 stehen im automatisierten Verfahren oder in einem Informationssystem erstellte Unterlagen gleich.
 
-
-## § 3 – Inhalt, Gestaltung und Führung des Zuchtbuches
+# § 3 – Inhalt, Gestaltung und Führung des Zuchtbuches
 
 (1) Das Zuchtbuch muss für jedes eingetragene Zuchttier mindestens folgende Angaben enthalten:
 
@@ -121,8 +115,7 @@ vorzunehmen sind und wer für die Aufzeichnungen verantwortlich ist;
 
 (5) Das Zuchtbuch kann bei der Züchtervereinigung selbst oder in ihrem Auftrag bei einer Einrichtung für Datenverarbeitung geführt werden. Führt eine Züchtervereinigung mehrere Zuchtprogramme durch oder werden von ihr Zuchttiere mehrerer Rassen oder Zuchtrichtungen betreut, so hat sie für jede dieser Rassen und Zuchtrichtungen ein eigenes Zuchtbuch zu führen.
 
-
-## § 4 – Zuchtregisterordnung
+# § 4 – Zuchtregisterordnung
 
 (1) In der Zuchtregisterordnung ist zu regeln,
 
@@ -172,8 +165,7 @@ vorzunehmen sind;
 
 (3) Den Aufzeichnungen nach Absatz 1 Nr. 3, 5 und 6 stehen im automatisierten Verfahren oder im Informationssystem erstellte Unterlagen gleich.
 
-
-## § 5 – Inhalt, Gestaltung und Führung des Zuchtregisters
+# § 5 – Inhalt, Gestaltung und Führung des Zuchtregisters
 
 (1) Das Zuchtregister muss für jedes registrierte Zuchtschwein mindestens folgende Angaben enthalten:
 
@@ -201,8 +193,7 @@ vorzunehmen sind;
 
 (4) Das Zuchtregister kann bei der Zuchtorganisation selbst oder in ihrem Auftrag bei einer Einrichtung für Datenverarbeitung geführt werden. Führt eine Zuchtorganisation mehrere Zuchtprogramme durch, so hat sie für jedes Zuchtprogramm ein besonderes Zuchtregister zu führen.
 
-
-## § 6 – Kennzeichnung
+# § 6 – Kennzeichnung
 
 (1) Die im Zuchtbuch einzutragenden Zuchttiere sowie die im Zuchtregister zu registrierenden Zuchtschweine und ihre für die Durchführung des Zuchtprogramms bestimmten Nachkommen sind
 
@@ -220,8 +211,7 @@ dass durch das Kennzeichen oder die Beschreibung ihre Identität mit Sicherheit 
 
 Im Übrigen bleiben die Vorschriften der Viehverkehrsverordnung unberührt.
 
-
-## § 7 – Zuchtbescheinigung und Herkunftsbescheinigung
+# § 7 – Zuchtbescheinigung und Herkunftsbescheinigung
 
 (1) Eine Zuchtbescheinigung für ein Zuchttier muss über die in Anlage 4 Spalte 2 des Tierzuchtgesetzes bezeichneten Anforderungen hinaus
 
@@ -235,17 +225,14 @@ enthalten.
 
 (3) Eine Zucht- oder Herkunftsbescheinigung für Samen, Eizellen oder Embryonen darf eine Besamungsstation oder Embryo-Entnahmeeinheit nur ausstellen, nachdem die Zuchtorganisation, in deren Zuchtbuch oder Zuchtregister das Spendertier eingetragen ist, ihr die neueste Zucht- oder Herkunftsbescheinigung oder die Abschrift der neuesten Zucht- oder Herkunftsbescheinigung für das Spendertier oder die Spendertiere ausgestellt hat.
 
-
-## § 8 – Verfahren und Merkmale zur Prüfung der Identität und Abstammung
+# § 8 – Verfahren und Merkmale zur Prüfung der Identität und Abstammung
 
 Als Verfahren zur Prüfung der Identität und Abstammung sind sowohl die Bestimmung der Blutgruppe als auch die Bestimmung genomischer Merkmale zugelassen, sofern bei der Bestimmung anhand genomischer Merkmale eine Ausschlusswahrscheinlichkeit von mindestens 99 vom Hundert zu erwarten ist.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

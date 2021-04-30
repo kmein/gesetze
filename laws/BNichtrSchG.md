@@ -1,10 +1,7 @@
-# [BNichtrSchG] Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes und öffentlichen Verkehrsmitteln  (Bundesnichtraucherschutzgesetz - BNichtrSchG)
-
-Ausfertigungsdatum: 20.07.2007
-
+% Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes und öffentlichen Verkehrsmitteln  (Bundesnichtraucherschutzgesetz - BNichtrSchG)
+% Ausfertigungsdatum: 20.07.2007
  
-
-## § 1 – Rauchverbot
+# § 1 – Rauchverbot
 
 (1) Das Rauchen ist nach Maßgabe der Absätze 2 und 3 verboten
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 20.07.2007
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zur Einrichtung und Kennzeichnung von Raucherräumen nach Absatz 3, insbesondere zu den baulichen Anforderungen an die Größe, Lage, Gestaltung sowie zur Art und Weise ihrer Belüftung, zu erlassen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 1. Einrichtungen des Bundes im Sinne dieses Gesetzes sind
 
@@ -47,18 +43,15 @@ a) baulich abgetrennte Einheiten eines Gebäudes,
 
 b) räumlich abgetrennte Einheiten eines Verkehrsmittels.
 
-
-## § 3 – Hinweispflicht
+# § 3 – Hinweispflicht
 
 Auf das Rauchverbot nach § 1 ist in geeigneter Weise hinzuweisen.
 
-
-## § 4 – Verantwortlichkeit
+# § 4 – Verantwortlichkeit
 
 Die Einrichtung der Raucherbereiche und die Erfüllung der Hinweispflicht nach § 3 obliegen dem Inhaber des Hausrechts oder dem Betreiber des Verkehrsmittels.
 
-
-## § 5 – Bußgeldvorschrift
+# § 5 – Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer entgegen § 1 Abs. 1 raucht.
 

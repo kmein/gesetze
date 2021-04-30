@@ -1,15 +1,11 @@
-# [VglWebV] Verordnung über die Anforderungen an Vergleichswebsites nach dem Zahlungskontengesetz sowie an die Akkreditierung und Konformitätsbewertung  (Vergleichswebsitesverordnung - VglWebV)
-
-Ausfertigungsdatum: 16.07.2018
-
+% Verordnung über die Anforderungen an Vergleichswebsites nach dem Zahlungskontengesetz sowie an die Akkreditierung und Konformitätsbewertung  (Vergleichswebsitesverordnung - VglWebV)
+% Ausfertigungsdatum: 16.07.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 19 Absatz 1 bis 3 des Zahlungskontengesetzes vom 11. April 2016 (BGBl. I S. 720) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Vergleichswebsite ist eine Website im Sinne des § 16 Absatz 1 des Zahlungskontengesetzes.
 
@@ -23,8 +19,7 @@ Auf Grund des § 19 Absatz 1 bis 3 des Zahlungskontengesetzes vom 11. April 2016
 
 (6) Betreiber einer Vergleichswebsite ist, wer entgeltfrei auf seiner Website den Zahlungskontenvergleich nach § 16 Absatz 1 des Zahlungskontengesetzes durchführt und das Ergebnis des Zahlungskontenvergleichs dem Verbraucher unterbreitet.
 
-
-## § 2 – Hinweispflichten des Betreibers einer Vergleichswebsite
+# § 2 – Hinweispflichten des Betreibers einer Vergleichswebsite
 
 (1) Der Betreiber einer Vergleichswebsite muss auf der Vergleichswebsite darauf hinweisen, dass es sich um eine Vergleichswebsite nach dem Zahlungskontengesetz handelt.
 
@@ -32,18 +27,15 @@ Auf Grund des § 19 Absatz 1 bis 3 des Zahlungskontengesetzes vom 11. April 2016
 
 (3) Falls dem angebotenen Zahlungskontenvergleich keine vollständige Marktübersicht zugrunde liegt, muss darauf auf der Vergleichswebsite eindeutig hingewiesen werden.
 
-
-## § 3 – Anforderungen an Vergleichskriterien
+# § 3 – Anforderungen an Vergleichskriterien
 
 Der Betreiber einer Vergleichswebsite erfüllt die Anforderungen nach § 17 Nummer 1 und 4 des Zahlungskontengesetzes, wenn er die von der Bundesanstalt für Finanzdienstleistungsaufsicht nach § 47 Absatz 1 des Zahlungskontengesetzes veröffentlichte Liste der repräsentativsten mit einem Zahlungskonto verbundenen Dienste verwendet.
 
-
-## § 4 – Vergleichskriterium Filialnetz
+# § 4 – Vergleichskriterium Filialnetz
 
 Der Betreiber einer Vergleichswebsite muss zur Erfüllung der Anforderungen nach § 17 Nummer 2 des Zahlungskontengesetzes sicherstellen, dass das Vergleichsergebnis für das Filialnetz diejenigen inländischen Zweigstellen ausweist, die ein Institut nach § 24 Absatz 1a Nummer 4 des Kreditwesengesetzes jährlich anzuzeigen hat.
 
-
-## § 5 – Vergleichskriterium Geldautomatennetz
+# § 5 – Vergleichskriterium Geldautomatennetz
 
 Der Betreiber einer Vergleichswebsite muss zusätzlich zu den Anforderungen nach § 17 Nummer 3 des Zahlungskontengesetzes sicherstellen, dass das Vergleichsergebnis für das Geldautomatennetz
 
@@ -51,8 +43,7 @@ Der Betreiber einer Vergleichswebsite muss zusätzlich zu den Anforderungen nach
 
 2. nur solche Geldautomaten ausweist, an denen der Kunde die Geldausgabefunktion mit den zum Zahlungskonto ausgestellten Zahlungskarten unentgeltlich nutzen kann.
 
-
-## § 6 – Unabhängiger Betrieb
+# § 6 – Unabhängiger Betrieb
 
 Der Betreiber einer Vergleichswebsite erfüllt die Anforderung eines unabhängigen Betriebs nach § 18 Nummer 1 des Zahlungskontengesetzes, wenn er
 
@@ -76,8 +67,7 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 8. Links zu Anbietern von Zahlungskonten oder zu anderen externen Inhalten als solche eindeutig kenntlich macht.
 
-
-## § 7 – Verwendung klarer und objektiver Vergleichskriterien
+# § 7 – Verwendung klarer und objektiver Vergleichskriterien
 
 (1) Im Hinblick auf die Anforderung nach § 18 Nummer 3 des Zahlungskontengesetzes, klare und objektive Vergleichskriterien zu verwenden, muss der Betreiber einer Vergleichswebsite
 
@@ -93,8 +83,7 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 2. Voreinstellungen vorzunehmen, um bestimmte eingegrenzte Nutzungsszenarien abzubilden.
 
-
-## § 8 – Bereitstellung korrekter und aktueller Informationen
+# § 8 – Bereitstellung korrekter und aktueller Informationen
 
 (1) Im Hinblick auf die Anforderung nach § 18 Nummer 5 des Zahlungskontengesetzes, korrekte und aktuelle Informationen bereitzustellen, muss der Betreiber einer Vergleichswebsite sicherstellen, dass
 
@@ -108,8 +97,7 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 2. Datum und Zeitpunkt der Erstellung des Vergleichs sowie der letzten Aktualisierung der zugrundeliegenden Daten enthalten.
 
-
-## § 9 – Wesentlicher Teil des Marktes
+# § 9 – Wesentlicher Teil des Marktes
 
 (1) Im Hinblick auf die Vergleichsgröße nach § 18 Nummer 6 des Zahlungskontengesetzes muss der Betreiber einer Vergleichswebsite sicherstellen, dass die Marktübersicht seiner Vergleichswebsite eine ausgewogene Anzahl von Angeboten aus jeder Bankengruppe enthält. Die Bankengruppen sind den Erläuterungen zur jeweils aktuellen Fassung der Bankenstatistik der Deutschen Bundesbank unter dem Stichwort „Bankengruppen“ zu entnehmen.
 
@@ -121,15 +109,13 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 (3) Der Betreiber einer Vergleichswebsite muss sicherstellen, dass für den Nutzer eine regionale Eingrenzung der Vergleichsangebote durch die Eingabe einer Postleitzahl ermöglicht wird.
 
-
-## § 10 – Meldeverfahren
+# § 10 – Meldeverfahren
 
 (1) Im Hinblick auf die Anforderung eines wirksamen Meldeverfahrens nach § 18 Nummer 7 des Zahlungskontengesetzes muss der Betreiber der Vergleichswebsite es dem Nutzer und dem Zahlungskontenanbieter ermöglichen, dem Betreiber unrichtige Informationen zu Entgelten, Kosten und Vertragsstrafen direkt zu melden. Hierzu muss er eine angemessene Kontaktmöglichkeit anbieten.
 
 (2) Der Betreiber der Vergleichswebsite muss unrichtige Informationen, die ihm der Nutzer über die angebotene Kontaktmöglichkeit direkt meldet, unverzüglich berichtigen.
 
-
-## § 11 – Pflichten gegenüber der Konformitätsbewertungsstelle
+# § 11 – Pflichten gegenüber der Konformitätsbewertungsstelle
 
 (1) Der Betreiber ist verpflichtet, der Konformitätsbewertungsstelle
 
@@ -139,15 +125,13 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 (2) Zu Vergütungen nach Absatz 1 Nummer 1 gehören insbesondere direkte Provisionen, Klickgebühren und Werbeeinnahmen.
 
-
-## § 12 – Akkreditierung von Konformitätsbewertungsstellen
+# § 12 – Akkreditierung von Konformitätsbewertungsstellen
 
 (1) Konformitätsbewertungsstellen sind erst dann zur Zertifizierung von Betreibern einer Website mit den Funktionen einer Vergleichswebsite nach dem Zahlungskontengesetz berechtigt, wenn sie für diesen Bereich bei der nationalen Akkreditierungsstelle gemäß ISO/IEC 17065 akkreditiert sind.
 
 (2) Zum Akkreditierungsverfahren wird auf Artikel 5 Absatz 1 der Verordnung (EG) Nr. 765/2008 in Verbindung mit § 1 Absatz 1 Satz 1 und § 2 Absatz 1 des Akkreditierungsstellengesetzes verwiesen.
 
-
-## § 13 – Zertifizierung von Vergleichswebsites
+# § 13 – Zertifizierung von Vergleichswebsites
 
 (1) Die akkreditierte Konformitätsbewertungsstelle erteilt das Zertifikat nach § 16 Absatz 1 des Zahlungskontengesetzes für drei Jahre.
 
@@ -167,8 +151,7 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 2. nicht nach Absatz 2 im Vorfeld über wesentliche Änderungen informiert hat.
 
-
-## § 14 – Prüfpflichten der Konformitätsbewertungsstellen
+# § 14 – Prüfpflichten der Konformitätsbewertungsstellen
 
 (1) Die Konformitätsbewertungsstellen sind verpflichtet und gegenüber dem Betreiber einer Vergleichswebsite berechtigt,
 
@@ -184,8 +167,7 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 (5) Die Konformitätsbewertungsstellen haben möglichst innerhalb einer Woche nach Eingang einer Information zu geplanten Änderungen nach § 13 Absatz 2 zu prüfen und zu bestätigen, dass die Konformität auch nach der Umsetzung der angezeigten Änderungen weiterhin besteht.
 
-
-## § 15 – Verwendung des Zertifizierungssymbols
+# § 15 – Verwendung des Zertifizierungssymbols
 
 (1) Auf der Vergleichswebsite ist das in Anlage 2 abgedruckte Zertifizierungssymbol zu verwenden.
 
@@ -199,8 +181,7 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 (6) Die Konformitätsbewertungsstelle ist verpflichtet, auf von ihr erteilten Zertifikaten ihrerseits das Akkreditierungssymbol gemäß § 1 Absatz 1 der Akkreditierungssymbolverordnung vom 15. Dezember 2009 (BGBl. I S. 3870) zu verwenden.
 
-
-## § 16 – Bereitstellung der Vergleichskriterien durch die Zahlungsdienstleister
+# § 16 – Bereitstellung der Vergleichskriterien durch die Zahlungsdienstleister
 
 (1) Zahlungsdienstleister stellen die Vergleichskriterien nach § 17 des Zahlungskontengesetzes in geeigneter Form auf ihrer Website bereit. Die Darstellung der Informationen richtet sich nach den Anforderungen des standardisierten Präsentationsformats, das von der Europäischen Kommission nach Artikel 4 Absatz 6 der Richtlinie 2014/92/EU des Europäischen Parlaments und des Rates vom 23. Juli 2014 über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten und den Zugang zu Zahlungskonten mit grundlegenden Funktionen (ABl. L 257 vom 28.8.2014, S. 214) festgelegt worden ist.
 
@@ -208,28 +189,24 @@ b) nicht von anderen Websites oder Websiteelementen teilweise oder ganz verdeckt
 
 (3) Zahlungsdienstleister stellen die Informationen nach § 17 Nummer 1 und 4 des Zahlungskontengesetzes jeweils aktualisiert bereit. Für die Kriterien Filialnetz und Geldautomatennetz ist eine jährliche Aktualisierung ausreichend.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. § 16 dieser Verordnung tritt am 31. Oktober 2018 in Kraft.
 
-
-## Anlage 1 – (zu § 2 Absatz 2) Hinweistext
+# Anlage 1 – (zu § 2 Absatz 2) Hinweistext
 
 (Fundstelle: BGBl. I 2018, 1186)
 
 <table style="border-collapse: collapse;"><tbody><tr class="odd"><td>Dies ist eine Vergleichswebsite, die nach dem Zahlungskontengesetz zertifiziert ist. Sie können sich hier entgeltfrei über die Konditionen für Zahlungskonten (z. B. Girokonten) verschiedener Banken und anderer Zahlungsdienstleister informieren. Diese Vergleichswebsite ist unabhängig. Ihr Vergleich beruht auf klaren und objektiven Kriterien.<br />
 </td></tr><tr class="even"><td>Diese Vergleichswebsite wurde von einer Konformitätsbewertungsstelle geprüft und zertifiziert, die von der Deutschen Akkreditierungsstelle GmbH (DAkkS) akkreditiert worden ist.</td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 15 Absatz 1) Zertifizierungssymbol
+# Anlage 2 – (zu § 15 Absatz 1) Zertifizierungssymbol
 
 (Fundstelle: BGBl. I 2018, 1187)
 
-![](../normengrafiken/bgbl1_2018/j1182-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1182-1_0010.jpg)
 
-
-## Anlage 3 – (zu § 15 Absatz 3) Verwendungsbestimmungen
+# Anlage 3 – (zu § 15 Absatz 3) Verwendungsbestimmungen
 
 (Fundstelle: BGBl. I 2018, 1188)
 

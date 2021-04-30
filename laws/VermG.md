@@ -1,10 +1,7 @@
-# [VermG] Gesetz zur Regelung offener Vermögensfragen  (Vermögensgesetz - VermG)
-
-Ausfertigungsdatum: 23.09.1990
-
+% Gesetz zur Regelung offener Vermögensfragen  (Vermögensgesetz - VermG)
+% Ausfertigungsdatum: 23.09.1990
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz regelt vermögensrechtliche Ansprüche an Vermögenswerten, die
 
@@ -49,8 +46,7 @@ c) Anteilrechte an der Altguthabenablösungsanleihe;
 
 d) Ansprüche von Gebietskörperschaften des beitretenden Gebiets gemäß Artikel 3 des Einigungsvertrages, soweit sie vom Kommunalvermögensgesetz vom 6. Juli 1990 (GBl. I Nr. 42 S. 660) erfasst sind.
 
-
-## § 2 – Begriffsbestimmung
+# § 2 – Begriffsbestimmung
 
 (1) Berechtigte im Sinne dieses Gesetzes sind natürliche und juristische Personen sowie Personenhandelsgesellschaften, deren Vermögenswerte von Maßnahmen gemäß § 1 betroffen sind, sowie ihre Rechtsnachfolger. Rechtsnachfolger einer jüdischen juristischen Person oder nicht rechtsfähigen jüdischen Personenvereinigung ist in den Fällen des § 1 Abs. 6 auch, wer auf Grund des Befehls Nr. 82 des Obersten Chefs der sowjetischen Militärverwaltung vom 29. April 1948 (Regierungsblatt für Mecklenburg S. 76) Eigentum an dem entzogenen Vermögenswert erlangt und dieses bis zum 2. Oktober 1990 innegehalten hat. Soweit Ansprüche von jüdischen Berechtigten im Sinne des § 1 Abs. 6 oder deren Rechtsnachfolgern nicht geltend gemacht werden, gelten in Ansehung der Ansprüche nach dem Vermögensgesetz die Nachfolgeorganisationen des Rückerstattungsrechts und, soweit diese keine Ansprüche anmelden, die Conference on Jewish Material Claims against Germany, Inc. als Rechtsnachfolger. Dasselbe gilt, soweit der Staat Erbe oder Erbeserbe eines jüdischen Verfolgten im Sinne des § 1 Abs. 6 ist oder soweit eine jüdische juristische Person oder eine nicht rechtsfähige jüdische Personenvereinigung aus den Gründen des § 1 Abs. 6 aufgelöst oder zur Selbstauflösung gezwungen wurde. Im Übrigen gelten in den Fällen des § 1 Abs. 6 als Rechtsnachfolger von aufgelösten oder zur Selbstauflösung gezwungenen Vereinigungen die Nachfolgeorganisationen, die diesen Vereinigungen nach ihren Organisationsstatuten entsprechen und deren Funktionen oder Aufgaben wahrnehmen oder deren satzungsmäßige Zwecke verfolgen; als Rechtsnachfolger gelten insbesondere die Organisationen, die auf Grund des Rückerstattungsrechts als Nachfolgeorganisationen anerkannt worden sind.
 
@@ -62,8 +58,7 @@ d) Ansprüche von Gebietskörperschaften des beitretenden Gebiets gemäß Artike
 
 (4) Unter Schädigung im Sinne dieses Gesetzes ist jede Maßnahme gemäß § 1 zu verstehen.
 
-
-## § 2a – Erbengemeinschaft
+# § 2a – Erbengemeinschaft
 
 (1) Ist Rechtsnachfolger des von Maßnahmen nach § 1 Betroffenen eine Erbengemeinschaft, deren Mitglieder nicht sämtlich namentlich bekannt sind, so ist der Vermögenswert der Erbengemeinschaft nach dem zu bezeichnenden Erblasser als solcher zurückzuübertragen. Die Erbengemeinschaft ist nach Maßgabe von § 34 im Grundbuch als Eigentümerin einzutragen.
 
@@ -75,8 +70,7 @@ d) Ansprüche von Gebietskörperschaften des beitretenden Gebiets gemäß Artike
 
 (4) Diese Vorschriften gelten entsprechend, wenn eine Erbengemeinschaft als solche von Maßnahmen nach § 1 betroffen ist.
 
-
-## § 3 – Grundsatz
+# § 3 – Grundsatz
 
 (1) Vermögenswerte, die den Maßnahmen im Sinne des § 1 unterlagen und in Volkseigentum überführt oder an Dritte veräußert wurden, sind auf Antrag an die Berechtigten zurückzuübertragen, soweit dies nicht nach diesem Gesetz ausgeschlossen ist. Der Anspruch auf Rückübertragung, Rückgabe oder Entschädigung kann abgetreten, verpfändet oder gepfändet werden; die Abtretung ist unwirksam, wenn sie unter einer Bedingung oder Zeitbestimmung erfolgt; sie und die Verpflichtung hierzu bedürfen der notariellen Beurkundung, wenn der Anspruch auf Rückübertragung eines Grundstücks, Gebäudes oder Unternehmens gerichtet ist; eine ohne Beachtung dieser Form eingegangene Verpflichtung oder Abtretung wird ihrem ganzen Inhalte nach gültig, wenn das Eigentum an dem Grundstück, Gebäude oder Unternehmen gemäß § 34 oder sonst wirksam auf den Erwerber des Anspruchs übertragen wird. Ein Berechtigter, der einen Antrag auf Rückgabe eines Unternehmens stellt oder stellen könnte, kann seinen Antrag nicht auf die Rückgabe einzelner Vermögensgegenstände beschränken, die sich im Zeitpunkt der Schädigung in seinem Eigentum befanden; § 6 Abs. 6a Satz 1 bleibt unberührt. Gehören Vermögensgegenstände, die mit einem nach § 1 Abs. 6 in Verbindung mit § 6 zurückzugebenden oder einem nach diesem oder einem anderen nach dem 8. Mai 1945 ergangenen Gesetz bereits zurückgegebenen Unternehmen entzogen oder von ihm später angeschafft worden sind, aus irgendwelchen Gründen nicht mehr zum Vermögen des Unternehmens, so kann der Berechtigte verlangen, dass ihm an diesen Gegenständen im Wege der Einzelrestitution in Höhe der ihm entzogenen Beteiligung Bruchteilseigentum eingeräumt wird; dieser Anspruch besteht auch, wenn eine unmittelbare oder mittelbare Beteiligung an einem Unternehmen Gegenstand der Schädigung nach § 1 Abs. 6 ist und das Unternehmen zum Zeitpunkt der Schädigung nicht von Maßnahmen nach § 1 betroffen war; in Fällen der mittelbaren Beteiligung gilt dies nur, wenn das Beteiligungsunternehmen jeweils mehr als den fünften Teil der Anteile, auf deren Berechnung § 16 Abs. 2 und 4 des Aktiengesetzes anzuwenden ist, am gezeichneten Kapital eines Unternehmens besaß; als Zeitpunkt der Schädigung gilt der Zeitpunkt der Entziehung des Unternehmens oder der Beteiligung. Berechtigter im Sinne des Satzes 4 ist der geschädigte Gesellschafter und nicht das in § 6 Abs. 1a bezeichnete Unternehmen. Es wird vermutet, dass Gegenstände, die von einem dieser Unternehmen bis zum 8. Mai 1945 angeschafft worden sind, mit Mitteln des Unternehmens erworben wurden. Dem Verfügungsberechtigten ist auf seinen Antrag zu gestatten, den Anspruch des Berechtigten auf Einräumung von Bruchteilseigentum mit dem anteiligen Verkehrswert abzufinden. Ist der Anspruch auf Vermögenswerte gerichtet, die zu einem selbständigen Unternehmen zusammengefasst sind oder ohne erhebliche wirtschaftliche Nachteile für den Berechtigten zu einem Unternehmen zusammengefasst werden können, so ist der Berechtigte auf Antrag des Verfügungsberechtigten an dem Unternehmen entsprechend zu beteiligen; gehören solche Vermögenswerte zu einem Unternehmen, das auch anderes Vermögen besitzt, so ist auf Antrag des Verfügungsberechtigten dem Berechtigten eine entsprechende Beteiligung an dem die Vermögenswerte besitzenden Unternehmen einzuräumen, wenn dies nicht zu erheblichen wirtschaftlichen Nachteilen für den Berechtigten führt. Der Berechtigte hat dem Verfügungsberechtigten die nach dem 2. Oktober 1990 aufgewendeten Kosten für vor der Konkretisierung des Antrags auf Rückübertragung (§ 11 Abs. 1 Grundstücksverkehrsordnung) in bezug auf den Vermögenswert durchgeführte oder begonnene Bebauungs-, Modernisierungs- oder Instandsetzungsmaßnahmen anteilig zu erstatten, sobald über die Einräumung von Bruchteilseigentum bestandskräftig entschieden wurde, soweit diese Kosten nicht mit Entgelten im Sinne des § 7 Abs. 7 Satz 2 und 4 oder entsprechend der Finanzierung mit künftigen Entgelten dieser Art verrechenbar sind; im Streitfall entscheiden die ordentlichen Gerichte. Die Sätze 4 bis 9 sind entsprechend auf Vermögenswerte anzuwenden, die nach § 1 Abs. 6 in Verbindung mit § 6 Abs. 6a Satz 1 zurückzuübertragen sind, auch wenn sie schon vor der Stillegung nicht mehr zum Vermögen des Unternehmens gehörten; § 6 Abs. 1a, Abs. 6a Satz 2 gilt nicht. Die Sätze 4 bis 10 sind nicht anzuwenden, wenn für den Wohnungsbau bestimmte Vermögenswerte entsprechend dem überwiegenden Unternehmenszweck eines Entwicklungs-, Siedlungs- oder Wohnungsbauunternehmens, wie er vor der Schädigung bestanden hat, bis zum 8. Mai 1945 an natürliche Personen veräußert wurden, es sei denn, die Veräußerung ist nicht zu einem für das Unternehmen üblichen Preis erfolgt.
 
@@ -96,13 +90,11 @@ erforderlich sind. Ausgenommen sind, soweit sie nicht bereits nach den Sätzen 2
 
 (5) Der Verfügungsberechtigte hat sich vor einer Verfügung bei dem Amt zur Regelung offener Vermögensfragen, in dessen Bezirk der Vermögenswert belegen ist, und, soweit ein Unternehmen betroffen ist, bei dem Landesamt zur Regelung offener Vermögensfragen, in dessen Bezirk das Unternehmen seinen Sitz (Hauptniederlassung) hat, zu vergewissern, dass keine Anmeldung im Sinne des Absatzes 3 hinsichtlich des Vermögenswertes vorliegt; diese Pflicht besteht in beiden Fallgruppen auch gegenüber dem Bundesamt für zentrale Dienste und offene Vermögensfragen.
 
-
-## § 3a
+# § 3a
 
 (weggefallen)
 
-
-## § 3b – Gesamtvollstreckungsverfahren, Zwangsversteigerungsverfahren
+# § 3b – Gesamtvollstreckungsverfahren, Zwangsversteigerungsverfahren
 
 (1) Der Anspruch nach § 3 Abs. 1 Satz 1 wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Verfügungsberechtigten nicht berührt. Dies gilt, außer in den Fällen des § 6 Abs. 6a nicht, wenn ein Unternehmen Gegenstand eines Rückübertragungsanspruchs nach § 6 Abs. 1 Satz 1 ist.
 
@@ -112,15 +104,13 @@ erforderlich sind. Ausgenommen sind, soweit sie nicht bereits nach den Sätzen 2
 
 (4) Ist die Rückübertragung eines Grundstücks oder Gebäudes nicht mehr möglich, weil es im Wege der Zwangsversteigerung veräußert wurde, kann der Berechtigte vom bisherigen Verfügungsberechtigten die Zahlung eines Geldbetrages in Höhe des Versteigerungserlöses verlangen. Der bisherige Verfügungsberechtigte kann mit Ansprüchen nach § 7 Abs. 2 und § 7a Abs. 2 aufrechnen. Die Zahlung nach Satz 1 steht dem Erlös aus einer Veräußerung des Grundstücks gleich. Dies gilt auch in Ansehung von Ansprüchen des Entschädigungsfonds nach § 7a Abs. 2 Satz 4.
 
-
-## § 3c – Erlaubte Veräußerungen
+# § 3c – Erlaubte Veräußerungen
 
 (1) § 3 Abs. 3 gilt für die Veräußerung von Vermögenswerten der Treuhandanstalt oder eines Unternehmens, dessen sämtliche Anteile sich mittelbar oder unmittelbar in der Hand der Treuhandanstalt oder der Bundesrepublik Deutschland befinden, nicht, wenn sich der Erwerber zur Duldung der Rückübertragung des Vermögenswertes auf den Berechtigten nach Maßgabe dieses Abschnitts verpflichtet. Steht der Vermögenswert im Eigentum eines anderen Verfügungsberechtigten, gilt Satz 1 nur, wenn der Erwerber ein Antragsteller nach § 30 Abs. 1 ist oder wenn der Erwerber eine juristische Person des öffentlichen Rechts, eine von einer solchen Person beherrschte juristische Person des Privatrechts oder eine Genossenschaft ist.
 
 (2) Die Rückübertragung kann in den Fällen des Absatzes 1 auch nach Wirksamwerden der Veräußerung erfolgen. Bis zur Bestandskraft der Entscheidung über die Rückübertragung unterliegt der Erwerber vorbehaltlich der Bestimmungen des Investitionsvorranggesetzes den Beschränkungen des § 3 Abs. 3.
 
-
-## § 4 – Ausschluss der Rückübertragung
+# § 4 – Ausschluss der Rückübertragung
 
 (1) Eine Rückübertragung des Eigentumsrechtes oder sonstiger Rechte an Vermögenswerten ist ausgeschlossen, wenn dies von der Natur der Sache her nicht mehr möglich ist. Die Rückgabe von Unternehmen ist ausgeschlossen, wenn und soweit der Geschäftsbetrieb eingestellt worden ist und die tatsächlichen Voraussetzungen für die Wiederaufnahme des Geschäftsbetriebs nach vernünftiger kaufmännischer Beurteilung fehlen. Die Rückgabe des Unternehmens ist auch ausgeschlossen, wenn und soweit ein Unternehmen auf Grund folgender Vorschriften veräußert wurde:
 
@@ -150,8 +140,7 @@ b) darauf beruhte, dass der Erwerber durch Korruption oder Ausnutzung einer pers
 
 c) davon beeinflusst war, dass sich der Erwerber eine von ihm selbst oder von dritter Seite herbeigeführte Zwangslage oder Täuschung des ehemaligen Eigentümers zu Nutze gemacht hat.
 
-
-## § 5 – Ausschluss der Rückübertragung von Eigentumsrechten an Grundstücken und Gebäuden
+# § 5 – Ausschluss der Rückübertragung von Eigentumsrechten an Grundstücken und Gebäuden
 
 (1) Eine Rückübertragung von Eigentumsrechten an Grundstücken und Gebäuden ist gemäß § 4 Abs. 1 insbesondere auch dann ausgeschlossen, wenn Grundstücke und Gebäude
 
@@ -167,8 +156,7 @@ d) der gewerblichen Nutzung zugeführt oder in eine Unternehmenseinheit einbezog
 
 (3) Änderungen der tatsächlichen Umstände, die einen Ausschlussgrund nach Absatz 1 Buchstabe a bis d begründen, können von den Berechtigten nach bestandskräftigem Abschluss des Verfahrens nicht mehr geltend gemacht werden. Die Vorschriften über die Rücknahme und den Widerruf von Verwaltungsakten bleiben unberührt.
 
-
-## § 6 – Rückübertragung von Unternehmen
+# § 6 – Rückübertragung von Unternehmen
 
 (1) Ein Unternehmen ist auf Antrag an den Berechtigten zurückzugeben, wenn es unter Berücksichtigung des technischen Fortschritts und der allgemeinen wirtschaftlichen Entwicklung mit dem enteigneten Unternehmen im Zeitpunkt der Enteignung vergleichbar ist; der Anspruch auf Rückgabe von Anteils- oder Mitgliedschaftsrechten richtet sich gegen die in § 2 Abs. 3 bezeichneten Inhaber dieser Rechte, der Anspruch auf Rückgabe des Unternehmens gegen den dort bezeichneten Verfügungsberechtigten. Im Zeitpunkt der Rückgabe festzustellende wesentliche Verschlechterungen oder wesentliche Verbesserungen der Vermögens- oder Ertragslage sind auszugleichen; Schuldner bei wesentlicher Verschlechterung oder Gläubiger bei wesentlicher Verbesserung ist die Treuhandanstalt oder eine andere in § 24 Abs. 1 Satz 1 des D-Markbilanzgesetzes bezeichnete Stelle, wenn sie unmittelbar oder mittelbar an dem Verfügungsberechtigten beteiligt ist. Das Unternehmen ist mit dem enteigneten Unternehmen vergleichbar, wenn das Produkt- oder Leistungsangebot des Unternehmens unter Berücksichtigung des technischen und wirtschaftlichen Fortschritts im Grundsatz unverändert geblieben ist oder frühere Produkte oder Leistungen durch andere ersetzt worden sind. Ist das Unternehmen mit einem oder mehreren anderen Unternehmen zusammengefasst worden, so kommt es für die Vergleichbarkeit nur auf diesen Unternehmensteil an.
 
@@ -208,8 +196,7 @@ Wird der Anspruch auf Rückgabe nach Satz 1 Buchstabe c erfüllt, so haftet jede
 
 (10) Das Gericht am Sitz des Rückgabeberechtigten hat unter den Voraussetzungen des Absatzes 1a Satz 2 auf Antrag Abwickler zu bestellen. Vor der Eintragung der Auflösung des Rückgabeberechtigten und seiner Abwickler ist ein im Register zu dem Berechtigten eingetragener Löschungsvermerk von Amts wegen zu löschen. Sind Registereintragungen zu dem Berechtigten nicht mehr vorhanden, so haben die Abwickler ihn, wenn er nach Absatz 1a Satz 2 fortbesteht, als in Auflösung befindlich zur Eintragung in das Handelsregister anzumelden. Im Übrigen ist für die Abwicklung das jeweils für den Berechtigten geltende Recht anzuwenden. Die Fortsetzung des Berechtigten kann beschlossen werden, solange noch nicht mit der Verteilung des zurückzugebenden Vermögens an die Gesellschafter oder Mitglieder begonnen ist. Einer Eintragung oder Löschung im Register bedarf es nicht, wenn die zur Stellung des Antrags berechtigten Personen beschließen, dass der Berechtigte nicht fortgesetzt und dass in Erfüllung des Rückgabeanspruchs unmittelbar an die Gesellschafter des Berechtigten oder deren Rechtsnachfolger geleistet wird.
 
-
-## § 6a – Vorläufige Einweisung
+# § 6a – Vorläufige Einweisung
 
 (1) Die Behörde hat Berechtigte nach § 6 auf Antrag vorläufig in den Besitz des zurückzugebenden Unternehmens einzuweisen, wenn die Berechtigung nachgewiesen ist und kein anderer Berechtigter nach § 3 Abs. 2 Vorrang hat. Wird die Berechtigung nur glaubhaft gemacht, erfolgt die vorläufige Einweisung, wenn
 
@@ -223,8 +210,7 @@ Wird der Anspruch auf Rückgabe nach Satz 1 Buchstabe c erfüllt, so haftet jede
 
 (4) Einer Entscheidung der Behörde bedarf es nicht, wenn der Berechtigte und der Verfügungsberechtigte eine vorläufige Nutzung des zurückzugebenden Unternehmens vereinbaren. Die Vereinbarung ist der Behörde mitzuteilen.
 
-
-## § 6b – Entflechtung
+# § 6b – Entflechtung
 
 (1) Ein Unternehmen kann zur Erfüllung eines oder mehrerer Ansprüche auf Rückgabe nach § 6 in rechtlich selbständige Unternehmen oder in Vermögensmassen (Betriebsstätten) ganz oder teilweise entflochten werden. § 6 Abs. 1 bis 4 ist auf jede so gebildete Vermögensmasse gesondert anzuwenden. Über die Entflechtung entscheidet die zuständige Behörde auf Antrag der Berechtigten oder des Verfügungsberechtigten durch Bescheid nach § 33 Abs. 4. Der Antragsteller hat der Behörde nachzuweisen, dass er den Antrag auf Entflechtung auch dem zuständigen Betriebsrat des zu entflechtenden Unternehmens zur Unterrichtung zugeleitet hat.
 
@@ -254,8 +240,7 @@ Wird der Anspruch auf Rückgabe nach Satz 1 Buchstabe c erfüllt, so haftet jede
 
 (9) Im Falle der Entflechtung bleibt der Betriebsrat im Amt und führt die Geschäfte für die ihm bislang zugeordneten Betriebsteile weiter, soweit sie über die in § 1 des Betriebsverfassungsgesetzes genannte Arbeitnehmerzahl verfügen und nicht in einen Betrieb eingegliedert werden, in dem ein Betriebsrat besteht. Das Übergangsmandat endet, sobald in den Betriebsteilen ein neuer Betriebsrat gewählt und das Wahlergebnis bekannt gegeben ist, spätestens jedoch drei Monate nach Wirksamwerden der Entflechtung des Unternehmens. Werden Betriebsteile, die bislang verschiedenen Betrieben zugeordnet waren, zu einem Betrieb zusammengefasst, so nimmt der Betriebsrat, dem der nach der Zahl der wahlberechtigten Arbeitnehmer größte Betriebsteil zugeordnet war, das Übergangsmandat wahr. Satz 3 gilt entsprechend, wenn Betriebe zu einem neuen Betrieb zusammengefasst werden. Stehen die an der Entflechtung beteiligten Unternehmen im Wettbewerb zueinander, so sind die Vorschriften über die Beteiligungsrechte des Betriebsrats nicht anzuwenden, soweit sie Angelegenheiten betreffen, die den Wettbewerb zwischen diesen Unternehmen beeinflussen können.
 
-
-## § 7 – Wertausgleich
+# § 7 – Wertausgleich
 
 (1) Der Berechtigte hat, außer in den Fällen des Absatzes 2, die Kosten für vom Verfügungsberechtigten bis zum 2. Oktober 1990 durchgeführte Maßnahmen für eine Bebauung, Modernisierung oder Instandsetzung des Vermögenswertes zu ersetzen, soweit die Zuordnung der Kosten der Maßnahmen zum Vermögenswert durch den gegenwärtig Verfügungsberechtigten nachgewiesen ist und diese Kosten im Kalenderjahr im Durchschnitt 10.000 Mark der Deutschen Demokratischen Republik je Einheit im Sinne des § 18 Abs. 2 Satz 3 überschritten haben. Kann eine Zuordnung der Kosten nach Satz 1 nicht nachgewiesen werden, ist jedoch eine Schätzung der Kosten und ihre Zuordnung zum Vermögenswert möglich, sind die Kosten und ihre Zuordnung nach Maßgabe des § 31 Abs. 1 Satz 2 und 3 unter Berücksichtigung der bei der Rückgabe des Vermögenswertes noch feststellbaren Maßnahmen zu schätzen. Von dem nach Satz 1 oder Satz 2 ermittelten Betrag, bei Gebäuden der 10.000 Mark der Deutschen Demokratischen Republik im Durchschnitt je Einheit überschreitende Betrag, sind jährliche Abschläge von acht vom Hundert bis zur Entscheidung über die Rückgabe vorzunehmen. Mark der Deutschen Demokratischen Republik, Reichs- oder Goldmark sind im Verhältnis 2 zu 1 auf Deutsche Mark umzurechnen. Auf Antrag des Berechtigten wird über die Rückübertragung des Vermögenswertes gesondert vorab entschieden, wenn der Berechtigte für einen von dem Amt zur Regelung offener Vermögensfragen festzusetzenden Betrag in Höhe der voraussichtlich zu ersetzenden Kosten Sicherheit nach den Vorschriften des 2. Abschnitts der Hypothekenablöseverordnung geleistet hat. § 34 Abs. 1 Satz 3 bis 6 gilt entsprechend.
 
@@ -283,8 +268,7 @@ aufrechnen. § 16 Abs. 2 Satz 1 und 2 des Investitionsvorranggesetzes bleibt unb
 
 (8) Ansprüche nach den Absätzen 2 und 7 sind nicht im Verfahren nach Abschnitt VI geltend zu machen. Die Ansprüche erlöschen, wenn sie nicht binnen eines Jahres seit dem Eintritt der Bestandskraft des Bescheides über die Rückübertragung des Eigentums schriftlich geltend gemacht worden sind, jedoch nicht vor dem 1. August 1999. Für Streitigkeiten sind die ordentlichen Gerichte zuständig, in deren Bezirk sich der Vermögenswert ganz oder überwiegend befindet.
 
-
-## § 7a – Gegenleistung
+# § 7a – Gegenleistung
 
 (1) Ein vom Verfügungsberechtigten im Zusammenhang mit dem Erwerb des Eigentums an dem zurückzuübertragenden Vermögenswert an eine staatliche Stelle der Deutschen Demokratischen Republik oder an einen Dritten gezahlter Kaufpreis ist ihm, außer in den Fällen des Absatzes 2 oder des § 121 Abs. 6 des Sachenrechtsbereinigungsgesetzes, auf Antrag aus dem Entschädigungsfonds zu erstatten. Geldbeträge in Reichsmark sind im Verhältnis 20 zu 1, Geldbeträge in Mark der Deutschen Demokratischen Republik sind im Verhältnis 2 zu 1 auf Deutsche Mark umzustellen. Das Amt zur Regelung offener Vermögensfragen kann hierüber einen gesonderten Bescheid erlassen. Der Antrag auf Erstattung kann vorbehaltlich des Satzes 5 nur bis zum Ablauf des sechsten Monats nach Eintritt der Bestandskraft der Entscheidung über die Rückübertragung gestellt werden (Ausschlussfrist). Die Antragsfrist endet frühestens mit Ablauf des 30. April 1999. Ein Anspruch nach Satz 1 entsteht nicht, wenn der Kaufpreis von einem ehemaligen volkseigenen Betrieb oder einer sozialistischen Genossenschaft geleistet wurde.
 
@@ -302,25 +286,21 @@ aufrechnen. § 16 Abs. 2 Satz 1 und 2 des Investitionsvorranggesetzes bleibt unb
 
 (4) Die Absätze 1 bis 3c sind auf Rückübertragungsansprüche nach § 6 nur dann anzuwenden, wenn nicht bereits nach § 8 der Unternehmensrückgabeverordnung oder § 6 Abs. 6a Satz 1 Halbsatz 2 Rückzahlungen festzusetzen sind.
 
-
-## § 8 – Wahlrecht
+# § 8 – Wahlrecht
 
 (1) Soweit inländischen Berechtigten ein Anspruch auf Rückübertragung gemäß § 3 zusteht, können sie bis zum Ablauf von sechs Monaten nach Inkrafttreten des Entschädigungsgesetzes statt dessen Entschädigung wählen; hat der Berechtigte seinen Sitz oder Wohnsitz außerhalb der Bundesrepublik Deutschland, verlängert sich die Frist auf fünf Jahre. Ausgenommen sind Berechtigte, deren Grundstücke durch Eigentumsverzicht, Schenkung oder Erbausschlagung in Volkseigentum übernommen wurden.
 
 (2) Liegt die Berechtigung bei einer Personenmehrheit, kann das Wahlrecht nur gemeinschaftlich ausgeübt werden.
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
-
-## § 10 – Bewegliche Sachen
+# § 10 – Bewegliche Sachen
 
 Wurden bewegliche Sachen verkauft und können sie nach § 3 Abs. 4 oder § 4 Abs. 2 nicht zurückgegeben werden, steht dem Berechtigten ein Anspruch in Höhe des erzielten Erlöses gegen den Entschädigungsfonds zu, sofern ihm der Erlös nicht bereits auf einem Konto gutgeschrieben oder ausgezahlt wurde.
 
-
-## § 11 – Grundsatz
+# § 11 – Grundsatz
 
 (1) Die staatliche Verwaltung über Vermögenswerte wird auf Antrag des Berechtigten durch Entscheidung der Behörde aufgehoben. Der Berechtigte kann statt dessen unter Verzicht auf sein Eigentum Entschädigung nach dem Entschädigungsgesetz wählen. In diesem Fall steht das Aneignungsrecht dem Entschädigungsfonds zu. Mit dem Wirksamwerden des Verzichts wird der Berechtigte von allen Verpflichtungen frei, die auf den Zustand des Vermögenswertes seit Anordnung der staatlichen Verwaltung zurückzuführen sind. Bei staatlich verwalteten Unternehmen gehen die Gesellschafterrechte oder das Unternehmensvermögen eines Einzelkaufmanns oder einer Gesellschaft im Sinne des § 6 Abs. 1a Satz 4 mit dem Verzicht auf die Bundesanstalt für vereinigungsbedingte Sonderaufgaben über. Sie haftet nur mit dem übergegangenen Unternehmensvermögen. Erzielt die Bundesanstalt für vereinigungsbedingte Sonderaufgaben einen Verwertungserlös, so gibt sie diesen an den Entschädigungsfonds heraus.
 
@@ -334,8 +314,7 @@ Wurden bewegliche Sachen verkauft und können sie nach § 3 Abs. 4 oder § 4 Abs
 
 (6) Ist für Kontoguthaben oder sonstige privatrechtliche geldwerte Ansprüche, die unter staatlicher Verwaltung standen und zum 1. Juli 1990 auf Deutsche Mark umgestellt worden sind, Hauptentschädigung nach dem Lastenausgleichsgesetz gezahlt worden, gehen diese Ansprüche insoweit auf den Entschädigungsfonds über; die Ausgleichsverwaltung teilt der auszahlenden Stelle die Höhe der Hauptentschädigung mit. Ist das Kontoguthaben schon an den Berechtigten ausgezahlt worden, wird die gewährte Hauptentschädigung nach den Vorschriften des Lastenausgleichsgesetzes durch die Ausgleichsverwaltung zurückgefordert. Die auszahlende Stelle teilt dem Bundesamt für zentrale Dienste und offene Vermögensfragen und der Ausgleichsverwaltung den an den Berechtigten ausgezahlten Betrag ohne besondere Aufforderung mit (Kontrollmitteilung); die übermittelten Daten dürfen nur für die gesetzlichen Aufgaben der Ausgleichsverwaltung verwendet werden.
 
-
-## § 11a – Beendigung der staatlichen Verwaltung
+# § 11a – Beendigung der staatlichen Verwaltung
 
 (1) Die staatliche Verwaltung über Vermögenswerte endet auch ohne Antrag des Berechtigten mit Ablauf des 31. Dezember 1992. Das Wahlrecht nach § 11 Abs. 1 Satz 2 muss bis zum Ablauf zweier Monate nach Inkrafttreten des Entschädigungsgesetzes ausgeübt werden. Ist der Vermögenswert ein Grundstück oder ein Gebäude, so gilt der bisherige staatliche Verwalter weiterhin als befugt, eine Verfügung vorzunehmen, zu deren Vornahme er sich wirksam verpflichtet hat, wenn vor dem 1. Januar 1993 die Eintragung des Rechts oder die Eintragung einer Vormerkung zur Sicherung des Anspruchs bei dem Grundbuchamt beantragt worden ist.
 
@@ -345,8 +324,7 @@ Wurden bewegliche Sachen verkauft und können sie nach § 3 Abs. 4 oder § 4 Abs
 
 (4) Mit der Aufhebung der staatlichen Verwaltung gehen Nutzungsverhältnisse an einem Grundstück oder Gebäude auf den Eigentümer über.
 
-
-## § 11b – Vertreter des Eigentümers
+# § 11b – Vertreter des Eigentümers
 
 (1) Ist der Eigentümer eines ehemals staatlich verwalteten Vermögenswertes oder sein Aufenthalt nicht festzustellen und besteht ein Bedürfnis, die Vertretung des Eigentümers sicherzustellen, so bestellt der Landkreis oder die kreisfreie Stadt, in dessen oder deren Bezirk sich der Vermögenswert befindet, auf Antrag der Gemeinde oder eines anderen, der ein berechtigtes Interesse daran hat, einen gesetzlichen Vertreter des Eigentümers, der auch eine juristische Person sein kann. Sind von mehreren Eigentümern nicht alle bekannt oder ist der Aufenthalt einzelner nicht bekannt, so wird einer der bekannten Eigentümer zum gesetzlichen Vertreter bestellt. Er ist von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit. § 16 Abs. 3 des Verwaltungsverfahrensgesetzes findet Anwendung. Im Übrigen gelten die §§ 1785, 1786, 1821 und 1837 sowie die Vorschriften des Bürgerlichen Gesetzbuchs über den Auftrag sinngemäß.
 
@@ -354,18 +332,15 @@ Wurden bewegliche Sachen verkauft und können sie nach § 3 Abs. 4 oder § 4 Abs
 
 (3) Der gesetzliche Vertreter wird auf Antrag des Eigentümers abberufen. Sind mehrere Personen Eigentümer, so erfolgt die Abberufung nur, wenn die Vertretung gesichert ist.
 
-
-## § 11c – Genehmigungsvorbehalt
+# § 11c – Genehmigungsvorbehalt
 
 Über Vermögenswerte, die Gegenstand der in § 1 Abs. 8 Buchstabe b bezeichneten Vereinbarungen sind, darf nur mit Zustimmung des Bundesamtes für zentrale Dienste und offene Vermögensfragen verfügt werden. Für Grundstücke, Gebäude und Grundpfandrechte gilt dies nur, wenn im Grundbuch ein Zustimmungsvorbehalt unter Angabe dieser Vorschrift eingetragen ist. Das Grundbuchamt trägt den Zustimmungsvorbehalt nur auf Ersuchen des Bundesamtes für zentrale Dienste und offene Vermögensfragen ein. Gegen das Ersuchen können der eingetragene Eigentümer oder seine Erben Widerspruch erheben, der nur darauf gestützt werden kann, dass die Voraussetzungen des Satzes 1 nicht vorliegen. In Fällen, in denen nach Artikel 3 Abs. 9 Satz 2 des Abkommens vom 13. Mai 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Regelung bestimmter Vermögensansprüche in Verbindung mit Artikel 1 des Gesetzes zu diesem Abkommen vom 21. Dezember 1992 (BGBl. 1992 II S. 1222) der Rechtstitel auf den Bund übergeht und gleichzeitig die staatliche Verwaltung endet, gelten die vorstehenden Vorschriften entsprechend mit der Maßgabe, dass an die Stelle des Bundesamtes für zentrale Dienste und offene Vermögensfragen die für die Verwaltung des betreffenden Vermögensgegenstandes zuständige Bundesbehörde tritt.
 
-
-## § 12 – Staatlich verwaltete Unternehmen und Unternehmensbeteiligungen
+# § 12 – Staatlich verwaltete Unternehmen und Unternehmensbeteiligungen
 
 Die Modalitäten der Rückführung staatlich verwalteter Unternehmen und Unternehmensbeteiligungen richten sich nach § 6. Anstelle des Zeitpunktes der Enteignung gilt der Zeitpunkt der Inverwaltungnahme.
 
-
-## § 13 – Haftung des staatlichen Verwalters
+# § 13 – Haftung des staatlichen Verwalters
 
 (1) Ist dem Berechtigten des staatlich verwalteten Vermögenswertes durch eine gröbliche Verletzung der Pflichten, die sich aus einer ordnungsgemäßen Wirtschaftsführung ergeben, durch den staatlichen Verwalter oder infolge Verletzung anderer dem staatlichen Verwalter obliegenden Pflichten während der Zeit der staatlichen Verwaltung rechtswidrig ein materieller Nachteil entstanden, ist ihm dieser Schaden zu ersetzen.
 
@@ -373,20 +348,17 @@ Die Modalitäten der Rückführung staatlich verwalteter Unternehmen und Unterne
 
 (3) Dem Entschädigungsfonds steht gegenüber dem staatlichen Verwalter oder der ihm übergeordneten Kommunalverwaltung ein Ausgleichsanspruch zu.
 
-
-## § 14
+# § 14
 
 (1) Dem Berechtigten stehen keine Schadensersatzansprüche zu, wenn Vermögenswerte nicht in staatliche Verwaltung genommen wurden, weil das zuständige Staatsorgan keine Kenntnis vom Bestehen der sachlichen Voraussetzungen für die Begründung der staatlichen Verwaltung oder vom Vorhandensein des Vermögenswertes hatte und unter Berücksichtigung der konkreten Umstände nicht erlangen konnte.
 
 (2) Ein Anspruch auf Schadensersatz besteht auch dann nicht, wenn dem Berechtigten bekannt war, dass die staatliche Verwaltung über den Vermögenswert nicht ausgeübt wird oder er diese Kenntnis in zumutbarer Weise hätte erlangen können.
 
-
-## § 14a – Werterhöhungen durch den staatlichen Verwalter
+# § 14a – Werterhöhungen durch den staatlichen Verwalter
 
 Für Werterhöhungen, die der staatliche Verwalter aus volkseigenen Mitteln finanziert hat, gilt § 7 entsprechend.
 
-
-## § 15 – Befugnisse des staatlichen Verwalters
+# § 15 – Befugnisse des staatlichen Verwalters
 
 (1) Bis zur Aufhebung der staatlichen Verwaltung ist die Sicherung und ordnungsgemäße Verwaltung des Vermögenswertes durch den staatlichen Verwalter wahrzunehmen.
 
@@ -396,8 +368,7 @@ Für Werterhöhungen, die der staatliche Verwalter aus volkseigenen Mitteln fina
 
 (4) Der staatliche Verwalter hat sich vor einer Verfügung zu vergewissern, dass keine Anmeldung im Sinne des Absatzes 3 vorliegt.
 
-
-## § 16 – Übernahme von Rechten und Pflichten
+# § 16 – Übernahme von Rechten und Pflichten
 
 (1) Mit der Rückübertragung von Eigentumsrechten oder der Aufhebung der staatlichen Verwaltung sind die Rechte und Pflichten, die sich aus dem Eigentum am Vermögenswert ergeben, durch den Berechtigten selbst oder durch einen vom Berechtigten zu bestimmenden Verwalter wahrzunehmen.
 
@@ -419,13 +390,11 @@ Für Werterhöhungen, die der staatliche Verwalter aus volkseigenen Mitteln fina
 
 (10) Die Absätze 5 bis 9 finden keine Anwendung, wenn das Grundstück nach § 6 zurückübertragen wird. Die Absätze 5 bis 9 gelten ferner nicht, wenn das Grundpfandrecht nach dem 30. Juni 1990 bestellt worden ist. In diesem Fall hat der Berechtigte gegen denjenigen, der das Grundpfandrecht bestellt hat, einen Anspruch auf Befreiung von dem Grundpfandrecht in dem Umfang, in dem es gemäß den Absätzen 5 bis 9 nicht zu übernehmen wäre. Der aus dem Grundpfandrecht Begünstigte ist insoweit verpflichtet, die Löschung des Grundpfandrechts gegen Ablösung der gesicherten Forderung und gegen Ersatz eines aus der vorzeitigen Ablösung entstehenden Schadens zu bewilligen.
 
-
-## § 17 – Miet- und Nutzungsrechte
+# § 17 – Miet- und Nutzungsrechte
 
 Durch die Rückübertragung von Grundstücken und Gebäuden oder die Aufhebung der staatlichen Verwaltung werden bestehende Miet- oder Nutzungsrechtsverhältnisse nicht berührt. War der Mieter oder Nutzer bei Abschluss des Vertrages nicht redlich im Sinne des § 4 Abs. 3, so ist das Rechtsverhältnis mit dem Bescheid gemäß § 33 Abs. 4 aufzuheben. Dies gilt auch in den Fällen des § 11a Abs. 4. § 16 Abs. 3 Satz 5 gilt entsprechend. Ist ein redlich begründetes Miet- oder Nutzungsverhältnis durch Eigentumserwerb erloschen, so lebt es mit Bestandskraft des Rückübertragungsbescheides mit dem Inhalt, den es ohne die Eigentumsübertragung seit dem 3. Oktober 1990 gehabt hätte, unbefristet wieder auf.
 
-
-## § 18 – Grundstücksbelastungen
+# § 18 – Grundstücksbelastungen
 
 (1) Bei der Rückübertragung von Eigentumsrechten an Grundstücken, die nicht nach § 6 erfolgt, hat der Berechtigte für die bei Überführung des Grundstücks in Volkseigentum untergegangenen dinglichen Rechte vorbehaltlich des Absatzes 7 einen in dem Bescheid über die Rückübertragung festzusetzenden Ablösebetrag zu hinterlegen. Der Ablösebetrag bestimmt sich nach der Summe der für die jeweiligen Rechte nach Maßgabe der Absätze 2 bis 5 zu bestimmenden und danach in Deutsche Mark umzurechnenden Einzelbeträge, die in dem Bescheid gesondert auszuweisen sind. Andere als die in den Absätzen 2 bis 4a genannten Rechte werden bei der Ermittlung des Ablösebetrages nicht berücksichtigt. Im Übrigen können auch solche Rechte unberücksichtigt bleiben, die nachweislich zwischen dem Berechtigten und dem Gläubiger einvernehmlich bereinigt sind.
 
@@ -534,8 +503,7 @@ Als Einheit im Sinne des Satzes 2 gelten zum Zeitpunkt der Entscheidung in dem G
 
 (7) Soweit die zuständige Behörde ohne besondere Ermittlungen davon Kenntnis hat, wer begünstigt im Sinne des § 18b Abs. 1 Satz 1 ist oder inwieweit der Entschädigungsfonds nach Maßgabe des § 18b Abs. 1 Satz 2 Auskehr des Ablösebetrages verlangen kann, kann sie abweichend von Absatz 1 Satz 1 die Verpflichtung des Berechtigten zur Zahlung des Ablösebetrages an den nach § 18b Abs. 1 Satz 1 oder 2 Begünstigten aussprechen. Der Begünstigte informiert die zuständige Behörde umgehend über den Eingang der ihm vom Berechtigten geleisteten Zahlung.
 
-
-## § 18a – Rückübertragung des Grundstücks
+# § 18a – Rückübertragung des Grundstücks
 
 Das Eigentum an dem Grundstück geht auf den Berechtigten über, wenn die Entscheidung über die Rückübertragung unanfechtbar geworden ist und
 
@@ -545,8 +513,7 @@ Das Eigentum an dem Grundstück geht auf den Berechtigten über, wenn die Entsch
 
 3. der Berechtigte für den Ablösebetrag Sicherheit nach den Vorschriften des 2. Abschnitts der Hypothekenablöseverordnung geleistet hat. § 34 Abs. 1 Satz 3 bis 6 gilt mit der Maßgabe entsprechend, dass die Behörde auch Sicherungshypotheken in Höhe der nach § 18 Abs. 1 Satz 2 auszuweisenden Einzelbeträge begründen kann, deren Rangfolge sich nach der ursprünglichen Rangfolge der einzelnen untergegangenen dinglichen Rechte zum Zeitpunkt der Schädigung richtet; daran können sich Sicherungshypotheken für Ansprüche nach § 7 Abs. 1 und § 7a Abs. 2 anschließen.
 
-
-## § 18b – Herausgabe des Ablösebetrages
+# § 18b – Herausgabe des Ablösebetrages
 
 (1) Der Gläubiger eines früheren dinglichen Rechts an dem Grundstück oder sein Rechtsnachfolger (Begünstigter) kann von der Hinterlegungsstelle die Herausgabe desjenigen Teils des Ablösebetrages, mit dem sein früheres Recht bei der Ermittlung des unanfechtbar festgestellten Ablösebetrages berücksichtigt worden ist, verlangen, soweit dieser nicht an den Entschädigungsfonds oder den Berechtigten herauszugeben ist. Der Anspruch des Begünstigten geht auf den Entschädigungsfonds über, soweit der Begünstigte für den Verlust seines Rechts Ausgleichszahlungen oder eine Entschädigung vom Staat erhalten hat, oder dem Schuldner die dem Recht zugrundeliegende Forderung von staatlichen Stellen der Deutschen Demokratischen Republik erlassen worden ist. Der Berechtigte kann den auf ein früheres dingliches Recht entfallenden Teil des Ablösebetrages insoweit herausverlangen, als bei der Festsetzung des Ablösebetrages nicht berücksichtigte Tilgungsleistungen auf das Recht erbracht wurden oder er einer Inanspruchnahme aus dem Recht hätte entgegenhalten können, dieses sei nicht entstanden, erloschen oder auf ihn zu übertragen gewesen. Der Herausgabeanspruch kann nur innerhalb von vier Jahren seit der Hinterlegung geltend gemacht werden. Ist Gläubiger der Entschädigungsfonds, so erfolgt die Herausgabe auf Grund eines Auszahlungsbescheides des Entschädigungsfonds.
 
@@ -558,13 +525,11 @@ Das Eigentum an dem Grundstück geht auf den Berechtigten über, wenn die Entsch
 
 (5) Soweit der Begünstigte vom Staat bereits befriedigt worden ist, geht die zugrundeliegende Forderung auf den Entschädigungsfonds über.
 
-
-## § 19
+# § 19
 
 (weggefallen)
 
-
-## § 20 – Vorkaufsrecht von Mietern und Nutzern
+# § 20 – Vorkaufsrecht von Mietern und Nutzern
 
 (1) Mietern und Nutzern von Ein- und Zweifamilienhäusern sowie von Grundstücken für Erholungszwecke, die der staatlichen Verwaltung im Sinne des § 1 Abs. 4 unterlagen oder auf die ein Anspruch auf Rückübertragung besteht, wird auf Antrag ein Vorkaufsrecht am Grundstück eingeräumt, wenn das Miet- oder Nutzungsverhältnis am 29. September 1990 bestanden hat und im Zeitpunkt der Entscheidung über den Antrag fortbesteht. Ein Anspruch nach Satz 1 besteht nicht, wenn das Grundstück oder Gebäude durch den Mieter oder Nutzer nicht vertragsgemäß genutzt wird.
 
@@ -584,13 +549,11 @@ Das Eigentum an dem Grundstück geht auf den Berechtigten über, wenn die Entsch
 
 (8) Im Übrigen sind die §§ 463 bis 472, 875, 1098 Abs. 1 Satz 2 und Abs. 2 sowie die §§ 1099 bis 1102, 1103 Abs. 2 und § 1104 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
-
-## § 20a – Vorkaufsrecht des Berechtigten
+# § 20a – Vorkaufsrecht des Berechtigten
 
 Bei Grundstücken, die nicht zurückübertragen werden können, weil Dritte an ihnen Eigentums- oder dingliche Nutzungsrechte erworben haben, wird dem Berechtigten auf Antrag ein Vorkaufsrecht am Grundstück eingeräumt. Dies gilt nicht, wenn das Grundstück nach den Vorschriften des Investitionsvorranggesetzes erworben worden ist. Für die Entscheidung über den Antrag ist das Amt zur Regelung offener Vermögensfragen zuständig, das über den Anspruch auf Rückübertragung des Eigentums zu entscheiden hat. Als Vorkaufsfall gilt nicht der Erwerb des Grundstücks durch den Inhaber eines dinglichen Nutzungsrechts. Im Übrigen ist § 20 Abs. 2, 4, 5 Satz 1, Abs. 6, 7 Satz 1 und Abs. 8 sinngemäß anzuwenden.
 
-
-## § 21 – Ersatzgrundstück
+# § 21 – Ersatzgrundstück
 
 (1) Mieter oder Nutzer von Einfamilienhäusern und Grundstücken für Erholungszwecke, die staatlich verwaltet sind oder auf die ein rechtlich begründeter Anspruch auf Rückübertragung geltend gemacht wurde, können beantragen, dass dem Berechtigten ein Ersatzgrundstück zur Verfügung gestellt wird, wenn sie bereit sind, das Grundstück zu kaufen. Der Berechtigte ist nicht verpflichtet, ein Ersatzgrundstück in Anspruch zu nehmen.
 
@@ -602,8 +565,7 @@ Bei Grundstücken, die nicht zurückübertragen werden können, weil Dritte an i
 
 (5) Wurde dem Berechtigten eines staatlich verwalteten Grundstücks ein Ersatzgrundstück übertragen, ist der staatliche Verwalter berechtigt, das Grundstück an den Mieter oder Nutzer zu verkaufen.
 
-
-## § 22 – Durchführung der Regelung offener Vermögensfragen
+# § 22 – Durchführung der Regelung offener Vermögensfragen
 
 Die Vorschriften dieses Gesetzes sowie die Aufgaben in bezug auf den zu bildenden Entschädigungsfonds werden vorbehaltlich des § 29 Abs. 2 von den Ländern Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen und Berlin durchgeführt. Bei Entscheidungen über
 
@@ -621,29 +583,25 @@ Die Vorschriften dieses Gesetzes sowie die Aufgaben in bezug auf den zu bildende
 
 geschieht dies im Auftrag des Bundes. Für das Verfahren der Abführung von Verkaufserlösen nach § 11 Abs. 4 gilt Satz 2 entsprechend. Die Abwicklung von Vermögensangelegenheiten, die dem früheren Amt für den Rechtsschutz des Vermögens der Deutschen Demokratischen Republik übertragen waren, obliegt dem Bundesamt für zentrale Dienste und offene Vermögensfragen. Dazu gehören insbesondere ausländische Vermögenswerte außer Unternehmen und Betrieben, Gewinnkonten von 1972 verstaatlichten Unternehmen, an die Stelle von staatlich verwalteten Vermögenswerten getretene Einzelschuldbuchforderungen sowie in diesem Zusammenhang erbrachte Entschädigungsleistungen. Das Bundesamt entscheidet insoweit auch über einen etwaigen Widerspruch innerhalb des Verwaltungsverfahrens abschließend.
 
-
-## § 23 – Landesbehörden
+# § 23 – Landesbehörden
 
 (1) Die Länder errichten Ämter und Landesämter zur Regelung offener Vermögensfragen.
 
 (2) Die Landesregierungen werden ermächtigt, die Zuständigkeit für Verfahren nach dem Vermögensgesetz, dem Entschädigungsgesetz und dem Ausgleichsleistungsgesetz durch Rechtsverordnung ganz oder teilweise auf eine andere Behörde zu übertragen. Nach der Übertragung kann das zuvor zuständige Amt geschlossen werden. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf eine von ihnen bestimmte Stelle übertragen.
 
-
-## § 24 – Untere Landesbehörden
+# § 24 – Untere Landesbehörden
 
 Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Regelung offener Vermögensfragen als untere Landesbehörde eingerichtet. Ein solches Amt kann auch für mehrere Kreise, kreisfreie Städte oder mit landesweiter Zuständigkeit gebildet werden. Die gilt auch dann, wenn die Aufgaben der unteren Landesbehörden nach § 28 Abs. 2 auf die Landkreise oder kreisfreien Städte übertragen wurden.
 
-§ 24 Satz 1 idF d. Bek. v. 9.2.2005 I 205: Sachsen - Abweichung durch [§ 1 Abs. 2 des Sächsischen Gesetzes zur Ausführung des Vermögensgesetzes (SächsAGVermG)](../abweichendes_Landesrecht/vermgag_sn__1.html "Anzeige in neuem Fenster") v. 24.8.2000 SächsGVBl. S. 360, zuletzt geändert durch Art. 6 G v. 29.1.2008, mWv 1.8.2008 (vgl. BGBl. I 2011, 842)
+§ 24 Satz 1 idF d. Bek. v. 9.2.2005 I 205: Sachsen - Abweichung durch [§ 1 Abs. 2 des Sächsischen Gesetzes zur Ausführung des Vermögensgesetzes (SächsAGVermG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/vermgag_sn__1.html "Anzeige in neuem Fenster") v. 24.8.2000 SächsGVBl. S. 360, zuletzt geändert durch Art. 6 G v. 29.1.2008, mWv 1.8.2008 (vgl. BGBl. I 2011, 842)
 
-
-## § 25 – Landesamt zur Regelung offener Vermögensfragen
+# § 25 – Landesamt zur Regelung offener Vermögensfragen
 
 (1) Für jedes Land wird ein Landesamt zur Regelung offener Vermögensfragen gebildet. Für Entscheidungen über Anträge nach den §§ 6, 6a, 6b und über Grund und Höhe der Entschädigung nach § 6 Abs. 7 ist das Landesamt zuständig. Das Landesamt kann Verfahren, die bei einem ihm nachgeordneten Amt zur Regelung offener Vermögensfragen anhängig sind, an sich ziehen. Es teilt dies dem Amt mit, das mit Zugang der Mitteilung für das Verfahren nicht mehr zuständig ist und vorhandene Vorgänge an das Landesamt abgibt. Nach Satz 2 oder nach Satz 3 zuständige Landesämter können bei Sachzusammenhang vereinbaren, dass die Verfahren bei einem Landesamt zusammengefasst und von diesem entschieden werden.
 
 (2) Die Landesregierungen werden ermächtigt, die Zuständigkeit nach Absatz 1 durch Rechtsverordnung auf das jeweils örtlich zuständige Amt zur Regelung offener Vermögensfragen für die Fälle zu übertragen, in denen das zurückzugebende Unternehmen im Zeitpunkt der Schädigung nach Art und Umfang einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erforderte oder den Betrieb eines handwerklichen oder sonstigen gewerblichen Unternehmens oder den der Land- und Forstwirtschaft zum Gegenstand hatte.
 
-
-## § 26 – Widerspruchsausschüsse
+# § 26 – Widerspruchsausschüsse
 
 (1) Bei jedem Landesamt zur Regelung offener Vermögensfragen wird ein Widerspruchsausschuss gebildet; bei Bedarf können mehrere Widerspruchsausschüsse gebildet werden. Der Ausschuss besteht aus einem Vorsitzenden und zwei Beisitzern.
 
@@ -653,8 +611,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (4) Sind die Aufgaben eines Landesamtes gemäß § 23 Absatz 2 Satz 1 auf eine oberste Landesbehörde übertragen worden, ist gegen deren Entscheidungen ein Widerspruch wie gegen eine entsprechende Entscheidung eines Landesamtes zulässig.
 
-
-## § 27 – Amts- und Rechtshilfe
+# § 27 – Amts- und Rechtshilfe
 
 (1) Alle Behörden und Gerichte haben den in diesem Abschnitt genannten Behörden unentgeltlich Amts- und Rechtshilfe zu leisten. Insbesondere sind die Finanzbehörden in dem in Artikel 3 des Einigungsvertrages genannten Gebiet verpflichtet, Auskünfte zu erteilen oder Einsicht in die Akten zu gewähren, soweit es zur Durchführung dieses Gesetzes erforderlich ist.
 
@@ -664,15 +621,13 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (4) Liegen dem für die Entscheidung nach § 33 zuständigen Amt oder Landesamt zur Regelung offener Vermögensfragen oder dem Bundesamt für zentrale Dienste und offene Vermögensfragen Anhaltspunkte dafür vor, dass noch offene Forderungen des Staatshaushaltes der Deutschen Demokratischen Republik in bezug auf ein Grundstück bestehen, das nach § 6 Abs. 6a des Vermögensgesetzes lastenfrei zurückübertragen wurde oder wird, unterrichtet es die für die Abwicklung dieser Forderungen zuständige Kreditanstalt für Wiederaufbau über ein durchgeführtes oder anhängiges Verfahren nach diesem Gesetz. Die Kreditanstalt für Wiederaufbau ist verpflichtet, dem zuständigen Amt oder Landesamt zur Regelung offener Vermögensfragen oder dem Bundesamt für zentrale Dienste und offene Vermögensfragen Auskünfte zu erteilen und Einsicht in die Akten zu gewähren, soweit es zur Durchführung dieses Gesetzes sowie des Entschädigungs- und Ausgleichsleistungsgesetzes erforderlich ist.
 
-
-## § 28 – Übergangsregelungen
+# § 28 – Übergangsregelungen
 
 (1) Bis zur Errichtung der unteren Landesbehörden werden die Aufgaben dieses Gesetzes von den Landratsämtern oder Stadtverwaltungen der kreisfreien Städte wahrgenommen. Die auf der Grundlage der Anmeldeverordnung eingereichten Anmeldungen sind durch die Ämter zur Regelung offener Vermögensfragen nach deren Bildung von den Landratsämtern oder Stadtverwaltungen der kreisfreien Städte zur weiteren Bearbeitung zu übernehmen.
 
 (2) Die Länder können die Aufgaben der unteren Landesbehörden auch auf Dauer durch die Landratsämter oder die Stadtverwaltungen der kreisfreien Städte wahrnehmen lassen.
 
-
-## § 29 – Bundesamt für zentrale Dienste und offene Vermögensfragen
+# § 29 – Bundesamt für zentrale Dienste und offene Vermögensfragen
 
 (1) Das Bundesamt für zentrale Dienste und offene Vermögensfragen unterstützt und gewährleistet eine einheitliche Durchführung dieses Gesetzes.
 
@@ -682,13 +637,11 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (4) Das Bundesamt für zentrale Dienste und offene Vermögensfragen veranlasst die im Rahmen des Aufgebotsverfahrens nach § 33 Abs. 7 erforderliche Veröffentlichung des Aufgebots im Bundesanzeiger.
 
-
-## § 29a
+# § 29a
 
 \-
 
-
-## § 30 – Antrag
+# § 30 – Antrag
 
 (1) Ansprüche nach diesem Gesetz sind bei der zuständigen Behörde mittels Antrag geltend zu machen. Über den Antrag entscheidet die Behörde, wenn und soweit die Rückgabe zwischen dem Verfügungsberechtigten und dem Berechtigten nicht einvernehmlich zustande kommt. Der Antrag auf Rückgabe kann jederzeit zurückgenommen oder für erledigt erklärt werden. Er kann auch auf einzelne Verfahrensstufen beschränkt werden. Die Anmeldung nach der Anmeldeverordnung gilt als Antrag auf Rückübertragung oder auf Aufhebung der staatlichen Verwaltung.
 
@@ -696,8 +649,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (3) Steht der Anspruch in den Fällen des § 1 Abs. 7 im Zusammenhang mit einer verwaltungsrechtlichen Entscheidung, deren Aufhebung nach anderen Vorschriften erfolgt, so ist der Antrag nach Absatz 1 nur zulässig, wenn der Antragsteller eine Bescheinigung der für die Rehabilitierung zuständigen Stelle über die Antragstellung im Rehabilitierungsverfahren vorlegt.
 
-
-## § 30a – Ausschlussfrist
+# § 30a – Ausschlussfrist
 
 (1) Rückübertragungsansprüche nach den §§ 3 und 6 sowie Entschädigungsansprüche nach § 6 Abs. 7 und § 8 können nach dem 31. Dezember 1992, für bewegliche Sachen nach dem 30. Juni 1993, nicht mehr angemeldet werden. In den Fällen des § 1 Abs. 7 gilt dies nur dann, wenn die Entscheidung, auf der der Vermögensverlust beruht, am 30. Juni 1992 bereits unanfechtbar aufgehoben war. Anderenfalls treten die Wirkungen des Satzes 1 nach Ablauf von sechs Monaten ab Unanfechtbarkeit der Aufhebungsentscheidung ein; in den Fällen russischer Rehabilitierungen treten die Wirkungen des Satzes 1 nach Ablauf von sechs Monaten ab Zugang des Rehabilitierungsbescheides, spätestens nach Ablauf von acht Monaten ab Versendung durch eine deutsche Behörde an den Begünstigten oder seinen Rechtsnachfolger ein. Diese Vorschriften finden auf Ansprüche, die an die Stelle eines rechtzeitig angemeldeten Anspruchs treten oder getreten sind, sowie auf Ansprüche, die nach Artikel 3 Abs. 9 Satz 2 des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Regelung bestimmter Vermögensansprüche vom 13. Mai 1992 (BGBl. 1992 II S. 1223) in das Vermögen der Bundesrepublik Deutschland übergegangen sind, keine Anwendung.
 
@@ -707,15 +659,13 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (4) Im Zusammenhang mit Ansprüchen auf Rückübertragung des Eigentums an Grundstücken können Anträge auf Einräumung von Vorkaufsrechten nach den §§ 20 und 20a sowie Anträge auf Zuweisung von Ersatzgrundstücken nach § 21 Abs. 1 nach Bestandskraft der Entscheidung über den Rückübertragungsanspruch nicht mehr gestellt werden. Satz 1 gilt entsprechend, wenn die staatliche Verwaltung durch Bescheid des Amtes zur Regelung offener Vermögensfragen bestandskräftig aufgehoben worden ist. Ist in einem bestandskräftigen Bescheid über die Rückübertragung des Eigentums eine Entscheidung über die Aufhebung eines Rechtsverhältnisses der in § 16 Abs. 3 oder § 17 bezeichneten Art oder über den Umfang eines zu übernehmenden Grundpfandrechtes ganz oder teilweise unterblieben, gilt Absatz 3 Satz 2 entsprechend.
 
-
-## § 30b – Anmeldevermerk
+# § 30b – Anmeldevermerk
 
 (1) Für Grundstücke und Erbbaurechte, für die innerhalb der Ausschlussfrist des § 30a ein Antrag auf Rückübertragung eingegangen ist, der weder bestandskräftig abgelehnt noch zurückgenommen oder für erledigt erklärt worden ist, ersucht die zuständige Behörde das Grundbuchamt um Eintragung eines Anmeldevermerks im Grundbuch. Der Anmeldevermerk ist in der zweiten Abteilung des Grundbuchs mit folgendem Wortlaut einzutragen: „Es liegt ein Antrag auf Rückübertragung nach § 30 Absatz 1 des Vermögensgesetzes vor.“ Die Eintragung erfolgt ausschließlich auf Grund von Ersuchen nach Satz 1.
 
 (2) Wird der Antrag auf Rückübertragung in der Folgezeit bestandskräftig abgelehnt, zurückgenommen oder für erledigt erklärt, ersucht die zuständige Behörde das Grundbuchamt unverzüglich um Löschung des Anmeldevermerks.
 
-
-## § 31 – Pflichten der Behörde
+# § 31 – Pflichten der Behörde
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen, der Antragsteller hat hierbei mitzuwirken. Soweit die Behörde bei einem auf eine Geldleistung gerichteten Anspruch nach diesem Gesetz die für die Höhe des Anspruchs erheblichen Tatsachen nicht oder nur mit unverhältnismäßigem Aufwand ermitteln kann, hat sie die Höhe des Anspruchs zu schätzen. Dabei sind alle Umstände zu berücksichtigen, die für die Schätzung von Bedeutung sind. Zu schätzen ist insbesondere, wenn der Antragsteller über seine Angaben keine ausreichende Aufklärung zu geben vermag oder weitere Auskünfte verweigert.
 
@@ -739,8 +689,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (7) Soweit in diesem Gesetz nichts anderes bestimmt ist, sind bis zum Erlass entsprechender landesrechtlicher Bestimmungen die Vorschriften des Verwaltungsverfahrensgesetzes, des Verwaltungszustellungsgesetzes und des Verwaltungsvollstreckungsgesetzes anzuwenden.
 
-
-## § 32 – Beabsichtigte Entscheidung, Auskunft
+# § 32 – Beabsichtigte Entscheidung, Auskunft
 
 (1) Die Behörde hat dem Antragsteller die beabsichtigte Entscheidung schriftlich mitzuteilen und ihm Gelegenheit zur Stellungnahme binnen eines Monats zu geben. Dabei ist er auf die Möglichkeit der Auskunftserteilung gemäß § 31 Abs. 3 sowie auf das Wahlrecht nach § 6 Abs. 7 oder § 8 hinzuweisen. Dem Verfügungsberechtigten ist eine Abschrift der Mitteilung nach Satz 1 zu übersenden. Liegt der Behörde eine Mitteilung nach § 317 Abs. 2 des Lastenausgleichsgesetzes vor, hat sie dem zuständigen Ausgleichsamt eine Abschrift der beabsichtigten Entscheidung nach Satz 1 zuzustellen.
 
@@ -752,8 +701,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (5) Jedem, der ein berechtigtes Interesse glaubhaft darlegt, können Namen und Anschriften der Antragsteller sowie der Vermögenswert mitgeteilt werden, auf den sich die Anmeldung bezieht. Jeder Antragsteller kann der Mitteilung der ihn betreffenden Angaben nach Satz 1 widersprechen, die dann unbeschadet der nach anderen Vorschriften bestehenden Auskunftsrechte unterbleibt. Das Amt zur Regelung offener Vermögensfragen weist jeden Antragsteller mit einer Widerspruchsfrist von zwei Wochen auf diese Möglichkeit hin, sobald erstmals nach Inkrafttreten dieser Vorschrift ein Dritter eine Mitteilung nach Satz 1 beantragt.
 
-
-## § 33 – Entscheidung
+# § 33 – Entscheidung
 
 (1) Ist die Rückübertragung ausgeschlossen oder hat der Antragsteller Entschädigung gewählt, entscheidet die Behörde über Grund und Höhe der Entschädigung. § 4 des NS-Verfolgtenentschädigungsgesetzes bleibt unberührt.
 
@@ -771,8 +719,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (7) Kann über einen Antrag nicht entschieden werden, weil die Person, der die Entscheidung zuzustellen wäre, nicht ermittelt werden kann, führt die Behörde ein Aufgebotsverfahren entsprechend § 332a Abs. 2 bis 5 des Lastenausgleichsgesetzes durch. Mit Ablauf der von der Behörde bezeichneten Aufgebotsfrist erlöschen die Rechte aus dem Antrag.
 
-
-## § 33a – Fälligkeit, Verzinsung
+# § 33a – Fälligkeit, Verzinsung
 
 (1) Durch die Behörde festgesetzte Zahlungsansprüche sind einen Monat nach Bestandskraft der Entscheidung fällig. Steht der Anspruch dem Entschädigungsfonds zu und wird die Rückübertragung nicht angefochten, tritt die Fälligkeit abweichend von Satz 1 zwei Monate nach Zustellung der Entscheidung ein.
 
@@ -780,8 +727,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (3) Wird ein Zahlungsanspruch des Entschädigungsfonds nicht bis zum Ablauf des Fälligkeitstages erfüllt, ist er mit vier Prozent für das Jahr zu verzinsen.
 
-
-## § 34 – Eigentumsübergang, Grundbuchberichtigung und Löschung von Vermerken über die staatliche Verwaltung
+# § 34 – Eigentumsübergang, Grundbuchberichtigung und Löschung von Vermerken über die staatliche Verwaltung
 
 (1) Die Rechte an dem zurückübertragenen Vermögenswert gehen auf den Berechtigten über, wenn
 
@@ -803,8 +749,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (5) Absatz 2 gilt entsprechend für im Schiffsregister eingetragene Schiffe und im Schiffsbauregister eingetragene Schiffsbauwerke.
 
-
-## § 35 – Örtliche Zuständigkeit
+# § 35 – Örtliche Zuständigkeit
 
 (1) Für die Entscheidung über Vermögenswerte in staatlicher Verwaltung ist das Amt zur Regelung offener Vermögensfragen zuständig, in dessen Bereich der Antragsteller, im Erbfall der betroffene Erblasser, seinen letzten Wohnsitz hatte. Das gilt auch für Vermögenswerte, die beschlagnahmt und in Volkseigentum übernommen wurden.
 
@@ -814,8 +759,7 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (4) Ist der Antrag an ein örtlich unzuständiges Amt oder an eine andere unzuständige Stelle gerichtet worden, haben diese den Antrag unverzüglich an das zuständige Amt zur Regelung offener Vermögensfragen abzugeben und den Antragsteller zu benachrichtigen.
 
-
-## § 36 – Widerspruchsverfahren
+# § 36 – Widerspruchsverfahren
 
 (1) Gegen Entscheidungen des Amtes zur Regelung offener Vermögensfragen kann Widerspruch erhoben werden, der nicht auf einen Verstoß gegen die Bestimmungen über die Zuständigkeit gestützt werden kann. Der Widerspruch ist innerhalb eines Monats nach Zustellung der Entscheidung schriftlich bei dem Amt zu erheben, das die Entscheidung getroffen hat. Der Widerspruch soll begründet werden. Wird dem Widerspruch nicht oder nicht in vollem Umfang abgeholfen, ist er dem zuständigen Widerspruchsausschuss zuzuleiten; im Falle des § 26 Abs. 3 ist der Widerspruch dem Landesamt zuzuleiten. Ein Widerspruchsverfahren findet nicht statt, wenn die Abhilfeentscheidung erstmalig eine Beschwer enthält.
 
@@ -825,22 +769,19 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (4) Gegen Entscheidungen des Landesamtes und des Bundesamtes findet ein Widerspruchsverfahren nicht statt. Dies gilt nicht für Entscheidungen des Landesamtes, die in gemäß § 23 Abs. 2 auf das Landesamt übertragenen Verfahren ergangen sind.
 
-
-## § 37 – Gerichtliches Verfahren
+# § 37 – Gerichtliches Verfahren
 
 (1) Für das gerichtliche Verfahren gilt § 36 Abs. 1 Satz 1 entsprechend.
 
 (2) Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere Entscheidung des Gerichts sind ausgeschlossen. Das gilt nicht für die Beschwerde gegen die Nichtzulassung der Revision nach § 135 in Verbindung mit § 133 der Verwaltungsgerichtsordnung, die Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes und die Beschwerde gegen Beschlüsse nach § 80 Abs. 5 und 7 sowie § 80a der Verwaltungsgerichtsordnung. Auf die Beschwerde gegen die Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
-
-## § 38 – Kosten
+# § 38 – Kosten
 
 (1) Das Verwaltungsverfahren einschließlich des Widerspruchsverfahrens ist kostenfrei.
 
 (2) Die Kosten einer Vertretung trägt der Antragsteller. Die Kosten der Vertretung im Widerspruchsverfahren sind dem Widerspruchsführer zu erstatten, soweit die Zuziehung eines Bevollmächtigten zur zweckentsprechenden Rechtsverfolgung notwendig und der Widerspruch begründet war. Über die Tragung der Kosten wird bei der Entscheidung zur Sache mitentschieden.
 
-
-## § 38a – Schiedsgericht, Schiedsverfahren
+# § 38a – Schiedsgericht, Schiedsverfahren
 
 (1) Die Einsetzung eines Schiedsgerichts für Entscheidungen nach § 6 Abs. 1 oder die vorhergehende Entflechtung nach § 6b erfolgt auf Grund eines Schiedsvertrags zwischen den Parteien (Berechtigter und Verfügungsberechtigter). Das Schiedsgericht besteht aus einem Vorsitzenden und zwei Beisitzern, von denen jede Partei einen ernennt. Der Vorsitzende, der die Befähigung zum Richteramt haben muss, wird von den Beisitzern ernannt.
 
@@ -848,18 +789,15 @@ Für jeden Landkreis, jede kreisfreie Stadt und für Berlin wird ein Amt zur Reg
 
 (3) Gegen den Schiedsspruch kann innerhalb eines Monats Antrag auf Aufhebung bei dem nach Absatz 2 Satz 3 zuständigen Gericht gestellt werden. Wird der Antrag innerhalb dieser Frist nicht gestellt oder ist er rechtskräftig abgewiesen worden oder haben die Parteien nach Erlass des Schiedsspruchs auf den Aufhebungsantrag verzichtet oder liegt ein Schiedsspruch mit vereinbartem Wortlaut vor, erlässt die Behörde einen Bescheid nach § 33 Abs. 4 Satz 1 in Verbindung mit einem Übergabeprotokoll nach § 33 Abs. 5, in dem der Inhalt des Schiedsspruchs festgestellt wird; dieser Bescheid ist sofort bestandskräftig und hat die Wirkungen des § 34.
 
-
-## § 39
+# § 39
 
 (Außerkrafttreten anderer Vorschriften)
 
-
-## § 40 – Verordnungsermächtigung
+# § 40 – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens nach den §§ 7, 7a, 16 Abs. 5 bis 9, §§ 18 bis 18b, 20 und 20a und Abschnitt VI, der Sicherheitsleistung oder der Entschädigung zu regeln oder von den Bestimmungen der Hypothekenablöseanordnung vom 14. Juli 1992 (BGBl. I S. 1257) abweichende Regelungen zu treffen.
 
-
-## § 41 – Überleitungsvorschrift
+# § 41 – Überleitungsvorschrift
 
 (1) § 7 Abs. 7 Satz 4 Nr. 3 ist für den Zeitraum ab 1. Juli 1994 auf Herausgabeansprüche nach § 7 Abs. 7 Satz 2 anzuwenden, wenn über die Rückgabe des Vermögenswertes am 9. Juli 1995 noch nicht bestandskräftig entschieden ist.
 

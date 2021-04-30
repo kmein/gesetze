@@ -1,17 +1,11 @@
-# [HolzmechAusbV] Verordnung über die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin   (Holzmechanikerausbildungsverordnung - HolzmechAusbV)
-
-Ausfertigungsdatum: 19.05.2015
-
+% Verordnung über die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin   (Holzmechanikerausbildungsverordnung - HolzmechAusbV)
+% Ausfertigungsdatum: 19.05.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -21,25 +15,23 @@ Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nu
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Holzmechanikers und der Holzmechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -127,27 +119,23 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 9. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel und Zeitpunkt
+# § 7 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
-
-## § 8 – Inhalt
+# § 8 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -155,8 +143,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereich Herstellen eines Werkstücks
+# § 9 – Prüfungsbereich Herstellen eines Werkstücks
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen eines Werkstücks statt.
 
@@ -184,15 +171,13 @@ Die Zwischenprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt für die Durchführung der Arbeitsaufgabe fünf Stunden und für die schriftliche Bearbeitung der Aufgaben 120 Minuten.
 
-
-## § 10 – Ziel und Zeitpunkt
+# § 10 – Ziel und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 11 – Inhalt
+# § 11 – Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -200,8 +185,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 12 – Prüfungsbereiche
+# § 12 – Prüfungsbereiche
 
 In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
@@ -213,8 +197,7 @@ In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Absc
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 13 – Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils
+# § 13 – Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils
 
 (1) Im Prüfungsbereich Herstellen eines Möbels oder Innenausbauteils soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -246,8 +229,7 @@ In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Absc
 
 (4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
-
-## § 14 – Prüfungsbereich Fertigungstechnik
+# § 14 – Prüfungsbereich Fertigungstechnik
 
 (1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -271,8 +253,7 @@ In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Absc
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 15 – Prüfungsbereich Maschinen- und Anlagentechnik
+# § 15 – Prüfungsbereich Maschinen- und Anlagentechnik
 
 (1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -292,8 +273,7 @@ In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Absc
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 16 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 16 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -301,8 +281,7 @@ In der Fachrichtung Herstellen von Möbeln und Innenausbauteilen findet die Absc
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -337,8 +316,7 @@ Innenausbauteils</td><td style="text-align: right;">mit 50 Prozent,</td></tr></t
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 18 – Prüfungsbereiche
+# § 18 – Prüfungsbereiche
 
 In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
@@ -350,8 +328,7 @@ In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen find
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 19 – Prüfungsbereich Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens
+# § 19 – Prüfungsbereich Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens
 
 (1) Im Prüfungsbereich Herstellen eines Bauelementes, eines Holzpackmittels oder eines Rahmens soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -387,8 +364,7 @@ In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen find
 
 (4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
-
-## § 20 – Prüfungsbereich Fertigungstechnik
+# § 20 – Prüfungsbereich Fertigungstechnik
 
 (1) Im Prüfungsbereich Fertigungstechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -412,8 +388,7 @@ In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen find
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 21 – Prüfungsbereich Maschinen- und Anlagentechnik
+# § 21 – Prüfungsbereich Maschinen- und Anlagentechnik
 
 (1) Im Prüfungsbereich Maschinen- und Anlagentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -433,8 +408,7 @@ In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen find
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 22 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 22 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -442,8 +416,7 @@ In der Fachrichtung Herstellen von Bauelementen, Holzpackmitteln und Rahmen find
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 23 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -479,8 +452,7 @@ Rahmens</td><td style="text-align: right;">mit 50 Prozent,</td></tr></tbody></ta
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 24 – Prüfungsbereiche
+# § 24 – Prüfungsbereiche
 
 In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abschlussprüfung in den folgenden Prüfungsbereichen statt:
 
@@ -492,8 +464,7 @@ In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abs
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 25 – Prüfungsbereich Montieren eines Innenausbaus oder eines Bauelementes
+# § 25 – Prüfungsbereich Montieren eines Innenausbaus oder eines Bauelementes
 
 (1) Im Prüfungsbereich Montieren eines Innenausbaus oder eines Bauelementes soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -531,8 +502,7 @@ In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abs
 
 (4) Die Prüfungszeit beträgt insgesamt zwölf Stunden. Das situative Fachgespräch dauert 20 Minuten.
 
-
-## § 26 – Prüfungsbereich Montagetechnik
+# § 26 – Prüfungsbereich Montagetechnik
 
 (1) Im Prüfungsbereich Montagetechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -562,8 +532,7 @@ In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abs
 
 (3) Die Prüfungszeit beträgt 180 Minuten.
 
-
-## § 27 – Prüfungsbereich Maschinentechnik
+# § 27 – Prüfungsbereich Maschinentechnik
 
 (1) Im Prüfungsbereich Maschinentechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -581,8 +550,7 @@ In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abs
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 28 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 28 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -590,8 +558,7 @@ In der Fachrichtung Montieren von Innenausbauten und Bauelementen findet die Abs
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 29 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 29 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -626,15 +593,13 @@ eines Bauelementes</td><td style="text-align: right;">mit 50 Prozent,</td></tr><
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 30 – Inhalt der Zusatzqualifikation
+# § 30 – Inhalt der Zusatzqualifikation
 
 (1) Über das in § 4 beschriebene Ausbildungsberufsbild hinaus kann die Ausbildung in der Zusatzqualifikation computergestütztes Konstruieren (CAD) und nummerisch gesteuerte Fertigungstechnik (CNC-Technik) Holz vereinbart werden.
 
 (2) Gegenstand der Zusatzqualifikation sind die in Anlage 2 genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 31 – Prüfung der Zusatzqualifikation
+# § 31 – Prüfung der Zusatzqualifikation
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind. Die Prüfung findet im Rahmen der Abschlussprüfung als gesonderte Prüfung statt.
 
@@ -668,23 +633,19 @@ Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisheri
 
 (7) Die Prüfung der Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
-
-## § 32 – Bestehende Berufsausbildungsverhältnisse
+# § 32 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 33 – Inkrafttreten, Außerkrafttreten
+# § 33 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Holzmechaniker/zur Holzmechanikerin vom 25. Januar 2006 (BGBl. I S. 255) außer Kraft.
 
-
-## Anlage 1 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin
+# Anlage 1 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Holzmechaniker und zur Holzmechanikerin
 
 (Fundstelle: BGBl. I 2015, 746 - 754)
 
-
-## Anlage 2 – (zu § 30 Absatz 2)Zusatzqualifikation CAD- und CNC-Technik Holz
+# Anlage 2 – (zu § 30 Absatz 2)Zusatzqualifikation CAD- und CNC-Technik Holz
 
 (Fundstelle: BGBl. I 2015, 755)
 

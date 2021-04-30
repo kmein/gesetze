@@ -1,17 +1,13 @@
-# [DIMRG] Gesetz über die Rechtsstellung und Aufgaben des Deutschen Instituts für Menschenrechte  (DIMRG)
-
-Ausfertigungsdatum: 16.07.2015
-
+% Gesetz über die Rechtsstellung und Aufgaben des Deutschen Instituts für Menschenrechte  (DIMRG)
+% Ausfertigungsdatum: 16.07.2015
  
-
-## § 1 – Rechtsstellung und Finanzierung
+# § 1 – Rechtsstellung und Finanzierung
 
 (1) Der eingetragene Verein Deutsches Institut für Menschenrechte ist die unabhängige nationale Institution der Bundesrepublik Deutschland zur Information der Öffentlichkeit über die Lage der Menschenrechte im In- und Ausland sowie zur Förderung und zum Schutz der Menschenrechte, wenn und solange der Verein die sich aus den Pariser Prinzipien der Vereinten Nationen aus dem Jahr 1993 (Anlage der Entschließung der Generalversammlung der Vereinten Nationen vom 20. Dezember 1993, U.N. Doc.A/Res/48/134) ergebenden Aufgaben des § 2 wahrnimmt und die Voraussetzungen der §§ 3 bis 7 erfüllt. Für die Finanzierung der Aufgaben gemäß § 2 Absatz 2, 4 und 5 stehen dem Deutschen Institut für Menschenrechte e. V. Mittel zur Verfügung, soweit sie im Haushaltsplan des Deutschen Bundestages etatisiert sind und die in den §§ 2 bis 7 genannten Mindestvoraussetzungen in der jeweiligen Satzung des Instituts erfüllt sind.
 
 (2) Das Deutsche Institut für Menschenrechte e. V. hat zugleich die Funktionen eines unabhängigen Mechanismus gemäß Artikel 33 Absatz 2 des Übereinkommens der Vereinten Nationen vom 13. Dezember 2006 über die Rechte von Menschen mit Behinderungen (BGBl. 2008 II S. 1419, 1420).
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Das Deutsche Institut für Menschenrechte e. V. soll die Öffentlichkeit über die Lage der Menschenrechte im In- und Ausland informieren und zur Prävention von Menschenrechtsverletzungen sowie zur Förderung und zum Schutz der Menschenrechte beitragen. Das Deutsche Institut für Menschenrechte e. V. handelt unabhängig von Vorgaben und Weisungen der Bundesregierung oder anderen öffentlichen und privaten Stellen in eigener Initiative oder auf Ersuchen der Bundesregierung oder des Deutschen Bundestages unter eigenverantwortlichem Einsatz seiner Ressourcen.
 
@@ -39,8 +35,7 @@ Ausfertigungsdatum: 16.07.2015
 
 (5) Das Deutsche Institut für Menschenrechte e. V. legt dem Deutschen Bundestag jährlich einen Bericht über die Arbeit der Institution sowie die Entwicklung der Menschenrechtssituation in Deutschland vor, zu dem der Deutsche Bundestag Stellung nehmen soll.
 
-
-## § 3 – Organe
+# § 3 – Organe
 
 Das Deutsche Institut für Menschenrechte e. V. hat in seiner Satzung folgende Organe:
 
@@ -50,8 +45,7 @@ Das Deutsche Institut für Menschenrechte e. V. hat in seiner Satzung folgende O
 
 3. Beiräte, die nach Bedarf fach- oder projektbezogen berufen werden können.
 
-
-## § 4 – Mitgliedschaft
+# § 4 – Mitgliedschaft
 
 (1) Mitglieder des Vereins sind natürliche und juristische Personen, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes Mitglieder des Deutschen Instituts für Menschenrechte e. V. sind.
 
@@ -65,13 +59,11 @@ Das Deutsche Institut für Menschenrechte e. V. hat in seiner Satzung folgende O
 
 2. die Aufnahme eines Mitgliedes durch das Kuratorium wird von der nächsten Mitgliederversammlung bestätigt; bei Nichtbestätigung endet die Mitgliedschaft.
 
-
-## § 5 – Mitgliederversammlung
+# § 5 – Mitgliederversammlung
 
 Die Mitgliederversammlung berät über die Leitlinien der Arbeit des Deutschen Instituts für Menschenrechte e. V. und verfolgt dessen Aktivität im Hinblick auf die gesetzlichen Vorgaben und die Pariser Prinzipien. Juristische Personen werden als Mitglied durch einen von diesen für die Dauer der Zeitperiode des Vorstandes gemäß § 7 benannten Bevollmächtigten vertreten. Nähere Bestimmungen zur Durchführung der Mitgliederversammlung werden in der Satzung geregelt.
 
-
-## § 6 – Kuratorium
+# § 6 – Kuratorium
 
 (1) In der Satzung muss bestimmt werden, dass das Kuratorium aus ehrenamtlichen Kuratoren besteht und diese entsprechend den Absätzen 2 und 3 zu benennen sind. Stimmberechtigte Mitglieder des Kuratoriums werden für vier Jahre ernannt. Sie können erneut für eine weitere Zeitperiode bestätigt werden. Eine nachfolgende Wiederwahl oder erneute Ernennung ist erst nach einer Zeit von mindestens vier Jahren möglich.
 
@@ -109,12 +101,10 @@ Die Mitgliederversammlung berät über die Leitlinien der Arbeit des Deutschen I
 
 9. des Bundesrates.
 
-
-## § 7 – Vorstand
+# § 7 – Vorstand
 
 Der Vorstand besteht aus einem Vorsitz und einer Stellvertretung. Das Kuratorium bestellt die Vorstandsmitglieder auf Grundlage öffentlicher Ausschreibungen für die Dauer der Zeitperiode gemäß § 6 Absatz 1 Satz 2.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach der Verkündung in Kraft. § 1 Absatz 1 Satz 2 tritt am 1. Januar 2016 in Kraft.

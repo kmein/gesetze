@@ -1,25 +1,19 @@
-# [LuftRegV] Verordnung über die Einrichtung und die Führung des Registers für Pfandrechte an Luftfahrzeugen  (Luftfahrzeugpfandrechtsregisterverordnung - LuftRegV)
-
-Ausfertigungsdatum: 02.03.1999
-
+% Verordnung über die Einrichtung und die Führung des Registers für Pfandrechte an Luftfahrzeugen  (Luftfahrzeugpfandrechtsregisterverordnung - LuftRegV)
+% Ausfertigungsdatum: 02.03.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 96 Abs. 1 und des § 97 des Gesetzes über Rechte an Luftfahrzeugen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 403-9, veröffentlichten bereinigten Fassung, von denen § 96 Abs. 1 durch Artikel 10a des Gesetzes vom 25. August 1998 (BGBl. I S. 2432) neu gefaßt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Aufbau des Registers
+# § 1 – Aufbau des Registers
 
 Das Register für Pfandrechte an Luftfahrzeugen enthält Registerblätter für Luftfahrzeuge und Registerblätter für Ersatzteillager. Es wird vorbehaltlich des Abschnitts 4 in Einzelheften mit herausnehmbaren Einlegeblättern auf Papier geführt. Die Registerblätter erhalten fortlaufende Nummern.
 
-
-## § 2 – Bestandteile des Registerblatts für ein Luftfahrzeug
+# § 2 – Bestandteile des Registerblatts für ein Luftfahrzeug
 
 Das Registerblatt für ein Luftfahrzeug besteht aus der Aufschrift und zwei Abteilungen. Die Aufschrift enthält die Bezeichnung "Register für Pfandrechte an Luftfahrzeugen" und die Nummer des Registerblatts. Die erste Abteilung trägt die Überschrift "Das Luftfahrzeug", die zweite Abteilung die Überschrift "Registerpfandrechte". Die näheren Einzelheiten ergeben sich aus dem Muster der Anlage 1. Spalte 1 der ersten Abteilung des Registerblatts muß auf der Rückseite des Registerblatts sowie auf Folgeseiten nicht vorgesehen werden.
 
-
-## § 3 – Inhalt der Abteilungen des Registerblatts für ein Luftfahrzeug
+# § 3 – Inhalt der Abteilungen des Registerblatts für ein Luftfahrzeug
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -63,8 +57,7 @@ Die Eintragungen sind in Spalte 4 zu unterschreiben.
 
 Eintragungen in den Spalten 1 bis 3 sind in Spalte 3, Eintragungen in den Spalten 4 bis 6 in Spalte 6 und Eintragungen in den Spalten 7 bis 9 in Spalte 9 zu unterschreiben.
 
-
-## § 4 – Eintragung von Vormerkungen, Schutzvermerken und Widersprüchen
+# § 4 – Eintragung von Vormerkungen, Schutzvermerken und Widersprüchen
 
 (1) Schutzvermerke und Widersprüche, die sich auf das Eigentum beziehen, werden in Spalte 4 der ersten Abteilung eingetragen.
 
@@ -78,13 +71,11 @@ Bei der Eintragung der Vormerkung ist die rechte Hälfte der Spalte für die end
 
 (3) Für die Eintragung eines Schutzvermerks nach den §§ 86 und 95 des Gesetzes über Rechte an Luftfahrzeugen in Verbindung mit den §§ 28 und 81 der Schiffsregisterordnung oder eines Widerspruchs gilt Absatz 2 sinngemäß. Eintragungen, die einen Schutzvermerk nach § 77 des Gesetzes über Rechte an Luftfahrzeugen betreffen, erfolgen an derselben Stelle wie die entsprechenden Eintragungen für ein Registerpfandrecht.
 
-
-## § 5 – Bestandteile des Registerblatts für ein Ersatzteillager
+# § 5 – Bestandteile des Registerblatts für ein Ersatzteillager
 
 Das Registerblatt für ein Ersatzteillager besteht aus der Aufschrift und zwei Abteilungen. Die Aufschrift enthält die Bezeichnung "Register für Pfandrechte an Luftfahrzeugen - Ersatzteillager -" und die Nummer des Registerblatts. Die erste Abteilung trägt die Überschrift "Das Ersatzteillager", die zweite Abteilung die Überschrift "Erweiterung von Registerpfandrechten". Die näheren Einzelheiten ergeben sich aus dem Muster der Anlage 2.
 
-
-## § 6 – Inhalt der Abteilungen des Registerblatts für ein Ersatzteillager
+# § 6 – Inhalt der Abteilungen des Registerblatts für ein Ersatzteillager
 
 (1) In der ersten Abteilung sind einzutragen:
 
@@ -112,15 +103,13 @@ Eintragungen in den Spalten 1 und 2 sind in Spalte 2, Eintragungen in den Spalte
 
 (3) Für die Eintragung einer Vormerkung, eines Schutzvermerks und eines Widerspruchs gilt § 4 Abs. 2 und 3 Satz 1 sinngemäß.
 
-
-## § 7 – Anwendung der Verordnung zur Durchführung der Schiffsregisterordnung
+# § 7 – Anwendung der Verordnung zur Durchführung der Schiffsregisterordnung
 
 (1) Für die Führung des Registers und das Verfahren gelten die §§ 7 bis 11, § 13 Abs. 1, 2 und 4, §§ 13a, 14 Abs. 1, §§ 15, 17 bis 24 und, soweit es um die Eintragung anderer Berechtigter als des Eigentümers geht, auch § 16 der Verordnung zur Durchführung der Schiffsregisterordnung sinngemäß.
 
 (2) Soweit nach § 86 Abs. 1 des Gesetzes über Rechte an Luftfahrzeugen in Verbindung mit § 57 der Schiffsregisterordnung oder nach der Verordnung zur Durchführung der Schiffsregisterordnung Bekanntmachungen an den im Register eingetragenen Eigentümer erfolgen, tritt an dessen Stelle bei einem Registerblatt für ein Ersatzteillager derjenige, der als Eigentümer des belasteten Luftfahrzeugs eingetragen ist.
 
-
-## § 8 – Registerakten
+# § 8 – Registerakten
 
 (1) Zu jedem Registerblatt sind Registerakten zu führen, in denen ein Handblatt enthalten ist. Urkunden, auf die im Register zur Ergänzung einer Eintragung verwiesen wird, können in einem Sonderband verwahrt werden.
 
@@ -128,13 +117,11 @@ Eintragungen in den Spalten 1 und 2 sind in Spalte 2, Eintragungen in den Spalte
 
 (3) Betrifft ein Schriftstück der in Absatz 2 bezeichneten Art Eintragungen auf verschiedenen Registerblättern, so ist es zu den Registerakten eines der beteiligten Blätter zu nehmen; in den Registerakten der anderen Blätter ist auf diese Registerakten zu verweisen.
 
-
-## § 9 – Vermeiden unnötigen Aktenanfalls
+# § 9 – Vermeiden unnötigen Aktenanfalls
 
 Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so können in den Abschriften Teile der Urkunde, die für die Führung des Registers ohne Bedeutung sind, weggelassen werden. Im übrigen gilt § 24a der Grundbuchverfügung sinngemäß.
 
-
-## § 10 – Verzeichnis
+# § 10 – Verzeichnis
 
 (1) Das Registergericht führt ein alphabetisches Namensverzeichnis der Eigentümer im Register eingetragener Luftfahrzeuge, das nur die Namen der Eigentümer und Miteigentümer der Luftfahrzeuge enthält. Ist ein Registerpfandrecht an einem Luftfahrzeug auf Ersatzteile erweitert, so sind in dem Verzeichnis das Registerblatt für das Luftfahrzeug und das für das Ersatzteillager angelegte Registerblatt aufzuführen.
 
@@ -142,8 +129,7 @@ Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so können in den 
 
 (3) Für Verzeichnisse nach den Absätzen 1 und 2 gilt § 12a Abs. 1 Satz 2 bis 6 der Grundbuchordnung mit der Maßgabe entsprechend, daß an die Stelle des § 12 der Grundbuchordnung § 85 Abs. 1 des Gesetzes über Rechte an Luftfahrzeugen tritt. Auch bei Führung des Registers in Papierform können Verzeichnisse nach den Absätzen 1 und 2 in maschineller Form geführt werden. In diesem Falle gelten für die Verzeichnisse § 11 Abs. 3 und § 15 entsprechend.
 
-
-## § 11 – Einführung der maschinellen Führung
+# § 11 – Einführung der maschinellen Führung
 
 (1) Die Landesjustizverwaltung kann abweichend von § 1 Satz 2 anordnen, daß die Register ganz oder blattweise in maschineller Form als automatisierte Datei geführt werden. Die Anordnung soll öffentlich bekannt gemacht werden.
 
@@ -153,8 +139,7 @@ Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so können in den 
 
 (4) Auch bei maschineller Führung des Registers sind Akten gemäß § 8 zu führen. Auf die Führung eines Handblatts kann verzichtet werden.
 
-
-## § 12 – Begriff, Freigabe und Gestaltung von Registerblättern
+# § 12 – Begriff, Freigabe und Gestaltung von Registerblättern
 
 (1) Bei dem maschinell geführten Register ist der in den dafür bestimmten Datenspeicher aufgenommenen und auf Dauer unverändert in lesbarer Form wiedergabefähige Inhalt des Registerblatts (§ 1 Satz 1) das Register. Die Bestimmung des Datenspeichers nach Satz 1 kann durch Verfügung der zuständigen Stelle geändert werden, wenn dies dazu dient, die Erhaltung und die Abrufbarkeit der Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht verändert werden.
 
@@ -162,8 +147,7 @@ Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so können in den 
 
 (3) Der Inhalt eines maschinell geführten Registers muß auf dem Bildschirm und in Ausdrucken so sichtbar gemacht werden können, wie es den durch diese Verordnung vorgeschriebenen oder zugelassenen Vordrucken entspricht.
 
-
-## § 13 – Vornahme und Wirksamwerden von Eintragungen
+# § 13 – Vornahme und Wirksamwerden von Eintragungen
 
 (1) Eine Eintragung in das maschinell geführte Register wird wirksam, sobald sie in den für die Registereintragungen bestimmten Datenspeicher aufgenommen worden ist und auf Dauer inhaltlich unverändert in lesbarer Form wiedergegeben werden kann. Durch eine Bestätigungsanzeige oder in anderer geeigneter Weise ist zu überprüfen, ob diese Voraussetzungen eingetreten sind.
 
@@ -175,13 +159,11 @@ Sind Abschriften von Urkunden zu den Registerakten zu nehmen, so können in den 
 
 (5) Für die Unterschrift unter der Eintragung gilt § 62 der Verordnung zur Durchführung der Schiffsregisterordnung entsprechend. Jede Eintragung soll den Tag angeben, an dem sie wirksam geworden ist.
 
-
-## § 14 – Einsicht in das Register
+# § 14 – Einsicht in das Register
 
 Für die Einsicht in maschinell geführte Register und die Erteilung von Abschriften hieraus gelten § 85 des Gesetzes über Rechte an Luftfahrzeugen, die Vorschriften des Abschnitts 3 und die §§ 65 und 67 der Verordnung zur Durchführung der Schiffsregisterordnung entsprechend. § 67 Abs. 3 der Verordnung zur Durchführung der Schiffsregisterordnung gilt mit der Maßgabe, daß die Einsicht auch bei einem Grundbuchamt, Schiffs- oder anderen Registergericht ermöglicht werden kann.
 
-
-## § 15 – Automatisierter Abruf von Daten
+# § 15 – Automatisierter Abruf von Daten
 
 (1) Dem Abruf von Daten im automatisierten Verfahren unterliegen die Eintragungen in das Registerblatt. Die Gewährung des Abrufs berechtigt insbesondere zur Einsichtnahme in das Register in dem durch § 85 des Gesetzes über Rechte an Luftfahrzeugen bestimmten Umfang sowie zur Fertigung von Abdrucken des Registerblatts. Notaren kann auf Antrag der Abruf von Daten aus den zum Register eingereichten Schriftstücken oder aus ihren Wiedergaben gestattet werden. Behörden und anderen Stellen soll diese Befugnis nur eingeräumt werden, soweit dies für deren Aufgabenerfüllung regelmäßig erforderlich ist. Abdrucke stehen den Ausdrucken (§ 14 Satz 1 in Verbindung mit § 65 der Verordnung zur Durchführung der Schiffsregisterordnung) nicht gleich.
 
@@ -195,32 +177,27 @@ Für die Einsicht in maschinell geführte Register und die Erteilung von Abschri
 
 (6) Für die Abrufprotokollierung gilt § 83 der Grundbuchverfügung entsprechend.
 
-
-## § 16 – Zusammenarbeit mit dem Luftfahrt-Bundesamt, Datenverarbeitung im Auftrag
+# § 16 – Zusammenarbeit mit dem Luftfahrt-Bundesamt, Datenverarbeitung im Auftrag
 
 (1) Das Registergericht kann die Daten des Luftfahrzeugs nach der Luftfahrzeugrolle und andere zur Führung des Registers benötigte Daten des Luftfahrt-Bundesamtes von diesem anfordern, soweit die Daten dort maschinell geführt werden und der Datenabruf nach dem Luftverkehrsgesetz zulässig ist. Wenn das Register maschinell geführt wird und soweit die Daten für die Aufgabenerfüllung benötigt werden, kann das Luftfahrt-Bundesamt für seine Aufgaben benötigte Angaben aus dem Register von dem Registergericht anfordern. § 71 Abs. 3 der Verordnung zur Durchführung der Schiffsregisterordnung gilt sinngemäß.
 
 (2) Für die Datenverarbeitung im Auftrag gelten § 126 Abs. 3 der Grundbuchordnung und § 72 der Verordnung zur Durchführung der Schiffsregisterordnung sinngemäß.
 
-
-## § 17 – Übergangsregelung
+# § 17 – Übergangsregelung
 
 (1) Die in den Anlagen zu dieser Verordnung bestimmten Muster sind für alle nach dem 6. März 1999 neu anzulegenden oder zur Fortführung in maschineller Form umzustellenden, neu zu fassenden oder umzuschreibenden Registerblätter zu verwenden.
 
 (2) Vor dem 6. März 1999 angelegte Registerblätter für Luftfahrzeuge (Altblätter) können unter Beachtung von § 3 im übrigen weiter verwendet werden. Solche Altblätter können abweichend von § 7 Abs. 1 in Verbindung mit § 13 Abs. 1 und § 12 Abs. 2 Satz 3 in Verbindung mit § 59 Abs. 1 der Verordnung zur Durchführung der Schiffsregisterordnung auch zur Einführung des neuen Formulars umgeschrieben werden. Eine solche Umstellung soll erfolgen, wenn eine Eintragung oder Löschung in das Registerblatt einzutragen ist.
 
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 1999, S. 283 - 284)
 
@@ -337,8 +314,7 @@ Der Bundesrat hat zugestimmt.
     I          I        I                I           I        I            I
     ------------------------------------------------------------------------ 
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 1999, S. 285 - 286)
 

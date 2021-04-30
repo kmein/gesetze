@@ -1,10 +1,7 @@
-# [WoGenVermG] Gesetz zur Regelung vermögensrechtlicher Angelegenheiten der Wohnungsgenossenschaften im Beitrittsgebiet  (Wohnungsgenossenschafts-Vermögensgesetz - WoGenVermG)
-
-Ausfertigungsdatum: 23.06.1993
-
+% Gesetz zur Regelung vermögensrechtlicher Angelegenheiten der Wohnungsgenossenschaften im Beitrittsgebiet  (Wohnungsgenossenschafts-Vermögensgesetz - WoGenVermG)
+% Ausfertigungsdatum: 23.06.1993
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Die Wohnungsgenossenschaften sind Eigentümer des von ihnen für Wohnzwecke genutzten, ehemals volkseigenen Grund und Bodens. Dies gilt auch, soweit über die Zuordnung auf Grund bis zum 27. Juni 1993 geltender Vorschriften entschieden worden ist; ein nach § 8 des Vermögenszuordnungsgesetzes Verfügungsberechtigter ist gegenüber den Wohnungsgenossenschaften verpflichtet, sich jeder Verfügung über den von den Wohnungsgenossenschaften für Wohnzwecke genutzten, ehemals volkseigenen Grund und Boden zu enthalten. Wohnungsgenossenschaften im Sinne dieses Gesetzes sind ehemalige Arbeiterwohnungsbaugenossenschaften, Gemeinnützige Wohnungsbaugenossenschaften und sonstige Wohnungsbaugenossenschaften, die am 2. Oktober 1990 bestanden, sowie deren Rechtsnachfolger.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 23.06.1993
 
 (7) Durch den Eigentumsübergang nach Absatz 1 bleiben vorbehaltlich der vorstehenden Vorschriften nur Ansprüche nach dem Vermögensgesetz unberührt.
 
-
-## § 2 – Feststellung des Grund und Bodens
+# § 2 – Feststellung des Grund und Bodens
 
 (1) Auf die Feststellung, in welchem Umfang die Wohnungsgenossenschaften Eigentümer von Grund und Boden sind, findet das Vermögenszuordnungsgesetz Anwendung. Zuständig ist der Oberfinanzpräsident oder eine von ihm zu ermächtigende Person gemäß § 1 Abs. 1 Satz 1 Nr. 2 und Satz 5 des Vermögenszuordnungsgesetzes. Die Wohnungsgenossenschaften sind entsprechend § 2 des Vermögenszuordnungsgesetzes antragsberechtigt.
 
@@ -29,8 +25,7 @@ Ausfertigungsdatum: 23.06.1993
 
 (3) Ist vor dem 27. Juni 1993 ein Bescheid nach dem Vermögenszuordnungsgesetz bestandskräftig geworden, durch den der in § 1 Abs. 1 bezeichnete Grund und Boden einer Gemeinde zugeordnet ist, ist auf Antrag der Wohnungsgenossenschaft der Bescheid nach Maßgabe des § 1 Abs. 1 zu ändern. § 3 ist entsprechend anzuwenden.
 
-
-## § 3 – Ausgleich
+# § 3 – Ausgleich
 
 (1) Die Wohnungsgenossenschaften haben den Gemeinden, in deren Gebiet der in § 1 Abs. 1 bezeichnete Grund und Boden gelegen ist, einen Ausgleich in Geld nach Maßgabe der Absätze 2 und 3 zu leisten. Die Leistungspflicht wird durch Zuordnungsbescheid festgesetzt.
 
@@ -48,7 +43,6 @@ Maßgeblich ist die Einwohnerzahl im Zeitpunkt der Entscheidung nach Absatz 1. Z
 
 (4) Erfolgt eine Veräußerung des Grund und Bodens oder eines Teils davon durch eine Wohnungsgenossenschaft bis zum 30. Juni 2003 und übersteigt der Anteil des Bodenwerts am Veräußerungserlös 40 DM/qm, hat die Wohnungsgenossenschaft zwei Drittel des übersteigenden Betrags der Gemeinde innerhalb von einem Monat nach Fälligkeit des Veräußerungserlöses zu erstatten. Satz 1 ist nicht anzuwenden auf Veräußerungsfälle, die der Abführungspflicht nach § 5 Abs. 2 des Altschuldenhilfegesetzes unterliegen.
 
-
-## § 4 – Verhältnis zum Einigungsvertrag
+# § 4 – Verhältnis zum Einigungsvertrag
 
 Artikel 22 Abs. 4 des Einigungsvertrages und die Nummer 13 des Protokolls zum Einigungsvertrag, betreffend diese Vorschrift des Einigungsvertrages, sind in Ansehung der in § 1 Abs. 1 genannten Grundstücke von dem 27. Juni 1993 an nicht mehr anzuwenden. Artikel 21 Abs. 3 und Artikel 22 Abs. 1 Satz 7 des Einigungsvertrages finden keine Anwendung.

@@ -1,15 +1,11 @@
-# [LärmschutzV] Landeplatz-Lärmschutz-Verordnung  (Landeplatz-LärmschutzV)
-
-Ausfertigungsdatum: 05.01.1999
-
+% Landeplatz-Lärmschutz-Verordnung  (Landeplatz-LärmschutzV)
+% Ausfertigungsdatum: 05.01.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 15 und Satz 5 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), Satz 5 zuletzt geändert durch Artikel 45 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach Anhörung des Beratenden Ausschusses nach § 32a des Luftverkehrsgesetzes:
 
-
-## § 1 – Zeitliche Einschränkung
+# § 1 – Zeitliche Einschränkung
 
 (1) Zum Schutz der Bevölkerung vor Fluglärm an Landeplätzen, auf denen nach Erhebungen des Statistischen Bundesamtes im vorausgegangenen Kalenderjahr 15 000 oder mehr Flugbewegungen (Starts und Landungen) von Flugzeugen, Motorseglern und Drehflüglern stattgefunden haben, sind Starts und Landungen von propellergetriebenen Flugzeugen und Motorseglern bis zu 9 000 kg höchstzulässiger Startmasse untersagt:
 
@@ -19,8 +15,7 @@ Auf Grund des § 32 Abs. 1 Satz 1 Nr. 15 und Satz 5 des Luftverkehrsgesetzes in 
 
 (2) Starts und Landungen von Flügen, die über den Flugplatzverkehr nach Artikel 2 Nummer 9 der Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung hinausführen, sind während der Ruhezeiten nach Absatz 1 zulässig, wenn für das propellergetriebene Flugzeug oder den Motorsegler ein Lärmzeugnis oder eine dem Lärmzeugnis entsprechende Urkunde des Staates erteilt ist, in dem das Luftfahrzeug zum Verkehr zugelassen ist. Im Falle eines Starts gilt dies nur, wenn das Luftfahrzeug nicht vor Ablauf von 60 Minuten zum Startflugplatz zurückkehrt; diese Einschränkung gilt nicht, wenn das Luftfahrzeug aus Gründen der sicheren Flugdurchführung vorzeitig zurückkehren muß. Nicht im Inland erteilte Lärmzeugnisse oder die ihnen entsprechenden Urkunden werden als gültig anerkannt, wenn aus ihnen die Einhaltung der Lärmgrenzwerte nach Anlage 1 ersichtlich ist.
 
-
-## § 2 – Regelungen durch die Landesbehörden
+# § 2 – Regelungen durch die Landesbehörden
 
 (1) Die zuständigen Luftfahrtbehörden der Länder können, soweit zusätzliche Einschränkungen zum Schutz der Bevölkerung vor Fluglärm unter Berücksichtigung der örtlichen Gegebenheiten erforderlich sind,
 
@@ -44,13 +39,11 @@ Starts und Landungen von propellergetriebenen Flugzeugen und Motorseglern sind u
 
 (3) Die zuständigen Luftfahrtbehörden der Länder können Landeplätze von den Einschränkungen nach § 1 ausnehmen, soweit solche Einschränkungen unter Berücksichtigung der besonderen Umstände an einem Landeplatz zum Schutz der Bevölkerung vor Fluglärm nicht erforderlich sind.
 
-
-## § 3 – Bekanntgabe der Landeplätze
+# § 3 – Bekanntgabe der Landeplätze
 
 Das Bundesministerium für Verkehr gibt die Landeplätze, die infolge der Zahl der Flugbewegungen oder auf Grund einer Entscheidung der zuständigen Luftfahrtbehörden der Länder den Einschränkungen nach § 1 unterliegen, im Bundesanzeiger und in den Nachrichten für Luftfahrer bekannt.
 
-
-## § 4 – Erhöhte Schallschutzanforderungen
+# § 4 – Erhöhte Schallschutzanforderungen
 
 (1) Die zeitlichen Einschränkungen nach § 1 gelten nicht für propellergetriebene Flugzeuge und Motorsegler, die erhöhten Schallschutzanforderungen entsprechen.
 
@@ -64,8 +57,7 @@ Das Bundesministerium für Verkehr gibt die Landeplätze, die infolge der Zahl d
 
 (6) Propellergetriebene Flugzeuge oder Motorsegler, die den erhöhten Schallschutzanforderungen entsprechen, dürfen besonders gekennzeichnet werden. Die besondere Kennzeichnung nach Satz 1 darf nicht erfolgen, wenn die Voraussetzungen nicht erfüllt sind. Das Luftfahrt-Bundesamt legt Einzelheiten der Kennzeichnung in einer Bekanntmachung im Bundesanzeiger und in den Nachrichten für Luftfahrer fest.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -73,8 +65,7 @@ Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt
 
 2. entgegen § 4 Abs. 6 Satz 2 ein propellergetriebenes Flugzeug oder einen Motorsegler besonders kennzeichnet.
 
-
-## § 6 – Übergangsbestimmungen
+# § 6 – Übergangsbestimmungen
 
 (1) Propellergetriebene Flugzeuge und Motorsegler
 
@@ -98,18 +89,15 @@ für einen Zeitraum von bis zu vier Jahren nach Inkrafttreten dieser Verordnung 
 
 (3) Eine Freistellung nach Absatz 2 kann für einen oder mehrere der unter § 1 Abs. 1 oder § 2 Abs. 1 Nr. 1 fallenden Landeplätze erfolgen.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 2 Satz 3)
+# Anlage 1 – (zu § 1 Abs. 2 Satz 3)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 37)
 
@@ -176,8 +164,7 @@ L(tief)grenz = 83.23 + 32.67 log M (dB(A))
 
 M = höchstzulässige Startmasse in 1.000 kg.
 
-
-## Anlage 2 – (zu § 2 Abs. 1 Nr. 2 Buchstabe b, § 4 Abs. 2 und 3)
+# Anlage 2 – (zu § 2 Abs. 1 Nr. 2 Buchstabe b, § 4 Abs. 2 und 3)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 38
 

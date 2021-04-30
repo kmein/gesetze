@@ -1,15 +1,11 @@
-# [AufbhV] Verordnung über die Verteilung und Verwendung der Mittel des Fonds „Aufbauhilfe“  (Aufbauhilfeverordnung - AufbhV)
-
-Ausfertigungsdatum: 16.08.2013
-
+% Verordnung über die Verteilung und Verwendung der Mittel des Fonds „Aufbauhilfe“  (Aufbauhilfeverordnung - AufbhV)
+% Ausfertigungsdatum: 16.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Absatz 4 des Aufbauhilfefonds-Errichtungsgesetzes vom 15. Juli 2013 (BGBl. I S. 2401) verordnet die Bundesregierung:
 
-
-## § 1 – Mittelverteilung
+# § 1 – Mittelverteilung
 
 (1) Die dem Fonds nach § 4 Absatz 1 des Aufbauhilfefonds-Errichtungsgesetzes vom 15. Juli 2013 (BGBl. I S. 2401) zugewiesenen Mittel verteilen sich nach folgenden Maßgaben:
 
@@ -69,8 +65,7 @@ In diesen Mitteln sind die Anteile der Länder an den Mitteln für die Erstattun
 
 (2) Die Verteilung der auf den Bund und die Länder entfallenden Mittel des Fonds auf die einzelnen Maßnahmen nach § 2 Absatz 2 Satz 1 des Aufbauhilfefonds-Errichtungsgesetzes erfolgt nach Maßgabe des gemäß § 5 des Aufbauhilfefonds-Errichtungsgesetzes aufzustellenden Wirtschaftsplans. Der Wirtschaftsplan wird für das Jahr 2013 als Anlage zu dieser Rechtsverordnung festgestellt.
 
-
-## § 2 – Ermittlung der Schadenshöhe
+# § 2 – Ermittlung der Schadenshöhe
 
 (1) Die Ermittlungen der Gesamtschäden in den vom Hochwasser betroffenen Ländern erfolgt nach Maßgabe der in den nachfolgenden Absätzen geregelten einheitlichen Maßstäbe.
 
@@ -100,8 +95,7 @@ In diesen Mitteln sind die Anteile der Länder an den Mitteln für die Erstattun
 
 (6) Bei der Schadensermittlung werden Kosten für Maßnahmen berücksichtigt, die unmittelbar vor oder während des Zeitraums nach Absatz 3 Satz 1 getroffen wurden, soweit sie unmittelbar der Abwehr von hochwasserbedingten Gefahren und der Begrenzung hochwasserbedingter Schäden gedient haben. Kosten der Beseitigung der Maßnahmen nach Satz 1 sind ebenfalls berücksichtigungsfähig.
 
-
-## § 3 – Mittelverwendung
+# § 3 – Mittelverwendung
 
 (1) Nach der Verteilung der Mittel des Fonds im Rahmen seines Wirtschaftsplans obliegt die Entscheidung über die Verwendung der auf die vom Hochwasser betroffenen Länder entfallenden Mittel den Ländern und den beauftragten Stellen (bewilligende Stellen). Der Bund entscheidet über die Verwendung der Mittel zur Wiederherstellung der Infrastruktur des Bundes.
 
@@ -119,8 +113,7 @@ In diesen Mitteln sind die Anteile der Länder an den Mitteln für die Erstattun
 
 4. Der jeweilige Nachweis der Angaben der Geschädigten kann durch die Glaubhaftmachung mittels geeigneter Nachweise und Versicherung der Richtigkeit der Angaben erbracht werden. Nachträgliche Überprüfungen und Anforderungen von Nachweisen insbesondere bei Schäden von großem Umfang sind dadurch nicht ausgeschlossen.
 
-
-## § 4 – Zweckentsprechende Mittelverwendung, Rückforderung
+# § 4 – Zweckentsprechende Mittelverwendung, Rückforderung
 
 (1) Die Länder sind für die bestimmungsgemäße Verwendung der Mittel des Fonds verantwortlich, soweit nicht der Bund für seine eigenen aus dem Fonds finanzierten Programme und Maßnahmen die Verantwortung trägt.
 
@@ -134,40 +127,33 @@ In diesen Mitteln sind die Anteile der Länder an den Mitteln für die Erstattun
 
 (6) Die bewilligenden Stellen haben im Rahmen der Verwaltungsverfahrensvorschriften die Bewilligung aufzuheben und bewilligte Mittel zugunsten des Fonds zurückzufordern, wenn festgestellt wird, dass sie zweckwidrig verwendet wurden oder dass sie zum Ausgleich des Schadens nicht erforderlich waren. Entsprechendes gilt für die Hilfen, die der Bund oder ein Land im Vorgriff auf das Aufbauhilfefonds-Errichtungsgesetz geleistet hat. Wenn von dritter Seite Leistungen zum Ausgleich des Schadens erbracht worden sind und die Summe aus diesen Leistungen und den bewilligten Fondsmitteln den finanziellen Gesamtaufwand zur Beseitigung des entstandenen Hochwasserschadens übersteigt, sind diese in Höhe der Überkompensation ebenfalls zurückzufordern.
 
-
-## § 5 – Inanspruchnahme und Rückzahlung von Mitteln
+# § 5 – Inanspruchnahme und Rückzahlung von Mitteln
 
 (1) Die Länder nehmen die ihnen zugeteilten Mittel für sich und ihre beauftragten Stellen im Rahmen der Ansätze des Wirtschaftsplans des Fonds und nach Maßgabe des Verteilungsschlüssels nach § 1 Absatz 1 bedarfsgerecht entsprechend der Abwicklung der Maßnahmen nach § 2 Absatz 2 Satz 1 des Aufbauhilfefonds-Errichtungsgesetzes in Anspruch.
 
 (2) Überzahlte oder nicht bedarfsgerecht in Anspruch genommene Mittel sind unverzüglich an den Fonds zurückzuzahlen. Erfolgt dies nicht, sind die Beträge vom Zeitpunkt der Überzahlung oder Inanspruchnahme bis zur Rückzahlung mit dem Zinssatz zu verzinsen, der sich nach dem Zinssatz für Kredite des Bundes zur Deckung von Ausgaben bemisst. Der Zinssatz wird vom Bundesministerium der Finanzen jeweils durch Rundschreiben an die obersten Bundesbehörden bekannt gegeben. Rückzahlungen fließen den jeweiligen Ausgabetiteln des Wirtschaftsplans des Fonds zu.
 
-
-## § 6 – Liquidität des Fonds
+# § 6 – Liquidität des Fonds
 
 Die Liquidität des Fonds ist durch den Bund auf seine Kosten sicherzustellen.
 
-
-## § 7 – Fondsverwaltung
+# § 7 – Fondsverwaltung
 
 Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen.
 
-
-## § 8 – EU-beihilferechtliche Genehmigung
+# § 8 – EU-beihilferechtliche Genehmigung
 
 Soweit im Einzelfall eine beihilferechtliche Genehmigung erforderlich ist, wird diese unverzüglich durch den jeweiligen Beihilfegeber eingeholt.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1 Absatz 2 Satz 2)Wirtschaftsplan des Sondervermögens „Aufbauhilfe“
+# Anlage – (zu § 1 Absatz 2 Satz 2)Wirtschaftsplan des Sondervermögens „Aufbauhilfe“
 
 (Fundstelle: BGBl. I 2014, 1717 – 1723)
 

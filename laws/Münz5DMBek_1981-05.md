@@ -1,10 +1,7 @@
-# [Münz5DMBek 1981-05] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Gotthold Ephraim Lessing)
-
-Ausfertigungsdatum: 13.05.1981
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Gotthold Ephraim Lessing)
+% Ausfertigungsdatum: 13.05.1981
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 200. Wiederkehr des Todestages des Kritikers, Schriftstellers und Dichters Gotthold Ephraim Lessing, eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 6,85 Millionen Stück. Die Prägung erfolgt in der Hamburgischen Münze.
 
@@ -40,13 +37,11 @@ Ausfertigungsdatum: 13.05.1981
 
 (11) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

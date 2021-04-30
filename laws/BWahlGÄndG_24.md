@@ -1,5 +1,3 @@
-# [BWahlGÄndG 24] Vierundzwanzigstes Gesetz zur Änderung des Bundeswahlgesetzes
-
-Ausfertigungsdatum: 25.06.2020
-
+% Vierundzwanzigstes Gesetz zur Änderung des Bundeswahlgesetzes
+% Ausfertigungsdatum: 25.06.2020
  

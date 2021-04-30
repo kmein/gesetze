@@ -1,15 +1,11 @@
-# [HdlFachwPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Handelsfachwirt und Geprüfte Handelsfachwirtin
-
-Ausfertigungsdatum: 13.05.2014
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Handelsfachwirt und Geprüfte Handelsfachwirtin
+% Ausfertigungsdatum: 13.05.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Handelsfachwirt und zur Geprüften Handelsfachwirtin nach den §§ 2 bis 8 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -43,8 +39,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Handelsfachwirt“ oder „Geprüfte Handelsfachwirtin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur ersten schriftlichen Teilprüfung nach § 3 Absatz 2 und 3 ist zuzulassen, wer
 
@@ -66,8 +61,7 @@ nachweist.
 
 (4) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung wird schriftlich und mündlich durchgeführt.
 
@@ -109,8 +103,7 @@ sowie einen der Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 (1) Im Handlungsbereich „Unternehmensführung und -steuerung“ soll die Fähigkeit nachgewiesen werden, bei der Erstellung von Handelsleistungen das Zusammenwirken der betrieblichen Aufgabenbereiche zu beurteilen und unternehmerische Ziele und Entscheidungen zu planen, umzusetzen und zu kontrollieren. Hierbei sollen Auswirkungen von volkswirtschaftlichen Entwicklungen bewertet sowie daraus Schlussfolgerungen und Maßnahmenvorschläge für die Sicherung der Wettbewerbsfähigkeit des Handelsunternehmens abgeleitet werden. Es sollen Qualitäts- und Umweltmanagementprozesse umgesetzt und optimiert sowie das Qualitätsbewusstsein der Mitarbeiter gefördert werden. Außerdem soll gezeigt werden, dass zentrale Prozesse für die Gründung und Übernahme eines Unternehmens geplant werden können. Rechtliche Vorschriften, Complianceregeln und Aspekte der Nachhaltigkeit sind zu berücksichtigen. In diesem Rahmen kann Folgendes geprüft werden:
 
@@ -230,15 +223,13 @@ sowie einen der Handlungsbereiche:
 
 4. Bewerten von Zahlungsbedingungen, Zöllen, Verbrauchssteuern und Handelshemmnissen sowie der Finanzierung von Außenhandelsgeschäften, Abwickeln des Zahlungsverkehrs.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder § 7 Absatz 3 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -258,8 +249,7 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -277,8 +267,7 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -292,8 +281,7 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Jede Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
@@ -301,29 +289,25 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Geprüften Handelsfachwirt/zur Geprüften Handelsfachwirtin können bis zum Ablauf des 31. Juli 2018 nach den bisherigen Vorschriften zu Ende geführt werden. Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin die Wiederholungsprüfung nach dieser Verordnung durchführen; § 7 Absatz 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Januar 2017 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Handelsfachwirt/Geprüfte Handelsfachwirtin vom 17. Januar 2006 (BGBl. I S. 59), die zuletzt durch Artikel 7 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2404 – 2405)
 
@@ -332,8 +316,7 @@ Diese Verordnung tritt am 1. Januar 2015 in Kraft. Gleichzeitig tritt die Verord
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2405 – 2406)
 

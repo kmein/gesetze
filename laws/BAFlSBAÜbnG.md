@@ -1,10 +1,7 @@
-# [BAFlSBAÜbnG] Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
-
-Ausfertigungsdatum: 23.07.1992
-
+% Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
+% Ausfertigungsdatum: 23.07.1992
  
-
-## § 1
+# § 1
 
 (1) Beamte und Arbeitnehmer bei der Bundesanstalt für Flugsicherung, die nicht aus dem Beamtenverhältnis oder aus dem Arbeitsverhältnis ausscheiden, sind vom Zeitpunkt der Aufhebung des Gesetzes über die Bundesanstalt für Flugsicherung ab Beamte und Arbeitnehmer bei dem Luftfahrt-Bundesamt und nehmen Aufgaben der Flugsicherung in der DFS Deutsche Flugsicherung GmbH (§ 31b Abs. 1 LuftVG) wahr, soweit sie nicht anderweitig verwendet werden. Für die Arbeitsverhältnisse der in Satz 1 genannten Arbeitnehmer sind bis zum Abschluß neuer Tarifverträge die Tarifverträge maßgebend, die für sie bei der Bundesanstalt für Flugsicherung gegolten haben.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 23.07.1992
 
 (3) Beamten sowie Arbeitnehmern des Luftfahrt-Bundesamtes, die der DFS Deutsche Flugsicherung GmbH zugewiesen oder in der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt tätig sind und bisher Zulagen und Entschädigungen nach Absatz 2 erhalten haben, werden diese bei einer Verwendung im Bundesaufsichtsamt für Flugsicherung weiter gewährt, soweit die Voraussetzungen des Absatzes 2 weiter vorliegen. Die Überleitung der vorgenannten Beamten und Arbeitnehmer in das Bundesaufsichtsamt für Flugsicherung erfolgt durch Versetzung.
 
-
-## § 2
+# § 2
 
 (1) Für die Beamten des gehobenen Flugverkehrskontrolldienstes und für die Beamten in Aufsichtsfunktionen des Flugverkehrskontrolldienstes bildet das vollendete 55. Lebensjahr die Altersgrenze.
 
@@ -33,8 +29,7 @@ Ausfertigungsdatum: 23.07.1992
 
 (10) Für Beamte des gehobenen Flugsicherungskontrolldienstes und für Beamte in Aufsichtsfunktionen des Flugverkehrskontrolldienstes, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes das 53. Lebensjahr vollendet haben, findet § 2 dieses Gesetzes in der Fassung vom 23. Juli 1992 (BGBl. I S. 1370, 1376) weiterhin entsprechende Anwendung. § 69c Abs. 4 Satz 1 des Beamtenversorgungsgesetzes gilt entsprechend.
 
-
-## § 2a
+# § 2a
 
 (1) Ein in § 1 Abs. 1 bezeichneter Beamter des mittleren oder des gehobenen Dienstes des Luftfahrt-Bundesamtes kann bis zum 31. Dezember 1998 auf Antrag in den Ruhestand versetzt werden, wenn
 
@@ -50,19 +45,16 @@ Ausfertigungsdatum: 23.07.1992
 
 (4) § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
-
-## § 3
+# § 3
 
 Personen, die die DFS Deutsche Flugsicherung GmbH von der Bundesanstalt für Flugsicherung übernommen hat und die als Bedienstete der Bundesanstalt für Flugsicherung Flugsicherungsaufgaben erfüllt haben, bedürfen keiner Erlaubnis im Sinne des § 4 Abs. 5 LuftVG in der Fassung des Luftverkehrsgesetzes vom 23. Juli 1992 (BGBl. I S. 1370). Dasselbe gilt für andere Personen, die bereits bis zum Inkrafttreten dieses Gesetzes mit der Wahrnehmung bestimmter Aufgaben aus dem Bereich der Flugsicherung betraut waren.
 
-
-## § 4
+# § 4
 
 (1) Die in § 1 Abs. 1 genannten Beschäftigten gelten im Sinne des Bundespersonalvertretungsgesetzes als Beschäftigte der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt; § 13 Abs. 2 Satz 4 des Bundespersonalvertretungsgesetzes findet keine Anwendung.
 
 (2) Die in Absatz 1 genannten Beschäftigten gelten für die Anwendung der Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat sowie für die Anwendung des Betriebsverfassungsgesetzes und des Sprecherausschussgesetzes als Arbeitnehmer der DFS Deutsche Flugsicherung GmbH und sind als solche aktiv und passiv wahlberechtigt. Als leitende Angestellte im Sinne des § 5 Abs. 3 des Betriebsverfassungsgesetzes gelten auch die funktional vergleichbaren Beamten.
 
-
-## § 5
+# § 5
 
 Gegenüber den in § 1 Abs. 1 bezeichneten Beschäftigten hat die DFS Deutsche Flugsicherung GmbH Entscheidungs- und Weisungsbefugnisse im unmittelbaren Zusammenhang mit den Tätigkeiten einzelner Beschäftigter vor Ort, für deren Durchführung die DFS Deutsche Flugsicherung GmbH die Verantwortung trägt. Die Geschäftsführung und von dieser benannte Beschäftigte der DFS Deutsche Flugsicherung GmbH üben insoweit Vorgesetztenbefugnisse aus. Die Dienstvorgesetztenbefugnisse nach § 3 Abs. 2 Satz 1 des Bundesbeamtengesetzes liegen bei der Leiterin oder dem Leiter der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt. Die DFS Deutsche Flugsicherung GmbH unterstützt die Leiterin oder den Leiter der Dienststelle Flugsicherung beim Luftfahrt-Bundesamt bei der Wahrnehmung der Dienstvorgesetztenbefugnisse. Dazu hat sie insbesondere alle notwendigen Auskünfte zu erteilen.

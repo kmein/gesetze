@@ -1,20 +1,15 @@
-# [BVerfGBes 2015-11-24] Beschluss des Plenums des Bundesverfassungsgerichts vom 24. November 2015 gemäß § 14 Absatz 4 des Gesetzes über das Bundesverfassungsgericht
-
-Ausfertigungsdatum: 24.11.2015
-
+% Beschluss des Plenums des Bundesverfassungsgerichts vom 24. November 2015 gemäß § 14 Absatz 4 des Gesetzes über das Bundesverfassungsgericht
+% Ausfertigungsdatum: 24.11.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Plenum des Bundesverfassungsgerichts hat am 24. November 2015 gemäß § 14 Absatz 4 des Gesetzes über das Bundesverfassungsgericht in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl. I S. 1473), das zuletzt durch Artikel 8 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, beschlossen:
 
-
-## A.
+# A.
 
 Mit Wirkung vom 1. Januar 2016 ist abweichend von § 14 Absatz 1 bis 3 des Gesetzes über das Bundesverfassungsgericht der Zweite Senat des Bundesverfassungsgerichts auch zuständig:
 
-I.  
-Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
+I. Für Normenkontrollverfahren (§ 13 Nummer 6 und Nummer 11 BVerfGG) und Verfassungsbeschwerden aus den Rechtsbereichen
 
 1. des Asylrechts;
 
@@ -112,12 +107,10 @@ IV. Im Übrigen für Normenkontrollverfahren und Verfassungsbeschwerden
 
 2. bei denen andere Fragen als solche der Auslegung und Anwendung der Artikel 1 bis 17, 19, 101 und 103 Absatz 1 GG (auch in Verbindung mit dem Rechtsstaatsprinzip) überwiegen.
 
-
-## B.
+# B.
 
 Für bis zum 31. Dezember 2015 anhängig werdende Verfahren bleibt es bei der bisherigen Senatszuständigkeit.
 
-
-## C.
+# C.
 
 Der Beschluss des Bundesverfassungsgerichts vom 15. November 1993 (BGBl. I S. 2492), der zuletzt durch Beschluss des Plenums vom 19. November 2014 (BGBl. 2015 I S. 24) geändert worden ist, tritt mit Ablauf des 31. Dezember 2015 außer Kraft.

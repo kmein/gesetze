@@ -1,10 +1,7 @@
-# [BBVAnpG98Art4uaBek] Bekanntmachung nach Artikel 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1998 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
-
-Ausfertigungsdatum: 18.08.1998
-
+% Bekanntmachung nach Artikel 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1998 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
+% Ausfertigungsdatum: 18.08.1998
  
-
-## ----
+# ----
 
 Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1998 vom 6. August 1998 (BGBl. I S. 2026) und des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764), die zuletzt durch Artikel 3 des eingangs genannten Gesetzes geändert worden ist, werden bekanntgemacht
 
@@ -14,8 +11,7 @@ Auf Grund des Artikels 4 Abs. 2 des Bundesbesoldungs- und -versorgungsanpassungs
 
 Der Bundesminister des Innern
 
-
-## Anlage 1 – (Anlage IV des BBesG)Gültig ab 1. Januar 1998
+# Anlage 1 – (Anlage IV des BBesG)Gültig ab 1. Januar 1998
 
 (Fundstelle: BGBl. I 1998, 2400 - 2402)
 
@@ -975,8 +971,7 @@ R 10
 
  
 
-
-## Anlage 2 – (Anlage V des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 2 – (Anlage V des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2403
 
@@ -990,22 +985,18 @@ Fundstelle des Originaltextes: BGBl. I 1998, 2403
 Familienzuschlag (Monatsbeträge in DM)
 
   
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 157,49 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 208,90 DM.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 157,49 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 208,90 DM. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 10 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 50 DM,  
 in Besoldungsgruppe A 4 um je 40 DM und  
-in Besoldungsgruppe A 5 um je 30 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+in Besoldungsgruppe A 5 um je 30 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |           |
 |:------------------------------------------|:----------|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 162,97 DM |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 173,00 DM |
 
-
-## Anlage 3a – (Anlage VIa des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3a – (Anlage VIa des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
@@ -1353,8 +1344,7 @@ B 8 und höher
 
 10.361
 
-
-## Anlage 3b – (Anlage VIb des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3b – (Anlage VIb des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2404
 
@@ -1702,8 +1692,7 @@ B 8 und höher
 
 8.807
 
-
-## Anlage 3c – (Anlage VIc des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3c – (Anlage VIc des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
@@ -2051,8 +2040,7 @@ B 8 und höher
 
 7.253
 
-
-## Anlage 3d – (Anlage VId des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3d – (Anlage VId des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2405
 
@@ -2400,8 +2388,7 @@ B 8 und höher
 
 5.077
 
-
-## Anlage 3e – (Anlage VIe des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3e – (Anlage VIe des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
@@ -2749,8 +2736,7 @@ B 8 und höher
 
 6.165
 
-
-## Anlage 3f – (Anlage VIf des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3f – (Anlage VIf des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2406
 
@@ -3098,8 +3084,7 @@ B 8 und höher
 
  
 
-
-## Anlage 3g – (Anlage VIg des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3g – (Anlage VIg des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
@@ -3447,8 +3432,7 @@ B 8 und höher
 
  
 
-
-## Anlage 3h – (Anlage VIh des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3h – (Anlage VIh des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2407
 
@@ -3796,8 +3780,7 @@ B 8 und höher
 
  
 
-
-## Anlage 3i – (Anlage VIi des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 3i – (Anlage VIi des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
@@ -3869,8 +3852,7 @@ A 1 bis A 16
 
 B 1 bis B 11
 
-
-## Anlage 4 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 4 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2408
 
@@ -3952,8 +3934,7 @@ A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbeso
 
 116
 
-
-## Anlage 5 – (Anlage IX des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 5 – (Anlage IX des BBesG)  Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2409 - 2411)
 
@@ -5435,8 +5416,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
-## Anlage 6 – (Anlage IV des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 6 – (Anlage IV des BBesG)  Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2412 - 2414)
 
@@ -6434,8 +6414,7 @@ R 2
 
 8.182,01
 
-
-## Anlage 7 – (Anlage V des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 7 – (Anlage V des BBesG)  Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
 
@@ -6465,22 +6444,18 @@ Besoldungsgruppen A 1 bis A 8
 
 290,35
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 133,87 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 177,57 DM.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 133,87 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 177,57 DM. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,50 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 42,50 DM,  
 in Besoldungsgruppe A 4 um je 34,00 DM und  
-in Besoldungsgruppe A 5 um je 25,50 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+in Besoldungsgruppe A 5 um je 25,50 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |           |
 |:------------------------------------------|:----------|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 138,52 DM |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 147,05 DM |
 
-
-## Anlage 8 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 8 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2415)
 
@@ -6564,8 +6539,7 @@ A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbeso
 
 99
 
-
-## Anlage 9 – (Anlage IX des BBesG)  Gültig ab 1. Januar 1998
+# Anlage 9 – (Anlage IX des BBesG)  Gültig ab 1. Januar 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2416 - 2418)
 
@@ -7912,8 +7886,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
-
-## Anlage 10 – (Anlage IV des BBesG)Gültig ab 1. September 1998
+# Anlage 10 – (Anlage IV des BBesG)Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2419 - 2421
 
@@ -8901,8 +8874,7 @@ R 2
 
 8.326,39
 
-
-## Anlage 11 – (Anlage V des BBesG)  Gültig ab 1. September 1998
+# Anlage 11 – (Anlage V des BBesG)  Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
@@ -8935,22 +8907,18 @@ Besoldungsgruppen A 1 bis A 8
 295,47
 
   
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 136,23 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 180,70 DM.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 136,23 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 180,70 DM. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,65 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 43,25 DM,  
 in Besoldungsgruppe A 4 um je 34,60 DM und  
-in Besoldungsgruppe A 5 um je 25,95 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+in Besoldungsgruppe A 5 um je 25,95 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |           |
 |:------------------------------------------|----------:|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 140,97 DM |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 149,65 DM |
 
-
-## Anlage 12 – (Anlage VIII des BBesG)  Gültig ab 1. September 1998
+# Anlage 12 – (Anlage VIII des BBesG)  Gültig ab 1. September 1998
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2422
 
@@ -9036,8 +9004,7 @@ A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbeso
 
 100
 
-
-## Anlage 13 – (Anlage IX des BBesG)  Gültig ab 1. September 1998
+# Anlage 13 – (Anlage IX des BBesG)  Gültig ab 1. September 1998
 
 (Fundstelle des Originaltextes: BGBl. I 1998, 2423 - 2425)
 

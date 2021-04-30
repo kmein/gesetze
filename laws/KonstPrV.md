@@ -1,15 +1,11 @@
-# [KonstPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstrukteur/Geprüfte Konstrukteurin
-
-Ausfertigungsdatum: 26.05.1994
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstrukteur/Geprüfte Konstrukteurin
+% Ausfertigungsdatum: 26.05.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, und auf Grund des § 42 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 2 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet das Bundesministerium für Bildung und Wissenschaft nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Konstrukteur/zur Konstrukteurin in den Fachrichtungen Maschinen- und Anlagentechnik, Heizungs-, Klima- und Sanitärtechnik, Stahl- und Metallbautechnik, Elektrotechnik oder Holztechnik erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -25,8 +21,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -38,8 +33,7 @@ nachweist. Bei der in Satz 1 genannten Berufspraxis muß mindestens ein Jahr in 
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Inhalt der Prüfung
+# § 3 – Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
@@ -51,8 +45,7 @@ nachweist. Bei der in Satz 1 genannten Berufspraxis muß mindestens ein Jahr in 
 
 (3) Die einzelnen Prüfungsteile können an verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
-
-## § 4 – Fachrichtungsübergreifender Teil
+# § 4 – Fachrichtungsübergreifender Teil
 
 (1) Im fachrichtungsübergreifenden Teil ist in folgenden Fächern zu prüfen:
 
@@ -212,8 +205,7 @@ f) Weiterbildungsmöglichkeiten.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Fachrichtungsspezifischer Teil
+# § 5 – Fachrichtungsspezifischer Teil
 
 (1) Die Prüfung im fachrichtungsspezifischen Teil gliedert sich in
 
@@ -1075,15 +1067,13 @@ h) Holz- und Materiallisten;
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder nach § 42c Absatz 2 Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -1099,8 +1089,7 @@ Aus der Bewertung der Konstruktionsaufgabe und der Bewertung für das Fachgespr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -1132,8 +1121,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -1147,8 +1135,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -1156,22 +1143,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2191 - 2192)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2192 - 2193)
 

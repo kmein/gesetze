@@ -1,10 +1,7 @@
-# [WoVermRG] Gesetz zur Regelung der Wohnungsvermittlung
-
-Ausfertigungsdatum: 04.11.1971
-
+% Gesetz zur Regelung der Wohnungsvermittlung
+% Ausfertigungsdatum: 04.11.1971
  
-
-## § 1
+# § 1
 
 (1) Wohnungsvermittler im Sinne dieses Gesetzes ist, wer den Abschluß von Mietverträgen über Wohnräume vermittelt oder die Gelegenheit zum Abschluß von Mietverträgen über Wohnräume nachweist.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 04.11.1971
 
 (3) Die Vorschriften dieses Gesetzes gelten nicht für die Vermittlung oder den Nachweis der Gelegenheit zum Abschluß von Mietverträgen über Wohnräume im Fremdenverkehr.
 
-
-## § 2
+# § 2
 
 (1) Ein Anspruch auf Entgelt für die Vermittlung oder den Nachweis der Gelegenheit zum Abschluß von Mietverträgen über Wohnräume steht dem Wohnungsvermittler nur zu, wenn infolge seiner Vermittlung oder infolge seines Nachweises ein Mietvertrag zustande kommt. Der Vermittlungsvertrag bedarf der Textform.
 
@@ -39,8 +35,7 @@ Ausfertigungsdatum: 04.11.1971
 
 § 2: Gilt in Berlin und im Saarland in der Fassung des § 9 Abs. 3
 
-
-## § 3
+# § 3
 
 (1) Das Entgelt nach § 2 Abs. 1 Satz 1 ist in einem Bruchteil oder Vielfachen der Monatsmiete anzugeben.
 
@@ -50,46 +45,39 @@ Ausfertigungsdatum: 04.11.1971
 
 (4) Eine Vereinbarung, durch die der Auftraggeber sich im Zusammenhang mit dem Auftrag verpflichtet, Waren zu beziehen oder Dienst- oder Werkleistungen in Anspruch zu nehmen, ist unwirksam. Die Wirksamkeit des Vermittlungsvertrags bleibt unberührt. Satz 1 gilt nicht, wenn die Verpflichtung die Übernahme von Einrichtungs- oder Ausstattungsgegenständen des bisherigen Inhabers der Wohnräume zum Gegenstand hat.
 
-
-## § 4
+# § 4
 
 Der Wohnungsvermittler und der Auftraggeber können vereinbaren, daß bei Nichterfüllung von vertraglichen Verpflichtungen eine Vertragsstrafe zu zahlen ist. Die Vertragsstrafe darf 10 Prozent des gemäß § 2 Abs. 1 Satz 1 vereinbarten Entgelts, höchstens jedoch 25 Euro nicht übersteigen.
 
-
-## § 4a
+# § 4a
 
 (1) Eine Vereinbarung, die den Wohnungssuchenden oder für ihn einen Dritten verpflichtet, ein Entgelt dafür zu leisten, daß der bisherige Mieter die gemieteten Wohnräume räumt, ist unwirksam. Die Erstattung von Kosten, die dem bisherigen Mieter nachweislich für den Umzug entstehen, ist davon ausgenommen.
 
 (2) Ein Vertrag, durch den der Wohnungssuchende sich im Zusammenhang mit dem Abschluß eines Mietvertrages über Wohnräume verpflichtet, von dem Vermieter oder dem bisherigen Mieter eine Einrichtung oder ein Inventarstück zu erwerben, ist im Zweifel unter der aufschiebenden Bedingung geschlossen, daß der Mietvertrag zustande kommt. Die Vereinbarung über das Entgelt ist unwirksam, soweit dieses in einem auffälligen Mißverhältnis zum Wert der Einrichtung oder des Inventarstücks steht.
 
-
-## § 5
+# § 5
 
 (1) Soweit an den Wohnungsvermittler ein ihm nach diesem Gesetz nicht zustehendes Entgelt, eine Vergütung anderer Art, eine Auslagenerstattung, ein Vorschuß oder eine Vertragsstrafe, die den in § 4 genannten Satz übersteigt, geleistet worden ist, kann die Leistung nach den allgemeinen Vorschriften des bürgerlichen Rechts zurückgefordert werden; die Vorschrift des § 817 Satz 2 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 (2) Soweit Leistungen auf Grund von Vereinbarungen erbracht worden sind, die nach § 2 Absatz 5 Nummer 2 oder § 4a unwirksam oder nicht wirksam geworden sind, ist Absatz 1 entsprechend anzuwenden.
 
-
-## § 6
+# § 6
 
 (1) Der Wohnungsvermittler darf Wohnräume nur anbieten, wenn er dazu einen Auftrag von dem Vermieter oder einem anderen Berechtigten hat.
 
 (2) Der Wohnungsvermittler darf öffentlich, insbesondere in Zeitungsanzeigen, auf Aushängetafeln und dergleichen, nur unter Angabe seines Namens und der Bezeichnung als Wohnungsvermittler Wohnräume anbieten oder suchen; bietet er Wohnräume an, so hat er auch den Mietpreis der Wohnräume anzugeben und darauf hinzuweisen, ob Nebenleistungen besonders zu vergüten sind.
 
-
-## § 7
+# § 7
 
 Die Vorschriften des § 3 Abs. 1 und des § 6 gelten nur, soweit der Wohnungsvermittler die in § 1 Abs. 1 bezeichnete Tätigkeit gewerbsmäßig ausübt.
 
-
-## § 8
+# § 8
 
 (1) Ordnungswidrig handelt, wer als Wohnungsvermittler vorsätzlich oder fahrlässig
 
 1. entgegen § 2 Absatz 1a vom Wohnungssuchenden ein Entgelt fordert, sich versprechen lässt oder annimmt,
 
-1a.  
-entgegen § 3 Abs. 1 das Entgelt nicht in einem Bruchteil oder Vielfachen der Monatsmiete angibt,
+1a. entgegen § 3 Abs. 1 das Entgelt nicht in einem Bruchteil oder Vielfachen der Monatsmiete angibt,
 
 2. entgegen § 3 Abs. 2 ein Entgelt fordert, sich versprechen läßt oder annimmt, das den dort genannten Betrag übersteigt,
 
@@ -99,8 +87,7 @@ entgegen § 3 Abs. 1 das Entgelt nicht in einem Bruchteil oder Vielfachen der Mo
 
 (2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 und 2 kann mit einer Geldbuße bis zu 25 000 Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 1a, 3 und 4 mit einer Geldbuße bis zu 2 500 Euro geahndet werden.
 
-
-## § 9
+# § 9
 
 (1)
 

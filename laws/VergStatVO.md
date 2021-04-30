@@ -1,10 +1,7 @@
-# [VergStatVO] Verordnung zur Statistik über die Vergabe öffentlicher Aufträge und Konzessionen  (Vergabestatistikverordnung - VergStatVO)
-
-Ausfertigungsdatum: 12.04.2016
-
+% Verordnung zur Statistik über die Vergabe öffentlicher Aufträge und Konzessionen  (Vergabestatistikverordnung - VergStatVO)
+% Ausfertigungsdatum: 12.04.2016
  
-
-## § 1 – Anwendungsbereich und Grundsätze der Datenübermittlung
+# § 1 – Anwendungsbereich und Grundsätze der Datenübermittlung
 
 (1) Diese Verordnung regelt die Pflichten der Auftraggeber im Sinne von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen zur Übermittlung der in § 3 aufgeführten Daten an das vom Bundesministerium für Wirtschaft und Energie zum Empfang und zur Verarbeitung der Daten beauftragte Statistische Bundesamt. Zur Erfüllung ihrer Pflichten nach Satz 1 bedienen sich die Auftraggeber Berichtsstellen. Berichtsstellen sind diejenigen Stellen, die Informationen über vergebene Aufträge und Konzessionen als Auftrag- oder Konzessionsgeber selbst oder für einen anderen Auftrag- oder Konzessionsgeber melden.
 
@@ -17,8 +14,7 @@ Ausfertigungsdatum: 12.04.2016
 (+++ § 1: Zur Anwendung vgl. § 6 Abs. 2 +++)  
 (+++ § 1 Abs. 2 u. 3: Zur Anwendung vgl. § 3 Abs. 3 +++)
 
-
-## § 2 – Art und Umfang der Datenübermittlung
+# § 2 – Art und Umfang der Datenübermittlung
 
 (1) Auftraggeber im Sinne von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen übermitteln nach der Vergabe eines öffentlichen Auftrags nach § 103 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen oder einer Konzession nach § 105 des Gesetzes gegen Wettbewerbsbeschränkungen bei Erreichen oder Überschreiten der in § 106 des Gesetzes gegen Wettbewerbsbeschränkungen genannten Schwellenwerte die in § 3 Absatz 1 genannten Daten.
 
@@ -36,8 +32,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (+++ § 2: Zur Anwendung vgl. § 6 Abs. 2 +++)
 
-
-## § 3 – Zu übermittelnde Daten
+# § 3 – Zu übermittelnde Daten
 
 (1) In den Fällen des § 2 Absatz 1 umfasst die Pflicht zur Übermittlung die folgenden Daten:
 
@@ -61,8 +56,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (+++ § 3: Zur Anwendung vgl. § 6 Abs. 2 +++)
 
-
-## § 4 – Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen; Datenbank
+# § 4 – Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen; Datenbank
 
 (1) Das Statistische Bundesamt ist mit Einwilligung des Bundesministeriums für Wirtschaft und Energie berechtigt, aus den aufbereiteten Daten statistische Auswertungen zu veröffentlichen.
 
@@ -80,8 +74,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (+++ § 4: Zur Anwendung vgl. § 3 Abs. 3 u. § 6 Abs. 2 +++)
 
-
-## § 5 – Datenübermittlung für die wissenschaftliche Forschung
+# § 5 – Datenübermittlung für die wissenschaftliche Forschung
 
 (1) Das Bundesministerium für Wirtschaft und Energie stellt Hochschulen und anderen Einrichtungen, die wissenschaftliche Forschung betreiben, auf Antrag statistische Auswertungen oder Daten in anonymisierter Form zur Verfügung, soweit
 
@@ -93,8 +86,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (+++ § 5: Zur Anwendung vgl. § 6 Abs. 2 +++)
 
-
-## § 6 – Anwendungsbestimmung
+# § 6 – Anwendungsbestimmung
 
 (1) Das Bundesministerium für Wirtschaft und Energie hat
 
@@ -104,8 +96,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (2) Die §§ 1 bis 5 sind ab dem ersten Tag des vierten Monats, der auf den Monat der Bekanntmachung nach Absatz 1 Satz 1 Nummer 2 folgt, anzuwenden; dieser Tag ist vom Bundesministerium für Wirtschaft und Energie unverzüglich im Bundesanzeiger bekanntzumachen.
 
-
-## § 7 – Übergangsregelung
+# § 7 – Übergangsregelung
 
 (1) Solange die §§ 1 bis 5 nicht nach § 6 anzuwenden sind, übermitteln die Auftraggeber dem Bundesministerium für Wirtschaft und Energie für vergebene Aufträge, die der Vergabeverordnung unterliegen, eine jährliche statistische Aufstellung der jeweils im Vorjahr vergebenen Aufträge, und zwar getrennt nach öffentlichen Liefer-, Dienstleistungs- und Bauaufträgen. Für jeden Auftraggeber enthält die statistische Aufstellung mindestens die Zahl und den Wert der vergebenen Aufträge. Die Daten werden, soweit möglich, wie folgt aufgeschlüsselt:
 
@@ -131,48 +122,39 @@ Ausfertigungsdatum: 12.04.2016
 
 (6) Das Bundesministerium für Wirtschaft und Energie setzt jeweils durch Allgemeinverfügung fest, in welcher Form die statistischen Angaben zu übermitteln sind. Die Allgemeinverfügung wird im Bundesanzeiger bekannt gemacht.
 
-
-## Anlage 1 – (zu § 3 Absatz 1 Nummer 1)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber
+# Anlage 1 – (zu § 3 Absatz 1 Nummer 1)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber
 
 (Fundstelle: BGBl. I 2020, 678 - 680)
 
-
-## Anlage 2 – (zu § 3 Absatz 1 Nummer 2)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen öffentlichen Auftraggeber
+# Anlage 2 – (zu § 3 Absatz 1 Nummer 2)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen öffentlichen Auftraggeber
 
 (Fundstelle: BGBl. I 2020, 682 - 685)
 
-
-## Anlage 3 – (zu § 3 Absatz 1 Nummer 3)Öffentlicher Auftrag durch einen Sektorenauftraggeber
+# Anlage 3 – (zu § 3 Absatz 1 Nummer 3)Öffentlicher Auftrag durch einen Sektorenauftraggeber
 
 (Fundstelle: BGBl. I 2020, 686 - 689)
 
-
-## Anlage 4 – (zu § 3 Absatz 1 Nummer 4)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen Sektorenauftraggeber
+# Anlage 4 – (zu § 3 Absatz 1 Nummer 4)Öffentlicher Auftrag über eine soziale oder andere besondere Dienstleistung durch einen Sektorenauftraggeber
 
 (Fundstelle: BGBl. I 2020, 690 - 693)
 
-
-## Anlage 5 – (zu § 3 Absatz 1 Nummer 5)Konzession durch einen Konzessionsgeber
+# Anlage 5 – (zu § 3 Absatz 1 Nummer 5)Konzession durch einen Konzessionsgeber
 
 (Fundstelle: BGBl. I 2020, 694 - 697)
 
-
-## Anlage 6 – (zu § 3 Absatz 1 Nummer 6)Konzession über eine soziale oder andere besondere Dienstleistung durch einen Konzessionsgeber
+# Anlage 6 – (zu § 3 Absatz 1 Nummer 6)Konzession über eine soziale oder andere besondere Dienstleistung durch einen Konzessionsgeber
 
 (Fundstelle: BGBl. I 2020, 698 - 701)
 
-
-## Anlage 7 – (zu § 3 Absatz 1 Nummer 7)Verteidigungs- oder sicherheitsspezifischer öffentlicher Auftrag durch einen öffentlichen Auftraggeber oder einen Sektorenauftraggeber
+# Anlage 7 – (zu § 3 Absatz 1 Nummer 7)Verteidigungs- oder sicherheitsspezifischer öffentlicher Auftrag durch einen öffentlichen Auftraggeber oder einen Sektorenauftraggeber
 
 (Fundstelle: BGBl. I 2020, 702 - 705)
 
-
-## Anlage 8 – (zu § 3 Absatz 2)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber unterhalb des EU-Schwellenwertes
+# Anlage 8 – (zu § 3 Absatz 2)Öffentlicher Auftrag durch einen öffentlichen Auftraggeber unterhalb des EU-Schwellenwertes
 
 (Fundstelle: BGBl. I 2020, 706 - 709)
 
-
-## Anlage 9 – Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8
+# Anlage 9 – Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8
 
 (Fundstelle: BGBl. I 2020, 710)
 

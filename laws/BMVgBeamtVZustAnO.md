@@ -1,15 +1,11 @@
-# [BMVgBeamtVZustAnO] Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Beamtenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung  (BMVg-Beamtenversorgungs-Zuständigkeitsanordnung - BMVgBeamtVZustAnO)
-
-Ausfertigungsdatum: 30.09.2013
-
+% Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Beamtenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung  (BMVg-Beamtenversorgungs-Zuständigkeitsanordnung - BMVgBeamtVZustAnO)
+% Ausfertigungsdatum: 30.09.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach § 49 Absatz 1 Satz 2 des Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 150) ordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen an:
 
-
-## § 1 – Übertragung von Zuständigkeiten
+# § 1 – Übertragung von Zuständigkeiten
 
 (1) Dem Bundesamt für das Personalmanagement der Bundeswehr werden übertragen:
 
@@ -47,22 +43,18 @@ d) die Anordnung einer ärztlichen Untersuchung nach § 35 Absatz 3 Satz 2 des B
 
 e) die Entscheidung über die Versagung der Unfallfürsorge nach § 44 Absatz 2 Satz 1 des Beamtenversorgungsgesetzes.
 
-
-## § 2 – Entscheidung durch das Bundesministerium der Verteidigung
+# § 2 – Entscheidung durch das Bundesministerium der Verteidigung
 
 (1) Die Entscheidung nach § 31 Absatz 5 und § 31a Absatz 3 des Beamtenversorgungsgesetzes und die Entscheidung über die Gewährung von Entschädigungsleistungen nach § 43 des Beamtenversorgungsgesetzes trifft das Bundesministerium der Verteidigung.
 
 (2) Darüber hinaus behält sich das Bundesministerium der Verteidigung vor, in Einzelfällen die nach § 1 übertragenen Aufgaben selbst auszuüben oder unter Zustimmungsvorbehalt zu stellen und Entscheidungen von grundsätzlicher Bedeutung selbst zu treffen.
 
-
-## § 3 – Weitere Zuständigkeiten auf dem Gebiet der Beamtenversorgung
+# § 3 – Weitere Zuständigkeiten auf dem Gebiet der Beamtenversorgung
 
 Die Übertragung der in dieser Anordnung nicht genannten Zuständigkeiten auf dem Gebiet der Beamtenversorgung einschließlich der Zahlung der Versorgungsbezüge richtet sich nach der Beamtenversorgungs-Zuständigkeitsanordnung vom 13. September 2013 (BGBl. I S. 3619).
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt mit Wirkung vom 1. Juli 2013 in Kraft. Gleichzeitig tritt die Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich des Bundesministers der Verteidigung vom 15. März 1977 (BGBl. l S. 469), die durch Nummer 1 der Anordnung vom 19. November 1992 (VMBl 1993, S. 17) geändert worden ist, außer Kraft.

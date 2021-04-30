@@ -1,18 +1,13 @@
-# [NotrufV] Verordnung über Notrufverbindungen  (NotrufV)
-
-Ausfertigungsdatum: 06.03.2009
-
+% Verordnung über Notrufverbindungen  (NotrufV)
+% Ausfertigungsdatum: 06.03.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 108 Abs. 2 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 2 Nr. 23 des Gesetzes vom 18. Februar 2007 (BGBl. I S. 106) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium für Arbeit und Soziales:
 
+# § 1 – (weggefallen)
 
-## § 1 – (weggefallen)
-
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -24,11 +19,9 @@ b) die durch die Notdienstkategoriewerte 6 oder 7 gekennzeichnet ist und
 
 c) zu deren Beginn ein europaeinheitlich standardisierter Datensatz an die Notrufabfragestelle übermittelt wird;
 
-1a.  
-„Einzugsgebiet“ der aus einem oder mehreren Notrufursprungsbereichen bestehende örtliche Zuständigkeitsbereich einer Notrufabfragestelle;
+1a. „Einzugsgebiet“ der aus einem oder mehreren Notrufursprungsbereichen bestehende örtliche Zuständigkeitsbereich einer Notrufabfragestelle;
 
-1b.  
-„Notdienstkategoriewert” ein durch die Zahlen 1 bis 8 angegebener Wert, den mobile Endgeräte im Rahmen des Verbindungsaufbaus zusätzlich an ein Mobilfunknetz übermitteln können, um dadurch dem Netz besondere Arten des Notrufs anzuzeigen;
+1b. „Notdienstkategoriewert” ein durch die Zahlen 1 bis 8 angegebener Wert, den mobile Endgeräte im Rahmen des Verbindungsaufbaus zusätzlich an ein Mobilfunknetz übermitteln können, um dadurch dem Netz besondere Arten des Notrufs anzuzeigen;
 
 2. „Notrufabfragestelle“ die nach Landesrecht zuständige Stelle zur Entgegennahme von Notrufen;
 
@@ -52,8 +45,7 @@ c) einen entsprechenden Auslösemechanismus;
 
 7. „Telefondiensteanbieter“ wer öffentlich zugängliche Telekommunikationsdienste für das Führen von ausgehenden Inlandsgesprächen zu einer oder mehreren Nummern des nationalen Telefonrufnummernplans erbringt.
 
-
-## § 3 – Einzugsgebiete
+# § 3 – Einzugsgebiete
 
 (1) Die nach Landesrecht zuständigen Behörden legen die Notrufabfragestellen mit ihren Einzugsgebieten und Notrufursprungsbereichen sowie die jeweiligen Ersatz-Notrufabfragestellen im Benehmen mit den betroffenen Netzbetreibern fest; dabei sollen die Grenzen der Notrufursprungsbereiche nach Möglichkeit so festgelegt werden, dass einerseits nicht unnötig feine Unterteilungen der gewachsenen Struktur der Teilnehmernetze erforderlich werden, andererseits aber die Standorte der Notrufenden so genau wie möglich den Notrufanschlüssen der örtlich zuständigen Notrufabfragestelle zugeordnet werden. Die Notrufursprungsbereiche sind gemäß den Festlegungen der Technischen Richtlinie nach § 108 Abs. 4 des Telekommunikationsgesetzes zu beschreiben; sie dürfen sich nicht überschneiden und müssen lückenlos aneinander angrenzen. Zur Beteiligung der Netzbetreiber übermitteln die Behörden die Entwürfe für die Festlegung der geplanten Notrufursprungsbereiche an die Bundesnetzagentur. Die Bundesnetzagentur informiert die betroffenen Netzbetreiber, die innerhalb von vier Wochen eine Stellungnahme an die jeweilige zuständige Behörde abgeben können. In Fällen, in denen die geplanten Notrufursprungsbereiche nicht mit den Netzstrukturen übereinstimmen, legt die Behörde die Zuordnung der netzseitig feststellbaren Standorte der von den Notrufenden genutzten Endgeräte zu der jeweils zuständigen Notrufabfragestelle im Benehmen mit den betroffenen Netzbetreibern fest. Abschließend teilt die Behörde der Bundesnetzagentur die festgelegten Notrufursprungsbereiche und den Zeitpunkt mit, zu dem diese Festlegungen wirksam werden.
 
@@ -63,8 +55,7 @@ c) einen entsprechenden Auslösemechanismus;
 
 (4) Bei Änderungen der Festlegungen gelten die Absätze 1 bis 3 entsprechend.
 
-
-## § 4 – Notrufverbindungen
+# § 4 – Notrufverbindungen
 
 (1) Die Forderung aus § 108 Absatz 1 Satz 1 des Telekommunikationsgesetzes nach unentgeltlicher Bereitstellung von Notrufverbindungen schließt ein, dass Notrufe auch ohne Verwendung eines Zahlungsmittels möglich sein müssen; Absatz 8 Nummer 1 bleibt unberührt.
 
@@ -114,8 +105,7 @@ b) bei Angabe der Notdienstkategoriewerte 2 bis 7: Herstellen einer Notrufverbin
 
 Zusätzlich ist im Falle der Angabe des Notdienstkategoriewertes 6 die Information „manuell ausgelöster E-Call“, im Falle der Angabe des Notdienstkategoriewertes 7 die Information „automatisch ausgelöster E-Call“ zeitgleich mit der Herstellung der Notrufverbindung an die jeweilige Notrufabfragestelle zu übermitteln.
 
-
-## § 5 – Anforderungen an Notrufanschlüsse
+# § 5 – Anforderungen an Notrufanschlüsse
 
 Wer Notrufanschlüsse bereitstellt, hat
 
@@ -135,13 +125,11 @@ Wer Notrufanschlüsse bereitstellt, hat
 
 Bei der Umleitung von Notrufverbindungen nach Satz 1 Nummer 5 und 6 sind der Ersatznotrufabfragestelle auch die zugehörigen Daten nach § 4 Absatz 4 Satz 1 und Absatz 8 Nummer 3 Satz 2 oder 4 zu übermitteln.
 
-
-## § 6 – Technische Richtlinie
+# § 6 – Technische Richtlinie
 
 Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und Absatz 2, zu § 4 Absatz 2, 4, 5, 7 und 8 Nummer 3 und 6 sowie zu § 5 Satz 1 Nummer 1, 5 und 6 und Satz 2 legt die Bundesnetzagentur in der Technischen Richtlinie nach § 108 Absatz 4 des Telekommunikationsgesetzes unter Berücksichtigung der dort genannten Vorgaben fest. Darüber hinaus können in der Technischen Richtlinie auch technische Einzelheiten zu den Sachverhalten festgelegt werden, die durch die Übergangsvorschriften des § 7 Absatz 7 und 8 Satz 2 geregelt sind. Die Technische Richtlinie ist bei Bedarf an den jeweiligen Stand der Technik anzupassen.
 
-
-## § 7 – Übergangsvorschriften
+# § 7 – Übergangsvorschriften
 
 (1) Bis zum 30. April 2009 in Betrieb genommene öffentliche Münz- oder Kartentelefone nach § 78 Absatz 2 Nummer 5 des Telekommunikationsgesetzes, die Notrufverbindungen mit nur einer der Notrufnummern 112 oder 110 aufbauen können, dürfen bis zum 31. Dezember 2013 betrieben werden.
 
@@ -159,12 +147,10 @@ Die technischen Einzelheiten zu § 3 Absatz 1 Satz 2 Halbsatz 1 und Absatz 2, zu
 
 (8) Die zur Umsetzung von § 4 Absatz 8 Nummer 6 in den Mobilfunknetzen erforderlichen Einrichtungen sind ab dem 1. Oktober 2014 betriebsfähig bereitzuhalten. Solange die örtlich zuständige Notrufabfragestelle mit Notrufanschlüssen in ISDN-Technik betrieben wird, ist in Fällen von Notrufverbindungen, die mit dem Notrufkategoriewert 6 oder 7 gekennzeichnet sind, abweichend von § 4 Absatz 8 Nummer 6 Satz 2 bei der Übermittlung der Information an die örtlich zuständige Notrufabfragestelle auf die Unterscheidung zwischen Notrufkategoriewert 6 oder 7 zu verzichten.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

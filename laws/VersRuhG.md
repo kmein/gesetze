@@ -1,10 +1,7 @@
-# [VersRuhG] Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen  (Versorgungsruhensgesetz)
-
-Ausfertigungsdatum: 25.07.1991
-
+% Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen  (Versorgungsruhensgesetz)
+% Ausfertigungsdatum: 25.07.1991
  
-
-## § 1
+# § 1
 
 (1) Die Ansprüche auf Leistungen aus Sonder- oder Zusatzversorgungssystemen nach Anlage II Kapitel VIII Sachgebiet H Abschnitt III Nr. 9 Buchstabe b Ziffer 2 und Buchstabe e des Einigungsvertrages sowie die Ansprüche auf Ehrenpensionen und -renten im Sinne des Rentenangleichungsgesetzes vom 28. Juni 1990 (GBl. I Nr. 38 S. 495) in der Fassung der Anlage II Kapitel VIII Sachgebiet F Abschnitt III Nr. 8 des Einigungsvertrages und die Ansprüche auf Leistungen nach dem Fremdrentenrecht können zum Ruhen gebracht werden, wenn gegen den Berechtigten ein Strafverfahren wegen einer als Träger eines Staatsamtes oder Inhaber einer politischen oder gesellschaftlichen Funktion begangenen Straftat gegen das Leben oder einer anderen schwerwiegenden Straftat gegen die körperliche Unversehrtheit oder die persönliche Freiheit betrieben wird und der Berechtigte sich dem Strafverfahren durch Aufenthalt im Ausland entzieht.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 25.07.1991
 
 (3) Das Ruhen kann sich auch auf einen neben einem Anspruch auf eine Leistung nach Absatz 1 bestehenden Anspruch aus der Rentenversicherung und der freiwilligen Zusatzrentenversicherung des Beitrittsgebiets aus Versicherungszeiten zwischen dem 7. Oktober 1949 und dem 30. Juni 1990 beziehen.
 
-
-## § 2
+# § 2
 
 (1) Über das Ruhen entscheidet das Bundesamt für Soziale Sicherung auf Vorschlag der nach § 3 eingesetzten Kommission. Der Vorschlag der Kommission ist mit einer schriftlichen Begründung zu versehen.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 25.07.1991
 
 (4) Im gerichtlichen Verfahren ist die Kommission beizuladen.
 
-
-## § 3
+# § 3
 
 (1) Die Kommission besteht aus drei Mitgliedern, von denen mindestens ein Mitglied die Befähigung zum Richteramt haben muß.
 
@@ -42,8 +37,7 @@ Die Kommission kann bei Bedarf um weitere Mitglieder ergänzt werden und entsche
 
 (5) Die Mitglieder der Kommission erhalten ein von der Bundesregierung festzusetzendes Sitzungsgeld. Verdienstausfall und Auslagen werden ersetzt.
 
-
-## § 4
+# § 4
 
 (1) Die Staatsanwaltschaft teilt der Kommission mit, wenn sich der Berechtigte in den Fällen des § 1 Abs. 1 dem Strafverfahren durch Aufenthalt im Ausland entzieht und ein Ruhen des Anspruchs in Betracht kommt.
 
@@ -55,8 +49,7 @@ Die Kommission kann bei Bedarf um weitere Mitglieder ergänzt werden und entsche
 
 (5) Für die Übermittlung personenbezogener Daten und die Akteneinsicht gelten die für die übermittelnde oder Einsicht gewährende Stelle jeweils maßgebenden Regelungen.
 
-
-## § 5
+# § 5
 
 (1) Für das Verfahren der Kommission gelten die §§ 8 bis 25 des Zehnten Buches Sozialgesetzbuch entsprechend.
 
@@ -64,7 +57,6 @@ Die Kommission kann bei Bedarf um weitere Mitglieder ergänzt werden und entsche
 
 (3) Für die Kommission wird eine Geschäftsstelle beim Bundesamt für Soziale Sicherung eingerichtet.
 
-
-## § 6
+# § 6
 
 Über Streitigkeiten aufgrund dieses Gesetzes entscheiden die Gerichte der Sozialgerichtsbarkeit.

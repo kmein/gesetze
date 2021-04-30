@@ -1,10 +1,7 @@
-# [PsychPbG] Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren  (PsychPbG)
-
-Ausfertigungsdatum: 21.12.2015
-
+% Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren  (PsychPbG)
+% Ausfertigungsdatum: 21.12.2015
  
-
-## § 1 – Regelungsgegenstand
+# § 1 – Regelungsgegenstand
 
 Dieses Gesetz regelt für die psychosoziale Prozessbegleitung nach § 406g der Strafprozessordnung
 
@@ -14,15 +11,13 @@ Dieses Gesetz regelt für die psychosoziale Prozessbegleitung nach § 406g der S
 
 3. die Vergütung des psychosozialen Prozessbegleiters (§§ 5 bis 10).
 
-
-## § 2 – Grundsätze
+# § 2 – Grundsätze
 
 (1) Psychosoziale Prozessbegleitung ist eine besondere Form der nicht rechtlichen Begleitung im Strafverfahren für besonders schutzbedürftige Verletzte vor, während und nach der Hauptverhandlung. Sie umfasst die Informationsvermittlung sowie die qualifizierte Betreuung und Unterstützung im gesamten Strafverfahren mit dem Ziel, die individuelle Belastung der Verletzten zu reduzieren und ihre Sekundärviktimisierung zu vermeiden.
 
 (2) Psychosoziale Prozessbegleitung ist geprägt von Neutralität gegenüber dem Strafverfahren und der Trennung von Beratung und Begleitung. Sie umfasst weder die rechtliche Beratung noch die Aufklärung des Sachverhalts und darf nicht zu einer Beeinflussung des Zeugen oder einer Beeinträchtigung der Zeugenaussage führen. Der Verletzte ist darüber sowie über das fehlende Zeugnisverweigerungsrecht des psychosozialen Prozessbegleiters von diesem zu Beginn der Prozessbegleitung zu informieren.
 
-
-## § 3 – Anforderungen an die Qualifikation
+# § 3 – Anforderungen an die Qualifikation
 
 (1) Psychosoziale Prozessbegleiter müssen fachlich, persönlich und interdisziplinär qualifiziert sein.
 
@@ -40,13 +35,11 @@ Der psychosoziale Prozessbegleiter muss praktische Berufserfahrung in einem der 
 
 (5) Der psychosoziale Prozessbegleiter stellt in eigener Verantwortung seine regelmäßige Fortbildung sicher.
 
-
-## § 4 – Anerkennung und weitere Anforderungen
+# § 4 – Anerkennung und weitere Anforderungen
 
 Die Länder bestimmen, welche Personen und Stellen für die psychosoziale Prozessbegleitung anerkannt werden, welche weiteren Anforderungen hierfür an Berufsausbildung, praktische Berufserfahrung, spezialisierte Weiterbildung und regelmäßige Fortbildungen zu stellen sind.
 
-
-## § 5 – Vergütung
+# § 5 – Vergütung
 
 (1) Die Vergütung des nach § 406g Absatz 3 der Strafprozessordnung beigeordneten psychosozialen Prozessbegleiters richtet sich nach den §§ 6 bis 10.
 
@@ -58,8 +51,7 @@ Die Länder bestimmen, welche Personen und Stellen für die psychosoziale Prozes
 
 2. der Angehörigen oder Mitarbeiter einer nicht öffentlichen Stelle, wenn sie die psychosoziale Prozessbegleitung in Erfüllung ihrer Aufgabe wahrnehmen und die Stelle für die Durchführung der psychosozialen Prozessbegleitung stellenbezogene Förderungen erhält.
 
-
-## § 6 – Höhe der Vergütung
+# § 6 – Höhe der Vergütung
 
 Der beigeordnete psychosoziale Prozessbegleiter erhält für die Wahrnehmung seiner Aufgaben aus der Staatskasse für eine psychosoziale Prozessbegleitung eine Vergütung
 
@@ -71,29 +63,24 @@ Der beigeordnete psychosoziale Prozessbegleiter erhält für die Wahrnehmung sei
 
 Mit der Vergütung nach Satz 1 sind auch Ansprüche auf Ersatz anlässlich der Ausübung der psychosozialen Prozessbegleitung entstandener Aufwendungen und Auslagen sowie Ansprüche auf Ersatz der auf die Vergütung entfallenden Umsatzsteuer abgegolten.
 
-
-## § 7 – Entstehung des Anspruchs
+# § 7 – Entstehung des Anspruchs
 
 Der Anspruch auf Vergütung entsteht für jeden Verfahrensabschnitt nach § 6 Satz 1 gesondert. Das gerichtliche Verfahren beginnt, wenn das für die Hauptverhandlung zuständige Gericht die Eröffnung des Hauptverfahrens nach § 203 der Strafprozessordnung beschließt.
 
-
-## § 8 – Anwendung des Rechtsanwaltsvergütungsgesetzes
+# § 8 – Anwendung des Rechtsanwaltsvergütungsgesetzes
 
 Auf den Umfang und die Fälligkeit des Vergütungsanspruchs sowie auf die Festsetzung der Vergütungen und Vorschüsse einschließlich der Rechtsbehelfe sind § 8 Absatz 1, § 47 Absatz 1 Satz 1, § 48 Absatz 1, die §§ 54, 55 Absatz 1, § 56 Absatz 1 Satz 1 und Absatz 2 des Rechtsanwaltsvergütungsgesetzes entsprechend anzuwenden.
 
-
-## § 9 – Erlöschen des Anspruchs
+# § 9 – Erlöschen des Anspruchs
 
 Der Vergütungsanspruch erlischt, wenn er nicht binnen 15 Monaten nach Einstellung oder rechtskräftigem Abschluss des Verfahrens bei dem für die Festsetzung der Vergütung zuständigen Gericht geltend gemacht wird.
 
-
-## § 10 – Öffnungsklausel; Verordnungsermächtigung
+# § 10 – Öffnungsklausel; Verordnungsermächtigung
 
 (1) Die Landesregierungen können für ihren Bereich durch Rechtsverordnung bestimmen, dass die in diesem Gesetz genannten Bestimmungen über den Vergütungsanspruch des psychosozialen Prozessbegleiters keine Anwendung finden, wenn die Landesregierungen die Vergütung des psychosozialen Prozessbegleiters anderweitig geregelt haben.
 
 (2) Die Landesregierungen können die Ermächtigung nach Absatz 1 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Die Länder können abweichend von den Voraussetzungen des § 3 Absatz 2 Satz 1 Nummer 2 bis zum 31. Juli 2017 bestimmen, dass Personen, die bereits eine von einem Land anerkannte Aus- oder Weiterbildung im Sinne dieses Gesetzes begonnen, aber noch nicht beendet haben, psychosoziale Prozessbegleitung vornehmen können.

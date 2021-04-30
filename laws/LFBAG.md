@@ -1,22 +1,17 @@
-# [LFBAG] Gesetz über das Luftfahrt-Bundesamt
-
-Ausfertigungsdatum: 30.11.1954
-
+% Gesetz über das Luftfahrt-Bundesamt
+% Ausfertigungsdatum: 30.11.1954
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 (1) Als Bundesoberbehörde für Aufgaben der Zivilluftfahrt wird das Luftfahrt-Bundesamt errichtet, das dem Bundesministerium für Verkehr und digitale Infrastruktur untersteht.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt den Sitz des Luftfahrt-Bundesamts.
 
-
-## § 2
+# § 2
 
 (1) Das Luftfahrt-Bundesamt hat insbesondere folgende Aufgaben:
 
@@ -64,14 +59,12 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Das Luftfahrt-Bundesamt kann die Aufgabe der Erteilung von Flugbegleiterbescheinigungen nach Absatz 1 Nummer 13 auf gewerbliche Luftverkehrsbetreiber oder auf zugelassene Ausbildungsorganisationen im Sinne der Verordnung (EU) Nr. 1178/2011 übertragen.
 
-
-## § 3
+# § 3
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur erläßt die für das Luftfahrt-Bundesamt zur Durchführung des Gesetzes erforderlichen allgemeinen Verwaltungsvorschriften.
 
 (2)
 
-
-## § 4
+# § 4
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

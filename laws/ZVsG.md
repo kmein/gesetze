@@ -1,10 +1,7 @@
-# [ZVsG] Gesetz zur Gleichstellung mit Zusatzversorgungssystemen des Beitrittsgebiets  (Zusatzversorgungssystem-Gleichstellungsgesetz - ZVsG)
-
-Ausfertigungsdatum: 24.06.1993
-
+% Gesetz zur Gleichstellung mit Zusatzversorgungssystemen des Beitrittsgebiets  (Zusatzversorgungssystem-Gleichstellungsgesetz - ZVsG)
+% Ausfertigungsdatum: 24.06.1993
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz gilt für Ansprüche und Anwartschaften nach dem Pensionsstatut der Carl-Zeiss-Stiftung Jena vom 3. Dezember 1888 in der Fassung vom 30. Dezember 1977 (Pensionsstatut), zuletzt geändert durch Beschluß der Carl-Zeiss-Stiftung Jena vom 25. Februar 1991.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 24.06.1993
 
 (4) Der Antrag kann nur bis zum 30. Juni 1994 bei dem Versorgungsträger gestellt werden und ist unwiderruflich. Die Wiedereinsetzung in den vorigen Stand ist ausgeschlossen. Der Versorgungsträger teilt der Datenstelle der Rentenversicherung unverzüglich die Antragstellung mit. Er erfüllt gegenüber den Berechtigten die Aufgaben des Leistungsträgers nach § 14 des Ersten Buches Sozialgesetzbuch.
 
-
-## § 2 – Versorgungsträger
+# § 2 – Versorgungsträger
 
 (1) Versorgungsträger im Sinne dieses Gesetzes ist die Ernst-Abbe-Stiftung. Sie unterliegt insoweit der Aufsicht durch das Bundesamt für Soziale Sicherung.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 24.06.1993
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Soziale Sicherung.
 
-
-## § 3 – Gleichstellung
+# § 3 – Gleichstellung
 
 (1) Mit der Gleichstellung erwerben die Berechtigten Ansprüche oder Anwartschaften in der Rentenversicherung wie Berechtigte, die Ansprüche oder Anwartschaften in einem Zusatzversorgungssystem des Beitrittsgebiets erworben haben. Der Berechtigte hat die vom Versorgungsträger gezahlte oder zu zahlende Leistung nach dem Pensionsstatut oder den Betrag zur Verfügung zu stellen, der dem als Entschädigung für den Verlust von Anwartschaften nach dem Pensionsstatut geleisteten Gegenwert (Abfindung) entspricht.
 
@@ -34,8 +29,7 @@ Ausfertigungsdatum: 24.06.1993
 
 (4) Die Abtretung nach Absatz 2 oder eine Verpflichtung zur Zahlung nach Absatz 3 ist zusammen mit dem Antrag auf Gleichstellung schriftlich zu erklären. Sie kann nicht widerrufen werden und ist auch für Hinterbliebene bindend.
 
-
-## § 4 – Rentenberechnung in Fällen ohne Gleichstellung
+# § 4 – Rentenberechnung in Fällen ohne Gleichstellung
 
 (1) Wird ein Antrag auf Gleichstellung nicht gestellt und hatte der Berechtigte oder die Person, von der sich die Berechtigung ableitet, am 31. Dezember 1992 Anspruch auf eine Leistung nach dem Pensionsstatut und auch Zeiten in einem Zusatz- oder Sonderversorgungssystem zurückgelegt oder Beiträge zur Freiwilligen Zusatzrentenversicherung gezahlt, ist eine neue Rentenberechnung vorzunehmen. Die Rentenneuberechnung erfolgt für Zeiten nach Ablauf des Kalendermonats, der dem Monat folgt, in dem der Bescheid über die neu berechnete Rente bekannt gegeben wird. § 307c des Sechsten Buches Sozialgesetzbuch ist anzuwenden. Vom Ablauf des Kalendermonats an, der dem Monat folgt, in dem der Versorgungsträger der Datenstelle der Rentenversicherung die Meldung nach § 7 Abs. 1 Satz 3 erstattet hat, bis zum Beginn der neu berechneten Rente wird ein Erhöhungsbetrag, der sich aus Rentenanpassungen nach den Vorschriften des Sechsten Buches Sozialgesetzbuch ergibt, an den Berechtigten nicht ausgezahlt. Unterschreitet der Monatsbetrag der neu berechneten Rente den Monatsbetrag der bisherigen Rente, wird dieser solange weitergezahlt, bis die neu berechnete Rente den weiterzuzahlenden Betrag erreicht.
 
@@ -43,13 +37,11 @@ Ausfertigungsdatum: 24.06.1993
 
 (3) Der Berechnung oder der Neuberechnung der Rente eines Berechtigten, der einen Antrag auf Gleichstellung nicht gestellt hat, ist für Zeiten vom 1. März 1971 an nur der in der Sozialpflichtversicherung des Beitrittsgebiets versicherte Verdienst zugrunde zu legen.
 
-
-## § 5 – Geltung von Regelungen
+# § 5 – Geltung von Regelungen
 
 Auf die nach diesem Gesetz gleichgestellten Ansprüche und Anwartschaften sind die Vorschriften des Gesetzes zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets (Anspruchs- und Anwartschaftsüberführungsgesetz) anzuwenden, soweit sich aus den nachfolgenden Vorschriften nicht etwas anderes ergibt. Die Vorschriften des Ersten Abschnitts des Dritten Kapitels des Sechsten Buches Sozialgesetzbuch sind anzuwenden; § 8 Abs. 6 Satz 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes ist entsprechend anzuwenden.
 
-
-## § 6 – Zeitpunkt und Art der Gleichstellung
+# § 6 – Zeitpunkt und Art der Gleichstellung
 
 (1) Die Gleichstellung der Ansprüche und Anwartschaften nach dem Pensionsstatut erfolgt mit Wirkung vom 31. Dezember 1992. Eine Abfindung von Anwartschaften steht der Gleichstellung nicht entgegen, wenn der Betrag nach § 3 Abs. 3 gezahlt wird. Die Sätze 1 und 2 gelten auch für Anwartschaften, die vor Schließung des Pensionsstatuts verfallen oder abgefunden worden sind.
 
@@ -69,8 +61,7 @@ Auf die nach diesem Gesetz gleichgestellten Ansprüche und Anwartschaften sind d
 
 (5) Unterschreitet der Monatsbetrag der neu berechneten Rente den jeweiligen Monatsbetrag nach Absatz 4 Satz 2, werden überzahlte Beträge nicht zurückgefordert. Ein Erhöhungsbetrag, der sich aus Rentenanpassungen ergibt, wird solange nicht ausgezahlt, bis die neu berechnete Rente den nach Satz 1 jeweils maßgebenden Monatsbetrag erreicht.
 
-
-## § 7 – Verfahren zur Datenmitteilung
+# § 7 – Verfahren zur Datenmitteilung
 
 (1) Der Versorgungsträger nimmt die Aufgaben nach § 1 Abs. 4 sowie nach § 8 Abs. 1 bis 3, 7 und 8 des Anspruchs- und Anwartschaftsüberführungsgesetzes aufgrund öffentlich-rechtlicher Verpflichtung wahr. Dies gilt für die Mitteilung nach § 8 Abs. 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes mit der Maßgabe, daß die Daten dem zuständigen Rentenversicherungsträger zu übermitteln sind. Der Versorgungsträger teilt der Datenstelle der Rentenversicherung spätestens bis zum 30. September 1994 die für die Gleichstellung nach § 3 Abs. 2, die Neuberechnung nach § 6 Abs. 4 oder die Rentenberechnung nach § 4 erforderlichen Daten mit. Er teilt gleichzeitig auch die Höhe der zum 1. März 1991 zustehenden Leistungen nach dem Pensionsstatut mit. Der Versorgungsträger teilt spätestens bis zum 30. Juni 1995 die für die Gleichstellung nach § 3 Abs. 3 erforderlichen Daten einer Zahlung oder einer Teilzahlung und den Zeitpunkt ihrer Beendigung mit; er teilt die übrigen Daten spätestens bis zum 30. Juni 1996 mit. § 8 Abs. 1 Satz 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes gilt. Der Versorgungsträger teilt dem Bundesamt für Soziale Sicherung unverzüglich die Höhe des Abtretungsbetrags nach § 3 Abs. 2, den Zeitpunkt der Wirksamkeit der Abtretung, die Höhe der nach § 6 Abs. 3 zustehenden Leistung sowie die Höhe des Abfindungsbetrags nach § 3 Abs. 3 und dessen Zahlung oder Teilzahlung mit.
 
@@ -78,8 +69,7 @@ Auf die nach diesem Gesetz gleichgestellten Ansprüche und Anwartschaften sind d
 
 (3) Der zuständige Rentenversicherungsträger teilt dem Versorgungsträger den Beginn des Kalendermonats mit, in dem die laufende Zahlung der neu berechneten Rente aufgenommen wird.
 
-
-## § 8 – Abrechnung der Aufwendungen
+# § 8 – Abrechnung der Aufwendungen
 
 (1) Aufwendung zu Lasten der Deutschen Rentenversicherung Bund im Sinne des § 15 Abs. 1 des Anspruchs- und Anwartschaftsüberführungsgesetzes ist der aus persönlichen Entgeltpunkten für Zeiten der Zugehörigkeit zum Pensionsstatut errechnete Monatsteilbetrag der Rente, der aufgrund der Gleichstellung der Ansprüche oder Anwartschaften zu zahlen ist.
 

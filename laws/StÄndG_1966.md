@@ -1,20 +1,15 @@
-# [StÄndG 1966] Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung  (Steueränderungsgesetz 1966)
-
-Ausfertigungsdatum: 23.12.1966
-
+% Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung  (Steueränderungsgesetz 1966)
+% Ausfertigungsdatum: 23.12.1966
  
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Bedingte Steuerschulden für Mineralöle erhöhen sich mit dem Inkrafttreten dieses Gesetzes auf den Betrag, der sich bei Anwendung der Steuersätze nach § 1 ergibt.
 
-
-## § 3
+# § 3
 
 (1) Mineralöle, für die beim Inkrafttreten dieses Gesetzes eine unbedingte Steuerschuld besteht oder Mineralölsteuer bereits entrichtet worden ist, unterliegen einer Nachsteuer. Sie beträgt  
 
@@ -30,7 +25,6 @@ Bedingte Steuerschulden für Mineralöle erhöhen sich mit dem Inkrafttreten die
 
 (4) Der Steuerschuldner hat das Mineralöl binnen zwei Wochen nach dem Inkrafttreten dieses Gesetzes oder nach dem Empfang schriftlich der zuständigen Zollstelle anzumelden. Die Steuer ist ohne Anforderung zwei Wochen nach der Anmeldung, für nicht ordnungsgemäß angemeldetes Mineralöl mit dem Ablauf der Anmeldefrist fällig.
 
-
-## § 4
+# § 4
 
 \-

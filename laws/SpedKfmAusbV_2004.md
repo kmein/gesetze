@@ -1,30 +1,23 @@
-# [SpedKfmAusbV 2004] Verordnung über die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung
-
-Ausfertigungsdatum: 26.07.2004
-
+% Verordnung über die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung
+% Ausfertigungsdatum: 26.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Kaufmann für Spedition und Logistikdienstleistung/Kauffrau für Spedition und Logistikdienstleistung wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -97,23 +90,19 @@ Kosten- und Leistungsrechnung, Controlling,
 9.3  
 Qualitätsmanagement.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -127,8 +116,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -172,18 +160,15 @@ Dem Prüfling ist eine Vorbereitungszeit von höchstens 20 Minuten einzuräumen.
 
 (5) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis sowie in mindestens drei Prüfungsbereichen, darunter dem Prüfungsbereich Leistungserstellung in Spedition und Logistik, ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage 1 – (zu § 5)
+# Anlage 1 – (zu § 5)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 1905 - 1910
 
@@ -843,8 +828,7 @@ c)
 
 den Zusammenhang zwischen Qualität und Kundenzufriedenheit erklären und die Auswirkung auf das Betriebsergebnis darstellen
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 1911 - 1913)
 
@@ -867,8 +851,7 @@ Sicherheit und Gesundheitsschutz bei der Arbeit,
 1.5  
 Umweltschutz
 
-zu vermitteln.  
-(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
 4. Prozessorientierte Leistungserstellung in Spedition und Logistik, Lernziele a, f, g und m,
@@ -892,8 +875,7 @@ Datenschutz und Datensicherheit,
 
 3. Anwenden der englischen Sprache bei Fachaufgaben, Lernziele a und b,
 
-zu vermitteln.  
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
 5.1  
@@ -946,8 +928,7 @@ Güterversendung und Transport, Lernzeile a bis d,
 5.3  
 Sammelgut- und Systemverkehre
 
-zu vertiefen.  
-(2) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vertiefen. (2) In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
 5.2  
@@ -976,8 +957,7 @@ Stellung, Rechtsform und Struktur, Lernziel e,
 2.1  
 Arbeitsorganisation
 
-zu vertiefen.  
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vertiefen. (3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
 5.5  
@@ -1038,8 +1018,7 @@ Sammelgut- und Systemverkehre,
 9.3  
 Qualitätsmanagement
 
-fortzuführen.  
-(2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+fortzuführen. (2) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
 2.3  
@@ -1070,8 +1049,7 @@ Datenschutz und Datensicherheit,
 9.3  
 Qualitätsmanagement
 
-fortzuführen.  
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse einer der Berufsbildpositionen
+fortzuführen. (3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse einer der Berufsbildpositionen
 
   
 5.1  

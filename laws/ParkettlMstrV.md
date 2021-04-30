@@ -1,20 +1,15 @@
-# [ParkettlMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Parkettleger-Handwerk  (Parkettlegermeisterverordnung - ParkettlMstrV)
-
-Ausfertigungsdatum: 25.05.2020
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Parkettleger-Handwerk  (Parkettlegermeisterverordnung - ParkettlMstrV)
+% Ausfertigungsdatum: 25.05.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die in der Prüfung in den Teilen I und II der Meisterprüfung im Parkettleger-Handwerk zu stellenden Anforderungen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 In den Teilen I und II der Meisterprüfung im Parkettleger-Handwerk hat der Prüfling den Teil seiner beruflichen Handlungskompetenz nachzuweisen, der sich auf wesentliche Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse bezieht. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
@@ -112,8 +107,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 12. Kunden im Hinblick auf Raumklima, Nutzung, Reinigung und Pflege beraten.
 
-
-## § 3 – Ziel und Gliederung der Prüfung in Teil I
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er wesentliche Tätigkeiten des Parkettleger-Handwerks meisterhaft verrichtet.
 
@@ -123,8 +117,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 2. eine Situationsaufgabe nach § 6.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
@@ -144,8 +137,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 3. die Kontroll- und die Dokumentationsarbeiten anhand der Dokumentationsunterlagen bestehend aus Dokumentation und Nachkalkulation, mit 10 Prozent.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -159,8 +151,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe orientiert sich an einem Kundenauftrag und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Parkettleger-Handwerk.
 
@@ -168,8 +159,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 (3) Für die Bearbeitung der Situationsaufgabe stehen dem Prüfling acht Stunden zur Verfügung.
 
-
-## § 7 – Gewichtung; Bestehen der Prüfung in Teil I
+# § 7 – Gewichtung; Bestehen der Prüfung in Teil I
 
 (1) Das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe werden gesondert bewertet. Für das Gesamtergebnis der Prüfung in Teil I der Meisterprüfung werden zunächst die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 gewichtet. Anschließend wird das hieraus folgende Ergebnis mit der Bewertung der Situationsaufgabe im Verhältnis 2:1 gewichtet.
 
@@ -179,8 +169,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-
-## § 8 – Ziel und Gliederung der Prüfung in Teil II
+# § 8 – Ziel und Gliederung der Prüfung in Teil II
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Parkettleger-Handwerk anwendet. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
@@ -196,8 +185,7 @@ j) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 (4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld drei Stunden zur Verfügung. Eine Prüfungsdauer von sechs Stunden an einem Tag darf nicht überschritten werden.
 
-
-## § 9 – Handlungsfeld „Anforderungen von Kunden eines Parkettleger-Betriebs analysieren, Lösungen erarbeiten und anbieten“
+# § 9 – Handlungsfeld „Anforderungen von Kunden eines Parkettleger-Betriebs analysieren, Lösungen erarbeiten und anbieten“
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines Parkettleger-Betriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Parkettleger-Betrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er wirtschaftliche, ökologische, ressourceneffiziente, bauphysikalische, gestalterische, gesundheitsbezogene und nachhaltigkeitsbezogene Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
@@ -243,8 +231,7 @@ d) Angebotsunterlagen einschließlich der aufgrund von Rechtsvorschriften verpfl
 
 e) Angebotspositionen und Vertragsbedingungen gegenüber Kunden erläutern und begründen sowie Leistungen vereinbaren.
 
-
-## § 10 – Handlungsfeld „Leistungen eines Parkettleger-Betriebs erstellen, kontrollieren und übergeben“
+# § 10 – Handlungsfeld „Leistungen eines Parkettleger-Betriebs erstellen, kontrollieren und übergeben“
 
 (1) Im Handlungsfeld „Leistungen eines Parkettleger-Betriebs erstellen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Leistungen eines Parkettleger-Betriebs erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu erstellen, zu kontrollieren und zu übergeben. Dabei hat er wirtschaftliche, ökologische, ressourceneffiziente und gestalterische Gesichtspunkte sowie die allgemein anerkannten Regeln der Technik zu berücksichtigen. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
@@ -314,8 +301,7 @@ f) Möglichkeiten der Herstellung von Kundenzufriedenheit und der Kundenbindung 
 
 g) Serviceleistungen anbieten, erläutern und bewerten.
 
-
-## § 11 – Handlungsfeld „Einen Parkettleger-Betrieb führen und organisieren“
+# § 11 – Handlungsfeld „Einen Parkettleger-Betrieb führen und organisieren“
 
 (1) Im Handlungsfeld „Einen Parkettleger-Betrieb führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und der Betriebsorganisation in einem Parkettleger-Betrieb unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
@@ -381,8 +367,7 @@ e) Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage
 
 f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung logistischer Gesichtspunkte planen.
 
-
-## § 12 – Gewichtung; Bestehen der Prüfung in Teil II
+# § 12 – Gewichtung; Bestehen der Prüfung in Teil II
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung ist das arithmetische Mittel der Bewertungen der Handlungsfelder nach den §§ 9 bis 11 zu bilden.
 
@@ -396,21 +381,18 @@ f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung
 
 3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-
-## § 13 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 13 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 14 – Übergangsvorschrift
+# § 14 – Übergangsvorschrift
 
 (1) Die bis zum Ablauf des 30. Juni 2020 begonnenen Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2020, so sind auf Verlangen des Prüflings die bis zum Ablauf des 30. Juni 2020 geltenden Vorschriften weiter anzuwenden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 30. Juni 2020 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 30. Juni 2022 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 30. Juni 2020 geltenden Vorschriften ablegen.
 
-
-## § 15 – Inkrafttreten, Außerkrafttreten
+# § 15 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2020 in Kraft. Gleichzeitig tritt die Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen Teil und im fachtheoretischen Teil der Meisterprüfung für das Parkettleger-Handwerk vom 28. August 1974 (BGBl. I S. 2154), die durch Artikel 1 der Verordnung vom 28. Februar 2020 (BGBl. I S. 246) geändert worden ist, außer Kraft.

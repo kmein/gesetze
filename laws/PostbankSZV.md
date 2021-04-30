@@ -1,15 +1,11 @@
-# [PostbankSZV] Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Postbank AG beschäftigten Beamtinnen und Beamten  (Postbanksonderzahlungsverordnung - PostbankSZV)
-
-Ausfertigungsdatum: 15.08.2007
-
+% Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Postbank AG beschäftigten Beamtinnen und Beamten  (Postbanksonderzahlungsverordnung - PostbankSZV)
+% Ausfertigungsdatum: 15.08.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 14. September 2005 (BGBl. I S. 2746) geändert worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung des Vorstands der Deutschen Postbank AG im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1 – Monatliche Sonderzahlungen für die Jahre 2005 bis 2007
+# § 1 – Monatliche Sonderzahlungen für die Jahre 2005 bis 2007
 
 (1) Die bei der Deutschen Postbank AG beschäftigten Beamtinnen und Beamten mit Dienstbezügen erhalten für die Zeit von Januar 2005 bis Dezember 2007 eine monatliche Sonderzahlung.
 
@@ -19,7 +15,6 @@ Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14. September 1994
 
 (4) Die monatliche Sonderzahlung wird mit den laufenden Bezügen ausgezahlt. Für die Zeit von Januar 2005 bis zum Monat der Verkündung dieser Verordnung wird die monatliche Sonderzahlung am ersten Tag des übernächsten auf die Verkündung folgenden Monats fällig.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.

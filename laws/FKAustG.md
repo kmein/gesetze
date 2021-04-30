@@ -1,13 +1,9 @@
-# [FKAustG] Gesetz zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen  (Finanzkonten-Informationsaustauschgesetz - FKAustG)
-
-Ausfertigungsdatum: 21.12.2015
-
+% Gesetz zum automatischen Austausch von Informationen über Finanzkonten in Steuersachen  (Finanzkonten-Informationsaustauschgesetz - FKAustG)
+% Ausfertigungsdatum: 21.12.2015
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für den automatischen Austausch von Informationen über Finanzkonten in Steuersachen mit
 
@@ -21,8 +17,7 @@ Ausfertigungsdatum: 21.12.2015
 
 (2) Für die Durchführung der Melde- und Sorgfaltspflichten gelten die in § 19 angeführten Begriffsbestimmungen und die sonstigen Begriffsbestimmungen nach § 20.
 
-
-## § 2 – Gemeinsamer Meldestandard
+# § 2 – Gemeinsamer Meldestandard
 
 Gemäß den geltenden Melde- und Sorgfaltspflichten und ergänzenden Melde- und Sorgfaltsvorschriften tauscht das Bundeszentralamt für Steuern innerhalb der festgelegten Frist nach § 5 Absatz 2 in Verbindung mit § 27 mit der zuständigen Behörde jedes anderen meldepflichtigen Staates die ihm hierzu von den Finanzinstituten nach diesem Gesetz übermittelten Daten aus; diese sind:
 
@@ -44,8 +39,7 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Finanzve
 
 7. bei allen anderen Konten, die nicht Verwahrkonten oder Einlagekonten sind, der Gesamtbruttobetrag, der in Bezug auf das Konto während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber gezahlt oder ihm gutgeschrieben wurde und für den das meldende Finanzinstitut Schuldner ist, einschließlich der Gesamthöhe aller Einlösungsbeträge, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber geleistet wurden.
 
-
-## § 3 – Pflichten der Finanzinstitute
+# § 3 – Pflichten der Finanzinstitute
 
 (1) Die durch dieses Gesetz verpflichteten Finanzinstitute haben bei der Beschaffung und der Weiterleitung der Informationen im Sinne von § 8 die in diesem Gesetz bestimmten Melde- und Sorgfaltspflichten und ergänzenden Melde- und Sorgfaltsvorschriften einzuhalten.
 
@@ -57,13 +51,11 @@ b) die Gesamtbruttoerlöse aus der Veräußerung oder dem Rückkauf von Finanzve
 
 2. in dem das Konto aufgelöst wird, soweit die Unterlagen nach Satz 1 für die weitere Erfüllung der Pflichten nach Absatz 1 benötigt werden.
 
-
-## § 4 – Zuständige Behörde
+# § 4 – Zuständige Behörde
 
 Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Finanzen, soweit nicht die Zuständigkeit des Bundeszentralamts für Steuern nach § 5 Absatz 1 Nummer 5b des Finanzverwaltungsgesetzes gegeben ist.
 
-
-## § 5 – Aufgaben des Bundeszentralamts für Steuern
+# § 5 – Aufgaben des Bundeszentralamts für Steuern
 
 (1) Dem Bundeszentralamt für Steuern sind als zuständiger Behörde im Sinne des § 4 von den meldenden Finanzinstituten die Daten nach § 8 nach amtlich vorgeschriebenem Datensatz elektronisch im Wege der Datenfernübertragung erstmals zum 31. Juli 2017 zu übermitteln. Das Bundesministerium der Finanzen gibt den amtlich vorgeschriebenen Datensatz im Bundessteuerblatt bekannt.
 
@@ -81,8 +73,7 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 (8) Bei der Übermittlung von Informationen durch das Bundeszentralamt für Steuern an die zuständigen Behörden der Vertragsstaaten der in § 1 Absatz 1 Nummer 2 genannten Vereinbarung vom 29. Oktober 2014 findet keine Anhörung der Beteiligten nach § 117 Absatz 4 Satz 3 der Abgabenordnung statt.
 
-
-## § 6 – Ansässigkeit; Zeitpunkt der Erstanwendung
+# § 6 – Ansässigkeit; Zeitpunkt der Erstanwendung
 
 (1) Finanzinstitute haben zur Wahrung der Melde- und Sorgfaltspflichten nach diesem Gesetz zu den von ihnen geführten Konten die steuerliche Ansässigkeit des Konteninhabers zu erheben und seinem Konto zuzuordnen, unabhängig davon, ob es sich bei dem Kontoinhaber oder dem sonstigen Kunden um eine meldepflichtige Person im Sinne der Melde- und Sorgfaltspflichten nach diesem Gesetz handelt. Bei der Erhebung der steuerlichen Ansässigkeit nach Satz 1 gelten die von den Finanzinstituten geführten Konten insoweit als Konten, für die die Melde- und Sorgfaltspflichten nach diesem Gesetz einzuhalten sind; dies schließt auch die Erhebung der Steueridentifikationsnummer ein.
 
@@ -90,13 +81,11 @@ Zuständige Behörde im Sinne dieses Gesetzes ist das Bundesministerium der Fina
 
 (3) Meldende Finanzinstitute haben die nach diesem Gesetz zu erhebenden Daten erstmals für das Steuerjahr 2016 bis zum 31. Juli 2017 dem Bundeszentralamt für Steuern und in den Folgejahren jeweils bis zum 31. Juli eines Folgejahres zu übermitteln.
 
-
-## § 7 – Melde- und Sorgfaltspflichten für Informationen über Finanzkonten
+# § 7 – Melde- und Sorgfaltspflichten für Informationen über Finanzkonten
 
 Die §§ 8 bis 26 legen die allgemeinen Melde- und Sorgfaltspflichten, die besonderen Sorgfaltsvorschriften und ergänzenden Melde- und Sorgfaltsvorschriften fest, die von meldenden Finanzinstituten zu beachten sind, damit das Bundeszentralamt für Steuern die Daten im Sinne des § 2 im Wege des automatischen Informationsaustauschs an die jeweils zuständige Behörde des anderen Staates im Sinne des § 1 Absatz 1 übermitteln kann.
 
-
-## § 8 – Allgemeine Meldepflichten
+# § 8 – Allgemeine Meldepflichten
 
 (1) Vorbehaltlich der Absätze 2, 3 und 4 muss jedes meldende Finanzinstitut für jedes meldepflichtige Konto dieses meldenden Finanzinstituts dem Bundeszentralamt für Steuern folgende von ihnen nach diesem Gesetz erhobene Informationen gemäß § 5 Absatz 1 melden:
 
@@ -132,8 +121,7 @@ Zu den nach Satz 1 Nummer 4 bis 7 gemeldeten Daten muss die Währung genannt wer
 
 (5) Bei der Meldung der Daten gemäß Absatz 1 sind geeignete Schutzmaßnahmen gegen unbefugten Zugang, unbefugte Veränderung und unbefugte Bekanntgabe nach Stand der Technik von den Finanzinstituten zu gewährleisten.
 
-
-## § 9 – Allgemeine Sorgfaltspflichten
+# § 9 – Allgemeine Sorgfaltspflichten
 
 (1) Ein Konto gilt ab dem Tag als meldepflichtiges Konto, an dem es nach den Verfahren zur Erfüllung der Sorgfaltspflichten gemäß den §§ 9 bis 18 als solches identifiziert wird. Sofern nichts anderes vorgesehen ist, müssen die Daten in Bezug auf ein meldepflichtiges Konto jährlich in dem Kalenderjahr gemeldet werden, das dem Jahr folgt, auf das sich die Daten beziehen.
 
@@ -145,15 +133,13 @@ Zu den nach Satz 1 Nummer 4 bis 7 gemeldeten Daten muss die Währung genannt wer
 
 (5) Meldende Finanzinstitute können die für Neukonten geltenden Verfahren zur Erfüllung der Sorgfaltspflichten auf bestehende Konten anwenden und die für Konten von hohem Wert geltenden Verfahren zur Erfüllung der Sorgfaltspflichten auf Konten von geringerem Wert anwenden. Wendet ein meldendes Finanzinstitut die für Neukonten geltenden Verfahren zur Erfüllung der Sorgfaltspflichten auf bestehende Konten an, finden die ansonsten geltenden Vorschriften für bestehende Konten weiterhin Anwendung.
 
-
-## § 10 – Sorgfaltspflichten bei bestehenden Konten natürlicher Personen
+# § 10 – Sorgfaltspflichten bei bestehenden Konten natürlicher Personen
 
 (1) Die Identifizierung meldepflichtiger Konten unter den bestehenden Konten natürlicher Personen richtet sich nach den §§ 11 und 12.
 
 (2) Ein bestehendes Konto natürlicher Personen, das nach den §§ 11 und 12 als meldepflichtiges Konto identifiziert wurde, gilt in allen Folgejahren als meldepflichtiges Konto, es sei denn, der Kontoinhaber ist keine meldepflichtige Person mehr.
 
-
-## § 11 – Konten von geringerem Wert
+# § 11 – Konten von geringerem Wert
 
 (1) Für Konten von geringerem Wert gilt:
 
@@ -193,8 +179,7 @@ b) Belege für den nicht meldepflichtigen Status des Kontoinhabers.
 
 (4) Die Überprüfung von bestehenden Konten von geringerem Wert natürlicher Personen muss bis zum 31. Dezember 2017 abgeschlossen sein.
 
-
-## § 12 – Konten von hohem Wert
+# § 12 – Konten von hohem Wert
 
 (1) Für Konten von hohem Wert gelten die folgenden erweiterten Überprüfungsverfahren:
 
@@ -244,8 +229,7 @@ Zusätzlich zur Suche in elektronischen Datensätzen und Papierunterlagen, wie i
 
 (9) Die Überprüfung bestehender Konten von hohem Wert natürlicher Personen muss bis zum 31. Dezember 2016 abgeschlossen sein.
 
-
-## § 13 – Sorgfaltspflichten bei Neukonten natürlicher Personen
+# § 13 – Sorgfaltspflichten bei Neukonten natürlicher Personen
 
 (1) Die Identifizierung meldepflichtiger Konten unter den Neukonten natürlicher Personen richtet sich nach den folgenden Absätzen.
 
@@ -255,8 +239,7 @@ Zusätzlich zur Suche in elektronischen Datensätzen und Papierunterlagen, wie i
 
 (4) Tritt bei einem Neukonto natürlicher Personen eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die ursprüngliche Selbstauskunft nicht zutreffend oder unglaubwürdig ist, so darf es sich nicht auf die ursprüngliche Selbstauskunft verlassen und muss eine gültige Selbstauskunft beschaffen, aus der die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des Kontoinhabers hervorgeht oder hervorgehen.
 
-
-## § 14 – Sorgfaltspflichten bei bestehenden Konten von Rechtsträgern
+# § 14 – Sorgfaltspflichten bei bestehenden Konten von Rechtsträgern
 
 (1) Die Identifizierung meldepflichtiger Konten unter den bestehenden Konten von Rechtsträgern richtet sich nach den folgenden Absätzen.
 
@@ -291,8 +274,7 @@ bei einem bestehenden Konto von Rechtsträgern, dessen Inhaber ein NFE oder mehr
 bb)  
 auf eine Selbstauskunft des Kontoinhabers oder dieser beherrschenden Person aus dem meldepflichtigen Staat oder den meldepflichtigen Staaten im Sinne des § 1 Absatz 1 oder anderen Staat oder Staaten, in dem oder in denen die beherrschende Person steuerlich ansässig ist.
 
-
-## § 15 – Überprüfungszeitraum und zusätzliche Verfahren für bestehende Konten von Rechtsträgern
+# § 15 – Überprüfungszeitraum und zusätzliche Verfahren für bestehende Konten von Rechtsträgern
 
 (1) Die Überprüfung bestehender Konten von Rechtsträgern mit einem Gesamtkontosaldo oder Gesamtkontowert von mehr als 250 000 US-Dollar zum 31. Dezember 2015 muss bis zum 31. Dezember 2017 abgeschlossen sein.
 
@@ -300,8 +282,7 @@ auf eine Selbstauskunft des Kontoinhabers oder dieser beherrschenden Person aus 
 
 (3) Tritt bei einem bestehenden Konto von Rechtsträgern eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder andere kontobezogene Unterlagen nicht zutreffend oder unglaubwürdig sind, so muss es den Status des Kontos nach dem in § 14 Absatz 5 festgelegten Verfahren neu bestimmen.
 
-
-## § 16 – Sorgfaltspflichten bei Neukonten von Rechtsträgern
+# § 16 – Sorgfaltspflichten bei Neukonten von Rechtsträgern
 
 (1) Die Identifizierung meldepflichtiger Konten unter den Neukonten von Rechtsträgern richtet sich nach den folgenden Absätzen.
 
@@ -321,8 +302,7 @@ Zur Feststellung, ob der Rechtsträger ein passiver NFE mit einer oder mehreren 
 
 (4) Zur Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist, kann sich ein meldendes Finanzinstitut auf eine Selbstauskunft des Kontoinhabers oder dieser beherrschenden Person verlassen.
 
-
-## § 17 – Besondere Sorgfaltsvorschriften
+# § 17 – Besondere Sorgfaltsvorschriften
 
 (1) Ein meldendes Finanzinstitut darf sich nicht auf eine Selbstauskunft oder auf Belege verlassen, wenn ihm bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder die Belege nicht zutreffend oder unglaubwürdig sind.
 
@@ -346,8 +326,7 @@ c) der an einen Arbeitnehmer oder einen Versicherungsscheininhaber oder Begünst
 
 (4) Der Ausdruck Gruppenrentenversicherungsvertrag bezeichnet einen Rentenversicherungsvertrag, bei dem die Anspruchsberechtigten natürliche Personen sind, die über einen Arbeitgeber, einen Berufsverband, eine Arbeitnehmerorganisation oder eine andere Vereinigung oder Gruppe angeschlossen sind.
 
-
-## § 18 – Zusammenfassung von Kontosalden und Währungen
+# § 18 – Zusammenfassung von Kontosalden und Währungen
 
 (1) Für Zwecke der Bestimmung des Gesamtsaldos oder des Gesamtwerts von Finanzkonten einer natürlichen Person muss ein meldendes Finanzinstitut alle von ihm oder einem verbundenen Rechtsträger geführten Finanzkonten zusammenfassen, jedoch nur insoweit, als die computergestützten Systeme des meldenden Finanzinstituts die Finanzkonten durch Verweis auf ein Datenelement wie eine Kundennummer oder Steueridentifikationsnummer miteinander verknüpfen und eine Zusammenfassung der Kontosalden oder Kontowerte ermöglichen. Für die Zwecke der Anwendung der beschriebenen Zusammenfassungsvorschriften wird jedem Inhaber eines gemeinsamen Finanzkontos der gesamte Saldo oder Wert des gemeinsamen Finanzkontos zugerechnet.
 
@@ -357,8 +336,7 @@ c) der an einen Arbeitnehmer oder einen Versicherungsscheininhaber oder Begünst
 
 (4) Alle auf Euro lautenden Beträge umfassen den Gegenwert in anderen Währungen nach innerstaatlichem Recht.
 
-
-## § 19 – Begriffsbestimmungen
+# § 19 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -751,8 +729,7 @@ nach dem geltenden Recht des Ansässigkeitsstaats oder den Gründungsunterlagen 
 
 43. Informationsaustausch im Sinne dieses Gesetzes ist die systematische Übermittlung zuvor festgelegter Informationen über in anderen meldepflichtigen Staaten ansässige Personen an den entsprechenden Ansässigkeitsstaat ohne dessen vorheriges Ersuchen in regelmäßigen, im Voraus bestimmten Abständen.
 
-
-## § 20 – Sonstige Begriffsbestimmungen
+# § 20 – Sonstige Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -784,20 +761,17 @@ d) ein geprüfter Jahresabschluss, eine Kreditauskunft eines Dritten, ein Insolv
 
 Bei bestehenden Konten von Rechtsträgern kann ein meldendes Finanzinstitut als Beleg jede Einstufung in seinen Unterlagen in Bezug auf den Kontoinhaber verwenden, die auf der Grundlage eines standardisierten Branchenkodierungssystems ermittelt wurde, welches das meldende Finanzinstitut im Einklang mit seiner üblichen Geschäftspraxis für die Zwecke von Verfahren zur Bekämpfung der Geldwäsche und Kundensorgfaltspflichten (AML/KYC – Anti-Money Laundering/Know-your-Customer) oder zu anderen gesetzlichen Zwecken (außer zu Steuerzwecken) dokumentiert und vor dem Datum eingeführt hat, an dem das Finanzkonto als bestehendes Konto eingestuft wurde, sofern dem meldenden Finanzinstitut nicht bekannt ist oder nicht bekannt sein müsste, dass diese Einstufung nicht zutreffend oder unglaubwürdig ist. Der Ausdruck standardisiertes Branchenkodierungssystem bedeutet ein Kodierungssystem, das zur Einstufung von Einrichtungen nach Art der Geschäftstätigkeit zu anderen Zwecken als zu Steuerzwecken verwendet wird.
 
-
-## § 21 – Änderung der Gegebenheiten
+# § 21 – Änderung der Gegebenheiten
 
 (1) Eine Änderung der Gegebenheiten umfasst jede Änderung, die die Aufnahme neuer für den Status einer Person relevanter Informationen zur Folge hat oder in anderer Weise im Widerspruch zum Status dieser Person steht. Zudem umfasst eine Änderung der Gegebenheiten jede Änderung oder Aufnahme von Informationen zum Konto des Kontoinhabers, einschließlich der Aufnahme, Ersetzung oder jeder anderen Änderung eines Kontoinhabers, oder jede Änderung oder Aufnahme von Informationen zu jedem mit einem solchen Konto verbundenen Konto unter Anwendung der Vorschriften für die Zusammenfassung von Konten nach § 18, wenn sich diese Änderung oder Aufnahme von Informationen auf den Status des Kontoinhabers auswirkt.
 
 (2) Hat sich ein meldendes Finanzinstitut auf die in § 11 Absatz 1 Satz 1 Nummer 1 beschriebene Überprüfung der Hausanschrift verlassen und tritt eine Änderung der Gegebenheiten ein, aufgrund derer dem meldenden Finanzinstitut bekannt ist oder bekannt sein müsste, dass die ursprünglichen Belege oder andere gleichwertige Dokumente nicht zutreffend oder unglaubwürdig sind, so muss das meldende Finanzinstitut entweder bis zum letzten Tag des maßgeblichen Kalenderjahres oder eines anderen geeigneten Meldezeitraums oder 90 Kalendertage nach Mitteilung oder Feststellung einer solchen Änderung der Gegebenheiten, je nachdem, welches Datum später ist, eine Selbstauskunft und neue Belege beschaffen, um die steuerliche Ansässigkeit oder steuerlichen Ansässigkeiten des Kontoinhabers festzustellen. Kann das meldende Finanzinstitut bis zu diesem Datum keine Selbstauskunft und keine neuen Belege beschaffen, so muss es die in § 11 Absatz 1 Satz 1 Nummer 2 und in den Absätzen 2 und 3 beschriebene Suche in elektronischen Datensätzen durchführen.
 
-
-## § 22 – Selbstauskunft bei Neukonten von Rechtsträgern
+# § 22 – Selbstauskunft bei Neukonten von Rechtsträgern
 
 Bei Neukonten von Rechtsträgern kann sich ein meldendes Finanzinstitut zur Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist, nur auf eine Selbstauskunft entweder des Kontoinhabers oder dieser beherrschenden Person verlassen.
 
-
-## § 23 – Ansässigkeit eines Finanzinstituts
+# § 23 – Ansässigkeit eines Finanzinstituts
 
 (1) Ein Finanzinstitut ist in einem meldepflichtigen Staat ansässig, wenn es der Hoheitsgewalt dieses Staates untersteht. Der Hoheitsgewalt untersteht ein Finanzinstitut in dem Staat, der die Meldepflichten des Finanzinstituts durchsetzen kann. Im Allgemeinen untersteht ein Finanzinstitut, wenn es in einem meldepflichtigen Staat steuerlich ansässig ist, der Hoheitsgewalt dieses Staats und ist somit ein Finanzinstitut eines meldepflichtigen Staats.
 
@@ -811,8 +785,7 @@ Bei Neukonten von Rechtsträgern kann sich ein meldendes Finanzinstitut zur Fest
 
 (3) Ist ein Finanzinstitut mit Ausnahme von Trusts in zwei oder mehr meldepflichtigen Staaten ansässig, so gelten die Melde- und Sorgfaltspflichten des Staates, in dem es die Finanzkonten führt.
 
-
-## § 24 – Geführte Konten
+# § 24 – Geführte Konten
 
 Im Allgemeinen ist davon auszugehen, dass Konten von folgenden Finanzinstituten geführt werden:
 
@@ -824,27 +797,23 @@ Im Allgemeinen ist davon auszugehen, dass Konten von folgenden Finanzinstituten 
 
 4. rückkaufsfähige Versicherungsverträge oder Rentenversicherungsverträge von dem Finanzinstitut, das verpflichtet ist, Zahlungen in Bezug auf den Vertrag zu leisten.
 
-
-## § 25 – Trusts, die passive NFEs sind
+# § 25 – Trusts, die passive NFEs sind
 
 (1) Ein Rechtsträger, wie eine Personengesellschaft, eine Limited Liability Partnership oder ein ähnliches Rechtsgebilde, bei dem keine steuerliche Ansässigkeit nach § 19 Nummer 37 vorliegt, gilt als in dem Staat ansässig, in dem sich der Ort seiner tatsächlichen Geschäftsleitung befindet. Zu diesem Zweck gelten juristische Personen oder Rechtsgebilde als einer Personengesellschaft und einer Limited Liability Partnership ähnlich, wenn sie in einem meldepflichtigen Staat nach dessen Steuerrecht nicht als steuerpflichtige Rechtsträger behandelt werden.
 
 (2) Um jedoch aufgrund des breiten Geltungsbereichs des Begriffs beherrschende Personen bei Trusts Doppelmeldungen zu vermeiden, kann ein Trust, der ein passiver NFE ist, nicht als ähnliches Rechtsgebilde gelten.
 
-
-## § 26 – Anschrift des Hauptsitzes eines Rechtsträgers
+# § 26 – Anschrift des Hauptsitzes eines Rechtsträgers
 
 Gemäß § 20 Nummer 6 Buchstabe c müssen amtliche Dokumente in Bezug auf einen Rechtsträger entweder die Anschrift des Hauptsitzes des Rechtsträgers in dem Staat umfassen, in dem er ansässig zu sein behauptet, oder den Staat, in dem der Rechtsträger eingetragen oder gegründet wurde. Die Anschrift des Hauptsitzes des Rechtsträgers ist im Allgemeinen der Ort, an dem sich seine tatsächliche Geschäftsleitung befindet. Die Anschrift des Finanzinstituts, bei dem der Rechtsträger ein Konto führt, ein Postfach oder eine reine Postanschrift, ist nicht die Anschrift des Hauptsitzes des Rechtsträgers, es sei denn, diese Anschrift ist die einzige, die von dem Rechtsträger verwendet wird, und erscheint als eingetragene Anschrift des Rechtsträgers in dessen Geschäftsdokumenten. Ferner ist eine Anschrift, die mit der Anweisung angegeben wird, den gesamten Schriftverkehr postlagernd an diese Anschrift zu richten, nicht die Anschrift des Hauptsitzes des Rechtsträgers.
 
-
-## § 27 – Anwendungsbestimmung
+# § 27 – Anwendungsbestimmung
 
 (1) Das Bundeszentralamt für Steuern führt als zuständige Behörde die automatische Übermittlung von Informationen nach § 1 in Verbindung mit den §§ 2 und 4 jeweils zum 30. September eines Jahres für das vorhergehende Kalenderjahr durch; beginnend zum 30. September 2017 für 2016.
 
 (2) Die Finanzinstitute haben dem Bundeszentralamt für Steuern die Daten nach § 8 nach amtlich vorgeschriebenem Datensatz elektronisch im Wege der Datenfernübertragung jeweils zum 31. Juli eines Jahres für das vorhergehende Kalenderjahr zu übermitteln; beginnend zum 31. Juli 2017 für 2016.
 
-
-## § 28 – Bußgeldvorschriften
+# § 28 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 8 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 

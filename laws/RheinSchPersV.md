@@ -1,13 +1,9 @@
-# [RheinSchPersV] Verordnung über das Schiffspersonal auf dem Rhein  (Schiffspersonalverordnung-Rhein - RheinSchPersV)
-
-Ausfertigungsdatum: 16.12.2011
-
+% Verordnung über das Schiffspersonal auf dem Rhein  (Schiffspersonalverordnung-Rhein - RheinSchPersV)
+% Ausfertigungsdatum: 16.12.2011
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## § 1.01 – Begriffsbestimmungen
+# § 1.01 – Begriffsbestimmungen
 
 In dieser Verordnung gelten als  
   
@@ -99,8 +95,7 @@ Andere Begriffe
 
 40. „ES-TRIN“ der Europäische Standard der technischen Vorschriften für Binnenschiffe Ausgabe 2019/12<span id="FnR.bjnr130030011bjne000202125_01"></span><a href="#bjnr130030011bjne000202125_01" class="FnR">2</a></sup> . Bei der Anwendung des ES-TRIN ist unter Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
 
-
-## § 1.02 – Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
+# § 1.02 – Anordnungen vorübergehender Art der Zentralkommission für die Rheinschifffahrt
 
 Die Zentralkommission für die Rheinschifffahrt kann Anordnungen vorübergehender Art mit einer Gültigkeit von höchstens drei Jahren beschließen, wenn es notwendig erscheint,
 
@@ -108,13 +103,11 @@ a) in dringenden Fällen Abweichungen von dieser Verordnung zuzulassen oder
 
 b) um Versuche, durch die die Sicherheit und Leichtigkeit des Schiffsverkehrs nicht beeinträchtigt werden, zu ermöglichen.
 
-
-## § 1.03 – Dienstanweisungen
+# § 1.03 – Dienstanweisungen
 
 Zur Erleichterung und Vereinheitlichung der Anwendung dieser Verordnung kann die ZKR Dienstanweisungen für die zuständigen Behörden beschließen. Die zuständigen Behörden sind daran gebunden.
 
-
-## § 2.01 – Geltungsbereich
+# § 2.01 – Geltungsbereich
 
 1. Dieser Teil gilt
 
@@ -134,32 +127,24 @@ d) schwimmenden Geräte.
 
 3. Dieser Teil gilt nicht für Fähren.
 
+# § 2.02 – Allgemeines
 
-## § 2.02 – Allgemeines
-
-1. Die Besatzung und das Sicherheitspersonal, die sich nach der Rheinschifffahrtspolizeiverordnung an Bord der auf dem Rhein fahrenden Fahrzeuge zu befinden haben, müssen den Vorschriften dieser Verordnung entsprechen.  
-  
-Die Besatzung, die für die jeweilige Betriebsform und Einsatzzeit des Fahrzeuges vorgeschrieben ist, und das Sicherheitspersonal müssen während der Fahrt ständig an Bord sein. Der Antritt einer Fahrt ohne die vorgeschriebene Besatzung oder ohne das Sicherheitspersonal ist unzulässig.  
-  
-Fahrzeuge, auf denen durch unvorhergesehene Umstände (z. B. Krankheit, Unfall, behördliche Anordnung) höchstens ein Mitglied der vorgeschriebenen Besatzung während der Fahrt ausfällt, können ihre Fahrt bis zum nächsten erreichbaren geeigneten Liegeplatz in Fahrtrichtung – Fahrgastschiffe bis zur Tagesendstation – fortsetzen, wenn an Bord neben einem Inhaber eines für die betreffende Strecke gültigen Schifferpatents noch ein weiteres Mitglied der vorgeschriebenen Besatzung vorhanden ist.  
-  
+1. Die Besatzung und das Sicherheitspersonal, die sich nach der Rheinschifffahrtspolizeiverordnung an Bord der auf dem Rhein fahrenden Fahrzeuge zu befinden haben, müssen den Vorschriften dieser Verordnung entsprechen.   
+Die Besatzung, die für die jeweilige Betriebsform und Einsatzzeit des Fahrzeuges vorgeschrieben ist, und das Sicherheitspersonal müssen während der Fahrt ständig an Bord sein. Der Antritt einer Fahrt ohne die vorgeschriebene Besatzung oder ohne das Sicherheitspersonal ist unzulässig.   
+Fahrzeuge, auf denen durch unvorhergesehene Umstände (z. B. Krankheit, Unfall, behördliche Anordnung) höchstens ein Mitglied der vorgeschriebenen Besatzung während der Fahrt ausfällt, können ihre Fahrt bis zum nächsten erreichbaren geeigneten Liegeplatz in Fahrtrichtung – Fahrgastschiffe bis zur Tagesendstation – fortsetzen, wenn an Bord neben einem Inhaber eines für die betreffende Strecke gültigen Schifferpatents noch ein weiteres Mitglied der vorgeschriebenen Besatzung vorhanden ist.   
 Die Person, der die Betreuung an Bord lebender Kinder unter sechs Jahren obliegt, darf nicht Mitglied der Mindestbesatzung sein, es sei denn, es werden Maßnahmen getroffen, um die Sicherheit der Kinder ohne ständige Aufsicht zu gewährleisten.
 
-2. Jeder Rheinuferstaat oder Belgien kann bestimmen, dass seine Arbeitsschutzvorschriften auf die Rheinschiffe anwendbar sind, die in seinem Staat registriert sind. Nicht in einem Register eingetragene Schiffe unterstehen den Vorschriften des Rheinuferstaates oder Belgiens, in dem das Unternehmen oder der Eigner seinen Hauptsitz oder gesetzlichen Wohnsitz hat.  
-  
-Abweichend hiervon können die zuständigen Behörden der betroffenen Rheinuferstaaten und Belgiens bilateral vereinbaren, dass einzelne in dem einen Staat registrierte Schiffe unter die Vorschriften des anderen Staates fallen.  
-  
+2. Jeder Rheinuferstaat oder Belgien kann bestimmen, dass seine Arbeitsschutzvorschriften auf die Rheinschiffe anwendbar sind, die in seinem Staat registriert sind. Nicht in einem Register eingetragene Schiffe unterstehen den Vorschriften des Rheinuferstaates oder Belgiens, in dem das Unternehmen oder der Eigner seinen Hauptsitz oder gesetzlichen Wohnsitz hat.   
+Abweichend hiervon können die zuständigen Behörden der betroffenen Rheinuferstaaten und Belgiens bilateral vereinbaren, dass einzelne in dem einen Staat registrierte Schiffe unter die Vorschriften des anderen Staates fallen.   
 Werdende Mütter/Wöchnerinnen dürfen während mindestens 14 Wochen nicht Mitglied der Mindestbesatzung sein; davon müssen wenigstens sechs Wochen vor und wenigstens sieben Wochen nach der Niederkunft liegen.
 
 3. Für die Anwendung der §§ 3.10, 3.11 und 3.13 müssen auch die Fahr- und Ruhezeiten berücksichtigt werden, die außerhalb des Geltungsbereichs dieser Verordnung abgeleistet werden.
 
-
-## § 3.01 – Beschreibung der Befähigungen
+# § 3.01 – Beschreibung der Befähigungen
 
 Zu den Besatzungsmitgliedern gehören die Decksmannschaft und das Maschinenpersonal. Mitglieder der Decksmannschaft sind der Decksmann, Leichtmatrose (Schiffsjunge), Matrose, Bootsmann, Steuermann und der Schiffsführer. Das Maschinenpersonal besteht aus dem Maschinisten.
 
-
-## § 3.02 – Voraussetzungen für die Befähigung
+# § 3.02 – Voraussetzungen für die Befähigung
 
 Die Mitglieder der Besatzung müssen folgende Voraussetzungen für die Befähigung erfüllen:
 
@@ -250,8 +235,7 @@ b) ein Mindestalter von 19 Jahren und eine Fahrzeit als Bootsmann auf einem Binn
 
 Der Inhaber eines Großen Patentes, eines aufgrund der Richtlinie 96/50/EG ausgestellten Schiffsführerzeugnisses, eines in Anlage 1 der Richtlinie 91/672/EWG erwähnten Zeugnisses oder eines dem Großen Patent als gleichwertig anerkannten Schiffsführerzeugnisses kann statt als Steuermann auch als Decksmann, Matrose oder Bootsmann eingesetzt werden.
 
-
-## § 3.03 – Tauglichkeit der Besatzungsmitglieder
+# § 3.03 – Tauglichkeit der Besatzungsmitglieder
 
 1. Alle Besatzungsmitglieder müssen die Voraussetzungen für die Tauglichkeit nach Anlage B1 erfüllen. Die Tauglichkeit ist für die erstmalige Ausstellung des Schifferdienstbuches oder eines Rheinpatentes nachzuweisen durch
 
@@ -269,8 +253,7 @@ c) ein als gleichwertig anerkanntes gültiges Schiffsführerzeugnis, für das mi
 
 2. Die Anforderungen an das Seh- und Hörvermögen nach Anlage B1 der Patentverordnung Rhein gelten nicht für die Befähigung des Maschinisten.
 
-
-## § 3.04 – Regelmäßige Überprüfung der Tauglichkeit
+# § 3.04 – Regelmäßige Überprüfung der Tauglichkeit
 
 Der Nachweis der Tauglichkeit ist durch Vorlage eines ärztlichen Zeugnisses nach Anlage B2 oder eines von der ZKR als gleichwertig anerkannten ärztlichen Zeugnisses, das nicht älter als drei Monate sein darf, zu erneuern:
 
@@ -278,8 +261,7 @@ a) mit Vollendung des 50. Lebensjahres und bis zum 65. Lebensjahr alle fünf Jah
 
 b) mit Vollendung des 65. Lebensjahres und danach jährlich für die übrigen Besatzungsmitglieder.
 
-
-## § 3.05 – Nachweis der Befähigung
+# § 3.05 – Nachweis der Befähigung
 
 1. Die Befähigung für eine Funktion an Bord muss jederzeit nachgewiesen werden können
 
@@ -289,8 +271,7 @@ b) von den übrigen Mitgliedern der Besatzung durch ein gültiges auf ihre Perso
 
 2. Die Mitglieder der Besatzung, mit Ausnahme des Maschinisten, können ihre Befähigung auch durch ein Großes Patent oder ein ihm entsprechendes von der ZKR als gleichwertig anerkanntes Schiffsführerzeugnis gemäß Teil III nachweisen.
 
-
-## § 3.06 – Schifferdienstbuch
+# § 3.06 – Schifferdienstbuch
 
 1. Die Person, auf deren Namen das Schifferdienstbuch ausgestellt ist, wird als Inhaber des Schifferdienstbuches bezeichnet. Ein Besatzungsmitglied darf nur im Besitz eines einzigen Schifferdienstbuches sein. Das Schifferdienstbuch ist von der zuständigen Behörde auszustellen und mindestens in einer der Amtssprachen der ZKR abzufassen.
 
@@ -314,8 +295,7 @@ b) es bis zur Beendigung des Dienst-, Arbeits- oder sonstigen Verhältnisses sic
 
 c) dem Inhaber auf dessen Wunsch das Schifferdienstbuch jederzeit und unverzüglich auszuhändigen.
 
-
-## § 3.07 – Gültigkeit des Schifferdienstbuches
+# § 3.07 – Gültigkeit des Schifferdienstbuches
 
 1. Die Gültigkeit des Schifferdienstbuches ruht auch ohne Anordnung, wenn die Tauglichkeit nicht innerhalb von drei Monaten nach den Erneuerungsfristen in § 3.04 Buchstabe b erneut nachgewiesen wird, bis zur Erneuerung des Nachweises der Tauglichkeit.
 
@@ -327,13 +307,11 @@ b) kann sie die Gültigkeit des Schifferdienstbuches für eine Dauer aussetzen, 
 
 3. Ist erwiesen, dass der Inhaber untauglich im Sinne der Nummern 1 und 2 ist, trägt die ausstellende Behörde auf Seite 2 und auf Seite 7 des Schifferdienstbuches den Vermerk „UNTAUGLICH“ ein und beglaubigt ihn.
 
-
-## § 3.08 – Anrechnung der Fahrzeiten
+# § 3.08 – Anrechnung der Fahrzeiten
 
 180 effektive Fahrtage in der Binnenschifffahrt gelten als ein Jahr Fahrzeit. Innerhalb von 365 aufeinanderfolgenden Tagen können höchstens 180 Fahrtage angerechnet werden. 250 Fahrtage in der See-, Küsten- oder Fischereischifffahrt gelten als ein Jahr Fahrzeit.
 
-
-## § 3.09 – Nachweis von Fahrzeiten und Streckenfahrten
+# § 3.09 – Nachweis von Fahrzeiten und Streckenfahrten
 
 1. Die erforderlichen Streckenfahrten auf dem Rhein und die Fahrzeit sind anhand eines ordnungsgemäß ausgefüllten und geprüften Schifferdienstbuches nach dem Muster der Anlage A2 oder anhand eines von der ZKR auf dem Rhein als gleichwertig anerkannten Schifferdienstbuches nachzuweisen. Die als gleichwertig anerkannten Schifferdienstbücher ergeben sich aus Anlage A5.
 
@@ -360,8 +338,7 @@ Für die Behördenpatente werden die vorgeschriebenen Fahrten und Fahrzeiten anh
 
 6. Urkunden nach den Nummern 2 bis 5 sind, soweit erforderlich, mit amtlicher Übersetzung in deutscher, französischer oder niederländischer Sprache vorzulegen.
 
-
-## § 3.10 – Betriebsformen
+# § 3.10 – Betriebsformen
 
 1. Es werden folgende Betriebsformen unterschieden:  
   
@@ -386,8 +363,7 @@ b) in der Betriebsform A2 zwischen 23.00 Uhr und 05.00 Uhr.
   
 Von diesen Uhrzeiten kann abgewichen werden, wenn die Fahrzeit durch die Aufzeichnungen eines von der zuständigen Behörde in einem Rheinuferstaat oder Belgien typgeprüften und zugelassenen Fahrtenschreibers, der den Anforderungen der Anlage A3 entspricht und ordnungsgemäß funktioniert, nachgewiesen wird. Der Fahrtenschreiber muss mindestens seit dem Beginn der letzten ununterbrochenen acht- beziehungsweise sechsstündigen Ruhezeit eingeschaltet und für die Kontrollorgane jederzeit zugänglich sein.
 
-
-## § 3.11 – Mindestruhezeit
+# § 3.11 – Mindestruhezeit
 
 1. In der Betriebsform A1 hat jedes Besatzungsmitglied Anspruch auf eine ununterbrochene Ruhezeit von acht Stunden außerhalb der Fahrt und dies innerhalb von jeweils 24 Stunden, die mit dem Ende jeder Ruhezeit von acht Stunden zu laufen beginnen.
 
@@ -407,8 +383,7 @@ die Möglichkeit besteht, die Ruhezeit in einem allein einem Besatzungsmitglied 
 
 6. Regelungen arbeitsrechtlicher Art einschließlich der Regelungen der Europäischen Union und tarifvertragliche Bestimmungen für eine längere Ruhezeit bleiben unberührt.
 
-
-## § 3.12 – Wechsel oder Wiederholung der Betriebsform
+# § 3.12 – Wechsel oder Wiederholung der Betriebsform
 
 1. Abweichend von § 3.10 Nr. 1 und 3 ist ein Wechsel oder eine Wiederholung der Betriebsform nach Maßgabe der Vorschriften in Nummer 2 bis 6 möglich.
 
@@ -440,13 +415,11 @@ b) die für die Betriebsform B bestimmten Besatzungsmitglieder unmittelbar vor d
 
 7. Der Nachweis einer sechs- beziehungsweise achtstündigen Ruhezeit erfolgt durch eine Bescheinigung nach Anlage A4 oder durch eine Kopie der Seite mit den Eintragungen der Fahr- beziehungsweise Ruhezeiten aus dem Bordbuch des Schiffes, auf dem die letzte Reise des Besatzungsmitgliedes stattgefunden hat. Sofern die Ruhezeit während der Fahrt eingehalten wurde, ist zugleich eine Kopie des Binnenschiffszeugnisses des jeweiligen Schiffs erforderlich, aus welchem sich ergibt, dass der maximale Schalldruckpegel des Raums in diesem Schiff den Vorschriften in § 3.11 Nummer 4 entspricht.
 
-
-## § 3.13 – Bordbuch – Fahrtenschreiber
+# § 3.13 – Bordbuch – Fahrtenschreiber
 
 1. Auf jedem Schiff ist im Steuerhaus ein Bordbuch nach dem Muster der Anlage A1 mitzuführen, ausgenommen auf Schlepp- und Schubbooten, die nur in Häfen verkehren, auf unbemannten Schubleichtern, Behördenfahrzeugen und Sportfahrzeugen. Dieses Bordbuch ist entsprechend der darin enthaltenen Anleitung auszufüllen. Verantwortlich für das Mitführen des Bordbuches und für die Einträge ist der Schiffsführer. Das erste Bordbuch, das mit der Nummer 1, dem Namen des Schiffes und dessen einheitlicher europäischer Schiffsnummer (ENI) oder dessen amtlicher Schiffsnummer zu versehen ist, muss von einer zuständigen Behörde eines Rheinuferstaates oder Belgiens aufgrund der Vorlage eines gültigen Binnenschiffszeugnisses ausgestellt sein. Auf Schiffen, die über ein gemäß Anlage O zur RheinSchUO auf dem Rhein anerkanntes Gemeinschaftszeugnis verfügen, kann statt des von einer zuständigen Behörde eines Rheinuferstaates oder Belgiens ausgestellten Bordbuches ein von einer zuständigen Behörde eines Drittstaates ausgestelltes und von der ZKR anerkanntes Bordbuch mitgeführt werden. Anerkannte Bordbücher sind in mindestens einer der Amtssprachen der ZKR zu führen. Die zuständigen Behörden für die Ausstellung von auf dem Rhein gültigen Bordbüchern ergeben sich aus Anlage A1a.
 
-2. Alle nachfolgenden Bordbücher können von allen zuständigen Behörden eines Rheinuferstaates oder Belgiens mit der Folgenummer nummeriert ausgegeben werden, dürfen jedoch nur gegen Vorlage des vorangegangenen Bordbuches ausgehändigt werden. Das vorangegangene Bordbuch muss unaustilgbar „ungültig“ gekennzeichnet und dem Schiffsführer zurückgegeben werden.  
-  
+2. Alle nachfolgenden Bordbücher können von allen zuständigen Behörden eines Rheinuferstaates oder Belgiens mit der Folgenummer nummeriert ausgegeben werden, dürfen jedoch nur gegen Vorlage des vorangegangenen Bordbuches ausgehändigt werden. Das vorangegangene Bordbuch muss unaustilgbar „ungültig“ gekennzeichnet und dem Schiffsführer zurückgegeben werden.   
 Die Aushändigung des neuen Bordbuches kann bei Vorlage der Bescheinigung nach Nummer 4 erfolgen. Der Schiffseigner hat jedoch dafür zu sorgen, dass das vorangegangene Bordbuch binnen 30 Tagen nach dem Ausstellungsdatum des neuen Bordbuches, das auf der Bescheinigung nach Nummer 4 von der zuständigen Behörde eingetragen worden ist, von derselben zuständigen Behörde unaustilgbar „ungültig“ gekennzeichnet wird. Der Schiffseigner hat außerdem dafür zu sorgen, dass dann das Bordbuch wieder an Bord gebracht wird.
 
 3. Das ungültig gezeichnete Bordbuch ist während sechs Monaten nach der letzten Eintragung an Bord aufzubewahren.
@@ -466,16 +439,14 @@ Die nach dem Wechsel der Betriebsform notwendigen Eintragungen müssen auf einer
     c)  
 Werden pro Tag zwei oder mehr Fahrten mit unveränderter Besatzung durchgeführt, genügt es, die Uhrzeit des Beginns der ersten Tagesfahrt und die Uhrzeit des Endes der letzten Tagesfahrt einzutragen.
 
-
-## § 3.14 – Ausrüstung der Schiffe
+# § 3.14 – Ausrüstung der Schiffe
 
 1. Unbeschadet der Bestimmungen des ES-TRIN müssen Motorschiffe, Schubboote, Schubverbände und Fahrgastschiffe, die mit der nach diesem Abschnitt vorgeschriebenen Mindestbesatzung gefahren werden sollen, einem der nachfolgenden Ausrüstungsstandards genügen:
 
 1.1  
 Standard S1
 
-a) Die Antriebsanlagen müssen so eingerichtet sein, dass die Veränderung der Fahrgeschwindigkeit und die Umkehrung der Propellerschubrichtung vom Steuerstand aus erfolgen kann.  
-  
+a) Die Antriebsanlagen müssen so eingerichtet sein, dass die Veränderung der Fahrgeschwindigkeit und die Umkehrung der Propellerschubrichtung vom Steuerstand aus erfolgen kann.   
 Die für den Fahrbetrieb erforderlichen Hilfsmaschinen müssen vom Steuerstand aus ein- und ausgeschaltet werden können, es sei denn, dies geschieht automatisch oder diese Maschinen laufen während jeder Fahrt ununterbrochen mit;
 
 b) In den Gefahrenbereichen  
@@ -537,8 +508,7 @@ Standard S1 sowie zusätzlich eine Ausrüstung mit einer vom Steuerstand aus bed
 
 2. Die Erfüllung oder Nichterfüllung der Vorschriften nach Nummer 1.1 oder 1.2 wird von der Untersuchungskommission in dem Binnenschiffszeugnis durch einen Vermerk in Ziffer 47 bescheinigt.
 
-
-## § 3.15 – Mindestbesatzung der Motorschiffe und Schubboote
+# § 3.15 – Mindestbesatzung der Motorschiffe und Schubboote
 
 1. Die Mindestbesatzung der Motorschiffe und Schubboote beträgt:  
   
@@ -571,8 +541,7 @@ c) in der Stufe 3 Betriebsform A1 Standard S1 und Betriebsform A2 Standard S2
   
 kann für die ununterbrochene Dauer von höchstens drei Monaten in einem Kalenderjahr um einen Leichtmatrosen, der eine Schifferberufsschule besucht, vermindert werden. Die Zeiten der Verminderung müssen mindestens um einen Monat unterbrochen sein. Der Besuch der Schifferberufsschule muss durch eine an Bord befindliche Bescheinigung der Schifferberufsschule, in der die Zeiten des Schulbesuches angegeben sind, nachgewiesen werden. Satz 1 Buchstaben a und c zweite Alternative gelten nur, wenn in der Zeit des Schulbesuchs des einen Leichtmatrosen der zweite Leichtmatrose an Bord ist. Diese Bestimmungen gelten nicht für den Leichtmatrosen nach Nummer 2.
 
-
-## § 3.16 – Mindestbesatzung der starren Verbände und anderen starren Zusammenstellungen
+# § 3.16 – Mindestbesatzung der starren Verbände und anderen starren Zusammenstellungen
 
 1. Die Mindestbesatzung der starren Verbände und anderen starren Zusammenstellungen beträgt:  
   
@@ -616,8 +585,7 @@ kann für die ununterbrochene Dauer von höchstens drei Monaten in einem Kalende
 
 4. Die in der Tabelle nach Nummer 1 vorgeschriebenen Maschinisten dürfen jeweils durch einen zusätzlichen Bootsmann ersetzt werden. Sie dürfen auch jeweils durch einen zusätzlichen Matrosen ersetzt werden, wenn in der Tabelle nach Nummer 1 bereits ein Bootsmann vorgeschrieben ist.
 
-
-## § 3.17 – Mindestbesatzung der Fahrgastschiffe
+# § 3.17 – Mindestbesatzung der Fahrgastschiffe
 
 1. Die Mindestbesatzung der Tagesausflugsschiffe umfasst:  
   
@@ -688,8 +656,7 @@ kann für die ununterbrochene Dauer von höchstens drei Monaten in einem Kalende
 
 10. Die in den Tabellen nach Nummer 1 bis 3 vorgeschriebenen Maschinisten dürfen durch zusätzliche Bootsmänner ersetzt werden. Diese Bootsmänner dürfen auch durch zusätzliche Matrosen ersetzt werden, wenn in den Tabellen nach Nummer 1 bis 3 die Anzahl der Bootsmänner als Mindestbesatzung an Bord vorgeschrieben ist, die der Anzahl der zu ersetzenden Maschinisten entspricht.
 
-
-## § 3.18 – Nichterfüllung der Ausrüstung nach § 3.14
+# § 3.18 – Nichterfüllung der Ausrüstung nach § 3.14
 
 1. Entspricht ein Motorschiff, ein Schubboot, ein starrer Verband, eine andere starre Zusammenstellung oder ein Fahrgastschiff nicht dem in § 3.14 dieser Verordnung definierten Standard S1, muss die Mindestbesatzung nach § 3.15, § 3.16 oder § 3.17 wie folgt erhöht werden:
 
@@ -707,8 +674,7 @@ Im Fall des Satz 1 können die Bootsmänner durch Matrosen ersetzt werden, sofer
 
 3. Das zusätzlich erforderliche Besatzungspersonal wird von der Untersuchungskommission im Binnenschiffszeugnis unter der Nummer 47 vermerkt.
 
-
-## § 3.19 – Mindestbesatzung der übrigen Fahrzeuge
+# § 3.19 – Mindestbesatzung der übrigen Fahrzeuge
 
 1. Die Untersuchungskommission setzt für Fahrzeuge, die nicht unter die §§ 3.15 bis 3.17 fallen (wie Schleppboote, Schleppkähne und schwimmende Geräte), unter Berücksichtigung ihrer Größe, Bauart, Einrichtung und Zweckbestimmung die erforderliche Besatzung fest, die sich während der Fahrt an Bord befinden muss.
 
@@ -716,23 +682,19 @@ Im Fall des Satz 1 können die Bootsmänner durch Matrosen ersetzt werden, sofer
 
 3. Die Untersuchungskommission nimmt im Binnenschiffszeugnis unter der Nummer 48 die entsprechenden Eintragungen vor.
 
-
-## § 3.20 – Mindestbesatzung von Seeschiffen
+# § 3.20 – Mindestbesatzung von Seeschiffen
 
 1. Für die Festlegung der Mindestbesatzung von Seeschiffen ist dieser Teil anzuwenden.
 
-2. Abweichend von Nummer 1 können für Seeschiffe die Besatzungsregelungen, die den Grundsätzen der IMO-Resolution A. 481 (XII) und des internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten entsprechen, angewendet werden unter der Voraussetzung, dass die Besatzung zahlenmäßig mindestens mit der Mindestbesatzung der Betriebsform B des Teils II übereinstimmt, insbesondere unter Berücksichtigung der §§ 3.14 und 3.18.  
-  
-In diesem Fall müssen die entsprechenden Dokumente, aus denen die Befähigung der Besatzungsmitglieder und deren Anzahl hervorgehen, an Bord mitgeführt werden. Außerdem muss sich ein Inhaber des für die zu befahrende Strecke gültigen Großen Patentes oder eines ihm entsprechenden von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisses nach dieser Verordnung an Bord befinden. Nach höchstens 14 Stunden Fahrt innerhalb eines Zeitraumes von 24 Stunden ist dieser Patentinhaber durch einen anderen Patentinhaber zu ersetzen.  
-  
+2. Abweichend von Nummer 1 können für Seeschiffe die Besatzungsregelungen, die den Grundsätzen der IMO-Resolution A. 481 (XII) und des internationalen Übereinkommens von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten entsprechen, angewendet werden unter der Voraussetzung, dass die Besatzung zahlenmäßig mindestens mit der Mindestbesatzung der Betriebsform B des Teils II übereinstimmt, insbesondere unter Berücksichtigung der §§ 3.14 und 3.18.   
+In diesem Fall müssen die entsprechenden Dokumente, aus denen die Befähigung der Besatzungsmitglieder und deren Anzahl hervorgehen, an Bord mitgeführt werden. Außerdem muss sich ein Inhaber des für die zu befahrende Strecke gültigen Großen Patentes oder eines ihm entsprechenden von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisses nach dieser Verordnung an Bord befinden. Nach höchstens 14 Stunden Fahrt innerhalb eines Zeitraumes von 24 Stunden ist dieser Patentinhaber durch einen anderen Patentinhaber zu ersetzen.   
 Im Logbuch sind folgende Eintragungen zu machen:
 
 a) Namen der Patentinhaber, die sich an Bord befinden, sowie Anfang und Ende ihrer Wache;
 
 b) Beginn, Unterbrechung, Wiederaufnahme und Beendigung der Fahrt mit jeweils folgenden Angaben: Datum, Uhrzeit, Ort mit Strom-Kilometerangabe.
 
-
-## § 3.21 – Mindestbesatzung von Kanalpenichen
+# § 3.21 – Mindestbesatzung von Kanalpenichen
 
 Die Bestimmungen dieses Kapitels gelten nicht für Kanalpenichen. Die Besatzung muss jedoch mindestens umfassen:
 
@@ -742,8 +704,7 @@ einen Schiffsführer mit dem nach dieser Verordnung erforderlichen Schifferpaten
 \-  
 eine mindestens 16 Jahre alte Person, die in der Lage ist, bei den Schiffsmanövern zu helfen.
 
-
-## § 3.22 – Mindestbesatzung von Sportfahrzeugen
+# § 3.22 – Mindestbesatzung von Sportfahrzeugen
 
 Die Bestimmungen dieses Kapitels gelten nicht für Sportfahrzeuge. Die Besatzung muss jedoch mindestens umfassen:
 
@@ -753,35 +714,29 @@ einen Schiffsführer mit dem nach dieser Verordnung erforderlichen Schifferpaten
 \-  
 eine Person, die in der Lage ist, bei den Schiffsmanövern zu helfen.
 
-
-## § 3.23 – Ausnahme
+# § 3.23 – Ausnahme
 
 Für die Fahrt unterhalb der Spyck’schen Fähre (km 857,40) genügen, sofern die deutsch-niederländische Grenze in der einen oder anderen Richtung während der Fahrt nicht überschritten wird, anstelle der Vorschriften dieses Kapitels auch die Vorschriften der niederländischen „Binnenvaart wet“ (Staatsblad 2007 Nummer 498).
 
-
-## § 4.01 – Verweis auf die Bestimmungen des ADN
+# § 4.01 – Verweis auf die Bestimmungen des ADN
 
 Auf Schiffen, die gefährliche Güter befördern, muss eine Person gemäß 7.1.3.15 und 7.2.3.15 des ADN Inhaber einer Sachkundigenbescheinigung nach dem Muster des Abschnitts 8.6.2 des ADN sein.
 
-
-## § 4a.01 – Sachkunde und Einweisung
+# § 4a.01 – Sachkunde und Einweisung
 
 1. Der Schiffsführer und am Bunkervorgang beteiligte Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, müssen über Sachkunde im Umgang mit Flüssigerdgas als Brennstoff verfügen.
 
 2. Ein Besatzungsmitglied darf seine Tätigkeit an Bord erst aufnehmen, nachdem es vom Schiffsführer in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen worden ist.
 
-
-## § 4a.02 – Bescheinigung
+# § 4a.02 – Bescheinigung
 
 Die betroffenen Besatzungsmitglieder weisen ihre Sachkunde durch eine Bescheinigung nach dem Muster der Anlage E1 nach. Die Bescheinigung wird erteilt, wenn der Kandidat die Anforderungen der §§ 4a.03 und 4a.04 erfüllt.
 
-
-## § 4a.03 – Lehrgang und Prüfung
+# § 4a.03 – Lehrgang und Prüfung
 
 Der Lehrgang zur Sachkunde besteht aus einem theoretischen und einem praktischen Teil und wird mit einer Prüfung abgeschlossen. Der theoretische Teil des Lehrgangs umfasst die in Anlage E2 Teil A aufgeführten Themen. Der praktische Teil des Lehrgangs betrifft die Umsetzung des theoretischen Wissens in der Praxis an Bord eines Fahrzeugs, das Flüssigerdgas (LNG) als Brennstoff nutzt, und/oder an einer dafür geeigneten Landanlage. Er umfasst die in Anlage E2 Teil B aufgeführten Themen. Die Prüfung besteht aus einem theoretischen und einem praktischen Teil. Sie umfasst alle in Anlage E2 Teil A und Teil B genannten Themen. Die Prüfung ist bestanden, wenn der Kandidat in jedem der beiden Prüfungsteile ausreichende Kenntnisse und Fähigkeiten unter Beweis gestellt hat. Der praktische Teil der Prüfung wird an Bord eines Fahrzeugs und/oder an Land abgenommen.
 
-
-## § 4a.04 – Gültigkeit und Verlängerung der Bescheinigung
+# § 4a.04 – Gültigkeit und Verlängerung der Bescheinigung
 
 1. Die Bescheinigung hat eine Gültigkeitsdauer von fünf Jahren.
 
@@ -799,20 +754,17 @@ oder, wenn dies nicht der Fall ist,
 
 b) an einem Auffrischungslehrgang mit Prüfung teilnimmt. Für die Inhalte des Auffrischungslehrgangs und der Prüfung gilt § 4a.03 entsprechend, wobei der Lehrgangs- und Prüfungsumfang reduziert wird.
 
-
-## § 4a.05 – Zuständigkeit
+# § 4a.05 – Zuständigkeit
 
 Zuständig für die Durchführung von anerkannten Lehrgängen und Auffrischungslehrgängen, für die Abnahme von Prüfungen und für die Ausstellung der Bescheinigungen nach dem Muster der Anlage E1 sind anerkannte Ausbildungsstätten. Die Anerkennung von Lehrgängen, Auffrischungslehrgängen und Ausbildungsstätten erfolgt durch die zuständigen Behörden aufgrund der von der ZKR festgelegten einheitlichen Kriterien. Die zuständige Behörde kann sich die Ausstellung oder Verlängerung der Bescheinigungen vorbehalten. Zuständig für die Verlängerung von Bescheinigungen aufgrund von Fahrzeit ist jede zuständige Behörde. Die zuständigen Behörden informieren die ZKR über jede Entscheidung über die Anerkennung einer Ausbildungsstätte oder über die Aufhebung oder Suspendierung einer solchen Anerkennung. Das Verzeichnis der anerkannten Ausbildungsstätten und Lehrgänge wird von der ZKR elektronisch veröffentlicht.
 
-
-## § 5.01 – Sicherheitspersonal auf Fahrgastschiffen
+# § 5.01 – Sicherheitspersonal auf Fahrgastschiffen
 
 1. Auf jedem Fahrgastschiff muss sich Sicherheitspersonal in ausreichender Zahl befinden, solange sich Fahrgäste an Bord aufhalten.
 
 2. Die Mitglieder des Sicherheitspersonals können zur Besatzung oder zum Bordpersonal gehören.
 
-
-## § 5.02 – Sachkundiger für Fahrgastschifffahrt
+# § 5.02 – Sachkundiger für Fahrgastschifffahrt
 
 Der Sachkundige für Fahrgastschifffahrt muss mindestens 18 Jahre alt sein und die erforderliche Befähigung besitzen. Diese gilt als vorhanden, wenn die betreffende Person
 
@@ -820,8 +772,7 @@ a) an einem von der zuständigen Behörde anerkannten Basislehrgang, der mindest
 
 b) regelmäßig nach Maßgabe des § 5.04 Nr. 2 fortgebildet worden ist.
 
-
-## § 5.03 – Basislehrgang für Sachkundige
+# § 5.03 – Basislehrgang für Sachkundige
 
 Personen, die die Aufgabe des Sachkundigen nach § 5.02 wahrnehmen sollen, müssen zur Erlangung der Fachkunde an einem Basislehrgang teilnehmen. Der Basislehrgang muss im Rahmen eines von der zuständigen Behörde durchgeführten oder von ihr anerkannten Lehrganges durchgeführt werden und muss mindestens enthalten:
 
@@ -861,8 +812,7 @@ Kenntnisse über die praktische Umsetzung von Sicherheitsvorschriften und die Ei
 
 c) eine Abschlussprüfung.
 
-
-## § 5.04 – Auffrischungslehrgang für Sachkundige
+# § 5.04 – Auffrischungslehrgang für Sachkundige
 
 1. Vor Ablauf von fünf Jahren nach der erfolgreichen Teilnahme an dem Basislehrgang muss der Sachkundige für Fahrgastschifffahrt an einem von der zuständigen Behörde anerkannten Auffrischungslehrgang teilnehmen.
 
@@ -870,8 +820,7 @@ c) eine Abschlussprüfung.
 
 3. Jeweils vor Ablauf von fünf Jahren nach der Teilnahme an dem Auffrischungslehrgang muss der Sachkundige für Fahrgastschifffahrt erneut an einem Auffrischungslehrgang teilnehmen.
 
-
-## § 5.05 – Ersthelfer
+# § 5.05 – Ersthelfer
 
 Der Ersthelfer muss mindestens 17 Jahre alt sein und die erforderliche Befähigung besitzen. Diese gilt als vorhanden, wenn die betreffende Person
 
@@ -879,33 +828,27 @@ a) an einem Ersthelferlehrgang teilgenommen hat und
 
 b) regelmäßig nach Maßgabe des § 5.07 fortgebildet worden ist.
 
-
-## § 5.06 – Atemschutzgeräteträger
+# § 5.06 – Atemschutzgeräteträger
 
 Der Atemschutzgeräteträger muss mindestens 18 Jahre alt sein und die erforderliche Eignung besitzen, um die Atemschutzgeräte nach Artikel 19.12 Nr. 10 Buchstabe a des ES-TRIN, zur Rettung von Personen, benutzen zu können. Diese gilt als vorhanden, wenn die betreffende Person die Tauglichkeit und die Befähigung nach Maßgabe der nationalen Vorschriften der Rheinuferstaaten oder Belgiens nachweist und regelmäßig nach Maßgabe des § 5.07 fortgebildet worden ist.
 
-
-## § 5.07 – Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger
+# § 5.07 – Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger
 
 Die Lehrgänge und Auffrischungslehrgänge für Ersthelfer und Atemschutzgeräteträger müssen nach den Vorschriften eines der Rheinuferstaaten oder Belgiens durchgeführt werden.
 
+# § 5.08 – Art des Nachweises der Befähigung
 
-## § 5.08 – Art des Nachweises der Befähigung
-
-1. Die Befähigung zum Sachkundigen in der Fahrgastschifffahrt wird nach bestandener Abschlussprüfung mit einer Bescheinigung als Sachkundiger für Fahrgastschifffahrt nach dem Muster der Anlage C1 bescheinigt, die von der zuständigen Behörde oder der Ausbildungsstelle ausgestellt wird.  
-  
+1. Die Befähigung zum Sachkundigen in der Fahrgastschifffahrt wird nach bestandener Abschlussprüfung mit einer Bescheinigung als Sachkundiger für Fahrgastschifffahrt nach dem Muster der Anlage C1 bescheinigt, die von der zuständigen Behörde oder der Ausbildungsstelle ausgestellt wird.   
 Nach Teilnahme am Auffrischungslehrgang verlängert die zuständige Behörde oder die Ausbildungsstelle die Bescheinigung des Teilnehmers als Sachkundiger für Fahrgastschifffahrt um fünf Jahre oder stellt eine neue Bescheinigung aus.
 
 2. Nach bestandener Abschlussprüfung und auf Vorlage der Schulungsnachweise stellt die zuständige Behörde eine Bescheinigung über die Befähigung zum Ersthelfer nach dem Muster der Anlage C2 aus oder verlängert diese. Als Bescheinigungen gelten auch die Dokumente der nationalen oder regionalen Organisationen des Roten Kreuzes und vergleichbarer nationaler oder regionaler Rettungsorganisationen, die von der ZKR bekannt gemacht werden.
 
-3. Auf Vorlage der Schulungsnachweise stellt die zuständige Behörde eine Bescheinigung über die Befähigung zum Atemschutzgeräteträger nach dem Muster der Anlage C3 aus oder verlängert diese.  
-  
+3. Auf Vorlage der Schulungsnachweise stellt die zuständige Behörde eine Bescheinigung über die Befähigung zum Atemschutzgeräteträger nach dem Muster der Anlage C3 aus oder verlängert diese.   
 Diese Schulungsnachweise gelten als Bescheinigung, wenn sie von einer nach dem nationalen Recht der Rheinuferstaaten oder Belgiens anerkannten Ausbildungsstelle ausgestellt und von der ZKR bekannt gemacht worden sind.
 
 4. Die Bescheinigung Sachkundiger für Fahrgastschifffahrt nach Anlage C1, die Bescheinigung Ersthelfer nach Anlage C2 und die Bescheinigung Atemschutzgeräteträger nach Anlage C3 können in einem einzigen Dokument nach Anlage C4 zusammengefasst werden.
 
-
-## § 5.09 – Anzahl des Sicherheitspersonals
+# § 5.09 – Anzahl des Sicherheitspersonals
 
 1. Die Funktionen des Sachkundigen für Fahrgastschifffahrt, des Ersthelfers und des Atemschutzgeräteträgers müssen mindestens in folgender Anzahl vorhanden sein:
 
@@ -937,8 +880,7 @@ Für Kabinenschiffe, deren Länge 45 m nicht überschreitet und in deren Kabinen
 
 2. Auf Tagesausflugsschiffen mit einer zulässigen Personenzahl von nicht mehr als 75 und auf stillliegenden Fahrgastschiffen dürfen die Funktionen des Sachkundigen für Fahrgastschifffahrt und des Ersthelfers jedoch von einer Person wahrgenommen werden. In den anderen Fällen dürfen der Sachkundige für Fahrgastschifffahrt, der Ersthelfer und der Atemschutzgeräteträger nicht die gleiche Person sein.
 
-
-## § 5.10 – Pflichten des Schiffsführers und des Sachkundigen
+# § 5.10 – Pflichten des Schiffsführers und des Sachkundigen
 
 1. Über die Bestimmungen der Rheinschifffahrtspolizeiverordnung hinaus hat der Schiffsführer
 
@@ -958,18 +900,15 @@ b) diese Mitglieder der Besatzung und des Bordpersonals regelmäßig in ihren zu
 
 c) die Fahrgäste auf Kabinenschiffen bei Antritt der Fahrt auf die Verhaltensmaßregeln und den Sicherheitsplan hinweisen.
 
-
-## § 5.11 – Aufsicht
+# § 5.11 – Aufsicht
 
 Solange sich Fahrgäste an Bord befinden, muss nachts stündlich ein Kontrollgang durchgeführt werden. Die Durchführung muss auf geeignete Weise nachweisbar sein.
 
-
-## § 6.01 – Geltungsbereich
+# § 6.01 – Geltungsbereich
 
 Dieser Teil regelt die Patentpflicht für die Schifffahrt auf dem Rhein für die jeweilige Fahrzeugsart und -größe und die zu durchfahrende Strecke sowie die Bedingungen für den Erwerb der Patente.
 
-
-## § 6.02 – Schifferpatentpflicht
+# § 6.02 – Schifferpatentpflicht
 
 1. Wer auf dem Rhein ein Fahrzeug führen will, bedarf entweder eines Rheinpatentes nach dieser Verordnung oder eines von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisses für die jeweilige Fahrzeugsart und -größe sowie für die zu durchfahrende Strecke; die Liste der als gleichwertig anerkannten Schiffsführerzeugnisse sowie etwaige zusätzliche Bedingungen für diese Anerkennung sind in Anlage D5 aufgeführt.
 
@@ -991,15 +930,13 @@ b) für Fahrzeuge, die nur mit Muskelkraft fortbewegt werden;
 
 c) für Fahrzeuge mit einer Länge von weniger als 15 m, die nur unter Segel fahren oder mit einer Antriebsmaschine von nicht mehr als 3,68 kW ausgerüstet sind.
 
-
-## § 6.03 – Radarpatentpflicht
+# § 6.03 – Radarpatentpflicht
 
 1. Wer eine Radarfahrt durchführt, muss neben dem für die zu durchfahrende Strecke notwendigen Schifferpatent ein nach dieser Verordnung erteiltes Radarpatent oder ein anderes von der ZKR als gleichwertig anerkanntes Radarzeugnis besitzen. Die Liste der als gleichwertig anerkannten Radarzeugnisse sowie etwaige zusätzliche Bedingungen für diese Anerkennung sind in Anlage D6 aufgeführt.
 
 2. Die zuständige Behörde kann abweichend von § 8.05 zum Führen von Fähren in ihrem Zuständigkeitsbereich ein Radarpatent unter Bedingungen erteilen, die den Besonderheiten der Fährstrecke, für die das Radarpatent gelten soll, entspricht.
 
-
-## § 6.04 – Patentarten
+# § 6.04 – Patentarten
 
 Nach dieser Verordnung sind zu unterscheiden
 
@@ -1018,8 +955,7 @@ Die oben erwähnten Patente berechtigen auch zum Führen eines Fahrzeuges nach �
 
 2. das Radarpatent für die Radarfahrt.
 
-
-## § 7.01 – Großes Patent
+# § 7.01 – Großes Patent
 
 1. Wer das Große Patent erwerben will, muss mindestens 21 Jahre alt sein.
 
@@ -1027,8 +963,7 @@ Die oben erwähnten Patente berechtigen auch zum Führen eines Fahrzeuges nach �
 
 3. Der Bewerber muss die notwendige Eignung besitzen; geeignet ist, wer
 
-a) körperlich und geistig als Schiffsführer tauglich ist.  
-  
+a) körperlich und geistig als Schiffsführer tauglich ist.   
 Die Tauglichkeit ist durch ein ärztliches Zeugnis nach den Anlagen B1 und B2 nachzuweisen, das von einem von der zuständigen Behörde anerkannten Arzt ausgestellt sein muss;
 
 b) keine Straftaten in der Schifffahrt begangen hat, nach seinem bisherigen Verhalten die sichere Führung eines Fahrzeuges erwarten lässt und Vorgesetzter einer Schiffsmannschaft sein kann;
@@ -1043,8 +978,7 @@ a) höchstens bis zu drei Jahren, die Zeit der Ausbildung, wenn die Person Inhab
 
 b) höchstens bis zu zwei Jahren, die nachgewiesene Fahrzeit auf See als Mitglied einer Decksmannschaft, wobei 250 Seefahrtstage als ein Jahr Fahrzeit gelten.
 
-
-## § 7.02 – Kleines Patent
+# § 7.02 – Kleines Patent
 
 1. Wer das Kleine Patent erwerben will, muss mindestens 21 Jahre alt sein.
 
@@ -1052,8 +986,7 @@ b) höchstens bis zu zwei Jahren, die nachgewiesene Fahrzeit auf See als Mitglie
 
 3. Der Bewerber muss die notwendige Eignung besitzen; geeignet ist, wer
 
-a) körperlich und geistig als Schiffsführer tauglich ist.  
-  
+a) körperlich und geistig als Schiffsführer tauglich ist.   
 Die Tauglichkeit ist durch ein ärztliches Zeugnis nach den Anlagen B1 und B2 nachzuweisen, das von einem von der zuständigen Behörde anerkannten Arzt ausgestellt sein muss;
 
 b) keine Straftaten in der Schifffahrt begangen hat, nach seinem bisherigen Verhalten die sichere Führung eines Fahrzeuges erwarten lässt und Vorgesetzter einer Schiffsmannschaft sein kann;
@@ -1068,23 +1001,20 @@ a) höchstens bis zu drei Jahren, die Zeit der Ausbildung, wenn die Person Inhab
 
 b) höchstens bis zu zwei Jahren, die nachgewiesene Fahrzeit auf See als Mitglied einer Decksmannschaft, wobei 250 Seefahrtstage als ein Jahr Fahrzeit gelten.
 
-
-## § 7.03 – Sportpatent
+# § 7.03 – Sportpatent
 
 1. Wer das Sportpatent erwerben will, muss mindestens 18 Jahre alt sein.
 
 2. Der Bewerber muss die notwendige Eignung besitzen; geeignet ist, wer
 
-a) körperlich und geistig als Schiffsführer tauglich ist.  
-  
+a) körperlich und geistig als Schiffsführer tauglich ist.   
 Die Tauglichkeit wird durch ein ärztliches Zeugnis nach den Anlagen B1 und B2 nachgewiesen, das von einem von der zuständigen Behörde anerkannten Arzt ausgestellt sein muss;
 
 b) keine Straftaten in der Schifffahrt begangen hat und nach seinem bisherigen Verhalten die sichere Führung eines Fahrzeuges erwarten lässt;
 
 c) befähigt ist, das heißt die erforderlichen Fertigkeiten und Kenntnisse besitzt, die nautische Kenntnisse sowie die Kenntnis der Verordnungen und der Wasserstraße einschließen. Der Nachweis für diese Befähigung gilt als erbracht, wenn er die dafür vorgesehene Prüfung mit Erfolg abgelegt hat.
 
-
-## § 7.04 – Behördenpatent
+# § 7.04 – Behördenpatent
 
 1. Wer das Behördenpatent erwerben will, muss
 
@@ -1092,8 +1022,7 @@ a) mindestens 21 Jahre alt sein;
 
 b) einem Polizei- oder Zollorgan, einer anderen Behörde oder einem anerkannten Feuerlöschdienst angehören;
 
-c) körperlich und geistig als Schiffsführer tauglich sein.  
-  
+c) körperlich und geistig als Schiffsführer tauglich sein.   
 Die Tauglichkeit wird durch ein ärztliches Zeugnis nach den Anlagen B1 und B2 nachgewiesen, das von einem von der zuständigen Behörde anerkannten Arzt ausgestellt sein muss;
 
 d) befähigt sein, das heißt die erforderlichen beruflichen Fertigkeiten und Kenntnisse besitzen, die die nautischen Kenntnisse sowie die Kenntnis der Verordnungen und der Wasserstraße einschließen; der Nachweis für die Befähigung gilt als erbracht, wenn er die dafür vorgesehene Prüfung mit Erfolg ablegt;
@@ -1102,13 +1031,11 @@ e) mindestens drei Jahre die Binnenschifffahrt praktisch ausgeübt haben, davon 
 
 2. Die vorgesetzte Dienststelle muss eine Bescheinigung ausgestellt haben, mit der die Angaben nach Nummer 1 Buchstabe b, e und §§ 7.05 und 7.06 bestätigt werden.
 
-
-## § 7.05 – Streckenkundepflichtige Strecke
+# § 7.05 – Streckenkundepflichtige Strecke
 
 Ohne Rücksicht auf die betreffende Patentart sind spezifische Streckenkenntnisse darüber hinaus zwischen den Schleusen Iffezheim (km 335,92) und der Spyck’schen Fähre (km 857,40) erforderlich.
 
-
-## § 7.06 – Erwerb der Streckenkenntnisse
+# § 7.06 – Erwerb der Streckenkenntnisse
 
 1. Wer ein Rheinpatent oder ein Streckenzeugnis erwerben will, muss den beantragten Abschnitt, der sich zwischen den Schleusen Iffezheim und der Spyck’schen Fähre befindet, im Laufe der letzten zehn Jahre mindestens 16 Mal durchfahren haben, davon mindestens drei Mal in jede Richtung in den letzten drei Jahren.
 
@@ -1120,22 +1047,19 @@ c) Wer ein Behördenpatent erwerben will, muss seine Fahrten an Bord eines Fahrz
 
 2. Darüber hinaus wird eine mit Erfolg abgelegte Prüfung vorgeschrieben; in dieser Prüfung wird die Beschreibung des Fahrwegs in der Berg- und in der Talfahrt sowie die Beschreibung der Abmessungen der Schifffahrtsstraße gefordert; dazu gehört auch, dass die Kandidaten die Polizeivorschriften für diese Strecke anwenden können (Anlage D7).
 
-
-## § 7.07 – Streckenzeugnis
+# § 7.07 – Streckenzeugnis
 
 1. Bewerber um ein Patent für einen Abschnitt, der die in § 7.05 definierte Strecke ganz oder teilweise umfasst, und Inhaber von als gleichwertig anerkannten Schiffsführerzeugnissen, die die in § 7.05 definierte Strecke ganz oder teilweise befahren wollen, müssen die erforderlichen Streckenkenntnisse nachweisen können.
 
 2. Als Nachweis für die Streckenkenntnis wird auf der Patentkarte die Strecke eingetragen, für die diese Patentkarte gilt. Für mit dem Großen Patent als gleichwertig anerkannte Schiffsführerzeugnisse wird die Streckenkenntnis durch ein Streckenzeugnis nach Anlage D3 nachgewiesen.
 
-
-## § 7.08 – Prüfungskommission
+# § 7.08 – Prüfungskommission
 
 1. Die zuständige Behörde bildet für die Abnahme der Prüfungen eine oder mehrere Prüfungskommissionen. Jede Prüfungskommission besteht aus einem Vorsitzenden, der Angehöriger der Verwaltung einer der Rheinuferstaaten oder Belgiens ist, und mindestens zwei Beisitzern mit ausreichender Sachkunde.
 
 2. Die Prüfungskommission für das Rheinpatent muss so besetzt sein, dass mindestens ein Prüfer Inhaber des Patentes der beantragten Art oder des Großen Patentes und dieser oder ein weiterer Prüfer Inhaber eines Patentes für die beantragte Strecke ist.
 
-
-## § 7.09 – Antrag auf Erwerb oder Erweitern eines Rheinpatentes
+# § 7.09 – Antrag auf Erwerb oder Erweitern eines Rheinpatentes
 
 1. Wer ein Rheinpatent erwerben oder ein Rheinpatent erweitern will, hat einen Antrag auf Zulassung zur Prüfung und Erteilung des Patentes mit folgenden Angaben an die zuständige Behörde zu richten:
 
@@ -1185,8 +1109,7 @@ b) eine Kopie des Personalausweises oder des Reisepasses;
 
 c) eine Kopie des gültigen Rheinpatents.
 
-
-## § 7.10 – Antrag auf Erwerb oder Erweitern eines Streckenzeugnisses
+# § 7.10 – Antrag auf Erwerb oder Erweitern eines Streckenzeugnisses
 
 1. Wer ein Streckenzeugnis erwerben oder erweitern will, hat einen Antrag auf Zulassung zur Prüfung und Erteilung des Streckenzeugnisses mit folgenden Angaben an die zuständige Behörde zu richten:
 
@@ -1204,11 +1127,9 @@ c) eine Kopie des von der ZKR gemäß § 6.02 Nr. 1 als gleichwertig anerkannten
 
 d) der Nachweis der Streckenfahrten.
 
+# § 7.11 – Zulassung zur Prüfung
 
-## § 7.11 – Zulassung zur Prüfung
-
-1. Nach Vorlage der vollständigen Antragsunterlagen nach § 7.09 Nr. 1 bis 4 wird zur Prüfung für den Erwerb eines Rheinpatents zugelassen, wer die Anforderungen nach den §§ 7.01, 7.02 mit Ausnahme von deren Nummer 3 Buchstabe c, oder den § 7.03 mit Ausnahme von Nummer 2 Buchstabe c, erfüllt. Ergibt sich aus dem ärztlichen Zeugnis nur die eingeschränkte Tauglichkeit, ist die Zulassung zur Prüfung trotzdem möglich. In diesem Fall kann die zuständige Behörde das Patent mit Auflagen verbinden, die bei dessen Ausstellung darin eingetragen werden. Wird der Antrag abgelehnt, ist dies zu begründen.  
-  
+1. Nach Vorlage der vollständigen Antragsunterlagen nach § 7.09 Nr. 1 bis 4 wird zur Prüfung für den Erwerb eines Rheinpatents zugelassen, wer die Anforderungen nach den §§ 7.01, 7.02 mit Ausnahme von deren Nummer 3 Buchstabe c, oder den § 7.03 mit Ausnahme von Nummer 2 Buchstabe c, erfüllt. Ergibt sich aus dem ärztlichen Zeugnis nur die eingeschränkte Tauglichkeit, ist die Zulassung zur Prüfung trotzdem möglich. In diesem Fall kann die zuständige Behörde das Patent mit Auflagen verbinden, die bei dessen Ausstellung darin eingetragen werden. Wird der Antrag abgelehnt, ist dies zu begründen.   
 Die zuständige Behörde kann bei einer Person, deren Strafregisterauszug oder andere gleichwertige Urkunde nicht zufriedenstellend ist, anordnen, dass diese vor Ablauf einer bestimmten Frist nicht zu einer Prüfung zugelassen werden darf (Sperrfrist).
 
 2. Wer ein Rheinpatent auf einen anderen Streckenabschnitt erweitern will, wird nach Vorlage der vollständigen Antragsunterlagen nach § 7.09 Nr. 1 und 5 zugelassen.
@@ -1217,8 +1138,7 @@ Die zuständige Behörde kann bei einer Person, deren Strafregisterauszug oder a
 
 4. Wer ein Streckenzeugnis erwerben oder erweitern will, wird nach Vorlage der vollständigen Antragsunterlagen nach § 7.10 zur Prüfung zugelassen.
 
-
-## § 7.12 – Prüfung
+# § 7.12 – Prüfung
 
 1. Der Bewerber der Prüfung hat vor einer Prüfungskommission nachzuweisen, dass er
 
@@ -1230,8 +1150,7 @@ b) die erforderliche Streckenkenntnis hat, wenn nach § 7.05 für die betreffend
 
 3. Bei Nichtbestehen der Prüfung werden dem Bewerber die Gründe mitgeteilt. Die Prüfungskommission kann die erneute Teilnahme an einer Prüfung mit Auflagen oder Bedingungen verbinden oder dafür Befreiungen gewähren.
 
-
-## § 7.13 – Befreiungen und Erleichterungen
+# § 7.13 – Befreiungen und Erleichterungen
 
 1. Wer eine berufsbezogene Abschlussprüfung bestanden hat, kann von dem Teil der Prüfung befreit werden, der sich auf diejenigen Kenntnisse und Fertigkeiten bezieht, die Gegenstand einer von der ZKR als gleichwertig anerkannten Prüfung waren.
 
@@ -1243,11 +1162,9 @@ b) die erforderliche Streckenkenntnis hat, wenn nach § 7.05 für die betreffend
 
 5. Wer ein Rheinpatent besitzt, kann beim Erwerb einer anderen Rheinpatentart nach § 6.04 oder bei der Erweiterung auf einen anderen Stromabschnitt von dem Teil der Prüfung befreit werden, der sich auf diejenigen Kenntnisse oder Fertigkeiten bezieht, die bei der Erteilung des vorhandenen Rheinpatentes nachgewiesen wurden.
 
+# § 7.14 – Ausstellung und Erweiterung der Rheinpatente
 
-## § 7.14 – Ausstellung und Erweiterung der Rheinpatente
-
-1. Hat der Bewerber die Prüfung bestanden, erteilt ihm die ausstellende Behörde das entsprechende Rheinpatent nach dem Muster der Anlage D1.  
-  
+1. Hat der Bewerber die Prüfung bestanden, erteilt ihm die ausstellende Behörde das entsprechende Rheinpatent nach dem Muster der Anlage D1.   
 Die Patentkarte erhält den Aufdruck:  
   
 „Großes Patent“, „Kleines Patent“, „Sportpatent“ oder „Behördenpatent“.
@@ -1260,18 +1177,15 @@ Die Patentkarte erhält den Aufdruck:
 
 5. Ist eine Patentkarte unbrauchbar geworden, verloren gegangen oder sonst abhanden gekommen, stellt die ausstellende Behörde auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Der Inhaber muss gegenüber der zuständigen Behörde den Verlust glaubhaft machen. Eine unbrauchbar gewordene oder wieder aufgefundene Patentkarte ist bei der ausstellenden Behörde abzuliefern oder ihr zur Entwertung vorzulegen.
 
-
-## § 7.15 – Ausstellung des Streckenzeugnisses
+# § 7.15 – Ausstellung des Streckenzeugnisses
 
 Hat der Bewerber die Prüfung für die Streckenkenntnisse nach § 7.06 Nr. 2 bestanden, erteilt ihm die zuständige Behörde ein Streckenzeugnis nach dem Muster der Anlage D3.
 
-
-## § 7.16 – Kosten
+# § 7.16 – Kosten
 
 Die Prüfung, die Erteilung, Erweiterung und Erstreckung des Rheinpatentes oder eines Streckenzeugnisses sowie die Ersatzausfertigung und der Umtausch erfolgen gegen angemessene Erstattung der Kosten durch den Antragsteller. Die Höhe der Kosten bestimmt die zuständige Behörde. Sie kann die Kosten ganz oder teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
-
-## § 7.17 – Regelmäßige Überprüfung der Tauglichkeit
+# § 7.17 – Regelmäßige Überprüfung der Tauglichkeit
 
 1. Wer das Große Patent, das Kleine Patent, das Sportpatent oder ein von der ZKR als gleichwertig anerkanntes Schiffsführerzeugnis besitzt, muss den Nachweis seiner Tauglichkeit gemäß § 3.04 Buchstabe a) dieser Verordnung erneuern.
 
@@ -1279,8 +1193,7 @@ Die Prüfung, die Erteilung, Erweiterung und Erstreckung des Rheinpatentes oder 
 
 3. Inhaber von als gleichwertig anerkannten Zeugnissen haben das ärztliche Zeugnis einer Behörde vorzulegen, die zur Ausstellung eines Rheinpatentes berechtigt ist oder der Behörde vorzulegen, die das als gleichwertig anerkannte Zeugnis ausgestellt hat.
 
-
-## § 7.18 – Nachweis der Tauglichkeit von Inhabern eines Rheinpatents ab dem Alter von 50 Jahren
+# § 7.18 – Nachweis der Tauglichkeit von Inhabern eines Rheinpatents ab dem Alter von 50 Jahren
 
 1. Die ausstellende Behörde stellt dem Patentinhaber auf Vorlage des ärztlichen Zeugnisses und auf der Grundlage dieses Zeugnisses folgende Unterlagen aus:
 
@@ -1299,19 +1212,16 @@ Auf dem Bescheid zur Tauglichkeit nach Anlage B3 ist das Gültigkeitsdatum einzu
 
 4. Wird eine neue Patentkarte nicht erteilt, ist das Rheinpatent nur gültig, wenn der Patentinhaber im Besitz eines Bescheids zur Tauglichkeit nach Anlage B3 oder eines von der zuständigen Behörde beglaubigten ärztlichen Zeugnisses nach Anlage B2 ist.
 
+# § 7.19 – Nachweis der Tauglichkeit von Inhabern eines als gleichwertig anerkannten Schiffsführerzeugnisses ab dem Alter von 50 Jahren
 
-## § 7.19 – Nachweis der Tauglichkeit von Inhabern eines als gleichwertig anerkannten Schiffsführerzeugnisses ab dem Alter von 50 Jahren
-
-1. Die zuständige Behörde, wie sie in § 7.17 Nummer 3 definiert wird, erteilt auf Vorlage des ärztlichen Zeugnisses und auf dessen Grundlage dem Inhaber eines von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisses ab dem vollendeten 50. Lebensjahr einen Bescheid zur Tauglichkeit nach dem Muster der Anlage B3.  
-  
+1. Die zuständige Behörde, wie sie in § 7.17 Nummer 3 definiert wird, erteilt auf Vorlage des ärztlichen Zeugnisses und auf dessen Grundlage dem Inhaber eines von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisses ab dem vollendeten 50. Lebensjahr einen Bescheid zur Tauglichkeit nach dem Muster der Anlage B3.   
 Gelten nach der nationalen Regelung für die Erneuerung des Tauglichkeitsnachweises dieselben Bedingungen wie nach dieser Verordnung und ist die mit dem Antrag befasste Behörde die Ausstellungsbehörde des als gleichwertig anerkannten Schiffsführerzeugnisses, kann diese auch statt eines Bescheides zur Tauglichkeit nach dem Muster der Anlage B3 bei jeder Erneuerung des Tauglichkeitsnachweises ein neues Schiffsführerzeugnis ausstellen, auf dem dessen Gültigkeitsdatum vermerkt ist.
 
 2. Ergibt sich aus dem ärztlichen Zeugnis nur eine eingeschränkte Tauglichkeit, trägt die zuständige Behörde auf dem Bescheid zur Tauglichkeit oder dem erneuerten Schiffsführerzeugnis die ergänzenden Auflagen bezüglich der Gültigkeit des als gleichwertig anerkannten Schiffsführerzeugnisses auf dem Rhein ein.
 
 3. Wird ein neues Schiffsführerzeugnis nicht erteilt, ist das als gleichwertig anerkannte Schiffsführerzeugnis auf dem Rhein nach Vollendung des 50. Lebensjahres nur gültig, wenn der Inhaber im Besitz eines Bescheides zur Tauglichkeit nach Anlage B3 ist.
 
-
-## § 7.20 – Aussetzen der Gültigkeit des Rheinpatentes
+# § 7.20 – Aussetzen der Gültigkeit des Rheinpatentes
 
 1. Die Gültigkeit des Rheinpatentes ruht
 
@@ -1327,8 +1237,7 @@ b) kann sie die Gültigkeit des Patents für eine Dauer aussetzen, die das Datum
 
 3. Im Falle der Nummer 1 Buchstabe a ist das Rheinpatent der zuständigen Behörde zur amtlichen Verwahrung vorzulegen.
 
-
-## § 7.21 – Ablauf der Gültigkeit eines als gleichwertig anerkannten Schiffsführerzeugnisses auf dem Rhein
+# § 7.21 – Ablauf der Gültigkeit eines als gleichwertig anerkannten Schiffsführerzeugnisses auf dem Rhein
 
 Das von der ZKR als gleichwertig anerkannte Schiffsführerzeugnis verliert, auch ohne dass es dazu einer besonderen Entscheidung bedarf, seine Gültigkeit auf dem Rhein,
 
@@ -1336,8 +1245,7 @@ a) wenn der Bescheid zur Tauglichkeit gemäß Anlage B3 nicht vorgelegt oder inn
 
 b) wenn in den Fällen, in denen die ZKR gemäß § 7.19 Nr. 1 die Ausstellung eines neuen Schiffsführerzeugnisses als gültigen Nachweis für die Erneuerung der Tauglichkeit anerkennt, das Gültigkeitsdatum des als gleichwertig anerkannten Schiffsführerzeugnisses seit mindestens drei Monaten abgelaufen ist.
 
-
-## § 7.22 – Entzug des Rheinpatentes
+# § 7.22 – Entzug des Rheinpatentes
 
 1. Erweist sich der Inhaber eines Rheinpatentes zum Führen von Fahrzeugen als ungeeignet im Sinne der §§ 7.01, 7.02 oder 7.03, hat die ausstellende Behörde ihm das Patent zu entziehen.
 
@@ -1355,8 +1263,7 @@ b) der Bewerber um ein neues Patent für die Zulassung zu einer erneuten Prüfun
 
 6. Die entziehende Behörde teilt der ZKR den Entzug mit. Stellt eine zuständige Behörde Tatsachen fest, die einen Entzug rechtfertigen können, teilt sie dies der ausstellenden Behörde mit.
 
-
-## § 7.23 – Fahrverbot für den Inhaber eines als gleichwertig anerkannten Schiffsführerzeugnisses
+# § 7.23 – Fahrverbot für den Inhaber eines als gleichwertig anerkannten Schiffsführerzeugnisses
 
 1. Bestehen Zweifel an der körperlichen oder geistigen Tauglichkeit des Inhabers eines von der ZKR als gleichwertig anerkannten Schiffsführerzeugnisses, kann die zuständige Behörde oder das zuständige Gericht ein vorübergehendes Fahrverbot auf dem Rhein anordnen, bis ein neues ärztliches Zeugnis nach Anlage B2 oder ein von der ZKR als gleichwertig anerkanntes Zeugnis vorgelegt wird; die zuständige Behörde unterrichtet die ZKR und die ausstellende Behörde über ihre Entscheidung. Werden die Zweifel mit Vorlage des ärztlichen Zeugnisses ausgeräumt, ist die Anordnung aufzuheben. Die Kosten für die Ausstellung des neuen ärztlichen Zeugnisses trägt der Inhaber nur, wenn sich die Vermutung als begründet erweist.
 
@@ -1368,8 +1275,7 @@ b) bei häufigen Verstößen gegen wichtige Sicherheits- oder Verhaltensvorschri
 
 3. Soweit keine Dringlichkeit besteht, wird die Anordnung nach Anhörung des Inhabers des genannten Schiffsführerzeugnisses getroffen; die ausstellende Behörde und die ZKR werden über diese Anhörung und die von der zuständigen Behörde getroffene Entscheidung unterrichtet.
 
-
-## § 7.24 – Sicherstellung eines Rheinpatentes
+# § 7.24 – Sicherstellung eines Rheinpatentes
 
 1. Sind dringende Gründe für die Annahme vorhanden, dass ein Rheinpatent entzogen (§ 7.22) oder sein Aussetzen angeordnet (§ 7.20 Nr. 1 Buchstabe a) wird, oder besteht die ernsthafte Vermutung eines betrügerischen Erwerbs der Urkunde, so kann die zuständige Behörde die vorläufige Sicherstellung des Patentes anordnen.
 
@@ -1379,8 +1285,7 @@ b) bei häufigen Verstößen gegen wichtige Sicherheits- oder Verhaltensvorschri
 
 4. Die vorläufige Sicherstellung des Rheinpatentes ist aufzuheben und das Patent dem Inhaber zurückzugeben, wenn der Grund für die Anordnung weggefallen ist, das Aussetzen nicht angeordnet oder das Rheinpatent nicht entzogen wird.
 
-
-## § 7.25 – Sicherstellung eines als gleichwertig anerkannten Schiffsführerzeugnisses
+# § 7.25 – Sicherstellung eines als gleichwertig anerkannten Schiffsführerzeugnisses
 
 1. Sind dringende Gründe für die Annahme vorhanden, dass das Schiffsführerzeugnis entzogen oder sein Aussetzen durch die ausstellende Behörde angeordnet wird, oder besteht die ernsthafte Vermutung eines betrügerischen Erwerbs der Urkunde, so kann die zuständige Behörde die vorläufige Sicherstellung des Patentes anordnen.
 
@@ -1388,8 +1293,7 @@ b) bei häufigen Verstößen gegen wichtige Sicherheits- oder Verhaltensvorschri
 
 3. Die ausstellende Behörde nimmt die notwendigen Überprüfungen vor und unterrichtet die zuständige Behörde, die das Zeugnis sichergestellt hat, und die ZKR unverzüglich über die Gültigkeit der Urkunde.
 
-
-## § 8.01 – Allgemeine Bestimmungen
+# § 8.01 – Allgemeine Bestimmungen
 
 Wer ein Radarpatent erwerben will, muss
 
@@ -1399,8 +1303,7 @@ b) Inhaber eines Schifferpatentes und
 
 c) Inhaber eines Sprechfunkzeugnisses sein.
 
-
-## § 8.02 – Antrags- und Zulassungsverfahren
+# § 8.02 – Antrags- und Zulassungsverfahren
 
 1. Wer ein Radarpatent erwerben will, hat einen Antrag auf Zulassung zur Prüfung und Erteilung des Patentes mit folgenden Angaben an die zuständige Behörde zu richten:
 
@@ -1420,15 +1323,13 @@ c) eine Kopie des Schifferpatentes;
 
 d) eine Kopie des Sprechfunkzeugnisses.
 
-
-## § 8.03 – Prüfungskommission
+# § 8.03 – Prüfungskommission
 
 1. Die zuständige Behörde bildet für die Abnahme der Prüfungen eine oder mehrere Prüfungskommissionen. Jede Prüfungskommission besteht aus einem Vorsitzenden, der Angehöriger der zuständigen Behörde ist, und mindestens zwei Prüfern mit ausreichender Sachkunde.
 
 2. Der Prüfer, der den praktischen Teil der Prüfung beaufsichtigt, muss Inhaber des Radarpatentes sein.
 
-
-## § 8.04 – Prüfung
+# § 8.04 – Prüfung
 
 1. Der Bewerber hat in einer Prüfung vor einer Prüfungskommission nach § 8.03 nachzuweisen, dass er entsprechend dem Prüfungsprogramm in Anlage D8 (theoretischer und praktischer Teil) über ausreichende Kenntnisse für das Führen eines Fahrzeuges mit Radar verfügt.
 
@@ -1440,8 +1341,7 @@ d) eine Kopie des Sprechfunkzeugnisses.
 
 5. Die Prüfungskommission teilt jedem Bewerber persönlich das Ergebnis seiner Prüfung mit. Sie muss auf Antrag des Bewerbers mündliche Auskünfte über dessen Fehler erteilen und kann auch Einsicht in dessen Prüfungsunterlagen gewähren.
 
-
-## § 8.05 – Ausstellung des Radarpatentes
+# § 8.05 – Ausstellung des Radarpatentes
 
 1. Hat der Bewerber die Prüfung bestanden, erteilt ihm die zuständige Behörde das Radarpatent nach dem Muster der Anlage D4.
 
@@ -1453,30 +1353,25 @@ d) eine Kopie des Sprechfunkzeugnisses.
 
 4. Ist ein Radarpatent unbrauchbar geworden, verloren gegangen oder sonst abhanden gekommen, stellt die ausstellende Behörde auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Der Inhaber muss gegenüber der zuständigen Behörde den Verlust glaubhaft machen. Ein unbrauchbar gewordenes oder wieder aufgefundenes Patent ist bei der ausstellenden Behörde abzuliefern oder ihr zur Entwertung vorzulegen.
 
-
-## § 8.06 – Entzug des Radarpatentes
+# § 8.06 – Entzug des Radarpatentes
 
 Das Radarpatent kann durch die ausstellende Behörde, die es erteilt hat, entzogen werden, wenn der Inhaber bei der Führung des Fahrzeuges mit Radar eine für die Schifffahrt gefahrbringende Unfähigkeit gezeigt hat. Das Radarpatent kann auf Zeit oder für dauernd entzogen werden.
 
-
-## § 8.07 – Maßnahmen gegen Inhaber eines als gleichwertig anerkannten Radarzeugnisses
+# § 8.07 – Maßnahmen gegen Inhaber eines als gleichwertig anerkannten Radarzeugnisses
 
 1. Die zuständige Behörde oder das zuständige Gericht kann für einen Schiffsführer, der Inhaber eines als gleichwertig anerkannten Radarzeugnisses ist, ein vorübergehendes oder endgültiges Verbot zur Führung eines Fahrzeugs mit Radar auf dem Rhein anordnen, wenn der Inhaber bei der Führung des Fahrzeugs eine für die Schifffahrt gefahrbringende Unfähigkeit gezeigt hat.
 
 2. Soweit keine Dringlichkeit besteht, wird die Anordnung nach Anhörung des Inhabers des genannten Radarzeugnisses getroffen; die ausstellende Behörde und die ZKR werden über diese Anhörung und die von der zuständigen Behörde getroffene Entscheidung unterrichtet.
 
-
-## § 8.08 – Kosten
+# § 8.08 – Kosten
 
 Die Prüfung, die Erteilung, die Ersatzausfertigung und der Umtausch des Radarpatentes erfolgen gegen angemessene Erstattung der Kosten durch den Antragsteller. Die Höhe der Kosten bestimmt die zuständige Behörde. Sie kann die Kosten ganz oder teilweise ab dem Zeitpunkt der Antragstellung erheben.
 
-
-## § 9.01 – Gültigkeit der Bordbücher und Schifferdienstbücher
+# § 9.01 – Gültigkeit der Bordbücher und Schifferdienstbücher
 
 Bordbücher und Schifferdienstbücher, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften ausgestellt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zu ihrer Erneuerung gültig.
 
-
-## § 9.02 – Gültigkeit der bisherigen Patente
+# § 9.02 – Gültigkeit der bisherigen Patente
 
 1. Patente, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften zum Führen von Fahrzeugen auf dem Rhein erteilt worden sind oder weitergelten, bleiben nach Maßgabe der bisherigen Vorschriften bis zur ersten Erneuerung des Tauglichkeitsnachweises gültig.
 
@@ -1486,8 +1381,7 @@ Bordbücher und Schifferdienstbücher, die nach den bis zum Inkrafttreten dieser
 
 4. Radarpatente und Radarschifferzeugnisse, die nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften erteilt worden sind, bleiben nach Maßgabe der bisherigen Vorschriften gültig. Sie können in Radarpatente nach dieser Verordnung umgetauscht werden.
 
-
-## § 9.03 – Zuordnung der Patentarten
+# § 9.03 – Zuordnung der Patentarten
 
 1. Gültige Patente nach § 9.02 Nr. 1 entsprechen den Patenten nach § 6.04 Nr. 1 dieser Verordnung wie folgt:  
   
@@ -1509,39 +1403,33 @@ dieser Verordnung</td></tr><tr class="even"><td style="text-align: center;">Rhei
 
 2. Ein gültiges Patent kann nach Maßgabe der Tabelle in Nummer 1 in das entsprechende Patent für die gleiche Strecke umgetauscht werden.
 
-
-## § 9.04 – Anrechnung von Fahrzeiten
+# § 9.04 – Anrechnung von Fahrzeiten
 
 Die Fahrzeit und die Streckenfahrten, die vor Inkrafttreten dieser Verordnung geleistet wurden, werden nach Maßgabe der bisherigen Vorschriften angerechnet.
 
-
-## § 9.05 – Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
+# § 9.05 – Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
 
 Besatzungsmitglieder von Fahrzeugen, die vor dem 1. Juli 2016 mit der Nutzung von Flüssigerdgas (LNG) als Brennstoff begonnen haben, erhalten von den zuständigen Behörden eine Bescheinigung gemäß § 4a.02, wenn sie aufgrund einer Empfehlung der ZKR nach Anhang II § 2.19 der Binnenschiffsuntersuchungsordnung geschult wurden und mindestens 90 Tage Fahrzeit auf derartigen Schiffen nachweisen können.
 
-
-## Anlage A1 – (Muster)Bordbuch
+# Anlage A1 – (Muster)Bordbuch
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 35 - 37)
 
 <a href="../normengrafiken/bgbl2_2018/j0382_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage A1a – Zuständige Behörden für die Ausstellung von auf dem Rhein gültigen Bordbüchern
+# Anlage A1a – Zuständige Behörden für die Ausstellung von auf dem Rhein gültigen Bordbüchern
 
 (Fundstelle: BGBl. II 2016, S. 718)
 
 Die Liste der zuständigen Behörden wird von der ZKR auf der Website www.ccr-zkr.org bekannt gemacht.
 
-
-## Anlage A2 – (Muster)Schifferdienstbuch
+# Anlage A2 – (Muster)Schifferdienstbuch
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 38 - 59)
 
 <a href="../normengrafiken/bgbl2_2011/j0038_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage A3 – Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord in Anwendung des § 3.10 dieser Verordnung
+# Anlage A3 – Anforderungen an den Fahrtenschreiber und Vorschriften betreffend den Einbau von Fahrtenschreibern an Bord in Anwendung des § 3.10 dieser Verordnung
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 60 - 61)
 
@@ -1610,8 +1498,7 @@ Beim Einbau von Fahrtenschreibern an Bord sind folgende Bedingungen einzuhalten:
 
 5. Die technischen Einrichtungen zur Erfassung der Schiffsbewegung sind äußerst betriebssicher zu installieren und gegen unberechtigte Eingriffe zu sichern. Hierzu ist die Übertragungsleitung (einschließlich des Signalgebers und Geräteeingangs) für die Signale von der Antriebsanlage zum Gerät durch geeignete Maßnahmen zu sichern und die Leitungsunterbrechung zu überwachen. Hierfür geeignet sind z. B. Plomben oder Siegel, die mit besonderen Zeichen versehen sind, sowie sichtbare Leitungsverlegung, Überwachungskreise.
 
-6. Die anerkannte Fachfirma, die den Einbau durchgeführt oder überwacht hat, führt nach Fertigstellung der Installation eine Funktionsprüfung durch. Sie stellt über die besonderen Merkmale der Anlage (insbesondere Lage und Art von Plomben oder Siegel sowie deren Zeichen und der Überwachungseinrichtungen) und die ordnungsgemäße Funktion eine Bescheinigung aus, die auch Angaben über das zugelassene Gerät enthalten muss. Nach jeder Erneuerung, Änderung oder Instandsetzung ist eine erneute Überprüfung notwendig, die in der Bescheinigung zu vermerken ist.  
-  
+6. Die anerkannte Fachfirma, die den Einbau durchgeführt oder überwacht hat, führt nach Fertigstellung der Installation eine Funktionsprüfung durch. Sie stellt über die besonderen Merkmale der Anlage (insbesondere Lage und Art von Plomben oder Siegel sowie deren Zeichen und der Überwachungseinrichtungen) und die ordnungsgemäße Funktion eine Bescheinigung aus, die auch Angaben über das zugelassene Gerät enthalten muss. Nach jeder Erneuerung, Änderung oder Instandsetzung ist eine erneute Überprüfung notwendig, die in der Bescheinigung zu vermerken ist.   
 Die Bescheinigung muss mindestens folgende Angaben enthalten:
 
 \-  
@@ -1630,33 +1517,28 @@ Typ und Seriennummer des Fahrtenschreibers;
 Datum der Funktionsprüfung.
 
   
-Die Gültigkeit der Bescheinigung beträgt 5 Jahre.  
-  
+Die Gültigkeit der Bescheinigung beträgt 5 Jahre.   
 Die Bescheinigung dient dem Nachweis, dass es sich um ein zugelassenes Gerät handelt, welches durch eine anerkannte Fachfirma installiert und auf seine ordnungsgemäße Funktion überprüft wurde.
 
 7. Der Schiffsführer ist durch die anerkannte Fachfirma in der Bedienung des Gerätes zu unterweisen und eine Bedienungsanleitung ist zum Verbleib an Bord auszuhändigen. Dies ist in der Bescheinigung über den Einbau zu vermerken.
 
-
-## Anlage A4 – (Muster)Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
+# Anlage A4 – (Muster)Bescheinigung für den Nachweis der geforderten Ruhezeit nach § 3.12 Nr. 2 bis 6
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 62)
 
 <a href="../normengrafiken/bgbl2_2011/j0062_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage A5 – Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
+# Anlage A5 – Als gleichwertig anerkannte im Ausland ausgestellte Schifferdienstbücher
 
 (Fundstelle: BGBl. II 2017, 324)
 
 Die Liste der als gleichwertig anerkannten im Ausland ausgestellten Schifferdienstbücher und der dazu gehörigen Informationen über die ausstellenden Behörden werden von der ZKR auf der Website www.ccr-zkr.org bekannt gemacht.
 
-
-## Anlage B1 – Mindestanforderungen an die Tauglichkeit
+# Anlage B1 – Mindestanforderungen an die Tauglichkeit
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 64)
 
-I.  
-Sehvermögen
+I. Sehvermögen
 
 1. Tagessehschärfe:  
   
@@ -1668,8 +1550,7 @@ Nur in Zweifelsfällen zu prüfen. Mesotest ohne Blendung bei einem Umfeld von 0
 
 3. Dunkeladaption:  
   
-Nur in Zweifelsfällen zu prüfen.  
-Das Ergebnis darf nicht mehr als eine log-Einheit von der Normalkurve abweichen.
+Nur in Zweifelsfällen zu prüfen. Das Ergebnis darf nicht mehr als eine log-Einheit von der Normalkurve abweichen.
 
 4. Gesichtsfeld:  
   
@@ -1677,8 +1558,7 @@ Einschränkungen im Gesichtsfeld des Auges mit der besseren Sehschärfe sind nic
 
 5. Farbunterscheidungsvermögen:  
   
-Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Bewerber den Farnsworth-Panel-D15-Test oder einen anerkannten Farbtafeltest besteht. In Zweifelsfällen Prüfung mit dem Anomaloskop, wobei der Anomal-Quotient bei normaler Trichromasie zwischen 0,7 und 1,4 liegen muss, oder mit einem anderen anerkannten gleichwertigen Test.  
-  
+Das Farbunterscheidungsvermögen ist als ausreichend anzusehen, wenn der Bewerber den Farnsworth-Panel-D15-Test oder einen anerkannten Farbtafeltest besteht. In Zweifelsfällen Prüfung mit dem Anomaloskop, wobei der Anomal-Quotient bei normaler Trichromasie zwischen 0,7 und 1,4 liegen muss, oder mit einem anderen anerkannten gleichwertigen Test.   
 Anerkannte Farbtafeltests sind:
 
 a) Ishihara nach den Tafeln 12 bis 14,
@@ -1701,8 +1581,7 @@ II. Hörvermögen
   
 Das Hörvermögen ist als ausreichend anzusehen, wenn der Mittelwert der Hörverluste der beiden Ohren bei den Frequenzen 500, 1 000, 2 000 und 3 000 Hz den Wert von 40 dB nicht überschreitet. Wenn der Wert von 40 dB überschritten wird, ist das Hörvermögen jedoch als ausreichend anzusehen, wenn die Sprache in gewöhnlicher Lautstärke mit einem Hörgerät auf 2 m von jedem einzelnen Ohr deutlich verstanden wird.
 
-III. Es dürfen keine sonstigen Befunde vorliegen, die die Tauglichkeit ausschließen.  
-  
+III. Es dürfen keine sonstigen Befunde vorliegen, die die Tauglichkeit ausschließen.   
 Das Vorliegen folgender Krankheiten oder körperlicher Mängel kann Anlass zu Bedenken an der Tauglichkeit des Bewerbers geben:
 
 1. Krankheiten, die mit Bewusstseins- oder Gleichgewichtsstörungen einhergehen;
@@ -1725,94 +1604,81 @@ Das Vorliegen folgender Krankheiten oder körperlicher Mängel kann Anlass zu Be
 
 10. Chronischer Alkoholmissbrauch, Betäubungsmittelsucht oder andere Suchtformen.
 
-
-## Anlage B2 – (Muster)Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
+# Anlage B2 – (Muster)Ärztliches Zeugnis über die Untersuchung der Tauglichkeit in der Rheinschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 65 - 66)
 
 <a href="../normengrafiken/bgbl2_2011/j0065_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage B3 – (Muster)Bescheid zur Tauglichkeit
+# Anlage B3 – (Muster)Bescheid zur Tauglichkeit
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 67)
 
 <a href="../normengrafiken/bgbl2_2011/j0067_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage C1 – (Muster)Bescheinigung Sachkundiger für Fahrgastschifffahrt
+# Anlage C1 – (Muster)Bescheinigung Sachkundiger für Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 68)
 
 <a href="../normengrafiken/bgbl2_2011/j0068_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage C2 – (Muster)Bescheinigung Ersthelfer in der Fahrgastschifffahrt
+# Anlage C2 – (Muster)Bescheinigung Ersthelfer in der Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 69)
 
 <a href="../normengrafiken/bgbl2_2011/j0069_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage C3 – (Muster)Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
+# Anlage C3 – (Muster)Bescheinigung Atemschutzgeräteträger in der Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 70)
 
 <a href="../normengrafiken/bgbl2_2011/j0070_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage C4 – (Muster)Bescheinigungsbuch für die Fahrgastschifffahrt
+# Anlage C4 – (Muster)Bescheinigungsbuch für die Fahrgastschifffahrt
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 71 - 80)
 
 <a href="../normengrafiken/bgbl2_2011/j0071_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage D1 – (Muster)Rheinpatent
+# Anlage D1 – (Muster)Rheinpatent
 
 (Fundstelle: BGBl. II 2016, S. 708; bzgl. einzelner Änderungen vgl. Fußnote)
 
-![](../normengrafiken/bgbl2_2016/j0708_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2016/j0708_0010.jpg)  
   
-![](../normengrafiken/bgbl2_2016/j0708_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2016/j0708_0020.jpg)
 
-
-## Anlage D2 – (Muster)Vorläufiges Rheinpatent
+# Anlage D2 – (Muster)Vorläufiges Rheinpatent
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 82)
 
 <a href="../normengrafiken/bgbl2_2011/j0082_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage D3 – (Muster)Streckenzeugnis
+# Anlage D3 – (Muster)Streckenzeugnis
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 83)
 
 <a href="../normengrafiken/bgbl2_2011/j0083_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage D4 – (Muster)Radarpatent
+# Anlage D4 – (Muster)Radarpatent
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 84)
 
 <a href="../normengrafiken/bgbl2_2011/j0084_0010_ab1.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage D5 – Als gleichwertig anerkannte Schiffsführerzeugnisse
+# Anlage D5 – Als gleichwertig anerkannte Schiffsführerzeugnisse
 
 (Fundstelle: BGBl. II 2017, 324)
 
 Die Liste der als gleichwertig anerkannten Schiffsführerzeugnisse und der dazu gehörigen Informationen über die aus stellenden Behörden und die Muster werden von der ZKR auf der Website www.ccr-zkr.org bekannt gemacht.
 
-
-## Anlage D6 – Als gleichwertig anerkannte Befähigungszeugnisse für die Radarfahrt
+# Anlage D6 – Als gleichwertig anerkannte Befähigungszeugnisse für die Radarfahrt
 
 (Fundstelle: BGBl. II 2017, 324)
 
 Die Liste der als gleichwertig anerkannten Befähigungszeugnisse für die Radarfahrt und der dazu gehörigen Informationen über die ausstellenden Behörden und die Muster werden von der ZKR auf der Website www.ccr-zkr.org bekannt gemacht.
 
-
-## Anlage D7 – Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
+# Anlage D7 – Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 102 - 103)
 
@@ -1884,8 +1750,7 @@ geforderte Kenntnisse (Spalte 3)
 
  
 
-
-## Anlage D8 – Prüfungsprogramm für den Erwerb eines Radarpatentes
+# Anlage D8 – Prüfungsprogramm für den Erwerb eines Radarpatentes
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 104 - 105)
 
@@ -2189,24 +2054,21 @@ Erteilen von Ruderkommandos an den Rudergänger
 
 Verhalten bei besonderen Vorkommnissen (z. B. gefährliche Verkehrssituationen oder Ausfall von Geräten).
 
-
-## Anlage E1 – Muster der Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
+# Anlage E1 – Muster der Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als Brennstoff
 
 (Fundstelle: BGBl. II 2016, S. 705; bzgl. einzelner Änderungen vgl. Fußnote)
 
 (Format A6 hoch, Farbe: gelb)  
   
-![](../normengrafiken/bgbl2_2016/j0705_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2016/j0705_0010.jpg)  
   
-![](../normengrafiken/bgbl2_2016/j0705_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl2_2016/j0705_0020.jpg)
 
-
-## Anlage E2 – Programm der Lehrgänge für Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+# Anlage E2 – Programm der Lehrgänge für Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
 
 (Fundstelle: BGBl. II 2016, S. 706 - 707)
 
-A.  
-Theoretischer Teil des Lehrgangs
+A. Theoretischer Teil des Lehrgangs
 
 Der theoretische Teil des Lehrgangs umfasst folgende Themen:
 
@@ -2397,8 +2259,7 @@ Notfallmaßnahmen der einsatzfähigen Wache
 8.11  
 Notfallmaßnahmen während der Fernüberwachung
 
-B.  
-Praktischer Teil des Lehrgangs
+B. Praktischer Teil des Lehrgangs
 
 Der praktische Teil des Lehrgangs umfasst die folgenden Themen:
 

@@ -1,22 +1,17 @@
-# [HeizölLBV] Verordnung über Lieferbeschränkungen für leichtes Heizöl in einer Versorgungskrise  (Heizöl-Lieferbeschränkungs-Verordnung - HeizölLBV)
-
-Ausfertigungsdatum: 26.04.1982
-
+% Verordnung über Lieferbeschränkungen für leichtes Heizöl in einer Versorgungskrise  (Heizöl-Lieferbeschränkungs-Verordnung - HeizölLBV)
+% Ausfertigungsdatum: 26.04.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung mit § 3 Abs. 1 und 3 des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Liefer- und Bezugsbeschränkungen
+# § 1 – Liefer- und Bezugsbeschränkungen
 
 (1) Heizölhändler und im Betrieb von Heizölhändlern Beschäftigte dürfen leichtes Heizöl an Abnehmer nur bis zu der Menge liefern, die sich aus einer Verordnung nach § 2 und in den Fällen besonderen Bedarfs aus einer Bescheinigung nach § 3 Abs. 4 ergibt. Abnehmer dürfen leichtes Heizöl nur bis zu dieser Menge beziehen.
 
 (2) Heizölhändler ist, wer gewerbsmäßig in eigenem oder in fremdem Namen leichtes Heizöl liefert. Abnehmer ist, wer leichtes Heizöl zum Zweck des Endverbrauchs bezieht.
 
-
-## § 2 – Umfang der Lieferung und des Bezugs
+# § 2 – Umfang der Lieferung und des Bezugs
 
 (1) Durch Verordnung werden bestimmt
 
@@ -34,8 +29,7 @@ Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung mit § 3
 
 (3) Werden nach Absatz 2 für bestimmte Verwendungszwecke höhere Vomhundertsätze festgesetzt oder bleiben sie von Liefer- und Bezugsbeschränkungen nach Absatz 1 ausgenommen, so stellen die zuständigen Stellen den Abnehmern für Heizölverbrauchsanlagen, die diesen Zwecken dienen, auf Antrag eine Bescheinigung über den Verwendungszweck der Heizölverbrauchsanlage nach dem Muster der Anlage 1 aus. Der Abnehmer hat nachzuweisen, daß seine Anlage einem der in Absatz 2 genannten Verwendungszwecke dient. Bei Zugehörigkeit des Abnehmers zu einer Industrie- und Handelskammer, Handwerkskammer oder Landwirtschaftskammer kann dieser Nachweis durch eine Bestätigung der zuständigen Kammer erbracht werden, daß die Anlage einem der in Absatz 2 genannten Zwecke dient.
 
-
-## § 3 – Fälle besonderen Bedarfs
+# § 3 – Fälle besonderen Bedarfs
 
 (1) Führt eine Bezugsbeschränkung nach § 2 zu einer unzumutbaren Härte, so können die zuständigen Stellen dem Abnehmer auf Antrag ein zusätzliches Bezugsrecht (in Litern) in dem Umfang bewilligen, der zur Beseitigung der Härte erforderlich ist. Eine unzumutbare Härte liegt vor, wenn die Bezugsbeschränkung erhebliche persönliche oder wirtschaftliche Nachteile zur Folge hat, die über das der Allgemeinheit zugemutete Maß hinausgehen.
 
@@ -45,15 +39,13 @@ Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung mit § 3
 
 (4) Über das nach den Absätzen 1 und 2 bewilligte Bezugsrecht erhält der Abnehmer eine Bescheinigung nach dem Muster der Anlage 2.
 
-
-## § 4 – Referenzmenge auf Grund bisherigen Bezugs und Referenzzeit
+# § 4 – Referenzmenge auf Grund bisherigen Bezugs und Referenzzeit
 
 (1) Die Referenzmenge ist, soweit sich nicht aus den §§ 5 bis 7 etwas anderes ergibt, nach der Menge leichten Heizöls zu bestimmen, die in der Referenzzeit für die Heizölverbrauchsanlage des Abnehmers bezogen worden ist. Die Referenzmenge beträgt ein Drittel dieser Menge (in Litern).
 
 (2) Die Referenzzeit beträgt 36 Monate. Ihr Beginn und ihr Ende werden durch Verordnung festgelegt.
 
-
-## § 5 – Referenzmenge bei Neu- und Zusatzbedarf für Raumheizung
+# § 5 – Referenzmenge bei Neu- und Zusatzbedarf für Raumheizung
 
 (1) Bei Heizölverbrauchsanlagen, die der Raumheizung dienen und die nach Beendigung der Referenzzeit neu in Betrieb genommen werden, errechnet sich die Referenzmenge (in Litern), indem die Fläche (in Quadratmetern) der zur Beheizung eingerichteten Räume mit einem Faktor multipliziert wird, der durch Verordnung bestimmt wird. Entsteht bei Raumheizungsanlagen nach Beendigung der Referenzzeit durch bauliche Erweiterungen ein zusätzlicher Bedarf, so wird die Fläche der zur Beheizung eingerichteten zusätzlichen Räume mit diesem Faktor multipliziert. In der Verordnung können für die verschiedenen Arten und nach dem Alter der Gebäude unterschiedliche Faktoren bestimmt werden.
 
@@ -65,8 +57,7 @@ Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung mit § 3
 
 (5) Über die nach den Absätzen 1 bis 4 ermittelte Referenzmenge stellen die zuständigen Stellen dem Abnehmer auf Antrag eine Bescheinigung nach dem Muster der Anlage 3 aus. Der Abnehmer hat die hierfür erforderlichen Angaben glaubhaft zu machen. Er hat im Falle des Absatzes 4 außerdem anzugeben, bei welchen Heizölhändlern und in welchen Mengen er in der Referenzzeit leichtes Heizöl bezogen hat.
 
-
-## § 6 – Referenzmenge bei Neu- und Zusatzbedarf für öffentliche, gewerbliche, landwirtschaftliche und freiberufliche Zwecke
+# § 6 – Referenzmenge bei Neu- und Zusatzbedarf für öffentliche, gewerbliche, landwirtschaftliche und freiberufliche Zwecke
 
 (1) Bei Heizölverbrauchsanlagen, ausgenommen Raumheizungsanlagen, die ganz oder teilweise öffentlichen, gewerblichen, landwirtschaftlichen oder freiberuflichen Zwecken dienen und die nach Beendigung der Referenzzeit neu in Betrieb genommen werden, bemißt sich die Referenzmenge nach dem Jahresverbrauch vergleichbarer Anlagen. Das gleiche gilt, wenn bei solchen Anlagen nach Beendigung der Referenzzeit durch bauliche Erweiterungen oder durch Veränderungen im Betrieb ein zusätzlicher Bedarf für diese Zwecke entsteht.
 
@@ -74,15 +65,13 @@ Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung mit § 3
 
 (3) Über die nach den Absätzen 1 und 2 ermittelte Referenzmenge erhält der Abnehmer auf Antrag eine Bescheinigung nach dem Muster der Anlage 3. Er hat die erforderlichen Angaben glaubhaft zu machen. Bei Zugehörigkeit des Abnehmers zu einer Industrie- und Handelskammer, Handwerkskammer oder Landwirtschaftskammer kann der Jahresverbrauch vergleichbarer Anlagen durch eine Bestätigung der zuständigen Kammer glaubhaft gemacht werden. Im Falle des Absatzes 2 hat der Abnehmer außerdem anzugeben, bei welchen Heizölhändlern und in welchen Mengen er in der Referenzzeit leichtes Heizöl bezogen hat.
 
-
-## § 7 – Referenzmenge bei Wechsel des Abnehmers
+# § 7 – Referenzmenge bei Wechsel des Abnehmers
 
 (1) Hat bei einer Heizölverbrauchsanlage der Abnehmer während oder nach Beendigung der Referenzzeit gewechselt, so kann der neue Abnehmer die nach § 4 ermittelte Referenzmenge des bisherigen Abnehmers übernehmen. Die zuständigen Stellen bescheinigen dem neuen Abnehmer auf Antrag die Übernahme der Heizölverbrauchsanlage nach dem Muster der Anlage 4. Der neue Abnehmer hat die erforderlichen Angaben glaubhaft zu machen.
 
 (2) Im übrigen ist bei einem Wechsel des Abnehmers während oder nach Beendigung der Referenzzeit die Referenzmenge des neuen Abnehmers nach den §§ 5 und 6 zu bestimmen.
 
-
-## § 8 – Lieferpflicht
+# § 8 – Lieferpflicht
 
 (1) Heizölhändler sind verpflichtet, Abnehmern leichtes Heizöl gegen Bezahlung zu liefern, soweit entsprechende Mengen verfügbar sind.
 
@@ -90,13 +79,11 @@ Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung mit § 3
 
 (3) Heizölhändler dürfen Neukunden gegenüber bisherigen Kunden nicht benachteiligen.
 
-
-## § 9 – Anordnung der Belieferung von Abnehmern
+# § 9 – Anordnung der Belieferung von Abnehmern
 
 Die zuständigen Stellen können gegenüber Heizölhändlern, die ihre Lieferpflicht nach § 8 verletzen, auf Antrag anordnen, ihrer Lieferpflicht nachzukommen.
 
-
-## § 10 – Feststellung der Bezugsrechte der Abnehmer durch Heizölhändler
+# § 10 – Feststellung der Bezugsrechte der Abnehmer durch Heizölhändler
 
 (1) Heizölhändler haben, bevor sie Abnehmer beliefern, deren Bezugsrecht auf folgende Weise festzustellen:
 
@@ -114,8 +101,7 @@ c) Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden sind, sind an
 
 (2) Sind nach Absatz 1 Bescheinigungen vorzulegen, dann dürfen Heizölhändler nur gegen Vorlage der Originale dieser Bescheinigungen liefern. Die auf Grund von Bescheinigungen nach Anlage 2 oder 3 gelieferten Mengen haben sie darin einzutragen.
 
-
-## § 11 – Eintragungen in die Lieferaufzeichnungen der Heizölhändler
+# § 11 – Eintragungen in die Lieferaufzeichnungen der Heizölhändler
 
 (1) Heizölhändler haben bei Lieferungen von leichtem Heizöl, die auf Grund einer bei ihnen bezogenen Referenzmenge erfolgen, diese Menge in ihren Lieferaufzeichnungen neben den jeweiligen Liefermengen einzutragen.
 
@@ -123,8 +109,7 @@ c) Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden sind, sind an
 
 (3) Bei Lieferungen von leichtem Heizöl, die teilweise auf Grund einer bei ihnen bezogenen Referenzmenge und teilweise gegen Vorlage einer Bescheinigung nach dem Muster der Anlage 2 oder 3 erfolgen, haben Heizölhändler in ihre Lieferaufzeichnungen die gelieferten Mengen entsprechend aufgeschlüsselt einzutragen.
 
-
-## § 12 – Bescheinigungen der Heizölhändler über Lieferungen in der Referenzzeit
+# § 12 – Bescheinigungen der Heizölhändler über Lieferungen in der Referenzzeit
 
 (1) Heizölhändler sind verpflichtet, Abnehmern, die sie während der Referenzzeit mit leichtem Heizöl beliefert haben, auf Verlangen unverzüglich und unentgeltlich Bescheinigungen nach dem Muster der Anlage 3 über die von ihnen gelieferten Teile der Referenzmenge auszustellen. Haben Heizölhändler schon vor Ausstellung der Bescheinigungen Lieferungen auf Grund dieser Referenzmengen vorgenommen, haben sie die gelieferten Mengen in die Bescheinigungen einzutragen.
 
@@ -134,13 +119,11 @@ c) Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden sind, sind an
 
 (4) Heizölhändler dürfen Bescheinigungen nach Absatz 1 Abnehmern nur einmal ausstellen.
 
-
-## § 13 – Anordnung der Ausstellung einer Bescheinigung nach § 12
+# § 13 – Anordnung der Ausstellung einer Bescheinigung nach § 12
 
 Die zuständigen Stellen können gegenüber Heizölhändlern, die ihre Pflicht nach § 12 Abs. 1 Satz 1 verletzen, auf Antrag anordnen, ihrer Pflicht zur Ausstellung von Bescheinigungen nachzukommen.
 
-
-## § 14 – Verfahren, wenn Bescheinigungen nicht erlangt werden können oder abhanden gekommen sind
+# § 14 – Verfahren, wenn Bescheinigungen nicht erlangt werden können oder abhanden gekommen sind
 
 (1) Die zuständigen Stellen können Abnehmern, die keine Bescheinigung nach § 12 Abs. 1 erhalten, auf Antrag eine Bescheinigung nach dem Muster der Anlage 3 über die Referenzmenge oder den Teil davon ausstellen, den die Abnehmer von Heizölhändlern, von denen keine Bescheinigung erlangt werden kann, während der Referenzzeit bezogen haben.
 
@@ -148,13 +131,11 @@ Die zuständigen Stellen können gegenüber Heizölhändlern, die ihre Pflicht n
 
 (3) Die zuständigen Stellen können bei Verlust einer Bescheinigung nach dem Muster der Anlage 3 auf Antrag eine Ersatzbescheinigung über den noch nicht ausgenutzten Teil der ursprünglich bescheinigten Referenzmenge ausstellen. Der Abnehmer hat den Verlust, die Angaben über die in der Bescheinigung eingetragene Referenzmenge und die noch nicht ausgenutzte Menge glaubhaft zu machen.
 
-
-## § 15 – Zuständige Stellen
+# § 15 – Zuständige Stellen
 
 Zuständige Stellen sind die nach § 4 Abs. 5 des Energiesicherungsgesetzes 1975 bestimmten Stellen.
 
-
-## § 16 – Aufbewahrungsempfehlung an Abnehmer
+# § 16 – Aufbewahrungsempfehlung an Abnehmer
 
 (1) Heizölhändler haben die ihren Abnehmern ausgestellten Lieferrechnungen über leichtes Heizöl mit der Lieferanschrift und folgender deutlich lesbarer Aufschrift zu versehen:
 
@@ -163,15 +144,13 @@ Zuständige Stellen sind die nach § 4 Abs. 5 des Energiesicherungsgesetzes 1975
 
 (2) Die Rechnungen sollen von den Abnehmern vier Jahre aufbewahrt werden.
 
-
-## § 17 – Aufzeichnungs- und Aufbewahrungspflicht der Heizölhändler
+# § 17 – Aufzeichnungs- und Aufbewahrungspflicht der Heizölhändler
 
 (1) Heizölhändler haben Aufzeichnungen darüber zu führen, an welche Abnehmer (Name oder Firma, Anschrift), wann, in welcher Menge und an welche Lieferanschrift sie leichtes Heizöl geliefert haben, soweit sich die Angaben nicht aus den nach Handels- oder Steuerrecht erforderlichen Büchern oder sonstigen Unterlagen ergeben.
 
 (2) Unbeschadet weitergehender Aufbewahrungsfristen sind die Aufzeichnungen vier Jahre aufzubewahren.
 
-
-## § 18 – Ordnungswidrigkeiten
+# § 18 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
@@ -189,13 +168,11 @@ Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 197
 
 7. entgegen § 17 Abs. 1 oder 2 Aufzeichnungen nicht, nicht richtig oder nicht vollständig führt oder nicht aufbewahrt.
 
-
-## § 19 – Berlin-Klausel
+# § 19 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 17 des Energiesicherungsgesetzes 1975 auch im Land Berlin.
 
-
-## § 20 – Inkrafttreten und Anwendung dieser Verordnung, Übergangsregelung
+# § 20 – Inkrafttreten und Anwendung dieser Verordnung, Übergangsregelung
 
 (1) Diese Verordnung tritt mit Ausnahme der §§ 16 und 17 am Tage nach der Verkündung in Kraft. Die §§ 16 und 17 treten am 1. September 1982 in Kraft.
 
@@ -207,8 +184,7 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 (3) Beginnt die Referenzzeit vor dem 1. Mai 1983, so beträgt sie abweichend von § 4 Abs. 2 24 Monate. Die Referenzmenge beträgt in diesem Fall abweichend von § 4 Abs. 1 Satz 2 die Hälfte der Menge, die in der Referenzzeit für die Heizölverbrauchsanlage des Abnehmers bezogen worden ist. Soweit in anderen Vorschriften auf § 4 Abs. 1 Satz 2 und Abs. 2 verwiesen wird, treten an die Stelle dieser Vorschriften bis zum 1. Mai 1983 die Sätze 1 und 2.
 
-
-## Anlage 1
+# Anlage 1
 
 Fundstelle des Originaltextes: BGBl. I 1982, 541
 
@@ -250,8 +226,7 @@ Fundstelle des Originaltextes: BGBl. I 1982, 541
     -------------------------
          Unterschrift 
 
-
-## Anlage 2
+# Anlage 2
 
 Fundstelle des Originaltextes: BGBl. I 1982, 542
 
@@ -305,8 +280,7 @@ Fundstelle des Originaltextes: BGBl. I 1982, 542
           ------------------ Liter     -------------------------    Firmenstempel
                                           Datum, Unterschrift 
 
-
-## Anlage 3
+# Anlage 3
 
 Fundstelle des Originaltextes: BGBl. I 1982, 543
 
@@ -363,8 +337,7 @@ Fundstelle des Originaltextes: BGBl. I 1982, 543
           ------------------ Liter     -------------------------    Firmenstempel
                                           Datum, Unterschrift 
 
-
-## Anlage 4
+# Anlage 4
 
 Fundstelle des Originaltextes: BGBl. I 1982, 544
 

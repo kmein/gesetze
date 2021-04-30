@@ -1,15 +1,11 @@
-# [OrdenNachwV] Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis von Verwundungen und Beschädigungen
-
-Ausfertigungsdatum: 06.05.1959
-
+% Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis von Verwundungen und Beschädigungen
+% Ausfertigungsdatum: 06.05.1959
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 2, des § 9 Abs. 2 und des § 10 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) - Ordensgesetz - wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Ausstellung eines urkundlichen Besitznachweises
+# § 1 – Ausstellung eines urkundlichen Besitznachweises
 
 (1) Als Besitznachweis für Orden und Ehrenzeichen, die vor dem 8. Mai 1945 verliehen worden sind, gelten auch
 
@@ -21,13 +17,11 @@ c) beglaubigte Abschriften von Verleihungsurkunden und Besitzzeugnissen.
 
 (2) Eine Ersatzurkunde nach § 9 des Ordensgesetzes oder eine Bescheinigung nach Absatz 1 Buchstabe a wird dem Berechtigten nur auf Antrag ausgestellt.
 
-
-## § 2 – Zuständige Behörden
+# § 2 – Zuständige Behörden
 
 Für die Ausstellung einer Ersatzurkunde nach § 9 Abs. 1 des Ordensgesetzes ist, wenn der Berechtigte seinen Wohnsitz oder gewöhnlichen Aufenthalt nicht im Geltungsbereich dieser Verordnung hat, der Bundesminister des Innern, für Bau und Heimat oder die von ihm bestimmte Stelle zuständig.
 
-
-## § 3 – Antragstellung
+# § 3 – Antragstellung
 
 (1) Der Antrag ist von dem Antragsteller schriftlich in doppelter Ausfertigung auf einem Formblatt nach dem Muster der Anlage 1 bei der für die Ausstellung der Ersatzurkunde zuständigen Behörde einzureichen. Für jede Auszeichnung ist ein besonderes Formblatt zu verwenden.
 
@@ -35,8 +29,7 @@ Für die Ausstellung einer Ersatzurkunde nach § 9 Abs. 1 des Ordensgesetzes ist
 
 (3) Soldaten der Bundeswehr und Beamte in der Bundespolizei reichen den Antrag bei ihrem nächsten Disziplinarvorgesetzten ein.
 
-
-## § 4 – Inhalt des Antrags
+# § 4 – Inhalt des Antrags
 
 (1) Der Antrag muß enthalten
 
@@ -62,8 +55,7 @@ Für die Ausstellung einer Ersatzurkunde nach § 9 Abs. 1 des Ordensgesetzes ist
 
 (4) Die für die Entgegennahme des Antrags zuständige Behörde (§ 3) hat auf die Vollständigkeit des Antrags hinzuwirken. Kommt der Antragsteller einer Aufforderung, innerhalb einer zu bestimmenden angemessenen Frist seine Angaben zu ergänzen, nicht nach, so kann der Antrag abgelehnt werden.
 
-
-## § 5 – Prüfung des Antrags
+# § 5 – Prüfung des Antrags
 
 (1) Die für die Ausstellung der Ersatzurkunde zuständige Behörde leitet eine Ausfertigung des Antrags wie folgt weiter:
 
@@ -91,13 +83,11 @@ b) im Übrigen: an die Behörden oder öffentlichen Archive, denen einschlägige
 
 (5) Kommt die Weiterleitung einer Ausfertigung des Antrags nicht in Betracht, so ist nach § 8 Abs. 2 oder nach § 9 zu verfahren.
 
-
-## § 6 – Zweitausfertigung
+# § 6 – Zweitausfertigung
 
 Die in § 5 genannten Stellen erledigen den Antrag durch Ausstellung einer Zweitausfertigung der Verleihungsurkunde oder des Besitzzeugnisses, wenn die Voraussetzungen hierfür gegeben sind und keine Tatsachen bekannt sind, aus denen sich ergibt, daß die Verleihung der Auszeichnung widerrufen oder durch Entziehung oder auf Grund strafgerichtlicher Verurteilung ein Verlust der Auszeichnung eingetreten ist. Die für die Ausstellung der Ersatzurkunde zuständige Behörde und, in den Fällen des § 3 Abs. 3 die Stelle, bei der der Antrag eingereicht wurde, ist von der Ausstellung der Zweitausfertigung zu unterrichten.
 
-
-## § 7 – Bescheinigung
+# § 7 – Bescheinigung
 
 (1) Ist aus den vorhandenen Unterlagen die Verleihung der Auszeichnung ersichtlich, ohne daß jedoch eine Zweitausfertigung (§ 6) ausgestellt werden kann, so stellt die zuständige Stelle (§ 5) dem Antragsteller eine Bescheinigung nach dem Muster der Anlage 2 aus. Dies gilt nicht, wenn Tatsachen bekannt sind, aus denen sich ergibt, daß die Verleihung der Auszeichnung widerrufen oder durch Entziehung oder auf Grund strafgerichtlicher Verurteilung ein Verlust der Auszeichnung eingetreten ist. Die für die Ausstellung der Ersatzurkunde zuständige Behörde und, in den Fällen des § 3 Abs. 3 der Disziplinarvorgesetzte, sind in beiden Fällen zu benachrichtigen.
 
@@ -105,8 +95,7 @@ Die in § 5 genannten Stellen erledigen den Antrag durch Ausstellung einer Zweit
 
 (3) Ergibt sich aus den Unterlagen der Stelle, an die eine Ausfertigung des Antrags weitergeleitet wurde (§ 5 Abs. 1, 2 und 3), daß die in dem Antrag bezeichnete Auszeichnung dem Antragsteller nicht verliehen oder daß die Verleihung widerrufen wurde oder daß er die Auszeichnung durch Entziehung oder auf Grund strafgerichtlicher Verurteilung verloren hat, so benachrichtigt diese Stelle hiervon den Antragsteller (Anlage 3) und teilt der für die Ausstellung der Ersatzurkunde zuständigen Behörde und, in den Fällen des § 3 Abs. 3 der Stelle, bei der der Antrag eingereicht wurde, mit, daß der Antragsteller nicht Inhaber der Auszeichnung ist. Der Antrag ist damit erledigt.
 
-
-## § 8 – Nachweis der Verleihung durch den Antragsteller
+# § 8 – Nachweis der Verleihung durch den Antragsteller
 
 (1) Sind bei der Stelle, an die eine Ausfertigung des Antrags weitergeleitet wurde (§ 5 Abs. 1, 2 und 3), Unterlagen über die Verleihung nicht vorhanden oder nicht zu ermitteln, so gibt sie die Ausfertigung des Antrags an die für die Ausstellung der Ersatzurkunde zuständige Behörde ab.
 
@@ -130,8 +119,7 @@ Die in § 5 genannten Stellen erledigen den Antrag durch Ausstellung einer Zweit
 
 5. durch Vorlage anderer, den in Nummern 1 bis 4 genannten ähnlichen Unterlagen, aus denen sich die ordnungsgemäße Verleihung der Auszeichnung an den Antragsteller ergibt oder zweifelsfrei schließen läßt.
 
-
-## § 9 – Verwundetenabzeichen des zweiten Weltkrieges
+# § 9 – Verwundetenabzeichen des zweiten Weltkrieges
 
 (1) Sind bei der Stelle, an die eine Ausfertigung des Antrags weitergeleitet wurde (§ 5 Abs. 1, 2 und 3) Unterlagen über die Verleihung des Verwundetenabzeichens des zweiten Weltkrieges nicht vorhanden oder nicht zu ermitteln, so gibt sie die Ausfertigung des Antrags an die für die Ausstellung der Ersatzurkunde zuständige Behörde, in den Fällen des § 3 Abs. 3 an den Bundesminister für Verteidigung oder den Bundesminister des Innern, für Bau und Heimat ab. Sie vermerkt auf der Ausfertigung des Antrags die durch Kriegseinwirkungen verursachten Verwundungen und Beschädigungen des Antragstellers, die aus ihren Unterlagen ersichtlich sind.
 
@@ -140,23 +128,19 @@ Die in § 5 genannten Stellen erledigen den Antrag durch Ausstellung einer Zweit
 § 9 Abs. 1 Satz 1 Kursivdruck: Jetzt "Bundesminister der Verteidigung"  
 § 9 Abs. 2 Satz 1 Kursivdruck: Jetzt "Bundesminister der Verteidigung
 
-
-## § 10 – Ausstellung der Ersatzurkunde
+# § 10 – Ausstellung der Ersatzurkunde
 
 Hält die für die Ausstellung der Ersatzurkunde zuständige Behörde den Nachweis der ordnungsgemäßen Verleihung für erbracht und sind keine Tatsachen bekannt, aus denen sich ergibt, daß die Verleihung der Auszeichnung widerrufen oder durch Entziehung oder auf Grund strafgerichtlicher Verurteilung ein Verlust der Auszeichnung eingetreten ist, so stellt sie eine Ersatzurkunde nach dem Muster der Anlage 4 aus.
 
-
-## § 11 – Versagung der Ersatzurkunde
+# § 11 – Versagung der Ersatzurkunde
 
 Liegen die Voraussetzungen für die Ausstellung einer Ersatzurkunde nach § 10 nicht vor, so ist der Antrag abzulehnen. Wegen mangelnden Nachweises der ordnungsgemäßen Verleihung kann der Antrag erst abgelehnt werden, wenn dem Antragsteller nach § 8 Abs. 2 Satz 2 eine Frist gesetzt wurde und diese abgelaufen ist.
 
-
-## § 12 – Form von Bescheiden
+# § 12 – Form von Bescheiden
 
 Ablehnende Bescheide nach § 11 und Mitteilungen nach § 9 Abs. 2 sind schriftlich zu erteilen, zu begründen, mit einer Rechtsmittelbelehrung zu versehen und zuzustellen.
 
-
-## § 13 – Berechtigungsausweis
+# § 13 – Berechtigungsausweis
 
 (1) Wer durch Kriegseinwirkungen verletzt wurde, kann auf Antrag eine Bescheinigung nach dem Muster der Anlage 5 (Berechtigungsausweis) erhalten, wenn er Verwundungen oder Beschädigungen nachweist, die ihn nach § 7 Abs. 1 des Ordensgesetzes berechtigen, das Verwundetenabzeichen des zweiten Weltkrieges zu tragen.
 
@@ -170,27 +154,23 @@ Ablehnende Bescheide nach § 11 und Mitteilungen nach § 9 Abs. 2 sind schriftli
 
 In anderen Fällen und an Hinterbliebene wird ein Berechtigungsausweis nicht ausgestellt.
 
-
-## § 14 – Zuständigkeit
+# § 14 – Zuständigkeit
 
 Zuständig für die Ausstellung von Berechtigungsausweisen sind die von den Landesregierungen bestimmten Behörden.
 
-
-## § 15 – Verfahren
+# § 15 – Verfahren
 
 (1) Das Verfahren für die Ausstellung von Berechtigungsausweisen richtet sich nach dem Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung vom 2. Mai 1955 (Bundesgesetzbl. I S. 202) und den hierzu ergangenen Rechtsverordnungen, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
 (2) Bei der Aufklärung des Sachverhalts beteiligt die zuständige Behörde (§ 14) soweit erforderlich das Bundesarchiv und die Krankenbuchlager bei den Versorgungsämtern Berlin, Kassel und München.
 
-
-## § 16 – Antrag
+# § 16 – Antrag
 
 (1) Der Antrag auf Ausstellung eines Berechtigungsausweises ist schriftlich bei der nach § 14 zuständigen Behörde einzureichen.
 
 (2) Soldaten der Bundeswehr und Beamte in der Bundespolizei reichen den Antrag bei ihrem nächsten Disziplinarvorgesetzten ein. Diese Stellen vermerken auf dem Antrag die durch Kriegseinwirkungen verursachten Verwundungen und Beschädigungen des Antragstellers, die aus ihren Unterlagen ersichtlich sind, und leiten den Antrag unverzüglich an die nach § 14 zuständige Behörde weiter.
 
-
-## § 17 – Inhalt des Antrags
+# § 17 – Inhalt des Antrags
 
 (1) Der Antrag muß enthalten
 
@@ -222,8 +202,7 @@ Zuständig für die Ausstellung von Berechtigungsausweisen sind die von den Land
 
 8. bei früheren Wehrmachtsangehörigen Angaben über den Wehrmachts- und Truppenteil, dem der Antragsteller zur Zeit der jeweiligen Verwundung oder Beschädigung angehört hat; bei früheren Angehörigen militärähnlicher Organisationen Angaben über die Dienststellen, denen der Antragsteller zur Zeit der jeweiligen Verwundung oder Beschädigung angehört hat.
 
-
-## § 18 – Nachweis von Verwundungen und Beschädigungen durch den Antragsteller
+# § 18 – Nachweis von Verwundungen und Beschädigungen durch den Antragsteller
 
 Verwundungen oder Beschädigungen kann der Antragsteller der zuständigen Behörde (§ 14) gegenüber nachweisen durch
 
@@ -235,73 +214,61 @@ Verwundungen oder Beschädigungen kann der Antragsteller der zuständigen Behör
 
 4. den Nachweis der ordnungsgemäßen Verleihung des Verwundetenabzeichens des zweiten Weltkrieges an den Antragsteller nach den in § 8 Abs. 4 Nr. 1, 3, 4 und 5 dieser Verordnung für den Nachweis der ordnungsgemäßen Verleihung sonstiger Orden und Ehrenzeichen getroffenen Bestimmungen.
 
-
-## § 19 – Ausstellung eines Berechtigungsausweises
+# § 19 – Ausstellung eines Berechtigungsausweises
 
 (1) Der Berechtigungsausweis (§ 13) ist von der zuständigen Behörde (§ 14) für die Stufe auszustellen, in der der Antragsteller nach § 7 Abs. 1 des Ordensgesetzes berechtigt ist, das Verwundetenabzeichen des zweiten Weltkrieges zu tragen.
 
 (2) Liegen die Voraussetzungen für die Ausstellung des Berechtigungsausweises nicht vor, so ist der Antrag abzulehnen.
 
-
-## § 20 – Entscheidungen der nach § 14 zuständigen Behörden
+# § 20 – Entscheidungen der nach § 14 zuständigen Behörden
 
 Soweit in den Ausführungsbestimmungen zur Verordnung über die Stiftung eines Verwundetenabzeichens vom 1. September 1939 (Reichsgesetzbl. I S. 1577) Entscheidungen über die Verleihung des Verwundetenabzeichens durch andere als die verleihungsberechtigten Stellen vorgesehen sind, treten an deren Stelle Entscheidungen der nach § 14 zuständigen Behörden über die Ausstellung von Berechtigungsausweisen.
 
-
-## § 21 – Einziehung
+# § 21 – Einziehung
 
 (1) Bescheinigungen nach § 1 Abs. 1, Ersatzurkunden nach § 10 und Berechtigungsausweise nach § 19 dieser Verordnung sind einzuziehen, wenn sich nachträglich herausstellt, daß die Voraussetzungen für ihre Ausstellung nicht vorgelegen haben.
 
 (2) Die Einziehung erfolgt im Wege des Verwaltungszwangsverfahrens.
 
-
-## § 22 – Gebühren
+# § 22 – Gebühren
 
 (1) Die Bundesbehörden erheben für die Ausstellung von Bescheinigungen nach § 1 Abs. 1 Buchstabe a Gebühren. Die Gebühr beträgt für jede Urkunde entsprechend dem Arbeitsaufwand mindestens 5 Deutsche Mark und höchstens 10 Deutsche Mark. Sie kann auf Antrag aus Billigkeitsgründen erlassen werden.
 
 (2)
 
-
-## § 23 – Geltung in Berlin
+# § 23 – Geltung in Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 18 des Ordensgesetzes auch im Land Berlin.
 
-
-## § 24 – Inkrafttreten
+# § 24 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister des Innern
 
-
-## Anlage 1 – (zu § 3 Abs. 1)  Antrag auf Zustellung eines urkundlichen Besitznachweises
+# Anlage 1 – (zu § 3 Abs. 1)  Antrag auf Zustellung eines urkundlichen Besitznachweises
 
 (Inhalt: nicht erfaßtes Muster eines Antrags,  
 Fundstelle: BGBl. Teil III 1133-2, S. 18 - 19)
 
-
-## Anlage 2 – (zu § 7 Abs. 1)
+# Anlage 2 – (zu § 7 Abs. 1)
 
 (Inhalt: nicht erfaßtes Muster einer Bescheinigung,  
 Fundstelle: BGBl. Teil III 1133-2, S. 20)
 
-
-## Anlage 3 – (zu § 7 Abs. 3)
+# Anlage 3 – (zu § 7 Abs. 3)
 
 (Inhalt: nicht erfaßtes Muster eines Formblatts,  
 Fundstelle: BGBl. Teil III 1133-2, S. 20)
 
-
-## Anlage 4
+# Anlage 4
 
 (Inhalt: nicht erfaßtes Muster einer Ersatzurkunde,  
 Fundstelle: BGBl. Teil III 1133-2, S. 21)
 
-
-## Anlage 5 – (zu § 13 Abs. 1)
+# Anlage 5 – (zu § 13 Abs. 1)
 
 (Inhalt: nicht erfaßtes Muster eines Berechtigungsausweises,  
 Fundstelle: BGBl. Teil III 1133-2, S. 21)

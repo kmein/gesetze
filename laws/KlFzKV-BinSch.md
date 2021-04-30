@@ -1,15 +1,11 @@
-# [KlFzKV-BinSch] Verordnung über die Kennzeichnung von auf Binnenschiffahrtsstraßen verkehrenden Kleinfahrzeugen  (Binnenschifffahrt-Kennzeichnungsverordnung - KlFzKV-BinSch)
-
-Ausfertigungsdatum: 21.02.1995
-
+% Verordnung über die Kennzeichnung von auf Binnenschiffahrtsstraßen verkehrenden Kleinfahrzeugen  (Binnenschifffahrt-Kennzeichnungsverordnung - KlFzKV-BinSch)
+% Ausfertigungsdatum: 21.02.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 3, Abs. 4 und 6 des Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270) verordnet das Bundesministerium für Verkehr, und auf Grund des § 4 Abs. 2 Satz 1 und 3 des Binnenschiffahrtsaufgabengesetzes und des 2. Abschnitts des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -46,8 +42,7 @@ f) Wasserfahrzeuge mit Antriebsmaschine, deren effektive Nutzleistung nicht mehr
 
 g) Beiboote.
 
-
-## § 2 – Kennzeichnungspflicht
+# § 2 – Kennzeichnungspflicht
 
 (1) Der Schiffsführer darf ein deutsches Kleinfahrzeug auf den Binnenschiffahrtsstraßen nur führen, wenn es mit einem gültigen amtlichen oder amtlich anerkannten (§ 5) Kennzeichen nach Absatz 3 Satz 1 versehen ist. Er darf als Nationalitätenkennzeichen, unbeschadet des § 3 Nr. 3 Buchstabe a, nur ein "D" verwenden. Die Verwendung international üblicher Nationalitätenkennzeichen im Segel bleibt unberührt. Der Schiffsführer hat dafür zu sorgen, daß das Kennzeichen jederzeit deutlich sicht- und lesbar ist.
 
@@ -61,8 +56,7 @@ g) Beiboote.
 
 (6) Das Wasserstraßen- und Schifffahrtsamt kann auf Antrag des Eigentümers ein Kleinfahrzeug nach § 1 Nr. 2 Buchstabe d bis f, das nur für eine Überführungsfahrt vorübergehend mit einer Antriebsmaschine mit einer effektiven Nutzleistung von mehr als 2,21 kW ausgerüstet wird, von der Führung eines Kennzeichens befreien. Zuständig ist das Wasserstraßen- und Schifffahrtsamt, in dessen Amtsbezirk die Fahrt beginnt. Berührt die Fahrt die Amtsbezirke mehrerer Wasserstraßen- und Schifffahrtsämter, darf die Entscheidung nur einvernehmlich getroffen werden.
 
-
-## § 3 – Ausnahmen
+# § 3 – Ausnahmen
 
 Von der Kennzeichnungspflicht sind ausgenommen:  
 Kleinfahrzeuge, die
@@ -81,8 +75,7 @@ dies gilt nur, soweit Gegenseitigkeit gewährleistet ist;
 
 4. ein nach landesrechtlichen Vorschriften zugeteiltes amtliches Kennzeichen führen, soweit es vom Bundesministerium für Verkehr und digitale Infrastruktur anerkannt worden ist; diese amtlichen Kennzeichen werden im Verkehrsblatt bekanntgemacht.
 
-
-## § 4 – Amtliche Kennzeichen
+# § 4 – Amtliche Kennzeichen
 
 (1) Das in § 2 genannte Kennzeichen besteht aus einer Kombination von
 
@@ -104,13 +97,11 @@ Die Kennzeichen nach Nummer 1 ergeben sich aus dem fahrzeugzulassungsrechtlichen
 
 5. das Vermietungskennzeichen nach § 7 der Sportbootvermietungsverordnung-Binnen 2000 vom 18. April 2000 (BGBl. I S. 572).
 
-
-## § 5 – Amtlich anerkannte Kennzeichen
+# § 5 – Amtlich anerkannte Kennzeichen
 
 Ein Kennzeichen gilt als amtlich anerkannt, wenn es aus der Nummer des Internationalen Bootsscheines für Wassersportfahrzeuge (Resolution Nr. 13 rev. ECE, Verkehrsblatt 1989 S. 120), gefolgt von dem Kennbuchstaben der zuteilenden Organisation besteht. Dabei erhalten der Deutsche Motoryachtverband e. V. den Kennbuchstaben M, der Deutsche Segler-Verband e. V. den Kennbuchstaben S und der Allgemeine Deutsche Automobilclub e. V. den Kennbuchstaben A.
 
-
-## § 6 – Urkunden
+# § 6 – Urkunden
 
 Zum Nachweis über das zugeteilte Kennzeichen ist an Bord mitzuführen:
 
@@ -128,8 +119,7 @@ c) das Flaggenzertifikat;
 
 Die in Satz 1 genannten Urkunden sind den zur Kontrolle befugten Personen auf Verlangen zur Prüfung auszuhändigen.
 
-
-## § 7 – Antrag
+# § 7 – Antrag
 
 (1) Der Eigentümer des Kleinfahrzeugs hat ein amtliches Kennzeichen bei einem Wasserstraßen- und Schifffahrtsamt oder ein amtlich anerkanntes Kennzeichen bei einer der in § 5 genannten Organisationen zu beantragen.
 
@@ -169,8 +159,7 @@ g) sonstige für die Identität wesentliche Merkmale, zum Beispiel die Wasserver
 
 Im Falle eines Eigenbaues ist von diesem mindestens ein Foto vorzulegen. Die Vorlage weiterer Unterlagen, insbesondere zusätzliche Fotos oder Konstruktionszeichnungen, kann verlangt werden. Die Angaben nach Satz 1 Nr. 1 sind, soweit natürliche Personen betroffen sind, durch Vorlage des Personalausweises oder des Reisepasses nachzuweisen; im Übrigen sind die Angaben glaubhaft zu machen. Der Vorlage des Personalausweises oder Reisepasses stehen bei schriftlicher Antragstellung die Beifügung einer Kopie oder bei elektronischer Antragstellung die qualifizierte elektronische Signatur gleich.
 
-
-## § 8 – Zuteilung des Kennzeichens, Ausstellung des Ausweises
+# § 8 – Zuteilung des Kennzeichens, Ausstellung des Ausweises
 
 (1) Das Wasserstraßen- und Schifffahrtsamt teilt das amtliche Kennzeichen zu. Kennzeichen können auf Antrag auch befristet oder als Wechselkennzeichen für Probe-, Vorführ- oder Überführungsfahrten mit der Auflage zugeteilt werden, ein Fahrtenbuch zu führen.
 
@@ -180,8 +169,7 @@ Im Falle eines Eigenbaues ist von diesem mindestens ein Foto vorzulegen. Die Vor
 
 (4) Ist ein Ausweis unbrauchbar geworden, verlorengegangen oder sonst abhanden gekommen, stellt die ausstellende Stelle auf Antrag eine Ersatzausfertigung aus, die als solche zu kennzeichnen ist. Ein unbrauchbar gewordener oder wieder aufgefundener Ausweis ist der ausstellenden Stelle unverzüglich zurückzugeben oder ihr zur Entwertung vorzulegen.
 
-
-## § 9 – Änderungen
+# § 9 – Änderungen
 
 (1) Der Eigentümer hat den ausstellenden Stellen unverzüglich mitzuteilen, wenn sich
 
@@ -197,13 +185,11 @@ geändert haben. In diesen Fällen ist der Ausweis zur Berichtigung vorzulegen. 
 
 (3) Der Eigentümer hat ein ungültiges oder ungültig gewordenes Kennzeichen unverzüglich zu entfernen oder unkenntlich zu machen. Dies gilt auch, wenn er das Kleinfahrzeug abgemeldet hat.
 
-
-## § 10 – (weggefallen)
+# § 10 – (weggefallen)
 
 \-
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -235,18 +221,15 @@ g) entgegen § 9 Abs. 1 Satz 2 oder 3 den Ausweis nicht vorlegt oder
 
 h) entgegen § 9 Abs. 3 Satz 1 ein Kennzeichen nicht oder nicht rechtzeitig entfernt und nicht oder nicht rechtzeitig unkenntlich macht.
 
-
-## § 12
-
-\-
-
-
-## § 13
+# § 12
 
 \-
 
+# § 13
 
-## § 14 – Inkrafttreten, Außerkrafttreten
+\-
+
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Satzes 2 am 1. März 1995 in Kraft. Abweichend von Satz 1 treten in Kraft:
 
@@ -257,8 +240,7 @@ h) entgegen § 9 Abs. 3 Satz 1 ein Kennzeichen nicht oder nicht rechtzeitig entf
 3. § 2 Abs. 1 und § 11 Nr. 1 Buchstabe a, b, Nr. 2 Buchstabe a am 1. Mai 1997 für Kleinfahrzeuge unter Segel.
 
 (2) Mit Ablauf des 28. Februar 1995 treten außer Kraft:  
-1.  
-2.
+1. 2.
 
 3. die Verordnung über die Kennzeichnung von Kleinfahrzeugen, die mit Motorkraft angetrieben werden, auf den Bundeswasserstraßen im Bereich der Wasser- und Schiffahrtsdirektion Hannover vom 26. Juli 1961 (Verkehrsblatt S. 391), geändert durch die Verordnung vom 8. August 1969 (Verkehrsblatt S. 535), mit Ausnahme des § 2 für Kleinfahrzeuge mit Antriebsmaschine;
 
@@ -278,8 +260,7 @@ h) entgegen § 9 Abs. 3 Satz 1 ein Kennzeichen nicht oder nicht rechtzeitig entf
 
 3. im übrigen am 1. Mai 1997.
 
-
-## Anlage – (zu § 8 Abs. 2)
+# Anlage – (zu § 8 Abs. 2)
 
 (Inhalt: nicht darstellbarer Ausweis über das Kleinfahrzeugkennzeichen;  
 Fundstelle: BGBl. I 1995, 231 - 232,  

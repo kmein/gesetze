@@ -1,20 +1,15 @@
-# [HStruktG] Gesetz zur Verbesserung der Haushaltsstruktur  (Haushaltsstrukturgesetz - HStruktG)
-
-Ausfertigungsdatum: 18.12.1975
-
+% Gesetz zur Verbesserung der Haushaltsstruktur  (Haushaltsstrukturgesetz - HStruktG)
+% Ausfertigungsdatum: 18.12.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 (1) Für Soldaten auf Zeit, die sich vor dem 1. Januar 1976 verpflichtet haben, ist § 3 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter anzuwenden.
 
@@ -22,145 +17,117 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Für Beamte, Richter und Soldaten, die vor dem 1. Januar 1976 das vierzigste Lebensjahr vollendet haben und deren Ehe vor dem 1. Januar 1976 geschieden, aufgehoben oder für nichtig erklärt worden ist, findet § 40 Abs. 2 Nr. 2 des Bundesbesoldungsgesetzes in der bisherigen Fassung weiter Anwendung.
 
-
-## § 3
+# § 3
 
 Überschreitet bei einem Dienstherrn der Anteil der planmäßig angestellten Beamten den in § 26 Abs. 6 des Bundesbesoldungsgesetzes zugelassenen Anteil der ersten Beförderungsämter, so ist nach Inkrafttreten dieses Gesetzes jede freiwerdende zweite Planstelle in eine Planstelle des Eingangsamtes umzuwandeln.
 
-
-## § 4
+# § 4
 
 Verringert sich durch dieses Gesetz der Ortszuschlag eines Beamten, Richters oder Soldaten, so erhält er eine Ausgleichszulage in Höhe des Unterschiedsbetrages zwischen dem bisherigen Ortszuschlag und dem neuen Ortszuschlag, soweit die Verringerung nicht durch eine Erhöhung des Ortszuschlages des Ehegatten oder des anderen Anspruchsberechtigten im Sinne des § 40 Abs. 6 des Bundesbesoldungsgesetzes ausgeglichen wird. Die Ausgleichszulage wird nur so lange gewährt, wie die bisherigen Anspruchsvoraussetzungen für die Gewährung des Ortszuschlages der Stufe 2 oder der folgenden Stufen weiterhin erfüllt wären. Die Ausgleichszulage verringert sich vom 1. Januar 1976 an um jeweils die Hälfte des Betrages, um den sich die Dienstbezüge (ohne Erschwerniszulagen und Vergütungen auf Grund einer allgemeinen Besoldungsverbesserung erhöhen. Sie verringert sich ferner um jede sonstige Erhöhung der Dienstbezüge (ohne Erschwerniszulagen und Vergütungen). Beim Zusammentreffen mit anderen Ausgleichszulagen werden die Ausgleichszulagen anteilig verringert, höchstens insgesamt um den in Satz 3 genannten Betrag. Die Sätze 1 bis 5 gelten sinngemäß für Versorgungsempfänger, auch bei Wegfall des Ausgleichsbetrages nach § 50 Abs. 3 des Beamtenversorgungsgesetzes oder § 47 Abs. 2 des Soldatenversorgungsgesetzes, sowie beim Wegfall des Anwärterverheiratetenzuschlages.
 
-
-## § 5
+# § 5
 
 (1) Die Zulagen nach Nummern 7 und 11 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B, nach Nummer 3 der Vorbemerkungen zur Bundesbesoldungsordnung C, nach Nummer 2 der Vorbemerkungen zur Bundesbesoldungsordnung R des Bundesbesoldungsgesetzes und Zulagen nach Vorschriften, die gemäß Artikel IX § 22 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) in Kraft geblieben sind, oder vergleichbare Zulagen nehmen mit Wirkung vom 1. Juli 1975 künftig an allgemeinen Besoldungsverbesserungen nicht teil.
 
 (2) Absatz 1 gilt nicht für Regelungen von Zulagen für Beamte der Bayerischen Versicherungskammer und Beamte vergleichbarer Versicherungsanstalten und Kreditinstitute. Die Zulage für Beamte der Bayerischen Versicherungskammer kann bis zu 22 v. H. des Grundgehalts betragen; in gleichem Verhältnis verringern sich die Höchstbeträge der vergleichbaren Zulagen.
 
-
-## § 6
-
-\-
-
-
-## § 1
+# § 6
 
 \-
 
+# § 1
 
-## § 2
+\-
+
+# § 2
 
 (1) Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleibt das den ruhegehaltfähigen Dienstbezügen zugrunde liegende Grundgehalt unberührt.
 
 (2) Tritt ein Beamter aus einem Amt in den Ruhestand, das nicht der Eingangsbesoldungsgruppe seiner Laufbahn angehört, ist, wenn er die Dienstbezüge seines zuletzt bekleideten Amtes bereits vor Inkrafttreten dieses Gesetzes erhalten hat, § 5 Abs. 3 und 4 des Beamtenversorgungsgesetzes nicht anzuwenden.
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Bei der Anwendung der §§ 17 und 18 des Bundespolizeibeamtengesetzes gilt Artikel 10 § 3 dieses Gesetzes sinngemäß.
 
-
-## § 3
-
-Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleibt der Ruhegehaltssatz unberührt.
-
-
-## § 1
-
-\-
-
-
-## § 2
+# § 3
 
 Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleibt der Ruhegehaltssatz unberührt.
 
-
-## § 1
+# § 1
 
 \-
 
+# § 2
 
-## § 2
+Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleibt der Ruhegehaltssatz unberührt.
+
+# § 1
+
+\-
+
+# § 2
 
 Für Berufssoldaten, die vor dem 11. September 1975 eine Mitteilung nach § 44 Abs. 6 Satz 4 erster Halbsatz des Soldatengesetzes erhalten haben, gilt § 45 Abs. 2 des Soldatengesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung, wenn das Verbleiben im Dienst über den angekündigten Zeitpunkt hinaus zu einer unzumutbaren Härte führen würde.
 
-
-## § 3
+# § 3
 
 Die §§ 1 und 2 gelten nicht im Land Berlin.
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 § 4 Abs. 1 Satz 2 und Abs. 2 Satz 3 und 4 sowie § 5 Abs. 5 Satz 2 des Soldatenversorgungsgesetzes in der Fassung des Artikels 10 § 1 Nr. 2 und 3 des Haushaltsstrukturgesetzes gelten, wenn der Anspruch auf Berufsförderung vor dem 1. Januar 1976 entstanden ist, mit der Maßgabe, daß die auf Grund eines bis zu diesem Zeitpunkt gestellten Antrags bewilligten Maßnahmen gewährt oder weitergewährt werden.
 
-
-## § 3
+# § 3
 
 (1) Für Soldaten auf Zeit, deren Anspruch auf Fachausbildung sich nach § 5 Abs. 5 Satz 2 des Soldatenversorgungsgesetzes in der Fassung des Artikels 10 § 1 Nr. 3 des Haushaltsstrukturgesetzes bestimmt und deren Dienstverhältnis vor dem 1. Januar 1976 geendet hat, gilt § 11 Abs. 2 Nr. 4 des Soldatenversorgungsgesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung.
 
 (2) Für Soldaten auf Zeit, die auf Grund einer vor dem 11. September 1975 abgegebenen Verpflichtungserklärung in das Dienstverhältnis eines Soldaten auf Zeit berufen worden sind oder die auf Grund einer vor diesem Zeitpunkt abgegebenen Weiterverpflichtungserklärung im Dienstverhältnis eines Soldaten auf Zeit verblieben sind, gilt § 12 Abs. 2 und 3 des Soldatenversorgungsgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung. Bei einer Weiterverpflichtung nach dem 10. September 1975 ist § 12 Abs. 2 des Soldatenversorgungsgesetzes mit der Maßgabe anzuwenden, daß die Übergangsbeihilfe mindestens aus dem Mehrfachen zu berechnen ist, das für die Wehrdienstzeit vor der Weiterverpflichtung maßgebend war.
 
-
-## § 4
+# § 4
 
 Für die bei Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempfänger bleiben der Ruhegehaltssatz und das den ruhegehaltfähigen Dienstbezügen zugrunde liegende Grundgehalt unberührt.
 
-
-## § 5
+# § 5
 
 Hat ein Berufssoldat die Dienstbezüge seines letzten Dienstgrades bereits vor Inkrafttreten dieses Gesetzes erhalten, ist § 18 des Soldatenversorgungsgesetzes nicht anzuwenden.
 
-
-## § 6
+# § 6
 
 Für die in Artikel 9 § 2 bestimmten Berufssoldaten gilt § 26 Abs. 2 des Soldatenversorgungsgesetzes in der bis zum Inkrafttreten dieses Gesetzes geltenden Fassung.
 
-
-## § 7
+# § 7
 
 Die §§ 1 bis 6 gelten nicht im Land Berlin.
 
+# §§ 1 bis 4 – ----
 
-## §§ 1 bis 4 – ----
-
-
-## § 5
+# § 5
 
 § 583 Abs. 3 Satz 3 und 4 der Reichsversicherungsordnung in der Fassung dieses Artikels gilt auch für Arbeitsunfälle, die vor seinem Inkrafttreten eingetreten sind. § 1262 Abs. 3 Satz 4 und 5 der Reichsversicherungsordnung, § 39 Abs. 3 Satz 4 und 5 des Angestelltenversicherungsgesetzes, § 60 Abs. 3 Satz 4 und 5 des Reichsknappschaftsgesetzes in der Fassung dieses Artikels gelten auch für Versicherungsfälle, die vor ihrem Inkrafttreten eingetreten sind.
 
+# §§ 1 bis 3 – ----
 
-## §§ 1 bis 3 – ----
-
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Für laufende Leistungen, die bei Inkrafttreten dieses Gesetzes nach den §§ 31 bis 35 des Bundessozialhilfegesetzes gewährt werden, gilt § 141 des Bundessozialhilfegesetzes entsprechend.
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 § 1 gilt nicht für Arbeitnehmer,
 
@@ -170,23 +137,19 @@ Für laufende Leistungen, die bei Inkrafttreten dieses Gesetzes nach den §§ 31
 
 Eine Stillegungsmaßnahme gilt als begonnen, wenn auf Grund eines von dem Arbeitgeber gefaßten Stillegungsbeschlusses wesentliche, auf die Durchführung dieses Beschlusses gerichtete Maßnahmen rechtlicher, technischer oder organisatorischer Art getroffen worden sind.
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Die Ergänzung des § 33b Abs. 4 des Bundesversorgungsgesetzes gilt auch für den Übergangszuschlag nach Artikel 43 des Einführungsgesetzes zum Einkommensteuerreformgesetz vom 21. Dezember 1974 (Bundesgesetzbl. I S. 3656).
 
-
-## § 1
+# § 1
 
 Das Gesetz tritt am 1. Januar 1976 in Kraft, soweit in § 2 nichts anderes bestimmt ist.
 
-
-## § 2
+# § 2
 
 Abweichend von § 1 treten in Kraft:
 

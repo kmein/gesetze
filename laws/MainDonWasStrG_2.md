@@ -1,23 +1,17 @@
-# [MainDonWasStrG 2] Zweites Gesetz über den rechtlichen Status der Main-Donau-Wasserstraße
-
-Ausfertigungsdatum: 19.06.1986
-
+% Zweites Gesetz über den rechtlichen Status der Main-Donau-Wasserstraße
+% Ausfertigungsdatum: 19.06.1986
  
-
-## § 1 – (weggefallen)
+# § 1 – (weggefallen)
 
 \-
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3 – Durchleiten von Wasser
+# § 3 – Durchleiten von Wasser
 
 Über das Durchleiten von Wasser für wasserwirtschaftliche und landeskulturelle Zwecke durch die Wasserstraßen nach § 1 Abs. 1 Nr. 1 und 2 und die damit zusammenhängenden Fragen werden Bund und Bayern eine gesonderte Vereinbarung treffen.
 
-
-## § 4 – Eigentumsverhältnisse und Fischereirechte
+# § 4 – Eigentumsverhältnisse und Fischereirechte
 
 (1) Das Eigentum an den in § 1 Abs. 1 bezeichneten Strecken steht dem Bund zu.
 
@@ -27,17 +21,14 @@ Ausfertigungsdatum: 19.06.1986
 
 (4) Das Grundbuch wird auf Grund eines gemeinsamen Ersuchens des Bundes und Bayerns berichtigt. Der Übergang des Eigentums und der anderen Rechte ist von Abgaben und Kosten befreit.
 
-
-## § 5
-
-\-
-
-
-## § 6 – (weggefallen)
+# § 5
 
 \-
 
+# § 6 – (weggefallen)
 
-## § 7 – Inkrafttreten
+\-
+
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

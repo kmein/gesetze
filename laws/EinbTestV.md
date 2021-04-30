@@ -1,15 +1,11 @@
-# [EinbTestV] Verordnung zu Einbürgerungstest und Einbürgerungskurs  (Einbürgerungstestverordnung - EinbTestV)
-
-Ausfertigungsdatum: 05.08.2008
-
+% Verordnung zu Einbürgerungstest und Einbürgerungskurs  (Einbürgerungstestverordnung - EinbTestV)
+% Ausfertigungsdatum: 05.08.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch Artikel 5 Nr. 7 Buchstabe c des Gesetzes vom 19. August 2007 (BGBl. I S. 1970) eingefügt worden ist, verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Einbürgerungstest und Einbürgerungskurs
+# § 1 – Einbürgerungstest und Einbürgerungskurs
 
 (1) Der bundeseinheitliche Einbürgerungstest wird mittels Fragebögen durchgeführt, bei denen jeweils aus vier möglichen Antworten die richtige gewählt werden muss.
 
@@ -21,8 +17,7 @@ Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch Artikel 
 
 (5) Grundstruktur und Lerninhalte des Einbürgerungskurses ergeben sich aus dem Rahmencurriculum in Anlage 2, das für die Durchführung von Einbürgerungskursen verbindlich ist.
 
-
-## § 2 – Verfahren des Einbürgerungstests unter Mitnutzung von Prüfstellen des Bundesamtes
+# § 2 – Verfahren des Einbürgerungstests unter Mitnutzung von Prüfstellen des Bundesamtes
 
 (1) Für die technische Durchführung des bundeseinheitlichen Einbürgerungstests können nach Maßgabe von Verwaltungsvereinbarungen der Länder mit dem Bundesamt für Migration und Flüchtlinge (Bundesamt) die Prüfstellen genutzt werden, die dieses den Ländern aus dem Kreis seiner Träger benennt, die es für seinen eigenen Test zum Orientierungskurs nach der Integrationskursverordnung zugelassen hat und bundesweit vorhält. Das Bundesamt stellt pro Prüfungsteilnehmer eine Kostenpauschale von 25 Euro in Rechnung.
 
@@ -30,23 +25,19 @@ Auf Grund des § 10 Abs. 7 des Staatsangehörigkeitsgesetzes, der durch Artikel 
 
 (3) Die Prüfstelle erhält für jeden Prüfungsteilnehmer einen der nach § 1 Abs. 2 Satz 1 zugelassenen Fragebögen, der nicht mit denen anderer Prüfungsteilnehmer desselben Prüfungstermins identisch ist. Die Identität des Prüfungsteilnehmers ist anhand eines amtlichen Identitätspapiers zu prüfen.
 
-
-## § 3 – Verfahren des Einbürgerungstests über Landesstellen
+# § 3 – Verfahren des Einbürgerungstests über Landesstellen
 
 In dem Fall, dass ein Land die gesamte technische Durchführung des bundeseinheitlichen Einbürgerungstests in seinem Zuständigkeitsbereich selbst mittels seiner Behörden oder von ihm beauftragter Stellen organisiert, erhält es die nach § 1 Abs. 2 Satz 1 zugelassenen Fragebögen und sorgt für den ordnungsgemäßen Prüfungsablauf entsprechend § 2 Abs. 3 sowie für die Testauswertung und die Ausstellung einer Bescheinigung nach einheitlichem Vordruck.
 
-
-## § 4 – Datenerhebung und -verarbeitung
+# § 4 – Datenerhebung und -verarbeitung
 
 Im Verfahren nach § 2 Abs. 1 darf das Bundesamt über die Prüfstelle zum Zwecke der Durchführung des Einbürgerungstests und der Ausstellung der Bescheinigung nach einheitlichem Vordruck Familiennamen, Vornamen, Geburtsdatum, Geburtsort und Anschrift der Prüfungsteilnehmer erheben und verwenden. Die Daten sind spätestens zwei Jahre nach Ausstellung der Bescheinigung zu löschen.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
 
-
-## Anlage 1 – Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen
+# Anlage 1 – Gesamtkatalog der für den Einbürgerungstest zugelassenen Prüfungsfragen
 
 Vorbemerkung:  
   
@@ -351,7 +342,7 @@ verfassungswidrig.
 
 21. Welches ist das Wappen der Bundesrepublik Deutschland?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0010.jpg)  
   
 
 □  
@@ -830,7 +821,7 @@ Direktive
 
 55. Was zeigt dieses Bild?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0020.jpg)  
   
 
 □  
@@ -1043,7 +1034,7 @@ Bezirksämter
 
 70. Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0030.jpg)  
   
 
 □  
@@ -1886,7 +1877,7 @@ der Bundespräsident / die Bundespräsidentin.
 
 130. Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0040.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0040.jpg)  
   
 
 □  
@@ -2533,7 +2524,7 @@ des Warschauer Pakts.
 
 176. Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0050.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0050.jpg)  
   
 
 □  
@@ -2606,7 +2597,7 @@ Gerhard Schröder.
 
 181. Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0060.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0060.jpg)  
   
 
 □  
@@ -2693,7 +2684,7 @@ Europas gegen die USA
 
 187. Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?
 
-![](../normengrafiken/bgbl1_2013/j0585-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0010.jpg)
 
 188. In welchem Jahr wurde die Mauer in Berlin gebaut?
 
@@ -2991,7 +2982,7 @@ ein deutscher Sportverein während des Zweiten Weltkrieges
 
 209. Welches war das Wappen der Deutschen Demokratischen Republik?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0070.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0070.jpg)  
   
 
 □  
@@ -3092,7 +3083,7 @@ Helmut Schmidt
 
 216. Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?
 
-![](../normengrafiken/bgbl1_2013/j0585-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0020.jpg)
 
 217. In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?
 
@@ -3224,8 +3215,8 @@ Spanien
 
 |     |                                                    |     |                                                    |
 |:----|:---------------------------------------------------|:----|:---------------------------------------------------|
-| ①   | ![](../normengrafiken/bgbl1_2013/j0585-1_0030.jpg) | ②   | ![](../normengrafiken/bgbl1_2013/j0585-1_0040.jpg) |
-| ③   | ![](../normengrafiken/bgbl1_2013/j0585-1_0050.jpg) | ④   | ![](../normengrafiken/bgbl1_2013/j0585-1_0060.jpg) |
+| ①   | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0030.jpg) | ②   | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0040.jpg) |
+| ③   | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0050.jpg) | ④   | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0060.jpg) |
 
 |     |     |
 |:----|:----|
@@ -3348,7 +3339,7 @@ Straßburg
 
 235. Der französische Staatspräsident François Mitterrand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0090.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0090.jpg)  
   
 
 □  
@@ -4277,7 +4268,7 @@ Türkei
 
 1. Welches Wappen gehört zum Bundesland Baden-Württemberg?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0100.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0100.jpg)  
   
 
 □  
@@ -4378,7 +4369,7 @@ Mannheim.
 
 8. Welches Bundesland ist Baden-Württemberg?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0110.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0110.jpg)  
   
 
 □  
@@ -4423,7 +4414,7 @@ Außenminister / Außenministerin
 
 1. Welches Wappen gehört zum Freistaat Bayern?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0120.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0120.jpg)  
   
 
 □  
@@ -4524,7 +4515,7 @@ München.
 
 8. Welches Bundesland ist Bayern?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0130.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0130.jpg)  
   
 
 □  
@@ -4569,7 +4560,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Berlin?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0140.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0140.jpg)  
   
   
   
@@ -4672,7 +4663,7 @@ Hessen
 
 8. Welches Bundesland ist Berlin?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0150.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0150.jpg)  
   
 
 □  
@@ -4717,7 +4708,7 @@ Justizsenator / Justizsenatorin
 
 1. Welches Wappen gehört zum Bundesland Brandenburg?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0160.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0160.jpg)  
   
 
 □  
@@ -4818,7 +4809,7 @@ Frankfurt/Oder.
 
 8. Welches Bundesland ist Brandenburg?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0170.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0170.jpg)  
   
 
 □  
@@ -4863,7 +4854,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zur Freien Hansestadt Bremen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0180.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0180.jpg)  
   
 
 □  
@@ -4964,7 +4955,7 @@ Erfurt
 
 8. Welches Bundesland ist Bremen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0190.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0190.jpg)  
   
 
 □  
@@ -5010,7 +5001,7 @@ Innensenator / Innensenatorin
 1. Welches Wappen gehört zur Freien und Hansestadt Hamburg?  
   
   
-![](../normengrafiken/bgbl1_2008/j01649_0200.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0200.jpg)  
   
 
 □  
@@ -5111,7 +5102,7 @@ Thüringen
 
 8. Welches Bundesland ist Hamburg?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0210.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0210.jpg)  
   
 
 □  
@@ -5156,7 +5147,7 @@ Innensenator / Innensenatorin
 
 1. Welches Wappen gehört zum Bundesland Hessen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0220.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0220.jpg)  
   
 
 □  
@@ -5257,7 +5248,7 @@ Wiesbaden.
 
 8. Welches Bundesland ist Hessen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0230.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0230.jpg)  
   
 
 □  
@@ -5304,7 +5295,7 @@ Innenminister / Innenministerin
 
 |                                                    |                                                    |                                                    |                                                    |
 |:---------------------------------------------------|:---------------------------------------------------|:---------------------------------------------------|:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2013/j0585-1_0070.jpg) | ![](../normengrafiken/bgbl1_2013/j0585-1_0080.jpg) | ![](../normengrafiken/bgbl1_2013/j0585-1_0090.jpg) | ![](../normengrafiken/bgbl1_2013/j0585-1_0100.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0070.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0080.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0090.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0585-1_0100.jpg) |
 | 1                                                  | 2                                                  | 3                                                  | 4                                                  |
 
   
@@ -5408,7 +5399,7 @@ Wismar.
 
 8. Welches Bundesland ist Mecklenburg-Vorpommern?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0250.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0250.jpg)  
   
 
 □  
@@ -5456,7 +5447,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Niedersachsen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0260.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0260.jpg)  
   
 
 □  
@@ -5557,7 +5548,7 @@ Osnabrück.
 
 8. Welches Bundesland ist Niedersachsen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0270.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0270.jpg)  
   
 
 □  
@@ -5602,7 +5593,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Nordrhein-Westfalen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0280.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0280.jpg)  
   
 
 □  
@@ -5703,7 +5694,7 @@ Dortmund.
 
 8. Welches Bundesland ist Nordrhein-Westfalen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0290.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0290.jpg)  
   
 
 □  
@@ -5748,7 +5739,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Rheinland-Pfalz?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0300.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0300.jpg)  
   
 
 □  
@@ -5849,7 +5840,7 @@ Koblenz.
 
 8. Welches Bundesland ist Rheinland-Pfalz?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0310.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0310.jpg)  
   
 
 □  
@@ -5894,7 +5885,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Saarland?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0320.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0320.jpg)  
   
 
 □  
@@ -5995,7 +5986,7 @@ Völklingen.
 
 8. Welches Bundesland ist das Saarland?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0330.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0330.jpg)  
   
 
 □  
@@ -6040,7 +6031,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Freistaat Sachsen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0340.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0340.jpg)  
   
 
 □  
@@ -6141,7 +6132,7 @@ Zwickau.
 
 8. Welches Bundesland ist Sachsen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0350.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0350.jpg)  
   
 
 □  
@@ -6186,7 +6177,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Sachsen-Anhalt?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0360.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0360.jpg)  
   
 
 □  
@@ -6287,7 +6278,7 @@ Wittenberg.
 
 8. Welches Bundesland ist Sachsen-Anhalt?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0370.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0370.jpg)  
   
 
 □  
@@ -6332,7 +6323,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Bundesland Schleswig-Holstein?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0380.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0380.jpg)  
   
 
 □  
@@ -6433,7 +6424,7 @@ Kiel.
 
 8. Welches Bundesland ist Schleswig-Holstein?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0390.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0390.jpg)  
   
 
 □  
@@ -6478,7 +6469,7 @@ Innenminister / Innenministerin
 
 1. Welches Wappen gehört zum Freistaat Thüringen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0400.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0400.jpg)  
   
 
 □  
@@ -6579,7 +6570,7 @@ Jena.
 
 8. Welches Bundesland ist Thüringen?  
   
-![](../normengrafiken/bgbl1_2008/j01649_0410.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j01649_0410.jpg)  
   
 
 □  
@@ -6622,8 +6613,7 @@ Finanzminister / Finanzministerin
 □  
 Innenminister / Innenministerin
 
-
-## Anlage 2 – Rahmencurriculum für den Einbürgerungskurs
+# Anlage 2 – Rahmencurriculum für den Einbürgerungskurs
 
 Inhalt
 
@@ -6775,8 +6765,7 @@ Kursabschluss
   
 I. Übergreifende Zielvorstellungen  
   
-Nach dem von der Konferenz der Innenminister und -senatoren der Länder am 31. Mai/1. Juni 2007 in Berlin gebilligten Konzept „Bundeseinheitliche Standards für das Einbürgerungsverfahren“ ist die Vermittlung staatsbürgerlichen Grundwissens sowie der Grundsätze und Werte unserer Verfassung das Ziel des Einbürgerungskurses. Die dort vermittelten Kenntnisse dienen dem Erwerb des für das Bekenntnis zum Grundgesetz notwendigen Verständnisses von Prinzipien und Aufbau des deutschen Staatswesens sowie der damit in Zusammenhang stehenden gesellschaftspolitischen Prozesse. Der Einbürgerungskurs soll die Einbürgerungsbewerber in die Lage versetzen, ihre staatsbürgerlichen Rechte und Pflichten erkennen und aktiv wahrnehmen zu können. Das Rahmencurriculum trägt dieser Zielsetzung in Aufbau und Ausgestaltung Rechnung.  
-  
+Nach dem von der Konferenz der Innenminister und -senatoren der Länder am 31. Mai/1. Juni 2007 in Berlin gebilligten Konzept „Bundeseinheitliche Standards für das Einbürgerungsverfahren“ ist die Vermittlung staatsbürgerlichen Grundwissens sowie der Grundsätze und Werte unserer Verfassung das Ziel des Einbürgerungskurses. Die dort vermittelten Kenntnisse dienen dem Erwerb des für das Bekenntnis zum Grundgesetz notwendigen Verständnisses von Prinzipien und Aufbau des deutschen Staatswesens sowie der damit in Zusammenhang stehenden gesellschaftspolitischen Prozesse. Der Einbürgerungskurs soll die Einbürgerungsbewerber in die Lage versetzen, ihre staatsbürgerlichen Rechte und Pflichten erkennen und aktiv wahrnehmen zu können. Das Rahmencurriculum trägt dieser Zielsetzung in Aufbau und Ausgestaltung Rechnung.   
 II. Maßgaben für das Curriculum  
   
 1) Verknüpfung mit dem Integrationskurs/Orientierungskurs  
@@ -6864,40 +6853,28 @@ Kursabschluss
 
   
   
-Die Lerninhalte der Module II bis IV sind um Schlüsselthemen angeordnet. Diese umfassen die Kerninhalte des Einbürgerungskurses, mit denen die notwendigen Kenntnisse und das zugehörige Verständniswissen erworben werden sollen. Die Schlüsselthemen stehen mit den weiteren Lerninhalten in enger inhaltlicher Verbindung. Von ihnen ausgehend sollen die Einzelthemen des jeweiligen Moduls im Unterricht behandelt werden.  
-  
-Die Auswahl der im Curriculum vorgegebenen Themen für den Einbürgerungskurs orientiert sich an der Fragestellung, welche konkreten Lerninhalte unter die Vorgaben „staatsbürgerliches Grundwissen“ sowie „Grundsätze und Werte unserer Verfassung“ fallen. Lerninhalte mit speziellem Bundeslandbezug werden berücksichtigt, allerdings nur solche, die in Zusammenhang mit demokratischen Teilhabemöglichkeiten stehen. Die länderspezifischen Lerninhalte können in Kooperation mit den Landeszentralen für politische Bildung entwickelt werden.  
-  
+Die Lerninhalte der Module II bis IV sind um Schlüsselthemen angeordnet. Diese umfassen die Kerninhalte des Einbürgerungskurses, mit denen die notwendigen Kenntnisse und das zugehörige Verständniswissen erworben werden sollen. Die Schlüsselthemen stehen mit den weiteren Lerninhalten in enger inhaltlicher Verbindung. Von ihnen ausgehend sollen die Einzelthemen des jeweiligen Moduls im Unterricht behandelt werden.   
+Die Auswahl der im Curriculum vorgegebenen Themen für den Einbürgerungskurs orientiert sich an der Fragestellung, welche konkreten Lerninhalte unter die Vorgaben „staatsbürgerliches Grundwissen“ sowie „Grundsätze und Werte unserer Verfassung“ fallen. Lerninhalte mit speziellem Bundeslandbezug werden berücksichtigt, allerdings nur solche, die in Zusammenhang mit demokratischen Teilhabemöglichkeiten stehen. Die länderspezifischen Lerninhalte können in Kooperation mit den Landeszentralen für politische Bildung entwickelt werden.   
 a. Leben in der Demokratie  
   
-Der Bereich „Leben in der Demokratie“ bildet den Kernbereich des Einbürgerungskurses. Die Lerninhalte sind auf die späteren staatsbürgerlichen Partizipationsmöglichkeiten der Einbürgerungsbewerber ausgerichtet. Das heißt, dass vor allem Art und Bedeutung der verschiedenen Beteiligungsformen am politisch-gesellschaftlichen Leben in Deutschland (Wahlen, Partei- und Vereinsmitgliedschaften etc.) aufgezeigt werden sollen. Darauf aufbauend ist der Rahmen darzustellen, innerhalb dessen sich die Partizipation des Neubürgers am Gemeinwesen vollzieht, nämlich die grundlegenden Prinzipien, Werte und Normen (Grundrechte, Rechte und Pflichten, Konfliktlösung), die zentralen Funktionsmechanismen der parlamentarischen Demokratie sowie ihr Aufbau und ihre Strukturen.  
-  
+Der Bereich „Leben in der Demokratie“ bildet den Kernbereich des Einbürgerungskurses. Die Lerninhalte sind auf die späteren staatsbürgerlichen Partizipationsmöglichkeiten der Einbürgerungsbewerber ausgerichtet. Das heißt, dass vor allem Art und Bedeutung der verschiedenen Beteiligungsformen am politisch-gesellschaftlichen Leben in Deutschland (Wahlen, Partei- und Vereinsmitgliedschaften etc.) aufgezeigt werden sollen. Darauf aufbauend ist der Rahmen darzustellen, innerhalb dessen sich die Partizipation des Neubürgers am Gemeinwesen vollzieht, nämlich die grundlegenden Prinzipien, Werte und Normen (Grundrechte, Rechte und Pflichten, Konfliktlösung), die zentralen Funktionsmechanismen der parlamentarischen Demokratie sowie ihr Aufbau und ihre Strukturen.   
 b. Geschichte und Verantwortung  
   
-Für das Verstehen der bundesrepublikanischen Gegenwart sollen wichtige Stationen der jüngeren deutschen Geschichte, insbesondere der Weg zur parlamentarischen Demokratie, als Wissenshintergrund vermittelt werden. Dabei wird Bezug genommen auf das Parlament in der Paulskirche 1848/49 und seinen Einfluss auf das Grundgesetz sowie auf die unterschiedliche Stellung der Volksvertretung im deutschen Kaiserreich und in der Weimarer Republik. Am Beispiel der nationalsozialistischen Diktatur werden die Folgen der Negierung von Rechtsstaatlichkeit und Demokratie und die daraus resultierende Verantwortung zum Erhalt der demokratischen Verfassung aufgezeigt. Als wichtige Stationen der deutschen Nachkriegsgeschichte sollen neben der Gründung der Bundesrepublik die Themen DDR, deutsche Teilung und Wiedervereinigung vermittelt werden. Grundsätzlich sollen nicht historische Daten, sondern geschichtliche Zusammenhänge im Mittelpunkt dieses Kursmoduls stehen.  
-Da die Geschichte Deutschlands ganz wesentlich durch Zuwanderung geprägt worden ist, wird auch das Thema Migrationsgeschichte in den Themenkatalog aufgenommen. Dieses Thema stellt zudem einen guten Anknüpfungspunkt an die persönliche Migrationsgeschichte der Kursteilnehmer dar.  
-Der Entwicklungsprozess der Bundesrepublik Deutschland soll im Zusammenhang mit dem Fortgang der europäischen Einigung und der wachsenden Bedeutung der europäischen Integration vermittelt werden. Daneben erhält dieses Thema seine Relevanz durch die Tatsache, dass Ausländer mit der Einbürgerung nicht nur deutsche Staatsangehörige, sondern – sofern es sich um Drittstaatsangehörige handelt – auch EU-Bürger werden.  
-  
+Für das Verstehen der bundesrepublikanischen Gegenwart sollen wichtige Stationen der jüngeren deutschen Geschichte, insbesondere der Weg zur parlamentarischen Demokratie, als Wissenshintergrund vermittelt werden. Dabei wird Bezug genommen auf das Parlament in der Paulskirche 1848/49 und seinen Einfluss auf das Grundgesetz sowie auf die unterschiedliche Stellung der Volksvertretung im deutschen Kaiserreich und in der Weimarer Republik. Am Beispiel der nationalsozialistischen Diktatur werden die Folgen der Negierung von Rechtsstaatlichkeit und Demokratie und die daraus resultierende Verantwortung zum Erhalt der demokratischen Verfassung aufgezeigt. Als wichtige Stationen der deutschen Nachkriegsgeschichte sollen neben der Gründung der Bundesrepublik die Themen DDR, deutsche Teilung und Wiedervereinigung vermittelt werden. Grundsätzlich sollen nicht historische Daten, sondern geschichtliche Zusammenhänge im Mittelpunkt dieses Kursmoduls stehen. Da die Geschichte Deutschlands ganz wesentlich durch Zuwanderung geprägt worden ist, wird auch das Thema Migrationsgeschichte in den Themenkatalog aufgenommen. Dieses Thema stellt zudem einen guten Anknüpfungspunkt an die persönliche Migrationsgeschichte der Kursteilnehmer dar. Der Entwicklungsprozess der Bundesrepublik Deutschland soll im Zusammenhang mit dem Fortgang der europäischen Einigung und der wachsenden Bedeutung der europäischen Integration vermittelt werden. Daneben erhält dieses Thema seine Relevanz durch die Tatsache, dass Ausländer mit der Einbürgerung nicht nur deutsche Staatsangehörige, sondern – sofern es sich um Drittstaatsangehörige handelt – auch EU-Bürger werden.   
 c. Mensch und Gesellschaft  
   
-In diesem Themenfeld wird auf grundlegende Aspekte der gesellschaftlichen Kultur bzw. des gesellschaftlichen Zusammenlebens in Deutschland eingegangen. Diese thematische Ausrichtung trägt auch der Prägung Deutschlands durch Migrationsprozesse Rechnung, weshalb die an dieser Stelle im Konzept benannten Lerninhalte dem Kernbestand staatsbürgerlichen Grundwissens zugerechnet werden.  
-Wichtige Inhalte aus dem Modul „Leben in der Demokratie“, z. B. einzelne Grundrechte oder das Thema „Umgang mit Konflikten“, sind aufzugreifen und in Bezug zum gesellschaftlichen Miteinander im interkulturellen Kontext zu setzen. Neben Themen des religiösen und kulturellen Zusammenlebens im föderalen Deutschland soll auch der kulturelle Wandel infolge von Zuwanderung verdeutlicht werden.  
-Um den Blick stärker auf die gesellschaftliche Dimension von Kultur zu richten, ist auch das Thema Bildung in den Lerninhaltekatalog aufgenommen worden. Bildung soll als zentrale Voraussetzung zur gleichberechtigten Teilhabe am gesellschaftlich-politischen Leben in Deutschland vermittelt werden.  
-  
+In diesem Themenfeld wird auf grundlegende Aspekte der gesellschaftlichen Kultur bzw. des gesellschaftlichen Zusammenlebens in Deutschland eingegangen. Diese thematische Ausrichtung trägt auch der Prägung Deutschlands durch Migrationsprozesse Rechnung, weshalb die an dieser Stelle im Konzept benannten Lerninhalte dem Kernbestand staatsbürgerlichen Grundwissens zugerechnet werden. Wichtige Inhalte aus dem Modul „Leben in der Demokratie“, z. B. einzelne Grundrechte oder das Thema „Umgang mit Konflikten“, sind aufzugreifen und in Bezug zum gesellschaftlichen Miteinander im interkulturellen Kontext zu setzen. Neben Themen des religiösen und kulturellen Zusammenlebens im föderalen Deutschland soll auch der kulturelle Wandel infolge von Zuwanderung verdeutlicht werden. Um den Blick stärker auf die gesellschaftliche Dimension von Kultur zu richten, ist auch das Thema Bildung in den Lerninhaltekatalog aufgenommen worden. Bildung soll als zentrale Voraussetzung zur gleichberechtigten Teilhabe am gesellschaftlich-politischen Leben in Deutschland vermittelt werden.   
 3) Voraussetzungen auf Seiten der Teilnehmer  
   
 a. Sprachliche Voraussetzungen  
   
-Teilnehmer am Einbürgerungskurs sollten über das Sprachniveau B1 nach dem Gemeinsamen europäischen Referenzrahmen für Sprachen (GER) verfügen. Nur so ist gewährleistet, dass sowohl das Unterrichtsmaterial hinreichend verstanden als auch den Ausführungen von Lehrkräften und Mitlernenden angemessen gefolgt werden kann. Insbesondere im Bereich Leseverstehen sollte das Sprachniveau B1 sicher beherrscht werden.  
-  
+Teilnehmer am Einbürgerungskurs sollten über das Sprachniveau B1 nach dem Gemeinsamen europäischen Referenzrahmen für Sprachen (GER) verfügen. Nur so ist gewährleistet, dass sowohl das Unterrichtsmaterial hinreichend verstanden als auch den Ausführungen von Lehrkräften und Mitlernenden angemessen gefolgt werden kann. Insbesondere im Bereich Leseverstehen sollte das Sprachniveau B1 sicher beherrscht werden.   
 b. Selbstständiges Lernen  
   
-Obgleich alle Inhalte des Einbürgerungstests Gegenstand des Kurses sind, sollten die Teilnehmer in der Lage sein, sich grundlegender Lerntechniken zu bedienen, wie etwa Nachschlagen in einem Wörterbuch oder in Lexika, selbstständiges Mitschreiben im Unterricht, Organisation des Arbeitsplatzes und der Arbeitsmaterialien, selbstständiges Vor- und Nachbereiten sowie Wiederholen des Unterrichtsstoffes. Diese Lerntechniken ermöglichen den Teilnehmern eine individuelle und intensive Vorbereitung auf den Test über das Geschehen im Kurs hinaus und erhöhen die Bestehenschancen bei der abschließenden Prüfung.  
-  
+Obgleich alle Inhalte des Einbürgerungstests Gegenstand des Kurses sind, sollten die Teilnehmer in der Lage sein, sich grundlegender Lerntechniken zu bedienen, wie etwa Nachschlagen in einem Wörterbuch oder in Lexika, selbstständiges Mitschreiben im Unterricht, Organisation des Arbeitsplatzes und der Arbeitsmaterialien, selbstständiges Vor- und Nachbereiten sowie Wiederholen des Unterrichtsstoffes. Diese Lerntechniken ermöglichen den Teilnehmern eine individuelle und intensive Vorbereitung auf den Test über das Geschehen im Kurs hinaus und erhöhen die Bestehenschancen bei der abschließenden Prüfung.   
 c. Bereitschaft zur aktiven Mitarbeit im Kurs  
   
-Der handlungsorientierte Ansatz des Einbürgerungskurses erfordert die Bereitschaft des Einzelnen, sich aktiv in die Gestaltung des Unterrichtsgeschehens einzubringen. Nur so können die Teilnehmer umfassend von der Vermittlung der Inhalte im Kurs profitieren.  
-  
+Der handlungsorientierte Ansatz des Einbürgerungskurses erfordert die Bereitschaft des Einzelnen, sich aktiv in die Gestaltung des Unterrichtsgeschehens einzubringen. Nur so können die Teilnehmer umfassend von der Vermittlung der Inhalte im Kurs profitieren.   
 4) Methodisch-didaktische Prinzipien im Einbürgerungskurs  
   
 Die methodisch-didaktische Ausgestaltung des Einbürgerungskurses orientiert sich an folgenden grundlegenden Prinzipien:  
@@ -6947,8 +6924,7 @@ Bei der Aufbereitung der Themen und Inhalte steht Anschaulichkeit im Mittelpunkt
 
 5) Kursumfang  
   
-Der Einbürgerungskurs umfasst 60 Unterrichtseinheiten (UE) à 45 Minuten. Es wird empfohlen, eine tägliche Unterrichtszeit von 6 UE nicht zu überschreiten. Damit wird ein entsprechender zeitlicher Rahmen geschaffen, um die vorgesehenen Inhalte gegenüber dem 45 UE umfassenden Orientierungskurs erweiternd und vertiefend sowie mit Hilfe teilnehmerorientierter Methoden zu behandeln.  
-  
+Der Einbürgerungskurs umfasst 60 Unterrichtseinheiten (UE) à 45 Minuten. Es wird empfohlen, eine tägliche Unterrichtszeit von 6 UE nicht zu überschreiten. Damit wird ein entsprechender zeitlicher Rahmen geschaffen, um die vorgesehenen Inhalte gegenüber dem 45 UE umfassenden Orientierungskurs erweiternd und vertiefend sowie mit Hilfe teilnehmerorientierter Methoden zu behandeln.   
 
 Modul I:
 
@@ -7017,14 +6993,12 @@ III\. Themenbereiche und Lernziele (Module)
   
 Modul I: Einführung – Umfang: 1,5 UE  
   
-Die Kursteilnehmer und Kursleiter sollen sich zunächst kennenlernen und in einem offenen Gespräch ihre Erwartungen im Hinblick auf den Einbürgerungskurs und die Einbürgerung artikulieren. Nach der Vorstellung des Kursverlaufs werden erste lebensnahe Informationen in Bezug auf die Bundesrepublik Deutschland, das jeweilige Bundesland und die Kommune erarbeitet, um den Einstieg in das folgende Modul vorzubereiten.  
-  
+Die Kursteilnehmer und Kursleiter sollen sich zunächst kennenlernen und in einem offenen Gespräch ihre Erwartungen im Hinblick auf den Einbürgerungskurs und die Einbürgerung artikulieren. Nach der Vorstellung des Kursverlaufs werden erste lebensnahe Informationen in Bezug auf die Bundesrepublik Deutschland, das jeweilige Bundesland und die Kommune erarbeitet, um den Einstieg in das folgende Modul vorzubereiten.   
 Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss des Moduls „Einführung“ sind folgende übergeordnete Lernziele erreicht:  
   
-Die Kursteilnehmer (KT) ...  
-  
+Die Kursteilnehmer (KT) ...   
 
 ▪  
 kennen den Kursablauf.
@@ -7060,8 +7034,7 @@ Modul II: Leben in der Demokratie – Umfang: 33 UE
   
 Teil 1: Demokratie und Teilhabe an der politischen Gestaltung – Umfang: 11 UE  
   
-Der inhaltliche Schwerpunkt liegt hier auf dem Verständnis des Staatsaufbaus der Bundesrepublik Deutschland als Voraussetzung für eine Teilhabe an der politischen Gestaltung. Ausgehend von dem Wissen um die institutionelle Ordnung des politischen Systems und seine funktionalen Zusammenhänge gilt es in den einzelnen Lernzielbereichen ein Verständnis politischer Entscheidungsprozesse aufzubauen, das sowohl die Entscheidungsträger und ihre Legitimation als auch die Beteiligten an der politischen Willensbildung umfasst. Das Kennenlernen verschiedener Elemente der demokratischen Gesellschaftsordnung zielt dabei auf die Entwicklung oder Erweiterung von Kompetenzen, die notwendig sind, um Partizipationsmöglichkeiten bei der Lösung gesellschaftlicher Probleme erkennen und wahrnehmen zu können.  
-  
+Der inhaltliche Schwerpunkt liegt hier auf dem Verständnis des Staatsaufbaus der Bundesrepublik Deutschland als Voraussetzung für eine Teilhabe an der politischen Gestaltung. Ausgehend von dem Wissen um die institutionelle Ordnung des politischen Systems und seine funktionalen Zusammenhänge gilt es in den einzelnen Lernzielbereichen ein Verständnis politischer Entscheidungsprozesse aufzubauen, das sowohl die Entscheidungsträger und ihre Legitimation als auch die Beteiligten an der politischen Willensbildung umfasst. Das Kennenlernen verschiedener Elemente der demokratischen Gesellschaftsordnung zielt dabei auf die Entwicklung oder Erweiterung von Kompetenzen, die notwendig sind, um Partizipationsmöglichkeiten bei der Lösung gesellschaftlicher Probleme erkennen und wahrnehmen zu können.   
 a. Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss dieses Modulabschnitts sind die folgenden übergeordneten Lernziele erreicht:  
@@ -7115,8 +7088,7 @@ Modul II: Leben in der Demokratie
   
 Teil 2: Rechte und Pflichten – Umfang: 9 UE  
   
-Anhand anschaulicher Beispiele werden in diesem Modul Inhalt und Bedeutung der Grundrechte vermittelt und der Aufbau des Grundgesetzes erläutert. Die Kursteilnehmer entwickeln praxisnah ein tieferes Verständnis für die staatsbürgerlichen Pflichten und die Verantwortung des Einzelnen für das Gemeinwohl. Das Zusammenspiel zwischen Rechtsstaatsprinzip, Grundrechten, staatsbürgerlichen Pflichten und dem Bemühen des Staates um soziale Gerechtigkeit soll reflektiert und erörtert werden.  
-  
+Anhand anschaulicher Beispiele werden in diesem Modul Inhalt und Bedeutung der Grundrechte vermittelt und der Aufbau des Grundgesetzes erläutert. Die Kursteilnehmer entwickeln praxisnah ein tieferes Verständnis für die staatsbürgerlichen Pflichten und die Verantwortung des Einzelnen für das Gemeinwohl. Das Zusammenspiel zwischen Rechtsstaatsprinzip, Grundrechten, staatsbürgerlichen Pflichten und dem Bemühen des Staates um soziale Gerechtigkeit soll reflektiert und erörtert werden.   
 a. Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss dieses Modulabschnitts sind folgende übergeordnete Lernziele erreicht:  
@@ -7192,8 +7164,7 @@ Modul II: Leben in der Demokratie
   
 Teil 3: Konfliktlösung in der demokratischen Gesellschaft – Umfang: 7 UE  
   
-Der Umgang mit Konflikten im demokratischen Rechtsstaat ist ein wichtiger gesellschaftspolitischer Teilbereich, der für alle in Deutschland lebenden Menschen unmittelbar im Alltag erfahrbar werden kann. Daher ist es zunächst sinnvoll, sich die Bandbreite von möglichen Konflikten und die Ebenen, auf denen sich diese abspielen können, bewusst zu machen. Konflikte und mögliche Wege zu deren friedlicher Lösung sollen in diesem Teil des Kurses beispielhaft konkretisiert werden. Daraus lassen sich Grundprinzipien der Rechtsstaatlichkeit sowie ein Verständnis des Zusammenhangs der Lösungswege mit den Grundrechten und Werten der deutschen Verfassung herleiten. Die Teilnehmer sollen dazu angeregt werden, die Folgen verschiedener Wege der Konfliktbewältigung und Konfliktlösung zu durchdenken. Der Bezug zu spezifischen Problemstellungen ihrer Lebenswelt bildet die Leitlinie für die Auswahl des Unterrichtsmaterials.  
-  
+Der Umgang mit Konflikten im demokratischen Rechtsstaat ist ein wichtiger gesellschaftspolitischer Teilbereich, der für alle in Deutschland lebenden Menschen unmittelbar im Alltag erfahrbar werden kann. Daher ist es zunächst sinnvoll, sich die Bandbreite von möglichen Konflikten und die Ebenen, auf denen sich diese abspielen können, bewusst zu machen. Konflikte und mögliche Wege zu deren friedlicher Lösung sollen in diesem Teil des Kurses beispielhaft konkretisiert werden. Daraus lassen sich Grundprinzipien der Rechtsstaatlichkeit sowie ein Verständnis des Zusammenhangs der Lösungswege mit den Grundrechten und Werten der deutschen Verfassung herleiten. Die Teilnehmer sollen dazu angeregt werden, die Folgen verschiedener Wege der Konfliktbewältigung und Konfliktlösung zu durchdenken. Der Bezug zu spezifischen Problemstellungen ihrer Lebenswelt bildet die Leitlinie für die Auswahl des Unterrichtsmaterials.   
 a. Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss dieses Modulabschnitts sind die folgenden übergeordneten Lernziele erreicht:  
@@ -7237,8 +7208,7 @@ Modul II: Leben in der Demokratie
   
 Teil 4: Besonderheiten des Bundeslandes – Umfang: 6 UE  
   
-Dieser Teil hat die bundeslandspezifische Vertiefung des Wissens um demokratische Teilhabemöglichkeiten zum Ziel. Das einzelne Bundesland, in dem der Einbürgerungskurs durchgeführt wird, erhält an dieser Stelle Freiraum zur inhaltlichen Ausgestaltung unter Berücksichtigung der übergeordneten Lernziele und Schlüsselthemen. Auf diese Weise werden den Teilnehmern Bedeutung und Stellenwert der föderalen Struktur Deutschlands in der Politik und im Alltag bewusst.  
-  
+Dieser Teil hat die bundeslandspezifische Vertiefung des Wissens um demokratische Teilhabemöglichkeiten zum Ziel. Das einzelne Bundesland, in dem der Einbürgerungskurs durchgeführt wird, erhält an dieser Stelle Freiraum zur inhaltlichen Ausgestaltung unter Berücksichtigung der übergeordneten Lernziele und Schlüsselthemen. Auf diese Weise werden den Teilnehmern Bedeutung und Stellenwert der föderalen Struktur Deutschlands in der Politik und im Alltag bewusst.   
 a. Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss dieses Modulabschnitts ist folgendes übergeordnete Lernziel erreicht:  
@@ -7274,8 +7244,7 @@ kommunale Verwaltung, Bürgerbeteiligung, Bürgerantrag, Bürgerbegehren, Bürge
   
 Modul III: Geschichte und Verantwortung – Umfang: 13 UE  
   
-Zur Erlangung eines tieferen Verständnisses für die deutsche Gegenwart und für den Prozess der Einigung Europas zur Verwirklichung von Frieden, Freiheit und Gerechtigkeit sollen grundlegende Phasen und Ereignisse der deutschen Geschichte und insbesondere der Vorgeschichte der Bundesrepublik Deutschland erörtert und reflektiert werden. Dies soll unter Bezugnahme auf die Gegenwart der Bundesrepublik Deutschland und mit Blick auf die Ausbildung einer parlamentarischen Demokratie erfolgen. So soll beispielsweise der Zusammenhang zwischen dem Paulskirchenparlament 1848/49 und der Entstehung des Grundgesetzes aufgezeigt werden. Dazu gehört auch das Wissen, dass dem Parlament im deutschen Kaiserreich und in der Weimarer Republik jeweils eine unterschiedliche politische Bedeutung zukam und dass mit der nationalsozialistischen Diktatur die Prinzi-pien Demokratie und Rechtsstaatlichkeit aufgehoben und darüber hinaus mit Terror und menschenverachtenden Mitteln ideologische Vorstellungen durchgesetzt wurden. Hieraus resultiert eine besondere Verantwortung für den Erhalt der demokratischen Verfassung. Schließlich sollen Bedeutung und Einfluss der deutschen Teilung sowie des europäischen Einigungsprozesses auf die Gegenwart der Bundesrepublik Deutschland verstanden und reflektiert werden.  
-  
+Zur Erlangung eines tieferen Verständnisses für die deutsche Gegenwart und für den Prozess der Einigung Europas zur Verwirklichung von Frieden, Freiheit und Gerechtigkeit sollen grundlegende Phasen und Ereignisse der deutschen Geschichte und insbesondere der Vorgeschichte der Bundesrepublik Deutschland erörtert und reflektiert werden. Dies soll unter Bezugnahme auf die Gegenwart der Bundesrepublik Deutschland und mit Blick auf die Ausbildung einer parlamentarischen Demokratie erfolgen. So soll beispielsweise der Zusammenhang zwischen dem Paulskirchenparlament 1848/49 und der Entstehung des Grundgesetzes aufgezeigt werden. Dazu gehört auch das Wissen, dass dem Parlament im deutschen Kaiserreich und in der Weimarer Republik jeweils eine unterschiedliche politische Bedeutung zukam und dass mit der nationalsozialistischen Diktatur die Prinzi-pien Demokratie und Rechtsstaatlichkeit aufgehoben und darüber hinaus mit Terror und menschenverachtenden Mitteln ideologische Vorstellungen durchgesetzt wurden. Hieraus resultiert eine besondere Verantwortung für den Erhalt der demokratischen Verfassung. Schließlich sollen Bedeutung und Einfluss der deutschen Teilung sowie des europäischen Einigungsprozesses auf die Gegenwart der Bundesrepublik Deutschland verstanden und reflektiert werden.   
 a. Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss des Moduls „Geschichte und Verantwortung“ sind folgende übergeordnete Lernziele erreicht:  
@@ -7324,8 +7293,7 @@ Gründung der Bundesrepublik Deutschland, Wiederaufbau, Wirtschaftswunder, Teilu
   
 Modul IV: Mensch und Gesellschaft – Umfang: 11 UE  
   
-Das Modul „Mensch und Gesellschaft“ zielt auf verschiedene Aspekte des gesellschaftlichen Zusammenlebens in Deutschland. Die Teilnehmer setzen sich mit Interkulturalität und kulturellem Wandel auseinander. Der Kulturbegriff ist im Sinne der Einbürgerungswilligen so aufzufassen, dass er Bereiche einschließt, die das Leben der Teilnehmer maßgeblich beeinflussen. Sie sollen veranlasst werden, bisherige Erfahrungen ihres Lebens in Deutschland einzuordnen und gezielt auf ein friedliches und gemeinschaftliches Miteinander hin zu reflektieren. Diese Auseinandersetzung kann zu einem Nachdenken über die eigene Verortung in diesem kulturellen Umfeld beitragen und insbesondere den Blick auf bereits wahrgenommene oder zukünftig wahrnehmbare Teilhabechancen lenken.  
-  
+Das Modul „Mensch und Gesellschaft“ zielt auf verschiedene Aspekte des gesellschaftlichen Zusammenlebens in Deutschland. Die Teilnehmer setzen sich mit Interkulturalität und kulturellem Wandel auseinander. Der Kulturbegriff ist im Sinne der Einbürgerungswilligen so aufzufassen, dass er Bereiche einschließt, die das Leben der Teilnehmer maßgeblich beeinflussen. Sie sollen veranlasst werden, bisherige Erfahrungen ihres Lebens in Deutschland einzuordnen und gezielt auf ein friedliches und gemeinschaftliches Miteinander hin zu reflektieren. Diese Auseinandersetzung kann zu einem Nachdenken über die eigene Verortung in diesem kulturellen Umfeld beitragen und insbesondere den Blick auf bereits wahrgenommene oder zukünftig wahrnehmbare Teilhabechancen lenken.   
 a. Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach Abschluss des Moduls „Mensch und Gesellschaft“ sind folgende übergeordnete Lernziele erreicht:  
@@ -7378,14 +7346,12 @@ Regionale und lokale Besonderheiten, Interkulturalität, kultureller Wandel, Dis
 
 Modul V: Kursabschluss – Umfang: 1,5 UE  
   
-Der Kursabschluss gibt Raum, auf noch offengebliebene Fragen einzugehen und die Kursteilnehmer auf das weitere Verfahren vorzubereiten. Hier sollte auch die Möglichkeit zu einem gegenseitigen Feedback genutzt werden. Bestandteil dessen soll eine schriftliche Evaluation sein.  
-  
+Der Kursabschluss gibt Raum, auf noch offengebliebene Fragen einzugehen und die Kursteilnehmer auf das weitere Verfahren vorzubereiten. Hier sollte auch die Möglichkeit zu einem gegenseitigen Feedback genutzt werden. Bestandteil dessen soll eine schriftliche Evaluation sein.   
 Übergeordnete Lernziele/Schlüsselthemen  
   
 Nach dem Modul „Kursabschluss“ sind folgende übergeordnete Lernziele erreicht:  
   
-Die Kursteilnehmer (KT) ...  
-
+Die Kursteilnehmer (KT) ... 
 ▪  
 wissen, welche weiteren Schritte zur Erlangung der deutschen Staatsangehörigkeit notwendig sind.
 

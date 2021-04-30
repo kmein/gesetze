@@ -1,12 +1,7 @@
-# [IRegG] Gesetz zum Implantateregister Deutschland  (Implantateregistergesetz - IRegG)
-
-Ausfertigungsdatum: 12.12.2019
-
+% Gesetz zum Implantateregister Deutschland  (Implantateregistergesetz - IRegG)
+% Ausfertigungsdatum: 12.12.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -62,8 +57,9 @@ Ausfertigungsdatum: 12.12.2019
 
  
 
+ 
 
-## § 1 – Bezeichnung und Zweck
+# § 1 – Bezeichnung und Zweck
 
 (1) Zur Gewährleistung hoher Qualitäts- und Sicherheitsstandards bei der Gesundheitsversorgung mit Implantaten wird ein Implantateregister unter der Bezeichnung „Implantateregister Deutschland“ errichtet und geführt.
 
@@ -95,8 +91,7 @@ c) die Marktbeobachtung und die Medizinproduktevigilanz,
 
 6. wissenschaftlichen Zwecken.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes bezeichnet der Ausdruck:
 
@@ -122,15 +117,13 @@ d) Arztpraxen,
 
 7. „sonstige Kostenträger“ die Heilfürsorge der Bundeswehr und der Bundespolizei.
 
-
-## § 3 – Registerstelle
+# § 3 – Registerstelle
 
 (1) Das Bundesministerium für Gesundheit errichtet und betreibt eine Registerstelle für das Implantateregister. Die Registerstelle ist die für die Verarbeitung der ihr nach § 9 Absatz 1 und § 16 übermittelten Daten Verantwortliche nach Artikel 24 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72).
 
 (2) Die Registerstelle muss durch die Qualifikation ihrer Mitarbeiterinnen und Mitarbeiter sowie durch ihre räumliche, sachliche und technische Ausstattung gewährleisten, dass sie die ihr übertragenen Aufgaben erfüllen kann. Die Registerstelle muss weiter gewährleisten, dass Zugang zu den pseudonymisierten Daten nur solche Personen erhalten, die einer Geheimhaltungspflicht nach § 203 des Strafgesetzbuches unterliegen.
 
-
-## § 4 – Aufgaben der Registerstelle
+# § 4 – Aufgaben der Registerstelle
 
 (1) Die Registerstelle hat insbesondere
 
@@ -160,8 +153,7 @@ d) Arztpraxen,
 
 (5) Die Registerstelle stellt bei der Erfüllung ihrer Aufgaben die Integrität, Verfügbarkeit und Vertraulichkeit der Daten nach dem aktuellen Stand der Technik in Abstimmung mit dem Bundesamt für Sicherheit in der Informationstechnik sicher.
 
-
-## § 5 – Beleihung mit Aufgaben der Registerstelle; Verordnungsermächtigung
+# § 5 – Beleihung mit Aufgaben der Registerstelle; Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, eine juristische Person des Privatrechts, deren Mehrheitsgesellschafterin der Bund ist, mit Aufgaben der Registerstelle und den hierfür erforderlichen Befugnissen zu beleihen, wenn diese Person die Gewähr für die ordnungsgemäße Erfüllung der ihr übertragenen Aufgaben, insbesondere für den sicheren Betrieb des Implantateregisters, bietet. Wird eine juristische Person des Privatrechts nach Satz 1 mit der Aufgabe der Registerstelle nach § 4 Absatz 1 Nummer 3 beliehen, ist die Beliehene die für die Verarbeitung der ihr nach § 9 Absatz 1 und § 16 übermittelten Daten Verantwortliche nach Artikel 24 der Verordnung (EU) 2016/679.
 
@@ -185,8 +177,7 @@ d) Arztpraxen,
 
 2. die Rechte an diesen Softwareprogrammen und Daten überträgt.
 
-
-## § 6 – Rechts- und Fachaufsicht über die Beliehene
+# § 6 – Rechts- und Fachaufsicht über die Beliehene
 
 (1) Die Beliehene untersteht der Fachaufsicht einschließlich der Rechtsaufsicht des Bundesministeriums für Gesundheit. Zur Wahrnehmung seiner Aufsichtstätigkeit kann das Bundesministerium für Gesundheit insbesondere
 
@@ -204,8 +195,7 @@ Die Beliehene ist verpflichtet, den Weisungen nachzukommen.
 
 2. Gegenstände oder geschäftliche Unterlagen im erforderlichen Umfang einzusehen und in Verwahrung zu nehmen.
 
-
-## § 7 – Geschäftsstelle; Aufgaben der Geschäftsstelle
+# § 7 – Geschäftsstelle; Aufgaben der Geschäftsstelle
 
 (1) Das Bundesministerium für Gesundheit unterhält eine Geschäftsstelle für das Implantateregister.
 
@@ -239,15 +229,13 @@ Der Tätigkeitsbericht soll in verständlicher Form abgefasst und barrierefrei z
 
 Die Informationen müssen in verständlicher Form abgefasst sein, in mehreren Sprachen vorliegen und barrierefrei zugänglich sein.
 
-
-## § 8 – Vertrauensstelle
+# § 8 – Vertrauensstelle
 
 (1) Das Robert Koch-Institut richtet eine Vertrauensstelle für das Implantateregister ein. Die Vertrauensstelle ist organisatorisch, räumlich, personell und technisch von der Registerstelle und Geschäftsstelle getrennt. Die Vertrauensstelle ist die für die Verarbeitung der ihr nach § 17 übermittelten Daten Verantwortliche nach Artikel 24 der Verordnung (EU) 2016/679.
 
 (2) Die Vertrauensstelle muss durch die Qualifikation ihrer Mitarbeiterinnen und Mitarbeiter sowie durch ihre räumliche, sachliche und technische Ausstattung gewährleisten, dass sie die ihr übertragenen Aufgaben erfüllen kann. Die Vertrauensstelle muss weiter gewährleisten, dass Zugang zu den pseudonymisierten Daten nur solche Personen erhalten, die einer Geheimhaltungspflicht nach § 203 des Strafgesetzbuches unterliegen.
 
-
-## § 9 – Aufgaben der Vertrauensstelle
+# § 9 – Aufgaben der Vertrauensstelle
 
 (1) Die Vertrauensstelle hat
 
@@ -279,8 +267,7 @@ b) Widerspruch gegen die Verarbeitung personenbezogener Daten durch die Vertraue
 
 (+++ § 9 Absatz 2 bis 4: zur Geltung vgl. § 22 Abs. 1 Satz 2 +++)
 
-
-## § 10 – Auswertungsgruppen
+# § 10 – Auswertungsgruppen
 
 (1) Die Geschäftsstelle richtet für jeden im Implantateregister erfassten Implantattyp eine Auswertungsgruppe ein.
 
@@ -302,8 +289,7 @@ b) Widerspruch gegen die Verarbeitung personenbezogener Daten durch die Vertraue
 
 2. die verantwortliche Gesundheitseinrichtung, deren medizinische Versorgung Gegenstand der Interpretation und Beurteilung der statistischen Auswertung durch die Auswertungsgruppe ist.
 
-
-## § 11 – Aufgaben der Auswertungsgruppen
+# § 11 – Aufgaben der Auswertungsgruppen
 
 Jede Auswertungsgruppe hat für die Gruppe von Implantattypen, für die sie eingerichtet wurde,
 
@@ -313,8 +299,7 @@ Jede Auswertungsgruppe hat für die Gruppe von Implantattypen, für die sie eing
 
 3. das Ergebnis der Interpretation und Bewertung in einem Auswertungsbericht zusammenzufassen und diesen an die Geschäftsstelle zu übermitteln.
 
-
-## § 12 – Beirat
+# § 12 – Beirat
 
 (1) Zur Beratung und Unterstützung der Geschäftsstelle und der Registerstelle wird ein Beirat eingerichtet.
 
@@ -342,8 +327,7 @@ Jede Auswertungsgruppe hat für die Gruppe von Implantattypen, für die sie eing
 
 10. das Bundesministerium für Gesundheit.
 
-
-## § 13 – Aufgaben des Beirats
+# § 13 – Aufgaben des Beirats
 
 (1) Der Beirat berät und unterstützt die Registerstelle insbesondere
 
@@ -363,8 +347,7 @@ Jede Auswertungsgruppe hat für die Gruppe von Implantattypen, für die sie eing
 
 (3) Der Beirat gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums für Gesundheit.
 
-
-## § 14 – Produktdatenbank
+# § 14 – Produktdatenbank
 
 (1) Zur Erfassung der Produktdaten von Implantaten, die zur Erreichung der Zwecke des Implantateregisters nach § 1 erforderlich sind, errichtet und betreibt das Bundesministerium für Gesundheit eine zentrale Produktdatenbank.
 
@@ -382,8 +365,7 @@ Jede Auswertungsgruppe hat für die Gruppe von Implantattypen, für die sie eing
 
 (5) Das Bundesministerium für Gesundheit veröffentlicht auf seiner Internetseite eine Übersicht der in der zentralen Produktdatenbank registrierten Implantate.
 
-
-## § 15 – Pflichten der Produktverantwortlichen
+# § 15 – Pflichten der Produktverantwortlichen
 
 Die Produktverantwortlichen sind verpflichtet, folgende Daten in die zentrale Produktdatenbank einzugeben:
 
@@ -397,8 +379,7 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 
 3. unverzüglich jede Änderung der Daten nach den Nummern 1 und 2.
 
-
-## § 16 – Meldepflichten gegenüber der Registerstelle
+# § 16 – Meldepflichten gegenüber der Registerstelle
 
 (1) Die verantwortliche Gesundheitseinrichtung übermittelt der Registerstelle nach jeder implantatbezogenen Maßnahme
 
@@ -412,8 +393,7 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 
 (2) Die verantwortliche Gesundheitseinrichtung hat die Daten vollständig und richtig an die Registerstelle zu übermitteln. Sie hat die übermittelten Daten erforderlichenfalls zu vervollständigen oder zu korrigieren.
 
-
-## § 17 – Meldepflichten gegenüber der Vertrauensstelle
+# § 17 – Meldepflichten gegenüber der Vertrauensstelle
 
 (1) Die verantwortliche Gesundheitseinrichtung übermittelt der Vertrauensstelle nach jeder implantatbezogenen Maßnahme diejenigen patienten- und fallidentifizierenden Daten, die für die Zwecke des Implantateregisters nach § 1 erforderlich sind. Zu den erforderlichen patienten- und fallidentifizierenden Daten gehören insbesondere
 
@@ -439,20 +419,17 @@ b) unverzüglich nach dem Zeitpunkt, zu dem die Pflicht des Produktverantwortlic
 
 (4) Die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger sind verpflichtet, nach einheitlichen Kriterien eine eindeutige und unveränderbare Identifikationsnummer zu bilden und für ihre Versicherten bereitzustellen.
 
-
-## § 18 – Art der Datenübermittlung
+# § 18 – Art der Datenübermittlung
 
 Die verantwortlichen Gesundheitseinrichtungen, die gesetzlichen Krankenkassen, die privaten Krankenversicherungsunternehmen und die sonstigen Kostenträger haben für die Übermittlung der Daten zur Erfüllung ihrer Meldepflichten nach den §§ 16 und 17 die Telematikinfrastruktur nach § 306 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch zu verwenden.
 
-
-## § 19 – Grundsätze der Datenverarbeitung
+# § 19 – Grundsätze der Datenverarbeitung
 
 (1) Die Vertrauensstelle und die Registerstelle verarbeiten die bei ihnen gespeicherten Daten nach Maßgabe dieses Gesetzes.
 
 (2) Die in der Registerstelle gespeicherten Daten dürfen nur zu den in § 1 genannten Zwecken verarbeitet werden.
 
-
-## § 20 – Einheitliche Datenstruktur
+# § 20 – Einheitliche Datenstruktur
 
 (1) Die Übermittlung der Daten zur Erfüllung einer Meldepflicht nach den §§ 16 und 17 erfolgt auf der Grundlage einer einheitlichen Datenstruktur.
 
@@ -482,8 +459,7 @@ i) der oder des Beauftragten für den Datenschutz und die Informationsfreiheit u
 
 j) der für die Wahrnehmung der Interessen der Industrie maßgeblichen Bundesverbände aus dem Bereich der Informationstechnologien im Gesundheitswesen.
 
-
-## § 21 – Verarbeitung und Übermittlung von Daten bestehender Implantateregister
+# § 21 – Verarbeitung und Übermittlung von Daten bestehender Implantateregister
 
 (1) Die Vertrauensstelle und die Registerstelle sind berechtigt, personenbezogene Daten, die ihr von den Vertrauensstellen bestehender Implantateregister und von den Registerstellen bestehender Implantateregister übermittelt werden, zu verarbeiten.
 
@@ -511,8 +487,7 @@ b) über das den von der Datenübernahme betroffenen Patientinnen und Patienten 
 
 (4) Die Registerstellen der bestehenden Implantateregister sind berechtigt, die pseudonymisierten Registerdaten an die Registerstelle zur Aufnahme in das Implantateregister Deutschland zu übermitteln.
 
-
-## § 22 – Verfahren zur Datenübernahme von bestehenden Implantateregistern
+# § 22 – Verfahren zur Datenübernahme von bestehenden Implantateregistern
 
 (1) Die Vertrauensstelle hat die durch eine Vertrauensstelle eines bestehenden Implantateregisters übermittelten patienten- und fallidentifizierenden Daten unverzüglich zu pseudonymisieren und diese pseudonymisierten Daten an die Registerstelle zu übermitteln. § 9 Absatz 2 bis 4 gilt entsprechend.
 
@@ -522,8 +497,7 @@ b) über das den von der Datenübernahme betroffenen Patientinnen und Patienten 
 
 (4) Die Vertrauensstelle und die Registerstelle legen das Verfahren zur Übernahme der Daten bestehender Implantateregister im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und mit dem Bundesamt für Sicherheit in der Informationstechnik fest.
 
-
-## § 23 – Austausch anonymisierter Registerdaten
+# § 23 – Austausch anonymisierter Registerdaten
 
 Die Registerstelle darf zur Förderung der Zwecke des Implantateregisters nach § 1
 
@@ -533,8 +507,7 @@ Die Registerstelle darf zur Förderung der Zwecke des Implantateregisters nach �
 
 3. anderen deutschen und internationalen Implantateregistern anonymisierte Daten zur Verfügung stellen.
 
-
-## § 24 – Informations- und Auskunftspflicht gegenüber betroffenen Patientinnen und Patienten
+# § 24 – Informations- und Auskunftspflicht gegenüber betroffenen Patientinnen und Patienten
 
 (1) Die verantwortliche Gesundheitseinrichtung ist verpflichtet, den betroffenen Patientinnen und Patienten
 
@@ -544,13 +517,11 @@ Die Registerstelle darf zur Förderung der Zwecke des Implantateregisters nach �
 
 (2) Den betroffenen Patientinnen und Patienten sind die Informationen und die Kopie der übermittelten Daten nach Absatz 1 auch im Falle einer für sie bestehenden gesetzlichen oder rechtsgeschäftlichen Vertretung selbst zu übergeben, soweit sie aufgrund ihrer Verständnismöglichkeiten in der Lage sind, die Erläuterungen aufzunehmen. Anderenfalls sind die Informationen und die Kopie der übermittelten Daten nach Absatz 1 einer Person zu übergeben, die kraft Gesetzes oder kraft Rechtsgeschäft zur Vertretung der betroffenen Patientin oder des betroffenen Patienten berechtigt ist.
 
-
-## § 25 – Informationspflicht gegenüber den gesetzlichen Krankenkassen und privaten Krankenversicherungen und sonstigen Kostenträgern
+# § 25 – Informationspflicht gegenüber den gesetzlichen Krankenkassen und privaten Krankenversicherungen und sonstigen Kostenträgern
 
 Die verantwortliche Gesundheitseinrichtung, die eine implantatbezogene Maßnahme durchgeführt hat, informiert die gesetzliche Krankenkasse, das private Krankenversicherungsunternehmen oder den sonstigen Kostenträger der betroffenen Patientin oder des betroffenen Patienten über die Durchführung dieser Maßnahme.
 
-
-## § 26 – Beschränkung der Rechte betroffener Patientinnen und Patienten
+# § 26 – Beschränkung der Rechte betroffener Patientinnen und Patienten
 
 Der von einer implantatbezogenen Maßnahme betroffenen Patientin oder dem von einer implantatbezogenen Maßnahme betroffenen Patienten steht gegen die Vertrauensstelle und die Registerstelle nach Maßgabe des Artikels 23 der Verordnung (EU) 2016/679 kein Anspruch zu auf
 
@@ -558,20 +529,17 @@ Der von einer implantatbezogenen Maßnahme betroffenen Patientin oder dem von ei
 
 2. Widerspruch nach Artikel 21 der Verordnung (EU) 2016/679.
 
-
-## § 27 – Grundsätze des Zugangs zu Registerdaten
+# § 27 – Grundsätze des Zugangs zu Registerdaten
 
 Öffentliche und nicht öffentliche Stellen haben nur Zugang zu den gespeicherten Daten des Implantateregisters, soweit dieses Gesetz es vorsieht.
 
-
-## § 28 – Allgemeine Auskünfte
+# § 28 – Allgemeine Auskünfte
 
 (1) Die Geschäftsstelle kann allgemeine Auskünfte zur Arbeitsweise des Registers und zu dessen Datenbestand sowie allgemeine Auskünfte über den Datenbestand der Produktdatenbank zur Verfügung stellen.
 
 (2) Die allgemeinen Auskünfte dürfen keine personenbezogenen Daten enthalten.
 
-
-## § 29 – Datenübermittlung durch die Registerstelle
+# § 29 – Datenübermittlung durch die Registerstelle
 
 (1) Die Registerstelle übermittelt
 
@@ -615,8 +583,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 (4) Die Datenempfänger sind berechtigt, die übermittelten Daten zu verarbeiten und mit ihren anderen für die in Absatz 1 genannten Zwecke erhobenen Daten zusammenzuführen und auszuwerten.
 
-
-## § 30 – Datenübermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
+# § 30 – Datenübermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte
 
 (1) Die Registerstelle übermittelt dem Bundesinstitut für Arzneimittel und Medizinprodukte die Daten, die erforderlich sind
 
@@ -638,8 +605,7 @@ Die Registerstelle hat die pseudonymisierten Daten vor der Übermittlung an das 
 
 (5) Das Verfahren zur Datenübermittlung legen die Registerstelle und das Bundesinstitut für Arzneimittel und Medizinprodukte im Einvernehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit und dem Bundesamt für Sicherheit in der Informationstechnik fest.
 
-
-## § 31 – Datenübermittlung zu Forschungszwecken oder statistischen Zwecken; Datenbereitstellung
+# § 31 – Datenübermittlung zu Forschungszwecken oder statistischen Zwecken; Datenbereitstellung
 
 (1) Die Registerstelle soll Daten auf Antrag
 
@@ -671,8 +637,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 (7) Die Geschäftsstelle veröffentlicht jährlich einen Bericht über die nach Absatz 1 übermittelten Daten und die nach Absatz 2 zugänglich gemachten Daten auf der Internetseite des Implantateregisters.
 
-
-## § 32 – Anonymisierung
+# § 32 – Anonymisierung
 
 (1) Die Registerstelle hat die pseudonymisierten Daten zu anonymisieren, wenn den Zwecken des Implantateregisters nach § 1 auch mit anonymisierten Daten entsprochen werden kann.
 
@@ -682,8 +647,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 2. über die Vertrauensstelle die gesetzliche Krankenkasse, das private Krankenversicherungsunternehmen oder den sonstigen Kostenträger der betroffenen Patientin oder des betroffenen Patienten.
 
-
-## § 33 – Finanzierung durch Gebühren; Verordnungsermächtigung
+# § 33 – Finanzierung durch Gebühren; Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit erhebt für die Erbringung der nach diesem Gesetz oder nach den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen vorgesehenen individuell zurechenbaren öffentlichen Leistungen Gebühren zur Deckung des Verwaltungsaufwands. Die Gebühren werden erhoben von
 
@@ -697,8 +661,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 (3) Im Rahmen einer ambulanten privatärztlichen Behandlung gelten die Gebühren als gesondert berechnungsfähige Auslagen nach den §§ 3 und 10 der Gebührenordnung für Ärzte. Dies gilt nicht für wahlärztliche Behandlungen nach § 17 Absatz 3 des Krankenhausentgeltgesetzes.
 
-
-## § 34 – Vergütung der verantwortlichen Gesundheitseinrichtungen
+# § 34 – Vergütung der verantwortlichen Gesundheitseinrichtungen
 
 (1) Die Vergütung des Aufwandes der verantwortlichen Gesundheitseinrichtungen erfolgt
 
@@ -708,8 +671,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 (2) Mit der Vergütung nach Absatz 1 werden der einmalige und laufende Aufwand für die Erfüllung der Pflichten nach den §§ 16 und 17 Absatz 1 sowie den §§ 18, 20, 24 und 25 und die zu zahlenden Gebühren nach § 33 Absatz 1 Satz 2 Nummer 1 abgegolten.
 
-
-## § 35 – Vergütungsausschluss
+# § 35 – Vergütungsausschluss
 
 (1) Der Anspruch einer verantwortlichen Gesundheitseinrichtung auf Vergütung der meldepflichtigen implantatbezogenen Maßnahme gegen eine gesetzliche Krankenkasse, gegen ein privates Krankenversicherungsunternehmen oder gegen die betroffene Patientin oder den betroffenen Patienten entfällt, wenn die verantwortliche Gesundheitseinrichtung
 
@@ -719,8 +681,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 (2) Absatz 1 gilt für die Abrechnung einer meldepflichtigen implantatbezogenen Maßnahme zu Lasten eines Trägers der gesetzlichen Unfallversicherung oder eines sonstigen Kostenträgers entsprechend.
 
-
-## § 36 – Nachweispflicht
+# § 36 – Nachweispflicht
 
 (1) Bei der Abrechnung der implantatbezogenen Maßnahme weist die verantwortliche Gesundheitseinrichtung durch Vorlage der Meldebestätigung nach § 4 Absatz 3 nach, dass sie der Registerstelle die Daten nach § 16 Absatz 1 und der Vertrauensstelle die Daten nach § 17 Absatz 1 übermittelt und ein in der Produktdatenbank registriertes Produkt verwendet hat.
 
@@ -738,8 +699,7 @@ Die pseudonymisierten Daten werden in den Räumlichkeiten der Registerstelle ber
 
 (3) In der Abrechnung hat die verantwortliche Gesundheitseinrichtung auf ihre Nachweispflicht hinzuweisen.
 
-
-## § 37 – Verordnungsermächtigung
+# § 37 – Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung
 
@@ -777,8 +737,7 @@ j) die Anforderungen an die Anfrage, das Verfahren zur Entscheidung und die Anfo
 
 k) die Anforderung an die Anträge, das Verfahren zur Entscheidung und die Anforderungen an die Entscheidung über die Übermittlung und den Zugang sowie die Entscheidung über die Weiterverwendung der Daten zu Forschungszwecken und zu statistischen Zwecken nach § 31.
 
-
-## Anlage – (zu § 2 Nummer 1)Liste der Implantattypen
+# Anlage – (zu § 2 Nummer 1)Liste der Implantattypen
 
 (Fundstelle: BGBl. I 2019, 2505)
 

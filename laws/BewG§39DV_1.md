@@ -1,15 +1,11 @@
-# [BewG§39DV 1] Erste Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
-
-Ausfertigungsdatum: 30.08.1967
-
+% Erste Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
+% Ausfertigungsdatum: 30.08.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszahlen festgesetzt. Sie sind
 
@@ -19,18 +15,15 @@ Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszah
 
 zu entnehmen.
 
-
-## § 2
+# § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel 8 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 1 Nr. 1)  Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung
+# Anlage 1 – (zu § 1 Nr. 1)  Hauptbewertungsstützpunkte der landwirtschaftlichen Nutzung
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 938 - 945)
 
@@ -47,8 +40,7 @@ Ziffer
 
 2. In der Spalte "Bemerkungen" sind Hinweise enthalten
 
-a) auf andere im gleichen Betrieb vorkommende Nutzungen.  
-  
+a) auf andere im gleichen Betrieb vorkommende Nutzungen.   
 
 Es bedeuten
 
@@ -56,8 +48,7 @@ Es bedeuten
   
 
   
-b) darauf, daß der gleiche Betrieb auch Hauptbewertungsstützpunkt für eine andere Nutzung oder einen anderen Nutzungsteil ist.  
-  
+b) darauf, daß der gleiche Betrieb auch Hauptbewertungsstützpunkt für eine andere Nutzung oder einen anderen Nutzungsteil ist.   
 
 Es bedeuten
 
@@ -3008,8 +2999,7 @@ Berlin-Spandau
 
 H
 
-
-## Anlage 2 – (zu § 1 Nr. 2)  Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
+# Anlage 2 – (zu § 1 Nr. 2)  Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 946 - 947)
 

@@ -1,10 +1,7 @@
-# [ArbZG] Arbeitszeitgesetz  (ArbZG)
-
-Ausfertigungsdatum: 06.06.1994
-
+% Arbeitszeitgesetz  (ArbZG)
+% Ausfertigungsdatum: 06.06.1994
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck des Gesetzes ist es,
 
@@ -12,8 +9,7 @@ Zweck des Gesetzes ist es,
 
 2. den Sonntag und die staatlich anerkannten Feiertage als Tage der Arbeitsruhe und der seelischen Erhebung der Arbeitnehmer zu schützen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Arbeitszeit im Sinne dieses Gesetzes ist die Zeit vom Beginn bis zum Ende der Arbeit ohne die Ruhepausen; Arbeitszeiten bei mehreren Arbeitgebern sind zusammenzurechnen. Im Bergbau unter Tage zählen die Ruhepausen zur Arbeitszeit.
 
@@ -29,18 +25,15 @@ Zweck des Gesetzes ist es,
 
 2. Nachtarbeit an mindestens 48 Tagen im Kalenderjahr leisten.
 
-
-## § 3 – Arbeitszeit der Arbeitnehmer
+# § 3 – Arbeitszeit der Arbeitnehmer
 
 Die werktägliche Arbeitszeit der Arbeitnehmer darf acht Stunden nicht überschreiten. Sie kann auf bis zu zehn Stunden nur verlängert werden, wenn innerhalb von sechs Kalendermonaten oder innerhalb von 24 Wochen im Durchschnitt acht Stunden werktäglich nicht überschritten werden.
 
-
-## § 4 – Ruhepausen
+# § 4 – Ruhepausen
 
 Die Arbeit ist durch im voraus feststehende Ruhepausen von mindestens 30 Minuten bei einer Arbeitszeit von mehr als sechs bis zu neun Stunden und 45 Minuten bei einer Arbeitszeit von mehr als neun Stunden insgesamt zu unterbrechen. Die Ruhepausen nach Satz 1 können in Zeitabschnitte von jeweils mindestens 15 Minuten aufgeteilt werden. Länger als sechs Stunden hintereinander dürfen Arbeitnehmer nicht ohne Ruhepause beschäftigt werden.
 
-
-## § 5 – Ruhezeit
+# § 5 – Ruhezeit
 
 (1) Die Arbeitnehmer müssen nach Beendigung der täglichen Arbeitszeit eine ununterbrochene Ruhezeit von mindestens elf Stunden haben.
 
@@ -50,8 +43,7 @@ Die Arbeit ist durch im voraus feststehende Ruhepausen von mindestens 30 Minuten
 
 (4) (weggefallen)
 
-
-## § 6 – Nacht- und Schichtarbeit
+# § 6 – Nacht- und Schichtarbeit
 
 (1) Die Arbeitszeit der Nacht- und Schichtarbeitnehmer ist nach den gesicherten arbeitswissenschaftlichen Erkenntnissen über die menschengerechte Gestaltung der Arbeit festzulegen.
 
@@ -73,8 +65,7 @@ sofern dem nicht dringende betriebliche Erfordernisse entgegenstehen. Stehen der
 
 (6) Es ist sicherzustellen, daß Nachtarbeitnehmer den gleichen Zugang zur betrieblichen Weiterbildung und zu aufstiegsfördernden Maßnahmen haben wie die übrigen Arbeitnehmer.
 
-
-## § 7 – Abweichende Regelungen
+# § 7 – Abweichende Regelungen
 
 (1) In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
@@ -124,13 +115,11 @@ b) einen anderen Ausgleichszeitraum festzulegen,
 
 (9) Wird die werktägliche Arbeitszeit über zwölf Stunden hinaus verlängert, muss im unmittelbaren Anschluss an die Beendigung der Arbeitszeit eine Ruhezeit von mindestens elf Stunden gewährt werden.
 
-
-## § 8 – Gefährliche Arbeiten
+# § 8 – Gefährliche Arbeiten
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates für einzelne Beschäftigungsbereiche, für bestimmte Arbeiten oder für bestimmte Arbeitnehmergruppen, bei denen besondere Gefahren für die Gesundheit der Arbeitnehmer zu erwarten sind, die Arbeitszeit über § 3 hinaus beschränken, die Ruhepausen und Ruhezeiten über die §§ 4 und 5 hinaus ausdehnen, die Regelungen zum Schutz der Nacht- und Schichtarbeitnehmer in § 6 erweitern und die Abweichungsmöglichkeiten nach § 7 beschränken, soweit dies zum Schutz der Gesundheit der Arbeitnehmer erforderlich ist. Satz 1 gilt nicht für Beschäftigungsbereiche und Arbeiten in Betrieben, die der Bergaufsicht unterliegen.
 
-
-## § 9 – Sonn- und Feiertagsruhe
+# § 9 – Sonn- und Feiertagsruhe
 
 (1) Arbeitnehmer dürfen an Sonn- und gesetzlichen Feiertagen von 0 bis 24 Uhr nicht beschäftigt werden.
 
@@ -138,8 +127,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates f
 
 (3) Für Kraftfahrer und Beifahrer kann der Beginn der 24stündigen Sonn- und Feiertagsruhe um bis zu zwei Stunden vorverlegt werden.
 
-
-## § 10 – Sonn- und Feiertagsbeschäftigung
+# § 10 – Sonn- und Feiertagsbeschäftigung
 
 (1) Sofern die Arbeiten nicht an Werktagen vorgenommen werden können, dürfen Arbeitnehmer an Sonn- und Feiertagen abweichend von § 9 beschäftigt werden
 
@@ -181,8 +169,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates f
 
 (4) Sofern die Arbeiten nicht an Werktagen vorgenommen werden können, dürfen Arbeitnehmer zur Durchführung des Eil- und Großbetragszahlungsverkehrs und des Geld-, Devisen-, Wertpapier- und Derivatehandels abweichend von § 9 Abs. 1 an den auf einen Werktag fallenden Feiertagen beschäftigt werden, die nicht in allen Mitgliedstaaten der Europäischen Union Feiertage sind.
 
-
-## § 11 – Ausgleich für Sonn- und Feiertagsbeschäftigung
+# § 11 – Ausgleich für Sonn- und Feiertagsbeschäftigung
 
 (1) Mindestens 15 Sonntage im Jahr müssen beschäftigungsfrei bleiben.
 
@@ -192,8 +179,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates f
 
 (4) Die Sonn- oder Feiertagsruhe des § 9 oder der Ersatzruhetag des Absatzes 3 ist den Arbeitnehmern unmittelbar in Verbindung mit einer Ruhezeit nach § 5 zu gewähren, soweit dem technische oder arbeitsorganisatorische Gründe nicht entgegenstehen.
 
-
-## § 12 – Abweichende Regelungen
+# § 12 – Abweichende Regelungen
 
 In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder Dienstvereinbarung kann zugelassen werden,
 
@@ -207,8 +193,7 @@ In einem Tarifvertrag oder auf Grund eines Tarifvertrags in einer Betriebs- oder
 
 § 7 Abs. 3 bis 6 findet Anwendung.
 
-
-## § 13 – Ermächtigung, Anordnung, Bewilligung
+# § 13 – Ermächtigung, Anordnung, Bewilligung
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Vermeidung erheblicher Schäden unter Berücksichtigung des Schutzes der Arbeitnehmer und der Sonn- und Feiertagsruhe
 
@@ -252,8 +237,7 @@ und Anordnungen über die Beschäftigungszeit unter Berücksichtigung der für d
 
 (5) Die Aufsichtsbehörde hat abweichend von § 9 die Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen zu bewilligen, wenn bei einer weitgehenden Ausnutzung der gesetzlich zulässigen wöchentlichen Betriebszeiten und bei längeren Betriebszeiten im Ausland die Konkurrenzfähigkeit unzumutbar beeinträchtigt ist und durch die Genehmigung von Sonn- und Feiertagsarbeit die Beschäftigung gesichert werden kann.
 
-
-## § 14 – Außergewöhnliche Fälle
+# § 14 – Außergewöhnliche Fälle
 
 (1) Von den §§ 3 bis 5, 6 Abs. 2, §§ 7, 9 bis 11 darf abgewichen werden bei vorübergehenden Arbeiten in Notfällen und in außergewöhnlichen Fällen, die unabhängig vom Willen der Betroffenen eintreten und deren Folgen nicht auf andere Weise zu beseitigen sind, besonders wenn Rohstoffe oder Lebensmittel zu verderben oder Arbeitsergebnisse zu mißlingen drohen.
 
@@ -269,8 +253,7 @@ wenn dem Arbeitgeber andere Vorkehrungen nicht zugemutet werden können.
 
 (4) (weggefallen)
 
-
-## § 15 – Bewilligung, Ermächtigung
+# § 15 – Bewilligung, Ermächtigung
 
 (1) Die Aufsichtsbehörde kann
 
@@ -300,15 +283,13 @@ b) für Bau- und Montagestellen,
 
 (4) Werden Ausnahmen nach Absatz 1 oder 2 zugelassen, darf die Arbeitszeit 48 Stunden wöchentlich im Durchschnitt von sechs Kalendermonaten oder 24 Wochen nicht überschreiten.
 
-
-## § 16 – Aushang und Arbeitszeitnachweise
+# § 16 – Aushang und Arbeitszeitnachweise
 
 (1) Der Arbeitgeber ist verpflichtet, einen Abdruck dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen, für den Betrieb geltenden Rechtsverordnungen und der für den Betrieb geltenden Tarifverträge und Betriebs- oder Dienstvereinbarungen im Sinne des § 7 Abs. 1 bis 3, §§ 12 und 21a Abs. 6 an geeigneter Stelle im Betrieb zur Einsichtnahme auszulegen oder auszuhängen.
 
 (2) Der Arbeitgeber ist verpflichtet, die über die werktägliche Arbeitszeit des § 3 Satz 1 hinausgehende Arbeitszeit der Arbeitnehmer aufzuzeichnen und ein Verzeichnis der Arbeitnehmer zu führen, die in eine Verlängerung der Arbeitszeit gemäß § 7 Abs. 7 eingewilligt haben. Die Nachweise sind mindestens zwei Jahre aufzubewahren.
 
-
-## § 17 – Aufsichtsbehörde
+# § 17 – Aufsichtsbehörde
 
 (1) Die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen wird von den nach Landesrecht zuständigen Behörden (Aufsichtsbehörden) überwacht.
 
@@ -322,8 +303,7 @@ b) für Bau- und Montagestellen,
 
 (6) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 18 – Nichtanwendung des Gesetzes
+# § 18 – Nichtanwendung des Gesetzes
 
 (1) Dieses Gesetz ist nicht anzuwenden auf
 
@@ -341,25 +321,21 @@ b) für Bau- und Montagestellen,
 
 (4) (weggefallen)
 
-
-## § 19 – Beschäftigung im öffentlichen Dienst
+# § 19 – Beschäftigung im öffentlichen Dienst
 
 Bei der Wahrnehmung hoheitlicher Aufgaben im öffentlichen Dienst können, soweit keine tarifvertragliche Regelung besteht, durch die zuständige Dienstbehörde die für Beamte geltenden Bestimmungen über die Arbeitszeit auf die Arbeitnehmer übertragen werden; insoweit finden die §§ 3 bis 13 keine Anwendung.
 
-
-## § 20 – Beschäftigung in der Luftfahrt
+# § 20 – Beschäftigung in der Luftfahrt
 
 Für die Beschäftigung von Arbeitnehmern als Besatzungsmitglieder von Luftfahrzeugen gelten anstelle der Vorschriften dieses Gesetzes über Arbeits- und Ruhezeiten die Vorschriften über Flug-, Flugdienst- und Ruhezeiten der Zweiten Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät in der jeweils geltenden Fassung.
 
-
-## § 21 – Beschäftigung in der Binnenschifffahrt
+# § 21 – Beschäftigung in der Binnenschifffahrt
 
 (1) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates, auch zur Umsetzung zwischenstaatlicher Vereinbarungen oder Rechtsakten der Europäischen Union, abweichend von den Vorschriften dieses Gesetzes die Bedingungen für die Arbeitszeitgestaltung von Arbeitnehmern, die als Mitglied der Besatzung oder des Bordpersonals an Bord eines Fahrzeugs in der Binnenschifffahrt beschäftigt sind, regeln, soweit dies erforderlich ist, um den besonderen Bedingungen an Bord von Binnenschiffen Rechnung zu tragen. Insbesondere können in diesen Rechtsverordnungen die notwendigen Bedingungen für die Sicherheit und den Gesundheitsschutz im Sinne des § 1, einschließlich gesundheitlicher Untersuchungen hinsichtlich der Auswirkungen der Arbeitszeitbedingungen auf einem Schiff in der Binnenschifffahrt, sowie die notwendigen Bedingungen für den Schutz der Sonn- und Feiertagsruhe bestimmt werden. In Rechtsverordnungen nach Satz 1 kann ferner bestimmt werden, dass von den Vorschriften der Rechtsverordnung durch Tarifvertrag abgewichen werden kann.
 
 (2) Soweit die Bundesregierung von der Ermächtigung des Absatzes 1 keinen Gebrauch macht, gelten die Vorschriften dieses Gesetzes für das Fahrpersonal auf Binnenschiffen, es sei denn, binnenschifffahrtsrechtliche Vorschriften über Ruhezeiten stehen dem entgegen. Bei Anwendung des Satzes 1 kann durch Tarifvertrag von den Vorschriften dieses Gesetzes abgewichen werden, um der Eigenart der Binnenschifffahrt Rechnung zu tragen.
 
-
-## § 21a – Beschäftigung im Straßentransport
+# § 21a – Beschäftigung im Straßentransport
 
 (1) Für die Beschäftigung von Arbeitnehmern als Fahrer oder Beifahrer bei Straßenverkehrstätigkeiten im Sinne der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates (ABl. EG Nr. L 102 S. 1) oder des Europäischen Übereinkommens über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) vom 1. Juli 1970 (BGBl. II 1974 S. 1473) in ihren jeweiligen Fassungen gelten die Vorschriften dieses Gesetzes, soweit nicht die folgenden Absätze abweichende Regelungen enthalten. Die Vorschriften der Verordnung (EG) Nr. 561/2006 und des AETR bleiben unberührt.
 
@@ -391,8 +367,7 @@ Für die Zeiten nach Satz 1 Nr. 1 und 2 gilt dies nur, wenn der Zeitraum und des
 
 (8) Zur Berechnung der Arbeitszeit fordert der Arbeitgeber den Arbeitnehmer schriftlich auf, ihm eine Aufstellung der bei einem anderen Arbeitgeber geleisteten Arbeitszeit vorzulegen. Der Arbeitnehmer legt diese Angaben schriftlich vor.
 
-
-## § 22 – Bußgeldvorschriften
+# § 22 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als Arbeitgeber vorsätzlich oder fahrlässig
 
@@ -418,8 +393,7 @@ Für die Zeiten nach Satz 1 Nr. 1 und 2 gilt dies nur, wenn der Zeitraum und des
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 bis 7, 9 und 10 mit einer Geldbuße bis zu dreißigtausend Euro, in den Fällen des Absatzes 1 Nr. 8 mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
-
-## § 23 – Strafvorschriften
+# § 23 – Strafvorschriften
 
 (1) Wer eine der in § 22 Abs. 1 Nr. 1 bis 3, 5 bis 7 bezeichneten Handlungen
 
@@ -431,17 +405,14 @@ wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (2) Wer in den Fällen des Absatzes 1 Nr. 1 die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 180 Tagessätzen bestraft.
 
-
-## § 24 – Umsetzung von zwischenstaatlichen Vereinbarungen und Rechtsakten der EG
+# § 24 – Umsetzung von zwischenstaatlichen Vereinbarungen und Rechtsakten der EG
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates zur Erfüllung von Verpflichtungen aus zwischenstaatlichen Vereinbarungen oder zur Umsetzung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften, die Sachbereiche dieses Gesetzes betreffen, Rechtsverordnungen nach diesem Gesetz erlassen.
 
-
-## § 25 – Übergangsregelung für Tarifverträge
+# § 25 – Übergangsregelung für Tarifverträge
 
 Enthält ein am 1. Januar 2004 bestehender oder nachwirkender Tarifvertrag abweichende Regelungen nach § 7 Abs. 1 oder 2 oder § 12 Satz 1, die den in diesen Vorschriften festgelegten Höchstrahmen überschreiten, bleiben diese tarifvertraglichen Bestimmungen bis zum 31. Dezember 2006 unberührt. Tarifverträgen nach Satz 1 stehen durch Tarifvertrag zugelassene Betriebsvereinbarungen sowie Regelungen nach § 7 Abs. 4 gleich.
 
-
-## § 26
+# § 26
 
 (weggefallen)

@@ -1,25 +1,19 @@
-# [NLPosV] Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten für Netto-Leerverkaufspositionen  (Netto-Leerverkaufspositionsverordnung - NLPosV)
-
-Ausfertigungsdatum: 17.12.2012
-
+% Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten für Netto-Leerverkaufspositionen  (Netto-Leerverkaufspositionsverordnung - NLPosV)
+% Ausfertigungsdatum: 17.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30h Absatz 4 Satz 1 Nummer 1 und Nummer 1a des Wertpapierhandelsgesetzes, der durch Artikel 1 des Gesetzes vom 6. November 2012 (BGBl. I S. 2286) eingefügt worden ist, und in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, die zuletzt durch Artikel 1 der Verordnung vom 20. November 2012 (BGBl. I S. 2343) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf die Mitteilungen und Veröffentlichungen von Netto-Leerverkaufspositionen nach den Artikeln 5 bis 9 der Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit Default Swaps (ABl. L 86 vom 24.3.2012, S. 1) in der jeweils geltenden Fassung.
 
-
-## § 2 – Allgemeine Bestimmungen zur Mitteilungspflicht
+# § 2 – Allgemeine Bestimmungen zur Mitteilungspflicht
 
 Der Inhaber einer Netto-Leerverkaufsposition, für die er nach Artikel 5 Absatz 1, Artikel 7 Absatz 1 und Artikel 8 der Verordnung (EU) Nr. 236/2012 mitteilungspflichtig ist (Positionsinhaber), hat seine Mitteilungen elektronisch nach Maßgabe der §§ 5 und 6 in Verbindung mit den §§ 3 und 4 an die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) zu übermitteln.
 
-
-## § 3 – Angaben zur Person des Positionsinhabers
+# § 3 – Angaben zur Person des Positionsinhabers
 
 (1) Der Positionsinhaber hat der Bundesanstalt spätestens bei Abgabe der ersten Mitteilung die nach Absatz 2 oder Absatz 3 erforderlichen Angaben zu seiner Person zu übermitteln. Die Übermittlung hat nach Maßgabe des § 6 Absatz 1 Satz 2 Nummer 3 und 4 zu erfolgen.
 
@@ -59,8 +53,7 @@ Zur Überprüfung der Identität ist die Kopie eines Auszugs aus dem Handels- od
 
 (4) Jede Änderung der Angaben nach Absatz 2 Satz 1 Nummer 1, 2 und 7 sowie Absatz 3 Satz 1 Nummer 1 bis 3 ist der Bundesanstalt spätestens im Anschluss an die nächste Mitteilung schriftlich mitzuteilen.
 
-
-## § 4 – Benennung einer Kontaktperson
+# § 4 – Benennung einer Kontaktperson
 
 (1) Der Positionsinhaber hat eine natürliche Person zu benennen, die für ihn die Mitteilungen abgibt und für Rückfragen zur Verfügung steht (Kontaktperson). Ist der Positionsinhaber eine natürliche Person, kann er selbst Kontaktperson sein. Der Positionsinhaber kann auch mehrere Kontaktpersonen benennen. Die Benennung muss spätestens bei Abgabe der ersten Mitteilung erfolgen.
 
@@ -84,15 +77,13 @@ Die Übermittlung hat nach Maßgabe des § 6 Absatz 1 Satz 2 Nummer 1 und 3 zu e
 
 (4) Jede Änderung der Angaben nach Absatz 3 ist der Bundesanstalt mit der nächsten Mitteilung unverzüglich unter Nutzung des elektronischen Meldeverfahrens mitzuteilen.
 
-
-## § 5 – Art und Weise der Übermittlung
+# § 5 – Art und Weise der Übermittlung
 
 (1) Die nach Abschnitt 2 erforderlichen Angaben sind der Bundesanstalt über deren elektronische Meldeplattform zu übermitteln. Dabei ist eines der dort zur Verfügung gestellten Verfahren zu nutzen. Für die Übermittlung sind die Formulare der Anhänge II und III der Delegierten Verordnung (EU) Nr. 826/2012 zu verwenden.
 
 (2) Bei technischen Problemen hat die Mitteilung fristwahrend per Fax zu erfolgen. Die elektronische Mitteilung ist unverzüglich nachzuholen, sobald die Probleme behoben sind.
 
-
-## § 6 – Zulassung zur Teilnahme am elektronischen Meldeverfahren
+# § 6 – Zulassung zur Teilnahme am elektronischen Meldeverfahren
 
 (1) Spätestens bei Abgabe der ersten Mitteilung nach Artikel 5 Absatz 1, Artikel 7 Absatz 1 und Artikel 8 der Verordnung (EU) Nr. 236/2012 hat die Kontaktperson die Zulassung zur Teilnahme am elektronischen Meldeverfahren „Netto-Leerverkaufspositionen“ (Meldeverfahren) zu beantragen. Für die Zulassung sind folgende Schritte erforderlich:
 
@@ -118,13 +109,11 @@ c) die Vollmachtsurkunde (§ 4 Absatz 2 Satz 2), sofern erforderlich.
 
 (5) Gibt eine meldende Person im Sinne des § 11 Absatz 1 die Mitteilung ab, werden die Informationen nach den Sätzen 2 und 3 dem Positionsinhaber und der Kontaktperson dieser meldenden Person übermittelt.
 
-
-## § 7 – Dauer der Speicherung
+# § 7 – Dauer der Speicherung
 
 Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten Netto-Leerverkaufsposition übermittelt, hat sie die vorhergehende Mitteilung über den Ablauf des Jahres, in dem diese Veränderung übermittelt worden ist, hinaus fünf Jahre lang zu speichern. Nach Ablauf dieser Zeit hat die Bundesanstalt diese Daten aus ihrer Datenbank zu löschen.
 
-
-## § 8 – Allgemeine Bestimmungen zur Veröffentlichungspflicht; Auftragsnummer der Veröffentlichung
+# § 8 – Allgemeine Bestimmungen zur Veröffentlichungspflicht; Auftragsnummer der Veröffentlichung
 
 (1) Der Inhaber einer nach Artikel 6 Absatz 1 der Verordnung (EU) Nr. 236/2012 zu veröffentlichenden Netto-Leerverkaufsposition ist verpflichtet, die Veröffentlichung dieser Position im Bundesanzeiger nach Maßgabe dieses Abschnitts vorzunehmen.
 
@@ -132,8 +121,7 @@ Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten Netto-Leerverk
 
 (3) Für jede Veröffentlichung vergibt der Betreiber des Bundesanzeigers eine Auftragsnummer und übermittelt diese der Kontaktperson.
 
-
-## § 9 – Identifikation des Positionsinhabers und seiner Kontaktperson beim Betreiber des Bundesanzeigers
+# § 9 – Identifikation des Positionsinhabers und seiner Kontaktperson beim Betreiber des Bundesanzeigers
 
 (1) Der Positionsinhaber muss sich gegenüber dem Betreiber des Bundesanzeigers spätestens bis zur Vornahme der ersten Veröffentlichung identifizieren. § 3 sowie § 4 Absatz 1, 2, 3 Satz 1 und Absatz 4 sind entsprechend anzuwenden. Bei der Identifizierung muss der Positionsinhaber eine Kontaktperson nennen; die Benennung mehrerer Kontaktpersonen ist nicht zulässig.
 
@@ -141,15 +129,13 @@ Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten Netto-Leerverk
 
 (3) Beim Betreiber des Bundesanzeigers bereits bestehende Benutzerkonten mit den dazugehörigen Passwörtern und Benutzernamen können für die Identifikation nach Absatz 1 verwendet werden.
 
-
-## § 10 – Übermittlung der Daten
+# § 10 – Übermittlung der Daten
 
 (1) Für die Übermittlung der Daten stellt der Betreiber des Bundesanzeigers auf dessen elektronischer Serviceplattform ein Verfahren zur Verfügung, mit dem die Angaben nach § 9 Absatz 1 und 3 sowie die Daten nach Artikel 3 in Verbindung mit dem Anhang I Tabelle 2 der Delegierten Verordnung (EU) Nr. 826/2012 zu übermitteln sind. Felder, die wegen der Art oder Struktur der zu veröffentlichenden Position nicht benötigt werden, bleiben leer.
 
 (2) Die Daten können auch im XML-Format übermittelt werden. Der Betreiber des Bundesanzeigers gibt dafür ein Schema vor.
 
-
-## § 11 – Mitteilung und Veröffentlichung durch Dritte
+# § 11 – Mitteilung und Veröffentlichung durch Dritte
 
 (1) Der Positionsinhaber kann seine Mitteilungen und Veröffentlichungen auf eigene Kosten auch durch einen externen Dritten (meldende Person) vornehmen lassen, wenn die meldende Person geeignet im Sinne des § 12 ist.
 
@@ -161,8 +147,7 @@ Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten Netto-Leerverk
 
 (5) Die Benennung mehrerer Kontaktpersonen durch die meldende Person ist nur für die Mitteilungen gegenüber der Bundesanstalt zulässig.
 
-
-## § 12 – Eignung des Dritten
+# § 12 – Eignung des Dritten
 
 (1) Geeignet ist eine meldende Person, wenn sie die Einhaltung der Mitteilungs- und Veröffentlichungspflichten für Netto-Leerverkaufspositionen nach der Verordnung (EU) Nr. 236/2012 und den diese ausgestaltenden Rechtsakten dauerhaft gewährleistet.
 
@@ -170,13 +155,11 @@ Wird der Bundesanstalt eine Veränderung einer zuvor mitgeteilten Netto-Leerverk
 
 (3) Der Betreiber des Bundesanzeigers ist über die Feststellung der mangelnden Eignung und den Widerruf der Zulassung unverzüglich zu informieren.
 
-
-## § 13 – Pflichterfüllung bei Einschaltung eines Dritten
+# § 13 – Pflichterfüllung bei Einschaltung eines Dritten
 
 Schaltet ein Positionsinhaber eine meldende Person ein, hat er seine Pflichten erst dann ordnungsgemäß erfüllt, wenn die meldende Person die Mitteilung gegenüber der Bundesanstalt abgegeben und, soweit erforderlich, auch die Veröffentlichung im Bundesanzeiger vollständig und richtig innerhalb der in Artikel 9 Absatz 2 Satz 3 der Verordnung (EU) Nr. 236/2012 vorgeschriebenen Frist vorgenommen hat.
 
-
-## § 14 – Befugnisse der Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers
+# § 14 – Befugnisse der Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers
 
 (1) Im Hinblick auf die Veröffentlichungen nach Artikel 6 Absatz 1 der Verordnung (EU) Nr. 236/2012 überwacht die Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers die Einhaltung von Mindestqualitätsnormen in Bezug auf
 
@@ -192,7 +175,6 @@ Schaltet ein Positionsinhaber eine meldende Person ein, hat er seine Pflichten e
 
 (3) Falls der Betreiber des Bundesanzeigers dem berechtigten Verlangen der Bundesanstalt nicht nachkommt, kann diese gegenüber dem Bundesministerium der Justiz und für Verbraucherschutz, das Kontroll- und Aufsichtsbehörde des Bundesanzeigers ist, darauf hinwirken, dass der Betreiber des Bundesanzeigers seine Pflichten erfüllt und die Missstände beseitigt werden.
 
-
-## § 15 – Inkrafttreten, Außerkrafttreten
+# § 15 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Zugleich tritt die Netto-Leerverkaufspositionsverordnung vom 8. März 2012 (BGBl. I S. 454) außer Kraft.

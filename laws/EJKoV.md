@@ -1,20 +1,15 @@
-# [EJKoV] Verordnung über die Koordinierung der Zusammenarbeit mit Eurojust  (Eurojust-Koordinierungs-Verordnung - EJKoV)
-
-Ausfertigungsdatum: 26.09.2012
-
+% Verordnung über die Koordinierung der Zusammenarbeit mit Eurojust  (Eurojust-Koordinierungs-Verordnung - EJKoV)
+% Ausfertigungsdatum: 26.09.2012
  
-
-## § 1 – Gegenstand der Verordnung
+# § 1 – Gegenstand der Verordnung
 
 Diese Verordnung regelt die Zusammenarbeit zwischen Eurojust-Anlaufstellen, Eurojust-Kontaktstellen und Eurojust.
 
-
-## § 2 – Eurojust-Anlaufstellen
+# § 2 – Eurojust-Anlaufstellen
 
 Das Bundesamt für Justiz, der Generalbundesanwalt beim Bundesgerichtshof und die von den Landesregierungen bestimmten Kontaktstellen nach § 12 Absatz 2 des Eurojust-Gesetzes sind zugleich Eurojust-Anlaufstellen nach Artikel 20 Absatz 1 der Verordnung (EU) 2018/1727 des Europäischen Parlaments und des Rates vom 14. November 2018 betreffend die Agentur der Europäischen Union für justizielle Zusammenarbeit in Strafsachen (Eurojust) und zur Ersetzung und Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L 295 vom 21.11.2018, S. 138 – Eurojust-Verordnung).
 
-
-## § 3 – Eurojust-Kontaktstellen
+# § 3 – Eurojust-Kontaktstellen
 
 Kontaktstellen nach Artikel 20 Absatz 3 Buchstabe e der Eurojust-Verordnung (Eurojust-Kontaktstellen) sind:
 
@@ -28,8 +23,7 @@ c) Netzwerk im Sinne des Beschlusses 2007/845/JI des Rates vom 6. Dezember 2007 
 
 2. die Justizbehörde, die von der Bundesregierung für das Netzwerk im Sinne des Beschlusses 2008/852/JI des Rates vom 24. Oktober 2008 über ein Kontaktstellennetz zur Korruptionsbekämpfung (ABl. L 301 vom 12.11.2008, S. 38) benannt ist.
 
-
-## § 4 – Nationales Eurojust-Koordinierungssystem
+# § 4 – Nationales Eurojust-Koordinierungssystem
 
 (1) Zur Koordinierung der Zusammenarbeit zwischen
 

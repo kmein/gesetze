@@ -1,10 +1,7 @@
-# [BMASErnAnO] Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales  (BMASErnAnO)
-
-Ausfertigungsdatum: 09.12.2014
-
+% Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales  (BMASErnAnO)
+% Ausfertigungsdatum: 09.12.2014
  
-
-## § 1 – Unmittelbare Bundesverwaltung
+# § 1 – Unmittelbare Bundesverwaltung
 
 Es wird übertragen
 
@@ -14,8 +11,7 @@ Es wird übertragen
 
 jeweils für ihren oder seinen Geschäftsbereich die Befugnis zur Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten der Besoldungsgruppen A 2 bis A 15.
 
-
-## § 2 – Mittelbare Bundesverwaltung
+# § 2 – Mittelbare Bundesverwaltung
 
 (1) Es wird übertragen
 
@@ -33,8 +29,7 @@ jeweils für ihren Geschäftsbereich die Befugnis zur Ernennung und Entlassung d
 
 (5) Dem Vorstand der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation wird für seinen Geschäftsbereich die Befugnis zur Ernennung und Entlassung der Beamtinnen und Beamten der Besoldungsgruppen A 2 bis A 15 mit Ausnahme des Rechts zur Neubegründung von Beamtenverhältnissen übertragen. Der Vorstand kann diese Befugnis ganz oder teilweise auf die Geschäftsführerin oder den Geschäftsführer weiter übertragen.
 
-
-## § 3 – Bundesgerichte
+# § 3 – Bundesgerichte
 
 Es wird übertragen
 
@@ -44,7 +39,6 @@ Es wird übertragen
 
 jeweils für ihren oder seinen Geschäftsbereich die Befugnis zur Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten der Besoldungsgruppen A 2 bis A 15.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin für Arbeit und Soziales

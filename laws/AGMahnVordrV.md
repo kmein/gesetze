@@ -1,15 +1,11 @@
-# [AGMahnVordrV] Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
-
-Ausfertigungsdatum: 15.12.1977
-
+% Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren
+% Ausfertigungsdatum: 15.12.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des durch Artikel 3 Nr. 2 der Vereinfachungsnovelle vom 3. Dezember 1976 (BGBl. I S. 3281) eingefügten § 46a Abs. 7 des Arbeitsgerichtsgesetzes wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Vordrucke
+# § 1 – Vordrucke
 
 (1) Für das Mahnverfahren bei den Gerichten für Arbeitssachen werden eingeführt
 
@@ -37,8 +33,7 @@ Dies gilt nicht für Mahnverfahren, in denen
 
 (4) Der in Anlage 2 bestimmte Vordruck soll auf hellrotem Papier ausgeführt werden. Er kann auch als Durchschreibesatz mit einem dritten Blatt für eine von dem Antragsgegner zurückzubehaltende Durchschrift des Widerspruchs versehen werden.
 
-
-## § 1a – Beschriftung mittels Schreibprogramm
+# § 1a – Beschriftung mittels Schreibprogramm
 
 (1) Der in Anlage 1 bestimmte Vordruck kann in einem aus Blatt 1 bis 3 bestehenden Teil des Vordrucks für den Antrag auf Erlass des Mahnbescheids und in einem aus Blatt 3 bis 5 bestehenden Teil des Vordrucks für den Antrag auf Erlass des Vollstreckungsbescheids in einer Ausführung verwendet werden, in der die Blätter jeweils einzeln mithilfe eines Schreibprogramms zu beschriften sind. Das Programm muss
 
@@ -58,36 +53,29 @@ Dies gilt nicht für Mahnverfahren, in denen
 
 (6) Treten nicht dem Gericht zuzurechnende Mängel auf, ist die Anwendung der vorstehenden Vorschriften auszusetzen, bis die Ursache behoben ist.
 
-
-## § 2 – Angaben bei Verbraucherdarlehen und -finanzierungshilfen
+# § 2 – Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs geltend, so hat der Unternehmer oder der Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§ 690 Abs. 1 Nr. 3 der Zivilprozessordnung):  
-"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs vom .... Effektiver Jahreszins ... %".  
-In den Fällen des § 504 und § 505 des Bürgerlichen Gesetzbuchs genügt die Angabe:  
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs vom .... Effektiver Jahreszins ... %". In den Fällen des § 504 und § 505 des Bürgerlichen Gesetzbuchs genügt die Angabe:  
 "Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen Gesetzbuchs".
 
 (2) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar Forderungen aus einem Vertrag geltend, für den das Verbraucherkreditgesetz gilt, so hat der Unternehmer oder der Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§ 690 Abs. 1 Nr. 3 der Zivilprozessordnung):  
-"Anspruch aus Vertrag vom ..., für den das Verbraucherkreditgesetz gilt. Effektiver Jahreszins ... %".  
-In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:  
+"Anspruch aus Vertrag vom ..., für den das Verbraucherkreditgesetz gilt. Effektiver Jahreszins ... %". In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:  
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
 
+# § 2a – (weggefallen)
 
-## § 2a – (weggefallen)
-
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1978 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister  
 für Arbeit und Sozialordnung  
 Ehrenberg
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 2014, 1568 - 1580;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -97,8 +85,7 @@ für den Mahn- und Vollstreckungsbescheid
 
 <a href="../normengrafiken/bgbl1_2016/j0408_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2001, 379 - 382)
 

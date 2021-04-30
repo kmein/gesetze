@@ -1,10 +1,7 @@
-# [GewStG] Gewerbesteuergesetz  (GewStG)
-
-Ausfertigungsdatum: 01.12.1936
-
+% Gewerbesteuergesetz  (GewStG)
+% Ausfertigungsdatum: 01.12.1936
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt I
 
@@ -428,13 +425,11 @@ Zeitlicher Anwendungsbereich
 
 § 37
 
-
-## § 1 – Steuerberechtigte
+# § 1 – Steuerberechtigte
 
 Die Gemeinden erheben eine Gewerbesteuer als Gemeindesteuer.
 
-
-## § 2 – Steuergegenstand
+# § 2 – Steuergegenstand
 
 (1) ¹Der Gewerbesteuer unterliegt jeder stehende Gewerbebetrieb, soweit er im Inland betrieben wird. ²Unter Gewerbebetrieb ist ein gewerbliches Unternehmen im Sinne des Einkommensteuergesetzes zu verstehen. ³Im Inland betrieben wird ein Gewerbebetrieb, soweit für ihn im Inland oder auf einem in einem inländischen Schiffsregister eingetragenen Kauffahrteischiff eine Betriebsstätte unterhalten wird.
 
@@ -472,13 +467,11 @@ b) künstliche Inseln errichtet oder genutzt werden und Anlagen und Bauwerke fü
 
 (+++ § 2 Abs. 2: Zur Anwendung vgl. § 36 Abs. 2 +++)
 
-
-## § 2a – Arbeitsgemeinschaften
+# § 2a – Arbeitsgemeinschaften
 
 ¹Als Gewerbebetrieb gilt nicht die Tätigkeit der Arbeitsgemeinschaften, deren alleiniger Zweck in der Erfüllung eines einzigen Werkvertrags oder Werklieferungsvertrags besteht. ²Die Betriebsstätten der Arbeitsgemeinschaften gelten insoweit anteilig als Betriebsstätten der Beteiligten.
 
-
-## § 3 – Befreiungen
+# § 3 – Befreiungen
 
 Von der Gewerbesteuer sind befreit
 
@@ -568,8 +561,7 @@ e) bei Einrichtungen zur ambulanten oder stationären Rehabilitation die Behandl
 
 (+++ § 3: Zur Anwendung vgl. § 36 +++)
 
-
-## § 4 – Hebeberechtigte Gemeinde
+# § 4 – Hebeberechtigte Gemeinde
 
 (1) ¹Die stehenden Gewerbebetriebe unterliegen der Gewerbesteuer in der Gemeinde, in der eine Betriebsstätte zur Ausübung des stehenden Gewerbes unterhalten wird. ²Befinden sich Betriebsstätten desselben Gewerbebetriebs in mehreren Gemeinden, oder erstreckt sich eine Betriebsstätte über mehrere Gemeinden, so wird die Gewerbesteuer in jeder Gemeinde nach dem Teil des Steuermessbetrags erhoben, der auf sie entfällt.
 
@@ -577,20 +569,17 @@ e) bei Einrichtungen zur ambulanten oder stationären Rehabilitation die Behandl
 
 (3) ¹Für Betriebsstätten im nicht zur Bundesrepublik Deutschland gehörenden Teil eines grenzüberschreitenden Gewerbegebiets im Sinne des § 2 Absatz 7 Nummer 3 ist die Gemeinde hebeberechtigt, in der der zur Bundesrepublik Deutschland gehörende Teil des grenzüberschreitenden Gewerbegebiets liegt. ²Liegt der zur Bundesrepublik Deutschland gehörende Teil in mehreren Gemeinden, gilt Absatz 2 entsprechend.
 
-
-## § 5 – Steuerschuldner
+# § 5 – Steuerschuldner
 
 (1) ¹Steuerschuldner ist der Unternehmer. ²Als Unternehmer gilt der, für dessen Rechnung das Gewerbe betrieben wird. ³Ist die Tätigkeit einer Personengesellschaft Gewerbebetrieb, so ist Steuerschuldner die Gesellschaft. ⁴Wird das Gewerbe in der Rechtsform einer Europäischen wirtschaftlichen Interessenvereinigung mit Sitz im Geltungsbereich der Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 über die Schaffung einer Europäischen wirtschaftlichen Interessenvereinigung (EWIV) - (ABl. L 199 vom 31.7.1985, S. 1) betrieben, sind abweichend von Satz 3 die Mitglieder Gesamtschuldner.
 
 (2) ¹Geht ein Gewerbebetrieb im Ganzen auf einen anderen Unternehmer über (§ 2 Abs. 5), so ist der bisherige Unternehmer bis zum Zeitpunkt des Übergangs Steuerschuldner. ²Der andere Unternehmer ist von diesem Zeitpunkt an Steuerschuldner.
 
-
-## § 6 – Besteuerungsgrundlage
+# § 6 – Besteuerungsgrundlage
 
 Besteuerungsgrundlage für die Gewerbesteuer ist der Gewerbeertrag.
 
-
-## § 7 – Gewerbeertrag
+# § 7 – Gewerbeertrag
 
 ¹Gewerbeertrag ist der nach den Vorschriften des Einkommensteuergesetzes oder des Körperschaftsteuergesetzes zu ermittelnde Gewinn aus dem Gewerbebetrieb, der bei der Ermittlung des Einkommens für den dem Erhebungszeitraum (§ 14) entsprechenden Veranlagungszeitraum zu berücksichtigen ist, vermehrt und vermindert um die in den §§ 8 und 9 bezeichneten Beträge. ²Zum Gewerbeertrag gehört auch der Gewinn aus der Veräußerung oder Aufgabe
 
@@ -605,8 +594,7 @@ soweit er nicht auf eine natürliche Person als unmittelbar beteiligter Mitunter
 (+++ § 7: Zur Anwendung vgl. § 36 +++)  
 § 7 Satz 2 Nr. 2: Nach Maßgabe der Urteilsgründe mit Art. 3 Abs. 1 GG (100-1) vereinbar gem. BVerfGE v. 10.4.2018 - 1 BvR 1236/11 -
 
-
-## § 7a – Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
+# § 7a – Sonderregelung bei der Ermittlung des Gewerbeertrags einer Organgesellschaft
 
 (1) ¹Bei der Ermittlung des Gewerbeertrags einer Organgesellschaft ist § 9 Nummer 2a, 7 und 8 nicht anzuwenden. ²In den Fällen des Satzes 1 ist § 8 Nummer 1 bei Aufwendungen, die im unmittelbaren Zusammenhang mit Gewinnen aus Anteilen im Sinne des § 9 Nummer 2a, 7 oder 8 stehen, nicht anzuwenden.
 
@@ -622,8 +610,7 @@ enthalten, sind § 15 Satz 1 Nummer 2 Satz 2 bis 4 des Körperschaftsteuergesetz
 
 (+++ § 7a: Zur Anwendung vgl. § 36 Abs. 2b +++)
 
-
-## § 7b – Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
+# § 7b – Sonderregelung bei der Ermittlung des Gewerbeertrags bei unternehmensbezogener Sanierung
 
 (1) Die §§ 3a und 3c Absatz 4 des Einkommensteuergesetzes sind vorbehaltlich der nachfolgenden Absätze bei der Ermittlung des Gewerbeertrags entsprechend anzuwenden.
 
@@ -641,8 +628,7 @@ Ein nach Satz 1 verbleibender Sanierungsertrag mindert die Beträge nach Satz 1 
 
 (+++ § 7b: Zur Anwendung vgl. § 36 Abs. 2c +++)
 
-
-## § 8 – Hinzurechnungen
+# § 8 – Hinzurechnungen
 
 Dem Gewinn aus Gewerbebetrieb (§ 7) werden folgende Beträge wieder hinzugerechnet, soweit sie bei der Ermittlung des Gewinns abgesetzt worden sind:
 
@@ -700,13 +686,11 @@ entstanden sind, soweit der Ansatz des niedrigeren Teilwerts oder die sonstige G
 
 (+++ § 8: Zur Anwendung vgl. § 36 +++)
 
-
-## § 8a
+# § 8a
 
 (weggefallen)
 
-
-## § 9 – Kürzungen
+# § 9 – Kürzungen
 
 Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
@@ -714,8 +698,7 @@ Die Summe des Gewinns und der Hinzurechnungen wird gekürzt um
 
 1. wenn der Grundbesitz ganz oder zum Teil dem Gewerbebetrieb eines Gesellschafters oder Genossen dient,
 
-1a.  
-soweit der Gewerbeertrag Vergütungen im Sinne des § 15 Absatz 1 Satz 1 Nummer 2 Satz 1 des Einkommensteuergesetzes enthält, die der Gesellschafter von der Gesellschaft für seine Tätigkeit im Dienst der Gesellschaft oder für die Hingabe von Darlehen oder für die Überlassung von Wirtschaftsgütern, mit Ausnahme der Überlassung von Grundbesitz, bezogen hat. ²Satz 1 ist auch auf Vergütungen anzuwenden, die vor dem 19. Juni 2008 erstmals vereinbart worden sind, wenn die Vereinbarung nach diesem Zeitpunkt wesentlich geändert wird, oder
+1a. soweit der Gewerbeertrag Vergütungen im Sinne des § 15 Absatz 1 Satz 1 Nummer 2 Satz 1 des Einkommensteuergesetzes enthält, die der Gesellschafter von der Gesellschaft für seine Tätigkeit im Dienst der Gesellschaft oder für die Hingabe von Darlehen oder für die Überlassung von Wirtschaftsgütern, mit Ausnahme der Überlassung von Grundbesitz, bezogen hat. ²Satz 1 ist auch auf Vergütungen anzuwenden, die vor dem 19. Juni 2008 erstmals vereinbart worden sind, wenn die Vereinbarung nach diesem Zeitpunkt wesentlich geändert wird, oder
 
 2. soweit der Gewerbeertrag Gewinne aus der Aufdeckung stiller Reserven aus dem Grundbesitz enthält, der innerhalb von drei Jahren vor der Aufdeckung der stillen Reserven zu einem unter dem Teilwert liegenden Wert in das Betriebsvermögen des aufdeckenden Gewerbebetriebs überführt oder übertragen worden ist, und soweit diese Gewinne auf bis zur Überführung oder Übertragung entstandenen stillen Reserven entfallen.
 
@@ -723,11 +706,9 @@ soweit der Gewerbeertrag Vergütungen im Sinne des § 15 Absatz 1 Satz 1 Nummer 
 
 2. die Anteile am Gewinn einer in- oder ausländischen offenen Handelsgesellschaft, einer Kommanditgesellschaft oder einer anderen Gesellschaft, bei der die Gesellschafter als Unternehmer (Mitunternehmer) des Gewerbebetriebs anzusehen sind, wenn die Gewinnanteile bei Ermittlung des Gewinns angesetzt worden sind. ²Satz 1 ist bei Lebens- und Krankenversicherungsunternehmen nicht anzuwenden; für Pensionsfonds und für Einkünfte im Sinne des § 7 Satz 8 gilt Entsprechendes;
 
-2a.  
-die Gewinne aus Anteilen an einer nicht steuerbefreiten inländischen Kapitalgesellschaft im Sinne des § 2 Abs. 2, einer Kredit- oder Versicherungsanstalt des öffentlichen Rechts, einer Genossenschaften oder einer Unternehmensbeteiligungsgesellschaft im Sinne des § 3 Nr. 23, wenn die Beteiligung zu Beginn des Erhebungszeitraums mindestens 15 Prozent des Grund- oder Stammkapitals beträgt und die Gewinnanteile bei Ermittlung des Gewinns (§ 7) angesetzt worden sind. ²Ist ein Grund- oder Stammkapital nicht vorhanden, so ist die Beteiligung an dem Vermögen, bei Genossenschaften die Beteiligung an der Summe der Geschäftsguthaben, maßgebend. ³Im unmittelbaren Zusammenhang mit Gewinnanteilen stehende Aufwendungen mindern den Kürzungsbetrag, soweit entsprechende Beteiligungserträge zu berücksichtigen sind; insoweit findet § 8 Nr. 1 keine Anwendung. ⁴Nach § 8b Abs. 5 des Körperschaftsteuergesetzes nicht abziehbare Betriebsausgaben sind keine Gewinne aus Anteilen im Sinne des Satzes 1. ⁵Satz 1 ist bei Lebens- und Krankenversicherungsunternehmen auf Gewinne aus Anteilen, die den Kapitalanlagen zuzurechnen sind, nicht anzuwenden; für Pensionsfonds gilt Entsprechendes;
+2a. die Gewinne aus Anteilen an einer nicht steuerbefreiten inländischen Kapitalgesellschaft im Sinne des § 2 Abs. 2, einer Kredit- oder Versicherungsanstalt des öffentlichen Rechts, einer Genossenschaften oder einer Unternehmensbeteiligungsgesellschaft im Sinne des § 3 Nr. 23, wenn die Beteiligung zu Beginn des Erhebungszeitraums mindestens 15 Prozent des Grund- oder Stammkapitals beträgt und die Gewinnanteile bei Ermittlung des Gewinns (§ 7) angesetzt worden sind. ²Ist ein Grund- oder Stammkapital nicht vorhanden, so ist die Beteiligung an dem Vermögen, bei Genossenschaften die Beteiligung an der Summe der Geschäftsguthaben, maßgebend. ³Im unmittelbaren Zusammenhang mit Gewinnanteilen stehende Aufwendungen mindern den Kürzungsbetrag, soweit entsprechende Beteiligungserträge zu berücksichtigen sind; insoweit findet § 8 Nr. 1 keine Anwendung. ⁴Nach § 8b Abs. 5 des Körperschaftsteuergesetzes nicht abziehbare Betriebsausgaben sind keine Gewinne aus Anteilen im Sinne des Satzes 1. ⁵Satz 1 ist bei Lebens- und Krankenversicherungsunternehmen auf Gewinne aus Anteilen, die den Kapitalanlagen zuzurechnen sind, nicht anzuwenden; für Pensionsfonds gilt Entsprechendes;
 
-2b.  
-die nach § 8 Nr. 4 dem Gewerbeertrag einer Kommanditgesellschaft auf Aktien hinzugerechneten Gewinnanteile, wenn sie bei der Ermittlung des Gewinns (§ 7) angesetzt worden sind;
+2b. die nach § 8 Nr. 4 dem Gewerbeertrag einer Kommanditgesellschaft auf Aktien hinzugerechneten Gewinnanteile, wenn sie bei der Ermittlung des Gewinns (§ 7) angesetzt worden sind;
 
 3. den Teil des Gewerbeertrags eines inländischen Unternehmens, der auf eine nicht im Inland belegene Betriebsstätte dieses Unternehmens entfällt; dies gilt nicht für Einkünfte im Sinne des § 7 Satz 8. ²Bei Unternehmen, die ausschließlich den Betrieb von eigenen oder gecharterten Handelsschiffen im internationalen Verkehr zum Gegenstand haben, gelten 80 Prozent des Gewerbeertrags als auf eine nicht im Inland belegene Betriebsstätte entfallend. ³Ist Gegenstand eines Betriebs nicht ausschließlich der Betrieb von Handelsschiffen im internationalen Verkehr, so gelten 80 Prozent des Teils des Gewerbeertrags, der auf den Betrieb von Handelsschiffen im internationalen Verkehr entfällt, als auf eine nicht im Inland belegene Betriebsstätte entfallend; in diesem Fall ist Voraussetzung, dass dieser Teil gesondert ermittelt wird. ⁴Handelsschiffe werden im internationalen Verkehr betrieben, wenn eigene oder gecharterte Handelsschiffe im Wirtschaftsjahr überwiegend zur Beförderung von Personen und Gütern im Verkehr mit oder zwischen ausländischen Häfen, innerhalb eines ausländischen Hafens oder zwischen einem ausländischen Hafen und der freien See eingesetzt werden. ⁵Für die Anwendung der Sätze 2 bis 4 gilt § 5a Abs. 2 Satz 2 des Einkommensteuergesetzes entsprechend;
 
@@ -767,15 +748,13 @@ e) deren Zweck nach § 52 Absatz 2 Satz 2 der Abgabenordnung für gemeinnützig 
 
 (+++ § 9: Zur Anwendung vgl. § 36 dieses G u. § 53 Ab. 4 InvStG 2018 +++)
 
-
-## § 10 – Maßgebender Gewerbeertrag
+# § 10 – Maßgebender Gewerbeertrag
 
 (1) Maßgebend ist der Gewerbeertrag, der in dem Erhebungszeitraum bezogen worden ist, für den der Steuermessbetrag (§ 14) festgesetzt wird.
 
 (2) Weicht bei Unternehmen, die Bücher nach den Vorschriften des Handelsgesetzbuchs zu führen verpflichtet sind, das Wirtschaftsjahr, für das sie regelmäßig Abschlüsse machen, vom Kalenderjahr ab, so gilt der Gewerbeertrag als in dem Erhebungszeitraum bezogen, in dem das Wirtschaftsjahr endet.
 
-
-## § 10a – Gewerbeverlust
+# § 10a – Gewerbeverlust
 
 ¹Der maßgebende Gewerbeertrag wird bis zu einem Betrag in Höhe von 1 Million Euro um die Fehlbeträge gekürzt, die sich bei der Ermittlung des maßgebenden Gewerbeertrags für die vorangegangenen Erhebungszeiträume nach den Vorschriften der §§ 7 bis 10 ergeben haben, soweit die Fehlbeträge nicht bei der Ermittlung des Gewerbeertrags für die vorangegangenen Erhebungszeiträume berücksichtigt worden sind. ²Der 1 Million Euro übersteigende maßgebende Gewerbeertrag ist bis zu 60 Prozent um nach Satz 1 nicht berücksichtigte Fehlbeträge der vorangegangenen Erhebungszeiträume zu kürzen. ³Im Fall des § 2 Abs. 2 Satz 2 kann die Organgesellschaft den maßgebenden Gewerbeertrag nicht um Fehlbeträge kürzen, die sich vor dem rechtswirksamen Abschluss des Gewinnabführungsvertrags ergeben haben. ⁴Bei einer Mitunternehmerschaft ist der sich für die Mitunternehmerschaft insgesamt ergebende Fehlbetrag den Mitunternehmern entsprechend dem sich aus dem Gesellschaftsvertrag ergebenden allgemeinen Gewinnverteilungsschlüssel zuzurechnen; Vorabgewinnanteile sind nicht zu berücksichtigen. ⁵Für den Abzug der den Mitunternehmern zugerechneten Fehlbeträge nach Maßgabe der Sätze 1 und 2 ist der sich für die Mitunternehmerschaft insgesamt ergebende maßgebende Gewerbeertrag sowie der Höchstbetrag nach Satz 1 den Mitunternehmern entsprechend dem sich aus dem Gesellschaftsvertrag für das Abzugsjahr ergebenden allgemeinen Gewinnverteilungsschlüssel zuzurechnen; Vorabgewinnanteile sind nicht zu berücksichtigen. ⁶Die Höhe der vortragsfähigen Fehlbeträge ist gesondert festzustellen. ⁷Vortragsfähige Fehlbeträge sind die nach der Kürzung des maßgebenden Gewerbeertrags nach Satz 1 und 2 zum Schluss des Erhebungszeitraums verbleibenden Fehlbeträge. ⁸Im Fall des § 2 Abs. 5 kann der andere Unternehmer den maßgebenden Gewerbeertrag nicht um die Fehlbeträge kürzen, die sich bei der Ermittlung des maßgebenden Gewerbeertrags des übergegangenen Unternehmens ergeben haben. ⁹§ 8 Abs. 8 und 9 Satz 5 bis 8 des Körperschaftsteuergesetzes ist entsprechend anzuwenden. ¹⁰Auf die Fehlbeträge ist § 8c des Körperschaftsteuergesetzes entsprechend anzuwenden; dies gilt auch für den Fehlbetrag einer Mitunternehmerschaft, soweit dieser
 
@@ -787,8 +766,7 @@ zuzurechnen ist. ¹¹Auf die Fehlbeträge ist § 8d des Körperschaftsteuergeset
 
 (+++ § 10a: Zur Anwendung vgl. § 36 +++)
 
-
-## § 11 – Steuermesszahl und Steuermessbetrag
+# § 11 – Steuermesszahl und Steuermessbetrag
 
 (1) ¹Bei der Berechnung der Gewerbesteuer ist von einem Steuermessbetrag auszugehen. ²Dieser ist durch Anwendung eines Prozentsatzes (Steuermesszahl) auf den Gewerbeertrag zu ermitteln. ³Der Gewerbeertrag ist auf volle 100 Euro nach unten abzurunden und
 
@@ -804,33 +782,27 @@ höchstens jedoch in Höhe des abgerundeten Gewerbeertrags, zu kürzen.
 
 (+++ § 11 Abs. 2: Zur erstmaligen Anwendung für den Erhebungszeitraum 2008 vgl. § 36 Abs. 9a +++)
 
+# §§ 12 und 13 – (weggefallen)
 
-## §§ 12 und 13 – (weggefallen)
-
-
-## § 14 – Festsetzung des Steuermessbetrags
+# § 14 – Festsetzung des Steuermessbetrags
 
 ¹Der Steuermessbetrag wird für den Erhebungszeitraum nach dessen Ablauf festgesetzt. ²Erhebungszeitraum ist das Kalenderjahr. ³Besteht die Gewerbesteuerpflicht nicht während des ganzen Kalenderjahrs, so tritt an die Stelle des Kalenderjahrs der Zeitraum der Steuerpflicht (abgekürzter Erhebungszeitraum).
 
-
-## § 14a – Steuererklärungspflicht
+# § 14a – Steuererklärungspflicht
 
 ¹Der Steuerschuldner (§ 5) hat für steuerpflichtige Gewerbebetriebe eine Erklärung zur Festsetzung des Steuermessbetrags und in den Fällen des § 28 außerdem eine Zerlegungserklärung nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu übermitteln. ²Auf Antrag kann die Finanzbehörde zur Vermeidung unbilliger Härten auf eine elektronische Übermittlung verzichten; in diesem Fall ist die Erklärung nach amtlich vorgeschriebenem Vordruck abzugeben und vom Steuerschuldner oder von den in § 34 der Abgabenordnung bezeichneten Personen eigenhändig zu unterschreiben.
 
 (+++ § 14a: Zur erstmaligen Anwendung für den Erhebungszeitraum 2011 vgl. § 36 Abs. 9b +++)
 
-
-## § 14b – Verspätungszuschlag
+# § 14b – Verspätungszuschlag
 
 ¹Ein nach § 152 der Abgabenordnung zu entrichtender Verspätungszuschlag fließt der Gemeinde zu. ²Sind mehrere Gemeinden an der Gewerbesteuer beteiligt, so fließt der Verspätungszuschlag der Gemeinde zu, in der sich die Geschäftsleitung am Ende des Erhebungszeitraums befindet. ³Befindet sich die Geschäftsleitung im Ausland, so fließt der Verspätungszuschlag der Gemeinde zu, in der sich die wirtschaftlich bedeutendste Betriebsstätte befindet. ⁴Auf den Verspätungszuschlag ist der Hebesatz der Gemeinde nicht anzuwenden.
 
-
-## § 15 – Pauschfestsetzung
+# § 15 – Pauschfestsetzung
 
 Wird die Einkommensteuer oder die Körperschaftsteuer in einem Pauschbetrag festgesetzt, so kann die für die Festsetzung zuständige Behörde im Einvernehmen mit der Landesregierung oder der von ihr bestimmten Behörde auch den Steuermessbetrag in einem Pauschbetrag festsetzen.
 
-
-## § 16 – Hebesatz
+# § 16 – Hebesatz
 
 (1) Die Steuer wird auf Grund des Steuermessbetrags (§ 14) mit einem Prozentsatz (Hebesatz) festgesetzt und erhoben, der von der hebeberechtigten Gemeinde (§§ 4, 35a) zu bestimmen ist.
 
@@ -842,18 +814,15 @@ Wird die Einkommensteuer oder die Körperschaftsteuer in einem Pauschbetrag fest
 
 (5) In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land- und Forstwirtschaft, für die Grundsteuer der Grundstücke und für die Gewerbesteuer zueinander stehen müssen, welche Höchstsätze nicht überschritten werden dürfen und inwieweit mit Genehmigung der Gemeindeaufsichtsbehörde Ausnahmen zugelassen werden können, bleibt einer landesrechtlichen Regelung vorbehalten.
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18 – Entstehung der Steuer
+# § 18 – Entstehung der Steuer
 
 Die Gewerbesteuer entsteht, soweit es sich nicht um Vorauszahlungen (§ 21) handelt, mit Ablauf des Erhebungszeitraums, für den die Festsetzung vorgenommen wird.
 
-
-## § 19 – Vorauszahlungen
+# § 19 – Vorauszahlungen
 
 (1) ¹Der Steuerschuldner hat am 15. Februar, 15. Mai, 15. August und 15. November Vorauszahlungen zu entrichten. ²Gewerbetreibende, deren Wirtschaftsjahr vom Kalenderjahr abweicht, haben die Vorauszahlungen während des Wirtschaftsjahrs zu entrichten, das im Erhebungszeitraum endet. ³Satz 2 gilt nur, wenn der Gewerbebetrieb nach dem 31. Dezember 1985 gegründet worden oder infolge Wegfalls eines Befreiungsgrundes in die Steuerpflicht eingetreten ist oder das Wirtschaftsjahr nach diesem Zeitpunkt auf einen vom Kalenderjahr abweichenden Zeitraum umgestellt worden ist.
 
@@ -867,8 +836,7 @@ Die Gewerbesteuer entsteht, soweit es sich nicht um Vorauszahlungen (§ 21) hand
 
 (+++ § 19 Abs. 3 Satz 5: Zur erstmaligen Anwendung für den Erhebungszeitraum 2008 vgl. § 36 Abs. 9c F. 20.12.2008 +++)
 
-
-## § 20 – Abrechnung über die Vorauszahlungen
+# § 20 – Abrechnung über die Vorauszahlungen
 
 (1) Die für einen Erhebungszeitraum (§ 14) entrichteten Vorauszahlungen werden auf die Steuerschuld für diesen Erhebungszeitraum angerechnet.
 
@@ -876,16 +844,13 @@ Die Gewerbesteuer entsteht, soweit es sich nicht um Vorauszahlungen (§ 21) hand
 
 (3) Ist die Steuerschuld kleiner als die Summe der anzurechnenden Vorauszahlungen, so wird der Unterschiedsbetrag nach Bekanntgabe des Steuerbescheids durch Aufrechnung oder Zurückzahlung ausgeglichen.
 
-
-## § 21 – Entstehung der Vorauszahlungen
+# § 21 – Entstehung der Vorauszahlungen
 
 Die Vorauszahlungen auf die Gewerbesteuer entstehen mit Beginn des Kalendervierteljahrs, in dem die Vorauszahlungen zu entrichten sind, oder, wenn die Steuerpflicht erst im Laufe des Kalendervierteljahrs begründet wird, mit Begründung der Steuerpflicht.
 
+# §§ 22 bis 27 – (weggefallen)
 
-## §§ 22 bis 27 – (weggefallen)
-
-
-## § 28 – Allgemeines
+# § 28 – Allgemeines
 
 (1) ¹Sind im Erhebungszeitraum Betriebsstätten zur Ausübung des Gewerbes in mehreren Gemeinden unterhalten worden, so ist der Steuermessbetrag in die auf die einzelnen Gemeinden entfallenden Anteile (Zerlegungsanteile) zu zerlegen. ²Das gilt auch in den Fällen, in denen eine Betriebsstätte sich über mehrere Gemeinden erstreckt hat oder eine Betriebsstätte innerhalb eines Erhebungszeitraums von einer Gemeinde in eine andere Gemeinde verlegt worden ist.
 
@@ -901,8 +866,7 @@ Die Vorauszahlungen auf die Gewerbesteuer entstehen mit Beginn des Kalenderviert
 
 ²Dies gilt nicht, wenn dadurch auf keine Gemeinde ein Zerlegungsanteil oder der Steuermessbetrag entfallen würde.
 
-
-## § 29 – Zerlegungsmaßstab
+# § 29 – Zerlegungsmaßstab
 
 (1) Zerlegungsmaßstab ist
 
@@ -936,13 +900,11 @@ zum gesamten maßgebenden Sachanlagevermögen des Betriebs steht. ³Neuanlagen s
 
 (+++ § 29: Zur Anwendung vgl. § 36 Abs. 9d +++)
 
-
-## § 30 – Zerlegung bei mehrgemeindlichen Betriebsstätten
+# § 30 – Zerlegung bei mehrgemeindlichen Betriebsstätten
 
 Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessbetrag oder Zerlegungsanteil auf die Gemeinden zu zerlegen, auf die sich die Betriebsstätte erstreckt, und zwar nach der Lage der örtlichen Verhältnisse unter Berücksichtigung der durch das Vorhandensein der Betriebsstätte erwachsenden Gemeindelasten.
 
-
-## § 31 – Begriff der Arbeitslöhne für die Zerlegung
+# § 31 – Begriff der Arbeitslöhne für die Zerlegung
 
 (1) ¹Arbeitslöhne sind vorbehaltlich der Absätze 2 bis 5 die Vergütungen im Sinne des § 19 Abs. 1 Nr. 1 des Einkommensteuergesetzes, soweit sie nicht durch andere Rechtsvorschriften von der Einkommensteuer befreit sind. ²Zuschläge für Mehrarbeit und für Sonntags-, Feiertags- und Nachtarbeit gehören unbeschadet der einkommensteuerlichen Behandlung zu den Arbeitslöhnen.
 
@@ -954,20 +916,17 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 
 (5) Bei Unternehmen, die nicht von einer juristischen Person betrieben werden, sind für die im Betrieb tätigen Unternehmer (Mitunternehmer) insgesamt 25.000 Euro jährlich anzusetzen.
 
-
-## § 32
+# § 32
 
 (weggefallen)
 
-
-## § 33 – Zerlegung in besonderen Fällen
+# § 33 – Zerlegung in besonderen Fällen
 
 (1) ¹Führt die Zerlegung nach den §§ 28 bis 31 zu einem offenbar unbilligen Ergebnis, so ist nach einem Maßstab zu zerlegen, der die tatsächlichen Verhältnisse besser berücksichtigt. ²In dem Zerlegungsbescheid hat das Finanzamt darauf hinzuweisen, dass bei der Zerlegung Satz 1 angewendet worden ist.
 
 (2) Einigen sich die Gemeinden mit dem Steuerschuldner über die Zerlegung, so ist der Steuermessbetrag nach Maßgabe der Einigung zu zerlegen.
 
-
-## § 34 – Kleinbeträge
+# § 34 – Kleinbeträge
 
 (1) ¹Übersteigt der Steuermessbetrag nicht den Betrag von 10 Euro, so ist er in voller Höhe der Gemeinde zuzuweisen, in der sich die Geschäftsleitung befindet. ²Befindet sich die Geschäftsleitung im Ausland, so ist der Steuermessbetrag der Gemeinde zuzuweisen, in der sich die wirtschaftlich bedeutendste der zu berücksichtigenden Betriebsstätten befindet.
 
@@ -975,13 +934,11 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 
 (3) ¹Wird der Zerlegungsbescheid geändert oder berichtigt, würde sich dabei aber der Zerlegungsanteil einer Gemeinde um nicht mehr als 10 Euro erhöhen oder ermäßigen, so ist der Betrag der Erhöhung oder Ermäßigung bei dem Zerlegungsanteil der Gemeinde zu berücksichtigen, in der sich die Geschäftsleitung befindet. ²Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 35
+# § 35
 
 (weggefallen)
 
-
-## § 35a
+# § 35a
 
 (1) Der Gewerbesteuer unterliegen auch die Reisegewerbebetriebe, soweit sie im Inland betrieben werden.
 
@@ -991,8 +948,7 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 
 (4) Ist im Laufe des Erhebungszeitraums der Mittelpunkt der gewerblichen Tätigkeit von einer Gemeinde in eine andere Gemeinde verlegt worden, so hat das Finanzamt den Steuermessbetrag nach den zeitlichen Anteilen (Kalendermonaten) auf die beteiligten Gemeinden zu zerlegen.
 
-
-## § 35b
+# § 35b
 
 (1) ¹Der Gewerbesteuermessbescheid oder Verlustfeststellungsbescheid ist von Amts wegen aufzuheben oder zu ändern, wenn der Einkommensteuerbescheid, der Körperschaftsteuerbescheid oder ein Feststellungsbescheid aufgehoben oder geändert wird und die Aufhebung oder Änderung den Gewinn aus Gewerbebetrieb berührt. ²Die Änderung des Gewinns aus Gewerbebetrieb ist insoweit zu berücksichtigen, als sie die Höhe des Gewerbeertrags oder des vortragsfähigen Gewerbeverlustes beeinflusst. ³§ 171 Abs. 10 der Abgabenordnung gilt sinngemäß.
 
@@ -1000,8 +956,7 @@ Erstreckt sich die Betriebsstätte auf mehrere Gemeinden, so ist der Steuermessb
 
 (+++ § 35b Abs. 2: Zur Anwendung vgl. § 36 Abs. 10 +++)
 
-
-## § 35c – Ermächtigung
+# § 35c – Ermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
@@ -1046,8 +1001,7 @@ g) über die Festsetzung abweichender Vorauszahlungstermine.
 (+++ § 35c: Zur Anwendung vgl. § 36 +++)  
 (+++ § 35c Abs. 1 Nr. 2 Buchst. d: Zur erstmaligen Anwendung vgl. § 36 Abs. 3 (F 2015-01-01) +++)
 
-
-## § 36 – Zeitlicher Anwendungsbereich
+# § 36 – Zeitlicher Anwendungsbereich
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in den folgenden Absätzen nichts anderes bestimmt ist, erstmals für den Erhebungszeitraum 2020 anzuwenden.
 
@@ -1067,7 +1021,6 @@ g) über die Festsetzung abweichender Vorauszahlungstermine.
 
 (6) § 35c Absatz 1 Nummer 2 Buchstabe f Satz 1 Doppelbuchstabe bb in der Fassung des Artikels 8 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist erstmals für den Erhebungszeitraum 2018 anzuwenden.
 
-
-## § 37
+# § 37
 
 (weggefallen)

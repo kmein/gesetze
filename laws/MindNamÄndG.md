@@ -1,10 +1,7 @@
-# [MindNamÄndG] Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens des Europarats vom 1. Februar 1995 zum Schutz nationaler Minderheiten  (Minderheiten-Namensänderungsgesetz)
-
-Ausfertigungsdatum: 22.07.1997
-
+% Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens des Europarats vom 1. Februar 1995 zum Schutz nationaler Minderheiten  (Minderheiten-Namensänderungsgesetz)
+% Ausfertigungsdatum: 22.07.1997
  
-
-## § 1
+# § 1
 
 (1) Eine Person, auf die sowohl das Rahmenübereinkommen zum Schutz nationaler Minderheiten als auch deutsches Namensrecht Anwendung finden, kann durch Erklärung gegenüber dem Standesamt
 
@@ -22,17 +19,14 @@ Das Standesamt, in dessen Bezirk der oder die Erklärende den Wohnsitz oder gew�
 
 (4) Die Erklärungen nach Absatz 1 müssen öffentlich beglaubigt oder beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber einem deutschen Standesamt abgegeben werden. Sie können auch von den Standesbeamten beglaubigt oder beurkundet werden.
 
-
-## § 2
+# § 2
 
 Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen oder Lebenspartnerschaftsnamen des oder der Erklärenden nur dann, wenn sich der Ehegatte oder Lebenspartner durch Erklärung gegenüber dem Standesamt der Namensänderung anschließt; § 1 Abs. 1 Satz 2 bis 4 und Abs. 4 gilt entsprechend. Auf Kinder oder deren Ehegatten oder Lebenspartner erstreckt sich eine Namensänderung nur nach Maßgabe der Vorschriften des Bürgerlichen Gesetzbuchs.
 
-
-## § 3
+# § 3
 
 Für die Entgegennahme der Erklärungen und ihre Beglaubigung oder Beurkundung werden Gebühren nicht erhoben.
 
-
-## § 4
+# § 4
 
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz und mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes Verwaltungsvorschriften zu erlassen.

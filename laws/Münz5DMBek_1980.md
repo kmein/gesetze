@@ -1,10 +1,7 @@
-# [Münz5DMBek 1980] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Otto Hahn-Gedenkmünze)
-
-Ausfertigungsdatum: 28.07.1980
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Otto Hahn-Gedenkmünze)
+% Ausfertigungsdatum: 28.07.1980
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 100. Wiederkehr des Geburtstages des Nobelpreisträgers für Chemie und ehemaligen Präsidenten der Max Planck-Gesellschaft, Professor Otto Hahn, eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 5,35 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Karlsruhe.
 
@@ -43,13 +40,11 @@ Ausfertigungsdatum: 28.07.1980
 
 (12) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

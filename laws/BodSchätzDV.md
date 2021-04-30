@@ -1,25 +1,19 @@
-# [BodSchätzDV] Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes  (Bodenschätzungs-Durchführungsverordnung - BodSchätzDV)
-
-Ausfertigungsdatum: 23.02.2012
-
+% Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes  (Bodenschätzungs-Durchführungsverordnung - BodSchätzDV)
+% Ausfertigungsdatum: 23.02.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 3 des Bodenschätzungsgesetzes vom 20. Dezember 2007 (BGBl. I S. 3150, 3176) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Musterstücke
+# § 1 – Musterstücke
 
 Die in der Anlage mit ihren Schätzungsergebnissen aufgeführten Bodenflächen sind die Musterstücke der Bodenschätzung (§ 6 Absatz 1 des Gesetzes), die die Grundlage für die Bewertung der Vergleichsstücke auf dem Gebiet der Bundesrepublik Deutschland bilden.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1)Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 31. Dezember 2013
+# Anlage – (zu § 1)Verzeichnis der Musterstücke in dem Gebiet der Bundesrepublik Deutschland nach dem Stand vom 31. Dezember 2013
 
 (Fundstelle: BGBl. I 2014, 963 - 1034)
 

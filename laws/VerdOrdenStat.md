@@ -1,15 +1,11 @@
-# [VerdOrdenStat] Statut des "Verdienstordens der Bundesrepublik Deutschland"
-
-Ausfertigungsdatum: 08.12.1955
-
+% Statut des "Verdienstordens der Bundesrepublik Deutschland"
+% Ausfertigungsdatum: 08.12.1955
  
-
-## Art 1
+# Art 1
 
 Der Verdienstorden der Bundesrepublik Deutschland wird vom Bundespräsidenten verliehen und kann als Zeichen der allgemeinen Anerkennung in Form eines Ordenszeichens getragen werden.
 
-
-## Art 2
+# Art 2
 
 (1) Der Verdienstorden der Bundesrepublik wird verliehen als
 
@@ -24,15 +20,13 @@ Verdienstkreuz.
 
 (3) Außerdem wird die Verdienstmedaille verliehen.
 
-
-## Art 3
+# Art 3
 
 (1) Das Ordenszeichen ist ein rot-emailliertes, golden gefaßtes, schlankes Kreuz. In seiner Mitte ist der Bundesadler in schwarz auf einem runden Schild aufgesetzt.
 
 (2) Das Band des Ordens ist rot mit gold-schwarz-goldenem Saum.
 
-
-## Art 4
+# Art 4
 
 (1) Form und Trageweise des Verdienstordens sind:
 
@@ -60,8 +54,7 @@ Form und Ausmaß der Ordenszeichen und der Bänder werden auf Mustertafeln festg
 
 (2) Bei erneuter, höherer Auszeichnung mit dem Verdienstorden der Bundesrepublik Deutschland wird die früher verliehene Ordensstufe nicht abgelegt; jedoch wird nur ein Schulterband und ein Stern getragen.
 
-
-## Art 5
+# Art 5
 
 (1) Vorschlagsberechtigt für die Verleihung des Verdienstordens sind
 
@@ -87,15 +80,13 @@ für den Bereich ihrer Länder.
 
 (2) Die Vorschläge sind dem Chef des Bundespräsidialamtes zuzuleiten, der sie dem Bundespräsidenten zur Entscheidung vorlegt.
 
-
-## Art 6
+# Art 6
 
 (1) Das Großkreuz, das Große Verdienstkreuz mit Stern und Schulterband und das Große Verdienstkreuz mit Stern werden jeweils durch einen besonderen Erlaß des Bundespräsidenten verliehen. Dieser wird vom Bundeskanzler oder, je nachdem es sich um einen deutschen oder um einen ausländischen Staatsangehörigen oder einen deutschen Staatsangehörigen mit dem Wohnsitz im Ausland handelt, von dem Bundesminister des Innern oder dem Bundesminister des Auswärtigen gegengezeichnet und von dem Chef des Bundespräsidialamtes mitgezeichnet.
 
 (2) Verleihungen des Großen Verdienstkreuzes, der Verdienstkreuze und der Verdienstmedaille werden listenmäßig durch Erlaß des Bundespräsidenten unter Gegenzeichnung durch den Bundeskanzler oder den Bundesminister des Innern oder den Bundesminister des Auswärtigen und unter Mitzeichnung durch den Chef des Bundespräsidialamtes vollzogen.
 
-
-## Art 7
+# Art 7
 
 (1) Alle Beliehenen erhalten eine Urkunde mit der Unterschrift des Bundespräsidenten. Die Urkunden über die Verleihung des Großkreuzes, des Großen Verdienstkreuzes mit Stern und Schulterband und des Großen Verdienstkreuzes mit Stern tragen das große, die über die Verleihung des Großen Verdienstkreuzes, der beiden Verdienstkreuze und der Verdienstmedaille das kleine Bundessiegel.
 
@@ -103,13 +94,11 @@ für den Bereich ihrer Länder.
 
 (3) Erweist sich ein Beliehener durch sein späteres Verhalten, insbesondere durch Begehen einer entehrenden Straftat, der Auszeichnung unwürdig oder wird ein solches Verhalten nachträglich bekannt, so kann ihm die Befugnis zum Tragen des Verdienstordens entzogen werden.
 
-
-## Art 8
+# Art 8
 
 Die Geschäfte der Ordenskanzlei nimmt das Bundespräsidialamt wahr.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundespräsident  
 Der Bundeskanzler  

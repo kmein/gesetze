@@ -1,10 +1,7 @@
-# [RindZLpV] Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Rindern
-
-Ausfertigungsdatum: 28.09.1990
-
+% Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Rindern
+% Ausfertigungsdatum: 28.09.1990
  
-
-## § 1
+# § 1
 
 (1) Zur Zuchtwertfeststellung bei einem Rind werden mindestens
 
@@ -20,18 +17,15 @@ festgestellt. Bei einem Bullen wird auch die äußere Erscheinung beurteilt. Der
 
 (4) Bei der Zuchtwertfeststellung wird für die einzelnen festgestellten Zuchtwertteile die Sicherheit mindestens für Bullen angegeben.
 
-
-## § 1a
+# § 1a
 
 Die für die Erteilung der Besamungserlaubnis zuständige Behörde veröffentlicht bei Bullen, die zur künstlichen Besamung eingesetzt werden, das Ergebnis der nach § 1 Abs. 1 Satz 5 durchgeführten Untersuchungen.
 
-
-## § 2
+# § 2
 
 (Inkrafttreten, Außerkrafttreten)
 
-
-## Anlage 1 – (zu § 1 Abs. 2)  Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
+# Anlage 1 – (zu § 1 Abs. 2)  Grundsätze für die Durchführung der Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
 
   
 1  
@@ -214,8 +208,7 @@ Die Nutzungsdauer wird über den Zeitpunkt des Abgangs weiblicher Tiere aus der 
 
 Die äußere Erscheinung wird nach einem Notensystem beurteilt.
 
-
-## Anlage 2 – (zu § 1 Abs. 3)  Grundsätze für die Zuchtwertfeststellung
+# Anlage 2 – (zu § 1 Abs. 3)  Grundsätze für die Zuchtwertfeststellung
 
 1  
 Allgemeines

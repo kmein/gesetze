@@ -1,30 +1,23 @@
-# [HolzbearbMechAusbV 2004-07] Verordnung über die Berufsausbildung zum Holzbearbeitungsmechaniker/zur Holzbearbeitungsmechanikerin
-
-Ausfertigungsdatum: 15.07.2004
-
+% Verordnung über die Berufsausbildung zum Holzbearbeitungsmechaniker/zur Holzbearbeitungsmechanikerin
+% Ausfertigungsdatum: 15.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Holzbearbeitungsmechaniker/Holzbearbeitungsmechanikerin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -76,23 +69,19 @@ Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen au
 
 4. Herstellen von Holzwerkstofferzeugnissen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -105,14 +94,12 @@ Bearbeiten eines Werkstückes unter Anwendung maschineller Bearbeitungstechniken
 
 (5) In beiden Prüfungsteilen soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsabläufe planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung berücksichtigen kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sechs Stunden eine Arbeitsaufgabe durchführen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Herstellen von Holzerzeugnissen einschließlich Auswählen und Einteilen von Holz und Rohmaterialien, Einrichten und Bedienen von Holzbearbeitungsmaschinen oder Produktionsanlagen sowie Sortieren und Vermessen von Holzerzeugnissen.  
-Bei der Erstellung der Arbeitsaufgabe ist die festgelegte Wahlqualifikationseinheit zu berücksichtigen. Bei der Durchführung der Arbeitsaufgabe soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen, die Arbeitszusammenhänge erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann.
+Herstellen von Holzerzeugnissen einschließlich Auswählen und Einteilen von Holz und Rohmaterialien, Einrichten und Bedienen von Holzbearbeitungsmaschinen oder Produktionsanlagen sowie Sortieren und Vermessen von Holzerzeugnissen. Bei der Erstellung der Arbeitsaufgabe ist die festgelegte Wahlqualifikationseinheit zu berücksichtigen. Bei der Durchführung der Arbeitsaufgabe soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen, die Arbeitszusammenhänge erkennen, die Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen kann.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Fertigungstechnik, Maschinen- und Anlagentechnik sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Fertigungstechnik und Maschinen- und Anlagentechnik sind insbesondere praxisbezogene Aufgaben mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk-, Hilfs- und Beschichtungsstoffen planen sowie Werkzeuge, Geräte, Maschinen und Anlagen zuordnen, Herstellerangaben beachten und qualitätssichernde Maßnahmen einbeziehen kann. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
@@ -148,18 +135,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Innerhalb der schriftlichen Prüfung müssen in zwei der Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht werden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Holzbearbeitungsmechaniker/ zur Holzbearbeitungsmechanikerin
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Holzbearbeitungsmechaniker/ zur Holzbearbeitungsmechanikerin
 
 (Fundstelle: BGBl. I 2004, 1648 - 1653)
 
@@ -175,8 +159,7 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitliche Richtwerte in Wochen im
 
-1.-18.  
-Monat
+1.-18. Monat
 
 19.-36  
 Monat

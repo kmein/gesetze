@@ -1,15 +1,11 @@
-# [ForumRG] Gesetz zur Errichtung der „Stiftung Forum Recht“  (Forum-Recht-Gesetz - ForumRG)
-
-Ausfertigungsdatum: 13.05.2019
-
+% Gesetz zur Errichtung der „Stiftung Forum Recht“  (Forum-Recht-Gesetz - ForumRG)
+% Ausfertigungsdatum: 13.05.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## § 1 – Name, Sitz und Rechtsform der Stiftung; Siegel; Standort
+# § 1 – Name, Sitz und Rechtsform der Stiftung; Siegel; Standort
 
 (1) Unter dem Namen „Stiftung Forum Recht“ wird eine rechtsfähige bundesunmittelbare Stiftung des öffentlichen Rechts mit Sitz in Karlsruhe errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
@@ -17,8 +13,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (3) Die Stiftung richtet einen Standort in Leipzig ein.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist, in einem auf Bürgerbeteiligung angelegten Kommunikations-, Informations- und Dokumentationsforum aktuelle Fragen von Recht und Rechtsstaat in der Bundesrepublik Deutschland als Grundvoraussetzung einer funktionsfähigen und lebendigen Demokratie aufzugreifen und diese für alle gesellschaftlichen Gruppen in Ausstellungen und Aktivitäten vor Ort und im virtuellen Raum erfahrbar werden zu lassen. Dabei sind die historischen, europäischen und internationalen Bezüge angemessen zu berücksichtigen.
 
@@ -38,13 +33,11 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 
-
-## § 3 – Unterstützung durch Einrichtungen des Bundes
+# § 3 – Unterstützung durch Einrichtungen des Bundes
 
 Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung durch Einrichtungen des Bundes, insbesondere durch das Haus der Geschichte der Bundesrepublik Deutschland, das Deutsche Historische Museum und das Bundesarchiv, unterstützt.
 
-
-## § 4 – Stiftungsvermögen; Errichtungsort
+# § 4 – Stiftungsvermögen; Errichtungsort
 
 (1) Die Stiftung verfügt über eigenes Vermögen.
 
@@ -56,13 +49,11 @@ Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung durch Einrichtungen d
 
 (5) Das Forum Recht (§ 2 Absatz 2 Nummer 1) wird in unmittelbarer Nähe zu den Gebäuden des Bundesgerichtshofs in Karlsruhe auf dem Grundstückskomplex zwischen Karlstraße, Kriegsstraße, Herrenstraße, Ritterstraße und Blumenstraße errichtet. Die Durchführung des Bauvorhabens in Karlsruhe und der Unterbringung in Leipzig erfolgt im Rahmen des einheitlichen Liegenschaftsmanagements.
 
-
-## § 5 – Satzung
+# § 5 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium beschlossen wird.
 
-
-## § 6 – Organe der Stiftung
+# § 6 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -72,8 +63,7 @@ Organe der Stiftung sind
 
 3. der Stiftungsbeirat.
 
-
-## § 7 – Kuratorium
+# § 7 – Kuratorium
 
 (1) In das Kuratorium werden für jeweils fünf Jahre entsandt, wobei eine wiederholte Entsendung zulässig ist:
 
@@ -117,8 +107,7 @@ Mitglied des Kuratoriums kraft Amtes ist der oder die Vorsitzende des Stiftungsb
 
 (12) Das Nähere regelt die Satzung.
 
-
-## § 8 – Direktorium
+# § 8 – Direktorium
 
 (1) Das Direktorium besteht aus einem Direktor oder einer Direktorin sowie einem stellvertretenden Direktor oder einer stellvertretenden Direktorin.
 
@@ -128,8 +117,7 @@ Mitglied des Kuratoriums kraft Amtes ist der oder die Vorsitzende des Stiftungsb
 
 (4) Das Nähere regelt die Satzung.
 
-
-## § 9 – Stiftungsbeirat
+# § 9 – Stiftungsbeirat
 
 (1) Der Stiftungsbeirat besteht aus mindestens 20 und höchstens 30 Mitgliedern. Als Mitglieder des Stiftungsbeirats sind sie sowohl Vertreter der Institutionen oder der wissenschaftlichen Bereiche, für die sie berufen sind, als auch Repräsentanten der Zivilgesellschaft.
 
@@ -143,32 +131,27 @@ Mitglied des Kuratoriums kraft Amtes ist der oder die Vorsitzende des Stiftungsb
 
 (6) Das Nähere regelt die Satzung.
 
-
-## § 10 – Ehrenamtliche Tätigkeit
+# § 10 – Ehrenamtliche Tätigkeit
 
 Die Mitglieder des Kuratoriums und des Stiftungsbeirats üben ihre Tätigkeit ehrenamtlich aus. Die Erstattung von Reisekosten und sonstigen Auslagen richtet sich nach den für die unmittelbare Bundesverwaltung geltenden Bestimmungen.
 
-
-## § 11 – Aufsicht; Haushalt; Rechnungsprüfung
+# § 11 – Aufsicht; Haushalt; Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums der Justiz und für Verbraucherschutz.
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung gelten die für die bundesunmittelbare Bundesverwaltung geltenden Bestimmungen. Die Haushalts- und Wirtschaftsführung der Stiftung unterliegen der Prüfung durch den Bundesrechnungshof. Das Bundesministerium der Justiz und für Verbraucherschutz prüft die Rechnung.
 
-
-## § 12 – Berichterstattung
+# § 12 – Berichterstattung
 
 Das Kuratorium legt alle zwei Jahre einen öffentlich zugänglichen Bericht über Tätigkeit und Vorhaben der Stiftung vor.
 
-
-## § 13 – Beschäftigte
+# § 13 – Beschäftigte
 
 (1) Die Stiftung beschäftigt in der Regel Arbeitnehmer und Arbeitnehmerinnen. Auf deren Arbeitsverhältnisse sind die für die Arbeitnehmer und Arbeitnehmerinnen des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden. Satz 2 gilt für Auszubildende entsprechend.
 
 (2) Die Stiftung besitzt das Recht, Beamte und Beamtinnen zu haben. Oberste Dienstbehörde ist das Kuratorium. Die für die Aufsicht zuständige oberste Bundesbehörde im Sinne des § 144 Absatz 1 des Bundesbeamtengesetzes ist das Bundesministerium der Justiz und für Verbraucherschutz.
 
-
-## § 14 – Freier Eintritt; Gebühren
+# § 14 – Freier Eintritt; Gebühren
 
 (1) Der Eintritt in das Forum Recht ist frei.
 
@@ -176,7 +159,6 @@ Das Kuratorium legt alle zwei Jahre einen öffentlich zugänglichen Bericht übe
 
 (3) Das Nähere regelt die Satzung.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

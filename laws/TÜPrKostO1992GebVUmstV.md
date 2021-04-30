@@ -1,30 +1,23 @@
-# [TÜPrKostO1992GebVUmstV] Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen auf Euro
-
-Ausfertigungsdatum: 10.12.2001
-
+% Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen auf Euro
+% Ausfertigungsdatum: 10.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 19 Abs. 6 Satz 4 des Gerätesicherheitsgesetzes in der Fassung der Bekanntmachung vom 11. Mai 2001 (BGBl. I S. 866) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Arbeit und Sozialordnung nach Anhörung der beteiligten Kreise:
 
-
-## § 1
+# § 1
 
 Abweichend von § 1 der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen vom 23. November 1992 (BGBl. I S. 1944), die zuletzt durch die Verordnung vom 15. April 1996 (BGBl. I S. 1944) geändert worden ist und deren Gebührenverzeichnis durch die Verordnung vom 30. Juli 2001 (BGBl. I S. 2046) angepasst worden ist, in Verbindung mit § 19 Abs. 6 Satz 3 des Gerätesicherheitsgesetzes in der Fassung der Bekanntmachung vom 11. Mai 2001 (BGBl. I S. 866), bestimmen sich die zu erhebenden Gebühren nach den Anhängen I bis VI dieser Verordnung.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anhang I – Gebühren für die Prüfung von Dampfkesselanlagen
+# Anhang I – Gebühren für die Prüfung von Dampfkesselanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3474 - 3478
 
@@ -448,8 +441,7 @@ Werden mehrere Prüfungen miteinander verbunden, ist die Reisezeit anteilig zu b
 6.4  
 Werden mehrere Prüfungen durchgeführt, von denen für einen Teil Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben werden, so ist die Reisezeit anteilig nach den Nummern 6.2 und 6.3 zu berechnen.
 
-
-## Anhang II – Gebühren für die Prüfung von Druckbehältern, Druckgasbehältern und Füllanlagen
+# Anhang II – Gebühren für die Prüfung von Druckbehältern, Druckgasbehältern und Füllanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3479 - 3482
 
@@ -870,8 +862,7 @@ Für Prüfungen, für die Gebühren nach dem Zeitaufwand erhoben werden, werden 
 4.4.4  
 Werden mehrere Prüfungen durchgeführt, von denen für einen Teil Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben werden, so ist die Reisezeit anteilig nach den Nummern 4.4.2 und 4.4.3 zu berechnen.
 
-
-## Anhang III – Gebühren für die Prüfung von Aufzugsanlagen
+# Anhang III – Gebühren für die Prüfung von Aufzugsanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3483 - 3485
 
@@ -1227,8 +1218,7 @@ Für Prüfungen, für die Gebühren nach dem Zeitaufwand erhoben werden, werden 
 5.2.3  
 Werden mehrere Prüfungen durchgeführt, von denen für einen Teil Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben werden, so ist die Reisezeit anteilig nach den Nummern 5.2.1 und 5.2.2 zu berechnen.
 
-
-## Anhang IV – Gebühren für die Prüfung von Acetylenanlagen
+# Anhang IV – Gebühren für die Prüfung von Acetylenanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3486
 
@@ -1264,8 +1254,7 @@ Für Prüfungen, die zu einem vom Antragsteller verlangten Zeitpunkt durchgefüh
 5.2  
 Für Prüfungen, für die Gebühren nach dem Zeitaufwand erhoben werden, werden für die gesamte Reisezeit 18,92 EUR für jede begonnene Viertelstunde erhoben. Werden mehrere Prüfungen miteinander verbunden, ist die Reisezeit anteilig zu berechnen.
 
-
-## Anhang V – Gebühren für die Prüfung von Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten
+# Anhang V – Gebühren für die Prüfung von Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3487 - 3492  
 
@@ -1864,8 +1853,7 @@ Für Prüfungen, für die Gebühren nach dem Zeitaufwand erhoben werden, werden 
 13.4  
 Werden mehrere Prüfungen durchgeführt, von denen für einen Teil Festgebühren und für einen Teil Gebühren nach dem Zeitaufwand erhoben werden, so ist die Reisezeit anteilig nach den Nummern 13.2 und 13.3 zu berechnen.
 
-
-## Anhang VI – Gebühren für die Prüfung elektrischer Anlagen in explosionsgefährdeten Bereichen
+# Anhang VI – Gebühren für die Prüfung elektrischer Anlagen in explosionsgefährdeten Bereichen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3493
 

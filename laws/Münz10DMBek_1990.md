@@ -1,10 +1,7 @@
-# [Münz10DMBek 1990] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Kaiser Friedrich I. Barbarossa)
-
-Ausfertigungsdatum: 24.04.1990
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Kaiser Friedrich I. Barbarossa)
+% Ausfertigungsdatum: 24.04.1990
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, zum 800. Todestag von Kaiser Friedrich I. Barbarossa im Jahre 1990 eine Bundesmünze (Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 7,85 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Stuttgart.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 24.04.1990
 
 (4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.
 
-(5) Die Bildseite zeigt Kaiser Friedrich I. Barbarossa nach einer zeitgenössischen Darstellung.  
-Die Umschrift lautet:
+(5) Die Bildseite zeigt Kaiser Friedrich I. Barbarossa nach einer zeitgenössischen Darstellung. Die Umschrift lautet:
 
   
   
@@ -49,13 +45,12 @@ Die Umschrift lautet:
 
 (10) Der Entwurf der Münze stammt von Eugen Ruhl, Pforzheim.
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
   
 (Fundstelle: BGBl. I 1990, 860)
 
   
   
-![](../normengrafiken/bgbl1_1990/j0860_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1990/j0860_0010.jpg)  
   

@@ -1,15 +1,11 @@
-# [ESGV] Verordnung zur Bemessung von Einstiegsgeld  (Einstiegsgeld-Verordnung - ESGV)
-
-Ausfertigungsdatum: 29.07.2009
-
+% Verordnung zur Bemessung von Einstiegsgeld  (Einstiegsgeld-Verordnung - ESGV)
+% Ausfertigungsdatum: 29.07.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16b Absatz 3 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954, 2955), der durch Artikel 2 Nummer 6 des Gesetzes vom 21. Dezember 2008 (BGBl. I S. 2917) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Einzelfallbezogene Bemessung des Einstiegsgeldes
+# § 1 – Einzelfallbezogene Bemessung des Einstiegsgeldes
 
 (1) Bei der einzelfallbezogenen Bemessung des Einstiegsgeldes ist ein monatlicher Grundbetrag zu bestimmen, dem Ergänzungsbeträge hinzugefügt werden sollen. Der monatliche Grundbetrag berücksichtigt den für erwerbsfähige Leistungsberechtigte jeweils maßgebenden Regelbedarf. Die Ergänzungsbeträge berücksichtigen die vorherige Dauer der Arbeitslosigkeit und die Größe der Bedarfsgemeinschaft, in der die oder der erwerbsfähige Leistungsberechtigte lebt.
 
@@ -21,14 +17,12 @@ Auf Grund des § 16b Absatz 3 des Zweiten Buches Sozialgesetzbuch – Grundsiche
 
 (5) Das Einstiegsgeld für erwerbsfähige Leistungsberechtigte darf bei der einzelfallbezogenen Bemessung monatlich einen Gesamtbetrag nicht überschreiten, der dem Regelbedarf zur Sicherung des Lebensunterhalts nach § 20 Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch entspricht.
 
-
-## § 2 – Pauschale Bemessung des Einstiegsgeldes bei besonders zu fördernden Personengruppen
+# § 2 – Pauschale Bemessung des Einstiegsgeldes bei besonders zu fördernden Personengruppen
 
 (1) Das Einstiegsgeld kann abweichend von § 1 pauschal bemessen werden, wenn dies zur Eingliederung von besonders zu fördernden Personengruppen in den allgemeinen Arbeitsmarkt erforderlich ist. Bei der Bemessung kann festgelegt werden, dass sich die Höhe des Einstiegsgeldes innerhalb des Förderzeitraums in Abhängigkeit von der Förderdauer verändert.
 
 (2) Das Einstiegsgeld für erwerbsfähige Leistungsberechtigte darf in den Fällen des Absatzes 1 monatlich einen Betrag nicht überschreiten, der 75 vom Hundert des Regelbedarfs zur Sicherung des Lebensunterhalts nach § 20 Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch entspricht.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden Kalendermonats in Kraft.

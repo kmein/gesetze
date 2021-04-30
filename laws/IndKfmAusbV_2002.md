@@ -1,32 +1,25 @@
-# [IndKfmAusbV 2002] Verordnung über die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau
-
-Ausfertigungsdatum: 23.07.2002
-
+% Verordnung über die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau
+% Ausfertigungsdatum: 23.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Industriekaufmann/Industriekauffrau wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen funktions- und prozessbezogen vermittelt werden. Die Berufsbildpositionen nach § 4 Abs. 1 Nr. 1 bis 4 sind während der gesamten Ausbildungszeit arbeitsfeldübergreifend auch unter Berücksichtigung des Nachhaltigkeitsaspektes zu vermitteln. In einem Einsatzgebiet ist die berufliche Handlungskompetenz durch Fertigkeiten und Kenntnisse zu erweitern, die im jeweiligen Geschäftsprozess zur ganzheitlichen Durchführung komplexer Aufgaben befähigen.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten, an Geschäftsprozessen ausgerichteten kaufmännischen Berufstätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -226,23 +219,19 @@ o) Auslandseinsatz.
 
 Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten und Kenntnisse nach Absatz 1 Nr. 10 vermittelt werden können.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft zu führen. Dabei sind regelmäßig Ausbildungsnachweise anzufertigen. Dem Auszubildenden ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -256,8 +245,7 @@ Der Auszubildende hat ein Berichtsheft zu führen. Dabei sind regelmäßig Ausbi
 
 3. Kosten- und Leistungsrechnung.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -283,8 +271,7 @@ d) Leistungserstellung.
 
 Der Prüfling erstellt über eine Fachaufgabe im Einsatzgebiet einen höchstens fünfseitigen Report als Basis für die Präsentation und das Fachgespräch. Eine Kurzbeschreibung der beabsichtigten Fachaufgabe ist dem Prüfungsausschuss vor der Durchführung der Fachaufgabe zur Genehmigung vorzulegen. Dem Report können erläuternde Anlagen mit betriebsüblichen Unterlagen beigefügt werden. Der Ausbildende hat zu bestätigen, dass die Fachaufgabe von dem Prüfling im Betrieb selbständig durchgeführt worden ist. Der Report wird nicht bewertet. Er ist dem Prüfungsausschuss vor der Durchführung der Prüfung im Prüfungsbereich Einsatzgebiet zuzuleiten. In der Präsentation soll der Prüfling auf der Grundlage des Reports zeigen, dass er Sachverhalte, Abläufe und Ergebnisse der bearbeiteten Fachaufgabe erläutern und mit praxisüblichen Mitteln darstellen kann. In einem Fachgespräch soll der Prüfling zeigen, dass er die dargestellte Fachaufgabe in Gesamtzusammenhänge einordnen, Hintergründe erläutern und Ergebnisse bewerten kann. Dabei soll der Prüfling zeigen, dass er die Sachbearbeitung in einem speziellen Geschäftsfeld beherrscht. Präsentation und Fachgespräch sollen zusammen höchstens 30 Minuten und die Präsentation zwischen 10 und 15 Minuten dauern.
 
-
-## § 10 – Bestehensregelung
+# § 10 – Bestehensregelung
 
 (1) Bei der Ermittlung des Gesamtergebnisses haben die einzelnen Prüfungsbereiche folgendes Gewicht:
 
@@ -310,18 +297,15 @@ Der Prüfling erstellt über eine Fachaufgabe im Einsatzgebiet einen höchstens 
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung sowie der Verordnung über die Erprobung einer neuen Ausbildungsform in der Berufsausbildung zum Industriekaufmann/zur Industriekauffrau vom 23. Juli 2002 (BGBl. I S. 2775).
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-
-## Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau  - Sachliche Gliederung -
+# Anlage 1 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau  - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2002, 2767 - 2772)
 
@@ -1033,49 +1017,38 @@ d)
 
 qualitätssichernde und -fördernde Instrumente anwenden; Störungen und Fehlern systematisch vorbeugen; Probleme einsatzgebietsspezifisch lösen
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau  - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau  - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2002, 2773 - 2774)
 
-A.  
-Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1 bis 4 sind während der gesamten Ausbildungszeit zu vermitteln.
+A. Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1 bis 4 sind während der gesamten Ausbildungszeit zu vermitteln.
 
-B.  
-1. Ausbildungsjahr  
+B. 1. Ausbildungsjahr  
 (1) In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 6. Beschaffung und Bevorratung  
-zu vermitteln.  
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
+zu vermitteln. (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 9.2. Kosten- und Leistungsrechnung  
 in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsbildposition  
 8. Leistungserstellung  
-zu vermitteln.  
-(3) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
+zu vermitteln. (3) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 7. Personal  
 in Verbindung mit den Fertigkeiten und Kenntnissen der Berufsbildpositionen  
 1.1 Stellung, Rechtsform und Struktur,  
 1.2 Berufsbildung  
-zu vermitteln.  
-2. Ausbildungsjahr  
+zu vermitteln. 2. Ausbildungsjahr  
 (1) In einem Zeitraum von insgesamt ein bis drei Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition  
 7. Personal  
-fortzuführen.  
-(2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
+fortzuführen. (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 9.1 Buchhaltungsvorgänge  
 zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildposition  
 8. Leistungserstellung  
-fortzuführen.  
-(3) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
+fortzuführen. (3) In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 9.3 Erfolgsrechnung und Abschluss  
-zu vermitteln.  
-(4) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
+zu vermitteln. (4) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 5. Marketing und Absatz  
-zu vermitteln.  
-3. Ausbildungsjahr  
+zu vermitteln. 3. Ausbildungsjahr  
 (1) In einem Zeitraum von insgesamt zwei bis vier Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition  
 5. Marketing und Absatz  
-fortzuführen.  
-(2) In einem Zeitraum von insgesamt acht bis zehn Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
+fortzuführen. (2) In einem Zeitraum von insgesamt acht bis zehn Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition  
 10. Fachaufgaben im Einsatzgebiet  
 zu vermitteln.

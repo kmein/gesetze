@@ -1,10 +1,7 @@
-# [NPNordSBefV] Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee  (NPNordSBefV)
-
-Ausfertigungsdatum: 12.02.1992
-
+% Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee  (NPNordSBefV)
+% Ausfertigungsdatum: 12.02.1992
  
-
-## § 1
+# § 1
 
 (1) Zum Schutz der Tierwelt wird das Befahren der Bundeswasserstraßen mit Wasserfahrzeugen, Sportfahrzeugen und Wassersportgeräten in den Nationalparken
 
@@ -18,13 +15,11 @@ nach dieser Verordnung geregelt.
 
 (2) Die Grenzen der Nationalparke auf den Bundeswasserstraßen und die jeweiligen Zonen I mit den Seehundschutzgebieten, den Brut- und Mausergebieten der Vögel sowie den Schutzzeiten und die durch diese Gebiete führenden Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 15. April 1987 (BGBl. I S. 1266) in der jeweils geltenden Fassung bestimmen sich nach der Darstellung in den amtlichen Seekarten des Bundesamtes für Seeschiffahrt und Hydrographie in der jeweils geltenden Fassung. Die amtlichen Seekarten können bei den Wasserstraßen- und Schifffahrtsämtern des Bundes im Küstenbereich während der Dienstzeiten eingesehen und von den Vertriebs- und Auslieferungsstellen des Bundesamtes für Seeschiffahrt und Hydrographie, 20359 Hamburg, Bernhard-Nocht-Straße 78, bezogen werden.
 
-
-## § 2
+# § 2
 
 Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen in den Nationalparken so zu verhalten, daß die Tierwelt nicht geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, gestört wird.
 
-
-## § 3
+# § 3
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den Nationalparken mit Luftkissenfahrzeugen zu befahren.
 
@@ -32,15 +27,13 @@ Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen in den Nationalpa
 
 (3) Fahrzeuge im Sinne des § 1 Abs. 1, die durch Maschinenkraft angetrieben werden, dürfen auf den durch Sichtzeichen begrenzten oder gekennzeichneten Fahrwassern im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung außerhalb der jeweiligen Zonen I eine Geschwindigkeit von 16 kn durch das Wasser nicht überschreiten.
 
-(4) Für Fahrgastschiffe, die vor Erlaß der Verordnung vom 15. Februar 1995 (BGBl. I S. 209) seit mindestens sechs Monaten in der Watten- oder Helgolandfahrt eingesetzt worden sind, gelten die Geschwindigkeitsregelungen nach den Absätzen 2 und 3 für das Befahren der in Absatz 3 bezeichneten Fahrwasser nicht. Eine Geschwindigkeit von 24 kn durch das Wasser darf von diesen Fahrzeugen jedoch nicht überschritten werden.  
------
+(4) Für Fahrgastschiffe, die vor Erlaß der Verordnung vom 15. Februar 1995 (BGBl. I S. 209) seit mindestens sechs Monaten in der Watten- oder Helgolandfahrt eingesetzt worden sind, gelten die Geschwindigkeitsregelungen nach den Absätzen 2 und 3 für das Befahren der in Absatz 3 bezeichneten Fahrwasser nicht. Eine Geschwindigkeit von 24 kn durch das Wasser darf von diesen Fahrzeugen jedoch nicht überschritten werden. -----
 
 \*)
 
 kn = Knoten, 1 Knoten = 1,852 km/h.
 
-
-## § 4
+# § 4
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den jeweiligen Zonen I der Nationalparke außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung in der Zeit von drei Stunden nach bis drei Stunden vor Tidehochwasser zu befahren, soweit in dieser Verordnung nicht etwas anderes bestimmt ist.
 
@@ -48,8 +41,7 @@ kn = Knoten, 1 Knoten = 1,852 km/h.
 
 (3) Auf den Bundeswasserstraßen in den jeweiligen Zonen I der Nationalparke außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung dürfen durch Maschinenkraft angetriebene Wasserfahrzeuge und Sportfahrzeuge eine Geschwindigkeit von 8 kn durch das Wasser nicht überschreiten. Es ist untersagt, die in Satz 1 bezeichneten Bundeswasserstraßen mit motorisierten Wasserskiern, Wassermotorrädern oder sonstigen motorisierten Wassersportgeräten zu befahren oder auf ihnen Wasserskisport zu betreiben.
 
-
-## § 5
+# § 5
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann Befreiungen von den Verboten nach § 4 Abs. 1 oder 3 Satz 2 gewähren, wenn
 
@@ -61,8 +53,7 @@ kn = Knoten, 1 Knoten = 1,852 km/h.
 
 (3) Von dem Befahrensverbot nach § 4 Abs. 1 können Fahrer von Seekajaks auf Antrag befreit werden. Absatz 2 Satz 2 ist anzuwenden. Der Antrag ist unter Angabe der Fahrtroute und der Gründe für eine Befreiung mindestens drei Wochen vor Fahrtantritt bei der in Absatz 1 genannten Dienststelle des Bundes zu stellen.
 
-
-## § 6
+# § 6
 
 (1) Das Befahrensverbot nach § 4 Abs. 1 gilt nicht für
 
@@ -84,8 +75,7 @@ kn = Knoten, 1 Knoten = 1,852 km/h.
 
 (3) Die Geschwindigkeitsbeschränkungen des § 3 Abs. 2 bis 4 sowie des § 4 Abs. 3 Satz 1 gelten nicht für Wasserfahrzeuge nach Absatz 1 Nr. 1, 3 und 7.
 
-
-## § 7
+# § 7
 
 (1) Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des Bundeswasserstraßengesetzes handelt, wer als Fahrzeugführer oder sonst für Kurs und Geschwindigkeit Verantwortlicher vorsätzlich oder fahrlässig
 
@@ -99,7 +89,6 @@ kn = Knoten, 1 Knoten = 1,852 km/h.
 
 (2) Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 3 Satz 2 eine in § 4 Abs. 3 Satz 1 bezeichnete Bundeswasserstraße mit einem motorisierten Wassersportgerät befährt oder auf ihr Wasserskisport betreibt.
 
-
-## § 8
+# § 8
 
 Diese Verordnung tritt am 15. März 1992 in Kraft.

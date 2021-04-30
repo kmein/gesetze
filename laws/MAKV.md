@@ -1,10 +1,7 @@
-# [MAKV] Verordnung zur Vergütung der Anwendung von Arzneimitteln mit monoklonalen Antikörpern  (Monoklonale-Antikörper-Verordnung - MAKV)
-
-Ausfertigungsdatum: 21.04.2021
-
+% Verordnung zur Vergütung der Anwendung von Arzneimitteln mit monoklonalen Antikörpern  (Monoklonale-Antikörper-Verordnung - MAKV)
+% Ausfertigungsdatum: 21.04.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 5 Absatz 2 Satz 1 Nummer 4 Buchstabe a, c, d und f in Verbindung mit Absa
 –  
 des § 5 Absatz 2 Satz 1 Nummer 7 Buchstabe a des Infektionsschutzgesetzes, dessen Nummer 7 zuletzt durch Artikel 1 Nummer 1 Buchstabe b Doppelbuchstabe bb des Gesetzes vom 29. März 2021 (BGBl. I S. 370) geändert worden ist:
 
-
-## § 1 – Bereitstellung von und Anspruch auf Anwendung von Arzneimitteln mit monoklonalen Antikörpern
+# § 1 – Bereitstellung von und Anspruch auf Anwendung von Arzneimitteln mit monoklonalen Antikörpern
 
 (1) Vom Bund beschaffte, nicht zugelassene Arzneimittel mit monoklonalen Antikörpern (Arzneimittel mit monoklonalen Antikörpern) werden im Rahmen der vorhandenen Kapazitäten zur Anwendung bei Patientinnen und Patienten, die sich mit dem Coronavirus SARS-CoV-2 infiziert haben, kostenfrei bereitgestellt, wenn die Anwendung medizinisch indiziert ist.
 
@@ -25,8 +21,7 @@ des § 5 Absatz 2 Satz 1 Nummer 7 Buchstabe a des Infektionsschutzgesetzes, dess
 
 2. die sie behandelnde Ärztin oder der sie behandelnde Arzt die Anwendung als medizinisch indiziert erachtet.
 
-
-## § 2 – Vergütung der Leistungen im Zusammenhang mit der Anwendung von monoklonalen Antikörpern
+# § 2 – Vergütung der Leistungen im Zusammenhang mit der Anwendung von monoklonalen Antikörpern
 
 (1) Abweichend von bestehenden Vergütungsregelungen wird für die Leistungen, die im Zusammenhang mit der Anwendung von Arzneimitteln mit monoklonalen Antikörpern erbracht werden, eine einheitliche pauschale Vergütung gewährt. Die Vergütung wird für jede Patientin und jeden Patienten gewährt, bei der oder bei dem die nach § 1 Absatz 1 bereitgestellten Arzneimittel mit monoklonalen Antikörpern angewendet wurden.
 
@@ -36,8 +31,7 @@ des § 5 Absatz 2 Satz 1 Nummer 7 Buchstabe a des Infektionsschutzgesetzes, dess
 
 (4) Die Vergütung wird durch den Leistungserbringer abgerechnet, der die Anwendung von Arzneimitteln mit monoklonalen Antikörpern für die Patientin oder den Patienten verantwortet. Die Vergütung ist bei Personen, die in der gesetzlichen Krankenversicherung versichert sind, abhängig vom Leistungserbringer unter Nutzung der Abrechnungsverfahren nach § 295 oder § 301 des Fünften Buches Sozialgesetzbuch gegenüber der jeweiligen Krankenkasse und bei Personen, die in der privaten Krankenversicherung versichert sind, sowie bei Selbstzahlern gegenüber der jeweiligen Patientin oder dem jeweiligen Patienten abzurechnen. Bei Nichtversicherten, die nach § 1 Absatz 2 einen Leistungsanspruch gegen ihren Kostenträger haben, ist gegenüber dem Kostenträger abzurechnen, sofern nicht für diesen Personenkreis eine Abrechnung über die jeweils zuständige Krankenkasse vorgesehen ist.
 
-
-## § 3 – Fahrkosten
+# § 3 – Fahrkosten
 
 (1) Kosten für Fahrten von Versicherten in der gesetzlichen Krankenversicherung (Fahrkosten) werden von der Krankenkasse nach den Absätzen 2 und 3 übernommen, wenn die Fahrten
 
@@ -57,8 +51,7 @@ Eine Kostenübernahme erfolgt nicht für Fahrkosten, für die der jeweilige Kost
 
 (4) Die privaten Krankenversicherungsunternehmen können ihren Versicherten die im Rahmen der Anwendung von Arzneimitteln mit monoklonalen Antikörpern entstandenen Fahrkosten erstatten, soweit diese nicht bereits durch den jeweiligen Versicherungstarif abgedeckt sind.
 
-
-## § 4 – Vergütung der beauftragten Stellen nach § 2 Absatz 1 der Medizinischer Bedarf Versorgungssicherstellungsverordnung für die Lagerung, Verteilung, Abgabe und Abrechnung der Arzneimittel mit monoklonalen Antikörpern
+# § 4 – Vergütung der beauftragten Stellen nach § 2 Absatz 1 der Medizinischer Bedarf Versorgungssicherstellungsverordnung für die Lagerung, Verteilung, Abgabe und Abrechnung der Arzneimittel mit monoklonalen Antikörpern
 
 (1) Für die einer Krankenhausapotheke als nach § 2 Absatz 1 der Medizinischer Bedarf Versorgungssicherstellungsverordnung beauftragter Stelle (beliefernde Krankenhausapotheke) entstehenden Aufwendungen, die mit der Lagerung zum Zweck der Verteilung und der Verteilung von Arzneimitteln mit monoklonalen Antikörpern an andere nach § 2 Absatz 1 der Medizinischer Bedarf Versorgungssicherstellungsverordnung beauftragte Stellen (empfangende Krankenhausapotheke) verbunden sind, erhält der Träger der beliefernden Krankenhausapotheke eine Vergütung in Höhe von 100 Euro je Lieferung von bei der beliefernden Krankenhausapotheke gelagerten Arzneimitteln mit monoklonalen Antikörpern. Über jede Lieferung ist ein Nachweis durch die beliefernde Krankenhausapotheke zu erstellen, der das Lieferdatum und die Anschrift der empfangenden Krankenhausapotheke enthält.
 
@@ -68,8 +61,7 @@ Eine Kostenübernahme erfolgt nicht für Fahrkosten, für die der jeweilige Kost
 
 (4) Die für den Nachweis der Abrechnung erforderlichen rechnungsbegründenden Unterlagen sind von dem Träger des Krankenhauses der beliefernden Krankenhausapotheke bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren. Die Rechenzentren sind verpflichtet, die ihnen übermittelten Daten bis zum 31. Dezember 2024 unverändert zu speichern oder aufzubewahren.
 
-
-## § 5 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
+# § 5 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
 
 (1) Jedes Rechenzentrum im Sinne von § 300 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch übermittelt quartalsweise den sich für die Träger der Krankenhäuser, die das Rechenzentrum in Anspruch nehmen, ergebenden Gesamtbetrag der nach § 4 Absatz 3 Satz 3 übermittelten Abrechnungen an das Bundesamt für Soziale Sicherung. Sachliche oder rechnerische Fehler in dem übermittelten Gesamtbetrag sind durch die Rechenzentren in der nächsten Übermittlung zu berichtigen. Das Bundesamt für Soziale Sicherung zahlt die nach Satz 1 übermittelten Beträge aus der Liquiditätsreserve des Gesundheitsfonds an das jeweilige Rechenzentrum. Die Rechenzentren leiten die sich aus der nach § 4 Absatz 3 Satz 3 übermittelten Abrechnung ergebenden Beträge an die Träger der Krankenhäuser weiter.
 
@@ -77,7 +69,6 @@ Eine Kostenübernahme erfolgt nicht für Fahrkosten, für die der jeweilige Kost
 
 (3) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit quartalsweise eine Aufstellung der nach Absatz 1 Satz 3 ausgezahlten Beträge.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2021 in Kraft.

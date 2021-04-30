@@ -1,25 +1,19 @@
-# [PelzVAusbV] Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin  (Pelzveredler-Ausbildungsverordnung - PelzVAusbV)
-
-Ausfertigungsdatum: 29.07.1981
-
+% Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin  (Pelzveredler-Ausbildungsverordnung - PelzVAusbV)
+% Ausfertigungsdatum: 29.07.1981
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufs
+# § 1 – Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Pelzveredler/Pelzveredlerin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -55,23 +49,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 16. Fertigmachen der Pelzfelle zur Auslieferung.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahrs stattfinden.
 
@@ -111,8 +101,7 @@ Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -172,28 +161,23 @@ Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 10
+# § 10
 
 \-
 
-
-## § 11 – Berlin-Klausel
+# § 11 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1982 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
+# Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin
 
 (Fundstelle: BGBl. I 1981, 784 - 787)
 
@@ -635,8 +619,7 @@ c)
 
 Pelzfelle nach ihrer Qualität bewerten, Veredlungsfehler und ihre Ursachen nennen, Beseitigung der Fehler erläutern
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

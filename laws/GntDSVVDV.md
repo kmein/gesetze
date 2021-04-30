@@ -1,18 +1,13 @@
-# [GntDSVVDV] Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung  (GntDSVVDV)
-
-Ausfertigungsdatum: 20.11.2014
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung  (GntDSVVDV)
+% Ausfertigungsdatum: 20.11.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der Bundeslaufbahnverordnung, von denen § 10 Absatz 1 der Bundeslaufbahnverordnung durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert worden ist, verordnet der Vorstand der Deutschen Rentenversicherung Bund im Einvernehmen mit dem Vorstand der Deutschen Rentenversicherung Knappschaft-Bahn-See:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Bachelorstudium
+# § 1 – Bachelorstudium
 
 Das Bachelorstudium „Sozialversicherungsrecht LL. B.“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung.
 
@@ -20,18 +15,15 @@ Das Bachelorstudium „Sozialversicherungsrecht LL. B.“ an der Fachhochschule 
 
     (+++ § 1: Zur Anwendung vgl. § 31 Abs. 2 +++) 
 
-
-## § 2 – Studienziele
+# § 2 – Studienziele
 
 Das Studium befähigt die Studierenden, die Aufgaben des gehobenen nichttechnischen Dienstes des Bundes in der Sozialversicherung mit fachlicher und sozialer Kompetenz zu erfüllen und dabei sowohl wissenschaftliche Erkenntnisse und Methoden als auch berufspraktische Kenntnisse und Fähigkeiten anzuwenden. Das Studium bereitet die Studierenden auf ein verantwortliches Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat vor.
 
-
-## § 3 – Einstellung in den Vorbereitungsdienst
+# § 3 – Einstellung in den Vorbereitungsdienst
 
 Einstellungsbehörden sind die Deutsche Rentenversicherung Bund und die Deutsche Rentenversicherung Knappschaft-Bahn-See. Sie sind auch zuständig für die Durchführung des Auswahlverfahrens.
 
-
-## § 4 – Auswahlverfahren
+# § 4 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst wird auf der Grundlage eines Auswahlverfahrens entschieden. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind.
 
@@ -41,8 +33,7 @@ Einstellungsbehörden sind die Deutsche Rentenversicherung Bund und die Deutsche
 
 (4) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält von der Einstellungsbehörde die Bewerbungsunterlagen mit einer schriftlichen Mitteilung über die Nichtzulassung oder die erfolglose Teilnahme zurück.
 
-
-## § 5 – Auswahlkommission
+# § 5 – Auswahlkommission
 
 (1) Die Auswahlkommission besteht aus:
 
@@ -58,15 +49,13 @@ Zum Mitglied der Auswahlkommission kann auch eine Tarifbeschäftigte oder ein Ta
 
 (4) Die Auswahlkommission bewertet die Ergebnisse. Sie legt für jedes Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und Bewerber fest, die für die Einstellung maßgebend ist. Sind mehrere Kommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt.
 
-
-## § 6 – Nachteilsausgleich
+# § 6 – Nachteilsausgleich
 
 (1) Schwerbehinderten, diesen gleichgestellten behinderten Menschen und behinderten Menschen werden im Auswahlverfahren und in den Prüfungen auf Antrag angemessene Erleichterungen gewährt. Darauf sind sie vor dem Auswahlverfahren und vor den Prüfungen hinzuweisen. Die inhaltlichen Anforderungen im Auswahlverfahren und in den Prüfungen bleiben davon unberührt.
 
 (2) Über die Gewährung von Erleichterungen im Auswahlverfahren entscheidet die Einstellungsbehörde, im Übrigen entscheidet der Prüfungsausschuss.
 
-
-## § 7 – Erholungsurlaub
+# § 7 – Erholungsurlaub
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -74,15 +63,13 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 2. während der Praktika die Einstellungsbehörde in Abstimmung mit der Fachhochschule.
 
-
-## § 8 – Nutzung des elektronischen Informations- und Kommunikationssystems
+# § 8 – Nutzung des elektronischen Informations- und Kommunikationssystems
 
 (1) Soweit die Fachhochschule den Studierenden die für die Organisation und Durchführung des Studiums einschließlich der Prüfungsverfahren notwendigen Informationen über ein elektronisches Informations-und Kommunikationssystem zur Verfügung stellt, sind die Studierenden verpflichtet, sich diese zu beschaffen.
 
 (2) Der sorgfältige Umgang mit dem passwortgeschützten Zugang zu diesem System und den daraus abgerufenen Daten sowie die Pflege des eigenen Datenprofils obliegen den Studierenden.
 
-
-## § 9 – Dauer und Aufbau des Studiums
+# § 9 – Dauer und Aufbau des Studiums
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst 21 Monate Fachstudien an der Fachhochschule sowie 15 Monate Praktika bei der Einstellungsbehörde.
 
@@ -108,8 +95,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
     (+++ § 9 Abs. 2: Zur Anwendung vgl. § 31 Abs. 2 +++) 
 
-
-## § 10 – Anerkennung von Studien- und Prüfungsleistungen
+# § 10 – Anerkennung von Studien- und Prüfungsleistungen
 
 (1) Auf Antrag werden vom Prüfungsausschuss anerkannt
 
@@ -121,8 +107,7 @@ wenn sie mit den im Studiengang Sozialversicherungsrecht LL. B. zu erbringenden 
 
 (2) Das Nähere regelt der Prüfungsausschuss in einer Richtlinie.
 
-
-## § 11 – Studieninhalte
+# § 11 – Studieninhalte
 
 Das Studium umfasst mindestens folgende Inhalte:
 
@@ -134,8 +119,7 @@ Das Studium umfasst mindestens folgende Inhalte:
 
 4. Sozialwissenschaften mit den Schwerpunkten Soziologie, Politologie und Sozialpsychologie.
 
-
-## § 12 – Module
+# § 12 – Module
 
 (1) Die Studieninhalte werden in thematisch und zeitlich abgeschlossenen, interdisziplinären Modulen vermittelt. Die Module werden im Rahmen eines Qualitätsmanagements durch den Fachbereich regelmäßig evaluiert.
 
@@ -145,8 +129,7 @@ Das Studium umfasst mindestens folgende Inhalte:
 
 (4) Für das erfolgreich abgeschlossene Studium werden 180 ECTS-Leistungspunkte benötigt.
 
-
-## § 13 – Praktika
+# § 13 – Praktika
 
 (1) Während der Praktika erwerben die Studierenden berufliche Kenntnisse und Fähigkeiten, vertiefen die in den Fachstudien erworbenen wissenschaftlichen Kenntnisse und lernen, diese in der Praxis anzuwenden. Darüber hinaus sollen sie die Fähigkeit zur Kommunikation und Kooperation und insbesondere zur Teamarbeit erlangen.
 
@@ -166,8 +149,7 @@ Die Zuweisung erfolgt durch die Einstellungsbehörde.
 
 (3) Die Praktika werden von der Einstellungsbehörde in Abstimmung mit der Fachhochschule organisiert und durchgeführt.
 
-
-## § 14 – Bachelorprüfung
+# § 14 – Bachelorprüfung
 
 Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 
@@ -181,8 +163,7 @@ Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 
     (+++ § 14: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 15 – Einrichtung und Zusammensetzung des Prüfungsausschusses
+# § 15 – Einrichtung und Zusammensetzung des Prüfungsausschusses
 
 (1) Die Deutsche Rentenversicherung Bund und die Deutsche Rentenversicherung Knappschaft-Bahn-See richten beim Fachbereich Sozialversicherung der Fachhochschule einen gemeinsamen Prüfungsausschuss ein.
 
@@ -202,8 +183,7 @@ Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 
     (+++ § 15: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 16 – Aufgaben und Beschlussfassung des Prüfungsausschusses
+# § 16 – Aufgaben und Beschlussfassung des Prüfungsausschusses
 
 (1) Der Prüfungsausschuss ist für die Organisation und die Durchführung der Bachelorprüfung zuständig. Er regelt seine Angelegenheiten in einer Geschäftsordnung und die grundlegenden Prüfungsangelegenheiten durch Richtlinien. Der Prüfungsausschuss kann in der Geschäftsordnung näher zu benennende Aufgaben auf die Vorsitzende oder den Vorsitzenden übertragen. Zur Unterstützung des Prüfungsausschusses wird ein Prüfungsbüro eingerichtet.
 
@@ -219,8 +199,7 @@ Die Bachelorprüfung ist die Laufbahnprüfung. Sie besteht aus
 
     (+++ § 16: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 17 – Prüfende
+# § 17 – Prüfende
 
 (1) Der Prüfungsausschuss bestellt die Prüfenden für die Modulprüfungen, die Bachelorarbeit und die Verteidigung der Bachelorarbeit. Zu Prüfenden für die Modulprüfungen in den Fachstudien werden Lehrende der Fachhochschule bestellt. Für die Bewertung von Modulprüfungen in den Praktika schlagen die Einstellungsbehörden dem Prüfungsausschuss Prüfende vor. Die Prüfenden müssen mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen. Sie sind in ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
@@ -240,8 +219,7 @@ In begründeten Fällen kann der Prüfungsausschuss zwei Angehörige des gehoben
 
     (+++ § 17: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 18 – Prüfungsgrundsätze
+# § 18 – Prüfungsgrundsätze
 
 (1) Die zu prüfenden Studieninhalte sind durch das Modulhandbuch in der jeweils geltenden Fassung festgelegt.
 
@@ -257,8 +235,7 @@ In begründeten Fällen kann der Prüfungsausschuss zwei Angehörige des gehoben
 
     (+++ § 18: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 19 – Modulprüfungen
+# § 19 – Modulprüfungen
 
 (1) In jedem Modul ist eine Prüfung abzulegen. Eine Modulprüfung kann aus mehreren Teilen bestehen. Die Gewichtung der einzelnen Prüfungsteile regelt das Modulhandbuch.
 
@@ -300,8 +277,7 @@ Klausuren können ganz oder teilweise aus Multiple-Choice-Aufgaben (§ 23) beste
 
     (+++ § 19: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 20 – Bachelorarbeit
+# § 20 – Bachelorarbeit
 
 (1) Durch die Bachelorarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten. Form und Inhalt der Bachelorarbeit regelt der Prüfungsausschuss.
 
@@ -319,8 +295,7 @@ Klausuren können ganz oder teilweise aus Multiple-Choice-Aufgaben (§ 23) beste
 
     (+++ § 20: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 21 – Verteidigung der Bachelorarbeit
+# § 21 – Verteidigung der Bachelorarbeit
 
 (1) Zur Verteidigung der Bachelorarbeit werden Studierende zugelassen, wenn ihre Bachelorarbeit mit mindestens fünf Rangpunkten bewertet wurde.
 
@@ -336,8 +311,7 @@ Klausuren können ganz oder teilweise aus Multiple-Choice-Aufgaben (§ 23) beste
 
     (+++ § 21: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 22 – Bewertung der Prüfungsleistungen
+# § 22 – Bewertung der Prüfungsleistungen
 
 (1) Die Prüfungsleistungen in den Pflichtmodulen werden mit Rangpunkten und einer sich daraus ergebenden Note bewertet. Die Rangpunkte und Noten werden dem prozentualen Anteil der erreichten Punktzahl an der erreichbaren Punktzahl wie folgt zugeordnet:  
   
@@ -501,8 +475,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
     (+++ § 22: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 23 – Multiple-Choice-Aufgaben
+# § 23 – Multiple-Choice-Aufgaben
 
 (1) Multiple-Choice-Aufgaben können gestellt werden als
 
@@ -547,8 +520,7 @@ um bis zu … Prozent</th><th style="text-align: center;">Rangpunkte</th></tr></
 
     (+++ § 23: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 24 – Fernbleiben, Rücktritt
+# § 24 – Fernbleiben, Rücktritt
 
 (1) Bleiben Studierende ohne Genehmigung durch den Prüfungsausschuss einer Prüfung oder einem Prüfungsteil fern oder treten Studierende ohne Genehmigung durch den Prüfungsausschuss von einer Prüfung oder einem Prüfungsteil zurück, gilt die Prüfung oder der Prüfungsteil als mit null Rangpunkten oder mit „nicht bestanden“ bewertet.
 
@@ -560,8 +532,7 @@ um bis zu … Prozent</th><th style="text-align: center;">Rangpunkte</th></tr></
 
     (+++ § 24: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 25 – Täuschung, Ordnungsverstoß
+# § 25 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsausschusses gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung ausgeschlossen werden. Über das Vorliegen und die Folgen eines Verstoßes während einer mündlichen Prüfung entscheiden die Prüfenden gemeinsam.
 
@@ -575,8 +546,7 @@ um bis zu … Prozent</th><th style="text-align: center;">Rangpunkte</th></tr></
 
     (+++ § 25: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 26 – Störungen
+# § 26 – Störungen
 
 Fühlt sich die oder der Studierende während einer Prüfung durch äußere Einwirkungen erheblich gestört, hat sie oder er dies unverzüglich den Aufsichtführenden mitzuteilen. Nach Beendigung der Prüfung können Störungen nicht mehr geltend gemacht werden. Näheres regelt der Prüfungsausschuss in einer Richtlinie.
 
@@ -584,8 +554,7 @@ Fühlt sich die oder der Studierende während einer Prüfung durch äußere Einw
 
     (+++ § 26: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 27 – Wiederholung von Prüfungen
+# § 27 – Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann einmal wiederholt werden. Ist auch die Wiederholung erfolglos, ist das Studium beendet. Besteht eine Modulprüfung aus mehreren Prüfungsteilen, sind nur die Prüfungsteile zu wiederholen, die nicht bestanden sind.
 
@@ -603,8 +572,7 @@ Fühlt sich die oder der Studierende während einer Prüfung durch äußere Einw
 
     (+++ § 27: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 28 – Bestehen der Bachelorprüfung
+# § 28 – Bestehen der Bachelorprüfung
 
 (1) Die Bachelorprüfung ist bestanden, wenn
 
@@ -639,8 +607,7 @@ Die erworbenen Rangpunkte der Modulprüfungen in den Fachstudien und in den Prak
 
     (+++ § 28: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 29 – Abschlusszeugnis, Urkunde, Diploma Supplement
+# § 29 – Abschlusszeugnis, Urkunde, Diploma Supplement
 
 (1) Wer die Bachelorprüfung bestanden hat, erhält ein Abschlusszeugnis, eine Bachelorurkunde und ein Diploma Supplement.
 
@@ -670,8 +637,7 @@ Die erworbenen Rangpunkte der Modulprüfungen in den Fachstudien und in den Prak
 
     (+++ § 29: Zur Anwendung vgl. § 31 Abs. 2 +++) 
 
-
-## § 30 – Prüfungsakten
+# § 30 – Prüfungsakten
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -691,14 +657,12 @@ Die erworbenen Rangpunkte der Modulprüfungen in den Fachstudien und in den Prak
 
     (+++ § 30: Zur Anwendung vgl. § 31 Abs. 1 u. 2 +++) 
 
-
-## § 31 – Übergangsregelung
+# § 31 – Übergangsregelung
 
 (1) Für Studierende, die vor dem 1. September 2013 mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung vom 22. November 2010 (BGBl. I S. 1625) mit der Maßgabe weiter anzuwenden, dass an Stelle der §§ 11 bis 24 und 26 der Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung vom 22. November 2010 (BGBl. I S. 1625) die §§ 14 bis 28 und 30 dieser Verordnung anzuwenden sind.
 
 (2) Für Studierende, die nach dem 31. August 2013 und vor dem 1. September 2014 ihren Vorbereitungsdienst begonnen haben, ist die Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung vom 22. November 2010 (BGBl. I S. 1625) mit der Maßgabe weiter anzuwenden, dass an Stelle der §§ 1 und 7 Absatz 2 sowie der §§ 11 bis 26 der Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung vom 22. November 2010 die §§ 1 und 9 Absatz 2 sowie die §§ 14 bis 30 dieser Verordnung anzuwenden sind.
 
-
-## § 32 – Inkrafttreten, Außerkrafttreten
+# § 32 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. September 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung vom 22. November 2010 (BGBl. I S. 1625) außer Kraft.

@@ -1,38 +1,27 @@
-# [GAW] Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr  (GAW)
-
-Ausfertigungsdatum: 28.06.1990
-
+% Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr  (GAW)
+% Ausfertigungsdatum: 28.06.1990
  
+# §§ 1 bis 7 – (weggefallen)
 
-## §§ 1 bis 7 – (weggefallen)
+# § 8
 
+Zur Erfüllung zwischenstaatlicher Vereinbarungen, welche die Deutsche Demokratische Republik abgeschlossen hat, können gegenüber Personen, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet ansässig sind, Beschränkungen angeordnet oder Pflichten für Lieferungen oder Bezüge festgelegt werden, sofern die Verpflichtungen aus Vereinbarungen oder Abkommen bestehen, die vor dem 1. Juli 1990 eingegangen worden sind. Dies gilt auch zur Sicherung der gesamtwirtschaftlichen Erfordernisse aus bestehenden Verrechnungsabkommen. Die Festlegung von Verpflichtungen für Lieferungen oder Bezüge ist nur zulässig, wenn die Verpflichtungen auf andere wirtschaftlich tragbare Weise nicht erfüllt werden können. Soweit es sich bei der Festlegung von Verpflichtungen nach Satz 1 um eine Maßnahme im Sinne des Artikel 14 Abs. 2 Satz 1 des Grundgesetzes handelt, sind die Gebietsansässigen unter gerechter Abwägung ihrer Interessen und der Interessen der Allgemeinheit angemessen in Geld zu entschädigen.
 
-## § 8
+# §§ 9 bis 49 – (weggefallen)
 
-Zur Erfüllung zwischenstaatlicher Vereinbarungen, welche die Deutsche Demokratische Republik abgeschlossen hat, können gegenüber Personen, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet ansässig sind, Beschränkungen angeordnet oder Pflichten für Lieferungen oder Bezüge festgelegt werden, sofern die Verpflichtungen aus Vereinbarungen oder Abkommen bestehen, die vor dem 1. Juli 1990 eingegangen worden sind. Dies gilt auch zur Sicherung der gesamtwirtschaftlichen Erfordernisse aus bestehenden Verrechnungsabkommen.  
-Die Festlegung von Verpflichtungen für Lieferungen oder Bezüge ist nur zulässig, wenn die Verpflichtungen auf andere wirtschaftlich tragbare Weise nicht erfüllt werden können.  
-Soweit es sich bei der Festlegung von Verpflichtungen nach Satz 1 um eine Maßnahme im Sinne des Artikel 14 Abs. 2 Satz 1 des Grundgesetzes handelt, sind die Gebietsansässigen unter gerechter Abwägung ihrer Interessen und der Interessen der Allgemeinheit angemessen in Geld zu entschädigen.
-
-
-## §§ 9 bis 49 – (weggefallen)
-
-
-## § 50
+# § 50
 
 \-
 
-
-## § 51
+# § 51
 
 \-
 
-
-## Schlußformel
+# Schlußformel
 
 Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II  (BGBl. II 1990, 889, 1202)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet E Abschnitt II  (BGBl. II 1990, 889, 1202)
 
 Abschnitt II  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Änderungen oder Maßgaben in Kraft:

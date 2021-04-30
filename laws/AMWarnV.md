@@ -1,15 +1,11 @@
-# [AMWarnV] Arzneimittel-Warnhinweisverordnung  (AMWarnV)
-
-Ausfertigungsdatum: 21.12.1984
-
+% Arzneimittel-Warnhinweisverordnung  (AMWarnV)
+% Ausfertigungsdatum: 21.12.1984
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 1 Nr. 1 und 3 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich, Ausdehnung von Vorschriften des Arzneimittelgesetzes
+# § 1 – Anwendungsbereich, Ausdehnung von Vorschriften des Arzneimittelgesetzes
 
 (1) Diese Verordnung ist anzuwenden auf Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes, die dazu bestimmt sind, in einer zur Abgabe an den Verbraucher bestimmten Packung in den Verkehr gebracht zu werden und die
 
@@ -25,8 +21,7 @@ b) Injektionslösungen, Infusionslösungen, Munddesinfektionsmittel oder Rachend
 
 (2) Diese Verordnung ist nicht anzuwenden auf Arzneimittel, die zur klinischen Prüfung bestimmt sind.
 
-
-## § 2 – Warnhinweis auf den Behältnissen und äußeren Umhüllungen
+# § 2 – Warnhinweis auf den Behältnissen und äußeren Umhüllungen
 
 (1) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe a dürfen nur in den Verkehr gebracht werden, wenn unter Angabe des Volumprozentgehaltes an Äthanol nachstehende Warnhinweise angebracht sind:
 
@@ -44,8 +39,7 @@ b) Injektionslösungen, Infusionslösungen, Munddesinfektionsmittel oder Rachend
 
 (4) Die Warnhinweise müssen auf den Behältnissen und äußeren Umhüllungen in leicht lesbarer Schrift und auf dauerhafte Weise angebracht sein.
 
-
-## § 3 – Warnhinweis auf der Packungsbeilage
+# § 3 – Warnhinweis auf der Packungsbeilage
 
 (1) Arzneimittel nach § 1 Abs. 1 Satz 1 Nr. 1 Buchstabe a dürfen nur in den Verkehr gebracht werden, wenn auf der Packungsbeilage in leicht lesbarer Schrift ein Warnhinweis angebracht ist, der unter Angabe des Volumprozentgehaltes an Äthanol
 
@@ -84,13 +78,11 @@ Dieses Arzneimittel enthält den Farbstoff Tartrazin, der bei Personen, die gege
 
 nur dann, wenn der vorgeschriebene Warnhinweis von dem in § 2 genannten Warnhinweis abweicht, und mit der Maßgabe, daß der Warnhinweis nach Absatz 1, 2 oder 3 in leicht lesbarer Schrift dem Behältnis beigefügt oder auf ihm angebracht sein muß.
 
-
-## § 3a – Warnhinweis auf der Fachinformation
+# § 3a – Warnhinweis auf der Fachinformation
 
 Der nach § 3 Abs. 1, 2 oder 3 vorgeschriebene Warnhinweis ist auch auf der Fachinformation anzugeben.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 Wer vorsätzlich oder fahrlässig
 
@@ -98,13 +90,11 @@ Wer vorsätzlich oder fahrlässig
 
 2. entgegen § 3 Abs. 1, 2 oder 3 Arzneimittel ohne den vorgeschriebenen Warnhinweis in den Verkehr bringt, handelt nach § 97 Abs. 2 Nr. 5 des Arzneimittelgesetzes ordnungswidrig.
 
-
-## § 5 – Berlin-Klausel
+# § 5 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 99 des Arzneimittelgesetzes auch im Land Berlin.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. April 1985 in Kraft.
 
@@ -112,7 +102,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung
 
 (3) Arzneimittel, die den Bestimmungen der §§ 1 bis 3a nicht entsprechen und die sich bei Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet in Verkehr befinden, dürfen dort von pharmazeutischen Unternehmen noch bis zum 31. Dezember 1991 und danach noch von Groß- und Einzelhändlern in den Verkehr gebracht werden, sofern sie den vor Wirksamwerden des Beitritts geltenden arzneimittelrechtlichen Vorschriften der Deutschen Demokratischen Republik entsprechen.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit

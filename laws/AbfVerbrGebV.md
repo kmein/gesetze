@@ -1,35 +1,27 @@
-# [AbfVerbrGebV] Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verbringungen von Abfällen durch die Bundesrepublik Deutschland  (Abfallverbringungsgebührenverordnung - AbfVerbrGebV)
-
-Ausfertigungsdatum: 17.12.2003
-
+% Verordnung zur Erhebung von Gebühren bei notifizierungsbedürftigen Verbringungen von Abfällen durch die Bundesrepublik Deutschland  (Abfallverbringungsgebührenverordnung - AbfVerbrGebV)
+% Ausfertigungsdatum: 17.12.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 6 Nr. 3 in Verbindung mit Abs. 4 des Abfallverbringungsgesetzes vom 30. September 1994 (BGBl. I S. 2771), der durch Artikel 9 Nr. 1 des Gesetzes vom 9. September 2001 (BGBl. I S. 2331) neu gefasst worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für individuell zurechenbare öffentliche Leistungen des Umweltbundesamtes als zuständige Behörde für die Entscheidung über die notifizierungsbedürftige Verbringung von Abfällen durch die Bundesrepublik Deutschland.
 
-
-## § 2 – Gebühren und Auslagen
+# § 2 – Gebühren und Auslagen
 
 Im Rahmen des § 1 werden Gebühren nach Maßgabe des in der Anlage enthaltenen Gebührenverzeichnisses erhoben. Die Gebühr beträgt gemäß § 7 Absatz 3 Satz 3 des Abfallverbringungsgesetzes im Einzelfall höchstens 6 000 Euro. Auslagen werden nicht gesondert erhoben.
 
-
-## § 3 – Gebühren bei erfolglosen und zurückgenommenen Widersprüchen
+# § 3 – Gebühren bei erfolglosen und zurückgenommenen Widersprüchen
 
 (1) Wenn der Widerspruch ganz oder teilweise erfolglos geblieben ist, wird für den Widerspruchsbescheid eine Gebühr erhoben. Diese Gebühr darf die Gebühr nicht überschreiten, die für den angefochtenen Bescheid festgesetzt war, beträgt aber mindestens 25 Euro. Bei einem allein gegen eine Gebührenfestsetzung gerichteten Widerspruch beträgt die Gebühr bis zu 10 Prozent des Betrages, dessen Festsetzung mit dem Widerspruch erfolglos angefochten worden ist, mindestens aber 15 Euro. Hat der Widerspruch nur deshalb keinen Erfolg, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist, wird keine Gebühr erhoben.
 
 (2) Wird ein Widerspruch nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr bis zu 75 Prozent des Betrages nach Absatz 1 Satz 1, mindestens aber 15 Euro. Richtete sich der Widerspruch allein gegen eine Kostenentscheidung, ist eine Gebühr von 15 Euro zu erheben.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## Anlage – (zu § 2)Gebührenverzeichnis
+# Anlage – (zu § 2)Gebührenverzeichnis
 
  
 

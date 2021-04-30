@@ -1,20 +1,15 @@
-# [SoldErnAnO 2015] Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten
-
-Ausfertigungsdatum: 22.09.2015
-
+% Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten
+% Ausfertigungsdatum: 22.09.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach § 4 Absatz 2 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) und Artikel 1 Absatz 2 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten vom 10. Juli 1969 (BGBl. I S. 775), die durch die Anordnung vom 17. März 1972 (BGBl. I S. 499) geändert worden ist, ordne ich an:
 
-
-## § 1 – Dienstgradbezeichnungen
+# § 1 – Dienstgradbezeichnungen
 
 Soweit in dieser Anordnung Dienstgradbezeichnungen des Heeres und der Luftwaffe verwendet werden, gelten die jeweiligen Regelungen auch für die entsprechenden Dienstgrade der Marine und des Sanitätsdienstes.
 
-
-## § 2 – Vorbehaltene Ernennungen und Entlassungen
+# § 2 – Vorbehaltene Ernennungen und Entlassungen
 
 Dem Bundesministerium der Verteidigung behalte ich vor:
 
@@ -24,13 +19,11 @@ Dem Bundesministerium der Verteidigung behalte ich vor:
 
 3. Ernennungen und Entlassungen in sonstigen besonderen Fällen.
 
-
-## § 3 – Ausschließliche Zuständigkeit der Dienststellenleitung
+# § 3 – Ausschließliche Zuständigkeit der Dienststellenleitung
 
 Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und Entlassung obliegt der Leiterin oder dem Leiter der jeweiligen Dienststelle persönlich, soweit sie oder er nicht von einer Ermächtigung durch das Bundesministerium der Verteidigung Gebrauch macht, die Vollziehung von Ernennungs- und Entlassungsurkunden auf andere Angehörige der Dienststelle zu übertragen.
 
-
-## § 4 – Zuständigkeit des Bundesamtes für das Personalmanagement der Bundeswehr
+# § 4 – Zuständigkeit des Bundesamtes für das Personalmanagement der Bundeswehr
 
 (1) Das Bundesamt für das Personalmanagement der Bundeswehr ernennt und entlässt Soldatinnen und Soldaten bis zum Oberst in der Besoldungsgruppe A 16.
 
@@ -40,20 +33,17 @@ Die Ausübung der nachfolgend übertragenen Rechte zur Ernennung und Entlassung 
 
 2. in ein Reservewehrdienstverhältnis.
 
-
-## § 5 – Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten
+# § 5 – Reservistinnen und Reservisten, Soldatinnen und Soldaten, die nach dem Vierten und Fünften Abschnitt des Soldatengesetzes Wehrdienst leisten
 
 (1) Das Bundesamt für das Personalmanagement der Bundeswehr darf zu Dienstgraden bis zum Oberst befördern. Dies gilt auch für die Verleihung vorläufiger und zeitweiliger Dienstgrade nach § 5 Absatz 3, § 22 Absatz 5 und § 43 Absatz 3 der Soldatenlaufbahnverordnung.
 
 (2) Soldatinnen und Soldaten werden durch ihren Übungstruppenteil entlassen. Als Leiterin oder Leiter eines Truppenteils eingesetzte Soldatinnen und Soldaten werden durch die nächsthöhere Dienststelle entlassen.
 
-
-## § 6 – Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten
+# § 6 – Soldaten, die nach dem Wehrpflichtgesetz Wehrdienst leisten
 
 Für Soldaten, die Wehrdienst nach § 4 Absatz 1 Nummer 1, 4 oder 7 des Wehrpflichtgesetzes leisten, gilt § 4 entsprechend, und für Soldaten, die Wehrdienst nach § 4 Absatz 1 Nummer 2, 3, 5 oder 6 des Wehrpflichtgesetzes leisten, gilt § 5 entsprechend.
 
-
-## § 7 – Übergangsregelung
+# § 7 – Übergangsregelung
 
 (1) Für Mannschaften, die Heeresuniform tragen, gelten bis zum Ablauf des 30. Juni 2016 anstelle von § 4 die nachfolgenden Zuständigkeitsregelungen.
 
@@ -111,8 +101,7 @@ ihnen unterstellte Mannschaften entlassen.
 
 (9) In nicht von den Absätzen 3 bis 8 erfassten Fällen werden Mannschaften durch das Bundesamt für das Personalmanagement der Bundeswehr ernannt und entlassen.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Anordnung tritt am 1. Oktober 2015 in Kraft.
 
@@ -120,7 +109,6 @@ ihnen unterstellte Mannschaften entlassen.
 
 (3) Der Gesamtvertrauenspersonenausschuss ist beteiligt worden.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin der Verteidigung

@@ -1,15 +1,11 @@
-# [BBodSchV] Bundes-Bodenschutz- und Altlastenverordnung  (BBodSchV)
-
-Ausfertigungsdatum: 12.07.1999
-
+% Bundes-Bodenschutz- und Altlastenverordnung  (BBodSchV)
+% Ausfertigungsdatum: 12.07.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund der §§ 6, 8 Abs. 1 und 2 und des § 13 Abs. 1 Satz 2 des Bundes-Bodenschutzgesetzes vom 17. März 1998 (BGBl. I S. 502) verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -355,8 +351,7 @@ Anwendung
 
 Untersuchung und Bewertung
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für
 
@@ -370,8 +365,7 @@ Diese Verordnung gilt für
 
 5. die Festlegung von Prüf- und Maßnahmenwerten sowie von Vorsorgewerten einschließlich der zulässigen Zusatzbelastung nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 und Abs. 2 Nr. 1 und 2 des Bundes-Bodenschutzgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -419,8 +413,7 @@ Fläche, von der Bodenmaterial mit Oberflächenabfluß abgespült wird;
 
 Bodenschicht, die von den Pflanzenwurzeln in Abhängigkeit von den natürlichen Standortbedingungen durchdrungen werden kann.
 
-
-## § 3 – Untersuchung
+# § 3 – Untersuchung
 
 (1) Anhaltspunkte für das Vorliegen einer Altlast bestehen bei einem Altstandort insbesondere, wenn auf Grundstücken über einen längeren Zeitraum oder in erheblicher Menge mit Schadstoffen umgegangen wurde und die jeweilige Betriebs-, Bewirtschaftungs- oder Verfahrensweise oder Störungen des bestimmungsgemäßen Betriebs nicht unerhebliche Einträge solcher Stoffe in den Boden vermuten lassen. Bei Altablagerungen sind diese Anhaltspunkte insbesondere dann gegeben, wenn die Art des Betriebs oder der Zeitpunkt der Stillegung den Verdacht nahelegen, daß Abfälle nicht sachgerecht behandelt, gelagert oder abgelagert wurden.
 
@@ -450,8 +443,7 @@ Einzubeziehen sind dabei auch Erkenntnisse auf Grund allgemeiner Untersuchungen 
 
 (8) Die Anforderungen an die Untersuchung von Böden, Bodenmaterial und sonstigen Materialien sowie von Bodenluft, Deponiegas und Sickerwasser bestimmen sich im übrigen nach Anhang 1.
 
-
-## § 4 – Bewertung
+# § 4 – Bewertung
 
 (1) Die Ergebnisse der orientierenden Untersuchungen sind nach dieser Verordnung unter Beachtung der Gegebenheiten des Einzelfalls insbesondere auch anhand von Prüfwerten zu bewerten.
 
@@ -469,8 +461,7 @@ Einzubeziehen sind dabei auch Erkenntnisse auf Grund allgemeiner Untersuchungen 
 
 (8) Eine schädliche Bodenveränderung besteht nicht bei Böden mit naturbedingt erhöhten Gehalten an Schadstoffen allein auf Grund dieser Gehalte, soweit diese Stoffe nicht durch Einwirkungen auf den Boden in erheblichem Umfang freigesetzt wurden oder werden. Bei Böden mit großflächig siedlungsbedingt erhöhten Schadstoffgehalten kann ein Vergleich dieser Gehalte mit den im Einzelfall ermittelten Schadstoffgehalten in die Gefahrenbeurteilung einbezogen werden.
 
-
-## § 5 – Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen
+# § 5 – Sanierungsmaßnahmen, Schutz- und Beschränkungsmaßnahmen
 
 (1) Dekontaminationsmaßnahmen sind zur Sanierung geeignet, wenn sie auf technisch und wirtschaftlich durchführbaren Verfahren beruhen, die ihre praktische Eignung zur umweltverträglichen Beseitigung oder Verminderung der Schadstoffe gesichert erscheinen lassen. Dabei sind auch die Folgen des Eingriffs insbesondere für Böden und Gewässer zu berücksichtigen. Nach Abschluß einer Dekontaminationsmaßnahme ist das Erreichen des Sanierungsziels gegenüber der zuständigen Behörde zu belegen.
 
@@ -484,8 +475,7 @@ Einzubeziehen sind dabei auch Erkenntnisse auf Grund allgemeiner Untersuchungen 
 
 (6) Soll abgeschobenes, ausgehobenes oder behandeltes Material im Rahmen der Sanierung im Bereich derselben schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans wieder auf- oder eingebracht oder umgelagert werden, sind die Anforderungen nach § 4 Abs. 3 des Bundes-Bodenschutzgesetzes zu erfüllen.
 
-
-## § 6 – Sanierungsuntersuchung und Sanierungsplanung
+# § 6 – Sanierungsuntersuchung und Sanierungsplanung
 
 (1) Bei Sanierungsuntersuchungen ist insbesondere auch zu prüfen, mit welchen Maßnahmen eine Sanierung im Sinne des § 4 Abs. 3 des Bundes-Bodenschutzgesetzes erreicht werden kann, inwieweit Veränderungen des Bodens nach der Sanierung verbleiben und welche rechtlichen, organisatorischen und finanziellen Gegebenheiten für die Durchführung der Maßnahmen von Bedeutung sind.
 
@@ -493,13 +483,11 @@ Einzubeziehen sind dabei auch Erkenntnisse auf Grund allgemeiner Untersuchungen 
 
 (3) Die Anforderungen an eine Sanierungsuntersuchung und an einen Sanierungsplan bestimmten sich im übrigen nach Anhang 3.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 Auf schädliche Bodenveränderungen und Altlasten, bei denen nach Feststellung der zuständigen Behörde Gefahren, erhebliche Nachteile oder erhebliche Belästigungen mit einfachen Mitteln abgewehrt oder sonst beseitigt werden können, findet § 6 keine Anwendung.
 
-
-## § 8 – Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
+# § 8 – Gefahrenabwehr von schädlichen Bodenveränderungen auf Grund von Bodenerosion durch Wasser
 
 (1) Von dem Vorliegen einer schädlichen Bodenveränderung auf Grund von Bodenerosion durch Wasser ist insbesondere dann auszugehen, wenn
 
@@ -521,8 +509,7 @@ Auf schädliche Bodenveränderungen und Altlasten, bei denen nach Feststellung d
 
 (6) Wird die Erosionsfläche landwirtschaftlich genutzt, ist der zuständigen Beratungsstelle gemäß § 17 des Bundes-Bodenschutzgesetzes die Gelegenheit zu geben, im Rahmen der Beratung geeignete erosionsmindernde Maßnahmen für die Nutzung der Erosionsfläche zu empfehlen. Bei Anordnungen ist Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde herbeizuführen.
 
-
-## § 9 – Besorgnis schädlicher Bodenveränderungen
+# § 9 – Besorgnis schädlicher Bodenveränderungen
 
 (1) Das Entstehen schädlicher Bodenveränderungen nach § 7 des Bundes-Bodenschutzgesetzes ist in der Regel zu besorgen, wenn
 
@@ -536,15 +523,13 @@ Auf schädliche Bodenveränderungen und Altlasten, bei denen nach Feststellung d
 
 (3) Absatz 2 gilt entsprechend bei Böden mit großflächig siedlungsbedingt erhöhten Schadstoffgehalten.
 
-
-## § 10 – Vorsorgeanforderungen
+# § 10 – Vorsorgeanforderungen
 
 (1) Sind die Voraussetzungen des § 9 Abs. 1 Satz 1 Nr. 1, Abs. 2 oder 3 gegeben, hat der nach § 7 des Bundes-Bodenschutzgesetzes Verpflichtete Vorkehrungen zu treffen, um weitere durch ihn auf dem Grundstück und dessen Einwirkungsbereich verursachte Schadstoffeinträge zu vermeiden oder wirksam zu vermindern, soweit dies auch im Hinblick auf den Zweck der Nutzung des Grundstücks verhältnismäßig ist. Dazu gehören auch technische Vorkehrungen an Anlagen oder Verfahren sowie Maßnahmen zur Untersuchung und Überwachung von Böden. Für die Untersuchung gilt Anhang 1 entsprechend.
 
 (2) Einträge von Schadstoffen im Sinne des § 9 Abs. 1 Satz 1 Nr. 2, für die keine Vorsorgewerte festgesetzt sind, sind nach Maßgabe von Absatz 1 soweit technisch möglich und wirtschaftlich vertretbar zu begrenzen. Dies gilt insbesondere für die Stoffe, die nach der Gefahrstoffverordnung als krebserzeugend, erbgutverändernd oder fortpflanzungsgefährdend eingestuft sind.
 
-
-## § 11 – Zulässige Zusatzbelastung
+# § 11 – Zulässige Zusatzbelastung
 
 (1) Werden die in Anhang 2 Nr. 4.1 festgesetzten Vorsorgewerte bei einem Schadstoff überschritten, ist insoweit eine Zusatzbelastung bis zur Höhe der in Anhang 2 Nr. 5 festgesetzten jährlichen Frachten des Schadstoffes zulässig. Dabei sind die Einwirkungen auf den Boden über Luft und Gewässer sowie durch unmittelbare Einträge zu beachten.
 
@@ -552,8 +537,7 @@ Auf schädliche Bodenveränderungen und Altlasten, bei denen nach Feststellung d
 
 (3) Die in Anhang 2 Nr. 5 festgesetzten Frachten bestimmen nicht im Sinne des § 3 Abs. 3 Satz 2 des Bundes-Bodenschutzgesetzes, welche Zusatzbelastungen durch den Betrieb einer Anlage nicht als ursächlicher Beitrag zum Entstehen schädlicher Bodenveränderungen anzusehen sind.
 
-
-## § 12 – Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
+# § 12 – Anforderungen an das Aufbringen und Einbringen von Materialien auf oder in den Boden
 
 (1) Zur Herstellung einer durchwurzelbaren Bodenschicht dürfen in und auf Böden nur Bodenmaterial sowie Baggergut nach DIN 19731 (Ausgabe 5/98) und Gemische von Bodenmaterial mit solchen Abfällen, die die stofflichen Qualitätsanforderungen der nach § 11 des Kreislaufwirtschaftsgesetzes und § 8 des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Verordnungen erfüllen, auf- und eingebracht werden.
 
@@ -587,25 +571,21 @@ Die Zwischenlagerung und die Umlagerung von Bodenmaterial auf Grundstücken im R
 
 (12) Absatz 3 gilt nicht für das Auf- und Einbringen von Bodenmaterial auf die landwirtschaftliche Nutzfläche nach lokal begrenzten Erosionsereignissen oder zur Rückführung von Bodenmaterial aus der Reinigung landwirtschaftlicher Ernteprodukte.
 
-
-## § 13 – Zugänglichkeit von technischen Regeln und Normblättern
+# § 13 – Zugänglichkeit von technischen Regeln und Normblättern
 
 (1) Technische Regeln und Normblätter, auf die in dieser Verordnung verwiesen wird, sind beim Deutschen Patentamt archivmäßig gesichert hinterlegt. Die Bezugsquellen sind in Anhang 1 Nr. 6.2 aufgeführt.
 
 (2) Verweisungen auf Entwürfe von technischen Normen in den Anhängen beziehen sich jeweils auf die Fassung, die zu dem in der Verweisung angegebenen Zeitpunkt veröffentlicht ist.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anhang 1
+# Anhang 1
 
 (Fundstelle: BGBl. I 1999, 1561 - 1574;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -616,14 +596,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
 Anforderungen an die Probennahme, Analytik und Qualitätssicherung bei der Untersuchung
 
-Dieser Anhang findet Anwendung bei der Untersuchung von Böden, Bodenmaterialien und sonstigen Materialien, die im Boden oder auf den Böden von Verdachtsflächen oder altlastverdächtigen Flächen vorkommen, oder zum Auf- und Einbringen vorgesehen sind, sowie von Bodenluft.  
-Bei altlastverdächtigen Altablagerungen richten sich der Untersuchungsumfang und die Probennahme, insbesondere hinsichtlich der Untersuchungen auf Deponiegas, leichtflüchtige Schadstoffe, abgelagerte Abfälle und des Übergangs von Schadstoffen in das Grundwasser, nach den Erfordernissen des Einzelfalles.  
-Im Sinne dieses Anhangs ist der Stand von Verfahren und Methoden der Entwicklungsstand fortschrittlicher Verfahren und Methoden, der ihre praktische Eignung zu den vorstehend genannten Untersuchungen gesichert erscheinen läßt. Erkenntnisse über solche Verfahren und Methoden und über ihre Anwendung werden durch einen ausgewählten Kreis von Fachleuten aus Bund und Ländern sowie der Betroffenen im Benehmen mit den Ländern zusammengestellt, der vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit einberufen wird.
+Dieser Anhang findet Anwendung bei der Untersuchung von Böden, Bodenmaterialien und sonstigen Materialien, die im Boden oder auf den Böden von Verdachtsflächen oder altlastverdächtigen Flächen vorkommen, oder zum Auf- und Einbringen vorgesehen sind, sowie von Bodenluft. Bei altlastverdächtigen Altablagerungen richten sich der Untersuchungsumfang und die Probennahme, insbesondere hinsichtlich der Untersuchungen auf Deponiegas, leichtflüchtige Schadstoffe, abgelagerte Abfälle und des Übergangs von Schadstoffen in das Grundwasser, nach den Erfordernissen des Einzelfalles. Im Sinne dieses Anhangs ist der Stand von Verfahren und Methoden der Entwicklungsstand fortschrittlicher Verfahren und Methoden, der ihre praktische Eignung zu den vorstehend genannten Untersuchungen gesichert erscheinen läßt. Erkenntnisse über solche Verfahren und Methoden und über ihre Anwendung werden durch einen ausgewählten Kreis von Fachleuten aus Bund und Ländern sowie der Betroffenen im Benehmen mit den Ländern zusammengestellt, der vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit einberufen wird.
 
 1. Untersuchungsumfang und erforderlicher Kenntnisstand
 
-Die Untersuchungen nach § 3 dieser Verordnung beziehen sich auf die Wirkungspfade, für die sich auf Grund der im Einzelfall vorliegenden Informationen der Verdacht einer Gefahr ergibt. Bei der Festlegung des Untersuchungsumfangs sind die Ergebnisse der Erfassung, insbesondere die Kenntnisse oder begründeten Vermutungen über das Vorkommen bestimmter Schadstoffe und deren Verteilung, die gegenwärtige Nutzung und die Nutzung gemäß § 4 Abs. 4 des Bundes-Bodenschutzgesetzes und die sich daraus ergebenden Schutzbedürfnisse sowie die sonstigen beurteilungserheblichen örtlichen Gegebenheiten zu berücksichtigen. Die E DIN ISO 10381-3: 02.96 ist zu beachten. Zum Arbeitsschutz wird auf die ZH 1/183: 04.97 hingewiesen.  
-Bei der Untersuchung zum Wirkungspfad Boden - Mensch sind als Nutzungen
+Die Untersuchungen nach § 3 dieser Verordnung beziehen sich auf die Wirkungspfade, für die sich auf Grund der im Einzelfall vorliegenden Informationen der Verdacht einer Gefahr ergibt. Bei der Festlegung des Untersuchungsumfangs sind die Ergebnisse der Erfassung, insbesondere die Kenntnisse oder begründeten Vermutungen über das Vorkommen bestimmter Schadstoffe und deren Verteilung, die gegenwärtige Nutzung und die Nutzung gemäß § 4 Abs. 4 des Bundes-Bodenschutzgesetzes und die sich daraus ergebenden Schutzbedürfnisse sowie die sonstigen beurteilungserheblichen örtlichen Gegebenheiten zu berücksichtigen. Die E DIN ISO 10381-3: 02.96 ist zu beachten. Zum Arbeitsschutz wird auf die ZH 1/183: 04.97 hingewiesen. Bei der Untersuchung zum Wirkungspfad Boden - Mensch sind als Nutzungen
 
 \-  
 Kinderspielflächen
@@ -645,18 +622,13 @@ Ackerbau, Nutzgarten
 \-  
 Grünland
 
-zu unterscheiden.  
-Bei Untersuchungen zum Wirkungspfad Boden - Grundwasser ist nicht nach der Art der Bodennutzung zu unterscheiden.
+zu unterscheiden. Bei Untersuchungen zum Wirkungspfad Boden - Grundwasser ist nicht nach der Art der Bodennutzung zu unterscheiden.
 
   
 1.1  
 Orientierende Untersuchung
 
-Orientierende Untersuchungen von Verdachtsflächen und altlastverdächtigen Altstandorten sollen insbesondere auch auf die Feststellung und die Einschätzung des Umfangs von Teilbereichen mit unterschiedlich hohen Schadstoffgehalten ausgerichtet werden.  
-Bei altlastverdächtigen Altablagerungen sind in der Regel Untersuchungen von Deponiegas und auf leichtflüchtige Schadstoffe sowie Untersuchungen insbesondere auch hinsichtlich des Übergangs von Schadstoffen in das Grundwasser durchzuführen.  
-Sind bei Verdachtsflächen oder altlastverdächtigen Flächen auf Verlangen der dafür zuständigen Behörde Untersuchungen des Grund- oder Oberflächenwassers durchzuführen, ist dies bei der Festlegung von Umfang und Ablauf der orientierenden Untersuchung für Boden- oder Sickerwasseruntersuchungen zu berücksichtigen.  
-Kann bei Verdachtsflächen nicht auf vorhandene Bodenkartierungen zurückgegriffen werden oder liegen keine geeigneten bodenbezogenen Informationen vor, soll im Rahmen der orientierenden Untersuchung eine bodenkundliche Kartierung oder Bodenansprache am Ort der Probennahme auf der Grundlage der Bodenkundlichen Kartieranleitung, 4. Auflage, berichtigter Nachdruck 1996, in dem Umfange durchgeführt werden, der für die Gefahrenbeurteilung erforderlich ist.  
-Die Untersuchungsvorschriften für Böden und Bodenmaterialien gelten für die §§ 9, 10 und 12 entsprechend.
+Orientierende Untersuchungen von Verdachtsflächen und altlastverdächtigen Altstandorten sollen insbesondere auch auf die Feststellung und die Einschätzung des Umfangs von Teilbereichen mit unterschiedlich hohen Schadstoffgehalten ausgerichtet werden. Bei altlastverdächtigen Altablagerungen sind in der Regel Untersuchungen von Deponiegas und auf leichtflüchtige Schadstoffe sowie Untersuchungen insbesondere auch hinsichtlich des Übergangs von Schadstoffen in das Grundwasser durchzuführen. Sind bei Verdachtsflächen oder altlastverdächtigen Flächen auf Verlangen der dafür zuständigen Behörde Untersuchungen des Grund- oder Oberflächenwassers durchzuführen, ist dies bei der Festlegung von Umfang und Ablauf der orientierenden Untersuchung für Boden- oder Sickerwasseruntersuchungen zu berücksichtigen. Kann bei Verdachtsflächen nicht auf vorhandene Bodenkartierungen zurückgegriffen werden oder liegen keine geeigneten bodenbezogenen Informationen vor, soll im Rahmen der orientierenden Untersuchung eine bodenkundliche Kartierung oder Bodenansprache am Ort der Probennahme auf der Grundlage der Bodenkundlichen Kartieranleitung, 4. Auflage, berichtigter Nachdruck 1996, in dem Umfange durchgeführt werden, der für die Gefahrenbeurteilung erforderlich ist. Die Untersuchungsvorschriften für Böden und Bodenmaterialien gelten für die §§ 9, 10 und 12 entsprechend.
 
   
 1.2  
@@ -666,17 +638,13 @@ Bei der Detailuntersuchung sollen neben den unter § 3 Abs. 5 und 6 dieser Veror
 
 2. Probennahme
 
-Das Vorgehen bei der Probennahme richtet sich insbesondere nach den im Einzelfall berührten Wirkungspfaden, der Flächengröße, der auf Grund der Erfassungsergebnisse vermuteten vertikalen und horizontalen Schadstoffverteilung sowie der gegenwärtigen, der planungsrechtlich zulässigen und der früheren Nutzung. Dabei sind die unter den Nummern 2.1 bis 2.3 genannten Anforderungen zu beachten. Das Vorgehen bei der Probennahme ist zu begründen und zu dokumentieren. Die Anforderungen des Arbeitsschutzes sind zu beachten.  
-Untersuchungsflächen sollen für die Probennahme in geeignete Teilflächen gegliedert werden. Die Teilung soll auf Grund eines unterschiedlichen Gefahrenverdachts, einer unterschiedlichen Bodennutzung, der Geländeform oder der Bodenbeschaffenheit sowie von Auffälligkeiten, wie z.B. einer unterschiedlichen Vegetationsentwicklung, oder anhand von Erkenntnissen aus der Erfassung erfolgen.
+Das Vorgehen bei der Probennahme richtet sich insbesondere nach den im Einzelfall berührten Wirkungspfaden, der Flächengröße, der auf Grund der Erfassungsergebnisse vermuteten vertikalen und horizontalen Schadstoffverteilung sowie der gegenwärtigen, der planungsrechtlich zulässigen und der früheren Nutzung. Dabei sind die unter den Nummern 2.1 bis 2.3 genannten Anforderungen zu beachten. Das Vorgehen bei der Probennahme ist zu begründen und zu dokumentieren. Die Anforderungen des Arbeitsschutzes sind zu beachten. Untersuchungsflächen sollen für die Probennahme in geeignete Teilflächen gegliedert werden. Die Teilung soll auf Grund eines unterschiedlichen Gefahrenverdachts, einer unterschiedlichen Bodennutzung, der Geländeform oder der Bodenbeschaffenheit sowie von Auffälligkeiten, wie z.B. einer unterschiedlichen Vegetationsentwicklung, oder anhand von Erkenntnissen aus der Erfassung erfolgen.
 
   
 2.1  
 Probennahmeplanung für Bodenuntersuchungen - Festlegung der Probennahmestellen und Beprobungstiefen
 
-Soll die räumliche Verteilung der Schadstoffe ermittelt werden, ist die zu untersuchende Fläche oder Teilfläche grundsätzlich unter Zuhilfenahme eines Rasters repräsentativ zu beproben. Soweit aus Vorkenntnissen, bei altlastverdächtigen Altstandorten insbesondere nach den Ergebnissen der Erfassung, eine Hypothese über die räumliche Verteilung der Schadstoffe abgeleitet werden kann, ist diese bei der Festlegung der Probennahmestellen und des Rasters zu berücksichtigen. Für die Festlegung von Probennahmestellen können auch Ergebnisse aus einer geeigneten Vor-Ort-Analytik herangezogen werden.  
-Vermutete Schadstoffanreicherungen sind gezielt zu beproben. Die Beprobung ist, insbesondere hinsichtlich Zahl und räumlicher Anordnung der Probennahmestellen, so vorzunehmen, daß der Gefahrenverdacht geklärt, eine mögliche Gefahr bewertet werden und eine räumliche Abgrenzung von Schadstoffanreicherungen erfolgen kann.  
-Bei der Festlegung der Beprobungstiefen für die Wirkungspfade Boden - Mensch und Boden - Nutzpflanze sollen für die Untersuchung auf anorganische und schwerflüchtige organische Schadstoffe die in Tabelle 1 genannten Beprobungstiefen zugrundegelegt werden.  
-
+Soll die räumliche Verteilung der Schadstoffe ermittelt werden, ist die zu untersuchende Fläche oder Teilfläche grundsätzlich unter Zuhilfenahme eines Rasters repräsentativ zu beproben. Soweit aus Vorkenntnissen, bei altlastverdächtigen Altstandorten insbesondere nach den Ergebnissen der Erfassung, eine Hypothese über die räumliche Verteilung der Schadstoffe abgeleitet werden kann, ist diese bei der Festlegung der Probennahmestellen und des Rasters zu berücksichtigen. Für die Festlegung von Probennahmestellen können auch Ergebnisse aus einer geeigneten Vor-Ort-Analytik herangezogen werden. Vermutete Schadstoffanreicherungen sind gezielt zu beproben. Die Beprobung ist, insbesondere hinsichtlich Zahl und räumlicher Anordnung der Probennahmestellen, so vorzunehmen, daß der Gefahrenverdacht geklärt, eine mögliche Gefahr bewertet werden und eine räumliche Abgrenzung von Schadstoffanreicherungen erfolgen kann. Bei der Festlegung der Beprobungstiefen für die Wirkungspfade Boden - Mensch und Boden - Nutzpflanze sollen für die Untersuchung auf anorganische und schwerflüchtige organische Schadstoffe die in Tabelle 1 genannten Beprobungstiefen zugrundegelegt werden. 
 Tabelle 1  
 Nutzungsorientierte Beprobungstiefe bei Untersuchungen  
 zu den Wirkungspfaden Boden - Mensch und Boden - Nutzpflanze
@@ -722,8 +690,7 @@ Grünland
 
 4) Hauptwurzelbereich.
 
-Böden sind möglichst horizontweise zu beproben. Grundlage für die Ermittlung der Horizontabfolge ist die Bodenkundliche Kartieranleitung der Geologischen Landesämter (AG Bodenkunde, 4. Auflage, 1994). Bis in den Unterboden gestörte Böden sind lagenweise zu beproben (siehe Tabelle 1). Die Lagen- oder Horizontmächtigkeit, die durch Entnahme einer Probe repräsentiert werden kann, beträgt in der Regel 30 cm. Mächtigere Horizonte oder Lagen sind gegebenenfalls zu unterteilen. Ergänzend zur Tabelle 1 ist die Beprobungstiefe zu berücksichtigen, für die bei der nach § 4 Abs. 4 des Bundes-Bodenschutzgesetzes zu berücksichtigenden Nutzung besondere Vorkehrungen getroffen werden müssen. Die Gründe für abweichende Beprobungstiefen sind zu dokumentieren.  
-Bei der Probennahme ist hinsichtlich der Wirkungspfade folgendes zu beachten:
+Böden sind möglichst horizontweise zu beproben. Grundlage für die Ermittlung der Horizontabfolge ist die Bodenkundliche Kartieranleitung der Geologischen Landesämter (AG Bodenkunde, 4. Auflage, 1994). Bis in den Unterboden gestörte Böden sind lagenweise zu beproben (siehe Tabelle 1). Die Lagen- oder Horizontmächtigkeit, die durch Entnahme einer Probe repräsentiert werden kann, beträgt in der Regel 30 cm. Mächtigere Horizonte oder Lagen sind gegebenenfalls zu unterteilen. Ergänzend zur Tabelle 1 ist die Beprobungstiefe zu berücksichtigen, für die bei der nach § 4 Abs. 4 des Bundes-Bodenschutzgesetzes zu berücksichtigenden Nutzung besondere Vorkehrungen getroffen werden müssen. Die Gründe für abweichende Beprobungstiefen sind zu dokumentieren. Bei der Probennahme ist hinsichtlich der Wirkungspfade folgendes zu beachten:
 
   
 2.1.1  
@@ -746,16 +713,13 @@ die Möglichkeit der inhalativen Aufnahme von Bodenpartikeln,
 \-  
 die Relevanz weiterer Wirkungspfade.
 
-Für die Beurteilung der Gefahren durch die inhalative Aufnahme von Bodenpartikeln sind die obersten zwei Zentimeter des Bodens maßgebend. Inhalativ bedeutsam sind solche Schadstoffe, für die sich der inhalative Pfad nach den Ableitungsmaßstäben gemäß § 4 Abs. 5 dieser Verordnung als ausschlaggebend für die Festlegung des Prüfwertes erwiesen hat. Durch Rückstellproben ist sicherzustellen, daß der Schadstoffgehalt in der für die Staubbildung relevanten Feinkornfraktion bis 63 mym gegebenenfalls getrennt analysiert werden kann.  
-Ist auf Grund vorliegender Erkenntnisse davon auszugehen, daß die Schadstoffe in der beurteilungsrelevanten Bodenschicht annähernd gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis 10 000 qm für jeweils 1 000 qm, mindestens aber von 3 Teilflächen, eine Mischprobe entnommen werden. Die Mischprobe soll aus 15 bis 25 Einzelproben einer Beprobungstiefe gewonnen werden. Bei Flächen unter 500 qm sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung kann auf eine Teilung verzichtet werden. Für Flächen über 10 000 qm sollen mindestens jedoch 10 Teilflächen beprobt werden.
+Für die Beurteilung der Gefahren durch die inhalative Aufnahme von Bodenpartikeln sind die obersten zwei Zentimeter des Bodens maßgebend. Inhalativ bedeutsam sind solche Schadstoffe, für die sich der inhalative Pfad nach den Ableitungsmaßstäben gemäß § 4 Abs. 5 dieser Verordnung als ausschlaggebend für die Festlegung des Prüfwertes erwiesen hat. Durch Rückstellproben ist sicherzustellen, daß der Schadstoffgehalt in der für die Staubbildung relevanten Feinkornfraktion bis 63 mym gegebenenfalls getrennt analysiert werden kann. Ist auf Grund vorliegender Erkenntnisse davon auszugehen, daß die Schadstoffe in der beurteilungsrelevanten Bodenschicht annähernd gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis 10 000 qm für jeweils 1 000 qm, mindestens aber von 3 Teilflächen, eine Mischprobe entnommen werden. Die Mischprobe soll aus 15 bis 25 Einzelproben einer Beprobungstiefe gewonnen werden. Bei Flächen unter 500 qm sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung kann auf eine Teilung verzichtet werden. Für Flächen über 10 000 qm sollen mindestens jedoch 10 Teilflächen beprobt werden.
 
   
 2.1.2  
 Wirkungspfad Boden - Nutzpflanze
 
-Bei landwirtschaftlich einschließlich gartenbaulich genutzten Böden mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung soll auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von 3 Teilflächen eine Mischprobe entsprechend den Beprobungstiefen entnommen werden. Bei Flächen unter 5 000 qm kann auf eine Teilung verzichtet werden. Für Flächen größer 10 Hektar sollen mindestens jedoch 10 Teilflächen beprobt werden. Die Probennahme erfolgt nach den Regeln der Probennahme auf landwirtschaftlich genutzten Böden (E DIN ISO 10381-1: 02.96, E DIN ISO 10381-4: 02.96) durch 15 bis 25 Einzeleinstiche je Teilfläche, die zu jeweils einer Mischprobe vereinigt werden.  
-In Nutzgärten erfolgt die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe für jede Beprobungstiefe und im übrigen in Anlehnung an die Regeln der Probennahme auf Ackerflächen.  
-Für die Eignung von Geräten zur Probennahme ist E DIN ISO 10381-2: 02.96 maßgebend.
+Bei landwirtschaftlich einschließlich gartenbaulich genutzten Böden mit annähernd gleichmäßiger Bodenbeschaffenheit und Schadstoffverteilung soll auf Flächen bis 10 Hektar in der Regel für jeweils 1 Hektar, mindestens aber von 3 Teilflächen eine Mischprobe entsprechend den Beprobungstiefen entnommen werden. Bei Flächen unter 5 000 qm kann auf eine Teilung verzichtet werden. Für Flächen größer 10 Hektar sollen mindestens jedoch 10 Teilflächen beprobt werden. Die Probennahme erfolgt nach den Regeln der Probennahme auf landwirtschaftlich genutzten Böden (E DIN ISO 10381-1: 02.96, E DIN ISO 10381-4: 02.96) durch 15 bis 25 Einzeleinstiche je Teilfläche, die zu jeweils einer Mischprobe vereinigt werden. In Nutzgärten erfolgt die Probennahme in der Regel durch Entnahme einer grundstücksbezogenen Mischprobe für jede Beprobungstiefe und im übrigen in Anlehnung an die Regeln der Probennahme auf Ackerflächen. Für die Eignung von Geräten zur Probennahme ist E DIN ISO 10381-2: 02.96 maßgebend.
 
   
 2.1.3  
@@ -782,9 +746,7 @@ Probengewinnung
 2.4.1  
 Böden, Bodenmaterial und sonstige Materialien
 
-Die notwendige Probemenge richtet sich gemäß DIN 18123: 11.96 nach dem Größtkorn und muß ausreichen, um nach sachgerechter Probenvorbehandlung die Laboruntersuchung sowie gegebenenfalls die Bereitstellung von Rückstellproben zu gewährleisten. Eine Abstimmung mit der Untersuchungsstelle sollte erfolgen.  
-Grobmaterialien (Materialien &gt; 2 mm) und Fremdmaterialien, die möglicherweise Schadstoffe enthalten oder denen diese anhaften können, sind aus der gesamten Probemenge zu entnehmen und gesondert der Laboruntersuchung zuzuführen. Ihr Massenanteil an dem beprobten Bodenhorizont bzw. der Schichteinheit ist zu ermitteln und zu dokumentieren.  
-Zur Entnahme von Boden, Bodenmaterial und sonstigen Materialien sind Verfahren anzuwenden, die in der DIN 4021: 10.90 und E DIN ISO 10381-2: 02.96 aufgeführt sind. Bei der Verfahrensauswahl sind über die in der Norm enthaltenen Angaben hinaus die erforderliche Probenmenge und der Aufbau des Untergrundes zu berücksichtigen.
+Die notwendige Probemenge richtet sich gemäß DIN 18123: 11.96 nach dem Größtkorn und muß ausreichen, um nach sachgerechter Probenvorbehandlung die Laboruntersuchung sowie gegebenenfalls die Bereitstellung von Rückstellproben zu gewährleisten. Eine Abstimmung mit der Untersuchungsstelle sollte erfolgen. Grobmaterialien (Materialien &gt; 2 mm) und Fremdmaterialien, die möglicherweise Schadstoffe enthalten oder denen diese anhaften können, sind aus der gesamten Probemenge zu entnehmen und gesondert der Laboruntersuchung zuzuführen. Ihr Massenanteil an dem beprobten Bodenhorizont bzw. der Schichteinheit ist zu ermitteln und zu dokumentieren. Zur Entnahme von Boden, Bodenmaterial und sonstigen Materialien sind Verfahren anzuwenden, die in der DIN 4021: 10.90 und E DIN ISO 10381-2: 02.96 aufgeführt sind. Bei der Verfahrensauswahl sind über die in der Norm enthaltenen Angaben hinaus die erforderliche Probenmenge und der Aufbau des Untergrundes zu berücksichtigen.
 
   
 2.4.2  
@@ -796,8 +758,7 @@ Für die Entnahme von Bodenluftproben gilt VDI-Richtlinie 3865, Blatt 2.
 2.5  
 Probenkonservierung, -transport und -lagerung
 
-Für die Auswahl von Probengefäßen sowie für Probenkonservierung, -transport und -lagerung sind die entsprechenden Regelungen in den Untersuchungsvorschriften nach Nummer 3.1.3, Tabellen 3 bis 7 einzuhalten. Fehlen derartige Regelungen, sind E DIN ISO 10381-1: 02.96 und DIN EN ISO 5667-3: 04.96 zu beachten.  
-Der Transport der Bodenproben für die Untersuchung organischer Schadstoffe sowie ihre Lagerung erfolgt gemäß E DIN ISO 14507: 02.96.
+Für die Auswahl von Probengefäßen sowie für Probenkonservierung, -transport und -lagerung sind die entsprechenden Regelungen in den Untersuchungsvorschriften nach Nummer 3.1.3, Tabellen 3 bis 7 einzuhalten. Fehlen derartige Regelungen, sind E DIN ISO 10381-1: 02.96 und DIN EN ISO 5667-3: 04.96 zu beachten. Der Transport der Bodenproben für die Untersuchung organischer Schadstoffe sowie ihre Lagerung erfolgt gemäß E DIN ISO 14507: 02.96.
 
   
 3. Untersuchungsverfahren
@@ -808,24 +769,17 @@ Untersuchungsverfahren für Böden, Bodenmaterial und sonstige Materialien
 3.1.1  
 Probenauswahl und -vorbehandlung
 
-Im Falle gestufter Untersuchungen ist für den Einzelfall zu entscheiden, in welcher Abfolge im Feld gewonnene Proben zu analysieren sind, und ob ggf. auch eine Zusammenfassung mehrerer Proben zweckmäßig ist. Die Entscheidung und ihre Gründe sind zu dokumentieren.  
-Die Probenvorbehandlung, einschließlich der Trocknung des Probenmaterials, erfolgt für die Bestimmung physikalisch-chemischer Eigenschaften (Nummer 3.1.3, Tabelle 3) und die Bestimmung anorganischer Schadstoffe (Nummer 3.1.3, Tabelle 4) nach DIN ISO 11464: 12.96. Für organische Schadstoffe ist E DIN ISO 14507: 02.96 anzuwenden.  
-Ist bei Böden, Bodenmaterial und sonstigen Materialien (insbesondere Schlacken und Bauschutt) eine Auftrennung in Grob- und Feinanteil erforderlich, hat dies über ein Sieb mit einer Maschenweite von 2 mm in die Fraktionen &lt;= 2 mm (Feinanteil) und &gt; 2 mm (Grobanteil) Korndurchmesser zu erfolgen. Verklumpungen sind zu zerkleinern, wobei aber geringstabile Aggregate (z.B. Carbonat-, Eisen-Konkretionen, Bims) möglichst nicht zerbrochen werden sollten. Beide Fraktionen sind zu wägen, zu beschreiben und zu dokumentieren, und deren Trockenmasseanteil ist zu bestimmen. Der Feinanteil ist zu homogenisieren und zu untersuchen. Bestehen Anhaltspunkte für einen erhöhten Schadstoffgehalt der Fraktion &gt; 2 mm, ist diese Fraktion zu gewinnen und nach Vorzerkleinerung und Homogenisierung ebenfalls zu untersuchen. Im Probenmaterial enthaltene Fremdmaterialien sind erforderlichenfalls getrennt zu untersuchen und bei der Bewertung zu berücksichtigen.  
-Repräsentative Teile der im Feld entnommenen Proben sind als Rückstellproben aufzubewahren. Art und Umfang der Rückstellung sind nach den Erfordernissen des Einzelfalls zu vereinbaren.
+Im Falle gestufter Untersuchungen ist für den Einzelfall zu entscheiden, in welcher Abfolge im Feld gewonnene Proben zu analysieren sind, und ob ggf. auch eine Zusammenfassung mehrerer Proben zweckmäßig ist. Die Entscheidung und ihre Gründe sind zu dokumentieren. Die Probenvorbehandlung, einschließlich der Trocknung des Probenmaterials, erfolgt für die Bestimmung physikalisch-chemischer Eigenschaften (Nummer 3.1.3, Tabelle 3) und die Bestimmung anorganischer Schadstoffe (Nummer 3.1.3, Tabelle 4) nach DIN ISO 11464: 12.96. Für organische Schadstoffe ist E DIN ISO 14507: 02.96 anzuwenden. Ist bei Böden, Bodenmaterial und sonstigen Materialien (insbesondere Schlacken und Bauschutt) eine Auftrennung in Grob- und Feinanteil erforderlich, hat dies über ein Sieb mit einer Maschenweite von 2 mm in die Fraktionen &lt;= 2 mm (Feinanteil) und &gt; 2 mm (Grobanteil) Korndurchmesser zu erfolgen. Verklumpungen sind zu zerkleinern, wobei aber geringstabile Aggregate (z.B. Carbonat-, Eisen-Konkretionen, Bims) möglichst nicht zerbrochen werden sollten. Beide Fraktionen sind zu wägen, zu beschreiben und zu dokumentieren, und deren Trockenmasseanteil ist zu bestimmen. Der Feinanteil ist zu homogenisieren und zu untersuchen. Bestehen Anhaltspunkte für einen erhöhten Schadstoffgehalt der Fraktion &gt; 2 mm, ist diese Fraktion zu gewinnen und nach Vorzerkleinerung und Homogenisierung ebenfalls zu untersuchen. Im Probenmaterial enthaltene Fremdmaterialien sind erforderlichenfalls getrennt zu untersuchen und bei der Bewertung zu berücksichtigen. Repräsentative Teile der im Feld entnommenen Proben sind als Rückstellproben aufzubewahren. Art und Umfang der Rückstellung sind nach den Erfordernissen des Einzelfalls zu vereinbaren.
 
   
 3.1.2  
 Extraktion, Elution
 
 Königswasserextrakt  
-Die Bestimmung des Gehaltes an anorganischen Schadstoffen zum Vergleich der Schadstoffaufnahme auf dem Wirkungspfad Boden - Mensch mit den Werten nach Anhang 2 Nummer 1 mit Ausnahme der Cyanide, für den Wirkungspfad Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten bezüglich Arsen und Quecksilber nach Anhang 2 Nummer 2.2 und für den Wirkungspfad Boden - Nutzpflanze auf Grünland nach Anhang 2 Nummer 2.3 sowie hinsichtlich der Vorsorgewerte nach Anhang 2 Nummer 4.1 erfolgt aus dem Königswasserextrakt nach DIN ISO 11466: 06.97 aus aufgemahlenen Proben (Korngröße &lt; 150 mym).  
-Ammoniumnitratextraktion  
-Der Ammoniumnitratextrakt nach DIN 19730: 06.97 ist zur Ermittlung der Gehalte anorganischer Schadstoffe für die Bewertung der Schadstoffe im Wirkungspfad Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität bezüglich Cadmium, Blei und Thallium nach Anhang 2 Nummer 2.2 sowie auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen nach Anhang 2 Nummer 2.4 anzuwenden und kann zur Abschätzung von anorganischen Schadstoffkonzentrationen im Sickerwasser nach Nummer 3.3 dieses Anhangs eingesetzt werden.  
-Extraktion organischer Schadstoffe  
-Die Bestimmung des Gehaltes an organischen Schadstoffen zum Vergleich der Schadstoffaufnahme auf dem Wirkungspfad Boden - Mensch mit den Werten nach Anhang 2 Nummer 1.2 sowie hinsichtlich der Vorsorgewerte nach Anhang 2 nummer 4.2 erfolgt aus den in Nummer 3.1.3, Tabelle 5 angegebenen Bodenextrakten. Sollen andere Verfahren angewendet werden, ist dies zu begründen und nachzuweisen, daß deren Ergebnisse mit den Ergebnissen der oben angegebenen Verfahren gleichwertig oder vergleichbar sind.  
-Elution mit Wasser  
-Für die Herstellung von Eluaten mit Wasser zur Abschätzung von Schadstoffkonzentrationen im Sickerwasser nach Nummer 3.3 dieses Anhangs sind die in Tabelle 2 angegebenen Verfahren anzuwenden.  
-
+Die Bestimmung des Gehaltes an anorganischen Schadstoffen zum Vergleich der Schadstoffaufnahme auf dem Wirkungspfad Boden - Mensch mit den Werten nach Anhang 2 Nummer 1 mit Ausnahme der Cyanide, für den Wirkungspfad Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten bezüglich Arsen und Quecksilber nach Anhang 2 Nummer 2.2 und für den Wirkungspfad Boden - Nutzpflanze auf Grünland nach Anhang 2 Nummer 2.3 sowie hinsichtlich der Vorsorgewerte nach Anhang 2 Nummer 4.1 erfolgt aus dem Königswasserextrakt nach DIN ISO 11466: 06.97 aus aufgemahlenen Proben (Korngröße &lt; 150 mym). Ammoniumnitratextraktion  
+Der Ammoniumnitratextrakt nach DIN 19730: 06.97 ist zur Ermittlung der Gehalte anorganischer Schadstoffe für die Bewertung der Schadstoffe im Wirkungspfad Boden - Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die Pflanzenqualität bezüglich Cadmium, Blei und Thallium nach Anhang 2 Nummer 2.2 sowie auf Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen nach Anhang 2 Nummer 2.4 anzuwenden und kann zur Abschätzung von anorganischen Schadstoffkonzentrationen im Sickerwasser nach Nummer 3.3 dieses Anhangs eingesetzt werden. Extraktion organischer Schadstoffe  
+Die Bestimmung des Gehaltes an organischen Schadstoffen zum Vergleich der Schadstoffaufnahme auf dem Wirkungspfad Boden - Mensch mit den Werten nach Anhang 2 Nummer 1.2 sowie hinsichtlich der Vorsorgewerte nach Anhang 2 nummer 4.2 erfolgt aus den in Nummer 3.1.3, Tabelle 5 angegebenen Bodenextrakten. Sollen andere Verfahren angewendet werden, ist dies zu begründen und nachzuweisen, daß deren Ergebnisse mit den Ergebnissen der oben angegebenen Verfahren gleichwertig oder vergleichbar sind. Elution mit Wasser  
+Für die Herstellung von Eluaten mit Wasser zur Abschätzung von Schadstoffkonzentrationen im Sickerwasser nach Nummer 3.3 dieses Anhangs sind die in Tabelle 2 angegebenen Verfahren anzuwenden. 
 Tabelle 2  
 Verfahren zur Herstellung von Eluaten mit Wasser
 
@@ -885,9 +839,7 @@ Nach dem Schütteln ist die Suspension ca. 15 min zur Sedimentation der gröbere
 Analysenverfahren
 
 Böden, Bodenmaterial und sonstige Materialen  
-Die Analyse von Böden, Bodenmaterial und gegebenenfalls von sonstigen Materialien ist nach den in den Tabellen 3 bis 5 aufgeführten Untersuchungsverfahren auszuführen.  
-Sollen unter Nennung der Gründe andere Verfahren angewendet werden, ist nachzuweisen und zu dokumentieren, daß deren Ergebnisse mit den Ergebnissen der in den Tabellen 3 bis 5 angegebenen Verfahren gleichwertig oder vergleichbar sind. Inwieweit einzelne Verfahren insbesondere auch unter den unter Nummer 4.2 genannten Gesichtspunkten anwendbar sind, ist im Einzelfall zu prüfen. Die Schadstoffgehalte sind auf Trockenmasse (105 Grad C) zu beziehen. Sie müssen in der gleichen Einheit wie die entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte in Anhang 2 angegeben werden.  
-  
+Die Analyse von Böden, Bodenmaterial und gegebenenfalls von sonstigen Materialien ist nach den in den Tabellen 3 bis 5 aufgeführten Untersuchungsverfahren auszuführen. Sollen unter Nennung der Gründe andere Verfahren angewendet werden, ist nachzuweisen und zu dokumentieren, daß deren Ergebnisse mit den Ergebnissen der in den Tabellen 3 bis 5 angegebenen Verfahren gleichwertig oder vergleichbar sind. Inwieweit einzelne Verfahren insbesondere auch unter den unter Nummer 4.2 genannten Gesichtspunkten anwendbar sind, ist im Einzelfall zu prüfen. Die Schadstoffgehalte sind auf Trockenmasse (105 Grad C) zu beziehen. Sie müssen in der gleichen Einheit wie die entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte in Anhang 2 angegeben werden.   
 
 Tabelle 3  
 Analyse physikalisch-chemischer Eigenschaften
@@ -1072,9 +1024,7 @@ nach Klärschlammverordnung unter Beachtung von DIN 38414-24: 2000-10
 empfohlene Methode.
 
 Eluate und Sickerwasser  
-Die analytische Bestimmung der anorganischen Stoffkonzentrationen in Eluaten und Sickerwasser ist nach den in Tabelle 6 aufgeführten Analyseverfahren durchzuführen, die Bestimmung der organischen Stoffkonzentrationen im Sickerwasser erfolgt nach den in Tabelle 7 genannten Methoden.  
-Sollen unter Nennung der Gründe andere Verfahren angewendet werden, ist nachzuweisen, daß deren Ergebnisse mit den Ergebnissen der in Tabelle 6 und 7 angegebenen Verfahren gleichwertig oder vergleichbar sind.  
-
+Die analytische Bestimmung der anorganischen Stoffkonzentrationen in Eluaten und Sickerwasser ist nach den in Tabelle 6 aufgeführten Analyseverfahren durchzuführen, die Bestimmung der organischen Stoffkonzentrationen im Sickerwasser erfolgt nach den in Tabelle 7 genannten Methoden. Sollen unter Nennung der Gründe andere Verfahren angewendet werden, ist nachzuweisen, daß deren Ergebnisse mit den Ergebnissen der in Tabelle 6 und 7 angegebenen Verfahren gleichwertig oder vergleichbar sind. 
 Tabelle 6  
 Bestimmung der Konzentration anorganischer Schadstoffe in Eluaten und Sickerwasser
 
@@ -1287,8 +1237,7 @@ Die Untersuchung von Bodenluft erfolgt nach VDI-Richtlinie 3865 Blatt 2 und 3.
 3.3  
 Verfahren zur Abschätzung des Stoffeintrags aus Verdachtsflächen oder altlastverdächtigen Flächen in das Grundwasser
 
-Die Stoffkonzentrationen und -frachten im Sickerwasser und der Schadstoffeintrag in das Grundwasser im Übergangsbereich von der ungesättigten zur wassergesättigten Bodenzone (Ort der Beurteilung) können abgeschätzt werden, es sei denn, günstige Umstände ermöglichen eine repräsentative Beprobung von Sickerwasser am Ort der Beurteilung.  
-Diese Abschätzung kann annäherungsweise
+Die Stoffkonzentrationen und -frachten im Sickerwasser und der Schadstoffeintrag in das Grundwasser im Übergangsbereich von der ungesättigten zur wassergesättigten Bodenzone (Ort der Beurteilung) können abgeschätzt werden, es sei denn, günstige Umstände ermöglichen eine repräsentative Beprobung von Sickerwasser am Ort der Beurteilung. Diese Abschätzung kann annäherungsweise
 
 \-  
 durch Rückschlüsse oder Rückrechnungen aus Untersuchungen im Grundwasserabstrom unter Berücksichtigung der Stoffkonzentration im Grundwasseranstrom, der Verdünnung, des Schadstoffverhaltens in der ungesättigten und gesättigten Bodenzone sowie des Schadstoffinventars im Boden,
@@ -1299,8 +1248,7 @@ auf der Grundlage von In-situ-Untersuchungen oder
 \-  
 auf der Grundlage von Materialuntersuchungen im Labor (Elution, Extraktion), bei anorganischen Stoffen insbesondere der Elution mit Wasser, gemäß Tabelle 2
 
-auch unter Anwendung von Stofftransportmodellen erfolgen.  
-Die Stoffkonzentrationen im Sickerwasser können am Ort der Probennahme
+auch unter Anwendung von Stofftransportmodellen erfolgen. Die Stoffkonzentrationen im Sickerwasser können am Ort der Probennahme
 
 \-  
 für anorganische Schadstoffe mit den Ergebnissen des Bodensättigungsextraktes ansatzweise gleichgesetzt werden; Abschätzungen unter Heranziehung von Analysenergebnissen nach Tabelle 6 und anderer Elutionsverfahren (z.B. DIN 19730 oder DIN 38414-4) sind zulässig, wenn die Gleichwertigkeit der Ergebnisse insbesondere durch Bezug dieser Ergebnisse auf den Bodensättigungsextrakt sichergestellt ist; Ergebnisse nach DIN 38414-4: 10.84 können nur verwendet werden, wenn die Filtration nach Nummer 3.1.2 dieser Verordnung durchgeführt wurde;
@@ -1308,11 +1256,8 @@ für anorganische Schadstoffe mit den Ergebnissen des Bodensättigungsextraktes 
 \-  
 für organische Stoffe aus Säulenversuchen der entnommenen Proben unter Beachtung der Standortbedingungen am Entnahmeort, insbesondere im Hinblick auf die Kontaktzeit, mit Verfahren nach Tabelle 7 ermittelt werden.
 
-Die Analysenergebnisse der Untersuchung von Sickerwasser, Grundwasser, Extrakten und Eluaten sowie von Bodenproben sind mit dem jeweiligen Untersuchungsverfahren anzugeben. Die darauf beruhende Abschätzung der Sickerwasserbeschaffenheit und -frachten für den Übergangsbereich von der ungesättigten zur wassergesättigten Zone ist im einzelnen darzulegen und zu begründen.  
-Für die Abschätzung sind insbesondere Verfahren heranzuziehen, die mit Erfolg bei praktischen Fragestellungen angewendet worden sind. Hierzu sind im Einzelfall gutachterliche Feststellungen zu treffen.  
-Ergänzend sind folgende Anwendungshinweise zu beachten:  
-Wenn im Einzelfall einer schädlichen Bodenveränderung oder Altlast ein Zutritt von sauren Sickerwässern, ein Zutritt von Lösevermittlern bzw. eine Änderung des Redoxpotentials zu erwarten ist, sollten entsprechende weitere Extraktionsverfahren angewendet werden.  
-Bei der Abschätzung des Schadstoffeintrags im Übergangsbereich von der ungesättigten zur gesättigten Zone ist insbesondere die Abbau- und Rückhaltewirkung der ungesättigten Zone zu berücksichtigen. Hierbei sind vor allem folgende Kriterien maßgebend:
+Die Analysenergebnisse der Untersuchung von Sickerwasser, Grundwasser, Extrakten und Eluaten sowie von Bodenproben sind mit dem jeweiligen Untersuchungsverfahren anzugeben. Die darauf beruhende Abschätzung der Sickerwasserbeschaffenheit und -frachten für den Übergangsbereich von der ungesättigten zur wassergesättigten Zone ist im einzelnen darzulegen und zu begründen. Für die Abschätzung sind insbesondere Verfahren heranzuziehen, die mit Erfolg bei praktischen Fragestellungen angewendet worden sind. Hierzu sind im Einzelfall gutachterliche Feststellungen zu treffen. Ergänzend sind folgende Anwendungshinweise zu beachten:  
+Wenn im Einzelfall einer schädlichen Bodenveränderung oder Altlast ein Zutritt von sauren Sickerwässern, ein Zutritt von Lösevermittlern bzw. eine Änderung des Redoxpotentials zu erwarten ist, sollten entsprechende weitere Extraktionsverfahren angewendet werden. Bei der Abschätzung des Schadstoffeintrags im Übergangsbereich von der ungesättigten zur gesättigten Zone ist insbesondere die Abbau- und Rückhaltewirkung der ungesättigten Zone zu berücksichtigen. Hierbei sind vor allem folgende Kriterien maßgebend:
 
 \-  
 Grundwasserflurabstand,
@@ -1332,8 +1277,7 @@ Grundwasserneubildungsrate/Sickerwasserrate,
 \-  
 Mobilität und Abbaubarkeit der Stoffe.
 
-Der Einfluß dieser Faktoren auf die Stoffrückhaltung in der ungesättigten Zone wird auf Grund allgemein vorliegender wissenschaftlicher Erkenntnisse und Erfahrungen für den jeweiligen Standort abgeschätzt. Auch der Einsatz von Stofftransportmodellen kann zweckmäßig sein.  
-Bei direkter Beprobung und Untersuchung von Sickerwasser ist bei der Bewertung der gemessenen Stoffkonzentrationen deren witterungsbedingte Dynamik zu berücksichtigen.
+Der Einfluß dieser Faktoren auf die Stoffrückhaltung in der ungesättigten Zone wird auf Grund allgemein vorliegender wissenschaftlicher Erkenntnisse und Erfahrungen für den jeweiligen Standort abgeschätzt. Auch der Einsatz von Stofftransportmodellen kann zweckmäßig sein. Bei direkter Beprobung und Untersuchung von Sickerwasser ist bei der Bewertung der gemessenen Stoffkonzentrationen deren witterungsbedingte Dynamik zu berücksichtigen.
 
   
 4. Qualitätssicherung
@@ -1341,9 +1285,7 @@ Bei direkter Beprobung und Untersuchung von Sickerwasser ist bei der Bewertung d
 4.1  
 Probennahme und Probenlagerung
 
-Die Festlegung der Probennahmestellen und der Beprobungstiefen sowie die Probennahme sind durch hierfür qualifiziertes Personal durchzuführen.  
-Probennahme, Probentransport und Probenlagerung haben so zu erfolgen, daß eine Beeinflussung der chemischen, physikalischen und biologischen Beschaffenheit des Probenmaterials durch Arbeitsverfahren und/oder -materialien sowie aus Lagerungsbedingungen so weit wie möglich ausgeschlossen wird.  
-Die Probennahme ist zu dokumentieren. Die Dokumentation soll alle für die Laboruntersuchung und die Auswertung der Untersuchungsergebnisse relevanten Informationen enthalten, insbesondere Angaben zu
+Die Festlegung der Probennahmestellen und der Beprobungstiefen sowie die Probennahme sind durch hierfür qualifiziertes Personal durchzuführen. Probennahme, Probentransport und Probenlagerung haben so zu erfolgen, daß eine Beeinflussung der chemischen, physikalischen und biologischen Beschaffenheit des Probenmaterials durch Arbeitsverfahren und/oder -materialien sowie aus Lagerungsbedingungen so weit wie möglich ausgeschlossen wird. Die Probennahme ist zu dokumentieren. Die Dokumentation soll alle für die Laboruntersuchung und die Auswertung der Untersuchungsergebnisse relevanten Informationen enthalten, insbesondere Angaben zu
 
 \-  
 Probennahmezeitpunkt, Probennehmer,
@@ -1375,8 +1317,7 @@ Bestehende Normen, Regelungen der Länder und fachliche Regeln zur Qualitätssic
 4.2  
 Probenvorbehandlung und Analytik
 
-Es sind geeignete interne und externe Qualitätssicherungsmaßnahmen, insbesondere hinsichtlich der Reproduzierbarkeit (Präzision) und Richtigkeit der Untersuchungsergebnisse, durchzuführen, zu überwachen und zu dokumentieren.  
-Interne Qualitätssicherungsmaßnahmen sind insbesondere:
+Es sind geeignete interne und externe Qualitätssicherungsmaßnahmen, insbesondere hinsichtlich der Reproduzierbarkeit (Präzision) und Richtigkeit der Untersuchungsergebnisse, durchzuführen, zu überwachen und zu dokumentieren. Interne Qualitätssicherungsmaßnahmen sind insbesondere:
 
 \-  
 die Durchführung von unabhängigen Mehrfachbestimmungen,
@@ -1398,8 +1339,7 @@ die erfolgreiche Teilnahme an Vergleichsprüfungen, insbesondere Ringversuche,
 \-  
 Kompetenzbestätigung gemäß DIN EN 45001: 05.90.
 
-Für die angewendeten Untersuchungsverfahren sind die Nachweis- und Bestimmungsgrenzen nach DIN 32645: 05.94 anzugeben. Das Bestimmungsverfahren ist so auszuwählen, daß auf Grund der Bestimmungsgrenze die Über- und Unterschreitung der entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte nach Anhang 2 sicher beurteilt werden kann. Die angewendeten Bestimmungsverfahren sind zu dokumentieren.  
-Für das Analysenergebnis ist eine Meßunsicherheit gemäß DIN 1319-3: 05.96 und/oder DIN 1319-4: 12.85 anzugeben.
+Für die angewendeten Untersuchungsverfahren sind die Nachweis- und Bestimmungsgrenzen nach DIN 32645: 05.94 anzugeben. Das Bestimmungsverfahren ist so auszuwählen, daß auf Grund der Bestimmungsgrenze die Über- und Unterschreitung der entsprechenden Prüf-, Maßnahmen- und Vorsorgewerte nach Anhang 2 sicher beurteilt werden kann. Die angewendeten Bestimmungsverfahren sind zu dokumentieren. Für das Analysenergebnis ist eine Meßunsicherheit gemäß DIN 1319-3: 05.96 und/oder DIN 1319-4: 12.85 anzugeben.
 
   
 5. Abkürzungsverzeichnis
@@ -1790,8 +1730,7 @@ e) Handbuch Altlasten LfU HE: Hessische Landesanstalt für Umwelt, 65022 Wiesbad
 
 f) ZH 1/183: Hauptverband der gewerblichen Berufsgenossenschaften, Fachausschuß Tiefbau, 81241 München
 
-
-## Anhang 2
+# Anhang 2
 
 (Fundstelle: BGBl. I 1999, 1575 - 1579)
 
@@ -2302,8 +2241,7 @@ nach § 8 Abs. 2 Nr. 2 des Bundes-Bodenschutzgesetzes (in Gramm je Hektar)
 | Quecksilber |        1,5        |
 | Zink        |       1 200       |
 
-
-## Anhang 3
+# Anhang 3
 
 Fundstelle: BGBl. I 1999, 1580 - 1581
 
@@ -2315,8 +2253,7 @@ Anforderungen an Sanierungsuntersuchungen und den Sanierungsplan
 
 1. Sanierungsuntersuchungen
 
-Mit Sanierungsuntersuchungen bei Altlasten sind die zur Erfüllung der Pflichten nach § 4 Abs. 3 des Bundes-Bodenschutzgesetzes geeigneten, erforderlichen und angemessenen Maßnahmen zu ermitteln. Die hierfür in Betracht kommenden Maßnahmen sind unter Berücksichtigung von Maßnahmenkombinationen und von erforderlichen Begleitmaßnahmen darzustellen.  
-Die Prüfung muß insbesondere
+Mit Sanierungsuntersuchungen bei Altlasten sind die zur Erfüllung der Pflichten nach § 4 Abs. 3 des Bundes-Bodenschutzgesetzes geeigneten, erforderlichen und angemessenen Maßnahmen zu ermitteln. Die hierfür in Betracht kommenden Maßnahmen sind unter Berücksichtigung von Maßnahmenkombinationen und von erforderlichen Begleitmaßnahmen darzustellen. Die Prüfung muß insbesondere
 
 \-  
 die schadstoff-, boden-, material- und standortspezifische Eignung der Verfahren,
@@ -2354,9 +2291,7 @@ die Erfordernisse der Nachsorge und
 \-  
 die Nachbesserungsmöglichkeiten
 
-umfassen.  
-Die Prüfung soll unter Verwendung vorhandener Daten, insbesondere aus Untersuchungen nach § 3 dieser Verordnung, sowie auf Grund sonstiger gesicherter Erkenntnisse durchgeführt werden. Soweit solche Informationen insbesondere zur gesicherten Abgrenzung belasteter Bereiche oder zur Beurteilung der Eignung von Sanierungsverfahren im Einzelfall nicht ausreichen, sind ergänzende Untersuchungen zur Prüfung der Eignung eines Verfahrens durchzuführen.  
-Die Ergebnisse der Prüfung und das danach vorzugswürdige Maßnahmenkonzept sind darzustellen.
+umfassen. Die Prüfung soll unter Verwendung vorhandener Daten, insbesondere aus Untersuchungen nach § 3 dieser Verordnung, sowie auf Grund sonstiger gesicherter Erkenntnisse durchgeführt werden. Soweit solche Informationen insbesondere zur gesicherten Abgrenzung belasteter Bereiche oder zur Beurteilung der Eignung von Sanierungsverfahren im Einzelfall nicht ausreichen, sind ergänzende Untersuchungen zur Prüfung der Eignung eines Verfahrens durchzuführen. Die Ergebnisse der Prüfung und das danach vorzugswürdige Maßnahmenkonzept sind darzustellen.
 
 2. Sanierungsplan
 
@@ -2390,44 +2325,32 @@ des Gebietes des Sanierungsplans,
 \-  
 der Elemente und des Ablaufs der Sanierung im Hinblick auf
 
-.  
-den Bauablauf,
+. den Bauablauf,
 
-.  
-die Erdarbeiten (insbesondere Aushub, Separierung, Wiedereinbau, Umlagerungen im Bereich des Sanierungsplans),
+. die Erdarbeiten (insbesondere Aushub, Separierung, Wiedereinbau, Umlagerungen im Bereich des Sanierungsplans),
 
-.  
-die Abbrucharbeiten,
+. die Abbrucharbeiten,
 
-.  
-die Zwischenlagerung von Bodenmaterial und sonstigen Materialien,
+. die Zwischenlagerung von Bodenmaterial und sonstigen Materialien,
 
-.  
-die Abfallentsorgung beim Betrieb von Anlagen,
+. die Abfallentsorgung beim Betrieb von Anlagen,
 
-.  
-die Verwendung von Böden und die Ablagerung von Abfällen auf Deponien und
+. die Verwendung von Böden und die Ablagerung von Abfällen auf Deponien und
 
-.  
-die Arbeits- und Immissionsschutzmaßnahmen,
+. die Arbeits- und Immissionsschutzmaßnahmen,
 
 \-  
 der fachspezifischen Berechnungen zu
 
-.  
-on-site-Bodenbehandlungsanlagen,
+. on-site-Bodenbehandlungsanlagen,
 
-.  
-in-situ-Maßnahmen,
+. in-situ-Maßnahmen,
 
-.  
-Anlagen zur Fassung und Behandlung von Deponiegas oder Bodenluft,
+. Anlagen zur Fassung und Behandlung von Deponiegas oder Bodenluft,
 
-.  
-Grundwasserbehandlungsanlagen,
+. Grundwasserbehandlungsanlagen,
 
-.  
-Anlagen und Maßnahmen zur Fassung und Behandlung insbesondere von Sickerwasser,
+. Anlagen und Maßnahmen zur Fassung und Behandlung insbesondere von Sickerwasser,
 
 \-  
 der zu behandelnden Mengen und der Transportwege bei Bodenbehandlung in off-site-Anlagen,
@@ -2435,17 +2358,13 @@ der zu behandelnden Mengen und der Transportwege bei Bodenbehandlung in off-site
 \-  
 der technischen Ausgestaltung von Sicherungsmaßnahmen und begleitenden Maßnahmen, insbesondere von
 
-.  
-Oberflächen-, Vertikal- und Basisabdichtungen,
+. Oberflächen-, Vertikal- und Basisabdichtungen,
 
-.  
-Oberflächenabdeckungen,
+. Oberflächenabdeckungen,
 
-.  
-Zwischen- bzw. Bereitstellungslagern,
+. Zwischen- bzw. Bereitstellungslagern,
 
-.  
-begleitenden passiven pneumatischen, hydraulischen oder sonstigen Maßnahmen (z.B. Baufeldentwässerung, Entwässerung des Aushubmaterials, Einhausung, Abluftfassung und -behandlung) und
+. begleitenden passiven pneumatischen, hydraulischen oder sonstigen Maßnahmen (z.B. Baufeldentwässerung, Entwässerung des Aushubmaterials, Einhausung, Abluftfassung und -behandlung) und
 
 \-  
 der behördlichen Zulassungserfordernisse für die durchzuführenden Maßnahmen.
@@ -2455,17 +2374,13 @@ der behördlichen Zulassungserfordernisse für die durchzuführenden Maßnahmen.
 \-  
 das Überwachungskonzept hinsichtlich
 
-.  
-des Bodenmanagements bei Auskofferung, Separierung und Wiedereinbau,
+. des Bodenmanagements bei Auskofferung, Separierung und Wiedereinbau,
 
-.  
-der Boden- und Grundwasserbehandlung, der Entgasung oder der Bodenluftabsaugung,
+. der Boden- und Grundwasserbehandlung, der Entgasung oder der Bodenluftabsaugung,
 
-.  
-des Arbeits- und Immissionsschutzes,
+. des Arbeits- und Immissionsschutzes,
 
-.  
-der begleitenden Probennahme und Analytik und
+. der begleitenden Probennahme und Analytik und
 
 \-  
 das Untersuchungskonzept für Materialien und Bauteile bei der Ausführung von Bauwerken.
@@ -2483,8 +2398,7 @@ der Funktionskontrolle im Hinblick auf die Einhaltung der Sanierungserforderniss
 
 5. Darstellung des Zeitplans und der Kosten.
 
-
-## Anhang 4
+# Anhang 4
 
 Fundstelle: BGBl. I 1999, 1582
 
@@ -2506,6 +2420,4 @@ a) ob erhebliche Mengen Bodenmaterials aus der Erosionsfläche geschwemmt wurden
 
 b) auf welche Erosionsflächen und auf welche Verursacher die Bodenabschwemmung zurückzuführen ist.
 
-Hinweise für eine Identifikation der Erosionsfläche ergeben sich vor allem durch deutlich sichtbare Übertrittsstellen von Bodenmaterial von der Erosionsfläche zu den außerhalb der Erosionsfläche gelegenen und durch Bodenmaterial beeinträchtigten Bereichen. Weitere Hinweise ergeben sich aus dem Vorliegen deutlich sichtbarer Erosionsformen auf der Erosionsfläche. Bei der Prüfung gemäß Buchstabe a kann es erforderlich sein, die bei einem Erosionsereignis oder in Folge von Erosionsereignissen, die im Abstand von maximal wenigen Wochen nacheinander aufgetreten sind, von einer Verdachtsfläche abgeschwemmte Bodenmenge abzuschätzen. Dies kann mit Hilfe der "Kartieranleitung zur Erfassung aktueller Erosionsformen" (DVWK 1996) erfolgen.  
-Für die Abschätzung der Wiedereintrittswahrscheinlichkeit von Bodenabträgen gemäß § 8 Abs. 1 sind insbesondere gebietsspezifische statistische Auswertungen langjähriger Niederschlagsaufzeichnungen des Deutschen Wetterdienstes heranzuziehen. Hierzu können auch Erosionsprognosemodelle als Hilfsmittel genutzt werden, soweit sie nachweislich geeignet sind, die aus den Erosionsflächen abgeschwemmten Bodenmengen bei konkret eingetretenen Erosionsereignissen mit hinreichender Genauigkeit abzuschätzen.  
-Die Bedingungen für die Erwartung weiterer Bodenabträge gemäß § 8 Abs. 1 Nr. 2 sind in der Regel erfüllt, wenn innerhalb der letzten zehn Jahre mindestens in einem weiteren Fall erhebliche Mengen Bodenmaterials aus derselben Erosionsfläche geschwemmt wurden.
+Hinweise für eine Identifikation der Erosionsfläche ergeben sich vor allem durch deutlich sichtbare Übertrittsstellen von Bodenmaterial von der Erosionsfläche zu den außerhalb der Erosionsfläche gelegenen und durch Bodenmaterial beeinträchtigten Bereichen. Weitere Hinweise ergeben sich aus dem Vorliegen deutlich sichtbarer Erosionsformen auf der Erosionsfläche. Bei der Prüfung gemäß Buchstabe a kann es erforderlich sein, die bei einem Erosionsereignis oder in Folge von Erosionsereignissen, die im Abstand von maximal wenigen Wochen nacheinander aufgetreten sind, von einer Verdachtsfläche abgeschwemmte Bodenmenge abzuschätzen. Dies kann mit Hilfe der "Kartieranleitung zur Erfassung aktueller Erosionsformen" (DVWK 1996) erfolgen. Für die Abschätzung der Wiedereintrittswahrscheinlichkeit von Bodenabträgen gemäß § 8 Abs. 1 sind insbesondere gebietsspezifische statistische Auswertungen langjähriger Niederschlagsaufzeichnungen des Deutschen Wetterdienstes heranzuziehen. Hierzu können auch Erosionsprognosemodelle als Hilfsmittel genutzt werden, soweit sie nachweislich geeignet sind, die aus den Erosionsflächen abgeschwemmten Bodenmengen bei konkret eingetretenen Erosionsereignissen mit hinreichender Genauigkeit abzuschätzen. Die Bedingungen für die Erwartung weiterer Bodenabträge gemäß § 8 Abs. 1 Nr. 2 sind in der Regel erfüllt, wenn innerhalb der letzten zehn Jahre mindestens in einem weiteren Fall erhebliche Mengen Bodenmaterials aus derselben Erosionsfläche geschwemmt wurden.

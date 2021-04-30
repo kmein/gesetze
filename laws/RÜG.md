@@ -1,15 +1,11 @@
-# [RÜG] Gesetz zur Herstellung der Rechtseinheit in der gesetzlichen Renten- und Unfallversicherung  (Renten-Überleitungsgesetz - RÜG)
-
-Ausfertigungsdatum: 25.07.1991
-
+% Gesetz zur Herstellung der Rechtseinheit in der gesetzlichen Renten- und Unfallversicherung  (Renten-Überleitungsgesetz - RÜG)
+% Ausfertigungsdatum: 25.07.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 Erstes Kapitel
 
@@ -331,8 +327,7 @@ Beginn, Änderung und Ende von Renten
 
 Beginn, Änderung und Ende von Renten
 
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Anspruch auf Rente nach den Vorschriften dieses Artikels haben Personen,
 
@@ -348,8 +343,7 @@ solange sie ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschl
 
 (3) Die Vorschriften des Ersten und Zehnten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
-
-## § 2 – Rentenarten
+# § 2 – Rentenarten
 
 (1) Renten werden geleistet wegen Alters, wegen verminderter Erwerbsfähigkeit oder wegen Todes.
 
@@ -383,13 +377,11 @@ solange sie ihren gewöhnlichen Aufenthalt im Gebiet der Bundesrepublik Deutschl
 
 5. Waisenrente und Zusatzwaisenrente.
 
-
-## § 3 – Voraussetzungen für einen Rentenanspruch
+# § 3 – Voraussetzungen für einen Rentenanspruch
 
 Personen haben Anspruch auf Rente, wenn die für die jeweilige Rente erforderliche Mindestversicherungszeit (Wartezeit) erfüllt ist und die jeweiligen besonderen versicherungsrechtlichen und persönlichen Voraussetzungen vorliegen.
 
-
-## § 4 – Altersrente
+# § 4 – Altersrente
 
 (1) Versicherte haben Anspruch auf Altersrente, wenn sie
 
@@ -407,8 +399,7 @@ haben. Die Regelaltersgrenze liegt für Frauen bei Vollendung des 60., für Män
 
 haben.
 
-
-## § 5 – Bergmannsaltersrente
+# § 5 – Bergmannsaltersrente
 
 (1) Versicherte haben Anspruch auf Bergmannsaltersrente, wenn sie
 
@@ -430,8 +421,7 @@ Der Anspruch entsteht für das sechste und jedes weitere Jahr der bergmännische
 
 (4) Versicherte haben neben dem Anspruch auf Bergmannsaltersrente Anspruch auf Zusatzaltersrente, wenn sie rentenrechtliche Zeiten zur FZR haben.
 
-
-## § 6 – Bergmannsvollrente
+# § 6 – Bergmannsvollrente
 
 (1) Versicherte haben Anspruch auf Bergmannsvollrente, wenn sie
 
@@ -443,8 +433,7 @@ Der Anspruch entsteht für das sechste und jedes weitere Jahr der bergmännische
 
 (2) Für Versicherte, die mindestens zehn Jahre Untertagetätigkeit ausgeübt haben und diese Tätigkeit aus den in § 17 Abs. 3 Nr. 4 Buchstabe b genannten Gründen aufgeben mußten, entsteht der Anspruch auf Bergmannsvollrente um die Anzahl der Monate später, die an einer 15jährigen Untertagetätigkeit fehlen.
 
-
-## § 7 – Invalidenrente
+# § 7 – Invalidenrente
 
 (1) Versicherte haben Anspruch auf Invalidenrente, wenn sie
 
@@ -522,8 +511,7 @@ Bei selbständig Tätigen ist zum Vergleich das Arbeitsentgelt eines gleichartig
 
 Für Versicherte, die während des Bezugs von Blindengeld und Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch auf Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus einer versicherungspflichtigen Tätigkeit.
 
-
-## § 8 – Bergmannsinvalidenrente
+# § 8 – Bergmannsinvalidenrente
 
 (1) Versicherte haben Anspruch auf Bergmannsinvalidenrente, wenn sie
 
@@ -533,8 +521,7 @@ Für Versicherte, die während des Bezugs von Blindengeld und Sonderpflegegeld d
 
 (2) Versicherte haben neben dem Anspruch auf Bergmannsinvalidenrente Anspruch auf Zusatzinvalidenrente, wenn sie rentenrechtliche Zeiten zur FZR haben. Für Versicherte, die während des Bezugs von Blindengeld und Sonderpflegegeld der FZR beigetreten sind, besteht der Anspruch auf Zusatzinvalidenrente erst nach dem endgültigen Ausscheiden aus einer versicherungspflichtigen Tätigkeit.
 
-
-## § 9 – Bergmannsrente
+# § 9 – Bergmannsrente
 
 Versicherte haben Anspruch auf Bergmannsrente, wenn sie
 
@@ -542,8 +529,7 @@ Versicherte haben Anspruch auf Bergmannsrente, wenn sie
 
 2. ihre bisherige bergmännische Tätigkeit oder eine andere im wesentlichen gleichartige und wirtschaftlich gleichwertige Tätigkeit in Bergwerksbetrieben infolge einer Krankheit oder eines Unfalls nicht mehr ausüben können.
 
-
-## § 10 – Invalidenrente für Behinderte
+# § 10 – Invalidenrente für Behinderte
 
 Anspruch auf Invalidenrente für Behinderte haben Personen, die
 
@@ -553,8 +539,7 @@ Anspruch auf Invalidenrente für Behinderte haben Personen, die
 
 wenn berufsfördernde Leistungen zur Rehabilitation ständig oder vorübergehend nicht möglich sind oder angebotene berufsfördernde Leistungen zur Rehabilitation genutzt werden und das dabei erzielte Einkommen 205 Euro nicht übersteigt.
 
-
-## § 11 – Witwenrente und Witwerrente
+# § 11 – Witwenrente und Witwerrente
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach dem Tod des versicherten Ehegatten Anspruch auf eine Witwenrente oder Witwerrente, wenn
 
@@ -608,8 +593,7 @@ vor dem Tode oder vor Bezug einer Rente oder Versorgung, frühestens Zeiten ab 1
 
 (3) Witwen oder Witwer haben Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente, wenn sie die persönlichen Voraussetzungen für den Anspruch auf eine Witwenrente oder Witwerrente erfüllen und der Verstorbene rentenrechtliche Zeiten zur FZR hat.
 
-
-## § 12 – Bergmannswitwenrente und Bergmannswitwerrente
+# § 12 – Bergmannswitwenrente und Bergmannswitwerrente
 
 (1) Witwen oder Witwer, die nicht wieder geheiratet haben, haben nach dem Tode des Versicherten Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente, wenn
 
@@ -629,15 +613,13 @@ bergmännisch tätig war und die Voraussetzungen für den Bezug einer Bergmannsa
 
 (3) Neben dem Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente besteht Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente, wenn der Verstorbene rentenrechtliche Zeiten zur FZR hatte. Anspruch auf Zusatzwitwenrente oder Zusatzwitwerrente besteht auch, wenn der Anspruch auf Bergmannswitwenrente oder Bergmannswitwerrente allein deshalb nicht besteht, weil der Verstorbene die finanziellen Aufwendungen für die Familie nicht überwiegend erbracht hatte.
 
-
-## § 13 – Übergangshinterbliebenenrente
+# § 13 – Übergangshinterbliebenenrente
 
 (1) Witwen oder Witwer haben Anspruch auf Übergangshinterbliebenenrente, wenn ein Anspruch auf Witwenrente oder Witwerrente, Bergmannswitwenrente oder Bergmannswitwerrente allein deshalb nicht besteht, weil die Hinterbliebene die persönlichen Voraussetzungen für den Bezug einer solchen Rente nicht erfüllt. Der Anspruch besteht für die Dauer von zwei Jahren nach dem Tode des Ehegatten, längstens bis zum Erreichen der Regelaltersgrenze oder einer für die Witwe oder den Witwer maßgebenden früheren Altersgrenze, es sei denn, die Witwe oder der Witwer erreichen innerhalb von drei Jahren die genannten Altersgrenzen.
 
 (2) Neben dem Anspruch auf Übergangshinterbliebenenrente besteht Anspruch auf Zusatzübergangshinterbliebenenrente, wenn der Verstorbene rentenrechtliche Zeiten zur FZR hatte.
 
-
-## § 14 – Unterhaltsrente
+# § 14 – Unterhaltsrente
 
 Anspruch auf Unterhaltsrente haben Personen bei Tod des zur Unterhaltszahlung verurteilten geschiedenen Ehegatten für die Dauer der gerichtlich festgelegten Unterhaltszahlung, wenn
 
@@ -653,8 +635,7 @@ und
 
 2. der Verstorbene zum Zeitpunkt seines Todes die Voraussetzungen für den Bezug einer Rente erfüllt hatte.
 
-
-## § 15 – Waisenrente
+# § 15 – Waisenrente
 
 (1) Kinder haben nach dem Tode eines Elternteils Anspruch auf Halbwaisenrente, wenn
 
@@ -686,8 +667,7 @@ soweit nicht für die Dauer des Studiums Anspruch auf Besoldung besteht.
 
 (4) Neben dem Anspruch auf Waisenrente besteht Anspruch auf Zusatzwaisenrente, wenn der verstorbene Elternteil rentenrechtliche Zeiten zur FZR hatte. Anspruch auf Zusatzwaisenrente besteht auch, wenn der Anspruch auf Waisenrente allein deshalb nicht besteht, weil der verstorbene Elternteil zum Zeitpunkt seines Todes die Voraussetzungen für den Bezug einer Rente aus der Sozialpflichtversicherung nicht erfüllt hatte.
 
-
-## § 16 – Wartezeiten
+# § 16 – Wartezeiten
 
 (1) Die Erfüllung der allgemeinen Wartezeit von 15 Jahren ist Voraussetzung für einen Anspruch auf
 
@@ -705,8 +685,7 @@ soweit nicht für die Dauer des Studiums Anspruch auf Besoldung besteht.
 
 2. von fünf Jahren ist Voraussetzung für einen Anspruch auf Bergmannsrente.
 
-
-## § 17 – Anrechenbare Zeiten
+# § 17 – Anrechenbare Zeiten
 
 (1) Auf die allgemeine Wartezeit werden Kalendermonate mit Zeiten einer versicherungspflichtigen Tätigkeit und Zeiten der freiwilligen Rentenversicherung angerechnet.
 
@@ -740,8 +719,7 @@ infolge der Übernahme einer Wahl- oder Berufungsfunktion aufgegeben werden muß
 
 Auf die Wartezeit einer bergbaulichen Versicherung von fünf Jahren werden die Zeiten nach Nummer 1 und 2 angerechnet.
 
-
-## § 18 – Begriffsbestimmungen
+# § 18 – Begriffsbestimmungen
 
 Rentenrechtliche Zeiten sind
 
@@ -763,8 +741,7 @@ a) Beitragszeiten zur FZR und
 
 b) Zurechnungszeiten zur FZR.
 
-
-## § 19 – Zeiten einer versicherungspflichtigen Tätigkeit
+# § 19 – Zeiten einer versicherungspflichtigen Tätigkeit
 
 (1) Zeiten einer versicherungspflichtigen Tätigkeit sind Zeiten, in denen nach den im Beitrittsgebiet geltenden Rechtsvorschriften Versicherungspflicht zur Sozialpflichtversicherung oder zur gesetzlichen Rentenversicherung bestand, für die Beiträge nicht erstattet worden sind.
 
@@ -847,8 +824,7 @@ sofern die Voraussetzungen für den Bezug von Pflegegeld der Stufen III oder IV,
 
 (4) Als Zeiten einer versicherungspflichtigen Tätigkeit gelten auch Zeiten der freiwilligen Rentenversicherung nach den Bestimmungen des § 21 des Gesetzes über die Sozialversicherung vom 28. Juni 1990 (GBl. I Nr. 38 S. 486).
 
-
-## § 20 – Zurechnungszeiten
+# § 20 – Zurechnungszeiten
 
 (1) Bei der Berechnung von Renten aus der Sozialpflichtversicherung werden als Zurechnungszeiten angerechnet
 
@@ -880,8 +856,7 @@ b) drei Jahre für jedes Kind, wenn sie drei und mehr Kinder geboren oder Kinder
 
 (2) Zurechnungszeiten werden zusätzlich zu Zeiten einer versicherungspflichtigen Tätigkeit in dem Umfang angerechnet, daß insgesamt 50 Jahre nicht überschritten werden. Die Begrenzung nach Satz 1 gilt nicht für die in Absatz 1 Nr. 3 Buchstabe b genannte Zurechnungszeit.
 
-
-## § 21 – Zeiten der freiwilligen Rentenversicherung
+# § 21 – Zeiten der freiwilligen Rentenversicherung
 
 (1) Zeiten der freiwilligen Rentenversicherung sind Zeiten, in denen freiwillige Beiträge zur
 
@@ -893,8 +868,7 @@ gezahlt worden sind.
 
 (2) Als Zeiten der freiwilligen Rentenversicherung gelten auch Zeiten einer gleichartigen freiwilligen Versicherung außerhalb des Beitrittsgebiets.
 
-
-## § 22 – Zuordnung von Zeiten zur bergbaulichen Versicherung
+# § 22 – Zuordnung von Zeiten zur bergbaulichen Versicherung
 
 Den Zeiten der bergbaulichen Versicherung werden Dienstzeiten
 
@@ -904,8 +878,7 @@ Den Zeiten der bergbaulichen Versicherung werden Dienstzeiten
 
 zugeordnet, wenn unmittelbar vor oder nach diesen Dienstzeiten eine bergbauliche Versicherung bestanden hat. Zeiten des militärischen oder militärähnlichen Dienstes und der sich anschließenden Kriegsgefangenschaft gelten als Zeiten einer bergbaulichen Versicherung, wenn unmittelbar vorher eine bergbauliche Versicherung bestanden hat.
 
-
-## § 23 – Bergmännische Tätigkeiten
+# § 23 – Bergmännische Tätigkeiten
 
 (1) Bergmännische Tätigkeiten sind Zeiten einer versicherungspflichtigen Tätigkeit, in denen Versicherte
 
@@ -941,8 +914,7 @@ ausgeübt haben.
 
 wenn sie sich unmittelbar an solche Zeiten anschließen.
 
-
-## § 24 – Beitragszeiten zur FZR
+# § 24 – Beitragszeiten zur FZR
 
 (1) Beitragszeiten zur FZR sind Zeiten, in denen neben einer bestehenden Pflichtversicherung Beiträge für ein Einkommen über 600 Mark monatlich zur FZR entrichtet worden sind.
 
@@ -972,8 +944,7 @@ soweit die Zugehörigkeit zur FZR nicht durch Austritt beendet worden ist.
 
 (5) Beitragszeiten zur FZR sind auch Dienstzeiten von dem Zeitpunkt an, von dem an erstmals Beiträge über 60 Mark monatlich zu den Versorgungsordnungen nach Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes gezahlt worden sind, wenn danach der Beitritt zur FZR erfolgt ist.
 
-
-## § 25 – Zurechnungszeiten zur FZR
+# § 25 – Zurechnungszeiten zur FZR
 
 Bei der Berechnung von Zusatzrenten aus der FZR werden als Zurechnungszeiten angerechnet
 
@@ -981,8 +952,7 @@ Bei der Berechnung von Zusatzrenten aus der FZR werden als Zurechnungszeiten ang
 
 2. Zeiten des früheren Bezugs einer Zusatzinvalidenrente.
 
-
-## § 26 – Ermittlung von rentenrechtlichen Zeiten
+# § 26 – Ermittlung von rentenrechtlichen Zeiten
 
 (1) Bei der Ermittlung
 
@@ -1006,15 +976,13 @@ zählen je zwölf Kalendermonate als ein Jahr, ein verbleibender Rest von mehr a
 
 (3) Machen Versicherte glaubhaft, daß sie im Beitrittsgebiet in der Zeit vom 9. Mai 1945 bis 31. Dezember 1991 ein beitragspflichtiges Einkommen erzielt haben und von diesem entsprechende Beiträge zur FZR oder zur gesetzlichen Rentenversicherung gezahlt worden sind, sind die dem Einkommen zugrunde liegenden Zeiträume als Zeiten einer versicherungspflichtigen Tätigkeit oder Beitragszeiten zur FZR anzuerkennen. Satz 1 ist für die Anerkennung von Zeiten der freiwilligen Rentenversicherung entsprechend anzuwenden. Als Mittel der Glaubhaftmachung können auch Versicherungen an Eides Statt zugelassen werden. Der Träger der Rentenversicherung ist für die Abnahme eidesstattlicher Versicherungen zuständig.
 
-
-## § 27 – Grundsatz
+# § 27 – Grundsatz
 
 (1) Die Höhe einer Rente richtet sich vor allem nach dem durch Beiträge versicherten Arbeitsentgelt und Arbeitseinkommen und den Jahren mit rentenrechtlichen Zeiten.
 
 (2) Liegt eine nach dem durch Beiträge versicherten Arbeitsentgelt und Arbeitseinkommen errechnete Rente unter der Mindestrente oder einem Mindestbetrag, wird an Stelle der errechneten Rente die jeweilige Mindestrente oder der jeweilige Mindestbetrag geleistet.
 
-
-## § 28 – Rentenformel für Monatsbetrag der Renten
+# § 28 – Rentenformel für Monatsbetrag der Renten
 
 (1) Der Monatsbetrag einer Rente wegen Alters, der Invalidenrente und der Bergmannsinvalidenrente ergibt sich aus der Summe von
 
@@ -1038,8 +1006,7 @@ zählen je zwölf Kalendermonate als ein Jahr, ein verbleibender Rest von mehr a
 
 der Rente des Verstorbenen, auf die dieser Anspruch hatte oder bei Invalidität gehabt hätte. Bei einer Vollwaisenrente ist die Rente des Verstorbenen mit der höchsten Rente maßgebend. Die Übergangshinterbliebenenrente beträgt 270 Deutsche Mark. Die Unterhaltsrente wird in Höhe des gerichtlich festgelegten Unterhaltsbetrags, höchstens in Höhe von 330 Deutsche Mark gezahlt; eine Rente der Unfallversicherung ist darauf anzurechnen.
 
-
-## § 29 – Festbetrag
+# § 29 – Festbetrag
 
 Der Festbetrag beträgt bei  
 
@@ -1051,8 +1018,7 @@ Der Festbetrag beträgt bei
 | 4\. | 35 bis weniger als 40 Arbeitsjahren | 200 Deutsche Mark und |
 | 5\. | 40 und mehr Arbeitsjahren           | 210 Deutsche Mark.    |
 
-
-## § 30 – Steigerungsbetrag
+# § 30 – Steigerungsbetrag
 
 Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
 
@@ -1062,8 +1028,7 @@ Der Steigerungsbetrag ergibt sich aus der Vervielfältigung von
 
 3. Steigerungssatz.
 
-
-## § 31 – Beitragspflichtiges Durchschnittseinkommen
+# § 31 – Beitragspflichtiges Durchschnittseinkommen
 
 (1) Das beitragspflichtige Durchschnittseinkommen wird ermittelt, indem das beitragspflichtige Einkommen der letzten 20 Jahre vor Ende der letzten versicherungspflichtigen Tätigkeit bis spätestens zum 31. Dezember 1991 (Berechnungszeitraum) durch die Zahl der Monate, in denen in diesem Zeitraum Beiträge gezahlt worden sind (Beitragsmonate), geteilt wird. Ist für ein Kalenderjahr, das nur teilweise zu berücksichtigen ist, das beitragspflichtige Einkommen als Gesamtbetrag ausgewiesen, ergibt sich der Teilbetrag, indem der Gesamtbetrag mit der Anzahl der Beitragsmonate des Teilzeitraums vervielfältigt und durch die Anzahl der Beitragsmonate, für den der Gesamtbetrag ausgewiesen ist, geteilt wird.
 
@@ -1117,8 +1082,7 @@ insgesamt unberücksichtigt, wenn es für den Versicherten günstiger ist.
 
 (5) Für Zeiten der Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem im Sinne des Anspruchs- und Anwartschaftsüberführungsgesetzes wird bei der Ermittlung des beitragspflichtigen Durchschnittseinkommens nach den Absätzen 1 bis 4 der nach dem Anspruchs- und Anwartschaftsüberführungsgesetz ermittelte Verdienst zugrunde gelegt; für Zeiten bis zum 30. Juni 1990 wird höchstens das beitragspflichtige Einkommen bis 600 Mark monatlich berücksichtigt.
 
-
-## § 32 – Steigerungssatz
+# § 32 – Steigerungssatz
 
 (1) Der Steigerungssatz für jedes Arbeitsjahr beträgt bei
 
@@ -1140,8 +1104,7 @@ eins vom Hundert.
 
 zwei vom Hundert.
 
-
-## § 33 – Zuschlag für Untertagetätigkeiten
+# § 33 – Zuschlag für Untertagetätigkeiten
 
 Bergleute, die mehr als zehn Jahre Untertagetätigkeiten ausgeübt haben, erhalten für jedes Jahr mit solchen Tätigkeiten  
 
@@ -1154,8 +1117,7 @@ Bergleute, die mehr als zehn Jahre Untertagetätigkeiten ausgeübt haben, erhalt
   
 als Zuschlag zu ihrer Rente. Dies gilt nicht für Zeiten des Bezugs einer solchen Rente.
 
-
-## § 34 – Mindestrenten und Mindestbeträge
+# § 34 – Mindestrenten und Mindestbeträge
 
 (1) Altersrente und Invalidenrente werden in Höhe der Mindestrente geleistet, wenn der Anspruch auf Altersrente und Invalidenrente
 
@@ -1213,8 +1175,7 @@ bei Anspruch auf Vollwaisenrente
 
 geleistet.
 
-
-## § 35 – Besonderer Steigerungssatz
+# § 35 – Besonderer Steigerungssatz
 
 Der Steigerungssatz beträgt für jedes Jahr der Beschäftigung
 
@@ -1228,8 +1189,7 @@ Der Steigerungssatz beträgt für jedes Jahr der Beschäftigung
 
 1,5 vom Hundert, wenn die Beschäftigung in dieser Einrichtung mindestens zehn Jahre oder bei Eintritt von Invalidität in den Fällen der Nummer 2 oder 3 mindestens fünf Jahre ununterbrochen ausgeübt worden ist.
 
-
-## § 36 – Zusätzlicher Steigerungsbetrag
+# § 36 – Zusätzlicher Steigerungsbetrag
 
 (1) Versicherte haben zusätzlich zur errechneten
 
@@ -1251,8 +1211,7 @@ Anspruch auf einen Steigerungsbetrag in Höhe von 0,85 vom Hundert der insgesamt
 
 Der zusätzliche Steigerungsbetrag ergibt sich, indem der Vomhundertsatz nach § 28 Abs. 4 auf den zusätzlichen Steigerungsbetrag angewandt wird. Der von einem zusätzlichen Steigerungsbetrag für Beiträge nach Absatz 1 abzuleitende Steigerungsbetrag wird zusätzlich zur errechneten Hinterbliebenenrente geleistet.
 
-
-## § 37 – Rentenformel für Monatsbetrag der Zusatzrenten
+# § 37 – Rentenformel für Monatsbetrag der Zusatzrenten
 
 (1) Der Monatsbetrag einer Zusatzaltersrente und einer Zusatzinvalidenrente beträgt
 
@@ -1274,8 +1233,7 @@ b) Vollwaisen 40 vom Hundert
 
 der nach Absatz 1 ermittelten Zusatzrente des Verstorbenen.
 
-
-## § 38 – Durchschnittseinkommen für Zusatzrenten
+# § 38 – Durchschnittseinkommen für Zusatzrenten
 
 (1) Das durch Beiträge zur FZR versicherte Durchschnittseinkommen wird ermittelt, indem das Gesamteinkommen, für das Beiträge zur FZR gezahlt worden sind (Beiträge zur FZR), durch die Anzahl der Kalendermonate mit Beitragszeiten zur FZR geteilt wird.
 
@@ -1319,8 +1277,7 @@ insgesamt unberücksichtigt, wenn es für den Versicherten günstiger ist.
 
 (6) § 31 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 39 – Erhöhung auf den Stand 31. Dezember 1991
+# § 39 – Erhöhung auf den Stand 31. Dezember 1991
 
 (1) Nach den Vorschriften des Ersten bis Dritten Abschnitts ermittelte Renten wegen Alters, Invalidenrenten, Bergmannsinvalidenrenten, Invalidenrenten für Behinderte und Zusatzinvalidenrenten werden auf den Stand 31. Dezember 1991 erhöht, indem sie
 
@@ -1340,8 +1297,7 @@ werden.
 
 (3) Zu den nach Absatz 1 oder 2 ermittelten Renten werden um 6,84 vom Hundert erhöhte Zusatzrenten nach der Verordnung über die freiwillige Versicherung auf Zusatzrente bei der Sozialversicherung vom 15. März 1968 (GBl. II Nr. 29 S. 154) geleistet.
 
-
-## § 40 – Berechnung von Geldleistungen
+# § 40 – Berechnung von Geldleistungen
 
 Bei der Berechnung des
 
@@ -1357,8 +1313,7 @@ Bei der Berechnung des
 
 ist auf volle Deutsche Mark aufzurunden.
 
-
-## § 41 – Mehrere Rentenansprüche
+# § 41 – Mehrere Rentenansprüche
 
 (1) Besteht für denselben Zeitraum Anspruch auf mehrere Renten gleicher Art, wird nur die höhere Rente gezahlt. Renten gleicher Art sind:
 
@@ -1400,13 +1355,11 @@ in voller Höhe zu zahlen. Der Mindestbetrag der als zweite Leistung gezahlten R
 
 (4) Besteht neben dem Anspruch auf Rente nach den Vorschriften dieses Artikels Anspruch auf eine Rente, die von einem ausländischen Versicherungsträger geleistet wird, wird diese auf Rentenbeträge, die zusätzlich zu einer errechneten Rente geleistet werden, angerechnet.
 
-
-## § 42 – Mehrere Renten wegen Todes
+# § 42 – Mehrere Renten wegen Todes
 
 Besteht aus der Versicherung eines Verstorbenen für mehrere Hinterbliebene Anspruch auf mehrere Renten wegen Todes, wird die Gesamthöhe der Renten auf die Rente des Verstorbenen einschließlich Zuschlag für Untertagetätigkeiten begrenzt. Die Renten wegen Todes werden proportional gekürzt, mindestens jedoch in Höhe der mit dem Faktor 1,4130 vervielfältigten Mindestrente geleistet.
 
-
-## § 43 – Rente und Leistungen aus der Unfallversicherung
+# § 43 – Rente und Leistungen aus der Unfallversicherung
 
 (1) Besteht für denselben Zeitraum Anspruch auf eine Rente und eine Rente aus der Unfallversicherung gleicher Art, wird die Rente nur geleistet, wenn sie höher ist als die Rente aus der Unfallversicherung. Auf die Rente wird die für den gleichen Zeitraum zu leistende Rente aus der Unfallversicherung angerechnet. Renten gleicher Art sind:
 
@@ -1434,8 +1387,7 @@ b) Bergmannswaisenrente.
 
 (2) Besteht für denselben Zeitraum Anspruch auf mehrere nicht gleichartige Renten und ist eine der Renten eine Rente aus der Unfallversicherung, werden 50 vom Hundert der Rente aus der Unfallversicherung auf die höchste Rente angerechnet, wenn dieser höher als die Rente aus der Unfallversicherung ist. Ist sie die niedrigere Rente, wird sie in Höhe von 50 vom Hundert geleistet. Die übrigen Renten werden nicht geleistet. Die Bestimmungen des § 41 Abs. 2 Satz 2 sind entsprechend anzuwenden.
 
-
-## § 44 – Beginn, Änderung und Ende von Renten
+# § 44 – Beginn, Änderung und Ende von Renten
 
 (1) Die Vorschriften über Beginn, Änderung und Ende von Renten des Sechsten Buches Sozialgesetzbuch sind entsprechend anzuwenden.
 
@@ -1449,13 +1401,11 @@ b) Bergmannswaisenrente.
 
 wenn im übrigen die Voraussetzungen des § 11 Abs. 1 Nr. 1 erfüllt sind.
 
-
-## § 45
+# § 45
 
 \-
 
-
-## Anlage – (zu § 39)  Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
+# Anlage – (zu § 39)  Tabelle zur Erhöhung auf den Stand 31. Dezember 1991
 
 (Fundstelle: BGBl. I 1991, 1675)
 

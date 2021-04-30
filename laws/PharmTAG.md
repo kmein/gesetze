@@ -1,17 +1,13 @@
-# [PharmTAG] Gesetz über den Beruf des pharmazeutisch-technischen Assistenten
-
-Ausfertigungsdatum: 18.03.1968
-
+% Gesetz über den Beruf des pharmazeutisch-technischen Assistenten
+% Ausfertigungsdatum: 18.03.1968
  
-
-## § 1
+# § 1
 
 (1) Wer eine Tätigkeit unter der Berufsbezeichnung "pharmazeutisch-technischer Assistent" oder "pharmazeutisch-technische Assistentin" ausüben will, bedarf der Erlaubnis.
 
 (2) Pharmazeutisch-technische Assistenten, die Staatsangehörige eines der übrigen Mitgliedstaaten der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder von einem Vertragsstaat, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, sind, führen die Berufsbezeichnung nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung ergibt.
 
-
-## § 2
+# § 2
 
 (1) Die Erlaubnis wird erteilt, wenn der Antragsteller
 
@@ -55,8 +51,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (7) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a
+# § 2a
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des pharmazeutisch-technischen Assistenten ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte der zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des pharmazeutisch-technischen Assistenten auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind. Die Länder können zur Wahrnehmung der Aufgaben nach den Sätzen 1 bis 3 gemeinsame Stellen bestimmen.
 
@@ -64,8 +59,7 @@ Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich wesentlich, 
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Abs. 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 2b
+# § 2b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -97,8 +91,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 3
+# § 3
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 2 Abs. 1 Nr. 2 und 3 nicht vorgelegen hat, die staatliche Prüfung nach § 2 Abs. 1 Nr. 4 nicht bestanden oder die Ausbildung nach § 2 Abs. 2 nicht abgeschlossen war.
 
@@ -106,13 +99,11 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (3) Die Erlaubnis kann widerrufen werden, wenn nachträglich eine der Voraussetzungen nach § 2 Abs. 1 Nr. 3 weggefallen ist.
 
-
-## § 4
+# § 4
 
 (weggefallen)
 
-
-## § 5
+# § 5
 
 (1) Der Lehrgang wird an einer Lehranstalt durchgeführt, die als zur Ausbildung geeignet staatlich anerkannt ist.
 
@@ -120,13 +111,11 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (3) Der Lehrgang umfaßt eine theoretische und praktische Ausbildung.
 
-
-## § 6
+# § 6
 
 Die praktische Ausbildung wird in Apotheken, ausgenommen Zweigapotheken, abgeleistet. Der Apothekenleiter hat für eine ordnungsgemäße praktische Ausbildung des Anwärters zu sorgen. Die Zahl der in der Apotheke auszubildenden Anwärter soll in einem angemessenen Verhältnis zum Umfang des Apothekenbetriebs, insbesondere zur Zahl der in der Apotheke tätigen Apotheker stehen.
 
-
-## § 7
+# § 7
 
 (1) Das Bundesministerium für Gesundheit regelt im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung für pharmazeutisch-technische Assistenten die Mindestanforderungen an den Lehrgang, das Nähere über die praktische Ausbildung in der Apotheke und über die staatliche Prüfung. Es kann in dieser Rechtsverordnung auch das Nähere über ein Praktikum außerhalb der schulischen Ausbildung, die Anrechnung gleichwertiger Ausbildungszeiten und Prüfungen sowie die Anrechnung von Unterbrechungen auf die Dauer des Lehrgangs regeln.
 
@@ -146,8 +135,7 @@ Die praktische Ausbildung wird in Apotheken, ausgenommen Zweigapotheken, abgelei
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 7a
+# § 7a
 
 (1) Staatsangehörige eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die zur Ausübung des Berufs des pharmazeutisch-technischen Assistenten in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Abs. 3 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -171,13 +159,11 @@ die Bescheinigungen dürfen bei ihrer Vorlage nicht älter als zwölf Monate sei
 
 (3) Ein Dienstleistungserbringer hat beim Erbringen der Dienstleistung die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats des Dienstleistungserbringers hierüber zu unterrichten. Im Fall von berechtigten Zweifeln sind die zuständigen Behörden berechtigt, für jede Dienstleistungserbringung von den zuständigen Behörden des Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Die Informationen sind nach Artikel 56 der Richtlinie 2005/36/EG zu übermitteln. Auf Anforderung der zuständigen Behörden eines anderen Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, oder eines Vertragsstaates, dem Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, haben die zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung und die gute Führung des Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
 
-
-## § 8
+# § 8
 
 Der pharmazeutisch-technische Assistent ist befugt, in der Apotheke unter der Aufsicht eines Apothekers pharmazeutische Tätigkeiten auszuüben. Das Nähere bestimmt die Apothekenbetriebsordnung. Zur Vertretung in der Leitung einer Apotheke ist der pharmazeutisch-technische Assistent nicht befugt.
 
-
-## § 9
+# § 9
 
 (1) Die Entscheidung nach § 2 Abs. 1 trifft die zuständige Behörde des Landes, in dem der Antragsteller die staatliche Prüfung für pharmazeutisch-technische Assistenten abgelegt hat.
 
@@ -185,19 +171,16 @@ Der pharmazeutisch-technische Assistent ist befugt, in der Apotheke unter der Au
 
 (2) Die Landesregierungen bestimmen die zur Durchführung dieses Gesetzes zuständigen Behörden.
 
-
-## § 10
+# § 10
 
 (1) Ordnungswidrig handelt, wer die Berufsbezeichnung "pharmazeutisch-technischer Assistent" oder "pharmazeutisch-technische Assistentin" führt, ohne die Erlaubnis nach § 1 zu besitzen.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 
-
-## §§ 11 und 12 – (weggefallen)
+# §§ 11 und 12 – (weggefallen)
 
 \-
 
-
-## § 13
+# § 13
 
 (Inkrafttreten)

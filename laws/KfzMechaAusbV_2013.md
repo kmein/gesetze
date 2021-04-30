@@ -1,15 +1,11 @@
-# [KfzMechaAusbV 2013] Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin
-
-Ausfertigungsdatum: 14.06.2013
-
+% Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin
+% Ausfertigungsdatum: 14.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Kraftfahrzeugmechatronikers und der Kraftfahrzeugmechatronikerin wird staatlich anerkannt
 
@@ -17,13 +13,11 @@ Der Ausbildungsberuf des Kraftfahrzeugmechatronikers und der Kraftfahrzeugmechat
 
 2. nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 20, Kraftfahrzeugtechniker, der Anlage A der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildungsinhalte in einem der Schwerpunkte
 
@@ -37,8 +31,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 5. Karosserietechnik.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Berufsausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -82,8 +75,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 7. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 8 nachzuweisen.
 
@@ -91,13 +83,11 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschluss- oder Gesellenprüfung
+# § 6 – Abschluss- oder Gesellenprüfung
 
 Die Abschluss- oder Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschluss- oder Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschluss- oder Gesellenprüfung waren, in Teil 2 der Abschluss- oder Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-
-## § 7 – Teil 1 der Abschluss- oder Gesellenprüfung
+# § 7 – Teil 1 der Abschluss- oder Gesellenprüfung
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -135,8 +125,7 @@ Messungen und Prüfungen durchführen, dabei Fehler, Störungen und deren Ursach
 
 5. die Prüfungszeit für die Arbeitsaufgabe und das situative Fachgespräch beträgt drei Stunden; innerhalb dieser Zeit soll das situative Fachgespräch höchstens zehn Minuten dauern; die Prüfungszeit für die schriftlichen Aufgabenstellungen beträgt 120 Minuten.
 
-
-## § 8 – Teil 2 der Abschluss- oder Gesellenprüfung
+# § 8 – Teil 2 der Abschluss- oder Gesellenprüfung
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -251,8 +240,7 @@ e) die Vernetzung von Systemen des Kraftfahrzeuges zu beschreiben und zu analysi
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen
+# § 9 – Gewichtungs- und Bestehensregelungen
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -295,21 +283,18 @@ Instandhaltungstechnik</td><td style="text-align: right;">mit 10 Prozent,</td></
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Fortsetzung der Berufsausbildung
+# § 10 – Fortsetzung der Berufsausbildung
 
 Die erfolgreich abgeschlossene Ausbildung zum Kraftfahrzeugservicemechaniker und zur Kraftfahrzeugservicemechanikerin kann ab dem dritten Ausbildungsjahr im Ausbildungsberuf zum Kraftfahrzeugmechtroniker und zur Kraftfahrzeugmechtronikerin nach dieser Verordnung fortgesetzt werden.
 
 § 10 Kursivdruck: Müsste richtig lauten "Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin"
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. August 2013 in Kraft.
 
 (2) Gleichzeitig treten die Verordnung über die Berufsausbildung zum Kraftfahrzeugmechatroniker/zur Kraftfahrzeugmechatronikerin vom 20. Juli 2007 (BGBl. I S. 1501) und die Verordnung über die Berufsausbildung zum Mechaniker für Karosserieinstandhaltungstechnik und zur Mechanikerin für Karosserieinstandhaltungstechnik vom 25. Juli 2008 (BGBl. I S. 1442) außer Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Kraftfahrzeugmechatroniker und zur Kraftfahrzeugmechatronikerin
 
  

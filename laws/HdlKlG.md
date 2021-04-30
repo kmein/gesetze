@@ -1,10 +1,7 @@
-# [HdlKlG] Handelsklassengesetz
-
-Ausfertigungsdatum: 05.12.1968
-
+% Handelsklassengesetz
+% Ausfertigungsdatum: 05.12.1968
  
-
-## § 1
+# § 1
 
 (1) Zur Förderung der Erzeugung, der Qualität und des Absatzes von Erzeugnissen der Landwirtschaft und der Fischerei sowie zur Förderung der Marktübersicht bei diesen Erzeugnissen kann das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie mit Zustimmung des Bundesrates durch Rechtsverordnung gesetzliche Handelsklassen einführen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 05.12.1968
 
 (3) (weggefallen)
 
-
-## § 2
+# § 2
 
 (1) In Rechtsverordnungen nach § 1 Abs. 1 sind die Merkmale zu bestimmen, welche die Erzeugnisse mindestens aufweisen müssen, wenn diese nach gesetzlichen Handelsklassen zum Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht werden. Als Merkmale können insbesondere bestimmt werden:
 
@@ -54,18 +50,15 @@ zu beachten sind.
 
 (3) Vorschriften nach den Absätzen 1 und 2 sollen nur insoweit erlassen werden, als nicht entsprechende lebensmittelrechtliche Vorschriften oder Vorschriften des Mess- und Eichgesetzes und der auf Grund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen bestehen, die auch den Zielen des § 1 Abs. 1 gerecht werden.
 
-
-## § 3
+# § 3
 
 In Rechtsverordnungen nach § 1 kann ferner bestimmt werden, daß Erzeugnisse den nach § 2 Abs. 1 und Abs. 2 Nr. 1 vorgeschriebenen Anforderungen auch bei dem Verbringen in den Geltungsbereich oder aus dem Geltungsbereich dieses Gesetzes entsprechen müssen. Hierbei kann das Verbringen aus Gebieten, die nicht zum Zollgebiet der Gemeinschaft (Verordnung (EWG) Nr. 1496/68 des Rates vom 27. September 1968 - Amtsblatt der Europäischen Gemeinschaften Nr. L 238 S. 1 -) oder eines ihrer Mitgliedstaaten gehören, auf die erste und zweite Handelsklasse beschränkt werden, wenn dies im gesamtwirtschaftlichen Interesse erforderlich ist.
 
-
-## § 4
+# § 4
 
 Bevor Rechtsverordnungen nach § 1 erlassen werden, soll das Bundesministerium die beteiligten Wirtschaftskreise und die Verbraucher anhören. Es kann zu diesem Zweck Ausschüsse aus Vertretern der beteiligten Wirtschaftskreise und der Verbraucher bilden und Sachverständige hinzuziehen.
 
-
-## § 5
+# § 5
 
 (1) Die Überwachung der Einhaltung der nach diesem Gesetz erlassenen Rechtsverordnungen obliegt den nach Landesrecht zuständigen Behörden. Die Überwachung beim Verbringen in das Inland oder aus dem Inland kann das Bundesministerium durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
@@ -89,13 +82,11 @@ Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an öffentlichen Orte
 
 (6) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Verfahren der Überwachung beim Verbringen in den oder aus dem Geltungsbereich dieses Gesetzes zu regeln.
 
-
-## § 6
+# § 6
 
 \-
 
-
-## § 7
+# § 7
 
 (1) Ordnungswidrig handelt, wer
 
@@ -121,8 +112,7 @@ f) eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht fristgemä�
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 8
+# § 8
 
 (1) Das Bundesministerium wird ermächtigt, die auf Grund des Gesetzes über gesetzliche Handelsklassen für Erzeugnisse der Landwirtschaft und Fischerei vom 17. Dezember 1951 (Bundesgesetzbl. I S. 970), geändert durch das Gesetz zur Änderung des Gesetzes über gesetzliche Handelsklassen für Erzeugnisse der Landwirtschaft und Fischerei vom 8. Juni 1955 (Bundesgesetzbl. I S. 266), erlassenen Rechtsverordnungen im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie mit Zustimmung des Bundesrates im Rahmen der Ermächtigungen nach den §§ 1 und 2 zu ändern oder aufzuheben.
 
@@ -130,19 +120,16 @@ f) eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht fristgemä�
 
 (3) Soweit in Bußgeldvorschriften Verweisungen auf § 7 des in Absatz 1 genannten Gesetzes enthalten sind, gelten diese als Verweisungen auf § 7 Abs. 1 Nr. 3 dieses Gesetzes.
 
-
-## § 9
+# § 9
 
 (1) Die Verbote und Beschränkungen der nach diesem Gesetz erlassenen Rechtsverordnungen stehen der Abfertigung durch die Zolldienststellen nicht entgegen, soweit sich nicht aus Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union oder der zu ihrer Durchführung nach § 1 Abs. 3 erlassenen Rechtsverordnungen etwas anderes ergibt.
 
 (2) Die Zolldienststellen können Verstöße gegen diese Verbote und Beschränkungen, die sie bei der Abfertigung feststellen, den zuständigen Verwaltungsbehörden mitteilen.
 
-
-## § 10
+# § 10
 
 Die Vorschriften des Lebensmittelrechts bleiben unberührt.
 
-
-## § 11
+# § 11
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.

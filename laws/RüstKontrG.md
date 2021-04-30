@@ -1,35 +1,27 @@
-# [RüstKontrG] Gesetz zu dem Übereinkommen vom 14. Dezember 1957 über Rüstungskontrollmaßnahmen der Westeuropäischen Union
-
-Ausfertigungsdatum: 10.04.1961
-
+% Gesetz zu dem Übereinkommen vom 14. Dezember 1957 über Rüstungskontrollmaßnahmen der Westeuropäischen Union
+% Ausfertigungsdatum: 10.04.1961
  
-
-## Art 1
+# Art 1
 
 \-
 
-
-## Art 2
-
-(weggefallen)
-
-
-## Art 3
+# Art 2
 
 (weggefallen)
 
-
-## Art 4
-
-(weggefallen)
-
-
-## Art 5
+# Art 3
 
 (weggefallen)
 
+# Art 4
 
-## Art 6
+(weggefallen)
+
+# Art 5
+
+(weggefallen)
+
+# Art 6
 
 (1) Der Artikel 1 dieses Gesetzes tritt am Tage nach seiner Verkündung in Kraft.
 

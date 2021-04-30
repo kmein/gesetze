@@ -1,5 +1,3 @@
-# [WPostVtr1994VollzO] Vollzugsordnung zum Weltpostvertrag
-
-Ausfertigungsdatum: 16.02.1995
-
+% Vollzugsordnung zum Weltpostvertrag
+% Ausfertigungsdatum: 16.02.1995
  

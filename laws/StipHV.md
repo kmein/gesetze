@@ -1,10 +1,7 @@
-# [StipHV] Verordnung über die Erreichung der Höchstgrenze nach dem Stipendienprogramm-Gesetz  (Stipendienprogramm-Höchstgrenzen-Verordnung - StipHV)
-
-Ausfertigungsdatum: 29.11.2011
-
+% Verordnung über die Erreichung der Höchstgrenze nach dem Stipendienprogramm-Gesetz  (Stipendienprogramm-Höchstgrenzen-Verordnung - StipHV)
+% Ausfertigungsdatum: 29.11.2011
  
-
-## § 1 – Jährliche Höchstgrenze
+# § 1 – Jährliche Höchstgrenze
 
 Die Höchstgrenze gemäß § 11 Absatz 4 des Stipendienprogramm-Gesetzes beträgt
 
@@ -12,8 +9,7 @@ Die Höchstgrenze gemäß § 11 Absatz 4 des Stipendienprogramm-Gesetzes beträg
 
 2. ab dem 1. August 2013 1,5 Prozent der Studierenden einer Hochschule.
 
-
-## § 2 – Verfahren
+# § 2 – Verfahren
 
 (1) Das Bundesministerium für Bildung und Forschung teilt den nach Landesrecht zuständigen Landesbehörden rechtzeitig die auf jede ihrer Hochschulen entfallende Zahl der Stipendien mit, die der jährlichen Höchstgrenze nach § 1 entspricht. Auf jede Hochschule entfällt mindestens ein Stipendium.
 

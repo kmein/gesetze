@@ -1,13 +1,9 @@
-# [BGG] Gesetz zur Gleichstellung von Menschen mit Behinderungen  (Behindertengleichstellungsgesetz - BGG)
-
-Ausfertigungsdatum: 27.04.2002
-
+% Gesetz zur Gleichstellung von Menschen mit Behinderungen  (Behindertengleichstellungsgesetz - BGG)
+% Ausfertigungsdatum: 27.04.2002
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Ziel und Verantwortung der Träger öffentlicher Gewalt
+# § 1 – Ziel und Verantwortung der Träger öffentlicher Gewalt
 
 (1) Ziel dieses Gesetzes ist es, die Benachteiligung von Menschen mit Behinderungen zu beseitigen und zu verhindern sowie ihre gleichberechtigte Teilhabe am Leben in der Gesellschaft zu gewährleisten und ihnen eine selbstbestimmte Lebensführung zu ermöglichen. Dabei wird ihren besonderen Bedürfnissen Rechnung getragen.
 
@@ -25,25 +21,21 @@ Ausfertigungsdatum: 27.04.2002
 
 (4) Die Auslandsvertretungen des Bundes berücksichtigen die Ziele dieses Gesetzes im Rahmen der Wahrnehmung ihrer Aufgaben.
 
-
-## § 2 – Frauen mit Behinderungen; Benachteiligung wegen mehrerer Gründe
+# § 2 – Frauen mit Behinderungen; Benachteiligung wegen mehrerer Gründe
 
 (1) Zur Durchsetzung der Gleichberechtigung von Frauen und Männern und zur Vermeidung von Benachteiligungen von Frauen mit Behinderungen wegen mehrerer Gründe sind die besonderen Belange von Frauen mit Behinderungen zu berücksichtigen und bestehende Benachteiligungen zu beseitigen. Dabei sind besondere Maßnahmen zur Förderung der tatsächlichen Durchsetzung der Gleichberechtigung von Frauen mit Behinderungen und zur Beseitigung bestehender Benachteiligungen zulässig.
 
 (2) Unabhängig von Absatz 1 sind die besonderen Belange von Menschen mit Behinderungen, die von Benachteiligungen wegen einer Behinderung und wenigstens eines weiteren in § 1 des Allgemeinen Gleichbehandlungsgesetzes genannten Grundes betroffen sein können, zu berücksichtigen.
 
-
-## § 3 – Menschen mit Behinderungen
+# § 3 – Menschen mit Behinderungen
 
 Menschen mit Behinderungen im Sinne dieses Gesetzes sind Menschen, die langfristige körperliche, seelische, geistige oder Sinnesbeeinträchtigungen haben, welche sie in Wechselwirkung mit einstellungs- und umweltbedingten Barrieren an der gleichberechtigten Teilhabe an der Gesellschaft hindern können. Als langfristig gilt ein Zeitraum, der mit hoher Wahrscheinlichkeit länger als sechs Monate andauert.
 
-
-## § 4 – Barrierefreiheit
+# § 4 – Barrierefreiheit
 
 Barrierefrei sind bauliche und sonstige Anlagen, Verkehrsmittel, technische Gebrauchsgegenstände, Systeme der Informationsverarbeitung, akustische und visuelle Informationsquellen und Kommunikationseinrichtungen sowie andere gestaltete Lebensbereiche, wenn sie für Menschen mit Behinderungen in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind. Hierbei ist die Nutzung behinderungsbedingt notwendiger Hilfsmittel zulässig.
 
-
-## § 5 – Zielvereinbarungen
+# § 5 – Zielvereinbarungen
 
 (1) Soweit nicht besondere gesetzliche oder verordnungsrechtliche Vorschriften entgegenstehen, sollen zur Herstellung der Barrierefreiheit Zielvereinbarungen zwischen Verbänden, die nach § 15 Absatz 3 anerkannt sind, und Unternehmen oder Unternehmensverbänden der verschiedenen Wirtschaftsbranchen für ihren jeweiligen sachlichen und räumlichen Organisations- oder Tätigkeitsbereich getroffen werden. Die anerkannten Verbände können die Aufnahme von Verhandlungen über Zielvereinbarungen verlangen.
 
@@ -71,8 +63,7 @@ Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung 
 
 (5) Das Bundesministerium für Arbeit und Soziales führt ein Zielvereinbarungsregister, in das der Abschluss, die Änderung und die Aufhebung von Zielvereinbarungen nach den Absätzen 1 und 2 eingetragen werden. Der die Zielvereinbarung abschließende Verband behinderter Menschen ist verpflichtet, innerhalb eines Monats nach Abschluss einer Zielvereinbarung dem Bundesministerium für Arbeit und Soziales diese als beglaubigte Abschrift und in informationstechnisch erfassbarer Form zu übersenden sowie eine Änderung oder Aufhebung innerhalb eines Monats mitzuteilen.
 
-
-## § 6 – Gebärdensprache und Kommunikation von Menschen mit Hör- und Sprachbehinderungen
+# § 6 – Gebärdensprache und Kommunikation von Menschen mit Hör- und Sprachbehinderungen
 
 (1) Die Deutsche Gebärdensprache ist als eigenständige Sprache anerkannt.
 
@@ -80,8 +71,7 @@ Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung 
 
 (3) Menschen mit Hörbehinderungen (gehörlose, ertaubte und schwerhörige Menschen) und Menschen mit Sprachbehinderungen haben nach Maßgabe der einschlägigen Gesetze das Recht, die Deutsche Gebärdensprache, lautsprachbegleitende Gebärden oder andere geeignete Kommunikationshilfen zu verwenden.
 
-
-## § 7 – Benachteiligungsverbot für Träger öffentlicher Gewalt
+# § 7 – Benachteiligungsverbot für Träger öffentlicher Gewalt
 
 (1) Ein Träger öffentlicher Gewalt darf Menschen mit Behinderungen nicht benachteiligen. Eine Benachteiligung liegt vor, wenn Menschen mit und ohne Behinderungen ohne zwingenden Grund unterschiedlich behandelt werden und dadurch Menschen mit Behinderungen in der gleichberechtigten Teilhabe am Leben in der Gesellschaft unmittelbar oder mittelbar beeinträchtigt werden. Eine Benachteiligung liegt auch bei einer Belästigung im Sinne des § 3 Absatz 3 und 4 des Allgemeinen Gleichbehandlungsgesetzes in der jeweils geltenden Fassung vor, mit der Maßgabe, dass § 3 Absatz 4 des Allgemeinen Gleichbehandlungsgesetzes nicht auf den Anwendungsbereich des § 2 Absatz 1 Nummer 1 bis 4 des Allgemeinen Gleichbehandlungsgesetzes begrenzt ist. Bei einem Verstoß gegen eine Verpflichtung zur Herstellung von Barrierefreiheit wird das Vorliegen einer Benachteiligung widerleglich vermutet.
 
@@ -91,8 +81,7 @@ Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung 
 
 (4) Besondere Benachteiligungsverbote zu Gunsten von Menschen mit Behinderungen in anderen Rechtsvorschriften, insbesondere im Neunten Buch Sozialgesetzbuch, bleiben unberührt.
 
-
-## § 8 – Herstellung von Barrierefreiheit in den Bereichen Bau und Verkehr
+# § 8 – Herstellung von Barrierefreiheit in den Bereichen Bau und Verkehr
 
 (1) Zivile Neu-, Um- und Erweiterungsbauten im Eigentum des Bundes einschließlich der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sollen entsprechend den allgemein anerkannten Regeln der Technik barrierefrei gestaltet werden. Von diesen Anforderungen kann abgewichen werden, wenn mit einer anderen Lösung in gleichem Maße die Anforderungen an die Barrierefreiheit erfüllt werden. Die landesrechtlichen Bestimmungen, insbesondere die Bauordnungen, bleiben unberührt.
 
@@ -104,8 +93,7 @@ Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung 
 
 (5) Sonstige bauliche oder andere Anlagen, öffentliche Wege, Plätze und Straßen sowie öffentlich zugängliche Verkehrsanlagen und Beförderungsmittel im öffentlichen Personenverkehr sind nach Maßgabe der einschlägigen Rechtsvorschriften des Bundes barrierefrei zu gestalten. Weitergehende landesrechtliche Vorschriften bleiben unberührt.
 
-
-## § 9 – Recht auf Verwendung von Gebärdensprache und anderen Kommunikationshilfen
+# § 9 – Recht auf Verwendung von Gebärdensprache und anderen Kommunikationshilfen
 
 (1) Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen haben nach Maßgabe der Rechtsverordnung nach Absatz 2 das Recht, mit Trägern öffentlicher Gewalt zur Wahrnehmung eigener Rechte im Verwaltungsverfahren in Deutscher Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere geeignete Kommunikationshilfen zu kommunizieren. Auf Wunsch der Berechtigten stellen die Träger öffentlicher Gewalt die geeigneten Kommunikationshilfen im Sinne des Satzes 1 kostenfrei zur Verfügung oder tragen die hierfür notwendigen Aufwendungen.
 
@@ -119,15 +107,13 @@ Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung 
 
 4. die geeigneten Kommunikationshilfen im Sinne des Absatzes 1.
 
-
-## § 10 – Gestaltung von Bescheiden und Vordrucken
+# § 10 – Gestaltung von Bescheiden und Vordrucken
 
 (1) Träger öffentlicher Gewalt haben bei der Gestaltung von Bescheiden, Allgemeinverfügungen, öffentlich-rechtlichen Verträgen und Vordrucken eine Behinderung von Menschen zu berücksichtigen. Blinde und sehbehinderte Menschen können zur Wahrnehmung eigener Rechte im Verwaltungsverfahren nach Maßgabe der Rechtsverordnung nach Absatz 2 insbesondere verlangen, dass ihnen Bescheide, öffentlich-rechtliche Verträge und Vordrucke ohne zusätzliche Kosten auch in einer für sie wahrnehmbaren Form zugänglich gemacht werden.
 
 (2) Das Bundesministerium für Arbeit und Soziales bestimmt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, bei welchen Anlässen und in welcher Art und Weise die in Absatz 1 genannten Dokumente blinden und sehbehinderten Menschen zugänglich gemacht werden.
 
-
-## § 11 – Verständlichkeit und Leichte Sprache
+# § 11 – Verständlichkeit und Leichte Sprache
 
 (1) Träger öffentlicher Gewalt sollen mit Menschen mit geistigen Behinderungen und Menschen mit seelischen Behinderungen in einfacher und verständlicher Sprache kommunizieren. Auf Verlangen sollen sie ihnen insbesondere Bescheide, Allgemeinverfügungen, öffentlich-rechtliche Verträge und Vordrucke in einfacher und verständlicher Weise erläutern.
 
@@ -137,8 +123,7 @@ Sie können ferner eine Vertragsstrafenabrede für den Fall der Nichterfüllung 
 
 (4) Träger öffentlicher Gewalt sollen Informationen vermehrt in Leichter Sprache bereitstellen. Die Bundesregierung wirkt darauf hin, dass die Träger öffentlicher Gewalt die Leichte Sprache stärker einsetzen und ihre Kompetenzen für das Verfassen von Texten in Leichter Sprache auf- und ausgebaut werden.
 
-
-## § 12 – Öffentliche Stellen des Bundes
+# § 12 – Öffentliche Stellen des Bundes
 
 Öffentliche Stellen des Bundes sind
 
@@ -164,8 +149,7 @@ d) dem Bund die absolute Mehrheit der Stimmen an der Vereinigung zusteht.
 
 Eine überwiegende Finanzierung durch den Bund wird angenommen, wenn er mehr als 50 Prozent der Gesamtheit der Mittel aufbringt.
 
-
-## § 12a – Barrierefreie Informationstechnik
+# § 12a – Barrierefreie Informationstechnik
 
 (1) Öffentliche Stellen des Bundes gestalten ihre Websites und mobilen Anwendungen, einschließlich der für die Beschäftigten bestimmten Angebote im Intranet, barrierefrei. Schrittweise, spätestens bis zum 23. Juni 2021, gestalten sie ihre elektronisch unterstützten Verwaltungsabläufe, einschließlich ihrer Verfahren zur elektronischen Vorgangsbearbeitung und elektronischen Aktenführung, barrierefrei. Die grafischen Programmoberflächen sind von der barrierefreien Gestaltung umfasst.
 
@@ -183,8 +167,7 @@ Eine überwiegende Finanzierung durch den Bund wird angenommen, wenn er mehr als
 
 (8) Angebote öffentlicher Stellen im Internet, die auf Websites Dritter veröffentlicht werden, sind soweit möglich barrierefrei zu gestalten.
 
-
-## § 12b – Erklärung zur Barrierefreiheit
+# § 12b – Erklärung zur Barrierefreiheit
 
 (1) Die öffentlichen Stellen des Bundes veröffentlichen eine Erklärung zur Barrierefreiheit ihrer Websites oder mobilen Anwendungen.
 
@@ -216,8 +199,7 @@ b) die Verlinkung zur Schlichtungsstelle enthält.
 
 (4) Die öffentliche Stelle des Bundes antwortet auf Mitteilungen oder Anfragen, die ihr aufgrund der Erklärung zur Barrierefreiheit übermittelt werden, spätestens innerhalb eines Monats.
 
-
-## § 12c – Berichterstattung über den Stand der Barrierefreiheit
+# § 12c – Berichterstattung über den Stand der Barrierefreiheit
 
 (1) Die obersten Bundesbehörden erstatten alle drei Jahre, erstmals zum 30. Juni 2021, der Überwachungsstelle des Bundes für Barrierefreiheit von Informationstechnik (§ 13 Absatz 3) Bericht über den Stand der Barrierefreiheit
 
@@ -235,8 +217,7 @@ Sie erstellen verbindliche und überprüfbare Maßnahmen- und Zeitpläne zum wei
 
 Zu berichten ist insbesondere über die Ergebnisse ihrer Überwachung nach Artikel 8 Absatz 1 bis 3 der Richtlinie (EU) 2016/2102. Art und Form des Berichts richten sich nach den Anforderungen, die auf der Grundlage des Artikels 8 Absatz 6 der Richtlinie (EU) 2016/2102 festgelegt werden.
 
-
-## § 12d – Verordnungsermächtigung
+# § 12d – Verordnungsermächtigung
 
 Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Bestimmungen zu erlassen über
 
@@ -252,8 +233,7 @@ Das Bundesministerium für Arbeit und Soziales wird ermächtigt durch Rechtsvero
 
 6. die Einzelheiten des Überwachungsverfahrens nach § 13 Absatz 3 Satz 2 Nummer 1.
 
-
-## § 13 – Bundesfachstelle für Barrierefreiheit
+# § 13 – Bundesfachstelle für Barrierefreiheit
 
 (1) Bei der Deutschen Rentenversicherung Knappschaft-Bahn-See wird eine Bundesfachstelle für Barrierefreiheit errichtet.
 
@@ -287,13 +267,11 @@ Ein Expertenkreis, dem mehrheitlich Vertreterinnen und Vertreter der Verbände v
 
 (4) Das Bundesministerium für Arbeit und Soziales führt die Fachaufsicht über die Durchführung der in den Absätzen 2 und 3 genannten Aufgaben.
 
-
-## § 14 – Vertretungsbefugnisse in verwaltungs- oder sozialrechtlichen Verfahren
+# § 14 – Vertretungsbefugnisse in verwaltungs- oder sozialrechtlichen Verfahren
 
 Werden Menschen mit Behinderungen in ihren Rechten aus § 7 Absatz 1, § 8 Absatz 1, § 9 Absatz 1, § 10 Absatz 1 Satz 2 oder § 12a, soweit die Verpflichtung von Trägern öffentlicher Gewalt zur barrierefreien Gestaltung von Websites und mobilen Anwendungen, die für die Öffentlichkeit bestimmt sind, betroffen ist, verletzt, können an ihrer Stelle und mit ihrem Einverständnis Verbände nach § 15 Absatz 3, die nicht selbst am Verfahren beteiligt sind, Rechtsschutz beantragen; Gleiches gilt bei Verstößen gegen Vorschriften des Bundesrechts, die einen Anspruch auf Herstellung von Barrierefreiheit im Sinne des § 4 oder auf Verwendung von Gebärden oder anderen Kommunikationshilfen im Sinne des § 6 Absatz 3 vorsehen. In diesen Fällen müssen alle Verfahrensvoraussetzungen wie bei einem Rechtsschutzersuchen durch den Menschen mit Behinderung selbst vorliegen.
 
-
-## § 15 – Verbandsklagerecht
+# § 15 – Verbandsklagerecht
 
 (1) Ein nach Absatz 3 anerkannter Verband kann, ohne in seinen Rechten verletzt zu sein, Klage nach Maßgabe der Verwaltungsgerichtsordnung oder des Sozialgerichtsgesetzes erheben auf Feststellung eines Verstoßes gegen
 
@@ -319,8 +297,7 @@ Satz 1 gilt nicht, wenn eine Maßnahme aufgrund einer Entscheidung in einem verw
 
 5. wegen Verfolgung gemeinnütziger Zwecke nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit ist.
 
-
-## § 16 – Schlichtungsstelle und -verfahren; Verordnungsermächtigung
+# § 16 – Schlichtungsstelle und -verfahren; Verordnungsermächtigung
 
 (1) Bei der oder dem Beauftragten der Bundesregierung für die Belange von Menschen mit Behinderungen nach Abschnitt 5 wird eine Schlichtungsstelle zur außergerichtlichen Beilegung von Streitigkeiten nach den Absätzen 2 und 3 eingerichtet. Sie wird mit neutralen schlichtenden Personen besetzt und hat eine Geschäftsstelle. Das Verfahren der Schlichtungsstelle muss insbesondere gewährleisten, dass
 
@@ -356,8 +333,7 @@ behauptet.
 
 (8) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere über die Geschäftsstelle, die Besetzung und das Verfahren der Schlichtungsstelle nach den Absätzen 1, 4, 5 und 7 zu regeln sowie weitere Vorschriften über die Kosten des Verfahrens und die Entschädigung zu erlassen. Die Rechtsverordnung regelt auch das Nähere zu Tätigkeitsberichten der Schlichtungsstelle.
 
-
-## § 17 – Amt der oder des Beauftragten für die Belange von Menschen mit Behinderungen
+# § 17 – Amt der oder des Beauftragten für die Belange von Menschen mit Behinderungen
 
 (1) Die Bundesregierung bestellt eine Beauftragte oder einen Beauftragten für die Belange von Menschen mit Behinderungen.
 
@@ -365,8 +341,7 @@ behauptet.
 
 (3) Das Amt endet, außer im Fall der Entlassung, mit dem Zusammentreten eines neuen Bundestages.
 
-
-## § 18 – Aufgabe und Befugnisse
+# § 18 – Aufgabe und Befugnisse
 
 (1) Aufgabe der beauftragten Person ist es, darauf hinzuwirken, dass die Verantwortung des Bundes, für gleichwertige Lebensbedingungen für Menschen mit und ohne Behinderungen zu sorgen, in allen Bereichen des gesellschaftlichen Lebens erfüllt wird. Sie setzt sich bei der Wahrnehmung dieser Aufgabe dafür ein, dass unterschiedliche Lebensbedingungen von Frauen mit Behinderungen und Männern mit Behinderungen berücksichtigt und geschlechtsspezifische Benachteiligungen beseitigt werden.
 
@@ -374,7 +349,6 @@ behauptet.
 
 (3) Alle Bundesbehörden und sonstigen öffentlichen Stellen im Bereich des Bundes sind verpflichtet, die beauftragte Person bei der Erfüllung der Aufgabe zu unterstützen, insbesondere die erforderlichen Auskünfte zu erteilen und Akteneinsicht zu gewähren. Die Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
-
-## § 19 – Förderung der Partizipation
+# § 19 – Förderung der Partizipation
 
 Der Bund fördert im Rahmen der zur Verfügung stehenden Haushaltsmittel Maßnahmen von Organisationen, die die Voraussetzungen des § 15 Absatz 3 Satz 2 Nummer 1 bis 5 erfüllen, zur Stärkung der Teilhabe von Menschen mit Behinderungen an der Gestaltung öffentlicher Angelegenheiten.

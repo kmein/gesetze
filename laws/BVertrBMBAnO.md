@@ -1,10 +1,7 @@
-# [BVertrBMBAnO] Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
-
-Ausfertigungsdatum: 14.04.1970
-
+% Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+% Ausfertigungsdatum: 14.04.1970
  
-
-## ----
+# ----
 
 Soweit durch Rechtsvorschriften des Bundes nichts anderes bestimmt ist, wird der Bund im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen wie folgt vertreten:
 

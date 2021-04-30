@@ -1,22 +1,17 @@
-# [FischEtikettG] Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Etikettierung von Fischen und Fischereierzeugnissen  (Fischetikettierungsgesetz - FischEtikettG)
-
-Ausfertigungsdatum: 01.08.2002
-
+% Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Etikettierung von Fischen und Fischereierzeugnissen  (Fischetikettierungsgesetz - FischEtikettG)
+% Ausfertigungsdatum: 01.08.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Vorschriften zur Verbraucherinformation und Etikettierung von Fischen und Fischereierzeugnissen nach den Artikeln 35 bis 39 der Verordnung (EU) Nr. 1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S. 1) und der zu seiner Durchführung erlassenen Gemeinschaftsvorschriften in der jeweils geltenden Fassung.
 
 (2) Sonstige Vorschriften über die Kennzeichnung oder Etikettierung von Fischen und Fischereierzeugnissen bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -32,8 +27,7 @@ c) im Falle nicht vorverpackter Fische oder Fischereierzeugnisse auf der Stufe d
 
 Fang von Fischen in der See oder in Binnengewässern oder Erzeugung von Fischen in der Aquakultur.
 
-
-## § 3 – Ermächtigungen
+# § 3 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Durchführung von Rechtsakten der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 erforderlich ist,
 
@@ -59,8 +53,7 @@ In einer Rechtsverordnung nach Satz 1 Nr. 2 Buchstabe c oder d kann die Bundesan
 
 (2) Rechtsverordnungen nach Absatz 1 können ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung von Regelungen im Sinne des § 1 Abs. 1 erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-
-## § 4 – Zuständigkeit für die Überwachung
+# § 4 – Zuständigkeit für die Überwachung
 
 Die Überwachung der Einhaltung der Rechtsakte der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 dieses Gesetzes sowie die Einhaltung der Überwachung dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen obliegt
 
@@ -70,8 +63,7 @@ Die Überwachung der Einhaltung der Rechtsakte der Europäischen Union im Anwend
 
 § 3 Abs. 1 Satz 2 bleibt unberührt.
 
-
-## § 5 – Befugnisse
+# § 5 – Befugnisse
 
 (1) Die für die Überwachung nach § 4 zuständigen Behörden können für den Fall, dass die Etikettierung den Vorgaben der Rechtsakte der Europäischen Union im Anwendungsbereich dieses Gesetzes oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht entspricht, die Maßnahmen anordnen, die erforderlich sind, um Verstößen zu begegnen. Insbesondere kann gegenüber jedem, der Fische oder Fischereierzeugnisse erzeugt, gewinnt, be- oder verarbeitet, in den Verkehr bringt, innergemeinschaftlich verbringt, einführt oder ausführt, besitzt oder unmittelbar oder mittelbar am Geschäftsverkehr mit solchen Waren teilnimmt, angeordnet werden, dass nicht oder fehlerhaft etikettierte Fische oder Fischereierzeugnisse nicht in den Verkehr gebracht, innergemeinschaftlich verbracht, eingeführt oder ausgeführt werden dürfen, bis sie ordnungsgemäß etikettiert worden sind.
 
@@ -101,20 +93,17 @@ Die Überwachung der Einhaltung der Rechtsakte der Europäischen Union im Anwend
 
 zu regeln.
 
-
-## § 6 – Mitwirkung der Zollstellen
+# § 6 – Mitwirkung der Zollstellen
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Einfuhr oder Ausfuhr von Fischen und Fischereierzeugnissen mit. Die genannten Behörden können Sendungen einschließlich deren Transportmittel zur Überwachung anhalten und den Verdacht von Verstößen gegen Vorschriften in Rechtsakten der Europäischen Union im Anwendungsbereich dieses Gesetzes oder gegen Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen den zuständigen Behörden mitteilen.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 regeln. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Unterlagen und zur Duldung von Besichtigungen vorsehen.
 
-
-## § 7 – Außenverkehr
+# § 7 – Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und dritter Staaten sowie der Europäischen Kommission obliegt dem Bundesministerium. Es kann diese Befugnis auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen. Es kann diese Befugnis durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden übertragen. Die obersten Landesbehörden können diese Befugnis nach Satz 3 auf andere Behörden übertragen.
 
-
-## § 8 – Bußgeldvorschriften
+# § 8 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -138,12 +127,10 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (3) Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 4 geahndet werden können.
 
-
-## § 9 – Einziehung
+# § 9 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 8 Abs. 1 begangen worden, so können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

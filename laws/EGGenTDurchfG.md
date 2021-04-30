@@ -1,10 +1,7 @@
-# [EGGenTDurchfG] Gesetz zur Durchführung der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet der Gentechnik und über die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel  (EG-Gentechnik-Durchführungsgesetz - EGGenTDurchfG)
-
-Ausfertigungsdatum: 22.06.2004
-
+% Gesetz zur Durchführung der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet der Gentechnik und über die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel  (EG-Gentechnik-Durchführungsgesetz - EGGenTDurchfG)
+% Ausfertigungsdatum: 22.06.2004
  
-
-## § 1 – Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
+# § 1 – Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist zuständig für
 
@@ -22,20 +19,17 @@ Ausfertigungsdatum: 22.06.2004
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist Kontaktstelle im Sinne des Artikels 17 Abs. 2 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt vom 29. Januar 2000 (BGBl. 2003 II S. 1508) und des Artikels 15 Abs. 1 Buchstabe b der Verordnung (EG) Nr. 1946/2003 des Europäischen Parlaments und des Rates vom 15. Juli 2003 über grenzüberschreitende Verbringungen genetisch veränderter Organismen (ABl. EU Nr. L 287 S. 1). Es nimmt außerdem die Aufgaben nach Artikel 5 Abs. 2, Artikel 6, 9, 14 Abs. 2 und Artikel 15 Abs. 1 der Verordnung (EG) Nr. 1946/2003 wahr und erfüllt sonstige Mitteilungspflichten nach dem Protokoll von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt gegenüber der Informationsstelle für biologische Sicherheit nach Artikel 20 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt, soweit die Mitgliedstaaten zuständig sind.
 
-
-## § 2 – Aufgaben des Bundesministeriums für Ernährung und Landwirtschaft
+# § 2 – Aufgaben des Bundesministeriums für Ernährung und Landwirtschaft
 
 Das Bundesministerium für Ernährung und Landwirtschaft ist Anlaufstelle im Sinne des Artikels 19 Abs. 1 Satz 1 des Protokolls von Cartagena über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt und des Artikels 17 Abs. 2 der Verordnung (EG) Nr. 1946/2003.
 
-
-## § 3 – Beteiligung anderer Behörden des Bundes
+# § 3 – Beteiligung anderer Behörden des Bundes
 
 (1) Stellungnahmen nach § 1 Abs. 1 Nr. 2 ergehen im Benehmen mit dem Robert Koch-Institut und dem Bundesinstitut für Risikobewertung.
 
 (2) Stellungnahmen nach § 1 Abs. 1 Nr. 3 und 4 ergehen im Benehmen mit dem Bundesamt für Naturschutz und dem Robert Koch-Institut. Vor der Abgabe einer Stellungnahme nach Satz 1 ist eine Stellungnahme des Bundesinstituts für Risikobewertung, des Julius Kühn-Instituts, Bundesforschungsinstitut für Kulturpflanzen, und, soweit gentechnisch veränderte Wirbeltiere oder gentechnisch veränderte Mikroorganismen, die an Wirbeltieren angewendet werden, betroffen sind, des Friedrich-Loeffler-Instituts, Bundesforschungsinstitut für Tiergesundheit, einzuholen.
 
-
-## § 3a – Voraussetzungen für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
+# § 3a – Voraussetzungen für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
 
 (1) Ein Lebensmittel darf mit einer Angabe, die auf die Herstellung des Lebensmittels ohne Anwendung gentechnischer Verfahren hindeutet, nur in den Verkehr gebracht oder beworben werden, soweit die Anforderungen der Absätze 2 bis 5 eingehalten worden sind. Es darf nur die Angabe „ohne Gentechnik“ verwendet werden.
 
@@ -65,8 +59,7 @@ gekennzeichnet ist oder, soweit es in den Verkehr gebracht würde, zu kennzeichn
 
 2. "Verarbeitungshilfsstoff" gilt die Begriffsbestimmung in Artikel 2 Buchstabe y der Verordnung (EG) Nr. 834/2007.
 
-
-## § 3b – Nachweise für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
+# § 3b – Nachweise für die Kennzeichnung ohne Anwendung gentechnischer Verfahren hergestellter Lebensmittel
 
 Derjenige, der Lebensmittel mit der Angabe nach § 3a Abs. 1 in den Verkehr bringt oder bewirbt, hat nach Maßgabe des Satzes 2 über das Zubereiten, Bearbeiten, Verarbeiten oder Mischen der Lebensmittel oder das Füttern der Tiere Nachweise zu führen, dass die für das Verwenden der Angabe vorgeschriebenen Anforderungen eingehalten worden sind. Geeignete Nachweise sind insbesondere
 
@@ -78,8 +71,7 @@ Derjenige, der Lebensmittel mit der Angabe nach § 3a Abs. 1 in den Verkehr brin
 
 Die Kennzeichnung eines Lebensmittels mit einer Angabe im Sinne des § 3a Abs. 1 ist unzulässig, soweit die Nachweise nach Satz 1 nicht geführt werden können.
 
-
-## § 4 – Überwachung
+# § 4 – Überwachung
 
 (1) Soweit in diesem Gesetz nichts anderes bestimmt ist, obliegt die Überwachung der Einhaltung der
 
@@ -109,13 +101,11 @@ c) Lebensmitteln, die mit einer Angabe im Sinne des § 3a Abs. 1 in den Verkehr 
 
 entsprechend.
 
-
-## § 5 – Mitwirkung von Zollstellen
+# § 5 – Mitwirkung von Zollstellen
 
 Im Falle der Einfuhr, der Ausfuhr oder der Durchfuhr von Erzeugnissen, die in den Anwendungsbereich der in § 4 Abs. 1 genannten Rechtsakte fallen, wirken das Bundesministerium der Finanzen und die von ihm bestimmten Zolldienststellen bei der Überwachung in entsprechender Anwendung des § 55 des Lebensmittel- und Futtermittelgesetzbuches mit.
 
-
-## § 5a – Erlass von Rechtsverordnungen
+# § 5a – Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur Durchführung der Verordnung (EG) Nr. 1829/2003, insbesondere zur Überwachung der Verbote des Artikels 4 Abs. 2 und des Artikels 16 Abs. 2 der Verordnung (EG) Nr. 1829/2003, erforderlich ist,
 
@@ -129,8 +119,7 @@ auf Dauer oder vorübergehend zu verbieten oder zu beschränken sowie die hierf�
 
 (3) § 73 des Lebensmittel- und Futtermittelgesetzbuches gilt entsprechend.
 
-
-## § 6 – Strafvorschriften
+# § 6 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer gegen die Verordnung (EG) Nr. 1829/2003 verstößt, indem er
 
@@ -164,8 +153,7 @@ bezeichnete Handlung Leib oder Leben eines anderen, fremde Sachen von bedeutende
 
 (8) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49 Abs. 2 des Strafgesetzbuches) oder von Strafe absehen, wenn der Täter nicht zu erwerbswirtschaftlichen Zwecken handelt.
 
-
-## § 7 – Bußgeldvorschriften
+# § 7 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine der in § 6 Abs. 3a bezeichneten Handlungen fahrlässig begeht.
 
@@ -207,8 +195,7 @@ bezeichnete Handlung Leib oder Leben eines anderen, fremde Sachen von bedeutende
 
 (7) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 6 Nr. 2 und 3 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## Anlage – (zu § 3a Abs. 4 Satz 2)Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
+# Anlage – (zu § 3a Abs. 4 Satz 2)Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
 
 Fundstelle des Originaltextes: BGBl. I 2008, 506
 

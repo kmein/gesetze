@@ -1,10 +1,7 @@
-# [RheinSchPEV] Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung  (RheinSchPEV)
-
-Ausfertigungsdatum: 19.12.1994
-
+% Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung  (RheinSchPEV)
+% Ausfertigungsdatum: 19.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -20,8 +17,7 @@ des § 3 Abs. 5 Satz 2 und des § 3e Abs. 1 Satz 2 Nr. 2 des Binnenschiffahrtsau
 \-  
 des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278) insoweit geändert worden ist, und des § 3e Abs. 1 Satz 2 Nr. 2 des Binnenschiffahrtsaufgabengesetzes verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation:
 
-
-## Art 1 – Anwendungsbereich
+# Art 1 – Anwendungsbereich
 
 (1) Die von der Zentralkommission für die Rheinschiffahrt in Straßburg am 1. Dezember 1993 und 18. Mai 1994 beschlossene Rheinschiffahrtspolizeiverordnung - Anlage - wird auf der Bundeswasserstraße Rhein in Kraft gesetzt.
 
@@ -29,11 +25,9 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 19
 
 (3) Kilometerangaben für einzelne Rheinstrecken (Zweiter Teil der Anlage) haben folgende Bedeutung: Der Kilometerendpunkt schließt die jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die jeweilige Kilometerangabe aus.
 
+# Art 1a – (weggefallen)
 
-## Art 1a – (weggefallen)
-
-
-## Art 2 – Zuständige Behörden
+# Art 2 – Zuständige Behörden
 
 (1) Zuständige Behörde im Sinne der Anlage ist, soweit in den Absätzen 3 bis 8 nichts anderes bestimmt ist, die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Regelung örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 
@@ -53,13 +47,11 @@ des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 19
 
 (9) Liegen die Voraussetzungen des § 48 oder § 49 des Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine Erlaubnis nach der Anlage auch nachträglich befristen und mit Auflagen verbinden.
 
-
-## Art 3 – Fahrzeuge des öffentlichen Dienstes
+# Art 3 – Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von den Vorschriften der Anlage befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
-
-## Art 4 – Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetzes
+# Art 4 – Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetzes
 
 (1) Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -75,14 +67,11 @@ zuwiderhandelt.
 
 2. entgegen § 1.03 Nr. 2 eine Anweisung des Schiffsführers nicht befolgt,
 
-2a.  
-entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper befindet,
+2a. entgegen § 1.03 Nr. 4 Satz 2 vorübergehend den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl sich eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper befindet,
 
-2b.  
-entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt,
+2b. entgegen § 1.08 Nummer 6 Satz 2 Außenbordarbeiten durchführt,
 
-2c.  
-entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
+2c. entgegen § 1.09 Nr. 3 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
 
 3. entgegen § 1.13 Nr. 1 Schiffahrtszeichen zum Festmachen oder Verholen benutzt, beschädigt oder unbrauchbar macht,
 
@@ -136,35 +125,27 @@ nicht bezeichnet,
 
 12. entgegen § 4.03 Nr. 1 Schallzeichen gebraucht,
 
-12a.  
-entgegen § 4.05 Nr. 2 nicht die vorgeschriebene Sprache benutzt,
+12a. entgegen § 4.05 Nr. 2 nicht die vorgeschriebene Sprache benutzt,
 
 13. entgegen § 4.05 Nr. 3 einen dort genannten Kanal benutzt,
 
 14. entgegen § 4.05 Nummer 5 die Sprechfunkanlage nicht auf Empfang schaltet,
 
-14a.  
-entgegen § 4.05 Nummer 5 Satz 1 nicht oder nicht rechtzeitig auf den dort genannten Kanälen die für die Sicherheit der Schifffahrt notwendigen Nachrichten gibt,
+14a. entgegen § 4.05 Nummer 5 Satz 1 nicht oder nicht rechtzeitig auf den dort genannten Kanälen die für die Sicherheit der Schifffahrt notwendigen Nachrichten gibt,
 
-14b.  
-entgegen § 4.05 Nummer 6 Sprechfunk nicht benutzt,
+14b. entgegen § 4.05 Nummer 6 Sprechfunk nicht benutzt,
 
 15. entgegen § 4.06 Nummer 1, auch in Verbindung mit Nummer 4, ein Radar benutzt oder entgegen § 4.06 Nummer 3 ein Radar nicht benutzt,
 
-15a.  
-entgegen § 4.07 Nummer 2 Buchstabe a ein Inland AIS Gerät nicht einschaltet oder nicht eingeschaltet lässt,
+15a. entgegen § 4.07 Nummer 2 Buchstabe a ein Inland AIS Gerät nicht einschaltet oder nicht eingeschaltet lässt,
 
-15b.  
-entgegen § 4.07 Nummer 2 Buchstabe b ein Inland AIS Gerät nutzt, das nicht mit maximaler Leistung sendet,
+15b. entgegen § 4.07 Nummer 2 Buchstabe b ein Inland AIS Gerät nutzt, das nicht mit maximaler Leistung sendet,
 
-15c.  
-entgegen § 4.07 Nummer 2 Buchstabe c mehr als ein Inland AIS Gerät im Sendebetrieb nutzt,
+15c. entgegen § 4.07 Nummer 2 Buchstabe c mehr als ein Inland AIS Gerät im Sendebetrieb nutzt,
 
-15d.  
-entgegen § 4.07 Nummer 2 Buchstabe d oder Nummer 6 Satz 3 ein Inland AIS Gerät nutzt, obwohl die eingegebenen Daten nicht den tatsächlichen Daten des Fahrzeugs oder Verbands entsprechen,
+15d. entgegen § 4.07 Nummer 2 Buchstabe d oder Nummer 6 Satz 3 ein Inland AIS Gerät nutzt, obwohl die eingegebenen Daten nicht den tatsächlichen Daten des Fahrzeugs oder Verbands entsprechen,
 
-15e.  
-entgegen § 4.07 Nummer 3 ein Inland ECDIS Gerät oder ein Kartenanzeigegerät nicht oder nicht richtig nutzt,
+15e. entgegen § 4.07 Nummer 3 ein Inland ECDIS Gerät oder ein Kartenanzeigegerät nicht oder nicht richtig nutzt,
 
 16. entgegen § 5.01 Nr. 2 in Verbindung mit Nr. 1 eine Anordnung nicht befolgt,
 
@@ -238,11 +219,9 @@ zuwiderhandelt,
 
 2. entgegen § 1.02 Nr. 5 Satz 3 erster Halbsatz, auch in Verbindung mit Satz 4, eine Anweisung des Schiffsführers des Verbandes nicht befolgt,
 
-2a.  
-entgegen § 1.02 Nr. 7 Satz 2 ein Fahrzeug führt, obwohl sich eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper befindet,
+2a. entgegen § 1.02 Nr. 7 Satz 2 ein Fahrzeug führt, obwohl sich eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, im Körper befindet,
 
-2b.  
-anordnet oder zuläßt, daß entgegen § 1.03 Nr. 4 Satz 2 jemand vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
+2b. anordnet oder zuläßt, daß entgegen § 1.03 Nr. 4 Satz 2 jemand vorübergehend den Kurs oder die Geschwindigkeit des Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
 
 3. entgegen § 1.04 Buchstabe a bis c die gebotenen Vorsichtsmaßregeln nicht trifft und dadurch das Leben eines anderen gefährdet, ein Fahrzeug, einen Schwimmkörper, das Ufer, ein Regelungsbauwerk oder eine dort genannte Anlage beschädigt oder die Schiffahrt behindert,
 
@@ -250,26 +229,19 @@ anordnet oder zuläßt, daß entgegen § 1.03 Nr. 4 Satz 2 jemand vorübergehend
 
 5. ein Fahrzeug führt, dessen Ladung entgegen § 1.07 Nummer 4 die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
 
-5a.  
-entgegen § 1.07 Nummer 5 Satz 1 nicht jederzeit die Stabilität eines Fahrzeugs gewährleistet, das Container befördert,
+5a. entgegen § 1.07 Nummer 5 Satz 1 nicht jederzeit die Stabilität eines Fahrzeugs gewährleistet, das Container befördert,
 
-5b.  
-entgegen § 1.07 Nummer 5 Satz 2 nicht nachweist, dass vor Beginn des Ladens oder Löschens oder vor Fahrtantritt eines Fahrzeugs, das Container befördert, eine Stabilitätsprüfung durchgeführt wurde,
+5b. entgegen § 1.07 Nummer 5 Satz 2 nicht nachweist, dass vor Beginn des Ladens oder Löschens oder vor Fahrtantritt eines Fahrzeugs, das Container befördert, eine Stabilitätsprüfung durchgeführt wurde,
 
-5c.  
-entgegen § 1.07 Nummer 5 Satz 4 das Ergebnis der Stabilitätsprüfung oder den aktuellen Stauplan nicht an Bord eines Fahrzeugs, das Container befördert, mitführt oder jederzeit lesbar macht,
+5c. entgegen § 1.07 Nummer 5 Satz 4 das Ergebnis der Stabilitätsprüfung oder den aktuellen Stauplan nicht an Bord eines Fahrzeugs, das Container befördert, mitführt oder jederzeit lesbar macht,
 
-5d.  
-entgegen § 1.07 Nummer 5 Satz 5 die Stabilitätsunterlagen eines Fahrzeugs, das Container befördert, nicht mitführt,
+5d. entgegen § 1.07 Nummer 5 Satz 5 die Stabilitätsunterlagen eines Fahrzeugs, das Container befördert, nicht mitführt,
 
-5e.  
-ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
+5e. ein Fahrgastschiff führt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 
-5f.  
-entgegen § 1.08 Nummer 5 Satz 1 ein dort genanntes Geländer öffnet oder entfernt,
+5f. entgegen § 1.08 Nummer 5 Satz 1 ein dort genanntes Geländer öffnet oder entfernt,
 
-5g.  
-entgegen § 1.08 Nummer 5 Satz 2 ein Geländer nicht, nicht richtig oder nicht rechtzeitig schließt oder nicht, nicht richtig oder nicht rechtzeitig setzt,
+5g. entgegen § 1.08 Nummer 5 Satz 2 ein Geländer nicht, nicht richtig oder nicht rechtzeitig schließt oder nicht, nicht richtig oder nicht rechtzeitig setzt,
 
 6. nicht dafür sorgt, daß das Ruder mit einer nach § 1.09 Nr. 1 oder 5 vorgeschriebenen Person besetzt ist,
 
@@ -277,8 +249,7 @@ entgegen § 1.08 Nummer 5 Satz 2 ein Geländer nicht, nicht richtig oder nicht r
 
 8. ein Fahrzeug führt, auf dem sich entgegen § 1.11 Nummer 1 ein Abdruck der dort genannten Verordnungen nicht an Bord befindet,
 
-8a.  
-ein Fahrzeug, das mit einer Schiffsfunkstelle nach § 4.05 der Anlage ausgerüstet ist, führt, auf dem sich entgegen § 1.11 Nummer 2 ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Rhein/Mosel, nicht an Bord befindet,
+8a. ein Fahrzeug, das mit einer Schiffsfunkstelle nach § 4.05 der Anlage ausgerüstet ist, führt, auf dem sich entgegen § 1.11 Nummer 2 ein Abdruck des Handbuchs Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler Teil Rhein/Mosel, nicht an Bord befindet,
 
 9. ein Fahrzeug, einen Schwimmkörper oder eine schwimmende Anlage führt, auf denen entgegen § 1.12 Nr. 1 ein Gegenstand über die Bordwand hinausragt,
 
@@ -320,13 +291,11 @@ nicht bezeichnet,
 
 25. ein Fahrzeug führt, auf dem auf das Verbot des Betretens nach § 3.31 Nr. 1 Satz 1 oder Nr. 2, des Rauchens oder des Verwendens von ungeschütztem Licht oder Feuer nach § 3.32 Nr. 1 Satz 1 oder Nr. 2 oder des Stilliegens nebeneinander nach § 3.33 Nr. 1 oder 2 nicht oder nicht in der vorgeschriebenen Weise hingewiesen wird,
 
-25a.  
-ein Fahrzeug, das für den Einsatz von Taucherarbeiten verwendet wird, nicht nach § 3.34 bezeichnet,
+25a. ein Fahrzeug, das für den Einsatz von Taucherarbeiten verwendet wird, nicht nach § 3.34 bezeichnet,
 
 26. ein Fahrzeug oder eine schwimmende Anlage führt, auf dem eine Schiffsfunkstelle entgegen § 4.05 Nummer 1 nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
 
-26a.  
-ein Fahrzeug führt,
+26a. ein Fahrzeug führt,
 
 a) das entgegen § 4.05 Nummer 4 Satz 1 nicht mit einer Sprechfunkanlage für die dort genannten Verkehrskreise ausgerüstet ist,
 
@@ -334,8 +303,7 @@ b) dessen Sprechfunkanlage entgegen § 4.05 Nummer 4 Satz 1 nicht in einem guten
 
 c) dessen Sprechfunkanlage entgegen § 4.05 Nummer 4 Satz 2 nicht die gleichzeitige Hörbereitschaft auf zwei Verkehrskreisen gewährleistet,
 
-26b.  
-ein Fahrzeug führt,
+26b. ein Fahrzeug führt,
 
 a) das entgegen § 4.07 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät ausgerüstet ist,
 
@@ -345,8 +313,7 @@ c) das entgegen § 4.07 Nummer 3 in dem dort genannten Fall nicht mit einem Inla
 
 d) das entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht mit einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet ist oder dessen Sprechfunkanlage entgegen § 4.07 Nummer 8 in dem dort genannten Fall nicht auf Empfang geschaltet oder in einem guten Betriebszustand ist,
 
-26c.  
-entgegen § 4.07 Nummer 4 die dort genannten Daten nicht, nicht rechtzeitig oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
+26c. entgegen § 4.07 Nummer 4 die dort genannten Daten nicht, nicht rechtzeitig oder nicht vollständig übermittelt oder entgegen § 4.07 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht rechtzeitig oder nicht vollständig aktualisiert,
 
 27. einer Vorschrift über
 
@@ -376,8 +343,7 @@ zuwiderhandelt,
 
 30. entgegen § 8.03 Nr. 1 an der Spitze eines Schubverbandes einen Trägerschiffsleichter mitführt,
 
-30a.  
-einen Schubverband führt, dessen Spitze entgegen § 8.03 Nummer 2 nicht oder nicht mit den vorgeschriebenen Ankern versehen ist,
+30a. einen Schubverband führt, dessen Spitze entgegen § 8.03 Nummer 2 nicht oder nicht mit den vorgeschriebenen Ankern versehen ist,
 
 31. entgegen § 8.04 einen Schubleichter fortbewegt,
 
@@ -393,22 +359,17 @@ einen Schubverband führt, dessen Spitze entgegen § 8.03 Nummer 2 nicht oder ni
 
 37. eine nach § 8.10 Buchstabe b zweiter Halbsatz, Buchstabe c, d oder e vorgeschriebene Maßnahme nicht trifft,
 
-37a.  
-nicht dafür sorgt, dass die Vorschriften über die Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, nach § 8.11 Nummer 1, 2 Satz 1 oder Satz 3, Nummer 3 Satz 1, auch in Verbindung mit Satz 2, oder Nummer 4 eingehalten werden,
+37a. nicht dafür sorgt, dass die Vorschriften über die Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen, nach § 8.11 Nummer 1, 2 Satz 1 oder Satz 3, Nummer 3 Satz 1, auch in Verbindung mit Satz 2, oder Nummer 4 eingehalten werden,
 
 38. ein Fahrzeug führt, das die zulässigen Höchstabmessungen nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a überschreitet,
 
-38a.  
-ein Fahrzeug mit einer Länge von über 110 m führt, obwohl sich entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
+38a. ein Fahrzeug mit einer Länge von über 110 m führt, obwohl sich entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
 
-38b.  
-oberhalb von Mannheim ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110,00 m führt, das den Anforderungen nach § 11.01 Nummer 4 Satz 1 nicht entspricht,
+38b. oberhalb von Mannheim ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110,00 m führt, das den Anforderungen nach § 11.01 Nummer 4 Satz 1 nicht entspricht,
 
-38c.  
-oberhalb von Mannheim ein Fahrgastschiff mit einer Länge von über 110,00 m führt, das den Anforderungen nach § 11.01 Nummer 4 Satz 2 nicht entspricht,
+38c. oberhalb von Mannheim ein Fahrgastschiff mit einer Länge von über 110,00 m führt, das den Anforderungen nach § 11.01 Nummer 4 Satz 2 nicht entspricht,
 
-38d.  
-ein Fahrgastschiff unterhalb von Emmerich (km 885) führt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
+38d. ein Fahrgastschiff unterhalb von Emmerich (km 885) führt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
 
 39. einer Vorschrift des § 14.01 Nr. 2 oder 3, jeweils auch in Verbindung mit Nummer 4, über das Stilliegen auf den Reeden zuwiderhandelt,
 
@@ -440,15 +401,13 @@ c) entgegen § 1.02 Nr. 4 der Schiffsführer während der Fahrt oder des Betrieb
 
 2. nicht dafür sorgt, dass sich die in § 1.10 Satz 1 in Verbindung mit Anlage 13 oder § 1.10a Nummer 2 Satz 2 genannten Urkunden oder sonstigen Unterlagen an Bord befinden oder die in § 1.10a Nummer 2 Satz 1 Halbsatz 2 genannten Schiffspapiere im Bereich der Baustelle verfügbar sind,
 
-2a.  
-die in § 1.10a Nummer 1 Satz 5 genannten Schiffspapiere nicht aufbewahrt,
+2a. die in § 1.10a Nummer 1 Satz 5 genannten Schiffspapiere nicht aufbewahrt,
 
 3. ohne Erlaubnis nach § 1.21 Nr. 1 Satz 2 einen Sondertransport durchführen läßt oder entgegen § 1.21 Nr. 1 Satz 4 einen Schiffsführer nicht bestimmt,
 
 4. nicht dafür sorgt, daß Schwimmkörper oder schwimmende Anlagen in der nach § 3.23 vorgeschriebenen Weise bezeichnet werden,
 
-4a.  
-anordnet oder zulässt, dass entgegen § 4.05 Nummer 1 auf einem Fahrzeug oder einer schwimmenden Anlage eine Schiffsfunkstelle nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
+4a. anordnet oder zulässt, dass entgegen § 4.05 Nummer 1 auf einem Fahrzeug oder einer schwimmenden Anlage eine Schiffsfunkstelle nicht entsprechend den dort genannten Vorschriften ausgerüstet ist oder nicht entsprechend den dort genannten Vorschriften betrieben wird,
 
 5. die Radarfahrt eines Fahrzeugs anordnet oder zuläßt, das entgegen § 4.06 Nummer 1, auch in Verbindung mit Nummer 4, oder § 6.32 Nummer 1 Satz 1 nicht vorschriftsmäßig ausgerüstet oder besetzt ist,
 
@@ -508,20 +467,15 @@ v) das entgegen § 6.21 Nr. 3 längsseits gekuppelt fährt, schleppt oder geschl
 
 w) das die nach § 11.01 Nummer 1 Satz 1 oder 2 Buchstabe a zulässigen Höchstabmessungen überschreitet,
 
-10a.  
-die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
+10a. die Inbetriebnahme eines Fahrgastschiffes anordnet oder zulässt, obwohl die nach § 1.08 Nummer 4 vorgeschriebenen Einzelrettungsmittel nicht in ausreichender Anzahl oder nicht in der vorgeschriebenen Art an Bord vorhanden sind,
 
-10b.  
-die Inbetriebnahme eines Fahrzeugs mit einer Länge über 110 m anordnet oder zulässt, obwohl sich entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
+10b. die Inbetriebnahme eines Fahrzeugs mit einer Länge über 110 m anordnet oder zulässt, obwohl sich entgegen § 11.01 Nummer 3 an Bord eine Person, die ein nach der Verordnung über das Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig anerkanntes Radarzeugnis besitzt, nicht befindet,
 
-10c.  
-die Inbetriebnahme eines Fahrzeugs, ausgenommen ein Fahrgastschiff, mit einer Länge über 110 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 4 Satz 1 nicht entspricht,
+10c. die Inbetriebnahme eines Fahrzeugs, ausgenommen ein Fahrgastschiff, mit einer Länge über 110 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 4 Satz 1 nicht entspricht,
 
-10d.  
-die Inbetriebnahme eines Fahrgastschiffs mit einer Länge über 110 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 4 Satz 2 nicht entspricht,
+10d. die Inbetriebnahme eines Fahrgastschiffs mit einer Länge über 110 m für die Fahrt oberhalb von Mannheim anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 4 Satz 2 nicht entspricht,
 
-10e.  
-die Inbetriebnahme eines Fahrgastschiffs unterhalb von Emmerich (km 885) anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
+10e. die Inbetriebnahme eines Fahrgastschiffs unterhalb von Emmerich (km 885) anordnet oder zulässt, das den Anforderungen nach § 11.01 Nummer 5 nicht entspricht,
 
 11. anordnet oder zuläßt, daß entgegen § 8.03 Nr. 1 an der Spitze des Schubverbandes Trägerschiffsleichter mitgeführt werden oder die Spitze des Schubverbandes entgegen § 8.03 Nr. 2 mit Ankern nicht versehen ist,
 
@@ -547,12 +501,10 @@ d) eines Schubverbandes anordnet oder zulässt, dessen Fahrzeugzusammenstellung 
 
 18. anordnet oder zulässt, dass die Fahrt mit einem Schubverband entgegen § 11.02 Nummer 3.5 Buchstabe c Doppelbuchstabe bb, Buchstabe d oder e angetreten wird.
 
-
-## Art 5 – (weggefallen)
+# Art 5 – (weggefallen)
 
 \-
 
-
-## Art 6 – Inkrafttreten
+# Art 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.

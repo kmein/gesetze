@@ -1,10 +1,7 @@
-# [JubVAnO] Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes
-
-Ausfertigungsdatum: 07.09.1978
-
+% Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes
+% Ausfertigungsdatum: 07.09.1978
  
-
-## 1.
+# 1.
 
 (1) Auf Grund des § 8 Abs. 1 letzter Halbsatz und des § 9 der Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes in der Fassung der Bekanntmachung vom 7. Mai 1965 (BGBl. I S. 410) übertrage ich
 
@@ -37,17 +34,14 @@ c) für Beamte der Bundesjustizverwaltung, die zu einer anderen Behörde abgeord
 
 (4) Den Präsidenten der in Absatz 1 genannten Behörden und dem Generalbundesanwalt beim Bundesgerichtshof werden die Zuwendungen von mir gewährt.
 
-
-## 2.
+# 2.
 
 Zur Entscheidung über die Versagung der Zuwendungen gegenüber den in das Richterverhältnis auf Lebenszeit berufenen Richtern der Bundesjustizverwaltung und gegenüber solchen Bundesjustizbeamten, zu deren Ernennung die Behördenleiter nicht zuständig sind, bedarf es meiner vorherigen Zustimmung. Entsprechendes gilt für die zur Bundesjustizverwaltung abgeordneten Beamten und Richter anderer Dienstherren, die nach ihren Besoldungsgruppen jenen Beamten des Bundes vergleichbar sind, zu deren Ernennung die genannten Behördenleiter nicht zuständig sind.
 
-
-## 3.
+# 3.
 
 \-
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz

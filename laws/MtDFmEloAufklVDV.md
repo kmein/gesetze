@@ -1,17 +1,11 @@
-# [MtDFmEloAufklVDV] Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes  (MtDFmEloAufklVDV)
-
-Ausfertigungsdatum: 14.01.2021
-
+% Verordnung über den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes  (MtDFmEloAufklVDV)
+% Ausfertigungsdatum: 14.01.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, dessen Absatz 1 Nummer 2 durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit den §§ 10 und 10a sowie Anlage 2 Nummer 10 und Anlage 3 der Bundeslaufbahnverordnung, von denen § 10 Absatz 1 durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert, § 10a durch Artikel 1 Nummer 3 der Verordnung vom 18. Januar 2017 (BGBl. I S. 89) eingefügt und Anlage 2 durch Artikel 1 Nummer 14 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -71,13 +65,13 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes, de
 
  
 
+ 
 
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und die Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes.
 
-
-## § 2 – Ziel und Inhalt des Vorbereitungsdienstes
+# § 2 – Ziel und Inhalt des Vorbereitungsdienstes
 
 (1) Ziel des Vorbereitungsdienstes ist es, die Anwärterinnen und Anwärter zu befähigen, in den Dienststellen der Bundeswehr und des Bundesnachrichtendienstes die Aufgaben des mittleren technischen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes zu erfüllen.
 
@@ -99,18 +93,15 @@ Die Ausbildung und die Prüfung nach dieser Verordnung sind der Vorbereitungsdie
 
 § 2 Abs. 2 Nr. 4 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Satzzeichen "vermittelt," durch das Satzzeichen "vermittelt." ersetzt
 
-
-## § 3 – Dauer des Vorbereitungsdienstes
+# § 3 – Dauer des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst dauert in der Regel 24 Monate.
 
-
-## § 4 – Erholungsurlaub
+# § 4 – Erholungsurlaub
 
 Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewährt werden.
 
-
-## § 5 – Einstellungsbehörden
+# § 5 – Einstellungsbehörden
 
 (1) Einstellungsbehörden sind das Bundesamt für das Personalmanagement der Bundeswehr und der Bundesnachrichtendienst.
 
@@ -118,8 +109,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewä
 
 (3) Die Einstellungsbehörden sind die personalbearbeitenden Dienststellen der Anwärterinnen und Anwärter. Im Rahmen des Einstellungsverfahrens können die Einstellungsbehörden Aufgaben auf eine nachgeordnete Behörde übertragen.
 
-
-## § 6 – Nachteilsausgleich
+# § 6 – Nachteilsausgleich
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse oder Fähigkeiten einschränken, werden auf Antrag angemessene Erleichterungen im Auswahlverfahren sowie bei Leistungsnachweisen und Prüfungen gewährt. Hierauf sind sie im Auswahlverfahren durch die Einstellungsbehörde, bei Leistungsnachweisen durch die Lehrenden und bei Prüfungen durch das Prüfungsamt rechtzeitig hinzuweisen.
 
@@ -135,8 +125,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewä
 
 3. bei der Laufbahnprüfung das Prüfungsamt.
 
-
-## § 7 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 7 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheiden die Einstellungsbehörden auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet und befähigt sind.
 
@@ -144,8 +133,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewä
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird, erhält eine schriftliche Ablehnung. Elektronisch eingereichte Bewerbungsunterlagen werden spätestens ein Jahr nach der Ablehnung endgültig gelöscht. Nicht elektronisch eingereichte Bewerbungsunterlagen sowie Ausdrucke elektronisch eingereichter Bewerbungsunterlagen werden spätestens nach Ablauf dieser Frist vernichtet. Originaldokumente werden auf Wunsch zurückgesandt.
 
-
-## § 8 – Anforderungen im Auswahlverfahren; Auswahlinstrumente
+# § 8 – Anforderungen im Auswahlverfahren; Auswahlinstrumente
 
 (1) Im Auswahlverfahren wird festgestellt, inwieweit die Bewerberinnen und Bewerber die Anforderungen an ihre Eignung und Befähigung (Eignungsmerkmale) erfüllen.
 
@@ -161,8 +149,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewä
 
 (3) Die Feststellung erfolgt mit Hilfe von Auswahlinstrumenten. Der Einsatz der Auswahlinstrumente kann durch Informationstechnologie unterstützt werden.
 
-
-## § 9 – Auswahlkommission
+# § 9 – Auswahlkommission
 
 (1) Für das Auswahlverfahren richten die Einstellungsbehörden eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellen die Einstellungsbehörden sicher, dass alle Auswahlkommissionen dieselben Bewertungs- und Auswahlmaßstäbe anlegen.
 
@@ -176,8 +163,7 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewä
 
 (6) Die Gleichstellungsbeauftragte darf am Auswahlverfahren und an den anschließenden Beratungen der Auswahlkommission teilnehmen. Sie ist nicht stimmberechtigt.
 
-
-## § 10 – Ergänzende Festlegungen
+# § 10 – Ergänzende Festlegungen
 
 (1) Die Einstellungsbehörde legt ergänzend fest:
 
@@ -199,13 +185,11 @@ Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§ 37) gewä
 
 (3) Die ergänzenden Festlegungen werden im Gemeinsamen Ministerialblatt veröffentlicht.
 
-
-## § 11 – Bestandteile des Auswahlverfahrens
+# § 11 – Bestandteile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-
-## § 12 – Schriftlicher Teil des Auswahlverfahrens
+# § 12 – Schriftlicher Teil des Auswahlverfahrens
 
 (1) Im schriftlichen Teil des Auswahlverfahrens dürfen höchstens vier der folgenden Auswahlinstrumente eingesetzt werden:
 
@@ -221,15 +205,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Der schriftliche Teil des Auswahlverfahrens dauert in der Regel einen Arbeitstag.
 
-
-## § 13 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+# § 13 – Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil bewertet werden, das festgelegte Mindestergebnis erreicht hat.
 
 (2) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber werden zum mündlichen Teil des Auswahlverfahrens zugelassen, wenn sie am schriftlichen Teil teilgenommen haben.
 
-
-## § 14 – Mündlicher Teil des Auswahlverfahrens
+# § 14 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Im mündlichen Teil des Auswahlverfahrens dürfen höchstens vier der folgenden Auswahlinstrumente eingesetzt werden:
 
@@ -247,15 +229,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Am mündlichen Teil des Auswahlverfahrens darf ein Mitglied des Personalrats teilnehmen. Sofern schwerbehinderte Bewerberinnen und Bewerber oder gleichgestellte behinderte Bewerberinnen und Bewerbern teilnehmen, darf auch die Schwerbehindertenvertretung am mündlichen Teil des Auswahlverfahrens und den Beratungen teilnehmen. Dies gilt nicht, wenn die schwerbehinderten oder diesen gleichgestellte Bewerberinnen und Bewerber die Beteiligung der Schwerbehindertenvertretung ausdrücklich ablehnen.
 
-
-## § 15 – Bewertung der Eignungsmerkmale
+# § 15 – Bewertung der Eignungsmerkmale
 
 (1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst die Leistungen zu einem Gesamtergebnis für das Eignungsmerkmal zusammen.
 
 (2) Bei der Bewertung von Leistungen im schriftlichen Teil des Auswahlverfahrens kann sich die Auswahlkommission durch Informationstechnologie und durch dafür ausgebildete Beschäftigte unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
-
-## § 16 – Gesamtergebnis; Rangfolge
+# § 16 – Gesamtergebnis; Rangfolge
 
 (1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission das Gesamtergebnis des Auswahlverfahrens gemäß der von der Einstellungsbehörde festgelegten Bewertungs- und Gewichtungssystematik.
 
@@ -265,8 +245,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (4) Die Auswahlkommission legt anhand der ermittelten Gesamtergebnisse eine Rangfolge der Bewerberinnen und Bewerber fest, die das Auswahlverfahren bestanden haben. Sind mehrere Auswahlkommissionen eingerichtet worden, so wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt, die das Auswahlverfahren bestanden haben. Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte behinderte Bewerberinnen und Bewerber werden bei gleichem Gesamtergebnis in der Rangfolge vor den anderen Bewerberinnen und Bewerbern geführt.
 
-
-## § 17 – Einstellung in den Vorbereitungsdienst
+# § 17 – Einstellung in den Vorbereitungsdienst
 
 (1) In den Vorbereitungsdienst für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes kann eingestellt werden, wer
 
@@ -288,8 +267,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 (4) Wer nicht eingestellt wird, erhält einen schriftlichen Bescheid über die Ablehnung. Für die Bewerbungsunterlagen gilt § 7 Absatz 3 Satz 2 bis 4 entsprechend.
 
-
-## § 18 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+# § 18 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner Persönlichkeit geeignet ist.
 
@@ -301,8 +279,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 (5) Die Anwärterinnen und Anwärter werden in den einzelnen Ausbildungsstationen Beschäftigten der Bundeswehr oder des Bundesnachrichtendienstes zur Ausbildung zugeteilt. Den Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter zugeteilt werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die Ausbildenden unterrichten die Ausbildungsbeauftragte oder den Ausbildungsbeauftragten regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 19 – Bestandteile des Vorbereitungsdienstes; Ausbildungsabschnitte
+# § 19 – Bestandteile des Vorbereitungsdienstes; Ausbildungsabschnitte
 
 (1) Der Vorbereitungsdienst besteht aus
 
@@ -342,8 +319,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 (4) Die fachtheoretische und die berufspraktische Ausbildung können durch Exkursionen ergänzt werden.
 
-
-## § 20 – Rahmenlehrplan
+# § 20 – Rahmenlehrplan
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit den Einstellungsbehörden und dem Bildungszentrum der Bundeswehr einen Rahmenlehrplan. Der Rahmenlehrplan bedarf der Billigung des Bundesministeriums der Verteidigung im Benehmen mit dem Bundeskanzleramt.
 
@@ -353,8 +329,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 2. die grobe Struktur der Inhalte der Lehrgänge der fachtheoretischen Ausbildung.
 
-
-## § 21 – Ausbildungsrahmenplan
+# § 21 – Ausbildungsrahmenplan
 
 (1) Die oder der Ausbildungsbeauftragte erstellt im Einvernehmen mit den Einstellungsbehörden und dem Bundessprachenamt einen Ausbildungsrahmenplan. Der Ausbildungsrahmenplan bedarf der Billigung des Bundesministeriums der Verteidigung im Benehmen mit dem Bundeskanzleramt.
 
@@ -370,8 +345,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 5. die Dauer der Ausbildungsabschnitte der praktischen Ausbildung.
 
-
-## § 22 – Ausbildungsplan
+# § 22 – Ausbildungsplan
 
 (1) Vor Beginn der Ausbildung erstellt die oder der Ausbildungsbeauftragte im Einvernehmen mit der jeweiligen Ausbildungsleitung für jede Anwärterin und jeden Anwärter einen individuellen Ausbildungsplan.
 
@@ -385,8 +359,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 (3) Die Anwärterin oder der Anwärter erhält ein Exemplar des Ausbildungsplans.
 
-
-## § 23 – Lehrpläne; Durchführung der Lehrgänge
+# § 23 – Lehrpläne; Durchführung der Lehrgänge
 
 (1) Auf Grundlage des Rahmenlehrplans werden für die Lehrgänge der fachtheoretischen Ausbildung Lehrpläne erstellt.
 
@@ -408,15 +381,13 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 (4) Die Inhalte der Lehrpläne werden von den Verantwortlichen nach Absatz 3 regelmäßig in Abstimmung mit den fachlich zuständigen Stellen auf Aktualität geprüft und an die sich wandelnden Anforderungen an Beamtinnen und Beamte des mittleren technischen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes angepasst.
 
-
-## § 24 – Berufspraktische Fremdsprachenausbildung
+# § 24 – Berufspraktische Fremdsprachenausbildung
 
 (1) Die Inhalte und die Dauer der berufspraktischen Fremdsprachenausbildung nach § 19 Absatz 3 Nummer 1 werden auf der Grundlage des Ausbildungsrahmenplans geregelt.
 
 (2) Die Festlegung der Ausbildungsinhalte und die Durchführung der berufspraktischen Fremdsprachenausbildung obliegt dem Bundessprachenamt.
 
-
-## § 25 – Lehrgang „Grundlagen der Fernmelde- und Elektronischen Aufklärung“
+# § 25 – Lehrgang „Grundlagen der Fernmelde- und Elektronischen Aufklärung“
 
 (1) Im Lehrgang „Grundlagen der Fernmelde- und Elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern die Grundlagen der Organisation der Bundeswehr, der Fernmelde- und Elektronischen Aufklärung sowie des Fernmeldebetriebs vermittelt.
 
@@ -432,8 +403,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 5. ausgewählte Grundlagen der militärischen Sicherheit, im eigenen Tätigkeitsbereich anzuwenden.
 
-
-## § 26 – Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“
+# § 26 – Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“
 
 (1) Im Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung I“ werden den Anwärterinnen und Anwärtern die fachtechnischen Grundlagen der Aufklärung, insbesondere der Nachrichtengewinnung und Nachrichtenbearbeitung bei dem Bundesnachrichtendienst, vermittelt.
 
@@ -447,8 +417,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 4. aktuelle länder- und themenbezogene Aufklärungsschwerpunkte vermittelt.
 
-
-## § 27 – Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“
+# § 27 – Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“
 
 (1) Im Lehrgang „Fachtechnische Grundlagen der Fernmelde- und Elektronischen Aufklärung II“ werden den Anwärterinnen und Anwärtern Grundlagen in den Bereichen RADAR sowie Einsatzgrundsätze und Besonderheiten des Fernmeldebetriebs einschließlich der praktischen Anwendung in der Fernmelde- und Elektronischen Aufklärung der Bundeswehr vermittelt. Die fachspezifischen technischen Kenntnisse nach § 26 werden vertieft. Zudem werden Grundkenntnisse in den Bereichen Sprechfunkaufklärung, Tastfunkaufklärung und elektronische Aufklärung vermittelt.
 
@@ -462,8 +431,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 4. die grundlegenden physikalischen Gesetzmäßigkeiten der Ausbreitung elektromagnetischer Wellen und die Grundlagen der Antennentechnik zu verstehen und zu erläutern.
 
-
-## § 28 – Lehrgang „Elektronische Kampfführung – Grundlagen der Sprechfunkaufklärung“
+# § 28 – Lehrgang „Elektronische Kampfführung – Grundlagen der Sprechfunkaufklärung“
 
 (1) Im Lehrgang „Elektronische Kampfführung – Grundlagen der Sprechfunkaufklärung“ werden den Anwärterinnen und Anwärtern aufbauend auf den bisher erworbenen Kenntnissen der Fernmelde- und Elektronischen Aufklärung weiterführende Fähigkeiten und Fertigkeiten im Bereich der betrieblichen und technischen Grundlagen der Sprechfunkaufklärung vermittelt.
 
@@ -473,15 +441,13 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 2. den Aufbau, die Funktionsweise und die Aufklärung aktueller Übertragungssysteme zu verstehen und zu beschreiben.
 
-
-## § 29 – Lehrgang „Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“
+# § 29 – Lehrgang „Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“
 
 (1) Im Lehrgang „Informationstechnische Systeme der Fernmelde- und Elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern Fähigkeiten und Fertigkeiten für die Nutzung der informationstechnischen Systeme der Fernmelde- und Elektronischen Aufklärung vermittelt.
 
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein, das Wissen zu Aufbau, Funktion und Anwendungsbereiche der informationstechnischen Systeme zu kennen, zu beschreiben und auftragsbezogen anzuwenden.
 
-
-## § 30 – Lehrgang „Elektronische Kampfführung – Grundlagen der elektronischen Aufklärung“
+# § 30 – Lehrgang „Elektronische Kampfführung – Grundlagen der elektronischen Aufklärung“
 
 (1) Im Lehrgang „Elektronische Kampfführung – Grundlagen der elektronischen Aufklärung“ werden den Anwärterinnen und Anwärtern aufbauend auf den bisher erworbenen Kenntnissen der Fernmelde- und Elektronischen Aufklärung weiterführende Fähigkeiten und Fertigkeiten im Bereich der betrieblichen und technischen Grundlagen der elektronischen Aufklärung vermittelt. Die Anwärterinnen und Anwärter wenden die weiterführenden Fähigkeiten und Fertigkeiten auftragsbezogen an.
 
@@ -495,15 +461,13 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 4. typische Verfahren zur analogen und digitalen Signalverarbeitung anzuwenden.
 
-
-## § 31 – Lehrgang „Elektronische Kampfführung – Grundlagen der Tastfunkaufklärung“
+# § 31 – Lehrgang „Elektronische Kampfführung – Grundlagen der Tastfunkaufklärung“
 
 (1) Den Anwärterinnen und Anwärtern werden, aufbauend auf den bisher erworbenen fachlichen Kenntnissen der Fernmelde- und Elektronischen Aufklärung, die betrieblichen und technischen Grundlagen der Tastfunkaufklärung vermittelt.
 
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein, die rechnergestützte Aufnahme von gemischten Buchstaben, Ziffern und Sonderzeichen in Form von Tastfunksignalen in 5er-Gruppen durchzuführen. Das Mindestziel sind acht Wörter pro Minute.
 
-
-## § 32 – Lehrgang „Informationssysteme und Informationsgewinnung“
+# § 32 – Lehrgang „Informationssysteme und Informationsgewinnung“
 
 (1) Den Anwärterinnen und Anwärtern werden die grundlegenden Fähigkeiten und Fertigkeiten der Informationsgewinnung und Recherche, insbesondere in offen zugänglichen Informationsquellen, unter Berücksichtigung der gültigen Rechts- und Weisungslage, unter Nutzung der zur Verfügung stehenden Informationssysteme, auftragsbezogen vermittelt.
 
@@ -517,8 +481,7 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 4. die Verfahren und Methoden der IT-Recherche zu kennen, anzuwenden und die damit gewonnenen Erkenntnisse zu analysieren und bewerten zu können.
 
-
-## § 33 – Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“
+# § 33 – Lehrgang „Grundlagen der Auswertung der Fernmeldeaufklärung“
 
 (1) Den Anwärterinnen und Anwärtern werden, aufbauend auf den bisher erworbenen fachlichen Kenntnissen und Fertigkeiten, grundlegende Auswertefähigkeiten unter Berücksichtigung der Arbeits- und Betriebsabläufe in der Auswertung der Fernmeldeaufklärung vermittelt.
 
@@ -530,15 +493,13 @@ b) mindestens einer erweiterten Sicherheitsüberprüfung unterzogen worden ist u
 
 3. die vermittelten Inhalte sinnvoll miteinander zu verknüpfen und anzuwenden.
 
-
-## § 34 – Lehrgang „Technische Aufklärung“
+# § 34 – Lehrgang „Technische Aufklärung“
 
 (1) Die Anwärterinnen und Anwärter vertiefen die in der Ausbildung vermittelten Fähigkeiten und Fertigkeiten und erwerben weiterführende Kenntnisse in der technischen Aufklärung.
 
 (2) Die Anwärterinnen und Anwärter sollen in der Lage sein, alle in den Lehrgängen nach den §§ 25 bis 33 vermittelten sowie in diesem Lehrgang vertieften Inhalte zu beschreiben und sicher anzuwenden.
 
-
-## § 35 – Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
+# § 35 – Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“
 
 Die Anwärterinnen und Anwärter werden vertraut gemacht mit
 
@@ -546,8 +507,7 @@ Die Anwärterinnen und Anwärter werden vertraut gemacht mit
 
 2. den für ihre spätere Aufgabenwahrnehmung notwendigen spezialgesetzlichen Bestimmungen und Verwaltungsvorschriften.
 
-
-## § 36 – Berufspraktische Fremdsprachenausbildung
+# § 36 – Berufspraktische Fremdsprachenausbildung
 
 (1) In der berufspraktischen Fremdsprachenausbildung erwerben die Anwärterinnen und Anwärter die für die Aufgabenwahrnehmung erforderliche Kommunikationsfähigkeit in der englischen Sprache.
 
@@ -559,8 +519,7 @@ Die Anwärterinnen und Anwärter werden vertraut gemacht mit
 
 (5) Für den Fall, dass eine Anwärterin oder ein Anwärter bereits zu Beginn der Sprachausbildung das Standardisierte Leistungsprofil 2221 oder höher erwerben kann, hat sie oder er die Sprachausbildung in der Fremdsprache Französisch mit dem Ziel des Standardisierten Leistungsprofils 111X durchzuführen.
 
-
-## § 37 – Praktische Ausbildung
+# § 37 – Praktische Ausbildung
 
 (1) In der praktischen Ausbildung werden die Anwärterinnen und Anwärter vertraut gemacht mit
 
@@ -578,8 +537,7 @@ Die Anwärterinnen und Anwärter vertiefen die in der bisherigen fachtheoretisch
 
 (4) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
-## § 38 – Allgemeines
+# § 38 – Allgemeines
 
 (1) Leistungsnachweise umfassen Klausuren und Leistungstests.
 
@@ -603,8 +561,7 @@ Die Anwärterinnen und Anwärter vertiefen die in der bisherigen fachtheoretisch
 
 (6) Für jede Klausur steht den Anwärterinnen und Anwärtern eine Bearbeitungszeit von drei Zeitstunden zur Verfügung.
 
-
-## § 39 – Leistungsnachweise in den Lehrgängen
+# § 39 – Leistungsnachweise in den Lehrgängen
 
 Während der fachtheoretischen Ausbildung haben die Anwärterinnen und Anwärter folgende Leistungsnachweise zu erbringen:
 
@@ -636,8 +593,7 @@ b) zwei praktische Leistungstests an einem computergestützten Arbeitsplatz für
 
 6. im Lehrgang „Rechtsgrundlagen in der Praxis für den mittleren technischen Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes“ zwei Klausuren.
 
-
-## § 40 – Durchführung der Klausuren und Leistungstests
+# § 40 – Durchführung der Klausuren und Leistungstests
 
 (1) Jede Klausur und jeder Leistungstest ist mindestens eine Woche vor der Durchführung anzukündigen.
 
@@ -645,20 +601,17 @@ b) zwei praktische Leistungstests an einem computergestützten Arbeitsplatz für
 
 (3) Spätestens eine Woche vor Beginn der Laufbahnprüfung sollen alle Leistungstests durchgeführt worden sein.
 
-
-## § 41 – Nachholung von Klausuren und Leistungstests
+# § 41 – Nachholung von Klausuren und Leistungstests
 
 (1) Können Anwärterinnen und Anwärter an einer Klausur oder einem Leistungstest nicht teilnehmen und ihn nicht innerhalb des Ausbildungsabschnitts nachholen, erhalten sie Gelegenheit, die Klausur oder den Leistungsnachweis zu einem späteren Zeitpunkt der Ausbildung zu erbringen.
 
 (2) Wird der Leistungsnachweis ohne ausreichende Entschuldigung nicht bis zum ersten Tag der schriftlichen Prüfung der Laufbahnprüfung erbracht, gilt er als mit „ungenügend“ (0 Rangpunkte) bewertet.
 
-
-## § 42 – Zeugnis je Lehrgang
+# § 42 – Zeugnis je Lehrgang
 
 Nach Beendigung jedes Lehrgangs stellt die jeweilige Ausbildungs- oder Lehreinrichtung der Anwärterin oder dem Anwärter ein Zeugnis aus, in dem die Ergebnisse der Leistungsnachweise aufgeführt werden.
 
-
-## § 43 – Zeugnis für die fachtheoretische Ausbildung
+# § 43 – Zeugnis für die fachtheoretische Ausbildung
 
 (1) Nach Beendigung der gesamten fachtheoretischen Ausbildung stellt die oder der Ausbildungsbeauftragte ein zusammenfassendes Zeugnis über die Ergebnisse der einzelnen Leistungsnachweise aus.
 
@@ -668,15 +621,13 @@ Nach Beendigung jedes Lehrgangs stellt die jeweilige Ausbildungs- oder Lehreinri
 
 (4) Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
-## § 44 – Verhinderung, Rücktritt, Säumnis, Täuschungshandlungen und Ordnungsverstöße
+# § 44 – Verhinderung, Rücktritt, Säumnis, Täuschungshandlungen und Ordnungsverstöße
 
 (1) Bei Verhinderung, Rücktritt, Säumnis, Täuschungshandlungen und Ordnungsverstößen gelten die §§ 64 und 65 entsprechend.
 
 (2) Über die Folgen entscheidet die Ausbildungsleitung oder eine von ihr beauftragte Stelle.
 
-
-## § 45 – Sprachprüfung
+# § 45 – Sprachprüfung
 
 (1) Die Sprachprüfung wird am Ende der berufspraktischen Fremdsprachenausbildung durch das Bundessprachenamt durchgeführt.
 
@@ -696,15 +647,13 @@ Nach Beendigung jedes Lehrgangs stellt die jeweilige Ausbildungs- oder Lehreinri
 
 (5) Für die Wiederholung der Sprachprüfung gilt § 67 entsprechend.
 
-
-## § 46 – Bewertungen während der praktischen Ausbildung
+# § 46 – Bewertungen während der praktischen Ausbildung
 
 (1) Für jeden Praktikumsabschnitt, für den im Ausbildungsrahmenplan mindestens vier Wochen vorgesehen sind, erhalten die Anwärterinnen und Anwärter von den Ausbildenden eine schriftliche Bewertung ihrer Leistungen und ihres Befähigungsstandes nach § 66.
 
 (2) Der Entwurf der Bewertung wird mit den Anwärterinnen und Anwärtern besprochen. Sie ist ihnen zu eröffnen. Die Anwärterinnen und Anwärter können zur Bewertung schriftlich Stellung nehmen.
 
-
-## § 47 – Zeugnis
+# § 47 – Zeugnis
 
 (1) Nach Beendigung der gesamten berufspraktischen Ausbildung stellt die oder der Ausbildungsbeauftragte ein zusammenfassendes Zeugnis aus, in dem die Ergebnisse der einzelnen Ausbildungsabschnitte und die Durchschnittsrangpunktzahl aufgeführt werden.
 
@@ -712,22 +661,19 @@ Nach Beendigung jedes Lehrgangs stellt die jeweilige Ausbildungs- oder Lehreinri
 
 (3) Die Anwärterinnen und Anwärter erhalten eine Ausfertigung des Zeugnisses.
 
-
-## § 48 – Zweck und Inhalt
+# § 48 – Zweck und Inhalt
 
 (1) Die Anwärterinnen und Anwärter sollen nachweisen, dass sie das erforderliche Wissen und Fachkönnen erworben haben und fähig sind, die Dienstgeschäfte ihrer Laufbahn ordnungsgemäß wahrzunehmen.
 
 (2) Die Laufbahnprüfung ist an den Lernzielen der Ausbildungsabschnitte auszurichten.
 
-
-## § 49 – Zulassung
+# § 49 – Zulassung
 
 (1) Zur Laufbahnprüfung ist zugelassen, wer die Lernziele der Ausbildungsabschnitte erreicht hat.
 
 (2) Aus dem Ausbildungsabschnitt berufspraktische Fremdsprachenausbildung ist nur die Sprachleistung in Englisch für die Zulassung heranzuziehen.
 
-
-## § 50 – Bestandteile
+# § 50 – Bestandteile
 
 Die Laufbahnprüfung besteht aus
 
@@ -735,8 +681,7 @@ Die Laufbahnprüfung besteht aus
 
 2. einer mündlichen Prüfung.
 
-
-## § 51 – Prüfungsamt
+# § 51 – Prüfungsamt
 
 (1) Beim Bildungszentrum der Bundeswehr wird ein Prüfungsamt eingerichtet.
 
@@ -750,8 +695,7 @@ Die Laufbahnprüfung besteht aus
 
 (3) Das Prüfungsamt kann einzelne Aufgaben auf andere Dienststellen übertragen.
 
-
-## § 52 – Einrichtung von Prüfungskommissionen
+# § 52 – Einrichtung von Prüfungskommissionen
 
 (1) Das Prüfungsamt richtet für jeden Teil der Laufbahnprüfung mindestens eine Prüfungskommission ein.
 
@@ -759,8 +703,7 @@ Die Laufbahnprüfung besteht aus
 
 (3) Werden für einen Teil der Laufbahnprüfung mehrere Prüfungskommissionen eingerichtet, kann das Prüfungsamt eine Beamtin oder einen Beamten des höheren oder gehobenen Dienstes mit der Leitung dieses Teils der Prüfung beauftragen.
 
-
-## § 53 – Mitglieder der Prüfungskommissionen
+# § 53 – Mitglieder der Prüfungskommissionen
 
 (1) Mitglieder einer Prüfungskommission für die Bewertung der schriftlichen Prüfung sind
 
@@ -794,8 +737,7 @@ Wird mit dem Vorsitz der mündlichen Prüfung eine Beamtin oder ein Beamter des 
 
 (5) Die Mitglieder der Prüfungskommissionen werden vom Prüfungsamt bestellt. Die Spitzenorganisationen der Gewerkschaften und der Berufsverbände des öffentlichen Dienstes können Mitglieder vorschlagen. Die Mitglieder werden für die Dauer von höchstens fünf Jahren bestellt. Wiederbestellung ist zulässig.
 
-
-## § 54 – Entscheidungen der Prüfungskommission
+# § 54 – Entscheidungen der Prüfungskommission
 
 (1) Die Mitglieder der Prüfungskommissionen sind bei ihrer Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
 
@@ -805,8 +747,7 @@ Wird mit dem Vorsitz der mündlichen Prüfung eine Beamtin oder ein Beamter des 
 
 (4) Die Prüfungskommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 55 – Nichtöffentlichkeit der Laufbahnprüfung
+# § 55 – Nichtöffentlichkeit der Laufbahnprüfung
 
 (1) Die Laufbahnprüfung ist nicht öffentlich.
 
@@ -818,15 +759,13 @@ Wird mit dem Vorsitz der mündlichen Prüfung eine Beamtin oder ein Beamter des 
 
 (5) Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission anwesend sein. Die Aufsichtsbefugnisse des Prüfungsamts und des Bundesministeriums der Verteidigung bleiben unberührt.
 
-
-## § 56 – Prüfungsort und Prüfungstermin
+# § 56 – Prüfungsort und Prüfungstermin
 
 (1) Das Prüfungsamt setzt Ort und Zeit der schriftlichen Prüfung und der mündlichen Prüfung fest und teilt sie den Anwärterinnen und Anwärtern rechtzeitig mit.
 
 (2) Die schriftliche Prüfung soll spätestens eine Woche vor Beginn der mündlichen Prüfung abgeschlossen sein.
 
-
-## § 57 – Schriftliche Prüfung
+# § 57 – Schriftliche Prüfung
 
 (1) In der schriftlichen Prüfung sollen die Anwärterinnen und Anwärter zeigen, dass sie die Aufgaben im Bereich des mittleren technischen Dienstes der Fernmelde- und Elektronischen Aufklärung des Bundes rasch und sicher erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen können.
 
@@ -844,8 +783,7 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (5) Die Vorschläge und die Aufgaben unterliegen der Verschwiegenheitspflicht und sind bis zum Beginn der jeweiligen Prüfung unter Verschluss zu halten.
 
-
-## § 58 – Durchführung der schriftlichen Prüfung
+# § 58 – Durchführung der schriftlichen Prüfung
 
 (1) Die Klausuren werden unter Aufsicht geschrieben. Die Aufsichtführenden haben an jedem Prüfungstag ein Protokoll anzufertigen, in dem für jede Anwärterin und jeden Anwärter der Beginn der Bearbeitung der Klausur und die Abgabe der Klausur sowie etwaige Unterbrechungen, in Anspruch genommene Prüfungserleichterungen und besondere Vorkommnisse enthalten sind.
 
@@ -855,8 +793,7 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (4) Die Klausuren werden anstelle des Namens mit einer Kennziffer versehen. Es wird eine Übersicht mit der Zuordnung der Kennziffern und Namen erstellt. Diese Übersicht darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
-
-## § 59 – Bewertung und Bestehen der schriftlichen Prüfung
+# § 59 – Bewertung und Bestehen der schriftlichen Prüfung
 
 (1) Jede Klausur wird von zwei Mitgliedern der Prüfungskommission unabhängig voneinander nach § 66 bewertet. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben. Sollte bei abweichender Bewertung keine Einigung erzielt werden, gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
@@ -872,8 +809,7 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (5) Die Durchschnittsrangpunktzahl errechnet sich aus der Summe der Rangpunkte in den einzelnen Klausuren, geteilt durch die Anzahl der Klausuren.
 
-
-## § 60 – Zulassung zur mündlichen Prüfung
+# § 60 – Zulassung zur mündlichen Prüfung
 
 (1) Zur mündlichen Prüfung wird zugelassen, wer die schriftliche Prüfung bestanden hat. Über die Zulassung entscheidet das Prüfungsamt oder eine vom Prüfungsamt beauftragte Person.
 
@@ -881,15 +817,13 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (3) Der Bescheid über die Nichtzulassung zur mündlichen Prüfung bedarf der Schriftform. Er ist nach § 37 Absatz 6 des Verwaltungsverfahrensgesetzes mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 61 – Gegenstand der mündlichen Prüfung
+# § 61 – Gegenstand der mündlichen Prüfung
 
 (1) Die mündliche Prüfung besteht aus einem Prüfungsgespräch.
 
 (2) Das Prüfungsgespräch erstreckt sich auf unterschiedliche inhaltliche Schwerpunkte der Ausbildungsabschnitte nach § 19 Absatz 2 Nummer 1 bis 11 und Absatz 3 Nummer 2. Die Prüfungskommission wählt den Prüfungsstoff insbesondere aus den Lehrinhalten der fachtheoretischen Lehrgänge nach den §§ 25 bis 35 aus.
 
-
-## § 62 – Durchführung der mündlichen Prüfung
+# § 62 – Durchführung der mündlichen Prüfung
 
 (1) Die mündliche Prüfung wird als Gruppenprüfung durchgeführt. In einer Gruppe sollen nicht mehr als vier Anwärterinnen und Anwärter geprüft werden.
 
@@ -899,8 +833,7 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (4) Über die mündliche Prüfung ist ein Protokoll anzufertigen, aus dem Gegenstand, Ablauf und Ergebnis der Prüfung je Anwärterin und je Anwärter hervorgehen.
 
-
-## § 63 – Bewertung und Bestehen der mündlichen Prüfung
+# § 63 – Bewertung und Bestehen der mündlichen Prüfung
 
 (1) Das Prüfungsgespräch wird von der Prüfungskommission nach § 66 mit Rangpunkten bewertet. Die Prüfenden schlagen jeweils die Bewertung für den von ihnen im Prüfungsgespräch geprüften Prüfungsstoff vor.
 
@@ -910,8 +843,7 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (4) Im Anschluss an die mündliche Prüfung teilt die oder der Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die Ergebnisse mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
-
-## § 64 – Verhinderung
+# § 64 – Verhinderung
 
 (1) Sind Anwärterinnen und Anwärter an der Erbringung einer Prüfungsleistung ganz oder teilweise gehindert, so können sie beim Prüfungsamt beantragen, dass die Verhinderung genehmigt wird.
 
@@ -921,8 +853,7 @@ Bei den Klausuren nach Satz 1 Nummer 2 ist die Zusammenfassung von Lehrinhalten 
 
 (4) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der Verhinderung als Bearbeitungszeit. Wird in diesem Fall gar keine Prüfungsleistung erbracht, so gilt die Prüfungsleistung als mit null Rangpunkten bewertet.
 
-
-## § 65 – Täuschungen und sonstige Ordnungsverstöße
+# § 65 – Täuschungen und sonstige Ordnungsverstöße
 
 (1) Anwärterinnen oder Anwärtern, die bei einer Klausur oder in der mündlichen Prüfung täuschen, eine Täuschung versuchen, an einer Täuschung oder einem Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt der Entscheidung des Prüfungsamts gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der betreffenden Prüfung oder dem betreffenden Prüfungsteil ausgeschlossen werden.
 
@@ -942,8 +873,7 @@ Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 66 – Bewertung der Leistungen
+# § 66 – Bewertung der Leistungen
 
 (1) Die Leistungen werden wie folgt bewertet:
 
@@ -1051,8 +981,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Zusammengefasste Bewertungen und Durchschnittsrangpunktzahlen werden, soweit nichts anderes bestimmt ist, auf zwei Dezimalstellen ohne Rundung berechnet.
 
-
-## § 67 – Wiederholung
+# § 67 – Wiederholung
 
 (1) Die Laufbahnprüfung kann bei Nichtbestehen einmal wiederholt werden. In begründeten Einzelfällen kann das Bundesministerium der Verteidigung eine zweite Wiederholung zulassen. Die Laufbahnprüfung ist vollständig zu wiederholen.
 
@@ -1060,8 +989,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen.
 
-
-## § 68 – Bestehen der Laufbahnprüfung und Abschlussnote
+# § 68 – Bestehen der Laufbahnprüfung und Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -1089,8 +1017,7 @@ Für die Festsetzung der Abschlussnote wird die Rangpunktzahl der Laufbahnprüfu
 
 (6) Durch das Bestehen der Laufbahnprüfung erlangen die Anwärterinnen und Anwärter die Befähigung für die Laufbahn des mittleren technischen Verwaltungsdienstes des Bundes.
 
-
-## § 69 – Abschlusszeugnis
+# § 69 – Abschlusszeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die Laufbahnprüfung bestanden haben, einen schriftlichen Bescheid über das Gesamtergebnis der Laufbahnprüfung. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
@@ -1108,15 +1035,13 @@ Für die Festsetzung der Abschlussnote wird die Rangpunktzahl der Laufbahnprüfu
 
 (5) Fehlerhafte Abschlusszeugnisse sind dem Prüfungsamt zurückzugeben. Wird eine Prüfung nachträglich für nicht bestanden erklärt (§ 65 Absatz 4 Satz 1), ist das Abschlusszeugnis ebenfalls dem Prüfungsamt zurückzugeben.
 
-
-## § 70 – Mitteilung über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
+# § 70 – Mitteilung über die nichtbestandene Laufbahnprüfung und Dienstzeugnis
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen schriftlichen Bescheid über die nichtbestandene Laufbahnprüfung. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (2) Wer die Laufbahnprüfung endgültig nicht bestanden hat, erhält von der Einstellungsbehörde neben dem Bescheid ein Dienstzeugnis. Im Dienstzeugnis sind die Dauer der Ausbildung und die Ausbildungsinhalte anzugeben.
 
-
-## § 71 – Prüfungsakten und Einsichtnahme
+# § 71 – Prüfungsakten und Einsichtnahme
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -1136,12 +1061,10 @@ Für die Festsetzung der Abschlussnote wird die Rangpunktzahl der Laufbahnprüfu
 
 (3) Die Betroffenen können auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
-
-## § 72 – Übergangsvorschrift
+# § 72 – Übergangsvorschrift
 
 Für Anwärterinnen und Anwärter, die bis zum 29. Februar 2020 mit dem Vorbereitungsdienst für den mittleren Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes vom 20. Februar 2002 (BGBl. I S. 935), die zuletzt durch Artikel 19 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, weiter anzuwenden.
 
-
-## § 73 – Inkrafttreten, Außerkrafttreten
+# § 73 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. März 2020 in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst der Fernmelde- und Elektronischen Aufklärung des Bundes vom 20. Februar 2002 (BGBl. I S. 935), die zuletzt durch Artikel 19 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist, außer Kraft.

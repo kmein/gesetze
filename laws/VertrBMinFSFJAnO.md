@@ -1,29 +1,22 @@
-# [VertrBMinFSFJAnO] Anordnung über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
-
-Ausfertigungsdatum: 22.09.1997
-
+% Anordnung über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend
+% Ausfertigungsdatum: 22.09.1997
  
-
-## I.
+# I.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes übertrage ich die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis, soweit die Klagen Beamtinnen beziehungsweise Beamte der Besoldungsgruppen A 1 bis A 15 der Bundesbesoldungsordnung und entsprechende Beamtinnen und Beamte bis zur Anstellung betreffen, dem Bundesamt für den Zivildienst.
 
-
-## II.
+# II.
 
 In begründeten Fällen behalte ich mir die Vertretung bei den in Ziffer I bezeichneten Klagen vor.
 
-
-## III.
+# III.
 
 Diese Anordnung findet keine Anwendung auf Klagen, die vor Inkrafttreten dieser Anordnung erhoben worden sind.
 
-
-## IV.
+# IV.
 
 Diese Anordnung tritt am 1. Oktober 1997 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Bundesministerium für Familie, Senioren, Frauen und Jugend

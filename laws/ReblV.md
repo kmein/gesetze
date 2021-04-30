@@ -1,20 +1,15 @@
-# [ReblV] Verordnung zur Bekämpfung der Reblaus  (Reblausverordnung)
-
-Ausfertigungsdatum: 27.07.1988
-
+% Verordnung zur Bekämpfung der Reblaus  (Reblausverordnung)
+% Ausfertigungsdatum: 27.07.1988
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Satz 1 in Verbindung mit § 3 Abs. 1 Nr. 1, 2, 3, 6, 11 Buchstabe a, Nr. 12, 13 und 14 des Pflanzenschutzgesetzes vom 15. September 1986 (BGBl. I S. 1505) wird verordnet:
 
-
-## § 1 – Anzeigepflicht
+# § 1 – Anzeigepflicht
 
 Verfügungsberechtigte und Besitzer von Reben sind verpflichtet, der zuständigen Behörde das Auftreten und den Verdacht des Auftretens der Reblaus unter Angabe des Standorts der Reben unverzüglich anzuzeigen.
 
-
-## § 2 – Bekämpfungspflicht
+# § 2 – Bekämpfungspflicht
 
 Verfügungsberechtigte und Besitzer sind verpflichtet, soweit die zuständige Behörde es zur Bekämpfung der Reblaus anordnet,
 
@@ -30,15 +25,13 @@ Verfügungsberechtigte und Besitzer sind verpflichtet, soweit die zuständige Be
 
 6. die Reblaus auf andere Weise zu bekämpfen oder bekämpfen zu lassen.
 
-
-## § 3 – Verkehr mit Pflanzgut von Rebe
+# § 3 – Verkehr mit Pflanzgut von Rebe
 
 (1) Aus von der Reblaus befallenen Gemeinden und Ortsteilen darf bewurzeltes Pflanzgut von Rebe in von der Reblaus nicht befallene Gemeinden und Ortsteile nur verbracht werden, wenn es wirksam entseucht worden ist und die zuständige Behörde die Entseuchung bescheinigt hat.
 
 (2) Die weinbautreibenden Länder geben die nicht von der Reblaus befallenen Gemeinden und Ortsteile des Weinanbaugebietes im Bundesanzeiger bekannt.
 
-
-## § 4 – Beschränkung des Anbaus von Wurzelreben
+# § 4 – Beschränkung des Anbaus von Wurzelreben
 
 (1) In von der Reblaus befallenen Gemeinden und Ortsteilen dürfen nur Wurzelreben, die nicht für die Wurzelreblaus anfällig sind, angebaut werden.
 
@@ -56,27 +49,23 @@ auf den Befall durch diesen Schadorganismus keine oder gegenüber dem Leitbünde
 
 2. für wissenschaftliche Untersuchungen und Versuche und für Züchtungsvorhaben Ausnahmen von dieser Beschränkung zulassen, soweit hierdurch die Bekämpfung der Reblaus nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung entsteht.
 
-
-## § 5 – Verbot des Züchtens und Haltens
+# § 5 – Verbot des Züchtens und Haltens
 
 (1) Das Züchten und das Halten der Reblaus sowie das Arbeiten mit diesem Schadorganismus sind verboten.
 
 (2) Die zuständige Behörde kann in Einzelfall für wissenschaftliche Untersuchungen und Versuche und für Züchtungsvorhaben Ausnahmen von diesem Verbot genehmigen, soweit hierdurch die Bekämpfung der Reblaus nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung entsteht.
 
-
-## § 6 – Länderbefugnisse
+# § 6 – Länderbefugnisse
 
 Unberührt bleiben die Befugnisse der Länder nach § 3 Abs. 3 und § 42 Satz 2 Nr. 1 des Pflanzenschutzgesetzes, weitergehende Regelungen zur Bekämpfung der Reblaus zu treffen.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 1 die Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
-1a.  
-einer vollziehbaren Anordnung nach § 2 oder § 4 Absatz 3 Nummer 1 zuwiderhandelt,
+1a. einer vollziehbaren Anordnung nach § 2 oder § 4 Absatz 3 Nummer 1 zuwiderhandelt,
 
 2. entgegen § 3 Abs. 1 Pflanzgut von Rebe in eine nicht befallene Gemeinde oder einen nicht befallenen Ortsteil verbringt,
 
@@ -86,12 +75,10 @@ einer vollziehbaren Anordnung nach § 2 oder § 4 Absatz 3 Nummer 1 zuwiderhande
 
 5. einer mit einer Genehmigung nach § 5 Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

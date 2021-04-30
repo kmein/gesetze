@@ -1,20 +1,15 @@
-# [BootsbMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Boots- und Schiffbauer-Handwerk  (Bootsbauermeisterverordnung - BootsbMstrV)
-
-Ausfertigungsdatum: 26.04.2016
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Boots- und Schiffbauer-Handwerk  (Bootsbauermeisterverordnung - BootsbMstrV)
+% Ausfertigungsdatum: 26.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 Absatz 1 der Handwerksordnung, der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im Bootsbauer-Handwerk. Die Meisterprüfung besteht aus vier selbständigen Prüfungsteilen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 Im Bootsbauer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
@@ -64,8 +59,7 @@ c) des Einsatzes von Personal, Material, Maschinen und Geräten sowie der Mögli
 
 20. durchgeführte Leistungen ermitteln, prüfen und dokumentieren, Abnahme durchführen, Leistungen übergeben und abrechnen sowie Nachkalkulationen durchführen und Auftragsabwicklungen auswerten.
 
-
-## § 3 – Ziel und Gliederung des Teils I
+# § 3 – Ziel und Gliederung des Teils I
 
 (1) In der Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei wesentliche Tätigkeiten des Bootsbauer-Handwerks meisterhaft verrichten kann.
 
@@ -75,8 +69,7 @@ c) des Einsatzes von Personal, Material, Maschinen und Geräten sowie der Mögli
 
 2. Durchführung einer Situationsaufgabe.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen an das Meisterprüfungsprojekt werden vom Meisterprüfungsausschuss festgelegt. Hierzu sollen Vorschläge des Prüflings berücksichtigt werden. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept einschließlich einer Zeit-und Materialbedarfsplanung. Das Konzept hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Anforderungen entspricht.
 
@@ -104,8 +97,7 @@ Die durchgeführten Arbeiten sind zu kontrollieren und zu dokumentieren.
 
 3. die Bewertung der Dokumentationsunterlagen, bestehend aus Protokollen und Prüfberichten, mit 10 Prozent.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -117,8 +109,7 @@ Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 4. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen im Bootsbauer-Handwerk zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Bootsbauer-Handwerk. Die Aufgabenstellung wird vom Meisterprüfungsausschuss festgelegt.
 
@@ -130,8 +121,7 @@ Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 3. den Aufriss einer bootsbautypischen Einzelkomponente erstellen und diese Einzelkomponente herstellen.
 
-
-## § 7 – Prüfungsdauer und Bestehen des Teils I
+# § 7 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert acht Arbeitstage. Das Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe höchstens acht Stunden dauern.
 
@@ -139,8 +129,7 @@ Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
 (3) Voraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt mindestens ausreichende Prüfungsleistung, wobei das Meisterprüfungsprojekt, das Fachgespräch und die Situationsaufgabe jeweils mit mindestens 30 Punkten bewertet worden sein müssen.
 
-
-## § 8 – Ziel, Gliederung und Inhalt des Teils II
+# § 8 – Ziel, Gliederung und Inhalt des Teils II
 
 (1) In der Prüfung in Teil II hat der Prüfling in den in Absatz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Bootsbauer-Handwerk zur Lösung komplexer beruflicher Aufgabenstellungen anwenden kann.
 
@@ -212,8 +201,7 @@ g) Konzepte für Betriebsstätten, einschließlich gewerkspezifischer Betriebs- 
 
 h) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen sowie Konsequenzen aufzeigen und bewerten, insbesondere für die betriebsinterne Organisation sowie für das betriebliche Personalwesen.
 
-
-## § 9 – Prüfungsdauer und Bestehen des Teils II
+# § 9 – Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen. Sie dauert in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden an einem Tag darf nicht überschritten werden.
 
@@ -227,15 +215,13 @@ h) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen sowie 
 
 2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder mit jeweils weniger als 50 Punkten bewertet worden sind.
 
-
-## § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 (1) Die bis zum 31. August 2016 begonnenen Meisterprüfungsverfahren im Bootsbauer-Handwerk werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Meisterprüfung im Bootsbauer-Handwerk bis zum Ablauf des 28. Februar 2017, so sind auf Verlangen des Prüflings die bis zum 31. August 2016 geltenden Vorschriften weiter anzuwenden.
 
@@ -243,7 +229,6 @@ h) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen sowie 
 
 (3) Prüflinge, die die Meisterprüfung im Schiffbauer-Handwerk nach den bis zum 31. August 2021 geltenden Vorschriften nicht bestanden haben und sich bis zum 31. August 2023 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum 31. August 2021 geltenden Vorschriften ablegen.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Die Bootsbauermeisterverordnung tritt am 1. September 2016 in Kraft. Gleichzeitig tritt die Bootsbauermeisterverordnung vom 25. August 1992 (BGBl. I S. 1582) außer Kraft. Die Schiffbauermeisterverordnung vom 18. September 1996 (BGBl. I S. 1480) tritt am 31. August 2021 außer Kraft.

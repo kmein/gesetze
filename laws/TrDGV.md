@@ -1,15 +1,11 @@
-# [TrDGV] Truppendienstgerichte-Verordnung  (TrDGV)
-
-Ausfertigungsdatum: 01.07.2020
-
+% Truppendienstgerichte-Verordnung  (TrDGV)
+% Ausfertigungsdatum: 01.07.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 69 Absatz 1 und 2 Satz 2 der Wehrdisziplinarordnung vom 16. August 2001 (BGBl. I S. 2093) verordnet das Bundesministerium der Verteidigung:
 
-
-## § 1 – Truppendienstgerichte
+# § 1 – Truppendienstgerichte
 
 Truppendienstgerichte sind
 
@@ -17,8 +13,7 @@ Truppendienstgerichte sind
 
 2. das Truppendienstgericht Süd mit Sitz in München.
 
-
-## § 2 – Dienstbereiche der Truppendienstgerichte
+# § 2 – Dienstbereiche der Truppendienstgerichte
 
 (1) Der Dienstbereich des Truppendienstgerichts Nord umfasst
 
@@ -68,8 +63,7 @@ i) im Ausland;
 
 2. die Truppenteile und Dienststellen, die sich vorübergehend im Ausland befinden, mit Ausnahme der Schiffe und Boote im Geschäftsbereich des Bundesministeriums der Verteidigung.
 
-
-## § 3 – Auswärtige Truppendienstkammern
+# § 3 – Auswärtige Truppendienstkammern
 
 Neben den Truppendienstkammern an den Sitzen der Truppendienstgerichte bestehen als auswärtige Truppendienstkammern
 
@@ -89,7 +83,6 @@ b) zwei Truppendienstkammern mit Sitz in Erfurt und
 
 c) eine Truppendienstkammer mit Sitz in Potsdam.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten die Errichtungsverordnung vom 16. Mai 2006 (BGBl. I S. 1262), die durch § 5 Satz 2 der Verordnung vom 15. August 2012 (BGBl. I S. 1714) geändert worden ist, und die Truppendienstgerichte-Verordnung vom 15. August 2012 (BGBl. I S. 1714) außer Kraft.

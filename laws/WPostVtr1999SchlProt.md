@@ -1,5 +1,3 @@
-# [WPostVtr1999SchlProt] Schlussprotokoll zum Weltpostvertrag
-
-Ausfertigungsdatum: 15.09.1999
-
+% Schlussprotokoll zum Weltpostvertrag
+% Ausfertigungsdatum: 15.09.1999
  

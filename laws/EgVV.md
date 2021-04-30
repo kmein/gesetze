@@ -1,15 +1,11 @@
-# [EgVV] Verordnung über die Erstellung der gesamtwirtschaftlichen Vorausschätzungen der Bundesregierung  (Vorausschätzungsverordnung - EgVV)
-
-Ausfertigungsdatum: 04.09.2017
-
+% Verordnung über die Erstellung der gesamtwirtschaftlichen Vorausschätzungen der Bundesregierung  (Vorausschätzungsverordnung - EgVV)
+% Ausfertigungsdatum: 04.09.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Satz 3 des Vorausschätzungsgesetzes vom 27. Juni 2017 (BGBl. I S. 2080) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Unabhängige Einrichtung
+# § 1 – Unabhängige Einrichtung
 
 (1) Unabhängige Einrichtung im Sinne des § 3 Satz 1 des Vorausschätzungsgesetzes ist die Projektgruppe Gemeinschaftsdiagnose (Gemeinschaftsdiagnose).
 
@@ -21,8 +17,7 @@ Auf Grund des § 3 Satz 3 des Vorausschätzungsgesetzes vom 27. Juni 2017 (BGBl.
 
 (5) Die Gemeinschaftsdiagnose kann ein ständiges Sekretariat als Kontaktstelle und einen eigenen Internetauftritt einrichten.
 
-
-## § 2 – Befürwortungsverfahren
+# § 2 – Befürwortungsverfahren
 
 (1) Das Bundesministerium für Wirtschaft und Energie legt der Gemeinschaftsdiagnose den Entwurf einer dem Befürwortungsverfahren unterliegenden Vorausschätzung nach dem Muster der Anlage vor.
 
@@ -32,30 +27,25 @@ Auf Grund des § 3 Satz 3 des Vorausschätzungsgesetzes vom 27. Juni 2017 (BGBl.
 
 (4) Die Gemeinschaftsdiagnose teilt dem Bundesministerium für Wirtschaft und Energie innerhalb eines Arbeitstages nach Erhalt des überarbeiteten Entwurfs nach Absatz 3 Satz 3 mit, ob sie diesen überarbeiteten Entwurf befürwortet. Falls die Gemeinschaftsdiagnose den überarbeiteten Entwurf nicht befürwortet, teilt sie dem Bundesministerium für Wirtschaft und Energie zudem schriftlich ihre Gründe mit.
 
-
-## § 3 – Zugang zu Informationen; Verschwiegenheit
+# § 3 – Zugang zu Informationen; Verschwiegenheit
 
 (1) Das Bundesministerium für Wirtschaft und Energie gewährt der Gemeinschaftsdiagnose den zur Durchführung des Befürwortungsverfahrens erforderlichen Zugang zu Informationen.
 
 (2) Die Mitglieder der Gemeinschaftsdiagnose gewährleisten die Verschwiegenheit ihrer mit dem Befürwortungsverfahren befassten Mitarbeiterinnen und Mitarbeiter über den Inhalt von Beratungen im Zusammenhang mit dem Befürwortungsverfahren und über die ihnen im Zusammenhang mit dem Befürwortungsverfahren zur Verfügung gestellten Informationen.
 
-
-## § 4 – Öffentliche Stellungnahmen
+# § 4 – Öffentliche Stellungnahmen
 
 Die Gemeinschaftsdiagnose kann das Ergebnis ihrer Prüfung veröffentlichen, allerdings nicht vor Veröffentlichung der Vorausschätzung durch die Bundesregierung. Im Übrigen steht die Veröffentlichung von Informationen im Zusammenhang mit dem Befürwortungsverfahren im Ermessen des Bundesministeriums für Wirtschaft und Energie.
 
-
-## § 5 – Übergangsvorschrift
+# § 5 – Übergangsvorschrift
 
 Ab dem 1. Juli 2018 setzt sich die Gemeinschaftsdiagnose bis zum Ende der jeweiligen Vertragslaufzeit aus denjenigen Wirtschaftsforschungseinrichtungen zusammen, die zu diesem Tag mit der Erstellung der in § 1 Absatz 2 Satz 3 bezeichneten Prognosen beauftragt sind.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2018 in Kraft.
 
-
-## Anlage – (zu § 2 Absatz 1)
+# Anlage – (zu § 2 Absatz 1)
 
 (Fundstelle: BGBl. I 2017, 3380 - 3381)
 

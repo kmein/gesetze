@@ -1,10 +1,7 @@
-# [BGA-NachfG] Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes  (BGA-Nachfolgegesetz - BGA-NachfG)
-
-Ausfertigungsdatum: 24.06.1994
-
+% Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes  (BGA-Nachfolgegesetz - BGA-NachfG)
+% Ausfertigungsdatum: 24.06.1994
  
-
-## § 1 – Bundesinstitut für Arzneimittel und Medizinprodukte
+# § 1 – Bundesinstitut für Arzneimittel und Medizinprodukte
 
 (1) Im Geschäftsbereich des Bundesministeriums für Gesundheit wird ein "Bundesinstitut für Arzneimittel und Medizinprodukte" als selbständige Bundesoberbehörde errichtet.
 
@@ -24,8 +21,7 @@ Ausfertigungsdatum: 24.06.1994
 
 6. zentrale Risikoerfassung sowie Durchführung von Maßnahmen zur Risikoabwehr bei Medizinprodukten.
 
-
-## § 2 – Robert Koch-Institut - Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten -
+# § 2 – Robert Koch-Institut - Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten -
 
 (1) Im Geschäftsbereich des Bundesministeriums für Gesundheit wird unter dem Namen "Robert Koch-Institut" ein Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten als selbständige Bundesoberbehörde errichtet.
 
@@ -47,13 +43,11 @@ Ausfertigungsdatum: 24.06.1994
 
 7. gesundheitliche Fragen des Transports gentechnisch veränderter Organismen und Produkte.
 
-
-## § 3
+# § 3
 
 (weggefallen)
 
-
-## § 4 – Aufgabendurchführung
+# § 4 – Aufgabendurchführung
 
 (1) Die Bundesinstitute erledigen im Rahmen der ihnen jeweils durch die §§ 1 und 2 zugewiesenen Tätigkeitsgebiete die Verwaltungsaufgaben des Bundes, die ihnen durch Gesetz oder aufgrund eines Gesetzes zugewiesen werden, und unterstützen auf diesen Gebieten die zuständigen Bundesministerien.
 
@@ -63,13 +57,11 @@ Ausfertigungsdatum: 24.06.1994
 
 (4) Die Bundesinstitute informieren im Rahmen ihrer Zuständigkeit die Öffentlichkeit.
 
-
-## § 5 – Fachaufsicht
+# § 5 – Fachaufsicht
 
 Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums, zu dessen Geschäftsbereich sie gehören, wahrnehmen, unterstehen sie den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-
-## § 6 – Gebühren- und Auslagenerhebung
+# § 6 – Gebühren- und Auslagenerhebung
 
 (1) Für individuell zurechenbare öffentliche Leistungen, insbesondere für Genehmigungen, Eintragungen, Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesinstitutes für Arzneimittel und Medizinprodukte und des Robert Koch-Institutes, werden Gebühren und Auslagen erhoben. Spezielle gesetzliche Gebührenregelungen bleiben unberührt.
 
@@ -77,12 +69,10 @@ Soweit die Bundesinstitute Aufgaben aus einem anderen Geschäftsbereich als dem 
 
 (3) (weggefallen)
 
-
-## § 7 – Übernahme der Beamten und Arbeitnehmer
+# § 7 – Übernahme der Beamten und Arbeitnehmer
 
 Beamte und Arbeitnehmer des Bundesgesundheitsamtes, die zum Zeitpunkt der Errichtung der in den §§ 1 und 2 genannten Bundesinstitute Aufgaben wahrnehmen, die nach diesen Vorschriften den Bundesinstituten obliegen, sind vom selben Zeitpunkt an Beamte und Arbeitnehmer des zuständigen Bundesinstitutes.
 
-
-## § 8 – Übergangsvorschriften aus Anlass der Auflösung des Deutschen Instituts für Medizinische Dokumentation und Information
+# § 8 – Übergangsvorschriften aus Anlass der Auflösung des Deutschen Instituts für Medizinische Dokumentation und Information
 
 Abweichend von § 27 Absatz 2 Nummer 1 auch in Verbindung mit § 60 Absatz 2 Satz 3 des Bundespersonalvertretungsgesetzes finden im Bundesinstitut für Arzneimittel und Medizinprodukte spätestens am 26. November 2020 Neuwahlen des Personalrats sowie der Jugend- und Auszubildendenvertretung statt.

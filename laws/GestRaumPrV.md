@@ -1,15 +1,11 @@
-# [GestRaumPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
-
-Ausfertigungsdatum: 17.01.2006
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
+% Ausfertigungsdatum: 17.01.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 2 Nr. 17 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, in Verbindung mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Gestaltungsberater im Raumausstatter-Handwerk/zur Geprüften Gestaltungsberaterin im Raumausstatter-Handwerk nach den §§ 2 bis 6 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -31,8 +27,7 @@ Auf Grund des § 42 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der 
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -46,8 +41,7 @@ Die Berufspraxis soll wesentliche Bezüge zu den Aufgaben eines Gestaltungsberat
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung, Struktur und integrierte Durchführung der Prüfung
+# § 3 – Gliederung, Struktur und integrierte Durchführung der Prüfung
 
 (1) Die Prüfung ist in den Handlungsbereichen "Beratung und Gestaltung" sowie "Auftragsvorbereitung und Projektplanung" handlungsorientiert und praxisbezogen durchzuführen.
 
@@ -61,8 +55,7 @@ Die Berufspraxis soll wesentliche Bezüge zu den Aufgaben eines Gestaltungsberat
 
 Grundlage des Fachgesprächs sind die Ergebnisse der schriftlich bearbeiteten Situationsaufgaben. Es soll der mündlichen Erläuterung der Problemlösungen dieser Situationsaufgaben dienen. Im Fachgespräch soll die Fähigkeit nachgewiesen werden, betriebliche Aufgaben zu analysieren, zu strukturieren und einer begründeten Lösung zuführen zu können. Die Prüfungsdauer der Situationsaufgabe gemäß Nummer 1 beträgt mindestens 180 und höchstens 210 Minuten, der Situationsaufgabe gemäß Nummer 2 mindestens 120 und höchstens 150 Minuten und des situationsbezogenen Fachgesprächs höchstens 30 Minuten. Den beiden schriftlichen Situationsaufgaben soll derselbe Kundenauftrag zugrunde liegen.
 
-
-## § 4 – Prüfungsinhalte
+# § 4 – Prüfungsinhalte
 
 (1) Den Handlungsbereichen sind folgende Qualifikationsschwerpunkte zugeordnet:
 
@@ -146,15 +139,13 @@ d) Marketing.
 
 2. Konzepte entwickeln, umsetzen und bewerten.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese Prüfungsbereiche für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbereiche erhöhen sich die Anteile nach § 7 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbereiche sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -168,8 +159,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -187,8 +177,7 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -202,29 +191,25 @@ Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der A
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2166 - 2167)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2167)
 

@@ -1,15 +1,11 @@
-# [WasSiG] Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft für Zwecke der Verteidigung  (Wassersicherstellungsgesetz)
-
-Ausfertigungsdatum: 24.08.1965
-
+% Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der Wasserwirtschaft für Zwecke der Verteidigung  (Wassersicherstellungsgesetz)
+% Ausfertigungsdatum: 24.08.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Um zur Versorgung oder zum Schutz der Zivilbevölkerung und der Streitkräfte
 
@@ -31,8 +27,7 @@ im Verteidigungsfall sicherstellen zu können, sind auf dem Gebiet der Wasserwir
 
 (3) Die Vorschriften des Gesetzes über bauliche Maßnahmen zum Schutz der Zivilbevölkerung (Schutzbaugesetz) vom 9. September 1965 (Bundesgesetzbl. I S. 1232) bleiben unberührt.
 
-
-## § 2 – Verpflichtung zu Maßnahmen der Vorsorge
+# § 2 – Verpflichtung zu Maßnahmen der Vorsorge
 
 (1) Für Zwecke des § 1 können verpflichtet werden
 
@@ -56,8 +51,7 @@ soweit dies als Vorsorge für den Verteidigungsfall neben den vorhandenen Anlage
 
 (3) Ist in den Fällen des Absatzes 1 Nr. 1 bis 5 oder des Absatzes 2 Satz 2 der Inhaber nicht der Eigentümer oder Besitzer der Anlage oder des zu der Anlage gehörenden Grundstücks oder hat eine andere Person ein Recht an der Anlage oder dem Grundstück, so kann der Eigentümer, der Besitzer oder die andere Person zur Duldung der Maßnahme verpflichtet werden. Ist in den Fällen des Absatzes 1 Nr. 6 der Inhaber des Betriebes oder der Anstalt nicht der Eigentümer oder Besitzer des zum Betrieb oder der Anstalt gehörenden Grundstücks oder hat eine andere Person ein Recht an dem Grundstück, so kann der Eigentümer, der Besitzer oder die andere Person zur Duldung der Maßnahme verpflichtet werden.
 
-
-## § 3 – Rechtsverordnungen
+# § 3 – Rechtsverordnungen
 
 Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften erlassen über
 
@@ -67,8 +61,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates n
 
 3. die technischen Anforderungen, denen Anlagen, zu deren Bau oder Umbau nach § 2 Abs. 1 verpflichtet werden kann, genügen müssen.
 
-
-## § 4 – Planung der Maßnahmen
+# § 4 – Planung der Maßnahmen
 
 (1) Die Landkreise und die kreisfreien Städte planen die Maßnahmen der Vorsorge (§ 2 Abs. 1), die zur Erfüllung der in § 1 Abs. 1 genannten Zwecke für ihren Bereich erforderlich sind.
 
@@ -78,8 +71,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates n
 
 (4) Die zuständige Behörde setzt eine Frist, in der ihr der Plan vorzulegen ist, und prüft den Plan.
 
-
-## § 5 – Entscheidung über die Leistungspflicht
+# § 5 – Entscheidung über die Leistungspflicht
 
 (1) Die zuständige Behörde bestimmt Art und Umfang der Leistungspflicht sowie den Leistungspflichtigen durch Verpflichtungsbescheid. Sie kann im Verpflichtungsbescheid Näheres über die Ausführung der Leistungspflicht bestimmen.
 
@@ -87,8 +79,7 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates n
 
 (3) Die zuständige Behörde kann vor ihrer Entscheidung verlangen, daß diejenigen, die sie als Leistungspflichtige in Aussicht genommen hat, die für den Verpflichtungsbescheid erforderlichen Unterlagen, insbesondere Lageplan, Zeichnungen, Kostenanschlag, Nachweisungen und Beschreibungen, einreichen.
 
-
-## § 6 – Inhalt des Verpflichtungsbescheides
+# § 6 – Inhalt des Verpflichtungsbescheides
 
 (1) Der Verpflichtungsbescheid hat zu enthalten
 
@@ -102,27 +93,23 @@ Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates n
 
 (2) Der Verpflichtungsbescheid ist mit einer Begründung und einer Rechtsmittelbelehrung zu versehen und dem Leistungspflichtigen zuzustellen.
 
-
-## § 7 – Zusatzplanung
+# § 7 – Zusatzplanung
 
 (1) Ist infolge einer wesentlichen Änderung der Voraussetzungen, auf denen die Planung nach § 4 beruht, für Zwecke des § 1 die Änderung oder Ergänzung des Planes erforderlich, so kann die zuständige Behörde von dem Landkreis oder der kreisfreien Stadt die Vorlage eines Zusatzplanes verlangen. Die Vorschriften des § 4 Abs. 2 bis 4 gelten entsprechend.
 
 (2) Für die Leistungspflicht und den Verpflichtungsbescheid gelten die §§ 5 und 6 entsprechend.
 
-
-## § 8 – Verwendung der Anlagen
+# § 8 – Verwendung der Anlagen
 
 Die auf Grund des Verpflichtungsbescheides gebauten Anlagen dürfen nur mit Zustimmung der zuständigen Behörde zu anderen als den in § 1 genannten Zwecken verwendet werden. Die Zustimmung nach Satz 1 darf nur versagt werden, soweit die Verwendung zu den in § 1 genannten Zwecken beeinträchtigt wird. Die öffentlich-rechtlichen Vorschriften, insbesondere die wasserrechtlichen Vorschriften über die Erlaubnis und Bewilligung, bleiben unberührt.
 
-
-## § 9 – Instandhaltung und Änderung
+# § 9 – Instandhaltung und Änderung
 
 (1) Der Leistungspflichtige hat die Anlagen, zu deren Bau, Umbau oder Erhaltung der Verpflichtungsbescheid verpflichtet, ordnungsgemäß zu warten und betriebsfähig zu halten.
 
 (2) Der Inhaber einer der in Absatz 1 genannten Anlagen, der die Anlage wesentlich ändern will, hat dies der zuständigen Behörde unter Beifügung der zur Beurteilung erforderlichen Unterlagen anzuzeigen. Die zuständige Behörde kann die Änderung untersagen, wenn dadurch die Zwecke des § 1 gefährdet werden. Mit der Ausführung des anzeigepflichtigen Vorhabens darf zwei Monate nach Eingang der Anzeige begonnen werden, sofern die zuständige Behörde das Vorhaben auf Grund des Satzes 2 nicht untersagt. Die Vorschriften, nach denen die Ausführung des Vorhabens einer behördlichen Genehmigung bedarf, bleiben unberührt.
 
-
-## § 10 – Aufwendungsersatz an Leistungspflichtige
+# § 10 – Aufwendungsersatz an Leistungspflichtige
 
 (1) Der Leistungspflichtige erhält Ersatz der Aufwendungen für die Durchführung von Maßnahmen, zu denen er nach dem Verpflichtungsbescheid oder nach einer Anordnung gemäß § 5 Abs. 3 verpflichtet ist. Den Aufwendungsersatz leistet die zuständige Behörde für Rechnung des Bundes.
 
@@ -130,8 +117,7 @@ Die auf Grund des Verpflichtungsbescheides gebauten Anlagen dürfen nur mit Zust
 
 (3) Verwendet der Leistungspflichtige die Anlagen für andere Zwecke als die des § 1 oder entstehen dem Leistungspflichtigen aus der Durchführung von Maßnahmen, zu denen er nach dem Verpflichtungsbescheid verpflichtet ist, andere Vorteile, so sind die Vorteile bei dem Ersatz der Aufwendungen nach Absatz 1 angemessen zu berücksichtigen. Soweit die Aufwendungen ohne Berücksichtigung dieser Vorteile ersetzt sind, hat der Leistungspflichtige zu ihrem Ausgleich einen angemessenen Betrag zurückzuerstatten.
 
-
-## § 11 – Ausstattung
+# § 11 – Ausstattung
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -145,8 +131,7 @@ Die auf Grund des Verpflichtungsbescheides gebauten Anlagen dürfen nur mit Zust
 
 (2) Die Aufwendungen für die Durchführung von Maßnahmen nach Absatz 1 Nr. 1 und 2, zu denen eine Rechtsverordnung oder eine auf Grund der Rechtsverordnung ergangene Verfügung verpflichtet, werden dem Leistungspflichtigen ersetzt; im Fall des Absatzes 1 Nr. 1 jedoch nur für die erstmalige Ausstattung und nur zur Hälfte. Verwendet der Leistungspflichtige Einrichtungen nach Absatz 1 Nr. 2 für andere Zwecke als die des § 1, so gilt § 10 Abs. 3 entsprechend. Den Aufwendungsersatz leistet die zuständige Behörde für Rechnung des Bundes.
 
-
-## § 12 – Vorratshaltung
+# § 12 – Vorratshaltung
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -156,8 +141,7 @@ Die auf Grund des Verpflichtungsbescheides gebauten Anlagen dürfen nur mit Zust
 
 (2) Die Aufwendungen für die Bevorratung mit Treibstoffen und sonstigen Betriebsmitteln werden dem Leistungspflichtigen ersetzt. Den Aufwendungsersatz leistet die zuständige Behörde für Rechnung des Bundes.
 
-
-## § 13 – Rechtsverordnungen über Maßnahmen im Verteidigungsfall
+# § 13 – Rechtsverordnungen über Maßnahmen im Verteidigungsfall
 
 (1) Die Bundesregierung wird ermächtigt, für die Zwecke des § 1 durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -175,18 +159,15 @@ im Verteidigungsfall. Die Bundesregierung kann diese Befugnis durch Rechtsverord
 
 (4) Rechtsverordnungen der Landesregierungen und der von diesen ermächtigten Stellen, die auf Grund einer Rechtsverordnung nach Absatz 2 erlassen werden, treten spätestens mit dieser Rechtsverordnung außer Kraft.
 
-
-## § 14 – Benutzung der Gewässer
+# § 14 – Benutzung der Gewässer
 
 Die Benutzung der Gewässer mittels Anlagen und Einrichtungen, auf die sich der Verpflichtungsbescheid bezieht, bedarf keiner Erlaubnis oder Bewilligung nach wasserrechtlichen Vorschriften, soweit die Benutzung im Verteidigungsfall für Zwecke des § 1 erforderlich ist.
 
-
-## § 15 – Duldungspflichten
+# § 15 – Duldungspflichten
 
 Die Eigentümer und Besitzer von Grundstücken und die Inhaber sonstiger Rechte an Grundstücken sowie die Inhaber von Rechten und Befugnissen an Gewässern haben im Verteidigungsfall zu dulden, daß die Ausübung ihrer Rechte und Befugnisse durch Benutzungen nach § 14 oder durch den Vollzug der nach § 13 zu erlassenden Vorschriften behindert oder unterbrochen wird, soweit der Benutzung oder dem Vollzug aus Gründen der Verteidigung der Vorrang gebührt.
 
-
-## § 16 – Ausführung des Gesetzes
+# § 16 – Ausführung des Gesetzes
 
 (1) Dieses Gesetz und die auf Grund dieses Gesetzes ergangenen Rechtsverordnungen werden von den Ländern einschließlich der Gemeinden und Gemeindeverbände im Auftrag des Bundes ausgeführt.
 
@@ -194,13 +175,11 @@ Die Eigentümer und Besitzer von Grundstücken und die Inhaber sonstiger Rechte 
 
 (3) In Ländern, in denen in den Gemeinden und Gemeindeverbänden für Auftragsangelegenheiten ein kollegiales Organ zuständig ist, tritt an dessen Stelle der Hauptverwaltungsbeamte der Gemeinde oder des Gemeindeverbandes.
 
-
-## § 17 – Vorbereitung des Vollzugs
+# § 17 – Vorbereitung des Vollzugs
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die personellen, organisatorischen und materiellen Voraussetzungen zur Durchführung der Maßnahmen zu schaffen, die für die in § 1 bezeichneten Zwecke erforderlich sind.
 
-
-## § 18 – Auskünfte
+# § 18 – Auskünfte
 
 (1) Zur Durchführung dieses Gesetzes haben alle natürlichen und juristischen Personen und nichtrechtsfähigen Personenvereinigungen der zuständigen Behörde und den zur Planvorlage (§§ 4 und 7) verpflichteten Gemeinden, Gemeindeverbänden, Zweckverbänden und Wasser- und Bodenverbänden auf Verlangen die erforderlichen Auskünfte zu erteilen.
 
@@ -210,8 +189,7 @@ Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die personellen
 
 (4) Die nach den Absätzen 1 und 2 erlangten Kenntnisse und Unterlagen dürfen nicht für ein Besteuerungsverfahren, ein Strafverfahren wegen einer Steuerstraftat oder ein Bußgeldverfahren wegen einer Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
 
-
-## § 19 – Entschädigung
+# § 19 – Entschädigung
 
 (1) Stellt eine Maßnahme auf Grund dieses Gesetzes oder einer nach diesem Gesetz erlassenen Rechtsverordnung eine Enteignung dar, ist eine Entschädigung in Geld zu leisten. Die Entschädigung bemißt sich nach dem für eine vergleichbare Leistung im Wirtschaftsverkehr üblichen Entgelt. Fehlt es an einer vergleichbaren Leistung oder ist ein übliches Entgelt nicht zu ermitteln, ist die Entschädigung unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bemessen.
 
@@ -219,15 +197,13 @@ Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die personellen
 
 (3) Auf die Festsetzung einer Entschädigung und die Verjährung eines Anspruchs nach Absatz 1 sind die §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes entsprechend anzuwenden. Dabei tritt an die Stelle der Anforderungsbehörden die zuständige Behörde nach § 26 dieses Gesetzes.
 
-
-## § 20 – Enteignung auf Verlangen
+# § 20 – Enteignung auf Verlangen
 
 (1) Ist die Gemeinde auf Grund des § 2 Abs. 2 zur Durchführung von Maßnahmen nach § 2 Abs. 1 Nr. 1 und 2 verpflichtet und wird dem Eigentümer des von der Maßnahme betroffenen Grundstücks die sonst zulässige wirtschaftliche Nutzung zugunsten der öffentlichen Wasserversorgung nicht nur vorübergehend entzogen, so kann er an Stelle der Entschädigung von der Gemeinde die Entziehung des Eigentums an dem Grundstück verlangen. Treffen diese Voraussetzungen nur für einen Teil des Grundstücks zu, so kann nur die Entziehung dieses Teils verlangt werden, es sei denn, daß der übrige Teil für den Eigentümer keinen oder nur einen verhältnismäßig geringen Wert hat.
 
 (2) Die Vorschriften des Landbeschaffungsgesetzes über Enteignung und Entschädigung gelten entsprechend mit der Maßgabe, daß an Stelle des Antrages nach § 11 des Landbeschaffungsgesetzes das Verlangen des Eigentümers tritt. Zuständige Behörde ist die in § 26 genannte Behörde.
 
-
-## § 21 – Härteausgleich
+# § 21 – Härteausgleich
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach diesem Gesetz erlassenen Rechtsverordnung oder durch eine Duldungspflicht nach § 15 dem Betroffenen ein Vermögensnachteil zugefügt, der nicht nach § 19 Abs. 1 abzugelten ist, ist eine Entschädigung in Geld zu gewähren, wenn und soweit dies zur Abwendung oder zum Ausgleich unbilliger Härten geboten erscheint.
 
@@ -235,48 +211,40 @@ Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die personellen
 
 (3) § 19 Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 22 – Zustellungen
+# § 22 – Zustellungen
 
 Für die Zustellungen durch die Verwaltungsbehörde gelten die Vorschriften des Verwaltungszustellungsgesetzes mit folgender Maßgabe:  
 In dringenden Fällen kann, soweit eine Zustellung gemäß den §§ 3 bis 5 des Verwaltungszustellungsgesetzes nicht möglich ist, die Zustellung auch durch schriftliche oder fernschriftliche, mündliche oder fernmündliche Mitteilungen oder - auch wenn die Voraussetzungen für eine öffentliche Zustellung nach § 10 des Verwaltungszustellungsgesetzes nicht vorliegen - durch öffentliche Bekanntmachung in der Presse, im Rundfunk oder in einer sonstigen ortsüblichen und geeigneten Weise erfolgen. In diesen Fällen gilt die Zustellung mit dem auf die Bekanntgabe folgenden Tage als bewirkt.
 
-
-## § 23
+# § 23
 
 \-
 
-
-## § 24 – Kosten der Auftragsverwaltung
+# § 24 – Kosten der Auftragsverwaltung
 
 Der Bund trägt die Kosten, die den Ländern, Gemeinden und Gemeindeverbänden durch den Vollzug dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen Verwaltungsvorschriften und der Weisungen des Bundesministers des Innern, für Bau und Heimat entstehen; persönliche und sächliche Verwaltungskosten werden nicht übernommen.
 
-
-## § 25 – Haushaltsrechtliche Vorschriften
+# § 25 – Haushaltsrechtliche Vorschriften
 
 (1) Die Ausgaben für die nach diesem Gesetz vom Bund zu tragenden Kosten sind von der zuständigen Behörde für Rechnung des Bundes zu leisten. Damit zusammenhängende Einnahmen sind an den Bund abzuführen.
 
 (2) Auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit ihnen zusammenhängenden Einnahmen sind die Vorschriften über das Haushaltsrecht des Bundes anzuwenden. Die für die Durchführung des Haushalts verantwortlichen Bundesbehörden können ihre Befugnisse auf die zuständigen obersten Landesbehörden übertragen und zulassen, daß auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften über die Kassen- und Buchführung der zuständigen Landes- und Gemeindebehörden angewendet werden.
 
-
-## § 26 – Zuständige Behörde
+# § 26 – Zuständige Behörde
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes ist die zuständige oberste Landesbehörde oder die nach Landesrecht bestimmte Behörde. In den Ländern, in denen eine obere Wasserbehörde oder eine ihr entsprechende Behörde nicht besteht, ist zuständige Behörde die für das Wasser zuständige oberste Landesbehörde. Die landesrechtlichen Vorschriften über die örtliche Zuständigkeit der in Satz 1 genannten Behörden bleiben unberührt. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die zuständige Behörde abweichend von den Sätzen 1 und 2 zu bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
 (2) Erstrecken sich Maßnahmen im Sinne des § 2 auf ein Gebiet, das der Verwaltung mehrerer Länder untersteht, so können die beteiligten Landesregierungen die zuständige Behörde im gegenseitigen Einvernehmen bestimmen.
 
-
-## § 27
+# § 27
 
 \-
 
-
-## § 28 – Zuwiderhandlung gegen Sicherstellungsmaßnahmen im Verteidigungsfall
+# § 28 – Zuwiderhandlung gegen Sicherstellungsmaßnahmen im Verteidigungsfall
 
 Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund des § 13 erlassenen Rechtsverordnung oder gegen eine auf Grund einer solchen Rechtsverordnung ergangene vollziehbare Verfügung verstößt, begeht eine Zuwiderhandlung im Sinne des Wirtschaftsstrafgesetzes 1954, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Vorschrift verweist.
 
-
-## § 29 – Ordnungswidrigkeiten
+# § 29 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -292,11 +260,9 @@ Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund des § 1
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
+# §§ 30 bis 32 – (weggefallen)
 
-## §§ 30 bis 32 – (weggefallen)
-
-
-## § 33 – Anlagen des Bundes und der verbündeten Streitkräfte
+# § 33 – Anlagen des Bundes und der verbündeten Streitkräfte
 
 Die Vorschriften dieses Gesetzes gelten nicht
 
@@ -308,27 +274,22 @@ Die Vorschriften dieses Gesetzes gelten nicht
 
 Anlagen, die unter die Nummern 1 bis 3 fallen, sind in die Planung nach § 4 einzubeziehen. Bei diesen Anlagen treffen die jeweils zuständigen obersten Bundesbehörden oder die von ihnen bestimmten Behörden im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat an Stelle der nach diesem Gesetz zuständigen Behörden die erforderlichen Maßnahmen.
 
-
-## § 34
+# § 34
 
 \-
 
-
-## § 35 – Stadtstaaten-Klausel
+# § 35 – Stadtstaaten-Klausel
 
 Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften dieses Gesetzes über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen und insbesondere zu bestimmen, welche Stellen die Aufgaben der Gemeinden nach Maßgabe dieses Gesetzes wahrzunehmen haben.
 
-
-## § 36 – Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
+# § 36 – Einschränkung des Grundrechts der Unverletzlichkeit der Wohnung
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 37 – Inkrafttreten
+# § 37 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.

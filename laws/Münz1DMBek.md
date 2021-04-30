@@ -1,10 +1,7 @@
-# [Münz1DMBek] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
-
-Ausfertigungsdatum: 08.09.1950
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
+% Ausfertigungsdatum: 08.09.1950
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im Nennwert von 1 Deutschen Mark ausgeprägt und demnächst in den Verkehr gebracht.
 
@@ -16,7 +13,6 @@ Ausfertigungsdatum: 08.09.1950
 
 (5) Die Schauseite zeigt in der Mitte den Bundesadler, den Kopf nach rechts gewendet, die Flügel offen, aber mit geschlossenem Gefieder und, um das Adlerbild herum, in Antiqua in großen Buchstaben die Umschrift "BUNDESREPUBLIK DEUTSCHLAND". Nahe am unteren Rand befindet sich, auf beiden Seiten durch einen Punkt vom Anfang und Ende der Umschrift getrennt, das Münzzeichen.
 
-(6) Der Rand der Münze ist glatt, jedoch mit vertieften Arabesken versehen.  
-  
+(6) Der Rand der Münze ist glatt, jedoch mit vertieften Arabesken versehen.   
 Der Bundeskanzler  
 Der Bundesminister der Finanzen

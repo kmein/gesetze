@@ -1,10 +1,7 @@
-# [IntKonnBek 2001] Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche
-
-Ausfertigungsdatum: 18.09.2001
-
+% Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche
+% Ausfertigungsdatum: 18.09.2001
  
-
-## ----
+# ----
 
 Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche, der durch Artikel 5 Nr. 1 des Gesetzes vom 25. Juli 1986 (BGBl. I S. 1120) eingefügt worden ist, wird bekannt gegeben, dass das Protokoll vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über Konnossemente nach seinem Artikel 13 Abs. 2 für  
 
@@ -28,8 +25,7 @@ und nach Artikel VII Abs. 2 in Verbindung mit Artikel VIII Abs. 2 des Protokolls
 | Neuseeland   | am 20. März 1995 |
 
   
-in Kraft getreten ist.  
-In Bezug auf Hongkong, auf das das Vereinigte Königreich den Geltungsbereich des Protokolls vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über Konnossemente erstreckt hat (vgl. die Bekanntmachung vom 25. Juli 1986, BGBl. I S. 1162), haben das Vereinigte Königreich und China dem Verwahrer notifiziert, dass die Regierung des Vereinigten Königreichs am 1. Juli 1997 Hongkong an die Regierung der Volksrepublik China zurückgeben und von diesem Tage an nicht mehr die internationale Verantwortung für Hongkong übernehmen wird, und dass die Volksrepublik China von diesem Tage an die Souveränität über Hongkong ausüben wird. In die Liste der Vertragsstaaten des Protokolls vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über Konnossemente ist mithin mit Wirkung vom 1. Juli 1997 aufzunehmen:
+in Kraft getreten ist. In Bezug auf Hongkong, auf das das Vereinigte Königreich den Geltungsbereich des Protokolls vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über Konnossemente erstreckt hat (vgl. die Bekanntmachung vom 25. Juli 1986, BGBl. I S. 1162), haben das Vereinigte Königreich und China dem Verwahrer notifiziert, dass die Regierung des Vereinigten Königreichs am 1. Juli 1997 Hongkong an die Regierung der Volksrepublik China zurückgeben und von diesem Tage an nicht mehr die internationale Verantwortung für Hongkong übernehmen wird, und dass die Volksrepublik China von diesem Tage an die Souveränität über Hongkong ausüben wird. In die Liste der Vertragsstaaten des Protokolls vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung von Regeln über Konnossemente ist mithin mit Wirkung vom 1. Juli 1997 aufzunehmen:
 
   
 China (nur für die Sonderverwaltungsregion Hongkong).

@@ -1,15 +1,11 @@
-# [VermVerMiV] Verordnung zur Durchführung des § 11a des Vermögensanlagengesetzes  (Vermögensanlagen-Veröffentlichungs- und Mitteilungspflichtenverordnung - VermVerMiV)
-
-Ausfertigungsdatum: 20.08.2015
-
+% Verordnung zur Durchführung des § 11a des Vermögensanlagengesetzes  (Vermögensanlagen-Veröffentlichungs- und Mitteilungspflichtenverordnung - VermVerMiV)
+% Ausfertigungsdatum: 20.08.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11a Absatz 4 Satz 1 des Vermögensanlagengesetzes, der durch Artikel 2 Nummer 13 des Gesetzes vom 3. Juli 2015 (BGBl. I S. 1114) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt den Mindestinhalt, die Art, die Sprache, den Umfang und die Form
 
@@ -17,8 +13,7 @@ Diese Verordnung regelt den Mindestinhalt, die Art, die Sprache, den Umfang und 
 
 2. der Mitteilungen nach § 11a Absatz 2 Satz 1 und Absatz 3 Satz 2 des Gesetzes.
 
-
-## § 2 – Inhalt der Veröffentlichung
+# § 2 – Inhalt der Veröffentlichung
 
 In der Veröffentlichung nach § 11a Absatz 3 Satz 1 des Gesetzes sind anzugeben:
 
@@ -52,8 +47,7 @@ b) das Veröffentlichungsdatum des Verkaufsprospekts,
 
 Die Veröffentlichung soll kurz gefasst sein und darf ausschließlich die nach Satz 1 erforderlichen Angaben enthalten. Die Veröffentlichung hat in deutscher Sprache zu erfolgen.
 
-
-## § 3 – Art der Veröffentlichung von Tatsachen
+# § 3 – Art der Veröffentlichung von Tatsachen
 
 (1) Bei der Veröffentlichung nach § 11a Absatz 3 Satz 1 des Gesetzes ist zu gewährleisten, dass
 
@@ -83,8 +77,7 @@ Der Veröffentlichungspflichtige ist für technische Systemfehler im Verantwortu
 
 (3) Verfügt der Veröffentlichungspflichtige über eine Internetseite, muss er sicherstellen, dass die nach § 2 erforderlichen Informationen für die Dauer von mindestens sechs Monaten auf dieser Internetseite verfügbar sind. Die Internetseite hat auf der Hauptseite einen deutlich erkennbaren Hinweis mit Verlinkung auf eine Unterseite mit Informationen für Anleger zu enthalten, auf der die Veröffentlichung leicht aufzufinden sein muss.
 
-
-## § 4 – Form und Inhalt der Mitteilung der Tatsache und der Veröffentlichung an die Bundesanstalt
+# § 4 – Form und Inhalt der Mitteilung der Tatsache und der Veröffentlichung an die Bundesanstalt
 
 (1) Mitteilungen an die Bundesanstalt nach § 11a Absatz 2 Satz 1 und Absatz 3 Satz 2 des Gesetzes können durch den Emittenten oder einen von ihm bevollmächtigten Dritten erfolgen.
 
@@ -102,8 +95,7 @@ Der Veröffentlichungspflichtige ist für technische Systemfehler im Verantwortu
 
 (6) Die Mitteilung nach § 11a Absatz 3 Satz 2 des Gesetzes hat unverzüglich nach ihrer Veröffentlichung unter Angabe des Textes der Veröffentlichung, der Medien, an die die Informationen gesandt wurden, sowie des genauen Zeitpunkts der Versendung an die Medien zu erfolgen.
 
-
-## § 5 – Bekanntmachung der Tatsache durch die Bundesanstalt
+# § 5 – Bekanntmachung der Tatsache durch die Bundesanstalt
 
 (1) Die Mitteilung nach § 11a Absatz 2 Satz 1 des Gesetzes gilt bei der Bundesanstalt als ordnungsgemäß eingegangen, wenn
 
@@ -115,7 +107,6 @@ Der Veröffentlichungspflichtige ist für technische Systemfehler im Verantwortu
 
 (2) Ist die Mitteilung nicht ordnungsgemäß eingegangen, teilt die Bundesanstalt dem Emittenten oder dem Bevollmächtigten diesen Umstand spätestens am dritten Werktag nach Eingang mit.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

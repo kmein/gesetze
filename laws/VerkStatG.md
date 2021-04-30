@@ -1,10 +1,7 @@
-# [VerkStatG] Gesetz über die Statistik der See- und Binnenschifffahrt, des Güterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs  (Verkehrsstatistikgesetz - VerkStatG)
-
-Ausfertigungsdatum: 17.12.1999
-
+% Gesetz über die Statistik der See- und Binnenschifffahrt, des Güterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs  (Verkehrsstatistikgesetz - VerkStatG)
+% Ausfertigungsdatum: 17.12.1999
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -166,8 +163,7 @@ Verordnungsermächtigung
 
 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
-
-## § 1 – Anordnung als Bundesstatistik
+# § 1 – Anordnung als Bundesstatistik
 
 Zur Beurteilung der Struktur und der Entwicklung des See- und Binnenschiffsverkehrs, des Güterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs werden statistische Erhebungen über
 
@@ -197,8 +193,7 @@ Zur Beurteilung der Struktur und der Entwicklung des See- und Binnenschiffsverke
 
 als Bundesstatistik durchgeführt.
 
-
-## § 2 – Erhebungsbereich
+# § 2 – Erhebungsbereich
 
 (1) Die Erhebung nach § 1 Nr. 1 erfasst, sofern Satz 2 nichts anderes bestimmt, alle Binnen- oder Seeschiffe zur gewerbsmäßigen Güterbeförderung sowie alle Seeschiffe zur gewerbsmäßigen Personenbeförderung, die
 
@@ -210,8 +205,7 @@ Ausgenommen sind Schiffe in der Seeschifffahrt mit einer Bruttoraumzahl von weni
 
 (2) Die Erhebung nach § 1 Nr. 2 erfasst alle Unternehmen, die Binnenschifffahrt betreiben, mit Ausnahme derjenigen Unternehmen, die in der Binnenschifffahrt ausschließlich Fähr- und Hafenverkehr betreiben.
 
-
-## § 3 – Schifffahrtsstatistik
+# § 3 – Schifffahrtsstatistik
 
 Die Erhebung nach § 1 Nr. 1 erfasst laufend folgende Erhebungsmerkmale:
 
@@ -235,8 +229,7 @@ c) Zahl und Beladungszustand nach Größe der Container und Art der RoRo-Einheit
 
 Zahl nach Zu- und Ausstiegshafen.
 
-
-## § 4 – Unternehmensstatistik der Binnenschifffahrt
+# § 4 – Unternehmensstatistik der Binnenschifffahrt
 
 (1) Die Erhebung nach § 1 Nr. 2 erfasst jährlich folgende Erhebungsmerkmale:
 
@@ -252,8 +245,7 @@ Zahl nach Zu- und Ausstiegshafen.
 
 (2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1, 2 und 4 werden für das Berichtsjahr, die Erhebungsmerkmale nach Absatz 1 Nr. 3 und 5 werden für den Juni des Berichtsjahres erfasst. Berichtsjahr ist das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das letzte abgeschlossene Geschäftsjahr.
 
-
-## § 5 – Anschriftenübermittlung
+# § 5 – Anschriftenübermittlung
 
 (1) Für die Durchführung der Erhebung nach § 1 Nr. 1 übermitteln den statistischen Ämtern der Länder und dem Statistischen Bundesamt jeweils für deren Zuständigkeitsbereich auf Anforderung
 
@@ -279,8 +271,7 @@ Bezeichnung und Anschrift des Auskunftspflichtigen, sofern sie nach § 26 Abs. 3
 
 4. die Vermieter von Binnenschiffen Name und Anschrift derjenigen Mieter oder Pächter, die ihren Geschäftssitz im Geltungsbereich dieses Gesetzes haben.
 
-
-## § 6 – Erhebungsbereich
+# § 6 – Erhebungsbereich
 
 (1) Die Erhebung nach § 1 Nr. 3 erfasst Verkehrsleistungen des gewerblichen Güterkraftverkehrs und des Werkverkehrs. Sie erstreckt sich auf im Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes nach § 33 Abs. 1 und 2 des Straßenverkehrsgesetzes enthaltene Lastkraftfahrzeuge (Lastkraftwagen und Sattelzugmaschinen), deren zulässiges Gesamtgewicht 6 Tonnen oder deren Nutzlast 3,5 Tonnen übersteigt, sowie die von diesen Lastkraftfahrzeugen gezogenen Anhänger und Sattelauflieger. In die Erhebung einbezogen wird je Berichtszeitraum eine repräsentative Auswahl von höchstens fünf Promille der Erhebungseinheiten nach Satz 2.
 
@@ -290,8 +281,7 @@ Bezeichnung und Anschrift des Auskunftspflichtigen, sofern sie nach § 26 Abs. 3
 
 2. für den Werkverkehr die Werkverkehrsdatei nach § 15a des Güterkraftverkehrsgesetzes.
 
-
-## § 7 – Güterkraftverkehrsstatistik
+# § 7 – Güterkraftverkehrsstatistik
 
 (1) Die Erhebung nach § 1 Nr. 3 erfasst laufend folgende Erhebungsmerkmale:
 
@@ -341,8 +331,7 @@ k) im Transit durchquerte Länder.
 
 (2) Berichtszeitraum der Erhebung ist die Halbwoche von Sonntag 22.00 Uhr bis Mittwoch 24.00 Uhr und von Donnerstag 0.00 Uhr bis Sonntag 22.00 Uhr.
 
-
-## § 8 – Unternehmensstatistik des Güterkraftverkehrs
+# § 8 – Unternehmensstatistik des Güterkraftverkehrs
 
 (1) Für die Erhebung nach § 1 Nr. 4 werden jährlich folgende Erhebungsmerkmale erfasst:
 
@@ -364,8 +353,7 @@ e) (weggefallen)
 
 (2) Die Erhebung wird, beginnend mit dem Jahr 2010, alle fünf Jahre nach dem Stand des letzten Werktages im Oktober (Zeitpunkt der Erhebung) durchgeführt. Dies gilt nicht für die Erhebungsmerkmale nach Absatz 1 Nr. 1 Buchstabe b. Diese werden jeweils für das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das letzte abgeschlossene Geschäftsjahr erhoben.
 
-
-## § 9 – Kennzeichenübermittlung
+# § 9 – Kennzeichenübermittlung
 
 (1) Zur Durchführung der Güterkraftverkehrsstatistik nach § 1 Nr. 3 übermittelt
 
@@ -375,22 +363,19 @@ e) (weggefallen)
 
 (2) Zur Durchführung der Unternehmensstatistik des Güterkraftverkehrs nach § 1 Nr. 4 übermittelt die im Bundesamt für Güterverkehr zuständige Stelle die von den Unternehmen des gewerblichen Güterkraftverkehrs und des Werkverkehrs mitgeteilten amtlichen Kennzeichen der Lastkraftfahrzeuge und Kraftfahrzeuganhänger dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes, das an diese Stelle die anhand der Kennzeichen aus dem Zentralen Fahrzeugregister ermittelten fahrzeugbezogenen Merkmale nach § 8 Abs. 1 Nr. 2 mitteilt.
 
-
-## § 10 – Vernichtung von Erhebungsunterlagen
+# § 10 – Vernichtung von Erhebungsunterlagen
 
 (1) Jeweils spätestens drei Monate nach Veröffentlichung eines Beförderungsmonats sind beim Kraftfahrt-Bundesamt die Erhebungsunterlagen zur Erhebung nach § 1 Nr. 3 zu vernichten.
 
 (2) Jeweils spätestens ein Jahr nach dem Erhebungsstichtag sind beim Bundesamt für Güterverkehr die Erhebungsunterlagen zur Erhebung nach § 1 Nr. 4 zu vernichten.
 
-
-## § 11 – Erhebungsbereich
+# § 11 – Erhebungsbereich
 
 (1) Die Erhebung nach § 1 Nr. 5 erfasst den gewerblichen und nichtgewerblichen Luftverkehr auf Flugplätzen.
 
 (2) Die Erhebung nach § 1 Nr. 6 erfasst alle Unternehmen, die gewerbsmäßig Luftverkehr zur Güter- und Personenbeförderung betreiben.
 
-
-## § 12 – Luftverkehrsstatistik
+# § 12 – Luftverkehrsstatistik
 
 (1) Die Erhebung nach § 1 Nr. 5 zum gewerblichen Luftverkehr erfasst auf Flugplätzen mit mehr als 150.000 Fluggasteinheiten im Vorjahr bei Start und Landung laufend folgende Erhebungsmerkmale:
 
@@ -424,8 +409,7 @@ b) Herkunfts- und Zielflugplätze der ein- oder ausgeladenen Fracht- und Postgü
 
 (3) Die Erhebung nach § 1 Nr. 5 zum Werkverkehr und zum sonstigen nichtgewerblichen Luftverkehr erfasst auf allen Flugplätzen jährlich die Zahl der Starts und Landungen von Luftfahrzeugen nach Flugarten und Luftfahrzeugmustern.
 
-
-## § 13 – Unternehmensstatistik der Luftfahrt
+# § 13 – Unternehmensstatistik der Luftfahrt
 
 (1) Die Erhebung nach § 1 Nr. 6 erfasst jährlich folgende Erhebungsmerkmale:
 
@@ -439,18 +423,15 @@ b) Herkunfts- und Zielflugplätze der ein- oder ausgeladenen Fracht- und Postgü
 
 (2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1 bis 3 werden nach dem Stand vom 30. Juni des Berichtsjahres, die Erhebungsmerkmale nach Absatz 1 Nr. 4 werden für das Berichtsjahr erfasst.
 
-
-## § 14 – Berichtszeitraum
+# § 14 – Berichtszeitraum
 
 Berichtsjahr für die jährlichen Erhebungen nach § 1 Nr. 5 und 6 ist das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das im vorangegangenen Kalenderjahr abgelaufene Geschäftsjahr.
 
-
-## § 15 – Anschriftenübermittlung
+# § 15 – Anschriftenübermittlung
 
 Für die Durchführung der Erhebung nach § 1 Nr. 6 übermitteln das Luftfahrt-Bundesamt und die auf Landesebene zuständigen Behörden auf Anforderung dem Statistischen Bundesamt Namen und Anschriften von Luftverkehr betreibenden Unternehmen.
 
-
-## § 16 – Erhebungsbereich
+# § 16 – Erhebungsbereich
 
 (1) Die Erhebung nach § 1 Nr. 7 wird durchgeführt bei Unternehmen, die als Betriebsführer oder beauftragte Beförderer öffentlichen Personennahverkehr mit Eisenbahnen oder Straßenbahnen (Schienennahverkehr) oder Personennah- oder Personenfernverkehr mit Omnibussen betreiben, und zwar bei
 
@@ -474,8 +455,7 @@ Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht sind, beurteilt sich nach
 
 (5) Die Erhebung nach § 1 Nr. 12 wird durchgeführt bei Unternehmen, die Eisenbahnstrecken des öffentlichen Verkehrs betreiben.
 
-
-## § 17 – Personenverkehrsstatistik
+# § 17 – Personenverkehrsstatistik
 
 (1) Die Erhebung nach § 1 Nr. 7 in Verbindung mit § 16 Abs. 1 Satz 1 Nr. 1 erfasst folgende Erhebungsmerkmale:
 
@@ -517,8 +497,7 @@ i) Fahrleistung im Schienen- und Liniennahverkehr nach Kreisen.
 
 (4) Die Erhebungsmerkmale nach Absatz 1 Nr. 2 Buchstabe a und Absatz 3 werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst. Die Erhebungen nach Absatz 1 Nr. 2 und Absatz 2 entfallen in den Jahren, in denen die fünfjährliche Erhebung nach Absatz 3 durchgeführt wird.
 
-
-## § 18 – Schienen-Personenfernverkehrsstatistik
+# § 18 – Schienen-Personenfernverkehrsstatistik
 
 (1) Die Erhebung nach § 1 Nr. 8 in Verbindung mit § 16 Abs. 2 erfasst folgende Erhebungsmerkmale:
 
@@ -544,8 +523,7 @@ c) Zahl der Fahrgäste nach Ein- und Aussteigeregion nach der NUTS-2-Regionalgli
 
 (2) Die Erhebungsmerkmale nach Absatz 1 Nr. 2 Buchstabe a sowie Nr. 3 Buchstabe a und b werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst.
 
-
-## § 19 – Schienen-Güterverkehrsstatistik
+# § 19 – Schienen-Güterverkehrsstatistik
 
 (1) Die Erhebung nach § 1 Nr. 9 in Verbindung mit § 16 Abs. 3 Nr. 1 erfasst folgende Erhebungsmerkmale:
 
@@ -581,8 +559,7 @@ d) Land des Unternehmenssitzes und Eigentumsverhältnisse am Unternehmen.
 
 (4) Die Erhebungsmerkmale nach Absatz 1 Nr. 2 Buchstabe d, Absatz 2 Nr. 2 und Absatz 3 werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst.
 
-
-## § 20 – Schieneninfrastrukturstatistik
+# § 20 – Schieneninfrastrukturstatistik
 
 Die Erhebung nach § 1 Nr. 10 in Verbindung mit § 16 Abs. 4 erfasst folgende Erhebungsmerkmale:
 
@@ -604,8 +581,7 @@ e) Länge des Strecken-, Gleis- und Spurbestandes nach Art der Betriebsordnung, 
 
 Die Erhebungsmerkmale werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst.
 
-
-## § 21 – Schienenverkehrsunfallstatistik
+# § 21 – Schienenverkehrsunfallstatistik
 
 Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Abs. 4 erfasst jährlich für Verkehrsunfälle auf Schienenstrecken des öffentlichen Verkehrs, an denen mindestens ein bewegtes - beim Zusammenprall auch haltendes - Schienenfahrzeug im Fahrbetrieb beteiligt war, folgende Erhebungsmerkmale:
 
@@ -615,34 +591,29 @@ Die Erhebung nach § 1 Nr. 11 in Verbindung mit § 16 Abs. 4 erfasst jährlich f
 
 Zusätzlich wird die Zahl der Unfälle erfasst, die durch Brand ausgelöst wurden (wie z. B. durch Selbstentzündung) und keine Verkehrsunfälle darstellen.
 
-
-## § 22 – Statistik der Verkehrsströme im Eisenbahnnetz
+# § 22 – Statistik der Verkehrsströme im Eisenbahnnetz
 
 Die Erhebung nach § 1 Nr. 12 in Verbindung mit § 16 Abs. 5 erfasst fünfjährlich die Zahl der Züge im Personen- und im Güterverkehr nach Netzabschnitten.
 
-
-## § 23 – Berichtszeitraum
+# § 23 – Berichtszeitraum
 
 (1) Berichtszeitraum für die Erhebungen nach § 1 Nr. 7 bis 12 ist für die
 
 1. monatlichen Erhebungen der dem Zeitpunkt der Erhebungen vorangegangene Kalendermonat,
 
-\*2.  
-vierteljährlichen Erhebungen das dem Zeitpunkt der Erhebung vorangegangene Kalenderquartal,
+\*2. vierteljährlichen Erhebungen das dem Zeitpunkt der Erhebung vorangegangene Kalenderquartal,
 
 3. jährlichen und fünfjährlichen Erhebungen das dem Zeitpunkt der Erhebungen vorangegangene Kalenderjahr oder das vorangegangene Geschäftsjahr.
 
 (2) Die fünfjährlichen Erhebungen werden erstmals für das Jahr 2005 durchgeführt, mit Ausnahme der Erhebung nach § 16 Abs. 1 Satz 1 Nr. 3 in Verbindung mit § 17 Abs. 3, die erstmals für das Jahr 2004 durchgeführt wird.
 
-
-## § 24 – Anschriftenübermittlung
+# § 24 – Anschriftenübermittlung
 
 (1) Die Genehmigungsbehörden nach § 11 des Personenbeförderungsgesetzes und die für die Eisenbahnen des Bundes und für die übrigen Eisenbahnunternehmen zuständigen Genehmigungsbehörden des Bundes und der Länder übermitteln den statistischen Ämtern der Länder und dem Statistischen Bundesamt jeweils für deren Zuständigkeitsbereich für die Durchführung der Erhebungen nach § 1 Nr. 7 bis 12 Namen und Anschriften der Unternehmen, denen eine Genehmigung zur Personenbeförderung mit Eisenbahnen, Straßenbahnen oder Omnibussen oder zum Schienen-Güterverkehr erteilt oder entzogen oder denen die Betriebsführung übertragen worden ist oder denen eine Genehmigung für den Betrieb einer Schieneninfrastruktur des öffentlichen Verkehrs erteilt oder entzogen worden ist, sowie die Art der Genehmigung und den Termin des Ablaufs einer befristeten Genehmigung.
 
 (2) Die Schieneninfrastruktur des öffentlichen Verkehrs im Inland betreibenden Unternehmen übermitteln den statistischen Ämtern der Länder und dem Statistischen Bundesamt jeweils für deren Zuständigkeitsbereich für die Durchführung der Erhebungen nach § 1 Nr. 7 bis 12 Namen und Anschriften der Unternehmen, die auf dem öffentlichen Schienennetz der Schieneninfrastrukturbetreiber Personenverkehr mit Eisenbahnen oder Straßenbahnen oder Schienen-Güterverkehr durchführen; von den Unternehmen mit Sitz im Ausland übermitteln sie Namen und Anschriften der die Verkehre durchführenden inländischen Betriebe dieser Unternehmen.
 
-
-## § 25 – Hilfsmerkmale
+# § 25 – Hilfsmerkmale
 
 Hilfsmerkmale der Erhebungen nach § 1 Nr. 1 bis 12 sind:
 
@@ -666,8 +637,7 @@ Hilfsmerkmale der Erhebungen nach § 1 Nr. 1 bis 12 sind:
 
 10. Datum des Fluges für die Erhebung nach § 1 Nr. 5.
 
-
-## § 26 – Auskunftspflicht
+# § 26 – Auskunftspflicht
 
 (1) Für die Erhebungen nach § 1 besteht hinsichtlich der Erhebungs- und Hilfsmerkmale nach den §§ 3, 4, 7, 8, 12, 13, 17 bis 22 und 25 Auskunftspflicht. Die Angaben zu § 25 Nr. 1 sind freiwillig.
 
@@ -713,8 +683,7 @@ Sind die Auskunftspflichtigen für die in Satz 1 genannten Stellen nicht oder nu
 
 (4) Die Datenübermittlung erfolgt in elektronischer Form, soweit dies für die beteiligte Stelle zumutbar ist.
 
-
-## § 27 – Durchführung
+# § 27 – Durchführung
 
 (1) Die Erhebungen nach § 1 Nr. 1 in Verbindung mit § 2 Abs. 1 Satz 1 Nr. 2 (Schifffahrtsstatistik, Durchgangsverkehr), nach § 1 Nr. 2 in Verbindung mit § 4 (Unternehmensstatistik der Binnenschifffahrt), nach § 1 Nr. 5 in Verbindung mit § 12 (Luftverkehrsstatistik), nach § 1 Nr. 6 in Verbindung mit § 13 (Unternehmensstatistik der Luftfahrt), nach § 1 Nr. 8 in Verbindung mit § 18 (Schienen-Personenfernverkehrsstatistik), nach § 1 Nr. 9 in Verbindung mit § 19 (Schienen-Güterverkehrsstatistik), nach § 1 Nr. 10 in Verbindung mit § 20 (Schieneninfrastrukturstatistik), nach § 1 Nr. 11 in Verbindung mit § 21 (Schienenverkehrsunfallstatistik) und nach § 1 Nr. 12 in Verbindung mit § 22 (Statistik der Verkehrsströme im Eisenbahnnetz) werden vom Statistischen Bundesamt durchgeführt.
 
@@ -728,15 +697,13 @@ Sind die Auskunftspflichtigen für die in Satz 1 genannten Stellen nicht oder nu
 
 (6) Die Auswahl der Unternehmen zur Erhebung nach § 1 Nr. 7 in Verbindung mit § 16 Abs. 1 Satz 1 Nr. 2 (Personenverkehrsstatistik) wird nach einem mathematisch-statistischen Auswahlverfahren vom Statistischen Bundesamt durchgeführt. Die für die Auswahl erforderlichen Einzelangaben übermitteln die statistischen Ämter der Länder dem Statistischen Bundesamt.
 
-
-## § 28 – Übermittlungsregelung
+# § 28 – Übermittlungsregelung
 
 (1) An oberste Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, nicht jedoch zur Regelung von Einzelfällen, vom Statistischen Bundesamt, den statistischen Ämtern der Länder, dem Kraftfahrt-Bundesamt und dem Bundesamt für Güterverkehr Tabellen mit statistischen Ergebnissen aus den Erhebungen nach § 1 Nr. 1 bis 12 übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Zur Vorbereitung von Planungs- und Gesetzgebungsverfahren können die in Satz 1 genannten Tabellen an die von den obersten Bundes- und Landesbehörden beauftragten Gutachter übermittelt werden. Die Gutachter müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen die in Satz 1 genannten Tabellen nur für die Zwecke verwenden, für die sie übermittelt worden sind. Sie sind, soweit es sich nicht um offenkundige Tatsachen handelt, von den Gutachtern geheim zu halten. Die Übermittlungen sind vom Statistischen Bundesamt, vom Kraftfahrt-Bundesamt und vom Bundesamt für Güterverkehr nach Maßgabe des § 16 Abs. 9 des Bundesstatistikgesetzes aufzuzeichnen. Die Aufzeichnungen sind mindestens fünf Jahre aufzubewahren.
 
 (2) Das Bundesamt für Güterverkehr und das Kraftfahrt-Bundesamt übermitteln dem Statistischen Bundesamt auf Ersuchen aus den Erhebungen nach § 1 Nr. 3 und 4 Einzelangaben in der angeforderten sachlichen und regionalen Gliederungstiefe, soweit dies für die methodische Weiterentwicklung der Statistiken verkehrsträgerübergreifender Ergebnisdarstellungen und für die Erfüllung von Aufgaben im supra- und internationalen Bereich erforderlich ist.
 
-
-## § 29 – Veröffentlichung
+# § 29 – Veröffentlichung
 
 (1) Es veröffentlichen
 
@@ -754,12 +721,10 @@ Sind die Auskunftspflichtigen für die in Satz 1 genannten Stellen nicht oder nu
 
 (6) Die Ergebnisse der Erhebung nach § 1 Nr. 12 dürfen nach Netzabschnitten gegliedert veröffentlicht werden, auch soweit sie Einzelangaben enthalten, wenn der Name der auskunftspflichtigen Unternehmen nicht veröffentlicht wird.
 
-
-## § 30 – Verordnungsermächtigung
+# § 30 – Verordnungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für Zwecke der Beobachtung des internationalen Schiffsverkehrs, der Vorbereitung von Gesetzgebungsvorhaben sowie für Zwecke der Verkehrsplanung eine Statistik über den Vor- und Nachlauf mit Seeschiffen (Feederverkehr), mit Erhebungs- und Hilfsmerkmalen entsprechend den §§ 3 und 25 Nr. 1 bis 3, mit Auskunftspflichten entsprechend § 26 und einer Übermittlungsregelung entsprechend § 28 anzuordnen.
 
-
-## § 31 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+# § 31 – Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 23 Abs. 1 des Bundesstatistikgesetzes das Bundesamt für Güterverkehr, soweit Auskunftspflichten nach § 26 Abs. 1 Satz 1 und Abs. 2 Satz 1 Nr. 2 und 3 für die Statistiken nach § 1 Nr. 3 und 4 betroffen sind.

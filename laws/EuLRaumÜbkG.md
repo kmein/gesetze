@@ -1,20 +1,15 @@
-# [EuLRaumÜbkG] Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
-
-Ausfertigungsdatum: 17.07.1984
-
+% Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
+% Ausfertigungsdatum: 17.07.1984
  
-
-## Art 1
+# Art 1
 
 Dem in Bern am 19. September 1979 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens nach dessen Artikel 17, die sich im Rahmen der Ziele des Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
-
-## Art 3
+# Art 3
 
 (1) Es ist verboten, in Gebieten, die keiner Staatshoheit unterliegen, insbesondere von einem Schiff oder Luftfahrzeug aus, das berechtigt ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen, Pflanzen der im Anhang I des Übereinkommens oder Tiere der im Anhang II des Übereinkommens aufgeführten Arten der Natur zu entnehmen.
 
@@ -38,8 +33,7 @@ a) Pflanzen pflücken, sammeln, abschneiden, ausgraben oder ausreißen,
 
 b) Tiere fangen, halten, töten oder beunruhigen, deren Brut- oder Raststätten beschädigen oder zerstören oder deren Eier zerstören oder aus der Natur entfernen oder diese Eier besitzen, auch wenn sie leer sind.
 
-
-## Art 4
+# Art 4
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Abs. 1 in Gebieten, die keiner Staatshoheit unterliegen, Pflanzen der im Anhang I des Übereinkommens oder Tiere der im Anhang II des Übereinkommens aufgeführten Arten der Natur entnimmt.
 
@@ -49,8 +43,7 @@ b) Tiere fangen, halten, töten oder beunruhigen, deren Brut- oder Raststätten 
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

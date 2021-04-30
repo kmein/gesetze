@@ -1,10 +1,7 @@
-# [TechKontrollV] Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße  (TechKontrollV)
-
-Ausfertigungsdatum: 21.05.2003
-
+% Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße  (TechKontrollV)
+% Ausfertigungsdatum: 21.05.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 20 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310) und des § 17 des Güterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), von denen
 
@@ -16,15 +13,13 @@ Auf Grund des § 6 Abs. 1 Nr. 20 des Straßenverkehrsgesetzes in der Fassung der
 
 verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vorschriften dieser Verordnung gelten für die technische Kontrolle von Nutzfahrzeugen, die am Straßenverkehr teilnehmen oder aus einem Drittland in Deutschland einfahren.
 
 (2) Auf Grund anderer Rechtsvorschriften durchzuführende Kontrollen von Nutzfahrzeugen, die nicht unter Absatz 1 fallen, bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet der Begriff:
 
@@ -44,8 +39,7 @@ Im Sinne dieser Verordnung bezeichnet der Begriff:
 
 8. „gefährliche Mängel“: solche, die eine direkte und unmittelbare Gefahr für die Straßenverkehrssicherheit darstellen oder die Umwelt beeinträchtigen.
 
-
-## § 3 – Zuständigkeiten
+# § 3 – Zuständigkeiten
 
 (1) Die Kontrollen führen die nach Bundes- und Landesrecht zuständigen Behörden durch.
 
@@ -53,15 +47,13 @@ Im Sinne dieser Verordnung bezeichnet der Begriff:
 
 (3) Das Bundesamt für Güterverkehr wird als die für die Bundesrepublik Deutschland zuständige Kontaktstelle bestimmt, die im Rahmen dieser Verordnung die Informationen und die Amtshilfe unter den Mitgliedstaaten und deren Behörden und das Berichtswesen mit der Kommission der Europäischen Union entsprechend der §§ 8 bis 10 durchführt.
 
-
-## § 4 – Häufigkeit der Kontrollen
+# § 4 – Häufigkeit der Kontrollen
 
 (1) Die zuständigen Behörden stellen sicher, dass in ihrem sachlichen und örtlichen Zuständigkeitsbereich ein ausreichender Anteil an Nutzfahrzeugen den in dieser Verordnung vorgesehenen Kontrollen unterworfen wird, um zu prüfen, ob die technischen Vorschriften in den Zeiträumen zwischen den nach § 29 der Straßenverkehrs-Zulassungs-Ordnung oder der Richtlinie 2014/45/EU des Europäischen Parlaments und des Rates vom 3. April 2014 über die regelmäßige technische Überwachung von Kraftfahrzeugen und Kraftfahrzeuganhängern und zur Aufhebung der Richtlinie 2009/40/EG (ABl. L 127 vom 29.4.2014, S. 51; L 334 vom 22.12.2015, S. 66) vorgeschriebenen Untersuchungen der Nutzfahrzeuge eingehalten werden.
 
 (2) Ausreichend ist ein repräsentativer Anteil an den im jeweiligen Land zugelassenen Nutzfahrzeugen und dem Verkehrsaufkommen mit Nutzfahrzeugen. Die Zahlen über den jeweiligen Bestand der Nutzfahrzeuge und das Verkehrsaufkommen mit Nutzfahrzeugen in den Ländern werden alle zwei Jahre zum 30. Juni für die vorangegangenen zwei Jahre den Ländern durch das Bundesamt für Güterverkehr in Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
-
-## § 5 – Kontrollen auf der Straße
+# § 5 – Kontrollen auf der Straße
 
 (1) Die Auswahl eines Fahrzeugs für die Kontrolle und die Durchführung der Kontrollen erfolgt
 
@@ -95,13 +87,11 @@ Der Kontrollbericht nach Nummer 1 und die Prüfbescheinigung nach Nummer 2 sind 
 
 (7) Wenn aus dem Bericht über eine Kontrolle nach der Richtlinie 2014/47/EU oder aus einer Prüfbescheinigung nach der Richtlinie 2014/45/EU hervorgeht, dass eine der in Anhang II aufgeführten Positionen während der vorangegangenen drei Monate bereits Gegenstand einer Kontrolle war, wird bei der Kontrolle auf die erneute Überprüfung verzichtet, es sei denn, der Zustand stimmt mit dem Ergebnis des Berichts oder der Prüfbescheinigung nicht überein oder es liegt ein offensichtlicher Mangel vor.
 
-
-## § 6 – Kontrollbericht
+# § 6 – Kontrollbericht
 
 Die zuständigen Behörden oder deren Beauftragte haben einen Kontrollbericht nach dem Muster des Anhangs IV der Richtlinie 2014/47/EU zu fertigen, wenn ein erheblicher oder gefährlicher Mangel festgestellt oder eine gründlichere technische Unterwegskontrolle durchgeführt wurde. Eine Ausfertigung des Kontrollberichts erhält der Fahrer des geprüften Nutzfahrzeugs.
 
-
-## § 7 – Bewertung von Mängeln und Folgemaßnahmen
+# § 7 – Bewertung von Mängeln und Folgemaßnahmen
 
 (1) Die bei der Kontrolle festgestellten Mängel werden nach der im Anhang II der Richtlinie 2014/47/EU vorgenommenen Bewertung in eine der Gruppen: geringe Mängel, erhebliche Mängel oder gefährliche Mängel eingestuft. Weist ein Fahrzeug Mängel auf, die in mehrere Mängelgruppen fallen, so wird es in die Gruppe eingeordnet, die dem schwerwiegendsten Mangel entspricht. Ein Fahrzeug mit mehreren Mängeln innerhalb der gleichen Prüfbereiche der technischen Unterwegskontrolle nach Anhang II Nummer 1 der Richtlinie 2014/47/EU wird in die nächsthöhere Mängelgruppe eingestuft, wenn davon auszugehen ist, dass das Zusammenwirken dieser Mängel eine größere Gefährdung der Straßenverkehrssicherheit oder der Umwelt bewirkt.
 
@@ -113,13 +103,11 @@ Die zuständigen Behörden oder deren Beauftragte haben einen Kontrollbericht na
 
 2. die Verweigerung der Einfahrt des Nutzfahrzeugs, das in einem Drittland zugelassen ist, in die Bundesrepublik Deutschland.
 
-
-## § 8 – Informationen unter den Mitgliedstaaten
+# § 8 – Informationen unter den Mitgliedstaaten
 
 Die obersten Landesbehörden oder die von ihnen beauftragten Stellen teilen jährlich zum 30. Juni dem Bundesamt für Güterverkehr zur Durchführung der Informationen unter den Mitgliedstaaten mit, welche Behörde in ihrem Land für die Durchführung der Kontrollen zuständig und wer Ansprechpartner ist.
 
-
-## § 9 – Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Behörden der Mitgliedstaaten
+# § 9 – Aufgaben der nationalen Kontaktstelle; Zusammenarbeit zwischen den Behörden der Mitgliedstaaten
 
 (1) Das Bundesamt für Güterverkehr nimmt die Aufgaben als nationale Kontaktstelle im Sinne dieser Verordnung wahr. Meldungen, Mitteilungen und Ersuchen nach den Absätzen 2 bis 5 richten die zuständigen Behörden der Länder unmittelbar an die nationale Kontaktstelle.
 
@@ -131,8 +119,7 @@ Die obersten Landesbehörden oder die von ihnen beauftragten Stellen teilen jäh
 
 (5) Wird der nationalen Kontaktstelle durch die Kontaktstelle eines Mitgliedstaats ein erheblicher oder gefährlicher Mangel an einem in Deutschland zugelassenen Fahrzeug entsprechend Absatz 2 gemeldet oder ersucht diese Kontaktstelle um angemessene Maßnahmen entsprechend Absatz 3, so unterrichtet die nationale Kontaktstelle hiervon die nach dieser Verordnung zuständige Behörde des Landes, in dem das Fahrzeug zugelassen ist, welche die erforderlichen Maßnahmen ergreift.
 
-
-## § 10 – Berichtswesen
+# § 10 – Berichtswesen
 
 (1) Die nach Bundes- und Landesrecht zuständigen Behörden übermitteln dem Bundesamt für Güterverkehr jeweils für zwei Kalenderjahre spätestens zwei Monate nach deren Ablauf einen nach dem Muster in Anlage 3 für ihren Bereich erstellten Bericht über die Anwendung dieser Verordnung mit folgenden Angaben:
 
@@ -146,8 +133,7 @@ Das Musterformular ist in elektronischem Format für jedes Zulassungsland zu ers
 
 (3) (weggefallen)
 
-
-## § 11 – Kontrollen des Bundesamtes für Güterverkehr, der Bundespolizei und der Zollverwaltung
+# § 11 – Kontrollen des Bundesamtes für Güterverkehr, der Bundespolizei und der Zollverwaltung
 
 Diese Verordnung wird entsprechend angewendet durch:
 
@@ -157,24 +143,19 @@ Diese Verordnung wird entsprechend angewendet durch:
 
 3. den Grenzzolldienst bei Kontrollen an den Grenzübergängen und im grenznahen Raum.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des dritten auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
+# Anlage 1 – (weggefallen)
 
-## Anlage 1 – (weggefallen)
+# Anlage 2 – (weggefallen)
 
-
-## Anlage 2 – (weggefallen)
-
-
-## Anlage 3 – (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
+# Anlage 3 – (zu § 10 Absatz 1)Muster des Formulars für den Bericht an das Bundesamt für Güterverkehr über die Anzahl der kontrollierten Nutzfahrzeuge und über Verstöße und Maßnahmen bei festgestellten technischen Mängeln
 
 (Fundstelle: BGBl. I 2018, 547 — 548)
 

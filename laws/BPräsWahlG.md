@@ -1,15 +1,11 @@
-# [BPräsWahlG] Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung
-
-Ausfertigungsdatum: 25.04.1959
-
+% Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung
+% Ausfertigungsdatum: 25.04.1959
  
-
-## § 1
+# § 1
 
 Der Präsident des Bundestages bestimmt Ort und Zeit des Zusammentrittes der Bundesversammlung.
 
-
-## § 2
+# § 2
 
 (1) Die Bundesregierung stellt rechtzeitig fest, wieviel Mitglieder die einzelnen Landtage zur Bundesversammlung zu wählen haben. Dabei sind die gesetzliche Mitgliederzahl des Bundestages im Zeitpunkt der Beschlußfassung der Bundesregierung und das Verhältnis der letzten amtlichen Bevölkerungszahlen der Länder zugrunde zu legen. Bei Ermittlung der Bevölkerungszahlen bleiben Ausländer (§ 2 Abs. 1 des Aufenthaltsgesetzes) unberücksichtigt. Die Bundesregierung macht die Zahl der von den einzelnen Landtagen zu wählenden Mitglieder im Bundesgesetzblatt bekannt.
 
@@ -17,13 +13,11 @@ Der Präsident des Bundestages bestimmt Ort und Zeit des Zusammentrittes der Bun
 
 § 2 Abs. 2 Satz 2 Kursivdruck: Jetzt Abs. 1 Satz 4 gem. Art. 2 Nr. 2 G v. 24.6.1975 I 1593
 
-
-## § 3
+# § 3
 
 Zur Bundesversammlung ist wählbar, wer zum Bundestag wählbar ist.
 
-
-## § 4
+# § 4
 
 (1) Der Landtag wählt die auf das Land entfallenden Mitglieder nach Vorschlagslisten. Bei der Wahl sind die Bestimmungen der Geschäftsordnung des Landtages entsprechend anzuwenden.
 
@@ -37,28 +31,23 @@ Zur Bundesversammlung ist wählbar, wer zum Bundestag wählbar ist.
 
 (6) Der Präsident des Landtages übermittelt das Ergebnis der Wahl dem Präsidenten des Bundestages.
 
-
-## § 5
+# § 5
 
 Jedes Mitglied des Landtages und jeder in eine Vorschlagsliste aufgenommene Bewerber kann binnen zwei Tagen nach Verkündung des Wahlergebnisses beim Präsidenten des Landtages Einspruch gegen die Gültigkeit der Wahl erheben. Über den Einspruch entscheidet der Landtag unverzüglich, spätestens jedoch eine Woche vor dem Zusammentritt der Bundesversammlung. Ergeht bis dahin keine Entscheidung, so entscheidet die Bundesversammlung. Der Präsident des Bundestages bereitet die Entscheidung der Bundesversammlung vor.
 
-
-## § 6
+# § 6
 
 Wird die Wahl nach § 2 Abs. 2 Satz 3 von einem Landtagsausschuß vorgenommen, so gelten §§ 4 und 5 entsprechend.
 
-
-## § 7
+# § 7
 
 Artikel 46, 47, 48 Abs. 2 des Grundgesetzes finden auf die Mitglieder der Bundesversammlung entsprechende Anwendung. Für Immunitätsangelegenheiten ist der Bundestag zuständig; die vom Bundestag oder seinem zuständigen Ausschuss erlassenen Regelungen in Immunitätsangelegenheiten gelten entsprechend. Die Mitglieder sind an Aufträge und Weisungen nicht gebunden.
 
-
-## § 8
+# § 8
 
 Der Präsident des Bundestages leitet die Sitzungen und Geschäfte der Bundesversammlung. Auf ihren Geschäftsgang findet die Geschäftsordnung des Bundestages sinngemäße Anwendung, sofern sich nicht die Bundesversammlung eine eigene Geschäftsordnung gibt.
 
-
-## § 9
+# § 9
 
 (1) Wahlvorschläge für die Wahl des Bundespräsidenten kann jedes Mitglied der Bundesversammlung beim Präsidenten des Bundestages schriftlich einreichen. Für den zweiten und dritten Wahlgang können neue Wahlvorschläge eingebracht werden. Die Wahlvorschläge dürfen nur die zur Bezeichnung des Vorgeschlagenen erforderlichen Angaben enthalten; die schriftliche Zustimmungserklärung des Vorgeschlagenen ist beizufügen.
 
@@ -70,27 +59,22 @@ Der Präsident des Bundestages leitet die Sitzungen und Geschäfte der Bundesver
 
 (5) Der Präsident des Bundestages erklärt die Bundesversammlung für beendet, nachdem der Gewählte die Wahl angenommen hat.
 
-
-## § 10
+# § 10
 
 Das Amt des Bundespräsidenten beginnt mit dem Ablauf der Amtszeit seines Vorgängers, jedoch nicht vor Eingang der Annahmeerklärung beim Präsidenten des Bundestages.
 
-
-## § 11
+# § 11
 
 Der Präsident des Bundestages veranlaßt die Eidesleistung des Bundespräsidenten.
 
-
-## § 12
+# § 12
 
 Die Mitglieder der Bundesversammlung erhalten eine Entschädigung, deren Höhe der Präsident des Bundestages in sinngemäßer Anwendung der für die Mitglieder des Bundestages geltenden Bestimmungen festsetzt.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14
+# § 14
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

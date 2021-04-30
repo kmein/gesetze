@@ -1,15 +1,11 @@
-# [IndMechaAusbV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Mechatronik
-
-Ausfertigungsdatum: 19.10.2005
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Mechatronik
+% Ausfertigungsdatum: 19.10.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Industriemeister/zur Geprüften Industriemeisterin - Fachrichtung Mechatronik nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -29,8 +25,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Mechatronik.
 
-
-## § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/zur Geprüften Industriemeisterin - Fachrichtung Mechatronik umfasst:
 
@@ -50,8 +45,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (4) Im Prüfungsteil nach Absatz 3 Nr. 1 ist schriftlich in Form von anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen, im Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich in Form von funktionsfeldbezogenen und die Handlungsbereiche integrierenden Situationsaufgaben und mündlich in Form eines situationsbezogenen Fachgesprächs gemäß § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen" ist zuzulassen, wer Folgendes nachweist:
 
@@ -71,8 +65,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (4) Abweichend von den in den Absätzen 1 und 2 Nr. 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Fachrichtungsübergreifende Basisqualifikationen
+# § 4 – Fachrichtungsübergreifende Basisqualifikationen
 
 (1) Im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen" ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -154,8 +147,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (8) Wurden in nicht mehr als zwei schriftlichen Prüfungsleistungen in den in Absatz 1 Nr. 1 bis 5 genannten Prüfungsbereichen mangelhafte Prüfungsleistungen erbracht, ist in diesen Prüfungsbereichen eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehrerer ungenügender schriftlicher Prüfungsleistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst die Handlungsbereiche "Technik", "Organisation" sowie "Führung und Personal", die den betrieblichen Funktionsfeldern "Maschinen-/Anlagenbau und -betrieb", "Montage und Inbetriebnahme" und "Betriebserhaltung und Service" zuzuordnen sind. Die Handlungsbereiche werden durch die in Absatz 2 Nr. 1 bis 3 genannten Qualifikationsschwerpunkte beschrieben. Es werden drei funktionsfeldbezogene und die Handlungsbereiche integrierende Situationsaufgaben nach den Absätzen 3 bis 5 unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen gestellt. Zwei der Situationsaufgaben sind schriftlich zu lösen, eine Situationsaufgabe ist Gegenstand des situationsbezogenen Fachgespräches nach Absatz 6. Die Situationsaufgaben sind so zu gestalten, dass alle Qualifikationsschwerpunkte der Handlungsbereiche mindestens einmal thematisiert werden. Die Prüfungsdauer der schriftlichen Situationsaufgaben beträgt jeweils mindestens vier Stunden, insgesamt jedoch nicht mehr als zehn Stunden.
 
@@ -343,15 +335,13 @@ e) Beachten von rechtlichen Rahmenbedingungen, Verträgen und Vereinbarungen, in
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 4 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -367,8 +357,7 @@ Bei der Bewertung in den Situationsaufgaben sind der Kern und die integrierten Q
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -394,8 +383,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -409,8 +397,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -418,22 +405,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2005 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2337 – 2338)
 
@@ -442,8 +426,7 @@ Diese Verordnung tritt am 1. November 2005 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2338 – 2339)
 

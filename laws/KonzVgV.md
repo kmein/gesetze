@@ -1,18 +1,13 @@
-# [KonzVgV] Verordnung über die Vergabe von Konzessionen  (Konzessionsvergabeverordnung - KonzVgV)
-
-Ausfertigungsdatum: 12.04.2016
-
+% Verordnung über die Vergabe von Konzessionen  (Konzessionsvergabeverordnung - KonzVgV)
+% Ausfertigungsdatum: 12.04.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand und Anwendungsbereich
+# § 1 – Gegenstand und Anwendungsbereich
 
 Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren bei der dem Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen unterliegenden Vergabe von Konzessionen durch einen Konzessionsgeber.
 
-
-## § 2 – Berechnung des geschätzten Vertragswerts
+# § 2 – Berechnung des geschätzten Vertragswerts
 
 (1) Der Konzessionsgeber berechnet den geschätzten Vertragswert nach einer objektiven Methode, die in den Vergabeunterlagen anzugeben ist.
 
@@ -44,15 +39,13 @@ Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren b
 
 (6) Kann ein Bauvorhaben oder eine geplante Dienstleistung zur Vergabe von Konzessionen in Form mehrerer Lose führen, ist der geschätzte Gesamtwert aller Lose zu berücksichtigen. Erreicht oder übersteigt der geschätzte Gesamtwert den maßgeblichen Schwellenwert, ist diese Verordnung für die Vergabe jedes Loses anzuwenden.
 
-
-## § 3 – Laufzeit von Konzessionen
+# § 3 – Laufzeit von Konzessionen
 
 (1) Die Laufzeit von Konzessionen ist beschränkt. Der Konzessionsgeber schätzt die Laufzeit je nach den geforderten Bau- oder Dienstleistungen.
 
 (2) Bei Konzessionen mit einer Laufzeit von über fünf Jahren darf die Laufzeit nicht länger sein als der Zeitraum, innerhalb dessen der Konzessionsnehmer nach vernünftigem Ermessen die Investitionsaufwendungen für die Errichtung, die Erhaltung und den Betrieb des Bauwerks oder die Erbringung der Dienstleistungen zuzüglich einer Rendite auf das investierte Kapital unter Berücksichtigung der zur Verwirklichung der spezifischen Vertragsziele notwendigen Investitionen wieder erwirtschaften kann. Die dabei zugrunde zu legenden Investitionsaufwendungen umfassen sowohl die zu Anfang als auch die während der Laufzeit der Konzessionen vorzunehmenden Investitionen. In diesem Rahmen kann der Konzessionsgeber für bestimmte Konzessionstypen durchschnittliche Investitionsaufwendungen und durchschnittliche Renditen zugrunde legen, soweit es die Besonderheiten des jeweiligen Konzessionstyps rechtfertigen.
 
-
-## § 4 – Wahrung der Vertraulichkeit
+# § 4 – Wahrung der Vertraulichkeit
 
 (1) Sofern in dieser Verordnung oder anderen Rechtsvorschriften nichts anderes bestimmt ist, darf der Konzessionsgeber keine von den Unternehmen übermittelten und von diesen als vertraulich gekennzeichneten Informationen weitergeben. Dazu gehören insbesondere Betriebs- und Geschäftsgeheimnisse und die vertraulichen Aspekte der Angebote einschließlich ihrer Anlagen.
 
@@ -60,8 +53,7 @@ Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren b
 
 (3) Der Konzessionsgeber kann Unternehmen Anforderungen vorschreiben, die auf den Schutz der Vertraulichkeit der Informationen im Rahmen des Vergabeverfahrens abzielen. Hierzu gehört insbesondere die Abgabe einer Verschwiegenheitserklärung.
 
-
-## § 5 – Vermeidung von Interessenkonflikten
+# § 5 – Vermeidung von Interessenkonflikten
 
 (1) Organmitglieder und Mitarbeiter des Konzessionsgebers oder eines im Namen des Konzessionsgebers handelnden Beschaffungsdienstleisters, bei denen ein Interessenkonflikt besteht, dürfen in einem Vergabeverfahren nicht mitwirken.
 
@@ -81,8 +73,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (4) Die Vermutung des Absatzes 3 gilt auch für Personen, deren Angehörige die Voraussetzungen nach Absatz 3 Nummer 1 bis 3 erfüllen. Angehörige sind der Verlobte, der Ehegatte, Lebenspartner, Verwandte und Verschwägerte gerader Linie, Geschwister, Kinder der Geschwister, Ehegatten und Lebenspartner der Geschwister und Geschwister der Ehegatten und Lebenspartner, Geschwister der Eltern sowie Pflegeeltern und Pflegekinder.
 
-
-## § 6 – Dokumentation und Vergabevermerk
+# § 6 – Dokumentation und Vergabevermerk
 
 (1) Der Konzessionsgeber dokumentiert das Vergabeverfahren von Beginn an fortlaufend in Textform nach § 126b des Bürgerlichen Gesetzbuchs, soweit dies für die Begründung von Entscheidungen auf jeder Stufe des Vergabeverfahrens erforderlich ist. Dazu gehört zum Beispiel die Dokumentation der Kommunikation mit Unternehmen und internen Beratungen, der Vorbereitung der Konzessionsbekanntmachung und der Vergabeunterlagen, der Öffnung der Teilnahmeanträge und Angebote, der Verhandlungen mit den Bewerbern und Bietern sowie der Gründe für Auswahlentscheidungen und den Zuschlag.
 
@@ -106,8 +97,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (4) § 4 bleibt unberührt.
 
-
-## § 7 – Grundsätze der Kommunikation
+# § 7 – Grundsätze der Kommunikation
 
 (1) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in einem Vergabeverfahren verwenden der Konzessionsgeber und die Unternehmen grundsätzlich Geräte und Programme für die elektronische Datenübermittlung (elektronische Mittel).
 
@@ -117,8 +107,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 7: Zur Anwendung vgl. § 35 +++)
 
-
-## § 8 – Anforderungen an die verwendeten elektronischen Mittel
+# § 8 – Anforderungen an die verwendeten elektronischen Mittel
 
 (1) Der Konzessionsgeber legt das erforderliche Sicherheitsniveau für die elektronischen Mittel fest. Elektronische Mittel, die der Konzessionsgeber für den Empfang von Teilnahmeanträgen und Angeboten verwendet, müssen gewährleisten, dass
 
@@ -140,8 +129,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 8: Zur Anwendung vgl. § 35 +++)
 
-
-## § 9 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
+# § 9 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht unangemessen einschränken. Der Konzessionsgeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.
 
@@ -157,8 +145,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 9: Zur Anwendung vgl. § 35 +++)
 
-
-## § 10 – Einsatz alternativer elektronischer Mittel bei der Kommunikation
+# § 10 – Einsatz alternativer elektronischer Mittel bei der Kommunikation
 
 Der Konzessionsgeber kann im Vergabeverfahren die Verwendung elektronischer Mittel, die nicht allgemein verfügbar sind (alternative elektronische Mittel), verlangen, wenn der Konzessionsgeber
 
@@ -168,15 +155,13 @@ Der Konzessionsgeber kann im Vergabeverfahren die Verwendung elektronischer Mitt
 
 (+++ § 10: Zur Anwendung vgl. § 35 +++)
 
-
-## § 11 – Allgemeine Verwaltungsvorschriften
+# § 11 – Allgemeine Verwaltungsvorschriften
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften über die zu verwendenden elektronischen Mittel (Basisdienste für die elektronische Konzessionsvergabe) sowie über die einzuhaltenden technischen Standards erlassen.
 
 (+++ § 11: Zur Anwendung vgl. § 35 +++)
 
-
-## § 12 – Allgemeine Grundsätze
+# § 12 – Allgemeine Grundsätze
 
 (1) Der Konzessionsgeber darf das Verfahren zur Vergabe von Konzessionen nach Maßgabe dieser Verordnung frei ausgestalten. Der Konzessionsgeber kann das Verfahren an den Vorschriften der Vergabeverordnung zum Ablauf des Verhandlungsverfahrens mit Teilnahmewettbewerb ausrichten.
 
@@ -184,8 +169,7 @@ Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvo
 
 (3) Der Konzessionsgeber darf Bewerber oder Bieter bei der Weitergabe von Informationen nicht diskriminieren.
 
-
-## § 13 – Verfahrensgarantien
+# § 13 – Verfahrensgarantien
 
 (1) Konzessionen werden auf der Grundlage der von dem Konzessionsgeber gemäß § 31 festgelegten Zuschlagskriterien vergeben, sofern alle folgenden Bedingungen erfüllt sind:
 
@@ -203,13 +187,11 @@ Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvo
 
 (4) Die Zahl der Bewerber oder Angebote kann auf eine angemessene Zahl begrenzt werden, sofern dies anhand objektiver Kriterien und in transparenter Weise geschieht. Die Zahl der zur Teilnahme oder Angebotsabgabe aufgeforderten Bewerber oder Bieter muss ausreichend hoch sein, dass der Wettbewerb gewährleistet ist.
 
-
-## § 14 – Umgehungsverbot
+# § 14 – Umgehungsverbot
 
 Das Verfahren zur Vergabe einer Konzession darf nicht in einer Weise ausgestaltet werden, dass es vom Anwendungsbereich des Teils 4 des Gesetzes gegen Wettbewerbsbeschränkungen ausgenommen wird oder bestimmte Unternehmen oder bestimmte Bauleistungen, Lieferungen oder Dienstleistungen auf unzulässige Weise bevorzugt oder benachteiligt werden.
 
-
-## § 15 – Leistungsbeschreibung
+# § 15 – Leistungsbeschreibung
 
 (1) In der Leistungsbeschreibung werden die für die vertragsgegenständlichen Bau- oder Dienstleistungen geforderten Merkmale durch technische und funktionelle Anforderungen festgelegt. Der Konzessionsgeber fasst die Leistungsbeschreibung gemäß § 152 Absatz 1 in Verbindung mit § 121 Absatz 1 und 3 des Gesetzes gegen Wettbewerbsbeschränkungen in einer Weise, dass allen Unternehmen der gleiche Zugang zum Vergabeverfahren gewährt wird und die Öffnung des nationalen Beschaffungsmarkts für den Wettbewerb nicht in ungerechtfertigter Weise behindert wird.
 
@@ -219,25 +201,21 @@ Das Verfahren zur Vergabe einer Konzession darf nicht in einer Weise ausgestalte
 
 (4) Ein Angebot darf nicht mit der Begründung abgelehnt werden, dass die angebotenen Bau- oder Dienstleistungen nicht den in der Leistungsbeschreibung genannten technischen und funktionellen Anforderungen entsprechen, wenn der Bieter in seinem Angebot mit geeigneten Mitteln nachgewiesen hat, dass die von ihm vorgeschlagenen Lösungen diese Anforderungen in gleichwertiger Weise erfüllen.
 
-
-## § 16 – Vergabeunterlagen
+# § 16 – Vergabeunterlagen
 
 Die Vergabeunterlagen umfassen jede Unterlage, die vom Konzessionsgeber erstellt wird oder auf die er sich bezieht, um Bestandteile der Konzession oder des Verfahrens zu beschreiben oder festzulegen. Dazu zählen insbesondere die Leistungsbeschreibung, der Entwurf der Vertragsbedingungen, Vorlagen für die Einreichung von Unterlagen durch Bewerber oder Bieter sowie Informationen über allgemeingültige Verpflichtungen.
 
-
-## § 17 – Bereitstellung der Vergabeunterlagen
+# § 17 – Bereitstellung der Vergabeunterlagen
 
 (1) Der Konzessionsgeber gibt in der Konzessionsbekanntmachung oder – sofern die Konzessionsbekanntmachung keine Aufforderung zur Angebotsabgabe enthält – in der Aufforderung zur Angebotsabgabe eine elektronische Adresse an, unter der die Vergabeunterlagen unentgeltlich, uneingeschränkt, vollständig und direkt abgerufen werden können.
 
 (2) Der Konzessionsgeber kann die Vergabeunterlagen auf einem anderen geeigneten Weg übermitteln, wenn aufgrund hinreichend begründeter Umstände aus außergewöhnlichen Sicherheitsgründen oder technischen Gründen oder aufgrund der besonderen Sensibilität von Handelsinformationen, die eines sehr hohen Datenschutzniveaus bedürfen, ein unentgeltlicher, uneingeschränkter und vollständiger elektronischer Zugang nicht angeboten werden kann. In diesem Fall gibt der Konzessionsgeber in der Konzessionsbekanntmachung oder der Aufforderung zur Angebotsabgabe an, dass die Vergabeunterlagen auf einem anderen geeigneten Weg übermittelt werden können und die Frist für den Eingang der Angebote verlängert wird.
 
-
-## § 18 – Zusätzliche Auskünfte zu den Vergabeunterlagen
+# § 18 – Zusätzliche Auskünfte zu den Vergabeunterlagen
 
 Der Konzessionsgeber erteilt allen Unternehmen, die sich an dem Vergabeverfahren beteiligen, spätestens sechs Tage vor dem Schlusstermin für den Eingang der Angebote zusätzliche Auskünfte zu den Vergabeunterlagen, sofern die Unternehmen diese zusätzlichen Auskünfte rechtzeitig angefordert haben.
 
-
-## § 19 – Konzessionsbekanntmachung
+# § 19 – Konzessionsbekanntmachung
 
 (1) Der Konzessionsgeber teilt seine Absicht, eine Konzession zu vergeben, in einer Konzessionsbekanntmachung mit.
 
@@ -245,8 +223,7 @@ Der Konzessionsgeber erteilt allen Unternehmen, die sich an dem Vergabeverfahren
 
 (3) Der Konzessionsgeber benennt in der Konzessionsbekanntmachung die Vergabekammer, an die sich die Unternehmen zur Nachprüfung geltend gemachter Vergabeverstöße wenden können.
 
-
-## § 20 – Ausnahmen von der Konzessionsbekanntmachung
+# § 20 – Ausnahmen von der Konzessionsbekanntmachung
 
 (1) Von einer Konzessionsbekanntmachung kann abgesehen werden, wenn die Bau- oder Dienstleistung nur von einem bestimmten Unternehmen erbracht werden kann, weil
 
@@ -270,8 +247,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 2. ein Angebot, wenn es ohne wesentliche Abänderung den in den Vergabeunterlagen genannten Bedürfnissen und Anforderungen des Konzessionsgebers offensichtlich nicht entsprechen kann.
 
-
-## § 21 – Vergabebekanntmachung, Bekanntmachung über Änderungen einer Konzession
+# § 21 – Vergabebekanntmachung, Bekanntmachung über Änderungen einer Konzession
 
 (1) Der Konzessionsgeber übermittelt spätestens 48 Tage nach der Vergabe einer Konzession eine Vergabebekanntmachung mit dem Ergebnis des Vergabeverfahrens an das Amt für Veröffentlichungen der Europäischen Union. Die Vergabebekanntmachung wird nach dem Muster gemäß Anhang XXII der Durchführungsverordnung (EU) 2015/1986 erstellt.
 
@@ -279,8 +255,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (+++ § 21 Abs. 1: Zur Anwendung vgl. § 22 Abs. 2 +++) (+++ § 21 Abs. 2: Zur Anwendung vgl. § 22 Abs. 4 +++)
 
-
-## § 22 – Konzessionen, die soziale und andere besondere Dienstleistungen betreffen
+# § 22 – Konzessionen, die soziale und andere besondere Dienstleistungen betreffen
 
 (1) Der Konzessionsgeber teilt seine Absicht, eine Konzession zur Erbringung sozialer Dienstleistungen oder anderer besonderer Dienstleistungen im Sinne des § 153 des Gesetzes gegen Wettbewerbsbeschränkungen zu vergeben, durch eine Vorinformation mit.
 
@@ -290,8 +265,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (4) Auf Bekanntmachungen über Änderungen einer Konzession gemäß § 154 Nummer 3 in Verbindung mit § 132 Absatz 5 des Gesetzes gegen Wettbewerbsbeschränkungen ist § 21 Absatz 2 anzuwenden.
 
-
-## § 23 – Form und Modalitäten der Veröffentlichung von Bekanntmachungen
+# § 23 – Form und Modalitäten der Veröffentlichung von Bekanntmachungen
 
 (1) Konzessionsbekanntmachungen, Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen zu Änderungen einer Konzession (Bekanntmachungen) sind dem Amt für Veröffentlichungen der Europäischen Union mit elektronischen Mitteln zu übermitteln.
 
@@ -299,8 +273,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (3) Bekanntmachungen dürfen frühestens 48 Stunden nach der Bestätigung des Amtes für Veröffentlichungen der Europäischen Union über die Veröffentlichung der übermittelten Informationen auf nationaler Ebene veröffentlicht werden. Die Veröffentlichung darf nur die Angaben enthalten, die in der an das Amt für Veröffentlichungen der Europäischen Union übermittelten Bekanntmachung enthalten sind. In der nationalen Bekanntmachung ist das Datum der Übermittlung an das Amt für Veröffentlichungen der Europäischen Union anzugeben.
 
-
-## § 24 – Rechtsform von Unternehmen und Bietergemeinschaften
+# § 24 – Rechtsform von Unternehmen und Bietergemeinschaften
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des Staats, in dem sie niedergelassen sind, zur Erbringung der betreffenden Leistung berechtigt sind, dürfen nicht allein deshalb zurückgewiesen werden, weil sie gemäß den deutschen Rechtsvorschriften eine natürliche oder juristische Person sein müssten. Juristische Personen können verpflichtet werden, in ihrem Antrag auf Teilnahme oder in ihrem Angebot die Namen und die berufliche Befähigung der Personen anzugeben, die für die Durchführung des Konzessionsvertrags als verantwortlich vorgesehen sind.
 
@@ -308,8 +281,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (3) Unbeschadet des Absatzes 2 kann der Konzessionsgeber verlangen, dass eine Bietergemeinschaft nach Zuschlagserteilung eine bestimmte Rechtsform annimmt, soweit dies für die ordnungsgemäße Durchführung der Konzession erforderlich ist.
 
-
-## § 25 – Anforderungen an die Auswahl geeigneter Unternehmen; Eignungsleihe
+# § 25 – Anforderungen an die Auswahl geeigneter Unternehmen; Eignungsleihe
 
 (1) Der Konzessionsgeber legt die Eignungskriterien gemäß § 152 Absatz 2 in Verbindung mit § 122 des Gesetzes gegen Wettbewerbsbeschränkungen fest und gibt die Eignungskriterien in der Konzessionsbekanntmachung an. Ist eine Konzessionsbekanntmachung gemäß § 20 nicht erforderlich, sind die Eignungskriterien in die Vergabeunterlagen aufzunehmen.
 
@@ -323,8 +295,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (+++ § 25 Abs. 3: Zur Anwendung vgl. § 33 Abs. 1 +++)
 
-
-## § 26 – Beleg für die Eignung und das Nichtvorliegen von Ausschlussgründen
+# § 26 – Beleg für die Eignung und das Nichtvorliegen von Ausschlussgründen
 
 (1) Der Konzessionsgeber prüft die Eignung und das Nichtvorliegen von Ausschlussgründen aufgrund der Vorlage von Eigenerklärungen oder von Nachweisen.
 
@@ -332,8 +303,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (3) Bei Einbeziehung von Kapazitäten anderer Unternehmen gemäß § 25 Absatz 3 können Konzessionsgeber den Nachweis verlangen, dass die zur Erfüllung der Eignungskriterien erforderlichen Mittel während der gesamten Konzessionslaufzeit zur Verfügung stehen werden.
 
-
-## § 27 – Fristen für den Eingang von Teilnahmeanträgen und Angeboten
+# § 27 – Fristen für den Eingang von Teilnahmeanträgen und Angeboten
 
 (1) Der Konzessionsgeber berücksichtigt bei der Festsetzung von Fristen insbesondere die Komplexität der Konzession und die Zeit, die für die Einreichung der Teilnahmeanträge und für die Ausarbeitung der Angebote erforderlich ist.
 
@@ -343,8 +313,7 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (4) Findet das Verfahren in mehreren Stufen statt, beträgt die Mindestfrist für den Eingang von Erstangeboten 22 Tage ab dem Tag nach der Aufforderung zur Angebotsabgabe. Der Konzessionsgeber kann die Frist für den Eingang von Angeboten um fünf Tage verkürzen, wenn diese mit elektronischen Mitteln eingereicht werden.
 
-
-## § 28 – Form und Übermittlung der Teilnahmeanträge und Angebote
+# § 28 – Form und Übermittlung der Teilnahmeanträge und Angebote
 
 (1) Bewerber oder Bieter übermitteln ihre Teilnahmeanträge und Angebote grundsätzlich in Textform nach § 126b des Bürgerlichen Gesetzbuchs mithilfe elektronischer Mittel.
 
@@ -364,13 +333,11 @@ b) der Teilnahmeantrag ein ungeeignetes Angebot enthält, weil dieses ohne wesen
 
 (+++ § 28: Zur Anwendung vgl. § 35 +++)
 
-
-## § 29 – Prüfung und Aufbewahrung der ungeöffneten Teilnahmeanträge und Angebote
+# § 29 – Prüfung und Aufbewahrung der ungeöffneten Teilnahmeanträge und Angebote
 
 Der Konzessionsgeber prüft den Inhalt der Teilnahmeanträge und Angebote erst nach Ablauf der Frist für ihre Einreichung. Bei der Aufbewahrung der ungeöffneten Teilnahmeanträge und Angebote sind die Integrität und die Vertraulichkeit der Daten zu gewährleisten.
 
-
-## § 30 – Unterrichtung der Bewerber oder Bieter
+# § 30 – Unterrichtung der Bewerber oder Bieter
 
 (1) Unbeschadet § 134 des Gesetzes gegen Wettbewerbsbeschränkungen unterrichtet der Konzessionsgeber alle Bewerber oder Bieter unverzüglich über die Entscheidungen hinsichtlich des Zuschlags, einschließlich des Namens des erfolgreichen Bieters, der Gründe für die Ablehnung ihrer Teilnahmeanträge oder Angebote sowie die Gründe für eine Entscheidung, Konzessionen, für die eine Konzessionsbekanntmachung veröffentlicht wurde, nicht zu vergeben oder das Verfahren neu einzuleiten.
 
@@ -386,8 +353,7 @@ Der Konzessionsgeber prüft den Inhalt der Teilnahmeanträge und Angebote erst n
 
 würde.
 
-
-## § 31 – Zuschlagskriterien
+# § 31 – Zuschlagskriterien
 
 (1) Die Zuschlagskriterien nach § 152 Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen sind in absteigender Rangfolge anzugeben.
 
@@ -395,8 +361,7 @@ würde.
 
 (3) Der Konzessionsgeber überprüft nach § 152 Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen, ob die Angebote die Zuschlagskriterien tatsächlich erfüllen.
 
-
-## § 32 – Aufhebung von Vergabeverfahren
+# § 32 – Aufhebung von Vergabeverfahren
 
 (1) Der Konzessionsgeber ist berechtigt, ein Vergabeverfahren ganz oder teilweise aufzuheben, wenn
 
@@ -412,8 +377,7 @@ Im Übrigen ist der Konzessionsgeber grundsätzlich nicht verpflichtet, den Zusc
 
 (2) Der Konzessionsgeber teilt den Bewerbern oder Bietern nach Aufhebung des Vergabeverfahrens unverzüglich die Gründe für seine Entscheidung mit, auf die Vergabe einer Konzession zu verzichten oder das Verfahren erneut einzuleiten. Auf Antrag teilt er ihnen dies in Textform nach § 126b des Bürgerlichen Gesetzbuchs mit.
 
-
-## § 33 – Vergabe von Unteraufträgen
+# § 33 – Vergabe von Unteraufträgen
 
 (1) Der Konzessionsgeber kann Unternehmen in der Konzessionsbekanntmachung oder den Vergabeunterlagen auffordern, bei Angebotsabgabe die Teile der Konzession, die sie im Wege der Unterauftragsvergabe an Dritte zu vergeben beabsichtigen, sowie, falls zumutbar, die vorgesehenen Unterauftragnehmer zu benennen. Vor Zuschlagserteilung kann der Konzessionsgeber von den Bietern, deren Angebote in die engere Wahl kommen, verlangen, die Unterauftragnehmer zu benennen und nachzuweisen, dass ihnen die erforderlichen Mittel dieser Unterauftragnehmer zur Verfügung stehen. Wenn ein Bewerber oder Bieter die Vergabe eines Teils der Konzession an einen Dritten im Wege der Unterauftragsvergabe beabsichtigt und sich zugleich im Hinblick auf seine Leistungsfähigkeit auf die Kapazitäten dieses Dritten beruft, ist auch § 25 Absatz 3 anzuwenden.
 
@@ -427,17 +391,14 @@ Im Übrigen ist der Konzessionsgeber grundsätzlich nicht verpflichtet, den Zusc
 
 (6) Der Konzessionsgeber überprüft vor der Erteilung des Zuschlags, ob Gründe für den Ausschluss von Unterauftragnehmern vorliegen. Bei Vorliegen zwingender Ausschlussgründe verlangt der Konzessionsgeber, dass der Unterauftragnehmer ersetzt wird, bei Vorliegen fakultativer Ausschlussgründe kann der Konzessionsgeber verlangen, dass der Unterauftragnehmer ersetzt wird. Der Konzessionsgeber kann dem Bewerber oder Bieter dafür eine Frist setzen.
 
-
-## § 34 – Übergangsbestimmung für die elektronische Kommunikation und elektronische Übermittlung von Teilnahmeanträgen und Angeboten
+# § 34 – Übergangsbestimmung für die elektronische Kommunikation und elektronische Übermittlung von Teilnahmeanträgen und Angeboten
 
 Abweichend von § 28 Absatz 1 kann der Konzessionsgeber bis zum 18. Oktober 2018 die Übermittlung der Teilnahmeanträge und Angebote auch auf dem Postweg, einem anderen geeigneten Weg, Fax oder durch die Kombination dieser Mittel verlangen. Dasselbe gilt für die sonstige Kommunikation im Sinne des § 7 Absatz 1, soweit sie nicht die Übermittlung von Bekanntmachungen gemäß § 23 und die Bereitstellung der Vergabeunterlagen gemäß § 17 betrifft.
 
-
-## § 35 – Elektronische Kommunikation durch Auslandsdienststellen
+# § 35 – Elektronische Kommunikation durch Auslandsdienststellen
 
 Auslandsdienststellen sind bei der Vergabe von Konzessionen nicht verpflichtet, elektronische Mittel nach den §§ 7 bis 11 und 28 dieser Verordnung anzuwenden.
 
-
-## § 36 – Fristberechnung
+# § 36 – Fristberechnung
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L 124 vom 8.6.1971, S. 1).

@@ -1,15 +1,11 @@
-# [HalblSchV] Verordnung zur Ausführung des Halbleiterschutzgesetzes  (Halbleiterschutzverordnung - HalblSchV)
-
-Ausfertigungsdatum: 11.05.2004
-
+% Verordnung zur Ausführung des Halbleiterschutzgesetzes  (Halbleiterschutzverordnung - HalblSchV)
+% Ausfertigungsdatum: 11.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 3 des Halbleiterschutzgesetzes vom 22. Oktober 1987 (BGBl. I S. 2294), der durch Artikel 2 Abs. 15 des Gesetzes vom 12. März 2004 (BGBl. I S. 390) geändert worden ist, in Verbindung mit Artikel 28 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827) sowie in Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl. I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -65,20 +61,17 @@ Schlussvorschriften
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Für die Anmeldung einer Topografie gelten ergänzend zu den Bestimmungen des Halbleiterschutzgesetzes und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 
-
-## § 2 – Form der Einreichung
+# § 2 – Form der Einreichung
 
 (1) Die Anmeldung der Topografie ist beim Deutschen Patent- und Markenamt schriftlich einzureichen.
 
 (2) Die Anmeldung zur Eintragung des Schutzes der Topografie muss unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
-
-## § 3 – Anmeldung der Topografie
+# § 3 – Anmeldung der Topografie
 
 (1) Die Anmeldung muss zur Wahrung des Anmeldetages enthalten:
 
@@ -126,8 +119,7 @@ bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit A
 
 (7) Falls der Anmelder Teile der Unterlagen als Betriebs- oder Geschäftsgeheimnisse kennzeichnen will, kann der Eintragungsantrag entsprechende Angaben enthalten (§ 4 Abs. 3 des Halbleiterschutzgesetzes).
 
-
-## § 4 – Unterlagen zur Identifizierung oder Veranschaulichung
+# § 4 – Unterlagen zur Identifizierung oder Veranschaulichung
 
 (1) Zur Identifizierung oder Veranschaulichung der Topografie sind folgende Unterlagen einzureichen:
 
@@ -139,13 +131,11 @@ bei einer Gesellschaft bürgerlichen Rechts zusätzlich Name und Anschrift mit A
 
 (2) Ergänzend zu den in Absatz 1 genannten Unterlagen können Datenträger oder Ausdrucke davon oder das Halbleitererzeugnis, für dessen Topografie Schutz beantragt wird, oder eine erläuternde Beschreibung eingereicht werden.
 
-
-## § 5 – Betriebs- oder Geschäftsgeheimnisse
+# § 5 – Betriebs- oder Geschäftsgeheimnisse
 
 Werden Unterlagen als Betriebs- oder Geschäftsgeheimnisse gekennzeichnet, so sind die gekennzeichneten Teile in der Anmeldung getrennt von den übrigen Teilen einzureichen. Die Unterlagen können auch in einem Originalexemplar und einem weiteren Exemplar mit unkenntlich gemachten Teilen eingereicht werden; das Originalexemplar wird für die Akteneinsicht in Löschungs-, Rechtsgültigkeits- und Verletzungsverfahren (§ 4 Abs. 3 Satz 1 des Halbleiterschutzgesetzes), das Zweitexemplar für die allgemeine Akteneinsicht zur Verfügung gehalten.
 
-
-## § 6 – Fremdsprachige Dokumente
+# § 6 – Fremdsprachige Dokumente
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
 
@@ -161,17 +151,14 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 (4) Wird die Übersetzung im Sinne der Absätze 2 und 3 nach Ablauf der Frist eingereicht, so gilt das fremdsprachige Dokument als zum Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht eingegangen.
 
-
-## § 7 – Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+# § 7 – Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
 Für Anmeldungen einer Topografie, die vor Inkrafttreten dieser Verordnung eingereicht worden sind, gelten die Vorschriften der Halbleiterschutzanmeldeverordnung vom 4. November 1987 (BGBl. I S. 2361), geändert durch Artikel 24 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827).
 
-
-## § 8 – Übergangsregelung für künftige Änderungen
+# § 8 – Übergangsregelung für künftige Änderungen
 
 Für Anmeldungen einer Topografie, die vor Inkrafttreten von Änderungen dieser Verordnung eingereicht worden sind, gelten die Vorschriften dieser Verordnung in ihrer bis dahin geltenden Fassung.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.

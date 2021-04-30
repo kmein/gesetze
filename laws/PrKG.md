@@ -1,10 +1,7 @@
-# [PrKG] Gesetz über das Verbot der Verwendung von Preisklauseln bei der Bestimmung von Geldschulden  (Preisklauselgesetz)
-
-Ausfertigungsdatum: 07.09.2007
-
+% Gesetz über das Verbot der Verwendung von Preisklauseln bei der Bestimmung von Geldschulden  (Preisklauselgesetz)
+% Ausfertigungsdatum: 07.09.2007
  
-
-## § 1 – Preisklauselverbot
+# § 1 – Preisklauselverbot
 
 (1) Der Betrag von Geldschulden darf nicht unmittelbar und selbsttätig durch den Preis oder Wert von anderen Gütern oder Leistungen bestimmt werden, die mit den vereinbarten Gütern oder Leistungen nicht vergleichbar sind.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 07.09.2007
 
 (3) Die Vorschriften über die Indexmiete nach § 557b des Bürgerlichen Gesetzbuches und über die Zulässigkeit von Preisklauseln in Wärmelieferungsverträgen nach der Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme bleiben unberührt.
 
-
-## § 2 – Ausnahmen vom Verbot
+# § 2 – Ausnahmen vom Verbot
 
 (1) Von dem Verbot nach § 1 Abs. 1 ausgenommen sind die in den §§ 3 bis 7 genannten zulässigen Preisklauseln. Satz 1 gilt im Fall
 
@@ -41,8 +37,7 @@ nur, wenn die Preisklausel im Einzelfall hinreichend bestimmt ist und keine Vert
 
 3. der geschuldete Betrag sich gegenüber der Entwicklung der Bezugsgröße unverhältnismäßig ändern kann.
 
-
-## § 3 – Langfristige Verträge
+# § 3 – Langfristige Verträge
 
 (1) Preisklauseln in Verträgen
 
@@ -76,33 +71,27 @@ sind zulässig, wenn der geschuldete Betrag durch die Änderung eines von dem St
 
 sind zulässig, wenn der geschuldete Betrag von der künftigen Einzel- oder Durchschnittsentwicklung von Preisen oder Werten für Güter oder Leistungen abhängig gemacht wird, die der Schuldner in seinem Betrieb erzeugt, veräußert oder erbringt, oder wenn der geschuldete Betrag von der künftigen Einzel- oder Durchschnittsentwicklung von Preisen oder Werten von Grundstücken abhängig sein soll und das Schuldverhältnis auf die land- oder forstwirtschaftliche Nutzung beschränkt ist.
 
-
-## § 4 – Erbbaurechtsverträge
+# § 4 – Erbbaurechtsverträge
 
 Zulässig sind Preisklauseln in Erbbaurechtsbestellungsverträgen und Erbbauzinsreallasten mit einer Laufzeit von mindestens 30 Jahren. § 9a der Verordnung über das Erbbaurecht, § 46 des Sachenrechtsbereinigungsgesetzes und § 4 des Erholungsnutzungsrechtsgesetzes bleiben unberührt.
 
-
-## § 5 – Geld- und Kapitalverkehr
+# § 5 – Geld- und Kapitalverkehr
 
 Zulässig sind Preisklauseln im Geld- und Kapitalverkehr, einschließlich der Finanzinstrumente im Sinne des § 1 Abs. 11 des Kreditwesengesetzes sowie die hierauf bezogenen Pensions- und Darlehensgeschäfte.
 
-
-## § 6 – Verträge mit Gebietsfremden
+# § 6 – Verträge mit Gebietsfremden
 
 Zulässig sind Preisklauseln in Verträgen von gebietsansässigen Unternehmern (§ 14 des Bürgerlichen Gesetzbuches) mit Gebietsfremden.
 
-
-## § 7 – Verträge zur Deckung des Bedarfs der Streitkräfte
+# § 7 – Verträge zur Deckung des Bedarfs der Streitkräfte
 
 Zulässig sind Preisklauseln bei Verträgen, die der Deckung des Bedarfs der Streitkräfte dienen, wenn der geschuldete Betrag durch die Änderung eines von dem Statistischen Bundesamt, einem Statistischen Landesamt oder dem Statistischen Amt der Europäischen Gemeinschaften ermittelten Preisindex bestimmt wird.
 
-
-## § 8 – Unwirksamkeit der Preisklausel
+# § 8 – Unwirksamkeit der Preisklausel
 
 Die Unwirksamkeit der Preisklausel tritt zum Zeitpunkt des rechtskräftig festgestellten Verstoßes gegen dieses Gesetz ein, soweit nicht eine frühere Unwirksamkeit vereinbart ist. Die Rechtswirkungen der Preisklausel bleiben bis zum Zeitpunkt der Unwirksamkeit unberührt.
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 (1) Nach § 2 des Preisangaben- und Preisklauselgesetzes in der bis zum 13. September 2007 geltenden Fassung erteilte Genehmigungen gelten fort.
 

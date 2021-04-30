@@ -1,15 +1,11 @@
-# [BBKG] Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe  (BBKG)
-
-Ausfertigungsdatum: 27.04.2004
-
+% Gesetz über die Errichtung des Bundesamtes für Bevölkerungsschutz und Katastrophenhilfe  (BBKG)
+% Ausfertigungsdatum: 27.04.2004
  
-
-## § 1 – Errichtung des Bundesamtes
+# § 1 – Errichtung des Bundesamtes
 
 Der Bund errichtet das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe als Bundesoberbehörde. Es untersteht dem Bundesministerium des Innern, für Bau und Heimat.
 
-
-## § 2 – Aufgaben des Bundesamtes
+# § 2 – Aufgaben des Bundesamtes
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Bevölkerungsschutzes und der Katastrophenhilfe wahr, die ihm durch das Zivilschutz- und Katastrophenhilfegesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze übertragen werden oder mit deren Durchführung es vom Bundesministerium des Innern, für Bau und Heimat oder mit dessen Zustimmung von anderen fachlich zuständigen obersten Bundesbehörden beauftragt wird, soweit keine andere Zuständigkeit durch Gesetz oder auf Grund eines Gesetzes festgelegt ist.
 

@@ -1,5 +1,3 @@
-# [StreumunitionÜbk] Übereinkommen über Streumunition
-
-Ausfertigungsdatum: 30.05.2008
-
+% Übereinkommen über Streumunition
+% Ausfertigungsdatum: 30.05.2008
  

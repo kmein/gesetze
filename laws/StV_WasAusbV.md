@@ -1,15 +1,11 @@
-# [StV/WasAusbV] Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik und zur Fachkraft für Wasserwirtschaft
-
-Ausfertigungsdatum: 21.07.2000
-
+% Verordnung über die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik und zur Fachkraft für Wasserwirtschaft
+% Ausfertigungsdatum: 21.07.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnen im Einvernehmen mit dem Bundesministerium für Bildung und Forschung jeweils das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
-## ----
+# ----
 
 Erster Teil
 
@@ -113,8 +109,7 @@ Anlage 2
 
 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -124,18 +119,15 @@ Die Ausbildungsberufe
 
 werden staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Im Übrigen sind sie Ausbildungsberufe der gewerblichen Wirtschaft.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zu einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigungen sind auch in den Prüfungen nach den §§ 8, 9, 14 und 15 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -173,23 +165,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 17. Qualitätssichernde Maßnahmen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -214,14 +202,12 @@ Verwenden von Baustoffen und Böden.
 
 Das Ergebnis ist in einem Gespräch mit dem Prüfungsausschuss zu erläutern. Das Gespräch soll nicht länger als 15 Minuten dauern. Durch die Ausführung der Aufgabe, deren Dokumentation sowie durch das Gespräch soll der Prüfling zeigen, dass er Arbeitsschritte planen und hierbei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zur Wirtschaftlichkeit berücksichtigen kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll in Teil A der Prüfung in höchstens 28 Stunden eine projektorientierte praktische Aufgabe bearbeiten und schriftlich dokumentieren. Hierfür kommt insbesondere in Betracht:  
-Planen, Entwerfen und Konstruieren von Verkehrswegen oder Ingenieurbauwerken unter Einbeziehung der Vermessungsarbeiten sowie des Erstellens von planungs- und umweltrechtlichen Unterlagen.  
-Die Ausführung der Aufgaben wird mit praxisbezogenen Unterlagen dokumentiert. Das Ergebnis ist in einem Gespräch mit dem Prüfungsausschuss zu erläutern. Das Gespräch soll nicht länger als 30 Minuten dauern. Durch die Ausführung der Aufgabe, deren Dokumentation sowie durch das Gespräch soll der Prüfling zeigen, dass er Arbeitsabläufe und Teilaufgaben kunden- und zielorientiert unter Beachtung wirtschaftlicher Vorgaben selbständig planen und umsetzen sowie Dokumentationen fachgerecht anfertigen und dabei qualitätssichernde Maßnahmen anwenden kann.
+Planen, Entwerfen und Konstruieren von Verkehrswegen oder Ingenieurbauwerken unter Einbeziehung der Vermessungsarbeiten sowie des Erstellens von planungs- und umweltrechtlichen Unterlagen. Die Ausführung der Aufgaben wird mit praxisbezogenen Unterlagen dokumentiert. Das Ergebnis ist in einem Gespräch mit dem Prüfungsausschuss zu erläutern. Das Gespräch soll nicht länger als 30 Minuten dauern. Durch die Ausführung der Aufgabe, deren Dokumentation sowie durch das Gespräch soll der Prüfling zeigen, dass er Arbeitsabläufe und Teilaufgaben kunden- und zielorientiert unter Beachtung wirtschaftlicher Vorgaben selbständig planen und umsetzen sowie Dokumentationen fachgerecht anfertigen und dabei qualitätssichernde Maßnahmen anwenden kann.
 
 (3) Teil B der Prüfung besteht aus den Prüfungsbereichen
 
@@ -283,8 +269,7 @@ allgemeine, wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs-
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B sowie innerhalb des Prüfungsteiles B in mindestens zwei der Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden sind. Werden die Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Ausbildungsberufsbild
+# § 10 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -324,23 +309,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 18. Qualitätssichernde Maßnahmen.
 
-
-## § 11 – Ausbildungsrahmenplan
+# § 11 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 10 sollen nach der in der Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 12 – Ausbildungsplan
+# § 12 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 13 – Berichtsheft
+# § 13 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 14 – Zwischenprüfung
+# § 14 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -365,14 +346,12 @@ Verwenden von Baustoffen und Böden.
 
 Das Ergebnis ist in einem Gespräch mit dem Prüfungsausschuss zu erläutern. Das Gespräch soll nicht länger als 15 Minuten dauern. Durch die Ausführung der Aufgabe, deren Dokumentation sowie durch das Gespräch soll der Prüfling zeigen, dass er Arbeitsschritte planen und hierbei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zur Wirtschaftlichkeit berücksichtigen kann.
 
-
-## § 15 – Abschlussprüfung
+# § 15 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll in Teil A der Prüfung in höchstens 28 Stunden eine projektorientierte praktische Aufgabe bearbeiten und schriftlich dokumentieren. Hierfür kommt insbesondere in Betracht:  
-Planen, Entwerfen und Konstruieren wasserwirtschaftlicher Anlagen unter Einbeziehung des Erstellens wasserrechtlicher Unterlagen.  
-Die Ausführung der Aufgabe wird mit praxisbezogenen Unterlagen dokumentiert. Das Ergebnis ist in einem Gespräch mit dem Prüfungsausschuss zu erläutern. Das Gespräch soll nicht länger als 30 Minuten dauern. Durch die Ausführung der Aufgabe, deren Dokumentation sowie durch das Gespräch soll der Prüfling zeigen, dass er Arbeitsabläufe und Teilaufgaben kunden- und zielorientiert unter Beachtung wirtschaftlicher Vorgaben selbständig planen und umsetzen sowie Dokumentationen fachgerecht anfertigen und dabei qualitätssichernde Maßnahmen anwenden kann.
+Planen, Entwerfen und Konstruieren wasserwirtschaftlicher Anlagen unter Einbeziehung des Erstellens wasserrechtlicher Unterlagen. Die Ausführung der Aufgabe wird mit praxisbezogenen Unterlagen dokumentiert. Das Ergebnis ist in einem Gespräch mit dem Prüfungsausschuss zu erläutern. Das Gespräch soll nicht länger als 30 Minuten dauern. Durch die Ausführung der Aufgabe, deren Dokumentation sowie durch das Gespräch soll der Prüfling zeigen, dass er Arbeitsabläufe und Teilaufgaben kunden- und zielorientiert unter Beachtung wirtschaftlicher Vorgaben selbständig planen und umsetzen sowie Dokumentationen fachgerecht anfertigen und dabei qualitätssichernde Maßnahmen anwenden kann.
 
 (3) Teil B der Prüfung besteht aus den Prüfungsbereichen
 
@@ -385,8 +364,7 @@ Abwicklung wasserwirtschaftlicher Maßnahmen,
 \-  
 Wirtschafts- und Sozialkunde.
 
-In den Prüfungsbereichen Abwicklung wasserwirtschaftlicher Maßnahmen sowie Überwachung von Gewässern, Anlagen und Gebieten sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege schriftlich darzustellen.  
-Für den Prüfungsbereich Abwicklung wasserwirtschaftlicher Maßnahmen kommt insbesondere eine der nachfolgenden Aufgaben in Betracht:
+In den Prüfungsbereichen Abwicklung wasserwirtschaftlicher Maßnahmen sowie Überwachung von Gewässern, Anlagen und Gebieten sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Sachverhalte fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege schriftlich darzustellen. Für den Prüfungsbereich Abwicklung wasserwirtschaftlicher Maßnahmen kommt insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
 a) Festlegen von Bauweisen, Entscheidung über den Einsatz von Maschinen und Geräten,
 
@@ -433,13 +411,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B sowie innerhalb des Prüfungsteiles B in mindestens zwei der Prüfungsbereiche mindestens ausreichende Leistungen erbracht worden sind. Werden die Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 16 – Übergangsregelung
+# § 16 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 17 – Inkrafttreten, Außerkrafttreten
+# § 17 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2000 in Kraft. Gleichzeitig treten außer Kraft:
 
@@ -455,8 +431,7 @@ die Ausbildungsordnung für den Ausbildungsberuf Planungstechniker/Planungstechn
 \-  
 der Erlaß des Regierungspräsidiums Nordwürttemberg über den Ausbildungsberuf Bautechniker/Bautechnikerin in der Wasserwirtschaftsverwaltung vom 1. Oktober 1957 (Baden-Württembergisches Verordnungsblatt - 4413/22).
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
 
 (Fundstelle: BGBl. I 2000, 1153 - 1158)
 
@@ -1110,8 +1085,7 @@ zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereic
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 2 – (zu § 11)  Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
+# Anlage 2 – (zu § 11)  Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
 
 (Fundstelle: BGBl. I 2000, 1159 - 1164)
 

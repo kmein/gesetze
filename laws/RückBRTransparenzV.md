@@ -1,15 +1,11 @@
-# [RückBRTransparenzV] Verordnung über die Umsetzung der Auskunftspflicht und die Ausgestaltung der Informationen nach dem Transparenzgesetz  (Rückbaurückstellungs-Transparenzverordnung)
-
-Ausfertigungsdatum: 09.07.2018
-
+% Verordnung über die Umsetzung der Auskunftspflicht und die Ausgestaltung der Informationen nach dem Transparenzgesetz  (Rückbaurückstellungs-Transparenzverordnung)
+% Ausfertigungsdatum: 09.07.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 des Transparenzgesetzes vom 27. Januar 2017 (BGBl. I S. 114, 125, 1676) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 14. März 2018 (BGBl. I S. 374) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium der Finanzen:
 
-
-## § 1 – Mitteilung von Kontaktdaten durch den Betreiber
+# § 1 – Mitteilung von Kontaktdaten durch den Betreiber
 
 (1) Der Betreiber einer in Anhang 1 des Entsorgungsfondsgesetzes aufgeführten Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität (Betreiber) ist verpflichtet, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle bis zum 30. September 2018 von folgenden Personen Name, Anschrift, Telefonnummer und E-Mail-Adresse mitzuteilen:
 
@@ -21,27 +17,23 @@ Auf Grund des § 9 des Transparenzgesetzes vom 27. Januar 2017 (BGBl. I S. 114, 
 
 (3) Die Angaben nach Absatz 1 werden durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle ausschließlich für Mitteilungen und Auskunftsverlangen nach dieser Verordnung und für seine Mitteilung nach § 5 des Transparenzgesetzes verwendet.
 
-
-## § 2 – Mitteilung des Abschlussstichtages durch den Betreiber
+# § 2 – Mitteilung des Abschlussstichtages durch den Betreiber
 
 (1) Der Betreiber ist verpflichtet, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle bis zum 30. September 2018 seinen Abschlussstichtag mitzuteilen.
 
 (2) Ändert sich der Abschlussstichtag des Betreibers, so ist der Betreiber verpflichtet, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle unverzüglich den neuen Stichtag mitzuteilen.
 
-
-## § 3 – Bestimmung des für die Aufstellung der Rückstellungen maßgeblichen Stichtages
+# § 3 – Bestimmung des für die Aufstellung der Rückstellungen maßgeblichen Stichtages
 
 (1) Bestimmt das Bundesamt für Wirtschaft und Ausfuhrkontrolle gemäß § 1 Absatz 2 des Transparenzgesetzes selbst einen Stichtag für die Aufstellung, so ist die Festlegung zu begründen und dem Betreiber mindestens ein Jahr vor dem neuen Stichtag mitzuteilen.
 
 (2) Geht die Mitteilung des Betreibers über die Änderung des Abschlussstichtages gemäß § 2 Absatz 2 des Transparenzgesetzes dem Bundesamt für Wirtschaft und Ausfuhrkontrolle weniger als sechs Monate vor dem bisherigen Abschlussstichtag zu, so kann dieses innerhalb eines Monats nach Zugang bestimmen, dass die nächste Aufstellung weiterhin auf den bisherigen Abschlussstichtag zu erstellen ist. Die Festlegung ist dem Betreiber unverzüglich mitzuteilen. Absatz 1 bleibt unberührt.
 
-
-## § 4 – Verlangen weiterer Auskünfte
+# § 4 – Verlangen weiterer Auskünfte
 
 Bei der Anforderung weiterer Auskünfte vom Betreiber kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle verlangen oder sein Einverständnis erklären, dass der Betreiber die Auskunft mündlich, schriftlich oder elektronisch erteilt. Für die Erteilung der weiteren Auskünfte setzt es dem Betreiber eine angemessene Frist.
 
-
-## § 5 – Anforderungen an die Aufstellung der Rückstellungen für Rückbauverpflichtungen
+# § 5 – Anforderungen an die Aufstellung der Rückstellungen für Rückbauverpflichtungen
 
 (1) In der Aufstellung der Rückstellungen für Rückbauverpflichtungen hat der Betreiber nach § 2 Absatz 1 und Absatz 2 Satz 1 sowie § 3 Absatz 2 des Transparenzgesetzes die im Jahresabschluss ausgewiesenen Rückstellungsbeträge darzustellen. Die angesetzten Aufwendungen für Rückbauverpflichtungen, die der Rückstellungsbildung zugrunde liegen, hat er gemäß § 2 Absatz 2 Satz 2 des Transparenzgesetzes den jeweiligen Geschäftsjahren zuzuordnen, in denen ihre Inanspruchnahme angenommen wird. Die der Aufstellung zugrundeliegenden Annahmen und Randbedingungen, insbesondere zum Diskontierungszinssatz und der Kostenentwicklung, sind darzustellen und näher zu erläutern.
 
@@ -79,8 +71,7 @@ b) Aufwendungen für bezogene Leistungen.
 
 2. wirtschaftliche, technische oder rechtliche Entwicklungen, die sich wesentlich auf die notwendige Höhe der Rückstellungen oder die verfügbaren liquiden Mittel auswirken können.
 
-
-## § 6 – Darstellung des Haftungskreises durch den Betreiber
+# § 6 – Darstellung des Haftungskreises durch den Betreiber
 
 (1) Die Liste zur Darstellung des Haftungskreises, die der Betreiber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nach § 3 Absatz 1 des Transparenzgesetzes zu übermitteln hat, muss den Namen oder die Firma, die Rechtsform, den Sitz, die gesetzlichen Vertreter und die Handelsregisternummer der nach § 1 Absatz 1 des Nachhaftungsgesetzes haftenden Gesellschaften enthalten.
 
@@ -88,8 +79,7 @@ b) Aufwendungen für bezogene Leistungen.
 
 (3) Für die Liste zur Darstellung des Haftungskreises hat der Betreiber die Formvorgaben zu beachten, die ihm dafür vom Bundesamt für Wirtschaft und Ausfuhrkontrolle mitgeteilt werden. Werden dem Betreiber die Formvorgaben nicht rechtzeitig gemäß § 7 Absatz 3 mitgeteilt, so ist er nicht verpflichtet, sie zu beachten.
 
-
-## § 7 – Form der Aufstellung der Rückstellungen und der Darstellung des Haftungskreises
+# § 7 – Form der Aufstellung der Rückstellungen und der Darstellung des Haftungskreises
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann die Form der Aufstellung der Rückstellungen für Rückbauverpflichtungen nach § 2 Absatz 1 des Transparenzgesetzes vorgeben.
 
@@ -97,13 +87,11 @@ b) Aufwendungen für bezogene Leistungen.
 
 (3) Die Formvorgaben teilt das Bundesamt für Wirtschaft und Ausfuhrkontrolle dem Betreiber spätestens drei Monate vor dem Stichtag für die Aufstellung mit.
 
-
-## § 8 – Form der Übermittlung
+# § 8 – Form der Übermittlung
 
 Die Mitteilungen und Darstellungen gemäß den §§ 1 bis 7 sind in elektronischer Form zu übermitteln. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann sein Einverständnis erklären, dass bestimmte Mitteilungen und Darstellungen schriftlich eingereicht werden; § 4 bleibt unberührt.
 
-
-## § 9 – Gesonderter Bericht des Betreibers im Hinblick auf die Rückbauverpflichtungen
+# § 9 – Gesonderter Bericht des Betreibers im Hinblick auf die Rückbauverpflichtungen
 
 (1) Der Betreiber ist verpflichtet, den gesonderten Bericht nach § 4 des Transparenzgesetzes spätestens am 30. November ohne personenbezogene Daten auf seiner Internetseite zu veröffentlichen.
 
@@ -111,12 +99,10 @@ Die Mitteilungen und Darstellungen gemäß den §§ 1 bis 7 sind in elektronisch
 
 (3) Der Bericht nach Absatz 1 ist in einfacher, verständlicher Form abzufassen und muss sich in seiner Gliederung an den Anforderungen nach § 5 Absatz 1 und 2 orientieren.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt an dem Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

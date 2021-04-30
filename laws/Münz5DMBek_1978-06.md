@@ -1,10 +1,7 @@
-# [Münz5DMBek 1978-06] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Neumann-Gedenkmünze)
-
-Ausfertigungsdatum: 28.06.1978
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Neumann-Gedenkmünze)
+% Ausfertigungsdatum: 28.06.1978
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung ist aus Anlaß der 225. Wiederkehr des Todestages des größten Baukünstlers des deutschen Barock, Balthasar Neumann, eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der Staatlichen Münze Stuttgart, die Auflage beträgt 8 Millionen Stück.
 
@@ -35,13 +32,11 @@ Ausfertigungsdatum: 28.06.1978
 
 (9) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

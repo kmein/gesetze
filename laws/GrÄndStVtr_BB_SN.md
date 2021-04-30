@@ -1,15 +1,11 @@
-# [GrÄndStVtr BB/SN] Staatsvertrag zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze)
-
-Ausfertigungsdatum: 15.05.1998
-
+% Staatsvertrag zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze)
+% Ausfertigungsdatum: 15.05.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Land Brandenburg und der Freistaat Sachsen (Vertragsparteien) schließen auf der Grundlage des Artikels 29 Abs. 7 des Grundgesetzes in Verbindung mit § 2 Abs. 1 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) folgenden Staatsvertrag:
 
-
-## Art 1
+# Art 1
 
 (1) Die Flurstücke 2/2, 2/5, 3/1, 3/2 und 4/1 der Flur 6 der Gemarkung Rohne, Gemeinde Schleife, Landkreis Niederschlesischer Oberlausitzkreis, werden aus dem Freistaat Sachsen ausgegliedert und in das Land Brandenburg, Landkreis Spree-Neiße, Gemeinde Graustein, eingegliedert (Umgliederungsgebiet 1).
 
@@ -19,8 +15,7 @@ Das Land Brandenburg und der Freistaat Sachsen (Vertragsparteien) schließen auf
 
 (4) Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze ist in den Anlagen 1 und 2 zu diesem Vertrag dargestellt.
 
-
-## Art 2
+# Art 2
 
 (1) Mit Inkrafttreten dieses Vertrages treten in den Umgliederungsgebieten das Landesrecht des aufnehmenden Landes und das jeweilige Landkreisrecht in Kraft. Das bisherige Landes- und Landkreisrecht tritt außer Kraft. In den Umgliederungsgebieten geltendes Ortsrecht bleibt in Kraft. Im Falle eines Widerspruchs zu Landes- oder Landkreisrecht des aufnehmenden Landes ist das Ortsrecht bis zum 30. September 1998 anzupassen, zu ersetzen oder aufzuheben. Danach tritt das im Widerspruch zu Landes- oder Landkreisrecht des aufnehmenden Landes stehende Ortsrecht außer Kraft.
 
@@ -32,20 +27,17 @@ Das Land Brandenburg und der Freistaat Sachsen (Vertragsparteien) schließen auf
 
 (5) Im Übrigen werden die obersten Landesbehörden dafür Sorge tragen, dass die mit der Umgliederung zusammenhängenden Fragen möglichst innerhalb von sechs Monaten nach Inkrafttreten dieses Vertrages geregelt werden.
 
-
-## Art 3
+# Art 3
 
 (1) Das in den Umgliederungsgebieten belegene Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht mit Inkrafttreten dieses Vertrages ohne Entschädigung mit allen Rechten, Lasten und Verpflichtungen auf die entsprechenden Körperschaften des öffentlichen Rechts im jeweils aufnehmenden Land über. Im Zusammenhang mit der Umgliederung durchzuführende Rechtshandlungen sind frei von nach Landesrecht zu erhebenden Abgaben und Gebühren.
 
 (2) Verbindlichkeiten, die sich für die Vertragsparteien aus Förderzusagen, Bewilligungsbescheiden und Verpflichtungsermächtigungen ergeben, die vor Inkrafttreten dieses Vertrages für Bewohner der Umgliederungsgebiete erteilt wurden, übernimmt das jeweils aufnehmende Land. Gleiches gilt für Verbindlichkeiten gegenüber juristischen Personen, die in den Umgliederungsgebieten ihren Sitz haben oder sich dort betätigen.
 
-
-## Art 4
+# Art 4
 
 Die beteiligten Gemeinden und Landkreise sind verpflichtet, möglichst innerhalb von sechs Monaten nach Inkrafttreten dieses Vertrages die hiermit zusammenhängenden Fragen der Verwaltung zu regeln, insbesondere die Übergabe von Akten, Urkunden, Registern und dergleichen zu vereinbaren sowie die für die Fortführung des Liegenschaftskatasters und für die Berichtigung des Grundbuches erforderlichen Erklärungen abzugeben. Die Vereinbarungen bedürfen der Genehmigung der jeweils zuständigen Rechtsaufsichtsbehörde. Die Verpflichtung nach Satz 1 erstreckt sich auch auf sämtliche Behörden der Vertragsparteien einschließlich der Gerichte.
 
-
-## Art 5
+# Art 5
 
 (1) Schülerinnen und Schüler mit Wohnung in den Umgliederungsgebieten können die bei Inkrafttreten dieses Vertrages bestehenden Schulverhältnisse bis zum Abschluss des Bildungsganges fortsetzen. Die Begründung eines Schulverhältnisses für Schülerinnen und Schüler mit Wohnung in den Umgliederungsgebieten an einer Schule des anderen Landes (Aufnahme im Nachbarland) nach Inkrafttreten dieses Vertrages richtet sich nach dem Recht des aufnehmenden Landes.
 
@@ -53,20 +45,17 @@ Die beteiligten Gemeinden und Landkreise sind verpflichtet, möglichst innerhalb
 
 (3) Es werden keine Gastschulbeiträge für Schülerinnen und Schüler aus den Umgliederungsgebieten der Vertragsparteien erhoben.
 
-
-## Art 6
+# Art 6
 
 Die Anlagen 1 und 2 sind Bestandteil dieses Vertrages. Ausfertigungen der Anlagen werden beim Landesvermessungsamt Brandenburg und beim Landesvermessungsamt Sachsen aufbewahrt und können dort eingesehen werden.
 
-
-## Art 7
+# Art 7
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden werden unverzüglich ausgetauscht.
 
 (2) Dieser Vertrag tritt am Tage nach dem Austausch der Ratifikationsurkunden in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Für das Land Brandenburg  
 Der Ministerpräsident  

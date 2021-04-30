@@ -1,15 +1,11 @@
-# [CWÜV] Ausführungsverordnung zum Chemiewaffenübereinkommen  (CWÜV)
-
-Ausfertigungsdatum: 20.11.1996
-
+% Ausführungsverordnung zum Chemiewaffenübereinkommen  (CWÜV)
+% Ausfertigungsdatum: 20.11.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 1 und 3 und des § 3 des Ausführungsgesetzes zum Chemiewaffenübereinkommen vom 2. August 1994 (BGBl. I S. 1954) verordnet die Bundesregierung:
 
-
-## § 1 – Verbote für Chemikalien der Liste 1
+# § 1 – Verbote für Chemikalien der Liste 1
 
 Es ist verboten
 
@@ -29,8 +25,7 @@ e) entsprechende Handlungen nach den Buchstaben a bis d als Deutscher im Ausland
 
 3. als Deutscher in einem Nichtvertragsstaat Chemikalien der Liste 1 zu produzieren, zu verarbeiten, mit ihnen Handel zu treiben, sie zu veräußern, zu verbrauchen, zu erwerben, einem anderen zu überlassen oder sonst die tatsächliche Gewalt über sie auszuüben.
 
-
-## § 1a – Verbote für Chemikalien der Liste 2
+# § 1a – Verbote für Chemikalien der Liste 2
 
 Es ist verboten, Chemikalien der in Anhang 1 zu dieser Verordnung aufgeführten Liste 2
 
@@ -40,8 +35,7 @@ Es ist verboten, Chemikalien der in Anhang 1 zu dieser Verordnung aufgeführten 
 
 3. als Deutscher entsprechende Handlungen nach der Nummer 1 oder 2 im Ausland vorzunehmen.
 
-
-## § 2 – Genehmigungsvorbehalte
+# § 2 – Genehmigungsvorbehalte
 
 (1) Einer Genehmigung bedarf, wer
 
@@ -69,8 +63,7 @@ soweit die Handlung nicht bereits nach § 1 verboten ist.
 
 (3) Wer Chemikalien genehmigungspflichtig ein-, aus- oder durchführt, hat diese bei den in der Genehmigung festgelegten Zollbehörden unter Vorlage dieser Genehmigung anzumelden und auf Verlangen vorzuführen.
 
-
-## § 3 – Erteilung der Genehmigung
+# § 3 – Erteilung der Genehmigung
 
 (1) Unbeschadet anderer Rechtsvorschriften ist die Genehmigung nach § 2 Abs. 1 zu erteilen, wenn sichergestellt ist, daß durch die Vornahme der genehmigungspflichtigen Handlung die Verpflichtungen der Bundesrepublik Deutschland aus dem Übereinkommen nicht verletzt werden.
 
@@ -82,8 +75,7 @@ soweit die Handlung nicht bereits nach § 1 verboten ist.
 
 (5) Die Bestimmungen der Außenwirtschaftsverordnung über Antrag, Rückgabe und Aufbewahrung von Genehmigungsbescheiden finden entsprechende Anwendung.
 
-
-## § 4 – Meldepflichten bei Produktion, Verarbeitung und Verbrauch
+# § 4 – Meldepflichten bei Produktion, Verarbeitung und Verbrauch
 
 (1) Wer ein Werk betreibt,
 
@@ -101,8 +93,7 @@ ist zu Meldungen nach Maßgabe der §§ 5, 7 und 8 verpflichtet.
 
 (2) Ausgenommen von der Meldepflicht nach Absatz 1 Nr. 1 und 2 ist, wer ein Werk betreibt, das in dem Bezugszeitraum ausschließlich die in Anhang 2 zu dieser Verordnung genannten Explosivstoffe oder Chemikalien produziert, die nur aus Kohlenstoff und Wasserstoff bestehen.
 
-
-## § 5 – Meldearten und -angaben
+# § 5 – Meldearten und -angaben
 
 (1) Die Meldungen nach § 4 sind Neumeldungen für das laufende Kalenderjahr, Jahresabschlußmeldungen für das abgelaufene Kalenderjahr, Jahresvorausmeldungen für das folgende Kalenderjahr oder Änderungsmeldungen bei Abweichungen gegenüber der Neu- oder Jahresvorausmeldung. Jahresabschlußmeldungen sind abzugeben in allen Fällen des § 4 Abs. 1, Neu-, Jahresvoraus- und Änderungsmeldungen in den Fällen des § 4 Abs. 1 Nr. 3 bis 5.
 
@@ -188,8 +179,7 @@ die Menge, chemische Bezeichnung und - falls zugeordnet - CAS-Nummer jedes für 
 
 c) für die Neu-, Jahresvoraus- und Änderungsmeldung die vom Werk voraussichtlich produzierte Menge, die zur Produktion voraussichtlich benötigten Zeiträume sowie den Zweck der Produktion.
 
-
-## § 6 – Meldepflichten bei Ein- und Ausfuhr
+# § 6 – Meldepflichten bei Ein- und Ausfuhr
 
 (1) Wer
 
@@ -211,8 +201,7 @@ ein- oder ausführt, ist zu Meldungen nach Maßgabe des Absatzes 2 und der §§ 
 
 enthalten.
 
-
-## § 7 – Weitere Meldevorschriften
+# § 7 – Weitere Meldevorschriften
 
 (1) Die Jahresabschlußmeldungen und die Meldungen nach § 6 sind bis zum 1. Februar eines neuen Kalenderjahres zu erstatten.
 
@@ -226,15 +215,13 @@ enthalten.
 
 Dabei ist auf die dritte Stelle genau zu runden. Die Sätze 1 und 2 gelten nicht für die nach § 5 Abs. 4 Nr. 3 in Größenordnungen abzugebenden Meldungen.
 
-
-## § 8 – Formvorschriften
+# § 8 – Formvorschriften
 
 (1) Die Anträge auf Erteilung einer Genehmigung nach § 2 und die Meldungen nach den §§ 4 und 6 sind durch schriftliche Erklärung gegenüber dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) abzugeben.
 
 (2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann durch Bekanntmachung im Bundesanzeiger die Verwendung bestimmter Vordrucke vorschreiben. Es kann gestatten, Anträge und Meldungen in anderer Weise, insbesondere durch elektronischen Datenaustausch, abzugeben.
 
-
-## § 9 – Ausnahmen für geringe Konzentrationen
+# § 9 – Ausnahmen für geringe Konzentrationen
 
 (1) Die §§ 1, 2, 4 und 6 finden keine Anwendung, wenn Chemikalien der Liste 1 einen Anteil von weniger als 1 vom Hundert einer Mischung bilden.
 
@@ -260,8 +247,7 @@ einer Mischung bilden.
 
 2. zum einzelnen Gebrauch verpackt sind.
 
-
-## § 10 – Besondere Meldevorschriften
+# § 10 – Besondere Meldevorschriften
 
 (1) Der Meldepflicht unterliegt ferner, wer ein Werk betreibt,
 
@@ -295,13 +281,11 @@ b) im Falle des Absatzes 1 Satz 1 Nr. 3 umfassende und genaue Informationen sowi
 
 Im übrigen gelten § 7 Abs. 3 und § 8 entsprechend.
 
-
-## § 11 – Bundeswehr und andere Organe
+# § 11 – Bundeswehr und andere Organe
 
 Keiner Genehmigung nach § 2 bedürfen die Bundeswehr, die Polizeien des Bundes und die Zollbehörden sowie die übrigen für die Aufrechterhaltung der öffentlichen Sicherheit zuständigen Behörden und Dienststellen. Die Meldevorschriften dieser Verordnung gelten nicht für die Bundeswehr.
 
-
-## § 12 – Ordnungswidrigkeiten
+# § 12 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Ausführungsgesetzes zum Chemiewaffenübereinkommen handelt, wer vorsätzlich oder fahrlässig
 
@@ -311,8 +295,7 @@ Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Ausführungsgesetzes zum Chem
 
 3. entgegen § 2 Abs. 3 Chemikalien nicht oder nicht ordnungsgemäß anmeldet oder vorführt.
 
-
-## § 13 – Straftaten
+# § 13 – Straftaten
 
 (1) Nach § 16 Abs. 1 Nr. 2 des Ausführungsgesetzes zum Chemiewaffenübereinkommen wird bestraft, wer
 
@@ -320,8 +303,7 @@ Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Ausführungsgesetzes zum Chem
 
 2. entgegen einem Verbot nach § 1 Nr. 2 im Inland oder als Deutscher im Ausland eine Einrichtung errichtet,
 
-2a.  
-entgegen § 1a Nr. 1 oder 2 eine Chemikalie einführt oder ausführt oder als Deutscher entsprechende Handlungen im Ausland vornimmt.
+2a. entgegen § 1a Nr. 1 oder 2 eine Chemikalie einführt oder ausführt oder als Deutscher entsprechende Handlungen im Ausland vornimmt.
 
 3. ohne die nach § 2 Abs. 1 Nr. 1 Buchstabe a erforderliche Genehmigung eine Einrichtung errichtet oder
 
@@ -341,18 +323,15 @@ entgegen § 1a Nr. 1 oder 2 eine Chemikalie einführt oder ausführt oder als De
 
 3. ohne die nach § 2 Abs. 1 Nr. 3 erforderliche Genehmigung Chemikalien der Liste 3 in einen Nichtvertragsstaat ausführt.
 
-
-## § 14
+# § 14
 
 (weggefallen)
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Die §§ 1, 2 Abs. 1 Nr. 2 und 3, § 12 Nr. 3 und § 13 treten an dem Tage in Kraft, an dem das Übereinkommen nach seinem Artikel XXI in Kraft tritt und der gemäß § 21 Abs. 2 des Ausführungsgesetzes zum Chemiewaffenübereinkommen im Bundesgesetzblatt bekanntgegeben wird. Im übrigen tritt diese Verordnung am Tage nach der Verkündung in Kraft.
 
-
-## Anhang 1 – Chemikalienlisten*)**)
+# Anhang 1 – Chemikalienlisten*)**)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -926,8 +905,7 @@ Die in den Nummern 13, 14, 15 und 16 aufgeführten Chemikalien wurden durch zwei
 
 (+++ Hinweis zur Liste 1: Die Nummerierung der Chemikalien in den Abschnitten A und B konnte aus systematischen Gründen nicht fortlaufend erfolgen +++)
 
-
-## Anhang 2 – Explosivstoffe gemäß § 4 Abs. 2
+# Anhang 2 – Explosivstoffe gemäß § 4 Abs. 2
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 1802 - 1803
 

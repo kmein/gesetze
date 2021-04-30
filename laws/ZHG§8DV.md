@@ -1,15 +1,11 @@
-# [ZHG§8DV] Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über die Ausübung der Zahnheilkunde
-
-Ausfertigungsdatum: 17.12.1952
-
+% Verordnung zur Durchführung des § 8 Abs. 1 des Gesetzes über die Ausübung der Zahnheilkunde
+% Ausfertigungsdatum: 17.12.1952
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 17 des Gesetzes über die Ausübung der Zahnheilkunde vom 31. März 1952 (Bundesgesetzbl. I S. 221) wird im Einvernehmen mit dem Bundesminister für Arbeit und mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Die nach § 8 Abs. 1 des Gesetzes an den Lehrinstituten für Dentisten abzuhaltenden Fortbildungskurse werden durchgeführt:  
 
@@ -23,27 +19,23 @@ Die nach § 8 Abs. 1 des Gesetzes an den Lehrinstituten für Dentisten abzuhalte
 | in den Ländern Hamburg und Schleswig-Holstein durch das Lehrinstitut in Hamburg,    |
 | im Land Berlin durch das Lehrinstitut in Berlin.                                    |
 
-
-## § 2
+# § 2
 
 Für die Fortbildungskurse sind in jedem Land ein oder mehrere Lehrkörper aus approbierten Medizinalpersonen zu bilden. Die Mitglieder der Lehrkörper werden von den für das Gesundheitswesen zuständigen obersten Landesbehörden berufen. Je ein Mitglied des Lehrkörpers ist zum Vorsitzenden und zu dessen Stellvertreter zu bestellen.
 
-
-## § 3
+# § 3
 
 (1) Die Orte, an denen die Fortbildungskurse stattfinden, werden von den für das Gesundheitswesen zuständigen obersten Landesbehörden im Einvernehmen mit den Lehrinstituten bestimmt.
 
 (2) An einem Fortbildungskursus sollen höchstens 100 Dentisten teilnehmen.
 
-
-## § 4
+# § 4
 
 (1) Die Anmeldung zur Teilnahme an dem Fortbildungskursus ist an das Lehrinstitut zu richten. Der Nachweis der staatlichen Anerkennung als Dentist ist beizufügen. Bestehen hierüber Zweifel, so ist die Entscheidung der für das Gesundheitswesen zuständigen obersten Behörde des Landes herbeizuführen, in dem der Dentist seinen Wohnsitz hat.
 
 (2) Das Lehrinstitut teilt dem Dentisten Ort und Zeit des Kursus mit.
 
-
-## § 5
+# § 5
 
 Die Fortbildungskurse erstrecken sich auf folgende Stoffgebiete:  
 
@@ -55,8 +47,7 @@ Die Fortbildungskurse erstrecken sich auf folgende Stoffgebiete:
   
 Sie sollen nach dem Themenplan der Anlage 1 durchgeführt werden.
 
-
-## § 6
+# § 6
 
 (1) Wenn der Dentist die in dem Themenplan enthaltenen Vorlesungen regelmäßig gehört hat, wird ihm von dem Vorsitzenden des Lehrkörpers oder seinem Stellvertreter eine Bescheinigung nach Muster 1 (Anlage 2) erteilt. Eine Teilnahme an den Vorlesungen gilt nicht mehr als regelmäßig, wenn der Dentist insgesamt mehr als 5 Vorlesungsstunden versäumt hat.
 
@@ -64,8 +55,7 @@ Sie sollen nach dem Themenplan der Anlage 1 durchgeführt werden.
 
 (3) Bricht der Dentist die Teilnahme an einem Fortbildungskursus ab, so ist er bei erneuter Teilnahme an einem Kursus nicht verpflichtet, an den bereits vollständig gehörten Vorlesungen über Mund- und Kieferkrankheiten, zahnärztliche Chirurgie oder Arzneimittellehre nochmals teilzunehmen.
 
-
-## § 7
+# § 7
 
 (1) Für die Teilnahme an einem Fortbildungskursus wird von dem Verband Deutscher Dentisten eine Teilnehmergebühr erhoben.
 
@@ -73,8 +63,7 @@ Sie sollen nach dem Themenplan der Anlage 1 durchgeführt werden.
 
 (3) Bei wiederholter Teilnahme an einem vollen Fortbildungskursus ist die Gebühr nochmals zu entrichten.
 
-
-## § 8
+# § 8
 
 (1) Nach erfolgreicher Teilnahme an einem Fortbildungskursus kann der Dentist die Erteilung der Bestallung als Zahnarzt bei der für das Gesundheitswesen zuständigen obersten Behörde des Landes beantragen, in dem er seinen Wohnsitz hat.
 
@@ -90,18 +79,15 @@ Sie sollen nach dem Themenplan der Anlage 1 durchgeführt werden.
 
 (3) Die Bestallungsurkunde ist nach Muster 2 (Anlage 3) auszustellen. Sie gilt mit Wirkung von dem Tag, an dem der Fortbildungskursus erfolgreich beendet wurde.
 
-
-## § 9
+# § 9
 
 Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister des Innern
 
-
-## Anlage 1
+# Anlage 1
 
 Fundstelle des Originaltextes: BAnz 1952, Nr. 246, Seite 1 - 2
 
@@ -808,8 +794,7 @@ Besprechungen und Rezepturübungen für die wichtigsten Arzneimittel.
 
  
 
-
-## Anlage 2 – Muster 1
+# Anlage 2 – Muster 1
 
 (Fundstelle des Originaltextes: BAnz. 1952, Nr. 246, S 2)
 
@@ -847,8 +832,7 @@ Besprechungen und Rezepturübungen für die wichtigsten Arzneimittel.
     Diese Bescheinigung berechtigt nicht zur Ausübung der Zahnheilkunde unter
     der Bezeichnung "Zahnarzt" oder "Zahnärztin". 
 
-
-## Anlage 3 – Muster 2
+# Anlage 3 – Muster 2
 
 (Fundstelle des Originaltextes: BAnz 1952, Nr. 246, S. 2)
 

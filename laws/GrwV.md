@@ -1,18 +1,13 @@
-# [GrwV] Verordnung zum Schutz des Grundwassers   (Grundwasserverordnung - GrwV)
-
-Ausfertigungsdatum: 09.11.2010
-
+% Verordnung zum Schutz des Grundwassers   (Grundwasserverordnung - GrwV)
+% Ausfertigungsdatum: 09.11.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23 Absatz 1 Nummer 1 bis 3 und 8 bis 12 des Wasserhaushaltsgesetzes, Absatz 1 geändert durch Artikel 12 Nummer 0a des Gesetzes vom 11. August 2010 (BGBl. I S. 1163), verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -32,8 +27,7 @@ jede statistisch signifikante, ökologisch bedeutsame und auf menschliche Tätig
 
 eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis 4 des Wasserhaushaltsgesetzes.
 
-
-## § 2 – Bestimmung und Beschreibung der Grundwasserkörper
+# § 2 – Bestimmung und Beschreibung der Grundwasserkörper
 
 (1) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und aktualisiert die zuständige Behörde
 
@@ -45,8 +39,7 @@ eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis
 
 (3) Bei einem Grundwasserkörper, der sich über die Grenzen der Bundesrepublik Deutschland hinaus auch auf das Hoheitsgebiet eines oder mehrerer Mitgliedstaaten der Europäischen Union erstreckt, sind die Informationen über die relevanten menschlichen Tätigkeiten und ihre Auswirkungen auf die Beschaffenheit des Grundwassers nach Maßgabe der Anlage 1 Nummer 3 zu ermitteln und aufzubewahren, soweit dies für die Beurteilung des Grundwasserkörpers von Bedeutung ist.
 
-
-## § 3 – Gefährdete Grundwasserkörper
+# § 3 – Gefährdete Grundwasserkörper
 
 (1) Grundwasserkörper, bei denen das Risiko besteht, dass sie die Bewirtschaftungsziele nach § 47 des Wasserhaushaltsgesetzes nicht erreichen, werden von der zuständigen Behörde als gefährdet eingestuft. Von einem solchen Risiko ist insbesondere auszugehen, wenn zu erwarten ist, dass die in Anlage 2 aufgeführten oder die nach § 5 Absatz 1 Satz 2 oder Absatz 2 festgelegten Schwellenwerte überschritten werden oder dass die mittlere jährliche Grundwasserentnahme das nutzbare Grundwasserdargebot übersteigt.
 
@@ -54,8 +47,7 @@ eine Gewässerbenutzung gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis
 
 (3) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und aktualisiert die zuständige Behörde die weitergehende Beschreibung nach Absatz 2.
 
-
-## § 4 – Einstufung des mengenmäßigen Grundwasserzustands
+# § 4 – Einstufung des mengenmäßigen Grundwasserzustands
 
 (1) Die zuständige Behörde stuft den mengenmäßigen Grundwasserzustand als gut oder schlecht ein.
 
@@ -73,8 +65,7 @@ c) Landökosysteme, die direkt vom Grundwasserkörper abhängig sind, signifikan
 
 d) das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolge räumlich und zeitlich begrenzter Änderungen der Grundwasserfließrichtung nachteilig verändert wird.
 
-
-## § 5 – Kriterien für die Beurteilung des chemischen Grundwasserzustands
+# § 5 – Kriterien für die Beurteilung des chemischen Grundwasserzustands
 
 (1) Grundlage für die Beurteilung des chemischen Grundwasserzustands sind die in Anlage 2 aufgeführten Schwellenwerte. Geht von einem nicht in der Anlage 2 aufgeführten Schadstoff oder einer Schadstoffgruppe das Risiko aus, dass die Bewirtschaftungsziele nach § 47 des Wasserhaushaltsgesetzes nicht erreicht werden, legt die zuständige Behörde einen Schwellenwert nach Maßgabe von Anhang II Teil A der Richtlinie 2006/118/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum Schutz des Grundwassers vor Verschmutzung und Verschlechterung (ABl. L 372 vom 27.12.2006, S. 19, L 53 vom 22.2.2007, S. 30, L 139 vom 31.05.2007, S. 39) fest.
 
@@ -84,8 +75,7 @@ d) das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolg
 
 (4) Bei Grundwasserkörpern, die sich auch auf das Hoheitsgebiet eines anderen oder mehrerer anderer Mitgliedstaaten der Europäischen Union erstrecken, stimmt sich die zuständige Behörde bei der Festlegung der Schwellenwerte nach Absatz 1 Satz 2 oder Absatz 3 mit den zuständigen Behörden der Nachbarstaaten ab. Gehört der Nachbarstaat nicht der Europäischen Union an, bemüht sich die zuständige Behörde um eine Abstimmung der Werte für die grenzüberschreitenden Grundwasserkörper.
 
-
-## § 6 – Ermittlung des chemischen Grundwasserzustands
+# § 6 – Ermittlung des chemischen Grundwasserzustands
 
 (1) Die zuständige Behörde ermittelt und beurteilt den chemischen Grundwasserzustand auf der Grundlage von Grundwasseruntersuchungen und eines geeigneten konzeptionellen Modells für den Grundwasserkörper. Bei Überschreitung von Schwellenwerten im Grundwasserkörper wird Folgendes, soweit für die Beurteilung relevant, ermittelt und beurteilt:
 
@@ -109,8 +99,7 @@ d) das Grundwasser durch Zustrom von Salzwasser oder anderen Schadstoffen infolg
 
 4. die Ergebnisse der nach Absatz 2 zu ermittelnden räumlichen Ausbreitung der Überschreitungen von Schwellenwerten.
 
-
-## § 7 – Einstufung des chemischen Grundwasserzustands
+# § 7 – Einstufung des chemischen Grundwasserzustands
 
 (1) Die zuständige Behörde stuft den chemischen Grundwasserzustand als gut oder schlecht ein.
 
@@ -144,8 +133,7 @@ Messstellen, an denen die Überschreitung eines Schwellenwertes auf natürliche,
 
 (5) Die zuständige Behörde veröffentlicht im Bewirtschaftungsplan nach § 83 des Wasserhaushaltsgesetzes eine Zusammenfassung der Einstufung des chemischen Grundwasserzustands auf der Ebene der Flussgebietseinheiten. Die Zusammenfassung enthält auch eine Darstellung, wie Überschreitungen von Schwellenwerten bei der Einstufung berücksichtigt worden sind.
 
-
-## § 8 – Bestimmung von Grundwasserkörpern mit weniger strengen Zielen
+# § 8 – Bestimmung von Grundwasserkörpern mit weniger strengen Zielen
 
 (1) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und aktualisiert die zuständige Behörde die Bestimmung der Grundwasserkörper, für die nach § 47 Absatz 3 Satz 2 in Verbindung mit § 30 des Wasserhaushaltsgesetzes weniger strenge Ziele festgelegt werden. Die Festlegung erfolgt auch auf Grund einer Prüfung der Auswirkungen des mengenmäßigen Grundwasserzustands auf
 
@@ -157,8 +145,7 @@ Messstellen, an denen die Überschreitung eines Schwellenwertes auf natürliche,
 
 (2) Zum 22. Dezember 2013 und danach alle sechs Jahre überprüft und aktualisiert die zuständige Behörde ferner die Bestimmung der Grundwasserkörper, für die nach § 47 Absatz 3 Satz 2 in Verbindung mit § 30 des Wasserhaushaltsgesetzes der bestmögliche chemische Zustand festgelegt wird, weil die Grundwasserkörper infolge der Auswirkungen menschlicher Tätigkeit so verschmutzt sind, dass ein guter chemischer Grundwasserzustand nicht oder nur mit unverhältnismäßig hohem Aufwand zu erreichen wäre.
 
-
-## § 8a – Zusätzliche Inhalte der Bewirtschaftungspläne
+# § 8a – Zusätzliche Inhalte der Bewirtschaftungspläne
 
 (1) In die aktualisierten Bewirtschaftungspläne nach § 84 Absatz 1 des Wasserhaushaltsgesetzes sind zusätzlich zu den Informationen nach § 83 Absatz 2 des Wasserhaushaltsgesetzes folgende Informationen aufzunehmen:
 
@@ -198,8 +185,7 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (3) § 7 Absatz 5, § 10 Absatz 6 und § 11 Absatz 3 bleiben unberührt.
 
-
-## § 9 – Überwachung des mengenmäßigen und chemischen Grundwasserzustands
+# § 9 – Überwachung des mengenmäßigen und chemischen Grundwasserzustands
 
 (1) In jedem Grundwasserkörper sind Messstellen für eine repräsentative Überwachung des mengenmäßigen Grundwasserzustands nach Maßgabe der Anlage 3 und des chemischen Grundwasserzustands nach Maßgabe der Anlage 4 Nummer 1 zu errichten und zu betreiben.
 
@@ -207,8 +193,7 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (3) Die Untersuchungen sind nach den Kontroll- und Analysemethoden nach Anlage 5 durchzuführen.
 
-
-## § 10 – Steigender Trend von Schadstoffkonzentrationen, Trendumkehr
+# § 10 – Steigender Trend von Schadstoffkonzentrationen, Trendumkehr
 
 (1) Auf der Grundlage der Überblicksüberwachung und der operativen Überwachung nach § 9 Absatz 2 ermittelt die zuständige Behörde für jeden Grundwasserkörper, der nach § 3 Absatz 1 als gefährdet eingestuft worden ist, jeden signifikanten und anhaltenden steigenden Trend im Grundwasserkörper nach Maßgabe der Anlage 6.
 
@@ -226,8 +211,7 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (6) Im Bewirtschaftungsplan 2015 und danach alle sechs Jahre ist über die Art der Trendermittlung und über die Gründe für die Festlegung der Trendumkehrpunkte zu berichten.
 
-
-## § 11 – Zusätzliche Trendermittlung
+# § 11 – Zusätzliche Trendermittlung
 
 (1) Bei Grundwasserkörpern, die auf Grund schädlicher Bodenveränderungen oder Altlasten nach § 3 Absatz 1 als gefährdet eingestuft worden sind, veranlasst die zuständige Behörde auf der Grundlage geeigneter Überwachungsmaßnahmen eine zusätzliche Ermittlung, ob ein Trend zunehmender Ausdehnung von Schadstoffen im Grundwasserkörper vorliegt. Dehnen sich die durch die schädliche Bodenveränderung oder Altlast verursachten Schadstoffeinträge im Grundwasserkörper aus und führt dies zu einer Verschlechterung des chemischen Grundwasserzustands oder stellt dies eine Gefahr für die menschliche Gesundheit, die öffentliche Wasserversorgung oder die Umwelt dar, sind die erforderlichen Maßnahmen zu veranlassen, um eine weitere Ausdehnung zu verhindern. Die bodenschutzrechtlichen Vorschriften zur Sanierung von Altlasten und schädlichen Bodenveränderungen bleiben unberührt.
 
@@ -235,8 +219,7 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (3) Die zuständige Behörde fasst die Ergebnisse der Trendermittlungen im Bewirtschaftungsplan nach § 83 des Wasserhaushaltsgesetzes für die Einzugsgebiete zusammen.
 
-
-## § 12 – Darstellung des Grundwasserzustands und der Trends
+# § 12 – Darstellung des Grundwasserzustands und der Trends
 
 (1) Die Einstufung des mengenmäßigen Grundwasserzustands nach § 4 und des chemischen Grundwasserzustands nach § 7 sowie die nach den §§ 10 und 11 ermittelten Trends sind durch die zuständige Behörde in Karten darzustellen. Dabei sind für den mengenmäßigen und den chemischen Grundwasserzustand getrennte Karten zu verwenden.
 
@@ -244,8 +227,7 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (3) Grundwasserkörper, die einen signifikanten und anhaltenden steigenden, durch menschliche Tätigkeiten bedingten Trend der Schadstoffkonzentrationen aufweisen, sind mit einem schwarzen Punkt zu kennzeichnen; eine Trendumkehr ist durch einen blauen Punkt zu kennzeichnen. Trend und Trendumkehr sind auf der Karte für den chemischen Grundwasserzustand darzustellen.
 
-
-## § 13 – Maßnahmen zur Verhinderung oder Begrenzung von Schadstoffeinträgen in das Grundwasser
+# § 13 – Maßnahmen zur Verhinderung oder Begrenzung von Schadstoffeinträgen in das Grundwasser
 
 (1) Zur Erreichung der in § 47 des Wasserhaushaltsgesetzes genannten Ziele sind in den Maßnahmenprogrammen nach § 82 des Wasserhaushaltsgesetzes Maßnahmen aufzunehmen, die den Eintrag der in der Anlage 7 genannten Schadstoffe und Schadstoffgruppen in das Grundwasser verhindern. Im Rahmen der Umsetzung dieser Maßnahmenprogramme dürfen Einträge solcher Schadstoffe nicht zugelassen werden. Satz 2 gilt nicht, wenn die Schadstoffe in so geringer Menge und Konzentration in das Grundwasser eingetragen werden, dass eine nachteilige Veränderung der Grundwasserbeschaffenheit ausgeschlossen ist. Die zuständige Behörde führt ein Bestandsverzeichnis über die nach Satz 3 zugelassenen Einträge. Sind Einträge zugelassen, ist das betroffene Grundwasser gemäß § 9 Absatz 2 Satz 2 oder in sonst geeigneter Weise zu überwachen.
 
@@ -253,8 +235,7 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (3) Soweit nach § 47 Absatz 2 Satz 2 und Absatz 3 des Wasserhaushaltsgesetzes abweichende Bewirtschaftungsziele für den Grundwasserkörper festgelegt sind, sind diese bei Anwendung der Absätze 1 und 2 zu berücksichtigen.
 
-
-## § 14 – Wirtschaftliche Analyse der Wassernutzungen
+# § 14 – Wirtschaftliche Analyse der Wassernutzungen
 
 (1) Bis zum 22. Dezember 2013 und danach alle sechs Jahre sind die vor dem 16. November 2010 durchgeführten wirtschaftlichen Analysen der Wassernutzungen nach Artikel 5 Absatz 1 dritter Gedankenstrich der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), die zuletzt durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert worden ist, zu überprüfen und, soweit erforderlich, zu aktualisieren.
 
@@ -266,18 +247,15 @@ b) den mit den Grundwasserkörpern verbundenen Oberflächengewässern und den vo
 
 (3) Bei unverhältnismäßigem Aufwand, insbesondere unter Berücksichtigung der Kosten für die Erhebung der betreffenden Daten, können dabei auch Schätzungen der Menge, der Preise und der Kosten im Zusammenhang mit den Wasserdienstleistungen, Schätzungen der einschlägigen Investitionen einschließlich der entsprechenden Vorausplanungen sowie Schätzungen der potentiellen Kosten der Maßnahmen für das Maßnahmenprogramm zugrunde gelegt werden.
 
-
-## § 15 – Inkrafttreten, Außerkrafttreten
+# § 15 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Grundwasserverordnung vom 18. März 1997 (BGBl. I S. 542) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Absatz 1 und 3, § 3 Absatz 2)Beschreibung der Grundwasserkörper
+# Anlage 1 – (zu § 2 Absatz 1 und 3, § 3 Absatz 2)Beschreibung der Grundwasserkörper
 
 (Fundstelle: BGBl. I 2010, 1519 - 1520)
 
@@ -381,13 +359,11 @@ chemische Zusammensetzung und physikalische Beschaffenheit des eingeleiteten Was
 3.4  
 Landnutzung der Gebiete, in denen die Grundwasserneubildung erfolgt, einschließlich des Eintrags von Schadstoffen und die durch menschliche Tätigkeiten verursachte Veränderungen im Hinblick auf die Grundwasserneubildung, wie zum Beispiel Ableitung von Regenwasser und Abflüsse von versiegelten Flächen, künstliche Anreicherung, Einstau und Entwässerung.
 
-
-## Anlage 2 – (zu § 3 Absatz 1, § 5 Absatz 1 und Absatz 3, § 7 Absatz 2 Nummer 1, § 10 Absatz 2 Satz 4 Nummer 1)Schwellenwerte
+# Anlage 2 – (zu § 3 Absatz 1, § 5 Absatz 1 und Absatz 3, § 7 Absatz 2 Nummer 1, § 10 Absatz 2 Satz 4 Nummer 1)Schwellenwerte
 
 (Fundstelle: BGBl. I 2017, 1045 - 1046)
 
-
-## Anlage 3 – (zu § 9 Absatz 1)Überwachung des mengenmäßigen Grundwasserzustands
+# Anlage 3 – (zu § 9 Absatz 1)Überwachung des mengenmäßigen Grundwasserzustands
 
 (Fundstelle: BGBl. I 2010, 1522)
 
@@ -418,8 +394,7 @@ Bei Grundwasserkörpern, die sich über die Grenzen der Bundesrepublik Deutschla
 
 Das Messnetz zur Überwachung der Grundwassermenge ist im Bewirtschaftungsplan für die Flussgebietseinheit in einem geeigneten Maßstab in einer oder mehreren Karten darzustellen.
 
-
-## Anlage 4 – (zu § 9 Absatz 1 und 2)Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
+# Anlage 4 – (zu § 9 Absatz 1 und 2)Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
 
 (Fundstelle: BGBl. I 2010, 1523 - 1524; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -487,8 +462,7 @@ Nitrat,
 2.3.5  
 Ammonium.
 
-2.4.  
-Um die Auswirkungen der Anwendung von Pflanzenschutzmitteln auf das Grundwasser beurteilen zu können, sind die betroffenen Grundwasserkörper auch auf pflanzenschutzrechtlich nicht relevante Metabolite hin zu überwachen.
+2.4. Um die Auswirkungen der Anwendung von Pflanzenschutzmitteln auf das Grundwasser beurteilen zu können, sind die betroffenen Grundwasserkörper auch auf pflanzenschutzrechtlich nicht relevante Metabolite hin zu überwachen.
 
 2.5  
 Die gefährdeten Grundwasserkörper sind zusätzlich auch auf die Parameter hin zu überwachen, die die Auswirkungen der Belastungen anzeigen.
@@ -519,8 +493,7 @@ Die operative Überwachung ist in Intervallen durchzuführen, die ausreichen, um
 3.5  
 Die operative Überwachung muss geeignet sein, die Wirksamkeit der Maßnahmen zur Zielerreichung zu belegen.
 
-
-## Anlage 4a – (zu § 5 Absatz 2 Satz 1 und 2 und Absatz 3)Ableitung von Hintergrundwerten für hydrogeochemische Einheiten
+# Anlage 4a – (zu § 5 Absatz 2 Satz 1 und 2 und Absatz 3)Ableitung von Hintergrundwerten für hydrogeochemische Einheiten
 
 (Fundstelle: BGBl. I 2010, 1046)
 
@@ -541,8 +514,7 @@ Die operative Überwachung muss geeignet sein, die Wirksamkeit der Maßnahmen zu
 <span id="FnA1-F798335_02"></span><a href="#FnR.FnA1-F798335_02" class="Footnote">2</a>  
 Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) und Staatliche Geologische Dienste, Hydrogeologische Übersichtskarte von Deutschland 1 : 200 000, Digitales Kartenwerk Version 3, Hrsg. BGR Hannover 2016.
 
-
-## Anlage 5 – (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
+# Anlage 5 – (zu § 9 Absatz 3, § 10 Absatz 5, § 11 Absatz 2)Anforderungen an Analysemethoden, Laboratorien und die Beurteilung der Überwachungsergebnisse
 
 (Fundstelle: BGBl. I 2010, 1525 - 1526)
 
@@ -594,8 +566,7 @@ Einhaltung von Schwellenwerten
 
 Ein Schwellenwert gilt an einer Messstelle als eingehalten, wenn das arithmetische Mittel der im Zeitraum von einem Jahr gemessenen Konzentrationen an dieser Messstelle kleiner oder gleich dem Schwellenwert ist.
 
-
-## Anlage 6 – (zu § 10 Absatz 1)Ermittlung steigender Trends, Ermittlung der Trendumkehr
+# Anlage 6 – (zu § 10 Absatz 1)Ermittlung steigender Trends, Ermittlung der Trendumkehr
 
 (Fundstelle: BGBl. I 2010, 1527)
 
@@ -625,8 +596,7 @@ Die Trendumkehr wird durch die Bildung von gleitenden Sechs-Jahres-Intervallen �
 
 Für jedes Intervall wird über eine lineare Regression die Steigung entsprechend Nummer 1 bestimmt und als Zeitreihe eingetragen. Geht ein Trend von einem steigenden in einen fallenden oder von einem fallenden in einen steigenden Trend über (Nulldurchgang), bedeutet dies eine Trendumkehr.
 
-
-## Anlage 7 – (zu § 13 Absatz 1)Liste gefährlicher Schadstoffe und Schadstoffgruppen
+# Anlage 7 – (zu § 13 Absatz 1)Liste gefährlicher Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1528)
 
@@ -661,8 +631,7 @@ Thallium
 
 8. Arsen und Arsenverbindungen
 
-
-## Anlage 8 – (zu § 13 Absatz 2)Liste sonstiger Schadstoffe und Schadstoffgruppen
+# Anlage 8 – (zu § 13 Absatz 2)Liste sonstiger Schadstoffe und Schadstoffgruppen
 
 (Fundstelle: BGBl. I 2010, 1529)
 

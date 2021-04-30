@@ -1,15 +1,11 @@
-# [ÖLG] Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus  (Öko-Landbaugesetz - ÖLG)
-
-Ausfertigungsdatum: 07.12.2008
-
+% Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus  (Öko-Landbaugesetz - ÖLG)
+% Ausfertigungsdatum: 07.12.2008
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl. L 189 vom 22.7.1991, S. 1), die durch die Verordnung (EG) Nr. 967/2008 des Rates vom 29. September 2008 (ABl. L 264 vom 3.10.2008, S. 1) geändert worden ist, sowie der zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
 
-
-## § 2 – Durchführung
+# § 2 – Durchführung
 
 (1) Die Durchführung einschließlich der Überwachung der Einhaltung der in § 1 genannten Rechtsakte, dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt den nach Landesrecht zuständigen Behörden, soweit nachstehend nichts anderes bestimmt ist.
 
@@ -33,15 +29,13 @@ Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 834/2007 des Rates
 
 Die Landesregierungen sind befugt, die Ermächtigung nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden des Landes zu übertragen.
 
-
-## § 3 – Kontrollsystem
+# § 3 – Kontrollsystem
 
 (1) Vorbehaltlich einer Verordnung nach § 2 Abs. 3 Satz 1 Nr. 1 wird das Kontrollverfahren nach Artikel 27 Abs. 1 in Verbindung mit Abs. 2 und 3 der Verordnung (EG) Nr. 834/2007 von zugelassenen Kontrollstellen durchgeführt, soweit die Aufgabenwahrnehmung nicht mit der Durchführung eines Verwaltungsverfahrens verbunden ist.
 
 (2) Unternehmer, die Erzeugnisse im Sinne von Artikel 1 Abs. 2 der Verordnung (EG) Nr. 834/2007 als ökologische/biologische Erzeugnisse oder Umstellungserzeugnisse direkt an Endverbraucher oder -nutzer abgeben, sind von dem Einhalten der Pflichten nach Artikel 28 Abs. 1 der Verordnung (EG) Nr. 834/2007 freigestellt, soweit sie diese Erzeugnisse nicht selbst erzeugen oder erzeugen lassen, aufbereiten oder aufbereiten lassen, an einem anderen Ort als einem Ort in Verbindung mit der Verkaufsstelle lagern oder lagern lassen oder aus einem Drittland einführen oder einführen lassen.
 
-
-## § 4 – Zulassung der Kontrollstellen und Entzug der Zulassung
+# § 4 – Zulassung der Kontrollstellen und Entzug der Zulassung
 
 (1) Eine Kontrollstelle ist auf Antrag zuzulassen, wenn
 
@@ -73,8 +67,7 @@ Gelangen der zuständigen Behörde des Landes, in dem der Sitz oder die Niederla
 
 (6) Hat die nach Absatz 5 Satz 1 zuständige Behörde Tatsachen im Sinne des Absatzes 5 Satz 2 festgestellt, so kann sie der Kontrollstelle bis zur unanfechtbaren Entscheidung der Bundesanstalt für Landwirtschaft und Ernährung in einem Verfahren nach Absatz 5 Satz 2 oder 3 die Ausübung der betroffenen Kontrolltätigkeit in ihrem Land vorläufig untersagen. Die Anfechtung der vorläufigen Untersagung hat keine aufschiebende Wirkung. Die nach Absatz 5 Satz 1 zuständige Behörde unterrichtet die Überwachungsbehörden der Länder und die Bundesanstalt für Landwirtschaft und Ernährung über eine Anordnung nach Satz 1. Die Kontrollstelle hat die Untersagung unverzüglich den von ihr in dem betroffenen Land kontrollierten Unternehmen anzuzeigen.
 
-
-## § 5 – Pflichten der Kontrollstellen
+# § 5 – Pflichten der Kontrollstellen
 
 (1) Die Kontrollstelle ist verpflichtet, die Tätigkeit jedes Unternehmers im Sinne des Artikels 28 Abs. 1 der Verordnung (EG) Nr. 834/2007 und des § 6 Abs. 2 gegen angemessene Vergütung in ihre Kontrollen einzubeziehen, soweit der Unternehmer die Einbeziehung verlangt und seine Tätigkeit in dem Land ausübt, in dem die Kontrollstelle zugelassen ist. Die nach Landesrecht zuständige Behörde kann auf Antrag der Kontrollstelle eine Ausnahme von der Verpflichtung nach Satz 1 zulassen, soweit
 
@@ -104,8 +97,7 @@ Darüber hinaus muss das Verzeichnis die Angaben, die in den Bescheinigungen nac
 
 die von ihr kontrollierten Unternehmen, die nach Landesrecht für den Ort der Tätigkeit der Unternehmen zuständigen Behörden sowie die Bundesanstalt für Landwirtschaft und Ernährung. Die Kontrollstelle darf, soweit insolvenzrechtliche Vorschriften nicht entgegenstehen, ihre Tätigkeit erst einstellen, wenn für alle von ihr kontrollierten Unternehmen das weitere Durchführen der Kontrollen sichergestellt ist.
 
-
-## § 6 – Vorschriften für gemeinschaftliche Verpflegungseinrichtungen
+# § 6 – Vorschriften für gemeinschaftliche Verpflegungseinrichtungen
 
 (1) Die Vorschriften der Verordnung (EG) Nr. 834/2007 und der zu deren Durchführung erlassenen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union sind auf Arbeitsgänge in gewerbsmäßig betriebenen, gemeinschaftlichen Verpflegungseinrichtungen im Sinne des Artikels 2 Doppelbuchstabe aa der Verordnung (EG) Nr. 834/2007 anzuwenden, wenn hierbei Erzeugnisse im Sinne des Artikels 1 Abs. 2 der Verordnung (EG) Nr. 834/2007 aufbereitet werden, die mit Bezug auf die ökologische oder biologische Produktion im Sinne des Artikels 23 Abs. 1 Satz 1 oder 2 der Verordnung (EG) Nr. 834/2007 gekennzeichnet und in den Verkehr gebracht werden.
 
@@ -115,8 +107,7 @@ die von ihr kontrollierten Unternehmen, die nach Landesrecht für den Ort der T�
 
 (4) Abweichend von Absatz 3 dürfen Erzeugnisse nach Absatz 1 auch dann in den Verkehr gebracht werden, wenn bei der Kennzeichnung dieser Erzeugnisse Bezeichnungen mit Bezug auf die ökologische oder biologische Produktion verwendet werden, die sich auf die zur Zubereitung aller Speisen verwendeten landwirtschaftlichen Ausgangsstoffe oder Zutaten einer Art oder einzeln zubereitete Komponenten zusammengesetzter Gerichte beziehen, soweit diese Ausgangsstoffe, Zutaten oder Komponenten die Vorschriften der Verordnung (EG) Nr. 834/2007 und der zu deren Durchführung erlassenen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erfüllen.
 
-
-## § 7 – Mitwirkung der Zollbehörden
+# § 7 – Mitwirkung der Zollbehörden
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zolldienststellen wirken bei der Überwachung der Einfuhr von nach Artikel 23 Abs. 1 und 4 Satz 1 in Verbindung mit Artikel 1 Abs. 2 der Verordnung (EG) Nr. 834/2007 gekennzeichneten Erzeugnissen aus Drittländern mit. Die genannten Behörden können
 
@@ -128,8 +119,7 @@ die von ihr kontrollierten Unternehmen, die nach Landesrecht für den Ort der T�
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 zu regeln. Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen.
 
-
-## § 8 – Überwachung
+# § 8 – Überwachung
 
 (1) Unternehmer im Sinne des Artikels 28 Abs. 1 der Verordnung (EG) Nr. 834/2007 und des § 6 Abs. 2, natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen, die nach Artikel 23 Abs. 1 Satz 1 und 2 in Verbindung mit Artikel 1 Abs. 2 der Verordnung (EG) Nr. 834/2007 gekennzeichnete Erzeugnisse erzeugen, aufbereiten, lagern, einführen, ausführen, innergemeinschaftlich verbringen oder in den Verkehr bringen, sowie Kontrollstellen im Sinne des § 3 Abs. 1 haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den zuständigen Behörden durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
 
@@ -147,22 +137,19 @@ Im Falle des Satzes 1 Nr. 2 ist auf Verlangen des Betroffenen ein Teil der Probe
 
 (4) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 9 – Datenübermittlung, Außenverkehr
+# § 9 – Datenübermittlung, Außenverkehr
 
 (1) Die zuständigen Behörden erteilen einander die zur Überwachung der Kontrollstellen notwendigen Auskünfte. Stellt eine Behörde Mängel im Sinne des Artikels 27 Abs. 8 Satz 2 und 3 und Abs. 9 Buchstabe a bis d der Verordnung (EG) Nr. 834/2007 bei der Durchführung der von einer Kontrollstelle wahrzunehmenden Aufgaben fest, so unterrichtet sie hiervon unverzüglich die Bundesanstalt für Landwirtschaft und Ernährung.
 
 (2) Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europäischen Kommission, insbesondere die Unterrichtung nach Artikel 30 Abs. 2 Satz 1 und 2 der Verordnung (EG) Nr. 834/2007 über festgestellte Unregelmäßigkeiten oder Verstöße oder die Mitteilungen nach Artikel 35 der Verordnung (EG) Nr. 834/2007, obliegt dem Bundesministerium für Ernährung und Landwirtschaft. Es kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen. Ferner kann es diese Befugnis durch Rechtsverordnung mit Zustimmung des Bundesrates auf die nach Landesrecht zuständigen Behörden übertragen.
 
-
-## § 10 – Gebühren und Auslagen
+# § 10 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen der zuständigen Behörden, die nach den Artikeln 27 und 30 der Verordnung (EG) Nr. 834/2007 zu Kontroll- und Überwachungszwecken vorzunehmen sind, sowie für individuell zurechenbare öffentliche Leistungen nach § 2 Abs. 2 können kostendeckende Gebühren und Auslagen erhoben werden.
 
 (2) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, für individuell zurechenbare öffentliche Leistungen nach § 2 Abs. 2 im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagenerstattung zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-
-## § 11 – Ermächtigungen
+# § 11 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung der in § 1 genannten Rechtsakte erforderlich ist,
 
@@ -186,8 +173,7 @@ Im Falle des Satzes 1 Nr. 2 ist auf Verlangen des Betroffenen ein Teil der Probe
 
 2. Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem verbleibenden Anwendungsbereich anzupassen, soweit sie durch den Erlass entsprechender Vorschriften in Verordnungen der Europäischen Union unanwendbar geworden sind.
 
-
-## § 12 – Strafvorschriften
+# § 12 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer gegen die Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl. EU Nr. L 189 S. 1) verstößt, indem er
 
@@ -201,8 +187,7 @@ Im Falle des Satzes 1 Nr. 2 ist auf Verlangen des Betroffenen ein Teil der Probe
 
 (2) Ebenso wird bestraft, wer entgegen § 6 Abs. 3 ein Erzeugnis in den Verkehr bringt.
 
-
-## § 13 – Bußgeldvorschriften
+# § 13 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine der in § 12 bezeichneten Handlungen fahrlässig begeht.
 
@@ -224,8 +209,7 @@ Im Falle des Satzes 1 Nr. 2 ist auf Verlangen des Betroffenen ein Teil der Probe
 
 1. entgegen § 5 Abs. 2 Satz 1 ein Verzeichnis nicht, nicht richtig oder nicht vollständig führt,
 
-1a.  
-entgegen § 5 Absatz 2 Satz 2 eine Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einträgt,
+1a. entgegen § 5 Absatz 2 Satz 2 eine Änderung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einträgt,
 
 2. entgegen § 5 Abs. 3 Satz 2 oder 4 oder Abs. 4 Satz 1 die zuständige Behörde, ein Unternehmen oder die Bundesanstalt für Landwirtschaft und Ernährung nicht, nicht richtig oder nicht rechtzeitig unterrichtet,
 
@@ -237,13 +221,11 @@ entgegen § 5 Absatz 2 Satz 2 eine Änderung nicht, nicht richtig, nicht vollst�
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
-## § 14 – Einziehung
+# § 14 – Einziehung
 
 Ist eine Straftat nach § 12 oder eine Ordnungswidrigkeit nach § 13 Abs. 1, 2 oder 3 begangen worden, so können Gegenstände, auf die sich die Straftat oder die Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 74a des Strafgesetzbuchs und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 15 – Übergangsvorschriften
+# § 15 – Übergangsvorschriften
 
 Kontrollstellen, die am 31. Dezember 2008 nach § 4 Abs. 1 des Öko-Landbaugesetzes in der Fassung der Bekanntmachung vom 12. August 2005 (BGBl. I S. 2431), das durch Artikel 205 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, zugelassen waren, gelten als vorläufig nach § 4 Abs. 1 dieses Gesetzes zugelassen. Die vorläufige Zulassung erlischt,
 
@@ -251,7 +233,6 @@ Kontrollstellen, die am 31. Dezember 2008 nach § 4 Abs. 1 des Öko-Landbaugeset
 
 2. im Falle rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
 
-
-## § 16 – Ausschluss des Abweichungsrechts
+# § 16 – Ausschluss des Abweichungsrechts
 
 Abweichungen von den in § 4 Abs. 5 Satz 2 und 3 und § 9 Abs. 1 Satz 2 enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.

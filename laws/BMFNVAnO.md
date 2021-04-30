@@ -1,10 +1,7 @@
-# [BMFNVAnO] Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen
-
-Ausfertigungsdatum: 18.10.1965
-
+% Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen
+% Ausfertigungsdatum: 18.10.1965
  
-
-## I.
+# I.
 
 Auf Grund des § 65 Abs. 3 Satz 2 BBG übertrage ich hiermit
 
@@ -23,12 +20,10 @@ Die der Oberfinanzdirektion Köln übertragene Befugnis gilt zugleich für die B
 
 Die der Oberfinanzdirektion Frankfurt a.M. übertragene Befugnis gilt zugleich für das Beschaffungsamt der Bundeszollverwaltung in Offenbach a.M..
 
-
-## II.
+# II.
 
 Diese Anordnung tritt am 19. August 1965 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen

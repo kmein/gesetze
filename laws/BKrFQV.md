@@ -1,10 +1,7 @@
-# [BKrFQV] Verordnung zur Durchführung des Berufskraftfahrerqualifikationsgesetzes  (Berufskraftfahrerqualifikationsverordnung - BKrFQV)
-
-Ausfertigungsdatum: 09.12.2020
-
+% Verordnung zur Durchführung des Berufskraftfahrerqualifikationsgesetzes  (Berufskraftfahrerqualifikationsverordnung - BKrFQV)
+% Ausfertigungsdatum: 09.12.2020
  
-
-## § 1 – Erwerb der Grundqualifikation
+# § 1 – Erwerb der Grundqualifikation
 
 (1) Für den Zugang zum Erwerb der Grundqualifikation ist der vorherige Erwerb der jeweiligen Fahrerlaubnis nicht erforderlich.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 09.12.2020
 
 (5) Inhaber einer Fachkunde-Bescheinigung nach § 4 Absatz 6 Satz 1 der Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5 Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind von der theoretischen Prüfung insoweit befreit, als der Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Dauer der theoretischen Prüfung ist entsprechend zu verkürzen.
 
-
-## § 2 – Erwerb der beschleunigten Grundqualifikation
+# § 2 – Erwerb der beschleunigten Grundqualifikation
 
 (1) Für den Zugang zum Erwerb der beschleunigten Grundqualifikation ist der vorherige Erwerb der jeweiligen Fahrerlaubnis nicht erforderlich.
 
@@ -43,15 +39,13 @@ Die nach Satz 1 abgeschlossenen speziellen Ausbildungsmaßnahmen werden jeweils 
 
 (9) Inhaber einer Fachkunde-Bescheinigung nach § 4 Absatz 6 Satz 1 der Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5 Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind von der Teilnahme am Unterricht und der Prüfung insoweit befreit, als Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Unterrichtsdauer beträgt 96 Unterrichtseinheiten, von denen zehn Unterrichtseinheiten auf das Führen eines Kraftfahrzeugs der betreffenden Klasse entfallen. Die Prüfung ist entsprechend zu verkürzen.
 
-
-## § 3 – Unterrichts- und Prüfungsanforderungen in besonderen Fällen
+# § 3 – Unterrichts- und Prüfungsanforderungen in besonderen Fällen
 
 (1) Fahrer im Güterkraftverkehr, die ihre Tätigkeit auf den Personenkraftverkehr ausweiten, oder Fahrer im Personenkraftverkehr, die ihre Tätigkeit auf den Güterkraftverkehr ausweiten oder ändern und die eine Grundqualifikation erworben haben, müssen bei der theoretischen und praktischen Prüfung nach § 1 Absatz 2 nur diejenigen Teile ablegen, welche Kraftfahrzeuge betreffen, die Gegenstand der neuen Grundqualifikation sind.
 
 (2) Bei Absolvierung der beschleunigten Grundqualifikation beträgt die Unterrichtsdauer 35 Unterrichtseinheiten, von denen 2,5 Unterrichtseinheiten auf das Führen eines Kraftfahrzeugs der betreffenden Klassen entfallen. Das Kraftfahrzeug muss den Anforderungen nach § 2 Absatz 3 Satz 2 entsprechen. Die theoretische Prüfung beschränkt sich auf diejenigen in Anlage 1 genannten Kenntnisbereiche, welche die Kraftfahrzeuge betreffen, die Gegenstand der neuen beschleunigten Grundqualifikation sind.
 
-
-## § 4 – Weiterbildung
+# § 4 – Weiterbildung
 
 (1) Durch die Weiterbildung sind alle in Anlage 1 aufgeführten Kenntnisbereiche zu vertiefen und aufzufrischen. Aus den Kenntnisbereichen 1, 2 und 3 der Anlage 1 muss jeweils mindestens ein Unterkenntnisbereich abgedeckt sein. Besondere Schwerpunkte sollen die Verkehrssicherheit, die Sicherheit und der Gesundheitsschutz am Arbeitsplatz und die Reduzierung der Umweltauswirkungen des Fahrens bilden. Eine einmalige Wiederholung von Unterkenntnisbereichen unter Einhaltung von Satz 2 ist zulässig.
 
@@ -67,8 +61,7 @@ Die nach Satz 1 abgeschlossenen speziellen Ausbildungsmaßnahmen werden jeweils 
 
 Abgeschlossene spezielle Aus- oder Weiterbildungsmaßnahmen werden jeweils nur einmal im Rahmen des fünfjährigen Weiterbildungsrhythmus angerechnet. Sind seit dem Abschluss der speziellen Aus- oder Weiterbildungsmaßnahme mehr als fünf Jahre vergangen, ist eine Anrechnung nicht mehr zulässig.
 
-
-## § 5 – Anerkennung von Ausbildungsstätten
+# § 5 – Anerkennung von Ausbildungsstätten
 
 (1) Der Antrag auf Anerkennung einer Ausbildungsstätte für die beschleunigte Grundqualifikation und die Weiterbildung ist bei der nach Landesrecht zuständigen Behörde in schriftlicher oder in elektronischer Form zu stellen. Dem Antrag sind die zur Prüfung der Anerkennungsvoraussetzungen erforderlichen Unterlagen beizufügen, insbesondere
 
@@ -104,15 +97,13 @@ oder eine entsprechende Fahrerfahrung, insbesondere als Fahrlehrer für Lastkraf
 
 (3) Die Anerkennung kann mit Nebenbestimmungen verbunden werden.
 
-
-## § 6 – Anforderungen an den Unterricht
+# § 6 – Anforderungen an den Unterricht
 
 (1) Die Teilnehmerzahl für den Unterricht zur beschleunigten Grundqualifikation und zur Weiterbildung ist auf höchstens 25 Personen je Unterricht zu beschränken. Die Durchführung von Unterricht mit einer höheren Teilnehmerzahl ist unzulässig.
 
 (2) Die Ausbildungsstätte hat dafür zu sorgen, dass in den Unterrichtsräumen während des Unterrichts für alle Teilnehmenden geeignete und ausreichende Lernmittel zur Gestaltung des Unterrichts und zur Visualisierung vorhanden sind.
 
-
-## § 7 – Fortbildung der Ausbilder
+# § 7 – Fortbildung der Ausbilder
 
 (1) Ausbilder, die Unterricht zur beschleunigten Grundqualifikation oder zur Weiterbildung durchführen, haben ihre Kenntnisse regelmäßig durch eine mindestens dreitägige Fortbildung aufzufrischen. Die Fortbildung soll alle Gebiete erfassen, die für diese berufliche Tätigkeit des Ausbilders von Bedeutung sind. Die Fortbildung hat einen Gesamtumfang von mindestens 24 Unterrichtseinheiten zu je 60 Minuten und ist spätestens alle vier Jahre zu absolvieren.
 
@@ -122,8 +113,7 @@ oder eine entsprechende Fahrerfahrung, insbesondere als Fahrlehrer für Lastkraf
 
 (4) Teilnahmebescheinigungen der Ausbilder der letzten beiden Fortbildungsmaßnahmen sind von der Ausbildungsstätte aufzubewahren und spätestens acht Jahre nach Abschluss der Fortbildungsmaßnahme zu vernichten. Die Teilnahmebescheinigungen sind der nach Landesrecht zuständigen Behörde nach § 11 Absatz 1 Satz 1 des Berufskraftfahrerqualifikationsgesetzes auf Verlangen unverzüglich vorzulegen.
 
-
-## § 8 – Ausstellung des Fahrerqualifizierungsnachweises
+# § 8 – Ausstellung des Fahrerqualifizierungsnachweises
 
 (1) Die nach Landesrecht zuständige Behörde stellt auf Antrag einen Fahrerqualifizierungsnachweis aus, wenn der Fahrer nachweislich grundqualifiziert ist oder als grundqualifiziert gilt. Sind seit der Erlangung der Grundqualifikation mehr als fünf Jahre vergangen, muss der Fahrer nachweislich über eine abgeschlossene Weiterbildung verfügen. Der Fahrerqualifizierungsnachweis folgt dem Muster der Anlage 5.
 
@@ -151,8 +141,7 @@ oder eine entsprechende Fahrerfahrung, insbesondere als Fahrlehrer für Lastkraf
 
 (4) Die nach Landesrecht zuständige Behörde prüft die Richtigkeit und Vollständigkeit der vom Fahrer mitgeteilten Daten und vorgelegten Unterlagen. Sie holt zu diesem Zweck eine Auskunft aus dem Zentralen Fahrerlaubnisregister ein. Die nach Landesrecht zuständige Behörde überprüft das Vorliegen einer Grundqualifikation oder einer Weiterbildung nach Absatz 1. Sie holt zu diesem Zweck eine Auskunft aus dem Berufskraftfahrerqualifikationsregister ein.
 
-
-## § 9 – Ausstellung eines neuen Fahrerqualifizierungsnachweises bei Änderungen, Verlust, Diebstahl und Beschädigung
+# § 9 – Ausstellung eines neuen Fahrerqualifizierungsnachweises bei Änderungen, Verlust, Diebstahl und Beschädigung
 
 (1) Bei Änderungen der den Angaben auf dem Fahrerqualifizierungsnachweis zugrunde liegenden Tatsachen ist auf Antrag ein neuer Fahrerqualifizierungsnachweis auszustellen. Der alte Fahrerqualifizierungsnachweis ist der nach Landesrecht zuständigen Behörde zurückzugeben.
 
@@ -170,8 +159,7 @@ Dem Antrag sind die nach § 8 Absatz 3 Nummer 1 bis 4 erforderlichen Unterlagen 
 
 (4) Mit Ausstellung des neuen Fahrerqualifizierungsnachweises verliert der ersetzte Fahrerqualifizierungsnachweis seine Gültigkeit. Ein wiederaufgefundener Fahrerqualifizierungsnachweis ist der nach Landesrecht zuständigen Behörde unverzüglich zurückzugeben.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 28 Absatz 2 Nummer 7 Buchstabe a des Berufskraftfahrerqualifikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -185,8 +173,7 @@ Dem Antrag sind die nach § 8 Absatz 3 Nummer 1 bis 4 erforderlichen Unterlagen 
 
 2. entgegen § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b eine Bescheinigung nicht, nicht richtig oder nicht rechtzeitig ausstellt.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Weiterbildungsbescheinigungen, die nach den bis zum Ablauf des 21. Dezember 2016 geltenden Vorschriften ausgefertigt worden sind, bleiben bis zum Ablauf des 21. Dezember 2021 gültig.
 
@@ -226,15 +213,13 @@ Die Bescheinigung nach Satz 1 Nummer 2 ist im Original von einer zur Vertretung 
 
 (5) Bescheinigungen nach Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3 sind fünf Jahre ab dem Abschluss der Teilleistung oder gesamten Weiterbildung gültig. Sie sind zusätzlich zu den in § 8 Absatz 3 genannten Unterlagen vorzulegen.
 
-
-## Anlage 1 – (zu § 1 Absatz 2 Satz 2, § 2 Absatz 2 Satz 2, § 4 Absatz 1 Satz 1)Liste der Kenntnisbereiche
+# Anlage 1 – (zu § 1 Absatz 2 Satz 2, § 2 Absatz 2 Satz 2, § 4 Absatz 1 Satz 1)Liste der Kenntnisbereiche
 
 (Fundstelle: BGBl. I 2020, 2910 - 2913)
 
 Die Kenntnisse müssen sich zumindest auf die in dieser Liste angeführten Bereiche erstrecken. Anwärter für den Beruf des Kraftfahrers müssen über das zum sicheren Führen eines Fahrzeugs der betreffenden Fahrerlaubnisklasse erforderliche Niveau von Kenntnissen und Fähigkeiten in diesen Bereichen verfügen.
 
-Das Mindestqualifikationsniveau muss mit Niveau 2 des Europäischen Qualifikationsrahmens gemäß Anhang II der Empfehlung des Europäischen Parlaments und des Rates vom 23. April 2008 zur Einrichtung des Europäischen Qualifikationsrahmens für lebenslanges Lernen (ABl. C 111 vom 6.5.2008, S. 1) vergleichbar sein.  
-  
+Das Mindestqualifikationsniveau muss mit Niveau 2 des Europäischen Qualifikationsrahmens gemäß Anhang II der Empfehlung des Europäischen Parlaments und des Rates vom 23. April 2008 zur Einrichtung des Europäischen Qualifikationsrahmens für lebenslanges Lernen (ABl. C 111 vom 6.5.2008, S. 1) vergleichbar sein.   
 
 1\.
 
@@ -760,8 +745,7 @@ Organisation der wichtigsten Arten von Unternehmen im Personenkraftverkehr.
 <span id="FnA1-F814108_02"></span><a href="#FnR.FnA1-F814108_02" class="Footnote">*</a>  
 Diese Unterkenntnisbereiche stehen nicht im Zusammenhang mit der Straßenverkehrssicherheit.
 
-
-## Anlage 2 – (zu § 1 Absatz 2 Satz 1)Prüfungen zum Erwerb der Grundqualifikation
+# Anlage 2 – (zu § 1 Absatz 2 Satz 1)Prüfungen zum Erwerb der Grundqualifikation
 
 (Fundstelle: BGBl. I 2020, 2914)
 
@@ -772,35 +756,27 @@ a) Multiple-Choice-Fragen,
 
 b) Fragen mit direkter Antwort und
 
-c) einer Erörterung von Praxissituationen.  
-  
+c) einer Erörterung von Praxissituationen.   
 
-Alle Kenntnisbereiche nach Anlage 1 müssen angemessen abgedeckt sein.  
-  
+Alle Kenntnisbereiche nach Anlage 1 müssen angemessen abgedeckt sein.   
 
 Die theoretische Prüfung dauert 240 Minuten.
 
-2. Die praktische Prüfung besteht aus einer Fahrprüfung, einem praktischen Prüfungsteil und der Bewältigung kritischer Fahrsituationen. Sofern im Rahmen des Erwerbs der Grundqualifikation die für das Führen des Prüfungsfahrzeugs vorgeschriebene Fahrerlaubnis nicht vorliegt, muss der Prüfungsteilnehmer von einer Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes.  
-  
+2. Die praktische Prüfung besteht aus einer Fahrprüfung, einem praktischen Prüfungsteil und der Bewältigung kritischer Fahrsituationen. Sofern im Rahmen des Erwerbs der Grundqualifikation die für das Führen des Prüfungsfahrzeugs vorgeschriebene Fahrerlaubnis nicht vorliegt, muss der Prüfungsteilnehmer von einer Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im Sinne des Straßenverkehrsgesetzes.   
 
-Ziel der Fahrprüfung ist die Bewertung der fahrpraktischen Fähigkeiten des Prüfungsteilnehmers. Sie muss auf Straßen innerhalb und außerhalb geschlossener Ortschaften, auf Schnellstraßen und Autobahnen und in Situationen mit unterschiedlicher Verkehrsdichte stattfinden. Die Fahrzeit ist zu nutzen, um die Fähigkeiten des Prüfungsteilnehmers in allen verschiedenen Verkehrssituationen zu beurteilen. Die Fahrprüfung dauert 120 Minuten.  
-  
+Ziel der Fahrprüfung ist die Bewertung der fahrpraktischen Fähigkeiten des Prüfungsteilnehmers. Sie muss auf Straßen innerhalb und außerhalb geschlossener Ortschaften, auf Schnellstraßen und Autobahnen und in Situationen mit unterschiedlicher Verkehrsdichte stattfinden. Die Fahrzeit ist zu nutzen, um die Fähigkeiten des Prüfungsteilnehmers in allen verschiedenen Verkehrssituationen zu beurteilen. Die Fahrprüfung dauert 120 Minuten.   
 
-Ziel des praktischen Prüfungsteils ist die Bewertung der in den Nummern 1.4 (Fahrerlaubnisklassen C1, C1E, C, CE), 1.5, 1.6 (Fahrerlaubnisklassen D1, D1E, D, DE), 3.2, 3.3 und 3.5 (Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D, DE) der Anlage 1 genannten Kenntnisbereiche. Der praktische Prüfungsteil dauert 30 Minuten.  
-  
+Ziel des praktischen Prüfungsteils ist die Bewertung der in den Nummern 1.4 (Fahrerlaubnisklassen C1, C1E, C, CE), 1.5, 1.6 (Fahrerlaubnisklassen D1, D1E, D, DE), 3.2, 3.3 und 3.5 (Fahrerlaubnisklassen C1, C1E, C, CE, D1, D1E, D, DE) der Anlage 1 genannten Kenntnisbereiche. Der praktische Prüfungsteil dauert 30 Minuten.   
 
-Bei der Bewältigung kritischer Situationen wird insbesondere die Beherrschung des Kraftfahrzeugs bei unterschiedlichem Zustand der Fahrbahn je nach Witterungsverhältnissen sowie Tages- und Nachtzeit geprüft. Dieser Prüfungsteil findet entweder auf einem besonderen Gelände oder in einem leistungsfähigen Simulator statt. Die Dauer dieses Prüfungsteils ist so zu bestimmen, dass der Prüfer die genannten Bewertungen vornehmen kann; sie darf 60 Minuten nicht überschreiten.  
-  
+Bei der Bewältigung kritischer Situationen wird insbesondere die Beherrschung des Kraftfahrzeugs bei unterschiedlichem Zustand der Fahrbahn je nach Witterungsverhältnissen sowie Tages- und Nachtzeit geprüft. Dieser Prüfungsteil findet entweder auf einem besonderen Gelände oder in einem leistungsfähigen Simulator statt. Die Dauer dieses Prüfungsteils ist so zu bestimmen, dass der Prüfer die genannten Bewertungen vornehmen kann; sie darf 60 Minuten nicht überschreiten.   
 
 Das bei der praktischen Prüfung eingesetzte Kraftfahrzeug muss den jeweiligen Kriterien für Prüfungsfahrzeuge der Nummern 2.2.6 bis 2.2.13 und 2.2.16 der Anlage 7 der Fahrerlaubnis-Verordnung entsprechen.
 
-
-## Anlage 3 – (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2)Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
+# Anlage 3 – (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 2)Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation
 
 (Fundstelle: BGBl. I 2020, 2915 - 2016)
 
-I.  
-Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation  
+I. Musterbescheinigung über die Teilnahme an einer Ausbildung zur beschleunigten Grundqualifikation  
   
 
 |                                 |                                                                                                                       |     |                                                                            |
@@ -853,13 +829,11 @@ Kopie – Ausbildungsstätte
 
 Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung einzutragen.
 
-
-## Anlage 4 – (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3)Musterbescheinigung über die Teilnahme an einer Weiterbildung
+# Anlage 4 – (zu § 11 Absatz 4 Satz 1 Nummer 1 Buchstabe b in Verbindung mit Nummer 3)Musterbescheinigung über die Teilnahme an einer Weiterbildung
 
 (Fundstelle: BGBl. I 2020, 2917 - 2918)
 
-I.  
-Musterbescheinigung über die Teilnahme an einer Weiterbildung  
+I. Musterbescheinigung über die Teilnahme an einer Weiterbildung  
   
 
 |                                 |                                                                                                                       |     |                                                                            |
@@ -896,8 +870,7 @@ Kopie – Ausbildungsstätte
 
 Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung einzutragen.
 
-
-## Anlage 5 – (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
+# Anlage 5 – (zu § 8 Absatz 1 Satz 3)Muster des Fahrerqualifizierungsnachweises
 
 (Fundstelle: BGBl. I 2020, 2919 - 2920)
 
@@ -927,20 +900,15 @@ cc) Folgende Daten zum Inhaber des Fahrerqualifizierungsnachweises und zu seiner
 
 3. Geburtsdatum und Geburtsort des Inhabers
 
-4a.  
-Ausstellungsdatum
+4a. Ausstellungsdatum
 
-4b.  
-Ablaufdatum
+4b. Ablaufdatum
 
-4c.  
-Name der Ausstellungsbehörde
+4c. Name der Ausstellungsbehörde
 
-5a.  
-Führerscheinnummer
+5a. Führerscheinnummer
 
-5b.  
-Seriennummer des Fahrerqualifizierungsnachweises, die sich aus „FQN“ als festem Wert, aus dem Behördenschlüssel der nach Landesrecht zuständigen Behörde, aus einer laufenden Nummer, aus einer Prüfziffer und aus einer Ausfertigungskennziffer des Fahrerqualifizierungsnachweises zusammensetzt.
+5b. Seriennummer des Fahrerqualifizierungsnachweises, die sich aus „FQN“ als festem Wert, aus dem Behördenschlüssel der nach Landesrecht zuständigen Behörde, aus einer laufenden Nummer, aus einer Prüfziffer und aus einer Ausfertigungskennziffer des Fahrerqualifizierungsnachweises zusammensetzt.
 
 6. Lichtbild des Inhabers
 
@@ -968,9 +936,9 @@ Die Erläuterungen zum Inhalt der Felder 1 bis 4c, 5 bis 7 sowie 9 und 10.
 Vorderseite  
   
 
-![](../normengrafiken/bgbl1_2020/j2905-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2905-1_0010.jpg)
 
 Rückseite  
   
 
-![](../normengrafiken/bgbl1_2020/j2905-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j2905-1_0020.jpg)

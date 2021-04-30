@@ -1,10 +1,7 @@
-# [KVAV] Verordnung betreffend die Aufsicht über die Geschäftstätigkeit in der privaten Krankenversicherung  (Krankenversicherungsaufsichtsverordnung - KVAV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung betreffend die Aufsicht über die Geschäftstätigkeit in der privaten Krankenversicherung  (Krankenversicherungsaufsichtsverordnung - KVAV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -14,16 +11,13 @@ des § 160 Satz 1 Nummer 6 in Verbindung mit Satz 3 des Versicherungsaufsichtsge
 –  
 des § 160 Satz 1 Nummer 1 bis 5 und 7 in Verbindung mit Satz 3 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Versicherungsmathematische Methoden in der Krankenversicherung
+# § 1 – Versicherungsmathematische Methoden in der Krankenversicherung
 
 Versicherungsmathematische Methoden zur Berechnung der Prämien und Rückstellungen in der nach Art der Lebensversicherung betriebenen Krankenversicherung sind die nach den anerkannten Regeln der Versicherungsmathematik unter Verwendung der in den §§ 2 und 4 bis 8 näher bezeichneten Rechnungsgrundlagen erfolgenden Berechnungen der Prämien und der Alterungsrückstellungen nach Maßgabe der §§ 3, 10, 11, 13, 14 und 18.
 
-
-## § 2 – Rechnungsgrundlagen
+# § 2 – Rechnungsgrundlagen
 
 (1) Rechnungsgrundlagen sind:
 
@@ -43,25 +37,21 @@ Versicherungsmathematische Methoden zur Berechnung der Prämien und Rückstellun
 
 (3) Die Rechnungsgrundlagen sind mit ausreichenden Sicherheiten zu versehen.
 
-
-## § 3 – Gleiche Rechnungsgrundlagen
+# § 3 – Gleiche Rechnungsgrundlagen
 
 Für die Berechnung der Prämie und der Alterungsrückstellung sind die gleichen Rechnungsgrundlagen zu verwenden.
 
-
-## § 4 – Rechnungszins
+# § 4 – Rechnungszins
 
 Der Rechnungszins für die Prämienberechnung und die Berechnung der Alterungsrückstellung darf 3,5 Prozent nicht übersteigen.
 
-
-## § 5 – Ausscheideordnung
+# § 5 – Ausscheideordnung
 
 (1) Die Ausscheideordnung enthält die Annahmen zur Sterbewahrscheinlichkeit und zu sonstigen Abgangswahrscheinlichkeiten, die unter dem Gesichtspunkt vorsichtiger Risikoeinschätzung festzulegen und regelmäßig zu überprüfen sind.
 
 (2) In der privaten Pflege-Pflichtversicherung und bei Gewährung von Versicherung im Basistarif nach § 152 des Versicherungsaufsichtsgesetzes dürfen außer den Sterbewahrscheinlichkeiten sowie den Wahrscheinlichkeiten des Abgangs zur sozialen Pflegeversicherung und gesetzlichen Krankenversicherung keine weiteren Abgangswahrscheinlichkeiten berücksichtigt werden.
 
-
-## § 6 – Kopfschäden
+# § 6 – Kopfschäden
 
 (1) Kopfschäden sind die im Beobachtungszeitraum auf einen Versicherten entfallenden durchschnittlichen Versicherungsleistungen; sie sind für jeden Tarif in Abhängigkeit vom Alter des Versicherten zu ermitteln. Der Beobachtungszeitraum erstreckt sich auf zusammenhängende zwölf Monate; er ist für jeden Tarif gesondert festzulegen und kann nur aus wichtigem Grund im unmittelbaren Anschluss an eine Prämienanpassung geändert werden.
 
@@ -71,13 +61,11 @@ Der Rechnungszins für die Prämienberechnung und die Berechnung der Alterungsr�
 
 (4) Die Teilkopfschäden für Leistungen nach § 25 Satz 1 Nummer 2 sind für alle Alter gesondert zu ermitteln. Die entsprechenden rechnungsmäßigen Teilkopfschäden sind auf alle Alter gleichmäßig zu verteilen.
 
-
-## § 7 – Sicherheitszuschlag
+# § 7 – Sicherheitszuschlag
 
 In die Prämie ist ein Sicherheitszuschlag von mindestens 5 Prozent der Bruttoprämie einzurechnen, der nicht bereits in anderen Rechnungsgrundlagen enthalten sein darf.
 
-
-## § 8 – Grundsätze für die Bemessung der sonstigen Zuschläge
+# § 8 – Grundsätze für die Bemessung der sonstigen Zuschläge
 
 (1) Die sonstigen Zuschläge umfassen
 
@@ -107,13 +95,11 @@ In die Prämie ist ein Sicherheitszuschlag von mindestens 5 Prozent der Bruttopr
 
 (+++ § 8 Abs. 3 S. 3: Zur Anwendung vgl. § 27 Abs. 2 +++)
 
-
-## § 9 – Dokumentationspflichten
+# § 9 – Dokumentationspflichten
 
 Alle rechnungsmäßigen Ansätze hat das Versicherungsunternehmen in überprüfbarer Weise zu belegen.
 
-
-## § 10 – Prämienberechnung
+# § 10 – Prämienberechnung
 
 (1) Die Prämienberechnung hat nach den anerkannten Regeln der Versicherungsmathematik für jede versicherte Person altersabhängig getrennt für jeden Tarif mit einem dem Grunde und der Höhe nach einheitlichen Leistungsversprechen unter Verwendung der maßgeblichen Rechnungsgrundlagen und einer nach Einzelaltern erstellten Prämienstaffel zu erfolgen. Jede Beobachtungseinheit eines Tarifs hat das Versicherungsunternehmen getrennt zu kalkulieren. Es dürfen nur risikogerechte Prämien kalkuliert werden.
 
@@ -125,15 +111,13 @@ Alle rechnungsmäßigen Ansätze hat das Versicherungsunternehmen in überprüfb
 
 (5) Für die Prämienberechnung des Neuzugangs sind die Formeln des Abschnitts A der Anlage 1 oder andere geeignete Formeln, die den anerkannten Regeln der Versicherungsmathematik entsprechen, zu verwenden.
 
-
-## § 11 – Berechnung der Prämien bei Prämienanpassung
+# § 11 – Berechnung der Prämien bei Prämienanpassung
 
 (1) Die Berechnung der Prämien bei Prämienanpassungen hat nach den für die Prämienberechnung geltenden Grundsätzen zu erfolgen. Dabei ist dem Versicherten der ihm kalkulatorisch zugerechnete Anteil der Alterungsrückstellung nach § 341f des Handelsgesetzbuchs vollständig prämienmindernd anzurechnen; dies gilt nicht für den Teil, der auf die Anwartschaft zur Prämienermäßigung nach § 150 Absatz 2 des Versicherungsaufsichtsgesetzes entfällt und der betragsmäßig anlässlich der Prämienanpassung unverändert bleibt, soweit er nicht prämienmindernd verwendet wird.
 
 (2) Für die Prämienberechnung bei Prämienanpassungen sind die Formeln des Abschnitts B der Anlage 1 oder andere geeignete Formeln, die den anerkannten Regeln der Versicherungsmathematik entsprechen, zu verwenden. Eine dabei erforderliche Absenkung des Rechnungszinses um mehr als 0,4 Prozentpunkte kann stufenweise in Zeiträumen von 12 Monaten ab dem Zeitpunkt der Prämienanpassung erfolgen, wobei sich die Höchstzahl der Stufen aus der gleichmäßigen Verteilung der erforderlichen Absenkung auf Stufen von 0,3 Prozentpunkten ergibt. Weitere Möglichkeiten der Verwendung von Mitteln zur Begrenzung von Prämienerhöhungen bleiben unberührt. In die Prämien der Versicherten, die das 45. Lebensjahr vollendet haben, dürfen keine erneuten einmaligen Kosten eingerechnet werden.
 
-
-## § 12 – Tarife mit gleichartigem Versicherungsschutz
+# § 12 – Tarife mit gleichartigem Versicherungsschutz
 
 (1) Als Krankenversicherungstarife mit gleichartigem Versicherungsschutz, in die der Versicherte zu wechseln berechtigt ist, sind Tarife anzusehen, die gleiche Leistungsbereiche wie der bisherige Tarif umfassen und für die der Versicherte versicherungsfähig ist. Leistungsbereiche sind insbesondere:
 
@@ -161,8 +145,7 @@ Alle rechnungsmäßigen Ansätze hat das Versicherungsunternehmen in überprüfb
 
 (4) Schließt der Versicherte unter Kündigung des bisherigen Vertrags gleichzeitig einen Vertrag über einen Basistarif bei einem anderen Krankenversicherer ab, sind Zusatzversicherungen, welche Leistungen abdecken, die im bisherigen Versicherungsschutz, nicht jedoch im Basistarif enthalten sind, und für die der Versicherte versicherungsfähig ist, als Tarife mit gleichartigem Versicherungsschutz anzusehen.
 
-
-## § 13 – Anrechnung der erworbenen Rechte und der Alterungsrückstellung bei einem Tarifwechsel
+# § 13 – Anrechnung der erworbenen Rechte und der Alterungsrückstellung bei einem Tarifwechsel
 
 (1) Bei einem Wechsel in Tarife mit gleichartigem Versicherungsschutz ist für jeden Leistungsbereich dem Versicherten der ihm kalkulatorisch zugerechnete Anteil der Alterungsrückstellung nach § 341f des Handelsgesetzbuchs mit Ausnahme des Teils, der auf die Anwartschaft zur Prämienermäßigung nach § 150 Absatz 2 des Versicherungsaufsichtsgesetzes entfällt und der betragsmäßig anlässlich des Tarifwechsels unverändert bleibt, vollständig prämienmindernd anzurechnen. Die Anrechnung kann so weit begrenzt werden, dass die für diesen Leistungsbereich zu zahlende anteilige Prämie die Prämie zum ursprünglichen Eintrittsalter nicht unterschreitet. In diesem Fall ist der nicht angerechnete Teil der Alterungsrückstellung der Rückstellung zur Prämienermäßigung im Alter des Versicherten gutzuschreiben. Das ursprüngliche Eintrittsalter ist das Alter des Versicherten, zu dem für ihn erstmals nach Vollendung des 21. Lebensjahres eine auf die gesamte Vertragslaufzeit bezogene Alterungsrückstellung bei dem Krankenversicherungsunternehmen gebildet worden ist.
 
@@ -174,8 +157,7 @@ Alle rechnungsmäßigen Ansätze hat das Versicherungsunternehmen in überprüfb
 
 (5) Für die Prämienberechnung bei Umstufungen sind die Formeln des Abschnitts B der Anlage 1 oder andere geeignete Formeln, die den anerkannten Regeln der Versicherungsmathematik entsprechen, zu verwenden. Bei einer Umstufung, die zu einer niedrigeren Prämie führt, sowie bei Wiederherstellung des ursprünglichen Versicherungsschutzes nach Absatz 4 dürfen nicht erneut einmalige Abschlusskosten eingerechnet werden.
 
-
-## § 14 – Übertragungswert
+# § 14 – Übertragungswert
 
 (1) Der Übertragungswert gemäß § 146 Absatz 1 Nummer 5 des Versicherungsaufsichtsgesetzes für ab dem 1. Januar 2009 abgeschlossene Verträge berechnet sich als Summe aus
 
@@ -201,8 +183,7 @@ Die Alterungsrückstellung für die gekündigten Tarife ist die gemäß § 341f 
 
 (6) Wechselt der Versicherte in der Pflege-Pflichtversicherung zu einem anderen Unternehmen, so gilt die Alterungsrückstellung als Übertragungswert im Sinne des § 148 Satz 2 des Versicherungsaufsichtsgesetzes.
 
-
-## § 15 – Verfahren zur Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen
+# § 15 – Verfahren zur Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen
 
 (1) Die Gegenüberstellung nach § 155 Absatz 3 Satz 1 und 2 des Versicherungsaufsichtsgesetzes ist jährlich und für jede Beobachtungseinheit eines Tarifs getrennt durchzuführen. Kinder und Jugendliche können als einheitliche Beobachtungseinheit zusammengefasst werden. Der Beobachtungszeitraum ist der nach § 6 Absatz 1 Satz 2 maßgebliche Zeitraum. Die erforderlichen Versicherungsleistungen sind aus den beobachteten abzuleiten. Hierzu sind die Leistungen und die zugehörigen Bestände auf die Beobachtungszeiträume abzugrenzen. Ferner sind Wartezeit- und Selektionsersparnisse sowie erhobene Risikozuschläge zu berücksichtigen.
 
@@ -214,15 +195,13 @@ Die Alterungsrückstellung für die gekündigten Tarife ist die gemäß § 341f 
 
 (5) Abweichend von den Absätzen 3 und 4 sind zur Ermittlung der erforderlichen Versicherungsleistungen in den Tarifen der freiwilligen Pflegeversicherung die Ergebnisse der Statistik der Pflegepflichtversicherung des Verbandes der Privaten Krankenversicherung e. V. zu verwenden, solange in dem zu beobachtenden Tarif weniger als zehntausend natürliche Personen versichert sind. Ergibt die Statistik der Pflegepflichtversicherung, dass im abgelaufenen Kalenderjahr die tatsächlichen Pflegedauern oder Pflegehäufigkeiten von den rechnungsmäßigen Ansätzen in den technischen Berechnungsgrundlagen für die Pflegekrankenversicherung des Verbandes der Privaten Krankenversicherung e. V. um mehr als 10 Prozent abweichen, hat das Versicherungsunternehmen alle Prämien der Pflegetagegeldtarife und Pflegekostentarife zu überprüfen. Zusätzlich hat es die Prämien der Pflegekostentarife zu überprüfen, wenn im abgelaufenen Kalenderjahr nach der Statistik der Pflegepflichtversicherung die Pflegekosten pro Tag von dem rechnungsmäßigen Ansatz um mehr als 10 Prozent abweichen.
 
-
-## § 16 – Verfahren zur Gegenüberstellung der kalkulierten Sterbewahrscheinlichkeiten und der zuletzt veröffentlichten Sterbewahrscheinlichkeiten
+# § 16 – Verfahren zur Gegenüberstellung der kalkulierten Sterbewahrscheinlichkeiten und der zuletzt veröffentlichten Sterbewahrscheinlichkeiten
 
 (1) Die Gegenüberstellung nach § 155 Absatz 4 des Versicherungsaufsichtsgesetzes ist jährlich und für jede Beobachtungseinheit eines Tarifs, bei der Sterbewahrscheinlichkeiten kalkulatorisch berücksichtigt werden, getrennt durchzuführen. Als Barwert der erforderlichen Sterbewahrscheinlichkeiten ist der Leistungsbarwert nach der Formel in Anlage 1 mit Rechnungszins und rechnungsmäßigen Kopfschäden der betrachteten Beobachtungseinheit sowie mit der zuletzt von der Bundesanstalt veröffentlichten Sterbetafel zu bestimmen. Als Barwert der kalkulierten Sterbewahrscheinlichkeiten ist der Leistungsbarwert nach der Formel in Anlage 1 mit Rechnungszins, rechnungsmäßigen Sterbewahrscheinlichkeiten und rechnungsmäßigen Kopfschäden der betrachteten Beobachtungseinheit zu bestimmen. Stornowahrscheinlichkeiten dürfen bei der Berechnung der Barwerte gemäß den Sätzen 2 und 3 nicht berücksichtigt werden. Für die Altersbereiche von 21 bis 45 Jahren, von 46 bis 70 Jahren sowie von 71 bis 95 Jahren ist jeweils das arithmetische Mittel der für die einzelnen Alter ermittelten Quotienten der gemäß Satz 2 bis 4 bestimmten Barwerte zu bilden. Als Ergebnis der Gegenüberstellung ist das Maximum der für die drei Altersbereiche gemäß Satz 5 ermittelten Werte anzusehen.
 
 (2) Für Krankentagegeldtarife sind bei der Gegenüberstellung gemäß Absatz 1 die Altersbereiche von 21 bis 45 Jahren sowie von 46 bis 65 Jahren zu betrachten.
 
-
-## § 17 – Vorlagefristen
+# § 17 – Vorlagefristen
 
 (1) Spätestens vier Monate nach dem Ende des Beobachtungszeitraumes hat das Versicherungsunternehmen die kommentierte Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen nach § 155 Absatz 3 Satz 2 des Versicherungsaufsichtsgesetzes dem Treuhänder und der Aufsichtsbehörde vorzulegen. Wird der in den Versicherungsbedingungen festgelegte Prozentsatz überschritten, jedoch von einer Neukalkulation abgesehen, so sind die Gegenüberstellungen der tatsächlichen und der rechnungsmäßigen Versicherungsleistungen der letzten vier Beobachtungszeiträume auf der Grundlage der aktuell gültigen Rechnungsgrundlagen beizufügen.
 
@@ -230,13 +209,11 @@ Die Alterungsrückstellung für die gekündigten Tarife ist die gemäß § 341f 
 
 (3) Soweit die Gegenüberstellung der erforderlichen und der kalkulierten Versicherungsleistungen oder die Gegenüberstellung der erforderlichen und kalkulierten Sterbewahrscheinlichkeiten und die Überprüfung der Prämien die Notwendigkeit von Prämienanpassungen ergeben hat, hat das Versicherungsunternehmen die Herleitung der neuen Prämien für die Versicherten einschließlich der statistischen Nachweise für die Rechnungsgrundlagen dem Treuhänder spätestens zwölf Monate nach Abschluss des Beobachtungszeitraumes vorzulegen.
 
-
-## § 18 – Alterungsrückstellung
+# § 18 – Alterungsrückstellung
 
 Bei der Berechnung der Alterungsrückstellung nach § 341f des Handelsgesetzbuchs und § 25 Absatz 5 der Versicherungsunternehmens-Rechnungslegungsverordnung ist die Summe der Einzelalterungsrückstellungen am Abschlussstichtag unter Berücksichtigung des Alters des Versicherten an diesem Stichtag zugrunde zu legen. Zur Berechnung der Alterungsrückstellungen nach Satz 1 ist auch ein Näherungsverfahren zulässig, bei dem das arithmetische Mittel der Einzelalterungsrückstellungen, die sich dadurch ergeben, dass die Versicherungsdauern auf ganze Jahre auf- und abgerundet werden, verwendet wird.
 
-
-## § 19 – Ermittlung des Überzinses
+# § 19 – Ermittlung des Überzinses
 
 (1) Zur Ermittlung des Überzinses, den ein Versicherungsunternehmen bei der nach Art der Lebensversicherung betriebenen Krankheitskosten- und freiwilligen Pflegekrankenversicherung erwirtschaftet, ist der Durchschnittszinssatz heranzuziehen. Der Durchschnittszinssatz errechnet sich aus der Summe der Erträge aus Kapitalanlagen (Posten I.3 im Formblatt 3 der Versicherungsunternehmens-Rechnungslegungsverordnung) vermindert um die Summe der Aufwendungen für Kapitalanlagen (Posten I.10 im Formblatt 3 der Versicherungsunternehmens-Rechnungslegungsverordnung) und sodann dividiert durch das arithmetische Mittel des Buchwertes der Kapitalanlagen (Posten C der Aktivseite im Formblatt 1 der Versicherungsunternehmens-Rechnungslegungsverordnung, Betrag am Ende des Vorjahres und am Ende des Geschäftsjahres).
 
@@ -244,8 +221,7 @@ Bei der Berechnung der Alterungsrückstellung nach § 341f des Handelsgesetzbuch
 
 (+++ § 19: Zur Anwendung vgl. § 27 Abs. 6 +++)
 
-
-## § 20 – Verteilung der Direktgutschrift
+# § 20 – Verteilung der Direktgutschrift
 
 (1) Spätestens zum jeweiligen Bilanzstichtag ist, getrennt für jede Bestandsgruppe mit einheitlicher rechnungsmäßiger Verzinsung, der Betrag zu bestimmen, der nach § 150 Absatz 2 Satz 2 und 3 des Versicherungsaufsichtsgesetzes den Alterungsrückstellungen der Versicherten direkt gutzuschreiben ist; der Betrag wird auf die einzelnen Versicherten anteilig entsprechend den positiven Alterungsrückstellungen zum Ende des vorhergehenden Geschäftsjahres verteilt. Alterungsrückstellungen, die aus dem Beitragszuschlag nach § 149 des Versicherungsaufsichtsgesetzes sowie aus der Direktgutschrift nach § 150 Absatz 2 Satz 1 des Versicherungsaufsichtsgesetzes entstanden sind, bleiben bis zum Ende des Geschäftsjahres, in dem der Versicherte das 65. Lebensjahr vollendet, bei dieser Gutschrift unberücksichtigt.
 
@@ -253,8 +229,7 @@ Bei der Berechnung der Alterungsrückstellung nach § 341f des Handelsgesetzbuch
 
 (+++ § 20: Zur Anwendung vgl. § 27 Abs. 6 +++)
 
-
-## § 21 – Verteilung des Betrages nach § 150 Absatz 4 des Versicherungsaufsichtsgesetzes
+# § 21 – Verteilung des Betrages nach § 150 Absatz 4 des Versicherungsaufsichtsgesetzes
 
 (1) Der nach § 150 Absatz 4 Satz 1 des Versicherungsaufsichtsgesetzes errechnete verbleibende Teilbetrag ist auf die Tarife, die zu den in § 150 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes genannten Krankenversicherungen gehören, aufzuteilen. Verteilungsmaßstab ist die jeweilige Alterungsrückstellung zum Bilanzstichtag des Geschäftsjahres derjenigen Versicherten, die das 65. Lebensjahr vollendet haben. Alterungsrückstellungen, die aus dem Beitragszuschlag nach § 149 des Versicherungsaufsichtsgesetzes sowie aus der Direktgutschrift nach § 150 Absatz 2 Satz 1 des Versicherungsaufsichtsgesetzes entstanden sind, bleiben bis zum Ende des Geschäftsjahres, in dem der Versicherte das 65. Lebensjahr vollendet, bei dieser Gutschrift unberücksichtigt. Muss ein Betrag nach § 150 Absatz 4 des Versicherungsaufsichtsgesetzes im Geschäftsjahr verwendet werden und zahlen alle Versicherten des Tarifs, für den dieser Betrag festgestellt worden ist, höchstens eine Prämie, die der Prämie zum ursprünglichen Eintrittsalter entspricht, so kann der Betrag auf die anderen Tarife mit gleichartigem Versicherungsschutz unter Beachtung des Verteilungsmaßstabes nach Satz 2 verteilt werden. Zahlen auch alle Versicherten der Tarife mit gleichartigem Versicherungsschutz höchstens eine Prämie, die der Prämie zum ursprünglichen Eintrittsalter entspricht, kann der zu verwendende Betrag auf alle in Satz 1 bezeichneten Tarife aufgeteilt werden.
 
@@ -264,8 +239,7 @@ Bei der Berechnung der Alterungsrückstellung nach § 341f des Handelsgesetzbuch
 
 (+++ § 21: Zur Anwendung vgl. § 27 Abs. 6 +++)
 
-
-## § 22 – Mindestzuführung zur Rückstellung für erfolgsabhängige Beitragsrückerstattung
+# § 22 – Mindestzuführung zur Rückstellung für erfolgsabhängige Beitragsrückerstattung
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung müssen die Versicherungsunternehmen in der nach Art der Lebensversicherung betriebenen Krankenversicherung einen angemessenen Teil des Überschusses, der auf diese Versicherung entfällt, der Rückstellung für erfolgsabhängige Beitragsrückerstattung zuführen. Der Überschuss berechnet sich nach folgender Formel:
 
@@ -330,8 +304,7 @@ Der Betrag, um den die Mindestzuführung unterschritten wird, ist den Rücklagen
 
 (+++ § 22: Zur Anwendung vgl. § 27 Abs. 6 +++)
 
-
-## § 23 – Mitteilungspflichten von Daten zu den Versicherungsbeständen
+# § 23 – Mitteilungspflichten von Daten zu den Versicherungsbeständen
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die private Krankenversicherung betreiben, haben der Bundesanstalt anhand der Daten ihrer Versicherungsbestände jährlich folgende auf das jeweils vorangegangene Kalenderjahr bezogene Daten für die inländischen Versicherungsbestände mitzuteilen:
 
@@ -376,13 +349,11 @@ Bei den Rechnungs- und Erstattungsbeträgen sind die Leistungen wegen Schwangers
 
 (3) Kleinere Vereine im Sinne des § 210 des Versicherungsaufsichtsgesetzes sind von der Mitteilungspflicht nach Absatz 1 befreit.
 
-
-## § 24 – Ordnungswidrigkeiten
+# § 24 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 332 Absatz 3 Nummer 5 des Versicherungsaufsichtsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 17 eine dort genannte Gegenüberstellung oder Herleitung der neuen Prämie nicht, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 25 – Leistungen wegen Schwangerschaft und Mutterschaft
+# § 25 – Leistungen wegen Schwangerschaft und Mutterschaft
 
 Als Leistungen wegen Schwangerschaft und Mutterschaft sind diejenigen Leistungen anzusehen, die
 
@@ -392,13 +363,11 @@ Als Leistungen wegen Schwangerschaft und Mutterschaft sind diejenigen Leistungen
 
 Davon ausgenommen sind Leistungen, für die das Versicherungsunternehmen nachweisen kann, dass sie nicht im Zusammenhang mit Schwangerschaft und Mutterschaft gestanden haben.
 
-
-## § 26 – Ausnahmevorschrift
+# § 26 – Ausnahmevorschrift
 
 Diese Verordnung findet mit Ausnahme der Regelung der § 5 Absatz 2, § 14 Absatz 6, § 22 Absatz 2 und 4 bis 7 sowie § 23 Absatz 1 Nummer 2 Buchstabe f und g keine Anwendung auf die Pflegepflichtversicherung.
 
-
-## § 27 – Übergangsvorschriften
+# § 27 – Übergangsvorschriften
 
 (1) Für die vor dem 1. Juli 1994 aufsichtsbehördlich genehmigten Tarife bestimmt sich die Bildung von Altersgruppen in den Prämienstaffeln nach den jeweiligen geschäftsplanmäßigen Regelungen. Bei Versicherungsverhältnissen, die nach dem 30. Juni 1994 und vor dem 27. November 1996 nach nicht aufsichtsbehördlich genehmigten Tarifen begründet worden sind, bestimmt sich die Altersgruppenbildung nach den für das Versicherungsverhältnis maßgebenden technischen Berechnungsgrundlagen.
 
@@ -412,13 +381,11 @@ Diese Verordnung findet mit Ausnahme der Regelung der § 5 Absatz 2, § 14 Absat
 
 (6) Die §§ 19 bis 22 sind erstmals für das nach dem 31. Dezember 2015 beginnende Geschäftsjahr anzuwenden. Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist die Überschussverordnung vom 8. November 1996 (BGBl. I S. 1687) in der bis zum 31. Dezember 2015 geltenden Fassung anzuwenden.
 
-
-## § 28 – Inkrafttreten
+# § 28 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5)Prämienberechnung nach § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5
+# Anlage 1 – (zu § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5)Prämienberechnung nach § 10 Absatz 5, § 11 Absatz 2 und § 13 Absatz 5
 
 (Fundstelle: BGBl. I 2016,790 - 791)
 
@@ -456,7 +423,7 @@ i
 
 Diskontierungsfaktor:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0010_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0010_thumb.gif)
 
 Ausscheideordnung:
 
@@ -468,19 +435,19 @@ D<sub>x</sub> = l<sub>x</sub> · vx</sup>
 
 Rentenbarwert:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0020_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0020_thumb.gif)
 
 Leistungsbarwert:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0030_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0030_thumb.gif)
 
 Jährliche Nettoprämie:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0040_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0040_thumb.gif)
 
 Jährliche gezillmerte Bruttoprämie:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0050_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0050_thumb.gif)
 
 B. Prämienberechnung bei Prämienanpassungen und Umstufungen
 
@@ -488,23 +455,23 @@ Die Rechnungsgrundlagen, die vor dem Zeitpunkt der Prämienanpassung gegolten ha
 
 |                                                          |                                                                                                                                                                |
 |:---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2016/j0780-1_0060_thumb.gif) | = einmalige Sanierungs- oder unmittelbare Abschlusskosten, gemessen im Mehrfachen der Differenz zwischen neuer und alter Jahresprämie des bereits Versicherten |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0060_thumb.gif) | = einmalige Sanierungs- oder unmittelbare Abschlusskosten, gemessen im Mehrfachen der Differenz zwischen neuer und alter Jahresprämie des bereits Versicherten |
 | u                                                        | = erreichtes Alter zum Zeitpunkt der Prämienanpassung                                                                                                          |
-| ![](../normengrafiken/bgbl1_2016/j0780-1_0070_thumb.gif) | = bisher gezahlte Prämie                                                                                                                                       |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0070_thumb.gif) | = bisher gezahlte Prämie                                                                                                                                       |
 
 Jährliche Bruttoprämie eines u-jährigen Versicherten nach der Prämienanpassung:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0080_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0080_thumb.gif)
 
 mit
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0090_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0090_thumb.gif)
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0100_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0100_thumb.gif)
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0110_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0110_thumb.gif)
 
-Der Ausdruck für ![](../normengrafiken/bgbl1_2016/j0780-1_0120_thumb.gif) ändert sich entsprechend, wenn
+Der Ausdruck für ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0120_thumb.gif) ändert sich entsprechend, wenn
 
 –  
 ein Kostenzuschlagssystem nach § 8 Absatz 4 Satz 4 verwendet wird,
@@ -520,8 +487,7 @@ eine andere Formel für die Berechnung der Prämie des Neuzugangs nach § 10 Abs
 
 Interpolationen der Rechenwerte auf den Zeitpunkt der Prämienanpassung oder der Umstufung sind zulässig.
 
-
-## Anlage 2 – (zu § 15 Absatz 2 und 3)Berechnung des Grundkopfschadens und der erforderlichen Versicherungsleistungen nach § 15 Absatz 2 und 3
+# Anlage 2 – (zu § 15 Absatz 2 und 3)Berechnung des Grundkopfschadens und der erforderlichen Versicherungsleistungen nach § 15 Absatz 2 und 3
 
 (Fundstelle: BGBl. I 2016, 792)
 
@@ -538,7 +504,7 @@ k<sub>x</sub>
 
 Tatsächlicher Grundkopfschaden:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0130_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0130_thumb.gif)
 
 Dabei wird über alle Alter x der Beobachtungseinheit summiert. Die Wirkungen von Wartezeit und Selektion sind ausreichend zu berücksichtigen.
 
@@ -552,10 +518,10 @@ G<sub>t−2</sub>, G<sub>t−1</sub>, G<sub>t</sub>
 
 Extrapolierter Grundkopfschaden:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0140_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0140_thumb.gif)
 
 Erforderliche Versicherungsleistungen:
 
-![](../normengrafiken/bgbl1_2016/j0780-1_0150_thumb.gif)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0780-1_0150_thumb.gif)
 
 mit L<sub>x</sub> und k<sub>x</sub> gemäß Abschnitt A und Summation über alle Alter x.

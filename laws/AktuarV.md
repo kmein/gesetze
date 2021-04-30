@@ -1,15 +1,11 @@
-# [AktuarV] Verordnung über die versicherungsmathematische Bestätigung, den Erläuterungsbericht und den Angemessenheitsbericht des Verantwortlichen Aktuars  (Aktuarverordnung - AktuarV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die versicherungsmathematische Bestätigung, den Erläuterungsbericht und den Angemessenheitsbericht des Verantwortlichen Aktuars  (Aktuarverordnung - AktuarV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbindung mit § 161 Absatz 1, § 162, § 212 Absatz 1, § 219 Absatz 1 und § 234 Absatz 1 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434), von denen § 161 Absatz 1 durch Artikel 14 Nummer 2 des Gesetzes vom 2. November 2015 (BGBl. I S. 1864) geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -29,8 +25,7 @@ Auf Grund des § 145 Absatz 4 in Verbindung mit Absatz 5 Satz 2, auch in Verbind
 
 (3) Für Unternehmen gemäß Absatz 1 Nummer 3 und 4 gelten nur die §§ 2, 3 und 7.
 
-
-## § 2 – Versicherungsmathematische Bestätigung
+# § 2 – Versicherungsmathematische Bestätigung
 
 (1) Bei Lebensversicherungsunternehmen gemäß § 1 Absatz 1 Nummer 1 hat die versicherungsmathematische Bestätigung
 
@@ -76,8 +71,7 @@ Ist kein Altbestand vorhanden, so lautet dieser Halbsatz stattdessen:
 (+++ § 2: Zur Anwendung vgl. § 1 Abs. 3 +++)  
 § 2 Abs. 2 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde zwischen "§ 235 Absatz 1" und "Nummer 4 bis 7 VAG" der Zusatz "Satz 1" ergänzt
 
-
-## § 3 – Abgabe der versicherungsmathematischen Bestätigung
+# § 3 – Abgabe der versicherungsmathematischen Bestätigung
 
 (1) Der Verantwortliche Aktuar hat die versicherungsmathematische Bestätigung nach Maßgabe des § 2 abzugeben, wenn keine Einwendungen zu erheben sind.
 
@@ -86,8 +80,7 @@ Ist kein Altbestand vorhanden, so lautet dieser Halbsatz stattdessen:
 (+++ § 3: Zur Nichtanwendung vgl. § 1 Abs. 2 +++)  
 (+++ § 3: Zur Anwendung vgl. § 1 Abs. 3 +++)
 
-
-## § 4 – Erläuterungsbericht
+# § 4 – Erläuterungsbericht
 
 (1) Der Verantwortliche Aktuar hat im Erläuterungsbericht anzugeben, inwieweit nach den anerkannten Regeln der Versicherungsmathematik eine Einteilung des Bestandes in Risikoklassen erfolgt ist. Insbesondere muss er dabei darauf eingehen, inwieweit versicherungstechnische Risiken und Anlagerisiken berücksichtigt worden sind. Die vorgenommene Einteilung ist zu begründen; dabei ist auch auf Abweichungen gegenüber der Einteilung des Vorjahres einzugehen.
 
@@ -127,8 +120,7 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (+++ § 4: Zur Nichtanwendung vgl. § 1 Abs. 2 +++) &;
 
-
-## § 5 – Angemessenheitsbericht
+# § 5 – Angemessenheitsbericht
 
 (1) Der Verantwortliche Aktuar hat im Angemessenheitsbericht darzulegen, dass die dauernde Erfüllbarkeit der sich aus den Versicherungsverträgen ergebenden Verpflichtungen auch einschließlich der Verpflichtungen gewährleistet ist, die sich aus den gemäß § 141 Absatz 5 Satz 1 Nummer 4 des Versicherungsaufsichtsgesetzes vorgelegten Vorschlägen für eine angemessene Beteiligung am Überschuss ergeben. Dabei sind nur diejenigen Verpflichtungen aus der Beteiligung am Überschuss zu berücksichtigen, die in dem Zeitraum entstehen, für den die Vorschläge gelten.
 
@@ -144,8 +136,7 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (7) Soweit sich die erforderlichen Darlegungen und Erläuterungen aus den vorgelegten Vorschlägen für eine angemessene Beteiligung am Überschuss oder dem Erläuterungsbericht ergeben, kann auf sie verwiesen werden.
 
-
-## § 6 – Vorlagefristen
+# § 6 – Vorlagefristen
 
 (1) Der Verantwortliche Aktuar hat den Erläuterungsbericht und den Angemessenheitsbericht bei Abgabe der versicherungsmathematischen Bestätigung dem Vorstand vorzulegen.
 
@@ -153,8 +144,7 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (3) Wird die Beteiligung am Überschuss bei Pensionskassen nach § 1 Absatz 1 Nummer 2 vom obersten Organ beschlossen, hat der Verantwortliche Aktuar den Angemessenheitsbericht abweichend von Absatz 1 vor der entsprechenden Sitzung des obersten Organs dem Vorstand vorzulegen; der Vorstand hat der Aufsichtsbehörde den Angemessenheitsbericht unverzüglich nach der Beschlussfassung über den Vorschlag für die Beteiligung am Überschuss vorzulegen.
 
-
-## § 7 – Übergangsvorschrift
+# § 7 – Übergangsvorschrift
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
@@ -162,7 +152,6 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (+++ § 7: Zur Anwendung vgl. § 1 Abs. 3 +++)
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

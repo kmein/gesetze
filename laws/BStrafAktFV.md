@@ -1,15 +1,11 @@
-# [BStrafAktFV] Verordnung über die technischen und organisatorischen Rahmenbedingungen für die elektronische Aktenführung im Strafverfahren  (Bundesstrafaktenführungsverordnung - BStrafAktFV)
-
-Ausfertigungsdatum: 09.12.2019
-
+% Verordnung über die technischen und organisatorischen Rahmenbedingungen für die elektronische Aktenführung im Strafverfahren  (Bundesstrafaktenführungsverordnung - BStrafAktFV)
+% Ausfertigungsdatum: 09.12.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Absatz 2 Satz 1 der Strafprozessordnung, der durch Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf elektronisch geführte Strafverfahrensakten
 
@@ -19,8 +15,7 @@ Diese Verordnung ist anzuwenden auf elektronisch geführte Strafverfahrensakten
 
 3. des Bundesgerichtshofs.
 
-
-## § 2 – Struktur und Format elektronischer Akten; Repräsentat
+# § 2 – Struktur und Format elektronischer Akten; Repräsentat
 
 (1) In der elektronischen Akte werden zur Akte gebrachte elektronische Dokumente einschließlich zugehöriger Signaturdateien sowie sonstige zur Akte gebrachte Dateien und Informationen gespeichert. Elektronische Empfangsbekenntnisse sowie elektronische Formulare, die als strukturierte maschinenlesbare Datensätze übermittelt worden sind (§ 32c der Strafprozessordnung), werden als Datensätze in der elektronischen Akte gespeichert.
 
@@ -28,8 +23,7 @@ Diese Verordnung ist anzuwenden auf elektronisch geführte Strafverfahrensakten
 
 (3) Bei der elektronischen Aktenführung sind alle Daten vorzuhalten, die erforderlich sind, um den für die Übermittlung von elektronischen Akten vorgesehenen strukturierten maschinenlesbaren Datensatz im Dateiformat XML gemäß der Bekanntmachung nach § 6 der Strafaktenübermittlungsverordnung zu erzeugen und die Bearbeitung zu unterstützen.
 
-
-## § 3 – Bearbeitung der elektronischen Akte
+# § 3 – Bearbeitung der elektronischen Akte
 
 (1) Elektronische Dokumente sowie sonstige Dateien und Informationen gelten als zur Akte genommen, wenn sie bewusst und dauerhaft in der elektronischen Akte gespeichert worden sind.
 
@@ -37,17 +31,14 @@ Diese Verordnung ist anzuwenden auf elektronisch geführte Strafverfahrensakten
 
 (3) Es ist sicherzustellen, dass die elektronische Akte nur von der jeweils lese- und schreibberechtigten Stelle eingesehen und bearbeitet werden kann. Dies gilt auch, wenn die Lese- und Schreibrechte nur teilweise auf eine andere Stelle übergehen.
 
-
-## § 4 – Barrierefreiheit
+# § 4 – Barrierefreiheit
 
 Elektronische Akten und Verfahren zur elektronischen Aktenführung und -bearbeitung sollen technisch so gestaltet werden, dass sie, soweit technisch möglich, barrierefrei zugänglich und nutzbar sind. Hierzu sollen die Anforderungen an die Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843), die zuletzt durch Artikel 1 der Verordnung vom 21. Mai 2019 (BGBl. I S. 738) geändert worden ist, in der jeweils geltenden Fassung bereits bei der Planung, Entwicklung, Ausschreibung und Beschaffung beachtet werden.
 
-
-## § 5 – Ersatzmaßnahmen
+# § 5 – Ersatzmaßnahmen
 
 Im Fall technischer Störungen der elektronischen Aktenführung kann angeordnet werden, dass eine Ersatzakte in Papierform geführt wird. Diese ist in die elektronische Form zu übertragen, sobald die Störung behoben ist. Art und Dauer der Störung sind zu dokumentieren. Bei anhaltenden technischen Störungen ist das zuständige Bundesministerium zu unterrichten.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

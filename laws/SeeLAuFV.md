@@ -1,15 +1,11 @@
-# [SeeLAuFV] Verordnung über die Aus- und Fortbildung der Seelotsen  (Seelotsenaus- und -fortbildungsverordnung - SeeLAuFV)
-
-Ausfertigungsdatum: 25.02.2014
-
+% Verordnung über die Aus- und Fortbildung der Seelotsen  (Seelotsenaus- und -fortbildungsverordnung - SeeLAuFV)
+% Ausfertigungsdatum: 25.02.2014
  
-
-## § 1 – Durchführung der Ausbildung
+# § 1 – Durchführung der Ausbildung
 
 Die Ausbildung der Seelotsenanwärter obliegt der Lotsenbrüderschaft des Seelotsreviers, für das die Anwärter ausgewählt worden sind. Die Aufsichtsbehörde überwacht die Ausbildung.
 
-
-## § 2 – Ziel und Dauer der Ausbildung
+# § 2 – Ziel und Dauer der Ausbildung
 
 (1) Die Ausbildung soll den Seelotsenanwärtern die theoretischen und praktischen Kenntnisse und Fertigkeiten vermitteln, die erforderlich sind, um Schiffsführungen als Seelotse sicher beraten zu können.
 
@@ -29,15 +25,13 @@ Die Ausbildung der Seelotsenanwärter obliegt der Lotsenbrüderschaft des Seelot
 
 (3) Die Dauer der Ausbildung beträgt acht Monate. Unterbrechungen durch Krankheit von insgesamt zwölf Tagen Dauer können auf die Ausbildungszeit angerechnet werden, wenn der Ältermann gegenüber der Aufsichtsbehörde schriftlich bestätigt, dass dadurch die Erreichung des Ausbildungszieles nicht gefährdet wird.
 
-
-## § 3 – Theoretische Ausbildung
+# § 3 – Theoretische Ausbildung
 
 (1) Für die theoretische Ausbildung sind wöchentlich mindestens drei Stunden vorzusehen.
 
 (2) Der Ältermann der Lotsenbrüderschaft kann mit Zustimmung der Aufsichtsbehörde unter Berücksichtigung der örtlichen Besonderheiten und der jeweiligen Vorkenntnisse des Seelotsenanwärters im Einzelfall abweichende Regelungen zulassen.
 
-
-## § 4 – Praktische Ausbildung
+# § 4 – Praktische Ausbildung
 
 (1) Die praktische Ausbildung umfasst:
 
@@ -75,20 +69,17 @@ Als Simulationsübungen gelten nur Schulungen an von der Aufsichtsbehörde anerk
 
 (4) Der Ältermann der Lotsenbrüderschaft kann mit Zustimmung der Aufsichtsbehörde unter Berücksichtigung der örtlichen Besonderheiten und der jeweiligen Vorkenntnisse des Seelotsenanwärters im Einzelfall abweichende Regelungen zulassen.
 
-
-## § 5 – Ausbildungsnachweise
+# § 5 – Ausbildungsnachweise
 
 (1) Die Seelotsenanwärter haben über den Verlauf der theoretischen und praktischen Ausbildung ein Ausbildungsbuch zu führen, aus dem der Ablauf und die Inhalte der Ausbildung ersichtlich sein müssen. Die Eintragungen der Seelotsenanwärter sind von den ausbildenden Stellen und Personen am Ende eines jeden Ausbildungsabschnittes durch Unterschrift zu bestätigen. Nach Beendigung der Ausbildung ist das Ausbildungsbuch bei der Lotsenbrüderschaft abzugeben.
 
 (2) Über die jeweiligen Mitfahrten sind Einzelbewertungsnachweise nach Anlage 1 durch die anleitenden Seelotsen zu erstellen. Abschließend ist eine Gesamtbewertung nach Anlage 2 durch die Lotsenbrüderschaft zu erstellen. Grundlage der Gesamtbewertung sind die Einzelbewertungsnachweise und das Ausbildungsbuch.
 
-
-## § 6 – Verkürzung der Ausbildungszeit
+# § 6 – Verkürzung der Ausbildungszeit
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann in besonderen Ausnahmefällen die Ausbildungszeit verkürzen. Ein solcher Ausnahmefall liegt insbesondere vor, wenn ein erfahrener Seelotse unter Verzicht auf die Rechte aus seiner Bestallung die Zulassung als Anwärter in einem anderen Revier beantragt.
 
-
-## § 7 – Prüfungsverfahren
+# § 7 – Prüfungsverfahren
 
 (1) Nach Abschluss der Ausbildung meldet die Lotsenbrüderschaft den jeweiligen Seelotsenanwärter bei der Aufsichtsbehörde zur Prüfung an.
 
@@ -106,8 +97,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann in besonderen
 
 (6) Erscheint der Seelotsenanwärter nicht zum Prüfungstermin, setzt ihm der Prüfungsausschuss eine angemessene Frist für den Nachweis, dass er an der Teilnahme durch Krankheit oder einen anderen, von ihm nicht zu vertretenden, wichtigen Grund gehindert war. Der Nachweis ist gegenüber der Aufsichtsbehörde zu erbringen. Wird der verlangte Nachweis erbracht, ist ein erneuter Prüfungstermin festzusetzen. Anderenfalls stellt die Aufsichtsbehörde nach Ablauf der Frist das Nichtbestehen der Prüfung fest.
 
-
-## § 8 – Prüfungsinhalte
+# § 8 – Prüfungsinhalte
 
 Die Prüfung ist mündlich vor dem Prüfungsausschuss und erstreckt sich auf folgende Gebiete:
 
@@ -133,8 +123,7 @@ Die Prüfung ist mündlich vor dem Prüfungsausschuss und erstreckt sich auf fol
 
 Die Prüfung erfolgt entweder einzeln oder bei mehreren Prüflingen als Gruppenprüfung mit höchstens sechs Prüflingen. Die Prüfungsdauer soll für jeden Prüfling mindestens vierzig Minuten betragen.
 
-
-## § 9 – Prüfungsentscheidung
+# § 9 – Prüfungsentscheidung
 
 (1) Die Prüfung ist bestanden, wenn der Prüfungsausschuss feststellt, dass der Seelotsenanwärter nach dem Gesamteindruck der Prüfung die Gewähr dafür bietet, die einem Lotsen übertragenen Aufgaben sicher wahrzunehmen. Die Entscheidung des Prüfungsausschusses erfolgt in nicht öffentlicher Beratung mit Stimmenmehrheit. Bei Stimmengleichheit entscheidet die Stimme des Leiters des Prüfungsausschusses. Die Bekanntgabe der Prüfungsentscheidung erfolgt für jeden Prüfling einzeln und ist auf Verlangen zu begründen. Im Falle des Nichtbestehens sind dem Prüfling die Gründe der Prüfungsentscheidung mitzuteilen und die Rechtsbehelfsbelehrung zu eröffnen.
 
@@ -142,18 +131,15 @@ Die Prüfung erfolgt entweder einzeln oder bei mehreren Prüflingen als Gruppenp
 
 (3) Das Gesamtergebnis der Prüfung ist nur mit „Bestanden“ oder „Nicht bestanden“ zu bewerten.
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 Besteht ein Seelotsenanwärter die Prüfung nicht, so hat der Prüfungsausschuss darüber zu beschließen, welcher Teil der theoretischen Ausbildung nachzuholen und wann die Prüfung zu wiederholen ist. Die Ausbildung kann um bis zu zwei weitere Monate verlängert werden. Die Prüfung kann einmal wiederholt werden. Eine weitere Wiederholung der Prüfung und eine weitere Zulassung als Seelotsenanwärter für ein anderes Seelotsrevier sind nur in besonderen Ausnahmefällen mit Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur zulässig. Besteht der Seelotsenanwärter die Wiederholungsprüfung nicht, ist das Ausbildungsverhältnis beendet.
 
-
-## § 11 – Prüfungszeugnis
+# § 11 – Prüfungszeugnis
 
 Jedem Seelotsenanwärter, der die Prüfung bestanden hat, ist ein von dem Leiter des Prüfungsausschusses ausgefertigtes Prüfungszeugnis nach dem Muster der Anlage 3 auszuhändigen.
 
-
-## § 12 – Fortbildungsverpflichtung
+# § 12 – Fortbildungsverpflichtung
 
 (1) Jeder Seelotse ist verpflichtet, seine für die Lotstätigkeit notwendigen Kenntnisse in regelmäßigen Abständen zu vertiefen und zu ergänzen.
 
@@ -161,25 +147,21 @@ Jedem Seelotsenanwärter, der die Prüfung bestanden hat, ist ein von dem Leiter
 
 (3) Als Simulationsübungen gelten nur Schulungen an von der Aufsichtsbehörde anerkannten Schiffsführungs- und Radarsimulatoren.
 
-
-## § 13 – Fortbildungsplan
+# § 13 – Fortbildungsplan
 
 Die Umsetzung des Fortbildungsrahmenplans erfolgt unter Berücksichtigung der revierbezogenen Besonderheiten durch einen von den Lotsenbrüderschaften zu erstellenden Fortbildungsplan. Der Fortbildungsplan ist auf Verlangen der Aufsichtsbehörde anzupassen, insbesondere bei technischen oder wissenschaftlichen Entwicklungen auf dem Gebiet der Schifffahrtskunde.
 
-
-## § 14 – Nachweis
+# § 14 – Nachweis
 
 Jeder Seelotse hat seine Teilnahme an den in den jeweiligen Fortbildungsplänen der Lotsenbrüderschaften vorgesehenen Kursen gegenüber der Lotsenbrüderschaft nachzuweisen. Die Lotsenbrüderschaft ist auf Verlangen der Aufsichtsbehörde zur Auskunft über die Teilnahme der jeweiligen Seelotsen an den Fortbildungsmaßnahmen und zur Vorlage der Nachweise verpflichtet.
 
-
-## § 15 – Seelotsenanwärterausweis und Seelotsenausweis
+# § 15 – Seelotsenanwärterausweis und Seelotsenausweis
 
 (1) Die zuständige Aufsichtsbehörde stellt für die Seelotsenanwärter des Reviers einen Seelotsenanwärterausweis und für die Seelotsen einen Seelotsenausweis nach den Mustern der Anlage 5 aus. Die Seelotsenanwärterausweise sind bei der Bestallung in Seelotsenausweise umzutauschen. Die Teilnehmer einer lotsenspezifischen Grundausbildung erhalten einen Ausweis nach dem Muster der Anlage 5 mit dem Zusatz „Grundausbildung“.
 
 (2) Die Seelotsenanwärter und die Seelotsen haben den Ausweis während der Bordlotsung mitzuführen und auf Verlangen der Schiffsführung jederzeit vorzulegen.
 
-
-## Anlage 1 – (zu § 5 Absatz 2)
+# Anlage 1 – (zu § 5 Absatz 2)
 
 (Fundstelle: BGBl. I 2014, 237)
 
@@ -439,11 +421,9 @@ Bemerkungen: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
-Unterschrift des anleitenden Lotsen
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Unterschrift des anleitenden Lotsen
 
-
-## Anlage 2 – (zu § 5 Absatz 2)
+# Anlage 2 – (zu § 5 Absatz 2)
 
 (Fundstelle: BGBl. I 2014, 238)
 
@@ -453,8 +433,7 @@ Unterschrift des anleitenden Lotsen
 
 Für den Seelotsenanwärter wird durch die ausbildende Lotsenbrüderschaft eine Gesamtbewertung erstellt, deren Grundlage die Einzelbewertungsnachweise nach Anlage 1 und das Ausbildungsbuch sind.
 
-Für die Zulassung zur Prüfung gemäß § 7 Absatz 2 dieser Verordnung sind zwölf Einzelbewertungsnachweise nach Anlage 1 mit mindestens der Note „ausreichend“ vorzulegen, ansonsten ist die Gesamtbewertung „mangelhaft“.  
-  
+Für die Zulassung zur Prüfung gemäß § 7 Absatz 2 dieser Verordnung sind zwölf Einzelbewertungsnachweise nach Anlage 1 mit mindestens der Note „ausreichend“ vorzulegen, ansonsten ist die Gesamtbewertung „mangelhaft“.   
 
 1. Personalien  
   
@@ -605,8 +584,7 @@ Zur Kenntnis genommen:
 
  
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . .  
-Seelotsenanwärter
+. . . . . . . . . . . . . . . . . . . . . . . . . . . Seelotsenanwärter
 
  
 
@@ -646,10 +624,9 @@ Seelotsenanwärter
 
  
 
-![](../normengrafiken/bgbl1_2014/j0234-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j0234-1_0010.jpg)
 
-
-## Anlage 3 – (zu § 11)
+# Anlage 3 – (zu § 11)
 
 (Fundstelle: BGBl. I 2014, 239)
 
@@ -699,8 +676,7 @@ Der Leiter des Prüfungsausschusses
 
  
 
-
-## Anlage 4 – (zu § 12 Absatz 2)Fortbildungsrahmenplan
+# Anlage 4 – (zu § 12 Absatz 2)Fortbildungsrahmenplan
 
 (Fundstelle: BGBl. I 2014, 240 – 244)
 
@@ -830,8 +806,7 @@ c)
 
 Bridge Resource Management (BRM)
 
-Diese Veranstaltung soll der effektiven Vorbereitung und Nutzung des Brückenwachdienstes unter Berücksichtigung der Brückenbesetzung und Brückenausstattung dienen.  
-Im Mittelpunkt stehen die Rolle des Lotsen innerhalb des Brückenteams und das Verhältnis Kapitän/Lotse.
+Diese Veranstaltung soll der effektiven Vorbereitung und Nutzung des Brückenwachdienstes unter Berücksichtigung der Brückenbesetzung und Brückenausstattung dienen. Im Mittelpunkt stehen die Rolle des Lotsen innerhalb des Brückenteams und das Verhältnis Kapitän/Lotse.
 
 –
 
@@ -1001,8 +976,7 @@ Erste Hilfe/Wiederbelebung bis zum Eintreffen des Notarztes.
 
  
 
-
-## Anlage 5 – (zu § 15 Absatz 1)Muster der Seelotsenausweise
+# Anlage 5 – (zu § 15 Absatz 1)Muster der Seelotsenausweise
 
 (Fundstelle: BGBl. I 2014, 245 – 246)
 

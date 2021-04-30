@@ -1,10 +1,7 @@
-# [BGBEG] Einführungsgesetz zum Bürgerlichen Gesetzbuche
-
-Ausfertigungsdatum: 18.08.1896
-
+% Einführungsgesetz zum Bürgerlichen Gesetzbuche
+% Ausfertigungsdatum: 18.08.1896
  
-
-## § 1 – Abstammung
+# § 1 – Abstammung
 
 (1) Die Vaterschaft hinsichtlich eines vor dem 1. Juli 1998 geborenen Kindes richtet sich nach den bisherigen Vorschriften.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 18.08.1896
 
 (5) Der Beschwerde des Kindes, dem nach neuem Recht eine Beschwerde zusteht, steht die Wirksamkeit einer Verfügung, durch die das Vormundschaftsgericht die Vaterschaft nach den bisher geltenden Vorschriften festgestellt hat, nicht entgegen. Die Beschwerdefrist beginnt frühestens am 1. Juli 1998.
 
-
-## § 2 – Elterliche Sorge
+# § 2 – Elterliche Sorge
 
 (1) Ist ein Kind auf Antrag des Vaters für ehelich erklärt worden, so ist dies als Entscheidung gemäß § 1671 Absatz 2 des Bürgerlichen Gesetzbuchs anzusehen. Hat die Mutter in die Ehelicherklärung eingewilligt, so bleibt der Vater dem Kind und dessen Abkömmlingen vor der Mutter und den mütterlichen Verwandten zur Gewährung des Unterhalts verpflichtet, sofern nicht die Sorge wieder der Mutter übertragen wird.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 18.08.1896
 
 (3) bis (5) (weggefallen)
 
-
-## § 3 – Name des Kindes
+# § 3 – Name des Kindes
 
 (1) Führt ein vor dem 1. Juli 1998 geborenes Kind einen Geburtsnamen, so behält es diesen Geburtsnamen. § 1617a Abs. 2 und die §§ 1617b, 1617c und 1618 des Bürgerlichen Gesetzbuchs bleiben unberührt.
 
@@ -40,20 +35,17 @@ Ausfertigungsdatum: 18.08.1896
 
 (6) Die Absätze 3 bis 5 gelten nicht, wenn mehrere vor dem 1. April 1994 geborene Kinder derselben Eltern unterschiedliche Geburtsnamen führen.
 
-
-## § 1 – Überleitungsvorschrift zum Gesetz zur Beschleunigung fälliger Zahlungen
+# § 1 – Überleitungsvorschrift zum Gesetz zur Beschleunigung fälliger Zahlungen
 
 (1) § 284 Abs. 3 des Bürgerlichen Gesetzbuchs in der seit dem 1. Mai 2000 geltenden Fassung gilt auch für Geldforderungen, die vor diesem Zeitpunkt entstanden sind. Vor diesem Zeitpunkt zugegangene Rechnungen lösen die Wirkungen des § 284 Abs. 3 nicht aus. § 288 des Bürgerlichen Gesetzbuchs und § 352 des Handelsgesetzbuchs in der jeweils seit dem 1. Mai 2000 geltenden Fassung sind auf alle Forderungen anzuwenden, die von diesem Zeitpunkt an fällig werden.
 
 (2) §§ 632a, 640, 641, 641a und 648a in der jeweils ab dem 1. Mai 2000 geltenden Fassung gelten, soweit nichts anderes bestimmt wird, nicht für Verträge, die vor diesem Zeitpunkt abgeschlossen worden sind. § 641 Abs. 3 und § 648a Abs. 5 Satz 3 in der seit dem 1. Mai 2000 sind auch auf vorher abgeschlossene Verträge anzuwenden. § 640 gilt für solche Verträge mit der Maßgabe, dass der Lauf der darin bestimmten Frist erst mit dem 1. Mai 2000 beginnt.
 
-
-## § 2 – Übergangsvorschriften zum Gesetz vom 27. Juni 2000
+# § 2 – Übergangsvorschriften zum Gesetz vom 27. Juni 2000
 
 Die §§ 241a, 361a, 361b, 661a und 676h des Bürgerlichen Gesetzbuchs sind nur auf Sachverhalte anzuwenden, die nach dem 29. Juni 2000 entstanden sind.
 
-
-## § 3 – Übergangsvorschriften zum Gesetz zur Neugliederung, Vereinfachung und Reform des Mietrechts vom 19. Juni 2001
+# § 3 – Übergangsvorschriften zum Gesetz zur Neugliederung, Vereinfachung und Reform des Mietrechts vom 19. Juni 2001
 
 (1) Auf ein am 1. September 2001 bestehendes Mietverhältnis oder Pachtverhältnis sind
 
@@ -103,8 +95,7 @@ bestimmt ist, sind die am 31. August 2001 geltenden vorstehend genannten Bestimm
 
 worden sind. Für Zwecke des Satzes 1 bleiben die hier genannten Bestimmungen weiterhin anwendbar.
 
-
-## § 4 – Übergangsvorschrift zum Zweiten Gesetz zur Änderung reiserechtlicher Vorschriften
+# § 4 – Übergangsvorschrift zum Zweiten Gesetz zur Änderung reiserechtlicher Vorschriften
 
 (1) Die §§ 651k und 651l des Bürgerlichen Gesetzbuchs sind in ihrer seit dem 1. September 2001 geltenden Fassung nur auf Verträge anzuwenden, die nach diesem Tag geschlossen werden.
 
@@ -120,13 +111,11 @@ worden sind. Für Zwecke des Satzes 1 bleiben die hier genannten Bestimmungen we
 
 5. vom 1. November 2000 bis zum 1. September 2001 110 Millionen Euro.
 
-
-## § 5 – Allgemeine Überleitungsvorschrift zum Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+# § 5 – Allgemeine Überleitungsvorschrift zum Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
 Auf Schuldverhältnisse, die vor dem 1. Januar 2002 entstanden sind, sind das Bürgerliche Gesetzbuch, das AGB-Gesetz, das Handelsgesetzbuch, das Verbraucherkreditgesetz, das Fernabsatzgesetz, das Fernunterrichtsschutzgesetz, das Gesetz über den Widerruf von Haustürgeschäften und ähnlichen Geschäften, das Teilzeit-Wohnrechtegesetz, die Verordnung über Kundeninformationspflichten, die Verordnung über Informationspflichten von Reiseveranstaltern und die Verordnung betreffend die Hauptmängel und Gewährfristen beim Viehhandel, soweit nicht ein anderes bestimmt ist, in der bis zu diesem Tag geltenden Fassung anzuwenden. Satz 1 gilt für Dauerschuldverhältnisse mit der Maßgabe, dass anstelle der in Satz 1 bezeichneten Gesetze vom 1. Januar 2003 an nur das Bürgerliche Gesetzbuch, das Handelsgesetzbuch, das Fernunterrichtsschutzgesetz und die Verordnung über Informationspflichten nach bürgerlichem Recht in der dann geltenden Fassung anzuwenden sind.
 
-
-## § 6 – Überleitungsvorschrift zum Verjährungsrecht nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+# § 6 – Überleitungsvorschrift zum Verjährungsrecht nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der seit dem 1. Januar 2002 geltenden Fassung finden auf die an diesem Tag bestehenden und noch nicht verjährten Ansprüche Anwendung. Der Beginn, die Hemmung, die Ablaufhemmung und der Neubeginn der Verjährung bestimmen sich jedoch für den Zeitraum vor dem 1. Januar 2002 nach dem Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung. Wenn nach Ablauf des 31. Dezember 2001 ein Umstand eintritt, bei dessen Vorliegen nach dem Bürgerlichen Gesetzbuch in der vor dem 1. Januar 2002 geltenden Fassung eine vor dem 1. Januar 2002 eintretende Unterbrechung der Verjährung als nicht erfolgt oder als erfolgt gilt, so ist auch insoweit das Bürgerliche Gesetzbuch in der vor dem 1. Januar 2002 geltenden Fassung anzuwenden.
 
@@ -140,8 +129,7 @@ Auf Schuldverhältnisse, die vor dem 1. Januar 2002 entstanden sind, sind das B�
 
 (6) Die vorstehenden Absätze gelten für die Fristen nach dem Handelsgesetzbuch und dem Umwandlungsgesetz entsprechend.
 
-
-## § 7 – Überleitungsvorschrift zu Zinsvorschriften nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+# § 7 – Überleitungsvorschrift zu Zinsvorschriften nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
 
 (1) Soweit sie als Bezugsgröße für Zinsen und andere Leistungen in Rechtsvorschriften des Bundes auf dem Gebiet des Bürgerlichen Rechts und des Verfahrensrechts der Gerichte, in nach diesem Gesetz vorbehaltenem Landesrecht und in Vollstreckungstiteln und Verträgen auf Grund solcher Vorschriften verwendet werden, treten mit Wirkung vom 1. Januar 2002
 
@@ -179,8 +167,7 @@ Satz 1 Nr. 5 bis 7 ist auf Zinsperioden nicht anzuwenden, die auf einen vor Abla
 
 durch einen anderen Zinssatz der Europäischen Zentralbank zu ersetzen, der dem Basiszinssatz, den durch diesen ersetzten Zinssätzen und dem Lombardsatz in ihrer Funktion als Bezugsgrößen für Zinssätze eher entspricht.
 
-
-## § 8 – Übergangsvorschriften zum Zweiten Gesetz zur Änderung schadensersatzrechtlicher Vorschriften vom 19. Juli 2002
+# § 8 – Übergangsvorschriften zum Zweiten Gesetz zur Änderung schadensersatzrechtlicher Vorschriften vom 19. Juli 2002
 
 (1) Die durch das Zweite Gesetz zur Änderung schadensersatzrechtlicher Vorschriften im
 
@@ -224,8 +211,7 @@ in der Luftverkehrs-Zulassungs-Ordnung geänderten Vorschriften sind mit Ausnahm
 
 (3) Der durch Artikel 1 Nr. 4 des Zweiten Gesetzes zur Änderung schadensersatzrechtlicher Vorschriften geänderte § 88 des Arzneimittelgesetzes ist erst auf Fälle anzuwenden, in denen das schädigende Ereignis nach dem 31. Dezember 2002 eingetreten ist.
 
-
-## § 9 – Überleitungsvorschrift zum OLG-Vertretungsänderungsgesetz vom 23. Juli 2002
+# § 9 – Überleitungsvorschrift zum OLG-Vertretungsänderungsgesetz vom 23. Juli 2002
 
 (1) Die §§ 312a, 312d, 346, 355, 358, 491, 492, 494, 495, 497, 498, 502, 505 und 506 des Bürgerlichen Gesetzbuchs in der seit dem 1. August 2002 geltenden Fassung sind, soweit nichts anderes bestimmt ist, nur anzuwenden auf
 
@@ -237,20 +223,17 @@ in der Luftverkehrs-Zulassungs-Ordnung geänderten Vorschriften sind mit Ausnahm
 
 (2) § 355 Abs. 2 ist in der in Absatz 1 Satz 1 genannten Fassung auch auf Verträge anzuwenden, die vor diesem Zeitpunkt geschlossen worden sind, wenn die erforderliche Belehrung über das Widerrufs- oder Rückgaberecht erst nach diesem Zeitpunkt erteilt wird.
 
-
-## § 10 – Überleitungsvorschrift zum Gesetz zur Änderung der Vorschriften über die Anfechtung der Vaterschaft und das Umgangsrecht von Bezugspersonen des Kindes, zur Registrierung von Vorsorgeverfügungen und zur Einführung von Vordrucken für die Vergütung von Berufsbetreuern vom 23. April 2004
+# § 10 – Überleitungsvorschrift zum Gesetz zur Änderung der Vorschriften über die Anfechtung der Vaterschaft und das Umgangsrecht von Bezugspersonen des Kindes, zur Registrierung von Vorsorgeverfügungen und zur Einführung von Vordrucken für die Vergütung von Berufsbetreuern vom 23. April 2004
 
 Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 2 des Bürgerlichen Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1 des Bürgerlichen Gesetzbuchs nicht vor dem 30. April 2004.
 
-
-## § 11 – Überleitungsvorschrift zu dem Gesetz zur Änderung der Vorschriften über Fernabsatzverträge bei Finanzdienstleistungen vom 2. Dezember 2004
+# § 11 – Überleitungsvorschrift zu dem Gesetz zur Änderung der Vorschriften über Fernabsatzverträge bei Finanzdienstleistungen vom 2. Dezember 2004
 
 (1) Auf Schuldverhältnisse, die bis zum Ablauf des 7. Dezember 2004 entstanden sind, finden das Bürgerliche Gesetzbuch und die BGB-Informationspflichten-Verordnung in der bis zu diesem Tag geltenden Fassung Anwendung. Satz 1 gilt für Vertragsverhältnisse im Sinne des § 312b Abs. 4 Satz 1 des Bürgerlichen Gesetzbuchs mit der Maßgabe, dass es auf die Entstehung der erstmaligen Vereinbarung ankommt.
 
 (2) Verkaufsprospekte, die vor dem Ablauf des 7. Dezember 2004 hergestellt wurden und die der Neufassung der BGB-Informationspflichten-Verordnung nicht genügen, dürfen bis zum 31. März 2005 aufgebraucht werden, soweit sie ausschließlich den Fernabsatz von Waren und Dienstleistungen betreffen, die nicht Finanzdienstleistungen sind.
 
-
-## § 12 – Überleitungsvorschrift zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
+# § 12 – Überleitungsvorschrift zum Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts
 
 (1) Auf die Verjährungsfristen gemäß den durch das Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts vom 9. Dezember 2004 (BGBl. I S. 3214) geänderten Vorschriften
 
@@ -298,31 +281,25 @@ ist § 6 entsprechend anzuwenden, soweit nicht ein anderes bestimmt ist. An die 
 
 (2) Noch nicht verjährte Ansprüche, deren Verjährung sich nach Maßgabe des bis zum 14. Dezember 2004 geltenden Rechts nach den Regelungen über die regelmäßige Verjährung nach dem Bürgerlichen Gesetzbuch bestimmt hat und für die durch das Gesetz zur Anpassung von Verjährungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts längere Verjährungsfristen bestimmt werden, verjähren nach den durch dieses Gesetz eingeführten Vorschriften. Der Zeitraum, der vor dem 15. Dezember 2004 abgelaufen ist, wird in die Verjährungsfrist eingerechnet.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Übergangsvorschrift zum Zweiten Betreuungsrechtsänderungsgesetz vom 21. April 2005
+# § 14 – Übergangsvorschrift zum Zweiten Betreuungsrechtsänderungsgesetz vom 21. April 2005
 
 Die Vergütungs- und Aufwendungsersatzansprüche von Vormündern, Betreuern und Pflegern, die vor dem 1. Juli 2005 entstanden sind, richten sich nach den bis zum Inkrafttreten des Zweiten Betreuungsrechtsänderungsgesetzes vom 21. April 2005 (BGBl. I S. 1073) geltenden Vorschriften.
 
-
-## § 15 – Übergangsvorschrift zum Minderjährigenhaftungsbeschränkungsgesetz
+# § 15 – Übergangsvorschrift zum Minderjährigenhaftungsbeschränkungsgesetz
 
 Soweit der volljährig Gewordene Verbindlichkeiten vor dem Inkrafttreten des Minderjährigenhaftungsbeschränkungsgesetzes vom 25. August 1998 (BGBl. I S. 2487) am 1. Januar 1999 erfüllt hat oder diese im Wege der Zwangsvollstreckung befriedigt worden sind, sind Ansprüche aus ungerechtfertigter Bereicherung ausgeschlossen.
 
+# § 16 – (weggefallen)
 
-## § 16 – (weggefallen)
-
-
-## § 17 – Übergangsvorschrift zum Gesetz zur Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren
+# § 17 – Übergangsvorschrift zum Gesetz zur Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren
 
 Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs rechtskräftig abgewiesen worden, so ist eine Restitutionsklage nach § 641i der Zivilprozessordnung auch dann nicht statthaft, wenn ein nach § 1598a des Bürgerlichen Gesetzbuchs in der Fassung des Gesetzes zur Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren vom 26. März 2008 (BGBl. I S. 441) eingeholtes Abstammungsgutachten die Abstammung widerlegt.
 
-
-## § 18 – Übergangsvorschrift zum Risikobegrenzungsgesetz
+# § 18 – Übergangsvorschrift zum Risikobegrenzungsgesetz
 
 (1) § 498 des Bürgerlichen Gesetzbuchs ist in seiner seit dem 19. August 2008 geltenden Fassung nur auf Verträge anzuwenden, die nach dem 18. August 2008 geschlossen werden. Zudem ist § 498 des Bürgerlichen Gesetzbuchs in seiner seit dem 19. August 2008 geltenden Fassung auf bestehende Vertragsverhältnisse anzuwenden, die nach dem 18. August 2008 vom Darlehensgeber übertragen werden.
 
@@ -330,15 +307,13 @@ Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs rechtskräftig 
 
 (3) § 1193 Abs. 2 des Bürgerlichen Gesetzbuchs in der seit dem 19. August 2008 geltenden Fassung ist nur auf Grundschulden anzuwenden, die nach dem 19. August 2008 bestellt werden.
 
-
-## § 19 – Überleitungsvorschrift zum Forderungssicherungsgesetz
+# § 19 – Überleitungsvorschrift zum Forderungssicherungsgesetz
 
 (1) Die Vorschriften der §§ 204, 632a, 641, 648a und 649 des Bürgerlichen Gesetzbuchs in der seit dem 1. Januar 2009 geltenden Fassung sind nur auf Schuldverhältnisse anzuwenden, die nach diesem Tag entstanden sind.
 
 (2) § 641a des Bürgerlichen Gesetzbuchs ist auf Schuldverhältnisse, die vor dem 1. Januar 2009 entstanden sind, in der bis zu diesem Zeitpunkt geltenden Fassung anzuwenden.
 
-
-## § 20 – Übergangsvorschrift zum Gesetz zur Änderung des Zugewinnausgleichs- und Vormundschaftsrechts vom 6. Juli 2009
+# § 20 – Übergangsvorschrift zum Gesetz zur Änderung des Zugewinnausgleichs- und Vormundschaftsrechts vom 6. Juli 2009
 
 (1) Bei der Behandlung von Haushaltsgegenständen aus Anlass der Scheidung ist auf Haushaltsgegenstände, die vor dem 1. September 2009 angeschafft worden sind, § 1370 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden.
 
@@ -346,13 +321,11 @@ Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs rechtskräftig 
 
 (3) § 1813 Absatz 1 Nummer 3 des Bürgerlichen Gesetzbuchs in der Fassung vom 1. September 2009 gilt auch für vor dem 1. September 2009 anhängige Vormundschaften (§ 1773 des Bürgerlichen Gesetzbuchs), Pflegschaften (§ 1915 Absatz 1 des Bürgerlichen Gesetzbuchs) und Betreuungen (§ 1908i Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs).
 
-
-## § 21 – Übergangsvorschrift für die Gesellschaft bürgerlichen Rechts im Grundbuchverfahren
+# § 21 – Übergangsvorschrift für die Gesellschaft bürgerlichen Rechts im Grundbuchverfahren
 
 § 899a des Bürgerlichen Gesetzbuchs sowie § 47 Absatz 2 Satz 2 und § 82 Satz 3 der Grundbuchordnung gelten auch, wenn die Eintragung vor dem Zeitpunkt des Inkrafttretens gemäß Artikel 5 Absatz 2 des Gesetzes zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Akte im Grundbuchverfahren sowie zur Änderung weiterer grundbuch-, register- und kostenrechtlicher Vorschriften am 18. August 2009 erfolgt ist.
 
-
-## § 22 – Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009
+# § 22 – Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009
 
 (1) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen zum Gegenstand haben und die vor dem 31. Oktober 2009 entstanden sind, ist Artikel 248 §§ 4 und 13 nicht anzuwenden. Ist mit der Abwicklung eines Zahlungsvorgangs vor dem 31. Oktober 2009 begonnen worden, sind das Bürgerliche Gesetzbuch und die BGB-Informationspflichten-Verordnung jeweils in der bis dahin geltenden Fassung anzuwenden.
 
@@ -360,8 +333,7 @@ Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs rechtskräftig 
 
 (3) Abweichend von Absatz 2 sind § 492 Abs. 5, § 493 Abs. 3, die §§ 499, 500 Abs. 1 sowie § 504 Abs. 1 und § 505 Abs. 2 des Bürgerlichen Gesetzbuchs auf unbefristete Schuldverhältnisse anzuwenden, die vor dem 11. Juni 2010 entstanden sind; § 505 Abs. 1 ist auf solche Schuldverhältnisse in Ansehung der Mitteilungen nach Vertragsschluss anzuwenden.
 
-
-## § 23 – Überleitungsvorschrift zum Gesetz zur Änderung des Erb- und Verjährungsrechts
+# § 23 – Überleitungsvorschrift zum Gesetz zur Änderung des Erb- und Verjährungsrechts
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der seit dem 1. Januar 2010 geltenden Fassung sind auf die an diesem Tag bestehenden und nicht verjährten Ansprüche anzuwenden. Der Beginn der Verjährung und die Verjährungsfrist bestimmen sich nach den Vorschriften des Bürgerlichen Gesetzbuchs in der vor dem 1. Januar 2010 geltenden Fassung, wenn bei Anwendung dieser Vorschriften die Verjährung früher vollendet wird als bei Anwendung der entsprechenden Vorschriften nach Satz 1.
 
@@ -371,37 +343,31 @@ Ist eine Klage auf Anfechtung der Vaterschaft wegen Fristablaufs rechtskräftig 
 
 (4) Im Übrigen gelten für Erbfälle vor dem 1. Januar 2010 die Vorschriften des Bürgerlichen Gesetzbuchs in der vor dem 1. Januar 2010 geltenden Fassung. Für Erbfälle seit dem 1. Januar 2010 gelten die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 1. Januar 2010 geltenden Fassung, unabhängig davon, ob an Ereignisse aus der Zeit vor dem Inkrafttreten dieser Vorschriften angeknüpft wird.
 
-
-## § 24 – Übergangsvorschrift zu dem Gesetz zur Erleichterung elektronischer Anmeldungen zum Vereinsregister und anderer vereinsrechtlicher Änderungen
+# § 24 – Übergangsvorschrift zu dem Gesetz zur Erleichterung elektronischer Anmeldungen zum Vereinsregister und anderer vereinsrechtlicher Änderungen
 
 Ausländische Vereine und Stiftungen, denen vor dem 30. September 2009 die Rechtsfähigkeit im Inland verliehen wurde, bleiben rechtsfähig. Auf die Vereine sind § 33 Absatz 2 und § 44 des Bürgerlichen Gesetzbuchs in der bis zum 29. September 2009 geltenden Fassung weiter anzuwenden.
 
-
-## § 25 – Übergangsvorschriften zum Gesetz zur Modernisierung der Regelungen über Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge
+# § 25 – Übergangsvorschriften zum Gesetz zur Modernisierung der Regelungen über Teilzeit-Wohnrechteverträge, Verträge über langfristige Urlaubsprodukte sowie Vermittlungsverträge und Tauschsystemverträge
 
 (1) Auf einen vor dem 23. Februar 2011 abgeschlossenen Teilzeit-Wohnrechtevertrag sind die §§ 481 bis 487 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden.
 
 (2) Auf einen vor dem 23. Februar 2011 abgeschlossenen Vertrag über ein langfristiges Urlaubsprodukt im Sinne von § 481a des Bürgerlichen Gesetzbuchs, auf einen Vermittlungsvertrag im Sinne von § 481b Absatz 1 des Bürgerlichen Gesetzbuchs oder einen Tauschsystemvertrag im Sinne von § 481b Absatz 2 des Bürgerlichen Gesetzbuchs sind die §§ 481 bis 487 des Bürgerlichen Gesetzbuchs nicht anzuwenden.
 
-
-## § 26 – Überleitungsvorschrift zum Gesetz zur Bekämpfung der Zwangsheirat und zum besseren Schutz der Opfer von Zwangsheirat sowie zur Änderung weiterer aufenthalts- und asylrechtlicher Vorschriften
+# § 26 – Überleitungsvorschrift zum Gesetz zur Bekämpfung der Zwangsheirat und zum besseren Schutz der Opfer von Zwangsheirat sowie zur Änderung weiterer aufenthalts- und asylrechtlicher Vorschriften
 
 Die Aufhebung einer vor dem 1. Juli 2011 geschlossenen Ehe ist ausgeschlossen, wenn die Ehe nach dem bis dahin geltenden Recht zu diesem Zeitpunkt nicht mehr hätte aufgehoben werden können.
 
-
-## § 27 – Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften über den Wertersatz bei Widerruf von Fernabsatzverträgen und über verbundene Verträge vom 27. Juli 2011
+# § 27 – Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften über den Wertersatz bei Widerruf von Fernabsatzverträgen und über verbundene Verträge vom 27. Juli 2011
 
 Sowohl Artikel 246 § 2 Absatz 3 Satz 1 als auch § 360 Absatz 3 des Bürgerlichen Gesetzbuchs sind bis zum Ablauf des 4. November 2011 auch im Fall der Übermittlung der Widerrufs- und der Rückgabebelehrungen nach den Mustern gemäß den Anlagen 1 und 2 in der Fassung des Gesetzes zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juni 2009 (BGBl. I S. 2355) anzuwenden.
 
-
-## § 28 – Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften des Internationalen Privatrechts an die Verordnung (EU) Nr. 1259/2010 und zur Änderung anderer Vorschriften des Internationalen Privatrechts vom 23. Januar 2013
+# § 28 – Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften des Internationalen Privatrechts an die Verordnung (EU) Nr. 1259/2010 und zur Änderung anderer Vorschriften des Internationalen Privatrechts vom 23. Januar 2013
 
 (1) Artikel 17 Absatz 1 in der am 29. Januar 2013 geltenden Fassung ist anzuwenden, wenn das Verfahren auf Ehescheidung nach dem 28. Januar 2013 eingeleitet worden ist.
 
 (2) Artikel 17 Absatz 3 und Artikel 17b Absatz 1 Satz 4 in der am 28. Januar 2013 geltenden Fassung sind weiter anzuwenden, wenn das Verfahren auf Ehescheidung oder Aufhebung der Lebenspartnerschaft vor dem 29. Januar 2013 eingeleitet worden ist.
 
-
-## § 29 – Übergangsvorschriften zum Mietrechtsänderungsgesetz vom 11. März 2013
+# § 29 – Übergangsvorschriften zum Mietrechtsänderungsgesetz vom 11. März 2013
 
 (1) Auf ein bis zum 1. Mai 2013 entstandenes Mietverhältnis sind die §§ 536, 554, 559 bis 559b, 578 des Bürgerlichen Gesetzbuchs in der bis zum 1. Mai 2013 geltenden Fassung weiter anzuwenden, wenn
 
@@ -411,18 +377,15 @@ Sowohl Artikel 246 § 2 Absatz 3 Satz 1 als auch § 360 Absatz 3 des Bürgerlich
 
 (2) § 569 Absatz 2a des Bürgerlichen Gesetzbuchs ist auf ein vor dem 1. Mai 2013 entstandenes Mietverhältnis nicht anzuwenden.
 
-
-## § 30 – Überleitungsvorschrift zum Gesetz zur Reform der elterlichen Sorge nicht miteinander verheirateter Eltern
+# § 30 – Überleitungsvorschrift zum Gesetz zur Reform der elterlichen Sorge nicht miteinander verheirateter Eltern
 
 Hat ein Elternteil vor dem 19. Mai 2013 beim Familiengericht einen Antrag auf Ersetzung der Sorgeerklärung des anderen Elternteils gestellt, gilt dieser Antrag als ein Antrag auf Übertragung der elterlichen Sorge nach § 1626a Absatz 2 des Bürgerlichen Gesetzbuchs.
 
-
-## § 31 – Überleitungsvorschrift zur Änderung der Verjährungsvorschriften des Bürgerlichen Gesetzbuchs durch das Gesetz zur Stärkung der Rechte von Opfern sexuellen Missbrauchs
+# § 31 – Überleitungsvorschrift zur Änderung der Verjährungsvorschriften des Bürgerlichen Gesetzbuchs durch das Gesetz zur Stärkung der Rechte von Opfern sexuellen Missbrauchs
 
 Die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 30. Juni 2013 geltenden Fassung über die Verjährung sind auf die an diesem Tag bestehenden und noch nicht verjährten Ansprüche anzuwenden.
 
-
-## § 32 – Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung
+# § 32 – Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung
 
 (1) Auf einen vor dem 13. Juni 2014 abgeschlossenen Verbrauchervertrag sind die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs, des Fernunterrichtsschutzgesetzes, der Zivilprozessordnung, des Gesetzes zur Regelung der Wohnungsvermittlung, des Gesetzes gegen unlauteren Wettbewerb, des Vermögensanlagengesetzes, der Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung, des Wertpapierprospektgesetzes, der Preisangabenverordnung, des Kapitalanlagegesetzbuchs, des Versicherungsvertragsgesetzes und des Unterlassungsklagengesetzes in der bis zu diesem Tag geltenden Fassung anzuwenden.
 
@@ -438,35 +401,29 @@ Die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 30. Juni 2013 gel
 
 (4) Die Absätze 2 und 3 sind nicht anwendbar auf Verträge über Finanzdienstleistungen. Solange der Verbraucher bei einem Haustürgeschäft, durch das der Unternehmer dem Verbraucher eine entgeltliche Finanzierungshilfe gewährt und das vor dem 11. Juni 2010 geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das Widerrufsrecht zwölf Monate und 14 Tage nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag, nicht jedoch vor Ablauf des 27. Juni 2015.
 
-
-## § 33 – Überleitungsvorschrift zu dem Gesetz gegen unseriöse Geschäftspraktiken
+# § 33 – Überleitungsvorschrift zu dem Gesetz gegen unseriöse Geschäftspraktiken
 
 Auf Schuldverhältnisse, die vor dem 9. Oktober 2013 entstanden sind, ist § 675 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden.
 
-
-## § 34 – Überleitungsvorschrift zum Gesetz zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr
+# § 34 – Überleitungsvorschrift zum Gesetz zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr
 
 Die §§ 271a, 286, 288, 308 und 310 des Bürgerlichen Gesetzbuchs in der seit dem 29. Juli 2014 geltenden Fassung sind nur auf ein Schuldverhältnis anzuwenden, das nach dem 28. Juli 2014 entstanden ist. Abweichend von Satz 1 sind die dort genannten Vorschriften auch auf ein vorher entstandenes Dauerschuldverhältnis anzuwenden, soweit die Gegenleistung nach dem 30. Juni 2016 erbracht wird.
 
-
-## § 35 – Übergangsvorschriften zum Mietrechtsnovellierungsgesetz vom 21. April 2015
+# § 35 – Übergangsvorschriften zum Mietrechtsnovellierungsgesetz vom 21. April 2015
 
 (1) Die §§ 556d bis 556g, 557a Absatz 4 und § 557b Absatz 4 des Bürgerlichen Gesetzbuchs sind nicht anzuwenden auf Mietverträge und Staffelmietvereinbarungen über Wohnraum, die abgeschlossen worden sind, bevor die vertragsgegenständliche Mietwohnung in den Anwendungsbereich einer Rechtsverordnung nach § 556d Absatz 2 des Bürgerlichen Gesetzbuchs fällt.
 
 (2) § 557a Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht mehr anzuwenden auf Mietstaffeln, deren erste Miete zu einem Zeitpunkt fällig wird, in dem die vertragsgegenständliche Mietwohnung nicht mehr in den Anwendungsbereich einer Rechtsverordnung nach § 556d Absatz 2 des Bürgerlichen Gesetzbuchs fällt.
 
-
-## § 36 – Überleitungsvorschrift zum Gesetz zum Internationalen Erbrecht und zur Änderung von Vorschriften zum Erbschein sowie zur Änderung sonstiger Vorschriften vom 29. Juni 2015
+# § 36 – Überleitungsvorschrift zum Gesetz zum Internationalen Erbrecht und zur Änderung von Vorschriften zum Erbschein sowie zur Änderung sonstiger Vorschriften vom 29. Juni 2015
 
 Auf Verfahren zur Erteilung von Erbscheinen nach einem Erblasser, der vor dem 17. August 2015 verstorben ist, sind das Bürgerliche Gesetzbuch und das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in der bis zu diesem Tag geltenden Fassung weiterhin anzuwenden.
 
-
-## § 37 – Überleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbraucherschützenden Vorschriften des Datenschutzrechts
+# § 37 – Überleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbraucherschützenden Vorschriften des Datenschutzrechts
 
 § 309 Nummer 13 des Bürgerlichen Gesetzbuchs in der seit dem 1. Oktober 2016 geltenden Fassung ist nur auf ein Schuldverhältnis anzuwenden, das nach dem 30. September 2016 entstanden ist.
 
-
-## § 38 – Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
+# § 38 – Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
 
 (1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2 auf folgende Verträge anzuwenden, wenn sie vor dem 21. März 2016 abgeschlossen wurden:
 
@@ -480,13 +437,11 @@ Für Verbraucherdarlehensverträge gemäß § 504 des Bürgerlichen Gesetzbuchs 
 
 (3) Bei Immobiliardarlehensverträgen gemäß § 492 Absatz 1a Satz 2 des Bürgerlichen Gesetzbuchs in der vom 1. August 2002 bis einschließlich 10. Juni 2010 geltenden Fassung, die zwischen dem 1. September 2002 und dem 10. Juni 2010 geschlossen wurden, erlischt ein fortbestehendes Widerrufsrecht spätestens drei Monate nach dem 21. März 2016, wenn das Fortbestehen des Widerrufsrechts darauf beruht, dass die dem Verbraucher erteilte Widerrufsbelehrung den zum Zeitpunkt des Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs nicht entsprochen hat. Bei Haustürgeschäften ist Satz 1 nur anzuwenden, wenn die beiderseitigen Leistungen aus dem Verbraucherdarlehensvertrag bei Ablauf des 21. Mai 2016 vollständig erbracht worden sind, andernfalls erlöschen die fortbestehenden Widerrufsrechte erst einen Monat nach vollständiger Erbringung der beiderseitigen Leistungen aus dem Vertrag.
 
-
-## § 39 – Übergangsvorschrift zum Gesetz zur Reform des Bauvertragsrechts, zur Änderung der kaufrechtlichen Mängelhaftung, zur Stärkung des zivilprozessualen Rechtsschutzes und zum maschinellen Siegel im Grundbuch- und Schiffsregisterverfahren
+# § 39 – Übergangsvorschrift zum Gesetz zur Reform des Bauvertragsrechts, zur Änderung der kaufrechtlichen Mängelhaftung, zur Stärkung des zivilprozessualen Rechtsschutzes und zum maschinellen Siegel im Grundbuch- und Schiffsregisterverfahren
 
 Auf ein Schuldverhältnis, das vor dem 1. Januar 2018 entstanden ist, finden die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs und der Verordnung über Abschlagszahlungen bei Bauträgerverträgen in der bis zu diesem Tag geltenden Fassung Anwendung.
 
-
-## § 40 – Übergangsvorschrift zum Finanzaufsichtsrechtergänzungsgesetz
+# § 40 – Übergangsvorschrift zum Finanzaufsichtsrechtergänzungsgesetz
 
 (1) Das Bürgerliche Gesetzbuch ist in der bis zum 9. Juni 2017 geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem 10. Juni 2017 abgeschlossen wurden:
 
@@ -500,18 +455,15 @@ Auf ein Schuldverhältnis, das vor dem 1. Januar 2018 entstanden ist, finden die
 
 2. Verträge über die Vermittlung von Verträgen nach Nummer 1.
 
-
-## § 41 – Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
+# § 41 – Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
 
 Ist vor Inkrafttreten von Artikel 8 am 17. Juni 2017 eine Vollmacht erteilt oder eine Erklärung im Namen einer anderen Person gegenüber einem Dritten abgegeben oder für einen anderen entgegengenommen worden, bleibt das bisherige Internationale Privatrecht anwendbar.
 
-
-## § 42 – Übergangsvorschrift zum Dritten Gesetz zur Änderung reiserechtlicher Vorschriften
+# § 42 – Übergangsvorschrift zum Dritten Gesetz zur Änderung reiserechtlicher Vorschriften
 
 Auf einen vor dem 1. Juli 2018 abgeschlossenen Reisevertrag sind die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs, der BGB-Informationspflichten-Verordnung, des Unterlassungsklagengesetzes, der Gewerbeordnung und der Preisangabenverordnung in der bis zu diesem Tag geltenden Fassung weiter anzuwenden.
 
-
-## § 43 – Überleitungsvorschrift zum Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld
+# § 43 – Überleitungsvorschrift zum Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld
 
 Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, sind die durch das Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld vom 17. Juli 2017 (BGBl. I S. 2421) geänderten Vorschriften in folgenden Gesetzen anzuwenden:
 
@@ -531,8 +483,7 @@ Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, s
 
 8. Haftpflichtgesetz.
 
-
-## § 44 – Überleitungsvorschrift zum Gesetz zur Bekämpfung von Kinderehen
+# § 44 – Überleitungsvorschrift zum Gesetz zur Bekämpfung von Kinderehen
 
 (1) § 1303 Satz 2 des Bürgerlichen Gesetzbuchs in der ab dem 22. Juli 2017 geltenden Fassung ist für Ehen, die vor dem 22. Juli 2017 geschlossen worden sind, nicht anzuwenden. Die Aufhebbarkeit dieser Ehen richtet sich nach dem bis zum 22. Juli 2017 geltenden Recht.
 
@@ -546,8 +497,7 @@ Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, s
 
 2. die nach ausländischem Recht wirksame Ehe bis zur Volljährigkeit des minderjährigen Ehegatten geführt worden ist und kein Ehegatte seit der Eheschließung bis zur Volljährigkeit des minderjährigen Ehegatten seinen gewöhnlichen Aufenthalt in Deutschland hatte.
 
-
-## § 45 – Übergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017
+# § 45 – Übergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017
 
 (1) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen zum Gegenstand haben und ab dem 13. Januar 2018 entstanden sind, sind nur das Bürgerliche Gesetzbuch und Artikel 248 in der ab dem 13. Januar 2018 geltenden Fassung anzuwenden.
 
@@ -559,13 +509,11 @@ Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, s
 
 (5) § 270a des Bürgerlichen Gesetzbuchs ist auf alle Schuldverhältnisse anzuwenden, die ab dem 13. Januar 2018 entstanden sind.
 
-
-## § 46 – Überleitungsvorschrift zum Gesetz zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen
+# § 46 – Überleitungsvorschrift zum Gesetz zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen
 
 § 1600d Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden, wenn der Samen, mithilfe dessen das Kind gezeugt wurde, vor Inkrafttreten des Gesetzes zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen vom 17. Juli 2017 (BGBl. I S. 2513) verwendet wurde.
 
-
-## § 47 – Übergangsvorschrift zum Gesetz zum Internationalen Güterrecht und zur Änderung von Vorschriften des Internationalen Privatrechts vom 17. Dezember 2018
+# § 47 – Übergangsvorschrift zum Gesetz zum Internationalen Güterrecht und zur Änderung von Vorschriften des Internationalen Privatrechts vom 17. Dezember 2018
 
 (1) Die allgemeinen Wirkungen der Ehe bestimmen sich bis einschließlich 28. Januar 2019 nach Artikel 14 in der bis zu diesem Tag geltenden Fassung.
 
@@ -579,13 +527,11 @@ Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017 eingetreten ist, s
 
 (4) Fand die Geburt oder die Annahme als Kind vor dem 29. Januar 2019 statt, so sind Artikel 19 Absatz 1 Satz 3 und Artikel 22 Absatz 1 Satz 2 in ihrer bis einschließlich 28. Januar 2019 geltenden Fassung anwendbar.
 
-
-## § 48 – Überleitungsvorschrift zum Gesetz zur Umsetzung des Gesetzes zur Einführung des Rechts auf Eheschließung für Personen gleichen Geschlechts
+# § 48 – Überleitungsvorschrift zum Gesetz zur Umsetzung des Gesetzes zur Einführung des Rechts auf Eheschließung für Personen gleichen Geschlechts
 
 Auf gleichgeschlechtliche Ehen und eingetragene Lebenspartnerschaften, die vor dem 1. Oktober 2017 im Ausland nach den Sachvorschriften des Register führenden Staates wirksam geschlossen oder begründet worden sind, findet Artikel 17b Absatz 4 in seiner bis einschließlich 30. September 2017 geltenden Fassung keine Anwendung.
 
-
-## § 49 – Übergangsvorschriften zum Mietrechtsanpassungsgesetz vom 18. Dezember 2018
+# § 49 – Übergangsvorschriften zum Mietrechtsanpassungsgesetz vom 18. Dezember 2018
 
 (1) Auf ein bis einschließlich 31. Dezember 2018 entstandenes Mietverhältnis sind die §§ 555c und 559 des Bürgerlichen Gesetzbuchs in der bis dahin geltenden Fassung weiter anzuwenden, wenn dem Mieter bei Modernisierungsmaßnahmen die Mitteilung nach § 555c Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs bis einschließlich 31. Dezember 2018 zugegangen ist. Hat der Vermieter die Modernisierungsmaßnahme nicht oder nicht ordnungsgemäß nach § 555c Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs angekündigt, so gilt Satz 1 mit der Maßgabe, dass es an Stelle des Zugangs der Mitteilung nach § 555c Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs auf den Zugang der Mieterhöhungserklärung nach § 559b Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs ankommt. § 559c des Bürgerlichen Gesetzbuchs ist nur anzuwenden, wenn der Vermieter die Modernisierungsmaßnahme nach dem 31. Dezember 2018 angekündigt hat. § 559d des Bürgerlichen Gesetzbuchs ist nur anzuwenden auf ein Verhalten nach dem 31. Dezember 2018.
 
@@ -593,35 +539,29 @@ Auf gleichgeschlechtliche Ehen und eingetragene Lebenspartnerschaften, die vor d
 
 (3) Auf ein bis einschließlich 31. Dezember 2018 entstandenes Mietverhältnis ist § 578 Absatz 3 des Bürgerlichen Gesetzbuchs nicht anzuwenden.
 
-
-## § 50 – Übergangsvorschriften zum Gesetz zur Verlängerung des Betrachtungszeitraums für die ortsübliche Vergleichsmiete
+# § 50 – Übergangsvorschriften zum Gesetz zur Verlängerung des Betrachtungszeitraums für die ortsübliche Vergleichsmiete
 
 (1) Mietspiegel können auch nach dem 31. Dezember 2019 nach § 558 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in der bis dahin geltenden Fassung neu erstellt werden, wenn der Stichtag für die Feststellung der ortsüblichen Vergleichsmiete vor dem 1. März 2020 liegt und der Mietspiegel vor dem 1. Januar 2021 veröffentlicht wird. Mietspiegel, die nach Satz 1 neu erstellt wurden oder die bereits am 31. Dezember 2019 existierten, können entsprechend § 558d Absatz 2 des Bürgerlichen Gesetzbuchs innerhalb von zwei Jahren der Marktentwicklung angepasst werden.
 
 (2) In Gemeinden oder Teilen von Gemeinden, in denen ein Mietspiegel nach Absatz 1 Satz 1 neu erstellt wurde oder in denen am 31. Dezember 2019 ein Mietspiegel existierte, ist § 558 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung anzuwenden, bis ein neuer Mietspiegel anwendbar ist, längstens jedoch zwei Jahre ab der Veröffentlichung des zuletzt erstellten Mietspiegels. Wurde dieser Mietspiegel innerhalb von zwei Jahren der Marktentwicklung angepasst, ist die Veröffentlichung der ersten Anpassung maßgeblich.
 
-
-## § 51 – Übergangsvorschriften zum Gesetz zur Verlängerung und Verbesserung der Regelungen über die zulässige Miethöhe bei Mietbeginn
+# § 51 – Übergangsvorschriften zum Gesetz zur Verlängerung und Verbesserung der Regelungen über die zulässige Miethöhe bei Mietbeginn
 
 Auf ein bis einschließlich 31. März 2020 entstandenes Mietverhältnis ist § 556g des Bürgerlichen Gesetzbuchs in der bis dahin geltenden Fassung weiter anzuwenden.
 
-
-## § 52 – Überleitungsvorschrift zum Gesetz zur Umsetzung der Entscheidung des Bundesverfassungsgerichts vom 26. März 2019 zum Ausschluss der Stiefkindadoption in nichtehelichen Familien
+# § 52 – Überleitungsvorschrift zum Gesetz zur Umsetzung der Entscheidung des Bundesverfassungsgerichts vom 26. März 2019 zum Ausschluss der Stiefkindadoption in nichtehelichen Familien
 
 Auf vor dem 31. März 2020 abgeschlossene Vorgänge bleibt das bisherige Internationale Privatrecht anwendbar.
 
-
-## § 53 – Übergangsvorschrift zum Gesetz über die Maklerkosten bei der Vermittlung von Kaufverträgen über Wohnungen und Einfamilienhäuser
+# § 53 – Übergangsvorschrift zum Gesetz über die Maklerkosten bei der Vermittlung von Kaufverträgen über Wohnungen und Einfamilienhäuser
 
 Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die Vorschriften des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag geltenden Fassung weiter anzuwenden.
 
-
-## § 1 – (weggefallen)
+# § 1 – (weggefallen)
 
 \-
 
-
-## § 2 – Vereine
+# § 2 – Vereine
 
 (1) Rechtsfähige Vereinigungen, die nach dem Gesetz über Vereinigungen - Vereinigungsgesetz - vom 21. Februar 1990 (GBl. I Nr. 10 S. 75), geändert durch das Gesetz vom 22. Juni 1990 (GBl. I Nr. 37 S. 470, Nr. 39 S. 546, vor dem Wirksamwerden des Beitritts entstanden sind, bestehen fort.
 
@@ -631,20 +571,17 @@ Auf Rechtsverhältnisse, die vor dem 23. Dezember 2020 entstanden sind, sind die
 
 (4) Auf nicht rechtsfähige Vereinigungen im Sinn des Gesetzes über Vereinigungen - Vereinigungsgesetz - vom 21. Februar 1990 findet ab dem Tag des Wirksamwerdens des Beitritts § 54 des Bürgerlichen Gesetzbuchs Anwendung.
 
-
-## § 3 – Stiftungen
+# § 3 – Stiftungen
 
 (1) Die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestehenden rechtsfähigen Stiftungen bestehen fort.
 
 (2) Auf Stiftungen des Privaten Rechts sind ab dem Tag des Wirksamwerdens des Beitritts die §§ 80 bis 88 des Bürgerlichen Gesetzbuchs anzuwenden.
 
-
-## § 4 – Haftung juristischer Personen für ihre Organe
+# § 4 – Haftung juristischer Personen für ihre Organe
 
 Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen anzuwenden, die am Tag des Wirksamwerdens des Beitritts oder danach begangen werden.
 
-
-## § 5 – Sachen
+# § 5 – Sachen
 
 (1) Nicht zu den Bestandteilen eines Grundstücks gehören Gebäude, Baulichkeiten, Anlagen, Anpflanzungen oder Einrichtungen, die gemäß dem am Tag vor dem Wirksamwerden des Beitritts geltenden Recht vom Grundstückseigentum unabhängiges Eigentum sind. Das gleiche gilt, wenn solche Gegenstände am Tag des Wirksamwerdens des Beitritts oder danach errichtet oder angebracht werden, soweit dies aufgrund eines vor dem Wirksamwerden des Beitritts begründeten Nutzungsrechts an dem Grundstück oder Nutzungsrechts nach den §§ 312 bis 315 des Zivilgesetzbuchs der Deutschen Demokratischen Republik zulässig ist.
 
@@ -656,8 +593,7 @@ Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen 
 
 (5) Ist ein Gebäude auf mehreren Grundstücken errichtet, gelten die Absätze 3 und 4 nur in Ansehung des Grundstücks, auf dem sich der überwiegende Teil des Gebäudes befindet. Für den Erwerber des Grundstücks gelten in Ansehung des auf dem anderen Grundstück befindlichen Teils des Gebäudes die Vorschriften über den zu duldenden Überbau sinngemäß.
 
-
-## § 6 – Verjährung
+# § 6 – Verjährung
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung finden auf die am Tag des Wirksamwerdens des Beitritts bestehenden und noch nicht verjährten Ansprüche Anwendung. Der Beginn, die Hemmung und die Unterbrechung der Verjährung bestimmen sich jedoch für den Zeitraum vor dem Wirksamwerden des Beitritts nach den bislang für das in Artikel 3 des Einigungsvertrages genannte Gebiet geltenden Rechtsvorschriften.
 
@@ -665,8 +601,7 @@ Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen 
 
 (3) Die Absätze 1 und 2 sind entsprechend auf Fristen anzuwenden, die für die Geltendmachung, den Erwerb oder den Verlust eines Rechts maßgebend sind.
 
-
-## § 7 – Beurkundungen und Beglaubigungen
+# § 7 – Beurkundungen und Beglaubigungen
 
 (1) Eine vor dem Wirksamwerden des Beitritts erfolgte notarielle Beurkundung oder Beglaubigung ist nicht deshalb unwirksam, weil die erforderliche Beurkundung oder Beglaubigung von einem Notar vorgenommen wurde, der nicht in dem in Artikel 3 des Einigungsvertrages genannten Gebiet berufen oder bestellt war, sofern dieser im Geltungsbereich des Grundgesetzes bestellt war.
 
@@ -676,8 +611,7 @@ Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen 
 
 (4) Eine Veräußerung nach den §§ 17 bis 19 des Gesetzes über die Gründung und Tätigkeit privater Unternehmen und über Unternehmensbeteiligungen vom 7. März 1990 (GBl. I Nr. 17 S. 141), die ohne die in § 19 Abs. 5 Satz 2 dieses Gesetzes geforderte notarielle Beurkundung der Umwandlungserklärung erfolgt ist, wird ihrem ganzen Inhalt nach gültig, wenn die gegründete Gesellschaft in das Register eingetragen ist.
 
-
-## § 8 – Vollmachtsurkunden staatlicher Organe, Falschbezeichnung von Kommunen
+# § 8 – Vollmachtsurkunden staatlicher Organe, Falschbezeichnung von Kommunen
 
 (1) Eine von den in den §§ 2 und 3 der Siegelordnung der Deutschen Demokratischen Republik vom 29. November 1966 (GBl. 1967 II Nr. 9 S. 49) und in § 1 der Siegelordnung der Deutschen Demokratischen Republik vom 16. Juli 1981 (GBl. I Nr. 25 S. 309) bezeichneten staatlichen Organen erteilte Vollmachtsurkunde ist wirksam, wenn die Urkunde vom vertretungsberechtigten Leiter des Organs oder einer von diesem nach den genannten Bestimmungen ermächtigten Person unterzeichnet und mit einem ordnungsgemäßen Dienstsiegel versehen worden ist. Die Beglaubigung der Vollmacht nach § 57 Abs. 2 Satz 2 des Zivilgesetzbuchs der Deutschen Demokratischen Republik wird durch die Unterzeichnung und Siegelung der Urkunde ersetzt.
 
@@ -691,8 +625,7 @@ Die §§ 31 und 89 des Bürgerlichen Gesetzbuchs sind nur auf solche Handlungen 
 
 4. das Rechtsgeschäft von einer Person abgeschlossen wurde, die nicht oder nicht mehr Mitarbeiter der Kommunalverwaltung war.
 
-
-## § 9 – Heilung unwirksamer Vermögensübertragungen
+# § 9 – Heilung unwirksamer Vermögensübertragungen
 
 (1) Sollte das ehemals volkseigene Vermögen oder ein Teil des ehemals volkseigenen Vermögens, das einem Betrieb der kommunalen Wohnungswirtschaft zur selbständigen Nutzung und Bewirtschaftung übertragen war, im Wege der Umwandlung nach den in Absatz 2 Nr. 2 genannten Umwandlungsvorschriften oder im Zusammenhang mit einer Sachgründung auf eine neue Kapitalgesellschaft übergehen und ist der Übergang deswegen nicht wirksam geworden, weil für einen solchen Vermögensübergang eine rechtliche Voraussetzung fehlte, kann der Vermögensübergang durch Zuordnungsbescheid nachgeholt werden. Eine aus dem Zuordnungsbescheid nach dieser Vorschrift begünstigte Kapitalgesellschaft kann ungeachtet von Fehlern bei der Umwandlung oder Sachgründung als Inhaberin eines Rechts an einem Grundstück oder an einem solchen Recht in das Grundbuch eingetragen werden, wenn sie im Handelregister eingetragen ist.
 
@@ -722,8 +655,7 @@ d) das Umwandlungsgesetz in der Fassung der Bekanntmachung vom 6. November 1969 
 
 (5) Die in Absatz 1 bezeichneten Kapitalgesellschaften gelten auch schon vor Erteilung der Zuordnungsbescheide als ermächtigt, alle Rechte aus dem ehemals volkseigenen Vermögen, das auf sie übergehen sollte, oder aus Rechtsgeschäften in bezug auf dieses Vermögen unter Einschluß von Kündigungs- und anderen Gestaltungsrechten im eigenen Namen und auf eigene Rechnung geltend zu machen. Sollte ein ehemals volkseigener Vermögenswert auf mehrere Gesellschaften der in Absatz 1 bezeichneten Art übergehen, gelten die betreffenden Gesellschaften als Gesamtgläubiger. Wird eine Zuordnung nach Maßgabe der Absätze 3 und 4 geändert, gilt Satz 2 sinngemäß. Die Gesellschaft, die den Vermögenswert auf Grund der Umwandlung oder Sachgründung in Besitz hat, gilt als zur Verwaltung beauftragt. Im Übrigen gilt § 8 Abs. 3 des Vermögenszuordnungsgesetzes entsprechend. Ansprüche nach dem Vermögensgesetz und rechtskräftige Urteile bleiben unberührt.
 
-
-## § 10 – Übergang volkseigener Forderungen, Grundpfandrechte und Verbindlichkeiten auf Kreditinstitute
+# § 10 – Übergang volkseigener Forderungen, Grundpfandrechte und Verbindlichkeiten auf Kreditinstitute
 
 (1) Ein volkseigenes oder genossenschaftliches Kreditinstitut, das die Geschäfte eines solchen Kreditinstituts fortführende Kreditinstitut oder das Nachfolgeinstitut ist spätestens mit Wirkung vom 1. Juli 1990 Gläubiger der volkseigenen Forderungen und Grundpfandrechte geworden, die am 30. Juni 1990 in seiner Rechtsträgerschaft standen oder von ihm verwaltet wurden. Diese Kreditinstitute werden mit Wirkung vom 1. Juli 1990 Schuldner der von ihnen verwalteten volkseigenen Verbindlichkeiten. Gläubiger der von dem Kreditinstitut für den Staatshaushalt der Deutschen Demokratischen Republik treuhänderisch verwalteten Forderungen und Grundpfandrechte ist mit Wirkung vom 3. Oktober 1990 der Bund geworden; er verwaltet sie treuhänderisch nach Maßgabe des Artikels 22 des Einigungsvertrages. Auf die für die Sozialversicherung treuhänderisch verwalteten Forderungen und Grundpfandrechte sind Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 § 3 Abs. 2 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1042) und die Bestimmungen des Gesetzes zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet vom 20. Dezember 1991 (BGBl. I S. 2313) anzuwenden. Ansprüche auf Rückübertragung nach den Regelungen über die Zuordnung von Volkseigentum und Ansprüche nach dem Vermögensgesetz bleiben unberührt.
 
@@ -731,30 +663,25 @@ d) das Umwandlungsgesetz in der Fassung der Bekanntmachung vom 6. November 1969 
 
 (3) Zum Nachweis, wer nach Absatz 1 Inhaber eines Grundpfandrechtes oder Gläubiger einer Forderung geworden ist, genügt auch im Verfahren nach der Grundbuchordnung eine mit Unterschrift und Siegel versehene Bescheinigung der Kreditanstalt für Wiederaufbau. Die Kreditanstalt für Wiederaufbau kann die Befugnis zur Erteilung der Bescheinigung nach Satz 1 auf die Sparkassen für ihren jeweiligen Geschäftsbereich übertragen. Die nach Satz 1 oder Satz 2 befugte Stelle kann auch den Übergang des Grundpfandrechtes oder der Forderung auf sich selbst feststellen. In den Fällen des Absatzes 1 Satz 3 bedarf es neben der in den Sätzen 1 bis 3 genannten Bescheinigung eines Zuordnungsbescheides nicht. § 113 Absatz 1 Nummer 6 der Grundbuchverfügung in der am 1. Oktober 2009 geltenden Fassung bleibt unberührt.
 
-
-## § 1 – Allgemeine Bestimmungen für Schuldverhältnisse
+# § 1 – Allgemeine Bestimmungen für Schuldverhältnisse
 
 Für ein Schuldverhältnis, das vor dem Wirksamwerden des Beitritts entstanden ist, bleibt das bisherige für das in Artikel 3 des Einigungsvertrages genannte Gebiet geltende Recht maßgebend.
 
-
-## § 1a – Überlassungsverträge
+# § 1a – Überlassungsverträge
 
 Ein vor dem 3. Oktober 1990 geschlossener Vertrag, durch den ein bisher staatlich verwaltetes (§ 1 Abs. 4 des Vermögensgesetzes) Grundstück durch den staatlichen Verwalter oder die von ihm beauftragte Stelle gegen Leistung eines Geldbetrages für das Grundstück sowie etwa aufstehende Gebäude und gegen Übernahme der öffentlichen Lasten einem anderen zur Nutzung überlassen wurde (Überlassungsvertrag), ist wirksam.
 
-
-## § 2 – Mietverträge
+# § 2 – Mietverträge
 
 Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des Beitritts geschlossen worden sind, richten sich von diesem Zeitpunkt an nach den Vorschriften des Bürgerlichen Gesetzbuchs.
 
-
-## § 3 – Pachtverträge
+# § 3 – Pachtverträge
 
 (1) Pachtverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des Beitritts geschlossen worden sind, richten sich von diesem Zeitpunkt an nach den §§ 581 bis 597 des Bürgerlichen Gesetzbuchs.
 
 (2) Die §§ 51 und 52 des Landwirtschaftsanpassungsgesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 642) bleiben unberührt.
 
-
-## § 4 – Nutzung von Bodenflächen zur Erholung
+# § 4 – Nutzung von Bodenflächen zur Erholung
 
 (1) Nutzungsverhältnisse nach den §§ 312 bis 315 des Zivilgesetzbuchs der Deutschen Demokratischen Republik aufgrund von Verträgen, die vor dem Wirksamwerden des Beitritts geschlossen worden sind, richten sich weiterhin nach den genannten Vorschriften des Zivilgesetzbuchs. Abweichende Regelungen bleiben einem besonderen Gesetz vorbehalten.
 
@@ -764,8 +691,7 @@ Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des Beitrit
 
 (4) Die Absätze 1 bis 3 gelten auch für vor dem 1. Januar 1976 geschlossene Verträge, durch die land- oder forstwirtschaftlich nicht genutzte Bodenflächen Bürgern zum Zwecke der nicht gewerblichen kleingärtnerischen Nutzung, Erholung und Freizeitgestaltung überlassen wurden.
 
-
-## § 4a – Vertrags-Moratorium
+# § 4a – Vertrags-Moratorium
 
 (1) Verträge nach § 4 können, auch soweit sie Garagen betreffen, gegenüber dem Nutzer bis zum Ablauf des 31. Dezember 1994 nur aus den in § 554 des Bürgerlichen Gesetzbuchs bezeichneten Gründen gekündigt oder sonst beendet werden. Sie verlängern sich, wenn nicht der Nutzer etwas Gegenteiliges mitteilt, bis zu diesem Zeitpunkt, wenn sie nach ihrem Inhalt vorher enden würden.
 
@@ -781,8 +707,7 @@ Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des Beitrit
 
 (7) Die Absätze 1 bis 6 finden keine Anwendung, wenn die Betroffenen nach dem 2. Oktober 1990 etwas Abweichendes vereinbart haben oder zwischen ihnen abweichende rechtskräftige Urteile ergangen sind.
 
-
-## § 5 – Arbeitsverhältnisse
+# § 5 – Arbeitsverhältnisse
 
 (1) Für am Tag des Wirksamwerdens des Beitritts bestehende Arbeitsverhältnisse gelten unbeschadet des Artikels 230 von dieser Zeit an die Vorschriften des Bürgerlichen Gesetzbuchs.
 
@@ -794,38 +719,31 @@ Mietverhältnisse aufgrund von Verträgen, die vor dem Wirksamwerden des Beitrit
 
 "Satz 1 läßt das Recht zur Kündigung aus wirtschaftlichen, technischen oder organisatorischen Gründen, die Änderungen im Bereich der Beschäftigung mit sich bringen, unberührt."
 
-
-## § 6 – Verträge über wiederkehrende Dienstleistungen
+# § 6 – Verträge über wiederkehrende Dienstleistungen
 
 Für am Tag des Wirksamwerdens des Beitritts bestehende Pflege- und Wartungsverträge und Verträge über wiederkehrende persönliche Dienstleistungen gelten von dieser Zeit an die Vorschriften des Bürgerlichen Gesetzbuchs.
 
-
-## § 7 – Kontoverträge und Sparkontoverträge
+# § 7 – Kontoverträge und Sparkontoverträge
 
 Das Kreditinstitut kann durch Erklärung gegenüber dem Kontoinhaber bestimmen, daß auf einen am Tag des Wirksamwerdens des Beitritts bestehenden Kontovertrag oder Sparkontovertrag die Vorschriften des Bürgerlichen Gesetzbuchs einschließlich der im bisherigen Geltungsbereich dieses Gesetzes für solche Verträge allgemein verwendeten, näher zu bezeichnenden allgemeinen Geschäftsbedingungen anzuwenden sind. Der Kontoinhaber kann den Vertrag innerhalb eines Monats von dem Zugang der Erklärung an kündigen.
 
-
-## § 8 – Kreditverträge
+# § 8 – Kreditverträge
 
 Auf Kreditverträge, die nach dem 30. Juni 1990 abgeschlossen worden sind, ist § 609a des Bürgerlichen Gesetzbuchs anzuwenden.
 
-
-## § 9 – Bruchteilsgemeinschaften
+# § 9 – Bruchteilsgemeinschaften
 
 Auf eine am Tag des Wirksamwerdens des Beitritts bestehende Gemeinschaft nach Bruchteilen finden von dieser Zeit an die Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
-
-## § 10 – Unerlaubte Handlungen
+# § 10 – Unerlaubte Handlungen
 
 Die Bestimmungen der §§ 823 bis 853 des Bürgerlichen Gesetzbuchs sind nur auf Handlungen anzuwenden, die am Tag des Wirksamwerdens des Beitritts oder danach begangen werden.
 
-
-## § 1 – Besitz
+# § 1 – Besitz
 
 Auf ein am Tag des Wirksamwerdens des Beitritts bestehendes Besitzverhältnis finden von dieser Zeit an die Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
-
-## § 2 – Inhalt des Eigentums
+# § 2 – Inhalt des Eigentums
 
 (1) Auf das am Tag des Wirksamwerdens des Beitritts bestehende Eigentum an Sachen finden von dieser Zeit an die Vorschriften des Bürgerlichen Gesetzbuchs Anwendung, soweit nicht in den nachstehenden Vorschriften etwas anderes bestimmt ist.
 
@@ -833,8 +751,7 @@ Auf ein am Tag des Wirksamwerdens des Beitritts bestehendes Besitzverhältnis fi
 
 (3) Ist der Eigentümer eines Grundstücks oder sein Aufenthalt nicht festzustellen und besteht ein Bedürfnis, die Vertretung des Eigentümers sicherzustellen, so bestellt der Landkreis oder die kreisfreie Stadt, in dessen oder deren Gebiet sich das Grundstück befindet, auf Antrag der Gemeinde oder eines anderen, der ein berechtigtes Interesse daran hat, einen gesetzlichen Vertreter. Im Falle einer Gemeinschaft wird ein Mitglied der Gemeinschaft zum gesetzlichen Vertreter bestellt. Der Vertreter ist von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit. § 16 Abs. 3 und 4 des Verwaltungsverfahrensgesetzes findet entsprechende Anwendung. Der Vertreter wird auf Antrag des Eigentümers abberufen. Diese Vorschrift tritt in ihrem räumlichen Anwendungsbereich und für die Dauer ihrer Geltung an die Stelle des § 119 des Flurbereinigungsgesetzes auch, soweit auf diese Bestimmung in anderen Gesetzen verwiesen wird. § 11b des Vermögensgesetzes bleibt unberührt.
 
-
-## § 2a – Moratorium
+# § 2a – Moratorium
 
 (1) Als zum Besitz eines in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegenen Grundstücks berechtigt gelten unbeschadet bestehender Nutzungsrechte und günstigerer Vereinbarungen und Regelungen:
 
@@ -878,8 +795,7 @@ In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gese
 
 (9) Für die Zeit vom 22. Juli 1992 bis zum 30. September 2001 kann der Grundstückseigentümer von der öffentlichen Körperschaft, die das Grundstück zur Erfüllung ihrer öffentlichen Aufgaben nutzt oder im Falle der Widmung zum Gemeingebrauch für das Gebäude oder die Anlage unterhaltungspflichtig ist, nur ein Entgelt in Höhe von jährlich 0,8 vom Hundert des Bodenwerts eines in gleicher Lage belegenen Grundstücks sowie die Freistellung von den Lasten des Grundstücks verlangen. Der Bodenwert ist nach den Bodenrichtwerten zu bestimmen; § 19 Abs. 5 des Sachenrechtsbereinigungsgesetzes gilt entsprechend. Für die Zeit vom 1. Januar 1995 entsteht der Anspruch nach Satz 1 von dem Zeitpunkt an, in dem der Grundstückseigentümer ihn gegenüber der Körperschaft schriftlich geltend macht; für die Zeit vom 22. Juli 1992 bis zum 31. Dezember 1994 kann er nur bis zum 31. März 2002 geltend gemacht werden. Abweichende vertragliche Vereinbarungen bleiben unberührt.
 
-
-## § 2b – Gebäudeeigentum ohne dingliches Nutzungsrecht
+# § 2b – Gebäudeeigentum ohne dingliches Nutzungsrecht
 
 (1) In den Fällen des § 2a Abs. 1 Satz 1 Buchstabe a und b sind Gebäude und Anlagen von Arbeiter-Wohnungsbaugenossenschaften und von gemeinnützigen Wohnungsgenossenschaften auf ehemals volkseigenen Grundstücken, in den Fällen des § 2a Abs. 1 Satz 1 Buchstabe a Gebäude und Anlagen landwirtschaftlicher Produktionsgenossenschaften, auch soweit dies nicht gesetzlich bestimmt ist, unabhängig vom Eigentum am Grundstück, Eigentum des Nutzers. Ein beschränkt dingliches Recht am Grundstück besteht nur, wenn dies besonders begründet worden ist. Dies gilt auch für Rechtsnachfolger der in Satz 1 bezeichneten Genossenschaften.
 
@@ -893,8 +809,7 @@ In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gese
 
 (6) Eine bis zum Ablauf des 21. Juli 1992 vorgenommene Übereignung des nach § 27 des Gesetzes über die landwirtschaftlichen Produktionsgenossenschaften oder nach § 459 Abs. 1 Satz 1 des Zivilgesetzbuchs der Deutschen Demokratischen Republik entstandenen selbständigen Gebäudeeigentums ist nicht deshalb unwirksam, weil sie nicht nach den für die Übereignung von Grundstücken geltenden Vorschriften des Bürgerlichen Gesetzbuchs vorgenommen worden ist. Gleiches gilt für das Rechtsgeschäft, mit dem die Verpflichtung zur Übertragung und zum Erwerb begründet worden ist. Die Sätze 1 und 2 sind nicht anzuwenden, soweit eine rechtskräftige Entscheidung entgegensteht.
 
-
-## § 2c – Grundbucheintragung
+# § 2c – Grundbucheintragung
 
 (1) Selbständiges Gebäudeeigentum nach § 2b ist auf Antrag (§ 13 Abs. 2 der Grundbuchordnung) im Grundbuch wie eine Belastung des betroffenen Grundstücks einzutragen. Ist für das Gebäudeeigentum ein Gebäudegrundbuchblatt nicht vorhanden, so wird es bei der Eintragung in das Grundbuch von Amts wegen angelegt.
 
@@ -902,8 +817,7 @@ In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gese
 
 (3) Der Erwerb selbständigen Gebäudeeigentums sowie dinglicher Rechte am Gebäude der in § 2b bezeichneten Art aufgrund der Vorschriften über den öffentlichen Glauben des Grundbuchs ist nur möglich, wenn das Gebäudeeigentum auch bei dem belasteten Grundstück eingetragen ist.
 
-
-## § 3 – Inhalt und Rang beschränkter dinglicher Rechte
+# § 3 – Inhalt und Rang beschränkter dinglicher Rechte
 
 (1) Rechte, mit denen eine Sache oder ein Recht am Ende des Tages vor dem Wirksamwerden des Beitritts belastet ist, bleiben mit dem sich aus dem bisherigen Recht ergebenden Inhalt und Rang bestehen, soweit sich nicht aus den nachstehenden Vorschriften ein anderes ergibt. § 5 Abs. 2 Satz 2 und Abs. 3 des Gesetzes über die Verleihung von Nutzungsrechten an volkseigenen Grundstücken vom 14. Dezember 1970 (GBl. I Nr. 24 S. 372 - Nutzungsrechtsgesetz) sowie § 289 Abs. 2 und 3 und § 293 Abs. 1 Satz 2 des Zivilgesetzbuchs der Deutschen Demokratischen Republik sind nicht mehr anzuwenden. Satz 2 gilt entsprechend für die Bestimmungen des Nutzungsrechtsgesetzes und des Zivilgesetzbuchs über den Entzug eines Nutzungsrechts.
 
@@ -913,8 +827,7 @@ In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gese
 
 (4) Auf Vorkaufsrechte, die nach den Vorschriften des Zivilgesetzbuchs der Deutschen Demokratischen Republik bestellt wurden, sind vom 1. Oktober 1994 an die Bestimmungen des Bürgerlichen Gesetzbuchs nach den §§ 1094 bis 1104 anzuwenden.
 
-
-## § 4 – Sondervorschriften für dingliche Nutzungsrechte und Gebäudeeigentum
+# § 4 – Sondervorschriften für dingliche Nutzungsrechte und Gebäudeeigentum
 
 (1) Für das Gebäudeeigentum nach § 288 Abs. 4 oder § 292 Abs. 3 des Zivilgesetzbuchs der Deutschen Demokratischen Republik gelten von dem Wirksamwerden des Beitritts an die sich auf Grundstücke beziehenden Vorschriften des Bürgerlichen Gesetzbuchs mit Ausnahme der §§ 927 und 928 entsprechend. Vor der Anlegung eines Gebäudegrundbuchblatts ist das dem Gebäudeeigentum zugrundeliegende Nutzungsrecht von Amts wegen im Grundbuch des belasteten Grundstücks einzutragen. Der Erwerb eines selbständigen Gebäudeeigentums oder eines dinglichen Rechts am Gebäude der in Satz 1 genannten Art aufgrund der Vorschriften über den öffentlichen Glauben des Grundbuchs ist nur möglich, wenn auch das zugrundeliegende Nutzungsrecht bei dem belasteten Grundstück eingetragen ist.
 
@@ -930,8 +843,7 @@ In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gese
 
 (7) Die Absätze 1 bis 5 gelten entsprechend, soweit aufgrund anderer Rechtsvorschriften Gebäudeeigentum, für das ein Gebäudegrundbuchblatt anzulegen ist, in Verbindung mit einem Nutzungsrecht an dem betroffenen Grundstück besteht.
 
-
-## § 5 – Mitbenutzungsrechte
+# § 5 – Mitbenutzungsrechte
 
 (1) Mitbenutzungsrechte im Sinn des § 321 Abs. 1 bis 3 und des § 322 des Zivilgesetzbuchs der Deutschen Demokratischen Republik gelten als Rechte an dem belasteten Grundstück, soweit ihre Begründung der Zustimmung des Eigentümers dieses Grundstücks bedurfte.
 
@@ -941,27 +853,23 @@ In den Fällen des Satzes 4 Buchstabe a und c ist § 1000 des Bürgerlichen Gese
 
 (4) Durch Landesgesetz kann bestimmt werden, daß ein Mitbenutzungsrecht der in Absatz 1 bezeichneten Art mit dem Inhalt in das Grundbuch einzutragen ist, der dem seit dem 3. Oktober 1990 geltenden Recht entspricht oder am ehesten entspricht. Ist die Verpflichtung zur Eintragung durch rechtskräftige Entscheidung festgestellt, so kann das Recht auch in den Fällen des Satzes 1 mit seinem festgestellten Inhalt eingetragen werden.
 
-
-## § 6 – Hypotheken
+# § 6 – Hypotheken
 
 (1) Für die Übertragung von Hypothekenforderungen nach dem Zivilgesetzbuch der Deutschen Demokratischen Republik, die am Tag des Wirksamwerdens des Beitritts bestehen, gelten die Vorschriften des Bürgerlichen Gesetzbuchs, welche bei der Übertragung von Sicherungshypotheken anzuwenden sind, entsprechend. Das gleiche gilt für die Aufhebung solcher Hypotheken mit der Maßgabe, daß § 1183 des Bürgerlichen Gesetzbuchs und § 27 der Grundbuchordnung nicht anzuwenden sind. Die Regelungen des Bürgerlichen Gesetzbuchs über den Verzicht auf eine Hypothek sind bei solchen Hypotheken nicht anzuwenden.
 
 (2) Die Übertragung von Hypotheken, Grundschulden und Rentenschulden aus der Zeit vor Inkrafttreten des Zivilgesetzbuchs der Deutschen Demokratischen Republik und die sonstigen Verfügungen über solche Rechte richten sich nach den entsprechenden Vorschriften des Bürgerlichen Gesetzbuchs.
 
-
-## § 7 – Am Tag des Wirksamwerdens des Beitritts schwebende Rechtsänderungen
+# § 7 – Am Tag des Wirksamwerdens des Beitritts schwebende Rechtsänderungen
 
 (1) Die Übertragung des Eigentums an einem Grundstück richtet sich statt nach den Vorschriften des Bürgerlichen Gesetzbuchs nach den am Tag vor dem Wirksamwerden des Beitritts geltenden Rechtsvorschriften, wenn der Antrag auf Eintragung in das Grundbuch vor dem Wirksamwerden des Beitritts gestellt worden ist. Dies gilt entsprechend für das Gebäudeeigentum. Wurde bei einem Vertrag, der vor dem 3. Oktober 1990 beurkundet worden ist, der Antrag nach diesem Zeitpunkt gestellt, so ist eine gesonderte Auflassung nicht erforderlich, wenn die am 2. Oktober 1990 geltenden Vorschriften des Zivilgesetzbuchs der Deutschen Demokratischen Republik über den Eigentumsübergang eingehalten worden sind.
 
 (2) Ein Recht nach den am Tag vor dem Wirksamwerden des Beitritts geltenden Vorschriften kann nach diesem Tage gemäß diesen Vorschriften noch begründet werden, wenn hierzu die Eintragung in das Grundbuch erforderlich ist und diese beim Grundbuchamt vor dem Wirksamwerden des Beitritts beantragt worden ist. Auf ein solches Recht ist § 3 Abs. 1 und 2 entsprechend anzuwenden. Ist die Eintragung einer Verfügung über ein Recht der in Satz 1 bezeichneten Art vor dem Wirksamwerden des Beitritts beim Grundbuchamt beantragt worden, so sind auf die Verfügung die am Tag vor dem Wirksamwerden des Beitritts geltenden Vorschriften anzuwenden.
 
-
-## § 8 – Rechtsverhältnisse nach § 459 des Zivilgesetzbuchs
+# § 8 – Rechtsverhältnisse nach § 459 des Zivilgesetzbuchs
 
 Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459 des Zivilgesetzbuchs der Deutschen Demokratischen Republik und der dazu ergangenen Ausführungsvorschriften am Ende des Tages vor dem Wirksamwerden des Beitritts bestehen, bleiben sie vorbehaltlich des § 2 und der im Sachenrechtsbereinigungsgesetz getroffenen Bestimmungen unberührt. Soweit Gebäudeeigentum besteht, sind die §§ 2b und 2c entsprechend anzuwenden.
 
-
-## § 9 – Rangbestimmung
+# § 9 – Rangbestimmung
 
 (1) Das Rangverhältnis der in § 3 Abs. 1 bezeichneten Rechte an Grundstücken bestimmt sich nach dem Zeitpunkt der Eintragung in das Grundbuch, soweit sich nicht im folgenden etwas anderes ergibt.
 
@@ -969,8 +877,7 @@ Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459 des Zivi
 
 (3) Der Vorrang von Aufbauhypotheken gemäß § 456 Abs. 3 des Zivilgesetzbuchs der Deutschen Demokratischen Republik in Verbindung mit § 3 des Gesetzes zur Änderung und Ergänzung des Zivilgesetzbuchs der Deutschen Demokratischen Republik vom 28. Juni 1990 (GBl. I Nr. 39 S. 524) bleibt unberührt. Der Vorrang kann für Zinsänderungen bis zu einem Gesamtumfang von 13 vom Hundert in Anspruch genommen werden. Die Stundungswirkung der Aufbauhypotheken gemäß § 458 des Zivilgesetzbuchs der Deutschen Demokratischen Republik in Verbindung mit § 3 des Gesetzes zur Änderung und Ergänzung des Zivilgesetzbuchs der Deutschen Demokratischen Republik vom 28. Juni 1990 (GBl. I Nr. 39 S. 524) entfällt. Diese Bestimmungen gelten für Aufbaugrundschulden entsprechend.
 
-
-## § 10 – Vertretungsbefugnis für Personenzusammenschlüsse alten Rechts
+# § 10 – Vertretungsbefugnis für Personenzusammenschlüsse alten Rechts
 
 (1) Steht ein dingliches Recht an einem Grundstück einem Personenzusammenschluß zu, dessen Mitglieder nicht namentlich im Grundbuch aufgeführt sind, ist die Gemeinde, in der das Grundstück liegt, vorbehaltlich einer anderweitigen landesgesetzlichen Regelung gesetzliche Vertreterin des Personenzusammenschlusses und dessen Mitglieder in Ansehung des Gemeinschaftsgegenstandes. Erstreckt sich das Grundstück auf verschiedene Gemeindebezirke, ermächtigt die Flurneuordnungsbehörde (§ 53 Abs. 4 des Landwirtschaftsanpassungsgesetzes) eine der Gemeinden zur Vertretung des Personenzusammenschlusses.
 
@@ -982,8 +889,7 @@ Soweit Rechtsverhältnisse und Ansprüche aufgrund des früheren § 459 des Zivi
 
 (5) Die Absätze 1 bis 4 gelten entsprechend, wenn im Grundbuch das Grundstück ohne Angabe eines Eigentümers als öffentliches bezeichnet wird.
 
-
-## § 11 – Grundsatz
+# § 11 – Grundsatz
 
 (1) Eigentümer eines Grundstücks, das im Grundbuch als Grundstück aus der Bodenreform gekennzeichnet ist oder war, ist der aus einem bestätigten Übergabe-Übernahme-Protokoll oder einer Entscheidung über einen Besitzwechsel nach der (Ersten) Verordnung über die Durchführung des Besitzwechsels bei Bodenreformgrundstücken vom 7. August 1975 (GBl. I Nr. 35 S. 629) in der Fassung der Zweiten Verordnung über die Durchführung des Besitzwechsels bei Bodenreformgrundstücken vom 7. Januar 1988 (GBl. I Nr. 3 S. 25) Begünstigte, wenn vor dem Ablauf des 2. Oktober 1990 bei dem Grundbuchamt ein nicht erledigtes Ersuchen oder ein nicht erledigter Antrag auf Vornahme der Eintragung eingegangen ist. Grundstücke aus der Bodenreform, die in Volkseigentum überführt worden sind, sind nach der Dritten Durchführungsverordnung zum Treuhandgesetz vom 29. August 1990 (GBl. I Nr. 57 S. 1333) zu behandeln, wenn vor dem Ablauf des 2. Oktober 1990 ein Ersuchen oder ein Antrag auf Eintragung als Eigentum des Volkes bei dem Grundbuchamt eingegangen ist.
 
@@ -1007,8 +913,7 @@ Auf die Gemeinschaft sind die Vorschriften des Fünfzehnten Titels des Zweiten B
 
 3. in den Fällen des Absatzes 2 Nr. 2 Fall 1 der Tod der als Eigentümer eingetragenen Person.
 
-
-## § 12 – Berechtigter
+# § 12 – Berechtigter
 
 (1) Berechtigter ist in den Fällen des § 11 Abs. 2 Satz 1 Nr. 1 und Nr. 2 Fall 2 in nachfolgender Reihenfolge:
 
@@ -1042,23 +947,19 @@ c) abweichend von den Vorschriften der Dritten Durchführungsverordnung zum Treu
 
 (5) Wenn Ansprüche nach den Absätzen 1 und 2 nicht bestehen, ist der Eigentümer nach § 11 verpflichtet, einem Mitnutzer im Umfang seiner Mitnutzung Miteigentum einzuräumen. Mitnutzer ist, wem in einem Wohnzwecken dienenden Gebäude auf einem Grundstück aus der Bodenreform Wohnraum zur selbständigen, gleichberechtigten und nicht nur vorübergehenden Nutzung zugewiesen wurde. Für den Mitnutzer gilt Absatz 4 sinngemäß. Der Anspruch besteht nicht, wenn die Einräumung von Miteigentum für den Eigentümer eine insbesondere unter Berücksichtigung der räumlichen Verhältnisse und dem Umfang der bisherigen Nutzung unbillige Härte bedeuten würde.
 
-
-## § 13 – Verfügungen des Eigentümers
+# § 13 – Verfügungen des Eigentümers
 
 Wird vor dem 3. Oktober 2000 die Berichtigung des Grundbuchs zugunsten desjenigen beantragt, der nach § 11 Abs. 2 Eigentümer ist, so übersendet das Grundbuchamt dem Fiskus des Landes, in dem das Grundstück liegt, eine Nachricht hiervon. Das gilt auch für Verfügungen, deren Eintragung dieser Eigentümer vor dem 3. Oktober 2000 beantragt oder beantragen läßt.
 
-
-## § 13a – Vormerkung zugunsten des Fiskus
+# § 13a – Vormerkung zugunsten des Fiskus
 
 Auf Ersuchen des Fiskus trägt das Grundbuchamt eine Vormerkung zur Sicherung von dessen Anspruch nach § 11 Abs. 3 ein. Die Vormerkung ist von Amts wegen zu löschen, wenn das Ersuchen durch das zuständige Verwaltungsgericht aufgehoben wird.
 
-
-## § 14 – Verjährung
+# § 14 – Verjährung
 
 Die Ansprüche nach den §§ 11 und 16 verjähren mit dem Ablauf des 2. Oktober 2000. Ist für einen Auflassungsanspruch eine Vormerkung nach § 13 in der bis zum 24. Juli 1997 geltenden Fassung eingetragen, verjährt der gesicherte Auflassungsanspruch innerhalb von 6 Monaten von der Eintragung der Vormerkung.
 
-
-## § 15 – Verbindlichkeiten
+# § 15 – Verbindlichkeiten
 
 (1) Auf den Eigentümer nach § 11 Abs. 2 gehen mit Inkrafttreten dieser Vorschriften Verbindlichkeiten über, soweit sie für Maßnahmen an dem Grundstück begründet worden sind. Sind solche Verbindlichkeiten von einem anderen als dem Eigentümer getilgt worden, so ist der Eigentümer diesem zum Ersatz verpflichtet, soweit die Mittel aus der Verbindlichkeit für das Grundstück verwendet worden sind. Der Berechtigte hat die in Satz 1 bezeichneten Verbindlichkeiten und Verpflichtungen zu übernehmen.
 
@@ -1066,8 +967,7 @@ Die Ansprüche nach den §§ 11 und 16 verjähren mit dem Ablauf des 2. Oktober 
 
 (3) Das Recht zur Aneignung steht im Fall des Absatzes 2 in dieser Reihenfolge dem nach § 12 Berechtigten, dem Fiskus des Landes, in dem das Grundstück liegt, und dem Gläubiger von Verbindlichkeiten nach Absatz 1 zu. Die Verbindlichkeiten gehen auf den nach § 12 Berechtigten oder den Fiskus des Landes, in dem das Grundstück liegt, über, wenn sie von ihren Aneignungsrechten Gebrauch machen. Der Gläubiger kann den nach § 12 Berechtigten und den Fiskus des Landes, in dem das Grundstück liegt, zum Verzicht auf ihr Aneignungsrecht auffordern. Der Verzicht gilt als erklärt, wenn innerhalb von drei Monaten ab Zugang eine Äußerung nicht erfolgt. Ist er wirksam, entfallen Ansprüche nach § 12. Ist der Verzicht erklärt oder gilt er als erklärt, so können andere Aneignungsberechtigte mit ihren Rechten im Wege des Aufgebotsverfahrens ausgeschlossen werden, wenn ein Jahr seit dem Verzicht verstrichen ist. Mit der Rechtskraft des Ausschließungsbeschlusses wird der beantragende Aneignungsberechtigte Eigentümer. Mehrere Gläubiger können ihre Rechte nur gemeinsam ausüben.
 
-
-## § 16 – Verhältnis zu anderen Vorschriften, Übergangsvorschriften
+# § 16 – Verhältnis zu anderen Vorschriften, Übergangsvorschriften
 
 (1) Die Vorschriften dieses Abschnitts lassen die Bestimmungen des Vermögensgesetzes sowie andere Vorschriften unberührt, nach denen die Aufhebung staatlicher Entscheidungen oder von Verzichtserklärungen oder die Rückübertragung von Vermögenswerten verlangt werden kann. Durch die Vorschriften dieses Abschnitts, insbesondere § 12 Abs. 2 Nr. 2 Buchstabe c, werden ferner nicht berührt die Vorschriften der Dritten Durchführungsverordnung zum Treuhandgesetz sowie Ansprüche nach Artikel 21 Abs. 3 und nach Artikel 22 Abs. 1 Satz 7 des Einigungsvertrages. Über die endgültige Aufteilung des Vermögens nach § 12 Abs. 2 Nr. 2 Buchstabe c wird durch besonderes Bundesgesetz entschieden.
 
@@ -1075,21 +975,17 @@ Die Ansprüche nach den §§ 11 und 16 verjähren mit dem Ablauf des 2. Oktober 
 
 (3) Ein Vermerk über die Beschränkungen des Eigentümers nach den Vorschriften über die Bodenreform kann von Amts wegen gelöscht werden.
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Das Vierte Buch des Bürgerlichen Gesetzbuchs gilt für alle familienrechtlichen Verhältnisse, die am Tag des Wirksamwerdens des Beitritts bestehen, soweit im folgenden nichts anderes bestimmt ist.
 
-
-## § 2 – Verlöbnis
+# § 2 – Verlöbnis
 
 Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die vor dem Wirksamwerden des Beitritts geschlossen worden sind.
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Eheliches Güterrecht
+# § 4 – Eheliches Güterrecht
 
 (1) Haben die Ehegatten am Tag des Wirksamwerdens des Beitritts im gesetzlichen Güterstand der Eigentums- und Vermögensgemeinschaft des Familiengesetzbuchs der Deutschen Demokratischen Republik gelebt, so gelten, soweit die Ehegatten nichts anderes vereinbart haben, von diesem Zeitpunkt an die Vorschriften über den gesetzlichen Güterstand der Zugewinngemeinschaft.
 
@@ -1103,8 +999,7 @@ Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die vor de
 
 (6) Für die Beurkundung der Erklärung nach Absatz 2 und der Anmeldung zum Güterrechtsregister sowie für die Eintragung in das Güterrechtsregister beträgt der Geschäftswert 3 000 Euro.
 
-
-## § 4a – Gemeinschaftliches Eigentum
+# § 4a – Gemeinschaftliches Eigentum
 
 (1) Haben die Ehegatten keine Erklärung nach § 4 Abs. 2 Satz 1 abgegeben, so wird gemeinschaftliches Eigentum von Ehegatten Eigentum zu gleichen Bruchteilen. Für Grundstücke und grundstücksgleiche Rechte können die Ehegatten andere Anteile bestimmen. Die Bestimmung ist binnen sechs Monaten nach Inkrafttreten dieser Vorschrift möglich und erfolgt mit dem Antrag auf Berichtigung des Grundbuchs. Dieser und die Bestimmung bedürfen nicht der in § 29 der Grundbuchordnung bestimmten Form. Das Wahlrecht nach Satz 2 erlischt, unbeschadet des Satzes 3 im übrigen, wenn die Zwangsversteigerung oder Zwangsverwaltung des Grundstücks oder grundstücksgleichen Rechts angeordnet oder wenn bei dem Grundbuchamt die Eintragung einer Zwangshypothek beantragt wird.
 
@@ -1112,13 +1007,11 @@ Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die vor de
 
 (3) Es wird widerleglich vermutet, daß gemeinschaftliches Eigentum von Ehegatten nach dem Familiengesetzbuch der Deutschen Demokratischen Republik Bruchteilseigentum zu ein halb Anteilen ist, sofern sich nicht aus dem Grundbuch andere Bruchteile ergeben oder aus dem Güterrechtsregister ergibt, daß eine Erklärung nach § 4 Abs. 2 und 3 abgegeben oder Gütergemeinschaft vereinbart worden ist.
 
-
-## § 5 – Unterhalt des geschiedenen Ehegatten
+# § 5 – Unterhalt des geschiedenen Ehegatten
 
 Für den Unterhaltsanspruch eines Ehegatten, dessen Ehe vor dem Wirksamwerden des Beitritts geschieden worden ist, bleibt das bisherige Recht maßgebend. Unterhaltsvereinbarungen bleiben unberührt.
 
-
-## § 6 – Versorgungsausgleich
+# § 6 – Versorgungsausgleich
 
 (1) Für Ehegatten, die vor dem grundsätzlichen Inkrafttreten der versicherungs- und rentenrechtlichen Vorschriften des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - in dem in Artikel 3 des Einigungsvertrages genannten Gebiet geschieden worden sind oder geschieden werden, gilt das Recht des Versorgungsausgleichs nicht. Wird die Ehe nach diesem Zeitpunkt geschieden, findet der Versorgungsausgleich insoweit nicht statt, als das auszugleichende Anrecht Gegenstand oder Grundlage einer vor dem Wirksamwerden des Beitritts geschlossenen wirksamen Vereinbarung oder gerichtlichen Entscheidung über die Vermögensverteilung war.
 
@@ -1130,8 +1023,7 @@ Für den Unterhaltsanspruch eines Ehegatten, dessen Ehe vor dem Wirksamwerden de
 
 in der jeweils geltenden Fassung.
 
-
-## § 7 – Abstammung
+# § 7 – Abstammung
 
 (1) Entscheidungen, die vor dem Wirksamwerden des Beitritts ergangen sind und feststellen, daß der Ehemann der Mutter nicht der Vater des Kindes ist, wer der Vater des Kindes ist oder daß eine Anerkennung der Vaterschaft unwirksam ist, bleiben unberührt. Dasselbe gilt für eine Anerkennung der Vaterschaft, die nach dem 31. März 1966 und vor dem Wirksamwerden des Beitritts wirksam geworden ist.
 
@@ -1141,24 +1033,19 @@ in der jeweils geltenden Fassung.
 
 (4) Andere als die in Absatz 1 genannten Entscheidungen und Erklärungen, die nach dem bisherigen Recht die Wirkung einer Vaterschaftsfeststellung haben, stehen einer Anerkennung der Vaterschaft im Sinne des Absatzes 1 Satz 2 gleich.
 
+# §§ 8 und 9 – (weggefallen)
 
-## §§ 8 und 9 – (weggefallen)
-
-
-## § 10 – Rechtsverhältnis zwischen den Eltern und dem Kind im allgemeinen
+# § 10 – Rechtsverhältnis zwischen den Eltern und dem Kind im allgemeinen
 
 Der Familienname eines vor dem Wirksamwerden des Beitritts geborenen Kindes bestimmt sich in Ansehung der bis zum Wirksamwerden des Beitritts eingetretenen namensrechtlichen Folgen nach dem bisherigen Recht.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
-
-
-## § 12 – Legitimation nichtehelicher Kinder
+# § 12 – Legitimation nichtehelicher Kinder
 
 Die Frist nach § 1740e Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs beginnt nicht vor dem Wirksamwerden des Beitritts.
 
-
-## § 13 – Annahme als Kind
+# § 13 – Annahme als Kind
 
 (1) Für Annahmeverhältnisse, die vor dem Wirksamwerden des Beitritts begründet worden sind, gelten § 1755 Abs. 1 Satz 2, die §§ 1756 und 1760 Abs. 2 Buchstabe e, § 1762 Abs. 2 und die §§ 1767 bis 1772 des Bürgerlichen Gesetzbuchs nicht. § 1766 des Bürgerlichen Gesetzbuchs gilt nicht, wenn die Ehe vor dem Wirksamwerden des Beitritts geschlossen worden ist.
 
@@ -1182,8 +1069,7 @@ so kann das Annahmeverhältnis gleichwohl auf Antrag dieses Elternteils aufgehob
 
 (7) Ist über die Klage eines leiblichen Elternteils auf Aufhebung eines Annahmeverhältnisses am Tag des Wirksamwerdens des Beitritts noch nicht rechtskräftig entschieden worden, so gilt die Klage als Antrag auf Aufhebung des Annahmeverhältnisses. § 1762 Abs. 3 des Bürgerlichen Gesetzbuchs gilt nicht.
 
-
-## § 14 – Vormundschaft
+# § 14 – Vormundschaft
 
 (1) Ab dem Wirksamwerden des Beitritts gelten für die bestehenden Vormundschaften und vorläufigen Vormundschaften die Vorschriften des Bürgerlichen Gesetzbuchs.
 
@@ -1197,40 +1083,33 @@ so kann das Annahmeverhältnis gleichwohl auf Antrag dieses Elternteils aufgehob
 
 (6) § 11 Abs. 4 gilt entsprechend.
 
-
-## § 15 – Pflegschaft
+# § 15 – Pflegschaft
 
 (1) Am Tag des Wirksamwerdens des Beitritts werden die bestehenden Pflegschaften zu den entsprechenden Pflegschaften nach dem Bürgerlichen Gesetzbuch. Der Wirkungskreis entspricht dem bisher festgelegten Wirkungskreis.
 
 (2) § 14 Abs. 2 bis 6 gilt entsprechend.
 
-
-## § 1 – Erbrechtliche Verhältnisse
+# § 1 – Erbrechtliche Verhältnisse
 
 Für die erbrechtlichen Verhältnisse bleibt das bisherige Recht maßgebend, wenn der Erblasser vor dem Wirksamwerden des Beitritts gestorben ist.
 
-
-## § 2 – Verfügungen von Todes wegen
+# § 2 – Verfügungen von Todes wegen
 
 Die Errichtung oder Aufhebung einer Verfügung von Todes wegen vor dem Wirksamwerden des Beitritts wird nach dem bisherigen Recht beurteilt, auch wenn der Erblasser nach dem Wirksamwerden des Beitritts stirbt. Dies gilt auch für die Bindung des Erblassers bei einem gemeinschaftlichen Testament, sofern das Testament vor dem Wirksamwerden des Beitritts errichtet worden ist.
 
-
-## § 1 – Abgeschlossene Vorgänge
+# § 1 – Abgeschlossene Vorgänge
 
 Auf vor dem Wirksamwerden des Beitritts abgeschlossene Vorgänge bleibt das bisherige Internationale Privatrecht anwendbar.
 
-
-## § 2 – Wirkungen familienrechtlicher Rechtsverhältnisse
+# § 2 – Wirkungen familienrechtlicher Rechtsverhältnisse
 
 Die Wirkungen familienrechtlicher Rechtsverhältnisse unterliegen von dem Wirksamwerden des Beitritts an den Vorschriften des Zweiten Kapitels des Ersten Teils.
 
-
-## § 3 – Güterstand
+# § 3 – Güterstand
 
 Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritts geschlossen worden sind, unterliegen von diesem Tag an dem Artikel 15 in der bis einschließlich 28. Januar 2019 geltenden Fassung; dabei tritt an die Stelle des Zeitpunkts der Eheschließung der Tag des Wirksamwerdens des Beitritts. Soweit sich allein aus einem Wechsel des anzuwendenden Rechts nach Satz 1 Ansprüche wegen der Beendigung des früheren Güterstandes ergeben würden, gelten sie bis zum Ablauf von zwei Jahren nach Wirksamwerden des Beitritts als gestundet.
 
-
-## § 1 – Bestandsschutz
+# § 1 – Bestandsschutz
 
 (1) Fehler bei dem Ankauf, der Enteignung oder der sonstigen Überführung eines Grundstücks oder selbständigen Gebäudeeigentums in Volkseigentum sind nur zu beachten, wenn das Grundstück oder selbständige Gebäudeeigentum nach den allgemeinen Rechtsvorschriften, Verfahrensgrundsätzen und der ordnungsgemäßen Verwaltungspraxis, die im Zeitpunkt der Überführung in Volkseigentum hierfür maßgeblich waren (§ 4 Abs. 3 Buchstabe a Halbsatz 1 des Vermögensgesetzes), nicht wirksam in Volkseigentum hätte überführt werden können oder wenn die mögliche Überführung in Volkseigentum mit rechtsstaatlichen Grundsätzen schlechthin unvereinbar war. Mit rechtsstaatlichen Grundsätzen schlechthin unvereinbar sind Maßnahmen, die in schwerwiegender Weise gegen die Prinzipien der Gerechtigkeit, der Rechtssicherheit oder der Verhältnismäßigkeit verstoßen oder Willkürakte im Einzelfall dargestellt haben.
 
@@ -1238,8 +1117,7 @@ Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritt
 
 (3) Für Sachverhalte, die einen Tatbestand des § 1 des Vermögensgesetzes erfüllen, gelten die vorstehenden Absätze nicht; hier gilt das Vermögensgesetz.
 
-
-## § 2 – Ausschlußfrist
+# § 2 – Ausschlußfrist
 
 (1) Wer als Eigentümer eines Grundstücks oder Gebäudes im Grundbuch eingetragen ist, ohne daß er das Eigentum erlangt hat, erwirbt das Eigentum, wenn die Eintragung vor dem 3. Oktober 1990 erfolgt ist und sie bis zum Ablauf des 30. September 1998 nicht durch eine rechtshängige Klage des wirklichen Eigentümers oder einen beim Grundbuchamt eingereichten und durch eine Bewilligung des eingetragenen Eigentümers oder die einstweilige Verfügung eines Gerichts begründeten Antrag auf Eintragung eines Widerspruchs angegriffen worden ist. Zwischenzeitliche Verfügungen über das Grundstück bleiben unberührt. Wird der Widerspruch gelöscht, ist die rechtzeitige Erhebung der Klage erforderlich. Gegen die unverschuldete Versäumung der Frist kann Wiedereinsetzung in den vorigen Stand nach den §§ 233 bis 238 der Zivilprozeßordnung gewährt werden.
 
@@ -1251,8 +1129,7 @@ Die güterrechtlichen Wirkungen von Ehen, die vor dem Wirksamwerden des Beitritt
 
 (5) Die vorstehenden Absätze finden keine Anwendung, wenn die Betroffenen vor dem 24. Juli 1997 etwas Abweichendes vereinbart haben oder zwischen ihnen abweichende Urteile ergangen sind.
 
-
-## § 1 – Moratorium
+# § 1 – Moratorium
 
 (1) Ein Verbraucher hat das Recht, Leistungen zur Erfüllung eines Anspruchs, der im Zusammenhang mit einem Verbrauchervertrag steht, der ein Dauerschuldverhältnis ist und vor dem 8. März 2020 geschlossen wurde, bis zum 30. Juni 2020 zu verweigern, wenn dem Verbraucher infolge von Umständen, die auf die Ausbreitung der Infektionen mit dem SARS-CoV-2-Virus (COVID-19-Pandemie) zurückzuführen sind, die Erbringung der Leistung ohne Gefährdung seines angemessenen Lebensunterhalts oder des angemessenen Lebensunterhalts seiner unterhaltsberechtigten Angehörigen nicht möglich wäre. Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschuldverhältnisse. Wesentliche Dauerschuldverhältnisse sind solche, die zur Eindeckung mit Leistungen der angemessenen Daseinsvorsorge erforderlich sind.
 
@@ -1274,8 +1151,7 @@ Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschu
 
 (5) Von den Absätzen 1 und 2 kann nicht zum Nachteil des Schuldners abgewichen werden.
 
-
-## § 2 – Beschränkung der Kündigung von Miet- und Pachtverhältnissen
+# § 2 – Beschränkung der Kündigung von Miet- und Pachtverhältnissen
 
 (1) Der Vermieter kann ein Mietverhältnis über Grundstücke oder über Räume nicht allein aus dem Grund kündigen, dass der Mieter im Zeitraum vom 1. April 2020 bis 30. Juni 2020 trotz Fälligkeit die Miete nicht leistet, sofern die Nichtleistung auf den Auswirkungen der COVID-19-Pandemie beruht. Der Zusammenhang zwischen COVID-19-Pandemie und Nichtleistung ist glaubhaft zu machen. Sonstige Kündigungsrechte bleiben unberührt.
 
@@ -1285,8 +1161,7 @@ Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschu
 
 (4) Die Absätze 1 bis 3 sind nur bis zum 30. Juni 2022 anzuwenden.
 
-
-## § 3 – Regelungen zum Darlehensrecht
+# § 3 – Regelungen zum Darlehensrecht
 
 (1) Für Verbraucherdarlehensverträge, die vor dem 15. März 2020 abgeschlossen wurden, gilt, dass Ansprüche des Darlehensgebers auf Rückzahlung, Zins- oder Tilgungsleistungen, die zwischen dem 1. April 2020 und dem 30. Juni 2020 fällig werden, mit Eintritt der Fälligkeit für die Dauer von drei Monaten gestundet werden, wenn der Verbraucher aufgrund der durch Ausbreitung der COVID-19-Pandemie hervorgerufenen außergewöhnlichen Verhältnisse Einnahmeausfälle hat, die dazu führen, dass ihm die Erbringung der geschuldeten Leistung nicht zumutbar ist. Nicht zumutbar ist ihm die Erbringung der Leistung insbesondere dann, wenn sein angemessener Lebensunterhalt oder der angemessene Lebensunterhalt seiner Unterhaltsberechtigten gefährdet ist. Der Verbraucher ist berechtigt, in dem in Satz 1 genannten Zeitraum seine vertraglichen Zahlungen zu den ursprünglich vereinbarten Leistungsterminen weiter zu erbringen. Soweit er die Zahlungen vertragsgemäß weiter leistet, gilt die in Satz 1 geregelte Stundung als nicht erfolgt.
 
@@ -1304,8 +1179,7 @@ Das Leistungsverweigerungsrecht besteht in Bezug auf alle wesentlichen Dauerschu
 
 (8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und ohne Zustimmung des Bundesrates den personellen Anwendungsbereich der Absätze 1 bis 7 zu ändern und insbesondere Kleinstunternehmen im Sinne von Artikel 2 Absatz 3 des Anhangs der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen in den Anwendungsbereich einzubeziehen.
 
-
-## § 4 – Verordnungsermächtigung
+# § 4 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -1319,8 +1193,7 @@ wenn zu erwarten ist, dass das soziale Leben, die wirtschaftliche Tätigkeit ein
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundestages und ohne Zustimmung des Bundesrates die in Absatz 1 genannten Fristen über den 30. September 2020 hinaus zu verlängern, wenn die Beeinträchtigungen auch nach Inkrafttreten der Rechtsverordnung nach Absatz 1 fortbestehen.
 
-
-## § 5 – Gutschein für Freizeitveranstaltungen und Freizeiteinrichtungen
+# § 5 – Gutschein für Freizeitveranstaltungen und Freizeiteinrichtungen
 
 (1) Wenn eine Musik-, Kultur-, Sport- oder sonstige Freizeitveranstaltung aufgrund der COVID-19-Pandemie nicht stattfinden konnte oder kann, ist der Veranstalter berechtigt, dem Inhaber einer vor dem 8. März 2020 erworbenen Eintrittskarte oder sonstigen Teilnahmeberechtigung anstelle einer Erstattung des Eintrittspreises oder sonstigen Entgelts einen Gutschein zu übergeben. Umfasst eine solche Eintrittskarte oder sonstige Berechtigung die Teilnahme an mehreren Freizeitveranstaltungen und konnte oder kann nur ein Teil dieser Veranstaltungen stattfinden, ist der Veranstalter berechtigt, dem Inhaber einen Gutschein in Höhe des Wertes des nicht genutzten Teils zu übergeben.
 
@@ -1340,8 +1213,7 @@ wenn zu erwarten ist, dass das soziale Leben, die wirtschaftliche Tätigkeit ein
 
 2. er den Gutschein bis zum 31. Dezember 2021 nicht eingelöst hat.
 
-
-## § 6 – Reisegutschein; Verordnungsermächtigung
+# § 6 – Reisegutschein; Verordnungsermächtigung
 
 (1) Tritt der Reisende oder der Reiseveranstalter wegen der COVID-19-Pandemie nach § 651h Absatz 1, 3 und 4 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs von einem Pauschalreisevertrag zurück, der vor dem 8. März 2020 geschlossen wurde, so kann der Reiseveranstalter dem Reisenden statt der Rückerstattung des Reisepreises einen Reisegutschein anbieten. Diese Möglichkeit hat der Reiseveranstalter auch dann, wenn der Reisende oder der Reiseveranstalter den Rücktritt unter den Voraussetzungen des Satzes 1 vor dem Tag erklärt hat, an dem diese Vorschrift gemäß Artikel 3 Absatz 1 Satz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1643) in Kraft getreten ist, und der Reiseveranstalter den Reisepreis nicht bereits zurückgezahlt hat. Der Reisende hat die Wahl, ob er das Angebot des Reiseveranstalters annimmt oder sein Recht auf Rückerstattung des Reisepreises ausübt. Auf dieses Wahlrecht hat der Reiseveranstalter ihn bei seinem Angebot hinzuweisen. Hat der Reisende schon vor dem Tag, an dem diese Vorschrift gemäß Artikel 3 Absatz 1 Satz 1 des Gesetzes vom 10. Juli 2020 (BGBl. I S. 1643) in Kraft getreten ist, ein Angebot des Reiseveranstalters angenommen, das unter den Voraussetzungen des Satzes 1 unterbreitet wurde, so kann er von dem Reiseveranstalter verlangen, dass der Gutschein an die Vorgaben der Absätze 2 und 3 angepasst oder in einen Gutschein umgetauscht wird, der den Vorgaben der Absätze 2 und 3 entspricht.
 
@@ -1371,15 +1243,13 @@ wenn zu erwarten ist, dass das soziale Leben, die wirtschaftliche Tätigkeit ein
 
 (10) Der Reiseveranstalter kann sich gegenüber dem Reisevermittler nur darauf berufen, dass der vermittelte Pauschalreisevertrag nicht mehr besteht, wenn er den Wert des Reisegutscheins auszuzahlen hat.
 
-
-## § 7 – Störung der Geschäftsgrundlage von Miet-  und Pachtverträgen
+# § 7 – Störung der Geschäftsgrundlage von Miet-  und Pachtverträgen
 
 (1) Sind vermietete Grundstücke oder vermietete Räume, die keine Wohnräume sind, infolge staatlicher Maßnahmen zur Bekämpfung der COVID-19-Pandemie für den Betrieb des Mieters nicht oder nur mit erheblicher Einschränkung verwendbar, so wird vermutet, dass sich insofern ein Umstand im Sinne des § 313 Absatz 1 des Bürgerlichen Gesetzbuchs, der zur Grundlage des Mietvertrags geworden ist, nach Vertragsschluss schwerwiegend verändert hat.
 
 (2) Absatz 1 ist auf Pachtverträge entsprechend anzuwenden.
 
-
-## § 1 – Vorvertragliche und vertragliche Pflichtangaben
+# § 1 – Vorvertragliche und vertragliche Pflichtangaben
 
 (1) Als vorvertragliche Informationen nach § 482 Absatz 1 des Bürgerlichen Gesetzbuchs für den Abschluss eines Teilzeit-Wohnrechtevertrags, eines Vertrags über ein langfristiges Urlaubsprodukt, eines Vermittlungsvertrags oder eines Tauschsystemvertrags sind die Angaben nach den Anhängen der Richtlinie 2008/122/EG des Europäischen Parlaments und des Rates vom 14. Januar 2009 über den Schutz der Verbraucher im Hinblick auf bestimmte Aspekte von Teilzeitnutzungsverträgen, Verträgen über langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen (ABl. L 33 vom 3.2.2009, S. 10) in leicht zugänglicher Form zur Verfügung zu stellen, und zwar
 
@@ -1393,13 +1263,11 @@ wenn zu erwarten ist, dass das soziale Leben, die wirtschaftliche Tätigkeit ein
 
 (2) Die Angaben in den Teilen 1 und 2 der Anhänge nach Absatz 1 Nummer 1 bis 4 sind in einem Formblatt nach den in den Anhängen enthaltenen Mustern zur Verfügung zu stellen. Die Angaben nach Teil 3 des Anhangs können in das Formblatt aufgenommen oder auf andere Weise zur Verfügung gestellt werden. Werden sie nicht in das Formblatt aufgenommen, ist auf dem Formblatt darauf hinzuweisen, wo die Angaben zu finden sind.
 
-
-## § 2 – Informationen über das Widerrufsrecht
+# § 2 – Informationen über das Widerrufsrecht
 
 Einem Teilzeit-Wohnrechtevertrag, einem Vertrag über ein langfristiges Urlaubsprodukt, einem Vermittlungsvertrag oder einem Tauschsystemvertrag ist ein Formblatt gemäß dem Muster in Anhang V der Richtlinie 2008/122/EG des Europäischen Parlaments und des Rates vom 14. Januar 2009 über den Schutz der Verbraucher im Hinblick auf bestimmte Aspekte von Teilzeitnutzungsverträgen, Verträgen über langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen (ABl. L 33 vom 3.2.2009, S. 10) in der Sprache nach § 483 Absatz 1 des Bürgerlichen Gesetzbuchs beizufügen, in das die einschlägigen Informationen zum Widerrufsrecht deutlich und verständlich eingefügt sind.
 
-
-## § 1 – Informationspflichten
+# § 1 – Informationspflichten
 
 (1) Der Unternehmer ist nach § 312d Absatz 1 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher folgende Informationen zur Verfügung zu stellen:
 
@@ -1453,8 +1321,7 @@ Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das 
 
 2. das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Nummer 3, 4 und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs vorzeitig erlöschen kann, über die Umstände, unter denen der Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
 
-
-## § 2 – Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten
+# § 2 – Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten
 
 (1) Hat der Verbraucher bei einem Vertrag über Reparatur- und Instandhaltungsarbeiten, der außerhalb von Geschäftsräumen geschlossen wird, bei dem die beiderseitigen Leistungen sofort erfüllt werden und die vom Verbraucher zu leistende Vergütung 200 Euro nicht übersteigt, ausdrücklich die Dienste des Unternehmers angefordert, muss der Unternehmer dem Verbraucher lediglich folgende Informationen zur Verfügung stellen:
 
@@ -1472,8 +1339,7 @@ Der Unternehmer kann diese Informationspflichten dadurch erfüllen, dass er das 
 
 (3) Eine vom Unternehmer zur Verfügung gestellte Abschrift oder Bestätigung des Vertrags nach § 312f Absatz 1 des Bürgerlichen Gesetzbuchs muss alle nach § 1 zu erteilenden Informationen enthalten.
 
-
-## § 3 – Erleichterte Informationspflichten bei begrenzter Darstellungsmöglichkeit
+# § 3 – Erleichterte Informationspflichten bei begrenzter Darstellungsmöglichkeit
 
 Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen werden, das nur begrenzten Raum oder begrenzte Zeit für die dem Verbraucher zu erteilenden Informationen bietet, ist der Unternehmer verpflichtet, dem Verbraucher mittels dieses Fernkommunikationsmittels zumindest folgende Informationen zur Verfügung zu stellen:
 
@@ -1489,8 +1355,7 @@ Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels geschlossen w
 
 Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter Weise unter Beachtung von § 4 Absatz 3 zugänglich zu machen.
 
-
-## § 4 – Formale Anforderungen an die Erfüllung der Informationspflichten
+# § 4 – Formale Anforderungen an die Erfüllung der Informationspflichten
 
 (1) Der Unternehmer muss dem Verbraucher die Informationen nach den §§ 1 bis 3 vor Abgabe von dessen Vertragserklärung in klarer und verständlicher Weise zur Verfügung stellen.
 
@@ -1498,8 +1363,7 @@ Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter
 
 (3) Bei einem Fernabsatzvertrag muss der Unternehmer dem Verbraucher die Informationen in einer den benutzten Fernkommunikationsmitteln angepassten Weise zur Verfügung stellen. Soweit die Informationen auf einem dauerhaften Datenträger zur Verfügung gestellt werden, müssen sie lesbar sein, und die Person des erklärenden Unternehmers muss genannt sein. Abweichend von Satz 1 kann der Unternehmer dem Verbraucher die in § 3 Satz 2 genannten Informationen in geeigneter Weise zugänglich machen.
 
-
-## § 1 – Informationspflichten
+# § 1 – Informationspflichten
 
 (1) Der Unternehmer ist nach § 312d Absatz 2 des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung klar und verständlich und unter Angabe des geschäftlichen Zwecks, bei Fernabsatzverträgen in einer dem benutzten Fernkommunikationsmittel angepassten Weise, folgende Informationen zur Verfügung zu stellen:
 
@@ -1555,8 +1419,7 @@ Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in geeigneter
 
 Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber informiert hat, dass auf Wunsch weitere Informationen übermittelt werden können und welcher Art diese Informationen sind, und der Verbraucher ausdrücklich auf die Übermittlung der weiteren Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
 
-
-## § 2 – Weitere Informationspflichten
+# § 2 – Weitere Informationspflichten
 
 (1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung die folgenden Informationen auf einem dauerhaften Datenträger mitzuteilen:
 
@@ -1570,8 +1433,7 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 
 (3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1 Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen eines Widerrufsrechts kann der Unternehmer dem Verbraucher das in der Anlage 3 vorgesehene Muster für die Widerrufsbelehrung bei Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform übermitteln.
 
-
-## § 1 – Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
+# § 1 – Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
 
 (1) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der Darlehensgeber dem Darlehensnehmer mitteilen, welche Informationen und Nachweise er innerhalb welchen Zeitraums von ihm benötigt, um eine ordnungsgemäße Kreditwürdigkeitsprüfung durchführen zu können. Er hat den Darlehensnehmer darauf hinzuweisen, dass eine Kreditwürdigkeitsprüfung für den Abschluss des Darlehensvertrags zwingend ist und nur durchgeführt werden kann, wenn die hierfür benötigten Informationen und Nachweise richtig sind und vollständig beigebracht werden.
 
@@ -1581,8 +1443,7 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 
 (4) Wenn der Darlehensgeber entscheidet, den Darlehensvertrag nicht abzuschließen, muss er dies dem Darlehensnehmer unverzüglich mitteilen.
 
-
-## § 2 – Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensverträgen
+# § 2 – Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensverträgen
 
 (1) Bei einem Allgemein-Verbraucherdarlehensvertrag muss der Darlehensgeber den Darlehensnehmer über die Einzelheiten nach den §§ 3 bis 5 und 8 bis 13 unterrichten, und zwar rechtzeitig vor Abgabe der Vertragserklärung des Darlehensnehmers. Die Unterrichtung erfolgt in Textform.
 
@@ -1592,8 +1453,7 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 
 (4) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des Bürgerlichen Gesetzbuchs gilt als erfüllt, wenn der Darlehensgeber dem Darlehensnehmer das ordnungsgemäß ausgefüllte Muster in Textform übermittelt hat. Ist der Darlehensvertrag zugleich ein Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener Vertrag, gelten mit der Übermittlung des entsprechenden ausgefüllten Musters auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen Gesetzbuchs als erfüllt. Die in diesem Absatz genannten Verpflichtungen gelten bis 31. Dezember 2010 auch bei Übermittlung des Musters in den Anlagen 4 und 5 in der Fassung des Gesetzes zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355) als erfüllt.
 
-
-## § 3 – Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
+# § 3 – Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
 (1) Die Unterrichtung vor Vertragsschluss muss folgende Informationen enthalten:
 
@@ -1635,8 +1495,7 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 
 (4) Die Angabe zum Sollzinssatz muss die Bedingungen und den Zeitraum für seine Anwendung sowie die Art und Weise seiner Anpassung enthalten. Ist der Sollzinssatz von einem Index oder Referenzzinssatz abhängig, sind diese anzugeben. Sieht der Verbraucherdarlehensvertrag mehrere Sollzinssätze vor, sind die Angaben für alle Sollzinssätze zu erteilen. Sind im Fall des Satzes 3 Teilzahlungen vorgesehen, ist anzugeben, in welcher Reihenfolge die ausstehenden Forderungen des Darlehensgebers, für die unterschiedliche Sollzinssätze gelten, durch die Teilzahlungen getilgt werden.
 
-
-## § 4 – Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
+# § 4 – Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
 (1) Die Unterrichtung muss bei Allgemein-Verbraucherdarlehensverträgen folgende Angaben enthalten, soweit sie für den in Betracht kommenden Vertragsabschluss erheblich sind:
 
@@ -1652,15 +1511,13 @@ Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter Verwendun
 
 (3) Wird in einem Allgemein-Verbraucherdarlehensvertrag auf einen Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung (EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni 2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als Referenzwert oder zur Messung der Wertentwicklung eines Investmentfonds verwendet werden, und zur Änderung der Richtlinien 2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl. L 171 vom 29.6.2016, S. 1) Bezug genommen, teilt der Darlehensgeber dem Darlehensnehmer in einem gesonderten Dokument, das dem Formular „Europäische Standardinformationen für Verbraucherkredite“ beigefügt werden kann, die Bezeichnung des Referenzwerts und den Namen des Administrators sowie die möglichen Auswirkungen auf den Darlehensnehmer mit.
 
-
-## § 5 – Information bei besonderen Kommunikationsmitteln
+# § 5 – Information bei besonderen Kommunikationsmitteln
 
 (1) Wählt der Darlehensnehmer für die Vertragsanbahnung bei Allgemein-Verbraucherdarlehensverträgen Kommunikationsmittel, die die Übermittlung der vorstehenden Informationen in der in § 2 vorgesehenen Form nicht gestatten, ist die vollständige Unterrichtung nach § 2 unverzüglich nachzuholen. Bei Telefongesprächen muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4 enthalten.
 
 (2) Bei Telefongesprächen, die sich auf Immobiliar-Verbraucherdarlehensverträge beziehen, muss die Beschreibung der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5 zumindest die Angaben nach Teil A Abschnitt 3 bis 6 des ESIS-Merkblatts gemäß dem Muster in Anlage 6 enthalten.
 
-
-## § 6 – Vertragsinhalt
+# § 6 – Vertragsinhalt
 
 (1) Der Verbraucherdarlehensvertrag muss klar und verständlich folgende Angaben enthalten:
 
@@ -1682,8 +1539,7 @@ Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend von Satz 1 nur 
 
 (3) Bei Allgemein-Verbraucherdarlehensverträgen hat die Angabe des Gesamtbetrags und des effektiven Jahreszinses unter Angabe der Annahmen zu erfolgen, die zum Zeitpunkt des Abschlusses des Vertrags bekannt sind und die in die Berechnung des effektiven Jahreszinses einfließen.
 
-
-## § 7 – Weitere Angaben im Vertrag
+# § 7 – Weitere Angaben im Vertrag
 
 (1) Der Allgemein-Verbraucherdarlehensvertrag muss folgende klar und verständlich formulierte weitere Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
 
@@ -1701,8 +1557,7 @@ Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend von Satz 1 nur 
 
 2. bei einem Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung auch die sich aus den §§ 503 und 493 Absatz 4 des Bürgerlichen Gesetzbuchs ergebenden Rechte des Darlehensnehmers.
 
-
-## § 8 – Verträge mit Zusatzleistungen
+# § 8 – Verträge mit Zusatzleistungen
 
 (1) Verlangt der Darlehensgeber zum Abschluss eines Allgemein-Verbraucherdarlehensvertrags, dass der Darlehensnehmer zusätzliche Leistungen des Darlehensgebers annimmt oder einen weiteren Vertrag abschließt, insbesondere einen Versicherungsvertrag oder Kontoführungsvertrag, hat der Darlehensgeber dies zusammen mit der vorvertraglichen Information anzugeben. In der vorvertraglichen Information sind Kontoführungsgebühren sowie die Bedingungen, unter denen sie angepasst werden können, anzugeben.
 
@@ -1710,11 +1565,9 @@ Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend von Satz 1 nur 
 
 (3) Dienen die vom Darlehensnehmer geleisteten Zahlungen nicht der unmittelbaren Darlehenstilgung, sind die Zeiträume und Bedingungen für die Zahlung der Sollzinsen und der damit verbundenen wiederkehrenden und nicht wiederkehrenden Kosten im Verbraucherdarlehensvertrag aufzustellen. Verpflichtet sich der Darlehensnehmer mit dem Abschluss eines Verbraucherdarlehensvertrags auch zur Vermögensbildung, muss aus der vorvertraglichen Information und aus dem Verbraucherdarlehensvertrag klar und verständlich hervorgehen, dass weder die während der Vertragslaufzeit fälligen Zahlungsverpflichtungen noch die Ansprüche, die der Darlehensnehmer aus der Vermögensbildung erwirbt, die Tilgung des Darlehens gewährleisten, es sei denn, dies wird vertraglich vereinbart.
 
+# § 9 – (weggefallen)
 
-## § 9 – (weggefallen)
-
-
-## § 10 – Abweichende Mitteilungspflichten bei Überziehungsmöglichkeiten gemäß § 504 Abs. 2 des Bürgerlichen Gesetzbuchs
+# § 10 – Abweichende Mitteilungspflichten bei Überziehungsmöglichkeiten gemäß § 504 Abs. 2 des Bürgerlichen Gesetzbuchs
 
 (1) Bei Überziehungsmöglichkeiten im Sinne des § 504 Abs. 2 des Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
 
@@ -1740,8 +1593,7 @@ d) gegebenenfalls der Hinweis nach Nummer 1 Buchstabe c.
 
 (3) Die Angabe des effektiven Jahreszinses ist entbehrlich, wenn der Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt und die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden.
 
-
-## § 11 – Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs
+# § 11 – Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs
 
 (1) Bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
 
@@ -1765,8 +1617,7 @@ b) die Angaben nach § 6 Abs. 1 Nr. 2 bis 4 und 6.
 
 (3) Wird ein Verbraucherdarlehensvertrag gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des § 504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt § 10. Die Absätze 1 und 2 sind nicht anzuwenden.
 
-
-## § 12 – Verbundene Verträge und entgeltliche Finanzierungshilfen
+# § 12 – Verbundene Verträge und entgeltliche Finanzierungshilfen
 
 (1) Die §§ 1 bis 11 gelten entsprechend für die in § 506 Absatz 1 des Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche Finanzierungshilfen. Bei diesen Verträgen oder Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß § 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen eine Ware oder Leistung gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen Gesetzbuchs angegeben ist, muss enthalten:
 
@@ -1782,8 +1633,7 @@ Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener
 
 (2) Bei Verträgen gemäß § 506 Absatz 2 Satz 1 Nummer 3 des Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14, § 4 Abs. 1 Nr. 3 und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist nicht anzuwenden. Hat der Unternehmer den Gegenstand für den Verbraucher erworben, tritt an die Stelle des Barzahlungspreises der Anschaffungspreis.
 
-
-## § 13 – Darlehensvermittler bei Verbraucherdarlehensverträgen
+# § 13 – Darlehensvermittler bei Verbraucherdarlehensverträgen
 
 (1) Ist bei der Anbahnung oder beim Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so ist der Vertragsinhalt nach § 6 Abs. 1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers zu ergänzen.
 
@@ -1803,13 +1653,11 @@ Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des Bürgerlichen Ges
 
 (4) Wirbt der Darlehensvermittler gegenüber einem Verbraucher für den Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über eine entgeltliche Finanzierungshilfe, so hat er hierbei die Angaben nach Absatz 2 Satz 1 Nummer 3 einzubeziehen.
 
-
-## § 13a – Besondere Regelungen für Darlehensvermittler bei Allgemein-Verbraucherdarlehensverträgen
+# § 13a – Besondere Regelungen für Darlehensvermittler bei Allgemein-Verbraucherdarlehensverträgen
 
 Ist bei der Anbahnung oder beim Abschluss eines Allgemein-Verbraucherdarlehensvertrags oder eines Vertrags über eine entsprechende entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so sind die vorvertraglichen Informationen nach § 3 Absatz 1 Nummer 1 um den Namen und die Anschrift des beteiligten Darlehensvermittlers zu ergänzen.
 
-
-## § 13b – Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
+# § 13b – Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
 
 (1) Bei der Vermittlung von Immobiliar-Verbraucherdarlehensverträgen muss der Darlehensvermittler mit der Unterrichtung nach § 13 Absatz 2 Folgendes zusätzlich mitteilen:
 
@@ -1833,8 +1681,7 @@ Beginnt der Darlehensvermittler seine Vermittlungstätigkeit vor Abschluss des V
 
 (3) Bietet der Darlehensvermittler im Zusammenhang mit der Vermittlung eines Immobiliar-Verbraucherdarlehensvertrags Beratungsleistungen an, gilt § 18 entsprechend.
 
-
-## § 14 – Tilgungsplan
+# § 14 – Tilgungsplan
 
 (1) Verlangt der Darlehensnehmer nach § 492 Abs. 3 Satz 2 des Bürgerlichen Gesetzbuchs einen Tilgungsplan, muss aus diesem hervorgehen, welche Zahlungen in welchen Zeitabständen zu leisten sind und welche Bedingungen für diese Zahlungen gelten. Dabei ist aufzuschlüsseln, in welcher Höhe die Teilzahlungen auf das Darlehen, die nach dem Sollzinssatz berechneten Zinsen und die sonstigen Kosten angerechnet werden.
 
@@ -1842,8 +1689,7 @@ Beginnt der Darlehensvermittler seine Vermittlungstätigkeit vor Abschluss des V
 
 (3) Der Tilgungsplan ist dem Darlehensnehmer auf einem dauerhaften Datenträger zur Verfügung zu stellen. Der Anspruch erlischt nicht, solange das Vertragsverhältnis besteht.
 
-
-## § 15 – Unterrichtungen bei Zinsanpassungen
+# § 15 – Unterrichtungen bei Zinsanpassungen
 
 (1) Eine Zinsanpassung in einem Verbraucherdarlehensvertrag oder einem Vertrag über eine entgeltliche Finanzierungshilfe wird erst wirksam, nachdem der Darlehensgeber den Darlehensnehmer über
 
@@ -1859,8 +1705,7 @@ unterrichtet hat.
 
 (3) Werden bei einem Immobiliar-Verbraucherdarlehensvertrag Änderungen des Sollzinssatzes im Wege der Versteigerung auf den Kapitalmärkten festgelegt und kann der Darlehensgeber den Darlehensnehmer daher nicht vor dem Wirksamwerden der Änderung über diese in Kenntnis setzen, so hat der Darlehensgeber den Darlehensnehmer abweichend von Absatz 1 rechtzeitig vor der Versteigerung über das bevorstehende Verfahren zu unterrichten und darauf hinzuweisen, wie sich die Versteigerung auf den Sollzinssatz auswirken könnte.
 
-
-## § 16 – Unterrichtung bei Überziehungsmöglichkeiten
+# § 16 – Unterrichtung bei Überziehungsmöglichkeiten
 
 Die Unterrichtung nach § 504 Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs muss folgende Angaben enthalten:
 
@@ -1880,8 +1725,7 @@ Die Unterrichtung nach § 504 Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs muss f
 
 8. den gegebenenfalls zurückzuzahlenden Mindestbetrag.
 
-
-## § 17 – Angaben bei geduldeten Überziehungen
+# § 17 – Angaben bei geduldeten Überziehungen
 
 (1) Die Unterrichtung nach § 505 Abs. 1 des Bürgerlichen Gesetzbuchs muss folgende Angaben enthalten:
 
@@ -1899,8 +1743,7 @@ Die Unterrichtung nach § 504 Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs muss f
 
 4. etwaige Vertragsstrafen, Kosten und Verzugszinsen.
 
-
-## § 18 – Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
+# § 18 – Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
 
 (1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-Verbraucherdarlehensvertrag erbringt oder einen entsprechenden Beratungsvertrag schließt, hat er den Darlehensnehmer darüber zu informieren,
 
@@ -1916,8 +1759,7 @@ Lässt sich die Höhe des Entgelts nach Satz 1 Nummer 1 noch nicht bestimmen, is
 
 (2) Die Informationen sind auf einem dauerhaften Datenträger zu übermitteln; sie können in der gleichen Art und Weise wie weitere vorvertragliche Informationen gemäß § 1 Absatz 3 Satz 1 erteilt werden.
 
-
-## § 1 – Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
+# § 1 – Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
 
 (1) Unternehmer, die den Abschluss von Immobiliar-Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
 
@@ -1955,8 +1797,7 @@ Werden Verträge in einer anderen Währung als der Landeswährung des Darlehensn
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Abschluss von Verträgen über entgeltliche Finanzierungshilfen gemäß § 506 Absatz 1 Satz 2 und 3 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs angeboten wird.
 
-
-## § 2 – Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
+# § 2 – Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
 
 (1) Unternehmer, die den Abschluss von Verträgen über die Einräumung von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
 
@@ -1964,23 +1805,19 @@ Werden Verträge in einer anderen Währung als der Landeswährung des Darlehensn
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Unternehmer, die den Abschluss von Entgeltvereinbarungen für die Duldung von Überziehungen gemäß § 505 des Bürgerlichen Gesetzbuchs anbieten.
 
-
-## § 1 – Konkurrierende Informationspflichten
+# § 1 – Konkurrierende Informationspflichten
 
 Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die Informationspflichten nach Artikel 246b § 1 Absatz 1 durch die Informationspflichten nach den §§ 2 bis 13 und 14 bis 16 ersetzt. Dies gilt bei Fernabsatzverträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 und bei außerhalb von Geschäftsräumen geschlossenen Verträgen nicht für die in Artikel 246b § 1 Absatz 1 Nummer 12 genannten Informationspflichten.
 
-
-## § 2 – Allgemeine Form
+# § 2 – Allgemeine Form
 
 Die Informationen und Vertragsbedingungen sind in einer Amtssprache des Mitgliedstaats der Europäischen Union oder des Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum, in dem der Zahlungsdienst angeboten wird, oder in einer anderen zwischen den Parteien vereinbarten Sprache in leicht verständlichen Worten und in klarer und verständlicher Form abzufassen.
 
-
-## § 3 – Besondere Form
+# § 3 – Besondere Form
 
 Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen Gesetzbuchs) hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in den §§ 4 bis 9 genannten Informationen und Vertragsbedingungen auf einem dauerhaften Datenträger mitzuteilen.
 
-
-## § 4 – Vorvertragliche Informationen
+# § 4 – Vorvertragliche Informationen
 
 (1) Die folgenden vorvertraglichen Informationen und Vertragsbedingungen müssen rechtzeitig vor Abgabe der Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 
@@ -2056,13 +1893,11 @@ c) einen Hinweis auf das Recht des Zahlungsdienstnutzers, den Vertrag zu kündig
 
 (3) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
-
-## § 5 – Zugang zu Vertragsbedingungen und vorvertraglichen Informationen während der Vertragslaufzeit
+# § 5 – Zugang zu Vertragsbedingungen und vorvertraglichen Informationen während der Vertragslaufzeit
 
 Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit die Übermittlung der Vertragsbedingungen sowie der in § 4 genannten Informationen in Papierform oder auf einem anderen dauerhaften Datenträger verlangen.
 
-
-## § 6 – Informationen vor Ausführung einzelner Zahlungsvorgänge
+# § 6 – Informationen vor Ausführung einzelner Zahlungsvorgänge
 
 Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs teilt der Zahlungsdienstleister auf Verlangen des Zahlers Folgendes mit:
 
@@ -2072,8 +1907,7 @@ Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs teilt d
 
 3. gegebenenfalls die Aufschlüsselung der Entgelte nach Nummer 2.
 
-
-## § 7 – Informationen an den Zahler bei einzelnen Zahlungsvorgängen
+# § 7 – Informationen an den Zahler bei einzelnen Zahlungsvorgängen
 
 Nach Belastung des Kontos des Zahlers mit dem Zahlungsbetrag eines einzelnen Zahlungsvorgangs oder, falls der Zahler kein Zahlungskonto verwendet, nach Zugang des Zahlungsauftrags teilt der Zahlungsdienstleister des Zahlers diesem unverzüglich die folgenden Informationen mit:
 
@@ -2087,8 +1921,7 @@ Nach Belastung des Kontos des Zahlers mit dem Zahlungsbetrag eines einzelnen Zah
 
 5. das Wertstellungsdatum der Belastung oder das Datum des Zugangs des Zahlungsauftrags.
 
-
-## § 8 – Informationen an den Zahlungsempfänger bei einzelnen Zahlungsvorgängen
+# § 8 – Informationen an den Zahlungsempfänger bei einzelnen Zahlungsvorgängen
 
 Nach Ausführung eines einzelnen Zahlungsvorgangs teilt der Zahlungsdienstleister des Zahlungsempfängers diesem unverzüglich die folgenden Informationen mit:
 
@@ -2102,8 +1935,7 @@ Nach Ausführung eines einzelnen Zahlungsvorgangs teilt der Zahlungsdienstleiste
 
 5. das Wertstellungsdatum der Gutschrift.
 
-
-## § 9 – Sonstige Informationen während des Vertragsverhältnisses
+# § 9 – Sonstige Informationen während des Vertragsverhältnisses
 
 Während des Vertragsverhältnisses ist der Zahlungsdienstleister verpflichtet, den Zahlungsdienstnutzer unverzüglich zu unterrichten, wenn
 
@@ -2111,13 +1943,11 @@ Während des Vertragsverhältnisses ist der Zahlungsdienstleister verpflichtet, 
 
 2. zum Nachteil des Zahlungsdienstnutzers Änderungen von Zinssätzen wirksam geworden sind.
 
-
-## § 10 – Abweichende Vereinbarungen
+# § 10 – Abweichende Vereinbarungen
 
 Für die in den §§ 7, 8 und 9 Nr. 2 genannten Informationen können Zahlungsdienstleister und Zahlungsdienstnutzer eine andere Häufigkeit und eine von § 3 abweichende Form oder ein abweichendes Verfahren vereinbaren. Über die in den §§ 7 und 8 genannten Informationen hat der Zahlungsdienstleister jedoch mindestens einmal monatlich so zu unterrichten, dass der Zahlungsdienstnutzer die Informationen unverändert aufbewahren und wiedergeben kann.
 
-
-## § 11 – Ausnahmen für Kleinbetragsinstrumente und E-Geld
+# § 11 – Ausnahmen für Kleinbetragsinstrumente und E-Geld
 
 (1) Bei Zahlungsdiensteverträgen über die Überlassung eines Kleinbetragsinstruments (§ 675i Abs. 1 des Bürgerlichen Gesetzbuchs) teilt der Zahlungsdienstleister dem Zahlungsdienstnutzer abweichend von den §§ 4 und 6 nur Folgendes mit:
 
@@ -2137,13 +1967,11 @@ Ferner gibt der Zahlungsdienstleister an, wo die weiteren gemäß § 4 vorgeschr
 
 2. die unter Nummer 1 genannten Informationen nicht mitteilen oder zur Verfügung stellen muss, wenn die Nutzung des Kleinbetragsinstruments keinem Zahlungsdienstnutzer zugeordnet werden kann oder wenn der Zahlungsdienstleister auf andere Weise technisch nicht in der Lage ist, diese Informationen mitzuteilen; in diesem Fall hat der Zahlungsdienstleister dem Zahlungsdienstnutzer eine Möglichkeit anzubieten, die gespeicherten Beträge zu überprüfen.
 
-
-## § 12 – Besondere Form
+# § 12 – Besondere Form
 
 Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem Zahlungsdienstnutzer die in § 13 genannten Informationen und Vertragsbedingungen hinsichtlich der von ihm zu erbringenden Zahlungsdienste in leicht zugänglicher Form zur Verfügung zu stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der Zahlungsdienstleister die Informationen und Vertragsbedingungen in Papierform oder auf einem anderen dauerhaften Datenträger zur Verfügung.
 
-
-## § 13 – Vorvertragliche Informationen
+# § 13 – Vorvertragliche Informationen
 
 (1) Die folgenden vorvertraglichen Informationen und Vertragsbedingungen sind rechtzeitig vor Abgabe der Vertragserklärung des Zahlungsdienstnutzers zur Verfügung zu stellen:
 
@@ -2167,8 +1995,7 @@ Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines Zahlungsdiensterahme
 
 (5) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
-
-## § 13a – Informationen an den Zahler und den Zahlungsempfänger nach Auslösung des Zahlungsauftrags über einen Zahlungsauslösedienstleister
+# § 13a – Informationen an den Zahler und den Zahlungsempfänger nach Auslösung des Zahlungsauftrags über einen Zahlungsauslösedienstleister
 
 Ein Zahlungsauslösedienstleister unterrichtet den Zahler und gegebenenfalls den Zahlungsempfänger unmittelbar nach der Auslösung des Zahlungsauftrags über
 
@@ -2180,8 +2007,7 @@ Ein Zahlungsauslösedienstleister unterrichtet den Zahler und gegebenenfalls den
 
 4. gegebenenfalls die Höhe aller an den Zahlungsauslösedienstleister für den Zahlungsvorgang zu entrichtenden Entgelte sowie gegebenenfalls deren Aufschlüsselung.
 
-
-## § 14 – Informationen an den Zahler nach Zugang des Zahlungsauftrags
+# § 14 – Informationen an den Zahler nach Zugang des Zahlungsauftrags
 
 Nach Zugang des Zahlungsauftrags unterrichtet der Zahlungsdienstleister des Zahlers diesen hinsichtlich der von ihm zu erbringenden Zahlungsdienste unverzüglich über
 
@@ -2195,8 +2021,7 @@ Nach Zugang des Zahlungsauftrags unterrichtet der Zahlungsdienstleister des Zahl
 
 5. das Datum des Zugangs des Zahlungsauftrags.
 
-
-## § 15 – Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
+# § 15 – Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
 
 Nach Ausführung des Zahlungsvorgangs unterrichtet der Zahlungsdienstleister des Zahlungsempfängers diesen hinsichtlich der von ihm erbrachten Zahlungsdienste unverzüglich über
 
@@ -2210,40 +2035,33 @@ Nach Ausführung des Zahlungsvorgangs unterrichtet der Zahlungsdienstleister des
 
 5. das Wertstellungsdatum der Gutschrift.
 
-
-## § 16 – Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments
+# § 16 – Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments
 
 Wird ein Zahlungsauftrag für eine Einzelzahlung über ein rahmenvertraglich geregeltes Zahlungsinstrument übermittelt, so ist nur der Zahlungsdienstleister, der Partei des Zahlungsdiensterahmenvertrags ist, verpflichtet, den Zahlungsdienstnutzer nach Maßgabe des Abschnitts 2 zu unterrichten.
 
-
-## § 17 – Informationspflichten des Zahlungsempfängers
+# § 17 – Informationspflichten des Zahlungsempfängers
 
 (1) Sollen Zahlungen mittels eines Zahlungsinstruments in einer anderen Währung als Euro erfolgen und wird vor der Auslösung des Zahlungsvorgangs vom Zahlungsempfänger eine Währungsumrechnung angeboten, muss der Zahlungsempfänger dem Zahler alle damit verbundenen Entgelte sowie den der Währungsumrechnung zugrunde gelegten Wechselkurs offenlegen.
 
 (2) Verlangt der Zahlungsempfänger für die Nutzung eines bestimmten Zahlungsinstruments ein Entgelt oder bietet er eine Ermäßigung an, so teilt er dies dem Zahler vor Auslösung des Zahlungsvorgangs mit.
 
-
-## § 17a – Informationspflichten des Bargeldabhebungsdienstleisters
+# § 17a – Informationspflichten des Bargeldabhebungsdienstleisters
 
 Ein Dienstleister, der Bargeldabhebungsdienste erbringt, ist verpflichtet, den Kunden über alle Entgelte für eine Geldabhebung entsprechend § 13 Absatz 1 und 3, den §§ 14, 15 sowie 17 Absatz 1 sowohl vor der Abhebung als auch auf der Quittung nach dem Erhalt des Bargeldes zu unterrichten.
 
-
-## § 18 – Informationspflichten Dritter
+# § 18 – Informationspflichten Dritter
 
 Verlangt ein Dritter, über welchen ein Zahlungsdienstnutzer einen Zahlungsvorgang auslösen kann, von diesem für die Nutzung eines bestimmten Zahlungsinstruments ein Entgelt, so teilt er dies dem Zahlungsdienstnutzer vor der Auslösung des Zahlungsvorgangs mit.
 
-
-## § 19 – Abweichende Vereinbarungen
+# § 19 – Abweichende Vereinbarungen
 
 Handelt es sich bei dem Zahlungsdienstnutzer nicht um einen Verbraucher, so können die Parteien vereinbaren, dass die §§ 17 und 18 ganz oder teilweise nicht anzuwenden sind.
 
-
-## § 1 – Informationspflichten bei Verbraucherbauverträgen
+# § 1 – Informationspflichten bei Verbraucherbauverträgen
 
 Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen Vertragserklärung eine Baubeschreibung in Textform zur Verfügung zu stellen.
 
-
-## § 2 – Inhalt der Baubeschreibung
+# § 2 – Inhalt der Baubeschreibung
 
 (1) In der Baubeschreibung sind die wesentlichen Eigenschaften des angebotenen Werks in klarer Weise darzustellen. Sie muss mindestens folgende Informationen enthalten:
 
@@ -2267,8 +2085,7 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 (2) Die Baubeschreibung hat verbindliche Angaben zum Zeitpunkt der Fertigstellung des Werks zu enthalten. Steht der Beginn der Baumaßnahme noch nicht fest, ist ihre Dauer anzugeben.
 
-
-## § 3 – Widerrufsbelehrung
+# § 3 – Widerrufsbelehrung
 
 (1) Steht dem Verbraucher ein Widerrufsrecht nach § 650l Satz 1 des Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den Verbraucher vor Abgabe von dessen Vertragserklärung in Textform über sein Widerrufsrecht zu belehren. Die Widerrufsbelehrung muss deutlich gestaltet sein und dem Verbraucher seine wesentlichen Rechte in einer an das benutzte Kommunikationsmittel angepassten Weise deutlich machen. Sie muss Folgendes enthalten:
 
@@ -2284,15 +2101,13 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 (2) Der Unternehmer kann seine Belehrungspflicht dadurch erfüllen, dass er dem Verbraucher das in Anlage 10 vorgesehene Muster für die Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
 
-
-## § 1 – Form und Zeitpunkt der vorvertraglichen Unterrichtung
+# § 1 – Form und Zeitpunkt der vorvertraglichen Unterrichtung
 
 (1) Die Unterrichtung des Reisenden nach § 651d Absatz 1 und 5 sowie § 651v Absatz 1 des Bürgerlichen Gesetzbuchs muss erfolgen, bevor dieser seine Vertragserklärung abgibt. Die Informationen sind klar, verständlich und in hervorgehobener Weise mitzuteilen; werden sie schriftlich erteilt, müssen sie leserlich sein.
 
 (2) Änderungen der vorvertraglichen Informationen sind dem Reisenden vor Vertragsschluss klar, verständlich und in hervorgehobener Weise mitzuteilen.
 
-
-## § 2 – Formblatt für die vorvertragliche Unterrichtung
+# § 2 – Formblatt für die vorvertragliche Unterrichtung
 
 (1) Dem Reisenden ist gemäß dem in Anlage 11 enthaltenen Muster ein zutreffend ausgefülltes Formblatt zur Verfügung zu stellen.
 
@@ -2300,8 +2115,7 @@ Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs verpflichtet, dem
 
 (3) Soll ein Pauschalreisevertrag telefonisch geschlossen werden, können die Informationen aus dem jeweiligen Formblatt abweichend von den Absätzen 1 und 2 auch telefonisch zur Verfügung gestellt werden.
 
-
-## § 3 – Weitere Angaben bei der vorvertraglichen Unterrichtung
+# § 3 – Weitere Angaben bei der vorvertraglichen Unterrichtung
 
 Die Unterrichtung muss folgende Informationen enthalten, soweit sie für die in Betracht kommende Pauschalreise erheblich sind:
 
@@ -2341,8 +2155,7 @@ j) die Angabe, ob die Pauschalreise im Allgemeinen für Personen mit eingeschrä
 
 8. den Hinweis auf den möglichen Abschluss einer Reiserücktrittskostenversicherung oder einer Versicherung zur Deckung der Kosten einer Unterstützung einschließlich einer Rückbeförderung bei Unfall, Krankheit oder Tod.
 
-
-## § 4 – Vorvertragliche Unterrichtung in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+# § 4 – Vorvertragliche Unterrichtung in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
 
 Für Pauschalreiseverträge nach § 651c des Bürgerlichen Gesetzbuchs ist abweichend von § 2 Absatz 1 anstelle des Formblatts gemäß dem in Anlage 11 enthaltenen Muster das zutreffend ausgefüllte Formblatt gemäß dem in Anlage 13 enthaltenen Muster zu verwenden. Zur Unterrichtung nach § 3 sind verpflichtet
 
@@ -2350,13 +2163,11 @@ Für Pauschalreiseverträge nach § 651c des Bürgerlichen Gesetzbuchs ist abwei
 
 2. jeder andere Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten übermittelt werden, in Bezug auf die von ihm zu erbringende Reiseleistung; er trägt gegenüber dem Reisenden die Beweislast für die Erfüllung seiner Informationspflichten.
 
-
-## § 5 – Gestaltung des Vertrags
+# § 5 – Gestaltung des Vertrags
 
 Der Pauschalreisevertrag muss in einfacher und verständlicher Sprache abgefasst und, sofern er schriftlich geschlossen wird, leserlich sein.
 
-
-## § 6 – Abschrift oder Bestätigung des Vertrags
+# § 6 – Abschrift oder Bestätigung des Vertrags
 
 (1) Dem Reisenden ist bei oder unverzüglich nach Vertragsschluss auf einem dauerhaften Datenträger eine Abschrift oder Bestätigung des Vertrags zur Verfügung zu stellen. Der Reisende hat Anspruch auf eine Abschrift oder Bestätigung des Vertrags in Papierform, wenn der Vertragsschluss
 
@@ -2396,22 +2207,19 @@ c) zur Online-Streitbeilegungsplattform gemäß Artikel 14 der Verordnung (EU) N
 
 8. den Hinweis auf das Recht des Reisenden, den Vertrag gemäß § 651e des Bürgerlichen Gesetzbuchs auf einen anderen Reisenden zu übertragen.
 
-
-## § 7 – Reiseunterlagen, Unterrichtung vor Reisebeginn
+# § 7 – Reiseunterlagen, Unterrichtung vor Reisebeginn
 
 (1) Der Reiseveranstalter hat dem Reisenden rechtzeitig vor Reisebeginn die notwendigen Reiseunterlagen zu übermitteln, insbesondere notwendige Buchungsbelege, Gutscheine, Beförderungsausweise und Eintrittskarten.
 
 (2) Der Reiseveranstalter hat den Reisenden rechtzeitig vor Reisebeginn zu unterrichten über die Abreise- und Ankunftszeiten sowie gegebenenfalls die Zeiten für die Abfertigung vor der Beförderung, die Orte und Dauer von Zwischenstationen sowie die dort zu erreichenden Anschlussverbindungen. Eine besondere Mitteilung nach Satz 1 ist nicht erforderlich, soweit diese Informationen bereits in einer dem Reisenden zur Verfügung gestellten Abschrift oder Bestätigung des Vertrags gemäß § 6 oder in einer Information des Reisenden nach § 8 Absatz 2 enthalten sind und inzwischen keine Änderungen eingetreten sind.
 
-
-## § 8 – Mitteilungspflichten anderer Unternehmer und Information des Reisenden nach Vertragsschluss in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+# § 8 – Mitteilungspflichten anderer Unternehmer und Information des Reisenden nach Vertragsschluss in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
 
 (1) Schließt ein Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten übermittelt werden, mit dem Reisenden einen Vertrag über eine Reiseleistung ab, hat er den als Reiseveranstalter anzusehenden Unternehmer über den Umstand des Vertragsschlusses zu unterrichten und diesem in Bezug auf die von ihm zu erbringende Reiseleistung die Informationen zur Verfügung zu stellen, die zur Erfüllung der Verpflichtungen als Reiseveranstalter erforderlich sind.
 
 (2) Der als Reiseveranstalter anzusehende Unternehmer hat dem Reisenden die in § 6 Absatz 2 Nummer 1 bis 8 genannten Angaben klar, verständlich und in hervorgehobener Weise auf einem dauerhaften Datenträger zur Verfügung zu stellen, sobald er von dem anderen Unternehmer gemäß Absatz 1 über den Umstand des Vertragsschlusses unterrichtet wurde.
 
-
-## § 9 – Weitere Informationspflichten bei Verträgen über Gastschulaufenthalte
+# § 9 – Weitere Informationspflichten bei Verträgen über Gastschulaufenthalte
 
 Über die in § 6 Absatz 2 bestimmten Angaben hinaus hat der Reiseveranstalter dem Reisenden folgende Informationen zu erteilen:
 
@@ -2421,8 +2229,7 @@ c) zur Online-Streitbeilegungsplattform gemäß Artikel 14 der Verordnung (EU) N
 
 3. Abhilfeverlangen des Gastschülers und die vom Reiseveranstalter ergriffenen Maßnahmen.
 
-
-## § 10 – Unterrichtung bei erheblichen Vertragsänderungen
+# § 10 – Unterrichtung bei erheblichen Vertragsänderungen
 
 Beabsichtigt der Reiseveranstalter eine Vertragsänderung nach § 651g Absatz 1 des Bürgerlichen Gesetzbuchs, hat er den Reisenden unverzüglich nach Kenntnis von dem Änderungsgrund auf einem dauerhaften Datenträger klar, verständlich und in hervorgehobener Weise zu informieren über
 
@@ -2438,13 +2245,11 @@ b) im Fall einer sonstigen Vertragsänderung über die Auswirkungen dieser Ände
 
 4. die gegebenenfalls als Ersatz angebotene Pauschalreise und deren Reisepreis.
 
-
-## § 1 – Form und Zeitpunkt der Unterrichtung
+# § 1 – Form und Zeitpunkt der Unterrichtung
 
 Die Unterrichtung des Reisenden nach § 651w Absatz 2 des Bürgerlichen Gesetzbuchs muss erfolgen, bevor dieser eine Vertragserklärung betreffend einen Vertrag über eine Reiseleistung abgibt, dessen Zustandekommen bewirkt, dass eine Vermittlung verbundener Reiseleistungen erfolgt ist. Die Informationen sind klar, verständlich und in hervorgehobener Weise mitzuteilen.
 
-
-## § 2 – Formblatt für die Unterrichtung des Reisenden
+# § 2 – Formblatt für die Unterrichtung des Reisenden
 
 Dem Reisenden ist gemäß den in den Anlagen 14 bis 17 enthaltenen Mustern ein zutreffend ausgefülltes Formblatt zur Verfügung zu stellen, und zwar
 
@@ -2462,20 +2267,17 @@ b) ein Formblatt gemäß dem Muster in Anlage 17, wenn die Vermittlung nach § 6
 
 Erfolgt die Vermittlung verbundener Reiseleistungen in den Fällen von Satz 1 Nummer 1 und 2 Buchstabe b bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen, hat der Vermittler verbundener Reiseleistungen abweichend von Satz 1 die in den betreffenden Formblättern enthaltenen Informationen in einer der Vermittlungssituation angepassten Weise zur Verfügung zu stellen. Entsprechendes gilt, wenn die Vermittlung verbundener Reiseleistungen weder bei gleichzeitiger körperlicher Anwesenheit des Reisenden und des Vermittlers verbundener Reiseleistungen noch online erfolgt.
 
-
-## § 1 – Zentrale Kontaktstelle; Informationen über die Insolvenzsicherung
+# § 1 – Zentrale Kontaktstelle; Informationen über die Insolvenzsicherung
 
 (1) Die Aufgaben der zentralen Kontaktstelle nach Artikel 18 Absatz 2 bis 4 der Richtlinie (EU) 2015/2302 nimmt das Bundesamt für Justiz wahr.
 
 (2) Das Bundesamt für Justiz stellt den zentralen Kontaktstellen anderer Mitgliedstaaten oder sonstiger Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum alle notwendigen Informationen über die gesetzlichen Anforderungen an die Verpflichtung von Reiseveranstaltern und Vermittlern verbundener Reiseleistungen zur Insolvenzsicherung (§§ 651r bis 651t, 651w Absatz 3 des Bürgerlichen Gesetzbuchs) zur Verfügung.
 
-
-## § 2 – Ausgehende Ersuchen
+# § 2 – Ausgehende Ersuchen
 
 Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen Behörden zur Klärung von Zweifeln, ob ein Reiseveranstalter oder ein Vermittler verbundener Reiseleistungen mit Sitz in einem anderen Mitgliedstaat oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum seiner Verpflichtung zur Insolvenzsicherung (§§ 651s, 651w Absatz 3 des Bürgerlichen Gesetzbuchs) nachgekommen ist, an die zentrale Kontaktstelle des Niederlassungsstaats weiter.
 
-
-## § 3 – Eingehende Ersuchen
+# § 3 – Eingehende Ersuchen
 
 (1) Auskunftsersuchen zentraler Kontaktstellen anderer Mitgliedstaaten oder sonstiger Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zur Klärung von Zweifeln, ob ein Reiseveranstalter oder ein Vermittler verbundener Reiseleistungen mit Sitz im Inland seiner Verpflichtung zur Insolvenzsicherung (§§ 651r, 651w Absatz 3 des Bürgerlichen Gesetzbuchs) nachgekommen ist, leitet das Bundesamt für Justiz unverzüglich an die zuständige Behörde weiter.
 
@@ -2483,8 +2285,7 @@ Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen Behörden zu
 
 (3) Sofern das Ersuchen innerhalb von 15 Arbeitstagen nach Eingang noch nicht abschließend beantwortet werden kann, erteilt das Bundesamt für Justiz der zentralen Kontaktstelle des anderen Staats innerhalb dieser Frist eine erste Antwort.
 
-
-## Anlage 1 – (zu Artikel 246a § 1 Absatz 2 Satz 2)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+# Anlage 1 – (zu Artikel 246a § 1 Absatz 2 Satz 2)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
 
 (Fundstelle: BGBl. I 2013, S. 3663 – 3664)
 
@@ -2495,14 +2296,12 @@ Gestaltungshinweise:
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_01.gif" /></td><td>Fügen Sie einen der folgenden in Anführungszeichen gesetzten Textbausteine ein:<dl><dt>a)</dt><dd>im Falle eines Dienstleistungsvertrags oder eines Vertrags über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden: „des Vertragsabschlusses.“;</dd><dt>b)</dt><dd>im Falle eines Kaufvertrags: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.“;</dd><dt>c)</dt><dd>im Falle eines Vertrags über mehrere Waren, die der Verbraucher im Rahmen einer einheitlichen Bestellung bestellt hat und die getrennt geliefert werden: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat.“;</dd><dt>d)</dt><dd>im Falle eines Vertrags über die Lieferung einer Ware in mehreren Teilsendungen oder Stücken: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Teilsendung oder das letzte Stück in Besitz genommen haben bzw. hat.“;</dd><dt>e)</dt><dd>im Falle eines Vertrags zur regelmäßigen Lieferung von Waren über einen festgelegten Zeitraum hinweg: „, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die erste Ware in Besitz genommen haben bzw. hat.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_02.gif" /></td><td>Fügen Sie Ihren Namen, Ihre Anschrift und, soweit verfügbar, Ihre Telefonnummer, Telefaxnummer und E-Mail-Adresse ein.</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_03.gif" /></td><td>Wenn Sie dem Verbraucher die Wahl einräumen, die Information über seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer Webseite [Internet-Adresse einfügen] elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.“</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_04.gif" /></td><td>Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im Falle des Widerrufs die Waren selbst abzuholen, fügen Sie Folgendes ein: „Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_05.gif" /></td><td>Wenn der Verbraucher Waren im Zusammenhang mit dem Vertrag erhalten hat:<dl><dt>a)</dt><dd>Fügen Sie ein:<dl><dt>–</dt><dd>„Wir holen die Waren ab.“ oder</dd><dt>–</dt><dd>„Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an … uns oder an [hier sind gegebenenfalls der Name und die Anschrift der von Ihnen zur Entgegennahme der Waren ermächtigten Person einzufügen] zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.“</dd></dl></dd><dt>b)</dt><dd>fügen Sie ein:<dl><dt>–</dt><dd>„Wir tragen die Kosten der Rücksendung der Waren.“;</dd><dt>–</dt><dd>„Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.“;</dd><dt>–</dt><dd>Wenn Sie bei einem Fernabsatzvertrag nicht anbieten, die Kosten der Rücksendung der Waren zu tragen, und die Waren aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren in Höhe von … EUR [Betrag einfügen].“, oder, wenn die Kosten vernünftigerweise nicht im Voraus berechnet werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Die Kosten werden auf höchstens etwa … EUR [Betrag einfügen] geschätzt.“ oder</dd><dt>–</dt><dd>Wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind: „Wir holen die Waren auf unsere Kosten ab.“ und</dd></dl></dd><dt>c)</dt><dd>fügen Sie ein: „Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_06.gif" /></td><td>Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben Sie verlangt, dass die Dienstleistungen oder Lieferung von Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen] während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“</td></tr></tbody></table>
 
-
-## Anlage 2 – (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)Muster für das Widerrufsformular
+# Anlage 2 – (zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer 2)Muster für das Widerrufsformular
 
 (Fundstelle: BGBl. I 2013, S. 3665)  
   
 
-
-## Anlage 3 – (zu Artikel 246b § 2 Absatz 3)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen über Finanzdienstleistungen
+# Anlage 3 – (zu Artikel 246b § 2 Absatz 3)Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen über Finanzdienstleistungen
 
 (Fundstelle: BGBl. I 2013, S. 3666 – 3667)
 
@@ -2513,8 +2312,7 @@ Gestaltungshinweise:
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_01.gif" /></td><td>Bei einem der nachstehenden Sonderfälle ist Folgendes einzufügen:<dl><dt>a)</dt><dd>Bei der Erbringung von Finanzdienstleistungen außer Zahlungsdiensten: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit Artikel 246b § 1 Absatz 1 EGBGB“;</dd><dt>b)</dt><dd>Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten im Fernabsatz:<dl><dt>aa)</dt><dd>bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 4 Absatz 1 EGBGB“;</dd><dt>bb)</dt><dd>bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 11 Absatz 1 EGBGB“;</dd><dt>cc)</dt><dd>bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 13 Absatz 1 EGBGB“.</dd></dl></dd><dt>c)</dt><dd>Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten außerhalb von Geschäftsräumen:<dl><dt>aa)</dt><dd>bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 4 Absatz 1 EGBGB“;</dd><dt>bb)</dt><dd>bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 11 Absatz 1 EGBGB“;</dd><dt>cc)</dt><dd>bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 § 13 Absatz 1 EGBGB“.</dd></dl></dd></dl>Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden Sonderfälle fällt, sind die jeweils zutreffenden Ergänzungen zu kombinieren. Soweit zu kombinierende Ergänzungen sprachlich identisch sind, sind Wiederholungen des Wortlauts nicht erforderlich.</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_02.gif" /></td><td>Einsetzen: Namen/Firma und ladungsfähige Anschrift des Widerrufsadressaten.Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Verbraucher eine Bestätigung seiner Widerrufserklärung an den Unternehmer erhält, auch eine Internetadresse.</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_03.gif" /></td><td>Dieser Absatz kann entfallen, wenn die beiderseitigen Leistungen erst nach Ablauf der Widerrufsfrist erbracht werden. Dasselbe gilt, wenn eine Rückabwicklung nicht in Betracht kommt (z. B. Hereinnahme einer Bürgschaft).</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_04.gif" /></td><td>Bei der Vereinbarung eines Entgelts für die Duldung einer Überziehung im Sinne des § 505 BGB ist hier Folgendes einzufügen:„Überziehen Sie Ihr Konto ohne eingeräumte Überziehungsmöglichkeit oder überschreiten Sie die Ihnen eingeräumte Überziehungsmöglichkeit, können wir von Ihnen über die Rückzahlung des Betrags der Überziehung oder Überschreitung hinaus weder Kosten noch Zinsen verlangen, wenn wir Sie nicht ordnungsgemäß über die Bedingungen und Folgen der Überziehung oder Überschreitung (z. B. anwendbarer Sollzinssatz, Kosten) informiert haben.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_05.gif" /></td><td>Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:<dl><dt>a)</dt><dd>Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis <img src="../normengrafiken/zik_gif/ZiK_05.gif" />  Buchstabe a bis c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.</dd><dt>b)</dt><dd>Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis <img src="../normengrafiken/zik_gif/ZiK_06.gif" />  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.</dd><dt>c)</dt><dd>Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträger befindlichen digitalen Inhalten, ist hier folgender Hinweis zu geben:„Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_06.gif" /></td><td>Der nachfolgende Hinweis für finanzierte Geschäfte kann entfallen, wenn kein verbundenes Geschäft vorliegt:„Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und ihn später widerrufen, sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem finanzierten Vertrag ein. Letzteres gilt nicht, wenn der vorliegende Vertrag den Erwerb von Finanzinstrumenten (z. B. von Wertpapieren, Devisen oder Derivaten) zum Gegenstand hat.Wollen Sie eine vertragliche Bindung so weitgehend wie möglich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebrauch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch dafür ein Widerrufsrecht zusteht.“Bei einem finanzierten Erwerb eines Grundstücks oder eines grundstücksgleichen Rechts ist Satz 2 des vorstehenden Hinweises wie folgt zu ändern:„Dies ist nur anzunehmen, wenn die Vertragspartner in beiden Verträgen identisch sind oder wenn der Darlehensgeber über die Zurverfügungstellung von Darlehen hinaus Ihr Grundstücksgeschäft durch Zusammenwirken mit dem Veräußerer fördert, indem er sich dessen Veräußerungsinteressen ganz oder teilweise zu eigen macht, bei der Planung, Werbung oder Durchführung des Projekts Funktionen des Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“</td></tr><tr class="odd"><td><img src="../normengrafiken/zik_gif/ZiK_07.gif" /></td><td>Der nachfolgende Hinweis kann entfallen, wenn kein zusammenhängender Vertrag vorliegt:„Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der zusammenhängende Vertrag eine Leistung betrifft, die von uns oder einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und dem Dritten erbracht wird.“</td></tr><tr class="even"><td><img src="../normengrafiken/zik_gif/ZiK_08.gif" /></td><td>Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind diese Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma des Unternehmers)“ zu ersetzen.</td></tr></tbody></table>
 
-
-## Anlage 4 – (zu Artikel 247 § 2)  Europäische Standardinformationen für Verbraucherkredite
+# Anlage 4 – (zu Artikel 247 § 2)  Europäische Standardinformationen für Verbraucherkredite
 
 (Fundstelle: BGBl. I 2009, S. 2393 - 2397;  
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -2632,8 +2430,7 @@ Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder das zuständi
 [Entsprechende Klauseln hier wiedergeben]</td></tr><tr class="odd"><td>(falls zutreffend)<br />
 Wahl der Sprache</td><td>Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten.</td></tr><tr class="even"><td>c) zu den Rechtsmitteln</td><td> </td></tr><tr class="odd"><td>Verfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang dazu</td><td>[Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang]</td></tr></tbody></table>
 
-
-## Anlage 5 – (zu Artikel 247 § 2)  Europäische Verbraucherkreditinformationen bei  1. Überziehungskrediten  2. Umschuldungen
+# Anlage 5 – (zu Artikel 247 § 2)  Europäische Verbraucherkreditinformationen bei  1. Überziehungskrediten  2. Umschuldungen
 
 (Fundstelle: BGBl. I 2009, S. 2398 - 2401;  
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -2692,8 +2489,7 @@ Bedingungen, unter denen diese Kosten geändert werden können</td><td>[Sämtlic
   
 -----  
   
-\*) Bei Überziehungsmöglichkeiten nach § 504 Abs. 2 des Bürgerlichen Gesetzbuchs, bei denen der Kredit jederzeit vom Kreditgeber gekündigt werden kann oder binnen drei Monaten zurückgezahlt werden muss, muss der effektive Jahreszins nicht angegeben werden, wenn der Kreditgeber außer den Sollzinsen keine weiteren Kosten verlangt.  
-  
+\*) Bei Überziehungsmöglichkeiten nach § 504 Abs. 2 des Bürgerlichen Gesetzbuchs, bei denen der Kredit jederzeit vom Kreditgeber gekündigt werden kann oder binnen drei Monaten zurückgezahlt werden muss, muss der effektive Jahreszins nicht angegeben werden, wenn der Kreditgeber außer den Sollzinsen keine weiteren Kosten verlangt.   
 
 4. Andere wichtige rechtliche Aspekte
 
@@ -2738,8 +2534,7 @@ Klauseln über das auf den Kreditvertrag anwendbare Recht und/oder das zuständi
 Wahl der Sprache</td><td><br />
 Die Informationen und Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags in [Angabe der Sprache(n)] mit Ihnen Kontakt halten.</td></tr><tr class="even"><td>c) zu den Rechtsmitteln</td><td> </td></tr><tr class="odd"><td>Verfügbarkeit außergerichtlicher Beschwerde- und Rechtsbehelfsverfahren und Zugang zu ihnen</td><td>[Angabe, ob der Verbraucher, der Vertragspartei eines Fernabsatzvertrags ist, Zugang zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die Voraussetzungen für diesen Zugang]</td></tr></tbody></table>
 
-
-## Anlage 6 – (zu Artikel 247 § 1 Absatz 2) Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
+# Anlage 6 – (zu Artikel 247 § 1 Absatz 2) Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
 
 (Fundstelle: BGBl. I 2016, S. 420 - 429)
 
@@ -3018,8 +2813,7 @@ die Firma, die das Merkmal anbietet (sofern mit dem Kreditgeber nicht identisch)
 
 Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
 
-
-## Anlage 7 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
+# Anlage 7 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
 
 (Fundstelle: BGBl. I 2016, S. 430 - 432)
 
@@ -3029,35 +2823,35 @@ Es sind die Behörden anzugeben, die für die Überwachung des vorvertraglichen 
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Widerrufsinformation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Widerrufsrecht                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer alle Pflichtangaben nach § 492 Absatz 2 BGB (z. B. Angabe zur Art des Darlehens, Angabe zum Nettodarlehensbetrag, Angabe zur Vertragslaufzeit) erhalten hat. Der Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit den nachgeholten Pflichtangaben nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](../normengrafiken/bgbl1_2016/ZiK_01.jpg) |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer alle Pflichtangaben nach § 492 Absatz 2 BGB (z. B. Angabe zur Art des Darlehens, Angabe zum Nettodarlehensbetrag, Angabe zur Vertragslaufzeit) erhalten hat. Der Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit den nachgeholten Pflichtangaben nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg) |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Widerrufsfolgen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                                                                                                                               Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von ![](../normengrafiken/bgbl1_2016/ZiK_03.jpg)  Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde.  ![](../normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05e.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05f.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](../normengrafiken/bgbl1_2016/ZiK_05g.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                               Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)  Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde.  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
-![](../normengrafiken/bgbl1_2016/ZiK_01.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg)
 
 Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.
 
-![](../normengrafiken/bgbl1_2016/ZiK_02.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)
 
-Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
 
  
 
 „Besonderheiten bei weiteren Verträgen”.
 
-![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
 
@@ -3097,7 +2891,7 @@ Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
 
 Widerruft der Darlehensnehmer den \[einsetzen: Bezeichnung des verbundenen Vertrags\], so ist er auch an den Darlehensvertrag nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)
 
 Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:
 
@@ -3107,7 +2901,7 @@ Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) i
 
 Steht dem Darlehensnehmer in Bezug auf das \[einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts\] (im Folgenden: angegebenes Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)
 
 Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:
 
@@ -3117,11 +2911,11 @@ Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 3
 
 Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den \[einsetzen: Bezeichnung des mit dem Darlehensvertrag zusammenhängenden Vertrags\] (im Folgenden: zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_03.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)
 
 Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben.
 
-![](../normengrafiken/bgbl1_2016/ZiK_04.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)
 
 Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
 
@@ -3131,9 +2925,9 @@ Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemä�
 
 Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)
 
-Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_05a.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05b.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05c.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05e.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05f.jpg)  oder ![](../normengrafiken/bgbl1_2016/ZiK_05g.jpg)  ist hier als Unterüberschrift einzufügen:
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)  ist hier als Unterüberschrift einzufügen:
 
  
 
@@ -3141,13 +2935,13 @@ Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_05a.
 
  
 
-Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
+Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
 
  
 
 Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.
 
-![](../normengrafiken/bgbl1_2016/ZiK_05a.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
 
@@ -3157,9 +2951,9 @@ Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzin
 
 Steht dem Darlehensnehmer in Bezug auf \[einsetzen\*\*\*: den verbundenen Vertrag\] ein Widerrufsrecht zu, sind im Fall des wirksamen Widerrufs \[einsetzen\*\*\*: des verbundenen Vertrags\] Ansprüche des Darlehensgebers auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer ausgeschlossen.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05b.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg)
 
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
+Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
 
  
 
@@ -3167,9 +2961,9 @@ Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzin
 
 Ist der Darlehensnehmer auf Grund des Widerrufs dieses Darlehensvertrags an \[einsetzen\*\*\*: den verbundenen Vertrag und/oder den zusammenhängenden Vertrag\] nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05c.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg)
 
-Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
+Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
 
  
 
@@ -3185,7 +2979,7 @@ Der Unterabsatz kann wie folgt ergänzt werden:
 
 „Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
 
-![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)
 
 Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:
 
@@ -3193,13 +2987,13 @@ Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:
 
 a)
 
-Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
 
  
 
  
 
-Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
+Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
 
  
 
@@ -3217,7 +3011,7 @@ Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann hier folg
 
 c)
 
-Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
 
  
 
@@ -3231,7 +3025,7 @@ Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträ
 
 „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte begonnen wird.”
 
-![](../normengrafiken/bgbl1_2016/ZiK_05e.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg)
 
 Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:
 
@@ -3241,7 +3035,7 @@ Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgend
 
 Ist der Darlehensnehmer auf Grund des Widerrufs des \[einsetzen\*\*\*: angegebenen Geschäfts\] an den Darlehensvertrag nicht mehr gebunden, führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen, die eintreten würden, wenn der Darlehensvertrag selbst widerrufen worden wäre (vgl. oben unter „Widerrufsfolgen“).“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05f.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
 
@@ -3255,7 +3049,7 @@ Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr 
 
 Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
 
-![](../normengrafiken/bgbl1_2016/ZiK_05g.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:
 
@@ -3283,8 +3077,7 @@ Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertra
 
 Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.
 
-
-## Anlage 8 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
+# Anlage 8 – (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
 
 (Fundstelle: BGBl. I 2016, S. 433 - 435)
 
@@ -3294,37 +3087,37 @@ Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann n
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Widerrufsinformation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Widerrufsrecht                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsinformation erhalten hat. Der Darlehensnehmer hat diese Widerrufsinformation erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten ist und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über eine in den Vertragstext nicht aufgenommene Angabe zum Widerrufsrecht kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit der nachgeholten Widerrufsinformation nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](../normengrafiken/bgbl1_2016/ZiK_01.jpg) |
+| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsinformation erhalten hat. Der Darlehensnehmer hat diese Widerrufsinformation erhalten, wenn sie in der für den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder der Vertragsurkunde enthalten ist und dem Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden ist. Über eine in den Vertragstext nicht aufgenommene Angabe zum Widerrufsrecht kann der Darlehensnehmer nachträglich auf einem dauerhaften Datenträger informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit der nachgeholten Widerrufsinformation nochmals auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg) |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Information über das Erlöschen des Widerrufsrechts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                                                                                                        Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem Zeitpunkt des Vertragsschlusses oder, sofern dieser Zeitpunkt nach dem Vertragsschluss liegt, dem Zeitpunkt zu dem dem Darlehensnehmer eine für ihn bestimmte Ausfertigung oder Abschrift seines Antrags oder der Vertragsurkunde zur Verfügung gestellt worden ist. Das Widerrufsrecht erlischt auch dann, wenn die Widerrufsinformation oder die Angaben hierzu im Vertrag fehlerhaft waren oder ganz unterblieben sind.                                                                                                                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Widerrufsfolgen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                                                                                                                                                          Der Darlehensnehmer hat innerhalb von 30 Tagen das Darlehen, soweit es bereits ausbezahlt wurde, zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von ![](../normengrafiken/bgbl1_2016/ZiK_03.jpg)  Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde. Wenn der Darlehensnehmer nachweist, dass der Wert seines Gebrauchsvorteils niedriger war als der Vertragszins, muss er nur den niedrigeren Betrag zahlen. Dies kann z. B. in Betracht kommen, wenn der marktübliche Zins geringer war als der Vertragszins.  ![](../normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05e.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05f.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](../normengrafiken/bgbl1_2016/ZiK_05g.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                          Der Darlehensnehmer hat innerhalb von 30 Tagen das Darlehen, soweit es bereits ausbezahlt wurde, zurückzuzahlen und für den Zeitraum zwischen der Auszahlung und der Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro Tag ein Zinsbetrag in Höhe von ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)  Euro zu zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise in Anspruch genommen wurde. Wenn der Darlehensnehmer nachweist, dass der Wert seines Gebrauchsvorteils niedriger war als der Vertragszins, muss er nur den niedrigeren Betrag zahlen. Dies kann z. B. in Betracht kommen, wenn der marktübliche Zins geringer war als der Vertragszins.  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 
-![](../normengrafiken/bgbl1_2016/ZiK_01.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg)
 
 Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.
 
-![](../normengrafiken/bgbl1_2016/ZiK_02.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)
 
-Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
 
  
 
 „Besonderheiten bei weiteren Verträgen”.
 
-![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
 
@@ -3364,7 +3157,7 @@ Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
 
 Widerruft der Darlehensnehmer den \[einsetzen: Bezeichnung des verbundenen Vertrags\], so ist er auch an den Darlehensvertrag nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)
 
 Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:
 
@@ -3374,7 +3167,7 @@ Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) i
 
 Steht dem Darlehensnehmer in Bezug auf das \[einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts\] (im Folgenden: angegebenes Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)
 
 Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:
 
@@ -3384,11 +3177,11 @@ Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden Vertrag (§ 3
 
 Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den \[einsetzen: Bezeichnung des mit dem Darlehensvertrag zusammenhängenden Vertrags\] (im Folgenden: zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_03.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)
 
 Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge sind als Dezimalstellen anzugeben.
 
-![](../normengrafiken/bgbl1_2016/ZiK_04.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)
 
 Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
 
@@ -3398,9 +3191,9 @@ Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemä�
 
 Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)
 
-Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_05a.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05b.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05c.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05e.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_05f.jpg)  oder ![](../normengrafiken/bgbl1_2016/ZiK_05g.jpg)  ist hier als Unterüberschrift einzufügen:
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)  ist hier als Unterüberschrift einzufügen:
 
  
 
@@ -3408,13 +3201,13 @@ Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_05a.
 
  
 
-Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
+Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
 
  
 
 Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.
 
-![](../normengrafiken/bgbl1_2016/ZiK_05a.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05a.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
 
@@ -3424,9 +3217,9 @@ Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzin
 
 Steht dem Darlehensnehmer in Bezug auf \[einsetzen\*\*\*: den verbundenen Vertrag\] ein Widerrufsrecht zu, sind im Fall des wirksamen Widerrufs \[einsetzen\*\*\*: des verbundenen Vertrags\] Ansprüche des Darlehensgebers auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer ausgeschlossen.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05b.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05b.jpg)
 
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
+Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
 
  
 
@@ -3434,9 +3227,9 @@ Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzin
 
 Ist der Darlehensnehmer auf Grund des Widerrufs dieses Darlehensvertrags an \[einsetzen\*\*\*: den verbundenen Vertrag und/oder den zusammenhängenden Vertrag\] nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05c.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05c.jpg)
 
-Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
+Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
 
  
 
@@ -3452,7 +3245,7 @@ Der Unterabsatz kann wie folgt ergänzt werden:
 
 „Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
 
-![](../normengrafiken/bgbl1_2016/ZiK_05d.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05d.jpg)
 
 Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:
 
@@ -3460,13 +3253,13 @@ Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt Folgendes:
 
 a)
 
-Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
 
  
 
  
 
-Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
+Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
 
  
 
@@ -3484,7 +3277,7 @@ Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann hier folg
 
 c)
 
-Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
 
  
 
@@ -3498,7 +3291,7 @@ Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträ
 
 „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte begonnen wird.”
 
-![](../normengrafiken/bgbl1_2016/ZiK_05e.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05e.jpg)
 
 Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:
 
@@ -3508,7 +3301,7 @@ Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgend
 
 Ist der Darlehensnehmer auf Grund des Widerrufs des \[einsetzen\*\*\*: angegebenen Geschäfts\] an den Darlehensvertrag nicht mehr gebunden, führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen, die eintreten würden, wenn der Darlehensvertrag selbst widerrufen worden wäre (vgl. oben unter „Widerrufsfolgen“).“
 
-![](../normengrafiken/bgbl1_2016/ZiK_05f.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05f.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
 
@@ -3522,7 +3315,7 @@ Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr 
 
 Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
 
-![](../normengrafiken/bgbl1_2016/ZiK_05g.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05g.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:
 
@@ -3550,8 +3343,7 @@ Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertra
 
 Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.
 
-
-## Anlage 9 – (zu Artikel 246 Absatz 3)Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
+# Anlage 9 – (zu Artikel 246 Absatz 3)Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
 
 (Fundstelle: BGBl. I 2016, S. 436 - 438)
 
@@ -3561,35 +3353,35 @@ Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann n
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                                                                                                                                                                                                           Widerrufsbelehrung                                                                                                                                                                                                                                                           |
 |                                                                                                                                                                                                                                                             Widerrufsrecht                                                                                                                                                                                                                                                             |
-| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsbelehrung auf einem dauerhaften Datenträger erhalten hat. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](../normengrafiken/bgbl1_2016/ZiK_01.jpg) |
-|                                                                                                                                                                                                                                              ![](../normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                              |
+| Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese Widerrufsbelehrung auf einem dauerhaften Datenträger erhalten hat. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an: ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg) |
+|                                                                                                                                                                                                                                              ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                            Widerrufsfolgen                                                                                                                                                                                                                                                             |
 |                                                                                                                                                                         Soweit das Darlehen bereits ausbezahlt wurde, hat es der Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen. Die Frist beginnt mit der Absendung der Widerrufserklärung.                                                                                                                                                                         |
-|                                                                                                                                                                                                                                              ![](../normengrafiken/bgbl1_2016/ZiK_03.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                              ![](../normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_04a.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_04b.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_04c.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_04d.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_04e.jpg)                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                                                             ![](../normengrafiken/bgbl1_2016/ZiK_04f.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                              ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                              ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04a.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04b.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04c.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04d.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04e.jpg)                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04f.jpg)                                                                                                                                                                                                                                              |
 
-![](../normengrafiken/bgbl1_2016/ZiK_01.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_01.jpg)
 
 Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält, auch eine Internet-Adresse.
 
-![](../normengrafiken/bgbl1_2016/ZiK_02.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02.jpg)
 
-Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  ist hier folgende Unterüberschrift einzufügen:
 
  
 
 „Besonderheiten bei weiteren Verträgen”.
 
-![](../normengrafiken/bgbl1_2016/ZiK_02a.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02a.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
 
@@ -3629,7 +3421,7 @@ Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
 
 Widerruft der Darlehensnehmer den \[einsetzen: Bezeichnung des verbundenen Vertrags\], so ist er auch an den Darlehensvertrag nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_02b.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02b.jpg)
 
 Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) in dem Darlehensvertrag genau angegeben ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2 BGB), ist hier Folgendes einzufügen:
 
@@ -3639,7 +3431,7 @@ Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des Unternehmers) i
 
 Steht dem Darlehensnehmer in Bezug auf das \[einsetzen: Bezeichnung des im Darlehensvertrag angegebenen Geschäfts\] (im Folgenden: angegebenes Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)
 
 Bei einem mit einem Darlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt werden:
 
@@ -3649,7 +3441,7 @@ Bei einem mit einem Darlehensvertrag zusammenhängenden Vertrag (§ 360 BGB), de
 
 Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf des Darlehensvertrags auch an den \[einsetzen: Bezeichnung des mit dem Darlehensvertrag zusammenhängenden Vertrags\] (im Folgenden: zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_03.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_03.jpg)
 
 Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten, ist hier Folgendes einzufügen:
 
@@ -3659,9 +3451,9 @@ Erbringt der Darlehensgeber gegenüber öffentlichen Stellen Aufwendungen gemä�
 
 Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und nicht zurückverlangen kann.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_04.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04.jpg)
 
-Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_04a.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_04b.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_04c.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_04d.jpg) , ![](../normengrafiken/bgbl1_2016/ZiK_04e.jpg)  oder ![](../normengrafiken/bgbl1_2016/ZiK_04f.jpg)  ist hier als Unterüberschrift einzufügen:
+Bei Anwendung der Gestaltungshinweise ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04a.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04b.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04c.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04d.jpg) , ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04e.jpg)  oder ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04f.jpg)  ist hier als Unterüberschrift einzufügen:
 
  
 
@@ -3669,15 +3461,15 @@ Bei Anwendung der Gestaltungshinweise ![](../normengrafiken/bgbl1_2016/ZiK_04a.
 
  
 
-Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](../normengrafiken/bgbl1_2016/ZiK_04c.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
+Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe ausschließlich der Hinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04c.jpg)  verwandt wird und weitere Verträge nicht vorliegen.
 
  
 
 Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene, wiederholte Nennung der Hinweise erfolgen.
 
-![](../normengrafiken/bgbl1_2016/ZiK_04a.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04a.jpg)
 
-Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wird, ist hier Folgendes einzufügen:
+Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, oder bei einem zusammenhängenden Vertrag, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wird, ist hier Folgendes einzufügen:
 
  
 
@@ -3685,9 +3477,9 @@ Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzin
 
 Ist der Darlehensnehmer auf Grund des Widerrufs dieses Darlehensvertrags an \[einsetzen\*\*\*: den verbundenen Vertrag und/oder den zusammenhängenden Vertrag\] nicht mehr gebunden, sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
 
-![](../normengrafiken/bgbl1_2016/ZiK_04b.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04b.jpg)
 
-Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
+Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf die Überlassung einer Sache, wenn von Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_02c.jpg)  Gebrauch gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
 
  
 
@@ -3703,7 +3495,7 @@ Der Unterabsatz kann wie folgt ergänzt werden:
 
 „Wenn der Darlehensnehmer die auf Grund \[einsetzen\*\*\*: des verbundenen Vertrags oder des zusammenhängenden Vertrags\] überlassene Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
 
-![](../normengrafiken/bgbl1_2016/ZiK_04c.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04c.jpg)
 
 Bei einem Vertrag über eine unentgeltliche Finanzierungshilfe gilt Folgendes:
 
@@ -3711,13 +3503,13 @@ Bei einem Vertrag über eine unentgeltliche Finanzierungshilfe gilt Folgendes:
 
 a)
 
-Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
+Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, sind hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB zu geben.
 
  
 
  
 
-Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
+Diese können durch die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_05.jpg)  Buchstabe c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB ergänzt werden.
 
  
 
@@ -3735,7 +3527,7 @@ Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann hier folg
 
 c)
 
-Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](../normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
+Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht in der Überlassung einer Sache gemäß Buchstabe a oder in einer Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von Fernwärme, können hier die konkreten Hinweise entsprechend Gestaltungshinweis ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_06.jpg)  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2 EGBGB gegeben werden.
 
  
 
@@ -3749,7 +3541,7 @@ Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen Datenträ
 
 „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der Lieferung der digitalen Inhalte begonnen wird.”
 
-![](../normengrafiken/bgbl1_2016/ZiK_04d.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04d.jpg)
 
 Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgendes einzufügen:
 
@@ -3759,7 +3551,7 @@ Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier Folgend
 
 Ist der Darlehensnehmer auf Grund des Widerrufs des \[einsetzen\*\*\*: angegebenen Geschäfts\] an den Darlehensvertrag nicht mehr gebunden, führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen, die eintreten würden, wenn der Darlehensvertrag selbst widerrufen worden wäre (vgl. oben unter „Widerrufsfolgen“).“
 
-![](../normengrafiken/bgbl1_2016/ZiK_04e.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04e.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
 
@@ -3773,7 +3565,7 @@ Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags nicht mehr 
 
 Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
 
-![](../normengrafiken/bgbl1_2016/ZiK_04f.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/ZiK_04f.jpg)
 
 Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift und folgender Hinweis einzufügen:
 
@@ -3801,8 +3593,7 @@ Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung des Vertra
 
 Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch Verwendung der allgemeinen Bezeichnung des jeweiligen Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, zusammenhängender Vertrag) erfolgen.
 
-
-## Anlage 10 – (zu Artikel 249 § 3)Muster für die Widerrufsbelehrung bei Verbraucherbauverträgen
+# Anlage 10 – (zu Artikel 249 § 3)Muster für die Widerrufsbelehrung bei Verbraucherbauverträgen
 
 (Fundstelle: BGBl. I 2017, 979)
 
@@ -3826,8 +3617,7 @@ Gestaltungshinweis:
 
 Fügen Sie Ihren Namen oder den Namen Ihres Unternehmens, Ihre Anschrift und Ihre Telefonnummer ein. Sofern verfügbar sind zusätzlich anzugeben: Ihre Telefaxnummer und E-Mail-Adresse.
 
-
-## Anlage 11 – (zu Artikel 250 § 2 Absatz 1)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
+# Anlage 11 – (zu Artikel 250 § 2 Absatz 1)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
 
 (Fundstelle: BGBl. I 2017, 2409 — 2410)
 
@@ -3838,8 +3628,7 @@ Gestaltungshinweise:
 <span id="FnA1-f799189_02"></span><a href="#FnR.FnA1-f799189_02" class="Footnote">*</a>  
 Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Reiseveranstalters zur Insolvenzsicherung, weil der Reiseveranstalter vor Beendigung der Pauschalreise keine Zahlungen des Reisenden auf den Reisepreis annimmt und der Vertrag keine Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
 
-
-## Anlage 12 – (zu Artikel 250 § 2 Absatz 2)Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
+# Anlage 12 – (zu Artikel 250 § 2 Absatz 2)Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
 
 (Fundstelle: BGBl. I 2017, 2411 — 2412)
 
@@ -3850,8 +3639,7 @@ Gestaltungshinweise:
 <span id="FnA1-f799189_03"></span><a href="#FnR.FnA1-f799189_03" class="Footnote">*</a>  
 Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Reiseveranstalters zur Insolvenzsicherung, weil der Reiseveranstalter vor Beendigung der Pauschalreise keine Zahlungen des Reisenden auf den Reisepreis annimmt und der Vertrag keine Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
 
-
-## Anlage 13 – (zu Artikel 250 § 4)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
+# Anlage 13 – (zu Artikel 250 § 4)Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
 
 (Fundstelle: BGBl. I 2017, 2413 — 2414)
 
@@ -3862,8 +3650,7 @@ Gestaltungshinweise:
 <span id="FnA1-f799189_04"></span><a href="#FnR.FnA1-f799189_04" class="Footnote">*</a>  
 Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine Verpflichtung des als Reiseveranstalter anzusehenden Unternehmers zur Insolvenzsicherung, weil der als Reiseveranstalter anzusehende Unternehmer vor Beendigung der Pauschalreise keine Zahlungen des Reisenden auf den Reisepreis annimmt und der Vertrag keine Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
 
-
-## Anlage 14 – (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+# Anlage 14 – (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
 
 (Fundstelle: BGBl. I 2017, 2415)
 
@@ -3871,8 +3658,7 @@ Gestaltungshinweise:
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_1.jpg" /></td><td>Hier ist entweder „unser Unternehmen“ oder „das Unternehmen (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.</td></tr><tr class="even"><td><img src="../normengrafiken/bgbl1_2017/ZiK_2.jpg" /></td><td>Hier ist entweder „unseres Unternehmens“ oder „des Unternehmens (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.</td></tr><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_3.jpg" /></td><td>Hier ist die Firma/der Name des Vermittlers verbundener Reiseleistungen einzufügen.</td></tr><tr class="even"><td><img src="../normengrafiken/bgbl1_2017/ZiK_4.jpg" /></td><td>Hier ist die mit den Wörtern „Weiterführende Informationen zum Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen im zweiten Kasten zur Verfügung gestellt werden.</td></tr><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_5.jpg" /></td><td>Hier ist einzufügen:<dl><dt>a)</dt><dd>wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,</dd><dt>b)</dt><dd>in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/bgbl1_2017/ZiK_6.jpg" /></td><td>Hier sind einzufügen:<dl><dt>a)</dt><dd>wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,</dd><dt>b)</dt><dd>in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.</dd></dl></td></tr><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_7.jpg" /></td><td>Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt.</td></tr></tbody></table>
 
-
-## Anlage 15 – (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+# Anlage 15 – (zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
 
 (Fundstelle: BGBl. I 2017, 2416)
 
@@ -3880,8 +3666,7 @@ Gestaltungshinweise:
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_1.jpg" /></td><td>Hier ist entweder „unser Unternehmen“ oder „das Unternehmen (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“ einzufügen.</td></tr><tr class="even"><td><img src="../normengrafiken/bgbl1_2017/ZiK_2.jpg" /></td><td>Hier ist die Firma/der Name des Vermittlers verbundener Reiseleistungen einzufügen.</td></tr><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_3.jpg" /></td><td>Hier ist die mit den Wörtern „Weiterführende Informationen zum Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die Informationen im zweiten Kasten zur Verfügung gestellt werden.</td></tr><tr class="even"><td><img src="../normengrafiken/bgbl1_2017/ZiK_4.jpg" /></td><td>Hier ist einzufügen:<dl><dt>a)</dt><dd>wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den Insolvenzschutz bietet,</dd><dt>b)</dt><dd>in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs).</dd></dl></td></tr><tr class="odd"><td><img src="../normengrafiken/bgbl1_2017/ZiK_5.jpg" /></td><td>Hier sind einzufügen:<dl><dt>a)</dt><dd>wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der Telefonnummer,</dd><dt>b)</dt><dd>in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§ 651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse und der Telefonnummer.</dd></dl></td></tr><tr class="even"><td><img src="../normengrafiken/bgbl1_2017/ZiK_6.jpg" /></td><td>Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de erfolgt.</td></tr></tbody></table>
 
-
-## Anlage 16 – (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+# Anlage 16 – (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
 
 (Fundstelle: BGBl. I 2017, 2417 — 2418)
 
@@ -3892,8 +3677,7 @@ Gestaltungshinweise:
 <span id="FnA1-f799189_05"></span><a href="#FnR.FnA1-f799189_05" class="Footnote">*</a>  
 Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Vermittlers verbundener Reiseleistungen zur Insolvenzsicherung, weil er Zahlungen des Reisenden auf Vergütungen für Reiseleistungen nicht oder erst nach deren Erbringung annimmt, entfallen diese Absätze. Gleiches gilt, soweit solche Zahlungen aufgrund einer vom Leistungserbringer erteilten Inkassovollmacht des Vermittlers verbundener Reiseleistungen auf einem insolvenzfesten Treuhandkonto gutgeschrieben werden.
 
-
-## Anlage 17 – (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+# Anlage 17 – (zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
 
 (Fundstelle: BGBl. I 2017, 2419)
 
@@ -3904,8 +3688,7 @@ Gestaltungshinweise:
 <span id="FnA1-f799189_06"></span><a href="#FnR.FnA1-f799189_06" class="Footnote">*</a>  
 Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine Verpflichtung des Vermittlers verbundener Reiseleistungen zur Insolvenzsicherung, weil er Zahlungen des Reisenden auf Vergütungen für Reiseleistungen nicht oder erst nach deren Erbringung annimmt, entfallen diese Absätze. Gleiches gilt, soweit solche Zahlungen aufgrund einer vom Leistungserbringer erteilten Inkassovollmacht des Vermittlers verbundener Reiseleistungen auf einem insolvenzfesten Treuhandkonto gutgeschrieben werden.
 
-
-## Anlage 18 – (zu Artikel 252 Absatz 1)Muster für den Sicherungsschein
+# Anlage 18 – (zu Artikel 252 Absatz 1)Muster für den Sicherungsschein
 
 (Fundstelle: BGBl. I 2017, 2420)
 

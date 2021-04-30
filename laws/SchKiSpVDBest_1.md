@@ -1,15 +1,11 @@
-# [SchKiSpVDBest 1] Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
-
-Ausfertigungsdatum: 16.10.1975
-
+% Erste Durchführungsbestimmung zur Verordnung über die Schüler- und Kinderspeisung
+% Ausfertigungsdatum: 16.10.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Gemäß § 27 der Verordnung vom 16. Oktober 1975 über die Schüler- und Kinderspeisung (GBl. I Nr. 44 S. 713) wird im Einvernehmen mit den Leitern der zuständigen zentralen Staatsorgane folgendes bestimmt:
 
-
-## § 1
+# § 1
 
 (1) Zur Sicherung einer abwechslungsreichen, nahrhaften, gesunden und dem Geschmack der Kinder entsprechenden Schüler- und Kinderspeisung sind auf der Grundlage der in der Anlage 1 festgelegten Lebensmittelnormen und ernährungsphysiologischen Richtwerte sowie der Speisenrezepturen und Mahlzeitenvorschläge \*) für den Zeitraum von 20 aufeinanderfolgenden Kochtagen Speisenpläne aufzustellen. Die einzelnen Mahlzeiten sollen sich innerhalb von 20 aufeinanderfolgenden Verpflegungstagen nicht wiederholen. Die im § 5 der Verordnung vom 16. Oktober 1975 über die Schüler- und Kinderspeisung festgelegten wertmäßigen Naturaleinsätze sind als durchschnittliche Naturaleinsätze innerhalb von 20 Kochtagen zu realisieren.
 
@@ -17,13 +13,11 @@ Gemäß § 27 der Verordnung vom 16. Oktober 1975 über die Schüler- und Kinder
 
 (3) Zur Kontrolle der Qualität der Schüler- und Kinderspeisung ist der Qualitätspaß gemäß Anlage 2 anzuwenden.
 
-(4) Zur Verbesserung der Trinkmilchversorgung der Schüler ist durch die örtlichen Räte zu sichern, daß an allen Schulen Milchmischgetränke angeboten werden. Trinkvollmilch und Milchmischgetränke sind zur Frühstückspause temperiert bereitzustellen. Entsprechend den volkswirtschaftlichen Möglichkeiten ist Einwegverpackung vorrangig an Stadtschulen einzusetzen.  
------  
+(4) Zur Verbesserung der Trinkmilchversorgung der Schüler ist durch die örtlichen Räte zu sichern, daß an allen Schulen Milchmischgetränke angeboten werden. Trinkvollmilch und Milchmischgetränke sind zur Frühstückspause temperiert bereitzustellen. Entsprechend den volkswirtschaftlichen Möglichkeiten ist Einwegverpackung vorrangig an Stadtschulen einzusetzen. -----  
 
 \*) Wird als Ergänzung zum Rezepturenkatalog für die Schüler- und Kinderspeisung, Staatsverlag der DDR 1976, veröffentlicht.
 
-
-## § 2
+# § 2
 
 (1) Die Abgabepreise für warme Hauptmahlzeiten der Schüler- und Kinderspeisung sind wie folgt zu ermitteln:
 
@@ -53,13 +47,11 @@ c) Einrichtungen der Schüler- und Kinderspeisung, die dem Verantwortungsbereich
 
 (5) Bei Verwendung von Frühgemüse sind die jahreszeitlich und aufkommensbedingten finanziellen Mehraufwendungen von den im § 2 Abs. 1 außer den im Buchst. c genannten Einrichtungen der Schüler- und Kinderspeisung getrennt auszuweisen. Bei öffentlichen Gaststätten gemäß § 2 Abs. 1 Buchst. b ergeben sich die finanziellen Mehraufwendungen aus der Anwendung des Preisrechts. Die in den Küchen der Volksbildung bzw. in den Küchen der kommunalen Berufsschulen erfahrungsgemäß anfallenden zusätzlichen Ausgaben sind von den zuständigen örtlichen Räten im Haushaltsplan der Einrichtung zu berücksichtigen. Die aus dem Einsatz von Frühgemüse resultierenden finanziellen Mehraufwendungen gehen nicht zu Lasten des wertmäßigen Naturaleinsatzes.
 
-(6) Für den täglichen und den monatlichen mengen- und wertmäßigen Nachweis über den Wareneinsatz haben die Schulküchen der Volksbildung, der volkseigenen Einzelhandelsbetriebe (HO) und der Konsumgenossenschaften, die Küchen der kommunalen Berufsschulen, der kommunalen Großküchenbetriebe, Betriebs- und Werkküchen, Küchen der LPG, GPG und ihre kooperativen Einrichtungen sowie öffentlichen und nichtöffentlichen Gaststätten die Formblätter gemäß der Anlage 6 zu verwenden.  
------  
+(6) Für den täglichen und den monatlichen mengen- und wertmäßigen Nachweis über den Wareneinsatz haben die Schulküchen der Volksbildung, der volkseigenen Einzelhandelsbetriebe (HO) und der Konsumgenossenschaften, die Küchen der kommunalen Berufsschulen, der kommunalen Großküchenbetriebe, Betriebs- und Werkküchen, Küchen der LPG, GPG und ihre kooperativen Einrichtungen sowie öffentlichen und nichtöffentlichen Gaststätten die Formblätter gemäß der Anlage 6 zu verwenden. -----  
 
 \*) Anordnung Nr. Pr. 79 vom 2. Dezember 1971 - Preise für Gaststätten - (Sonderdruck Nr. 718 des Gesetzblattes)
 
-
-## § 3
+# § 3
 
 (1) Sofern die Schülerspeisung noch nicht in voller Höhe des Bedarfs bereitgestellt werden kann, entscheidet der Direktor der jeweiligen Bildungseinrichtung über die Teilnahme der Schüler.
 
@@ -90,8 +82,7 @@ Jeder Schüler muß auf Wunsch nach Krankheit oder anderem begründeten Fehlen b
 \-  
 Bezahlte Kostenanteile, die wegen Krankheit und in anderen begründeten Fällen nicht in Anspruch genommen werden konnten, sind für alle Tage zu verrechnen bzw. zurückzuerstatten.
 
-
-## § 4
+# § 4
 
 (1) Bei der Planung der Kapazitäten für die Betriebe und Einrichtungen der Schüler- und Kinderspeisung ist von den konkreten örtlichen Bedingungen auszugehen. Die Verbesserung der materiellen Bedingungen für die Produktion und Esseneinnahme in den bestehenden Einrichtungen ist schrittweise und planmäßig gemäß der Aufgabenstellung im Volkswirtschaftsplan und der langfristigen Planung, unter Berücksichtigung der Anzahl der zu versorgenden Schüler und Kinder des Territoriums, zu sichern.
 
@@ -99,8 +90,7 @@ Bezahlte Kostenanteile, die wegen Krankheit und in anderen begründeten Fällen 
 
 (3) Die Räte der Städte und Gemeinden sind berechtigt, den Betrieben, unabhängig von ihrer Unterstellung und Eigentumsform, Auflagen zur Nutzung vorhandener Kapazitäten für die Verbesserung der Schüler- und Kinderspeisung zu erteilen.
 
-
-## § 5
+# § 5
 
 (1) Die für die Schüler- und Kinderspeisung erforderlichen Warenfonds sind in die Warenfondspläne der zentralen und betrieblichen Fondsträger - ohne gesonderten Ausweis - einzuordnen.
 
@@ -110,8 +100,7 @@ Bezahlte Kostenanteile, die wegen Krankheit und in anderen begründeten Fällen 
 
 (4) Die Richtwerte für die Arbeitsproduktivität gemäß Anlage 5 sind Orientierungen für Aufgabenstellungen zur sozialistischen Rationalisierung und Grundlage für Leistungsvergleiche zwischen den Betrieben und Einrichtungen der Schüler- und Kinderspeisung und entsprechend anzuwenden.
 
-
-## § 6
+# § 6
 
 (1) Die in den Verantwortungsbereichen Volksbildung und Berufsbildung bestehenden Einrichtungen der Schüler- und Kinderspeisung werden von den örtlichen Räten direkt geleitet. Diese sichern die planmäßige und qualitätsgerechte Durchführung der Aufgaben der Schüler- und Kinderspeisung durch diese Einrichtungen und gewährleisten die Planung, Abrechnung und Kontrolle der materiellen und finanziellen Fonds.
 
@@ -123,8 +112,7 @@ a) Die im Verantwortungsbereich Volksbildung bestehenden Einrichtungen der Schü
 
 b) Einrichtungen der Schüler- und Kinderspeisung, die ausschließlich für die Schülerspeisung genutzt werden und in Schulen eingeordnet sind, können von Betrieben des volkseigenen Einzelhandels oder Konsumgenossenschaften bewirtschaftet werden.
 
-
-## § 7
+# § 7
 
 (1) Die Aufgaben auf dem Gebiet der Schüler- und Kinderspeisung sind als in sich geschlossener Komplex in die Bezirksversorgungspläne und Kreisversorgungskonzeptionen einzuordnen.
 
@@ -134,8 +122,7 @@ b) Einrichtungen der Schüler- und Kinderspeisung, die ausschließlich für die 
 
 (4) Die örtlichgeleiteten Betriebe erhalten Planaufgaben und Planauflagen für die Schüler- und Kinderspeisung durch ihr übergeordnetes Organ.
 
-
-## § 8
+# § 8
 
 (1) Die Räte der Bezirke können den wirtschaftsleitenden Organen des sozialistischen Einzelhandels Aufgaben der Leitung, Planung und Organisation der Schüler- und Kinderspeisung übertragen, insbesondere die
 
@@ -153,8 +140,7 @@ f) Ermittlung des Bedarfs an küchentechnischen Ausrüstungen, einschließlich S
 
 (2) Die Räte der Städte und Gemeinden sind berechtigt, Betrieben und Einrichtungen in ihren Territorien - in Abstimmung mit deren übergeordneten Organen - Aufgaben zur Unterstützung anderer Einrichtungen der Schüler- und Kinderspeisung bei der Organisation und Durchführung der Schülerspeisung zu übertragen. Dazu gehören die Unterstützung bei der Speisenplangestaltung auf der Grundlage der Rezepturen, bei der Qualifizierung am Arbeitsplatz und der Rationalisierung der Arbeit in den Küchen und Ausgabestellen.
 
-
-## § 9
+# § 9
 
 (1) Zur Organisation und Durchführung der Trinkmilchversorgung haben die Betriebe des volkseigenen Einzelhandels und die Konsumgenossenschaften mit den Molkereien und den örtlichen Räten Versorgungsverträge über die Bereitstellung von Trinkmilch und Milchmischgetränken für die Schüler der Einrichtungen der Volksbildung und Berufsbildung abzuschließen.
 
@@ -164,8 +150,7 @@ f) Ermittlung des Bedarfs an küchentechnischen Ausrüstungen, einschließlich S
 
 (4) Die Direktoren der Schulen haben die Durchführung des Trinkmilchverkaufs vor allem durch Bereitstellung geeigneter Räume in den Schulen und bei der Gewinnung von Verkaufskräften zu unterstützen.
 
-
-## § 10
+# § 10
 
 (1) Bei den Räten der Bezirke und Kreise üben Aktive für die Schüler- und Kinderspeisung eine beratende und unterstützende Tätigkeit aus. Sie werden vom Stellvertreter des Vorsitzenden des Rates für Handel und Versorgung geleitet. Dem Aktiv gehören die verantwortlichen Ratsmitglieder Volksbildung, Finanzen, Gesundheits- und Sozialwesen, örtliche Versorgungswirtschaft, Verkehrs- und Nachrichtenwesen, der Leiter der Abteilung Preise, der Leiter der Abteilung Berufsbildung und Berufsberatung und leitende Mitarbeiter der Abteilung Land-, Forst- und Nahrungsgüterwirtschaft, der Plankommission sowie des Wirtschaftsrates an.
 
@@ -173,8 +158,7 @@ f) Ermittlung des Bedarfs an küchentechnischen Ausrüstungen, einschließlich S
 
 (3) Die Direktoren der Schulen und Leiter der Kindergärten sichern bei der Wahrnehmung ihrer Aufgaben - insbesondere bei der gesellschaftlichen Kontrolle - die Mitwirkung der Kommissionen des Elternbeirates, der Elternaktive, der Lehrer, Erzieher und Schüler bzw. Lehrlinge. Die Ergebnisse der Kontrollen sind regelmäßig mit den Leitern der Betriebe und Einrichtungen der Schüler- und Kinderspeisung auszuwerten.
 
-
-## § 11
+# § 11
 
 (1) Die Bereitstellung von Haushaltsmitteln zur Sicherung der Schüler- und Kinderspeisung erfolgt durch die zuständigen örtlichen Räte für
 
@@ -186,13 +170,11 @@ b) Betriebe in Höhe ihres kalkulierten und bestätigten Richtpreises für die S
 
 (3) Bei nachweisbarer Abgrenzung der Bestände für die Schüler- und Kinderspeisung erfolgt die Finanzierung der notwendigen Warenbestände für diese Leistungen in Abstimmung mit der Staatsbank der Deutschen Demokratischen Republik auf Antrag der Betriebe durch Zusatzkredite zu einem Zinssatz von 1,8%.
 
-
-## § 12
+# § 12
 
 Die Berichterstattung über die Schüler- und Kinderspeisung erfolgt für die Kennziffern der Schüler- und Kinderspeisung durch die Betriebe und Einrichtungen der Schüler- und Kinderspeisung entsprechend dem bestätigten Kennziffernprogramm.
 
-
-## § 13
+# § 13
 
 (1) Diese Durchführungsbestimmung tritt am 1. Januar 1976 in Kraft.
 
@@ -208,21 +190,18 @@ Die Berichterstattung über die Schüler- und Kinderspeisung erfolgt für die Ke
 
 § 13 Abs. 2 (Kursivdruck): Aufhebungsvorschrift
 
-
-## Schlußformel
+# Schlußformel
 
 Der Minister für Handel und Versorgung
 
-
-## Anlage 1
+# Anlage 1
 
 Fundstelle des Originaltextes: GBl. I 1985, Nr. 5, 68 - 69
 
   
   
 I. Ernährungsphysiologische Richtwerte  
-Die Einhaltung der nachfolgenden Richtwerte für die Energie- und Nährstoffbereitstellung, die im Durchschnitt täglich je Gericht zu realisieren sind, ist die Voraussetzung für eine ernährungsphysiologisch hochwertige Schüler- und Kinderspeisung.  
-
+Die Einhaltung der nachfolgenden Richtwerte für die Energie- und Nährstoffbereitstellung, die im Durchschnitt täglich je Gericht zu realisieren sind, ist die Voraussetzung für eine ernährungsphysiologisch hochwertige Schüler- und Kinderspeisung. 
 |                 |        |                       |                                     |                        |
 |-----------------|--------|:---------------------:|:-----------------------------------:|:----------------------:|
 |                 |        | Schüler der Kl. 1 - 6 | Schüler der Kl. 7 - 12 u. Lehrlinge | Kinder in Kindergärten |
@@ -398,8 +377,7 @@ Darüber hinaus sind schrittweise für alle Schüler in den Einrichtungen der Sc
 
 12. Vor Einfüllen der Speisen in die Speisentransportbehälter sind die Gefäße heiß auszuspülen.
 
-
-## Anlage 2
+# Anlage 2
 
 Fundstelle des Originaltextes: GBl. I 1987, Nr. 13, 153 - 154
 
@@ -859,8 +837,7 @@ jeden Montag wird für die laufende Woche durch die produzierende Küche ein neu
 \-  
 treten erhebliche Qualitätsbeanstandungen auf, ist die produzierende Küche sofort durch die ausgebende Einrichtung zu informieren.
 
-
-## Anlage 3
+# Anlage 3
 
 (Fundstelle: GBl. DDR I 1975, Nr. 44, 721)
 
@@ -938,8 +915,7 @@ als Darunterposition vom Gaststättenumsatz ausgewiesen wird.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 4
+# Anlage 4
 
 Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 721 - 722
 
@@ -960,8 +936,7 @@ Als Fondsträger ist das Volkseigene Kontor Handelstechnik (VEKH) \*1) für die 
 
   
   
-Die Betriebe und Einrichtungen des Handels, der Volksbildung und Berufsbildung, die Schüler- und Kinderspeisung produzieren, übergeben dem Rat des Kreises, Abteilung Handel und Versorgung - jährlich bis zum 30. Mai - ihren Bedarf an küchentechnischen Ausrüstungen und Speisentransportbehältern entsprechend der typenkonkreten Nomenklatur \*2) bilanzierungspflichtiger Ausrüstungen.  
-Die Räte der Kreise, Abteilung Handel und Versorgung, übergeben
+Die Betriebe und Einrichtungen des Handels, der Volksbildung und Berufsbildung, die Schüler- und Kinderspeisung produzieren, übergeben dem Rat des Kreises, Abteilung Handel und Versorgung - jährlich bis zum 30. Mai - ihren Bedarf an küchentechnischen Ausrüstungen und Speisentransportbehältern entsprechend der typenkonkreten Nomenklatur \*2) bilanzierungspflichtiger Ausrüstungen. Die Räte der Kreise, Abteilung Handel und Versorgung, übergeben
 
 \-  
 dem zuständigen Ausrüstungsbetrieb des VEKH,
@@ -979,8 +954,7 @@ den Gesamtbedarf an küchentechnischer Ausrüstung und Speisentransportbehälter
 
 (Kinder- und Jugendheime, Spezialschulen).
 
-Die durch den Koordinierungsrat des Bezirkes bestätigten Fondsanteile werden den Räten der Kreise, Abteilung Handel und Versorgung, übergeben und von diesen auf die Betriebe und Einrichtungen verteilt.  
-Nach der Übergabe der Fondsanteile an die Betriebe und Einrichtungen erfolgt der Vertragsabschluß mit den zuständigen Vertriebsorganen. Das sind:  
+Die durch den Koordinierungsrat des Bezirkes bestätigten Fondsanteile werden den Räten der Kreise, Abteilung Handel und Versorgung, übergeben und von diesen auf die Betriebe und Einrichtungen verteilt. Nach der Übergabe der Fondsanteile an die Betriebe und Einrichtungen erfolgt der Vertragsabschluß mit den zuständigen Vertriebsorganen. Das sind:  
 
 |                                            |                                                                                            |
 |:-------------------------------------------|:-------------------------------------------------------------------------------------------|
@@ -991,8 +965,7 @@ Nach der Übergabe der Fondsanteile an die Betriebe und Einrichtungen erfolgt de
 
   
   
-Der Bedarf an Möbeln für die Schüler- und Kinderspeisung in Volksbildungseinrichtungen ist bei den zuständigen Räten der Bezirke, Abteilung Volksbildung, aufzugeben.  
-Bestellungen für Wirteglas und Hotelporzellan sind von den Bedarfsträgern
+Der Bedarf an Möbeln für die Schüler- und Kinderspeisung in Volksbildungseinrichtungen ist bei den zuständigen Räten der Bezirke, Abteilung Volksbildung, aufzugeben. Bestellungen für Wirteglas und Hotelporzellan sind von den Bedarfsträgern
 
 \-  
 der Bezirke Rostock, Schwerin, Neubrandenburg an den Ausrüstungsbetrieb Neubrandenburg des VEKH und
@@ -1000,9 +973,7 @@ der Bezirke Rostock, Schwerin, Neubrandenburg an den Ausrüstungsbetrieb Neubran
 \-  
 aller übrigen Bezirke an die territorial zuständige Großhandelsgesellschaft (GHG) Haushaltwaren
 
-einzureichen.  
-Bestellungen für Bestecke sind durch den Bedarfsträger der Hauptstadt der DDR, Berlin, der GHG Haushaltwaren zu übergeben. Alle anderen Bedarfsträger wenden sich an den für sie zuständigen VEB Maschinenbauhandel.  
------  
+einzureichen. Bestellungen für Bestecke sind durch den Bedarfsträger der Hauptstadt der DDR, Berlin, der GHG Haushaltwaren zu übergeben. Alle anderen Bedarfsträger wenden sich an den für sie zuständigen VEB Maschinenbauhandel. -----  
 
 \*1) Die Schlüsselnummer des Fondsträgers VEKH lautet 2643
 
@@ -1010,8 +981,7 @@ Bestellungen für Bestecke sind durch den Bedarfsträger der Hauptstadt der DDR,
 
 Die typenkonkrete Nomenklatur bilanzierungspflichtiger Ausrüstungen kann bei den Räten der Kreises, Abteilung Handel und Versorgung, eingesehen werden.
 
-
-## Anlage 5
+# Anlage 5
 
 Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 722
 
@@ -1068,7 +1038,6 @@ Herstellung und Verteilung der Speisen. Das schließt die Essenausgabe bei der K
 
 5
 
-
-## Anlage 6
+# Anlage 6
 
 (Fundstelle: GBl. DDR I 1987 Nr. 13, 154 - 155)

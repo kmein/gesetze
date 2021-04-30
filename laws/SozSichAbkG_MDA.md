@@ -1,20 +1,15 @@
-# [SozSichAbkG MDA] Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit
-
-Ausfertigungsdatum: 17.07.2017
-
+% Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit
+% Ausfertigungsdatum: 17.07.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Chișinău am 12. Januar 2017 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung des Abkommens erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -24,8 +19,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 3. die Zuständigkeit der Versicherungsträger oder anderer im Abkommen genannter Stellen und Behörden.
 
-
-## Art 3
+# Art 3
 
   
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

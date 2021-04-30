@@ -1,18 +1,13 @@
-# [ZahlPrüfbV] Verordnung über die Prüfung der Jahresabschlüsse der Zahlungsinstitute und E-Geld-Institute sowie die darüber zu erstellenden Berichte  (Zahlungsinstituts-Prüfungsberichtsverordnung - ZahlPrüfbV)
-
-Ausfertigungsdatum: 15.10.2009
-
+% Verordnung über die Prüfung der Jahresabschlüsse der Zahlungsinstitute und E-Geld-Institute sowie die darüber zu erstellenden Berichte  (Zahlungsinstituts-Prüfungsberichtsverordnung - ZahlPrüfbV)
+% Ausfertigungsdatum: 15.10.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 18 Absatz 3 Satz 1 des Zahlungsdiensteaufsichtsgesetzes vom 25. Juni 2009 (BGBl. I S. 1506) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium der Justiz nach Anhörung der Deutschen Bundesbank:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt
 
@@ -22,13 +17,11 @@ Auf Grund des § 18 Absatz 3 Satz 1 des Zahlungsdiensteaufsichtsgesetzes vom 25.
 
 (2) Diese Verordnung ist anzuwenden auf Institute im Sinne des § 1 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes. Auf Institute, die auch Kreditinstitute im Sinne des § 1 Absatz 1 des Kreditwesengesetzes sind, ist diese Verordnung nur insoweit anzuwenden, als sie Anforderungen enthält, die über die Prüfungsberichtsverordnung hinausgehen; über das Ergebnis der Prüfung ist ein einheitlicher Prüfungsbericht zu erstellen.
 
-
-## § 2 – Risikoorientierung und Wesentlichkeit
+# § 2 – Risikoorientierung und Wesentlichkeit
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit ist Rechnung zu tragen. Dabei sind insbesondere die Größe des Instituts, der Geschäftsumfang, die Komplexität der betriebenen Geschäfte sowie der Risikogehalt zu berücksichtigen.
 
-
-## § 3 – Art und Umfang der Berichterstattung
+# § 3 – Art und Umfang der Berichterstattung
 
 (1) Der Umfang der Berichterstattung hat, vorbehaltlich der nachfolgenden Bestimmungen, der Bedeutung und dem Risikogehalt der dargestellten Vorgänge zu entsprechen.
 
@@ -40,18 +33,15 @@ Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit ist Rech
 
 (5) Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer Beseitigung eingeleitet worden sind.
 
-
-## § 4 – Anlagen
+# § 4 – Anlagen
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung geforderten Angaben erstellt werden, können diese zum Zwecke der besseren Lesbarkeit als Anlagen zum Prüfungsbericht vorgelegt werden, wenn im Prüfungsbericht selbst eine hinreichende Beurteilung erfolgt und die Berichterstattung in Anlagen den Prüfungsbericht nicht unübersichtlich macht.
 
-
-## § 5 – Berichtszeitraum
+# § 5 – Berichtszeitraum
 
 Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum), ist in der Regel das am Stichtag des Jahresabschlusses (Bilanzstichtag) endende Geschäftsjahr (Berichtsjahr). Bei vom Geschäftsjahr abweichenden Berichtszeiträumen muss der Prüfungsbericht mindestens das Geschäftsjahr umfassen, das am Bilanzstichtag endet. Wurde die Prüfung unterbrochen, ist in dem Bericht darauf hinzuweisen und die Dauer der Unterbrechung unter Darlegung der Gründe anzugeben. Bestandsbezogene Angaben im Prüfungsbericht haben sich, soweit sich aus dieser Verordnung nichts anderes ergibt, auf den Bilanzstichtag zu beziehen.
 
-
-## § 6 – Zusammenfassende Schlussbemerkung
+# § 6 – Zusammenfassende Schlussbemerkung
 
 In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus ihr selbst ein Gesamturteil über
 
@@ -63,15 +53,13 @@ In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Ra
 
 gewonnen werden kann. Hinsichtlich der wirtschaftlichen Lage des Instituts ist insbesondere auf die geschäftliche Entwicklung, die Vermögens-, Liquiditäts- und Ertragslage sowie Art und Umfang der nicht bilanzwirksamen Geschäfte einzugehen. Der Schlussbemerkung muss auch zu entnehmen sein, ob die Bilanzposten ordnungsgemäß bewertet, insbesondere ob die gebildeten Wertberichtigungen und Rückstellungen angemessen sind und ob die geldwäscherechtlichen Vorschriften sowie die Anzeigevorschriften beachtet wurden. Zusammenfassend ist darzulegen, welche über die nach § 321 Absatz 1 Satz 3 des Handelsgesetzbuchs vorgeschriebenen Berichtsinhalte hinausgehenden wesentlichen Beanstandungen sich bei der Prüfung ergeben haben.
 
-
-## § 7 – Berichtsturnus; Unterzeichnung
+# § 7 – Berichtsturnus; Unterzeichnung
 
 (1) Soweit der Abschlussprüfer nach dieser Verordnung verpflichtet ist, nur über Änderungen zu berichten, hat er in angemessenen Abständen über die Darstellung der Änderungen hinausgehend vollständig zu berichten.
 
 (2) Der Prüfungsbericht ist unter Angabe von Ort und Datum zu unterzeichnen.
 
-
-## § 8 – Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+# § 8 – Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
 (1) Der Abschlussprüfer hat über die Ausschöpfung und Überschreitung der Erlaubnis zum Erbringen von Zahlungsdiensten beziehungsweise der Registrierung zum Erbringen von Kontoinformationsdiensten oder der Erlaubnis zum Betreiben des E-Geld-Geschäfts sowie die Erfüllung damit verbundener Auflagen im Berichtszeitraum zu berichten.
 
@@ -91,8 +79,7 @@ gewonnen werden kann. Hinsichtlich der wirtschaftlichen Lage des Instituts ist i
 
 7. Änderungen im organisatorischen Aufbau des Instituts sowie der unter Risikoaspekten bedeutsamen Ablauforganisation; das aktuelle Organigramm ist dem Prüfungsbericht als Anlage beizufügen,
 
-7a.  
-wesentliche Änderungen in den IT-Systemen; die entsprechenden IT-Projekte sind im Prüfungsbericht darzustellen,
+7a. wesentliche Änderungen in den IT-Systemen; die entsprechenden IT-Projekte sind im Prüfungsbericht darzustellen,
 
 8. Änderungen der Zugehörigkeit des Instituts zu einem Finanzkonglomerat im Sinne des § 1 Absatz 20 des Kreditwesengesetzes sowie Änderungen des übergeordneten Unternehmens eines Finanzkonglomerats nach § 12 des Finanzkonglomerate-Aufsichtsgesetzes.
 
@@ -100,13 +87,11 @@ wesentliche Änderungen in den IT-Systemen; die entsprechenden IT-Projekte sind 
 
 (4) Der Abschlussprüfer hat die Einbindung von Agenten im Sinne des § 1 Absatz 9 des Zahlungsdiensteaufsichtsgesetzes und von E-Geld-Agenten im Sinne des § 1 Absatz 10 des Zahlungsdiensteaufsichtsgesetzes in das Risikomanagement darzustellen und zu beurteilen. Über die Übereinstimmung der in den Anzeigen gemachten Angaben mit den bei dem Institut vorliegenden Informationen ist zu berichten. Darzustellen ist auch, wie das Institut die fachliche Eignung und Zuverlässigkeit der Agenten sicherstellt.
 
-
-## § 9 – Zweigniederlassungen
+# § 9 – Zweigniederlassungen
 
 Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. Dabei sind die Ergebniskomponenten dieser Zweigniederlassungen, deren Einfluss auf die Risikolage und die Risikovorsorge des Gesamtinstituts sowie deren Einbindung in das Risikomanagement des Gesamtinstituts zu beurteilen.
 
-
-## § 10 – Ordnungsmäßigkeit der Geschäftsorganisation
+# § 10 – Ordnungsmäßigkeit der Geschäftsorganisation
 
 (1) Der Abschlussprüfer hat die Ordnungsmäßigkeit der Geschäftsorganisation im Sinne des § 27 Absatz 1 Satz 1 Halbsatz 1 des Zahlungsdiensteaufsichtsgesetzes unter Berücksichtigung der Komplexität und des Umfangs der von dem Institut eingegangenen Risiken zu beurteilen. Dabei ist insbesondere auf Adressenausfallrisiken und Marktpreisrisiken, einschließlich der Zinsänderungsrisiken, sowie auf Liquiditäts- und operationelle Risiken sowie auf damit verbundene Risikokonzentrationen gesondert einzugehen.
 
@@ -122,8 +107,7 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 (3) Der Abschlussprüfer hat ferner zu beurteilen, ob die Strukturen des Instituts es seinen Geschäftsleitern sowie seinem Verwaltungs- oder Aufsichtsorgan ermöglichen, seine Aufgaben ordnungsgemäß wahrzunehmen.
 
-
-## § 10a – IT-Systeme
+# § 10a – IT-Systeme
 
 (1) Der Abschlussprüfer hat im Rahmen der Beurteilung nach § 10 Absatz 2 Satz 1 und 2 Nummer 3 insbesondere darauf einzugehen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, Vertraulichkeit, Authentizität und Verfügbarkeit der aufsichtlich relevanten Daten angemessen sind und wirksam umgesetzt werden. Dabei ist insbesondere gesondert einzugehen auf
 
@@ -135,8 +119,7 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 (2) Werden externe IT-Ressourcen eingesetzt, so erstrecken sich die vorgenannten Berichte auch auf diese IT-Ressourcen einschließlich deren Einbindung in das Institut.
 
-
-## § 11 – Ermittlung der Eigenmittel
+# § 11 – Ermittlung der Eigenmittel
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung der angemessenen Eigenmittel angemessen sind; wesentliche Verfahrensänderungen während des Berichtszeitraums sind darzustellen.
 
@@ -144,8 +127,7 @@ Der Abschlussprüfer hat über ausländische Zweigniederlassungen zu berichten. 
 
 (3) Kredite im Sinne des § 24 Absatz 1 Nummer 17 des Kreditwesengesetzes sind auch danach zu beurteilen, ob sie zu marktüblichen Bedingungen gewährt werden und banküblich besichert sind.
 
-
-## § 12 – Eigenmittel
+# § 12 – Eigenmittel
 
 (1) Darzustellen sind Höhe und Zusammensetzung der Eigenmittel des Instituts nach § 15 Absatz 1 Satz 1 und 2 und § 1 Absatz 29 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit den Bestimmungen der ZAG-Instituts-Eigenmittelverordnung nach dem Stand bei Geschäftsschluss am Bilanzstichtag und unter der Annahme der Feststellung des geprüften Abschlusses. Die bei beziehungsweise von anderen Instituten, Kredit- oder Finanzdienstleistungsinstituten, Finanzunternehmen, Erstversicherungsunternehmen und Rückversicherungsunternehmen aufgenommenen beziehungsweise gehaltenen Eigenmittelbestandteile sind unter namentlicher Nennung dieser Unternehmen besonders zu kennzeichnen.
 
@@ -167,13 +149,11 @@ eingegangen werden.
 
 (4) Bei den Erläuterungen der Eigenmittel sind insbesondere befristete oder von Seiten des Kapitalgebers kündbare Eigenmittelbestandteile nach ihrem frühestmöglichen Mittelabfluss beziehungsweise nach ihrer frühestmöglichen Kündbarkeit in Jahresbändern darzustellen; Gleiches gilt für Instrumente des Ergänzungskapitals anhand deren Fälligkeit.
 
-
-## § 13 – Solvabilitätskennzahl
+# § 13 – Solvabilitätskennzahl
 
 Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung der Solvabilitätskennzahl nach der ZAG-Instituts-Eigenmittelverordnung angemessen sind. Dabei ist insbesondere auf Änderungen gegenüber dem letzten Berichtszeitraum einzugehen. Die Entwicklung der Eigenmittelquote ist darzustellen.
 
-
-## § 13a – Absicherung für den Haftungsfall bei Zahlungsauslösediensten
+# § 13a – Absicherung für den Haftungsfall bei Zahlungsauslösediensten
 
 (1) Die Absicherung für den Haftungsfall bei Zahlungsauslösediensten nach § 16 des Zahlungsdiensteaufsichtsgesetzes ist darzustellen und ihre Wirksamkeit zu beurteilen.
 
@@ -189,8 +169,7 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 
 (4) Besonderheiten bei der Entwicklung der Absicherung für den Haftungsfall bei Zahlungsauslösediensten während des Berichtszeitraums sind näher darzustellen.
 
-
-## § 13b – Absicherung für den Haftungsfall bei Kontoinformationsdiensten
+# § 13b – Absicherung für den Haftungsfall bei Kontoinformationsdiensten
 
 (1) Die Absicherung für den Haftungsfall bei Kontoinformationsdiensten nach § 36 des Zahlungsdiensteaufsichtsgesetzes ist darzustellen und ihre Wirksamkeit zu beurteilen.
 
@@ -200,13 +179,11 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 
 (4) § 13a Absatz 4 findet entsprechende Anwendung.
 
-
-## § 14 – Anzeigewesen
+# § 14 – Anzeigewesen
 
 Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf die Vollständigkeit und Richtigkeit der Anzeigen und Meldungen ist einzugehen, festgestellte wesentliche Verstöße sind aufzuführen.
 
-
-## § 15 – Zeitpunkt der Prüfung und Berichtszeitraum
+# § 15 – Zeitpunkt der Prüfung und Berichtszeitraum
 
 (1) Die Prüfung der Vorkehrungen der Institute zur Verhinderung von Geldwäsche und der Terrorismusfinanzierung findet einmal jährlich statt. Der Abschlussprüfer legt den Beginn der Prüfung und den Berichtszeitraum vorbehaltlich der nachfolgenden Bestimmungen nach pflichtgemäßem Ermessen fest.
 
@@ -216,8 +193,7 @@ Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Auf die Vollst�
 
 (4) Die Einhaltung der Vorschriften des Geldwäschegesetzes in Verbindung mit § 27 Absatz 1 Nummer 5 des Zahlungsdiensteaufsichtsgesetzes, der §§ 24c, 25i und 25m des Kreditwesengesetzes in Verbindung mit § 27 Absatz 2 Satz 1 des Zahlungsdiensteaufsichtsgesetzes sowie der Verordnung (EU) 2015/847 des Europäischen Parlaments und des Rates vom 20. Mai 2015 über die Übermittlung von Angaben bei Geldtransfers und zur Aufhebung der Verordnung (EU) Nr. 1781/2006 (ABl. L 141 vom 5.6.2015, S. 1) ist bei Zahlungsinstituten, deren Zahlungsvolumen als Betrag den Gesamtwert von 36 Millionen Euro im vorausgegangenen Geschäftsjahr nicht überschreitet, nur in zweijährigem Turnus, beginnend mit dem ersten vollen Geschäftsjahr des Erbringens von Zahlungsdiensten, zu prüfen, es sei denn, die Risikolage des Zahlungsinstituts erfordert ein kürzeres Prüfintervall.
 
-
-## § 16 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+# § 16 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
 (1) Der Abschlussprüfer hat im Prüfungsbericht die Vorkehrungen darzustellen, die das verpflichtete Institut im Berichtszeitraum zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung getroffen hat. Die Ausführungen des Abschlussprüfers müssen sich auf sämtliche im Erfassungsbogen nach Anlage 2 relevanten und einschlägigen Pflichten im Hinblick auf das Geschäftsmodell erstrecken.
 
@@ -273,8 +249,7 @@ sowie
 
 (10) Die Vorschrift zum Prüfintervall nach § 15 Absatz 4 bleibt durch die vorstehenden Absätze unberührt.
 
-
-## § 16a – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
+# § 16a – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
 
@@ -286,8 +261,7 @@ sowie
 
 (3) Sofern die Durchführung interner Vorkehrungen durch das Institut vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
-
-## § 16b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
+# § 16b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22) entsprechen. Die Beurteilung umfasst
 
@@ -301,8 +275,7 @@ sowie
 
 (3) Sofern die Durchführung interner Vorkehrungen durch das Institut vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
-
-## § 16c – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
+# § 16c – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
 
 (1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
 
@@ -316,8 +289,7 @@ sowie
 
 (+++ § 16c: Zur Anwendung vgl. § 24 Abs. 3 +++)
 
-
-## § 16d – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
+# § 16d – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
 
 (1) Bei Instituten hat der Abschlussprüfer zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den folgenden Anforderungen des Zahlungskontengesetzes entsprechen:
 
@@ -333,8 +305,7 @@ sowie
 
 (3) Sofern die Durchführung interner Vorkehrungen durch das Institut vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
-
-## § 17 – Berichterstattung über Zahlungsdienste und das E-Geld-Geschäft
+# § 17 – Berichterstattung über Zahlungsdienste und das E-Geld-Geschäft
 
 (1) Die Zahlungsdienstleister, über die die Zahlungsdienste und das E-Geld-Geschäft abgewickelt werden, sind unter Angabe der Kontoverbindung aufzuführen. Die Teilnahme an Zahlungssystemen ist darzustellen.
 
@@ -342,13 +313,11 @@ sowie
 
 (3) Die Herkunft der Mittel für die Kreditvergabe ist darzustellen. Die Laufzeit der Kredite ist anzugeben. Dabei ist auch darauf einzugehen, ob Prolongationen stattgefunden haben.
 
-
-## § 18 – Geschäftliche Entwicklung im Berichtsjahr
+# § 18 – Geschäftliche Entwicklung im Berichtsjahr
 
 Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres darzustellen und zu erläutern.
 
-
-## § 19 – Beurteilung der Vermögenslage
+# § 19 – Beurteilung der Vermögenslage
 
 (1) Die Entwicklung der Vermögenslage ist zu beurteilen. Besonderheiten, die für die Beurteilung der Vermögenslage von Bedeutung sind, insbesondere Art und Umfang bilanzunwirksamer Ansprüche und Verpflichtungen, sind hervorzuheben.
 
@@ -360,8 +329,7 @@ Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie kennzeichnen
 
 3. alle abgegebenen Patronatserklärungen unter Darstellung des Inhalts und Beurteilung ihrer Rechtsverbindlichkeit.
 
-
-## § 20 – Beurteilung der Ertragslage
+# § 20 – Beurteilung der Ertragslage
 
 (1) Die Entwicklung der Ertragslage ist zu beurteilen.
 
@@ -369,15 +337,13 @@ Die geschäftliche Entwicklung ist unter Gegenüberstellung der sie kennzeichnen
 
 (3) Mögliche Auswirkungen von Risiken auf die Entwicklung der Ertragslage sind darzustellen.
 
-
-## § 21 – Risikolage und Risikovorsorge
+# § 21 – Risikolage und Risikovorsorge
 
 (1) Die Risikolage des Instituts ist zu beurteilen.
 
 (2) Das Verfahren zur Ermittlung der Risikovorsorge ist darzustellen und zu beurteilen. Art, Umfang und Entwicklung der Risikovorsorge sind zu erläutern und die Angemessenheit der Risikovorsorge ist zu beurteilen. Ist für den Zeitraum nach dem Bilanzstichtag neuer Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
-
-## § 22 – Erläuterungen
+# § 22 – Erläuterungen
 
 (1) Die Bilanzposten, Angaben unter dem Bilanzstrich und Posten der Gewinn- und Verlustrechnung sind unter Berücksichtigung des Grundsatzes der Wesentlichkeit des jeweiligen Postens zu erläutern und mit den Vorjahreszahlen zu vergleichen.
 
@@ -391,13 +357,11 @@ Zu den Verbindlichkeiten aus Bürgschaften und Gewährleistungsverträgen ist di
 
 Die Rücknahmeverpflichtungen aus unechten Pensionsgeschäften sind nach der Art der in Pension gegebenen Gegenstände und nach Fristen zu gliedern.
 
-
-## § 23 – Datenübersicht
+# § 23 – Datenübersicht
 
 Der Abschlussprüfer hat die auf das jeweilige Institut anwendbaren Formblätter aus den Anlagen 1 bis 3 zu dieser Verordnung auf der Grundlage der Daten des Prüfungsberichts und unter Angabe der entsprechenden Vorjahresdaten auszufüllen und dem Prüfungsbericht beizufügen.
 
-
-## § 24 – Erstmalige Anwendung
+# § 24 – Erstmalige Anwendung
 
 (1) Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung anzuwenden, die das nach dem 31. Oktober 2008 beginnende Geschäftsjahr betrifft.
 
@@ -407,13 +371,11 @@ Der Abschlussprüfer hat die auf das jeweilige Institut anwendbaren Formblätter
 
 (4) Diese Verordnung in der Fassung des Artikels 1 der Verordnung zur Änderung der Zahlungsinstituts-Prüfungsberichtsverordnung vom 13. Dezember 2018 (BGBl. I S. 2468) ist erstmals auf die Prüfung für nach dem 31. Dezember 2017 beginnende Geschäftsjahre anzuwenden.
 
-
-## § 25 – Inkrafttreten
+# § 25 – Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
-
-## Anlage 1 – (zu § 8 Absatz 3)Datenübersicht für Institute, die Bereiche auf ein anderes Unternehmen ausgelagert haben
+# Anlage 1 – (zu § 8 Absatz 3)Datenübersicht für Institute, die Bereiche auf ein anderes Unternehmen ausgelagert haben
 
 (Fundstelle: BGBl. I 2018, 2475)
 
@@ -430,8 +392,7 @@ Nummer</td><td style="text-align: center;">Auslagerungsunternehmen<br />
 Inklusive Adresse</td><td style="text-align: center;">Ausgelagerte Aktivitäten und Prozesse</td><td style="text-align: center;">Status<br />
 (geplant zum/ durchgeführt am/ beendet am)</td><td style="text-align: center;">Datum der Auslagerung</td><td style="text-align: center;">Bemerkungen insbesondere zu Weiterverlagerungen</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td><td style="text-align: center;"> </td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 16 Absatz 9)Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+# Anlage 2 – (zu § 16 Absatz 9)Erfassungsbogen für die Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
 
 (Fundstelle: BGBl. I 2018, 2476 - 2478)
 
@@ -446,8 +407,7 @@ Prüfungsstichtag:
 
 Prüfungsleiter vor Ort:
 
-A.  
-Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen institutseigenen Risikoanalyse (§ 16 Abs. 8 ZahlPrüfbV):
+A. Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen institutseigenen Risikoanalyse (§ 16 Abs. 8 ZahlPrüfbV):
 
 1. Auflistung sämtlicher angebotener Hochrisikoprodukte (laut Risikoanalyse):
 
@@ -457,8 +417,7 @@ Angaben zu folgenden Risikofaktoren anhand der aktuellen und vollständigen inst
 
 2\.
 
-B.  
-Klassifizierung von Prüfungsfeststellungen
+B. Klassifizierung von Prüfungsfeststellungen
 
 Für die Klassifizierung von Prüfungsfeststellungen ist der Prüfungsleiter vor Ort verantwortlich.
 
@@ -799,8 +758,7 @@ Pflichten des Instituts im Zusammenhang mit dem automatisierten Abruf von Kontoi
 
  
 
-
-## Anlage 3 – (zu § 23)Datenübersicht für Zahlungs- und E-Geld-Institute
+# Anlage 3 – (zu § 23)Datenübersicht für Zahlungs- und E-Geld-Institute
 
 (Fundstelle: BGBl. I 2009, 3654 - 3657;  
 bezüglich einzelner Änderungen vgl. Fußnote)

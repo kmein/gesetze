@@ -1,12 +1,7 @@
-# [PflBG] Gesetz über die Pflegeberufe   (Pflegeberufegesetz - PflBG)
-
-Ausfertigungsdatum: 17.07.2017
-
+% Gesetz über die Pflegeberufe   (Pflegeberufegesetz - PflBG)
+% Ausfertigungsdatum: 17.07.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -38,15 +33,15 @@ Ausfertigungsdatum: 17.07.2017
 
  
 
+ 
 
-## § 1 – Führen der Berufsbezeichnung
+# § 1 – Führen der Berufsbezeichnung
 
 (1) Wer die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ führen will, bedarf der Erlaubnis. Personen mit einer Ausbildung nach Teil 3 führen die Berufsbezeichnung „Pflegefachfrau“ oder „Pflegefachmann“ mit dem akademischen Grad.
 
 (2) Die Urkunde für die Erlaubnis nach Absatz 1 enthält neben der Berufsbezeichnung nach Absatz 1 einen Hinweis auf den nach § 7 Absatz 4 Satz 1 durchgeführten Vertiefungseinsatz.
 
-
-## § 2 – Voraussetzungen für die Erteilung der Erlaubnis
+# § 2 – Voraussetzungen für die Erteilung der Erlaubnis
 
 Die Erlaubnis zum Führen der Berufsbezeichnung ist auf Antrag zu erteilen, wenn die antragstellende Person
 
@@ -61,8 +56,7 @@ Die Erlaubnis zum Führen der Berufsbezeichnung ist auf Antrag zu erteilen, wenn
 (+++ § 2: Zur Anwendung vgl. § 58 Abs. 3 +++)  
 (+++ § 2 Nr. 2 bis 4: Zur Anwendung vgl. § 11 Abs. 2 +++)
 
-
-## § 3 – Rücknahme, Widerruf und Ruhen der Erlaubnis
+# § 3 – Rücknahme, Widerruf und Ruhen der Erlaubnis
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei Erteilung der Erlaubnis entweder die Voraussetzung nach § 2 Nummer 1 oder die Voraussetzung nach § 2 Nummer 2 nicht vorgelegen hat oder die Ausbildung nach den §§ 40 bis 42 nicht abgeschlossen war. Die Erlaubnis kann zurückgenommen werden, wenn bei Erteilung der Erlaubnis entweder die Voraussetzung nach § 2 Nummer 3 oder die Voraussetzung nach § 2 Nummer 4 nicht vorgelegen hat.
 
@@ -72,8 +66,7 @@ Die Erlaubnis zum Führen der Berufsbezeichnung ist auf Antrag zu erteilen, wenn
 
 (+++ § 3: Zur Anwendung vgl. § 58 Abs. 3 +++)
 
-
-## § 4 – Vorbehaltene Tätigkeiten
+# § 4 – Vorbehaltene Tätigkeiten
 
 (1) Pflegerische Aufgaben nach Absatz 2 dürfen beruflich nur von Personen mit einer Erlaubnis nach § 1 Absatz 1 durchgeführt werden. Ruht die Erlaubnis nach § 3 Absatz 3 Satz 1, dürfen pflegerische Aufgaben nach Absatz 2 nicht durchgeführt werden.
 
@@ -89,8 +82,7 @@ Die Erlaubnis zum Führen der Berufsbezeichnung ist auf Antrag zu erteilen, wenn
 
 (+++ § 4: Zur Anwendung vgl. § 58 Abs. 3 +++)
 
-
-## § 5 – Ausbildungsziel
+# § 5 – Ausbildungsziel
 
 (1) Die Ausbildung zur Pflegefachfrau oder zum Pflegefachmann vermittelt die für die selbstständige, umfassende und prozessorientierte Pflege von Menschen aller Altersstufen in akut und dauerhaft stationären sowie ambulanten Pflegesituationen erforderlichen fachlichen und personalen Kompetenzen einschließlich der zugrunde liegenden methodischen, sozialen, interkulturellen und kommunikativen Kompetenzen und der zugrunde liegenden Lernkompetenzen sowie der Fähigkeit zum Wissenstransfer und zur Selbstreflexion. Lebenslanges Lernen wird dabei als ein Prozess der eigenen beruflichen Biographie verstanden und die fortlaufende persönliche und fachliche Weiterentwicklung als notwendig anerkannt.
 
@@ -128,8 +120,7 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 (+++ § 5: Zur Anwendung vgl. § 61 Abs. 1 +++)  
 (+++ § 5 Abs. 4: Zur Anwendung vgl. § 37 Abs. 5 +++)
 
-
-## § 6 – Dauer und Struktur der Ausbildung
+# § 6 – Dauer und Struktur der Ausbildung
 
 (1) Die Ausbildung zur Pflegefachfrau oder zum Pflegefachmann dauert unabhängig vom Zeitpunkt der staatlichen Abschlussprüfung in Vollzeitform drei Jahre, in Teilzeitform höchstens fünf Jahre. Sie besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung; der Anteil der praktischen Ausbildung überwiegt.
 
@@ -141,8 +132,7 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 
 (5) Zum Ende des zweiten Ausbildungsdrittels findet eine Zwischenprüfung statt.
 
-
-## § 7 – Durchführung der praktischen Ausbildung
+# § 7 – Durchführung der praktischen Ausbildung
 
 (1) Die Pflichteinsätze in der allgemeinen Akutpflege in stationären Einrichtungen, der allgemeinen Langzeitpflege in stationären Einrichtungen und der allgemeinen ambulanten Akut- und Langzeitpflege werden in folgenden Einrichtungen durchgeführt:
 
@@ -162,8 +152,7 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 
 (6) Die Länder können durch Landesrecht bestimmen, dass eine Ombudsstelle zur Beilegung von Streitigkeiten zwischen der oder dem Auszubildenden und dem Träger der praktischen Ausbildung bei der zuständigen Stelle nach § 26 Absatz 4 eingerichtet wird.
 
-
-## § 8 – Träger der praktischen Ausbildung
+# § 8 – Träger der praktischen Ausbildung
 
 (1) Der Träger der praktischen Ausbildung trägt die Verantwortung für die Durchführung der praktischen Ausbildung einschließlich ihrer Organisation. Er schließt mit der oder dem Auszubildenden einen Ausbildungsvertrag.
 
@@ -183,8 +172,7 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 
 (5) Auszubildende sind für die gesamte Dauer der Ausbildung Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes oder von § 4 des Bundespersonalvertretungsgesetzes des Trägers der praktischen Ausbildung. Träger der praktischen Ausbildung bleibt auch in den Fällen des Absatzes 4 die Einrichtung nach den Absätzen 1 und 2.
 
-
-## § 9 – Mindestanforderungen an Pflegeschulen
+# § 9 – Mindestanforderungen an Pflegeschulen
 
 (1) Pflegeschulen müssen folgende Mindestanforderungen erfüllen:
 
@@ -198,15 +186,13 @@ i) Anleitung, Beratung und Unterstützung von anderen Berufsgruppen und Ehrenamt
 
 (3) Die Länder können durch Landesrecht das Nähere zu den Mindestanforderungen nach den Absätzen 1 und 2 bestimmen und weitere, auch darüber hinausgehende Anforderungen festlegen. Sie können für die Lehrkräfte für die Durchführung des theoretischen Unterrichts nach Absatz 1 Nummer 2 befristet bis zum 31. Dezember 2029 regeln, inwieweit die erforderliche Hochschulausbildung nicht oder nur für einen Teil der Lehrkräfte auf Master- oder vergleichbarem Niveau vorliegen muss.
 
-
-## § 10 – Gesamtverantwortung der Pflegeschule
+# § 10 – Gesamtverantwortung der Pflegeschule
 
 (1) Die Pflegeschule trägt die Gesamtverantwortung für die Koordination des Unterrichts mit der praktischen Ausbildung. Sie prüft, ob der Ausbildungsplan für die praktische Ausbildung den Anforderungen des schulinternen Curriculums entspricht. Ist dies nicht der Fall, ist der Träger der praktischen Ausbildung zur Anpassung des Ausbildungsplans verpflichtet.
 
 (2) Die Pflegeschule überprüft anhand des von den Auszubildenden zu führenden Ausbildungsnachweises, ob die praktische Ausbildung gemäß dem Ausbildungsplan durchgeführt wird. Die an der praktischen Ausbildung beteiligten Einrichtungen unterstützen die Pflegeschule bei der Durchführung der von dieser zu leistenden Praxisbegleitung.
 
-
-## § 11 – Voraussetzungen für den Zugang zur Ausbildung
+# § 11 – Voraussetzungen für den Zugang zur Ausbildung
 
 (1) Voraussetzung für den Zugang zu der Ausbildung zur Pflegefachfrau oder zum Pflegefachmann ist
 
@@ -228,15 +214,13 @@ oder
 
 (2) § 2 Nummer 2 bis 4 findet entsprechende Anwendung.
 
-
-## § 12 – Anrechnung gleichwertiger Ausbildungen
+# § 12 – Anrechnung gleichwertiger Ausbildungen
 
 (1) Die zuständige Behörde kann auf Antrag eine andere erfolgreich abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer Ausbildung im Umfang ihrer Gleichwertigkeit bis zu zwei Dritteln der Dauer einer Ausbildung nach § 6 Absatz 1 Satz 1 anrechnen. Das Erreichen des Ausbildungsziels darf durch die Anrechnung nicht gefährdet werden.
 
 (2) Ausbildungen, die die von der Arbeits- und Sozialministerkonferenz 2012 und von der Gesundheitsministerkonferenz 2013 als Mindestanforderungen beschlossenen „Eckpunkte für die in Länderzuständigkeit liegenden Ausbildungen zu Assistenz- und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) erfüllen, sind auf Antrag auf ein Drittel der Dauer der Ausbildung nach § 6 Absatz 1 Satz 1 anzurechnen.
 
-
-## § 13 – Anrechnung von Fehlzeiten
+# § 13 – Anrechnung von Fehlzeiten
 
 (1) Auf die Dauer der Ausbildung werden angerechnet:
 
@@ -256,8 +240,7 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 (3) Freistellungsansprüche nach dem Betriebsverfassungsgesetz, dem Bundespersonalvertretungsgesetz oder den Landespersonalvertretungsgesetzen bleiben unberührt.
 
-
-## § 14 – Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch
+# § 14 – Ausbildung im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch
 
 (1) Zur zeitlich befristeten Erprobung von Ausbildungsangeboten, die der Weiterentwicklung des nach diesem Gesetz geregelten Berufes im Rahmen von Modellvorhaben nach § 63 Absatz 3c des Fünften Buches Sozialgesetzbuch dienen, können über die in § 5 beschriebenen Aufgaben hinausgehende erweiterte Kompetenzen zur Ausübung heilkundlicher Tätigkeiten vermittelt werden. Dabei darf die Erreichung des Ausbildungsziels nicht gefährdet sein.
 
@@ -275,8 +258,7 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 (+++ § 14: Zur Anwendung vgl. § 37 Abs. 5 +++)
 
-
-## § 15 – Modellvorhaben zur Weiterentwicklung des Pflegeberufs
+# § 15 – Modellvorhaben zur Weiterentwicklung des Pflegeberufs
 
 (1) Zur zeitlich befristeten Erprobung von Konzepten zur Durchführung der schulischen und praktischen Ausbildung können die Länder im Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Gesundheit Abweichungen von den §§ 6, 7 und 10 und den Vorschriften der Ausbildungs- und Prüfungsverordnung nach § 56 Absatz 1, die sich nicht auf Inhalte oder Prüfungsvorgaben beziehen, zulassen, sofern das Erreichen der Ausbildungsziele nach § 5 nicht gefährdet wird und die Vereinbarkeit der Ausbildung mit der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom 16.10.2007, S. 18), die zuletzt durch den Delegierten Beschluss (EU) 2016/790 (ABl. L 134 vom 24.5.2016, S. 135) geändert worden ist, gewährleistet ist. Dabei können Teile des theoretischen Unterrichts nach § 6 Absatz 2 als Fernunterricht erteilt werden.
 
@@ -288,8 +270,7 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 3. die Laufzeit des Modellvorhabens fünf Jahre nicht überschreitet und eine Verlängerung um höchstens zwei Jahre anhand der Evaluierungsergebnisse zu begründen ist.
 
-
-## § 16 – Ausbildungsvertrag
+# § 16 – Ausbildungsvertrag
 
 (1) Zwischen dem Träger der praktischen Ausbildung und der oder dem Auszubildenden ist ein schriftlicher Ausbildungsvertrag nach Maßgabe der Vorschriften dieses Abschnitts zu schließen.
 
@@ -327,8 +308,7 @@ nach Maßgabe der Ausbildungs- und Prüfungsverordnung,
 
 (+++ § 16: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 17 – Pflichten der Auszubildenden
+# § 17 – Pflichten der Auszubildenden
 
 Die oder der Auszubildende hat sich zu bemühen, die in § 5 genannten Kompetenzen zu erwerben, die erforderlich sind, um das Ausbildungsziel zu erreichen. Sie oder er ist insbesondere verpflichtet,
 
@@ -344,8 +324,7 @@ Die oder der Auszubildende hat sich zu bemühen, die in § 5 genannten Kompetenz
 
 (+++ § 17: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 18 – Pflichten des Trägers der praktischen Ausbildung
+# § 18 – Pflichten des Trägers der praktischen Ausbildung
 
 (1) Der Träger der praktischen Ausbildung ist verpflichtet,
 
@@ -363,8 +342,7 @@ Die oder der Auszubildende hat sich zu bemühen, die in § 5 genannten Kompetenz
 
 (+++ § 18: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 19 – Ausbildungsvergütung
+# § 19 – Ausbildungsvergütung
 
 (1) Der Träger der praktischen Ausbildung hat der oder dem Auszubildenden für die gesamte Dauer der Ausbildung eine angemessene Ausbildungsvergütung zu zahlen. Die oder der Auszubildende steht den zur Berufsausbildung Beschäftigten im Sinne sozialversicherungsrechtlicher Bestimmungen gleich.
 
@@ -374,15 +352,13 @@ Die oder der Auszubildende hat sich zu bemühen, die in § 5 genannten Kompetenz
 
 (+++ § 19: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 20 – Probezeit
+# § 20 – Probezeit
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit beträgt sechs Monate, sofern sich aus tarifvertraglichen Regelungen keine andere Dauer ergibt.
 
 (+++ § 20: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 21 – Ende des Ausbildungsverhältnisses
+# § 21 – Ende des Ausbildungsverhältnisses
 
 (1) Das Ausbildungsverhältnis endet unabhängig vom Zeitpunkt der staatlichen Abschlussprüfung mit Ablauf der Ausbildungszeit.
 
@@ -390,8 +366,7 @@ Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit beträgt sec
 
 (+++ § 21: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 22 – Kündigung des Ausbildungsverhältnisses
+# § 22 – Kündigung des Ausbildungsverhältnisses
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist gekündigt werden.
 
@@ -407,15 +382,13 @@ Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit beträgt sec
 
 (+++ § 22: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 23 – Beschäftigung im Anschluss an das Ausbildungsverhältnis
+# § 23 – Beschäftigung im Anschluss an das Ausbildungsverhältnis
 
 Wird die oder der Auszubildende im Anschluss an das Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
 (+++ § 23: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 24 – Nichtigkeit von Vereinbarungen
+# § 24 – Nichtigkeit von Vereinbarungen
 
 (1) Eine Vereinbarung, die zu Ungunsten der oder des Auszubildenden von den übrigen Vorschriften dieses Abschnitts abweicht, ist nichtig.
 
@@ -433,13 +406,11 @@ Wird die oder der Auszubildende im Anschluss an das Ausbildungsverhältnis besch
 
 (+++ § 24: Zur Nichtanwendung vgl. § 25 +++)
 
-
-## § 25 – Ausschluss der Geltung von Vorschriften dieses Abschnitts
+# § 25 – Ausschluss der Geltung von Vorschriften dieses Abschnitts
 
 Die §§ 16 bis 24 finden keine Anwendung auf Auszubildende, die Diakonissen, Diakonieschwestern oder Mitglieder geistlicher Gemeinschaften sind.
 
-
-## § 26 – Grundsätze der Finanzierung
+# § 26 – Grundsätze der Finanzierung
 
 (1) Mit dem Ziel,
 
@@ -475,8 +446,7 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 (7) Die Bestimmung der zuständigen Stelle kann länderübergreifend erfolgen.
 
-
-## § 27 – Ausbildungskosten
+# § 27 – Ausbildungskosten
 
 (1) Kosten der Pflegeberufsausbildung sind die Mehrkosten der Ausbildungsvergütungen und die Kosten der praktischen Ausbildung einschließlich der Kosten der Praxisanleitung. Zu den Ausbildungskosten gehören auch die Betriebskosten der Pflegeschulen nach § 6 Absatz 2 einschließlich der Kosten der Praxisbegleitung. Nicht zu den Ausbildungskosten gehören die Investitionskosten. Investitionskosten sind Aufwendungen für Maßnahmen einschließlich Kapitalkosten, die dazu bestimmt sind, die für den jeweiligen Betrieb notwendigen Gebäude und sonstigen abschreibungsfähigen Anlagegüter herzustellen, anzuschaffen, wiederzubeschaffen oder zu ergänzen.
 
@@ -484,15 +454,13 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 (+++ § 27 Abs. 1 Satz 3: Zur Anwendung vgl. § 29 Abs. 3 +++)
 
-
-## § 28 – Umlageverfahren
+# § 28 – Umlageverfahren
 
 (1) Die Finanzierung der Ausgleichsfonds durch Krankenhäuser und ambulante und stationäre Pflegeeinrichtungen erfolgt über landesweite Umlageverfahren nach Maßgabe des Absatzes 2 und der §§ 29 bis 35.
 
 (2) Die an den Umlageverfahren teilnehmenden Krankenhäuser können die auf sie entfallenden Umlagebeträge zusätzlich zu den Entgelten oder Vergütungen für ihre Leistungen als Ausbildungszuschläge erheben; für ambulante und stationäre Pflegeeinrichtungen sind die auf sie entfallenden Umlagebeträge in der Vergütung der allgemeinen Pflegeleistungen (§ 84 Absatz 1, § 89 des Elften Buches Sozialgesetzbuch) berücksichtigungsfähig.
 
-
-## § 29 – Ausbildungsbudget, Grundsätze
+# § 29 – Ausbildungsbudget, Grundsätze
 
 (1) Die Träger der praktischen Ausbildung und die Pflegeschulen erhalten für einen zukünftigen Zeitraum (Finanzierungszeitraum) ein Ausbildungsbudget zur Finanzierung der Ausbildungskosten. Das Ausbildungsbudget des Trägers der praktischen Ausbildung umfasst auch die Ausbildungskosten der weiteren an der praktischen Ausbildung beteiligten Einrichtungen nach § 8 Absatz 3; es setzt sich zusammen aus den voraussichtlichen Mehrkosten der Ausbildungsvergütung und aus den Kosten der praktischen Ausbildung je Auszubildender oder je Auszubildendem.
 
@@ -508,8 +476,7 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 (7) Das Land und die Parteien sind an ihre Erklärungen für den folgenden Finanzierungszeitraum gebunden. Darüber hinaus gelten die Erklärungen nach Absatz 5 bis zu einer abweichenden Erklärung fort. Die abweichenden Erklärungen können ebenfalls bis zum 15. Januar des Vorjahres des jeweiligen Finanzierungszeitraumes abgegeben werden.
 
-
-## § 30 – Pauschalbudgets
+# § 30 – Pauschalbudgets
 
 (1) Die zuständige Behörde des Landes, die Landeskrankenhausgesellschaft, die Vereinigungen der Träger der ambulanten oder stationären Pflegeeinrichtungen im Land, die Landesverbände der Kranken- und Pflegekassen sowie der Landesausschuss des Verbandes der privaten Krankenversicherung legen durch gemeinsame Vereinbarungen Pauschalen zu den Kosten der praktischen Ausbildung fest. Die gemeinsame Vereinbarung der Pauschalen zu den Ausbildungskosten der Pflegeschulen wird von der zuständigen Behörde des Landes, den Landesverbänden der Kranken- und Pflegekassen, dem Landesausschuss des Verbandes der privaten Krankenversicherung sowie von Interessenvertretungen der öffentlichen und der privaten Pflegeschulen auf Landesebene getroffen. Keiner Pauschalierung zugänglich sind die Mehrkosten der Ausbildungsvergütung.
 
@@ -521,8 +488,7 @@ werden die Kosten der Pflegeausbildung nach Teil 2 durch Ausgleichsfonds nach Ma
 
 (5) Erfolgt eine Mitteilung nach Absatz 4 Satz 1 bis 3 nicht oder nicht vollständig innerhalb von für die Mitteilung vorgegebenen Fristen oder wurden bestimmte Angaben in der Mitteilung nach Absatz 4 Satz 4 zurückgewiesen und werden die zurückgewiesenen Angaben nicht fristgerecht nachträglich mitgeteilt, nimmt die zuständige Stelle eine Schätzung vor.
 
-
-## § 31 – Individualbudgets
+# § 31 – Individualbudgets
 
 (1) Werden die Ausbildungsbudgets nach § 29 Absatz 5 Satz 2 und 3 individuell vereinbart, sind Parteien der Budgetverhandlung
 
@@ -542,8 +508,7 @@ Pflegeschulen und Träger der praktischen Ausbildung können vereinbaren, dass d
 
 (5) Erfolgt eine Mitteilung nach Absatz 4 Satz 1 und 2 nicht oder nicht vollständig innerhalb von für die Mitteilung vorgegebenen Fristen oder wurden bestimmte Angaben in der Mitteilung nach Absatz 4 Satz 3 zurückgewiesen und werden die zurückgewiesenen Angaben nicht fristgerecht nachträglich mitgeteilt, nimmt die zuständige Stelle eine Schätzung vor.
 
-
-## § 32 – Höhe des Finanzierungsbedarfs; Verwaltungskosten
+# § 32 – Höhe des Finanzierungsbedarfs; Verwaltungskosten
 
 (1) Die zuständige Stelle ermittelt für den jeweiligen Finanzierungszeitraum die Höhe des Finanzierungsbedarfs für die Pflegeausbildung im Land aus
 
@@ -555,8 +520,7 @@ Schätzungen nach § 30 Absatz 5 und § 31 Absatz 5 stehen den bei der Ermittlun
 
 (2) Die zuständige Stelle erhebt als Ausgleich für anfallende Verwaltungs- und Vollstreckungskosten 0,6 Prozent der sich aus Absatz 1 Nummer 1 ergebenden Summe (Verwaltungskostenpauschale). Dieser Betrag wird gesondert ausgewiesen und zum Finanzierungsbedarf nach Absatz 1 hinzugerechnet.
 
-
-## § 33 – Aufbringung des Finanzierungsbedarfs; Verordnungsermächtigung
+# § 33 – Aufbringung des Finanzierungsbedarfs; Verordnungsermächtigung
 
 (1) Der nach § 32 ermittelte Finanzierungsbedarf wird durch die Erhebung von Umlagebeträgen und Zahlungen nach § 26 Absatz 3 nach folgenden Anteilen aufgebracht:
 
@@ -588,8 +552,7 @@ Schätzungen nach § 30 Absatz 5 und § 31 Absatz 5 stehen den bei der Ermittlun
 
 Rechtsverordnungen nach Satz 3 sind dem Bundestag zuzuleiten. Die Zuleitung erfolgt vor der Zuleitung an den Bundesrat. Die Rechtsverordnungen können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet.
 
-
-## § 34 – Ausgleichszuweisungen
+# § 34 – Ausgleichszuweisungen
 
 (1) Die Ausgleichszuweisungen erfolgen an den Träger der praktischen Ausbildung und an die Pflegeschule in monatlichen Beträgen entsprechend dem nach § 29 festgesetzten Ausbildungsbudget durch die zuständige Stelle. Die Ausgleichszuweisungen sind zweckgebunden für die Ausbildung zu verwenden. Abweichungen zwischen der Zahl der Ausbildungsplätze, die der Meldung nach § 30 Absatz 4 oder der Budgetvereinbarung nach § 31 zugrunde gelegt worden sind, und der tatsächlichen Anzahl der Ausbildungsplätze teilt der Träger der praktischen Ausbildung der zuständigen Stelle mit; er beziffert die aufgrund der Abweichung anfallenden Mehr- oder Minderausgaben. Minderausgaben sind bei den monatlichen Ausgleichzuweisungen vollständig zu berücksichtigen; Mehrausgaben sind zu berücksichtigen, soweit die Liquiditätsreserve dies zulässt. Entsprechende Mitteilungspflichten haben die Pflegeschulen.
 
@@ -603,15 +566,13 @@ Rechtsverordnungen nach Satz 3 sind dem Bundestag zuzuleiten. Die Zuleitung erfo
 
 (6) Überschreiten die tatsächlichen Ausgaben aufgrund gestiegener Ausbildungszahlen die Höhe der Ausgleichszuweisungen, werden diese Mehrausgaben bei der auf die Abrechnung folgenden Festlegung oder Vereinbarung des Ausbildungsbudgets nach den §§ 30, 31 berücksichtigt; dies gilt nicht, soweit diese Mehrausgaben bereits nach Absatz 1 finanziert wurden. Überzahlungen aufgrund gesunkener Ausbildungszahlen sind unverzüglich an die zuständige Stelle zurückzuzahlen. Das Nähere zum Prüfverfahren wird durch Landesrecht bestimmt, soweit nicht das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit von der Ermächtigung nach § 56 Absatz 3 Nummer 4 Gebrauch machen.
 
-
-## § 35 – Rechnungslegung der zuständigen Stelle
+# § 35 – Rechnungslegung der zuständigen Stelle
 
 (1) Nach Ablauf des Finanzierungszeitraumes und nach der Abrechnung nach § 34 Absatz 5 und 6 erfolgt eine Rechnungslegung der zuständigen Stelle über die als Ausgleichsfonds und im Rahmen des Umlageverfahrens verwalteten Mittel.
 
 (2) Bei der Rechnungslegung ermittelte Überschüsse oder Defizite werden bei dem nach § 32 ermittelten Finanzierungsbedarf in dem auf die Rechnungslegung folgenden Erhebungs- und Abrechnungsjahr berücksichtigt.
 
-
-## § 36 – Schiedsstelle; Verordnungsermächtigung
+# § 36 – Schiedsstelle; Verordnungsermächtigung
 
 (1) Die Landesverbände der Kranken- und Pflegekassen, die Vereinigungen der Träger der ambulanten oder stationären Pflegeeinrichtungen im Land, die Landeskrankenhausgesellschaften und Vertreter des Landes bilden für jedes Land eine Schiedsstelle.
 
@@ -633,8 +594,7 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (6) Gegen die Entscheidung der Schiedsstelle ist der Verwaltungsrechtsweg gegeben. Ein Vorverfahren findet nicht statt; die Klage hat keine aufschiebende Wirkung.
 
-
-## § 37 – Ausbildungsziele
+# § 37 – Ausbildungsziele
 
 (1) Die primärqualifizierende Pflegeausbildung an Hochschulen befähigt zur unmittelbaren Tätigkeit an zu pflegenden Menschen aller Altersstufen und verfolgt gegenüber der beruflichen Pflegeausbildung nach Teil 2 ein erweitertes Ausbildungsziel.
 
@@ -656,8 +616,7 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (5) § 5 Absatz 4 und § 14 gelten entsprechend.
 
-
-## § 38 – Durchführung des Studiums
+# § 38 – Durchführung des Studiums
 
 (1) Das Studium dauert mindestens drei Jahre. Es umfasst theoretische und praktische Lehrveranstaltungen an staatlichen oder staatlich anerkannten Hochschulen anhand eines modularen Curriculums sowie Praxiseinsätze in Einrichtungen nach § 7.
 
@@ -671,8 +630,7 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (6) Die weitere Ausgestaltung des Studiums obliegt den Hochschulen. Sie beachtet die Vorgaben der Richtlinie 2005/36/EG.
 
-
-## § 39 – Abschluss des Studiums, staatliche Prüfung zur Erlangung der Berufszulassung
+# § 39 – Abschluss des Studiums, staatliche Prüfung zur Erlangung der Berufszulassung
 
 (1) Das Studium schließt mit der Verleihung des akademischen Grades durch die Hochschule ab. Die Hochschule überprüft das Erreichen der Ausbildungsziele nach § 37.
 
@@ -682,8 +640,7 @@ zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste
 
 (4) Die Modulprüfungen nach Absatz 2 Satz 1 werden unter dem gemeinsamen Vorsitz von Hochschule und Landesbehörde durchgeführt. Die zuständige Landesbehörde kann die Hochschule beauftragen, den Vorsitz auch für die zuständige Landesbehörde wahrzunehmen.
 
-
-## § 40 – Gleichwertigkeit und Anerkennung von Ausbildungen
+# § 40 – Gleichwertigkeit und Anerkennung von Ausbildungen
 
 (1) Eine außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz erworbene abgeschlossene Ausbildung erfüllt die Voraussetzungen des § 2 Nummer 1, wenn die Gleichwertigkeit des Ausbildungsstandes gegeben ist.
 
@@ -704,8 +661,7 @@ die antragstellende Person diese Unterschiede nicht durch Kenntnisse und Fähigk
 (+++ § 40 Abs. 2 Satz 2 u. 3: Zur Anwendung vgl. § 41 Abs. 2 +++)  
 (+++ § 40 Abs. 2 u. 3: Zur Anwendung vgl. § 41 Abs. 3 +++)
 
-
-## § 41 – Gleichwertigkeit entsprechender Ausbildungen; Verordnungsermächtigung
+# § 41 – Gleichwertigkeit entsprechender Ausbildungen; Verordnungsermächtigung
 
 (1) Für Personen, die eine Erlaubnis nach § 1 Absatz 1 beantragen, gilt die Voraussetzung des § 2 Nummer 1 als erfüllt, wenn aus einem Europäischen Berufsausweis oder aus einem in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworbenen Ausbildungsnachweis hervorgeht, dass die antragstellende Person eine Pflegeausbildung, die den Mindestanforderungen des Artikels 31 in Verbindung mit dem Anhang V Nummer 5.2.1 der Richtlinie 2005/36/EG entspricht, erworben hat und dies durch Vorlage eines in der Anlage aufgeführten und nach dem dort genannten Stichtag ausgestellten Ausbildungsnachweis eines der übrigen Mitgliedstaaten der Europäischen Union nachweist. Satz 1 gilt entsprechend für in der Anlage aufgeführte und nach dem 31. Dezember 1992 ausgestellte Ausbildungsnachweise eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum. Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Anlage zu diesem Gesetz späteren Änderungen des Anhangs V Nummer 5.2.1 der Richtlinie 2005/36/EG anzupassen. Gleichwertig den in Satz 1 genannten Ausbildungsnachweisen sind nach einem der in der Anlage aufgeführten Stichtag von den übrigen Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ausgestellte Ausbildungsnachweise der Pflegefachfrau oder des Pflegefachmanns, die den in der Anlage zu Satz 1 für den betreffenden Staat aufgeführten Bezeichnungen nicht entsprechen, aber mit einer Bescheinigung der zuständigen Behörde oder Stelle des Staates darüber vorgelegt werden, dass sie eine Ausbildung abschließen, die den Mindestanforderungen des Artikels 31 in Verbindung mit dem Anhang V Nummer 5.2.1 der Richtlinie 2005/36/EG entspricht und den für diesen Staat in der Anlage zu Satz 1 genannten Nachweisen gleichsteht. Inhaber eines bulgarischen Befähigungsnachweises für den Beruf des „фелдшер“ („Feldscher“) haben keinen Anspruch auf Anerkennung ihres beruflichen Befähigungsnachweises in anderen Mitgliedstaaten im Rahmen dieses Absatzes.
 
@@ -727,8 +683,7 @@ die antragstellende Person diese Unterschiede nicht durch Kenntnisse und Fähigk
 
 (+++ § 41 Abs. 2: Zur Anwendung vgl. § 46 Abs 3 +++)
 
-
-## § 42 – Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten
+# § 42 – Erlaubnis bei Vorlage von Nachweisen anderer EWR-Vertragsstaaten
 
 (1) Antragstellenden Personen, die die Voraussetzungen nach § 2 Nummer 2 bis 4 erfüllen und eine Erlaubnis nach § 1 Absatz 1 aufgrund der Vorlage eines Ausbildungsnachweises beantragen,
 
@@ -756,13 +711,11 @@ verfügen, dem eine Bescheinigung beigefügt ist, aus der hervorgeht, dass die a
 
 (5) Bei antragstellenden Personen, für die einer der Absätze 1 bis 4 gilt und die die dort genannten Voraussetzungen mit Ausnahme der geforderten Dauer der Berufserfahrung erfüllen, wird das Anerkennungsverfahren nach § 41 Absatz 3 durchgeführt.
 
-
-## § 43 – Feststellungsbescheid
+# § 43 – Feststellungsbescheid
 
 Wird die Voraussetzung nach § 2 Nummer 1 auf eine Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses Gesetzes abgeschlossen worden ist, soll die Gleichwertigkeit der Berufsqualifikation nach den Regelungen dieses Abschnitts vor den Voraussetzungen nach § 2 Nummer 2 bis 4 geprüft werden. Auf Antrag ist der antragstellenden Person ein gesonderter Bescheid über die Feststellung ihrer Berufsqualifikation zu erteilen.
 
-
-## § 44 – Dienstleistungserbringende Personen
+# § 44 – Dienstleistungserbringende Personen
 
 (1) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, die zur Ausübung des Berufes der Pflegefachfrau oder des Pflegefachmanns in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes aufgrund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder aufgrund eines den Anforderungen des § 41 Absatz 1 entsprechenden Ausbildungsnachweises berechtigt sind und in einem dieser Mitgliedstaaten rechtmäßig niedergelassen sind, dürfen als dienstleistungserbringende Personen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47) vorübergehend und gelegentlich ihren Beruf im Geltungsbereich dieses Gesetzes ausüben. Sie führen die Berufsbezeichnung nach § 1 Absatz 1 ohne Erlaubnis und dürfen die Tätigkeiten nach § 4 Absatz 2 ausüben.
 
@@ -780,15 +733,13 @@ dürfen als dienstleistungserbringende Personen im Sinne des Artikels 57 des Ver
 
 (5) Die Absätze 1 bis 4 sowie die §§ 45 bis 48 gelten entsprechend für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 45 – Rechte und Pflichten
+# § 45 – Rechte und Pflichten
 
 Dienstleistungserbringende Personen haben beim Erbringen der Dienstleistung im Geltungsbereich dieses Gesetzes die gleichen Rechte und Pflichten wie Personen mit einer Erlaubnis nach § 1 Absatz 1 oder § 58 Absatz 1 oder Absatz 2.
 
 (+++ § 45: Zur Anwendung vgl. § 44 Abs. 5 +++)
 
-
-## § 46 – Meldung der dienstleistungserbringenden Person an die zuständige Behörde
+# § 46 – Meldung der dienstleistungserbringenden Person an die zuständige Behörde
 
 (1) Wer beabsichtigt, im Sinne des § 44 Absatz 1 oder Absatz 2 Dienstleistungen zu erbringen, hat dies der zuständigen Behörde vorher schriftlich zu melden. Die Meldung ist einmal jährlich zu erneuern, wenn die dienstleistungserbringende Person beabsichtigt, während des betreffenden Jahres vorübergehend und gelegentlich Dienstleistungen im Geltungsbereich dieses Gesetzes zu erbringen. Wird die Meldung nach Satz 1 mittels eines Europäischen Berufsausweises vorgenommen, ist abweichend von Satz 2 die Meldung 18 Monate nach Ausstellung des Europäischen Berufsausweises zu erneuern.
 
@@ -814,8 +765,7 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 (+++ § 46: Zur Anwendung vgl. § 44 Abs. 5 +++)
 
-
-## § 47 – Bescheinigungen der zuständigen Behörde
+# § 47 – Bescheinigungen der zuständigen Behörde
 
 Einer oder einem Staatsangehörigen eines Mitgliedstaates der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, die oder der im Geltungsbereich dieses Gesetzes den Beruf der Pflegefachfrau oder des Pflegefachmanns, der Gesundheits- und Kinderkrankenpflegerin oder des Gesundheits- und Kinderkrankenpflegers oder der Altenpflegerin oder des Altenpflegers auf Grund einer Erlaubnis nach § 1 Absatz 1 oder § 58 Absatz 1 oder Absatz 2 ausübt, ist auf Antrag für Zwecke der Dienstleistungserbringung in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum eine Bescheinigung darüber auszustellen, dass sie oder er
 
@@ -827,8 +777,7 @@ Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsicht
 
 (+++ § 47: Zur Anwendung vgl. § 44 Abs. 5 +++)
 
-
-## § 48 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
+# § 48 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Wird gegen die Pflichten nach § 45 verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaates dieser dienstleistungserbringenden Person hierüber zu unterrichten.
 
@@ -842,13 +791,11 @@ Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsicht
 
 (+++ § 48: Zur Anwendung vgl. § 44 Abs. 5 +++)
 
-
-## § 49 – Zuständige Behörden
+# § 49 – Zuständige Behörden
 
 Die Länder bestimmen die zur Durchführung dieses Gesetzes zuständigen Behörden.
 
-
-## § 50 – Unterrichtungspflichten
+# § 50 – Unterrichtungspflichten
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf der Pflegefachfrau oder des Pflegefachmanns ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaates über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten.
 
@@ -858,8 +805,7 @@ Die Länder bestimmen die zur Durchführung dieses Gesetzes zuständigen Behörd
 
 (4) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Familie, Senioren, Frauen und Jugend und dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Absatz 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 51 – Vorwarnmechanismus
+# § 51 – Vorwarnmechanismus
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -891,8 +837,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 52 – Weitere Aufgaben der jeweils zuständigen Behörden
+# § 52 – Weitere Aufgaben der jeweils zuständigen Behörden
 
 (1) Die Entscheidung, ob die Erlaubnis erteilt wird, die Berufsbezeichnung nach § 1 Absatz 1 oder § 58 Absatz 1 oder Absatz 2 zu führen, trifft die zuständige Behörde des Landes, in dem die antragstellende Person die Prüfung abgelegt hat.
 
@@ -906,8 +851,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (+++ § 52 Abs 1 und 2: Zur Anwendung vgl. § 59 Abs 1 +++)
 
-
-## § 53 – Fachkommission; Erarbeitung von Rahmenplänen
+# § 53 – Fachkommission; Erarbeitung von Rahmenplänen
 
 (1) Zur Erarbeitung eines Rahmenlehrplans und eines Rahmenausbildungsplans für die Pflegeausbildung nach Teil 2 sowie zur Wahrnehmung der weiteren ihr nach diesem Gesetz zugewiesenen Aufgaben wird eine Fachkommission eingerichtet.
 
@@ -921,15 +865,13 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (+++ § 53: Zur Anwendung vgl. § 59 Abs. 1 +++)
 
-
-## § 54 – Beratung; Aufbau unterstützender Angebote und Forschung
+# § 54 – Beratung; Aufbau unterstützender Angebote und Forschung
 
 Das Bundesinstitut für Berufsbildung übernimmt die Aufgabe der Beratung und Information zur Pflegeausbildung nach diesem Gesetz, die Aufgabe des Aufbaus unterstützender Angebote und Strukturen zur Organisation der Pflegeausbildung nach den Teilen 2 und 3 sowie zur Unterstützung der Arbeit der Fachkommission die Aufgabe der Forschung zur Pflegeausbildung nach diesem Gesetz und zum Pflegeberuf nach Weisung des Bundesministeriums für Familie, Senioren, Frauen und Jugend und des Bundesministeriums für Gesundheit.
 
 (+++ § 54: Zur Anwendung vgl. § 59 Abs. 1 +++)
 
-
-## § 55 – Statistik; Verordnungsermächtigung
+# § 55 – Statistik; Verordnungsermächtigung
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, für Zwecke dieses Gesetzes, gemeinsam durch Rechtsverordnung mit Zustimmung des Bundesrates jährliche Erhebungen über die bei der zuständigen Stelle nach § 26 Absatz 4 zur Erfüllung der Aufgaben nach Teil 2 Abschnitt 3, auch in Verbindung mit § 59 Absatz 1, vorliegenden Daten als Bundesstatistik anzuordnen. Die Statistik kann folgende Sachverhalte umfassen:
 
@@ -943,8 +885,7 @@ Auskunftspflichtig sind die zuständigen Stellen gegenüber den statistischen Ä
 
 (2) Die Befugnis der Länder, zusätzliche, von Absatz 1 nicht erfasste Erhebungen über Sachverhalte des Pflege- oder Gesundheitswesens als Landesstatistik anzuordnen, bleibt unberührt.
 
-
-## § 56 – Ausbildungs- und Prüfungsverordnung, Finanzierung; Verordnungsermächtigungen
+# § 56 – Ausbildungs- und Prüfungsverordnung, Finanzierung; Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit werden ermächtigt, gemeinsam durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung
 
@@ -994,8 +935,7 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 (5) Abweichungen durch Landesrecht von den Regelungen des Verwaltungsverfahrens in der auf Grundlage der Absätze 1 bis 3 erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Falle des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 57 – Bußgeldvorschriften
+# § 57 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1007,8 +947,7 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2 und 3 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-
-## § 58 – Führen der Berufsbezeichnungen in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
+# § 58 – Führen der Berufsbezeichnungen in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
 
 (1) Wer die Berufsbezeichnung „Gesundheits- und Kinderkrankenpflegerin“ oder „Gesundheits- und Kinderkrankenpfleger“ führen will, bedarf der Erlaubnis.
 
@@ -1016,8 +955,7 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 (3) Die §§ 2 bis 4 sind entsprechend anzuwenden.
 
-
-## § 59 – Gemeinsame Vorschriften; Wahlrecht der Auszubildenden
+# § 59 – Gemeinsame Vorschriften; Wahlrecht der Auszubildenden
 
 (1) Die Regelungen in Teil 2, § 52 Absatz 1 und 2 sowie Teil 4 Abschnitt 4 gelten entsprechend nach Maßgabe der Absätze 2 bis 5 sowie der §§ 60 und 61.
 
@@ -1029,22 +967,19 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 (5) Das Wahlrecht nach Absatz 2 oder Absatz 3 soll vier Monate und kann frühestens sechs Monate vor Beginn des letzten Ausbildungsdrittels gegenüber dem Träger der praktischen Ausbildung ausgeübt werden. Besteht ein Wahlrecht, muss der Ausbildungsvertrag nach § 16 Angaben zum Wahlrecht und zum Zeitpunkt der Ausübung enthalten. Wird das Wahlrecht ausgeübt, ist der Ausbildungsvertrag nach § 16 entsprechend anzupassen.
 
-
-## § 60 – Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger; Ausbildungsziel und Durchführung der Ausbildung
+# § 60 – Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger; Ausbildungsziel und Durchführung der Ausbildung
 
 (1) Wählt die oder der Auszubildende nach § 59 Absatz 2, eine Ausbildung zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und Kinderkrankenpfleger durchzuführen, gilt § 5 für die weitere Ausbildung mit der Maßgabe, dass die Kompetenzvermittlung speziell zur Pflege von Kindern und Jugendlichen erfolgt.
 
 (2) Die praktische Ausbildung des letzten Ausbildungsdrittels ist in Bereichen der Versorgung von Kindern und Jugendlichen durchzuführen. Der theoretische und praktische Unterricht des letzten Ausbildungsdrittels ist am Ausbildungsziel des Absatzes 1 auszurichten.
 
-
-## § 61 – Ausbildung zur Altenpflegerin oder zum Altenpfleger; Ausbildungsziel und Durchführung der Ausbildung
+# § 61 – Ausbildung zur Altenpflegerin oder zum Altenpfleger; Ausbildungsziel und Durchführung der Ausbildung
 
 (1) Wählt die oder der Auszubildende nach § 59 Absatz 3, eine Ausbildung zur Altenpflegerin oder zum Altenpfleger durchzuführen, gilt § 5 für die weitere Ausbildung mit der Maßgabe, dass die Kompetenzvermittlung speziell zur Pflege alter Menschen erfolgt.
 
 (2) Die praktische Ausbildung des letzten Ausbildungsdrittels ist in Bereichen der Versorgung von alten Menschen durchzuführen. Der theoretische und praktische Unterricht des letzten Ausbildungsdrittels ist am Ausbildungsziel des Absatzes 1 auszurichten.
 
-
-## § 62 – Überprüfung der Vorschriften über die Berufsabschlüsse in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
+# § 62 – Überprüfung der Vorschriften über die Berufsabschlüsse in der Gesundheits- und Kinderkrankenpflege sowie in der Altenpflege
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit ermitteln bis zum 31. Dezember 2025, welcher Anteil der Auszubildenden das Wahlrecht nach § 59 Absatz 2 einerseits und nach § 59 Absatz 3 andererseits ausgeübt hat. Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit berichten dem Deutschen Bundestag bis zum 31. Dezember 2025, welcher Anteil der Auszubildenden das Wahlrecht nach § 59 Absatz 2 einerseits und nach § 59 Absatz 3 andererseits ausgeübt hat. Der Bericht soll für den Fall, dass der jeweilige Anteil geringer als 50 Prozent ist, Vorschläge zur Anpassung des Gesetzes enthalten.
 
@@ -1056,18 +991,15 @@ einschließlich der erforderlichen Vorgaben zum Erheben, Verarbeiten und Nutzen 
 
 3. die Zahl der Personen nach § 59 Absatz 3, die das Wahlrecht ausüben.
 
-
-## § 63 – Nichtanwendung des Berufsbildungsgesetzes
+# § 63 – Nichtanwendung des Berufsbildungsgesetzes
 
 Für die Ausbildung nach diesem Gesetz findet das Berufsbildungsgesetz, soweit nicht die Aufgaben des Bundesinstituts für Berufsbildung nach § 53 Absatz 5 Satz 1 und § 54 in Verbindung mit § 90 Absatz 3a des Berufsbildungsgesetzes betroffen sind, keine Anwendung.
 
-
-## § 64 – Fortgeltung der Berufsbezeichnung
+# § 64 – Fortgeltung der Berufsbezeichnung
 
 Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung oder nach dem Altenpflegegesetz in der am 31. Dezember 2019 geltenden Fassung bleibt durch dieses Gesetz unberührt. Sie gilt zugleich als Erlaubnis nach § 1 Absatz 1 Satz 1. Die die Erlaubnis nach § 1 Absatz 1 Satz 1 betreffenden Vorschriften sind entsprechend anzuwenden.
 
-
-## § 65 – Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz
+# § 65 – Weitergeltung staatlicher Anerkennungen von Schulen; Bestandsschutz
 
 (1) Schulen, die am 31. Dezember 2019 nach den Vorschriften des Krankenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung staatlich anerkannt sind, gelten weiterhin als staatlich anerkannt nach § 6 Absatz 2, wenn die Anerkennung nicht nach Maßgabe des Absatzes 3 widerrufen wird.
 
@@ -1085,8 +1017,7 @@ Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem Krankenpflegegesetz in
 
 4. an einer Weiterbildung zur Leitung einer staatlichen oder staatlich anerkannten Altenpflegeschule oder zur Lehrkraft teilnehmen und diese bis zum 31. Dezember 2020 erfolgreich abschließen.
 
-
-## § 66 – Übergangsvorschriften für begonnene Ausbildungen nach dem Krankenpflegegesetz oder dem Altenpflegegesetz
+# § 66 – Übergangsvorschriften für begonnene Ausbildungen nach dem Krankenpflegegesetz oder dem Altenpflegegesetz
 
 (1) Eine Ausbildung
 
@@ -1100,22 +1031,19 @@ die vor Ablauf des 31. Dezember 2019 begonnen wurde, kann bis zum 31. Dezember 2
 
 (3) Für die Finanzierung der Ausbildung nach Absatz 1 Satz 1 gilt § 17a des Krankenhausfinanzierungsgesetzes in der am 31. Dezember 2018 geltenden Fassung.
 
-
-## § 66a – Übergangsvorschrift für die Anerkennung ausländischer Berufsabschlüsse
+# § 66a – Übergangsvorschrift für die Anerkennung ausländischer Berufsabschlüsse
 
 (1) Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb des Geltungsbereichs dieses Gesetzes und außerhalb eines Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz erworbenen abgeschlossenen Berufsausbildung kann noch bis zum 31. Dezember 2024 auf der Grundlage der Vorschriften des Krankenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung oder auf der Grundlage der Vorschriften des Altenpflegegesetzes in der am 31. Dezember 2019 geltenden Fassung getroffen werden.
 
 (2) Für Entscheidungen über einen Antrag auf Anerkennung einer in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworbenen oder anerkannten abgeschlossenen Berufsausbildung gilt Absatz 1 entsprechend, soweit nicht die Voraussetzungen nach § 41 Absatz 1 erfüllt sind.
 
-
-## § 67 – Kooperationen von Hochschulen und Pflegeschulen
+# § 67 – Kooperationen von Hochschulen und Pflegeschulen
 
 (1) Bestehende Kooperationen von Hochschulen mit Schulen auf der Grundlage von § 4 Absatz 6 des Krankenpflegegesetzes oder mit Altenpflegeschulen auf der Grundlage von § 4 Absatz 6 des Altenpflegegesetzes können auf Antrag zur Durchführung der hochschulischen Pflegeausbildung nach Teil 3 bis zum 31. Dezember 2031 fortgeführt werden. Kooperiert die Hochschule bei den Lehrveranstaltungen mit einer Schule nach Satz 1, stellt sie sicher, dass die Ausbildungsziele erreicht werden. Eine Kooperation kann nur erfolgen, wenn der Anteil der Lehrveranstaltungen an der Hochschule deutlich überwiegt. Die Schule nach Satz 1 kann die Praxisbegleitung anteilig übernehmen.
 
 (2) Neue Kooperationen von Hochschulen und Pflegeschulen können auf Antrag unter Beachtung der weiteren Maßgaben des Absatzes 1 zugelassen werden, soweit dies zur Förderung der hochschulischen Pflegeausbildung nach Teil 3 erforderlich ist.
 
-
-## § 68 – Evaluierung
+# § 68 – Evaluierung
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2024 die Wirkung des § 11 Absatz 1 Nummer 3 auf wissenschaftlicher Grundlage.
 
@@ -1125,8 +1053,7 @@ die vor Ablauf des 31. Dezember 2019 begonnen wurde, kann bis zum 31. Dezember 2
 
 (4) Das Bundesministerium für Familie, Senioren, Frauen und Jugend und das Bundesministerium für Gesundheit evaluieren bis zum 31. Dezember 2025 die Wirkungen des Teils 2 Abschnitt 3 auf wissenschaftlicher Grundlage.
 
-
-## Anlage – (zu § 41 Absatz 1 Satz 1)
+# Anlage – (zu § 41 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2017, 2606 - 2610)
 

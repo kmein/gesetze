@@ -1,20 +1,15 @@
-# [ChemVOCFarbV] Chemikalienrechtliche Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC) durch Beschränkung des Inverkehrbringens lösemittelhaltiger Farben und Lacke  (Lösemittelhaltige Farben- und Lack-Verordnung - ChemVOCFarbV)
-
-Ausfertigungsdatum: 16.12.2004
-
+% Chemikalienrechtliche Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC) durch Beschränkung des Inverkehrbringens lösemittelhaltiger Farben und Lacke  (Lösemittelhaltige Farben- und Lack-Verordnung - ChemVOCFarbV)
+% Ausfertigungsdatum: 16.12.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Abs. 1 Nr. 3 Buchstabe a und c, des § 17 Abs. 1 Nr. 1 Buchstabe a bis c sowie Abs. 5 des Chemikaliengesetzes in der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2090) verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
-
-## § 1 – Zweck und Anwendungsbereich
+# § 1 – Zweck und Anwendungsbereich
 
 Zweck dieser Verordnung ist es, den Gehalt an flüchtigen organischen Verbindungen in bestimmten Farben und Lacken zur Beschichtung von Gebäuden, ihren Bauteilen und dekorativen Bauelementen sowie in Produkten der Fahrzeugreparaturlackierung zu begrenzen, um die aus dem Beitrag der flüchtigen organischen Verbindungen zur Bildung von bodennahem Ozon resultierende Luftverschmutzung zu vermeiden oder zu verringern.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet der Ausdruck
 
@@ -72,8 +67,7 @@ die in Gramm pro Liter (g/l) ausgedrückte Masse flüchtiger organischer Verbind
 
 Im Übrigen gelten die Begriffsbestimmungen des Chemikaliengesetzes.
 
-
-## § 3 – Verbote
+# § 3 – Verbote
 
 (1) In Anhang I aufgeführte
 
@@ -93,8 +87,7 @@ b) Restaurierung und Unterhaltung von Gebäuden, ihren Bauteilen und dekorativen
 
 (4) Stoffe und Gemische, die vor den in Anhang II festgelegten Zeitpunkten hergestellt wurden und die Anforderungen des Absatzes 1 nicht erfüllen, dürfen bis zu zwölf Monate nach dem Inkrafttreten der für die betreffenden Stoffe und Gemische geltenden Anforderung in den Verkehr gebracht werden.
 
-
-## § 4 – Kennzeichnung
+# § 4 – Kennzeichnung
 
 Der Hersteller oder Einführer hat die in Anhang I aufgeführten gebrauchsfertigen Produkte vor dem Inverkehrbringen, unbeschadet anderer Kennzeichnungsvorschriften, mit einem Etikett zu versehen, auf dem folgende Angaben waagerecht und deutlich lesbar anzubringen sind:
 
@@ -102,35 +95,29 @@ a) die Produktkategorie des gebrauchsfertigen Produktes und die entsprechenden G
 
 b) der maximale Gehalt an flüchtigen organischen Verbindungen des gebrauchsfertigen Produktes in g/l.
 
-
-## § 5 – Überprüfung der Einhaltung der Verordnung
+# § 5 – Überprüfung der Einhaltung der Verordnung
 
 (1) Der Hersteller oder Einführer eines in Anhang I aufgeführten Produktes hat die für die Berichterstattung an die Europäische Kommission nach Absatz 2 benötigten Informationen der zuständigen Behörde mitzuteilen. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit gibt die zur Erfüllung dieser Verpflichtung anzuwendenden Verfahren bekannt, sobald das Format für die Übermittlung der Daten gemäß Artikel 7 der Richtlinie 2004/42/EG von der Kommission erstellt ist. Die Informationen schließen Angaben über Kategorien und Mengen von Produkten ein, für die eine Erlaubnis gemäß § 3 Abs. 3 Buchstabe b erteilt wurde.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit übermittelt auf der Grundlage der Stellungnahmen der Länder entsprechend den Anforderungen des Artikels 7 der Richtlinie 2004/42/EG Berichte über die Überwachung dieser Verordnung sowie über erteilte Erlaubnisse.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 5 Buchstabe c des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 ein Produkt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mit einem Etikett versieht.
 
-
-## § 7 – Straftaten
+# § 7 – Straftaten
 
 Nach § 27 Abs. 1 Nr. 1, Abs. 2 bis 4 des Chemikaliengesetzes wird bestraft, wer entgegen § 3 Abs. 1 eine Farbe, einen Lack oder ein Produkt in den Verkehr bringt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anhang I – Geregelte gebrauchsfertige Produkte
+# Anhang I – Geregelte gebrauchsfertige Produkte
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3511 - 3512;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -181,8 +168,7 @@ d) "Decklacke" sind pigmentierte Beschichtungsstoffe, die als Ein- oder Mehrschi
 
 e) "Speziallacke" sind Beschichtungsstoffe, die als Einschichtdecklack besondere Eigenschaften wie Metall- oder Perleffekte verleihen, unifarbige oder transparente Hochleistungslacke (z. B. kratzfeste Klarlacke), reflektierende Basislacke, Struktureffektlacke (z. B. Narbeneffektlacke), rutschhemmende Beschichtungen, Unterbodenversiegelungsmittel, Schutzlacke gegen Steinschlag, Lacke für die Innenlackierung, Beschichtungsstoffe für spezielle militärische Anwendungen und Lacke in Sprühdosen (Aerosole).
 
-
-## Anhang II – Grenzwerte für den VOC-Höchstgehalt
+# Anhang II – Grenzwerte für den VOC-Höchstgehalt
 
 (Fundstelle: BGBl. I 2004, 3513 - 3514;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -551,8 +537,7 @@ g/l gebrauchsfertiges Produkt
 
 Zur Bestimmung des VOC-Gehalts ist außer bei der Produktkategorie a der Wassergehalt des gebrauchsfertigen Produkts abzuziehen.
 
-
-## Anhang III – Methoden gemäß § 3 Absatz 2
+# Anhang III – Methoden gemäß § 3 Absatz 2
 
 (Fundstelle: BGBl. I 2013, 775)
 

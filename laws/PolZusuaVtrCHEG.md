@@ -1,15 +1,11 @@
-# [PolZusuaVtrCHEG] Gesetz zu den Verträgen vom 27. April 1999 und 8. Juli 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über grenzüberschreitende polizeiliche Zusammenarbeit, Auslieferung, Rechtshilfe sowie zu dem Abkommen vom 8. Juli 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über Durchgangsrechte
-
-Ausfertigungsdatum: 25.09.2001
-
+% Gesetz zu den Verträgen vom 27. April 1999 und 8. Juli 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über grenzüberschreitende polizeiliche Zusammenarbeit, Auslieferung, Rechtshilfe sowie zu dem Abkommen vom 8. Juli 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über Durchgangsrechte
+% Ausfertigungsdatum: 25.09.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 (1) Dem in Bern am 27. April 1999 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justitielle Zusammenarbeit (deutsch-schweizerischer Polizeivertrag) wird zugestimmt.
 
@@ -23,8 +19,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Die Verträge werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Es werden ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen nach folgenden Artikeln des Vertrages vom 27. April 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justitielle Zusammenarbeit in Kraft zu setzen:
 
@@ -32,23 +27,19 @@ Es werden ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Ver
 
 2. das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Justiz und für Verbraucherschutz zu Artikel 44 Abs. 3.
 
-
-## Art 3
+# Art 3
 
 Die Aufgaben nach Artikel 37 Abs. 3 und Artikel 39 Abs. 1 des Vertrages zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justitielle Zusammenarbeit nehmen die zuständigen obersten Landesbehörden oder die von ihnen bestimmten Stellen wahr, sofern nicht besondere landesrechtliche Zuständigkeitsregelungen bestehen.
 
-
-## Art 4
+# Art 4
 
 In den Fällen des Artikels 38 Abs. 1 des Vertrages vom 27. April 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justitielle Zusammenarbeit ist die Vollstreckung unzulässig.
 
-
-## Art 5
+# Art 5
 
 Auf die Exequaturentscheidung nach Artikel 39 Abs. 3 des Vertrages vom 27. April 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justitielle Zusammenarbeit finden die Vorschriften des Vierten Teils des Gesetzes über die Internationale Rechtshilfe in Strafsachen Anwendung, soweit der Vertrag oder dieses Gesetz nichts anderes bestimmen.
 
-
-## Art 6
+# Art 6
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

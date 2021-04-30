@@ -1,10 +1,7 @@
-# [TestV] Verordnung zum Anspruch auf Testung in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2  (Coronavirus-Testverordnung - TestV)
-
-Ausfertigungsdatum: 08.03.2021
-
+% Verordnung zum Anspruch auf Testung in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2  (Coronavirus-Testverordnung - TestV)
+% Ausfertigungsdatum: 08.03.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
 
@@ -14,11 +11,9 @@ des § 20i Absatz 3 Satz 2 Nummer 1 Buchstabe b und Nummer 2, Satz 3, 7, 10, 11 
 –  
 des § 24 Satz 3 Nummer 2, Satz 4 und 5 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 15 Buchstabe b des Gesetzes vom 18. November 2020 (BGBl. I S. 2397) neu gefasst worden ist:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anspruch
+# § 1 – Anspruch
 
 (1) Versicherte haben nach Maßgabe der §§ 2 bis 5 und im Rahmen der Verfügbarkeit von Testkapazitäten Anspruch auf Testung in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2. Der Anspruch nach Satz 1 umfasst das Gespräch mit der zu testenden Person im Zusammenhang mit der Testung, die Entnahme von Körpermaterial, die Diagnostik, die Ergebnismitteilung und die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2. Zur Diagnostik nach Satz 2 können nach Maßgabe dieser Verordnung und der Teststrategie des Bundesministeriums für Gesundheit eine Labordiagnostik mittels Nukleinsäurenachweis, eine variantenspezifische PCR-Testung oder eine Diagnostik durch Antigen-Test gehören. Zur Diagnostik durch Antigen-Test nach Satz 3 gehören eine Labordiagnostik mittels Antigen-Test oder ein Antigen-Test zur patientennahen Anwendung durch Dritte (PoC-Antigen-Test). PoC-Antigen-Tests dürfen nur zur Anwendung kommen, wenn sie die die durch das Paul-Ehrlich-Institut in Abstimmung mit dem Robert Koch-Institut festgelegten Mindestkriterien für Antigen-Tests erfüllen. Das Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht auf seiner Internetseite unter www.bfarm.de/antigentests eine Marktübersicht dieser Tests und schreibt sie fort.
 
@@ -26,8 +21,7 @@ des § 24 Satz 3 Nummer 2, Satz 4 und 5 des Infektionsschutzgesetzes, der durch 
 
 (3) Ein Anspruch nach den Absätzen 1 und 2 besteht nicht, wenn die zu testende Person bereits einen Anspruch auf die in Absatz 1 genannten Leistungen hat oder einen Anspruch auf Erstattung der Aufwendungen für entsprechende Leistungen hätte. Dies gilt insbesondere für Ansprüche auf Leistungen der ambulanten Krankenbehandlung oder der Krankenhausbehandlung. Für die bestätigende Diagnostik mittels eines Nukleinsäurenachweises des Coronavirus SARS-CoV-2 nach einem positiven Antigen-Test sowie für eine variantenspezifische PCR-Testung nach § 4b besteht ein Anspruch nach den Absätzen 1 und 2.
 
-
-## § 2 – Testungen von Kontaktpersonen
+# § 2 – Testungen von Kontaktpersonen
 
 (1) Wenn von einem behandelnden Arzt einer mit dem Coronavirus SARS-CoV-2 infizierten Person oder vom öffentlichen Gesundheitsdienst asymptomatische Kontaktpersonen nach Absatz 2 festgestellt werden, die in den letzten zehn Tagen Kontakt zu einer mit dem Coronavirus SARS-CoV-2 infizierten Person hatten, haben diese Anspruch auf Testung. Der Anspruch nach Satz 1 besteht bis zu 21 Tage nach dem Kontakt zu einer mit dem Coronavirus SARS-CoV-2 infizierten Person, wenn die Testung zur Aufhebung der Absonderung erfolgt.
 
@@ -49,8 +43,7 @@ a) die sie in ihrem Haushalt oder in dem Haushalt der mit dem Coronavirus SARS-C
 
 b) von der sie in ihrem Haushalt oder in dem Haushalt der mit dem Coronavirus SARS-CoV-2 infizierten Person behandelt, betreut oder gepflegt werden oder behandelt, betreut oder gepflegt wurden.
 
-
-## § 3 – Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen
+# § 3 – Testungen von Personen nach Auftreten von Infektionen in Einrichtungen und Unternehmen
 
 (1) Wenn in oder von Einrichtungen oder Unternehmen nach Absatz 2 von diesen oder vom öffentlichen Gesundheitsdienst außerhalb der regulären Versorgung in den letzten zehn Tagen eine mit dem Coronavirus SARS-CoV-2 infizierte Person festgestellt wurde, haben asymptomatische Personen Anspruch auf Testung, wenn sie in oder von betroffenen Teilen dieser Einrichtungen oder Unternehmen
 
@@ -72,8 +65,7 @@ Der Anspruch nach Satz 1 besteht bis zu 21 Tage nach der Feststellung einer mit 
 
 4. stationäre Einrichtungen und ambulante Dienste der Eingliederungshilfe.
 
-
-## § 4 – Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2
+# § 4 – Testungen zur Verhütung der Verbreitung des Coronavirus SARS-CoV-2
 
 (1) Wenn es Einrichtungen oder Unternehmen nach Absatz 2 oder der öffentliche Gesundheitsdienst zur Verhinderung der Verbreitung des Coronavirus SARS-CoV-2 verlangen, haben asymptomatische Personen Anspruch auf Testung, wenn sie
 
@@ -99,25 +91,21 @@ Bei Personen nach Satz 1 Nummer 2 ist der Anspruch in Bezug auf die Diagnostik a
 
 5. Einrichtungen nach § 23 Absatz 3 Satz 1 Nummer 8 bis 10 und 12 des Infektionsschutzgesetzes.
 
-
-## § 4a – Bürgertestung
+# § 4a – Bürgertestung
 
 Asymptomatische Personen haben Anspruch auf Testung mittels PoC-Antigen-Tests.
 
-
-## § 4b – Bestätigende Diagnostik- und variantenspezifische PCR-Testung
+# § 4b – Bestätigende Diagnostik- und variantenspezifische PCR-Testung
 
 Nach einem positiven Antigen-Test hat die getestete Person einen Anspruch auf eine bestätigende Testung mittels eines Nukleinsäurenachweises des Coronavirus SARS-CoV-2. Nach einem positiven Nukleinsäurenachweis hat die getestete Person bei begründetem Verdacht auf das Vorliegen einer Virusvariante einen Anspruch auf eine variantenspezifische PCR-Testung.
 
-
-## § 5 – Häufigkeit der Testungen
+# § 5 – Häufigkeit der Testungen
 
 (1) Testungen nach den §§ 2, 3 und 4 Absatz 1 Satz 1 Nummer 1 können für jeden Einzelfall einmal pro Person wiederholt werden. Testungen nach § 4a können im Rahmen der Verfügbarkeit von Testkapazitäten mindestens einmal pro Woche in Anspruch genommen werden. Die bestätigende Diagnostik und die variantenspezifische PCR-Testung nach § 4b umfasst für jeden Einzelfall bis zu zwei Testungen.
 
 (2) Testungen nach § 4 Absatz 1 Satz 1 Nummer 2 bis 4 können für jeden Einzelfall mindestens einmal pro Woche durchgeführt werden. Dies gilt nicht für die Anwendung von PoC-Antigen-Tests, die von den Einrichtungen oder Unternehmen nach § 4 Absatz 2 Nummer 1 bis 4 im Rahmen eines einrichtungs- oder unternehmensbezogenen Testkonzepts selbst durchgeführt werden.
 
-
-## § 6 – Leistungserbringung
+# § 6 – Leistungserbringung
 
 (1) Zur Erbringung der Leistungen nach § 1 Absatz 1 sind berechtigt:
 
@@ -147,8 +135,7 @@ Als weitere Leistungserbringer im Sinne von Satz 1 Nummer 2 können Ärzte, Zahn
 
 Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Intensivpflege sowie Hospize bis zu 30 PoC-Antigen-Tests je behandelter, betreuter, gepflegter oder untergebrachter Person pro Monat im Rahmen ihres einrichtungs- oder unternehmensbezogenen Testkonzepts in eigener Verantwortung beschaffen und nutzen. Einrichtungen nach § 4 Absatz 2 Nummer 5 sind berechtigt, bis zu 10 PoC-Antigen-Tests je in der Einrichtung tätiger Person pro Monat in eigener Verantwortung zu beschaffen und zu nutzen.
 
-
-## § 7 – Abrechnung der Leistungen
+# § 7 – Abrechnung der Leistungen
 
 (1) Die nach § 6 Absatz 1 Satz 1 berechtigten Leistungserbringer rechnen die von ihnen erbrachten Leistungen und die Sachkosten nach den §§ 9 bis 11 mit der Kassenärztlichen Vereinigung ab, in deren Bezirk der Leistungserbringer seinen Sitz hat.
 
@@ -174,28 +161,23 @@ Abweichend von Satz 1 können Einrichtungen und Unternehmen der ambulanten Inten
 
 (8) Festlegungen und Vorgaben der Kassenärztlichen Bundesvereinigung gemäß § 7 Absatz 6 und 7 der Coronavirus-Testverordnung vom 27. Januar 2021 gelten bis zur Neufestlegung der Vorgaben nach den Absätzen 6 und 7 fort.
 
-
-## § 8 – Verwaltungskostenersatz der Kassenärztlichen Vereinigungen
+# § 8 – Verwaltungskostenersatz der Kassenärztlichen Vereinigungen
 
 Die Kassenärztlichen Vereinigungen behalten für den Aufwand der Beschaffung und Verteilung des zu verwendenden Vordrucks sowie der Abrechnung von Leistungen von Leistungserbringern nach dieser Verordnung einen Verwaltungskostensatz in Höhe von 0,7 Prozent des jeweiligen Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für Leistungserbringer, die nicht Mitglied dieser Kassenärztlichen Vereinigung sind und noch keine Leistungen ihr gegenüber abgerechnet haben, behalten die Kassenärztlichen Vereinigungen einen Verwaltungskostensatz in Höhe von 3,5 Prozent des Gesamtbetrags der Abrechnungen abzüglich der Sachkosten nach § 11 ein. Für die Abrechnung der Sachkosten nach § 11 werden den Kassenärztlichen Vereinigungen Verwaltungskosten in Höhe von 2 Prozent des Gesamtbetrags der Abrechnungen durch das Bundesamt für Soziale Sicherung erstattet.
 
-
-## § 9 – Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis oder für eine variantenspezifische PCR-Testung
+# § 9 – Vergütung von Leistungen der Labordiagnostik mittels Nukleinsäurenachweis oder für eine variantenspezifische PCR-Testung
 
 Die an die nach § 6 Absatz 1 Satz 1 berechtigten Leistungserbringer zu zahlende Vergütung für die Leistungen der Labordiagnostik mittels eines Nukleinsäurenachweises (PCR, PoC-PCR oder weitere Methoden der Nukleinsäureamplifikationstechnik) des Coronavirus SARS-CoV-2 oder für eine variantenspezifische PCR-Testung einschließlich der allgemeinen ärztlichen Laborleistungen, Versandmaterial und Transportkosten beträgt je Testung bis zum 30. April 2021 50,50 Euro und ab dem 1. Mai 2021 43,56 Euro. Pro Einzelfall beträgt die Vergütung bis zum 30. April 2021 höchstens 101 Euro und ab dem 1. Mai 2021 höchstens 82,96 Euro.
 
-
-## § 10 – Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test
+# § 10 – Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test
 
 Die an die nach § 6 Absatz 1 Satz 1 berechtigten Leistungserbringer zu zahlende Vergütung für die Leistungen der Labordiagnostik mittels eines Antigennachweises des Coronavirus SARS-CoV-2 einschließlich der allgemeinen ärztlichen Laborleistungen, Versandmaterial und Transportkosten beträgt je Testung 15 Euro.
 
-
-## § 11 – Vergütung von Sachkosten für PoC-Antigen-Tests
+# § 11 – Vergütung von Sachkosten für PoC-Antigen-Tests
 
 An die nach § 6 Absatz 1 Satz 1 berechtigten Leistungserbringer und die nach § 6 Absatz 3 berechtigten Einrichtungen oder Unternehmen ist für selbst beschaffte PoC-Antigen-Tests eine Vergütung für die Sachkosten in Höhe der entstandenen Beschaffungskosten, und zwar bis zum 31. März 2021 höchstens 9 Euro je Test und ab dem 1. April 2021 höchstens 6 Euro je Test, zu zahlen.
 
-
-## § 12 – Vergütung von weiteren Leistungen
+# § 12 – Vergütung von weiteren Leistungen
 
 (1) Die an die nach § 6 Absatz 1 Satz 1 Nummer 2 und 3 berechtigten ärztlichen und zahnärztlichen Leistungserbringer zu zahlende Vergütung für das Gespräch, die Entnahme von Körpermaterial, die PoC-Diagnostik, die Ergebnismitteilung und die Ausstellung eines Zeugnisses über das Vorliegen oder Nichtvorliegen einer Infektion mit dem Coronavirus SARS-CoV-2 im Zusammenhang mit einer Testung beträgt je Testung 15 Euro. Eine Vergütung nach Satz 1 wird auch gewährt, wenn anstatt einer PoC-Diagnostik oder nach einem positiven Antigen-Test ein anderer Leistungserbringer beauftragt wird und in diesem Zusammenhang Körpermaterial entnommen und an den beauftragten Leistungserbringer versandt wird.
 
@@ -207,8 +189,7 @@ An die nach § 6 Absatz 1 Satz 1 berechtigten Leistungserbringer und die nach §
 
 (5) Die an die nach § 6 Absatz 1 Satz 1 Nummer 2 und 3 berechtigten ärztlichen oder zahnärztlichen Leistungserbringer zu zahlende Vergütung für das Gespräch im Zusammenhang mit der Feststellung nach § 2 beträgt für den Fall, dass kein Test durchgeführt worden ist, 5 Euro.
 
-
-## § 13 – Finanzierung von Testzentren
+# § 13 – Finanzierung von Testzentren
 
 (1) Kosten für die Errichtung und den laufenden Betrieb von Testzentren werden nach den Maßgaben der Absätze 2 bis 6 erstattet. Dies gilt auch, wenn in den Zentren neben Personen mit einem Anspruch nach § 1 Absatz 1 auch Personen im Rahmen der ambulanten Krankenbehandlung getestet werden. Die Zentren sind wirtschaftlich zu betreiben, insbesondere hinsichtlich der Ausstattung mit Personal, der genutzten Räumlichkeiten sowie der Dauer des Betriebs.
 
@@ -220,8 +201,7 @@ An die nach § 6 Absatz 1 Satz 1 berechtigten Leistungserbringer und die nach §
 
 (5) Die erstattungsfähigen Kosten nach Absatz 1 Satz 1 werden durch die Kassenärztliche Vereinigung nach § 14 Absatz 1 an das Bundesamt für Soziale Sicherung übermittelt. Für Testzentren nach § 6 Absatz 1 Satz 1 Nummer 1 und 2 rechnen die Betreiber die erstattungsfähigen Kosten nach Absatz 1 Satz 1 gegenüber der Kassenärztlichen Vereinigung ab, in deren Bezirk das Testzentrum liegt. Die Abrechnung für die Testzentren nach § 6 Absatz 1 Satz 1 Nummer 1 und 2 eines Landes gegenüber der Kassenärztlichen Vereinigung kann als Gesamtbetrag über eine oberste Landesbehörde erfolgen; in diesem Fall leitet die jeweilige Kassenärztliche Vereinigung die Zahlung nach § 14 Absatz 1 Satz 3 an die oberste Landesbehörde weiter. Die Kassenärztliche Vereinigung behält für ihren zusätzlichen Aufwand für den Fall, dass die Abrechnung für Testzentren nach § 6 Absatz 1 Satz 1 Nummer 1 und 2 nicht nach Satz 3 erfolgt, einen Verwaltungskostensatz in Höhe von 1 Prozent pro Abrechnungsgesamtbetrag ein.
 
-
-## § 14 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
+# § 14 – Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds
 
 (1) Jede Kassenärztliche Vereinigung übermittelt monatlich oder quartalsweise folgende Angaben an das Bundesamt für Soziale Sicherung und an die jeweilige oberste Landesgesundheitsbehörde:
 
@@ -253,13 +233,11 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 (5) Die durch die Kassenärztlichen Vereinigungen gemäß § 8 Absatz 1 Satz 1 der Verordnung zum Anspruch auf bestimmte Testungen für den Nachweis des Vorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in der bis zum 14. Oktober 2020 geltenden Fassung, gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 1. Dezember 2020 geltenden Fassung, gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 24. Januar 2021 geltenden Fassung und gemäß § 14 Absatz 1 Satz 1 der Coronavirus-Testverordnung in der bis zum 7. März 2021 geltenden Fassung übermittelten Gesamtbeträge werden nach Absatz 1 Satz 3 durch das Bundesamt für Soziale Sicherung ausgezahlt, soweit die Zahlung noch nicht erfolgt ist. Für die Übermittlungen nach Satz 1 gilt Absatz 1 Satz 2 entsprechend.
 
-
-## § 15 – Verfahren für die Finanzierung aus Bundesmitteln
+# § 15 – Verfahren für die Finanzierung aus Bundesmitteln
 
 Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach der Vornahme von Zahlungen nach § 14 Absatz 1 Satz 3 in Verbindung mit § 14 Absatz 1 Satz 1 Nummer 2 bis 5 eine Aufstellung der an die Kassenärztlichen Vereinigungen gezahlten Beträge. Der Bund erstattet die Beträge an die Liquiditätsreserve des Gesundheitsfonds innerhalb von einer Woche nach der Übermittlung der Aufstellung nach Satz 1. Abweichend von Satz 2 erstattet der Bund bis zum 22. März 2021 den nach § 14 Absatz 1 Satz 3 in Verbindung mit § 14 Absatz 1 Satz 1 Nummer 5 am 15. März 2021 gezahlten Betrag an die Liquiditätsreserve des Gesundheitsfonds.
 
-
-## § 16 – Transparenz
+# § 16 – Transparenz
 
 (1) Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit und dem Spitzenverband Bund der Krankenkassen jeden Monat über die Kassenärztliche Bundesvereinigung folgende Angaben zu übermitteln:
 
@@ -285,20 +263,17 @@ Die Angaben nach Satz 1 Nummer 1 und 3 sind nach den Vorgaben des § 7 Absatz 6 
 
 (3) Die Kassenärztlichen Vereinigungen übermitteln zudem die Daten nach § 10 der Verordnung zum Anspruch auf bestimmte Testungen für den Nachweis des Vorliegens einer Infektion mit dem Coronavirus SARS-CoV-2 in der bis zum 14. Oktober 2020 geltenden Fassung, die Daten nach § 15 der Coronavirus-Testverordnung in der bis zum 1. Dezember 2020 geltenden Fassung, die Daten nach § 15 der Coronavirus-Testverordnung in der bis zum 24. Januar 2021 geltenden Fassung und die Daten gemäß § 15 der Coronavirus-Testverordnung in der bis zum 7. März 2021 geltenden Fassung, soweit diese Übermittlungen noch nicht erfolgt sind.
 
-
-## § 17 – Labordiagnostik durch Tierärzte
+# § 17 – Labordiagnostik durch Tierärzte
 
 (1) Tierärzte können im Rahmen einer Labordiagnostik den direkten Nachweis des Coronavirus SARS-CoV-2 führen. § 9 der Medizinprodukte-Betreiberverordnung gilt für Tierärzte entsprechend.
 
 (2) Veterinärmedizinisch-technische Assistenten dürfen bei der Durchführung laboranalytischer Untersuchungen zum Nachweis des Coronavirus SARS-CoV-2 die in § 9 Absatz 1 Nummer 1 des MTA-Gesetzes genannten Tätigkeiten ausüben; in diesem Fall gilt der Vorbehalt der Ausübung dieser Tätigkeiten durch Medizinisch-technische Laboratoriumsassistenten nicht.
 
-
-## § 18 – Übergangsvorschrift
+# § 18 – Übergangsvorschrift
 
 Beauftragungen Dritter nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 30. November 2020 (BAnz AT 01.12.2020 V1) in der Fassung vom 15. Januar 2021 (BAnz AT 15.01.2021 V1) und nach § 6 Absatz 1 Satz 1 Nummer 2 der Coronavirus-Testverordnung vom 27. Januar 2021 (BAnz AT 27.01.2021 V2) gelten fort.
 
-
-## § 19 – Inkrafttreten, Außerkrafttreten
+# § 19 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt mit Wirkung vom 8. März 2021 in Kraft; sie tritt nach § 20i Absatz 3 Satz 13 des Fünften Buches Sozialgesetzbuch außer Kraft.
 

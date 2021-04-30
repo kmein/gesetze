@@ -1,10 +1,7 @@
-# [StandAG] Gesetz zur Suche und Auswahl eines Standortes für ein Endlager für hochradioaktive Abfälle  (Standortauswahlgesetz - StandAG)
-
-Ausfertigungsdatum: 05.05.2017
-
+% Gesetz zur Suche und Auswahl eines Standortes für ein Endlager für hochradioaktive Abfälle  (Standortauswahlgesetz - StandAG)
+% Ausfertigungsdatum: 05.05.2017
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 (1) Dieses Gesetz regelt das Standortauswahlverfahren.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 05.05.2017
 
 (6) Die Endlagerung schwach- und mittelradioaktiver Abfälle am auszuwählenden Standort ist zulässig, wenn die gleiche bestmögliche Sicherheit des Standortes wie bei der alleinigen Endlagerung hochradioaktiver Abfälle gewährleistet ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -85,8 +81,7 @@ die nach § 16 Absatz 2 zu ermittelnden Gebiete, die innerhalb der Standortregio
 
 (+++ § 2: Zur Anwendung vgl. § 2 EndlSiUntV +++)
 
-
-## § 3 – Vorhabenträger
+# § 3 – Vorhabenträger
 
 (1) Vorhabenträger ist der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes. Der Vorhabenträger hat die Aufgabe, das Standortauswahlverfahren durchzuführen, insbesondere:
 
@@ -104,8 +99,7 @@ die nach § 16 Absatz 2 zu ermittelnden Gebiete, die innerhalb der Standortregio
 
 (2) Der Vorhabenträger informiert die Öffentlichkeit über die im Rahmen des Standortauswahlverfahrens von ihm vorgenommenen Maßnahmen.
 
-
-## § 4 – Bundesamt für die Sicherheit der nuklearen Entsorgung
+# § 4 – Bundesamt für die Sicherheit der nuklearen Entsorgung
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung hat im Standortauswahlverfahren insbesondere die Aufgaben:
 
@@ -117,8 +111,7 @@ die nach § 16 Absatz 2 zu ermittelnden Gebiete, die innerhalb der Standortregio
 
 (2) Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist Träger der Öffentlichkeitsbeteiligung im Standortauswahlverfahren. Es informiert die Öffentlichkeit umfassend und systematisch über das Standortauswahlverfahren. Es veröffentlicht die Vorschläge jeweils unmittelbar nach Übermittlung durch den Vorhabenträger.
 
-
-## § 5 – Grundsätze der Öffentlichkeitsbeteiligung
+# § 5 – Grundsätze der Öffentlichkeitsbeteiligung
 
 (1) Ziel der Öffentlichkeitsbeteiligung ist eine Lösung zu finden, die in einem breiten gesellschaftlichen Konsens getragen wird und damit auch von den Betroffenen toleriert werden kann. Hierzu sind Bürgerinnen und Bürger als Mitgestalter des Verfahrens einzubeziehen.
 
@@ -126,13 +119,11 @@ die nach § 16 Absatz 2 zu ermittelnden Gebiete, die innerhalb der Standortregio
 
 (3) Das Verfahren zur Beteiligung der Öffentlichkeit wird entsprechend fortentwickelt. Hierzu können sich die Beteiligten über die gesetzlich geregelten Mindestanforderungen hinaus weiterer Beteiligungsformen bedienen. Die Geeignetheit der Beteiligungsformen ist in angemessenen zeitlichen Abständen zu prüfen.
 
-
-## § 6 – Informationsplattform
+# § 6 – Informationsplattform
 
 Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für die Sicherheit der nuklearen Entsorgung eine Internetplattform mit einem Informationsangebot; darin werden fortlaufend die das Standortauswahlverfahren betreffenden wesentlichen Unterlagen des Bundesamtes für die Sicherheit der nuklearen Entsorgung und des Vorhabenträgers nach § 10 des Umweltinformationsgesetzes zur Verfügung gestellt. Zu den wesentlichen Unterlagen gehören insbesondere Gutachten, Stellungnahmen, Datensammlungen und Berichte.
 
-
-## § 7 – Stellungnahmeverfahren; Erörterungstermine
+# § 7 – Stellungnahmeverfahren; Erörterungstermine
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung gibt der Öffentlichkeit und den Trägern öffentlicher Belange, deren Aufgabenbereich durch einen Vorschlag des Vorhabenträgers nach Absatz 2 berührt wird, nach Übermittlung des jeweiligen Vorschlags sowie im Fall einer Nachprüfung nach abgeschlossenem Nachprüfverfahren nach § 10 Absatz 5 Gelegenheit zur Stellungnahme zu den Vorschlägen sowie den dazu jeweils vorliegenden Berichten und Unterlagen. Die Stellungnahmen sind innerhalb einer Frist von drei Monaten abzugeben. Die Stellungnahmen sind bei den weiteren Verfahrensschritten zu berücksichtigen; das Bundesamt für die Sicherheit der nuklearen Entsorgung und der Vorhabenträger werten die Stellungnahmen aus.
 
@@ -150,8 +141,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (5) An den Erörterungsterminen sollen neben der Öffentlichkeit und den Trägern öffentlicher Belange auch der Vorhabenträger, Vertreter der in den §§ 10 und 11 geregelten Konferenzen, die jeweils zuständigen obersten Landesbehörden und die betroffenen Gebietskörperschaften teilnehmen. Der Erörterungstermin ist jeweils im räumlichen Bereich des Vorhabens durchzuführen. Er ist mindestens einen Monat vor seiner Durchführung entsprechend Absatz 4 Satz 2 bekannt zu machen.
 
-
-## § 8 – Nationales Begleitgremium
+# § 8 – Nationales Begleitgremium
 
 (1) Aufgabe des pluralistisch zusammengesetzten Nationalen Begleitgremiums ist die vermittelnde und unabhängige Begleitung des Standortauswahlverfahrens, insbesondere der Öffentlichkeitsbeteiligung, mit dem Ziel, so Vertrauen in die Verfahrensdurchführung zu ermöglichen. Es kann sich unabhängig und wissenschaftlich mit sämtlichen Fragestellungen das Standortauswahlverfahren betreffend befassen, die zuständigen Institutionen jederzeit befragen und Stellungnahmen abgeben. Es kann dem Deutschen Bundestag weitere Empfehlungen zum Standortauswahlverfahren geben.
 
@@ -163,8 +153,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (5) Das Nationale Begleitgremium beruft einen Partizipationsbeauftragten, der als Angehöriger der Geschäftsstelle die Aufgabe der frühzeitigen Identifikation möglicher Konflikte und der Entwicklung von Vorschlägen zu deren Auflösung im Standortauswahlverfahren übernimmt. Das Bundesamt für die Sicherheit der nuklearen Entsorgung, der Vorhabenträger und die Konferenzen nach den §§ 9 bis 11 können den Partizipationsbeauftragten bei Fragen zum Beteiligungsverfahren hinzuziehen. Dieser berichtet dem Nationalen Begleitgremium über seine Tätigkeit.
 
-
-## § 9 – Fachkonferenz Teilgebiete
+# § 9 – Fachkonferenz Teilgebiete
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung beruft nach Erhalt des Zwischenberichts nach § 13 Absatz 2 Satz 3 eine Fachkonferenz Teilgebiete. Teilnehmende Personen sind Bürgerinnen und Bürger, Vertreter der Gebietskörperschaften der nach § 13 Absatz 2 ermittelten Teilgebiete, Vertreter gesellschaftlicher Organisationen sowie Wissenschaftlerinnen und Wissenschaftler.
 
@@ -172,8 +161,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (3) Die Fachkonferenz Teilgebiete wird von einer Geschäftsstelle unterstützt, die beim Bundesamt für die Sicherheit der nuklearen Entsorgung eingerichtet wird.
 
-
-## § 10 – Regionalkonferenzen
+# § 10 – Regionalkonferenzen
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung richtet in jeder nach § 14 Absatz 2 zur übertägigen Erkundung vorgeschlagenen Standortregion eine Regionalkonferenz ein. Diese besteht jeweils aus einer Vollversammlung und einem Vertretungskreis. Die Regionalkonferenz gibt sich eine Geschäftsordnung; darin sind insbesondere Regelungen zu einer Anhörung der Vollversammlung festzulegen.
 
@@ -189,8 +177,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (7) Mit dem Ausscheiden einer Region aus dem Auswahlverfahren löst sich die dazugehörige Regionalkonferenz auf.
 
-
-## § 11 – Fachkonferenz Rat der Regionen
+# § 11 – Fachkonferenz Rat der Regionen
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung richtet nach Bildung der Regionalkonferenzen eine Fachkonferenz Rat der Regionen ein. Diese setzt sich aus Vertretern der Regionalkonferenzen und von Gemeinden, in denen radioaktive Abfälle zwischengelagert werden, zusammen. Die Anzahl aller Vertreter der Zwischenlagerstandorte soll der Anzahl der delegierten Vertreter einer Regionalkonferenz entsprechen. Die Fachkonferenz Rat der Regionen soll die Anzahl von 30 Teilnehmern nicht überschreiten.
 
@@ -198,8 +185,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (3) Die Fachkonferenz Rat der Regionen wird von einer Geschäftsstelle unterstützt, die beim Bundesamt für die Sicherheit der nuklearen Entsorgung eingerichtet wird.
 
-
-## § 12 – Erkundung; Verhältnis zur Raumordnung
+# § 12 – Erkundung; Verhältnis zur Raumordnung
 
 (1) Für die Erkundung sind die §§ 3 bis 29, 39, 40, 48 und 50 bis 104, 106 und 145 bis 148 des Bundesberggesetzes entsprechend anzuwenden. Im Übrigen bleiben die Vorschriften des Bundesberggesetzes unberührt. Für die Anwendung dieser Vorschriften gilt, dass die übertägige und untertägige Erkundung aus zwingenden Gründen des öffentlichen Interesses erfolgt. Für die Erkundung nach diesem Gesetz und die jeweiligen Standortentscheidungen gelten die §§ 9d bis 9f sowie § 9g Absatz 3 bis 5 des Atomgesetzes.
 
@@ -209,15 +195,13 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (4) Die Funktionen der Länder als amtliche Sachverständige und Träger öffentlicher Belange bleiben unberührt.
 
-
-## § 13 – Ermittlung von Teilgebieten
+# § 13 – Ermittlung von Teilgebieten
 
 (1) Der Vorhabenträger hat unter Anwendung der in den §§ 22 bis 24 festgelegten geowissenschaftlichen Anforderungen und Kriterien Teilgebiete zu ermitteln, die günstige geologische Voraussetzungen für die sichere Endlagerung radioaktiver Abfälle erwarten lassen.
 
 (2) Der Vorhabenträger wendet hierzu auf die ihm von den zuständigen Behörden des Bundes und der Länder zur Verfügung zu stellenden geologischen Daten für das gesamte Bundesgebiet zunächst die geowissenschaftlichen Ausschlusskriterien nach § 22 und auf das verbleibende Gebiet die Mindestanforderungen nach § 23 an. Aus den identifizierten Gebieten ermittelt der Vorhabenträger durch Anwendung der geowissenschaftlichen Abwägungskriterien nach § 24 die Teilgebiete, die sich auf Basis der Abwägung als günstig erweisen. Der Vorhabenträger veröffentlicht das Ergebnis in einem Zwischenbericht und übermittelt diesen unverzüglich an das Bundesamt für die Sicherheit der nuklearen Entsorgung. In dem Zwischenbericht werden sämtliche für die getroffene Auswahl entscheidungserheblichen Tatsachen und Erwägungen dargestellt; sofern Gebiete vorhanden sind, die aufgrund nicht hinreichender geologischer Daten nicht eingeordnet werden können, sind diese ebenfalls aufzuführen und ist eine Empfehlung zum weiteren Umgang mit diesen Gebieten aufzunehmen. § 23 Absatz 2 bleibt unberührt.
 
-
-## § 14 – Ermittlung von Standortregionen für übertägige Erkundung
+# § 14 – Ermittlung von Standortregionen für übertägige Erkundung
 
 (1) Der Vorhabenträger ermittelt aus den Teilgebieten nach § 13 Absatz 1 Standortregionen für die übertägige Erkundung. Er führt für die Teilgebiete repräsentative vorläufige Sicherheitsuntersuchungen nach § 27 durch. Auf der Grundlage der daraus ermittelten Ergebnisse hat der Vorhabenträger unter erneuter Anwendung der geowissenschaftlichen Abwägungskriterien nach § 24 günstige Standortregionen zu ermitteln. Planungswissenschaftliche Abwägungskriterien sind nach den Vorgaben in § 25 anzuwenden. Für die Standortregionen nach Absatz 2 erarbeitet er standortbezogene Erkundungsprogramme für die übertägige Erkundung nach Maßgabe der Anforderungen und Kriterien nach den §§ 22 bis 24 und für die Durchführung der weiterentwickelten vorläufigen Sicherheitsuntersuchungen nach § 16 Absatz 1.
 
@@ -225,8 +209,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (3) Mit dem Vorschlag legt der Vorhabenträger dem Bundesamt für die Sicherheit der nuklearen Entsorgung die standortbezogenen Erkundungsprogramme für die übertägige Erkundung zur Festlegung vor.
 
-
-## § 15 – Entscheidung über übertägige Erkundung und Erkundungsprogramme
+# § 15 – Entscheidung über übertägige Erkundung und Erkundungsprogramme
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft den Vorschlag des Vorhabenträgers. Will das Bundesamt für die Sicherheit der nuklearen Entsorgung von dem Vorschlag des Vorhabenträgers abweichen, hat es ihm zuvor Gelegenheit zur Stellungnahme zu geben.
 
@@ -236,8 +219,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (4) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft die standortbezogenen Erkundungsprogramme zur übertägigen Erkundung für die durch Bundesgesetz ausgewählten Standortregionen, legt diese fest und veröffentlicht sie sowie Änderungen im Bundesanzeiger.
 
-
-## § 16 – Übertägige Erkundung und Vorschlag für untertägige Erkundung
+# § 16 – Übertägige Erkundung und Vorschlag für untertägige Erkundung
 
 (1) Der Vorhabenträger hat die durch Bundesgesetz ausgewählten Standortregionen übertägig nach den standortbezogenen Erkundungsprogrammen zu erkunden. Auf der Grundlage der Erkundungsergebnisse hat der Vorhabenträger weiterentwickelte vorläufige Sicherheitsuntersuchungen durchzuführen. Er führt in den Standortregionen sozioökonomische Potenzialanalysen durch.
 
@@ -247,8 +229,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (4) Mit dem Vorschlag legt der Vorhabenträger dem Bundesamt für die Sicherheit der nuklearen Entsorgung die Erkundungsprogramme und Prüfkriterien für die untertägige Erkundung zur Festlegung vor.
 
-
-## § 17 – Entscheidung über untertägige Erkundung und Erkundungsprogramme
+# § 17 – Entscheidung über untertägige Erkundung und Erkundungsprogramme
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft den Vorschlag des Vorhabenträgers. Will das Bundesamt für die Sicherheit der nuklearen Entsorgung von dem Vorschlag des Vorhabenträgers abweichen, hat es ihm zuvor Gelegenheit zur Stellungnahme zu geben.
 
@@ -258,8 +239,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (4) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft die Erkundungsprogramme und Prüfkriterien für die durch Bundesgesetz ausgewählten Standorte, legt diese fest und veröffentlicht sie sowie Änderungen im Bundesanzeiger.
 
-
-## § 18 – Untertägige Erkundung
+# § 18 – Untertägige Erkundung
 
 (1) Der Vorhabenträger hat die durch Bundesgesetz ausgewählten Standorte nach den Erkundungsprogrammen untertägig zu erkunden. Auf der Grundlage der Erkundungsergebnisse hat der Vorhabenträger umfassende vorläufige Sicherheitsuntersuchungen durchzuführen sowie den UVP-Bericht nach § 16 des Gesetzes über die Umweltverträglichkeitsprüfung zu erstellen.
 
@@ -267,15 +247,13 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (3) Der Vorhabenträger übermittelt seinen Standortvorschlag für ein Endlager mit Begründung an das Bundesamt für die Sicherheit der nuklearen Entsorgung. Die Begründung enthält eine vergleichende Bewertung der zu betrachtenden Standorte. Das Bundesamt für die Sicherheit der nuklearen Entsorgung führt auf Grundlage der vom Vorhabenträger vorgelegten Unterlagen die Umweltverträglichkeitsprüfung hinsichtlich des Standortes entsprechend den §§ 17 bis 21 und 54 bis 57 des Gesetzes über die Umweltverträglichkeitsprüfung durch.
 
-
-## § 19 – Abschließender Standortvergleich und Standortvorschlag
+# § 19 – Abschließender Standortvergleich und Standortvorschlag
 
 (1) Das Bundesamt für die Sicherheit der nuklearen Entsorgung prüft den Vorschlag des Vorhabenträgers einschließlich des zugrunde liegenden Standortvergleichs von mindestens zwei Standorten. Auf Grundlage des Ergebnisses dieser Prüfung und unter Abwägung sämtlicher privater und öffentlicher Belange sowie der Ergebnisse des Beteiligungsverfahrens bewertet das Bundesamt für die Sicherheit der nuklearen Entsorgung, welches der Standort mit der bestmöglichen Sicherheit ist. Der Standortvorschlag muss erwarten lassen, dass die nach dem Stand von Wissenschaft und Technik erforderliche Vorsorge gegen Schäden durch die Errichtung, den Betrieb und die Stilllegung des Endlagers nach § 9b Absatz 1a des Atomgesetzes gewährleistet ist und sonstige öffentlich-rechtliche Vorschriften nicht entgegenstehen. Der durch das Bundesamt für die Sicherheit der nuklearen Entsorgung zu übermittelnde Standortvorschlag muss eine zusammenfassende Darstellung und Bewertung der Ergebnisse des Beteiligungsverfahrens, der Umweltauswirkungen entsprechend den §§ 24 und 25 des Gesetzes über die Umweltverträglichkeitsprüfung und eine Begründung der Raumverträglichkeit umfassen.
 
 (2) Das Bundesamt für die Sicherheit der nuklearen Entsorgung hat dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit den begründeten Standortvorschlag einschließlich aller hierfür erforderlichen Unterlagen zu übermitteln. Die Übermittlung des Vorschlags an das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit darf erst erfolgen, wenn gegen den Bescheid nach Satz 3 keine Rechtsbehelfe mehr eingelegt werden können oder das Bundesverwaltungsgericht über den Bescheid nach Satz 3 rechtskräftig entschieden hat. Vor Übermittlung des Standortvorschlags stellt das Bundesamt für die Sicherheit der nuklearen Entsorgung durch Bescheid fest, ob das bisherige Standortauswahlverfahren nach den Regelungen dieses Gesetzes durchgeführt wurde und der Standortvorschlag diesen entspricht. Das Bundesamt für die Sicherheit der nuklearen Entsorgung ist in seiner Beurteilung an die im Bescheid nach § 17 Absatz 3 Satz 1 enthaltene Feststellung zur Rechtmäßigkeit des Verfahrens gebunden, soweit dieser Bescheid unanfechtbar ist. Der Bescheid ist in entsprechender Anwendung der Bestimmungen über die öffentliche Bekanntmachung von Genehmigungsbescheiden der Atomrechtlichen Verfahrensverordnung öffentlich bekannt zu machen. Für Rechtsbehelfe gegen die Entscheidung nach Satz 3 findet das Umwelt-Rechtsbehelfsgesetz mit der Maßgabe entsprechende Anwendung, dass die betroffenen kommunalen Gebietskörperschaften, in deren Gebiet der vorgeschlagene Standort liegt, und deren Einwohnerinnen und Einwohner sowie deren Grundstückseigentümerinnen und Grundstückseigentümer den nach § 3 des Umwelt-Rechtsbehelfsgesetzes anerkannten Vereinigungen gleichstehen. Einer Nachprüfung der Entscheidung nach Satz 3 in einem Vorverfahren nach § 68 der Verwaltungsgerichtsordnung bedarf es nicht. Über Klagen gegen die Entscheidung nach Satz 3 entscheidet im ersten und letzten Rechtszug das Bundesverwaltungsgericht.
 
-
-## § 20 – Standortentscheidung
+# § 20 – Standortentscheidung
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag und dem Bundesrat den Standortvorschlag in Form eines Gesetzentwurfs vor. Zu den von der Bundesregierung ergänzend vorzulegenden, für die Bewertung des Standortes erforderlichen Unterlagen gehören insbesondere ein zusammenfassender Bericht über die Ergebnisse des Standortauswahlverfahrens und die Ergebnisse des Beteiligungsverfahrens einschließlich der Beratungsergebnisse des Nationalen Begleitgremiums.
 
@@ -285,8 +263,7 @@ Zur umfassenden Unterrichtung der Öffentlichkeit errichtet das Bundesamt für d
 
 (4) Abweichend von § 15 Absatz 1 des Raumordnungsgesetzes in Verbindung mit § 1 Satz 3 Nummer 16 der Raumordnungsverordnung und anderen raumordnungsrechtlichen Vorschriften findet ein Raumordnungsverfahren für die Errichtung des Endlagers nicht statt.
 
-
-## § 21 – Sicherungsvorschriften
+# § 21 – Sicherungsvorschriften
 
 (1) Gebiete, die als bestmöglich sicherer Standort für die Endlagerung in Betracht kommen, sind vor Veränderungen zu schützen, die ihre Eignung als Endlagerstandort beeinträchtigen können. Der Schutz erfolgt nach Maßgabe der Absätze 2 bis 4. § 12 Absatz 1 Satz 4 bleibt unberührt.
 
@@ -324,8 +301,7 @@ Ab diesem Zeitpunkt entfällt die vorherige Prüfung auf das Vorhandensein der i
 
 (+++ § 21 Abs. 2 Satz 3 bis 5: Inkraft gem. Art. 5 Abs. 1 G. v. 5.5.2017 I, 1074 mWv 15.8.2017 +++)
 
-
-## § 22 – Ausschlusskriterien
+# § 22 – Ausschlusskriterien
 
 (1) Ein Gebiet ist nicht als Endlagerstandort geeignet, wenn mindestens eines der Ausschlusskriterien nach Absatz 2 in diesem Gebiet erfüllt ist.
 
@@ -353,8 +329,7 @@ in den Gebirgsbereichen, die als einschlusswirksamer Gebirgsbereich oder Einlage
 
 (3) Folgen von Maßnahmen zur Erkundung potenzieller Endlagerstandorte bleiben bei der Anwendung des Kriteriums nach Absatz 2 Nummer 3 außer Betracht. In den vorläufigen Sicherheitsuntersuchungen ist zu zeigen, dass der Nachweis des sicheren Einschlusses trotz dieser Folgen geführt werden kann. Erkundungsmaßnahmen sind so zu planen und durchzuführen, dass der einschlusswirksame Gebirgsbereich nur in dem für den erforderlichen Informationsgewinn unvermeidlichen Ausmaß verritzt und seine Integrität nicht gefährdet wird.
 
-
-## § 23 – Mindestanforderungen
+# § 23 – Mindestanforderungen
 
 (1) Für die Endlagerung hochradioaktiver Abfälle kommen die Wirtsgesteine Steinsalz, Tongestein und Kristallingestein in Betracht. Für das Wirtsgestein Kristallingestein ist unter den Voraussetzungen des Absatzes 4 für den sicheren Einschluss ein alternatives Konzept zu einem einschlusswirksamen Gebirgsbereich möglich, das deutlich höhere Anforderungen an die Langzeitintegrität des Behälters stellt.
 
@@ -381,8 +356,7 @@ ein einschlusswirksamer Gebirgsbereich muss über eine Ausdehnung in der Fläche
 5. Erhalt der Barrierewirkung  
 es dürfen keine Erkenntnisse oder Daten vorliegen, welche die Integrität des einschlusswirksamen Gebirgsbereichs, insbesondere die Einhaltung der geowissenschaftlichen Mindestanforderungen zur Gebirgsdurchlässigkeit, Mächtigkeit und Ausdehnung des einschlusswirksamen Gebirgsbereichs über einen Zeitraum von einer Million Jahren zweifelhaft erscheinen lassen.
 
-
-## § 24 – Geowissenschaftliche Abwägungskriterien
+# § 24 – Geowissenschaftliche Abwägungskriterien
 
 (1) Anhand geowissenschaftlicher Abwägungskriterien wird jeweils bewertet, ob in einem Gebiet eine günstige geologische Gesamtsituation vorliegt. Die günstige geologische Gesamtsituation ergibt sich nach einer sicherheitsgerichteten Abwägung der Ergebnisse zu allen Abwägungskriterien. Die in den Absätzen 3 bis 5 aufgeführten Kriterien dienen hierbei als Bewertungsmaßstab.
 
@@ -394,15 +368,13 @@ es dürfen keine Erkenntnisse oder Daten vorliegen, welche die Integrität des e
 
 (5) Weitere sicherheitsrelevante Eigenschaften werden anhand der Kriterien zur Gasbildung, zur Temperaturverträglichkeit, zum Rückhaltevermögen der Gesteine des einschlusswirksamen Gebirgsbereichs gegenüber Radionukliden, zu hydrochemischen Verhältnissen und zum Deckgebirge beurteilt. Diese Kriterien werden in den Anlagen 7 bis 11 festgelegt.
 
-
-## § 25 – Planungswissenschaftliche Abwägungskriterien
+# § 25 – Planungswissenschaftliche Abwägungskriterien
 
 Die planungswissenschaftlichen Abwägungskriterien dienen vorrangig der Einengung von großen, potenziell für ein Endlager geeigneten Gebieten, soweit eine Einengung sich nicht bereits aus der Anwendung der geowissenschaftlichen Kriterien nach den §§ 22 bis 24 und auf Grundlage der Ergebnisse der vorläufigen Sicherheitsuntersuchungen ergibt. Sie können auch für einen Vergleich zwischen Gebieten herangezogen werden, die unter Sicherheitsaspekten als gleichwertig zu betrachten sind. Die planungswissenschaftlichen Abwägungskriterien werden in einem Abwägungsprozess in drei Gewichtungsgruppen nach Anlage 12 unterteilt, von denen die Gewichtungsgruppe 1 am stärksten, die Gewichtungsgruppe 2 am zweitstärksten und die Gewichtungsgruppe 3 mit der geringsten Gewichtung zu werten ist. Eine Abwägung der planungswissenschaftlichen Abwägungskriterien mit den geowissenschaftlichen Abwägungskriterien erfolgt nicht.
 
 (+++ § 25: zur Anwendung vgl. § 14 Abs. 1 +++)
 
-
-## § 26 – Sicherheitsanforderungen
+# § 26 – Sicherheitsanforderungen
 
 (1) Sicherheitsanforderungen sind die Anforderungen, denen die Errichtung, der Betrieb und die Stilllegung einer nach § 9b Absatz 1a des Atomgesetzes genehmigungsbedürftigen Anlage zur Gewährleistung der nach dem Stand von Wissenschaft und Technik erforderlichen Vorsorge gegen Schäden genügen müssen und die damit das bei der Endlagerung zu erreichende Schutzniveau festlegen. Sie bilden die wesentliche Grundlage für die nach den §§ 14, 16 und 18 im Rahmen der vorläufigen Sicherheitsuntersuchungen nach § 27 durchzuführende Bewertung, ob an einem Standort in Verbindung mit dem vorgesehenen Endlagerkonzept der sichere Einschluss der radioaktiven Abfälle erwartet werden kann.
 
@@ -428,8 +400,7 @@ Die Verordnung muss spätestens zum Zeitpunkt der Durchführung repräsentativer
 
 (4) Die Rechtsverordnung nach Absatz 3 ist dem Bundestag zuzuleiten. Die Rechtsverordnung kann durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zugeleitet. Hat sich der Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, wird die unveränderte Rechtsverordnung dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zugeleitet.
 
-
-## § 27 – Vorläufige Sicherheitsuntersuchungen
+# § 27 – Vorläufige Sicherheitsuntersuchungen
 
 (1) Gegenstand der vorläufigen Sicherheitsuntersuchungen nach § 14 Absatz 1, § 16 Absatz 1 und § 18 Absatz 1 ist die Bewertung, inwieweit der sichere Einschluss der radioaktiven Abfälle unter Ausnutzung der geologischen Standortgegebenheiten erwartet werden kann. Dabei sind die Sicherheitsanforderungen nach § 26 zugrunde zu legen und die Anforderungen an die Durchführung der Sicherheitsuntersuchungen nach Absatz 6 einzuhalten.
 
@@ -445,8 +416,7 @@ Die Verordnung muss spätestens zum Zeitpunkt der Durchführung repräsentativer
 
 (7) Die Rechtsverordnung nach Absatz 6 ist dem Bundestag zuzuleiten. Die Rechtsverordnung kann durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zugeleitet. Hat sich der Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, wird die unveränderte Rechtsverordnung dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zugeleitet.
 
-
-## § 28 – Umlage
+# § 28 – Umlage
 
 (1) Der Vorhabenträger und das Bundesamt für die Sicherheit der nuklearen Entsorgung legen ihre umlagefähigen Kosten für die Umsetzung des Standortauswahlverfahrens nach Maßgabe der Absätze 2 bis 4 und der §§ 29 bis 35 anteilig auf die Umlagepflichtigen um. § 21b des Atomgesetzes und die Endlagervorausleistungsverordnung finden insoweit keine Anwendung.
 
@@ -472,22 +442,19 @@ Die Verordnung muss spätestens zum Zeitpunkt der Durchführung repräsentativer
 
 (4) Bei der Umsetzung des Standortauswahlverfahrens sind die Grundsätze der Wirtschaftlichkeit und Sparsamkeit zu beachten.
 
-
-## § 29 – Umlagepflichtige und Umlagebetrag
+# § 29 – Umlagepflichtige und Umlagebetrag
 
 (1) Umlagepflichtig ist derjenige, dem eine Genehmigung nach den §§ 6, 7 oder 9 des Atomgesetzes, nach § 12 Absatz 1 Nummer 3 sowie Absatz 3 und 4 des Strahlenschutzgesetzes oder nach § 7 der Strahlenschutzverordnung vom 20. Juli 2001 (BGBl. I S. 1714; 2002 I S. 1459) erteilt worden ist oder war, wenn aufgrund der genehmigten Tätigkeit radioaktive Abfälle, die an ein Endlager nach § 9a Absatz 3 des Atomgesetzes abgeliefert werden müssen, angefallen sind oder damit zu rechnen ist. Soweit die Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes auf den Fonds im Sinne von § 1 des Entsorgungsfondsgesetzes übergegangen ist, ist der Fonds im Sinne von § 1 des Entsorgungsfondsgesetzes anstelle des Genehmigungsinhabers umlagepflichtig. Landessammelstellen nach § 9a des Atomgesetzes sind nicht umlagepflichtig.
 
 (2) Der zu entrichtende Anteil eines Umlagepflichtigen an den umlagefähigen Kosten (Umlagebetrag) bemisst sich aufwandsgerecht entsprechend § 6 Absatz 1 Nummer 2 und Absatz 3 der Endlagervorausleistungsverordnung.
 
-
-## § 30 – Jahresrechnung für die Umsetzung der Standortsuche und Ermittlung der umlagefähigen Kosten
+# § 30 – Jahresrechnung für die Umsetzung der Standortsuche und Ermittlung der umlagefähigen Kosten
 
 (1) Der Vorhabenträger und das Bundesamt für die Sicherheit der nuklearen Entsorgung stellen nach Ende des Haushaltsjahres die umlagefähigen Kosten nach § 28 Absatz 2 jeweils durch Jahresrechnung über die Einnahmen und Ausgaben für die Umsetzung des Standortauswahlverfahrens fest (Jahresrechnung).
 
 (2) Für die Jahresrechnungen ist eine Abschlussprüfung durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft vorzunehmen. Die Jahresrechnungen bedürfen zudem der Genehmigung durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 31 – Ermittlung des Umlagebetrages
+# § 31 – Ermittlung des Umlagebetrages
 
 (1) Auf Grundlage der in den Jahresrechnungen ermittelten umlagefähigen Kosten nach § 30 Absatz 1 haben der Vorhabenträger und das Bundesamt für die Sicherheit der nuklearen Entsorgung für jeden Umlagepflichtigen den von diesem zu entrichtenden anteiligen Umlagebetrag nach § 29 Absatz 2 zu ermitteln und zuzuordnen.
 
@@ -497,8 +464,7 @@ Die Verordnung muss spätestens zum Zeitpunkt der Durchführung repräsentativer
 
 (+++ § 31: zur Anwendung vgl. § 33 Abs. 2 +++)
 
-
-## § 32 – Umlageforderung, Festsetzung und Fälligkeit
+# § 32 – Umlageforderung, Festsetzung und Fälligkeit
 
 (1) Die Umlageforderung entsteht mit Ablauf des Haushaltsjahres, für das die Umlagepflicht besteht (Umlagejahr).
 
@@ -508,8 +474,7 @@ Die Verordnung muss spätestens zum Zeitpunkt der Durchführung repräsentativer
 
 (+++ § 32 Abs. 2 u. 3: zur Anwendung vgl. § 33 Abs. 2 +++)
 
-
-## § 33 – Umlagevorauszahlungen
+# § 33 – Umlagevorauszahlungen
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit hat von den Umlagepflichtigen eine Vorauszahlung auf den Umlagebetrag eines Umlagejahres festzusetzen. Die Festsetzungen von Vorauszahlungen für umlagefähige Kosten des Vorhabenträgers und des Bundesamtes für die Sicherheit der nuklearen Entsorgung nimmt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit vor.
 
@@ -517,20 +482,17 @@ Die Verordnung muss spätestens zum Zeitpunkt der Durchführung repräsentativer
 
 (3) Von der Erhebung von Umlagevorauszahlungen oder Umlagebeträgen kann abgesehen werden, wenn sich aufgrund einer genehmigungsbedürftigen Tätigkeit oder aufgrund des Betriebs einer Anlage nur kleine Mengen an radioaktiven Abfällen ergeben.
 
-
-## § 34 – Differenz zwischen Umlagebetrag und Vorauszahlung
+# § 34 – Differenz zwischen Umlagebetrag und Vorauszahlung
 
 (1) Entsteht nach der Anrechnung des gezahlten Umlagevorauszahlungsbetrages auf den festgesetzten Umlagebetrag ein Fehlbetrag, ist dieser innerhalb eines Monats nach Bekanntgabe des festgesetzten Umlagebetrages zu entrichten. Der Fehlbetrag ist in der Festsetzung des Umlagebetrages auszuweisen.
 
 (2) Übersteigt der gezahlte Vorauszahlungsbetrag den festgesetzten Umlagebetrag, ist die Überzahlung unverzinst zu erstatten.
 
-
-## § 35 – Säumniszuschlag
+# § 35 – Säumniszuschlag
 
 Werden die Umlagebeträge oder Umlagevorauszahlungsbeträge nicht innerhalb von zwei Wochen nach Ablauf des Fälligkeitstages entrichtet, ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von 1 Prozent des rückständigen Betrages zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die Säumnis länger als drei Tage beträgt. Wird die Festsetzung einer Umlage aufgehoben oder geändert, bleiben die bis dahin verwirkten Säumniszuschläge unberührt.
 
-
-## § 35a – Abschließende Berechnung
+# § 35a – Abschließende Berechnung
 
 Nach der Standortentscheidung nach § 20 Absatz 2 wird eine abschließende Berechnung der Umlagebeträge vorgenommen. Hierfür gilt § 28 mit der Maßgabe, dass anstelle der dort in Absatz 1 Satz 1 genannten §§ 29 bis 35 die §§ 29, 31, 32, 34 und 35 entsprechend gelten. Die abschließende Berechnung umfasst alle ab dem 1. Januar 2021 festzusetzenden Umlagebeträge sowie die bis zum 31. Dezember 2020 festgesetzten Umlagebeträge, soweit
 
@@ -538,8 +500,7 @@ Nach der Standortentscheidung nach § 20 Absatz 2 wird eine abschließende Berec
 
 2. die Voraussetzungen der Rücknahme gemäß § 48 Absatz 1 Satz 1 des Verwaltungsverfahrensgesetzes vorliegen.
 
-
-## § 36 – Salzstock Gorleben
+# § 36 – Salzstock Gorleben
 
 (1) Der Salzstock Gorleben wird wie jeder andere in Betracht kommende Standort gemäß den nach den §§ 22 bis 26 festgelegten Kriterien und Anforderungen in das Standortauswahlverfahren einbezogen. Er kann lediglich im jeweiligen Verfahrensabschnitt nach den §§ 13 bis 20 des Standortauswahlgesetzes mit einem oder mehreren anderen Standorten verglichen werden, solange er nicht nach Satz 5 ausgeschlossen wurde. Er dient nicht als Referenzstandort für andere zu erkundende Standorte. Der Umstand, dass für den Standort Gorleben Erkenntnisse aus der bisherigen Erkundung vorliegen, darf ebenso wenig in die vergleichende Bewertung einfließen wie der Umstand, dass für den Standort Gorleben bereits Infrastruktur für die Erkundung geschaffen ist. Der Ausschluss nach dem Standortauswahlgesetz erfolgt, wenn der Salzstock Gorleben
 
@@ -553,41 +514,35 @@ Nach der Standortentscheidung nach § 20 Absatz 2 wird eine abschließende Berec
 
 (2) Die bergmännische Erkundung des Salzstocks Gorleben ist beendet. Maßnahmen, die der Standortauswahl dienen, dürfen nur noch nach diesem Gesetz und in dem hier vorgesehenen Verfahrensschritt des Standortauswahlverfahrens durchgeführt werden. Das Bergwerk wird bis zu der Standortentscheidung nach dem Standortauswahlgesetz unter Gewährleistung aller rechtlichen Erfordernisse und der notwendigen Erhaltungsarbeiten offen gehalten, sofern der Salzstock Gorleben nicht nach Absatz 1 aus dem Verfahren ausgeschlossen wurde. Der Bund ist für das Bergwerk Gorleben zuständig. Ein Salzlabor im Salzstock Gorleben zur standortunabhängigen Forschung zum Medium Salz als Wirtsgestein wird dort nicht betrieben.
 
-
-## § 37 – Übergangsvorschriften
+# § 37 – Übergangsvorschriften
 
 Für die bis zum 27. Juli 2013 nach § 21b des Atomgesetzes gezahlten Vorausleistungen gelten das Atomgesetz und die Endlagervorausleistungsverordnung in der zum Zeitpunkt des Inkrafttretens dieses Gesetzes geltenden Fassung fort.
 
-
-## § 38 – Dokumentation, Verordnungsermächtigung
+# § 38 – Dokumentation, Verordnungsermächtigung
 
 (1) Daten und Dokumente, die für die End- und Zwischenlagerung radioaktiver Abfälle bedeutsam sind oder werden können (Speicherdaten), werden vom Bundesamt für die Sicherheit der nuklearen Entsorgung dauerhaft gespeichert.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Einzelheiten zu den Speicherdaten und zu ihrem Inhalt, Verwendungszweck, Umfang, ihrer Übermittlung, Speicherung und Nutzung zu bestimmen. Die Rechtsverordnung soll insbesondere Regelungen enthalten, nach denen die Inhaber von Speicherdaten diese vollständig und kostenfrei dem Bundesamt für die Sicherheit der nuklearen Entsorgung oder einer von diesem bestimmten Stelle zur Verfügung stellen. Sie kann eine Regelung enthalten, nach der die Inhaber von Speicherdaten diese über die zuständigen Behörden der Länder der in Satz 2 genannten Behörde oder von dieser bestimmten Stelle zur Verfügung stellen. Zudem soll sie festlegen, wie die dauerhafte Unversehrtheit der Daten gesichert wird.
 
-
-## Anlage 1 – (zu § 24 Absatz 3)Kriterium zur Bewertung des Transportes radioaktiver Stoffe durch Grundwasserbewegungen im einschlusswirksamen Gebirgsbereich
+# Anlage 1 – (zu § 24 Absatz 3)Kriterium zur Bewertung des Transportes radioaktiver Stoffe durch Grundwasserbewegungen im einschlusswirksamen Gebirgsbereich
 
 (Fundstelle: BGBl. I 2017, 1088)
 
 Der Transport radioaktiver Stoffe durch Grundwasserbewegungen und Diffusion im einschlusswirksamen Gebirgsbereich soll so gering wie möglich sein. Bewertungsrelevante Eigenschaften dieses Kriteriums sind die im einschlusswirksamen Gebirgsbereich vorherrschende Grundwasserströmung, das Grundwasserangebot und die Diffusionsgeschwindigkeit entsprechend der unten stehenden Tabelle. Solange die entsprechenden Indikatoren nicht standortspezifisch erhoben sind, kann für die Abwägung das jeweilige Wirtsgestein als Indikator verwendet werden.
 
-
-## Anlage 2 – (zu § 24 Absatz 3)Kriterium zur Bewertung der Konfiguration der Gesteinskörper
+# Anlage 2 – (zu § 24 Absatz 3)Kriterium zur Bewertung der Konfiguration der Gesteinskörper
 
 (Fundstelle: BGBl. I 2017, 1089)
 
 Die barrierewirksamen Gesteine eines einschlusswirksamen Gebirgsbereichs müssen mindestens über eine Mächtigkeit verfügen, die den sicheren Einschluss der Radionuklide über einen Zeitraum von einer Million Jahren bewirkt. Das voraussichtliche Einschlussvermögen soll möglichst hoch und zuverlässig prognostizierbar sein. Es ist unter Berücksichtigung der Barrierewirkung der unversehrten Barriere mittels Modellrechnungen abzuleiten, sobald die hierfür erforderlichen geowissenschaftlichen Daten vorliegen, spätestens für den Standortvorschlag nach § 18 Absatz 3. Solange die für die rechnerische Ableitung notwendigen Daten noch nicht vorliegen, können die Lage, Ausdehnung und Mächtigkeit der barrierewirksamen Gesteinsformation, der Grad der Umschließung durch einen einschlusswirksamen Gebirgsbereich sowie für das Wirtsgestein Tonstein deren Isolation von wasserleitenden Schichten und hydraulischen Potenzialbringern entsprechend der unten stehenden Tabelle als Indikatoren herangezogen werden.
 
-
-## Anlage 3 – (zu § 24 Absatz 3)Kriterium zur Bewertung der räumlichen Charakterisierbarkeit
+# Anlage 3 – (zu § 24 Absatz 3)Kriterium zur Bewertung der räumlichen Charakterisierbarkeit
 
 (Fundstelle: BGBl. I 2017, 1090)
 
 Die räumliche Charakterisierung der wesentlichen geologischen Barrieren, die direkt oder indirekt den sicheren Einschluss der radioaktiven Abfälle gewährleisten, insbesondere des vorgesehenen einschlusswirksamen Gebirgsbereichs oder des Einlagerungsbereichs, soll möglichst zuverlässig möglich sein. Bewertungsrelevante Eigenschaften hierfür sind die Ermittelbarkeit der relevanten Gesteinstypen und ihrer Eigenschaften sowie die Übertragbarkeit dieser Eigenschaften nach der unten stehenden Tabelle.
 
-
-## Anlage 4 – (zu § 24 Absatz 3)Kriterium zur Bewertung der langfristigen Stabilität der günstigen Verhältnisse
+# Anlage 4 – (zu § 24 Absatz 3)Kriterium zur Bewertung der langfristigen Stabilität der günstigen Verhältnisse
 
 (Fundstelle: BGBl. I 2017, 1091)
 
@@ -599,8 +554,7 @@ Die für die langfristige Stabilität der günstigen Verhältnisse wichtigen sic
 
 3. als ungünstig, wenn innerhalb der letzten eine Million Jahre eine solche Änderung aufgetreten ist.
 
-
-## Anlage 5 – (zu § 24 Absatz 4)Kriterium zur Bewertung der günstigen gebirgsmechanischen Eigenschaften
+# Anlage 5 – (zu § 24 Absatz 4)Kriterium zur Bewertung der günstigen gebirgsmechanischen Eigenschaften
 
 (Fundstelle: BGBl. I 2017, 1092)
 
@@ -610,36 +564,31 @@ Die Neigung zur Ausbildung mechanisch induzierter Sekundärpermeabilitäten im e
 
 2. um Endlagerhohlräume sind keine mechanisch bedingten Sekundärpermeabilitäten außerhalb einer unvermeidbaren konturnah entfestigten Auflockerungszone zu erwarten.
 
-
-## Anlage 6 – (zu § 24 Absatz 4)Kriterium zur Bewertung der Neigung zur Bildung von Fluidwegsamkeiten
+# Anlage 6 – (zu § 24 Absatz 4)Kriterium zur Bewertung der Neigung zur Bildung von Fluidwegsamkeiten
 
 (Fundstelle: BGBl. I 2017, 1093 - 1094)
 
 Die Neigung des einschlusswirksamen Gebirgsbereichs zur Ausbildung von Wegsamkeiten soll möglichst gering sein. Bewertungsrelevante Eigenschaften hierfür sind die Veränderbarkeit der Gebirgsdurchlässigkeit, Erfahrungen über die Barrierewirksamkeit der Gebirgsformationen, die Rückbildbarkeit von Rissen und für den Vergleich von Gebieten die Duktilität des Gesteins nach der unten stehenden Tabelle.
 
-
-## Anlage 7 – (zu § 24 Absatz 5)Kriterium zur Bewertung der Gasbildung
+# Anlage 7 – (zu § 24 Absatz 5)Kriterium zur Bewertung der Gasbildung
 
 (Fundstelle: BGBl. I 2017, 1095)
 
 Die Gasbildung soll unter Endlagerbedingungen möglichst gering sein. Indikator hierfür ist das Wasserangebot im Einlagerungsbereich nach der unten stehenden Tabelle.
 
-
-## Anlage 8 – (zu § 24 Absatz 5)Kriterium zur Bewertung der Temperaturverträglichkeit
+# Anlage 8 – (zu § 24 Absatz 5)Kriterium zur Bewertung der Temperaturverträglichkeit
 
 (Fundstelle: BGBl. I 2017, 1096)
 
 Die von Temperaturänderungen infolge der Einlagerung der radioaktiven Abfälle betroffenen Gesteinsformationen sollen so beschaffen sein, dass dadurch bedingte Änderungen der Gesteinseigenschaften sowie thermomechanische Gebirgsspannungen nicht zu einem Festigkeitsverlust und der Bildung von Sekundärpermeabilitäten im Endlagerbereich führen. Indikatoren hierfür sind die Neigung zur Bildung wärmeinduzierter Sekundärpermeabilitäten und ihre Ausdehnung sowie die Temperaturstabilität des Wirtsgesteins hinsichtlich Mineralumwandlungen.
 
-
-## Anlage 9 – (zu § 24 Absatz 5)Kriterium zur Bewertung des Rückhaltevermögens im einschlusswirksamen Gebirgsbereich
+# Anlage 9 – (zu § 24 Absatz 5)Kriterium zur Bewertung des Rückhaltevermögens im einschlusswirksamen Gebirgsbereich
 
 (Fundstelle: BGBl. I 2017, 1097)
 
 Die barrierewirksamen Gesteine eines einschlusswirksamen Gebirgsbereichs sollen ein möglichst hohes Rückhaltevermögen gegenüber den langzeitrelevanten Radionukliden besitzen. Indikatoren hierfür sind die Sorptionsfähigkeit der Gesteine beziehungsweise die Sorptionskoeffizienten für die betreffenden Radionuklide nach der unten stehenden Tabelle, ein möglichst hoher Gehalt an Mineralphasen mit großer reaktiver Oberfläche wie Tonminerale sowie Eisen- und Mangan-Hydroxide und -Oxihydrate, eine möglichst hohe Ionenstärke des Grundwassers in der geologischen Barriere sowie Öffnungsweiten der Gesteinsporen im Nanometerbereich.
 
-
-## Anlage 10 – (zu § 24 Absatz 5)Kriterium zur Bewertung der hydrochemischen Verhältnisse
+# Anlage 10 – (zu § 24 Absatz 5)Kriterium zur Bewertung der hydrochemischen Verhältnisse
 
 (Fundstelle: BGBl. I 2017, 1098)
 
@@ -655,14 +604,12 @@ Die chemische Zusammensetzung der Tiefenwässer und die festen Mineralphasen des
 
 5. eine geringe Karbonatkonzentration im Tiefenwasser.
 
-
-## Anlage 11 – (zu § 24 Absatz 5)Kriterium zur Bewertung des Schutzes des einschlusswirksamen Gebirgsbereichs durch das Deckgebirge
+# Anlage 11 – (zu § 24 Absatz 5)Kriterium zur Bewertung des Schutzes des einschlusswirksamen Gebirgsbereichs durch das Deckgebirge
 
 (Fundstelle: BGBl. I 2017, 1099)
 
 Das Deckgebirge soll durch seine Mächtigkeit sowie seinen strukturellen Aufbau und seine Zusammensetzung möglichst langfristig zum Schutz des einschlusswirksamen Gebirgsbereichs gegen direkte oder indirekte Auswirkungen exogener Vorgänge beitragen. Indikatoren hierfür sind die Überdeckung des einschlusswirksamen Gebirgsbereichs mit grundwasser- und erosionshemmenden Gesteinen und deren Verbreitung und Mächtigkeit im Deckgebirge sowie das Fehlen von strukturellen Komplikationen im Deckgebirge, aus denen sich Beeinträchtigungen des einschlusswirksamen Gebirgsbereichs ergeben können, nach der unten stehenden Tabelle.
 
-
-## Anlage 12 – (zu § 25)Planungswissenschaftliche Abwägungskriterien
+# Anlage 12 – (zu § 25)Planungswissenschaftliche Abwägungskriterien
 
 (Fundstelle: BGBl. I 2017, 1100)

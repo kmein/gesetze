@@ -1,10 +1,7 @@
-# [BMIErnAnO 2005] Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums des Innern
-
-Ausfertigungsdatum: 29.07.2005
-
+% Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums des Innern
+% Ausfertigungsdatum: 29.07.2005
  
-
-## I.
+# I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes vom 23. Juni 2004 (BGBl. I S. 1286) übertrage ich widerruflich die Ausübung des Rechtes zur Ernennung und Entlassung der Beamtinnen und Beamten des Bundes
 
@@ -64,17 +61,14 @@ der Direktorin oder dem Direktor der Bundespolizeiakademie,
 
 jeweils für ihren/seinen Geschäftsbereich.
 
-
-## II.
+# II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der unter Abschnitt I genannten Beamtinnen und Beamten vor.
 
-
-## III.
+# III.
 
 Diese Anordnung tritt mit Bekanntgabe in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern

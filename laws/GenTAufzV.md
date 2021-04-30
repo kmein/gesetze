@@ -1,15 +1,11 @@
-# [GenTAufzV] Verordnung über Aufzeichnungen bei gentechnischen Arbeiten und bei Freisetzungen  (Gentechnik-Aufzeichnungsverordnung - GenTAufzV)
-
-Ausfertigungsdatum: 24.10.1990
-
+% Verordnung über Aufzeichnungen bei gentechnischen Arbeiten und bei Freisetzungen  (Gentechnik-Aufzeichnungsverordnung - GenTAufzV)
+% Ausfertigungsdatum: 24.10.1990
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Wer gentechnische Arbeiten oder Freisetzungen durchführt, hat nach Maßgabe dieser Verordnung Aufzeichnungen zu führen, aufzubewahren und der zuständigen Behörde auf ihr Ersuchen vorzulegen.
 
-
-## § 2 – Aufzeichnungen bei gentechnischen Arbeiten oder bei Freisetzungen
+# § 2 – Aufzeichnungen bei gentechnischen Arbeiten oder bei Freisetzungen
 
 (1) Die Aufzeichnungen über gentechnische Arbeiten müssen folgende Angaben enthalten:
 
@@ -101,8 +97,7 @@ Die Aufzeichnungen müssen ferner die Angaben über die Risikobewertung nach § 
 
 (7) Soweit erforderlich, sind die Aufzeichnungen fortlaufend und zeitnah zur Durchführung der Arbeit oder der Freisetzung zu führen. Die Angaben nach § 2 Abs. 1 Satz 2 sind vor Beginn der gentechnischen Arbeiten aufzuzeichnen.
 
-
-## § 3 – Form der Aufzeichnungen
+# § 3 – Form der Aufzeichnungen
 
 (1) Die Aufzeichnungen dürfen weder durch Streichung noch auf andere Weise unleserlich gemacht werden. Es dürfen keine Veränderungen vorgenommen werden, die nicht erkennen lassen, ob sie bei der ursprünglichen Eintragung oder erst später vorgenommen worden sind.
 
@@ -110,8 +105,7 @@ Die Aufzeichnungen müssen ferner die Angaben über die Risikobewertung nach § 
 
 (3) Die Aufzeichnungen sind vom Betreiber, dem von ihm beauftragten Projektleiter oder einer von diesem bestimmten Person zu unterschreiben. Erfolgen Führung und Aufbewahrung nach Absatz 2, ist sicherzustellen, daß die eindeutige Zuordnung zu dem Verantwortlichen gewährleistet ist.
 
-
-## § 4 – Aufzeichnungs- und Vorlagepflichtiger, Aufbewahrungsfrist
+# § 4 – Aufzeichnungs- und Vorlagepflichtiger, Aufbewahrungsfrist
 
 (1) Der Betreiber hat die Aufzeichnungen der zuständigen Behörde auf ihr Ersuchen vorzulegen. Er hat die Aufzeichnungen aufzubewahren; die Aufbewahrungsfristen betragen
 
@@ -127,8 +121,7 @@ jeweils nach Beendigung der gentechnischen Arbeiten oder der Freisetzungen.
 
 (3) Bei Betriebsstillegung hat der Betreiber einer gentechnischen Anlage die Aufzeichnungen unverzüglich der zuständigen Behörde auszuhändigen, sofern die in Absatz 1 genannten Fristen noch nicht abgelaufen sind.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 38 Abs. 1 Nr. 12 des Gentechnikgesetzes handelt, wer als Betreiber vorsätzlich oder fahrlässig
 
@@ -138,12 +131,10 @@ Ordnungswidrig im Sinne des § 38 Abs. 1 Nr. 12 des Gentechnikgesetzes handelt, 
 
 3. entgegen § 4 Abs. 3 Aufzeichnungen nicht oder nicht rechtzeitig der zuständigen Behörde aushändigt.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7
+# § 7
 
 (Inkrafttreten)

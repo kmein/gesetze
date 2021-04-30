@@ -1,10 +1,7 @@
-# [VerkFlBerG] Gesetz zur Bereinigung der Rechtsverhältnisse an Verkehrsflächen und anderen öffentlich genutzten privaten Grundstücken  (Verkehrsflächenbereinigungsgesetz - VerkFlBerG)
-
-Ausfertigungsdatum: 26.10.2001
-
+% Gesetz zur Bereinigung der Rechtsverhältnisse an Verkehrsflächen und anderen öffentlich genutzten privaten Grundstücken  (Verkehrsflächenbereinigungsgesetz - VerkFlBerG)
+% Ausfertigungsdatum: 26.10.2001
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegene Grundstücke privater Eigentümer, sofern sie frühestens seit dem 9. Mai 1945 und vor dem 3. Oktober 1990 für die Erfüllung einer Verwaltungsaufgabe tatsächlich in Anspruch genommen wurden, einer Verwaltungsaufgabe noch dienen und
 
@@ -24,8 +21,7 @@ Der Bebauung mit einem Gebäude steht es gleich, wenn das Grundstück oder Gebä
 
 Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nach dem Inhalt des Vertrages oder den Umständen seines Abschlusses die vertragliche Nutzung nur bis zu einer dem öffentlichen Zweck entsprechenden Regelung der Eigentumsverhältnisse an dem Grundstück fortdauern sollte.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Verwaltungsaufgabe im Sinne von § 1 Abs. 1 ist auch eine Aufgabe, die bis zum 3. Oktober 1990 die Deutsche Post oder deren Teilunternehmen oder die Deutsche Reichsbahn wahrzunehmen hatten. Die den Körperschaften des öffentlichen Rechts obliegende Abwasserbeseitigungspflicht bleibt Verwaltungsaufgabe im Sinne von § 1 Abs. 1 auch, wenn sie auf Grund landesrechtlicher Vorschriften auf Dritte übertragen ist.
 
@@ -43,8 +39,7 @@ Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nac
 
 (3) Öffentlicher Nutzer im Sinne dieses Gesetzes ist die juristische Person des öffentlichen Rechts, die für die Verkehrsfläche unterhaltungspflichtig ist oder das Gebäude oder die bauliche Anlage für die Erfüllung der Verwaltungsaufgabe nutzt. Bei Gewässerbetten und Hochwasserschutzanlagen ist öffentlicher Nutzer im Sinne dieses Gesetzes die Körperschaft des öffentlichen Rechts, der die Unterhaltungspflicht obliegt. Wird die Unterhaltungspflicht durch einen Wasser- und Bodenverband wahrgenommen, so ist öffentlicher Nutzer die Gemeinde. Öffentlicher Nutzer ist auch eine juristische Person des Privatrechts, wenn die Mehrheit der Kapitalanteile oder der Stimmrechte juristischen Personen des öffentlichen Rechts unmittelbar oder mittelbar zusteht. Für juristische Personen des Privatrechts, die eine Verwaltungsaufgabe nach Absatz 1 Satz 1 wahrnehmen, kommt es auf die Beteiligungsverhältnisse oder die Verteilung der Stimmrechte nicht an.
 
-
-## § 3 – Rechte bei öffentlicher Nutzung
+# § 3 – Rechte bei öffentlicher Nutzung
 
 (1) Der öffentliche Nutzer kann vom Grundstückseigentümer den Verkauf des Grundstücks an sich verlangen (Erwerbsrecht). Das Erwerbsrecht wird durch Abgabe eines notariell beurkundeten Angebots zum Abschluss eines Kaufvertrages nach diesem Gesetz ausgeübt. Der Grundstückseigentümer ist zur Annahme des Angebots verpflichtet, wenn der Inhalt des Angebots den Bestimmungen dieses Gesetzes entspricht.
 
@@ -58,8 +53,7 @@ Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nac
 
 (6) Mehrere öffentliche Nutzer sind als Gesamtgläubiger berechtigt und als Gesamtschuldner verpflichtet.
 
-
-## § 4 – Erfasste Flächen
+# § 4 – Erfasste Flächen
 
 (1) Ansprüche nach diesem Gesetz erstrecken sich
 
@@ -69,8 +63,7 @@ Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nac
 
 (2) Grundstücksteile, auf die sich der Anspruch des Nutzers nicht erstreckt, sind mitzuerwerben, wenn sie nicht in angemessenem Umfang baulich oder wirtschaftlich nutzbar sind (Restflächen).
 
-
-## § 5 – Ankaufspreis und Bodenwertermittlung bei Verkehrsflächen; Entgelt für Dienstbarkeit
+# § 5 – Ankaufspreis und Bodenwertermittlung bei Verkehrsflächen; Entgelt für Dienstbarkeit
 
 (1) Bei Verkehrsflächen beträgt der Kaufpreis 20 Prozent des Bodenwertes eines in gleicher Lage belegenen unbebauten Grundstücks im Zeitpunkt der Ausübung des Rechts nach § 3 Abs. 1 oder § 8 Abs. 2, mindestens jedoch 0,10 Euro je Quadratmeter und höchstens 5 Euro je Quadratmeter in Gemeinden bis zu 10000 Einwohnern, höchstens 10 Euro je Quadratmeter in Gemeinden mit mehr als 10.000 bis zu 100.000 Einwohnern und höchstens 15 Euro je Quadratmeter in Gemeinden mit mehr als 100.000 Einwohnern. Maßgebend ist die Zahl der Einwohner am 31. Dezember des Jahres, das der Ausübung des Rechts aus § 3 Abs. 1 oder § 8 Abs. 2 vorausgeht. Bei der Wertermittlung ist derjenige Zustand des Grundstücks (§ 3 Abs. 2 der Wertermittlungsverordnung) zugrunde zu legen, den dieses vor der tatsächlichen Inanspruchnahme als Verkehrsfläche hatte.
 
@@ -78,15 +71,13 @@ Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nac
 
 (3) Im Fall der Bestellung einer Dienstbarkeit nach § 3 Abs. 3 kann der Eigentümer ein einmaliges Entgelt, wie es für die Begründung solcher Belastungen üblich ist, verlangen. Dabei ist als Wert der belasteten Fläche der sich aus den Absätzen 1 und 2 ergebende Kaufpreis zugrunde zu legen.
 
-
-## § 6 – Ankaufspreis und Bodenwertermittlung anderer Flächen
+# § 6 – Ankaufspreis und Bodenwertermittlung anderer Flächen
 
 (1) Der Kaufpreis für nach § 1 Abs. 1 Satz 1 Nr. 2 und Satz 6 genutzte Grundstücke beträgt die Hälfte des Bodenwertes im Zeitpunkt der Ausübung des Rechts nach § 3 Abs. 1 oder § 8 Abs. 2, mindestens jedoch 0,10 Euro je Quadratmeter. Der Restwert eines Gebäudes und der Grundstückseinrichtungen, die im Zeitpunkt der Begründung der öffentlichen Nutzung auf dem Grundstück bereits vorhanden waren, ist anzurechnen. § 74 Abs. 1 des Sachenrechtsbereinigungsgesetzes gilt entsprechend.
 
 (2) Der Bodenwert für nach § 1 Abs. 1 Satz 1 Nr. 2 genutzte Grundstücke ist in der Weise zu bestimmen, dass von dem nach § 19 Abs. 2 Satz 2 des Sachenrechtsbereinigungsgesetzes ermittelten Wert des baureifen Grundstücks ein Betrag von einem Drittel abzuziehen ist. § 19 Abs. 5 des Sachenrechtsbereinigungsgesetzes ist anzuwenden. Für unbebaute Grundstücke nach § 1 Abs. 1 Satz 6 ist der Bodenwert in der Weise zu bestimmen, dass von dem Wert eines in gleicher Lage belegenen Grundstücks ein Betrag von einem Drittel abzuziehen ist. Bei der Wertermittlung ist derjenige Zustand des Grundstücks (§ 3 Abs. 2 der Wertermittlungsverordnung) zugrunde zu legen, den dieses vor der tatsächlichen Inanspruchnahme zum Zwecke der Nutzung nach § 1 Abs. 1 Satz 6 hatte; § 5 Abs. 2 ist anzuwenden.
 
-
-## § 7 – Weiterer Inhalt des Kaufvertrages; dingliche Rechte
+# § 7 – Weiterer Inhalt des Kaufvertrages; dingliche Rechte
 
 (1) Die §§ 62 bis 64 sowie 75 und 76 des Sachenrechtsbereinigungsgesetzes gelten entsprechend. § 64 Abs. 3 Satz 3 des Sachenrechtsbereinigungsgesetzes ist nicht anzuwenden. Der öffentliche Nutzer kann von den Inhabern dinglicher Rechte, die einen Anspruch auf Zahlung oder Befriedigung aus dem Grundstück gewähren, verlangen, auf ihre Rechte zu verzichten, soweit sie aus dem nach § 5 oder § 6 zu zahlenden Kaufpreis nicht befriedigt werden können. Mit Annahme des Angebots geht der Besitz an dem Grundstück auf den öffentlichen Nutzer über. Die Pflicht zur Zahlung des Nutzungsentgeltes nach § 9 Abs. 1 erlischt mit der Zahlung des Kaufpreises.
 
@@ -98,48 +89,41 @@ Eine nur vorübergehende Nutzung im Sinne der Nummer 2 liegt nicht vor, wenn nac
 
 (5) Wegen Verzuges kann weder der Rücktritt vom Vertrag erklärt noch Schadenersatz wegen Nichterfüllung verlangt werden.
 
-
-## § 8 – Abschlussfrist
+# § 8 – Abschlussfrist
 
 (1) Die Rechte des öffentlichen Nutzers nach § 3 Abs. 1 und 3 erlöschen, wenn sie nicht bis zum Ablauf des 30. Juni 2007 ausgeübt sind.
 
 (2) Sind die Rechte des öffentlichen Nutzers aus § 3 Abs. 1 und 3 nach Absatz 1 erloschen, so kann der Grundstückseigentümer verlangen, dass der öffentliche Nutzer das Grundstück nach den Vorschriften dieses Gesetzes ankauft oder dass unter den Voraussetzungen des § 3 Abs. 3 Satz 1 eine entgeltliche Dienstbarkeit nach diesem Gesetz bestellt wird. § 3 Abs. 1 Satz 2 und 3, Abs. 2 und Abs. 3 Satz 2 und 3 gilt entsprechend.
 
-
-## § 9 – Vorläufiges Nutzungsentgelt, vorläufiges Besitzrecht; Aufgabe der öffentlichen Nutzung
+# § 9 – Vorläufiges Nutzungsentgelt, vorläufiges Besitzrecht; Aufgabe der öffentlichen Nutzung
 
 (1) Bis zur Bereinigung der Rechtsverhältnisse nach diesem Gesetz kann der Grundstückseigentümer von dem öffentlichen Nutzer die Zahlung eines Nutzungsentgeltes in Höhe von 8 Prozent des Betrages jährlich verlangen, der im Zeitpunkt der Geltendmachung des Anspruchs als Kaufpreis nach § 5 oder § 6 zu zahlen wäre, sowie die Freistellung von den öffentlichen Lasten des Grundstücks. Der Anspruch entsteht von dem Zeitpunkt an, in dem der Grundstückseigentümer ihn gegenüber dem öffentlichen Nutzer schriftlich geltend macht; einer erneuten schriftlichen Geltendmachung bedarf es nicht, wenn der Grundstückseigentümer nach Artikel 233 § 2a Abs. 9 Satz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche verfahren ist. § 44 Abs. 1 des Sachenrechtsbereinigungsgesetzes gilt entsprechend. Der öffentliche Nutzer ist gegenüber dem Grundstückseigentümer zum Besitz berechtigt; andere Bestimmungen, aus denen sich ein Besitzrecht des öffentlichen Nutzers ergibt, bleiben unberührt.
 
 (2) Bei Aufgabe der öffentlichen Nutzung kann der öffentliche Nutzer vom Grundstückseigentümer eine Entschädigung für das von ihm errichtete Gebäude oder die bauliche Anlage verlangen, soweit der Verkehrswert des Grundstücks im Zeitpunkt der Aufgabe der öffentlichen Nutzung dadurch erhöht ist. Ist zur ordnungsgemäßen Bewirtschaftung des Grundstücks die Beseitigung des Gebäudes oder der baulichen Anlagen oder der in Folge der Nutzung als Verkehrsfläche vorgenommenen sonstigen Veränderung des Grundstücks erforderlich, kann der Grundstückseigentümer vom Nutzer den Erwerb der Fläche gegen Zahlung des Entschädigungswertes verlangen, der sich aus der Höhe der Entschädigung nach dem Entschädigungsgesetz bestimmt, höchstens jedoch bis zur Höhe der Ankaufspreise nach den §§ 5 und 6. Hinsichtlich der Form und des Inhalts des Vertragsangebotes gelten § 3 Abs. 1 Satz 2 und 3 und § 7 entsprechend. Der Grundstückseigentümer hat dem öffentlichen Nutzer zuvor Gelegenheit zu geben, das Gebäude oder die bauliche Anlage oder die in Folge der Nutzung als Verkehrsfläche vorgenommene sonstige Veränderung des Grundstücks innerhalb einer angemessenen Frist zu beseitigen. Die Ansprüche nach den Sätzen 1 und 2 verjähren in drei Jahren vom Zeitpunkt der Beendigung der öffentlichen Nutzung an. Schadenersatzansprüche des Grundstückseigentümers wegen Verschlechterung des Grundstücks bleiben unberührt.
 
-
-## § 10 – Sicherung der Zweckbindung
+# § 10 – Sicherung der Zweckbindung
 
 (1) Dem Grundstückseigentümer steht das Recht des Wiederkaufs für den Fall zu, dass das Grundstück nicht oder überwiegend nicht mehr für die Erfüllung einer Verwaltungsaufgabe genutzt wird. Das Wiederkaufsrecht erlischt innerhalb eines Jahres, nachdem der Grundstückseigentümer von den Umständen Kenntnis erlangt hat, die nach Satz 1 zu seiner Entstehung führen, spätestens jedoch bei Verkehrsflächen 30 Jahre, im Übrigen zehn Jahre, nachdem der Inhaber des Erwerbsrechts in das Grundbuch eingetragen worden ist.
 
 (2) Das Rechtsverhältnis zwischen dem Eigentümer und dem Inhaber des Erwerbsrechts bestimmt sich nach den Vorschriften des Bürgerlichen Gesetzbuchs über den Wiederkauf.
 
-
-## § 11 – Anwendung des Bodensonderungsgesetzes und des Flurbereinigungsgesetzes
+# § 11 – Anwendung des Bodensonderungsgesetzes und des Flurbereinigungsgesetzes
 
 (1) Der Erwerb von Grundstücken nach diesem Gesetz kann auch im Wege eines Verfahrens nach dem Bodensonderungsgesetz erfolgen, wenn dies insbesondere wegen der Notwendigkeit umfangreicher Vermessungen sachdienlich ist. In diesem Fall bestimmen sich die dinglichen Rechtsverhältnisse und der festzusetzende Ausgleich abweichend vom Bodensonderungsgesetz nach den §§ 1 bis 7. Der Sonderungsbescheid ist auf Ersuchen oder Antrag des öffentlichen Nutzers, im Fall des § 8 Abs. 2 des Grundstückseigentümers zu erteilen. Sonderungsbehörde ist die für die Führung des Liegenschaftskatasters zuständige Behörde; § 10 Satz 2 und 3 des Bodensonderungsgesetzes ist anzuwenden. Auf Ersuchen oder Antrag des öffentlichen Nutzers darf ein Bodensonderungsverfahren nicht mehr eingeleitet werden, wenn das Erwerbsrecht nach § 8 erloschen ist.
 
 (2) Ansprüche nach diesem Gesetz können nicht geltend gemacht werden, soweit ein Verfahren nach dem Flurbereinigungsgesetz oder ein Verfahren zur Feststellung und Neuordnung der Eigentumsverhältnisse nach dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes angeordnet ist und darin auch die Rechtsverhältnisse an öffentlich genutzten Grundstücken geregelt werden. Abweichend von den Regelungen des Flurbereinigungsgesetzes und des Landwirtschaftsanpassungsgesetzes bestimmen sich in diesem Fall die dinglichen Rechtsverhältnisse und der festzusetzende Ausgleich nach den Regelungen dieses Gesetzes.
 
-
-## § 12 – Kosten
+# § 12 – Kosten
 
 Die Kosten des Vertrages und seiner Durchführung trägt der öffentliche Nutzer. Gerichtskosten nach dem Gerichts- und Notarkostengesetz werden nicht erhoben.
 
-
-## § 13 – Abweichende Vereinbarungen; Verhältnis zu anderen Vorschriften
+# § 13 – Abweichende Vereinbarungen; Verhältnis zu anderen Vorschriften
 
 (1) Die Beteiligten können von den Bestimmungen dieses Gesetzes abweichende Vereinbarungen treffen. Vergleiche sind zulässig.
 
 (2) Den Vorschriften dieses Gesetzes gehen das Sachenrechtsbereinigungsgesetz, das Bodensonderungsgesetz, das Landwirtschaftsanpassungsgesetz, das Meliorationsanlagengesetz und § 9 des Grundbuchbereinigungsgesetzes sowie die Sachenrechts-Durchführungsverordnung vor.
 
-
-## § 14 – Rechtsweg; Gerichtliches Verfahren; Notarielles Vermittlungsverfahren
+# § 14 – Rechtsweg; Gerichtliches Verfahren; Notarielles Vermittlungsverfahren
 
 (1) Für Streitigkeiten aus diesem Gesetz ist der ordentliche Rechtsweg gegeben. Ausschließlich zuständig ist das Landgericht, in dessen Bezirk das Grundstück ganz oder überwiegend liegt. Die Vorschriften des Sachenrechtsbereinigungsgesetzes über das gerichtliche Verfahren gelten entsprechend, soweit sich aus den nachfolgenden Absätzen nichts anderes ergibt.
 

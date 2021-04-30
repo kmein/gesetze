@@ -1,10 +1,7 @@
-# [FPersV] Verordnung zur Durchführung des Fahrpersonalgesetzes  (Fahrpersonalverordnung - FPersV)
-
-Ausfertigungsdatum: 27.06.2005
-
+% Verordnung zur Durchführung des Fahrpersonalgesetzes  (Fahrpersonalverordnung - FPersV)
+% Ausfertigungsdatum: 27.06.2005
  
-
-## § 1 – Lenk- und Ruhezeiten im Straßenverkehr
+# § 1 – Lenk- und Ruhezeiten im Straßenverkehr
 
 (1) Fahrer
 
@@ -22,8 +19,7 @@ haben Lenkzeiten, Fahrtunterbrechungen und Ruhezeiten nach Maßgabe der Artikel 
 
 3. Fahrzeuge, die zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seiner beruflichen Tätigkeit benötigt, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
-3a.  
-Fahrzeuge, die zur Beförderung von Gütern, die im Betrieb, dem der Fahrer angehört, in handwerklicher Fertigung oder Kleinserie hergestellt wurden oder deren Reparatur im Betrieb vorgesehen ist oder durchgeführt wurde, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
+3a. Fahrzeuge, die zur Beförderung von Gütern, die im Betrieb, dem der Fahrer angehört, in handwerklicher Fertigung oder Kleinserie hergestellt wurden oder deren Reparatur im Betrieb vorgesehen ist oder durchgeführt wurde, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,
 
 4. Fahrzeuge, die als Verkaufswagen auf öffentlichen Märkten oder für den ambulanten Verkauf verwendet werden und für diese Zwecke besonders ausgestattet sind, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt, und
 
@@ -87,8 +83,7 @@ gilt, sind für dieses Fahrzeug Nachweise nach Maßgabe von Artikel 36 Absatz 1 
 
 (10) Absatz 8 gilt nicht, wenn das Fahrzeug mit einem analogen oder digitalen Fahrtenschreiber ausgerüstet ist. In diesem Fall findet § 57a Absatz 3 der Straßenverkehrs-Zulassungs-Ordnung Anwendung.
 
-
-## § 2 – Digitaler Fahrtenschreiber
+# § 2 – Digitaler Fahrtenschreiber
 
 (1) Ein Fahrer, der ein Fahrzeug lenkt, das in den Anwendungsbereich der Verordnung (EG) Nr. 561/2006 fällt, oder der Lenk- oder Ruhezeiten nach § 1 Absatz 1 und 3 einzuhalten hat und dabei einen digitalen Fahrtenschreiber betreibt, hat den Fahrtenschreiber entsprechend Artikel 27 Absatz 2, Artikel 32 Absatz 1 Satz 1 und Absatz 2 bis 4, Artikel 33 Absatz 1 Unterabsatz 3, Artikel 34 Absatz 1 bis 3 Unterabsatz 1, Absatz 4, 5 und 7, Artikel 35 Absatz 2 und Artikel 37 Absatz 2 der Verordnung (EU) Nr. 165/2014 zu bedienen und die Benutzerführung zu beachten.
 
@@ -110,18 +105,15 @@ gilt, sind für dieses Fahrzeug Nachweise nach Maßgabe von Artikel 36 Absatz 1 
 
 zur Verfügung zu stellen. Dabei sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit, Unversehrtheit und Zurechenbarkeit der Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
-
-## § 2a – Aufbewahrung von Kontrollunterlagen
+# § 2a – Aufbewahrung von Kontrollunterlagen
 
 Der Unternehmer bewahrt die ihm oder seinen Fahrern von den zuständigen Personen überlassenen Niederschriften, Ergebnisprotokolle und andere Unterlagen über bei ihm auf dem Gelände vorgenommene beziehungsweise bei seinen Fahrern auf der Straße vorgenommene Kontrollen ein Jahr lang auf. Die Unterlagen sind den zuständigen Personen auf Verlangen vorzulegen. Nach Ablauf der Aufbewahrungspflicht sind die Unterlagen bis zum 31. März des folgenden Kalenderjahres zu vernichten.
 
-
-## § 3 – Zertifizierungsinfrastruktur
+# § 3 – Zertifizierungsinfrastruktur
 
 Die Aufgaben der für die Umsetzung des Zertifizierungsverfahrens nach der Verordnung (EU) Nr. 165/2014 verantwortlichen Stellen ergeben sich aus der Anlage 2. Das Bundesministerium für Verkehr und digitale Infrastruktur nimmt die Aufgaben der Aufsichtsbehörde des Mitgliedstaates (D-Member State Authority - D-MSA) wahr. Deutsche Zertifizierungsstelle (D-Certification Authority - D-CA) ist das Kraftfahrt-Bundesamt. Die für die Fahrtenschreiberkartenausgabe zuständigen Behörden oder Stellen (D-Card Issueing Authorities - D-CIA's) werden von den Ländern bestimmt.
 
-
-## § 4 – Allgemeines
+# § 4 – Allgemeines
 
 (1) Die zum Betrieb des digitalen Fahrtenschreibers erforderlichen Fahrtenschreiberkarten (Fahrer-, Werkstatt-, Unternehmens- und Kontrollkarten) werden nach den Mustern nach Artikel 1 Absatz 3 der Durchführungsverordnung (EU) 2016/799 der Kommission vom 18. März 2016 zur Durchführung der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates zur Festlegung der Vorschriften über Bauart, Prüfung, Einbau, Betrieb und Reparatur von Fahrtenschreibern und ihren Komponenten (ABl. L 139 vom 26.5.2016, S. 1) in Verbindung mit dem Anhang I B Abschnitt IV der Verordnung (EWG) Nr. 3821/85 oder nach Artikel 1 Absatz 2 der Durchführungsverordnung (EU) 2016/799 in Verbindung mit dem Anhang 1 C Abschnitt 4 der Durchführungsverordnung (EU) 2016/799 jeweils in Verbindung mit Anlage 3 hergestellt. Fahrer-, Werkstatt- und Unternehmenskarten werden auf Antrag erteilt. Antragsberechtigt sind:
 
@@ -153,8 +145,7 @@ Dem Antrag sind die nach den §§ 5, 7 oder § 9 jeweils erforderlichen Unterlag
 
 (5) Bei Verlust einer Fahrtenschreiberkarte unterrichtet der Karteninhaber unverzüglich die Behörde oder Stelle, welche die Karte erteilt hat. Die Behörde oder Stelle meldet den Verlust dem Fahrtenschreiberkartenregister beim Kraftfahrt-Bundesamt.
 
-
-## § 5 – Fahrerkarte
+# § 5 – Fahrerkarte
 
 (1) Der Antragsteller hat Angaben zu seiner Muttersprache zu machen und folgende Unterlagen vorzulegen:
 
@@ -176,13 +167,11 @@ b) im Übrigen eine Fahrerlaubnis eines Mitgliedstaates der Europäischen Union 
 
 (5) Die Gültigkeitsdauer der Fahrerkarte beträgt bei der Erstausstellung und Erneuerung fünf Jahre. Sie beginnt mit dem Datum der Personalisierung. Bei der Erneuerung auf Grund von Beschädigung oder Fehlfunktion beginnt sie mit dem Datum der Personalisierung. Bei der Erneuerung auf Grund des Ablaufs der Gültigkeitsdauer beginnt die Gültigkeitsdauer der neuen Fahrerkarte mit dem Tag, der dem Tag des Ablaufs der Gültigkeit der vorherigen Fahrerkarte folgt. Wird eine Fahrerkarte ersetzt, entspricht die Gültigkeitsdauer der Gültigkeitsdauer der ersetzten Karte.
 
-
-## § 6 – Mitführen der abgelaufenen Fahrerkarte
+# § 6 – Mitführen der abgelaufenen Fahrerkarte
 
 Der Fahrer hat auch nach Ablauf der Gültigkeit die Fahrerkarte noch mindestens 28 Kalendertage im Fahrzeug mitzuführen. Bei Umtausch der Fahrerkarte entsprechend Artikel 30 Absatz 2 der Verordnung (EU) Nr. 165/2014 hat der Fahrer die Ausdrucke seiner Tätigkeiten für die dem Umtausch vorausgehenden 28 Kalendertage ebenfalls 28 Kalendertage mitzuführen.
 
-
-## § 7 – Werkstattkarte
+# § 7 – Werkstattkarte
 
 (1) Die Werkstattkarte wird nur erteilt, wenn der Antragsteller als Unternehmer oder die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berufenen Personen sowie die verantwortliche Fachkraft (Installateur) fachlich geeignet sind.
 
@@ -208,15 +197,13 @@ Der Fahrer hat auch nach Ablauf der Gültigkeit die Fahrerkarte noch mindestens 
 
 (6) Die Gültigkeitsdauer der Werkstattkarte beträgt ein Jahr. Sie beginnt mit dem Datum der Personalisierung. § 5 Abs. 5 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 8 – Wegfall von Erteilungsvoraussetzungen
+# § 8 – Wegfall von Erteilungsvoraussetzungen
 
 (1) Ist eine der Erteilungsvoraussetzungen nachträglich entfallen, so ist dies unverzüglich der zuständigen Behörde oder Stelle zu melden; die Werkstattkarte ist innerhalb einer von dieser festzusetzenden Frist an sie zurückzugeben. Die zuständige Behörde oder Stelle hat im Falle des Wegfalls der Erteilungsvoraussetzungen, insbesondere im Falle der missbräuchlichen Verwendung, die Rückgabe der Werkstattkarte zu verlangen. Rückgabepflichtig sind sowohl der Unternehmer, bei juristischen Personen die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berufenen Personen, als auch die verantwortliche Fachkraft. Scheidet die verantwortliche Fachkraft aus der Werkstatt aus, haben der Unternehmer oder die vertretungsberechtigten Personen die Werkstattkarte unverzüglich zurückzugeben. Ist dem Unternehmer oder den vertretungsberechtigten Personen eine Rückgabe nicht möglich, ist die zuständige Behörde oder Stelle unverzüglich zu unterrichten.
 
 (2) Wird die Werkstattkarte wegen missbräuchlicher Verwendung zurückgenommen, unterrichtet die zuständige Behörde oder Stelle das Zentrale Fahrtenschreiberkartenregister beim Kraftfahrt-Bundesamt.
 
-
-## § 9 – Unternehmenskarte
+# § 9 – Unternehmenskarte
 
 (1) Der Antragsteller hat folgende Angaben zu machen und durch Unterlagen nachzuweisen:
 
@@ -230,20 +217,17 @@ Der Fahrer hat auch nach Ablauf der Gültigkeit die Fahrerkarte noch mindestens 
 
 (4) Die Gültigkeitsdauer der Unternehmenskarte beträgt fünf Jahre. Sie beginnt mit dem Datum der Personalisierung. § 5 Abs. 5 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 10 – Kontrollkarte
+# § 10 – Kontrollkarte
 
 Die Kontrollkarten werden an die für die Kontrolle der Sozialvorschriften im Straßenverkehr zuständigen Behörden und Stellen ausgegeben. Die Kontrollkarte weist die Kontrollbehörde aus und ermöglicht das Lesen, Ausdrucken und Herunterladen der im Massenspeicher des Fahrtenschreibers oder auf Fahrerkarten gespeicherten Daten. Die Gültigkeitsdauer der Kontrollkarte beträgt fünf Jahre.
 
-
-## § 11 – Führung und Zweckbestimmung des Registers
+# § 11 – Führung und Zweckbestimmung des Registers
 
 (1) Das Kraftfahrt-Bundesamt führt nach § 2 Nr. 4 des Fahrpersonalgesetzes das Zentrale Fahrtenschreiberkartenregister zum Nachweis der von den zuständigen Behörden oder Stellen ausgegebenen Fahrtenschreiberkarten. Darin werden erfasst die Identifizierungsdaten der Fahrer, verantwortlichen Fachkräfte, Unternehmen und Behörden, denen Fahrer-, Werkstatt-, Unternehmens- oder Kontrollkarten ausgestellt worden sind, und die Identifizierungsdaten der ausgestellten, abhanden gekommenen und defekten Fahrer-, Werkstatt-, Unternehmens- und Kontrollkarten.
 
 (2) Das Register wird geführt zur Speicherung von Identifizierungsdaten, die erforderlich sind, um feststellen zu können, welche Karten eine Person, ein Unternehmen oder eine Kontrollbehörde besitzt oder welche Karten abhanden gekommen oder beschädigt sind.
 
-
-## § 12 – Inhalt des Registers
+# § 12 – Inhalt des Registers
 
 Im Zentralen Fahrtenschreiberkartenregister werden gespeichert über
 
@@ -317,13 +301,11 @@ e) Status der Kontrollkarte,
 
 f) bei Verlust oder Diebstahl das Datum des Abhandenkommens der Kontrollkarte.
 
-
-## § 13 – Löschung von Eintragungen im Zentralen Fahrtenschreiberkartenregister
+# § 13 – Löschung von Eintragungen im Zentralen Fahrtenschreiberkartenregister
 
 Die Daten über Fahrtenschreiberkarten werden fünf Jahre nach Ablauf der Gültigkeitsdauer gelöscht.
 
-
-## § 14 – Mitteilung an das Zentrale Fahrtenschreiberkartenregister im automatisierten Dialogverfahren
+# § 14 – Mitteilung an das Zentrale Fahrtenschreiberkartenregister im automatisierten Dialogverfahren
 
 (1) Die für die Antragsbearbeitung zuständige Behörde oder Stelle teilt dem Zentralen Fahrtenschreiberkartenregister unverzüglich die zu speichernden oder zu einer Änderung einer Eintragung führenden Daten im automatisierten Dialogverfahren mit; sie teilt dem Personalisierer die zur Personalisierung notwendigen Daten mit.
 
@@ -331,8 +313,7 @@ Die Daten über Fahrtenschreiberkarten werden fünf Jahre nach Ablauf der Gülti
 
 (3) Der Personalisierer teilt dem Zentralen Fahrtenschreiberkartenregister unverzüglich jeweils nach Produktion und Versand einer Fahrtenschreiberkarte eine entsprechende Information hierüber mit.
 
-
-## § 15 – Übermittlung von Daten an inländische Behörden und Stellen durch Abruf im automatisierten Verfahren
+# § 15 – Übermittlung von Daten an inländische Behörden und Stellen durch Abruf im automatisierten Verfahren
 
 Die im Zentralen Fahrtenschreiberkartenregister gespeicherten Daten dürfen an die hierfür zuständigen Behörden und Stellen durch Abruf im automatisierten Verfahren übermittelt werden, soweit dies erforderlich ist
 
@@ -344,8 +325,7 @@ Die im Zentralen Fahrtenschreiberkartenregister gespeicherten Daten dürfen an d
 
 4. für die Verfolgung von Straftaten.
 
-
-## § 16 – Übermittlung von Daten an ausländische Behörden und Stellen durch Abruf im automatisierten Verfahren
+# § 16 – Übermittlung von Daten an ausländische Behörden und Stellen durch Abruf im automatisierten Verfahren
 
 Die im Zentralen Fahrtenschreiberkartenregister über Fahrerkarten und Werkstattkarten gespeicherten Daten dürfen an die hierfür zuständigen Behörden und Stellen in den Mitgliedstaaten der Europäischen Union oder den Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum durch Abruf im automatisierten Verfahren übermittelt werden, soweit dies erforderlich ist
 
@@ -357,13 +337,11 @@ Die im Zentralen Fahrtenschreiberkartenregister über Fahrerkarten und Werkstatt
 
 4. zur Verfolgung von Straftaten, die im Zusammenhang mit dem Straßenverkehr stehen.
 
-
-## § 17 – Einrichtung und Betrieb der automatisierten Abrufverfahren
+# § 17 – Einrichtung und Betrieb der automatisierten Abrufverfahren
 
 Die Einrichtung und der Betrieb der automatisierten Abrufverfahren richten sich nach den Bestimmungen des Bundesdatenschutzgesetzes.
 
-
-## § 18 – Ausnahmen nach den Verordnungen (EG) Nr. 561/2006 und (EU) Nr. 165/2014
+# § 18 – Ausnahmen nach den Verordnungen (EG) Nr. 561/2006 und (EU) Nr. 165/2014
 
 (1) Nach Artikel 13 Absatz 1 der Verordnung (EG) Nr. 561/2006 und nach Artikel 3 Absatz 2 der Verordnung (EU) Nr. 165/2014 werden im Geltungsbereich des Fahrpersonalgesetzes folgende Fahrzeugkategorien von der Anwendung der Artikel 5 bis 9 der Verordnung (EG) Nr. 561/2006 und der Anwendung der Verordnung (EU) Nr. 165/2014 ausgenommen:
 
@@ -401,13 +379,11 @@ Die Einrichtung und der Betrieb der automatisierten Abrufverfahren richten sich 
 
 (2) Abweichend von Artikel 5 Abs. 2 Satz 1 der Verordnung (EG) Nr. 561/2006 beträgt bei Beförderungen in einem Umkreis von 50 Kilometern vom Standort des Fahrzeugs das Mindestalter der Beifahrer zum Zwecke der Berufsausbildung 16 Jahre.
 
-
-## § 19 – Fahrtenschreiber nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
+# § 19 – Fahrtenschreiber nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
 
 Auf Grund des Artikels 3 Absatz 1, des Artikels 10 Absatz 1 und des Artikels 13 Absatz 1 des AETR in Verbindung mit Artikel 2 Abs. 3 der Verordnung (EG) Nr. 561/2006 hat der Unternehmer in Fahrzeuge, die dem AETR unterliegen und mit denen das Hoheitsgebiet der Bundesrepublik Deutschland befahren wird, vor Antritt derartiger Fahrten Fahrtenschreiber einbauen zu lassen. Die Fahrtenschreiber nach Satz 1 sind von dem Fahrer zu benutzen. Die Fahrtenschreiber sind nach den Artikeln 10 bis 14 des Anhangs zum AETR zu betreiben. Bauart, Einbau, Benutzung und Prüfung der Fahrtenschreiber richten sich nach den Vorschriften des AETR einschließlich seines Anhangs und der Anlagen. Fahrtenschreiber im Sinne der Verordnung (EU) Nr. 165/2014 erfüllen die Anforderungen nach Satz 4.
 
-
-## § 20 – Nachweis über berücksichtigungsfreie Tage
+# § 20 – Nachweis über berücksichtigungsfreie Tage
 
 (1) Selbstfahrende Unternehmer und Fahrer, die die in dieser Verordnung, in Artikel 36 Absatz 2 der Verordnung (EU) Nr. 165/2014 oder in Kapitel III Artikel 12 Absatz 2 Satz 1 des Anhangs zum Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) vorgeschriebenen Nachweise nicht oder nicht vollständig vorlegen können, weil sie an einem oder mehreren der vorausgegangenen 28 Kalendertage
 
@@ -429,8 +405,7 @@ haben diese Zeiten durch manuelle Nachträge nach den Absätzen 2 oder 3 zu bele
 
 (5) Nach Ablauf des Nachweiszeitraumes nach Absatz 1 hat der Fahrer die Nachweise nach den Absätzen 3 und 4 unverzüglich im Unternehmen abzugeben. Der Unternehmer, der nicht zugleich Fahrer ist, hat die Nachweise ab dem Zeitpunkt der Rückgabe durch den Fahrer ein Jahr außerhalb des Fahrzeugs aufzubewahren und den Fahrern auf Verlangen eine Kopie auszuhändigen. Nach Ablauf der Aufbewahrungspflicht sind die Nachweise bis zum 31. März des folgenden Kalenderjahres zu vernichten.
 
-
-## § 20a – Verantwortlichkeiten
+# § 20a – Verantwortlichkeiten
 
 (1) Die Verkehrsunternehmen sind verpflichtet, ihren Betrieb nach Maßgabe von Artikel 10 Abs. 1 und 2 der Verordnung (EG) Nr. 561/2006 zu organisieren. Dies gilt auch für Fahrten im Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Drittstaates.
 
@@ -438,22 +413,19 @@ haben diese Zeiten durch manuelle Nachträge nach den Absätzen 2 oder 3 zu bele
 
 (3) Die Verkehrsunternehmen, Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen stellen sicher, dass die vertraglich vereinbarten Beförderungszeitpläne nicht gegen die Verordnung (EG) Nr. 561/2006 verstoßen.
 
-
-## § 21 – Ordnungswidrigkeiten
+# § 21 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 Buchstabe a des Fahrpersonalgesetzes handelt, wer als Unternehmer vorsätzlich oder fahrlässig
 
 1. entgegen § 1 Abs. 5 Satz 1 nicht dafür sorgt, dass die dort genannten Vorschriften eingehalten werden,
 
-1a.  
-entgegen § 1 Absatz 6 Satz 7 Nummer 1 geeignete Vordrucke nicht, nicht rechtzeitig oder nicht in ausreichender Anzahl aushändigt,
+1a. entgegen § 1 Absatz 6 Satz 7 Nummer 1 geeignete Vordrucke nicht, nicht rechtzeitig oder nicht in ausreichender Anzahl aushändigt,
 
 2. entgegen § 1 Abs. 6 Satz 7 Nummer 2 oder 3, jeweils auch in Verbindung mit Absatz 7 Satz 3 zweiter Halbsatz, eine Aufzeichnung oder ein Schaublatt nicht oder nicht rechtzeitig prüft oder nicht, nicht in der vorgeschriebenen Weise oder nicht für die vorgeschriebene Dauer aufbewahrt oder nicht oder nicht rechtzeitig vorlegt oder eine Maßnahme nicht oder nicht rechtzeitig ergreift,
 
 3. entgegen § 1 Abs. 7 Satz 3 erster Halbsatz ein Schaublatt nicht oder nicht rechtzeitig aushändigt oder nicht dafür sorgt, dass der Fahrtenschreiber oder der Fahrtschreiber benutzt wird,
 
-3a.  
-entgegen § 1 Absatz 8 Satz 1 einen Fahrplan oder einen Arbeitszeitplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens ein Jahr aufbewahrt,
+3a. entgegen § 1 Absatz 8 Satz 1 einen Fahrplan oder einen Arbeitszeitplan nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht mindestens ein Jahr aufbewahrt,
 
 4. entgegen § 2 Abs. 4 Satz 1 nicht sicherstellt, dass die dort genannten Daten übertragen und gespeichert werden,
 
@@ -465,8 +437,7 @@ entgegen § 1 Absatz 8 Satz 1 einen Fahrplan oder einen Arbeitszeitplan nicht, n
 
 8. entgegen § 2 Abs. 6 Satz 1 Daten nicht oder nicht rechtzeitig zur Verfügung stellt,
 
-8a.  
-entgegen § 2a Satz 1 oder Satz 2 eine dort genannte Unterlage nicht oder nicht mindestens ein Jahr aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+8a. entgegen § 2a Satz 1 oder Satz 2 eine dort genannte Unterlage nicht oder nicht mindestens ein Jahr aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
 
 9. entgegen § 9 Absatz 3 nicht dafür sorgt, dass die Unternehmenskarte in den Fahrtenschreiber eingegeben wird,
 
@@ -492,8 +463,7 @@ entgegen § 2a Satz 1 oder Satz 2 eine dort genannte Unterlage nicht oder nicht 
 
 5. entgegen § 1 Abs. 7 Satz 4 die Schaublätter nicht mitführt oder nicht oder nicht rechtzeitig zur Prüfung aushändigt,
 
-5a.  
-entgegen § 1 Absatz 8 Satz 2 einen Auszug oder eine Ausfertigung nicht mitführt,
+5a. entgegen § 1 Absatz 8 Satz 2 einen Auszug oder eine Ausfertigung nicht mitführt,
 
 6. entgegen § 2 Abs. 1 einen Fahrtenschreiber nicht oder nicht richtig bedient oder die Benutzerführung nicht oder nicht richtig beachtet,
 
@@ -525,8 +495,7 @@ entgegen § 1 Absatz 8 Satz 2 einen Auszug oder eine Ausfertigung nicht mitführ
 
 2. entgegen § 4 Abs. 4 Satz 5 oder § 8 Abs. 1 Satz 1 zweiter Halbsatz in Verbindung mit Satz 3 oder 5 eine Werkstattkarte nicht oder nicht rechtzeitig zurückgibt.
 
-
-## § 22 – Zuwiderhandlungen gegen das AETR
+# § 22 – Zuwiderhandlungen gegen das AETR
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 1 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Unternehmer gegen das Europäische Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) in der Fassung der Bekanntmachung vom 31. Juli 1985 (BGBl. 1985 II S. 889), das zuletzt durch Artikel 1 des Gesetzes vom 2. November 2011 (BGBl. 2011 II S. 1095) geändert worden ist, verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -572,19 +541,15 @@ entgegen § 1 Absatz 8 Satz 2 einen Auszug oder eine Ausfertigung nicht mitführ
 
 10. entgegen Artikel 12 Absatz 2 Buchstabe b oder Buchstabe c oder Absatz 5 Buchstabe e des Anhangs eine Eintragung oder eine Änderung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht vor Fahrtantritt vornimmt,
 
-10a.  
-entgegen Artikel 12 Absatz 3 zweiter Gedankenstrich des Anhangs die Schaltvorrichtung nicht richtig betätigt,
+10a. entgegen Artikel 12 Absatz 3 zweiter Gedankenstrich des Anhangs die Schaltvorrichtung nicht richtig betätigt,
 
-10b.  
-entgegen Artikel 12 Absatz 5 Buchstabe a bis c oder Buchstabe d des Anhangs eine dort genannte Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einträgt,
+10b. entgegen Artikel 12 Absatz 5 Buchstabe a bis c oder Buchstabe d des Anhangs eine dort genannte Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig einträgt,
 
-10c.  
-entgegen Artikel 12 Absatz 5bis</sup> Satz 1 des Anhangs ein Symbol nicht richtig eingibt,
+10c. entgegen Artikel 12 Absatz 5bis</sup> Satz 1 des Anhangs ein Symbol nicht richtig eingibt,
 
 11. entgegen Artikel 12 Absatz 7 Buchstabe a oder Buchstabe b des Anhangs ein dort genanntes Schaublatt, eine Fahrerkarte oder einen dort genannten Ausdruck nicht oder nicht rechtzeitig vorlegt,
 
-11a.  
-entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaublatt, den Speicherinhalt des Kontrollgeräts oder der Fahrerkarte oder ein ausgedrucktes Dokument verfälscht, unterdrückt oder vernichtet,
+11a. entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaublatt, den Speicherinhalt des Kontrollgeräts oder der Fahrerkarte oder ein ausgedrucktes Dokument verfälscht, unterdrückt oder vernichtet,
 
 12. entgegen Artikel 13 Absatz 2 Buchstabe a des Anhangs eine dort genannte Angabe nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vermerkt oder
 
@@ -596,8 +561,7 @@ entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaub
 
 2. entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaublatt, den Speicherinhalt des Kontrollgeräts oder der Fahrerkarte oder ein ausgedrucktes Dokument verfälscht, unterdrückt oder vernichtet.
 
-
-## § 23 – Zuwiderhandlungen gegen die Verordnung (EU) Nr. 165/2014
+# § 23 – Zuwiderhandlungen gegen die Verordnung (EU) Nr. 165/2014
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 1 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Unternehmer gegen die Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1) verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -605,8 +569,7 @@ entgegen Artikel 12 Absatz 8 Satz 1 des Anhangs eine Aufzeichnung auf dem Schaub
 
 2. entgegen Artikel 32 Absatz 1 für das einwandfreie Funktionieren des Fahrtenschreibers oder die ordnungsgemäße Benutzung des Fahrtenschreibers oder der Fahrerkarte oder des Schaublattes nicht sorgt,
 
-2a.  
-entgegen Artikel 32 Absatz 4 das Fahrzeug mit mehr als nur einem einzigen Fahrtenschreiber ausrüstet,
+2a. entgegen Artikel 32 Absatz 4 das Fahrzeug mit mehr als nur einem einzigen Fahrtenschreiber ausrüstet,
 
 3. entgegen Artikel 33 Absatz 1 Unterabsatz 2 Satz 1 eine ausreichende Anzahl Schaublätter nicht aushändigt,
 
@@ -614,8 +577,7 @@ entgegen Artikel 32 Absatz 4 das Fahrzeug mit mehr als nur einem einzigen Fahrte
 
 5. entgegen Artikel 33 Absatz 1 Unterabsatz 3 nicht dafür Sorge trägt, dass der dort genannte Ausdruck ordnungsgemäß erfolgen kann,
 
-5a.  
-entgegen Artikel 33 Absatz 2 Satz 1 ein Schaublatt oder einen Ausdruck nicht oder nicht in der vorgeschriebenen Weise aufbewahrt,
+5a. entgegen Artikel 33 Absatz 2 Satz 1 ein Schaublatt oder einen Ausdruck nicht oder nicht in der vorgeschriebenen Weise aufbewahrt,
 
 6. entgegen Artikel 33 Absatz 2 Satz 3 ein Schaublatt nicht oder nicht rechtzeitig vorlegt oder nicht oder nicht rechtzeitig aushändigt oder
 
@@ -625,11 +587,9 @@ entgegen Artikel 33 Absatz 2 Satz 1 ein Schaublatt oder einen Ausdruck nicht ode
 
 1. entgegen Artikel 3 Absatz 1 einen Fahrtenschreiber nicht benutzt,
 
-1a.  
-entgegen Artikel 27 Absatz 2 eine andere Fahrerkarte, eine defekte Fahrerkarte oder eine Fahrerkarte, deren Gültigkeit abgelaufen ist, benutzt,
+1a. entgegen Artikel 27 Absatz 2 eine andere Fahrerkarte, eine defekte Fahrerkarte oder eine Fahrerkarte, deren Gültigkeit abgelaufen ist, benutzt,
 
-1b.  
-entgegen Artikel 29 Absatz 5 die Fahrt ohne Fahrerkarte fortsetzt,
+1b. entgegen Artikel 29 Absatz 5 die Fahrt ohne Fahrerkarte fortsetzt,
 
 2. entgegen Artikel 32 Absatz 1 für das einwandfreie Funktionieren des Fahrtenschreibers oder die ordnungsgemäße Benutzung des Fahrtenschreibers oder der Fahrerkarte oder des Schaublattes nicht sorgt,
 
@@ -665,25 +625,20 @@ entgegen Artikel 29 Absatz 5 die Fahrt ohne Fahrerkarte fortsetzt,
 
 (5) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 4 Buchstabe b des Fahrpersonalgesetzes handelt, wer als Werkstattinhaber vorsätzlich oder fahrlässig entgegen Artikel 23 Absatz 4 Satz 1 der Verordnung (EU) Nr. 165/2014 die Nachprüfungsberichte ab der Erstellung nicht mindestens zwei Jahre lang aufbewahrt.
 
+# § 24 – (weggefallen)
 
-## § 24 – (weggefallen)
+# § 24a – (weggefallen)
 
+# § 26 – (weggefallen)
 
-## § 24a – (weggefallen)
-
-
-## § 26 – (weggefallen)
-
-
-## Anlage 1 – (zu § 1 Abs. 6)
+# Anlage 1 – (zu § 1 Abs. 6)
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++  
 
 (Fundstelle: BGBl. I 2005, 1893  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 2 – (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für die Bundesrepublik DeutschlandVersion 1.2 in der Fassung vom 18. April 2007
+# Anlage 2 – (zu § 3)Digitales Tachographensystem im StraßenverkehrPolicy für die Bundesrepublik DeutschlandVersion 1.2 in der Fassung vom 18. April 2007
 
 (Fundstelle: BGBl. I 2008, 61 - 82)  
   
@@ -718,7 +673,7 @@ Zuständige Organisationen
 
 Das Tachographen-System verfügt über folgende Organisation<span id="FnR.f770348_02"></span><a href="#f770348_02" class="FnR">2)</a></sup> :
 
-![](../normengrafiken/bgbl1_2008/j0054-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j0054-1_0010.jpg)
 
   
   
@@ -823,7 +778,7 @@ D-MSA und D-CA stellen im Rahmen ihrer jeweiligen Zuständigkeiten und der jewei
 
 Der Geltungsbereich der vorliegenden D-MSA-Policy ist in folgender Übersicht fett markiert<span id="FnR.f770348_04"></span><a href="#f770348_04" class="FnR">4)</a></sup> :
 
-![](../normengrafiken/bgbl1_2008/j0054-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j0054-1_0020.jpg)
 
 Figure 1 Description of Annex I(B) key management
 
@@ -1653,8 +1608,7 @@ Anträge zur Änderung der D-MSA-Policy sind an die D-MSA zu richten, die darüb
 13  
 Übereinstimmung mit der ERCA-Policy
 
-Die Anforderungen für die D-MSA-Policy sind in der ERCA-Policy in § 5.3 beschrieben. Die nachstehende Tabelle stellt die Verbindung zwischen den in der ERCA-Policy formulierten Anforderungen und den Anforderungen der D-MSA-Policy dar.  
-  
+Die Anforderungen für die D-MSA-Policy sind in der ERCA-Policy in § 5.3 beschrieben. Die nachstehende Tabelle stellt die Verbindung zwischen den in der ERCA-Policy formulierten Anforderungen und den Anforderungen der D-MSA-Policy dar.   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 6%" /><col style="width: 15%" /><col style="width: 47%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Nr.</th><th style="text-align: left;">Referenz<br />
 ERCA policy</th><th style="text-align: left;">Anforderung</th><th style="text-align: left;">Referenz D-MSA-Policy</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"> 1.</td><td style="text-align: left;">§ 5.3.1</td><td style="text-align: left;">The MSA Policy shall identify the entities in charge of operations.</td><td style="text-align: left;">§ 1.1 Zuständige Organisationen</td></tr><tr class="even"><td style="text-align: left;"> 2.</td><td style="text-align: left;">§ 5.3.2</td><td style="text-align: left;">The MSCA key pairs for equipment key certification and for motion sensor key distribution shall be generated and stored within a device which either:<dl><dt>•</dt><dd>is certified to meet the requirements identified in FIPS 140-2 (or FIPS 140-1) level 3 or higher [10];</dd><dt>•</dt><dd>is certified to be compliant with the requirements identified in the CEN Workshop Agreement 14167-2 [11];</dd><dt>•</dt><dd>is a trustworthy system which is assured to EAL4 or higher in accordance with ISO 15408 [12]; to level E3 or higher in ITSEC [13]; or equivalent security criteria. These evaluations shall be to a protection profile or security target,</dd><dt>•</dt><dd>is demonstrated to provide an equivalent level of security.</dd></dl></td><td style="text-align: left;">§ 6 Schlüsselmanagement in der<br />
@@ -1748,8 +1702,7 @@ Abkürzungen, Definitionen
 Anhang B  
 Referenzdokumente
 
-
-## Anlage 3 – (zu § 4)  Beschreibung der Speicherkarten
+# Anlage 3 – (zu § 4)  Beschreibung der Speicherkarten
 
 +++ Wegen nicht darstellbarer Textteile Anlage nicht aufgenommen +++  
 

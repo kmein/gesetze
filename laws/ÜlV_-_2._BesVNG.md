@@ -1,40 +1,32 @@
-# [ÜlV - 2. BesVNG] Verordnung zur Überleitung in die im Zweiten Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern geregelten Ämter und über die künftig wegfallenden Ämter  (ÜlV - 2. BesVNG)
-
-Ausfertigungsdatum: 01.10.1975
-
+% Verordnung zur Überleitung in die im Zweiten Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern geregelten Ämter und über die künftig wegfallenden Ämter  (ÜlV - 2. BesVNG)
+% Ausfertigungsdatum: 01.10.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels IX § 4 Abs. 2, 3, 5, § 8 Abs. 2, 3, 5 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern (2. BesVNG) vom 23. Mai 1975 (Bundesgesetzbl. I S. 1173) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Die von Artikel IX § 4 Abs. 2, 3, § 8 Abs. 2, 3 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern erfaßten Ämter sind in der Überleitungsübersicht in Anlage 1 aufgeführt. Die Beamten führen die neue Amtsbezeichnung. Ist in der Überleitungsübersicht bei einem Amt der Fußnotenhinweis 1) ausgebracht, so behält der Beamte für seine Person die bisherige Amtsbezeichnung; in den Fällen der Fußnote 2) führt der Beamte die dort vorgesehene Amtsbezeichnung. Auf Antrag führt der Beamte in den Fällen des Satzes 3 die neue Amtsbezeichnung.
 
 (2) Die von Artikel IX § 4 Abs. 5, § 8 Abs. 5 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern erfaßten künftig wegfallenden Ämter, in denen die bei Inkrafttreten des Gesetzes vorhandenen Amtsinhaber verbleiben können, sind in der Übersicht in Anlage 2 aufgeführt.
 
-
-## § 2
+# § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel XI § 2 Satz 2 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern auch im Land Berlin.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt mit Wirkung vom 1. Juli 1975 in Kraft.
 
-
-## Anlage 1
+# Anlage 1
 
 (Anlage 1 ist als Anlagenband zum BGBl. I Nr. 113 v. 8.10.1975 erschienen.)
 
 Anlage 1: Art. IX § 8 Abs. 1 u. 2 sowie § 11 d. 2. BesVNG v. 23.5.1975 I 1173 u. d. ÜberleitungsV v. 1.10.1975 I 2608 mit d. Anlage 1, III Richter u. Staatsanwälte sind nach Maßgabe d. Entscheidungsformel mit d. GG nicht vereinbar, BVerfGE v. 4.2.1981 I 414 - 2 BvR 570/76 u. a. -  
 Anlage 1: Art. IX § 4 Abs. 1 u. 2 sowie § 11 d. 2. BesVNG v. 23.5.1975 I 1173 u. d. ÜberleitungsV v. 1.10.1975 I 2608 mit d. Anlage 1, I. Besoldungsordnungen A u. B, Baden-Württemberg, lfd. Nr. 116 sind nach Maßgabe d. Entscheidungsformel mit d. GG nicht vereinbar, BVerfGE v. 4.2.1981 I 415 - 2 BvR 590/76 -
 
-
-## Anlage 2 – Übersicht zu § 1 Abs. 2(künftig wegfallende Ämter und Amtsbezeichnungen)
+# Anlage 2 – Übersicht zu § 1 Abs. 2(künftig wegfallende Ämter und Amtsbezeichnungen)
 
 Fundstelle des Originaltextes: Anlageband zu BGBl. I 1975 Nr. 113;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

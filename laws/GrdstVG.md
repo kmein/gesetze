@@ -1,10 +1,7 @@
-# [GrdstVG] Gesetz über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicherung land- und forstwirtschaftlicher Betriebe  (Grundstückverkehrsgesetz - GrdstVG)
-
-Ausfertigungsdatum: 28.07.1961
-
+% Gesetz über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicherung land- und forstwirtschaftlicher Betriebe  (Grundstückverkehrsgesetz - GrdstVG)
+% Ausfertigungsdatum: 28.07.1961
  
-
-## § 1
+# § 1
 
 (1) Die Vorschriften dieses Abschnitts gelten für landwirtschaftliche und forstwirtschaftliche Grundstücke sowie für Moor- und Ödland, das in landwirtschaftliche oder forstwirtschaftliche Kultur gebracht werden kann.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 28.07.1961
 
 (3) Grundstück im Sinne dieses Gesetzes ist auch ein Teil eines Grundstücks.
 
-
-## § 2
+# § 2
 
 (1) Die rechtsgeschäftliche Veräußerung eines Grundstücks und der schuldrechtliche Vertrag hierüber bedürfen der Genehmigung. Ist ein schuldrechtlicher Vertrag genehmigt worden, so gilt auch die in Ausführung des Vertrages vorgenommene Auflassung als genehmigt. Die Genehmigung kann auch vor der Beurkundung des Rechtsgeschäfts erteilt werden.
 
@@ -33,15 +29,13 @@ Ausfertigungsdatum: 28.07.1961
 
 3. bestimmen, dass in bestimmten Teilen des Landesgebietes die Genehmigung eines nach Absatz 1 Satz 1 oder Absatz 2 genehmigungsbedürftigen Rechtsgeschäfts über die in § 9 genannten Gründe hinaus versagt oder mit Nebenbestimmungen nach § 10 oder § 11 versehen werden kann, soweit dies in dem betroffenen Teil des Landesgebietes zur Abwehr einer erheblichen Gefahr für die Agrarstruktur zwingend erforderlich ist.
 
-
-## § 3
+# § 3
 
 (1) Über den Antrag auf Genehmigung entscheidet die nach Landesrecht zuständige Behörde (Genehmigungsbehörde), soweit nicht das Gericht zu entscheiden hat.
 
 (2) Zur Stellung des Antrags auf Genehmigung sind die Vertragsparteien und derjenige, zu dessen Gunsten der Vertrag geschlossen worden ist, berechtigt. Hat ein Notar den Vertrag beurkundet, so gilt dieser als ermächtigt, die Genehmigung zu beantragen.
 
-
-## § 4
+# § 4
 
 Die Genehmigung ist nicht notwendig, wenn
 
@@ -55,13 +49,11 @@ Die Genehmigung ist nicht notwendig, wenn
 
 5. die Veräußerung nach dem bayerischen Almgesetz vom 28. April 1932 (Bereinigte Sammlung des Bayerischen Landesrechts Band IV S. 359) zuletzt geändert durch § 59 des Zweiten Bayerischen Gesetzes zur Anpassung des Landesrechts an den Euro vom 24. April 2001 (GVBl. S. 140) genehmigt ist.
 
-
-## § 5
+# § 5
 
 Ist zur Veräußerung die Genehmigung nicht notwendig, so hat die Genehmigungsbehörde auf Antrag ein Zeugnis darüber zu erteilen. Das Zeugnis steht der Genehmigung gleich.
 
-
-## § 6
+# § 6
 
 (1) Die Entscheidung über die Genehmigung ist binnen einem Monat nach Eingang des Antrags und der Urkunde über das zu genehmigende Rechtsgeschäft bei der örtlich zuständigen Genehmigungsbehörde zu treffen. Kann die Prüfung des Antrags in dieser Zeit nicht abgeschlossen werden oder hat die Genehmigungsbehörde eine Erklärung über die Ausübung des Vorkaufsrechts nach § 12 herbeizuführen, so ist vor Ablauf der Frist dem Veräußerer ein Zwischenbescheid zu erteilen; durch den Zwischenbescheid verlängert sich die Frist des Satzes 1 auf zwei Monate und, falls die bezeichnete Erklärung herbeizuführen ist, auf drei Monate.
 
@@ -69,8 +61,7 @@ Ist zur Veräußerung die Genehmigung nicht notwendig, so hat die Genehmigungsbe
 
 (3) Ist die Entscheidung über die Genehmigung oder die Genehmigung durch Fristablauf unanfechtbar geworden, so hat die Genehmigungsbehörde hierüber auf Antrag ein Zeugnis zu erteilen.
 
-
-## § 7
+# § 7
 
 (1) Auf Grund einer genehmigungsbedürftigen Veräußerung darf eine Rechtsänderung in das Grundbuch erst eingetragen werden, wenn dem Grundbuchamt die Unanfechtbarkeit der Genehmigung nachgewiesen wird.
 
@@ -78,8 +69,7 @@ Ist zur Veräußerung die Genehmigung nicht notwendig, so hat die Genehmigungsbe
 
 (3) Besteht die auf Grund eines nicht genehmigten Rechtsgeschäfts vorgenommene Eintragung einer Rechtsänderung ein Jahr, so gilt das Rechtsgeschäft als genehmigt, es sei denn, daß vor Ablauf dieser Frist ein Widerspruch im Grundbuch eingetragen oder ein Antrag auf Berichtigung des Grundbuchs oder ein Antrag oder ein Ersuchen auf Eintragung eines Widerspruchs gestellt worden ist.
 
-
-## § 8
+# § 8
 
 Die Genehmigung ist zu erteilen, wenn
 
@@ -103,8 +93,7 @@ b) das Ersatzland zur Erfüllung dem Erwerber wesensgemäß obliegender Aufgaben
 
 c) eine Gemeinde oder ein Gemeindeverband das Ersatzland zur alsbaldigen Verpachtung oder Veräußerung an einen bestimmten von ihr oder von ihm verdrängten Landwirt benötigt.
 
-
-## § 9
+# § 9
 
 (1) Die Genehmigung darf nur versagt oder durch Auflagen (§ 10) oder Bedingungen (§ 11) eingeschränkt werden, wenn Tatsachen vorliegen, aus denen sich ergibt, daß
 
@@ -134,8 +123,7 @@ c) eine Gemeinde oder ein Gemeindeverband das Ersatzland zur alsbaldigen Verpach
 
 (7) Die Genehmigung soll, auch wenn ihr Bedenken aus den in Absatz 1 aufgeführten Gründen entgegenstehen, nicht versagt werden, wenn dies eine unzumutbare Härte für den Veräußerer bedeuten würde.
 
-
-## § 10
+# § 10
 
 (1) Dem Erwerber kann die Auflage gemacht werden,
 
@@ -149,8 +137,7 @@ c) eine Gemeinde oder ein Gemeindeverband das Ersatzland zur alsbaldigen Verpach
 
 (2) Wird die Genehmigung unter Auflagen erteilt, so ist die hierdurch betroffene Vertragspartei berechtigt, bis zum Ablauf eines Monats nach Eintritt der Unanfechtbarkeit der Entscheidung vom Vertrage zurückzutreten. Auf das Rücktrittsrecht sind die Vorschriften der §§ 346 bis 354 des Bürgerlichen Gesetzbuchs sinngemäß anzuwenden.
 
-
-## § 11
+# § 11
 
 (1) Die Genehmigung kann unter der Bedingung erteilt werden, daß binnen einer bestimmten Frist
 
@@ -162,13 +149,11 @@ c) eine Gemeinde oder ein Gemeindeverband das Ersatzland zur alsbaldigen Verpach
 
 (2) Ist die Bedingung eingetreten, so hat die Genehmigungsbehörde hierüber auf Antrag eine Bescheinigung zu erteilen.
 
-
-## § 12
+# § 12
 
 Liegen die Voraussetzungen vor, unter denen nach dem Reichssiedlungsgesetz das Vorkaufsrecht ausgeübt werden kann, so hat die Genehmigungsbehörde, bevor sie über den Antrag auf Genehmigung entscheidet, den Vertrag der Siedlungsbehörde zur Herbeiführung einer Erklärung über die Ausübung des Vorkaufsrechts durch die vorkaufsberechtigte Stelle vorzulegen.
 
-
-## § 13
+# § 13
 
 (1) Gehört ein landwirtschaftlicher Betrieb einer durch gesetzliche Erbfolge entstandenen Erbengemeinschaft, so kann das Gericht auf Antrag eines Miterben die Gesamtheit der Grundstücke, aus denen der Betrieb besteht, ungeteilt einem Miterben zuweisen; kann der Betrieb in mehrere Betriebe geteilt werden, so kann er geteilt einzeln den Miterben zugewiesen werden. Grundstücke, für die nach ihrer Lage und Beschaffenheit anzunehmen ist, daß sie in absehbarer Zeit anderen als landwirtschaftlichen Zwecken dienen werden, sollen von einer Zuweisung ausgenommen werden. Das Gericht hat die Zuweisung auf Zubehörstücke, Miteigentums-, Kapital- und Geschäftsanteile, dingliche Nutzungsrechte und ähnliche Rechte zu erstrecken, soweit diese Gegenstände zur ordnungsgemäßen Bewirtschaftung des Betriebes notwendig sind.
 
@@ -176,8 +161,7 @@ Liegen die Voraussetzungen vor, unter denen nach dem Reichssiedlungsgesetz das V
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten nur, soweit die Sachen und Rechte gemeinschaftliches Vermögen der Erben sind. Auf Reichsheimstätten sind sie nicht anzuwenden.
 
-
-## § 14
+# § 14
 
 (1) Die Zuweisung ist nur zulässig, wenn der Betrieb mit einer zur Bewirtschaftung geeigneten Hofstelle versehen ist und seine Erträge ohne Rücksicht auf die privatrechtlichen Belastungen im wesentlichen zum Unterhalt einer bäuerlichen Familie ausreichen. Erträge aus zugepachtetem Land sind insoweit als Erträge des Betriebes anzusehen, als gesichert erscheint, daß das zugepachtete Land oder anderes gleichwertiges Pachtland dem Erwerber zur Bewirtschaftung zur Verfügung stehen wird.
 
@@ -185,15 +169,13 @@ Liegen die Voraussetzungen vor, unter denen nach dem Reichssiedlungsgesetz das V
 
 (3) Die Zuweisung ist unzulässig, solange die Auseinandersetzung ausgeschlossen oder ein zu ihrer Bewirkung berechtigter Testamentsvollstrecker vorhanden ist oder ein Miterbe ihren Aufschub verlangen kann.
 
-
-## § 15
+# § 15
 
 (1) Der Betrieb ist dem Miterben zuzuweisen, dem er nach dem wirklichen oder mutmaßlichen Willen des Erblassers zugedacht war. Ist der Miterbe nicht ein Abkömmling und nicht der überlebende Ehegatte des Erblassers, so ist die Zuweisung an ihn nur zulässig, wenn er den Betrieb bewohnt und bewirtschaftet oder mitbewirtschaftet. Die Zuweisung ist ausgeschlossen, wenn der Miterbe zur Übernahme des Betriebes nicht bereit oder zu seiner ordnungsgemäßen Bewirtschaftung nicht geeignet ist.
 
 (2) Diese Bestimmungen gelten für die Zuweisung von Teilen des Betriebes sinngemäß.
 
-
-## § 16
+# § 16
 
 (1) Wird der Betrieb einem Miterben zugewiesen, so steht insoweit den übrigen Miterben an Stelle ihres Erbteils ein Anspruch auf Zahlung eines Geldbetrages zu, der dem Wert ihres Anteils an dem zugewiesenen Betrieb (§ 13 Abs. 1) entspricht. Der Betrieb ist zum Ertragswert (§ 2049 des Bürgerlichen Gesetzbuchs) anzusetzen. Der Anspruch ist bei der Zuweisung durch das Gericht unter Berücksichtigung der folgenden Vorschriften festzusetzen.
 
@@ -205,37 +187,31 @@ Liegen die Voraussetzungen vor, unter denen nach dem Reichssiedlungsgesetz das V
 
 (5) Das Gericht kann auf Antrag eines Miterben bei der Zuweisung festsetzen, daß er durch ein beschränktes dingliches Recht an einem zugewiesenen Grundstück abzufinden ist. Die Festsetzung ist unzulässig, wenn der Erwerber dadurch unangemessen beschwert würde.
 
-
-## § 17
+# § 17
 
 (1) Zieht der Erwerber binnen fünfzehn Jahren nach dem Erwerb (§ 13 Abs. 2) aus dem Betrieb oder einzelnen zugewiesenen Gegenständen durch Veräußerung oder auf andere Weise, die den Zwecken der Zuweisung fremd ist, erhebliche Gewinne, so hat er, soweit es der Billigkeit entspricht, die Miterben auf Verlangen so zu stellen, wie wenn der in Betracht kommende Gegenstand im Zeitpunkt des Erwerbes verkauft und der Kaufpreis unter den Miterben entsprechend ihren Erbteilen verteilt worden wäre. Ist der Betrieb im Wege der Erbfolge auf einen anderen übergegangen oder hat der Erwerber den Betrieb einem anderen im Wege der vorweggenommenen Erbfolge übereignet, so trifft die entsprechende Verpflichtung den anderen hinsichtlich derartiger Gewinne, die er binnen fünfzehn Jahren nach dem in § 13 Abs. 2 bezeichneten Zeitpunkt aus dem Betriebe zieht.
 
 (2) Die Ansprüche sind vererblich und übertragbar. Sie verjähren in zwei Jahren nach dem Schluß des Jahres, in dem der Berechtigte von dem Eintritt der Voraussetzungen seines Anspruchs Kenntnis erlangt, ohne Rücksicht auf diese Kenntnis in fünf Jahren nach dem Schluß des Jahres, in dem die Voraussetzungen des Anspruchs erfüllt sind.
 
-
-## § 18
+# § 18
 
 (1) Örtlich zuständig ist die Genehmigungsbehörde, in deren Bezirk die Hofstelle des Betriebes liegt, zu dem das Grundstück gehört. Ist keine Hofstelle vorhanden, so ist die Genehmigungsbehörde zuständig, in deren Bezirk die Grundstücke ganz oder zum größten Teil liegen.
 
 (2) Hält die Genehmigungsbehörde ihre örtliche Zuständigkeit nicht für gegeben, so hat sie die Sache unverzüglich, spätestens vor Ablauf eines Monats nach Eingang des Antrags, an die zuständige Genehmigungsbehörde abzugeben und den Antragsteller von der Abgabe zu benachrichtigen. Wird die Benachrichtigung nicht binnen dieser Frist zugestellt, so gilt die Genehmigung als erteilt. Die Abgabeverfügung ist für die in ihr bezeichnete Genehmigungsbehörde bindend und für die Beteiligten unanfechtbar.
 
-
-## § 19
+# § 19
 
 Die Genehmigungsbehörde hat vor der Entscheidung über einen Genehmigungsantrag die auf Grund des § 32 Abs. 3 des Gesetzes über das gerichtliche Verfahren in Landwirtschaftssachen bestimmte land- und forstwirtschaftliche Berufsvertretung zu hören. Das Nähere bestimmt die Landesregierung.
 
-
-## § 20
+# § 20
 
 Entscheidungen, gegen die ein Antrag auf gerichtliche Entscheidung zulässig ist, sind zu begründen und zuzustellen. Bei der Zustellung sind die Beteiligten über die Zulässigkeit des Antrags auf gerichtliche Entscheidung, über die Stelle, bei der er zu stellen ist, sowie über Form und Frist des Antrags zu belehren. Die Antragsfrist beginnt nicht vor der Belehrung, spätestens aber fünf Monate nach der Zustellung der Entscheidung der Genehmigungsbehörde.
 
-
-## § 21
+# § 21
 
 Erklärungen des Vorkaufsberechtigten über die Ausübung des Vorkaufsrechts nach dem Reichssiedlungsgesetz hat die Genehmigungsbehörde außer dem Verpflichteten auch dem Käufer und demjenigen mitzuteilen, zu dessen Gunsten der Kaufvertrag geschlossen worden ist; dies gilt nicht, wenn die Ausübung des Vorkaufsrechts nach § 6 Abs. 2 des Reichssiedlungsgesetzes unwirksam ist. Die Mitteilung ist mit einer Begründung darüber zu versehen, warum die Genehmigung der Veräußerung nach § 9 zu versagen wäre, und zuzustellen. § 20 Satz 2 und 3 gilt sinngemäß für die Belehrung über die Zulässigkeit eines Antrags auf gerichtliche Entscheidung nach § 10 des Reichssiedlungsgesetzes.
 
-
-## § 22
+# § 22
 
 (1) Wenn die Genehmigungsbehörde eine Genehmigung versagt oder unter Auflagen oder Bedingungen erteilt, ein Zeugnis nach § 5 oder § 6 Abs. 3 oder eine Bescheinigung nach § 11 Abs. 2 verweigert, können die Beteiligten binnen zwei Wochen nach Zustellung Antrag auf Entscheidung durch das nach dem Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen zuständige Gericht stellen.
 
@@ -245,13 +221,11 @@ Erklärungen des Vorkaufsberechtigten über die Ausübung des Vorkaufsrechts nac
 
 (4) Ist eine Genehmigung unter einer Auflage nach diesem Gesetz oder nach den bisherigen Vorschriften über den Verkehr mit land- und forstwirtschaftlichen Grundstücken erteilt und haben sich die Umstände, die für die Erteilung der Auflage maßgebend waren, wesentlich geändert, so kann der durch die Auflage Beschwerte beantragen, daß das nach dem Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen zuständige Gericht die Auflage ändert oder aufhebt. Absatz 2 Satz 1 gilt entsprechend.
 
-
-## § 23
+# § 23
 
 Im Verfahren vor der Genehmigungsbehörde werden Gebühren und Auslagen nicht erhoben.
 
-
-## § 24
+# § 24
 
 (1) Wer
 
@@ -263,33 +237,27 @@ kann durch Festsetzung von Zwangsgeld, auch wiederholt, angehalten werden, der A
 
 (2) Das einzelne Zwangsgeld darf den Betrag von fünfhundert Euro nicht übersteigen.
 
-
-## § 25
-
-\-
-
-
-## § 26
+# § 25
 
 \-
 
+# § 26
 
-## §§ 27 bis 30 – ----
+\-
 
+# §§ 27 bis 30 – ----
 
-## § 31
+# § 31
 
 (1) § 8 Nr. 2 gilt nicht für Höfe im Sinne der in den Ländern Hamburg, Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein geltenden Höfeordnung in der Fassung der Bekanntmachung vom 26. Juli 1976 (BGBl. I S. 1933), zuletzt geändert durch Artikel 7 Abs. 13 des Gesetzes vom 27. Juni 2000 (BGBl. I S. 897) oder des Landesgesetzes über die Einführung einer Höfeordnung im Lande Rheinland-Pfalz in der Fassung der Bekanntmachung vom 18. April 1967 (GVBl. S. 138), zuletzt geändert durch das Gesetz vom 26. September 2000 (GVBl. S. 397).
 
 (2) § 6 ist nicht anzuwenden, wenn nach § 17 Abs. 3 der Höfeordnung in der Fassung der Bekanntmachung vom 26. Juli 1976 (BGBl. I S. 1933), zuletzt geändert durch Artikel 7 Abs. 13 des Gesetzes vom 27. Juni 2000 (BGBl. I S. 897) das Gericht über einen Antrag auf Genehmigung zu entscheiden hat.
 
-
-## § 32
+# § 32
 
 (weggefallen)
 
-
-## § 33
+# § 33
 
 (1) Ist ein landwirtschaftlicher Betrieb vor dem Inkrafttreten dieses Gesetzes auf eine Erbengemeinschaft übergegangen, so gelten für die gerichtliche Zuweisung des Betriebes die Vorschriften der Absätze 2 bis 4.
 
@@ -299,21 +267,17 @@ kann durch Festsetzung von Zwangsgeld, auch wiederholt, angehalten werden, der A
 
 (4) § 17 ist nicht anzuwenden, wenn der Erwerber den Betrieb vor dem Inkrafttreten dieses Gesetzes durch gerichtliche Zuweisung erworben hat.
 
+# §§ 34 bis 36 – (weggefallen)
 
-## §§ 34 bis 36 – (weggefallen)
-
-
-## § 37
+# § 37
 
 Die Bundesregierung wird ermächtigt, zu Verhinderung von Mißbräuchen, welche die Wirksamkeit dieses Gesetzes erheblich beeinträchtigen, für die Veräußerung der durch § 1 betroffenen Grundstücke im Wege der Zwangsversteigerung unter Anlehnung an die Vorschriften des Ersten und Vierten Abschnitts durch Rechtsverordnung zu bestimmen, daß die Abgabe von Geboten und die Erteilung des Zuschlags an einen anderen als den Meistbietenden allgemein oder unter bestimmten sachlichen oder örtlichen Voraussetzungen von einer Bieterlaubnis der Genehmigungsbehörde abhängt, sowie das Verfahren einschließlich der Kosten zu regeln.
 
-
-## § 38
+# § 38
 
 (weggefallen)
 
-
-## § 39
+# § 39
 
 (1) Dieses Gesetz tritt am 1. Januar 1962 in Kraft. Die Vorschriften, die den Erlaß von Landesgesetzen vorsehen oder zum Erlaß von Rechtsverordnungen ermächtigen, treten am Tage nach der Verkündung dieses Gesetzes, § 30 tritt mit Wirkung vom Tage nach der Verkündung des Haushaltsgesetzes 1961 in Kraft.
 

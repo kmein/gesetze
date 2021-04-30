@@ -1,15 +1,11 @@
-# [InstallateurHeizungsbauerMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk  (Installateur- und Heizungsbauermeisterverordnung - InstallateurHeizungsbauerMstrV)
-
-Ausfertigungsdatum: 17.07.2002
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk  (Installateur- und Heizungsbauermeisterverordnung - InstallateurHeizungsbauerMstrV)
+% Ausfertigungsdatum: 17.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 Die Meisterprüfung im Installateur- und Heizungsbauer-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -21,8 +17,7 @@ Die Meisterprüfung im Installateur- und Heizungsbauer-Handwerk umfasst folgende
 
 4. die Prüfung der erforderlichen berufs- und arbeitspädagogischen Kenntnisse (Teil IV).
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung im Installateur- und Heizungsbauer-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
@@ -54,8 +49,7 @@ Die Meisterprüfung im Installateur- und Heizungsbauer-Handwerk umfasst folgende
 
 13. Leistungen abnehmen und protokollieren, dem Kunden übergeben, abrechnen und Nachkalkulation durchführen.
 
-
-## § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
@@ -65,8 +59,7 @@ Die Meisterprüfung im Installateur- und Heizungsbauer-Handwerk umfasst folgende
 
 (4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Dabei soll der Prüfling zeigen, dass er einen Kundenauftrag im Installateur- und Heizungsbauer-Handwerk unter Beachtung der technischen Regelwerke und gesetzlichen Vorschriften und unter Einbeziehung wirtschaftlicher und ökologischer Aspekte planen, durchführen und abschließen sowie Angebote erstellen kann. Das Meisterprüfungsprojekt soll in verschiedenen Aufgabenblöcken durchgeführt werden, die sich auf Anlagen und Systeme für die Versorgung mit und die Entsorgung von Gas, Wasser, Luft, Wärme sowie von sonstigen Energien und Medien, einschließlich sanitärer Einrichtungen, beziehen. Der Prüfungsausschuss konkretisiert unter Berücksichtigung der Vorschläge des Prüflings Aufgabenblöcke. Auf dieser Grundlage hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
 
@@ -81,13 +74,11 @@ Eine gebäudetechnische Anlage der Installateur- und Heizungsbautechnik einschli
 
 Die Entwurfs-, Planungs-, Berechnungs- und Kalkulationsunterlagen werden insgesamt mit 50 vom Hundert, die durchgeführten Montage- und Servicearbeiten einschließlich Abnahme- und Übergabedokumentationen mit 50 vom Hundert gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, dass er den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösung darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, sicherheitstechnischer, ablauf- und verfahrenstechnischer, werkstofftechnischer, mathematischer und wirtschaftlicher Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
 
@@ -177,19 +168,16 @@ i) Betriebs- und Lagerausstattung sowie Logistik planen und darstellen.
 
 (+++ § 6 Abs. 5 u. 6: Zur Anwendung vgl. § 8 +++)
 
-
-## § 7 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 7 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 8 – Übergangsvorschrift
+# § 8 – Übergangsvorschrift
 
 Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.

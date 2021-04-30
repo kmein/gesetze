@@ -1,10 +1,7 @@
-# [TierSeuchSchNOKanV] Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal  (Nord-Ostsee-Kanal-Tierseuchenschutzverordnung)
-
-Ausfertigungsdatum: 08.06.1973
-
+% Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal  (Nord-Ostsee-Kanal-Tierseuchenschutzverordnung)
+% Ausfertigungsdatum: 08.06.1973
  
-
-## § 1
+# § 1
 
 (1) Diese Verordnung gilt für die Durchfahrt von Seeschiffen mit
 
@@ -18,8 +15,7 @@ durch den Nord-Ostsee-Kanal (Kanal). Andere auf § 14 Absatz 1, § 38 Absatz 2 u
 
 (2) Der Bereich des Kanals im Sinne dieser Verordnung erstreckt sich von der Verbindungslinie zwischen den Molenköpfen in Brunsbüttel bis zu der Verbindungslinie zwischen den Einfahrtsfeuern in Kiel-Holtenau unter Einschluß des Gieselaukanals, Schirnauer Sees, Borgstedter Sees, Audorfer Sees, Obereidersees mit Enge, Achterwehrer Schiffahrtskanals und Flemhuder Sees.
 
-
-## § 2
+# § 2
 
 (1) Lebende Klauentiere, Einhufer, Hasen, Kaninchen, Hunde, Hauskatzen, Affen, Halbaffen, lebendes Geflügel, lebende Papageien und Sittiche sowie verendete Tiere, tierische Abgänge, Einstreu, Futter oder Abwasser aus den mit Tieren besetzten Laderäumen oder Behältnissen dürfen während der Durchfahrt durch den Kanal nicht von Bord des Schiffes verbracht oder abgelassen werden. Die Laderäume und Behältnisse, in denen in Satz 1 genannte Tiere untergebracht sind, müssen so beschaffen sein, daß die Tiere und deren Abgänge sowie Einstreu, Futter oder Abwasser aus den mit lebenden Tieren besetzten Laderäumen oder Behältnissen während der Durchfahrt durch den Kanal nicht von Bord gelangen können.
 
@@ -27,8 +23,7 @@ durch den Nord-Ostsee-Kanal (Kanal). Andere auf § 14 Absatz 1, § 38 Absatz 2 u
 
 (3) Absatz 1 Satz 2 und Absatz 2 gelten nicht, wenn nur einzelne Hunde, Hauskatzen, Affen, Halbaffen, Papageien oder Sittiche oder wenn Kaninchen oder Hausgeflügel, die von der Schiffsbesatzung oder von Reisenden gehalten werden, an Bord des Schiffes mitgeführt werden.
 
-
-## § 3
+# § 3
 
 (1) Von den in § 2 Abs. 1 Satz 1 genannten Tieren stammende Teile, Erzeugnisse und Rohstoffe, Rauhfutter, Stroh sowie Gegenstände jeder Art, von denen nach den Umständen des Falles anzunehmen ist, daß sie Träger von Ansteckungsstoff sein können, müssen während der Durchfahrt durch den Kanal in den Laderäumen verstaut oder - sofern sie auf Deck gelagert sind - in Behältnissen oder Umhüllungen fest verpackt sein. Sie dürfen während der Durchfahrt durch den Kanal nicht von Bord verbracht werden.
 
@@ -38,8 +33,7 @@ durch den Nord-Ostsee-Kanal (Kanal). Andere auf § 14 Absatz 1, § 38 Absatz 2 u
 
 2. Lebensmittel tierischer Herkunft, die zur Verpflegung der Schiffsbesatzung oder von Reisenden mitgeführt werden.
 
-
-## § 3a
+# § 3a
 
 (1) Die mit Wartung von Tieren betrauten Personen müssen vor dem Verlassen des Schiffes Arbeitskleidung und -schuhe wechseln. Alle Personen haben beim Verlassen des Schiffes das Schuhwerk zu reinigen und mit einem Mittel, mit dem Tierseuchenerreger abgetötet werden, zu desinfizieren.
 
@@ -47,13 +41,11 @@ durch den Nord-Ostsee-Kanal (Kanal). Andere auf § 14 Absatz 1, § 38 Absatz 2 u
 
 (3) Der Schiffsführer hat Desinfektionsmittel im Sinne des Absatzes 1 Satz 2 bereitzustellen.
 
-
-## § 4
+# § 4
 
 Die zuständige oberste Landesbehörde kann Ausnahmen von den Vorschriften dieser Verordnung zulassen, wenn auf andere Weise sichergestellt ist, daß keine Tierseuchen eingeschleppt oder weiterverbreitet werden.
 
-
-## § 5
+# § 5
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -73,7 +65,6 @@ Die zuständige oberste Landesbehörde kann Ausnahmen von den Vorschriften diese
 
 4. einer mit einer Zulassung nach § 4 in Verbindung mit § 2 Absatz 1 Satz 1 oder Absatz 2 Satz 1 oder § 3 Absatz 1 Satz 2 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt drei Monate nach der Verkündung in Kraft.

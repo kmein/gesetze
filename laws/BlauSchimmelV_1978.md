@@ -1,20 +1,15 @@
-# [BlauSchimmelV 1978] Verordnung zur Bekämpfung der Blauschimmelkrankheit des Tabaks
-
-Ausfertigungsdatum: 13.04.1978
-
+% Verordnung zur Bekämpfung der Blauschimmelkrankheit des Tabaks
+% Ausfertigungsdatum: 13.04.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3, 6, 11 und 15 des Pflanzenschutzgesetzes in der Fassung der Bekanntmachung vom 2. Oktober 1975 (BGBl. I S. 2591, 1976 I S. 1059) wird im Einvernehmen mit dem Bundesminister für Jugend, Familie und Gesundheit mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Verfügungsberechtigte und Besitzer von Tabakpflanzen sind verpflichtet, der zuständigen Behörde das Auftreten und den Verdacht des Auftretens der Blauschimmelkrankheit oder ihres Erregers, des Blauschimmelpilzes (Peronospora tabacina Adam), unter Angabe des Standorts, des Umfangs des Bestandes und der Herkunft der Pflanzen unverzüglich zu melden.
 
-
-## § 2
+# § 2
 
 Verfügungsberechtigte und Besitzer von Tabakpflanzen sind verpflichtet,
 
@@ -32,13 +27,11 @@ c) die Blauschimmelkrankheit zu bekämpfen,
 
 4. Grundstücke, auf denen der Blauschimmelpilz aufgetreten ist, bis zum Ablauf der folgenden Vegetationsperiode von Tabakpflanzen freizuhalten.
 
-
-## § 3
+# § 3
 
 Das Züchten und Halten des Blauschimmelpilzes sowie das Arbeiten mit diesem Schadorganismus sind verboten.
 
-
-## § 4
+# § 4
 
 Die zuständige Behörde kann im Einzelfall Ausnahmen von
 
@@ -48,8 +41,7 @@ Die zuständige Behörde kann im Einzelfall Ausnahmen von
 
 genehmigen, soweit hierdurch die Bekämpfung des Blauschimmelpilzes nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieses Schadorganismus entsteht.
 
-
-## § 5
+# § 5
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -57,8 +49,7 @@ Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschu
 
 2. entgegen § 2 Nr. 1 Tabaksämlinge nicht unverzüglich vernichtet,
 
-2a.  
-einer vollziehbaren Anordnung nach § 2 Nummer 2 zuwiderhandelt,
+2a. einer vollziehbaren Anordnung nach § 2 Nummer 2 zuwiderhandelt,
 
 3. entgegen § 2 Nr. 3 den Boden oder einen Raum nicht entseucht,
 
@@ -68,12 +59,10 @@ einer vollziehbaren Anordnung nach § 2 Nummer 2 zuwiderhandelt,
 
 6. einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

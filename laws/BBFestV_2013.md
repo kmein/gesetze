@@ -1,15 +1,11 @@
-# [BBFestV 2013] Verordnung zur Festsetzung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2013  (Bundesbeteiligungs-Festlegungsverordnung 2013 - BBFestV 2013)
-
-Ausfertigungsdatum: 19.08.2013
-
+% Verordnung zur Festsetzung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2013  (Bundesbeteiligungs-Festlegungsverordnung 2013 - BBFestV 2013)
+% Ausfertigungsdatum: 19.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Absatz 7 Satz 1 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – in der Fassung der Bekanntmachung vom 13. Mai 2011 (BGBl. I S. 850, 2094) verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Festlegung des Wertes nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch bis zum Jahr 2014
+# § 1 – Festlegung des Wertes nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch bis zum Jahr 2014
 
 Der Wert nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch wird rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie für das Jahr 2014 auf bundesdurchschnittlich 3,3 Prozentpunkte festgelegt. Von diesem Wert werden auf Grund der in den Ländern unterschiedlichen Ausgaben für die Leistungen nach § 28 des Zweiten Buches Sozialgesetzbuch und nach § 6b des Bundeskindergeldgesetzes rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie für das Jahr 2014 die folgenden länderspezifischen Werte abgeleitet:  
 3,7 Prozentpunkte für Baden-Württemberg,  
@@ -29,12 +25,10 @@ Der Wert nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch wird rü
 3,4 Prozentpunkte für Schleswig-Holstein,  
 3,7 Prozentpunkte für den Freistaat Thüringen.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

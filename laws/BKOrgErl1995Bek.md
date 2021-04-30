@@ -1,10 +1,7 @@
-# [BKOrgErl1995Bek] Bekanntmachung des Organisationserlasses des Bundeskanzlers
-
-Ausfertigungsdatum: 03.02.1995
-
+% Bekanntmachung des Organisationserlasses des Bundeskanzlers
+% Ausfertigungsdatum: 03.02.1995
  
-
-## ----
+# ----
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom 3. Februar 1995 bekannt, der mit sofortiger Wirkung in Kraft getreten ist:  
 "Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:

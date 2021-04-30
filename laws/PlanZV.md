@@ -1,22 +1,17 @@
-# [PlanZV] Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts  (Planzeichenverordnung - PlanZV)
-
-Ausfertigungsdatum: 18.12.1990
-
+% Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts  (Planzeichenverordnung - PlanZV)
+% Ausfertigungsdatum: 18.12.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der Bekanntmachung vom 8. Dezember 1986 (BGBl. I S. 2253) verordnet der Bundesminister für Raumordnung, Bauwesen und Städtebau:
 
-
-## § 1 – Planunterlagen
+# § 1 – Planunterlagen
 
 (1) Als Unterlagen für Bauleitpläne sind Karten zu verwenden, die in Genauigkeit und Vollständigkeit den Zustand des Plangebiets in einem für den Planinhalt ausreichenden Grade erkennen lassen (Planunterlagen). Die Maßstäbe sind so zu wählen, daß der Inhalt der Bauleitpläne eindeutig dargestellt oder festgesetzt werden kann.
 
 (2) Aus den Planunterlagen für Bebauungspläne sollen sich die Flurstücke mit ihren Grenzen und Bezeichnungen in Übereinstimmung mit dem Liegenschaftskataster, die vorhandenen baulichen Anlagen, die Straßen, Wege und Plätze sowie die Geländehöhe ergeben. Von diesen Angaben kann insoweit abgesehen werden, als sie für die Festsetzungen nicht erforderlich sind. Der Stand der Planunterlagen (Monat, Jahr) soll angegeben werden.
 
-
-## § 2 – Planzeichen
+# § 2 – Planzeichen
 
 (1) Als Planzeichen in den Bauleitplänen sollen die in der Anlage zu dieser Verordnung enthaltenen Planzeichen verwendet werden. Dies gilt auch insbesondere für Kennzeichnungen, nachrichtliche Übernahmen und Vermerke. Die Darstellungsarten können miteinander verbunden werden. Linien können auch in Farbe ausgeführt werden. Kennzeichnungen, nachrichtliche Übernahmen und Vermerke sollen zusätzlich zu den Planzeichen als solche bezeichnet werden.
 
@@ -28,8 +23,7 @@ Auf Grund des § 2 Abs. 5 Nr. 4 des Baugesetzbuchs in der Fassung der Bekanntmac
 
 (5) Eine Verletzung von Vorschriften der Absätze 1 bis 4 ist unbeachtlich, wenn die Darstellung, Festsetzung, Kennzeichnung, nachrichtliche Übernahme oder der Vermerk hinreichend deutlich erkennbar ist.
 
-
-## § 3 – Überleitungsvorschrift
+# § 3 – Überleitungsvorschrift
 
 Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser Verordnung geltenden Planzeichen können weiterhin verwendet werden
 
@@ -37,20 +31,17 @@ Die bis zum 31. Oktober 1981 sowie die bis zum Inkrafttreten dieser Verordnung g
 
 2. für Bauleitpläne, deren Aufstellung die Gemeinde bis zu diesen Zeitpunkten eingeleitet hat, wenn mit der Beteiligung der Träger öffentlicher Belange nach § 4 des Baugesetzbuchs oder vor Inkrafttreten des Baugesetzbuchs nach § 2 Abs. 5 des Bundesbaugesetzes begonnen worden ist sowie für Änderungen oder Ergänzungen dieser Bauleitpläne.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden dritten Kalendermonats in Kraft.
 
 (2) Gleichzeitig tritt die Planzeichenverordnung 1981 vom 30. Juli 1981 (BGBl. I S. 833) außer Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 1991, 58 \[Anlagenband\])
 

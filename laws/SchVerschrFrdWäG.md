@@ -1,20 +1,15 @@
-# [SchVerschrFrdWäG] Gesetz über Fremdwährungs-Schuldverschreibungen
-
-Ausfertigungsdatum: 26.06.1936
-
+% Gesetz über Fremdwährungs-Schuldverschreibungen
+% Ausfertigungsdatum: 26.06.1936
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
-
-## § 1
+# § 1
 
 Lautet eine im Ausland aufgenommene, in Wertpapieren verbriefte Anleihe auf eine ausländische Währung - unbeschadet ob mit oder ohne Goldklausel -, so ist im Falle einer Abwertung dieser Währung für den Umfang der Zahlungsverpflichtung des Schuldners die abgewertete Währung maßgebend.
 
-
-## § 2
+# § 2
 
 (1) Rechtskräftige Entscheidungen stehen der Anwendung dieses Gesetzes nicht entgegen.
 
@@ -22,10 +17,8 @@ Lautet eine im Ausland aufgenommene, in Wertpapieren verbriefte Anleihe auf eine
 
 (3) Bereits geleistete Zahlungen können auf Grund des Gesetzes nicht zurückgefordert werden.
 
-
-## § 3
+# § 3
 
 Die Vorschriften dieses Gesetzes finden sinngemäß auch auf nicht in Wertpapieren verbriefte Schuldverpflichtungen des zwischenstaatlichen Geld- und Kapitalverkehrs Anwendung, die aus Auslandskrediten oder Ausländerguthaben herrühren und auf ausländische Währung mit oder ohne Goldklausel lauten.
 
-
-## § 4 – (weggefallen)
+# § 4 – (weggefallen)

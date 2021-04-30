@@ -1,10 +1,7 @@
-# [AnlEntG] Anlegerentschädigungsgesetz  (AnlEntG)
-
-Ausfertigungsdatum: 16.07.1998
-
+% Anlegerentschädigungsgesetz  (AnlEntG)
+% Ausfertigungsdatum: 16.07.1998
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |       |                                                                                                        |
 |:------|:-------------------------------------------------------------------------------------------------------|
@@ -28,8 +25,7 @@ Ausfertigungsdatum: 16.07.1998
 | § 17  | Zeitlicher Anwendungsbereich                                                                           |
 | § 18  | Anwendungsbestimmung und Übergangsregelung                                                             |
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Institute im Sinne dieses Gesetzes sind
 
@@ -49,13 +45,11 @@ Ausfertigungsdatum: 16.07.1998
 
 (4) Ein Entschädigungsfall im Sinne dieses Gesetzes tritt ein, wenn die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) feststellt, dass ein Institut aus Gründen, die mit seiner Finanzlage unmittelbar zusammenhängen, nicht in der Lage ist, Verbindlichkeiten aus Wertpapiergeschäften zu erfüllen und keine Aussicht auf eine spätere Erfüllung besteht.
 
-
-## § 2 – Sicherungspflicht der Institute
+# § 2 – Sicherungspflicht der Institute
 
 Die Institute sind verpflichtet, ihre Verbindlichkeiten aus Wertpapiergeschäften nach Maßgabe dieses Gesetzes durch Zugehörigkeit zu einer Entschädigungseinrichtung zu sichern.
 
-
-## § 3 – Entschädigungsanspruch
+# § 3 – Entschädigungsanspruch
 
 (1) Der Gläubiger eines Instituts hat im Entschädigungsfall gegen die Entschädigungseinrichtung einen Anspruch auf Entschädigung nach Maßgabe des § 4.
 
@@ -89,8 +83,7 @@ Hat der Gläubiger des Instituts für Rechnung eines Dritten gehandelt und ist d
 
 (+++ §§ 3 bis 5: Zur Weiteranwendung vgl. § 63 Abs. 1 EinSiG +++)
 
-
-## § 4 – Umfang des Entschädigungsanspruchs
+# § 4 – Umfang des Entschädigungsanspruchs
 
 (1) Der Entschädigungsanspruch des Gläubigers des Instituts richtet sich nach der Höhe und dem Umfang der ihm gegenüber bestehenden Verbindlichkeiten aus Wertpapiergeschäften unter Berücksichtigung etwaiger Aufrechnungs- und Zurückbehaltungsrechte des Instituts. Ein Entschädigungsanspruch besteht nicht, soweit Gelder nicht auf die Währung eines EU-Mitgliedstaates oder auf Euro lauten.
 
@@ -106,8 +99,7 @@ Hat der Gläubiger des Instituts für Rechnung eines Dritten gehandelt und ist d
 
 (+++ §§ 3 bis 5: Zur Weiteranwendung vgl. § 63 Abs. 1 EinSiG +++)
 
-
-## § 5 – Entschädigungsverfahren
+# § 5 – Entschädigungsverfahren
 
 (1) Die Bundesanstalt hat den Entschädigungsfall unverzüglich festzustellen, spätestens jedoch innerhalb von 21 Tagen, nachdem sie davon Kenntnis erlangt hat, dass ein Institut nicht in der Lage ist, Verbindlichkeiten aus Wertpapiergeschäften zu erfüllen. Sie hat den Entschädigungsfall auch festzustellen, wenn Maßnahmen nach § 46 Absatz 1 Satz 2 Nummer 4 bis 6 des Kreditwesengesetzes angeordnet worden sind und diese länger als sechs Wochen andauern.
 
@@ -127,8 +119,7 @@ Hat der Gläubiger des Instituts für Rechnung eines Dritten gehandelt und ist d
 
 (+++ §§ 3 bis 5: Zur Weiteranwendung vgl. § 63 Abs. 1 EinSiG +++)
 
-
-## § 6 – Entschädigungseinrichtung
+# § 6 – Entschädigungseinrichtung
 
 (1) Bei der Kreditanstalt für Wiederaufbau wird eine Entschädigungseinrichtung als nicht rechtsfähiges Sondervermögen des Bundes errichtet, der die Institute gemäß § 1 Absatz 1 zugeordnet sind. Die Entschädigungseinrichtung kann im Rechtsverkehr handeln, klagen oder verklagt werden.
 
@@ -142,8 +133,7 @@ Hat der Gläubiger des Instituts für Rechnung eines Dritten gehandelt und ist d
 
 (6) Sofern die Bundesanstalt Kenntnis über Umstände bei einem Institut erlangt, welche voraussichtlich den Eintritt eines Entschädigungsfalls nach sich ziehen, hat sie die Entschädigungseinrichtung hiervon zu unterrichten.
 
-
-## § 7 – Beliehene Entschädigungseinrichtung; Verordnungsermächtigung
+# § 7 – Beliehene Entschädigungseinrichtung; Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Aufgaben und Befugnisse der Entschädigungseinrichtung einer juristischen Person des Privatrechts zuzuweisen, wenn diese bereit ist, die Aufgaben der Entschädigungseinrichtung zu übernehmen, und hinreichende Gewähr für die Erfüllung der Ansprüche der Entschädigungsberechtigten bietet (beliehene Entschädigungseinrichtung). Eine juristische Person bietet hinreichende Gewähr, wenn
 
@@ -157,8 +147,7 @@ Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finan
 
 (3) Eine beliehene Entschädigungseinrichtung unterliegt der Aufsicht der Bundesanstalt. Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Durchführung der Entschädigung beeinträchtigen oder das zur Durchführung der Entschädigung angesammelte Vermögen gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen gegenüber der beliehenen Entschädigungseinrichtung die Auskunfts- und Prüfungsrechte nach § 44 Absatz 1 des Kreditwesengesetzes zu.
 
-
-## § 8 – Mittel der Entschädigungseinrichtung
+# § 8 – Mittel der Entschädigungseinrichtung
 
 (1) Die Mittel für die Durchführung der Entschädigung werden durch Beiträge der Institute erbracht. Die Beiträge der Institute müssen die Ansprüche gegen die Entschädigungseinrichtung, die entstehenden Verwaltungskosten und sonstige Kosten, die durch die Tätigkeit der Entschädigungseinrichtung entstehen, decken. Die für die Entschädigung angesammelten Mittel sind nach dem Gesichtspunkt der Risikomischung so anzulegen, dass eine möglichst große Sicherheit und ausreichende Liquidität der Anlagen bei angemessener Rentabilität gewährleistet sind.
 
@@ -184,8 +173,7 @@ Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finan
 
 (+++ § 8: Zur Weiteranwendung vgl. § 63 Abs. 3 EinSiG +++)
 
-
-## § 9 – Prüfung der Institute
+# § 9 – Prüfung der Institute
 
 (1) Die Entschädigungseinrichtung soll zur Einschätzung der Gefahr des Eintritts eines Entschädigungsfalls regelmäßig und bei gegebenem Anlass Prüfungen der ihr zugeordneten Institute vornehmen. Sie hat die Intensität und Häufigkeit der Prüfungen an der Wahrscheinlichkeit des Eintritts eines Entschädigungsfalls bei einem Institut und an der Höhe der in diesem Fall zu erwartenden Gesamtentschädigung auszurichten. Widerspruch und Anfechtungsklage gegen die Prüfungen haben keine aufschiebende Wirkung.
 
@@ -203,8 +191,7 @@ Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finan
 
 (8) Erhält die Entschädigungseinrichtung im Rahmen einer Prüfung nach Absatz 1 oder in sonstiger Weise Kenntnis von Umständen, welche die Gefahr des Eintritts des Entschädigungsfalls bei einem Institut begründen, hat sie diese unverzüglich der Bundesanstalt mitzuteilen.
 
-
-## § 10 – Prüfung der Entschädigungseinrichtung
+# § 10 – Prüfung der Entschädigungseinrichtung
 
 (1) Die Entschädigungseinrichtung hat nach Ablauf eines Kalenderjahres einen Geschäftsbericht aufzustellen und einen unabhängigen Wirtschaftsprüfer oder eine unabhängige Wirtschaftsprüfungsgesellschaft mit der Prüfung der Vollständigkeit des Geschäftsberichts und der Richtigkeit der Angaben zu beauftragen. Die Entschädigungseinrichtung hat der Bundesanstalt den von ihr bestellten Prüfer unverzüglich nach der Bestellung anzuzeigen. Die Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist; Widerspruch und Anfechtungsklage hiergegen haben keine aufschiebende Wirkung. Der Geschäftsbericht muss Angaben zu der Tätigkeit und zu den finanziellen Verhältnissen der Entschädigungseinrichtung, insbesondere zu der Höhe und der Anlage der Mittel, zu der Verwendung der Mittel für Entschädigungsfälle, zu der Höhe der Beiträge sowie zu den Kosten der Verwaltung enthalten.
 
@@ -212,15 +199,13 @@ Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finan
 
 (3) Wurde die Wahrnehmung der Aufgaben und Befugnisse der Entschädigungseinrichtung nach § 7 einem Beliehenen übertragen, prüft der Bundesrechnungshof die beliehene Entschädigungseinrichtung im Hinblick auf eine ordnungsgemäße Haushalts- und Wirtschaftsführung. Die §§ 89, 90, 92 bis 100 der Bundeshaushaltsordnung sind entsprechend anzuwenden. Der Bundesrechnungshof ist unverzüglich zu unterrichten, wenn oberste Bundesbehörden allgemeine Vorschriften erlassen oder erläutern, welche die Entschädigungseinrichtung betreffen. Der Bundesrechnungshof ist vor dem Erlass dieser Vorschriften zu hören.
 
-
-## § 11 – Ausschluss aus der Entschädigungseinrichtung
+# § 11 – Ausschluss aus der Entschädigungseinrichtung
 
 (1) Erfüllt ein Institut die Beitrags- oder Mitwirkungspflichten nach § 8 oder § 9 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig, so hat die Entschädigungseinrichtung die Bundesanstalt und die Deutsche Bundesbank zu unterrichten. Erfüllt das Institut auch innerhalb eines Monats nach Aufforderung durch die Bundesanstalt seine Verpflichtungen nicht, kann die Entschädigungseinrichtung dem Institut mit einer Frist von zwölf Monaten den Ausschluss aus der Entschädigungseinrichtung ankündigen. Erfüllt das Institut die Verpflichtungen auch weiterhin nicht, kann die Entschädigungseinrichtung mit Zustimmung der Bundesanstalt nach Ablauf dieser Frist das Institut von der Entschädigungseinrichtung ausschließen. Nach dem Ausschluss haftet die Entschädigungseinrichtung nur noch für Verbindlichkeiten des Instituts, die vor Ablauf dieser Frist begründet wurden.
 
 (2) Fällt die Erlaubnis zum Betreiben von Wertpapiergeschäften gemäß § 1 Absatz 2 weg, haftet die Entschädigungseinrichtung nur noch für Verbindlichkeiten des Instituts, die vor dem Wegfall begründet wurden.
 
-
-## § 12 – Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
+# § 12 – Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums
 
 (1) Zweigniederlassungen eines Unternehmens im Sinne des § 53b des Kreditwesengesetzes haben zu den für inländische Institute geltenden Bedingungen einen Anspruch auf Einbeziehung in eine Entschädigungseinrichtung, sofern die Entschädigung nach diesem Gesetz nach Höhe oder Umfang die Sicherung im Herkunftsstaat des Unternehmens übersteigt. Voraussetzung ist, dass dem Unternehmen in seinem Herkunftsstaat die Erlaubnis zum Betreiben der Geschäfte eines Wertpapierhandelsunternehmens im Sinne des § 1 Absatz 3d des Kreditwesengesetzes erteilt ist.
 
@@ -232,13 +217,11 @@ Durch die Rechtsverordnung nach Satz 1 kann sich das Bundesministerium der Finan
 
 (5) Die Entschädigungseinrichtung arbeitet in Abstimmung mit der Bundesanstalt in den Fällen der Absätze 1 bis 4 mit der Entschädigungseinrichtung des Herkunftsstaats zusammen.
 
-
-## § 13 – Verschwiegenheitspflicht
+# § 13 – Verschwiegenheitspflicht
 
 Personen, die bei der Entschädigungseinrichtung beschäftigt oder für sie tätig sind, dürfen fremde Geheimnisse, insbesondere Betriebs- oder Geschäftsgeheimnisse, nicht unbefugt offenbaren oder verwerten. Sie sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469, 547), das durch § 1 Nummer 4 des Gesetzes vom 15. August 1974 (BGBl. I S. 1942) geändert worden ist, von der Bundesanstalt auf eine gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten. Ein unbefugtes Offenbaren oder Verwerten fremder Geheimnisse liegt insbesondere nicht vor, wenn Tatsachen an die Bundesanstalt oder die Deutsche Bundesbank weitergegeben werden.
 
-
-## § 13a – Verarbeitung personenbezogener Daten
+# § 13a – Verarbeitung personenbezogener Daten
 
 (1) Die Entschädigungseinrichtung ist befugt, personenbezogene Daten zu verarbeiten, soweit dies zur Erfüllung ihrer gesetzlichen Aufgaben erforderlich ist. Verarbeitet die Entschädigungseinrichtung im Zuge einer Maßnahme zur Durchführung ihrer Aufgaben nach diesem Gesetz personenbezogene Daten, stehen den betroffenen Personen die Rechte aus den Artikeln 15 bis 18 und 20 bis 22 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung nicht zu, soweit die Erfüllung der Rechte der betroffenen Personen Folgendes gefährden würde:
 
@@ -258,13 +241,11 @@ Unter diesen Voraussetzungen ist die Entschädigungseinrichtung auch von den Pfl
 
 (4) Soweit Personen und Unternehmen personenbezogene Daten zur Erfüllung der Aufgaben nach Absatz 1 an die Entschädigungseinrichtung übermitteln oder diese von dort erhoben werden, bestehen die Pflicht zur Information der betroffenen Person nach Artikel 13 Absatz 3 und Artikel 14 Absatz 4 der Verordnung (EU) 2016/679 und das Recht auf Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 nicht.
 
-
-## § 14 – Nichtanwendung des Versicherungsaufsichtsgesetzes
+# § 14 – Nichtanwendung des Versicherungsaufsichtsgesetzes
 
 Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für Entschädigungseinrichtungen im Sinne der §§ 6 und 7.
 
-
-## § 15 – Bußgeldvorschriften
+# § 15 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig entgegen § 9 Absatz 2 Satz 1 den Jahresabschluss mit dem dazugehörigen Prüfungsbericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht.
 
@@ -274,22 +255,19 @@ Die Vorschriften des Versicherungsaufsichtsgesetzes gelten nicht für Entschädi
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
-## § 16 – Zwangsmittel
+# § 16 – Zwangsmittel
 
 (1) Die Entschädigungseinrichtung kann die Befolgung der Verfügungen, die sie innerhalb ihrer gesetzlichen Befugnisse trifft, mit Zwangsmitteln nach den Bestimmungen des Verwaltungsvollstreckungsgesetzes durchsetzen.
 
 (2) Die Höhe des Zwangsgeldes beträgt bei Maßnahmen gemäß § 8 Absatz 1, 2 Satz 1, § 9 Absatz 2 Satz 1, Absatz 3 und 6 Satz 1 und 2 bis zu 50 000 Euro, bei Maßnahmen nach § 9 Absatz 1 Satz 1 bis zu 100 000 Euro.
 
-
-## § 17 – Zeitlicher Anwendungsbereich
+# § 17 – Zeitlicher Anwendungsbereich
 
 (1) Ein Anspruch auf Entschädigung nach diesem Gesetz besteht für einen Entschädigungsfall wegen Nichterfüllung von Verbindlichkeiten aus Wertpapiergeschäften nur, wenn dieser Entschädigungsfall nach dem 25. September 1998 eingetreten ist.
 
 (2) Ansprüche auf Entschädigung nach diesem Gesetz können erstmals ab dem 1. November 1998 angemeldet werden. Sofern die Unterrichtung gemäß § 5 Absatz 4 vorher erfolgt ist, beginnt die Anmeldefrist gemäß § 5 Absatz 5 erst ab dem 1. November 1998.
 
-
-## § 18 – Anwendungsbestimmung und Übergangsregelung
+# § 18 – Anwendungsbestimmung und Übergangsregelung
 
 (1) Bis zum 31. Dezember 2010 können die Entschädigungseinrichtungen und Institute § 5 weiter in der bis zum 29. Juni 2009 geltenden Fassung anwenden.
 

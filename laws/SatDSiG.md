@@ -1,13 +1,9 @@
-# [SatDSiG] Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten  (Satellitendatensicherheitsgesetz - SatDSiG)
-
-Ausfertigungsdatum: 23.11.2007
-
+% Gesetz zum Schutz vor Gefährdung der Sicherheit der Bundesrepublik Deutschland durch das Verbreiten von hochwertigen Erdfernerkundungsdaten  (Satellitendatensicherheitsgesetz - SatDSiG)
+% Ausfertigungsdatum: 23.11.2007
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt
 
@@ -29,8 +25,7 @@ c) soweit das Verbreiten der Daten vom Bundesgebiet aus erfolgt.
 
 (2) Dieses Gesetz gilt nicht für den Betrieb hochwertiger Erdfernerkundungssysteme durch eine staatliche Stelle mit militärischen oder nachrichtendienstlichen Aufgaben, soweit die Kenntnisnahme der erzeugten Daten durch Unbefugte ausgeschlossen ist. Von der Anwendung des Gesetzes ist abzusehen, wenn der Betrieb eines hochwertigen Erdfernerkundungssystems nach den Rechtsvorschriften eines anderen Mitgliedstaates der Europäischen Union erlaubt ist und diese Rechtsvorschriften den Regelungen und Schutzinteressen dieses Gesetzes vergleichbar sind. Die zuständige Behörde kann von der Anwendung des Gesetzes absehen, soweit die Rechtsvorschriften eines Drittstaates die Voraussetzungen des Satzes 2 erfüllen und eine völkerrechtliche Vereinbarung zwischen dem Drittstaat und der Bundesrepublik Deutschland besteht, in der die Vergleichbarkeit der Regelungen und Schutzinteressen festgestellt ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Gesetzes
 
@@ -78,8 +73,7 @@ Bei Mikrowellen- oder Radarsensoren ist der Informationsgehalt auch zu bestimmen
 
 Die Bestimmungen berücksichtigen die möglichen Auswirkungen, die ein Verbreiten von Daten mit besonders hohem Informationsgehalt auf die wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland, das friedliche Zusammenleben der Völker und die auswärtigen Beziehungen der Bundesrepublik Deutschland hat.
 
-
-## § 3 – Genehmigung
+# § 3 – Genehmigung
 
 (1) Der Betrieb eines hochwertigen Erdfernerkundungssystems bedarf der Genehmigung.
 
@@ -89,8 +83,7 @@ Die Bestimmungen berücksichtigen die möglichen Auswirkungen, die ein Verbreite
 
 (4) Ist ein raumgestütztes Erdfernerkundungssystem nicht hochwertig, so hat die zuständige Behörde dies auf Antrag des Betreibers festzustellen. Entfällt nachträglich das Genehmigungserfordernis durch Änderung der Bestimmungen nach § 2 Abs. 2, so erlischt die Genehmigung.
 
-
-## § 4 – Genehmigungsvoraussetzungen
+# § 4 – Genehmigungsvoraussetzungen
 
 (1) Die Genehmigung ist zu erteilen, wenn
 
@@ -114,8 +107,7 @@ im Bundesgebiet hergestellt und durch ein vom Bundesamt für Sicherheit in der I
 
 (2) Der Betreiber hat Personen, welche Zugang zu den Anlagen der Kommandierung eines hochwertigen Erdfernerkundungssystems oder zu den Anlagen zum Empfang, zur Verarbeitung und zur Speicherung der Daten solcher Systeme haben, durch die zuständige Behörde einer einfachen Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz unterziehen zu lassen.
 
-
-## § 5 – Dokumentationspflicht
+# § 5 – Dokumentationspflicht
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems ist verpflichtet,
 
@@ -131,8 +123,7 @@ aufzuzeichnen.
 
 (2) Die Aufzeichnungen nach Absatz 1 sind mindestens fünf Jahre nach Ausführung der jeweiligen Befehlsfolge aufzubewahren und zur Einsichtnahme durch die zuständige Behörde bereitzuhalten.
 
-
-## § 6 – Anzeigepflicht
+# § 6 – Anzeigepflicht
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der zuständigen Behörde
 
@@ -150,20 +141,17 @@ unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 (2) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der zuständigen Behörde unverzüglich schriftlich oder elektronisch anzuzeigen, an welche nach § 11 zugelassenen Personen er Daten übermittelt.
 
-
-## § 7 – Auskunftspflicht
+# § 7 – Auskunftspflicht
 
 (1) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der zuständigen Behörde auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies zur Überwachung der Einhaltung dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen erforderlich ist.
 
 (2) Auskunftspflichtige Personen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr einer strafrechtlichen Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 8 – Betretens- und Prüfungsrechte
+# § 8 – Betretens- und Prüfungsrechte
 
 Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen Betriebs- und Geschäftszeiten die Betriebs- und Geschäftsräume des Betreibers eines hochwertigen Erdfernerkundungssystems zu betreten und die zur Erfüllung ihrer Aufgaben erforderlichen Prüfungen vorzunehmen; die §§ 196, 197 Abs. 1 Satz 1 und 2 und Abs. 2, §§ 198, 199 Abs. 2 und §§ 200 bis 202 der Abgabenordnung gelten entsprechend.
 
-
-## § 9 – Maßnahmen der zuständigen Behörde
+# § 9 – Maßnahmen der zuständigen Behörde
 
 (1) Die zuständige Behörde kann gegenüber dem Betreiber eines hochwertigen Erdfernerkundungssystems im Einzelfall diejenigen Maßnahmen anordnen, die zur ordnungsgemäßen Erfüllung seiner Pflichten erforderlich sind.
 
@@ -175,20 +163,17 @@ Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen Betrieb
 
 (3) Die durch die Bestellung des Sonderbeauftragten entstehenden Kosten einschließlich der diesem zu gewährenden Vergütung trägt der Betreiber des hochwertigen Erdfernerkundungssystems. Die zuständige Behörde setzt die Höhe der Vergütung fest.
 
-
-## § 10 – Betriebsübernahme
+# § 10 – Betriebsübernahme
 
 Die vollständige oder teilweise Übernahme des Betriebs eines hochwertigen Erdfernerkundungssystems oder von Teilen eines solchen bedarf der Erlaubnis, wenn durch die Übernahme die Genehmigungspflicht nach § 3 Abs. 1 entfällt. Der Antrag auf Erteilung der Erlaubnis ist vom Übernehmenden zu stellen. Die Erlaubnis ist zu erteilen, wenn der weitere Betrieb des hochwertigen Erdfernerkundungssystems oder von Teilen des hochwertigen Erdfernerkundungssystems die wesentlichen Sicherheitsinteressen der Bundesrepublik Deutschland nicht gefährdet.
 
-
-## § 11 – Zulassung
+# § 11 – Zulassung
 
 (1) Ein Datenanbieter, der Daten verbreiten will, bedarf der Zulassung.
 
 (2) Nachträgliche Änderungen der Zulassung sind zulässig, wenn dies erforderlich ist, um die Einhaltung der Zulassungsvoraussetzungen im Falle nachträglich eingetretener Tatsachen oder einer geänderten Rechtsvorschrift sicherzustellen.
 
-
-## § 12 – Zulassungsvoraussetzungen
+# § 12 – Zulassungsvoraussetzungen
 
 (1) Die Zulassung ist zu erteilen, wenn
 
@@ -202,8 +187,7 @@ Die vollständige oder teilweise Übernahme des Betriebs eines hochwertigen Erdf
 
 (2) Der Datenanbieter hat Personen, welche Zugang zu den Anlagen zum Empfang, zur Verarbeitung und zur Speicherung von Daten eines hochwertigen Erdfernerkundungssystems haben, durch die zuständige Behörde einer einfachen Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz unterziehen zu lassen.
 
-
-## § 13 – Anzeigepflicht
+# § 13 – Anzeigepflicht
 
 Der Datenanbieter hat der zuständigen Behörde
 
@@ -219,20 +203,17 @@ b) soweit der Datenanbieter in der Rechtsform einer Gesellschaft mit beschränkt
 
 unverzüglich schriftlich oder elektronisch anzuzeigen.
 
-
-## § 14 – Auskunftspflicht
+# § 14 – Auskunftspflicht
 
 (1) Der Datenanbieter hat der zuständigen Behörde auf Verlangen Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies zur Überwachung der Einhaltung dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen erforderlich ist.
 
 (2) Der Datenanbieter kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr einer strafrechtlichen Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 15 – Betretens- und Prüfungsrechte
+# § 15 – Betretens- und Prüfungsrechte
 
 Die Beauftragten der zuständigen Behörde sind befugt, zu den üblichen Betriebs- und Geschäftszeiten die Betriebs- und Geschäftsräume des Datenanbieters zu betreten und die zur Erfüllung ihrer Aufgaben erforderlichen Prüfungen durchzuführen; die §§ 196, 197 Abs. 1 Satz 1 und 2 und Abs. 2, §§ 198, 199 Abs. 2 und §§ 200 bis 202 der Abgabenordnung gelten entsprechend.
 
-
-## § 16 – Maßnahmen der zuständigen Behörde
+# § 16 – Maßnahmen der zuständigen Behörde
 
 Die zuständige Behörde kann gegenüber dem Datenanbieter im Einzelfall diejenigen Maßnahmen anordnen, die zur ordnungsgemäßen Erfüllung seiner Pflichten erforderlich sind. Sie kann insbesondere
 
@@ -240,8 +221,7 @@ Die zuständige Behörde kann gegenüber dem Datenanbieter im Einzelfall diejeni
 
 2. vorübergehend das Verbreiten von Daten untersagen.
 
-
-## § 17 – Sensitivitätsprüfung
+# § 17 – Sensitivitätsprüfung
 
 (1) Der Datenanbieter, der eine Anfrage auf Verbreiten von Daten eines hochwertigen Erdfernerkundungssystems bedienen will, hat die Anfrage nach Maßgabe einer Rechtsverordnung nach Absatz 3 auf ihre Sensitivität zu prüfen.
 
@@ -259,8 +239,7 @@ in ihrer Zusammenschau die Möglichkeit eines Schadenseintritts für die wesentl
 
 (3) Das Bundesministerium für Wirtschaft und Energie hat im Einvernehmen mit dem Bundesministerium der Verteidigung, dem Auswärtigen Amt und dem Bundesministerium des Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zu erlassen, unter welchen Voraussetzungen nach Absatz 2 die Möglichkeit eines Schadenseintritts für die genannten Schutzgüter gegeben ist. Dabei berücksichtigt es regelmäßig zu aktualisierende Feststellungen der Sicherheitsanforderungen der betroffenen Behörden, die Verpflichtungen und Vereinbarungen der Bundesrepublik Deutschland gegenüber den Mitgliedstaaten der Europäischen Union, den Parteien des Nordatlantikvertrages vom 4. April 1949 (BGBl. 1955 II S. 289) in der Fassung des Protokolls vom 17. Oktober 1951 (BGBl. 1955 II S. 293) und gegenüber Australien, Japan, Neuseeland und der Schweiz, den Stand der Technik in Bezug auf die Erzeugung von Daten mit besonders hohem Informationsgehalt, die bestehenden Regelungen, unter denen der Anfragende die Daten weiter übermitteln könnte, und die Verfügbarkeit von vergleichbaren Daten auf internationalen Märkten. In der Rechtsverordnung ist festzulegen, nach welchem Verfahren die Zusammenschau nach Absatz 2 Satz 1 und 2 erfolgt. Die Rechtsverordnung darf dem Datenanbieter keinen eigenen Einschätzungsspielraum belassen, ob eine Anfrage sensitiv ist. Auf bevorstehende Änderungen der Rechtsverordnung kann der Datenanbieter hingewiesen werden. Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Auswärtigen Amt die Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle übertragen.
 
-
-## § 18 – Dokumentationspflicht
+# § 18 – Dokumentationspflicht
 
 (1) Der Datenanbieter ist verpflichtet, alle Anfragen auf Verbreiten von Daten eines hochwertigen Erdfernerkundungssystems aufzuzeichnen. Dies umfasst
 
@@ -292,8 +271,7 @@ Die Sätze 1 und 2 Nr. 4 bis 10 gelten entsprechend, wenn Daten ohne Anfrage ver
 
 (4) Der Datenanbieter hat dem Anfragenden die Aufbewahrung der Daten und die Möglichkeit der behördlichen Einsichtnahme mitzuteilen.
 
-
-## § 19 – Erlaubnis
+# § 19 – Erlaubnis
 
 (1) Will ein Datenanbieter eine sensitive Anfrage bedienen, bedarf er der Erlaubnis. Dies gilt auch, wenn er Daten eines hochwertigen Erdfernerkundungssystems ohne Anfrage verbreiten will.
 
@@ -303,8 +281,7 @@ Die Sätze 1 und 2 Nr. 4 bis 10 gelten entsprechend, wenn Daten ohne Anfrage ver
 
 (4) Die Erlaubnis wird unbeschadet privater Rechte Dritter erteilt.
 
-
-## § 20 – Sammelerlaubnis
+# § 20 – Sammelerlaubnis
 
 Die zuständige Behörde kann eine Sammelerlaubnis erteilen, wenn ein Datenanbieter
 
@@ -314,8 +291,7 @@ Die zuständige Behörde kann eine Sammelerlaubnis erteilen, wenn ein Datenanbie
 
 Die Sammelerlaubnis ergeht unter den Voraussetzungen des § 19 Abs. 2 und darf nur unter Vorbehalt des Widerrufs erteilt werden. Eine Sammelerlaubnis nach Satz 1 Nr. 1 hat zu bestimmen, welchen Informationsgehalt die Daten höchstens haben dürfen. Eine Sammelerlaubnis nach Satz 1 Nr. 2 darf nur für eine bestimmte Frist erteilt werden, die drei Jahre nicht überschreiten soll.
 
-
-## § 21 – Verpflichtung des Datenanbieters
+# § 21 – Verpflichtung des Datenanbieters
 
 In folgenden Fällen ist der Datenanbieter verpflichtet, Anfragen der Bundesrepublik Deutschland, vertreten durch das Bundeskanzleramt, auf Verbreiten von Daten gegenüber jeder anderen Anfrage vorrangig zu bedienen:
 
@@ -329,20 +305,17 @@ In folgenden Fällen ist der Datenanbieter verpflichtet, Anfragen der Bundesrepu
 
 5. wenn im Ausland eingesetzte militärische oder zivile Kräfte der Bundesrepublik Deutschland oder an den deutschen Auslandsvertretungen tätige Beschäftigte des auswärtigen Dienstes, die einer konkreten Beeinträchtigung der äußeren Sicherheit der Bundesrepublik Deutschland entgegenwirken, gegenwärtig gefährdet sind.
 
-
-## § 22 – Verpflichtung des Betreibers
+# § 22 – Verpflichtung des Betreibers
 
 Der Betreiber eines hochwertigen Erdfernerkundungssystems ist verpflichtet, in den Fällen des § 21 Aufträge zur Erzeugung von Daten für die Bundesrepublik Deutschland gegenüber jedem anderen Auftrag zur Erzeugung von Daten vorrangig zu behandeln. Unbeschadet des Satzes 1 soll die Erdfernerkundungsanfrage der Bundesrepublik Deutschland, vertreten durch das Bundeskanzleramt, bei einem Datenanbieter erfolgen. Erfolgt diese dennoch bei dem Betreiber eines hochwertigen Erdfernerkundungssystems, bedarf dieser zum Verbreiten dieser Daten keiner Zulassung nach § 11.
 
-
-## § 23 – Vergütung
+# § 23 – Vergütung
 
 (1) Unbeschadet der Verpflichtungen aus diesem Teil kann für die Erzeugung der Daten nach § 22 sowie für die Bedienung der Anfrage nach § 21 eine Vergütung verlangt werden. Die Vergütung soll dem jeweiligen durchschnittlichen Marktpreis entsprechen.
 
 (2) Weitergehende Ansprüche gegen die Bundesrepublik Deutschland sind ausgeschlossen.
 
-
-## § 24 – Zuständigkeit
+# § 24 – Zuständigkeit
 
 (1) Zuständige Behörde nach diesem Gesetz ist vorbehaltlich der Absätze 2 und 3 das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
@@ -350,8 +323,7 @@ Der Betreiber eines hochwertigen Erdfernerkundungssystems ist verpflichtet, in d
 
 (3) (weggefallen)
 
-
-## § 25 – Verfahren
+# § 25 – Verfahren
 
 (1) Eine Genehmigung nach § 3 Abs. 1, eine Zulassung nach § 11 Absatz 1 und eine Erlaubnis nach § 10 Satz 1 setzen jeweils einen schriftlichen Antrag voraus. Eine Erlaubnis nach § 19 Absatz 1 Satz 1 und 2 sowie nach § 20 Satz 1 setzt einen schriftlichen oder elektronischen Antrag voraus. Einem Antrag sind die zur Prüfung der Erteilungsvoraussetzungen notwendigen Unterlagen beizufügen.
 
@@ -359,13 +331,11 @@ Der Betreiber eines hochwertigen Erdfernerkundungssystems ist verpflichtet, in d
 
 (3) Verwaltungsakte nach diesem Gesetz sind schriftlich oder elektronisch zu erlassen.
 
-
-## § 26 – Gebühren und Auslagen
+# § 26 – Gebühren und Auslagen
 
 Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz erhebt die zuständige Behörde Gebühren und Auslagen. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die Gebührentatbestände, die Gebührenhöhe und die zu erstattenden Auslagen durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass die mit der Leistung verbundenen Kosten gedeckt sind. Die Bedeutung, der wirtschaftliche Wert oder sonstige Nutzen der individuell zurechenbaren öffentlichen Leistung für den Begünstigten werden angemessen berücksichtigt.
 
-
-## § 27 – Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
+# § 27 – Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
 
 (1) Die zuständige Behörde kann personenbezogene Daten, die ihr bei der Erfüllung ihrer Aufgaben nach diesem Gesetz bekannt geworden sind, an andere Behörden übermitteln, soweit die Kenntnis der personenbezogenen Daten aus ihrer Sicht erforderlich ist
 
@@ -379,8 +349,7 @@ Eine Übermittlung nach Satz 1 Nr. 2 ist nur zulässig, wenn tatsächliche Anhal
 
 (3) Betriebs- und Geschäftsgeheimnisse stehen personenbezogenen Daten gleich.
 
-
-## § 28 – Ordnungswidrigkeiten
+# § 28 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -414,8 +383,7 @@ c) nach § 19 Abs. 1 Satz 2 Daten ohne Anfrage verbreitet,
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 bis 5 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nr. 6 bis 8 mit einer Geldbuße bis zu fünfzigtausend Euro und in den Fällen des Absatzes 2 mit einer Geldbuße von bis zu fünfundzwanzigtausend Euro geahndet werden.
 
-
-## § 29 – Straftaten
+# § 29 – Straftaten
 
 (1) Mit Freiheitsstrafe bis fünf Jahren oder mit Geldstrafe wird bestraft, wer eine in § 28 Absatz 1 Nummer 1, 3 bis 5 oder 6 bezeichnete vorsätzliche Handlung begeht, die geeignet ist,
 
@@ -429,37 +397,31 @@ zu gefährden.
 
 (2) Der Versuch ist strafbar.
 
-
-## § 30 – Auslandstaten Deutscher
+# § 30 – Auslandstaten Deutscher
 
 § 29 gilt, unabhängig vom Recht des Tatorts, auch im Ausland, wenn der Täter zur Zeit der Tat Deutscher ist.
 
-
-## § 31 – Straf- und Bußgeldverfahren
+# § 31 – Straf- und Bußgeldverfahren
 
 (1) Soweit für Straftaten nach § 29 das Amtsgericht sachlich zuständig ist, ist örtlich zuständig das Amtsgericht, in dessen Bezirk das Landgericht seinen Sitz hat.
 
 (2) Im Strafverfahren gelten § 49 Abs. 2, § 63 Abs. 2 und 3 Satz 1 sowie § 76 Abs. 1 und 4 des Gesetzes über Ordnungswidrigkeiten über die Beteiligung der Verwaltungsbehörden im Verfahren der Staatsanwaltschaft und im gerichtlichen Verfahren entsprechend.
 
-
-## § 32
-
-\-
-
-
-## § 33
+# § 32
 
 \-
 
+# § 33
 
-## § 34 – Übergangsregelung
+\-
+
+# § 34 – Übergangsregelung
 
 (1) Der bei Inkrafttreten dieses Gesetzes bestehende Betrieb eines hochwertigen Erdfernerkundungssystems gilt bis zum Eintritt der Unanfechtbarkeit der Entscheidung über den Genehmigungsantrag als genehmigt, wenn dieser Antrag innerhalb von drei Monaten ab Inkrafttreten dieses Gesetzes gestellt wird.
 
 (2) Absatz 1 gilt entsprechend für die Zulassung als Datenanbieter. Die Pflichten des Datenanbieters nach § 17 Abs. 1 und § 19 Abs. 1 gelten bis zum Inkrafttreten der Rechtsverordnung nach § 17 Abs. 3 als erfüllt.
 
-
-## § 35 – Inkrafttreten
+# § 35 – Inkrafttreten
 
 (1) § 2 Abs. 2, § 17 Abs. 3 und § 26 Satz 2 bis 4 treten am Tag nach der Verkündung in Kraft.
 

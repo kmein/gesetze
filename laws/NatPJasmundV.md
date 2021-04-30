@@ -1,22 +1,17 @@
-# [NatPJasmundV] Verordnung über die Festsetzung des Nationalparks Jasmund
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung des Nationalparks Jasmund
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12 und 14 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) Die in § 2 näher bezeichnete Wald- und Küstenlandschaft der Stubnitz auf der Halbinsel Jasmund (Rügen) wird als Naturpark festgesetzt.
 
 (2) Der Nationalpark erhält die Bezeichnung "Nationalpark Jasmund".
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Der Nationalpark Jasmund umfaßt mit dem von Buchenwäldern bedeckten reliefierten Kreidehorst der Halbinsel Jasmund einschließlich der Kreidesteilküste eine einzigartige Landschaft, die zu den letzten Naturlandschaften Mitteleuropas gehört. Quellen, Bäche, Moore und Kreidekliffs sind mannigfaltige Lebensräume für eine außerordentliche Vielfalt an seltenen und biogeographisch bemerkenswerten Pflanzen- und Tierarten.
 
@@ -32,8 +27,7 @@ Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl.
 
 (4) Die Grenze des Nationalparkes ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüberhinaus ist die Grenze des Nationalparkes in der Topographischen Karte 1:10.000 (Ausgabe für die Volkswirtschaft) rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt wird und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Nationalparkverwaltung und bei der Kreisverwaltung Rügen. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Mit der Festsetzung zum Nationalpark wird bezweckt:
 
@@ -49,8 +43,7 @@ Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl.
 
 (2) In dem Nationalpark wird keine wirtschaftsbestimmte Nutzung bezweckt; er soll aber zur Strukturverbesserung der angrenzenden Gebiete dienen.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Gebiet des Nationalparkes Jasmund wird in die Schutzzonen I, II und III gegliedert.
 
@@ -80,8 +73,7 @@ d) alle Äcker und von Wald eingeschlossenen Grünlandflächen.
 
 (5) Die Grenzen der Schutzzonen sind in der in § 2 Abs. 4 genannten Karte M 1:10.000 eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Nationalpark ist es geboten,
 
@@ -107,8 +99,7 @@ d) alle Äcker und von Wald eingeschlossenen Grünlandflächen.
 
 (2) Zur Umsetzung der in den Absätzen 1 bis 3 genannten Gebote, sowie zur Erhaltung, Pflege und Entwicklung des Nationalparkes, soll in angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Alle Handlungen, die zu einer Zerstörung, Beschädigung oder Veränderung des Nationalparkes oder seiner Bestandteile oder zu einer nachhaltigen Beeinträchtigung oder Störung führen können, sind verboten. Insbesondere ist es verboten,
 
@@ -158,8 +149,7 @@ d) alle Äcker und von Wald eingeschlossenen Grünlandflächen.
 
 (2) Weiter ist es verboten, Geräte mitzuführen, die ausschließlich oder überwiegend für Handlungen benutzt werden können, die gemäß Absatz 1 verboten sind.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -177,8 +167,7 @@ d) alle Äcker und von Wald eingeschlossenen Grünlandflächen.
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Nationalparks (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8
+# § 8
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -192,8 +181,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (3) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Nationalparkverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei:
 
@@ -201,34 +189,28 @@ Das Einvernehmen mit der Nationalparkverwaltung ist herzustellen bei:
 
 2. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Diese Verordnung tritt am 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1467)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

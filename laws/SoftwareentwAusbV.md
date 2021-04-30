@@ -1,25 +1,19 @@
-# [SoftwareentwAusbV] Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
-
-Ausfertigungsdatum: 14.03.2007
-
+% Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
+% Ausfertigungsdatum: 14.03.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Mathematisch-technischer Softwareentwickler/Mathematisch-technische Softwareentwicklerin wird nach § 4 Abs. 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -119,8 +113,7 @@ Arbeitsplanung,
 3.3  
 Teamarbeit, Projektmanagement.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 und 6 nachzuweisen.
 
@@ -128,8 +121,7 @@ Teamarbeit, Projektmanagement.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Zwischenprüfung
+# § 5 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zur Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -159,8 +151,7 @@ statt.
 
 3. die Prüfungszeit beträgt höchstens 60 Minuten.
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -284,23 +275,19 @@ bewertet worden sind.
 
 (9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als "ausreichend" bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 7 – Nichtanwenden von Vorschriften
+# § 7 – Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Mathematisch-technischer Assistent/Mathematisch-technische Assistentin sind vorbehaltlich des § 8 nicht mehr anzuwenden.
 
-
-## § 8 – Bestehende Berufsausbildungsverhältnisse
+# § 8 – Bestehende Berufsausbildungsverhältnisse
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
-
-## Anlage – (zu § 3 Abs. 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
+# Anlage – (zu § 3 Abs. 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
 
 (Fundstelle: BGBl. I 2007, 329 - 334)
 

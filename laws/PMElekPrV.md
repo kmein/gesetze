@@ -1,15 +1,11 @@
-# [PMElekPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager - Electric/Electronics)
-
-Ausfertigungsdatum: 10.08.2009
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager - Electric/Electronics)
+% Ausfertigungsdatum: 10.08.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Prozessmanager Elektrotechnik/zur Geprüften Prozessmanagerin Elektrotechnik (Certified Process Manager – Electric/Electronics) nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -97,8 +93,7 @@ l) Wahrnehmen von operativen Personalmanagementaufgaben.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager – Electric/Electronics)“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -114,8 +109,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -127,8 +121,7 @@ Die Prüfung gliedert sich in die Prüfungsteile:
 
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens fünf Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
-
-## § 4 – Prüfungsteil „Prozess- und Projektmanagement“
+# § 4 – Prüfungsteil „Prozess- und Projektmanagement“
 
 (1) Im Prüfungsteil „Prozess- und Projektmanagement“ soll die Befähigung nachgewiesen werden, Prozesse in einem der Handlungsfelder
 
@@ -200,8 +193,7 @@ h) Darstellen von Konzeptionen und Lösungsvorschlägen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“
+# § 5 – Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“
 
 (1) Im Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“ soll die Befähigung nachgewiesen werden, Aufgaben des Engineerings unter technischen, organisatorischen, betriebswirtschaftlichen und personellen Gesichtspunkten, sowie unter Beachtung von Vorschriften, Regelwerken und Vorgaben bearbeiten und dabei Analysen durchführen, Konzepte für Lösungen entwickeln und Planungen durchführen zu können. Insbesondere sollen folgende Befähigungen nachgewiesen werden:
 
@@ -225,8 +217,7 @@ c) Auswählen und Festlegen von Verfahren und Plänen zur Überprüfung funktion
 
 (3) Wurde in nicht mehr als einer Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 6 – Prüfungsteil „Personalmanagement“
+# § 6 – Prüfungsteil „Personalmanagement“
 
 (1) Im Prüfungsteil „Personalmanagement“ soll die Befähigung nachgewiesen werden, Aufgaben und Maßnahmen in den Bereichen Personalbedarf, Personaleinsatz und Personalführung in einem berufstypischen Arbeitsbereich oder Projekt bearbeiten und in diesem Zusammenhang personelle Probleme analysieren und Lösungen entsprechend den betrieblichen Anforderungen sowie arbeitsrechtlicher und tariflicher Bestimmungen erarbeiten zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -260,15 +251,13 @@ c) Auswählen und Festlegen von Verfahren und Plänen zur Überprüfung funktion
 
 (3) Wurde in der Situationsaufgabe eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Bei einer ungenügenden schriftlichen Prüfungsleistung besteht diese Möglichkeit nicht. Die einzelne Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 3 oder § 9 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bewerten der Prüfungsleistungen
+# § 8 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 2 mit Punkten zu bewerten.
 
@@ -278,15 +267,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 8 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
 
 (2) Ist die Prüfung bestanden, ist die Bewertung für den Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“ kaufmännisch auf eine ganze Zahl zu runden.
 
-(3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die jeweilige Note als Dezimalzahl zuzuordnen.  
-Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel zu berechnen aus:
+(3) Den Bewertungen für die Prüfungsteile ist nach Anlage 2 die jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel zu berechnen aus:
 
 1. der Bewertung der Prüfungsleistungen im Prüfungsteil „Prozess- und Projektmanagement“,
 
@@ -298,8 +285,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und B.
 
@@ -313,8 +299,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -322,15 +307,13 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu § 2 Absatz 2)Spezialistenprofile in der Elektrotechnik
+# Anlage 1 – (zu § 2 Absatz 2)Spezialistenprofile in der Elektrotechnik
 
 (Fundstelle: BGBl. I 2009, 2846 - 2849; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -670,8 +653,7 @@ Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Per
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 2 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2319 – 2320)
 
@@ -680,8 +662,7 @@ Die Qualifikation ist durch ein Zeugnis einer zuständigen Stelle, durch ein Per
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 10)Zeugnisinhalte
+# Anlage 3 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2321)
 

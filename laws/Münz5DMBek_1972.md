@@ -1,10 +1,7 @@
-# [Münz5DMBek 1972] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Dürer-Gedenkmünze)
-
-Ausfertigungsdatum: 15.11.1972
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Dürer-Gedenkmünze)
+% Ausfertigungsdatum: 15.11.1972
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 500. Wiederkehr des Geburtstages von Albrecht Dürer eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte im Bayerischen Hauptmünzamt, die Auflage beträgt 8 Millionen Stück.
 
@@ -44,13 +41,11 @@ Zwischen den Worten "SEHEN" und "DER" ist ein kleiner Punkt eingeprägt.
 
 (9) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

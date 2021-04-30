@@ -1,10 +1,7 @@
-# [TierSchNutztV] Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung tierischer Produkte gehaltener Tiere bei ihrer Haltung  (Tierschutz-Nutztierhaltungsverordnung - TierSchNutztV)
-
-Ausfertigungsdatum: 25.10.2001
-
+% Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung tierischer Produkte gehaltener Tiere bei ihrer Haltung  (Tierschutz-Nutztierhaltungsverordnung - TierSchNutztV)
+% Ausfertigungsdatum: 25.10.2001
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |              |                                                                                                        |
 |:-------------|:------------------------------------------------------------------------------------------------------:|
@@ -76,8 +73,7 @@ Ausfertigungsdatum: 25.10.2001
 | § 45         |                                          Übergangsregelungen                                           |
 | § 46         |                                    Inkrafttreten, Außerkrafttreten                                     |
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Halten von Nutztieren zu Erwerbszwecken.
 
@@ -89,8 +85,7 @@ Ausfertigungsdatum: 25.10.2001
 
 3. während eines Tierversuchs im Sinne des § 7 Absatz 2 des Tierschutzgesetzes, soweit für den verfolgten Zweck andere Anforderungen an das Halten unerlässlich sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -148,8 +143,7 @@ Im Sinne dieser Verordnung sind
 
 27. (weggefallen).
 
-
-## § 3 – Allgemeine Anforderungen an Haltungseinrichtungen
+# § 3 – Allgemeine Anforderungen an Haltungseinrichtungen
 
 (1) Nutztiere dürfen vorbehaltlich der Vorschriften der Abschnitte 2 bis 6 nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 6 entsprechen.
 
@@ -173,8 +167,7 @@ Im Sinne dieser Verordnung sind
 
 (6) In Ställen, in denen die Lüftung von einer elektrisch betriebenen Anlage abhängig ist, müssen eine Ersatzvorrichtung, die bei Ausfall der Anlage einen ausreichenden Luftaustausch gewährleistet, und eine Alarmanlage zur Meldung eines solchen Ausfalles vorhanden sein.
 
-
-## § 4 – Allgemeine Anforderungen an Überwachung, Fütterung und Pflege
+# § 4 – Allgemeine Anforderungen an Überwachung, Fütterung und Pflege
 
 (1) Wer Nutztiere hält, hat vorbehaltlich der Vorschriften der Abschnitte 2 bis 6 sicherzustellen, dass
 
@@ -202,8 +195,7 @@ Satz 1 Nr. 2 gilt nicht, soweit die Tiere in einer Weise gehalten werden, die ei
 
 (2) Wer Nutztiere hält, hat unverzüglich Aufzeichnungen über das Ergebnis der täglichen Überprüfung des Bestandes sowie alle medizinischen Behandlungen dieser Tiere und über die Zahl der bei jeder Kontrolle vorgefundenen verendeten Tiere, insbesondere über Anzahl und Ursache von Tierverlusten, zu führen. Diese Aufzeichnungen sind entbehrlich, soweit entsprechende Aufzeichnungen auf Grund anderer Rechtsvorschriften zu machen sind. Die Aufzeichnungen nach Satz 1 sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens drei Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 5 – Allgemeine Anforderungen an das Halten von Kälbern
+# § 5 – Allgemeine Anforderungen an das Halten von Kälbern
 
 Kälber dürfen, unbeschadet der Anforderungen des § 3, nur nach Maßgabe der folgenden Vorschriften sowie der §§ 6 bis 10 gehalten werden:
 
@@ -215,8 +207,7 @@ Kälber dürfen, unbeschadet der Anforderungen des § 3, nur nach Maßgabe der f
 
 Satz 1 Nr. 3 gilt nicht, wenn die Kälber in Gruppen gehalten werden, und zwar für jeweils längstens eine Stunde im Rahmen des Fütterns mit Milch- oder Milchaustauschertränke, und die Vorrichtungen zum Anbinden oder zum sonstigen Festlegen den Kälbern keine Schmerzen oder vermeidbare Schäden bereiten.
 
-
-## § 6 – Allgemeine Anforderungen an das Halten von Kälbern in Ställen
+# § 6 – Allgemeine Anforderungen an das Halten von Kälbern in Ställen
 
 (1) Kälber dürfen in Ställen nur gehalten werden, wenn diese den Anforderungen der Absätze 2 bis 7 entsprechen.
 
@@ -253,8 +244,7 @@ d) der im ganzen Liegebereich so beschaffen ist, dass er die Erfordernisse für 
 
 (7) Die Absätze 3, 5 und 6 gelten nicht für Ställe, die als Kaltställe oder Kälberhütten vorwiegend dem Schutz der Kälber gegen Niederschläge, Sonne und Wind dienen.
 
-
-## § 7 – Besondere Anforderungen an das Halten von Kälbern im Alter von bis zu zwei Wochen in Ställen
+# § 7 – Besondere Anforderungen an das Halten von Kälbern im Alter von bis zu zwei Wochen in Ställen
 
 Kälber im Alter von bis zu zwei Wochen dürfen nur in Ställen gehalten werden, wenn
 
@@ -264,8 +254,7 @@ Kälber im Alter von bis zu zwei Wochen dürfen nur in Ställen gehalten werden,
 
 zur Verfügung stehen.
 
-
-## § 8 – Besondere Anforderungen an das Halten von Kälbern im Alter von über zwei bis zu acht Wochen in Ställen
+# § 8 – Besondere Anforderungen an das Halten von Kälbern im Alter von über zwei bis zu acht Wochen in Ställen
 
 (1) Kälber im Alter von über zwei bis zu acht Wochen dürfen einzeln in Boxen nur gehalten werden, wenn
 
@@ -281,8 +270,7 @@ lang ist und
 
 (2) Kälber im Alter von über zwei bis zu acht Wochen dürfen vorbehaltlich des § 10 in Gruppen nur gehalten werden, wenn bei rationierter Fütterung alle Kälber der Gruppe gleichzeitig Futter aufnehmen können. Satz 1 gilt nicht bei Abruffütterung und technischen Einrichtungen mit vergleichbarer Funktion.
 
-
-## § 9 – Besondere Anforderungen an das Halten von Kälbern im Alter von über acht Wochen in Ställen
+# § 9 – Besondere Anforderungen an das Halten von Kälbern im Alter von über acht Wochen in Ställen
 
 (1) Kälber im Alter von über acht Wochen dürfen nur in Gruppen gehalten werden. Dies gilt nicht, wenn
 
@@ -306,8 +294,7 @@ lang ist und
 
 2. die frei verfügbare Boxenbreite bei Boxen mit bis zum Boden und über mehr als die Hälfte der Boxenlänge reichenden Seitenbegrenzungen mindestens 120 Zentimeter, bei anderen Boxen mindestens 100 Zentimeter beträgt.
 
-
-## § 10 – Platzbedarf bei Gruppenhaltung
+# § 10 – Platzbedarf bei Gruppenhaltung
 
 (1) Kälber dürfen vorbehaltlich des Absatzes 2 in Gruppen nur gehalten werden, wenn für jedes Kalb eine uneingeschränkt benutzbare Bodenfläche zur Verfügung steht, die nach Maßgabe des Satzes 2 mindestens so bemessen ist, dass es sich ohne Behinderung umdrehen kann. Entsprechend seinem Lebendgewicht muss hierbei jedem Kalb mindestens eine uneingeschränkt benutzbare Bodenfläche nach folgender Tabelle zur Verfügung stehen:  
 
@@ -323,8 +310,7 @@ in Quadratmeter</td></tr><tr class="even"><td style="text-align: center;">bis 15
 
 Mindestbodenfläche hat.
 
-
-## § 11 – Überwachung, Fütterung und Pflege
+# § 11 – Überwachung, Fütterung und Pflege
 
 Wer Kälber hält, hat, unbeschadet der Anforderungen des § 4, sicherzustellen, dass
 
@@ -350,13 +336,11 @@ a) täglich für mindestens zehn Stunden im Aufenthaltsbereich der Kälber eine 
 
 b) dem Tagesrhythmus angeglichen ist und möglichst gleichmäßig verteilt wird.
 
-
-## § 12 – Anwendungsbereich
+# § 12 – Anwendungsbereich
 
 Legehennen, die zu Erwerbszwecken gehalten werden, dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
 
-
-## § 13 – Allgemeine Anforderungen an Haltungseinrichtungen für Legehennen
+# § 13 – Allgemeine Anforderungen an Haltungseinrichtungen für Legehennen
 
 (1) Legehennen dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 5 sowie des § 13a entsprechen.
 
@@ -384,8 +368,7 @@ Legehennen, die zu Erwerbszwecken gehalten werden, dürfen, unbeschadet der Anfo
 
 (6) Legehennen dürfen an keiner Stelle des Aufenthaltsbereiches direkter Stromeinwirkung ausgesetzt sein. Dies gilt nicht für die Einzäunung eines Auslaufs im Freien.
 
-
-## § 13a – Besondere Anforderungen an Haltungseinrichtungen für Legehennen
+# § 13a – Besondere Anforderungen an Haltungseinrichtungen für Legehennen
 
 (1) Haltungseinrichtungen müssen
 
@@ -431,11 +414,9 @@ aufweisen. Satz 1 Nummer 2 gilt nicht für mobile Haltungseinrichtungen, die reg
 
 3. mit Tränken ausgestattet sein, soweit dies für die Gesundheit der Legehennen erforderlich ist.
 
+# § 13b – (weggefallen)
 
-## § 13b – (weggefallen)
-
-
-## § 14 – Überwachung, Fütterung und Pflege von Legehennen
+# § 14 – Überwachung, Fütterung und Pflege von Legehennen
 
 (1) Wer Legehennen hält, hat sicherzustellen, dass
 
@@ -449,13 +430,11 @@ aufweisen. Satz 1 Nummer 2 gilt nicht für mobile Haltungseinrichtungen, die reg
 
 (2) Wer Legehennen hält, hat über deren Legeleistung unverzüglich Aufzeichnungen zu machen. § 4 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 15 – Anlagen zur Erprobung neuer Haltungseinrichtungen
+# § 15 – Anlagen zur Erprobung neuer Haltungseinrichtungen
 
 Die zuständige Behörde kann im Einzelfall für längstens drei Jahre zur Erprobung von neuartigen Haltungseinrichtungen Ausnahmen von einzelnen Bestimmungen mit Ausnahme des § 13 Absatz 2 zulassen, wenn sichergestellt ist, dass in der Haltungseinrichtung ein artgemäßes Verhalten möglich ist. Dabei ist sicherzustellen, dass die Legehennen über ausreichende Möglichkeiten zum erhöhten Sitzen, Flattern und Aufbaumen verfügen und dass die sonstigen Vorgaben der Richtlinie 1999/74/EG des Rates vom 19.Juli 1999 zur Festlegung von Mindestanforderungen zum Schutz von Legehennen (ABl. EG Nr. L 203 S. 53) nicht unterschritten werden.
 
-
-## § 16 – Anwendungsbereich
+# § 16 – Anwendungsbereich
 
 Masthühner dürfen, unbeschadet der Anforderungen der §§ 3 und 4, in Betrieben mit 500 oder mehr Masthühnern nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden, soweit sie nicht
 
@@ -467,8 +446,7 @@ Masthühner dürfen, unbeschadet der Anforderungen der §§ 3 und 4, in Betriebe
 
 gehalten werden.
 
-
-## § 17 – Sachkunde
+# § 17 – Sachkunde
 
 (1) Masthühner darf nach dem 30. Juni 2010 nur halten, wer im Besitz einer gültigen Bescheinigung der zuständigen Behörde oder der sonst nach Landesrecht beauftragten Stelle (zuständige Stelle) über seine Sachkunde (Sachkundebescheinigung) ist.
 
@@ -518,8 +496,7 @@ c) ordnungsgemäße Tötung.
 
 (7) Der Halter der Masthühner hat sicherzustellen, dass die von ihm zur Pflege oder zum Einfangen und Verladen der Masthühner angestellten oder beschäftigten Personen in tierschutzrelevanten Kenntnissen gemäß Absatz 3 Nummer 1 und Fertigkeiten gemäß Absatz 3 Nummer 2, einschließlich tierschutzgerechter Tötungsmethoden, angewiesen und angeleitet werden.
 
-
-## § 18 – Anforderungen an Haltungseinrichtungen für Masthühner
+# § 18 – Anforderungen an Haltungseinrichtungen für Masthühner
 
 (1) Wer Masthühner hält, hat sicherzustellen, dass die Tränkevorrichtungen so installiert und instand gehalten werden, dass
 
@@ -562,8 +539,7 @@ Die zuständige Behörde kann im Einzelfall auf Antrag Abweichungen von Nummer 2
 
 (5) Masthühnerställe müssen mit Lichtöffnungen für den Einfall natürlichen Lichtes versehen sein, deren Gesamtfläche mindestens 3 Prozent der Stallgrundfläche entspricht und die so angeordnet sind, dass eine möglichst gleichmäßige Verteilung des Lichts über die gesamte Stallgrundfläche gewährleistet ist. Satz 1 gilt nicht für bestehende Gebäude, die vor dem 9. Oktober 2009 genehmigt oder in Benutzung genommen worden sind und über keine oder keine ausreichenden Lichtöffnungen verfügen und bei denen auf Grund fehlender technischer oder sonstiger Möglichkeiten nicht oder nur mit unverhältnismäßig hohem Aufwand der Einfall von natürlichem Tageslicht erreicht werden kann, soweit eine Ausleuchtung des Einstreu- und Versorgungsbereiches in der Haltungseinrichtung durch eine dem natürlichen Licht so weit wie möglich entsprechende künstliche Beleuchtung sichergestellt ist.
 
-
-## § 19 – Anforderungen an das Halten von Masthühnern
+# § 19 – Anforderungen an das Halten von Masthühnern
 
 (1) Wer Masthühner hält, hat sicherzustellen, dass
 
@@ -625,8 +601,7 @@ Diese Aufzeichnungen sind entbehrlich, soweit entsprechende Aufzeichnungen auf G
 
 (9) Soweit der Halter beabsichtigt, die Masthühnerbesatzdichte eines Masthühnerstalls auf über 33 kg/m² zu erhöhen, teilt er dies der zuständigen Behörde mindestens 15 Tage vor der erstmaligen Einstallung eines Masthühnerbestandes mit erhöhter Masthühnerbesatzdichte sowie jede weitere Änderung der Masthühnerbesatzdichte mindestens 15 Tage vor der Einstallung des Masthühnerbestandes mit geänderter Masthühnerbesatzdichte mit. Dabei ist die genaue Höhe der Masthühnerbesatzdichte anzugeben. Auf Verlangen der zuständigen Behörde muss die Mitteilung von einem Dokument begleitet sein, in dem die Angaben aus den Aufzeichnungen nach Absatz 5 zusammengefasst sind.
 
-
-## § 20 – Überwachung und Folgemaßnahmen im Schlachthof
+# § 20 – Überwachung und Folgemaßnahmen im Schlachthof
 
 (1) Der Halter eines Masthühnerbestands berechnet die tägliche Mortalitätsrate jedes Masttages sowie die kumulative tägliche Mortalitätsrate. Die tägliche Mortalitätsrate ist die Zahl der an einem Tag in einem Masthühnerstall verendeten sowie der an diesem Tag aufgrund von Krankheiten oder aus anderen Gründen getöteten Masthühner, geteilt durch die Zahl der sich an diesem Tag in dem betreffenden Masthühnerstall befindenden Masthühner, multipliziert mit 100. Die zum Zweck der Schlachtung ausgestallten Masthühner werden bei der Berechnung der täglichen Mortalitätsrate nicht berücksichtigt. Die kumulative tägliche Mortalitätsrate ist die Summe der täglichen Mortalitätsraten während eines Mastdurchgangs.
 
@@ -646,13 +621,11 @@ Diese Aufzeichnungen sind entbehrlich, soweit entsprechende Aufzeichnungen auf G
 
 anordnen. Sie kann ferner bei Verdacht auf unzulängliche Haltungsbedingungen, unzureichende Pflege oder unsachgemäßen Umgang mit den Tieren oder auf Grund einer Mitteilung nach Absatz 4, insbesondere bezüglich der Feststellung von Kontaktdermatitiden, Parasitosen oder Systemerkrankungen, gegenüber dem Halter weiter gehendere Untersuchungen anordnen. Die Ergebnisse dieser Untersuchungen sind der anordnenden Behörde unverzüglich vorzulegen.
 
-
-## § 21 – Anwendungsbereich
+# § 21 – Anwendungsbereich
 
 Schweine dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden. Die §§ 22 bis 25 und 27 Absatz 2 gelten nicht für Haltungseinrichtungen außerhalb von Ställen.
 
-
-## § 22 – Allgemeine Anforderungen an Haltungseinrichtungen für Schweine
+# § 22 – Allgemeine Anforderungen an Haltungseinrichtungen für Schweine
 
 (1) Schweine dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 4 entsprechen.
 
@@ -704,8 +677,7 @@ Satz 1 Nr. 1 gilt nicht für Abferkelbuchten.
 
 Abweichend von Satz 1 kann die Gesamtgröße der Fläche, durch die Tageslicht einfallen kann, auf bis zu 1,5 Prozent der Stallgrundfläche verkleinert werden, soweit die in Satz 1 vorgesehene Fläche aus Gründen der Bautechnik und der Bauart nicht erreicht werden kann. Satz 1, auch in Verbindung mit Satz 2, gilt nicht für Ställe, die in bestehenden Bauwerken eingerichtet werden sollen, soweit eine Ausleuchtung des Aufenthaltsbereiches der Schweine durch natürliches Licht aus Gründen der Bautechnik und der Bauart oder aus baurechtlichen Gründen nicht oder nur mit unverhältnismäßig hohem Aufwand erreicht werden kann und eine dem natürlichen Licht so weit wie möglich entsprechende künstliche Beleuchtung sichergestellt ist.
 
-
-## § 23 – Besondere Anforderungen an Haltungseinrichtungen für Saugferkel
+# § 23 – Besondere Anforderungen an Haltungseinrichtungen für Saugferkel
 
 (1) Saugferkel dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 4 entsprechen.
 
@@ -715,8 +687,7 @@ Abweichend von Satz 1 kann die Gesamtgröße der Fläche, durch die Tageslicht e
 
 (4) Der Liegebereich muss allen Ferkeln ein gleichzeitiges, ungestörtes Ruhen ermöglichen und entweder wärmegedämmt und beheizbar oder mit geeigneter Einstreu bedeckt sein. Perforierter Boden im Liegebereich der Saugferkel muss abgedeckt sein.
 
-
-## § 24 – Besondere Anforderungen an Haltungseinrichtungen für Jungsauen und Sauen
+# § 24 – Besondere Anforderungen an Haltungseinrichtungen für Jungsauen und Sauen
 
 (1) Jungsauen und Sauen dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 5 entsprechen.
 
@@ -740,8 +711,7 @@ durch die Restfutter fallen oder Kot oder Harn durchgetreten werden oder abflie�
 
 3. bei einseitiger Buchtenanordnung die Gangbreite hinter den Fress-Liegebuchten mindestens 160 Zentimeter oder bei beidseitiger Buchtenanordnung die Gangbreite zwischen den Fress-Liegebuchten mindestens 200 Zentimeter beträgt.
 
-
-## § 25 – Besondere Anforderungen an Haltungseinrichtungen für Eber
+# § 25 – Besondere Anforderungen an Haltungseinrichtungen für Eber
 
 Eber dürfen nur in Haltungseinrichtungen gehalten werden, die so beschaffen sind, dass der Eber sich ungehindert umdrehen und andere Schweine hören, riechen und sehen kann, und für einen Eber ab einem Alter von 24 Monaten eine Fläche von mindestens sechs Quadratmetern aufweisen. Eber dürfen in Haltungseinrichtungen, die zum Decken benutzt werden, nur gehalten werden, wenn diese
 
@@ -749,8 +719,7 @@ Eber dürfen nur in Haltungseinrichtungen gehalten werden, die so beschaffen sin
 
 2. eine Fläche von mindestens zehn Quadratmetern aufweisen.
 
-
-## § 26 – Allgemeine Anforderungen an das Halten von Schweinen
+# § 26 – Allgemeine Anforderungen an das Halten von Schweinen
 
 (1) Wer Schweine hält, hat sicherzustellen, dass
 
@@ -795,8 +764,7 @@ Als Beschäftigungsmaterial im Sinne von Satz 1 Nummer 1 kann insbesondere Stroh
 
 (4) Schweine, die gegenüber anderen Schweinen nachhaltig Unverträglichkeiten zeigen oder gegen die sich solches Verhalten richtet, dürfen nicht in der Gruppe gehalten werden. Diese Schweine sind während des Zeitraumes, für den grundsätzlich die Haltung in Gruppen vorgeschrieben ist, so zu halten, dass sie sich jederzeit ungehindert umdrehen können.
 
-
-## § 27 – Besondere Anforderungen an das Halten von Saugferkeln
+# § 27 – Besondere Anforderungen an das Halten von Saugferkeln
 
 (1) Saugferkel dürfen erst im Alter von über vier Wochen abgesetzt werden. Abweichend von Satz 1 darf ein Saugferkel früher abgesetzt werden, wenn dies zum Schutz des Muttertieres oder des Saugferkels vor Schmerzen, Leiden oder Schäden erforderlich ist. Abweichend von Satz 1 darf ferner ein Saugferkel im Alter von über drei Wochen abgesetzt werden, wenn sichergestellt ist, dass es unverzüglich in gereinigte und desinfizierte Ställe oder vollständig abgetrennte Stallabteile verbracht wird, in denen keine Sauen gehalten werden.
 
@@ -830,8 +798,7 @@ bis 10
 
 16\.
 
-
-## § 28 – Besondere Anforderungen an das Halten von Absatzferkeln
+# § 28 – Besondere Anforderungen an das Halten von Absatzferkeln
 
 (1) Absatzferkel sind in der Gruppe zu halten. Umgruppierungen sind möglichst zu vermeiden.
 
@@ -860,8 +827,7 @@ bis 10
 
 (3) § 27 Absatz 2 gilt entsprechend.
 
-
-## § 29 – Besondere Anforderungen an das Halten von Zuchtläufern und Mastschweinen
+# § 29 – Besondere Anforderungen an das Halten von Zuchtläufern und Mastschweinen
 
 (1) Zuchtläufer und Mastschweine sind in der Gruppe zu halten. Umgruppierungen sind möglichst zu vermeiden.
 
@@ -883,8 +849,7 @@ Mindestens die Hälfte der Mindestfläche nach Satz 1 muss als Liegebereich nach
 
 (3) § 28 Absatz 2 Nummer 3 bis 6 gilt entsprechend.
 
-
-## § 30 – Besondere Anforderungen an das Halten von Jungsauen und Sauen
+# § 30 – Besondere Anforderungen an das Halten von Jungsauen und Sauen
 
 (1) Jungsauen und Sauen dürfen nur nach Maßgabe der Absätze 2 bis 8 gehalten werden.
 
@@ -950,8 +915,7 @@ zur Verfügung gestellt werden. Dabei müssen für die Sauen Rückzugsmöglichke
 
 (8) § 28 Absatz 2 Nummer 3 bis 5 gilt entsprechend.
 
-
-## § 31 – Anwendungsbereich
+# § 31 – Anwendungsbereich
 
 (1) Kaninchen dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
 
@@ -961,8 +925,7 @@ zur Verfügung gestellt werden. Dabei müssen für die Sauen Rückzugsmöglichke
 
 2. für die Verwendung von Kaninchen während eines Tierversuchs.
 
-
-## § 32 – Allgemeine Anforderungen an Haltungseinrichtungen für Kaninchen
+# § 32 – Allgemeine Anforderungen an Haltungseinrichtungen für Kaninchen
 
 (1) Kaninchen dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 10 entsprechen.
 
@@ -1018,8 +981,7 @@ Der Bereich unterhalb der erhöhten Bodenfläche muss so beschaffen sein, dass d
 
 (10) Tränken sind so anzubringen oder aufzustellen, dass eine Be- und Durchfeuchtung von Futter, Einstreu und des Bodens sowie eine Beeinträchtigung der gehaltenen Tiere weitestgehend vermieden wird. Tränken sind täglich auf Dichtigkeit zu prüfen.
 
-
-## § 33 – Besondere Anforderungen an Haltungseinrichtungen für Mastkaninchen
+# § 33 – Besondere Anforderungen an Haltungseinrichtungen für Mastkaninchen
 
 (1) Mastkaninchen dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 5 entsprechen.
 
@@ -1052,8 +1014,7 @@ Höchstens zwei Drittel der Fläche, die sich aus der Gesamtfläche der uneinges
 
 (5) Bei Verwendung von Selbsttränken muss für jeweils höchstens fünf Mastkaninchen eine Tränkstelle vorhanden sein.
 
-
-## § 34 – Besondere Anforderungen an Haltungseinrichtungen für Zuchtkaninchen
+# § 34 – Besondere Anforderungen an Haltungseinrichtungen für Zuchtkaninchen
 
 (1) Zuchtkaninchen dürfen nur in Haltungseinrichtungen gehalten werden, die den Anforderungen der Absätze 2 bis 5 entsprechen.
 
@@ -1072,8 +1033,7 @@ und
 
   
   
-2.  
-die lichte Höhe der Haltungseinrichtung
+2. die lichte Höhe der Haltungseinrichtung
 
 a) über mindestens 70 Prozent der Grundfläche mindestens 80 Zentimeter und
 
@@ -1107,15 +1067,13 @@ b) vom Tierhalter verschlossen und geöffnet werden kann,
 
 (5) Bei Verwendung von Selbsttränken muss für jedes Zuchtkaninchen eine Tränkstelle vorhanden sein.
 
-
-## § 35 – Allgemeine Anforderungen an das Halten von Kaninchen
+# § 35 – Allgemeine Anforderungen an das Halten von Kaninchen
 
 (1) Wer Kaninchen hält, hat sicherzustellen, dass
 
 1. alle Kaninchen jederzeit Zugang zu grob strukturiertem Raufutter wie Stroh oder Heu und zu geeignetem Nagematerial haben,
 
-1a.  
-die Tiere jederzeit Zugang zu Tränkwasser haben,
+1a. die Tiere jederzeit Zugang zu Tränkwasser haben,
 
 2. Umgruppierungen möglichst vermieden werden,
 
@@ -1149,8 +1107,7 @@ Diese Aufzeichnungen sind entbehrlich, soweit entsprechende Aufzeichnungen auf G
 
 (5) Die Aufzeichnungen nach Absatz 4 Satz 1 sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens drei Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 35a – Sachkunde
+# § 35a – Sachkunde
 
 (1) Kaninchen darf nach dem 10. Februar 2015 nur halten, wer im Besitz einer gültigen Bescheinigung der zuständigen Behörde über seine Sachkunde (Sachkundebescheinigung) ist.
 
@@ -1198,8 +1155,7 @@ c) tierschutzgerechte Tötung.
 
 (7) Der Halter der Kaninchen hat sicherzustellen, dass die von ihm zur Pflege oder zum Einfangen und Verladen der Kaninchen angestellten oder beschäftigten Personen in tierschutzrelevanten Kenntnissen nach Absatz 3 Satz 4 Nummer 1 und Fertigkeiten nach Absatz 3 Satz 4 Nummer 2 angewiesen und angeleitet werden.
 
-
-## § 36 – Besondere Anforderungen an das Halten von Mastkaninchen
+# § 36 – Besondere Anforderungen an das Halten von Mastkaninchen
 
 (1) Mastkaninchen dürfen nicht einzeln gehalten werden. Abweichend von Satz 1 ist eine Einzelhaltung zulässig, wenn gesundheitliche oder verhaltensbedingte Gründe bei einem Kaninchen dies erfordern.
 
@@ -1215,8 +1171,7 @@ c) tierschutzgerechte Tötung.
 
 (4) Über die Mortalitätsraten nach Absatz 2 sowie die Ursachen nach Absatz 3 Nummer 1 und die Maßnahmen nach Absatz 3 Nummer 3 führt der Halter für jeden Mastkaninchenbestand Aufzeichnungen. Die Aufzeichnungen nach Satz 1 sind ab dem Zeitpunkt der jeweiligen Aufzeichnung mindestens drei Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 37 – Besondere Anforderungen an das Halten von Zuchtkaninchen
+# § 37 – Besondere Anforderungen an das Halten von Zuchtkaninchen
 
 (1) Die Besamung oder das Decken der Häsin darf frühestens am 11. Tag nach der Geburt der Jungtiere des vorhergegangenen Wurfes erfolgen.
 
@@ -1238,11 +1193,9 @@ c) tierschutzgerechte Tötung.
 
 Die Aufzeichnungen nach § 35 Absatz 4 Satz 1 Nummer 1 erfolgen getrennt nach Häsinnen und Rammlern. § 35 Absatz 5 gilt entsprechend.
 
+# §§ 38 bis 43 – (weggefallen)
 
-## §§ 38 bis 43 – (weggefallen)
-
-
-## § 44 – Ordnungswidrigkeiten
+# § 44 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe a des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1294,18 +1247,15 @@ eine Legehenne hält,
 
 21. entgegen § 17 Absatz 1 ein Masthuhn hält,
 
-21a.  
-entgegen § 17 Absatz 7 nicht sicherstellt, dass die dort genannten Personen in den dort genannten Kenntnissen und Fertigkeiten angewiesen und angeleitet werden,
+21a. entgegen § 17 Absatz 7 nicht sicherstellt, dass die dort genannten Personen in den dort genannten Kenntnissen und Fertigkeiten angewiesen und angeleitet werden,
 
 22. entgegen § 18 Absatz 1 Satz 1 Nummer 1, 3 oder Nummer 4 nicht sicherstellt, dass die Tränkevorrichtungen in der dort genannten Weise installiert und instand gehalten werden,
 
 23. entgegen § 18 Absatz 2 Satz 1 Nummer 1 oder Nummer 2 nicht sicherstellt, dass die Fütterungseinrichtungen in der dort genannten Weise installiert und instand gehalten werden,
 
-23a.  
-entgegen § 19 Absatz 1 Satz 1 Nummer 4 nicht sicherstellt, dass die dort genannten Anforderungen an die Lichtintensität, die Ausleuchtung oder den Einfall natürlichen Tageslichtes eingehalten werden,
+23a. entgegen § 19 Absatz 1 Satz 1 Nummer 4 nicht sicherstellt, dass die dort genannten Anforderungen an die Lichtintensität, die Ausleuchtung oder den Einfall natürlichen Tageslichtes eingehalten werden,
 
-23b.  
-entgegen § 19 Absatz 1 Satz 1 Nummer 5 nicht sicherstellt, dass das dort genannte Lichtprogramm betrieben wird,
+23b. entgegen § 19 Absatz 1 Satz 1 Nummer 5 nicht sicherstellt, dass das dort genannte Lichtprogramm betrieben wird,
 
 24. entgegen § 19 Absatz 1 Satz 1 Nummer 6 nicht sicherstellt, dass Teile von Stallungen, Ausrüstungen oder Geräten gereinigt und desinfiziert werden,
 
@@ -1319,8 +1269,7 @@ entgegen § 19 Absatz 1 Satz 1 Nummer 5 nicht sicherstellt, dass das dort genann
 
 29. entgegen § 19 Absatz 7 Satz 2 eine Aufzeichnung nicht oder nicht mindestens 3 Jahre ab der Fertigung aufbewahrt,
 
-29a.  
-entgegen § 19 Absatz 9 Satz 1 die dort genannte Mitteilung nicht oder nicht rechtzeitig macht,
+29a. entgegen § 19 Absatz 9 Satz 1 die dort genannte Mitteilung nicht oder nicht rechtzeitig macht,
 
 30. entgegen § 22 Absatz 1 in Verbindung mit Absatz 2 Satz 1 Nummer 1, 2 oder 4, Absatz 3 Nummer 1, 4, 5, 6 oder 8 oder Absatz 4 Satz 1, § 23 Absatz 1, § 24 Absatz 1, § 25, § 26 Absatz 4 Satz 1, § 28 Absatz 2 Nummer 1 oder 2, § 28 Absatz 2 Nummer 3 oder 5, jeweils in Verbindung mit § 29 Absatz 3 oder § 30 Absatz 8, oder § 30 Absatz 1 in Verbindung mit Absatz 2 Satz 1, 2 oder 3, Absatz 2b, Absatz 3, 5, 6 oder 7 Satz 2 ein Schwein hält,
 
@@ -1346,38 +1295,31 @@ entgegen § 19 Absatz 9 Satz 1 die dort genannte Mitteilung nicht oder nicht rec
 
 41. entgegen § 35 Absatz 1 Nummer 1 nicht sicherstellt, dass ein Kaninchen jederzeit Zugang zu grob strukturiertem Raufutter und zu Nagematerial hat,
 
-41a.  
-entgegen § 35 Absatz 1 Nummer 4 nicht sicherstellt, dass während der Lichtstunden die Beleuchtungsstärke mindestens 40 Lux, in Kopfhöhe der Tiere gemessen, beträgt,
+41a. entgegen § 35 Absatz 1 Nummer 4 nicht sicherstellt, dass während der Lichtstunden die Beleuchtungsstärke mindestens 40 Lux, in Kopfhöhe der Tiere gemessen, beträgt,
 
 42. entgegen § 35 Absatz 1 Nummer 6 nicht sicherstellt, dass bei Verwendung künstlicher Beleuchtung die künstliche Beleuchtung für mindestens acht Stunden ununterbrochen während der Nacht zurückgeschaltet wird,
 
-42a.  
-entgegen § 35 Absatz 1 Nummer 7 nicht sicherstellt, dass die Dauer der ununterbrochenen Lichtstunden mit einer Stärke von mindestens 40 Lux mindestens acht Stunden beträgt,
+42a. entgegen § 35 Absatz 1 Nummer 7 nicht sicherstellt, dass die Dauer der ununterbrochenen Lichtstunden mit einer Stärke von mindestens 40 Lux mindestens acht Stunden beträgt,
 
-42b.  
-entgegen § 35 Absatz 2 Satz 1 nicht sicherstellt, dass die Kaninchen in der dort genannten Weise in Augenschein genommen werden,
+42b. entgegen § 35 Absatz 2 Satz 1 nicht sicherstellt, dass die Kaninchen in der dort genannten Weise in Augenschein genommen werden,
 
 43. entgegen § 35 Absatz 4 Satz 1, § 36 Absatz 4 Satz 1, auch in Verbindung mit § 37 Absatz 4, oder § 37 Absatz 5 Satz 1 oder Satz 2 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
 
 44. entgegen § 35 Absatz 5, auch in Verbindung mit § 37 Absatz 5 Satz 3, oder § 36 Absatz 4 Satz 2, auch in Verbindung mit § 37 Absatz 4, eine Aufzeichnung nicht oder nicht mindestens drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
 
-44a.  
-entgegen § 35a Absatz 1 ein Kaninchen hält,
+44a. entgegen § 35a Absatz 1 ein Kaninchen hält,
 
-44b.  
-entgegen § 35 Absatz 7 nicht sicherstellt, dass eine dort genannte Person in den dort genannten Kenntnissen und Fertigkeiten angewiesen und angeleitet wird,
+44b. entgegen § 35 Absatz 7 nicht sicherstellt, dass eine dort genannte Person in den dort genannten Kenntnissen und Fertigkeiten angewiesen und angeleitet wird,
 
 45. entgegen § 36 Absatz 3 Nummer 1, auch in Verbindung mit § 37 Absatz 4, eine Ursache nicht oder nicht rechtzeitig feststellen lässt,
 
-45a.  
-entgegen § 37 Absatz 1 eine Häsin besamt oder deckt oder
+45a. entgegen § 37 Absatz 1 eine Häsin besamt oder deckt oder
 
 46. entgegen § 37 Absatz 2 Satz 1 ein Jungtier absetzt.
 
 (2) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe b des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 4 Abs. 2 Satz 1 oder 3 auch in Verbindung mit § 14 Abs. 2 Satz 2, oder § 14 Abs. 2 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht, nicht oder nicht mindestens drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 45 – Übergangsregelungen
+# § 45 – Übergangsregelungen
 
 (1) Abweichend von § 5 Satz 1 Nummer 1 dürfen Kälber in Haltungseinrichtungen, die vor dem 9. Februar 2021 bereits genehmigt oder in Benutzung genommen worden sind, noch bis zum Beginn des 9. Februar 2024 gehalten werden, soweit die Anforderungen des § 5 Satz 1 Nummer 1 in der bis zum 9. Februar 2021 geltenden Fassung dieser Verordnung erfüllt sind. Auf Antrag eines Tierhalters kann die zuständige Behörde die weitere Benutzung einer Haltungseinrichtung nach Satz 1 bis längstens zum 9. Februar 2027 genehmigen, soweit dies zur Vermeidung einer unbilligen Härte erforderlich ist und zum Zeitpunkt der Entscheidung Gründe des Tierschutzes, die nicht in der Haltungsform begründet sind, nicht entgegenstehen.
 
@@ -1572,7 +1514,6 @@ Quadratzentimetern</th></tr></thead><tbody><tr class="odd"><td style="text-align
 
 (32) (weggefallen)
 
-
-## § 46 – (Inkrafttreten, Außerkrafttreten)
+# § 46 – (Inkrafttreten, Außerkrafttreten)
 
 \-

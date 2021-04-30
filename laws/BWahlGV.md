@@ -1,20 +1,15 @@
-# [BWahlGV] Verordnung über den Einsatz von Wahlgeräten bei Wahlen zum Deutschen Bundestag und der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland  (Bundeswahlgeräteverordnung - BWahlGV)
-
-Ausfertigungsdatum: 03.09.1975
-
+% Verordnung über den Einsatz von Wahlgeräten bei Wahlen zum Deutschen Bundestag und der Abgeordneten des Europäischen Parlaments aus der Bundesrepublik Deutschland  (Bundeswahlgeräteverordnung - BWahlGV)
+% Ausfertigungsdatum: 03.09.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 35 Abs. 3 und des § 52 des Bundeswahlgesetzes in der Fassung der Bekanntmachung vom 1. September 1975 (Bundesgesetzbl. I S. 2325) wird im Einvernehmen mit dem Bundesminister für Wirtschaft verordnet:
 
-
-## § 1 – Zulassungspflicht
+# § 1 – Zulassungspflicht
 
 Mechanisch oder elektrisch betriebene einschließlich rechnergesteuerte Geräte, die bei Wahlen der Abgabe und Zählung der Wählerstimmen dienen (Wahlgeräte), dürfen bei Wahlen zum Bundestag nur eingesetzt werden, wenn ihre Bauart zugelassen und ihre Verwendung genehmigt ist.
 
-
-## § 2 – Erteilung der Bauartzulassung
+# § 2 – Erteilung der Bauartzulassung
 
 (1) Die Bauartzulassung wird für Wahlgeräte einer bestimmten Bauart vom Bundesministerium des Innern auf Antrag des Herstellers erteilt. Durch die Bauartzulassung wird festgestellt, daß Wahlgeräte einer bestimmten Bauart für die Verwendung bei Wahlen zum Bundestag allgemein oder für einzelne Wahlen geeignet sind. Aus der Bauartzulassung kann kein Anspruch auf Genehmigung der Verwendung solcher Wahlgeräte bei einer Wahl hergeleitet werden.
 
@@ -28,8 +23,7 @@ Mechanisch oder elektrisch betriebene einschließlich rechnergesteuerte Geräte,
 
 (6) Ist die Bauartzulassung eines Wahlgerätes erteilt, muß der Inhaber der Bauartzulassung jedem in den Verkehr gebrachten Wahlgerät eine Erklärung über die Baugleichheit des mit dem in der Bauartzulassung nach Absatz 5 identifizierten, von der Physikalisch-Technischen Bundesanstalt geprüften Baumusters (Baugleichheitserklärung) beifügen.
 
-
-## § 3 – Rücknahme, Erlöschen und Widerruf der Bauartzulassung
+# § 3 – Rücknahme, Erlöschen und Widerruf der Bauartzulassung
 
 (1) Das Bundesministerium des Innern kann die Bauartzulassung zurücknehmen, wenn bei ihrer Erteilung die in § 2 Abs. 2 Satz 1 bezeichneten Voraussetzungen nicht vorgelegen haben.
 
@@ -39,25 +33,21 @@ Mechanisch oder elektrisch betriebene einschließlich rechnergesteuerte Geräte,
 
 (4) Für die Rücknahme, das Erlöschen und den Widerruf einer Bauartzulassung gilt § 2 Abs. 5 entsprechend.
 
-
-## § 4 – Genehmigung der Verwendung von Wahlgeräten
+# § 4 – Genehmigung der Verwendung von Wahlgeräten
 
 (1) Die Verwendung von Wahlgeräten mit zugelassener Bauart bedarf vor jeder Wahl der Genehmigung. Über die Genehmigung der Verwendung von Wahlgeräten einer bestimmten Bauart entscheidet das Bundesministerium des Innern nach Bestimmung des Wahltages. Die Genehmigung gilt auch für Nachwahlen, Wiederholungswahlen und Ersatzwahlen. Sie kann unter Bedingungen erteilt und mit Auflagen verbunden werden.
 
 (2) Das Bundesministerium des Innern teilt die Entscheidung über die Verwendung von Wahlgeräten den Innenministern/-senatoren der Länder mit und macht sie im Bundesanzeiger bekannt.
 
-
-## § 5 – Geltung der Bundeswahlordnung und der Europawahlordnung
+# § 5 – Geltung der Bundeswahlordnung und der Europawahlordnung
 
 Soweit sich aus den Vorschriften dieser Verordnung nicht etwas anderes ergibt, gelten auch bei der Verwendung von Wahlgeräten die Vorschriften der Bundeswahlordnung oder der Europawahlordnung.
 
-
-## § 6 – Wahlbekanntmachung der Gemeindebehörden
+# § 6 – Wahlbekanntmachung der Gemeindebehörden
 
 Die Gemeindebehörde weist in der Wahlbekanntmachung über § 48 Abs. 1 der Bundeswahlordnung oder § 41 Abs. 1 der Europawahlordnung hinaus darauf hin, in welchen Wahlbezirken Wahlgeräte verwandt werden. Dem Abdruck der Wahlbekanntmachung ist neben dem Stimmzettel eine Abbildung der Seite des Wahlgerätes, an der der Wähler seine Stimme abgeben kann, nebst gerätespezifischer Darstellung der Wahlvorschläge (§ 8 Abs. 2) beizufügen.
 
-
-## § 7 – Überprüfung der Wahlgeräte und Einweisung der Wahlvorsteher
+# § 7 – Überprüfung der Wahlgeräte und Einweisung der Wahlvorsteher
 
 (1) Die Gemeindebehörde darf am Wahltag nur Wahlgeräte verwenden, die nach Bestimmung des Wahltages an Hand der Bedienungsanleitungen und Wartungsvorschriften vom Hersteller oder der Gemeinde überprüft worden sind und deren Funktionstüchtigkeit festgestellt worden ist. Setzt die ordnungsgemäße Inbetriebnahme eines rechnergesteuerten Wahlgerätes den Einsatz externer Datenträger voraus, so hat die Gemeindebehörde für deren ordnungsgemäße Verwendung Sorge zu tragen.
 
@@ -65,8 +55,7 @@ Die Gemeindebehörde weist in der Wahlbekanntmachung über § 48 Abs. 1 der Bund
 
 (3) In Wahlbezirken, in denen Wahlgeräte verwandt werden, hat die Gemeindebehörde die Wahlvorsteher und ihre Stellvertreter vor der Wahl mit den Wahlgeräten vertraut zu machen und sie in deren Bedienung einzuweisen.
 
-
-## § 8 – Ausstattung des Wahlvorstandes
+# § 8 – Ausstattung des Wahlvorstandes
 
 (1) Die Gemeindebehörde übergibt dem Wahlvorsteher vor Beginn der Wahlhandlung außer den in § 49 der Bundeswahlordnung oder § 42 der Europawahlordnung aufgeführten Gegenständen
 
@@ -84,15 +73,13 @@ Die Gemeindebehörde weist in der Wahlbekanntmachung über § 48 Abs. 1 der Bund
 
 (2) Jedes Wahlgerät, im besonderen alle Einstellungen und Vorrichtungen, muß sich in dem für den Beginn einer Wahl ordnungsgemäßen Zustand befinden und dem amtlichen Stimmzettel entsprechend beschriftet sein, wobei auf die Möglichkeit der Abgabe ungültiger Stimmen hingewiesen sein muß.
 
-
-## § 9 – Wahlzelle
+# § 9 – Wahlzelle
 
 (1) Jedes Wahlgerät ist in der Wahlzelle so aufzustellen, daß jeder Wähler seine Stimmen unbeobachtet abgeben kann.
 
 (2) Die gerätespezifische Darstellung der Wahlvorschläge bei Bundestagswahlen ist so anzuordnen, daß sich die Wahlvorschläge für die Erststimmen vom Wähler aus gesehen links oder oben befinden.
 
-
-## § 10 – Eröffnung der Wahlhandlung
+# § 10 – Eröffnung der Wahlhandlung
 
 (1) Der Wahlvorstand stellt vor Beginn der Stimmabgabe fest, daß
 
@@ -108,8 +95,7 @@ Die Gemeindebehörde weist in der Wahlbekanntmachung über § 48 Abs. 1 der Bund
 
 (2) Der Wahlvorsteher verschließt das benötigte Wahlgerät oder dessen Zähl- und Speichervorrichtungen. Ein Verwenden der Schlüssel ist bis zum Schluß der Wahlhandlung nicht gestattet, außer wenn das Wahlgerät zum Zwecke der Fortsetzung der Wahl ohne Gefahr des Bekanntwerdens oder Löschens der bereits abgegebenen Stimmen gemäß Bedienungsanleitung in einen Grundzustand gebracht werden muß. Dies gilt auch für die zur Aufnahme von Wahlmarken bestimmten Behälter. Die Schlüssel für das Wahlgerät oder dessen Zähl- und Speichervorrichtungen sind bis zur Beendigung der Wahlhandlung getrennt vom Wahlvorsteher und anderen Mitgliedern des Wahlvorstandes aufzubewahren.
 
-
-## § 11 – Stimmabgabe und Vermerk über Stimmabgabe
+# § 11 – Stimmabgabe und Vermerk über Stimmabgabe
 
 (1) Für die Stimmabgabe an den Wahlgeräten gelten die §§ 56 und 58 der Bundeswahlordnung oder die §§ 49 und 51 der Europawahlordnung mit den in den Absätzen 2 bis 5 genannten Maßgaben.
 
@@ -121,18 +107,15 @@ Die Gemeindebehörde weist in der Wahlbekanntmachung über § 48 Abs. 1 der Bund
 
 (5) Werden an einem Wahlgerät während der Wahl Funktionsstörungen angezeigt, die ohne Gefahr eines vorzeitigen Bekanntwerdens oder Löschens der bereits abgegebenen Stimmen behoben werden können, so kann der Wahlvorstand solche Störungen gemäß Bedienungsanleitung beheben. Treten an einem Wahlgerät während der Wahl Störungen auf, die gemäß Bedienungsanleitung nicht auf einfache Weise und nicht ohne Gefahr für das Bekanntwerden oder Löschen der bereits abgegebenen Stimmen behoben werden können, so kann der Wahlvorstand die Fortsetzung der Wahl mit einem anderen Wahlgerät beschließen, wenn dies ohne nennenswerte Verzögerung und ohne Gefährdung des Wahlgeheimnisses möglich ist. Jede Störung an einem Wahlgerät oder die Fortsetzung der Wahl mit einem anderen Wahlgerät ist in der Wahlniederschrift zu vermerken. § 8 Abs. 2 und § 10 finden Anwendung. Andernfalls ist die Wahl mit Stimmzetteln nach den allgemeinen Vorschriften fortzusetzen. In diesem Fall ist ein Wahlgerät gegen jede weitere Stimmabgabe zu sperren und die Sperrung, sofern diese rückgängig gemacht werden kann, zu versiegeln.
 
-
-## § 12 – Schluß der Wahlhandlung
+# § 12 – Schluß der Wahlhandlung
 
 Der Wahlvorsteher hat nach Schließung der Wahlhandlung jedes Wahlgerät oder die Stimmenspeicher gegen jede weitere Stimmabgabe zu sperren und die Sperrung, sofern diese rückgängig gemacht werden kann, zu versiegeln.
 
-
-## § 13 – Zählung der Wähler
+# § 13 – Zählung der Wähler
 
 Vor dem Ablesen der einzelnen Anzeigen der von einem Wahlgerät gezählten Stimmen werden zur Feststellung der Zahl der Wähler die Zahl der Stimmabgabevermerke im Wählerverzeichnis und die Zahl der eingenommenen Wahlscheine zusammengezählt. Sodann werden an jedem verwendeten Wahlgerät die insgesamt angezeigten Zahlen für die Erst- und Zweitstimmen abgelesen und die sich aus den Zähllisten ergebenden Zahlen der nichtabgegebenen Erst- und Zweitstimmen (§ 11 Abs. 4 Satz 3 und 4) jeweils hinzugezählt. Ergibt sich auch nach wiederholter Zählung eine Abweichung zwischen der Zahl der Stimmabgabevermerke einschließlich der eingenommenen Wahlscheine und den nach Satz 2 festgestellten Erst- und Zweitstimmen, so ist dies in der Wahlniederschrift zu vermerken, und, soweit möglich, zu erläutern.
 
-
-## § 14 – Zählung der Stimmen
+# § 14 – Zählung der Stimmen
 
 (1) Der Schriftführer trägt die an jedem verwendeten Wahlgerät angezeigten oder ausgedruckten Zahlen der Reihenfolge nach in die Zählkontrollvermerke der Wahlniederschrift ein, soweit nicht ein Ausdruck selbst als Zählkontrollvermerk zu verwenden ist.
 
@@ -158,8 +141,7 @@ In entsprechender Reihenfolge werden die für die Wahlen zum Europäischen Parla
 
 (6) (weggefallen)
 
-
-## § 15 – Wahlniederschrift
+# § 15 – Wahlniederschrift
 
 (1) Über die Wahlhandlung, die Ermittlung und die Feststellung des Wahlergebnisses ist vom Schriftführer eine Wahlniederschrift nach dem Muster der Anlage 2 oder 3 zu erstellen. Die Niederschrift ist von den Mitgliedern des Wahlvorstandes zu genehmigen und von ihnen zu unterschreiben. Verweigert ein Mitglied des Wahlvorstandes die Unterschrift, so ist der Grund hierfür in der Wahlniederschrift zu vermerken. Beschlüsse nach § 11 Abs. 5 und nach § 56 Abs. 7 der Bundeswahlordnung oder § 49 Abs. 7 der Europawahlordnung sowie Beschlüsse über Anstände bei der Wahlhandlung und bei der Ermittlung des Wahlergebnisses sind in der Wahlniederschrift zu vermerken. Der Wahlniederschrift sind beizufügen:
 
@@ -173,8 +155,7 @@ In entsprechender Reihenfolge werden die für die Wahlen zum Europäischen Parla
 
 (3) Nach Ermittlung des Wahlergebnisses ist jedes Wahlgerät zu schließen und zu versiegeln. Bei Geräten oder bei herausnehmbaren Stimmenspeichern, bei denen eine Entsperrung in geschlossenem Zustand nicht möglich ist, genügt die Versiegelung und Kennzeichnung des Behältnisses, in dem sich die Schlüssel oder Stimmenspeicher befinden.
 
-
-## § 16 – Übergabe und Verwahrung der Wahlunterlagen und der Wahlgeräte
+# § 16 – Übergabe und Verwahrung der Wahlunterlagen und der Wahlgeräte
 
 (1) Hat der Wahlvorstand seine Aufgaben beendet, so gibt der Wahlvorsteher der Gemeindebehörde
 
@@ -190,8 +171,7 @@ zurück und händigt ihr die Wahlniederschrift mit den Anlagen sowie die eingeno
 
 (2) Wahlvorsteher, Gemeindebehörde und Kreiswahlleiter haben sicherzustellen, daß die eingesetzten Wahlgeräte oder deren herausgenommene Stimmenspeicher und die Wahlniederschrift mit den Anlagen bis zur Aufhebung der Sperrung und Versiegelung der eingesetzten Wahlgeräte oder der herausgenommenen Stimmenspeicher Unbefugten nicht zugänglich sind.
 
-
-## § 17 – Feststellung des Wahlergebnisses im Wahlkreis
+# § 17 – Feststellung des Wahlergebnisses im Wahlkreis
 
 (1) Ergeben sich Bedenken gegen die Ordnungsmäßigkeit des Wahlgeschäfts, der Wahlergebnisermittlung oder der Wahlniederschrift, hat der Kreiswahlleiter selbst oder durch einen Beauftragten vor der Feststellung des Wahlergebnisses durch den Kreiswahlausschuß die Übereinstimmung der angezeigten oder ausdruckbaren Zählergebnisse mit den Eintragungen in der Wahlniederschrift in Gegenwart von mindestens zwei Zeugen zu überprüfen und dies in der Wahlniederschrift zu bescheinigen. Danach sind die Geräte oder die Stimmenspeicher wieder zu versiegeln. § 15 Abs. 3 Satz 2 gilt entsprechend.
 
@@ -199,23 +179,19 @@ zurück und händigt ihr die Wahlniederschrift mit den Anlagen sowie die eingeno
 
 (3) Nach Feststellung des Wahlergebnisses kann der Landeswahlleiter zulassen, daß die Sperrung und Versiegelung der Wahlgeräte oder der Stimmenspeicher aufgehoben werden, wenn die Zählergebnisse der Wahlgeräte nicht für ein schwebendes Wahlprüfungsverfahren von Bedeutung sein können.
 
-
-## § 18 – Übergangsbestimmung
+# § 18 – Übergangsbestimmung
 
 Für Wahlgeräte einer Bauart, die bereits für die Wahlen zum 14. Deutschen Bundestag oder die Europawahlen 1994 zugelassen worden ist, gilt die Bauartzulassung im Rahmen des jeweiligen Zulassungserlasses des Bundesministeriums des Innern allgemein für Wahlen zum Deutschen Bundestag oder Europawahlen als erteilt. § 8 Abs. 1 Nr. 6 ist auf diese Wahlgeräte nicht anzuwenden.
 
-
-## § 19
+# § 19
 
 (weggefallen)
 
-
-## § 20 – Inkrafttreten
+# § 20 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2)  Richtlinien für die Bauart von Wahlgeräten
+# Anlage 1 – (zu § 2)  Richtlinien für die Bauart von Wahlgeräten
 
 Fundstelle des Originaltextes: BGBl. I 1999, 753 - 755
 
@@ -330,23 +306,17 @@ Gültigkeitsbereich
 
 Ein Wahlgerät, das gemäß § 1 der Abgabe und Zählung der Wählerstimmen dient, weist folgende Eigenschaften zur Durchführung der Wahl auf:
 
-.  
-Darstellung der Wahlvorschläge gemäß Stimmzettel, der Bedienung zur Auswahl und Abgabe einer Stimme bzw. der Kennzeichnung und Bedienung für die Abgabe einer ungültigen Stimme,
+. Darstellung der Wahlvorschläge gemäß Stimmzettel, der Bedienung zur Auswahl und Abgabe einer Stimme bzw. der Kennzeichnung und Bedienung für die Abgabe einer ungültigen Stimme,
 
-.  
-Registrierung jeder vom Wähler aus den Wahlvorschlägen ausgewählten oder als ungültig gekennzeichneten und abgegebenen Stimme,
+. Registrierung jeder vom Wähler aus den Wahlvorschlägen ausgewählten oder als ungültig gekennzeichneten und abgegebenen Stimme,
 
-.  
-selbsttätige Zählung der insgesamt abgegebenen Stimmen mit zugehöriger Anzeige,
+. selbsttätige Zählung der insgesamt abgegebenen Stimmen mit zugehöriger Anzeige,
 
-.  
-selbsttätige Zählung der abgegebenen Stimmen sortiert nach den Wahlvorschlägen bzw. nach ungültig gekennzeichneten Stimmen mit Anzeige des Zählergebnisses,
+. selbsttätige Zählung der abgegebenen Stimmen sortiert nach den Wahlvorschlägen bzw. nach ungültig gekennzeichneten Stimmen mit Anzeige des Zählergebnisses,
 
-.  
-selbsttätige Speicherung der abgegebenen Stimmen solange, bis sie durch Bedienung gelöscht werden,
+. selbsttätige Speicherung der abgegebenen Stimmen solange, bis sie durch Bedienung gelöscht werden,
 
-.  
-weitere Eigenschaften nur, soweit sie in unmittelbarem Zusammenhang mit der Wahl stehen.
+. weitere Eigenschaften nur, soweit sie in unmittelbarem Zusammenhang mit der Wahl stehen.
 
 Erst- und Zweitstimme für Bundestagswahlen können (auch) an zwei Wahlgeräten derselben Bauart getrennt abgegeben werden. Am selben Wahlgerät abgegebene Zweitstimmen können zugeordnet zur abgegebenen Erststimme gespeichert werden.
 
@@ -358,14 +328,11 @@ Identifizierung
 
 Die Bauart des Wahlgerätes und die zur Bauart gehörenden Komponenten des Wahlgerätes sind einschließlich der Prüfunterlagen geeignet identifizierbar. Dazu gehören:
 
-.  
-Typenschilder
+. Typenschilder
 
-.  
-Eindeutige Identifikation der installierten Software bei rechnergesteuertem Wahlgerät
+. Eindeutige Identifikation der installierten Software bei rechnergesteuertem Wahlgerät
 
-.  
-Prüfunterlagen:
+. Prüfunterlagen:
 
 \-  
 Technische Spezifikationen,
@@ -397,8 +364,7 @@ Technischer Aufbau
 2.1  
 Konstruktion
 
-Das Wahlgerät entspricht in seiner Konstruktion dem allgemeinen Stand der Technik und ist unter Beachtung der für Systeme mit schwerwiegenden Schadensfolgen bei Fehlverhalten (hohe Kritikalität) anerkannten Regeln der Technik aufgebaut.  
-Das Wahlgerät ist so konstruiert, daß eine Veränderung des technischen Aufbaus und bei rechnergesteuerten Geräten auch der installierten Software durch unbefugte Dritte nicht unbemerkt bleibt.
+Das Wahlgerät entspricht in seiner Konstruktion dem allgemeinen Stand der Technik und ist unter Beachtung der für Systeme mit schwerwiegenden Schadensfolgen bei Fehlverhalten (hohe Kritikalität) anerkannten Regeln der Technik aufgebaut. Das Wahlgerät ist so konstruiert, daß eine Veränderung des technischen Aufbaus und bei rechnergesteuerten Geräten auch der installierten Software durch unbefugte Dritte nicht unbemerkt bleibt.
 
 2.2  
 Belastbarkeit
@@ -418,8 +384,7 @@ Bei Anschluß von nicht zur Bauart gehörenden Komponenten arbeitet das Wahlger�
 2.5  
 Energieversorgung
 
-Ein elektrisch betriebenes Wahlgerät ist gegen kurzfristigen Stromausfall oder Spannungsabfall gesichert und bleibt bei längerem Stromausfall durch Verwendung einer Ersatzstromquelle oder durch mechanische Bedienung betriebsfähig. Das Wahlgerät ist mit einem geeigneten Anschluß für eine Ersatzstromquelle (z. B. Notstromaggregat, Batterien oder Akkumulator) versehen.  
-Der Energieverbrauch ist so gering, daß die Betriebsbereitschaft des Wahlgerätes zumindest für die Dauer von dreizehn Stunden bei Betrieb mit einer geeigneten Ersatzstromquelle ohne Auswechslung aufrechterhalten bleibt.
+Ein elektrisch betriebenes Wahlgerät ist gegen kurzfristigen Stromausfall oder Spannungsabfall gesichert und bleibt bei längerem Stromausfall durch Verwendung einer Ersatzstromquelle oder durch mechanische Bedienung betriebsfähig. Das Wahlgerät ist mit einem geeigneten Anschluß für eine Ersatzstromquelle (z. B. Notstromaggregat, Batterien oder Akkumulator) versehen. Der Energieverbrauch ist so gering, daß die Betriebsbereitschaft des Wahlgerätes zumindest für die Dauer von dreizehn Stunden bei Betrieb mit einer geeigneten Ersatzstromquelle ohne Auswechslung aufrechterhalten bleibt.
 
 2.6  
 Transport und Aufbewahrung
@@ -432,31 +397,22 @@ Funktionsweise
 3.1  
 Funktionsprinzip, Verwendungsart
 
-Die folgenden Anforderungen gelten entsprechend bei der gleichzeitigen Durchführung einer bundesweiten Wahl mit einer anderen Wahl.  
-Das Wahlgerät ist so konstruiert, daß ein Wähler nur eine Stimme oder nur eine Erst- und eine Zweitstimme für Bundestagswahlen bzw. jeweils eine ungültige Stimme abgeben kann.  
-Die Reihenfolge der Bedienung für die Auswahl der Erst- und der Zweitstimme aus den Wahlvorschlägen wird durch das Wahlgerät nicht vorgegeben.  
-Bei getrennter Bedienung für Auswahl und Abgabe der Stimmen kann die Abgabe der Erst- und der Zweitstimme über eine gemeinsame Bedienungsvorrichtung erfolgen.
+Die folgenden Anforderungen gelten entsprechend bei der gleichzeitigen Durchführung einer bundesweiten Wahl mit einer anderen Wahl. Das Wahlgerät ist so konstruiert, daß ein Wähler nur eine Stimme oder nur eine Erst- und eine Zweitstimme für Bundestagswahlen bzw. jeweils eine ungültige Stimme abgeben kann. Die Reihenfolge der Bedienung für die Auswahl der Erst- und der Zweitstimme aus den Wahlvorschlägen wird durch das Wahlgerät nicht vorgegeben. Bei getrennter Bedienung für Auswahl und Abgabe der Stimmen kann die Abgabe der Erst- und der Zweitstimme über eine gemeinsame Bedienungsvorrichtung erfolgen.
 
 3.2  
 Funktionskontrolle und Fehleranzeige
 
-Das Wahlgerät ermöglicht beim Einschalten die Kontrolle seiner Funktionsfähigkeit, bei einem elektronischen Wahlgerät unterstützt durch selbsttätige Funktionsanzeigen.  
-Das Wahlgerät unterstützt die Anzeige von ggf. während der Wahl auftretenden Funktionsfehlern seiner Komponenten, die eine ordnungsgemäße Verwendung gefährden oder unmöglich machen, und soll eine Fehlerdiagnose ermöglichen.
+Das Wahlgerät ermöglicht beim Einschalten die Kontrolle seiner Funktionsfähigkeit, bei einem elektronischen Wahlgerät unterstützt durch selbsttätige Funktionsanzeigen. Das Wahlgerät unterstützt die Anzeige von ggf. während der Wahl auftretenden Funktionsfehlern seiner Komponenten, die eine ordnungsgemäße Verwendung gefährden oder unmöglich machen, und soll eine Fehlerdiagnose ermöglichen.
 
 3.3  
 Darstellung der Wahlvorschläge, Bedienungsvorrichtungen
 
-Das Wahlgerät und der Bedienungsbereich für den Wähler sind optisch neutral ausgeführt.  
-Alle Angaben, die auf den amtlichen Stimmzetteln enthalten sind, können auf der Vorderseite des Wahlgerätes gut erkennbar angebracht werden, z. B. in waagerechter oder senkrechter Anordnung.  
-Für jeden Wahlvorschlag, für den eine Stimme abgegeben werden kann, ist ein abgegrenztes Feld mit eindeutig zugeordneter Bedienungsvorrichtung zur Auswahl der Stimmabgabe vorhanden. Außerdem ist ein Feld mit Bedienungsvorrichtung für die Kennzeichnung zur Abgabe einer jeweils ungültigen Erst- oder Zweitstimme vorgesehen.  
-Die Bedienungsvorrichtungen zur Auswahl der Stimmabgabe sind numeriert. Die für jeden Wahlvorschlag angezeigten Zählergebnisse sind den Bedienungsvorrichtungen eindeutig zugeordnet und in derselben Weise numeriert. Entsprechendes gilt für die Kennzeichnung zur Abgabe einer ungültigen Stimme und für deren Zählergebnis.  
-Die Zahl der mit den zugehörigen Bedienungsvorrichtungen nutzbaren Felder ist so groß als Wahlvorschläge (bei Bundestagswahlen: Wahlkreisbewerber für die Erststimme bzw. Landeslisten jeder Partei für die Zweitstimme; bei Europawahlen: Bewerberlisten jeder Partei oder politischen Vereinigung) in der Regel für eine Wahl zugelassen werden.
+Das Wahlgerät und der Bedienungsbereich für den Wähler sind optisch neutral ausgeführt. Alle Angaben, die auf den amtlichen Stimmzetteln enthalten sind, können auf der Vorderseite des Wahlgerätes gut erkennbar angebracht werden, z. B. in waagerechter oder senkrechter Anordnung. Für jeden Wahlvorschlag, für den eine Stimme abgegeben werden kann, ist ein abgegrenztes Feld mit eindeutig zugeordneter Bedienungsvorrichtung zur Auswahl der Stimmabgabe vorhanden. Außerdem ist ein Feld mit Bedienungsvorrichtung für die Kennzeichnung zur Abgabe einer jeweils ungültigen Erst- oder Zweitstimme vorgesehen. Die Bedienungsvorrichtungen zur Auswahl der Stimmabgabe sind numeriert. Die für jeden Wahlvorschlag angezeigten Zählergebnisse sind den Bedienungsvorrichtungen eindeutig zugeordnet und in derselben Weise numeriert. Entsprechendes gilt für die Kennzeichnung zur Abgabe einer ungültigen Stimme und für deren Zählergebnis. Die Zahl der mit den zugehörigen Bedienungsvorrichtungen nutzbaren Felder ist so groß als Wahlvorschläge (bei Bundestagswahlen: Wahlkreisbewerber für die Erststimme bzw. Landeslisten jeder Partei für die Zweitstimme; bei Europawahlen: Bewerberlisten jeder Partei oder politischen Vereinigung) in der Regel für eine Wahl zugelassen werden.
 
 3.4  
 Stimmenspeicherung, Zählung und Anzeige
 
-Vom Wahlgerät können so viele Stimmen entgegengenommen und registriert werden als Wähler in der Regel zur Stimmabgabe in einem Wahllokal vorgesehen sind.  
-Die Zählung der Stimmen erfolgt in der Weise, daß allein folgende Zählergebnisse durch das Wahlgerät oder zwei Wahlgeräte derselben Bauart selbsttätig ermittelt und angezeigt werden:
+Vom Wahlgerät können so viele Stimmen entgegengenommen und registriert werden als Wähler in der Regel zur Stimmabgabe in einem Wahllokal vorgesehen sind. Die Zählung der Stimmen erfolgt in der Weise, daß allein folgende Zählergebnisse durch das Wahlgerät oder zwei Wahlgeräte derselben Bauart selbsttätig ermittelt und angezeigt werden:
 
 1. die Zahl aller abgegebenen einschließlich der als ungültig gekennzeichneten Erststimmen,
 
@@ -470,42 +426,29 @@ Die Zählung der Stimmen erfolgt in der Weise, daß allein folgende Zählergebni
 
 6. jede Zahl der für die einzelnen Landeslisten abgegebenen Zweitstimmen.
 
-Entsprechendes gilt für die Zahlen der für eine Europawahl abgegebenen Stimmen.  
-Die Zählung der für jeden Wahlvorschlag abgegebenen Stimmen, der ungültigen Stimmen und der insgesamt abgegebenen Stimmen erfolgt vollständig, eindeutig und richtig. Die Stimmenspeicherung erfolgt in der Weise mehrfach (redundant), daß mit an Sicherheit grenzender Wahrscheinlichkeit keine abgegebene Stimme verloren geht und somit die Zählung mit hoher Zuverlässigkeit richtig erfolgt.  
-Vor, während und nach der Wahl ist die Zahl der insgesamt abgegebenen Stimmen, ggf. getrennt nach Erst- und Zweitstimmen, für den Wahlvorstand jederzeit von außen ablesbar.  
-Im gesicherten Zustand während der Wahl ist eine Ablesung der Zahl der für einen Wahlvorschlag oder der ungültig abgegebenen Stimmen nicht möglich. Das Ergebnis der Stimmabgabe ist unmittelbar nach einer besonderen Handlung ablesbar und wird unverändert festgehalten.  
-Das Wahlgerät gewährleistet die Geheimhaltung der Stimmabgabe. Aus keiner Vorrichtung oder Einrichtung kann ersehen werden, wie ein Wähler gewählt hat. Zulässig ist die Ausgabe anonym gespeicherter Stimmen nach der Ergebnisablesung zur Auswertung außerhalb des Wahlgerätes.
+Entsprechendes gilt für die Zahlen der für eine Europawahl abgegebenen Stimmen. Die Zählung der für jeden Wahlvorschlag abgegebenen Stimmen, der ungültigen Stimmen und der insgesamt abgegebenen Stimmen erfolgt vollständig, eindeutig und richtig. Die Stimmenspeicherung erfolgt in der Weise mehrfach (redundant), daß mit an Sicherheit grenzender Wahrscheinlichkeit keine abgegebene Stimme verloren geht und somit die Zählung mit hoher Zuverlässigkeit richtig erfolgt. Vor, während und nach der Wahl ist die Zahl der insgesamt abgegebenen Stimmen, ggf. getrennt nach Erst- und Zweitstimmen, für den Wahlvorstand jederzeit von außen ablesbar. Im gesicherten Zustand während der Wahl ist eine Ablesung der Zahl der für einen Wahlvorschlag oder der ungültig abgegebenen Stimmen nicht möglich. Das Ergebnis der Stimmabgabe ist unmittelbar nach einer besonderen Handlung ablesbar und wird unverändert festgehalten. Das Wahlgerät gewährleistet die Geheimhaltung der Stimmabgabe. Aus keiner Vorrichtung oder Einrichtung kann ersehen werden, wie ein Wähler gewählt hat. Zulässig ist die Ausgabe anonym gespeicherter Stimmen nach der Ergebnisablesung zur Auswertung außerhalb des Wahlgerätes.
 
 3.5  
 Sperrung und Sicherung
 
-Vor Beginn der Wahl können sämtliche Zähl- und Speicherinhalte für die Stimmenregistrierung gelöscht werden. Daß das geschehen ist, ist auf einfache Weise kontrollierbar.  
-Vor Beginn der Wahl kann die Wirkung genau derjenigen Bedienungsvorrichtungen, die zur Auswahl der Stimmabgabe für einen der Wahlvorschläge nicht benötigt werden, für die Dauer des gesamten Wahlvorganges gesperrt werden.  
-Vor Beginn der Wahl kann das Wahlgerät gegen jeden Eingriff, insbesondere gegen eine Abgabe und Speicherung von Stimmen und gegen Ablesung, Ausgabe und Löschung registrierter Stimmen, durch Mehrfachverschluß (mindestens zwei Schlösser mit unterschiedlicher Schließung) gesichert werden.  
-Aus dem in dieser Weise gesicherten Grundzustand kann das Wahlgerät für die Durchführung der Wahl so in Betrieb genommen werden, daß nur eine vom Wahlvorstand bezüglich jedes einzelnen Wählers kontrollierbare Abgabe und Speicherung von Stimmen erfolgen kann.  
-Nach der Wahl kann die Abgabe und Speicherung von Stimmen gesperrt und die Ablesung und Ausgabe des Zählergebnisses freigegeben werden, während die Sperrung zur Verhinderung einer Löschung registrierter Stimmen erhalten bleibt, bis diese gesondert entriegelt wird.
+Vor Beginn der Wahl können sämtliche Zähl- und Speicherinhalte für die Stimmenregistrierung gelöscht werden. Daß das geschehen ist, ist auf einfache Weise kontrollierbar. Vor Beginn der Wahl kann die Wirkung genau derjenigen Bedienungsvorrichtungen, die zur Auswahl der Stimmabgabe für einen der Wahlvorschläge nicht benötigt werden, für die Dauer des gesamten Wahlvorganges gesperrt werden. Vor Beginn der Wahl kann das Wahlgerät gegen jeden Eingriff, insbesondere gegen eine Abgabe und Speicherung von Stimmen und gegen Ablesung, Ausgabe und Löschung registrierter Stimmen, durch Mehrfachverschluß (mindestens zwei Schlösser mit unterschiedlicher Schließung) gesichert werden. Aus dem in dieser Weise gesicherten Grundzustand kann das Wahlgerät für die Durchführung der Wahl so in Betrieb genommen werden, daß nur eine vom Wahlvorstand bezüglich jedes einzelnen Wählers kontrollierbare Abgabe und Speicherung von Stimmen erfolgen kann. Nach der Wahl kann die Abgabe und Speicherung von Stimmen gesperrt und die Ablesung und Ausgabe des Zählergebnisses freigegeben werden, während die Sperrung zur Verhinderung einer Löschung registrierter Stimmen erhalten bleibt, bis diese gesondert entriegelt wird.
 
 3.6  
 Abgabe von Stimmen
 
-Die Bedienungsvorrichtungen des Wahlgerätes können vom Wähler nur dann benutzt werden, wenn der Wahlvorstand die Stimmabgabe freigegeben hat. Nach der Freigabe ist bis zur Stimmenregistrierung allein die Auswahl und Abgabe der für einen Wähler zulässigen Stimmen möglich. Nach Registrierung der Stimmabgabe sperrt sich das Wahlgerät wieder selbstätig. Die Freigabe kann nach einem angemessenen Zeitraum für den Fall, daß der Wähler keine Stimme abgegeben hat, durch eine besondere Handlung des Wahlvorstandes zurückgenommen werden, so daß das Gerät wieder gesperrt ist. Die Freigabe und die Sperrung des Geräts sind für den Wahlvorstand erkennbar (z. B. durch Laut- und/oder Lichtsignale).  
-Die Stimmabgabe verläuft in zwei Phasen, so daß der Wähler nach Ablauf der ersten Phase die ausgewählte, beabsichtigte Stimmabgabe noch einmal überprüfen kann (z. B. zwei Handgriffe oder Einschalten eines Druckpunktes).  
-Dem Wähler ist unmittelbar nach der Stimmabgabe durch ein Laut- oder Lichtsignal oder ein am Wahlgerät erscheinendes Zeichen erkennbar, daß seine Stimmabgabe registriert und die Sperrvorrichtung wieder wirksam ist. Das Zeichen erlischt wieder, sobald die Stimmabgabe vollzogen ist.
+Die Bedienungsvorrichtungen des Wahlgerätes können vom Wähler nur dann benutzt werden, wenn der Wahlvorstand die Stimmabgabe freigegeben hat. Nach der Freigabe ist bis zur Stimmenregistrierung allein die Auswahl und Abgabe der für einen Wähler zulässigen Stimmen möglich. Nach Registrierung der Stimmabgabe sperrt sich das Wahlgerät wieder selbstätig. Die Freigabe kann nach einem angemessenen Zeitraum für den Fall, daß der Wähler keine Stimme abgegeben hat, durch eine besondere Handlung des Wahlvorstandes zurückgenommen werden, so daß das Gerät wieder gesperrt ist. Die Freigabe und die Sperrung des Geräts sind für den Wahlvorstand erkennbar (z. B. durch Laut- und/oder Lichtsignale). Die Stimmabgabe verläuft in zwei Phasen, so daß der Wähler nach Ablauf der ersten Phase die ausgewählte, beabsichtigte Stimmabgabe noch einmal überprüfen kann (z. B. zwei Handgriffe oder Einschalten eines Druckpunktes). Dem Wähler ist unmittelbar nach der Stimmabgabe durch ein Laut- oder Lichtsignal oder ein am Wahlgerät erscheinendes Zeichen erkennbar, daß seine Stimmabgabe registriert und die Sperrvorrichtung wieder wirksam ist. Das Zeichen erlischt wieder, sobald die Stimmabgabe vollzogen ist.
 
 3.7  
 Ergonomie, Bedienbarkeit
 
-Das Wahlgerät ist ergonomisch so ausgeführt, daß es auch von unterdurchschnittlich begabten Wählern ohne größere Schwierigkeiten bedient werden kann.  
-Bedienungshandlungen des Wählers ergeben keine Fehlermeldungen, sondern ggf. Hinweise zum Handlungsablauf.  
-Bedienungshandlungen, Fehlgriffe und absichtliche - mit Ausnahme gewaltsamer oder unter Anwendung besonderer Hilfsmittel vorgenommener - Eingriffe haben keine Störungen oder gar Zerstörungen zur Folge.
+Das Wahlgerät ist ergonomisch so ausgeführt, daß es auch von unterdurchschnittlich begabten Wählern ohne größere Schwierigkeiten bedient werden kann. Bedienungshandlungen des Wählers ergeben keine Fehlermeldungen, sondern ggf. Hinweise zum Handlungsablauf. Bedienungshandlungen, Fehlgriffe und absichtliche - mit Ausnahme gewaltsamer oder unter Anwendung besonderer Hilfsmittel vorgenommener - Eingriffe haben keine Störungen oder gar Zerstörungen zur Folge.
 
 4  
 Bedienungsanleitung(en)
 
 Dem Wahlgerät sind beigefügt:
 
-.  
-eine geeignete Bedienungsanleitung mit folgendem Inhalt:
+. eine geeignete Bedienungsanleitung mit folgendem Inhalt:
 
 1. Aufstellung und Inbetriebsetzung,
 
@@ -523,13 +466,11 @@ eine geeignete Bedienungsanleitung mit folgendem Inhalt:
 
 8. technische Daten zur Verwendung (Wahlarten, max. Zahl der Wähler und max. Zahl der Wahlvorschläge für Bundestagswahlen bzw. für Europawahlen) und zu Umgebungsbedingungen,
 
-.  
-eine Kurzanleitung für den Wahlvorstand
+. eine Kurzanleitung für den Wahlvorstand
 
 und
 
-.  
-eine Anleitung zur Stimmabgabe mit Darstellung der Bedienungsseite für den Wähler und Bedienungsangaben zur Auswahl der Wahlvorschläge und Abgabe der Stimme(n).
+. eine Anleitung zur Stimmabgabe mit Darstellung der Bedienungsseite für den Wähler und Bedienungsangaben zur Auswahl der Wahlvorschläge und Abgabe der Stimme(n).
 
 -----
 
@@ -537,8 +478,7 @@ eine Anleitung zur Stimmabgabe mit Darstellung der Bedienungsseite für den Wäh
 
 In technischen Normen finden sich Festlegungen für Belastungen und Störungen mechanischer Art (Vibrationen, freier Fall, Kippfallen, Tropfwasserbeständigkeit im Bedienungsbereich), klimatischer Art (Betriebs- und Lagerungs-Temperatur, Feuchtigkeit) und elektromagnetischer Art (statische Entladungen, konstante und Wechsel-Felder).
 
-
-## Anlage 2 – (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
+# Anlage 2 – (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 756 - 761)
 
@@ -666,8 +606,7 @@ als Beisitzer</td></tr></tbody></table>
 2. Wahlhandlung
 
 2.1  
-Der Wahlvorsteher eröffnete die Wahlhandlung damit, daß er die übrigen Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen Angelegenheiten hinwies. Er belehrte sie über ihre Aufgaben.  
-  
+Der Wahlvorsteher eröffnete die Wahlhandlung damit, daß er die übrigen Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen Angelegenheiten hinwies. Er belehrte sie über ihre Aufgaben.   
 
 Abdrucke des Bundeswahlgesetzes, der Bundeswahlordnung und der Bundeswahlgeräteverordnung lagen im Wahlraum vor. Eine Abbildung der Seite des Wahlgerätes, an der der Wähler seine Stimme(n) abgeben kann, nebst gerätespezifischer Darstellung der Wahlvorschläge und einer Anleitung zur Stimmabgabe mit dem Wahlgerät waren im Wahlraum ausgehängt.
 
@@ -706,14 +645,12 @@ Damit die Wähler unbeobachtet ihre Stimme(n) abgeben konnten, war(en) das (die)
 Mit der Stimmabgabe wurde um ............... Uhr ............... Minuten begonnen.
 
 2.5  
-Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk "Wahlschein" oder den Buchstaben "W" eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> .  
-  
+Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk "Wahlschein" oder den Buchstaben "W" eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> .   
 
 Der Wahlvorsteher berichtigte später entsprechend das Wählerverzeichnis und die dazugehörige Abschlußbescheinigung unter Berücksichtigung der noch am Wahltage an erkrankte Wahlberechtigte erteilten Wahlscheine<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> .
 
 2.6  
-Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht unterrichtet<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> .  
-  
+Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht unterrichtet<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> .   
 
 Der Wahlvorstand wurde vom ......................................... unterrichtet, daß folgende(r) Wahlschein(e) für ungültig erklärt worden ist (sind):
 
@@ -727,13 +664,10 @@ Während der Wahlhandlung überprüfte der Wahlvorsteher oder ein von ihm bestim
 2.8  
 Während der Wahlhandlung traten an dem - den - Wahlgerät(en) Typ ............... Fabrik-Nr. ............... folgende Funktionsstörungen auf, die gemäß Bedienungsanleitung nicht auf einfache Weise und nicht ohne Gefahr für das Bekanntwerden oder Löschen der bereits abgegebenen Stimmen behoben werden konnten,:
 
-........................................................................................................................................................................................................................................................................................................  
-und die um ............ Uhr dazu führten, daß auf Beschluß des Wahlvorstandes zur Wahl mit dem
+........................................................................................................................................................................................................................................................................................................ und die um ............ Uhr dazu führten, daß auf Beschluß des Wahlvorstandes zur Wahl mit dem
 
-Wahlgerät-Typ ................. Fabrik-Nr. .................. übergegangen werden mußte<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> <span id="FnR.BJNR024590975BJNE002701311_03"></span><a href="#BJNR024590975BJNE002701311_03" class="FnR">3)</a></sup> .  
-
-Die Feststellungen nach Nr. 2.2 wurden wiederholt.  
-  
+Wahlgerät-Typ ................. Fabrik-Nr. .................. übergegangen werden mußte<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> <span id="FnR.BJNR024590975BJNE002701311_03"></span><a href="#BJNR024590975BJNE002701311_03" class="FnR">3)</a></sup> . 
+Die Feststellungen nach Nr. 2.2 wurden wiederholt.   
 
 Während der Wahlhandlung traten an dem - den Wahlgerät(en) Typ ............... Fabrik-Nr. ............... folgende Funktionsstörungen auf, die um ............... Uhr dazu führten, daß zur Urnenwahl übergegangen werden mußte<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> <span id="FnR.BJNR024590975BJNE002701311_04"></span><a href="#BJNR024590975BJNE002701311_04" class="FnR">4)</a></sup> :
 
@@ -744,8 +678,7 @@ Besondere Vorfälle während der Wahlhandlung waren - abgesehen von den unter 2.
 
 Als besondere Vorfälle waren - abgesehen von den unter 2.8 genannten - zu verzeichnen<a href="#BJNR024590975BJNE002701311_02" class="FnR">2)</a></sup> (z.B. Zurückweisung von Wählern in den Fällen des § 56 Abs. 7 und § 59 der Bundeswahlordnung):
 
-........................................................................................................................................................................................................................................................................................................  
-  
+........................................................................................................................................................................................................................................................................................................   
 
 Über die Einzelheiten wurden Niederschriften gefertigt und als Anlagen Nr. ............... bis Nr. ............... beigefügt.
 
@@ -818,10 +751,8 @@ Während der Wahlhandlung waren immer mindestens drei, während der Ermittlung u
 Die Wahlhandlung sowie die Ermittlung und die Feststellung des Wahlergebnisses waren öffentlich.
 
 5.7  
-Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.  
-
-.............................................. , den .................................... 19 ....  
-
+Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben. 
+.............................................. , den .................................... 19 .... 
 (Ort)
 
                                                                          
@@ -833,8 +764,7 @@ Das (Die) Mitglied(er) des Wahlvorstandes ......................................
 Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand am .................................................................................................................................................... ,  
 ........................ Uhr, dem Beauftragten der Gemeindebehörde
 
-
-## Anlage 3 – (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
+# Anlage 3 – (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 762 - 766)
 
@@ -970,8 +900,7 @@ als Beisitzer</td></tr></tbody></table>
 2. Wahlhandlung
 
 2.1  
-Der Wahlvorsteher eröffnete die Wahlhandlung damit, daß er die übrigen Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen Angelegenheiten hinwies. Er belehrte sie über ihre Aufgaben.  
-  
+Der Wahlvorsteher eröffnete die Wahlhandlung damit, daß er die übrigen Mitglieder des Wahlvorstandes auf ihre Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen Angelegenheiten hinwies. Er belehrte sie über ihre Aufgaben.   
 
 Abdrucke des Europawahlgesetzes, des Bundeswahlgesetzes, der Europawahlordnung und der Bundeswahlgeräteverordnung lagen im Wahlraum vor. Eine Abbildung der Seite des Wahlgerätes, an der der Wähler seine Stimme abgeben kann, nebst gerätespezifischer Darstellung der Wahlvorschläge und einer Anleitung zur Stimmabgabe mit dem Wahlgerät waren im Wahlraum ausgehängt.
 
@@ -1005,14 +934,12 @@ Damit die Wähler unbeobachtet ihre Stimme abgeben konnten, war das Wahlgerät i
 Mit der Stimmabgabe wurde um ............... Uhr ............... Minuten begonnen.
 
 2.5  
-Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> .  
-  
+Vor Beginn der Stimmabgabe berichtigte der Wahlvorsteher das Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> .   
 
 Der Wahlvorsteher berichtigte später entsprechend das Wählerverzeichnis und die dazugehörige Abschlußbescheinigung unter Berücksichtigung der noch am Wahltage an erkrankte Wahlberechtigte erteilten Wahlscheine<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> .
 
 2.6  
-Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht unterrichtet<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> .  
-  
+Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht unterrichtet<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> .   
 
 Der Wahlvorstand wurde vom ......................................... unterrichtet, daß folgende(r) Wahlschein(e) für ungültig erklärt worden ist (sind):
 
@@ -1026,12 +953,10 @@ Während der Wahlhandlung überprüfte der Wahlvorsteher oder das von ihm bestim
 2.8  
 Während der Wahlhandlung traten an dem Wahlgerät folgende Funktionsstörungen auf, die gemäß Bedienungsanleitung nicht auf einfache Weise und nicht ohne Gefahr für das Bekanntwerden oder Löschen der bereits abgegebenen Stimmen behoben werden konnten,:
 
-........................................................................................................................................................................................................................................................................................................  
-  
+........................................................................................................................................................................................................................................................................................................   
 und die um ............ Uhr dazu führten, daß auf Beschluß des Wahlvorstandes zur Wahl mit dem
 
-Wahlgerät-Typ ................. Fabrik-Nr. .................. übergegangen werden mußte<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> <span id="FnR.BJNR024590975BJNE002800311_03"></span><a href="#BJNR024590975BJNE002800311_03" class="FnR">3)</a></sup> .  
-  
+Wahlgerät-Typ ................. Fabrik-Nr. .................. übergegangen werden mußte<a href="#BJNR024590975BJNE002800311_02" class="FnR">2)</a></sup> <span id="FnR.BJNR024590975BJNE002800311_03"></span><a href="#BJNR024590975BJNE002800311_03" class="FnR">3)</a></sup> .   
 
 Die Feststellungen nach Nr. 2.2 wurden wiederholt.
 
@@ -1046,8 +971,7 @@ Als besondere Vorfälle waren – abgesehen von den unter 2.8 genannten – zu v
 
 ........................................................................................................................................................................................................................................................................................................
 
-........................................................................................................................................................................................................................................................................................................  
-  
+........................................................................................................................................................................................................................................................................................................   
 
 Über die Einzelheiten wurden Niederschriften gefertigt und als Anlagen Nr. .................... bis Nr. .................... beigefügt.
 
@@ -1119,10 +1043,8 @@ Während der Wahlhandlung waren immer drei, während der Ermittlung und Feststel
 Die Wahlhandlung sowie die Ermittlung und die Feststellung des Wahlergebnisses waren öffentlich.
 
 5.7  
-Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben.  
-
-.............................................. , den .................................... 19 ....  
-
+Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes genehmigt und von ihnen unterschrieben. 
+.............................................. , den .................................... 19 .... 
 (Ort)
 
                                                                          

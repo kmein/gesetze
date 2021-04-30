@@ -1,15 +1,11 @@
-# [EntschRG] Entschädigungsrentengesetz
-
-Ausfertigungsdatum: 22.04.1992
-
+% Entschädigungsrentengesetz
+% Ausfertigungsdatum: 22.04.1992
  
-
-## § 1
+# § 1
 
 Die Ehrenpensionen und Hinterbliebenenpensionen aufgrund der Anordnung über Ehrenpensionen für Kämpfer gegen den Faschismus und für Verfolgte des Faschismus sowie für deren Hinterbliebene vom 20. September 1976, die nach Anlage II Kapitel VIII Sachgebiet H Abschnitt III Nr. 5 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1214) mit Maßgaben fortgilt, werden nach den folgenden Vorschriften als Entschädigungsrenten weitergezahlt.
 
-
-## § 2
+# § 2
 
 (1) Personen, die bis zum 30. April 1992 eine Ehrenpension bezogen haben, erhalten eine Entschädigungsrente in Höhe von 717,50 Euro monatlich.
 
@@ -29,8 +25,7 @@ Die Ehrenpensionen und Hinterbliebenenpensionen aufgrund der Anordnung über Ehr
 
 (6) Entschädigungsrente für Witwen und Witwer wird geleistet, wenn die Ehe vor dem 1. Januar 1951 geschlossen wurde. Dies gilt auch, wenn eine Eheschließung vor dem 1. Januar 1951 wegen fehlender amtlicher Dokumente oder aus anderen wichtigen Gründen nicht möglich war oder eine eheähnliche Gemeinschaft bestand und die Ehe erst nach diesem Zeitpunkt geschlossen wurde. Bei einer Rückkehr aus einer Emigration oder bei Entlassung aus einer Internierung, Haft oder Kriegsgefangenschaft nach dem 31. Dezember 1945 tritt an die Stelle des 1. Januar 1951 der Ablauf von fünf Jahren nach der Rückkehr oder Entlassung.
 
-
-## § 3
+# § 3
 
 (1) Personen, die die Voraussetzungen für den Bezug einer Entschädigungsrente nur deshalb nicht erfüllen, weil sie eine Ehrenpension oder Hinterbliebenenpension am 30. April 1992 nicht bezogen haben, erhalten auf Antrag frühestens ab 3. Oktober 1990 eine Entschädigungsrente, wenn sie
 
@@ -46,13 +41,11 @@ und zu keiner Zeit Gründe für eine Aberkennung der Eigenschaft als Verfolgte v
 
 (3) Über die Bewilligung einer Entschädigungsrente nach Absatz 1 entscheidet das Bundesamt für Soziale Sicherung auf Vorschlag der Kommission nach § 3 des Versorgungsruhensgesetzes vom 25. Juli 1991 (BGBl. I S. 1606, 1684). Soweit es erforderlich ist, kann die Kommission bei öffentlichen Stellen Auskünfte einholen und Akten einsehen. Für die Übermittlung personenbezogener Daten und die Akteneinsicht gelten die für die übermittelnde oder Einsicht gewährende Stelle jeweils maßgebenden Regelungen. Auf Antrag des Betroffenen hat die Kommission eine von ihm benannte Verfolgtenorganisation zu hören. Der Vorschlag der Kommission ist mit einer schriftlichen Begründung zu versehen. Dem Betroffenen ist auch der Beschluß der Kommission bekanntzugeben. Will das Bundesamt für Soziale Sicherung in besonders begründeten Fällen von dem Vorschlag der Kommission abweichen, hat es dieses zu begründen. Im gerichtlichen Verfahren ist die Kommission beizuladen.
 
-
-## § 4
+# § 4
 
 Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu erlassenden Richtlinien bleiben als Einkommen bei Sozialleistungen, deren Gewährung von anderen Einkommen abhängig ist, unberücksichtigt. Bei Inanspruchnahme von Leistungen nach dem Zwölften Buch Sozialgesetzbuch werden Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu erlassenden Richtlinien zur Hälfte angerechnet.
 
-
-## § 5
+# § 5
 
 (1) Entschädigungsrenten sind nicht zu bewilligen, zu kürzen oder abzuerkennen, wenn der Berechtigte oder derjenige, von dem sich die Berechtigung ableitet, gegen die Grundsätze der Menschlichkeit oder der Rechtsstaatlichkeit verstoßen oder in schwerwiegendem Maße seine Stellung zum eigenen Vorteil oder zum Nachteil anderer mißbraucht hat.
 
@@ -64,8 +57,7 @@ Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu erlassenden Richt
 
 (5) Die Kommission kann Sachverhalte im Sinne des Absatzes 1 auch von sich aus aufgreifen. In solchen Fällen teilt sie dies der Deutschen Rentenversicherung Bund, dem Bundesversicherungsamt und dem Berechtigten mit.
 
-
-## § 6
+# § 6
 
 (1) Die Deutsche Rentenversicherung Bund ist für die Erfüllung der Aufgaben nach diesem Gesetz zuständig, soweit nicht die Zuständigkeit des Bundesamtes für Soziale Sicherung gegeben ist. Die Zuständigkeit der Deutschen Rentenversicherung Bund erstreckt sich auch auf die bisher nicht von der Überleitungsanstalt Sozialversicherung ausgezahlten Ehrenpensionen.
 
@@ -75,13 +67,11 @@ Entschädigungsrenten und Leistungen aufgrund der nach § 8 zu erlassenden Richt
 
 (4) Über Streitigkeiten aufgrund dieses Gesetzes entscheiden die Gerichte der Sozialgerichtsbarkeit; es sind die für die Rentenversicherung geltenden Vorschriften anzuwenden. Bei einer Entscheidung nach § 5 gilt § 2 Abs. 3 und 4 des Versorgungsruhensgesetzes entsprechend.
 
-
-## § 7 – (weggefallen)
+# § 7 – (weggefallen)
 
 \-
 
-
-## § 8
+# § 8
 
 (1) Die Bundesregierung erläßt Richtlinien für die Entschädigung von Personen, die Verfolgte im Sinne des § 1 des Bundesentschädigungsgesetzes (BEG) sind, keinen Anspruch auf Entschädigungsrente nach diesem Gesetz haben und die wegen ihres Wohnsitzes im Beitrittsgebiet keine Wiedergutmachungsleistungen nach dem Bundesentschädigungsgesetz oder anderen vergleichbaren Regelungen erhalten konnten. Laufende Leistungen sind vorzusehen
 

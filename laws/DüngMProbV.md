@@ -1,15 +1,11 @@
-# [DüngMProbV] Verordnung über Probenahmeverfahren und Analysemethoden für die amtliche Düngemittelüberwachung  (Düngemittel-Probenahme- und Analyseverordnung)
-
-Ausfertigungsdatum: 19.12.1977
-
+% Verordnung über Probenahmeverfahren und Analysemethoden für die amtliche Düngemittelüberwachung  (Düngemittel-Probenahme- und Analyseverordnung)
+% Ausfertigungsdatum: 19.12.1977
  
-
-## § 1 – Sachlicher Anwendungsbereich
+# § 1 – Sachlicher Anwendungsbereich
 
 Für die Untersuchung von Düngemitteln, die nicht als EG-Düngemittel gekennzeichnet sind, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln im Rahmen der amtlichen Überwachung (§ 12 Abs. 1 des Düngegesetzes) werden nach dieser Verordnung die Proben genommen und die Analysen durchgeführt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -23,8 +19,7 @@ Im Sinne dieser Verordnung ist
 
 5. eine Endprobe: eine für die Untersuchung bestimmte Teilmenge einer Sammelprobe oder einer reduzierten Sammelprobe.
 
-
-## § 3 – Probenahmegeräte
+# § 3 – Probenahmegeräte
 
 (1) Die Probenahmegeräte und die Probenbehältnisse müssen aus einem Material bestehen, das die beprobten Stoffe nicht beeinflusst.
 
@@ -32,22 +27,18 @@ Im Sinne dieser Verordnung ist
 
 (3) Im Falle der Prüfung mikrobiologischer Anforderungen sind alle Probenahmegeräte und Probenbehältnisse vor Gebrauch zu sterilisieren oder zu desinfizieren, soweit dies erforderlich ist, um eine ordnungsgemäße Analyse zu gewährleisten.
 
-
-## § 4 – Umfang einer Partie
+# § 4 – Umfang einer Partie
 
 Ist eine Partie so groß oder so gelagert, dass ihr nicht an jeder Stelle Einzelproben entnommen werden können, so gilt für die Probenahme nur der Teil als Partie, dem die Einzelproben entnommen worden sind.
 
+# § 5 – Anzahl und Umfang der erforderlichen Einzelproben
 
-## § 5 – Anzahl und Umfang der erforderlichen Einzelproben
-
-(1) Bei den in Spalte 1 der folgenden Tabelle aufgeführten Partien ist die dort in Spalte 2 festgesetzte Mindestzahl an Einzelproben zu ziehen.  
-
+(1) Bei den in Spalte 1 der folgenden Tabelle aufgeführten Partien ist die dort in Spalte 2 festgesetzte Mindestzahl an Einzelproben zu ziehen. 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">1</td><td style="text-align: center;">2</td></tr><tr class="even"><td style="text-align: center;">Art und Umfang der Partie</td><td style="text-align: center;">Probenzahl</td></tr><tr class="odd"><td style="text-align: center;">Unverpackt oder in Behältnissen über 100 kg oder 100 Liter:</td><td style="text-align: center;">Mindestzahl der Einzelproben:</td></tr><tr class="even"><td style="text-align: center;"><dl><dt>a)</dt><dd>bis 2,5 t oder bis 2,5 cbm</dd></dl></td><td style="text-align: center;">7</td></tr><tr class="odd"><td style="text-align: center;"><dl><dt>b)</dt><dd>über 2,5 t bis 80 t oder über 2,5 cbm bis 80 cbm</dd></dl></td><td style="text-align: center;">die Quadratwurzel aus dem 20fachen Gewicht oder Volumen der Partie in Tonnen oder cbm, aufgerundet auf ganze Zahlen</td></tr><tr class="even"><td style="text-align: center;"><dl><dt>c)</dt><dd>über 80 t oder über 80 cbm</dd></dl></td><td style="text-align: center;">40</td></tr><tr class="odd"><td style="text-align: center;">Verpackt:</td><td style="text-align: center;">Mindestzahl der zu beprobenden Packungen:</td></tr><tr class="even"><td style="text-align: center;"><dl><dt>a)</dt><dd>Packungen bis 1 kg oder 1 l Inhalt</dd></dl></td><td style="text-align: center;">4</td></tr><tr class="odd"><td style="text-align: center;"><dl><dt>b)</dt><dd>Packungen über 1 kg oder 1 l Inhalt:</dd></dl></td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;"><dl><dt> </dt><dd><dl><dt>-</dt><dd>bis 4 Packungen</dd></dl></dd></dl></td><td style="text-align: center;">alle</td></tr><tr class="odd"><td style="text-align: center;"><dl><dt> </dt><dd><dl><dt>-</dt><dd>5 bis 16 Packungen</dd></dl></dd></dl></td><td style="text-align: center;">4</td></tr><tr class="even"><td style="text-align: center;"><dl><dt> </dt><dd><dl><dt>-</dt><dd>17 bis 400 Packungen</dd></dl></dd></dl></td><td style="text-align: center;">die Quadratwurzel aus der Anzahl der Packungen, aufgerundet auf ganze Zahlen</td></tr><tr class="odd"><td style="text-align: center;"><dl><dt> </dt><dd><dl><dt>-</dt><dd>über 400 Packungen</dd></dl></dd></dl></td><td style="text-align: center;">20</td></tr></tbody></table>
 
 (2) Bei Packungen oder Behältnissen bis zu einem Kilogramm oder einem Liter Inhalt bildet jeweils der Inhalt einer Packung oder eines Behältnisses die Einzelprobe. Bei unverpackten Stoffen oder bei größeren Packungen oder Behältnissen darf die Einzelprobe die Menge von 200 Gramm oder 200 Millilitern nicht unterschreiten. Wird zur Probenahme aus bewegtem Gut eine mechanische Vorrichtung benutzt, so braucht diese Mindestmenge für die Einzelprobe nicht eingehalten zu werden.
 
-
-## § 6 – Anzahl und Umfang der erforderlichen Sammelproben
+# § 6 – Anzahl und Umfang der erforderlichen Sammelproben
 
 (1) Für jede Partie ist grundsätzlich nur eine Sammelprobe zu bilden. Zwei Sammelproben sind zu bilden, soweit
 
@@ -69,8 +60,7 @@ b) im Falle von Wirtschaftsdüngern, Düngemitteln nach Anlage 1 Abschnitt 3 der
 
 nicht unterschreiten.
 
-
-## § 7 – Anzahl und Umfang der erforderlichen Endproben
+# § 7 – Anzahl und Umfang der erforderlichen Endproben
 
 (1) Aus jeder Sammelprobe sind, gegebenenfalls nach Bildung einer reduzierten Sammelprobe, mindestens drei Endproben zu bilden.
 
@@ -84,8 +74,7 @@ nicht unterschreiten. Bei verpackten Stoffen mit einem Packungsinhalt von bis zu
 
 (3) Bei Endproben von Ammoniumnitrat-Einnährstoffdünger mit hohem Stickstoffgehalt zur Prüfung der Anforderungen nach der Gefahrstoffverordnung darf die Menge ein Kilogramm, für die Prüfung der Detonationsfähigkeit 25 Kilogramm nicht unterschreiten.
 
-
-## § 8 – Entnahme und Bildung der Proben
+# § 8 – Entnahme und Bildung der Proben
 
 (1) Die Stoffe sind in dem Zustand zu beproben, in dem sie gewerbsmäßig in Verkehr gebracht werden.
 
@@ -117,8 +106,7 @@ nicht unterschreiten.
 
 (7) Für alle Sammelproben, reduzierte Sammelproben und Endproben ist sicherzustellen, dass diese hinsichtlich ihrer Stoffeigenschaften der beprobten Partie entsprechen.
 
-
-## § 9 – Behandlung der Endproben
+# § 9 – Behandlung der Endproben
 
 (1) Die Endproben sind in saubere, trockene, weitgehend feuchtigkeitsundurchlässige und weitgehend luftdicht verschließbare Behältnisse abzufüllen; soweit es erforderlich ist, um eine ordnungsgemäße Analyse zu gewährleisten, sind sterilisierte oder desinfizierte Behältnisse zu verwenden. Die Behältnisse sind zu verschließen. Der Verschluss ist durch Plombe oder Siegel so zu sichern, dass die Sicherung beim Öffnen des Behältnisses unbrauchbar wird. Endproben von Ammoniumnitrat-Einnährstoffdünger mit hohem Stickstoffgehalt zur Prüfung der Anforderungen nach der Gefahrstoffverordnung sind bei einer Temperatur von 0 bis 25 Grad Celsius aufzubewahren.
 
@@ -132,8 +120,7 @@ nicht unterschreiten.
 
 Die Kennzeichnung der Probe muss von der Plombe oder dem Siegel mit erfasst werden.
 
-
-## § 10 – Probenahmeprotokoll
+# § 10 – Probenahmeprotokoll
 
 (1) Über die Probenahme ist ein Probenahmeprotokoll mit mindestens folgenden Angaben zu fertigen:
 
@@ -163,13 +150,11 @@ Die Kennzeichnung der Probe muss von der Plombe oder dem Siegel mit erfasst werd
 
 (3) Jeder Endprobe ist eine Ausfertigung des Probenahmeprotokolls beizufügen.
 
-
-## § 11 – Verwendung der Endproben
+# § 11 – Verwendung der Endproben
 
 Eine Endprobe ist der mit der Untersuchung beauftragten Stelle von der Überwachungsbehörde unverzüglich nach der Probenahme zum Zwecke der amtlichen Untersuchung zu übersenden. Eine zweite Endprobe ist von der Überwachungsbehörde für eine etwaige amtlich veranlasste Gegenuntersuchung aufzubewahren. Eine weitere Endprobe ist dem Betrieb, in dem die Einzelproben entnommen worden sind, auf Verlangen zu überlassen.
 
-
-## § 12 – Analysemethoden
+# § 12 – Analysemethoden
 
 (1) Bei der amtlichen Untersuchung von Ammoniumnitrat - Einnährstoffdünger mit hohem Stickstoffgehalt zur Prüfung der Anforderungen nach der Gefahrstoffverordnung sind die in Anhang III der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. EU Nr. L 304 S. 1) beschriebenen Methoden anzuwenden.
 
@@ -191,18 +176,15 @@ anzuwenden.
 
 (3) Die jeweils angewendete Prüfmethode ist im Prüfbericht anzugeben.
 
-
-## § 13 – (weggefallen)
-
-\-
-
-
-## § 14 – (Inkrafttreten)
+# § 13 – (weggefallen)
 
 \-
 
+# § 14 – (Inkrafttreten)
 
-## Anlage – (zu § 12 Abs. 2 Satz 2 Nr. 2)  Analysemethoden des Deutschen Instituts für Normung
+\-
+
+# Anlage – (zu § 12 Abs. 2 Satz 2 Nr. 2)  Analysemethoden des Deutschen Instituts für Normung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1826)
 

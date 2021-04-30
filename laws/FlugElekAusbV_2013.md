@@ -1,20 +1,15 @@
-# [FlugElekAusbV 2013] Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin
-
-Ausfertigungsdatum: 28.06.2013
-
+% Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin
+% Ausfertigungsdatum: 28.06.2013
  
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Fluggerätelektronikers und der Fluggerätelektronikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1, Sachliche Gliederung) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit); hierbei sind die in Anlage 3 enthaltenen Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan (Anlage 2, Zeitliche Gliederung) abweichende Organisation der Berufsausbildung ist insbesondere insoweit zulässig, als betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -82,8 +77,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach Absatz 2 vermittelt werden können.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 5 bis 7 nachzuweisen.
 
@@ -91,13 +85,11 @@ Die Einsatzgebiete werden vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebie
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Abschlussprüfung
+# § 5 – Abschlussprüfung
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 6 – Teil 1 der Abschlussprüfung
+# § 6 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -123,8 +115,7 @@ e) Produkte in Betrieb zu nehmen, zu übergeben und zu erläutern, Auftragsdurch
 
 3. die Prüfungszeit beträgt acht Stunden. Innerhalb dieser Zeit haben das situative Fachgespräch einen zeitlichen Umfang von höchstens zehn Minuten und die schriftlich zu bearbeitenden Aufgaben von 90 Minuten.
 
-
-## § 7 – Teil 2 der Abschlussprüfung
+# § 7 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -210,8 +201,7 @@ e) Schaltungsunterlagen auszuwerten;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelung
+# § 8 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -252,8 +242,7 @@ funktionsfähigen Teilsystem</td><td style="text-align: right;">mit 30 Prozent,<
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## Anlage 1 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Sachliche Gliederung –
+# Anlage 1 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Sachliche Gliederung –
 
 (Fundstelle: BGBl I 2013, 2204 - 2209)
 
@@ -673,8 +662,7 @@ c) Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materia
 
 d) Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen
 
-
-## Anlage 2 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Zeitliche Gliederung –
+# Anlage 2 – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl I 2013, 2210 – 2220)
 
@@ -1730,7 +1718,6 @@ i) Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
 
  
 
-
-## Anlage 3 – (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
+# Anlage 3 – (zu § 3 Absatz 1)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Verordnung (EU) Nr. 1149/2011 Anhang III (Teil 66)
 
 (Fundstelle: BGBl I 2013, 2221 – 2227)

@@ -1,10 +1,7 @@
-# [LPartG] Gesetz über die Eingetragene Lebenspartnerschaft  (Lebenspartnerschaftsgesetz - LPartG)
-
-Ausfertigungsdatum: 16.02.2001
-
+% Gesetz über die Eingetragene Lebenspartnerschaft  (Lebenspartnerschaftsgesetz - LPartG)
+% Ausfertigungsdatum: 16.02.2001
  
-
-## § 1 – Lebenspartnerschaft
+# § 1 – Lebenspartnerschaft
 
 Nach dem 30. September 2017 können Lebenspartnerschaften zwischen zwei Personen gleichen Geschlechts nicht mehr begründet werden. Dieses Gesetz gilt für
 
@@ -12,13 +9,11 @@ Nach dem 30. September 2017 können Lebenspartnerschaften zwischen zwei Personen
 
 2. im Ausland begründete Lebenspartnerschaften, soweit auf sie deutsches Recht anwendbar ist.
 
-
-## § 2 – Partnerschaftliche Lebensgemeinschaft
+# § 2 – Partnerschaftliche Lebensgemeinschaft
 
 Die Lebenspartner sind einander zu Fürsorge und Unterstützung sowie zur gemeinsamen Lebensgestaltung verpflichtet. Sie tragen füreinander Verantwortung.
 
-
-## § 3 – Lebenspartnerschaftsname
+# § 3 – Lebenspartnerschaftsname
 
 (1) Die Lebenspartner können einen gemeinsamen Namen (Lebenspartnerschaftsnamen) bestimmen. Zu ihrem Lebenspartnerschaftsnamen können die Lebenspartner durch Erklärung gegenüber dem Standesamt den Geburtsnamen oder den zur Zeit der Erklärung über die Bestimmung des Lebenspartnerschaftsnamens geführten Namen eines der Lebenspartner bestimmen. Die Erklärung über die Bestimmung des Lebenspartnerschaftsnamens soll bei der Begründung der Lebenspartnerschaft erfolgen. Wird die Erklärung später abgegeben, muss sie öffentlich beglaubigt werden.
 
@@ -30,35 +25,29 @@ Die Lebenspartner sind einander zu Fürsorge und Unterstützung sowie zur gemein
 
 (5) (weggefallen)
 
-
-## § 4 – Umfang der Sorgfaltspflicht
+# § 4 – Umfang der Sorgfaltspflicht
 
 Die Lebenspartner haben bei der Erfüllung der sich aus dem lebenspartnerschaftlichen Verhältnis ergebenden Verpflichtungen einander nur für diejenige Sorgfalt einzustehen, welche sie in eigenen Angelegenheiten anzuwenden pflegen.
 
-
-## § 5 – Verpflichtung zum Lebenspartnerschaftsunterhalt
+# § 5 – Verpflichtung zum Lebenspartnerschaftsunterhalt
 
 Die Lebenspartner sind einander verpflichtet, durch ihre Arbeit und mit ihrem Vermögen die partnerschaftliche Lebensgemeinschaft angemessen zu unterhalten. § 1360 Satz 2, die §§ 1360a, 1360b und 1609 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-
-## § 6 – Güterstand
+# § 6 – Güterstand
 
 Die Lebenspartner leben im Güterstand der Zugewinngemeinschaft, wenn sie nicht durch Lebenspartnerschaftsvertrag (§ 7) etwas anderes vereinbaren. § 1363 Abs. 2 und die §§ 1364 bis 1390 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-
-## § 7 – Lebenspartnerschaftsvertrag
+# § 7 – Lebenspartnerschaftsvertrag
 
 Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Lebenspartnerschaftsvertrag) regeln. Die §§ 1409 bis 1563 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-
-## § 8 – Sonstige vermögensrechtliche Wirkungen
+# § 8 – Sonstige vermögensrechtliche Wirkungen
 
 (1) Zugunsten der Gläubiger eines der Lebenspartner wird vermutet, dass die im Besitz eines Lebenspartners oder beider Lebenspartner befindlichen beweglichen Sachen dem Schuldner gehören. Im Übrigen gilt § 1362 Abs. 1 Satz 2 und 3 und Abs. 2 des Bürgerlichen Gesetzbuchs entsprechend.
 
 (2) § 1357 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-
-## § 9 – Regelungen in Bezug auf Kinder eines Lebenspartners
+# § 9 – Regelungen in Bezug auf Kinder eines Lebenspartners
 
 (1) Führt der allein sorgeberechtigte Elternteil eine Lebenspartnerschaft, hat sein Lebenspartner im Einvernehmen mit dem sorgeberechtigten Elternteil die Befugnis zur Mitentscheidung in Angelegenheiten des täglichen Lebens des Kindes. § 1629 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
@@ -74,8 +63,7 @@ Die Lebenspartner können ihre güterrechtlichen Verhältnisse durch Vertrag (Le
 
 (7) Ein Lebenspartner kann ein Kind seines Lebenspartners allein annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs. 2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen Gesetzbuchs entsprechend.
 
-
-## § 10 – Erbrecht
+# § 10 – Erbrecht
 
 (1) Der überlebende Lebenspartner des Erblassers ist neben Verwandten der ersten Ordnung zu einem Viertel, neben Verwandten der zweiten Ordnung oder neben Großeltern zur Hälfte der Erbschaft gesetzlicher Erbe. Treffen mit Großeltern Abkömmlinge von Großeltern zusammen, so erhält der Lebenspartner auch von der anderen Hälfte den Anteil, der nach § 1926 des Bürgerlichen Gesetzbuchs den Abkömmlingen zufallen würde. Zusätzlich stehen ihm die zum lebenspartnerschaftlichen Haushalt gehörenden Gegenstände, soweit sie nicht Zubehör eines Grundstücks sind, und die Geschenke zur Begründung der Lebenspartnerschaft als Voraus zu. Ist der überlebende Lebenspartner neben Verwandten der ersten Ordnung gesetzlicher Erbe, so steht ihm der Voraus nur zu, soweit er ihn zur Führung eines angemessenen Haushalts benötigt. Auf den Voraus sind die für Vermächtnisse geltenden Vorschriften anzuwenden. Gehört der überlebende Lebenspartner zu den erbberechtigten Verwandten, so erbt er zugleich als Verwandter. Der Erbteil, der ihm aufgrund der Verwandtschaft zufällt, gilt als besonderer Erbteil.
 
@@ -97,20 +85,17 @@ In diesen Fällen gilt § 16 entsprechend.
 
 (7) Die Vorschriften des Bürgerlichen Gesetzbuchs über das Inventar für eine zum Gesamtgut gehörende Erbschaft und über den Erbverzicht gelten entsprechend.
 
-
-## § 11 – Sonstige Wirkungen der Lebenspartnerschaft
+# § 11 – Sonstige Wirkungen der Lebenspartnerschaft
 
 (1) Ein Lebenspartner gilt als Familienangehöriger des anderen Lebenspartners, soweit nicht etwas anderes bestimmt ist.
 
 (2) Die Verwandten eines Lebenspartners gelten als mit dem anderen Lebenspartner verschwägert. Die Linie und der Grad der Schwägerschaft bestimmen sich nach der Linie und dem Grad der sie vermittelnden Verwandtschaft. Die Schwägerschaft dauert fort, auch wenn die Lebenspartnerschaft, die sie begründet hat, aufgelöst wurde.
 
-
-## § 12 – Unterhalt bei Getrenntleben
+# § 12 – Unterhalt bei Getrenntleben
 
 Leben die Lebenspartner getrennt, so kann ein Lebenspartner von dem anderen den nach den Lebensverhältnissen und den Erwerbs- und Vermögensverhältnissen der Lebenspartner angemessenen Unterhalt verlangen. Die §§ 1361 und 1609 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-
-## § 13 – Verteilung der Haushaltsgegenstände bei Getrenntleben
+# § 13 – Verteilung der Haushaltsgegenstände bei Getrenntleben
 
 (1) Leben die Lebenspartner getrennt, so kann jeder von ihnen die ihm gehörenden Haushaltsgegenstände von dem anderen Lebenspartner herausverlangen. Er ist jedoch verpflichtet, sie dem anderen Lebenspartner zum Gebrauch zu überlassen, soweit dieser sie zur Führung eines abgesonderten Haushalts benötigt und die Überlassung nach den Umständen des Falles der Billigkeit entspricht.
 
@@ -118,8 +103,7 @@ Leben die Lebenspartner getrennt, so kann ein Lebenspartner von dem anderen den 
 
 (3) Die Eigentumsverhältnisse bleiben unberührt, sofern die Lebenspartner nichts anderes vereinbaren.
 
-
-## § 14 – Wohnungszuweisung bei Getrenntleben
+# § 14 – Wohnungszuweisung bei Getrenntleben
 
 (1) Leben die Lebenspartner voneinander getrennt oder will einer von ihnen getrennt leben, so kann ein Lebenspartner verlangen, dass ihm der andere die gemeinsame Wohnung oder einen Teil zur alleinigen Benutzung überlässt, soweit dies auch unter Berücksichtigung der Belange des anderen Lebenspartners notwendig ist, um eine unbillige Härte zu vermeiden. Eine unbillige Härte kann auch dann gegeben sein, wenn das Wohl von im Haushalt lebenden Kindern beeinträchtigt ist. Steht einem Lebenspartner allein oder gemeinsam mit einem Dritten das Eigentum, das Erbbaurecht oder der Nießbrauch an dem Grundstück zu, auf dem sich die gemeinsame Wohnung befindet, so ist dies besonders zu berücksichtigen; Entsprechendes gilt für das Wohnungseigentum, das Dauerwohnrecht und das dingliche Wohnrecht.
 
@@ -129,8 +113,7 @@ Leben die Lebenspartner getrennt, so kann ein Lebenspartner von dem anderen den 
 
 (4) Ist ein Lebenspartner aus der gemeinsamen Wohnung ausgezogen, um getrennt zu leben und hat er binnen sechs Monaten nach seinem Auszug eine ernstliche Rückkehrabsicht dem anderen Lebenspartner gegenüber nicht bekundet, so wird unwiderleglich vermutet, dass er dem in der gemeinsamen Wohnung verbliebenen Lebenspartner das alleinige Nutzungsrecht überlassen hat.
 
-
-## § 15 – Aufhebung der Lebenspartnerschaft
+# § 15 – Aufhebung der Lebenspartnerschaft
 
 (1) Die Lebenspartnerschaft wird auf Antrag eines oder beider Lebenspartner durch richterliche Entscheidung aufgehoben.
 
@@ -154,28 +137,23 @@ Das Gericht hebt die Lebenspartnerschaft ferner auf, wenn bei einem Lebenspartne
 
 (5) Die Lebenspartner leben getrennt, wenn zwischen ihnen keine häusliche Gemeinschaft besteht und ein Lebenspartner sie erkennbar nicht herstellen will, weil er die lebenspartnerschaftliche Gemeinschaft ablehnt. § 1567 Abs. 1 Satz 2 und Abs. 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-
-## § 16 – Nachpartnerschaftlicher Unterhalt
+# § 16 – Nachpartnerschaftlicher Unterhalt
 
 Nach der Aufhebung der Lebenspartnerschaft obliegt es jedem Lebenspartner, selbst für seinen Unterhalt zu sorgen. Ist er dazu außerstande, hat er gegen den anderen Lebenspartner einen Anspruch auf Unterhalt nur entsprechend den §§ 1570 bis 1586b und 1609 des Bürgerlichen Gesetzbuchs.
 
-
-## § 17 – Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft
+# § 17 – Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft
 
 Für die Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anlässlich der Aufhebung der Lebenspartnerschaft gelten die §§ 1568a und 1568b des Bürgerlichen Gesetzbuchs entsprechend.
 
-
-## § 18 – (weggefallen)
-
-\-
-
-
-## § 19 – (weggefallen)
+# § 18 – (weggefallen)
 
 \-
 
+# § 19 – (weggefallen)
 
-## § 20 – Versorgungsausgleich
+\-
+
+# § 20 – Versorgungsausgleich
 
 (1) Wird eine Lebenspartnerschaft aufgehoben, findet in entsprechender Anwendung des Versorgungsausgleichsgesetzes ein Ausgleich von im In- oder Ausland bestehenden Anrechten (§ 2 Abs. 1 des Versorgungsausgleichsgesetzes) statt, soweit sie in der Lebenspartnerschaftszeit begründet oder aufrechterhalten worden sind.
 
@@ -185,8 +163,7 @@ Für die Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anläs
 
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden, wenn die Lebenspartnerschaft vor dem 1. Januar 2005 begründet worden ist und die Lebenspartner eine Erklärung nach § 21 Abs. 4 nicht abgegeben haben.
 
-
-## § 20a – Umwandlung einer Lebenspartnerschaft in eine Ehe
+# § 20a – Umwandlung einer Lebenspartnerschaft in eine Ehe
 
 (1) Eine Lebenspartnerschaft wird in eine Ehe umgewandelt, wenn beide Lebenspartner vor dem Standesbeamten persönlich und bei gleichzeitiger Anwesenheit erklären, miteinander eine Ehe führen zu wollen. Für die Umwandlung gelten die Vorschriften über die Eheschließung und die Eheaufhebung entsprechend. Die Lebenspartnerschaft wird nach der Umwandlung als Ehe fortgeführt.
 
@@ -200,17 +177,14 @@ Für die Behandlung der gemeinsamen Wohnung und der Haushaltsgegenstände anläs
 
 (6) Nach der Umwandlung der Lebenspartnerschaft in eine Ehe gilt für den Versorgungsausgleich der erste Tag des Monats, in dem die Lebenspartnerschaft begründet worden ist, als Beginn der Ehezeit.
 
-
-## § 21 – Anwendung eherechtlicher Regelungen auf Lebenspartnerschaften
+# § 21 – Anwendung eherechtlicher Regelungen auf Lebenspartnerschaften
 
 Regelungen zu Ehegatten und Ehen, die nach dem 22. Dezember 2018 in Kraft treten, gelten entsprechend für Lebenspartner und Lebenspartnerschaften, wenn nichts anderes bestimmt ist.
 
-
-## § 22 – Abgabe von Vorgängen
+# § 22 – Abgabe von Vorgängen
 
 Die bis zum Inkrafttreten dieses Gesetzes nach Landesrecht für die Begründung der Lebenspartnerschaft zuständigen Stellen haben die bei ihnen entstandenen Vorgänge einer jeden Lebenspartnerschaft an das Standesamt abzugeben, das nach § 17 des Personenstandsgesetzes für die Entgegennahme der Erklärungen der Lebenspartner zuständig gewesen wäre. Sind danach mehrere Standesämter zuständig, so sind die Unterlagen an das Standesamt, in dessen Bezirk beide Lebenspartner ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt haben, abzugeben; haben die Lebenspartner keinen gemeinsamen Wohnsitz oder gewöhnlichen Aufenthalt, so ist das Standesamt zuständig, in dessen Bezirk einer der Lebenspartner seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat. Verbleiben auch danach noch mehrere Zuständigkeiten, so ist die abgebende Behörde bei der Wahl unter den zuständigen Standesämtern frei. Der Standesbeamte des danach zuständigen Standesamts hat die in § 17 in Verbindung mit den §§ 15, 16 des Personenstandsgesetzes bezeichneten Angaben unter Hinweis auf die Behörde, vor der die Lebenspartnerschaft begründet worden ist, in ein gesondertes Lebenspartnerschaftsregister einzutragen.
 
-
-## § 23 – Abweichende landesrechtliche Zuständigkeiten
+# § 23 – Abweichende landesrechtliche Zuständigkeiten
 
 Die Länder können abweichend von den §§ 3 und 9 bestimmen, dass die jeweiligen Erklärungen nicht gegenüber dem Standesbeamten, sondern gegenüber einer anderen Urkundsperson oder einer anderen Behörde abzugeben sind; bereits bestehende landesrechtliche Regelungen bleiben unberührt. Die zuständigen Behörden sind verpflichtet, dem zuständigen Standesamt die für die Eintragung in das Lebenspartnerschaftsregister erforderlichen Angaben mitzuteilen. Sie sind überdies berechtigt, personenbezogene Daten von Amts wegen an öffentliche Stellen des Bundes, der Länder und der Kommunen zu übermitteln, wenn die Kenntnis dieser Daten zur Ergänzung und Berichtigung sowie zur Fortführung von Unterlagen dieser Stellen im Rahmen ihrer Aufgaben erforderlich ist.

@@ -1,20 +1,15 @@
-# [VermBDV] Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes  (Fünftes Vermögensbildungsgesetz-Durchführungsverordnung - VermBDV)
-
-Ausfertigungsdatum: 20.12.1994
-
+% Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes  (Fünftes Vermögensbildungsgesetz-Durchführungsverordnung - VermBDV)
+% Ausfertigungsdatum: 20.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Abs. 5 und des § 15 Abs. 2 des Fünften Vermögensbildungsgesetzes in der Fassung der Bekanntmachung vom 4. März 1994 (BGBl. I S. 406) verordnet die Bundesregierung und auf Grund des § 156 Abs. 1 der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613), der durch Artikel 26 des Gesetzes vom 21. Dezember 1993 (BGBl. I S. 2310) geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Verfahren
+# § 1 – Verfahren
 
 Auf das Verfahren bei der Festsetzung, Auszahlung und Rückzahlung der Arbeitnehmer-Sparzulage sind neben den in § 14 Abs. 2 des Gesetzes bezeichneten Vorschriften die für die Einkommensteuer und Lohnsteuer geltenden Regelungen sinngemäß anzuwenden, soweit sich aus den nachstehenden Vorschriften nichts anderes ergibt.
 
-
-## § 2 – Mitteilungspflichten des Arbeitgebers, des Kreditinstituts oder des Unternehmens
+# § 2 – Mitteilungspflichten des Arbeitgebers, des Kreditinstituts oder des Unternehmens
 
 (1) Der Arbeitgeber hat bei Überweisung vermögenswirksamer Leistungen im Dezember und Januar eines Kalenderjahres dem Kreditinstitut oder dem Unternehmen, bei dem die vermögenswirksamen Leistungen angelegt werden, das Kalenderjahr mitzuteilen, dem die vermögenswirksamen Leistungen zuzuordnen sind.
 
@@ -50,15 +45,13 @@ das Ende der für die vermögenswirksamen Leistungen geltenden Sperrfrist unverz
 
 (+++ § 2 Abs. 2 Satz 1 F. 2013-06-26: Zur Anwendung vgl. § 11 Abs. 1 Satz 2 u. 3 F. 2013-06-26 +++)
 
-
-## § 3 – Aufzeichnungspflichten des Beteiligungsunternehmens
+# § 3 – Aufzeichnungspflichten des Beteiligungsunternehmens
 
 (1) Das Unternehmen, an dem eine nichtverbriefte Vermögensbeteiligung im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l des Gesetzes auf Grund eines Vertrags im Sinne des § 6 Abs. 2 oder des § 7 Abs. 2 des Gesetzes mit vermögenswirksamen Leistungen begründet oder erworben wird, hat den Betrag der vermögenswirksamen Leistungen und das Kalenderjahr, dem sie zuzuordnen sind, sowie das Ende der Sperrfrist aufzuzeichnen. Bei Verträgen im Sinne des § 4 des Gesetzes genügt die Aufzeichnung des Endes der Sperrfrist.
 
 (2) Zu den Aufzeichnungen nach Absatz 1 Satz 1 ist auch der Arbeitgeber verpflichtet, an dessen Unternehmen eine nichtverbriefte Vermögensbeteiligung im Sinne des § 2 Abs. 1 Nr. 1 Buchstabe g bis l des Gesetzes auf Grund eines Vertrags im Sinne des § 6 Abs. 1 oder des § 7 Abs. 1 des Gesetzes mit vermögenswirksamen Leistungen begründet oder erworben wird.
 
-
-## § 4 – Festlegung von Wertpapieren
+# § 4 – Festlegung von Wertpapieren
 
 (1) Wertpapiere, die auf Grund eines Vertrags im Sinne des § 4 des Gesetzes mit vermögenswirksamen Leistungen erworben werden, sind auf den Namen des Arbeitnehmers dadurch festzulegen, daß sie für die Dauer der Sperrfrist wie folgt in Verwahrung gegeben werden:
 
@@ -86,8 +79,7 @@ In den Fällen der Nummern 1 und 2 hat der Arbeitgeber die Verwahrung, den Betra
 
 (4) Bei einer Verwahrung durch ein Kreditinstitut oder eine Kapitalverwaltungsgesellschaft hat der Arbeitnehmer innerhalb von drei Monaten nach dem Erwerb der Wertpapiere dem Arbeitgeber eine Bescheinigung des Kreditinstituts oder der Kapitalverwaltungsgesellschaft darüber vorzulegen, daß die Wertpapiere entsprechend Absatz 1 in Verwahrung genommen worden sind.
 
-
-## § 5 – Elektronische Vermögensbildungsbescheinigung
+# § 5 – Elektronische Vermögensbildungsbescheinigung
 
 (1) Das Kreditinstitut, das Unternehmen oder der Arbeitgeber, bei dem vermögenswirksame Leistungen nach § 2 Absatz 1 Nummer 1 bis 4 oder Absatz 2 bis 4 des Gesetzes angelegt werden, hat in der elektronischen Vermögensbildungsbescheinigung seinen Institutsschlüssel und die Vertragsnummer des Arbeitnehmers anzugeben. Der Institutsschlüssel ist bei der Zentralstelle für Arbeitnehmer-Sparzulage und Wohnungsbauprämie anzufordern. Bei der Anforderung sind anzugeben
 
@@ -107,8 +99,7 @@ Die Vertragsnummer darf keine Sonderzeichen enthalten.
 
 (+++ § 5 F. 2013-06-26: Zur Anwendung vgl. § 11 Abs. 1 Satz 2 u. 3 F. 2013-06-26 +++)
 
-
-## § 6 – Festsetzung der Arbeitnehmer-Sparzulage, Mitteilungspflichten der Finanzämter
+# § 6 – Festsetzung der Arbeitnehmer-Sparzulage, Mitteilungspflichten der Finanzämter
 
 (1) Die Festsetzung der Arbeitnehmer-Sparzulage ist regelmäßig mit der Einkommensteuererklärung zu beantragen. Die festzusetzende Arbeitnehmer-Sparzulage ist auf den nächsten vollen Euro-Betrag aufzurunden. Sind für den Arbeitnehmer die vermögenswirksamen Leistungen eines Kalenderjahres auf mehr als einem der in § 2 Abs. 1 Nr. 1 bis 5 des Gesetzes bezeichneten Anlageverträge angelegt worden, so gilt die Aufrundung für jeden Vertrag.
 
@@ -132,8 +123,7 @@ Die Vertragsnummer darf keine Sonderzeichen enthalten.
 
 Maßgebend sind die bis zum Ablauf des Kalenderjahres, das dem Kalenderjahr der Veräußerung vorangeht, angelegten Beträge.
 
-
-## § 7 – Auszahlung der Arbeitnehmer-Sparzulage
+# § 7 – Auszahlung der Arbeitnehmer-Sparzulage
 
 (1) Die festgesetzte Arbeitnehmer-Sparzulage ist vom Finanzamt an den Arbeitnehmer auszuzahlen
 
@@ -149,8 +139,7 @@ Maßgebend sind die bis zum Ablauf des Kalenderjahres, das dem Kalenderjahr der 
 
 (+++ § 7 Abs. 1 Nr. 3: Zur Anwendung vgl. § 11 Abs. 1 Satz 2 u. 3 F. 2013-06-26 +++)
 
-
-## § 8 – Anzeigepflichten des Kreditinstituts, des Unternehmens oder des Arbeitgebers
+# § 8 – Anzeigepflichten des Kreditinstituts, des Unternehmens oder des Arbeitgebers
 
 (1) Der Zentralstelle für Arbeitnehmer-Sparzulage und Wohnungsbauprämie ist anzuzeigen,
 
@@ -186,22 +175,18 @@ d) der Bausparvertrag zugeteilt oder die Bausparsumme ausgezahlt wird;
 
 so hat die Zentralstelle die Auszahlung der aufgezeichneten Arbeitnehmer-Sparzulagen zu sperren. Die Zentralstelle hat die Anzeigen um ihre Aufzeichnungen zu ergänzen und zur Auswertung dem Finanzamt zu übermitteln, das nach Kenntnis der Zentralstelle zuletzt eine Arbeitnehmer-Sparzulage für den Arbeitnehmer festgesetzt hat.
 
-
-## § 9 – Rückforderung der Arbeitnehmer-Sparzulage durch das Finanzamt
+# § 9 – Rückforderung der Arbeitnehmer-Sparzulage durch das Finanzamt
 
 Das für die Besteuerung des Arbeitnehmers nach dem Einkommen zuständige Finanzamt (§ 19 der Abgabenordnung) hat eine zu Unrecht gezahlte Arbeitnehmer-Sparzulage vom Arbeitnehmer zurückzufordern. Die Rückforderung unterbleibt, wenn der zurückzufordernde Betrag fünf Euro nicht übersteigt.
 
-
-## § 10 – Anwendungsregelung
+# § 10 – Anwendungsregelung
 
 (1) Diese Verordnung in der am 20. Juli 2017 geltenden Fassung ist, soweit in Absatz 2 nichts anderes bestimmt ist, erstmals ab dem 1. Januar 2018 anzuwenden.
 
 (2) § 8 Absatz 2 Satz 2 bis 5 in der am 20. Juli 2017 geltenden Fassung ist anzuwenden bei Anzeigen nach dem 19. Juli 2017.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

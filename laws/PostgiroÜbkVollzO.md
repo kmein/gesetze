@@ -1,5 +1,3 @@
-# [PostgiroÜbkVollzO] Vollzugsordnung zum Postgiroübereinkommen
-
-Ausfertigungsdatum: 16.02.1995
-
+% Vollzugsordnung zum Postgiroübereinkommen
+% Ausfertigungsdatum: 16.02.1995
  

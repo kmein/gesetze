@@ -1,15 +1,11 @@
-# [BArtSchV] Verordnung zum Schutz wild lebender Tier- und Pflanzenarten  (Bundesartenschutzverordnung - BArtSchV)
-
-Ausfertigungsdatum: 16.02.2005
-
+% Verordnung zum Schutz wild lebender Tier- und Pflanzenarten  (Bundesartenschutzverordnung - BArtSchV)
+% Ausfertigungsdatum: 16.02.2005
  
-
-## § 1 – Besonders geschützte und streng geschützte Tier- und Pflanzenarten
+# § 1 – Besonders geschützte und streng geschützte Tier- und Pflanzenarten
 
 Die in Anlage 1 Spalte 2 mit einem Kreuz (+) bezeichneten Tier- und Pflanzenarten werden unter besonderen Schutz gestellt. Die in Anlage 1 Spalte 3 mit einem Kreuz (+) bezeichneten Tier- und Pflanzenarten werden unter strengen Schutz gestellt.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 (1) Die Verbote des § 44 Absatz 1 Nummer 4 und Absatz 2 Satz 1 Nummer 1 des Bundesnaturschutzgesetzes gelten nicht für Pilze der nachstehend aufgeführten Arten, soweit sie in geringen Mengen für den eigenen Bedarf der Natur entnommen werden:  
 Boletus edulis Steinpilz  
@@ -33,8 +29,7 @@ Die nach Landesrecht zuständige Behörde kann im Einzelfall für die in Satz 1 
   
 Die in Satz 1 genannten Formen sind auch von den Verboten des § 44 Absatz 1 Nummer 1 und 3 des Bundesnaturschutzgesetzes ausgenommen.
 
-
-## § 3 – Verbote für nicht besonders geschützte Tierarten
+# § 3 – Verbote für nicht besonders geschützte Tierarten
 
 (1) Die Besitz- und Vermarktungsverbote des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes gelten nach § 44 Absatz 3 Nummer 2 des Bundesnaturschutzgesetzes für lebende Tiere folgender Arten:  
   
@@ -57,8 +52,7 @@ Die Regelung des § 45 Absatz 1 Satz 1 Nummer 2 des Bundesnaturschutzgesetzes bl
 
 (3) Absatz 2 Nr. 2 gilt nicht für Tierhaltungen unter zoologisch fachkundiger Leitung, die ganz oder überwiegend juristischen Personen des öffentlichen Rechts gehören.
 
-
-## § 4 – Verbotene Handlungen, Verfahren und Geräte
+# § 4 – Verbotene Handlungen, Verfahren und Geräte
 
 (1) Es ist verboten, in folgender Weise wild lebenden Tieren der besonders geschützten Arten und der nicht besonders geschützten Wirbeltierarten, die nicht dem Jagd- oder Fischereirecht unterliegen, nachzustellen, sie anzulocken, zu fangen oder zu töten:
 
@@ -98,8 +92,7 @@ erforderlich ist, der Bestand und die Verbreitung der betreffenden Population od
 
 (4) Artikel 2 der Verordnung (EWG) Nr. 3254/91 des Rates vom 4. November 1991 zum Verbot von Tellereisen in der Gemeinschaft und der Einfuhr von Pelzen und Waren von bestimmten Wildtierarten aus Ländern, die Tellereisen oder den internationalen humanen Fangnormen nicht entsprechende Fangmethoden anwenden (ABl. EG Nr. L 308 S. 1), bleibt unberührt.
 
-
-## § 5 – Teile und Erzeugnisse
+# § 5 – Teile und Erzeugnisse
 
 Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse im Sinne des § 7 Absatz 2 Nummer 1 Buchstabe c und d oder Nummer 2 Buchstabe c und d des Bundesnaturschutzgesetzes sind
 
@@ -109,8 +102,7 @@ Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne weiteres erken
 
 3. andere Gegenstände, bei denen aus einem Beleg, aus der Verpackung, aus einer Marke, aus einer Aufschrift oder aus sonstigen Umständen hervorgeht, dass es sich um Teile von Tieren und Pflanzen der besonders geschützten Arten oder aus ihnen gewonnene Erzeugnisse handelt.
 
-
-## § 6 – Aufnahme- und Auslieferungsbuch
+# § 6 – Aufnahme- und Auslieferungsbuch
 
 (1) Wer gewerbsmäßig Tiere oder Pflanzen der besonders geschützten Arten erwirbt, be- oder verarbeitet oder in den Verkehr bringt, hat ein Aufnahme- und Auslieferungsbuch mit täglicher Eintragung zu führen; alle Eintragungen in das Buch sind in dauerhafter Form vorzunehmen. Das Aufnahme- und Auslieferungsbuch ist nach dem Muster in Anlage 4 zu führen; die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß. Bei der Abgabe von Teilen oder Erzeugnissen im Einzelhandel müssen Name und Anschrift des Empfängers nur angegeben werden, wenn der Verkaufspreis der Teile oder Erzeugnisse über 250 Euro beträgt; sind die Teile oder Erzeugnisse mit anderen Materialien fest verbunden, so ist der auf die Teile und Erzeugnisse entfallende Anteil am Verkaufswert maßgebend. Die nach Landesrecht zuständige Behörde kann, sofern Belange des Artenschutzes nicht entgegenstehen, Ausnahmen von den Sätzen 1 bis 3 zulassen, soweit durch gleichwertige Vorkehrungen eine ausreichende Überwachung sichergestellt ist.
 
@@ -140,8 +132,7 @@ Ohne weiteres erkennbare Teile von Tieren und Pflanzen sowie ohne weiteres erken
 
 (4) Die Bücher mit den Belegen sind nach Maßgabe des Satzes 2 fünf Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem die letzte Eintragung für ein abgeschlossenes Geschäftsjahr gemacht worden ist. Andere gesetzliche Vorschriften, die eine längere Aufbewahrungspflicht vorsehen, bleiben unberührt.
 
-
-## § 7 – Haltung von Wirbeltieren
+# § 7 – Haltung von Wirbeltieren
 
 (1) Wirbeltiere der besonders geschützten und der in § 3 Abs. 1 Satz 1 genannten Arten dürfen nur gehalten werden, wenn sie keinem Besitzverbot unterliegen und der Halter
 
@@ -155,25 +146,21 @@ Satz 1 gilt nicht für Greifvögel der in Anlage 4 der Bundeswildschutzverordnun
 
 (3) Für Absatz 2 gilt § 3 Abs. 3 entsprechend. Die nach Landesrecht zuständige Behörde kann für andere Tierhaltungen unter zoologisch fachkundiger Leitung Ausnahmen von Absatz 2 zulassen, sofern Belange des Artenschutzes nicht entgegenstehen.
 
-
-## § 8 – Begriffsbestimmungen
+# § 8 – Begriffsbestimmungen
 
 Greifvogelhybriden im Sinne dieser Verordnung sind Greifvögel, die genetische Anteile von mindestens einer heimischen sowie einer weiteren Greifvogelart enthalten.
 
-
-## § 9 – Zuchtverbot
+# § 9 – Zuchtverbot
 
 (1) Es ist verboten, Greifvogelhybriden zu züchten.
 
 (2) Bis zum 31. Dezember 2014 sind ausgenommen von dem Verbot des Absatzes 1 Züchter, die vor dem 25. Februar 2005 mit der Zucht von Greifvogelhybriden begonnen haben.
 
-
-## § 10 – Haltungsverbot
+# § 10 – Haltungsverbot
 
 Es ist verboten, Greifvogelhybriden zu halten. Ausgenommen von dem Verbot sind Tiere, die vor dem 25. Februar 2005 in Übereinstimmung mit den zu ihrem Schutz geltenden Vorschriften gehalten werden, sowie, im Falle der Zucht, Jungvögel bis zur Abgabe an Dritte mit Wohnsitz oder Sitz im Ausland.
 
-
-## § 11 – Flugverbot, Entweichen
+# § 11 – Flugverbot, Entweichen
 
 (1) Es ist verboten, Greifvogelhybriden in den Flug zu entlassen.
 
@@ -183,8 +170,7 @@ Es ist verboten, Greifvogelhybriden zu halten. Ausgenommen von dem Verbot sind T
 
 (4) Für Halter eines Greifvogelhybriden, der aus einem Gehege entwichen ist, gilt Absatz 3 entsprechend.
 
-
-## § 12 – Kennzeichnungspflicht
+# § 12 – Kennzeichnungspflicht
 
 Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgeführten Arten hält, hat diese unverzüglich zu kennzeichnen. Die Kennzeichnung hat nach Maßgabe
 
@@ -194,8 +180,7 @@ Wer lebende Säugetiere, Vögel und Reptilien der in Anlage 6 Spalte 1 aufgefüh
 
 zu erfolgen.
 
-
-## § 13 – Kennzeichnungsmethoden
+# § 13 – Kennzeichnungsmethoden
 
 (1) Für die Kennzeichnung sind die Kennzeichnungsmethoden zu verwenden, die in Anlage 6 Spalte 2 bis 6 mit einem Kreuz (+) bei den jeweiligen Tierarten bezeichnet sind, sowie für Vogelarten der offene Ring gemäß Satz 2. Sind nach Satz 1 mehrere Kennzeichnungsmethoden vorgesehen, sind die Tiere mit einem Kennzeichen in der folgenden Rangfolge zu versehen:
 
@@ -213,15 +198,13 @@ Die Kennzeichnung mit einem Transponder scheidet aus, soweit die Tiere weniger a
 
 (3) Eine Dokumentation muss eine zeichnerische oder fotografische Darstellung individueller Körpermerkmale enthalten, die eine Identifizierung ermöglicht. Diese Darstellung ist zu ergänzen um eine Beschreibung des Tieres, die zumindest Angaben umfassen muss zu Größe und Länge, Gewicht, Geschlecht und Alter, sowie eine Beschreibung vorhandener Besonderheiten. Die Dokumentation ist in solchen Zeitabständen zu wiederholen, dass mögliche Änderungen der Körpermerkmale nachvollziehbar sind. Eine Mehrfertigung der ersten Dokumentation hat der Halter der Anzeige nach § 7 Abs. 2 beizufügen, weitere Dokumentationen sind den nach Landesrecht zuständigen Behörden auf Verlangen vorzulegen.
 
-
-## § 14 – Ausnahmen von der Kennzeichnungspflicht
+# § 14 – Ausnahmen von der Kennzeichnungspflicht
 
 (1) Die Kennzeichnungspflicht nach § 12 entfällt, wenn ein verletztes, hilfloses oder krankes Wirbeltier aufgenommen wird, um es gesund zu pflegen und es wieder in die Freiheit zu entlassen. Die nach Landesrecht zuständige Behörde kann im Einzelfall Ausnahmen von der Kennzeichnungspflicht nach § 12 zulassen für Wirbeltiere, die im Rahmen von bestandsschützenden Maßnahmen oder Wiederansiedlungsmaßnahmen gehalten oder abgegeben werden.
 
 (2) Die Kennzeichnungspflicht nach § 12 entfällt auch, wenn ein Wirbeltier im Vollzug artenschutzrechtlicher Vorschriften der Europäischen Gemeinschaften oder auf Grund von Rechtsvorschriften anderer Mitgliedstaaten bereits mit einem Kennzeichen versehen ist. Vor Inkrafttreten der Kennzeichnungspflicht angebrachte Kennzeichnungen, die nicht unter Satz 1 fallen, kann die nach Landesrecht zuständige Behörde als Kennzeichnung im Sinne des § 12 anerkennen, soweit eine gleichwertige Individualisierung sichergestellt ist.
 
-
-## § 15 – Ausgabe von Kennzeichen
+# § 15 – Ausgabe von Kennzeichen
 
 (1) Für die Kennzeichnung nach dieser Verordnung sind nur Ringe und Transponder zu verwenden, die von den nachstehenden Vereinen ausgegeben werden:
 
@@ -241,14 +224,12 @@ Sie ermöglichen nicht vereinsangehörigen Personen den Bezug von Kennzeichen zu
 
 (6) Die in Absatz 1 genannten Vereine haben der nach Landesrecht zuständigen Behörde vierteljährlich die Beschriftung von in ihrem Zuständigkeitsbereich im laufenden Jahr ausgegebenen Kennzeichen sowie Name und Anschrift der Empfänger in für die elektronische Datenverarbeitung geeigneter Form zu übermitteln sowie dieser und dem Bundesamt für Naturschutz auf Anfrage unverzüglich entsprechende Angaben zu machen.
 
-(7) Im Falle der Präparation verbleibt der Ring am Vogel.  
------
+(7) Im Falle der Präparation verbleibt der Ring am Vogel. -----
 
 \*)  
 Vertrieb: Beuth Verlag, Burggrafenstraße 6, 10787 Berlin.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 3 Nummer 27 Buchstabe b des Bundesnaturschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 2 ein Tier anbietet, zur Abgabe vorrätig hält, feilhält, an andere abgibt oder züchtet.
 
@@ -278,13 +259,11 @@ Vertrieb: Beuth Verlag, Burggrafenstraße 6, 10787 Berlin.
 
 12. entgegen § 13 Abs. 3 Satz 4 eine dort genannte Unterlage nicht beifügt oder nicht oder nicht rechtzeitig vorlegt.
 
-
-## § 17 – Ländervorbehalt
+# § 17 – Ländervorbehalt
 
 Die nach Landesrecht zuständigen Behörden können nach § 2 Abs. 1 Satz 2 und Abs. 2, § 4 Abs. 3, § 6 Abs. 1 Satz 4, § 7 Abs. 3 Satz 2 und § 14 Abs. 1 Satz 2 unter den jeweils genannten Voraussetzungen Ausnahmen auch allgemein zulassen.
 
-
-## Anlage 1 – (zu § 1)Schutzstatus wild lebender Tier- und Pflanzenarten *)Erläuterungen zur Anlage 1
+# Anlage 1 – (zu § 1)Schutzstatus wild lebender Tier- und Pflanzenarten *)Erläuterungen zur Anlage 1
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 264 - 285;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6868,8 +6847,7 @@ Monochamus spp.
 
 Tetropium spp.
 
-
-## Anlage 2 – (zu § 2 Abs. 3 Nr. 2)Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
+# Anlage 2 – (zu § 2 Abs. 3 Nr. 2)Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7003,8 +6981,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Woodwardia radicans                         | Wurzelnder Kettenfarn        |
 | Zelkova abelicea                            | Kretische Zelkove            |
 
-
-## Anlage 3 – (zu § 5 Nr. 2)  Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
+# Anlage 3 – (zu § 5 Nr. 2)  Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -7032,8 +7009,7 @@ Als ohne weiteres erkennbare Teile von Pflanzen der in Anlage 1 aufgeführten Ar
 
 2. getrocknete Stoffe pflanzlichen Ursprungs und aus ihnen gewonnene Rohprodukte wie Fette und ätherische Öle, Harze, Balsame und Gummen.
 
-
-## Anlage 4 – (zu § 6 Abs. 1 Satz 2)  Muster für das Aufnahme- und Auslieferungsbuch  nach § 6 Abs. 1 Satz 2
+# Anlage 4 – (zu § 6 Abs. 1 Satz 2)  Muster für das Aufnahme- und Auslieferungsbuch  nach § 6 Abs. 1 Satz 2
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -7043,8 +7019,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 |:------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|:-----------|:-------------------------------------------------------------------------|
 | Lfd. Nummer | Eingangstag | Bezeichnung der im Bestand vorhandenen oder übernommenen Tiere oder Pflanzen nach Art, Zahl, ggf. Kennzeichen und ggf. Bezeichnung der artenschutzrechtlich zum Besitz berechtigenden Dokumente | Name und genaue Anschrift des Einlieferers oder der sonstigen Bezugsquellen | Abgangstag | Name und genaue Anschrift des Empfängers oder Art des sonstigen Abganges |
 
-
-## Anlage 5 – (zu § 7 Abs. 2)  Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
+# Anlage 5 – (zu § 7 Abs. 2)  Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 290 - 291)
 
@@ -7140,8 +7115,7 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 | Pisces                            | Fische                                 |
 | Acipenseriformes spp.             | Störartige                             |
 
-
-## Anlage 6 – (zu § 12 Satz 1 und  § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
+# Anlage 6 – (zu § 12 Satz 1 und  § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
 
 (Fundstelle: BGBl. I 2005, 292 - 316)
 
@@ -20549,13 +20523,11 @@ Hinweis zur Ringgröße
 Anlage 6 Fußnoten 11 u. 23 Kursivdruck: Im Text nicht vorhanden  
 Anlage 6 Hinweis zur Ringgröße Kursivdruck: Aus technischen Gründen nur an dieser Stelle darstellbar
 
-
-## Anlage 7 – (zu § 15 Abs. 3 Satz 1)  Anforderungen an die Beschriftung von Ringen
+# Anlage 7 – (zu § 15 Abs. 3 Satz 1)  Anforderungen an die Beschriftung von Ringen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 317
 
-Die in § 17 Abs. 3 genannte Beschriftung muss folgende Angaben enthalten: Ausgebender Verein, Angabe zu offenem oder geschlossenem Ring, Jahrgang, Ringgröße, laufende Nummer. Für Greifvogelhybriden ist zusätzlich das Kürzel "HY" in die Beschriftung aufzunehmen.  
-
+Die in § 17 Abs. 3 genannte Beschriftung muss folgende Angaben enthalten: Ausgebender Verein, Angabe zu offenem oder geschlossenem Ring, Jahrgang, Ringgröße, laufende Nummer. Für Greifvogelhybriden ist zusätzlich das Kürzel "HY" in die Beschriftung aufzunehmen. 
 Für die ausgebenden Vereine sind folgende Kürzel zu verwenden:
 
  

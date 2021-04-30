@@ -1,29 +1,23 @@
-# [MuKStiftG] Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen Lebens"
-
-Ausfertigungsdatum: 13.07.1984
-
+% Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen Lebens"
+% Ausfertigungsdatum: 13.07.1984
  
-
-## § 1 – Errichtung und Sitz
+# § 1 – Errichtung und Sitz
 
 (1) Es wird eine rechtsfähige Stiftung des öffentlichen Rechts "Mutter und Kind - Schutz des ungeborenen Lebens" errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
 (2) Der Sitz der Stiftung ist Berlin.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist es, Mittel für ergänzende Hilfen zur Verfügung zu stellen, die werdenden Müttern, die sich wegen einer Notlage an eine Schwangerschaftsberatungsstelle wenden, gewährt oder für die Zeit nach der Geburt zugesagt werden, um ihnen die Fortsetzung der Schwangerschaft zu erleichtern.
 
 (2) Auf Leistungen auf Grund dieses Gesetzes besteht kein Rechtsanspruch.
 
-
-## § 3 – Zuwendungsempfänger
+# § 3 – Zuwendungsempfänger
 
 Die Stiftung vergibt die Mittel nach Maßgabe des Satzes 2 an Einrichtungen in den Ländern, die im Rahmen des Stiftungszweckes (§ 2 Abs. 1) landesweit tätig sind und dabei keine hoheitlichen Befugnisse wahrnehmen. Die auf die einzelnen Länder entfallenden Mittel erhält entweder ein Zusammenschluß solcher Einrichtungen aus mehreren Ländern oder eine Einrichtung je Land.
 
-
-## § 4 – Verwendung der Stiftungsmittel
+# § 4 – Verwendung der Stiftungsmittel
 
 (1) Aus Mitteln der Stiftung können für Aufwendungen, die im Zusammenhang mit der Schwangerschaft und der Geburt sowie der Pflege und Erziehung eines Kleinkindes entstehen, Hilfen gewährt werden, insbesondere für
 
@@ -39,15 +33,13 @@ Die Stiftung vergibt die Mittel nach Maßgabe des Satzes 2 an Einrichtungen in d
 
 (3) Nähere Einzelheiten regeln die Richtlinien.
 
-
-## § 5 – Pfändungsfreiheit, Verhältnis zu anderen Sozialleistungen
+# § 5 – Pfändungsfreiheit, Verhältnis zu anderen Sozialleistungen
 
 (1) Leistungen, die dem in § 2 Abs. 1 genannten Personenkreis aus Mitteln der Stiftung im Rahmen des Stiftungszweckes gewährt werden, sind nicht pfändbar. Das gleiche gilt für Leistungen, die aus Mitteln anderer Stiftungen des öffentlichen Rechts oder aus Mitteln von Stiftungen, die von einer Körperschaft des öffentlichen Rechts errichtet wurden, zur Erreichung des in § 2 Abs. 1 genannten Zwecks gewährt werden. Wird eine Geldleistung auf das Konto der werdenden Mutter bei einem Geldinstitut überwiesen, gilt bei fehlender Deckung des Kontos § 850k Abs. 6 der Zivilprozessordnung entsprechend.
 
 (2) Leistungen der in Absatz 1 Satz 1 und Satz 2 genannten Art bleiben als Einkommen unberücksichtigt, wenn bei Sozialleistungen auf Grund von Rechtsvorschriften die Gewährung oder die Höhe dieser Leistungen von anderem Einkommen abhängig ist.
 
-
-## § 6 – Stiftungsvermögen
+# § 6 – Stiftungsvermögen
 
 (1) Der Bund stellt der Stiftung jährlich Mittel in Höhe der für diesen Zweck im Haushaltsplan veranschlagten Mittel, mindestens 92 033 000 Euro, für die Erfüllung des Stiftungszweckes zur Verfügung.
 
@@ -55,18 +47,15 @@ Die Stiftung vergibt die Mittel nach Maßgabe des Satzes 2 an Einrichtungen in d
 
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen.
 
-
-## § 7 – Satzung
+# § 7 – Satzung
 
 Die Stiftung kann eine Satzung erlassen, die vom Stiftungsrat beschlossen wird.
 
-
-## § 8 – Stiftungsorgane
+# § 8 – Stiftungsorgane
 
 Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und das Kuratorium.
 
-
-## § 9 – Stiftungsrat
+# § 9 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus
 
@@ -88,15 +77,13 @@ Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und das Kurator
 
 (7) Der Stiftungsrat faßt seine Beschlüsse mit einfacher Mehrheit; bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
-
-## § 10 – Geschäftsführer
+# § 10 – Geschäftsführer
 
 (1) Der Vorsitzende des Stiftungsrates bestellt einen Geschäftsführer.
 
 (2) Der Geschäftsführer führt die laufenden Geschäfte der Stiftung, insbesondere führt er die Beschlüsse des Stiftungsrates aus. Er ist ferner für die Vergabe der Stiftungsmittel und für die Überwachung ihrer zweckentsprechenden und wirtschaftlichen Verwendung verantwortlich. Er vertritt die Stiftung gerichtlich und außergerichtlich.
 
-
-## § 11 – Kuratorium
+# § 11 – Kuratorium
 
 (1) Das Kuratorium besteht aus
 
@@ -120,17 +107,14 @@ Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und das Kurator
 
 (3) Das Kuratorium berät den Stiftungsrat bei der Erfüllung seiner Aufgaben.
 
-
-## § 12 – Aufsicht
+# § 12 – Aufsicht
 
 Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums für Familie, Senioren, Frauen und Jugend.
 
-
-## § 13 – Inkrafttreten im Beitrittsgebiet
+# § 13 – Inkrafttreten im Beitrittsgebiet
 
 Dieses Gesetz tritt am 1. Januar 1993 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet in Kraft.
 
-
-## § 14 – (Inkrafttreten)
+# § 14 – (Inkrafttreten)
 
 \-

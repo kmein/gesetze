@@ -1,25 +1,19 @@
-# [InvestAusbV] Verordnung über die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau
-
-Ausfertigungsdatum: 21.05.2003
-
+% Verordnung über die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau
+% Ausfertigungsdatum: 21.05.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Investmentfondskaufmann/Investmentfondskauffrau wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -101,25 +95,21 @@ Verwahrung und Verwaltung von Fondsanteilen; Zahlungsverkehr,
 6.3  
 Meldewesen und Statistik.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -133,8 +123,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 8 – Abschlussprüfung
+# § 8 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -200,13 +189,11 @@ Hierbei sind die betrieblichen Ausbildungsschwerpunkte zugrunde zu legen. Die Au
 
 (6) Die Abschlussprüfung ist bestanden, wenn im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-
-## Anlage 1 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau- Sachliche Gliederung -
+# Anlage 1 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau- Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 721 - 725)
 
@@ -810,16 +797,13 @@ b)
 
 interne und externe Statistiken anfertigen
 
-
-## Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau  - Zeitliche Gliederung -
+# Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau  - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 726 - 727)
 
-A.  
-Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.5, 2.1 und 2.3 Lernziele a bis d sind während der gesamten Ausbildungszeit zu vermitteln. Ihre Vermittlung soll insbesondere im Zusammenhang mit den Berufsbildpositionen 3, 4, 5 und 6 erfolgen.
+A. Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.5, 2.1 und 2.3 Lernziele a bis d sind während der gesamten Ausbildungszeit zu vermitteln. Ihre Vermittlung soll insbesondere im Zusammenhang mit den Berufsbildpositionen 3, 4, 5 und 6 erfolgen.
 
-B.  
-1. Ausbildungsjahr  
+B. 1. Ausbildungsjahr  
 (1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1  
@@ -840,8 +824,7 @@ Sicherheit und Gesundheitsschutz bei der Arbeit,
 1.4  
 Umweltschutz
 
-zu vermitteln.  
-(2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (2) In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 6.1  
 Depotführung, Lernziele a und b,
@@ -852,8 +835,7 @@ Verwahrung und Verwaltung von Fondsanteilen; Zahlungsverkehr,
 6.3  
 Meldewesen und Statistik
 
-zu vermitteln.  
-(3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (3) In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.1  
 Betriebliches Rechnungswesen,
@@ -890,8 +872,7 @@ Anlegerschutz im Vertrieb, Lernziele a und c,
 3.1  
 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziele a, c und d,
 
-zu vermitteln.  
-(2) In einem Zeitraum von insgesamt fünf bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+zu vermitteln. (2) In einem Zeitraum von insgesamt fünf bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 4.2  
 Fondsbezogenes Rechnungswesen, Lernziele h bis n,
@@ -911,8 +892,7 @@ Arbeitsorganisation, Lernziele b und c,
 2.4  
 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziel a,
 
-fortzuführen.  
-(3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+fortzuführen. (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5.1  
 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele a bis g,
@@ -958,8 +938,7 @@ Fondsreporting und -controlling, Lernziele c und e,
 2.2  
 Arbeitsorganisation
 
-fortzuführen.  
-(2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+fortzuführen. (2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 5.1  
 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele h und i,
@@ -979,8 +958,7 @@ Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele c, e b
 5.2  
 Auflegung und Verwaltung von Fonds, Lernziel g,
 
-fortzuführen.  
-(3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+fortzuführen. (3) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 3.1  
 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziel f,

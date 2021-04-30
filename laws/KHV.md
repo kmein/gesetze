@@ -1,22 +1,17 @@
-# [KHV] Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz  (Kommunikationshilfenverordnung - KHV)
-
-Ausfertigungsdatum: 17.07.2002
-
+% Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz  (Kommunikationshilfenverordnung - KHV)
+% Ausfertigungsdatum: 17.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 2 des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung:
 
-
-## § 1 – Anwendungsbereich und Anlass
+# § 1 – Anwendungsbereich und Anlass
 
 (1) Die Verordnung gilt für alle Menschen mit Hör- oder Sprachbehinderungen nach Maßgabe des § 3 des Behindertengleichstellungsgesetzes, die als Beteiligte eines Verwaltungsverfahrens zur Wahrnehmung eigener Rechte für die mündliche Kommunikation im Verwaltungsverfahren einen Anspruch auf Bereitstellung einer geeigneten Kommunikationshilfe haben (Berechtigte).
 
 (2) Die Berechtigten können ihren Anspruch nach § 9 Absatz 1 des Behindertengleichstellungsgesetzes gegenüber jedem Träger öffentlicher Gewalt im Sinne des § 1 Absatz 2 Satz 1 des Behindertengleichstellungsgesetzes geltend machen.
 
-
-## § 2 – Umfang des Anspruchs
+# § 2 – Umfang des Anspruchs
 
 (1) Der Anspruch auf Bereitstellung einer geeigneten Kommunikationshilfe besteht zur Wahrnehmung eigener Rechte in einem Verwaltungsverfahren in dem dafür notwendigen Umfang. Der notwendige Umfang bestimmt sich insbesondere nach dem individuellen Bedarf der Berechtigten.
 
@@ -26,8 +21,7 @@ Auf Grund des § 9 Abs. 2 des Behindertengleichstellungsgesetzes vom 27. April 2
 
 (4) Zur Abwehr von unmittelbar bevorstehenden Gefahren für bedeutsame Rechtsgüter, wie etwa Leben, Gesundheit, Freiheit oder nicht unwesentliche Vermögenswerte, kann im Einzelfall von dem Einsatz einer Kommunikationshilfe abgesehen werden.
 
-
-## § 3 – Kommunikationshilfen
+# § 3 – Kommunikationshilfen
 
 (1) Eine Kommunikationshilfe ist als geeignet anzusehen, wenn sie im konkreten Fall eine für die Wahrnehmung eigener Rechte im Verwaltungsverfahren erforderliche Verständigung sicherstellt.
 
@@ -65,15 +59,13 @@ Kommunikationsmittel nach Satz 1 Nummer 4 sind insbesondere
 
 2. grafische Symbol-Systeme.
 
-
-## § 4 – Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen
+# § 4 – Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen
 
 (1) Geeignete Kommunikationshilfen werden von dem Träger öffentlicher Gewalt kostenfrei bereitgestellt, es sei denn, die Berechtigten machen von ihrem Wahlrecht nach § 2 Absatz 2 Satz 2 Gebrauch.
 
 (2) Die Bundesfachstelle für Barrierefreiheit nach § 13 des Behindertengleichstellungsgesetzes berät und unterstützt den Träger öffentlicher Gewalt bei seiner Aufgabe nach Absatz 1.
 
-
-## § 5 – Grundsätze für eine angemessene Vergütung oder Erstattung
+# § 5 – Grundsätze für eine angemessene Vergütung oder Erstattung
 
 (1) Der Träger öffentlicher Gewalt richtet sich bei der Entschädigung von Gebärdensprachdolmetscherinnen und Gebärdensprachdolmetschern sowie Kommunikationshelferinnen und Kommunikationshelfern nach dem Justizvergütungs- und -entschädigungsgesetz.
 

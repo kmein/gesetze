@@ -1,15 +1,11 @@
-# [DÜGAufhG] Gesetz zur Aufhebung des Diskontsatz-Überleitungs-Gesetzes
-
-Ausfertigungsdatum: 26.03.2002
-
+% Gesetz zur Aufhebung des Diskontsatz-Überleitungs-Gesetzes
+% Ausfertigungsdatum: 26.03.2002
  
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Einführung neuer Zinssätze
+# § 2 – Einführung neuer Zinssätze
 
 (1) Es werden ersetzt:
 

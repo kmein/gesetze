@@ -1,34 +1,27 @@
-# [HAV] Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung  (Hüttenknappschaftliche Abstimmungsverordnung - HAV)
-
-Ausfertigungsdatum: 04.11.1974
-
+% Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung  (Hüttenknappschaftliche Abstimmungsverordnung - HAV)
+% Ausfertigungsdatum: 04.11.1974
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 2 Satz 6 des Hüttenknappschaftlichen Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (Bundesgesetzbl. I S. 2104), geändert durch Artikel 4 § 4 des Rentenreformgesetzes vom 16. Oktober 1972 (Bundesgesetzbl. I S. 1965), wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Stimmberechtigung
+# § 1 – Stimmberechtigung
 
 (1) Stimmberechtigt sind alle in der Rentenversicherung der Arbeiter oder der Rentenversicherung der Angestellten versicherten Arbeitnehmer einschließlich der zu ihrer Berufsausbildung Beschäftigten, die an dem Tag vor der Abstimmung in dem Unternehmen im Saarland beschäftigt sind.
 
 (2) Der Stimmberechtigte kann sein Stimmrecht nur einmal und nur persönlich ausüben.
 
-
-## § 2 – Abstimmungsbekanntmachung
+# § 2 – Abstimmungsbekanntmachung
 
 Die Landesversicherungsanstalt für das Saarland (Versicherungsträger) bestimmt nach Anhörung des Arbeitgebers und des Betriebsrats unter Berücksichtigung der Belange des Betriebs spätestens sechs Wochen vor dem Abstimmungstag Ort, Raum, Tag und Zeit der Abstimmung. Sie macht die nach Satz 1 getroffenen Bestimmungen sowie den Gegenstand der Abstimmung unverzüglich durch Aushang an einer oder mehreren geeigneten, den Stimmberechtigten zugänglichen Stellen im Betrieb bekannt. Die Dauer des Aushangs soll ebenfalls mindestens sechs Wochen betragen.
 
-
-## § 3 – Tag, Zeit und Dauer der Abstimmung
+# § 3 – Tag, Zeit und Dauer der Abstimmung
 
 (1) Die Abstimmung ist an einem Arbeitstag während der in dem Unternehmen üblichen Arbeitszeit in einem oder mehreren von dem Arbeitgeber bereitgestellten Räumen durchzuführen. Der Versicherungsträger kann in begründeten Fällen für die Abstimmungszeit Ausnahmen gestatten; § 2 Satz 1 findet Anwendung.
 
 (2) Die Abstimmungsdauer beträgt mindestens sechs Stunden. Sie kann durch Beschluß des Abstimmungsvorstands verkürzt werden, wenn alle in die Abstimmungsliste Eingetragenen abgestimmt haben.
 
-
-## § 4 – Abstimmungsvorstand
+# § 4 – Abstimmungsvorstand
 
 (1) Unmittelbar nach der Bestimmung des Abstimmungstags kann der Vorstand des Versicherungsträgers einen Abstimmungsvorstand bestellen. Dem Abstimmungsvorstand gehören außer dem Vorsitzenden mindestens zwei Beisitzer an. Für jedes Mitglied des Abstimmungsvorstands kann für den Fall seiner Verhinderung ein Ersatzmitglied bestellt werden. Der Vorsitzende muß bei dem Versicherungsträger beschäftigt sein. Die Beisitzer sollen Stimmberechtigte sein; Vorschläge des Arbeitgebers und des Betriebsrats zur Bestellung der Beisitzer sollen nach Möglichkeit berücksichtigt werden. Der Abstimmungsvorstand muß stets aus einer ungeraden Zahl von Mitgliedern bestehen.
 
@@ -40,8 +33,7 @@ Die Landesversicherungsanstalt für das Saarland (Versicherungsträger) bestimmt
 
 (5) Wird ein Abstimmungsvorstand nicht bestellt, nimmt der Versicherungsträger die nach den Vorschriften dieser Verordnung dem Abstimmungsvorstand obliegenden Tätigkeiten selbst war.
 
-
-## § 5 – Abstimmungsliste
+# § 5 – Abstimmungsliste
 
 (1) Der Arbeitgeber stellt unverzüglich nach der Bekanntgabe des Abstimmungstags eine Liste der Stimmberechtigten (Abstimmungsliste) auf und übersendet einen Abdruck dem Versicherungsträger und dem Abstimmungsvorstand. Die Stimmberechtigten sollen in der Abstimmungsliste in alphabetischer Reihenfolge mit Familiennamen, Vornamen und Geburtsdatum aufgeführt werden. Der Abstimmungsvorstand hat im Benehmen mit dem Arbeitgeber die Abstimmungsliste bis zum Ablauf des Tags vor dem Beginn der Abstimmung zu berichtigen, wenn ein Arbeitnehmer in das Unternehmen eintritt oder aus ihm ausscheidet, und einen Abdruck der Berichtigung dem Versicherungsträger zu übersenden.
 
@@ -51,8 +43,7 @@ Die Landesversicherungsanstalt für das Saarland (Versicherungsträger) bestimmt
 
 (4) Der Abstimmungsvorstand soll dafür sorgen, daß ausländische Arbeitnehmer, die der deutschen Sprache nicht mächtig sind, alsbald nach Eingang der Abstimmungsliste über diese Liste, die Abstimmungsbekanntmachung, den Abstimmungsvorgang und die Stimmabgabe in geeigneter Weise unterrichtet werden.
 
-
-## § 6 – Einspruch gegen die Abstimmungsliste
+# § 6 – Einspruch gegen die Abstimmungsliste
 
 (1) Jeder Stimmberechtigte kann Einspruch gegen die Richtigkeit der Abstimmungsliste bis zum vierzehnten Tag vor dem Abstimmungstag bei dem Versicherungsträger schriftlich oder durch Erklärung zur Niederschrift einlegen.
 
@@ -60,8 +51,7 @@ Die Landesversicherungsanstalt für das Saarland (Versicherungsträger) bestimmt
 
 (3) Die Abstimmungsliste kann nach Ablauf der Einspruchsfrist nur bei Schreibfehlern, offenbaren Unrichtigkeiten und in Erledigung rechtzeitig eingelegter und durch eine Entscheidung nach Absatz 2 als begründet anerkannter Einsprüche bis zum Ablauf des Tags vor dem Beginn der Abstimmung berichtigt oder ergänzt werden; § 5 Abs. 1 Satz 3 bleibt unberührt.
 
-
-## § 7 – Stimmabgabe
+# § 7 – Stimmabgabe
 
 (1) Das Stimmrecht wird durch Abgabe eines Stimmzettels in einem hierfür bestimmten Umschlag ausgeübt.
 
@@ -76,8 +66,7 @@ Die Landesversicherungsanstalt für das Saarland (Versicherungsträger) bestimmt
 
 (4) Stimmzettel, die mit einem besonderen Merkmal versehen sind oder aus denen sich der Wille des Stimmberechtigten nicht zweifelsfrei ergibt oder die andere Angaben als den in Absatz 2 genannten Aufdruck, einen Zusatz oder sonstige Änderungen enthalten, sind ungültig.
 
-
-## § 8 – Abstimmungsvorgang
+# § 8 – Abstimmungsvorgang
 
 (1) Der Abstimmungsvorstand hat dafür Vorkehrungen zu treffen, daß der Stimmberechtigte den Stimmzettel im Abstimmungsraum unbeobachtet kennzeichnen und in den Umschlag legen kann. Für die Aufnahme der Umschläge sind eine oder mehrere Abstimmungsurnen zu verwenden. Die Abstimmungsurnen sind vom Abstimmungsvorstand vor Beginn der Abstimmung zu verschließen. Sie müssen so eingerichtet sein, daß die Umschläge nicht entnommen werden können, ohne daß die Abstimmungsurne geöffnet wird.
 
@@ -87,8 +76,7 @@ Die Landesversicherungsanstalt für das Saarland (Versicherungsträger) bestimmt
 
 (4) Werden die Stimmen nicht unmittelbar nach Abschluß der Abstimmung ausgezählt, hat der Abstimmungsvorstand die Abstimmungsurnen zu versiegeln. Dasselbe gilt im Fall der Unterbrechung der Abstimmung.
 
-
-## § 9 – Briefliche Stimmabgabe
+# § 9 – Briefliche Stimmabgabe
 
 (1) Einem Stimmberechtigten, der am Abstimmungstag wegen Abwesenheit vom Unternehmen verhindert ist, seine Stimme persönlich abzugeben, hat der Abstimmungsvorstand auf sein Verlangen
 
@@ -112,15 +100,13 @@ auszuhändigen oder zu übersenden. Der Versicherungsträger hat die in den Numm
 
 3. auf der Rückseite des freigemachten Abstimmungsbriefumschlags seinen Namen und seine Anschrift zu vermerken und diesen so rechtzeitig an den Abstimmungsvorstand abzusenden oder ihm zu übergeben, daß er dem Abstimmungsvorstand vor Abschluß der Abstimmung vorliegt.
 
-
-## § 10 – Behandlung der Abstimmungsbriefe durch den Abstimmungsvorstand
+# § 10 – Behandlung der Abstimmungsbriefe durch den Abstimmungsvorstand
 
 (1) Unmittelbar vor Abschluß der Abstimmung öffnet der Abstimmungsvorstand in öffentlicher Sitzung die bis zu diesem Zeitpunkt eingegangenen Abstimmungsbriefumschläge und entnimmt ihnen die nichtbedruckten Umschläge sowie die vorgedruckten Erklärungen. Ist die briefliche Stimmabgabe ordnungsgemäß erfolgt, legt der Abstimmungsvorstand den nichtbedruckten Umschlag nach Vermerk der Stimmabgabe in der Abstimmungsliste ungeöffnet in die Abstimmungsurne.
 
 (2) Verspätet eingehende Abstimmungsbriefumschläge hat der Abstimmungsvorstand mit einem Vermerk über den Eingangszeitpunkt ungeöffnet zu den Abstimmungsunterlagen zu nehmen.
 
-
-## § 11 – Ermittlung, Feststellung und Bekanntgabe des Abstimmungsergebnisses
+# § 11 – Ermittlung, Feststellung und Bekanntgabe des Abstimmungsergebnisses
 
 (1) Unverzüglich nach Abschluß der Abstimmung nimmt der Abstimmungsvorstand öffentlich die Auszählung der Stimmen vor.
 
@@ -148,24 +134,20 @@ auszuhändigen oder zu übersenden. Der Versicherungsträger hat die in den Numm
 
 (6) Der Abstimmungsvorstand hat je einen Abdruck der Abstimmungsniederschrift dem Arbeitgeber, dem Betriebsrat und dem Versicherungsträger unverzüglich zu übersenden. Wurde der Antrag von einem Arbeitnehmer gestellt (§ 4 Abs. 2 Satz 1), ist diesem anstelle des Betriebsrats die Abstimmungsniederschrift zu übersenden.
 
-
-## § 12 – Aufbewahrung der Abstimmungsunterlagen
+# § 12 – Aufbewahrung der Abstimmungsunterlagen
 
 Der Versicherungsträger hat die Abstimmungsunterlagen mindestens ein Jahr aufzubewahren; die Frist beginnt mit dem auf den Tag der Entscheidung über den Aufnahmeantrag folgenden Kalenderjahr.
 
-
-## § 13 – Berlin-Klausel
+# § 13 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 23 Satz 2 des Hüttenknappschaftlichen Zusatzversicherungs-Gesetzes vom 22. Dezember 1971 (Bundesgesetzbl. I S. 2104) auch im Land Berlin.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

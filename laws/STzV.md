@@ -1,15 +1,11 @@
-# [STzV] Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der Bundeswehr  (Soldatinnen- und Soldatenteilzeitbeschäftigungsverordnung - STzV)
-
-Ausfertigungsdatum: 09.11.2005
-
+% Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der Bundeswehr  (Soldatinnen- und Soldatenteilzeitbeschäftigungsverordnung - STzV)
+% Ausfertigungsdatum: 09.11.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30a Abs. 5 und des § 93 Abs. 2 Nr. 5 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) verordnet das Bundesministerium der Verteidigung:
 
-
-## § 1 – Zulässigkeit von Teilzeitbeschäftigung
+# § 1 – Zulässigkeit von Teilzeitbeschäftigung
 
 Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
@@ -19,8 +15,7 @@ Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 3. Wehrdienst zur temporären Verbesserung der personellen Einsatzbereitschaft.
 
-
-## § 2 – Antragsverfahren
+# § 2 – Antragsverfahren
 
 (1) Die Teilzeitbeschäftigung ist grundsätzlich spätestens drei Monate vor ihrem beabsichtigten Beginn bei der oder dem nächsten Disziplinarvorgesetzten schriftlich zu beantragen. Dabei sind die Dauer und der Umfang der Teilzeitbeschäftigung anzugeben. Zusätzlich kann eine bestimmte Verteilung der Arbeitszeit während der Dauer der Teilzeitbeschäftigung gewünscht werden.
 
@@ -32,8 +27,7 @@ Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 (5) Im Fall des § 1 Nummer 3 kann die Teilzeitbeschäftigung frühestens mit der Erklärung des Einverständnisses zur Ableistung des Wehrdienstes beantragt werden. Über einen Antrag, der mit der Einverständniserklärung gestellt worden ist, ist spätestens mit der Heranziehung zum Wehrdienst zu entscheiden.
 
-
-## § 3 – Antrag auf familienbedingte Teilzeitbeschäftigung
+# § 3 – Antrag auf familienbedingte Teilzeitbeschäftigung
 
 (1) Im Antrag auf familienbedingte Teilzeitbeschäftigung (§ 30a Absatz 1 Satz 2 des Soldatengesetzes) ist darzulegen, dass mindestens ein Kind unter 18 Jahren, eine pflegebedürftige sonstige Angehörige oder ein pflegebedürftiger sonstiger Angehöriger tatsächlich zu betreuen oder zu pflegen ist. Teilzeitbeschäftigung zur Betreuung oder Pflege mindestens eines Kinds unter 18 Jahren kann von beiden in einem Wehrdienstverhältnis stehenden Elternteilen beantragt werden. Beantragt werden kann eine anteilige, jeweils alleinige oder gemeinsame Teilzeitbeschäftigung.
 
@@ -55,8 +49,7 @@ Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 7. Personen, die durch ein auf längere Dauer angelegtes Pflegeverhältnis mit häuslicher Gemeinschaft wie Eltern und Kind miteinander verbunden sind (Pflegeeltern und Pflegekinder).
 
-
-## § 4 – Zuständigkeit für die Entscheidung
+# § 4 – Zuständigkeit für die Entscheidung
 
 (1) Über einen Antrag auf Bewilligung einer Teilzeitbeschäftigung entscheidet das Bundesministerium der Verteidigung für alle Soldatinnen und Soldaten, für die es als Entlassungsdienststelle zuständig ist.
 
@@ -74,15 +67,13 @@ Teilzeitbeschäftigung ist in folgenden Wehrdienstarten zulässig:
 
 einer Teilzeitbeschäftigung.
 
-
-## § 5 – Ausgestaltung der Teilzeitbeschäftigung
+# § 5 – Ausgestaltung der Teilzeitbeschäftigung
 
 (1) Die Teilzeitbeschäftigung kann auf bis zu vier Zeitabschnitte verteilt werden.
 
 (2) Die Ausgestaltung der Teilzeitbeschäftigung kann nach flexiblen Arbeitszeitmodellen, insbesondere Blockzeitbildung, bewilligt werden, soweit wichtige dienstliche Gründe nicht entgegenstehen.
 
-
-## § 6 – Ausschlüsse und Beschränkungen
+# § 6 – Ausschlüsse und Beschränkungen
 
 (1) Teilzeitbeschäftigung ist grundsätzlich nicht möglich
 
@@ -104,8 +95,7 @@ Satz 1 ist nicht anzuwenden, wenn Teilzeitbeschäftigung im Blockmodell (§ 9) b
 
 (5) Ist Teilzeitbeschäftigung zur Betreuung oder Pflege von mindestens einem Kind unter 18 Jahren bewilligt worden, darf über die befristete Rückkehr zur Vollzeitbeschäftigung nach Absatz 2 nur mit Zustimmung des Bundesministeriums der Verteidigung entschieden werden, solange Anspruch auf Elternzeit nach § 28 Absatz 7 des Soldatengesetzes besteht. Andere dienstrechtliche Maßnahmen, die dasselbe Ziel verfolgen, bedürfen ebenfalls der Zustimmung des Bundesministeriums der Verteidigung.
 
-
-## § 7 – Bewilligung oder Ablehnung des Antrages
+# § 7 – Bewilligung oder Ablehnung des Antrages
 
 (1) Die Bewilligung einer Teilzeitbeschäftigung oder ihrer Verlängerung außerhalb eines Dienstpostens bedarf der vorherigen Zustimmung des Bundesministeriums der Verteidigung. Die zur Bewilligung einer Teilzeitbeschäftigung notwendige Erklärung der Soldatin oder des Soldaten über die Verpflichtung nach § 30a Abs. 2 Satz 3 des Soldatengesetzes ist aktenkundig zu machen.
 
@@ -113,19 +103,16 @@ Satz 1 ist nicht anzuwenden, wenn Teilzeitbeschäftigung im Blockmodell (§ 9) b
 
 (3) Die Entlassungsdienststelle teilt die Entscheidung unverzüglich der Soldatin oder dem Soldaten schriftlich über die nächste Disziplinarvorgesetzte oder den nächsten Disziplinarvorgesetzten mit. Ist die Entlassungsdienststelle nicht zugleich personalbearbeitende Stelle, hat sie diese zu unterrichten.
 
-
-## § 8 – Widerruf und Änderung der Bewilligung sowie vorzeitige Beendigung der Teilzeitbeschäftigung
+# § 8 – Widerruf und Änderung der Bewilligung sowie vorzeitige Beendigung der Teilzeitbeschäftigung
 
 (1) Bei Entscheidungen nach § 4 Abs. 3 Nr. 2 bis 4 hat die Entlassungsdienststelle, die nicht zugleich personalbearbeitende Stelle ist, diese zu unterrichten. Vor der Entscheidung über die vorzeitige Beendigung der Teilzeitbeschäftigung haben die in § 2 Abs. 2 Satz 1 genannten Disziplinarvorgesetzten Stellung zu nehmen.
 
 (2) Die Teilzeitbeschäftigung ist zu beenden, wenn das tatsächliche Betreuungs- oder Pflegeerfordernis entfallen ist. Die Soldatin oder der Soldat hat der Entlassungsdienststelle über die nächste Disziplinarvorgesetzte oder den nächsten Disziplinarvorgesetzten den Wegfall des tatsächlichen Betreuungs- oder Pflegeerfordernisses unverzüglich schriftlich zu melden. § 2 Abs. 2 Satz 2 gilt entsprechend. Der Zeitpunkt für eine Rückkehr zur Vollzeitbeschäftigung soll innerhalb einer angemessenen Frist nach dem Zugang der Mitteilung nach Satz 2 und nach Stellungnahme der in § 2 Abs. 2 Satz 1 genannten Disziplinarvorgesetzten festgelegt werden.
 
-
-## § 9 – Zusammenfassung der Freistellung von der Arbeit
+# § 9 – Zusammenfassung der Freistellung von der Arbeit
 
 Bei einer Teilzeitbeschäftigung können Freistellungszeiten zu Freistellungsphasen von bis zu drei Monaten zusammengefasst werden (Blockmodell), sofern dem keine dienstlichen Gründe entgegenstehen. Wird die Freistellungsphase an das Ende der bewilligten Teilzeitbeschäftigung gelegt, können Freistellungszeiten von bis zu einem Jahr zusammengefasst werden. Satz 2 gilt nicht, wenn die Freistellungsphase ganz oder teilweise in die letzten drei Jahre vor Erreichen der besonderen Altersgrenze (§ 45 Absatz 2 des Soldatengesetzes) fallen würde.
 
-
-## § 10 – Soldatinnen und Soldaten in zivilen Dienststellen der Bundeswehrverwaltung
+# § 10 – Soldatinnen und Soldaten in zivilen Dienststellen der Bundeswehrverwaltung
 
 Für Soldatinnen und Soldaten, die in zivilen Dienststellen der Bundeswehrverwaltung im Geschäftsbereich des Bundesministeriums der Verteidigung verwendet werden, gelten die vorstehenden Bestimmungen mit der Maßgabe, dass die Dienststellenleiterin oder der Dienststellenleiter an die Stelle der oder des nächsten und der oder des nächsthöheren Disziplinarvorgesetzten tritt.

@@ -1,10 +1,7 @@
-# [DBBeamtRAnO 1976] Allgemeine Anordnung über die Übertragung von Befugnissen und die Regelung von Zuständigkeiten auf dem Gebiet des Beamtenrechts im Bereich der Deutschen Bundesbahn
-
-Ausfertigungsdatum: 26.01.1976
-
+% Allgemeine Anordnung über die Übertragung von Befugnissen und die Regelung von Zuständigkeiten auf dem Gebiet des Beamtenrechts im Bereich der Deutschen Bundesbahn
+% Ausfertigungsdatum: 26.01.1976
  
-
-## I.
+# I.
 
 Wir übertragen folgende Befugnisse den nachstehenden Stellen oder Dienstvorgesetzten - je für ihren Geschäftsbereich -:
 
@@ -55,8 +52,7 @@ nach § 139 Abs. 3, § 142 Abs. 5 BBG die amtsärztliche Untersuchung eines durc
 
 Abschn. I Nr. 4 Buchst. h Kursivdruck: Vgl. jetzt BLV v. 15.11.1978 I 1763
 
-
-## II.
+# II.
 
 Wir ermächtigen - je für ihren Geschäftsbereich -
 
@@ -91,8 +87,7 @@ nach § 8 Abs. 6 TGV das Trennungsgeld in den Fällen zu genehmigen, in denen di
 
 Abschn. II Nr. 2 Buchst. f u. Nr. 3 Kursivdruck: Vgl. jetzt § 9 Abs. 3 TGV v. 20.5.1986 I 745
 
-
-## III.
+# III.
 
 Wir bestimmen, daß
 
@@ -122,8 +117,7 @@ nach § 31 Abs. 2 BDO über die Beschwerden gegen Disziplinarverfügungen der ih
   
 für die Entscheidung über die Gewährung von Schul- und Kinderreisebeihilfen an Bundesbahnbedienstete im Ausland zuständig ist.
 
-
-## IV.
+# IV.
 
 Wir ordnen nach § 29 Abs. 4 BDO an, daß - je für ihren Geschäftsbereich - Geldbußen verhängen können:
 
@@ -137,8 +131,7 @@ die Leiter der Hauptdienststellen und die Bürovorstände der Bundesbahndirektio
 
 Die hier nicht genannten übrigen Dienstvorgesetzten im Sinne des § 29 Abs. 3 Nr. 3 BDO sind nicht befugt, Geldbußen zu verhängen.
 
-
-## V.
+# V.
 
 1. Gemäß § 155 Abs. 1 Satz 2 BBG übertragen wir unsere Befugnisse als Pensionsfestsetzungsbehörde (Bewilligung von Versorgungsbezügen auf Grund von Kannvorschriften, Berücksichtigung von Zeiten als ruhegehaltfähige Dienstzeit, Festsetzung der Versorgungsbezüge und Bestimmung der Person des Zahlungsempfängers) nach Maßgabe der nachstehenden Nummern 3 bis 6 mit Zustimmung des Bundesministers des Innern den Bundesbahndirektionen.
 
@@ -160,23 +153,19 @@ b) in allen übrigen Fällen die Bundesbahndirektion, in deren Bezirk der Wohnsi
 
 Verlegt ein Versorgungsberechtigter seinen Wohnsitz oder dauernden Aufenthalt außerhalb des Geltungsbereichs des BBG, so bleibt die Bundesbahndirektion zuständig, die ihn bis dahin zu betreuen hatte.
 
-
-## VI.
+# VI.
 
 \-
 
-
-## VII.
+# VII.
 
 Wir behalten uns im Einzelfall Entscheidungen nach den Abschnitten I bis VI dieser Anordnung vor.
 
-
-## VIII.
+# VIII.
 
 Diese Anordnung tritt mit Wirkung vom 1. Februar 1976 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Deutsche Bundesbahn  
 Der Vorstand

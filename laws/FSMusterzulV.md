@@ -1,20 +1,15 @@
-# [FSMusterzulV] Verordnung über Art, Umfang, Beschaffenheit, Zulassung, Kennzeichnung und Betrieb von Anlagen und Geräten für die Flugsicherung  (Flugsicherungs-Anlagen- und Geräte-Musterzulassungs-Verordnung - FSMusterzulV)
-
-Ausfertigungsdatum: 21.12.2001
-
+% Verordnung über Art, Umfang, Beschaffenheit, Zulassung, Kennzeichnung und Betrieb von Anlagen und Geräten für die Flugsicherung  (Flugsicherungs-Anlagen- und Geräte-Musterzulassungs-Verordnung - FSMusterzulV)
+% Ausfertigungsdatum: 21.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 4 Satz 1 Nr. 2 und Satz 2 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550), zuletzt geändert durch Artikel 285 Nr. 7 Buchstabe c der Siebenten Zuständigkeitsanpassungs-Verordnung vom 29.Oktober 2001 (BGBl. I S. 2785) verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Benehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung bestimmt die Anforderungen für die Musterzulassung von Anlagen und Geräten für die Flugsicherung und legt das Verfahren der Musterzulassung sowie die Kennzeichnung und Überwachung der Geräte und Anlagen fest.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 1. "Anlagen und Geräte für die Flugsicherung" und "Produkt" im Sinne dieser Verordnung sind
 
@@ -32,18 +27,15 @@ b) Flugnavigationsfunkstellen.
 
 6. "Zulassung" ist die Musterzulassung nach § 6. Die Zulassung stellt eine Abnahme im Sinne des § 27c Abs. 2 Nr. 2 Buchstabe a des Luftverkehrsgesetzes dar.
 
-
-## § 3 – Voraussetzungen für den Betrieb
+# § 3 – Voraussetzungen für den Betrieb
 
 Es ist verboten, Anlagen und Geräte für die Flugsicherung zu betreiben oder betreiben zu lassen, wenn sie nicht baugleich zu dem vom Bundesaufsichtsamt für Flugsicherung gemäß § 6 Abs. 1 zugelassenen Muster sind und die Betreiber nicht über Frequenzzuteilungen der Regulierungsbehörde für Telekommunikation und Post gemäß § 47 Abs. 1 und 5 Satz 1 des Telekommunikationsgesetzes vom 31. Juli 1996 (BGBl. I S. 1120) und gemäß § 2 Abs. 1 und § 4 Abs. 1 der Frequenzzuteilungsverordnung vom 26. April 2001 (BGBl. I S. 829) verfügen.
 
-
-## § 4 – Anforderungen an Anlagen und Geräte für die Flugsicherung
+# § 4 – Anforderungen an Anlagen und Geräte für die Flugsicherung
 
 Die Anforderungen an Anlagen und Geräte für die Flugsicherung werden vom Bundesaufsichtsamt für Flugsicherung festgelegt und in den Nachrichten für Luftfahrer bekannt gemacht.
 
-
-## § 5 – Grundsätze des Zulassungsverfahrens
+# § 5 – Grundsätze des Zulassungsverfahrens
 
 (1) Der Hersteller hat die Zulassung bei dem Bundesaufsichtsamt für Flugsicherung zu beantragen. Dabei ist der Nachweis zu führen, dass das Produkt den Anforderungen gemäß § 4 entspricht.
 
@@ -63,25 +55,21 @@ c) eine Erklärung des Herstellers, dass die Anlage oder das Gerät den Anforder
 
 (6) Über die Anträge entscheidet das Bundesaufsichtsamt für Flugsicherung grundsätzlich in der Reihenfolge des Vorliegens der vollständigen Antragsunterlagen.
 
-
-## § 6 – Musterzulassung
+# § 6 – Musterzulassung
 
 (1) Das Bundesaufsichtsamt für Flugsicherung erteilt die Zulassung für das Baumuster einer Anlage oder eines Gerätes für die Flugsicherung, wenn die Anforderungen nach § 4 erfüllt sind. Hierzu stellt das Bundesaufsichtsamt für Flugsicherung eine Urkunde mit Zulassungsnummer gemäß Anlage zu dieser Verordnung aus. Die Zulassung kann mit Nebenbestimmungen versehen werden.
 
 (2) Das Bundesaufsichtsamt für Flugsicherung gibt die Liste der zugelassenen Anlagen und Geräte für die Flugsicherung in den Nachrichten für Luftfahrer bekannt.
 
-
-## § 7 – Widerruf der Zulassung
+# § 7 – Widerruf der Zulassung
 
 Die Zulassung kann widerrufen werden, wenn ein zugelassenes Gerät oder eine zugelassene Anlage nicht mehr den Anforderungen gemäß § 4 entspricht und der Hersteller nicht innerhalb einer angemessenen Frist der Aufforderung des Bundesaufsichtsamtes für Flugsicherung nachkommt, das Gerät oder die Anlage in Übereinstimmung mit den Anforderungen zu bringen. Ein Widerruf ist auch zulässig, wenn der Hersteller einer Nebenbestimmung der Zulassung nicht nachkommt.
 
-
-## § 8 – Produktkontrolle
+# § 8 – Produktkontrolle
 
 Zum Zwecke der Überprüfung der fortlaufenden Übereinstimmung einer nach § 5 zugelassenen Anlage oder eines zugelassenen Gerätes mit den Anforderungen gemäß § 4 und zum Zwecke möglicher Entscheidungen nach § 7 führt das Bundesaufsichtsamt für Flugsicherung in unregelmäßigen Abständen Produktkontrollen durch.
 
-
-## § 9 – Verpflichtungen des Herstellers
+# § 9 – Verpflichtungen des Herstellers
 
 (1) Der Hersteller ist verpflichtet, jede Firmen- oder Adressänderung dem Bundesaufsichtsamt für Flugsicherung unverzüglich mitzuteilen.
 
@@ -91,23 +79,19 @@ Zum Zwecke der Überprüfung der fortlaufenden Übereinstimmung einer nach § 5 
 
 (4) Der Hersteller hat die technische Dokumentation mindestens zehn Jahre nach Herstellung des letzten Produkts aufzubewahren.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne von § 58 Abs. 1 Nr. 10 des Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 eine Anlage oder ein Gerät für die Flugsicherung betreibt oder betreiben lässt.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 Anlagen und Geräte für die Flugsicherung, die vor dem Inkrafttreten des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen in Verkehr gebracht worden sind und über eine Zulassung nach der Telekommunikationszulassungsverordnung verfügen, gelten als zugelassen im Sinne dieser Verordnung. Anlagen, die bis zum 1. Juli 2009 durch die DFS Deutsche Flugsicherung GmbH zugelassen worden sind, gelten als zugelassen im Sinne dieser Verordnung.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 6 Abs. 1)(Muster)
+# Anlage – (zu § 6 Abs. 1)(Muster)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 29
 
@@ -127,11 +111,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 29
                            Niederspannungsnetz oder Batterien
     für die Betriebsart    A 3 E 
 
-ist auf Einhaltung der Anforderungen und Geräte für Zwecke der Flugsicherung gemäß § 4 Flugsicherungs-Anlagen- und Geräte-Musterzulassungs-Verordnung (FSMusterzulV) geprüft worden.  
-Die Anlage oder das Gerät entspricht damit den Festlegungen des Bundesministeriums für Verkehr und digitale Infrastruktur hinsichtlich Art, Umfang und Beschaffenheit von flugsicherungstechnischen Einrichtungen gemäß § 32 Abs. 4 des Luftverkehrsgesetzes sowie den Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO).  
-Es wird daher mit den umseitig aufgeführten Auflagen als Muster in der Bundesrepublik Deutschland zugelassen.  
-Der Gerätetyp hat die Zulassungsnummer D-0001/2001 erhalten.  
-Bundesaufsichtsamt für Flugsicherung Langen, den  
+ist auf Einhaltung der Anforderungen und Geräte für Zwecke der Flugsicherung gemäß § 4 Flugsicherungs-Anlagen- und Geräte-Musterzulassungs-Verordnung (FSMusterzulV) geprüft worden. Die Anlage oder das Gerät entspricht damit den Festlegungen des Bundesministeriums für Verkehr und digitale Infrastruktur hinsichtlich Art, Umfang und Beschaffenheit von flugsicherungstechnischen Einrichtungen gemäß § 32 Abs. 4 des Luftverkehrsgesetzes sowie den Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-Organisation (ICAO). Es wird daher mit den umseitig aufgeführten Auflagen als Muster in der Bundesrepublik Deutschland zugelassen. Der Gerätetyp hat die Zulassungsnummer D-0001/2001 erhalten. Bundesaufsichtsamt für Flugsicherung Langen, den  
 
     Unterschriften
     -------------------------------------------------------------------------------

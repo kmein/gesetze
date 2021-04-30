@@ -1,10 +1,7 @@
-# [BergArbWoFöG] Gesetz zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau
-
-Ausfertigungsdatum: 23.10.1951
-
+% Gesetz zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau
+% Ausfertigungsdatum: 23.10.1951
  
-
-## § 1 – Einstellung der Förderung des Bergarbeiterwohnungsbaues
+# § 1 – Einstellung der Förderung des Bergarbeiterwohnungsbaues
 
 (1) Die Förderung des Bergarbeiterwohnungsbaues aus dem nach diesem Gesetz in der bis zum 31. Dezember 1996 geltenden Fassung gebildeten Treuhandvermögen wird eingestellt.
 
@@ -14,13 +11,11 @@ Ausfertigungsdatum: 23.10.1951
 
 (4) Aus den Überschüssen stellt der Bund für den sozialen Wohnungsbau in den Haushaltsjahren 1997 und 1998 jeweils 250 Millionen Deutsche Mark, im Haushaltsjahr 1999 200 Millionen Deutsche Mark und im Haushaltsjahr 2000 150 Millionen Deutsche Mark als Verpflichtungsrahmen bereit, die im Bundeshaushaltsplan gesondert nachgewiesen werden. Aus dem Verpflichtungsrahmen von 250 Millionen Deutsche Mark für das Haushaltsjahr 1998 erhalten die kohlefördernden Länder einen Vorabanteil von 20 vom Hundert.
 
-
-## §§ 2 bis 3 – (weggefallen)
+# §§ 2 bis 3 – (weggefallen)
 
 \-
 
-
-## § 4 – Wohnungsberechtigte
+# § 4 – Wohnungsberechtigte
 
 (1) In Wohnungen, für die die Mittel des Treuhandvermögens bis zum 31. Dezember 1996 bewilligt worden sind, sind wohnungsberechtigt
 
@@ -34,8 +29,7 @@ d) ehemalige sozialversicherte Arbeitnehmer des Kohlenbergbaues, die wegen einer
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß Wohnungsberechtigte, die in den durch die Verordnung bezeichneten Gebieten eine Bergarbeiterwohnung bewohnen, die Wohnungsberechtigung für diese Wohnung nicht oder nur unter bestimmten Voraussetzungen verlieren, wenn sie nach Ablauf von fünf Jahren aus der Beschäftigung im Kohlenbergbau ausscheiden. In der Verordnung dürfen nur solche Gebiete bezeichnet werden, in denen in zumutbarer Entfernung von den Bergarbeiterwohnungen nicht mehr als ein Kohlenbergbauunternehmen tätig ist.
 
-
-## § 5 – Zweckbindung der Bergarbeiterwohnungen
+# § 5 – Zweckbindung der Bergarbeiterwohnungen
 
 (1) Bei Mietwohnungen, für die die Mittel des Treuhandvermögens bis zum 31. Dezember 1996 bewilligt worden sind, ist sicherzustellen, daß die Bergarbeiterwohnungen ständig nur von Wohnungsberechtigten oder von Familien bewohnt werden, deren Haushaltungsvorstand wohnungsberechtigt ist oder zu deren Hausstand ein Familienmitglied gehört, das wohnungsberechtigter Arbeitnehmer (§ 4 Abs. 1 Buchstabe a) ist.
 
@@ -43,8 +37,7 @@ d) ehemalige sozialversicherte Arbeitnehmer des Kohlenbergbaues, die wegen einer
 
 (3) Die Vermietung oder Überlassung einer Bergarbeiterwohnung darf nicht von dem Bestehen eines Arbeitsverhältnisses bei einem bestimmten Arbeitgeber im Kohlenbergbau abhängig gemacht werden; eine entgegenstehende Vereinbarung ist nichtig.
 
-
-## § 6 – Überlassung von Bergarbeiterwohnungen
+# § 6 – Überlassung von Bergarbeiterwohnungen
 
 (1) Der Eigentümer oder sonstige Verfügungsberechtigte einer Bergarbeiterwohnung darf diese Wohnung nach Bezugsfertigkeit oder nach Freiwerden nur einem Wohnungsberechtigten im Sinne des § 4 Abs. 1 Buchstabe a, b oder c vermieten oder sonst zum Gebrauch überlassen, der ihm vor der Überlassung eine Bescheinigung über das Vorliegen dieser Voraussetzungen übergibt. Die Bescheinigung wird auf Antrag von der Stelle erteilt, die von der Landesregierung bestimmt wird. Die Bescheinigung gilt für die Dauer eines Jahres. Die Frist beginnt am Ersten des auf die Ausstellung der Bescheinigung folgenden Monats.
 
@@ -60,45 +53,37 @@ Die Zweckbindung nach § 5 ruht in diesen Fällen nur, solange die Bergarbeiterw
 
 (4) Die Zweckbindung nach § 5 schließt nicht aus, daß die Einliegerwohnung in einer Kleinsiedlung oder in einem Eigenheim ausnahmsweise an einen Wohnungsberechtigten im Sinne des § 4 Abs. 1 Buchstabe d oder einen Nichtwohnungsberechtigten vermietet wird oder der Wohnungsinhaber einen Teil seiner Wohnung an einen Wohnungsberechtigten im Sinne des § 4 Abs. 1 Buchstabe d oder einen Nichtwohnungsberechtigten untervermietet oder überläßt.
 
-
-## §§ 7 bis 8 – (weggefallen)
+# §§ 7 bis 8 – (weggefallen)
 
 \-
 
-
-## § 9 – Einzelne Wohnräume
+# § 9 – Einzelne Wohnräume
 
 Die in den §§ 4 bis 6 für Wohnungen getroffenen Vorschriften gelten für einzelne Wohnräume entsprechend.
 
-
-## § 9a
+# § 9a
 
 (weggefallen)
 
-
-## §§ 10 und 11 – (weggefallen)
+# §§ 10 und 11 – (weggefallen)
 
 \-
 
-
-## § 12 – Treuhandstellen
+# § 12 – Treuhandstellen
 
 Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgenommen, die das Bundesministerium des Innern, für Bau und Heimat beauftragt (Treuhandstellen). Die Treuhandstellen werden dem Bundesministerium des Innern, für Bau und Heimat von den für das Wohnungs- und Siedlungswesen zuständigen obersten Landesbehörden der Länder, in denen Kohlenbergbau betrieben wird, vorgeschlagen.
 
-
-## §§ 13 bis 15 – (weggefallen)
+# §§ 13 bis 15 – (weggefallen)
 
 \-
 
-
-## § 16 – Aufgaben der Treuhandstelle
+# § 16 – Aufgaben der Treuhandstelle
 
 (1) Die Treuhandstelle hat das Treuhandvermögen für den Bund im Rahmen einer ordnungsgemäßen Geschäftsführung getrennt von anderem Vermögen zu verwalten.
 
 (2) Die Treuhandstelle sorgt für die Durchführung der abgeschlossenen Verträge und wickelt das Treuhandvermögen ab. Die bei der Durchführung dieser Aufgaben entstehenden notwendigen Verwaltungskosten der Treuhandstelle können, soweit sie nicht vom Darlehensnehmer zu tragen sind, mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat aus Mitteln des Treuhandvermögens gedeckt werden.
 
-
-## § 17 – Treuhandvermögen
+# § 17 – Treuhandvermögen
 
 (1) Die Treuhandstelle übt die zum Treuhandvermögen gehörenden Rechte in eigenem Namen aus. Sie soll hierbei einen das Treuhandverhältnis kennzeichnenden Zusatz hinzufügen.
 
@@ -106,8 +91,7 @@ Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgeno
 
 (3) Mittel, welche die Treuhandstelle darlehnsweise von einem Dritten erhält, gehören nur dann zu dem Treuhandvermögen, wenn das Bundesministerium des Innern, für Bau und Heimat der Darlehnsaufnahme zugestimmt hat.
 
-
-## § 18 – Haftung des Treuhandvermögens
+# § 18 – Haftung des Treuhandvermögens
 
 (1) Die Treuhandstelle haftet Dritten mit dem Treuhandvermögen nur für Verbindlichkeiten, die sich auf das Treuhandvermögen beziehen; für Verbindlichkeiten aus einem von der Treuhandstelle aufgenommenen Darlehen haftet die Treuhandstelle mit dem Treuhandvermögen nur, wenn das Bundesministerium des Innern, für Bau und Heimat der Darlehnsaufnahme zugestimmt hat.
 
@@ -117,8 +101,7 @@ Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgeno
 
 (4) Das Treuhandverhältnis erlischt mit der Eröffnung des Insolvenzverfahrens über das Vermögen der Treuhandstelle. Das Treuhandvermögen gehört nicht zur Insolvenzmasse. Der Insolvenzverwalter hat das Treuhandvermögen auf den Bund zu übertragen und bis zur Übertragung zu verwalten. Von der Übertragung ab haftet der Bund anstelle der Treuhandstelle für die Verbindlichkeiten, für welche die Treuhandstelle mit dem Treuhandvermögen gehaftet hat. Die mit der Eröffnung des Insolvenzverfahrens verbundenen Rechtsfolgen treten hinsichtlich dieser Verbindlichkeiten nicht ein. § 418 des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
-
-## § 19 – Aufsicht über die Treuhandstellen
+# § 19 – Aufsicht über die Treuhandstellen
 
 (1) Die Treuhandstellen unterstehen hinsichtlich des Treuhandvermögens der Aufsicht des Bundes.
 
@@ -126,30 +109,24 @@ Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen wahrgeno
 
 (3) Die Treuhandstellen unterliegen hinsichtlich des Treuhandvermögens der Prüfung durch den Bundesrechnungshof.
 
-
-## § 20
+# § 20
 
 (weggefallen)
 
-
-## § 21 – Anwendung des Ersten und des Zweiten Wohnungsbaugesetzes
+# § 21 – Anwendung des Ersten und des Zweiten Wohnungsbaugesetzes
 
 Die Bergarbeiterwohnungen sind öffentlich geförderte Wohnungen im Sinne des § 3 Abs. 4 des Ersten Wohnungsbaugesetzes oder des § 5 Abs. 1 des Zweiten Wohnungsbaugesetzes, auch wenn die Mittel ausschließlich für die erststellige Finanzierung gewährt werden. Die Vorschriften der §§ 16 bis 19, 24, 37 bis 39 und des § 40 Abs. 1 des Ersten Wohnungsbaugesetzes sowie die Vorschriften der §§ 19, 20, 23, 25 bis 26, 52, 53, 63, 75 bis 77, 80, des § 81 Satz 2 und des § 90 Abs. 3 bis 5 des Zweiten Wohnungsbaugesetzes sind nicht anzuwenden.
 
-
-## §§ 22 und 23 – (weggefallen)
-
-\-
-
-
-## § 24 – (weggefallen)
-
-
-## §§ 24a und 25 – (weggefallen)
+# §§ 22 und 23 – (weggefallen)
 
 \-
 
+# § 24 – (weggefallen)
 
-## § 26 – (Inkrafttreten)
+# §§ 24a und 25 – (weggefallen)
+
+\-
+
+# § 26 – (Inkrafttreten)
 
 \-

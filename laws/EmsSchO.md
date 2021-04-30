@@ -1,5 +1,3 @@
-# [EmsSchO] Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung)
-
-Ausfertigungsdatum: 22.12.1986
-
+% Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung)
+% Ausfertigungsdatum: 22.12.1986
  

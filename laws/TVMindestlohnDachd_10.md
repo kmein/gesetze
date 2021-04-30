@@ -1,10 +1,7 @@
-# [TVMindestlohnDachd 10] Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
-
-Ausfertigungsdatum: 14.08.2019
-
+% Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn)
+% Ausfertigungsdatum: 14.08.2019
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 1. Räumlicher Geltungsbereich:
 
@@ -30,8 +27,7 @@ d) gewerbliches Reinigungspersonal, das für Reinigungsarbeiten in Verwaltungs- 
 
 e) gewerbliche Arbeitnehmer, die ausschließlich am Betriebssitz beschäftigt werden; ausgenommen ist der Bereich der Vorfertigung.
 
-
-## § 2 – Mindestlöhne
+# § 2 – Mindestlöhne
 
 1. Die Mindestlöhne betragen
 
@@ -67,8 +63,7 @@ Dies gilt nicht für Betriebe, soweit diese nachweislich eine betriebliche Arbei
 
 5. Für die Geltendmachung von Ansprüchen auf den Mindestlohn gilt die gesetzliche regelmäßige Verjährungsfrist. Dies gilt auch für die Geltendmachung des Mindestlohns, welcher nicht ausgezahlt worden ist, sondern dem Ausgleichskonto (§ 4 Nummer 3.3 RTV) gutzuschreiben war.
 
-
-## Anhang – (zur Anlage)  Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – (RTV) vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 8. Oktober 2014, in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. Februar 2020 geltenden Fassung
+# Anhang – (zur Anlage)  Auszug aus dem Rahmentarifvertrag für gewerbliche Arbeitnehmer im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – (RTV) vom 27. November 1990, zuletzt geändert durch Tarifvertrag vom 8. Oktober 2014, in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. Februar 2020 geltenden Fassung
 
 (Fundstelle: BAnz AT 30.01.2020 V1)
 

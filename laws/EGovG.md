@@ -1,13 +1,9 @@
-# [EGovG] Gesetz zur Förderung der elektronischen Verwaltung  (E-Government-Gesetz - EGovG)
-
-Ausfertigungsdatum: 25.07.2013
-
+% Gesetz zur Förderung der elektronischen Verwaltung  (E-Government-Gesetz - EGovG)
+% Ausfertigungsdatum: 25.07.2013
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz gilt für die öffentlich-rechtliche Verwaltungstätigkeit der Behörden des Bundes einschließlich der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 25.07.2013
 
 3. die Verwaltungstätigkeit nach dem Zweiten Buch Sozialgesetzbuch.
 
-
-## § 2 – Elektronischer Zugang zur Verwaltung
+# § 2 – Elektronischer Zugang zur Verwaltung
 
 (1) Jede Behörde ist verpflichtet, auch einen Zugang für die Übermittlung elektronischer Dokumente, auch soweit sie mit einer qualifizierten elektronischen Signatur versehen sind, zu eröffnen.
 
@@ -36,8 +31,7 @@ Ausfertigungsdatum: 25.07.2013
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 3 – Information zu Behörden und über ihre Verfahren in öffentlich zugänglichen Netzen
+# § 3 – Information zu Behörden und über ihre Verfahren in öffentlich zugänglichen Netzen
 
 (1) Jede Behörde stellt über öffentlich zugängliche Netze in allgemein verständlicher Sprache Informationen über ihre Aufgaben, ihre Anschrift, ihre Geschäftszeiten sowie postalische, telefonische und elektronische Erreichbarkeiten zur Verfügung.
 
@@ -47,15 +41,13 @@ Ausfertigungsdatum: 25.07.2013
 
 (3) Für Gemeinden und Gemeindeverbände gelten die Absätze 1 und 2 nur dann, wenn dies nach Landesrecht angeordnet ist.
 
-
-## § 4 – Elektronische Bezahlmöglichkeiten
+# § 4 – Elektronische Bezahlmöglichkeiten
 
 (1) Fallen im Rahmen eines elektronisch durchgeführten Verwaltungsverfahrens Gebühren oder sonstige Forderungen an, muss die Behörde die Einzahlung dieser Gebühren oder die Begleichung dieser sonstigen Forderungen durch Teilnahme an mindestens einem im elektronischen Geschäftsverkehr üblichen und hinreichend sicheren Zahlungsverfahren ermöglichen.
 
 (2) Erfolgt die Einzahlung von Gebühren oder die Begleichung sonstiger Forderungen durch ein elektronisches Zahlungsabwicklungsverfahren des Bundes, sollen Rechnungen oder Quittungen elektronisch angezeigt werden. Dies gilt auch, wenn die sonstige Forderung außerhalb eines Verwaltungsverfahrens erhoben wird.
 
-
-## § 4a – Elektronischer Rechnungsempfang; Verordnungsermächtigung
+# § 4a – Elektronischer Rechnungsempfang; Verordnungsermächtigung
 
 (1) Elektronische Rechnungen, die nach Erfüllung von öffentlichen Aufträgen und Aufträgen sowie zu Konzessionen von Stellen im Sinne von § 159 Absatz 1 Nummer 1 bis 4 des Gesetzes gegen Wettbewerbsbeschränkungen ausgestellt wurden, sind nach Maßgabe einer Rechtsverordnung nach Absatz 3 zu empfangen und zu verarbeiten. Diese Verpflichtung gilt unabhängig von dem Geltungsbereich gemäß § 1 Absatz 1 bis 3 und unabhängig davon, ob der Wert des vergebenen öffentlichen Auftrags, des vergebenen Auftrags oder der Vertragswert der vergebenen Konzession den gemäß § 106 des Gesetzes gegen Wettbewerbsbeschränkungen jeweils maßgeblichen Schwellenwert erreicht oder überschreitet. Vertragliche Regelungen, die die elektronische Rechnungsstellung vorschreiben, bleiben unberührt.
 
@@ -75,8 +67,7 @@ Ausfertigungsdatum: 25.07.2013
 
 4. Ausnahmen für verteidigungs- und sicherheitsspezifische Aufträge und Angelegenheiten des Auswärtigen Dienstes.
 
-
-## § 5 – Nachweise
+# § 5 – Nachweise
 
 (1) Wird ein Verwaltungsverfahren elektronisch durchgeführt, können die vorzulegenden Nachweise elektronisch eingereicht werden, es sei denn, dass durch Rechtsvorschrift etwas anderes bestimmt ist oder die Behörde für bestimmte Verfahren oder im Einzelfall die Vorlage eines Originals verlangt. Die Behörde entscheidet nach pflichtgemäßem Ermessen, welche Art der elektronischen Einreichung zur Ermittlung des Sachverhalts zulässig ist.
 
@@ -84,20 +75,17 @@ Ausfertigungsdatum: 25.07.2013
 
 (3) (weggefallen)
 
-
-## § 6 – Elektronische Aktenführung
+# § 6 – Elektronische Aktenführung
 
 Die Behörden des Bundes sollen ihre Akten elektronisch führen. Satz 1 gilt nicht für solche Behörden, bei denen das Führen elektronischer Akten bei langfristiger Betrachtung unwirtschaftlich ist. Wird eine Akte elektronisch geführt, ist durch geeignete technisch-organisatorische Maßnahmen nach dem Stand der Technik sicherzustellen, dass die Grundsätze ordnungsgemäßer Aktenführung eingehalten werden.
 
-
-## § 7 – Übertragen und Vernichten des Papieroriginals
+# § 7 – Übertragen und Vernichten des Papieroriginals
 
 (1) Die Behörden des Bundes sollen, soweit sie Akten elektronisch führen, an Stelle von Papierdokumenten deren elektronische Wiedergabe in der elektronischen Akte aufbewahren. Bei der Übertragung in elektronische Dokumente ist nach dem Stand der Technik sicherzustellen, dass die elektronischen Dokumente mit den Papierdokumenten bildlich und inhaltlich übereinstimmen, wenn sie lesbar gemacht werden. Von der Übertragung der Papierdokumente in elektronische Dokumente kann abgesehen werden, wenn die Übertragung unverhältnismäßigen technischen Aufwand erfordert.
 
 (2) Papierdokumente nach Absatz 1 sollen nach der Übertragung in elektronische Dokumente vernichtet oder zurückgegeben werden, sobald eine weitere Aufbewahrung nicht mehr aus rechtlichen Gründen oder zur Qualitätssicherung des Übertragungsvorgangs erforderlich ist.
 
-
-## § 8 – Akteneinsicht
+# § 8 – Akteneinsicht
 
 Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des Bundes, die Akten elektronisch führen, Akteneinsicht dadurch gewähren, dass sie
 
@@ -109,8 +97,7 @@ Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des Bundes, di
 
 4. den elektronischen Zugriff auf den Inhalt der Akten gestatten.
 
-
-## § 9 – Optimierung von Verwaltungsabläufen und Information zum Verfahrensstand
+# § 9 – Optimierung von Verwaltungsabläufen und Information zum Verfahrensstand
 
 (1) Behörden des Bundes sollen Verwaltungsabläufe, die erstmals zu wesentlichen Teilen elektronisch unterstützt werden, vor Einführung der informationstechnischen Systeme unter Nutzung gängiger Methoden dokumentieren, analysieren und optimieren. Dabei sollen sie im Interesse der Verfahrensbeteiligten die Abläufe so gestalten, dass Informationen zum Verfahrensstand und zum weiteren Verfahren sowie die Kontaktinformationen der zum Zeitpunkt der Anfrage zuständigen Ansprechstelle auf elektronischem Wege abgerufen werden können.
 
@@ -118,8 +105,7 @@ Soweit ein Recht auf Akteneinsicht besteht, können die Behörden des Bundes, di
 
 (3) Die Absätze 1 und 2 gelten entsprechend bei allen wesentlichen Änderungen der Verwaltungsabläufe oder der eingesetzten informationstechnischen Systeme.
 
-
-## § 9a – Verwaltungsportal und Nutzerkonto des Bundes; Verordnungsermächtigung
+# § 9a – Verwaltungsportal und Nutzerkonto des Bundes; Verordnungsermächtigung
 
 (1) Das Verwaltungsportal des Bundes nach § 1 Absatz 1 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138) und das Nutzerkonto des Bundes nach § 3 Absatz 2 des Onlinezugangsgesetzes werden durch die dafür zuständigen öffentlichen Stellen zur fachunabhängigen und fachübergreifenden Unterstützung der elektronischen Verwaltungstätigkeit der Behörden des Bundes zur Verfügung gestellt.
 
@@ -139,8 +125,7 @@ a) Online-Antragsformulare empfangen und herunterladen können sowie
 
 b) Bescheide, elektronische Dokumente und Informationen hochladen und elektronisch an das Nutzerkonto des Antragstellers übermitteln können, wenn die antragstellende Person diesen Kommunikationskanal gewählt hat.
 
-
-## § 9b – Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes
+# § 9b – Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes
 
 (1) Die erforderlichen Stamm- und Verfahrensdaten, die im Verwaltungsportal des Bundes über ein Online-Antragsformular einer Behörde erhoben werden, dürfen bereits vor Abschluss der Antragstellung gespeichert werden (zwischengespeicherte Antragsdaten), wenn die antragstellende Person eingewilligt hat.
 
@@ -150,8 +135,7 @@ b) Bescheide, elektronische Dokumente und Informationen hochladen und elektronis
 
 (4) Die Antragsdaten, die im Verwaltungsportal des Bundes über ein Online-Antragsformular erhoben werden, dürfen nach Antragstellung gespeichert werden, soweit dies erforderlich ist, um der zuständigen Behörde den Antrag über einen sicheren Übermittlungsweg zum Abruf bereitzustellen. Sobald die zuständige Behörde den Antrag aus dem Verwaltungsportal des Bundes abgerufen hat, sind die Antragsdaten unverzüglich aus dem Verwaltungsportal des Bundes zu löschen. Ruft die zuständige Behörde den Antrag nicht spätestens innerhalb von drei Monaten nach der Antragstellung ab, so ist der Antrag ausschließlich zum Zwecke des Abrufs durch die jeweils zuständige Behörde in einer gesonderten Datenbank abzulegen und aufzubewahren. Durch technische und organisatorische Maßnahmen ist sicherzustellen, dass in der gesonderten Datenbank nur die jeweils zuständige Behörde auf die Antragsdaten zugreifen kann. Nach Ablauf von neun Monaten ab Ablage in der gesonderten Datenbank ist der Antrag aus der gesonderten Datenbank zu löschen. Nimmt der Antragsteller den Antrag zurück, sind die Antragsdaten unverzüglich aus dem Verwaltungsportal des Bundes zu löschen.
 
-
-## § 9c – Datenschutzrechtliche Verantwortlichkeit
+# § 9c – Datenschutzrechtliche Verantwortlichkeit
 
 (1) Für die Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes nach § 9a Absatz 3 Nummer 3 und 4 und nach § 9b Absatz 1 und 2 ist die jeweils zuständige Behörde des Bundes datenschutzrechtlich verantwortlich; die für das Verwaltungsportal des Bundes zuständige öffentliche Stelle wird insofern tätig als Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2).
 
@@ -159,13 +143,11 @@ b) Bescheide, elektronische Dokumente und Informationen hochladen und elektronis
 
 (3) Die Verarbeitung personenbezogener Daten im Nutzerkonto des Bundes führt die nach § 9a Absatz 2 dafür bestimmte zuständige öffentliche Stelle in eigener datenschutzrechtlicher Verantwortlichkeit aus.
 
-
-## § 10 – Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates
+# § 10 – Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates
 
 Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zwischen Bund und Ländern (IT-Planungsrat) einen Beschluss über fachunabhängige und fachübergreifende IT-Interoperabilitäts- oder IT-Sicherheitsstandards gemäß § 1 Absatz 1 Satz 1 Nummer 2 und § 3 des Vertrages über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (BGBl. 2010 I S. 662, 663), so beschließt der Rat der IT-Beauftragten der Bundesregierung (IT-Rat) die Umsetzung dieses Beschlusses innerhalb der Bundesverwaltung. § 12 des Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik gilt entsprechend.
 
-
-## § 11 – Gemeinsame Verfahren
+# § 11 – Gemeinsame Verfahren
 
 (1) Gemeinsame Verfahren sind automatisierte Verfahren, die mehreren Verantwortlichen im Sinne des Artikels 26 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung die Verarbeitung personenbezogener Daten in oder aus einem Datenbestand ermöglichen.
 
@@ -175,8 +157,7 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 (4) Soweit für die beteiligten Stellen ungeachtet der Verordnung (EU) 2016/679 unterschiedliche bundes- oder landesrechtliche Datenschutzvorschriften gelten, ist vor der Einrichtung eines gemeinsamen Verfahrens zu regeln, welche dieser Datenschutzvorschriften angewendet werden. Weiterhin ist zu bestimmen, welche Kontrollstellen die Einhaltung der Datenschutzvorschriften prüfen.
 
-
-## § 12 – Anforderungen an das Bereitstellen von Daten, Verordnungsermächtigung
+# § 12 – Anforderungen an das Bereitstellen von Daten, Verordnungsermächtigung
 
 (1) Stellen Behörden über öffentlich zugängliche Netze Daten zur Verfügung, an denen ein Nutzungsinteresse, insbesondere ein Weiterverwendungsinteresse im Sinne des Informationsweiterverwendungsgesetzes, zu erwarten ist, so sind grundsätzlich maschinenlesbare Formate zu verwenden. Ein Format ist maschinenlesbar, wenn die enthaltenen Daten durch Software automatisiert ausgelesen und verarbeitet werden können. Die Daten sollen mit Metadaten versehen werden.
 
@@ -188,8 +169,7 @@ Fasst der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung zw
 
 (5) Absatz 1 gilt nicht, soweit Rechte Dritter, insbesondere der Länder, entgegenstehen.
 
-
-## § 12a – Offene Daten der Behörden der unmittelbaren Bundesverwaltung
+# § 12a – Offene Daten der Behörden der unmittelbaren Bundesverwaltung
 
 (1) Die Behörden der unmittelbaren Bundesverwaltung stellen unbearbeitete Daten, die sie zur Erfüllung ihrer öffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum Datenabruf über öffentlich zugängliche Netze bereit. Ein Anspruch auf die Bereitstellung dieser Daten wird hierdurch nicht begründet.
 
@@ -237,42 +217,35 @@ b) ein Zugangsrecht erst nach der Beteiligung Dritter bestünde,
 
 (10) Die Bundesregierung berichtet dem Bundestag alle zwei Jahre über die Fortschritte bei der Bereitstellung von Daten durch die Behörden der unmittelbaren Bundesverwaltung als offene Daten.
 
-
-## § 13 – Elektronische Formulare
+# § 13 – Elektronische Formulare
 
 Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer für die elektronische Versendung an die Behörde bestimmten Fassung des Formulars entfällt das Unterschriftsfeld.
 
-
-## § 14 – Georeferenzierung
+# § 14 – Georeferenzierung
 
 (1) Wird ein elektronisches Register, welches Angaben mit Bezug zu inländischen Grundstücken enthält, neu aufgebaut oder überarbeitet, hat die Behörde in das Register eine bundesweit einheitlich festgelegte direkte Georeferenzierung (Koordinate) zu dem jeweiligen Flurstück, dem Gebäude oder zu einem in einer Rechtsvorschrift definierten Gebiet aufzunehmen, auf welches sich die Angaben beziehen.
 
 (2) Register im Sinne dieses Gesetzes sind solche, für die Daten auf Grund von Rechtsvorschriften des Bundes erhoben oder gespeichert werden; dies können öffentliche und nichtöffentliche Register sein.
 
-
-## § 15 – Amtliche Mitteilungs- und Verkündungsblätter
+# § 15 – Amtliche Mitteilungs- und Verkündungsblätter
 
 (1) Eine durch Rechtsvorschrift des Bundes bestimmte Pflicht zur Publikation in einem amtlichen Mitteilungs- oder Verkündungsblatt des Bundes, eines Landes oder einer Gemeinde kann unbeschadet des Artikels 82 Absatz 1 des Grundgesetzes zusätzlich oder ausschließlich durch eine elektronische Ausgabe erfüllt werden, wenn diese über öffentlich zugängliche Netze angeboten wird.
 
 (2) Jede Person muss einen angemessenen Zugang zu der Publikation haben, insbesondere durch die Möglichkeit, Ausdrucke zu bestellen oder in öffentlichen Einrichtungen auf die Publikation zuzugreifen. Es muss die Möglichkeit bestehen, die Publikation zu abonnieren oder elektronisch einen Hinweis auf neue Publikationen zu erhalten. Gibt es nur eine elektronische Ausgabe, ist dies in öffentlich zugänglichen Netzen auf geeignete Weise bekannt zu machen. Es ist sicherzustellen, dass die publizierten Inhalte allgemein und dauerhaft zugänglich sind und eine Veränderung des Inhalts ausgeschlossen ist. Bei gleichzeitiger Publikation in elektronischer und papiergebundener Form hat die herausgebende Stelle eine Regelung zu treffen, welche Form als die authentische anzusehen ist.
 
-
-## § 16 – Barrierefreiheit
+# § 16 – Barrierefreiheit
 
 Die Behörden des Bundes sollen die barrierefreie Ausgestaltung der elektronischen Kommunikation und der Verwendung elektronischer Dokumente nach § 4 des Behindertengleichstellungsgesetzes in angemessener Form gewährleisten.
 
-
-## § 17 – Änderung verwaltungsrechtlicher Rechtsverordnungen des Bundes
+# § 17 – Änderung verwaltungsrechtlicher Rechtsverordnungen des Bundes
 
 Soweit Anordnungen der Schriftform in Rechtsverordnungen des Bundes nach dem Bericht der Bundesregierung zu Artikel 30 Absatz 2 Nummer 1 des Gesetzes zur Förderung der elektronischen Verwaltung sowie zur Änderung weiterer Vorschriften vom 25. Juli 2013 (BGBl. I S. 2749) verzichtbar sind (Bundestagsdrucksache 18/9177, S. 29 bis 47), sind diese aufzuheben oder mit dem Ziel einer möglichst einfachen elektronischen Verfahrensabwicklung zu ergänzen.
 
-
-## § 18 – Anwendungsregelung
+# § 18 – Anwendungsregelung
 
 Für subzentrale öffentliche Auftraggeber sowie für Sektorenauftraggeber und für Konzessionsgeber ist § 4a erst ab dem 27. November 2019 anzuwenden. Subzentrale öffentliche Auftraggeber sind alle öffentlichen Auftraggeber, die keine obersten Bundesbehörden sind. Verfassungsorgane des Bundes sind für die Zwecke dieses Gesetzes den obersten Bundesbehörden gleichgestellt.
 
-
-## § 19 – Übergangsvorschriften
+# § 19 – Übergangsvorschriften
 
 (1) § 12a gilt für Daten, die nach dem 13. Juli 2017 erhoben werden. Für Daten, die vor dem 13. Juli 2017 erhoben wurden, gilt § 12a nur, soweit diese Daten nach dem 13. Juli 2017 zur Erfüllung öffentlich-rechtlicher Aufgaben der Behörden nach § 12a Absatz 1 Satz 1 verwendet werden.
 

@@ -1,10 +1,7 @@
-# [AdÜbAG] Gesetz zur Ausführung des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption  (Adoptionsübereinkommens-Ausführungsgesetz - AdÜbAG)
-
-Ausfertigungsdatum: 05.11.2001
-
+% Gesetz zur Ausführung des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption  (Adoptionsübereinkommens-Ausführungsgesetz - AdÜbAG)
+% Ausfertigungsdatum: 05.11.2001
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -74,8 +71,7 @@ Anwendung des Abschnitts 2
 
 Anwendung des Abschnitts 3
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Zentrale Behörden im Sinne des Artikels 6 des Haager Übereinkommens vom 29. Mai 1993 über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption (BGBl. 2001 II S. 1034) (Übereinkommen) sind das Bundesamt für Justiz als Bundeszentralstelle für Auslandsadoption (Bundeszentralstelle) und die zentralen Adoptionsstellen der Landesjugendämter (zentrale Adoptionsstellen).
 
@@ -87,8 +83,7 @@ Anwendung des Abschnitts 3
 
 2. ist zentrale Behörde des Heimatstaates (Artikel 2 Absatz 1 des Übereinkommens) die Stelle, die nach dem Recht dieses Staates die jeweils in Betracht kommende Aufgabe einer zentralen Behörde wahrnimmt.
 
-
-## § 2 – Sachliche Zuständigkeiten
+# § 2 – Sachliche Zuständigkeiten
 
 (1) Die in § 1 Absatz 2 genannten Adoptionsvermittlungsstellen nehmen unbeschadet des Absatzes 3 Satz 1 für die von ihnen betreuten Vermittlungsfälle die Aufgaben nach den Artikeln 9 und 14 bis 21 des Übereinkommens wahr, die anerkannten Auslandsvermittlungsstellen jedoch nur hinsichtlich der Vermittlung eines Kindes mit gewöhnlichem Aufenthalt im Ausland an Adoptionsbewerber mit gewöhnlichem Aufenthalt im Inland.
 
@@ -96,15 +91,13 @@ Anwendung des Abschnitts 3
 
 (3) In Bezug auf die in den Artikeln 8 und 21 des Übereinkommens vorgesehenen Maßnahmen bleiben die allgemeinen gerichtlichen und behördlichen Zuständigkeiten unberührt. In den Fällen des Artikels 21 Absatz 1 des Übereinkommens obliegt jedoch die Verständigung mit der zentralen Behörde des Heimatstaates den nach den Absätzen 1 oder 2 zuständigen Stellen.
 
-
-## § 3 – Verfahren
+# § 3 – Verfahren
 
 (1) Die Bundeszentralstelle und die Auslandsvermittlungsstellen können unmittelbar mit allen zuständigen Stellen im Inland und im Ausland verkehren. Auf ihre Tätigkeit finden die Vorschriften des Adoptionsvermittlungsgesetzes Anwendung. Die §§ 9c und 9e des Adoptionsvermittlungsgesetzes gelten auch für die von der zentralen Behörde eines anderen Vertragsstaates des Übereinkommens übermittelten personenbezogenen Daten und Unterlagen. Für die zentralen Adoptionsstellen und die Jugendämter gilt ergänzend das Zehnte Buch Sozialgesetzbuch, soweit nicht bereits § 9e des Adoptionsvermittlungsgesetzes auf diese Bestimmungen verweist.
 
 (2) Das Verfahren der Bundeszentralstelle gilt unbeschadet des Absatzes 1 Satz 2 und 3 als Justizverwaltungsverfahren. In Verfahren nach § 4 Abs. 6 oder § 9 kann dem Antragsteller aufgegeben werden, geeignete Nachweise oder beglaubigte Übersetzungen beizubringen. Die Bundeszentralstelle kann erforderliche Übersetzungen selbst in Auftrag geben; die Höhe der Vergütung für die Übersetzungen richtet sich nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 4 – Adoptionsbewerbung
+# § 4 – Adoptionsbewerbung
 
 (1) Adoptionsbewerber mit gewöhnlichem Aufenthalt im Inland richten ihre Bewerbung entweder an die zentrale Adoptionsstelle oder an eine der anerkannten Auslandsvermittlungsstellen im Sinne des § 1 Absatz 2.
 
@@ -124,8 +117,7 @@ Anwendung des Abschnitts 3
 
 (6) Auf Antrag der Adoptionsbewerber wirkt die Bundeszentralstelle bei der Übermittlung nach Absatz 5 und bei der Übermittlung sonstiger die Bewerbung betreffender Mitteilungen an die zentrale Behörde des Heimatstaates mit. Sie soll ihre Mitwirkung versagen, wenn die beantragte Übermittlung nach Form oder Inhalt den Bestimmungen des Übereinkommens oder des Heimatstaates erkennbar nicht genügt.
 
-
-## § 5 – Aufnahme eines Kindes
+# § 5 – Aufnahme eines Kindes
 
 (1) Der Vermittlungsvorschlag der zentralen Behörde des Heimatstaates bedarf der Billigung durch die Auslandsvermittlungsstelle. Diese hat insbesondere zu prüfen, ob
 
@@ -143,8 +135,7 @@ Die Auslandsvermittlungsstelle kann vor oder nach Eingang eines Vermittlungsvors
 
 (4) Die Auslandsvermittlungsstelle soll sich über die Prüfung und Beratung nach Absatz 1 und 2 Satz 1 mit der für den gewöhnlichen Aufenthaltsort der Adoptionsbewerber zuständigen örtlichen Adoptionsvermittlungsstelle ins Benehmen setzen. Sie unterrichtet diese über die Abgabe der Erklärungen gemäß Absatz 3 Satz 2.
 
-
-## § 6 – Einreise und Aufenthalt
+# § 6 – Einreise und Aufenthalt
 
 (1) Zum Zwecke der Herstellung und Wahrung einer familiären Lebensgemeinschaft zwischen den Adoptionsbewerbern und dem aufzunehmenden Kind finden auf dessen Einreise und Aufenthalt die Vorschriften des Aufenthaltsgesetzes über den Kindernachzug vor dem Vollzug der Annahme entsprechende Anwendung, sobald
 
@@ -156,8 +147,7 @@ Die Auslandsvermittlungsstelle kann vor oder nach Eingang eines Vermittlungsvors
 
 (3) Entfällt der in Absatz 1 genannte Aufenthaltszweck, so wird die dem Kind erteilte Aufenthaltserlaubnis als eigenständiges Aufenthaltsrecht befristet verlängert, solange nicht die Voraussetzungen für die Erteilung einer Niederlassungserlaubnis vorliegen oder die zuständige Stelle nach Artikel 21 Abs. 1 Buchstabe c des Übereinkommens die Rückkehr des Kindes in seinen Heimatstaat veranlasst.
 
-
-## § 7 – Bereiterklärung zur Adoption; Verantwortlichkeiten für ein Adoptivpflegekind
+# § 7 – Bereiterklärung zur Adoption; Verantwortlichkeiten für ein Adoptivpflegekind
 
 (1) Die Erklärung der Adoptionsbewerber, dass diese bereit sind, das ihnen vorgeschlagene Kind anzunehmen, ist gegenüber dem Jugendamt abzugeben, in dessen Bereich ein Adoptionsbewerber zur Zeit der Aufforderung nach § 5 Abs. 3 Satz 1 mit Hauptwohnsitz gemeldet ist. Die Erklärung bedarf der öffentlichen Beurkundung. Das Jugendamt übersendet der Auslandsvermittlungsstelle eine beglaubigte Abschrift.
 
@@ -173,25 +163,21 @@ Die Verpflichtung endet, wenn das Kind angenommen wird.
 
 (4) Das Jugendamt, auch soweit es als Vormund oder Pfleger des Kindes handelt, ein anderer für das Kind bestellter Vormund oder Pfleger sowie die Adoptionsvermittlungsstelle, die Aufgaben der Adoptionsbegleitung nach § 9 des Adoptionsvermittlungsgesetzes wahrnimmt, unterrichten die Auslandsvermittlungsstelle über die Entwicklung des aufgenommenen Kindes, soweit die Auslandsvermittlungsstelle diese Angaben zur Erfüllung ihre Aufgaben nach den Artikeln 9, 20 und 21 des Übereinkommens benötigt. Bis eine Annahme als Kind ausgesprochen ist, haben das Jugendamt, die Ausländerbehörde, das Vormundschafts- und das Familiengericht die Auslandsvermittlungsstelle außer bei Gefahr im Verzug an allen das aufgenommene Kind betreffenden Verfahren zu beteiligen; eine wegen Gefahr im Verzug unterbliebene Beteiligung ist unverzüglich nachzuholen.
 
-
-## § 8 – Bescheinigungen über eine im Inland vollzogene Annahme oder Umwandlung eines Annahmeverhältnisses
+# § 8 – Bescheinigungen über eine im Inland vollzogene Annahme oder Umwandlung eines Annahmeverhältnisses
 
 Hat eine zentrale Adoptionsstelle die Zustimmung gemäß Artikel 17 Buchstabe c des Übereinkommens erteilt, so stellt diese auf Antrag desjenigen, der ein rechtliches Interesse hat, die Bescheinigung gemäß Artikel 23 oder Artikel 27 Abs. 2 des Übereinkommens aus. Hat ein Jugendamt oder eine anerkannte Auslandsvermittlungsstelle die Zustimmung erteilt, so ist die zentrale Adoptionsstelle zuständig, zu deren Bereich das Jugendamt gehört oder in deren Bereich die anerkannte Auslandsvermittlungsstelle ihren Sitz hat.
 
-
-## § 9 – Überprüfung ausländischer Bescheinigungen über den Vollzug einer Annahme oder die Umwandlung eines Annahmeverhältnisses
+# § 9 – Überprüfung ausländischer Bescheinigungen über den Vollzug einer Annahme oder die Umwandlung eines Annahmeverhältnisses
 
 Auf Antrag desjenigen, der ein rechtliches Interesse hat, prüft und bestätigt die Bundeszentralstelle die Echtheit einer Bescheinigung über die in einem anderen Vertragsstaat vollzogene Annahme oder Umwandlung eines Annahmeverhältnisses, die Übereinstimmung ihres Inhalts mit Artikel 23 oder Artikel 27 Abs. 2 des Übereinkommens sowie die Zuständigkeit der erteilenden Stelle. Die Bestätigung erbringt Beweis für die in Satz 1 genannten Umstände; der Nachweis ihrer Unrichtigkeit ist zulässig.
 
-
-## § 10 – Anwendung des Abschnitts 2
+# § 10 – Anwendung des Abschnitts 2
 
 (1) Die Bestimmungen des Abschnitts 2 sind im Verhältnis zu einem anderen Vertragsstaat des Übereinkommens anzuwenden, wenn das Übereinkommen im Verhältnis zwischen der Bundesrepublik Deutschland und diesem Vertragsstaat in Kraft ist und wenn die Bewerbung nach § 4 Abs. 1 der Auslandsvermittlungsstelle nach dem Zeitpunkt des Inkrafttretens zugegangen ist.
 
 (2) Die Bundeszentralstelle kann mit der zentralen Behörde des Heimatstaates die Anwendung der Bestimmungen des Übereinkommens auch auf solche Bewerbungen vereinbaren, die der Auslandsvermittlungsstelle vor dem in Absatz 1 genannten Zeitpunkt zugegangen sind. Die Vereinbarung kann zeitlich oder sachliche beschränkt werden. Auf einen Vermittlungsfall, der einer Vereinbarung nach den Sätzen 1 und 2 unterfällt, sind die Bestimmungen des Abschnitts 2 anzuwenden.
 
-
-## § 11 – Anwendung des Abschnitts 3
+# § 11 – Anwendung des Abschnitts 3
 
 (1) Eine Bescheinigung nach § 8 wird ausgestellt, sofern die Annahme nach dem in § 10 Abs. 1 genannten Zeitpunkt und auf Grund der in Artikel 17 Buchstabe c des Übereinkommens vorgesehenen Zustimmungen vollzogen worden ist.
 

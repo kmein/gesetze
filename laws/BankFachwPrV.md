@@ -1,15 +1,11 @@
-# [BankFachwPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
-
-Ausfertigungsdatum: 01.03.2000
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
+% Ausfertigungsdatum: 01.03.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), die zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden sind, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Bankfachwirt/zur Geprüften Bankfachwirtin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
@@ -19,8 +15,7 @@ Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des Berufsbildungsgesetzes vom 1
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Gliederung und Durchführung der Prüfung
+# § 2 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -62,8 +57,7 @@ Die zu prüfende Person hat Anspruch auf 20 Minuten Vorbereitungszeit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -79,8 +73,7 @@ Die zu prüfende Person hat Anspruch auf 20 Minuten Vorbereitungszeit.
 
 (4) Zu einem zusätzlichen Prüfungsbereich aus dem Prüfungsteil "Spezielle Qualifikation" ist zuzulassen, wer bereits eine Prüfung zum Bankfachwirt/zur Bankfachwirtin bestanden hat.
 
-
-## § 4 – Grundlegende Qualifikationen
+# § 4 – Grundlegende Qualifikationen
 
 (1) Im Prüfungsbereich "Allgemeine Bankbetriebswirtschaft" soll die zu prüfende Person nachweisen, dass sie systematisch und entscheidungsorientiert bankbetriebliche Ziele und Aufgaben unter Berücksichtigung aufsichtsrechtlicher Vorschriften darstellen und analysieren kann und daraus entsprechend begründete Handlungsschritte ableiten kann. In diesem Rahmen können geprüft werden:
 
@@ -138,8 +131,7 @@ c) Kommunikation und Projektarbeit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Spezielle Qualifikationen
+# § 5 – Spezielle Qualifikationen
 
 (1) Im Prüfungsbereich "Privatkundengeschäft" soll die zu prüfende Person nachweisen, dass sie die wirtschaftliche Bedeutung von Bankprodukten und Dienstleistungen für das Privatkundengeschäft kennt, diese bedarfsgerecht zuordnen sowie Strategien zu Geld- und Vermögensanlagen kundenorientiert entwickeln kann. Sie soll in der Lage sein, bei der Leistungserstellung gesetzliche und vertragliche Bestimmungen zu beurteilen und bei der Entscheidungsfindung Kunden- und Unternehmensinteressen aufeinander abzustimmen. In diesem Rahmen können geprüft werden:
 
@@ -165,15 +157,13 @@ c) Kommunikation und Projektarbeit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 2 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Eine Befreiung vom „Praxisorientierten Situationsgespräch“ nach § 2 Absatz 6 ist nicht möglich.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -185,8 +175,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -200,8 +189,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -215,8 +203,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Die nicht bestandene Prüfung kann zweimal wiederholt werden.
 
@@ -224,15 +211,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Ausbildereignung
+# § 11 – Ausbildereignung
 
 Wer die Prüfung zum "Geprüften Bankfachwirt/Geprüfte Bankfachwirtin" nach dieser Rechtsverordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit. Dies gilt nicht für den praktischen Prüfungsteil.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Die bis zum 31. Dezember 2000 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften bis zum 1. Juli 2002 zu Ende geführt werden.
 
@@ -240,22 +225,19 @@ Wer die Prüfung zum "Geprüften Bankfachwirt/Geprüfte Bankfachwirtin" nach die
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2210 - 2211)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2212)
 

@@ -1,24 +1,19 @@
-# [FluthilfeMedErl 2013] Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille „Fluthilfe 2013“
-
-Ausfertigungsdatum: 02.07.2013
-
+% Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille „Fluthilfe 2013“
+% Ausfertigungsdatum: 02.07.2013
  
-
-## Art 1 – Stiftung
+# Art 1 – Stiftung
 
 Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei der Abwehr von Gefahren und der Beseitigung von Schäden anlässlich der Flutkatastrophe Ende Mai und im Juni 2013 in der Bundesrepublik Deutschland stiften der Bundesminister des Innern und der Bundesminister der Verteidigung für haupt- und ehrenamtliche Einsatzkräfte des Technischen Hilfswerkes, Angehörige der Bundespolizei und der Bundeswehr sowie für Dritte aufgrund ihrer besonderen Verdienste in der Zusammenarbeit mit dem Technischen Hilfswerk, der Bundespolizei und der Bundeswehr gemeinsam die
 
 Einsatzmedaille „Fluthilfe 2013“.
 
-
-## Art 2 – Gestaltung
+# Art 2 – Gestaltung
 
 (1) Das Ehrenzeichen hat die Form einer runden, silberfarbenen Medaille. Auf der Vorderseite ist eine stilisierte Flutwelle an halb versunkenen Häusern dargestellt. Der untere Teil der Medaille trägt die Angabe „Fluthilfe 2013“. Die Rückseite trägt in der Mitte den Bundesadler und im unteren Teil die Worte „Dank und Anerkennung“. Der dunkelblaue Mittelteil des Medaillenbandes ist beidseitig von den Bundesfarben schwarz-rot-gold eingefasst.
 
 (2) Die verkleinerte Form und der Bandsteg tragen die Farben des Medaillenbandes mit aufgesetzter verkleinerter Vorderseite der Medaille.
 
-
-## Art 3 – Verleihung und Trageweise
+# Art 3 – Verleihung und Trageweise
 
 (1) Das Ehrenzeichen verleiht
 
@@ -36,8 +31,7 @@ der Bundesminister der Verteidigung an Angehörige der Bundeswehr, an Angehörig
 
 (5) Die Ehrenzeichen gehen in das Eigentum der Ausgezeichneten über.
 
-
-## Art 4 – Vorschlagsberechtigung
+# Art 4 – Vorschlagsberechtigung
 
 (1) Für die Angehörigen der Bundespolizei sind die Präsidenten der dem Bundespolizeipräsidium nachgeordneten Bundespolizeibehörden und der Präsident des Bundespolizeipräsidiums, für die haupt- und ehrenamtlichen Einsatzkräfte des Technischen Hilfswerkes die Landesbeauftragten der Bundesanstalt Technisches Hilfswerk über den Präsidenten oder die Präsidentin der Bundesanstalt Technisches Hilfswerk vorschlagsberechtigt. Vorschläge für Dritte stimmen die Vorschlagsberechtigten untereinander ab.
 
@@ -45,8 +39,7 @@ der Bundesminister der Verteidigung an Angehörige der Bundeswehr, an Angehörig
 
 (3) Die Vorschlagsberechtigten prüfen selbst, ob die Verleihungsvoraussetzungen erfüllt sind. In Zweifelsfällen kann wohlwollend verfahren werden.
 
-
-## Art 5 – Verfahren
+# Art 5 – Verfahren
 
 (1) Die Verleihungsvorschläge sind dem Bundesministerium des Innern oder dem Bundesministerium der Verteidigung mit folgenden personenbezogenen Angaben
 
@@ -64,15 +57,13 @@ in Listenform bis spätestens 30. Juni 2015 zuzuleiten. Alle Vorgänge zur Verle
 
 (3) Die Namen der Ausgezeichneten werden den Vorschlagsberechtigten unter Beifügung der Ehrenzeichen und der Verleihungsurkunden mitgeteilt. Diese veranlassen die Aushändigung der Auszeichnung in würdiger Form.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern  
   
 Der Bundesminister der Verteidigung
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2013, 2235)
 

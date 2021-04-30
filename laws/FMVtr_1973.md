@@ -1,5 +1,3 @@
-# [FMVtr 1973] Internationaler Fernmeldevertrag
-
-Ausfertigungsdatum: 25.10.1973
-
+% Internationaler Fernmeldevertrag
+% Ausfertigungsdatum: 25.10.1973
  

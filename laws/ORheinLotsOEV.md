@@ -1,20 +1,15 @@
-# [ORheinLotsOEV] Verordnung zur Einführung der Lotsenordnung für den Oberrhein
-
-Ausfertigungsdatum: 15.06.1956
-
+% Verordnung zur Einführung der Lotsenordnung für den Oberrhein
+% Ausfertigungsdatum: 15.06.1956
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 3 und 4 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt vom 15. Februar 1956 (Bundesgesetzbl. II S. 317) in Verbindung mit Artikel 26 Abs. 1 der revidierten Rheinschiffahrtsakte vom 17. Oktober 1868 (Badisches Gesetz- und Verordnungsblatt 1869 S. 183, Bayerisches Regierungsblatt 1869 S. 1129) und dem Beschluß der Zentralkommission für die Rheinschiffahrt vom 4. Mai 1956 wird - hinsichtlich des Artikels 5 im Einvernehmen mit dem Bundesminister der Finanzen - verordnet:
 
-
-## Art 1 – Inkraftsetzung
+# Art 1 – Inkraftsetzung
 
 Die Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen wird in der Fassung der Anlage 1 in Kraft gesetzt.
 
-
-## Art 2 – Zuständige Behörde
+# Art 2 – Zuständige Behörde
 
 (1) Zuständige Behörde nach den §§ 2, 4 Nummer 1 Satz 1, §§ 6, 7 Nummer 1, §§ 11, 12, 18, 20 und 21 ist für Bewerber, die zur Zeit der Antragstellung nach § 4 Nummer 1 oder nach den §§ 20 und 21 ihren Wohnsitz haben
 
@@ -30,18 +25,15 @@ jeweils das vom Bundesministerium für Verkehr und digitale Infrastruktur im Ver
 
 (4) Zuständige Behörde für den Erlass der Prüfungsordnung nach § 10 Nummer 3 ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-
-## Art 3 – Prüfungsausschüsse
+# Art 3 – Prüfungsausschüsse
 
 Prüfungsausschüsse zur Abnahme der Lotsenprüfung (§ 9 Nr. 1) werden bei den in Artikel 2 Abs. 1 genannten Wasserstraßen- und Schifffahrtsämtern gebildet.
 
-
-## Art 4 – Körperliche Eignung
+# Art 4 – Körperliche Eignung
 
 Die nach § 4 Nr. 1 Buchstabe d erforderliche körperliche Eignung zur Führung eines Fahrzeugs, insbesondere der Besitz eines ausreichenden Hör-, Seh- und Farbenunterscheidungsvermögens, ist durch Vorlage eines amtsärztlichen Zeugnisses nach dem Muster der Anlage 2 nachzuweisen.
 
-
-## Art 5 – Gebühren und Entschädigungen
+# Art 5 – Gebühren und Entschädigungen
 
 (1) An Gebühren werden erhoben  
 
@@ -57,20 +49,17 @@ Die nach § 4 Nr. 1 Buchstabe d erforderliche körperliche Eignung zur Führung 
 
 (3) Die der Wasserstraßen- und Schifffahrtsverwaltung des Bundes nicht angehörenden Mitglieder der Prüfungsausschüsse erhalten für jeden Prüfungstag eine Entschädigung von 20 DM. Dauert die Prüfungstätigkeit länger als vier Stunden, so erhöht sich die Entschädigung für jede weitere volle oder angefangene Stunde um 5 DM. Findet die Prüfung auf Antrag des Bewerbers an einem anderen als dem vorgesehenen Prüfungstermin oder nicht am Sitz des Prüfungsausschusses statt, so hat er die hierdurch entstehenden Mehrkosten zu tragen.
 
-
-## Art 6 – Strafbestimmung
+# Art 6 – Strafbestimmung
 
 Zuwiderhandlungen gegen diese Verordnung werden nach § 366 Nr. 10 des Strafgesetzbuchs bestraft.
 
 Art. 6 Kursivdruck: Jetzt § 7 Abs. 1, 4 bis 6 BinSchG 9500-1
 
-
-## Art 7 – (weggefallen)
+# Art 7 – (weggefallen)
 
 \-
 
-
-## Art 8 – Außerkrafttreten von Vorschriften
+# Art 8 – Außerkrafttreten von Vorschriften
 
 Es treten außer Kraft  
 das Hessische Regulativ, betreffend das Steuermannswesen auf der Großherzoglich Hessischen Rheinstrecke, vom 5. August 1882 (Hessisches Regierungsblatt S. 133),  
@@ -78,23 +67,19 @@ die Bayerische Verordnung, betreffend die Steuermannsordnung für den Rhein inne
 die Badische Ministerialverordnung, betreffend die Steuermannsordnung für den Rhein innerhalb des Großherzoglich Badischen Gebietes, vom 19. Dezember 1885 (Badisches Gesetz- und Verordnungsblatt S. 401)  
 mit allen dazu ergangenen Änderungen und Ergänzungen.
 
-
-## Art 9 – Inkrafttreten
+# Art 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1956 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage 1 – Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen
+# Anlage 1 – Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen
 
 Text siehe: RheinLotsO; Gliederungsnummer 9503-7
 
-
-## Anlage 2 – Amtsärztliches Zeugnis
+# Anlage 2 – Amtsärztliches Zeugnis
 
      Fundstelle des Originaltextes: BGBl. Teil III 9503-7 S. 24 - 25;
       bezgl. der einzelnen Änderungen vgl. Fußnote  

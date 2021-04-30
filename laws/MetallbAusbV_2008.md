@@ -1,25 +1,19 @@
-# [MetallbAusbV 2008] Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin
-
-Ausfertigungsdatum: 25.07.2008
-
+% Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin
+% Ausfertigungsdatum: 25.07.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit § 26 und auf Grund des § 27 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), von denen § 25 Abs. 1 und § 27 zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) und § 26 der Handwerksordnung zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden sind, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Metallbauer und Metallbauerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 13, Metallbauer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einer der Fachrichtungen
 
@@ -29,8 +23,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 3. Nutzfahrzeugbau.
 
-
-## § 4 – Ausbildungsrahmenplan/Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan/Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -144,8 +137,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Nutzfahrzeugbau:
 
 10. Kontrollieren der durchgeführten Arbeiten unter Einbeziehung angrenzender Bereiche.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 bis 14 nachzuweisen.
 
@@ -153,18 +145,15 @@ Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Nutzfahrzeugbau:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Gesellenprüfung
+# § 6 – Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Gesellenprüfung mit 30 Prozent und Teil 2 der Gesellenprüfung mit 70 Prozent gewichtet.
 
+# § 7 – Teil 1 der Gesellenprüfung
 
-## § 7 – Teil 1 der Gesellenprüfung
-
-(1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.  
-
+(1) Teil 1 der Gesellenprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden. 
 (2) Teil 1 der Gesellenprüfung erstreckt sich auf die in der Anlage für die ersten drei Ausbildungshalbjahre aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Teil 1 der Gesellenprüfung besteht aus dem Prüfungsbereich Arbeitsauftrag.
@@ -194,8 +183,7 @@ Herstellen und Prüfen eines funktionsfähigen Werkstückes;
 
 4. die Prüfungszeit beträgt sieben Stunden; innerhalb dieser Zeit soll das Fachgespräch in insgesamt höchstens 15 Minuten durchgeführt werden.
 
-
-## § 8 – Teil 2 der Gesellenprüfung in der Fachrichtung Konstruktionstechnik
+# § 8 – Teil 2 der Gesellenprüfung in der Fachrichtung Konstruktionstechnik
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -290,8 +278,7 @@ Beschreiben der Vorgehensweise zur Montage, Inbetriebnahme oder Instandhaltung u
 
 3. die Prüfungszeit beträgt eine Stunde.
 
-
-## § 9 – Gewichtungs- und Bestehensregelung in der Fachrichtung Konstruktionstechnik
+# § 9 – Gewichtungs- und Bestehensregelung in der Fachrichtung Konstruktionstechnik
 
 (1) Die Prüfungsbereiche in der Fachrichtung Konstruktionstechnik sind wie folgt zu gewichten:  
   
@@ -318,8 +305,7 @@ Beschreiben der Vorgehensweise zur Montage, Inbetriebnahme oder Instandhaltung u
 
 bewertet worden sind.
 
-
-## § 10 – Teil 2 der Gesellenprüfung in der Fachrichtung Metallgestaltung
+# § 10 – Teil 2 der Gesellenprüfung in der Fachrichtung Metallgestaltung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -413,8 +399,7 @@ Anfertigen eines Arbeitsplanes zur Herstellung eines zeitgemäßen und eines his
 
 3. die Prüfungszeit beträgt eine Stunde.
 
-
-## § 11 – Gewichtungs- und Bestehensregelung in der Fachrichtung Metallgestaltung
+# § 11 – Gewichtungs- und Bestehensregelung in der Fachrichtung Metallgestaltung
 
 (1) Die Prüfungsbereiche in der Fachrichtung Metallgestaltung sind wie folgt zu gewichten:  
   
@@ -441,8 +426,7 @@ Anfertigen eines Arbeitsplanes zur Herstellung eines zeitgemäßen und eines his
 
 bewertet worden sind.
 
-
-## § 12 – Teil 2 der Gesellenprüfung in der Fachrichtung Nutzfahrzeugbau
+# § 12 – Teil 2 der Gesellenprüfung in der Fachrichtung Nutzfahrzeugbau
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -534,8 +518,7 @@ Beschreiben der Vorgehensweise zur vorbeugenden Instandhaltung und zur systemati
 
 3. die Prüfungszeit beträgt eine Stunde.
 
-
-## § 13 – Gewichtungs- und Bestehensregelung in der Fachrichtung Nutzfahrzeugbau
+# § 13 – Gewichtungs- und Bestehensregelung in der Fachrichtung Nutzfahrzeugbau
 
 (1) Die Prüfungsbereiche in der Fachrichtung Nutzfahrzeugbau sind wie folgt zu gewichten:  
   
@@ -562,23 +545,19 @@ Beschreiben der Vorgehensweise zur vorbeugenden Instandhaltung und zur systemati
 
 bewertet worden sind.
 
-
-## § 14 – Mündliche Ergänzungsprüfung
+# § 14 – Mündliche Ergänzungsprüfung
 
 Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Gesellenprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von höchstens 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 15 – Bestehende Berufsausbildungsverhältnisse
+# § 15 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren. Kommt eine Vereinbarung nicht zustande, sind auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2008 begonnen wurden, die Vorschriften der in § 16 Satz 2 genannten Verordnungen weiter anzuwenden.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft. Gleichzeitig treten die Verordnung über die Berufsausbildung zum Metallbauer/zur Metallbauerin vom 4. Juli 2002 (BGBl. I S. 2534) und die Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Metallbauer/zur Metallbauerin vom 24. März 2003 (BGBl. I S. 377), geändert durch Artikel 2 der Verordnung vom 17. Juli 2007 (BGBl. I S. 1402), außer Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Metallbauer/zur Metallbauerin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Metallbauer/zur Metallbauerin
 
 (Fundstelle: BGBl. I 2008, 1475 - 1489)  
 

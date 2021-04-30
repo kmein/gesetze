@@ -1,10 +1,7 @@
-# [EntschG] Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen  (Entschädigungsgesetz - EntschG)
-
-Ausfertigungsdatum: 27.09.1994
-
+% Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen  (Entschädigungsgesetz - EntschG)
+% Ausfertigungsdatum: 27.09.1994
  
-
-## § 1 – Grundsätze der Entschädigung
+# § 1 – Grundsätze der Entschädigung
 
 (1) Ist Rückgabe nach dem Gesetz zur Regelung offener Vermögensfragen (Vermögensgesetz) ausgeschlossen (§ 4 Abs. 1 und 2, § 6 Abs. 1 Satz 1 und § 11 Abs. 5 des Vermögensgesetzes) oder hat der Berechtigte Entschädigung gewählt (§ 6 Abs. 7, § 8 Abs. 1 und § 11 Abs. 1 Satz 2 des Vermögensgesetzes), besteht ein Anspruch auf Entschädigung. Der Entschädigungsanspruch wird durch Zuteilung von übertragbaren Schuldverschreibungen des Entschädigungsfonds (§ 9) erfüllt, die ab 1. Januar 2004 mit sechs vom Hundert jährlich verzinst werden. Die Zinsen sind jährlich nachträglich fällig, erstmals am 1. Januar 2005. Die Schuldverschreibungen werden vom Jahr 2004 an in fünf gleichen Jahresraten durch Auslosung - erstmals zum 1. Januar 2004 - getilgt. Nach dem 31. Dezember 2003 festgesetzte Entschädigungsansprüche werden durch Geldleistung erfüllt, die ab dem 1. Januar 2004 bis zum Kalendermonat vor der Bekanntgabe des Bescheides verzinst wird. Der Zinssatz beträgt vom 1. Januar 2004 monatlich 1/2 vom Hundert. Die Zinsen werden mit der Entschädigung und bei Abzug des Lastenausgleichs durch Bescheid nach § 8 Absatz 4 festgesetzt. Ansprüche auf Herausgabe einer Gegenleistung nach § 7a Abs. 1 des Vermögensgesetzes und Schadensersatz nach § 13 des Vermögensgesetzes sowie Ansprüche auf Wertminderungen nach § 7 des Vermögensgesetzes in der bis zum 22. Juli 1992 geltenden Fassung werden nach Bestandskraft des Bescheides durch Geldleistung erfüllt. § 3 des Ausgleichsleistungsgesetzes gilt entsprechend.
 
@@ -32,16 +29,14 @@ c) für die ein Vernichtungsprotokoll oder ein vergleichbarer Nachweis des Unter
 
 5. für Hausrat, für die dem Berechtigen oder seinem Gesamtrechtsvorgänger Leistungen nach lastenausgleichsrechtlichen Vorschriften gewährt wurden.
 
-(5) In den Fällen des § 1 Abs. 6 des Vermögensgesetzes besteht ein Entschädigungsanspruch nach Maßgabe des NS-Verfolgtenentschädigungsgesetzes.  
------
+(5) In den Fällen des § 1 Abs. 6 des Vermögensgesetzes besteht ein Entschädigungsanspruch nach Maßgabe des NS-Verfolgtenentschädigungsgesetzes. -----
 
 \*)  
 § 1 Abs. 3 ist gemäß des Beschlusses des Bundesverfassungsgerichtes vom 10. Oktober 2001 - 1 BvL 17/00 - (BGBl. I S. 3920) mit Artikel 3 Abs. 1 des Grundgesetzes unvereinbar und nichtig.
 
 § 1 Abs. 3: Nach Maßgabe der Entscheidungsformel mit Art. 3 Abs. 1 GG unvereinbar u. nichtig gem. BVerfGE v. 10.10.2001 I 3920 - 1 BvL 17/00 -
 
-
-## § 2 – Berechnung der Höhe der Entschädigung
+# § 2 – Berechnung der Höhe der Entschädigung
 
 (1) Die Höhe der Entschädigung bestimmt sich nach der Bemessungsgrundlage (§§ 3 bis 5a), von welcher gegebenenfalls
 
@@ -59,8 +54,7 @@ abgezogen werden. Von der nach den Nummern 1 bis 4 gekürzten Bemessungsgrundlag
 
 (3) Durch Schuldverschreibungen zu erfüllende Entschädigungsansprüche werden ab dem 1. Januar 1999 durch Zuteilung von über einen Nennwert von 100 Euro oder einem ganzen Vielfachen hiervon lautende Schuldverschreibungen erfüllt. Hierbei offen bleibende Restbeträge werden durch Barzahlung aus dem Entschädigungsfonds erfüllt.
 
-
-## § 2a – Berechnung des Zahlungsanspruchs bei fehlgeschlagener Anrechnung von Verbindlichkeiten
+# § 2a – Berechnung des Zahlungsanspruchs bei fehlgeschlagener Anrechnung von Verbindlichkeiten
 
 (1) Überschreitet die Summe der Beträge nach § 2 Abs. 1 Satz 1 Nr. 1 bis 3 die Bemessungsgrundlage und schlägt die Anrechnung der Verbindlichkeiten nach § 3 Abs. 4 daher ganz oder teilweise fehl (fehlgeschlagene Anrechnung), hat der Berechtigte an den Gläubiger dieser Verbindlichkeiten nach § 3 Abs. 4 einen Betrag in der Höhe zu zahlen, in der die Verbindlichkeiten noch bestehen, höchstens aber in der Höhe, in der die Anrechnung fehlschlägt. Renten-, Reichs- oder Goldmark oder vergleichbare Währungsbezeichnungen sind im Verhältnis 2 zu 1 auf Deutsche Mark, umgestellt auf Euro, umzurechnen. Bereits erbrachte Tilgungsleistungen sind anzurechnen. Dieser Anspruch wird mit Bestandskraft der Entscheidung über die Höhe der Entschädigung oder mit Zugang der Erklärung des Berechtigten über den Verzicht auf die Erteilung des Entschädigungsbescheides fällig. Abweichend von Satz 4 tritt die Fälligkeit des Anspruches nach Satz 1 am 1. Dezember 2005 ein, wenn zu diesem Zeitpunkt bereits die Bestandskraft der Entscheidung über die Höhe der Entschädigung eingetreten ist oder der Berechtigte auf die Erteilung des Entschädigungsbescheides verzichtet hat. Die ursprünglichen Verbindlichkeiten nach § 3 Abs. 4 Satz 1 erlöschen mit Entstehen eines Anspruches nach Satz 1. In Härtefällen können Stundungs-und Zahlungsvereinbarungen getroffen werden.
 
@@ -70,8 +64,7 @@ abgezogen werden. Von der nach den Nummern 1 bis 4 gekürzten Bemessungsgrundlag
 
 (4) § 27 Abs. 4 Satz 1 des Vermögensgesetzes gilt für den Entschädigungsbescheid sowie im Falle des Verzichtes auf die Erstellung des Entschädigungsbescheides durch den Berechtigten für die Verzichtserklärung entsprechend.
 
-
-## § 3 – Bemessungsgrundlage der Entschädigung für Grundvermögen und land- und forstwirtschaftliches Vermögen
+# § 3 – Bemessungsgrundlage der Entschädigung für Grundvermögen und land- und forstwirtschaftliches Vermögen
 
 (1) Bemessungsgrundlage der Entschädigung für Grundvermögen einschließlich Gebäudeeigentum sowie für land- und forstwirtschaftliches Vermögen ist
 
@@ -97,8 +90,7 @@ des vor der Schädigung zuletzt festgestellten Einheitswertes; sind nur Teilflä
 
 (6) Für land- und forstwirtschaftliches Vermögen gelten § 4 Abs. 4 und § 8 Abs. 6 entsprechend.
 
-
-## § 4 – Bemessungsgrundlage der Entschädigung für Unternehmen
+# § 4 – Bemessungsgrundlage der Entschädigung für Unternehmen
 
 (1) Bemessungsgrundlage der Entschädigung für Unternehmen oder Anteile an Unternehmen mit Ausnahme von land- und forstwirtschaftlichen Betrieben, die bis einschließlich 31. Dezember 1952 enteignet wurden, ist das 1,5fache des im Hauptfeststellungszeitraum vor der Schädigung zuletzt festgestellten Einheitswertes. Ist ein Einheitswert nicht festgestellt worden oder nicht mehr bekannt, oder ist das Unternehmen ab 1. Januar 1953 enteignet worden, und ist ein Ersatzeinheitswert nach dem Beweissicherungs- und Feststellungsgesetz ermittelt worden, ist das 1,5fache dieses Wertes maßgebend; der Ersatzeinheitswert wird dem zuständigen Landesamt zur Regelung offener Vermögensfragen von der Ausgleichsverwaltung im Wege der Amtshilfe mitgeteilt. Die Sätze 1 und 2 gelten nicht, wenn Wiederaufnahmegründe im Sinne des § 580 der Zivilprozessordnung vorliegen und wenn deren Berücksichtigung bei einer Bemessung nach Absatz 2 zu einem Wert führt, der um mehr als ein Fünftel, mindestens aber 1.000 Mark vom Einheitswert oder Ersatzeinheitswert abweicht.
 
@@ -122,8 +114,7 @@ Soweit ein unmittelbarer Zusammenhang zwischen bestimmten Wirtschaftsgütern und
 
 (4) Hat der Berechtigte nach § 6 Abs. 6a Satz 1 des Vermögensgesetzes einzelne Vermögensgegenstände zurückbekommen, so ist deren Wert im Zeitpunkt der Rückgabe von der Bemessungsgrundlage für die Entschädigung des Unternehmens abzuziehen. Dieser ist um den Wert der nach § 6 Abs. 6a Satz 2 des Vermögensgesetzes übernommenen Schulden zu mindern. Steht dem Berechtigten aufgrund gesetzlicher Vorschriften oder vertraglicher Vereinbarung statt der Rückgabe einzelner Vermögenswerte nach § 6 Abs. 6a des Vermögensgesetzes der Verkaufserlös oder der Anspruch auf Zahlung des Verkehrswerts zu, gelten die Sätze 1 und 2 entsprechend.
 
-
-## § 5 – Bemessungsgrundlage der Entschädigung für Forderungen und Schutzrechte
+# § 5 – Bemessungsgrundlage der Entschädigung für Forderungen und Schutzrechte
 
 (1) Bemessungsgrundlage der Entschädigung von privaten geldwerten Ansprüchen, z. B. Kontoguthaben, hypothekarisch gesicherte Forderungen, Hinterlegungsbeträge und Geschäftsguthaben bei Genossenschaften, die durch Abführung an den Staatshaushalt enteignet wurden, ist vorbehaltlich des Satzes 2 der im Verhältnis 2 zu 1 auf Deutsche Mark umgestellte buchmäßige Betrag im Zeitpunkt der Schädigung. Für in Reichsmark ausgewiesene Beträge gilt § 2 Abs. 2 des Ausgleichsleistungsgesetzes, wenn die Schädigung vor dem 24. Juni 1948 erfolgte. Ist der bei der Aufhebung der staatlichen Verwaltung oder der am 31. Dezember 1992 ausgewiesene Betrag höher, gilt dieser, es sei denn, die Erhöhung rührt aus der Veräußerung eines Vermögenswertes her, der jetzt an den Berechtigten zurückübertragen worden ist. Eine rückwirkende Verzinsung findet nicht statt. Öffentlich-rechtliche Verbindlichkeiten, die schon vor der Inverwaltungnahme entstanden waren, danach angefallene Erbschaftsteuer sowie privatrechtliche Verbindlichkeiten, insbesondere Unterhaltsschulden des Kontoinhabers, bleiben abgezogen. Für nicht enteignete Kontoguthaben beläuft sich die Bemessungsgrundlage der Entschädigung auf den entsprechenden Unterschiedsbetrag.
 
@@ -135,8 +126,7 @@ Soweit ein unmittelbarer Zusammenhang zwischen bestimmten Wirtschaftsgütern und
 
 (5) Gewerbliche Schutzrechte, Urheberrechte sowie verwandte Schutzrechte sind mit dem Betrag zu entschädigen, der sich unter Zugrundelegung der durchschnittlichen Jahreserträge und der tatsächlichen Verwertungsdauer nach der Schädigung als Kapitalwert nach § 15 des in § 3 Abs. 3 genannten Bewertungsgesetzes ergibt.
 
-
-## § 5a – Bemessungsgrundlage der Entschädigung für bewegliche Sachen
+# § 5a – Bemessungsgrundlage der Entschädigung für bewegliche Sachen
 
 (1) Bemessungsgrundlage der Entschädigung für bewegliche Sachen ist der im Verhältnis 2 zu 1 auf Deutsche Mark umgestellte Wert der Sache zum Zeitpunkt der Entziehung. Maßgeblich sind die preisrechtlichen Bestimmungen der Deutschen Demokratischen Republik. Lässt sich der Wert nicht nach Satz 2 oder den Absätzen 2 oder 3 feststellen, wird er geschätzt.
 
@@ -168,15 +158,13 @@ Für Motorräder und Motorroller beträgt die Bemessungsgrundlage die Hälfte, f
 
 (6) Vor dem 22. September 2000 bestandskräftig abgeschlossene Verfahren, in denen ein Anspruch auf Entschädigung für bewegliche Sachen wegen Unmöglichkeit der Rückübertragung abgelehnt worden ist, sind auf Antrag der bis 22. März 2001 gestellt werden kann, wieder aufzugreifen.
 
-
-## § 6 – Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung
+# § 6 – Anrechnung einer erhaltenen Gegenleistung oder einer Entschädigung
 
 (1) Hat der Berechtigte nach § 2 Abs. 1 des Vermögensgesetzes oder sein Gesamtrechtsvorgänger für den zu entschädigenden Vermögenswert eine Gegenleistung oder eine Entschädigung erhalten, so ist diese einschließlich zugeflossener Zinsen unter Berücksichtigung des Umstellungsverhältnisses von zwei Mark der Deutschen Demokratischen Republik zu einer Deutschen Mark von der Bemessungsgrundlage abzuziehen. Dies gilt nicht, wenn die Gegenleistung oder die Entschädigung an den Verfügungsberechtigten oder in den Fällen des § 2 Abs. 4 des Verwaltungsrechtlichen Rehabilitierungsgesetzes die Ausgleichsleistung an den Entschädigungsfonds schon herausgegeben wurde oder noch herauszugeben ist. Ist die Gegenleistung oder die Entschädigung dem Berechtigten, einem Anteilsberechtigten oder deren Gesamtrechtsvorgänger nicht oder nur teilweise zugeflossen, ist dies bei der Ermittlung des Abzugsbetrages zu berücksichtigen; Beträge, die mit rechtsbeständigen Verbindlichkeiten des Berechtigten wie Unterhaltsschulden, Darlehensforderungen, nicht diskriminierenden Gebühren oder Steuern verrechnet wurden, gelten als ihm zugeflossen.
 
 (2) Ist der Berechtigte eine juristische Person oder eine Personengesellschaft des Handelsrechts und ist die Gegenleistung oder die Entschädigung einem Anteilsberechtigten gewährt worden, so gilt diese für die Zwecke der Anrechnung als dem Berechtigten zugeflossen.
 
-
-## § 7 – Kürzungsbeträge
+# § 7 – Kürzungsbeträge
 
 (1) Übersteigt die auf einen Berechtigten entfallende Summe aus Bemessungsgrundlage und Abzügen nach § 3 Abs. 4, § 4 Abs. 4 sowie § 6 den Betrag von 10.000 Deutsche Mark, so ist die Entschädigung um jeweils folgende Beträge zu kürzen:
 
@@ -211,8 +199,7 @@ der 3 Millionen Deutsche Mark übersteigende Betrag um 95 vom Hundert.
 
 (3) Ist die Kürzung nach Absatz 2 Satz 1 insbesondere wegen der Zuständigkeit verschiedener Ämter oder Landesämter zur Regelung offener Vermögensfragen unterblieben, setzt die zuständige Behörde, die zuletzt entschieden hat, den Gesamtentschädigungsbetrag fest.
 
-
-## § 8 – Entschädigung bei Abzug von Lastenausgleich
+# § 8 – Entschädigung bei Abzug von Lastenausgleich
 
 (1) Hat der Berechtigte nach § 2 Absatz 1 des Vermögensgesetzes oder sein Gesamtrechtsvorgänger für zu entschädigende Vermögenswerte Hauptentschädigung nach dem Lastenausgleichsgesetz erhalten, erlässt die Behörde einen Bescheid über die nach § 7 gekürzte Bemessungsgrundlage. Eine der Ausgleichsverwaltung mitgeteilte oder von der in Satz 1 genannten Behörde festgestellte gekürzte Bemessungsgrundlage gilt als Schadensausgleichsleistung in Geld im Sinne des § 349 Absatz 3 des Lastenausgleichsgesetzes.
 
@@ -228,8 +215,7 @@ der 3 Millionen Deutsche Mark übersteigende Betrag um 95 vom Hundert.
 
 (7) Hat die Ausgleichsverwaltung am 28. Mai 2011 einen Bescheid über den nach den Vorschriften des Lastenausgleichsgesetzes ermittelten Rückforderungsbetrag bereits bekannt gegeben, so richtet sich das Verfahren des Abzugs von Lastenausgleich nach der bis dahin geltenden Fassung dieses Gesetzes.
 
-
-## § 9 – Entschädigungsfonds
+# § 9 – Entschädigungsfonds
 
 (1) Entschädigungen nach diesem Gesetz, Ausgleichsleistungen nach den §§ 1 und 2 des Ausgleichsleistungsgesetzes, Entschädigungen nach dem NS-Verfolgtenentschädigungsgesetz sowie Leistungen nach dem Vertriebenenzuwendungsgesetz werden aus einem nicht rechtsfähigen Sondervermögen des Bundes (Entschädigungsfonds) erbracht. Der Entschädigungsfonds ist ein Sondervermögen im Sinne des Artikels 110 Abs. 1 und des Artikels 115 Abs. 2 des Grundgesetzes; Artikel 115 Abs. 1 Satz 2 des Grundgesetzes findet auf den Entschädigungsfonds keine Anwendung. Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten getrennt zu halten. Der Bund haftet für die Verbindlichkeiten des Entschädigungsfonds.
 
@@ -247,8 +233,7 @@ der 3 Millionen Deutsche Mark übersteigende Betrag um 95 vom Hundert.
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Einzelheiten der Erfüllung des Entschädigungsanspruchs und des Verfahrens (wie z. B. Begebung und Ausgestaltung der Schuldverschreibungen, Zusammenwirken der beteiligten Stellen, Barzahlung von Restbeträgen bei der Umstellung auf Euro) zu regeln.
 
-
-## § 10 – Einnahmen des Entschädigungsfonds
+# § 10 – Einnahmen des Entschädigungsfonds
 
 (1) An den Entschädigungsfonds sind abzuführen:
 
@@ -284,8 +269,7 @@ Ein Anspruch der Berechtigten gegen den Entschädigungsfonds auf Einforderung se
 
 § 10: Neugefasst durch Bek. v. 13.7.2004 I 1658 &; § 10 Abs. 1 Satz 1 Nr. 7 Satz 2: Gem. BVerfGE v. 21.7.2010 I 1195 - 1 BvL 8/07 - mit Art. 14 Abs. 1 Satz 1 GG vereinbar, soweit die Rechte von Miterben betroffen sind
 
-
-## § 11 – Bewirtschaftung des Entschädigungsfonds
+# § 11 – Bewirtschaftung des Entschädigungsfonds
 
 (1) Die Einnahmen und Ausgaben des Entschädigungsfonds werden für jedes Rechnungsjahr in einem Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen.
 
@@ -295,8 +279,7 @@ Ein Anspruch der Berechtigten gegen den Entschädigungsfonds auf Einforderung se
 
 (4) Die Kosten für die Verwaltung des Entschädigungsfonds trägt der Bund.
 
-
-## § 12 – Zuständigkeit und Verfahren
+# § 12 – Zuständigkeit und Verfahren
 
 (1) Für die Durchführung dieses Gesetzes gelten die Bestimmungen des Vermögensgesetzes entsprechend. Für nach diesem Gesetz getroffene Entscheidungen gilt § 32 Abs. 4 Satz 1 des Vermögensgesetzes nicht. Auf die nach § 8 Absatz 4 zu treffende Entscheidung wird § 32 Absatz 1 des Vermögensgesetzes nicht angewendet. Ist ein Anspruch auf Rückübertragung des Eigentums aus den Gründen des § 3 Abs. 2 des Vermögensgesetzes unanfechtbar abgewiesen worden, entscheidet das Amt, Landesamt oder Bundesamt für zentrale Dienste und offene Vermögensfragen auf Antrag des Betroffenen über dessen Anspruch auf Entschädigung nach § 1 Abs. 2 Satz 1. Der Antrag kann vorbehaltlich des Satzes 4 nur bis zum Ablauf des sechsten Monats nach Eintritt der Bestandskraft oder Rechtskraft der Entscheidung nach dem Vermögensgesetz gestellt werden (Ausschlussfrist). Die Antragsfrist endet frühestens mit Ablauf des sechsten Monats nach Inkrafttreten des Gesetzes.
 

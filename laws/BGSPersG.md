@@ -1,15 +1,11 @@
-# [BGSPersG] Gesetz über die Personalstruktur des Bundesgrenzschutzes  (BGSPersG)
-
-Ausfertigungsdatum: 03.06.1976
-
+% Gesetz über die Personalstruktur des Bundesgrenzschutzes  (BGSPersG)
+% Ausfertigungsdatum: 03.06.1976
  
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Überleitungsregelung
+# § 2 – Überleitungsregelung
 
 (1) Soweit durch dieses Gesetz Einstufungen von Ämtern, Amtszulagen und Amtsbezeichnungen geändert werden, sind die hiervon betroffenen Ämter in der Anlage aufgeführt.
 
@@ -17,8 +13,7 @@ Ausfertigungsdatum: 03.06.1976
 
 (3) Die durch dieses Gesetz in das Amt "Polizeiobermeister im Bundesgrenzschutz" übergeleiteten "Oberfähnriche im Bundesgrenzschutz" und "Oberfähnriche zur See im Bundesgrenzschutz" erhalten in diesem Amt eine Überleitungszulage nach Artikel IX § 11 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern.
 
-
-## § 3 – Übergangsvorschriften
+# § 3 – Übergangsvorschriften
 
 (1) Ein Anspruch auf eine Dienstzeitprämie, der nach § 77 Abs. 3 Satz 1 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 1976 geltenden Fassung erst nach diesem Zeitpunkt entsteht, wird durch § 1 Nr. 2 nicht berührt.
 
@@ -28,8 +23,7 @@ Ausfertigungsdatum: 03.06.1976
 
 (4) Soweit in den vorhergehenden Absätzen auf Vorschriften des Bundespolizeibeamtengesetzes Bezug genommen wird, ist die bis zum 30. Juni 1976 geltende Fassung maßgebend.
 
-
-## Anlage – zu Artikel 2 § 2 Abs. 1 Überleitungsübersicht
+# Anlage – zu Artikel 2 § 2 Abs. 1 Überleitungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 

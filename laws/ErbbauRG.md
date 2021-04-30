@@ -1,10 +1,7 @@
-# [ErbbauRG] Gesetz über das Erbbaurecht  (Erbbaurechtsgesetz - ErbbauRG)
-
-Ausfertigungsdatum: 15.01.1919
-
+% Gesetz über das Erbbaurecht  (Erbbaurechtsgesetz - ErbbauRG)
+% Ausfertigungsdatum: 15.01.1919
  
-
-## § 1
+# § 1
 
 (1) Ein Grundstück kann in der Weise belastet werden, daß demjenigen, zu dessen Gunsten die Belastung erfolgt, das veräußerliche und vererbliche Recht zusteht, auf oder unter der Oberfläche des Grundstücks ein Bauwerk zu haben (Erbbaurecht).
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 15.01.1919
 
 (4) Das Erbbaurecht kann nicht durch auflösende Bedingungen beschränkt werden. Auf eine Vereinbarung, durch die sich der Erbbauberechtigte verpflichtet, beim Eintreten bestimmter Voraussetzungen das Erbbaurecht aufzugeben und seine Löschung im Grundbuch zu bewilligen, kann sich der Grundstückseigentümer nicht berufen.
 
-
-## § 2
+# § 2
 
 Zum Inhalt des Erbbaurechts gehören auch Vereinbarungen des Grundstückseigentümers und des Erbbauberechtigten über:
 
@@ -33,32 +29,27 @@ Zum Inhalt des Erbbaurechts gehören auch Vereinbarungen des Grundstückseigent�
 
 7. eine Verpflichtung des Grundstückseigentümers, das Grundstück an den jeweiligen Erbbauberechtigten zu verkaufen.
 
-
-## § 3
+# § 3
 
 Der Heimfallanspruch des Grundstückseigentümers kann nicht von dem Eigentum an dem Grundstück getrennt werden; der Eigentümer kann verlangen, daß das Erbbaurecht einem von ihm zu bezeichnenden Dritten übertragen wird.
 
-
-## § 4
+# § 4
 
 Der Heimfallanspruch sowie der Anspruch auf eine Vertragsstrafe (§ 2 Nr. 4 und 5) verjährt in sechs Monaten von dem Zeitpunkt an, in dem der Grundstückseigentümer von dem Vorhandensein der Voraussetzungen Kenntnis erlangt, ohne Rücksicht auf diese Kenntnis in zwei Jahren vom Eintreten der Voraussetzungen an.
 
-
-## § 5
+# § 5
 
 (1) Als Inhalt des Erbbaurechts kann auch vereinbart werden, daß der Erbbauberechtigte zur Veräußerung des Erbbaurechts der Zustimmung des Grundstückseigentümers bedarf.
 
 (2) Als Inhalt des Erbbaurechts kann ferner vereinbart werden, daß der Erbbauberechtigte zur Belastung des Erbbaurechts mit einer Hypothek, Grund- oder Rentenschuld oder einer Reallast der Zustimmung des Grundstückseigentümers bedarf. Ist eine solche Vereinbarung getroffen, so kann auch eine Änderung des Inhalts der Hypothek, Grund- oder Rentenschuld oder der Reallast, die eine weitere Belastung des Erbbaurechts enthält, nicht ohne die Zustimmung des Grundstückseigentümers erfolgen.
 
-
-## § 6
+# § 6
 
 (1) Ist eine Vereinbarung gemäß § 5 getroffen, so ist eine Verfügung des Erbbauberechtigten über das Erbbaurecht und ein Vertrag, durch den er sich zu einer solchen Verfügung verpflichtet, unwirksam, solange nicht der Grundstückseigentümer die erforderliche Zustimmung erteilt hat.
 
 (2) Auf eine Vereinbarung, daß ein Zuwiderhandeln des Erbbauberechtigten gegen eine nach § 5 übernommene Beschränkung einen Heimfallanspruch begründen soll, kann sich der Grundstückseigentümer nicht berufen.
 
-
-## § 7
+# § 7
 
 (1) Ist anzunehmen, daß durch die Veräußerung (§ 5 Abs. 1) der mit der Bestellung des Erbbaurechts verfolgte Zweck nicht wesentlich beeinträchtigt oder gefährdet wird, und daß die Persönlichkeit des Erwerbers Gewähr für eine ordnungsmäßige Erfüllung der sich aus dem Erbbaurechtsinhalt ergebenden Verpflichtungen bietet, so kann der Erbbauberechtigte verlangen, daß der Grundstückseigentümer die Zustimmung zur Veräußerung erteilt. Dem Erbbauberechtigten kann auch für weitere Fälle ein Anspruch auf Erteilung der Zustimmung eingeräumt werden.
 
@@ -66,13 +57,11 @@ Der Heimfallanspruch sowie der Anspruch auf eine Vertragsstrafe (§ 2 Nr. 4 und 
 
 (3) Wird die Zustimmung des Grundstückseigentümers ohne ausreichenden Grund verweigert, so kann sie auf Antrag des Erbbauberechtigten durch das Amtsgericht ersetzt werden, in dessen Bezirk das Grundstück belegen ist. § 40 Abs. 2 Satz 2 und Abs. 3 Satz 1, 3 und 4 und § 63 Abs. 2 Nr. 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gelten entsprechend.
 
-
-## § 8
+# § 8
 
 Verfügungen, die im Wege der Zwangsvollstreckung oder der Arrestvollziehung oder durch den Insolvenzverwalter erfolgen, sind insoweit unwirksam, als sie die Rechte des Grundstückseigentümers aus einer Vereinbarung gemäß § 5 vereiteln oder beeinträchtigen würden.
 
-
-## § 9
+# § 9
 
 (1) Wird für die Bestellung des Erbbaurechts ein Entgelt in wiederkehrenden Leistungen (Erbbauzins) ausbedungen, so finden die Vorschriften des Bürgerlichen Gesetzbuchs über die Reallasten entsprechende Anwendung. Die zugunsten der Landesgesetze bestehenden Vorbehalte über Reallasten finden keine Anwendung.
 
@@ -88,8 +77,7 @@ Ist das Erbbaurecht mit dinglichen Rechten belastet, ist für die Wirksamkeit de
 
 (4) Zahlungsverzug des Erbbauberechtigten kann den Heimfallanspruch nur dann begründen, wenn der Erbbauberechtigte mit dem Erbbauzinse mindestens in Höhe zweier Jahresbeträge im Rückstand ist.
 
-
-## § 9a
+# § 9a
 
 (1) Dient das auf Grund eines Erbbaurechts errichtete Bauwerk Wohnzwecken, so begründet eine Vereinbarung, daß eine Änderung des Erbbauzinses verlangt werden kann, einen Anspruch auf Erhöhung des Erbbauzinses nur, soweit diese unter Berücksichtigung aller Umstände des Einzelfalles nicht unbillig ist. Ein Erhöhungsanspruch ist regelmäßig als unbillig anzusehen, wenn und soweit die nach der vereinbarten Bemessungsgrundlage zu errechnende Erhöhung über die seit Vertragsabschluß eingetretene Änderung der allgemeinen wirtschaftlichen Verhältnisse hinausgeht. Änderungen der Grundstückswertverhältnisse bleiben außer den in Satz 4 genannten Fällen außer Betracht. Im Einzelfall kann bei Berücksichtigung aller Umstände, insbesondere
 
@@ -103,22 +91,19 @@ ein über diese Grenze hinausgehender Erhöhungsanspruch billig sein. Ein Anspru
 
 (3) Die Zulässigkeit einer Vormerkung zur Sicherung eines Anspruchs auf Erhöhung des Erbbauzinses wird durch die vorstehenden Vorschriften nicht berührt.
 
-
-## § 10
+# § 10
 
 (1) Das Erbbaurecht kann nur zur ausschließlich ersten Rangstelle bestellt werden; der Rang kann nicht geändert werden. Rechte, die zur Erhaltung der Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs der Eintragung nicht bedürfen, bleiben außer Betracht.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass bei der Bestellung des Erbbaurechts von dem Erfordernis der ersten Rangstelle abgewichen werden kann, wenn dies für die vorhergehenden Berechtigten und den Bestand des Erbbaurechts unschädlich ist.
 
-
-## § 11
+# § 11
 
 (1) Auf das Erbbaurecht finden die sich auf Grundstücke beziehenden Vorschriften mit Ausnahme der §§ 925, 927, 928 des Bürgerlichen Gesetzbuchs sowie die Vorschriften über Ansprüche aus dem Eigentum entsprechende Anwendung, soweit sich nicht aus diesem Gesetz ein anderes ergibt. Eine Übertragung des Erbbaurechts, die unter einer Bedingung oder einer Zeitbestimmung erfolgt, ist unwirksam.
 
 (2) Auf einen Vertrag, durch den sich der eine Teil verpflichtet, ein Erbbaurecht zu bestellen oder zu erwerben, findet der § 311b Abs. 1 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
-## § 12
+# § 12
 
 (1) Das auf Grund des Erbbaurechts errichtete Bauwerk gilt als wesentlicher Bestandteil des Erbbaurechts. Das gleiche gilt für ein Bauwerk, das bei der Bestellung des Erbbaurechts schon vorhanden ist. Die Haftung des Bauwerks für die Belastungen des Grundstücks erlischt mit der Eintragung des Erbbaurechts im Grundbuch.
 
@@ -126,13 +111,11 @@ ein über diese Grenze hinausgehender Erhöhungsanspruch billig sein. Ein Anspru
 
 (3) Erlischt das Erbbaurecht, so werden die Bestandteile des Erbbaurechts Bestandteile des Grundstücks.
 
-
-## § 13
+# § 13
 
 Das Erbbaurecht erlischt nicht dadurch, daß das Bauwerk untergeht.
 
-
-## § 14
+# § 14
 
 (1) Für das Erbbaurecht wird bei der Eintragung in das Grundbuch von Amts wegen ein besonderes Grundbuchblatt (Erbbaugrundbuch) angelegt. Im Erbbaugrundbuch sind auch der Eigentümer und jeder spätere Erwerber des Grundstücks zu vermerken. Zur näheren Bezeichnung des Inhalts des Erbbaurechts kann auf die Eintragungsbewilligung Bezug genommen werden.
 
@@ -142,18 +125,15 @@ Das Erbbaurecht erlischt nicht dadurch, daß das Bauwerk untergeht.
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass die Vermerke nach Absatz 1 Satz 2 und Absatz 3 Satz 2 automatisiert angebracht werden, wenn das Grundbuch und das Erbbaugrundbuch als Datenbankgrundbuch geführt werden. Die Anordnung kann auf einzelne Grundbuchämter sowie auf einzelne Grundbuchblätter beschränkt werden. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 15
+# § 15
 
 In den Fällen des § 5 darf der Rechtsübergang und die Belastung erst eingetragen werden, wenn dem Grundbuchamte die Zustimmung des Grundstückseigentümers nachgewiesen ist.
 
-
-## § 16
+# § 16
 
 Bei der Löschung des Erbbaurechts wird das Erbbaugrundbuch von Amts wegen geschlossen.
 
-
-## § 17
+# § 17
 
 (1) Jede Eintragung in das Erbbaugrundbuch soll auch dem Grundstückseigentümer, die Eintragung von Verfügungsbeschränkungen des Erbbauberechtigten den im Erbbaugrundbuch eingetragenen dinglich Berechtigten bekanntgemacht werden. Im übrigen sind § 44 Abs. 2, 3, § 55 Abs. 1 bis 3, 5 bis 8, §§ 55a und 55b der Grundbuchordnung entsprechend anzuwenden.
 
@@ -161,20 +141,17 @@ Bei der Löschung des Erbbaurechts wird das Erbbaugrundbuch von Amts wegen gesch
 
 (3) Auf die Bekanntmachung kann verzichtet werden.
 
-
-## § 18
+# § 18
 
 Eine Hypothek an einem Erbbaurecht auf einem inländischen Grundstück ist für die Anlegung von Mündelgeld als sicher anzusehen, wenn sie eine Tilgungshypothek ist und den Erfordernissen der §§ 19, 20 entspricht.
 
-
-## § 19
+# § 19
 
 (1) Die Hypothek darf die Hälfte des Wertes des Erbbaurechts nicht übersteigen. Dieser ist anzunehmen gleich der halben Summe des Bauwerts und des kapitalisierten, durch sorgfältige Ermittlung festgestellten jährlichen Mietreinertrags, den das Bauwerk nebst den Bestandteilen des Erbbaurechts unter Berücksichtigung seiner Beschaffenheit bei ordnungsmäßiger Wirtschaft jedem Besitzer nachhaltig gewähren kann. Der angenommene Wert darf jedoch den kapitalisierten Mietreinertrag nicht übersteigen.
 
 (2) Ein der Hypothek im Range vorgehender Erbbauzins ist zu kapitalisieren und von ihr in Abzug zu bringen. Dies gilt nicht, wenn eine Vereinbarung nach § 9 Abs. 3 Satz 1 getroffen worden ist.
 
-
-## § 20
+# § 20
 
 (1) Die planmäßige Tilgung der Hypothek muß
 
@@ -188,11 +165,9 @@ Eine Hypothek an einem Erbbaurecht auf einem inländischen Grundstück ist für 
 
 (2) Das Erbbaurecht muß mindestens noch so lange laufen, daß eine den Vorschriften des Absatzes 1 entsprechende Tilgung der Hypothek für jeden Erbbauberechtigten oder seine Rechtsnachfolger aus den Erträgen des Erbbaurechts möglich ist.
 
+# § 21 – (weggefallen)
 
-## § 21 – (weggefallen)
-
-
-## § 22
+# § 22
 
 Die Landesgesetzgebung kann für die innerhalb ihres Geltungsbereichs belegenen Grundstücke
 
@@ -200,28 +175,23 @@ Die Landesgesetzgebung kann für die innerhalb ihres Geltungsbereichs belegenen 
 
 2. bestimmen, in welcher Weise festzustellen ist, ob die Voraussetzungen für die Mündelsicherheit (§§ 19, 20) vorliegen.
 
-
-## § 23
+# § 23
 
 Ist das Bauwerk gegen Feuer versichert, so hat der Versicherer den Grundstückseigentümer unverzüglich zu benachrichtigen, wenn ihm der Eintritt des Versicherungsfalls angezeigt wird.
 
-
-## § 24
+# § 24
 
 Bei einer Zwangsvollstreckung in das Erbbaurecht gilt auch der Grundstückseigentümer als Beteiligter im Sinne des § 9 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung.
 
-
-## § 25
+# § 25
 
 Wird das Grundstück zwangsweise versteigert, so bleibt das Erbbaurecht auch dann bestehen, wenn es bei der Feststellung des geringsten Gebots nicht berücksichtigt ist.
 
-
-## § 26
+# § 26
 
 Das Erbbaurecht kann nur mit Zustimmung des Grundstückseigentümers aufgehoben werden. Die Zustimmung ist dem Grundbuchamt oder dem Erbbauberechtigten gegenüber zu erklären; sie ist unwiderruflich.
 
-
-## § 27
+# § 27
 
 (1) Erlischt das Erbbaurecht durch Zeitablauf, so hat der Grundstückseigentümer dem Erbbauberechtigten eine Entschädigung für das Bauwerk zu leisten. Als Inhalt des Erbbaurechts können Vereinbarungen über die Höhe der Entschädigung und die Art ihrer Zahlung sowie über ihre Ausschließung getroffen werden.
 
@@ -231,18 +201,15 @@ Das Erbbaurecht kann nur mit Zustimmung des Grundstückseigentümers aufgehoben 
 
 (4) Vor Eintritt der Fälligkeit kann der Anspruch auf Entschädigung nicht abgetreten werden.
 
-
-## § 28
+# § 28
 
 Die Entschädigungsforderung haftet auf dem Grundstück an Stelle des Erbbaurechts und mit dessen Range.
 
-
-## § 29
+# § 29
 
 Ist das Erbbaurecht bei Ablauf der Zeit, für die es bestellt war, noch mit einer Hypothek oder Grundschuld oder mit Rückständen aus Rentenschulden oder Reallasten belastet, so hat der Gläubiger der Hypothek, Grund- oder Rentenschuld oder Reallast an dem Entschädigungsanspruch dieselben Rechte, die ihm im Falle des Erlöschens seines Rechts durch Zwangsversteigerung an dem Erlöse zustehen.
 
-
-## § 30
+# § 30
 
 (1) Erlischt das Erbbaurecht, so finden auf Miet- und Pachtverträge, die der Erbbauberechtigte abgeschlossen hat, die im Falle der Übertragung des Eigentums geltenden Vorschriften entsprechende Anwendung.
 
@@ -250,8 +217,7 @@ Ist das Erbbaurecht bei Ablauf der Zeit, für die es bestellt war, noch mit eine
 
 (3) Der Mieter oder Pächter kann den Grundstückseigentümer unter Bestimmung einer angemessenen Frist zur Erklärung darüber auffordern, ob er von dem Kündigungsrecht Gebrauch mache. Die Kündigung kann nur bis zum Ablauf der Frist erfolgen.
 
-
-## § 31
+# § 31
 
 (1) Ist dem Erbbauberechtigten ein Vorrecht auf Erneuerung des Erbbaurechts eingeräumt (§ 2 Nr. 6), so kann er das Vorrecht ausüben, sobald der Eigentümer mit einem Dritten einen Vertrag über Bestellung eines Erbbaurechts an dem Grundstück geschlossen hat. Die Ausübung des Vorrechts ist ausgeschlossen, wenn das für den Dritten zu bestellende Erbbaurecht einem anderen wirtschaftlichen Zweck zu dienen bestimmt ist.
 
@@ -263,15 +229,13 @@ Ist das Erbbaurecht bei Ablauf der Zeit, für die es bestellt war, noch mit eine
 
 (5) Soweit im Falle des § 29 die Tilgung noch nicht erfolgt ist, hat der Gläubiger bei der Erneuerung an dem Erbbaurecht dieselben Rechte, die er zur Zeit des Ablaufs hatte. Die Rechte an der Entschädigungsforderung erlöschen.
 
-
-## § 32
+# § 32
 
 (1) Macht der Grundstückseigentümer von seinem Heimfallanspruch Gebrauch, so hat er dem Erbbauberechtigten eine angemessene Vergütung für das Erbbaurecht zu gewähren. Als Inhalt des Erbbaurechts können Vereinbarungen über die Höhe dieser Vergütung und die Art ihrer Zahlung sowie ihre Ausschließung getroffen werden.
 
 (2) Ist das Erbbaurecht zur Befriedigung des Wohnbedürfnisses minderbemittelter Bevölkerungskreise bestellt, so darf die Zahlung einer angemessenen Vergütung für das Erbbaurecht nicht ausgeschlossen werden. Auf eine abweichende Vereinbarung kann sich der Grundstückseigentümer nicht berufen. Die Vergütung ist nicht angemessen, wenn sie nicht mindestens zwei Drittel des gemeinen Wertes des Erbbaurechts zur Zeit der Übertragung beträgt.
 
-
-## § 33
+# § 33
 
 (1) Beim Heimfall des Erbbaurechts bleiben die Hypotheken, Grund- und Rentenschulden und Reallasten bestehen, soweit sie nicht dem Erbbauberechtigten selbst zustehen. Dasselbe gilt für die Vormerkung eines gesetzlichen Anspruchs auf Eintragung einer Sicherungshypothek. Andere auf dem Erbbaurecht lastende Rechte erlöschen.
 
@@ -279,39 +243,32 @@ Ist das Erbbaurecht bei Ablauf der Zeit, für die es bestellt war, noch mit eine
 
 (3) Die Forderungen, die der Grundstückseigentümer nach Absatz 2 übernimmt, werden auf die Vergütung (§ 32) angerechnet.
 
-
-## § 34
+# § 34
 
 Der Erbbauberechtigte ist nicht berechtigt, beim Heimfall oder beim Erlöschen des Erbbaurechts das Bauwerk wegzunehmen oder sich Bestandteile des Bauwerks anzueignen.
 
-
-## § 35
+# § 35
 
 (1) Für nach dem Inkrafttreten des Gesetzes zur Änderung der Verordnung über das Erbbaurecht vom 8. Januar 1974 (BGBl. I S. 41) am 23. Januar 1974 fällig werdende Erbbauzinsen ist § 9a auch bei Vereinbarungen des dort bezeichneten Inhalts anzuwenden, die vor dem 23. Januar 1974 geschlossen worden sind.
 
 (2) Ist der Erbbauzins auf Grund einer Vereinbarung nach Absatz 1 vor dem 23. Januar 1974 erhöht worden, so behält es hierbei sein Bewenden. Der Erbbauberechtigte kann jedoch für die Zukunft eine bei entsprechender Anwendung der in Absatz 1 genannten Vorschrift gerechtfertigte Herabsetzung dann verlangen, wenn das Bestehenbleiben der Erhöhung für ihn angesichts der Umstände des Einzelfalles eine besondere Härte wäre.
 
-
-## § 36
+# § 36
 
 (weggefallen)
 
-
-## § 37
+# § 37
 
 \-
 
-
-## § 38
+# § 38
 
 Für ein Erbbaurecht, mit dem ein Grundstück am 21. Januar 1919 belastet war, bleiben die bis dahin geltenden Gesetze maßgebend.
 
-
-## § 39
+# § 39
 
 Erwirbt ein Erbbauberechtigter auf Grund eines Vorkaufsrechts oder einer Kaufberechtigung im Sinne des § 2 Nr. 7 das mit dem Erbbaurecht belastete Grundstück oder wird ein bestehendes Erbbaurecht erneuert, sind die Kosten und sonstigen Abgaben nicht noch einmal zu erheben, die schon bei Begründung des Erbbaurechts entrichtet worden sind.
 
-
-## Schlußformel
+# Schlußformel
 
 Die Reichsregierung

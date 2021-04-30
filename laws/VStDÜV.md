@@ -1,10 +1,7 @@
-# [VStDÜV] Verordnung zur elektronischen Übermittlung von Daten für die Verbrauchsteuern und die Luftverkehrsteuer  (Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-Verordnung - VStDÜV)
-
-Ausfertigungsdatum: 14.08.2020
-
+% Verordnung zur elektronischen Übermittlung von Daten für die Verbrauchsteuern und die Luftverkehrsteuer  (Verbrauch-und-Luftverkehrsteuerdaten-Übermittlungs-Verordnung - VStDÜV)
+% Ausfertigungsdatum: 14.08.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die elektronische Übermittlung von Erklärungen der besonderen Verbrauchsteuern und der Luftverkehrsteuer an die Zollverwaltung im Rahmen der folgenden Gesetze oder Verordnungen:
 
@@ -26,8 +23,7 @@ Ausfertigungsdatum: 14.08.2020
 
 (2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung auf die elektronische Übermittlung von Erklärungen im Rahmen der Beförderung verbrauchsteuerpflichtiger Waren.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -35,8 +31,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 2. zuständiges Hauptzollamt: das jeweils zuständige Hauptzollamt nach den Gesetzen oder Verordnungen nach § 1 Absatz 1.
 
-
-## § 3 – Elektronische Datenübermittlung
+# § 3 – Elektronische Datenübermittlung
 
 (1) Erklärungen sind nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an das zuständige Hauptzollamt zu übermitteln (elektronische Datenübermittlung), wenn bei der Zollverwaltung für die jeweilige Erklärung die dafür erforderlichen organisatorischen und technischen Voraussetzungen vorliegen.
 
@@ -50,8 +45,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 (6) Die Generalzolldirektion kann Einzelheiten der elektronischen Datenübermittlung nach Absatz 1 durch Verfahrensanweisungen bestimmen. Die Verfahrensanweisungen werden von der Generalzolldirektion im Internet unter www.zoll.de veröffentlicht.
 
-
-## § 4 – Datenübermittlungen im Auftrag
+# § 4 – Datenübermittlungen im Auftrag
 
 (1) Mit der elektronischen Datenübermittlung nach § 3 Absatz 1 können Dritte (Auftragnehmer) beauftragt werden.
 
@@ -59,8 +53,7 @@ Im Sinne dieser Verordnung ist oder sind
 
 (3) Der Auftragnehmer hat dem Auftraggeber die Daten in leicht nachprüfbarer Form zur Zustimmung zur Verfügung zu stellen. Der Auftraggeber hat die ihm zur Verfügung gestellten Daten unverzüglich auf Vollständigkeit und Richtigkeit zu überprüfen.
 
-
-## § 5 – Schnittstellen
+# § 5 – Schnittstellen
 
 (1) Bei der elektronischen Datenübermittlung nach § 3 Absatz 1 hat der Datenübermittler die hierfür von der Generalzolldirektion amtlich bestimmten Schnittstellen ordnungsgemäß zu bedienen.
 

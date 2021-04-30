@@ -1,15 +1,11 @@
-# [GärtnAusbV] Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin
-
-Ausfertigungsdatum: 06.03.1996
-
+% Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin
+% Ausfertigungsdatum: 06.03.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf Gärtner/Gärtnerin wird staatlich anerkannt.
 
@@ -33,22 +29,19 @@ gewählt werden.
 
 (3) Die Bezeichnung der Fachrichtung tritt ergänzend zur Bezeichnung des Ausbildungsberufes hinzu.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+# § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 bis 15 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -180,23 +173,19 @@ d) Ernten, Aufbereiten und Lagern,
 
 e) Verkaufen und Beraten.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach den in den Anlagen für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenpläne) vermittelt werden. Eine vom Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -244,8 +233,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 12. anwendungsbezogene Berechnungen.
 
-
-## § 9 – Abschlußprüfung in der Fachrichtung Baumschule
+# § 9 – Abschlußprüfung in der Fachrichtung Baumschule
 
 (1) Die Abschlußprüfung in der Fachrichtung Baumschule erstreckt sich auf die in der Anlage 1a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -365,8 +353,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 10 – Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei
+# § 10 – Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei
 
 (1) Die Abschlußprüfung in der Fachrichtung Friedhofsgärtnerei erstreckt sich auf die in der Anlage 2a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -476,8 +463,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 11 – Abschlußprüfung in der Fachrichtung Garten- und Landschaftsbau
+# § 11 – Abschlußprüfung in der Fachrichtung Garten- und Landschaftsbau
 
 (1) Die Abschlußprüfung in der Fachrichtung Garten- und Landschaftsbau erstreckt sich auf die in der Anlage 3a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -591,8 +577,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 12 – Abschlußprüfung in der Fachrichtung Gemüsebau
+# § 12 – Abschlußprüfung in der Fachrichtung Gemüsebau
 
 (1) Die Abschlußprüfung in der Fachrichtung Gemüsebau erstreckt sich auf die in der Anlage 4a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -716,8 +701,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 13 – Abschlußprüfung in der Fachrichtung Obstbau
+# § 13 – Abschlußprüfung in der Fachrichtung Obstbau
 
 (1) Die Abschlußprüfung in der Fachrichtung Obstbau erstreckt sich auf die in der Anlage 5a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -849,8 +833,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 14 – Abschlußprüfung in der Fachrichtung Staudengärtnerei
+# § 14 – Abschlußprüfung in der Fachrichtung Staudengärtnerei
 
 (1) Die Abschlußprüfung in der Fachrichtung Staudengärtnerei erstreckt sich auf die in der Anlage 6a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -965,8 +948,7 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">60 Minuten.</td>
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 15 – Abschlußprüfung in der Fachrichtung Zierpflanzenbau
+# § 15 – Abschlußprüfung in der Fachrichtung Zierpflanzenbau
 
 (1) Die Abschlußprüfung in der Fachrichtung Zierpflanzenbau erstreckt sich auf die in der Anlage 7a aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Sie wird praktisch, schriftlich und mündlich durchgeführt.
 
@@ -1085,18 +1067,15 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">60 Minuten.</td>
 
 (7) Die Prüfung ist bestanden, wenn im Gesamtergebnis und jeweils in den Prüfungen nach den Absätzen 2 und 3 mindestens ausreichende Leistungen erbracht worden sind. Sie ist nicht bestanden, wenn eine der Prüfungsaufgaben nach Absatz 2 oder eines der Prüfungsfächer nach Absatz 3 mit ungenügend oder zwei der vorgenannten Prüfungsbestandteile mit mangelhaft bewertet worden sind.
 
-
-## § 16 – Übergangsregelungen
+# § 16 – Übergangsregelungen
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren für Berufsausbildungsverhältnisse im ersten und im zweiten Ausbildungsjahr die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 17 – Inkrafttreten, Außerkrafttreten
+# § 17 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1996 in Kraft.
 
-
-## Anlage 1a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule- sachliche Gliederung -
+# Anlage 1a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 387 - 392)
 
@@ -1786,8 +1765,7 @@ c)
 
 Kunden über Ansprüche, Verwendung und Pflege von Gehölzen beraten
 
-
-## Anlage 1b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule  - zeitliche Gliederung -
+# Anlage 1b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Baumschule  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 393 - 395)
 
@@ -2175,8 +2153,7 @@ Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
 
 fortzuführen.
 
-
-## Anlage 2a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei- sachliche Gliederung -
+# Anlage 2a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 396 - 401)
 
@@ -2846,8 +2823,7 @@ c)
 
 Pflanzen und Bindereierzeugnisse verkaufsfördernd präsentieren, verkaufen und ausliefern
 
-
-## Anlage 2b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei  - zeitliche Gliederung -
+# Anlage 2b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Friedhofsgärtnerei  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 402 - 404)
 
@@ -3244,8 +3220,7 @@ Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
 
 fortzuführen.
 
-
-## Anlage 3a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau- sachliche Gliederung -
+# Anlage 3a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 405 - 410)
 
@@ -3961,8 +3936,7 @@ i)
 
 Landschaftspflegemaßnahmen durchführen
 
-
-## Anlage 3b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau  - zeitliche Gliederung -
+# Anlage 3b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Garten- und Landschaftsbau  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 411 - 413)
 
@@ -4321,8 +4295,7 @@ Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
 
 fortzuführen.
 
-
-## Anlage 4a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau- sachliche Gliederung -
+# Anlage 4a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 414 - 419)
 
@@ -4988,8 +4961,7 @@ c)
 
 Kunden über Herkunft, Qualität und Verwendung von Gemüse informieren
 
-
-## Anlage 4b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau  - zeitliche Gliederung -
+# Anlage 4b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 420 - 422)
 
@@ -5371,8 +5343,7 @@ Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
 
 fortzuführen.
 
-
-## Anlage 5a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau- sachliche Gliederung -
+# Anlage 5a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 423 - 428)
 
@@ -6030,8 +6001,7 @@ c)
 
 Kunden über Herkunft, Qualität und Verwendung von Obst informieren
 
-
-## Anlage 5b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau  - zeitliche Gliederung -
+# Anlage 5b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Obstbau  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 429 - 431)
 
@@ -6410,8 +6380,7 @@ Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
 
 fortzuführen.
 
-
-## Anlage 6a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei- sachliche Gliederung -
+# Anlage 6a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 432 - 437)
 
@@ -7069,8 +7038,7 @@ c)
 
 Staudenpflanzungen anlegen und pflegen
 
-
-## Anlage 6b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei  - zeitliche Gliederung -
+# Anlage 6b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Staudengärtnerei  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 438 - 440)
 
@@ -7452,8 +7420,7 @@ Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
 
 fortzuführen.
 
-
-## Anlage 7a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau- sachliche Gliederung -
+# Anlage 7a – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau- sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 441 - 446)
 
@@ -8135,8 +8102,7 @@ e)
 
 Gebinde anfertigen
 
-
-## Anlage 7b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau  - zeitliche Gliederung -
+# Anlage 7b – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Zierpflanzenbau  - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1996, S. 447 - 449)
 

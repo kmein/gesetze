@@ -1,15 +1,11 @@
-# [AuswErlV] Verordnung über die Erlaubnis zur Auswandererberatung  (Auswandererberatungserlaubnisverordnung - AuswErlV)
-
-Ausfertigungsdatum: 10.04.2013
-
+% Verordnung über die Erlaubnis zur Auswandererberatung  (Auswandererberatungserlaubnisverordnung - AuswErlV)
+% Ausfertigungsdatum: 10.04.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Absatz 5 Nummer 2 und 3 des Auswandererschutzgesetzes in der Fassung der Bekanntmachung vom 12. März 2013 (BGBl. I S. 443) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
-
-## § 1 – Antragsverfahren
+# § 1 – Antragsverfahren
 
 (1) Der Antrag auf Erteilung der Erlaubnis zur Auswandererberatung muss enthalten:
 
@@ -45,8 +41,7 @@ b) Anschrift jeder Zweigniederlassung.
 
 (3) Soweit es im Einzelfall zur Beurteilung der Zuverlässigkeit oder Sachkunde eines Antragstellers erforderlich ist, kann das Bundesverwaltungsamt nachträglich zum Antrag verlangen, dass ihm über die nach den folgenden Bestimmungen vorgeschriebenen Unterlagen hinaus weitere bestimmte Unterlagen vorgelegt werden.
 
-
-## § 2 – Beurteilung der Persönlichen Zuverlässigkeit
+# § 2 – Beurteilung der Persönlichen Zuverlässigkeit
 
 (1) Zur Beurteilung der persönlichen Zuverlässigkeit im Sinne des § 1 Absatz 1 Satz 2 des Auswandererschutzgesetzes hat der Antragsteller mit seinem Antrag folgende Unterlagen vorzulegen:
 
@@ -60,8 +55,7 @@ Mit dem Antrag auf die Erlaubnis ist nach § 30, auch in Verbindung mit § 30b, 
 
 (3) Wird der Antrag auf die Erlaubnis von einer anerkannten gemeinnützigen Organisation für ihre Mitarbeiter gestellt, so ist von dieser ein zum Zeitpunkt der Antragstellung wirksamer Freistellungsbescheid des zuständigen Finanzamtes vorzulegen.
 
-
-## § 3 – Beurteilung der Sachkunde
+# § 3 – Beurteilung der Sachkunde
 
 Der Bewerber hat zur Beurteilung seiner Sachkunde Unterlagen vorzulegen, aus denen seine Qualifikation für die Beratertätigkeit deutlich wird. Die Sachkunde kann insbesondere durch im Studium und in Aus- und Fortbildungen erworbene Zeugnisse, Zertifikate und ähnliche Urkunden belegt werden. Die erforderliche Sachkunde umfasst insbesondere:
 
@@ -73,18 +67,15 @@ Der Bewerber hat zur Beurteilung seiner Sachkunde Unterlagen vorzulegen, aus den
 
 4. Kenntnisse des ausländischen Rechts hinsichtlich der Staaten, für die die Auswandererberatung erbracht werden soll, insbesondere hinsichtlich des jeweiligen Einwanderungsrechts, Staatsangehörigkeitsrechts, Arbeitsrechts und Sozialversicherungsrechts.
 
-
-## § 4 – Mitteilungspflicht
+# § 4 – Mitteilungspflicht
 
 Änderungen zu den nach den vorstehenden Vorschriften gemachten Angaben sind dem Bundesverwaltungsamt unverzüglich und unaufgefordert mitzuteilen.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1 Absatz 2)
+# Anlage – (zu § 1 Absatz 2)
 
 (Fundstelle: BGBl. I 2013, 807 - 810)
 

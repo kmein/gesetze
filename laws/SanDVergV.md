@@ -1,10 +1,7 @@
-# [SanDVergV] Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern  (Sanitätsdienstvergütungsverordnung - SanDVergV)
-
-Ausfertigungsdatum: 27.04.2012
-
+% Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern  (Sanitätsdienstvergütungsverordnung - SanDVergV)
+% Ausfertigungsdatum: 27.04.2012
  
-
-## § 1 – Anspruchsvoraussetzungen
+# § 1 – Anspruchsvoraussetzungen
 
 Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten Soldatinnen und Soldaten sowie Beamtinnen und Beamte in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A,
 
@@ -16,8 +13,7 @@ Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten Soldatinne
 
 4. die in Bundeswehrkrankenhäusern Bereitschaftsdienst außerhalb der regelmäßigen Arbeitszeit oder Rufbereitschaft leisten, wenn die geleisteten Zeiten aus zwingenden dienstlichen Gründen nicht innerhalb eines Jahres durch Freistellung vom Dienst ausgeglichen werden können.
 
-
-## § 2 – Bereitschaftsdienst
+# § 2 – Bereitschaftsdienst
 
 (1) Die während eines Kalendermonats geleisteten Zeiten eines Bereitschaftsdienstes werden entsprechend der durchschnittlich anfallenden tatsächlichen Inanspruchnahme während des Bereitschaftsdienstes wie folgt berücksichtigt:  
   
@@ -31,20 +27,17 @@ Die tatsächliche Inanspruchnahme während des Bereitschaftsdienstes ist damit a
 
 (2) Die Anspruchsberechtigten werden jeweils einer der in Absatz 1 Satz 1 genannten Stufen zugeordnet. Die Zuordnung richtet sich nach der jeweils durchschnittlich anfallenden tatsächlichen Inanspruchnahme aller Anspruchsberechtigten in einer Abteilung oder Sektion während aller Bereitschaftsdienste der betroffenen Dienstgradgruppen. Der Berechnung werden drei zusammenhängende Kalendermonate zugrunde gelegt. Nicht berücksichtigt werden Zeiten einer Tätigkeit, für die Gebühren nach der Gebührenordnung für Ärzte oder nach der Gebührenordnung für Zahnärzte berechnet werden können. Die Zuordnung ist mindestens einmal jährlich zu überprüfen. Sie kann nur mit Wirkung für die Zukunft geändert werden.
 
-
-## § 3 – Rufbereitschaft
+# § 3 – Rufbereitschaft
 
 (1) Zeiten einer Rufbereitschaft ohne tatsächliche Inanspruchnahme, die 10 Stunden im Kalendermonat übersteigen, werden zu einem Achtel berücksichtigt. Bei Teilzeitbeschäftigung werden die 10 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt.
 
 (2) Zeiten einer tatsächlichen Inanspruchnahme während einer Rufbereitschaft werden vollständig berücksichtigt. § 2 Absatz 2 Satz 4 gilt entsprechend.
 
-
-## § 4 – Gesamtzeit
+# § 4 – Gesamtzeit
 
 Die berücksichtigten Zeiten eines Kalendermonats sind zu addieren und danach auf volle Stunden zu runden (Gesamtzeit). Bei einem Bruchteil von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
 
-
-## § 5 – Vergütung bei Vollzeitbeschäftigung
+# § 5 – Vergütung bei Vollzeitbeschäftigung
 
 Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 
@@ -65,8 +58,7 @@ bis A 12</td><td style="text-align: right;">18,00 Euro,</td></tr></tbody></table
 5. <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">der Besoldungsgruppen A 15<br />
 und A 16</td><td style="text-align: right;">28,00 Euro.</td></tr></tbody></table>
 
-
-## § 6 – Vergütung bei Teilzeitbeschäftigung
+# § 6 – Vergütung bei Teilzeitbeschäftigung
 
 (1) Teilzeitbeschäftigte erhalten je Stunde der Gesamtzeit bis zum Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine Vergütung in Höhe des auf 1 Stunde entfallenden Anteils der Besoldung entsprechender Vollzeitbeschäftigter.
 
@@ -74,8 +66,7 @@ und A 16</td><td style="text-align: right;">28,00 Euro.</td></tr></tbody></table
 
 (3) Zeiten, die über die regelmäßige Arbeitszeit von Vollzeitbeschäftigten hinausgehen, werden nach § 5 vergütet.
 
-
-## § 7 – Ausschluss des Vergütungsanspruchs
+# § 7 – Ausschluss des Vergütungsanspruchs
 
 Eine Vergütung wird nicht gewährt
 

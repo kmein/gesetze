@@ -1,10 +1,7 @@
-# [HwStatG] Gesetz über Statistiken im Handwerk  (Handwerkstatistikgesetz - HwStatG)
-
-Ausfertigungsdatum: 07.03.1994
-
+% Gesetz über Statistiken im Handwerk  (Handwerkstatistikgesetz - HwStatG)
+% Ausfertigungsdatum: 07.03.1994
  
-
-## § 1 – Zweck, Umfang
+# § 1 – Zweck, Umfang
 
 (1) Zur Darstellung des Verlaufs und der Struktur der wirtschaftlichen Tätigkeit im Handwerk werden statistische Erhebungen als Bundesstatistik durchgeführt.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 07.03.1994
 
 (3) (weggefallen)
 
-
-## § 2 – Erhebungseinheiten
+# § 2 – Erhebungseinheiten
 
 Erhebungseinheiten sind selbständige Betriebe und Unternehmen
 
@@ -27,8 +23,7 @@ Erhebungseinheiten sind selbständige Betriebe und Unternehmen
 
 der Handwerksordnung.
 
-
-## § 3 – Vierteljährliche Erhebung
+# § 3 – Vierteljährliche Erhebung
 
 (1) Für die Erhebung nach § 1 Abs. 2 Nr. 1 werden, beginnend mit dem ersten Kalendervierteljahr 2008, Verwaltungsdaten ausgewertet, die den Statistikbehörden des Bundes und der Länder nach den §§ 2 und 3 des Verwaltungsdatenverwendungsgesetzes übermittelt werden.
 
@@ -46,37 +41,30 @@ der Handwerksordnung.
 
 (4) (weggefallen)
 
-
-## § 4 – Zählungen im Handwerk
+# § 4 – Zählungen im Handwerk
 
 Für die Zählungen nach § 1 Abs. 2 Nr. 2 werden jährlich, beginnend 2009, für die Erhebungseinheiten nach § 2 Angaben aus dem Statistikregister und Angaben, die nach § 3 Nr. 4 des Verwaltungsdatenverwendungsgesetzes übermittelt werden, ausgewertet.
 
-
-## § 5 – (weggefallen)
-
-\-
-
-
-## § 6 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
+# § 6 – (weggefallen)
 
-## § 7 – Übermittlungsregelungen
+\-
+
+# § 7 – Übermittlungsregelungen
 
 An die für Wirtschaft und Landesplanung zuständigen obersten Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall aufweisen.
 
-
-## § 8 – (weggefallen)
-
-\-
-
-
-## § 9 – (weggefallen)
+# § 8 – (weggefallen)
 
 \-
 
+# § 9 – (weggefallen)
 
-## § 10 – Inkrafttreten, Außerkrafttreten
+\-
+
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

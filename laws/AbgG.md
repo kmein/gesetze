@@ -1,15 +1,11 @@
-# [AbgG] Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages  (Abgeordnetengesetz - AbgG)
-
-Ausfertigungsdatum: 18.02.1977
-
+% Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages  (Abgeordnetengesetz - AbgG)
+% Ausfertigungsdatum: 18.02.1977
  
-
-## § 1 – Erwerb und Verlust der Mitgliedschaft im Bundestag
+# § 1 – Erwerb und Verlust der Mitgliedschaft im Bundestag
 
 Erwerb und Verlust der Mitgliedschaft im Bundestag regeln sich nach den Vorschriften des Bundeswahlgesetzes.
 
-
-## § 2 – Schutz der freien Mandatsausübung
+# § 2 – Schutz der freien Mandatsausübung
 
 (1) Niemand darf gehindert werden, sich um ein Mandat im Bundestag zu bewerben, es zu erwerben, anzunehmen oder auszuüben.
 
@@ -17,20 +13,17 @@ Erwerb und Verlust der Mitgliedschaft im Bundestag regeln sich nach den Vorschri
 
 (3) Eine Kündigung oder Entlassung wegen des Erwerbs, der Annahme oder Ausübung des Mandats ist unzulässig. Eine Kündigung ist im übrigen nur aus wichtigem Grunde zulässig. Der Kündigungsschutz beginnt mit der Aufstellung des Bewerbers durch das dafür zuständige Organ der Partei oder mit der Einreichung des Wahlvorschlags. Er gilt ein Jahr nach Beendigung des Mandats fort.
 
-
-## § 3 – Wahlvorbereitungsurlaub
+# § 3 – Wahlvorbereitungsurlaub
 
 Einem Bewerber um einen Sitz im Bundestag ist zur Vorbereitung seiner Wahl innerhalb der letzten zwei Monate vor dem Wahltag auf Antrag Urlaub von bis zu zwei Monaten zu gewähren. Ein Anspruch auf Fortzahlung seiner Bezüge besteht für die Dauer der Beurlaubung nicht.
 
-
-## § 4 – Berufs- und Betriebszeiten
+# § 4 – Berufs- und Betriebszeiten
 
 (1) Die Zeit der Mitgliedschaft im Bundestag ist nach Beendigung des Mandats auf die Berufs- und Betriebszugehörigkeit anzurechnen.
 
 (2) Im Rahmen einer bestehenden betrieblichen oder überbetrieblichen Altersversorgung wird die Anrechnung nach Absatz 1 nur im Hinblick auf die Erfüllung der Unverfallbarkeitsfristen des § 1 des Gesetzes zur Verbesserung der betrieblichen Altersversorgung vorgenommen.
 
-
-## § 5 – Ruhen der Rechte und Pflichten aus einem öffentlich-rechtlichen Dienstverhältnis
+# § 5 – Ruhen der Rechte und Pflichten aus einem öffentlich-rechtlichen Dienstverhältnis
 
 (1) Die Rechte und Pflichten aus dem Dienstverhältnis eines in den Bundestag gewählten Beamten mit Dienstbezügen ruhen vom Tage der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder der Annahme des Mandats für die Dauer der Mitgliedschaft mit Ausnahme der Pflicht zur Amtsverschwiegenheit und des Verbots der Annahme von Belohnungen und Geschenken. Das gleiche gilt, wenn ein Mitglied des Bundestages in ein solches Dienstverhältnis berufen wird, von dem Tage an, mit dem seine Ernennung wirksam wird. Der Beamte hat das Recht, seine Amts- oder Dienstbezeichnung mit dem Zusatz "außer Dienst" ("a. D.") zu führen. Bei unfallverletzten Beamten bleiben die Ansprüche auf das Heilverfahren und einen Unfallausgleich unberührt. Satz 1 gilt längstens bis zum Eintritt oder bis zur Versetzung in den Ruhestand.
 
@@ -38,15 +31,13 @@ Einem Bewerber um einen Sitz im Bundestag ist zur Vorbereitung seiner Wahl inner
 
 (3) Einem in den Bundestag gewählten Beamten auf Widerruf im Vorbereitungsdienst ist auf seinen Antrag Urlaub ohne Anwärterbezüge zu gewähren. Wird der Beamte nach Bestehen der Laufbahnprüfung zum Beamten auf Probe ernannt, so ruhen seine Rechte und Pflichten aus diesem Dienstverhältnis nach Absatz 1 von dem Tage an, mit dem die Ernennung wirksam wird.
 
-
-## § 6 – Wiederverwendung nach Beendigung des Mandats
+# § 6 – Wiederverwendung nach Beendigung des Mandats
 
 (1) Nach der Beendigung der Mitgliedschaft im Bundestag ruhen die in dem Dienstverhältnis eines Beamten begründeten Rechte und Pflichten für längstens weitere sechs Monate. Der Beamte ist auf seinen Antrag, der binnen drei Monaten seit der Beendigung der Mitgliedschaft zu stellen ist, spätestens drei Monate nach Antragstellung wieder in das frühere Dienstverhältnis zurückzuführen. Das ihm zu übertragende Amt muß derselben oder einer gleichwertigen Laufbahn angehören wie das zuletzt bekleidete Amt und mit mindestens demselben Endgrundgehalt ausgestattet sein. Vom Tage der Antragstellung an erhält er die Dienstbezüge des zuletzt bekleideten Amtes.
 
 (2) Stellt der Beamte nicht binnen drei Monaten seit der Beendigung der Mitgliedschaft im Bundestag einen Antrag nach Absatz 1, so ruhen die in dem Dienstverhältnis begründeten Rechte und Pflichten (§ 5 Abs. 1) weiter bis zum Eintritt oder bis zur Versetzung in den Ruhestand. Die oberste Dienstbehörde kann den Beamten jedoch, wenn er weder dem Bundestag mindestens zwei Wahlperioden angehört noch bei Beendigung der Mitgliedschaft im Bundestag das 55. Lebensjahr vollendet hat, unter Übertragung eines Amtes im Sinne des Absatzes 1 Satz 3 wieder in das frühere Dienstverhältnis zurückführen; lehnt der Beamte die Rückführung ab oder folgt er ihr nicht, so ist er entlassen. Satz 2 ist nicht anzuwenden, wenn der Beamte während der Dauer seiner Mitgliedschaft im Bundestag Mitglied der Bundesregierung gewesen ist.
 
-
-## § 7 – Dienstzeiten im öffentlichen Dienst
+# § 7 – Dienstzeiten im öffentlichen Dienst
 
 (1) Abweichend von § 27 Abs. 3 Satz 3 des Bundesbesoldungsgesetzes und unbeschadet des § 23 Abs. 5 verzögert die Zeit der Mitgliedschaft im Bundestag den Aufstieg eines Bundesbeamten in den Grundgehaltsstufen in dem Umfang, der sich bei entsprechender Anwendung des § 28 Abs. 1 und 2 des Bundesbesoldungsgesetzes in der bis zum 30. Juni 2009 geltenden Fassung ergibt.
 
@@ -58,8 +49,7 @@ Einem Bewerber um einen Sitz im Bundestag ist zur Vorbereitung seiner Wahl inner
 
 (5) Nach Beendigung der Mitgliedschaft im Bundestag ist die Zeit der Mitgliedschaft auf Dienst- und Beschäftigungszeiten bei Arbeitnehmern des öffentlichen Dienstes anzurechnen; im Rahmen einer bestehenden zusätzlichen Alters- und Hinterbliebenenversorgung gilt dies nur im Hinblick auf Vorschriften, die die Anwartschaft oder den Anspruch dem Grunde nach regeln.
 
-
-## § 8 – Beamte auf Zeit, Richter, Soldaten und Angestellte des öffentlichen Dienstes
+# § 8 – Beamte auf Zeit, Richter, Soldaten und Angestellte des öffentlichen Dienstes
 
 (1) Die §§ 5 bis 7 gelten für Richter, Berufssoldaten und Soldaten auf Zeit entsprechend.
 
@@ -67,20 +57,17 @@ Einem Bewerber um einen Sitz im Bundestag ist zur Vorbereitung seiner Wahl inner
 
 (3) Absatz 2 und die Vorschriften der §§ 5, 6 und 7 Abs. 1 bis 4 gelten sinngemäß für Angestellte des öffentlichen Dienstes. Öffentlicher Dienst im Sinne dieser Vorschrift ist die Tätigkeit im Dienste des Bundes, eines Landes, einer Gemeinde oder anderer Körperschaften, Anstalten oder Stiftungen des öffentlichen Rechts oder ihrer Verbände mit Ausnahme der öffentlich-rechtlichen Religionsgesellschaften und ihrer Verbände.
 
-
-## § 9 – Hochschullehrer
+# § 9 – Hochschullehrer
 
 (1) Für die Rechtsstellung der in den Deutschen Bundestag gewählten Hochschullehrer im Sinne des § 42 des Hochschulrahmengesetzes findet § 6 mit der Maßgabe Anwendung, dass sie in ihrem bisherigen Amt an der gleichen Hochschule wiederverwendet werden müssen.
 
 (2) Hochschullehrer können eine Tätigkeit in Forschung und Lehre sowie die Betreuung von Doktoranden und Habilitanden während der Mitgliedschaft im Bundestag wahrnehmen. Die Vergütung für diese Tätigkeit ist entsprechend den tatsächlich erbrachten Leistungen zu bemessen. Die Vergütung darf 25 vom Hundert der Bezüge, die aus dem Dienstverhältnis als Hochschullehrer zu zahlen wären, nicht übersteigen. Im Übrigen sind die für Bundesbeamte geltenden Vorschriften anzuwenden.
 
-
-## § 10 – Wahlbeamte auf Zeit
+# § 10 – Wahlbeamte auf Zeit
 
 Die Länder können durch Gesetz für Wahlbeamte auf Zeit von § 6 abweichende Regelungen treffen.
 
-
-## § 11 – Abgeordnetenentschädigung
+# § 11 – Abgeordnetenentschädigung
 
 (1) Die monatliche Entschädigung eines Mitglieds des Deutschen Bundestages orientiert sich an den Bezügen eines Richters an einem obersten Gerichtshof des Bundes (Besoldungsgruppe R 6 gemäß der Anlage IV des Bundesbesoldungsgesetzes mit Zulage für Richter und Staatsanwälte bei obersten Gerichtshöfen des Bundes). Die Abgeordnetenentschädigung beträgt 10 083, 47 Euro. Für die Anpassung der Entschädigung gilt das in den Absätzen 4 und 5 geregelte Verfahren.
 
@@ -92,8 +79,7 @@ Die Länder können durch Gesetz für Wahlbeamte auf Zeit von § 6 abweichende R
 
 (5) Das Anpassungsverfahren nach Absatz 4 bleibt für eine neue Wahlperiode nur wirksam, wenn der Deutsche Bundestag innerhalb von drei Monaten nach der konstituierenden Sitzung einen entsprechenden Beschluss fasst. Wird innerhalb dieser Frist kein Beschluss gefasst, gilt für die Entschädigung der letzte nach Absatz 4 ermittelte Betrag, bis der Deutsche Bundestag das Anpassungsverfahren in einem Gesetz bestätigt oder ändert.
 
-
-## § 12 – Amtsausstattung
+# § 12 – Amtsausstattung
 
 (1) Ein Mitglied des Bundestages erhält zur Abgeltung seiner durch das Mandat veranlaßten Aufwendungen eine Amtsausstattung als Aufwandsentschädigung. Die Amtsausstattung umfaßt Geld- und Sachleistungen.
 
@@ -131,32 +117,27 @@ Das Nähere regeln das Haushaltsgesetz und Ausführungsbestimmungen, die vom Äl
 
 (6) Ein Mitglied des Bundestages, dem ein Dienstwagen des Bundes zur ausschließlichen Verfügung steht, erhält eine um 25 vom Hundert verminderte Kostenpauschale.
 
-
-## § 13 – Wegfall des Anspruchs auf Aufwandsentschädigungen
+# § 13 – Wegfall des Anspruchs auf Aufwandsentschädigungen
 
 Ein Mitglied des Bundestages, das im letzten Vierteljahr der Wahlperiode in den Bundestag eintritt, hat keinen Anspruch auf die Leistungen nach § 12 Abs. 2 und 3, wenn der Bundestag seine Tätigkeit bereits abgeschlossen hat.
 
-
-## § 14 – Kürzung der Kostenpauschale
+# § 14 – Kürzung der Kostenpauschale
 
 (1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt. Der Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste ausgelegt wird. Trägt sich ein Mitglied des Bundestages nicht in die Anwesenheitsliste ein, werden ihm 100 Euro von der Kostenpauschale einbehalten. Der einzubehaltende Betrag erhöht sich auf 200 Euro, wenn ein Mitglied an einem Plenarsitzungstag sich nicht in die Anwesenheitsliste eingetragen hat und nicht beurlaubt war. Der Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des Bundestages einen Aufenthalt in einem Krankenhaus oder in einem Sanatorium oder die Arbeitsunfähigkeit ärztlich nachweist. Während der Mutterschutzfristen infolge Schwangerschaft oder wenn ein Mitglied des Bundestages ein ärztlich nachgewiesen erkranktes, in seinem Haushalt lebendes Kind, das das 14. Lebensjahr noch nicht vollendet hat, mangels anderer im Haushalt dafür zur Verfügung stehender Aufsichtspersonen persönlich betreuen muss, führt die Nichteintragung in die Anwesenheitsliste nicht zu einer Kürzung der Kostenpauschale. Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der Auslegung an ersetzt durch Amtieren als Präsident oder als Schriftführer, durch protokollierte Wortmeldung in einer Sitzung, des Deutschen Bundestages durch Teilnahme an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf, durch Eintragung in die Anwesenheitsliste eines Ausschusses oder eines sonstigen Gremiums des Bundestages, durch Wortmeldungen in einem Ausschuss oder einem sonstigen Gremium des Bundestages, durch Eintragung in die Anwesenheitsliste des Ältestenrates oder durch eine für den Sitzungstag genehmigte und durchgeführte Dienstreise.
 
 (2) Einem Mitglied des Bundestages, das an einer namentlichen Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden 100 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht, wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach Absatz 1 erfolgt oder in den Fällen des Absatzes 1 Satz 6.
 
-
-## § 15 – Bezug anderer Tage- oder Sitzungsgelder
+# § 15 – Bezug anderer Tage- oder Sitzungsgelder
 
 Bezieht ein Mitglied des Bundestages an einem Tag, an dem es sich in die Anwesenheitsliste des Bundestages eingetragen hat, Tage- oder Sitzungsgelder aus anderen öffentlichen Kassen, so werden 20 Euro von der monatlichen Kostenpauschale einbehalten, jedoch nicht mehr als die aus anderen öffentlichen Kassen geleisteten Tage- oder Sitzungsgelder. Das gleiche gilt für Auslandsdienstreisen, die auf einen Sitzungstag fallen.
 
-
-## § 16 – Freifahrtberechtigung und Erstattung von Fahrkosten
+# § 16 – Freifahrtberechtigung und Erstattung von Fahrkosten
 
 (1) Ein Mitglied des Bundestages hat das Recht auf freie Benutzung aller Verkehrsmittel der Deutschen Bahn AG. Benutzt es in Ausübung des Mandats im Inland Flugzeuge, Schlafwagen oder sonstige schienengebundene Beförderungsmittel außerhalb des öffentlichen Personennahverkehrs, so werden die Kosten bis zur höchsten Klasse gegen Nachweis erstattet.
 
 (2) Für die Dauer der Berechtigung zur Freifahrt darf ein Mitglied des Bundestages die Erstattung von Fahrkosten der Deutschen Bahn AG für Reisen im Inland von anderer Seite nicht annehmen. Dies gilt auch für Teilstrecken im Inland anläßlich einer Auslandsreise und wenn Kosten für die Benutzung von Flugzeugen oder Schlafwagen nach Absatz 1 erstattet werden.
 
-
-## § 17 – Dienstreisen
+# § 17 – Dienstreisen
 
 (1) Dienstreisen bedürfen der vorherigen Zustimmung des Präsidenten.
 
@@ -177,8 +158,7 @@ notwendige Fahrkosten anderer Beförderungsmittel.
 
 (5) Soweit vom Ältestenrat nichts anderes bestimmt ist, finden im übrigen die Vorschriften des Bundesreisekostengesetzes in der jeweils gültigen Fassung sinngemäß Anwendung.
 
-
-## § 18 – Übergangsgeld
+# § 18 – Übergangsgeld
 
 (1) Ein ausscheidendes Mitglied mit einer Mitgliedschaft von mindestens einem Jahr erhält Übergangsgeld. Das Übergangsgeld wird in Höhe der Abgeordnetenentschädigung nach § 11 Abs. 1 für jedes Jahr der Mitgliedschaft einen Monat geleistet, höchstens jedoch 18 Monate lang. Zeiten einer früheren Mitgliedschaft im Bundestag, für die bereits Übergangsgeld gezahlt worden ist, bleiben unberücksichtigt. Eine Mitgliedschaft im Bundestag von mehr als einem halben Jahr gilt als volles Jahr bei der Berechnung nach Satz 2.
 
@@ -194,8 +174,7 @@ notwendige Fahrkosten anderer Beförderungsmittel.
 
 (7) Absatz 1 gilt nicht, wenn das Mitglied die Mitgliedschaft im Bundestag auf Grund des § 15 Abs. 2 Nr. 2 des Bundeswahlgesetzes verliert. Der Präsident kann die Zahlungen aussetzen, wenn ein Verfahren zu erwarten ist, das die Folgen nach § 15 Abs. 2 Nr. 2 des Bundeswahlgesetzes nach sich zieht.
 
-
-## § 19 – Anspruch auf Altersentschädigung
+# § 19 – Anspruch auf Altersentschädigung
 
 (1) Ein Mitglied erhält nach seinem Ausscheiden eine Altersentschädigung, wenn es das 67. Lebensjahr vollendet und dem Bundestag mindestens ein Jahr angehört hat.
 
@@ -205,13 +184,11 @@ notwendige Fahrkosten anderer Beförderungsmittel.
 
 (4) Auf Antrag kann die Altersentschädigung vorzeitig ab Vollendung des 63. Lebensjahres in Anspruch genommen werden. Die Altersentschädigung vermindert sich in diesem Fall um 0,3 vom Hundert für jeden Monat, für den die Altersentschädigung vor dem in den Absätzen 1 und 2 genannten Zeitpunkt in Anspruch genommen wird. Anrechnungen nach § 29 erfolgen bezogen auf den nach Satz 2 verminderten Betrag der Altersentschädigung.
 
-
-## § 20 – Höhe der Altersentschädigung
+# § 20 – Höhe der Altersentschädigung
 
 Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschädigung (§ 11 Abs. 1). Der Steigerungssatz beträgt vom 1. Januar 2008 an für jedes Jahr der Mitgliedschaft je 2,5 vom Hundert der Abgeordnetenentschädigung nach § 11 Abs. 1. Der Höchstbemessungssatz der Altersentschädigung beträgt 65 vom Hundert. Die Zeit der Wahrnehmung der Ämter des Präsidenten und seiner Stellvertreter wird der Berechnung der Altersentschädigung nach den Sätzen 1 und 2 mit der Abgeordnetenentschädigung nach § 11 Abs. 1 einschließlich der Amtszulage zugrunde gelegt. § 18 Abs. 1 Satz 4 gilt entsprechend.
 
-
-## § 21 – Berücksichtigung von Zeiten in anderen Parlamenten
+# § 21 – Berücksichtigung von Zeiten in anderen Parlamenten
 
 (1) Zeiten der Mitgliedschaft im Parlament eines Landes der Bundesrepublik Deutschland gelten auf Antrag als Zeiten der Mitgliedschaft im Sinne des § 19. Werden dadurch die Voraussetzungen für einen Anspruch nach diesem Gesetz erfüllt, so wird Altersentschädigung gezahlt.
 
@@ -219,8 +196,7 @@ Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschäd
 
 (3) Zeiten der Mitgliedschaft in der Volkskammer der ehemaligen Deutschen Demokratischen Republik ab Annahme des Mandats nach den Wahlen zur 10. Volkskammer bis zum 2. Oktober 1990 gelten auf Antrag, der bis zum 30. Juni 1996 bei dem Präsidenten des Bundestages eingegangen sein muß (Ausschlußfrist), als Mitgliedszeit im Bundestag. § 18 Abs. 1 Satz 4 gilt entsprechend. Bei einer Antragstellung nach Satz 1 sind die während der dort genannten Zeit der Volkskammerzugehörigkeit auf Grund dieser Mitgliedschaft begründeten Rentenanwartschaften und -ansprüche rückabzuwickeln.
 
-
-## § 22 – Gesundheitsschäden
+# § 22 – Gesundheitsschäden
 
 (1) Hat ein Mitglied während seiner Zugehörigkeit zum Bundestag ohne sein grobes Verschulden Gesundheitsschäden erlitten, die seine Arbeitskraft dauernd und so wesentlich beeinträchtigen, daß es sein Mandat und bei seinem Ausscheiden aus dem Bundestag die bei seiner Wahl zum Bundestag ausgeübte oder eine andere zumutbare Tätigkeit nicht mehr ausüben kann, so erhält es unabhängig von den in § 19 vorgesehenen Voraussetzungen auf Antrag vom Monat der Antragstellung an eine Altersentschädigung, deren Höhe sich nach § 20 richtet, mindestens jedoch 30 vom Hundert der Abgeordnetenentschädigung nach § 11 Abs. 1. Ist der Gesundheitsschaden infolge eines Unfalls eingetreten, so erhöht sich der Bemessungssatz nach § 20 um 20 vom Hundert bis höchstens zum Höchstbemessungssatz der Altersentschädigung.
 
@@ -228,8 +204,7 @@ Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschäd
 
 (3) Die Gesundheitsschädigung ist durch das Gutachten einer öffentlich-rechtlichen Krankenanstalt nachzuweisen. Das Gutachten wird ersetzt durch den Bescheid über Rente wegen Erwerbsminderung, Berufs- oder Erwerbsunfähigkeit oder durch den Bescheid über Dienstunfähigkeit im Sinne des Beamtenrechts.
 
-
-## § 23 – Versorgungsabfindung
+# § 23 – Versorgungsabfindung
 
 (1) Ein Mitglied, das bei seinem Ausscheiden weder eine Anwartschaft noch einen Anspruch auf Altersentschädigung nach den §§ 19 bis 22 erworben hat, erhält für die Zeit der Zugehörigkeit zum Bundestag auf Antrag eine Versorgungsabfindung. Sie wird für jeden angefangenen Monat der Mitgliedschaft im Bundestag in Höhe des für diesen Monat jeweils geltenden Höchstbeitrages zur allgemeinen Rentenversicherung zuzüglich 20 vom Hundert dieses Höchstbeitrages gezahlt.
 
@@ -249,15 +224,13 @@ Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschäd
 
 (9) Verliert ein Mitglied des Parlaments eines Landes die Mitgliedschaft, ohne daß für die Zeit der Mitgliedschaft Anspruch oder Anwartschaft auf eine einmalige oder laufende Versorgung auf Grund seiner Parlamentszugehörigkeit besteht, so gelten die Absätze 2 und 4 entsprechend.
 
-
-## § 24 – Überbrückungsgeld für Hinterbliebene
+# § 24 – Überbrückungsgeld für Hinterbliebene
 
 (1) Die Hinterbliebenen eines Mitglieds des Bundestages erhalten die noch nicht abgerechneten Leistungen nach diesem Gesetz, soweit sie im Zeitpunkt des Todes fällig waren. Der überlebende Ehegatte, die eingetragene Lebenspartnerin/der eingetragene Lebenspartner und die Abkömmlinge erhalten ein Überbrückungsgeld in Höhe einer Abgeordnetenentschädigung nach § 11 Abs. 1. Das Überbrückungsgeld beträgt bei einer Dauer der Mitgliedschaft von mehr als acht Jahren oder von mehr als zwei Wahlperioden das Eineinhalbfache der Abgeordnetenentschädigung nach § 11 Abs. 1. Sind Hinterbliebene im Sinne des Satzes 2 nicht vorhanden, wird sonstigen Personen, die die Kosten der letzten Krankheit getragen haben, das Überbrückungsgeld bis zur Höhe ihrer Aufwendungen gewährt. Der Auszahlungsbetrag des Überbrückungsgeldes vermindert sich vom 31. März 2004 an um 1 050 Euro.
 
 (2) Das gleiche gilt beim Tod eines ehemaligen Mitglieds des Bundestages, das die Voraussetzungen der Mitgliedschaftsdauer nach § 19 erfüllt und noch keine Altersentschädigung erhält.
 
-
-## § 25 – Hinterbliebenenversorgung
+# § 25 – Hinterbliebenenversorgung
 
 (1) Der überlebende Ehegatte oder Lebenspartner eines Mitglieds oder ehemaligen Mitglieds des Bundestages erhält 60 vom Hundert der Altersentschädigung, sofern der Verstorbene im Zeitpunkt seines Todes Anspruch auf Altersentschädigung hatte oder die Voraussetzungen für die Gewährung einer Altersentschädigung erfüllte.
 
@@ -267,8 +240,7 @@ Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschäd
 
 (4) Beim Tode eines Mitglieds des Bundestages, das dem Bundestag weniger als 14 Jahre angehört hat, erhalten der überlebende Ehegatte oder Lebenspartner 60 vom Hundert, die Vollwaise 20 vom Hundert und die Halbwaise 12 vom Hundert der Altersentschädigung für eine Mitgliedschaft von 13 Jahren.
 
-
-## § 25a – Versorgungsausgleich
+# § 25a – Versorgungsausgleich
 
 (1) Anrechte auf Altersentschädigung werden intern geteilt.
 
@@ -276,8 +248,7 @@ Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschäd
 
 (3) Die Bewertung der Altersentschädigung erfolgt nach § 39 des Versorgungsausgleichsgesetzes (unmittelbare Bewertung).
 
-
-## § 25b – Maßnahmen zur Kostendämpfung bei Versorgungsansprüchen
+# § 25b – Maßnahmen zur Kostendämpfung bei Versorgungsansprüchen
 
 (1) Unter den in § 25 genannten Voraussetzungen erhält der überlebende Ehegatte oder Lebenspartner 55 vom Hundert der jeweiligen Altersentschädigung. Das gilt nicht für vor dem 28. Dezember 2004 geschlossene Ehen oder Lebenspartnerschaften, wenn zu diesem Zeitpunkt mindestens ein Ehegatte oder Lebenspartner das 40. Lebensjahr vollendet hatte.
 
@@ -289,13 +260,11 @@ Die Altersentschädigung bemißt sich nach der monatlichen Abgeordnetenentschäd
 
 (5) Für Mitglieder, die dem Bundestag ab der 16. Wahlperiode angehören, gilt bis zur Vollendung des in § 19 Abs. 1 und 2 jeweils genannten Alters § 29 Abs. 3 auch für private Erwerbseinkünfte entsprechend.
 
-
-## § 26 – Anwendung beamtenrechtlicher Vorschriften
+# § 26 – Anwendung beamtenrechtlicher Vorschriften
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, sind die für die Bundesbeamten geltenden versorgungsrechtlichen Vorschriften sinngemäß anzuwenden. Für den Begriff der Verwendung im öffentlichen Dienst im Sinne dieses Abschnitts gilt § 53 Abs. 8 des Beamtenversorgungsgesetzes entsprechend.
 
-
-## § 27 – Zuschuss zu den Kosten in Krankheits-, Pflege- und Geburtsfällen
+# § 27 – Zuschuss zu den Kosten in Krankheits-, Pflege- und Geburtsfällen
 
 (1) Die Mitglieder des Bundestages erhalten einen Zuschuss zu den notwendigen Kosten in Krankheits-, Pflege-, und Geburtsfällen in sinngemäßer Anwendung der für Bundesbeamte geltenden Vorschriften. Das gilt auch für Versorgungsempfänger nach diesem Gesetz, soweit nicht auf Grund eines Dienstverhältnisses oder der Mitgliedschaft in einer anderen gesetzgebenden Körperschaft ein Anspruch auf Beihilfe besteht und auf den Anspruch nach diesem Gesetz gegenüber dem Bundestag schriftlich verzichtet wurde.
 
@@ -305,13 +274,11 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, sind die für die Bundesbea
 
 (4) Die Entscheidung darüber, ob das Mitglied anstelle der Leistungen nach Absatz 1 den Zuschuß nach Absatz 2 in Anspruch nehmen will, ist innerhalb von vier Monaten nach Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder Annahme des Mandats dem Präsidenten des Bundestages mitzuteilen; die Entscheidung ist für die Dauer der Wahlperiode unwiderruflich. Versorgungsempfänger haben die Entscheidung innerhalb von vier Monaten nach Bekanntgabe des Versorgungsbescheides dem Präsidenten mitzuteilen; sie bleiben an diese Entscheidung gebunden.
 
-
-## § 28 – Unterstützungen
+# § 28 – Unterstützungen
 
 Der Präsident kann in besonderen Fällen einem Mitglied des Bundestages einmalige Unterstützungen, einem ausgeschiedenen Mitglied und seinen Hinterbliebenen einmalige Unterstützungen und laufende Unterhaltszuschüsse gewähren.
 
-
-## § 29 – Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
+# § 29 – Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
 
 (1) Hat ein Mitglied des Bundestages neben der Abgeordnetenentschädigung nach § 11 Anspruch auf Einkommen aus einem Amtsverhältnis oder aus der Verwendung im öffentlichen Dienst, so wird die Abgeordnetenentschädigung nach § 11 um 50 vom Hundert gekürzt; der Kürzungsbetrag darf jedoch 30 vom Hundert des Einkommens nicht übersteigen. Entsprechendes gilt für ein Einkommen aus einem Amtsverhältnis oder einer Verwendung im öffentlichen Dienst einer zwischen- oder überstaatlichen Einrichtung. Die Abgeordnetenentschädigung ruht in voller Höhe neben einer Entschädigung nach dem Abgeordnetengesetz eines Landes. Eine Berücksichtigung der in den Sätzen 2 und 3 genannten Bezüge entfällt dann, wenn die Anrechnung der Bezüge beziehungsweise das Ruhen der Entschädigung für die Ausübung des Landtagsmandats bereits durch landesrechtliche Vorschriften oder seitens der zwischen- oder überstaatlichen Einrichtung bestimmt wird.
 
@@ -331,16 +298,13 @@ Der Präsident kann in besonderen Fällen einem Mitglied des Bundestages einmali
 
 (9) Die Verwendung im öffentlichen Dienst und die nach dieser Vorschrift erfaßten zwischen- oder überstaatlichen Einrichtungen bestimmen sich nach § 53 Abs. 8 des Beamtenversorgungsgesetzes und den hierzu erlassenen Vorschriften.
 
+# § 30 – (weggefallen)
 
-## § 30 – (weggefallen)
-
-
-## § 31 – Verzicht, Übertragbarkeit
+# § 31 – Verzicht, Übertragbarkeit
 
 Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistungen nach § 12 sowie nach dem Fünften Abschnitt mit Ausnahme des § 18 ist unzulässig. Die Ansprüche aus § 12 sind nicht übertragbar. Der Anspruch auf Abgeordnetenentschädigung nach § 11 ist nur bis zur Hälfte übertragbar. Im übrigen gelten die Vorschriften der §§ 850ff. der Zivilprozeßordnung.
 
-
-## § 32 – Beginn und Ende der Ansprüche, Zahlungsvorschriften
+# § 32 – Beginn und Ende der Ansprüche, Zahlungsvorschriften
 
 (1) Die in den §§ 11, 12, 16, 27 und 28 geregelten Ansprüche entstehen mit dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Abs. 3 des Bundeswahlgesetzes mit dem Tag der Annahme des Mandats, auch wenn die Wahlperiode des letzten Bundestages noch nicht abgelaufen ist. Mandatsbezogene Aufwendungen, die einem gewählten Wahlkreisbewerber oder einem gewählten Landeslistenbewerber zwischen dem Wahltag und dem Tag der Feststellung des Bundeswahlausschusses (§ 42 Abs. 2 Satz 1 des Bundeswahlgesetzes) oder im Fall des § 45 Abs. 3 des Bundeswahlgesetzes mit dem Tag der Annahme des Mandats im Hinblick auf den Zusammentritt des neuen Bundestages entstehen, werden ebenfalls erstattet.
 
@@ -358,11 +322,9 @@ Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistunge
 
 (8) Die Abgeordnetenentschädigung nach § 11 und die Geldleistungen nach § 12 Abs. 2 und §§ 20 bis 27 werden monatlich im voraus gezahlt. Ist nur ein Teil zu leisten, so wird für jeden Kalendertag ein Dreißigstel gezahlt.
 
+# § 33 – (weggefallen)
 
-## § 33 – (weggefallen)
-
-
-## § 34 – Ausführungsbestimmungen
+# § 34 – Ausführungsbestimmungen
 
 (1) Soweit durch Bundesgesetz dazu ermächtigt, kann der Ältestenrat Ausführungsbestimmungen zur Rechtsstellung der Mitglieder des Bundestages erlassen, die vom Präsidenten veröffentlicht werden.
 
@@ -370,8 +332,7 @@ Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistunge
 
 (3) Der Präsident veröffentlicht den Betrag der Kostenpauschale.
 
-
-## § 35 – Übergangsregelung zum Elften Änderungsgesetz
+# § 35 – Übergangsregelung zum Elften Änderungsgesetz
 
 (1) Versorgungsansprüche und Versorgungsanwartschaften, die vor dem Inkrafttreten des Elften Änderungsgesetzes entstanden sind, bleiben unberührt. § 29 Abs. 4 findet Anwendung. Die Sätze 1 und 2 gelten entsprechend für die Hinterbliebenen eines Empfängers von Altersentschädigung, wenn dieser nach Inkrafttreten des Elften Änderungsgesetzes verstirbt.
 
@@ -381,8 +342,7 @@ Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistunge
 
 (4) Die sich nach Absatz 1 bis 3 ergebende Versorgungsanwartschaft nach bisherigem Recht wird der Berechnung des Versorgungsanspruchs zugrunde gelegt, wenn sie höher ist als die Versorgungsanwartschaft, die sich nach diesem Gesetz ergibt.
 
-
-## § 35a – Übergangsregelungen zum Neunzehnten Änderungsgesetz
+# § 35a – Übergangsregelungen zum Neunzehnten Änderungsgesetz
 
 (1) Für Mitglieder, die am 22. Dezember 1995 dem Bundestag angehören, ehemalige Mitglieder des Bundestages und ihre Hinterbliebenen gelten die Regelungen des Fünften und des Neunten Abschnitts in der bis zum 22. Dezember 1995 geltenden Fassung fort. § 25b Abs. 1, 2 und 5 gilt entsprechend.
 
@@ -392,8 +352,7 @@ Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistunge
 
 (4) Mitglieder des 13. Deutschen Bundestages, auf die Absatz 1 Anwendung findet, können sich bis zu ihrem Ausscheiden aus dem Bundestag für eine Anwendung der Regelungen des Fünften Abschnitts in der Fassung des Neunzehnten Änderungsgesetzes entscheiden. Die Entscheidung ist bindend. Verstirbt das Mitglied vor Ausübung des Wahlrechts, findet die jeweils günstigere Fassung Anwendung.
 
-
-## § 35b – Übergangsregelungen zum Siebenundzwanzigsten Änderungsgesetz
+# § 35b – Übergangsregelungen zum Siebenundzwanzigsten Änderungsgesetz
 
 (1) Auf alle bis zum 31. Dezember 2007 entstandenen Ansprüche und Anwartschaften von Mitgliedern des Bundestages, ehemaligen Mitgliedern und ihren Hinterbliebenen finden die Regelungen des Fünften und des Neunten Abschnitts in der bis zum 31. Dezember 2007 geltenden Fassung Anwendung. § 19 Abs. 1 und 2, § 20 Satz 3 und § 25b Abs. 3 gelten entsprechend.
 
@@ -403,13 +362,11 @@ Ein Verzicht auf die Abgeordnetenentschädigung nach § 11 und auf die Leistunge
 
 (4) Bei der Anwendung des § 29 auf Versorgungsansprüche nach diesem Gesetz wird in den Fällen des Absatzes 1 statt der Abgeordnetenentschädigung nach § 11 ebenfalls der fiktive Bemessungsbetrag für die Altersentschädigung nach Absatz 2 zugrunde gelegt. In den Fällen, in denen sich die Versorgungsansprüche aus solchen des neuen Rechts und solchen nach Absatz 1 zusammensetzen, ist jeweils der Betrag zugrunde zu legen, der sich unter Berücksichtigung des jeweiligen prozentualen Verhältnisses ergibt, mit dem die Versorgung auf der Grundlage des fiktiven Berechnungsbetrages nach Absatz 2 und der Entschädigung nach § 11 errechnet wird.
 
-
-## § 35c – Übergangsregelungen zum Dreißigsten Änderungsgesetz
+# § 35c – Übergangsregelungen zum Dreißigsten Änderungsgesetz
 
 Auf alle bis zum Tag der ersten Sitzung des 19. Deutschen Bundestages entstandenen Ansprüche und Anwartschaften von Mitgliedern des Deutschen Bundestages, ehemaligen Mitgliedern und ihren Hinterbliebenen finden die Regelungen des Fünften und des Neunten Abschnitts in der bis zum Tag der ersten Sitzung des 19. Deutschen Bundestages geltenden Fassung Anwendung. Die §§ 35a und 35b bleiben unberührt.
 
-
-## § 36 – Übergangsregelung für die Angehörigen des öffentlichen Dienstes
+# § 36 – Übergangsregelung für die Angehörigen des öffentlichen Dienstes
 
 (1) Der auf Grund des Gesetzes über die Rechtsstellung der in den ersten Deutschen Bundestag gewählten Angehörigen des öffentlichen Dienstes vom 11. Mai 1951 (BGBl. I S. 297) oder des Gesetzes über die Rechtsstellung der in den Deutschen Bundestag gewählten Angehörigen des öffentlichen Dienstes vom 4. August 1953 (BGBl. I S. 777), zuletzt geändert durch das Gesetz vom 21. August 1961 (BGBl. I S. 1557), sowie einer entsprechenden Regelung eines Landes in den Ruhestand getretene Beamte, der in den achten Bundestag gewählt worden ist oder in einen späteren Bundestag gewählt wird, gilt mit dem Tage der Annahme der Wahl, frühestens jedoch mit dem Inkrafttreten dieses Gesetzes, wieder als in das Beamtenverhältnis unter gleichzeitigem Ruhen der Rechte und Pflichten (§ 5 Abs. 1) berufen, sofern er die allgemeinen Voraussetzungen für die Berufung in das Beamtenverhältnis noch erfüllt. Im übrigen bleiben die bis zum Inkrafttreten dieses Gesetzes nach den §§ 4 und 4a letzter Satz des Gesetzes über die Rechtsstellung der in den Deutschen Bundestag gewählten Angehörigen des öffentlichen Dienstes vom 4. August 1953 begründeten Ansprüche erhalten.
 
@@ -417,13 +374,11 @@ Auf alle bis zum Tag der ersten Sitzung des 19. Deutschen Bundestages entstanden
 
 (3) Für ehemalige Mitglieder des Bundestages bleiben die nach dem Gesetz über die Rechtsstellung der in den Deutschen Bundestag gewählten Angehörigen des öffentlichen Dienstes vom 4. August 1953 begründeten Rechte erhalten.
 
-
-## § 37 – Versorgung vor 1968 ausgeschiedener Mitglieder
+# § 37 – Versorgung vor 1968 ausgeschiedener Mitglieder
 
 Der Präsident gewährt auf Antrag einem ehemaligen Mitglied, das vor dem 1. Januar 1968 aus dem Bundestag ausgeschieden ist, sowie seinen Hinterbliebenen vom Ersten des Monats der Antragstellung an Leistungen aus der Alters- und Hinterbliebenenversorgung nach dem Diätengesetz 1968 vom 3. Mai 1968 (BGBl. I S. 334), zuletzt geändert durch Artikel VIII des Gesetzes vom 18. Februar 1977 (BGBl. I S. 297).
 
-
-## § 38 – Versorgung für Zeiten vor Inkrafttreten dieses Gesetzes
+# § 38 – Versorgung für Zeiten vor Inkrafttreten dieses Gesetzes
 
 (1) Ein Mitglied des Bundestages, das in der Zeit vom 1. Januar 1968 bis zum Inkrafttreten dieses Gesetzes ausgeschieden ist, und seine Hinterbliebenen erhalten Versorgung nach dem Diätengesetz 1968.
 
@@ -435,37 +390,31 @@ Der Präsident gewährt auf Antrag einem ehemaligen Mitglied, das vor dem 1. Jan
 
 (5) Der Antrag gemäß den Absätzen 3 und 4 ist innerhalb von sechs Monaten nach Inkrafttreten dieses Gesetzes beim Präsidenten des Bundestages zu stellen.
 
-
-## § 38a
+# § 38a
 
 (1) Versorgungsempfänger nach den §§ 37 und 38 Abs. 1 erhalten anstelle ihrer bisherigen Versorgung auf Antrag Versorgung nach dem Fünften Abschnitt. Das gleiche gilt für ehemalige Mitglieder, die dem Bundestag vor Inkrafttreten dieses Gesetzes mindestens sechs Jahre angehört haben und ihre Hinterbliebenen. § 18 Abs. 1 letzter Satz gilt entsprechend.
 
 (2) Für ehemalige Mitglieder, die vor dem 1. April 1977 aus dem Bundestag ausgeschieden sind und danach wieder eintreten, gilt § 38 Abs. 4 entsprechend. Der Antrag ist innerhalb von sechs Monaten nach dem Wiedereintritt in den Deutschen Bundestag beim Präsidenten des Bundestages zu stellen. Das gleiche gilt für Hinterbliebene.
 
-
-## § 38b – Hinterbliebenenversorgung bei Tod während der Mitgliedschaft im Bundestag
+# § 38b – Hinterbliebenenversorgung bei Tod während der Mitgliedschaft im Bundestag
 
 Hinterbliebene nach § 25 Abs. 4, deren Versorgungsfall in der Zeit vom 1. April 1977 bis zum Inkrafttreten des Siebten Änderungsgesetzes eingetreten ist, erhalten auf Antrag vom Ersten des Monats der Antragstellung an Versorgung nach § 25 Abs. 4.
 
-
-## § 39 – Anrechnung früherer Versorgungsbezüge
+# § 39 – Anrechnung früherer Versorgungsbezüge
 
 (1) Versorgungsbezüge nach dem Diätengesetz 1968 werden gemäß § 10 Diätengesetz 1968 nicht in die Anrechnung nach § 29 Abs. 3 und 4 einbezogen.
 
 (2) Versorgungsbezüge nach dem Diätengesetz 1968 werden neben einer Entschädigung oder einer Versorgung aus der Mitgliedschaft in einem Landtag (§ 29 Abs. 5 und 6) nur mit dem Teil in die Anrechnung einbezogen, der nicht auf eigenen Beiträgen beruht. Angerechnete Zeiten nach § 21 des Diätengesetzes 1968 gelten als Beitragszeiten.
 
-
-## § 40 – Gekürzte Versorgungsabfindung
+# § 40 – Gekürzte Versorgungsabfindung
 
 Für Zeiten der Mitgliedschaft unter der Geltung des Diätengesetzes 1968 wird die halbe Versorgungsabfindung nach § 23 gezahlt. In diesem Fall werden eigene Beiträge zur Versicherung nach § 4 des Diätengesetzes 1968 auf Antrag erstattet.
 
-
-## § 41 – Fortsetzung der Todesfallversicherung
+# § 41 – Fortsetzung der Todesfallversicherung
 
 Die bei Inkrafttreten dieses Gesetzes bestehende Todesfallversicherung wird mit der Maßgabe fortgesetzt, daß die zu zahlende Altersentschädigung und das Witwengeld entsprechend der Zahl und der Höhe der seit dem 1. Januar 1968 geleisteten monatlichen Beiträge der Versicherungsnehmerin zu der Todesfallversicherung gekürzt werden.
 
-
-## § 42 – Umwandlung oder Auflösung der Todesfallversicherung
+# § 42 – Umwandlung oder Auflösung der Todesfallversicherung
 
 (1) Ein Mitglied oder ehemaliges Mitglied des Bundestages, das sich nach § 20 des Diätengesetzes 1968 für die Fortsetzung der Versicherung auf Bundeskosten entschieden hat, kann die Todesfallversicherung umwandeln oder auflösen.
 
@@ -473,18 +422,15 @@ Die bei Inkrafttreten dieses Gesetzes bestehende Todesfallversicherung wird mit 
 
 (3) Bei Auflösung der Versicherung wird dem Versicherten der auf eigenen Beiträgen beruhende Rückkaufswert erstattet.
 
-
-## § 43 – Weiterzahlung des Übergangsgeldes
+# § 43 – Weiterzahlung des Übergangsgeldes
 
 Ein ehemaliges Mitglied des Bundestages, das beim Inkrafttreten dieses Gesetzes Aufwandsentschädigung nach dem Diätengesetz 1968 bezieht, behält diesen Anspruch.
 
-
-## § 44 – Anrechnung von Zeiten für das Übergangsgeld
+# § 44 – Anrechnung von Zeiten für das Übergangsgeld
 
 Zeiten der Mitgliedschaft im Bundestag, die vor Inkrafttreten dieses Gesetzes liegen, werden bei der Berechnung des Zeitraumes, für den Übergangsgeld zu zahlen ist, berücksichtigt.
 
-
-## § 44a – Ausübung des Mandats
+# § 44a – Ausübung des Mandats
 
 (1) Die Ausübung des Mandats steht im Mittelpunkt der Tätigkeit eines Mitglieds des Bundestages. Unbeschadet dieser Verpflichtung bleiben Tätigkeiten beruflicher oder anderer Art neben dem Mandat grundsätzlich zulässig.
 
@@ -496,8 +442,7 @@ Zeiten der Mitgliedschaft im Bundestag, die vor Inkrafttreten dieses Gesetzes li
 
 (5) (weggefallen)
 
-
-## § 44b – Verhaltensregeln
+# § 44b – Verhaltensregeln
 
 Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalten müssen über
 
@@ -511,8 +456,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 5. das Verfahren sowie die Befugnisse und Pflichten des Präsidiums und des Präsidenten bei Verstößen gegen Regeln der Mitarbeiterbeschäftigung nach § 12 Absatz 3a und Entscheidungen nach § 44a Abs. 3 und 4.
 
-
-## § 44c – Überprüfung auf Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
+# § 44c – Überprüfung auf Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
 
 (1) Mitglieder des Bundestages können beim Präsidenten schriftlich die Überprüfung auf eine hauptamtliche oder inoffizielle Tätigkeit oder politische Verantwortung für den Staatssicherheitsdienst der ehemaligen Deutschen Demokratischen Republik beantragen.
 
@@ -522,8 +466,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (4) Das Verfahren zur Feststellung einer Tätigkeit oder Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik legt der Deutsche Bundestag in Richtlinien fest.
 
-
-## § 44d – Verschwiegenheitspflicht und Aussagegenehmigung
+# § 44d – Verschwiegenheitspflicht und Aussagegenehmigung
 
 (1) Die Abgeordneten des Deutschen Bundestages dürfen, auch nach Beendigung ihres Mandats, ohne Genehmigung weder vor Gericht noch außergerichtlich Aussagen oder Erklärungen abgeben über Angelegenheiten, die auf Grund eines Gesetzes oder nach den Bestimmungen der Geschäftsordnung des Deutschen Bundestages der Verschwiegenheit unterliegen.
 
@@ -531,8 +474,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (3) Die Genehmigung darf nur versagt werden, wenn die Aussage oder Erklärung dem Wohl des Bundes oder eines Landes Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich gefährden oder erheblich erschweren würde.
 
-
-## § 44e – Ordnungsmaßnahmen gegen Mitglieder
+# § 44e – Ordnungsmaßnahmen gegen Mitglieder
 
 ((1) Wegen einer nicht nur geringfügigen Verletzung der Ordnung oder der Würde des Bundestages bei dessen Sitzungen kann der Präsident gegen ein Mitglied des Bundestages ein Ordnungsgeld in Höhe von 1 000 Euro festsetzen. Im Wiederholungsfall erhöht sich das Ordnungsgeld auf 2 000 Euro. Bei gröblicher Verletzung der Ordnung oder der Würde des Bundestages kann das Mitglied für die Dauer der Sitzung aus dem Saal verwiesen und bis zu 30 Sitzungstage von der Teilnahme an Sitzungen des Bundestages und seiner Gremien ausgeschlossen werden. Das Nähere regelt die Geschäftsordnung des Bundestages.
 
@@ -540,15 +482,13 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (3) Zuständiges Gericht für Streitigkeiten über Maßnahmen und Entscheidungen nach den Absätzen 1 und 2 ist das Bundesverfassungsgericht.
 
-
-## § 45 – Fraktionsbildung
+# § 45 – Fraktionsbildung
 
 (1) Mitglieder des Bundestages können sich zu Fraktionen zusammenschließen.
 
 (2) Das Nähere regelt die Geschäftsordnung des Deutschen Bundestages.
 
-
-## § 46 – Rechtsstellung
+# § 46 – Rechtsstellung
 
 (1) Die Fraktionen sind rechtsfähige Vereinigungen von Abgeordneten im Deutschen Bundestag.
 
@@ -556,8 +496,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (3) Die Fraktionen sind nicht Teil der öffentlichen Verwaltung; sie üben keine öffentliche Gewalt aus.
 
-
-## § 47 – Aufgaben
+# § 47 – Aufgaben
 
 (1) Die Fraktionen wirken an der Erfüllung der Aufgaben des Deutschen Bundestages mit.
 
@@ -565,15 +504,13 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (3) Die Fraktionen und ihre Mitglieder können die Öffentlichkeit über ihre Tätigkeit unterrichten.
 
-
-## § 48 – Organisation
+# § 48 – Organisation
 
 (1) Die Fraktionen sind verpflichtet, ihre Organisation und Arbeitsweise auf den Grundsätzen der parlamentarischen Demokratie aufzubauen und an diesen auszurichten.
 
 (2) Die Fraktionen geben sich eine eigene Geschäftsordnung.
 
-
-## § 49 – Geheimhaltungspflicht der Fraktionsangestellten
+# § 49 – Geheimhaltungspflicht der Fraktionsangestellten
 
 (1) Angestellte der Fraktionen sind, auch nach Beendigung ihres Beschäftigungsverhältnisses, verpflichtet, über die ihnen bei ihrer Tätigkeit bekanntgewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
@@ -581,8 +518,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (3) Unberührt bleibt die gesetzlich begründete Pflicht, Straftaten anzuzeigen und bei Gefährdung der freiheitlich demokratischen Grundordnung für deren Erhaltung einzutreten.
 
-
-## § 50 – Geld- und Sachleistungen
+# § 50 – Geld- und Sachleistungen
 
 (1) Die Fraktionen haben zur Erfüllung ihrer Aufgaben Anspruch auf Geld- und Sachleistungen aus dem Bundeshaushalt.
 
@@ -594,8 +530,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (5) Geldleistungen nach Absatz 1 können auf neue Rechnung vorgetragen werden.
 
-
-## § 51 – Haushalts- und Wirtschaftsführung, Buchführung
+# § 51 – Haushalts- und Wirtschaftsführung, Buchführung
 
 (1) Einzelheiten der Haushalts- und Wirtschaftsführung werden in Ausführungsbestimmungen geregelt, die der Ältestenrat nach Anhörung des Bundesrechnungshofes erläßt.
 
@@ -605,8 +540,7 @@ Der Bundestag gibt sich Verhaltensregeln, die insbesondere Bestimmungen enthalte
 
 (4) Die Rechnungsunterlagen sind fünf Jahre aufzubewahren.
 
-
-## § 52 – Rechnungslegung
+# § 52 – Rechnungslegung
 
 (1) Die Fraktionen haben über die Herkunft und die Verwendung der Mittel, die ihnen innerhalb eines Kalenderjahres (Rechnungsjahr) gemäß § 50 Abs. 1 zugeflossen sind, öffentlich Rechenschaft zu geben.
 
@@ -664,15 +598,13 @@ e) Rechnungsabgrenzung.
 
 (5) Solange eine Fraktion mit der Rechnungslegung in Verzug ist, sind Geld- und Sachleistungen nach § 50 Abs. 1 zurückzubehalten.
 
-
-## § 53 – Rechnungsprüfung
+# § 53 – Rechnungsprüfung
 
 (1) Der Bundesrechnungshof prüft die Rechnung sowie die den Fraktionen nach § 50 Abs. 1 zur Verfügung gestellten Geld- und Sachleistungen auf ihre wirtschaftliche und ordnungsgemäße Verwendung nach Maßgabe der Ausführungsbestimmungen gemäß § 51 Abs. 1.
 
 (2) Bei der Prüfung sind die Rechtsstellung und die Aufgaben der Fraktionen zu beachten. Die politische Erforderlichkeit einer Maßnahme der Fraktionen ist nicht Gegenstand der Prüfung.
 
-
-## § 54 – Beendigung der Rechtsstellung und Liquidation
+# § 54 – Beendigung der Rechtsstellung und Liquidation
 
 (1) Die Rechtsstellung nach § 46 entfällt
 
@@ -694,7 +626,6 @@ e) Rechnungsabgrenzung.
 
 (7) Im Falle des Absatzes 1 Nr. 3 findet eine Liquidation nicht statt, wenn sich innerhalb von 30 Tagen nach Beginn der neuen Wahlperiode eine Fraktion konstituiert, deren Mitglieder einer Partei angehören, die durch eine Fraktion in der abgelaufenen Wahlperiode im Deutschen Bundestag vertreten war und die sich zur Nachfolgefraktion erklärt. In diesem Fall ist die neu konstituierte Fraktion die Rechtsnachfolgerin der alten Fraktion.
 
-
-## § 55 – (weggefallen)
+# § 55 – (weggefallen)
 
 \-

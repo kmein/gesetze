@@ -1,27 +1,21 @@
-# [OrthoptAPrV] Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten  (OrthoptAPrV)
-
-Ausfertigungsdatum: 21.03.1990
-
+% Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten  (OrthoptAPrV)
+% Ausfertigungsdatum: 21.03.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 des Orthoptistengesetzes vom 28. November 1989 (BGBl. I S. 2061) verordnet der Bundesminister für Jugend, Familie, Frauen und Gesundheit im Benehmen mit dem Bundesminister für Bildung und Wissenschaft:
 
-
-## § 1 – Ausbildung
+# § 1 – Ausbildung
 
 Die dreijährige Ausbildung für Orthoptistinnen und Orthoptisten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht und die in Anlage 2 aufgeführte praktische Ausbildung.
 
-
-## § 2 – Staatliche Prüfung
+# § 2 – Staatliche Prüfung
 
 (1) Die staatliche Prüfung umfaßt einen schriftlichen, einen mündlichen und einen praktischen Teil.
 
 (2) Der Prüfling legt die Prüfung bei der Schule ab, an der er die Ausbildung abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören. Bei Personen, die beantragen, die Prüfung auf Grund des § 11 Abs. 4 des Orthoptistengesetzes abzulegen, bestimmt die zuständige Behörde den zuständigen Prüfungsausschuß.
 
-
-## § 3 – Prüfungsausschuß
+# § 3 – Prüfungsausschuß
 
 (1) Bei den Schulen werden Prüfungsausschüsse gebildet, die jeweils aus folgenden Mitgliedern bestehen:
 
@@ -43,8 +37,7 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (3) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 4 – Zulassung zur Prüfung
+# § 4 – Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleitung fest. Der Prüfungstermin soll nicht früher als zwei Monate vor dem Ende der Ausbildung liegen.
 
@@ -60,8 +53,7 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (5) Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 5 – Schriftlicher Teil der Prüfung
+# § 5 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -84,8 +76,7 @@ Der Prüfling hat aus diesen Fächern in je einer Aufsichtsarbeit schriftlich ge
 | "mangelhaft" (5)   | bei Werten von mehr als 4,0 bis 5,0, |
 | "ungenügend" (6)   | bei Werten von über 5,0.             |
 
-
-## § 6 – Mündlicher Teil der Prüfung
+# § 6 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -111,8 +102,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den einz
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
-
-## § 7 – Praktischer Teil der Prüfung
+# § 7 – Praktischer Teil der Prüfung
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling unter Aufsicht zwei ihm unbekannte Patienten zu untersuchen. Dabei soll er auch seine Kenntnisse in der Anwendung orthoptischer und pleoptischer Geräte nachweisen. Für einen dieser Patienten sind der Untersuchungsablauf, das Untersuchungsergebnis und der Behandlungsvorschlag vom Prüfling schriftlich niederzulegen.
 
@@ -120,13 +110,11 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den einz
 
 (3) § 6 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 8 – Niederschrift
+# § 8 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 9 – Benotung
+# § 9 – Benotung
 
 Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und der praktischen Prüfung werden wie folgt benotet:  
 "sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,  
@@ -136,8 +124,7 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 "mangelhaft" (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,  
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 10 – Bestehen und Wiederholung der Prüfung
+# § 10 – Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn der schriftliche, der mündliche und der praktische Teil der Prüfung mit mindestens "ausreichend" benotet werden.
 
@@ -147,42 +134,35 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 (4) Hat der Prüfling den praktischen Teil der Prüfung zu wiederholen, so darf er zur Prüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses im Benehmen mit den Fachprüfern bestimmt werden. Ein Nachweis über die Teilnahme an der weiteren Ausbildung ist dem Antrag des Prüflings auf Zulassung zur Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
-## § 11 – Rücktritt von der Prüfung
+# § 11 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück, so hat er die Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, so gilt die Prüfung als nicht unternommen. Die Genehmigung ist zu erteilen, wenn wichtige Gründe vorliegen. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterläßt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 10 Abs. 3 gilt entsprechend.
 
-
-## § 12 – Versäumnisfolgen
+# § 12 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, so gilt die Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 10 Abs. 3 gilt entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft der Vorsitzende des Prüfungsausschusses. § 11 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
-## § 13 – Ordnungsverstöße und Täuschungsversuche
+# § 13 – Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuches schuldig gemacht haben, den betreffenden Teil der Prüfung für "nicht bestanden" erklären; § 10 Abs. 3 gilt entsprechend. Eine solche Entscheidung ist im Falle der Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluß der Prüfung zulässig.
 
-
-## § 14 – Prüfungsunterlagen
+# § 14 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 15 – Erlaubnisurkunde
+# § 15 – Erlaubnisurkunde
 
 Liegen die Voraussetzungen des Orthoptistengesetzes für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung "Orthoptistin" oder "Orthoptist" vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
-
-## § 15a – Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
+# § 15a – Überleitungsregelung aus Anlaß der Herstellung der Einheit Deutschlands
 
 Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages genannten Gebiet ab dem 1. September 1991 Anwendung.
 
-
-## § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+# § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Orthoptistengesetzes beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem des Orthoptisten entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des Orthoptistengesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 dieses Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -196,8 +176,7 @@ Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages genannten Gebie
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Orthoptistengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 2 Absatz 3 Satz 7 des Orthoptistengesetzes erworben haben.
 
@@ -207,8 +186,7 @@ Die Verordnung findet in dem in Artikel 3 des Einigungsvertrages genannten Gebie
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 8a Absatz 3 Satz 6 des Orthoptistengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Orthoptistengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 2 Satz 5 des Orthoptistengesetzes vorliegenden Umstände nicht durchgeführt wird.
 
@@ -234,8 +212,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 7 erteilt.
 
-
-## § 16c – Fristen, Bescheide, Durchführungsbestimmungen
+# § 16c – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis als Orthoptistin oder Orthoptist nach § 1 Absatz 1 des Orthoptistengesetzes in Verbindung mit § 2 Absatz 2, 3, 3a oder Absatz 4 des Orthoptistengesetzes kurzfristig, spätestens vier Monate, nach Vorlage der für Entscheidungen nach § 2 des Orthoptistengesetzes erforderlichen Unterlagen zu entscheiden. Im Falle des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -251,18 +228,15 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (3) Die Prüfungen nach § 16a Absatz 3 und § 16b Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in den §§ 16a und 16b nichts anderes bestimmt ist, gelten die §§ 8, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1)
+# Anlage 1 – (zu § 1)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 566 - 568
 
@@ -896,8 +870,7 @@ Mindeststunden insgesamt
 
 1.700
 
-
-## Anlage 2 – (zu § 1)
+# Anlage 2 – (zu § 1)
 
 Fundstelle des Originaltextes: BGBl. I 1990, 569
 
@@ -955,8 +928,7 @@ Mindeststunden
 
 2.800
 
-
-## Anlage 3 – (zu § 4 Abs. 2 Nr. 1)
+# Anlage 3 – (zu § 4 Abs. 2 Nr. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 569)
 
@@ -991,8 +963,7 @@ Mindeststunden
     --------------
     *) Nichtzutreffendes streichen. 
 
-
-## Anlage 4 – (zu § 10 Abs. 2 Satz 1)
+# Anlage 4 – (zu § 10 Abs. 2 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 570)
 
@@ -1024,13 +995,11 @@ Mindeststunden
     .............................................
                    (Unterschrift) 
 
-
-## Anlage 4a – (zu § 16a Absatz 2)
+# Anlage 4a – (zu § 16a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 917)
 
-.....................................................................................................  
-
+..................................................................................................... 
 (Bezeichnung der Einrichtung)
 
 Bescheinigung  
@@ -1038,24 +1007,20 @@ Bescheinigung
 
 Name, Vorname
 
-..............................................................................................................  
-Geburtsdatum        Geburtsort
+.............................................................................................................. Geburtsdatum        Geburtsort
 
 .............................................................................................................
 
-hat in der Zeit vom ....................................... bis .......................................  
-regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+hat in der Zeit vom ....................................... bis ....................................... regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
 
 Ort, Datum
 
 .....................................................................................  (Stempel)
 
-.....................................................................................  
-
+..................................................................................... 
 Unterschrift(en) der Einrichtung
 
-
-## Anlage 4b – (zu § 16a Absatz 3)
+# Anlage 4b – (zu § 16a Absatz 3)
 
 (Fundstelle: BGBl. I 2016, 917)
 
@@ -1072,8 +1037,7 @@ für
 
 Name, Vorname
 
-.........................................................................................................  
-Geburtsdatum        Geburtsort
+......................................................................................................... Geburtsdatum        Geburtsort
 
 ........................................................................................................
 
@@ -1092,12 +1056,10 @@ Ort, Datum
 
 .................................................................................... (Siegel)
 
-....................................................................................  
-
+.................................................................................... 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
-
-## Anlage 5 – (zu § 15)
+# Anlage 5 – (zu § 15)
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 571)
 
@@ -1127,8 +1089,6 @@ Ort, Datum
     --------------
     *) Nichtzutreffendes streichen. 
 
+# Anlage 6 – (zu § 16b Absatz 2)
 
-## Anlage 6 – (zu § 16b Absatz 2)
-
-
-## Anlage 7 – (zu § 16a Absatz 7)
+# Anlage 7 – (zu § 16a Absatz 7)

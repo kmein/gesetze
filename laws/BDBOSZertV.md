@@ -1,20 +1,15 @@
-# [BDBOSZertV] Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endgeräte durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben  (BDBOS-Zertifizierungsverordnung - BDBOSZertV)
-
-Ausfertigungsdatum: 17.12.2010
-
+% Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endgeräte durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben  (BDBOS-Zertifizierungsverordnung - BDBOSZertV)
+% Ausfertigungsdatum: 17.12.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15b Absatz 1 Satz 1 des BDBOS-Gesetzes, der durch Artikel 1 Nummer 3 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2251) eingefügt worden ist, verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Gegenstand der Zertifizierung
+# § 1 – Gegenstand der Zertifizierung
 
 Gegenstand der Zertifizierung sind Endgeräte mit bestimmten, das Endgerät identifizierenden Hardware- und Software-Eigenschaften, die zur Verwendung im Digitalfunk BOS vorgesehen sind. Bei Funkleitstellen, die funktional direkt auf die Leitstellenschnittstelle wirken, werden nur die unmittelbar dazu verwendeten Hardware- und Software-Komponenten als Leitstellenbestandteil zertifiziert.
 
-
-## § 2 – Antrag
+# § 2 – Antrag
 
 (1) Die Erteilung eines Zertifikats durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Bundesanstalt) erfolgt auf schriftlichen oder elektronischen Antrag des Herstellers oder Lieferanten. Ein schriftlicher Antrag ist auch in einer elektronischen Fassung zu übermitteln. Für einen solchen Antrag sind ausschließlich die von der Bundesanstalt veröffentlichten Antragsformulare zu verwenden. Der Antrag muss Folgendes enthalten:
 
@@ -58,8 +53,7 @@ e) Software-Versionsnummer,
 
 (4) Die Bundesanstalt soll die Anträge in der Reihenfolge ihres Eingangs bearbeiten.
 
-
-## § 3 – Änderungszertifizierung
+# § 3 – Änderungszertifizierung
 
 (1) Eine Änderungszertifizierung kann nur erfolgen
 
@@ -79,8 +73,7 @@ und sofern gleichzeitig sichergestellt ist, dass das Endgerät auch weiterhin di
 
 (4) Nach vier aufeinanderfolgenden Änderungszertifizierungen ist eine weitere Änderungszertifizierung ausgeschlossen.
 
-
-## § 4 – Anzeige unwesentlicher Änderungen nach § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes
+# § 4 – Anzeige unwesentlicher Änderungen nach § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes
 
 (1) Anzeigen gemäß § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes sind unverzüglich durch Hersteller oder Lieferanten vorzunehmen, spätestens jedoch unmittelbar nach Vornahme der Änderung. Die Bundesanstalt kann für die Gestaltung der Anzeige verbindliche Vorgaben machen.
 
@@ -88,8 +81,7 @@ und sofern gleichzeitig sichergestellt ist, dass das Endgerät auch weiterhin di
 
 (3) Die Bundesanstalt entscheidet nach Eingang der Anzeige, ob eine unwesentliche Änderung vorliegt. Die Änderung gilt als unwesentlich, wenn die Bundesanstalt nicht innerhalb einer Frist von drei Monaten eine abweichende Entscheidung trifft. Handelt es sich um eine wesentliche Änderung, teilt die Bundesanstalt dies dem Hersteller oder Lieferanten unter Hinweis auf § 15a Absatz 1 Satz 1 und Absatz 3 des BDBOS-Gesetzes schriftlich mit.
 
-
-## § 5 – Anforderungen und Prüfkriterien; BOS-IOP-Richtlinien
+# § 5 – Anforderungen und Prüfkriterien; BOS-IOP-Richtlinien
 
 (1) Soweit sich die Anforderungen an die Endgeräte nicht bereits aus anderen öffentlich-rechtlichen Vorschriften ergeben, werden sie von der Bundesanstalt festgelegt. Die Bundesanstalt legt außerdem die Prüfkriterien fest, anhand derer nachgewiesen wird, ob ein Endgerät die Anforderungen erfüllt. Die Bundesanstalt kann festlegen, welche technischen Regelwerke als allgemein anerkannte Regeln der Technik anzuwenden sind.
 
@@ -103,8 +95,7 @@ und sofern gleichzeitig sichergestellt ist, dass das Endgerät auch weiterhin di
 
 4. die Prüfkriterien, anhand derer die Einhaltung der Anforderungen nach § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes nachgewiesen wird.
 
-
-## § 6 – Veröffentlichung nicht allgemein zugänglicher Informationen
+# § 6 – Veröffentlichung nicht allgemein zugänglicher Informationen
 
 (1) Die Bundesanstalt veröffentlicht folgende Informationen in einem geschützten Bereich auf ihrer Internetseite und stellt sie auf schriftliche Anfrage zur Verfügung:
 
@@ -118,8 +109,7 @@ Auf die erstmalige Veröffentlichung und jede Änderung der in Satz 1 aufgeführ
 
 (2) Für die Behörden und Organisationen mit Sicherheitsaufgaben, die nach § 3 Absatz 2 der Bestimmungen für Frequenzzuteilungen zur Nutzung für das Betreiben von digitalen Funkanlagen der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) im Frequenzbereich 380 – 385 MHz sowie 390 – 395 MHz (Funkrichtlinie Digitalfunk BOS) in Verbindung mit § 4 Absatz 1 der Bestimmungen für Frequenzzuteilungen zur Nutzung für das Betreiben von Funkanlagen der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) (BOS-Funkrichtlinie) in der jeweils geltenden Fassung zur Nutzung des Digitalfunks BOS berechtigt sind, erfolgt der Zugang zu den in Absatz 1 genannten Informationen über zuvor benannte Ansprechstellen von Bund und Ländern. Der Bund und jedes der Länder können der Bundesanstalt hierfür jeweils bis zu drei Ansprechstellen benennen. Die Bundesanstalt kann die Benennung von weiteren Ansprechstellen zulassen, wenn dies auf Grund besonderer Umstände erforderlich ist. Hersteller, Lieferanten und sachverständige Prüfstellen erhalten Zugang zu den in Absatz 1 genannten Informationen, wenn sie ein berechtigtes Interesse und die Einhaltung der notwendigen Sicherheitsvorkehrungen, insbesondere die Berechtigung zur Einsicht in Verschlusssachen, nachweisen. Ein Zugang ist ausgeschlossen, wenn ihm überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, entgegenstehen.
 
-
-## § 7 – Überprüfung der Endgeräte
+# § 7 – Überprüfung der Endgeräte
 
 (1) Die Endgeräte werden in technischer Hinsicht durch eine sachverständige Prüfstelle geprüft (Überprüfung). Dabei sind die Prüfkriterien zugrunde zu legen, die in den zum Zeitpunkt des Antrags auf Durchführung der Überprüfung aktuellen BOS-IOP-Richtlinien oder deren unmittelbarer Vorversion festgelegt sind. Hinsichtlich des Umfangs der Anforderungen, die an die Endgeräte zu stellen sind, können auch ältere Versionen der BOS-IOP-Richtlinien zugrunde gelegt werden, sofern diese noch dem Stand der Technik entsprechen. Die Ergebnisse der Überprüfung sind in dem BOS-Prüfbericht nach § 2 Absatz 1 Satz 4 Nummer 9 festzuhalten.
 
@@ -127,15 +117,13 @@ Auf die erstmalige Veröffentlichung und jede Änderung der in Satz 1 aufgeführ
 
 (3) Abweichend von Absatz 1 Satz 1 kann der Antragsteller mit seinem Antrag auf Zertifizierung die Überprüfung des Endgerätes durch die Bundesanstalt beantragen, wenn im Einzelfall keine geeignete Prüfstelle zur Verfügung steht, die die Einhaltung der Anforderungen gemäß § 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes überprüfen kann.
 
-
-## § 8 – Mitwirkungspflichten des Antragstellers
+# § 8 – Mitwirkungspflichten des Antragstellers
 
 (1) Der Antragsteller hat der Bundesanstalt spätestens mit dem Antrag auf Erteilung eines Zertifikats unentgeltlich zwei Einzelstücke des zu zertifizierenden Endgerätes mit Kundendokumentation sowie die für dessen Betrieb notwendigen Einrichtungen zu übergeben und die erforderlichen Nutzungsrechte einzuräumen. Satz 1 findet keine Anwendung, wenn es sich bei dem Endgerät um einen Bestandteil einer Funkleitstelle im Sinne des § 1 Satz 2 handelt.
 
 (2) Der Antragsteller wirkt an der Zertifizierung im erforderlichen Umfang mit, insbesondere durch Auskünfte und das Bereitstellen von Unterlagen zur Überprüfung nach § 7. Er stellt die erforderliche Mitwirkung Dritter, insbesondere der von ihm beauftragten Prüfstelle, sicher.
 
-
-## § 9 – Zertifikat
+# § 9 – Zertifikat
 
 (1) Ein Endgerät wird zertifiziert, wenn es die in § 15a Absatz 1 Satz 3 des BDBOS-Gesetzes genannten Anforderungen erfüllt.
 
@@ -155,17 +143,14 @@ Auf die erstmalige Veröffentlichung und jede Änderung der in Satz 1 aufgeführ
 
 (6) Die Erteilung des Zertifikats wird dem Antragsteller schriftlich bekannt gegeben. Die Erteilung des Zertifikats sowie die Angaben nach Absatz 2 Nummer 1 und 3 werden auf der Internetseite der Bundesanstalt veröffentlicht. Den Ansprechstellen, die der Bund und die Länder gegenüber der Bundesanstalt benannt haben, werden auch die übrigen in den Absätzen 2 bis 5 genannten Angaben zugänglich gemacht. Sachverständige Prüfstellen erhalten nur dann Zugang zu den in Satz 3 genannten Angaben, wenn sie ein berechtigtes Interesse nachweisen; zu einer Weitergabe dieser Angaben an Dritte sind sie nicht berechtigt. Ein Zugang ist ausgeschlossen, wenn ihm überwiegende öffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, entgegenstehen.
 
-
-## § 10 – Rückgabe von Einzelstücken
+# § 10 – Rückgabe von Einzelstücken
 
 Im Fall der vollständigen Versagung des Zertifikats gibt die Bundesanstalt eines der nach § 8 Absatz 1 Satz 1 abgelieferten Einzelstücke an den Antragsteller zurück. Bei Rücknahme des Antrags gibt die Bundesanstalt beide Einzelstücke an den Antragsteller zurück. Die Rückgabe nach Satz 1 oder 2 erfolgt am Sitz der Bundesanstalt.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Die Übergangsfrist gemäß § 15a Absatz 5 Satz 1 des BDBOS-Gesetzes endet am 31. Dezember 2011.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

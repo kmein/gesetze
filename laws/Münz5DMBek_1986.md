@@ -1,15 +1,11 @@
-# [Münz5DMBek 1986] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 600jähriges Bestehen der Ruprecht-Karls-Universität Heidelberg)
-
-Ausfertigungsdatum: 20.05.1986
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 600jähriges Bestehen der Ruprecht-Karls-Universität Heidelberg)
+% Ausfertigungsdatum: 20.05.1986
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, aus Anlaß des 600jährigen Bestehens der Ruprecht-Karls-Universität Heidelberg im Jahre 1986 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt im Bayerischen Hauptmünzamt München.
 
-(2) Die Münze wird ab 24. Juni 1986 in den Verkehr gebracht.  
-Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung (75 Prozent Kupfer und 25 Prozent Nickel). Sie enthält einen Reinnickelkern. Der Durchmesser beträgt 29 Millimeter, das Gewicht 10 Gramm.
+(2) Die Münze wird ab 24. Juni 1986 in den Verkehr gebracht. Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung (75 Prozent Kupfer und 25 Prozent Nickel). Sie enthält einen Reinnickelkern. Der Durchmesser beträgt 29 Millimeter, das Gewicht 10 Gramm.
 
 (3) Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.
 
@@ -29,12 +25,10 @@ Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung (75 Prozent Ku
 
 (7) Zwischen Ende und Anfang der Randschrift ist eine liegende Raute eingeprägt.
 
-(8) Der Entwurf der Münze stammt von Heinrich Körner, Esslingen.  
-  
+(8) Der Entwurf der Münze stammt von Heinrich Körner, Esslingen.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung,  
 Fundstelle: BGBl I 1986, 774)

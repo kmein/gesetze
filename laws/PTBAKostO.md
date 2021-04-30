@@ -1,27 +1,21 @@
-# [PTBAKostO] Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
-
-Ausfertigungsdatum: 17.12.1970
-
+% Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
+% Ausfertigungsdatum: 17.12.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 31 des Eichgesetzes vom 11. Juli 1969 (Bundesgesetzbl. I S. 759) wird verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Physikalisch-Technische Bundesanstalt (Bundesanstalt) erhebt für ihre Nutzleistungen Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Nutzleistungen im Sinne dieser Verordnung sind Kalibrierungen, Messungen, Prüfungen, Konformitätsbewertungen, Begutachtungen und Beratungen, zu deren Inanspruchnahme der Gebührenschuldner gesetzlich nicht verpflichtet ist.
 
-
-## § 1a – Gebühr in besonderen Fällen
+# § 1a – Gebühr in besonderen Fällen
 
 Gebühren werden auch für Nutzleistungen erhoben, die nicht begonnen oder nicht zu Ende geführt worden sind, wenn die Gründe von demjenigen zu vertreten sind, der die Nutzleistung veranlaßt hat.
 
-
-## § 2 – Berechnung der Gebühr
+# § 2 – Berechnung der Gebühr
 
 Die Gebühr wird nach dem Zeitaufwand (§ 3) berechnet, in den Fällen der §§ 4 bis 6 zuzüglich einem Entgelt für
 
@@ -33,8 +27,7 @@ Die Gebühr wird nach dem Zeitaufwand (§ 3) berechnet, in den Fällen der §§ 
 
 Für häufig wiederkehrende Nutzleistungen werden statt der Gebühr nach § 3 Festgebühren nach § 3a erhoben.
 
-
-## § 3 – Gebühr nach Zeitaufwand, Reise- und Wartezeiten
+# § 3 – Gebühr nach Zeitaufwand, Reise- und Wartezeiten
 
 (1) Die Gebühr wird auf der Grundlage der in der Anlage 1 zu dieser Kostenverordnung für die einzelnen Tätigkeitsbereiche aufgeführten Stundensätze nach Zeitaufwand berechnet. Der Zeitaufwand wird in Stunden ermittelt. Angefangene Stunden werden anteilig erfasst. Dabei ist auf volle Viertelstunden aufzurunden.
 
@@ -54,33 +47,27 @@ Für häufig wiederkehrende Nutzleistungen werden statt der Gebühr nach § 3 Fe
 
 2. Wartezeiten, die vom Kostenschuldner verursacht worden sind.
 
-
-## § 3a – Festgebühr bei häufig wiederkehrenden Leistungen
+# § 3a – Festgebühr bei häufig wiederkehrenden Leistungen
 
 Für häufig wiederkehrende Nutzleistungen in den einzelnen Tätigkeitsbereichen werden Festgebühren gemäß der Anlage 2 erhoben.
 
-
-## § 4 – Sonderaufwendungen
+# § 4 – Sonderaufwendungen
 
 Erfordert die Nutzleistung überdurchschnittliche Aufwendungen für Material, Energie, besondere Prüfanlagen, Meß- und Hilfseinrichtungen oder andere Vorkehrungen oder Hilfsmittel oder verursacht die Nutzleistung sonstige überdurchschnittliche Kosten, so sind diese Sonderaufwendungen entsprechend den Selbstkosten zu berechnen.
 
-
-## § 5 – Überlassung von Anlagen und Geräten auf Zeit
+# § 5 – Überlassung von Anlagen und Geräten auf Zeit
 
 Die Überlassung von Anlagen und Geräten auf Zeit ist entsprechend den Selbstkosten zu berechnen.
 
-
-## § 6 – Beschleunigt erbrachte Nutzleistungen
+# § 6 – Beschleunigt erbrachte Nutzleistungen
 
 Wird eine Nutzleistung wegen besonderer Dringlichkeit auf Antrag außer der Reihe der laufenden Arbeiten erbracht, so kann ein Zuschlag von höchstens 100 vom Hundert der nach den §§ 3 bis 5 errechneten Gebühr erhoben werden.
 
-
-## § 7 – Ermäßigung der Gebühr
+# § 7 – Ermäßigung der Gebühr
 
 Ergibt die Berücksichtigung des wirtschaftlichen Wertes der Nutzleistung für den Antragsteller im Einzelfall, daß die nach den §§ 3 bis 5 errechnete Gebühr unverhältnismäßig hoch ist, so kann sie um einen angemessenen Betrag ermäßigt werden.
 
-
-## § 8 – Auslagen
+# § 8 – Auslagen
 
 Als Auslagen sind zu erstatten:
 
@@ -92,16 +79,13 @@ Als Auslagen sind zu erstatten:
 
 4. Aufwendungen für Lieferungen und Leistungen Dritter.
 
+# §§ 10 bis 17 – (weggefallen)
 
-## §§ 10 bis 17 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage 1 – (zu § 3)
+# Anlage 1 – (zu § 3)
 
 (Fundstelle: BGBl I 2018, 1877 - 1878)
 
@@ -298,8 +282,7 @@ Wissenschaftlicher Gerätebau und andere Organisationseinheiten mit geringer bis
 Gesetzliches Messwesen und Konformitätsbewertung;  
 Industrielles Messwesen; Internationale Zusammenarbeit
 
-
-## Anlage 2 – (zu § 3a)
+# Anlage 2 – (zu § 3a)
 
 (Fundstelle: BGBl I 2018, 1879 - 1890)
 

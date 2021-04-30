@@ -1,37 +1,29 @@
-# [ZISAG] Gesetz zur Ausführung des Beschlusses 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich sowie zur Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung  (ZIS-Ausführungsgesetz)
-
-Ausfertigungsdatum: 31.03.2004
-
+% Gesetz zur Ausführung des Beschlusses 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich sowie zur Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung  (ZIS-Ausführungsgesetz)
+% Ausfertigungsdatum: 31.03.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 Für Schadenersatzansprüche nach Artikel 30 des Beschlusses 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom 10.12.2009, S. 20, L 234 vom 4.9.2010, S. 17) sowie für Schadensersatzansprüche nach Artikel 40 Absatz 2 der Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung (ABl. L 82 vom 22.3.1997, S. 1), die zuletzt durch die Verordnung (EG) Nr. 766/2008 (ABl. L 218 vom 13.8.2008, S. 48) geändert worden ist, haftet die Bundesrepublik Deutschland. Ansprüche nach Satz 1 sind gegenüber der Bundesrepublik Deutschland, vertreten durch die Generalzolldirektion, geltend zu machen.
 
-
-## § 2
+# § 2
 
 Das Verzeichnis der Zuwiderhandlungen im Sinne des Artikels 15 Absatz 3 Satz 1 des Beschlusses 2009/917/JI enthält ausschließlich zollstrafrechtliche Vorschriften in den in Artikel 2 Nummer 1 dieses Beschlusses genannten Bereichen, die mit einer Freiheitsstrafe oder einer die Freiheit beschränkenden Maßnahme der Sicherung und Besserung mit einem Höchstmaß von mindestens zwölf Monaten bedroht sind. Das Bundesministerium der Finanzen erstellt durch Rechtsverordnung das Verzeichnis nach Satz 1.
 
-
-## § 3
+# § 3
 
 (1) Die Generalzolldirektion, die Zollfahndungsämter und die Hauptzollämter dürfen dienstlich erlangte Informationen einschließlich personenbezogener Daten im Zollinformationssystem nach dem Beschluss 2009/917/JI sowie nach der Verordnung (EG) Nr. 515/97 im automatisierten Verfahren erfassen.
 
 (2) Die Daten werden nur erfasst, soweit dies für die Erreichung des mit diesen Datenbanken verfolgten Ziels erforderlich ist und eine Gefährdung des Untersuchungszwecks nicht zu besorgen ist. § 480 Absatz 1 Satz 1 und 2 der Strafprozessordnung findet Anwendung.
 
-
-## § 4
+# § 4
 
 Das Bundeskriminalamt ist berechtigt, Daten aus dem Aktennachweissystem für Zollzwecke im automatisierten Verfahren abzurufen, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist.
 
-
-## § 5
+# § 5
 
 (1) Die im Aktennachweissystem für Zollzwecke gespeicherten Daten zu natürlichen Personen sind zu löschen nach Ablauf
 
@@ -49,8 +41,7 @@ Die Fristen nach Satz 1 Nr. 2 bis 4 beginnen mit dem Tag, an dem die Daten erstm
 
 (3) Bei einer Einstellung nach den §§ 153a, 153c der Strafprozessordnung kann eine Löschung nach Absatz 2 unterbleiben. Absatz 1 Satz 1 Nummer 3 und Satz 2 gilt entsprechend.
 
-
-## § 6
+# § 6
 
 (1) Die in Artikel 16 Absatz 1 Satz 1 und Absatz 2 Buchstabe b) des Beschlusses 2009/917/JI genannten Daten zu Unternehmen dürfen in das Aktennachweissystem für Zollzwecke eingegeben werden, wenn gegen die in § 30 Absatz 1 des Gesetzes über Ordnungswidrigkeiten genannten natürlichen Personen dieser Unternehmen
 
@@ -74,7 +65,6 @@ geführt werden. Daten nach Satz 1 Buchstabe b dürfen nur Hinweise auf die Ermi
 
 § 5 Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 7
+# § 7
 
 Der Beschluss 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom 10.12.2009, S. 20, L 234 vom 4.9.2010, S. 17) findet mit dem Inkrafttreten dieses Gesetzes uneingeschränkte Anwendung.

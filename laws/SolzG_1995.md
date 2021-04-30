@@ -1,10 +1,7 @@
-# [SolzG 1995] Solidaritätszuschlaggesetz 1995  (SolzG 1995)
-
-Ausfertigungsdatum: 23.06.1993
-
+% Solidaritätszuschlaggesetz 1995  (SolzG 1995)
+% Ausfertigungsdatum: 23.06.1993
  
-
-## § 1 – Erhebung eines Solidaritätszuschlags
+# § 1 – Erhebung eines Solidaritätszuschlags
 
 (1) Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 23.06.1993
 
 (5) Mit einem Rechtsbehelf gegen den Solidaritätszuschlag kann weder die Bemessungsgrundlage noch die Höhe des zu versteuernden Einkommens angegriffen werden. Wird die Bemessungsgrundlage geändert, ändert sich der Solidaritätszuschlag entsprechend.
 
-
-## § 2 – Abgabepflicht
+# § 2 – Abgabepflicht
 
 Abgabepflichtig sind
 
@@ -27,8 +23,7 @@ Abgabepflichtig sind
 
 3. Körperschaften, Personenvereinigungen und Vermögensmassen, die nach § 1 oder § 2 des Körperschaftsteuergesetzes körperschaftsteuerpflichtig sind.
 
-
-## § 3 – Bemessungsgrundlage und zeitliche Anwendung
+# § 3 – Bemessungsgrundlage und zeitliche Anwendung
 
 (1) Der Solidaritätszuschlag bemisst sich vorbehaltlich der Absätze 2 bis 5,
 
@@ -104,20 +99,17 @@ Die weiteren Berechnungsvorgaben in § 39b Absatz 3 des Einkommensteuergesetzes 
 
 (+++ § 3: Zur Anwendung vgl. § 6 +++)
 
-
-## § 4 – Zuschlagsatz
+# § 4 – Zuschlagsatz
 
 Der Solidaritätszuschlag beträgt 5,5 Prozent der Bemessungsgrundlage. Er beträgt nicht mehr als 11,9 Prozent des Unterschiedsbetrages zwischen der Bemessungsgrundlage, vermindert um die Einkommensteuer nach § 32d Absatz 3 und 4 des Einkommensteuergesetzes, und der nach § 3 Absatz 3, 4 und 5 jeweils maßgebenden Freigrenze. Bruchteile eines Cents bleiben außer Ansatz. Der Solidaritätszuschlag auf die Einkommensteuer nach § 32d Absatz 3 und 4 des Einkommensteuergesetzes und auf die Lohnsteuer nach § 39b Absatz 3 des Einkommensteuergesetzes beträgt ungeachtet des Satzes 2 5,5 Prozent.
 
 (+++ § 4: Zur Anwendung vgl. § 6 +++)
 
-
-## § 5 – Doppelbesteuerungsabkommen
+# § 5 – Doppelbesteuerungsabkommen
 
 Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen ermäßigt, so ist diese Ermäßigung zuerst auf den Solidaritätszuschlag zu beziehen.
 
-
-## § 6 – Anwendungsvorschrift
+# § 6 – Anwendungsvorschrift
 
 (1) § 2 in der Fassung des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) ist ab dem Veranlagungszeitraum 1995 anzuwenden.
 

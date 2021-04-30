@@ -1,25 +1,19 @@
-# [BMVg-ArbSchGAnwV] Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums der Verteidigung  (Bundesministerium der Verteidigung - Arbeitsschutzgesetzanwendungsverordnung - BMVg-ArbSchGAnwV)
-
-Ausfertigungsdatum: 03.06.2002
-
+% Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums der Verteidigung  (Bundesministerium der Verteidigung - Arbeitsschutzgesetzanwendungsverordnung - BMVg-ArbSchGAnwV)
+% Ausfertigungsdatum: 03.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom 7. August 1996 (BGBl. I S. 1246), der durch Artikel 210 Nr. 1 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung und dem Bundesministerium des Innern:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für den Geschäftsbereich des Bundesministeriums der Verteidigung.
 
-
-## § 2 – Pflichten des Arbeitgebers
+# § 2 – Pflichten des Arbeitgebers
 
 Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium der Verteidigung, ist verpflichtet, die Zielsetzung des § 1 Abs. 1 Satz 1 des Arbeitsschutzgesetzes für die in § 2 Abs. 2 des Arbeitsschutzgesetzes genannten Beschäftigten in seinem Geschäftsbereich auch dann zu erreichen, wenn die Ausübung der in dieser Verordnung genannten Tätigkeiten nicht ohne ein Abweichen von Vorschriften des Arbeitsschutzgesetzes möglich ist.
 
-
-## § 3 – Tätigkeiten
+# § 3 – Tätigkeiten
 
 Tätigkeiten im Sinne dieser Verordnung üben Beschäftigte in Dienststellen der Bundeswehr im Rahmen der diesen nach dem Grundgesetz oder durch ein anderes Gesetz zugewiesenen Aufgaben
 
@@ -31,15 +25,13 @@ Tätigkeiten im Sinne dieser Verordnung üben Beschäftigte in Dienststellen der
 
 aus.
 
-
-## § 4 – Voraussetzungen für ein Abweichen von Vorschriften des Arbeitsschutzgesetzes
+# § 4 – Voraussetzungen für ein Abweichen von Vorschriften des Arbeitsschutzgesetzes
 
 (1) Soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der äußeren Sicherheit der Bundesrepublik Deutschland, kann bei Tätigkeiten nach § 3 ganz oder zum Teil von Vorschriften des Arbeitsschutzgesetzes abgewichen werden. Ein Abweichen ist nur so lange gestattet, wie diese Voraussetzung gegeben ist.
 
 (2) Zwingende öffentliche Belange, die ein Abweichen nach Absatz 1 erfordern, sind dann gegeben, wenn die Ziele der Einsätze oder die Sicherheit der Einsatzkräfte ohne ein Abweichen von Vorschriften des Arbeitsschutzgesetzes nicht erreicht werden können. Dies wird durch das Bundesministerium der Verteidigung, bei Gefahr im Verzuge durch den Dienststellenleiter, festgestellt.
 
-
-## § 5 – Gewährleistung der Sicherheit und des Gesundheitsschutzes
+# § 5 – Gewährleistung der Sicherheit und des Gesundheitsschutzes
 
 (1) Die bei Abweichen von Vorschriften des Arbeitsschutzgesetzes zu treffenden Schutzvorkehrungen müssen einen den Umständen nach größtmöglichen Schutz der Beschäftigten gewährleisten. Einschränkungen des nach dem Arbeitsschutzgesetz vorgesehenen Schutzniveaus sind nach Art, Umfang und Dauer auf das unumgänglich notwendige Maß zu beschränken.
 
@@ -49,7 +41,6 @@ aus.
 
 (4) Ist das Abweichenmüssen von Vorschriften des Arbeitsschutzgesetzes nicht voraussehbar, trifft der höchste örtliche Vorgesetzte (z. B. Führer Gefechtsverband, Dienststellenleiter, Kommandeur, Kompanie-, Batteriechef, Staffelkapitän, Leiter einer Außenstelle, Zugführer, Staffelführer oder Truppführer) die Entscheidung über das Abweichen von Vorschriften des Arbeitsschutzgesetzes. Dieser soll bei der Gefährdungsbeurteilung Fachpersonal hören und hat die anerkannten sicherheitstechnischen und arbeitsmedizinischen Standards zu berücksichtigen. Die Entscheidung ist regelmäßig zu dokumentieren.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

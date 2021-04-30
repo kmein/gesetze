@@ -1,10 +1,7 @@
-# [MPAV] Verordnung zur Regelung der Abgabe von Medizinprodukten  (Medizinprodukte-Abgabeverordnung - MPAV)
-
-Ausfertigungsdatum: 25.07.2014
-
+% Verordnung zur Regelung der Abgabe von Medizinprodukten  (Medizinprodukte-Abgabeverordnung - MPAV)
+% Ausfertigungsdatum: 25.07.2014
  
-
-## § 1 – Verschreibungspflicht
+# § 1 – Verschreibungspflicht
 
 (1) Medizinprodukte, die nach der Zweckbestimmung nach § 3 Nummer 10 des Medizinproduktegesetzes zur Anwendung durch Laien vorgesehen sind und
 
@@ -46,8 +43,7 @@ dürfen nur bei Vorliegen einer ärztlichen oder zahnärztlichen Verschreibung a
 
 6. gebräuchliche Bezeichnung des Medizinproduktes.
 
-
-## § 2 – Apothekenpflicht
+# § 2 – Apothekenpflicht
 
 Medizinprodukte
 
@@ -59,8 +55,7 @@ Medizinprodukte
 
 dürfen berufs- und gewerbsmäßig für den Endverbrauch nur durch Apotheken in den Verkehr gebracht werden (apothekenpflichtige Medizinprodukte).
 
-
-## § 3 – Sonstige Abgabebeschränkungen
+# § 3 – Sonstige Abgabebeschränkungen
 
 (1) Die Abgabestelle muss die betrieblichen Voraussetzungen für eine sachgerechte Lagerung der vorrätig gehaltenen Medizinprodukte erfüllen. Eine Abgabe von Medizinprodukten, die nicht zur Anwendung durch Laien vorgesehen sind, darf nur an Fachkreise nach § 3 Nummer 17 des Medizinproduktegesetzes erfolgen, es sei denn, eine ärztliche oder zahnärztliche Verschreibung wird vorgelegt. Die Vorschriften der Apothekenbetriebsordnung über das Inverkehrbringen und die Lagerung von Medizinprodukten bleiben unberührt.
 
@@ -102,8 +97,7 @@ Davon ausgenommen sind die in Anlage 3 aufgeführten In-vitro-Diagnostika.
 
 (5) Das Robert Koch-Institut kann befristete Ausnahmen von den Absätzen 4 und 4a zulassen, wenn dies aus Gründen der öffentlichen Gesundheit erforderlich ist. Zugelassene Ausnahmen gibt das Robert Koch-Institut auf seinen Internetseiten sowie im Bundesanzeiger bekannt.
 
-
-## § 4 – Straftaten und Ordnungswidrigkeiten
+# § 4 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 41 Nummer 6 des Medizinproduktegesetzes wird bestraft, wer entgegen § 1 Absatz 1 Satz 1 ein Medizinprodukt abgibt.
 
@@ -115,24 +109,21 @@ Davon ausgenommen sind die in Anlage 3 aufgeführten In-vitro-Diagnostika.
 
 2. entgegen § 3 Absatz 1 Satz 2 oder Absatz 4 Satz 1 ein Medizinprodukt abgibt.
 
-
-## Anlage 1 – (zu § 1 Absatz 1 Satz 1 Nummer 2)
+# Anlage 1 – (zu § 1 Absatz 1 Satz 1 Nummer 2)
 
 (Fundstelle: BGBl. I 2014, 1228)
 
 –  
 Oral zu applizierende Sättigungspräparate auf Cellulosebasis mit definiert vorgegebener Geometrie – zur Behandlung des Übergewichts und zur Gewichtskontrolle –
 
-
-## Anlage 2 – (zu § 2 Nummer 3)
+# Anlage 2 – (zu § 2 Nummer 3)
 
 (Fundstelle: BGBl. I 2014, 1228)
 
 –  
 Hämodialysekonzentrate
 
-
-## Anlage 3 – (zu § 3 Absatz 4)
+# Anlage 3 – (zu § 3 Absatz 4)
 
 (Fundstelle: BGBl. I 2018, 1385; bzgl. der einzelnen Änderungen vgl. Fußnote)
 

@@ -1,20 +1,15 @@
-# [StSozSBes] Beschluß des Ministerrates der Deutschen Demokratischen Republik zur sozialen Sicherstellung für aus ihren Funktionen ausscheidende Staatssekretäre
-
-Ausfertigungsdatum: 29.08.1990
-
+% Beschluß des Ministerrates der Deutschen Demokratischen Republik zur sozialen Sicherstellung für aus ihren Funktionen ausscheidende Staatssekretäre
+% Ausfertigungsdatum: 29.08.1990
  
-
-## ----
+# ----
 
 Die Bestimmungen des Beschlusses über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung vom 8. August 1990 sind grundsätzlich für diejenigen anzuwenden, die durch den Ministerpräsidenten berufen sind.
 
-
-## Schlußformel
+# Schlußformel
 
 Minister im Amt des Ministerpräsidenten
 
-
-## Anhang EV – Auszug aus EinigVtrVbg Art 3(BGBl. II 1990, 1239)
+# Anhang EV – Auszug aus EinigVtrVbg Art 3(BGBl. II 1990, 1239)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend.
 

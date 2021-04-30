@@ -1,17 +1,13 @@
-# [LuftNaSiG] Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte  (Luftverkehrsnachweissicherungsgesetz - LuftNaSiG)
-
-Ausfertigungsdatum: 05.06.1997
-
+% Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte  (Luftverkehrsnachweissicherungsgesetz - LuftNaSiG)
+% Ausfertigungsdatum: 05.06.1997
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz dient der Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte (luftverkehrsrechtliche Befugnisse) und findet Anwendung auf börsennotierte Aktiengesellschaften mit Sitz im Inland (Gesellschaften), die ein Luftfahrtunternehmen im Sinne der Verordnung (EWG) Nr. 2407/92 des Rates über die Erteilung von Betriebsgenehmigungen an Luftfahrtunternehmen vom 23. Juli 1992 (ABl. EG Nr. L 240 S. 1) betreiben, und auf ihre Aktionäre.
 
 (2) Das Gesetz findet keine Anwendung, wenn eine Gesellschaft durch ihre Hauptversammlung mit einer Mehrheit von mindestens drei Vierteln des bei der Beschlußfassung vertretenen Grundkapitals beschließt, sich diesem Gesetz nicht zu unterstellen. Ein solcher Beschluß kann von der Hauptversammlung mit gleicher Mehrheit wieder aufgehoben werden.
 
-
-## § 2 – Form der Aktien
+# § 2 – Form der Aktien
 
 (1) Die von Gesellschaften im Sinne des § 1 Abs. 1 ausgegebenen Aktien müssen Namensaktien sein, deren Übertragung gemäß § 68 Abs. 2 des Aktiengesetzes im Sinne dieses Gesetzes an die Zustimmung der Gesellschaft gebunden ist. Als Voraussetzung für die Erteilung der Zustimmung und für die Zwecke der Eintragung im Aktienbuch hat jeder Aktionär und zukünftige Erwerber über § 67 Abs. 1 des Aktiengesetzes hinaus anzugeben:
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 05.06.1997
 
 (2) Bei unzutreffender Angabe ist die Gesellschaft befugt, diese im Aktienbuch zu berichtigen. Wer schuldhaft falsche Angaben nach Absatz 1 macht, ist der Gesellschaft zum Ersatz des dadurch entstehenden Schadens verpflichtet.
 
-
-## § 3 – Umwandlung in vinkulierte Namensaktien
+# § 3 – Umwandlung in vinkulierte Namensaktien
 
 (1) Die von Gesellschaften im Sinne des § 1 Abs. 1 zum Zeitpunkt des Inkrafttretens dieses Gesetzes ausgegebenen Aktien werden durch dieses Gesetz in vinkulierte Namensaktien im Sinne des § 2 umgewandelt.
 
@@ -36,8 +31,7 @@ Ausfertigungsdatum: 05.06.1997
 
 (5) Anstelle der für kraftlos erklärten Aktien sind neue auf den Namen lautende Aktien auszugeben und dem Berechtigten auszuhändigen. Solange der Berechtigte nicht feststeht oder die nach § 2 Abs. 1 geforderten Angaben nicht oder nicht vollständig macht, sind die Aktien auf den Namen eines Treuhänders einzutragen. Dem Treuhänder stehen Rechte aus den Aktien nicht zu.
 
-
-## § 4 – Kapitalmaßnahmen zur Beseitigung einer Gefährdung der Luftverkehrsbetriebsgenehmigung oder der Luftverkehrsrechte
+# § 4 – Kapitalmaßnahmen zur Beseitigung einer Gefährdung der Luftverkehrsbetriebsgenehmigung oder der Luftverkehrsrechte
 
 (1) Ergibt sich aus dem Aktienbuch, daß sich 40 vom Hundert oder mehr der nach den ausgegebenen Aktien insgesamt möglichen Stimmen im Besitz solcher Aktionäre befinden, deren Aktienbesitz der Erfüllung der Anforderungen für die Aufrechterhaltung der luftverkehrsrechtlichen Befugnisse entgegensteht, ist die betroffene Gesellschaft im Sinne des § 71 Abs. 1 Nr. 1 des Aktiengesetzes befugt, eigene Aktien zu erwerben.
 
@@ -51,8 +45,7 @@ Ausfertigungsdatum: 05.06.1997
 
 im Besitz solcher Aktionäre befinden, deren Aktienbesitz der Erfüllung der Anforderungen für die Aufrechterhaltung der luftverkehrsrechtlichen Befugnisse entgegensteht.
 
-
-## § 5 – Veräußerungspflicht
+# § 5 – Veräußerungspflicht
 
 (1) Die Hauptversammlung kann durch satzungsändernden Beschluß, der einer Mehrheit von mindestens drei Vierteln des bei der Beschlußfassung vertretenen Grundkapitals bedarf, den Vorstand ermächtigen, unter der Voraussetzung des Absatzes 2 mit Zustimmung des Aufsichtsrats Aktionäre in dem Umfang, wie es zur erneuten Erfüllung der Anforderungen für die Aufrechterhaltung der luftverkehrsrechtlichen Befugnisse erforderlich ist, und in der Reihenfolge des Absatzes 3 unter Setzung einer angemessenen Frist mit Hinweis auf die andernfalls mögliche Rechtsfolge, der Aktien nach Maßgabe des Absatzes 7 verlustig zu gehen, aufzufordern, sämtliche oder einen Teil der von ihnen gehaltenen Aktien zu veräußern und die Veräußerung der Gesellschaft unverzüglich nachzuweisen. Die Satzung kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen.
 
@@ -78,19 +71,16 @@ im Besitz solcher Aktionäre befinden, deren Aktienbesitz der Erfüllung der Anf
 
 (9) Die Absätze 1 bis 8 sind auf Aktionäre für den von ihnen im Zeitpunkt des Inkrafttretens dieses Gesetzes bereits gehaltenen Aktienbestand nicht anzuwenden.
 
-
-## § 6 – Unterrichtung der Aktionäre
+# § 6 – Unterrichtung der Aktionäre
 
 (1) Der Vorstand hat mit Einberufung der Hauptversammlung nach § 49 Absatz 1 Satz 1 Nummer 1 des Wertpapierhandelsgesetzes die Stimmenverhältnisse nach Nationalitäten bekanntzugeben. Der Vorstand ist verpflichtet, den jeweiligen Stand des Anteils der Stimmen im Sinne des Satzes 1 zum Ende eines jeden Quartals im Bundesanzeiger zu veröffentlichen.
 
 (2) Der Vorstand hat unverzüglich den Eintritt von Tatsachen, die gemäß § 4 zum Erwerb eigener Aktien oder zur Vornahme der Kapitalmaßnahmen befugen, gemäß Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung zu veröffentlichen.
 
-
-## § 7 – Weitergabe von Auskünften durch Kreditinstitute, Hinweispflicht
+# § 7 – Weitergabe von Auskünften durch Kreditinstitute, Hinweispflicht
 
 Verwahrt ein Kreditinstitut Aktien von Gesellschaften im Sinne des § 1 Abs. 1 für Aktionäre, so hat es Mitteilungen und Formblätter der Gesellschaft, die der Erfüllung der Verpflichtung der Aktionäre nach den §§ 2 und 3 dienen, unverzüglich an diese Aktionäre weiterzugeben und diese auf die Pflichten nach den Vorschriften dieses Gesetzes hinzuweisen.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Die §§ 2 und 3 treten am 1. Juli 1997 in Kraft. Im übrigen tritt das Gesetz am Tage nach der Verkündung in Kraft.

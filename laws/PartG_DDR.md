@@ -1,13 +1,9 @@
-# [PartG DDR] Gesetz über Parteien und andere politische Vereinigungen  (Parteiengesetz)
-
-Ausfertigungsdatum: 21.02.1990
-
+% Gesetz über Parteien und andere politische Vereinigungen  (Parteiengesetz)
+% Ausfertigungsdatum: 21.02.1990
  
+# §§ 1 bis 20 – (weggefallen)
 
-## §§ 1 bis 20 – (weggefallen)
-
-
-## § 20a
+# § 20a
 
 (1) Die Parteien und die ihnen verbundenen Organisationen, juristischen Personen und Massenorganisationen haben vollständig Rechenschaft zu legen,
 
@@ -17,8 +13,7 @@ b) insbesondere ist eine Vermögensübersicht nach dem Stand vom 7. Oktober 1989
 
 (2) Die Rechenschaftspflicht erstreckt sich auf sämtliche Vorgänge und Unterlagen, die für die Beurteilung der Vermögenssituation von Bedeutung sein können, insbesondere auch auf rechtliche, wirtschaftliche oder sonstige Beteiligungen an Unternehmen und geschäftliche Verbindungen, auch wenn sie über andere natürliche oder juristische Personen abgewickelt wurden, wobei eine wirtschaftliche Betrachtungsweise zugrunde zu legen ist.
 
-
-## § 20b
+# § 20b
 
 (1) Mit Inkrafttreten dieses Gesetzes können die Parteien und die ihnen verbundenen Organisationen, juristischen Personen und Massenorganisationen Vermögensveränderungen wirksam nur mit Zustimmung der Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder deren Rechtsnachfolger vornehmen.
 
@@ -28,10 +23,8 @@ b) insbesondere ist eine Vermögensübersicht nach dem Stand vom 7. Oktober 1989
 
 (4) Im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat kann das Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates die treuhänderische Verwaltung nach den Absätzen 2 und 3 auf eine Stelle des Bundes oder eine juristische Person des Privatrechts übertragen. Die Rechts- und Fachaufsicht obliegt dem Bundesministerium der Finanzen, das die Fachaufsicht im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem jeweils zuständigen Bundesministerium wahrnimmt.
 
+# §§ 21 bis 24 – (weggefallen)
 
-## §§ 21 bis 24 – (weggefallen)
-
-
-## Schlußformel
+# Schlußformel
 
 Der amtierende Vorsitzende des Staatsrates der Deutschen Demokratischen Republik

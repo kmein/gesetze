@@ -1,25 +1,19 @@
-# [Wabau-AusbV 2004] Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin
-
-Ausfertigungsdatum: 26.05.2004
-
+% Verordnung über die Berufsausbildung zum Wasserbauer/zur Wasserbauerin
+% Ausfertigungsdatum: 26.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Wasserbauer/Wasserbauerin wird staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, ist er ein Ausbildungsberuf des öffentlichen Dienstes. Im Übrigen ist er ein Ausbildungsberuf der gewerblichen Wirtschaft.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlage) wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb vermittelt werden kann:
 
@@ -29,8 +23,7 @@ Die Ausbildung dauert drei Jahre.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -76,23 +69,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 21. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -100,8 +89,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (3) Der Prüfling soll in insgesamt höchstens acht Stunden eine Arbeitsaufgabe durchführen sowie innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere die Planung und Durchführung einer Wasserbaumaßnahme in Betracht. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte und Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -143,18 +131,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 5)
+# Anlage – (zu § 5)
 
 (Fundstelle: BGBl. I 2004, 1081 - 1087)
 

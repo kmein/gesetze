@@ -1,20 +1,15 @@
-# [IMLebensmFPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Lebensmittel und Geprüfte Industriemeisterin – Fachrichtung Lebensmittel  (Industriemeister-Lebensmittel-Fortbildungsprüfungsverordnung - IMLebensmFPrV)
-
-Ausfertigungsdatum: 31.01.2017
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Lebensmittel und Geprüfte Industriemeisterin – Fachrichtung Lebensmittel  (Industriemeister-Lebensmittel-Fortbildungsprüfungsverordnung - IMLebensmFPrV)
+% Ausfertigungsdatum: 31.01.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 zuletzt durch Artikel 436 Nummer 4 Buchstabe a der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Lebensmittel und Geprüfte Industriemeisterin – Fachrichtung Lebensmittel soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -78,8 +73,7 @@ h) Qualitätsziele umsetzen sowie das qualitätsbewusste Handeln und die Kundeno
 
 (4) Die erfolgreich abgelegte Prüfung nach § 2 Absatz 1 Nummer 1 führt zusammen mit dem erbrachten Nachweis nach § 2 Absatz 1 Nummer 2 zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Lebensmittel oder Geprüfte Industriemeisterin – Fachrichtung Lebensmittel.
 
-
-## § 2 – Teile des Fortbildungsabschlusses und Gliederung der Prüfung
+# § 2 – Teile des Fortbildungsabschlusses und Gliederung der Prüfung
 
 (1) Für den Fortbildungsabschluss zum Geprüften Industriemeister – Fachrichtung Lebensmittel und zur Geprüften Industriemeisterin – Fachrichtung Lebensmittel ist Folgendes erforderlich:
 
@@ -93,8 +87,7 @@ h) Qualitätsziele umsetzen sowie das qualitätsbewusste Handeln und die Kundeno
 
 2. Prüfungsteil „Handlungsspezifische Qualifikationen“ nach § 7.
 
-
-## § 3 – Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+# § 3 – Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
 
 (1) Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prüfende Person nachzuweisen durch
 
@@ -106,8 +99,7 @@ h) Qualitätsziele umsetzen sowie das qualitätsbewusste Handeln und die Kundeno
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Voraussetzungen für die Zulassung zu den Prüfungsteilen
+# § 4 – Voraussetzungen für die Zulassung zu den Prüfungsteilen
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -127,8 +119,7 @@ h) Qualitätsziele umsetzen sowie das qualitätsbewusste Handeln und die Kundeno
 
 (4) Abweichend von den Absätzen 1 und 2 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 5 – Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
+# § 5 – Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ werden folgende Prüfungsbereiche geprüft:
 
@@ -150,8 +141,7 @@ h) Qualitätsziele umsetzen sowie das qualitätsbewusste Handeln und die Kundeno
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Qualifikationsinhalte der Prüfungsbereiche
+# § 6 – Qualifikationsinhalte der Prüfungsbereiche
 
 (1) Im Prüfungsbereich „Rechtsbewusstes Handeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, einschlägige Rechtsvorschriften zu berücksichtigen. Dazu gehört, die Arbeitsbedingungen der Mitarbeiter und Mitarbeiterinnen unter arbeitsrechtlichen Aspekten zu gestalten sowie die Arbeitssicherheit, den Gesundheitsschutz und den Umweltschutz nach rechtlichen Grundlagen zu gewährleisten und die Zusammenarbeit mit den entsprechenden Institutionen sicherzustellen. ln diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -219,8 +209,7 @@ h) Qualitätsziele umsetzen sowie das qualitätsbewusste Handeln und die Kundeno
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Prüfungsteil „Handlungsspezifische Qualifikationen“
+# § 7 – Prüfungsteil „Handlungsspezifische Qualifikationen“
 
 Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die folgenden Handlungsbereiche und Qualifikationsschwerpunkte:
 
@@ -248,8 +237,7 @@ b) Personalentwicklung und
 
 c) Qualitätsmanagement.
 
-
-## § 8 – Gliederung des Prüfungsteils
+# § 8 – Gliederung des Prüfungsteils
 
 Der Prüfungsteil besteht aus
 
@@ -257,8 +245,7 @@ Der Prüfungsteil besteht aus
 
 2. einem Fachgespräch nach § 12.
 
-
-## § 9 – Situationsaufgaben im schriftlichen Teil, Bearbeitungsdauer
+# § 9 – Situationsaufgaben im schriftlichen Teil, Bearbeitungsdauer
 
 (1) Im schriftlichen Teil wird je eine Situationsaufgabe zu den Handlungsbereichen „Technik“ (§ 10) und „Organisation“ (§ 11) gestellt. Die Situationsaufgaben sollen auch die fachrichtungsübergreifenden Basisqualifikationen nach § 5 berücksichtigen.
 
@@ -274,8 +261,7 @@ Der Prüfungsteil besteht aus
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Situationsaufgabe aus dem Handlungsbereich „Technik“
+# § 10 – Situationsaufgabe aus dem Handlungsbereich „Technik“
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Technik“ soll mindestens einer der Qualifikationsschwerpunkte „Lebensmitteltechnologie“, „Betriebstechnik“ und „Warenmanagement“ den Kern bilden. Die in den Qualifikationsschwerpunkten zu prüfenden Qualifikationsinhalte richten sich nach den Absätzen 4 bis 6.
 
@@ -323,8 +309,7 @@ Der Prüfungsteil besteht aus
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Situationsaufgabe aus dem Handlungsbereich „Organisation“
+# § 11 – Situationsaufgabe aus dem Handlungsbereich „Organisation“
 
 (1) In der Situationsaufgabe aus dem Handlungsbereich „Organisation“ soll mindestens einer der Qualifikationsschwerpunkte „Betriebliches Kostenwesen“, „Planung, Steuerung und Kommunikation“ und „Arbeits-, Umwelt- und Gesundheitsschutz sowie Lebensmittelsicherheit“ den Kern bilden. Die in den Qualifikationsschwerpunkten zu prüfenden Qualifikationsinhalte richten sich nach den Absätzen 3 bis 5.
 
@@ -378,8 +363,7 @@ Der Prüfungsteil besteht aus
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Fachgespräch
+# § 12 – Fachgespräch
 
 (1) Im Fachgespräch wird eine Situationsaufgabe aus dem Handlungsbereich „Führung und Personal“ gestellt. Die zu prüfende Person soll nachweisen, dass sie in der Lage ist, betriebliche Aufgabenstellungen zu analysieren, zu strukturieren und einer begründeten Lösung zuzuführen. Die Lösungsvorschläge sollen in einer Präsentation erläutert werden.
 
@@ -439,15 +423,13 @@ Der Prüfungsteil besteht aus
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 13 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 14 und 15 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 14 Absatz 2 Satz 2 oder § 15 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Bewerten der Prüfungsleistungen
+# § 14 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -465,8 +447,7 @@ b) die Situationsaufgabe nach § 11 und
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Bestehen der Prüfung, Gesamtnote
+# § 15 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -492,8 +473,7 @@ b) im Fachgespräch nach § 12.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Zeugnisse
+# § 16 – Zeugnisse
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -507,8 +487,7 @@ b) im Fachgespräch nach § 12.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Wiederholung der Prüfung
+# § 17 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden. Ist ein Prüfungsteil nicht bestanden, kann er zweimal wiederholt werden.
 
@@ -521,20 +500,17 @@ b) im Fachgespräch nach § 12.
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)  
 (+++ § 17 Abs. 4: zur Anwendung vgl. § 18 Abs. 2 +++)
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Vor Ablauf des 30. Juni 2017 angemeldete Prüfungen zum anerkannten Abschluss „Geprüfter Industriemeister – Fachrichtung Lebensmittel“ und „Geprüfte Industriemeisterin – Fachrichtung Lebensmittel“ werden nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Lebensmittel vom 21. August 1985 (BGBl. I S. 1695), die zuletzt durch Artikel 29 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, bis zum 31. Dezember 2020 nach den bisherigen Vorschriften zu Ende geführt.
 
 (2) Die Wiederholungsprüfung kann auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin auch nach dieser Verordnung durchgeführt werden; § 17 Absatz 4 ist in diesem Fall nicht anzuwenden.
 
-
-## § 19 – Inkrafttreten, Außerkrafttreten
+# § 19 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Lebensmittel vom 21. August 1985 (BGBl. I S. 1695), die zuletzt durch Artikel 29 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu den §§ 14 und 15)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 14 und 15)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2425 – 2426)
 
@@ -543,8 +519,7 @@ Diese Verordnung tritt am 1. Juli 2017 in Kraft. Gleichzeitig tritt die Verordnu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 16)Zeugnisinhalte
+# Anlage 2 – (zu § 16)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2426)
 

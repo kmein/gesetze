@@ -1,15 +1,11 @@
-# [GrÄndStVtr BR/ND] Staatsvertrag zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze)
-
-Ausfertigungsdatum: 05.05.2010
-
+% Staatsvertrag zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze)
+% Ausfertigungsdatum: 05.05.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wird nach Anhörung der betroffenen kommunalen Gebietskörperschaften aufgrund des Artikels 29 Abs. 7 des Grundgesetzes in Verbindung mit § 2 Abs. 1 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) folgender Staatsvertrag über die Änderung der gemeinsamen Landesgrenze geschlossen:
 
-
-## Art 1
+# Art 1
 
 (1) Dieser Staatsvertrag ändert die gemeinsame Landesgrenze zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen – im Folgenden: Länder –. Die Änderungen sind in den als Anlagen 1 bis 4 beigefügten Kartenblättern, die Bestandteile des Staatsvertrages sind, grafisch dargestellt.
 
@@ -29,20 +25,17 @@ Zwischen der Freien Hansestadt Bremen und dem Land Niedersachsen wird nach Anhö
 
 (4) Die in den Absätzen 2 und 3 genannten Anlagen 5 bis 9 sind Bestandteile des Staatsvertrages.
 
-
-## Art 2
+# Art 2
 
 (1) Das in den abgetretenen Gebieten jeweils gelegene Verwaltungsvermögen von Körperschaften des öffentlichen Rechts geht mit allen Rechten und Pflichten ohne Entschädigung auf die in dem aufnehmenden Land zuständige entsprechende Körperschaft des öffentlichen Rechts über.
 
 (2) Die im Eigentum des Landes Niedersachsen verbleibenden, in dem als Anlage 2 beigefügten Kartenblatt eingezeichneten Außendeichflächen, die im Liegenschaftskataster, Stand 10. Oktober 2006, mit 1 040 220 m² erfasst sind, unterliegen als Finanzvermögen des Landes Niedersachsen außerhalb dieses Staatsvertrages zu treffenden vertraglichen Regelungen. Dies gilt auch für die in dem als Anlage 2 beigefügten Kartenblatt eingezeichneten, 1 909 320 m² großen Gewerbeerwartungsflächen, die sich im Eigentum des Landes Niedersachsen befinden und abzüglich einer von der Freien Hansestadt Bremen bereits gekauften 182 769 m² großen Fläche insgesamt vom Land Niedersachsen an die Freie Hansestadt Bremen verkauft werden sollen.
 
-
-## Art 3
+# Art 3
 
 Die Freie Hansestadt Bremen übernimmt durch diesen Staatsvertrag die Verantwortung für die Deichsicherheit auch für das an der neuen gemeinsamen Landesgrenze liegende niedersächsische Hinterland, ohne dass sich daraus ein erhöhter Unterhaltungsaufwand für die vorgenannten landeseigenen Außendeichflächen ergibt. Ihr obliegen die bestickgemäße Herstellung und der Erhalt der dafür erforderlichen Küstenschutzanlagen auf bremischem Hoheitsgebiet.
 
-
-## Art 4
+# Art 4
 
 (1) Die Länder und die betroffenen kommunalen Gebietskörperschaften treffen die sich infolge der Grenzänderungen als notwendig erweisenden Regelungen möglichst innerhalb von sechs Monaten nach Inkrafttreten dieses Vertrages.
 
@@ -52,20 +45,17 @@ Die Freie Hansestadt Bremen übernimmt durch diesen Staatsvertrag die Verantwort
 
 (4) Beide Länder schaffen innerhalb von sechs Monaten nach Inkrafttreten dieses Staatsvertrages die vertraglichen Voraussetzungen für den Verkauf der in Artikel 2 Abs. 2 Satz 2 genannten Gewerbeerwartungsflächen an die Freie Hansestadt Bremen.
 
-
-## Art 5
+# Art 5
 
 Die Länder erklären ihre Bereitschaft, in gegenseitigem Einverständnis den Grenzverlauf in der Wesermündung festzulegen und in einem weiteren Staatsvertrag zu regeln.
 
-
-## Art 6
+# Art 6
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden werden ausgetauscht.
 
 (2) Dieser Vertrag tritt am Ersten des auf den Austausch der Ratifikationsurkunden folgenden Monats in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Für das Land Niedersachsen  
 Der Niedersächsische Ministerpräsident  

@@ -1,10 +1,7 @@
-# [EVPGV] Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte  (EVPG-Verordnung - EVPGV)
-
-Ausfertigungsdatum: 14.08.2013
-
+% Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte  (EVPG-Verordnung - EVPGV)
+% Ausfertigungsdatum: 14.08.2013
  
-
-## § 1 – Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten
+# § 1 – Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten
 
 Ein Hersteller, Bevollmächtigter oder Importeur darf folgende Produkte nur in Verkehr bringen oder, sofern sie noch nicht in Verkehr gebracht wurden, nur in Betrieb nehmen, wenn sie den jeweils genannten Anforderungen an ihre umweltgerechte Gestaltung (Ökodesign-Anforderungen) und sonstigen Voraussetzungen für ihr Inverkehrbringen oder ihre Inbetriebnahme entsprechen:
 
@@ -62,7 +59,6 @@ Ein Hersteller, Bevollmächtigter oder Importeur darf folgende Produkte nur in V
 
 27. einen Festbrennstoffkessel im Sinne der Verordnung (EU) 2015/1189 der Kommission vom 28. April 2015 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Festbrennstoffkesseln (ABl. L 193 vom 21.7.2015, S. 100), wenn das Produkt den Anforderungen in Artikel 3 Absatz 1 in Verbindung mit Anhang II der Verordnung (EU) 2015/1189 entspricht.
 
-
-## § 2 – Ordnungswidrigkeiten
+# § 2 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 13 Absatz 1 Nummer 5 Buchstabe a des Energieverbrauchsrelevante-Produkte-Gesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 1 ein dort genanntes energieverbrauchsrelevantes Produkt in Verkehr bringt oder in Betrieb nimmt.

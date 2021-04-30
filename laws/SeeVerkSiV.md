@@ -1,22 +1,17 @@
-# [SeeVerkSiV] Verordnung zur Sicherstellung des Seeverkehrs
-
-Ausfertigungsdatum: 03.08.1978
-
+% Verordnung zur Sicherstellung des Seeverkehrs
+% Ausfertigungsdatum: 03.08.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und Abs. 2 Nr. 2 bis 4, der §§ 3, 5 Abs. 1, des § 19 Abs. 8 und des § 29 des Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Zweck dieser Verordnung ist es, sicherzustellen, daß in einem Verteidigungsfall sowie in einer Zeit, in der die Verteidigungsbereitschaft der Bundesrepublik Deutschland im Hinblick auf einen möglichen Verteidigungsfall erhöht werden muß, die erforderlichen lebenswichtigen Verkehrsleistungen, insbesondere zur Versorgung der Zivilbevölkerung und der Streitkräfte, von der Seeschiffahrt erbracht werden können.
 
 (2) Seeschiffe im Sinne dieser Verordnung sind die Seeschiffe, die berechtigt sind, die Bundesflagge zu führen.
 
-
-## § 2
+# § 2
 
 Die Seeverkehrsbehörden können Reeder und Ausrüster von Seeschiffen verpflichten, zur Sicherung ihrer Seeschiffe bei der Ausführung von Seereisen die Schiffsausrüstungen so zu ergänzen, daß den erhöhten Gefahren, die den Seeschiffen sowie den darauf befindlichen Personen und beförderten Gütern im Verteidigungsfall drohen, begegnet werden kann. Dazu gehören insbesondere Maßnahmen und Einrichtungen, die geeignet sind,
 
@@ -26,18 +21,15 @@ Die Seeverkehrsbehörden können Reeder und Ausrüster von Seeschiffen verpflich
 
 3. beim Fahren in Geleitzügen auch ohne Funkverkehr bei jedem Wetter Verbindung zu anderen Schiffen zu halten.
 
-
-## § 3
+# § 3
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster von Seeschiffen verpflichten, ihre Seeschiffe zur Sicherung bei der Ausführung von Seereisen entmagnetisieren zu lassen (Fremdentmagnetisierung).
 
-
-## § 4
+# § 4
 
 Die Führer von Seeschiffen sind verpflichtet, sich bei der Führung ihres Seeschiffs auf See und in den Häfen so zu verhalten, daß ihr Seeschiff, die darauf befindlichen Personen und die beförderten Güter unter Berücksichtigung der besonderen Gefahren eines Verteidigungsfalls nicht mehr als nach den Umständen unvermeidlich gefährdet werden. Zur Erfüllung dieser Verpflichtung haben sie den der Verhinderung oder Verringerung von Gefahren dienenden Forderungen zu entsprechend, die von den für die Sicherheit der Seeschiffahrt zuständigen Stellen an sie gestellt werden. Dies gilt auch für die Forderung, bestimmte Seegebiete zu meiden oder bestimmte Seewege zu benutzen sowie Fernmelde- und Ortungsmittel in bestimmter Weise zu benutzen.
 
-
-## § 5
+# § 5
 
 (1) Die Führer von Seeschiffen sind verpflichtet, unverzüglich nach dem Anlaufen eines Hafens oder Liegeplatzes außerhalb des Geltungsbereichs des Verkehrssicherstellungsgesetzes folgende Angaben über ihr Seeschiff und seine Einsatzbereitschaft zu melden:
 
@@ -55,50 +47,41 @@ Die Verpflichtung entsteht nicht, wenn der Hafen oder Liegeplatz im Hoheitsgebie
 
 (3) Die Seeverkehrsbehörden können im Einzelfall weitere Angaben über das Seeschiff anfordern, wenn dies im Interesse der Sicherheit oder des weiteren Einsatzes des Seeschiffs erforderlich ist.
 
-
-## § 6
+# § 6
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster verpflichten, bei der Beladung des Seeschiffs eine bestimmte Reihenfolge zu beachten und eine bestimmte Ladezeit einzuhalten.
 
-
-## § 7
+# § 7
 
 (1) Die Hafenbehörden können die Reeder, Ausrüster oder Führer von Seeschiffen verpflichten, beim Güterumschlag, bei der Abfertigung und bei der Ausrüstung ihrer Seeschiffe in den Seehäfen im Geltungsbereich des Verkehrssicherstellungsgesetzes einen bestimmten Platz zu benutzen und eine bestimmte Liegezeit nicht zu überschreiten. Beim Güterumschlag, bei der Abfertigung und bei der Ausrüstung der Seeschiffe außerhalb von Seehäfen können, soweit dabei landgebundene Umschlagsanlagen benutzt werden, die unteren Verwaltungsbehörden diese Verpflichtungen vornehmen, im übrigen die Seeverkehrsbehörden.
 
 (2) Anstelle der Reeder, Ausrüster oder Führer von Seeschiffen können beim Güterumschlag und bei der Abfertigung des Seeschiffs die Ablader, Ladungsempfänger oder deren Beauftragte verpflichtet werden.
 
-
-## § 8
+# § 8
 
 Die Seeverkehrsbehörden können die Reeder und Ausrüster von Seeschiffen verpflichten, ihre Seeschiffe in Häfen sowie an Liegeplätzen, Umschlagsstellen und sonstigen Umschlagsanlagen im Geltungsbereich des Verkehrssicherstellungsgesetzes so besetzt und bemannt zu halten, daß sie jederzeit auslaufen können. Dies gilt nicht, wenn die Seeschiffe aufgelegt sind.
 
-
-## § 9
+# § 9
 
 Maßnahmen zum Umbau oder Aufliegen von Seeschiffen, durch die diese Seeschiffe vorübergehend nicht benutzbar werden, bedürfen der Erlaubnis der Seeverkehrsbehörde. Soweit ein Aufliegen in Seehäfen vorgesehen ist, ist im Erlaubnisverfahren die Hafenbehörde zu hören. Einer Erlaubnis bedarf auch die Veräußerung oder sonstige rechtsgeschäftliche Überlassung von Seeschiffen an Ausländer im Sinne des § 2 Absatz 5 des Außenwirtschaftsgesetzes. Die Erlaubnis ist zu versagen, wenn durch den Umbau, das Aufliegen, die Veräußerung oder sonstige rechtsgeschäftliche Überlassung die Sicherstellung der für Zwecke der Verteidigung erforderlichen lebenswichtigen Verkehrsleistungen gefährdet wird.
 
-
-## § 10
+# § 10
 
 Anstelle der Reeder oder Ausrüster können die Führer von Seeschiffen nach den §§ 2, 3, 6 und 8 verpflichtet werden, wenn die Verpflichtung der Reeder oder Ausrüster nicht oder nicht ohne eine ihren Zweck gefährdende Verzögerung möglich ist oder wenn den Reedern oder Ausrüstern die Erfüllung der Verpflichtung nicht oder nicht ohne eine ihren Zweck gefährdende Verzögerung möglich ist. Außer in den Fällen des § 8 können die Schiffsführer auch dann verpflichtet werden, wenn sich ihr Seeschiff außerhalb deutscher Häfen oder der Bundeswasserstraßen befindet.
 
-
-## § 11
+# § 11
 
 Seeverkehrsbehörde im Sinne dieser Verordnung ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-
-## § 12
+# § 12
 
 Diese Verordnung gilt mit Ausnahme der §§ 2, 3 und 5 auch für Binnenschiffe, die im Binnenschiffsregister eines deutschen Gerichts eingetragen sind, wenn sie auf Wasserflächen seewärts der Grenze der Seefahrt zur Güterbeförderung verwendet werden und mehr als 15 t Tragfähigkeit haben.
 
-
-## § 13
+# § 13
 
 Diese Verordnung findet keine Anwendung auf Schiffe der Streitkräfte, der Bundespolizei und der Wasserschutzpolizeien sowie auf die Schiffe, die für sie auf Grund des Bundesleistungsgesetzes oder eines Vertrags zum Gebrauch in Anspruch genommen oder ohne Mannschaft gechartert worden sind. Auf die übrigen Schiffe des Bundes und der Länder sowie die Schiffe der Organisationen des Zivilschutzes findet nur § 4 dieser Verordnung Anwendung.
 
-
-## § 14
+# § 14
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -140,8 +123,7 @@ begeht eine Zuwiderhandlung im Sinne des § 26 des Verkehrssicherstellungsgesetz
 
 3. in allen übrigen Fällen die Behörde, die die Verpflichtung erlassen hat.
 
-
-## § 15
+# § 15
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

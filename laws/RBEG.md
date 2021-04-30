@@ -1,17 +1,13 @@
-# [RBEG] Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch ab dem Jahr 2021  (Regelbedarfsermittlungsgesetz - RBEG)
-
-Ausfertigungsdatum: 09.12.2020
-
+% Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch ab dem Jahr 2021  (Regelbedarfsermittlungsgesetz - RBEG)
+% Ausfertigungsdatum: 09.12.2020
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Zur Ermittlung pauschalierter Bedarfe für bedarfsabhängige und existenzsichernde bundesgesetzliche Leistungen werden entsprechend § 28 Absatz 1 bis 3 des Zwölften Buches Sozialgesetzbuch Sonderauswertungen der Einkommens- und Verbrauchsstichprobe 2018 zur Ermittlung der durchschnittlichen Verbrauchsausgaben einkommensschwacher Haushalte nach den §§ 2 bis 4 vorgenommen.
 
 (2) Auf der Grundlage der Sonderauswertungen nach Absatz 1 werden entsprechend § 28 Absatz 4 und 5 des Zwölften Buches Sozialgesetzbuch für das Zwölfte und das Zweite Buch Sozialgesetzbuch die Regelbedarfsstufen nach den §§ 5 bis 8 ermittelt.
 
-
-## § 2 – Zugrundeliegende Haushaltstypen
+# § 2 – Zugrundeliegende Haushaltstypen
 
 Der Ermittlung der Regelbedarfsstufen nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch liegen die Verbrauchsausgaben folgender Haushaltstypen zugrunde:
 
@@ -22,8 +18,7 @@ Haushalte, in denen ein Paar mit einem minderjährigen Kind lebt (Familienhausha
 
 Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Altersgruppen umfassen die Zeit bis zur Vollendung des sechsten Lebensjahres, vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres sowie vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres.
 
-
-## § 3 – Auszuschließende Haushalte
+# § 3 – Auszuschließende Haushalte
 
 (1) Von den Haushalten nach § 2 sind vor der Bestimmung der Referenzhaushalte diejenigen Haushalte auszuschließen, in denen Leistungsberechtigte leben, die im Erhebungszeitraum eine der folgenden Leistungen bezogen haben:
 
@@ -37,8 +32,7 @@ Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Al
 
 (2) Nicht auszuschließen sind Haushalte, in denen Leistungsberechtigte leben, die im Erhebungszeitraum zusätzlich zu den Leistungen nach Absatz 1 Nummer 1 bis 4 Erwerbseinkommen bezogen haben.
 
-
-## § 4 – Bestimmung der Referenzhaushalte; Referenzgruppen
+# § 4 – Bestimmung der Referenzhaushalte; Referenzgruppen
 
 (1) Zur Bestimmung der Referenzhaushalte werden die nach dem Ausschluss von Haushalten nach § 3 verbleibenden Haushalte je Haushaltstyp nach § 2 Satz 1 Nummer 1 und 2 nach ihrem Nettoeinkommen aufsteigend gereiht. Als Referenzhaushalte werden berücksichtigt:
 
@@ -48,8 +42,7 @@ Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Al
 
 (2) Die Referenzhaushalte eines Haushaltstyps bilden jeweils eine Referenzgruppe.
 
-
-## § 5 – Regelbedarfsrelevante Verbrauchsausgaben der Einpersonenhaushalte
+# § 5 – Regelbedarfsrelevante Verbrauchsausgaben der Einpersonenhaushalte
 
 (1) Von den Verbrauchsausgaben der Referenzgruppe der Einpersonenhaushalte nach § 4 Absatz 1 Satz 2 Nummer 1 werden für die Ermittlung des Regelbedarfs folgende Verbrauchsausgaben der einzelnen Abteilungen aus der Sonderauswertung für Einpersonenhaushalte der Einkommens- und Verbrauchsstichprobe 2018 für den Regelbedarf berücksichtigt (regelbedarfsrelevant):
 
@@ -69,8 +62,7 @@ Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Al
 
 (2) Die Summe der regelbedarfsrelevanten Verbrauchsausgaben der Einpersonenhaushalte nach Absatz 1 beträgt 434,96 Euro.
 
-
-## § 6 – Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte
+# § 6 – Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte
 
 (1) Von den Verbrauchsausgaben der Referenzgruppen der Familienhaushalte nach § 4 Absatz 1 Satz 2 Nummer 2 werden bei Kindern und Jugendlichen folgende Verbrauchsausgaben der einzelnen Abteilungen aus den Sonderauswertungen für Familienhaushalte der Einkommens- und Verbrauchsstichprobe 2018 als regelbedarfsrelevant berücksichtigt:
 
@@ -130,8 +122,7 @@ Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Al
 
 3. nach Absatz 1 Nummer 3 für Jugendliche vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres 363,47 Euro.
 
-
-## § 7 – Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben
+# § 7 – Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben
 
 (1) Die Summen der für das Jahr 2018 ermittelten regelbedarfsrelevanten Verbrauchsausgaben nach § 5 Absatz 2 und § 6 Absatz 2 werden entsprechend der Fortschreibung der Regelbedarfsstufen nach § 28a des Zwölften Buches Sozialgesetzbuch fortgeschrieben.
 
@@ -147,8 +138,7 @@ Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Al
 
 3. vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres nach § 6 Absatz 2 Nummer 3 auf 373 Euro.
 
-
-## § 8 – Regelbedarfsstufen
+# § 8 – Regelbedarfsstufen
 
 Die Regelbedarfsstufen nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch belaufen sich zum 1. Januar 2021
 
@@ -168,8 +158,7 @@ b) nicht in einer Wohnung lebt, weil ihr allein oder mit einer weiteren Person e
 
 6. in der Regelbedarfsstufe 6 auf 283 Euro für ein Kind bis zur Vollendung des sechsten Lebensjahres.
 
-
-## § 9 – Ausstattung mit persönlichem Schulbedarf
+# § 9 – Ausstattung mit persönlichem Schulbedarf
 
 Der Teilbetrag für Ausstattung mit persönlichem Schulbedarf beläuft sich
 

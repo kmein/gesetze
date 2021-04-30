@@ -1,10 +1,7 @@
-# [DeckRV] Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen  (Deckungsrückstellungsverordnung - DeckRV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über Rechnungsgrundlagen für die Deckungsrückstellungen  (Deckungsrückstellungsverordnung - DeckRV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 88 Absatz 3 Satz 1 und 2 in Verbindung mit Satz 4 und des § 217 Satz 1 N
 –  
 des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 in Verbindung mit Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434):
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -27,8 +23,7 @@ des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 in Verbindung mit Absatz 2 Satz 2 des 
 
 (2) Diese Verordnung gilt für Verträge, denen keine aufsichtsbehördlich genehmigten Tarife zugrunde liegen.
 
-
-## § 2 – Höchstzinssatz
+# § 2 – Höchstzinssatz
 
 (1) Bei Versicherungsverträgen mit Zinsgarantie, die auf Euro oder die nationale Währungseinheit eines an der Europäischen Wirtschafts- und Währungsunion teilnehmenden Mitgliedstaates lauten, wird der Höchstzinssatz für die Berechnung der Deckungsrückstellungen auf 0,9 Prozent festgesetzt. Bei Verträgen, die auf andere Währungen lauten, setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den Höchstzinssatz unter Berücksichtigung der Festlegungen dieser Verordnung nach pflichtgemäßem Ermessen fest.
 
@@ -36,15 +31,13 @@ des § 235 Absatz 1 Satz 1 Nummer 4 bis 7 in Verbindung mit Absatz 2 Satz 2 des 
 
 (3) Pensionskassen können für Verträge, denen dieselben allgemeinen Versicherungsbedingungen und Grundsätze für die Berechnung der Prämien und der mathematischen Rückstellungen zugrunde liegen, einen in Abweichung von Absatz 2 Satz 1 nicht für die gesamte Laufzeit des Vertrages geltenden einheitlichen Rechnungszins verwenden, der den jeweils gültigen Höchstzinssatz nicht überschreitet. Eine dadurch erforderliche Herabsetzung des Rechnungszinses kann mit Zustimmung der Aufsichtsbehörde stufenweise erfolgen.
 
-
-## § 3 – Ausnahmen
+# § 3 – Ausnahmen
 
 (1) Für Versicherungsverträge gegen Einmalprämie mit einer Laufzeit bis zu acht Jahren, die auf Euro oder auf die nationale Währungseinheit eines an der Europäischen Wirtschafts- und Währungsunion teilnehmenden Mitgliedstaates lauten, darf der maßgebliche Rechnungszins höchstens 85 Prozent des letzten Monatswertes der Umlaufrenditen der Anleihen der öffentlichen Hand mit einer der Versicherungsdauer entsprechenden Restlaufzeit betragen; der letzte Monatswert ergibt sich aus der von der Deutschen Bundesbank in ihren Monatsberichten veröffentlichten Kapitalmarktstatistik. Der für die Bestimmung des Rechnungszinses des einzelnen Vertrages maßgebliche Zeitpunkt ist der Zeitpunkt der Prämienzahlung.
 
 (2) Für Rentenversicherungsverträge ohne Rückkaufswert, die auf Euro oder auf die nationale Währungseinheit eines an der Europäischen Wirtschafts- und Währungsunion teilnehmenden Mitgliedstaates lauten, gilt ab Beginn des Rentenbezugs für die diesem Zeitpunkt folgenden acht Jahre und für den Teil der Deckungsrückstellung, der auf die laufende Rentenzahlung entfällt, Absatz 1 Satz 1 entsprechend mit der Maßgabe, dass der Höchstsatz für den Rechnungszins 85 Prozent des arithmetischen Mittels der letzten Monatswerte der Umlaufrenditen der Anleihen der öffentlichen Hand mit einer Restlaufzeit von einem Jahr bis zu acht Jahren beträgt; die letzten Monatswerte ergeben sich aus der von der Deutschen Bundesbank in ihren Monatsberichten veröffentlichten Kapitalmarktstatistik. Der für die Bestimmung des Rechnungszinses des einzelnen Vertrages maßgebliche Zeitpunkt ist der Zeitpunkt des Rentenbeginns.
 
-
-## § 4 – Höchstzillmersätze und versicherungsmathematische Berechnungsmethode
+# § 4 – Höchstzillmersätze und versicherungsmathematische Berechnungsmethode
 
 (1) Im Wege der Zillmerung werden die Forderungen auf Ersatz der geleisteten, einmaligen Abschlusskosten einzelvertraglich bis zur Höhe des Zillmersatzes ab Versicherungsbeginn aus den höchstmöglichen Prämienteilen gedeckt, die nach den verwendeten Berechnungsgrundsätzen in dem Zeitraum, für den die Prämie gezahlt wird, weder für Leistungen im Versicherungsfall noch zur Deckung von Kosten für den Versicherungsbetrieb bestimmt sind. Der Zillmersatz darf 25 Promille der Summe aller Prämien nicht überschreiten.
 
@@ -60,8 +53,7 @@ Für Unfallversicherungen der in § 161 des Versicherungsaufsichtsgesetzes genan
 
 (4) Der von einem Versicherungsunternehmen zum Zeitpunkt des Vertragsabschlusses verwendete Zillmersatz für die Berechnung der Deckungsrückstellung gilt für die gesamte Laufzeit des Vertrages.
 
-
-## § 5 – Versicherungsmathematische Rechnungsgrundlagen
+# § 5 – Versicherungsmathematische Rechnungsgrundlagen
 
 (1) Bei der nach versicherungsmathematischen Methoden vorzunehmenden Ableitung von Rechnungsgrundlagen sind sämtliche Umstände, die Änderungen und Schwankungen der aus den zugrunde liegenden Statistiken gewonnenen Daten bewirken können, zu berücksichtigen und nach versicherungsmathematischen Grundsätzen geeignet zu gewichten. Die Ableitung von Rechnungsgrundlagen auf der Basis eines besten Schätzwertes genügt nicht. Die Abschätzung künftiger Verhältnisse muss eine nachteilige Abweichung der relevanten Faktoren von den getroffenen, aus den Statistiken abgeleiteten Annahmen beinhalten. Dies gilt sowohl für die grundsätzlich auf ein einzelnes Risiko abzustellende Bewertung als auch sinngemäß für die Bewertung bei nicht individualisierbaren Risiken, für die keine ausreichenden Statistiken verfügbar sind. Die Beteiligung am Überschuss muss in angemessener Weise über die Laufzeit jedes Vertrages berücksichtigt werden.
 
@@ -85,12 +77,10 @@ Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungs
 
 (+++ § 5 Abs. 3 u. 4: Zur Anwendung vgl. § 5a +++)
 
-
-## § 5a – Übergangsregelung
+# § 5a – Übergangsregelung
 
 § 5 Absatz 3 und 4 in der ab dem 23. Oktober 2018 geltenden Fassung ist erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2017 begonnen hat. Für Geschäftsjahre, die vor dem 1. Januar 2018 begonnen haben, ist § 5 Absatz 3 und 4 in der bis zum 22. Oktober 2018 geltenden Fassung weiterhin anzuwenden.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2016 in Kraft.

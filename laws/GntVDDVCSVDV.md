@@ -1,17 +1,11 @@
-# [GntVDDVCSVDV] Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes – Fachrichtung digitale Verwaltung und Cyber-Sicherheit –  (GntVDDVCSVDV)
-
-Ausfertigungsdatum: 23.09.2020
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes – Fachrichtung digitale Verwaltung und Cyber-Sicherheit –  (GntVDDVCSVDV)
+% Ausfertigungsdatum: 23.09.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes – Absatz 1 Nummer 2 geändert durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) – in Verbindung mit den §§ 10, 10a Absatz 8 sowie Anlage 2 Nummer 22 und Anlage 3 der Bundeslaufbahnverordnung, von denen § 10 zuletzt durch Artikel 1 Nummer 2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert und Anlage 2 Nummer 22 durch Artikel 1 Nummer 9 der Verordnung vom 15. September 2020 (BGBl. I S. 1990) eingefügt worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -93,27 +87,25 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes –
 
  
 
+ 
 
-## § 1 – Studium
+# § 1 – Studium
 
 (1) Als fachspezifischer Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes wird der Vorbereitungsdienst „gehobener nichttechnischer Verwaltungsdienst des Bundes – Fachrichtung digitale Verwaltung und Cyber-Sicherheit – “ eingerichtet.
 
 (2) Der Diplom-Studiengang „Digital Administration and Cyber Security“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes im Verwendungsbereich „digitale Verwaltung und Cyber-Sicherheit“.
 
-
-## § 2 – Ziele des Studiums
+# § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Dienst des Bundes im Verwendungsbereich „digitale Verwaltung und Cyber-Sicherheit“ erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat sowie zur Zusammenarbeit und im föderalen und europäischen Raum befähigen.
 
-
-## § 3 – Dienstbehörde
+# § 3 – Dienstbehörde
 
 (1) Dienstbehörde ist die Hochschule. Für die zur Verwendung beim Bundesnachrichtendienst vorgesehenen Studierenden ist der Bundesnachrichtendienst die Dienstbehörde. Für Studierende, die den Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren (§ 37 Absatz 1 der Bundeslaufbahnverordnung), verbleibt es bei der Zuständigkeit ihrer bisherigen Dienstbehörde.
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
 
-
-## § 4 – Ausbildungsbehörden
+# § 4 – Ausbildungsbehörden
 
 (1) Ausbildungsbehörden sind die Bundesbehörden, die von der Hochschule als Ausbildungsbehörden bestimmt worden sind.
 
@@ -121,8 +113,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 (3) Für Studierende, die den Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren, ist in der Regel die Dienstbehörde die Ausbildungsbehörde. § 30 Absatz 4 bleibt unberührt.
 
-
-## § 5 – Dienstaufsicht
+# § 5 – Dienstaufsicht
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Studierenden ist die Leiterin oder der Leiter der Dienstbehörde.
 
@@ -136,8 +127,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 4. die Studierenden, die den Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren und für die die Hochschule nach § 30 Absatz 4 eine andere Behörde als die Dienstbehörde zur Ausbildungsbehörde bestimmt hat, während der jeweiligen berufspraktischen Studienzeit der Dienstaufsicht der Leiterin oder des Leiters der jeweiligen Ausbildungsbehörde.
 
-
-## § 6 – Erholungsurlaub
+# § 6 – Erholungsurlaub
 
 Die Zeiten des Erholungsurlaubs bestimmt
 
@@ -145,8 +135,7 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 2. während der berufspraktischen Studienzeiten die Ausbildungsbehörde.
 
-
-## § 7 – Nachteilsausgleich
+# § 7 – Nachteilsausgleich
 
 (1) Auf Antrag sind Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, im Auswahlverfahren (§ 10) und bei Prüfungen angemessene Erleichterungen zu gewähren.
 
@@ -160,15 +149,13 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 (4) Gewährte Nachteilsausgleiche sind in der Prüfungsakte (§ 79 Absatz 1) zu dokumentieren.
 
-
-## § 8 – Mitwirkungspflichten der Studierenden
+# § 8 – Mitwirkungspflichten der Studierenden
 
 (1) Die Studierenden sind verpflichtet, der Hochschule Änderungen ihres Namens oder ihrer Anschrift unverzüglich anzuzeigen.
 
 (2) Die Studierenden erhalten von der Hochschule ein persönliches E-Mail-Postfach und Zugang zu einer Online-Lernplattform. Mitteilungen und Auskünfte der Hochschule, die elektronisch übermittelt werden, werden in der Regel über diese elektronischen Mitteilungswege vermittelt. Die Studierenden sind verpflichtet, regelmäßig zu prüfen, ob sie neue elektronische Mitteilungen der Hochschule erhalten haben.
 
-
-## § 9 – Bewertung der Leistungen im Studium und in den Prüfungen
+# § 9 – Bewertung der Leistungen im Studium und in den Prüfungen
 
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen werden wie folgt bewertet:
 
@@ -321,8 +308,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Wenn eine Leistung von zwei Prüfenden bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer Bewertung zusammengefasst werden, wird als Bewertung eine Rangpunktzahl berechnet. Rangpunktzahlen sind auf zwei Nachkommastellen ohne Rundung zu berechnen.
 
-
-## § 10 – Zweck und Durchführung des Auswahlverfahrens
+# § 10 – Zweck und Durchführung des Auswahlverfahrens
 
 (1) Auf der Grundlage eines Auswahlverfahrens entscheidet die Dienstbehörde
 
@@ -346,8 +332,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 2. für die Studienplätze, die vom Bundesnachrichtendienst angeboten werden, vom Bundesnachrichtendienst.
 
-
-## § 11 – Zulassung zum Auswahlverfahren
+# § 11 – Zulassung zum Auswahlverfahren
 
 (1) Die Dienstbehörde lässt zum Auswahlverfahren zu, wer nach den eingereichten Unterlagen die in der Ausschreibung bestimmten Voraussetzungen erfüllt.
 
@@ -357,8 +342,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 12 – Auswahlkommission
+# § 12 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Behörde, die das Auswahlverfahren durchführt, eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt die Hochschule sicher, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -378,13 +362,11 @@ Mitglieder der Auswahlkommission können auch vergleichbare Angestellte sein. Mi
 
 (5) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 13 – Teile des Auswahlverfahrens
+# § 13 – Teile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-
-## § 14 – Festlegungen der Hochschule
+# § 14 – Festlegungen der Hochschule
 
 (1) Die Behörde, die das Auswahlverfahren durchführt, legt fest:
 
@@ -400,8 +382,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder vor jedem Teil des Auswahlverfahrens.
 
-
-## § 15 – Schriftlicher Teil
+# § 15 – Schriftlicher Teil
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere kognitive Fähigkeiten und das Vorhandensein eines technischen Grundverständnisses geprüft.
 
@@ -419,15 +400,13 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (5) Falls im schriftlichen Teil weitere Auswahlinstrumente angewendet werden, kann von der Teilnahme ausgeschlossen werden, wer in dem Leistungstest nach Absatz 2 nicht die Mindestpunktzahl erreicht hat. Dies gilt nicht für schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte behinderte Bewerberinnen und Bewerber.
 
-
-## § 16 – Bestehen des schriftlichen Teils und Rangfolge
+# § 16 – Bestehen des schriftlichen Teils und Rangfolge
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in dem Leistungstest nach § 15 Absatz 2 und im Fall der Ergänzung durch weitere Auswahlinstrumente bei den weiteren Auswahlinstrumenten jeweils die Mindestpunktzahl erreicht worden ist.
 
 (2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
-
-## § 17 – Zulassung zum mündlichen Teil
+# § 17 – Zulassung zum mündlichen Teil
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil bestanden hat.
 
@@ -435,8 +414,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Haben schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte behinderte Bewerberinnen und Bewerber am schriftlichen Teil teilgenommen, so werden sie immer zum mündlichen Teil zugelassen.
 
-
-## § 18 – Mündlicher Teil
+# § 18 – Mündlicher Teil
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere geprüft:
 
@@ -458,13 +436,11 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 4. eine Gruppendiskussion.
 
-
-## § 19 – Bestehen des mündlichen Teils
+# § 19 – Bestehen des mündlichen Teils
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturierten Interview und im Fall der Anwendung weiterer Auswahlinstrumente bei den weiteren Auswahlinstrumenten jeweils die Mindestpunktzahl erreicht worden ist.
 
-
-## § 20 – Gesamtergebnis und Rangfolge
+# § 20 – Gesamtergebnis und Rangfolge
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens teilgenommen hat, das Gesamtergebnis des Auswahlverfahrens.
 
@@ -472,15 +448,13 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn im halbstrukturier
 
 (3) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 21 – Täuschung
+# § 21 – Täuschung
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren ausgeschlossen.
 
 (2) Vor einer Entscheidung sind die Betroffenen anzuhören.
 
-
-## § 22 – Dauer und Gliederung des Studiums
+# § 22 – Dauer und Gliederung des Studiums
 
 (1) Das Studium dauert in der Regel drei Jahre.
 
@@ -538,18 +512,15 @@ Hauptstudium II
 
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
-
-## § 23 – Vertiefungsrichtung
+# § 23 – Vertiefungsrichtung
 
 In der berufspraktischen Studienzeit II sowie im Hauptstudium II ist entweder die Vertiefungsrichtung „Digital Administration“ oder die Vertiefungsrichtung „Cyber Security“ zu absolvieren. Welche Studierenden welche Vertiefungsrichtung absolvieren, gibt die Hochschule mit der Einstellungszusage bekannt.
 
-
-## § 24 – Module
+# § 24 – Module
 
 Die Studieninhalte werden in Modulen vermittelt.
 
-
-## § 25 – Modulhandbuch
+# § 25 – Modulhandbuch
 
 (1) Für das Studium erstellt die Hochschule ein Modulhandbuch.
 
@@ -573,8 +544,7 @@ Die Studieninhalte werden in Modulen vermittelt.
 
 9. grundlegende Anforderungen zur inhaltlichen und organisatorischen Ausgestaltung der Praktika.
 
-
-## § 26 – Module des Grundstudiums
+# § 26 – Module des Grundstudiums
 
 (1) Im Grundstudium sind Module aus folgenden Fachgebieten zu absolvieren:
 
@@ -592,8 +562,7 @@ Die Studieninhalte werden in Modulen vermittelt.
 
 (2) Die Module nach Absatz 1 Nummer 1 bis 3 haben zum Gegenstand die Inhalte des gemeinsamen Grundstudiums am Zentralen Lehrbereich der Hochschule nach § 5 Absatz 4 der Grundordnung der Hochschule des Bundes für öffentliche Verwaltung.
 
-
-## § 27 – Module des Hauptstudiums I
+# § 27 – Module des Hauptstudiums I
 
 Im Hauptstudium I sind Module aus folgenden Fachgebieten zu absolvieren:
 
@@ -605,8 +574,7 @@ Im Hauptstudium I sind Module aus folgenden Fachgebieten zu absolvieren:
 
 4. praktische Informatik.
 
-
-## § 28 – Module des Hauptstudiums II
+# § 28 – Module des Hauptstudiums II
 
 Im Hauptstudium II sind Module aus folgenden Fachgebieten zu absolvieren:
 
@@ -626,13 +594,11 @@ b) technische Informatik,
 
 c) praktische Informatik.
 
-
-## § 29 – Qualitätsmanagement
+# § 29 – Qualitätsmanagement
 
 Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines Qualitätsmanagements nach § 3 Absatz 7 der Grundordnung der Hochschule des Bundes für öffentliche Verwaltung regelt eine Evaluationsordnung.
 
-
-## § 30 – Gliederung, Organisation und Durchführung
+# § 30 – Gliederung, Organisation und Durchführung
 
 (1) Die berufspraktischen Studienzeiten bestehen aus
 
@@ -646,8 +612,7 @@ Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines Qualitätsmanage
 
 (4) Für Studierende, die den Vorbereitungsdienst im Rahmen eines Aufstiegs absolvieren, kann die Hochschule eine andere Behörde als die Dienstbehörde zur Ausbildungsbehörde bestimmen. Die Bestimmung bedarf des Einvernehmens der Dienstbehörde und der Behörde, die zur Ausbildungsbehörde bestimmt werden soll. Die Belange der oder des Studierenden sind zu berücksichtigen.
 
-
-## § 31 – Spezialmodule
+# § 31 – Spezialmodule
 
 (1) Als Spezialmodule sind Fortbildungsveranstaltungen oder andere Bildungsmaßnahmen zu absolvieren.
 
@@ -659,8 +624,7 @@ Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines Qualitätsmanage
 
 (3) Die Inhalte der Spezialmodule müssen einen Bezug zu den Aufgaben aufweisen, die der oder dem Studierenden während des jeweiligen Praktikums übertragen sind.
 
-
-## § 32 – Ausbildungsleitung
+# § 32 – Ausbildungsleitung
 
 (1) Jede Ausbildungsbehörde bestellt im Benehmen mit der Hochschule eine Beamtin oder einen Beamten des gehobenen oder höheren Dienstes als Ausbildungsleitung sowie eine Vertretung. Als Ausbildungsleitung oder Vertretung kann auch eine vergleichbare Angestellte oder ein vergleichbarer Angestellter bestellt werden.
 
@@ -672,8 +636,7 @@ Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines Qualitätsmanage
 
 2. die Ausbildenden.
 
-
-## § 33 – Ausbildende
+# § 33 – Ausbildende
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktischen Studienzeiten Ausbildende.
 
@@ -683,8 +646,7 @@ Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines Qualitätsmanage
 
 (4) Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 34 – Ausbildungsplan
+# § 34 – Ausbildungsplan
 
 (1) Die Ausbildungsbehörde stellt im Einvernehmen mit der Hochschule für jede Studierende und jeden Studierenden einen Ausbildungsplan auf.
 
@@ -692,25 +654,21 @@ Die Einzelheiten der Evaluation der Fachstudien im Rahmen eines Qualitätsmanage
 
 (3) Der Ausbildungsplan wird der oder dem Studierenden bekannt gegeben.
 
-
-## § 35 – Bewertung der Praktika
+# § 35 – Bewertung der Praktika
 
 (1) Die Ausbildungsleitung bewertet nach Anhörung der Ausbildenden in einer Beurteilung die Leistungen der Studierenden für jedes Praktikum mit Rangpunkten.
 
 (2) Die Bewertung ist mit der oder dem Studierenden zu besprechen.
 
-
-## § 36 – Rangpunktzahl der Praktika
+# § 36 – Rangpunktzahl der Praktika
 
 Die Rangpunktzahl der Praktika ist das arithmetische Mittel der Einzelbewertungen der Praktika.
 
-
-## § 37 – Diplomprüfung
+# § 37 – Diplomprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung.
 
-
-## § 38 – Bestandteile der Laufbahnprüfung
+# § 38 – Bestandteile der Laufbahnprüfung
 
 Die Laufbahnprüfung besteht aus
 
@@ -720,15 +678,13 @@ Die Laufbahnprüfung besteht aus
 
 3. der Diplomarbeit.
 
-
-## § 39 – Zuständigkeiten
+# § 39 – Zuständigkeiten
 
 (1) Für die Organisation und Durchführung der Zwischenprüfung ist das Prüfungsamt für das Grundstudium am Zentralen Lehrbereich der Hochschule zuständig.
 
 (2) Für die Organisation und Durchführung der Modulprüfungen des Hauptstudiums und der Diplomarbeit ist das Prüfungsamt in der Zentralen Hochschulverwaltung zuständig.
 
-
-## § 40 – Durchführung der Modulprüfungen
+# § 40 – Durchführung der Modulprüfungen
 
 (1) Modulprüfungen werden durchgeführt insbesondere in Form
 
@@ -752,8 +708,7 @@ Die Laufbahnprüfung besteht aus
 
 (4) An einem Tag darf nur eine Modulprüfung abgelegt werden.
 
-
-## § 41 – Durchführung der Klausuren
+# § 41 – Durchführung der Klausuren
 
 (1) Die Bearbeitungszeit für eine Klausur beträgt mindestens 120 und höchstens 240 Minuten.
 
@@ -761,8 +716,7 @@ Die Laufbahnprüfung besteht aus
 
 (3) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen. Dafür erstellt das Prüfungsamt eine Übersicht, in der die Kennziffern den Namen der Studierenden zugeordnet sind. Die Übersicht ist geheim zu halten.
 
-
-## § 42 – Multiple-Choice-Aufgaben
+# § 42 – Multiple-Choice-Aufgaben
 
 (1) Multiple-Choice-Aufgaben können entweder als Einfach-Auswahlaufgaben (1 aus n) oder als Mehrfach-Auswahlaufgaben (x aus n) gestellt werden.
 
@@ -910,8 +864,7 @@ Rangpunkte
 
 (7) Multiple-Choice-Aufgaben können elektronisch gestellt, bearbeitet und ausgewertet werden. Die Integrität der Daten und die automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
-
-## § 43 – Prüfende
+# § 43 – Prüfende
 
 (1) Die Prüfenden müssen mindestens einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen.
 
@@ -919,20 +872,17 @@ Rangpunkte
 
 (3) Sind für die Bewertung einer Prüfung oder eines Prüfungsteils zwei Prüfende vorgeschrieben, so bewerten sie die Leistung unabhängig voneinander. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben.
 
-
-## § 44 – Abweichende Bewertungen
+# § 44 – Abweichende Bewertungen
 
 Wird eine Prüfung oder ein Prüfungsteil von zwei Prüfenden bewertet, wird das arithmetische Mittel der beiden Bewertungen gebildet.
 
-
-## § 45 – Zweck
+# § 45 – Zweck
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
 (2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass sie einen Wissens- und Kenntnisstand erreicht haben, der ein erfolgreiches weiteres Studium erwarten lässt.
 
-
-## § 46 – Gegenstände der Zwischenprüfung
+# § 46 – Gegenstände der Zwischenprüfung
 
 (1) Die Zwischenprüfung besteht aus acht Modulprüfungen, von denen je vier im ersten und im zweiten Semester abgelegt werden.
 
@@ -942,25 +892,21 @@ Wird eine Prüfung oder ein Prüfungsteil von zwei Prüfenden bewertet, wird das
 
 2. zwei Modulprüfungen zu den Inhalten von Modulen geschrieben, die in den Fachgebieten des § 26 Absatz 1 Nummer 4 bis 6 zu absolvieren sind.
 
-
-## § 47 – Prüfende für die Zwischenprüfung
+# § 47 – Prüfende für die Zwischenprüfung
 
 (1) Jede abgelegte Modulprüfung der Zwischenprüfung wird von einer oder einem Prüfenden bewertet.
 
 (2) Für jede gestellte Modulprüfung bestellt das Prüfungsamt Prüfende in ausreichender Zahl. Die Prüfenden sollen haupt- oder nebenamtliche Lehrkräfte der Hochschule sein.
 
-
-## § 48 – Zulassung zu den Modulprüfungen der Zwischenprüfung des zweiten Semesters
+# § 48 – Zulassung zu den Modulprüfungen der Zwischenprüfung des zweiten Semesters
 
 Zu den Modulprüfungen der Zwischenprüfung des zweiten Semesters wird zugelassen, wer in mindestens zwei Modulprüfungen der Zwischenprüfung des ersten Semesters jeweils eine Rangpunktzahl von mindestens 5,00 erreicht hat.
 
-
-## § 49 – Rangpunktzahl für die Zwischenprüfung
+# § 49 – Rangpunktzahl für die Zwischenprüfung
 
 Aus den Bewertungen der Modulprüfungen der Zwischenprüfung wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen der einzelnen Modulprüfungen ist.
 
-
-## § 50 – Bestehen der Zwischenprüfung
+# § 50 – Bestehen der Zwischenprüfung
 
 Die Zwischenprüfung hat bestanden,
 
@@ -968,8 +914,7 @@ Die Zwischenprüfung hat bestanden,
 
 2. bei wem die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
 
-
-## § 51 – Zwischenprüfungszeugnis
+# § 51 – Zwischenprüfungszeugnis
 
 Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zwischenprüfungszeugnis mit Angabe
 
@@ -977,13 +922,11 @@ Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zwischenpr�
 
 2. der Rangpunktzahl der Zwischenprüfung.
 
-
-## § 52 – Bescheid über die nicht bestandene Zwischenprüfung
+# § 52 – Bescheid über die nicht bestandene Zwischenprüfung
 
 Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Zwischenprüfung. Aus dem Bescheid müssen das Ergebnis der Zwischenprüfung und die absolvierten Module hervorgehen.
 
-
-## § 53 – Wiederholung der Zwischenprüfung
+# § 53 – Wiederholung der Zwischenprüfung
 
 (1) Wird die Zwischenprüfung wiederholt, so werden die nicht bestandenen Modulprüfungen wiederholt.
 
@@ -995,32 +938,27 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 (5) Sind zwei Modulprüfungen der Zwischenprüfung endgültig nicht bestanden, ist das Studium beendet.
 
-
-## § 54 – Gegenstand der Modulprüfungen des Hauptstudiums
+# § 54 – Gegenstand der Modulprüfungen des Hauptstudiums
 
 (1) In jedem Modul des Hauptstudiums ist eine Prüfung abzulegen. In Spezialmodulen sind keine Prüfungen abzulegen.
 
 (2) Höchstens jeweils zwei Modulprüfungen des Hauptstudiums können in einer Prüfung zusammengefasst werden.
 
-
-## § 55 – Prüfende für die Modulprüfungen des Hauptstudiums
+# § 55 – Prüfende für die Modulprüfungen des Hauptstudiums
 
 (1) Jede Modulprüfung wird von einer oder einem Prüfenden bewertet.
 
 (2) Für jede Modulprüfung bestellt das Prüfungsamt Prüfende in ausreichender Zahl. Die Prüfenden sollen haupt- oder nebenamtliche Lehrkräfte der Hochschule sein.
 
-
-## § 56 – Bestehen der Modulprüfungen des Hauptstudiums
+# § 56 – Bestehen der Modulprüfungen des Hauptstudiums
 
 Eine Modulprüfung des Hauptstudiums ist bestanden, wenn eine Rangpunktzahl von mindestens 5,00 erreicht wurde.
 
-
-## § 57 – Rangpunktzahl der Modulprüfungen des Hauptstudiums
+# § 57 – Rangpunktzahl der Modulprüfungen des Hauptstudiums
 
 Aus den Bewertungen der Modulprüfungen wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen der einzelnen Modulprüfungen ist.
 
-
-## § 58 – Wiederholung einer Modulprüfung des Hauptstudiums
+# § 58 – Wiederholung einer Modulprüfung des Hauptstudiums
 
 (1) Wird eine Modulprüfung des Hauptstudiums wiederholt, so wird die Wiederholungsprüfung in derselben Form durchgeführt wie die nicht bestandene Prüfung.
 
@@ -1032,13 +970,11 @@ Aus den Bewertungen der Modulprüfungen wird eine Rangpunktzahl berechnet, die d
 
 (5) Sind drei Modulprüfungen endgültig nicht bestanden, ist das Studium beendet.
 
-
-## § 59 – Zweck der Diplomarbeit
+# § 59 – Zweck der Diplomarbeit
 
 Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig zu bearbeiten.
 
-
-## § 60 – Bestandteile der Diplomarbeit
+# § 60 – Bestandteile der Diplomarbeit
 
 Die Diplomarbeit besteht aus
 
@@ -1048,8 +984,7 @@ Die Diplomarbeit besteht aus
 
 3. der Disputation.
 
-
-## § 61 – Thema und Bearbeitungszeit der Diplomarbeit
+# § 61 – Thema und Bearbeitungszeit der Diplomarbeit
 
 (1) Das Thema der Diplomarbeit wird vom Prüfungsamt bestimmt. Eine hauptamtliche Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor. Der oder dem Studierenden ist während des Hauptstudiums I Gelegenheit zu geben, der oder dem Vorschlagsberechtigten eigene Themenvorschläge zu unterbreiten. Auch nebenamtliche Lehrkräfte der Hochschule sowie die Ausbildungsbehörden können der oder dem Vorschlagsberechtigten Themenvorschläge unterbreiten.
 
@@ -1061,13 +996,11 @@ Die Diplomarbeit besteht aus
 
 (5) Das Thema der Diplomarbeit und der Tag der Ausgabe sind aktenkundig zu machen.
 
-
-## § 62 – Formale Anforderungen an die schriftliche Ausarbeitung
+# § 62 – Formale Anforderungen an die schriftliche Ausarbeitung
 
 Die formalen Anforderungen an die schriftliche Ausarbeitung legt das Prüfungsamt fest.
 
-
-## § 63 – Prüfende für die Diplomarbeit
+# § 63 – Prüfende für die Diplomarbeit
 
 (1) Für die Bewertung der Diplomarbeit bestellt das Prüfungsamt eine Erstprüfende oder einen Erstprüfenden sowie eine Zweitprüfende oder einen Zweitprüfenden. Für die Prüfenden gelten folgende Anforderungen:
 
@@ -1081,15 +1014,13 @@ Prüfende können auch Angestellte sein.
 
 (2) Die Bewertung soll innerhalb von sechs Wochen abgeschlossen werden.
 
-
-## § 64 – Betreuung und Freistellung bei der schriftlichen Ausarbeitung
+# § 64 – Betreuung und Freistellung bei der schriftlichen Ausarbeitung
 
 (1) Bei der schriftlichen Ausarbeitung wird die oder der Studierende von der oder dem Erstprüfenden betreut.
 
 (2) Zur Anfertigung der schriftlichen Ausarbeitung werden die Studierenden vier Wochen von der Ableistung des Praktikums der berufspraktischen Studienzeit II freigestellt.
 
-
-## § 65 – Abgabe der schriftlichen Ausarbeitung
+# § 65 – Abgabe der schriftlichen Ausarbeitung
 
 (1) Der Termin für die Abgabe wird vom Prüfungsamt festgelegt.
 
@@ -1105,13 +1036,11 @@ Sofern die schriftliche Ausarbeitung elektronisch übermittelt wird, kann die Ve
 
 (4) Wird die schriftliche Ausarbeitung nach dem Abgabetermin abgegeben, so gilt sie als mit null Rangpunkten bewertet.
 
-
-## § 66 – Zulassung zu Präsentation und Disputation
+# § 66 – Zulassung zu Präsentation und Disputation
 
 Zu Präsentation und Disputation wird zugelassen, wer in der schriftlichen Ausarbeitung eine Rangpunktzahl von mindestens 5,00 erreicht hat.
 
-
-## § 67 – Zweck der Präsentation und der Disputation
+# § 67 – Zweck der Präsentation und der Disputation
 
 Durch die Präsentation und die Disputation sollen die Studierenden nachweisen, dass sie fundiertes Wissen auf dem bearbeiteten Themengebiet besitzen und dass sie fähig sind,
 
@@ -1121,8 +1050,7 @@ Durch die Präsentation und die Disputation sollen die Studierenden nachweisen, 
 
 3. sich mit Einwänden auseinanderzusetzen.
 
-
-## § 68 – Durchführung der Präsentation und der Disputation
+# § 68 – Durchführung der Präsentation und der Disputation
 
 (1) Die Präsentation und die Disputation werden als Einzelprüfungen durchgeführt.
 
@@ -1130,8 +1058,7 @@ Durch die Präsentation und die Disputation sollen die Studierenden nachweisen, 
 
 (3) Die Disputation ist an die Präsentation anzuschließen. Die Disputation soll mindestens 20 Minuten und höchstens 30 Minuten dauern.
 
-
-## § 69 – Zuhörerinnen und Zuhörer bei der Präsentation und der Disputation
+# § 69 – Zuhörerinnen und Zuhörer bei der Präsentation und der Disputation
 
 (1) Die Präsentation und die Disputation sind hochschulöffentlich, wenn die oder der Studierende oder ihre oder seine Ausbildungsbehörde dem nicht widerspricht.
 
@@ -1141,8 +1068,7 @@ Durch die Präsentation und die Disputation sollen die Studierenden nachweisen, 
 
 (4) Bei den Beratungen der Prüfenden dürfen nur die Prüfenden anwesend sein.
 
-
-## § 70 – Bewertung, Rangpunktzahl und Note der Diplomarbeit
+# § 70 – Bewertung, Rangpunktzahl und Note der Diplomarbeit
 
 (1) Die Bestandteile der Diplomarbeit werden einzeln bewertet.
 
@@ -1156,8 +1082,7 @@ Durch die Präsentation und die Disputation sollen die Studierenden nachweisen, 
 
 (3) Der Rangpunktzahl wird die entsprechende Note zugeordnet und als Note der Diplomarbeit festgesetzt.
 
-
-## § 71 – Protokoll zu Präsentation und Disputation
+# § 71 – Protokoll zu Präsentation und Disputation
 
 (1) Über die Präsentation und Disputation ist ein Protokoll anzufertigen.
 
@@ -1165,13 +1090,11 @@ Durch die Präsentation und die Disputation sollen die Studierenden nachweisen, 
 
 (3) Das Protokoll ist von den Prüfenden zu bestätigen.
 
-
-## § 72 – Bestehen der Diplomarbeit
+# § 72 – Bestehen der Diplomarbeit
 
 Die Diplomarbeit hat bestanden, wer in jedem Bestandteil der Diplomarbeit eine Rangpunktzahl von mindestens 5,00 erreicht hat.
 
-
-## § 73 – Wiederholung der Diplomarbeit
+# § 73 – Wiederholung der Diplomarbeit
 
 (1) Studierende, die die Diplomarbeit nicht bestanden haben, können sie einmal wiederholen.
 
@@ -1185,8 +1108,7 @@ Die Diplomarbeit hat bestanden, wer in jedem Bestandteil der Diplomarbeit eine R
 
 (6) Die Rangpunkte, die bei der Wiederholung der Diplomarbeit erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 74 – Bestehen der Laufbahnprüfung und Abschlussnote
+# § 74 – Bestehen der Laufbahnprüfung und Abschlussnote
 
 (1) Das Prüfungsamt errechnet die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest.
 
@@ -1212,8 +1134,7 @@ Die Diplomarbeit hat bestanden, wer in jedem Bestandteil der Diplomarbeit eine R
 
 (4) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet und als Abschlussnote festgesetzt.
 
-
-## § 75 – Abschlusszeugnis und Diplomurkunde
+# § 75 – Abschlusszeugnis und Diplomurkunde
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
@@ -1235,8 +1156,7 @@ Die Diplomarbeit hat bestanden, wer in jedem Bestandteil der Diplomarbeit eine R
 
 4. das Thema, die Rangpunktzahl und die Note der Diplomarbeit.
 
-
-## § 76 – Bescheid über die nicht bestandene Prüfung
+# § 76 – Bescheid über die nicht bestandene Prüfung
 
 Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
@@ -1246,8 +1166,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 Aus der Bescheinigung müssen das Ergebnis der Zwischenprüfung, die absolvierten Module und deren Bewertung hervorgehen.
 
-
-## § 77 – Verhinderung
+# § 77 – Verhinderung
 
 (1) Sind Studierende an der Erbringung einer Prüfungsleistung ganz oder teilweise gehindert, so können sie beim Prüfungsamt beantragen, dass die Verhinderung genehmigt wird.
 
@@ -1259,8 +1178,7 @@ Aus der Bescheinigung müssen das Ergebnis der Zwischenprüfung, die absolvierte
 
 (5) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der Verhinderung als Bearbeitungszeit. Wird in diesem Fall gar keine Prüfungsleistung erbracht, so gilt die Prüfungsleistung als mit null Rangpunkten bewertet.
 
-
-## § 78 – Täuschung, Ordnungsverstoß
+# § 78 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil täuschen, zu täuschen versuchen oder an einer Täuschung oder einem Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes gestattet werden. Bei einem erheblichen Verstoß können die Studierenden von der weiteren Teilnahme an der Prüfung oder dem Prüfungsteil ausgeschlossen werden.
 
@@ -1278,8 +1196,7 @@ Aus der Bescheinigung müssen das Ergebnis der Zwischenprüfung, die absolvierte
 
 (5) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 79 – Prüfungsakte und Einsichtnahme
+# § 79 – Prüfungsakte und Einsichtnahme
 
 (1) Zu jeder und jedem Studierenden wird eine Prüfungsakte geführt.
 
@@ -1301,8 +1218,7 @@ Aus der Bescheinigung müssen das Ergebnis der Zwischenprüfung, die absolvierte
 
 (4) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme in die Prüfungsakte ist aktenkundig zu machen.
 
-
-## § 80 – Anerkennung von Studienleistungen und Prüfungsleistungen
+# § 80 – Anerkennung von Studienleistungen und Prüfungsleistungen
 
 (1) Auf Antrag der oder des Studierenden können folgende Leistungen anerkannt werden:
 
@@ -1322,7 +1238,6 @@ c) vor einem staatlichen Prüfungsausschuss.
 
 (4) Das Nähere zur Anerkennung von Studien- und Prüfungsleistungen, insbesondere zur Übernahme der Bewertung oder zur Zuordnung einer Bewertung, regelt die Hochschule in einer Richtlinie.
 
-
-## § 81 – Inkrafttreten
+# § 81 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

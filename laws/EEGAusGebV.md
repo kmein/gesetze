@@ -1,10 +1,7 @@
-# [EEGAusGebV] Verordnung über Gebühren und Auslagen der Bundesnetzagentur im Zusammenhang mit ihren Aufgaben nach dem Erneuerbare-Energien-Gesetz und Ausschreibungen nach dem Kraft-Wärme-Kopplungsgesetz  (EEG- und Ausschreibungsgebührenverordnung - EEGAusGebV)
-
-Ausfertigungsdatum: 06.02.2015
-
+% Verordnung über Gebühren und Auslagen der Bundesnetzagentur im Zusammenhang mit ihren Aufgaben nach dem Erneuerbare-Energien-Gesetz und Ausschreibungen nach dem Kraft-Wärme-Kopplungsgesetz  (EEG- und Ausschreibungsgebührenverordnung - EEGAusGebV)
+% Ausfertigungsdatum: 06.02.2015
  
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Die Bundesnetzagentur erhebt Gebühren und Auslagen
 
@@ -26,8 +23,7 @@ e) den §§ 8a und 8b des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (
 
 (2) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus dem Gebührenverzeichnis der Anlage zu dieser Verordnung.
 
-
-## § 2 – Ermäßigung der Gebühr
+# § 2 – Ermäßigung der Gebühr
 
 (1) Die Gebühren nach den Nummern 1 und 3 der Anlage zu dieser Rechtsverordnung ermäßigen sich nach § 15 Absatz 2 des Verwaltungskostengesetzes um ein Viertel, wenn das Gebot
 
@@ -55,13 +51,11 @@ e) den §§ 8a und 8b des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (
 
 (3) § 15 Absatz 2 zweiter Halbsatz des Verwaltungskostengesetzes bleibt unberührt.
 
-
-## § 3 – Verordnungsermächtigung
+# § 3 – Verordnungsermächtigung
 
 Die Bundesnetzagentur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie die gebührenpflichtigen Tatbestände sowie die Gebührensätze nach der Anlage zu dieser Verordnung abweichend zu regeln.
 
-
-## Anlage – (zu § 1 Absatz 2)Gebührenverzeichnis
+# Anlage – (zu § 1 Absatz 2)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2016, 2347  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

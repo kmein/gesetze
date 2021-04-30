@@ -1,10 +1,7 @@
-# [BewachV] Verordnung über das Bewachungsgewerbe  (Bewachungsverordnung - BewachV)
-
-Ausfertigungsdatum: 03.05.2019
-
+% Verordnung über das Bewachungsgewerbe  (Bewachungsverordnung - BewachV)
+% Ausfertigungsdatum: 03.05.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen auf Grund
 
@@ -14,10 +11,7 @@ des § 11b Absatz 9 Nummer 3 der Gewerbeordnung in der Fassung der Bekanntmachun
 –  
 des § 34a Absatz 2 in Verbindung mit § 32 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), von denen § 34a Absatz 2 zuletzt durch Artikel 1 Nummer 4 Buchstabe d des Gesetzes vom 29. November 2018 (BGBl. I S. 2666) geändert und § 32 durch Artikel 2 Nummer 4 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2354) eingefügt worden sind, das Bundesministerium für Wirtschaft und Energie:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -47,8 +41,9 @@ des § 34a Absatz 2 in Verbindung mit § 32 der Gewerbeordnung in der Fassung de
 
  
 
+ 
 
-## § 1 – Örtliche Zuständigkeit
+# § 1 – Örtliche Zuständigkeit
 
 (1) § 34a der Gewerbeordnung wird für Gewerbetreibende sowie mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragte Personen im Sinne des § 34a Absatz 1a Satz 3 der Gewerbeordnung durch die zuständige Behörde vollzogen, in deren Bezirk das Unternehmen oder im Falle von Niederlassungen die Hauptniederlassung betrieben wird oder werden soll.
 
@@ -56,8 +51,7 @@ des § 34a Absatz 2 in Verbindung mit § 32 der Gewerbeordnung in der Fassung de
 
 (3) Die örtliche Zuständigkeit für die Untersagung der Beschäftigung einer Person nach § 34a Absatz 4 der Gewerbeordnung richtet sich nach Absatz 1.
 
-
-## § 2 – Unterrichtung in Strafsachen
+# § 2 – Unterrichtung in Strafsachen
 
 In Strafsachen gegen Gewerbetreibende im Sinne des § 34a Absatz 1 Satz 1 der Gewerbeordnung, gegen mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragte Personen im Sinne des § 34a Absatz 1a Satz 3 der Gewerbeordnung und gegen Wachpersonen im Sinne des § 34a Absatz 1a Satz 1 der Gewerbeordnung übermitteln Staatsanwaltschaften und Gerichte folgende Informationen an die für den Vollzug des § 34a Gewerbeordnung zuständige Behörde, wenn der Tatvorwurf geeignet ist, Zweifel an der Zuverlässigkeit hervorzurufen:
 
@@ -71,8 +65,7 @@ In Strafsachen gegen Gewerbetreibende im Sinne des § 34a Absatz 1 Satz 1 der Ge
 
 Die Übermittlung von Informationen nach Satz 1 soll in einem elektronischen Verfahren erfolgen.
 
-
-## § 3 – Angaben bei der Antragstellung
+# § 3 – Angaben bei der Antragstellung
 
 (1) Mit einem Antrag auf Erteilung einer Erlaubnis nach § 34a Absatz 1 der Gewerbeordnung hat die den Antrag stellende Person der zuständigen Behörde folgende Angaben zu übermitteln:
 
@@ -135,25 +128,21 @@ f) Telefonnummer, E-Mail-Adresse.
 
 (3) Änderungen der Angaben nach Absatz 1, die nach Antragstellung eintreten, hat die den Antrag stellende Person der zuständigen Behörde unverzüglich mitzuteilen.
 
-
-## § 4 – Zweck
+# § 4 – Zweck
 
 Zweck der Unterrichtung nach § 34a Absatz 1a Satz 1 Nummer 2 der Gewerbeordnung ist es, Wachpersonen so zu befähigen, dass sie mit den für eine eigenverantwortliche Wahrnehmung von Bewachungsaufgaben erforderlichen Rechten und Pflichten sowie den damit verbundenen Befugnissen und deren praktischer Anwendung vertraut sind.
 
-
-## § 5 – Zuständige Stelle
+# § 5 – Zuständige Stelle
 
 Die Unterrichtung kann bei jeder Industrie- und Handelskammer erfolgen, die diese anbietet.
 
-
-## § 6 – Verfahren
+# § 6 – Verfahren
 
 (1) Die Unterrichtung erfolgt mündlich. Die zu unterrichtende Person muss über die zur Ausübung der Tätigkeit und zum Verständnis des Unterrichtungsverfahrens unverzichtbaren deutschen Sprachkenntnisse, mindestens auf dem Kompetenzniveau B1 des Gemeinsamen Europäischen Referenzrahmens verfügen. Die Unterrichtung hat mindestens 40 Unterrichtsstunden zu dauern. Eine Unterrichtsstunde beträgt 45 Minuten. Mehrere Personen können gleichzeitig unterrichtet werden, wobei die Zahl der Unterrichtsteilnehmer 20 nicht übersteigen soll.
 
 (2) Die Industrie- und Handelskammer stellt eine Bescheinigung nach Anlage 1 aus, wenn die unterrichtete Person am Unterricht ohne Fehlzeiten teilgenommen hat und sich die Industrie- und Handelskammer durch geeignete Maßnahmen, insbesondere durch einen aktiven Dialog der unterrichtenden Person mit den Unterrichtsteilnehmern sowie durch mündliche und schriftliche Verständnisfragen nach jedem Sachgebiet, davon überzeugt hat, dass die Person mit den für eine eigenverantwortliche Wahrnehmung von Bewachungsaufgaben erforderlichen Rechten und Pflichten sowie den damit verbundenen Befugnissen und deren praktischer Anwendung nach Maßgabe des § 7 vertraut ist.
 
-
-## § 7 – Inhalt der Unterrichtung
+# § 7 – Inhalt der Unterrichtung
 
 Die Unterrichtung umfasst nach näherer Bestimmung der Anlage 2 für alle Arten des Bewachungsgewerbes die fachspezifischen Rechte, Pflichten und Befugnisse folgender Sachgebiete:
 
@@ -171,8 +160,7 @@ Die Unterrichtung umfasst nach näherer Bestimmung der Anlage 2 für alle Arten 
 
 7. Grundzüge der Sicherheitstechnik.
 
-
-## § 8 – Anerkennung anderer Nachweise
+# § 8 – Anerkennung anderer Nachweise
 
 Bei Vorliegen folgender Nachweise ist der Nachweis einer Unterrichtung nicht erforderlich:
 
@@ -196,22 +184,19 @@ f) als geprüfter Werkschutzmeister oder als geprüfte Werkschutzmeisterin,
 
 4. Bescheinigung über eine erfolgreich abgelegte Sachkundeprüfung nach § 11 Absatz 7.
 
-
-## § 9 – Zweck und Gegenstand der Sachkundeprüfung
+# § 9 – Zweck und Gegenstand der Sachkundeprüfung
 
 (1) Zweck der Sachkundeprüfung nach § 34a Absatz 1 Satz 3 Nummer 3 und Absatz 1a Satz 2 der Gewerbeordnung ist es, den Nachweis zu erbringen, dass die dort genannten Personen die für die eigenverantwortliche Wahrnehmung der Bewachungsaufgaben erforderlichen Kenntnisse über die dafür notwendigen rechtlichen Vorschriften und fachbezogenen Pflichten und Befugnisse sowie deren praktische Anwendung erworben haben.
 
 (2) Gegenstand der Sachkundeprüfung sind die in § 7 in Verbindung mit Anlage 2 aufgeführten Sachgebiete; die Prüfung soll sich auf jedes der dort aufgeführten Gebiete erstrecken.
 
-
-## § 10 – Zuständige Stelle und Prüfungsausschuss
+# § 10 – Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer abgelegt werden, die diese anbietet.
 
 (2) Für die Abnahme der Prüfung errichtet die Industrie- und Handelskammer mindestens einen Prüfungsausschuss. Sie beruft die Mitglieder des Ausschusses sowie den Vorsitzenden und seinen Stellvertreter. Die Mitglieder müssen für die Prüfungsgebiete sachkundig und für die Mitwirkung im Prüfungswesen geeignet sein.
 
-
-## § 11 – Prüfung, Verfahren
+# § 11 – Prüfung, Verfahren
 
 (1) Die Sachkundeprüfung ist in einen mündlichen und einen schriftlichen Teil zu gliedern.
 
@@ -241,20 +226,17 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
 
 (8) Die Einzelheiten des Prüfungsverfahrens regeln die Industrie- und Handelskammern nach Maßgabe des § 32 der Gewerbeordnung durch Satzung.
 
-
-## § 12 – Anerkennung anderer Nachweise
+# § 12 – Anerkennung anderer Nachweise
 
 Inhaber der in § 8 Nummer 1 bis 3 genannten Nachweise bedürfen nicht der Prüfung nach § 9.
 
-
-## § 13 – Gebrauch der Dienstleistungsfreiheit
+# § 13 – Gebrauch der Dienstleistungsfreiheit
 
 (1) Wenn unter Berücksichtigung der konkret beabsichtigten Tätigkeit bei unzureichender Qualifikation eine schwere Gefahr für die Gesundheit oder Sicherheit der Dienstleistungsempfänger bestünde, hat die für den Vollzug des § 34a der Gewerbeordnung zuständige Behörde vor dem erstmaligen Erbringen einer nur vorübergehenden und gelegentlichen Bewachungsdienstleistung im Inland zu überprüfen, ob ein wesentlicher Unterschied zwischen der Qualifikation der nach § 13a der Gewerbeordnung Anzeige erstattenden Person und den geforderten Kenntnissen besteht.
 
 (2) Im Fall des § 13a Absatz 3 der Gewerbeordnung unterrichtet die für den Vollzug des § 34a der Gewerbeordnung zuständige Behörde die Anzeige erstattende Person über ihr Wahlrecht nach § 13c Absatz 3 der Gewerbeordnung.
 
-
-## § 14 – Umfang der Versicherung
+# § 14 – Umfang der Versicherung
 
 (1) Die Versicherung nach § 34a Absatz 1 Satz 3 Nummer 4 der Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen abgeschlossen werden.
 
@@ -272,8 +254,7 @@ Die Leistungen des Versicherungsunternehmens für alle innerhalb eines Versicher
 
 (3) Der Versicherungsvertrag muss Deckung für die sich aus der gewerblichen Tätigkeit nach § 34a Absatz 1 Satz 1 der Gewerbeordnung ergebenden Haftpflichtgefahren für Personen-, Sach- und Vermögensschäden gewähren. Der Versicherungsvertrag muss sich auch auf solche Schäden erstrecken, für die der Versicherungspflichtige nach § 278 oder § 831 des Bürgerlichen Gesetzbuchs einzustehen hat, soweit Erfüllungsgehilfen oder Verrichtungsgehilfen nicht selbst zum Abschluss einer solchen Berufshaftpflichtversicherung verpflichtet sind. Ist der Gewerbetreibende in einer oder mehreren Personenhandelsgesellschaften als geschäftsführender Gesellschafter tätig, so muss für die jeweilige Personenhandelsgesellschaft jeweils ein Versicherungsvertrag abgeschlossen werden; der Versicherungsvertrag kann auch die Tätigkeit des Gewerbetreibenden nach Satz 1 abdecken.
 
-
-## § 15 – Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
+# § 15 – Versicherungsbestätigung, Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum Zeitpunkt der Antragstellung bei der für die Erlaubniserteilung nach § 34a der Gewerbeordnung zuständigen Behörde nicht älter als drei Monate sein.
 
@@ -287,8 +268,7 @@ Die Leistungen des Versicherungsunternehmens für alle innerhalb eines Versicher
 
 (3) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach § 34a der Gewerbeordnung zuständige Behörde.
 
-
-## § 16 – Beschäftigte, An- und Abmeldung von Wach- und Leitungspersonal
+# § 16 – Beschäftigte, An- und Abmeldung von Wach- und Leitungspersonal
 
 (1) Der Gewerbetreibende darf mit Bewachungsaufgaben sowie mit der Leitung eines Betriebs oder einer Zweigniederlassung nur eine Person beschäftigen, wenn er das Verfahren nach den Absätzen 2 und 3 eingehalten hat, die Mitteilung nach Absatz 2 Satz 3 oder die Bestätigung nach Absatz 3 Satz 2 erhalten hat und die zu beschäftigende Person
 
@@ -348,8 +328,7 @@ Der Gewerbetreibende erhält vom Bewacherregister eine elektronische Bestätigun
 
 (6) Die Abmeldung von Wachpersonen und mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragte Personen richtet sich nach § 11b Absatz 6 Satz 5 der Gewerbeordnung.
 
-
-## § 17 – Dienstanweisung
+# § 17 – Dienstanweisung
 
 (1) Der Gewerbetreibende hat den Wachdienst durch eine Dienstanweisung nach Maßgabe der Sätze 2 und 3 zu regeln. Die Dienstanweisung muss den Hinweis enthalten, dass die Wachperson nicht die Eigenschaft und die Befugnisse eines Polizeivollzugsbeamten, oder eines sonstigen Bediensteten einer Behörde besitzt. Die Dienstanweisung muss ferner bestimmen, dass die Wachperson während des Dienstes nur mit Zustimmung des Gewerbetreibenden eine Schusswaffe, Hieb- und Stoßwaffen sowie Reizstoffsprühgeräte führen darf und jeden Gebrauch dieser Waffen unverzüglich der zuständigen Polizeidienststelle und dem Gewerbetreibenden anzuzeigen hat.
 
@@ -357,8 +336,7 @@ Der Gewerbetreibende erhält vom Bewacherregister eine elektronische Bestätigun
 
 (3) Der Gewerbetreibende hat die in seinem Gewerbebetrieb beschäftigten Personen vor der ersten Aufnahme der Bewachungstätigkeit schriftlich zu verpflichten, auch nach ihrem Ausscheiden Geschäfts- und Betriebsgeheimnisse Dritter, die ihnen in Ausübung des Dienstes bekannt geworden sind, nicht unbefugt zu offenbaren.
 
-
-## § 18 – Ausweis, Kennzeichnung der Wachperson
+# § 18 – Ausweis, Kennzeichnung der Wachperson
 
 (1) Der Gewerbetreibende hat der Wachperson spätestens vor der ersten Aufnahme der Bewachungstätigkeit einen Ausweis nach Maßgabe der Sätze 2 und 3 auszustellen. Der Ausweis muss enthalten:
 
@@ -380,22 +358,19 @@ Der Ausweis muss so beschaffen sein, dass er sich von amtlichen Ausweisen deutli
 
 (4) Die Absätze 1 bis 3 gelten entsprechend für Gewerbetreibende, die selbst als Wachperson tätig werden.
 
-
-## § 19 – Dienstkleidung
+# § 19 – Dienstkleidung
 
 (1) Bestimmt der Gewerbetreibende für seine Wachpersonen eine Dienstkleidung, so hat er dafür zu sorgen, dass sie sich von Uniformen der Angehörigen von Streitkräften oder behördlichen Vollzugsorganen deutlich unterscheiden und dass keine Abzeichen verwendet werden, die Amtsabzeichen zum Verwechseln ähnlich sind.
 
 (2) Jede Wachperson, die befriedetes Besitztum in Ausübung ihres Dienstes betreten soll, muss eine Dienstkleidung tragen. Satz 1 gilt entsprechend für Gewerbetreibende, die selbst als Wachperson tätig werden.
 
-
-## § 20 – Behandlung der Waffen und Anzeigepflicht nach Waffengebrauch
+# § 20 – Behandlung der Waffen und Anzeigepflicht nach Waffengebrauch
 
 (1) Der Gewerbetreibende ist für die sichere Aufbewahrung der Waffen und der Munition verantwortlich. Er hat die ordnungsgemäße Rückgabe der Waffen und der Munition nach Beendigung des Wachdienstes sicherzustellen.
 
 (2) Hat der Gewerbetreibende oder eine Wachperson im Wachdienst von Waffen Gebrauch gemacht, so hat der Gewerbetreibende dies unverzüglich der für den Vollzug des § 34a der Gewerbeordnung zuständigen Behörde und, soweit noch keine Anzeige nach § 17 Absatz 1 Satz 3 erfolgt ist, der zuständigen Polizeidienststelle anzuzeigen.
 
-
-## § 21 – Buchführung und Aufbewahrung
+# § 21 – Buchführung und Aufbewahrung
 
 (1) Der Gewerbetreibende hat nach Maßgabe des Satzes 2 und der Absätze 2 bis 4 die Pflicht, Aufzeichnungen zu machen sowie die dort genannten Belege an der Hauptniederlassung seines Gewerbebetriebs übersichtlich zu sammeln. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache anzufertigen.
 
@@ -435,8 +410,7 @@ Der Ausweis muss so beschaffen sein, dass er sich von amtlichen Ausweisen deutli
 
 (6) Eine nach anderen Vorschriften bestehende Pflicht zur Buchführung und zur Aufbewahrung von Büchern, Aufzeichnungen, Unterlagen und Belegen bleibt unberührt.
 
-
-## § 22 – Ordnungswidrigkeiten
+# § 22 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1b der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -466,8 +440,7 @@ Der Ausweis muss so beschaffen sein, dass er sich von amtlichen Ausweisen deutli
 
 (3) Ordnungswidrig im Sinne des § 146 Absatz 2 Nummer 11 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Messe-, Ausstellungs- oder Marktgewerbes begeht.
 
-
-## § 23 – Übergangsvorschriften
+# § 23 – Übergangsvorschriften
 
 (1) Personen im Sinne des § 34a Absatz 1a Satz 1 der Gewerbeordnung, die am 31. März 1996 in einem Bewachungsunternehmen beschäftigt waren, sind von der Pflicht zur Unterrichtung nach § 4 befreit. Der Gewerbetreibende bescheinigt diesen Personen, dass sie die Voraussetzungen des Satzes 1 erfüllen.
 
@@ -479,18 +452,15 @@ Der Ausweis muss so beschaffen sein, dass er sich von amtlichen Ausweisen deutli
 
 (5) Der Zeitpunkt, bis zu dem die Regelüberprüfung der Zuverlässigkeit nach § 34a Absatz 1 Satz 10, auch in Verbindung mit § 34a Absatz 1a Satz 7, der Gewerbeordnung durchgeführt werden muss, ist anhand des Datums der letzten Zuverlässigkeitsüberprüfung zu berechnen. Liegt dieses Datum am 1. Juni 2019 mehr als fünf Jahre zurück, muss die nächste Überprüfung der Zuverlässigkeit bis nach der Vollendung des Vielfachen von fünf Jahren durchgeführt werden.
 
-
-## § 24 – Inkrafttreten, Außerkrafttreten
+# § 24 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2019 in Kraft. Gleichzeitig tritt die Bewachungsverordnung in der Fassung der Bekanntmachung vom 10. Juli 2003 (BGBl. I S. 1378), die zuletzt durch Artikel 1 der Verordnung vom 1. Dezember 2016 (BGBl. I S. 2692) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 6 Absatz 2)Bescheinigungüber die Unterrichtung nach § 34a Absatz 1a Satz 1 Nummer 2 der Gewerbeordnung
+# Anlage 1 – (zu § 6 Absatz 2)Bescheinigungüber die Unterrichtung nach § 34a Absatz 1a Satz 1 Nummer 2 der Gewerbeordnung
 
 (Fundstelle: BGBl. I 2019, 700)
 
@@ -527,8 +497,7 @@ Die Unterrichtung umfasste insbesondere die fachspezifischen Pflichten und Befug
 
 Fußzeile: Identifikationsnummer und Validierungscode der Industrie- und Handelskammer
 
-
-## Anlage 2 – (zu § 7)Sachgebietefür das Unterrichtungsverfahren im BewachungsgewerbeBewachungspersonal (40 Unterrichtsstunden)
+# Anlage 2 – (zu § 7)Sachgebietefür das Unterrichtungsverfahren im BewachungsgewerbeBewachungspersonal (40 Unterrichtsstunden)
 
 (Fundstelle: BGBl. I 2019, 701)
 
@@ -608,8 +577,7 @@ Brandschutz
 
 insgesamt etwa 5 Unterrichtsstunden
 
-
-## Anlage 3 – (zu § 11 Absatz 7)Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfungnach § 34a Absatz 1 Satz 3 Nummer 3 und Absatz 1a Satz 2 der Gewerbeordnung
+# Anlage 3 – (zu § 11 Absatz 7)Bescheinigung über die erfolgreiche Ablegung einer Sachkundeprüfungnach § 34a Absatz 1 Satz 3 Nummer 3 und Absatz 1a Satz 2 der Gewerbeordnung
 
 (Fundstelle: BGBl. I 2019, 702)
 

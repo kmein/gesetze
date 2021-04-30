@@ -1,10 +1,7 @@
-# [PFAV] Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung  (Pensionsfonds-Aufsichtsverordnung - PFAV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung  (Pensionsfonds-Aufsichtsverordnung - PFAV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -14,10 +11,7 @@ des § 240 Satz 1 Nummer 1 bis 3 und 7 bis 9 in Verbindung mit Satz 3 des Versic
 –  
 des § 240 Satz 1 Nummer 10 bis 12 in Verbindung mit Satz 3 und 4 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## Inhaltsübersicht
-
-  
+# Inhaltsübersicht
 
   
 
@@ -29,8 +23,9 @@ des § 240 Satz 1 Nummer 10 bis 12 in Verbindung mit Satz 3 und 4 des Versicheru
 
   
 
+  
 
-## § 1 – Erläuterungsbericht
+# § 1 – Erläuterungsbericht
 
 (1) Der Verantwortliche Aktuar hat im Erläuterungsbericht anzugeben, inwieweit nach den anerkannten Regeln der Versicherungsmathematik eine Einteilung des Bestandes in Risikoklassen erfolgt ist. Insbesondere muss er dabei darauf eingehen, inwieweit versicherungstechnische Risiken und Anlagerisiken berücksichtigt worden sind. Die vorgenommene Einteilung ist zu begründen; dabei ist auch auf Abweichungen gegenüber der Einteilung des Vorjahres einzugehen.
 
@@ -68,8 +63,7 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (7) Soweit die Deckungsrückstellung nicht vollständig aus den Beiträgen des betreffenden Pensionsfondsvertrages finanziert werden kann, sind die entsprechenden Beträge zur Auffüllung der Deckungsrückstellung gesondert anzugeben und zu erläutern. Dies gilt entsprechend für Erhöhungen der Deckungsrückstellungen gemäß § 341f Absatz 2 des Handelsgesetzbuchs.
 
-
-## § 2 – Angemessenheitsbericht
+# § 2 – Angemessenheitsbericht
 
 (1) Der Verantwortliche Aktuar hat im Angemessenheitsbericht darzulegen, dass die dauernde Erfüllbarkeit der sich aus den Pensionsfondsverträgen ergebenden Verpflichtungen auch einschließlich der Verpflichtungen gewährleistet ist, die sich aus den gemäß § 141 Absatz 5 Satz 1 Nummer 4 in Verbindung mit § 237 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes vorgelegten Vorschlägen für eine angemessene Beteiligung am Überschuss ergeben. Dabei sind nur diejenigen Verpflichtungen aus der Beteiligung am Überschuss zu berücksichtigen, die in dem Zeitraum entstehen, für den die Vorschläge gelten.
 
@@ -79,15 +73,13 @@ Ferner ist eine Einschätzung über die künftige Entwicklung der in den verwend
 
 (4) Soweit sich die erforderlichen Darlegungen und Erläuterungen aus den vorgelegten Vorschlägen für eine angemessene Beteiligung am Überschuss oder dem Erläuterungsbericht ergeben, kann auf sie verwiesen werden.
 
-
-## § 3 – Vorlagefristen
+# § 3 – Vorlagefristen
 
 (1) Der Verantwortliche Aktuar hat den Erläuterungsbericht und den Angemessenheitsbericht bei Abgabe der versicherungsmathematischen Bestätigung dem Vorstand vorzulegen.
 
 (2) Der Vorstand hat den Erläuterungsbericht und den Angemessenheitsbericht unverzüglich nach Aufstellung des Jahresabschlusses der Aufsichtsbehörde vorzulegen.
 
-
-## § 4 – Interner jährlicher Bericht
+# § 4 – Interner jährlicher Bericht
 
 Pensionsfonds haben der Aufsichtsbehörde einen internen jährlichen Bericht vorzulegen, der sich aus folgenden Rechnungslegungsunterlagen zusammensetzt:
 
@@ -97,8 +89,7 @@ Pensionsfonds haben der Aufsichtsbehörde einen internen jährlichen Bericht vor
 
 3. sonstige Rechnungslegungsunterlagen gemäß § 10.
 
-
-## § 5 – Formblätter für Bilanz und Gewinn-und-Verlust-Rechnung
+# § 5 – Formblätter für Bilanz und Gewinn-und-Verlust-Rechnung
 
 Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen gegenüber der Aufsichtsbehörde wie folgt aufzustellen:
 
@@ -106,8 +97,7 @@ Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen gegenüber d
 
 2. die Gewinn-und-Verlust-Rechnungen für das gesamte Pensionsfondsgeschäft nach Formblatt 810.
 
-
-## § 6 – Gesonderte Gewinn-und-Verlust-Rechnung
+# § 6 – Gesonderte Gewinn-und-Verlust-Rechnung
 
 (1) Pensionsfonds haben zusätzlich jeweils gesonderte pensionsfondstechnische Gewinn-und-Verlust-Rechnungen nach Formblatt 810 bis einschließlich Seite 3 Zeile 15 aufzustellen
 
@@ -119,15 +109,13 @@ Pensionsfonds haben ihre Bilanzen und Gewinn-und-Verlust-Rechnungen gegenüber d
 
 (2) Die gesonderten pensionsfondstechnischen Gewinn-und-Verlust-Rechnungen für das in einem anderen Mitglied- oder Vertragsstaat betriebene Pensionsfondsgeschäft gemäß Absatz 1 Nummer 3 können entfallen, sofern die gebuchten Bruttobeiträge des im einzelnen Mitglied- oder Vertragsstaat betriebenen Pensionsfondsgeschäfts nicht mehr als 500 000 Euro betragen.
 
-
-## § 7 – Stückzahl und Fristen für die Einreichung der Formblätter
+# § 7 – Stückzahl und Fristen für die Einreichung der Formblätter
 
 (1) Die Formblätter 800 und 810 gemäß den §§ 5 und 6 sind der Aufsichtsbehörde in jeweils doppelter Ausfertigung spätestens fünf Monate nach Ende des Geschäftsjahres einzureichen.
 
 (2) Ergeben sich bis zu einer späteren Feststellung des Jahresabschlusses Abweichungen, sind der Aufsichtsbehörde unverzüglich nach der Feststellung zusätzlich die insoweit berichtigten Formblätter 800 und 810 in jeweils doppelter Ausfertigung nachzureichen.
 
-
-## § 8 – Formgebundene Erläuterungen
+# § 8 – Formgebundene Erläuterungen
 
 Pensionsfonds haben folgende formgebundene Erläuterungen zu erstellen:
 
@@ -149,8 +137,7 @@ Pensionsfonds haben folgende formgebundene Erläuterungen zu erstellen:
 
 9. Angaben zu dem in Rückversicherung gegebenen Pensionsfondsgeschäft gemäß Nachweisung 850.
 
-
-## § 9 – Stückzahl und Fristen für die Einreichung der formgebundenen Erläuterungen
+# § 9 – Stückzahl und Fristen für die Einreichung der formgebundenen Erläuterungen
 
 Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweils in doppelter Ausfertigung einzureichen, und zwar
 
@@ -158,8 +145,7 @@ Die formgebundenen Erläuterungen gemäß § 8 sind der Aufsichtsbehörde jeweil
 
 2. spätestens sechs Monate nach Ende des Geschäftsjahres die Nachweisungen 820 und 830.
 
-
-## § 10 – Sonstige Rechnungslegungsunterlagen
+# § 10 – Sonstige Rechnungslegungsunterlagen
 
 (1) Pensionsfonds haben folgende sonstige Rechnungslegungsunterlagen einzureichen:
 
@@ -195,15 +181,13 @@ und
 
 (2) Eine Ausfertigung des Geschäftsberichts gemäß Absatz 1 Nummer 3 Buchstabe a ist vom Vorstand, vom Verantwortlichen Aktuar und vom Treuhänder im Sinne des § 128 Absatz 1 des Versicherungsaufsichtsgesetzes handschriftlich zu unterzeichnen. In dieser Ausfertigung ist ferner vom Aufsichtsrat der Bericht des Aufsichtsrats handschriftlich zu unterzeichnen.
 
-
-## § 11 – Halbjährlicher Zwischenbericht
+# § 11 – Halbjährlicher Zwischenbericht
 
 (1) Pensionsfonds haben jeweils zum 30. Juni und 31. Dezember einen internen halbjährlichen Zwischenbericht über ausgewählte Zahlen zur Geschäftsentwicklung als formgebundene Erläuterungen gemäß Nachweisung 882 zu erstellen.
 
 (2) Die formgebundenen Erläuterungen gemäß Absatz 1 sind der Aufsichtsbehörde jeweils in doppelter Ausfertigung spätestens bis zum Ende des auf das jeweilige Berichtshalbjahr folgenden Monats einzureichen.
 
-
-## § 12 – Anwendung der Formblätter und Nachweisungen
+# § 12 – Anwendung der Formblätter und Nachweisungen
 
 (1) Die auf den Formblättern und Nachweisungen zu setzenden Kennzahlen ergeben sich aus Anlage 1.
 
@@ -223,8 +207,7 @@ und
 
 5. Nachweisung 842, für die das im Bundesgesetzblatt 2010 I S. 489 veröffentlichte Muster gilt.
 
-
-## § 13 – Anzurechnende Kapitalerträge
+# § 13 – Anzurechnende Kapitalerträge
 
 (1) Die anzurechnenden Kapitalerträge, die auf die überschussberechtigten Versorgungsverhältnisse entfallen, ergeben sich aus dem mit dem Ergebnis aus Kapitalanlagen (Betrag in Formblatt 810 Seite 1 Zeile 09 Spalte 04 abzüglich Nachweisung 811 Seite 2 Zeile 21 Spalte 01 und 02 zuzüglich Nachweisung 811 Seite 2 Zeile 21 Spalte 03 und 04, erhöht oder vermindert um die Teilbeträge in Nachweisung 811 Seite 1 Zeile 25, die dem Risikoergebnis oder dem übrigen Ergebnis zuzuordnen sind) vervielfachten Wert gemäß Absatz 2.
 
@@ -270,8 +253,7 @@ b) 50 Prozent der Mindestzuführung in Abhängigkeit von den Kapitalerträgen na
 
 Pensionsfonds, die einen extern finanzierten Rückstellungsteil führen, erläutern der Aufsichtsbehörde spätestens sieben Monate nach Ende des Geschäftsjahres seine Veränderung im Geschäftsjahr.
 
-
-## § 14 – Mindestzuführung zur Rückstellung für Beitragsrückerstattung
+# § 14 – Mindestzuführung zur Rückstellung für Beitragsrückerstattung
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur Rückstellung für Beitragsrückerstattung müssen Pensionsfonds die überschussberechtigten Versorgungsverhältnisse angemessen am Kapitalanlageergebnis, am Risikoergebnis und am übrigen Ergebnis beteiligen. Die einzelnen Ergebnisse ergeben sich anteilig aus den Erträgen und Aufwendungen, die in der Summe folgender Beträge enthalten sind:
 
@@ -295,8 +277,7 @@ Pensionsfonds, die einen extern finanzierten Rückstellungsteil führen, erläut
 
 (7) Für die Verweisung auf Formblätter in den Absätzen 1, 3 und 6 gilt § 13 Absatz 5 entsprechend.
 
-
-## § 15 – Reduzierung der Mindestzuführung
+# § 15 – Reduzierung der Mindestzuführung
 
 (1) Die Mindestzuführung gemäß § 14 kann mit Zustimmung der Aufsichtsbehörde in Ausnahmefällen reduziert werden um
 
@@ -333,8 +314,7 @@ Das Risikoergebnis und das übrige Ergebnis sind dabei durch Null zu ersetzen, w
 
 (3) Die Verpflichtung des Unternehmens zur Aufstellung eines Zuführungsplans wird durch eine Reduzierung der Mindestzuführung gemäß Absatz 1 grundsätzlich nicht berührt.
 
-
-## § 16 – Anlagegrundsätze und Anlagemanagement
+# § 16 – Anlagegrundsätze und Anlagemanagement
 
 (1) Für die Anlage des Sicherungsvermögens eines Pensionsfonds gelten die besonderen Vorschriften dieses Kapitels. Die Bestimmungen des § 124 Absatz 1 in Verbindung mit § 234h und des § 239 Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes bleiben unberührt.
 
@@ -350,8 +330,7 @@ Das Risikoergebnis und das übrige Ergebnis sind dabei durch Null zu ersetzen, w
 
 (+++ § 16: Zur Anwendung vgl. § 34 +++)
 
-
-## § 17 – Anlageformen
+# § 17 – Anlageformen
 
 (1) Das Sicherungsvermögen darf angelegt werden in
 
@@ -515,8 +494,7 @@ als Anlagen gelten auch laufende Guthaben.
 
 (+++ § 17: Zur Anwendung vgl. § 34 +++)
 
-
-## § 18 – Mischung
+# § 18 – Mischung
 
 (1) Die angemessene Verteilung des Sicherungsvermögens auf verschiedene Anlageformen (Mischung) bestimmt sich vorbehaltlich der weiteren Regelungen dieser Bestimmung nach dem jeweiligen Pensionsplan. Anlagen nach § 17 Absatz 2 sind auf jeweils 10 Prozent des Sicherungsvermögens beschränkt. Direkte und indirekte Anlagen nach § 17 Absatz 1 Nummer 17 sind auf ein vorsichtiges Maß zu beschränken.
 
@@ -524,8 +502,7 @@ als Anlagen gelten auch laufende Guthaben.
 
 (+++ § 18: Zur Anwendung vgl. § 34 +++)
 
-
-## § 19 – Streuung
+# § 19 – Streuung
 
 (1) Vorbehaltlich des Absatzes 2 sind alle auf ein und denselben Schuldner entfallenden Anlagen auf jeweils 5 Prozent des Sicherungsvermögens zu begrenzen. Hat ein Schuldner gegenüber dem Pensionsfonds für Verbindlichkeiten eines Dritten die Gewährleistung übernommen, so ist auch diese Gewährleistungsverbindlichkeit auf die Quote nach Satz 1 anzurechnen. Anlagen in Anteilen oder Aktien an einem offenen Investmentvermögen nach § 17 Absatz 1 Nummer 15 bis 17 gelten nicht als Anlagen bei ein und demselben Schuldner, wenn das Investmentvermögen in sich ausreichend gestreut ist.
 
@@ -549,8 +526,7 @@ als Anlagen gelten auch laufende Guthaben.
 
 (+++ § 19: Zur Anwendung vgl. § 34 +++)
 
-
-## § 20 – Kongruenz
+# § 20 – Kongruenz
 
 Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in Anlage 3 zu dieser Verordnung in Vermögenswerten anzulegen, die auf dieselbe Währung lauten, in der die Verpflichtungen gegenüber den Versorgungsberechtigten erfüllt werden müssen. Dabei gelten
 
@@ -562,16 +538,14 @@ Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in Anlage 3 zu die
 
 (+++ § 20: Zur Anwendung vgl. § 34 +++)
 
-
-## § 21 – Versicherungsmathematische Bestätigung
+# § 21 – Versicherungsmathematische Bestätigung
 
 (1) Bei Pensionsfonds hat der Verantwortliche Aktuar, wenn keine Einwendungen zu erheben sind, die folgende versicherungsmathematische Bestätigung abzugeben:  
 „Es wird bestätigt, dass die in der Bilanz unter den Posten … der Passiva eingestellte Deckungsrückstellung unter Beachtung des § 341f HGB sowie unter Beachtung der auf Grund des § 240 Satz 1 Nummer 10 bis 12 VAG erlassenen Rechtsverordnungen berechnet worden ist. “
 
 (2) Sind Einwendungen zu erheben, so hat der Verantwortliche Aktuar zu erklären, dass die versicherungsmathematische Bestätigung versagt oder eingeschränkt wird. In beiden Fällen ist die Erklärung um zusätzliche Bemerkungen derart zu ergänzen, dass die Gründe für die Versagung oder Inhalt und Tragweite der Einschränkung klar umrissen werden.
 
-
-## § 22 – Versicherungsförmige Garantien
+# § 22 – Versicherungsförmige Garantien
 
 (1) Soweit der Pensionsfonds im Rahmen eines beitrags- oder leistungsbezogenen Pensionsplans eine versicherungsförmige Garantie übernimmt, sind Deckungsrückstellungen unter Beachtung von § 23 Absatz 1 zu bilden. Der Rechnungszinssatz ist unter Berücksichtigung der Mischung der die Verpflichtung deckenden Vermögenswerte und ihrer möglichen Wertschwankungen vorsichtig anzusetzen. Er beträgt höchstens 0,9 Prozent bei Verträgen, die auf Euro lauten. Bei Verträgen, die auf andere Währungen lauten, setzt die Bundesanstalt für Finanzdienstleistungsaufsicht den Höchstzinssatz unter Berücksichtigung der Festlegungen der Deckungsrückstellungsverordnung vom 18. April 2016 (BGBl. I S. 767) in der jeweils geltenden Fassung nach pflichtgemäßem Ermessen fest.
 
@@ -587,8 +561,7 @@ Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in Anlage 3 zu die
 
 (5) Ab Beginn des Rentenbezugs darf für die folgenden acht Jahre sowie für den Teil der Deckungsrückstellung, der auf die laufende Rentenzahlung entfällt, der Höchstzinssatz 85 Prozent des arithmetischen Mittels der letzten Monatswerte der Umlaufrenditen der Anleihen der öffentlichen Hand mit einer Restlaufzeit von einem Jahr bis zu acht Jahren betragen; die letzten Monatswerte ergeben sich aus der von der Deutschen Bundesbank in ihren Monatsberichten veröffentlichten Kapitalmarktstatistik. Der für die Bestimmung des Rechnungszinses des einzelnen Vertrages maßgebliche Zeitpunkt ist der Zeitpunkt des Rentenbeginns.
 
-
-## § 23 – Versicherungsmathematische Rechnungsgrundlagen bei versicherungsförmigen Garantien
+# § 23 – Versicherungsmathematische Rechnungsgrundlagen bei versicherungsförmigen Garantien
 
 (1) Bei der nach versicherungsmathematischen Methoden vorzunehmenden Ableitung von Rechnungsgrundlagen sind sämtliche Umstände, die Änderungen und Schwankungen der aus den zugrunde liegenden Statistiken gewonnenen Daten bewirken können, zu berücksichtigen und nach versicherungsmathematischen Grundsätzen geeignet zu gewichten. Die Ableitung von Rechnungsgrundlagen auf der Basis eines besten Schätzwertes genügt nicht. Die Rechnungsgrundlagen müssen ausreichend vorsichtig festgesetzt werden und nachteilige Abweichungen der relevanten Faktoren von den getroffenen, aus den Statistiken abgeleiteten Annahmen einbeziehen. Dies gilt sowohl für die grundsätzlich auf ein einzelnes Risiko abzustellende Bewertung als auch sinngemäß für die Bewertung bei nicht individualisierbaren Risiken, für die keine ausreichenden Statistiken verfügbar sind. Eine Beteiligung am Überschuss muss in angemessener Weise über die Laufzeit jedes Vertrages berücksichtigt werden.
 
@@ -612,8 +585,7 @@ Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungs
 
 (+++ § 23 Abs. 2 u. 3: Zur Anwendung vgl. § 43 Abs. 6 +++)
 
-
-## § 24 – Zusagen ohne versicherungsförmige Garantien
+# § 24 – Zusagen ohne versicherungsförmige Garantien
 
 (1) Soweit ein leistungsbezogener Pensionsplan die periodische Überprüfung und gegebenenfalls Neufestsetzung der für die Zukunft der Höhe und dem Zeitpunkt nach vereinbarten Beiträge in Abhängigkeit von der Entwicklung der Leistungsverpflichtungen und der Vermögensanlage vorsieht („Feststellungsverfahren“), ist die Deckungsrückstellung gemäß § 341f des Handelsgesetzbuchs prospektiv zu bilden, wobei für die Berechnung des Barwertes der künftigen Beiträge die jeweils vereinbarten Beiträge anzusetzen sind. Bei der Berechnung von Barwerten ist für die Zeit vor Rentenbezug der Rechnungszins vorsichtig zu wählen. Er muss die Vertragswährung und die im Bestand befindlichen Vermögenswerte sowie den erwarteten Ertrag künftiger Vermögenswerte angemessen berücksichtigen. § 23 Absatz 1 ist mit der Maßgabe anzuwenden, dass die Rechnungsgrundlagen auf Basis eines besten Schätzwertes unter Einbeziehung einer Sicherheitsspanne, die insbesondere den zeitlichen Abstand bis zur nächsten Neufeststellung der künftig vom Arbeitgeber zu erbringenden Beiträge berücksichtigt, abgeleitet werden. Für die Zeit des Rentenbezugs ist höchstens der jeweils geltende Rechnungszins gemäß § 22 Absatz 1 anzusetzen; wenn der Pensionsfonds eine Garantie übernimmt, darf der zum Zeitpunkt der Garantieübernahme geltende Rechnungszins gemäß § 22 Absatz 1 nicht mehr überschritten werden. Absatz 2 bleibt unberührt.
 
@@ -623,8 +595,7 @@ Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungs
 
 (+++ § 24 Abs. 2 Satz 2: Zur Anwendung vgl. § 36 Abs. 1 +++)
 
-
-## § 25 – Berechnung und Höhe der Solvabilitätskapitalanforderung
+# § 25 – Berechnung und Höhe der Solvabilitätskapitalanforderung
 
 (1) Bei Pensionsfonds ist die Solvabilitätskapitalanforderung, bezogen auf die jeweiligen Pensionspläne, die Summe von
 
@@ -642,13 +613,11 @@ Andernfalls ist für die gesamte Restlaufzeit der jeweils maßgebliche Rechnungs
 
 (4) Der Pensionsfonds trägt selbst Kapitalanlagerisiko, soweit durch Vereinbarung im Pensionsplan zugleich die Höhe von Beiträgen und Leistungen garantiert wird. Er trägt ein übernommenes Risiko selbst, soweit er es nicht durch Zukauf von Versicherungsschutz überträgt. Die sich durch Zukauf von Versicherungsschutz ergebende Verminderung der Solvabilitätskapitalanforderung ist in den Fällen des Absatzes 1 Nummer 1 und 2 auf 15 Prozent und im Falle des Absatzes 1 Nummer 4 auf 50 Prozent der ohne Berücksichtigung des Zukaufs von Versicherungsschutz geforderten Solvabilitätskapitalanforderung, bezogen auf das gesamte übernommene Risiko, begrenzt.
 
-
-## § 26 – Mindestkapitalanforderung und Mindestbetrag der Mindestkapitalanforderung
+# § 26 – Mindestkapitalanforderung und Mindestbetrag der Mindestkapitalanforderung
 
 Ein Drittel der Solvabilitätskapitalanforderung gemäß § 25 bildet die Mindestkapitalanforderung. Der Mindestbetrag der Mindestkapitalanforderung beträgt 3 Millionen Euro. Für Pensionsfondsvereine auf Gegenseitigkeit ermäßigt sich der Mindestbetrag der Mindestkapitalanforderung um ein Viertel.
 
-
-## § 27 – Eigenmittel
+# § 27 – Eigenmittel
 
 (1) In die Ermittlung der Eigenmittel gehen ein
 
@@ -744,8 +713,7 @@ kann den Eigenmitteln nur in den Grenzen des Satzes 2 zugerechnet werden. Die Zu
 
 (+++ § 27 Abs. 2 u. 3 in der bis zum 12.1.2019 geltenden Fassung: Zur Weiteranwendung vgl. § 43 Abs. 6 Satz 1 +++)
 
-
-## § 28 – Berichtspflicht gegenüber der Aufsichtsbehörde
+# § 28 – Berichtspflicht gegenüber der Aufsichtsbehörde
 
 (1) Pensionsfonds haben jährlich der Aufsichtsbehörde eine Berechnung der Solvabilitätskapitalanforderung und einen Nachweis über ihre Eigenmittel vorzulegen (Solvabilitätsnachweis).
 
@@ -755,20 +723,17 @@ kann den Eigenmitteln nur in den Grenzen des Satzes 2 zugerechnet werden. Die Zu
 
 (4) Pensionsfonds unter Bundesaufsicht legen den Solvabilitätsnachweis elektronisch oder auf Papierformularen der Bundesanstalt für Finanzdienstleistungsaufsicht vor.
 
-
-## § 29 – Anfängliche Höhe der lebenslangen Zahlung
+# § 29 – Anfängliche Höhe der lebenslangen Zahlung
 
 (1) Die anfängliche Höhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals. Bei der Verrentung sind die planmäßigen Verwaltungskosten zu berücksichtigen. Im Übrigen sind die Rechnungsgrundlagen zu verwenden, mit denen der Barwert nach § 31 Absatz 2 Satz 2 berechnet wird. Abweichend von Satz 3 kann der Rechnungszins nach Maßgabe des Absatzes 2 vorsichtiger gewählt werden.
 
 (2) Der Rechnungszins zur Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals darf nur insoweit vorsichtiger gewählt werden, als sich für das Versorgungsverhältnis bei entsprechender Anwendung von § 31 Absatz 2 ein Kapitaldeckungsgrad ergibt, der 125 Prozent nicht übersteigt.
 
-
-## § 30 – Mindesthöhe der lebenslangen Zahlung
+# § 30 – Mindesthöhe der lebenslangen Zahlung
 
 Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals mit einem Rechnungszins von mindestens 0 Prozent. Bei der Verrentung sind die planmäßigen Verwaltungskosten zu berücksichtigen und die biometrischen Rechnungsgrundlagen nach § 31 Absatz 2 Satz 2 anzuwenden.
 
-
-## § 31 – Anpassung der lebenslangen Zahlungen
+# § 31 – Anpassung der lebenslangen Zahlungen
 
 (1) Der Kapitaldeckungsgrad des Rentnerbestands eines Pensionsplans darf 100 Prozent nicht unterschreiten und 125 Prozent nicht übersteigen. Fällt der Kapitaldeckungsgrad unter 100 Prozent, sind die durch den Pensionsfonds an die Rentenempfänger des Pensionsplans zu erbringenden Leistungen zu senken; bei einem Kapitaldeckungsgrad von mehr als 125 Prozent sind diese Leistungen zu erhöhen. Nach der Anpassung der Leistungen muss die Anforderung nach Satz 1 wieder erfüllt sein.
 
@@ -776,8 +741,7 @@ Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei R
 
 (3) Der Pensionsfonds hat zu gewährleisten, dass die Anforderung aus Absatz 1 Satz 1 jederzeit eingehalten wird. Mindestens einmal jährlich hat er die an die Rentenempfänger des Pensionsplans zu erbringenden Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
-
-## § 32 – Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe
+# § 32 – Form, Inhalt und Nachweis der Zusage des Arbeitgebers für die Erbringung der Mindesthöhe
 
 (1) Der Nachweis der Zusage des Arbeitgebers, für die Erbringung der Mindesthöhe der lebenslangen Zahlung nach § 30 einzustehen, erfolgt gegenüber der Aufsichtsbehörde durch den Pensionsfonds. Zusage und Nachweis bedürfen der Schriftform.
 
@@ -787,18 +751,15 @@ Die Mindesthöhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei R
 
 (4) Der Pensionsfonds ist berechtigt, gegen Erstattung der Kosten die Funktion einer Zahlstelle zur Erfüllung der Einstandsverpflichtung der Arbeitgeber zu übernehmen.
 
-
-## § 33 – Anwendungsbereich
+# § 33 – Anwendungsbereich
 
 Die Vorschriften dieses Teils gelten, soweit eine durchführende Einrichtung reine Beitragszusagen nach § 1 Absatz 2 Nummer 2a des Betriebsrentengesetzes durchführt. Durchführende Einrichtung im Sinne dieser Verordnung ist ein Pensionsfonds, eine Pensionskasse oder ein anderes Lebensversicherungsunternehmen.
 
-
-## § 34 – Vermögensanlage
+# § 34 – Vermögensanlage
 
 Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen Altersversorgung eingezahlt werden, sind anzulegen. Für die Anlage dieser Beiträge sind die §§ 16 bis 20 entsprechend anzuwenden.
 
-
-## § 35 – Deckungsrückstellung
+# § 35 – Deckungsrückstellung
 
 (1) In der Ansparphase ist die Deckungsrückstellung das planmäßig zuzurechnende Versorgungskapital auf der Grundlage der gezahlten Beiträge und der daraus erzielten Erträge. Dabei kann ein kollektives Versorgungskapital gebildet werden, das den Versorgungsanwärtern insgesamt planmäßig zugerechnet ist.
 
@@ -806,22 +767,19 @@ Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen Altersverso
 
 (3) Mit Zusatzbeiträgen nach § 23 Absatz 1 des Betriebsrentengesetzes und daraus erzielten Erträgen kann eine zusätzliche Deckungsrückstellung gebildet werden, die den Versorgungsberechtigten insgesamt zugeordnet ist.
 
-
-## § 36 – Kapitaldeckungsgrad
+# § 36 – Kapitaldeckungsgrad
 
 (1) Der Kapitaldeckungsgrad ist das Verhältnis der Deckungsrückstellung, die nach § 35 Absatz 2 für die Rentenempfänger zu bilden ist, zum Barwert der durch die durchführende Einrichtung an diese Rentenempfänger zu erbringenden Leistungen, gegebenenfalls einschließlich damit verbundener Anwartschaften auf Hinterbliebenenleistungen. Bei der Berechnung des Barwertes ist § 24 Absatz 2 Satz 2 bis 4 entsprechend anzuwenden.
 
 (2) Der Kapitaldeckungsgrad darf 125 Prozent nicht übersteigen.
 
-
-## § 37 – Anfängliche Höhe der lebenslangen Zahlung
+# § 37 – Anfängliche Höhe der lebenslangen Zahlung
 
 (1) Die anfängliche Höhe der lebenslangen Zahlung ergibt sich durch Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals des Versorgungsanwärters. Bei der Verrentung sind die planmäßigen Verwaltungskosten zu berücksichtigen. Im Übrigen sind die Rechnungsgrundlagen zu verwenden, mit denen der Barwert nach § 36 Absatz 1 Satz 2 berechnet wird. Abweichend von Satz 3 kann der Rechnungszins nach Maßgabe des Absatzes 2 vorsichtiger gewählt werden.
 
 (2) Der Rechnungszins zur Verrentung des bei Rentenbeginn vorhandenen Versorgungskapitals darf nur insoweit vorsichtiger gewählt werden, als sich für das Versorgungsverhältnis bei entsprechender Anwendung von § 36 Absatz 1 ein Kapitaldeckungsgrad ergibt, der die Obergrenze nach § 36 Absatz 2 nicht übersteigt.
 
-
-## § 38 – Anpassung der lebenslangen Zahlungen
+# § 38 – Anpassung der lebenslangen Zahlungen
 
 (1) Der Kapitaldeckungsgrad nach § 36 Absatz 1 darf 100 Prozent nicht unterschreiten und die Obergrenze nach § 36 Absatz 2 nicht übersteigen. Fällt der Kapitaldeckungsgrad unter 100 Prozent, sind die durch die durchführende Einrichtung an die Rentenempfänger zu erbringenden Leistungen zu senken; bei einem zu hohen Kapitaldeckungsgrad sind diese Leistungen zu erhöhen. Nach der Anpassung der Leistungen muss die Anforderung nach Satz 1 wieder erfüllt sein.
 
@@ -829,8 +787,7 @@ Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen Altersverso
 
 (3) Die durchführende Einrichtung hat zu gewährleisten, dass die Anforderung nach Absatz 1 Satz 1 jederzeit eingehalten wird. Mindestens einmal jährlich hat sie die an die Rentenempfänger zu erbringenden Leistungen zu überprüfen und gegebenenfalls anzupassen.
 
-
-## § 39 – Risikomanagement
+# § 39 – Risikomanagement
 
 (1) Im Rahmen des Risikomanagements sind die Vorgaben des Betriebsrentengesetzes sowie die zugrunde liegenden Vereinbarungen, insbesondere zur Begrenzung der Volatilität des Versorgungskapitals und der lebenslangen Zahlungen, zu berücksichtigen.
 
@@ -842,13 +799,11 @@ Die Beiträge, die zur Finanzierung von Leistungen der betrieblichen Altersverso
 
 (5) Das Risikomanagement muss konsistent sein mit den Informationen der durchführenden Einrichtung gegenüber den Versorgungsanwärtern, Rentenempfängern und Tarifvertragsparteien. Dies betrifft insbesondere die Informationen zur erwarteten Höhe der lebenslangen Zahlungen und zu ihrer erwarteten Volatilität sowie zu der erwarteten Volatilität des Versorgungskapitals.
 
-
-## § 40 – Risikoberichte
+# § 40 – Risikoberichte
 
 In den unternehmensinternen Risikoberichten im Sinne des § 26 Absatz 1 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, die der Berichterstattung gegenüber dem Vorstand dienen, ist darzulegen, wie im Rahmen des Risikomanagements die Durchführung reiner Beitragszusagen berücksichtigt wurde. Dabei ist insbesondere auf die Vorgaben des § 39 einzugehen.
 
-
-## § 41 – Laufende Informationspflichten gegenüber den Versorgungsanwärtern und Rentenempfängern
+# § 41 – Laufende Informationspflichten gegenüber den Versorgungsanwärtern und Rentenempfängern
 
 (1) Über die sonstigen verpflichtenden Informationen hinaus stellt die durchführende Einrichtung den Versorgungsanwärtern mindestens einmal jährlich folgende Informationen kostenlos zur Verfügung:
 
@@ -868,8 +823,7 @@ In den unternehmensinternen Risikoberichten im Sinne des § 26 Absatz 1 Satz 1 u
 
 3. eine Einschätzung darüber, ob und gegebenenfalls wann mit einer Anpassung der Höhe der lebenslangen Zahlungen zu rechnen ist.
 
-
-## § 42 – Berichterstattung gegenüber der Aufsichtsbehörde
+# § 42 – Berichterstattung gegenüber der Aufsichtsbehörde
 
 (1) Schließt eine durchführende Einrichtung eine Vereinbarung zur Durchführung reiner Beitragszusagen ab, so hat sie der Aufsichtsbehörde unverzüglich die folgenden Unterlagen vorzulegen:
 
@@ -889,8 +843,7 @@ In den unternehmensinternen Risikoberichten im Sinne des § 26 Absatz 1 Satz 1 u
 
 Bei Pensionsfonds haben diese Ausführungen im Rahmen des versicherungsmathematischen Gutachtens nach § 10 Absatz 1 Nummer 4 zu erfolgen, bei Pensionskassen im Rahmen des versicherungsmathematischen Gutachtens nach § 17 der Versicherungsberichterstattungs-Verordnung.
 
-
-## § 43 – Übergangsvorschriften zu Teil 1
+# § 43 – Übergangsvorschriften zu Teil 1
 
 (1) Die Vorschriften der Kapitel 1, 2, 3 und 6 sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
@@ -918,13 +871,11 @@ anzuwenden.
 
 (7) Anlagen des Sicherungsvermögens, die zum Zeitpunkt, ab dem das Vereinigte Königreich Großbritannien und Nordirland nicht mehr Mitgliedstaat der Europäischen Union ist und auch nicht wie ein solcher zu behandeln ist, die Voraussetzungen der jeweiligen Anlageform nach § 17 Absatz 1 deswegen nicht mehr erfüllen, weil das Vereinigte Königreich Großbritannien und Nordirland nicht länger Staat des EWR ist, können weiterhin der jeweiligen Anlageform nach § 17 Absatz 1 zugeordnet werden.
 
-
-## Anlage 1 – (zu § 12 Absatz 1)Die regionale Herkunft des Pensionsfondsgeschäfts und die dafür zu setzenden Kennzahlen
+# Anlage 1 – (zu § 12 Absatz 1)Die regionale Herkunft des Pensionsfondsgeschäfts und die dafür zu setzenden Kennzahlen
 
 (Fundstelle: BGBl. I 2016, 857 - 858)
 
-
-## Anlage 2 – (zu § 12 Absatz 2 und 3)Formblätter und Nachweisungen
+# Anlage 2 – (zu § 12 Absatz 2 und 3)Formblätter und Nachweisungen
 
 (Fundstelle: BGBl. I 2016, 859 - 867; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -1275,8 +1226,7 @@ Beispiele
 
 Die Unterlagen sind in Euro vorzulegen. Die Beträge sind in vollen „Euro“ oder „TsdEuro“ anzugeben. In der Kopfzeile der Formblätter und Nachweisungen ist in dem Feld „Version“ die Zahl „8“ einzusetzen.
 
-
-## Anlage 3 – (zu § 20)Kongruenzregeln
+# Anlage 3 – (zu § 20)Kongruenzregeln
 
 (Fundstelle: BGBl. I 2016, 868)
 
@@ -1300,8 +1250,7 @@ c) bei Anwendung der nach den Nummern 1 bis 5 geltenden Regeln in einer bestimmt
 
 7. Soweit nach den vorstehenden Regeln das Sicherungsvermögen in Vermögenswerten anzulegen ist, die auf die Währung eines Mitgliedstaates der Europäischen Gemeinschaft, dessen Währung nicht der Euro ist, oder auf die Währung eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum lauten, kann die Anlage bis zu 50 Prozent in auf Euro lautenden Vermögenswerten erfolgen, soweit dies nach vernünftiger kaufmännischer Beurteilung gerechtfertigt ist.
 
-
-## Anlage 4 – (zu § 28 Absatz 3)Nachweis der Eigenmittel und Berechnung der Solvabilitätskapitalanforderung für Pensionsfonds
+# Anlage 4 – (zu § 28 Absatz 3)Nachweis der Eigenmittel und Berechnung der Solvabilitätskapitalanforderung für Pensionsfonds
 
 (Fundstelle: BGBl. I 2016, 869 - 872)
 
@@ -1313,8 +1262,7 @@ c) bei Anwendung der nach den Nummern 1 bis 5 geltenden Regeln in einer bestimmt
 
 <a href="../normengrafiken/bgbl1_2016/j0842-1_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – (zu § 12 Absatz 4)Formblätter und Nachweisungen
+# Anlage 5 – (zu § 12 Absatz 4)Formblätter und Nachweisungen
 
 (Fundstelle: BGBl. I 2016, 873 - 881);  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

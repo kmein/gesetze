@@ -1,15 +1,11 @@
-# [DEÜV] Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung  (Datenerfassungs- und -übermittlungsverordnung - DEÜV)
-
-Ausfertigungsdatum: 10.02.1998
-
+% Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung  (Datenerfassungs- und -übermittlungsverordnung - DEÜV)
+% Ausfertigungsdatum: 10.02.1998
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund des § 18i Absatz 4, §§ 28a, 99 und 106 bis 108 des Vierten Buches Sozialgesetzbuch, des § 200 Abs. 1 des Fünften Buches Sozialgesetzbuch, der §§ 190 bis 194 und 281c des Sechsten Buches Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten Gesetzes über die Krankenversicherung der Landwirte sowie für den Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten .
 
-
-## § 2 – Meldepflichtige
+# § 2 – Meldepflichtige
 
 Meldungen sind zu erstatten von
 
@@ -25,8 +21,7 @@ Meldungen sind zu erstatten von
 
 5. den Leistungsträgern.
 
-
-## § 3 – Zu meldender Personenkreis
+# § 3 – Zu meldender Personenkreis
 
 Meldungen sind zu erstatten für
 
@@ -44,11 +39,9 @@ Meldungen sind zu erstatten für
 
 Den Beschäftigten stehen Personen gleich, für die ein anderer wie ein Arbeitgeber Beiträge auf Grund gesetzlicher Vorschriften zahlt.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## § 5 – Allgemeine Vorschriften
+# § 5 – Allgemeine Vorschriften
 
 (1) Meldungen sind nach den Verhältnissen des Zeitpunktes zu erstatten, auf den sich die Meldung bezieht. Dies gilt insbesondere bei Änderung des Namens, der Staatsangehörigkeit oder der Anschrift eines Beschäftigten.
 
@@ -74,18 +67,15 @@ Den Beschäftigten stehen Personen gleich, für die ein anderer wie ein Arbeitge
 
 (12) Der Zugang eines Antrages beim Arbeitgeber auf Verzicht auf die Versicherungspflicht in der gesetzlichen Rentenversicherung nach § 6 Absatz 1b des Sechsten Buches Sozialgesetzbuch durch einen geringfügig Beschäftigten ist gesondert zu kennzeichnen und zu melden; die Meldung kann auch in Verbindung mit einer anderen zum gleichen Zeitpunkt zu erstattenden Meldung erfolgen.
 
-
-## § 6 – Anmeldung
+# § 6 – Anmeldung
 
 Der Beginn einer versicherungspflichtigen Beschäftigung ist mit der ersten folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von sechs Wochen nach ihrem Beginn, zu melden.
 
-
-## § 7 – Sofortmeldung
+# § 7 – Sofortmeldung
 
 Der Tag des Beginns eines Beschäftigungsverhältnisses ist in den in § 28a Abs. 4 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch genannten Wirtschaftsbereichen oder Wirtschaftszweigen spätestens bei Beschäftigungsaufnahme an die Datenstelle der Rentenversicherung zu melden.
 
-
-## § 8 – Abmeldung
+# § 8 – Abmeldung
 
 (1) Das Ende einer versicherungspflichtigen Beschäftigung ist mit der nächsten folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von sechs Wochen nach ihrem Ende, zu melden.
 
@@ -93,20 +83,17 @@ Der Tag des Beginns eines Beschäftigungsverhältnisses ist in den in § 28a Abs
 
 (3) Bei einer in § 28a Absatz 1 Satz 1 Nummer 18 des Vierten Buches Sozialgesetzbuch bezeichneten Änderung des Arbeitsentgelts sind eine Ab- und eine Anmeldung innerhalb der Frist des § 6 zusammen zu erstatten.
 
-
-## § 8a – Meldung bei Eintritt eines Insolvenzereignisses
+# § 8a – Meldung bei Eintritt eines Insolvenzereignisses
 
 Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person hat für freigestellte Beschäftigte für den Zeitraum bis zum Tag vor Eröffnung eines Insolvenzverfahrens oder Nichteröffnung mangels Masse eine Abmeldung mit der nächsten folgenden Lohn- und Gehaltsabrechnung, spätestens aber nach sechs Wochen abzugeben.
 
-
-## § 9 – Unterbrechungsmeldung
+# § 9 – Unterbrechungsmeldung
 
 (1) Wird eine versicherungspflichtige Beschäftigung durch Wegfall des Anspruchs auf Arbeitsentgelt für mindestens einen Kalendermonat unterbrochen und wird eine der in § 7 Abs. 3 Satz 3 des Vierten Buches Sozialgesetzbuch genannten Leistungen bezogen, Elternzeit in Anspruch genommen oder Wehrdienst oder Zivildienst geleistet, ist für den Zeitraum bis zum Wegfall des Entgeltanspruchs innerhalb von zwei Wochen nach Ablauf des ersten Kalendermonats eine Unterbrechungsmeldung zu erstatten. Endet die Beschäftigung während der Unterbrechung, ist eine Abmeldung nach § 8 zu erstatten.
 
 (2) Endet in den Fällen des Absatzes 1 die Beschäftigung in dem auf den Wegfall des Entgeltanspruchs folgenden Kalendermonat, ist für den Zeitraum bis zum Wegfall innerhalb von sechs Wochen nach dem Ende der Beschäftigung eine Unterbrechungsmeldung zu erstatten. Das Ende der Beschäftigung ist nach § 8 zu melden.
 
-
-## § 10 – Jahresmeldung
+# § 10 – Jahresmeldung
 
 (1) Eine Jahresmeldung ist für jeden am 31. Dezember eines Jahres versicherungspflichtig Beschäftigten mit der ersten folgenden Lohn- und Gehaltsabrechnung, spätestens bis zum 15. Februar des folgenden Jahres, zu erstatten. Die Jahresmeldung entfällt, wenn zum 31. Dezember eine Meldung nach §§ 8, 9 oder § 12 zu erstatten ist.
 
@@ -114,8 +101,7 @@ Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person hat für fr
 
 (3) Die Einzugsstellen können fehlende Jahresmeldungen maschinell anfordern.
 
-
-## § 11 – Meldung von einmalig gezahltem Arbeitsentgelt
+# § 11 – Meldung von einmalig gezahltem Arbeitsentgelt
 
 (1) Der Arbeitgeber hat beitragspflichtiges einmalig gezahltes Arbeitsentgelt zusammen mit dem beitragspflichtigen laufend gezahlten Arbeitsentgelt zu melden.
 
@@ -133,8 +119,7 @@ Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person hat für fr
 
 (4) (weggefallen)
 
-
-## § 11a – Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
+# § 11a – Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
 
 (1) Arbeitsentgelt nach § 23b Abs. 2 bis 3 des Vierten Buches Sozialgesetzbuch ist mit der ersten folgenden Lohn- und Gehaltsabrechnung gesondert zu melden, wenn es nicht nach § 7c oder § 7f Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch verwendet wird.
 
@@ -142,13 +127,11 @@ Der Arbeitgeber oder die mit der Insolvenzabwicklung betraute Person hat für fr
 
 (3) Wird im selben Zeitraum ein Wertguthaben aufgelöst und Arbeitsentgelt gezahlt, ist das Wertguthaben nur dann gesondert unter der Angabe, ob es im Beitritts- oder im übrigen Bundesgebiet erzielt worden ist, zu melden, wenn nicht beide zusammen im Beitrittsgebiet oder zusammen im übrigen Bundesgebiet erzielt worden sind.
 
-
-## § 11b – Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle
+# § 11b – Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle
 
 Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von sechs Wochen nach Anforderung, die Entgeltmeldungen nach § 28a Absatz 1 Satz 1 Nummer 10 des Vierten Buches Sozialgesetzbuch an die zuständige Einzugsstelle zu melden.
 
-
-## § 12 – Sonstige Meldungen
+# § 12 – Sonstige Meldungen
 
 (1) Eine Ab- und eine Anmeldung sind zu erstatten, wenn die bisher gemeldete Beitragsgruppe, der Personengruppenschlüssel oder die Krankenkasse des Beschäftigten sich ändert oder dieser bis zum 31. Dezember 2024 von einem Beschäftigungsbetrieb im Beitrittsgebiet zu einem Beschäftigungsbetrieb im übrigen Bundesgebiet oder umgekehrt wechselt.
 
@@ -160,39 +143,31 @@ Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten folgenden 
 
 (5) Eine Meldung nach § 194 des Sechsten Buches Sozialgesetzbuch ist mit der nächsten Lohn und Gehaltsabrechnung zu erstatten. Ist zu diesem Zeitpunkt eine Meldung nach § 10 noch nicht erfolgt, ist diese zum gleichen Zeitpunkt zu erstatten.
 
-
-## § 13 – Meldungen für geringfügig Beschäftigte
+# § 13 – Meldungen für geringfügig Beschäftigte
 
 Für die Meldungen einer geringfügigen Beschäftigung nach § 8 des Vierten Buches Sozialgesetzbuch gelten § 5 Abs. 1 bis 7 und 9 und die §§ 6 und 8 bis 12 entsprechend.
 
-
-## § 14 – Stornierung
+# § 14 – Stornierung
 
 (1) Meldungen sind unverzüglich zu stornieren, wenn sie nicht zu erstatten waren, bei einer unzuständigen Einzugsstelle erstattet wurden oder unzutreffende Angaben über die Zeit der Beschäftigung, das beitragspflichtige Arbeitsentgelt, den Abgabegrund, die Beitragsgruppen, den Personengruppenschlüssel, den Tätigkeitsschlüssel oder die Betriebsnummer des Arbeitgebers enthalten. Satz 1 gilt auch, wenn unzutreffende Angaben zum in der Unfallversicherung beitragspflichtigen Arbeitsentgelt, der Unfallversicherungsmitgliedsnummer des Beschäftigungsbetriebes, der Betriebsnummer des zuständigen Unfallversicherungsträgers oder der anzuwendenden Gefahrtarifstelle in der Meldung enthalten sind.
 
 (2) Ist zum Zeitpunkt der Stornierung die Versicherungsnummer noch nicht bekannt, hat die Stornierung die für die Vergabe der Versicherungsnummer notwendigen Angaben zu enthalten.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
+# § 16 – (weggefallen)
 
-
-## § 16 – (weggefallen)
-
-
-## § 17 – Datenübertragungsverfahren
+# § 17 – Datenübertragungsverfahren
 
 Die Daten sind durch https in dem Standard zu übertragen, der in den Gemeinsamen Grundsätzen nach § 95 des Vierten Buches Sozialgesetzbuch festgelegt ist. Für den Einsatz von https sind die Anforderungen in den Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik zu berücksichtigen.
 
+# § 18 – (weggefallen)
 
-## § 18 – (weggefallen)
-
-
-## § 19 – Antrag
+# § 19 – Antrag
 
 Wer ein Programm oder eine Ausfüllhilfe zur Übermittlung, zur Annahme oder zum Abruf von Daten nach dem Sozialgesetzbuch durch einen Meldepflichtigen nach § 2 zur Verfügung stellt, hat rechtzeitig eine Systemprüfung für eine eindeutig identifizierbare Version zu beantragen, um den Abschluss der Systemprüfung vor dem erstmaligen Einsatz zu ermöglichen. Der Antrag auf Systemprüfung ist an die von dem Spitzenverband Bund der Krankenkassen bestimmte Stelle zu richten. Das Nähere zum Antragsverfahren regeln die Gemeinsamen Grundsätze nach § 22.
 
-
-## § 20 – Systemprüfung
+# § 20 – Systemprüfung
 
 (1) Inhaltliche Grundlagen für eine Systemprüfung nach § 95b des Vierten Buches Sozialgesetzbuch sind die Vorschriften nach dem Sozialgesetzbuch für das jeweilige Fachverfahren, der Beitragsverfahrensverordnung, der Entgeltbescheinigungsverordnung und dieser Verordnung in der jeweils geltenden Fassung. Ein Programm oder eine Ausfüllhilfe muss alle für das Basismodul vorgeschriebenen Fachverfahren enthalten. Voraussetzung für die Prüfung eines Zusatzmoduls ist, dass das entsprechende Programm oder die Ausfüllhilfe ein geprüftes Basismodul enthält. Ausnahmen können in den Gemeinsamen Grundsätzen nach § 22 festgelegt werden. Kommunikationsmodule sind darauf zu prüfen, dass sie die Anforderungen der Verschlüsselung sowohl der enthaltenen Datensätze als auch der äußeren Transportdatensätze gewährleisten und ein Zugriff oder eine Veränderung während der Übermittlung vom Absender zum Empfänger nicht möglich ist.
 
@@ -202,23 +177,19 @@ Wer ein Programm oder eine Ausfüllhilfe zur Übermittlung, zur Annahme oder zum
 
 (4) Über die Prüfung ist ein Protokoll zu erstellen, das bis zur Erteilung einer neuen Zulassung aufzubewahren ist.
 
-
-## § 21 – Zulassungsbescheid
+# § 21 – Zulassungsbescheid
 
 Der Antragsteller erhält das Prüfprotokoll und einen Zulassungsbescheid vom Spitzenverband Bund der Krankenkassen. Diese sind vom Antragsteller aufzubewahren. Die Zulassung legt die für die ordnungsgemäße Durchführung der Datenübertragung einzuhaltenden Voraussetzungen fest. Einzelheiten regeln die Gemeinsamen Grundsätze nach § 22.
 
-
-## § 22 – Gemeinsame Grundsätze
+# § 22 – Gemeinsame Grundsätze
 
 Der Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-Bahn-See, die Bundesagentur für Arbeit, die Deutsche Gesetzliche Unfallversicherung e. V. und die Arbeitsgemeinschaft der berufsständischen Versorgungseinrichtungen e. V. bestimmen in Gemeinsamen Grundsätzen den Umfang, die Grundlagen, das Antrags- und Zulassungsverfahren, die Durchführung, die Qualitätssicherung und die Korrekturen für eine Systemprüfung. Sie legen fest, welche Verfahren grundsätzlich von allen Programmen oder Ausfüllhilfen zu erfüllen sind (Basismodule) und welche Verfahren optional angeboten werden (Zusatzmodul). Die Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit und Soziales, das vorher die Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
 
-
-## § 22a – Testverfahren
+# § 22a – Testverfahren
 
 Der Spitzenverband Bund der Krankenkassen richtet ein Testverfahren zur ständigen Überprüfung der Qualität der in den Melde- und Beitragsverfahren in der Sozialversicherung eingesetzten Software ein. Das Testverfahren ist von den Software-Entwicklern, die Programme für Sozialversicherungsträger oder für die Meldepflichtigen entwickeln, zu nutzen. Das Nähere zur Zulassung, Ausgestaltung und Nutzung des Testverfahrens regelt der Spitzenverband Bund der Krankenkassen in bundeseinheitlichen Grundsätzen.
 
-
-## § 23 – Annahmestelle, Zeitpunkt
+# § 23 – Annahmestelle, Zeitpunkt
 
 (1) Die Meldungen sind an die zuständige Annahmestelle zu erstatten.
 
@@ -226,29 +197,23 @@ Der Spitzenverband Bund der Krankenkassen richtet ein Testverfahren zur ständig
 
 (3) Die Einzelheiten regeln die Gemeinsamen Grundsätze nach § 22.
 
+# § 24 – (weggefallen)
 
-## § 24 – (weggefallen)
-
-
-## § 25 – Unterrichtung des Arbeitnehmers
+# § 25 – Unterrichtung des Arbeitnehmers
 
 (1) Der Arbeitgeber hat dem Beschäftigten mindestens einmal jährlich bis zum 30. April eines Jahres für alle im Vorjahr durch Datenübertragung erstatteten Meldungen eine maschinell erstellte Bescheinigung zu übergeben, die inhaltlich getrennt alle gemeldeten Daten ohne die Angaben für die gesetzliche Unfallversicherung wiedergeben muss. Bei Auflösung des Arbeitsverhältnisses ist die Bescheinigung unverzüglich nach Abgabe der letzten Meldung auszustellen.
 
 (2) Die Bescheinigung kann auf den üblichen Lohn- und Gehaltsabrechnungen erteilt werden. Der Arbeitgeber hat den Inhalt der Bescheinigung wie Lohnunterlagen zu behandeln und bis zum Ablauf des auf die letzte Prüfung nach § 28p des Vierten Buches Sozialgesetzbuch folgenden Kalenderjahres aufzubewahren.
 
-
-## § 26 – Beitragsnachweise
+# § 26 – Beitragsnachweise
 
 Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbuch ist rechtzeitig einzureichen. Die §§ 2, 3, 5 Abs. 1, §§ 14, 16, 17, 19 bis 23, 31 Absatz 1, § 33 Absatz 1, 2 und 6, § 38 Abs. 1, 2 und 4 und § 40 Abs. 1 bis 3 gelten entsprechend.
 
+# §§ 27 und 28 – (weggefallen)
 
-## §§ 27 und 28 – (weggefallen)
+# §§ 29 und 30 – (weggefallen)
 
-
-## §§ 29 und 30 – (weggefallen)
-
-
-## § 31 – Sonderregelungen
+# § 31 – Sonderregelungen
 
 (1) Für die Meldungen der Versicherten der knappschaftlichen Rentenversicherung sowie für Meldungen der nach § 129 Abs. 1 Nr. 5 des Sechsten Buches Sozialgesetzbuch genannten Seeleute gelten besondere Datensätze. Die Meldungen enthalten zusätzliche Angaben für die knappschaftliche Rentenversicherung oder über Berufsgruppe, Fahrzeuggruppe, Patent sowie zur Beschäftigung auf im Internationalen Seeschifffahrtsregister eingetragenen Schiffen. Das Nähere regeln die Gemeinsamen Grundsätze nach § 28b Absatz 1 des Vierten Buches Sozialgesetzbuch und § 22.
 
@@ -258,11 +223,9 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (4) (weggefallen)
 
+# § 32 – (weggefallen)
 
-## § 32 – (weggefallen)
-
-
-## § 33 – Übernahme und Prüfung der Daten durch die Einzugsstellen
+# § 33 – Übernahme und Prüfung der Daten durch die Einzugsstellen
 
 (1) Die Annahmestelle prüft die Meldungen auf Vollständigkeit und Richtigkeit, insbesondere darauf, dass die Meldungen nur die zugelassenen Zeichen, Schlüsselzahlen und sonstigen vorgesehenen Angaben enthalten.
 
@@ -276,14 +239,11 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (6) Den Umfang und die Einzelheiten der Prüfungen nach den Absätzen 1 bis 3, das Verfahren der Fehlerbehandlung und die Überwachung der erneuten Erstattung zurückgewiesener Meldungen regeln die Gemeinsamen Grundsätze nach § 22.
 
+# § 34 – (weggefallen)
 
-## § 34 – (weggefallen)
+# § 35 – (weggefallen)
 
-
-## § 35 – (weggefallen)
-
-
-## § 36 – Aufgaben der Datenstelle der Rentenversicherung
+# § 36 – Aufgaben der Datenstelle der Rentenversicherung
 
 (1) Die Datenstelle der Rentenversicherung führt eine maschinelle Stammsatzdatei.
 
@@ -293,11 +253,9 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (4) Die Datenstelle der Rentenversicherung erstellt für alle in den Meldeverfahren beteiligten Sozialversicherungsträger zur Sicherung der Qualität der Meldungen nach den §§ 26 Absatz 4, 28a, 28f Absatz 3 Satz 1, §§ 106 und 108 des Vierten Buches Sozialgesetzbuch Kernprüfprogramme; § 28b Absatz 4 des Vierten Buches Sozialgesetzbuch gilt. Für alle weiteren in Satz 1 nicht genannten Meldeverfahren ist der Spitzenverband Bund der Krankenkassen zuständig. Soweit Meldungen an berufsständische Versorgungseinrichtungen betroffen sind, ist die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. an der Erstellung der Gemeinsamen Grundsätze zu beteiligen. Nutzen Arbeitgeber oder andere Meldepflichtige ein systemgeprüftes Entgeltabrechnungsprogramm, so sind von diesen Programmen die Anforderungen der Kernprüfprogramme zu erfüllen. Die berufsständischen Versorgungseinrichtungen sollen die Kernprüfprogramme nutzen; das Nähere über das Verfahren und die Kostenbeteiligung regeln die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V. und die Datenstelle der Rentenversicherung in einer Vereinbarung.
 
+# § 37 – (weggefallen)
 
-## § 37 – (weggefallen)
-
-
-## § 38 – Entgeltersatzleistungen
+# § 38 – Entgeltersatzleistungen
 
 (1) Die Leistungsträger und die privaten Pflegeversicherungsunternehmen haben Zeiträume, in denen Personen nach § 3 Satz 1 Nr. 3 oder 4 oder § 4 Abs. 3 Satz 1 Nr. 1 des Sechsten Buches Sozialgesetzbuch versicherungspflichtig sind und eine der in diesen Vorschriften genannten Leistungen, Eingliederungshilfe für Spätaussiedler, Leistungen, die die Bundesagentur für Arbeit nach dem Altersteilzeitgesetz anstelle des Arbeitgebers erbringt, oder Arbeitslosenbeihilfe beziehen, unter Angabe der der Leistung zugrunde liegenden beitragspflichtigen Einnahmen zu melden. Die Zeiten bis zum 31. Dezember 2024 sind jeweils für das Beitrittsgebiet und das übrige Bundesgebiet zu kennzeichnen.
 
@@ -309,8 +267,7 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (5) Die meldende Stelle hat dem Versicherten bis zum 30. April eines Jahres eine Bescheinigung über den Inhalt der Meldungen des vergangenen Kalenderjahres zu erteilen. Die Bescheinigung ist zu einem früheren Zeitpunkt zu erteilen, wenn der Versicherte sie vorher benötigt.
 
-
-## § 39 – Anrechnungszeiten, Sperrzeiten
+# § 39 – Anrechnungszeiten, Sperrzeiten
 
 (1) Die Krankenkassen melden dem zuständigen Rentenversicherungsträger Anrechnungszeiten ihrer Mitglieder nach § 58 Abs. 1 Satz 1 Nr. 1 und 2 und Zeiten des Schulbesuches nach § 58 Abs. 1 Nr. 4 des Sechsten Buches Sozialgesetzbuch.
 
@@ -324,8 +281,7 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (6) Die Krankenkassen und die Bundesagentur für Arbeit sind an Erklärungen der Rentenversicherungsträger zu Rechtsfragen von grundsätzlicher Bedeutung gebunden.
 
-
-## § 40 – Zeiten des Wehr- und Zivildienstes
+# § 40 – Zeiten des Wehr- und Zivildienstes
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmten Stellen und das Bundesamt für Familie und zivilgesellschaftliche Aufgaben melden die Zeiträume, in denen Personen nach § 3 Satz 1 Nr. 2 und 2a des Sechsten Buches Sozialgesetzbuch versicherungspflichtig sind; dabei sind Dienstzeiten bis zum 31. Dezember 2024 im Beitrittsgebiet besonders zu kennzeichnen. Der Beginn und das Ende einer Unterbrechung der Dienstzeit unter Wegfall der Geld- und Sachbezüge sind gesondert zu melden.
 
@@ -337,15 +293,13 @@ Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbu
 
 (5) Die §§ 25 und 38 Abs. 5 gelten entsprechend.
 
-
-## § 40a – Zeiten einer besonderen Auslandsverwendung
+# § 40a – Zeiten einer besonderen Auslandsverwendung
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle meldet die Zeiträume, für die die Voraussetzungen für Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung nach § 76e des Sechsten Buches Sozialgesetzbuch vorliegen.
 
 (2) § 5 Absatz 3 und § 38 Absatz 2, 4 und 5 gelten entsprechend.
 
-
-## § 40b – Zeiten des Bezuges von Übergangsgebührnissen
+# § 40b – Zeiten des Bezuges von Übergangsgebührnissen
 
 Das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle hat die Zeiträume, in denen Personen nach § 3 Satz 1 Nummer 2 Buchstabe b des Sechsten Buches Sozialgesetzbuch versicherungspflichtig sind, zu melden. Dabei sind
 
@@ -355,8 +309,7 @@ Das Bundesministerium der Verteidigung oder die von ihm bestimmte Stelle hat die
 
 § 5 Absatz 1, 3, 4 und 6 und § 38 Absatz 2, 4 und 5 gelten entsprechend.
 
-
-## § 41 – Ordnungswidrigkeiten
+# § 41 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 111 Absatz 1 Satz 1 Nummer 8 des Vierten Buches Sozialgesetzbuch handelt, wer vorsätzlich oder leichtfertig
 
@@ -368,7 +321,6 @@ Ordnungswidrig im Sinne des § 111 Absatz 1 Satz 1 Nummer 8 des Vierten Buches S
 
 4. entgegen § 25 Abs. 2 Satz 2 den Inhalt der Bescheinigung nicht oder nicht für die vorgeschriebene Dauer aufbewahrt.
 
-
-## § 42 – Beitragsnachweisverfahren für sonstige Beiträge
+# § 42 – Beitragsnachweisverfahren für sonstige Beiträge
 
 § 26 gilt entsprechend für Beitragszahlungen und Beitragsweiterleitungen nach § 252 Abs. 2 des Fünften Buches Sozialgesetzbuch.

@@ -1,20 +1,15 @@
-# [StrVerkSiV] Verordnung zur Sicherstellung des Straßenverkehrs  (StrVerkSiV)
-
-Ausfertigungsdatum: 23.09.1980
-
+% Verordnung zur Sicherstellung des Straßenverkehrs  (StrVerkSiV)
+% Ausfertigungsdatum: 23.09.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 3 und 4, des § 5 Abs. 1 Satz 1, des § 19 Abs. 8 und des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Verkehr geschlossener Verbände
+# § 1 – Verkehr geschlossener Verbände
 
 Der Verkehr geschlossener militärischer Verbände und geschlossener nichtmilitärischer Kraftfahrzeugverbände hat Vorrang vor dem sonstigen Straßenverkehr. Die Verkehrsteilnehmer haben diesen Verbänden bei Annäherung freie Bahn zu schaffen. Der Vorrang nach § 38 Abs. 1 der Straßenverkehrs-Ordnung mit blauem Blinklicht und Einsatzhorn gilt auch gegenüber diesen Verbänden. Im übrigen bleiben die Vorschriften der Straßenverkehrs-Ordnung unberührt.
 
-
-## § 2 – Beschränkung der Benutzung von Straßen oder Straßenstrecken
+# § 2 – Beschränkung der Benutzung von Straßen oder Straßenstrecken
 
 (1) Die unteren Straßenverkehrsbehörden können die Benutzung bestimmter Straßen oder Straßenstrecken außer aus den in § 45 Abs. 1 der Straßenverkehrs-Ordnung genannten Gründen beschränken oder verbieten, soweit dies zur Sicherstellung des lebenswichtigen Verkehrs erforderlich ist. Sie dürfen den Verkehr außer durch Verkehrszeichen und Verkehrseinrichtungen auch durch sonstige Verfügungen beschränken oder verbieten. Auf den Kreuzungs- und Anliegerverkehr ist Rücksicht zu nehmen. Die zuständigen obersten Landesbehörden und die höheren Verwaltungsbehörden können die erforderlichen Maßnahmen selbst treffen, wenn dies der Sicherstellung des weiträumigen Verkehrs dient.
 
@@ -26,13 +21,11 @@ Der Verkehr geschlossener militärischer Verbände und geschlossener nichtmilit�
 
 3. die in § 35 Abs. 5a und 6 der Straßenverkehrs-Ordnung genannten Fahrzeuge, soweit ihr Einsatz dies erfordert.
 
-
-## § 3 – Erlaubnispflicht
+# § 3 – Erlaubnispflicht
 
 Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis, soweit § 4 nichts anderes bestimmt.
 
-
-## § 4 – Erlaubnisfreie Fahrten
+# § 4 – Erlaubnisfreie Fahrten
 
 (1) Einer Erlaubnis nach § 3 bedürfen nicht Fahrten zu gewerblichen, beruflichen, schulischen oder sonstigen der Ausbildung dienenden Zwecken innerhalb des Landkreises, des Stadtkreises oder der kreisfreien Stadt, in denen das Fahrzeug zugelassen ist, sowie in den unmittelbar angrenzenden Landkreisen und Stadtkreisen oder kreisfreien Städten, soweit die Benutzung regelmäßig verkehrender öffentlicher Verkehrsmittel nicht möglich oder nicht zumutbar ist. Die Länder Bremen und Hamburg gelten als kreisfreie Städte im Sinne des Satzes 1.
 
@@ -60,8 +53,7 @@ Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis, soweit 
 
 (3) Die höhere Verwaltungsbehörde kann zur Sicherstellung des lebenswichtigen Verkehrs anordnen, daß abweichend von Absatz 1 bestimmte in ihrem Bezirk beginnende Fahrten mit Personenkraftwagen und Krafträdern der Erlaubnis nach § 3 bedürfen, wenn dies auf Grund der Verkehrslage dringend geboten ist. In dringenden Fällen kann auch die untere Straßenverkehrsbehörde dies vorübergehend für Fahrten anordnen, die in ihrem Bezirk angetreten werden.
 
-
-## § 5 – Erteilung der Erlaubnis
+# § 5 – Erteilung der Erlaubnis
 
 (1) Die Erlaubnis nach § 3 wird erteilt, wenn die Benutzung regelmäßig verkehrender öffentlicher Verkehrsmittel zur Erreichung des Fahrtziels oder des Fahrtzwecks nicht möglich oder nicht zumutbar ist und lebenswichtige Interessen nicht entgegenstehen.
 
@@ -71,8 +63,7 @@ Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis, soweit 
 
 (4) Zuständig für die Erteilung der Erlaubnis ist die untere Straßenverkehrsbehörde des Bezirks, in dem das Fahrzeug zugelassen ist. In dringenden Fällen, insbesondere wenn die Erlaubnis von der in Satz 1 genannten Behörde nicht oder nicht rechtzeitig erteilt werden kann, ist auch die untere Straßenverkehrsbehörde des Aufenthaltsortes zuständig.
 
-
-## § 6 – Erlaubnis für Fahrten mit Nutzfahrzeugen
+# § 6 – Erlaubnis für Fahrten mit Nutzfahrzeugen
 
 (1) Die untere Verkehrsbehörde kann mit Zustimmung der höheren Verkehrsbehörde zur Sicherstellung des lebenswichtigen Verkehrs anordnen, daß bestimmte in ihrem Bezirk beginnende Fahrten mit Nutzfahrzeugen der Erlaubnis bedürfen, wenn dies auf Grund der Verkehrslage, insbesondere bei einem Mangel an Nutzfahrzeugen, dringend geboten ist.
 
@@ -80,8 +71,7 @@ Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis, soweit 
 
 (3) Nutzfahrzeuge im Sinne dieser Verordnung sind Kraftomnibusse, Lastkraftwagen und Zugmaschinen sowie Anhänger hinter solchen Fahrzeugen, ausgenommen die nach der Straßenverkehrs-Zulassungs-Ordnung von den Vorschriften über das Zulassungsverfahren befreiten Fahrzeuge sowie die Zugmaschinen in der Land- und Forstwirtschaft, die von der Kraftfahrzeugsteuer befreit sind.
 
-
-## § 7 – Erteilung der Erlaubnis für Fahrten mit Nutzfahrzeugen
+# § 7 – Erteilung der Erlaubnis für Fahrten mit Nutzfahrzeugen
 
 (1) Die Erlaubnis nach § 6 Abs. 1 wird erteilt, wenn lebenswichtige Interessen nicht entgegenstehen.
 
@@ -93,8 +83,7 @@ Fahrten mit Personenkraftwagen und Krafträdern bedürfen der Erlaubnis, soweit 
 
 (5) Zuständig für die Erteilung der Erlaubnis ist die untere Verkehrsbehörde, die die Anordnung nach § 6 Abs. 1 erlassen hat.
 
-
-## § 8 – Betriebs- und Beförderungspflichten im Linienverkehr
+# § 8 – Betriebs- und Beförderungspflichten im Linienverkehr
 
 (1) Die höhere Verkehrsbehörde kann in Einzelfällen anordnen, daß Betriebs- und Beförderungspflichten nach dem Personenbeförderungsgesetz für bestimmte Linien im Straßenbahn-, Obus- und Linienverkehr mit Kraftfahrzeugen vorübergehend ganz oder teilweise ruhen; in diesen Fällen darf der Unternehmer den Betrieb insoweit nicht weiterführen.
 
@@ -114,8 +103,7 @@ den in Nummer 1 genannten Unternehmern, den Unternehmern des Gelegenheitsverkehr
 
 (5) Im übrigen gilt, soweit sich aus den Absätzen 1 bis 4 nichts anderes ergibt, das Personenbeförderungsgesetz entsprechend.
 
-
-## § 9 – Zuwiderhandlungen
+# § 9 – Zuwiderhandlungen
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -149,8 +137,7 @@ begeht eine Zuwiderhandlung im Sinne des § 26 Nr. 1 des Verkehrssicherstellungs
 
 § 9 Abs. 1 Kursivdruck: Art. 62 d. G v. 14.12.1976 I S. 3341 betr. d. Wirtschaftssicherstellungsgesetz
 
-
-## § 10 – Zuständigkeiten
+# § 10 – Zuständigkeiten
 
 (1) In Ländern, in denen höhere Verkehrsbehörden oder höhere Verwaltungsbehörden nicht bestehen, tritt an deren Stelle die oberste Verkehrsbehörde.
 
@@ -162,15 +149,13 @@ begeht eine Zuwiderhandlung im Sinne des § 26 Nr. 1 des Verkehrssicherstellungs
 
 wahrgenommen werden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann angewandt werden, wenn und soweit dies das Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung bestimmt.
 
-
-## Anlage 1 – (zu § 5 Abs. 2)
+# Anlage 1 – (zu § 5 Abs. 2)
 
 (Fundstelle: BGBl. I 1980, 1798)
 
@@ -195,8 +180,7 @@ wahrgenommen werden.
     -------------
     *) Nichtzutreffendes streichen 
 
-
-## Anlage 2 – (zu § 7 Abs. 2)
+# Anlage 2 – (zu § 7 Abs. 2)
 
 (Fundstelle: BGBl. I 1980, 1799)
 

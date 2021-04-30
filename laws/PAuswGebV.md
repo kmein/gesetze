@@ -1,15 +1,11 @@
-# [PAuswGebV] Verordnung über Gebühren für Personalausweise und eID-Karten für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums  (Personalausweis- und eID-Karten-Gebührenverordnung - PAuswGebV)
-
-Ausfertigungsdatum: 01.11.2010
-
+% Verordnung über Gebühren für Personalausweise und eID-Karten für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums  (Personalausweis- und eID-Karten-Gebührenverordnung - PAuswGebV)
+% Ausfertigungsdatum: 01.11.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34 Nummer 8 des Personalausweisgesetzes vom 18. Juni 2009 (BGBl. I S. 1346) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium des Innern im Benehmen mit dem Auswärtigen Amt:
 
-
-## § 1 – Gebühren für Ausweise
+# § 1 – Gebühren für Ausweise
 
 (1) Für die Ausstellung eines Personalausweises sind folgende Gebühren zu erheben:
 
@@ -33,23 +29,19 @@ Die Gebühr nach Absatz 1 ist um 30 Euro anzuheben, wenn die Amtshandlung von ei
 
 (6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden, wenn die Person, die die Gebühr schuldet, bedürftig ist.
 
-
-## § 1a – Auslagen für Ausweise
+# § 1a – Auslagen für Ausweise
 
 Die Personalausweisbehörden lassen sich die Auslagen für den Versand des Briefes in das Ausland nach § 17 Absatz 4 Satz 2 der Personalausweisverordnung erstatten.
 
-
-## § 2 – Gebühr für die eID-Karte
+# § 2 – Gebühr für die eID-Karte
 
 Für die Ausstellung einer eID-Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums ist eine Gebühr von 37 Euro zu erheben.
 
-
-## § 2a – Auslagen für eID-Karten
+# § 2a – Auslagen für eID-Karten
 
 Die eID-Karte-Behörden lassen sich die Auslagen für den Versand des Briefes in das Ausland nach § 17 Absatz 4 Satz 2 in Verbindung mit § 36b der Personalausweisverordnung erstatten.
 
-
-## § 3 – Gebühren für Berechtigungen
+# § 3 – Gebühren für Berechtigungen
 
 Für Berechtigungen sind folgende Gebühren zu erheben:
 
@@ -59,17 +51,14 @@ Für Berechtigungen sind folgende Gebühren zu erheben:
 
 3. 115 Euro für die Rücknahme oder den Widerruf einer Berechtigung.
 
-
-## § 3a – Evaluierung
+# § 3a – Evaluierung
 
 § 1 Absatz 1 Nummer 2 ist zwei Jahre nach Inkrafttreten hinsichtlich des Verwaltungskostenanteils der Personalausweisbehörden unter Einbeziehung des Deutschen Städte- und Gemeindebundes sowie des Deutschen Städtetages zu evaluieren.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. November 2010 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,10 +1,7 @@
-# [BBVAnpG2000Art4uaBek] Bekanntmachung nach Artikel 4 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 2000 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
-
-Ausfertigungsdatum: 20.04.2001
-
+% Bekanntmachung nach Artikel 4 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 2000 und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
+% Ausfertigungsdatum: 20.04.2001
  
-
-## ----
+# ----
 
 Auf Grund des Artikels 4 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 2000 vom 19. April 2000 (BGBl. I S. 618) und des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November 1997 (BGBl. I S. 2764) werden bekanntgemacht
 
@@ -20,8 +17,7 @@ Auf Grund des Artikels 4 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungs
 
 Der Bundesminister des Innern
 
-
-## Anlage 1 – (Anlage IV des BBesG)Gültig ab 1. Januar 2001
+# Anlage 1 – (Anlage IV des BBesG)Gültig ab 1. Januar 2001
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 649 - 651)
 
@@ -858,8 +854,7 @@ R 10
 
 19.043,76
 
-
-## Anlage 2 – (Anlage V des BBesG)Gültig ab 1. Januar 2001
+# Anlage 2 – (Anlage V des BBesG)Gültig ab 1. Januar 2001
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 652)
 
@@ -896,14 +891,11 @@ A 1 bis A 8
 
 357,82
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 164,98 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 218,83 DM\*).  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 164,98 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 218,83 DM\*). Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 10 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 50 DM,  
 in Besoldungsgruppe A 4 um je 40 DM  
-und in Besoldungsgruppe A 5 um je 30 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+und in Besoldungsgruppe A 5 um je 30 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 \- in den Besoldungsgruppen A 1 bis A 8:
 
@@ -915,8 +907,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 \*) Nach Maßgabe des Artikels 5 des Gesetzes zur Neuordnung der Versorgungsabschläge vom 19. Dezember 2000 (BGBl. I S. 1786) ist der Betrag für das Jahr 2001 um 203,60 DM zu erhöhen.
 
-
-## Anlage 3a – (Anlage VIa des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3a – (Anlage VIa des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 653
 
@@ -1265,8 +1256,7 @@ B 8 und höher
 
 10.778
 
-
-## Anlage 3b – (Anlage VIb des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3b – (Anlage VIb des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 653
 
@@ -1615,8 +1605,7 @@ B 8 und höher
 
 9.162
 
-
-## Anlage 3c – (Anlage VIc des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3c – (Anlage VIc des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 654
 
@@ -1965,8 +1954,7 @@ B 8 und höher
 
 7.545
 
-
-## Anlage 3d – (Anlage VId des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3d – (Anlage VId des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 654
 
@@ -2316,8 +2304,7 @@ B 8 und höher
 
 5.282
 
-
-## Anlage 3e – (Anlage VIe des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3e – (Anlage VIe des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 655
 
@@ -2667,8 +2654,7 @@ B 8 und höher
 
 6.414
 
-
-## Anlage 3f – (Anlage VIf des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3f – (Anlage VIf des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 655
 
@@ -3017,8 +3003,7 @@ B 8 und höher
 
  
 
-
-## Anlage 3g – (Anlage VIg des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3g – (Anlage VIg des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 656
 
@@ -3367,8 +3352,7 @@ B 8 und höher
 
  
 
-
-## Anlage 3h – (Anlage VIh des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3h – (Anlage VIh des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 656
 
@@ -3717,8 +3701,7 @@ B 8 und höher
 
  
 
-
-## Anlage 3i – (Anlage VIi des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 3i – (Anlage VIi des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 657
 
@@ -3789,8 +3772,7 @@ A 1 bis A 16
 
 B 1 bis B 11
 
-
-## Anlage 4 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 2001
+# Anlage 4 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 657
 
@@ -3808,8 +3790,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 657
 Anwärtergrundbetrag  
 (Monatsbeträge in DM)
 
-
-## Anlage 5 – (Anlage IX des BBesG)Gültig ab 1. Januar 2001
+# Anlage 5 – (Anlage IX des BBesG)Gültig ab 1. Januar 2001
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 658 - 660)
 
@@ -4981,8 +4962,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
-## Anlage 6 – (Anlage IV des BBesG)Gültig ab 1. Januar 2002
+# Anlage 6 – (Anlage IV des BBesG)Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 661 - 663
 
@@ -5947,8 +5927,7 @@ R 10
 
  
 
-
-## Anlage 7 – (Anlage V des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 7 – (Anlage V des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 664
 
@@ -5988,22 +5967,18 @@ A 1 bis A 8
 186,99
 
   
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 86,21 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 114,35 Euro.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 86,21 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 114,35 Euro. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 25,56 Euro,  
 in Besoldungsgruppe A 4 um je 20,45 Euro  
-und in Besoldungsgruppe A 5 um je 15,34 Euro.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+und in Besoldungsgruppe A 5 um je 15,34 Euro. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |             |
 |:------------------------------------------|------------:|
 | \- in den Besoldungsgruppen A 1 bis A 8:  |  89,21 Euro |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 94,70 Euro. |
 
-
-## Anlage 8a – (Anlage VIa des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8a – (Anlage VIa des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 665
 
@@ -6352,8 +6327,7 @@ B 8 und höher
 
 5.613,98
 
-
-## Anlage 8b – (Anlage VIb des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8b – (Anlage VIb des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 665
 
@@ -6702,8 +6676,7 @@ B 8 und höher
 
 4.771,89
 
-
-## Anlage 8c – (Anlage VIc des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8c – (Anlage VIc des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 666
 
@@ -7052,8 +7025,7 @@ B 8 und höher
 
 3.929,79
 
-
-## Anlage 8d – (Anlage VId des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8d – (Anlage VId des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 666
 
@@ -7403,8 +7375,7 @@ B 8 und höher
 
 2.751,26
 
-
-## Anlage 8e – (Anlage VIe des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8e – (Anlage VIe des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 667
 
@@ -7754,8 +7725,7 @@ B 8 und höher
 
 3.340,78
 
-
-## Anlage 8f – (Anlage VIf des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8f – (Anlage VIf des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 667
 
@@ -8104,8 +8074,7 @@ B 8 und höher
 
  
 
-
-## Anlage 8g – (Anlage VIg des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8g – (Anlage VIg des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 668
 
@@ -8454,8 +8423,7 @@ B 8 und höher
 
  
 
-
-## Anlage 8h – (Anlage VIh des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8h – (Anlage VIh des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 668
 
@@ -8804,8 +8772,7 @@ B 8 und höher
 
  
 
-
-## Anlage 8i – (Anlage VIi des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 8i – (Anlage VIi des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 669
 
@@ -8876,8 +8843,7 @@ A 1 bis A 16
 
 B 1 bis B 11
 
-
-## Anlage 9 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 2002
+# Anlage 9 – (Anlage VIII des BBesG)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 669
 
@@ -8895,8 +8861,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 669
 Anwärtergrundbetrag  
 (Monatsbeträge in Euro)
 
-
-## Anlage 10 – (Anlage IX des BBesG)Gültig ab 1. Januar 2002
+# Anlage 10 – (Anlage IX des BBesG)Gültig ab 1. Januar 2002
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 670 - 672)
 
@@ -10089,8 +10054,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
-## Anlage 11 – (Anlage IV des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. August 2000
+# Anlage 11 – (Anlage IV des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. August 2000
 
 Fundstelle des Originaltextes: BGBl. I 2001, 673 - 675
 
@@ -11055,8 +11019,7 @@ R 10
 
  
 
-
-## Anlage 12 – (Anlage V des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. August 2000
+# Anlage 12 – (Anlage V des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. August 2000
 
 Fundstelle des Originaltextes: BGBl. I 2001, 676
 
@@ -11070,22 +11033,18 @@ Fundstelle des Originaltextes: BGBl. I 2001, 676
 Familienzuschlag (Monatsbeträge in DM)
 
   
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 140,99 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 187,02 DM.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 140,99 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 187,02 DM. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 8,70 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 43,50 DM,  
 in Besoldungsgruppe A 4 um je 34,80 DM  
-und in Besoldungsgruppe A 5 um je 26,10 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+und in Besoldungsgruppe A 5 um je 26,10 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |            |
 |:------------------------------------------|:-----------|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 145,90 DM  |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 154,88 DM. |
 
-
-## Anlage 13 – (Anlage VIII des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. August 2000
+# Anlage 13 – (Anlage VIII des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. August 2000
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 677)
 
@@ -11128,8 +11087,7 @@ oder R 1
 
 1.647,22
 
-
-## Anlage 14 – (Anlage IX des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. August 2000
+# Anlage 14 – (Anlage IX des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. August 2000
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 678 - 680)
 
@@ -12336,8 +12294,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
-
-## Anlage 15 – (Anlage IV des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2001
+# Anlage 15 – (Anlage IV des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 681 - 683
 
@@ -13302,8 +13259,7 @@ R 10
 
  
 
-
-## Anlage 16 – (Anlage V des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2001
+# Anlage 16 – (Anlage V des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2001
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 684)
 
@@ -13347,14 +13303,11 @@ A 1 bis A 8
 
 316,67
 
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 146,01 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 193,66 DM\*).  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 146,01 DM, für das dritte und jedes weitere zu berücksichtigende Kind um 193,66 DM\*). Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind den Besoldungsgruppen A 1 bis A 5 um je 8,85 DM, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 44,25 DM,  
 in Besoldungsgruppe A 4 um je 35,40 DM  
-und in Besoldungsgruppe A 5 um je 26,55 DM.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+und in Besoldungsgruppe A 5 um je 26,55 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 \- in den Besoldungsgruppen A 1 bis A 8:
 
@@ -13366,8 +13319,7 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 \*) Nach Maßgabe des Artikels 5 des Gesetzes zur Neuordnung der Versorgungsabschläge vom 19. Dezember 2000 (BGBl. I S. 1786) ist der Betrag für das Jahr 2001 um 180,19 DM zu erhöhen.
 
-
-## Anlage 17 – (Anlage VIII des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2001
+# Anlage 17 – (Anlage VIII des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2001
 
 Fundstelle des Originaltextes: BGBl. I 2001, 685
 
@@ -13385,8 +13337,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 685
 Anwärtergrundbetrag  
 (Monatsbeträge in DM)
 
-
-## Anlage 18 – (Anlage IX des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2001
+# Anlage 18 – (Anlage IX des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2001
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 686 - 688)
 
@@ -14559,8 +14510,7 @@ R 8
 \*)  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).
 
-
-## Anlage 19 – (Anlage IV des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2002
+# Anlage 19 – (Anlage IV des BBesG)(Zweite Besoldungs-Übergangsverordnung)Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 689 - 691
 
@@ -15525,8 +15475,7 @@ R 10
 
  
 
-
-## Anlage 20 – (Anlage V des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2002
+# Anlage 20 – (Anlage V des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 692
 
@@ -15541,22 +15490,18 @@ Familienzuschlag
 (Monatsbeträge in Euro)
 
   
-Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 77,59 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 102,92 Euro.  
-Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 77,59 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 102,92 Euro. Erhöhungsbeträge für Besoldungsgruppen A 1 bis A 5  
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 5 um je 4,60 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind  
 in den Besoldungsgruppen A 1 bis A 3 um je 23,01 Euro,  
 in Besoldungsgruppe A 4 um je 18,41 Euro  
-und in Besoldungsgruppe A 5 um je 13,80 Euro.  
-Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.  
-Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
+und in Besoldungsgruppe A 5 um je 13,80 Euro. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt. Anrechnungsbetrag nach § 39 Abs. 2 Satz 1  
 
 |                                           |             |
 |:------------------------------------------|:------------|
 | \- in den Besoldungsgruppen A 1 bis A 8:  | 80,29 Euro  |
 | \- in den Besoldungsgruppen A 9 bis A 12: | 85,23 Euro. |
 
-
-## Anlage 21 – (Anlage VIII des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2002
+# Anlage 21 – (Anlage VIII des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2002
 
 Fundstelle des Originaltextes: BGBl. I 2001, 693
 
@@ -15574,8 +15519,7 @@ Fundstelle des Originaltextes: BGBl. I 2001, 693
 Anwärtergrundbetrag  
 (Monatsbeträge in Euro)
 
-
-## Anlage 22 – (Anlage IX des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2002
+# Anlage 22 – (Anlage IX des BBesG)  (Zweite Besoldungs-Übergangsverordnung)  Gültig ab 1. Januar 2002
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 694 - 696)
 

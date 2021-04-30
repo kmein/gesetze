@@ -1,30 +1,23 @@
-# [RiFlEtikettG] Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern  (Rindfleischetikettierungsgesetz - RiFlEtikettG)
-
-Ausfertigungsdatum: 26.02.1998
-
+% Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern  (Rindfleischetikettierungsgesetz - RiFlEtikettG)
+% Ausfertigungsdatum: 26.02.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 1760/2000 des Europäischen Parlaments und des Rates vom 17. Juli 2000 zur Einführung eines Systems zur Kennzeichnung und Registrierung von Rindern und über die Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 820/97 des Rates (ABl. L 204 vom 11.8.2000, S. 1), die zuletzt durch Artikel 278 der Verordnung (EU) 2016/429 vom 9. März 2016 (ABl. L 84 vom 31.3.2016, S. 1; L 57 vom 3.3.2017, S. 65) geändert worden ist, sowie der Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, die zur Durchführung der Verordnung (EG) Nr. 1760/2000 ergangen sind.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen bleiben die Vorschriften des Lebensmittel- und Futtermittelrechts, des Handelsklassenrechts, des Lebensmittelspezialitätenrechts und des Markenrechts.
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3 – (weggefallen)
+# § 3 – (weggefallen)
 
 \-
 
-
-## § 3a – Verarbeitung von Daten
+# § 3a – Verarbeitung von Daten
 
 (1) Soweit es für die Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie für die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern und die damit im Zusammenhang stehende Rückverfolgung der Herkunft eines Rindes erforderlich ist, ist jeder Marktbeteiligte, ausgenommen Verbraucherinnen oder Verbraucher im Sinne des § 3 Nr. 4 des Lebensmittel- und Futtermittelgesetzbuches, berechtigt, Daten
 
@@ -48,13 +41,11 @@ erforderlich sind.
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit den Bundesministerien des Innern, für Bau und Heimat und für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit erforderlich das Verfahren zur Datenverarbeitung nach Absatz 1 oder 2 zu regeln.
 
-
-## § 4 – Zuständigkeit für die Überwachung
+# § 4 – Zuständigkeit für die Überwachung
 
 Die Bundesanstalt für Landwirtschaft und Ernährung überwacht die Einhaltung der im Rahmen der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Absatz 1 dieses Gesetzes zu machenden obligatorischen Angaben. Dabei prüft sie auch die Rückverfolgbarkeit dieser Angaben sowie die Einhaltung von weiteren Pflichten der Marktbeteiligten nach diesem Gesetz und nach auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
-
-## § 4a – Befugnisse
+# § 4a – Befugnisse
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung ordnet für den Fall, dass die Rindfleischetikettierung sowie die Verkehrsbezeichnung oder Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern den Vorgaben der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 dieses Gesetzes oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht entspricht, die Maßnahmen an, die erforderlich sind, um Verstößen zu begegnen. Insbesondere kann angeordnet werden, dass nicht oder fehlerhaft etikettiertes Rindfleisch oder Rindfleischerzeugnisse oder nicht oder fehlerhaft gekennzeichnetes Fleisch von weniger als zwölf Monate alten Rindern nicht in den Verkehr gebracht werden dürfen, bis ordnungsgemäß neu etikettiert oder gekennzeichnet worden ist.
 
@@ -88,13 +79,11 @@ Diese Befugnisse erstrecken sich auch auf Betriebe, die Fleisch, genießbare Sch
 
 (6) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft und Energie und der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates Maßnahmen, die erforderlich sind, um Verstößen gegen Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 zu begegnen, sowie das Verfahren der Überwachung von Fleisch, genießbaren Schlachtnebenerzeugnissen, Zubereitungen von Fleisch oder Zubereitungen von genießbaren Schlachtnebenerzeugnissen beim innerstaatlichen Handel, innergemeinschaftlichen Verbringen oder bei der Einfuhr zu regeln.
 
-
-## § 5 – Gebühren
+# § 5 – Gebühren
 
 Für individuell zurechenbare öffentliche Leistungen, die nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Verordnungen von den zuständigen Stellen vorzunehmen sind, werden kostendeckende Gebühren und Auslagen erhoben.
 
-
-## § 6 – Auskunftserteilung
+# § 6 – Auskunftserteilung
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung
 
@@ -104,13 +93,11 @@ Für individuell zurechenbare öffentliche Leistungen, die nach diesem Gesetz un
 
 (2) Die Bundesanstalt für Landwirtschaft und Ernährung hat, soweit dies zur Überwachung oder Kontrolle erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen der Überwachung oder Kontrolle gewonnen hat, den zuständigen Behörden anderer Mitgliedstaaten, dem Bundesministerium und der Europäischen Kommission mitzuteilen.
 
-
-## § 7 – Außenverkehr
+# § 7 – Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europäischen Kommission obliegt dem Bundesministerium. Es kann diese Befugnis auf die Bundesanstalt für Landwirtschaft und Ernährung übertragen.
 
-
-## § 8 – Rechtsverordnungen
+# § 8 – Rechtsverordnungen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 erforderlich ist, Vorschriften zu erlassen
 
@@ -122,8 +109,7 @@ Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europ
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Verweisungen in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, die sich auf Vorschriften in Rechtsakten im Sinne des § 1 Absatz 1 beziehen, zu ändern, soweit dies erforderlich ist, um die Verweisungen an Änderungen der Vorschriften in diesen Rechtsakten anzupassen. Satz 1 gilt insbesondere für die Änderung von Verweisungen auf Vorschriften in der Verordnung (EG) Nr. 1760/2000. Von der Ermächtigung nach Satz 1 darf nur zur Anpassung an redaktionelle Änderungen, einschließlich der Änderung der Nummern oder der Bezeichnungen von Rechtsakten oder von Einzelnormen, sowie zur Anpassung von Änderungshinweisen Gebrauch gemacht werden.
 
-
-## § 9 – Unterlassungs- und Schadenersatzanspruch
+# § 9 – Unterlassungs- und Schadenersatzanspruch
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen Vorschriften in Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1 Abs. 1, gegen dieses Gesetz oder gegen auf Grund dieses Gesetzes erlassene Rechtsverordnungen verstoßen, kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten auf Unterlassung in Anspruch genommen werden.
 
@@ -133,11 +119,9 @@ Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und der Europ
 
 (4) (weggefallen)
 
+# § 10 – (weggefallen)
 
-## § 10 – (weggefallen)
-
-
-## § 11 – Bußgeldvorschriften
+# § 11 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -181,8 +165,7 @@ b) Absatz 5 Buchstabe a in Verbindung mit Artikel 2 Absatz 2 der Verordnung (EG)
 
 (6) Die Ordnungswidrigkeit kann in den Fällen der Absätze 2 bis 5 mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
-## § 12 – Einziehung
+# § 12 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 11 Absatz 1 bis 5 begangen worden, so können
 
@@ -192,7 +175,6 @@ Ist eine Ordnungswidrigkeit nach § 11 Absatz 1 bis 5 begangen worden, so könne
 
 eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

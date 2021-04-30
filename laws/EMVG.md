@@ -1,12 +1,7 @@
-# [EMVG] Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln   (Elektromagnetische-Verträglichkeit-Gesetz - EMVG)
-
-Ausfertigungsdatum: 14.12.2016
-
+% Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln   (Elektromagnetische-Verträglichkeit-Gesetz - EMVG)
+% Ausfertigungsdatum: 14.12.2016
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -24,8 +19,9 @@ Ausfertigungsdatum: 14.12.2016
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für alle Betriebsmittel, die elektromagnetische Störungen verursachen können oder deren Betrieb durch elektromagnetische Störungen beeinträchtigt werden kann.
 
@@ -33,8 +29,7 @@ Ausfertigungsdatum: 14.12.2016
 
 (3) Werden in Rechtsvorschriften der Europäischen Union spezifischere Festlegungen für Anforderungen an Betriebsmittel nach den §§ 4 und 5 getroffen, so gelten die entsprechenden Anforderungen der §§ 4 und 5 nicht oder nicht mehr ab dem Datum der Anwendung dieser Rechtsvorschriften.
 
-
-## § 2 – Einschränkungen des Anwendungsbereichs
+# § 2 – Einschränkungen des Anwendungsbereichs
 
 (1) Auf Geräte im Sinne des Funkanlagengesetzes vom 27. Juni 2017 (BGBl. I S. 1947) sind nur die §§ 27 und 30 dieses Gesetzes entsprechend anzuwenden.
 
@@ -60,8 +55,7 @@ b) für die Verfolgung von Straftaten und Ordnungswidrigkeiten oder für die öf
 
 (4) Entsprechend gilt ebenfalls die Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie nach § 22 Absatz 4 des Bundesgebührengesetzes.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -135,8 +129,7 @@ f) eine bewegliche Anlage; bewegliche Anlage ist eine Verbindung von Geräten od
 
 29. sind „allgemein anerkannte Regeln der Technik“ technische Festlegungen für Verfahren, Einrichtungen und Betriebsweisen, die nach der herrschenden Auffassung der beteiligten Kreise geeignet sind, die elektromagnetische Verträglichkeit zu gewährleisten, und die sich in der Praxis bewährt haben.
 
-
-## § 4 – Grundlegende Anforderungen an die elektromagnetische Verträglichkeit
+# § 4 – Grundlegende Anforderungen an die elektromagnetische Verträglichkeit
 
 Betriebsmittel müssen nach dem Stand der Technik so entworfen und hergestellt sein, dass
 
@@ -146,27 +139,23 @@ Betriebsmittel müssen nach dem Stand der Technik so entworfen und hergestellt s
 
 (+++ § 4: Zur Anwendung vgl. § 1 Abs. 3 +++)
 
-
-## § 5 – Besondere Anforderungen an die Installation ortsfester Anlagen
+# § 5 – Besondere Anforderungen an die Installation ortsfester Anlagen
 
 Ortsfeste Anlagen müssen zusätzlich zu den Anforderungen des § 4 nach den allgemein anerkannten Regeln der Technik installiert werden.
 
 (+++ § 5: Zur Anwendung vgl. § 1 Abs. 3 +++)
 
-
-## § 6 – Bereitstellung auf dem Markt, Inbetriebnahme
+# § 6 – Bereitstellung auf dem Markt, Inbetriebnahme
 
 Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Betrieb genommen werden, wenn sie bei ordnungsgemäßer Installierung und Wartung sowie bestimmungsgemäßer Verwendung die Anforderungen dieses Gesetzes erfüllen.
 
-
-## § 7 – Besondere Regelungen zum freien Warenverkehr
+# § 7 – Besondere Regelungen zum freien Warenverkehr
 
 (1) Die Bereitstellung von Betriebsmitteln auf dem Markt oder die Inbetriebnahme von Betriebsmitteln, die die Anforderungen dieses Gesetzes erfüllen, darf nicht aus Gründen verboten werden, die mit der elektromagnetischen Verträglichkeit zusammenhängen.
 
 (2) Ein Wirtschaftsakteur darf Betriebsmittel, die die Anforderungen dieses Gesetzes nicht erfüllen, auf Messen, Ausstellungen und ähnlichen Veranstaltungen aufstellen und vorführen, wenn er die Betriebsmittel mit dem Hinweis versieht, dass sie erst dann auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen, wenn sie die Anforderungen dieses Gesetzes erfüllen. Bei Vorführungen sind zusätzlich geeignete Maßnahmen zur Vermeidung elektromagnetischer Störungen zu treffen.
 
-
-## § 8 – Allgemeine Pflichten des Herstellers
+# § 8 – Allgemeine Pflichten des Herstellers
 
 (1) Der Hersteller hat sicherzustellen, wenn er Geräte in Verkehr bringt, dass sie nach den Anforderungen des § 4 entworfen und hergestellt wurden.
 
@@ -180,8 +169,7 @@ Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Be
 
 (6) Während der Entwicklung und Erprobung von Geräten hat der Hersteller geeignete Maßnahmen zur Vermeidung elektromagnetischer Störungen von Betriebsmitteln Dritter zu treffen.
 
-
-## § 9 – Kennzeichnungs- und Informationspflichten des Herstellers
+# § 9 – Kennzeichnungs- und Informationspflichten des Herstellers
 
 (1) Der Hersteller hat dafür zu sorgen, dass seine Geräte beim Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine andere Information zu ihrer Identifikation tragen. Falls dies aufgrund der Größe oder Art des Gerätes nicht möglich ist, hat der Hersteller dafür zu sorgen, dass die zur Identifikation erforderliche Information auf der Verpackung oder in den dem Gerät beigefügten Unterlagen angegeben wird.
 
@@ -191,8 +179,7 @@ Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Be
 
 (4) Der Hersteller hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen auf Papier oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität des Gerätes mit den Anforderungen dieses Gesetzes erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Hersteller hat auf Verlangen der Bundesnetzagentur bei allen Maßnahmen zur Abwehr von Risiken mitzuwirken, die mit den Geräten verbunden sind, die er in Verkehr gebracht hat.
 
-
-## § 10 – Bevollmächtigter des Herstellers
+# § 10 – Bevollmächtigter des Herstellers
 
 (1) Der Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -208,8 +195,7 @@ Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Be
 
 (4) Die Pflicht nach § 8 Absatz 1 und die Pflicht zur Erstellung der technischen Unterlagen nach Anhang II Nummer 3 oder Anhang III Nummer 3 Buchstabe c der Richtlinie 2014/30/EU darf der Hersteller nicht dem Bevollmächtigten übertragen.
 
-
-## § 11 – Allgemeine Pflichten des Einführers
+# § 11 – Allgemeine Pflichten des Einführers
 
 (1) Der Einführer darf nur Geräte in Verkehr bringen, die den Anforderungen dieses Gesetzes genügen.
 
@@ -229,8 +215,7 @@ Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Be
 
 (5) Hat der Einführer Kenntnis davon oder Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Gerät nicht den Anforderungen dieses Gesetzes genügt, so ergreift er unverzüglich die erforderlichen Korrekturmaßnahmen, um die Konformität herzustellen. Erforderlichenfalls nimmt der Einführer das Gerät zurück oder ruft es zurück. Sind mit dem Gerät Risiken verbunden, so informiert der Einführer unverzüglich die Bundesnetzagentur sowie die Marktüberwachungsbehörden der Mitgliedstaaten der Europäischen Union, in denen er das Gerät auf dem Markt bereitgestellt hat, über den Sachverhalt, insbesondere über die Art der Nichtkonformität und die ergriffenen Korrekturmaßnahmen.
 
-
-## § 12 – Kennzeichnungs- und Informationspflichten des Einführers
+# § 12 – Kennzeichnungs- und Informationspflichten des Einführers
 
 (1) Der Einführer hat beim Inverkehrbringen seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf dem Gerät anzugeben. Falls dies aufgrund der Größe oder Art des Gerätes nicht möglich ist, müssen diese Kontaktdaten auf der Verpackung oder auf den dem Gerät beigefügten Unterlagen angegeben werden. Die Kontaktdaten sind in einer Sprache abzufassen, die von den Endnutzern und der Bundesnetzagentur leicht verstanden werden kann.
 
@@ -238,8 +223,7 @@ Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Be
 
 (3) Der Einführer hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen auf Papier oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität des Gerätes erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Einführer hat auf Verlangen der Bundesnetzagentur bei allen Maßnahmen zur Abwehr von Risiken mitzuwirken, die mit Geräten verbunden sind, die er in Verkehr gebracht hat.
 
-
-## § 13 – Pflichten des Händlers
+# § 13 – Pflichten des Händlers
 
 (1) Der Händler darf ein Gerät erst auf dem Markt bereitstellen, wenn er sichergestellt hat, dass
 
@@ -259,8 +243,7 @@ Betriebsmittel dürfen nur auf dem Markt bereitgestellt, weitergegeben und in Be
 
 (5) Der Händler hat der Bundesnetzagentur auf deren begründetes Verlangen alle Informationen und Unterlagen auf Papier oder elektronisch zur Verfügung zu stellen, die für den Nachweis der Konformität des Gerätes erforderlich sind. Die Informationen und Unterlagen müssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Händler hat auf Verlangen der Bundesnetzagentur bei allen Maßnahmen zur Abwehr von Risiken mitzuwirken, die mit Geräten verbunden sind, die von ihm auf dem Markt bereitgestellt wurden.
 
-
-## § 14 – Einführer oder Händler als Hersteller
+# § 14 – Einführer oder Händler als Hersteller
 
 Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes und unterliegt den Pflichten des Herstellers nach den §§ 8 und 9, wenn er
 
@@ -268,8 +251,7 @@ Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes un
 
 2. ein auf dem Markt befindliches Gerät so verändert, dass die Konformität mit den Anforderungen dieses Gesetzes beeinträchtigt werden kann.
 
-
-## § 15 – Identifizierung der Wirtschaftsakteure
+# § 15 – Identifizierung der Wirtschaftsakteure
 
 (1) Die Wirtschaftsakteure sind verpflichtet, der Bundesnetzagentur auf Verlangen die Wirtschaftsakteure zu nennen,
 
@@ -279,13 +261,11 @@ Ein Einführer oder ein Händler gilt als Hersteller im Sinne dieses Gesetzes un
 
 (2) Die Verpflichtung zur Benennung der Wirtschaftsakteure gilt für den Zeitraum von zehn Jahren nach Abgabe oder Bezug des Gerätes.
 
-
-## § 16 – Konformitätsvermutung bei Betriebsmitteln
+# § 16 – Konformitätsvermutung bei Betriebsmitteln
 
 Stimmt ein Betriebsmittel mit den einschlägigen harmonisierten Normen oder Teilen davon, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht sind, überein, so wird widerleglich vermutet, dass das Betriebsmittel mit den von dieser Norm oder Teilen davon abgedeckten Anforderungen des § 4 übereinstimmt.
 
-
-## § 17 – Konformitätsbewertungsverfahren für Geräte
+# § 17 – Konformitätsbewertungsverfahren für Geräte
 
 (1) Die Übereinstimmung der Geräte mit den Anforderungen des § 4 ist durch eines der folgenden Konformitätsbewertungsverfahren nachzuweisen:
 
@@ -299,8 +279,7 @@ Der Hersteller kann die Anwendung des Verfahrens nach Satz 1 Nummer 2 auf einige
 
 (3) Unterliegt ein Gerät mehreren Rechtsakten der Union, in denen jeweils eine EU-Konformitätserklärung vorgeschrieben ist, so stellt der Hersteller nur eine EU-Konformitätserklärung für sämtliche Rechtsakte der Union aus. Diese Erklärung muss alle betroffenen Rechtsakte nebst Fundstelle im Amtsblatt der Europäischen Union enthalten.
 
-
-## § 18 – CE-Kennzeichnung von Geräten
+# § 18 – CE-Kennzeichnung von Geräten
 
 (1) Geräte, deren Übereinstimmung mit den Anforderungen des § 4 im Verfahren nach § 17 Absatz 1 nachgewiesen wurde, sind, bevor sie in Verkehr gebracht werden, mit der CE-Kennzeichnung zu versehen.
 
@@ -308,8 +287,7 @@ Der Hersteller kann die Anwendung des Verfahrens nach Satz 1 Nummer 2 auf einige
 
 (3) Die CE-Kennzeichnung ist gut sichtbar, gut lesbar und dauerhaft auf dem Gerät oder seiner Datenplakette anzubringen. Falls die Art des Gerätes das nicht zulässt oder nicht rechtfertigt, ist die CE-Kennzeichnung auf der Verpackung und den Begleitunterlagen anzubringen.
 
-
-## § 19 – Montage und Gebrauchsanleitung für Geräte, Hinweise auf Nutzungsbeschränkungen
+# § 19 – Montage und Gebrauchsanleitung für Geräte, Hinweise auf Nutzungsbeschränkungen
 
 (1) Auf dem Gerät, seiner Verpackung oder den beigegebenen Unterlagen müssen Angaben über besondere Vorkehrungen beigefügt sein, die bei Montage, Installierung, Wartung oder Betrieb des Gerätes zu treffen sind, damit es nach Inbetriebnahme die Anforderungen des § 4 erfüllt. Bei Geräten für nichtgewerbliche Nutzer müssen die Angaben in deutscher Sprache abgefasst sein.
 
@@ -317,8 +295,7 @@ Der Hersteller kann die Anwendung des Verfahrens nach Satz 1 Nummer 2 auf einige
 
 (3) Jedem Gerät ist eine Betriebsanleitung mit allen Informationen beizufügen, die zur bestimmungsgemäßen Nutzung des Gerätes erforderlich sind. Bei Geräten für nichtgewerbliche Nutzer muss die Betriebsanleitung in deutscher Sprache abgefasst sein.
 
-
-## § 20 – Ortsfeste Anlagen
+# § 20 – Ortsfeste Anlagen
 
 (1) Der Betreiber einer ortsfesten Anlage hat dafür zu sorgen, dass die Anlage die Anforderungen der §§ 4 und 5 erfüllt. Die in § 5 genannten anerkannten Regeln der Technik sind zu dokumentieren und für Kontrollen der Bundesnetzagentur zur Einsicht bereitzuhalten, solange die ortsfeste Anlage in Betrieb ist. Die Dokumentation muss dem aktuellen technischen Zustand der Anlage entsprechen.
 
@@ -338,8 +315,7 @@ b) unter welchen Voraussetzungen diese ortsfeste Anlage elektromagnetische Vertr
 
 c) welche Vorkehrungen beim Einbau des Gerätes in die ortsfeste Anlage zu treffen sind, damit die Konformität der ortsfesten Anlage durch den Einbau nicht beeinträchtigt wird.
 
-
-## § 21 – Notifizierende Behörde, Verordnungsermächtigung
+# § 21 – Notifizierende Behörde, Verordnungsermächtigung
 
 (1) Notifizierende Behörde ist die Bundesnetzagentur. Die Bundesnetzagentur richtet das Verfahren zur Anerkennung einer Konformitätsbewertungsstelle als notifizierte Stelle und das Verfahren zur Überwachung der notifizierten Stelle ein, und sie führt dieses Verfahren durch.
 
@@ -359,8 +335,7 @@ c) welche Vorkehrungen beim Einbau des Gerätes in die ortsfeste Anlage zu treff
 
 (3) Die Absätze 1 und 2 sind entsprechend auf Konformitätsbewertungsstellen anzuwenden, die Konformitätsbewertungen nach Drittstaatenabkommen durchführen.
 
-
-## § 22 – Zuständigkeiten und Befugnisse der Bundesnetzagentur
+# § 22 – Zuständigkeiten und Befugnisse der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur führt dieses Gesetz aus, soweit gesetzlich nichts anderes bestimmt ist.
 
@@ -386,8 +361,7 @@ c) welche Vorkehrungen beim Einbau des Gerätes in die ortsfeste Anlage zu treff
 
 (+++ § 22: Zur Anwendung vgl. § 2 Abs. 1 F. 14.12.2016 +++)
 
-
-## § 23 – Maßnahmen der Marktüberwachung bei Geräten, mit denen ein Risiko verbunden ist
+# § 23 – Maßnahmen der Marktüberwachung bei Geräten, mit denen ein Risiko verbunden ist
 
 (1) Hat die Bundesnetzagentur Grund zu der Annahme, dass ein Gerät elektromagnetisch nicht verträglich ist, so prüft sie, ob das Gerät die Anforderungen dieses Gesetzes erfüllt. Die Wirtschaftsakteure sind verpflichtet, zu diesem Zweck im erforderlichen Umfang mit der Bundesnetzagentur zusammenzuarbeiten.
 
@@ -405,8 +379,7 @@ c) welche Vorkehrungen beim Einbau des Gerätes in die ortsfeste Anlage zu treff
 
 (+++ § 23: Zur Anwendung vgl. § 2 Abs. 1 F. 14.12.2016 +++)
 
-
-## § 23a – Maßnahmen auf Messen und Ausstellungen
+# § 23a – Maßnahmen auf Messen und Ausstellungen
 
 (1) Stellt die Bundesnetzagentur fest, dass ein Betriebsmittel, das auf Messen, Ausstellungen oder ähnlichen Veranstaltungen aufgestellt ist oder vorgeführt wird, die Anforderungen des § 7 Absatz 2 nicht erfüllt, so fordert sie unverzüglich den ausstellenden Wirtschaftsakteur auf, alle geeigneten Maßnahmen zu ergreifen, um die Übereinstimmung des Betriebsmittels mit den Anforderungen herzustellen.
 
@@ -414,8 +387,7 @@ c) welche Vorkehrungen beim Einbau des Gerätes in die ortsfeste Anlage zu treff
 
 (+++ § 23a: Zur Anwendung vgl. § 2 Abs. 1 F. 14.12.2016 +++)
 
-
-## § 24 – Maßnahmen bei formaler Nichtkonformität
+# § 24 – Maßnahmen bei formaler Nichtkonformität
 
 (1) Stellt die Bundesnetzagentur eine formale Nichtkonformität fest, so fordert sie den betreffenden Wirtschaftsakteur auf, die Nichtkonformität innerhalb einer angemessenen Frist zu korrigieren.
 
@@ -435,8 +407,7 @@ c) welche Vorkehrungen beim Einbau des Gerätes in die ortsfeste Anlage zu treff
 
 (+++ § 24: Zur Anwendung vgl. § 2 Abs. 1 F. 14.12.2016 +++)
 
-
-## § 25 – Pflichten der Bundesnetzagentur bei Nichtkonformität von Geräten, mit denen ein Risiko verbunden ist, die sich nicht auf das deutsche Hoheitsgebiet beschränken
+# § 25 – Pflichten der Bundesnetzagentur bei Nichtkonformität von Geräten, mit denen ein Risiko verbunden ist, die sich nicht auf das deutsche Hoheitsgebiet beschränken
 
 (1) Ist die Bundesnetzagentur der Auffassung, dass die beanstandeten Geräte auch in anderen Mitgliedstaaten der europäischen Union auf dem Markt bereitgestellt werden, so unterrichtet die Bundesnetzagentur die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union. Außerdem unterrichtet die Bundesnetzagentur die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union über das Ergebnis der Beurteilung nach § 23 Absatz 1 und die Maßnahmen, die zu ergreifen sie den Wirtschaftsakteur aufgefordert hat.
 
@@ -458,8 +429,7 @@ Die Maßnahmen nach § 23 Absatz 4 sind dann im Amtsblatt der Bundesnetzagentur 
 
 (+++ § 25: Zur Anwendung vgl. § 2 Abs. 1 F. 14.12.2016 +++)
 
-
-## § 26 – Pflichten der Bundesnetzagentur bei Nichtkonformität von Geräten, mit denen ein Risiko verbunden ist, bei Maßnahmen anderer Mitgliedstaaten
+# § 26 – Pflichten der Bundesnetzagentur bei Nichtkonformität von Geräten, mit denen ein Risiko verbunden ist, bei Maßnahmen anderer Mitgliedstaaten
 
 (1) Wird die Bundesnetzagentur von einem anderen Mitgliedstaat der Europäischen Union darüber informiert, dass dieser Mitgliedstaat eine markteinschränkende Maßnahme nach Artikel 38 Absatz 4 der Richtlinie 2014/30/EU getroffen hat, so prüft sie unverzüglich, ob diese Maßnahme gerechtfertigt ist. Sie informiert die nationalen Wirtschaftsakteure in geeigneter Weise im Amtsblatt über die Maßnahme des anderen Mitgliedstaates und gibt ihnen Gelegenheit zur Stellungnahme. Die Frist zur Stellungnahme beträgt vier Wochen ab der Veröffentlichung.
 
@@ -471,8 +441,7 @@ Die Maßnahmen nach § 23 Absatz 4 sind dann im Amtsblatt der Bundesnetzagentur 
 
 (+++ § 26: Zur Anwendung vgl. § 2 Abs. 1 F. 14.12.2016 +++)
 
-
-## § 27 – Befugnisse bei der Störungsbearbeitung, Verordnungsermächtigung
+# § 27 – Befugnisse bei der Störungsbearbeitung, Verordnungsermächtigung
 
 (1) Die Bundesnetzagentur ist befugt, die notwendigen Maßnahmen zur Klärung von Problemen mit der elektromagnetischen Verträglichkeit zu ergreifen.
 
@@ -502,8 +471,7 @@ Zivilrechtliche Ansprüche bleiben unberührt.
 
 (+++ § 27: Zur Anwendung vgl. § 2 +++)
 
-
-## § 28 – Besondere Eingriffsbefugnisse bei der Störungsbearbeitung
+# § 28 – Besondere Eingriffsbefugnisse bei der Störungsbearbeitung
 
 (1) Besteht aufgrund einer elektromagnetischen Störung
 
@@ -541,8 +509,7 @@ Die Strafverfolgungsbehörden und die Polizeivollzugsbehörden haben die Kennzei
 
 (+++ § 28: Zur Anwendung vgl. § 2 +++)
 
-
-## § 29 – Auskunftsrechte
+# § 29 – Auskunftsrechte
 
 (1) Die Bundesnetzagentur kann von den Wirtschaftsakteuren, von denjenigen, die Betriebsmittel ausstellen, betreiben, lagern oder die Weitergabe von Betriebsmitteln vermittelnd unterstützen, und von den notifizierten Stellen die zur Erfüllung ihrer Aufgaben erforderlichen Auskünfte und sonstige Unterstützung unentgeltlich verlangen. Die Auskunftspflichtigen können die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -564,15 +531,13 @@ Sie dürfen die Betriebsmittel besichtigen und prüfen, zur Prüfung betreiben l
 
 (+++ § 29: Zur Anwendung vgl. § 2 +++)
 
-
-## § 30 – Zwangsgeld
+# § 30 – Zwangsgeld
 
 Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach den §§ 23, 24, 27 Absatz 1 und 2, § 28 Absatz 2, § 29 und der Anordnungen aufgrund der Verordnung nach § 27 Absatz 5 ein Zwangsgeld von bis zu fünfhunderttausend Euro festsetzen und vollstrecken.
 
 (+++ § 30: Zur Anwendung vgl. § 2 +++)
 
-
-## § 31 – Beiträge, Verordnungsermächtigung
+# § 31 – Beiträge, Verordnungsermächtigung
 
 (1) Senderbetreiber haben einen Jahresbeitrag zur Abgeltung der folgenden Kosten zu entrichten:
 
@@ -592,8 +557,7 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach den §§ 23, 24
 
 (+++ § 31: Zur Anwendung vgl. § 2 +++)
 
-
-## § 32 – Vorverfahren
+# § 32 – Vorverfahren
 
 (1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur haben keine aufschiebende Wirkung.
 
@@ -601,8 +565,7 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach den §§ 23, 24
 
 (+++ § 32: Zur Anwendung vgl. § 2 +++)
 
-
-## § 33 – Bußgeldvorschriften
+# § 33 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -638,8 +601,7 @@ Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach den §§ 23, 24
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur.
 
-
-## § 34 – Übergangsbestimmungen
+# § 34 – Übergangsbestimmungen
 
 (1) Geräte, die den Bestimmungen des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S. 220), das zuletzt durch Artikel 626 Absatz 9 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, diese wiederum geändert durch Artikel 5 Absatz 9 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666), entsprechen und vor dem 20. April 2016 in Verkehr gebracht oder in Betrieb genommen wurden, dürfen weiter auf dem Markt bereitgestellt und/oder in Betrieb genommen werden.
 

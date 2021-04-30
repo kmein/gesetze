@@ -1,10 +1,7 @@
-# [BVwAG] Gesetz über die Errichtung des Bundesverwaltungsamtes
-
-Ausfertigungsdatum: 28.12.1959
-
+% Gesetz über die Errichtung des Bundesverwaltungsamtes
+% Ausfertigungsdatum: 28.12.1959
  
-
-## § 1
+# § 1
 
 (1) Im Geschäftsbereich des Bundesministers des Innern, für Bau und Heimat wird eine selbständige Bundesoberbehörde unter der Bezeichnung "Bundesverwaltungsamt" errichtet.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 28.12.1959
 
 (3) Das Bundesverwaltungsamt erledigt als beauftragte Behörde, soweit keine andere Zuständigkeit gesetzlich festgelegt ist, Verwaltungsaufgaben des Bundes, mit deren Durchführung es vom Bundesminister des Innern, für Bau und Heimat oder mit seiner Zustimmung von der sachlich zuständigen obersten Bundesbehörde beauftragt wird.
 
-
-## § 2
+# § 2
 
 (1) Das Bundesverwaltungsamt hat alle Maßnahmen, die der Beratung von Auswanderungswilligen, der Vorbereitung der Auswanderung und der Fürsorge für die Auswanderer dienen, zu treffen.
 
@@ -31,52 +27,42 @@ Ausfertigungsdatum: 28.12.1959
 
 (4) Das Auswärtige Amt ist zu fachlichen Weisungen berechtigt, soweit es sich um Aufgaben handelt, die auswärtige Angelegenheiten berühren.
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
+# § 4
 
 Das Bundesverwaltungsamt ist zuständig für die Versorgung der früheren Bediensteten jüdischer Gemeinden oder öffentlicher Einrichtungen und ihrer Hinterbliebenen nach § 31d des Gesetzes zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des öffentlichen Dienstes in der Fassung vom 23. Dezember 1955 (Bundesgesetzbl. I S. 820, 822).
 
-
-## § 5
+# § 5
 
 Das Bundesverwaltungsamt ist für Staatsangehörigkeitsangelegenheiten einer Person zuständig, die ihren gewöhnlichen Aufenthalt im Ausland hat.
 
-
-## § 6
+# § 6
 
 \-
 
-
-## § 7
+# § 7
 
 Das Bundesverwaltungsamt ist zuständig für Abrechnung und Leistung der nach dem Gesetz über die Erhaltung der Gräber der Opfer von Krieg und Gewaltherrschaft vom 1. Juli 1965 (Bundesgesetzbl. I S. 589) vom Bund aufzubringenden Kosten.
 
-
-## § 8
+# § 8
 
 Soweit im Bundesverwaltungsamt auf Grund des § 1 Abs. 2 oder Abs. 3 Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministers des Innern, für Bau und Heimat erledigt werden, steht das fachliche Weisungsrecht der sachlich zuständigen obersten Bundesbehörde zu.
 
-
-## § 9
-
-\-
-
-
-## § 10
+# § 9
 
 \-
 
+# § 10
 
-## § 11
+\-
+
+# § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 12
+# § 12
 
 Dieses Gesetz tritt vierzehn Tage nach der Verkündung in Kraft.

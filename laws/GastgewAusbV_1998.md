@@ -1,15 +1,11 @@
-# [GastgewAusbV 1998] Verordnung über die Berufsausbildung im Gastgewerbe
-
-Ausfertigungsdatum: 13.02.1998
-
+% Verordnung über die Berufsausbildung im Gastgewerbe
+% Ausfertigungsdatum: 13.02.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Folgende Ausbildungsberufe werden staatlich anerkannt:
 
@@ -23,18 +19,15 @@ Folgende Ausbildungsberufe werden staatlich anerkannt:
 
 5. Fachmann für Systemgastronomie/Fachfrau für Systemgastronomie.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Berufsausbildung dauert im Ausbildungsberuf des § 1 Nr. 1 zwei Jahre und in den Ausbildungsberufen des § 1 Nr. 2 bis 5 drei Jahre.
 
-
-## § 3 – Fortsetzung der Berufsausbildung
+# § 3 – Fortsetzung der Berufsausbildung
 
 Die Berufsausbildung im Ausbildungsberuf des § 1 Nr. 1 kann in den Ausbildungsberufen des § 1 Nr. 2 bis 5 jeweils nach den Vorschriften für das dritte Ausbildungsjahr fortgesetzt werden.
 
-
-## § 4 – Ausbildungsberufsbild für die Fachkraft im Gastgewerbe und gemeinsamer Teil der Ausbildungsberufsbilder für den Restaurantfachmann/die Restaurantfachfrau, den Hotelfachmann/die Hotelfachfrau, den Hotelkaufmann/die Hotelkauffrau und den Fachmann für Systemgastronomie/die Fachfrau für Systemgastronomie
+# § 4 – Ausbildungsberufsbild für die Fachkraft im Gastgewerbe und gemeinsamer Teil der Ausbildungsberufsbilder für den Restaurantfachmann/die Restaurantfachfrau, den Hotelfachmann/die Hotelfachfrau, den Hotelkaufmann/die Hotelkauffrau und den Fachmann für Systemgastronomie/die Fachfrau für Systemgastronomie
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -64,8 +57,7 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Wirtschaftsdienst.
 
-
-## § 5 – Besonderer Teil des Ausbildungsberufsbildes für den Restaurantfachmann/die Restaurantfachfrau
+# § 5 – Besonderer Teil des Ausbildungsberufsbildes für den Restaurantfachmann/die Restaurantfachfrau
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -77,8 +69,7 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 4. Führen einer Station.
 
-
-## § 6 – Besonderer Teil des Ausbildungsberufsbildes für den Hotelfachmann/die Hotelfachfrau
+# § 6 – Besonderer Teil des Ausbildungsberufsbildes für den Hotelfachmann/die Hotelfachfrau
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -90,8 +81,7 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 4. Wirtschaftsdienst.
 
-
-## § 7 – Besonderer Teil des Ausbildungsberufsbildes für den Hotelkaufmann/die Hotelkauffrau
+# § 7 – Besonderer Teil des Ausbildungsberufsbildes für den Hotelkaufmann/die Hotelkauffrau
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -105,8 +95,7 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 5. Umgang mit Gästen, Beratung und Verkauf.
 
-
-## § 8 – Besonderer Teil des Ausbildungsberufsbildes für den Fachmann für Systemgastronomie/die Fachfrau für Systemgastronomie
+# § 8 – Besonderer Teil des Ausbildungsberufsbildes für den Fachmann für Systemgastronomie/die Fachfrau für Systemgastronomie
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -120,25 +109,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 5. Steuerung und Kontrolle der betrieblichen Leistungserstellung.
 
-
-## § 9 – Ausbildungsrahmenplan
+# § 9 – Ausbildungsrahmenplan
 
 (1) Die in den §§ 4 bis 8 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 12 bis 17 nachzuweisen.
 
-
-## § 10 – Ausbildungsplan
+# § 10 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 11 – Berichtsheft
+# § 11 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 12 – Zwischenprüfung
+# § 12 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll nach dem ersten Ausbildungsjahr stattfinden.
 
@@ -152,8 +137,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 3. Präsentieren von Produkten.
 
-
-## § 13 – Abschlußprüfung für den Ausbildungsberuf Fachkraft im Gastgewerbe
+# § 13 – Abschlußprüfung für den Ausbildungsberuf Fachkraft im Gastgewerbe
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I und II der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -221,8 +205,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 14 – Abschlußprüfung für den Ausbildungsberuf Restaurantfachmann/Restaurantfachfrau
+# § 14 – Abschlußprüfung für den Ausbildungsberuf Restaurantfachmann/Restaurantfachfrau
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I bis III der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -292,8 +275,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 15 – Abschlußprüfung für den Ausbildungsberuf Hotelfachmann/Hotelfachfrau
+# § 15 – Abschlußprüfung für den Ausbildungsberuf Hotelfachmann/Hotelfachfrau
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I, II und IV der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -361,8 +343,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in der praktischen und schriftlichen Prüfung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 16 – Abschlußprüfung für den Ausbildungsberuf Hotelkaufmann/Hotelkauffrau
+# § 16 – Abschlußprüfung für den Ausbildungsberuf Hotelkaufmann/Hotelkauffrau
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I, II und V der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -416,8 +397,7 @@ Die Aufgabe soll Ausgangspunkt für das folgende Prüfungsgespräch sein. Der Pr
 
 (6) Die Prüfung ist bestanden, wenn jeweils in der schriftlichen Prüfung und der praktischen Übung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 17 – Abschlußprüfung für den Ausbildungsberuf Fachmann für Systemgastronomie/Fachfrau für Systemgastronomie
+# § 17 – Abschlußprüfung für den Ausbildungsberuf Fachmann für Systemgastronomie/Fachfrau für Systemgastronomie
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Teilen I, II und VI der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -473,23 +453,19 @@ Die Aufgabe soll Ausgangspunkt für das folgende Prüfungsgespräch sein. Der Pr
 
 (6) Die Prüfung ist bestanden, wenn jeweils in der schriftlichen Prüfung und der praktischen Übung mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 18 – Aufhebung von Vorschriften
+# § 18 – Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Kaufmannsgehilfe im Hotel- und Gaststättengewerbe/Kaufmannsgehilfin im Hotel- und Gaststättengewerbe sind nicht mehr anzuwenden.
 
-
-## § 19 – Übergangsregelung
+# § 19 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
-## Anlage – (zu § 9)  Ausbildungsrahmenplan für die Berufsausbildung im Gastgewerbe
+# Anlage – (zu § 9)  Ausbildungsrahmenplan für die Berufsausbildung im Gastgewerbe
 
 (Fundstelle: BGBl. I 1998, S. 357 - 363)
 

@@ -1,15 +1,11 @@
-# [FischwAusbStEignV] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Fischwirt und zur Fischwirtin  (Fischwirte-Ausbildungsstätteneignungsverordnung - FischwAusbStEignV)
-
-Ausfertigungsdatum: 27.11.2017
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Fischwirt und zur Fischwirtin  (Fischwirte-Ausbildungsstätteneignungsverordnung - FischwAusbStEignV)
+% Ausfertigungsdatum: 27.11.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Absatz 3 Satz 2 in Verbindung mit Absatz 1 und 2 des Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436 Nummer 2 Buchstabe a der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Mindestanforderungen an die Einrichtung und an den Bewirtschaftungszustand der Ausbildungsstätte
+# § 1 – Mindestanforderungen an die Einrichtung und an den Bewirtschaftungszustand der Ausbildungsstätte
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein, der nach Art und Umfang der Produktion und der Dienstleistungen sowie nach seinem Bewirtschaftungszustand geeignet ist, um den Auszubildenden die Fertigkeiten, Kenntnisse und Fähigkeiten für die Ausübung des Berufs des Fischwirts und der Fischwirtin nach der Fischwirtausbildungsverordnung vom 26. Februar 2016 (BGBl. I S. 312) zu vermitteln. Die Ausbildungsstätte muss eine kontinuierliche Anleitung der Auszubildenden gewährleisten.
 
@@ -31,19 +27,16 @@ Die Wirtschaftsergebnisse der Ausbildungsstätte müssen buchführungsgemäß er
 
 (5) Die Ausbildungsstätte muss gewährleisten, dass die Regelungen des Jugendarbeitsschutzgesetzes, der Unfallverhütungsvorschriften, der Arbeitsstättenverordnung und sonstige Vorschriften zum Schutz der Auszubildenden eingehalten werden können. Bei der Beantragung der Anerkennung nach § 27 Absatz 3 Satz 1 des Berufsbildungsgesetzes muss eine Bescheinigung der zuständigen Berufsgenossenschaft über die sicherheitstechnische Überprüfung des Betriebes vorliegen, die nicht älter als ein Jahr ist.
 
-
-## § 2 – Sonstige Vorschriften
+# § 2 – Sonstige Vorschriften
 
 (1) In der Ausbildungsstätte müssen ein Abdruck der Fischwirtausbildungsverordnung und der Prüfungsordnung sowie der Ausbildungsplan an geeigneter Stelle zur Einsicht ausgelegt oder den Auszubildenden ausgehändigt werden. Soweit tarifvertragliche Regelungen für den Ausbildungsbetrieb gelten, sind auch diese zur Einsicht auszulegen. Des Weiteren soll den Auszubildenden für die betriebliche Ausbildung geeignete Fachliteratur in der Ausbildungsstätte zur Verfügung stehen.
 
 (2) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren eröffnet worden ist.
 
-
-## § 3 – Ausnahmeregelung
+# § 3 – Ausnahmeregelung
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten nicht im vollen Umfang vermittelt werden können, gilt als geeignet, wenn sichergestellt ist, dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen anerkannten Ausbildungsstätte, in Form von Ausbildungsverbünden oder in Form von überbetrieblicher Ausbildung vermittelt werden können.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Fischwirt vom 21. Dezember 1978 (BGBl. I S. 2072), die durch Artikel 6 Absatz 17 des Gesetzes vom 23. Mai 2017 (BGBl. I S. 1228) geändert worden ist, außer Kraft.

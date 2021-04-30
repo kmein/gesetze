@@ -1,20 +1,15 @@
-# [GrBrückAbk2000POLG] Gesetz zu dem Abkommen vom 21. November 2000 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung von Grenzbrücken im nachgeordneten Straßennetz
-
-Ausfertigungsdatum: 28.08.2002
-
+% Gesetz zu dem Abkommen vom 21. November 2000 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung von Grenzbrücken im nachgeordneten Straßennetz
+% Ausfertigungsdatum: 28.08.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Frankfurt (Oder) am 21. November 2000 unterzeichneten Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung von Grenzbrücken in der Bundesrepublik Deutschland im Zuge von öffentlichen Straßen außerhalb des Netzes der Bundesfernstraßen, in der Republik Polen im Zuge von öffentlichen Straßen außerhalb des Netzes der Landesstraßen, wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Auf die in Artikel 19 Abs. 1 des Abkommens bezeichneten Umsätze findet deutsches Umsatzsteuerrecht Anwendung; für diese Umsätze wird keine polnische Waren- oder Dienstleistungssteuer erhoben. Auf die in Artikel 19 Abs. 2 des Abkommens bezeichneten Umsätze findet polnisches Waren- und Dienstleistungssteuerrecht Anwendung; für diese Umsätze wird keine deutsche Umsatzsteuer erhoben.
 
@@ -28,13 +23,11 @@ Dem in Frankfurt (Oder) am 21. November 2000 unterzeichneten Abkommen zwischen d
 
 (6) Die in Artikel 19 des Abkommens vorgesehenen steuerlichen Bestimmungen sind mit Wirkung vom 21. November 2000 anzuwenden.
 
-
-## Art 3
+# Art 3
 
 Die Bundesregierung wird ermächtigt, Notenwechsel gemäß Artikel 25 Abs. 2 des Abkommens durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, in Kraft zu setzen.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -1,22 +1,17 @@
-# [HilfetelefonG] Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“  (Hilfetelefongesetz - HilfetelefonG)
-
-Ausfertigungsdatum: 07.03.2012
-
+% Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“  (Hilfetelefongesetz - HilfetelefonG)
+% Ausfertigungsdatum: 07.03.2012
  
-
-## § 1 – Einrichtung
+# § 1 – Einrichtung
 
 Der Bund richtet beim Bundesamt für Familie und zivilgesellschaftliche Aufgaben ein bundesweites zentrales Hilfetelefon „Gewalt gegen Frauen“ ein. Das Hilfetelefon untersteht der Fachaufsicht des Bundesministeriums für Familie, Senioren, Frauen und Jugend.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Mit dem Hilfetelefon werden kostenlos Erstberatung und Informationen zu Hilfemöglichkeiten bei allen Formen von Gewalt gegen Frauen angeboten.
 
 (2) Personen, die sich an das Hilfetelefon wenden, werden bei Bedarf über andere Einrichtungen und Dienste in ihrer Region informiert, die beraten, unterstützen und, falls erforderlich, eingreifen; auf Wunsch werden sie an diese weitervermittelt. Damit das Hilfetelefon seine Lotsenfunktion wahrnehmen kann, richtet das Bundesamt für Familie und zivilgesellschaftliche Aufgaben eine Datenbank mit den Kontaktdaten und Erreichbarkeiten dieser Einrichtungen und Dienste ein und hält sie auf aktuellem Stand.
 
-
-## § 3 – Adressatenkreis
+# § 3 – Adressatenkreis
 
 Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
@@ -26,8 +21,7 @@ Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
 3. Personen, die bei ihrer beruflichen oder ehrenamtlichen Tätigkeit mit der Beratung und Unterstützung oder Intervention bei Gewalt gegen Frauen konfrontiert sind.
 
-
-## § 4 – Anforderungen an die Hilfeleistung
+# § 4 – Anforderungen an die Hilfeleistung
 
 (1) Erstberatung, Information und Weitervermittlung erfolgen durch qualifizierte weibliche Fachkräfte.
 
@@ -37,8 +31,7 @@ Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
 (4) Die Angebote des Hilfetelefons sind barrierefrei und mehrsprachig. Das Bundesministerium für Familie, Senioren, Frauen und Jugend legt diesbezüglich die nähere Ausgestaltung fest.
 
-
-## § 5 – Anforderungen an die Erreichbarkeit
+# § 5 – Anforderungen an die Erreichbarkeit
 
 (1) Das Hilfetelefon ist 24 Stunden täglich unter einer entgeltfreien Rufnummer erreichbar.
 
@@ -46,19 +39,16 @@ Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
 (3) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben stellt sicher, dass die Angebote des Hilfetelefons ohne unzumutbare Wartezeiten in Anspruch genommen werden können.
 
-
-## § 6 – Öffentlichkeitsarbeit
+# § 6 – Öffentlichkeitsarbeit
 
 Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben stellt sicher, dass das Hilfetelefon durch Öffentlichkeitsarbeit bundesweit bekannt gemacht und kontinuierlich bekannt gehalten wird.
 
-
-## § 7 – Sachstandsbericht; Evaluation
+# § 7 – Sachstandsbericht; Evaluation
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben veröffentlicht jährlich einen Sachstandsbericht zur Inanspruchnahme des Hilfetelefons und zu den erbrachten Leistungen. Der Sachstandsbericht dient auch dazu, die Angebote des Hilfetelefons bedarfsgerecht anzupassen.
 
 (2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend evaluiert erstmals fünf Jahre nach Freischaltung des Hilfetelefons dessen Wirksamkeit.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

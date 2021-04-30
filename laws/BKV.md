@@ -1,25 +1,19 @@
-# [BKV] Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin  (Berufskraftfahrer-Ausbildungsverordnung - BKV)
-
-Ausfertigungsdatum: 19.04.2001
-
+% Verordnung über die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin  (Berufskraftfahrer-Ausbildungsverordnung - BKV)
+% Ausfertigungsdatum: 19.04.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705 und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Berufskraftfahrer/Berufskraftfahrerin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die Vermittlung der folgenden Fertigkeiten und Kenntnisse:
 
@@ -49,25 +43,21 @@ Gegenstand der Berufsausbildung sind mindestens die Vermittlung der folgenden Fe
 
 13. Qualitätssichernde Maßnahmen.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -83,15 +73,12 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 4. beförderungsbezogene Kostenrechnung und Vertragsabwicklung.
 
-
-## § 8 – Abschlussprüfung
+# § 8 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt fünf Stunden eine praktische Aufgabe I sowie vier praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe selbständig planen, durchführen und kontrollieren und dabei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Wirtschaftlichkeit sowie qualitätssichernde Maßnahmen ergreifen kann.  
-Für die praktische Aufgabe I kommen insbesondere in Betracht:  
-Verkehrssicheres Führen einer Fahrzeugkombination oder eines Sattelkraftfahrzeuges der Klasse CE mit einer Mindestlänge von 16 Metern oder eines Fahrzeuges der Klasse D mit einer Mindestlänge von 11,80 Metern auf öffentlichen Straßen.  
-Für die vier praktischen Aufgaben II kommen insbesondere in Betracht:
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt fünf Stunden eine praktische Aufgabe I sowie vier praktische Aufgaben II ausführen. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe selbständig planen, durchführen und kontrollieren und dabei Maßnahmen zur Arbeitsorganisation, zum Umweltschutz, zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zur Wirtschaftlichkeit sowie qualitätssichernde Maßnahmen ergreifen kann. Für die praktische Aufgabe I kommen insbesondere in Betracht:  
+Verkehrssicheres Führen einer Fahrzeugkombination oder eines Sattelkraftfahrzeuges der Klasse CE mit einer Mindestlänge von 16 Metern oder eines Fahrzeuges der Klasse D mit einer Mindestlänge von 11,80 Metern auf öffentlichen Straßen. Für die vier praktischen Aufgaben II kommen insbesondere in Betracht:
 
 1. Feststellen und Beschreiben von Fehlern und Mängeln am Fahrzeug sowie Ergreifen von Maßnahmen zur Fehlerbeseitigung,
 
@@ -148,18 +135,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des praktischen Teils der Prüfung in der praktischen Aufgabe I sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Beförderung oder im Prüfungsbereich betriebliche Planung und Logistik mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einer der praktischen Aufgaben oder in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-
-## Anlage – (zu § 4 Abs. 1)
+# Anlage – (zu § 4 Abs. 1)
 
 (Fundstelle: BGBl. I 2001, 645 - 647; bzgl. einzelner Änderungen vgl. Fußnote)
 

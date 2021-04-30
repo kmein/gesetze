@@ -1,15 +1,11 @@
-# [Natur/LandschaftsPflPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Natur- und Landschaftspfleger/Geprüfte Natur- und Landschaftspflegerin
-
-Ausfertigungsdatum: 06.03.1998
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Natur- und Landschaftspfleger/Geprüfte Natur- und Landschaftspflegerin
+% Ausfertigungsdatum: 06.03.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Sechsten Zuständigkeitsanpassungs-Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit den Bundesministerien für Ernährung, Landwirtschaft und Forsten sowie Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Natur- und Landschaftspfleger erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 11 durchführen.
 
@@ -33,15 +29,13 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluß "Geprüfter Natur- und Landschaftspfleger/Geprüfte Natur- und Landschaftspflegerin".
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer eine mit Erfolg abgelegte Abschlußprüfung in einem der anerkannten Ausbildungsberufe Landwirt/Landwirtin, Gärtner/Gärtnerin, Forstwirt/Forstwirtin, Revierjäger/Revierjägerin, Winzer/Winzerin, Fischwirt/Fischwirtin, Tierwirt/Tierwirtin (Schwerpunkt Schafhaltung) oder Wasserbauer/Wasserbauerin und danach eine mindestens dreijährige Berufspraxis in einem der genannten Berufe nachweist.
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Inhalt der Prüfung
+# § 3 – Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -55,8 +49,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Die Prüfung ist nach Maßgabe der §§ 4 bis 7 praktisch, schriftlich und mündlich durchzuführen.
 
-
-## § 4 – Prüfungsteil Grundlagen des Naturschutzes und der Landschaftspflege
+# § 4 – Prüfungsteil Grundlagen des Naturschutzes und der Landschaftspflege
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er mit den Zielen des Naturschutzes und der Landschaftspflege vertraut ist, Zusammenhänge im Naturhaushalt erkennt und Belastungen von Natur und Umwelt erfassen und beurteilen kann.
 
@@ -86,8 +79,7 @@ Die Ergebnisse sind in einem Prüfungsgespräch zu erläutern. Für die Lösung 
 
 (6) Die schriftliche Prüfung ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von wesentlicher Bedeutung ist. Die mündliche Ergänzungsprüfung soll je Prüfungsteilnehmer nicht länger als 15 Minuten dauern. Das Ergebnis geht in die Bewertung der schriftlichen Prüfungsleistung ein.
 
-
-## § 5 – Prüfungsteil Informationstätigkeit und Besucherbetreuung
+# § 5 – Prüfungsteil Informationstätigkeit und Besucherbetreuung
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er Informationen über Bedeutung, Gefährdung, Schutz und Pflege von Natur und Umwelt zielgruppengerecht vermitteln und Maßnahmen zur Besucherbetreuung ergreifen kann.
 
@@ -103,8 +95,7 @@ Die Ergebnisse sind in einem Prüfungsgespräch zu erläutern. Für die Lösung 
 
 (4) Die Informationsmaßnahme ist innerhalb von sieben Tagen schriftlich vorzubereiten, sie ist in einem Prüfungsgespräch vorzutragen und zu erläutern. Bei der Auswahl des Themas sollen Vorschläge des Prüfungsteilnehmers berücksichtigt werden. Die Präsentation der Informationsmaßnahme soll nicht länger als 30 Minuten und die Erläuterung nicht länger als 15 Minuten dauern.
 
-
-## § 6 – Prüfungsteil Maßnahmen des Naturschutzes und der Landschaftspflege
+# § 6 – Prüfungsteil Maßnahmen des Naturschutzes und der Landschaftspflege
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er Arbeiten im Naturschutz und in der Landschaftspflege unter Berücksichtigung der Arbeitssicherheit und der einschlägigen Rechtsvorschriften selbständig planen, durchführen und beurteilen kann.
 
@@ -120,8 +111,7 @@ Die Ergebnisse sind in einem Prüfungsgespräch zu erläutern. Für die Lösung 
 
 (3) Die Prüfung umfaßt eine praktische Arbeit in der ein Arbeitseinsatz zu planen, durchzuführen und in einem Prüfungsgespräch zu erläutern ist. Die Planung und Durchführung des Arbeitseinsatzes soll nicht länger als drei Stunden und das Prüfungsgespräch nicht länger als 30 Minuten dauern.
 
-
-## § 7 – Prüfungsteil Wirtschaft, Recht und Soziales
+# § 7 – Prüfungsteil Wirtschaft, Recht und Soziales
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche, rechtliche und soziale Zusammenhänge in seinem Aufgabenbereich erkennen, analysieren und beurteilen kann.
 
@@ -145,13 +135,11 @@ Die Ergebnisse sind in einem Prüfungsgespräch zu erläutern. Für die Lösung 
 
 (6) Die schriftliche Prüfung ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung oder für die eindeutige Beurteilung der Prüfungsleistung von wesentlicher Bedeutung ist. Die mündliche Ergänzungsprüfung soll nicht länger als 15 Minuten dauern. Das Ergebnis geht in die Bewertung der schriftlichen Prüfungsleistung ein.
 
-
-## § 8 – Anrechnung anderer Prüfungsleistungen
+# § 8 – Anrechnung anderer Prüfungsleistungen
 
 Von der Ablegung einzelner Prüfungsleistungen kann der Prüfungsteilnehmer auf Antrag von der zuständigen Stelle freigestellt werden, wenn er in den letzten fünf Jahren vor Antragstellung eine Prüfung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuß mit Erfolg abgelegt hat, deren Inhalt den Anforderungen der Prüfungsleistungen nach dieser Verordnung entspricht. Eine vollständige Freistellung ist nicht zulässig.
 
-
-## § 9 – Bestehen der Prüfung
+# § 9 – Bestehen der Prüfung
 
 (1) Die vier Teile der Prüfung sind gesondert zu bewerten. Für den Teil "Grundlagen des Naturschutzes und der Landschaftspflege" ist die Note als arithmetisches Mittel aus der Bewertung der Leistungen in der praktischen Arbeit und der schriftlichen Prüfung zu bilden. Für den Teil "Wirtschaft, Recht und Soziales" ist die Note als arithmetisches Mittel aus der Bewertung der Leistungen in der praxisbezogenen Aufgabe und der schriftlichen Prüfung zu bilden.
 
@@ -159,21 +147,18 @@ Von der Ablegung einzelner Prüfungsleistungen kann der Prüfungsteilnehmer auf 
 
 (3) Über die Gesamtleistung in der Prüfung ist eine Note zu bilden; sie ist als arithmetisches Mittel aus den Noten der vier Prüfungsteile zu errechnen.
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Die Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) Mit dem Antrag auf Wiederholung der Prüfung wird der Prüfungsteilnehmer von der Prüfung in einzelnen Prüfungsteilen oder von einzelnen Prüfungen gemäß § 9 Abs. 1 befreit, wenn seine Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note "ausreichend" bewertet worden sind, und er sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der Prüfungsteilnehmer kann beantragen auch bestandene Prüfungsleistungen zu wiederholen. In diesem Fall ist das bessere Ergebnis für das Bestehen zu berücksichtigen.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung begonnenen Prüfungsverfahren im Bereich Naturschutz und Landschaftspflege können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (2) Prüfungsteilnehmer, die die Prüfung im Bereich Naturschutz und Landschaftspflege nach den bisherigen Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren nach Inkrafttreten dieser Verordnung zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den bisherigen Vorschriften ablegen. Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers die Wiederholungsprüfung gemäß dieser Verordnung durchführen; § 10 Abs. 2 findet in diesem Fall keine Anwendung. Im übrigen können die Vertragsparteien bis zum 31. Dezember 1998 die Anwendung der bisherigen Vorschriften vereinbaren.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

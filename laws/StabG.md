@@ -1,20 +1,15 @@
-# [StabG] Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft
-
-Ausfertigungsdatum: 08.06.1967
-
+% Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft
+% Ausfertigungsdatum: 08.06.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 Bund und Länder haben bei ihren wirtschafts- und finanzpolitischen Maßnahmen die Erfordernisse des gesamtwirtschaftlichen Gleichgewichts zu beachten. Die Maßnahmen sind so zu treffen, daß sie im Rahmen der marktwirtschaftlichen Ordnung gleichzeitig zur Stabilität des Preisniveaus, zu einem hohen Beschäftigungsstand und außenwirtschaftlichem Gleichgewicht bei stetigem und angemessenem Wirtschaftswachstum beitragen.
 
-
-## § 2
+# § 2
 
 (1) Die Bundesregierung legt im Januar eines jeden Jahres dem Bundestag und dem Bundesrat einen Jahreswirtschaftsbericht vor. Der Jahreswirtschaftsbericht enthält:
 
@@ -28,20 +23,17 @@ Bund und Länder haben bei ihren wirtschafts- und finanzpolitischen Maßnahmen d
 
 § 2 Abs. 2 Kursivdruck: Vgl. jetzt § 23 Abs. 2 des Körperschaftsteuergesetzes 611-4-4
 
-
-## § 3
+# § 3
 
 (1) Im Falle der Gefährdung eines der Ziele des § 1 stellt die Bundesregierung Orientierungsdaten für ein gleichzeitiges aufeinander abgestimmtes Verhalten (konzertierte Aktion) der Gebietskörperschaften, Gewerkschaften und Unternehmensverbände zur Erreichung der Ziele des § 1 zur Verfügung. Diese Orientierungsdaten enthalten insbesondere eine Darstellung der gesamtwirtschaftlichen Zusammenhänge im Hinblick auf die gegebene Situation.
 
 (2) Das Bundesministerium für Wirtschaft und Energie hat die Orientierungsdaten auf Verlangen eines der Beteiligten zu erläutern.
 
-
-## § 4
+# § 4
 
 Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen Gleichgewichts, deren Abwehr durch binnenwirtschaftliche Maßnahmen nicht oder nur unter Beeinträchtigung der in § 1 genannten Ziele möglich ist, hat die Bundesregierung alle Möglichkeiten der internationalen Koordination zu nutzen. Soweit dies nicht ausreicht, setzt sie die ihr zur Wahrung des außenwirtschaftlichen Gleichgewichts zur Verfügung stehenden wirtschaftspolitischen Mittel ein.
 
-
-## § 5
+# § 5
 
 (1) Im Bundeshaushaltsplan sind Umfang und Zusammensetzung der Ausgaben und der Ermächtigungen zum Eingehen von Verpflichtungen zu Lasten künftiger Rechnungsjahre so zu bemessen, wie es zur Erreichung der Ziele des § 1 erforderlich ist.
 
@@ -49,8 +41,7 @@ Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen Gleichgewichts,
 
 (3) Bei einer die Ziele des § 1 gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit sollen zusätzlich erforderliche Deckungsmittel zunächst der Konjunkturausgleichsrücklage entnommen werden.
 
-
-## § 6
+# § 6
 
 (1) Bei der Ausführung des Bundeshaushaltsplans kann im Falle einer die volkswirtschaftliche Leistungsfähigkeit übersteigenden Nachfrageausweitung die Bundesregierung das Bundesministerium der Finanzen ermächtigen, zur Erreichung der Ziele des § 1 die Verfügung über bestimmte Ausgabemittel, den Beginn von Baumaßnahmen und das Eingehen von Verpflichtungen zu Lasten künftiger Rechnungsjahre von dessen Einwilligung abhängig zu machen. Die Bundesministerien der Finanzen und für Wirtschaft und Energie schlagen die erforderlichen Maßnahmen vor. Das Bundesministerium der Finanzen hat die dadurch nach Ablauf des Rechnungsjahres freigewordenen Mittel zur zusätzlichen Tilgung von Schulden bei der Deutschen Bundesbank zu verwenden oder der Konjunkturausgleichsrücklage zuzuführen.
 
@@ -58,22 +49,19 @@ Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen Gleichgewichts,
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, zu dem in Absatz 2 bezeichneten Zweck Kredite über die im Haushaltsgesetz erteilten Kreditermächtigungen hinaus bis zur Höhe von fünf Milliarden Deutsche Mark, gegebenenfalls mit Hilfe von Geldmarktpapieren, aufzunehmen. Soweit solche Kredite auf eine nachträglich in einem Haushaltsgesetz ausgesprochene Kreditermächtigung angerechnet werden, kann das Recht zur Kreditaufnahme erneut in Anspruch genommen werden.
 
-
-## § 7
+# § 7
 
 (1) Die Konjunkturausgleichsrücklage ist bei der Deutschen Bundesbank anzusammeln. Mittel der Konjunkturausgleichsrücklage dürfen nur zur Deckung zusätzlicher Ausgaben gemäß § 5 Abs. 3 und § 6 Abs. 2 verwendet werden.
 
 (2) Ob und in welchem Ausmaß über Mittel der Konjunkturausgleichsrücklage bei der Ausführung des Bundeshaushaltsplans verfügt werden soll, entscheidet die Bundesregierung; § 6 Abs. 1 Satz 2 ist anzuwenden.
 
-
-## § 8
+# § 8
 
 (1) In den Bundeshaushaltsplan ist ein Leertitel für Ausgaben nach § 6 Abs. 2 Satz 1 und 2 einzustellen. Ausgaben aus diesem Titel dürfen nur mit Zustimmung des Bundestages und nur insoweit geleistet werden, als Einnahmen aus der Konjunkturausgleichsrücklage oder aus Krediten nach § 6 Abs. 3 vorhanden sind. Die Vorlage ist gleichzeitig dem Bundestag und dem Bundesrat zuzuleiten. Der Bundesrat kann binnen zwei Wochen dem Bundestag gegenüber Stellung nehmen. Die Zustimmung des Bundestages gilt als erteilt, wenn er nicht binnen vier Wochen nach Eingang der Vorlage der Bundesregierung die Zustimmung verweigert hat.
 
 (2) In den Bundeshaushaltsplan ist ferner ein Leertitel für Einnahmen aus der Konjunkturausgleichsrücklage und aus Krediten nach § 6 Abs. 3 einzustellen.
 
-
-## § 9
+# § 9
 
 (1) Der Haushaltswirtschaft des Bundes ist eine fünfjährige Finanzplanung zugrunde zu legen. In ihr sind Umfang und Zusammensetzung der voraussichtlichen Ausgaben und die Deckungsmöglichkeiten in ihren Wechselbeziehungen zu der mutmaßlichen Entwicklung des gesamtwirtschaftlichen Leistungsvermögens darzustellen, gegebenenfalls durch Alternativrechnungen.
 
@@ -81,8 +69,7 @@ Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen Gleichgewichts,
 
 (3) Der Finanzplan ist jährlich der Entwicklung anzupassen und fortzuführen.
 
-
-## § 10
+# § 10
 
 (1) Als Unterlagen für die Finanzplanung stellen die Bundesministerien für ihren Geschäftsbereich mehrjährige Investitionsprogramme auf und übersenden sie mit den sonstigen Bedarfsschätzungen dem Bundesministerium der Finanzen zu dem von ihm zu bestimmenden Zeitpunkt. Die Geschäftsbereiche, für die Investitionsprogramme aufzustellen sind, bestimmt die Bundesregierung.
 
@@ -90,13 +77,11 @@ Bei außenwirtschaftlichen Störungen des gesamtwirtschaftlichen Gleichgewichts,
 
 (3) Die Investitionsprogramme sind jährlich der Entwicklung anzupassen und fortzuführen.
 
-
-## § 11
+# § 11
 
 Bei einer die Ziele des § 1 gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit ist die Planung geeigneter Investitionsvorhaben so zu beschleunigen, daß mit ihrer Durchführung kurzfristig begonnen werden kann. Die zuständigen Bundesministerien haben alle weiteren Maßnahmen zu treffen, die zu einer beschleunigten Vergabe von Investitionsaufträgen erforderlich sind.
 
-
-## § 12
+# § 12
 
 (1) Bundesmittel, die für bestimmte Zwecke an Stellen außerhalb der Bundesverwaltung gegeben werden, insbesondere Finanzhilfen, sollen so gewährt werden, daß es den Zielen des § 1 nicht widerspricht.
 
@@ -114,8 +99,7 @@ dienen.
 
 (4) Zu den in Absatz 2 und 3 genannten Übersichten gibt die Bundesregierung an, auf welchen Rechtsgründen oder sonstigen Verpflichtungen die jeweiligen Finanzhilfen und Steuervergünstigungen beruhen und wann nach der gegebenen Rechtslage mit einer Beendigung der Finanzhilfen und Steuervergünstigungen zu rechnen ist. Sie macht zugleich Vorschläge hinsichtlich der gesetzlichen oder sonstigen Voraussetzungen für eine frühere Beendigung oder einen stufenweisen Abbau der Verpflichtungen. Hierzu wird ein Zeitplan entsprechend der in Absatz 2 beschriebenen Gliederung aufgestellt.
 
-
-## § 13
+# § 13
 
 (1) Die Vorschriften der §§ 1, 5, 6 Abs. 1 und 2 gelten für das ERP-Sondervermögen entsprechend.
 
@@ -123,13 +107,11 @@ dienen.
 
 (3) Die bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts sollen im Rahmen der ihnen obliegenden Aufgaben die Ziele des § 1 berücksichtigen.
 
-
-## § 14
+# § 14
 
 Die §§ 5, 6 Abs. 1 und 2, §§ 7, 9 bis 11 sowie § 12 Abs. 1 gelten sinngemäß für die Haushaltswirtschaft der Länder. Die Regelung der Zuständigkeiten bleibt den Ländern überlassen.
 
-
-## § 15
+# § 15
 
 (1) Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates anordnen, daß der Bund und die Länder ihren Konjunkturausgleichsrücklagen Mittel zuzuführen haben.
 
@@ -143,20 +125,17 @@ Die §§ 5, 6 Abs. 1 und 2, §§ 7, 9 bis 11 sowie § 12 Abs. 1 gelten sinngemä
 
 § 15 Abs. 4 Kursivdruck: Vgl. jetzt § 23 Abs. 2 des Körperschaftsteuergesetzes 611-4-4
 
-
-## § 16
+# § 16
 
 (1) Gemeinden und Gemeindeverbände haben bei ihrer Haushaltswirtschaft den Zielen des § 1 Rechnung zu tragen.
 
 (2) Die Länder haben durch geeignete Maßnahme darauf hinzuwirken, daß die Haushaltswirtschaft der Gemeinden und Gemeindeverbände den konjunkturpolitischen Erfordernissen entspricht.
 
-
-## § 17
+# § 17
 
 Bund und Länder erteilen sich gegenseitig die Auskünfte, die zur Durchführung einer konjunkturgerechten Haushaltswirtschaft und zur Aufstellung ihrer Finanzpläne notwendig sind.
 
-
-## § 18
+# § 18
 
 (1) Bei der Bundesregierung wird ein Konjunkturrat für die öffentliche Hand gebildet. Dem Rat gehören an:
 
@@ -180,13 +159,11 @@ Der Konjunkturrat ist insbesondere vor allen Maßnahmen nach den §§ 15, 19 und
 
 (4) Die Bundesbank hat das Recht, an den Beratungen des Konjunkturrates teilzunehmen.
 
-
-## § 19
+# § 19
 
 Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates anordnen, daß die Beschaffung von Geldmitteln im Wege des Kredits im Rahmen der in den Haushaltsgesetzen oder Haushaltssatzungen ausgewiesenen Kreditermächtigungen durch den Bund, die Länder, die Gemeinden und Gemeindeverbände sowie die öffentlichen Sondervermögen und Zweckverbände beschränkt wird. Satz 1 gilt nicht für Kredite, die von Gemeinden, Gemeindeverbänden oder Zweckverbänden zur Finanzierung von Investitionsvorhaben ihrer wirtschaftlichen Unternehmen ohne eigene Rechtspersönlichkeit aufgenommen werden.
 
-
-## § 20
+# § 20
 
 (1) In Rechtsverordnungen nach § 19 kann vorgesehen werden, daß
 
@@ -202,13 +179,11 @@ Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts kann die Bun
 
 (5) Rechtsverordnungen nach § 19 sind unverzüglich nach ihrer Verkündung dem Bundestag mitzuteilen. Sie sind unverzüglich aufzuheben, wenn es der Bundestag binnen sechs Wochen nach ihrer Verkündung verlangt.
 
-
-## § 21
+# § 21
 
 Nimmt eine der in § 19 bezeichneten Stellen einen im Rahmen des Höchstbetrages nach § 20 Abs. 1 Nr. 1 auf sie entfallenden Kredit nicht auf, so kann mit deren Zustimmung eine andere der in § 19 bezeichneten Stellen insoweit den Kredit in Anspruch nehmen. Davon abweichend können die Länder bestimmen, daß von den Höchstbeträgen der Gemeinden, Gemeindeverbände und Zweckverbände diejenigen Teilbeträge, welche die Kreditermächtigung in der Haushaltssatzung übersteigen, anderen Gemeinden, Gemeindeverbänden oder Zweckverbänden mit einem zusätzlichen Kreditbedarf zugewiesen werden.
 
-
-## § 22
+# § 22
 
 (1) Der besondere Ausschuß des Konjunkturrates (§ 18 Abs. 3) stellt unter Berücksichtigung der Lage am Kapitalmarkt einen Zeitplan für jeweils längstens drei Monate auf. In dem Plan sind für die in der Rechtsverordnung nach § 20 Abs. 1 Nr. 2 bestimmten Kredite die Reihenfolge der Kreditaufnahme und die Höhe des Betrages festzulegen; die Kreditbedingungen können festgelegt werden.
 
@@ -218,33 +193,27 @@ Nimmt eine der in § 19 bezeichneten Stellen einen im Rahmen des Höchstbetrages
 
 (4) Die in § 19 bezeichneten Stellen sind verpflichtet, auch bei solchen Krediten, die nicht Gegenstand der Rechtsverordnung nach § 20 Abs. 1 Nr. 2 sind, in der Zeitfolge der Kreditaufnahme und der Gestaltung der Kreditbedingungen der Lage am Kapitalmarkt Rechnung zu tragen.
 
-
-## § 23
+# § 23
 
 Die einzelnen Länder haben durch geeignete Maßnahmen sicherzustellen, daß die Beschaffung von Geldmitteln im Wege des Kredits durch das Land, seine Gemeinden, Gemeindeverbände und Zweckverbände sich im Rahmen der auf Grund dieses Gesetzes angeordneten Beschränkungen hält.
 
-
-## § 24
+# § 24
 
 (1) Bei Maßnahmen nach den §§ 20 bis 23 ist der Grundsatz der Gleichrangigkeit der Aufgaben von Bund, Ländern und Gemeinden zu beachten.
 
 (2) Die besonderen Verhältnisse der Länder Berlin, Bremen und Hamburg, die gleichzeitig Landesaufgaben und Kommunalaufgaben zu erfüllen haben, sind zu berücksichtigen.
 
-
-## § 25
+# § 25
 
 Die zuständige oberste Landesbehörde erteilt dem Bundesministerium der Finanzen auf Anforderung Auskunft über den Kreditbedarf des Landes, der Gemeinden, Gemeindeverbände und Zweckverbände über Art und Höhe der von diesen aufgenommenen Kredite sowie über Kreditaufnahmen Dritter, die wirtschaftlich einer eigenen Kreditaufnahme gleichkommen. Die öffentlichen Sondervermögen erteilen die Auskunft nach Satz 1 unmittelbar.
 
+# §§ 26 bis 31 – ----
 
-## §§ 26 bis 31 – ----
-
-
-## § 32
+# § 32
 
 Dieses Gesetz gilt nach § 12 Abs. 1 und § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 33
+# § 33
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am Tage nach seiner Verkündung in Kraft.
 

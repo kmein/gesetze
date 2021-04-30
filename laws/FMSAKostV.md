@@ -1,10 +1,7 @@
-# [FMSAKostV] Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung  (FMSA-Kostenverordnung - FMSAKostV)
-
-Ausfertigungsdatum: 06.11.2015
-
+% Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung  (FMSA-Kostenverordnung - FMSAKostV)
+% Ausfertigungsdatum: 06.11.2015
  
-
-## § 1 – Kostenschuldner
+# § 1 – Kostenschuldner
 
 (1) Zur Erstattung der nach § 3e des Stabilisierungsfondsgesetzes zurechenbaren Kosten an den Bund verpflichtet ist,
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 06.11.2015
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
-
-## § 2 – Entstehung der Pflicht zur Kostenerstattung
+# § 2 – Entstehung der Pflicht zur Kostenerstattung
 
 (1) Die Pflicht zur Kostenerstattung entsteht mit Beendigung der Leistung, für die Kosten zu erstatten sind. Bedarf diese Leistung einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt diese jeweils als deren Beendigung. Abweichend von Satz 1 entsteht die Pflicht zur Kostenerstattung bei laufenden Überwachungs- und sonstigen laufenden Maßnahmen, die sich voraussichtlich über einen längeren Zeitraum als ein Jahr erstrecken, jährlich zum 31. März eines Kalenderjahres, es sei denn, die Bundesanstalt für Finanzmarktstabilisierung (Anstalt) oder die Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) legen einen anderen Zeitpunkt fest.
 
@@ -27,8 +23,7 @@ Ausfertigungsdatum: 06.11.2015
 
 (3) Abweichend von den Absätzen 1 und 2 entsteht die Pflicht zur Kostenerstattung, die durch Verpflichtungserklärung oder Vertrag übernommen wurde, nach Maßgabe dieser Verpflichtungserklärung oder dieses Vertrages. Soweit die Verpflichtungserklärung oder der Vertrag keine Bestimmungen zur Entstehung der Pflicht der Kostenerstattung vorsehen, gelten die Absätze 1 und 2.
 
-
-## § 3 – Umfang der zu erstattenden Kosten; Kostenpauschale
+# § 3 – Umfang der zu erstattenden Kosten; Kostenpauschale
 
 (1) Zu den zu erstattenden Kosten gehören auch solche Kosten, die in Vorbereitung oder während der Laufzeit einer Maßnahme oder anlässlich ihrer Beendigung entstehen.
 
@@ -36,15 +31,13 @@ Ausfertigungsdatum: 06.11.2015
 
 (3) In den Regelungen zu den Kostenpauschalen nach Absatz 2 Satz 2 kann der Leitungsausschuss den Entstehungszeitpunkt für die Kostenpauschalen abweichend von § 2 festlegen.
 
-
-## § 4 – Fälligkeit
+# § 4 – Fälligkeit
 
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe der Festsetzung an den Kostenschuldner fällig, es sei denn, die Anstalt oder die Finanzagentur legen einen anderen Zeitpunkt fest.
 
 (2) Soweit die Pflicht zur Kostenerstattung durch Verpflichtungserklärung oder Vertrag übernommen worden ist, bestimmt sich die Fälligkeit nach dieser Verpflichtungserklärung oder diesem Vertrag.
 
-
-## § 5 – Vorschusszahlung und Sicherheitsleistung
+# § 5 – Vorschusszahlung und Sicherheitsleistung
 
 (1) Die Anstalt oder die Finanzagentur können von einem Kostenschuldner nach § 1 die Zahlung eines Vorschusses oder die Leistung einer Sicherheit bis zur Höhe der voraussichtlich zu erstattenden Kosten verlangen. Bei Maßnahmen, die sich über einen längeren Zeitraum erstrecken, können auch mehrfach Vorschüsse oder Sicherheitsleistungen verlangt werden.
 
@@ -52,8 +45,7 @@ Ausfertigungsdatum: 06.11.2015
 
 (3) Soweit die Pflicht zur Kostenerstattung durch Verpflichtungserklärung oder Vertrag übernommen worden ist, bestimmt sich die Pflicht zur Zahlung eines Vorschusses oder zur Leistung einer Sicherheit nach dieser Verpflichtungserklärung oder diesem Vertrag.
 
-
-## § 6 – Festsetzungsverjährung
+# § 6 – Festsetzungsverjährung
 
 (1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung oder Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist (Festsetzungsverjährung).
 
@@ -65,15 +57,13 @@ Ausfertigungsdatum: 06.11.2015
 
 (5) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist erst sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung unanfechtbar geworden ist. Dies gilt auch, wenn der Rechtsbehelf erst nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt. Für vor dem Ablauf der Festsetzungsfrist gestellte Anträge auf Aufhebung oder Änderung der Festsetzung gilt Satz 1 entsprechend.
 
-
-## § 7 – Zahlungsverjährung
+# § 7 – Zahlungsverjährung
 
 (1) Der Anspruch auf Zahlung von festgesetzten Kostenerstattungen verjährt nach fünf Jahren (Zahlungsverjährung). Die Verjährungsfrist beginnt mit dem Ablauf des Kalenderjahres, in dem der Anspruch erstmals fällig geworden ist.
 
 (2) Die Zahlungsverjährung ist gehemmt, solange der Anspruch wegen höherer Gewalt innerhalb der letzten sechs Monate der Verjährungsfrist nicht verfolgt werden kann.
 
-
-## § 8 – Unterbrechung der Zahlungsverjährung
+# § 8 – Unterbrechung der Zahlungsverjährung
 
 (1) Die Zahlungsverjährung wird unterbrochen durch
 
@@ -119,8 +109,7 @@ Ausfertigungsdatum: 06.11.2015
 
 (4) Wird die Festsetzung einer Kostenerstattung oder Umlage angefochten, so verjähren die Zahlungsansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Festsetzung unanfechtbar geworden ist oder sich das Verfahren auf andere Weise erledigt hat. Die Frist nach Satz 1 kann durch verjährungsunterbrechende Maßnahmen nach Absatz 1 unterbrochen werden.
 
-
-## § 9 – Säumniszuschlag
+# § 9 – Säumniszuschlag
 
 (1) Werden Kostenerstattungsbeträge nicht bis zum Ablauf des Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten rückständigen Betrags zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die Säumnis länger als drei Tage beträgt.
 
@@ -134,13 +123,11 @@ Ausfertigungsdatum: 06.11.2015
 
 (4) In den Fällen der Gesamtschuld entstehen Säumniszuschläge gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein höherer Säumniszuschlag zu entrichten, als verwirkt worden wäre, wenn die Säumnis nur bei einem Gesamtschuldner eingetreten wäre.
 
-
-## § 10 – Stundung, Niederschlagung und Erlass
+# § 10 – Stundung, Niederschlagung und Erlass
 
 Stundung, Niederschlagung und Erlass festgesetzter Kostenerstattungen richten sich nach § 59 der Bundeshaushaltsordnung.
 
-
-## § 11 – Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen
+# § 11 – Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen
 
 (1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die nicht auf der Erhebung einer Vorauszahlung beruhen, sind nach Kenntniserlangung durch den Bund zu erstatten, zu Unrecht erhobene Kostenerstattungen jedoch nur, solange ihre Festsetzung noch anfechtbar ist.
 
@@ -148,8 +135,7 @@ Stundung, Niederschlagung und Erlass festgesetzter Kostenerstattungen richten si
 
 (3) Der Erstattungsanspruch nach Absatz 1 erlischt durch Verjährung, wenn er nicht bis zum Ablauf des dritten Kalenderjahres geltend gemacht wird, das auf die Entstehung des Anspruchs folgt. Die Verjährung beginnt nicht vor der Unanfechtbarkeit der Festsetzung.
 
-
-## § 12 – Übergangsregelungen
+# § 12 – Übergangsregelungen
 
 (1) Für Unternehmen des Finanzsektors, die eine Stabilisierungsmaßnahme nach dem Stabilisierungsfondsgesetz beantragt haben und sich vor dem 10. November 2015 auf Grundlage einer Verpflichtungserklärung oder eines Vertrages zur Erstattung von Kosten verpflichtet haben, bleiben diese Verpflichtungserklärungen und Verträge auch nach dem 10. November 2015 wirksam. Verpflichtungserklärungen und Verträge nach Satz 1 gelten als Verpflichtungserklärungen und Verträge im Sinne dieser Verordnung.
 

@@ -1,17 +1,11 @@
-# [VTMBAProVTFPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister für Veranstaltungstechnik und Geprüfte Meisterin für Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik  (Veranstaltungstechnikmeister-Bachelor Professional für Veranstaltungstechnik-Fortbildungsprüfungsverordnung - VTMBAProVTFPrV)
-
-Ausfertigungsdatum: 17.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister für Veranstaltungstechnik und Geprüfte Meisterin für Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik  (Veranstaltungstechnikmeister-Bachelor Professional für Veranstaltungstechnik-Fortbildungsprüfungsverordnung - VTMBAProVTFPrV)
+% Ausfertigungsdatum: 17.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und 53c des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920) und des § 42 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 42a und 42c der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die durch Artikel 2 Nummer 17 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2522) neugefasst worden sind, verordnet das Bundesministerium für Bildung und Forschung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -47,8 +41,9 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und
 
  
 
+ 
 
-## § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+# § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter Meister für Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik“ und „Geprüfte Meisterin für Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik“ wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten beruflichen Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
 
@@ -92,8 +87,7 @@ e) Beobachten und Bewerten der Entwicklung der Veranstaltungsmärkte, insbesonde
 
 (6) Die erfolgreich abgelegte Prüfung nach § 2 Nummer 1 führt zusammen mit dem erbrachten Nachweis nach § 2 Nummer 2 zum anerkannten Fortbildungsabschluss „Bachelor Professional für Veranstaltungstechnik“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Meister für Veranstaltungstechnik“ oder „Geprüfte Meisterin für Veranstaltungstechnik“ vorangestellt.
 
-
-## § 2 – Teile des Fortbildungsabschlusses
+# § 2 – Teile des Fortbildungsabschlusses
 
 Für den anerkannten Fortbildungsabschluss Geprüfter Meister für Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik oder Geprüfte Meisterin für Veranstaltungstechnik-Bachelor Professional für Veranstaltungstechnik ist Folgendes erforderlich:
 
@@ -101,8 +95,7 @@ Für den anerkannten Fortbildungsabschluss Geprüfter Meister für Veranstaltung
 
 2. der Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen nach Maßgabe des § 3.
 
-
-## § 3 – Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
+# § 3 – Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen
 
 (1) Den Erwerb der berufs- und arbeitspädagogischen Qualifikationen hat die zu prüfende Person nachzuweisen durch
 
@@ -112,8 +105,7 @@ Für den anerkannten Fortbildungsabschluss Geprüfter Meister für Veranstaltung
 
 (2) Der Nachweis des Erwerbs der berufs- und arbeitspädagogischen Qualifikationen ist vor Beginn der Prüfung des letzten Prüfungsbestandteils vorzulegen.
 
-
-## § 4 – Gliederung der Prüfung
+# § 4 – Gliederung der Prüfung
 
 Die Prüfung nach § 2 gliedert sich in drei Prüfungsteile:
 
@@ -123,8 +115,7 @@ Die Prüfung nach § 2 gliedert sich in drei Prüfungsteile:
 
 3. Prüfungsteil „Veranstaltungsprojekt“ nach den §§ 17 bis 20.
 
-
-## § 5 – Voraussetzungen für die Zulassung zur Prüfung in den Prüfungsteilen
+# § 5 – Voraussetzungen für die Zulassung zur Prüfung in den Prüfungsteilen
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes oder des § 42c der Handwerksordnung erfüllt und Folgendes nachweist:
 
@@ -148,8 +139,7 @@ Nach der Zulassung zur Prüfung können die Prüfungsteile „Veranstaltungsproz
 
 (5) Abweichend von Absatz 1 Satz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der in Absatz 1 Satz 1 beschriebenen beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 6 – Prüfungsbereiche
+# § 6 – Prüfungsbereiche
 
 Im Prüfungsteil „Veranstaltungsprozesse“ werden folgende Prüfungsbereiche geprüft:
 
@@ -157,15 +147,13 @@ Im Prüfungsteil „Veranstaltungsprozesse“ werden folgende Prüfungsbereiche 
 
 2. Technische Leitung und Umsetzung veranstaltungstechnischer Projekte (§ 10).
 
-
-## § 7 – Prüfungsinstrument und Bearbeitungsdauer
+# § 7 – Prüfungsinstrument und Bearbeitungsdauer
 
 (1) Es wird je eine Situationsaufgabe zu den Prüfungsbereichen „Konzeption und Planung veranstaltungstechnischer Projekte“ und „Technische Leitung und Umsetzung veranstaltungstechnischer Projekte“ gestellt. Die zu prüfende Person hat die Aufgaben ohne Antwortvorgaben schriftlich unter Aufsicht zu bearbeiten. Dabei sollen auch Dokumente erstellt und erläutert werden, die der beruflichen Praxis entsprechen.
 
 (2) Die Bearbeitungsdauer für die schriftlichen Aufgaben in den Prüfungsbereichen nach Absatz 1 soll je Prüfungsbereich mindestens 180 Minuten und höchstens 240 Minuten betragen.
 
-
-## § 8 – Mündliche Ergänzungsprüfung
+# § 8 – Mündliche Ergänzungsprüfung
 
 (1) Die zu prüfende Person kann für eine der beiden schriftlichen Situationsaufgaben nach § 7 Absatz 1 eine mündliche Ergänzungsprüfung beantragen.
 
@@ -181,8 +169,7 @@ Im Prüfungsteil „Veranstaltungsprozesse“ werden folgende Prüfungsbereiche 
 
 (5) Das Ergebnis der schriftlichen Prüfungsleistung für den Prüfungsbereich, für den die mündliche Ergänzungsprüfung durchgeführt wurde, und das Ergebnis der mündlichen Ergänzungsprüfung sind bei der Ermittlung des Ergebnisses für den Prüfungsbereich im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 9 – Prüfungsbereich „Konzeption und Planung veranstaltungstechnischer Projekte“
+# § 9 – Prüfungsbereich „Konzeption und Planung veranstaltungstechnischer Projekte“
 
 (1) Im Prüfungsbereich „Konzeption und Planung veranstaltungstechnischer Projekte“ soll die Fähigkeit nachgewiesen werden, Veranstaltungskonzepte hinsichtlich der räumlichen, technischen und sicherheitstechnischen Realisierbarkeit bewerten zu können, Lösungen für die Umsetzung und Alternativen entwickeln zu können sowie technische Planungsunterlagen erstellen zu können. Dabei sollen unterschiedliche Veranstaltungsformen, rechtliche Rahmenbedingungen, Projektabläufe und Kosten berücksichtigt werden.
 
@@ -208,8 +195,7 @@ Im Prüfungsteil „Veranstaltungsprozesse“ werden folgende Prüfungsbereiche 
 
 10. Erstellen von Kostenschätzungen.
 
-
-## § 10 – Prüfungsbereich „Technische Leitung und Umsetzung veranstaltungstechnischer Projekte“
+# § 10 – Prüfungsbereich „Technische Leitung und Umsetzung veranstaltungstechnischer Projekte“
 
 (1) Im Prüfungsbereich „Technische Leitung und Umsetzung veranstaltungstechnischer Projekte“ soll die Fähigkeit nachgewiesen werden, Planungsvorgaben auf Umsetzbarkeit bewerten zu können, Ausführungsplanungen erstellen zu können, Abläufe steuern zu können, Arbeiten koordinieren und Zielerreichungsplanung überwachen zu können. Dazu gehört, Kommunikation gewährleisten und Absprachen treffen zu können sowie das Sicherheitsmanagement zu beherrschen, insbesondere die Einweisung der Beteiligten.
 
@@ -249,8 +235,7 @@ Im Prüfungsteil „Veranstaltungsprozesse“ werden folgende Prüfungsbereiche 
 
 17. Einschätzen und Berücksichtigen des Verhaltens von Mitarbeitern und Mitarbeiterinnen, Mitwirkenden sowie von Besuchern und Besucherinnen hinsichtlich Sicherheit, Durchsetzen sicherheitsgerechten Verhaltens.
 
-
-## § 11 – Prüfungsbereiche
+# § 11 – Prüfungsbereiche
 
 Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereiche geprüft:
 
@@ -260,8 +245,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 3. Personalführung (§ 16).
 
-
-## § 12 – Prüfungsinstrumente und Bearbeitungsdauer
+# § 12 – Prüfungsinstrumente und Bearbeitungsdauer
 
 (1) Im Prüfungsteil „Betriebliches Management“ wird
 
@@ -273,8 +257,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 (3) Gegenstand der Simulation nach Absatz 1 Nummer 2 ist ein Konfliktgespräch über eine komplexe betriebliche Situation mit den Qualifikationsinhalten des Prüfungsbereichs „Personalführung“ nach § 16. Ziel des Konfliktgesprächs ist, den Konflikt zu lösen. Gegenstand der Reflexion nach Absatz 1 Nummer 2 ist die Beurteilung der Gesprächsführung der zu prüfenden Person im Konfliktgespräch und die Frage, ob und wie der Konflikt gelöst werden konnte. Der zu prüfenden Person steht nach Übergabe der Aufgabenstellung eine Vorbereitungszeit von höchstens 30 Minuten zur Verfügung. Die Simulation und die Reflexion sollen insgesamt mindestens 20 Minuten und höchstens 30 Minuten dauern.
 
-
-## § 13 – Mündliche Ergänzungsprüfung
+# § 13 – Mündliche Ergänzungsprüfung
 
 (1) Die zu prüfende Person kann für die schriftliche Situationsaufgabe nach § 12 Absatz 1 Nummer 1 eine mündliche Ergänzungsprüfung beantragen.
 
@@ -284,8 +267,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 (4) Das Ergebnis der schriftlichen Prüfungsleistung und das Ergebnis der mündlichen Ergänzungsprüfung sind bei der Ermittlung des Ergebnisses für die Situationsaufgabe im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 14 – Prüfungsbereich „Betriebsorganisation“
+# § 14 – Prüfungsbereich „Betriebsorganisation“
 
 (1) Im Prüfungsbereich „Betriebsorganisation“ soll die Fähigkeit nachgewiesen werden, Betriebs- und Arbeitsprozesse unter wirtschaftlichen, qualitativen und rechtlichen Aspekten organisieren zu können.
 
@@ -303,8 +285,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 6. Organisieren des betrieblichen Arbeits-, Umwelt- und Gesundheitsschutzes im Zuständigkeitsbereich.
 
-
-## § 15 – Prüfungsbereich „Personalorganisation“
+# § 15 – Prüfungsbereich „Personalorganisation“
 
 (1) Im Prüfungsbereich „Personalorganisation“ soll die Fähigkeit nachgewiesen werden, den Personalbedarf ermitteln zu können, den Personaleinsatz entsprechend den betrieblichen und rechtlichen Anforderungen sicherstellen zu können und eine systematische Personalentwicklung durchführen zu können. Dazu gehört die Fähigkeit, Entwicklungspotenziale der Mitarbeiter und Mitarbeiterinnen einschätzen zu können, Qualifizierungsziele festlegen zu können sowie deren Erreichen durch zielgerichtete Maßnahmen sicherstellen zu können.
 
@@ -322,8 +303,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 6. Planen von Schulungen und Einweisungen von Mitarbeitern und Mitarbeiterinnen.
 
-
-## § 16 – Prüfungsbereich „Personalführung“
+# § 16 – Prüfungsbereich „Personalführung“
 
 (1) Im Prüfungsbereich „Personalführung“ soll die Fähigkeit nachgewiesen werden, Führungsaufgaben wahrnehmen zu können, das Verantwortungsbewusstsein von Mitarbeitern und Mitarbeiterinnen fördern zu können sowie Konflikte lösen und das eigene Führungsverhalten reflektieren zu können.
 
@@ -337,8 +317,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 4. Reflektieren des eigenen Gesprächsverhaltens und Ableiten von Schlussfolgerungen.
 
-
-## § 17 – Gegenstand des Prüfungsteils
+# § 17 – Gegenstand des Prüfungsteils
 
 (1) Im Prüfungsteil „Veranstaltungsprojekt“ soll die zu prüfende Person die in § 20 dargestellten Qualifikationsinhalte ganzheitlich an einem veranstaltungstechnischen Projekt aus ihrer betrieblichen Praxis nachweisen.
 
@@ -352,8 +331,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 4. in anderer technischer Leitungsfunktion, die einer der vorgenannten Funktionen in Breite und Tiefe gleichwertig ist.
 
-
-## § 18 – Projektantrag
+# § 18 – Projektantrag
 
 (1) Die zu prüfende Person hat in einem Antrag dem Prüfungsausschuss das veranstaltungstechnische Projekt, das der Prüfung zugrunde gelegt werden soll (Projektantrag), zur Genehmigung vorzulegen. Die Genehmigung ist zu erteilen, wenn das Projekt geeignet ist, den nach § 17 Absatz 1 verlangten Nachweis führen zu können, und die Voraussetzungen der Absätze 2 und 3 erfüllt sind.
 
@@ -371,8 +349,7 @@ Im Prüfungsteil „Betriebliches Management“ werden folgende Prüfungsbereich
 
 (4) Bei Nichtgenehmigung des Projektantrags hat der Prüfungsausschuss die Ablehnung zu begründen und der zu prüfenden Person einmalig Gelegenheit zur Einreichung eines weiteren Projektantrags zu geben. Wird auch der weitere Projektantrag nicht genehmigt, ist der Prüfungsteil „Veranstaltungsprojekt“ nicht bestanden.
 
-
-## § 19 – Bestandteile des Prüfungsteils
+# § 19 – Bestandteile des Prüfungsteils
 
 (1) Bestandteile des Prüfungsteils „Veranstaltungsprojekt“ sind
 
@@ -402,8 +379,7 @@ Der Prüfungsausschuss soll mit der Genehmigung des Projektantrages den Umfang d
 
 (5) Der Präsentation schließt sich das Fachgespräch nach Absatz 1 Nummer 3 an, das auf der Grundlage des Berichts und der Präsentation geführt wird. Das Fachgespräch soll mindestens 20 Minuten und höchstens 30 Minuten dauern.
 
-
-## § 20 – Qualifikationsinhalte
+# § 20 – Qualifikationsinhalte
 
 Im Prüfungsteil „Veranstaltungsprojekt“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist,
 
@@ -417,13 +393,11 @@ Im Prüfungsteil „Veranstaltungsprojekt“ soll die zu prüfende Person nachwe
 
 5. Konzepte, Lösungen und Entscheidungen zu dokumentieren, zu kommunizieren und zu begründen.
 
-
-## § 21 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 21 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes oder nach § 42h Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 22 und 23 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 22 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 23 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
-
-## § 22 – Bewerten der Prüfungsleistungen
+# § 22 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -443,8 +417,7 @@ Aus den einzelnen Bewertungen der Situationsaufgabe und der Simulation einschlie
 
 (4) Im Prüfungsteil „Veranstaltungsprojekt“ stellen der Bericht, die Präsentation und das Fachgespräch insgesamt eine Prüfungsleistung dar. Sie ist ganzheitlich zu bewerten.
 
-
-## § 23 – Bestehen der Prüfung, Gesamtnote
+# § 23 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -478,8 +451,7 @@ b) in der Simulation einschließlich Reflexion des Konfliktgesprächs,
 
 Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 24 – Zeugnisse
+# § 24 – Zeugnisse
 
 (1) Wer die Prüfung nach § 23 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -491,8 +463,7 @@ Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl 
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 25 – Wiederholung der Prüfung
+# § 25 – Wiederholung der Prüfung
 
 (1) Ein nicht bestandener Prüfungsteil kann zweimal wiederholt werden.
 
@@ -502,8 +473,7 @@ Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl 
 
 (4) Bestandene Prüfungsleistungen können auf Antrag einmal wiederholt werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
-## § 26 – Übergangsvorschriften
+# § 26 – Übergangsvorschriften
 
 (1) Vor Ablauf des 31. Dezember 2019 angemeldete Prüfungen zum anerkannten Abschluss „Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik“ in den Fachrichtungen Bühne/Studio, Beleuchtung, Halle sind nach der Verordnung über die Prüfung zum anerkannten Abschluss „Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik“ in den Fachrichtungen Bühne/Studio, Beleuchtung, Halle vom 26. Januar 1997 (BGBl. I S. 118), die zuletzt durch Artikel 1 der Verordnung vom 5. November 2018 (BGBl. I S. 1841) geändert worden ist, bis zum 30. Juni 2023 zu Ende zu führen.
 
@@ -515,20 +485,17 @@ Die Gesamtpunktzahl ist kaufmännisch zu runden. Der gerundeten Gesamtpunktzahl 
 
 (5) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 4 Satz 1 bezeichneten Veranstaltungstechnikmeister-Fortbildungsprüfungsverordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen.
 
-
-## § 27 – Inkrafttreten, Außerkrafttreten
+# § 27 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Veranstaltungstechnikmeister-Fortbildungsprüfungsverordnung vom 25. Oktober 2019 (BGBl. I S. 1567; 2020 I S. 100) außer Kraft.
 
-
-## Anlage 1 – (zu § 22 Absatz 1)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu § 22 Absatz 1)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2020, 2985 - 2986)
 
  
 
-
-## Anlage 2 – (zu § 24 Absatz 1)Zeugnisinhalte
+# Anlage 2 – (zu § 24 Absatz 1)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 2987)
 

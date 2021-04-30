@@ -1,12 +1,7 @@
-# [MDBNDVerfSchVDV] Verordnung über den Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und den mittleren Dienst im Verfassungsschutz des Bundes  (MDBNDVerfSchVDV)
-
-Ausfertigungsdatum: 09.08.2019
-
+% Verordnung über den Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und den mittleren Dienst im Verfassungsschutz des Bundes  (MDBNDVerfSchVDV)
+% Ausfertigungsdatum: 09.08.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -68,13 +63,13 @@ Ausfertigungsdatum: 09.08.2019
 
  
 
+ 
 
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und für den mittleren Dienst im Verfassungsschutz des Bundes.
 
-
-## § 2 – Ausbildungsziele
+# § 2 – Ausbildungsziele
 
 (1) Die Ausbildung vermittelt die fachtheoretischen Kenntnisse und Methoden sowie die berufspraktischen Kenntnisse und Fähigkeiten, die für die Erfüllung der Aufgaben im mittleren Dienst im Bundesnachrichtendienst und im mittleren Dienst im Verfassungsschutz des Bundes erforderlich sind.
 
@@ -84,8 +79,7 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst 
 
 (4) Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns, zum selbständigen und zum wirtschaftlichen Handeln, sowie die soziale Kompetenz sind zu fördern.
 
-
-## § 3 – Dienstbehörde
+# § 3 – Dienstbehörde
 
 (1) Dienstbehörde ist
 
@@ -95,8 +89,7 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst 
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Stellen übertragen werden.
 
-
-## § 4 – Ausbildungsbehörden
+# § 4 – Ausbildungsbehörden
 
 Ausbildungsbehörden sind
 
@@ -104,8 +97,7 @@ Ausbildungsbehörden sind
 
 2. andere Bundesbehörden oder Landesbehörden, die von der Dienstbehörde als Ausbildungsbehörde bestimmt worden sind.
 
-
-## § 5 – Dienstaufsicht
+# § 5 – Dienstaufsicht
 
 (1) Dienstvorgesetzte oder Dienstvorgesetzter der Anwärterinnen und Anwärter ist die Leiterin oder der Leiter der Dienstbehörde.
 
@@ -115,13 +107,11 @@ Ausbildungsbehörden sind
 
 2. während der fachtheoretischen Ausbildung der Dienstaufsicht der Leiterin oder des Leiters des Zentrums für Nachrichtendienstliche Aus- und Fortbildung.
 
-
-## § 6 – Erholungsurlaub
+# § 6 – Erholungsurlaub
 
 Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gewährt.
 
-
-## § 7 – Nachteilsausgleich
+# § 7 – Nachteilsausgleich
 
 (1) Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, werden im Auswahlverfahren, bei Leistungstests und bei Prüfungen auf Antrag angemessene Erleichterungen gewährt.
 
@@ -133,8 +123,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gew�
 
 (3) Art und Umfang der Erleichterungen sind mit den Betroffenen rechtzeitig zu erörtern. Bei schwerbehinderten Menschen und bei gleichgestellten behinderten Menschen erfolgt zudem eine Erörterung mit der Schwerbehindertenvertretung, sofern die betroffene Person dem nicht widerspricht. Bei Bedarf kann ein ärztliches oder ein amtsärztliches Gutachten gefordert werden. Die Kosten für das Gutachten trägt die Dienstbehörde.
 
-
-## § 8 – Bewertung der Leistungen in der Ausbildung und in den Prüfungen
+# § 8 – Bewertung der Leistungen in der Ausbildung und in den Prüfungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter in der Ausbildung und in den Prüfungen werden wie folgt bewertet:  
   
@@ -291,15 +280,13 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Wenn eine Leistung von mehr als einer oder einem Prüfenden bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer Bewertung zusammengefasst werden, wird als Bewertung eine Rangpunktzahl berechnet. Rangpunktzahlen sind, soweit in dieser Verordnung nicht etwas anderes bestimmt ist, auf zwei Nachkommastellen ohne Rundung zu berechnen.
 
-
-## § 9 – Prüfende
+# § 9 – Prüfende
 
 (1) Die Prüfenden müssen mindestens die Befähigung für die Laufbahn des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder einen Bachelorabschluss oder eine gleichwertige Qualifikation besitzen.
 
 (2) Sind für die Bewertung einer Leistung zwei Prüfende vorgeschrieben, so bewerten sie die Leistung unabhängig voneinander. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben.
 
-
-## § 10 – Abweichende Bewertungen
+# § 10 – Abweichende Bewertungen
 
 (1) Weichen die Bewertungen von zwei Prüfenden um höchstens drei Rangpunkte voneinander ab, so wird als Bewertung eine Rangpunktzahl ermittelt, die das arithmetische Mittel der beiden Einzelbewertungen ist.
 
@@ -313,8 +300,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 3. der Bewertung der oder des Drittprüfenden.
 
-
-## § 11 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 11 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst geeignet sind. Insbesondere wird festgestellt, ob sie über das erforderliche Allgemeinwissen, die erforderlichen kognitiven, methodischen und sozialen Kompetenzen und die erforderliche Leistungsmotivation verfügen.
 
@@ -330,8 +316,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
 
-
-## § 12 – Auswahlkommission
+# § 12 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Dienstbehörde eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall stellt die Dienstbehörde sicher, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -353,13 +338,11 @@ In begründeten Fällen können zwei Mitglieder der Auswahlkommission Tarifbesch
 
 (6) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 13 – Teile des Auswahlverfahrens
+# § 13 – Teile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-
-## § 14 – Festlegungen der Dienstbehörde
+# § 14 – Festlegungen der Dienstbehörde
 
 (1) Die Dienstbehörde legt fest:
 
@@ -375,22 +358,19 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder vor jedem Teil des Auswahlverfahrens.
 
-
-## § 15 – Schriftlicher Teil
+# § 15 – Schriftlicher Teil
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere kognitive Fähigkeiten sowie die Fähigkeit zur sicheren Erfassung eines Textes geprüft.
 
 (2) Der schriftliche Teil besteht aus bis zu drei Leistungstests.
 
-
-## § 16 – Bestehen des schriftlichen Teils und Rangfolge
+# § 16 – Bestehen des schriftlichen Teils und Rangfolge
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche Mindestpunktzahl erreicht worden ist.
 
 (2) Anhand der erzielten Ergebnisse wird eine Rangfolge der Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
 
-
-## § 17 – Zulassung zum mündlichen Teil
+# § 17 – Zulassung zum mündlichen Teil
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil bestanden hat.
 
@@ -398,8 +378,7 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (3) Haben schwerbehinderte Bewerberinnen und Bewerber oder gleichgestellte behinderte Bewerberinnen und Bewerber am schriftlichen Teil teilgenommen, so werden sie immer zum mündlichen Teil zugelassen.
 
-
-## § 18 – Mündlicher Teil
+# § 18 – Mündlicher Teil
 
 (1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich der Motivation, der sozialen Kompetenz und des Kommunikationsverhaltens.
 
@@ -421,13 +400,11 @@ Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
 (5) Bei einer Gruppenaufgabe oder Gruppendiskussion ist die Zahl der teilnehmenden Bewerberinnen und Bewerber auf fünf begrenzt.
 
-
-## § 19 – Bestehen des mündlichen Teils
+# § 19 – Bestehen des mündlichen Teils
 
 Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche Mindestpunktzahl erreicht worden ist.
 
-
-## § 20 – Gesamtergebnis und Rangfolge
+# § 20 – Gesamtergebnis und Rangfolge
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens teilgenommen hat, das Gesamtergebnis des Auswahlverfahrens.
 
@@ -437,15 +414,13 @@ Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die erforderliche 
 
 (4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
 
-
-## § 21 – Täuschung
+# § 21 – Täuschung
 
 (1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren ausgeschlossen.
 
 (2) Die Betroffenen sind vor einer Entscheidung anzuhören.
 
-
-## § 22 – Dauer und Gliederung der Ausbildung
+# § 22 – Dauer und Gliederung der Ausbildung
 
 (1) Die Ausbildung dauert in der Regel zwei Jahre. Eine Entscheidung über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der Leiterin oder dem Leiter des Zentrums für Nachrichtendienstliche Aus- und Fortbildung.
 
@@ -505,8 +480,7 @@ vier Monate
 
 (5) Die Dauer der fachtheoretischen Ausbildung beträgt insgesamt mindestens 900 Lehrstunden.
 
-
-## § 23 – Lehrplan
+# § 23 – Lehrplan
 
 (1) Das Zentrum für Nachrichtendienstliche Aus- und Fortbildung erstellt im Einvernehmen mit dem Bundesnachrichtendienst und dem Bundesamt für Verfassungsschutz einen Lehrplan für die Ausbildung.
 
@@ -532,8 +506,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind, sowie
 
 4. die Fächer und Inhalte der praxisbezogenen Lehrveranstaltungen.
 
-
-## § 24 – Leistungstests
+# § 24 – Leistungstests
 
 (1) Leistungstests werden durchgeführt in der Form
 
@@ -553,8 +526,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind, sowie
 
 (3) Leistungstests werden durch eine Lehrkraft der Stelle bewertet, die für die Organisation und Durchführung des jeweiligen Leistungstests zuständig ist.
 
-
-## § 25 – Fernbleiben und Rücktritt von Leistungstests
+# § 25 – Fernbleiben und Rücktritt von Leistungstests
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem Leistungstest gilt der Leistungstest als mit null Rangpunkten bewertet.
 
@@ -566,8 +538,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind, sowie
 
 (5) Die Stelle, die für die Organisation und Durchführung des jeweiligen Leistungstests zuständig ist, bestimmt, ob und inwieweit ein bereits absolvierter Leistungstest gewertet wird und zu welchem Zeitpunkt ein Leistungstest nachgeholt wird.
 
-
-## § 26 – Täuschung und Ordnungsverstoß bei Leistungstests
+# § 26 – Täuschung und Ordnungsverstoß bei Leistungstests
 
 (1) Anwärterinnen und Anwärtern, die bei einem Leistungstest täuschen, eine Täuschung versuchen, an einer Täuschung oder einem Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung des Leistungstests unter dem Vorbehalt einer abweichenden Entscheidung der Stelle, die für die Organisation und Durchführung des Leistungstests zuständig ist, gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme am Leistungstest ausgeschlossen werden.
 
@@ -581,8 +552,7 @@ c) in welcher Form die Leistungstests zu absolvieren sind, sowie
 
 (4) Die Betroffenen sind vor einer Entscheidung nach Absatz 2 oder 3 anzuhören.
 
-
-## § 27 – Lehrgebiete
+# § 27 – Lehrgebiete
 
 Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
@@ -602,27 +572,23 @@ Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
 8. Haushalts-, Kassen- und Rechnungswesen.
 
-
-## § 28 – Organisation und Durchführung
+# § 28 – Organisation und Durchführung
 
 Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das Zentrum für Nachrichtendienstliche Aus- und Fortbildung zuständig, soweit in diesem Abschnitt nichts anderes bestimmt ist.
 
-
-## § 29 – Leistungstests
+# § 29 – Leistungstests
 
 (1) In der fachtheoretischen Ausbildung sind mindestens zwölf Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
 
 (2) Die Leistungstests im Abschlusslehrgang müssen mindestens zwei Wochen vor Beginn der Laufbahnprüfung abgeschlossen sein.
 
-
-## § 30 – Zeugnis über die Leistungstests, Rangpunktzahl der Leistungstests
+# § 30 – Zeugnis über die Leistungstests, Rangpunktzahl der Leistungstests
 
 (1) Die Anwärterin oder der Anwärter erhält vom Zentrum für Nachrichtendienstliche Aus- und Fortbildung ein Zeugnis über die Leistungstests in der fachtheoretischen Ausbildung mit Angabe der Rangpunkte jedes Leistungstests und der Rangpunktzahl.
 
 (2) Die Rangpunktzahl der Leistungstests in der fachtheoretischen Ausbildung ist das arithmetische Mittel der Rangpunkte der einzelnen Leistungstests.
 
-
-## § 31 – Gliederung, Organisation und Durchführung
+# § 31 – Gliederung, Organisation und Durchführung
 
 (1) Die berufspraktische Ausbildung besteht aus
 
@@ -636,8 +602,7 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 
 (4) Die praxisbezogenen Lehrveranstaltungen werden von der Dienstbehörde durchgeführt.
 
-
-## § 32 – Ausbildungsleitung
+# § 32 – Ausbildungsleitung
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktische Ausbildung eine Beamtin oder einen Beamten des gehobenen oder höheren Dienstes als Ausbildungsleitung sowie eine Vertretung.
 
@@ -649,8 +614,7 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 
 2. die Ausbildenden.
 
-
-## § 33 – Ausbildende
+# § 33 – Ausbildende
 
 (1) Jede Ausbildungsbehörde bestellt für die berufspraktische Ausbildung Ausbildende.
 
@@ -658,8 +622,7 @@ Für die Organisation und Durchführung der fachtheoretischen Ausbildung ist das
 
 (3) Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 34 – Praktikumsordnung
+# § 34 – Praktikumsordnung
 
 (1) Die Dienstbehörde erlässt im Einvernehmen mit der für die Anwärterinnen und Anwärter der anderen Fachrichtung zuständigen Dienstbehörde eine Praktikumsordnung.
 
@@ -679,8 +642,7 @@ b) in welchen Fächern die Leistungstests zu absolvieren sind und
 
 c) in welcher Form die Leistungstests zu absolvieren sind.
 
-
-## § 35 – Ausbildungsplan für die Praktika
+# § 35 – Ausbildungsplan für die Praktika
 
 (1) Die Dienstbehörde stellt für jede Anwärterin und jeden Anwärter einen Ausbildungsplan für die Praktika auf.
 
@@ -688,20 +650,17 @@ c) in welcher Form die Leistungstests zu absolvieren sind.
 
 (3) Der Ausbildungsplan wird der Anwärterin oder dem Anwärter bekannt gegeben.
 
-
-## § 36 – Bewertung der Praktika
+# § 36 – Bewertung der Praktika
 
 (1) Die Ausbildenden bewerten die Leistungen der Anwärterinnen und Anwärter während der Praktika für jede Ausbildungsstation, der die Anwärterinnen und Anwärter für mindestens 20 Arbeitstage zugewiesen sind, mit Rangpunkten.
 
 (2) Die Bewertung ist mit der Anwärterin oder dem Anwärter zu besprechen.
 
-
-## § 37 – Leistungstests
+# § 37 – Leistungstests
 
 In den praxisbezogenen Lehrveranstaltungen sind mindestens zwei Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
 
-
-## § 38 – Zeugnis über die Praktika und über die Leistungstests, Rangpunktzahl der Praktika und der Leistungstests
+# § 38 – Zeugnis über die Praktika und über die Leistungstests, Rangpunktzahl der Praktika und der Leistungstests
 
 (1) Die Anwärterin oder der Anwärter erhält vom Zentrum für Nachrichtendienstliche Aus- und Fortbildung ein Zeugnis über die Praktika und über die Leistungstests in den praxisbezogenen Lehrveranstaltungen.
 
@@ -723,13 +682,11 @@ b) die Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltung
 
 (4) Die Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen ist das arithmetische Mittel der Rangpunkte der einzelnen Leistungstests.
 
-
-## § 39 – Organisation und Durchführung
+# § 39 – Organisation und Durchführung
 
 Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung organisiert die Prüfungen und führt sie durch.
 
-
-## § 40 – Bestellung von Prüfenden
+# § 40 – Bestellung von Prüfenden
 
 (1) Das Prüfungsamt bestellt Prüfende in der Regel für die Dauer von fünf Jahren. Wiederbestellung ist zulässig.
 
@@ -739,15 +696,13 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 
 2. für die Fachrichtung „Verfassungsschutz“ überwiegend Angehörige des Bundesamtes für Verfassungsschutz.
 
-
-## § 41 – Zweck
+# § 41 – Zweck
 
 (1) Der Grundlehrgang schließt mit einer Zwischenprüfung ab.
 
 (2) In der Zwischenprüfung sollen die Anwärterinnen und Anwärter nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
-
-## § 42 – Gegenstand und Durchführung der Zwischenprüfung
+# § 42 – Gegenstand und Durchführung der Zwischenprüfung
 
 (1) Die Zwischenprüfung besteht aus drei Klausuren.
 
@@ -759,8 +714,7 @@ Das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung org
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
-
-## § 43 – Prüfende für die Zwischenprüfung
+# § 43 – Prüfende für die Zwischenprüfung
 
 (1) Für die Bewertung jeder Klausur bestellt das Prüfungsamt zwei Prüfende.
 
@@ -774,13 +728,11 @@ Eine oder einer der beiden Prüfenden kann auch Tarifbeschäftigte oder Tarifbes
 
 (3) Im Einvernehmen mit der Dienstbehörde kann das Prüfungsamt festlegen, dass nur eine Prüfende oder ein Prüfender bestellt wird. In diesem Fall kann die oder der Prüfende auch Tarifbeschäftigte oder Tarifbeschäftigter oder Soldatin oder Soldat sein. Die oder der Prüfende wird vom Prüfungsamt bestellt.
 
-
-## § 44 – Rangpunktzahl der Zwischenprüfung
+# § 44 – Rangpunktzahl der Zwischenprüfung
 
 Aus den Bewertungen der Klausuren der Zwischenprüfung wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen der einzelnen Klausuren ist.
 
-
-## § 45 – Bestehen der Zwischenprüfung
+# § 45 – Bestehen der Zwischenprüfung
 
 Die Zwischenprüfung hat bestanden,
 
@@ -788,8 +740,7 @@ Die Zwischenprüfung hat bestanden,
 
 2. bei wem die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
 
-
-## § 46 – Zwischenprüfungszeugnis
+# § 46 – Zwischenprüfungszeugnis
 
 Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zwischenprüfungszeugnis mit Angabe
 
@@ -797,13 +748,11 @@ Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein Zwischenpr�
 
 2. der Rangpunktzahl der Zwischenprüfung.
 
-
-## § 47 – Bescheid über die nichtbestandene Zwischenprüfung
+# § 47 – Bescheid über die nichtbestandene Zwischenprüfung
 
 Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nichtbestandene Zwischenprüfung sowie eine Bescheinigung über die erbrachten Leistungen.
 
-
-## § 48 – Wiederholung der Zwischenprüfung
+# § 48 – Wiederholung der Zwischenprüfung
 
 (1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
@@ -813,13 +762,11 @@ Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bes
 
 (4) Die Rangpunkte, die bei der Wiederholung der Zwischenprüfung erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 49 – Bestandteile der Laufbahnprüfung
+# § 49 – Bestandteile der Laufbahnprüfung
 
 Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Abschlussprüfung.
 
-
-## § 50 – Gegenstand und Durchführung der schriftlichen Abschlussprüfung
+# § 50 – Gegenstand und Durchführung der schriftlichen Abschlussprüfung
 
 (1) Die schriftliche Abschlussprüfung besteht aus fünf Klausuren.
 
@@ -837,8 +784,7 @@ Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Absch
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
-
-## § 51 – Prüfende für die schriftliche Abschlussprüfung
+# § 51 – Prüfende für die schriftliche Abschlussprüfung
 
 (1) Zur Bewertung werden vom Prüfungsamt für jede Klausur der schriftlichen Abschlussprüfung zwei Prüfende bestellt.
 
@@ -850,13 +796,11 @@ Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Absch
 
 Die oder der Zweitprüfende kann jedoch auch Tarifbeschäftigte oder Tarifbeschäftigter oder Soldatin oder Soldat sein.
 
-
-## § 52 – Rangpunktzahl der schriftlichen Abschlussprüfung
+# § 52 – Rangpunktzahl der schriftlichen Abschlussprüfung
 
 Aus den Bewertungen der Klausuren der schriftlichen Abschlussprüfung wird eine Rangpunktzahl berechnet, die das arithmetische Mittel der Bewertungen der einzelnen Klausuren ist.
 
-
-## § 53 – Bestehen der schriftlichen Abschlussprüfung
+# § 53 – Bestehen der schriftlichen Abschlussprüfung
 
 Die schriftliche Abschlussprüfung hat bestanden,
 
@@ -864,20 +808,17 @@ Die schriftliche Abschlussprüfung hat bestanden,
 
 2. bei wem die Rangpunktzahl der schriftlichen Abschlussprüfung mindestens 5,00 beträgt.
 
-
-## § 54 – Zulassung zur mündlichen Abschlussprüfung
+# § 54 – Zulassung zur mündlichen Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die schriftliche Abschlussprüfung bestanden hat.
 
 (2) Die Zulassung oder Nichtzulassung wird der Anwärterin oder dem Anwärter rechtzeitig vor der mündlichen Abschlussprüfung bekannt gegeben.
 
-
-## § 55 – Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung
+# § 55 – Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung
 
 Gleichzeitig mit der Zulassung oder Nichtzulassung zur mündlichen Abschlussprüfung wird der Anwärterin oder dem Anwärter die in den Klausuren der schriftlichen Abschlussprüfung jeweils erreichte Rangpunktzahl mitgeteilt.
 
-
-## § 56 – Prüfungskommission
+# § 56 – Prüfungskommission
 
 (1) Für die Durchführung und Bewertung der mündlichen Abschlussprüfung richtet das Prüfungsamt für jede Fachrichtung eine Prüfungskommission ein. Bei Bedarf können jeweils mehrere Prüfungskommissionen eingerichtet werden. Das Prüfungsamt stellt sicher, dass alle Prüfungskommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -905,8 +846,7 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (7) Die Prüfungskommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 57 – Gegenstand und Durchführung der mündlichen Abschlussprüfung
+# § 57 – Gegenstand und Durchführung der mündlichen Abschlussprüfung
 
 (1) Die Prüfungsfächer der mündlichen Abschlussprüfung stammen aus den Lehrgebieten nach § 27. Ausgewählt werden sie von der Prüfungskommission.
 
@@ -918,8 +858,7 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je Anwärterin oder Anwärter nicht überschreiten.
 
-
-## § 58 – Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
+# § 58 – Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung ist nicht öffentlich.
 
@@ -937,8 +876,7 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (4) Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
 
-
-## § 59 – Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung
+# § 59 – Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung
 
 (1) Jedes Prüfungsfach der mündlichen Abschlussprüfung wird einzeln bewertet.
 
@@ -948,8 +886,7 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (4) Im Anschluss an die mündliche Abschlussprüfung teilt die oder der Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
-
-## § 60 – Protokoll zur mündlichen Abschlussprüfung
+# § 60 – Protokoll zur mündlichen Abschlussprüfung
 
 (1) Über die mündliche Abschlussprüfung ist ein Protokoll anzufertigen.
 
@@ -957,13 +894,11 @@ Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte oder Tarifb
 
 (3) Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission zu bestätigen.
 
-
-## § 61 – Bestehen der mündlichen Abschlussprüfung
+# § 61 – Bestehen der mündlichen Abschlussprüfung
 
 Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschlussprüfung mindestens eine Rangpunktzahl von 5,00 erreicht hat.
 
-
-## § 62 – Bestehen der Laufbahnprüfung und Abschlussnote
+# § 62 – Bestehen der Laufbahnprüfung und Abschlussnote
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet das Prüfungsamt die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest.
 
@@ -989,8 +924,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 (4) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl der Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet und als Abschlussnote festgesetzt.
 
-
-## § 63 – Wiederholung der Laufbahnprüfung
+# § 63 – Wiederholung der Laufbahnprüfung
 
 (1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Satz 1 und 3 Nummer 2 der Bundeslaufbahnverordnung), so ist sie vollständig zu wiederholen.
 
@@ -1006,8 +940,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 (5) Die Rangpunkte, die bei der Wiederholung der Leistungstests und der Laufbahnprüfung erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 64 – Abschlusszeugnis
+# § 64 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein Abschlusszeugnis.
 
@@ -1017,8 +950,7 @@ Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen Abschluss
 
 2. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
 
-
-## § 65 – Bescheid über die nichtbestandene Laufbahnprüfung
+# § 65 – Bescheid über die nichtbestandene Laufbahnprüfung
 
 Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
@@ -1026,8 +958,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 2. eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
-
-## § 66 – Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil
+# § 66 – Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil gilt die Prüfung oder der Prüfungsteil als mit null Rangpunkten bewertet.
 
@@ -1039,8 +970,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 (5) Das Prüfungsamt bestimmt, ob und inwieweit eine bereits absolvierte Prüfung oder ein bereits absolvierter Prüfungsteil gewertet wird und zu welchem Zeitpunkt die Prüfung oder der Prüfungsteil nachgeholt wird.
 
-
-## § 67 – Täuschung und Ordnungsverstoß bei Prüfungen
+# § 67 – Täuschung und Ordnungsverstoß bei Prüfungen
 
 (1) Anwärterinnen und Anwärtern, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen, an einer Täuschung oder einem Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamts gestattet werden. Bei einem erheblichen Verstoß können die Anwärterinnen und Anwärter von der weiteren Teilnahme an der Prüfung oder dem Prüfungsteil ausgeschlossen werden.
 
@@ -1058,8 +988,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 (5) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 68 – Prüfungsakte und Einsichtnahme
+# § 68 – Prüfungsakte und Einsichtnahme
 
 (1) Zu jeder Anwärterin und jedem Anwärter wird eine Prüfungsakte geführt.
 
@@ -1083,13 +1012,11 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 (4) Nach Abschluss der Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme in die Prüfungsakte ist aktenkundig zu machen.
 
-
-## § 69 – Entscheidung über Widersprüche
+# § 69 – Entscheidung über Widersprüche
 
 Über Widersprüche gegen Maßnahmen, die bei den Prüfungsverfahren nach dieser Verordnung getroffen worden sind, entscheidet das Prüfungsamt.
 
-
-## § 70 – Übergangsvorschriften
+# § 70 – Übergangsvorschriften
 
 (1) Für Anwärterinnen und Anwärter, die bis zum 28. Februar 2019 mit dem Vorbereitungsdienst des mittleren Dienstes im Bundesnachrichtendienst begonnen haben, ist weiter die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im Bundesnachrichtendienst vom 22. Juni 2004 (BGBl. I S. 1303), die zuletzt durch Artikel 3 Absatz 14 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, anzuwenden mit der Maßgabe, dass an die Stelle des § 28 Absatz 6 Satz 2 der Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im Bundesnachrichtendienst § 10 dieser Verordnung tritt.
 

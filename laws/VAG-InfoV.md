@@ -1,20 +1,15 @@
-# [VAG-InfoV] Verordnung über Informationspflichten in der betrieblichen Altersversorgung, die von Pensionsfonds, Pensionskassen und anderen Lebensversicherungsunternehmen durchgeführt wird   (VAG-Informationspflichtenverordnung - VAG-InfoV)
-
-Ausfertigungsdatum: 17.06.2019
-
+% Verordnung über Informationspflichten in der betrieblichen Altersversorgung, die von Pensionsfonds, Pensionskassen und anderen Lebensversicherungsunternehmen durchgeführt wird   (VAG-Informationspflichtenverordnung - VAG-InfoV)
+% Ausfertigungsdatum: 17.06.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 235a Satz 1 Nummer 1 bis 3 und 5 bis 8, auch in Verbindung mit § 144 Absatz 1 und § 62 Absatz 1 Satz 2 Nummer 5 sowie § 237 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434), von denen § 235a durch Artikel 1 Nummer 28 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2672) eingefügt worden ist sowie § 144 Absatz 1 durch Artikel 1 Nummer 14 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2672) und § 237 durch Artikel 1 Nummer 30 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2672) geändert worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für durchführende Einrichtungen, die der Aufsicht durch die Bundesanstalt für Finanzdienstleistungsaufsicht unterliegen. Durchführende Einrichtung im Sinne dieser Verordnung ist ein Pensionsfonds, eine Pensionskasse oder ein anderes Lebensversicherungsunternehmen, soweit es Leistungen der betrieblichen Altersversorgung erbringt.
 
-
-## § 2 – Bereitstellung der Informationen
+# § 2 – Bereitstellung der Informationen
 
 (1) Die durchführende Einrichtung stellt die Informationen, die nach den §§ 234l bis 234p des Versicherungsaufsichtsgesetzes und nach dieser Verordnung vorgeschrieben sind, den Versorgungsanwärtern und Versorgungsempfängern elektronisch oder in Papierform zur Verfügung.
 
@@ -22,8 +17,7 @@ Diese Verordnung gilt für durchführende Einrichtungen, die der Aufsicht durch 
 
 (3) Soweit die in den Absätzen 1 und 2 genannten Informationen den Versorgungsanwärtern und Versorgungsempfängern nicht in Textform mitgeteilt werden, stellt die durchführende Einrichtung sicher, dass sie den Versorgungsanwärtern und Versorgungsempfängern dauerhaft auf einfache Weise zugänglich sind. Die durchführende Einrichtung teilt den Versorgungsanwärtern und Versorgungsempfängern mit, wo und wie sie diese Informationen erhalten.
 
-
-## § 3 – Allgemeine Informationen zu einem Altersversorgungssystem
+# § 3 – Allgemeine Informationen zu einem Altersversorgungssystem
 
 (1) Die Informationen nach § 234l Absatz 1 des Versicherungsaufsichtsgesetzes umfassen zumindest
 
@@ -63,8 +57,7 @@ b) zur Minderung der Versorgungsansprüche;
 
 (3) Bei Altersversorgungssystemen, bei denen die Versorgungsanwärter ganz oder teilweise das Anlagerisiko tragen und die mehrere Optionen mit verschiedenen Anlageprofilen umfassen, ist auch darüber zu informieren, welche Bedingungen für die angebotenen Anlageoptionen und gegebenenfalls für die Standardanlageoption gelten. Werden auf Grund von Bestimmungen des Altersversorgungssystems die Anlageoptionen den einzelnen Versorgungsanwärtern zugewiesen, sind Angaben zu diesen Bestimmungen zu machen.
 
-
-## § 4 – Renteninformation
+# § 4 – Renteninformation
 
 (1) Die Renteninformation nach § 234o Absatz 1 Satz 2 des Versicherungsaufsichtsgesetzes enthält zumindest folgende Informationen:
 
@@ -122,8 +115,7 @@ c) die Erklärung zu den Grundsätzen der Anlagepolitik;
 
 (4) Wird bei einem Altersversorgungssystem nach § 3 Absatz 3 Satz 2 dem Versorgungsanwärter eine Anlageoption zugewiesen, hat die Renteninformation darüber Angaben zu machen, wo zusätzliche Informationen erhältlich sind.
 
-
-## § 5 – Information der Versorgungsempfänger
+# § 5 – Information der Versorgungsempfänger
 
 (1) Dem Versorgungsempfänger werden mindestens alle fünf Jahre die in § 234p Absatz 1 des Versicherungsaufsichtsgesetzes genannten Informationen übermittelt.
 
@@ -133,18 +125,15 @@ c) die Erklärung zu den Grundsätzen der Anlagepolitik;
 
 2. die Kosten der Vermögensverwaltung sowie sonstige mit der Anlage verbundene Kosten.
 
-
-## § 6 – Zusätzliche Informationen vor dem Beitritt zu einem Altersversorgungssystem
+# § 6 – Zusätzliche Informationen vor dem Beitritt zu einem Altersversorgungssystem
 
 Versorgungsanwärter, die nicht automatisch in das Altersversorgungssystem aufgenommen werden, erhalten die in § 3 Absatz 1 Nummer 9 und Absatz 2 bezeichneten Informationen vor dem Beitritt zum Altersversorgungssystem.
 
-
-## § 7 – Information auf Anfrage
+# § 7 – Information auf Anfrage
 
 Die durchführende Einrichtung stellt den Versorgungsanwärtern und Versorgungsempfängern auf Anfrage die in § 4 Absatz 3 Nummer 2 genannten Unterlagen zur Verfügung. Versorgungsanwärter erhalten auf Anfrage auch die Informationen zu den Annahmen, die den Projektionen nach § 234o Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes zugrunde liegen.
 
-
-## § 8 – Projektion der Altersversorgungsleistungen
+# § 8 – Projektion der Altersversorgungsleistungen
 
 (1) Für die Projektion der Altersversorgungsleistungen nach § 234o Absatz 3 Satz 1 des Versicherungsaufsichtsgesetzes müssen angemessene Annahmen verwendet werden, die alle wesentlichen Faktoren berücksichtigen, die sich auf die Höhe der Leistungen an die Versorgungsempfänger auswirken können.
 
@@ -164,7 +153,6 @@ Die Altersversorgungsleistungen werden dabei unter der Voraussetzung bestimmt, d
 
 (6) In die Renteninformation können weitere Projektionen aufgenommen werden.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

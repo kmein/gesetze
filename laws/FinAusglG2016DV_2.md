@@ -1,15 +1,11 @@
-# [FinAusglG2016DV 2] Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2016
-
-Ausfertigungsdatum: 21.09.2018
-
+% Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2016
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2016
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2016
 
 Für das Ausgleichsjahr 2016 werden als Länderanteile an der Umsatzsteuer festgestellt:  
   
@@ -33,8 +29,7 @@ Für das Ausgleichsjahr 2016 werden als Länderanteile an der Umsatzsteuer festg
 | für Schleswig-Holstein     |   3 652 491 948,83 Euro |
 | für Thüringen              |  4 146 815 349,49 Euro. |
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2016
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2016
 
 Für das Ausgleichsjahr 2016 wird der Finanzausgleich unter den Ländern wie folgt festgestellt:  
   
@@ -70,8 +65,7 @@ Für das Ausgleichsjahr 2016 wird der Finanzausgleich unter den Ländern wie fol
 | an Schleswig-Holstein     |    237 112 640,67 Euro |
 | an Thüringen              |   609 593 443,36 Euro. |
 
-
-## § 3 – Abschlusszahlungen für 2016
+# § 3 – Abschlusszahlungen für 2016
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1, den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Finanzausgleichsgesetzes mit dem Inkrafttreten dieser Verordnung fällig:  
   
@@ -107,12 +101,10 @@ Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgül
 | an das Saarland       |    7 490 496,60 Euro |
 | an Schleswig-Holstein |  49 217 221,88 Euro. |
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2016 vom 18. März 2016 (BGBl. I S. 514) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

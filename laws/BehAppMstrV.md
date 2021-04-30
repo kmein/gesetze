@@ -1,20 +1,15 @@
-# [BehAppMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Behälter- und Apparatebauer-Handwerk  (Behälter- und Apparatebauermeisterverordnung - BehAppMstrV)
-
-Ausfertigungsdatum: 30.04.2013
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Behälter- und Apparatebauer-Handwerk  (Behälter- und Apparatebauermeisterverordnung - BehAppMstrV)
+% Ausfertigungsdatum: 30.04.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Die Meisterprüfung besteht aus vier selbständigen Prüfungsteilen. Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im zulassungspflichtigen Behälter- und Apparatebauer-Handwerk.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 Im Behälter- und Apparatebauer-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
@@ -50,8 +45,7 @@ Im Behälter- und Apparatebauer-Handwerk sind zum Zwecke der Meisterprüfung fol
 
 16. durchgeführte Leistungen abnehmen und dokumentieren sowie Nachkalkulationen durchführen und Auftragsabwicklungen auswerten.
 
-
-## § 3 – Ziel und Gliederung des Teils I
+# § 3 – Ziel und Gliederung des Teils I
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei wesentliche Tätigkeiten des Behälter- und Apparatebauer-Handwerks meisterhaft verrichten kann.
 
@@ -61,8 +55,7 @@ Im Behälter- und Apparatebauer-Handwerk sind zum Zwecke der Meisterprüfung fol
 
 2. eine Situationsaufgabe.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen werden vom Meisterprüfungsausschuss festgelegt. Hierzu sollen Vorschläge des Prüflings berücksichtigt werden. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept einschließlich einer Zeit- und Materialbedarfsplanung. Dieses hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Anforderungen entspricht.
 
@@ -80,8 +73,7 @@ Die durchgeführten Arbeiten sind zu kontrollieren und zu dokumentieren.
 
 (4) Die Planungsunterlagen, bestehend aus Entwurf, Berechnung und Kalkulation, werden mit 35 Prozent, die durchgeführten Arbeiten mit 50 Prozent und die Kontroll- und Dokumentationsunterlagen, bestehend aus Messprotokollen und Prüfberichten, mit 15 Prozent gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
@@ -91,8 +83,7 @@ Die durchgeführten Arbeiten sind zu kontrollieren und zu dokumentieren.
 
 3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Behälter- und Apparatebauer-Handwerk.
 
@@ -102,8 +93,7 @@ Die durchgeführten Arbeiten sind zu kontrollieren und zu dokumentieren.
 
 2. Fehler an einer Rohrleitung oder an einer Kupferschmiedearbeit nach vorgegebener Zeichnung ermitteln und bewerten, Reparaturkonzept erstellen sowie ein Teilelement für die Instandsetzung anfertigen und prüfen.
 
-
-## § 7 – Prüfungsdauer und Bestehen des Teils I
+# § 7 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert sieben Arbeitstage. Das Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe höchstens acht Stunden dauern.
 
@@ -111,8 +101,7 @@ Die durchgeführten Arbeiten sind zu kontrollieren und zu dokumentieren.
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 8 – Ziel, Gliederung und Inhalt des Teils II
+# § 8 – Ziel, Gliederung und Inhalt des Teils II
 
 (1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2 Satz 2 Nummer 1 bis 4 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er die erforderlichen fachtheoretischen Kenntnisse im Behälter- und Apparatebauer-Handwerk zur Lösung komplexer beruflicher Aufgabenstellungen anwenden kann.
 
@@ -204,8 +193,7 @@ i) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen, Konse
 
 § 8 Abs. 2 Nr. 3 Buchst. f Kursivdruck: Müsste richtig lauten "Arbeitsprozessplanung"
 
-
-## § 9 – Prüfungsdauer und Bestehen des Teils II
+# § 9 – Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -219,19 +207,16 @@ i) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen, Konse
 
 2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
-
-## § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Ein Prüfungsverfahren, das vor Ablauf des 13. Februar 2020 begonnen worden ist, ist nach den bis zum Ablauf dieses Tages geltenden Vorschriften durch den nach § 47 der Handwerksordnung errichteten Meisterprüfungsausschuss fortzuführen.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt die Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen Teil und im fachtheoretischen Teil der Meisterprüfung für das Kupferschmiede-Handwerk vom 28. August 1974 (BGBl. I S. 2142) außer Kraft.

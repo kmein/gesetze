@@ -1,15 +1,11 @@
-# [KStoffIndMeistPrV 2014] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
-
-Ausfertigungsdatum: 13.05.2014
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk und Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk
+% Ausfertigungsdatum: 13.05.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum „Geprüften Industriemeister – Fachrichtung Kunststoff und Kautschuk“ und zur „Geprüften Industriemeisterin – Fachrichtung Kunststoff und Kautschuk“ erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 8 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -29,8 +25,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Industriemeister – Fachrichtung Kunststoff und Kautschuk“ oder „Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk“.
 
-
-## § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum „Geprüften Industriemeister – Fachrichtung Kunststoff und Kautschuk“ und zur „Geprüften Industriemeisterin – Fachrichtung Kunststoff und Kautschuk“ umfasst:
 
@@ -50,8 +45,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Im Prüfungsteil nach Absatz 3 Nummer 1 ist schriftlich in Form von anwendungsbezogenen Aufgabenstellungen nach § 4 zu prüfen. Im Prüfungsteil nach Absatz 3 Nummer 2 ist schriftlich in Form von die Handlungsbereiche integrierenden Situationsaufgaben sowie mündlich in Form eines situationsbezogenen Fachgesprächs nach § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -71,8 +65,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Fachrichtungsübergreifende Basisqualifikationen
+# § 4 – Fachrichtungsübergreifende Basisqualifikationen
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -156,8 +149,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die folgenden Handlungsbereiche:
 
@@ -429,15 +421,13 @@ d) Umsetzen der Qualitätsmanagementziele.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -455,8 +445,7 @@ Aus den einzelnen Bewertungen wird als Bewertung für den Prüfungsteil das arit
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist insgesamt bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -484,8 +473,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -499,8 +487,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -508,22 +495,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die bis zum Ablauf des 30. Juni 2014 begonnenen Prüfungsverfahren zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk, zum Abschluss Industriemeister/Industriemeisterin Faserverbundkunststoffe sowie zum Abschluss Geprüfte Industriemeisterin/Geprüfter Industriemeister – Fachrichtung Faserverbundtechnologie können nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die zuständige Stelle die Wiederholungsprüfung auch nach dieser Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall keine Anwendung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Kunststoff und Kautschuk vom 27. Juni 1984 (BGBl. I S. 847), die zuletzt durch Artikel 28 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2397 – 2398)
 
@@ -532,8 +516,7 @@ Diese Verordnung tritt am 1. Juli 2014 in Kraft. Gleichzeitig tritt die Verordnu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2398 – 2399)
 

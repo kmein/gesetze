@@ -1,15 +1,11 @@
-# [EuTerrorÜbkG] Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus
-
-Ausfertigungsdatum: 28.03.1978
-
+% Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus
+% Ausfertigungsdatum: 28.03.1978
  
-
-## Art 1
+# Art 1
 
 Dem in Straßburg am 27. Januar 1977 von der Bundesrepublik Deutschland unterzeichneten Europäischen Übereinkommen zur Bekämpfung des Terrorismus wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Bei der Prüfung der Zulässigkeit der Auslieferung ist eine schwere Gewalttat im Sinne des Artikels 2 Abs. 1 des Übereinkommens oder eine schwere Straftat im Sinne des Artikels 2 Abs. 2 des Übereinkommens nicht als eine politische Straftat, als eine mit einer solchen zusammenhängende oder als eine auf politischen Beweggründen beruhende Straftat anzusehen, wenn die Tat bei Abwägung aller Umstände, insbesondere der Beweggründe des Täters sowie der Art ihrer Ausführung und ihrer verschuldeten Auswirkungen, kein angemessenes Mittel ist, das mit ihr erstrebte Ziel zu erreichen. Dies ist in der Regel der Fall,
 
@@ -21,13 +17,11 @@ Bei der Prüfung der Zulässigkeit der Auslieferung ist eine schwere Gewalttat i
 
 worden ist.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

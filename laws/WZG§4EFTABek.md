@@ -1,22 +1,17 @@
-# [WZG§4EFTABek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 16.05.1968
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 16.05.1968
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29) wird bekanntgemacht, daß die in der Anlage wiedergegebenen Bezeichnungen und Kennzeichen der Europäischen Freihandelsassoziation sowie der Assoziation zwischen den Mitgliedstaaten der Europäischen Freihandelsassoziation und der Republik Finnland von der Eintragung als Warenzeichen ausgeschlossen sind.
 
 (2) Die Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 8. März 1968 (Bundesgesetzblatt I S. 212).
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 1968, 479;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -106,9 +101,4 @@ Emblem No. 2 - Embleme No 2
 Fundstelle: BGBl. I 1968, 479)
 
   
-Die Bezeichnung Nr. 1 wird schwarz-weiß oder mit den Flaggen in den Nationalfarben benutzt.  
-Emblem No. 1 is used in black and white or with the flags shown in their national colours.  
-L'embleme No 1 est en usage en noir et blanc ou avec les drapeaux dans leurs couleurs nationales.  
-Die Bezeichnung Nr. 2 wird schwarz-weiß oder farbig benutzt.  
-Emblem No. 2 is used in black and white or in various colours.  
-L'embleme No 2 est en usage en noir et blanc ou en differentes couleurs.
+Die Bezeichnung Nr. 1 wird schwarz-weiß oder mit den Flaggen in den Nationalfarben benutzt. Emblem No. 1 is used in black and white or with the flags shown in their national colours. L'embleme No 1 est en usage en noir et blanc ou avec les drapeaux dans leurs couleurs nationales. Die Bezeichnung Nr. 2 wird schwarz-weiß oder farbig benutzt. Emblem No. 2 is used in black and white or in various colours. L'embleme No 2 est en usage en noir et blanc ou en differentes couleurs.

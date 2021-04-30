@@ -1,17 +1,13 @@
-# [BBPlG] Gesetz über den Bundesbedarfsplan  (Bundesbedarfsplangesetz - BBPlG)
-
-Ausfertigungsdatum: 23.07.2013
-
+% Gesetz über den Bundesbedarfsplan  (Bundesbedarfsplangesetz - BBPlG)
+% Ausfertigungsdatum: 23.07.2013
  
-
-## § 1 – Gegenstand des Bundesbedarfsplans
+# § 1 – Gegenstand des Bundesbedarfsplans
 
 (1) Für die in der Anlage zu diesem Gesetz aufgeführten Vorhaben, die der Anpassung, Entwicklung und dem Ausbau der Übertragungsnetze zur Einbindung von Elektrizität aus erneuerbaren Energiequellen, zur Interoperabilität der Elektrizitätsnetze innerhalb der Europäischen Union, zum Anschluss neuer Kraftwerke oder zur Vermeidung struktureller Engpässe im Übertragungsnetz dienen, werden die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur Gewährleistung eines sicheren und zuverlässigen Netzbetriebs als Bundesbedarfsplan gemäß § 12e des Energiewirtschaftsgesetzes festgestellt. Die Realisierung dieser Vorhaben ist aus Gründen eines überragenden öffentlichen Interesses und im Interesse der öffentlichen Sicherheit erforderlich.
 
 (2) Zu den Vorhaben nach Absatz 1 gehören auch die für den Betrieb von Energieleitungen notwendigen Anlagen einschließlich der notwendigen Änderungen an den Netzverknüpfungspunkten. Die Vorhaben beginnen und enden jeweils an den Netzverknüpfungspunkten.
 
-
-## § 2 – Gekennzeichnete Vorhaben
+# § 2 – Gekennzeichnete Vorhaben
 
 (1) Die im Bundesbedarfsplan mit „A1“ gekennzeichneten Vorhaben sind länderübergreifend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz. Die im Bundesbedarfsplan mit „A2“ gekennzeichneten Vorhaben sind grenzüberschreitend im Sinne von § 2 Absatz 1 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz.
 
@@ -29,8 +25,7 @@ Ausfertigungsdatum: 23.07.2013
 
 (8) Bei den im Bundesbedarfsplan mit „H“ gekennzeichneten Vorhaben stehen die energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf für Leerrohre fest, die nach Maßgabe des § 18 Absatz 3 des Netzausbaubeschleunigungsgesetzes Übertragungsnetz zugelassen werden.
 
-
-## § 3 – Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
+# § 3 – Erdkabel für Leitungen zur Höchstspannungs-Gleichstrom-Übertragung
 
 (1) Leitungen zur Höchstspannungs-Gleichstrom-Übertragung der im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhaben sind nach Maßgabe dieser Vorschrift als Erdkabel zu errichten und zu betreiben oder zu ändern.
 
@@ -58,8 +53,7 @@ Satz 1 ist weder für die nachträgliche Änderung oder Erweiterung der Leitung 
 
 (6) Für Leitungen zur Höchstspannungs-Drehstrom-Übertragung, die der Anbindung von Stromrichteranlagen im Rahmen des im Bundesbedarfsplan mit „E“ gekennzeichneten Vorhabens dienen, ist § 4 entsprechend anzuwenden.
 
-
-## § 4 – Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
+# § 4 – Erdkabel für Leitungen zur Höchstspannungs-Drehstrom-Übertragung
 
 (1) Um den Einsatz von Erdkabeln im Drehstrom-Übertragungsnetz als Pilotprojekte zu testen, können die im Bundesbedarfsplan mit „F“ gekennzeichneten Vorhaben zur Höchstspannungs-Drehstrom-Übertragung nach Maßgabe dieser Vorschrift als Erdkabel errichtet und betrieben oder geändert werden.
 
@@ -83,8 +77,7 @@ Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach
 
 (+++ § 4: Zur Anwendung vgl. § 3 Abs. 6 +++)
 
-
-## § 5 – Berichtspflicht der Übertragungsnetzbetreiber
+# § 5 – Berichtspflicht der Übertragungsnetzbetreiber
 
 (1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen Erfahrungen legt der jeweils verantwortliche Betreiber des Übertragungsnetzes der Bundesnetzagentur jährlich einen Bericht vor, in dem die technische Durchführbarkeit, Wirtschaftlichkeit und Umweltauswirkungen dieser Vorhaben bewertet werden. Der erste Bericht ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten Teilabschnitts eines solchen Vorhabens vorzulegen.
 
@@ -92,8 +85,7 @@ Der Einsatz von Erdkabeln ist auch dann zulässig, wenn die Voraussetzungen nach
 
 (3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem Bundesministerium für Wirtschaft und Energie über den Sachstand bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
 
-
-## § 6 – Rechtsschutz
+# § 6 – Rechtsschutz
 
 Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50 Absatz 1 Nummer 6 der Verwaltungsgerichtsordnung anzuwenden. Dies ist auch anzuwenden für
 
@@ -101,8 +93,7 @@ Für die in den Bundesbedarfsplan aufgenommenen Vorhaben ist § 50 Absatz 1 Numm
 
 2. Genehmigungen nach dem Bundes-Immissionsschutzgesetz für Stromrichteranlagen, die dem Betrieb von Vorhaben aus dem Bundesbedarfsplan dienen.
 
-
-## Anlage (zu § 1 Absatz 1) – Bundesbedarfsplan
+# Anlage (zu § 1 Absatz 1) – Bundesbedarfsplan
 
 (Fundstelle: BGBl. I 2015, 2495 - 2497;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

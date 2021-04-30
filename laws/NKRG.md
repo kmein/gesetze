@@ -1,10 +1,7 @@
-# [NKRG] Gesetz zur Einsetzung eines Nationalen Normenkontrollrates
-
-Ausfertigungsdatum: 14.08.2006
-
+% Gesetz zur Einsetzung eines Nationalen Normenkontrollrates
+% Ausfertigungsdatum: 14.08.2006
  
-
-## § 1 – Einsetzung eines Nationalen Normenkontrollrates
+# § 1 – Einsetzung eines Nationalen Normenkontrollrates
 
 (1) Beim Bundeskanzleramt wird ein Nationaler Normenkontrollrat mit Dienstsitz in Berlin eingerichtet. Er ist nur an den durch dieses Gesetz begründeten Auftrag gebunden und in seiner Tätigkeit unabhängig.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (4) Die angestrebten Ziele und Zwecke von Regelungen sind nicht Gegenstand der Prüfungen des Nationalen Normenkontrollrates.
 
-
-## § 2 – Erfüllungsaufwand
+# § 2 – Erfüllungsaufwand
 
 (1) Der Erfüllungsaufwand umfasst den gesamten messbaren Zeitaufwand und die Kosten, die durch die Befolgung einer bundesrechtlichen Vorschrift bei Bürgerinnen und Bürgern, Wirtschaft sowie der öffentlichen Verwaltung entstehen.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (4) Bei der erstmaligen Ermittlung der für die Durchführung der Messung bei Unternehmen notwendigen Kennziffern (Kosten pro Einheit, Zeit pro einzelner durch das Gesetz ausgelöster Aktivität sowie deren Häufigkeit pro Jahr und Anzahl der betroffenen Unternehmen) sind alle Bürokratiekosten zu berücksichtigen, die auf Bundesrecht beruhen.
 
-
-## § 3 – Zusammensetzung und Organisation des Nationalen Normenkontrollrates
+# § 3 – Zusammensetzung und Organisation des Nationalen Normenkontrollrates
 
 (1) Der Nationale Normenkontrollrat besteht aus zehn Mitgliedern. Der Bundeskanzler schlägt sie im Einvernehmen mit den anderen Mitgliedern der Bundesregierung dem Bundespräsidenten vor. Dieser beruft die Vorgeschlagenen für eine Amtszeit von fünf Jahren. Eine erneute Berufung ist zulässig. Die Mitglieder sind berechtigt, ihr Amt durch Erklärung gegenüber dem Bundespräsidenten niederzulegen. Scheidet ein Mitglied vorzeitig aus, so wird ein neues Mitglied für die Dauer der Amtszeit des ausgeschiedenen Mitglieds berufen. Satz 2 gilt entsprechend.
 
@@ -52,8 +47,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (12) Die Kosten des Nationalen Normenkontrollrates trägt der Bund. Dem Nationalen Normenkontrollrat ist die für die Erfüllung seiner Aufgaben notwendige Personal- und Sachausstattung zur Verfügung zu stellen. Die Stelle des Leiters des Sekretariats ist im Einvernehmen mit dem Nationalen Normenkontrollrat zu besetzen. Die Stellen der Mitarbeiter des Sekretariats sind im Einvernehmen mit dem Vorsitzenden des Nationalen Normenkontrollrates zu besetzen. Die Angehörigen des Sekretariats können, falls sie mit der beabsichtigten Maßnahme nicht einverstanden sind, nur im Einvernehmen mit dem Vorsitzenden des Nationalen Normenkontrollrates versetzt, abgeordnet oder umgesetzt werden.
 
-
-## § 4 – Aufgaben des Nationalen Normenkontrollrates
+# § 4 – Aufgaben des Nationalen Normenkontrollrates
 
 (1) Dem Prüfungsrecht des Nationalen Normenkontrollrates unterliegen:
 
@@ -87,8 +81,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (5) Unberührt bleiben die Prüfungskompetenz des Bundesrechnungshofs und des Bundesbeauftragten für die Wirtschaftlichkeit in der Verwaltung.
 
-
-## § 5 – Befugnisse des Nationalen Normenkontrollrates
+# § 5 – Befugnisse des Nationalen Normenkontrollrates
 
 (1) Der Nationale Normenkontrollrat ist berechtigt,
 
@@ -102,8 +95,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (2) Behörden des Bundes und die Länder leisten dem Normenkontrollrat Amtshilfe.
 
-
-## § 6 – Pflichten des Nationalen Normenkontrollrates
+# § 6 – Pflichten des Nationalen Normenkontrollrates
 
 (1) Der Nationale Normenkontrollrat gibt seine Stellungnahmen zu den Gesetzentwürfen nicht öffentlich ab. Diese Stellungnahmen und die Stellungnahmen der Bundesregierung dazu werden dem Gesetzentwurf bei der Einbringung in den Bundestag beziehungsweise bei der Zuleitung an den Bundesrat beigefügt.
 
@@ -111,8 +103,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (3) Der Nationale Normenkontrollrat steht den federführenden und den mitberatenden ständigen Ausschüssen des Bundestages und des Bundesrates zur Beratung zur Verfügung.
 
-
-## § 7 – Pflichten der Bundesregierung
+# § 7 – Pflichten der Bundesregierung
 
 Die Bundesregierung erstattet dem Deutschen Bundestag jährlich einen Bericht über
 
@@ -124,12 +115,10 @@ Die Bundesregierung erstattet dem Deutschen Bundestag jährlich einen Bericht ü
 
 4. die Ergebnisse und Fortentwicklung auf dem Gebiet der besseren Rechtsetzung.
 
-
-## § 8 – Aufgaben des Statistischen Bundesamtes
+# § 8 – Aufgaben des Statistischen Bundesamtes
 
 Das Statistische Bundesamt unterstützt bei Bedarf Bundesregierung, Bundestag und Bundesrat bei den sich aus diesem Gesetz ergebenden Aufgaben, insbesondere durch Auswertung vorliegender Daten und die Durchführung von Aufwandsschätzungen. Es ist für den Aufbau und die Pflege der Datenbanken zuständig, die für Berichterstattung und Erfolgskontrolle im Sinne dieses Gesetzes erforderlich sind.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

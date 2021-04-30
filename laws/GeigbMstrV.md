@@ -1,15 +1,11 @@
-# [GeigbMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Geigenbauer-Handwerk  (Geigenbauermeisterverordnung - GeigbMstrV)
-
-Ausfertigungsdatum: 26.01.1998
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Geigenbauer-Handwerk  (Geigenbauermeisterverordnung - GeigbMstrV)
+% Ausfertigungsdatum: 26.01.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt gemäß Artikel 33 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Geigenbauer-Handwerk sind folgende Tätigkeiten zuzurechnen:  
 Entwurf, Herstellung, Instandhaltung und Restaurierung von Streichinstrumenten, insbesondere von Geigen, Bratschen, Celli, Kontrabässen und Gamben.
@@ -76,8 +72,7 @@ Entwurf, Herstellung, Instandhaltung und Restaurierung von Streichinstrumenten, 
 
 30. Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und Maschinen.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -85,8 +80,7 @@ Entwurf, Herstellung, Instandhaltung und Restaurierung von Streichinstrumenten, 
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten anzufertigen:
 
@@ -106,8 +100,7 @@ Entwurf, Herstellung, Instandhaltung und Restaurierung von Streichinstrumenten, 
 
 (4) Die technische Zeichnung und die Kalkulation sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten, davon in jedem Fall die nach Nummer 1, auszuführen:
 
@@ -133,8 +126,7 @@ Entwurf, Herstellung, Instandhaltung und Restaurierung von Streichinstrumenten, 
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -182,18 +174,15 @@ Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Fak
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. April 1998 in Kraft.
 

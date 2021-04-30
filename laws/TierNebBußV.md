@@ -1,10 +1,7 @@
-# [TierNebBußV] Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002  (Tierische Nebenprodukte-Bußgeldverordnung)
-
-Ausfertigungsdatum: 22.12.2005
-
+% Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002  (Tierische Nebenprodukte-Bußgeldverordnung)
+% Ausfertigungsdatum: 22.12.2005
  
-
-## § 1
+# § 1
 
 Ordnungswidrig im Sinne des § 14 Abs. 1 Nr. 9 des Tierische Nebenprodukte-Beseitigungsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 1774/2002 des Europäischen Parlaments und des Rates vom 3. Oktober 2002 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte (ABl. EG Nr. L 273 S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 777/2008 vom 4. August 2008 (ABl. L 207 vom 5.8.2008, S. 9), verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -16,8 +13,7 @@ b) verbrennt oder
 
 c) mitverbrennt,
 
-1a.  
-entgegen Artikel 4 Absatz 2 Buchstabe b oder Buchstabe c, jeweils in Verbindung mit Anhang VI Kapitel I Buchstabe C Nummer 10 Buchstabe b, als derjenige, der nach § 3 Absatz 1 Satz 3 des Tierische Nebenprodukte-Beseitigungsgesetzes als Dritter beteiligt ist oder dem nach § 3 Absatz 2 Satz 1 des Tierische Nebenprodukte-Beseitigungsgesetzes eine dort genannte Pflicht übertragen worden ist, ein verarbeitetes Erzeugnis nicht, nicht richtig oder nicht vollständig vor dem Verbringen aus dem Verarbeitungsbetrieb kennzeichnet,
+1a. entgegen Artikel 4 Absatz 2 Buchstabe b oder Buchstabe c, jeweils in Verbindung mit Anhang VI Kapitel I Buchstabe C Nummer 10 Buchstabe b, als derjenige, der nach § 3 Absatz 1 Satz 3 des Tierische Nebenprodukte-Beseitigungsgesetzes als Dritter beteiligt ist oder dem nach § 3 Absatz 2 Satz 1 des Tierische Nebenprodukte-Beseitigungsgesetzes eine dort genannte Pflicht übertragen worden ist, ein verarbeitetes Erzeugnis nicht, nicht richtig oder nicht vollständig vor dem Verbringen aus dem Verarbeitungsbetrieb kennzeichnet,
 
 2. entgegen Artikel 4 Abs. 3, Artikel 5 Abs. 3 oder Artikel 6 Abs. 3 Material der Kategorie 1, 2 oder 3 zwischenbehandelt oder zwischenlagert,
 
@@ -35,8 +31,7 @@ e) behandelt oder
 
 f) ausbringt,
 
-3a.  
-entgegen Artikel 5 Absatz 2 Buchstabe b in Verbindung mit Anhang VI Kapitel I Buchstabe C Nummer 10 Buchstabe b als derjenige, der nach § 3 Absatz 1 Satz 3 des Tierische Nebenprodukte-Beseitigungsgesetzes als Dritter beteiligt ist oder dem nach § 3 Absatz 2 Satz 1 des Tierische Nebenprodukte-Beseitigungsgesetzes eine dort genannte Pflicht übertragen worden ist, ein verarbeitetes Erzeugnis nicht, nicht richtig oder nicht vollständig vor dem Verbringen aus dem Verarbeitungsbetrieb kennzeichnet,
+3a. entgegen Artikel 5 Absatz 2 Buchstabe b in Verbindung mit Anhang VI Kapitel I Buchstabe C Nummer 10 Buchstabe b als derjenige, der nach § 3 Absatz 1 Satz 3 des Tierische Nebenprodukte-Beseitigungsgesetzes als Dritter beteiligt ist oder dem nach § 3 Absatz 2 Satz 1 des Tierische Nebenprodukte-Beseitigungsgesetzes eine dort genannte Pflicht übertragen worden ist, ein verarbeitetes Erzeugnis nicht, nicht richtig oder nicht vollständig vor dem Verbringen aus dem Verarbeitungsbetrieb kennzeichnet,
 
 4. entgegen Artikel 6 Abs. 2 Buchstabe a, b, c, d, e oder f als Verfügungsberechtigter Material der Kategorie 3 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
 
@@ -62,8 +57,7 @@ d) verwendet,
 
 11. entgegen Artikel 22 Absatz 1 Buchstabe a oder Buchstabe b eine Art oder ein Nutztier füttert.
 
-
-## § 2
+# § 2
 
 Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 6 des Tierische Nebenprodukte-Beseitigungsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 1774/2002 verstößt, indem er vorsätzlich oder fahrlässig
 

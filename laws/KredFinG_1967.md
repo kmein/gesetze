@@ -1,17 +1,13 @@
-# [KredFinG 1967] Gesetz über die Aufnahme und Bereitstellung von Krediten zur Belebung der Investitionstätigkeit und zur Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967  (Kreditfinanzierungsgesetz 1967)
-
-Ausfertigungsdatum: 11.04.1967
-
+% Gesetz über die Aufnahme und Bereitstellung von Krediten zur Belebung der Investitionstätigkeit und zur Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967  (Kreditfinanzierungsgesetz 1967)
+% Ausfertigungsdatum: 11.04.1967
  
-
-## § 1
+# § 1
 
 (1) Der Bundesminister der Finanzen wird ermächtigt, zur Leistung von Investitionsausgaben zum Zwecke einer Belebung der Investitionstätigkeit und der Sicherung eines stetigen Wirtschaftswachstums im Rechnungsjahr 1967 Geldmittel im Wege des Kredits zu beschaffen, deren Höhe den Betrag von 2.500.000.000 Deutsche Mark nicht überschreiten darf.
 
 (2) Im Rahmen der nach Absatz 1 vorgesehenen Kredite können zur Durchführung zusätzlicher Investitionsmaßnahmen Darlehen gewährt und Darlehensverpflichtungen eingegangen werden.
 
-
-## § 2
+# § 2
 
 (1) Der Bundesminister der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesminister für Wirtschaft mit den nach § 1 beschafften Geldmitteln zusätzliche Investitionsprogramme zu finanzieren, und zwar
 
@@ -60,13 +56,11 @@ bis zum Betrag von 20.000.000 Deutsche Mark.
 
 (2) Bei der Vergabe von Aufträgen sind Gebiete mit überdurchschnittlicher Arbeitslosigkeit bevorzugt zu berücksichtigen.
 
-
-## § 3
+# § 3
 
 Die Investitionsmaßnahmen nach § 2 sind in den außerordentlichen Haushalt des Entwurfs des Haushaltsplans für das Rechnungsjahr 1967 zu übernehmen.
 
-
-## § 4
+# § 4
 
 (1) Die Festlegung des Investitionsprogramms bedarf der Zustimmung des Haushaltsausschusses des Deutschen Bundestages.
 
@@ -90,12 +84,10 @@ bis zum Betrag von 100.000.000 Deutsche Mark
 
 mit dem Inkrafttreten dieses Gesetzes verfügt werden.
 
-
-## § 5
+# § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 6
+# § 6
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

@@ -1,15 +1,11 @@
-# [SaatAufzV] Saatgutaufzeichnungsverordnung
-
-Ausfertigungsdatum: 21.01.1986
-
+% Saatgutaufzeichnungsverordnung
+% Ausfertigungsdatum: 21.01.1986
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Satz 2 des Saatgutverkehrsgesetzes vom 20. August 1985 (BGBl. I S. 1633) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 (1) Wer Saatgut gewerbsmäßig in den Verkehr bringt, abfüllt oder für andere bearbeitet, hat über alle Eingänge und Ausgänge von Saatgut systematische Aufzeichnungen zu machen, denen zu entnehmen sind:
 
@@ -85,8 +81,7 @@ d) jeweils die Kenn-, Partie- oder Mischungsnummer der Kleinpackungen; bei Packu
 
 (4) Werden bei den Aufzeichnungen Schlüsselzahlen oder Schlüsselzeichen verwendet, so müssen sie für die zuständige Behörde klar verständlich sein.
 
-
-## § 2
+# § 2
 
 (1) Bei eingeführtem Saatgut, außer Saatgut aus Vertragsstaaten, muß auch die von der Bundesanstalt für Landwirtschaft und Ernährung für die Partie erteilte Nummer des Bestätigungsvermerks der Einfuhranzeige oder im Falle einer nach § 18 Abs. 2 des Saatgutverkehrsgesetzes genehmigten Einfuhr die Nummer der Genehmigung den Aufzeichnungen desjenigen zu entnehmen sein, in dessen Besitz oder Verfügungsgewalt das Saatgut im Geltungsbereich des Saatgutverkehrsgesetzes zuerst gelangt. Ist bei solchem Saatgut die jeweilige Nummer nach § 1 Abs. 1 Nr. 7 im Zeitpunkt der Aufzeichnung nach § 1 Abs. 1 Nr. 1 und 2 auf Grund besonderer Verhältnisse noch nicht bekannt, so kann an ihre Stelle vorübergehend eine Bezugnahme auf das Transportmittel treten; die Aufzeichnung der Nummer nach § 1 Abs. 1 Nr. 7 ist unverzüglich nachzuholen.
 
@@ -94,17 +89,14 @@ d) jeweils die Kenn-, Partie- oder Mischungsnummer der Kleinpackungen; bei Packu
 
 (3) Die jeweilige Nummer nach Absatz 1 Satz 1 oder § 1 Abs. 1 Nr. 7 kann entfallen, wenn sie sich aus sonstigen Geschäftsunterlagen des aufzeichnungspflichtigen Betriebes nachprüfbar ergibt.
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
+# § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

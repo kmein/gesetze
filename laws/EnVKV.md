@@ -1,15 +1,11 @@
-# [EnVKV] Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen  (Energieverbrauchskennzeichnungsverordnung - EnVKV)
-
-Ausfertigungsdatum: 30.10.1997
-
+% Verordnung zur Kennzeichnung von energieverbrauchsrelevanten Produkten mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen  (Energieverbrauchskennzeichnungsverordnung - EnVKV)
+% Ausfertigungsdatum: 30.10.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 des Energieverbrauchskennzeichnungsgesetzes vom 1. Juli 1997 (BGBl. I S. 1632) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die in den Anlagen 1 und 2 genannten energieverbrauchsrelevanten Produkte, die während des Gebrauchs wesentliche unmittelbare oder mittelbare Auswirkungen auf den Verbrauch an Energie und gegebenenfalls an anderen wichtigen Ressourcen haben.
 
@@ -25,8 +21,7 @@ Auf Grund des § 1 Abs. 1 Nr. 1 des Energieverbrauchskennzeichnungsgesetzes vom 
 
 5. Produkte, die ausschließlich zur Verwendung für militärische Zwecke bestimmt sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -68,8 +63,7 @@ Auswirkungen von Produkten, die selbst keine Energie verbrauchen, jedoch währen
 
 10. ist Anzeigemechanismus jeder Bildschirm, einschließlich eines Touchscreens, oder jede sonstige Bildtechnologie zur Anzeige von Internet-Inhalten für Nutzer.
 
-
-## § 3 – Kennzeichnungspflicht
+# § 3 – Kennzeichnungspflicht
 
 (1) Energieverbrauchsrelevante Produkte, die für den Endverbraucher am Verkaufsort zum Kauf, zum Abschluss eines Mietvertrages oder zu ähnlicher entgeltlicher Gebrauchsüberlassung angeboten oder ausgestellt werden, sind nach Maßgabe der §§ 4 und 5 sowie der Anlage 1 und den Verordnungen der Europäischen Union nach Anlage 2 mit Angaben über den Verbrauch an Energie und anderen wichtigen Ressourcen sowie zusätzlichen Angaben zu kennzeichnen.
 
@@ -79,8 +73,7 @@ Auswirkungen von Produkten, die selbst keine Energie verbrauchen, jedoch währen
 
 (4) Eine Kennzeichnungspflicht im Sinne des Absatzes 1 besteht für eingebaute oder installierte Produkte nur dann, wenn dies in Anlage 1 oder einer Verordnung der Europäischen Union nach Anlage 2 bestimmt ist.
 
-
-## § 4 – Etiketten, Datenblätter
+# § 4 – Etiketten, Datenblätter
 
 (1) Lieferanten haben den Händlern Etiketten und Datenblätter unentgeltlich zur Verfügung zu stellen, wenn sie energieverbrauchsrelevante Produkte in Verkehr bringen, die von der in Anlage 1 Satz 1 genannten Richtlinie oder von den in Anlage 2 Abschnitt 1 Absatz 1 genannten Verordnungen erfasst sind. Sie haben dabei zur Verfügung zu stellen
 
@@ -118,13 +111,11 @@ b) sich nicht in einem sie umgebenden Produkt befinden.
 
 (6) Händler haben die in Absatz 1 Satz 2 Nummer 2 Buchstabe b genannten Datenblätter zur Abgabe an den Endnutzer bereitzuhalten, wenn sie energieverbrauchsrelevante Produkte nach Absatz 1 Satz 1 ausstellen.
 
-
-## § 4a – Etiketten für Produkte nach Anlage 1
+# § 4a – Etiketten für Produkte nach Anlage 1
 
 Lieferanten dürfen für die von der Richtlinie nach Anlage 1 erfassten Produkte ein eigenes Lieferverfahren für die Etiketten wählen. Sie dürfen das Etikett insbesondere auch geteilt liefern, und zwar geteilt in ein Grundetikett, das keine gerätespezifische Angaben enthält, und in einen Datenstreifen, der die gerätespezifischen Angaben aufweist. Die Lieferanten müssen dabei sicherstellen, dass die Etiketten jedem Händler auf Anforderung unverzüglich zur Verfügung stehen.
 
-
-## § 4b – Etiketten für Produkte nach Anlage 2
+# § 4b – Etiketten für Produkte nach Anlage 2
 
 (1) Der jeweilige Lieferant hat für die Produkte, die von einer der in Anlage 2 Abschnitt 1 Absatz 1 genannten Delegierten Verordnungen erfasst sind, die erforderlichen Etiketten mitzuliefern.
 
@@ -150,15 +141,13 @@ b) außerhalb des Etiketts die Nennleistung der Lampe anzugeben,
 
 Der Lieferant hat sicherzustellen, dass die erforderlichen Etiketten jedem Händler auf Anforderung unverzüglich zur Verfügung stehen.
 
-
-## § 5 – Nicht ausgestellte Produkte
+# § 5 – Nicht ausgestellte Produkte
 
 (1) Werden Produkte, die von der in Anlage 1 Satz 1 genannten Richtlinie oder den in Anlage 2 Abschnitt 1 Absatz 1 genannten Verordnungen erfasst sind, über den Versandhandel, in Katalogen, über das Internet, über Telefonmarketing oder auf einem anderen Weg durch Lieferanten und Händler angeboten, bei dem Interessenten die Produkte nicht ausgestellt sehen, haben die Lieferanten und Händler den Interessenten vor Vertragsschluss Kenntnis von den erforderlichen Angaben nach Anlage 1 Nummer 3, 6 und 7 oder den vorgenannten Verordnungen zu geben.
 
 (2) Werden Produkte, die von einer in Anlage 2 Abschnitt 1 Absatz 1 genannten Verordnung erfasst sind, über das Internet zum Verkauf, zur Vermietung oder zum Mietkauf angeboten, haben die Händler die elektronischen Etiketten und Datenblätter nach § 4 Absatz 2 auf dem Anzeigemechanismus in der Nähe des Produktpreises darzustellen. Sie haben dabei Etiketten und Datenblätter nach den Anforderungen derjenigen vorgenannten Verordnung darzustellen, die für die jeweilige Produktgruppe maßgeblich ist.
 
-
-## § 6 – Technische Dokumentation
+# § 6 – Technische Dokumentation
 
 (1) Soweit eine Kennzeichnungspflicht nach § 3 besteht, hat der Lieferant für das einzelne Produktmodell eine technische Dokumentation nach Maßgabe der Ziffer 8 der Anlage 1 oder nach Maßgabe der in Anlage 2 genannten Verordnungen der Europäischen Union zu erstellen, anhand derer die Richtigkeit der auf dem Etikett und im Datenblatt gemachten Angaben überprüft werden kann.
 
@@ -166,8 +155,7 @@ Der Lieferant hat sicherzustellen, dass die erforderlichen Etiketten jedem Händ
 
 (3) Der Lieferant stellt die technische Dokumentation den zuständigen Marktüberwachungsbehörden, den Marktüberwachungsbehörden der Mitgliedstaaten der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum und der Europäischen Kommission auf Verlangen nach Eingang eines Antrags innerhalb von zehn Arbeitstagen in elektronischer Form zur Verfügung.
 
-
-## § 6a – Anforderungen an die Werbung
+# § 6a – Anforderungen an die Werbung
 
 Sofern in der Werbung für ein bestimmtes Produktmodell Informationen über den Energieverbrauch oder über den Preis angegeben werden, haben die Lieferanten und Händler sicherzustellen, dass bei der Werbung für dieses Produktmodell hingewiesen wird
 
@@ -177,8 +165,7 @@ Sofern in der Werbung für ein bestimmtes Produktmodell Informationen über den 
 
 Bei Leuchten, die von der in Anlage 2 Abschnitt 1 Absatz 1 Nummer 7 genannten Verordnung erfasst sind, haben Lieferanten und Händler lediglich sicherzustellen, dass bei Werbung nach Satz 1 die Informationen, die das Etikett enthält, nach Maßgabe der vorgenannten Verordnung bereitgestellt werden. Bei Haushaltsbacköfen und -dunstabzugshauben, die von der in Anlage 2 Abschnitt 1 Absatz 1 Nummer 11 genannten Verordnung erfasst sind, ist Satz 1 bei Händlern nur auf Werbung für den Fernabsatz und für die Fernvermarktung anzuwenden.
 
-
-## § 6b – Anforderungen an technische Werbeschriften
+# § 6b – Anforderungen an technische Werbeschriften
 
 Sofern in der technischen Werbeschrift für ein Produktmodell die spezifischen technischen Parameter des Produktmodells beschrieben werden, haben Lieferanten und Händler sicherzustellen, dass in derselben technischen Werbeschrift auch
 
@@ -192,13 +179,11 @@ b) auf das Spektrum der Effizienzklassen, das für dieses Produktmodell auf dem 
 
 Bei Leuchten, die von der in Anlage 2 Abschnitt 1 Absatz 1 Nummer 7 genannten Verordnung erfasst sind, haben Lieferanten und Händler lediglich sicherzustellen, dass in technischen Werbeschriften nach Satz 1 die Informationen, die das Etikett enthält, nach Maßgabe der vorgenannten Verordnung bereitgestellt werden.
 
-
-## § 7 – Missbräuchliche Verwendung von Bezeichnungen
+# § 7 – Missbräuchliche Verwendung von Bezeichnungen
 
 Es ist verboten, Marken, Symbole, Beschriftungen oder andere Etiketten zu verwenden, die nicht im Einklang mit den Anforderungen an die Kennzeichnung nach § 3 Absatz 1 stehen und die geeignet sind, beim Endverbraucher zur Verwechslung mit einer Kennzeichnung nach § 3 Absatz 1 zu führen oder beim Endverbraucher zu einer Irreführung oder Unklarheit hinsichtlich des Verbrauchs an Energie oder an anderen wichtigen Ressourcen während des Gebrauchs führen. Dieses Verbot gilt nicht für von der Europäischen Union vorgegebene oder einzelstaatliche Umweltkennzeichnungsregelungen.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des Energieverbrauchskennzeichnungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -236,21 +221,17 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des Energieverbrauchskennzei
 
 17. entgegen § 7 Satz 1 eine dort genannte Bezeichnung verwendet.
 
+# § 9 – (weggefallen)
 
-## § 9 – (weggefallen)
-
-
-## § 10
+# § 10
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – Kennzeichnungspflicht für Wasch-Trockenautomaten
+# Anlage 1 – Kennzeichnungspflicht für Wasch-Trockenautomaten
 
 (Fundstelle: BGBl. I 2014, 1653 — 1654)
 
@@ -298,8 +279,7 @@ d) Berichte über Messungen, die auf Grundlage der europäischen Normen durchgef
 
 e) Bedienungsanleitungen, wenn sie zu dem Gerät mitgeliefert werden.
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2021, 311 - 313)
 

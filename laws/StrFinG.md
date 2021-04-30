@@ -1,20 +1,15 @@
-# [StrFinG] Straßenbaufinanzierungsgesetz
-
-Ausfertigungsdatum: 28.03.1960
-
+% Straßenbaufinanzierungsgesetz
+% Ausfertigungsdatum: 28.03.1960
  
-
-## Art 1 – Zweckbindung des Aufkommens der Mineralölsteuer
+# Art 1 – Zweckbindung des Aufkommens der Mineralölsteuer
 
 Das Aufkommen an Mineralölsteuer, ausgenommen das Aufkommen aus der Besteuerung der Schweröle und Reinigungsextrakte nach § 8 Abs. 2 des Mineralölsteuergesetzes, ist im Rechnungsjahr 1964 in Höhe von 46 vom Hundert, im Rechnungsjahr 1965 in Höhe von 48 vom Hundert und in den folgenden Rechnungsjahren in Höhe von 50 vom Hundert für Zwecke des Straßenwesens zu verwenden. Dies gilt nicht für das Mehraufkommen an Mineralölsteuer, das sich infolge der Änderung von §§ 2, 8 Abs. 2 und § 15b des Mineralölsteuergesetzes durch Artikel 1 Nr. 2, 8 und 19 des Verbrauchsteueränderungsgesetzes 1988 vom 20. Dezember 1988 (BGBl. I S. 2270) und der Änderung von §§ 2, 8 Abs. 2 und § 15b des Mineralölsteuergesetzes durch Artikel 3 Nr. 1, 2 und 5 des Gesetzes vom 24. Juni 1991 (BGBl. I S. 1318) ergibt.
 
-
-## Art 2 – Vorfinanzierung
+# Art 2 – Vorfinanzierung
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Vorgriff auf das zweckgebundene Aufkommen an Mineralölsteuer späterer Rechnungsjahre Kredite bis zu einem jeweils durch das Haushaltsgesetz zu bestimmenden Betrag aufzunehmen.
 
-
-## Art 3 – Verwendung der Straßenbaumittel
+# Art 3 – Verwendung der Straßenbaumittel
 
 (1) Über die Verwendung der Straßenbaumittel für die Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße zusteht, ist ein Straßenbauplan als Anlage zum Bundeshaushaltsplan aufzustellen.
 
@@ -34,11 +29,9 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Vorgriff auf das zweckge
 
 (4) Die Vorschriften über die Aufstellung und Feststellung des Bundeshaushaltsplans gelten sinngemäß für den Straßenbauplan.
 
+# Art 4 bis 8 – ----
 
-## Art 4 bis 8 – ----
-
-
-## Art 9 – Betriebsbeihilfe für den Werkfernverkehr im Zonenrandgebiet und in den Frachthilfegebieten
+# Art 9 – Betriebsbeihilfe für den Werkfernverkehr im Zonenrandgebiet und in den Frachthilfegebieten
 
 (1) Eine Betriebsbeihilfe für das im Werkfernverkehr im Sinne des Güterkraftverkehrsgesetzes bis zum 31. Dezember 1981 verbrauchte Gasöl wird gewährt an Inhaber von Lastkraftwagen, die ihren Standort im Zonenrandgebiet oder in den Frachthilfegebieten haben. Voraussetzung ist, daß das Gasöl zu Beförderungen gedient hat
 
@@ -60,37 +53,31 @@ Das Bundesministerium der Finanzen bestimmt im Einvernehmen mit dem Bundesminist
 
 (4) Die Gewährung der Betriebsbeihilfen kann davon abhängig gemacht werden, daß diese einen Betrag von 200 Deutsche Mark für den Abrechnungszeitraum übersteigen.
 
-
-## Art 10
-
-\-
-
-
-## Art 11
+# Art 10
 
 \-
 
+# Art 11
 
-## Art 12
+\-
+
+# Art 12
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 (2) Artikel I Nr. 2 des Gesetzes des Landes Berlin zur Änderung des Kraftfahrzeugsteuergesetzes vom 3. August 1950 (Verordnungsblatt für Groß-Berlin I S. 379) bleibt unberührt.
 
-
-## Art 13 – Abwicklung von Ausgaberesten
+# Art 13 – Abwicklung von Ausgaberesten
 
 (1) Ausgabereste aus früheren Rechnungsjahren, für die Fortsetzungsraten im Straßenbauplan nicht vorgesehen sind, werden außerhalb des Straßenbauplans zu Lasten der allgemeinen Haushaltsmittel abgewickelt.
 
 (2) Vor Inkrafttreten dieses Gesetzes überplanmäßig oder außerplanmäßig bereitgestellte Mittel zur Durchführung von Straßenbaumaßnahmen sind aus den nach Artikel 1 und 2 dieses Gesetzes zweckgebundenen Mitteln zu decken.
 
-
-## Art 14
+# Art 14
 
 \-
 
-
-## Art 15 – Inkrafttreten
+# Art 15 – Inkrafttreten
 
 (1) Dieses Gesetz tritt ... am 1. April 1960 in Kraft.
 

@@ -1,29 +1,24 @@
-# [WZG§4NLDBek 1972] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 18.05.1972
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 18.05.1972
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29), zuletzt geändert durch Gesetz vom 23. Juni 1970 (Bundesgesetzbl. I S. 805), werden in der Anlage amtliche Prüf- und Gewährzeichen bekanntgemacht, die im Königreich der Niederlande für Käse eingeführt sind.
 
 (2) Diese Bekanntmachung tritt an die Stelle der Bekanntmachung vom 17. Mai 1967 (Bundesgesetzbl. I S. 574). Sie ergeht im Anschluß an die Bekanntmachung vom 9. März 1972 (Bundesgesetzbl. I S. 455).
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 1972, 1204 - 1207)
 
   
   
   
-![](../normengrafiken/bgbl1_1972/j1204_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1204_0010.jpg)  
   
 
 A:  
@@ -32,7 +27,7 @@ bestimmt für Gouda-Bauernkäse nach Artikel 12 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1204_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1204_0020.jpg)  
   
 
 B:  
@@ -41,7 +36,7 @@ bestimmt für Baby-Gouda-Bauernkäse nach Artikel 13 der Käsekontrollverordnung
   
   
   
-![](../normengrafiken/bgbl1_1972/j1204_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1204_0030.jpg)  
   
 
 C:  
@@ -50,7 +45,7 @@ bestimmt für Gouda-Käse nach Artikel 22 und Gouda-Käse ohne Rinde nach Artike
   
   
   
-![](../normengrafiken/bgbl1_1972/j1204_0040.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1204_0040.jpg)  
   
 
 D:  
@@ -59,7 +54,7 @@ bestimmt für Baby-Gouda-Käse nach Artikel 24 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1204_0050.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1204_0050.jpg)  
   
 
 E:  
@@ -68,7 +63,7 @@ bestimmt für Amsterdamer Käse nach Artikel 25 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1205_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1205_0010.jpg)  
   
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 3%" /><col style="width: 34%" /><col style="width: 62%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">F:</td><td style="text-align: left;">bestimmt für:</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;">Edamer Käse</td><td style="text-align: left;">nach Artikel 26</td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;">Block-Edamer-Käse</td><td style="text-align: left;">nach Artikel 27</td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;">Edamer Käse ohne Rinde</td><td style="text-align: left;">nach Artikel 28<br />
@@ -77,7 +72,7 @@ der Käsekontrollverordnung 1970</td></tr></tbody></table>
   
   
   
-![](../normengrafiken/bgbl1_1972/j1205_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1205_0020.jpg)  
   
 
 |     |                                             |                                                 |
@@ -94,7 +89,7 @@ der Käsekontrollverordnung 1970</td></tr></tbody></table>
   
   
   
-![](../normengrafiken/bgbl1_1972/j1205_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1205_0030.jpg)  
   
 
 H:  
@@ -103,7 +98,7 @@ bestimmt für: Leidener Käse 20 +</sup> nach Artikel 36 und Gewürznelken- und 
   
   
   
-![](../normengrafiken/bgbl1_1972/j1205_0040.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1205_0040.jpg)  
   
 
 I:  
@@ -112,7 +107,7 @@ bestimmt für großen Rahmkäse nach Artikel 38 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1205_0050.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1205_0050.jpg)  
   
 
 J:  
@@ -121,7 +116,7 @@ bestimmt für kleinen Rahmkäse nach Artikel 39 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1206_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1206_0010.jpg)  
   
 
 K:  
@@ -130,7 +125,7 @@ bestimmt für Cheddarkäse nach Artikel 40 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1206_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1206_0020.jpg)  
   
 
 L:  
@@ -139,7 +134,7 @@ bestimmt für Käse nach Artikel 41 Abs. 2 und einen blauen Schimmelkäse nach A
   
   
   
-![](../normengrafiken/bgbl1_1972/j1206_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1206_0030.jpg)  
   
 
 M:  
@@ -148,7 +143,7 @@ bestimmt für Käse nach Artikel 43 und Meshanger Käse nach Artikel 44 der Käs
   
   
   
-![](../normengrafiken/bgbl1_1972/j1206_0040.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1206_0040.jpg)  
   
 
 N:  
@@ -157,7 +152,7 @@ bestimmt für Käse nach Artikel 41 Abs. 1 und Tilsiter Käse nach Artikel 45 de
   
   
   
-![](../normengrafiken/bgbl1_1972/j1207_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1207_0010.jpg)  
   
 
 O:  
@@ -166,7 +161,7 @@ bestimmt für nassen “rabbinalen” Käse oder weißen Maikäse nach Artikel 1
   
   
   
-![](../normengrafiken/bgbl1_1972/j1207_0020.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1207_0020.jpg)  
   
 
 P:  
@@ -175,7 +170,7 @@ bestimmt für Mager-Käse nach Artikel 47 der Käsekontrollverordnung 1970
   
   
   
-![](../normengrafiken/bgbl1_1972/j1207_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1972/j1207_0030.jpg)  
   
 
 Q:  

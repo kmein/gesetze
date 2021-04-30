@@ -1,10 +1,7 @@
-# [ÖlHaftBeschV 1996] Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie)  (Ölhaftungsbescheinigungs-Verordnung)
-
-Ausfertigungsdatum: 30.05.1996
-
+% Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie)  (Ölhaftungsbescheinigungs-Verordnung)
+% Ausfertigungsdatum: 30.05.1996
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung ist
 
@@ -18,13 +15,11 @@ eine Versicherung oder sonstige finanzielle Sicherheit im Sinne des § 2 Abs. 4 
 
 (2) Im übrigen gelten die Begriffsbestimmungen des Haftungsübereinkommens von 1992 (BGBl. 1996 II S. 670), des Fondsübereinkommens von 1992 (BGBl. 1996 II S. 685) und des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden (BGBl. 2006 II S. 578) (Bunkeröl-Übereinkommen).
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 Für die Ausstellung und Einziehung der Ölhaftungsbescheinigungen ist das Bundesamt für Seeschiffahrt und Hydrographie zuständig.
 
-
-## § 3 – Voraussetzungen
+# § 3 – Voraussetzungen
 
 (1) Die Ausstellung einer Ölhaftungsbescheinigung setzt einen schriftlichen oder elektronischen Antrag des Eigentümers voraus. Der Antrag muß enthalten:
 
@@ -62,8 +57,7 @@ b) eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Sicherhe
 
 (4) Sind der Antrag und die Unterlagen nach Absatz 2 oder Absatz 3 nicht in deutscher oder englischer Sprache abgefaßt, so ist eine von einem behördlich anerkannten Übersetzer gefertigte Übersetzung in die deutsche Sprache beizufügen.
 
-
-## § 4 – Ausstellung
+# § 4 – Ausstellung
 
 (1) Sind die Voraussetzungen des § 2 Abs. 4 des Ölschadengesetzes und des § 3 erfüllt, wird eine Ölhaftungsbescheinigung in deutscher Sprache und englischer Übersetzung nach folgendem Muster ausgestellt:
 
@@ -77,16 +71,13 @@ b) eine vorzeitige Beendigung oder Änderung, die dazu führt, dass die Sicherhe
 
 (4) Ist eine Ölhaftungsbescheinigung unbrauchbar geworden oder wird glaubhaft gemacht, daß sie verloren gegangen ist, wird auf Verlangen eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene Ölhaftungsbescheinigung ist zurückzugeben.
 
+# § 4a – (weggefallen)
 
-## § 4a – (weggefallen)
-
-
-## § 5 – Pflichten des Eigentümers
+# § 5 – Pflichten des Eigentümers
 
 Der Eigentümer ist verpflichtet, eine vorzeitige Beendigung der Sicherheit sowie eine Änderung, die dazu führt, daß die Sicherheit den Voraussetzungen des § 2 Abs. 4 des Ölschadengesetzes nicht mehr genügt, unverzüglich dem Bundesamt für Seeschiffahrt und Hydrographie mitzuteilen.
 
-
-## § 6 – Einziehung
+# § 6 – Einziehung
 
 Das Bundesamt für Seeschiffahrt und Hydrographie kann eine Ölhaftungsbescheinigung einziehen, wenn
 
@@ -94,15 +85,13 @@ Das Bundesamt für Seeschiffahrt und Hydrographie kann eine Ölhaftungsbescheini
 
 2. zur Erlangung der Ölhaftungsbescheinigung unrichtige oder unvollständige Angaben gemacht worden sind.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 des Ölschadengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 5 eine Mitteilung nicht oder nicht rechtzeitig macht.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Absatz 1 Nummer 2 bis 4 und Absatz 2 des Ölschadengesetzes wird auf das Bundesamt für Seeschiffahrt und Hydrographie übertragen.
 
-
-## Anlage 1 – (zu § 4 Abs. 1)
+# Anlage 1 – (zu § 4 Abs. 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1996, S. 709 - 710)
 
@@ -131,9 +120,7 @@ Certificate
 
 of Insurance or other Financial Security in respect of Civil Liability for Oil Pollution Damage
 
-Ausgestellt nach Artikel VII des Internationalen Übereinkommens von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden.  
-Issued in accordance with the provisions of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992.  
-
+Ausgestellt nach Artikel VII des Internationalen Übereinkommens von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden. Issued in accordance with the provisions of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992. 
 |                   |                               |                  |                                    |
 |:------------------|:------------------------------|:-----------------|:-----------------------------------|
 | Name des Schiffes | Unterscheidungssignal         | Heimathafen      | Name und Anschrift des Eigentümers |
@@ -142,9 +129,7 @@ Issued in accordance with the provisions of Article VII of the International Con
 |                   |                               |                  |                                    |
 
   
-Hiermit wird bescheinigt, daß für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels VII des Internationalen Übereinkommens von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden besteht.  
-This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992.  
-
+Hiermit wird bescheinigt, daß für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels VII des Internationalen Übereinkommens von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden besteht. This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992. 
     Art der Sicherheit
                       ...........................................................
     Type of Security
@@ -184,8 +169,7 @@ This is to certify that there is in force in respect of the above-named ship a p
                                   (Signature and Title of issuing or certifying
                                                   official) 
 
-
-## Anlage 2 – (zu § 4 Abs. 1)
+# Anlage 2 – (zu § 4 Abs. 1)
 
 ( Fundstelle des Originaltextes: BGBl. I 2006, S. 1463 u. 1464 )
 
@@ -214,8 +198,7 @@ Certificate
 
 of Insurance or other Financial Security in Respect of Civil Liability for Oil Pollution Damage
 
-Ausgestellt nach Artikel 7 des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden.  
-Issued in accordance with the provisions of Article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001  
+Ausgestellt nach Artikel 7 des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden. Issued in accordance with the provisions of Article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001  
 
     ----------------------------------------------------------------------------
     I Name des I Unter-      I IMO-Schiffs       I Heimat-  I Name und         I
@@ -242,9 +225,7 @@ Issued in accordance with the provisions of Article 7 of the International Conve
 
      
 
-Hiermit wird bescheinigt, daß für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels 7 des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden besteht.  
-This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001.  
-
+Hiermit wird bescheinigt, daß für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels 7 des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden besteht. This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001. 
     Art der Sicherheit
                       ...........................................................
     Type of Security

@@ -1,15 +1,11 @@
-# [HdlKlSchafFlV 1993] Verordnung über gesetzliche Handelsklassen für Schaffleisch
-
-Ausfertigungsdatum: 21.06.1993
-
+% Verordnung über gesetzliche Handelsklassen für Schaffleisch
+% Ausfertigungsdatum: 21.06.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3 Satz 1 und des § 2 des Handelsklassengesetzes in der Fassung der Bekanntmachung vm 23. November 1972 (BGBl. I S. 2201), von denen § 1 Abs. 1 und 3 Satz 1 gemäß Artikel 54 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien für Gesundheit und für Wirtschaft:
 
-
-## § 1 – Gesetzliche Handelsklassen, Einstufung in Kategorien und Kennzeichnung
+# § 1 – Gesetzliche Handelsklassen, Einstufung in Kategorien und Kennzeichnung
 
 (1) Schaffleisch darf zum Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht werden in einer gesetzlichen Kategorie und Handelsklasse
 
@@ -23,8 +19,7 @@ Bei Verwendung von Handelsklassen ist das Schaffleisch nach Anhang IV Teil C der
 
 (3) Die Bestimmung der Kategorie von Schafschlachtkörpern kann durch Bedienstete des Schlachtbetriebs vorgenommen werden, wenn keine Einstufung in Handelsklassen erfolgt.
 
-
-## § 2 – Ordnungswidrigkeiten
+# § 2 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 Nr. 3 des Handelsklassengesetzes handelt, wer
 
@@ -32,8 +27,7 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 Nr. 3 des Handelsklassengesetzes handelt
 
 2. entgegen § 1 Abs. 1 Satz 3 eine andere als in Satz 1 genannte Handelsklasse verwendet.
 
-
-## § 2a – Überwachung, Duldungs- und Auskunftspflichten
+# § 2a – Überwachung, Duldungs- und Auskunftspflichten
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser Verordnung geltenden Vorschriften erforderlich ist, können die Beauftragten der zuständigen Stellen bei Betrieben, die Schafe schlachten und Schaffleisch im Sinne des § 1 zum Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem Geltungsbereich dieser Verordnung verbringen, während der Geschäftszeit
 
@@ -45,12 +39,10 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 Nr. 3 des Handelsklassengesetzes handelt
 
 (2) Inhaber oder Leiter von Betrieben sowie Klassifizierungsunternehmen sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, das zu besichtigende Schaffleisch selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,15 +1,11 @@
-# [WMVO] Werkstätten-Mitwirkungsverordnung  (WMVO)
-
-Ausfertigungsdatum: 25.06.2001
-
+% Werkstätten-Mitwirkungsverordnung  (WMVO)
+% Ausfertigungsdatum: 25.06.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 144 Abs. 2 des Neunten Buches Sozialgesetzbuch - Rehabilitation und Teilhabe behinderter Menschen - (Artikel 1 des Gesetzes vom 19. Juni 2001, BGBl. I S. 1046, 1047) verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -269,22 +265,19 @@ Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 Inkrafttreten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die Mitbestimmung und die Mitwirkung der in § 221 Absatz 1 des Neunten Buches Sozialgesetzbuch genannten Menschen mit Behinderungen (Werkstattbeschäftigte) in Werkstattangelegenheiten und die Interessenvertretung der in Werkstätten beschäftigten behinderten Frauen durch Frauenbeauftragte.
 
 (2) Diese Verordnung findet keine Anwendung auf Religionsgemeinschaften und ihre Einrichtungen, soweit sie eigene gleichwertige Regelungen getroffen haben.
 
-
-## § 2 – Errichtung von Werkstatträten
+# § 2 – Errichtung von Werkstatträten
 
 (1) Ein Werkstattrat wird in Werkstätten gewählt.
 
 (2) Rechte und Pflichten der Werkstatt sind solche des Trägers der Werkstatt.
 
-
-## § 3 – Zahl der Mitglieder des Werkstattrats
+# § 3 – Zahl der Mitglieder des Werkstattrats
 
 (1) Der Werkstattrat besteht in Werkstätten mit in der Regel
 
@@ -302,8 +295,7 @@ Inkrafttreten
 
 (2) Die Geschlechter sollen entsprechend ihrem zahlenmäßigen Verhältnis vertreten sein.
 
-
-## § 4 – Allgemeine Aufgaben des Werkstattrats
+# § 4 – Allgemeine Aufgaben des Werkstattrats
 
 (1) Der Werkstattrat hat folgende allgemeine Aufgaben:
 
@@ -327,8 +319,7 @@ Dabei hat er vor allem die Interessen besonders betreuungs- und förderungsbedü
 
 (3) Der Werkstattrat berücksichtigt die Interessen der im Eingangsverfahren und im Berufsbildungsbereich tätigen behinderten Menschen in angemessener und geeigneter Weise, solange für diese eine Vertretung nach § 52 des Neunten Buches Sozialgesetzbuch nicht besteht.
 
-
-## § 5 – Mitwirkung und Mitbestimmung
+# § 5 – Mitwirkung und Mitbestimmung
 
 (1) Der Werkstattrat hat in folgenden Angelegenheiten ein Mitwirkungsrecht:
 
@@ -372,8 +363,7 @@ Dabei hat er vor allem die Interessen besonders betreuungs- und förderungsbedü
 
 (6) Soweit Angelegenheiten im Sinne von Absatz 1 oder 2 nur einheitlich für Arbeitnehmer und Werkstattbeschäftigte geregelt werden können und soweit sie Gegenstand einer Vereinbarung mit dem Betriebs- oder Personalrat oder einer sonstigen Mitarbeitervertretung sind oder sein sollen, haben die Beteiligten auf eine einvernehmliche Regelung hinzuwirken. Die ergänzende Vereinbarung besonderer behindertenspezifischer Regelungen zwischen Werkstattrat und Werkstatt bleiben unberührt. Unberührt bleiben auch weitergehende, einvernehmlich vereinbarte Formen der Beteiligung in den Angelegenheiten des Absatzes 1.
 
-
-## § 6 – Vermittlungsstelle
+# § 6 – Vermittlungsstelle
 
 (1) Die Vermittlungsstelle besteht aus einem oder einer unparteiischen, in Werkstattangelegenheiten erfahrenen Vorsitzenden, auf den oder die sich Werkstatt und Werkstattrat einigen müssen, und aus je einem von der Werkstatt und vom Werkstattrat benannten Beisitzer oder einer Beisitzerin. Kommt eine Einigung nicht zustande, so schlagen die Werkstatt und der Werkstattrat je eine Person als Vorsitzenden oder Vorsitzende vor; durch Los wird entschieden, wer als Vorsitzender oder Vorsitzende tätig wird.
 
@@ -381,8 +371,7 @@ Dabei hat er vor allem die Interessen besonders betreuungs- und förderungsbedü
 
 (3) Der Einigungsvorschlag der Vermittlungsstelle ersetzt in den Angelegenheiten nach § 5 Absatz 1 sowie in den Angelegenheiten nach § 5 Absatz 2, die nur einheitlich für Arbeitnehmer und Werkstattbeschäftigte geregelt werden können, nicht die Entscheidung der Werkstatt. Bis dahin ist die Durchführung der Maßnahme auszusetzen. Das gilt auch in den Fällen des § 5 Absatz 5 und 6. Fasst die Vermittlungsstelle in den Angelegenheiten nach § 5 Absatz 1 innerhalb von zwölf Tagen keinen Beschluss für einen Einigungsvorschlag, gilt die Entscheidung der Werkstatt.
 
-
-## § 7 – Unterrichtungsrechte des Werkstattrats
+# § 7 – Unterrichtungsrechte des Werkstattrats
 
 (1) Der Werkstattrat ist in folgenden Angelegenheiten zu unterrichten:
 
@@ -394,30 +383,25 @@ Dabei hat er vor allem die Interessen besonders betreuungs- und förderungsbedü
 
 (2) Die Werkstatt hat den Werkstattrat in den Angelegenheiten, in denen er ein Unterrichtungsrecht hat, rechtzeitig und umfassend unter Vorlage der erforderlichen Unterlagen zu unterrichten. Die in den Fällen des Absatzes 1 Nr. 1 einzuholende Stellungnahme des Fachausschusses und die in diesem Rahmen erfolgende Anhörung des oder der Werkstattbeschäftigten bleiben unberührt.
 
-
-## § 8 – Zusammenarbeit
+# § 8 – Zusammenarbeit
 
 (1) Die Werkstatt, ihr Betriebs- oder Personalrat oder ihre sonstige Mitarbeitervertretung, die Schwerbehindertenvertretung, die Vertretung der Teilnehmer an Maßnahmen im Eingangsverfahren und im Berufsbildungsbereich nach § 52 des Neunten Buches Sozialgesetzbuch, ein nach § 139 Abs. 4 Satz 2 des Neunten Buches Sozialgesetzbuch errichteter Eltern- und Betreuerbeirat und der Werkstattrat arbeiten im Interesse der Werkstattbeschäftigten vertrauensvoll zusammen. Die Werkstatt und der Werkstattrat können hierbei die Unterstützung der in der Werkstatt vertretenen Behindertenverbände und Gewerkschaften sowie der Verbände, denen die Werkstatt angehört, in Anspruch nehmen.
 
 (2) Werkstatt und Werkstattrat sollen in der Regel einmal im Monat zu einer Besprechung zusammentreten. Sie haben über strittige Fragen mit dem ernsten Willen zur Einigung zu verhandeln und Vorschläge für die Beilegung von Meinungsverschiedenheiten zu machen.
 
-
-## § 9 – Werkstattversammlung
+# § 9 – Werkstattversammlung
 
 Der Werkstattrat führt mindestens einmal im Kalenderjahr eine Versammlung der Werkstattbeschäftigten durch. Die in der Werkstatt für Versammlungen der Arbeitnehmer geltenden Vorschriften finden entsprechende Anwendung; Teil- sowie Abteilungsversammlungen sind zulässig. Der Werkstattrat kann im Einvernehmen mit der Werkstatt in Werkstattangelegenheiten erfahrene Personen sowie behinderte Menschen, die an Maßnahmen im Eingangsverfahren oder im Berufsbildungsbereich teilnehmen, einladen.
 
-
-## § 10 – Wahlberechtigung
+# § 10 – Wahlberechtigung
 
 Wahlberechtigt sind alle Werkstattbeschäftigten, soweit sie keine Arbeitnehmer sind.
 
-
-## § 11 – Wählbarkeit
+# § 11 – Wählbarkeit
 
 Wählbar sind alle Wahlberechtigten, die am Wahltag seit mindestens sechs Monaten in der Werkstatt beschäftigt sind. Zeiten des Eingangsverfahrens und der Teilnahme an Maßnahmen im Berufsbildungsbereich werden angerechnet.
 
-
-## § 12 – Zeitpunkt der Wahlen zum Werkstattrat
+# § 12 – Zeitpunkt der Wahlen zum Werkstattrat
 
 (1) Die regelmäßigen Wahlen zum Werkstattrat finden alle vier Jahre in der Zeit vom 1. Oktober bis 30. November statt, erstmals im Jahre 2001. Außerhalb dieser Zeit finden Wahlen statt, wenn
 
@@ -431,15 +415,13 @@ Wählbar sind alle Wahlberechtigten, die am Wahltag seit mindestens sechs Monate
 
 (2) Hat außerhalb des für die regelmäßigen Wahlen festgelegten Zeitraumes eine Wahl zum Werkstattrat stattgefunden, so ist er in dem auf die Wahl folgenden nächsten Zeitraum der regelmäßigen Wahlen neu zu wählen. Hat die Amtszeit des Werkstattrats zu Beginn des für die nächsten regelmäßigen Wahlen festgelegten Zeitraumes noch nicht ein Jahr betragen, ist der Werkstattrat in dem übernächsten Zeitraum der regelmäßigen Wahlen neu zu wählen.
 
-
-## § 13 – Bestellung des Wahlvorstandes
+# § 13 – Bestellung des Wahlvorstandes
 
 (1) Spätestens zehn Wochen vor Ablauf seiner Amtszeit bestellt der Werkstattrat einen Wahlvorstand aus drei Wahlberechtigten oder sonstigen der Werkstatt angehörenden Personen und einen oder eine von ihnen als Vorsitzenden oder Vorsitzende. Dem Wahlvorstand muss mindestens eine wahlberechtigte Frau angehören.
 
 (2) Ist in der Werkstatt ein Werkstattrat nicht vorhanden, werden der Wahlvorstand und dessen Vorsitzender oder Vorsitzende in einer Versammlung der Wahlberechtigten gewählt. Die Werkstatt fördert die Wahl; sie hat zu dieser Versammlung einzuladen. Unabhängig davon können drei Wahlberechtigte einladen.
 
-
-## § 14 – Aufgaben des Wahlvorstandes
+# § 14 – Aufgaben des Wahlvorstandes
 
 (1) Der Wahlvorstand bereitet die Wahl vor und führt sie durch. Die Werkstatt hat dem Wahlvorstand auf dessen Wunsch aus den Angehörigen des Fachpersonals eine Person seines Vertrauens zur Verfügung zu stellen, die ihn bei der Vorbereitung und Durchführung der Wahl unterstützt. Der Wahlvorstand kann in der Werkstatt Beschäftigte als Wahlhelfer oder Wahlhelferinnen zu seiner Unterstützung bei der Durchführung der Stimmabgabe und bei der Stimmenzählung bestellen. Die Mitglieder des Wahlvorstandes, die Vertrauensperson und die Wahlhelfer und Wahlhelferinnen haben die gleichen persönlichen Rechte und Pflichten wie die Mitglieder des Werkstattrats (§ 37). Die Vertrauensperson nimmt ihre Aufgabe unabhängig von Weisungen der Werkstatt wahr.
 
@@ -449,18 +431,15 @@ Wählbar sind alle Wahlberechtigten, die am Wahltag seit mindestens sechs Monate
 
 (4) Die Werkstatt unterstützt den Wahlvorstand bei der Erfüllung seiner Aufgaben. Sie gibt ihm insbesondere alle für die Anfertigung der Liste der Wahlberechtigten erforderlichen Auskünfte und stellt die notwendigen Unterlagen zur Verfügung.
 
-
-## § 15 – Erstellung der Liste der Wahlberechtigten
+# § 15 – Erstellung der Liste der Wahlberechtigten
 
 Der Wahlvorstand stellt eine Liste der Wahlberechtigten auf. Die Wahlberechtigten sollen mit dem Familiennamen und dem Vornamen, erforderlichenfalls dem Geburtsdatum, in alphabetischer Reihenfolge aufgeführt werden.
 
-
-## § 16 – Bekanntmachung der Liste der Wahlberechtigten
+# § 16 – Bekanntmachung der Liste der Wahlberechtigten
 
 Die Liste der Wahlberechtigten oder eine Abschrift ist unverzüglich nach Einleitung der Wahl bis zum Abschluss der Stimmabgabe an geeigneter Stelle zur Einsicht auszulegen.
 
-
-## § 17 – Einspruch gegen die Liste der Wahlberechtigten
+# § 17 – Einspruch gegen die Liste der Wahlberechtigten
 
 (1) Wahlberechtigte und sonstige Beschäftigte, die ein berechtigtes Interesse an einer ordnungsgemäßen Wahl glaubhaft machen, können innerhalb von zwei Wochen seit Erlass des Wahlausschreibens (§ 18) beim Wahlvorstand Einspruch gegen die Richtigkeit der Liste der Wahlberechtigten einlegen.
 
@@ -468,8 +447,7 @@ Die Liste der Wahlberechtigten oder eine Abschrift ist unverzüglich nach Einlei
 
 (3) Nach Ablauf der Einspruchsfrist soll der Wahlvorstand die Liste der Wahlberechtigten nochmals auf ihre Vollständigkeit hin überprüfen. Im Übrigen kann nach Ablauf der Einspruchsfrist die Liste der Wahlberechtigten nur bei Schreibfehlern, offenbaren Unrichtigkeiten, in Erledigung rechtzeitig eingelegter Einsprüche oder bei Eintritt oder Ausscheiden eines Wahlberechtigten oder einer Wahlberechtigten bis zum Tage vor dem Beginn der Stimmabgabe berichtigt oder ergänzt werden.
 
-
-## § 18 – Wahlausschreiben
+# § 18 – Wahlausschreiben
 
 (1) Spätestens sechs Wochen vor dem Wahltag erlässt der Wahlvorstand ein Wahlausschreiben, das von dem oder der Vorsitzenden und mindestens einem weiteren Mitglied des Wahlvorstandes zu unterschreiben ist. Es muss enthalten:
 
@@ -499,18 +477,15 @@ Die Liste der Wahlberechtigten oder eine Abschrift ist unverzüglich nach Einlei
 
 (2) Eine Abschrift oder ein Abdruck des Wahlausschreibens ist vom Tag seines Erlasses bis zum Wahltag an einer oder mehreren geeigneten, den Wahlberechtigten zugänglichen Stellen vom Wahlvorstand auszuhängen.
 
-
-## § 19 – Wahlvorschläge
+# § 19 – Wahlvorschläge
 
 Die Wahlberechtigten können innerhalb von zwei Wochen seit Erlass des Wahlausschreibens Vorschläge beim Wahlvorstand einreichen. Jeder Wahlvorschlag muss von mindestens drei Wahlberechtigten unterstützt werden. Der Wahlvorschlag bedarf der Zustimmung des Vorgeschlagenen oder der Vorgeschlagenen. Der Wahlvorstand entscheidet über die Zulassung zur Wahl.
 
-
-## § 20 – Bekanntmachung der Bewerber und Bewerberinnen
+# § 20 – Bekanntmachung der Bewerber und Bewerberinnen
 
 Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss der Stimmabgabe macht der Wahlvorstand die Namen und Fotos oder anderes Bildmaterial der Bewerber und Bewerberinnen aus zugelassenen Wahlvorschlägen in alphabetischer Reihenfolge in gleicher Weise bekannt wie das Wahlausschreiben (§ 18 Abs. 2).
 
-
-## § 21 – Stimmabgabe
+# § 21 – Stimmabgabe
 
 (1) Der Werkstattrat wird in geheimer und unmittelbarer Wahl nach den Grundsätzen der Mehrheitswahl gewählt.
 
@@ -522,8 +497,7 @@ Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss der Stim
 
 (5) Ist für mehr als die Hälfte der Wahlberechtigten infolge ihrer Behinderung eine Stimmabgabe durch Abgabe eines Stimmzettels nach den Absätzen 3 und 4 überwiegend nicht möglich, kann der Wahlvorstand eine andere Form der Ausübung des Wahlrechts beschließen.
 
-
-## § 22 – Wahlvorgang
+# § 22 – Wahlvorgang
 
 (1) Der Wahlvorstand hat geeignete Vorkehrungen für die unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und für die Bereitstellung einer Wahlurne zu sorgen. Die Wahlurne muss vom Wahlvorstand verschlossen und so eingerichtet sein, dass die eingeworfenen Stimmzettel nicht herausgenommen werden können, ohne dass die Urne geöffnet wird.
 
@@ -535,8 +509,7 @@ Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss der Stim
 
 (5) Nach Abschluss der Wahl ist die Wahlurne zu versiegeln, wenn die Stimmenauszählung nicht unmittelbar nach der Beendigung der Wahl durchgeführt wird.
 
-
-## § 23 – Feststellung des Wahlergebnisses
+# § 23 – Feststellung des Wahlergebnisses
 
 (1) Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand öffentlich die Auszählung der Stimmen vor und stellt das Ergebnis fest.
 
@@ -544,32 +517,27 @@ Spätestens eine Woche vor Beginn der Stimmabgabe und bis zum Abschluss der Stim
 
 (3) Der Wahlvorstand fertigt über das Ergebnis eine Niederschrift, die von dem Vorsitzenden oder der Vorsitzenden und mindestens einem weiteren Mitglied des Wahlvorstandes unterschrieben wird. Die Niederschrift muss die Zahl der abgegebenen gültigen und ungültigen Stimmzettel, die auf jeden Bewerber oder jede Bewerberin entfallenen Stimmenzahlen sowie die Namen der gewählten Bewerber und Bewerberinnen enthalten.
 
-
-## § 24 – Benachrichtigung der Gewählten und Annahme der Wahl
+# § 24 – Benachrichtigung der Gewählten und Annahme der Wahl
 
 (1) Der Wahlvorstand benachrichtigt die zum Werkstattrat Gewählten unverzüglich von ihrer Wahl. Erklärt eine gewählte Person nicht innerhalb von drei Arbeitstagen nach Zugang der Benachrichtigung dem Wahlvorstand ihre Ablehnung der Wahl, ist sie angenommen.
 
 (2) Lehnt eine gewählte Person die Wahl ab, tritt an ihre Stelle der Bewerber oder die Bewerberin mit der nächsthöchsten Stimmenzahl.
 
-
-## § 25 – Bekanntmachung der Gewählten
+# § 25 – Bekanntmachung der Gewählten
 
 Sobald die Namen der Mitglieder des Werkstattrats endgültig feststehen, macht der Wahlvorstand sie durch zweiwöchigen Aushang in gleicher Weise wie das Wahlausschreiben bekannt (§ 18 Abs. 2) und teilt sie unverzüglich der Werkstatt mit.
 
-
-## § 26 – Aufbewahrung der Wahlunterlagen
+# § 26 – Aufbewahrung der Wahlunterlagen
 
 Die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen und Stimmzettel, werden vom Werkstattrat mindestens bis zum Ende der Wahlperiode aufbewahrt.
 
-
-## § 27 – Wahlanfechtung
+# § 27 – Wahlanfechtung
 
 (1) Die Wahl kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das Wahlverfahren verstoßen worden ist und eine Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß das Wahlergebnis nicht geändert oder beeinflusst werden konnte.
 
 (2) Zur Anfechtung berechtigt sind mindestens drei Wahlberechtigte oder die Werkstatt. Die Wahlanfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
 
-
-## § 28 – Wahlschutz und Wahlkosten
+# § 28 – Wahlschutz und Wahlkosten
 
 (1) Niemand darf die Wahl des Werkstattrats behindern. Insbesondere dürfen Werkstattbeschäftigte in der Ausübung des aktiven und passiven Wahlrechts nicht beschränkt werden.
 
@@ -577,13 +545,11 @@ Die Wahlunterlagen, insbesondere die Niederschriften, Bekanntmachungen und Stimm
 
 (3) Die Kosten der Wahl trägt die Werkstatt. Versäumnis von Beschäftigungszeit, die zur Ausübung des Wahlrechts, zur Betätigung im Wahlvorstand oder zur Tätigkeit als Wahlhelfer oder Wahlhelferin erforderlich ist, berechtigt die Werkstatt nicht zur Minderung des Arbeitsentgeltes. Die Ausübung der genannten Tätigkeiten steht der Beschäftigung als Werkstattbeschäftigter gleich.
 
-
-## § 29 – Amtszeit des Werkstattrats
+# § 29 – Amtszeit des Werkstattrats
 
 Die regelmäßige Amtszeit des Werkstattrats beträgt vier Jahre. Die Amtszeit beginnt mit der Bekanntgabe des Wahlergebnisses oder, wenn die Amtszeit des bisherigen Werkstattrats noch nicht beendet ist, mit deren Ablauf. Die Amtszeit des außerhalb des regelmäßigen Wahlzeitraumes gewählten Werkstattrats endet mit der Bekanntgabe des Wahlergebnisses des nach § 12 Abs. 2 neu gewählten Werkstattrats, spätestens jedoch am 30. November des maßgebenden Wahljahres. Im Falle des § 12 Abs. 1 Satz 2 Nr. 1 und 2 endet die Amtszeit des bestehenden Werkstattrats mit der Bekanntgabe des Wahlergebnisses des neu gewählten Werkstattrats.
 
-
-## § 30 – Erlöschen der Mitgliedschaft im Werkstattrat; Ersatzmitglieder
+# § 30 – Erlöschen der Mitgliedschaft im Werkstattrat; Ersatzmitglieder
 
 (1) Die Mitgliedschaft im Werkstattrat erlischt durch
 
@@ -599,15 +565,13 @@ Die regelmäßige Amtszeit des Werkstattrats beträgt vier Jahre. Die Amtszeit b
 
 (3) Die Ersatzmitglieder werden der Reihe nach aus den nicht gewählten Bewerbern und Bewerberinnen der Vorschlagsliste entnommen. Die Reihenfolge bestimmt sich nach der Höhe der erreichten Stimmenzahlen. Bei Stimmengleichheit entscheidet das Los.
 
-
-## § 31 – Vorsitz des Werkstattrats
+# § 31 – Vorsitz des Werkstattrats
 
 (1) Der Werkstattrat wählt aus seiner Mitte den Vorsitzenden oder die Vorsitzende und die ihn oder sie vertretende Person.
 
 (2) Der Vorsitzende oder die Vorsitzende oder im Falle der Verhinderung die ihn oder sie vertretende Person vertritt den Werkstattrat im Rahmen der von diesem gefassten Beschlüsse. Zur Entgegennahme von Erklärungen, die dem Werkstattrat gegenüber abzugeben sind, ist der Vorsitzende oder die Vorsitzende oder im Falle der Verhinderung die ihn oder sie vertretende Person berechtigt.
 
-
-## § 32 – Einberufung der Sitzungen
+# § 32 – Einberufung der Sitzungen
 
 (1) Innerhalb einer Woche nach dem Wahltag beruft der Vorsitzende oder die Vorsitzende des Wahlvorstandes den neu gewählten Werkstattrat zu der nach § 31 Abs. 1 vorgeschriebenen Wahl ein und leitet die Sitzung.
 
@@ -617,32 +581,27 @@ Die regelmäßige Amtszeit des Werkstattrats beträgt vier Jahre. Die Amtszeit b
 
 (4) Die Werkstatt nimmt an den Sitzungen, die auf ihr Verlangen anberaumt sind, und an den Sitzungen, zu denen sie ausdrücklich eingeladen worden ist, teil.
 
-
-## § 33 – Sitzungen des Werkstattrats
+# § 33 – Sitzungen des Werkstattrats
 
 (1) Die Sitzungen des Werkstattrats finden in der Regel während der Beschäftigungszeit statt. Der Werkstattrat hat bei der Ansetzung der Sitzungen auf die Arbeitsabläufe in der Werkstatt Rücksicht zu nehmen. Die Werkstatt ist vom Zeitpunkt der Sitzung vorher zu verständigen. Die Sitzungen des Werkstattrats sind nicht öffentlich.
 
 (2) Der Werkstattrat kann die Vertrauensperson (§ 39 Abs. 3) und, wenn und soweit er es für erforderlich hält, ein Mitglied des Betriebs- oder Personalrats oder einer sonstigen Mitarbeitervertretung, eine Schreibkraft oder, nach näherer Vereinbarung mit der Werkstatt, einen Beauftragten oder eine Beauftragte einer in der Werkstatt vertretenen Gewerkschaft auf Antrag eines Viertels der Mitglieder des Werkstattrats, einen Vertreter oder eine Vertreterin eines Verbandes im Sinne des § 8 Abs. 1 oder sonstige Dritte zu seinen Sitzungen hinzuziehen. Für sie gelten die Geheimhaltungspflicht sowie die Offenbarungs- und Verwertungsverbote gemäß § 37 Abs. 6 entsprechend.
 
-
-## § 34 – Beschlüsse des Werkstattrats
+# § 34 – Beschlüsse des Werkstattrats
 
 (1) Die Beschlüsse des Werkstattrats werden mit der Mehrheit der Stimmen der anwesenden Mitglieder gefasst. Bei Stimmengleichheit ist ein Antrag abgelehnt.
 
 (2) Der Werkstattrat ist beschlussfähig, wenn mindestens die Hälfte seiner Mitglieder an der Beschlussfassung teilnimmt; Stellvertretung durch Ersatzmitglieder ist zulässig.
 
-
-## § 35 – Sitzungsniederschrift
+# § 35 – Sitzungsniederschrift
 
 Über die Sitzungen des Werkstattrats ist eine Sitzungsniederschrift aufzunehmen, die mindestens den Wortlaut der Beschlüsse und die Stimmenmehrheit, mit der sie gefasst wurden, enthält. Die Niederschrift ist von dem Vorsitzenden oder von der Vorsitzenden und einem weiteren Mitglied oder der Vertrauensperson (§ 39 Abs. 3) zu unterzeichnen. Ihr ist eine Anwesenheitsliste beizufügen. Hat die Werkstatt an der Sitzung teilgenommen, so ist ihr der entsprechende Teil der Niederschrift abschriftlich auszuhändigen.
 
-
-## § 36 – Geschäftsordnung des Werkstattrats
+# § 36 – Geschäftsordnung des Werkstattrats
 
 Der Werkstattrat kann sich für seine Arbeit eine schriftliche Geschäftsordnung geben, in der weitere Bestimmungen über die Geschäftsführung getroffen werden.
 
-
-## § 37 – Persönliche Rechte und Pflichten der Mitglieder des Werkstattrats
+# § 37 – Persönliche Rechte und Pflichten der Mitglieder des Werkstattrats
 
 (1) Die Mitglieder des Werkstattrats führen ihr Amt unentgeltlich als Ehrenamt.
 
@@ -662,15 +621,13 @@ Der Werkstattrat kann sich für seine Arbeit eine schriftliche Geschäftsordnung
 
 Die Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht gegenüber den Mitgliedern des Werkstattrats und der Vertrauensperson (§ 39 Abs. 3) sowie im Verfahren vor der Vermittlungsstelle.
 
-
-## § 38 – Sprechstunden
+# § 38 – Sprechstunden
 
 (1) Der Werkstattrat kann während der Beschäftigungszeit Sprechstunden einrichten. Zeit und Ort sind mit der Werkstatt zu vereinbaren.
 
 (2) Versäumnis von Beschäftigungszeit, die zum Besuch der Sprechstunden oder durch sonstige Inanspruchnahme des Werkstattrats erforderlich ist, berechtigt die Werkstatt nicht zur Minderung des Arbeitsentgeltes der Werkstattbeschäftigten. Diese Zeit steht der Werkstattbeschäftigung gleich.
 
-
-## § 39 – Kosten und Sachaufwand des Werkstattrats
+# § 39 – Kosten und Sachaufwand des Werkstattrats
 
 (1) Die durch die Tätigkeit des Werkstattrats entstehenden Kosten trägt die Werkstatt. Das Gleiche gilt für die Kosten, die durch die Teilnahme an Schulungs- und Bildungsveranstaltungen nach § 37 Absatz 4 oder durch die Interessenvertretung auf Landesebene entstehen.
 
@@ -687,8 +644,7 @@ Die Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht geg
     ab dem 1.1.2021 vgl. Nr. 4 Bek. 860-9-1-3-3 v. 19.11.2020 BAnz AT 30.11.2020 B1
      (SGB92018§§160Abs3ua/WMVO§39Abs4Bek) +++) 
 
-
-## § 39a – Aufgaben und Rechtsstellung
+# § 39a – Aufgaben und Rechtsstellung
 
 (1) Die Frauenbeauftragte vertritt die Interessen der in der Werkstatt beschäftigten behinderten Frauen gegenüber der Werkstattleitung, insbesondere in den Bereichen Gleichstellung von Frauen und Männern, Vereinbarkeit von Familie und Beschäftigung sowie Schutz vor körperlicher, sexueller und psychischer Belästigung oder Gewalt. Werkstattleitung und Frauenbeauftragte sollen in der Regel einmal im Monat zu einer Besprechung zusammentreten.
 
@@ -700,8 +656,7 @@ Die Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht geg
 
 (5) Die Frauenbeauftragte und ihre Stellvertreterinnen sind von ihrer Tätigkeit ohne Minderung des Arbeitsentgeltes zu befreien, wenn und soweit es zur Durchführung ihrer Aufgaben erforderlich ist. Die Tätigkeit steht der Werkstattbeschäftigung gleich. In Werkstätten mit mehr als 200 wahlberechtigten Frauen ist die Frauenbeauftragte auf Verlangen von der Tätigkeit freizustellen, in Werkstätten mit mehr als 700 wahlberechtigten Frauen auch die erste Stellvertreterin. Die Befreiung nach den Sätzen 1 und 3 erstreckt sich nicht auf Maßnahmen nach § 5 Absatz 3 der Werkstättenverordnung. Im Übrigen gelten § 37 Absatz 1 und 2, 4 bis 6 sowie die §§ 38 und 39 für die Frauenbeauftragte und die Stellvertreterinnen entsprechend.
 
-
-## § 39b – Wahlen und Amtszeit
+# § 39b – Wahlen und Amtszeit
 
 (1) Die Wahlen der Frauenbeauftragten und der Stellvertreterinnen sollen zusammen mit den Wahlen zum Werkstattrat stattfinden. Wahlberechtigt sind alle Frauen, die auch zum Werkstattrat wählen dürfen (§ 10). Wählbar sind alle Frauen, die auch in den Werkstattrat gewählt werden können (§ 11).
 
@@ -709,8 +664,7 @@ Die Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht geg
 
 (3) Für die Amtszeit der Frauenbeauftragten und ihrer Stellvertreterinnen gilt § 29 entsprechend. Das Amt der Frauenbeauftragten und ihrer Stellvertreterinnen erlischt mit Ablauf der Amtszeit, Niederlegung des Amtes, Ausscheiden aus der Werkstatt, Beendigung des arbeitnehmerähnlichen Rechtsverhältnisses oder erfolgreicher Wahlanfechtung.
 
-
-## § 39c – Vorzeitiges Ausscheiden
+# § 39c – Vorzeitiges Ausscheiden
 
 (1) Scheidet die Frauenbeauftragte vor dem Ablauf der Amtszeit aus dem Amt aus, wird die erste Stellvertreterin zur Frauenbeauftragten.
 
@@ -720,24 +674,20 @@ Die Pflichten gelten auch nach dem Ausscheiden aus dem Amt. Sie gelten nicht geg
 
 (4) Hat außerhalb des für die regelmäßigen Wahlen festgelegten Zeitraumes eine Wahl zu den Ämtern der Frauenbeauftragten und ihrer Stellvertreterinnen stattgefunden, so sind sie in dem auf die Wahl folgenden nächsten Zeitraum der regelmäßigen Wahlen neu zu wählen. Hat die Amtszeit zu Beginn des für die nächsten regelmäßigen Wahlen festgelegten Zeitraumes noch nicht ein Jahr betragen, sind die Frauenbeauftragte und ihre Stellvertreterinnen in dem übernächsten Zeitraum der regelmäßigen Wahlen neu zu wählen.
 
-
-## § 40 – Amtszeit der bestehenden Werkstatträte
+# § 40 – Amtszeit der bestehenden Werkstatträte
 
 Die Amtszeit der zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits bestehenden Werkstatträte endet am Tag der Bekanntgabe des Wahlergebnisses der erstmaligen regelmäßigen Wahl eines Werkstattrats nach den Bestimmungen dieser Verordnung, spätestens jedoch am 30. November 2001. § 13 gilt entsprechend.
 
-
-## § 40a – Sonderregelungen aus Anlass der COVID-19-Pandemie
+# § 40a – Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 (1) Die Teilnahme an Sitzungen des Werkstattrates sowie die Beschlussfassung können mittels Video- und Telefonkonferenz erfolgen, wenn sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis nehmen können. Eine Aufzeichnung ist unzulässig. § 35 Satz 3 gilt mit der Maßgabe, dass die Teilnehmer ihre Anwesenheit gegenüber dem Vorsitzenden in Textform bestätigen.
 
 (2) Versammlungen nach § 9 können mittels audiovisueller Einrichtungen durchgeführt werden, wenn sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist unzulässig.
 
-
-## § 41 – Inkrafttreten
+# § 41 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

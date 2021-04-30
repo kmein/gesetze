@@ -1,15 +1,11 @@
-# [PrKultbSaV] Verordnung über die Satzung der Stiftung "Preußischer Kulturbesitz"
-
-Ausfertigungsdatum: 06.09.1961
-
+% Verordnung über die Satzung der Stiftung "Preußischer Kulturbesitz"
+% Ausfertigungsdatum: 06.09.1961
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 des Gesetzes zur Errichtung einer Stiftung "Preußischer Kulturbesitz" und zur Übertragung von Vermögenswerten des ehemaligen Landes Preußen auf die Stiftung vom 25. Juli 1957 (Bundesgesetzbl. I S. 841) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Die Stiftung wird durch ihre Organe verwaltet.
 
@@ -20,8 +16,7 @@ der Beirat.
 
 (3) Die Stiftung führt ein Dienstsiegel, über dessen Ausgestaltung der Stiftungsrat mit Zustimmung des Beauftragten der Bundesregierung für Angelegenheiten der Kultur und der Medien beschließt.
 
-
-## § 2
+# § 2
 
 (1) Mitglieder des Stiftungsrates sind zwei Vertreter des Bundes, zwei Vertreter des Landes Berlin, zwei Vertreter des Landes Nordrhein-Westfalen und je ein Vertreter der Länder Baden-Württemberg, Bayern, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen.
 
@@ -52,15 +47,13 @@ der Beirat.
 
 (5) Kann ein Land in einer Stiftungsratssitzung nicht vertreten sein, so kann es sein Stimmrecht dem Vertreter eines anderen Landes zur Wahrnehmung in der Sitzung übertragen.
 
-
-## § 3
+# § 3
 
 (1) Der Stiftungsrat wählt den Vorsitzenden und stellvertretende Vorsitzende auf die Dauer von drei Jahren; Wiederwahl ist zulässig. Er gibt sich eine Geschäftsordnung.
 
 (2) Die Geschäftsordnung soll insbesondere Bestimmungen enthalten über die Einberufung, den Gang der Verhandlung und die Beurkundung der Beschlüsse des Stiftungsrates.
 
-
-## § 4
+# § 4
 
 (1) Der Stiftungsrat ist beschlußfähig, wenn je ein Mitglied des Bundes, des Landes Berlin und des Landes Nordrhein-Westfalen sowie mindestens sieben der übrigen Mitglieder anwesend oder vertreten sind.
 
@@ -84,8 +77,7 @@ g) den Erlaß und die Änderung seiner Geschäftsordnung.
 
 (4) Im übrigen faßt der Stiftungsrat seine Beschlüsse mit der einfachen Mehrheit der abgegebenen Stimmen, nicht jedoch gegen zwei Drittel der abgegebenen Länderstimmen.
 
-
-## § 5
+# § 5
 
 (1) Der Stiftungsrat ist zuständig für die Willensbildung der Stiftung, soweit es sich nicht um die Erledigung der laufenden Angelegenheiten handelt.
 
@@ -95,8 +87,7 @@ g) den Erlaß und die Änderung seiner Geschäftsordnung.
 
 (4) Der Stiftungsrat bildet einen geschäftsführenden Ausschuß, dem nach näherer Bestimmung in der Geschäftsordnung alle Angelegenheiten des Stiftungsrates mit Ausnahme der in § 4 Abs. 2 und 3 genannten übertragen werden können. Der Ausschuß setzt sich zusammen aus je zwei Stiftungsratsmitgliedern des Bundes, des Landes Berlin und des Landes Nordrhein-Westfalen sowie aus drei Stiftungsratsmitgliedern, die für jeweils drei Jahre von den übrigen Ländern benannt werden. Auch stellvertretende Stiftungsratsmitglieder können zu Ausschußmitgliedern bestellt werden. Für jedes Ausschußmitglied ist ein Stellvertreter zu bestellen. Sind ein Mitglied und dessen Stellvertreter verhindert, so können sie zu der betreffenden Sitzung einen Bevollmächtigten entsenden. Der Vorsitzende und die stellvertretenden Vorsitzenden werden vom Stiftungsrat aus dem Kreis der Ausschußmitglieder für drei Jahre bestellt. Der Ausschuß ist beschlußfähig, wenn mindestens je ein Vertreter des Bundes, des Landes Berlin und des Landes Nordrhein-Westfalen sowie zwei der drei Vertreter der übrigen Länder anwesend sind. Der Bund hat sechs Stimmen, das Land Berlin und das Land Nordrhein-Westfalen haben je eine Stimme, die übrigen Länder haben zusammen drei Stimmen. Die Stimmen des Bundes können nur einheitlich abgegeben werden. Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefaßt, nicht jedoch gegen zwei Drittel der abgegebenen Länderstimmen.
 
-
-## § 6
+# § 6
 
 (1) Der Präsident hat die Beschlüsse des Stiftungsrats auszuführen und die laufenden Angelegenheiten der Stiftung wahrzunehmen.
 
@@ -120,49 +111,41 @@ c) Verträge über Grundstücke und grundstücksgleiche Rechte,
 
 d) alle sonstigen Geschäfte, über die der Stiftungsrat sich die Beschlußfassung vorbehält.
 
-
-## § 7
+# § 7
 
 (1) Der Präsident vertritt die Stiftung gerichtlich und außergerichtlich.
 
 (2) Gegenüber dem Präsidenten wird die Stiftung durch den Vorsitzenden des Stiftungsrats vertreten.
 
-
-## § 8
+# § 8
 
 Der Präsident und sein ständiger Vertreter können nicht Mitglieder des Stiftungsrats oder deren Stellvertreter sein.
 
-
-## § 9
+# § 9
 
 (1) Der Beirat besteht aus nicht mehr als fünfzehn sachverständigen Mitgliedern, die vom Stiftungsrat unter Berücksichtigung der verschiedenen Zweige der Verwaltung des ehemals preußischen Kulturbesitzes jeweils auf fünf Jahre berufen werden. Vorschlagsberechtigt sind die Bundesregierung und die Regierung jedes an der Stiftung beteiligten Landes.
 
 (2) Die Geschäftsordnung für den Beirat erläßt der Stiftungsrat.
 
-
-## § 10
+# § 10
 
 Der Beirat und seine einzelnen Mitglieder beraten den Stiftungsrat und den Präsidenten. Der Beirat und jedes seiner Mitglieder können dem Stiftungsrat und dem Präsidenten Vorschläge und Anregungen unterbreiten.
 
-
-## § 11
+# § 11
 
 (1) Die Mitglieder des Beirats werden ehrenamtlich tätig. Die Stiftung erstattet ihnen die notwendigen baren Auslagen, entschädigt sie für entgangenen Verdienst, für notwendige Stellvertretungskosten und dergleichen durch eine Sitzungsvergütung und zahlt ihnen bei Dienstreisen eine Reisekostenvergütung. Dabei gelten die Vorschriften für die Abfindung der Mitglieder von Beiräten, Ausschüssen, Kommissionen und dergleichen in der Bundesverwaltung.
 
 (2) Für Erstattung schriftlicher Gutachten können Vergütungen vereinbart werden.
 
-
-## § 12
+# § 12
 
 Die Mitglieder der Organe der Stiftung sind verpflichtet, über Angelegenheiten, deren Geheimhaltung durch Gesetz, Organbeschluß oder besondere Anordnung vorgeschrieben ist, Verschwiegenheit zu bewahren.
 
-
-## § 13
+# § 13
 
 Das Geschäftsjahr der Stiftung ist das Kalenderjahr.
 
-
-## § 14
+# § 14
 
 (1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die Rechnungslegung der Stiftung finden die für die Bundesverwaltung geltenden Bestimmungen entsprechende Anwendung.
 
@@ -172,8 +155,7 @@ Das Geschäftsjahr der Stiftung ist das Kalenderjahr.
 
 (4) Das Ergebnis der Prüfung ist dem Bundesrechnungshof vorzulegen. Auf der Grundlage des Ergebnisses der jährlichen Prüfung entscheidet der Stiftungsrat über die Entlastung des Präsidenten oder der Präsidentin der Stiftung. Die Entlastung bedarf der Genehmigung der für Kultur zuständigen obersten Bundesbehörde und des Bundesministeriums der Finanzen.
 
-
-## § 15
+# § 15
 
 (1) Die Stiftung übernimmt mit dem Ersten des Monats, der dem Inkrafttreten dieser Satzung folgt, die Beamten, die bei Errichtung der Stiftung ganz oder überwiegend für die auf die Stiftung übergegangenen Vermögenswerte beschäftigt waren; die Vorschriften der §§ 129 und 130 des Beamtenrechtsrahmengesetzes vom 1. Juli 1957 (Bundesgesetzbl. I S. 667) sind anzuwenden. Die nach Errichtung der Stiftung von den Treuhänder-Dienstherren für Zwecke der Stiftung in das Beamtenverhältnis berufenen Personen werden nach Maßgabe des § 123 des Beamtenrechtsrahmengesetzes in den Dienst der Stiftung versetzt; dies gilt auch für Beamte, denen ein Amt noch nicht verliehen ist.
 

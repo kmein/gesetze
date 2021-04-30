@@ -1,10 +1,7 @@
-# [RVIOBeschZG] Gesetz zur Berücksichtigung von Beschäftigungszeiten bei internationalen Organisationen in der Rentenversicherung
-
-Ausfertigungsdatum: 12.06.2020
-
+% Gesetz zur Berücksichtigung von Beschäftigungszeiten bei internationalen Organisationen in der Rentenversicherung
+% Ausfertigungsdatum: 12.06.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz regelt Ansprüche von Personen, die bei einer internationalen Organisation mit Sitz in einem Mitgliedstaat der Europäischen Union, einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz Beschäftigungszeiten in Sonderversorgungssystemen zurückgelegt haben und rentenrechtliche Zeiten in der gesetzlichen Rentenversicherung oder in der Alterssicherung der Landwirte erworben haben
 
@@ -14,8 +11,7 @@ Dieses Gesetz regelt Ansprüche von Personen, die bei einer internationalen Orga
 
 3. nach dem Fünften Buch Sozialgesetzbuch oder dem Zweiten Gesetz über die Krankenversicherung der Landwirte für die Berücksichtigung von Beschäftigungszeiten bei der Pflichtmitgliedschaft in der Krankenversicherung der Rentner.
 
-
-## § 2 – Internationale Organisationen
+# § 2 – Internationale Organisationen
 
 Internationale Organisationen im Sinne dieses Gesetzes sind
 
@@ -23,22 +19,19 @@ Internationale Organisationen im Sinne dieses Gesetzes sind
 
 2. Organe der Europäischen Union sowie diesen gleichgestellten Institutionen und Einrichtungen, deren Beamte und Bedienstete unter die Verordnung Nr. 31 (EWG) 11 (EAG) über das Statut der Beamten und über die Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft (ABl. 45 vom 14.6.1962, S. 1385), die zuletzt durch die Verordnung (EU) Nr. 423/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 (ABl. L 129 vom 30.4.2014, S. 12) geändert worden ist, fallen.
 
-
-## § 3 – Beschäftigungszeiten
+# § 3 – Beschäftigungszeiten
 
 (1) Hat eine Person im Sonderversorgungssystem einer internationalen Organisation oder in Sonderversorgungssystemen mehrerer internationaler Organisationen Anwartschaftszeiten zur Absicherung des Leistungsfalls des Alters, der Invalidität oder des Todes erworben, gelten die für den entsprechenden Leistungsfall nachgewiesenen Zeiten der Zugehörigkeit zur jeweiligen internationalen Organisation als Beschäftigungszeiten.
 
 (2) Keine Beschäftigungszeiten sind Zeiten in Sonderversorgungssystemen internationaler Organisationen, wenn Anwartschaften aus diesen Zeiten durch Erstattung erloschen sind oder durch Auszahlung eines Kapitalwertes abgefunden oder durch Übertragung auf ein anderes System entnommen wurden. Satz 1 gilt auch für Zeiten, denen zuvor bereits Leistungen nach diesem Gesetz zugrunde lagen.
 
-
-## § 4 – Zusammenrechnung von Zeiten und Feststellung der Leistungshöhe
+# § 4 – Zusammenrechnung von Zeiten und Feststellung der Leistungshöhe
 
 (1) Beschäftigungszeiten werden für die Prüfung des Anspruchs ohne Infragestellung ihrer Qualität mit rentenrechtlichen Zeiten und Versicherungszeiten in einem Mitgliedstaat der Europäischen Union, einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz zusammengerechnet, sofern sich diese nicht mit rentenrechtlichen Zeiten oder Versicherungszeiten in einem Mitgliedstaat der Europäischen Union, einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz überschneiden. Beschäftigungszeiten werden auch auf die Vorversicherungszeit in der Krankenversicherung der Rentner angerechnet, sofern sie sich nicht mit anderen anrechenbaren Zeiten überschneiden.
 
 (2) Bei der Feststellung der Leistungshöhe werden die Beschäftigungszeiten nach Absatz 1 so berücksichtigt und die Leistung festgestellt, als handele es sich um Versicherungszeiten, die im gesetzlichen System eines Staates zurückgelegt wurden, das vom Anwendungsbereich der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1; L 200 vom 7.6.2004, S. 1), die zuletzt durch die Verordnung (EU) 2017/492 (ABl. L 76 vom 22.3.2017, S. 13) geändert worden ist, erfasst wird.
 
-
-## § 5 – Übergangsvorschriften
+# § 5 – Übergangsvorschriften
 
 (1) Dieses Gesetz berücksichtigt auch Tatbestände oder Ansprüche vor seinem Inkrafttreten.
 

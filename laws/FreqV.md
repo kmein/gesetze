@@ -1,20 +1,15 @@
-# [FreqV] Frequenzverordnung   (FreqV)
-
-Ausfertigungsdatum: 27.08.2013
-
+% Frequenzverordnung   (FreqV)
+% Ausfertigungsdatum: 27.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 1 des Gesetzes vom 3. Mai 2012 (BGBl. I S. 958) geändert worden ist, verordnet die Bundesregierung nach Anhörung der von Frequenzzuweisungen betroffenen Kreise:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung regelt die Zuweisung von Frequenzbereichen an einzelne Funkdienste und an andere Anwendungen elektromagnetischer Wellen für die Bundesrepublik Deutschland.
 
-
-## § 2 – Inhalt der Frequenzzuweisungstabelle
+# § 2 – Inhalt der Frequenzzuweisungstabelle
 
 (1) Die Frequenzzuweisungen für die Bundesrepublik Deutschland werden in einer Frequenzzuweisungstabelle (Teil A der Anlage) dargestellt. Diese enthält die Zuweisung der Frequenzbereiche an einzelne Funkdienste und an andere Anwendungen elektromagnetischer Wellen sowie Bestimmungen über die Frequenznutzungen und darauf bezogene nähere Festlegungen.
 
@@ -30,8 +25,7 @@ Diese Verordnung regelt die Zuweisung von Frequenzbereichen an einzelne Funkdien
 
 4. Festlegungen über andere Anwendungen elektromagnetischer Wellen.
 
-
-## § 3 – Aufbau der Frequenzzuweisungstabelle
+# § 3 – Aufbau der Frequenzzuweisungstabelle
 
 (1) Die Frequenzzuweisungstabelle besteht aus den folgenden Teilen:
 
@@ -75,8 +69,7 @@ z\. B. Ortungsfunkdienst.
 
 (5) Ein sekundärer Funkdienst ist ein Funkdienst, dessen Funkstellen weder Störungen bei den Funkstellen eines primären Funkdienstes verursachen dürfen noch Schutz vor Störungen durch solche Funkstellen verlangen können. Dies ist unabhängig davon, wann die Frequenzzuteilung an Funkstellen des primären Funkdienstes erfolgt. Schutz vor Störungen durch Funkstellen des gleichen oder eines anderen sekundären Funkdienstes kann die Funkstelle verlangen, der die Frequenz früher zugeteilt wurde.
 
-
-## § 4 – Begriffsbestimmungen
+# § 4 – Begriffsbestimmungen
 
 In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -262,18 +255,15 @@ Funkdienst für Beobachtungen und Untersuchungen in der Wetterkunde, einschließ
 
 Erderkundungsfunkdienst über Satelliten für Zwecke des Wetterdienstes.
 
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Frequenzbereichszuweisungsplanverordnung vom 28. September 2004 (BGBl. I S. 2499), die zuletzt durch Artikel 1 der Verordnung vom 22. April 2010 (BGBl. I S. 446) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – Frequenzzuweisungstabelle für die Bundesrepublik Deutschland
+# Anlage – Frequenzzuweisungstabelle für die Bundesrepublik Deutschland
 
 (BGBl. I 2013, 3330 – 3382)
 

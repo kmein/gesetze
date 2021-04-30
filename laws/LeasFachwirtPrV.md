@@ -1,15 +1,11 @@
-# [LeasFachwirtPrV] Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin
-
-Ausfertigungsdatum: 30.11.1995
-
+% Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin
+% Ausfertigungsdatum: 30.11.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 5 Nr. 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung und im Einvernehmen mit dem Bundesministerium für Wirtschaft:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Leasingfachwirt/zur Leasingfachwirtin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -25,8 +21,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -40,8 +35,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten abgeleist
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, daß er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Inhalt der Prüfung
+# § 3 – Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung gliedert sich in
 
@@ -53,8 +47,7 @@ nachweist. Die Berufspraxis im Sinne des Satzes 1 muß in Tätigkeiten abgeleist
 
 (3) Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag des als ersten abgelegten Prüfungsteils zu beginnen.
 
-
-## § 4 – Wirtschaftszweigübergreifender Teil
+# § 4 – Wirtschaftszweigübergreifender Teil
 
 (1) Im wirtschaftszweigübergreifenden Teil ist in folgenden Fächern zu prüfen:
 
@@ -174,8 +167,7 @@ b) Zwangsvollstreckungsverfahren.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Wirtschaftszweigspezifischer Teil
+# § 5 – Wirtschaftszweigspezifischer Teil
 
 (1) Im wirtschaftszweigspezifischen Teil ist in folgenden Fächern zu prüfen:
 
@@ -293,15 +285,13 @@ c) Mietpreiskalkulation.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -311,8 +301,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -328,8 +317,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -343,8 +331,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -352,8 +339,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
@@ -361,22 +347,19 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 Fundstelle: BGBl. I 2019, 2195 - 2196)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2196)
 

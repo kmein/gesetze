@@ -1,10 +1,7 @@
-# [MPKPV] Verordnung über klinische Prüfungen von Medizinprodukten  (MPKPV)
-
-Ausfertigungsdatum: 10.05.2010
-
+% Verordnung über klinische Prüfungen von Medizinprodukten  (MPKPV)
+% Ausfertigungsdatum: 10.05.2010
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Verordnung gilt für klinische Prüfungen und genehmigungspflichtige Leistungsbewertungsprüfungen gemäß den §§ 20 bis 24 des Medizinproduktegesetzes, deren Ergebnisse verwendet werden sollen zu:
 
@@ -16,15 +13,13 @@ Ausfertigungsdatum: 10.05.2010
 
 (2) Auf Leistungsbewertungsprüfungen nach § 24 Satz 1 Nummer 1 des Medizinproduktegesetzes, bei denen eine nicht chirurgisch-invasive Probenahme aus der Mundhöhle erfolgt, ist diese Verordnung nicht anzuwenden.
 
-
-## § 2 – Kennzeichnung
+# § 2 – Kennzeichnung
 
 (1) Medizinprodukte, die für klinische Prüfungen bestimmt sind, müssen, mit Ausnahme von Medizinprodukten gemäß § 1 Absatz 1 Nummer 3, den Hinweis „nur für klinische Prüfungen“ tragen, Produkte für Leistungsbewertungszwecke den Hinweis „nur für Leistungsbewertungszwecke“.
 
 (2) Die Kennzeichnung muss den Schutz der Probanden, Anwender oder Dritter und die Rückverfolgbarkeit sicherstellen, die Identifizierung des einzelnen Medizinproduktes ermöglichen und eine ordnungsgemäße Anwendung des Medizinproduktes gewährleisten. Die einschlägigen Bestimmungen zur Bereitstellung von Informationen durch den Hersteller in Anhang 1 der Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17), die zuletzt durch Artikel 1 der Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, Anhang I der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch Artikel 2 der Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, und Anhang I der Richtlinie 98/79/EG des Europäischen Parlaments und des Rates vom 27. Oktober 1998 über In-vitro-Diagnostika (ABl. L 331 vom 7.12.1998, S. 1), die zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14) geändert worden ist, sind entsprechend anzuwenden.
 
-
-## § 3 – Antragstellung
+# § 3 – Antragstellung
 
 (1) Der Antrag nach § 22 Absatz 1 Satz 1 und § 22a Absatz 1 Satz 1 des Medizinproduktegesetzes ist im Wege der Datenübertragung über das zentrale Erfassungssystem des Bundesinstituts für Arzneimittel und Medizinprodukte einzureichen. Der Antrag muss die in der maßgeblichen Anlage zu der Rechtsverordnung nach § 37 Absatz 8 des Medizinproduktegesetzes aufgeführten Angaben enthalten. Das Bundesinstitut für Arzneimittel und Medizinprodukte teilt über ein automatisiertes elektronisches Verfahren dem Sponsor, der zuständigen Bundesoberbehörde und der nach § 22 Absatz 1 des Medizinproduktegesetzes zuständigen Ethik-Kommission (zuständige Ethik-Kommission) mit, dass der Antrag eingereicht wurde. Bei multizentrischen klinischen Prüfungen oder Leistungsbewertungsprüfungen, die im Geltungsbereich des Medizinproduktegesetzes in mehr als einer Prüfstelle durchgeführt werden, benachrichtigt das Bundesinstitut für Arzneimittel und Medizinprodukte jede weitere nach Landesrecht gebildete und nach § 5 zu beteiligende Ethik-Kommission (beteiligte Ethik-Kommission) darüber, dass der Antrag eingereicht wurde.
 
@@ -86,13 +81,11 @@ Ausfertigungsdatum: 10.05.2010
 
 7. die Beschreibung der Verfahren zur Dokumentation, Bewertung und Meldung von schwerwiegenden unerwünschten Ereignissen an die zuständige Bundesoberbehörde.
 
-
-## § 4 – Ergänzende Informationen der Genehmigungsbehörden
+# § 4 – Ergänzende Informationen der Genehmigungsbehörden
 
 Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten weitere Informationen, insbesondere zu den Anträgen, Anzeigen und Verfahren nach § 20 Absatz 1 sowie zu den §§ 22a bis 24 des Medizinproduktegesetzes und zu den §§ 1, 3, 6, 7 und 8 dieser Verordnung.
 
-
-## § 5 – Bewertungsverfahren
+# § 5 – Bewertungsverfahren
 
 (1) Die zuständige Ethik-Kommission bestätigt dem Sponsor und den beteiligten Ethik-Kommissionen innerhalb von zehn Tagen den Eingang des ordnungsgemäßen Antrags unter Angabe des Eingangsdatums. Wenn Unterlagen zum Antrag ohne Begründung hierfür fehlen oder der Antrag aus sonstigen Gründen nicht ordnungsgemäß ist, fordert die zuständige Ethik-Kommission den Sponsor auf, die von ihr benannten Formmängel zu beheben. Die Mitteilung enthält den Hinweis, dass der Lauf der Frist nach § 22 Absatz 4 Satz 1 des Medizinproduktegesetzes erst nach Eingang des ordnungsgemäßen Antrags beginnt.
 
@@ -136,8 +129,7 @@ Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten w
 
 (5) Die zuständige Ethik-Kommission teilt dem Sponsor ihre Bewertung in Schriftform mit und übermittelt diese zeitgleich der zuständigen Bundesoberbehörde im Wege der Datenübertragung über das zentrale Erfassungssystem des Bundesinstituts für Arzneimittel und Medizinprodukte.
 
-
-## § 6 – Genehmigungsverfahren
+# § 6 – Genehmigungsverfahren
 
 (1) Die zuständige Bundesoberbehörde bestätigt dem Sponsor innerhalb von zehn Tagen den Eingang des ordnungsgemäßen Antrags unter Angabe des Eingangsdatums. In der Eingangsbestätigung ist auf die Frist nach § 22a Absatz 4 Satz 1 des Medizinproduktegesetzes, die Voraussetzungen für den Beginn des Fristablaufs und auf die Rechtsfolge hinzuweisen, die an den Fristablauf geknüpft ist. Wenn Unterlagen zum Antrag ohne Begründung hierfür fehlen oder der Antrag aus sonstigen Gründen nicht ordnungsgemäß ist, fordert die zuständige Bundesoberbehörde den Sponsor auf, die von ihr benannten Formmängel zu beheben. Die Mitteilung enthält den Hinweis, dass der Lauf der Frist nach § 22a Absatz 4 Satz 1 des Medizinproduktegesetzes erst nach Eingang des ordnungsgemäßen Antrags beginnt.
 
@@ -171,8 +163,7 @@ Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten w
 
 4. die angemessene präklinische Validierung der analytischen und diagnostischen Genauigkeit und des prädiktiven und prognostischen Nutzens.
 
-
-## § 7 – Verfahren bei klinischen Prüfungen und Leistungsbewertungsprüfungen von Medizinprodukten mit geringem Sicherheitsrisiko
+# § 7 – Verfahren bei klinischen Prüfungen und Leistungsbewertungsprüfungen von Medizinprodukten mit geringem Sicherheitsrisiko
 
 (1) Für die folgenden Medizinprodukte kann der Sponsor bei der zuständigen Bundesoberbehörde eine Befreiung von der Genehmigungspflicht gemäß § 20 Absatz 1 Satz 2 des Medizinproduktegesetzes über das zentrale Erfassungssystem beim Bundesinstitut für Arzneimittel und Medizinprodukte beantragen:
 
@@ -196,8 +187,7 @@ Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten w
 
 (4) Unbeschadet der Absätze 1 bis 3 hat der Sponsor die nach § 20 Absatz 1 Satz 1 des Medizinproduktegesetzes erforderliche zustimmende Bewertung bei der zuständigen Ethik-Kommission nach Maßgabe des § 3 Absatz 1 bis 3 zu beantragen.
 
-
-## § 8 – Änderungen
+# § 8 – Änderungen
 
 (1) Änderungen nach § 22c Absatz 1 des Medizinproduktegesetzes sind vom Sponsor über das zentrale Erfassungssystem beim Bundesinstitut für Arzneimittel und Medizinprodukte anzuzeigen. Änderungen gegenüber den gemäß § 3 eingereichten Unterlagen sind kenntlich zu machen, die geänderten Unterlagen sind der Änderungsanzeige beizufügen. Stellt die zuständige Bundesoberbehörde fest, dass eine angezeigte Änderung die Voraussetzungen einer wesentlichen Änderung erfüllt, teilt sie dies dem Sponsor unverzüglich mit und informiert die zuständigen Behörden über das zentrale Erfassungssystem beim Bundesinstitut für Arzneimittel und Medizinprodukte. Für Anträge nach § 22c Absatz 2 des Medizinproduktegesetzes gilt Satz 1 entsprechend. Das Bundesinstitut für Arzneimittel und Medizinprodukte teilt über ein automatisiertes elektronisches Verfahren dem Sponsor mit, dass der Antrag oder die Änderungsanzeige eingereicht wurde.
 
@@ -207,8 +197,7 @@ Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten w
 
 (4) Änderungen der Anträge und der Antragsunterlagen während der Verfahren nach den §§ 5 bis 7 sind mit Ausnahme von Änderungen gemäß § 6 Absatz 3 Satz 2 nicht zulässig.
 
-
-## § 9 – Anforderungen an Prüfer
+# § 9 – Anforderungen an Prüfer
 
 (1) Prüfer und Hauptprüfer müssen entsprechend qualifizierte Ärzte oder Ärztinnen, bei für die Zahnheilkunde bestimmten Medizinprodukten entsprechend qualifizierte Zahnärzte oder Zahnärztinnen sein. Personen ohne ärztliche oder zahnärztliche Qualifikation dürfen als Prüfer oder Hauptprüfer tätig werden, sofern sie zur Ausübung eines Berufs berechtigt sind, der zu einer klinischen Prüfung oder Leistungsbewertungsprüfung qualifiziert. Der Nachweis der Qualifikation ist durch einen aktuellen Lebenslauf oder durch andere aussagefähige Dokumente zu erbringen.
 
@@ -218,8 +207,7 @@ Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten w
 
 2. mit den Grundzügen des Medizinprodukterechts, den rechtlichen und wissenschaftlichen Grundlagen von klinischen Prüfungen oder Leistungsbewertungsprüfungen sowie mit dem Prüfplan oder dem Evaluierungsplan und dem Handbuch des klinischen Prüfers vertraut sein und in die sich daraus ergebenden Pflichten eingewiesen worden sein.
 
-
-## § 10 – Durchführung der klinischen Prüfung und Leistungsbewertungsprüfung
+# § 10 – Durchführung der klinischen Prüfung und Leistungsbewertungsprüfung
 
 (1) Der Sponsor und der Prüfer stellen sicher, dass die klinische Prüfung oder Leistungsbewertungsprüfung in Übereinstimmung mit einem dem Stand der Wissenschaft und Technik entsprechenden, von der zuständigen Ethik-Kommission zustimmend bewerteten und, sofern keine Befreiung von der Genehmigungspflicht besteht, von der zuständigen Behörde genehmigten Prüf- oder Evaluierungsplan durchgeführt wird.
 
@@ -235,8 +223,7 @@ Die zuständigen Bundesoberbehörden veröffentlichen auf ihren Internetseiten w
 
 (7) Der Sponsor hat dafür Sorge zu tragen, dass die Prüfbögen für die zuständigen Behörden zehn Jahre nach Beendigung oder Abbruch der Prüfung bereitgehalten werden. Andere Vorschriften zur Aufbewahrung von medizinischen Unterlagen bleiben unberührt.
 
-
-## § 11 – Überwachung
+# § 11 – Überwachung
 
 (1) Die zuständige Behörde überwacht in angemessenem Umfang unter besonderer Berücksichtigung möglicher Risiken bei Sponsoren, Prüfern, Prüfstellen, Herstellern oder Produzenten und anderen Beteiligten, ob die klinische Prüfung oder Leistungsbewertungsprüfung in Übereinstimmung mit dem Prüf- oder Evaluierungsplan sowie den medizinprodukterechtlichen Vorschriften durchgeführt wird.
 

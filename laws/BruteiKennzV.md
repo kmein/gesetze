@@ -1,15 +1,11 @@
-# [BruteiKennzV] Verordnung über Vermarktungsnormen für Bruteier und Küken von Hausgeflügel  (Bruteier-Kennzeichnungsverordnung - BruteiKennzV)
-
-Ausfertigungsdatum: 04.04.1973
-
+% Verordnung über Vermarktungsnormen für Bruteier und Küken von Hausgeflügel  (Bruteier-Kennzeichnungsverordnung - BruteiKennzV)
+% Ausfertigungsdatum: 04.04.1973
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 3 Satz 1 und des § 2 Abs. 2 des Handelsklassengesetzes in der Fassung der Bekanntmachung vom 23. November 1972 (Bundesgesetzbl. I S. 2201) wird vom Bundesminister für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den Bundesministern für Jugend, Familie und Gesundheit und für Wirtschaft und hinsichtlich des § 2 auf Grund des § 27 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen (MOG) vom 31. August 1972 (Bundesgesetzbl. I S. 1617) im Einvernehmen mit den Bundesministern für Wirtschaft und der Finanzen mit Zustimmung des Bundesrates sowie hinsichtlich des § 3 auf Grund des § 5 Abs. 1 Satz 2 des Handelsklassengesetzes und hinsichtlich des § 5 auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 481), zuletzt geändert durch das Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen (StrEG) vom 8. März 1971 (Bundesgesetzbl. I S. 157), vom Bundesminister für Ernährung, Landwirtschaft und Forsten verordnet:
 
-
-## § 1 – Verbot des Inverkehrbringens
+# § 1 – Verbot des Inverkehrbringens
 
 (1) Es ist verboten, entgegen Artikel 116 in Verbindung mit Anhang XIV Teil C Kapitel I Nummer 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch die Verordnung (EU) Nr. 513/2010 (ABl. L 150 vom 16.6.2010, S. 40) geändert worden ist, in Verbindung mit
 
@@ -45,13 +41,11 @@ zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkau
 
 (4) Abweichend von Artikel 3 Absatz 2 der Verordnung (EG) Nr. 617/2008 dürfen Bruteier zum Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht werden, wenn diese vor dem Einlegen in den Brutschrank im Erzeugerbetrieb oder in der Brüterei mit einem deutlich sichtbaren schwarzen Punkt aus unverwischbarer Farbe gekennzeichnet werden. Der Punkt muss eine Größe von mindestens 10 mm² haben.
 
-
-## § 2 – Begleitpapier für Küken
+# § 2 – Begleitpapier für Küken
 
 Das Begleitpapier für Küken nach Artikel 5 der Verordnung (EG) Nr. 617/2008 muß bei der Einfuhr und Ausfuhr (§ 4 Nummer 1 und 2 Buchstabe a des Marktorganisationsgesetzes) in doppelter Ausführung ausgestellt sein. Das Doppel des Begleitpapiers ist zum Zwecke der Weiterleitung an die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) bei der Zolldienststelle abzugeben, die die Küken zur Einfuhr oder Ausfuhr abfertigt.
 
-
-## § 3 – Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
+# § 3 – Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung
 
 (1) Der Bundesanstalt wird übertragen die Überwachung der Einhaltung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union und dieser Verordnung bei Einfuhr von Bruteiern und Küken
 
@@ -61,8 +55,7 @@ Das Begleitpapier für Küken nach Artikel 5 der Verordnung (EG) Nr. 617/2008 mu
 
 (2) Zum Zwecke der Durchführung der Überwachung der Einfuhr von Bruteiern und Küken verarbeitet die Bundesanstalt für Landwirtschaft und Ernährung die Daten gemäß Abschnitt III der Anlage des Marktorganisationsgesetzes.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig entgegen § 1 Bruteier oder Küken zum Verkauf vorrätig hält, anbietet, feilhält, liefert, verkauft oder in den Verkehr bringt.
 
@@ -76,8 +69,7 @@ Das Begleitpapier für Küken nach Artikel 5 der Verordnung (EG) Nr. 617/2008 mu
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Ernährung und Landwirtschaft, soweit sie nach § 3 für die Überwachung zuständig ist.
 
-
-## § 5 – Überwachung, Duldungs- und Auskunftspflichten
+# § 5 – Überwachung, Duldungs- und Auskunftspflichten
 
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser Verordnung geltenden Vorschriften erforderlich ist, können die Beauftragten der zuständigen Stellen bei Brütereien und Betrieben, die Bruteier zum Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem Geltungsbereich dieser Verordnung verbringen, während der Geschäftszeit
 
@@ -89,10 +81,8 @@ Das Begleitpapier für Küken nach Artikel 5 der Verordnung (EG) Nr. 617/2008 mu
 
 (2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und Transportmittel sowie die dort vorzunehmenden Besichtigungen zu gestatten, die zu besichtigenden Bruteier oder Küken selbst oder durch andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden kann, selbst oder durch andere die erforderliche Hilfe bei der Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte zu erteilen.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (weggefallen)
+# Anlage – (weggefallen)

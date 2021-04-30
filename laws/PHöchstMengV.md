@@ -1,10 +1,7 @@
-# [PHöchstMengV] Verordnung über Höchstmengen für Phosphate in Wasch- und Reinigungsmitteln  (Phosphathöchstmengenverordnung - PHöchstMengV)
-
-Ausfertigungsdatum: 04.06.1980
-
+% Verordnung über Höchstmengen für Phosphate in Wasch- und Reinigungsmitteln  (Phosphathöchstmengenverordnung - PHöchstMengV)
+% Ausfertigungsdatum: 04.06.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und 3 des Waschmittelgesetzes vom 20. August 1975 (BGBl. I S. 2255) wird nach Anhörung der beteiligten Kreise
 
@@ -16,13 +13,11 @@ zu § 4 Abs. 3 im Einvernehmen mit den Bundesministern für Wirtschaft und für 
 
 mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung wird angewandt auf Wasch- und Reinigungsmittel, die zur Reinigung von Textilien im Haushalt oder in Wäschereien bestimmt sind und für die wegen ihres Phosphatgehaltes Dosierungsempfehlungen anzugeben sind. Sie wird nicht angewandt auf Wasch- und Reinigungsmittel, die zur Lieferung in Gebiete außerhalb des Geltungsbereiches dieser Verordnung bestimmt sind.
 
-
-## § 2 – Wasch- und Reinigungsmittel zur Verwendung im Haushalt
+# § 2 – Wasch- und Reinigungsmittel zur Verwendung im Haushalt
 
 (1) Es ist Herstellern, Einführern und Vertriebsunternehmen untersagt, Wasch- und Reinigungsmittel zur Verwendung im Haushalt in den Verkehr zu bringen, die einen Phosphatgehalt aufweisen, der bei bestimmungsgemäßem Gebrauch die in den Absätzen 2 und 3 festgesetzten Obergrenzen (Phosphathöchstmengen) überschreitet. Bei Wasch- und Reinigungsmitteln, die nach ihren Dosierungsempfehlungen gleichzeitig mit anderen Wasch- und Reinigungsmitteln zu verwenden sind, darf der Phosphatgehalt insgesamt nicht die Obergrenzen der Absätze 2 und 3 überschreiten.
 
@@ -146,8 +141,7 @@ in der Vorwäsche:
 
 0,80
 
-
-## § 3 – Wasch- und Reinigungsmittel zur Verwendung in Wäschereien
+# § 3 – Wasch- und Reinigungsmittel zur Verwendung in Wäschereien
 
 (1) Der höchstzulässige Phosphatgehalt von Wasch- und Reinigungsmitteln zur Verwendung in Wäschereien bemißt sich ab 1. Oktober 1981 bei Beachtung der Dosierungsempfehlungen und auf der Grundlage eines Verhältnisses von 1 Kilogramm Trockenwäsche zu 5 Litern Waschlauge nach folgenden Obergrenzen für den Phosphatgehalt in der Waschlauge, ermittelt als Gramm an elementarem Phosphor je Liter Waschlauge (g/lP; Phosphathöchstmengen):  
 
@@ -204,40 +198,33 @@ Für Wasch- und Reinigungsmittel, die aufeinander abgestimmt sind und nach ihren
 
 (2) Bei Wasch- und Reinigungsmitteln, die nach ihren Dosierungsempfehlungen gleichzeitig mit anderen Wasch- und Reinigungsmitteln zu verwenden sind, darf der Phosphatgehalt insgesamt nicht die Obergrenzen des Absatzes 1 Satz 1 überschreiten.
 
-
-## § 4 – Verfahren
+# § 4 – Verfahren
 
 Der Phosphatgehalt der Wasch- und Reinigungsmittel ist nach dem in der Anlage zu dieser Verordnung beschriebenen Verfahren oder nach einem Verfahren zu bestimmen, das gleichwertige Ergebnisse erbringt.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 11 Abs. 1 Nr. 6 des Waschmittelgesetzes handelt, wer entgegen § 2 Abs. 1 vorsätzlich oder fahrlässig ein zur Verwendung im Haushalt bestimmtes Wasch- oder Reinigungsmittel in den Verkehr bringt, dessen Phosphatgehalt die in § 2 Abs. 2 oder 3 festgesetzten Höchstmengen überschreitet.
 
 (2) Eine Ordnungswidrigkeit nach § 11 Abs. 1 Nr. 2 des Waschmittelgesetzes begeht, wer vorsätzlich oder fahrlässig ein zur Verwendung in Wäschereien bestimmtes Wasch- oder Reinigungsmittel in den Verkehr bringt, dessen Phosphatgehalt die in § 3 festgesetzten Höchstmengen überschreitet.
 
-
-## § 6 – Übergangsbestimmung
+# § 6 – Übergangsbestimmung
 
 Wasch- und Reinigungsmittel, die vor dem 1. Oktober 1981 (§ 2 Abs. 2, § 3 Abs. 1) hergestellt worden sind, dürfen auch danach in den Verkehr gebracht werden. Dies gilt entsprechend für Wasch- und Reinigungsmittel, die vor dem 1. Januar 1984 (§ 2 Abs. 3) hergestellt worden sind.
 
-
-## § 7 – Berlin-Klausel
+# § 7 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 13 des Waschmittelgesetzes auch im Land Berlin.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister des Innern
 
-
-## Anlage – (zu § 4)  Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
+# Anlage – (zu § 4)  Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
 
 Fundstelle des Originaltextes: BGBl. I 1980, 666
 

@@ -1,10 +1,7 @@
-# [AMVerkRV] Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel
-
-Ausfertigungsdatum: 24.11.1988
-
+% Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel
+% Ausfertigungsdatum: 24.11.1988
  
-
-## § 1
+# § 1
 
 (1) Folgende Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes, die dazu bestimmt sind, zur Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden zu dienen, werden für den Verkehr außerhalb der Apotheken freigegeben:
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 24.11.1988
 
 Der Zusatz von arzneilich nicht wirksamen Stoffen oder Zubereitungen aus Stoffen ist zulässig. Die bei der Herstellung verlorengegangenen ätherischen Öle der Ausgangsdrogen dürfen nach Art und Menge ersetzt werden.
 
-
-## § 2
+# § 2
 
 (1) Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes sind als Fertigarzneimittel für den Verkehr außerhalb der Apotheken auch freigegeben, wenn sie ausschließlich dazu bestimmt sind:
 
@@ -35,13 +31,11 @@ Der Zusatz von arzneilich nicht wirksamen Stoffen oder Zubereitungen aus Stoffen
 
 (2) Die in Absatz 1 genannten Arzneimitteln dürfen auch arzneilich nicht wirksame Stoffe oder Zubereitungen aus Stoffen zugesetzt sein.
 
-
-## § 3
+# § 3
 
 Die §§ 1 und 2 gelten nicht für Arzneimittel, die zur Injektion oder Infusion, zur rektalen, vaginalen oder intrauterinen Anwendung, zur intramammären Anwendung bei Tieren, als Wundstäbchen, als Implantate sowie als Aerosole bis zu einer mittleren Teilchengröße von nicht mehr als 5 mym zur unmittelbaren Anwendung am oder im Körper in den Verkehr gebracht werden.
 
-
-## § 4
+# § 4
 
 Für den Verkehr außerhalb der Apotheken freigegeben sind Arzneimittel im Sinne des § 2 Absatz 1 oder Absatz 2 Nummer 1 des Arzneimittelgesetzes, die
 
@@ -49,18 +43,15 @@ Für den Verkehr außerhalb der Apotheken freigegeben sind Arzneimittel im Sinne
 
 2. für die jeweilige Anwendung bei der betreffenden Tierart nach Nummer 1 nicht der Verschreibungspflicht nach § 48 Absatz 1 des Arzneimittelgesetzes unterliegen.
 
-
-## § 5
+# § 5
 
 Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den Verkehr außerhalb der Apotheken wird nicht dadurch ausgeschlossen, daß sie dazu bestimmt sind, teilweise auch zu anderen Zwecken als zur Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden zu dienen.
 
-
-## § 6
+# § 6
 
 Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den Verkehr außerhalb der Apotheken ist, soweit in dieser Verordnung nichts anderes bestimmt ist, ausgeschlossen, wenn sie teilweise oder ausschließlich zur Beseitigung oder Linderung oder wenn sie teilweise zur Verhütung der in der Anlage 3 genannten Krankheiten oder Leiden bestimmt sind.
 
-
-## § 7
+# § 7
 
 (1) Die in § 44 Abs. 2 des Arzneimittelgesetzes genannten Arzneimittel sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
 
@@ -80,8 +71,7 @@ Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den Verkehr 
 
 3. die in § 44 Abs. 2 Nr. 5 des Arzneimittelgesetzes bezeichneten Arzneimittel.
 
-
-## § 8
+# § 8
 
 (1) Die in § 44 Abs. 1 des Arzneimittelgesetzes genannten Arzneimittel sind vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn
 
@@ -95,8 +85,7 @@ Die Freigabe der in den §§ 1, 2 und 4 genannten Arzneimittel für den Verkehr 
 
 (2) Absatz 1 Nr. 4 gilt nicht für Arzneimittel, die zur Verhütung von Krankheiten der Zierfische, Zier- oder Singvögel, Brieftauben, Terrarientiere, Kleinnager, Frettchen oder nicht der Gewinnung von Lebensmitteln dienenden Kaninchen bestimmt sind.
 
-
-## § 9
+# § 9
 
 Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie chemische Verbindungen sind, denen nach den Erkenntnissen der medizinischen Wissenschaft eine  
 antibiotische,  
@@ -108,18 +97,15 @@ parasympathicolytische,
 sympathicomimetische (adrenergische) oder sympathicolytische  
 Wirkung auf den menschlichen oder tierischen Körper zukommt. Das gleiche gilt, wenn ihnen solche chemischen Verbindungen zugesetzt sind.
 
-
-## § 10
+# § 10
 
 Die in § 44 des Arzneimittelgesetzes genannten Arzneimittel sind ferner vom Verkehr außerhalb der Apotheken ausgeschlossen, wenn sie zur Injektion oder Infusion, zur rektalen oder intrauterinen Anwendung, zur intramammären oder vaginalen Anwendung bei Tieren, als Implantate oder als Aerosole bis zu einer mittleren Teilchengröße von nicht mehr als 5 mym in den Verkehr gebracht werden.
 
-
-## § 11
+# § 11
 
 Arzneimittel, die sich am 31. Januar 2007 in Verkehr befinden und durch die Zweite Verordnung zur Änderung der Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel apothekenpflichtig werden, dürfen noch bis zum 1. Mai 2007 von pharmazeutischen Unternehmern und danach von Groß- und Einzelhändlern weiter in Verkehr gebracht werden.
 
-
-## Anlage 1a – (zu § 1 Abs. 1 Nr. 1)
+# Anlage 1a – (zu § 1 Abs. 1 Nr. 1)
 
 (Fundstelle: BGBl. I 1988, 2153 - 2156;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -451,8 +437,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
       auch mit Zusatz von Lebertran, als Fertigarzneimittel
     Zitronellöl, ätherisches 
 
-
-## Anlage 1b – (zu § 1 Abs. 1 Nr. 2, § 7 Abs. 1 Nr. 2 und § 8 Abs. 1 Nr. 2)
+# Anlage 1b – (zu § 1 Abs. 1 Nr. 2, § 7 Abs. 1 Nr. 2 und § 8 Abs. 1 Nr. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 1988, 2156 - 2157;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -465,8 +450,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - ausgenommen in einer Tagesdosis bis zu 1 g Drogenäquivalent und bis zu 1 mg Hyperforin sowie als Tee, Frischpflanzensaft oder ölige Zubereitungen zur äußerlichen Anwendung -</td><td> </td></tr><tr class="even"><td>Kaskarillabaum (Granatill)</td><td>Croton cascarilla</td></tr><tr class="odd"><td> </td><td>Croton eluteria</td></tr><tr class="even"><td>Koloquinte</td><td>Citrullus colocynthis</td></tr><tr class="odd"><td>Kreuzdornbeeren und seine</td><td> </td></tr><tr class="even"><td>Zubereitungen</td><td> </td></tr><tr class="odd"><td>Krotonölbaum (Granatill)</td><td>Croton tiglium</td></tr><tr class="even"><td>Küchenschelle</td><td>Pulsatilla pratensis</td></tr><tr class="odd"><td> </td><td>Pulsatilla vulgaris</td></tr><tr class="even"><td>Lebensbaum</td><td>Thuja occidentalis</td></tr><tr class="odd"><td>Lobelien-Arten</td><td> </td></tr><tr class="even"><td>Maiglöckchen</td><td>Convallaria majalis</td></tr><tr class="odd"><td>Meerzwiebel, weiße und rote</td><td>Urginea maritima</td></tr><tr class="even"><td>Mutterkorn</td><td>Secale cornutum</td></tr><tr class="odd"><td>Nachtschatten, bittersüßer</td><td>Solanum dulcamara</td></tr><tr class="even"><td>Nieswurz, grüne</td><td>Helleborus viridis</td></tr><tr class="odd"><td>Nieswurz, schwarze (Christrose)</td><td>Helleborus niger</td></tr><tr class="even"><td>Oleander</td><td>Nerium oleander</td></tr><tr class="odd"><td>Pestwurz<br />
 - ausgenommen Zubereitungen aus Pestwurzwurzelstock zum inneren Gebrauch, die in der Tagesdosis nicht mehr als 1 myg Pyrrolizidin-Alkaloide mit 1,2-ungesättigtem Necingerüst einschließlich ihrer N-Oxide enthalten -</td><td> </td></tr><tr class="even"><td>Physostigma-Arten</td><td> </td></tr><tr class="odd"><td>Pilocarpus-Arten</td><td> </td></tr><tr class="even"><td>Rainfarn</td><td>Chrysanthemum vulgare</td></tr><tr class="odd"><td>Rauwolfia</td><td>Rauwolfia serpentina</td></tr><tr class="even"><td> </td><td>Rauwolfia tetraphylla</td></tr><tr class="odd"><td> </td><td>Rauwolfia vomitoria</td></tr><tr class="even"><td>Rhabarber</td><td>Rheum palmatum</td></tr><tr class="odd"><td> </td><td>Rheum officinale</td></tr><tr class="even"><td>Sadebaum</td><td>Juniperus sabina</td></tr><tr class="odd"><td>Scammonia</td><td>Convolvulus scammonia</td></tr><tr class="even"><td>Schlafmohn</td><td>Papaver somniferum</td></tr><tr class="odd"><td>Schöllkraut</td><td>Chelidonium majus</td></tr><tr class="even"><td>Senna</td><td>Cassia angustifolia</td></tr><tr class="odd"><td> </td><td>Cassia senna</td></tr><tr class="even"><td>Stechapfel-Arten (Datura)</td><td> </td></tr><tr class="odd"><td>Stephansrittersporn</td><td>Delphinium staphisagria</td></tr><tr class="even"><td>Stropanthus-Arten</td><td> </td></tr><tr class="odd"><td>Strychnos-Arten</td><td> </td></tr><tr class="even"><td>Tollkirsche</td><td>Atropa bella-donna</td></tr><tr class="odd"><td>Tollkraut-Arten (Scopolia)</td><td> </td></tr><tr class="even"><td>Wasserschierling</td><td>Cicuta virosa</td></tr><tr class="odd"><td>Yohimbebaum</td><td>Pausinystalia yohimba</td></tr></tbody></table>
 
-
-## Anlage 1c – (zu § 1 Abs. 1 Nr. 3)
+# Anlage 1c – (zu § 1 Abs. 1 Nr. 3)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2158 - 2159;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -555,8 +539,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | Ysopkraut                                                                                                                                                                        | Hyssopi herba                  |
 | Zitterwurzelstock                                                                                                                                                                | Zedoariae rhizoma              |
 
-
-## Anlage 1d – (zu § 1 Abs. 2 Nr. 1 und 2)
+# Anlage 1d – (zu § 1 Abs. 2 Nr. 1 und 2)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2160;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -590,8 +573,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | Weißdornblüten                                                                                                                                                                     | Crataegi flores               |
 | Weißdornfrüchte                                                                                                                                                                    | Crataegi fructus              |
 
-
-## Anlage 1e – (zu § 1 Abs. 2 Nr. 2)
+# Anlage 1e – (zu § 1 Abs. 2 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2160 - 2161;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -636,8 +618,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | Weidenrinde                              | Salicis cortex                 |
 | Wermutkraut                              | Absinthii herba                |
 
-
-## Anlage 2a – (zu § 2 Abs. 1 Nr. 1)
+# Anlage 2a – (zu § 2 Abs. 1 Nr. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2161;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -666,8 +647,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | Tolubalsam                                                                                                                                                       |
 | Weinsäure                                                                                                                                                        |
 
-
-## Anlage 2b – (zu § 2 Abs. 1 Nr. 2)
+# Anlage 2b – (zu § 2 Abs. 1 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1988, 2161
 
@@ -689,8 +669,7 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 | Tragant                                                                                        |
 | Weizenkleie                                                                                    |
 
-
-## Anlage 2c – (zu § 2 Abs. 1 Nr. 3)
+# Anlage 2c – (zu § 2 Abs. 1 Nr. 3)
 
 |                                             |
 |:--------------------------------------------|
@@ -708,8 +687,7 @@ Fundstelle des Originaltextes: BGBl. I 1988, 2161
 | Milchsäure bis 10%ig                        |
 | Salicylsäure bis 40%ig                      |
 
-
-## Anlage 3 – (zu §§ 6, 7 Abs. 1 Nr. 4, Abs. 2 Nr. 1 und § 8 Abs. 1 Nr. 4)
+# Anlage 3 – (zu §§ 6, 7 Abs. 1 Nr. 4, Abs. 2 Nr. 1 und § 8 Abs. 1 Nr. 4)
 
 (Fundstelle: BGBl. I 1988, 2162;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -772,8 +750,7 @@ B. Krankheiten und Leiden beim Tier
 
 7. Fruchtbarkeitsstörungen bei Pferden, Rindern, Schweinen, Schafen und Ziegen
 
-
-## Anlage 4 – (zu § 7 Abs. 1 Nr. 1 und § 8 Abs. 1 Nr. 1)
+# Anlage 4 – (zu § 7 Abs. 1 Nr. 1 und § 8 Abs. 1 Nr. 1)
 
 (Fundstelle: BGBl. I 1988, 2163;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

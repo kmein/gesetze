@@ -1,10 +1,7 @@
-# [Münz100EuroBek 2010] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Würzburger Residenz und Hofgarten“)
-
-Ausfertigungsdatum: 23.08.2010
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Würzburger Residenz und Hofgarten“)
+% Ausfertigungsdatum: 23.08.2010
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, in Würdigung des UNESCO Welterbes der Würzburger Residenz und Hofgarten eine Gedenkmünze zu 100 Euro aus Gold prägen zu lassen.
 
@@ -22,12 +19,10 @@ Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“
 
 Der Münzrand wird geriffelt ausgeführt.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2010, 1243)

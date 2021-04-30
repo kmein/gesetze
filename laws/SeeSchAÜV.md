@@ -1,15 +1,11 @@
-# [SeeSchAÜV] Verordnung zur Übertragung von Aufgaben auf dem Gebiet der Seeschiffahrt zur Ausübung auf die Bundespolizei und die Zollverwaltung  (Seeschiffahrtsaufgaben-Übertragungsverordnung)
-
-Ausfertigungsdatum: 23.06.1982
-
+% Verordnung zur Übertragung von Aufgaben auf dem Gebiet der Seeschiffahrt zur Ausübung auf die Bundespolizei und die Zollverwaltung  (Seeschiffahrtsaufgaben-Übertragungsverordnung)
+% Ausfertigungsdatum: 23.06.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 2 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt in der Fassung der Bekanntmachung vom 30. Juni 1977 (BGBl. I S. 1314), der durch Artikel 3 Nr. 2 des Gesetzes vom 23. Dezember 1981 (BGBl. 1982 II S. 2) geändert worden ist, wird im Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister der Finanzen verordnet:
 
-
-## § 1
+# § 1
 
 (1) Seewärts der Begrenzung des deutschen Küstenmeeres werden der Bundespolizei und der Zollverwaltung folgende Aufgaben nach § 1 Nr. 3 Buchstabe a, b und d Doppelbuchstabe aa des Seeaufgabengesetzes zur Ausübung übertragen:
 
@@ -45,17 +41,14 @@ zu treffen,
 
 notwendigen Vollzugsmaßnahmen zu treffen, soweit sie nicht nach Maßgabe der Vereinbarungen zwischen dem Bund und den Küstenländern über die Ausübung der schiffahrtpolizeilichen Vollzugsaufgaben von der Wasserschutzpolizei der Länder ausgeübt werden oder diese nicht erreichbar ist.
 
-
-## § 2
+# § 2
 
 Die Bundespolizei und die Zollverwaltung nehmen die Aufgaben nach den von den zuständigen Behörden erteilten fachlichen Weisungen wahr.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

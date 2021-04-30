@@ -1,13 +1,9 @@
-# [GO-MEDAS] Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
-
-Ausfertigungsdatum: 18.07.2013
-
+% Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
+% Ausfertigungsdatum: 18.07.2013
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## § 1 – Mitglieder
+# § 1 – Mitglieder
 
 (1) Der Ausschuss für medizinische Ausstattung in der Seeschifffahrt (Ausschuss) besteht aus den nach Maßgabe des § 108 Absatz 3 in Verbindung mit Absatz 5 des Seearbeitsgesetzes berufenen
 
@@ -25,18 +21,15 @@ Ferner nehmen Personen an den Sitzungen des Ausschusses teil, die nach § 108 Ab
 
 (5) Die Mitglieder des Ausschusses und ihre Vertreter sind in ihrer fachlichen Meinung unabhängig und weisungsfrei.
 
-
-## § 2 – Vorsitz
+# § 2 – Vorsitz
 
 Den Vorsitz führt ein Vertreter des Bundesministeriums, der kein Stimmrecht hat. Der Vorsitzende kann an den Sitzungen aller Unterausschüsse nach § 8 teilnehmen.
 
-
-## § 3 – Leitung der Sitzungen
+# § 3 – Leitung der Sitzungen
 
 Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den Vertreter des seeärztlichen Dienstes der Berufsgenossenschaft für Transport und Verkehrswirtschaft (Berufsgenossenschaft) übertragen; ausgenommen davon sind Abstimmungen.
 
-
-## § 4 – Geschäftsführung
+# § 4 – Geschäftsführung
 
 (1) Die Geschäfte des Ausschusses und der Unterausschüsse führt die Berufsgenossenschaft (Geschäftsführer). Der Geschäftsführer untersteht den Weisungen des Vorsitzes. Der Geschäftsführer hat die Wahrnehmung der Aufgaben fachlich geeigneten Personen zu übertragen.
 
@@ -44,8 +37,7 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 (3) Der Geschäftsführer, vertreten durch eine fachlich geeignete Person, nimmt an den Sitzungen des Ausschusses teil und kann an den Sitzungen der Unterausschüsse teilnehmen. Der Geschäftsführer ist zu administrativen Angelegenheiten jederzeit zu hören.
 
-
-## § 5 – Sitzungen
+# § 5 – Sitzungen
 
 (1) Der Vorsitzende lädt den Ausschuss nach Bedarf, mindestens jedoch einmal im Jahr, oder auf Verlangen der Hälfte der stimmberechtigten Mitglieder des Ausschusses zu den Sitzungen.
 
@@ -65,8 +57,7 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 (9) Fahrtkosten und Verdienstausfall für die Mitglieder des Ausschusses werden nicht erstattet.
 
-
-## § 6 – Beschlüsse
+# § 6 – Beschlüsse
 
 (1) Der Ausschuss ist beschlussfähig, wenn mehr als die Hälfte der stimmberechtigten Mitglieder anwesend sind.
 
@@ -74,8 +65,7 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 (3) Außerhalb von Sitzungen können Beschlüsse im schriftlichen Verfahren gefasst werden, wenn alle stimmberechtigten Mitglieder auf eine schriftliche Anfrage des Vorsitzenden binnen einer festgesetzten Frist, die drei Tage nicht unterschreiten darf, zugestimmt haben. In der Anfrage sind der beabsichtigte Beschluss zu beschreiben und die Gründe für das schriftliche Verfahren darzulegen. Ist das schriftliche Verfahren nach Satz 1 zulässig, bedarf ein Beschluss der Mehrheit von zwei Dritteln aller stimmberechtigten Mitglieder. Ist die Durchführung eines schriftlichen Verfahrens beschlossen, erhalten die Mitglieder die notwendigen Beratungsunterlagen zugesandt. Der Vorsitzende legt eine Frist von mindestens einer Woche für die Stimmabgabe fest. Die Stimmabgabe in den Fällen der Sätze 1 und 3 erfolgt mittels Brief an den Geschäftsführer. Falls ein elektronischer Zugang eröffnet ist, kann die Stimmabgabe auch elektronisch erfolgen.
 
-
-## § 7 – Ausschussangelegenheiten, Ergebnisniederschriften
+# § 7 – Ausschussangelegenheiten, Ergebnisniederschriften
 
 (1) Über jede Sitzung und jede schriftliche Beschlussfassung des Ausschusses ist von dem Geschäftsführer eine Ergebnisniederschrift anzufertigen, welche die Beratungs- und Abstimmungsergebnisse sowie den Wortlaut der Beschlüsse und die Teilnehmerliste enthält. Das Führen des Protokolls während der Sitzung obliegt dem Geschäftsführer. Eine Ausfertigung der Ergebnisniederschrift für die Akten ist vom Vorsitzenden und vom Protokollführer zu unterzeichnen. Die Ergebnisniederschriften werden dem Vorsitzenden sowie den Mitgliedern übersandt und nicht veröffentlicht. Die nach § 5 Absatz 7 hinzugezogenen Sachverständigen können die Ergebnisniederschrift oder Auszüge daraus erhalten, soweit deren Fachfragen betroffen sind.
 
@@ -85,8 +75,7 @@ Der Vorsitzende kann zeitweise die Leitung einer Sitzung des Ausschusses an den 
 
 (4) Das Bundesministerium hat den vom Ausschuss festgestellten Stand der medizinischen Erkenntnisse unverzüglich im Verkehrsblatt oder im Bundesanzeiger bekannt zu geben. Die Berufsgenossenschaft kann auf ihrer Internetseite oder mit geeigneten Mitteln die Öffentlichkeit über den Stand der medizinischen Erkenntnisse informieren.
 
-
-## § 8 – Unterausschüsse
+# § 8 – Unterausschüsse
 
 (1) Der Ausschuss kann mit zwei Dritteln seiner anwesenden stimmberechtigten Mitglieder Unterausschüsse einrichten und deren Aufgaben bestimmen.
 

@@ -1,25 +1,19 @@
-# [OrthAusbVO] Verordnung über die Berufsausbildung zum Orthopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin   (Orthopädieausbildungsverordnung - OrthAusbVO)
-
-Ausfertigungsdatum: 15.05.2013
-
+% Verordnung über die Berufsausbildung zum Orthopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin   (Orthopädieausbildungsverordnung - OrthAusbVO)
+% Ausfertigungsdatum: 15.05.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Orthopädietechnik-Mechanikers und der Orthopädietechnik-Mechanikerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 35 der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einem der Schwerpunkte
 
@@ -29,8 +23,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausb
 
 3. Individuelle Rehabilitationstechnik.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -90,8 +83,7 @@ d) Orthopädietechnische Hilfsmittel nach Aufbau, technischen Standards, Wirkung
 
 8. Durchführen qualitätssichernder Maßnahmen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6, 7 und 8 nachzuweisen.
 
@@ -99,13 +91,11 @@ d) Orthopädietechnische Hilfsmittel nach Aufbau, technischen Standards, Wirkung
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Gesellenprüfung
+# § 6 – Gesellenprüfung
 
 Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Gesellenprüfung waren, in Teil 2 der Gesellenprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-
-## § 7 – Teil 1 der Gesellenprüfung
+# § 7 – Teil 1 der Gesellenprüfung
 
 (1) Teil 1 der Gesellenprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -161,8 +151,7 @@ c) technische Berechnungen durchzuführen und Messverfahren darzustellen;
 
 3. die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 8 – Teil 2 der Gesellenprüfung
+# § 8 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -224,8 +213,7 @@ c) Wirkungsweisen und Funktionen sowie Belastbarkeit von Hilfsmitteln darzustell
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen
+# § 9 – Gewichtungs- und Bestehensregelungen
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -252,18 +240,15 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche nach Absatz 1 Nummer 4 oder Nummer 5 durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Bestehende Berufsausbildungsverhältnisse
+# § 10 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Orthopädiemechaniker und Bandagisten/zur Orthopädiemechanikerin und Bandagistin vom 14. Juni 1996 (BGBl. I S. 847), die durch Artikel 1 der Verordnung vom 25. August 1998 (BGBl. I S. 2576) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Othopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin
+# Anlage – (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Othopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin
 
 (Fundstelle: BGBl. I 2013, 1362 - 1368)
 

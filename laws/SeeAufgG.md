@@ -1,10 +1,7 @@
-# [SeeAufgG] Gesetz über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt  (Seeaufgabengesetz - SeeAufgG)
-
-Ausfertigungsdatum: 24.05.1965
-
+% Gesetz über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt  (Seeaufgabengesetz - SeeAufgG)
+% Ausfertigungsdatum: 24.05.1965
  
-
-## § 1
+# § 1
 
 Dem Bund obliegen auf dem Gebiet der Seeschifffahrt
 
@@ -32,32 +29,25 @@ e) Maßnahmen zur Erfüllung von Aufgaben, die dem Bund auf dem Gebiet der Seesc
 
 4. die Überwachung der für die Verkehrs- und Betriebssicherheit der Wasserfahrzeuge, zur Abwehr von Gefahren für die Meeresumwelt und zum Schutz vor schädlichen Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes vorgeschriebenen Bauart, Einrichtung, Ausrüstung, Kennzeichnung und Maßnahmen einschließlich der in diesem Rahmen erforderlichen Anordnungen, die Bewilligung der in den Schiffssicherheitsvorschriften vorgesehenen Ausnahmen, die Prüfung, Zulassung und Überwachung von Systemen, Anlagen – einschließlich Funkanlagen –, Instrumenten und Geräten auf ihre Eignung für den Schiffsbetrieb und ihre sichere Funktion an Bord einschließlich der funktechnischen Sicherheit, die Festlegung des Freibords der Schiffe sowie die Erteilung und Einziehung der maßgeblichen Erlaubnisse, Zeugnisse und Bescheinigungen;
 
-4a.  
-die Untersuchung der Seeunfälle;
+4a. die Untersuchung der Seeunfälle;
 
-4b.  
-die Zulassung und Überwachung öffentlicher oder privater Stellen, die als benannte Stellen Konformitätsbewertungen für Anlagen, Instrumente und Geräte für den Schiffsbetrieb (Schiffsausrüstung) vornehmen und entsprechende Erklärungen für deren Inverkehrbringen ausstellen;
+4b. die Zulassung und Überwachung öffentlicher oder privater Stellen, die als benannte Stellen Konformitätsbewertungen für Anlagen, Instrumente und Geräte für den Schiffsbetrieb (Schiffsausrüstung) vornehmen und entsprechende Erklärungen für deren Inverkehrbringen ausstellen;
 
-4c.  
-die Überwachung des Inverkehrbringens, des Einbaus, der Instandhaltung und der Verwendung von Schiffsausrüstung im Hinblick auf die rechtlichen Anforderungen an diese (Marktüberwachung);
+4c. die Überwachung des Inverkehrbringens, des Einbaus, der Instandhaltung und der Verwendung von Schiffsausrüstung im Hinblick auf die rechtlichen Anforderungen an diese (Marktüberwachung);
 
-4d.  
-die Abwehr und die Verhütung der vom Abwracken von Seeschiffen ausgehenden Gefahren und schädlichen Umwelteinwirkungen im Hinblick auf an Bord befindliche Gefahrstoffe und im Hinblick auf Tätigkeiten vor der Außerdienststellung eines Schiffes und dem Beginn der Abwrackarbeiten;
+4d. die Abwehr und die Verhütung der vom Abwracken von Seeschiffen ausgehenden Gefahren und schädlichen Umwelteinwirkungen im Hinblick auf an Bord befindliche Gefahrstoffe und im Hinblick auf Tätigkeiten vor der Außerdienststellung eines Schiffes und dem Beginn der Abwrackarbeiten;
 
 5. die Schiffsvermessung und die Ausstellung entsprechender Bescheinigungen;
 
 6. die Festlegung und Überwachung der für einen sicheren, effizienten und gefahrlosen Schiffsbetrieb erforderlichen Besatzung;
 
-6a.  
-die Festlegung und Überprüfung der Eignung und Befähigung der Besatzungsmitglieder;
+6a. die Festlegung und Überprüfung der Eignung und Befähigung der Besatzungsmitglieder;
 
-6b.  
-die Bereitstellung eines seeärztlichen Dienstes für die Beratung, Bearbeitung und Steuerung schifffahrtsmedizinischer Angelegenheiten;
+6b. die Bereitstellung eines seeärztlichen Dienstes für die Beratung, Bearbeitung und Steuerung schifffahrtsmedizinischer Angelegenheiten;
 
 7. die Vorsorge für den in Seenotfällen erforderlichen Such- und Rettungsdienst;
 
-7a.  
-die Bereitstellung eines funk- oder satellitenfunkärztlichen Dienstes mit fachärztlicher Beratung;
+7a. die Bereitstellung eines funk- oder satellitenfunkärztlichen Dienstes mit fachärztlicher Beratung;
 
 8. die Bereitstellung erforderlicher Einrichtungen zur Entmagnetisierung von Schiffen;
 
@@ -73,8 +63,7 @@ d) der erdmagnetische Dienst;
 
 10. die Herstellung und Herausgabe amtlicher Seekarten und amtlicher nautischer Veröffentlichungen sowie die Verbreitung von Sicherheitsinformationen;
 
-10a.  
-(weggefallen)
+10a. (weggefallen)
 
 11. meereskundliche Untersuchungen einschließlich der Überwachung der Veränderungen der Meeresumwelt;
 
@@ -88,8 +77,7 @@ d) der erdmagnetische Dienst;
 
 16. Maßnahmen zur Verhütung der Verbreitung fremder Organismen durch Schiffe einschließlich der Prüfung, Zulassung und Überwachung von Anlagen zur Behandlung von Ballastwasser und Sedimenten sowie der erforderlichen vorbereitenden Maßnahmen und internationalen Zulassungsverfahren.
 
-
-## § 2
+# § 2
 
 (1) Die seefahrtbezogenen berufsbildenden Schulen, Fach- und Fachhochschulen sind Einrichtungen der Länder. Die Anerkennung der Schiffe, die für die Ausbildung von Besatzungsmitgliedern durch andere Einrichtungen als die dem Recht der Länder unterliegenden geeignet sind, sowie die Überwachung dieser Ausbildung an Bord obliegen dem Bund.
 
@@ -99,8 +87,7 @@ d) der erdmagnetische Dienst;
 
 (4) Die Überprüfung der Eignung und Befähigung der Führer von Traditionsschiffen und Sportfahrzeugen ist Aufgabe des Bundes.
 
-
-## § 3
+# § 3
 
 (1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes können im Rahmen des § 1 Nummer 2 nach pflichtgemäßem Ermessen die notwendigen Maßnahmen zur Abwehr von Gefahren und schädlichen Umwelteinwirkungen einschließlich der Beseitigung von Störungen der Sicherheit und Leichtigkeit des Verkehrs auf den Seewasserstraßen, den nach § 9 Absatz 1 Nummer 1 begrenzten Binnenwasserstraßen und in den an ihnen gelegenen bundeseigenen Häfen treffen. Sie treffen diese Maßnahmen ferner im Rahmen der Aufgaben, die dem Bund nach § 1 Nummer 3 Buchstabe a und b obliegen. Sie nehmen auch die Aufgaben der Stelle nach der Regel 6 Absatz 2.1 und der Kontaktstelle nach der Regel 7 Absatz 2 des Kapitels XI-2 der Anlage des Internationalen Übereinkommens von 1974 zum Schutz des menschlichen Lebens auf See wahr.
 
@@ -114,15 +101,13 @@ d) der erdmagnetische Dienst;
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen durch Rechtsverordnung Aufgaben, die dem Bund nach diesem Gesetz obliegen, zur Ausübung auf die Bundespolizei und die Zollverwaltung übertragen, soweit sie nicht nach Maßgabe einer Vereinbarung mit den Küstenländern über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben von der Wasserschutzpolizei ausgeübt werden.
 
-
-## § 3a
+# § 3a
 
 (1) Hat eine Person eine Störung oder eine Gefahr verursacht, so haben die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes ihre Maßnahmen gegen sie zu richten. Hat eine Person, die zu einer Verrichtung bestellt ist, die Störung oder die Gefahr in Ausführung der Verrichtung verursacht, so können die Behörden ihre Maßnahmen auch gegen den richten, der die Person zur Verrichtung bestellt hat.
 
 (2) Erfordert der Zustand einer Sache Maßnahmen der Behörden, so sind die Maßnahmen gegen den Inhaber der tatsächlichen Gewalt zu richten. Sie können auch gegen den Eigentümer oder einen anderen Berechtigten gerichtet werden, außer wenn der Inhaber der tatsächlichen Gewalt diese gegen den Willen des Eigentümers oder des sonstigen Berechtigten ausübt. Gehen Störung oder Gefahr von einer herrenlosen Sache aus, so können die Maßnahmen gegen denjenigen gerichtet werden, der das Eigentum an der Sache aufgegeben hat.
 
-
-## § 3b
+# § 3b
 
 (1) Die Behörden können selbst, auch durch Beauftragte, Störungen beseitigen oder Gefahren abwehren, wenn
 
@@ -136,8 +121,7 @@ Die verantwortlichen Personen sind unverzüglich zu unterrichten.
 
 (3) Geht die Störung oder die Gefahr von einer Sache aus, die nicht ein in einem deutschen Schiffsregister eingetragenes Schiff oder ein in der Luftfahrzeugrolle nach dem Luftverkehrsgesetz eingetragenes Luftfahrzeug ist, und werden vor der deutschen Küste Maßnahmen außerhalb des Küstenmeeres zum Schutze der Schifffahrt, der Meeresumwelt, der Küste oder damit zusammenhängender Interessen erforderlich, so findet Absatz 2 insoweit Anwendung, als das internationale Recht dies zulässt.
 
-
-## § 3c
+# § 3c
 
 (1) Die Behörden können Maßnahmen auch gegen andere als die nach § 3a verantwortlichen Personen treffen, wenn
 
@@ -155,13 +139,11 @@ Die verantwortlichen Personen sind unverzüglich zu unterrichten.
 
 (4) Der Betroffene kann für den ihm durch die Maßnahmen entstandenen Schaden einen angemessenen Ausgleich verlangen.
 
-
-## § 3d
+# § 3d
 
 Im Rahmen der Aufgaben nach § 1 Nummer 3 Buchstabe a und b und Nummer 10a gelten die Vorschriften des Verwaltungsverfahrensgesetzes und des Verwaltungsvollstreckungsgesetzes sowie des Gesetzes über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes entsprechend.
 
-
-## § 3e
+# § 3e
 
 Wird ein Schiff bei der Überprüfung im Sinne von § 14 des Schiffssicherheitsgesetzes vom 9. September 1998 (BGBl. I S. 2860) und im Sinne
 
@@ -181,22 +163,19 @@ Wird ein Schiff bei der Überprüfung im Sinne von § 14 des Schiffssicherheitsg
 
 in ihrer jeweils innerstaatlich geltenden Fassung auf Grund von § 11 Absatz 1 des Schiffssicherheitsgesetzes vom 9. September 1998 (BGBl. I S. 2860), das zuletzt durch Artikel 278 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit Abschnitt D Nummer 6, 8 und 14 der Anlage zu diesem Gesetz in unangemessener Weise festgehalten oder aufgehalten, so hat der Eigentümer oder Betreiber gegen die Verkehrsbehörde des Bundes, die dies amtlich veranlasst hat, Anspruch auf Ersatz des erlittenen Verlustes oder Schadens.
 
-
-## § 4
+# § 4
 
 (1) Bei der Verfolgung von Straftaten und Ordnungswidrigkeiten, die auf Grund von Vorschriften begangen worden sind, die in den Vollzug des Bundes nach § 1 Nummer 3 fallen, gelten die Vorschriften der Strafprozessordnung und des Gesetzes über Ordnungswidrigkeiten entsprechend.
 
 (2) Soweit Behörden und Beamte des Bundes die Aufgaben nach § 1 Nummer 3 Buchstabe d Doppelbuchstabe aa wahrnehmen, haben sie die Rechte und Pflichten der Behörden und Beamten des Polizeidienstes nach dem Gesetz über Ordnungswidrigkeiten.
 
-
-## § 5
+# § 5
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur. Es hat die Aufgaben
 
 1. nach § 1 Nummer 4, soweit es sich um nautische Systeme, Anlagen, Instrumente und Geräte, Funkanlagen sowie Haftungsbescheinigungen handelt und diese Aufgaben nicht in einer Rechtsverordnung nach § 9 Absatz 1 in Verbindung mit § 9c auf eine andere zuständige Stelle übertragen werden oder auf Grund einer Rechtsverordnung nach § 7a Absatz 4 diese Aufgaben durch anerkannte juristische Personen des privaten Rechts wahrgenommen werden,
 
-1a.  
-nach § 1 Nummer 4b und 4c,
+1a. nach § 1 Nummer 4b und 4c,
 
 2. nach § 1 Nummer 5 einschließlich der vermessungstechnischen Beratung der Schifffahrts- und Schiffbauunternehmen, soweit sie nicht in einer Rechtsverordnung nach § 9a auf eine andere zuständige Stelle übertragen werden,
 
@@ -204,14 +183,11 @@ nach § 1 Nummer 4b und 4c,
 
 4. nach § 1 Nummer 9 bis 10a,
 
-4a.  
-nach § 1 Nummer 12, soweit nicht in diesem Gesetz oder in einer Rechtsverordnung nach § 7 Absatz 1 Satz 2 eine andere zuständige Stelle bestimmt ist,
+4a. nach § 1 Nummer 12, soweit nicht in diesem Gesetz oder in einer Rechtsverordnung nach § 7 Absatz 1 Satz 2 eine andere zuständige Stelle bestimmt ist,
 
-4b.  
-nach § 1 Nummer 13, soweit nicht in diesem Gesetz, in einer Rechtsverordnung nach § 3 Absatz 2 oder § 9 Absatz 1 Satz 1 Nummer 7 oder auf Grund einer Verwaltungsvereinbarung mit den Ländern eine andere zuständige Stelle bestimmt ist,
+4b. nach § 1 Nummer 13, soweit nicht in diesem Gesetz, in einer Rechtsverordnung nach § 3 Absatz 2 oder § 9 Absatz 1 Satz 1 Nummer 7 oder auf Grund einer Verwaltungsvereinbarung mit den Ländern eine andere zuständige Stelle bestimmt ist,
 
-4c.  
-nach § 1 Nummer 15 und 16,
+4c. nach § 1 Nummer 15 und 16,
 
 5. der Förderung der Seeschifffahrt und Seefischerei durch naturwissenschaftliche und nautisch-technische Forschungen mit Ausnahme meeresbiologischer Forschungen sowie
 
@@ -231,13 +207,11 @@ wahrzunehmen. Die Zuständigkeit der Generaldirektion Wasserstraßen und Schifff
 
 (3) Bezugnahmen in früheren Rechtsvorschriften auf das Bundesamt für Schiffsvermessung und auf das Deutsche Hydrographische Institut sind Bezugnahmen auf das Bundesamt für Seeschifffahrt und Hydrographie.
 
-
-## § 5a
+# § 5a
 
 Die Aufgabe nach § 1 Nummer 14 wird durch das Bundesministerium des Innern, für Bau und Heimat wahrgenommen; es kann die Aufgabe auf eine ihm nachgeordnete Behörde übertragen. Vor Festlegung der Gefahrenstufen 2 und 3 soll sich die zuständige Behörde mit dem Bundesministerium für Verkehr und digitale Infrastruktur ins Benehmen setzen.
 
-
-## § 6
+# § 6
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation führt die Aufgaben des Bundes nach § 1 Nummer 4, 4d, 6, 6b und 7a aus, soweit deren Durchführung nicht nach § 5 Absatz 1 Satz 2 Nummer 1 dem Bundesamt für Seeschifffahrt und Hydrographie oder in einer Rechtsverordnung nach § 7a Absatz 4 oder § 9 Absatz 1 in Verbindung mit § 9c einer anderen Stelle übertragen ist. Für Systeme für die Organisation von Sicherheitsmaßnahmen sowie für Sportfahrzeuge nimmt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation die in Satz 1 genannten Aufgaben wahr, wenn diese nicht durch Rechtsverordnung nach § 9 Absatz 1 oder 2 einer anderen Stelle übertragen sind.
 
@@ -253,15 +227,13 @@ Die Aufgabe nach § 1 Nummer 14 wird durch das Bundesministerium des Innern, fü
 
 (6) Soweit in anderen Rechtsvorschriften Aufgaben auf die bisherige See-Berufsgenossenschaft übertragen worden sind, tritt an deren Stelle bis zu einer Änderung dieser Vorschriften die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation.
 
-
-## § 7
+# § 7
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann zur Erfüllung von Aufgaben nach § 1 Nummer 4 und § 2 juristischen Personen des privaten Rechts, die nach ihrer Satzung entsprechenden Zwecken dienen, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anerkennung der Schiffe und die Überwachung der Bordausbildung im Sinne des § 2 Absatz 1 Satz 2, die Abnahme von Prüfungen, die Erteilung von Befähigungszeugnissen für Schiffsleute und Führer von Sportfahrzeugen sowie die Prüfung der Verkehrs- und Betriebssicherheit von Schiffen, die die Bundesflagge führen und die nicht internationalen Sicherheitsregelungen im Sinne des Schiffssicherheitsgesetzes unterliegen, die Erteilung der entsprechenden Erlaubnisse, Zeugnisse, Bescheinigungen und die Erhebung der Kosten nach Maßgabe des § 12 und der auf Grund des § 12 Absatz 2 erlassenen Verordnung ganz oder teilweise übertragen. Das Bundesministerium für Verkehr und digitale Infrastruktur kann ferner durch Rechtsverordnung die Erfüllung der Aufgaben nach § 1 Nummer 12, soweit sie sich auf nicht amtlich registrierte Seeschiffe beziehen, auf die in Satz 1 genannten Personen übertragen.
 
 (2) Die juristischen Personen unterstehen, soweit von den Ermächtigungen des Absatzes 1 Gebrauch gemacht worden ist, der Fachaufsicht des Bundesministeriums für Verkehr und digitale Infrastruktur.
 
-
-## § 7a
+# § 7a
 
 (1) Schiffsausrüstung darf nur in den Verkehr gebracht, eingebaut, instand gehalten oder verwendet werden, soweit sie den in einer Rechtsverordnung nach Absatz 3 bestimmten Anforderungen an Sicherheit und Gesundheit und sonstigen Voraussetzungen für das Inverkehrbringen, den Einbau, die Instandhaltung und die Verwendung entspricht und Sicherheit und Gesundheit der Verwender oder Dritter oder sonstige in den Rechtsverordnungen nach Absatz 3 aufgeführten Rechtsgüter nicht gefährdet werden.
 
@@ -307,8 +279,7 @@ zu regeln.
 
 (5) In Rechtsverordnungen nach Absatz 4 kann abweichend von den §§ 5 und 6 die Zuständigkeit für die Zulassung oder Überwachung der benannten Stellen dem Bundesministerium für Verkehr und digitale Infrastruktur ganz oder teilweise vorbehalten werden.
 
-
-## § 8
+# § 8
 
 (1) Soweit es zur Durchführung der Aufgaben nach § 1 Nummer 1 bis 6, 6b und 7a, 13 und 16 sowie nach § 2 erforderlich ist, können die damit betrauten Personen
 
@@ -328,13 +299,11 @@ Außerhalb der Betriebs- und Geschäftszeiten und hinsichtlich der Räume, die z
 
 (4) Der nach Absatz 2 Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 8a
+# § 8a
 
 Das Bundesamt für Seeschifffahrt und Hydrographie hat die Durchführung von Inspektionen im Sinne des § 1 Nummer 15 zu ermöglichen und zu unterstützen. Es hat dabei die Befugnisse nach § 8 Absatz 1; § 8 Absatz 2 und 3 gilt entsprechend. Bei Maßnahmen nach den Sätzen 1 und 2 ist die Begleitung durch Beauftragte der Europäischen Kommission oder internationaler Organisationen zuzulassen.
 
-
-## § 9
+# § 9
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Abwehr von Gefahren für die Sicherheit und Leichtigkeit des Seeverkehrs, zur Abwehr von Gefahren für die Meeresumwelt, zur Verhütung von der Seeschifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes und zur Gewährleistung eines sicheren, effizienten und gefahrlosen Schiffsbetriebs und zur Abwehr und Verhütung der vom Abwracken von Seeschiffen ausgehenden Gefahren und schädlichen Umwelteinwirkungen im Hinblick auf an Bord befindliche Gefahrstoffe und im Hinblick auf Tätigkeiten vor der Außerdienststellung eines Schiffes und dem Beginn der Abwrackarbeiten ohne Zustimmung des Bundesrates Rechtsverordnungen zu erlassen über
 
@@ -342,33 +311,25 @@ Das Bundesamt für Seeschifffahrt und Hydrographie hat die Durchführung von Ins
 
 2. das Verhalten auf Wasserflächen und in Häfen im Sinne des § 1 Nummer 2 und 3 einschließlich der Umsetzung von Empfehlungen internationaler Konferenzen über das Befahren innerer Gewässer;
 
-2a.  
-die Durchsetzung der Verpflichtung des eingetragenen Eigentümers eines Schiffes, das die Bundesflagge führt, zur Wrackbeseitigung nach dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks (BGBl. 2013 II S. 530, 531);
+2a. die Durchsetzung der Verpflichtung des eingetragenen Eigentümers eines Schiffes, das die Bundesflagge führt, zur Wrackbeseitigung nach dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks (BGBl. 2013 II S. 530, 531);
 
 3. die Anforderungen an die Besetzung von Seeschiffen einschließlich Traditionsschiffen und Sportfahrzeugen, die die Bundesflagge führen, die Verpflichtungen des Reeders und des Kapitäns für die Durchsetzung einer sicheren Schiffsbesetzung, die Erteilung und die Gültigkeit von Schiffsbesatzungszeugnissen für Kauffahrteischiffe sowie die Überwachung der Einhaltung der Schiffsbesetzungsvorschriften durch die zuständige Stelle;
 
-3a.  
-die Anforderungen an die Befähigung sowie die fachliche und persönliche Eignung der Besatzungsmitglieder der in Nummer 3 genannten Fahrzeuge einschließlich des Mindestalters der Bewerber, die Voraussetzungen für die Erteilung der Nachweise über Befähigungen im Schiffsdienst und der Fahrerlaubnisse für das Führen von Traditionsschiffen und Sportfahrzeugen, für die Anerkennung ausländischer Nachweise und die Maßnahmen zur Bekämpfung von Betrug und anderer rechtswidriger Praktiken im Zusammenhang mit diesen Nachweisen und die nach den völkerrechtlich verbindlichen Vorschriften über die Ausbildung und Befähigung von Seeleuten von den seefahrtbezogenen berufsbildenden Schulen, Fach- und Fachhochschulen zu erfüllenden Qualitätsnormen;
+3a. die Anforderungen an die Befähigung sowie die fachliche und persönliche Eignung der Besatzungsmitglieder der in Nummer 3 genannten Fahrzeuge einschließlich des Mindestalters der Bewerber, die Voraussetzungen für die Erteilung der Nachweise über Befähigungen im Schiffsdienst und der Fahrerlaubnisse für das Führen von Traditionsschiffen und Sportfahrzeugen, für die Anerkennung ausländischer Nachweise und die Maßnahmen zur Bekämpfung von Betrug und anderer rechtswidriger Praktiken im Zusammenhang mit diesen Nachweisen und die nach den völkerrechtlich verbindlichen Vorschriften über die Ausbildung und Befähigung von Seeleuten von den seefahrtbezogenen berufsbildenden Schulen, Fach- und Fachhochschulen zu erfüllenden Qualitätsnormen;
 
-3b.  
-Art und Weise der Überprüfung der Befähigung und Eignung, insbesondere durch die Abnahme von Prüfungen, sowie das Verfahren;
+3b. Art und Weise der Überprüfung der Befähigung und Eignung, insbesondere durch die Abnahme von Prüfungen, sowie das Verfahren;
 
-3c.  
-die Voraussetzungen und das Verfahren, nach denen, vorbehaltlich des Anwendungsbereichs des Seesicherheits-Untersuchungs-Gesetzes, Nachweise über Befähigungen im Schiffsdienst und Fahrerlaubnisse für das Führen von Traditionsschiffen und Sportfahrzeugen erteilt, entzogen oder deren Ruhen angeordnet, Fahrverbote erteilt und entsprechende Urkunden vorläufig sichergestellt oder eingezogen werden können;
+3c. die Voraussetzungen und das Verfahren, nach denen, vorbehaltlich des Anwendungsbereichs des Seesicherheits-Untersuchungs-Gesetzes, Nachweise über Befähigungen im Schiffsdienst und Fahrerlaubnisse für das Führen von Traditionsschiffen und Sportfahrzeugen erteilt, entzogen oder deren Ruhen angeordnet, Fahrverbote erteilt und entsprechende Urkunden vorläufig sichergestellt oder eingezogen werden können;
 
-3d.  
-die Anforderungen an die Erteilung eines Nachweises über die Zugehörigkeit zu der Berufsgruppe der Seeleute;
+3d. die Anforderungen an die Erteilung eines Nachweises über die Zugehörigkeit zu der Berufsgruppe der Seeleute;
 
 4. die Zulassung, Überwachung, die Anforderungen, Bewilligungen, Prüfungen, Abnahmen, Regulierungen, Kompensierungen, Festlegungen, Erlaubnisse, Zeugnisse und Bescheinigungen im Sinne des § 1 Nummer 4 einschließlich der betrieblichen Abläufe und organisatorischen Vorkehrungen an Bord und an Land zur Gewährleistung eines sicheren Schiffsbetriebs;
 
-4a.  
-(weggefallen)
+4a. (weggefallen)
 
-4b.  
-die Anforderungen an sowie die Prüfung, Zulassung und Überwachung von Anlagen zur Behandlung von Ballastwasser und Sedimenten einschließlich der dafür erforderlichen Verfahrensbestimmungen;
+4b. die Anforderungen an sowie die Prüfung, Zulassung und Überwachung von Anlagen zur Behandlung von Ballastwasser und Sedimenten einschließlich der dafür erforderlichen Verfahrensbestimmungen;
 
-4c.  
-die Anforderungen an den Einbau oder die Verwendung von Gefahrstoffen auf Schiffen, die Voraussetzungen für das Ausstellen von Bescheinigungen oder Zeugnissen und das Überprüfen von Seeschiffen in Bezug auf das Abwracken von Schiffen;
+4c. die Anforderungen an den Einbau oder die Verwendung von Gefahrstoffen auf Schiffen, die Voraussetzungen für das Ausstellen von Bescheinigungen oder Zeugnissen und das Überprüfen von Seeschiffen in Bezug auf das Abwracken von Schiffen;
 
 5. die Anforderungen für die Beförderung von Gütern, mit Ausnahme von Anforderungen im Sinne des Gesetzes über die Beförderung gefährlicher Güter;
 
@@ -408,26 +369,21 @@ b) die Einhaltung der Vorschriften zu überwachen ist.
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung die Ermächtigungen nach Absatz 1 Nummer 1 und 2 auf die Generaldirektion Wasserstraßen und Schifffahrt oder das Bundesamt für Seeschifffahrt und Hydrographie übertragen.
 
-
-## § 9a
+# § 9a
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Anforderungen an die Vermessung der Wasserfahrzeuge, die Mitwirkung der verantwortlichen Personen sowie die erforderlichen Vermessungsbescheinigungen zu regeln. Es wird ferner ermächtigt, durch Rechtsverordnung die Ausführung der Aufgaben nach § 1 Nummer 5 im Sinne des § 5 Absatz 1 Satz 2 Nummer 2 auf eine andere zuständige Stelle zu übertragen.
 
+# § 9b – (weggefallen)
 
-## § 9b – (weggefallen)
-
-
-## § 9c
+# § 9c
 
 Rechtsverordnungen nach den § 7a oder §§ 9 und 9a können auch zur Durchführung oder Umsetzung von Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union und von Verpflichtungen aus zwischenstaatlichen Vereinbarungen erlassen werden.
 
-
-## § 9d
+# § 9d
 
 Von der Internationalen Seeschifffahrts-Organisation oder einer anderen zuständigen zwischenstaatlichen Organisation angenommene Standards, die bei einer durch die internationalen Schiffssicherheitsregelungen vorgeschriebenen Baumusterprüfung zugrunde zu legen sind, werden von den nach diesem Gesetz hierfür zuständigen Behörden in deutscher Sprache amtlich bekannt gemacht.
 
-
-## § 9e
+# § 9e
 
 (1) Soweit es zur Erfüllung einer Aufgabe nach diesem Gesetz erforderlich ist, darf die für die Durchführung dieser Aufgabe zuständige Stelle folgende Daten erheben, speichern und verwenden:
 
@@ -463,8 +419,7 @@ Die Daten können auch unter Zuhilfenahme und Auswertung automatischer Schiffsid
 
 (3) Werden Daten an eine ausländische oder über- oder zwischenstaatliche öffentliche Stelle oder an eine internationale Organisation oder Organe und Einrichtungen der Europäischen Union übermittelt, ist der Empfänger darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verwendet werden dürfen, zu dem sie übermittelt werden. Die Übermittlung, die nicht im Rahmen von Tätigkeiten erfolgt, die ganz oder teilweise in den Anwendungsbereich des Rechts der Europäischen Gemeinschaften oder der Europäischen Union fallen, unterbleibt, soweit die betroffene Person ein schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat, insbesondere wenn bei der in Satz 1 genannten Stelle ein angemessenes Datenschutzniveau nicht gewährleistet ist. Daten über wesentliche Verstöße gegen anwendbare internationale Regeln und Normen über die Seetüchtigkeit der Schiffe und den Schutz der Meeresumwelt dürfen auch mitgeteilt werden, wenn beim Empfänger kein angemessenes Datenschutzniveau gewährleistet ist.
 
-
-## § 9f
+# § 9f
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie führt mit Wirkung vom 1. Februar 1997 ein Verzeichnis der im Sinne von § 2 erteilten, abgelaufenen oder erneuerten, ausgesetzten, widerrufenen oder als verloren oder vernichtet gemeldeten Befähigungszeugnisse einschließlich der zugehörigen Vermerke sowie der sonstigen Nachweise über Befähigungen im Schiffsdienst von Seeleuten (Seeleute-Befähigungs-Verzeichnis – SBV).
 
@@ -490,16 +445,13 @@ Die Daten können auch unter Zuhilfenahme und Auswertung automatischer Schiffsid
 
 (6) Die Bundesbehörden, die für die Ausstellung der Befähigungszeugnisse oder sonstigen -nachweise zuständig sind, übermitteln dem Bundesamt für Seeschifffahrt und Hydrographie unverzüglich die nach Absatz 3 zu speichernden Daten zur Aufnahme in das Seeleute-Befähigungs-Verzeichnis.
 
+# § 10 – (weggefallen)
 
-## § 10 – (weggefallen)
-
-
-## § 11
+# § 11
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Übermittlung von Unterlagen, die sich auf das Schifffahrtsgeschäft beziehen (insbesondere Verträge, Protokolle, Briefe, Studien, Marktberichte, Statistiken, Gutachten) und die Erteilung von Auskünften hierüber an Behörden und sonstige Stellen des Auslandes zu verbieten oder von einer Genehmigung abhängig zu machen, soweit dies erforderlich ist, um die deutsche Seeschifffahrt in der Freiheit ihrer wirtschaftlichen Betätigung zu schützen.
 
-
-## § 12
+# § 12
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach den §§ 1, 2 Absatz 2 und den auf Grund der §§ 7, 7a, 9 Absatz 1 bis 4 und der §§ 9a bis 9c, 9e Absatz 2 sowie den §§ 11 und 14 erlassenen Rechtsverordnungen werden Gebühren und Auslagen erhoben. Die Pflicht zur Auslagenerstattung umfasst neben den nach § 10 Absatz 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen auch die auf die Gebühren und Auslagen nach Satz 1 entfallende Umsatzsteuer.<span id="FnR.f794428_01"></span><a href="#f794428_01" class="FnR">1</a></sup>
 
@@ -509,15 +461,13 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (4) Für Amtshandlungen im Sinne des Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
 
-
-## § 13
+# § 13
 
 (1) Für das Befahren des Nord-Ostsee-Kanals sowie für die Inanspruchnahme bundeseigener Häfen werden von demjenigen, der den Nord-Ostsee-Kanal befährt oder der bundeseigene Häfen in Anspruch nimmt, Abgaben erhoben. Abgabenschuldner ist auch der Eigentümer des Schiffes. Mehrere Schuldner haften als Gesamtschuldner. Abgabengläubiger ist der Bund.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung die Höhe der Abgaben näher zu bestimmen. Soweit die Rechtsverordnung Abgaben für das Befahren des Nord-Ostsee-Kanals betrifft, sind vor ihrem Erlass die Küstenländer zu hören. Die Abgaben sind so zu bemessen, dass ihr Aufkommen höchstens die Ausgaben für den Kanal und die bundeseigenen Häfen einschließlich derjenigen für Betrieb und Unterhaltung deckt; die Wettbewerbslage des Kanals und der Nutzen, den der Abgabepflichtige von dem Befahren des Kanals oder der Inanspruchnahme der bundeseigenen Häfen hat, sind zu berücksichtigen. In der Rechtsverordnung können die zu erstattenden Auslagen, die Fälligkeit, die Verjährung, die Befreiung von der Zahlungspflicht sowie das Erhebungsverfahren geregelt werden.
 
-
-## § 14
+# § 14
 
 (1) Wer den Beruf eines Kanalsteurers am Nord-Ostsee-Kanal ausüben will, bedarf hinsichtlich der Abwehr von Gefahren für die Sicherheit und Leichtigkeit des Verkehrs der Zulassung. Zum Beruf des Kanalsteurers wird zugelassen, wer
 
@@ -553,18 +503,15 @@ Im Falle einer Übertragung nach Satz 1 Nummer 6 unterliegt die beliehene Person
 
 (5) Die Entgelte der Kanalsteurer werden nach näherer Bestimmung der Rechtsverordnung nach Absatz 4 von einer in der Rechtsverordnung nach Absatz 4 zu bestimmenden Behörde der Wasserstraßen- und Schifffahrtsverwaltung des Bundes eingezogen. Sie werden nach den Vorschriften des Verwaltungsvollstreckungsgesetzes beigetrieben.
 
-
-## § 15
+# § 15
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 7a Absatz 1 in Verbindung mit einer Rechtsverordnung nach Absatz 3 Nummer 1 Schiffsausrüstung in den Verkehr bringt, einbaut, instand hält oder verwendet,
 
-1a.  
-einer vollziehbaren Anordnung nach § 7a Absatz 2 Satz 2 zuwiderhandelt,
+1a. einer vollziehbaren Anordnung nach § 7a Absatz 2 Satz 2 zuwiderhandelt,
 
-1b.  
-entgegen § 8 Absatz 2 eine Maßnahme nicht gestattet, eine Arbeitskraft oder ein Hilfsmittel nicht bereitstellt, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
+1b. entgegen § 8 Absatz 2 eine Maßnahme nicht gestattet, eine Arbeitskraft oder ein Hilfsmittel nicht bereitstellt, eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
 
 2. einer Rechtsverordnung nach § 9 Absatz 1 Satz 1 oder 3, Absatz 2 Satz 1, Absatz 3 oder 4, jeweils auch in Verbindung mit § 9c, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -618,27 +565,21 @@ soweit diese jeweils völkerrechtlich als verbindlich angenommen und auf Grund i
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 6 oder Nummer 7 geahndet werden können.
 
+# § 16 – (weggefallen)
 
-## § 16 – (weggefallen)
+# § 17 – (weggefallen)
 
-
-## § 17 – (weggefallen)
-
-
-## § 17a
+# § 17a
 
 Wird die Bundesrepublik Deutschland von einem anderen Staat um die Durchführung von Maßnahmen im Rahmen der in § 1 Nummer 3 Buchstabe a, b oder e bezeichneten Aufgaben gegenüber Schiffen, die nicht zur Führung der Bundesflagge berechtigt sind, ersucht, so kann die Erledigung davon abhängig gemacht werden, dass der ersuchende Staat zusichert, die Bundesrepublik Deutschland von Ersatzansprüchen freizustellen, die sich anlässlich der rechtmäßigen Durchführung der erbetenen Maßnahmen ergeben können.
 
+# § 18 – (weggefallen)
 
-## § 18 – (weggefallen)
-
-
-## § 19
+# § 19
 
 Die Zuständigkeit des Bundes im Rahmen des § 1 Nummer 2 und des § 9 Absatz 1 Nummer 1 und 2 besteht nicht für die im Bereich des Hamburger Hafens liegenden Teile der Bundeswasserstraße Elbe.
 
-
-## § 20
+# § 20
 
 (1) Dieses Gesetz berührt nicht
 
@@ -664,33 +605,27 @@ e) Schleswig-Holstein vom 15. Juli 1955 (Gesetz- und Verordnungsblatt für Schle
 
 (2) Unberührt bleiben Aufgaben auf dem Gebiet der Seeschifffahrt, die dem Bund durch frühere Rechtsvorschriften übertragen worden sind.
 
-
-## § 21
+# § 21
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 22
+# § 22
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch allgemeine Verwaltungsvorschriften das Nähere zur einheitlichen Anwendung der Vorschriften dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen durch seine nachgeordneten Behörden oder die von ihm beliehenen juristischen Personen regeln.
 
-
-## § 22a
+# § 22a
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 22b
+# § 22b
 
 (1) § 3e Nummer 7 und Nummer 3 der Anlage sind erst ab dem Tag anzuwenden, an dem das Ballastwasser-Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den in Absatz 1 bezeichneten Tag im Bundesgesetzblatt bekannt.
 
+# § 23 – (Inkrafttreten, Außerkrafttreten)
 
-## § 23 – (Inkrafttreten, Außerkrafttreten)
-
-
-## Anlage – (zu § 15 Absatz 1 Nummer 4 und 5, Absatz 4 und 5)
+# Anlage – (zu § 15 Absatz 1 Nummer 4 und 5, Absatz 4 und 5)
 
 (Fundstelle: BGBl. I 2016, 1503;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

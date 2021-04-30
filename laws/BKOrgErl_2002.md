@@ -1,15 +1,11 @@
-# [BKOrgErl 2002] Organisationserlass des Bundeskanzlers
-
-Ausfertigungsdatum: 22.10.2002
-
+% Organisationserlass des Bundeskanzlers
+% Ausfertigungsdatum: 22.10.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:
 
-
-## I.
+# I.
 
 1. (weggefallen)
 
@@ -25,8 +21,7 @@ Dabei bleiben die Zuständigkeiten des Bundesministeriums für wirtschaftliche Z
 
 3. (weggefallen)
 
-
-## II.
+# II.
 
 1. Mit der Übertragung von Zuständigkeiten aus dem bisherigen Bundesministerium für Arbeit und Sozialordnung wird das bisherige Bundesministerium für Gesundheit zu einem Bundesministerium für Gesundheit und Soziale Sicherung umgebildet.
 
@@ -40,23 +35,19 @@ Die Zuständigkeitsübertragung schließt deren europäische und internationale 
 
 3. Der Beauftragte der Bundesregierung für die Belange der Behinderten und der Bundesbeauftragte für die Sozialversicherungswahlen werden dem Bundesministerium für Gesundheit und Soziale Sicherung zugeordnet.
 
-
-## III.
+# III.
 
 Die federführende Zuständigkeit für den Aufgabenbereich Gentechnik wird vom Bundesministerium für Gesundheit und Soziale Sicherung auf das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft übertragen, damit auch die federführende Zuständigkeit für das Gentechnikgesetz. Davon unberührt bleibt die Zuständigkeit für medizinische Fragen, insbesondere das Arzneimittelwesen.
 
-
-## IV.
+# IV.
 
 Dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird die Beauftragte der Bundesregierung für Ausländerfragen (künftig: Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration) zugeordnet.
 
-
-## V.
+# V.
 
 Dem Bundesministerium für Verkehr, Bau- und Wohnungswesen wird aus dem Geschäftsbereich des Bundeskanzlers die Zuständigkeit des Beauftragten der Bundesregierung für die neuen Bundesländer übertragen.
 
-
-## VI.
+# VI.
 
 Dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit werden übertragen:
 
@@ -70,17 +61,14 @@ Die Zuständigkeit für außenwirtschaftliche Fragen bei erneuerbaren Energien (
 
 2. aus dem Geschäftsbereich des Bundesministeriums der Finanzen die Zuständigkeit für die "Deutsche Bundesstiftung Umwelt.
 
-
-## VII.
+# VII.
 
 Dem Auswärtigen Amt wird aus dem Geschäftsbereich des Presse- und Informationsamtes der Bundesregierung die Zuständigkeit für die politische Öffentlichkeitsarbeit Ausland übertragen.
 
-
-## VIII.
+# VIII.
 
 Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung in Abstimmung mit dem Chef des Bundeskanzleramtes geregelt.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundeskanzler

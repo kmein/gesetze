@@ -1,18 +1,13 @@
-# [EfbV] Verordnung über Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften  (Entsorgungsfachbetriebeverordnung - EfbV)
-
-Ausfertigungsdatum: 02.12.2016
-
+% Verordnung über Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften  (Entsorgungsfachbetriebeverordnung - EfbV)
+% Ausfertigungsdatum: 02.12.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Anforderungen an Entsorgungsfachbetriebe nach § 56 Absatz 2 des Kreislaufwirtschaftsgesetzes sowie die Überwachung und Zertifizierung von Entsorgungsfachbetrieben durch technische Überwachungsorganisationen nach § 56 Absatz 5 des Kreislaufwirtschaftsgesetzes und durch Entsorgergemeinschaften nach § 56 Absatz 6 des Kreislaufwirtschaftsgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Inhaber im Sinne dieser Verordnung ist diejenige natürliche oder juristische Person oder Personenvereinigung, die den Entsorgungsfachbetrieb betreibt. Sofern es sich bei dem Inhaber um eine juristische Person oder Personenvereinigung handelt, kommt es für die Erfüllung der personenbezogenen Anforderungen dieser Verordnung an den Inhaber auf die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung oder Geschäftsführung des Betriebes berechtigten Personen an.
 
@@ -20,8 +15,7 @@ Diese Verordnung regelt die Anforderungen an Entsorgungsfachbetriebe nach § 56 
 
 (3) Sonstiges Personal im Sinne dieser Verordnung sind diejenigen Arbeitnehmerinnen und Arbeitnehmer und anderen im Betrieb beschäftigten Personen, die bei der Ausführung der abfallwirtschaftlichen Tätigkeiten mitwirken.
 
-
-## § 3 – Anforderungen an die Betriebsorganisation
+# § 3 – Anforderungen an die Betriebsorganisation
 
 (1) Die Organisation des Entsorgungsfachbetriebes ist so auszugestalten, dass die erforderliche Überwachung und Kontrolle der vom Betrieb durchgeführten abfallwirtschaftlichen Tätigkeiten sichergestellt ist. Bei der Gestaltung der Betriebsorganisation sind insbesondere zu berücksichtigen:
 
@@ -47,8 +41,7 @@ Die Festlegungen nach Satz 1 sind schriftlich, elektronisch oder in gleich geeig
 
 (3) Die Arbeitsabläufe für die im Betrieb durchgeführten abfallwirtschaftlichen Tätigkeiten sind schriftlich, elektronisch oder in gleich geeigneter Weise durch Arbeitsanweisungen festzulegen.
 
-
-## § 4 – Anforderungen an die personelle, gerätetechnische und sonstige Ausstattung
+# § 4 – Anforderungen an die personelle, gerätetechnische und sonstige Ausstattung
 
 (1) Der Entsorgungsfachbetrieb hat für jeden zu zertifizierenden Standort mindestens eine für die Leitung und Beaufsichtigung des Betriebes verantwortliche Person zu bestellen, soweit der Inhaber nicht selbst für die Leitung und Beaufsichtigung des Betriebes verantwortlich ist. Hat ein Entsorgungsfachbetrieb mehrere Standorte oder sind mehrere Entsorgungsfachbetriebe Teile des gleichen Betriebes, so kann abweichend von Satz 1 für diese eine gemeinsame für die Leitung und Beaufsichtigung verantwortliche Person bestellt werden, wenn hierdurch die sachgemäße Erfüllung der ihr obliegenden Aufgaben nicht beeinträchtigt wird.
 
@@ -58,8 +51,7 @@ Die Festlegungen nach Satz 1 sind schriftlich, elektronisch oder in gleich geeig
 
 (4) Der Entsorgungsfachbetrieb hat an jedem zu zertifizierenden Standort und für jede zu zertifizierende Tätigkeit über die gerätetechnische Ausstattung und über die sonstigen Betriebsmittel zu verfügen, die zur fach- und sachgerechten Ausführung der abfallwirtschaftlichen Tätigkeit notwendig sind.
 
-
-## § 5 – Betriebstagebuch
+# § 5 – Betriebstagebuch
 
 (1) Zum Nachweis einer fach- und sachgerechten Durchführung der abfallwirtschaftlichen Tätigkeiten hat der Entsorgungsfachbetrieb für jeden zu zertifizierenden Standort ein Betriebstagebuch zu führen. Das Betriebstagebuch hat alle Informationen zu enthalten, die für den Nachweis einer ordnungsgemäßen Bewirtschaftung der Abfälle wesentlich sind, insbesondere
 
@@ -77,8 +69,7 @@ Die Festlegungen nach Satz 1 sind schriftlich, elektronisch oder in gleich geeig
 
 (3) Das Betriebstagebuch ist von dem Inhaber, soweit er für die Leitung und Beaufsichtigung des Betriebes verantwortlich ist, oder von der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Person regelmäßig auf Richtigkeit und Vollständigkeit zu überprüfen. Die Überprüfung ist zu dokumentieren.
 
-
-## § 6 – Versicherungsschutz
+# § 6 – Versicherungsschutz
 
 Der Entsorgungsfachbetrieb muss über einen für seine abfallwirtschaftlichen Tätigkeiten ausreichenden Versicherungsschutz verfügen. Art und Umfang des erforderlichen Versicherungsschutzes sind auf der Grundlage einer betrieblichen Risikoabschätzung zu bestimmen. Der Versicherungsschutz muss Folgendes umfassen:
 
@@ -86,8 +77,7 @@ Der Entsorgungsfachbetrieb muss über einen für seine abfallwirtschaftlichen T�
 
 2. bei Betrieben, die Abfälle sammeln oder befördern, mindestens eine Kraftfahrzeug-Haftpflichtversicherung einschließlich einer auf den Sammlungs- und Beförderungsvorgang bezogenen Umwelthaftpflichtversicherung sowie eine Umweltschadenversicherung.
 
-
-## § 7 – Anforderungen an die Durchführung der abfallwirtschaftlichen Tätigkeit
+# § 7 – Anforderungen an die Durchführung der abfallwirtschaftlichen Tätigkeit
 
 (1) Der Entsorgungsfachbetrieb hat die für seine abfallwirtschaftliche Tätigkeit geltenden öffentlich-rechtlichen Vorschriften zu beachten. Der Inhaber hat den Nachweis zu erbringen, dass die für die abfallwirtschaftliche Tätigkeit des Entsorgungsfachbetriebes erforderlichen behördlichen Entscheidungen, insbesondere Planfeststellungen, Genehmigungen, Zulassungen, Erlaubnisse und Bewilligungen, vorliegen und die mit ihnen verbundenen Auflagen und sonstigen Anordnungen der zuständigen Behörden erfüllt werden.
 
@@ -117,8 +107,7 @@ a) Nachweise zu führen, die den in § 5 vorgeschriebenen Nachweisen entsprechen
 
 b) dem Entsorgungsfachbetrieb unaufgefordert eine Kopie dieser Nachweise zu überlassen.
 
-
-## § 8 – Zuverlässigkeit des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
+# § 8 – Zuverlässigkeit des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
 
 (1) Der Inhaber und die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen müssen zuverlässig sein. Die erforderliche Zuverlässigkeit ist gegeben, wenn die betroffene Person auf Grund ihrer persönlichen Eigenschaften, ihres Verhaltens und ihrer Fähigkeiten zur ordnungsgemäßen Erfüllung der ihr obliegenden Aufgaben geeignet ist.
 
@@ -158,8 +147,7 @@ Die Nachweise nach Satz 1 dürfen zum Zeitpunkt der Überprüfung durch die tech
 
 (+++ § 8 Abs. 1 Satz 2: zur Anwendung vgl. § 10 Abs. 1 +++)
 
-
-## § 9 – Fachkunde des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
+# § 9 – Fachkunde des Inhabers und der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen
 
 (1) Der Inhaber, soweit er für die Leitung und Beaufsichtigung des Betriebes verantwortlich ist, und die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen müssen die für ihren Tätigkeitsbereich erforderliche Fachkunde besitzen. Die erforderliche Fachkunde ist gegeben, wenn die betroffene Person
 
@@ -197,8 +185,7 @@ Bei nachfolgenden jährlichen Überprüfungen nach § 56 Absatz 3 Satz 5 des Kre
 
 (5) Nachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum über die Erfüllung der Anforderungen nach den Absätzen 1 bis 3 stehen inländischen Nachweisen gleich, wenn aus ihnen hervorgeht, dass die betreffenden Anforderungen oder die auf Grund ihrer Zielsetzung im Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind. Unterlagen nach Satz 1 sind auf Verlangen im Original oder in Kopie vorzulegen. Eine Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt werden.
 
-
-## § 10 – Zuverlässigkeit und Sachkunde des sonstigen Personals
+# § 10 – Zuverlässigkeit und Sachkunde des sonstigen Personals
 
 (1) Das sonstige Personal muss zuverlässig sein. § 8 Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
@@ -206,8 +193,7 @@ Bei nachfolgenden jährlichen Überprüfungen nach § 56 Absatz 3 Satz 5 des Kre
 
 (3) Den Fortbildungsbedarf des sonstigen Personals ermitteln der Inhaber, soweit er für die Leitung und Beaufsichtigung des Betriebes verantwortlich ist, oder die für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen.
 
-
-## § 11 – Überwachungsvertrag
+# § 11 – Überwachungsvertrag
 
 (1) Der Überwachungsvertrag nach § 56 Absatz 5 Satz 2 des Kreislaufwirtschaftsgesetzes bedarf der Schriftform. Er hat mindestens die in den §§ 3 bis 10 geregelten Anforderungen an Entsorgungsfachbetriebe zu enthalten.
 
@@ -249,8 +235,7 @@ Die technische Überwachungsorganisation entscheidet, ob zur Überprüfung der V
 
 (+++ § 11 Abs. 5 Satz 2 bis 4: zur Anwendung vgl. § 15 Abs. 1 +++)
 
-
-## § 12 – Zustimmung zum Überwachungsvertrag, Widerruf
+# § 12 – Zustimmung zum Überwachungsvertrag, Widerruf
 
 (1) Die nach § 56 Absatz 5 Satz 3 des Kreislaufwirtschaftsgesetzes für die Zustimmung zum Überwachungsvertrag zuständige Behörde (Zustimmungsbehörde) ist die Behörde am Hauptsitz der technischen Überwachungsorganisation. Die Zustimmungsbehörde trifft ihre Entscheidung hinsichtlich der Frage, ob die Anforderung des § 11 Absatz 5 Satz 2 Nummer 2 erfüllt ist, im Benehmen mit der für die Überwachung des Betriebes zuständigen Behörde (Überwachungsbehörde). Dazu übersendet die Zustimmungsbehörde der Überwachungsbehörde die Dokumentation über die Ergebnisse der Vorprüfung. Die Überwachungsbehörde hat sich innerhalb einer Frist von vier Wochen nach der Aufforderung zur Erteilung des Benehmens gegenüber der Zustimmungsbehörde zu äußern.
 
@@ -276,15 +261,13 @@ Die technische Überwachungsorganisation entscheidet, ob zur Überprüfung der V
 
 5. um schwere Nachteile für das Wohl der Allgemeinheit zu verhindern oder zu beseitigen.
 
-
-## § 13 – Satzung oder sonstige Regelung der Entsorgergemeinschaft
+# § 13 – Satzung oder sonstige Regelung der Entsorgergemeinschaft
 
 (1) Die Satzung oder sonstige Regelung der Entsorgergemeinschaft nach § 56 Absatz 6 Satz 3 des Kreislaufwirtschaftsgesetzes bedarf der Schriftform. Sie muss die in § 11 Absatz 1 Satz 2 und Absatz 2 und 3 festgelegten Inhalte entsprechend regeln.
 
 (2) In der Satzung oder sonstigen Regelung können weitergehende oder ergänzende Regelungen getroffen werden, soweit diese den Anforderungen des § 56 des Kreislaufwirtschaftsgesetzes und dieser Verordnung nicht widersprechen.
 
-
-## § 14 – Überwachungsausschuss
+# § 14 – Überwachungsausschuss
 
 (1) Die Entsorgergemeinschaft hat einen Überwachungsausschuss zu bilden. Der Überwachungsausschuss hat die Aufgabe, die Überwachung von Mitgliedsbetrieben zu sichern. Er entscheidet insbesondere über die Erteilung und den Entzug von Zertifikaten und der Berechtigung zum Führen von Überwachungszeichen auf der Grundlage von Gutachten der mit der Überwachung beauftragten Sachverständigen und ahndet Verstöße gegen die Bestimmungen über das Überwachungsverfahren und über das Führen von Überwachungszeichen.
 
@@ -298,8 +281,7 @@ Die technische Überwachungsorganisation entscheidet, ob zur Überprüfung der V
 
 (6) Die für die Anerkennung der Entsorgergemeinschaft zuständige Behörde (Anerkennungsbehörde) ist berechtigt, an den Sitzungen des Überwachungsausschusses und der Unterausschüsse teilzunehmen. Die Entsorgergemeinschaft hat der Anerkennungsbehörde den Termin und den Ort der Sitzung auf Verlangen mitzuteilen.
 
-
-## § 15 – Anforderungen an die Mitgliedschaft und Mitteilung der Aufnahme und des Austritts
+# § 15 – Anforderungen an die Mitgliedschaft und Mitteilung der Aufnahme und des Austritts
 
 (1) Die Entsorgergemeinschaft darf einen Betrieb nur als Mitglied aufnehmen, wenn eine Vorprüfung ergibt, dass der Betrieb die Gewähr dafür bietet, die in dieser Verordnung festgelegten Anforderungen an Entsorgungsfachbetriebe zu erfüllen. Für den Umfang der Vorprüfung und ihre Dokumentation gilt § 11 Absatz 5 Satz 2 bis 4 entsprechend.
 
@@ -313,8 +295,7 @@ Die technische Überwachungsorganisation entscheidet, ob zur Überprüfung der V
 
 Die Anerkennungsbehörde hat die Dokumentation über die Ergebnisse der Vorprüfung auch der Überwachungsbehörde zu übermitteln.
 
-
-## § 16 – Anerkennung der Entsorgergemeinschaft, Widerruf
+# § 16 – Anerkennung der Entsorgergemeinschaft, Widerruf
 
 (1) Die Anerkennung nach § 56 Absatz 6 Satz 2 des Kreislaufwirtschaftsgesetzes ist zu erteilen, wenn
 
@@ -342,8 +323,7 @@ Die Anerkennungsbehörde hat die Dokumentation über die Ergebnisse der Vorprüf
 
 5. um schwere Nachteile für das Wohl der Allgemeinheit zu verhindern oder zu beseitigen.
 
-
-## § 17 – Zuverlässigkeit von Sachverständigen
+# § 17 – Zuverlässigkeit von Sachverständigen
 
 (1) Die nach § 56 Absatz 7 des Kreislaufwirtschaftsgesetzes erforderliche Zuverlässigkeit ist gegeben, wenn der Sachverständige auf Grund seiner persönlichen Eigenschaften, seines Verhaltens und seiner Fähigkeiten zur ordnungsgemäßen Erfüllung der ihm obliegenden Aufgaben geeignet ist.
 
@@ -375,8 +355,7 @@ b) seine Pflichten als Betriebsbeauftragter für Immissionsschutz, Gewässerschu
 
 5. aus gesundheitlichen Gründen nicht nur vorübergehend unfähig ist, die Sachverständigentätigkeit ordnungsgemäß auszuüben.
 
-
-## § 18 – Unabhängigkeit von Sachverständigen
+# § 18 – Unabhängigkeit von Sachverständigen
 
 (1) Die nach § 56 Absatz 7 des Kreislaufwirtschaftsgesetzes erforderliche Unabhängigkeit ist gegeben, wenn der Sachverständige keinem wirtschaftlichen, finanziellen oder sonstigen Druck unterliegt, der sein Urteil beeinflussen oder das Vertrauen in die unparteiische Aufgabenwahrnehmung in Frage stellen kann. Der Sachverständige darf keine Bindungen eingehen, die seine berufliche Entscheidungsfreiheit beeinträchtigen oder beeinträchtigen könnten.
 
@@ -410,8 +389,7 @@ b) des Gemeinschaftssystems für das freiwillige Umweltmanagement und die Umwelt
 
 c) von Qualitätsmanagementsystemen, die den in den Buchstaben a und b genannten Systemen vergleichbar sind.
 
-
-## § 19 – Fach- und Sachkunde von Sachverständigen
+# § 19 – Fach- und Sachkunde von Sachverständigen
 
 (1) Die nach § 56 Absatz 7 des Kreislaufwirtschaftsgesetzes erforderliche Fach- und Sachkunde ist gegeben, wenn der Sachverständige auf Grund seiner Ausbildung, beruflichen Bildung und praktischen Erfahrung zur ordnungsgemäßen Erfüllung der ihm obliegenden Aufgaben geeignet ist.
 
@@ -453,8 +431,7 @@ b) als für die Leitung und Beaufsichtigung des Betriebes verantwortliche Person
 
 (5) Der Sachverständige muss durch geeignete Fortbildung über den für seine Tätigkeit notwendigen aktuellen Wissensstand verfügen.
 
-
-## § 20 – Zulassung als Umweltgutachter oder Umweltgutachterorganisation
+# § 20 – Zulassung als Umweltgutachter oder Umweltgutachterorganisation
 
 (1) Die in den §§ 17 bis 19 genannten Anforderungen gelten als erfüllt, wenn
 
@@ -466,8 +443,7 @@ für den Unternehmensbereich der Abteilung 38 (Sammlung, Behandlung und Beseitig
 
 (2) Im Fall der Zulassung nur für den Unternehmensbereich der Abteilung 39 des Anhangs I der Verordnung (EG) Nr. 1893/2006 ist die Tätigkeit als Sachverständiger auf die Überprüfung von Betrieben beschränkt, die unter diesen Unternehmensbereich fallen.
 
-
-## § 21 – Kontrolle der Sachverständigen
+# § 21 – Kontrolle der Sachverständigen
 
 (1) Die technische Überwachungsorganisation und die Entsorgergemeinschaft haben durch Kontrollen sicherzustellen, dass die von ihnen beauftragten Sachverständigen die Anforderungen der §§ 17 bis 20 erfüllen.
 
@@ -481,8 +457,7 @@ Im Fall des Satzes 1 Nummer 1 sind der Mitteilung Nachweise über die Erfüllung
 
 (3) Die technische Überwachungsorganisation und die Entsorgergemeinschaft haben sicherzustellen, dass jeder von ihnen beauftragte Sachverständige mindestens alle drei Jahre bei einem Vor-Ort-Termin durch einen weiteren Sachverständigen oder durch einen geeigneten Mitarbeiter der technischen Überwachungsorganisation oder der Entsorgergemeinschaft begleitet wird. Satz 1 gilt nicht, wenn der Sachverständige eine Zulassung als Umweltgutachter nach § 9 des Umweltauditgesetzes besitzt.
 
-
-## § 22 – Erstmalige und jährliche Überprüfung
+# § 22 – Erstmalige und jährliche Überprüfung
 
 (1) Im Rahmen der erstmaligen und der jährlichen Überprüfung nach § 56 Absatz 3 Satz 5 des Kreislaufwirtschaftsgesetzes wird geprüft, ob der Betrieb die Anforderungen erfüllt, die im Überwachungsvertrag der technischen Überwachungsorganisation oder in der Satzung oder sonstigen Regelung der Entsorgergemeinschaft enthalten sind. Die Überprüfung erfolgt auf der Grundlage eines von der technischen Überwachungsorganisation oder der Entsorgergemeinschaft schriftlich oder elektronisch festgelegten Überwachungsplanes, der die Besonderheiten des jeweiligen Betriebes zu berücksichtigen hat.
 
@@ -498,13 +473,11 @@ Im Fall des Satzes 1 Nummer 1 sind der Mitteilung Nachweise über die Erfüllung
 
 (5) Die technische Überwachungsorganisation oder die Entsorgergemeinschaft hat sicherzustellen, dass spätestens nach fünf Jahren der durchgängigen Überprüfung durch denselben Sachverständigen ein anderer Sachverständiger die Überprüfung des Betriebes durchführt.
 
-
-## § 23 – Überwachungsbericht
+# § 23 – Überwachungsbericht
 
 Der Sachverständige dokumentiert den Verlauf und das Ergebnis der Überprüfung gegenüber dem Betrieb schriftlich in einem Überwachungsbericht. Der Mindestinhalt des Überwachungsberichts ergibt sich aus Anlage 2.
 
-
-## § 24 – Teilzertifizierung und Beschränkung des Zertifizierungsumfangs
+# § 24 – Teilzertifizierung und Beschränkung des Zertifizierungsumfangs
 
 (1) Das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes kann für einen Teil des Betriebes nur erteilt werden, wenn
 
@@ -524,13 +497,11 @@ Der Sachverständige dokumentiert den Verlauf und das Ergebnis der Überprüfung
 
 Im Fall des Satzes 1 Nummer 2 hat die Zertifizierung alle Standorte zu umfassen, an denen die zu zertifizierende Tätigkeit durchgeführt wird. Im Fall des Satzes 1 Nummer 3 hat die Zertifizierung alle Tätigkeiten zu umfassen, die an dem zu zertifizierenden Standort durchgeführt werden.
 
-
-## § 25 – Gestaltung des Zertifikats
+# § 25 – Gestaltung des Zertifikats
 
 Das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes hat den Anforderungen des Vordrucks nach Anlage 3 zu entsprechen.
 
-
-## § 26 – Entzug des Zertifikats und des Überwachungszeichens
+# § 26 – Entzug des Zertifikats und des Überwachungszeichens
 
 (1) In den Fällen des § 56 Absatz 8 Satz 1 des Kreislaufwirtschaftsgesetzes hat der Entzug des Zertifikats unverzüglich zu erfolgen und die Frist zur Rückgabe des Zertifikats und zum Nichtweiterführen des Überwachungszeichens beträgt höchstens zwei Wochen. Kommt der Betrieb der Aufforderung zur Rückgabe des Zertifikats und zum Nichtweiterführen des Überwachungszeichens nicht nach, hat die technische Überwachungsorganisation dies der Zustimmungsbehörde und die Entsorgergemeinschaft dies der Anerkennungsbehörde unverzüglich mitzuteilen. Die Zustimmungs- oder Anerkennungsbehörde trifft ihre Entscheidung nach § 56 Absatz 8 Satz 2 des Kreislaufwirtschaftsgesetzes im Benehmen mit der Überwachungsbehörde. Sie hat ihre Entscheidung der Überwachungsbehörde sowie der technischen Überwachungsorganisation oder der Entsorgergemeinschaft mitzuteilen. Sofern das Zertifikat in den Fällen des § 56 Absatz 8 des Kreislaufwirtschaftsgesetzes entzogen worden ist, hat die Zustimmungs- oder Anerkennungsbehörde dieses unverzüglich aus dem Entsorgungsfachbetrieberegister zu löschen.
 
@@ -538,8 +509,7 @@ Das Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes hat den Anfo
 
 (3) Unbeschadet des § 56 Absatz 8 Satz 1 des Kreislaufwirtschaftsgesetzes verliert der Entsorgungsfachbetrieb die Berechtigung, das Zertifikat und das Überwachungszeichen zu führen, wenn er die zertifizierte Tätigkeit auf Dauer einstellt.
 
-
-## § 27 – Pflicht zur Kündigung des Überwachungsvertrages oder der Mitgliedschaft
+# § 27 – Pflicht zur Kündigung des Überwachungsvertrages oder der Mitgliedschaft
 
 Die technische Überwachungsorganisation hat den Überwachungsvertrag oder die Entsorgergemeinschaft die Mitgliedschaft zu kündigen, wenn
 
@@ -553,8 +523,7 @@ b) vor Ablauf seiner Gültigkeit entzogen worden ist oder
 
 3. der Betrieb die zertifizierte Tätigkeit auf Dauer eingestellt hat.
 
-
-## § 28 – Entsorgungsfachbetrieberegister
+# § 28 – Entsorgungsfachbetrieberegister
 
 (1) Die technische Überwachungsorganisation hat der Zustimmungsbehörde und die Entsorgergemeinschaft hat der Anerkennungsbehörde elektronisch
 
@@ -574,8 +543,7 @@ Die Zustimmungs- oder Anerkennungsbehörde teilt die ihr nach Satz 1 übermittel
 
 (3) Die Länder führen ein bundesweit einheitliches elektronisches Register über die zertifizierten Entsorgungsfachbetriebe. Sie nutzen hierzu die nach Absatz 1 Satz 1 Nummer 1 Buchstabe a übermittelten Zertifikate. Das Register ist ständig zu aktualisieren und in geeigneter Weise der Öffentlichkeit zugänglich zu machen. Das Nähere über die Einrichtung und Führung des Registers regeln die Länder durch Vereinbarung.
 
-
-## § 29 – Ordnungswidrigkeiten
+# § 29 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -589,13 +557,11 @@ Die Zustimmungs- oder Anerkennungsbehörde teilt die ihr nach Satz 1 übermittel
 
 2. entgegen § 28 Absatz 1 Satz 1 Nummer 2 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
 
-
-## § 30 – Zugänglichkeit privater Regelwerke
+# § 30 – Zugänglichkeit privater Regelwerke
 
 Die bezeichneten DIN-Normen können bei der Beuth Verlag GmbH, Berlin bezogen werden. Sie sind bei der Deutschen Nationalbibliothek archivmäßig gesichert niedergelegt.
 
-
-## § 31 – Übergangsvorschriften
+# § 31 – Übergangsvorschriften
 
 (1) Die behördliche Anerkennung eines Lehrgangs nach § 9 Absatz 2 Satz 2 Nummer 3 und § 11 Satz 2 der Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I S. 1421) in der bis zum 1. Juni 2017 geltenden Fassung gilt als Anerkennung eines Lehrgangs nach § 9 Absatz 1 Satz 2 Nummer 3 und Absatz 3 Satz 2 fort, sofern der Lehrgangsträger die Lehrgangsinhalte an die in der Anlage 1 genannten Inhalte anpasst und bis zum 1. September 2017 der zuständigen Behörde das überarbeitete Lehrgangsprogramm vorlegt.
 
@@ -605,8 +571,7 @@ Die bezeichneten DIN-Normen können bei der Beuth Verlag GmbH, Berlin bezogen we
 
 (4) Bis zum 1. Juni 2017 nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes erteilte Zertifikate behalten ihre Gültigkeit, auch wenn sie entgegen § 25 nicht den Anforderungen des Vordrucks nach Anlage 3 entsprechen.
 
-
-## Anlage 1 – (zu § 9 Absatz 1 Satz 2 Nummer 3 und Absatz 3 Satz 2,§ 19 Absatz 2 Nummer 2 Buchstabe b Halbsatz 2 sowie § 31 Absatz 1 und 2)Lehrgangsinhalte
+# Anlage 1 – (zu § 9 Absatz 1 Satz 2 Nummer 3 und Absatz 3 Satz 2,§ 19 Absatz 2 Nummer 2 Buchstabe b Halbsatz 2 sowie § 31 Absatz 1 und 2)Lehrgangsinhalte
 
 (Fundstelle: BGBl. I 2016, 2782 - 2783)
 
@@ -704,8 +669,7 @@ f) Seuchen- und Hygienerecht,
 
 16. die Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht.
 
-
-## Anlage 2 – (zu § 23 Satz 2)Mindestinhalt von Überwachungsberichten
+# Anlage 2 – (zu § 23 Satz 2)Mindestinhalt von Überwachungsberichten
 
 (Fundstelle: BGBl. I 2016, 2784 - 2785)
 
@@ -859,7 +823,6 @@ d) Abschließende Empfehlung des oder der Sachverständigen
 
 e) Berichtsdatum und Unterschrift des oder der Sachverständigen
 
-
-## Anlage 3 – (zu § 25)Vordruck für das Zertifikat
+# Anlage 3 – (zu § 25)Vordruck für das Zertifikat
 
 (Fundstelle: BGBl. I 2016, 2786 - 2788)

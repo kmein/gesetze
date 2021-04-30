@@ -1,13 +1,9 @@
-# [GBPolVDVDV] Verordnung über den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der Bundespolizei  (GBPolVDVDV)
-
-Ausfertigungsdatum: 16.08.2017
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der Bundespolizei  (GBPolVDVDV)
+% Ausfertigungsdatum: 16.08.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt
 
@@ -15,23 +11,19 @@ Diese Verordnung regelt
 
 2. die Ausbildung der Polizeivollzugsbeamtinnen und -beamten, die sich für den Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei nach § 15 der Bundespolizei-Laufbahnverordnung beworben haben und die Auswahl für die Ausbildung.
 
-
-## § 2 – Diplomstudium
+# § 2 – Diplomstudium
 
 Der Diplomstudiengang „Polizeivollzugsdienst in der Bundespolizei (Diplom-Verwaltungswirt)“ an der Hochschule des Bundes für öffentliche Verwaltung (Hochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei.
 
-
-## § 3 – Ziele des Studiums
+# § 3 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen Polizeivollzugsdienst in der Bundespolizei erforderlich sind. Dies schließt die Vermittlung von Führungsbefähigung ein. Die Studierenden werden befähigt, ihre Kompetenzen weiterzuentwickeln, um den ständig wachsenden Herausforderungen des Polizeivollzugsdienstes gerecht zu werden. Das Studium soll die Studierenden zu verantwortlichem polizeilichen Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im europäischen und internationalen Raum.
 
-
-## § 4 – Laufbahnbefähigung
+# § 4 – Laufbahnbefähigung
 
 Der erfolgreiche Abschluss des Studiums vermittelt die Laufbahnbefähigung für den gehobenen Polizeivollzugsdienst in der Bundespolizei.
 
-
-## § 5 – Einstellungsbehörde, Auswahlverfahren
+# § 5 – Einstellungsbehörde, Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Bundespolizeiakademie auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der Bundespolizei geeignet sind.
 
@@ -43,8 +35,7 @@ Der erfolgreiche Abschluss des Studiums vermittelt die Laufbahnbefähigung für 
 
 (+++ § 5 Abs. 1 Satz 1: zur Nichtanwendung vgl. § 46 Abs. 1 +++)
 
-
-## § 6 – Auswahlkommission
+# § 6 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Bundespolizeipräsidium auf Vorschlag der Bundespolizeiakademie eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden; in diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe anlegen.
 
@@ -70,8 +61,7 @@ Beamtinnen und Beamte dürfen nur dann zu Mitgliedern der Auswahlkommission nach
 
 (5) Die Stimmen der Mitglieder der Auswahlkommission haben gleiches Gewicht. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 7 – Bestandteile des Auswahlverfahrens, Festlegung ergänzender Bestimmungen
+# § 7 – Bestandteile des Auswahlverfahrens, Festlegung ergänzender Bestimmungen
 
 (1) Das Auswahlverfahren besteht aus
 
@@ -95,8 +85,7 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (4) Die Bundespolizeiakademie entscheidet bei Vorliegen einer Täuschung, eines Täuschungsversuchs, eines Mitwirkens an einem solchen oder eines sonstigen Ordnungsverstoßes über den Ausschluss der Bewerberin oder des Bewerbers vom Auswahlverfahren. Die Betroffenen sind vor der Entscheidung anzuhören.
 
-
-## § 8 – Schriftlicher Teil des Auswahlverfahrens
+# § 8 – Schriftlicher Teil des Auswahlverfahrens
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist ein auf wissenschaftlicher Grundlage entwickelter Leistungstest.
 
@@ -110,22 +99,19 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (6) Auf Grund der erzielten Ergebnisse legt die Bundespolizeiakademie eine Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest.
 
-
-## § 9 – Feststellung der körperlichen Leistungsfähigkeit
+# § 9 – Feststellung der körperlichen Leistungsfähigkeit
 
 (1) Die körperliche Leistungsfähigkeit für den Polizeivollzugsdienst in der Bundespolizei wird durch sportliche Leistungstests festgestellt.
 
 (2) Sie ist nachgewiesen, wenn die Bewerberin oder der Bewerber in jedem sportlichen Leistungstest die Mindestanforderungen erreicht hat.
 
-
-## § 10 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+# § 10 – Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens bestanden und die körperliche Leistungsfähigkeit nach § 9 nachgewiesen hat.
 
 (2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens bestanden haben, das Dreifache der Studienplätze, die der Bundespolizeiakademie zur Verfügung stehen, so kann die Zahl der am mündlichen Teil des Auswahlverfahrens Teilnehmenden beschränkt werden. Es sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Studienplätze zur Verfügung stehen. In diesem Fall wird zugelassen, wer nach der Rangfolge nach § 8 Absatz 6 am besten geeignet ist.
 
-
-## § 11 – Mündlicher Teil des Auswahlverfahrens
+# § 11 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln. Er kann aus bis zu fünf Teilabschnitten bestehen.
 
@@ -135,15 +121,13 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (4) Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die Bewerberin oder der Bewerber in jedem Teilabschnitt, für den eine Mindestpunktzahl vorgesehen ist, diese Mindestpunktzahl erreicht hat.
 
-
-## § 12 – Gesamtergebnis des Auswahlverfahrens
+# § 12 – Gesamtergebnis des Auswahlverfahrens
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der am mündlichen Teil des Auswahlverfahrens teilgenommen hat, das Gesamtergebnis des Auswahlverfahrens. Das Gesamtergebnis ergibt sich aus der Summe der Ergebnisse des schriftlichen und des mündlichen Teils des Auswahlverfahrens. Das Ergebnis des schriftlichen Teils des Auswahlverfahrens geht mit höchstens 30 Prozent in das Gesamtergebnis ein.
 
 (2) Anhand der Gesamtergebnisse bildet die Bundespolizeiakademie eine Rangfolge der Bewerberinnen und Bewerber, die das Auswahlverfahren bestanden haben.
 
-
-## § 13 – Einstellung
+# § 13 – Einstellung
 
 (1) In den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst der Bundespolizei kann eingestellt werden, wer
 
@@ -161,8 +145,7 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (4) Die Bundespolizeiakademie entscheidet über die Einstellung der Bewerberinnen und Bewerber auf der Grundlage der Rangfolge nach § 12 Absatz 2.
 
-
-## § 14 – Zuständigkeiten, Organisation und Durchführung des Studiums
+# § 14 – Zuständigkeiten, Organisation und Durchführung des Studiums
 
 (1) Die Bundespolizeiakademie führt die Dienstaufsicht über die Studierenden während des Studiums.
 
@@ -172,8 +155,7 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (4) Näheres legt die Hochschule im Modulhandbuch fest.
 
-
-## § 15 – Ausbildungspersonal während der berufspraktischen Studienzeiten
+# § 15 – Ausbildungspersonal während der berufspraktischen Studienzeiten
 
 (1) Die Hochschule bestellt in Abstimmung mit der Bundespolizeiakademie für jeden Studienjahrgang eine Beamtin oder einen Beamten des höheren Polizeivollzugsdienstes als Ausbildungsleiterin oder Ausbildungsleiter und eine Vertretung. Die Ausbildungsleiterin oder der Ausbildungsleiter führt zentral die Fachaufsicht über die Ausbildung während der berufspraktischen Studienzeiten.
 
@@ -187,13 +169,11 @@ In der Bewertungs- und Gewichtungssystematik können auch für einzelne Kompeten
 
 (6) Näheres legt die Hochschule im Modulhandbuch fest.
 
-
-## § 16 – Erholungsurlaub
+# § 16 – Erholungsurlaub
 
 Die Hochschule bestimmt die Zeiten des Erholungsurlaubs.
 
-
-## § 17 – Dauer und Gliederung des Studiums
+# § 17 – Dauer und Gliederung des Studiums
 
 (1) Das Studium besteht aus Fachstudienzeiten und berufspraktischen Studienzeiten.
 
@@ -338,8 +318,7 @@ Polizeitraining (während der Module 10 bis 18)
 
 (6) Die Teilnahme an sämtlichen Veranstaltungen des Studiums ist für die Studierenden verpflichtend.
 
-
-## § 18 – Leistungstests
+# § 18 – Leistungstests
 
 (1) In den Modulen 1 bis 3, 8, 9, 11 bis 13, 15 und 17 sind Leistungstests durchzuführen.
 
@@ -481,8 +460,7 @@ Neben der fachlichen Leistung werden auch die Klarheit der Darstellung und die A
 
 (+++ § 18 Abs. 5: zur Anwendung vgl. § 23 Abs. 1 +++)
 
-
-## § 19 – Zuständigkeit
+# § 19 – Zuständigkeit
 
 (1) Es werden eine Zwischenprüfung und eine Laufbahnprüfung durchgeführt.
 
@@ -490,8 +468,7 @@ Neben der fachlichen Leistung werden auch die Klarheit der Darstellung und die A
 
 (3) Für die Organisation und Durchführung der Laufbahnprüfung ist das Prüfungsamt der Bundespolizeiakademie (Prüfungsamt) zuständig.
 
-
-## § 20 – Prüfungskommissionen
+# § 20 – Prüfungskommissionen
 
 (1) Für die Bewertung der Klausuren der Zwischenprüfung und der schriftlichen Prüfungen der Laufbahnprüfung sowie für die Durchführung und Bewertung der mündlichen Abschlussprüfung richten die nach § 19 Absatz 2 und 3 zuständigen Stellen Prüfungskommissionen ein. Bei Bedarf können jeweils mehrere Prüfungskommissionen eingerichtet werden.
 
@@ -513,8 +490,7 @@ Als Mitglieder der Prüfungskommission nach Satz 1 Nummer 1 können nur Beamtinn
 
 (6) Die Prüfungskommission ist beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 21 – Prüfende
+# § 21 – Prüfende
 
 (1) Die Klausuren der Zwischenprüfung und der schriftlichen Prüfungen der Laufbahnprüfung werden von einer oder einem Prüfenden bewertet, soweit diese Verordnung nichts anderes bestimmt.
 
@@ -524,8 +500,7 @@ Als Mitglieder der Prüfungskommission nach Satz 1 Nummer 1 können nur Beamtinn
 
 (4) Bei der Bewertung der praktischen Prüfung und der Diplomarbeit legt das Prüfungsamt fest, wer Erstprüfende oder Erstprüfender ist. Die Prüfenden bewerten unabhängig voneinander. Die oder der Zweitprüfende darf Kenntnis von der Bewertung der oder des Erstprüfenden haben.
 
-
-## § 22 – Bestellung der Prüfenden
+# § 22 – Bestellung der Prüfenden
 
 (1) Die Hochschule bestellt die Prüfenden für die Zwischenprüfung. Das Prüfungsamt bestellt die Prüfenden für die Laufbahnprüfung.
 
@@ -539,15 +514,13 @@ Als Mitglieder der Prüfungskommission nach Satz 1 Nummer 1 können nur Beamtinn
 
 (6) Die Prüfenden sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
-
-## § 23 – Bewertung der Prüfungsleistungen
+# § 23 – Bewertung der Prüfungsleistungen
 
 (1) Für die Bewertung der Leistungen in den Prüfungen und Prüfungsteilen gilt § 18 Absatz 5 entsprechend.
 
 (2) Werden Prüfungsleistungen von mehreren Prüfenden bewertet oder bestehen Prüfungsleistungen aus mehreren Teilen, so ist das arithmetische Mittel der Bewertungen zu bilden, sofern diese Verordnung nichts anderes bestimmt. Die Durchschnittsrangpunktzahlen werden auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
-## § 24 – Zwischenprüfung
+# § 24 – Zwischenprüfung
 
 (1) Die Zwischenprüfung wird am Ende des Grundstudiums durchgeführt.
 
@@ -561,8 +534,7 @@ Als Mitglieder der Prüfungskommission nach Satz 1 Nummer 1 können nur Beamtinn
 
 (6) Klausuren, die mit weniger als fünf Rangpunkten bewertet worden sind, werden durch eine Zweitprüfende oder einen Zweitprüfenden bewertet. Weichen die Bewertungen um mindestens einen Rangpunkt voneinander ab, gibt die Hochschule die Klausur zur Einigung an die Prüfenden zurück. Einigen sich die Prüfenden nicht, entscheidet die Prüfungskommission.
 
-
-## § 25 – Bestehen der Zwischenprüfung
+# § 25 – Bestehen der Zwischenprüfung
 
 Die Zwischenprüfung ist bestanden, wenn
 
@@ -570,8 +542,7 @@ Die Zwischenprüfung ist bestanden, wenn
 
 2. eine Durchschnittsrangpunktzahl von mindestens fünf erreicht worden ist.
 
-
-## § 26 – Zwischenprüfungszeugnis
+# § 26 – Zwischenprüfungszeugnis
 
 (1) Wer die Zwischenprüfung bestanden hat, erhält von der Hochschule ein Zwischenprüfungszeugnis. Das Zwischenprüfungszeugnis enthält
 
@@ -581,8 +552,7 @@ Die Zwischenprüfung ist bestanden, wenn
 
 (2) Wer die Zwischenprüfung nicht bestanden hat, erhält von der Hochschule einen schriftlichen Bescheid.
 
-
-## § 27 – Bestandteile
+# § 27 – Bestandteile
 
 Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdienst in der Bundespolizei. Sie besteht aus
 
@@ -594,8 +564,7 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 4. der mündlichen Abschlussprüfung.
 
-
-## § 28 – Schriftliche Prüfungen
+# § 28 – Schriftliche Prüfungen
 
 (1) Die schriftlichen Prüfungen bestehen aus jeweils mindestens einer Klausur in den Modulen 10 und 14.
 
@@ -607,8 +576,7 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 (5) Die Klausuren werden anstelle des Namens mit einer Kennnummer versehen. Das Prüfungsamt erstellt eine Übersicht mit der Zuordnung der Kennnummern zu den Namen. Die Übersicht ist geheim zu halten und darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
-
-## § 29 – Bewertung und Bestehen der schriftlichen Prüfungen
+# § 29 – Bewertung und Bestehen der schriftlichen Prüfungen
 
 (1) Klausuren, die mit weniger als fünf Rangpunkten bewertet worden sind, werden durch eine Zweitprüfende oder einen Zweitprüfenden bewertet. Weichen die Bewertungen um mindestens einen Rangpunkt voneinander ab, gibt das Prüfungsamt die Klausur zur Einigung an die Prüfenden zurück. Einigen sich die Prüfenden nicht, entscheidet die Prüfungskommission.
 
@@ -616,8 +584,7 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 (3) Die schriftlichen Prüfungen sind bestanden, wenn jeweils mindestens fünf Rangpunkte erreicht worden sind.
 
-
-## § 30 – Praktische Prüfungen
+# § 30 – Praktische Prüfungen
 
 (1) Die praktischen Prüfungen bestehen aus jeweils einer praktischen Leistungsabnahme in den Modulen 16 und 20.
 
@@ -629,13 +596,11 @@ Die Diplomprüfung ist die Laufbahnprüfung für den gehobenen Polizeivollzugsdi
 
 (5) Gegenstand, Verlauf und Ergebnis der praktischen Prüfungen werden protokolliert. Das Protokoll ist von den Prüfenden zu unterschreiben.
 
-
-## § 31 – Bestehen der praktischen Prüfungen
+# § 31 – Bestehen der praktischen Prüfungen
 
 Die praktischen Prüfungen sind bestanden, wenn jeweils mindestens fünf Rangpunkte erreicht worden sind.
 
-
-## § 32 – Diplomarbeit
+# § 32 – Diplomarbeit
 
 (1) Mit der Diplomarbeit sollen die Studierenden nachweisen, dass sie in der Lage sind, eine für die Studienziele relevante Problemstellung innerhalb einer vorgegebenen Zeit selbständig wissenschaftlich zu bearbeiten.
 
@@ -653,8 +618,7 @@ Die praktischen Prüfungen sind bestanden, wenn jeweils mindestens fünf Rangpun
 
 (8) Bei nicht fristgerechter Abgabe gilt die Diplomarbeit als mit null Rangpunkten bewertet.
 
-
-## § 33 – Bewertung und Bestehen der Diplomarbeit
+# § 33 – Bewertung und Bestehen der Diplomarbeit
 
 (1) Bei der Diplomarbeit sind der Inhalt mit 70 Prozent und die Form mit 30 Prozent zu gewichten.
 
@@ -662,15 +626,13 @@ Die praktischen Prüfungen sind bestanden, wenn jeweils mindestens fünf Rangpun
 
 (3) Die Diplomarbeit ist bestanden, wenn mindestens fünf Rangpunkte erreicht worden sind.
 
-
-## § 34 – Zulassung zur mündlichen Abschlussprüfung
+# § 34 – Zulassung zur mündlichen Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die Zwischenprüfung, die schriftlichen und die praktischen Prüfungen der Laufbahnprüfung sowie die Diplomarbeit bestanden hat.
 
 (2) Die Entscheidung über die Zulassung oder Nichtzulassung wird den Studierenden rechtzeitig vor der mündlichen Abschlussprüfung schriftlich bekannt gegeben. Gleichzeitig werden den Studierenden die in den schriftlichen und praktischen Prüfungen der Laufbahnprüfung sowie in der Diplomarbeit erzielten Rangpunkte mitgeteilt.
 
-
-## § 35 – Mündliche Abschlussprüfung
+# § 35 – Mündliche Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung wird im Modul 18 als interdisziplinäre Prüfung durchgeführt. In ihr sollen die Studierenden nachweisen, dass sie die Inhalte der absolvierten Module beherrschen und zueinander in Beziehung setzen können und ihre Kenntnisse und Fähigkeiten den Anforderungen des gehobenen Polizeivollzugsdienstes in der Bundespolizei genügen.
 
@@ -680,15 +642,13 @@ Die praktischen Prüfungen sind bestanden, wenn jeweils mindestens fünf Rangpun
 
 (4) Die mündliche Abschlussprüfung ist nicht öffentlich. Die Leiterin oder der Leiter des Fachbereichs Bundespolizei der Hochschule sowie Angehörige des Prüfungsamts können teilnehmen. Das Bundesministerium des Innern, für Bau und Heimat und das Bundespolizeipräsidium können jeweils eine Vertreterin oder einen Vertreter zur Teilnahme an der mündlichen Abschlussprüfung entsenden. Das Prüfungsamt kann auch anderen Personen die Anwesenheit in der mündlichen Abschlussprüfung allgemein oder im Einzelfall gestatten. Diese anderen Personen dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den Beratungen der Prüfungskommission dürfen nur deren Mitglieder, Angehörige des Prüfungsamts sowie die Protokollführerin oder der Protokollführer anwesend sein.
 
-
-## § 36 – Bewertung und Bestehen der mündlichen Abschlussprüfung
+# § 36 – Bewertung und Bestehen der mündlichen Abschlussprüfung
 
 (1) Die mündliche Abschlussprüfung ist bestanden, wenn mindestens fünf Rangpunkte erreicht worden sind.
 
 (2) Die oder der Vorsitzende der Prüfungskommission teilt der Prüfungsteilnehmerin oder dem Prüfungsteilnehmer die erreichten Rangpunkte nach Abschluss der mündlichen Abschlussprüfung mit und erläutert das Prüfungsergebnis mündlich.
 
-
-## § 37 – Bestehen der Laufbahnprüfung, Gesamtnote
+# § 37 – Bestehen der Laufbahnprüfung, Gesamtnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die abschließende Rangpunktzahl mindestens fünf beträgt. Bei der Berechnung der abschließenden Rangpunktzahl werden die Prüfungsergebnisse wie folgt gewichtet:
 
@@ -718,8 +678,7 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 
 (2) Die abschließende Rangpunktzahl wird kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Gesamtnote zugeordnet.
 
-
-## § 38 – Abschlusszeugnis, akademischer Grad, Bescheid bei Nichtbestehen
+# § 38 – Abschlusszeugnis, akademischer Grad, Bescheid bei Nichtbestehen
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein Abschlusszeugnis. Das Abschlusszeugnis enthält mindestens die abschließende Rangpunktzahl und die Gesamtnote.
 
@@ -733,8 +692,7 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 
 (6) Wird die Laufbahnprüfung nachträglich nach § 40 Absatz 4 für nicht bestanden erklärt, ist das Abschlusszeugnis zurückzugeben.
 
-
-## § 39 – Fernbleiben und Rücktritt
+# § 39 – Fernbleiben und Rücktritt
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil gilt diese Prüfung oder dieser Prüfungsteil als mit null Rangpunkten bewertet.
 
@@ -742,8 +700,7 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 
 (3) Über die Genehmigung entscheidet die nach § 19 zuständige Stelle.
 
-
-## § 40 – Täuschung, Ordnungsverstoß
+# § 40 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der jeweiligen Prüfung oder des jeweiligen Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung der nach § 19 zuständigen Stelle gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung oder an dem Prüfungsteil ausgeschlossen werden. In der mündlichen Abschlussprüfung entscheidet die Prüfungskommission über die Fortsetzung der Prüfung in den in Satz 1 genannten Fällen.
 
@@ -759,8 +716,7 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 1 bis 4 anzuhören.
 
-
-## § 41 – Wiederholung von Prüfungen
+# § 41 – Wiederholung von Prüfungen
 
 (1) Studierende, die die Zwischenprüfung, die schriftlichen Prüfungen der Laufbahnprüfung, die praktischen Prüfungen der Laufbahnprüfung, die Diplomarbeit oder die mündliche Abschlussprüfung nicht bestanden haben, können die entsprechende Prüfung jeweils einmal wiederholen. In begründeten Ausnahmefällen kann das Bundesministerium des Innern, für Bau und Heimat eine zweite Wiederholung zulassen.
 
@@ -776,8 +732,7 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 
 (7) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 42 – Prüfungsakten und Einsichtnahme
+# § 42 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jeder und jedem Studierenden führen die Hochschule und das Prüfungsamt eine Prüfungsakte.
 
@@ -811,23 +766,19 @@ mündlichen Abschlussprüfung</td><td style="text-align: right;">mit 24 Prozent.
 
 Die Einsichtnahme wird in der Prüfungsakte vermerkt.
 
-
-## § 43 – Beendigung des Beamtenverhältnisses
+# § 43 – Beendigung des Beamtenverhältnisses
 
 Bei endgültigem Nichtbestehen der Zwischenprüfung oder der Laufbahnprüfung endet das Beamtenverhältnis mit Ablauf des Tages, an dem das Nichtbestehen der Prüfung bekannt gegeben wird.
 
-
-## § 44 – Zuerkennung der Befähigung für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei
+# § 44 – Zuerkennung der Befähigung für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei
 
 Studierenden, die die Laufbahnprüfung nach der mündlichen Abschlussprüfung endgültig nicht bestanden haben, kann die Befähigung für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei zuerkannt werden. Die Zuerkennung steht einer mit ausreichend bestandenen Laufbahnprüfung für den mittleren Polizeivollzugsdienst in der Bundespolizei gleich.
 
-
-## § 45 – Zuständigkeit für die Entscheidung über Widersprüche
+# § 45 – Zuständigkeit für die Entscheidung über Widersprüche
 
 Über Widersprüche gegen Entscheidungen im Prüfungsverfahren, die auf Grund dieser Verordnung getroffen werden, entscheidet bei der Zwischenprüfung die Hochschule und in der Laufbahnprüfung das Prüfungsamt.
 
-
-## § 46 – Anwendung der Abschnitte 1 bis 4, Abweichungen
+# § 46 – Anwendung der Abschnitte 1 bis 4, Abweichungen
 
 (1) Für die Auswahl und Ausbildung von Polizeivollzugsbeamtinnen und -beamten, die sich für den Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei nach § 15 der Bundespolizei-Laufbahnverordnung beworben haben, gelten die §§ 2 bis 8, 10 bis 12 und 14 bis 42 und 45 nach Maßgabe der folgenden Absätze entsprechend. § 5 Absatz 1 Satz 1 ist nicht anzuwenden.
 
@@ -837,8 +788,7 @@ Studierenden, die die Laufbahnprüfung nach der mündlichen Abschlussprüfung en
 
 (4) Die Basisausbildung, die praxisbezogene Lehrveranstaltung I und die praktische Verwendung I nach § 17 entfallen. Die Ausbildung beginnt mit dem Grundstudium. Die Studierenden werden ab dem Hauptstudium I in den weiteren Studienverlauf der Studierenden nach § 1 Nummer 1 integriert.
 
-
-## § 47 – Übergangsvorschriften
+# § 47 – Übergangsvorschriften
 
 (1) Für Polizeivollzugsbeamtinnen und -beamte, die den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der Bundespolizei vor dem 1. September 2010 begonnen haben, ist die Verordnung über die Ausbildung und Prüfung für den gehobenen Polizeivollzugsdienst in der Bundespolizei vom 19. Dezember 2001 (BGBl. I S. 3891), die zuletzt durch Artikel 3 Absatz 2 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 

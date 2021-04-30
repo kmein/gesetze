@@ -1,152 +1,121 @@
-# [HBegleitG 1984] Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der Investitionshilfeabgabe  (Haushaltsbegleitgesetz 1984)
-
-Ausfertigungsdatum: 22.12.1983
-
+% Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der Investitionshilfeabgabe  (Haushaltsbegleitgesetz 1984)
+% Ausfertigungsdatum: 22.12.1983
  
-
-## Art 1 – Änderung der Reichsversicherungsordnung
-
-\-
-
-
-## Art 2 – Änderung des Angestelltenversicherungsgesetzes
+# Art 1 – Änderung der Reichsversicherungsordnung
 
 \-
 
-
-## Art 3 – Änderung des Reichsknappschaftsgesetzes
-
-\-
-
-
-## Art 4 – Änderung des Arbeiterrentenversicherungs-Neuregelungsgesetzes
+# Art 2 – Änderung des Angestelltenversicherungsgesetzes
 
 \-
 
-
-## Art 5 – Änderung des Angestelltenversicherungs-Neuregelungsgesetzes
-
-\-
-
-
-## Art 6 – Änderung des Knappschaftsrentenversicherungs-Neuregelungsgesetzes
+# Art 3 – Änderung des Reichsknappschaftsgesetzes
 
 \-
 
-
-## Art 7 – Änderung des Gesetzes über die Sozialversicherung Behinderter
-
-\-
-
-
-## Art 8 – Änderung des Ersten Buches Sozialgesetzbuch
+# Art 4 – Änderung des Arbeiterrentenversicherungs-Neuregelungsgesetzes
 
 \-
 
-
-## Art 9 – Änderung des Vierten Buches Sozialgesetzbuch
-
-\-
-
-
-## Art 10 – Änderung des Zehnten Buches Sozialgesetzbuch
+# Art 5 – Änderung des Angestelltenversicherungs-Neuregelungsgesetzes
 
 \-
 
-
-## Art 11 – Änderung des Fremdrentengesetzes
-
-\-
-
-
-## Art 12 – Änderung des Gesetzes über eine Altershilfe für Landwirte
+# Art 6 – Änderung des Knappschaftsrentenversicherungs-Neuregelungsgesetzes
 
 \-
 
-
-## Art 13 – Änderung des Gesetzes zur Neuregelung der Altershilfe für Landwirte
-
-\-
-
-
-## Art 14 – Änderung des Gesetzes über die Krankenversicherung der Landwirte
+# Art 7 – Änderung des Gesetzes über die Sozialversicherung Behinderter
 
 \-
 
-
-## Art 15 – Änderung des Handwerkerversicherungsgesetzes
-
-\-
-
-
-## Art 16 – Änderung des Bundesversorgungsgesetzes
+# Art 8 – Änderung des Ersten Buches Sozialgesetzbuch
 
 \-
 
-
-## Art 17 – Änderung des Arbeitsförderungsgesetzes
-
-\-
-
-
-## Art 18 – Änderung des Mutterschutzgesetzes
+# Art 9 – Änderung des Vierten Buches Sozialgesetzbuch
 
 \-
 
-
-## Art 19 – Änderung des Gesetzes über die Angleichung der Leistungen zur Rehabilitation
-
-\-
-
-
-## Art 20 – Änderung des Schwerbehindertengesetzes
+# Art 10 – Änderung des Zehnten Buches Sozialgesetzbuch
 
 \-
 
-
-## Art 21 – Änderung des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
-
-\-
-
-
-## Art 22 – Aufhebung von Vorschriften
+# Art 11 – Änderung des Fremdrentengesetzes
 
 \-
 
-
-## Art 23 – Änderung des Krankenhausfinanzierungsgesetzes
-
-\-
-
-
-## Art 24 – Änderung des Krankenversicherungs-Kostendämpfungsgesetzes
+# Art 12 – Änderung des Gesetzes über eine Altershilfe für Landwirte
 
 \-
 
+# Art 13 – Änderung des Gesetzes zur Neuregelung der Altershilfe für Landwirte
 
-## Art 25 – Änderung des Arbeitsplatzschutzgesetzes
+\-
+
+# Art 14 – Änderung des Gesetzes über die Krankenversicherung der Landwirte
+
+\-
+
+# Art 15 – Änderung des Handwerkerversicherungsgesetzes
+
+\-
+
+# Art 16 – Änderung des Bundesversorgungsgesetzes
+
+\-
+
+# Art 17 – Änderung des Arbeitsförderungsgesetzes
+
+\-
+
+# Art 18 – Änderung des Mutterschutzgesetzes
+
+\-
+
+# Art 19 – Änderung des Gesetzes über die Angleichung der Leistungen zur Rehabilitation
+
+\-
+
+# Art 20 – Änderung des Schwerbehindertengesetzes
+
+\-
+
+# Art 21 – Änderung des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
+
+\-
+
+# Art 22 – Aufhebung von Vorschriften
+
+\-
+
+# Art 23 – Änderung des Krankenhausfinanzierungsgesetzes
+
+\-
+
+# Art 24 – Änderung des Krankenversicherungs-Kostendämpfungsgesetzes
+
+\-
+
+# Art 25 – Änderung des Arbeitsplatzschutzgesetzes
 
 \-
 
 Art. 14 bis 21, 23 bis 26: Änderungsvorschriften. Art. 25 gilt nicht in Berlin
 
-
-## Art 26 – Änderung des Bundessozialhilfegesetzes
-
-\-
-
-
-## Art 27 – Änderung des Gesetzes für Jugendwohlfahrt (JWG)
+# Art 26 – Änderung des Bundessozialhilfegesetzes
 
 \-
 
-
-## Art 28 – Änderung des Bundeskindergeldgesetzes
+# Art 27 – Änderung des Gesetzes für Jugendwohlfahrt (JWG)
 
 \-
 
+# Art 28 – Änderung des Bundeskindergeldgesetzes
 
-## Art 29 – Aufhebung des Graduiertenförderungsgesetzes
+\-
+
+# Art 29 – Aufhebung des Graduiertenförderungsgesetzes
 
 (1) Das Graduiertenförderungsgesetz in der Fassung der Bekanntmachung vom 22. Januar 1976 (BGBl. I S. 207), geändert durch Gesetz vom 28. März 1978 (BGBl. I S. 445), und die Graduiertenförderungsverordnung in der Fassung der Bekanntmachung vom 22. Januar 1976 (BGBl. I S. 211), geändert durch Verordnung vom 3. April 1981 (BGBl. I S. 342), werden aufgehoben; ausgenommen sind die Bestimmungen über die Rückzahlung von Darlehen. Auf Grund dieser Vorschriften ergangene Bescheide bleiben wirksam bis zum Ablauf des jeweiligen Bewilligungszeitraumes.
 
@@ -154,12 +123,9 @@ Art. 14 bis 21, 23 bis 26: Änderungsvorschriften. Art. 25 gilt nicht in Berlin
 
 (3) Anstelle der in § 7a Abs. 4 Satz 1 und 2 des Graduiertenförderungsgesetzes für die Rückzahlung der Darlehen genannten Beträge gelten die jeweils in § 18a Abs. 1 Satz 1 und 2 des Bundesausbildungsförderungsgesetzes festgesetzten Beträge; dabei ist das Einkommen abweichend von der Regelung des § 20 Abs. 3 der Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
 
+# Art 30 – Gesetz zur Änderung besoldungsrechtlicher Vorschriften
 
-## Art 30 – Gesetz zur Änderung besoldungsrechtlicher Vorschriften
-
-1.  
-2.  
-3.
+1. 2. 3.
 
 4. Übergangsvorschrift
 
@@ -167,20 +133,17 @@ Art. 14 bis 21, 23 bis 26: Änderungsvorschriften. Art. 25 gilt nicht in Berlin
 
 (2) Absatz 1 gilt entsprechend für Beamte auf Widerruf im Vorbereitungsdienst hinsichtlich Nummer 3.
 
-
-## Art 31 – Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
+# Art 31 – Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
 
 \-
 
-
-## Art 32 – Änderung des Beamtenversorgungsgesetzes
+# Art 32 – Änderung des Beamtenversorgungsgesetzes
 
 (1)
 
 (2) Ein am Tag vor Inkrafttreten dieses Gesetzes nach den §§ 71 bis 76 des Beamtenversorgungsgesetzes in der bisherigen Fassung zustehender Anpassungszuschlag wird in Höhe von zwei Dritteln des zu diesem Zeitpunkt zustehenden Betrages weitergewährt. Allgemeine Erhöhungen der den Versorgungsbezügen zugrunde liegenden ruhegehaltfähigen Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 
-
-## Art 33 – Änderung des Gesetzes über das Bundesverfassungsgericht
+# Art 33 – Änderung des Gesetzes über das Bundesverfassungsgericht
 
 (1)
 
@@ -188,8 +151,7 @@ Art. 14 bis 21, 23 bis 26: Änderungsvorschriften. Art. 25 gilt nicht in Berlin
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-
-## Art 34 – Änderung des Soldatenversorgungsgesetzes
+# Art 34 – Änderung des Soldatenversorgungsgesetzes
 
 (1)
 
@@ -197,30 +159,25 @@ Art. 14 bis 21, 23 bis 26: Änderungsvorschriften. Art. 25 gilt nicht in Berlin
 
 (3) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-
-## Art 35 – Änderung des 2. Haushaltsstrukturgesetzes
+# Art 35 – Änderung des 2. Haushaltsstrukturgesetzes
 
 \-
 
 Art. 32 Abs. 1, 33 Abs. 1, 34 Abs. 1 u. Art. 35 bis 37: Änderungsvorschriften. Art. 35 Abs. 2 gilt nicht in Berlin
 
-
-## Art 36 – Änderung des Investitionshilfegesetzes
-
-\-
-
-
-## Art 37 – Änderung des Städtebauförderungsgesetzes
+# Art 36 – Änderung des Investitionshilfegesetzes
 
 \-
 
-
-## Art 38 – (weggefallen)
+# Art 37 – Änderung des Städtebauförderungsgesetzes
 
 \-
 
+# Art 38 – (weggefallen)
 
-## Art 39 – Inkrafttreten
+\-
+
+# Art 39 – Inkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 bis 9 am 1. Januar 1984 in Kraft.
 

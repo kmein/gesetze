@@ -1,15 +1,11 @@
-# [Tier-LMÜV] Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs ,   (Tierische Lebensmittel-Überwachungsverordnung - Tier-LMÜV)
-
-Ausfertigungsdatum: 08.08.2007
-
+% Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs ,   (Tierische Lebensmittel-Überwachungsverordnung - Tier-LMÜV)
+% Ausfertigungsdatum: 08.08.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung dient der Regelung der amtlichen Überwachung des Herstellens, Behandelns und des Inverkehrbringens von Lebensmitteln tierischen Ursprungs sowie der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet der Überwachung des Verkehrs mit Lebensmitteln tierischen Ursprungs.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind:
 
@@ -37,13 +33,11 @@ Diese Verordnung dient der Regelung der amtlichen Überwachung des Herstellens, 
 
 entsprechend.
 
-
-## § 2a – Anforderungen an amtliche Tierärztinnen und Tierärzte für Kontrollaufgaben nach Artikel 13 Absatz 1 Satz 2 Buchstabe a der Delegierten Verordnung (EU) 2019/624
+# § 2a – Anforderungen an amtliche Tierärztinnen und Tierärzte für Kontrollaufgaben nach Artikel 13 Absatz 1 Satz 2 Buchstabe a der Delegierten Verordnung (EU) 2019/624
 
 Die zuständige Behörde darf abweichend von Artikel 13 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2019/624 Personen, die nach § 2 der Bundes-Tierärzteordnung zur Ausübung des tierärztlichen Berufs befugt sind, nach Artikel 5 Absatz 2 der Verordnung (EU) 2017/625 zu amtlichen Tierärztinnen und Tierärzten für die in Artikel 13 Absatz 1 Satz 2 Buchstabe a der Delegierten Verordnung (EU) 2019/624 bezeichneten Überwachungsaufgaben ernennen.
 
-
-## § 3 – Amtliche Fachassistenten, Verordnungsermächtigung
+# § 3 – Amtliche Fachassistenten, Verordnungsermächtigung
 
 (1) Die zuständige Behörde darf nur Personen zu amtlichen Fachassistenten bestellen, die
 
@@ -71,13 +65,11 @@ nachweisen.
 
 3. über die Durchführung von Fortbildungsmaßnahmen nach Anhang II Kapitel II Nummer 8 der Delegierten Verordnung (EU) 2019/624.
 
-
-## § 4 – Personal von Schlachtbetrieben
+# § 4 – Personal von Schlachtbetrieben
 
 Für Personal von Schlachtbetrieben im Sinne von Artikel 18 Absatz 3 der Verordnung (EU) 2017/625 in Verbindung mit Artikel 14 der Delegierten Verordnung (EU) 2019/624 gilt § 3 Absatz 1 Nummer 4 hinsichtlich des Nachweises der Befähigung zum amtlichen Fachassistenten entsprechend.
 
-
-## § 5 – Fleischhygienerechtliche Maßnahmen im Rahmen von Zoonosen- und Seuchentilgungsprogrammen
+# § 5 – Fleischhygienerechtliche Maßnahmen im Rahmen von Zoonosen- und Seuchentilgungsprogrammen
 
 (1) Die zuständige Behörde kann eine Schlachtung im Rahmen von Programmen zur Tilgung oder Bekämpfung von Tierseuchen oder von Zoonoseerregern im Sinne des Artikels 43 Absatz 6 der Durchführungsverordnung (EU) 2019/627 mit der Auflage genehmigen, dass
 
@@ -91,8 +83,7 @@ Im Falle des Satzes 1 Nummer 2 sind besondere Vorkehrungen zum Schutz des Schlac
 
 (3) Nach Abschluss der Schlachtungen nach Absatz 1 hat der amtliche Tierarzt eine geeignete Reinigung und Desinfektion aller Räumlichkeiten, Einrichtungs- und Ausrüstungsgegenstände anzuordnen, die im Rahmen der Schlachtungen nach Absatz 1 mit Erregern von Tierseuchen oder Zoonosen verunreinigt worden sein könnten.
 
-
-## § 6 – Fleischuntersuchung und Untersuchung auf Trichinen vor Abgabe kleiner Mengen erlegten Wildes
+# § 6 – Fleischuntersuchung und Untersuchung auf Trichinen vor Abgabe kleiner Mengen erlegten Wildes
 
 (1) Bei kleinen Mengen erlegten Wildes, das nach § 4 Absatz 2 Satz 1 Nummer 1 oder 2, auch in Verbindung mit Absatz 3, der Tierische Lebensmittel-Hygieneverordnung zur amtlichen Fleischuntersuchung oder zur amtlichen Untersuchung auf Trichinen angemeldet wurde, sind folgende Untersuchungen durchzuführen:
 
@@ -118,13 +109,11 @@ b) einen Nachweis über die erfolgreiche Teilnahme an einer Schulung nach Buchst
 
 2. keine Tatsachen vorliegen, die die Annahme rechtfertigen, dass der Jäger die erforderliche Zuverlässigkeit für diese Tätigkeit nicht besitzt.
 
-
-## § 7 – Schlachttieruntersuchung bei der Abgabe kleiner Mengen Fleisch von Geflügel oder Hasentieren
+# § 7 – Schlachttieruntersuchung bei der Abgabe kleiner Mengen Fleisch von Geflügel oder Hasentieren
 
 Die zuständige Behörde hat in landwirtschaftlichen Betrieben, in denen kleine Mengen von frischem Fleisch von Geflügel oder Hasentieren nach § 3 Absatz 1 Satz 1 Nummer 4 der Tierische Lebensmittel-Hygieneverordnung abgegeben werden, mindestens zweimal jährlich eine Schlachttieruntersuchung in Form einer regelmäßigen Gesundheitsüberwachung des Bestandes durchzuführen. Satz 1 gilt nicht in Fällen des § 3 Absatz 1 Satz 2 der Tierische Lebensmittel-Hygieneverordnung.
 
-
-## § 7a – Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch
+# § 7a – Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch
 
 (1) Bei Tieren, die nach § 2a Absatz 1 der Tierische Lebensmittel-Hygieneverordnung zur amtlichen Untersuchung angemeldet worden sind, sind folgende Untersuchungen durchzuführen:
 
@@ -138,8 +127,7 @@ Die zuständige Behörde kann abweichend von Satz 1 Nummer 3 die Untersuchung au
 
 (2) Bei erlegtem Großwild, das nach § 2b der Tierische Lebensmittel-Hygieneverordnung zur amtlichen Fleischuntersuchung oder zur amtlichen Untersuchung auf Trichinen angemeldet worden ist, gilt § 6 Absatz 1 entsprechend.
 
-
-## § 7b – Tierartspezifische Kriterien für und Anforderungen an die Durchführung der Schlachttieruntersuchung im Herkunftsbetrieb
+# § 7b – Tierartspezifische Kriterien für und Anforderungen an die Durchführung der Schlachttieruntersuchung im Herkunftsbetrieb
 
 (1) Auf Antrag des für die Farmwildhaltung verantwortlichen Lebensmittelunternehmers kann die zuständige Behörde nach Artikel 6 Absatz 5 der Delegierten Verordnung (EU) 2019/624 Schlachtungen von Farmwild abweichend von Artikel 5 Absatz 4 der Delegierten Verordnung (EU) 2019/624 genehmigen.
 
@@ -147,8 +135,7 @@ Die zuständige Behörde kann abweichend von Satz 1 Nummer 3 die Untersuchung au
 
 (3) (weggefallen)
 
-
-## § 8 – Kennzeichnung der Genusstauglichkeit
+# § 8 – Kennzeichnung der Genusstauglichkeit
 
 (1) Kleine Mengen erlegten Großwildes, bei dem keine Fleischuntersuchung nach § 6 Absatz 1 Satz 1 Nummer 1 durchgeführt, das aber nach § 6 Absatz 1 Satz 1 Nummer 2 auf Trichinen untersucht und nicht nach § 6 Absatz 1 Satz 2 in Verbindung mit Artikel 28 Absatz 6, auch in Verbindung mit Artikel 45, und Artikel 31 Absatz 2 der Durchführungsverordnung (EU) 2019/627 für genussuntauglich erklärt worden ist, sind auf den frei liegenden Fleischteilen oder dem Brustfell mit einem Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 1 zu kennzeichnen. Satz 1 gilt nicht im Falle des § 6 Absatz 2 Satz 1 Nummer 2.
 
@@ -160,11 +147,9 @@ Die zuständige Behörde kann abweichend von Satz 1 Nummer 3 die Untersuchung au
 
 (5) (weggefallen)
 
+# § 9 – (weggefallen)
 
-## § 9 – (weggefallen)
-
-
-## § 10 – Rückstandsüberwachung
+# § 10 – Rückstandsüberwachung
 
 (1) Die zuständige Behörde hat im Rahmen der Durchführung von Laboruntersuchungen nach Artikel 37 Absatz 1 Buchstabe c der Durchführungsverordnung (EU) 2019/627
 
@@ -194,13 +179,11 @@ Amtliche Proben nach Satz 1 sind zur Identitätssicherung mit Angaben zu Tierart
 
 (9) Die Beschlagnahme ist aufzuheben, soweit die Labortests ergeben haben, dass festgesetzte Höchstmengen nicht überschritten werden.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz 1 Satz 2 und 3 des Fleischhygienegesetzes in der Fassung der Bekanntmachung vom 30. Juni 2003 (BGBl. I S. 1242, 1585) in der bis zum 6. September 2005 geltenden Fassung weiter anzuwenden.
 
-
-## Anlage 1 – (zu § 8)Stempel zur Kennzeichnung der Genusstauglichkeit
+# Anlage 1 – (zu § 8)Stempel zur Kennzeichnung der Genusstauglichkeit
 
 (Fundstelle: BGBl. I 2018, 1364)
 
@@ -209,14 +192,14 @@ Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz 1 Satz 
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j1358-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1358-1_0010.jpg) |
 
 2. Stempel für genusstaugliches Fleisch von erlegtem Großwild, das der Fleischuntersuchung unterzogen wurde  
   
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j1358-1_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1358-1_0020.jpg) |
 
 3. (weggefallen)
 
@@ -225,4 +208,4 @@ Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz 1 Satz 
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j1358-1_0040.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1358-1_0040.jpg) |

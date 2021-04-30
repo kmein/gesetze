@@ -1,10 +1,7 @@
-# [BKMErnAnO] Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
-
-Ausfertigungsdatum: 18.02.2005
-
+% Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich der Beauftragten der Bundesregierung für Kultur und Medien
+% Ausfertigungsdatum: 18.02.2005
  
-
-## I.
+# I.
 
 Auf Grund des Artikels 1 Abs. 1 der Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes vom 23. Juni 2004 (BGBl. I S. 1286) übertrage ich widerruflich die Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten der Besoldungsgruppen A 2 bis A 15 der Bundesbesoldungsordnung
 
@@ -19,17 +16,14 @@ der Direktorin oder dem Direktor des Bundesinstituts für Kultur und Geschichte 
 
 jeweils für ihren oder seinen Geschäftsbereich.
 
-
-## II.
+# II.
 
 Für besondere Fälle behalte ich mir die Ernennung und Entlassung der unter Abschnitt I genannten Bundesbeamtinnen und Bundesbeamten vor.
 
-
-## III.
+# III.
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Beauftragte der Bundesregierung für Kultur und Medien

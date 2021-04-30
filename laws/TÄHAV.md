@@ -1,20 +1,15 @@
-# [TÄHAV] Verordnung über tierärztliche Hausapotheken  (TÄHAV)
-
-Ausfertigungsdatum: 31.07.1975
-
+% Verordnung über tierärztliche Hausapotheken  (TÄHAV)
+% Ausfertigungsdatum: 31.07.1975
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für den Erwerb, die Herstellung, die Prüfung, die Lagerung und die Abgabe von Arzneimitteln durch Tierärzte und durch Apotheken der tierärztlichen Bildungsstätten sowie für die Verschreibung und Anwendung von Arzneimitteln durch Tierärzte.
 
-
-## § 1a – Regeln der Wissenschaft
+# § 1a – Regeln der Wissenschaft
 
 Beim Betrieb einer tierärztlichen Hausapotheke und bei der Anwendung von Arzneimitteln sind die Regeln der veterinärmedizinischen Wissenschaft zu beachten. Bei der Herstellung, Prüfung, Lagerung und Abgabe von Arzneimitteln sind darüber hinaus die Regeln der pharmazeutischen Wissenschaft zu beachten.
 
-
-## § 2 – Verantwortlichkeit des Tierarztes
+# § 2 – Verantwortlichkeit des Tierarztes
 
 (1) Der Tierarzt, der den Betrieb der tierärztlichen Hausapotheke nach § 67 Abs. 1 des Arzneimittelgesetzes der zuständigen Behörde angezeigt hat, hat persönlich für den ordnungsgemäßen Betrieb der tierärztlichen Hausapotheke Sorge zu tragen. Darüber hinaus hat jeder Tierarzt, der beim Betrieb einer tierärztlichen Hausapotheke tätig wird, entsprechend Art und Umfang seiner Tätigkeit für die Einhaltung der Vorschriften dieser Verordnung Sorge zu tragen.
 
@@ -22,8 +17,7 @@ Beim Betrieb einer tierärztlichen Hausapotheke und bei der Anwendung von Arznei
 
 (3) Arzneimittel, die nicht für den Verkehr außerhalb der Apotheken freigegeben sind, dürfen nur vom Tierarzt oder auf dessen ausdrückliche Weisung für den betreffenden Einzelfall an Tierhalter ausgehändigt werden.
 
-
-## § 3 – Betriebsräume
+# § 3 – Betriebsräume
 
 (1) Wer eine tierärztliche Hausapotheke betreibt, muss über geeigneten Betriebsraum verfügen. Betriebsraum ist jeder Raum, in dem Arzneimittel hergestellt, geprüft, gelagert, verpackt oder in Verkehr gebracht werden.
 
@@ -31,37 +25,31 @@ Beim Betrieb einer tierärztlichen Hausapotheke und bei der Anwendung von Arznei
 
 (3) Betriebsräume dürfen zu praxisfremden Zwecken nicht verwendet werden.
 
-
-## § 4 – Geräte und Rechtsvorschriften
+# § 4 – Geräte und Rechtsvorschriften
 
 (1) In den Betriebsräumen müssen die Geräte vorhanden sein, die für den ordnungsgemäßen Betrieb der betreffenden tierärztlichen Hausapotheke benötigt werden. Die Geräte müssen sich in einwandfreiem Zustand befinden.
 
 (2) In den Betriebsräumen müssen die einschlägigen Rechtsvorschriften über den Verkehr mit Arzneimitteln, Betäubungsmitteln, die Arzneimittelpreisverordnung und, soweit entsprechend Art und Umfang der Tätigkeit erforderlich, die amtliche Ausgabe des Arzneibuches in der jeweils aktuellen Fassung verfügbar sein.
 
-
-## § 5 – (weggefallen)
-
-\-
-
-
-## § 6 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
-
-## § 6a – (weggefallen)
+# § 6 – (weggefallen)
 
 \-
 
+# § 6a – (weggefallen)
 
-## § 7 – Verschreibung von Fütterungsarzneimitteln
+\-
+
+# § 7 – Verschreibung von Fütterungsarzneimitteln
 
 (1) Fütterungsarzneimittel dürfen nur auf einem Formblatt nach dem Muster der Anlage 1 in drei Ausfertigungen (Original und zwei Durchschriften) im Durchschreibeverfahren verschrieben werden. Die Verschreibung darf auch durch Fernkopie erteilt werden; die Originalfassung der Verschreibung ist unverzüglich nachzureichen.
 
 (2) Abweichend von Absatz 1 dürfen Fütterungsarzneimittel zur Herstellung in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nur auf einem Formblatt nach dem Muster der Anlage 1a in drei Ausfertigungen (Original und zwei Durchschriften) im Durchschreibeverfahren verschrieben werden.
 
-
-## § 8 – Prüfung der Arzneimittel
+# § 8 – Prüfung der Arzneimittel
 
 (1) Der Tierarzt hat sich zu vergewissern, dass Arzneimittel, die von ihm vorrätig gehalten, abgegeben oder angewendet werden, einwandfrei beschaffen sind. Zum Nachweis der einwandfreien Beschaffenheit hat der Tierarzt die Arzneimittel zu prüfen oder unter seiner Verantwortung prüfen zu lassen, es sei denn, er hat die Arzneimittel unmittelbar aus der Apotheke oder mit einem Zertifikat über die erfolgte Prüfung bezogen.
 
@@ -69,8 +57,7 @@ Beim Betrieb einer tierärztlichen Hausapotheke und bei der Anwendung von Arznei
 
 (3) Ergibt die Prüfung, dass ein Arzneimittel nicht einwandfrei beschaffen ist oder das Verfalldatum abgelaufen ist, so ist es der Vernichtung zuzuführen. Bis zur Zuführung zur Vernichtung ist das Arzneimittel unter Kenntlichmachung des Erfordernisses der Vernichtung gesondert zu lagern.
 
-
-## § 9 – Lagerung der Arzneimittel
+# § 9 – Lagerung der Arzneimittel
 
 (1) Der Tierarzt muss alle Arzneimittel in Betriebsräumen an einem einzigen Standort lagern. Abweichend von Satz 1 dürfen Arzneimittel auch in anderen Betriebsräumen gelagert werden, die sich in Zoologischen Gärten, Tierheimen, Versuchstierhaltungen, Tierkliniken, Hochschulen, Besamungsstationen oder höchstens einer Untereinheit der Praxis befinden, wenn
 
@@ -84,22 +71,19 @@ Die Praxis und die Untereinheit der Praxis müssen innerhalb desselben Kreises o
 
 (3) Vorratsbehältnisse müssen mit dauerhaften und deutlichen Aufschriften versehen sein, die den Inhalt eindeutig bezeichnen. Für Arzneimittel, die im Arzneibuch aufgeführt sind, muss eine der dort angegebenen Bezeichnungen verwendet werden. Für Arzneimittel, die im Arzneibuch nicht aufgeführt sind, ist eine gebräuchliche wissenschaftliche Bezeichnung zu verwenden.
 
-
-## § 10 – Abgabebehältnisse
+# § 10 – Abgabebehältnisse
 
 (1) Arzneimittel dürfen nur in Behältnissen abgegeben werden, die gewährleisten, dass die einwandfreie Beschaffenheit des Arzneimittels nicht beeinträchtigt wird.
 
 (2) Der Tierarzt hat Behältnisse, in denen Arzneimittel vom Tierarzt an den Tierhalter abgegeben werden, auch sofern es sich nicht um Fertigarzneimittel handelt, mit den Angaben nach den §§ 10 und 11 des Arzneimittelgesetzes zu kennzeichnen. Abweichend von Satz 1 dürfen vom Tierarzt in unveränderter Form umgefüllte oder abgepackte Arzneimittel abgegeben werden, soweit die Anforderungen nach § 10 Abs. 8 Satz 1 sowie § 11 Abs. 7 Satz 1 und 2 des Arzneimittelgesetzes erfüllt und die Arzneimittel zusätzlich mit dem Namen und der Praxisanschrift des behandelnden Tierarztes sowie der abgegebenen Menge gekennzeichnet sind.
 
-
-## § 11 – In der Außenpraxis mitgeführte Arzneimittel
+# § 11 – In der Außenpraxis mitgeführte Arzneimittel
 
 (1) Arzneimittel dürfen in der Außenpraxis nur in allseits geschlossenen Transportbehältnissen mitgeführt werden, die Schutz bieten vor einer nachteiligen Beeinflussung der Arzneimittel, insbesondere durch Licht, Temperatur, Witterungseinflüsse oder Verunreinigungen. Von pharmazeutischen Unternehmern, Großhändlern oder aus Apotheken bezogene Fertigarzneimittel dürfen darüber hinaus nur in ihrem Originalbehältnis mitgeführt werden. § 9 Abs. 2 gilt entsprechend.
 
 (2) Der Tierarzt darf Arzneimittel nur in einer solchen Menge und in einem solchen Sortiment mit sich führen, dass der regelmäßige tägliche Bedarf seiner tierärztlichen Tätigkeit nicht überschritten wird.
 
-
-## § 12 – Abgabe der Arzneimittel an Tierhalter durch Tierärzte
+# § 12 – Abgabe der Arzneimittel an Tierhalter durch Tierärzte
 
 (1) Arzneimittel, die für den Verkehr außerhalb der Apotheken nicht freigegebene Stoffe oder Zubereitungen aus Stoffen enthalten oder auf Grund ihres Verabreichungsweges oder ihrer Indikation apothekenpflichtig sind, dürfen von Tierärzten an Tierhalter nur im Rahmen einer ordnungsgemäßen Behandlung von Tieren oder Tierbeständen abgegeben werden.
 
@@ -115,8 +99,7 @@ Die Praxis und die Untereinheit der Praxis müssen innerhalb desselben Kreises o
 
 (4) (weggefallen)
 
-
-## § 12a – Informationspflichten
+# § 12a – Informationspflichten
 
 (1) Wird ein Arzneimittel vom Tierarzt bei Tieren, die der Gewinnung von Lebensmitteln dienen, angewendet oder zur Anwendung bei diesen Tieren von ihm selbst oder auf seine ausdrückliche Weisung abgegeben, so hat der Tierarzt den Tierhalter unverzüglich auf die Einhaltung der Wartezeit hinzuweisen oder hinweisen zu lassen. Im Falle der Abgabe hat sich der Tierarzt ferner von der Möglichkeit der ordnungsgemäßen Arzneimittelanwendung durch den Tierhalter zu vergewissern. § 13 Abs. 1 bleibt unberührt.
 
@@ -134,13 +117,11 @@ Die Praxis und die Untereinheit der Praxis müssen innerhalb desselben Kreises o
 
 Die Wartezeit für homöopathische Arzneimittel, die ausschließlich Wirkstoffe enthalten, die in der Tabelle 1 des Anhangs der Verordnung (EU) Nr. 37/2010 in der jeweils geltenden Fassung als Stoffe aufgeführt sind, für die eine Festlegung von Höchstmengen nicht erforderlich ist, darf auf null Tage festgesetzt werden. Satz 3 gilt nicht für Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben sind.
 
-
-## § 12b – Umwidmungsverbot
+# § 12b – Umwidmungsverbot
 
 Abweichend von § 56a Absatz 2 Satz 1 Nummer 2 bis 4 des Arzneimittelgesetzes dürfen Arzneimittel, die Cephalosporine der dritten oder vierten Generation oder Fluorchinolone enthalten, bei Tieren der Tierarten Rind, Schwein, Pute, Huhn, Hund oder Katze nur dann abgegeben, verschrieben oder angewendet werden, wenn sie für die jeweilige Tierart zugelassen sind. Satz 1 gilt nicht, soweit im Einzelfall die notwendige arzneiliche Versorgung der Tiere ernstlich gefährdet ist.
 
-
-## § 12c – Antibiogrammpflicht
+# § 12c – Antibiogrammpflicht
 
 (1) Der Tierarzt hat im Rahmen der Behandlung von Tiergruppen der Tierarten Rind, Schwein, Huhn oder Pute, die in einer Stallabteilung oder in einem umfriedeten Bereich im Freien gehalten werden, mit einem Arzneimittel mit antibakterieller Wirkung die Empfindlichkeit der die Erkrankung verursachenden bakteriellen Erreger gegen antibakteriell wirksame Stoffe nach Maßgabe des Satzes 2 und nach Maßgabe des § 12d zu untersuchen oder untersuchen zu lassen (Antibiogramm). Das Antibiogramm ist zu erstellen
 
@@ -168,8 +149,7 @@ In den Fällen des Satzes 2 Nummer 4 und 5 ist ein Antibiogramm auch im Rahmen d
 
 3. für die Bestimmung der Empfindlichkeit des Erregers keine geeignete Methode verfügbar ist.
 
-
-## § 12d – Verfahren zu Probenahme, Isolierung bakterieller Erreger und Bestimmung der Empfindlichkeit
+# § 12d – Verfahren zu Probenahme, Isolierung bakterieller Erreger und Bestimmung der Empfindlichkeit
 
 Zur Erstellung eines Antibiogramms nach § 12c Absatz 1 hat der Tierarzt nach national oder international anerkannten Verfahren, soweit diese verfügbar sind,
 
@@ -181,8 +161,7 @@ Zur Erstellung eines Antibiogramms nach § 12c Absatz 1 hat der Tierarzt nach na
 
 Die Proben nach Satz 1 Nummer 1 müssen für die Isolierung der die Erkrankung verursachenden bakteriellen Erreger zur anschließenden Erstellung eines Antibiogramms geeignet sein. Bei der Beprobung einer Tiergruppe ist bei der Auswahl der Tiere darauf zu achten, dass sie repräsentativ für das klinische Bild der Erkrankung der zu behandelnden Tiergruppe sind.
 
-
-## § 13 – Nachweise
+# § 13 – Nachweise
 
 (1) Der Tierarzt hat über den Erwerb, die Prüfung, sofern sie über eine Sinnenprüfung hinausgeht, und den Verbleib der Arzneimittel in der tierärztlichen Hausapotheke, ferner über die Verschreibung von Fütterungsarzneimitteln sowie über die Herstellung von Arzneimitteln Nachweise zu führen. Satz 1 gilt nicht für die Herstellung von Arzneimitteln, sofern diese ausschließlich aus dem Umfüllen, Abpacken oder Kennzeichnen von Arzneimitteln in unveränderter Form besteht.
 
@@ -280,8 +259,7 @@ Die Nachweise nach Satz 1 müssen zeitlich geordnet die Menge des Bezuges unter 
 
 (9) Absatz 1 Satz 1, Absatz 2 Satz 1, 2 und 4, Absatz 3 und Absatz 6 Satz 1 gelten nicht für Arzneimittel, die für den Verkehr außerhalb der Apotheken freigegeben sind.
 
-
-## § 13a – Verschreibung von Arzneimitteln
+# § 13a – Verschreibung von Arzneimitteln
 
 (1) Außer im Falle des § 4 Abs. 2 der Arzneimittelverschreibungsverordnung dürfen verschreibungspflichtige Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, die der Gewinnung von Lebensmitteln dienen, nur in drei Ausfertigungen (Original und zwei Doppel), sonstige Verschreibungen nur in zwei Ausfertigungen (Original und ein Doppel) verschrieben werden.
 
@@ -289,8 +267,7 @@ Die Nachweise nach Satz 1 müssen zeitlich geordnet die Menge des Bezuges unter 
 
 (3) Arzneimittel, die für den Verkehr außerhalb der Apotheken nicht freigegebene Stoffe oder Zubereitungen aus Stoffen enthalten oder auf Grund ihres Verabreichungsweges oder ihrer Indikation apothekenpflichtig sind, dürfen von Tierärzten an Tierhalter nur im Rahmen einer ordnungsgemäßen Behandlung von Tieren oder Tierbeständen verschrieben werden.
 
-
-## § 14 – Apotheken der tierärztlichen Bildungsstätten
+# § 14 – Apotheken der tierärztlichen Bildungsstätten
 
 (1) Die Vorschriften dieser Verordnung finden auf die Apotheken der tierärztlichen Bildungsstätten, die der Ausbildung der Studierenden der Veterinärmedizin und der arzneilichen Versorgung tierärztlich behandelter Tiere im Hochschulbereich dienen, entsprechende Anwendung.
 
@@ -298,8 +275,7 @@ Die Nachweise nach Satz 1 müssen zeitlich geordnet die Menge des Bezuges unter 
 
 (3) Arzneimittel dürfen nur zu den in Absatz 1 bezeichneten Zwecken erworben, hergestellt, gelagert oder abgegeben werden.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig als Tierarzt oder als Leiter der Apotheke einer tierärztlichen Bildungsstätte
 
@@ -327,23 +303,19 @@ Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt
 
 12. entgegen § 13 Absatz 7 Satz 1 oder § 13a Absatz 2 Satz 3 einen Nachweis oder ein Doppel nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 15a – (weggefallen)
-
-\-
-
-
-## § 16 – (weggefallen)
+# § 15a – (weggefallen)
 
 \-
 
-
-## § 17 – (Inkrafttreten)
+# § 16 – (weggefallen)
 
 \-
 
+# § 17 – (Inkrafttreten)
 
-## Anlage 1 – (zu § 7)
+\-
+
+# Anlage 1 – (zu § 7)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3460;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -415,8 +387,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Hinweis für den Hersteller: Original verbleibt beim Hersteller,
                                 Durchschrift mit Fütterungsarzneimittel an Tierhalter. 
 
-
-## Anlage 1a – (zu § 7)
+# Anlage 1a – (zu § 7)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3461;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

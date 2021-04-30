@@ -1,29 +1,23 @@
-# [OrdenG] Gesetz über Titel, Orden und Ehrenzeichen
-
-Ausfertigungsdatum: 26.07.1957
-
+% Gesetz über Titel, Orden und Ehrenzeichen
+% Ausfertigungsdatum: 26.07.1957
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Für besondere Verdienste um die Bundesrepublik Deutschland können Titel, Orden und Ehrenzeichen des Bundes nach Maßgabe dieses Gesetzes verliehen werden.
 
 (2) Die Befugnisse der Länder, Titel, Orden und Ehrenzeichen zu verleihen, werden durch dieses Gesetz nicht berührt.
 
-
-## § 2 – Titel
+# § 2 – Titel
 
 (1) Titel werden durch den Bundespräsidenten verliehen, soweit gesetzlich nichts anderes bestimmt ist. Die Bezeichnung der Titel und die Voraussetzungen ihrer Verleihung werden durch Gesetz festgelegt.
 
 (2) Akademische Grade sowie Amts- und Berufsbezeichnungen werden durch dieses Gesetz nicht berührt.
 
-
-## § 3 – Orden und Ehrenzeichen
+# § 3 – Orden und Ehrenzeichen
 
 (1) Orden und Ehrenzeichen können nur vom Bundespräsidenten oder mit seiner Genehmigung gestiftet und verliehen werden. Der Stiftungserlaß sowie die Genehmigung sind im Bundesgesetzblatt zu verkünden.
 
@@ -31,8 +25,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Die mit einer öffentlichen Dienststellung oder akademischer Würde verbundenen äußeren Abzeichen werden durch dieses Gesetz nicht berührt. Das gleiche gilt für Abzeichen, die lediglich die Zugehörigkeit zu einer Vereinigung, die Teilnahme an einer Versammlung oder sonstigen Veranstaltung kennzeichnen oder als Anerkennung für eine Leistung oder für eine Geldspende bestimmt sind, sofern sie nicht nach ihrer äußeren Form oder Trageweise den nach Absatz 1 gestifteten oder nach Absatz 2 und § 6 anerkannten Orden und Ehrenzeichen zum Verwechseln ähnlich sind.
 
-
-## § 4 – Entziehung
+# § 4 – Entziehung
 
 (1) Erweist sich ein Beliehener durch sein Verhalten, insbesondere durch Begehen einer entehrenden Straftat, des verliehenen Titels oder der verliehenen Auszeichnung unwürdig oder wird ein solches Verhalten nachträglich bekannt, so kann ihm der Verleihungsberechtigte den Titel oder die Auszeichnung entziehen und die Einziehung der Verleihungsurkunde anordnen. Für Klagen gegen die Entziehung eines Titels oder einer Auszeichnung und die Einziehung der Verleihungsurkunde ist der Verwaltungsrechtsweg gegeben. Soweit Anordnungen des Bundespräsidenten angefochten werden, ist die Klage gegen den Bundesminister des Innern, für Bau und Heimat zu richten.
 
@@ -54,15 +47,13 @@ und ergibt sich aus dem Strafurteil, daß der Verurteilte Inhaber von Titeln, Or
 
 Die Mitteilung umfaßt den Urteilstenor sowie den verliehenen Titel oder die verliehene Auszeichnung. Der Empfänger der Mitteilung kann auch die Mitteilung der Urteilsgründe verlangen, soweit die Mitteilung des Urteilstenors für seine Entscheidung nicht ausreicht.
 
-
-## § 5 – Genehmigung der Annahme
+# § 5 – Genehmigung der Annahme
 
 (1) Ein Deutscher darf Titel, Orden und Ehrenzeichen von einem ausländischen Staatsoberhaupt oder einer ausländischen Regierung nur mit Genehmigung des Bundespräsidenten annehmen. Dieser Genehmigung bedarf auch, wer nach dem 8. Mai 1945 einen ausländischen Titel, einen ausländischen Orden oder ein ausländisches Ehrenzeichen erhalten hat und den Titel zu führen oder die Auszeichnung zu tragen beabsichtigt. Die Genehmigung kann widerrufen werden; § 4 Satz 2 und 3 gilt entsprechend.
 
 (2) Das gleiche gilt für die Annahme von Titeln, Orden und Ehrenzeichen, die von anderen Stellen außerhalb des Geltungsbereichs dieses Gesetzes verliehen werden.
 
-
-## § 6 – Früher verliehene Auszeichnungen
+# § 6 – Früher verliehene Auszeichnungen
 
 (1) Außer den nach Maßgabe dieses Gesetzes verliehenen Orden und Ehrenzeichen dürfen getragen werden
 
@@ -80,20 +71,17 @@ Die Mitteilung umfaßt den Urteilstenor sowie den verliehenen Titel oder die ver
 
 \*) Muster und Herstellungsvorschriften können vom Bundesministerium des Innern, für Bau und Heimat bezogen werden
 
-
-## § 7 – Verwundetenabzeichen des zweiten Weltkrieges
+# § 7 – Verwundetenabzeichen des zweiten Weltkrieges
 
 (1) Das Verwundetenabzeichen des zweiten Weltkrieges kann von jedem, der eine Verletzung durch Kriegseinwirkungen nachweisen kann, in der Stufe getragen werden, die in der Verordnung über die Stiftung eines Verwundetenabzeichens vom 1. September 1939 (Reichsgesetzbl. I S. 1577) und den hierzu ergangenen Ausführungsbestimmungen nach Anzahl oder Schwere der Verwundungen oder Beschädigungen vorgesehen ist.
 
 (2) Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, wie der Nachweis der Verwundungen oder Beschädigungen zu führen ist.
 
-
-## § 8 – Verleihungsurkunde, Besitzzeugnis
+# § 8 – Verleihungsurkunde, Besitzzeugnis
 
 Orden und Ehrenzeichen dürfen, soweit §§ 7 und 10 nicht Abweichungen zulassen, nur getragen werden, wenn sie von der zur Verleihung befugten Stelle ordnungsgemäß verliehen worden sind und der Beliehene hierüber, soweit die Stiftungsurkunde nichts Gegenteiliges bestimmt, eine Verleihungsurkunde, ein Besitzzeugnis oder ein vorläufiges Besitzzeugnis innehat.
 
-
-## § 9 – Ersatzurkunde
+# § 9 – Ersatzurkunde
 
 (1) Soweit Verleihungsurkunden oder Besitzzeugnisse über Orden und Ehrenzeichen, die vor dem 8. Mai 1945 verliehen wurden, verlorengegangen sind, ist für den Berechtigten auf Antrag, sofern nicht auf Grund der vorhandenen Unterlagen eine Zweitausfertigung der Verleihungsurkunde oder des Besitzzeugnisses ausgestellt werden kann, eine Bescheinigung darüber auszustellen, daß der Antragsteller die Verleihung der betreffenden Auszeichnung glaubhaft nachgewiesen hat (Ersatzurkunde).
 
@@ -103,20 +91,17 @@ Orden und Ehrenzeichen dürfen, soweit §§ 7 und 10 nicht Abweichungen zulassen
 
 (4) Die Länder bestimmen die für die Ausstellung von Ersatzurkunden zuständigen Behörden.
 
-
-## § 10 – Sonderbestimmungen für vor dem 8. Mai 1945 verliehene Auszeichnungen
+# § 10 – Sonderbestimmungen für vor dem 8. Mai 1945 verliehene Auszeichnungen
 
 (1) Als Besitznachweis für Orden und Ehrenzeichen, die vor dem 8. Mai 1945 verliehen worden sind, gilt auch die ordnungsgemäße Eintragung der Verleihung in den Militärdienstzeitbescheinigungen, Wehrpässen und Soldbüchern sowie in anderen Militärpapieren mit Beglaubigungsvermerk. Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu bestimmen, daß auch Bescheinigungen anderer Art als Besitznachweis gelten, und die Stellen zu bezeichnen, die solche Bescheinigungen ausstellen; er kann dabei bestimmen, daß für die Ausstellung von Bescheinigungen durch Bundesbehörden Gebühren erhoben werden, die im Einzelfall höchstens zehn Deutsche Mark betragen dürfen.
 
 (2) Sind Verleihungsurkunden, Besitzzeugnisse oder andere in Absatz 1 genannte Besitznachweise für Orden und Ehrenzeichen, die vor dem 8. Mai 1945 verliehen worden sind, verlorengegangen, so dürfen diese Auszeichnungen auch ohne Besitzzeugnis getragen werden, wenn die Verleihung in anderer Weise nachgewiesen werden kann.
 
-
-## § 11
+# § 11
 
 (weggefallen)
 
-
-## § 12 – Trageweise
+# § 12 – Trageweise
 
 (1) Orden und Ehrenzeichen sowie sonstige Auszeichnungen, die am Band zu tragen sind, werden an der Ordensschnalle auf der linken Brustseite von rechts nach links in folgender Reihenfolge angebracht:
 
@@ -146,22 +131,19 @@ Orden und Ehrenzeichen dürfen, soweit §§ 7 und 10 nicht Abweichungen zulassen
 
 (3) Orden und Ehrenzeichen dürfen auch in verkleinerter Form getragen werden.
 
-
-## § 13 – Rückgabe von Orden und Ehrenzeichen
+# § 13 – Rückgabe von Orden und Ehrenzeichen
 
 (1) Orden und Ehrenzeichen verbleiben nach dem Tod des Inhabers im Besitz der Hinterbliebenen, soweit im Stiftungserlaß nichts anderes bestimmt ist.
 
 (2) Ausländische Orden und Ehrenzeichen werden von dieser Vorschrift nicht berührt.
 
-
-## § 14 – Vertrieb
+# § 14 – Vertrieb
 
 (1) Orden und Ehrenzeichen - auch in verkleinerter Form - und die dazugehörigen Bänder dürfen Privatpersonen gegen Entgelt nur nach Vorlegung eines ordnungsmäßigen Nachweises (§§ 8, 9) überlassen werden.
 
 (2) Absatz 1 gilt nicht für Orden und Ehrenzeichen, die vor dem 8. Mai 1945 verliehen worden sind (§ 10). Die zuständige Landesbehörde kann darüber hinaus demjenigen, der ein berechtigtes Interesse nachweist, eine Genehmigung zum Erwerb auch der übrigen Orden und Ehrenzeichen ohne Vorlegung eines nach §§ 8 und 9 erforderlichen Besitznachweises erteilen.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
@@ -183,13 +165,11 @@ Orden und Ehrenzeichen dürfen, soweit §§ 7 und 10 nicht Abweichungen zulassen
 
 (5) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und Gegenstände, die zur Herstellung der in Absatz 2 Nr. 2 oder 3 genannten Auszeichnungen, Bänder oder Abzeichen gebraucht worden oder bestimmt gewesen sind, können eingezogen werden.
 
-
-## § 16
+# § 16
 
 Bis zum Zeitpunkt des Wirksamwerdens des Beitritts bestehende Ansprüche aus verliehenen staatlichen Auszeichnungen der Deutschen Demokratischen Republik sind erloschen. Ansprüche aus solchen Auszeichnungen können vom Zeitpunkt des Wirksamwerdens des Beitritts an nicht mehr geltend gemacht werden.
 
-
-## § 17 – Aufhebung von Rechtsvorschriften
+# § 17 – Aufhebung von Rechtsvorschriften
 
 Folgende Vorschriften werden als Bundesrecht aufgehoben:
 
@@ -200,12 +180,10 @@ Folgende Vorschriften werden als Bundesrecht aufgehoben:
 
 12. Artikel 2 des bayerischen Gesetzes Nr. 17 über den Entzug der unter der nationalsozialistischen Herrschaft verliehenen Titel vom 20. Mai 1946 (Bayerisches Gesetz- und Verordnungsblatt S. 178).
 
-
-## § 18 – Berlin-Klausel
+# § 18 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Das Gesetz tritt am Tage nach seiner Verkündung, § 11 mit Wirkung vom 1. Oktober 1956 in Kraft.

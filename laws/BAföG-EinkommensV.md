@@ -1,15 +1,11 @@
-# [BAföG-EinkommensV] Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes  (BAföG-EinkommensV)
-
-Ausfertigungsdatum: 05.04.1988
-
+% Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes  (BAföG-EinkommensV)
+% Ausfertigungsdatum: 05.04.1988
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 Abs. 3 Satz 1 Nr. 4 des Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645) verordnet der Bundesminister für Bildung und Wissenschaft mit Zustimmung des Bundesrates:
 
-
-## § 1 – Leistungen der sozialen Sicherung
+# § 1 – Leistungen der sozialen Sicherung
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten folgende Leistungen der sozialen Sicherung:
 
@@ -23,11 +19,9 @@ c) Gründungszuschuss (§ 93) abzüglich der pauschalierten Sozialversicherungsb
 
 d) Eingliederungshilfe (§ 418);
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
-1b.  
-(weggefallen)
+1b. (weggefallen)
 
 2. nach dem Fünften, Sechsten und Siebten Buch Sozialgesetzbuch (SGB V, SGB VI, SGB VII), dem Zweiten Gesetz über die Krankenversicherung der Landwirte (KVLG - 1989), dem Mutterschutzgesetz (MuSchG), dem Bundeselterngeld- und Elternzeitgesetz (BEEG),
 
@@ -99,8 +93,7 @@ Arbeitslosenbeihilfe (§ 86a Abs. 1);
 
 12. Übergangsleistungen nach § 3 der Berufskrankheiten-Verordnung (BKV) vom 31. Oktober 1997 (BGBl. I S. 2623).
 
-
-## § 2 – Weitere Einnahmen
+# § 2 – Weitere Einnahmen
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten auch folgende Leistungen:
 
@@ -132,8 +125,7 @@ für Angehörige der Vollzugspolizei und der Berufsfeuerwehr;
 
 7. Leistungen nach § 9 Abs. 1 des Anspruchs- und Anwartschaftsüberführungsgesetzes.
 
-
-## § 3 – Einnahmen bei Auslandstätigkeit
+# § 3 – Einnahmen bei Auslandstätigkeit
 
 Als Einnahmen, die zur Deckung des Lebensbedarfs bestimmt sind, gelten ferner
 
@@ -149,12 +141,10 @@ c) Auslandskinderzuschlag nach § 56 Abs. 1 Satz 1 Nr. 2 mit 80 vom Hundert des 
 
 Entsprechendes gilt für vergleichbare Bezüge von Personen, die im öffentlichen Interesse nach außerhalb des Geltungsbereichs des Bundesausbildungsförderungsgesetzes entsandt, vermittelt oder dort beschäftigt sind.
 
-
-## § 3a – Übergangsvorschrift
+# § 3a – Übergangsvorschrift
 
 Für Bewilligungszeiträume, die vor dem 30. Juni 2003 begonnen haben, sind die Vorschriften dieser Verordnung in ihrer bis zum 21. Mai 2003 geltenden Fassung weiter anzuwenden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 1988 mit der Maßgabe in Kraft, daß sie für alle Bewilligungszeiträume anzuwenden ist, die nach dem 30. Juni 1988 beginnen. Gleichzeitig tritt die Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes vom 21. August 1974 (BGBl. I S. 2078), zuletzt geändert durch Artikel 4 des Gesetzes vom 13. Juli 1981 (BGBl. I S. 625), mit der Maßgabe außer Kraft, daß sie auf Bewilligungszeiträume weiter anzuwenden ist, die vor dem 1. Juli 1988 begonnen haben.

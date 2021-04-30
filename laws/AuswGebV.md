@@ -1,15 +1,11 @@
-# [AuswGebV] Verordnung über die im Auswandererberatungsgenehmigungsverfahren zu erhebenden Gebühren und Auslagen  (Auswandererberatungsgebührenverordnung - AuswGebV)
-
-Ausfertigungsdatum: 22.03.2013
-
+% Verordnung über die im Auswandererberatungsgenehmigungsverfahren zu erhebenden Gebühren und Auslagen  (Auswandererberatungsgebührenverordnung - AuswGebV)
+% Ausfertigungsdatum: 22.03.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3a Absatz 2 Satz 1 in Verbindung mit Satz 2 des Auswandererschutzgesetzes in der Fassung der Bekanntmachung vom 12. März 2013 (BGBl. I S. 443) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
-
-## § 1 – Gebührenerhebung
+# § 1 – Gebührenerhebung
 
 (1) Für die Genehmigung der Auswandererberatung wird eine Gebühr von 150 Euro erhoben.
 
@@ -17,7 +13,6 @@ Auf Grund des § 3a Absatz 2 Satz 1 in Verbindung mit Satz 2 des Auswandererschu
 
 (3) § 15 des Verwaltungskostengesetzes bleibt unberührt.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

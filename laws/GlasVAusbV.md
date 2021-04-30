@@ -1,15 +1,11 @@
-# [GlasVAusbV] Verordnung über die Berufsausbildung zum Glasveredler/zur Glasveredlerin
-
-Ausfertigungsdatum: 27.04.2004
-
+% Verordnung über die Berufsausbildung zum Glasveredler/zur Glasveredlerin
+% Ausfertigungsdatum: 27.04.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Glasveredler/Glasveredlerin wird
 
@@ -19,8 +15,7 @@ Der Ausbildungsberuf Glasveredler/Glasveredlerin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre. Im dritten Ausbildungsjahr kann zwischen den Fachrichtungen
 
@@ -32,13 +27,11 @@ Die Ausbildung dauert drei Jahre. Im dritten Ausbildungsjahr kann zwischen den F
 
 gewählt werden.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse unter Berücksichtigung der Fachrichtungen Kanten- und Flächenveredelung, Schliff und Gravur sowie Glasmalerei und Kunstverglasung vermittelt werden. Diese Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 bis 11 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -120,40 +113,33 @@ f) Schützen von Glasgestaltungen,
 
 g) Restaurieren von Glasgestaltungen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für das erste Ausbildungsjahr und das dritte Ausbildungshalbjahr aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in höchstens sieben Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entsprechen soll, durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Hierfür kommt insbesondere in Betracht:  
-Herstellen eines Werkstückes unter Anwendung von Bearbeitungstechniken einschließlich Oberflächenveredelung.  
-Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, Vorlagen nutzen, Ergebnisse kontrollieren und beurteilen, Grundsätze der Kundenorientierung sowie Anforderungen des Sicherheits- und Gesundheitsschutzes, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann.
+Herstellen eines Werkstückes unter Anwendung von Bearbeitungstechniken einschließlich Oberflächenveredelung. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, Vorlagen nutzen, Ergebnisse kontrollieren und beurteilen, Grundsätze der Kundenorientierung sowie Anforderungen des Sicherheits- und Gesundheitsschutzes, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann.
 
-
-## § 9 – Gesellenprüfung/Abschlussprüfung in der Fachrichtung Kanten- und Flächenveredelung
+# § 9 – Gesellenprüfung/Abschlussprüfung in der Fachrichtung Kanten- und Flächenveredelung
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung Kanten- und Flächenveredelung erstreckt sich auf die in der Anlage Teil I sowie Teil II A aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 40 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entsprechen soll, durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Das Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Herstellen einer Glasgestaltung unter Berücksichtigung von Zuschnitt, Kanten- und Oberflächenveredelung sowie Zusammenfügen und Montieren.  
-Der Entwurf der Arbeitsaufgabe ist dem Prüfungsausschuss zur Genehmigung vorzulegen. Durch die Ausführung der Arbeitsaufgabe und deren Dokumentation soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei den Zusammenhang zwischen Gestaltung, Konstruktion sowie Verarbeitung und den Einsatz unterschiedlicher Werk- und Hilfsstoffe berücksichtigen, Arbeitsergebnisse kontrollieren und beurteilen sowie Maßnahmen zur Sicherheit und zum Gesundheits- und Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
+Herstellen einer Glasgestaltung unter Berücksichtigung von Zuschnitt, Kanten- und Oberflächenveredelung sowie Zusammenfügen und Montieren. Der Entwurf der Arbeitsaufgabe ist dem Prüfungsausschuss zur Genehmigung vorzulegen. Durch die Ausführung der Arbeitsaufgabe und deren Dokumentation soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei den Zusammenhang zwischen Gestaltung, Konstruktion sowie Verarbeitung und den Einsatz unterschiedlicher Werk- und Hilfsstoffe berücksichtigen, Arbeitsergebnisse kontrollieren und beurteilen sowie Maßnahmen zur Sicherheit und zum Gesundheits- und Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Planung und Entwurf, Bearbeitung und Herstellung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Planung und Entwurf sowie Bearbeitung und Herstellung sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen, mathematischen und zeichnerischen Inhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung der Materialien planen, Werkzeuge und Maschinen zuordnen sowie qualitätssichernde Maßnahmen einbeziehen kann. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
@@ -189,8 +175,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn im praktischen Prüfungsteil und im schriftlichen Prüfungsteil jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Prüfungsteils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 10 – Gesellenprüfung/Abschlussprüfung in der Fachrichtung Schliff und Gravur
+# § 10 – Gesellenprüfung/Abschlussprüfung in der Fachrichtung Schliff und Gravur
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung Schliff und Gravur erstreckt sich auf die in der Anlage Teil I sowie Teil II B aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -236,14 +221,12 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn im praktischen und im schriftlichen Prüfungsteil jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Prüfungsteils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 11 – Gesellenprüfung/Abschlussprüfung in der Fachrichtung Glasmalerei und Kunstverglasung
+# § 11 – Gesellenprüfung/Abschlussprüfung in der Fachrichtung Glasmalerei und Kunstverglasung
 
 (1) Die Gesellenprüfung/Abschlussprüfung in der Fachrichtung Glasmalerei und Kunstverglasung erstreckt sich auf die in der Anlage Teil I sowie Teil II C aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens 40 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entsprechen soll, durchführen und mit betriebsüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 30 Minuten hierüber ein Fachgespräch führen. Das Fachgespräch kann aus mehreren Gesprächsphasen bestehen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Herstellen einer Glasgestaltung unter Einbeziehung von Glasmalerei oder Kunstverglasung und mindestens einer weiteren Veredelungstechnik.  
-Der Entwurf der Arbeitsaufgabe ist dem Prüfungsausschuss zur Genehmigung vorzulegen. Durch die Ausführung der Arbeitsaufgabe und deren Dokumentation soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei den Zusammenhang zwischen Gestaltung, Konstruktion sowie Verarbeitung und den Einsatz unterschiedlicher Werk- und Hilfsstoffe berücksichtigen, Arbeitsergebnisse kontrollieren und beurteilen sowie Maßnahmen zur Sicherheit und zum Gesundheits- und Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
+Herstellen einer Glasgestaltung unter Einbeziehung von Glasmalerei oder Kunstverglasung und mindestens einer weiteren Veredelungstechnik. Der Entwurf der Arbeitsaufgabe ist dem Prüfungsausschuss zur Genehmigung vorzulegen. Durch die Ausführung der Arbeitsaufgabe und deren Dokumentation soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen und durchführen kann, dabei den Zusammenhang zwischen Gestaltung, Konstruktion sowie Verarbeitung und den Einsatz unterschiedlicher Werk- und Hilfsstoffe berücksichtigen, Arbeitsergebnisse kontrollieren und beurteilen sowie Maßnahmen zur Sicherheit und zum Gesundheits- und Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen und die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann. Die Ausführung der Arbeitsaufgabe ist mit 80 Prozent und das Fachgespräch mit 20 Prozent zu gewichten.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Planung und Entwurf, Bearbeitung und Herstellung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Planung und Entwurf sowie Bearbeitung und Herstellung sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen, mathematischen und zeichnerischen Inhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung der Materialien planen, Werkzeuge und Maschinen zuordnen sowie qualitätssichernde Maßnahmen einbeziehen kann. Es kommen praxisbezogene Aufgaben insbesondere aus folgenden Gebieten in Betracht:
 
@@ -279,18 +262,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn im praktischen und im schriftlichen Prüfungsteil jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Prüfungsteils müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Glasveredler/zur Glasveredlerin
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Glasveredler/zur Glasveredlerin
 
 (Fundstelle: BGBl. I 2004, 666 - 674)
 

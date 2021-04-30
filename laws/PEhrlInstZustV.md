@@ -1,15 +1,11 @@
-# [PEhrlInstZustV] Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
-
-Ausfertigungsdatum: 25.09.1996
-
+% Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts
+% Ausfertigungsdatum: 25.09.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 77 Abs. 4 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3018) verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1
+# § 1
 
 Von der Zuständigkeit des Paul-Ehrlich-Instituts nach § 77 Abs. 2 des Arzneimittelgesetzes ausgenommen sind
 
@@ -17,8 +13,7 @@ Von der Zuständigkeit des Paul-Ehrlich-Instituts nach § 77 Abs. 2 des Arzneimi
 
 2. Arzneimittel aus Blut oder Blutbestandteilen von Tieren, soweit es sich nicht um Zubereitungen von Blutgerinnungsfaktoren, Seren oder Testseren handelt.
 
-
-## § 2
+# § 2
 
 Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach § 77 Abs. 2 des Arzneimittelgesetzes zuständig für
 
@@ -26,7 +21,6 @@ Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach § 77 Abs
 
 2. BCG-Bakterien enthaltende Arzneimittel, die zur unspezifischen Stimulierung des Immunsystems bestimmt sind.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

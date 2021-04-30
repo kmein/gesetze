@@ -1,15 +1,11 @@
-# [MedaillenV] Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken zum Schutz deutscher Euro-Gedenkmünzen  (Medaillenverordnung - MedaillenV)
-
-Ausfertigungsdatum: 31.10.2005
-
+% Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken zum Schutz deutscher Euro-Gedenkmünzen  (Medaillenverordnung - MedaillenV)
+% Ausfertigungsdatum: 31.10.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 des Münzgesetzes, der durch Artikel 6 Nr. 2 des Gesetzes vom 14. September 2005 (BGBl. I S. 2746) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -25,8 +21,7 @@ Im Sinne dieser Verordnung ist oder sind:
 
 6. "Münzzeichen" der Kennbuchstabe für die Prägestätte.
 
-
-## § 2 – Verbote
+# § 2 – Verbote
 
 Vorbehaltlich der §§ 3 und 4 dürfen Medaillen und Münzstücke nicht hergestellt, verkauft, eingeführt oder zum Verkauf oder zu anderen kommerziellen Zwecken verbreitet werden, wenn sie
 
@@ -44,8 +39,7 @@ Vorbehaltlich der §§ 3 und 4 dürfen Medaillen und Münzstücke nicht hergeste
 
 7. einen Durchmesser haben, der innerhalb der Referenzspanne liegt.
 
-
-## § 3 – Ausnahmen
+# § 3 – Ausnahmen
 
 (1) Medaillen und Münzstücke, die die Aufschrift "Euro" oder "Euro Cent" oder eine ähnliche Aufschrift oder das Euro-Zeichen oder ein diesem ähnliches Zeichen, aber keinen Nennwert tragen, sind von dem Verbot des § 2 Nr. 1 ausgenommen, wenn ihr Durchmesser 19 Millimeter unterschreitet oder 35 Millimeter überschreitet.
 
@@ -63,25 +57,21 @@ Vorbehaltlich der §§ 3 und 4 dürfen Medaillen und Münzstücke nicht hergeste
 
 (4) Medaillen und Münzstücke, die eine Randschrift tragen und deren Durchmesser innerhalb der Referenzspanne liegt, sind von dem Verbot des § 2 Nr. 5 und 7 ausgenommen, wenn sie für ein fremdes Währungsgebiet hergestellt und unmittelbar ausgeführt werden.
 
-
-## § 4 – Bereits hergestellte Medaillen und Münzstücke
+# § 4 – Bereits hergestellte Medaillen und Münzstücke
 
 Medaillen und Münzstücke, die vor dem 5. November 2005 hergestellt worden sind, dürfen auch dann verkauft, eingeführt oder zum Verkauf oder anderen kommerziellen Zwecken verbreitet werden, wenn sie den Vorgaben der Verordnung über die Herstellung und den Vertrieb von Medaillen und Marken vom 13. Dezember 1974 (BGBl. I S. 3520), zuletzt geändert durch die Verordnung vom 27. August 2001 (BGBl. I S. 2286), entsprechen.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 12 Abs. 2 des Münzgesetzes handelt, wer entgegen § 2 eine Medaille oder ein Münzstück herstellt, verkauft, einführt oder zum Verkauf oder zu anderen kommerziellen Zwecken verbreitet.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1 Nr. 1)Erscheinungsbild des Euro-Zeichens
+# Anlage – (zu § 1 Nr. 1)Erscheinungsbild des Euro-Zeichens
 
   
   
-![](../normengrafiken/bgbl1_2005/j3118_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2005/j3118_0010.jpg)  
   

@@ -1,10 +1,7 @@
-# [BAPostG] Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost  (Bundesanstalt-Post-Gesetz - BAPostG)
-
-Ausfertigungsdatum: 14.09.1994
-
+% Gesetz über die Errichtung einer Bundesanstalt für Post und Telekommunikation Deutsche Bundespost  (Bundesanstalt-Post-Gesetz - BAPostG)
+% Ausfertigungsdatum: 14.09.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -256,20 +253,17 @@ Vermögensübergang
 
  
 
-
-## § 1 – Errichtung, Rechtsform, Sitz
+# § 1 – Errichtung, Rechtsform, Sitz
 
 (1) Zur Wahrnehmung der sich aus diesem Gesetz ergebenden Rechte und Pflichten in bezug auf die aus den Teilsondervermögen der Deutschen Bundespost hervorgehenden privaten Unternehmen (Postnachfolgeunternehmen) errichtet die Bundesrepublik Deutschland die Bundesanstalt für Post und Telekommunikation Deutsche Bundespost (Bundesanstalt).
 
 (2) Die Bundesanstalt ist eine rechtsfähige Anstalt des öffentlichen Rechts. Sie hat ihren Sitz in Bonn.
 
-
-## § 2 – Aufsicht
+# § 2 – Aufsicht
 
 Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Es ist befugt, alle Auskünfte zu verlangen und Anordnungen zu treffen, damit die Bundesanstalt ihre Aufgaben in Einklang mit den Gesetzen, der Satzung, sonstigen Bestimmungen und den Interessen des Bundes wahrnimmt.
 
-
-## § 3 – Gegenstand
+# § 3 – Gegenstand
 
 (1) Die Bundesanstalt hat die Aufgaben nach den Abschnitten 4, 5, 7 und 8.
 
@@ -279,8 +273,7 @@ Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums
 
 (4) Über die in diesem Gesetz genannten Aufgaben hinaus darf die Bundesanstalt weder Rechte noch Einfluß in bezug auf die Postnachfolgeunternehmen ausüben.
 
-
-## § 4 – Leitung
+# § 4 – Leitung
 
 (1) Die Bundesanstalt wird durch eine Präsidentin oder einen Präsidenten geleitet, die oder der in einem Anstellungsverhältnis zur Bundesrepublik Deutschland steht. Die Präsidentin oder der Präsident führt die Geschäfte in eigener Verantwortung nach Maßgabe dieses Gesetzes und den Weisungen des Bundesministeriums der Finanzen. Sie oder er vertritt die Bundesanstalt gerichtlich und außergerichtlich. Die Präsidentin oder der Präsident regelt die innere Organisation der Bundesanstalt durch eine Geschäftsordnung.
 
@@ -294,8 +287,7 @@ Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums
 
 (6) Absatz 5 gilt für Bundesrichterinnen und Bundesrichter sowie für Berufssoldatinnen und Berufssoldaten entsprechend.
 
-
-## § 5 – Verwaltungsrat
+# § 5 – Verwaltungsrat
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er besteht aus einer oder einem Vorsitzenden, die oder der vom Bundesministerium der Finanzen benannt wird, und weiteren Mitgliedern. Dies sind:
 
@@ -325,8 +317,7 @@ Die Entlastung gemäß Satz 1 Nr. 3 befreit nicht von der dienstvertraglichen Ha
 
 (5) Über eine Vorlage der Präsidentin oder des Präsidenten nach Absatz 4 hat der Verwaltungsrat binnen zwei Monaten zu beschließen. Ergeht innerhalb dieser Frist kein Beschluß, gilt die Vorlage als genehmigt.
 
-
-## § 6 – Einspruch gegen Beschlüsse des Verwaltungsrats
+# § 6 – Einspruch gegen Beschlüsse des Verwaltungsrats
 
 (1) Die Präsidentin oder der Präsident kann gegen einen nach § 5 Abs. 4 gefaßten Beschluß des Verwaltungsrats binnen einer Woche nach Eingang der Mitteilung Einspruch erheben, wenn sie oder er der Auffassung ist, daß der Beschluß wichtigen Interessen der Bundesanstalt nicht gerecht wird. Die Präsidentin oder der Präsident hat gleichzeitig das Bundesministerium der Finanzen über den Einspruch zu unterrichten.
 
@@ -334,23 +325,19 @@ Die Entlastung gemäß Satz 1 Nr. 3 befreit nicht von der dienstvertraglichen Ha
 
 (3) Beschließt der Verwaltungsrat mit der Mehrheit seiner Mitglieder, den Einspruch der Präsidentin oder des Präsidenten zurückzuweisen, entscheidet das Bundesministerium der Finanzen auf Vorlage der Präsidentin oder des Präsidenten. Andernfalls gilt die Vorlage der Präsidentin oder des Präsidenten als beschlossen.
 
-
-## § 7 – Genehmigungen
+# § 7 – Genehmigungen
 
 (1) Die Präsidentin oder der Präsident legt die Beschlüsse des Verwaltungsrats gemäß § 5 Abs. 4 dem Bundesministerium der Finanzen zur Genehmigung vor.
 
 (2) Die Präsidentin oder der Präsident berichtet dem Bundesministerium der Finanzen und dem Verwaltungsrat regelmäßig über die Geschäftsführung der Bundesanstalt.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Grundsätze
+# § 9 – Grundsätze
 
 Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 16 des Postpersonalrechtsgesetzes übertragenen Aufgaben wahr. Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen unter der Bezeichnung „Postbeamtenversorgungskasse“ weitere Aufgaben wahrnehmen, deren Erfüllung im Interesse der Leistungsempfängerinnen und Leistungsempfänger liegt.
 
-
-## § 10 – Wirtschaftsführung, Rechnungslegung
+# § 10 – Wirtschaftsführung, Rechnungslegung
 
 (1) Die Präsidentin oder der Präsident stellt für jedes Geschäftsjahr einen Wirtschaftsplan für die Postbeamtenversorgungskasse auf. Dieser ist Teil des Wirtschaftsplans der Bundesanstalt (§ 20).
 
@@ -358,8 +345,7 @@ Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 1
 
 (3) Die Präsidentin oder der Präsident stellt für die Postbeamtenversorgungskasse einen Jahresabschluss und einen Lagebericht auf. Die §§ 21 und 22 gelten mit der Maßgabe entsprechend, dass die Entlastung der Präsidentin oder des Präsidenten erst nach der Entlastung der Bundesregierung (Artikel 114 Absatz 1 des Grundgesetzes) erfolgen darf.
 
-
-## § 11 – Rechtsnachfolge des Bundes-Pensions-Service für Post und Telekommunikation e. V.
+# § 11 – Rechtsnachfolge des Bundes-Pensions-Service für Post und Telekommunikation e. V.
 
 (1) Die Bundesanstalt tritt in die Rechte und Pflichten des Bundes-Pensions-Service für Post und Telekommunikation e. V. als Postbeamtenversorgungskasse ein.
 
@@ -367,8 +353,7 @@ Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 1
 
 (3) (weggefallen)
 
-
-## § 12 – Überleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service für Post und Telekommunikation e. V.
+# § 12 – Überleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service für Post und Telekommunikation e. V.
 
 (1) Die Bundesanstalt tritt in die Rechte und Pflichten der mit dem Bundes-Pensions-Service für Post und Telekommunikation e. V. bestehenden Arbeitsverhältnisse ein. Die betroffenen Arbeitnehmerinnen und Arbeitnehmer können dem Übergang ihres Arbeitsverhältnisses innerhalb eines Monats nach der Überleitung schriftlich widersprechen. Der Widerspruch kann gegenüber dem Bundes-Pensions-Service für Post und Telekommunikation e. V. oder der Bundesanstalt erklärt werden. § 613a des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 
@@ -378,18 +363,15 @@ Die Bundesanstalt nimmt die der Postbeamtenversorgungskasse in den §§ 14 bis 1
 
 (4) Die Bundesanstalt gewährleistet die zum Zeitpunkt der Überleitung beim Bundes-Pensions-Service für Post und Telekommunikation e. V. bestehenden Anwartschaften aus einer betrieblichen Altersversorgung, auch soweit sie noch nicht unverfallbar sind. Zusätzliche Anwartschaftsansprüche werden nicht mehr erworben. Ab dem Zeitpunkt des Abschlusses eines neuen Arbeitsvertrages mit der Bundesanstalt nehmen die übergeleiteten Arbeitnehmerinnen und Arbeitnehmer an der bei der Bundesanstalt bestehenden betrieblichen Altersversorgung teil.
 
-
-## § 13 – Überleitung der Beamtinnen und Beamten
+# § 13 – Überleitung der Beamtinnen und Beamten
 
 Die Beurlaubung der Beamtinnen und Beamten, die im Rahmen eines privatrechtlichen Arbeitsverhältnisses für den Bundes-Pensions-Service für Post und Telekommunikation e. V. tätig sind, ist aufgehoben. Soweit sie Beamtinnen und Beamte des Bundes sind, werden sie auf die Bundesanstalt übergeleitet. Ein nach § 12 Absatz 1 übergeleitetes Arbeitsverhältnis der Beamtinnen und Beamten zur Bundesanstalt erlischt.
 
-
-## § 14 – Prüfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen
+# § 14 – Prüfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen
 
 In Disziplinarverfahren, bei Entlassungen und Zurruhesetzungen sowie bei Herabsetzungen der Arbeitszeit wegen begrenzter Dienstfähigkeit nimmt die Bundesanstalt die ihr in § 1 Absatz 5 und 6 des Postpersonalrechtsgesetzes übertragenen Aufgaben wahr.
 
-
-## § 15 – Ausübung der dienstrechtlichen Befugnisse bei Versorgungsempfängerinnen und Versorgungsempfängern aus dem Bereich der früheren Deutschen Bundespost
+# § 15 – Ausübung der dienstrechtlichen Befugnisse bei Versorgungsempfängerinnen und Versorgungsempfängern aus dem Bereich der früheren Deutschen Bundespost
 
 (1) Die Bundesanstalt nimmt die dem Dienstherrn Bund obliegenden Aufgaben und Befugnisse gegenüber folgenden Personen wahr:
 
@@ -405,8 +387,7 @@ d) des ehemaligen Teilsondervermögens Deutsche Bundespost TELEKOM,
 
 2. Ruhestandsbeamtinnen und Ruhestandsbeamten, die zuletzt bei einem Postnachfolgeunternehmen beschäftigt waren,
 
-2a.  
-Versorgungsempfängerinnen und Versorgungsempfängern, die bei einem Postnachfolgeunternehmen beschäftigt sind oder zuletzt beschäftigt waren,
+2a. Versorgungsempfängerinnen und Versorgungsempfängern, die bei einem Postnachfolgeunternehmen beschäftigt sind oder zuletzt beschäftigt waren,
 
 3. früheren Beschäftigten und Vorstandsmitgliedern der in den Nummern 1 und 2 genannten Unternehmen und Sondervermögen, denen aus einem öffentlich-rechtlichen Amtsverhältnis, einem nach § 47 Absatz 2 des Postverfassungsgesetzes geschlossenen Vertrag oder auf Grund des Dienstrechtlichen Kriegsfolgen-Abschlussgesetzes Ansprüche auf beamtenrechtlich ausgestaltete Versorgung zustehen,
 
@@ -420,8 +401,7 @@ Im Rahmen der Zuständigkeit nach Satz 1 vertritt die Präsidentin der Bundesans
 
 (3) Das Bundesministerium der Finanzen kann sich in Angelegenheiten nach Absatz 2 die Entscheidung vorbehalten oder die Entscheidung von seiner Zustimmung abhängig machen; auch kann es verbindliche Grundsätze für die Entscheidung aufstellen.
 
-
-## § 16 – Beihilfebearbeitung
+# § 16 – Beihilfebearbeitung
 
 (1) Der Bundesanstalt werden folgende Aufgaben und Befugnisse in Bezug auf die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten übertragen:
 
@@ -437,8 +417,7 @@ Die Bundesanstalt nimmt insoweit die Befugnisse der obersten Dienstbehörde wahr
 
 (2) Die Bundesanstalt bedient sich bei der Bearbeitung der Beihilfe der Postbeamtenkrankenkasse. Dies gilt auch für die Bearbeitung der Beihilfe in den Fällen des § 15 sowie für die Bearbeitung der Beihilfe für die eigenen Beamtinnen und Beamten der Bundesanstalt.
 
-
-## § 17 – Ausübung der dienstrechtlichen Befugnisse bei der Auflösung von Postnachfolgeunternehmen
+# § 17 – Ausübung der dienstrechtlichen Befugnisse bei der Auflösung von Postnachfolgeunternehmen
 
 (1) Wird ein Postnachfolgeunternehmen aufgelöst oder erlischt es kraft Gesetzes, so tritt die Bundesanstalt an die Stelle dieses Postnachfolgeunternehmens hinsichtlich der Beamtinnen und Beamten, die bei ihm beschäftigt sind. Die Beamtenverhältnisse werden mit dem Bund fortgesetzt. Die im Zeitpunkt des Übertritts bestehenden Beurlaubungen, Zuweisungen von Tätigkeiten und Abordnungen können aufgehoben oder widerrufen werden.
 
@@ -446,20 +425,17 @@ Die Bundesanstalt nimmt insoweit die Befugnisse der obersten Dienstbehörde wahr
 
 (3) § 2 Absatz 2, § 3 Absatz 2 und 7 bis 9 und die §§ 4, 6, 9 und 18 des Postpersonalrechtsgesetzes, § 136 des Bundesbeamtengesetzes sowie die Postlaufbahnverordnung gelten entsprechend.
 
-
-## § 18 – (weggefallen)
+# § 18 – (weggefallen)
 
 \-
 
-
-## § 19 – Finanzierung
+# § 19 – Finanzierung
 
 (1) Die Aufgaben nach § 3 nimmt die Bundesanstalt nach Maßgabe öffentlich-rechtlicher entgeltlicher Geschäftsbesorgungsverträge wahr, die sie mit den Postnachfolgeunternehmen abschließt. Die mit der Aufgabenwahrnehmung verbundenen Kosten einschließlich der kalkulatorischen Kosten werden aus den vertraglich vereinbarten Entgelten einschließlich eines Gewinnzuschlages finanziert. Die Leitsätze für die Preisermittlung auf Grund von Selbstkosten (Anlage zur Verordnung PR Nr. 30/53 vom 21. November 1953, zuletzt geändert durch Artikel 289 der Verordnung vom 25. November 2003, BGBl. I S. 2304), sind zu beachten. Sie können einvernehmlich ganz oder teilweise abbedungen werden. Der Gewinnzuschlag muss einen angemessenen Ausgleich für die verbleibenden Risiken gewährleisten. Anstelle des Gewinnzuschlags kann eine Vollkostentragung vereinbart werden. Für Personalüberhang wird für die Zeit ab dem 1. Dezember 2005 kein Gewinnzuschlag erhoben.
 
 (2) § 26 Abs. 4 und § 26k bleiben unberührt.
 
-
-## § 20 – Wirtschaftsplan
+# § 20 – Wirtschaftsplan
 
 (1) Die Präsidentin oder der Präsident stellt für jedes Jahr einen Wirtschaftsplan auf, der
 
@@ -489,13 +465,11 @@ Die Einzelheiten regelt die Satzung.
 
 (4) Liegt bis zum Schluß eines Geschäftsjahres die Genehmigung des Wirtschaftsplans für das folgende Jahr nicht vor, so ist bis zum Inkrafttreten des Wirtschaftsplans die Präsidentin oder der Präsident ermächtigt, alle Ausgaben zu leisten, um den laufenden Betrieb der Bundesanstalt aufrecht zu erhalten, rechtlich begründete Verpflichtungen der Bundesanstalt zu erfüllen und begonnene Investitionen fortzuführen.
 
-
-## § 21 – Rechnungslegung
+# § 21 – Rechnungslegung
 
 Die Präsidentin oder der Präsident stellt für das vergangene Geschäftsjahr innerhalb der ersten vier Monate des Folgejahres einen Jahresabschluss und einen Lagebericht nach den für große Kapitalgesellschaften geltenden Vorschriften des Handelsgesetzbuchs auf. Der Jahresabschluss bedarf der Genehmigung nach § 7 Absatz 1. Das Publizitätsgesetz ist nicht anzuwenden.
 
-
-## § 22 – Prüfung und Entlastung der Präsidentin oder des Präsidenten
+# § 22 – Prüfung und Entlastung der Präsidentin oder des Präsidenten
 
 (1) Jahresabschluss und Lagebericht der Bundesanstalt sind durch eine oder einen vom Bundesministerium der Finanzen zu bestimmende Abschlussprüferin oder zu bestimmenden Abschlussprüfer zu prüfen.
 
@@ -503,8 +477,7 @@ Die Präsidentin oder der Präsident stellt für das vergangene Geschäftsjahr i
 
 (3) Der Verwaltungsrat beschließt unter Berücksichtigung des Prüfberichts der Abschlussprüferin oder des Abschlussprüfers über die Entlastung der Präsidentin oder des Präsidenten. Der Beschluss über die Entlastung bedarf der Genehmigung gemäß § 7 Abs. 1. Die Entlastung enthält keinen Verzicht auf Ersatzansprüche.
 
-
-## § 23 – Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer
+# § 23 – Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Unbeschadet des Rechts, Arbeitnehmerinnen und Arbeitnehmer zu beschäftigen, wird der Bundesanstalt das Recht verliehen, Beamtinnen und Beamte zu haben.
 
@@ -516,20 +489,17 @@ Die Präsidentin oder der Präsident stellt für das vergangene Geschäftsjahr i
 
 (5) Stand einer Beamtin oder einem Beamten vor einer Verwendung bei der Bundesanstalt eine Stellenzulage entsprechend der Vorbemerkung Nummer 7 zu den Besoldungsordnungen A und B des Bundesbesoldungsgesetzes zu, wird diese für die Dauer dieser Verwendung weitergewährt. Anrechnungsvorschriften finden Anwendung.
 
-
-## § 24 – Überleitungsmaßnahmen für das Personal
+# § 24 – Überleitungsmaßnahmen für das Personal
 
 (1) Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes gültigen Tarifverträge der Unternehmen der Deutschen Bundespost POSTDIENST, der Deutschen Bundespost POSTBANK, der Deutschen Bundespost TELEKOM und des Direktoriums der Deutschen Bundespost gelten bis zum Abschluß neuer Tarifverträge auch für die bei der Bundesanstalt Beschäftigten. Für die auf die Bundesanstalt übergeleiteten Beschäftigten werden, soweit erforderlich, Besitzstandsregelungen vereinbart. Für die Beschäftigten der Bundesanstalt werden die Tarifverträge durch die Präsidentin oder den Präsidenten der Bundesanstalt abgeschlossen.
 
 (2) Eine Beamtin oder ein Beamter der Bundesanstalt kann auf Grund einer Einzelentscheidung zu einem Postnachfolgeunternehmen versetzt und dort beschäftigt werden, wenn die Beamtin oder der Beamte und das Postnachfolgeunternehmen zustimmen.
 
-
-## § 25 – Vorübergehende geringerwertige Verwendung
+# § 25 – Vorübergehende geringerwertige Verwendung
 
 Einer Beamtin oder einem Beamten, deren oder dessen Aufgabengebiet von Umstrukturierungsmaßnahmen oder einem Aufgabenrückgang betroffen ist, kann unter Beibehaltung ihres oder seines Amtes ohne ihre oder seine Zustimmung vorübergehend auch eine geringerwertige Tätigkeit in derselben oder einer gleichwertigen Laufbahn übertragen werden, wenn eine amtsgemäße Verwendung nicht möglich ist und der Beamtin oder dem Beamten die Wahrnehmung der neuen Aufgabe unter Berücksichtigung ihrer oder seiner bisherigen Tätigkeit zuzumuten ist.
 
-
-## § 26 – Betriebliche Sozialeinrichtungen
+# § 26 – Betriebliche Sozialeinrichtungen
 
 (1) Die Versorgungsanstalt der Deutschen Bundespost und das Erholungswerk Post Postbank Telekom e. V. werden für die Bundesanstalt und die Postnachfolgeunternehmen durch die Bundesanstalt als einheitliche Einrichtungen weitergeführt. Das Betreuungswerk Post Postbank Telekom wird für die Bundesanstalt und die Postnachfolgeunternehmen durch die Bundesanstalt aufrechterhalten.
 
@@ -549,15 +519,13 @@ Für die Weiterführung des Erholungswerks und die Aufrechterhaltung des Betreuu
 
 (6) Die in Teil VI der Bundeshaushaltsordnung enthaltenen Vorschriften über die Beteiligungsrechte des Bundesministeriums der Finanzen finden auf die betrieblichen Sozialeinrichtungen keine Anwendung. Die Rechte des zuständigen Ministeriums werden von der Bundesanstalt wahrgenommen.
 
-
-## § 26a – Organe
+# § 26a – Organe
 
 (1) Organe der Postbeamtenkrankenkasse sind der Vorstand und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe werden durch dieses Gesetz und die Satzung der Postbeamtenkrankenkasse geregelt.
 
-
-## § 26b – Vorstand, Verwaltungsrat
+# § 26b – Vorstand, Verwaltungsrat
 
 (1) Der Vorstand besteht aus einer oder mehreren Personen. Er vertritt die Postbeamtenkrankenkasse nach außen. Besteht der Vorstand aus mehreren Personen, kann in der Satzung bestimmt werden, dass auch einzelne Mitglieder des Vorstands die Postbeamtenkrankenkasse vertreten können.
 
@@ -593,15 +561,13 @@ Für die Weiterführung des Erholungswerks und die Aufrechterhaltung des Betreuu
 
 Die Beschlüsse nach Satz 1 bedürfen der Genehmigung der Bundesanstalt. Der Verwaltungsrat kann die Bundesanstalt für Finanzdienstleistungsaufsicht um Stellungnahme bitten. Satzungsändernde Beschlüsse bedürfen einer Zweidrittelmehrheit der Mitglieder des Verwaltungsrats.
 
-
-## § 26c – Satzung
+# § 26c – Satzung
 
 (1) Die Satzung der Postbeamtenkrankenkasse regelt ihre Organisation und Verwaltung sowie ihre Leistungen und Beiträge.
 
 (2) Soweit nicht die Wahrnehmung von Aufgaben der Grundversicherung berührt ist, kann die Satzung der Postbeamtenkrankenkasse dazu ermächtigen, juristische Personen des Privatrechts zu gründen und zu betreiben, wenn dies geeignet erscheint, den Aufgaben der Postbeamtenkrankenkasse und der Reduzierung der Finanzierungslasten zu dienen. Personalwirtschaftlich darf dies nicht zu Lasten der Beschäftigung des bei der Postbeamtenkrankenkasse eingesetzten Personals gehen.
 
-
-## § 26d – Aufgaben
+# § 26d – Aufgaben
 
 (1) Die Postbeamtenkrankenkasse erbringt nach Maßgabe ihrer Satzung für ihre Mitglieder Krankenversicherungsleistungen (Grundversicherung) sowie Versicherungsleistungen nach Maßgabe des Pflege-Versicherungsgesetzes, die die Beihilfe in Krankheits-, Pflege- und Geburtsfällen ergänzen. Sie handelt insoweit öffentlich-rechtlich.
 
@@ -609,8 +575,7 @@ Die Beschlüsse nach Satz 1 bedürfen der Genehmigung der Bundesanstalt. Der Ver
 
 (3) Die Postbeamtenkrankenkasse führt gegen Kostenerstattung im Auftrag und nach Weisung der Bundesanstalt die Beihilfebearbeitung nach § 16 durch. Die Vorschriften über die Selbstverwaltung der Postbeamtenkrankenkasse sind nicht anzuwenden.
 
-
-## § 26e – Wirtschaftsplan
+# § 26e – Wirtschaftsplan
 
 (1) Der Vorstand der Postbeamtenkrankenkasse stellt für jedes Geschäftsjahr einen Wirtschaftsplan auf, der vom Verwaltungsrat der Postbeamtenkrankenkasse festgestellt wird und der Genehmigung durch die Bundesanstalt bedarf.
 
@@ -618,13 +583,11 @@ Die Beschlüsse nach Satz 1 bedürfen der Genehmigung der Bundesanstalt. Der Ver
 
 (3) Die Postbeamtenkrankenkasse gewährleistet in den jeweiligen Versicherungszweigen einen dauerhaft ausgeglichenen Haushalt. Die erforderlichen Beiträge werden jährlich nach Maßgabe der §§ 26f und 26g durch die Satzung bestimmt.
 
-
-## § 26f – Grundsätze der Beitragsgestaltung
+# § 26f – Grundsätze der Beitragsgestaltung
 
 Grundlage der jährlichen Beitragsberechnung in den einzelnen Versicherungszweigen ist jeweils ein Gutachten, das nach Maßgabe der Satzung durch einen vom Verwaltungsrat bestellten Aktuar objektiv und weisungsfrei unter Berücksichtigung von Versichertenentwicklung, Schadentrend und voraussichtlicher Entwicklung des Anlagevermögens erstellt wird und die im Haushaltsjahr und langfristig erwarteten Ausgaben und Einnahmen mit dem Ziel der Abwicklung der Postbeamtenkrankenkasse berücksichtigt.
 
-
-## § 26g – Beiträge in der Grundversicherung
+# § 26g – Beiträge in der Grundversicherung
 
 (1) Grundlage der Beitragsstruktur und der Beitragshöhe sind in den Beitragstabellen in Anhang 1 zu den §§ 25 bis 28 der im Amtsblatt des Bundesministers für das Post- und Fernmeldewesen vom 1. April 1987, S. 717 bekannt gegebenen Satzung der Postbeamtenkrankenkasse, zuletzt geändert durch die 53. Änderung vom 27. April 2005 (GMBl 2005, S. 733), in der am 31. Dezember 2004 geltenden Fassung enthalten.
 
@@ -638,8 +601,7 @@ Grundlage der jährlichen Beitragsberechnung in den einzelnen Versicherungszweig
 
 (6) Der Beitrag während der Elternzeit ist entsprechend den in diesem Fall zu erhebenden Beiträgen in der gesetzlichen Krankenversicherung festzusetzen.
 
-
-## § 26h – Ausgleichsfonds
+# § 26h – Ausgleichsfonds
 
 (1) Die Postbeamtenkrankenkasse bildet zur dauerhaften Haushaltssicherung in der Grundversicherung einen Ausgleichsfonds. Die Postnachfolgeunternehmen zahlen dafür den Betrag von 525 Millionen Euro im Verhältnis ihres Versichertenbestandes in der Grundversicherung mit Stand vom 31. Dezember 2004, der vom 1. Januar 2005 bis zum Tag der Gutschrift auf dem Konto der Postbeamtenkrankenkasse von den Postnachfolgeunternehmen mit 5,75 Prozent jährlich zu verzinsen ist.
 
@@ -647,15 +609,13 @@ Grundlage der jährlichen Beitragsberechnung in den einzelnen Versicherungszweig
 
 (3) Die Erträge des Fondsvermögens und - soweit erforderlich - das Fondsvermögen selbst werden auf der Grundlage des Wirtschaftsplans zur Deckung der Leistungsausgaben für die Mitglieder und ihre mitversicherten Angehörigen aus dem Bereich der Postnachfolgeunternehmen, der Bundesanstalt und des ehemaligen Sondervermögens Deutsche Bundespost, die nicht unter den Personenkreis des § 26i Abs. 2 fallen, verwendet, soweit sich ein ausgeglichener Haushalt mit Anpassungen der Beiträge nach § 26g (Beiträge in der Grundversicherung) und mit anderen Einnahmen nach § 26c Abs. 2, § 26d Abs. 2, §§ 26i und 26k nicht gewährleisten lässt. Im Übrigen entscheidet der Verwaltungsrat nach pflichtgemäßem Ermessen über die Verwendung des Fondsvermögens und dessen Erträge, sofern bei der jährlichen Erstellung des versicherungsmathematischen Gutachtens festgestellt wird, dass das Ziel eines dauerhaft ausgeglichenen Haushalts nicht gefährdet wird. Der Verwaltungsrat hat Erträge aus dem Fondsvermögen und das Fondsvermögen selbst bis zum Abwicklungsende aufzubrauchen.
 
-
-## § 26i – Sonstige Einnahmen
+# § 26i – Sonstige Einnahmen
 
 (1) Die Beihilfepauschale für die Mitglieder der Gruppe A der Postbeamtenkrankenkasse und der Zuschuss der Postnachfolgeunternehmen im Sinne des § 69 der Satzung der Postbeamtenkrankenkasse (§ 26g Abs. 1) in der am Tage des Inkrafttretens des Artikels 1 dieses Gesetzes geltenden Fassung werden nach den am Tage vor dem Inkrafttreten des Artikels 1 dieses Gesetzes geltenden Grundsätzen ermittelt.
 
 (2) Ausgaben für Mitglieder, die der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, der Museumsstiftung Post und Telekommunikation und der Bundesrepublik Deutschland mit Ausnahme der Bundesanstalt zuzurechnen sind, werden von diesen getragen, soweit sie nicht durch Beiträge nach § 26g gedeckt sind. Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, die Museumsstiftung Post und Telekommunikation und die Bundesrepublik Deutschland können ihre Verpflichtungen dadurch ablösen, dass sie einen dem ihnen zuzurechnenden Mitgliederbestand in der Grundversicherung entsprechenden Betrag in den nach § 26h Abs. 1 Satz 1 zu bildenden Ausgleichsfonds zahlen. § 26h Abs. 1 Satz 2 gilt entsprechend.
 
-
-## § 26j – Freistellung der Bundesrepublik Deutschland
+# § 26j – Freistellung der Bundesrepublik Deutschland
 
 (1) Soweit die Bundesrepublik Deutschland von Mitgliedern oder Versicherten, für die die Postnachfolgeunternehmen zur Ausübung der Dienstherrnbefugnisse ermächtigt sind, wegen Überschreitung der verfassungsrechtlich zulässigen Beitragsgrenze in der Grundversicherung in Anspruch genommen werden, haften ihr die Postnachfolgeunternehmen. § 257 des Bürgerlichen Gesetzbuchs findet Anwendung. Für Ansprüche von Mitgliedern und Versicherten, bei denen die Bundesanstalt die Dienstherrenbefugnisse ausübt, gilt Satz 1 gegenüber der Bundesanstalt entsprechend. Die Postnachfolgeunternehmen erstatten der Bundesrepublik Deutschland Mehrkosten, die ihr im jeweiligen Haushaltsjahr gegenüber der Rechtslage dieses Gesetzes in der Fassung vom 14. September 1994 (BGBl. I S. 2325), zuletzt geändert durch Artikel 217 der Verordnung vom 25. November 2003 (BGBl. I S. 2304), aus dem Betrieb der Postbeamtenkrankenkasse entstehen.
 
@@ -669,13 +629,11 @@ Grundlage der jährlichen Beitragsberechnung in den einzelnen Versicherungszweig
 
 (6) Die Bundesrepublik Deutschland und die Postnachfolgeunternehmen schließen eine vertragliche Vereinbarung zur Durchführung der Regelungen nach den Absätzen 1 bis 5.
 
-
-## § 26k – Verteilung des Verwaltungsaufwands, Verordnungsermächtigung
+# § 26k – Verteilung des Verwaltungsaufwands, Verordnungsermächtigung
 
 Die der Bundesanstalt aus der Weiterführung der Postbeamtenkrankenkasse entstehenden Kosten, einschließlich der kalkulatorischen Kosten, und der nach Maßgabe des § 19 Absatz 1 anfallende Gewinnzuschlag (Verwaltungsaufwand) werden abgerechnet und von der Postbeamtenkrankenkasse, der Bundesanstalt, den Postnachfolgeunternehmen, dem Bund und anderen Dienstherren sowie den Mitgliedern der Postbeamtenkrankenkasse getragen. Das Bundesministerium der Finanzen regelt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Abrechnung des Verwaltungsaufwands und die Verteilung des Verwaltungsaufwands auf die Kostenträger sowie das Nähere zur Kostenerstattung nach § 26d Absatz 3 Satz 1.
 
-
-## § 26l – Beihilfebearbeitung für andere Stellen
+# § 26l – Beihilfebearbeitung für andere Stellen
 
 Die Postbeamtenkrankenkasse kann nach Maßgabe öffentlich-rechtlicher Geschäftsbesorgungsverträge für Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gegen Entgelt die folgenden Aufgaben ganz oder teilweise übernehmen:
 
@@ -687,13 +645,11 @@ Die Postbeamtenkrankenkasse kann nach Maßgabe öffentlich-rechtlicher Geschäft
 
 Die Übernahme bedarf der Zustimmung der jeweils zuständigen obersten Dienstbehörde und der Bundesanstalt.
 
-
-## § 27 – Wohnungsfürsorge
+# § 27 – Wohnungsfürsorge
 
 Die Bundesanstalt legt die Grundsätze der Wohnungsfürsorge für die Postnachfolgeunternehmen fest.
 
-
-## § 28 – Übergangsregelung im Sozialwesen
+# § 28 – Übergangsregelung im Sozialwesen
 
 (1) Für die bis zum Inkrafttreten dieses Gesetzes im Bereich der früheren Deutschen Bundespost beschäftigten Beamtinnen und Beamten, Angestellten, Arbeiterinnen und Arbeiter und Auszubildenden ist der erworbene Besitzstand von den Postnachfolgeunternehmen und der Bundesanstalt nach Maßgabe des Gesetzes zur Reorganisation der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost und zur Änderung anderer Gesetze zu wahren.
 
@@ -701,7 +657,6 @@ Die Bundesanstalt legt die Grundsätze der Wohnungsfürsorge für die Postnachfo
 
 (3) Die betrieblichen Sozialeinrichtungen der früheren Deutschen Bundespost sind bis zur Anpassung der Satzungen an die sich aus dem Gesetz zur Reorganisation der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost und zur Änderung anderer Gesetze ergebenden Rechtsfolgen unter Betreuung des bislang erfaßten Personenkreises nach den bislang geltenden Regelungen weiterzuführen.
 
-
-## § 29 – Vermögensübergang
+# § 29 – Vermögensübergang
 
 Der Bundesanstalt sind nach näherer Maßgabe der §§ 13 und 14 des Postumwandlungsgesetzes ohne Wertausgleich alle Vermögensgegenstände des Sondervermögens Deutsche Bundespost einschließlich beschränkter dinglicher Rechte, die der Deutschen Bundespost persönlich eingeräumt sind, zu übertragen, die sie zur Wahrnehmung ihrer Aufgaben benötigt. Dabei gehen mit den Vermögensrechten gleichzeitig die mit ihnen im Zusammenhang stehenden Verbindlichkeiten und Forderungen über.

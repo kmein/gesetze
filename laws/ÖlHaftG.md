@@ -1,15 +1,11 @@
-# [ÖlHaftG] Gesetz zu den Internationalen Übereinkommen vom 29. November 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden und vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden
-
-Ausfertigungsdatum: 18.03.1975
-
+% Gesetz zu den Internationalen Übereinkommen vom 29. November 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden und vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden
+% Ausfertigungsdatum: 18.03.1975
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Den folgenden Übereinkommen wird zugestimmt:
 
@@ -19,8 +15,7 @@ Den folgenden Übereinkommen wird zugestimmt:
 
 Die Übereinkommen werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Die Bestimmungen des Internationalen Übereinkommens vom 29. November 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden (Haftungsübereinkommen) sind, soweit in diesem Gesetz nichts anderes bestimmt ist, auch in bezug auf Seeschiffe anzuwenden, die nicht im Schiffsregister eines Vertragsstaats eingetragen sind oder nicht die Flagge eines Vertragsstaats führen.
 
@@ -34,15 +29,13 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 (6)
 
-
-## Art 3
+# Art 3
 
 (1) Der Eigentümer eines nicht in dem Schiffsregister eines Vertragsstaats des Haftungsübereinkommens eingetragenen Seeschiffs, das mehr als zweitausend Tonnen Öl als Bulkladung befördert, hat eine Artikel VII Abs. 1 des Haftungsübereinkommens entsprechende Versicherung oder sonstige finanzielle Sicherheit für die Zeit aufrechtzuerhalten, während der sich das Schiff im Geltungsbereich dieses Gesetzes befindet.
 
 (2) (weggefallen)
 
-
-## Art 4
+# Art 4
 
 (1) Das Bestehen einer Versicherung oder sonstigen finanziellen Sicherheit nach Artikel VII Abs. 1 des Haftungsübereinkommens oder nach Artikel 3 wird durch eine behördliche Bescheinigung nachgewiesen.
 
@@ -56,8 +49,7 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 3. die gebührenpflichtigen Tatbestände für Amtshandlungen auf Grund dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die Auslagenerstattung. Die Gebühr beträgt mindestens 50 Deutsche Mark; sie darf im Einzelfall 4.000 Deutsche Mark nicht überschreiten.
 
-
-## Art 5
+# Art 5
 
 (1) Der Kapitän eines Seeschiffs ist verpflichtet, auf Fahrten, bei denen der Eigentümer nach Artikel VII Abs. 1 des Haftungsübereinkommens oder nach Artikel 3 eine Versicherung oder sonstige finanzielle Sicherheit aufrechtzuerhalten hat, die in Artikel 4 Abs. 1 genannte Bescheinigung an Bord mitzuführen und auf Verlangen der zuständigen Behörde vorzuweisen. Das gleiche gilt für die Bescheinigung nach Artikel VII Abs. 12 des Haftungsübereinkommens.
 
@@ -67,8 +59,7 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 (4) Wird auf einem in einem Schiffsregister im Geltungsbereich dieses Gesetzes eingetragenen Seeschiff Öl befördert, ohne daß eine nach Artikel VII Abs. 1 des Haftungsübereinkommens vorgeschriebene Versicherung oder sonstige finanzielle Sicherheit besteht, so ist das Schiffssicherheitszeugnis einzuziehen.
 
-
-## Art 6
+# Art 6
 
 (1) Dem Bund obliegen die Aufgaben nach Artikel 4 Abs. 2 und Artikel 5.
 
@@ -76,8 +67,7 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 (3) Zuständig für die Einziehung des Schiffssicherheitszeugnisses nach Artikel 5 Abs. 4 ist die See-Berufsgenossenschaft. § 6 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (Bundesgesetzbl. II S. 833), zuletzt geändert durch das Bundes-Immissionsschutzgesetz vom 15. März 1974 (Bundesgesetzbl. I S. 721, 1193), gilt entsprechend.
 
-
-## Art 7
+# Art 7
 
 (1) Das Bundesministerium für Wirtschaft und Technologie teilt dem Direktor des Fonds die in Artikel 15 Abs. 2 des Internationalen Übereinkommens vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden (Fondsübereinkommen) vorgesehenen Angaben hinsichtlich des im Geltungsbereich dieses Gesetzes erhaltenen beitragspflichtigen Öls mit.
 
@@ -93,20 +83,17 @@ Die Übereinkommen werden nachstehend veröffentlicht.
 
 (7) Das Bundesministerium für Wirtschaft und Technologie erläßt im Einvernehmen mit dem Bundesministerium der Justiz durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen über die in Absatz 2 vorgesehenen Angaben, deren Form und die zu wahrenden Fristen.
 
-
-## Art 8
+# Art 8
 
 (1) "Assoziierte Personen" im Sinne von Artikel 10 Abs. 2 Buchstabe b des Fondsübereinkommens sind rechtlich selbständige Unternehmen, die im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind.
 
 (2) Ob im Sinne dieses Gesetzes Unternehmen im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind, bestimmt sich nach dem sinngemäß anzuwendenden § 16 des Aktiengesetzes.
 
-
-## Art 9
+# Art 9
 
 Beschlüsse der Versammlung des Fonds nach Artikel 4 Abs. 6 Satz 1, Artikel 5 Abs. 2 Satz 1, Abs. 4 Satz 1, Artikel 11 Abs. 2 Satz 1, Artikel 12 Abs. 1 und Abs. 4 Satz 1 sowie Artikel 13 Abs. 1 des Fondsübereinkommens sind im Bundesgesetzblatt bekanntzugeben. Im Falle einer Bekanntmachung nach Artikel 5 Abs. 4 Satz 1 sind auch Erklärungen der Vertragsstaaten nach Artikel 5 Abs. 4 Satz 2 bekanntzugeben.
 
-
-## Art 10
+# Art 10
 
 Für Streitigkeiten wegen der Ansprüche
 
@@ -118,8 +105,7 @@ Für Streitigkeiten wegen der Ansprüche
 
 ist der Rechtsweg zu den ordentlichen Gerichten gegeben.
 
-
-## Art 11
+# Art 11
 
 Für Streitigkeiten wegen der Ansprüche
 
@@ -131,15 +117,13 @@ Für Streitigkeiten wegen der Ansprüche
 
 ist auch das Gericht zuständig, in dessen Bezirk sich das schädigende Ereignis zugetragen hat oder der Verschmutzungsschaden eingetreten ist oder Schutzmaßnahmen im Sinne von Artikel I Nr. 7 des Haftungsübereinkommens ergriffen oder angeordnet worden sind.
 
-
-## Art 12
+# Art 12
 
 (1) Wer als Eigentümer oder Kapitän eines Seeschiffs, für das der in Artikel VII Abs. 1 des Haftungsübereinkommens oder in Artikel 3 dieses Gesetzes vorgeschriebene Schutz durch eine Versicherung oder sonstige finanzielle Sicherheit nicht besteht, mehr als zweitausend Tonnen Öl als Bulkladung befördert oder befördern läßt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## Art 13
+# Art 13
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -153,13 +137,11 @@ ist auch das Gericht zuständig, in dessen Bezirk sich das schädigende Ereignis
 
 (2) Die Ordnungswidrigkeit kann im Falle des Absatzes 1 Nr. 1 mit einer Geldbuße bis zu fünfzigtausend, in den Fällen des Absatzes 1 Nr. 2 bis 4 mit einer Geldbuße bis zu zehntausend Deutsche Mark geahndet werden.
 
-
-## Art 14
+# Art 14
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art 15
+# Art 15
 
 (1) Artikel 1, 4 Abs. 3, Artikel 7, 8, 13 Abs. 1 Nr. 4, Abs. 2 und Artikel 14 treten am Tage nach der Verkündung dieses Gesetzes in Kraft. Artikel 2 bis 4 Abs. 2, Artikel 5 und 6, Artikel 11 Nr. 1, Artikel 12 und 13 Abs. 1 Nr. 1 bis 3 treten an dem Tage in Kraft, an dem das Haftungsübereinkommen für die Bundesrepublik Deutschland in Kraft tritt; im übrigen tritt das Gesetz an dem Tage in Kraft, an dem das Fondsübereinkommen für die Bundesrepublik Deutschland in Kraft tritt.
 

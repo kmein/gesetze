@@ -1,10 +1,7 @@
-# [AgrarZahlVerpflG] Gesetz zur Regelung der Einhaltung von Anforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen  (Agrarzahlungen-Verpflichtungengesetz - AgrarZahlVerpflG)
-
-Ausfertigungsdatum: 02.12.2014
-
+% Gesetz zur Regelung der Einhaltung von Anforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen  (Agrarzahlungen-Verpflichtungengesetz - AgrarZahlVerpflG)
+% Ausfertigungsdatum: 02.12.2014
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz dient der Durchführung des Titels VI der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549) in der jeweils geltenden Fassung und der im Rahmen dieser Verordnung oder zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union.
 
@@ -22,8 +19,7 @@ betroffen sind. Anwendbar sind nur die Vorschriften des Ersten und Zweiten Absch
 
 (3) Im Hinblick auf die in Artikel 92 Satz 1 der Verordnung (EU) Nr. 1306/2013 bezeichneten Prämien nach der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487) in der jeweils geltenden Fassung gilt dieses Gesetz nur, soweit ein Land die jeweilige Prämie gewährt.
 
-
-## § 2 – Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand
+# § 2 – Grundanforderungen an die Betriebsführung, Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand
 
 (1) Ein Begünstigter im Sinne des Artikels 92 Satz 1 der Verordnung (EU) Nr. 1306/2013 (Begünstigter) ist verpflichtet,
 
@@ -51,8 +47,7 @@ Ausnahmen von den Verpflichtungen nach Absatz 1 genehmigen. Ausnahmen im Sinne d
 
 (4) Ein Begünstigter ist von der Einhaltung der Verpflichtungen nach Absatz 1 insoweit hinsichtlich einzelner landwirtschaftlicher Flächen befreit, als ihm das Einhalten der Verpflichtungen auf Grund einer behördlichen Anordnung im Rahmen eines Verwaltungsverfahrens oder eines behördlichen Planungsverfahrens nicht möglich ist.
 
-
-## § 3 – Erhaltung von Dauergrünland nach Artikel 93 Absatz 3 der Verordnung (EU) Nr. 1306/2013
+# § 3 – Erhaltung von Dauergrünland nach Artikel 93 Absatz 3 der Verordnung (EU) Nr. 1306/2013
 
 (1) Die Länder, die die Regionen im Sinne des Absatzes 2 bilden, haben zur Durchführung des Artikels 93 Absatz 3 der Verordnung (EU) Nr. 1306/2013 und der im Rahmen dieser Verordnung oder zu ihrer Durchführung erlassenen Rechtsakte der Europäischen Union dafür Sorge zu tragen, dass auf dem Gebiet der jeweiligen Region der Anteil des Dauergrünlandes an der gesamten landwirtschaftlichen Fläche bezogen auf das Referenzjahr 2003 nicht erheblich abnimmt. Das Nähere regeln die Länder.
 
@@ -68,8 +63,7 @@ jeweils eine Region, solange die jeweiligen Länder die in Artikel 92 Satz 1 der
 
 (+++ § 3: Zur Anwendung vgl. § 7 Abs. 1 +++)
 
-
-## § 4 – Ermächtigungen
+# § 4 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates, um Regelungen im Sinne des § 1 Absatz 1 sachgerecht durchzuführen,
 
@@ -99,8 +93,7 @@ zu regeln. § 6 Absatz 4 Satz 2 des Marktorganisationsgesetzes gilt entsprechend
 
 (+++ § 4 Abs. 3 Nr. 1 u. 2: Zur Anwendung vgl. § 7 Abs. 1 +++)
 
-
-## § 5 – Anwendung des Integrierten Verwaltungs- und Kontrollsystems
+# § 5 – Anwendung des Integrierten Verwaltungs- und Kontrollsystems
 
 (1) Das Integrierte Verwaltungs- und Kontrollsystem nach Titel V Kapitel II der Verordnung (EU) Nr. 1306/2013 und insbesondere die Bestandteile des Systems nach Artikel 68 Absatz 1 Buchstabe a, b, d, e und f der Verordnung (EU) Nr. 1306/2013 werden zum Zwecke der Kontrolle der Vorgaben aus Artikel 96 Absatz 1 der Verordnung (EU) Nr. 1306/2013 angewendet.
 
@@ -110,13 +103,11 @@ zu regeln. § 6 Absatz 4 Satz 2 des Marktorganisationsgesetzes gilt entsprechend
 
 (4) Verwaltungskontrollen im Sinne des Artikels 96 Absatz 2 der Verordnung (EU) Nr. 1306/2013 sind nicht durchzuführen.
 
-
-## § 6 – Verkündung von Rechtsverordnungen
+# § 6 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 7 – Übergangsregelungen
+# § 7 – Übergangsregelungen
 
 (1) Die §§ 3 und 4 Absatz 3 Nummer 1 und 2 und Rechtsverordnungen auf Grund des § 4 Absatz 3 Nummer 1 und 2 sind mit Ablauf des 31. Dezember 2016 nicht mehr anzuwenden.
 

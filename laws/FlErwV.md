@@ -1,15 +1,11 @@
-# [FlErwV] Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und das Verfahren nach dem Ausgleichsleistungsgesetz  (Flächenerwerbsverordnung - FlErwV)
-
-Ausfertigungsdatum: 20.12.1995
-
+% Verordnung über den Erwerb land- und forstwirtschaftlicher Flächen und das Verfahren nach dem Ausgleichsleistungsgesetz  (Flächenerwerbsverordnung - FlErwV)
+% Ausfertigungsdatum: 20.12.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 3 des Ausgleichsleistungsgesetzes vom 27. September 1994 (BGBl. I S. 2624, 2628) verordnet die Bundesregierung:
 
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Berechtigter ist, wer auf Grund des § 3 des Ausgleichsleistungsgesetzes oder des § 1 Abs. 1 Satz 6 des Entschädigungsgesetzes in Verbindung mit dieser Rechtsverordnung land- und forstwirtschaftliche Flächen erwerben kann.
 
@@ -25,8 +21,7 @@ b) ihre land- und forstwirtschaftliche Nutzung ausgeschlossen ist oder ausgeschl
 
 (5) Als juristische Person des Privatrechts im Sinne des § 3 des Ausgleichsleistungsgesetzes gilt auch eine Kommanditgesellschaft, bei der kein persönlich haftender Gesellschafter eine natürliche Person ist.
 
-
-## § 2 – Erwerbsmöglichkeit des Pächters landwirtschaftlicher Flächen
+# § 2 – Erwerbsmöglichkeit des Pächters landwirtschaftlicher Flächen
 
 (1) Ein Pachtverhältnis im Sinne des § 3 Abs. 1 des Ausgleichsleistungsgesetzes liegt vor, wenn zum Zeitpunkt des Kaufvertrages ein für mindestens sechs Jahre abgeschlossener Pachtvertrag über von der Treuhandanstalt zu privatisierende landwirtschaftliche Flächen ungekündigt besteht. Berechtigt ist nicht, wer Flächen auf Grund eines Unterpachtvertrages bewirtschaftet. Über Kaufanträge von Berechtigten, die Flächen unterverpachtet haben, kann erst entschieden werden, wenn der Pächter die Selbstbewirtschaftung aufgenommen hat. Selbstbewirtschaftung liegt insbesondere vor, wenn dem Pächter das wirtschaftliche Ergebnis des landwirtschaftlichen Betriebes unmittelbar zum Vor- oder Nachteil gereicht und er die für die Führung des Betriebes wesentlichen Entscheidungen selbst trifft. Der Vorrang des Pächters gemäß § 3 Abs. 5 Satz 8 des Ausgleichsleistungsgesetzes bleibt bestehen, solange er wegen zulässiger Unterverpachtung die Selbstbewirtschaftung im Sinne des Satzes 4 noch nicht aufgenommen hat.
 
@@ -40,13 +35,11 @@ b) ihre land- und forstwirtschaftliche Nutzung ausgeschlossen ist oder ausgeschl
 
 (6) Umwandlungen landwirtschaftlicher Unternehmen, die nach dem Abschluß eines langfristigen Pachtvertrages vorgenommen werden, lassen Grund und Höhe des Erwerbsanspruchs unberührt. Im Fall der Umwandlung zur Aufnahme sind die durch die Umwandlung übertragenen Vermögensteile für die Zwecke des Flächenerwerbs dem übertragenden Rechtsträger zuzurechnen. Das übernehmende Unternehmen erhält jedoch nicht mehr, als ihm vor der Umwandlung zustand. Die bewirtschaftete landwirtschaftlich genutzte Fläche wird nach den Verhältnissen vor der Umwandlung ermittelt.
 
-
-## § 3 – Erwerb landwirtschaftlicher Flächen durch den nicht selbstbewirtschaftenden früheren Eigentümer
+# § 3 – Erwerb landwirtschaftlicher Flächen durch den nicht selbstbewirtschaftenden früheren Eigentümer
 
 Ein Berechtigter nach § 3 Abs. 5 Satz 1 des Ausgleichsleistungsgesetzes kann landwirtschaftliche Flächen nach § 3 Abs. 5 Satz 2 des Ausgleichsleistungsgesetzes nur für den Teil seiner Ausgleichsleistung erwerben, den er für den Verlust land- und forstwirtschaftlichen Vermögens erhalten hat. Soweit der Berechtigte ausschließlich für den Verlust forstwirtschaftlichen Vermögens Ausgleichsleistungen erhalten hat, ist der Erwerb landwirtschaftlicher Flächen ausgeschlossen.
 
-
-## § 4 – Erwerbsmöglichkeit von Waldflächen
+# § 4 – Erwerbsmöglichkeit von Waldflächen
 
 (1) Berechtigte nach § 3 Abs. 8 Satz 1 des Ausgleichsleistungsgesetzes sind natürliche Personen, die land- und forstwirtschaftliches Vermögen durch Zwangsmaßnahmen nach § 1 Abs. 1, 3, 6, 7 oder 8 Buchstabe a des Vermögensgesetzes verloren haben und diese nicht zurückerhalten können, oder deren Erben und Erbeserben.
 
@@ -68,15 +61,13 @@ Ein Berechtigter nach § 3 Abs. 5 Satz 1 des Ausgleichsleistungsgesetzes kann la
 
 (6) Es kann weder die Bildung bestimmter Verkaufseinheiten noch die Zerteilung forstbetrieblich sinnvoll zusammengehörender Waldflächen verlangt werden.
 
-
-## § 5 – Kaufpreis für landwirtschaftliche Flächen
+# § 5 – Kaufpreis für landwirtschaftliche Flächen
 
 (1) Der Verkehrswert für landwirtschaftliche Flächen nach § 3 Abs. 7 Satz 1, Satz 6 und § 3a Abs. 2 des Ausgleichsleistungsgesetzes wird ermittelt nach den Vorgaben der Wertermittlungsverordnung vom 6. Dezember 1988 (BGBl. I S. 2209), zuletzt geändert durch Gesetz vom 18. August 1997 (BGBl. I S. 2081, 2110). Soweit für Acker- und Grünland regionale Wertansätze vorliegen, soll der Wert hiernach bestimmt werden. Die regionalen Wertansätze werden vom Bundesminister der Finanzen im Bundesanzeiger veröffentlicht. Wenn tatsächliche Anhaltspunkte dafür vorliegen, dass die regionalen Wertansätze als Ermittlungsgrundlage ungeeignet sind, unterbreitet die Privatisierungsstelle ein die Wertentwicklung berücksichtigendes Angebot. Kommt eine Einigung nicht zustande, können der Kaufbewerber oder die Privatisierungsstelle eine Bestimmung des Verkehrswertes durch ein Verkehrswertgutachten des nach § 192 des Baugesetzbuches eingerichteten und örtlich zuständigen Gutachterausschusses oder eines öffentlich bestellten und vereidigten Sachverständigen, bei dem auch die aktuelle Wertentwicklung nach Bieterverfahren für vergleichbare Flächen für die Verkehrswertermittlung heranzuziehen ist, verlangen.
 
 (2) Die Privatisierungsstelle kann verlangen, daß unbebaute Flächen sowie Wohn- und Wirtschaftsgebäude miterworben werden, die aufgrund des räumlichen Zusammenhangs mit den nach § 3 des Ausgleichsleistungsgesetzes zu erwerbenden Flächen nicht anderweitig verwertet werden können.
 
-
-## § 6 – Kaufpreis für Waldflächen
+# § 6 – Kaufpreis für Waldflächen
 
 (1) Der Kaufpreis für Waldflächen, mit einem Anteil hiebsreifer Bestände von weniger als zehn vom Hundert ist auf der Grundlage der 10. Verordnung zur Durchführung des Feststellungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 622-1-DV 10, veröffentlichten bereinigten Fassung unter Berücksichtigung der nachfolgenden Maßgaben zu ermitteln. Die Daten für den gegenwärtigen Waldbestand werden dem jährlich aktualisierten Datenspeicher Waldfonds entnommen. Holzartengruppen sind nach § 3 der 10. Verordnung zur Durchführung des Feststellungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 622-1-DV 10, veröffentlichten bereinigten Fassung zu bilden; für Hochwald werden die Werte nach § 5, für Niederwald und Nichtwirtschaftswald nach § 6 sowie für Mittelwald nach § 7 der 10. Verordnung zur Durchführung des Feststellungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 622-1-DV 10, veröffentlichten bereinigten Fassung ermittelt. Die Wertgruppen nach § 2 Abs. 3 Nr. 3 der 10. Verordnung zur Durchführung des Feststellungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 622-1-DV 10, veröffentlichten bereinigten Fassung sind außer bei der Holzartengruppe Kiefer der Spalte 4 der Anlage 2 (Kreisverzeichnis mit Angabe der Wertgruppen) zur 2. Verordnung zur Durchführung des Beweissicherungs- und Feststellungsgesetzes vom 13. Mai 1967 (BGBl. I S. 291) zu entnehmen. Bei der Holzartengruppe Kiefer ist die Wertgruppe aus dem Kreisverzeichnis auf die der nächsthöheren folgende volle Stufe heraufzusetzen. Abschläge für etwaige Bestandsschäden zum Beispiel Schälschäden sind nicht zulässig. Kaufpreis ist vorbehaltlich der Absatz 3 bis 5 das Dreifache des nach Satz 1 bis 6 ermittelten Wertes.
 
@@ -84,18 +75,15 @@ Ein Berechtigter nach § 3 Abs. 5 Satz 1 des Ausgleichsleistungsgesetzes kann la
 
 (3) § 5 Abs. 2 gilt entsprechend.
 
-
-## § 7 – Inhalt des Kaufantrages
+# § 7 – Inhalt des Kaufantrages
 
 Kaufanträge sind schriftlich bei der von der Bundesanstalt für vereinigungsbedingte Sonderaufgaben beauftragten Stelle für die Privatisierung land- und forstwirtschaftlicher Flächen (Privatisierungsstelle) einzureichen. Dabei sind Nachweise, soweit sie der Privatisierungsstelle nicht bereits vorliegen, gemäß den Anlagen zu erbringen. Sie sind subventionserheblich im Sinne des § 264 des Strafgesetzbuches. Vor Abschluss des notariell beurkundeten Kaufvertrages ist der Privatisierungsstelle ein den Anlagen entsprechender aktueller Finanzierungsnachweis vorzulegen.
 
-
-## § 8 – Antragsfrist
+# § 8 – Antragsfrist
 
 Kaufanträge nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes sind bis spätestens 31. August 2001 einzureichen (Ausschlußfrist), soweit sich nicht aus § 9 Abs. 2 ein früherer Fristablauf ergibt. Kaufinteressenten, die nach Ablauf der in Satz 1 genannten Frist einen langfristigen Pachtvertrag nach § 2 Abs. 1 Satz 1 über nach § 3 Abs. 1 des Ausgleichsleistungsgesetzes zu privatisierende landwirtschaftliche Flächen abschließen, können den Kaufantrag innerhalb eines Jahres nach Beschluss des langfristigen Pachtvertrages stellen.
 
-
-## § 9 – Vorbereitung des Flächenerwerbs
+# § 9 – Vorbereitung des Flächenerwerbs
 
 (1) Die Privatisierungsstelle überprüft die Berechtigung des Kaufbewerbers und den Umfang seiner Berechtigung. Sie schlägt die zu erwerbenden Flächen vor und ermittelt den Kaufpreis nach Maßgabe der §§ 5 und 6.
 
@@ -103,8 +91,7 @@ Kaufanträge nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes sind bis sp�
 
 (3) Die Privatisierungsstelle leitet ihr begründetes Prüfungsergebnis der zuständigen Landesbehörde zu. Diese kann sich innerhalb von zwei Monaten hierzu äußern.
 
-
-## § 10 – Verkaufsangebot
+# § 10 – Verkaufsangebot
 
 (1) Die Privatisierungsstelle übermittelt nach Prüfung der Erwerbsvoraussetzungen dem allein oder vorrangig zu berücksichtigenden Bewerber ein privatschriftliches Vertragsangebot. Die Privatisierungsstelle ist berechtigt, einen Erwerbsantrag abzulehnen, wenn der Berechtigte aus von ihm zu vertretenden Gründen die erforderlichen Nachweise nach Aufforderung durch die Privatisierungsstelle nicht innerhalb der gesetzten Frist vorlegt oder ein privatschriftliches Angebot der Privatisierungsstelle nicht innerhalb der hierzu gesetzten Frist zum Abschluss eines notariell beurkundeten Kaufvertrages führt. Kaufbewerber nach § 3 Abs. 5 des Ausgleichsleistungsgesetzes werden aufgefordert, den Entschädigungs- oder Ausgleichsleistungsbescheid als Voraussetzung für den Abschluß des Kaufvertrages vorzulegen. Nicht berücksichtigten Bewerbern teilt sie die Ablehnung sowie den vorgesehenen Termin für den Abschluß des Kaufvertrages mit dem berücksichtigten Bewerber mit. Dieser Termin soll frühestens auf einen Monat festgesetzt werden. Ist der nicht berücksichtigte Bewerber Berechtigter, soll die Ablehnung mit der Einladung zur Fortsetzung der Kaufverhandlungen über andere der Privatisierungsstelle verfügbare Flächen verbunden werden.
 
@@ -114,13 +101,11 @@ Kaufanträge nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes sind bis sp�
 
 (4) (weggefallen)
 
-
-## § 11 – Abschluß des Kaufvertrages
+# § 11 – Abschluß des Kaufvertrages
 
 Für den Abschluss des Vertrages gelten die Vorschriften des Bürgerlichen Rechts. Der Erwerber soll zur Übernahme der Erwerbskosten, insbesondere auch der Grunderwerbsteuer, verpflichtet werden. Dies gilt auch für die Kosten der notariellen Beurkundung der Zusage nach § 3 Abs. 1 Satz 3 des Ausgleichsleistungsgesetzes.
 
-
-## § 12 – Sicherung der Zweckbindung
+# § 12 – Sicherung der Zweckbindung
 
 (1) Die Privatisierungsstelle soll in dem Vertrag vereinbaren, daß der Veräußerer von dem Vertrag zurücktreten kann, wenn
 
@@ -173,8 +158,7 @@ der Privatisierungsstelle innerhalb eines Monats anzuzeigen.
 
 (9) Im Fall des Rücktritts soll jeder Teil verpflichtet werden, dem anderen Teil die empfangenen Leistungen zurückzugewähren; die Ausübung des Rücktrittsrechts kann auf Teile der empfangenen Leistung begrenzt werden. Den Wert der Nutzungen soll der Erwerber nur insoweit ersetzen müssen, als im Übermaß Früchte gezogen sind. Der Erwerber soll Anspruch auf Verwendungsersatz gemäß § 996 des Bürgerlichen Gesetzbuchs haben.
 
-
-## § 13 – Grundbuchvollzug
+# § 13 – Grundbuchvollzug
 
 (1) Im Kaufvertrag soll auch festgestellt werden, daß die erworbenen Flächen dem in § 3 Abs. 10 Satz 1 des Ausgleichsleistungsgesetzes bestimmten Veräußerungsverbot (Veräußerungsverbot) unterliegen. Soweit das der Fall ist, stellt eine von der Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder ihrem Rechtsnachfolger ermächtigte Person oder Stelle dies in einer mit Dienstsiegel und Unterschrift versehenen Bescheinigung fest. Enthält der Kaufvertrag die Feststellung nach Satz 1 nicht, gilt das Grundstück als von dem Veräußerungsverbot nicht erfaßt.
 
@@ -196,30 +180,25 @@ Die Begründung von Miteigentum, auch im Zusammenhang mit der Begründung von Te
 
 (7) Bei einem Rücktritt des Käufers nach § 3a Abs. 4 des Ausgleichsleistungsgesetzes trägt die Privatisierungsstelle die Notar- und Grundbuchkosten.
 
-
-## § 14 – Privatisierungsstelle
+# § 14 – Privatisierungsstelle
 
 Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder im Falle ihrer Auflösung ihr Rechtsnachfolger bestimmt die Privatisierungsstelle. Sie kann Maßnahmen der Privatisierungsstelle von ihrer Zustimmung abhängig machen.
 
-
-## § 15 – Verkauf an Nichtberechtigte
+# § 15 – Verkauf an Nichtberechtigte
 
 (1) Bis zum Abschluß des Flächenerwerbs nach § 3 Abs. 9 des Ausgleichsleistungsgesetzes sollen langfristig verpachtete landwirtschaftliche Flächen an Nichtberechtigte zu landwirtschaftlichen Zwecken nicht verkauft werden. Ausnahmsweise kann vom Bundesministerium der Finanzen zugelassen werden, daß schon vor dem in Satz 1 genannten Zeitpunkt in begrenztem Umfang Flächen, die für Naturschutzprojekte von gesamtstaatlicher Bedeutung benötigt werden, an deren Träger veräußert werden; § 3 Abs. 5 Satz 7 des Ausgleichsleistungsgesetzes gilt entsprechend. Über weitere Ausnahmen entscheidet das Bundesministerium der Finanzen auf Vorschlag der zuständigen Landesbehörde. Im Kaufvertrag ist vorzusehen, daß der Veräußerer bis zum 31. Dezember 2006 vom Vertrag zurücktreten kann, wenn die Flächen zur Erfüllung von Erwerbsanträgen nach § 3 Abs. 5 des Ausgleichsleistungsgesetzes benötigt werden. § 12 Abs. 10 gilt entsprechend. Ein Ausgleich für naturschutzrechtliche Nutzungsbeschränkungen ist ausgeschlossen, soweit die Flächen im Rahmen eines Naturschutzprojektes von dessen Träger erworben worden waren.
 
 (2) Nach Maßgabe von § 4 Abs. 3 Satz 1 können Waldflächen an Nichtberechtigte bis zu einem Umfang von 40 000 Hektar pro Jahr verkauft werden. Verkäufe von Waldflächen an Träger von Naturschutzprojekten im Sinne des Absatzes 1 Satz 2 erster Halbsatz werden auf den in Satz 1 genannten Höchstbetrag nicht angerechnet.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 7)
+# Anlage 1 – (zu § 7)
 
 Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes durch natürliche Personen
 
@@ -233,8 +212,7 @@ Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgl
 
 5. Benennung der Flurstücke, die der Kaufbewerber erwerben will
 
-5a.  
-Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
+5a. Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
 
 6. Erklärung, der Kaufantrag werde zu den Bedingungen der §§ 3 und 4 des Ausgleichsleistungsgesetzes sowie dieser Rechtsverordnung gestellt
 
@@ -259,8 +237,7 @@ Benennung aller im Beitrittsgebiet im Eigentum der Gesellschaft und der Gesellsc
 \-  
 Angaben über eine etwaige Umwandlung des Unternehmens nach den Vorschriften des Umwandlungsgesetzes oder § 38a des Landwirtschaftsanpassungsgesetzes in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), zuletzt geändert durch Artikel 19 des Gesetzes vom 28. Oktober 1994 (BGBl. I S. 3210)
 
-
-## Anlage 2 – (zu § 7)
+# Anlage 2 – (zu § 7)
 
 Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes durch juristische Personen des Privatrechts
 
@@ -270,8 +247,7 @@ Erwerb land- und forstwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgl
 
 3. Benennung der Flurstücke, die der Kaufbewerber erwerben will
 
-3a.  
-Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
+3a. Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
 
 4. Erklärung, der Kaufantrag werde zu den Bedingungen der §§ 3 und 4 des Ausgleichsleistungsgesetzes sowie dieser Rechtsverordnung gestellt
 
@@ -285,8 +261,7 @@ Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europ
 
 9. Verpflichtungserklärung des Kaufbewerbers, jede Veränderung der Zusammensetzung der Gesellschaft im Sinne der Nummer 7 auf die Dauer von 15 Jahren unverzüglich der Privatisierungsstelle mitzuteilen
 
-
-## Anlage 3 – (zu § 7)
+# Anlage 3 – (zu § 7)
 
 Erwerb landwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgleichsleistungsgesetzes durch Gesellschafter juristischer Personen des Privatrechts
 
@@ -294,8 +269,7 @@ Erwerb landwirtschaftlicher Flächen nach § 3 Abs. 1 bis 4 des Ausgleichsleistu
 
 2. Benennung der Flurstücke, die der Kaufbewerber erwerben will
 
-2a.  
-Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
+2a. Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
 
 3. Erklärung, der Kaufantrag werde zu den Bedingungen der §§ 3 und 4 des Ausgleichsleistungsgesetzes sowie dieser Rechtsverordnung gestellt
 
@@ -321,8 +295,7 @@ Nachweis über die Einigung mit der Gesellschaft betreffend die gegebenenfalls a
 
 11. Verpflichtungserklärung, 15 Jahre für Verbindlichkeiten der Gesellschaft mit den erworbenen Flächen zu haften
 
-
-## Anlage 4 – (zu § 7)
+# Anlage 4 – (zu § 7)
 
 Erwerb land- und forstwirtschaftlicher Flächen durch frühere Eigentümer (§ 3 Abs. 5 des Ausgleichsleistungsgesetzes)
 
@@ -347,8 +320,7 @@ Nachweis der zustehenden beziehungsweise übertragenen Erbanteile
 
 4. Benennung der Flächen, die der Kaufbewerber erwerben will
 
-4a.  
-Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
+4a. Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
 
 5. Erklärung, der Kaufantrag werde zu den Bedingungen der §§ 3 und 4 des Ausgleichsleistungsgesetzes sowie dieser Rechtsverordnung gestellt
 
@@ -358,8 +330,7 @@ Bei Erwerb landwirtschaftlicher Flächen zusätzlich
 
 7. Verpflichtungserklärung, bestehende Pachtverträge über die zu erwerbenden Flächen bis zu einer Gesamtlaufzeit von 18 Jahren zu verlängern
 
-
-## Anlage 5 – (zu § 7)
+# Anlage 5 – (zu § 7)
 
 Erwerb forstwirtschaftlicher Flächen nach § 3 Abs. 8 des Ausgleichsleistungsgesetzes durch frühere Eigentümer
 
@@ -375,8 +346,7 @@ Nachweis der zustehenden beziehungsweise übertragenen Erbanteile
 
 4. Benennung der Flächen, die der Kaufbewerber erwerben will
 
-4a.  
-Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
+4a. Finanzierungsnachweis einer Bank, die der Bankenaufsicht eines Staates der Europäischen Union, Liechtensteins oder der Schweiz unterliegt
 
 5. Erklärung, der Kaufantrag werde zu den Bedingungen der §§ 3 und 4 des Ausgleichsleistungsgesetzes sowie dieser Rechtsverordnung gestellt
 

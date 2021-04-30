@@ -1,10 +1,7 @@
-# [WODrittelbG] Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer nach dem Drittelbeteiligungsgesetz  (Wahlordnung zum Drittelbeteiligungsgesetz - WODrittelbG)
-
-Ausfertigungsdatum: 23.06.2004
-
+% Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer nach dem Drittelbeteiligungsgesetz  (Wahlordnung zum Drittelbeteiligungsgesetz - WODrittelbG)
+% Ausfertigungsdatum: 23.06.2004
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -132,13 +129,11 @@ Teil 4 Schlussbestimmung
 
 50
 
-
-## § 1 – Mitteilung des Unternehmens
+# § 1 – Mitteilung des Unternehmens
 
 Das zur gesetzlichen Vertretung berufene Organ eines Unternehmens, dessen Aufsichtsrat nach § 1 des Gesetzes Arbeitnehmervertreter angehören müssen, teilt dem Betriebsrat oder, soweit ein solcher nicht besteht, den Arbeitnehmern spätestens 14 Wochen vor dem voraussichtlichen Beginn der Amtszeit der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer mit, dass Arbeitnehmervertreter in den Aufsichtsrat zu wählen sind. Dabei sind der voraussichtliche Beginn ihrer Amtszeit sowie die Zahl der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer anzugeben. Die Wahl der Arbeitnehmervertreter soll so durchgeführt werden, dass das Wahlergebnis möglichst zwei Wochen vor dem voraussichtlichen Beginn der Amtszeit feststeht.
 
-
-## § 2 – Betriebswahlvorstand, Bildung und Zusammensetzung
+# § 2 – Betriebswahlvorstand, Bildung und Zusammensetzung
 
 (1) Unverzüglich nach der in § 1 bezeichneten Mitteilung wird der Betriebswahlvorstand gebildet. Ihm obliegt die Durchführung der Wahl und die Feststellung des Wahlergebnisses.
 
@@ -150,8 +145,7 @@ Das zur gesetzlichen Vertretung berufene Organ eines Unternehmens, dessen Aufsic
 
 (5) Der Betriebswahlvorstand teilt unverzüglich nach seiner Bildung dem Unternehmen schriftlich die Namen seiner Mitglieder und seine Betriebsanschrift mit.
 
-
-## § 3 – Geschäftsführung des Betriebswahlvorstands
+# § 3 – Geschäftsführung des Betriebswahlvorstands
 
 (1) Der Betriebswahlvorstand wählt aus seiner Mitte einen Vorsitzenden und mindestens einen Stellvertreter. Der Betriebswahlvorstand kann sich eine schriftliche Geschäftsordnung geben. Er kann Wahlberechtigte als Wahlhelfer zu seiner Unterstützung bei der Durchführung der Stimmabgabe und bei der Stimmenzählung heranziehen.
 
@@ -163,8 +157,7 @@ Das zur gesetzlichen Vertretung berufene Organ eines Unternehmens, dessen Aufsic
 
 (5) Der Betriebswahlvorstand soll dafür sorgen, dass ausländische Arbeitnehmer, die der deutschen Sprache nicht mächtig sind, rechtzeitig und in geeigneter Weise über den Anlass der Wahl sowie das Wahlverfahren unterrichtet werden.
 
-
-## § 4 – Wählerliste
+# § 4 – Wählerliste
 
 (1) Der Betriebswahlvorstand stellt unverzüglich nach seiner Bildung eine Liste der Wahlberechtigten (Wählerliste) auf. Die Wahlberechtigten sollen in alphabetischer Reihenfolge mit Familienname, Vorname, Geburtsdatum aufgeführt werden. Die Wählerliste kann durch Einsatz der im Betrieb vorhandenen Informations- und Kommunikationstechnik aufgestellt werden, wenn Vorkehrungen getroffen sind, damit nur der Betriebswahlvorstand Änderungen in der Wählerliste vornehmen kann.
 
@@ -182,8 +175,7 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 
 (5) Wahlberechtigt ist nur, wer in der Wählerliste eingetragen ist.
 
-
-## § 5 – Wahlausschreiben, Einleitung der Wahl, Bekanntmachung
+# § 5 – Wahlausschreiben, Einleitung der Wahl, Bekanntmachung
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erlässt der Betriebswahlvorstand ein Wahlausschreiben. Mit Erlass des Wahlausschreibens ist die Wahl eingeleitet.
 
@@ -225,8 +217,7 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 
 (3) Der Betriebswahlvorstand macht das Wahlausschreiben am Tag seines Erlasses bis zum Abschluss der Wahl der Aufsichtsratsmitglieder bekannt (§ 3 Abs. 3).
 
-
-## § 6 – Einspruch gegen die Wählerliste
+# § 6 – Einspruch gegen die Wählerliste
 
 (1) Einsprüche gegen die Richtigkeit der Wählerliste können innerhalb von einer Woche seit Erlass des Wahlausschreibens schriftlich beim Betriebswahlvorstand eingelegt werden. Einsprüche gegen Berichtigungen und Ergänzungen der Wählerliste können innerhalb von einer Woche seit der Berichtigung oder der Ergänzung eingelegt werden.
 
@@ -234,8 +225,7 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 
 (3) Die Wählerliste kann nach Ablauf der Einspruchsfrist nur bei Schreibfehlern und offenbaren Unrichtigkeiten oder in Erledigung rechtzeitig eingelegter Einsprüche berichtigt werden.
 
-
-## § 7 – Wahlvorschläge
+# § 7 – Wahlvorschläge
 
 (1) Die Wahl erfolgt auf Grund von Wahlvorschlägen des Betriebsrats und der Arbeitnehmer. Die Wahlvorschläge sind innerhalb von zwei Wochen seit Erlass des Wahlausschreibens schriftlich beim Betriebswahlvorstand einzureichen.
 
@@ -247,22 +237,19 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 
 (5) Ein Bewerber kann nur auf einem Wahlvorschlag vorgeschlagen werden. Ist sein Name mit seiner schriftlichen Zustimmung (Absatz 2 Satz 3) auf mehreren Wahlvorschlägen aufgeführt, so hat er auf Aufforderung des Betriebswahlvorstands innerhalb von einer Woche zu erklären, welche Bewerbung er aufrechterhält. Unterbleibt die fristgerechte Erklärung, so ist der Bewerber auf sämtlichen Wahlvorschlägen zu streichen.
 
-
-## § 8 – Wahlvorschläge für Ersatzmitglieder
+# § 8 – Wahlvorschläge für Ersatzmitglieder
 
 (1) Wird zusammen mit einem Bewerber für diesen ein Ersatzmitglied des Aufsichtsrats vorgeschlagen (§ 7 Abs. 1 des Gesetzes), gilt § 7 Abs. 5 entsprechend.
 
 (2) Jedes vorgeschlagene Ersatzmitglied ist in dem Wahlvorschlag unter Angabe von Familienname, Vorname, Geburtsdatum und Art der Beschäftigung neben dem Bewerber aufzuführen, für den es als Ersatzmitglied des Aufsichtsrats vorgeschlagen wird. In dem Wahlvorschlag ist kenntlich zu machen, wer als Mitglied und wer als Ersatzmitglied des Aufsichtsrats vorgeschlagen wird. § 7 Abs. 2 Satz 3 gilt entsprechend.
 
-
-## § 9 – Bestätigung und Prüfung der Wahlvorschläge
+# § 9 – Bestätigung und Prüfung der Wahlvorschläge
 
 (1) Der Betriebswahlvorstand bestätigt dem Vorschlagsvertreter schriftlich den Zeitpunkt der Einreichung des Wahlvorschlags.
 
 (2) Der Betriebswahlvorstand hat unverzüglich den Wahlvorschlag zu prüfen und bei Ungültigkeit oder Beanstandung den Vorschlagsvertreter schriftlich unter Angabe der Gründe zu unterrichten.
 
-
-## § 10 – Ungültige Wahlvorschläge
+# § 10 – Ungültige Wahlvorschläge
 
 (1) Ungültig sind Wahlvorschläge,
 
@@ -280,20 +267,17 @@ oder wenn sich in sonstiger Weise die Voraussetzungen, auf denen eine Eintragung
 
 sind ungültig, wenn der Betriebswahlvorstand sie beanstandet hat und die Mängel nicht innerhalb von einer Woche seit der Beanstandung beseitigt worden sind.
 
-
-## § 11 – Nachfrist für Wahlvorschläge
+# § 11 – Nachfrist für Wahlvorschläge
 
 (1) Ist nach Ablauf der in § 7 Abs. 1 genannten Frist kein gültiger Wahlvorschlag eingereicht, so hat dies der Betriebswahlvorstand sofort in der gleichen Weise bekannt zu machen wie das Wahlausschreiben (§ 5 Abs. 3) und eine Nachfrist von einer Woche für die Einreichung von Wahlvorschlägen zu setzen. In der Bekanntmachung ist darauf hinzuweisen, dass die Wahl nur stattfinden kann, wenn innerhalb der Nachfrist mindestens ein gültiger Wahlvorschlag eingereicht wird.
 
 (2) Wird bis zum Ablauf der Nachfrist kein gültiger Wahlvorschlag eingereicht, so macht der Betriebswahlvorstand unverzüglich bekannt, dass die Wahl nicht stattfindet.
 
-
-## § 12 – Bekanntmachung der Wahlvorschläge
+# § 12 – Bekanntmachung der Wahlvorschläge
 
 Spätestens eine Woche vor dem ersten Tag der Stimmabgabe macht der Betriebswahlvorstand die gültigen Wahlvorschläge in gleicher Weise bekannt wie das Wahlausschreiben (§ 5 Abs. 3).
 
-
-## § 13 – Stimmabgabe, Stimmzettel
+# § 13 – Stimmabgabe, Stimmzettel
 
 (1) Der Wähler kann seine Stimme nur für Bewerber eines als gültig anerkannten Wahlvorschlags abgeben. Die Stimmabgabe erfolgt durch Abgabe von Stimmzetteln.
 
@@ -309,8 +293,7 @@ Spätestens eine Woche vor dem ersten Tag der Stimmabgabe macht der Betriebswahl
 
 4. die andere als die in Absatz 2 bezeichneten Angaben, einen Zusatz oder sonstige Änderungen enthalten.
 
-
-## § 14 – Wahlvorgang
+# § 14 – Wahlvorgang
 
 (1) Der Betriebswahlvorstand hat geeignete Vorkehrungen für die unbeobachtete Kennzeichnung der Stimmzettel im Wahlraum zu treffen und für die Bereitstellung einer oder mehrerer Wahlurnen zu sorgen. Die Wahlurne muss vom Betriebswahlvorstand verschlossen und so eingerichtet sein, dass die eingeworfenen Stimmzettel nicht herausgenommen werden können, ohne dass die Urne geöffnet wird.
 
@@ -322,11 +305,9 @@ Spätestens eine Woche vor dem ersten Tag der Stimmabgabe macht der Betriebswahl
 
 (5) Nach Abschluss der Stimmabgabe ist die Wahlurne zu versiegeln, wenn die Stimmauszählung nicht unmittelbar nach Beendigung der Wahl durchgeführt wird; dies gilt auch, wenn die Stimmabgabe unterbrochen wird.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## § 16 – Voraussetzungen der schriftlichen Stimmabgabe
+# § 16 – Voraussetzungen der schriftlichen Stimmabgabe
 
 (1) Einem Wahlberechtigten, der im Zeitpunkt der Wahl wegen Abwesenheit vom Betrieb verhindert ist, seine Stimme persönlich abzugeben, hat der Betriebswahlvorstand auf sein Verlangen
 
@@ -350,8 +331,7 @@ auszuhändigen oder zu übersenden. Der Betriebswahlvorstand soll dem Wahlberech
 
 Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 17 – Verfahren bei der schriftlichen Stimmabgabe
+# § 17 – Verfahren bei der schriftlichen Stimmabgabe
 
 (1) Die Stimmabgabe erfolgt in der Weise, dass der Wähler
 
@@ -365,8 +345,7 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (3) Verspätet eingehende Wahlbriefe nimmt der Betriebswahlvorstand mit einem Vermerk über den Zeitpunkt des Eingangs ungeöffnet zu den Wahlunterlagen. Die Wahlbriefe sind einen Monat nach Bekanntgabe des Ergebnisses der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
-
-## § 18 – Öffentliche Stimmauszählung
+# § 18 – Öffentliche Stimmauszählung
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Betriebswahlvorstand öffentlich die Stimmen aus.
 
@@ -376,13 +355,11 @@ Absatz 2 ist entsprechend anzuwenden.
 
 (4) (weggefallen)
 
-
-## § 19 – Ermittlung der Gewählten
+# § 19 – Ermittlung der Gewählten
 
 Gewählt sind die Bewerber, die die meisten Stimmen erhalten haben. Muss der zu Wählende Arbeitnehmer des Unternehmens sein (§ 4 des Gesetzes), so sind die Bewerber gewählt, die diese Voraussetzung erfüllen und die meisten Stimmen erhalten haben. Bei Stimmengleichheit entscheidet jeweils das Los.
 
-
-## § 20 – Niederschrift des Wahlergebnisses
+# § 20 – Niederschrift des Wahlergebnisses
 
 Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer Niederschrift fest:
 
@@ -400,32 +377,27 @@ Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand in einer N
 
 7. besondere während der Wahl eingetretene Zwischenfälle oder sonstige Ereignisse.
 
-
-## § 21 – Bekanntmachung des Wahlergebnisses und Benachrichtigung der Gewählten
+# § 21 – Bekanntmachung des Wahlergebnisses und Benachrichtigung der Gewählten
 
 (1) Der Betriebswahlvorstand macht das Wahlergebnis und die Namen der Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
 
 (2) Gleichzeitig benachrichtigt der Betriebswahlvorstand die Gewählten schriftlich von ihrer Wahl und übermittelt das Wahlergebnis und die Namen der Gewählten dem Unternehmen.
 
-
-## § 22 – Aufbewahrung der Wahlakten, Bekanntmachung des Unternehmens
+# § 22 – Aufbewahrung der Wahlakten, Bekanntmachung des Unternehmens
 
 (1) Der Betriebswahlvorstand übergibt die Wahlakten dem Unternehmen. Das Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf Jahren auf.
 
 (2) Für die nach § 8 des Gesetzes erforderliche Bekanntmachung im Betrieb gilt § 3 Abs. 3 entsprechend.
 
-
-## § 23 – Allgemeine Vorschriften
+# § 23 – Allgemeine Vorschriften
 
 Nehmen die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen an der Wahl der Vertreter der Arbeitnehmer im Aufsichtsrat teil, so gelten die Vorschriften des Kapitels 1 entsprechend, soweit sich nicht aus den nachfolgenden Vorschriften Abweichungen ergeben.
 
-
-## § 24 – Mitteilung des Unternehmens
+# § 24 – Mitteilung des Unternehmens
 
 Die in § 1 bezeichnete Mitteilung erfolgt gegenüber den Betriebsräten.
 
-
-## § 25 – Wahlvorstände
+# § 25 – Wahlvorstände
 
 (1) Die Durchführung der Wahl und die Feststellung des Wahlergebnisses obliegen dem zuständigen Wahlvorstand. Zuständiger Wahlvorstand ist bei der Wahl
 
@@ -439,8 +411,7 @@ Die in § 1 bezeichnete Mitteilung erfolgt gegenüber den Betriebsräten.
 
 (4) Die Wahlvorstände nach den Absätzen 1 und 2 teilen unverzüglich nach ihrer Bildung dem Unternehmen schriftlich ihre Betriebsanschrift und die Namen ihrer Mitglieder mit.
 
-
-## § 26 – Zusammensetzung des Unternehmenswahlvorstands oder des Hauptwahlvorstands
+# § 26 – Zusammensetzung des Unternehmenswahlvorstands oder des Hauptwahlvorstands
 
 (1) Für die Größe und Zusammensetzung des nach § 25 Abs. 1 zuständigen Wahlvorstands gilt § 2 Abs. 2 und 3 entsprechend.
 
@@ -458,8 +429,7 @@ Die in § 1 bezeichnete Mitteilung erfolgt gegenüber den Betriebsräten.
 
 Besteht auch eine nach § 117 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes durch Tarifvertrag errichtete Vertretung für im Flugbetrieb beschäftigte Arbeitnehmer, so erfolgt die Bestellung gemeinsam mit dieser Vertretung.
 
-
-## § 27 – Zusammensetzung und Aufgaben des Betriebswahlvorstands, Fristen
+# § 27 – Zusammensetzung und Aufgaben des Betriebswahlvorstands, Fristen
 
 (1) Für die Größe und Zusammensetzung des Betriebswahlvorstands gilt § 2 Abs. 2 bis 5.
 
@@ -467,8 +437,7 @@ Besteht auch eine nach § 117 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes durc
 
 (3) Bekanntmachungen erfolgen durch die Betriebswahlvorstände spätestens an dem vom zuständigen Wahlvorstand hierfür festgesetzten Tag.
 
-
-## § 28 – Wahlausschreiben
+# § 28 – Wahlausschreiben
 
 (1) Spätestens sechs Wochen vor dem ersten Tag der Stimmabgabe erlässt der zuständige Wahlvorstand ein Wahlausschreiben. Mit Erlass des Wahlausschreibens ist die Wahl eingeleitet. § 5 Abs. 2 gilt mit der Maßgabe, dass
 
@@ -492,20 +461,17 @@ Besteht auch eine nach § 117 Abs. 2 Satz 1 des Betriebsverfassungsgesetzes durc
 
 (4) Die Bekanntmachung des Wahlausschreibens erfolgt durch den Betriebswahlvorstand spätestens an dem vom zuständigen Wahlvorstand hierfür festgesetzten Tag bis zum Abschluss der Wahl der Aufsichtsratsmitglieder.
 
-
-## § 29 – Wahlvorschläge
+# § 29 – Wahlvorschläge
 
 Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind innerhalb von zwei Wochen seit Erlass des Wahlausschreibens schriftlich beim zuständigen Wahlvorstand einzureichen, der sie unverzüglich zu prüfen hat. Der zuständige Wahlvorstand übersendet die gültigen Wahlvorschläge den Betriebswahlvorständen und teilt ihnen schriftlich den Zeitpunkt mit, von dem ab sie in den Betrieben bekannt zu machen sind.
 
-
-## § 30 – Schriftliche Stimmabgabe
+# § 30 – Schriftliche Stimmabgabe
 
 (1) Der zuständige Wahlvorstand übersendet den Betriebswahlvorständen auf Anforderung die für die in den Betrieben durchzuführende schriftliche Stimmabgabe erforderlichen Unterlagen (§ 16 Abs. 1).
 
 (2) Dem Betriebswahlvorstand obliegt die Durchführung der schriftlichen Stimmabgabe.
 
-
-## § 31 – Stimmauszählung, Niederschrift, Bekanntmachung
+# § 31 – Stimmauszählung, Niederschrift, Bekanntmachung
 
 (1) Die öffentliche Stimmauszählung in den Betrieben obliegt dem Betriebswahlvorstand.
 
@@ -517,8 +483,7 @@ Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind innerhalb von zw
 
 (5) Die Wahlvorstände übergeben ihre Wahlakten dem Unternehmen, in dessen Aufsichtsrat die Aufsichtsratsmitglieder der Arbeitnehmer gewählt worden sind. Das Unternehmen bewahrt die Wahlakten mindestens für die Dauer von fünf Jahren auf.
 
-
-## § 32 – Einleitung des Abberufungsverfahrens
+# § 32 – Einleitung des Abberufungsverfahrens
 
 (1) Ein Antrag auf Abberufung eines Aufsichtsratsmitglieds der Arbeitnehmer oder eines Ersatzmitglieds nach § 12 des Gesetzes ist schriftlich beim Betriebsrat einzureichen. Der Antrag eines Betriebsrats erfolgt auf Grund eines Beschlusses.
 
@@ -528,8 +493,7 @@ Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind innerhalb von zw
 
 (4) Das Unternehmen hat dem Betriebswahlvorstand die bei der Wahl des Aufsichtsratsmitglieds, dessen Abberufung beantragt wird, entstandenen Wahlakten zu übergeben.
 
-
-## § 33 – Liste der Abstimmungsberechtigten, Bekanntmachung
+# § 33 – Liste der Abstimmungsberechtigten, Bekanntmachung
 
 (1) Der Betriebswahlvorstand erstellt unverzüglich eine Liste der Abstimmungsberechtigten. Abstimmungsberechtigt ist, wer wahlberechtigt ist. Die §§ 4 und 6 gelten entsprechend.
 
@@ -543,15 +507,13 @@ Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind innerhalb von zw
 
 4. dass Einsprüche gegen Berichtigungen und Ergänzungen der Wählerliste nur innerhalb einer Woche seit der Berichtigung oder der Ergänzung eingelegt werden können.
 
-
-## § 34 – Prüfung des Antrags auf Abberufung
+# § 34 – Prüfung des Antrags auf Abberufung
 
 (1) Der Betriebswahlvorstand prüft unverzüglich nach Ablauf der in § 33 Abs. 1 Satz 2, § 6 Abs. 1 bezeichneten Fristen die Gültigkeit des Antrags auf Abberufung (§ 12 des Gesetzes).
 
 (2) Ist ein Antrag ungültig, so teilt der Betriebswahlvorstand dies dem Antragsvertreter oder, wenn ein solcher nicht benannt ist, dem an erster Stelle Unterzeichnenden schriftlich mit. Der Betriebswahlvorstand macht die Mitteilung für die Dauer von zwei Wochen bekannt.
 
-
-## § 35 – Abberufungsausschreiben
+# § 35 – Abberufungsausschreiben
 
 (1) Ist der Antrag gültig, erlässt der Betriebswahlvorstand unverzüglich ein Abberufungsausschreiben. Mit Erlass des Abberufungsausschreibens ist das Abberufungsverfahren eingeleitet.
 
@@ -577,27 +539,23 @@ Die Wahlvorschläge der Betriebsräte und der Arbeitnehmer sind innerhalb von zw
 
 (3) Für die Bekanntmachung des Abberufungsausschreibens gilt § 5 Abs. 3 entsprechend.
 
-
-## § 36 – Stimmzettel, Stimmabgabe
+# § 36 – Stimmzettel, Stimmabgabe
 
 (1) Die Stimmzettel dürfen nur den Antrag und die Frage an den Abstimmungsberechtigten enthalten, ob er für oder gegen den Antrag auf Abberufung stimmt. Gibt der Abstimmungsberechtigte seine Stimme für den Antrag ab, so kreuzt er an der hierfür im Stimmzettel vorgesehenen Stelle das vorgedruckte "Ja", andernfalls das vorgedruckte "Nein" an.
 
 (2) Für die Stimmabgabe gelten im Übrigen § 13 Abs. 3 und die §§ 14 bis 17 entsprechend.
 
-
-## § 37 – Öffentliche Stimmauszählung, Abstimmungsergebnis, Akten
+# § 37 – Öffentliche Stimmauszählung, Abstimmungsergebnis, Akten
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der Betriebswahlvorstand öffentlich die Stimmen aus. § 18 Absatz 2 und 3 gilt entsprechend.
 
 (2) Für die Niederschrift des Betriebswahlvorstands, die Bekanntmachung und die im Zusammenhang mit einem Antrag auf Abberufung entstandenen Akten gelten die §§ 20 bis 22 entsprechend.
 
-
-## § 38 – Allgemeine Vorschriften
+# § 38 – Allgemeine Vorschriften
 
 Nehmen die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen an der Abstimmung über die Abberufung eines Arbeitnehmervertreters im Aufsichtsrat teil, so gelten die Vorschriften des Teils 2 Kapitel 1 entsprechend, soweit sich nicht aus den nachfolgenden Vorschriften Abweichungen ergeben.
 
-
-## § 39 – Antrag, Unternehmenswahlvorstand, Hauptwahlvorstand
+# § 39 – Antrag, Unternehmenswahlvorstand, Hauptwahlvorstand
 
 (1) Der Antrag auf Abberufung nach § 12 des Gesetzes ist schriftlich einzureichen
 
@@ -609,23 +567,19 @@ Nehmen die Arbeitnehmer mehrerer Betriebe oder mehrerer Unternehmen an der Absti
 
 (2) Unverzüglich nach Eingang eines Antrags auf Abberufung oder eines entsprechenden Beschlusses eines Betriebsrats wird der nach § 25 Abs. 1 zuständige Wahlvorstand gebildet, es sei denn, der Antrag entspricht offensichtlich nicht den in § 12 Abs. 1 des Gesetzes bezeichneten Erfordernissen. Für die Größe und Zusammensetzung des zuständigen Wahlvorstands gilt § 26.
 
-
-## § 40 – Betriebswahlvorstand
+# § 40 – Betriebswahlvorstand
 
 Für die Bildung, Größe, Zusammensetzung und Aufgaben des Betriebswahlvorstands gelten § 25 Abs. 2 und 3 und § 27.
 
-
-## § 41 – Abberufungsausschreiben
+# § 41 – Abberufungsausschreiben
 
 Der zuständige Wahlvorstand erlässt unverzüglich ein Abberufungsausschreiben.
 
-
-## § 42 – Allgemeine Vorschriften
+# § 42 – Allgemeine Vorschriften
 
 Für die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer bei Teilnahme von Arbeitnehmern eines Seebetriebs gelten die Vorschriften des Teils 1 entsprechend, soweit sich nicht aus den nachfolgenden Vorschriften Abweichungen ergeben.
 
-
-## § 43 – Einleitung der Wahl
+# § 43 – Einleitung der Wahl
 
 (1) Die in § 1 bezeichnete Frist wird auf 22 Wochen verlängert.
 
@@ -635,8 +589,7 @@ Für die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer bei Teilnahme von Arb
 
 (4) Der zuständige Wahlvorstand übersendet jedem zum Seebetrieb gehörigen Schiff eine Kopie der Wählerliste des Seebetriebs, das Gesetz und diese Verordnung. Ihre Einsichtnahme ist von der Bordvertretung oder, wenn eine solche nicht besteht, vom Kapitän zu ermöglichen. Die Einsichtnahme kann durch Auslegung an geeigneter, den Wahlberechtigten zugänglicher Stelle an Bord und durch Einsatz der im Betrieb vorhandenen Informations- und Kommunikationsmittel ermöglicht werden. Außerdem übersendet der zuständige Wahlvorstand die Wählerliste des Seebetriebs dem Betriebswahlvorstand des Landbetriebs, der für die Heuerverhältnisse der Arbeitnehmer des Seebetriebs zuständig ist. Dieser Betriebswahlvorstand ermöglicht die Einsichtnahme in die Wählerliste des Seebetriebs in gleicher Weise wie in die in § 4 bezeichnete Wählerliste.
 
-
-## § 44 – Bekanntmachung über die Einreichung von Wahlvorschlägen
+# § 44 – Bekanntmachung über die Einreichung von Wahlvorschlägen
 
 (1) Das Wahlausschreiben muss im Seebetrieb auch folgende Angaben enthalten:
 
@@ -662,8 +615,7 @@ Für die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer bei Teilnahme von Arb
 
 (5) Für die Bekanntmachung des Wahlausschreibens im Seebetrieb gilt § 43 Abs. 3.
 
-
-## § 45 – Stimmabgabe
+# § 45 – Stimmabgabe
 
 (1) Die Arbeitnehmer des Seebetriebs stimmen bei der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer in Briefwahl ab.
 
@@ -675,29 +627,24 @@ Für die Wahl der Aufsichtsratsmitglieder der Arbeitnehmer bei Teilnahme von Arb
 
 Die Bordvertretung oder, wenn eine solche nicht besteht, der Kapitän hat jedem Besatzungsmitglied die zur Stimmabgabe erforderlichen Unterlagen auszuhändigen. Die Wahlbriefe der Besatzungsmitglieder eines Schiffes sollen möglichst gleichzeitig an den zuständigen Wahlvorstand abgesandt werden.
 
-
-## § 46 – Allgemeine Vorschriften
+# § 46 – Allgemeine Vorschriften
 
 Für die Abberufung der Aufsichtsratsmitglieder der Arbeitnehmer bei Teilnahme von Arbeitnehmern von Seebetrieben gelten die Vorschriften des Teils 2 entsprechend, soweit sich nicht aus den nachfolgenden Vorschriften Abweichungen ergeben.
 
-
-## § 47 – Einleitung des Abberufungsverfahrens
+# § 47 – Einleitung des Abberufungsverfahrens
 
 (1) Für den Seebetrieb wird ein Betriebswahlvorstand nicht gebildet. Der zuständige Wahlvorstand nimmt im Seebetrieb die sich aus dieser Verordnung ergebenden Aufgaben des Betriebswahlvorstands wahr.
 
 (2) Für Mitteilungen, die im Seebetrieb bekannt zu machen sind, gilt § 43 Abs. 3.
 
-
-## § 48 – Abberufungsausschreiben für Seebetriebe, Wählerliste
+# § 48 – Abberufungsausschreiben für Seebetriebe, Wählerliste
 
 Für das Abberufungsausschreiben nach § 41 und die Wählerliste gilt § 44 Abs. 1, 2 und 5.
 
-
-## § 49 – Stimmabgabe
+# § 49 – Stimmabgabe
 
 Die Arbeitnehmer von Seebetrieben stimmen bei der Abberufung von Aufsichtsratsmitgliedern in Briefwahl ab. Für die Stimmabgabe gilt § 45 Abs. 2 entsprechend.
 
-
-## § 50 – Berechnung der Fristen
+# § 50 – Berechnung der Fristen
 
 Für die Berechnung der in dieser Verordnung festgelegten Fristen finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende Anwendung.

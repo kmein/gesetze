@@ -1,15 +1,11 @@
-# [BinSch-SportbootVermV] Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen  (Binnenschifffahrt-Sportbootvermietungsverordnung - BinSch-SportbootVermV)
-
-Ausfertigungsdatum: 18.04.2000
-
+% Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen  (Binnenschifffahrt-Sportbootvermietungsverordnung - BinSch-SportbootVermV)
+% Ausfertigungsdatum: 18.04.2000
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für das Vermieten und Mieten von Sportbooten zur Teilnahme am Verkehr auf den Binnenschifffahrtsstraßen.
 
-
-## § 2 – Begriffsbestimmungen und anzuwendende Vorschriften
+# § 2 – Begriffsbestimmungen und anzuwendende Vorschriften
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -73,13 +69,11 @@ Anlage zu § 1 Absatz 1 der Verordnung zur Einführung der Binnenschifffahrtsstr
 
 (3) Soweit diese Verordnung in den §§ 5, 6 und 8 auf DIN-, EN- oder ISO-Vorschriften verweist, sind diese beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt. Sie sind über den Beuth Verlag GmbH, 10772 Berlin, zu beziehen.
 
-
-## § 2a – Rechtsverordnung mit vorübergehender Geltungsdauer
+# § 2a – Rechtsverordnung mit vorübergehender Geltungsdauer
 
 Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, des Binnenschifffahrtsaufgabengesetzes übertragen, durch Rechtsverordnung zu Versuchszwecken oder bis zu einer Änderung eine von dieser Verordnung abweichende Regelung bis zur Dauer von drei Jahren zu treffen.
 
-
-## § 3 – Grundregel, Zuständigkeit
+# § 3 – Grundregel, Zuständigkeit
 
 (1) Ein Sportboot darf nur vermietet werden, wenn es dafür technisch zugelassen ist. Die technische Zulassung wird auf Antrag des Unternehmens vom Wasserstraßen- und Schifffahrtsamt durch das Bootszeugnis nach dem Muster der Anlage 1 erteilt.
 
@@ -89,8 +83,7 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 
 
 2. das dem Sitz des Unternehmens am nächsten liegt.
 
-
-## § 4 – Bootszeugnis
+# § 4 – Bootszeugnis
 
 (1) Ein Bootszeugnis darf nur erteilt oder seine Gültigkeit verlängert werden, wenn das Unternehmen nachgewiesen hat, dass das Sportboot fahrtauglich ist (§ 5). Es wird für die Dauer der Gültigkeit des Nachweises über die Fahrtauglichkeit erteilt. Sofern das Sportboot auch für den Gelegenheitsverkehr im Sinne des § 8a eingesetzt werden soll, ist der zuständigen Berufsgenossenschaft vor der Erteilung oder Verlängerung des Bootszeugnisses die Gelegenheit zur Stellungnahme zu geben.
 
@@ -102,8 +95,7 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur kann Bootszeugnisse oder andere Zulassungsurkunden anerkennen, die nach landesrechtlichen Vorschriften erteilt werden. Die Muster dieser Urkunden werden im Verkehrsblatt bekannt gemacht.
 
-
-## § 5 – Nachweis über die Fahrtauglichkeit
+# § 5 – Nachweis über die Fahrtauglichkeit
 
 (1) Nachweise über die Fahrtauglichkeit der Sportboote sind:
 
@@ -121,8 +113,7 @@ Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 
 
 (5) Abnahmeprotokolle aus anderen Mitgliedstaaten der Europäischen Gemeinschaft oder aus den Mitgliedstaaten des Europäischen Wirtschaftsraumes sind einschließlich der durchgeführten Prüfungen und Überwachungen von dem Wasserstraßen- und Schifffahrtsamt als gleichwertig anzuerkennen, wenn in ihnen das Schutzniveau der Nachweise nach den Absätzen 1 bis 4 bescheinigt ist.
 
-
-## § 6 – Verfahren
+# § 6 – Verfahren
 
 (1) Der Antrag auf Ausstellung und Verlängerung des Bootszeugnisses (§ 4 Abs. 1) sowie dessen Änderung (§ 4 Abs. 3) ist vom Unternehmen bei dem nach § 3 Abs. 2 zuständigen Wasserstraßen- und Schifffahrtsamt zu stellen.
 
@@ -158,8 +149,7 @@ Motornummer, Hersteller, Fabrikat, Antriebsart, Antriebsleistung in kW, Baujahr,
 
 (6) Unbeschadet der Verpflichtung des Unternehmens nach den Absätzen 1 bis 4 hat dieses auch Änderungen bei den Angaben nach Absatz 2 Nr. 1 bis 4 innerhalb von vier Wochen schriftlich gegenüber dem Wasserstraßen- und Schifffahrtsamt anzuzeigen.
 
-
-## § 7 – Kennzeichen
+# § 7 – Kennzeichen
 
 (1) Das Unternehmen hat jedes Sportboot mit einem Kennzeichen nach der Kennzeichnungsverordnung oder mit einem Vermietungskennzeichen nach Absatz 2 zu versehen.
 
@@ -171,8 +161,7 @@ Motornummer, Hersteller, Fabrikat, Antriebsart, Antriebsleistung in kW, Baujahr,
 
 3. dem Kennbuchstaben "V".
 
-
-## § 8 – Pflichten des Unternehmens
+# § 8 – Pflichten des Unternehmens
 
 (1) Das Unternehmen darf die Vermietung eines Sportbootes nicht anordnen oder zulassen, wenn ihm bekannt ist oder bekannt sein muss, dass das Sportboot nach den allgemein anerkannten Regeln der Technik nicht fahrtauglich ist.
 
@@ -236,8 +225,7 @@ e) Flüssiggasanlagen an Bord in geschlossenen Räumen mit Warneinrichtungen fü
 
 (8) Sofern das Bootszeugnis für ein Sportboot eine Ausrüstungspflicht mit Rettungswesten nicht oder nichts anderes vorschreibt, hat das Unternehmen an der Betriebsstätte eine ausreichende Anzahl von Rettungswesten in verschiedenen Größen, die mindestens der Norm DIN EN 395 entsprechen, vorzuhalten. Die Rettungswesten sind den Mietern auf Wunsch kostenlos zur Verfügung zu stellen. Hierauf hat das Unternehmen deutlich sichtbar durch einen Aushang hinzuweisen.
 
-
-## § 8a – Gelegenheitsverkehr
+# § 8a – Gelegenheitsverkehr
 
 (1) Eine Fahrt im Gelegenheitsverkehr ist auf die Beförderung von höchstens zwölf Fahrgästen und auf die Wasserstraßen der Zone 3, mit Ausnahme der Wasserstraße Rhein, und der Zone 4, mit Ausnahme der Wasserstraße Oder, des Anhangs I der Binnenschiffsuntersuchungsordnung beschränkt.
 
@@ -258,7 +246,7 @@ e) Flüssiggasanlagen an Bord in geschlossenen Räumen mit Warneinrichtungen fü
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2018/j1398-1_0010.jpg); |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0010.jpg); |
 
 7. ein Bootshaken;
 
@@ -274,8 +262,7 @@ e) Flüssiggasanlagen an Bord in geschlossenen Räumen mit Warneinrichtungen fü
 
 (7) Das Unternehmen hat den im Rahmen des Gelegenheitsverkehrs abgeschlossenen Mietvertrag dem Wasserstraßen- und Schifffahrtsamt auf Verlangen zur Prüfung auszuhändigen. Das Wasserstraßen- und Schifffahrtsamt kann dem Unternehmen die Ausübung des Gelegenheitsverkehrs verbieten, wenn Tatsachen die Annahme rechtfertigen, dass es wiederholt oder grob pflichtwidrig gegen die Bestimmungen der Absätze 2 bis 6 oder Satz 1 verstoßen hat.
 
-
-## § 9 – Charterbescheinigung
+# § 9 – Charterbescheinigung
 
 (1) Abweichend von § 8 Absatz 4 darf ein Unternehmen ein Sportboot von weniger als 15 Metern Länge auch vermieten an Personen, denen es eine amtlich anerkannte Bescheinigung über die ausreichende Befähigung des Mieters oder des von ihm bestimmten Bootsführers (Charterbescheinigung) nach dem Muster der Anlage 4 nach Maßgabe der Absätze 2, 4 und 5 ausgestellt hat.
 
@@ -299,8 +286,7 @@ Das zuverlässige Unternehmen hat eine Zweitschrift der Charterbescheinigung zu 
 
 (5) Der Sportbootführer muss die in der Charterbescheinigung eingetragenen Beschränkungen beachten.
 
-
-## § 10 – Pflichten des Sportbootführers
+# § 10 – Pflichten des Sportbootführers
 
 (1) Der Sportbootführer hat dafür zu sorgen, dass
 
@@ -330,8 +316,7 @@ h) bei einer Geschwindigkeit des Sportbootes von 40 km/h oder mehr alle Personen
 
 (2) Der Sportbootführer hat im Gelegenheitsverkehr bei einer Geschwindigkeit des Sportbootes von 40 km/h oder mehr seine Aufgaben im Steuerstand sitzend auszuüben.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -405,13 +390,11 @@ l) entgegen § 10 Absatz 1 Nummer 4 Buchstabe h nicht dafür sorgt, dass eine Re
 
 m) entgegen § 10 Absatz 2 eine Aufgabe nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise ausübt.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 Nach der Sportbootvermietungsverordnung-Binnen vom 11. Oktober 1996 (BGBl. I S. 1518) ausgestellte Bootszeugnisse gelten ohne förmliche Verlängerung bis zum Ablauf der Gültigkeit des ihnen zu Grunde gelegten Abnahmeprotokolls weiter, wenn eine Kopie dieses Abnahmeprotokolls den Bootszeugnissen beigefügt wird.
 
-
-## Anlage 1 – (zu § 3)
+# Anlage 1 – (zu § 3)
 
 Fundstelle: BGBl. I 2000, 577 - 578
 
@@ -527,8 +510,7 @@ Fundstelle: BGBl. I 2000, 577 - 578
      
     *) Weitere Motoren auf anliegendem Blatt. 
 
-
-## Anlage 2 – (zu § 5 Abs. 1 Nr. 2)
+# Anlage 2 – (zu § 5 Abs. 1 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587:  
 bzgl. der einzelnen Änderungen vgl Fußnote
@@ -741,8 +723,7 @@ bzgl. der einzelnen Änderungen vgl Fußnote
 
 2) Amtlich anerkannte Kennzeichen sind: Die Nummer des Internationalen Bootsscheines (IBS), gefolgt von dem Kennbuchstaben M, S oder A; bei DMYV (M), DSV (S) oder ADAC (A).
 
-
-## Anlage 3 – (zu § 5 Abs. 2)
+# Anlage 3 – (zu § 5 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4588 - 4589
 
@@ -831,15 +812,13 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4588 - 4589
     .....................   .....................   ........................
     Untersuchungsort        Datum                    Unterschrift 
 
-
-## Anlage 4 – (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b)Charterbescheinigung und Einweisung
+# Anlage 4 – (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b)Charterbescheinigung und Einweisung
 
 Fundstelle des Originaltextes: BGBl. I 20030, 2527 -2529;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
   
-I.  
-Allgemeines
+I. Allgemeines
 
 Die Charterbescheinigung ist keine Fahrerlaubnis zum Führen von Sportbooten. Sie bewirkt als amtlich anerkannte Bescheinigung über die Befähigung lediglich, dass das Führen eines gemieteten Sportbootes auch ohne vorgeschriebenes Befähigungszeugnis zugelassen ist, wenn und solange die Beschränkungen, unter denen sie ausgestellt ist, eingehalten werden.
 
@@ -887,8 +866,7 @@ III. Einweisung
 
 Die Einweisung muss eine Person durchführen, die mindestens Inhaber der Sportbootführerscheins-Binnen ist und über besondere Kenntnisse des Fahrtgebietes verfügt. Ihre Dauer beträgt in Abhängigkeit von Fahrtgebiet und Vorkenntnissen des Einzuweisenden mindestens drei Stunden.
 
-A.  
-Wasserstraßenbezogenes Verkehrsverhalten
+A. Wasserstraßenbezogenes Verkehrsverhalten
 
   
 
@@ -1198,8 +1176,7 @@ Anlegen von Rettungswesten
 
   
   
-B.  
-Fahrzeug
+B. Fahrzeug
 
   
 
@@ -1335,14 +1312,12 @@ Der Einweiser und der/die Sportbootführer bestätigen, dass alle angekreuzten T
 | ........................................ | ..................................... |
 | Unterschrift Einweiser                   | Unterschrift(en) Sportbootführer      |
 
-
-## Anlage 5 – (zu § 9 Abs. 2 Nr. 1)Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
+# Anlage 5 – (zu § 9 Abs. 2 Nr. 1)Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
 
 (Fundstelle: BGBl I 2009, 889 - 892);  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 6 – (zu § 9 Abs. 2 Nr. 2)Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
+# Anlage 6 – (zu § 9 Abs. 2 Nr. 2)Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2533;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1375,8 +1350,7 @@ h) Merkblatt "Verhalten in Schleusen" nach dem Muster des Anhangs 2; bei Selbstb
 
 i) Ausstattung mit einem mobilen Telekommunikationsendgerät (Handy) - nur soweit in Anlage 5 telefonische Kommunikation ausdrücklich vorgeschrieben
 
-
-## Anhang 1 – (zu Anlage 6)
+# Anhang 1 – (zu Anlage 6)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2434 - 2537;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1430,82 +1404,54 @@ Zwei motorisierte Kleinfahrzeuge auf kreuzendem Kollisionskurs:
 
 das backbordseitige Kleinfahrzeug dem steuerbordseitigen
 
-
-## Anhang 2 – (zu Anlage 6)
+# Anhang 2 – (zu Anlage 6)
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2538 - 2539;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Merkblatt über das Verhalten in Schleusen  
 Allgemeines  
-Ein besonderes Erlebnis ist für den Anfänger das Schleusen. Das anfängliche Unbehagen lässt sich vermeiden, wenn man sich die dabei zu beachtenden Grundregeln und die praktische Handhabung vergegenwärtigt. In jedem Fall während des Schleusens Rettungsweste tragen.  
-Grundregeln
+Ein besonderes Erlebnis ist für den Anfänger das Schleusen. Das anfängliche Unbehagen lässt sich vermeiden, wenn man sich die dabei zu beachtenden Grundregeln und die praktische Handhabung vergegenwärtigt. In jedem Fall während des Schleusens Rettungsweste tragen. Grundregeln
 
-.  
-Die Einfahrt in die Schleuse wird durch Signallichter geregelt. Auch nur ein rotes Licht bedeutet: - noch - keine Einfahrt. Deshalb bei Annäherung an den Schleusenbereich Fahrt verlangsamen und ggf. anhalten, und zwar spätestens dort, wo das Haltezeichen steht.
+. Die Einfahrt in die Schleuse wird durch Signallichter geregelt. Auch nur ein rotes Licht bedeutet: - noch - keine Einfahrt. Deshalb bei Annäherung an den Schleusenbereich Fahrt verlangsamen und ggf. anhalten, und zwar spätestens dort, wo das Haltezeichen steht.
 
-.  
-Schleusenkammern nur auf Weisung des Schleusenpersonals befahren oder ansteuern, wenn keine Bootsschleusen vorhanden sind. Bei Selbstbedienungsschleusen Hinweisschilder in den Schleusenvorhäfen beachten.
+. Schleusenkammern nur auf Weisung des Schleusenpersonals befahren oder ansteuern, wenn keine Bootsschleusen vorhanden sind. Bei Selbstbedienungsschleusen Hinweisschilder in den Schleusenvorhäfen beachten.
 
-.  
-In der Regel werden Kleinfahrzeuge nicht einzeln, sondern gemeinsam mit anderen Kleinfahrzeugen geschleust. Werden sie zusammen mit Fahrzeugen der Großschifffahrt, z.B. Fahrgastschiffen, geschleust, fahren diese zuerst ein.
+. In der Regel werden Kleinfahrzeuge nicht einzeln, sondern gemeinsam mit anderen Kleinfahrzeugen geschleust. Werden sie zusammen mit Fahrzeugen der Großschifffahrt, z.B. Fahrgastschiffen, geschleust, fahren diese zuerst ein.
 
   
 Fahr- und Verhaltensregeln im Schleusenbereich und bei Ein- und Ausfahrt
 
-.  
-Überholen verboten.
+. Überholen verboten.
 
-.  
-Anlegestellen von Fähren und Fahrgastschiffen freihalten.
+. Anlegestellen von Fähren und Fahrgastschiffen freihalten.
 
-.  
-Ausrüstungsteile binnenbords nehmen.
+. Ausrüstungsteile binnenbords nehmen.
 
-.  
-Geschwindigkeit so vermindern, dass ein sicheres Abstoppen auch ohne Maschinenkraft möglich und ein Anprall an die Schleusentore oder andere Fahrzeuge ausgeschlossen ist.
+. Geschwindigkeit so vermindern, dass ein sicheres Abstoppen auch ohne Maschinenkraft möglich und ein Anprall an die Schleusentore oder andere Fahrzeuge ausgeschlossen ist.
 
-.  
-Personen, die für die Schleusendurchfahrt erforderlich sind, müssen sich vom Beginn der Einfahrt bis zur Beendigung der Ausfahrt an Deck, ggf. auch auf der Kammerwand, befinden.
+. Personen, die für die Schleusendurchfahrt erforderlich sind, müssen sich vom Beginn der Einfahrt bis zur Beendigung der Ausfahrt an Deck, ggf. auch auf der Kammerwand, befinden.
 
-.  
-So weit einfahren und so hinlegen, dass nachfolgende Fahrzeuge nicht behindert werden. Als vom Oberwasser einfahrendes letztes Fahrzeug so weit vorfahren, dass ein Aufsetzen auf dem Drempel ausgeschlossen ist.
+. So weit einfahren und so hinlegen, dass nachfolgende Fahrzeuge nicht behindert werden. Als vom Oberwasser einfahrendes letztes Fahrzeug so weit vorfahren, dass ein Aufsetzen auf dem Drempel ausgeschlossen ist.
 
-.  
-Ausreichend Abstand zu anderen Fahrzeugen halten.
+. Ausreichend Abstand zu anderen Fahrzeugen halten.
 
-.  
-Festmachen bis zur Freigabe der Ausfahrt. Leinen so bedienen, dass Stöße gegen Schleusenwände, -tore, Schutzvorrichtungen oder andere Fahrzeuge vermieden werden.
+. Festmachen bis zur Freigabe der Ausfahrt. Leinen so bedienen, dass Stöße gegen Schleusenwände, -tore, Schutzvorrichtungen oder andere Fahrzeuge vermieden werden.
 
-.  
-Fender verwenden.
+. Fender verwenden.
 
-.  
-Nach dem Festmachen bis zur Freigabe der Ausfahrt Maschine nicht benutzen.
+. Nach dem Festmachen bis zur Freigabe der Ausfahrt Maschine nicht benutzen.
 
-.  
-Die Erlaubnis zur Ausfahrt wird durch grüne Lichter oder Tafeln angezeigt; ist das nicht der Fall, ist die Ausfahrt ohne besondere Anordnung des Schleusenpersonals verboten.
+. Die Erlaubnis zur Ausfahrt wird durch grüne Lichter oder Tafeln angezeigt; ist das nicht der Fall, ist die Ausfahrt ohne besondere Anordnung des Schleusenpersonals verboten.
 
-.  
-Grundsätzlich gilt: Anweisungen der Schleusenaufsicht haben Vorrang!
+. Grundsätzlich gilt: Anweisungen der Schleusenaufsicht haben Vorrang!
 
   
 Verhalten in der Schleusenkammer - Praxis  
 ... (nicht darstellbare Schaubilder für Verhaltensregeln im Schleusenbereich, BGBl. I 2003, 2538 - 2539)
 
 Aufwärtsschleusen  
-Fahren Sie langsam ein.  
-Lassen Sie ein Mitglied der Crew auf der Seite der Leiter oder an der Böschung vor der Schleuse aussteigen.  
-Der Schiffsführer wirft die Leinen, die Person an Land legt die Leinen um die Poller und gibt die Enden wieder zum Boot zurück.  
-Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel vorgehen.  
-Jeweils eine Person an Bord nimmt die vordere und die hintere Leine und holt sie beim Ansteigen des Bootes laufend dichter. Halten Sie das Boot eng an der Kammerwand.  
-Nach Erlaubnis zur Ausfahrt oder Hinweis auf Anzeigetafel Leinen einholen; darauf achten, dass keine Leine ins Wasser fällt und in die Schiffsschraube gerät. Langsam und vorsichtig ausfahren.
+Fahren Sie langsam ein. Lassen Sie ein Mitglied der Crew auf der Seite der Leiter oder an der Böschung vor der Schleuse aussteigen. Der Schiffsführer wirft die Leinen, die Person an Land legt die Leinen um die Poller und gibt die Enden wieder zum Boot zurück. Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel vorgehen. Jeweils eine Person an Bord nimmt die vordere und die hintere Leine und holt sie beim Ansteigen des Bootes laufend dichter. Halten Sie das Boot eng an der Kammerwand. Nach Erlaubnis zur Ausfahrt oder Hinweis auf Anzeigetafel Leinen einholen; darauf achten, dass keine Leine ins Wasser fällt und in die Schiffsschraube gerät. Langsam und vorsichtig ausfahren.
 
 Abwärtsschleusen  
-Vorne und hinten am Boot jeweils eine Leine an einem Ende auf einer Klampe belegen.  
-Fahren Sie langsam ein. Stoppen Sie das Boot mit dem Motor.  
-Legen Sie die Leinen jeweils um einen Poller und nehmen Sie die Enden auf das Boot zurück.  
-Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel vorgehen.  
-Jeweils eine Person bedient eine Leine. Während des Absinkens Leine locker laufen lassen. Abstand zum Drempel und zu den Schleusentoren halten.  
-Nach Erlaubnis zur Ausfahrt Leinen einholen; darauf achten, dass keine Leine ins Wasser fällt und in die Schiffsschraube gerät. Langsam und vorsichtig ausfahren.  
-Wenn Sie eine Leine mit der Hand führen, legen Sie ihr Ende immer um eine Klampe an Bord, um das Boot auch bei starker Belastung noch halten zu können - Verletzungsgefahr: Quetschungen -.
+Vorne und hinten am Boot jeweils eine Leine an einem Ende auf einer Klampe belegen. Fahren Sie langsam ein. Stoppen Sie das Boot mit dem Motor. Legen Sie die Leinen jeweils um einen Poller und nehmen Sie die Enden auf das Boot zurück. Bei Selbstbedienungsschleusen nach Hinweisen der Anzeigetafel vorgehen. Jeweils eine Person bedient eine Leine. Während des Absinkens Leine locker laufen lassen. Abstand zum Drempel und zu den Schleusentoren halten. Nach Erlaubnis zur Ausfahrt Leinen einholen; darauf achten, dass keine Leine ins Wasser fällt und in die Schiffsschraube gerät. Langsam und vorsichtig ausfahren. Wenn Sie eine Leine mit der Hand führen, legen Sie ihr Ende immer um eine Klampe an Bord, um das Boot auch bei starker Belastung noch halten zu können - Verletzungsgefahr: Quetschungen -.

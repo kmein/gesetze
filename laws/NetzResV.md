@@ -1,15 +1,11 @@
-# [NetzResV] Verordnung zur Regelung der Beschaffung und Vorhaltung von Anlagen in der Netzreserve  (Netzreserveverordnung - NetzResV)
-
-Ausfertigungsdatum: 27.06.2013
-
+% Verordnung zur Regelung der Beschaffung und Vorhaltung von Anlagen in der Netzreserve  (Netzreserveverordnung - NetzResV)
+% Ausfertigungsdatum: 27.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13b Absatz 1 und 2 des Energiewirtschaftsgesetzes, der durch Artikel 1 Nummer 10 des Gesetzes vom 20. Dezember 2012 (BGBl. I S. 2730) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich, Vorrang der Netzreserve, Umgang mit bestehenden Verträgen
+# § 1 – Anwendungsbereich, Vorrang der Netzreserve, Umgang mit bestehenden Verträgen
 
 (1) Diese Verordnung regelt das Verfahren der Beschaffung der Netzreserve, den Einsatz von Anlagen in der Netzreserve nach § 13d Absatz 1 des Energiewirtschaftsgesetzes sowie Anforderungen an Anlagen in der Netzreserve auf Grundlage von § 13i Absatz 3 Nummer 2 des Energiewirtschaftsgesetzes. Sie präzisiert zudem die Bestimmungen zum Umgang mit geplanten Stilllegungen von Erzeugungsanlagen oder Anlagen zur Speicherung von elektrischer Energie auf Grundlage von § 13a Absatz 1, der §§ 13b bis 13d sowie 13i Absatz 3 Nummer 1 des Energiewirtschaftsgesetzes.
 
@@ -17,15 +13,13 @@ Auf Grund des § 13b Absatz 1 und 2 des Energiewirtschaftsgesetzes, der durch Ar
 
 (3) Bestehende Verträge und Optionen, welche von Übertragungsnetzbetreibern in Abstimmung mit der Bundesnetzagentur für die Nutzung von Reservekraftwerken für die Winter 2011/2012 und 2012/2013 abgeschlossen wurden, werden durch die Vorgaben der Verordnung nicht berührt.
 
-
-## § 2 – Zweck der Bildung einer Netzreserve, Systemsicherheit
+# § 2 – Zweck der Bildung einer Netzreserve, Systemsicherheit
 
 (1) Zweck der Bildung einer Netzreserve ist die Vorhaltung von Erzeugungskapazitäten zur Gewährleistung der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems, insbesondere für die Bewirtschaftung von Netzengpässen und für die Spannungshaltung.
 
 (2) Eine Gefährdung der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems liegt vor, wenn örtliche Ausfälle des Übertragungsnetzes oder kurzfristige Netzengpässe zu besorgen sind oder zu besorgen ist, dass die Haltung von Frequenz, Spannung oder Stabilität durch die Übertragungsnetzbetreiber nicht im erforderlichen Maße gewährleistet werden kann. Maßstab ist der Erhalt der Systemsicherheit im Sinne von Satz 1 unter Berücksichtigung der anerkannten Regeln der Technik für den sicheren Netzbetrieb im Sinne von § 49 des Energiewirtschaftsgesetzes. Für einen sicheren Netzbetrieb sollen auch systemrelevante Mehrfachfehler angemessen beherrscht werden.
 
-
-## § 3 – Prüfung und Bestätigung des Bedarfs an Erzeugungskapazität für die Netzreserve
+# § 3 – Prüfung und Bestätigung des Bedarfs an Erzeugungskapazität für die Netzreserve
 
 (1) Die Bundesnetzagentur prüft bis spätestens zum 30. April eines jeden Jahres den Bedarf an Erzeugungskapazität für die Netzreserve. Ein eventuell bestehender Bedarf wird von ihr bestätigt. Die Bestätigung ist nicht selbstständig durch Dritte anfechtbar. Die Ergebnisse der Prüfung, die Analysen der Übertragungsnetzbetreiber nach Absatz 2, die dieser zu Grunde liegenden Annahmen, Parameter, Szenarien, Methoden sowie die zum 30. April des jeweiligen Jahres für die jeweils folgenden fünf Jahre prognostizierten Einzelwerte der Jahreshöchstlast im Gebiet der Bundesrepublik Deutschland einschließlich der Netzverluste und gegebenenfalls die Bestätigung werden in einem Bericht veröffentlicht.
 
@@ -41,8 +35,7 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 (3) Maßstab der Analysen der Übertragungsnetzbetreiber und der Prüfung der Bundesnetzagentur ist die Vermeidung einer Gefährdung der Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems im Sinne von § 2 Absatz 2 durch Vorhaltung von Erzeugungskapazitäten insbesondere als Redispatchpotential. Bei den Analysen sind insbesondere bestehende Netzengpässe und mögliche Entwicklungen im Hinblick auf den Netzausbau zu berücksichtigen.
 
-
-## § 4 – Verfahren, Möglichkeit zur Interessenbekundung
+# § 4 – Verfahren, Möglichkeit zur Interessenbekundung
 
 (1) Im Fall eines von der Bundesnetzagentur nach § 3 bestätigten zusätzlichen Bedarfs an Erzeugungskapazität für die Netzreserve veröffentlicht der jeweils betroffene Übertragungsnetzbetreiber in Übereinstimmung mit der Bestätigung bis spätestens zum 30. April eines jeden Jahres die Anforderungen an die erforderlichen Anlagen einschließlich eventueller Anforderungen an den Standort und die technischen Parameter. Die ergänzende Langfristanalyse bleibt bei dem Verfahren nach Satz 1 unberücksichtigt.
 
@@ -50,8 +43,7 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 (3) Die Betreiber von Übertragungsnetzen führen die Verhandlungen mit den Betreibern der Anlagen und schließen bis spätestens zum 15. September Verträge über die Nutzung der Anlagen für die Netzreserve ab, sofern diese Anlagen im folgenden Winterhalbjahr benötigt werden. Verträge über die Nutzung der Anlagen für die Netzreserve, die frühestens im übernächsten Winterhalbjahr benötigt werden, sollen bis spätestens zum 15. Dezember abgeschlossen werden.
 
-
-## § 5 – Verträge mit Betreibern bestehender Anlagen
+# § 5 – Verträge mit Betreibern bestehender Anlagen
 
 (1) Der Abschluss von Verträgen mit Betreibern von Anlagen erfolgt durch den Übertragungsnetzbetreiber, in dessen Regelzone die betreffende Anlage angeschlossen ist, nach Abstimmung mit der Bundesnetzagentur. Der Übertragungsnetzbetreiber im Sinne von Satz 1 ist auch berechtigt, Verträge mit den Betreibern geeigneter Anlagen im europäischen Energiebinnenmarkt und der Schweiz abzuschließen. Die Vertragsdauer kann bis zu 24 Monate, in begründeten Fällen auch länger betragen.
 
@@ -75,8 +67,7 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 4. bei gleicher technischer Eignung mindestens genauso preisgünstig wie die Nutzung von Erzeugungsanlagen in Deutschland ist.
 
-
-## § 6 – Erstattung von Kosten bestehender Anlagen
+# § 6 – Erstattung von Kosten bestehender Anlagen
 
 (1) Die Kosten, die durch die Nutzung der bestehenden Anlagen nach § 5 in der Netzreserve entstehen, werden dem Betreiber der Anlage durch den jeweiligen Betreiber des Übertragungsnetzes erstattet. Kosten, die auch im Fall einer endgültigen Stilllegung angefallen wären, sind nicht erstattungsfähig. Opportunitätskosten in Form einer angemessenen Verzinsung für bestehende Anlagen nach § 5 Absatz 2 sind nur erstattungsfähig, wenn und soweit eine verlängerte Kapitalbindung in Form von Grundstücken und weiterverwertbaren technischen Anlagen oder Anlagenteilen auf Grund der Verpflichtung für die Netzreserve besteht. Der Werteverbrauch der weiterverwertbaren technischen Anlagen oder der Anlagenteile ist nur erstattungsfähig, wenn und soweit die technischen Anlagen in der Netzreserve tatsächlich eingesetzt werden; für die Bestimmung des anteiligen Werteverbrauchs ist § 13c Absatz 1 Satz 3 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
@@ -90,15 +81,13 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 3. im Rahmen der Betriebsbereitschaftsauslagen wird zudem ein Leistungspreis für die Bereithaltung der betreffenden Anlage gewährt; hierbei werden die Kosten berücksichtigt, die dem Betreiber zusätzlich und fortlaufend auf Grund der Vorhaltung der Anlage für die Netzreserve entstehen; der Leistungspreis kann als pauschalierter Betrag in Euro je Megawatt zu Vertragsbeginn auf Grundlage von den ermittelten Erfahrungswerten der jeweiligen Anlage festgelegt werden; die Bundesnetzagentur kann die der Anlage zurechenbaren Gemeinkosten eines Betreibers bis zu einer Höhe von 5 Prozent der übrigen Kosten dieser Nummer pauschal anerkennen; der Nachweis höherer Gemeinkosten durch den Betreiber ist möglich.
 
-
-## § 7 – Art des Einsatzes der Netzreserve
+# § 7 – Art des Einsatzes der Netzreserve
 
 (1) Anlagen der Netzreserve dürfen ausschließlich außerhalb der Strommärkte nach Maßgabe der von den Übertragungsnetzbetreibern angeforderten Systemsicherheitsmaßnahmen eingesetzt werden.
 
 (2) Die Betreiber von Übertragungsnetzen setzen die Anlagen der Netzreserve auf Grundlage der ihnen zur Verfügung stehenden Prognosen unter Berücksichtigung der technischen Randbedingungen ein. Der Einsatz erfolgt nachrangig zu geeigneten Maßnahmen nach § 13 Absatz 1 Nummer 1 und 2 sowie § 13a Absatz 1 des Energiewirtschaftsgesetzes, soweit diese Maßnahmen zur Gewährleistung der Systemsicherheit nach § 2 Absatz 2 ausreichend sind.
 
-
-## § 8 – Anzeigepflicht und Stilllegungsverbot bei geplanten Stilllegungen
+# § 8 – Anzeigepflicht und Stilllegungsverbot bei geplanten Stilllegungen
 
 (1) Im Hinblick auf die Pflichten der Betreiber von Anlagen zur Anzeige einer Stilllegung nach § 13b Absatz 1 bis 3 des Energiewirtschaftsgesetzes, zur Unterlassung der Stilllegung nach § 13b Absatz 1 Satz 2, Absatz 4 und 5 des Energiewirtschaftsgesetzes, zur Bereithaltung der Anlage nach § 13b Absatz 5 Satz 11 und § 13c Absatz 1 und 2 des Energiewirtschaftsgesetzes sowie zur Anpassung der Einspeisung nach § 13a Absatz 1 des Energiewirtschaftsgesetzes gelten Anlagen oder Teilkapazitäten von Anlagen eines Betreibers, bei denen die Summe der Netto-Nennwirkleistungen aller an einem Netzknoten angeschlossenen Anlagen den jeweiligen Schwellenwert überschreitet, als eine Anlage.
 
@@ -110,8 +99,7 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 (5) (weggefallen)
 
-
-## § 9 – Verfahren bei geplanter vorläufiger Stilllegung, Art des Einsatzes, Vergütung
+# § 9 – Verfahren bei geplanter vorläufiger Stilllegung, Art des Einsatzes, Vergütung
 
 (1) (weggefallen)
 
@@ -129,13 +117,10 @@ Ein Betrachtungsjahr umfasst jeweils den Zeitraum vom 1. April eines Jahres bis 
 
 (5) Die durch die Verpflichtung des Anlagenbetreibers nach Absatz 2 und 3 entstehenden Kosten der Übertragungsnetzbetreiber werden durch Festlegung der Bundesnetzagentur zu einer freiwilligen Selbstverpflichtung der Übertragungsnetzbetreiber gemäß § 11 Absatz 2 Satz 4 und § 32 Absatz 1 Nummer 4 der Anreizregulierungsverordnung vom 29. Oktober 2007 (BGBl. I S. 2529), die zuletzt durch Artikel 7 des Gesetzes vom 20. Dezember 2012 (BGBl. I S. 2730) geändert worden ist, in ihrer jeweils geltenden Fassung als verfahrensregulierte Kosten nach Maßgabe der hierfür geltenden Vorgaben anerkannt.
 
-
-## § 10 – Verfahren bei geplanter endgültiger Stilllegung von Anlagen, Art des Einsatzes, Vergütung
+# § 10 – Verfahren bei geplanter endgültiger Stilllegung von Anlagen, Art des Einsatzes, Vergütung
 
 Ist einem Betreiber die endgültige Stilllegung seiner Anlage nach § 13b Absatz 2 und 5 des Energiewirtschaftsgesetzes verboten, so sind im Hinblick auf die Bemessung der Vergütung der Anlagenbetreiber durch Erzeugungs- und Betriebsbereitschaftsauslagen, Opportunitätskosten und Werteverbrauch sowie für die Anerkennung der hierdurch verursachten Kosten der Betreiber von Übertragungsnetzen § 6 und im Hinblick auf die Art des Einsatzes der Netzreserve § 7 entsprechend anzuwenden.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
-
-
-## § 12 – (weggefallen)
+# § 12 – (weggefallen)

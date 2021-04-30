@@ -1,10 +1,7 @@
-# [RdFunkAuslG] Gesetz über den deutschen Auslandsrundfunk
-
-Ausfertigungsdatum: 16.12.1997
-
+% Gesetz über den deutschen Auslandsrundfunk
+% Ausfertigungsdatum: 16.12.1997
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |                                                                                                 |
 |:-----------------------------------------------------------------------------------------------:|
@@ -21,12 +18,10 @@ Ausfertigungsdatum: 16.12.1997
 |                                            Artikel 6                                            |
 |                                          Inkrafttreten                                          |
 
-
-## §§ 1 und 2 – (weggefallen)
+# §§ 1 und 2 – (weggefallen)
 
 \-
 
-
-## § 3 – Rückkehr zum einheitlichen Verordnungsrang
+# § 3 – Rückkehr zum einheitlichen Verordnungsrang
 
 § 51 der Wahlordnung zum Bundespersonalvertretungsgesetz kann auf Grund der Ermächtigung des § 115 Bundespersonalvertretungsgesetz durch Rechtsverordnung wieder geändert werden.

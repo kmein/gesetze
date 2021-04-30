@@ -1,13 +1,9 @@
-# [FinStabG] Gesetz zur Überwachung der Finanzstabilität  (Finanzstabilitätsgesetz - FinStabG)
-
-Ausfertigungsdatum: 28.11.2012
-
+% Gesetz zur Überwachung der Finanzstabilität  (Finanzstabilitätsgesetz - FinStabG)
+% Ausfertigungsdatum: 28.11.2012
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Wahrung der Finanzstabilität
+# § 1 – Wahrung der Finanzstabilität
 
 (1) Die Deutsche Bundesbank trägt im Inland zur Wahrung der Stabilität des Finanzsystems (Finanzstabilität) bei, indem sie insbesondere
 
@@ -21,8 +17,7 @@ Ausfertigungsdatum: 28.11.2012
 
 (2) Die Befugnisse der Deutschen Bundesbank nach anderen Vorschriften bleiben unberührt. § 12 des Gesetzes über die Deutsche Bundesbank gilt entsprechend.
 
-
-## § 2 – Ausschuss für Finanzstabilität
+# § 2 – Ausschuss für Finanzstabilität
 
 (1) Zur Stärkung der Zusammenarbeit im Bereich der Finanzstabilität wird beim Bundesministerium der Finanzen ein Ausschuss für Finanzstabilität gebildet.
 
@@ -62,8 +57,7 @@ Das für den Geschäftsbereich Abwicklung zuständige Mitglied des Direktoriums 
 
 (10) Der Ausschuss wird durch den Vorsitzenden und bei dessen Verhinderung durch dessen Stellvertreter vertreten.
 
-
-## § 3 – Warnungen und Empfehlungen
+# § 3 – Warnungen und Empfehlungen
 
 (1) Der Ausschuss für Finanzstabilität kann in Warnungen an einen bestimmten Adressaten auf Gefahren hinweisen, welche die Finanzstabilität beeinträchtigen können. Die Warnungen sind eingehend zu begründen.
 
@@ -77,8 +71,7 @@ Das für den Geschäftsbereich Abwicklung zuständige Mitglied des Direktoriums 
 
 (6) Der Ausschuss für Finanzstabilität kann die Warnungen und Empfehlungen veröffentlichen. Über die beabsichtigte Veröffentlichung einer Empfehlung hat er den jeweiligen Adressaten vorab zu unterrichten und diesem Gelegenheit zur Stellungnahme zu geben.
 
-
-## § 4 – Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
+# § 4 – Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken
 
 (1) Der Ausschuss für Finanzstabilität arbeitet eng mit dem Europäischen Ausschuss für Systemrisiken und, soweit notwendig, mit den für die Wahrung der Finanzstabilität zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union zusammen.
 
@@ -86,15 +79,13 @@ Das für den Geschäftsbereich Abwicklung zuständige Mitglied des Direktoriums 
 
 (3) Der Ausschuss für Finanzstabilität informiert den Europäischen Ausschuss für Systemrisiken über seine Warnungen und Empfehlungen. Soweit von Warnungen oder Empfehlungen wesentliche grenzüberschreitende Auswirkungen zu erwarten sind, informiert der Ausschuss für Finanzstabilität den Europäischen Ausschuss für Systemrisiken, bevor er die Warnung oder Empfehlung abgibt.
 
-
-## § 5 – Zusammenarbeit der Deutschen Bundesbank mit der Bundesanstalt
+# § 5 – Zusammenarbeit der Deutschen Bundesbank mit der Bundesanstalt
 
 (1) Die Deutsche Bundesbank und die Bundesanstalt haben sich sämtliche Informationen, insbesondere Beobachtungen, Feststellungen und Einschätzungen, mitzuteilen, die seitens der Bundesanstalt zur Erfüllung ihrer jeweiligen Aufsichtsaufgaben und seitens der Deutschen Bundesbank zur Erfüllung ihrer in diesem Gesetz geregelten Aufgaben erforderlich sind. Die Bundesanstalt und die Deutsche Bundesbank regeln einvernehmlich die Einzelheiten der Übermittlung dieser Informationen. Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes, in § 21 Absatz 1 des Wertpapierhandelsgesetzes, in § 19 Absatz 1 des Wertpapierprospektgesetzes, in § 9 Absatz 1 des Wertpapiererwerbs- und Übernahmegesetzes, in § 4 Absatz 1 des Vermögensanlagengesetzes, in § 309 Absatz 1 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, in § 6 des Zahlungsdiensteaufsichtsgesetzes, in § 8 des Kapitalanlagegesetzbuchs, in § 32 des Gesetzes über die Deutsche Bundesbank und in § 7 genannten Personen sind insoweit von ihren jeweiligen Verschwiegenheitspflichten befreit.
 
 (2) Der Informationsaustausch nach Absatz 1 schließt die Übermittlung der personenbezogenen Daten ein, die zur Erfüllung der in Absatz 1 Satz 1 genannten Aufgaben der empfangenden Stelle zwingend erforderlich sind. Zur Erfüllung ihrer in Absatz 1 Satz 1 genannten Aufgaben können die Bundesanstalt und die Deutsche Bundesbank vereinbaren, dass gegenseitig die jeweils bei der anderen Stelle gespeicherten Daten im automatisierten Verfahren abgerufen werden dürfen. Im Übrigen gilt § 7 Absatz 4 und 5 des Kreditwesengesetzes entsprechend.
 
-
-## § 6 – Mitteilungspflichten; Verordnungsermächtigung
+# § 6 – Mitteilungspflichten; Verordnungsermächtigung
 
 (1) Finanzielle Kapitalgesellschaften im Sinne des Anhangs A Kapitel 2 Nummer 2.32 bis 2.67 der Verordnung (EG) Nr. 2223/96 des Rates vom 25. Juni 1996 zum Europäischen System Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler Ebene in der Europäischen Gemeinschaft (ABl. L 310 vom 30.11.1996, S. 1) mit Sitz im Inland haben der Deutschen Bundesbank auf Anforderung diejenigen Wirtschafts- und Handelsdaten mitzuteilen, die diese benötigt, um ihre in diesem Gesetz genannten Aufgaben zu erfüllen. Wirtschafts- und Handelsdaten im Sinne des Satzes 1 sind alle Daten, die vertiefte Einblicke in den Stand und die Entwicklung der wirtschaftlichen Verhältnisse der finanziellen Kapitalgesellschaften sowie deren Handelstätigkeit ermöglichen. Zu diesen Daten gehören insbesondere Bilanzzahlen, Informationen zur außerbilanziellen Geschäftstätigkeit sowohl auf Einzel- als auch auf Konzernebene, Informationen zur Konzernstruktur und Strukturdaten, Informationen zur bilateralen Vernetzung und zum Risikomanagement sowie Solvenz- und Liquiditätszahlen. Diese Daten können auch personenbezogene Daten umfassen, soweit dies zur Erfüllung der in diesem Gesetz genannten Aufgaben zwingend erforderlich ist. Die Deutsche Bundesbank fordert die Daten nur an, soweit sie diese nicht auch durch einen Informationsaustausch mit anderen Behörden erlangen kann. Die Anforderung muss schriftlich ergehen und hat die Rechtsgrundlage, die zu übermittelnden Daten und den Zweck der Datenerhebung anzugeben sowie eine angemessene Frist zur Übermittlung zu setzen.
 
@@ -106,7 +97,6 @@ Das für den Geschäftsbereich Abwicklung zuständige Mitglied des Direktoriums 
 
 3. die näheren Einzelheiten der Erhebung, Verarbeitung und Nutzung personenbezogener Daten sowie die Frist für die Löschung oder Anonymisierung personenbezogener Daten.
 
-
-## § 7 – Verschwiegenheitspflicht
+# § 7 – Verschwiegenheitspflicht
 
 Die Mitglieder des Ausschusses für Finanzstabilität und Personen, die im Dienst der im Ausschuss für Finanzstabilität vertretenen Institutionen stehen und zur Durchführung dieses Gesetzes tätig werden, sowie Personen nach § 2 Absatz 4 Satz 3 dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit oder ihre Mitgliedschaft im Ausschuss für Finanzstabilität beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Im Übrigen gilt § 9 Absatz 1 Satz 4 bis 8 und Absatz 2 des Kreditwesengesetzes entsprechend. § 2 Absatz 6 Satz 1 bleibt unberührt.

@@ -1,15 +1,11 @@
-# [WissFG] Gesetz zur Flexibilisierung von haushaltsrechtlichen Rahmenbedingungen außeruniversitärer Wissenschaftseinrichtungen  (Wissenschaftsfreiheitsgesetz - WissFG)
-
-Ausfertigungsdatum: 05.12.2012
-
+% Gesetz zur Flexibilisierung von haushaltsrechtlichen Rahmenbedingungen außeruniversitärer Wissenschaftseinrichtungen  (Wissenschaftsfreiheitsgesetz - WissFG)
+% Ausfertigungsdatum: 05.12.2012
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Dieses Gesetz dient der Stärkung der Leistungsfähigkeit und internationalen Wettbewerbsfähigkeit von außeruniversitären Wissenschaftseinrichtungen durch mehr Autonomie, Eigenverantwortung und Effizienz in den Bereichen Haushalt, Personal, Beteiligungen und Durchführung von Baumaßnahmen.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
@@ -35,8 +31,7 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 11. Deutscher Akademischer Austauschdienst e. V.
 
-
-## § 3 – Globalhaushalt
+# § 3 – Globalhaushalt
 
 (1) Die Wissenschaftseinrichtungen können ihren Wirtschaftsplan als Globalhaushalt führen, der in seinen Festlegungen mit der haushalterischen Veranschlagung der Zuwendungsmittel nach Absatz 2 korrespondiert.
 
@@ -44,18 +39,15 @@ Dieses Gesetz ist auf folgende Wissenschaftseinrichtungen anzuwenden:
 
 (3) Das jeweils zuständige Bundesministerium legt im Einvernehmen mit dem Bundesministerium der Finanzen geeignete Informations- und Steuerungsinstrumente fest.
 
-
-## § 4 – Einschränkung des Besserstellungsverbots
+# § 4 – Einschränkung des Besserstellungsverbots
 
 Zuwendungen können nach Maßgabe des jährlichen Haushaltsgesetzes auch bewilligt werden, wenn die Wissenschaftseinrichtung die bei ihr beschäftigten Wissenschaftlerinnen und Wissenschaftler durch die Zahlung von Gehältern oder Gehaltsbestandteilen aus Mitteln, die weder unmittelbar noch mittelbar von der deutschen öffentlichen Hand finanziert werden, besserstellt als vergleichbare Arbeitnehmerinnen und Arbeitnehmer des Bundes. Satz 1 ist auch auf sonstige im wissenschaftsrelevanten Bereich Beschäftigte anzuwenden, wenn sie im Rahmen der Planung, Vorbereitung, Durchführung, Auswertung oder Bewertung von Forschungsvorhaben einen wesentlichen Beitrag leisten.
 
-
-## § 5 – Beteiligung an Unternehmen
+# § 5 – Beteiligung an Unternehmen
 
 Es wird unwiderleglich vermutet, dass das Bundesministerium der Finanzen die Einwilligung gemäß § 65 Absatz 3 Satz 2 der Bundeshaushaltsordnung erteilt hat, wenn dieses einem Antrag des zuständigen Bundesministeriums nicht innerhalb von vier Wochen nach Eingang des Antrages widerspricht. Wenn innerhalb dieser Frist Widerspruch nach Satz 1 eingelegt wird, ist über den Antrag innerhalb von drei Monaten nach Eingang der vollständigen Antragsunterlagen zu entscheiden, andernfalls wird unwiderleglich vermutet, dass das Bundesministerium der Finanzen die Einwilligung erteilt hat.
 
-
-## § 6 – Durchführung von Bauverfahren
+# § 6 – Durchführung von Bauverfahren
 
 Bei Zuwendungsbaumaßnahmen einer Wissenschaftseinrichtung kann von einer Beteiligung und verfahrensbegleitenden Prüfung der fachlich zuständigen technischen staatlichen Verwaltung abgesehen werden, wenn die Wissenschaftseinrichtung über hinreichenden baufachlichen Sachverstand und ein adäquates internes Controlling verfügt und insoweit sicherstellen kann, dass
 
@@ -65,12 +57,10 @@ Bei Zuwendungsbaumaßnahmen einer Wissenschaftseinrichtung kann von einer Beteil
 
 Das Nähere wird in einer Verwaltungsvorschrift geregelt, die vom zuständigen Bundesministerium im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen nach Anhörung des Bundesrechnungshofes erlassen wird.
 
-
-## § 7 – Verhältnis zur Bundeshaushaltsordnung
+# § 7 – Verhältnis zur Bundeshaushaltsordnung
 
 Soweit nach diesem Gesetz keine Sonderregelungen anzuwenden sind, richten sich die haushaltsrechtliche Behandlung der Zuwendungen sowie die Beteiligung der Wissenschaftseinrichtungen an privatrechtlichen Unternehmen nach den Vorschriften der Bundeshaushaltsordnung in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

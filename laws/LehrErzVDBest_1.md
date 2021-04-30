@@ -1,20 +1,15 @@
-# [LehrErzVDBest 1] Erste Durchführungsbestimmung zur Verordnung über die Pflichten und Rechte der Lehrkräfte und Erzieher - Arbeitsordnung für pädagogische Kräfte der Volksbildung -  (Fürsorge- und Aufsichtsordnung)
-
-Ausfertigungsdatum: 05.01.1966
-
+% Erste Durchführungsbestimmung zur Verordnung über die Pflichten und Rechte der Lehrkräfte und Erzieher - Arbeitsordnung für pädagogische Kräfte der Volksbildung -  (Fürsorge- und Aufsichtsordnung)
+% Ausfertigungsdatum: 05.01.1966
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 der Verordnung vom 22. September 1962 über die Pflichten und Rechte der Lehrkräfte und Erzieher - Arbeitsordnung für pädagogische Kräfte der Volksbildung - (GBl. II S. 675) wird im Einvernehmen mit dem Vorsitzenden der Staatlichen Plankommission und dem Zentralvorstand der Gewerkschaft Unterricht und Erziehung zur Durchführung des § 2 Absätze 2 und 3 folgendes bestimmt:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Durchführungsbestimmung gilt für den im § 1 der Verordnung über die Pflichten und Rechte der Lehrkräfte und Erzieher genannten Personenkreis.
 
-
-## § 2
+# § 2
 
 (1) Die Leiter, Lehrkräfte und Erzieher der Einrichtungen haben in Ausübung ihrer beruflichen Tätigkeit eine umfassende Fürsorge und Aufsicht der ihnen anvertrauten Kinder und Jugendlichen zu sichern.
 
@@ -30,8 +25,7 @@ d) durch ihr Vorbild die Kinder und Jugendlichen zur Achtung des Volkseigentums 
 
 e) durch gute Vorbereitung, Gestaltung und Kontrolle der gesamten Bildungs- und Erziehungsarbeit Vorsorge zu treffen, daß die Kinder und Jugendlichen weder geistigen, sittlichen noch körperlichen oder materiellen Schaden erleiden, noch daß durch sie der sozialistischen Gesellschaft Schaden zugefügt wird.
 
-
-## § 3
+# § 3
 
 (1) Die Fürsorge und Aufsicht erstreckt sich nach Maßgabe der §§ 5 bis 7 dieser Durchführungsbestimmung:
 
@@ -43,13 +37,11 @@ c) auf die Unterrichtswege, d.h. auf die Wege zwischen dem Grundstück der Einri
 
 (2) Der Schulweg, d.h. der Weg vom Elternhaus zur Einrichtung oder zum Ort der Schulveranstaltung und umgekehrt unterliegt nicht der Aufsicht durch die Einrichtung. Das gilt auch für die Wege vom Elternhaus zur außerunterrichtlichen Tätigkeit, zu Ferienveranstaltungen sowie für die Benutzung von öffentlichen oder privaten Verkehrsmitteln zur Einrichtung und den angeführten Veranstaltungen. Der Leiter soll jedoch im Zusammenwirken mit den Lehrern und Erziehern, der FDJ und Pionierorganisation, dem Elternbeirat und den Organen der Volkspolizei durch Aufklärung und Erziehung dafür Sorge tragen, daß die Sicherheit der Kinder auf dem Schulweg erhöht wird.
 
-
-## § 4
+# § 4
 
 Sind Leiter, Lehrkräfte und Erzieher an Veranstaltungen beteiligt, die außerhalb der Verantwortung der Schulen und Erziehungseinrichtungen liegen, richtet sich ihre Fürsorge und Aufsicht nach den für alle Bürger der Deutschen Demokratischen Republik geltenden gesetzlichen Bestimmungen.
 
-
-## § 5 – Die Aufgaben des Leiters der Einrichtung
+# § 5 – Die Aufgaben des Leiters der Einrichtung
 
 (1) Der Leiter einer Einrichtung hat in Wahrnehmung der Aufgaben und Pflichten, die sich für ihn nach der Arbeitsschutzverordnung vom 22. September 1962 (GBl. II S. 703; Ber. S. 721) in der Fassung der Zweiten Arbeitsschutzverordnung vom 5. Dezember 1963 (GBl. II 1964 S. 15) ergeben, durch geeignete Anleitung und Kontrolle alle Voraussetzungen zu schaffen, daß die Lehrkräfte und Erzieher zur Aufsicht und Fürsorge gegenüber den ihnen anvertrauten Kindern und Jugendlichen befähigt werden.
 
@@ -65,8 +57,7 @@ Sind Leiter, Lehrkräfte und Erzieher an Veranstaltungen beteiligt, die außerha
 
 (7) Der Leiter ist verpflichtet, Verletzungen dieser Durchführungsbestimmung mit allen Mitarbeitern in Zusammenarbeit mit der Abteilungsgewerkschaftsleitung bzw. Gewerkschaftsgruppe auszuwerten und die notwendigen Schlußfolgerungen zu ziehen. Schwere Verstöße hat er sofort seiner vorgesetzten Dienststelle zu melden.
 
-
-## § 6
+# § 6
 
 (1) Die Lehrkräfte und Erzieher sind für die Fürsorge und Aufsicht gegenüber den Kindern und Jugendlichen des ihnen anvertrauten Klassen- oder Gruppenverbandes verantwortlich.
 
@@ -84,8 +75,7 @@ regelmäßige Belehrungen über Gefahren- und Unfallquellen durchzuführen und s
 \-  
 stets klare Weisungen zu erteilen, ihre Befolgung ständig zu überprüfen und notfalls zur Verhinderung von Unfällen und Schäden mit Nachdruck durchzusetzen.
 
-
-## § 7
+# § 7
 
 (1) Soweit nicht Festlegungen in der Stundentafel entgegenstehen, dürfen Lehrer und Erzieher Schüler ab 7. Klasse sowie Lehrlinge in der Regel ohne persönliche Begleitung Unterrichtswege zurücklegen oder feststehende Warte- oder Pausenzeiten verbringen lassen, es sei denn, daß der Direktor oder Leiter aus besonderen Gründen eine andere Regelung trifft.
 
@@ -103,20 +93,17 @@ b) sorgfältige Einweisung und Belehrung,
 
 c) regelmäßige Anleitung und Kontrolle.
 
-
-## § 8
+# § 8
 
 Die besondere Verantwortung von Lehrkräften und Erziehern im naturwissenschaftlichen Unterricht, bei Sport und Schulwanderungen, Baden und bei Durchführung von schulischen Lehrveranstaltungen in Betrieben wird in hierfür geltenden Bestimmungen geregelt.
 
-
-## § 9
+# § 9
 
 (1) In Heimen der Jugendhilfe, in Sonderschulen und Einrichtungen des Sonderschulwesens sowie in Instituten für Lehrerbildung und Pädagogischen Schulen und in Einrichtungen der Volksbildung im Ausland ist diese Durchführungsbestimmung für die Fürsorge und Aufsicht gegenüber den Kindern und Jugendlichen unter Beachtung der konkreten Bedingungen, Erfordernisse und Umstände der jeweiligen Einrichtung anzuwenden.
 
 (2) Nach Beratung mit der zuständigen Betriebsgewerkschaftsleitung ist der Leiter der Einrichtung berechtigt, besondere Festlegungen in seinem Verantwortungsbereich zu treffen.
 
-
-## § 10
+# § 10
 
 (1) Die Abteilungen Volksbildung der Räte der Kreise und Städte und die wirtschaftsleitenden Organe sind verpflichtet, die Direktoren, Leiter, Lehrkräfte und Erzieher in der richtigen Anwendung der Fürsorge- und Aufsichtsordnung anzuleiten und zu kontrollieren.
 
@@ -136,12 +123,10 @@ Einleitung eines Disziplinarverfahrens;
 \-  
 Benachrichtigung der zuständigen Staatsorgane.
 
-
-## § 11
+# § 11
 
 Diese Durchführungsbestimmung tritt mit ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Minister für Volksbildung

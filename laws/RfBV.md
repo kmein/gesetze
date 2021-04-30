@@ -1,20 +1,15 @@
-# [RfBV] Verordnung über den kollektiven Teil der Rückstellung für Beitragsrückerstattung  (RfB-Verordnung - RfBV)
-
-Ausfertigungsdatum: 10.03.2015
-
+% Verordnung über den kollektiven Teil der Rückstellung für Beitragsrückerstattung  (RfB-Verordnung - RfBV)
+% Ausfertigungsdatum: 10.03.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 56b Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes, der durch Artikel 6 Nummer 6 des Gesetzes vom 3. April 2013 (BGBl. I S. 610) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für Lebensversicherungsunternehmen mit Ausnahme von Sterbekassen und regulierten Pensionskassen im Sinne von § 233 Absatz 1 oder 2 des Versicherungsaufsichtsgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet:
 
@@ -48,8 +43,7 @@ b) bei Pensionskassen eine Bestandsgruppe des Neubestands, die in Anlehnung an A
 
 6. Ungebundene Rückstellung für Beitragsrückerstattung eines Teilbestands: den diesem Teilbestand zugeordneten Teilbetrag der ungebundenen Rückstellung für Beitragsrückerstattung.
 
-
-## § 3 – Kollektiver Teil der Rückstellung für Beitragsrückerstattung
+# § 3 – Kollektiver Teil der Rückstellung für Beitragsrückerstattung
 
 (1) Kollektive Teile der Rückstellung für Beitragsrückerstattung im Sinne des § 140 Absatz 4 des Versicherungsaufsichtsgesetzes können nur durch Rückführung im Sinne der Absätze 3 und 4 aufgelöst werden. § 140 Absatz 1 des Versicherungsaufsichtsgesetzes bleibt unberührt.
 
@@ -59,20 +53,17 @@ b) bei Pensionskassen eine Bestandsgruppe des Neubestands, die in Anlehnung an A
 
 (4) Rückführungen aus dem kollektiven Teil der Rückstellung für Beitragsrückerstattung zugunsten einzelner Teilbestände, in denen Finanzierungsdefizite vorliegen, sind mit Zustimmung der Aufsichtsbehörde möglich.
 
-
-## § 4 – Sonderregelungen
+# § 4 – Sonderregelungen
 
 (1) Vertragliche Verpflichtungen aus Versicherungsverträgen, die einer Zuführung in den kollektiven Teil der Rückstellung für Beitragsrückerstattung entgegenstehen, sind zu berücksichtigen.
 
 (2) Soweit nach einer Bestandsübertragung gemäß § 13 des Versicherungsaufsichtsgesetzes oder einer Umwandlung nach § 14 des Versicherungsaufsichtsgesetzes die Bestände in separaten Teilbeständen geführt werden, sind die Regelungen des § 3 und des Absatzes 1 getrennt für die separaten Bestände anzuwenden.
 
-
-## § 5 – Übergangsvorschrift
+# § 5 – Übergangsvorschrift
 
 Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist die RfB-Verordnung in der bis zum 31. Juli 2017 geltenden Fassung anzuwenden.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 

@@ -1,20 +1,15 @@
-# [VwFAngAusbV 1999] Verordnung über die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten
-
-Ausfertigungsdatum: 19.05.1999
-
+% Verordnung über die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten
+% Ausfertigungsdatum: 19.05.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnen das Bundesministerium des Innern, das Bundesministerium für Wirtschaft und Technologie, das Bundesministerium für Verkehr, Bau- und Wohnungswesen im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert 36 Monate. Davon entfallen 24 Monate auf die gemeinsame Ausbildung. Die Ausbildung in den Fachrichtungen dauert jeweils 12 Monate.
 
@@ -32,8 +27,7 @@ Der Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte wird
 
 gewählt werden.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -132,8 +126,7 @@ Kirchliches Verfassungs- und Verwaltungsrecht,
 5.3  
 Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen in der gemeinsamen Berufsausbildung und in der Fachrichtung Bundesverwaltung nach der in den Anlagen 1 und 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden.
 
@@ -145,18 +138,15 @@ Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes.
 
 (5) Zur Ergänzung und Vertiefung der Berufsausbildung sind die Fertigkeiten und Kenntnisse in den Fachrichtungen Bundesverwaltung, Landesverwaltung, Kommunalverwaltung und Kirchenverwaltung in den Gliedkirchen der Evangelischen Kirche in Deutschland in einer dienstbegleitenden Unterweisung von in der Regel 420 Stunden zu vermitteln. Hierfür kommen insbesondere Fertigkeiten und Kenntnisse nach § 3 Abs. 1 Nr. 3, 5 bis 7 und § 3 Abs. 2 Nr. 1 bis 3 und 5 in Betracht. Die dienstbegleitende Unterweisung ist inhaltlich und zeitlich mit dem Berufsschulunterricht abzustimmen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -170,8 +160,7 @@ b) Haushaltswesen und Beschaffung,
 
 c) Wirtschafts- und Sozialkunde.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in Anlage 1 Abschnitt I aufgeführten Fertigkeiten und Kenntnisse und für die Fachrichtung Bundesverwaltung auf die in Abschnitt II aufgeführten Fertigkeiten und Kenntnisse sowie für die übrigen Fachrichtungen auf die in den jeweiligen Vorschriften der Länder oder Kirchen nach § 4 Abs. 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -222,18 +211,15 @@ Der Prüfling soll eine praktische Aufgabe bearbeiten und dabei Sachverhalte aus
 
 (6) Zum Bestehen der Abschlußprüfung müssen in mindestens drei der in Absatz 2 genannten schriftlichen Prüfungsbereiche sowie im Gesamtergebnis mindestens ausreichende Leistungen erbracht werden. Wird ein Prüfungsbereich mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-
-## Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Sachliche Gliederung -
+# Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1999, S. 1032 - 1035)
 
@@ -681,8 +667,7 @@ h)
 
 bei der Ermittlung des Fortbildungsbedarfs mitwirken, Bildungsmaßnahmen ausschreiben, Entscheidungen über die Bewerberauswahl vorbereiten und umsetzen
 
-
-## Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Zeitliche Gliederung -
+# Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1999, S. 1036 - 1037)
 
@@ -816,32 +801,27 @@ I.1)
   
 Betriebliche Organisation,
 
-I.  
-5.3  
+I. 5.3  
 Rechnungswesen, Lernziele b und e,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.4
+I. 1.4
 
   
 Umweltschutz,
 
-I.  
-2
+I. 2
 
   
 Arbeitsorganisation und bürowirtschaftliche Abläufe,
 
-I.  
-3
+I. 3
 
   
 Informations- und Kommunikationssysteme,
 
-I.  
-5.3  
+I. 5.3  
 Rechnungswesen, Lernziele a, c und d,
 
 fortzuführen.
@@ -856,26 +836,22 @@ Personalwirtschaft
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-2
+I. 2
 
   
 Arbeitsorganisation und bürowirtschaftliche Abläufe,
 
-I.  
-3
+I. 3
 
   
 Informations- und Kommunikationssysteme,
 
-I.  
-6
+I. 6
 
   
 Personalwesen
@@ -894,25 +870,21 @@ Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
 Informations- und Kommunikationssysteme,
 
-I.  
-4
+I. 4
 
   
 Kommunikation und Kooperation,
 
-I.  
-7
+I. 7
 
   
 Allgemeines Verwaltungsrecht und Verwaltungsverfahren
 
-fortzuführen.  
------  
+fortzuführen. -----  
 1) Abschnitt I  
 2) Abschnitt II

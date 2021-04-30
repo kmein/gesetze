@@ -1,18 +1,13 @@
-# [WWSUG] Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
-
-Ausfertigungsdatum: 25.06.1990
-
+% Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
+% Ausfertigungsdatum: 25.06.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
+# §§ 1 bis 3 – (weggefallen)
 
-## §§ 1 bis 3 – (weggefallen)
-
-
-## § 1 – Befreiung von der Versicherungspflicht in besonderen Fällen
+# § 1 – Befreiung von der Versicherungspflicht in besonderen Fällen
 
 (1) Personen, die für begrenzte Zeit im Geltungsbereich dieses Gesetzes beschäftigt sind, werden auf ihren Antrag von der Versicherungs- und Beitragspflicht befreit, wenn sie nach den Rechtsvorschriften der Deutschen Demokratischen Republik versichert sind.
 
@@ -22,8 +17,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) (weggefallen)
 
-
-## § 2 – Versicherungspflicht auf Antrag in besonderen Fällen
+# § 2 – Versicherungspflicht auf Antrag in besonderen Fällen
 
 (1) Beschäftigte, die ihren Wohnsitz oder gewöhnlichen Aufenthalt zuletzt im Geltungsbereich dieses Gesetzes hatten und für begrenzte Zeit im Gebiet der Deutschen Demokratischen Republik einschließlich Berlin (Ost) beschäftigt sind, werden in der Kranken-, Renten-, Unfallversicherung und Arbeitslosenversicherung auf Antrag versichert, wenn die Versicherungspflicht von einer Stelle beantragt wird, die ihren Sitz im Geltungsbereich dieses Gesetzes hat. Der Antrag hat auch die Einbeziehung in die Beitragspflicht nach dem Arbeitsförderungsgesetz zu umfassen. Bestand vor Aufnahme der Beschäftigung in der Deutschen Demokratischen Republik in der gesetzlichen Krankenversicherung eine freiwillige Versicherung, kann diese abweichend von § 3 Nr. 1 des Vierten Buches Sozialgesetzbuch während der Dauer der zeitlich begrenzten Beschäftigung in der Deutschen Demokratischen Republik fortgesetzt werden.
 
@@ -33,23 +27,19 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Die antragstellende Stelle hat die Pflichten des Arbeitgebers in der Sozialversicherung zu erfüllen. Von ihr sind die Beiträge zu tragen. Als beitragspflichtiges Entgelt ist der Betrag in Höhe der monatlichen Bezugsgröße zugrunde zu legen. Der Betrag kann bis zur jeweiligen Beitragsbemessungsgrenze sowie bis zum Höchstbetrag des Jahresarbeitsverdienstes des Trägers der Unfallversicherung, dem die antragstellende Stelle angehört, auf ihren Vorschlag erhöht werden. Wenn das tatsächlich erzielte Arbeitsentgelt die Höhe der monatlichen Bezugsgröße übersteigt, sind Krankenversicherungsbeiträge nach dem tatsächlich erzielten Arbeitsentgelt zu bemessen. Die antragstellende Stelle hat auch die Beiträge in den Fällen des Absatzes 1 Satz 2 zu tragen.
 
-
-## § 3 – Mitteilungspflichten
+# § 3 – Mitteilungspflichten
 
 Die Einzugsstelle hat die Betroffenen und die für die Entscheidung über die Versicherungspflicht in der Deutschen Demokratischen Republik zuständige Stelle über Beginn und Ende der Versicherungspflicht nach § 2 zu unterrichten.
 
-
-## § 4 – Entsprechende Anwendung des Sozialgesetzbuchs
+# § 4 – Entsprechende Anwendung des Sozialgesetzbuchs
 
 Das Erste und das Zehnte Buch Sozialgesetzbuch gelten entsprechend.
 
-
-## § 5 – Zusammenarbeit der Versicherungsträger
+# § 5 – Zusammenarbeit der Versicherungsträger
 
 Die Versicherungsträger und ihre Verbände sind berechtigt, die Sozialversicherung der Deutschen Demokratischen Republik beim organisatorischen Aufbau eines leistungsfähigen, gegliederten Sozialversicherungssystems im Einvernehmen mit der Aufsichtsbehörde zu unterstützen und dabei eigene Mittel einzusetzen.
 
-
-## § 1 – Ausschluß der Anwendung des Fremdrentenrechts
+# § 1 – Ausschluß der Anwendung des Fremdrentenrechts
 
 (1) Für rentenrechtliche Zeiten, die nach dem 18. Mai 1990 bei einem Träger der gesetzlichen Rentenversicherung im Gebiet der Deutschen Demokratischen Republik einschließlich Berlin (Ost) zurückgelegt sind, ist das Fremdrentenrecht nicht anzuwenden.
 
@@ -57,8 +47,7 @@ Die Versicherungsträger und ihre Verbände sind berechtigt, die Sozialversicher
 
 Art. 23 § 1: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 2 – Rentenrechtliche Zeiten im Bundesgebiet und in der Deutschen Demokratischen Republik
+# § 2 – Rentenrechtliche Zeiten im Bundesgebiet und in der Deutschen Demokratischen Republik
 
 (1) Für die Erfüllung von Anspruchs- und Anrechnungsvoraussetzungen sowie von Voraussetzungen bei der besonderen Bewertung von Zeiten werden die Zeiten nach § 1 und die rentenrechtlichen Zeiten nach Bundesrecht zusammengerechnet. Die rentenrechtlichen Zeiten, die bei einem Träger der gesetzlichen Rentenversicherung im Gebiet der Deutschen Demokratischen Republik einschließlich Berlin (Ost) zurückgelegt sind, werden hierbei in folgendem Umfang berücksichtigt:  
 Beitragszeiten stehen den nach Bundesrecht zurückgelegten Beitragszeiten gleich. Sind die Beiträge auf Grund einer abhängigen Beschäftigung oder einer selbständigen Tätigkeit entrichtet, so steht die ihnen zugrunde liegende Beschäftigung oder Tätigkeit einer rentenversicherungspflichtigen Beschäftigung oder Tätigkeit im Geltungsbereich dieses Gesetzes gleich. Zeiten einer Beschäftigung, die bei ihrer Zurücklegung nach dem zu dieser Zeit geltenden Recht als Beitragszeiten anrechnungsfähig waren und für die Beiträge nicht entrichtet worden sind, stehen den nach Bundesrecht zurückgelegten Beitragszeiten gleich, soweit für sie nach Bundesrecht Beiträge zu zahlen gewesen wären. Als Beitragszeiten gelten die Zeiten, in denen der Versicherte den gesetzlichen Grundwehrdienst geleistet hat. Als Beitragszeiten gelten nicht
@@ -107,8 +96,7 @@ Satz 1 Buchstabe h gilt nur, wenn am 18. Mai 1990 ein gewöhnlicher Aufenthalt i
 
 Art. 23 § 2: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 3 – Rentenleistungen in die Deutsche Demokratische Republik
+# § 3 – Rentenleistungen in die Deutsche Demokratische Republik
 
 (1) Berechtigte im Sinne der Vorschriften der gesetzlichen Rentenversicherungen über die Erbringung von Leistungen an Berechtigte außerhalb des Geltungsbereichs der Rentengesetze (Berechtigte), die nach dem 18. Mai 1990 ihren gewöhnlichen Aufenthalt in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) genommen haben, erhalten die nach § 2 Abs. 2 Satz 1 Buchstaben a bis d und h, Absatz 3 und 4 ermittelte Rente sowie die Leistung für Kindererziehung an Mütter der Geburtsjahrgänge vor 1921.
 
@@ -118,22 +106,19 @@ Art. 23 § 2: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebie
 
 Art. 23 § 3: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 4 – Rentenleistungen ins Ausland
+# § 4 – Rentenleistungen ins Ausland
 
 Berechtigte Deutsche, die nach dem 18. Mai 1990 ihren gewöhnlichen Aufenthalt im Ausland genommen haben, erhalten die Rente, die sich ohne die nach dem Fremdrentenrecht berücksichtigten und ohne die nach den Reichsversicherungsgesetzen außerhalb des Geltungsbereichs dieses Gesetzes zurückgelegten Versicherungszeiten ergibt. Satz 1 gilt nicht für Bezieher von Renten, die ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes bis zum 18. Mai 1990 genommen haben und bis zum 31. Dezember 1990 ins Ausland verlegen.
 
 Art. 23 § 4: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 5 – Übergangsregelung für besondere Personengruppen
+# § 5 – Übergangsregelung für besondere Personengruppen
 
 Bei Personen, die am 18. Mai 1990 ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes hatten und von einem Unternehmen in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) Entgelte in Deutsche Mark erhalten haben, finden für die Berechnung ihrer Rente die bis zum 30. Juni 1990 maßgeblichen Tabellenentgelte Anwendung, wenn der Leistungsbezug vor dem 1. Januar 1996 beginnt.
 
 Art. 23 § 5: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 1 – Ausschluß der Anwendung des Fremdrentenrechts
+# § 1 – Ausschluß der Anwendung des Fremdrentenrechts
 
 (1) Auf Arbeitsunfälle, die nach dem 18. Mai 1990 im Zuständigkeitsbereich eines Trägers der gesetzlichen Unfallversicherung im Gebiet der Deutschen Demokratischen Republik einschließlich Berlin (Ost) eingetreten sind, ist das Fremdrentenrecht nicht anzuwenden.
 
@@ -142,8 +127,7 @@ Art. 23 § 5: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebie
 Art. 24 § 1: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058  
 Art. 24 § 1 Abs. 2 Satz 2 (Kursivdruck "Fremdrentenrecht"): Müßte richtig lauten "Fremdrentengesetz"
 
-
-## § 2 – Gefährdende Beschäftigungszeiten
+# § 2 – Gefährdende Beschäftigungszeiten
 
 (1) Haben Personen, die ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes nach dem 18. Mai 1990 begründet haben, sowohl in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) als auch im Geltungsbereich dieses Gesetzes eine Tätigkeit ausgeübt, durch die eine Berufskrankheit verursacht sein kann, gelten für die Voraussetzungen von Leistungen die in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) zurückgelegten Beschäftigungszeiten als im Geltungsbereich dieses Gesetzes zurückgelegt.
 
@@ -151,8 +135,7 @@ Art. 24 § 1 Abs. 2 Satz 2 (Kursivdruck "Fremdrentenrecht"): Müßte richtig lau
 
 Art. 24 § 2: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 3 – Unfallversicherungsleistungen in die Deutsche Demokratische Republik
+# § 3 – Unfallversicherungsleistungen in die Deutsche Demokratische Republik
 
 (1) Leistungen der gesetzlichen Unfallversicherung werden auch erbracht an leistungsberechtigte Personen, die nach dem 18. Mai 1990 (Stichtag) ihren gewöhnlichen Aufenthalt in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) begründet haben; § 12 Abs. 1 Fremdrentengesetz bleibt unberührt.
 
@@ -162,15 +145,13 @@ Art. 24 § 2: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebie
 
 Art. 24 § 3: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 4 – Zusammenarbeit in der Unfallverhütung
+# § 4 – Zusammenarbeit in der Unfallverhütung
 
 Zur Vorbereitung der Tätigkeitsaufnahme von Unfallversicherungsträgern auf dem Gebiet der Deutschen Demokratischen Republik einschließlich Berlin (Ost) sind die drei Spitzenverbände der Unfallversicherungsträger der Bundesrepublik Deutschland berechtigt, den Träger der Unfallversicherung der Deutschen Demokratischen Republik einschließlich Berlin (Ost) bei der Gewinnung von sicherheitstechnischen und arbeitsmedizinischen Fachkräften für die Technischen Aufsichtsdienste zu unterstützen und dabei eigene Mittel einzusetzen.
 
 Art. 24 § 4: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. H Abschn. I Nr. 47 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1058
 
-
-## § 1
+# § 1
 
 (1) Abweichend von § 16 Abs. 1 Nr. 1 und § 17 des Fünften Buches Sozialgesetzbuch erhalten Versicherte, die sich in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) aufhalten, die Leistungen im Krankheitsfall oder bei Schwangerschaft und Mutterschaft von ihrer Krankenkasse.
 
@@ -180,17 +161,14 @@ Art. 24 § 4: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebie
 
 (4) § 16 Abs. 5 des Fünften Buches Sozialgesetzbuch wird aufgehoben.
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 Beim Tod eines Versicherten wird Sterbegeld nach § 58 des Fünften Buches Sozialgesetzbuch auch dann gezahlt, wenn der Verstorbene am 1. Januar 1989 in der Sozialversicherung der Deutschen Demokratischen Republik versichert war.
 
-
-## § 4
+# § 4
 
 Renten aus der Deutschen Demokratischen Republik einschließlich Berlin (Ost) gelten als der Rente vergleichbare Einnahmen (Versorgungsbezüge) nach § 229 des Fünften Buches Sozialgesetzbuch. Versicherungspflichtige haben Zuschüsse zu ihrer Rente aus der Deutschen Demokratischen Republik einschließlich Berlin (Ost) an ihre Krankenkasse abzuführen, die sie zusammen mit den Beiträgen aus der Rente aus der Deutschen Demokratischen Republik einschließlich Berlin (Ost) entsprechend § 255 Abs. 1 des Fünften Buches Sozialgesetzbuch an die Bundesversicherungsanstalt für Angestellte zu zahlen hat; für freiwillig versicherte Mitglieder gilt § 240 Abs. 3 des Fünften Buches Sozialgesetzbuch entsprechend.

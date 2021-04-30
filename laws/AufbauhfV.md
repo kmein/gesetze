@@ -1,15 +1,11 @@
-# [AufbauhfV] Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes  (Aufbauhilfefondsverordnung - AufbauhfV)
-
-Ausfertigungsdatum: 24.06.2003
-
+% Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes  (Aufbauhilfefondsverordnung - AufbauhfV)
+% Ausfertigungsdatum: 24.06.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 6 des Aufbauhilfefondsgesetzes vom 19. September 2002 (BGBl. I S. 3651, 3652) verordnet die Bundesregierung:
 
-
-## § 1 – Mittelverteilung
+# § 1 – Mittelverteilung
 
 (1) Die dem Fonds nach § 4 Abs. 2 des Aufbauhilfefondsgesetzes zugewiesenen Mittel verteilen sich nach folgenden Maßgaben:
 
@@ -39,8 +35,7 @@ Satz 1 gilt entsprechend für Maßnahmen nach § 2 Abs. 2 Nr. 1 des Aufbauhilfef
 
 (2) Die Mittel des Fonds verteilen sich - mit Ausnahme des Pauschalbetrages nach § 2 Abs. 4 des Aufbauhilfefondsgesetzes, soweit dieser zur Finanzierung eigener Länderprogramme und -maßnahmen eingesetzt wird - auf die einzelnen Maßnahmen nach § 2 Abs. 2 des Aufbauhilfefondsgesetzes nach Maßgabe des gemäß § 5 des Aufbauhilfefondsgesetzes aufzustellenden Wirtschaftsplans.
 
-
-## § 2 – Mittelverwendung
+# § 2 – Mittelverwendung
 
 (1) Nach der Verteilung der Mittel des Fonds im Rahmen seines Wirtschaftsplans obliegt die Entscheidung über die Verwendung der Mittel nach § 2 Abs. 2 Nr. 1 und 2 des Aufbauhilfefondsgesetzes den in § 1 genannten Ländern und den beauftragten Stellen (bewilligende Stellen). Über die Verwendung der Mittel nach § 2 Abs. 2 Nr. 3 des Aufbauhilfefondsgesetzes und für Maßnahmen, die ausschließlich vom Bund aus Fondsmitteln zu finanzieren sind, entscheidet der Bund.
 
@@ -58,8 +53,7 @@ Satz 1 gilt entsprechend für Maßnahmen nach § 2 Abs. 2 Nr. 1 des Aufbauhilfef
 
 3. Der jeweilige Nachweis der Angaben der Geschädigten kann durch die Glaubhaftmachung und Versicherung der Richtigkeit der Angaben erbracht werden. Dieses schließt auch nachträgliche Überprüfungen und Anforderungen von Nachweisen insbesondere bei Schäden von großem Umfang nicht aus.
 
-
-## § 3 – Zweckentsprechende Mittelverwendung, Rückforderung
+# § 3 – Zweckentsprechende Mittelverwendung, Rückforderung
 
 (1) Die Länder sind für die bestimmungsgemäße Verwendung der Mittel des Fonds verantwortlich, soweit nicht der Bund für seine eigenen aus dem Fonds finanzierten Programme und Maßnahmen hierfür die Verantwortung trägt.
 
@@ -73,29 +67,24 @@ Satz 1 gilt entsprechend für Maßnahmen nach § 2 Abs. 2 Nr. 1 des Aufbauhilfef
 
 (6) Rückzahlungen von Fondsmitteln fließen den jeweiligen Ausgabetiteln des Wirtschaftsplans des Fonds zu.
 
-
-## § 4 – Mittelanforderung
+# § 4 – Mittelanforderung
 
 (1) Soweit nicht der Bund eigene Maßnahmen und Programme aus den Fondsmitteln zu finanzieren hat und unbeschadet der Regelung des § 4 Abs. 4 Satz 2 des Aufbauhilfefondsgesetzes fordern die Länder für sich und ihre beauftragten Stellen im Rahmen der Ansätze des Wirtschaftsplans des Fonds und nach Maßgabe des Verteilungsschlüssels nach § 1 Abs. 1 die Mittel bedarfsgerecht entsprechend der Abwicklung der Schadensbeseitigungsmaßnahmen beim Bund an.
 
 (2) Überzahlungen oder nicht bedarfsgerecht abgeforderte Mittel sind unverzüglich an den Fonds zurückzuzahlen.
 
-
-## § 5 – Liquidität des Fonds
+# § 5 – Liquidität des Fonds
 
 Die Liquidität des Fonds ist durch den Bund auf seine Kosten sicherzustellen. Eine Zwischenanlage eventuell überschießender Mittel zugunsten des Fonds erfolgt nicht.
 
-
-## § 6 – Fondsverwaltung
+# § 6 – Fondsverwaltung
 
 Die Verwaltung des Fonds obliegt dem Bundesministerium der Finanzen; dieses stellt den erforderlichen Wirtschaftsplan zu seiner Bewirtschaftung auf.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

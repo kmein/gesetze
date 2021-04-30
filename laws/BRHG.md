@@ -1,22 +1,17 @@
-# [BRHG] Gesetz über den Bundesrechnungshof  (Bundesrechnungshofgesetz - BRHG)
-
-Ausfertigungsdatum: 11.07.1985
-
+% Gesetz über den Bundesrechnungshof  (Bundesrechnungshofgesetz - BRHG)
+% Ausfertigungsdatum: 11.07.1985
  
-
-## § 1 – Stellung
+# § 1 – Stellung
 
 Der Bundesrechnungshof ist eine oberste Bundesbehörde und als unabhängiges Organ der Finanzkontrolle nur dem Gesetz unterworfen. Im Rahmen seiner gesetzlichen Aufgaben unterstützt der Bundesrechnungshof den Deutschen Bundestag, den Bundesrat und die Bundesregierung bei ihren Entscheidungen.
 
-
-## § 2 – Sitz und Organisation
+# § 2 – Sitz und Organisation
 
 (1) Der Bundesrechnungshof hat seinen Sitz in Bonn. Er kann Außenstellen einrichten.
 
 (2) Der Bundesrechnungshof gliedert sich in Prüfungsabteilungen und Prüfungsgebiete. Für bestimmte Aufgaben können Prüfungsgruppen gebildet werden. Für die Verwaltung besteht eine Präsidialabteilung.
 
-
-## § 3 – Mitglieder des Bundesrechnungshofes
+# § 3 – Mitglieder des Bundesrechnungshofes
 
 (1) Mitglieder des Bundesrechnungshofes sind der Präsident, der Vizepräsident, die Leiter der Prüfungsabteilungen und die Prüfungsgebietsleiter.
 
@@ -26,13 +21,11 @@ Der Bundesrechnungshof ist eine oberste Bundesbehörde und als unabhängiges Org
 
 (4) Die Mitglieder des Bundesrechnungshofes besitzen richterliche Unabhängigkeit (Artikel 114 Abs. 2 Satz 1 des Grundgesetzes). Die für die Richter an den obersten Gerichtshöfen des Bundes geltenden Vorschriften über Unabhängigkeit und Disziplinarmaßnahmen sind entsprechend anzuwenden. § 48 Abs. 2, 4 und 5 des Deutschen Richtergesetzes findet Anwendung.
 
-
-## § 4 – Prüfungsbeamte und weitere Bedienstete
+# § 4 – Prüfungsbeamte und weitere Bedienstete
 
 Zum Bundesrechnungshof gehören auch die erforderlichen Prüfungsbeamten des höheren und gehobenen Dienstes sowie weitere Bedienstete.
 
-
-## § 5 – Wahl und Ernennung
+# § 5 – Wahl und Ernennung
 
 (1) Der Deutsche Bundestag und der Bundesrat wählen jeweils ohne Aussprache auf Vorschlag der Bundesregierung den Präsidenten und den Vizepräsidenten. Der Deutsche Bundestag wählt in geheimer Wahl mit der Mehrheit seiner Mitglieder. Der Bundespräsident ernennt die Gewählten. Eine Wiederwahl ist ausgeschlossen.
 
@@ -44,8 +37,7 @@ Zum Bundesrechnungshof gehören auch die erforderlichen Prüfungsbeamten des hö
 
 Der Präsident hat vor seinen Vorschlägen nach Nummer 1 den Ständigen Ausschuß des Großen Senats des Bundesrechnungshofes (§ 13 Abs. 2) zu hören.
 
-
-## § 6 – Präsident und Vizepräsident
+# § 6 – Präsident und Vizepräsident
 
 (1) Der Präsident vertritt die Behörde nach außen. Er leitet die Verwaltung des Bundesrechnungshofes und übt die Dienstaufsicht aus.
 
@@ -53,8 +45,7 @@ Der Präsident hat vor seinen Vorschlägen nach Nummer 1 den Ständigen Ausschu�
 
 (3) Der Präsident wird bei der Erfüllung seiner Aufgaben durch die anderen Mitglieder unterstützt. Sie dürfen dadurch ihrer Haupttätigkeit als Mitglied des Bundesrechnungshofes nicht ohne ihre Zustimmung entzogen und in ihrer richterlichen Unabhängigkeit nicht beeinträchtigt werden.
 
-
-## § 7 – Geschäftsverteilung
+# § 7 – Geschäftsverteilung
 
 (1) Im Einvernehmen mit dem Ständigen Ausschuß des Großen Senats verteilt der Präsident vor Beginn des Geschäftsjahrs die Geschäfte auf Abteilungen und Prüfungsgebiete und bestimmt, welche Mitglieder die Abteilungen und Prüfungsgebiete leiten.
 
@@ -66,32 +57,27 @@ Der Präsident hat vor seinen Vorschlägen nach Nummer 1 den Ständigen Ausschu�
 
 (5) Der Präsident legt im Benehmen mit dem Vizepräsidenten fest, in welchen Abteilungen er oder der Vizepräsident in dem folgenden Geschäftsjahr an den Entscheidungen der Kollegien und Senate mitwirkt. Das gleiche gilt erforderlichenfalls nach Entscheidungen gemäß Absatz 3 während des Geschäftsjahrs.
 
-
-## § 8 – Entscheidungen des Bundesrechnungshofes
+# § 8 – Entscheidungen des Bundesrechnungshofes
 
 Entscheidungen des Bundesrechnungshofes treffen der Präsident (§ 19 Satz 1 Nr. 2), die Kollegien (§ 9), die Prüfungsgruppen (§ 10), die Senate (§ 11) und der Große Senat (§ 13).
 
-
-## § 9 – Zweier- und Dreierkollegium
+# § 9 – Zweier- und Dreierkollegium
 
 (1) Das Kollegium für ein Prüfungsgebiet besteht aus dem zuständigen Abteilungsleiter und dem zuständigen Prüfungsgebietsleiter (Zweierkollegium). Der Präsident oder der Vizepräsident tritt hinzu, wenn er oder ein Mitglied des Zweierkollegiums dies für erforderlich hält (Dreierkollegium).
 
 (2) Ein Kollegium kann ein Mitglied für einen Einzelfall ermächtigen, allein zu entscheiden.
 
-
-## § 10 – Prüfungsgruppen
+# § 10 – Prüfungsgruppen
 
 Im Einvernehmen mit dem Ständigen Ausschuß des Großen Senats kann der Präsident Prüfungsgruppen für bestimmte Aufgaben bilden. Die §§ 7, 9, 14 Abs. 1 Nr. 3 und 4, § 15 Abs. 2 und § 16 Abs. 1 und 3 gelten entsprechend.
 
-
-## § 11 – Senate
+# § 11 – Senate
 
 (1) Für jede Abteilung wird ein Senat gebildet, dem der Abteilungsleiter als Vorsitzender, die Prüfungsgebietsleiter der Abteilung und ein weiterer Prüfungsgebietsleiter angehören. Den weiteren Prüfungsgebietsleiter sowie dessen Vertreter benennt der Präsident nach Maßgabe der Geschäftsordnung.
 
 (2) Der Präsident oder der Vizepräsident kann dem Senat hinzutreten. In diesem Falle übernimmt er den Vorsitz.
 
-
-## § 12 – Zuständigkeit der Senate
+# § 12 – Zuständigkeit der Senate
 
 Die Senate entscheiden
 
@@ -101,8 +87,7 @@ Die Senate entscheiden
 
 3. über die ihnen durch die Geschäftsordnung und den Großen Senat zugewiesenen Angelegenheiten.
 
-
-## § 13 – Großer Senat
+# § 13 – Großer Senat
 
 (1) Der Große Senat besteht aus dem Präsidenten als Vorsitzendem, dem Vizepräsidenten, den Leitern der Prüfungsabteilungen und drei Prüfungsgebietsleitern. Hinzu treten bei Aufgaben des Bundesrechnungshofes der nach der Geschäftsverteilung jeweils zuständige Prüfungsgebietsleiter (Berichterstatter) und ein weiterer Prüfungsgebietsleiter (Mitberichterstatter). Die drei Prüfungsgebietsleiter und deren Vertreter sowie der Mitberichterstatter werden vom Präsidenten nach Maßgabe der Geschäftsordnung benannt.
 
@@ -110,8 +95,7 @@ Die Senate entscheiden
 
 (3) Der Große Senat kann mit Zweidrittelmehrheit weitere Ausschüsse bilden und ihnen die Beratung oder die Entscheidung bestimmter Angelegenheiten übertragen. Einem Ausschuß muß mindestens einer der drei Prüfungsgebietsleiter angehören. Absatz 1 Satz 2 findet Anwendung; die Bestimmung des Mitberichterstatters obliegt dem Vorsitzenden des Ausschusses.
 
-
-## § 14 – Zuständigkeit des Großen Senats
+# § 14 – Zuständigkeit des Großen Senats
 
 (1) Der Große Senat entscheidet
 
@@ -129,15 +113,13 @@ Die Senate entscheiden
 
 (2) Der Präsident kann den Großen Senat auch mit weiteren Angelegenheiten befassen oder ihn vor eigenen Entscheidungen hören.
 
-
-## § 15 – Abstimmungen
+# § 15 – Abstimmungen
 
 (1) Die Kollegien treffen ihre Entscheidungen einstimmig.
 
 (2) Die Senate und der Große Senat entscheiden mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
-
-## § 16 – Mitglied kraft Auftrags
+# § 16 – Mitglied kraft Auftrags
 
 (1) Ist ein Prüfungsgebietsleiter an der Ausübung seines Amtes nicht nur kurzfristig verhindert, so kann der Präsident nach Anhörung des Ständigen Ausschusses des Großen Senats einen Beamten, der nicht Mitglied des Bundesrechnungshofes ist, für die Zeit der Verhinderung des Prüfungsgebietsleiters oder für einen bestimmten Zeitraum mit der Wahrnehmung der Geschäfte beauftragen. Entsprechendes gilt, solange die Planstelle eines Prüfungsgebietsleiters frei ist. § 3 Abs. 3 Satz 1 ist auf den Beamten anzuwenden.
 
@@ -145,8 +127,7 @@ Die Senate entscheiden
 
 (3) Für die Dauer der Beauftragung hat der Beamte die Stellung eines Mitglieds des Bundesrechnungshofes.
 
-
-## § 17 – Ausschluß wegen Befangenheit
+# § 17 – Ausschluß wegen Befangenheit
 
 (1) Ein Mitglied des Bundesrechnungshofes darf nicht tätig werden, wenn ein Grund vorliegt, der geeignet ist, Zweifel an seiner Unbefangenheit zu rechtfertigen. Ob diese Voraussetzung gegeben ist, entscheidet der Senat, dem das betroffene Mitglied angehört. § 16 Abs. 2 findet keine Anwendung. Soll das Mitglied von einer Entscheidung der Prüfungsgruppe oder des Großen Senats ausgeschlossen sein, so entscheidet dieser. Das jeweils betroffene Mitglied darf an der Entscheidung nicht mitwirken. Eine Vertretung findet insoweit nicht statt.
 
@@ -154,8 +135,7 @@ Die Senate entscheiden
 
 (3) Für Prüfungsbeamte und sonstige Bedienstete, die bei der Erfüllung der Aufgaben des Bundesrechnungshofes tätig werden, gelten Absatz 1 Satz 1 und Absatz 2 entsprechend. Ob Zweifel an der Unbefangenheit gerechtfertigt sind, entscheiden das zuständige Kollegium oder die Mitglieder der Prüfungsgruppe.
 
-
-## § 18 – Zuständigkeit des Dienstgerichts des Bundes
+# § 18 – Zuständigkeit des Dienstgerichts des Bundes
 
 (1) Für ein Disziplinarverfahren gegen ein Mitglied des Bundesrechnungshofes und für ein Prüfungsverfahren im Sinne des § 66 des Deutschen Richtergesetzes, das ein Mitglied des Bundesrechnungshofes betrifft, ist das Dienstgericht des Bundes zuständig. Das nach § 63 Abs. 2 und § 66 Abs. 3 des Deutschen Richtergesetzes vorgesehene Antragsrecht der obersten Dienstbehörde übt hinsichtlich des Präsidenten und des Vizepräsidenten des Bundesrechnungshofes der Präsident des Deutschen Bundestages oder der Präsident des Bundesrates aus.
 
@@ -163,8 +143,7 @@ Die Senate entscheiden
 
 (3) Auf das Verfahren vor dem Dienstgericht sind die Vorschriften des Deutschen Richtergesetzes anzuwenden.
 
-
-## § 19 – Geheimhaltungsbedürftige Angelegenheiten
+# § 19 – Geheimhaltungsbedürftige Angelegenheiten
 
 Ist im Haushaltsplan nach § 10a der Bundeshaushaltsordnung bestimmt, daß die Prüfung durch den Bundesrechnungshof
 
@@ -174,8 +153,7 @@ Ist im Haushaltsplan nach § 10a der Bundeshaushaltsordnung bestimmt, daß die P
 
 vorgenommen wird, entfällt die Zuständigkeit der Senate und des Großen Senats. In den Fällen des Satzes 1 Nr. 1 können weitere Beamte bei dem Verfahren zur Hilfeleistung herangezogen werden. Das Dreierkollegium entscheidet mit Stimmenmehrheit.
 
-
-## § 20 – Geschäftsordnung
+# § 20 – Geschäftsordnung
 
 (1) Der Große Senat erläßt die Geschäftsordnung des Bundesrechnungshofes. Sie trifft die nach § 11 Abs. 1 Satz 2 und § 13 Abs. 1 Satz 3 und Abs. 2 Satz 2 vorgesehenen Regelungen. Sie kann auch näheres zur Organisation und zum Verfahren des Bundesrechnungshofes bestimmen, insbesondere auch
 
@@ -189,8 +167,7 @@ vorgenommen wird, entfällt die Zuständigkeit der Senate und des Großen Senats
 
 (2) Die Geschäftsordnung ist dem Deutschen Bundestag, dem Bundesrat und der Bundesregierung mitzuteilen.
 
-
-## § 20a – Prüfungsämter
+# § 20a – Prüfungsämter
 
 (1) Der Bundesrechnungshof kann Prüfungsämter einrichten, die seiner Dienst- und Fachaufsicht unterstellt sind.
 
@@ -200,23 +177,19 @@ vorgenommen wird, entfällt die Zuständigkeit der Senate und des Großen Senats
 
 (4) Die Beamten werden vom Präsidenten des Bundesrechnungshofes ernannt.
 
-
-## § 21
-
-\-
-
-
-## § 22 – (weggefallen)
+# § 21
 
 \-
 
+# § 22 – (weggefallen)
 
-## § 23 – Berlin-Klausel
+\-
+
+# § 23 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 24 – Inkrafttreten, Aufhebung bestehender Vorschriften
+# § 24 – Inkrafttreten, Aufhebung bestehender Vorschriften
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

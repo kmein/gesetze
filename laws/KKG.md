@@ -1,10 +1,7 @@
-# [KKG] Gesetz zur Kooperation und Information im Kinderschutz  (KKG)
-
-Ausfertigungsdatum: 22.12.2011
-
+% Gesetz zur Kooperation und Information im Kinderschutz  (KKG)
+% Ausfertigungsdatum: 22.12.2011
  
-
-## § 1 – Kinderschutz und staatliche Mitverantwortung
+# § 1 – Kinderschutz und staatliche Mitverantwortung
 
 (1) Ziel des Gesetzes ist es, das Wohl von Kindern und Jugendlichen zu schützen und ihre körperliche, geistige und seelische Entwicklung zu fördern.
 
@@ -20,15 +17,13 @@ Ausfertigungsdatum: 22.12.2011
 
 (4) Zu diesem Zweck umfasst die Unterstützung der Eltern bei der Wahrnehmung ihres Erziehungsrechts und ihrer Erziehungsverantwortung durch die staatliche Gemeinschaft insbesondere auch Information, Beratung und Hilfe. Kern ist die Vorhaltung eines möglichst frühzeitigen, koordinierten und multiprofessionellen Angebots im Hinblick auf die Entwicklung von Kindern vor allem in den ersten Lebensjahren für Mütter und Väter sowie schwangere Frauen und werdende Väter (Frühe Hilfen).
 
-
-## § 2 – Information der Eltern über Unterstützungsangebote in Fragen der Kindesentwicklung
+# § 2 – Information der Eltern über Unterstützungsangebote in Fragen der Kindesentwicklung
 
 (1) Eltern sowie werdende Mütter und Väter sollen über Leistungsangebote im örtlichen Einzugsbereich zur Beratung und Hilfe in Fragen der Schwangerschaft, Geburt und der Entwicklung des Kindes in den ersten Lebensjahren informiert werden.
 
 (2) Zu diesem Zweck sind die nach Landesrecht für die Information der Eltern nach Absatz 1 zuständigen Stellen befugt, den Eltern ein persönliches Gespräch anzubieten. Dieses kann auf Wunsch der Eltern in ihrer Wohnung stattfinden. Sofern Landesrecht keine andere Regelung trifft, bezieht sich die in Satz 1 geregelte Befugnis auf die örtlichen Träger der Jugendhilfe.
 
-
-## § 3 – Rahmenbedingungen für verbindliche Netzwerkstrukturen im Kinderschutz
+# § 3 – Rahmenbedingungen für verbindliche Netzwerkstrukturen im Kinderschutz
 
 (1) In den Ländern werden insbesondere im Bereich Früher Hilfen flächendeckend verbindliche Strukturen der Zusammenarbeit der zuständigen Leistungsträger und Institutionen im Kinderschutz mit dem Ziel aufgebaut und weiterentwickelt, sich gegenseitig über das jeweilige Angebots- und Aufgabenspektrum zu informieren, strukturelle Fragen der Angebotsgestaltung und -entwicklung zu klären sowie Verfahren im Kinderschutz aufeinander abzustimmen.
 
@@ -38,8 +33,7 @@ Ausfertigungsdatum: 22.12.2011
 
 (4) Dieses Netzwerk soll zur Beförderung Früher Hilfen durch den Einsatz von Familienhebammen gestärkt werden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend unterstützt den Aus- und Aufbau der Netzwerke Frühe Hilfen und des Einsatzes von Familienhebammen auch unter Einbeziehung ehrenamtlicher Strukturen durch eine zeitlich auf vier Jahre befristete Bundesinitiative, die im Jahr 2012 mit 30 Millionen Euro, im Jahr 2013 mit 45 Millionen Euro und in den Jahren 2014 und 2015 mit 51 Millionen Euro ausgestattet wird. Nach Ablauf dieser Befristung wird der Bund einen Fonds zur Sicherstellung der Netzwerke Frühe Hilfen und der psychosozialen Unterstützung von Familien einrichten, für den er jährlich 51 Millionen Euro zur Verfügung stellen wird. Die Ausgestaltung der Bundesinitiative und des Fonds wird in Verwaltungsvereinbarungen geregelt, die das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen mit den Ländern schließt.
 
-
-## § 4 – Beratung und Übermittlung von Informationen durch Geheimnisträger bei Kindeswohlgefährdung
+# § 4 – Beratung und Übermittlung von Informationen durch Geheimnisträger bei Kindeswohlgefährdung
 
 (1) Werden
 

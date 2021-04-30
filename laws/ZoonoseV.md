@@ -1,15 +1,11 @@
-# [ZoonoseV] Verordnung mit lebensmittelrechtlichen Vorschriften zur Überwachung von Zoonosen und Zoonoseerregern
-
-Ausfertigungsdatum: 08.08.2007
-
+% Verordnung mit lebensmittelrechtlichen Vorschriften zur Überwachung von Zoonosen und Zoonoseerregern
+% Ausfertigungsdatum: 08.08.2007
  
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Die Verordnung regelt die von Lebensmittelunternehmern zu ergreifenden lebensmittelrechtlichen Maßnahmen zur frühzeitigen Erfassung von Zoonosen und Zoonoseerregern als Grundlage für die Bewertung ihrer Herkunft und der Entwicklungstendenzen ihres Vorkommens.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -23,8 +19,7 @@ Viren, Bakterien, Pilze, Parasiten oder sonstige biologische Agenzien, die Zoono
 
   
 
-
-## § 3 – Betriebseigene Kontrollen
+# § 3 – Betriebseigene Kontrollen
 
 (1) Wer im Rahmen von Kontrollen nach Artikel 3 Absatz 1 der Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005 über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom 22.12.2005, S. 1) oder anderen betriebseigenen Kontrollen Untersuchungen durchführt
 
@@ -52,13 +47,11 @@ b) der zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen.
 
 (4) Wer zur Durchführung von Untersuchungen nach Absatz 1 verpflichtet ist, hat hierüber zeitlich geordnet Nachweise zu führen. Die Nachweise sind zwei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 3a – Rückstellproben im Fall des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 178/2002
+# § 3a – Rückstellproben im Fall des Artikels 19 Absatz 3 der Verordnung (EG) Nr. 178/2002
 
 Lebensmittelunternehmer, die der zuständigen Behörde eine Mitteilung nach Artikel 19 Absatz 3 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. L 31 vom 1.2.2002, S. 1) machen, müssen von Lebensmitteln der gleichen Partie, die noch nicht in den Verkehr gebracht worden sind, eine Rückstellprobe von mindestens 150 Gramm anfertigen und für die Dauer von mindestens sieben Tagen vom Zeitpunkt der Mitteilung an aufbewahren. Rückstellproben nach Satz 1 sind der zuständigen Behörde auf Verlangen vorzulegen und auszuhändigen.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 

@@ -1,10 +1,7 @@
-# [BBesG/BesÜGBek 2018] Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
-
-Ausfertigungsdatum: 13.11.2018
-
+% Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
+% Ausfertigungsdatum: 13.11.2018
  
-
-## ----
+# ----
 
 Nach
 
@@ -24,13 +21,11 @@ jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vo
 
 4. als Anhang 4 die ab 1. März 2018, ab 1. April 2019 und ab 1. März 2020 für Beamtinnen und Beamte bei den Postnachfolgeunternehmen geltenden Beträge des Grundgehalts nach Anlage 1 des Besoldungsüberleitungsgesetzes.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern, für Bau und Heimat
 
-
-## Anhang 1 zu Nummer 1
+# Anhang 1 zu Nummer 1
 
 (Fundstelle: BGBl. I 2018, 1906 - 1908)
 
@@ -77,8 +72,7 @@ Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember
 <span id="FnA3-f804135_02_01"></span><a href="#FnR.FnA3-f804135_02_01" class="Footnote">*</a>  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
-## Anhang 2 zu Nummer 2
+# Anhang 2 zu Nummer 2
 
 (Fundstelle: BGBl. I 2018, 1909 - 1926)
 
@@ -122,8 +116,7 @@ Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigen
   
 – in den Besoldungsgruppen A 2 und A 3 um 25,56 Euro,  
 – in der Besoldungsgruppe A 4 um 20,45 Euro und  
-– in der Besoldungsgruppe A 5 um 15,34 Euro.  
-  
+– in der Besoldungsgruppe A 5 um 15,34 Euro.   
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
  
@@ -183,8 +176,7 @@ Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigen
   
 – in den Besoldungsgruppen A 2 und A 3 um 25,56 Euro,  
 – in der Besoldungsgruppe A 4 um 20,45 Euro und  
-– in der Besoldungsgruppe A 5 um 15,34 Euro.  
-  
+– in der Besoldungsgruppe A 5 um 15,34 Euro.   
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
  
@@ -250,8 +242,7 @@ Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigen
   
 – in den Besoldungsgruppen A 2 und A 3 um 25,56 Euro,  
 – in der Besoldungsgruppe A 4 um 20,45 Euro und  
-– in der Besoldungsgruppe A 5 um 15,34 Euro.  
-  
+– in der Besoldungsgruppe A 5 um 15,34 Euro.   
 Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
 
  
@@ -275,8 +266,7 @@ Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 <span id="FnA3-f804135_06_01"></span><a href="#FnR.FnA3-f804135_06_01" class="Footnote">*</a>  
 Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091).
 
-
-## Anhang 3 zu Nummer 3
+# Anhang 3 zu Nummer 3
 
 (Fundstelle: BGBl. I 2018, 1927 - 1932)
 
@@ -348,8 +338,7 @@ Das Grundgehalt erhöht sich in den Besoldungsgruppen A 5 und A 6 für Beamte de
 
  
 
-
-## Anhang 4 zu Nummer 4
+# Anhang 4 zu Nummer 4
 
 (Fundstelle: BGBl. I 2018, 1933 - 1935)
 

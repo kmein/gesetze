@@ -1,27 +1,21 @@
-# [BtBG] Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger  (Betreuungsbehördengesetz - BtBG)
-
-Ausfertigungsdatum: 12.09.1990
-
+% Gesetz über die Wahrnehmung behördlicher Aufgaben bei der Betreuung Volljähriger  (Betreuungsbehördengesetz - BtBG)
+% Ausfertigungsdatum: 12.09.1990
  
-
-## § 1
+# § 1
 
 Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde ist auch in Unterbringungsangelegenheiten im Sinne des § 312 Nummer 1 bis 3 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
 
-
-## § 2
+# § 2
 
 Zur Durchführung überörtlicher Aufgaben oder zur Erfüllung einzelner Aufgaben der örtlichen Behörde können nach Landesrecht weitere Behörden vorgesehen werden.
 
-
-## § 3
+# § 3
 
 (1) Örtlich zuständig ist diejenige Behörde, in deren Bezirk der Betroffene seinen gewöhnlichen Aufenthalt hat. Hat der Betroffene im Geltungsbereich dieses Gesetzes keinen gewöhnlichen Aufenthalt, ist ein solcher nicht feststellbar oder betrifft die Maßnahme keine Einzelperson, so ist die Behörde zuständig, in deren Bezirk das Bedürfnis für die Maßnahme hervortritt. Gleiches gilt, wenn mit dem Aufschub einer Maßnahme Gefahr verbunden ist.
 
 (2) Ändern sich die für die örtliche Zuständigkeit nach Absatz 1 maßgebenden Umstände im Laufe eines gerichtlichen Betreuungs- oder Unterbringungsverfahrens, so bleibt für dieses Verfahren die zuletzt angehörte Behörde allein zuständig, bis die nunmehr zuständige Behörde dem Gericht den Wechsel schriftlich anzeigt.
 
-
-## § 4
+# § 4
 
 (1) Die Behörde informiert und berät über allgemeine betreuungsrechtliche Fragen, insbesondere über eine Vorsorgevollmacht und über andere Hilfen, bei denen kein Betreuer bestellt wird.
 
@@ -29,13 +23,11 @@ Zur Durchführung überörtlicher Aufgaben oder zur Erfüllung einzelner Aufgabe
 
 (3) Die Behörde berät und unterstützt Betreuer und Bevollmächtigte auf deren Wunsch bei der Wahrnehmung von deren Aufgaben, die Betreuer insbesondere auch bei der Erstellung des Betreuungsplans.
 
-
-## § 5
+# § 5
 
 Die Behörde sorgt dafür, daß in ihrem Bezirk ein ausreichendes Angebot zur Einführung der Betreuer und der Bevollmächtigten in ihre Aufgaben und zu ihrer Fortbildung vorhanden ist.
 
-
-## § 6
+# § 6
 
 (1) Zu den Aufgaben der Behörde gehört es auch, die Tätigkeit einzelner Personen sowie von gemeinnützigen und freien Organisationen zugunsten Betreuungsbedürftiger anzuregen und zu fördern. Weiterhin fördert sie die Aufklärung und Beratung über Vollmachten und Betreuungsverfügungen.
 
@@ -49,8 +41,7 @@ Die Behörde sorgt dafür, daß in ihrem Bezirk ein ausreichendes Angebot zur Ei
 
 (6) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Gebühren und Auslagen für die Beratung und Beglaubigung abweichend von Absatz 5 zu regeln. Die Landesregierungen können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 7
+# § 7
 
 (1) Die Behörde kann dem Betreuungsgericht Umstände mitteilen, die die Bestellung eines Betreuers oder eine andere Maßnahme in Betreuungssachen erforderlich machen, soweit dies unter Beachtung berechtigter Interessen des Betroffenen nach den Erkenntnissen der Behörde erforderlich ist, um eine erhebliche Gefahr für das Wohl des Betroffenen abzuwenden.
 
@@ -58,8 +49,7 @@ Die Behörde sorgt dafür, daß in ihrem Bezirk ein ausreichendes Angebot zur Ei
 
 (3) (weggefallen)
 
-
-## § 8
+# § 8
 
 (1) Die Behörde unterstützt das Betreuungsgericht. Dies umfasst insbesondere folgende Maßnahmen:
 
@@ -71,12 +61,10 @@ Die Behörde sorgt dafür, daß in ihrem Bezirk ein ausreichendes Angebot zur Ei
 
 (2) Wenn die Behörde vom Betreuungsgericht dazu aufgefordert wird, schlägt sie eine Person vor, die sich im Einzelfall zum Betreuer oder Verfahrenspfleger eignet. Steht keine geeignete Person zur Verfügung, die zur ehrenamtlichen Führung der Betreuung bereit ist, schlägt die Behörde dem Betreuungsgericht eine Person für die berufsmäßige Führung der Betreuung vor und teilt gleichzeitig den Umfang der von dieser Person derzeit berufsmäßig geführten Betreuungen mit.
 
-
-## § 9
+# § 9
 
 Zur Durchführung der Aufgaben werden Personen beschäftigt, die sich hierfür nach ihrer Persönlichkeit eignen und die in der Regel entweder eine ihren Aufgaben entsprechende Ausbildung erhalten haben (Fachkräfte) oder über vergleichbare Erfahrungen verfügen.
 
-
-## § 10
+# § 10
 
 Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen, bleiben unberührt. Zuständige Behörde im Sinne dieser Vorschriften ist die örtliche Behörde.

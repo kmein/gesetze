@@ -1,15 +1,11 @@
-# [BauWiAusbV 1999] Verordnung über die Berufsausbildung in der Bauwirtschaft
-
-Ausfertigungsdatum: 02.06.1999
-
+% Verordnung über die Berufsausbildung in der Bauwirtschaft
+% Ausfertigungsdatum: 02.06.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), jeweils in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -1753,8 +1749,7 @@ Anlage 18
 
 Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 (1) Es werden gemäß § 25 der Handwerksordnung für eine Ausbildung in den Gewerben Nr. 1 Maurer und Betonbauer, Nr. 3 Zimmerer, Nr. 5 Straßenbauer, Nr. 6 Wärme-, Kälte- und Schallschutzisolierer, Nr. 7 Brunnenbauer, Nr. 9 Stukkateure der Anlage A der Handwerksordnung, Nr. 1 Fliesen-, Platten- und Mosaikleger, Nr. 3 Estrichleger der Anlage B Abschnitt 1 der Handwerksordnung sowie gemäß § 25 des Berufsbildungsgesetzes folgende Ausbildungsberufe staatlich anerkannt:
 
@@ -1808,8 +1803,7 @@ c) Spezialtiefbauer/Spezialtiefbauerin,
 
 d) Gleisbauer/Gleisbauerin.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Stufenausbildung in der Bauwirtschaft dauert insgesamt 36 Monate.
 
@@ -1817,15 +1811,13 @@ d) Gleisbauer/Gleisbauerin.
 
 (3) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 29 Abs. 1 des Berufsbildungsgesetzes oder gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+# § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in der Zwischenprüfung und in der Abschlussprüfung nachzuweisen.
 
-
-## § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
+# § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
 (1) Die Berufsausbildung ist entsprechend den Ausbildungsrahmenplänen (Anlagen 1 bis 18) während einer Dauer von 32 bis 37 Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen:
 
@@ -1841,8 +1833,7 @@ d) Gleisbauer/Gleisbauerin.
 
 (4) Der Urlaub ist jeweils auf die Dauer der Berufsausbildung in der betrieblichen Ausbildungsstätte anzurechnen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -1888,23 +1879,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 21. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte "Maurerarbeiten", "Beton- und Stahlbetonarbeiten" sowie "Feuerungs- und Schornsteinbauarbeiten" nach der in der Anlage 1 für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
@@ -1926,8 +1913,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5 ergeben sich aus § 10 Abs. 1 bis 4.
 
-
-## § 10 – Abschlussprüfung
+# § 10 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -2052,8 +2038,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Die Abschlussprüfung im Ausbildungsberuf Hochbaufacharbeiter/Hochbaufacharbeiterin gilt bei Fortsetzung der Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 2 und Abs. 2 Nr. 1 als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
-
-## § 11 – Ausbildungsberufsbild
+# § 11 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -2095,23 +2080,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 19. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 12 – Ausbildungsrahmenplan
+# § 12 – Ausbildungsrahmenplan
 
 Die in § 11 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte "Zimmerarbeiten", "Stukkateurarbeiten", "Fliesen-, Platten- und Mosaikarbeiten", "Estricharbeiten", "Wärme-, Kälte- und Schallschutzarbeiten" und "Trockenbauarbeiten" nach der in der Anlage 2 für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 13 – Ausbildungsplan
+# § 13 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 14 – Berichtsheft
+# § 14 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 15 – Zwischenprüfung
+# § 15 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
@@ -2141,8 +2122,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5 ergeben sich aus § 16 Abs. 1 bis 4.
 
-
-## § 16 – Abschlußprüfung
+# § 16 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -2338,8 +2318,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Die Abschlussprüfung im Ausbildungsberuf Ausbaufacharbeiter/Ausbaufacharbeiterin gilt bei Fortsetzung der Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 3 oder Abs. 2 Nr. 2 als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
-
-## § 17 – Ausbildungsberufsbild
+# § 17 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -2375,23 +2354,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 16. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 18 – Ausbildungsrahmenplan
+# § 18 – Ausbildungsrahmenplan
 
 Die in § 17 genannten Fertigkeiten und Kenntnisse sollen unter Berücksichtigung der Schwerpunkte "Straßenbauarbeiten", "Rohrleitungsbauarbeiten", "Kanalbauarbeiten", "Brunnenbau- und Spezialtiefbauarbeiten" sowie "Gleisbauarbeiten" nach der in der Anlage 3 für die berufliche Grundbildung und für die berufliche Fachbildung enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 19 – Ausbildungsplan
+# § 19 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 20 – Berichtsheft
+# § 20 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 21 – Zwischenprüfung
+# § 21 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
@@ -2419,8 +2394,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (6) Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 5 ergeben sich aus § 22 Abs. 1 bis 4.
 
-
-## § 22 – Abschlußprüfung
+# § 22 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -2590,8 +2564,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Die Abschlussprüfung im Ausbildungsberuf Tiefbaufacharbeiter/Tiefbaufacharbeiterin gilt bei Fortsetzung der Berufsausbildung in einem der aufbauenden Berufe nach § 1 Abs. 1 Nr. 4 oder Abs. 2 Nr. 3 als Zwischenprüfung nach § 42 des Berufsbildungsgesetzes.
 
-
-## § 23 – Ausbildungsberufsbild
+# § 23 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -2619,23 +2592,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 24 – Ausbildungsrahmenplan
+# § 24 – Ausbildungsrahmenplan
 
 Die in § 23 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 25 – Ausbildungsplan
+# § 25 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 26 – Berichtsheft
+# § 26 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 27 – Abschlußprüfung/Gesellenprüfung
+# § 27 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -2715,8 +2684,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 28 – Ausbildungsberufsbild
+# § 28 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -2740,23 +2708,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 29 – Ausbildungsrahmenplan
+# § 29 – Ausbildungsrahmenplan
 
 Die in § 28 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 30 – Ausbildungsplan
+# § 30 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 31 – Berichtsheft
+# § 31 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 32 – Abschlußprüfung/Gesellenprüfung
+# § 32 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -2830,8 +2794,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 33 – Ausbildungsberufsbild
+# § 33 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -2859,23 +2822,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 34 – Ausbildungsrahmenplan
+# § 34 – Ausbildungsrahmenplan
 
 Die in § 33 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 35 – Ausbildungsplan
+# § 35 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 36 – Berichtsheft
+# § 36 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 37 – Abschlußprüfung/Gesellenprüfung
+# § 37 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 1 und 6 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -2941,8 +2900,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 10, so hat er den Abschluß Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 37a – Ausbildungsberufsbild
+# § 37a – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -2968,23 +2926,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 11. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 37b – Ausbildungsrahmenplan
+# § 37b – Ausbildungsrahmenplan
 
 Die in § 37a genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 6a enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 37c – Ausbildungsplan
+# § 37c – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 37d – Berichtsheft
+# § 37d – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 37e – Abschlussprüfung
+# § 37e – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in den Anlagen 1 und 6a der Verordnung aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3034,8 +2988,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er jedoch in dieser Prüfung die Anforderungen nach § 10, so hat er den Abschluss Hochbaufacharbeiter/Hochbaufacharbeiterin erreicht. Die Anforderungen nach § 10 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 38 – Ausbildungsberufsbild
+# § 38 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3065,23 +3018,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 39 – Ausbildungsrahmenplan
+# § 39 – Ausbildungsrahmenplan
 
 Die in § 38 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 7 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 40 – Ausbildungsplan
+# § 40 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 41 – Berichtsheft
+# § 41 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 42 – Abschlußprüfung/Gesellenprüfung
+# § 42 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 7 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3141,8 +3090,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 43 – Ausbildungsberufsbild
+# § 43 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3172,23 +3120,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 44 – Ausbildungsrahmenplan
+# § 44 – Ausbildungsrahmenplan
 
 Die in § 43 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 8 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 45 – Ausbildungsplan
+# § 45 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 46 – Berichtsheft
+# § 46 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 47 – Abschlußprüfung/Gesellenprüfung
+# § 47 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 2 und 8 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3242,8 +3186,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 48 – Ausbildungsberufsbild
+# § 48 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3267,23 +3210,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 49 – Ausbildungsrahmenplan
+# § 49 – Ausbildungsrahmenplan
 
 Die in § 48 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 9 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 50 – Ausbildungsplan
+# § 50 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 51 – Berichtsheft
+# § 51 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 52 – Abschlußprüfung/Gesellenprüfung
+# § 52 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 2 und 9 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3359,8 +3298,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 53 – Ausbildungsberufsbild
+# § 53 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3390,23 +3328,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 54 – Ausbildungsrahmenplan
+# § 54 – Ausbildungsrahmenplan
 
 Die in § 53 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 10 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 55 – Ausbildungsplan
+# § 55 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 56 – Berichtsheft
+# § 56 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 57 – Abschlußprüfung/Gesellenprüfung
+# § 57 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 2 und 10 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3476,8 +3410,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keiner der praktischen Aufgaben und in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 58 – Ausbildungsberufsbild
+# § 58 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3507,23 +3440,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 59 – Ausbildungsrahmenplan
+# § 59 – Ausbildungsrahmenplan
 
 Die in § 58 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 11 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 60 – Ausbildungsplan
+# § 60 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 61 – Berichtsheft
+# § 61 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 62 – Abschlußprüfung/Gesellenprüfung
+# § 62 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 11 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3597,8 +3526,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keiner der praktischen Aufgaben und in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 63 – Ausbildungsberufsbild
+# § 63 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3622,23 +3550,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 10. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 64 – Ausbildungsrahmenplan
+# § 64 – Ausbildungsrahmenplan
 
 Die in § 63 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 12 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 65 – Ausbildungsplan
+# § 65 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 66 – Berichtsheft
+# § 66 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 67 – Abschlußprüfung
+# § 67 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 2 und 12 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3696,8 +3620,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 16, so hat er den Abschluß Ausbaufacharbeiter/Ausbaufacharbeiterin erreicht. Die Anforderungen nach § 16 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 68 – Ausbildungsberufsbild
+# § 68 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3727,23 +3650,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 69 – Ausbildungsrahmenplan
+# § 69 – Ausbildungsrahmenplan
 
 Die in § 68 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 13 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 70 – Ausbildungsplan
+# § 70 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 71 – Berichtsheft
+# § 71 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 72 – Abschlußprüfung/Gesellenprüfung
+# § 72 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 3 und 13 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3819,8 +3738,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 73 – Ausbildungsberufsbild
+# § 73 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3848,23 +3766,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 74 – Ausbildungsrahmenplan
+# § 74 – Ausbildungsrahmenplan
 
 Die in § 73 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 14 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 75 – Ausbildungsplan
+# § 75 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 76 – Berichtsheft
+# § 76 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 77 – Abschlußprüfung
+# § 77 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 14 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -3932,8 +3846,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 78 – Ausbildungsberufsbild
+# § 78 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -3961,23 +3874,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 12. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 79 – Ausbildungsrahmenplan
+# § 79 – Ausbildungsrahmenplan
 
 Die in § 78 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 15 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 80 – Ausbildungsplan
+# § 80 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 81 – Berichtsheft
+# § 81 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 82 – Abschlußprüfung
+# § 82 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 15 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -4043,8 +3952,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 83 – Ausbildungsberufsbild
+# § 83 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -4078,23 +3986,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 15. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 84 – Ausbildungsrahmenplan
+# § 84 – Ausbildungsrahmenplan
 
 Die in § 83 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 16 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 85 – Ausbildungsplan
+# § 85 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 86 – Berichtsheft
+# § 86 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 87 – Abschlußprüfung/Gesellenprüfung
+# § 87 – Abschlußprüfung/Gesellenprüfung
 
 (1) Die Abschlußprüfung/Gesellenprüfung erstreckt sich auf die in den Anlagen 3 und 16 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -4160,8 +4064,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 88 – Ausbildungsberufsbild
+# § 88 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -4199,23 +4102,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 17. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 89 – Ausbildungsrahmenplan
+# § 89 – Ausbildungsrahmenplan
 
 Die in § 88 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 17 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 90 – Ausbildungsplan
+# § 90 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 91 – Berichtsheft
+# § 91 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 92 – Abschlußprüfung
+# § 92 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 17 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -4283,8 +4182,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 93 – Ausbildungsberufsbild
+# § 93 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -4310,23 +4208,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 11. Qualitätssichernde Maßnahmen und Berichtswesen.
 
-
-## § 94 – Ausbildungsrahmenplan
+# § 94 – Ausbildungsrahmenplan
 
 Die in § 93 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 18 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 95 – Ausbildungsplan
+# § 95 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 96 – Berichtsheft
+# § 96 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 97 – Abschlußprüfung
+# § 97 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in den Anlagen 3 und 18 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -4398,18 +4292,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 22, so hat er den Abschluß Tiefbaufacharbeiter/Tiefbaufacharbeiterin erreicht. Die Anforderungen nach § 22 gelten dann als erfüllt, wenn in dieser Prüfung im praktischen Teil sowie in einem der fachbezogenen Prüfungsbereiche im schriftlichen Teil (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keiner der praktischen Aufgaben und in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 98 – Übergangsregelung
+# § 98 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 99 – Inkrafttreten, Außerkrafttreten
+# § 99 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-
-## Anlage 1 – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Hochbaufacharbeiter/zur Hochbaufacharbeiterin
+# Anlage 1 – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Hochbaufacharbeiter/zur Hochbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1132 - 1145;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5468,8 +5359,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 2 – (zu § 12)Ausbildungsrahmenplan für die Berufsausbildung zum Ausbaufacharbeiter/zur Ausbaufacharbeiterin
+# Anlage 2 – (zu § 12)Ausbildungsrahmenplan für die Berufsausbildung zum Ausbaufacharbeiter/zur Ausbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1146 - 1168)
 
@@ -7245,8 +7135,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 3 – (zu § 18)Ausbildungsrahmenplan für die Berufsausbildung zum Tiefbaufacharbeiter/zur Tiefbaufacharbeiterin
+# Anlage 3 – (zu § 18)Ausbildungsrahmenplan für die Berufsausbildung zum Tiefbaufacharbeiter/zur Tiefbaufacharbeiterin
 
 (Fundstelle: BGBl. I 1999, 1169 - 1189)
 
@@ -8840,8 +8729,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 4 – (zu § 24)Ausbildungsrahmenplan für die Berufsausbildung zum Maurer/zur Maurerin
+# Anlage 4 – (zu § 24)Ausbildungsrahmenplan für die Berufsausbildung zum Maurer/zur Maurerin
 
 (Fundstelle: BGBl. I 1999, 1190 - 1192)
 
@@ -9068,8 +8956,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 5 – (zu § 29)Ausbildungsrahmenplan für die Berufsausbildung zum Beton- und Stahlbetonbauer/zur Beton- und Stahlbetonbauerin
+# Anlage 5 – (zu § 29)Ausbildungsrahmenplan für die Berufsausbildung zum Beton- und Stahlbetonbauer/zur Beton- und Stahlbetonbauerin
 
 (Fundstelle: BGBl. I 1999, 1193 - 1195)
 
@@ -9270,8 +9157,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 6 – (zu § 34)Ausbildungsrahmenplan für die Berufsausbildung zum Feuerungs- und Schornsteinbauer/zur Feuerungs- und Schornsteinbauerin
+# Anlage 6 – (zu § 34)Ausbildungsrahmenplan für die Berufsausbildung zum Feuerungs- und Schornsteinbauer/zur Feuerungs- und Schornsteinbauerin
 
 (Fundstelle: BGBl. I 1999, 1196 - 1198)
 
@@ -9484,8 +9370,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 6a – (zu § 37b)Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerkmechaniker für Abbruch und Betontrenntechnik/zur Bauwerksmechanikerin für Abbruch und Betontrenntechnik
+# Anlage 6a – (zu § 37b)Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerkmechaniker für Abbruch und Betontrenntechnik/zur Bauwerksmechanikerin für Abbruch und Betontrenntechnik
 
 (Fundstelle: BGBl. I 2004, 539 - 541;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -9693,12 +9578,10 @@ d) Arbeitsaufgaben kundenorientiert planen und durchführen
 
 3\*)
 
-In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 10 zu ergänzen und zu vertiefen.  
-  
+In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus den laufenden Nummern 7 bis 10 zu ergänzen und zu vertiefen.   
 \*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 7 – (zu § 39)Ausbildungsrahmenplan für die Berufsausbildung zum Zimmerer/zur Zimmerin
+# Anlage 7 – (zu § 39)Ausbildungsrahmenplan für die Berufsausbildung zum Zimmerer/zur Zimmerin
 
 (Fundstelle: BGBl. I 1999, 1199 - 1201)
 
@@ -9912,8 +9795,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 8 – (zu § 44)Ausbildungsrahmenplan für die Berufsausbildung zum Stukkateur/zur Stukkateurin
+# Anlage 8 – (zu § 44)Ausbildungsrahmenplan für die Berufsausbildung zum Stukkateur/zur Stukkateurin
 
 (Fundstelle: BGBl. I 1999, 1202 - 1204)
 
@@ -10147,8 +10029,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 9 – (zu § 49)Ausbildungsrahmenplan für die Berufsausbildung zum Fliesen-, Platten- und Mosaikleger/zur Fliesen-, Platten- und Mosaiklegerin
+# Anlage 9 – (zu § 49)Ausbildungsrahmenplan für die Berufsausbildung zum Fliesen-, Platten- und Mosaikleger/zur Fliesen-, Platten- und Mosaiklegerin
 
 (Fundstelle: BGBl. I 1999, 1205 - 1207)
 
@@ -10337,8 +10218,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 10 – (zu § 54)Ausbildungsrahmenplan für die Berufsausbildung zum Estrichleger/zur Estrichlegerin
+# Anlage 10 – (zu § 54)Ausbildungsrahmenplan für die Berufsausbildung zum Estrichleger/zur Estrichlegerin
 
 (Fundstelle: BGBl. I 1999, 1208 - 1210)
 
@@ -10552,8 +10432,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 11 – (zu § 59)Ausbildungsrahmenplan für die Berufsausbildung zum Wärme-, Kälte- und Schallschutzisolierer/zur Wärme-, Kälte- und Schallschutzisoliererin
+# Anlage 11 – (zu § 59)Ausbildungsrahmenplan für die Berufsausbildung zum Wärme-, Kälte- und Schallschutzisolierer/zur Wärme-, Kälte- und Schallschutzisoliererin
 
 (Fundstelle: BGBl. I 1999, 1211 - 1213)
 
@@ -10801,8 +10680,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 12 – (zu § 64)Ausbildungsrahmenplan für die Berufsausbildung zum Trockenbaumonteur/zur Trockenbaumonteurin
+# Anlage 12 – (zu § 64)Ausbildungsrahmenplan für die Berufsausbildung zum Trockenbaumonteur/zur Trockenbaumonteurin
 
 (Fundstelle: BGBl. I 1999, 1214 - 1216)
 
@@ -11011,8 +10889,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 13 – (zu § 69)Ausbildungsrahmenplan für die Berufsausbildung zum Straßenbauer/zur Straßenbauerin
+# Anlage 13 – (zu § 69)Ausbildungsrahmenplan für die Berufsausbildung zum Straßenbauer/zur Straßenbauerin
 
 (Fundstelle: BGBl. I 1999, 1217 - 1219)
 
@@ -11234,8 +11111,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 14 – (zu § 74)Ausbildungsrahmenplan für die Berufsausbildung zum Rohrleitungsbauer/zur Rohrleitungsbauerin
+# Anlage 14 – (zu § 74)Ausbildungsrahmenplan für die Berufsausbildung zum Rohrleitungsbauer/zur Rohrleitungsbauerin
 
 (Fundstelle: BGBl. I 1999, 1220 - 1222)
 
@@ -11450,8 +11326,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 15 – (zu § 79)Ausbildungsrahmenplan für die Berufsausbildung zum Kanalbauer/zur Kanalbauerin
+# Anlage 15 – (zu § 79)Ausbildungsrahmenplan für die Berufsausbildung zum Kanalbauer/zur Kanalbauerin
 
 (Fundstelle: BGBl. I 1999, 1223 - 1225)
 
@@ -11670,8 +11545,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 16 – (zu § 84)Ausbildungsrahmenplan für die Berufsausbildung zum Brunnenbauer/zur Brunnenbauerin
+# Anlage 16 – (zu § 84)Ausbildungsrahmenplan für die Berufsausbildung zum Brunnenbauer/zur Brunnenbauerin
 
 (Fundstelle: BGBl. I 1999, 1226 - 1228)
 
@@ -11931,8 +11805,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 17 – (zu § 89)Ausbildungsrahmenplan für die Berufsausbildung zum Spezialtiefbauer/zur Spezialtiefbauerin
+# Anlage 17 – (zu § 89)Ausbildungsrahmenplan für die Berufsausbildung zum Spezialtiefbauer/zur Spezialtiefbauerin
 
 (Fundstelle: BGBl. I 1999, 1229 - 1232)
 
@@ -12202,8 +12075,7 @@ In überbetrieblichen Ausbildungsstätten sind Fertigkeiten und Kenntnisse aus d
 \*)  
 Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 18 – (zu § 94)Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
+# Anlage 18 – (zu § 94)Ausbildungsrahmenplan für die Berufsausbildung zum Gleisbauer/zur Gleisbauerin
 
 (Fundstelle: BGBl. I 1999, 1233 - 1235)
 

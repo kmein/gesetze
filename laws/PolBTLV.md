@@ -1,47 +1,37 @@
-# [PolBTLV] Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag  (PolBTLV)
-
-Ausfertigungsdatum: 20.08.2013
-
+% Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag  (PolBTLV)
+% Ausfertigungsdatum: 20.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Absatz 2 Satz 1 des Bundespolizeibeamtengesetzes, der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltung der Bundeslaufbahnverordnung
+# § 1 – Geltung der Bundeslaufbahnverordnung
 
 Soweit in dieser Verordnung nichts anderes bestimmt ist, gelten für die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten beim Deutschen Bundestag die Vorschriften der Bundeslaufbahnverordnung.
 
-
-## § 2 – Schwerbehinderte Menschen
+# § 2 – Schwerbehinderte Menschen
 
 § 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass die besonderen gesundheitlichen Anforderungen, die der Polizeivollzugsdienst an Beamtinnen und Beamte stellt, berücksichtigt werden.
 
-
-## § 3 – Ämter der Laufbahnen
+# § 3 – Ämter der Laufbahnen
 
 Die zu den Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag gehörenden Ämter und die ihnen zugeordneten Amtsbezeichnungen ergeben sich aus der Anlage.
 
-
-## § 4 – Vorbereitungsdienste
+# § 4 – Vorbereitungsdienste
 
 (1) Für die Anwärterinnen und Anwärter für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag ist der Vorbereitungsdienst für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei oder eines Landes der Vorbereitungsdienst.
 
 (2) Für die Anwärterinnen und Anwärter für den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag ist der Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei oder eines Landes der Vorbereitungsdienst.
 
-
-## § 5 – Einstellung und Abordnung
+# § 5 – Einstellung und Abordnung
 
 (1) Die Einstellung erfolgt durch die Verwaltung des Deutschen Bundestages.
 
 (2) Die Anwärterinnen und Anwärter werden an die für die Durchführung des Vorbereitungsdienstes zuständigen Dienststellen des Bundes oder eines Landes abgeordnet.
 
-
-## § 6 – Auswahlverfahren und Altersgrenzen
+# § 6 – Auswahlverfahren und Altersgrenzen
 
 (1) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an einem Auswahlverfahren teilgenommen hat und mindestens 16, aber noch nicht 28 Jahre alt ist. In den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag kann eingestellt werden, wer erfolgreich an einem Auswahlverfahren teilgenommen hat und noch nicht 34 Jahre alt ist.
 
@@ -63,15 +53,13 @@ Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf
 
 (4) Für Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 7 Absatz 2 des Soldatenversorgungsgesetzes gelten keine Höchstaltersgrenzen.
 
-
-## § 7 – Gestaltung des Vorbereitungsdienstes, Laufbahnprüfung
+# § 7 – Gestaltung des Vorbereitungsdienstes, Laufbahnprüfung
 
 (1) Die Gestaltung des Vorbereitungsdienstes für die Laufbahn des mittleren Polizeivollzugsdienstes beim Deutschen Bundestag richtet sich nach den Vorschriften, die für den Vorbereitungsdienst gelten, an dem die Anwärterin oder der Anwärter teilnimmt, mit der Maßgabe, dass mindestens ein Praktikum bei der Polizei beim Deutschen Bundestag zu absolvieren ist. Die Laufbahnprüfung für den mittleren Polizeivollzugsdienst beim Deutschen Bundestag ist die Laufbahnprüfung des Vorbereitungsdienstes, an dem die Anwärterin oder der Anwärter teilnimmt.
 
 (2) Für den Vorbereitungsdienst für die Laufbahn des gehobenen Polizeivollzugsdienstes beim Deutschen Bundestag gilt Absatz 1 entsprechend.
 
-
-## § 8 – Laufbahnbefähigung
+# § 8 – Laufbahnbefähigung
 
 (1) Als Befähigung für die jeweilige Laufbahn des Polizeivollzugsdienstes beim Deutschen Bundestag soll anerkannt werden die Befähigung für die entsprechende Laufbahn
 
@@ -89,13 +77,11 @@ Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf
 
 (4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
 
-
-## § 9 – Erhaltung der körperlichen Leistungsfähigkeit
+# § 9 – Erhaltung der körperlichen Leistungsfähigkeit
 
 Die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten sind verpflichtet, ihre körperliche Leistungsfähigkeit zu erhalten und nach Möglichkeit zu steigern. Die körperliche Leistungsfähigkeit soll regelmäßig überprüft werden.
 
-
-## § 10 – Aufstieg
+# § 10 – Aufstieg
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
 
@@ -119,8 +105,7 @@ Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
 
 (5) Im Übrigen gilt § 41 der Bundeslaufbahnverordnung.
 
-
-## § 11 – Fachspezifische Qualifizierung
+# § 11 – Fachspezifische Qualifizierung
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in den gehobenen Polizeivollzugsdienst beim Deutschen Bundestag durch fachspezifische Qualifizierung zugelassen werden, wenn dafür ein besonderes dienstliches Bedürfnis besteht und sie
 
@@ -146,23 +131,19 @@ Im Übrigen gilt § 19 Absatz 4 der Bundeslaufbahnverordnung.
 
 (7) Für die Kostenerstattung gilt § 41 der Bundeslaufbahnverordnung.
 
-
-## § 12 – Übertragung eines Amtes der neuen Laufbahn
+# § 12 – Übertragung eines Amtes der neuen Laufbahn
 
 § 40 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer Polizeioberkommissarin beim Deutschen Bundestag oder eines Polizeioberkommissars beim Deutschen Bundestag übertragen werden kann, wenn sie mindestens ein Jahr das Amt einer Polizeihauptmeisterin oder eines Polizeihauptmeisters mit Amtszulage innehaben.
 
-
-## § 13 – Übergangsregelungen für den Aufstieg
+# § 13 – Übergangsregelungen für den Aufstieg
 
 Auf Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die bei Inkrafttreten dieser Verordnung zum Ausbildungs- oder Praxisaufstieg zugelassen sind, sind für das weitere Verfahren die §§ 15 bis 17 der Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag in der bis zum 28. August 2013 geltenden Fassung mit der Maßgabe weiter anzuwenden, dass für die Anrechnung von Zeiten auf die Einführungszeit § 11 Absatz 5 Satz 2 gilt.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag vom 27. August 2003 (BGBl. I S. 1678), die zuletzt durch Artikel 3 Absatz 3 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3)
+# Anlage – (zu § 3)
 
 (Fundstelle: BGBl. I 2013, 3285)
 

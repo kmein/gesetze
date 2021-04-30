@@ -1,10 +1,7 @@
-# [Münz5DMBek 1971-10] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Reichsgründungsmünze)
-
-Ausfertigungsdatum: 28.10.1971
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Reichsgründungsmünze)
+% Ausfertigungsdatum: 28.10.1971
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 100. Wiederkehr des Jahres der Reichsgründung 1871 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab 24. November 1971 in den Verkehr gebracht wird. Die Auflagenhöhe beträgt 5 Millionen Stück.
 
@@ -44,13 +41,11 @@ Zwischen den einzelnen Worten sind Ornamente eingeprägt.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Fundstelle: BGBl I 1971, 1691)
 

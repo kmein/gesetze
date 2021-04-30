@@ -1,10 +1,7 @@
-# [TVMindestlohn Maler 9] Rechtsnormen des Tarifvertrags vom 9. Dezember 2016 zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackierhandwerk (TV Mindestlohn)
-
-Ausfertigungsdatum: 25.04.2017
-
+% Rechtsnormen des Tarifvertrags vom 9. Dezember 2016 zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackierhandwerk (TV Mindestlohn)
+% Ausfertigungsdatum: 25.04.2017
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 1. Räumlicher Geltungsbereich
 
@@ -35,8 +32,7 @@ innerhalb von 12 Monaten nach Beendigung ihrer Schulausbildung bis zu einer Gesa
 
 c) gewerbliches Reinigungspersonal und anderes gewerbefremdes Hilfspersonal, das ausschließlich in den Verwaltungs-, Verkaufs- und Sozialräumen des Betriebs tätig ist.
 
-
-## § 2 – Mindestlöhne
+# § 2 – Mindestlöhne
 
 1. Diese Mindestlöhne sind Löhne im Sinne des § 5 Nummer 1 des Arbeitnehmer-Entsendegesetzes für alle von dem persönlichen Geltungsbereich dieses Tarifvertrags erfassten Arbeitnehmer. Höhere Lohnansprüche aufgrund anderer Tarifverträge, betrieblicher oder einzelvertraglicher Vereinbarungen bleiben unberührt.
 
@@ -82,13 +78,11 @@ b) einen staatlich anerkannten Berufsabschluss bzw. einen entsprechenden Nachwei
 
 verfügen, wird vorausgesetzt, dass sie Tätigkeiten im Sinne des Satzes 1 ausüben.
 
-
-## § 3 – Lohn der Baustelle und bei auswärtiger Beschäftigung
+# § 3 – Lohn der Baustelle und bei auswärtiger Beschäftigung
 
 Es gilt der Mindestlohn der Arbeitsstelle (Baustelle). Auswärts beschäftigte Arbeitnehmer behalten jedoch mindestens den Anspruch auf den Mindestlohn ihres Einstellungsorts (Betriebssitz). Ist der Mindestlohn der auswärtigen Arbeitsstelle höher, so haben die Arbeitnehmer Anspruch auf den höheren Mindestlohn der Arbeitsstelle, solange sie auf dieser Arbeitsstelle tätig sind.
 
-
-## § 4 – Fälligkeit des Mindestlohns
+# § 4 – Fälligkeit des Mindestlohns
 
 1. Der Anspruch auf den Mindestlohn wird spätestens zum 15. des Monats fällig, der dem Monat folgt, für den der Mindestlohn zu zahlen ist.
 
@@ -100,8 +94,7 @@ Es gilt der Mindestlohn der Arbeitsstelle (Baustelle). Auswärts beschäftigte A
 
 5. Für die Geltendmachung des Mindestlohns, welcher nicht ausgezahlt worden ist, sondern dem Arbeitszeitkonto (Nummer 2) gutzuschreiben war, gilt die gesetzliche Verjährung.
 
-
-## Anhang 1 – Auszug aus dem Rahmentarifvertrag (RTV) für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Mai 2017 geltenden Fassung
+# Anhang 1 – Auszug aus dem Rahmentarifvertrag (RTV) für die gewerblichen Arbeitnehmer im Maler- und Lackiererhandwerk in der nach § 1 Satz 1 der Verordnung maßgeblichen, am 1. Mai 2017 geltenden Fassung
 
 2. Betrieblicher Geltungsbereich:
 
@@ -163,8 +156,7 @@ b) Minusstunden (nachzuarbeitende Arbeitszeit).
 
 9. \[…\]
 
-
-## Anhang 2 – Tätigkeitsbeispiele für Facharbeiten im Sinne von § 2 Nummer 3 Satz 1
+# Anhang 2 – Tätigkeitsbeispiele für Facharbeiten im Sinne von § 2 Nummer 3 Satz 1
 
 Maler
 

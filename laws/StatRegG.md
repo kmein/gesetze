@@ -1,10 +1,7 @@
-# [StatRegG] Gesetz über den Aufbau und die Führung eines Statistikregisters  (Statistikregistergesetz - StatRegG)
-
-Ausfertigungsdatum: 16.06.1998
-
+% Gesetz über den Aufbau und die Führung eines Statistikregisters  (Statistikregistergesetz - StatRegG)
+% Ausfertigungsdatum: 16.06.1998
  
-
-## § 1
+# § 1
 
 (1) Beim Statistischen Bundesamt wird gemäß § 13 Absatz 1 des Bundesstatistikgesetzes ein Statistikregister geführt. Im Statistikregister dürfen zu den Einheiten, die gemäß der Verordnung (EG) Nr. 177/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 zur Schaffung eines gemeinsamen Rahmens für Unternehmensregister für statistische Zwecke und zur Aufhebung der Verordnung (EWG) Nr. 2186/93 des Rates (ABl. L 61 vom 5.3.2008, S. 6) in der jeweils geltenden Fassung erfasst werden, folgende Angaben gespeichert werden:
 
@@ -32,8 +29,7 @@ Die genannten Angaben dürfen auch zu administrativen Einheiten gespeichert werd
 
 (3) Zur Pflege und Führung des Statistikregisters dürfen auch nach dem Verwaltungsdatenverwendungsgesetz übermittelte Angaben, Angaben aus Wirtschafts- und Umweltstatistiken sowie Angaben aus allgemein zugänglichen Quellen verwendet werden.
 
-
-## § 2
+# § 2
 
 (1) Soweit die Finanzbehörden Angaben zu den Merkmalen nach § 2 Abs. 1 bis 3 und § 5 Nr. 1 bis 3 des Gesetzes über Steuerstatistiken vom 11. Oktober 1995 (BGBl. I S. 1250), das durch Artikel 24 des Gesetzes vom 18. Dezember 1995 (BGBl. I S. 1959) geändert worden ist, in seiner jeweils gültigen Fassung übermittelt haben, können für Zwecke des Statistikregisters folgende Angaben von Umsatzsteuerpflichtigen verwendet werden:
 
@@ -75,8 +71,7 @@ Im Rahmen der Datenübermittlung nach Satz 1 übermitteln die Finanzbehörden zu
 
 (3) Die Übermittlungen nach den Absätzen 1 und 2 erfolgen abweichend von § 1 Abs. 1 Satz 1 in dem durch das Gesetz über Steuerstatistiken in seiner jeweils gültigen Fassung vorgegebenen Zeitrahmen.
 
-
-## § 2a
+# § 2a
 
 Das Bundeszentralamt für Steuern übermittelt an das Statistische Bundesamt für Organgesellschaften und Organträger nach § 2 Abs. 2 Nr. 2 des Umsatzsteuergesetzes folgende Angaben:
 
@@ -94,8 +89,7 @@ Das Bundeszentralamt für Steuern übermittelt an das Statistische Bundesamt fü
 
 Das Statistische Bundesamt übermittelt die Angaben an die statistischen Ämter der Länder für deren Zuständigkeitsbereich.
 
-
-## § 3
+# § 3
 
 (1) Die Bundesagentur für Arbeit übermittelt von Betrieben, in denen Arbeitnehmer beschäftigt werden, folgende Angaben:
 
@@ -109,8 +103,7 @@ Das Statistische Bundesamt übermittelt die Angaben an die statistischen Ämter 
 
 (2) Die statistischen Ämter der Länder und das Statistische Bundesamt übermitteln jährlich jeweils zu einem durch die beteiligten Stellen festzulegenden Stichtag die Angaben zu Absatz 1 Nr. 2 und 4 aus dem Statistikregister ausschließlich für statistische Zwecke in den abgeschotteten Bereich der Bundesagentur für Arbeit, soweit die Angaben zum Wirtschaftszweig im Statistikregister von den von der Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nr. 2 abweichen. Soweit die Angaben zu Name oder Bezeichnung sowie Anschrift einschließlich Gemeindeschlüssel im Statistikregister von den von der Bundesagentur für Arbeit übermittelten Angaben zu Absatz 1 Nr. 1 abweichen, wird ein Kennzeichen, das auf eine Abweichung hinweist, zusammen mit der Angabe zu Absatz 1 Nr. 4 mitgeteilt.
 
-
-## § 4
+# § 4
 
 Die Industrie- und Handelskammern übermitteln von den Kammerzugehörigen ihres Bezirks nach § 2 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern folgende Angaben:
 
@@ -130,15 +123,13 @@ Die Industrie- und Handelskammern übermitteln von den Kammerzugehörigen ihres 
 
 8. zusätzlich bei den gewerblichen Niederlassungen, Betriebsstätten und Verkaufsstellen: die Angaben der Hauptniederlassung zu den Nummern 1 und 6, zur Rechtsform (Nummer 7) sowie über die Zugehörigkeit zu einem anderen Kammerbezirk.
 
-
-## § 4a
+# § 4a
 
 (1) Die Landesjustizverwaltungen übermitteln von den elektronischen Handels-, Genossenschafts- und Partnerschaftsregistern die Daten über die eingetragenen Unternehmen, die sie nach § 8b Abs. 3 Satz 2 des Handelsgesetzbuchs an das Unternehmensregister übermitteln.
 
 (2) Auf Anforderung erfolgt die Übermittlung nach Absatz 1 abweichend von § 1 Abs. 1 Satz 1 mehrmals jährlich.
 
-
-## § 5
+# § 5
 
 Die Handwerkskammern übermitteln von den Kammerzugehörigen ihres Bezirks folgende Angaben:
 
@@ -158,8 +149,7 @@ Die Handwerkskammern übermitteln von den Kammerzugehörigen ihres Bezirks folge
 
 8. Kennzeichen zur Identifikation (Kammer- und Identnummer), bei Änderung auch das zuletzt übermittelte Kennzeichen.
 
-
-## § 6
+# § 6
 
 Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich ist, übermitteln Berufsverbände und nicht in den §§ 4 und 5 genannte Kammern von ihren Mitgliedern und deren Einheiten abweichend von § 1 Abs. 1 Satz 1 auf Anforderung einmalig oder in mehrjährigen Abständen folgende Angaben:
 
@@ -169,8 +159,7 @@ Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich i
 
 3. Art der Tätigkeit.
 
-
-## § 7
+# § 7
 
 (1) Die statistischen Ämter der Länder und das Statistische Bundesamt erheben zum Aufbau und zur Führung des Statistikregisters Angaben zu Name, Anschrift und Rechtsform sowie die Kennzeichen nach § 2 Abs. 1 Satz 1 Nr. 6 und Satz 2 Nr. 3, § 3 Abs. 1 Nr. 4, § 4 Nr. 6 sowie § 5 Nr. 8, soweit die von den in den §§ 2 bis 6 genannten Stellen übermittelten Angaben einer Einheit nicht eindeutig zugeordnet werden können.
 
@@ -178,15 +167,13 @@ Soweit es für den Aufbau und die Führung des Statistikregisters erforderlich i
 
 (3) Die Erhebungen erfolgen mit Auskunftspflicht bei den in § 1 Absatz 1 Satz 2 und 3 genannten Einheiten. Auskunftspflichtig sind die Inhaberinnen und Inhaber oder Leiterinnen und Leiter der Einheiten.
 
-
-## § 8
+# § 8
 
 (1) Soweit Rechtsvorschriften des Bundes, die eine Wirtschafts- oder Umweltstatistik anordnen, Erhebungsmerkmale bestimmt haben, die Merkmalen im Statistikregister entsprechen, dürfen die statistischen Ämter der Länder und das Statistische Bundesamt Angaben zu diesen Merkmalen aus dem Statistikregister übernehmen und insoweit von einer Erhebung absehen.
 
 (2) Daten aus dem Statistikregister dürfen mit anderen Daten nach den Vorgaben des § 13a des Bundesstatistikgesetzes zusammengeführt werden.
 
-
-## § 9
+# § 9
 
 Die statistischen Ämter des Bundes und der Länder dürfen den für statistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, die die Voraussetzungen des § 16 Abs. 5 Satz 2 des Bundesstatistikgesetzes erfüllen, auf Anforderung für ausschließlich statistische Zwecke Angaben aus dem Statistikregister zu folgenden Merkmalen für örtliche Einheiten (Betriebe, Arbeitsstätten) in ihrem Zuständigkeitsbereich übermitteln:
 
@@ -198,8 +185,7 @@ Die statistischen Ämter des Bundes und der Länder dürfen den für statistisch
 
 Die Angaben zu Straße und Hausnummer nach Satz 1 Nr. 3 dürfen nur zur Zuordnung der örtlichen Einheiten zu kleinräumigen Gliederungen verwendet werden. Sie sind zum frühestmöglichen Zeitpunkt zu löschen.
 
-
-## § 10
+# § 10
 
 (1) Die Deutsche Bundesbank übermittelt an das Statistische Bundesamt Angaben aus den von ihr erstellten Wirtschaftsstatistiken zum Zwecke der Pflege und Führung des Statistikregisters.
 

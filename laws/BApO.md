@@ -1,15 +1,11 @@
-# [BApO] Bundes-Apothekerordnung
-
-Ausfertigungsdatum: 05.06.1968
-
+% Bundes-Apothekerordnung
+% Ausfertigungsdatum: 05.06.1968
  
-
-## § 1
+# § 1
 
 Der Apotheker ist berufen, die Bevölkerung ordnungsgemäß mit Arzneimitteln zu versorgen. Er dient damit der Gesundheit des einzelnen Menschen und des gesamten Volkes.
 
-
-## § 2
+# § 2
 
 (1) Wer im Geltungsbereich dieses Gesetzes den Apothekerberuf ausüben will, bedarf der Approbation als Apotheker.
 
@@ -43,13 +39,11 @@ Der Apotheker ist berufen, die Bevölkerung ordnungsgemäß mit Arzneimitteln zu
 
 12. Tätigkeiten in Lehre und Forschung an Universitäten sowie in der Lehre an Lehranstalten und Berufsschulen in pharmazeutischen Fachgebieten.
 
-
-## § 3
+# § 3
 
 Die Berufsbezeichnung "Apotheker" oder "Apothekerin" darf nur führen, wer als Apotheker approbiert oder nach § 2 Abs. 2 oder Abs. 2a zur Ausübung des Apothekerberufs befugt ist.
 
-
-## § 4
+# § 4
 
 (1) Die Approbation als Apotheker ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -101,13 +95,11 @@ Fächer unterscheiden sich wesentlich, wenn bedeutende Unterschiede hinsichtlich
 
 1. ein Identitätsnachweis,
 
-1a.  
-eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
+1a. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten,
 
 2. eine amtlich beglaubigte Kopie der Befähigungsnachweise oder des Ausbildungsnachweises, der zur Aufnahme des entsprechenden Berufs berechtigt, sowie gegebenenfalls eine Bescheinigung über die von der betreffenden Person erworbene Berufserfahrung,
 
-2a.  
-im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind darzulegen, im Inland den Apothekerberuf ausüben zu wollen,
+2a. im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind darzulegen, im Inland den Apothekerberuf ausüben zu wollen,
 
 3. die Unterlagen, die von den zuständigen Behörden des Herkunftsmitgliedstaats ausgestellt wurden und belegen, dass die Erfordernisse nach Absatz 1 Satz 1 Nr. 2 erfüllt werden oder, wenn im Herkunftsmitgliedstaat die vorgenannten Unterlagen nicht ausgestellt werden, eine eidesstattliche Erklärung oder – in den Staaten, in denen es keine eidesstattliche Erklärung gibt – eine feierliche Erklärung, die die betreffende Person vor einer zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder einer entsprechend bevollmächtigten Berufsorganisation des Herkunftsmitgliedstaats, der eine diese eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat,
 
@@ -131,8 +123,7 @@ Die Nachweise nach Satz 1 Nr. 3 und 4 dürfen bei ihrer Vorlage nicht älter als
 
 (8) Die Bundesregierung überprüft die Regelungen zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 4a
+# § 4a
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -166,8 +157,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 5
+# § 5
 
 (1) Das Bundesministerium für Gesundheit regelt durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Approbationsordnung für Apotheker unter Berücksichtigung von Artikel 44 der Richtlinie 2005/36/EG die Mindestanforderungen an das Studium der Pharmazie, die Famulatur und die praktische Ausbildung, das Nähere über die pharmazeutische Prüfung und die Approbation, ferner die Anrechnung von Prüfungen und Ausbildungszeiten, die innerhalb und außerhalb des Geltungsbereiches dieses Gesetzes abgelegt werden, sowie die Ausstellung eines Europäischen Berufsausweises. Dabei soll vorgesehen werden, daß die pharmazeutische Prüfung in zeitlich getrennte Abschnitte zu teilen und die Abschlußprüfung innerhalb eines Monats nach dem Ende der Ausbildung abzulegen ist. Für die Meldung zur pharmazeutischen Prüfung sind Fristen festzulegen.
 
@@ -177,8 +167,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Falle des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 6
+# § 6
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung
 
@@ -192,8 +181,7 @@ Eine nach § 4 Absatz 1b Satz 2, Absatz 1d Satz 2, Absatz 2 oder 3 erteilte Appr
 
 (2) Die Approbation ist zu widerrufen, wenn nachträglich eine der Voraussetzungen nach § 4 Abs. 1 Satz 1 Nr. 2 weggefallen ist.
 
-
-## § 7
+# § 7
 
 (1) (weggefallen)
 
@@ -201,8 +189,7 @@ Eine nach § 4 Absatz 1b Satz 2, Absatz 1d Satz 2, Absatz 2 oder 3 erteilte Appr
 
 (3) Eine nach § 4 Abs. 2 oder 3 erteilte Approbation kann auch zurückgenommen werden, wenn eine der nicht auf § 4 Abs. 1 Satz 1 bezogenen Voraussetzungen nicht vorgelegen hat.
 
-
-## § 8
+# § 8
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -218,18 +205,15 @@ Eine nach § 4 Absatz 1b Satz 2, Absatz 1d Satz 2, Absatz 2 oder 3 erteilte Appr
 
 (3) Der Apotheker, dessen Approbation ruht, darf den Apothekerberuf nicht ausüben.
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
-
-## § 10
+# § 10
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer Bedingung erklärt wird, ist unwirksam.
 
-
-## § 11
+# § 11
 
 (1) Die Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs nach § 2 Absatz 2 kann auf Antrag Personen erteilt werden, die eine abgeschlossene Ausbildung für den Apothekerberuf nachweisen. Eine Erlaubnis nach Satz 1 wird Antragstellern, die über einen Ausbildungsnachweis als Apotheker verfügen, der in einem Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz ausgestellt wurde, nicht erteilt. Eine Erlaubnis wird auch nicht in den Fällen des § 4 Absatz 2 Satz 10 erteilt.
 
@@ -241,8 +225,7 @@ Auf die Approbation kann durch schriftliche Erklärung gegenüber der zuständig
 
 (4) Erlaubnisse nach Absatz 1 Satz 1, die vor dem 1. April 2012 erteilt wurden, bleiben wirksam. Für sie ist Absatz 2 in seiner bis dahin geltenden Fassung bis zum 1. April 2014 für solche Inhaber der Erlaubnis weiter anzuwenden, die bis zum 1. Juli 2012 einen Antrag auf Erteilung der Approbation nach § 4 Absatz 1 Satz 1 gestellt haben. Satz 2 findet auf Staatsangehörige eines Mitgliedstaats der Europäischen Union, eines anderen Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz, die über einen Ausbildungsnachweis nach Absatz 1 verfügen, sowie auf Drittstaatsangehörige, soweit sich nach dem Recht der Europäischen Gemeinschaft eine Gleichstellung ergibt, keine Anwendung.
 
-
-## § 11a
+# § 11a
 
 (1) Staatsangehörige eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die zur Ausübung des Apothekerberufs in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen pharmazeutischen Ausbildung oder auf Grund eines in der Anlage zu § 4 Abs. 1a Satz 1, 2 oder Absatz 2 genannten pharmazeutischen Ausbildungsnachweises oder auf Grund einer im Einzelfall als gleichwertig anerkannten Ausbildung nach § 4 Abs. 2 berechtigt sind, dürfen als Dienstleistungserbringer im Sinne des Artikels 50 des EG-Vertrages vorübergehend und gelegentlich den Apothekerberuf im Geltungsbereich dieses Gesetzes ausüben, wenn sie zur Ausübung des Apothekerberufs rechtmäßig in einem der übrigen Mitgliedstaaten niedergelassen sind. Der vorübergehende und gelegentliche Charakter der Erbringung von Dienstleistungen wird im Einzelfall beurteilt, insbesondere anhand der Dauer, der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der Dienstleistungserbringung. Eine Berechtigung nach Satz 1 besteht nicht, wenn die Voraussetzungen einer Rücknahme, eines Widerrufs oder einer Ruhensanordnung, die sich auf die Tatbestände nach § 4 Abs. 1 Satz 1 Nr. 2 oder 3 beziehen, vorliegen, eine entsprechende Maßnahme mangels deutscher Berufszulassung jedoch nicht erlassen werden kann.
 
@@ -268,8 +251,7 @@ die Bescheinigungen dürfen bei ihrer Vorlage nicht älter als zwölf Monate sei
 
 3. er über einen erforderlichen Berufsqualifikationsnachweis verfügt.
 
-
-## § 12
+# § 12
 
 (1) Die Approbation erteilt in den Fällen des § 4 Abs. 1 Satz 1 die zuständige Behörde des Landes, in dem der Antragsteller die pharmazeutische Prüfung abgelegt hat. In Fällen des § 4 Abs. 1 Satz 2 wie die Approbation von der zuständigen Behörde des Landes erteilt, in dessen Gebiet der Antragsteller sein Pharmaziestudium erfolgreich abgeschlossen hat.
 
@@ -285,13 +267,11 @@ die Bescheinigungen dürfen bei ihrer Vorlage nicht älter als zwölf Monate sei
 
 (6) Wenn ein Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder ein Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, zur Erleichterung der Anwendung von Titel III Kapitel III der Richtlinie 2005/36/EG eine Bescheinigung des Herkunftsmitgliedstaats verlangt, dass die in Deutschland ausgestellten Nachweise über die geforderten Ausbildungsvoraussetzungen den in der Richtlinie 2005/36/EG verlangten Nachweisen entsprechen, erteilt diese Bescheinigung das Bundesministerium für Gesundheit. Soweit die in Deutschland zuständigen Stellen Informationen nach Anhang VII Buchstabe d der Richtlinie 2005/36/EG an die zuständigen Behörden des Aufnahmemitgliedstaats zu übermitteln haben, hat dies binnen zwei Monaten zu erfolgen.
 
-
-## § 13
+# § 13
 
 Wer den Apothekerberuf ausübt, solange durch vollziehbare Verfügung das Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 14
+# § 14
 
 (1) Eine Approbation oder Bestallung, die bei Inkrafttreten dieses Gesetzes in seinem Geltungsbereich zur Ausübung des Apothekerberufs berechtigt, gilt als Approbation im Sinne dieses Gesetzes. Eine Approbation, die bei Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet zur Ausübung des Apothekerberufs berechtigt, gilt als Approbation im Sinne dieses Gesetzes.
 
@@ -301,23 +281,19 @@ Wer den Apothekerberuf ausübt, solange durch vollziehbare Verfügung das Ruhen 
 
 (4) Eine widerrufliche Gestattung der Ausübung des Apothekerberufs nach § 3 Abs. 1 der Reichsapothekerordnung vom 18. April 1937 (RGBl. I S. 457) gilt mit ihrem bisherigen Inhalt als Erlaubnis im Sinne des § 2 Abs. 2.
 
-
-## §§ 15 und 16 – (weggefallen)
+# §§ 15 und 16 – (weggefallen)
 
 (Änderung anderer Vorschriften)
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18
+# § 18
 
 (Inkrafttreten)
 
-
-## Anlage – (zu § 4 Abs. 1a Satz 1)
+# Anlage – (zu § 4 Abs. 1a Satz 1)
 
 (Fundstelle: BGBl. I 2007, 2945 - 2947; bzgl. einzelner Änderungen vgl. Fußnote)  
   

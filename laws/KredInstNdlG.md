@@ -1,13 +1,9 @@
-# [KredInstNdlG] Gesetz über den Niederlassungsbereich von Kreditinstituten
-
-Ausfertigungsdatum: 29.03.1952
-
+% Gesetz über den Niederlassungsbereich von Kreditinstituten
+% Ausfertigungsdatum: 29.03.1952
  
+# §§ 1 bis 4 – (weggefallen)
 
-## §§ 1 bis 4 – (weggefallen)
-
-
-## § 5
+# § 5
 
 (1) Die Vermögenswerte, die das ausgründende Kreditinstitut nach dem Gründungsvertrag als Sacheinlage in ein Nachfolgeinstitut einzubringen hat, gehen mit der Eintragung des Nachfolgeinstituts in das Handelsregister auf dieses Nachfolgeinstitut über.
 
@@ -17,13 +13,11 @@ Ausfertigungsdatum: 29.03.1952
 
 (4) Nachfolgeinstitute, auf die gemäß Absatz 2 Schulden des ausgründenden Kreditinstituts übergegangen sind oder die gemäß Absatz 3 neben dem ausgründenden Kreditinstitut haften, können dem Gläubiger die Einwendungen entgegensetzen, die sich aus dem Rechtsverhältnis zwischen dem ausgründenden Kreditinstitut und dem Gläubiger ergeben; § 6 der 35. Durchführungsverordnung zum Umstellungsgesetz findet Anwendung. Mit einer Forderung des ausgründenden Kreditinstituts, die nicht gemäß Absatz 1 auf ein Nachfolgeinstitut übergegangen ist, können die Nachfolgeinstitute jedoch nicht aufrechnen.
 
-
-## § 6
+# § 6
 
 Die Nachfolgeinstitute sind verpflichtet, auf Verlangen des ausgründenden Kreditinstituts gegen Übertragung entsprechender Vermögenswerte Verbindlichkeiten der in § 5 Abs. 3 genannten Art zu übernehmen; der Betrag, der von jedem der Nachfolgeinstitute jeweils zu übernehmenden Verbindlichkeiten bestimmt sich nach dem Verhältnis, in dem die in den Eröffnungsbilanzen der Nachfolgeinstitute ausgewiesenen, nach Abzug der Schulden sich ergebenden Vermögen zueinander stehen.
 
-
-## § 7
+# § 7
 
 (1) Die Vermögenswerte und Verbindlichkeiten des ausgründenden Kreditinstituts sind auf die Nachfolgeinstitute so aufzuteilen, daß die Ansprüche der Gläubiger nicht gefährdet werden.
 
@@ -35,25 +29,21 @@ Die Nachfolgeinstitute sind verpflichtet, auf Verlangen des ausgründenden Kredi
 
 (5) Das Nachfolgeinstitut, auf das gemäß den Absätzen 3 und 4 die Schuld übergeht, kann von dem bisherigen Schuldner die Übertragung entsprechender Vermögenswerte verlangen.
 
-
-## § 8
+# § 8
 
 \-
 
-
-## § 9
+# § 9
 
 (1) Jedem Aktionär des ausgründenden Kreditinstituts stehen Anteile an dem Kapital jedes der Nachfolgeinstitute in dem Betrag zu, der seinem Anteil an dem Gesellschaftskapital des ausgründenden Kreditinstituts entspricht. Wenn der auf eine Aktie des ausgründenden Kreditinstituts entfallende Betrag an Aktien eines Nachfolgeinstituts 100 Deutsche Mark oder ein Vielfaches dieses Betrages nicht erreicht, können Aktien des Nachfolgeinstituts auf 20 oder 50 Deutsche Mark oder ein Vielfaches dieser Beträge gestellt werden, soweit dies zum Ausgleich von Spitzenbeträgen notwendig ist. Aktien dieser Art, die auf Nennbeträge unter 100 Deutsche Mark lauten, können auf den Inhaber ausgestellt werden. Aktien, die nicht auf 100 Deutsche Mark oder ein Vielfaches dieses Betrages lauten, sollen spätestens bis zum 31. Dezember 1955 in Aktien, die auf 100 Deutsche Mark oder ein Vielfaches von 100 Deutsche Mark lauten, umgetauscht werden.
 
 (2) Aktionäre, die nicht eine Aktie mit Lieferbarkeitsbescheinigungen vorlegen, können die auf ihre Aktien entfallenden Gesellschaftsanteile der Nachfolgeinstitute erst beanspruchen, nachdem ihnen im Wertpapierbereinigungsverfahren von der Anmeldestelle eine Gutschrift auf Sammeldepotkonto erteilt worden ist. Aktionäre des ausgründenden Kreditinstituts, die sich nach den Vorschriften des Gesetzes über die Ausübung von Mitgliedschaftsrechten aus Aktien während der Wertpapierbereinigung vom 9. Oktober 1950 (Bundesgesetzbl. S. 690) ausweisen, sind berechtigt, bereits vor Übertragung der auf sie entfallenden Gesellschaftsanteile der Nachfolgeinstitute die Mitgliedschaftsrechte in entsprechender Anwendung des angeführten Gesetzes auszuüben.
 
-
-## § 10
+# § 10
 
 Nach Eintragung der Nachfolgeinstitute in das Handelsregister darf das ausgründende Kreditinstitut Bankgeschäfte nur noch vornehmen, soweit sie zur Abwicklung erforderlich sind.
 
-
-## § 11
+# § 11
 
 (1) Die Umsatzsteuer und die Steuern vom Kapitalverkehr werden nicht erhoben aus Anlaß von:
 
@@ -65,8 +55,7 @@ b) Übertragung von Vermögensgegenständen bei Gründung von Nachfolgeinstitute
 
 (3) Die Anfangswerte in der steuerlichen Eröffnungsbilanz der Nachfolgeinstitute dürfen die nach Absatz 2 in der Ausgründungsbilanz des ausgründenden Kreditinstituts angesetzten Werte nicht übersteigen.
 
-
-## § 12
+# § 12
 
 (1) Gerichtsgebühren und notarielle Beurkundungsgebühren, die anläßlich der Auflösung und Ausgründung von Kreditinstituten auf Grund dieses Gesetzes entstehen, werden auf die Hälfte ermäßigt. Die ermäßigte Gebühr für eine Beurkundung beträgt höchstens 2.500 Deutsche Mark.
 
@@ -79,17 +68,14 @@ b) Übertragung von Vermögensgegenständen bei Gründung von Nachfolgeinstitute
 § 12 Abs. 3 Kursivdruck: Jetzt (§§ 58, 59 der Kostenordnung) gem. Art. 11 § 6 G v. 26.7.1957 I 861, 935  
 § 12 Abs. 4 Kursivdruck: Jetzt §§ 33, 79 der Kostenordnung
 
-
-## § 13
-
-\-
-
-
-## § 14
+# § 13
 
 \-
 
+# § 14
 
-## § 15
+\-
+
+# § 15
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

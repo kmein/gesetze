@@ -1,18 +1,13 @@
-# [AwSV] Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen     (AwSV)
-
-Ausfertigungsdatum: 18.04.2017
-
+% Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen     (AwSV)
+% Ausfertigungsdatum: 18.04.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23 Absatz 1 Nummer 5 bis 8, 10 und 11 und Absatz 2 in Verbindung mit § 62 Absatz 4 und § 63 Absatz 2 Satz 2 des Wasserhaushaltsgesetzes, von denen § 23 Absatz 1 Satzteil vor Nummer 1 zuletzt durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) und § 62 Absatz 4 zuletzt durch Artikel 320 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind, verordnet die Bundesregierung nach Anhörung der beteiligten Kreise:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck; Anwendungsbereich
+# § 1 – Zweck; Anwendungsbereich
 
 (1) Diese Verordnung dient dem Schutz der Gewässer vor nachteiligen Veränderungen ihrer Eigenschaften durch Freisetzungen von wassergefährdenden Stoffen aus Anlagen zum Umgang mit diesen Stoffen.
 
@@ -28,8 +23,7 @@ Auf Grund des § 23 Absatz 1 Nummer 5 bis 8, 10 und 11 und Absatz 2 in Verbindun
 
 (4) Diese Verordnung findet zudem keine Anwendung, wenn der Umfang der wassergefährdenden Stoffe, sofern mit ihnen neben anderen Sachen in einer Anlage umgegangen wird, während der gesamten Betriebsdauer der Anlage unerheblich ist. Auf Antrag des Betreibers stellt die zuständige Behörde fest, ob die Voraussetzung nach Satz 1 erfüllt ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Absätze 2 bis 33.
 
@@ -169,8 +163,7 @@ Ist die weitere Zone eines Schutzgebietes unterteilt, so gilt als Schutzgebiet n
 
 (33) „Sachverständige“ sind von nach § 52 anerkannten Sachverständigenorganisationen bestellte Personen, die berechtigt sind, Anlagen zu prüfen und zu begutachten.
 
-
-## § 3 – Grundsätze
+# § 3 – Grundsätze
 
 (1) Nach Maßgabe der Bestimmungen dieses Kapitels werden Stoffe und Gemische, mit denen in Anlagen umgegangen wird, entsprechend ihrer Gefährlichkeit als nicht wassergefährdend oder in eine der folgenden Wassergefährdungsklassen eingestuft:
 
@@ -222,8 +215,7 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
 
 (4) Solange Stoffe und Gemische nicht nach Maßgabe dieses Kapitels oder nach § 66 eingestuft sind, gelten sie als stark wassergefährdend. Dies gilt nicht für Stoffe und Gemische, die unter Absatz 2 oder Absatz 3 fallen.
 
-
-## § 4 – Selbsteinstufung von Stoffen; Ausnahmen; Dokumentation
+# § 4 – Selbsteinstufung von Stoffen; Ausnahmen; Dokumentation
 
 (1) Beabsichtigt ein Betreiber, in einer Anlage mit einem Stoff umzugehen, hat er diesen nach Maßgabe der Kriterien von Anlage 1 als nicht wassergefährdend oder in eine Wassergefährdungsklasse nach § 3 Absatz 1 einzustufen.
 
@@ -243,8 +235,7 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
 
 (4) Ist der Betreiber der Auffassung, dass die Einstufung eines Stoffes nach Maßgabe der Anlage 1 die Wassergefährdung unzureichend abbildet, kann er dem Umweltbundesamt eine abweichende Einstufung vorschlagen. Dem Vorschlag sind zusätzlich zu der Dokumentation nach Absatz 3 alle für die Beurteilung der abweichenden Einstufung erforderlichen Unterlagen beizufügen.
 
-
-## § 5 – Kontrolle und Überprüfung der Dokumentation; Stoffgruppen
+# § 5 – Kontrolle und Überprüfung der Dokumentation; Stoffgruppen
 
 (1) Das Umweltbundesamt kontrolliert die Dokumentationen zur Selbsteinstufung von Stoffen auf ihre Vollständigkeit und Plausibilität. Das Umweltbundesamt kann den Betreiber verpflichten, fehlende oder nicht plausible Angaben zu ergänzen oder zu berichtigen.
 
@@ -252,8 +243,7 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
 
 (3) Das Umweltbundesamt kann Stoffe zu Stoffgruppen zusammenfassen und die Stoffgruppen einstufen.
 
-
-## § 6 – Entscheidung über die Einstufung; Veröffentlichung im Bundesanzeiger
+# § 6 – Entscheidung über die Einstufung; Veröffentlichung im Bundesanzeiger
 
 (1) Das Umweltbundesamt entscheidet auf Grund der Ergebnisse der Kontrollen und Überprüfungen nach § 5 Absatz 1 und 2 über die Einstufung von Stoffen und Stoffgruppen. Bei der Entscheidung kann auch Folgendes berücksichtigt werden:
 
@@ -273,15 +263,13 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
      
     (+++ § 6 Abs. 4: zur Anwendung vgl. § 7 Abs. 1 u. § 11 +++) 
 
-
-## § 7 – Änderung bestehender Einstufungen; Mitteilungspflicht
+# § 7 – Änderung bestehender Einstufungen; Mitteilungspflicht
 
 (1) Liegen dem Umweltbundesamt Erkenntnisse vor, die die Änderung einer Einstufung nach § 6 Absatz 1 oder Absatz 2 notwendig machen können, nimmt es eine Neubewertung und erforderlichenfalls eine Änderung der Einstufung vor. § 6 Absatz 3 und 4 gilt entsprechend.
 
 (2) Liegen dem Betreiber Erkenntnisse vor, die zu einer Änderung der veröffentlichten Einstufung eines Stoffes oder einer Stoffgruppe führen können, muss er diese Erkenntnisse unverzüglich schriftlich dem Umweltbundesamt mitteilen.
 
-
-## § 8 – Selbsteinstufung von flüssigen oder gasförmigen Gemischen; Dokumentation
+# § 8 – Selbsteinstufung von flüssigen oder gasförmigen Gemischen; Dokumentation
 
 (1) Beabsichtigt ein Betreiber, in einer Anlage mit einem flüssigen oder gasförmigen Gemisch umzugehen, hat er dieses nach Maßgabe der Kriterien von Anlage 1 als nicht wassergefährdend oder in eine Wassergefährdungsklasse nach § 3 Absatz 1 einzustufen.
 
@@ -303,15 +291,13 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
 
 (4) Sofern die Dokumentation Betriebsgeheimnisse zur Rezeptur eines Gemisches enthält, kann der Betreiber die Vorlage der Dokumentation nach Absatz 3 verweigern. In diesem Fall hat er der zuständigen Behörde mitzuteilen, wie groß jeweils der Anteil aller Stoffe der jeweiligen Wassergefährdungsklassen ist. Die zuständige Behörde dokumentiert die Nachvollziehbarkeit der Einstufung.
 
-
-## § 9 – Überprüfung der Selbsteinstufung von flüssigen oder gasförmigen Gemischen; Änderung der Selbsteinstufung
+# § 9 – Überprüfung der Selbsteinstufung von flüssigen oder gasförmigen Gemischen; Änderung der Selbsteinstufung
 
 (1) Die zuständige Behörde kann die Dokumentation nach § 8 Absatz 3 überprüfen. Die zuständige Behörde kann den Betreiber verpflichten, fehlende oder nicht plausible Angaben zu ergänzen oder zu berichtigen. Sie kann die Gemische abweichend von der Selbsteinstufung nach § 8 Absatz 1 einstufen. Die Entscheidung nach Satz 3 ist dem Betreiber schriftlich bekannt zu geben.
 
 (2) Das Umweltbundesamt berät die zuständige Behörde auf deren Ersuchen in Fragen, die die Einstufung von flüssigen oder gasförmigen Gemischen betreffen.
 
-
-## § 10 – Einstufung fester Gemische
+# § 10 – Einstufung fester Gemische
 
 (1) Der Betreiber kann ein festes Gemisch abweichend von § 3 Absatz 2 Satz 1 Nummer 8 als nicht wassergefährdend einstufen, wenn
 
@@ -327,13 +313,11 @@ Abweichend von Satz 1 Nummer 8 ist ein festes Gemisch nicht wassergefährdend, w
 
 (4) Die zuständige Behörde kann auf Grund der Überprüfung nach Absatz 3 Satz 3 der Selbsteinstufung nach Absatz 1 oder Absatz 2 widersprechen; im Fall des Absatzes 2 kann sie das Gemisch auch in eine abweichende Wassergefährdungsklasse einstufen. Sie kann sich dabei vom Umweltbundesamt beraten lassen. Die Entscheidung ist dem Betreiber schriftlich bekannt zu geben.
 
-
-## § 11 – Einstufung von Gemischen durch das Umweltbundesamt
+# § 11 – Einstufung von Gemischen durch das Umweltbundesamt
 
 Das Umweltbundesamt kann Gemische nach Maßgabe von Anlage 1 als nicht wassergefährdend oder in eine Wassergefährdungsklasse einstufen. § 6 Absatz 4 gilt entsprechend.
 
-
-## § 12 – Kommission zur Bewertung wassergefährdender Stoffe
+# § 12 – Kommission zur Bewertung wassergefährdender Stoffe
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird als Beirat eine Kommission zur Bewertung wassergefährdender Stoffe eingerichtet. Sie berät das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und das Umweltbundesamt in Fragen, die die Einstufung betreffen.
 
@@ -341,8 +325,7 @@ Das Umweltbundesamt kann Gemische nach Maßgabe von Anlage 1 als nicht wassergef
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit beruft die Mitglieder der Kommission zur Bewertung wassergefährdender Stoffe. Die Kommission gibt sich eine Geschäftsordnung und wählt aus ihrer Mitte eine Vorsitzende oder einen Vorsitzenden. Die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit.
 
-
-## § 13 – Einschränkungen des Geltungsbereichs dieses Kapitels
+# § 13 – Einschränkungen des Geltungsbereichs dieses Kapitels
 
 (1) Dieses Kapitel gilt für Anlagen, in denen mit aufschwimmenden flüssigen Stoffen gemäß § 3 Absatz 2 Satz 1 Nummer 7 umgegangen wird, nur, sofern nicht ausgeschlossen werden kann, dass diese Stoffe in ein oberirdisches Gewässer gelangen können. Satz 1 gilt auch für Gemische, die nur aufschwimmende flüssige Stoffe gemäß § 3 Absatz 2 Satz 1 Nummer 7 enthalten, sowie für Gemische aus diesen aufschwimmenden flüssigen Stoffen und nicht wassergefährdenden Stoffen.
 
@@ -366,8 +349,7 @@ d) ein für Betriebsstörungen geeignetes Bindemittel vorgehalten wird;
 
 (3) Für JGS-Anlagen gelten aus diesem Kapitel nur die §§ 16, 24 Absatz 1 und 2 und § 51 sowie Anlage 7.
 
-
-## § 14 – Bestimmung und Abgrenzung von Anlagen
+# § 14 – Bestimmung und Abgrenzung von Anlagen
 
 (1) Der Betreiber einer Anlage hat zu dokumentieren, welche Anlagenteile zu der Anlage gehören und wo die Schnittstellen zu anderen Anlagen sind.
 
@@ -383,8 +365,7 @@ d) ein für Betriebsstörungen geeignetes Bindemittel vorgehalten wird;
 
 (7) Eine Rohrleitung, die nach § 62 Absatz 1 Satz 2 Nummer 2 des Wasserhaushaltsgesetzes Zubehör einer Anlage zum Umgang mit wassergefährdenden Stoffen ist oder die nach § 62 Absatz 1 Satz 2 Nummer 3 des Wasserhaushaltsgesetzes Anlagen verbindet, die in einem engen räumlichen und betrieblichen Zusammenhang miteinander stehen, ist der Anlage zuzuordnen, deren Zubehör sie ist oder mit der sie im Zusammenhang steht.
 
-
-## § 15 – Technische Regeln
+# § 15 – Technische Regeln
 
 (1) Den allgemein anerkannten Regeln der Technik nach § 62 Absatz 2 des Wasserhaushaltsgesetzes entsprechende Regeln (technische Regeln) sind insbesondere die folgenden Regeln:
 
@@ -396,8 +377,7 @@ d) ein für Betriebsstörungen geeignetes Bindemittel vorgehalten wird;
 
 (2) Normen und sonstige Bestimmungen anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum stehen technischen Regeln nach Absatz 1 gleich, wenn mit ihnen dauerhaft das gleiche Schutzniveau erreicht wird.
 
-
-## § 16 – Behördliche Anordnungen
+# § 16 – Behördliche Anordnungen
 
 (1) Ist auf Grund der besonderen Umstände des Einzelfalls, insbesondere auf Grund der hydrogeologischen Beschaffenheit und der Schutzbedürftigkeit des Aufstellungsortes, nicht gewährleistet, dass die Anforderungen des § 62 Absatz 1 des Wasserhaushaltsgesetzes erfüllt werden, kann die zuständige Behörde Anforderungen stellen, die über die im Folgenden genannten hinausgehen:
 
@@ -413,8 +393,7 @@ Unter den Voraussetzungen nach Satz 1 kann die zuständige Behörde auch die Err
 
 (3) Die zuständige Behörde kann im Einzelfall Ausnahmen von den Anforderungen dieses Kapitels zulassen, wenn die Anforderungen des § 62 Absatz 1 des Wasserhaushaltsgesetzes dennoch erfüllt werden.
 
-
-## § 17 – Grundsatzanforderungen
+# § 17 – Grundsatzanforderungen
 
 (1) Anlagen müssen so geplant und errichtet werden, beschaffen sein und betrieben werden, dass
 
@@ -432,8 +411,7 @@ Unter den Voraussetzungen nach Satz 1 kann die zuständige Behörde auch die Err
 
 (4) Der Betreiber hat bei der Stilllegung einer Anlage oder von Anlagenteilen alle in der Anlage oder in den Anlagenteilen enthaltenen wassergefährdenden Stoffe, soweit technisch möglich, zu entfernen. Er hat die Anlage gegen missbräuchliche Nutzung zu sichern.
 
-
-## § 18 – Anforderungen an die Rückhaltung wassergefährdender Stoffe
+# § 18 – Anforderungen an die Rückhaltung wassergefährdender Stoffe
 
 (1) Anlagen müssen ausgetretene wassergefährdende Stoffe auf geeignete Weise zurückhalten. Dazu sind sie mit einer Rückhalteeinrichtung im Sinne von § 2 Absatz 16 auszurüsten. Satz 2 gilt nicht, wenn es sich um eine doppelwandige Anlage im Sinne von § 2 Absatz 17 handelt. Einzelne Anlagenteile können über unterschiedliche, jeweils voneinander unabhängige Rückhalteeinrichtungen verfügen. Bei Anlagen, die nur teilweise doppelwandig ausgerüstet sind, sind einwandige Anlagenteile mit einer Rückhalteeinrichtung zu versehen.
 
@@ -463,8 +441,7 @@ Auf ein Rückhaltevolumen kann bei oberirdischen Anlagen zum Umgang mit wasserge
 
 (+++ § 18 Abs. 1 bis 3: zur Anwendung vgl. § 35 Abs. 2 +++)
 
-
-## § 19 – Anforderungen an die Entwässerung
+# § 19 – Anforderungen an die Entwässerung
 
 (1) Bei unvermeidlichem Zutritt von Niederschlagswasser sind abweichend von § 18 Absatz 2 Abläufe zulässig, wenn sie nur nach vorheriger Feststellung, dass keine wassergefährdenden Stoffe im Niederschlagswasser enthalten sind, geöffnet werden. Mit wassergefährdenden Stoffen verunreinigtes Niederschlagswasser ist ordnungsgemäß als Abwasser zu beseitigen oder als Abfall zu entsorgen.
 
@@ -492,13 +469,11 @@ entscheidet die zuständige Behörde über die Art der Rückhaltung wassergefäh
 
 (7) Nicht überdachte Rückhalteeinrichtungen müssen zusätzlich zum Rückhaltevolumen für wassergefährdende Stoffe nach § 18 Absatz 3 ein Rückhaltevolumen für Niederschlagswasser haben.
 
-
-## § 20 – Rückhaltung bei Brandereignissen
+# § 20 – Rückhaltung bei Brandereignissen
 
 Anlagen müssen so geplant, errichtet und betrieben werden, dass die bei Brandereignissen austretenden wassergefährdenden Stoffe, Lösch-, Berieselungs- und Kühlwasser sowie die entstehenden Verbrennungsprodukte mit wassergefährdenden Eigenschaften nach den allgemein anerkannten Regeln der Technik zurückgehalten werden. Satz 1 gilt nicht für Anlagen, bei denen eine Brandentstehung nicht zu erwarten ist, und für Heizölverbraucheranlagen.
 
-
-## § 21 – Besondere Anforderungen an die Rückhaltung bei Rohrleitungen
+# § 21 – Besondere Anforderungen an die Rückhaltung bei Rohrleitungen
 
 (1) Oberirdische Rohrleitungen zum Befördern flüssiger wassergefährdender Stoffe sind mit Rückhalteeinrichtungen auszurüsten. Das Rückhaltevolumen muss dem Volumen wassergefährdender Stoffe entsprechen, das bei Betriebsstörungen bis zum Wirksamwerden geeigneter Sicherheitsvorkehrungen freigesetzt werden kann. Die Sätze 1 und 2 gelten nicht, wenn auf der Grundlage einer Gefährdungsabschätzung durch Maßnahmen technischer oder organisatorischer Art sichergestellt ist, dass ein gleichwertiges Sicherheitsniveau erreicht wird. Bei Heizölverbraucheranlagen der Gefährdungsstufen A und B gilt die Gefährdungsabschätzung als geführt, wenn die Heizölverbraucheranlage den geltenden allgemein anerkannten Regeln der Technik im Sinne des § 15 entspricht. Für oberirdische Rohrleitungen zum Befördern von flüssigen wassergefährdenden Stoffen der Wassergefährdungsklasse 1 kann ohne eine Gefährdungsabschätzung von Rückhalteeinrichtungen abgesehen werden, wenn die Standorte der Rohrleitungen auf Grund ihrer hydrogeologischen Eigenschaften keines besonderen Schutzes bedürfen.
 
@@ -520,8 +495,7 @@ Kann insbesondere aus Gründen der Betriebssicherheit keine der Anforderungen na
 
 (+++ § 21 Abs. 2: zur Anwendung vgl. § 35 Abs. 2 +++)
 
-
-## § 22 – Anforderungen bei der Nutzung von Abwasseranlagen als Auffangvorrichtung
+# § 22 – Anforderungen bei der Nutzung von Abwasseranlagen als Auffangvorrichtung
 
 (1) Wassergefährdende Stoffe, deren Austreten aus einer Anlage im bestimmungsgemäßen Betrieb unvermeidbar ist und die aus betriebstechnischen Gründen nicht schnell und zuverlässig erkannt, zurückgehalten und ordnungsgemäß entsorgt werden können, dürfen in die betriebliche Kanalisation eingeleitet werden, wenn
 
@@ -537,8 +511,7 @@ Kann insbesondere aus Gründen der Betriebssicherheit keine der Anforderungen na
 
 (4) Die Teile von Abwasseranlagen, die nach Absatz 2 oder § 19 Absatz 2 Satz 1 auch für die Rückhaltung wassergefährdender Stoffe oder nach Absatz 1 genutzt werden dürfen, müssen flüssigkeitsundurchlässig ausgeführt werden und sind von den Sachverständigen in die Prüfungen nach § 46 einzubeziehen, wenn die zugehörige Anlage prüfpflichtig ist.
 
-
-## § 23 – Anforderungen an das Befüllen und Entleeren
+# § 23 – Anforderungen an das Befüllen und Entleeren
 
 (1) Wer eine Anlage befüllt oder entleert, hat diesen Vorgang zu überwachen und sich vor Beginn der Arbeiten von dem ordnungsgemäßen Zustand der dafür erforderlichen Sicherheitseinrichtungen zu überzeugen. Die zulässigen Belastungsgrenzen der Anlage und der Sicherheitseinrichtungen sind beim Befüllen oder Entleeren einzuhalten.
 
@@ -546,8 +519,7 @@ Kann insbesondere aus Gründen der Betriebssicherheit keine der Anforderungen na
 
 (3) Behälter in Anlagen zum Lagern von Brennstoffen nach § 2 Absatz 11 Satz 1 Nummer 2, Dieselkraftstoffen, Ottokraftstoffen oder Kraftstoffen, die aus Biomasse hergestellte Stoffe unabhängig von ihrem Anteil enthalten, dürfen aus Straßentankwagen, Aufsetztanks und ortsbeweglichen Tanks nur unter Verwendung einer selbsttätig schließenden Abfüllsicherung befüllt werden. Heizölverbraucheranlagen mit einem Volumen von bis zu 1,25 Kubikmetern dürfen abweichend von Satz 1 auch unter Verwendung selbsttätig schließender Zapfventile befüllt werden.
 
-
-## § 24 – Pflichten bei Betriebsstörungen; Instandsetzung
+# § 24 – Pflichten bei Betriebsstörungen; Instandsetzung
 
 (1) Kann bei einer Betriebsstörung nicht ausgeschlossen werden, dass wassergefährdende Stoffe aus Anlagenteilen austreten, hat der Betreiber unverzüglich Maßnahmen zur Schadensbegrenzung zu ergreifen. Er hat die Anlage unverzüglich außer Betrieb zu nehmen, wenn er eine Gefährdung oder Schädigung eines Gewässers nicht auf andere Weise verhindern kann; soweit erforderlich, ist die Anlage zu entleeren.
 
@@ -555,13 +527,11 @@ Kann insbesondere aus Gründen der Betriebssicherheit keine der Anforderungen na
 
 (3) Für die Instandsetzung einer Anlage oder eines Teils einer Anlage ist auf der Grundlage einer Zustandsbegutachtung ein Instandsetzungskonzept zu erarbeiten.
 
-
-## § 25 – Vorrang der Regelungen des Abschnitts 3
+# § 25 – Vorrang der Regelungen des Abschnitts 3
 
 Soweit dieser Abschnitt für bestimmte Anlagen besondere Anforderungen an die Rückhaltung wassergefährdender Stoffe vorsieht oder nach diesem Abschnitt unter bestimmten Voraussetzungen eine Rückhaltung nicht erforderlich ist, gehen diese Regelungen den jeweiligen Anforderungen nach § 18 Absatz 1 bis 3 vor.
 
-
-## § 26 – Besondere Anforderungen an Anlagen zum Lagern, Abfüllen, Herstellen, Behandeln oder Verwenden fester wassergefährdender Stoffe
+# § 26 – Besondere Anforderungen an Anlagen zum Lagern, Abfüllen, Herstellen, Behandeln oder Verwenden fester wassergefährdender Stoffe
 
 (1) Anlagen zum Lagern, Abfüllen, Herstellen, Behandeln oder Verwenden fester wassergefährdender Stoffe bedürfen keiner Rückhaltung, wenn
 
@@ -583,13 +553,11 @@ b) in geschlossenen oder vor Witterungseinflüssen geschützten Räumen befinden
 
 (+++ § 26 Abs. 1: zur Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 27 – Besondere Anforderungen an Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefährdende Stoffe anhaften
+# § 27 – Besondere Anforderungen an Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefährdende Stoffe anhaften
 
 Bei Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefährdende Stoffe anhaften, ist abweichend von § 18 Absatz 3 für die Bemessung des Volumens der Rückhalteeinrichtungen das Volumen flüssiger wassergefährdender Stoffe maßgeblich, das sich ansammeln kann. Ist dieses nicht bekannt, ist ein Volumen von 5 Prozent des Anlagenvolumens anzusetzen.
 
-
-## § 28 – Besondere Anforderungen an Umschlagflächen für wassergefährdende Stoffe
+# § 28 – Besondere Anforderungen an Umschlagflächen für wassergefährdende Stoffe
 
 (1) Die Umschlagflächen von Umschlaganlagen für flüssige wassergefährdende Stoffe müssen flüssigkeitsundurchlässig sein. Das dort anfallende Niederschlagswasser ist ordnungsgemäß als Abfall zu entsorgen oder nach Maßgabe von § 19 Absatz 2 Satz 1 ordnungsgemäß als Abwasser zu beseitigen. Für Umschlagflächen von Umschlaganlagen für feste wassergefährdende Stoffe gilt § 26 Absatz 1 entsprechend.
 
@@ -597,8 +565,7 @@ Bei Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefä
 
 (+++ § 28 Abs. 2: zur Anwendung vgl. § § 29 Abs. 3 +++)
 
-
-## § 29 – Besondere Anforderungen an Umschlaganlagen des intermodalen Verkehrs
+# § 29 – Besondere Anforderungen an Umschlaganlagen des intermodalen Verkehrs
 
 (1) Flächen von Umschlaganlagen des intermodalen Verkehrs sind diejenigen, auf denen wassergefährdende Stoffe in Ladeeinheiten oder Straßenfahrzeugen, die gefahrgutrechtlich gekennzeichnet sind, umgeladen werden. Flächen nach Satz 1 müssen in Beton- oder Asphaltbauweise so befestigt sein, dass das dort anfallende Niederschlagswasser auf der Unterseite nicht austritt und nach Maßgabe von § 19 Absatz 2 Satz 1 ordnungsgemäß als Abwasser beseitigt wird oder ordnungsgemäß als Abfall entsorgt wird.
 
@@ -606,8 +573,7 @@ Bei Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefä
 
 (3) § 28 Absatz 2 gilt entsprechend.
 
-
-## § 30 – Besondere Anforderungen an Anlagen zum Laden und Löschen von Schiffen sowie an Anlagen zur Betankung von Wasserfahrzeugen
+# § 30 – Besondere Anforderungen an Anlagen zum Laden und Löschen von Schiffen sowie an Anlagen zur Betankung von Wasserfahrzeugen
 
 (1) Anlagen zum Laden und Löschen von Schiffen mit wassergefährdenden Stoffen sowie Anlagen zur Betankung von Wasserfahrzeugen bedürfen schiffsseitig keiner Rückhaltung.
 
@@ -623,8 +589,7 @@ Bei Anlagen zum Lagern oder Abfüllen fester Stoffe, denen flüssige wassergefä
 
 (3) Schüttgüter sind so zu laden und zu löschen, dass der Eintrag von festen wassergefährdenden Stoffen in oberirdische Gewässer durch geeignete Maßnahmen verhindert wird.
 
-
-## § 31 – Besondere Anforderungen an Fass- und Gebindelager
+# § 31 – Besondere Anforderungen an Fass- und Gebindelager
 
 (1) Bei Fass- und Gebindelagern müssen die wassergefährdenden Stoffe in dicht verschlossenen Behältern oder Verpackungen gelagert werden, die
 
@@ -639,18 +604,15 @@ der Anlage in Kubikmetern</th><th style="text-align: left;">Rückhaltevolumen</t
 
 (3) Bei Fass- und Gebindelagern für ortsbewegliche Behälter und Verpackungen mit einem Einzelvolumen von bis zu 0,02 Kubikmetern oder für restentleerte Behälter und Verpackungen ist abweichend von Absatz 2 eine flüssigkeitsundurchlässige Fläche ohne definiertes Rückhaltevolumen ausreichend, sofern ausgetretene wassergefährdende Stoffe schnell aufgenommen werden können und die Schadenbeseitigung mit einfachen betrieblichen Mitteln gefahrlos möglich ist.
 
-
-## § 32 – Besondere Anforderungen an Abfüllflächen von Heizölverbraucheranlagen
+# § 32 – Besondere Anforderungen an Abfüllflächen von Heizölverbraucheranlagen
 
 Abfüllflächen von Heizölverbraucheranlagen bedürfen keiner Rückhaltung, wenn die Heizölverbraucheranlage aus hierfür zugelassenen Straßentankwagen im Vollschlauchsystem befüllt wird und hierbei eine zugelassene selbsttätig schließende Abfüllsicherung und ein Grenzwertgeber verwendet werden. Satz 1 gilt auch für Heizölverbraucheranlagen mit einem Volumen von bis zu 1,25 Kubikmetern, die unter Verwendung eines selbsttätig schließenden Zapfventils befüllt werden.
 
-
-## § 33 – Besondere Anforderungen an Abfüllflächen von bestimmten Anlagen zum Verwenden flüssiger wassergefährdender Stoffe
+# § 33 – Besondere Anforderungen an Abfüllflächen von bestimmten Anlagen zum Verwenden flüssiger wassergefährdender Stoffe
 
 Abfüllflächen als Teile von Anlagen zum Verwenden flüssiger wassergefährdender Stoffe, bei denen auf Grund des Einsatzzweckes davon auszugehen ist, dass sie grundsätzlich nur einmal befüllt oder entleert werden, bedürfen keiner Rückhaltung. Zu den Anlagen im Sinne von Satz 1 gehören insbesondere Hydraulikanlagen sowie ölgefüllte Transformatoren.
 
-
-## § 34 – Besondere Anforderungen an Anlagen zum Verwenden wassergefährdender Stoffe im Bereich der Energieversorgung und in Einrichtungen des Wasserbaus
+# § 34 – Besondere Anforderungen an Anlagen zum Verwenden wassergefährdender Stoffe im Bereich der Energieversorgung und in Einrichtungen des Wasserbaus
 
 (1) Oberirdische Anlagen zum Verwenden flüssiger wassergefährdender Stoffe der Wassergefährdungsklasse 1 oder Wassergefährdungsklasse 2 als Kühl-, Schmier- oder Isoliermittel oder als Hydraulikflüssigkeit im Bereich der Energieversorgung und in Einrichtungen des Wasserbaus, die über ein Volumen von bis zu 10 Kubikmetern verfügen, bedürfen keiner Rückhaltung, wenn sie die Anforderungen nach den Absätzen 2 und 3 erfüllen.
 
@@ -658,8 +620,7 @@ Abfüllflächen als Teile von Anlagen zum Verwenden flüssiger wassergefährdend
 
 (3) Werden Kühler mit Direktkontakt zum Wasser eingesetzt, sind sie als Doppelrohrkühler, Zweikreiskühler oder als diesen Kühlern technisch gleichwertige Kühlsysteme auszuführen. Die Kühlsysteme sind mit automatischen Störmeldeeinrichtungen auszurüsten.
 
-
-## § 35 – Besondere Anforderungen an Erdwärmesonden und -kollektoren, Solarkollektoren und Kälteanlagen
+# § 35 – Besondere Anforderungen an Erdwärmesonden und -kollektoren, Solarkollektoren und Kälteanlagen
 
 (1) Für Erdwärmesonden und -kollektoren, Solarkollektoren und Kälteanlagen, in denen wassergefährdende Stoffe im Bereich der gewerblichen Wirtschaft oder im Bereich öffentlicher Einrichtungen verwendet werden, gelten die Absätze 2 bis 4.
 
@@ -691,13 +652,11 @@ b) Gemische der Wassergefährdungsklasse 1, deren Hauptbestandteile Ethylen- ode
 
 (4) Kälteanlagen mit gasförmigen wassergefährdenden Stoffen der Wassergefährdungsklasse 1 bedürfen keiner Rückhaltung.
 
-
-## § 36 – Besondere Anforderungen an unterirdische Ölkabel- und Massekabelanlagen
+# § 36 – Besondere Anforderungen an unterirdische Ölkabel- und Massekabelanlagen
 
 Bei unterirdischen Massekabelanlagen sind Einrichtungen zur Rückhaltung von Kabeltränkmasse nicht erforderlich. Bei unterirdischen Ölkabelanlagen sind Einrichtungen zur Rückhaltung von Isolierölen nicht erforderlich, wenn der Betreiber die Anlagen elektrisch und hydraulisch durch selbsttätige Störmeldeeinrichtungen überwacht, Störungen in einer ständig besetzten Betriebsstelle angezeigt werden und die Betriebswerte ständig erfasst und auf die Abweichung von Sollwerten kontrolliert werden.
 
-
-## § 37 – Besondere Anforderungen an Biogasanlagen mit Gärsubstraten landwirtschaftlicher Herkunft
+# § 37 – Besondere Anforderungen an Biogasanlagen mit Gärsubstraten landwirtschaftlicher Herkunft
 
 (1) Abweichend von § 18 Absatz 1 bis 3 ist die Rückhaltung wassergefährdender Stoffe in Biogasanlagen, in denen ausschließlich Gärsubstrate nach § 2 Absatz 8 eingesetzt werden, nach Maßgabe der Absätze 2 bis 5 auszugestalten.
 
@@ -711,8 +670,7 @@ Bei unterirdischen Massekabelanlagen sind Einrichtungen zur Rückhaltung von Kab
 
 (6) Erdbecken sind für die Lagerung von Gärresten aus dem Betrieb von Biogasanlagen nicht zulässig.
 
-
-## § 38 – Besondere Anforderungen an oberirdische Anlagen zum Umgang mit gasförmigen wassergefährdenden Stoffen
+# § 38 – Besondere Anforderungen an oberirdische Anlagen zum Umgang mit gasförmigen wassergefährdenden Stoffen
 
 (1) Oberirdische Anlagen zum Umgang mit gasförmigen wassergefährdenden Stoffen bedürfen keiner Rückhaltung.
 
@@ -724,8 +682,7 @@ Bei unterirdischen Massekabelanlagen sind Einrichtungen zur Rückhaltung von Kab
 
 (3) Für Anlagen mit einer maßgebenden Masse bis zu 1 Tonne gasförmiger wassergefährdender Stoffe sind auch beim Vorliegen der Voraussetzungen nach Absatz 2 keine Rückhaltemaßnahmen erforderlich, wenn die Behälter den gefahrgutrechtlichen Anforderungen genügen und die Schadenbeseitigung mit einfachen betrieblichen Mitteln möglich ist.
 
-
-## § 39 – Gefährdungsstufen von Anlagen
+# § 39 – Gefährdungsstufen von Anlagen
 
 (1) Betreiber haben Anlagen nach Maßgabe der nachstehenden Tabelle einer Gefährdungsstufe zuzuordnen. Bei flüssigen Stoffen ist das für die jeweilige Anlage maßgebende Volumen zugrunde zu legen, bei gasförmigen und festen Stoffen die für die jeweilige Anlage maßgebende Masse.
 
@@ -817,8 +774,7 @@ Betrieblich genutzte Absperreinrichtungen innerhalb einer Anlage bleiben außer 
 
 (11) Anlagen zum Umgang mit allgemein wassergefährdenden Stoffen nach § 3 Absatz 2 werden keiner Gefährdungsstufe zugeordnet.
 
-
-## § 40 – Anzeigepflicht
+# § 40 – Anzeigepflicht
 
 (1) Wer eine nach § 46 Absatz 2 oder Absatz 3 prüfpflichtige Anlage errichten oder wesentlich ändern will oder an dieser Anlage Maßnahmen ergreifen will, die zu einer Änderung der Gefährdungsstufe nach § 39 Absatz 1 führen, hat dies der zuständigen Behörde mindestens sechs Wochen im Voraus schriftlich anzuzeigen.
 
@@ -834,8 +790,7 @@ Nicht anzeigepflichtig sind in den Fällen des Satzes 1 Nummer 2 auch zulassungs
 
 (4) Nach einem Wechsel des Betreibers einer nach § 46 Absatz 2 oder Absatz 3 prüfpflichtigen Anlage hat der neue Betreiber diesen Wechsel der zuständigen Behörde unverzüglich schriftlich anzuzeigen. Satz 1 gilt nicht für Betreiber von Heizölverbraucheranlagen.
 
-
-## § 41 – Ausnahmen vom Erfordernis der Eignungsfeststellung
+# § 41 – Ausnahmen vom Erfordernis der Eignungsfeststellung
 
 (1) Die Eignungsfeststellung nach § 63 Absatz 1 des Wasserhaushaltsgesetzes ist über die in § 63 Absatz 2 und 3 des Wasserhaushaltsgesetzes geregelten Fälle hinaus nicht erforderlich für
 
@@ -867,13 +822,11 @@ Die Anlage darf wie geplant errichtet und betrieben werden, wenn die zuständige
 
 (3) Bei Anlagen der Gefährdungsstufe D kann die zuständige Behörde von einer Eignungsfeststellung absehen, wenn die Anforderungen nach Absatz 2 Satz 1 erfüllt sind.
 
-
-## § 42 – Antragsunterlagen für die Eignungsfeststellung
+# § 42 – Antragsunterlagen für die Eignungsfeststellung
 
 Dem Antrag auf Erteilung einer Eignungsfeststellung sind die zum Nachweis der Eignung erforderlichen Unterlagen beizufügen. Auf Verlangen der zuständigen Behörde ist dem Antrag ein Gutachten eines Sachverständigen beizufügen. Als Nachweise gelten auch Prüfbescheinigungen und Gutachten von in anderen Mitgliedstaaten der Europäischen Union und anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zugelassenen Prüfstellen oder Sachverständigen, wenn die Anforderungen an die Prüfung der Anlage denen nach dieser Verordnung gleichwertig sind; für die Prüfbescheinigungen und Gutachten gilt § 52 Absatz 2 Satz 2 und 3 entsprechend.
 
-
-## § 43 – Anlagendokumentation
+# § 43 – Anlagendokumentation
 
 (1) Der Betreiber hat eine Anlagendokumentation zu führen, in der die wesentlichen Informationen über die Anlage enthalten sind. Hierzu zählen insbesondere Angaben zum Aufbau und zur Abgrenzung der Anlage, zu den eingesetzten Stoffen, zur Bauart und zu den Werkstoffen der einzelnen Anlagenteile, zu Sicherheitseinrichtungen und Schutzvorkehrungen, zur Löschwasserrückhaltung und zur Standsicherheit. Die Dokumentation ist bei einem Wechsel des Betreibers an den neuen Betreiber zu übergeben.
 
@@ -887,8 +840,7 @@ Dem Antrag auf Erteilung einer Eignungsfeststellung sind die zum Nachweis der Ei
 
 2. einem Umweltbetriebsprüfungsbericht nach Anhang III Buchstabe C der Verordnung (EG) Nr. 1221/2009.
 
-
-## § 44 – Betriebsanweisung; Merkblatt
+# § 44 – Betriebsanweisung; Merkblatt
 
 (1) Der Betreiber hat eine Betriebsanweisung vorzuhalten, die einen Überwachungs-, Instandhaltungs- und Notfallplan enthält und Sofortmaßnahmen zur Abwehr nachteiliger Veränderungen der Eigenschaften von Gewässern festlegt. Der Plan ist mit den Stellen abzustimmen, die im Rahmen des Notfallplans und der Sofortmaßnahmen beteiligt sind. Der Betreiber hat die Einhaltung der Betriebsanweisung und deren Aktualisierung sicherzustellen.
 
@@ -910,8 +862,7 @@ Dem Antrag auf Erteilung einer Eignungsfeststellung sind die zum Nachweis der Ei
 
 Stattdessen ist bei Anlagen nach Satz 1 Nummer 3 das Merkblatt zu Betriebs- und Verhaltensvorschriften beim Betrieb von Heizölverbraucheranlagen nach Anlage 3 und bei Anlagen nach Satz 1 Nummer 1, 2, 4 und 5 das Merkblatt zu Betriebs- und Verhaltensvorschriften beim Umgang mit wassergefährdenden Stoffen nach Anlage 4 an gut sichtbarer Stelle in der Nähe der Anlage dauerhaft anzubringen. Auf das Anbringen des Merkblattes nach Anlage 4 kann verzichtet werden, wenn die dort vorgegebenen Informationen auf andere Weise in der Nähe der Anlage gut sichtbar dokumentiert sind. Bei Anlagen zum Verwenden wassergefährdender Stoffe der Gefährdungsstufe A, die im Freien außerhalb von Ortschaften betrieben werden, ist die gut sichtbare Anbringung einer Telefonnummer ausreichend, unter der bei Betriebsstörungen eine Alarmierung erfolgen kann.
 
-
-## § 45 – Fachbetriebspflicht; Ausnahmen
+# § 45 – Fachbetriebspflicht; Ausnahmen
 
 (1) Folgende Anlagen einschließlich der zu ihnen gehörenden Anlagenteile dürfen nur von Fachbetrieben nach § 62 errichtet, von innen gereinigt, instand gesetzt und stillgelegt werden:
 
@@ -931,8 +882,7 @@ Stattdessen ist bei Anlagen nach Satz 1 Nummer 3 das Merkblatt zu Betriebs- und 
 
 (2) Abweichend von Absatz 1 müssen Tätigkeiten an Anlagen oder Anlagenteilen, die keine unmittelbare Bedeutung für die Anlagensicherheit haben, nicht von Fachbetrieben ausgeführt werden.
 
-
-## § 46 – Überwachungs- und Prüfpflichten des Betreibers
+# § 46 – Überwachungs- und Prüfpflichten des Betreibers
 
 (1) Der Betreiber hat die Dichtheit der Anlage und die Funktionsfähigkeit der Sicherheitseinrichtungen regelmäßig zu kontrollieren. Die zuständige Behörde kann im Einzelfall anordnen, dass der Betreiber einen Überwachungsvertrag mit einem Fachbetrieb nach § 62 abschließt, wenn er selbst nicht die erforderliche Sachkunde besitzt und auch nicht über sachkundiges Personal verfügt.
 
@@ -948,8 +898,7 @@ Stattdessen ist bei Anlagen nach Satz 1 Nummer 3 das Merkblatt zu Betriebs- und 
 
 (7) Weiter gehende Regelungen, insbesondere in einer Eignungsfeststellung nach § 63 Absatz 1 des Wasserhaushaltsgesetzes, bleiben unberührt.
 
-
-## § 47 – Prüfung durch Sachverständige
+# § 47 – Prüfung durch Sachverständige
 
 (1) Prüfungen nach § 46 Absatz 2 bis 5 dürfen nur von Sachverständigen durchgeführt werden.
 
@@ -999,15 +948,13 @@ Die Angaben nach Satz 3 Nummer 1, 2, 3, 9, 11 und 13 sind auf der ersten Seite d
 
 (5) Bei der Prüfung einer Heizölverbraucheranlage hat der Sachverständige dem Betreiber das Merkblatt nach Anlage 3 auszuhändigen, sofern an der Anlage ein solches Merkblatt nicht bereits aushängt.
 
-
-## § 48 – Beseitigung von Mängeln
+# § 48 – Beseitigung von Mängeln
 
 (1) Werden bei Prüfungen nach § 46 durch einen Sachverständigen geringfügige Mängel festgestellt, hat der Betreiber diese Mängel innerhalb von sechs Monaten und, soweit nach § 45 erforderlich, durch einen Fachbetrieb nach § 62 zu beseitigen. Erhebliche und gefährliche Mängel sind dagegen unverzüglich zu beseitigen.
 
 (2) Hat der Sachverständige bei seiner Prüfung nach § 46 einen gefährlichen Mangel im Sinne von § 47 Absatz 2 Nummer 4 festgestellt, hat der Betreiber die Anlage unverzüglich außer Betrieb zu nehmen und, soweit dies nach Feststellung des Sachverständigen erforderlich ist, zu entleeren. Die Anlage darf erst wieder in Betrieb genommen werden, wenn der zuständigen Behörde eine Bestätigung des Sachverständigen über die erfolgreiche Beseitigung der festgestellten Mängel vorliegt.
 
-
-## § 49 – Anforderungen an Anlagen in Schutzgebieten
+# § 49 – Anforderungen an Anlagen in Schutzgebieten
 
 (1) Im Fassungsbereich und in der engeren Zone von Schutzgebieten dürfen keine Anlagen errichtet und betrieben werden.
 
@@ -1041,8 +988,7 @@ Abweichend von Satz 1 gelten für die in Abschnitt 3 bestimmten Anlagen nur die 
 
 (+++ § 49 Abs. 4: zur Anwendung vgl. § 50 Abs. 2 +++)
 
-
-## § 50 – Anforderungen an Anlagen in festgesetzten und vorläufig gesicherten Überschwemmungsgebieten
+# § 50 – Anforderungen an Anlagen in festgesetzten und vorläufig gesicherten Überschwemmungsgebieten
 
 (1) Anlagen dürfen in festgesetzten und vorläufig gesicherten Überschwemmungsgebieten im Sinne des § 76 des Wasserhaushaltsgesetzes oder nach landesrechtlichen Vorschriften nur errichtet und betrieben werden, wenn wassergefährdende Stoffe durch Hochwasser nicht abgeschwemmt oder freigesetzt werden und auch nicht auf eine andere Weise in ein Gewässer oder eine Abwasserbehandlungsanlage gelangen können.
 
@@ -1050,13 +996,11 @@ Abweichend von Satz 1 gelten für die in Abschnitt 3 bestimmten Anlagen nur die 
 
 (3) § 78 des Wasserhaushaltsgesetzes sowie weiter gehende landesrechtliche Vorschriften für Überschwemmungsgebiete bleiben unberührt.
 
-
-## § 51 – Abstand zu Trinkwasserbrunnen, Quellen und oberirdischen Gewässern
+# § 51 – Abstand zu Trinkwasserbrunnen, Quellen und oberirdischen Gewässern
 
 Der Abstand von JGS-Anlagen und Biogasanlagen, in denen ausschließlich Gärsubstrate nach § 2 Absatz 8 eingesetzt werden, zu privat oder gewerblich genutzten Quellen oder zu Brunnen, die der Trinkwassergewinnung dienen, hat mindestens 50 Meter, der Abstand zu oberirdischen Gewässern mindestens 20 Meter zu betragen. Dies gilt nicht, wenn der Betreiber nachweist, dass ein entsprechender Schutz der Trinkwassergewinnung oder der Gewässer auf andere Weise gewährleistet ist.
 
-
-## § 52 – Anerkennung von Sachverständigenorganisationen
+# § 52 – Anerkennung von Sachverständigenorganisationen
 
 (1) Sachverständigenorganisationen bedürfen der Anerkennung durch die zuständige Behörde. Anerkannte Sachverständigenorganisationen sind berechtigt,
 
@@ -1102,8 +1046,7 @@ Das Qualitätssicherungssystem nach Satz 1 Nummer 5 hat sicherzustellen, dass ge
      
     (+++ § 52 Abs. 4: zur Anwendung vgl. § 57 Abs. 4 +++) 
 
-
-## § 53 – Bestellung von Sachverständigen
+# § 53 – Bestellung von Sachverständigen
 
 (1) Eine Sachverständigenorganisation darf nur solche Personen als Sachverständige bestellen, die
 
@@ -1165,8 +1108,7 @@ Die Zuverlässigkeit ist auch nicht bei Personen gegeben, die die Fähigkeit, ö
 
 (+++ § 53 Abs. 2 bis 4: zur Anwendung vgl. § 58 Abs. 1 +++)
 
-
-## § 54 – Widerruf und Erlöschen der Anerkennung; Erlöschen der Bestellung von Sachverständigen
+# § 54 – Widerruf und Erlöschen der Anerkennung; Erlöschen der Bestellung von Sachverständigen
 
 (1) Die Anerkennung der Sachverständigenorganisation kann unbeschadet des § 49 Absatz 2 Satz 1 Nummer 2 bis 5 des Verwaltungsverfahrensgesetzes widerrufen werden, wenn die Sachverständigenorganisation
 
@@ -1190,8 +1132,7 @@ Die Zuverlässigkeit ist auch nicht bei Personen gegeben, die die Fähigkeit, ö
 
 Der Sachverständige hat in den Fällen des Satzes 1 das Bestellungsschreiben nach § 53 Absatz 7 zurückzugeben.
 
-
-## § 55 – Pflichten der Sachverständigenorganisationen
+# § 55 – Pflichten der Sachverständigenorganisationen
 
 Die Sachverständigenorganisation ist verpflichtet,
 
@@ -1227,15 +1168,13 @@ c) die Erkenntnisse, die bei Prüfungen sowie bei der Feststellung von Abweichun
 
 10. der zuständigen Behörde unverzüglich die Auflösung der Sachverständigenorganisation mitzuteilen.
 
-
-## § 56 – Pflichten der bestellten Sachverständigen
+# § 56 – Pflichten der bestellten Sachverständigen
 
 (1) Jeder Sachverständige ist verpflichtet, ein Prüftagebuch zu führen, aus dem sich mindestens Art, Umfang und Ergebnisse aller durchgeführten Prüfungen ergeben. Das Prüftagebuch hat der Sachverständige der zuständigen Behörde auf Verlangen vorzulegen.
 
 (2) Sachverständige dürfen Betriebs- und Geschäftsgeheimnisse, die ihnen im Rahmen ihrer Tätigkeit bekannt werden, nicht unbefugt offenbaren oder verwerten.
 
-
-## § 57 – Anerkennung von Güte- und Überwachungsgemeinschaften
+# § 57 – Anerkennung von Güte- und Überwachungsgemeinschaften
 
 (1) Güte- und Überwachungsgemeinschaften bedürfen der Anerkennung durch die zuständige Behörde. Anerkannte Güte- und Überwachungsgemeinschaften sind berechtigt, Fachprüfer zur Zertifizierung und Überwachung von Fachbetrieben nach § 62 Absatz 1 zu bestellen.
 
@@ -1267,8 +1206,7 @@ Das Qualitätssicherungssystem nach Satz 1 Nummer 5 hat sicherzustellen, dass ge
      
     (+++ § 57 Abs. 3 Satz 1 Nr. 3 u. 4: zur Anwendung vgl. § 52 Abs. 3 +++) 
 
-
-## § 58 – Bestellung von Fachprüfern
+# § 58 – Bestellung von Fachprüfern
 
 (1) Eine Güte- und Überwachungsgemeinschaft darf für die Zertifizierung und Überwachung von Fachbetrieben nur solche Personen als Fachprüfer bestellen, die
 
@@ -1296,8 +1234,7 @@ Für die Zuverlässigkeit nach Satz 1 Nummer 1 gilt § 53 Absatz 2 bis 4 entspre
 
 (+++ § 58: Inkraft gem. § 73 Satz 1 mWv 22.4.2017 +++)
 
-
-## § 59 – Widerruf und Erlöschen der Anerkennung; Erlöschen der Bestellung von Fachprüfern
+# § 59 – Widerruf und Erlöschen der Anerkennung; Erlöschen der Bestellung von Fachprüfern
 
 (1) Die Anerkennung der Güte- und Überwachungsgemeinschaft kann unbeschadet des § 49 Absatz 2 Satz 1 Nummer 2 bis 5 des Verwaltungsverfahrensgesetzes widerrufen werden, wenn die Güte- und Überwachungsgemeinschaft
 
@@ -1321,8 +1258,7 @@ Der Fachprüfer hat in den Fällen des Satzes 1 das Bestellungsschreiben nach §
 
 (+++ § 59: Inkraft gem. § 73 Satz 1 mWv 22.4.2017 +++)
 
-
-## § 60 – Pflichten von Güte- und Überwachungsgemeinschaften und Fachprüfern
+# § 60 – Pflichten von Güte- und Überwachungsgemeinschaften und Fachprüfern
 
 (1) Die Güte- und Überwachungsgemeinschaft ist verpflichtet,
 
@@ -1354,8 +1290,7 @@ c) die zuständige Behörde die Aufhebung der Bestellung anordnet,
 
 (+++ § 60: Inkraft gem. § 73 Satz 1 mWv 22.4.2017 +++)
 
-
-## § 61 – Gemeinsame Pflichten der Sachverständigenorganisationen und der Güte- und Überwachungsgemeinschaften
+# § 61 – Gemeinsame Pflichten der Sachverständigenorganisationen und der Güte- und Überwachungsgemeinschaften
 
 (1) Sachverständigenorganisationen, die berechtigt sind, Fachbetriebe zu zertifizieren und zu überwachen, sowie Güte- und Überwachungsgemeinschaften sind verpflichtet,
 
@@ -1379,8 +1314,7 @@ Zu den Kontrollen nach Satz 1 Nummer 1 gehören insbesondere Kontrollen der Erge
 
 3. die Pflicht nach § 63 Absatz 2 nicht erfüllt.
 
-
-## § 62 – Fachbetriebe; Zertifizierung von Fachbetrieben
+# § 62 – Fachbetriebe; Zertifizierung von Fachbetrieben
 
 (1) Betriebe, die die in § 45 Absatz 1 genannten Tätigkeiten an den dort genannten Anlagen und Anlagenteilen ausführen, bedürfen der Zertifizierung als Fachbetrieb durch eine Sachverständigenorganisation oder eine Güte- und Überwachungsgemeinschaft. Die Zertifizierung kann auf bestimmte Tätigkeiten beschränkt werden. Sie ist auf einen Zeitraum von zwei Jahren zu befristen.
 
@@ -1422,8 +1356,7 @@ Die Kenntnisse nach Satz 1 Nummer 2 Buchstabe c müssen Folgendes umfassen:
 
 (4) Als Fachbetrieb gilt auch, wer die Anforderungen nach Absatz 2 erfüllt und berechtigt ist, in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum Tätigkeiten durchzuführen, die in der Bundesrepublik Deutschland nach § 45 Fachbetrieben vorbehalten sind, sofern der Betrieb in dem anderen Staat einer gleichwertigen Überwachung unterliegt.
 
-
-## § 63 – Pflichten der Fachbetriebe
+# § 63 – Pflichten der Fachbetriebe
 
 (1) Der Fachbetrieb hat sicherzustellen, dass die betrieblich verantwortliche Person mindestens alle zwei Jahre sowie das eingesetzte Personal regelmäßig an Schulungen nach § 61 Absatz 2 oder an anderen gleichwertigen Fortbildungsveranstaltungen teilnimmt.
 
@@ -1431,13 +1364,11 @@ Die Kenntnisse nach Satz 1 Nummer 2 Buchstabe c müssen Folgendes umfassen:
 
 (3) Ein Betrieb, dem die Zertifizierung als Fachbetrieb entzogen wurde, hat die Zertifizierungsurkunde nach § 62 Absatz 3 der Sachverständigenorganisation oder der Güte- und Überwachungsgemeinschaft unverzüglich zurückzugeben; sie darf nicht weiter verwendet werden.
 
-
-## § 64 – Nachweis der Fachbetriebseigenschaft
+# § 64 – Nachweis der Fachbetriebseigenschaft
 
 Fachbetriebe haben die Fachbetriebseigenschaft unaufgefordert gegenüber dem Betreiber einer Anlage nachzuweisen, wenn dieser den Fachbetrieb mit fachbetriebspflichtigen Tätigkeiten beauftragt. Gegenüber der zuständigen Behörde haben sie ihre Fachbetriebseigenschaft auf Verlangen nachzuweisen. Der Nachweis nach den Sätzen 1 und 2 ist geführt, wenn der Fachbetrieb die Zertifizierungsurkunde nach § 62 Absatz 3 oder eine beglaubigte Kopie der Zertifizierungsurkunde vorlegt. Die Sätze 1 und 2 gelten in den Fällen des § 62 Absatz 4 mit der Maßgabe, dass die Berechtigung und die gleichwertige Kontrolle nachzuweisen sind; § 52 Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 65 – Ordnungswidrigkeiten
+# § 65 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 103 Absatz 1 Satz 1 Nummer 3 Buchstabe a des Wasserhaushaltsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1509,18 +1440,15 @@ Ordnungswidrig im Sinne des § 103 Absatz 1 Satz 1 Nummer 3 Buchstabe a des Wass
 
 34. entgegen § 53 Absatz 1 Satz 1 Nummer 2 eine Person als Sachverständigen bestellt.
 
-
-## § 66 – Bestehende Einstufungen von Stoffen und Gemischen
+# § 66 – Bestehende Einstufungen von Stoffen und Gemischen
 
 Stoffe, Stoffgruppen und Gemische, die am 1. August 2017 bereits durch die oder auf Grund der Verwaltungsvorschrift wassergefährdende Stoffe (VwVwS) vom 17. Mai 1999 (BAnz. Nr. 98a S. 3), die durch die Verwaltungsvorschrift vom 27. Juli 2005 (BAnz. Nr. 142a S. 3) geändert worden ist, eingestuft worden sind, gelten nach Maßgabe dieser Einstufung als eingestuft im Sinne von Kapitel 2; diese Einstufungen werden jeweils vom Umweltbundesamt im Bundesanzeiger veröffentlicht. Das Umweltbundesamt stellt zudem im Internet eine Suchfunktion bereit, mit der die bestehenden Einstufungen wassergefährdender Stoffe, Stoffgruppen und Gemische nach Satz 1 ermittelt werden können.
 
-
-## § 67 – Änderung der Einstufung wassergefährdender Stoffe
+# § 67 – Änderung der Einstufung wassergefährdender Stoffe
 
 Führt die Änderung der Einstufung eines wassergefährdenden Stoffes zur Erhöhung der Gefährdungsstufe einer Anlage, sind die hieraus folgenden weiter gehenden Anforderungen an die Anlage erst zu erfüllen, wenn die zuständige Behörde dies anordnet. Satz 1 gilt auch für Anlagen, die am 1. August 2017 bereits errichtet sind (bestehende Anlagen).
 
-
-## § 68 – Bestehende wiederkehrend prüfpflichtige Anlagen
+# § 68 – Bestehende wiederkehrend prüfpflichtige Anlagen
 
 (1) Für bestehende Anlagen, die einer wiederkehrenden Prüfpflicht nach § 46 Absatz 2 bis 4 unterliegen, gelten ab dem 1. August 2017:
 
@@ -1566,15 +1494,13 @@ In den Fällen des Satzes 1 Nummer 2 und 3 sind die Anforderungen des § 62 Absa
      
     (+++ § 68 Abs. 8: zur Anwendung vgl. § 69 Abs. 2 +++) 
 
-
-## § 69 – Bestehende nicht wiederkehrend prüfpflichtige Anlagen
+# § 69 – Bestehende nicht wiederkehrend prüfpflichtige Anlagen
 
 (1) Für bestehende Anlagen, die keiner wiederkehrenden Prüfpflicht nach § 46 Absatz 2 bis 4 unterliegen, sind die am 31. Juli 2017 geltenden landesrechtlichen Vorschriften weiter anzuwenden, solange und soweit die zuständige Behörde keine Entscheidung nach Satz 2 getroffen hat. Die zuständige Behörde kann für Anlagen im Sinne von Satz 1 festlegen, welche Anforderungen nach dieser Verordnung zu welchem Zeitpunkt erfüllt werden müssen. Unbeschadet der Sätze 1 und 2 gelten § 23 Absatz 1 und die §§ 24, 40 und 43 bis 48 bereits ab dem 1. August 2017.
 
 (2) Im Übrigen gilt § 68 Absatz 5, 7 und 8 entsprechend.
 
-
-## § 70 – Prüffristen für bestehende Anlagen
+# § 70 – Prüffristen für bestehende Anlagen
 
 (1) Die Frist für die erste wiederkehrende Prüfung von Anlagen nach Spalte 3 der Anlage 5 oder der Anlage 6 beginnt bei Anlagen, die am 1. August 2017 bereits errichtet sind, mit dem Abschluss der letzten Prüfung nach landesrechtlichen Vorschriften. Als Prüfung im Sinne von Satz 1 gelten auch Tätigkeiten eines Fachbetriebs, die nach Landesrecht die Prüfung ersetzten.
 
@@ -1590,13 +1516,11 @@ In den Fällen des Satzes 1 Nummer 2 und 3 sind die Anforderungen des § 62 Absa
 
 5. Anlagen, die nach dem 31. Dezember 1993 in Betrieb genommen wurden, bis zum 1. August 2027.
 
-
-## § 71 – Einbau von Leichtflüssigkeitsabscheidern
+# § 71 – Einbau von Leichtflüssigkeitsabscheidern
 
 Leichtflüssigkeitsabscheider für Kraftstoffe mit Zumischung von Ethanol dürfen nur eingebaut werden, wenn der Nachweis erbracht worden ist, dass sie gegenüber diesen Kraftstoffen beständig sind und ihre Funktionsfähigkeit nur unerheblich verringert wird.
 
-
-## § 72 – Übergangsbestimmung für Fachbetriebe, Sachverständigenorganisationen und bestellte Personen
+# § 72 – Übergangsbestimmung für Fachbetriebe, Sachverständigenorganisationen und bestellte Personen
 
 (1) Ein Betrieb, der am 21. April 2017 berechtigt war, Gütezeichen einer baurechtlich anerkannten Überwachungs- oder Gütegemeinschaft zu führen, oder der vor dem 22. April 2017 einen Überwachungsvertrag mit einer Technischen Überwachungsorganisation abgeschlossen hatte, gilt bis zum 22. April 2019 als Fachbetrieb im Sinne von § 62 Absatz 1, solange die Anforderungen nach § 62 Absatz 2 erfüllt sind und die baurechtlich anerkannte Überwachungs- oder Gütegemeinschaft oder die Technische Überwachungsorganisation die Einhaltung der Anforderungen überwacht. In den Fällen des § 64 Satz 1 ist der Nachweis der Fachbetriebseigenschaft geführt, wenn der Fachbetrieb eine Bestätigung der Überwachungs- oder Gütegemeinschaft, dass er zur Führung des Gütezeichens berechtigt ist, oder eine Bestätigung einer Technischen Überwachungsorganisation, dass der Fachbetrieb von ihr im Rahmen eines Überwachungsvertrages überwacht wird, vorlegt.
 
@@ -1604,18 +1528,15 @@ Leichtflüssigkeitsabscheider für Kraftstoffe mit Zumischung von Ethanol dürfe
 
 (3) Die Anforderungen nach § 53 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Absatz 5 sowie nach § 62 Absatz 2 Satz 1 Nummer 2 Buchstabe a bis c gelten nicht für Personen, die vor dem 1. August 2017 von einer Sachverständigenorganisation oder einem Fachbetrieb bestellt worden sind.
 
-
-## § 73 – Inkrafttreten; Außerkrafttreten
+# § 73 – Inkrafttreten; Außerkrafttreten
 
 Die §§ 57 bis 60 treten am Tag nach der Verkündung in Kraft. Im Übrigen tritt diese Verordnung am 1. August 2017 in Kraft. Zu dem in Satz 2 genannten Zeitpunkt tritt die Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen vom 31. März 2010 (BGBl. I S. 377) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 4 Absatz 1, § 8 Absatz 1 und § 10 Absatz 2)Einstufung von Stoffen und Gemischen als nicht wassergefährdend und in Wassergefährdungsklassen (WGK); Bestimmung aufschwimmender flüssiger Stoffe als allgemein wassergefährdend
+# Anlage 1 – (zu § 4 Absatz 1, § 8 Absatz 1 und § 10 Absatz 2)Einstufung von Stoffen und Gemischen als nicht wassergefährdend und in Wassergefährdungsklassen (WGK); Bestimmung aufschwimmender flüssiger Stoffe als allgemein wassergefährdend
 
 (Fundstelle: BGBl. I 2017, 933 - 940)
 
@@ -1956,8 +1877,7 @@ Ermittlung der Wassergefährdungsklasse
 
 Aus den nach den Nummern 5.3.1 bis 5.3.3 ermittelten Bewertungs- und Vorsorgepunkten für das jeweilige Gemisch wird die Summe gebildet. Entsprechend dieser Summe wird dem Gemisch in entsprechender Anwendung von Nummer 4.4 eine Wassergefährdungsklasse zugeordnet.
 
-
-## Anlage 2 – (zu § 4 Absatz 3, § 8 Absatz 3 und § 10 Absatz 3)Dokumentation der Selbsteinstufung von Stoffen und Gemischen
+# Anlage 2 – (zu § 4 Absatz 3, § 8 Absatz 3 und § 10 Absatz 3)Dokumentation der Selbsteinstufung von Stoffen und Gemischen
 
 (Fundstelle: BGBl. I 2017, 943 - 948)
 
@@ -2041,15 +1961,13 @@ Für die Dokumentation der Selbsteinstufung von festen Gemischen als nicht wasse
 
 <a href="../normengrafiken/bgbl1_2017/j0905-1_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 44 Absatz 4 Satz 2)Merkblatt zu Betriebs- und Verhaltensvorschriften beim Betrieb von Heizölverbraucheranlagen
+# Anlage 3 – (zu § 44 Absatz 4 Satz 2)Merkblatt zu Betriebs- und Verhaltensvorschriften beim Betrieb von Heizölverbraucheranlagen
 
 (Fundstelle: BGBl. I 2017, 949)
 
 Bitte gut sichtbar in der Nähe der Anlage aushängen!
 
-Wer eine Heizölverbraucheranlage betreibt, ist für ihren ordnungsgemäßen Betrieb verantwortlich. Der Betreiber hat sich nach § 46 Absatz 1 AwSV regelmäßig insbesondere davon zu überzeugen, dass die Anlage keine Mängel aufweist, die dazu führen können, dass Heizöl freigesetzt wird.  
-  
+Wer eine Heizölverbraucheranlage betreibt, ist für ihren ordnungsgemäßen Betrieb verantwortlich. Der Betreiber hat sich nach § 46 Absatz 1 AwSV regelmäßig insbesondere davon zu überzeugen, dass die Anlage keine Mängel aufweist, die dazu führen können, dass Heizöl freigesetzt wird.   
 
 Besondere örtliche Lage:
 
@@ -2107,15 +2025,13 @@ Das Austreten einer nicht nur unerheblichen Menge Heizöl ist unverzüglich eine
 | örtlich zuständige Behörde: |     | Telefon: . . . . . . . . . . |
 |                             |     | Adresse: . . . . . . . . . . |
 
-
-## Anlage 4 – (zu § 44 Absatz 4 Satz 2 und 3)Merkblatt zu Betriebs- und Verhaltensvorschriften beim Umgang mit wassergefährdenden Stoffen
+# Anlage 4 – (zu § 44 Absatz 4 Satz 2 und 3)Merkblatt zu Betriebs- und Verhaltensvorschriften beim Umgang mit wassergefährdenden Stoffen
 
 (Fundstelle: BGBl. I 2017, 950)
 
 Bitte gut sichtbar in der Nähe der Anlage aushängen!
 
-Wer eine Anlage betreibt, ist für ihren ordnungsgemäßen Betrieb verantwortlich. Der Betreiber hat sich nach § 46 Absatz 1 AwSV regelmäßig insbesondere davon zu überzeugen, dass die Anlage keine Mängel aufweist, die dazu führen können, dass wassergefährdende Stoffe freigesetzt werden.  
-
+Wer eine Anlage betreibt, ist für ihren ordnungsgemäßen Betrieb verantwortlich. Der Betreiber hat sich nach § 46 Absatz 1 AwSV regelmäßig insbesondere davon zu überzeugen, dass die Anlage keine Mängel aufweist, die dazu führen können, dass wassergefährdende Stoffe freigesetzt werden. 
 Anlagenbezeichnung:
 
 . . . . . . . . . .
@@ -2186,18 +2102,15 @@ Telefon: . . . . . . . . . .
 
 Herr/Frau: . . . . . . . . . .
 
-
-## Anlage 5 – (zu § 46 Absatz 2)Prüfzeitpunkte und -intervalle für Anlagen außerhalb von Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten
+# Anlage 5 – (zu § 46 Absatz 2)Prüfzeitpunkte und -intervalle für Anlagen außerhalb von Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten
 
 (Fundstelle: BGBl. I 2017, 951)
 
-
-## Anlage 6 – (zu § 46 Absatz 3)Prüfzeitpunkte und -intervalle für Anlagen in Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten
+# Anlage 6 – (zu § 46 Absatz 3)Prüfzeitpunkte und -intervalle für Anlagen in Schutzgebieten und festgesetzten oder vorläufig gesicherten Überschwemmungsgebieten
 
 (Fundstelle: BGBl. I 2017, 952)
 
-
-## Anlage 7 – (zu § 13 Absatz 3, § 52 Absatz 1 Satz 2 Nummer 1 Buchstabe a)Anforderungen an Jauche-, Gülle- und Silagesickersaftanlagen (JGS-Anlagen)
+# Anlage 7 – (zu § 13 Absatz 3, § 52 Absatz 1 Satz 2 Nummer 1 Buchstabe a)Anforderungen an Jauche-, Gülle- und Silagesickersaftanlagen (JGS-Anlagen)
 
 (Fundstelle: BGBl. I 2017, 953 - 955)
 

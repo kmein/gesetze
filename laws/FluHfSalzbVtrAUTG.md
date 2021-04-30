@@ -1,42 +1,33 @@
-# [FluHfSalzbVtrAUTG] Gesetz zu dem Vertrag vom 19. Dezember 1967 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Auswirkungen der Anlage und des Betriebes des Flughafens Salzburg auf das Hoheitsgebiet der Bundesrepublik Deutschland
-
-Ausfertigungsdatum: 09.01.1974
-
+% Gesetz zu dem Vertrag vom 19. Dezember 1967 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Auswirkungen der Anlage und des Betriebes des Flughafens Salzburg auf das Hoheitsgebiet der Bundesrepublik Deutschland
+% Ausfertigungsdatum: 09.01.1974
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Wien am 19. Dezember 1967 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über Auswirkungen der Anlage und des Betriebes des Flughafens Salzburg auf das Hoheitsgebiet der Bundesrepublik Deutschland wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Für die nach diesem Vertrag von der Bundesrepublik Deutschland anzuwendenden deutschen Rechtsvorschriften gilt der Flughafen Salzburg als auf deutschem Hoheitsgebiet gelegen. Diese Vorschriften finden jedoch nur sinngemäß und insoweit Anwendung, als sie sich auf einen bereits angelegten und in Betrieb genommenen Verkehrsflughafen beziehen. Der Bauschutzbereich nach Artikel 1 und Artikel 3 Abs. 1 des Vertrages ist in der Anlage zu diesem Gesetz festgelegt.
 
-
-## Art 3
+# Art 3
 
 Zuständige deutsche Luftfahrtbehörde ist in den Fällen des Artikels 2 Abs. 2 sowie des Artikels 3 Abs. 2 und 3 des Vertrages das Bayerische Staatsministerium für Wirtschaft und Verkehr oder die von ihm bestimmte Stelle; im übrigen richtet sich die Zuständigkeit nach dem Luftverkehrsgesetz und seinen Durchführungsvorschriften oder sonstigen anwendbaren deutschen Rechtsvorschriften.
 
-
-## Art 4
+# Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
 (2) Der Tag, an dem der Vertrag nach seinem Artikel 14 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
-
-## Anlage – zum Vertragsgesetz (Artikel 2 Satz 3)
+# Anlage – zum Vertragsgesetz (Artikel 2 Satz 3)
 
 Das Ausmaß des Bauschutzbereichs auf deutschem Hoheitsgebiet nach Artikel 2 Satz 3 bestimmt sich nach § 3 der Verordnung des österreichischen Bundesministers für Verkehr und Elektrizitätswirtschaft vom 2. Februar 1961 betreffend die Festlegung der Sicherheitszone für den Flughafen Salzburg (Österreichisches Nachrichtenblatt für Luftfahrer, Teil B/1961, B 13/61), der wie folgt lautet:  
   

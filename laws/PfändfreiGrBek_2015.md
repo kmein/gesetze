@@ -1,10 +1,7 @@
-# [PfändfreiGrBek 2015] Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2015)
-
-Ausfertigungsdatum: 14.04.2015
-
+% Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung  (Pfändungsfreigrenzenbekanntmachung 2015)
+% Ausfertigungsdatum: 14.04.2015
  
-
-## ----
+# ----
 
 Auf Grund des § 850c Absatz 2a Satz 2 und des § 850f Absatz 3 Satz 4 der Zivilprozessordnung, von denen § 850f Absatz 3 Satz 4 durch Artikel 1 Nummer 14a des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310), wird bekannt gemacht:
 
@@ -50,12 +47,10 @@ von 139,23 auf 143,07 Euro täglich.
 
 3. Die ab 1. Juli 2015 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz und für Verbraucherschutz
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2015, 619 - 636)

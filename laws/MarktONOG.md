@@ -1,13 +1,9 @@
-# [MarktONOG] Gesetz über Meldungen über Marktordnungswaren
-
-Ausfertigungsdatum: 23.06.1976
-
+% Gesetz über Meldungen über Marktordnungswaren
+% Ausfertigungsdatum: 23.06.1976
  
+# §§ 1 bis 14 – (weggefallen)
 
-## §§ 1 bis 14 – (weggefallen)
-
-
-## § 15 – Aufzeichnungs- und Meldepflichten
+# § 15 – Aufzeichnungs- und Meldepflichten
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der zuständigen obersten Landesbehörden zum Zwecke der Marktbeobachtung und Marktberichterstattung
 
@@ -39,8 +35,7 @@ Die Festlegungen können auch von den Fachaufsichtsbehörden getroffen werden.
 
 (8) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt der Dritte, an den die Einzelgaben übermittelt werden. Die speichernde Stelle prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Sie hat zu gewährleisten, dass die Übermittlung von Einzelangaben zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann. Wird ein Gesamtbestand dieser Einzelangaben abgerufen oder übermittelt, so bezieht sich die Gewährleistung der Feststellung und Überprüfung nur auf die Zulässigkeit des Abrufes oder der Übermittlung des Gesamtbestandes.
 
-
-## § 15a – Übermittlung von Einzelangaben für die wissenschaftliche Forschung
+# § 15a – Übermittlung von Einzelangaben für die wissenschaftliche Forschung
 
 (1) Die Bundesanstalt darf pseudonymisierte Einzelangaben an Hochschulen oder sonstige Einrichtungen, die unabhängige wissenschaftliche Forschung betreiben, übermitteln, soweit
 
@@ -62,8 +57,7 @@ Bei der Abwägung nach Satz 1 Nr. 3 ist im Rahmen des öffentlichen Interesses d
 
 (6) (weggefallen)
 
-
-## § 16 – Allgemeine Prüfungsrechte und Auskunftspflichten
+# § 16 – Allgemeine Prüfungsrechte und Auskunftspflichten
 
 (1) Die Bundesanstalt kann Auskünfte verlangen, soweit dies erforderlich ist, um die Einhaltung dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen zu überwachen. Zu diesem Zweck kann sie verlangen, dass ihr die geschäftlichen Unterlagen vorgelegt werden. Sie kann zu dem genannten Zweck auch Prüfungen bei den Auskunftspflichtigen vornehmen. Zur Vornahme der Prüfungen kann die Bundesanstalt, ihre Bediensteten und Beauftragten Grundstücke, Geschäftsräume und Betriebsräume des Auskunftspflichtigen während der üblichen Geschäfts- und Betriebszeit betreten. Der Auskunftspflichtige hat die in den Sätzen 3 und 4 bezeichneten Maßnahmen zu dulden.
 
@@ -71,8 +65,7 @@ Bei der Abwägung nach Satz 1 Nr. 3 ist im Rahmen des öffentlichen Interesses d
 
 (3) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 17 – Ordnungswidrigkeiten
+# § 17 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -92,15 +85,12 @@ c) die Vornahme einer Prüfung oder das Betreten von Grundstücken oder Räumen 
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
-## § 18 – Übergangsregelung
+# § 18 – Übergangsregelung
 
 (1) Auf Meldungen für die Erzeugnisse, die den Meldepflichten nach § 4 oder § 5 der Marktordnungswaren-Meldeverordnung vom 24. November 1999 (BGBl. I S. 2286) unterliegen, ist für vor dem 1. Januar 2009 endende Meldezeiträume dieses Gesetz in der bis zum Ablauf des 28. November 2008 geltenden Fassung anzuwenden.
 
 (2) Auf Meldungen für die übrigen Erzeugnisse ist für vor dem 1. Juli 2009 endende Meldezeiträume dieses Gesetz in der bis zum Ablauf des 28. November 2008 geltenden Fassung anzuwenden.
 
+# § 19 – (Inkrafttreten)
 
-## § 19 – (Inkrafttreten)
-
-
-## §§ 20 bis 31 – (weggefallen)
+# §§ 20 bis 31 – (weggefallen)

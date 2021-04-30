@@ -1,10 +1,7 @@
-# [FluthilfeMedErl] Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille "Fluthilfe 2002"
-
-Ausfertigungsdatum: 20.09.2002
-
+% Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille "Fluthilfe 2002"
+% Ausfertigungsdatum: 20.09.2002
  
-
-## Art 1 – Stiftung
+# Art 1 – Stiftung
 
 Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei der Abwehr von Gefahren und der Beseitigung von Schäden anlässlich der Flutkatastrophe im August 2002 in der Bundesrepublik Deutschland stiften der Bundesminister des Innern und der Bundesminister der Verteidigung für haupt- und ehrenamtliche Einsatzkräfte des Technischen Hilfswerkes, Angehörige des Bundesgrenzschutzes und der Bundeswehr sowie für Dritte aufgrund ihrer besonderen Verdienste in der Zusammenarbeit mit dem Technischen Hilfswerk, dem Bundesgrenzschutz und der Bundeswehr gemeinsam die
 
@@ -12,15 +9,13 @@ Als Dank und in Anerkennung für besonders aufopferungsvolle Hilfe bei der Abweh
   
 Einsatzmedaille "Fluthilfe 2002".
 
-
-## Art 2 – Gestaltung
+# Art 2 – Gestaltung
 
 (1) Das Ehrenzeichen hat die Form einer runden, silberfarbenen Medaille. Sie trägt auf der Vorderseite den Bundesadler, darüber eine stilisierte Flutwelle und ein halb versunkenes Haus. Die umlaufende Nagellinie wird im unteren Teil der Medaille durch das Wort "Fluthilfe" und die Zahl "2002" unterbrochen. Die Rückseite trägt die Worte "Dank und Anerkennung". Der blaue Mittelteil des Medaillenbandes ist beidseitig von den Bundesfarben schwarz-rot-gold eingefasst.
 
 (2) Die Medaille als Bandsteg trägt die Farben des Medaillenbandes mit aufgesetzter verkleinerter Vorderseite der Medaille.
 
-
-## Art 3 – Verleihung
+# Art 3 – Verleihung
 
 (1) Das Ehrenzeichen verleiht
 
@@ -38,8 +33,7 @@ der Bundesminister der Verteidigung an Angehörige der Bundeswehr, an Angehörig
 
 (5) Das Ehrenzeichen geht in das Eigentum der Ausgezeichneten über. Ihre Hinterbliebenen sind zur Rückgabe nicht verpflichtet.
 
-
-## Art 4 – Vorschlagsberechtigung
+# Art 4 – Vorschlagsberechtigung
 
 (1) Für die Angehörigen des Bundesgrenzschutzes sind die Präsidenten oder Präsidentinnen der Bundesgrenzschutzpräsidien, für die haupt- und ehrenamtlichen Einsatzkräfte des Technischen Hilfswerkes die Landesbeauftragten der Bundesanstalt Technisches Hilfswerk über den Präsidenten oder die Präsidentin der Bundesanstalt Technisches Hilfswerk vorschlagsberechtigt. Vorschläge für Dritte stimmen die Vorschlagsberechtigten untereinander ab.
 
@@ -47,8 +41,7 @@ der Bundesminister der Verteidigung an Angehörige der Bundeswehr, an Angehörig
 
 (3) Die Vorschlagsberechtigten prüfen selbst, ob die Verleihungsvoraussetzungen erfüllt sind. In Zweifelsfällen kann großzügig verfahren werden.
 
-
-## Art 5 – Verfahren
+# Art 5 – Verfahren
 
 (1) Die Verleihungsvorschläge sind dem Bundesministerium des Innern oder dem Bundesministerium der Verteidigung mit folgenden personenbezogenen Angaben
 
@@ -68,13 +61,11 @@ in Listenform zuzuleiten. Alle Vorgänge zur Verleihung des Ehrenzeichens sind v
 
 (3) Die Namen der Ausgezeichneten werden den Vorschlagsberechtigten unter Beifügung der Ehrenzeichen und der Verleihungsurkunden mitgeteilt. Diese veranlassen die Aushändigung der Auszeichnung in würdiger Form.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern  
 Der Bundesminister der Verteidigung
 
-
-## Anlage
+# Anlage
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 3751 - 3753)

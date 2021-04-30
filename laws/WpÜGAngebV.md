@@ -1,15 +1,11 @@
-# [WpÜGAngebV] Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots  (WpÜG-Angebotsverordnung)
-
-Ausfertigungsdatum: 27.12.2001
-
+% Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots  (WpÜG-Angebotsverordnung)
+% Ausfertigungsdatum: 27.12.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Abs. 4, § 31 Abs. 7 Satz 1 und § 37 Abs. 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001 (BGBl. I S. 3822) verordnet das Bundesministerium der Finanzen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -97,13 +93,11 @@ Schlussvorschrift
 
 Inkrafttreten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist auf Angebote gemäß § 2 Abs. 1 des Wertpapiererwerbs- und Übernahmegesetzes anzuwenden.
 
-
-## § 2 – Ergänzende Angaben der Angebotsunterlage
+# § 2 – Ergänzende Angaben der Angebotsunterlage
 
 Der Bieter hat in seine Angebotsunterlage folgende ergänzende Angaben aufzunehmen:
 
@@ -111,13 +105,11 @@ Der Bieter hat in seine Angebotsunterlage folgende ergänzende Angaben aufzunehm
 
 2. Angaben nach Artikel 13 Absatz 1, Artikel 14 Absatz 1 und 2 oder Artikel 15 Absatz 1 der Verordnung (EU) 2017/1129 in Verbindung mit den jeweiligen Vorgaben in den Kapiteln II bis IV der Delegierten Verordnung (EU) 2019/980 der Kommission vom 14. März 2019 zur Ergänzung der Verordnung (EU) 2017/1129 des Europäischen Parlaments und des Rates hinsichtlich der Aufmachung, des Inhalts, der Prüfung und der Billigung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel an einem geregelten Markt zu veröffentlichen ist, und zur Aufhebung der Verordnung (EG) Nr. 809/2004 der Kommission (ABl. L 166 vom 21.6.2019, S. 26), sofern Wertpapiere als Gegenleistung angeboten werden; wurde für die Wertpapiere vor Veröffentlichung der Angebotsunterlage ein Prospekt, auf Grund dessen die Wertpapiere öffentlich angeboten oder zum Handel an einem organisierten Markt zugelassen worden sind, im Inland in deutscher Sprache veröffentlicht und ist für die als Gegenleistung angebotenen Wertpapiere während der gesamten Laufzeit des Angebots ein gültiger Prospekt veröffentlicht, genügt die Angabe, dass ein Prospekt veröffentlicht wurde und wo dieser jeweils erhältlich ist;
 
-2a.  
-Angaben nach § 7 des Vermögensanlagengesetzes in Verbindung mit der Vermögensanlagen-Verkaufsprospektverordnung, sofern Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes als Gegenleistung angeboten werden; wurde für die Vermögensanlagen innerhalb von zwölf Monaten vor Veröffentlichung der Angebotsunterlage ein Verkaufsprospekt im Inland in deutscher Sprache veröffentlicht, genügt die Angabe, dass ein Verkaufsprospekt veröffentlicht wurde und wo dieser erhältlich ist, sowie die Angabe der seit der Veröffentlichung des Verkaufsprospekts eingetretenen Änderungen;
+2a. Angaben nach § 7 des Vermögensanlagengesetzes in Verbindung mit der Vermögensanlagen-Verkaufsprospektverordnung, sofern Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes als Gegenleistung angeboten werden; wurde für die Vermögensanlagen innerhalb von zwölf Monaten vor Veröffentlichung der Angebotsunterlage ein Verkaufsprospekt im Inland in deutscher Sprache veröffentlicht, genügt die Angabe, dass ein Verkaufsprospekt veröffentlicht wurde und wo dieser erhältlich ist, sowie die Angabe der seit der Veröffentlichung des Verkaufsprospekts eingetretenen Änderungen;
 
 3. die zur Festsetzung der Gegenleistung angewandten Bewertungsmethoden und die Gründe, warum die Anwendung dieser Methoden angemessen ist, sowie die Angabe, welches Umtauschverhältnis oder welcher Gegenwert sich bei der Anwendung verschiedener Methoden, sofern mehrere angewandt worden sind, jeweils ergibt; zugleich ist darzulegen, welches Gewicht den verschiedenen Methoden bei der Bestimmung des Umtauschverhältnisses oder des Gegenwerts und der ihnen zugrunde liegenden Werte beigemessen worden ist, welche Gründe für die Gewichtung bedeutsam waren, und welche besonderen Schwierigkeiten bei der Bewertung der Gegenleistung aufgetreten sind;
 
-3a.  
-die zur Berechnung der Entschädigung nach § 33b Abs. 5 des Wertpapiererwerbs- und Übernahmegesetzes angewandten Berechnungsmethoden, sowie die Gründe, warum die Anwendung dieser Methoden angemessen ist;
+3a. die zur Berechnung der Entschädigung nach § 33b Abs. 5 des Wertpapiererwerbs- und Übernahmegesetzes angewandten Berechnungsmethoden, sowie die Gründe, warum die Anwendung dieser Methoden angemessen ist;
 
 4. die Maßnahmen, die die Adressaten des Angebots ergreifen müssen, um dieses anzunehmen und um die Gegenleistung für die Wertpapiere zu erhalten, die Gegenstand des Angebots sind, sowie Angaben über die mit diesen Maßnahmen für die Adressaten verbundenen Kosten und den Zeitpunkt, zu dem diejenigen, die das Angebot angenommen haben, die Gegenleistung erhalten;
 
@@ -127,8 +119,7 @@ die zur Berechnung der Entschädigung nach § 33b Abs. 5 des Wertpapiererwerbs- 
 
 7. Art und Umfang der von den in Nummer 5 genannten Personen und Unternehmen jeweils für den Erwerb von Wertpapieren der Zielgesellschaft gewährten oder vereinbarten Gegenleistung, sofern der Erwerb innerhalb von sechs Monaten vor der Veröffentlichung gemäß § 10 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes oder vor der Veröffentlichung der Angebotsunterlage gemäß § 14 Abs. 3 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes erfolgte; dem Erwerb gleichgestellt sind Vereinbarungen, auf Grund derer die Übereignung der Wertpapiere verlangt werden kann;
 
-7a.  
-bei Angeboten nach § 39 Absatz 2 Satz 3 Nummer 1 des Börsengesetzes Angaben zu dem bevorstehenden Antrag der Zielgesellschaft auf einen Widerruf der Zulassung der betroffenen Wertpapiere zum Handel im regulierten Markt; die Angaben müssen einen ausdrücklichen Hinweis auf mögliche Einschränkungen der Handelbarkeit der betroffenen Wertpapiere als Folge des Widerrufs und die damit einhergehende Möglichkeit von Kursverlusten enthalten;
+7a. bei Angeboten nach § 39 Absatz 2 Satz 3 Nummer 1 des Börsengesetzes Angaben zu dem bevorstehenden Antrag der Zielgesellschaft auf einen Widerruf der Zulassung der betroffenen Wertpapiere zum Handel im regulierten Markt; die Angaben müssen einen ausdrücklichen Hinweis auf mögliche Einschränkungen der Handelbarkeit der betroffenen Wertpapiere als Folge des Widerrufs und die damit einhergehende Möglichkeit von Kursverlusten enthalten;
 
 8. Angaben zum Erfordernis und Stand behördlicher, insbesondere wettbewerbsrechtlicher Genehmigungen und Verfahren im Zusammenhang mit dem Erwerb der Wertpapiere der Zielgesellschaft;
 
@@ -140,18 +131,15 @@ bei Angeboten nach § 39 Absatz 2 Satz 3 Nummer 1 des Börsengesetzes Angaben zu
 
 12. Angaben darüber, welchem Recht die sich aus der Annahme des Angebots ergebenden Verträge zwischen dem Bieter und den Inhabern der Wertpapiere der Zielgesellschaft unterliegen, und die Angabe des Gerichtsstands.
 
-
-## § 3 – Grundsatz
+# § 3 – Grundsatz
 
 Bei Übernahmeangeboten und Pflichtangeboten hat der Bieter den Aktionären der Zielgesellschaft eine angemessene Gegenleistung anzubieten. Die Höhe der Gegenleistung darf den nach den §§ 4 bis 6 festgelegten Mindestwert nicht unterschreiten. Sie ist für Aktien, die nicht derselben Gattung angehören, getrennt zu ermitteln.
 
-
-## § 4 – Berücksichtigung von Vorerwerben
+# § 4 – Berücksichtigung von Vorerwerben
 
 Die Gegenleistung für die Aktien der Zielgesellschaft muss mindestens dem Wert der höchsten vom Bieter, einer mit ihm gemeinsam handelnden Person oder deren Tochterunternehmen gewährten oder vereinbarten Gegenleistung für den Erwerb von Aktien der Zielgesellschaft innerhalb der letzten sechs Monate vor der Veröffentlichung nach § 14 Abs. 2 Satz 1 oder § 35 Abs. 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes entsprechen. § 31 Abs. 6 des Wertpapiererwerbs- und Übernahmegesetzes gilt entsprechend.
 
-
-## § 5 – Berücksichtigung inländischer Börsenkurse
+# § 5 – Berücksichtigung inländischer Börsenkurse
 
 (1) Sind die Aktien der Zielgesellschaft zum Handel an einer inländischen Börse zugelassen, muss die Gegenleistung mindestens dem gewichteten durchschnittlichen inländischen Börsenkurs dieser Aktien während der letzten drei Monate vor der Veröffentlichung nach § 10 Abs. 1 Satz 1 oder § 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes entsprechen.
 
@@ -161,8 +149,7 @@ Die Gegenleistung für die Aktien der Zielgesellschaft muss mindestens dem Wert 
 
 (4) Sind für die Aktien der Zielgesellschaft während der letzten drei Monate vor der Veröffentlichung nach § 10 Abs. 1 Satz 1 oder § 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes an weniger als einem Drittel der Börsentage Börsenkurse festgestellt worden und weichen mehrere nacheinander festgestellte Börsenkurse um mehr als 5 Prozent voneinander ab, so hat die Höhe der Gegenleistung dem anhand einer Bewertung der Zielgesellschaft ermittelten Wert des Unternehmens zu entsprechen.
 
-
-## § 6 – Berücksichtigung ausländischer Börsenkurse
+# § 6 – Berücksichtigung ausländischer Börsenkurse
 
 (1) Sind die Aktien der Zielgesellschaft ausschließlich zum Handel an einem organisierten Markt im Sinne des § 2 Abs. 7 des Wertpapiererwerbs- und Übernahmegesetzes in einem anderen Staat des Europäischen Wirtschaftsraums im Sinne des § 2 Abs. 8 des Wertpapiererwerbs- und Übernahmegesetzes zugelassen, muss die Gegenleistung mindestens dem durchschnittlichen Börsenkurs während der letzten drei Monate vor der Veröffentlichung nach § 10 Abs. 1 Satz 1 oder § 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes des organisierten Marktes mit den höchsten Umsätzen in den Aktien der Zielgesellschaft entsprechen.
 
@@ -176,18 +163,15 @@ Die Gegenleistung für die Aktien der Zielgesellschaft muss mindestens dem Wert 
 
 (6) § 5 Abs. 4 ist anzuwenden.
 
-
-## § 7 – Bestimmung des Wertes der Gegenleistung
+# § 7 – Bestimmung des Wertes der Gegenleistung
 
 Besteht die vom Bieter angebotene Gegenleistung in Aktien, sind für die Bestimmung des Wertes dieser Aktien die §§ 5 und 6 entsprechend anzuwenden.
 
-
-## § 8 – Antragstellung
+# § 8 – Antragstellung
 
 Der Antrag auf Befreiung von der Pflicht zur Veröffentlichung nach § 35 Abs. 1 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes und zur Abgabe eines Angebots nach § 35 Abs. 2 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes ist vom Bieter bei der Bundesanstalt zu stellen. Der Antrag kann vor Erlangung der Kontrolle über die Zielgesellschaft und innerhalb von sieben Kalendertagen nach dem Zeitpunkt gestellt werden, zu dem der Bieter Kenntnis davon hat oder nach den Umständen haben musste, dass er die Kontrolle über die Zielgesellschaft erlangt hat.
 
-
-## § 9 – Befreiungstatbestände
+# § 9 – Befreiungstatbestände
 
 Die Bundesanstalt kann insbesondere eine Befreiung von den in § 8 Satz 1 genannten Pflichten erteilen bei Erlangung der Kontrolle über die Zielgesellschaft
 
@@ -211,8 +195,7 @@ Eine Befreiung kann ferner erteilt werden, wenn
 
 3. auf Grund der Erlangung der Kontrolle über eine Gesellschaft mittelbar die Kontrolle an einer Zielgesellschaft im Sinne des § 2 Abs. 3 des Wertpapiererwerbs- und Übernahmegesetzes erlangt wurde und der Buchwert der Beteiligung der Gesellschaft an der Zielgesellschaft weniger als 20 Prozent des buchmäßigen Aktivvermögens der Gesellschaft beträgt.
 
-
-## § 10 – Antragsinhalt
+# § 10 – Antragsinhalt
 
 Der Antrag muss folgende Angaben enthalten:
 
@@ -226,22 +209,18 @@ Der Antrag muss folgende Angaben enthalten:
 
 5. die den Antrag begründenden Tatsachen.
 
-
-## § 11 – Antragsunterlagen
+# § 11 – Antragsunterlagen
 
 Die zur Beurteilung und Bearbeitung des Antrags erforderlichen Unterlagen sind unverzüglich bei der Bundesanstalt einzureichen.
 
-
-## § 12 – Prüfung der Vollständigkeit des Antrags
+# § 12 – Prüfung der Vollständigkeit des Antrags
 
 Die Bundesanstalt hat nach Eingang des Antrags und der Unterlagen zu prüfen, ob sie den Anforderungen der §§ 10 und 11 entsprechen. Sind der Antrag oder die Unterlagen nicht vollständig, so hat die Bundesanstalt den Antragsteller unverzüglich aufzufordern, den Antrag oder die Unterlagen innerhalb einer angemessenen Frist zu ergänzen. Wird der Aufforderung innerhalb der von der Bundesanstalt gesetzten Frist nicht entsprochen, gilt der Antrag als zurückgenommen.
 
-
-## § 12a – Übergangsvorschriften
+# § 12a – Übergangsvorschriften
 
 Soweit der nach § 5 oder der nach § 39 Absatz 3 des Börsengesetzes maßgebliche Zeitraum teilweise oder vollständig in die Zeit vor dem 3. Januar 2018 fällt, sind für diesen Zeitraum die nach § 9 des Wertpapierhandelsgesetzes in der bis zum 2. Januar 2018 geltenden Fassung als börslich gemeldeten Geschäfte zu berücksichtigen.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.

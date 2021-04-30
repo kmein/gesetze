@@ -1,12 +1,7 @@
-# [FahrlG2018DV] Durchführungsverordnung zum Fahrlehrergesetz
-
-Ausfertigungsdatum: 02.01.2018
-
+% Durchführungsverordnung zum Fahrlehrergesetz
+% Ausfertigungsdatum: 02.01.2018
  
-
-## Inhaltsverzeichnis
-
- 
+# Inhaltsverzeichnis
 
  
 
@@ -18,8 +13,9 @@ Ausfertigungsdatum: 02.01.2018
 
  
 
+ 
 
-## § 1 – Sprachtest; Anpassungslehrgang und Eignungsprüfung
+# § 1 – Sprachtest; Anpassungslehrgang und Eignungsprüfung
 
 (1) Bestehen Bedenken dagegen, dass ein Bewerber um eine Fahrlehrerlaubnis über die erforderlichen Sprachkenntnisse nach § 2 Absatz 1 Satz 1 Nummer 10 des Fahrlehrergesetzes verfügt, kann die nach Landesrecht zuständige Behörde ihm aufgeben, die erforderlichen Sprachkenntnisse innerhalb eines Monats mittels eines Sprachtests nachzuweisen. Die Frist kann um sechs Monate verlängert werden, um dem Bewerber die Möglichkeit einzuräumen, nachzuweisen, dass die fehlenden Kenntnisse zwischenzeitlich erworben wurden.
 
@@ -41,8 +37,7 @@ b) die wesentlichen Unterschiede zwischen der bisherigen Ausbildung oder Prüfun
 
 (8) Für die Erteilung einer Fahrschulerlaubnis nach § 21 des Fahrlehrergesetzes gelten die Absätze 2 bis 7 entsprechend. Im Hinblick auf das Erfordernis von Ausgleichsmaßnahmen kommt es auch auf die in § 18 Absatz 1 Nummer 4 und 5 des Fahrlehrergesetzes enthaltenen Anforderungen an. Wird ausschließlich von dem durch § 18 Absatz 1 Nummer 5 des Fahrlehrergesetzes vorausgesetzten Standard abgewichen, ist Absatz 3 Satz 2 bis 5 nicht anzuwenden.
 
-
-## § 2 – Anwärterschein und Fahrlehrerschein
+# § 2 – Anwärterschein und Fahrlehrerschein
 
 (1) Der Anwärterschein muss dem Muster nach Anlage 1.1, der Fahrlehrerschein dem Muster nach Anlage 1.2 entsprechen. Dies gilt nicht für Anwärterscheine und Fahrlehrerscheine der Bundeswehr, der Bundespolizei und der Polizei.
 
@@ -52,8 +47,7 @@ b) die wesentlichen Unterschiede zwischen der bisherigen Ausbildung oder Prüfun
 
 (4) Bei jeder Änderung ist ein neuer Fahrlehrerschein auszufertigen.
 
-
-## § 2a – Durchführung des Lehrgangs Fahrschulbetriebswirtschaft
+# § 2a – Durchführung des Lehrgangs Fahrschulbetriebswirtschaft
 
 (1) Der Träger der Lehrgänge über Fahrschulbetriebswirtschaft nach § 18 Absatz 1 Satz 1 Nummer 5 des Fahrlehrergesetzes muss mindestens folgende Lehrkräfte mit folgender Qualifikation einsetzen:
 
@@ -67,20 +61,17 @@ Abweichend davon dürfen auch andere Lehrkräfte eingesetzt werden, wenn diese i
 
 (2) Der Lehrgang muss mindestens die Sachgebiete des Musterplans nach Anlage 1a umfassen. Die tägliche Dauer darf acht Unterrichtseinheiten zu je 45 Minuten nicht überschreiten.
 
-
-## § 3 – Unterrichtsräume
+# § 3 – Unterrichtsräume
 
 In den Fahrschulen und deren Zweigstellen darf der theoretische Unterricht nur in ortsfesten Gebäuden erteilt werden. Die Unterrichtsräume müssen nach Größe, Beschaffenheit und Einrichtung einen sachgerechten Ausbildungsbetrieb zulassen und der Anlage 2 entsprechen.
 
 (+++ § 3 Satz 1: Zur Anwendung vgl. § 10 +++)
 
-
-## § 4 – Lehrmittel
+# § 4 – Lehrmittel
 
 In den Unterrichtsräumen müssen während des theoretischen Unterrichts Lehrmittel zur Gestaltung des Unterrichts und zur Visualisierung vorhanden sein. Zur Darstellung des Lehrstoffes müssen wahlweise Modelle, analoge oder digitale Medien sowie die zur Visualisierung jeweils erforderlichen technischen Geräte vorhanden sein. Bildschirme und Projektionsflächen müssen eine ausreichende Größe aufweisen. Ferner müssen die für die Ausbildung der Fahrschüler notwendigen aktuellen straßenverkehrsrechtlichen Bestimmungen in schriftlicher oder, sofern der Zugriff im Unterrichtsraum gesichert ist, in elektronischer Form vorliegen.
 
-
-## § 5 – Lehrfahrzeuge für Fahrschüler
+# § 5 – Lehrfahrzeuge für Fahrschüler
 
 (1) Als Ausbildungsfahrzeuge sind die Fahrzeuge zu verwenden, die den Prüfungsfahrzeugen der Anlage 7 Nummer 2.2 der Fahrerlaubnis-Verordnung entsprechen. Abweichend von Anlage 7 Nummer 2.2.4 der Fahrerlaubnis-Verordnung dürfen für die Ausbildung der Klasse B alle Personenkraftwagen verwendet werden, die eine durch die Bauart bestimmte Höchstgeschwindigkeit von mindestens 130 km/h erreichen. Bei der Klasse A dürfen zu Beginn der Ausbildung Krafträder der Klassen A2 und A1 gemäß Anlage 7 Nummer 2.2.2 und 2.2.3 der Fahrerlaubnis-Verordnung verwendet werden. Bei der Klasse A2 dürfen zu Beginn der Ausbildung Krafträder der Klasse A1 gemäß Anlage 7 Nummer 2.2.3 der Fahrerlaubnis-Verordnung verwendet werden.
 
@@ -90,20 +81,17 @@ In den Unterrichtsräumen müssen während des theoretischen Unterrichts Lehrmit
 
 (4) Die Fahrzeuge dürfen bei der Ausbildung an der Rückseite, zusätzlich auch an der Vorderseite, ein Schild mit der Aufschrift „FAHRSCHULE“ in roter Schrift auf weißem Grund führen, das auch retroreflektierend sein kann. Neben oder anstelle einer solchen Kennzeichnung ist auch ein entsprechendes Schild auf dem Dach quer zur Fahrtrichtung zulässig, das auch retroreflektierend sein kann. Das Schild darf nicht auf anderen als Ausbildungsfahrten verwendet werden. Es muss mindestens 350 Millimeter lang und 80 Millimeter breit sein; es darf höchstens 520 Millimeter lang und 110 Millimeter breit sein. Schilder mit zusätzlicher Aufschrift sowie sonstige Einrichtungen, die zu Verwechslungen mit dem Schild Anlass geben oder dessen Wirkung beeinträchtigen können, dürfen im Straßenverkehr nicht verwendet werden; auf eine Ausbildung der Fahrerlaubnisklassen AM, A1, A2, A und T darf zusätzlich hingewiesen werden.
 
-
-## § 6 – Ausbildungsnachweis
+# § 6 – Ausbildungsnachweis
 
 (1) Der Ausbildungsnachweis für den Fahrschüler nach § 31 des Fahrlehrergesetzes und § 6 Absatz 2 der Fahrschüler-Ausbildungsordnung muss dem Muster nach Anlage 3 entsprechen.
 
 (2) Die im Rahmen der Fahrschülerausbildung erhobenen personenbezogenen Daten dürfen nur für diesen Zweck verarbeitet und genutzt werden und sind fünf Jahre nach Abschluss der jeweiligen Ausbildung zu löschen.
 
-
-## § 7 – Preisaushang
+# § 7 – Preisaushang
 
 Für den nach § 32 Absatz 1 des Fahrlehrergesetzes vorgeschriebenen Aushang ist das Muster nach Anlage 4 zu verwenden.
 
-
-## § 8 – Verantwortliche Leitung
+# § 8 – Verantwortliche Leitung
 
 (1) Die für die verantwortliche Leitung einer Fahrlehrerausbildungsstätte bestellte Person muss:
 
@@ -127,8 +115,7 @@ Außerdem dürfen keine Tatsachen vorliegen, die ihn für die Tätigkeit als unz
 
 (2) Besitzt die für die verantwortliche Leitung bestellte Person aus gesundheitlichen Gründen keine Fahrerlaubnis der Klasse CE, genügt es, dass sie mindestens einmal die entsprechende Fahrerlaubnis erworben hatte. Absatz 1 Satz 1 Nummer 2 bleibt unberührt.
 
-
-## § 9 – Lehrkräfte in der Fahrlehrerausbildungsstätte
+# § 9 – Lehrkräfte in der Fahrlehrerausbildungsstätte
 
 (1) In der Fahrlehrerausbildungsstätte müssen mindestens folgende Lehrkräfte mit folgender Qualifikation tätig sein:
 
@@ -146,13 +133,11 @@ Eine Lehrkraft kann mehrere der Anforderungen nach den Nummern 1 bis 4 erfüllen
 
 (3) Mindestens zwei der in Absatz 1 genannten Lehrkräfte müssen bei der Fahrlehrerausbildungsstätte hauptberuflich in der Ausbildung von Fahrlehrern tätig sein.
 
-
-## § 10 – Unterrichtsräume in der Fahrlehrerausbildungsstätte
+# § 10 – Unterrichtsräume in der Fahrlehrerausbildungsstätte
 
 Die Unterrichtsräume müssen nach Größe, Beschaffenheit und Einrichtung einen sachgerechten Ausbildungsbetrieb zulassen. § 3 Satz 1 ist anzuwenden.
 
-
-## § 11 – Lehrmittel in der Fahrlehrerausbildungsstätte
+# § 11 – Lehrmittel in der Fahrlehrerausbildungsstätte
 
 In der Fahrlehrerausbildungsstätte müssen folgende Lehrmittel ständig vorhanden sein:
 
@@ -172,13 +157,11 @@ In der Fahrlehrerausbildungsstätte müssen folgende Lehrmittel ständig vorhand
 
 Die Lehrmittel müssen dem geltenden Recht und dem Stand der Technik entsprechen.
 
-
-## § 12 – Lehrfahrzeuge in der Fahrlehrerausbildungsstätte
+# § 12 – Lehrfahrzeuge in der Fahrlehrerausbildungsstätte
 
 Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den Anforderungen des § 5 entsprechen.
 
-
-## § 13 – Inhalt der Einweisungslehrgänge
+# § 13 – Inhalt der Einweisungslehrgänge
 
 (1) Einweisungslehrgänge zum Erwerb der Seminarerlaubnis zur Durchführung von Aufbauseminaren nach § 45 des Fahrlehrergesetzes sollen den Teilnehmern die zur Durchführung der Seminare erforderlichen Kenntnisse und Fähigkeiten vermitteln. Wesentlicher Inhalt der Lehrgänge ist die in der Fahrerlaubnis-Verordnung vorgeschriebene Gestaltung der Seminare.
 
@@ -190,8 +173,7 @@ Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den Anforder
 
 2. Einweisung in die Durchführung von Seminaren nach § 2a des Straßenverkehrsgesetzes.
 
-
-## § 14 – Dauer und Leitung der Lehrgänge
+# § 14 – Dauer und Leitung der Lehrgänge
 
 (1) Die Lehrgangsabschnitte nach § 13 Absatz 3 sind jeweils in vier zusammenhängenden Tagen zu vermitteln. Ihre tägliche Dauer beträgt acht Unterrichtseinheiten zu je 45 Minuten. Die Zahl der Teilnehmer darf sechs nicht unterschreiten und 16 nicht überschreiten. Die Leitung erfolgt gemeinsam durch je eine der in Absatz 2 genannten Lehrkräfte.
 
@@ -203,8 +185,7 @@ Die für die Fahrlehrerausbildung zu verwendenden Fahrzeuge müssen den Anforder
 
 und an jeweils viertägigen von der nach Landesrecht zuständigen Behörde anerkannten Einführungsseminaren für Lehrgangsleitungen in den Lehrgangsabschnitten nach § 13 Absatz 3 teilgenommen hat.
 
-
-## § 15 – Überwachungspersonal
+# § 15 – Überwachungspersonal
 
 (1) Als Überwachungsperson darf eingesetzt werden, wer
 
@@ -236,8 +217,7 @@ oder
 
 (4) Für die Überwachung der Seminare nach § 45 Absatz 1 und § 46 Absatz 1 des Fahrlehrergesetzes gelten die Bestimmungen nach den Absätzen 2 und 3 entsprechend.
 
-
-## § 16 – Qualitätssichernde Anordnungen
+# § 16 – Qualitätssichernde Anordnungen
 
 (1) Werden im Rahmen der Überwachung der fachlichen und pädagogischen Qualität des Unterrichts Mängel festgestellt, kann die nach Landesrecht zuständige Behörde oder die Dienststelle nach § 44 Absatz 2 des Fahrlehrergesetzes gegenüber dem Fahrlehrer, gegenüber dem Inhaber oder der für die verantwortliche Leitung der Fahrschule oder der Fahrlehrerausbildungsstätte bestellten Person, oder gegenüber dem Träger von Einweisungsseminaren, Einweisungslehrgängen und Einführungslehrgängen für Lehrgangsleitungen sowie Fortbildungslehrgängen, folgende Maßnahmen anordnen:
 
@@ -251,8 +231,7 @@ Beide Maßnahmen können auch zusammen angeordnet werden.
 
 (3) Die Bestimmungen über Ordnungswidrigkeiten sowie über den Widerruf bleiben unberührt.
 
-
-## § 17 – Fortbildung
+# § 17 – Fortbildung
 
 (1) Die Fortbildung nach § 53 Absatz 1 des Fahrlehrergesetzes für Inhaber einer Fahrlehrerlaubnis hat alle Gebiete zu erfassen, die für die berufliche Tätigkeit der Fahrlehrer von Bedeutung sind, insbesondere:
 
@@ -298,8 +277,7 @@ Die Bereiche zu den Nummern 3 und 4 sind jeweils programmspezifisch bezogen auf 
 
 (6) Träger von Fortbildungslehrgängen nach § 53 Absatz 1 und 3 des Fahrlehrergesetzes sollen Lehrkräfte nach § 9 Absatz 1 einsetzen. Abweichend davon dürfen in Fortbildungslehrgängen nach § 53 Absatz 1 des Fahrlehrergesetzes auch andere Lehrkräfte tätig werden, wenn diese in der Lage sind, die in Absatz 1 genannten Inhalte zu vermitteln. Für Fortbildungslehrgänge nach Absatz 2 dürfen vom Träger nur Lehrkräfte nach § 14 Absatz 2 eingesetzt werden.
 
-
-## § 18 – Örtliches Fahrlehrerregister
+# § 18 – Örtliches Fahrlehrerregister
 
 Im örtlichen Fahrlehrerregister sind für die Zwecke des § 58 des Fahrlehrergesetzes bei Erlaubnissen, Anwärterbefugnissen und Anerkennungen folgende Angaben einzutragen:
 
@@ -315,8 +293,7 @@ d) bei einer Gemeinschaftsfahrschule, bei Beschäftigungs- und Ausbildungsverhä
 
 3. die nach Maßgabe von § 62 Absatz 2 des Fahrlehrergesetzes übermittelten Daten nach § 59 Absatz 1 und 2 der Fahrerlaubnis-Verordnung.
 
-
-## § 19 – Übergangsbestimmungen
+# § 19 – Übergangsbestimmungen
 
 (1) Abweichend von § 8 Absatz 1 Satz 1 Nummer 3 dürfen Personen, die am 31. Dezember 1998 für die verantwortliche Leitung von Fahrlehrerausbildungsstätten bestellte Personen sind, ohne eine Fahrlehrerlaubnis zu besitzen, eine amtlich anerkannte Fahrlehrerausbildungsstätte leiten, wenn sie:
 
@@ -336,8 +313,7 @@ d) bei einer Gemeinschaftsfahrschule, bei Beschäftigungs- und Ausbildungsverhä
 
 (7) Ausbildungsnachweise und Ausbildungsbescheinigungen, die nach dem bis zum Ablauf des 31. Dezember 2019 vorgeschriebenen Muster ausgefertigt wurden, bleiben bis zum Ablauf des 1. Januar 2022 gültig.
 
-
-## § 20 – Ordnungswidrigkeiten
+# § 20 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als für die verantwortliche Leitung des Ausbildungsbetriebes einer Fahrschule bestellte Person vorsätzlich oder fahrlässig:
 
@@ -355,8 +331,7 @@ d) bei einer Gemeinschaftsfahrschule, bei Beschäftigungs- und Ausbildungsverhä
 
 2. entgegen § 12 für die Fahrlehrerausbildung Fahrzeuge verwendet oder verwenden lässt, die nicht den Vorschriften des § 5 entsprechen.
 
-
-## Anlage 1.1 – (zu § 2 Absatz 1)Anwärterschein Fahrlehrer
+# Anlage 1.1 – (zu § 2 Absatz 1)Anwärterschein Fahrlehrer
 
 (Fundstelle: BGBl. I 2018, 9)
 
@@ -376,8 +351,7 @@ Rückseite
 
 <a href="../normengrafiken/bgbl1_2018/j0002-1_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 1.2 – (zu § 2 Absatz 1)Fahrlehrerschein
+# Anlage 1.2 – (zu § 2 Absatz 1)Fahrlehrerschein
 
 (Fundstelle: BGBl. I 2018, 10)
 
@@ -397,20 +371,17 @@ Rückseite
 
 <a href="../normengrafiken/bgbl1_2018/j0002-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 1a – (zu § 2a)
+# Anlage 1a – (zu § 2a)
 
 (Fundstelle: BGBl. I 2019, 1417 - 1420)
 
-
-## Anlage 2 – (zu § 3)Unterrichtsräume
+# Anlage 2 – (zu § 3)Unterrichtsräume
 
 (Fundstelle: BGBl. I 2018, 11)
 
 Die Anforderungen an die Unterrichtsräume nach § 18 Absatz 1 Nummer 6 des Fahrlehrergesetzes und nach § 3 der Durchführungsverordnung zum Fahrlehrergesetz sind erfüllt, wenn folgenden Mindestanforderungen entsprochen wird:
 
-Die Fahrschüler/Teilnehmer müssen dem Unterricht ohne Behinderung folgen können.  
-Die nach Landesrecht zuständige Behörde bestimmt, wie viele Fahrschüler in dem Unterrichtsraum gleichzeitig unterrichtet werden dürfen. Sie kann durch Auflage einen entsprechenden Aushang in dem Unterrichtsraum verlangen.
+Die Fahrschüler/Teilnehmer müssen dem Unterricht ohne Behinderung folgen können. Die nach Landesrecht zuständige Behörde bestimmt, wie viele Fahrschüler in dem Unterrichtsraum gleichzeitig unterrichtet werden dürfen. Sie kann durch Auflage einen entsprechenden Aushang in dem Unterrichtsraum verlangen.
 
 Im Interesse des sachgerechten Unterrichts ist sicherzustellen, dass der Unterrichtsraum
 
@@ -434,8 +405,7 @@ gut beheizbar ist.
 
 Eine ausreichend bemessene Kleiderablage muss vorhanden sein. In unmittelbarer Nähe des Unterrichtsraumes muss mindestens ein WC mit Waschgelegenheit zur Verfügung stehen. Für jeden Fahrschüler/Teilnehmer muss eine Sitzgelegenheit mit Rückenlehne und eine Schreibunterlage (Mindestgröße DIN A4) vorhanden sein. Weitergehende Anforderungen können sich insbesondere aus sicherheits- und ordnungsrechtlichen Vorschriften ergeben.
 
-
-## Anlage 3 – (zu § 6 Absatz 1)
+# Anlage 3 – (zu § 6 Absatz 1)
 
 (Fundstelle: BGBl. I 2019, 1421)
 
@@ -444,7 +414,6 @@ gemäß § 31 Absatz 1 Fahrlehrergesetz und § 6 Absatz 2 der Fahrschüler-Ausbi
 
 Abweichungen vom vorstehenden Muster sind zulässig, soweit Besonderheiten des Verfahrens, insbesondere der Einsatz maschineller Datenverarbeitung, dies erfordern.
 
-
-## Anlage 4 – (zu § 7)Preisaushang nach § 32 des Fahrlehrergesetzes
+# Anlage 4 – (zu § 7)Preisaushang nach § 32 des Fahrlehrergesetzes
 
 (Fundstelle: BGBl. I 2018, 14)

@@ -1,15 +1,11 @@
-# [IT-FortbV] Verordnung über die berufliche Fortbildung im Bereich der Informations- und Telekommunikationstechnik  (IT-Fortbildungsverordnung)
-
-Ausfertigungsdatum: 03.05.2002
-
+% Verordnung über die berufliche Fortbildung im Bereich der Informations- und Telekommunikationstechnik  (IT-Fortbildungsverordnung)
+% Ausfertigungsdatum: 03.05.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), die zuletzt durch Artikel 212 Nr. 1 Buchstabe a und Nr. 4 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden sind, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
 Teil 1
 
@@ -348,8 +344,7 @@ Spezialistenprofile in der IT-Fortbildung
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 1 – Struktur der IT-Fortbildung
+# § 1 – Struktur der IT-Fortbildung
 
 (1) Die IT-Fortbildung gliedert sich in folgende aufeinander aufbauende Ebenen:
 
@@ -383,8 +378,7 @@ erworben worden sind, kann die zuständige Stelle Prüfungen nach den Teilen 2 u
 
 erworben worden sind, kann die zuständige Stelle Prüfungen nach den Teilen 3 und 4 dieser Verordnung durchführen.
 
-
-## § 2 – Zulassungsvoraussetzungen(Operative Professionals)
+# § 2 – Zulassungsvoraussetzungen(Operative Professionals)
 
 (1) Zur Prüfung der operativen Professionals ist zuzulassen, wer Folgendes nachweist:
 
@@ -398,8 +392,7 @@ erworben worden sind, kann die zuständige Stelle Prüfungen nach den Teilen 3 u
 
 (3) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Qualifikationen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung  (Operative Professionals)
+# § 3 – Gliederung der Prüfung  (Operative Professionals)
 
 Die Prüfung für die operativen Professionals gliedert sich jeweils in die Prüfungsteile:
 
@@ -411,8 +404,7 @@ Die Prüfung für die operativen Professionals gliedert sich jeweils in die Prü
 
 Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen Prüfungsterminen geprüft werden; dabei ist mit dem letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag des ersten Prüfungsteils zu beginnen.
 
-
-## § 4 – Durchführung der Prüfung im Prüfungsteil "Betriebliche IT-Prozesse"
+# § 4 – Durchführung der Prüfung im Prüfungsteil "Betriebliche IT-Prozesse"
 
 (1) Im Prüfungsteil "Betriebliche IT-Prozesse" erstellt die zu prüfende Person eine Dokumentation nach Maßgabe der §§ 9, 12, 15 oder 18 über ein praxisrelevantes Projekt oder über Aufgaben aus betrieblichen IT-Prozessen. Die zu prüfende Person reicht hierzu einen Vorschlag ein. Der Prüfungsausschuss führt mit der zu prüfenden Person darüber ein Beratungsgespräch und trifft mit ihr eine Zielvereinbarung über durchzuführende Arbeiten, Art und Umfang der zu erstellenden Dokumentation sowie den Abgabetermin. Dabei darf zwischen dem Tag des Beratungsgesprächs und dem Abgabetermin der Dokumentation längstens ein Zeitraum von einem Jahr liegen.
 
@@ -422,8 +414,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Durchführung der Prüfung im Prüfungsteil "Profilspezifische IT-Fachaufgaben"
+# § 5 – Durchführung der Prüfung im Prüfungsteil "Profilspezifische IT-Fachaufgaben"
 
 (1) Die zu prüfende Person soll im Prüfungsteil "Profilspezifische IT-Fachaufgaben" drei Situationsaufgaben nach Maßgabe der §§ 10, 13, 16 oder 19 schriftlich bearbeiten. Eine der Situationsaufgaben wird in englischer Sprache gestellt. Die Prüfungsdauer der einzelnen Situationsaufgaben beträgt jeweils mindestens 150 Minuten, insgesamt jedoch nicht mehr als 540 Minuten.
 
@@ -431,8 +422,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Durchführung der Prüfung im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
+# § 6 – Durchführung der Prüfung im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 
 (1) Die zu prüfende Person soll im Prüfungsteil "Mitarbeiterführung und Personalmanagement" zwei Situationsaufgaben schriftlich bearbeiten und eine praktische Demonstration vorbereiten und durchführen.
 
@@ -442,8 +432,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Prüfungsinhalte im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
+# § 7 – Prüfungsinhalte im Prüfungsteil "Mitarbeiterführung und Personalmanagement"
 
 (1) Die Situationsaufgaben sind so gestaltet, dass jeder der folgenden Qualifikationsschwerpunkte mindestens einmal thematisiert wird:
 
@@ -529,8 +518,7 @@ e) Beenden von Arbeits- und Ausbildungsverhältnissen, Erstellen von Zeugnissen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 8 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften IT-Entwickler/ zur Geprüften IT-Entwicklerin (Certified IT Systems Manager) und damit die Befähigung,
 
@@ -562,8 +550,7 @@ h) Planen des Personalbedarfs und der Mitarbeiterentwicklung, Feststellen des Qu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Entwickler)
+# § 9 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Entwickler)
 
 (1) Die zu prüfende Person soll durch die Erstellung der Dokumentation nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus mindestens einem der folgenden betrieblichen IT-Prozesse planen, durchführen und dokumentieren kann:
 
@@ -599,8 +586,7 @@ l) qualitätswirksame Aktivitäten zu planen und umzusetzen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Entwickler)
+# § 10 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Entwickler)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen schriftlich zu bearbeiten:
 
@@ -660,8 +646,7 @@ d) Konzipieren und Entwickeln von Methoden zur betriebswirtschaftlichen Bewertun
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 11 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften IT-Projektleiter/zur Geprüften IT-Projektleiterin (Certified IT Business Manager) und damit die Befähigung,
 
@@ -695,8 +680,7 @@ i) Planen des Personalbedarfs und der Mitarbeiterentwicklung, Feststellen des Qu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Projektleiter)
+# § 12 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Projektleiter)
 
 (1) Die zu prüfende Person soll durch die Erstellung der Dokumentation nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus mindestens einem der folgenden IT-Geschäftsprozesse planen, durchführen und dokumentieren kann:
 
@@ -736,8 +720,7 @@ m) qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken sowie das
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Projektleiter)
+# § 13 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Projektleiter)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen schriftlich zu bearbeiten:
 
@@ -809,8 +792,7 @@ e) Darstellen und Vermarkten des Projektes im Umfeld des Kunden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 14 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften IT-Berater/zur Geprüften IT-Beraterin, (Certified IT Business Consultant) und damit die Befähigung,
 
@@ -842,8 +824,7 @@ h) Planen des Personalbedarfs und der Personalentwicklung, Feststellen des Quali
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Berater)
+# § 15 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Berater)
 
 (1) Die zu prüfende Person soll durch die Erstellung der Dokumentation nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus mindestens einem der folgenden IT-Geschäftsprozesse planen, durchführen und dokumentieren kann:
 
@@ -881,8 +862,7 @@ k) qualitätswirksame Aktivitäten zu planen und einzusetzen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Berater)
+# § 16 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Berater)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen schriftlich zu bearbeiten:
 
@@ -940,8 +920,7 @@ d) Darstellen und Vermarkten der Produkte im Umfeld des Kunden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 17 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften IT-Ökonom/zur Geprüften IT-Ökonomin (Certified IT Marketing Manager) und damit die Befähigung,
 
@@ -965,8 +944,7 @@ d) Planen des Personalbedarfs und der Mitarbeiterentwicklung, Feststellen des Qu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Ökonom)
+# § 18 – Prüfungsinhalte im Prüfungsteil "Betriebliche IT-Prozesse" (IT-Ökonom)
 
 (1) Die zu prüfende Person soll durch die Erstellung der Dokumentation nachweisen, dass sie ein praxisrelevantes Projekt oder Aufgaben aus mindestens einem der folgenden IT-Geschäftsprozesse planen, durchführen und dokumentieren kann:
 
@@ -996,8 +974,7 @@ h) qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken sowie das
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 19 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
+# § 19 – Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen schriftlich zu bearbeiten:
 
@@ -1043,8 +1020,7 @@ c) Beurteilen und Berücksichtigen von organisatorischen und personellen Maßnah
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 20 – Bewerten der Prüfungsleistungen
+# § 20 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -1054,8 +1030,7 @@ c) Beurteilen und Berücksichtigen von organisatorischen und personellen Maßnah
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 21 – Bestehen der Prüfung, Gesamtnote
+# § 21 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsleistungen nach § 20 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -1071,8 +1046,7 @@ c) Beurteilen und Berücksichtigen von organisatorischen und personellen Maßnah
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 22 – Zeugnisse
+# § 22 – Zeugnisse
 
 (1) Wer die Prüfung nach § 21 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -1086,8 +1060,7 @@ c) Beurteilen und Berücksichtigen von organisatorischen und personellen Maßnah
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 23 – Ausbildereignung
+# § 23 – Ausbildereignung
 
 (1) Wer die Prüfung nach dieser Verordnung zu einem Abschluss der operativen Professionals bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
@@ -1095,8 +1068,7 @@ c) Beurteilen und Berücksichtigen von organisatorischen und personellen Maßnah
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 24 – Zulassungsvoraussetzungen (Strategische Professionals)
+# § 24 – Zulassungsvoraussetzungen (Strategische Professionals)
 
 (1) Zur Prüfung der strategischen Professionals ist zuzulassen, wer
 
@@ -1120,8 +1092,7 @@ Der Nachweis über englische Sprachkenntnisse erfolgt durch das Zeugnis einer Bi
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 25 – Gliederung der Prüfung (Strategische Professionals)
+# § 25 – Gliederung der Prüfung (Strategische Professionals)
 
 Die Prüfung für die strategischen Professionals gliedert sich in die Prüfungsteile:
 
@@ -1135,8 +1106,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 26 – Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
+# § 26 – Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
 
 (1) Im Prüfungsteil "Strategische Prozesse" soll die zu prüfende Person eine Fallstudie (Business-Case) gemäß den Anforderungen in § 28 oder § 30 schriftlich bearbeiten. Prüfungsausschuss und zu prüfende Person entwickeln in einem Beratungsgespräch unter Berücksichtigung von Vorschlägen der zu prüfenden Person und ihres beruflichen Hintergrundes die Themenstellung der Fallstudie. Der Prüfungsausschuss legt auf der Grundlage des Beratungsgesprächs die Themenstellung der Fallstudie fest und teilt sie der zu prüfenden Person schriftlich mit. Der Prüfungsausschuss kann den zeitlichen Umfang der Ausarbeitung begrenzen. Der Bearbeitungsaufwand soll zehn Arbeitstagen entsprechen. Der Zeitraum zwischen der Mitteilung der Themenstellung und dem Abgabetermin der Ausarbeitung soll 90 Tage nicht überschreiten. Der Ausarbeitung ist eine Zusammenfassung (Abstract) voranzustellen.
 
@@ -1144,8 +1114,7 @@ Die einzelnen Prüfungsteile können in beliebiger Reihenfolge an verschiedenen 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 27 – Durchführung der Prüfung im Prüfungsteil "Projekt- und Geschäftsbeziehungen"
+# § 27 – Durchführung der Prüfung im Prüfungsteil "Projekt- und Geschäftsbeziehungen"
 
 (1) Im Prüfungsteil "Projekt- und Geschäftsbeziehungen" soll die zu prüfende Person eine Situationsaufgabe in höchstens 180 Minuten schriftlich bearbeiten. Durch die Bearbeitung soll die zu prüfende Person nachweisen, dass sie Geschäftsprozesse in internationalen Zusammenhängen strategisch planen und umsetzen kann. Dabei hat sie insbesondere nachzuweisen, dass sie Folgendes berücksichtigt:
 
@@ -1173,8 +1142,7 @@ d) Durchführen von strategischen Allianzen und Fusionen, Bilden von Tochtergese
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 28 – Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
+# § 28 – Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
 
 (1) Die zu prüfende Person soll im Prüfungsteil "Strategisches Personalmanagement" ein situationsbezogenes Gespräch vorbereiten und führen. Das situationsbezogene Gespräch soll nicht länger als 60 Minuten dauern. Die zu prüfende Person erhält Gelegenheit, sich mindestens 30 Minuten, längstens 60 Minuten vorzubereiten.
 
@@ -1222,8 +1190,7 @@ d) Realisieren von Konzepten zum Wissensmanagement (Knowledge-Management).
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 29 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 29 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften Informatiker/zur Geprüften Informatikerin (Certified IT Technical Engineer) und damit die Befähigung,
 
@@ -1261,8 +1228,7 @@ l) Entwickeln und Pflegen fremdsprachlicher Kommunikation im eigenen Unternehmen
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 30 – Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker)
+# § 30 – Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Informatiker)
 
 Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll die zu prüfende Person nachweisen, dass sie in der Lage ist, strategische Unternehmensentscheidungen unter Einhaltung von Ziel- und Zeitvorgaben vorzubereiten und zu treffen:
 
@@ -1278,8 +1244,7 @@ e) analytisches Bewerten der dargestellten Lösungsvorschläge.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 31 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 31 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften Wirtschaftsinformatiker/zur Geprüften Wirtschaftsinformatikerin (Certified IT Business Engineer) und damit die Befähigung,
 
@@ -1317,8 +1282,7 @@ l) Entwickeln und Pflegen fremdsprachlicher Kommunikation im eigenen Unternehmen
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 32 – Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Wirtschaftsinformatiker)
+# § 32 – Prüfungsinhalte im Prüfungsteil "Strategische Prozesse" (Wirtschaftsinformatiker)
 
 Durch die Ausarbeitung und das Fachgespräch gemäß § 24 soll die zu prüfende Person nachweisen, dass sie in der Lage ist, strategische Unternehmensentscheidungen unter Einhaltung von Ziel- und Zeitvorgaben vorzubereiten und zu treffen:
 
@@ -1334,8 +1298,7 @@ e) analytisches Reflektieren der dargestellten Lösungsvorschläge.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 33 – Bewerten der Prüfungsleistungen
+# § 33 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -1343,13 +1306,11 @@ e) analytisches Reflektieren der dargestellten Lösungsvorschläge.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 34 – Bestehen der Prüfung, Gesamtnote
+# § 34 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen Prüfungsteilen nach § 33 Absatz 2 jeweils mindestens 50 Punkte erreicht worden sind.
 
-(2) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen.  
-Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel der Bewertungen der drei Prüfungsteile zu berechnen. Dabei sind die Prüfungsteile wie folgt zu gewichten:
+(2) Den Bewertungen für die Prüfungsteile ist nach Anlage 1 die jeweilige Note als Dezimalzahl zuzuordnen. Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithmetische Mittel der Bewertungen der drei Prüfungsteile zu berechnen. Dabei sind die Prüfungsteile wie folgt zu gewichten:
 
 1. der Prüfungsteil „Strategische Prozesse“ mit 50 Prozent,
 
@@ -1359,8 +1320,7 @@ Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithme
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 35 – Zeugnisse
+# § 35 – Zeugnisse
 
 (1) Wer die Prüfung nach § 34 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -1374,15 +1334,13 @@ Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das gewichtete arithme
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 36 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 36 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 20, 21, 33 und 34 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 20 Absatz 3 oder § 21 Absatz 3 Satz 2 oder § 34 Absatz 2 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 37 – Wiederholung der Prüfung
+# § 37 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden. Der Antrag auf Wiederholung der Prüfung ist innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zu stellen.
 
@@ -1390,29 +1348,25 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 38 – Übergangsvorschriften
+# § 38 – Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum 31. März 2005 nach den bisherigen Vorschriften zu Ende geführt werden. Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers/der Prüfungsteilnehmerin die Wiederholungsprüfung auch gemäß dieser Verordnung durchführen; § 33 Abs. 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. April 2003 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 39 – Inkrafttreten, Außerkrafttreten
+# § 39 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig treten die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wirtschaftsinformatiker/Geprüfte Wirtschaftsinformatikerin vom 20. Dezember 1983 (BGBl. I S. 1502) sowie die einschlägigen Rechtsvorschriften der zuständigen Stellen, insbesondere über die der Prüfungen Informationsorganisator, IT-Prozess-Manager, Organisationsprogrammierer, Anwendungsprogrammierer, Betriebsinformatiker, Mathematisch-technischer Assistent, Mathematisch-technischer Informatiker, Netzwerk-Manager IHK für heterogene Netzwerktechnik und Kommunikation, Programmierer, Softwareentwickler, IT-Fachwirt und Informatikassistent außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 20, 21, 33 und 34)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 20, 21, 33 und 34)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2239 - 2240)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu den §§ 22 und 35)Zeugnisinhalte
+# Anlage 2 – (zu den §§ 22 und 35)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2240)
 
@@ -1462,8 +1416,7 @@ c) das nach § 20 Absatz 3 errechnete arithmetische Mittel und die Note dieses P
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 2 Absatz 2)Spezialistenprofile in der IT-Fortbildung
+# Anlage 3 – (zu § 2 Absatz 2)Spezialistenprofile in der IT-Fortbildung
 
 (Fundstelle: BGBl I 2010, 1010 - 1029)
 

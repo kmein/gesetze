@@ -1,10 +1,7 @@
-# [SeeAnlG] Seeanlagengesetz  (SeeAnlG)
-
-Ausfertigungsdatum: 13.10.2016
-
+% Seeanlagengesetz  (SeeAnlG)
+% Ausfertigungsdatum: 13.10.2016
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieses Gesetz gilt für die Errichtung, den Betrieb und die Änderung von Anlagen
 
@@ -24,8 +21,7 @@ Ausfertigungsdatum: 13.10.2016
 
 Zu den für den Betrieb erforderlichen Nebeneinrichtungen gehören auch andere Kabel als Offshore-Anbindungsleitungen, durch die Strom an Land abgeführt wird, wenn kein unmittelbarer oder mittelbarer Anschluss an das Netz nach § 3 Nummer 35 des Erneuerbare-Energien-Gesetzes erfolgt. Keine Anlagen im Sinn dieses Gesetzes sind Schiffe sowie schwimmfähige Plattformen und zu Plattformen umgestaltete Schiffe, auch wenn sie mit dem Ziel der Wiederinbetriebnahme befestigt werden und nicht unter Satz 1 fallen, Schifffahrtszeichen, Anlagen, die nach bergrechtlichen Vorschriften zugelassen werden, überwachungsbedürftige Anlagen im Sinn produktsicherheitsrechtlicher Vorschriften sowie passives Fanggerät der Fischerei. Öffentlicher Verkehr ist kein wirtschaftlicher Zweck im Sinn des Satzes 1 Nummer 3.
 
-
-## § 2 – Planfeststellung
+# § 2 – Planfeststellung
 
 (1) Die Errichtung und der Betrieb von Anlagen im Sinn des § 1 Absatz 2 Satz 1 Nummer 1 bis 3 sowie die wesentliche Änderung solcher Anlagen oder ihres Betriebs bedürfen der Planfeststellung.
 
@@ -35,8 +31,7 @@ Zu den für den Betrieb erforderlichen Nebeneinrichtungen gehören auch andere K
 
 (4) Anlagen dürfen nur planfestgestellt, plangenehmigt oder genehmigt werden, wenn sie die Nutzung der im Bundesfachplan Offshore nach § 17a des Energiewirtschaftsgesetzes festgelegten Räume für Windenergieanlagen auf See oder der im Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes festgelegten Gebiete und Flächen zur Stromerzeugung aus Windenergie auf See sowie die Übertragung des Stroms und die Nutzung der im Flächenentwicklungsplan nach § 5 des Windenergie-auf-See-Gesetzes festgelegten sonstigen Energiegewinnungsbereiche nicht wesentlich behindern. Hiervon kann abgewichen werden, wenn die Zulassung dieser Anlagen aus zwingenden Gründen des öffentlichen Interesses geboten ist.
 
-
-## § 3 – Bearbeitungsreihenfolge
+# § 3 – Bearbeitungsreihenfolge
 
 (1) Die Bearbeitung der Planfeststellungs- oder Genehmigungsanträge erfolgt in der Reihenfolge ihres Eingangs. Maßgeblich ist der Eingang des ausreichenden Antrags. Schließt ein früher beantragtes Vorhaben ein späteres aus, so kann das Bundesamt für Seeschifffahrt und Hydrographie das Verfahren hinsichtlich des später beantragten Vorhabens bis zu einer Entscheidung über das früher beantragte ruhend stellen. Wird das früher beantragte genehmigt, weist es den später gestellten Antrag zurück.
 
@@ -50,8 +45,7 @@ Zu den für den Betrieb erforderlichen Nebeneinrichtungen gehören auch andere K
 
 4. einen nachvollziehbaren Zeit- und Maßnahmenplan für das weitere Verfahren bis zur Inbetriebnahme der Anlage.
 
-
-## § 4 – Planfeststellungsverfahren
+# § 4 – Planfeststellungsverfahren
 
 (1) Der Plan umfasst zusätzlich zu den Zeichnungen und Erläuterungen nach § 73 Absatz 1 Satz 2 des Verwaltungsverfahrensgesetzes
 
@@ -69,8 +63,7 @@ Reichen die Angaben und Unterlagen für die Prüfung nicht aus, so hat sie der T
 
 (3) Um eine zügige Durchführung des Planfeststellungsverfahrens zu ermöglichen, kann die Planfeststellungsbehörde dem Träger des Vorhabens nach Anhörung angemessene Fristen vorgeben. Werden die Fristen nicht eingehalten, kann die Planfeststellungsbehörde den Antrag ablehnen.
 
-
-## § 5 – Planfeststellungsbeschluss, Plangenehmigung
+# § 5 – Planfeststellungsbeschluss, Plangenehmigung
 
 (1) § 74 Absatz 6 und 7 des Verwaltungsverfahrensgesetzes ist nur anzuwenden, wenn zusätzlich zu den dort genannten Voraussetzungen für das Vorhaben nach dem Gesetz über die Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung durchzuführen ist.
 
@@ -106,8 +99,7 @@ b) der Vogelzug nicht gefährdet wird und
 
 (6) § 15 Absatz 2 Satz 3 des Bundesnaturschutzgesetzes ist mit der Maßgabe anzuwenden, dass eine Beeinträchtigung ersetzt ist, wenn und sobald die beeinträchtigten Funktionen des Naturhaushalts in dem betroffenen Naturraum oder, falls dies nicht möglich ist, in einem benachbarten Naturraum in gleichwertiger Weise hergestellt sind und das Landschaftsbild landschaftsgerecht neu gestaltet ist.
 
-
-## § 6 – Genehmigung
+# § 6 – Genehmigung
 
 (1) Die Errichtung, der Betrieb oder die wesentliche Änderung von Anlagen im Sinn des § 1 Absatz 2 Satz 1 Nummer 4 bedarf der Genehmigung durch das Bundesamt für Seeschifffahrt und Hydrographie.
 
@@ -131,8 +123,7 @@ b) der Vogelzug nicht gefährdet wird und
 
 ausgehen und für die keine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung besteht. Solche Anlagen sind dem Bundesamt für Seeschifffahrt und Hydrographie vor Beginn ihrer Errichtung anzuzeigen. In der Anzeige sind die Art, der Zweck und der genaue Standort der Anlage anzugeben.
 
-
-## § 7 – Versagen der Genehmigung
+# § 7 – Versagen der Genehmigung
 
 Die Genehmigung darf nur versagt werden, wenn
 
@@ -140,13 +131,11 @@ Die Genehmigung darf nur versagt werden, wenn
 
 2. die Erfordernisse der Raumordnung nach § 6 Absatz 2 oder die Sicherheit der Landes- und Bündnisverteidigung oder sonstige überwiegende öffentliche oder private Belange einer Genehmigung entgegenstehen.
 
-
-## § 8 – Einvernehmensregelung
+# § 8 – Einvernehmensregelung
 
 Die Feststellung des Plans, die Plangenehmigung oder die Genehmigung bedürfen des Einvernehmens der Wasserstraßen- und Schifffahrtsverwaltung des Bundes. Das Einvernehmen darf nur versagt werden, wenn eine Beeinträchtigung der Sicherheit und Leichtigkeit des Verkehrs zu besorgen ist, die nicht durch Bedingungen oder Auflagen verhütet oder ausgeglichen werden kann.
 
-
-## § 9 – Veränderungssperre
+# § 9 – Veränderungssperre
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland Seegebiete festlegen, in denen bestimmte Anlagen vorübergehend nicht planfestgestellt, plangenehmigt oder genehmigt werden (Veränderungssperre). Diese Seegebiete müssen in Betracht kommen für die Errichtung von
 
@@ -158,20 +147,17 @@ Die Veränderungssperre darf nur solche Einrichtungen erfassen, die die Errichtu
 
 (2) Das Bundesamt für Seeschifffahrt und Hydrographie legt die Dauer der Veränderungssperre fest. Sie gilt längstens für vier Jahre. Sie kann um weitere drei Jahre verlängert werden. Die Veränderungssperre ist auf der Internetseite des Bundesamtes für Seeschifffahrt und Hydrographie und in den Nachrichten für Seefahrer (Amtliche Veröffentlichung des Bundesamtes für Seeschifffahrt und Hydrographie) bekannt zu machen.
 
-
-## § 10 – Sicherheitszonen
+# § 10 – Sicherheitszonen
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in der ausschließlichen Wirtschaftszone Sicherheitszonen um die Anlagen einrichten, soweit dies zur Gewährleistung der Sicherheit der Schifffahrt oder der Anlagen notwendig ist. Soweit die Einrichtung der Sicherheitszonen zur Gewährleistung der Sicherheit der Schifffahrt erforderlich ist, bedarf sie des Einvernehmens der Generaldirektion Wasserstraßen und Schifffahrt.
 
 (2) Sicherheitszonen sind Wasserflächen, die sich in einem Abstand von bis zu 500 Metern, gemessen von jedem Punkt des äußeren Randes, um die Anlagen erstrecken. Die Breite einer Sicherheitszone darf 500 Meter überschreiten, wenn allgemein anerkannte internationale Normen dies gestatten oder die zuständige internationale Organisation dies empfiehlt.
 
-
-## § 11 – Bekanntmachung der Anlagen und ihrer Sicherheitszonen
+# § 11 – Bekanntmachung der Anlagen und ihrer Sicherheitszonen
 
 Das Bundesamt für Seeschifffahrt und Hydrographie macht die Anlagen sowie die von ihm nach § 10 eingerichteten Sicherheitszonen in den Nachrichten für Seefahrer (Amtliche Veröffentlichung für die Seeschifffahrt des Bundesamtes für Seeschifffahrt und Hydrographie) bekannt und trägt sie in die amtlichen Seekarten ein.
 
-
-## § 12 – Pflichten der verantwortlichen Personen
+# § 12 – Pflichten der verantwortlichen Personen
 
 Die im Sinn von § 13 verantwortlichen Personen haben sicherzustellen, dass von der Anlage während der Errichtung, des Betriebs und nach einer Betriebseinstellung
 
@@ -189,8 +175,7 @@ d) privater Rechte
 
 ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüglich dem Bundesamt für Seeschifffahrt und Hydrographie zu melden.
 
-
-## § 13 – Verantwortliche Personen
+# § 13 – Verantwortliche Personen
 
 (1) Die verantwortlichen Personen für die Erfüllung der Pflichten, die sich aus diesem Gesetz oder aus Verwaltungsakten zu Errichtung, Betrieb und Betriebseinstellung von Anlagen ergeben, sind
 
@@ -208,8 +193,7 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 
 (5) Der Adressat eines Planfeststellungsbeschlusses, einer Plangenehmigung oder einer Genehmigung hat dem Bundesamt für Seeschifffahrt und Hydrographie unverzüglich anzuzeigen, wenn der Planfeststellungsbeschluss, die Plangenehmigung oder die Genehmigung auf einen anderen übertragen wird. Das Gleiche gilt für den Betreiber, wenn der Betrieb der Anlage auf eine andere Person übertragen wird.
 
-
-## § 14 – Überwachung der Anlagen
+# § 14 – Überwachung der Anlagen
 
 (1) Die Anlagen, ihre Errichtung und ihr Betrieb unterliegen der Überwachung durch das Bundesamt für Seeschifffahrt und Hydrographie. Die Generaldirektion Wasserstraßen und Schifffahrt wird beteiligt, soweit dies der Sicherheit und Leichtigkeit des Verkehrs dient.
 
@@ -225,8 +209,7 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 
 (7) § 48 Absatz  9 des Windenergie-auf-See-Gesetzes ist entsprechend anzuwenden.
 
-
-## § 15 – Beseitigung der Anlagen, Sicherheitsleistung
+# § 15 – Beseitigung der Anlagen, Sicherheitsleistung
 
 (1) Wenn der Planfeststellungsbeschluss, die Plangenehmigung oder die Genehmigung unwirksam werden, sind die Anlagen in dem Umfang zu beseitigen, wie dies die in § 5 Absatz 3 oder § 6 Absatz 5 genannten Belange erfordern.
 
@@ -236,13 +219,11 @@ ausgehen. Abweichende Zustände sind von den verantwortlichen Personen unverzüg
 
 (4) Soweit das Bundesamt für Seeschifffahrt und Hydrographie eine Sicherheit nach Absatz 3 angeordnet hat, bleibt bei Übergang des Planfeststellungsbeschlusses, der Plangenehmigung oder der Genehmigung auf einen anderen Vorhabenträger der vorige Vorhabenträger so lange zur Beseitigung verpflichtet, wie nicht der andere Vorhabenträger eine Sicherheit erbracht und das Bundesamt für Seeschifffahrt und Hydrographie deren Geeignetheit festgestellt hat.
 
-
-## § 16 – Verwaltungsvollstreckung
+# § 16 – Verwaltungsvollstreckung
 
 Für die Durchsetzung der im Planfeststellungsbeschluss oder in der Plangenehmigung nach § 5 getroffenen Regelungen sind die Bestimmungen des zweiten Abschnitts des Verwaltungsvollstreckungsgesetzes mit der Maßgabe anzuwenden, dass ein Zwangsgeld in Höhe bis zu 500 000 Euro angeordnet werden kann.
 
-
-## § 17 – Bußgeldvorschriften
+# § 17 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -254,8 +235,7 @@ Für die Durchsetzung der im Planfeststellungsbeschluss oder in der Plangenehmig
 
 (3) Verwaltungsbehörde im Sinn des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Seeschifffahrt und Hydrographie.
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Auf Anlagen im Sinn des § 1 Absatz 2, die nach den Vorschriften der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57), die zuletzt durch Artikel 55 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, errichtet worden sind, sind die bisherigen Vorschriften weiter anzuwenden.
 
@@ -265,8 +245,7 @@ Für die Durchsetzung der im Planfeststellungsbeschluss oder in der Plangenehmig
 
 2. die am 1. Januar 2017 nach den Vorschriften der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57), die zuletzt durch Artikel 55 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, bestandskräftig planfestgestellt oder genehmigt, aber noch nicht errichtet sind, gilt der Planfeststellungsbeschluss oder die Genehmigung als Planfeststellungsbeschluss oder Genehmigung nach diesem Gesetz.
 
-
-## Anlage – (zu § 15 Absatz 3)Anforderungen an Sicherheitsleistungen
+# Anlage – (zu § 15 Absatz 3)Anforderungen an Sicherheitsleistungen
 
 (Fundstelle: BGBl. I 2016,2353)
 

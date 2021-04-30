@@ -1,18 +1,13 @@
-# [RStruktFG] Gesetz zur Errichtung eines Restrukturierungsfonds für Kreditinstitute  (Restrukturierungsfondsgesetz - RStruktFG)
-
-Ausfertigungsdatum: 09.12.2010
-
+% Gesetz zur Errichtung eines Restrukturierungsfonds für Kreditinstitute  (Restrukturierungsfondsgesetz - RStruktFG)
+% Ausfertigungsdatum: 09.12.2010
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Errichtung des Fonds
+# § 1 – Errichtung des Fonds
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verwaltet das durch Artikel 3 des Gesetzes zur Restrukturierung und geordneten Abwicklung von Kreditinstituten, zur Errichtung eines Restrukturierungsfonds für Kreditinstitute und zur Verlängerung der Verjährungsfrist für aktienrechtliche Organhaftung (Restrukturierungsgesetz) vom 9. Dezember 2010 (BGBl. I S. 1900) errichtete Vermögen als Sondervermögen des Bundes im Sinne des Artikels 110 Absatz 1 des Grundgesetzes unter der Bezeichnung „Restrukturierungsfonds für Institute“ (Restrukturierungsfonds).
 
-
-## § 2 – Beitragspflichtige Institute
+# § 2 – Beitragspflichtige Institute
 
 Beitragspflichtige Institute sind alle vom Anwendungsbereich gemäß § 1 des Sanierungs- und Abwicklungsgesetzes erfassten
 
@@ -24,8 +19,7 @@ Beitragspflichtige Institute sind alle vom Anwendungsbereich gemäß § 1 des Sa
 
 für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz bestand. Die Beitragspflicht eines Instituts endet mit Ablauf des Kalenderjahres, in dem die Erlaubnis des Instituts erlischt oder aufgehoben wird.
 
-
-## § 2a – Begriffsbestimmungen
+# § 2a – Begriffsbestimmungen
 
 (1) CRR-Wertpapierfirma unter Einzelaufsicht ist eine CRR-Wertpapierfirma im Sinne des § 1 Absatz 3d Satz 2 des Kreditwesengesetzes, die
 
@@ -43,13 +37,11 @@ für die im Beitragsjahr eine Erlaubnis nach dem Kreditwesengesetz bestand. Die 
 
 4. auf konsolidierter Basis im Sinne des § 2 Absatz 3 Nummer 7 des Sanierungs- und Abwicklungsgesetzes,
 
-4a.  
-Ausschuss im Sinne des § 2 Absatz 3 Nummer 9a des Sanierungs- und Abwicklungsgesetzes,
+4a. Ausschuss im Sinne des § 2 Absatz 3 Nummer 9a des Sanierungs- und Abwicklungsgesetzes,
 
 5. Brückeninstitut im Sinne des § 61 Absatz 1 Nummer 1 des Sanierungs- und Abwicklungsgesetzes,
 
-5a.  
-einheitlicher Abwicklungsfonds im Sinne des § 2 Absatz 3 Nummer 14a des Sanierungs- und Abwicklungsgesetzes,
+5a. einheitlicher Abwicklungsfonds im Sinne des § 2 Absatz 3 Nummer 14a des Sanierungs- und Abwicklungsgesetzes,
 
 6. Finanzierungsmechanismen im Sinne des § 2 Absatz 3 Nummer 20 des Sanierungs- und Abwicklungsgesetzes,
 
@@ -61,8 +53,7 @@ einheitlicher Abwicklungsfonds im Sinne des § 2 Absatz 3 Nummer 14a des Sanieru
 
 10. Vermögensverwaltungsgesellschaft im Sinne des § 61 Absatz 1 Nummer 2 des Sanierungs- und Abwicklungsgesetzes.
 
-
-## § 3 – Aufgaben und Verwendungszwecke des Restrukturierungsfonds
+# § 3 – Aufgaben und Verwendungszwecke des Restrukturierungsfonds
 
 (1) Der Restrukturierungsfonds dient der Stabilisierung des Finanzmarktes. Er wird nach Maßgabe der in § 67 des Sanierungs- und Abwicklungsgesetzes genannten Abwicklungsziele und im Einklang mit den Abwicklungsgrundsätzen nach § 68 des Sanierungs- und Abwicklungsgesetzes verwendet. Die Aufgabe des Restrukturierungsfonds umfasst zudem die Erhebung von Beiträgen für den einheitlichen Abwicklungsfonds und die Übertragung dieser Beiträge auf den einheitlichen Abwicklungsfonds.
 
@@ -72,8 +63,7 @@ einheitlicher Abwicklungsfonds im Sinne des § 2 Absatz 3 Nummer 14a des Sanieru
 
 (4) Die Mittel des Restrukturierungsfonds aus den Beitragsjahren 2013 und 2014 dienen auch der Stabilisierung des Finanzmarktes durch Maßnahmen im Sinne des § 2 Absatz 1 des Stabilisierungsfondsgesetzes. Sie werden nach Maßgabe von § 13 Absatz 2a des Stabilisierungsfondsgesetzes auch zum Ausgleich eines negativen Schlussergebnisses des Finanzmarktstabilisierungsfonds herangezogen.
 
-
-## § 3a – Maßnahmen des Restrukturierungsfonds
+# § 3a – Maßnahmen des Restrukturierungsfonds
 
 (1) Im Rahmen der Anwendung der Abwicklungsinstrumente auf CRR-Wertpapierfirmen unter Einzelaufsicht und Unionszweigstellen kann der Restrukturierungsfonds, soweit dies zur Sicherstellung einer effektiven Anwendung der Abwicklungsinstrumente notwendig ist, die Mittel, die ihm aus den Beiträgen der CRR-Wertpapierfirmen unter Einzelaufsicht und der Unionszweigstellen zur Verfügung stehen, für folgende Maßnahmen verwenden:
 
@@ -99,13 +89,11 @@ einheitlicher Abwicklungsfonds im Sinne des § 2 Absatz 3 Nummer 14a des Sanieru
 
 (4) Ein unmittelbarer Ausgleich von Verlusten einer CRR-Wertpapierfirma unter Einzelaufsicht oder eine Rekapitalisierung einer CRR-Wertpapierfirma unter Einzelaufsicht mit Mitteln des Restrukturierungsfonds ist nur im Rahmen einer Maßnahme nach Absatz 1 Nummer 5 zulässig. Führt eine Maßnahme des Restrukturierungsfonds mittelbar dazu, dass Verluste einer CRR-Wertpapierfirma unter Einzelaufsicht oder einer Unionszweigstelle vom Restrukturierungsfonds getragen werden, so ist diese Maßnahme nur unter den Voraussetzungen des § 7a zulässig.
 
-
-## § 3b – Maßnahmen aus den Altmitteln des Restrukturierungsfonds
+# § 3b – Maßnahmen aus den Altmitteln des Restrukturierungsfonds
 
 Die Mittel des Restrukturierungsfonds aus den Beitragsjahren 2011, 2012, 2013 und 2014 können nach Maßgabe von § 12j Absatz 1 und 1a und § 17 verwendet werden.
 
-
-## § 4 – Entscheidung über Restrukturierungsmaßnahmen
+# § 4 – Entscheidung über Restrukturierungsmaßnahmen
 
 (1) Über die Maßnahmen des Restrukturierungsfonds nach den §§ 6 bis 8, 12h bis 12j entscheidet die Abwicklungsbehörde nach pflichtgemäßem Ermessen unter Berücksichtigung der Bedeutung der Maßnahmen für die Finanzmarktstabilität und des Grundsatzes des möglichst effektiven und wirtschaftlichen Einsatzes der Mittel.
 
@@ -121,11 +109,9 @@ Die Mittel des Restrukturierungsfonds aus den Beitragsjahren 2011, 2012, 2013 un
 
 (7) Bei einem Rechtsträger, dem Maßnahmen gemäß den §§ 6 bis 7a gewährt werden, sollen Vertreter der Abwicklungsbehörde als Sachverständige oder Auskunftspersonen im Sinne des § 109 Absatz 1 Satz 2 des Aktiengesetzes zu den Sitzungen des Aufsichtsrats und seiner Ausschüsse hinzugezogen werden, soweit über Gegenstände beraten wird, bei denen eine Beteiligung von Vertretern der Abwicklungsbehörde als Sachverständige oder als Vertreter der Eigentümerinteressen des Bundes zweckdienlich erscheint. Die Abwicklungsbehörde kann die Teilnahme ihrer Vertreter an solchen Sitzungen verlangen, soweit über Gegenstände beraten wird, die Auswirkungen auf die gewährten Maßnahmen haben können. Die Sätze 1 und 2 gelten auch für die Sitzungen des Aufsichtsrats und seiner Ausschüsse des in Abwicklung befindlichen Instituts oder gruppenangehörigen Unternehmens, wenn die Maßnahmen gemäß den §§ 6 bis 7a im Rahmen seiner Abwicklung einem anderem Rechtsträger gewährt werden.
 
+# § 5 – (weggefallen)
 
-## § 5 – (weggefallen)
-
-
-## § 6 – Garantien für Verbindlichkeiten; Verordnungsermächtigung
+# § 6 – Garantien für Verbindlichkeiten; Verordnungsermächtigung
 
 (1) Der Restrukturierungsfonds kann Garantien zur Besicherung von Verbindlichkeiten einer in Abwicklung befindlichen CRR-Wertpapierfirma unter Einzelaufsicht, ihrer Tochterunternehmen, eines Brückeninstituts oder einer Vermögensverwaltungsgesellschaft gewähren. Im Rahmen einer Unternehmensveräußerung nach § 107 Absatz 1 Nummer 1 Buchstabe a des Sanierungs- und Abwicklungsgesetzes in Bezug auf eine CRR-Wertpapierfirma unter Einzelaufsicht oder eine Unionszweigstelle kann der Restrukturierungsfonds auch Garantien zur Besicherung von Verbindlichkeiten des Erwerbers gewähren. § 39 Absatz 2 und 3 der Bundeshaushaltsordnung ist nicht anzuwenden.
 
@@ -147,8 +133,7 @@ Die Mittel des Restrukturierungsfonds aus den Beitragsjahren 2011, 2012, 2013 un
 
 Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwicklungsbehörde übertragen.
 
-
-## § 6a – Besicherung und Erwerb von Vermögenswerten; Verordnungsermächtigung
+# § 6a – Besicherung und Erwerb von Vermögenswerten; Verordnungsermächtigung
 
 (1) Der Restrukturierungsfonds kann Vermögenswerte einer in Abwicklung befindlichen CRR-Wertpapierfirma unter Einzelaufsicht, ihrer Tochterunternehmen, eines Brückeninstituts oder einer Vermögensverwaltungsgesellschaft, insbesondere Forderungen und Wertpapiere, besichern. Im Rahmen einer Unternehmensveräußerung nach § 107 Absatz 1 Nummer 1 Buchstabe a des Sanierungs- und Abwicklungsgesetzes in Bezug auf eine CRR-Wertpapierfirma unter Einzelaufsicht oder eine Unionszweigstelle kann er zudem Vermögenswerte des Erwerbers besichern.
 
@@ -170,8 +155,7 @@ Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwick
 
 (4) (weggefallen)
 
-
-## § 6b – Darlehen; Verordnungsermächtigung
+# § 6b – Darlehen; Verordnungsermächtigung
 
 (1) Der Restrukturierungsfonds kann Darlehen an eine in Abwicklung befindliche CRR-Wertpapierfirma unter Einzelaufsicht, ihre Tochterunternehmen, ein Brückeninstitut oder eine Vermögensverwaltungsgesellschaft gewähren. Im Rahmen einer Unternehmensveräußerung nach § 107 Absatz 1 Nummer 1 Buchstabe a des Sanierungs- und Abwicklungsgesetzes in Bezug auf eine CRR-Wertpapierfirma unter Einzelaufsicht oder eine Unionszweigstelle kann er zudem Darlehen an den Erwerber gewähren.
 
@@ -187,8 +171,7 @@ Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwick
 
 (3) (weggefallen)
 
-
-## § 7 – Rekapitalisierung; Verordnungsermächtigung
+# § 7 – Rekapitalisierung; Verordnungsermächtigung
 
 (1) Der Restrukturierungsfonds kann sich im Rahmen einer Übertragung nach § 107 Absatz 1 Nummer 1 Buchstabe b oder Nummer 2 des Sanierungs- und Abwicklungsgesetzes in Bezug auf eine CRR-Wertpapierfirma unter Einzelaufsicht oder eine Unionszweigstelle an der Rekapitalisierung eines Brückeninstituts oder einer Vermögensverwaltungsgesellschaft beteiligen. Er kann insbesondere gegen Leistung einer Einlage Anteile oder stille Beteiligungen an Brückeninstituten oder Vermögensverwaltungsgesellschaften erwerben und sonstige Bestandteile der Eigenmittel von Brückeninstituten oder Vermögensverwaltungsgesellschaften übernehmen. Im Rahmen einer Unternehmensveräußerung nach § 107 Absatz 1 Nummer 1 Buchstabe a des Sanierungs- und Abwicklungsgesetzes in Bezug auf eine CRR-Wertpapierfirma unter Einzelaufsicht oder eine Unionszweigstelle kann sich der Restrukturierungsfonds auch an der Rekapitalisierung des Erwerbers beteiligen.
 
@@ -208,8 +191,7 @@ Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwick
 
 (4) Soweit sich aus den Vorschriften dieses Gesetzes nichts anderes ergibt, sind die Vorschriften des Wirtschaftsstabilisierungsbeschleunigungsgesetzes auf Rekapitalisierungsmaßnahmen im Sinne dieser Vorschrift und auf die Veräußerung nach dieser Vorschrift erworbener Kapitalinstrumente entsprechend anzuwenden.
 
-
-## § 7a – Ausgleichsbeitrag im Rahmen des Instruments der Gläubigerbeteiligung
+# § 7a – Ausgleichsbeitrag im Rahmen des Instruments der Gläubigerbeteiligung
 
 (1) Schließt die Abwicklungsbehörde gemäß § 92 Absatz 1 des Sanierungs- und Abwicklungsgesetzes eine bail-in-fähige Verbindlichkeit oder eine Kategorie bail-in-fähiger Verbindlichkeiten ganz oder teilweise aus dem Anwendungsbereich des Instruments der Gläubigerbeteiligung aus und werden die entsprechenden Fehlbeträge nicht vollständig durch Erhöhung des Umfangs der auf andere bail-in-fähige Verbindlichkeiten angewandten Herabschreibung oder Umwandlung ausgeglichen, so kann der Restrukturierungsfonds einen Ausgleichsbeitrag an die von der Abwicklungsmaßnahme betroffene CRR-Wertpapierfirma unter Einzelaufsicht leisten, um
 
@@ -225,26 +207,21 @@ Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwick
 
 (5) Ist die Fünf-Prozent-Grenze nach Absatz 4 erreicht, kann der Restrukturierungsfonds anstelle alternativer Finanzierungsquellen nach § 94 Absatz 2 des Sanierungs- und Abwicklungsgesetzes oder zusätzlich zu diesen Finanzierungsquellen einen weiteren Ausgleichsbeitrag leisten, sofern die Voraussetzungen nach § 94 Absatz 2 Nummer 2 des Sanierungs- und Abwicklungsgesetzes erfüllt sind.
 
-
-## § 8 – Entschädigungszahlungen an Anteilsinhaber und Gläubiger
+# § 8 – Entschädigungszahlungen an Anteilsinhaber und Gläubiger
 
 Der Restrukturierungsfonds kann im Zusammenhang mit Abwicklungsmaßnahmen in Bezug auf eine CRR-Wertpapierfirma unter Einzelaufsicht oder eine Unionszweigstelle gemäß § 147 des Sanierungs- und Abwicklungsgesetzes Entschädigungen an Anteilsinhaber, Gläubiger oder Entschädigungseinrichtungen zahlen.
 
-
-## § 9 – Stellung im Rechtsverkehr
+# § 9 – Stellung im Rechtsverkehr
 
 Der Restrukturierungsfonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden. Arrest oder andere Maßnahmen der Zwangsvollstreckung in den Restrukturierungsfonds finden nicht statt. § 394 Satz 1 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden. Ausschließlicher Gerichtsstand des Restrukturierungsfonds ist Frankfurt am Main.
 
-
-## § 10 – Vermögenstrennung
+# § 10 – Vermögenstrennung
 
 Der Restrukturierungsfonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen. § 3 Absatz 4 bleibt unberührt. Der Bund haftet unmittelbar für die Verbindlichkeiten des Restrukturierungsfonds; der Fonds haftet nicht für die sonstigen Verbindlichkeiten des Bundes.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
-
-
-## § 11a – Übertragung von Beiträgen auf den einheitlichen Abwicklungsfonds
+# § 11a – Übertragung von Beiträgen auf den einheitlichen Abwicklungsfonds
 
 (1) Die Abwicklungsbehörde überträgt ab Anwendbarkeit des Übereinkommens vom 21. Mai 2014 über die Übertragung von Beiträgen auf den einheitlichen Abwicklungsfonds und über die gemeinsame Nutzung dieser Beiträge (BGBl. II 2014 S. 1299) (Übereinkommen) gemäß Artikel 12 Absatz 2 des Übereinkommens die folgenden Beiträge auf den einheitlichen Abwicklungsfonds:
 
@@ -260,15 +237,13 @@ Der Restrukturierungsfonds ist von dem übrigen Vermögen des Bundes, seinen Rec
 
 (5) Wurden die Beiträge nach Absatz 1 Nummer 1 in Form von abgesicherten Zahlungsansprüchen erbracht, so sind diese Zahlungsansprüche einschließlich der zugehörigen Sicherheiten auf den einheitlichen Abwicklungsfonds zu übertragen.
 
-
-## § 11b – Pflichten bei vorübergehender Übertragung von Finanzmitteln auf die deutsche Kammer
+# § 11b – Pflichten bei vorübergehender Übertragung von Finanzmitteln auf die deutsche Kammer
 
 (1) Wurden nach Artikel 7 Absatz 1 des Übereinkommens vorübergehend Finanzmittel auf die deutsche Kammer übertragen, so überträgt die Abwicklungsbehörde vor Ablauf des Übergangszeitraums Sonderbeiträge im Sinne von § 11a Absatz 1 Nummer 2 auf den einheitlichen Abwicklungsfonds. Die Höhe der zu übertragenden Sonderbeiträge richtet sich nach Artikel 7 Absatz 1 Satz 2 des Übereinkommens.
 
 (2) Werden Finanzmittel, die vorübergehend auf die deutsche Kammer übertragen wurden, nach Maßgabe von Artikel 7 Absatz 5 des Übereinkommens zurückgefordert, so überträgt die Abwicklungsbehörde die Finanzmittel gemäß Artikel 7 Absatz 5 Satz 3 des Übereinkommens nach Maßgabe der Bedingungen, die der Ausschuss festgelegt hat, auf den einheitlichen Abwicklungsfonds.
 
-
-## § 11c – Zuständigkeit für die Ausübung der Befugnisse aus dem Übereinkommen; Informationspflicht
+# § 11c – Zuständigkeit für die Ausübung der Befugnisse aus dem Übereinkommen; Informationspflicht
 
 (1) Zu den Aufgaben der Abwicklungsbehörde zählen
 
@@ -290,8 +265,7 @@ Mit dem Ersuchen um vorübergehende Übertragung von Finanzmitteln nach Satz 1 N
 
 3. sonstige Umstände, die für die Ausübung der in Absatz 1 Satz 1 Nummer 2 und 4 genannten Befugnisse von Bedeutung sind.
 
-
-## § 12 – Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge
+# § 12 – Mittel des Restrukturierungsfonds; Jahresbeiträge; Sonderbeiträge
 
 (1) Die Mittel des Restrukturierungsfonds werden durch Beiträge der gemäß § 2 Satz 1 beitragspflichtigen Institute erbracht.
 
@@ -303,20 +277,17 @@ Mit dem Ersuchen um vorübergehende Übertragung von Finanzmitteln nach Satz 1 N
 
 (5) Die Abwicklungsbehörde kann, soweit nicht die Zuständigkeit des Ausschusses gegeben ist, auf Antrag gestatten, dass ein beitragspflichtiges Institut einen Teil seines Jahresbeitrags in Form von in vollem Umfang abgesicherten Zahlungsansprüchen erbringt. Der Anteil dieser Zahlungsansprüche am Gesamtbetrag der Jahresbeiträge darf 30 Prozent nicht überschreiten. Der Antrag des jeweiligen Instituts ist innerhalb einer von der Abwicklungsbehörde zu setzenden angemessenen Frist bei der Abwicklungsbehörde einzureichen. Zur Absicherung sind risikoarme Sicherheiten zu verwenden, die nicht durch Rechte Dritter belastet sind. Die Sicherheiten müssen im Bedarfsfall für die Abwicklungsbehörde frei verfügbar sein und sind ausschließlich der Verwendung durch die Abwicklungsbehörde für die in § 3 genannten Zwecke vorzubehalten. Die Abwicklungsbehörde kann zu den Anforderungen an die Sicherheiten nach den Sätzen 4 und 5 Einzelheiten festlegen.
 
-
-## § 12a – Zielausstattung des Restrukturierungsfonds
+# § 12a – Zielausstattung des Restrukturierungsfonds
 
 Zielausstattung ist die Summe der Jahresbeiträge, die von CRR-Wertpapierfirmen unter Einzelaufsicht und Unionszweigstellen nach Maßgabe der Delegierten Verordnung (EU) 2015/63 der Kommission vom 21. Oktober 2014 zur Ergänzung der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates im Hinblick auf im Voraus erhobene Beiträge zu Abwicklungsfinanzierungsmechanismen (ABl. L 11 vom 17.1.2015, S. 44) sowie nach § 12b und der Rechtsverordnung nach § 12g bis zum 31. Dezember 2024 zu erbringen sind.
 
-
-## § 12b – Jahresbeiträge der CRR-Wertpapierfirmen unter Einzelaufsicht und der Unionszweigstellen
+# § 12b – Jahresbeiträge der CRR-Wertpapierfirmen unter Einzelaufsicht und der Unionszweigstellen
 
 (1) Soweit die Delegierte Verordnung (EU) 2015/63 keine Regelung enthält, regelt die Bundesregierung das Nähere über die von CRR-Wertpapierfirmen unter Einzelaufsicht und von Unionszweigstellen zu erbringenden Jahresbeiträge in der nach § 12g zu erlassenden Rechtsverordnung. Maßgeblich für die Berechnung der Höhe der Jahresbeiträge ist die Summe der Verbindlichkeiten im Sinne von Artikel 3 Nummer 11 der Delegierten Verordnung (EU) 2015/63 abzüglich Eigenmittel und gedeckter Einlagen. Artikel 12 der Delegierten Verordnung (EU) 2015/63 gilt entsprechend.
 
 (2) Liegt der Betrag der verfügbaren Mittel aus den Beiträgen der CRR-Wertpapierfirmen unter Einzelaufsicht und der Unionszweigstellen nach dem 31. Dezember 2024 unter der Zielausstattung gemäß § 12a, so haben die CRR-Wertpapierfirmen unter Einzelaufsicht und die Unionszweigstellen erneut Jahresbeiträge zu leisten, bis die Zielausstattung erreicht ist.
 
-
-## § 12c – Sonderbeiträge der CRR-Wertpapierfirmen unter Einzelaufsicht und der Unionszweigstellen
+# § 12c – Sonderbeiträge der CRR-Wertpapierfirmen unter Einzelaufsicht und der Unionszweigstellen
 
 (1) Entscheidet die Abwicklungsbehörde über die in § 3a genannten Maßnahmen, hat sie unverzüglich den damit verbundenen Mittelbedarf festzustellen. Soweit die in dem Restrukturierungsfonds verfügbaren, von den CRR-Wertpapierfirmen unter Einzelaufsicht und den Unionszweigstellen aufgebrachten Mittel nicht zur Deckung dieses Bedarfs ausreichen, kann die Abwicklungsbehörde Sonderbeiträge erheben.
 
@@ -328,16 +299,13 @@ Zielausstattung ist die Summe der Jahresbeiträge, die von CRR-Wertpapierfirmen 
 
 (5) Sonderbeiträge, die nicht für die Maßnahmen verwendet werden, für die sie erhoben worden sind, verbleiben im Restrukturierungsfonds.
 
+# § 12d – (weggefallen)
 
-## § 12d – (weggefallen)
-
-
-## § 12e – Einnahmen im Zusammenhang mit Maßnahmen gemäß § 3a
+# § 12e – Einnahmen im Zusammenhang mit Maßnahmen gemäß § 3a
 
 Die von einer in Abwicklung befindlichen CRR-Wertpapierfirma unter Einzelaufsicht oder Unionszweigstelle oder einem Brückeninstitut im Zusammenhang mit einer Maßnahme nach § 3a vereinnahmten Beträge, Zinsen und sonstigen Erträge aus Anlagen und etwaige weitere Einnahmen können dem Restrukturierungsfonds zugeführt werden.
 
-
-## § 12f – Informationspflichten; Fälligkeit der Beiträge; Säumniszuschläge; Beitreibung; Verjährung
+# § 12f – Informationspflichten; Fälligkeit der Beiträge; Säumniszuschläge; Beitreibung; Verjährung
 
 (1) CRR-Wertpapierfirmen unter Einzelaufsicht, die Wertpapierfirmen im Sinne von Artikel 96 Absatz 1 Buchstabe a oder Buchstabe b der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) sind oder die die in Anhang I Abschnitt A Nummer 8 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. L 145 vom 30.4.2004, S. 1) genannte Tätigkeit, nicht aber die in den Nummern 3 und 6 des Anhangs I Abschnitt A dieser Richtlinie genannten Tätigkeiten ausüben, und Unionszweigstellen sind verpflichtet, die für die Erhebung der Jahres- und Sonderbeiträge erforderlichen Informationen der Abwicklungsbehörde zu übermitteln. Die Informationen sind bis zum 31. Januar jeden Jahres zu übermitteln, wenn nicht die Rechtsverordnung nach § 12g oder die Abwicklungsbehörde einen anderen Zeitpunkt bestimmt. Zudem legen die Einlagensicherungssysteme der Abwicklungsbehörde die Berechnung der gedeckten Einlagen gemäß Artikel 3 Satz 2 Nummer 10 der Delegierten Verordnung (EU) 2015/63 aller ihnen zugeordneten Unionszweigstellen entsprechend Artikel 16 der Delegierten Verordnung (EU) 2015/63 vor; Artikel 20 Absatz 1 Satz 3 und Absatz 4 der Delegierten Verordnung (EU) 2015/63 gilt entsprechend.
 
@@ -351,8 +319,7 @@ Die von einer in Abwicklung befindlichen CRR-Wertpapierfirma unter Einzelaufsich
 
 (6) Hinsichtlich der Festsetzungs- und Zahlungsverjährung sind die §§ 169 bis 171 und 228 bis 232 der Abgabenordnung anzuwenden. Die Festsetzungsfrist beträgt vier Jahre.
 
-
-## § 12g – Verordnungsermächtigung
+# § 12g – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu erlassen über
 
@@ -362,8 +329,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung
 
 3. die Voraussetzungen für eine Stundung nach § 12c Absatz 4.
 
-
-## § 12h – Kreditaufnahme zwischen Finanzierungsmechanismen der EU-Mitgliedstaaten
+# § 12h – Kreditaufnahme zwischen Finanzierungsmechanismen der EU-Mitgliedstaaten
 
 (1) Der Restrukturierungsfonds kann bei allen Finanzierungsmechanismen der anderen Mitgliedstaaten der Europäischen Union Kredite aufnehmen, soweit
 
@@ -391,8 +357,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die der Zustimmung
 
 § 12h Abs. 2 Nr. 2 Kursivdruck: Das Wort "erhobenen" wurde aufgrund eines grammatikalischen Fehlers in "erhoben" berichtigt
 
-
-## § 12i – Gegenseitige Unterstützung der Finanzierungsmechanismen bei einer Gruppenabwicklung
+# § 12i – Gegenseitige Unterstützung der Finanzierungsmechanismen bei einer Gruppenabwicklung
 
 (1) Sind CRR-Wertpapierfirmen unter Einzelaufsicht oder Unionszweigstellen Teil einer Gruppenabwicklung im Sinne der §§ 161 bis 165 oder des § 166 des Sanierungs- und Abwicklungsgesetzes, so trägt der Restrukturierungsfonds hinsichtlich dieser CRR-Wertpapierfirmen unter Einzelaufsicht oder Unionszweigstellen zur Finanzierung der Gruppenabwicklung bei.
 
@@ -434,8 +399,7 @@ Die Grundlage für die Berechnung des Beitrags jedes Finanzierungsmechanismus ge
 
 (7) Erträge oder sonstige Vorteile, die sich aus der Inanspruchnahme der Finanzierungsmechanismen des Mitgliedstaates ergeben, in dem sich die für die Gruppenabwicklung zuständige Behörde befindet, kommen den nationalen Finanzierungsmechanismen entsprechend ihren Beiträgen an der Finanzierung der Abwicklung zugute.
 
-
-## § 12j – Brückenfinanzierung der deutschen Kammer durch Mittel des Restrukturierungsfonds; vorübergehende Finanzierung von Maßnahmen; Verordnungsermächtigung
+# § 12j – Brückenfinanzierung der deutschen Kammer durch Mittel des Restrukturierungsfonds; vorübergehende Finanzierung von Maßnahmen; Verordnungsermächtigung
 
 (1) Während des Übergangszeitraums nach Artikel 1 Absatz 1 Buchstabe b des Übereinkommens kann der Restrukturierungsfonds zur Finanzierung von Abwicklungsmaßnahmen im Hinblick auf beitragspflichtige Institute die für die Beitragsjahre 2011, 2012, 2013 und 2014 angesammelten und verfügbaren Mittel für die deutsche Kammer als Darlehen zur Verfügung stellen.
 
@@ -455,8 +419,7 @@ Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwick
 
 (3) Der Haushaltsausschuss und der Finanzausschuss des Deutschen Bundestages sind über Erlass und Änderungen der Rechtsverordnung nach Absatz 2 unverzüglich zu unterrichten.
 
-
-## § 13 – Wirtschaftsführung und Rechnungslegung
+# § 13 – Wirtschaftsführung und Rechnungslegung
 
 (1) Die Bundesanstalt für Finanzdienstleistungsaufsicht stellt für den Restrukturierungsfonds am Ende eines jeden Rechnungsjahres die Rechnung über die Einnahmen und Ausgaben nach der Bundeshaushaltsordnung (Haushaltsrechnung) sowie die Bilanz und Gewinn- und Verlustrechnung nach den Vorschriften des Handelsgesetzbuchs (Vermögensrechnung) auf.
 
@@ -468,29 +431,25 @@ Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung auf die Abwick
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, das Nähere über die Haushaltsführung, die Wirtschaftsführung und die Rechnungslegung des Restrukturierungsfonds durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen.
 
-
-## § 14 – Informations- und Verschwiegenheitspflichten
+# § 14 – Informations- und Verschwiegenheitspflichten
 
 (1) Die Informations- und Verschwiegenheitspflichten gemäß den §§ 4 bis 10 des Sanierungs- und Abwicklungsgesetzes gelten entsprechend für die Wahrnehmung der Aufgaben nach diesem Gesetz einschließlich der Aufgaben nach der Restrukturierungsfonds-Verordnung und der Delegierten Verordnung (EU) 2015/63 der Kommission vom 21. Oktober 2014 zur Ergänzung der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates im Hinblick auf im Voraus erhobene Beiträge zu Abwicklungsfinanzierungsmechanismen (ABl. L 11 vom 17.1.2015, S. 44) in der jeweils geltenden Fassung.
 
 (2) Die Abwicklungsbehörde kann der Deutschen Bundesbank sämtliche Informationen mitteilen, die ihr im Zusammenhang mit der Erhebung von Beiträgen nach den §§ 12 bis 12c des Restrukturierungsfondsgesetzes in Verbindung mit der Restrukturierungsfonds-Verordnung und der Delegierten Verordnung (EU) 2015/63 in der jeweils geltenden Fassung vorliegen und die zur Erfüllung der Aufgaben der Deutschen Bundesbank nach dem Finanzstabilitätsgesetz erforderlich sind. Dies umfasst auch Informationen aus den Beitragsjahren 2011 bis 2014. Die Abwicklungsbehörde und die Deutsche Bundesbank regeln einvernehmlich die Einzelheiten von Art und Umfang der in Satz 1 genannten Informationen. Die in § 5 Absatz 1 und 2 des Sanierungs- und Abwicklungsgesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit.
 
-
-## § 15 – Steuern
+# § 15 – Steuern
 
 (1) Der Restrukturierungsfonds unterliegt nicht der Gewerbesteuer oder der Körperschaftsteuer.
 
 (2) Auf Kapitalerträge des Restrukturierungsfonds ist ein Steuerabzug nicht vorzunehmen; ist Kapitalertragsteuer einbehalten und abgeführt worden, obwohl eine Verpflichtung hierzu nicht bestand, hat der zum Steuerabzug Verpflichtete die Steueranmeldung insoweit zu ändern. Zahlungen des Restrukturierungsfonds unterliegen keinem Kapitalertragsteuerabzug.
 
-
-## § 16 – Parlamentarische Kontrolle
+# § 16 – Parlamentarische Kontrolle
 
 (1) Die parlamentarische Kontrolle des Restrukturierungsfonds und seiner Verwaltung wird durch das Gremium nach § 3 des Bundesschuldenwesengesetzes (Gremium) wahrgenommen. § 10a Absatz 2 und 3 des Stabilisierungsfondsgesetzes ist entsprechend anzuwenden.
 
 (2) Nach Entscheidung über eine Maßnahme nach § 4 Absatz 1 wird das Gremium unverzüglich über den jeweiligen Sachverhalt unterrichtet.
 
-
-## § 17 – Übergangsvorschriften
+# § 17 – Übergangsvorschriften
 
 (1) (weggefallen)
 

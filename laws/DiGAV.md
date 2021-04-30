@@ -1,15 +1,11 @@
-# [DiGAV] Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung  (Digitale Gesundheitsanwendungen-Verordnung - DiGAV)
-
-Ausfertigungsdatum: 08.04.2020
-
+% Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung  (Digitale Gesundheitsanwendungen-Verordnung - DiGAV)
+% Ausfertigungsdatum: 08.04.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünften Buches Sozialgesetzbuch, die durch Artikel 1 Nummer 23 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2562) eingefügt worden sind, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Antragsberechtigung
+# § 1 – Antragsberechtigung
 
 (1) Das Verfahren zur Aufnahme einer digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen des Bundesinstituts für Arzneimittel und Medizinprodukte nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch wird auf Antrag des Herstellers eingeleitet.
 
@@ -17,8 +13,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 (3) Stellt ein Dritter im Namen des Herstellers einen Antrag, so hat er bei Antragstellung eine Vollmacht des Herstellers in schriftlicher oder elektronischer Form vorzulegen. Im Übrigen sind Dritte nicht zur Antragstellung berechtigt.
 
-
-## § 2 – Antragsinhalt
+# § 2 – Antragsinhalt
 
 (1) Der von dem Hersteller einer digitalen Gesundheitsanwendung bei dem Bundesinstitut für Arzneimittel und Medizinprodukte zu stellende Antrag enthält Angaben über die Anforderungen nach § 139e Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch. Zudem enthält der Antrag insbesondere Angaben zu:
 
@@ -76,8 +71,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 (4) Der Hersteller stellt dem Bundesinstitut für Arzneimittel und Medizinprodukte in dem Antrag einen kostenfreien Zugang zu der digitalen Gesundheitsanwendung zur Verfügung.
 
-
-## § 3 – Anforderungen an Sicherheit und Funktionstauglichkeit
+# § 3 – Anforderungen an Sicherheit und Funktionstauglichkeit
 
 (1) Der Nachweis der Sicherheit und Funktionstauglichkeit gilt, vorbehaltlich des Absatzes 2, durch die CE-Konformitätskennzeichnung des Medizinproduktes grundsätzlich als erbracht.
 
@@ -85,8 +79,7 @@ Auf Grund des § 134 Absatz 3 Satz 17 und des § 139e Absatz 7 bis 9 des Fünfte
 
 (+++ § 3 Abs. 2: Zur Geltung vgl. § 7 Abs. 1 Satz 4 +++)
 
-
-## § 4 – Anforderungen an Datenschutz und Datensicherheit
+# § 4 – Anforderungen an Datenschutz und Datensicherheit
 
 (1) Digitale Gesundheitsanwendungen müssen die gesetzlichen Vorgaben des Datenschutzes und die Anforderungen an die Datensicherheit nach dem Stand der Technik unter Berücksichtigung der Art der verarbeiteten Daten und der damit verbundenen Schutzstufen sowie des Schutzbedarfs gewährleisten.
 
@@ -110,8 +103,7 @@ Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 4 ist getrennt von 
 
 (6) Das Nähere zu den Anforderungen nach den vorstehenden Absätzen bestimmt sich nach Anlage 1. Der Hersteller fügt seinem Antrag die Erklärung nach Anlage 1 bei. Erweisen sich die Vorgaben der Anlage 1 im Hinblick auf die Eigenschaften der digitalen Gesundheitsanwendung als ungeeignet, kann die digitale Gesundheitsanwendung im Einzelfall von den Vorgaben der Anlage 1 abweichen, wenn die gesetzlichen Vorgaben des Datenschutzes und die Anforderungen an die Datensicherheit nach dem Stand der Technik durch eine abweichende Umsetzung gleichermaßen umgesetzt werden. In seinem Antrag legt der Hersteller die Abweichung von den Vorgaben der Anlage 1 dar und begründet diese.
 
-
-## § 5 – Anforderungen an Qualität
+# § 5 – Anforderungen an Qualität
 
 (1) Digitale Gesundheitsanwendungen sind so zu gestalten, dass sie die Anforderungen der technischen und semantischen Interoperabilität umsetzen. Insbesondere muss die digitale Gesundheitsanwendung ermöglichen, dass von der digitalen Gesundheitsanwendung verarbeitete Daten in geeigneten interoperablen Formaten exportiert und im Rahmen der Versorgung genutzt werden können. Zudem muss die digitale Gesundheitsanwendung interoperable Schnittstellen verwenden, wenn es im Rahmen der bestimmungsgemäßen Nutzung der digitalen Gesundheitsanwendung vorgesehen ist, dass die digitale Gesundheitsanwendung Daten mit vom Versicherten genutzten Medizingeräten oder mit vom Versicherten getragenen Sensoren zur Messung und Übertragung von Vitalwerten (Wearables) austauscht.
 
@@ -135,13 +127,11 @@ Die Einwilligung zu der Datenverarbeitung nach Satz 1 Nummer 4 ist getrennt von 
 
 (11) Der Hersteller fügt seinem Antrag eine Erklärung nach Maßgabe der Anlage 2 bei.
 
-
-## § 6 – Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität
+# § 6 – Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität
 
 Als interoperabel nach § 5 Absatz 1 gelten alle Festlegungen von Inhalten der elektronischen Patientenakte nach § 291b Absatz 1 Satz 7 des Fünften Buches Sozialgesetzbuch sowie die im Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch empfohlenen Standards und Profile. Sofern keine geeignete Festlegung nach § 291b Absatz 1 Satz 7 des Fünften Buches Sozialgesetzbuch existiert und im Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch keine geeignete, als empfohlen gekennzeichnete Interoperabilitätsfestlegung registriert ist, gelten auch offene, international anerkannte Schnittstellen- und Semantikstandards sowie vom Hersteller der digitalen Gesundheitsanwendung bereitgestellte Profile über offenen, international anerkannten Schnittstellen- und Semantikstandards oder über im Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch registrierten Standards als interoperabel. Der Hersteller muss nach Satz 2 bereitgestellte Profile zur freien Nutzung veröffentlichen und deren Aufnahme in das Verzeichnis nach § 291e des Fünften Buches Sozialgesetzbuch beantragen.
 
-
-## § 7 – Nachweis durch Zertifikate
+# § 7 – Nachweis durch Zertifikate
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann von dem Hersteller die Vorlage von Zertifikaten verlangen, die die Erfüllung der Anforderungen nach den §§ 4 bis 6 bestätigen, sofern entsprechende Zertifikate aufgrund von Sicherheits-, Qualitäts- oder Umweltnormen vorgesehen sind oder sonstige anerkannte Zertifikate zum Nachweis der Anforderungen nach den §§ 4 bis 6 geeignet sind. Das nach Satz 1 vorzulegende Zertifikat darf zum Zeitpunkt der Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte nicht älter als zwölf Monate sein. Mit der Vorlage eines entsprechenden Zertifikates gilt der Nachweis der in dem Zertifikat bestätigten Anforderung nach § 4 bis 6 grundsätzlich als erbracht. § 3 Absatz 2 gilt entsprechend.
 
@@ -149,8 +139,7 @@ Als interoperabel nach § 5 Absatz 1 gelten alle Festlegungen von Inhalten der e
 
 (3) Insbesondere kann das Bundesinstitut für Arzneimittel zum Nachweis der Erfüllung der Anforderungen an die Informationssicherheit spätestens ab dem 1. Januar 2022 von dem Hersteller der digitalen Gesundheitsanwendung die Vorlage geeigneter Zertifikate oder Nachweise verlangen.
 
-
-## § 8 – Begriff der positiven Versorgungseffekte
+# § 8 – Begriff der positiven Versorgungseffekte
 
 (1) Positive Versorgungseffekte im Sinne dieser Verordnung sind entweder ein medizinischer Nutzen oder patientenrelevante Struktur- und Verfahrensverbesserungen in der Versorgung.
 
@@ -176,8 +165,7 @@ Als interoperabel nach § 5 Absatz 1 gelten alle Festlegungen von Inhalten der e
 
 9. Reduzierung der therapiebedingten Aufwände und Belastungen der Patienten und ihrer Angehörigen.
 
-
-## § 9 – Darlegung positiver Versorgungseffekte
+# § 9 – Darlegung positiver Versorgungseffekte
 
 (1) In dem Antrag auf Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen nach § 2 gibt der Hersteller an:
 
@@ -189,8 +177,7 @@ Als interoperabel nach § 5 Absatz 1 gelten alle Festlegungen von Inhalten der e
 
 (3) Für die Bestimmung der maßgeblichen Patientengruppe nach Absatz 1 Nummer 2 gibt der Hersteller eine oder mehrere Indikationen nach ICD-10-GM in der Regel dreistellig an. Sofern die Eingrenzung der Patientengruppe nach Satz 1 mit einer dreistelligen Angabe nicht möglich ist, kann der Hersteller eine oder mehrere Indikationen nach ICD-10-GM auch vierstellig angeben. Gibt der Hersteller mehrere Indikationen an, so kann er den Nachweis nach Absatz 1 Nummer 2 grundsätzlich für alle Indikationen gemeinsam führen, die im Hinblick auf den nachzuweisenden positiven Versorgungseffekt wesentlich vergleichbar sind. Soweit dies nicht der Fall ist, hat der Hersteller den Nachweis für die jeweilige Indikation gesondert zu führen. Die Eingrenzung nach Satz 2 und die Vergleichbarkeit nach Satz 3 sind zu begründen.
 
-
-## § 10 – Studien zum Nachweis positiver Versorgungseffekte
+# § 10 – Studien zum Nachweis positiver Versorgungseffekte
 
 (1) Der Hersteller legt zum Nachweis der nach § 9 Absatz 1 angegebenen positiven Versorgungseffekte eine vergleichende Studie vor, welche zeigt, dass die Anwendung der digitalen Gesundheitsanwendung besser ist als deren Nichtanwendung. Vergleichende Studien im Sinne von Satz 1 sind retrospektive vergleichende Studien einschließlich retrospektiver Studien mit intraindividuellem Vergleich.
 
@@ -209,46 +196,39 @@ Als interoperabel nach § 5 Absatz 1 gelten alle Festlegungen von Inhalten der e
 (+++ § 10 Abs. 3 bis 7: Zur Geltung vgl. § 11 Abs. 2  
 § 10 Abs. 3 bis 7: Zur Geltung vgl. § 12 Abs. 2 +++)
 
-
-## § 11 – Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen
+# § 11 – Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen
 
 (1) Abweichend von § 10 Absatz 1 legt der Hersteller zum Nachweis der nach § 9 Absatz 1 angegebenen positiven Versorgungseffekte eine prospektive Vergleichsstudie vor, wenn keine geeigneten Daten vorliegen, die einen aussagekräftigen retrospektiven Vergleich ermöglichen und insbesondere keine ausreichende Vergleichbarkeit der Populationen erreicht werden kann.
 
 (2) § 10 Absatz 3 bis 7 gilt entsprechend.
 
-
-## § 12 – Nachweis für diagnostische Instrumente
+# § 12 – Nachweis für diagnostische Instrumente
 
 (1) Enthält eine digitale Gesundheitsanwendung ein diagnostisches Instrument, so hat der Hersteller zusätzlich zu den Nachweisen nach § 10 mittels einer Studie die Sensitivität und Spezifität der digitalen Gesundheitsanwendung im Hinblick auf die angegebene Patientengruppe nach § 9 Absatz 1 Nummer 2 und Absatz 3 zu ermitteln.
 
 (2) § 10 Absatz 3 bis 7 gilt entsprechend.
 
-
-## § 13 – Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises
+# § 13 – Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bewertet im Rahmen einer Abwägungsentscheidung, ob auf Grundlage der vorgelegten Unterlagen positive Versorgungseffekte hinreichend nachgewiesen sind. Die Abwägungsentscheidung berücksichtigt die zu erwartenden positiven wie negativen Effekte auf Grundlage der vorliegenden Erkenntnisse insbesondere unter Berücksichtigung der Besonderheiten der Indikation, des Risikos der digitalen Gesundheitsanwendung und der vorhandenen oder nicht vorhandenen Versorgungsalternativen.
 
 (2) Erweisen sich die Anforderungen nach den §§ 10 bis 12 aufgrund der besonderen Eigenschaften einer digitalen Gesundheitsanwendung oder aus anderen Gründen als ungeeignet für den Nachweis positiver Versorgungseffekte, kann das Bundesinstitut für Arzneimittel und Medizinprodukte von den Vorgaben nach den §§ 10 bis 12 abweichen.
 
-
-## § 14 – Begründung der Versorgungsverbesserung
+# § 14 – Begründung der Versorgungsverbesserung
 
 Für einen Antrag nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch hat der Hersteller zur plausiblen Begründung, dass im Rahmen einer Erprobung ein positiver Versorgungseffekt nachgewiesen werden kann, mindestens die Ergebnisse einer systematischen Datenauswertung zur Nutzung der digitalen Gesundheitsanwendung vorzulegen.
 
-
-## § 15 – Wissenschaftliches Evaluationskonzept
+# § 15 – Wissenschaftliches Evaluationskonzept
 
 Der Hersteller legt im Rahmen eines Antrags nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch ein nach allgemein anerkannten wissenschaftlichen Standards erstelltes Evaluationskonzept vor, das die Ergebnisse der Datenauswertung nach § 14 angemessen berücksichtigt. Das in dem Evaluationskonzept dargelegte Vorgehen muss geeignet sein, die Nachweise nach den §§ 10 bis 12 zu erbringen.
 
-
-## § 16 – Allgemeine Vorschriften
+# § 16 – Allgemeine Vorschriften
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte bestätigt dem Antragsteller innerhalb von 14 Tagen den Eingang der vollständigen Antragsunterlagen. Eine Änderung oder Ergänzung der Antragsangaben ist nach Antragstellung nur noch auf Anforderung des Bundesinstituts für Arzneimittel und Medizinprodukte möglich.
 
 (2) Legt der Hersteller unvollständige Antragsunterlagen vor, fordert ihn das Bundesinstitut für Arzneimittel und Medizinprodukte unter Nennung der fehlenden Unterlagen und Angaben auf, den Antrag innerhalb einer Frist von bis zu drei Monaten zu ergänzen. Liegen nach Ablauf der Frist keine vollständigen Antragsunterlagen vor, hat das Bundesinstitut für Arzneimittel und Medizinprodukte den Antrag durch Bescheid abzulehnen.
 
-
-## § 17 – Verfahren bei Aufnahme zur Erprobung
+# § 17 – Verfahren bei Aufnahme zur Erprobung
 
 (1) Hat ein Hersteller einen Antrag auf Aufnahme einer digitalen Gesundheitsanwendung nach § 139e Absatz 4 des Fünften Buches Sozialgesetzbuch in das Verzeichnis für digitale Gesundheitsanwendungen gestellt und sind die mit dem Antrag einzureichende plausible Begründung nach § 14 sowie das Evaluationskonzept nach § 15 für eine vorläufige Aufnahme ausreichend, entscheidet das Bundesinstitut für Arzneimittel und Medizinprodukte nach Eingang der vollständigen Antragsunterlagen per Bescheid. Der Bescheid enthält insbesondere Angaben zur Dauer der Aufnahme zur Erprobung sowie zu den spätestens zum Ablauf des Erprobungszeitraums vorzulegenden Nachweisen nach § 139e Absatz 4 Satz 3 des Fünften Buches Sozialgesetzbuch einschließlich der zur Erprobung erforderlichen ärztlichen Leistungen.
 
@@ -258,8 +238,7 @@ Der Hersteller legt im Rahmen eines Antrags nach § 139e Absatz 4 des Fünften B
 
 (4) Wird der Antrag auf Verlängerung des Erprobungszeitraums nach Absatz 3 nicht spätestens drei Monate vor Ablauf des Erprobungszeitraums gestellt, ist dieser unvollständig, oder sind die Inhalte des Antrags nicht geeignet, die Anforderungen nach den §§ 10 bis 12 zu erfüllen, lehnt das Bundesinstitut für Arzneimittel und Medizinprodukte den Antrag auf Verlängerung des Erprobungszeitraums ab und streicht die digitale Gesundheitsanwendung nach Ablauf des Erprobungszeitraums aus dem Verzeichnis für digitale Gesundheitsanwendungen. Der Hersteller ist über die Streichung nach Satz 1 zu informieren.
 
-
-## § 18 – Wesentliche Veränderungen
+# § 18 – Wesentliche Veränderungen
 
 (1) Wesentliche Veränderungen im Sinne dieser Verordnung sind solche, die
 
@@ -275,15 +254,13 @@ c) den Nachweis der positiven Versorgungseffekte, einschließlich Änderungen de
 
 (2) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den Herstellern digitaler Gesundheitsanwendungen elektronisch einen Prüfbogen zur Verfügung, der die Hersteller bei der Einschätzung unterstützt, ob es sich bei einer Veränderung der digitalen Gesundheitsanwendung um eine wesentliche Veränderung nach Absatz 1 handelt. In dem Prüfbogen weist das Bundesinstitut für Arzneimittel und Medizinprodukte die Hersteller auf die Rechtsfolgen einer unterlassenen Anzeige nach § 139e Absatz 6 Satz 5 und 6 des Fünften Buches Sozialgesetzbuch hin.
 
-
-## § 19 – Verfahren bei wesentlichen Veränderungen
+# § 19 – Verfahren bei wesentlichen Veränderungen
 
 (1) Eine Änderung oder Ergänzung der Anzeige nach § 139e Absatz 6 Satz 1 des Fünften Buches Sozialgesetzbuch oder des Antrags auf Streichung einer digitalen Gesundheitsanwendung aus dem Verzeichnis für digitale Gesundheitsanwendungen nach § 139e Absatz 6 Satz 7 des Fünften Buches Sozialgesetzbuch ist nach Übermittlung an das Bundesinstitut für Arzneimittel und Medizinprodukte nur noch auf dessen Anforderung nach Absatz 2 möglich.
 
 (2) Sofern sich im Laufe der Bewertung durch das Bundesinstitut für Arzneimittel und Medizinprodukte herausstellt, dass die Angaben der Anzeige nicht ausreichen, um über die Erforderlichkeit der Anpassung des Verzeichnisses für digitale Gesundheitsanwendungen oder über die Streichung der Anwendung aus dem Verzeichnis für digitale Gesundheitsanwendungen zu entscheiden, kann es den Hersteller einmalig auffordern, die Angaben innerhalb einer Frist von bis zu drei Monaten zu ergänzen.
 
-
-## § 20 – Inhalte des elektronischen Verzeichnisses
+# § 20 – Inhalte des elektronischen Verzeichnisses
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte listet in dem Verzeichnis für digitale Gesundheitsanwendungen die nach § 33a Absatz 1 des Fünften Buches Sozialgesetzbuch in der gesetzlichen Krankenversicherung erstattungsfähigen digitalen Gesundheitsanwendungen. Jede digitale Gesundheitsanwendung erhält eine eineindeutige Verzeichnisnummer.Die Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen erfolgt ausschließlich für die von dem Hersteller angegebenen Indikationen.
 
@@ -303,8 +280,7 @@ c) den Nachweis der positiven Versorgungseffekte, einschließlich Änderungen de
 
 6. den notwendigen ärztlichen Leistungen nach § 139e Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch, sofern zutreffend.
 
-
-## § 21 – Weitere Ausgestaltung des elektronischen Verzeichnisses
+# § 21 – Weitere Ausgestaltung des elektronischen Verzeichnisses
 
 (1) In dem Verzeichnis für digitale Gesundheitsanwendungen werden weitere Angaben aus den eingereichten Unterlagen veröffentlicht, soweit dies für die Information der Leistungserbringer, für die Unterstützung einer informierten Nutzungsentscheidung seitens der Patienten und für die qualitätsgesicherte Anwendung der digitalen Gesundheitsanwendung erforderlich ist.
 
@@ -326,8 +302,7 @@ auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitu
 
 (6) Mit der Antragstellung gibt der Hersteller der digitalen Gesundheitsanwendung die unter § 20 Absatz 2 und 3 aufgeführten Angaben zur Veröffentlichung und zur freien Nutzung durch Dritte unter einer vom Bundesinstitut für Arzneimittel und Medizinprodukte festzulegenden Lizenz frei. Dies gilt, so weit nicht rechtliche Anforderungen an den Schutz der Betriebs- und Geschäftsgeheimnisse oder den Schutz personenbezogener Daten oder des geistigen Eigentums entgegenstehen und der Hersteller in den Antragsunterlagen die entsprechenden Angaben als solche gekennzeichnet und der Veröffentlichung aus diesem Grund ausdrücklich widersprochen hat.
 
-
-## § 22 – Bekanntmachung des Verzeichnisses für digitale Gesundheitsanwendungen im Bundesanzeiger
+# § 22 – Bekanntmachung des Verzeichnisses für digitale Gesundheitsanwendungen im Bundesanzeiger
 
 (1) Durch das Bundesinstitut für Arzneimittel und Medizinprodukte sind im Bundesanzeiger nach § 139e Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch bekannt zu machen:
 
@@ -345,8 +320,7 @@ auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitu
 
 (3) In der Bekanntmachung im Bundesanzeiger weist das Bundesinstitut für Arzneimittel und Medizinprodukte auf die Veröffentlichung des vollständigen Wortlautes der Bekanntmachungen nach Absatz 1 in dem elektronischen Verzeichnis für digitale Gesundheitsanwendungen auf den Internetseiten des Bundesinstituts für Arzneimittel und Medizinprodukte hin.
 
-
-## § 23 – Beratung
+# § 23 – Beratung
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte berät Hersteller digitaler Gesundheitsanwendungen auf deren Anfrage vor Einreichung des Antrags auf Aufnahme einer digitalen Gesundheitsanwendung in das Verzeichnis für digitale Gesundheitsanwendungen insbesondere zum Verfahrensablauf sowie zu den mit dem Antrag vorzulegenden Angaben und Nachweisen.
 
@@ -360,13 +334,11 @@ auf Antrag in maschinenlesbarer sowie plattformunabhängiger Form zur Verarbeitu
 
 (4) Die dem Bundesinstitut für Arzneimittel und Medizinprodukte im Rahmen der Beratung nach den vorstehenden Absätzen übermittelten Informationen sind vertraulich zu behandeln.
 
-
-## § 24 – Grundsätze
+# § 24 – Grundsätze
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach Maßgabe der folgenden Vorschriften.
 
-
-## § 25 – Gebühren für die Entscheidungen über die Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis
+# § 25 – Gebühren für die Entscheidungen über die Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis
 
 (1) Die Gebühr beträgt für die Entscheidung nach
 
@@ -380,8 +352,7 @@ mindestens 3 000 und höchstens 9 900 Euro.
 
 (3) Die Gebühr für die Entscheidung nach § 139e Absatz 4 Satz 7 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
 
-
-## § 26 – Gebühren für Änderungsanzeigen und die Streichung
+# § 26 – Gebühren für Änderungsanzeigen und die Streichung
 
 (1) Die Gebühr für die Bearbeitung einer Anzeige nach § 139e Absatz 6 Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch beträgt mindestens 1 500 und höchstens 4 900 Euro.
 
@@ -389,15 +360,13 @@ mindestens 3 000 und höchstens 9 900 Euro.
 
 (3) Die Gebühr für die Streichung einer digitalen Gesundheitsanwendung gemäß § 139e Absatz 6 Satz 6 und 7 des Fünften Buches Sozialgesetzbuch beträgt 200 Euro.
 
-
-## § 27 – Gebühr für Beratungen
+# § 27 – Gebühr für Beratungen
 
 (1) Die Gebühr für die Beratung des Herstellers digitaler Gesundheitsanwendungen nach § 139e Absatz 8 Satz 2 des Fünften Buches Sozialgesetzbuch beträgt mindestens 250 und höchstens 5 000 Euro.
 
 (2) Im Umfang geringfügige allgemeine mündliche, schriftliche oder elektronische Auskünfte sind hiervon ausgenommen.
 
-
-## § 28 – Gebühren in besonderen Fällen
+# § 28 – Gebühren in besonderen Fällen
 
 (1) Wird ein Antrag ganz oder teilweise abgelehnt, ist eine Gebühr bis zu der Höhe zu erheben, die für die beantragte individuell zurechenbare öffentliche Leistung vorgesehen ist. Wird der Antrag allein wegen Unzuständigkeit des Bundesinstituts für Arzneimittel und Medizinprodukte abgelehnt, wird keine Gebühr erhoben.
 
@@ -409,8 +378,7 @@ mindestens 3 000 und höchstens 9 900 Euro.
 
 (5) Kann eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Betroffene zu vertreten hat, nicht zum festgesetzten Termin erbracht werden oder muss sie aus diesen Gründen abgebrochen werden, ist eine Gebühr bis zur Höhe des für die vollständige Leistung vorgesehenen Betrags zu erheben.
 
-
-## § 29 – Sonstige Gebühren
+# § 29 – Sonstige Gebühren
 
 (1) Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die auf Antrag vorgenommen werden, sind an Gebühren zu erheben für:
 
@@ -422,8 +390,7 @@ mindestens 3 000 und höchstens 9 900 Euro.
 
 (2) Der Antragsteller ist auf die Gebührenpflichtigkeit der individuell zurechenbaren öffentlichen Leistung nach Absatz 1 hinzuweisen.
 
-
-## § 30 – Gebührenermäßigung und Gebührenbefreiung auf Antrag
+# § 30 – Gebührenermäßigung und Gebührenbefreiung auf Antrag
 
 (1) Die nach den §§ 25 bis 27 zu erhebenden Gebühren können auf Antrag des Gebührenschuldners bis auf ein Viertel der vorgesehenen Gebühr ermäßigt werden, wenn
 
@@ -435,13 +402,11 @@ mindestens 3 000 und höchstens 9 900 Euro.
 
 (2) Von der Erhebung der Gebühren kann ganz abgesehen werden, wenn der zu erwartende wirtschaftliche Nutzen im Verhältnis zu den Gebühren besonders gering ist.
 
-
-## § 31 – Auslagen
+# § 31 – Auslagen
 
 Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes entsprechend.
 
-
-## § 32 – Entstehung der Gebühren- und Auslagenschuld
+# § 32 – Entstehung der Gebühren- und Auslagenschuld
 
 (1) Die Gebührenschuld entsteht mit Beendigung der individuell zurechenbaren öffentlichen Leistung. Bedarf diese Leistung einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt dies als Beendigung der Leistung.
 
@@ -453,8 +418,7 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (3) Für Auslagen gelten die Absätze 1 und 2 entsprechend.
 
-
-## § 33 – Gebühren- und Auslagenschuldner
+# § 33 – Gebühren- und Auslagenschuldner
 
 (1) Zur Zahlung der Gebühren ist derjenige verpflichtet,
 
@@ -468,8 +432,7 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (3) Für Auslagen gelten Absatz 1 und 2 entsprechend.
 
-
-## § 34 – Zusammensetzung der Schiedsstelle und Bestellung der Mitglieder der Schiedsstelle
+# § 34 – Zusammensetzung der Schiedsstelle und Bestellung der Mitglieder der Schiedsstelle
 
 (1) Die Verbände nach § 134 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch teilen die Benennung der Mitglieder der Schiedsstelle nach § 134 Absatz 3 Satz 2 bis 4 des Fünften Buches Sozialgesetzbuch der Geschäftsstelle nach § 38 mit.
 
@@ -477,15 +440,13 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (3) Die Mitglieder der Schiedsstelle sind bestellt, sobald die Verbände nach § 134 Absatz 3 Satz 1 des Fünften Buches Sozialgesetzbuch die Benennung der Mitglieder dem Bundesministerium für Gesundheit mitgeteilt haben.
 
-
-## § 35 – Amtsperiode
+# § 35 – Amtsperiode
 
 (1) Die Amtsdauer der Mitglieder der Schiedsstelle beträgt vier Jahre. Die Amtsdauer der während einer Amtsperiode neu bestellten Mitglieder der Schiedsstelle endet mit dem Ablauf dieser Amtsperiode.
 
 (2) Abweichend von Absatz 1 endet die Amtsdauer der nach § 134 Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch von den Krankenkassen und den Herstellern digitaler Gesundheitsanwendungen benannten Mitglieder der Schiedsstelle mit Wirksamwerden des Schiedsspruchs.
 
-
-## § 36 – Abberufung und Amtsniederlegung
+# § 36 – Abberufung und Amtsniederlegung
 
 (1) Das Bundesministerium für Gesundheit kann Mitglieder der Schiedsstelle und ihre Stellvertreter auf Antrag einer Vertragspartei aus wichtigem Grund abberufen. Die beteiligten Verbände sind vorher zu hören.
 
@@ -493,18 +454,15 @@ Für die Erstattung von Auslagen gilt § 12 Absatz 1 des Bundesgebührengesetzes
 
 (3) Für die Bestellung von Mitgliedern der Schiedsstelle und ihren Stellvertretern in der Nachfolge von während einer Amtsperiode Ausgeschiedenen gilt § 134 Absatz 3 Satz 4 und 5 des Fünften Buches Sozialgesetzbuch entsprechend.
 
-
-## § 37 – Teilnahme an Sitzungen
+# § 37 – Teilnahme an Sitzungen
 
 Die Mitglieder der Schiedsstelle sind verpflichtet, an den Sitzungen der Schiedsstelle teilzunehmen. Sind die Mitglieder der Schiedsstelle verhindert, sind sie verpflichtet ihre Stellvertreter zu benachrichtigen. Im Falle der Benachrichtigung sind die Stellvertreter ebenfalls zur Teilnahme an den Sitzungen der Schiedsstelle verpflichtet.
 
-
-## § 38 – Geschäftsstelle
+# § 38 – Geschäftsstelle
 
 Die Geschäftsstelle der Schiedsstelle wird beim Spitzenverband Bund der Krankenkassen geführt. Sie ist an Weisungen des Vorsitzenden gebunden.
 
-
-## § 39 – Einleitung des Schiedsverfahrens und Fristen
+# § 39 – Einleitung des Schiedsverfahrens und Fristen
 
 (1) Kommt ein Vertrag über Vergütungsbeträge für digitale Gesundheitsanwendungen nach § 134 Absatz 1 des Fünften Buches Sozialgesetzbuch nicht oder teilweise nicht zustande, beginnt das Schiedsverfahren mit dem bei der Schiedsstelle von einer beteiligten Vertragspartei gestellten Antrag, eine Einigung über den Inhalt eines Vertrages herbeizuführen. Der Antrag ist schriftlich oder elektronisch an den Vorsitzenden der Schiedsstelle zu richten. Der Antrag muss Folgendes enthalten:
 
@@ -520,13 +478,11 @@ Die Geschäftsstelle der Schiedsstelle wird beim Spitzenverband Bund der Kranken
 
 (4) Der Vorsitzende lädt die weiteren Mitglieder der Schiedsstelle schriftlich oder elektronisch mit einer Frist von mindestens zwei Wochen ein. Der Einladung sind Sitzungsunterlagen beizufügen, die Gegenstand der Beratung sind.
 
-
-## § 40 – Vorlagepflicht
+# § 40 – Vorlagepflicht
 
 Auf Verlangen der Schiedsstelle haben die Vertragsparteien der Schiedsstelle die für die Entscheidung erforderlichen Unterlagen vorzulegen.
 
-
-## § 41 – Beratung und Beschlussfassung
+# § 41 – Beratung und Beschlussfassung
 
 (1) Die Schiedsstelle ist beschlussfähig, wenn mindestens der Vorsitzende der Schiedsstelle und ein unparteiisches Mitglied der Schiedsstelle oder deren Stellvertreter sowie jeweils ein Vertreter der Krankenkassen und ein Vertreter der Hersteller anwesend sind. Stimmenthaltungen sind unzulässig.
 
@@ -544,8 +500,7 @@ Auf Verlangen der Schiedsstelle haben die Vertragsparteien der Schiedsstelle die
 
 3. die Entscheidung der Schiedsstelle.
 
-
-## § 42 – Entschädigung und Kosten
+# § 42 – Entschädigung und Kosten
 
 (1) Der Vorsitzende der Schiedsstelle und die zwei weiteren unparteiischen Mitglieder oder ihre Stellvertreter erhalten Reisekosten nach den Vorschriften über die Reisekostenvergütung der Bundesbeamten nach der Reisekostenstufe C. Der Anspruch richtet sich gegen den Spitzenverband Bund der Krankenkassen. Sie erhalten für sonstige Barauslagen und für den Zeitaufwand einen Pauschalbetrag, dessen Höhe der Spitzenverband Bund der Krankenkassen im Benehmen mit den beteiligten Verbänden festsetzt. Die Festsetzung bedarf der Zustimmung des Bundesministeriums für Gesundheit.
 
@@ -553,20 +508,17 @@ Auf Verlangen der Schiedsstelle haben die Vertragsparteien der Schiedsstelle die
 
 (3) Die Sach- und Personalkosten der Geschäftsführung und die Aufwendungen nach Absatz 1 für den Vorsitzenden und die zwei weiteren unparteiischen Mitglieder oder ihre Stellvertreter tragen zur Hälfte der Spitzenverband Bund der Krankenkassen und zur Hälfte die anderen an der Schiedsstelle beteiligten Verbände.
 
-
-## § 43 – Inkrafttreten
+# § 43 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – Fragebogen gemäß § 4 Absatz 6
+# Anlage 1 – Fragebogen gemäß § 4 Absatz 6
 
 (Fundstelle: BGBl. I 2020, 779 - 792)
 
 Im nachfolgend aufgeführten Fragenbogen ist durch den Hersteller die Erfüllung der Anforderungen nach § 4 zu erklären. Der Hersteller bestätigt die Erfüllung der Anforderungen durch Kennzeichnung in der Spalte „zutreffend“. Die Vorschriften des Datenschutzes und die Anforderungen an die Datensicherheit – Basisanforderungen sind von allen digitalen Gesundheitsanwendungen zu erfüllen. Die Anforderungen Datensicherheit – Zusatzanforderungen bei digitalen Gesundheitsanwendungen mit sehr hohem Schutzbedarf sind von digitalen Gesundheitsanwendungen zu erfüllen, für die im Rahmen der geforderten Schutzbedarfsanalyse ein sehr hoher Schutzbedarf festgestellt wurde.
 
-
-## Anlage 2 – Fragebogen gemäß den §§ 5 und 6
+# Anlage 2 – Fragebogen gemäß den §§ 5 und 6
 
 (Fundstelle: BGBl. I 2020, 793 - 798)
 

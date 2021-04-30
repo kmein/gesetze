@@ -1,30 +1,23 @@
-# [SachenR-DV] Verordnung zur Durchführung des Grundbuchbereinigungsgesetzes und anderer Vorschriften auf dem Gebiet des Sachenrechts  (Sachenrechts-Durchführungsverordnung - SachenR-DV)
-
-Ausfertigungsdatum: 20.12.1994
-
+% Verordnung zur Durchführung des Grundbuchbereinigungsgesetzes und anderer Vorschriften auf dem Gebiet des Sachenrechts  (Sachenrechts-Durchführungsverordnung - SachenR-DV)
+% Ausfertigungsdatum: 20.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Satz 2, des § 8 Abs. 1 Satz 2 und des § 9 Abs. 8 des Grundbuchbereinigungsgesetzes vom 20. Dezember 1993 (BGBl. I S. 2182, 2192), des § 1 Abs. 4 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114), die zuletzt durch Artikel 24 des Einführungsgesetzes zur Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2911) geändert worden ist, des Artikels 18 Abs. 4 Nr. 2 des Registerverfahrenbeschleunigungsgesetzes vom 20. Dezember 1993 (BGBl. I S. 2182) und des Artikels 12 Abs. 1 Nr. 2 des Zweiten Vermögensrechtsänderungsgesetzes vom 14. Juli 1992 (BGBl. I S. 1257) verordnet das Bundesministerium der Justiz und auf Grund des § 9 Abs. 9 und Abs. 11 Satz 2 des Grundbuchbereinigungsgesetzes verordnet die Bundesregierung:
 
-
-## § 1 – Erstreckung auf wasserwirtschaftliche Anlagen
+# § 1 – Erstreckung auf wasserwirtschaftliche Anlagen
 
 Die Regelungen des § 9 Abs. 1 bis 7 des Grundbuchbereinigungsgesetzes und der §§ 4 bis 10 dieser Verordnung über Energieanlagen gelten, soweit in dieser Verordnung nichts Abweichendes bestimmt wird, auch für die in § 9 Abs. 9 Satz 1 des Gesetzes bezeichneten wasserwirtschaftlichen Anlagen. § 9 Abs. 1 des Grundbuchbereinigungsgesetzes findet außer in den in § 9 Abs. 2 des Gesetzes bezeichneten Fällen auch keine Anwendung, soweit Kunden und Anschlußnehmer, die Grundstückseigentümer sind, nach der Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser vom 20. Juni 1980 (BGBl. I S. 750, 1067) zur Duldung von Anlagen verpflichtet sind. Als Versorgungsunternehmen gilt der Betreiber, bei Überlassung der Anlage an Dritte der Inhaber der in § 9 Abs. 9 Satz 1 des Grundbuchbereinigungsgesetzes bezeichneten Anlagen unabhängig von seiner Rechtsform.
 
-
-## § 2 – Geltung des Bescheinigungsverfahrens
+# § 2 – Geltung des Bescheinigungsverfahrens
 
 Die verwaltungstechnischen Voraussetzungen für das Bescheinigungsverfahren nach § 9 Abs. 4 bis 7 des Grundbuchbereinigungsgesetzes liegen bei den in Absatz 9 Satz 1 dieses Gesetzes bezeichneten Anlagen vor.
 
-
-## § 3 – Behördenzuständigkeit
+# § 3 – Behördenzuständigkeit
 
 Zuständig für die Durchführung des Bescheinigungsverfahrens sind bei Anlagen nach § 1 Satz 1, vorbehaltlich einer abweichenden landesrechtlichen Regelung auf Grund des § 9 Abs. 10 des Grundbuchbereinigungsgesetzes, die unteren Wasserbehörden.
 
-
-## § 4 – Inhalt der Leitungs- und Anlagenrechte
+# § 4 – Inhalt der Leitungs- und Anlagenrechte
 
 (1) Die nach § 9 Abs. 1 des Grundbuchbereinigungsgesetzes entstandene beschränkte persönliche Dienstbarkeit umfaßt das Recht, in eigener Verantwortung und auf eigenes Risiko
 
@@ -90,13 +83,11 @@ zulässig waren. Der Grundstückseigentümer, Gebäudeeigentümer oder Erbbauber
 
 (6) Die Bescheinigung nach § 7 ersetzt die Bescheinigung nach § 1059a Nr. 2 Satz 2 in Verbindung mit § 1092 Abs. 2 des Bürgerlichen Gesetzbuchs.
 
-
-## § 5 – Bestandsschutz
+# § 5 – Bestandsschutz
 
 Wenn nach dem 24. Dezember 1993 die Voraussetzungen für eine Verpflichtung zur Duldung von Energieanlagen nach den in § 9 Abs. 2 des Grundbuchbereinigungsgesetzes genannten Bestimmungen eintreten, bleibt die zuvor begründete Dienstbarkeit bestehen. Soweit die Allgemeinen Versorgungsbedingungen dem Versorgungsunternehmen weitergehende Rechte einräumen, sind diese maßgeblich. Die Sätze 1 und 2 gelten für die in § 9 Abs. 9 Satz 1 des genannten Gesetzes bezeichneten Anlagen entsprechend.
 
-
-## § 6 – Antrag auf Erteilung der Leitungs- und Anlagenrechtsbescheinigung
+# § 6 – Antrag auf Erteilung der Leitungs- und Anlagenrechtsbescheinigung
 
 (1) Der Antrag auf Erteilung der Leitungs- und Anlagenrechtsbescheinigung für die Dienstbarkeit gemäß § 9 Abs. 4 des Grundbuchbereinigungsgesetzes muß folgende Angaben enthalten:
 
@@ -108,8 +99,7 @@ Wenn nach dem 24. Dezember 1993 die Voraussetzungen für eine Verpflichtung zur 
 
 (3) Ein Antrag kann sich auf mehrere Grundstücke und Rechte beziehen, wenn es sich um eine zusammenhängende Leitungstrasse handelt.
 
-
-## § 7 – Erteilung der Leitungs- und Anlagenrechtsbescheinigung
+# § 7 – Erteilung der Leitungs- und Anlagenrechtsbescheinigung
 
 (1) Die zuständige Behörde macht den Antrag oder den Ort, an dem der Antrag und die ihm beigefügten Unterlagen eingesehen werden können, in ortsüblicher Weise öffentlich bekannt. Hierbei sind die Art der Leitung und die betroffene Kommune anzugeben.
 
@@ -143,32 +133,27 @@ In der Leitungs- und Anlagenrechtsbescheinigung sind solche Grundstücke auszune
 
 (5) Wird ein Widerspruch rechtzeitig erhoben, so hört die Behörde die Personen oder Stellen an, welche die Nachweise nach Absatz 2 Satz 1 Nr. 1 und 2 angefertigt haben. Wenn danach ein Fehler offenkundig ist, bescheinigt sie die Dienstbarkeit mit den erforderlichen Abweichungen von den zunächst vorgelegten Nachweisen. Ist ein Fehler nicht vorhanden oder nicht offenkundig, so bescheinigt die Behörde die Dienstbarkeit wie beantragt, vermerkt jedoch bei dem Grundstück oder Flurstück, auf das sich der Widerspruch bezieht, den Widerspruch des Eigentümers. Ist der Widerspruch verspätet, so entfällt dieser Vermerk und der Grundstückseigentümer ist auf den ordentlichen Rechtsweg zu verweisen.
 
-
-## § 8 – Grundbuchberichtigung
+# § 8 – Grundbuchberichtigung
 
 (1) Auf Antrag des Versorgungsunternehmens, dem eine der Zahl der betroffenen Grundbuchblätter entsprechende Anzahl Kopien der ersten Seite des Antrags beizufügen sind, berichtigt das Grundbuchamt das Grundbuch, indem es das Recht auf Grund der Leitungs- und Anlagenrechtsbescheinigung an rangbereiter Stelle einträgt. Das Grundbuchamt kann verlangen, daß die in § 7 Abs. 2 Nr. 1 bezeichnete Karte vorgelegt wird. Ein Teilvollzug ist zulässig. In der Eintragung ist nach Möglichkeit auf die Bescheinigung unter Angabe der Behörde, ihres Geschäftszeichens und des Ausstellungsdatums Bezug zu nehmen.
 
 (2) Enthält die Bescheinigung einen Vermerk über einen Widerspruch des Grundstückseigentümers, so ist an rangbereiter Stelle ein Widerspruch folgenden Inhalts einzutragen: "Widerspruch gegen die Richtigkeit des Grundbuchs wegen eines nicht eingetragenen Leitungs- und Anlagenrechts gemäß § 9 Abs. 5 Satz 2 GBBerG zu Gunsten von ..." unter Angabe des Namens und des Sitzes des Versorgungsunternehmens sowie des Eintragungsdatums.
 
-
-## § 9 – Berichtigungsbewilligung, Verzichtsbescheinigung
+# § 9 – Berichtigungsbewilligung, Verzichtsbescheinigung
 
 (1) Eine Bewilligung, die nach ihrem Inhalt der Berichtigung des Grundbuchs wegen eines Rechtes nach § 9 Abs. 1 des Grundbuchbereinigungsgesetzes oder nach § 1 Satz 1 dieser Verordnung dient, muß mit der Erklärung eines Notars versehen sein, daß die Bewilligung auf einer Vereinbarung mit dem begünstigten Unternehmen beruht oder der Notar von dem Unternehmen innerhalb von drei Monaten seit einer Aufforderung einen Rechtsverzicht nach § 9 Abs. 6 Satz 1 des Grundbuchbereinigungsgesetzes nicht erhalten hat.
 
 (2) Der Antrag eines Versorgungsunternehmens nach § 9 Abs. 6 Satz 1 Halbsatz 2 des Grundbuchbereinigungsgesetzes, ihm den Verzicht auf eine Dienstbarkeit zu bescheinigen, muß das betroffene Grundstück, Gebäudeeigentum oder Erbbaurecht in grundbuchmäßiger Form bezeichnen und die Erklärung enthalten, daß auf das Recht verzichtet werde. Die Behörde bescheinigt, daß das Recht infolge des Verzichts erloschen ist.
 
-
-## § 10 – Erlöschensbescheinigung
+# § 10 – Erlöschensbescheinigung
 
 Auf Antrag des Versorgungsunternehmens, des Grundstückseigentümers, des Erbbauberechtigten oder des Gebäudeeigentümers bescheinigt die Behörde, daß eine bei Ablauf des 2. Oktober 1990 im Grundbuch eingetragene beschränkte persönliche Dienstbarkeit für Energieanlagen oder die in § 1 Satz 1 bezeichneten Anlagen nicht mehr besteht. In dem Antrag muß die Dienstbarkeit mit ihrer Grundbuchstelle angegeben und die Erklärung des zum Zeitpunkt der Antragstellung zuständigen Versorgungsunternehmens enthalten sein, daß das eingetragene Recht nicht mehr ausgeübt wird und das Unternehmen der Erteilung der Erlöschensbescheinigung zustimmt. Die zuständige Stelle bescheinigt, daß die betreffende Dienstbarkeit erloschen ist.
 
-
-## § 11 – Anwendungsregelung für Energieanlagen
+# § 11 – Anwendungsregelung für Energieanlagen
 
 Die §§ 6 bis 10 sind von dem Tage an auf Energieanlagen anzuwenden, an dem in dem jeweiligen Land die Rechtsverordnung nach § 9 Abs. 11 Satz 2 des Grundbuchbereinigungsgesetzes in Kraft tritt.
 
-
-## § 12 – Mittelwerte und Marktpreise bei sonstigen wertbeständigen Grundpfandrechten
+# § 12 – Mittelwerte und Marktpreise bei sonstigen wertbeständigen Grundpfandrechten
 
 Bei wertbeständigen Grundpfandrechten im Sinne des § 3 Abs. 1 Satz 1 und Abs. 2 des Grundbuchbereinigungsgesetzes sind für die jeweils bestimmten Waren oder Leistungen folgende Werte zugrundezulegen:
 
@@ -186,19 +171,16 @@ Bei wertbeständigen Grundpfandrechten im Sinne des § 3 Abs. 1 Satz 1 und Abs. 
 
 7. für einen Doppelzentner zu 100 kg Kalidüngesalz 40 vom Hundert 23,00 Deutsche Mark.
 
-
-## § 13 – Verlängerung von Fristen
+# § 13 – Verlängerung von Fristen
 
 (1) Die Frist des § 8 Abs. 1 Satz 1 und nach § 8 Abs. 3 Satz 3 in Verbindung mit § 8 Abs. 1 Satz 1 des Grundbuchbereinigungsgesetzes wird in den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen bis zum Ablauf des 31. Dezember 2005, längstens jedoch bis zu dem Tage verlängert, an dem der öffentliche Glaube des Grundbuchs für die in Artikel 233 § 5 Abs. 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichneten beschränkten dinglichen Rechte wieder in vollem Umfang gilt.
 
 (2) In den übrigen Ländern wird die in Absatz 1 bezeichnete Frist bis zum Ablauf des 31. Dezember 1997 verlängert.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Verordnung tritt am 11. Januar 1995 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,15 +1,11 @@
-# [RevierjAusbStEignV 2011] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Revierjäger und zur Revierjägerin
-
-Ausfertigungsdatum: 07.02.2011
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Revierjäger und zur Revierjägerin
+% Ausfertigungsdatum: 07.02.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232 Nummer 2 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Mindestanforderungen an die Größe, die Einrichtung und den Bewirtschaftungszustand
+# § 1 – Mindestanforderungen an die Größe, die Einrichtung und den Bewirtschaftungszustand
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein Jagdbetrieb sein, der nach seinem jagdlichen Bewirtschaftungszustand, seinen jagdbetrieblichen Einrichtungen, seinem Wildvorkommen und dem Bestand an Jagdhilfstieren, insbesondere Jagdgebrauchshunde, die Voraussetzungen dafür bietet, dass den Auszubildenden die in der Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin vom 18. Mai 2010 (BGBl. I S. 631, 795) in der jeweils geltenden Fassung geforderten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) vermittelt werden können. Eine kontinuierliche Anleitung muss gewährleistet sein.
 
@@ -27,12 +23,10 @@ Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungs
 
 (8) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren eröffnet worden ist.
 
-
-## § 2 – Ausnahmeregelung
+# § 2 – Ausnahmeregelung
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) nicht im vollen Umfang vermittelt werden können, gilt als geeignet, wenn sichergestellt ist, dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen anerkannten Ausbildungsstätte oder in Form überbetrieblicher Ausbildung vermittelt werden können.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Revierjäger/zur Revierjägerin vom 28. Dezember 1982 (BGBl. 1983 I S. 7) außer Kraft.

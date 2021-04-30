@@ -1,10 +1,7 @@
-# [BSchuWG] Gesetz zur Regelung des Schuldenwesens des Bundes  (Bundesschuldenwesengesetz - BSchuWG)
-
-Ausfertigungsdatum: 12.07.2006
-
+% Gesetz zur Regelung des Schuldenwesens des Bundes  (Bundesschuldenwesengesetz - BSchuWG)
+% Ausfertigungsdatum: 12.07.2006
  
-
-## § 1 – Ermächtigung zur Übertragung von Aufgaben des Schuldenwesens
+# § 1 – Ermächtigung zur Übertragung von Aufgaben des Schuldenwesens
 
 (1) Zur Verbesserung der Wirtschaftlichkeit des Schuldenwesens des Bundes wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung der Bundesrepublik Deutschland - Finanzagentur GmbH die folgenden Aufgaben des Schuldenwesens zur Wahrnehmung im Namen des Bundes und seiner Sondervermögen zu übertragen:
 
@@ -24,15 +21,13 @@ Aus den in Satz 1 genannten Rechtsgeschäften werden ausschließlich der Bund od
 
 (4) Abweichende Regelungen der Zuständigkeit im Schuldenwesen des Bundes durch Gesetz bleiben unberührt.
 
-
-## § 2 – Aufsicht über die Bundesrepublik Deutschland - Finanzagentur GmbH
+# § 2 – Aufsicht über die Bundesrepublik Deutschland - Finanzagentur GmbH
 
 (1) Das Bundesministerium der Finanzen übt die Aufsicht über die recht- und zweckmäßige Wahrnehmung der übertragenen Aufgaben des Schuldenwesens durch die Bundesrepublik Deutschland - Finanzagentur GmbH aus.
 
 (2) In der Rechtsverordnung nach § 1 Abs. 1 Satz 1 kann das Bundesministerium der Finanzen bestimmen, dass es einzelne oder alle übertragenen Aufgaben vorübergehend selbst wahrnehmen oder auf eine Behörde in seinem Geschäftsbereich oder einen Dritten übertragen kann, wenn auf andere Weise die recht- und zweckmäßige Wahrnehmung der übertragenen Aufgaben nicht sichergestellt werden kann.
 
-
-## § 3 – Parlamentarisches Gremium
+# § 3 – Parlamentarisches Gremium
 
 (1) Der Deutsche Bundestag wählt für die Dauer einer Wahlperiode ein Gremium, das aus Mitgliedern des Haushaltsausschusses des Deutschen Bundestages besteht. Der Deutsche Bundestag bestimmt die Zahl der Mitglieder, die Zusammensetzung und die Arbeitsweise. Gewählt ist, wer die Mehrheit der Stimmen der Mitglieder des Deutschen Bundestages auf sich vereint. Scheidet ein Mitglied aus dem Deutschen Bundestag oder seiner Fraktion aus oder wird ein Mitglied zur Bundesministerin oder zum Bundesminister oder zur Parlamentarischen Staatssekretärin oder zum Parlamentarischen Staatssekretär ernannt, so verliert es seine Mitgliedschaft im Gremium. Für ein ausscheidendes Mitglied ist unverzüglich ein neues Mitglied zu wählen.
 
@@ -40,8 +35,7 @@ Aus den in Satz 1 genannten Rechtsgeschäften werden ausschließlich der Bund od
 
 (3) Die Mitglieder des Gremiums sind zur Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer Tätigkeit bekannt geworden sind. Dies gilt auch für die Teilnehmerinnen und Teilnehmer an den Sitzungen.
 
-
-## § 4 – Kreditaufnahme des Bundes
+# § 4 – Kreditaufnahme des Bundes
 
 (1) Die Aufnahme von Krediten durch den Bund und seine Sondervermögen erfolgt im Rahmen des jeweiligen Haushaltsgesetzes durch
 
@@ -57,13 +51,11 @@ Aus den in Satz 1 genannten Rechtsgeschäften werden ausschließlich der Bund od
 
 (2) Im Rahmen des jeweiligen Haushaltsgesetzes können an den Finanzmärkten eingeführte derivative Finanzierungsinstrumente eingesetzt werden.
 
-
-## § 4a – Einführung von Umschuldungsklauseln
+# § 4a – Einführung von Umschuldungsklauseln
 
 Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer ursprünglichen Laufzeit von über einem Jahr können Klauseln enthalten, die zum Zwecke der Umschuldung eine Änderung der Emissionsbedingungen durch Mehrheitsbeschluss der Gläubiger mit Zustimmung des Bundes ermöglichen (Umschuldungsklauseln). Die Umschuldungsklauseln können auch die Möglichkeit zur einheitlichen Beschlussfassung für Schuldverschreibungen verschiedener Anleihen vorsehen (anleiheübergreifende Änderung). Soweit Emissionsbedingungen nichts Abweichendes vorsehen, gelten für die Umschuldungsklauseln die §§ 4b bis 4k.
 
-
-## § 4b – Mehrheitsbeschlüsse der Gläubiger
+# § 4b – Mehrheitsbeschlüsse der Gläubiger
 
 (1) Die Gläubiger können insbesondere folgende Umschuldungsmaßnahmen beschließen (wesentliche Beschlüsse):
 
@@ -99,8 +91,7 @@ Die Emissionsbedingungen der vom Bund begebenen Schuldverschreibungen mit einer 
 
 (8) Der Bund hat die Beschlüsse der Gläubiger unverzüglich bekannt zu machen.
 
-
-## § 4c – Stimmrecht
+# § 4c – Stimmrecht
 
 (1) An Beschlussfassungen der Gläubiger nimmt jeder Gläubiger nach Maßgabe des Nennwertes der ausstehenden Schuldverschreibungen teil, die er am Stichtag hält.
 
@@ -122,8 +113,7 @@ Ein Rechtsträger ist als vom Bund beherrscht anzusehen, wenn der Bund unmittelb
 
 (4) Der Bund macht vor dem Stichtag eine Liste mit sämtlichen Gläubigern bekannt, die zum Zeitpunkt der Veröffentlichung als vom Bund beherrschte Rechtsträger anzusehen sind und bei denen davon auszugehen ist, dass sie bei einer Beschlussfassung nicht frei abstimmen können.
 
-
-## § 4d – Berechnungsstelle; Bescheinigung
+# § 4d – Berechnungsstelle; Bescheinigung
 
 (1) Der Bund benennt eine zuständige Stelle, die feststellt, ob die für die Beschlussfassung der Gläubiger erforderlichen Mehrheiten erreicht sind (Berechnungsstelle).
 
@@ -139,8 +129,7 @@ Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der G
 
 (3) Die Angaben in der Bescheinigung nach Absatz 2 sind für alle Gläubiger und den Bund verbindlich, sofern nicht ein betroffener Gläubiger vor der Beschlussfassung der Gläubiger schriftlich und unter Mitteilung von Gründen der Richtigkeit der Angaben widerspricht und sofern nicht dieser Gläubiger einen Beschluss der Gläubiger, der auf einer unrichtigen Angabe beruht, binnen 15 Tagen nach Bekanntmachung des Beschlusses durch Klage nach Maßgabe des § 4i anficht.
 
-
-## § 4e – Einberufung der Gläubigerversammlung
+# § 4e – Einberufung der Gläubigerversammlung
 
 (1) Eine Gläubigerversammlung kann jederzeit durch den Bund einberufen werden. Der Bund hat eine Gläubigerversammlung einzuberufen, sofern ein in den Emissionsbedingungen vorgesehener Fall der Nichterfüllung einer Zahlungsverpflichtung des Bundes eintritt und Gläubiger von mindestens 10 Prozent des Nennwertes der ausstehenden Schuldverschreibungen die Einberufung schriftlich verlangen. § 9 Absatz 2 und 4 des Schuldverschreibungsgesetzes ist entsprechend anzuwenden. Zuständig ist das Oberlandesgericht am Sitz der Deutschen Bundesbank. Die Vorschriften des ersten Buches des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend anzuwenden. Eine Entscheidung durch den Einzelrichter ist ausgeschlossen. Die Entscheidung des Oberlandesgerichts ist unanfechtbar.
 
@@ -162,8 +151,7 @@ Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der G
 
 (4) Die Einberufung ist unverzüglich bekannt zu machen.
 
-
-## § 4f – Vorsitz; Beschlussfähigkeit
+# § 4f – Vorsitz; Beschlussfähigkeit
 
 (1) Der Bund bestimmt den Vorsitzenden der Gläubigerversammlung. Sofern die vom Bund ernannte Person in der Versammlung nicht erscheint, können Gläubiger, die mehr als 50 Prozent des in der Versammlung vertretenen Nennwertes der ausstehenden Schuldverschreibungen halten, den Vorsitzenden der Gläubigerversammlung bestimmen.
 
@@ -173,20 +161,17 @@ Der Bund macht die Bescheinigung so rechtzeitig vor einer Beschlussfassung der G
 
 (4) Die Gläubiger können den für die Beschlussfähigkeit erforderlichen Nennwert der ausstehenden Schuldverschreibungen abweichend von den Absätzen 2 und 3 festlegen; eine Beschlussfassung hierüber gilt als wesentlicher Beschluss.
 
-
-## § 4g – Vertretung
+# § 4g – Vertretung
 
 (1) Jeder Gläubiger kann sich in der Gläubigerversammlung durch einen Bevollmächtigten vertreten lassen. Die Erteilung der Vollmacht bedarf der Schriftform. Die Bevollmächtigung ist dem Bund spätestens 48 Stunden vor dem Tag der Gläubigerversammlung nachzuweisen.
 
 (2) Der Widerruf der Vollmacht ist nur wirksam, wenn er mindestens 48 Stunden vor dem Tag der Gläubigerversammlung gegenüber dem Bund erklärt wird. Gleiches gilt für eine Änderung der Vollmacht.
 
-
-## § 4h – Schriftliche Abstimmung
+# § 4h – Schriftliche Abstimmung
 
 Auf die schriftliche Abstimmung sind die Vorschriften über die Einberufung und Durchführung von Gläubigerversammlungen entsprechend anzuwenden.
 
-
-## § 4i – Anfechtung von Beschlüssen
+# § 4i – Anfechtung von Beschlüssen
 
 (1) Ein Beschluss der Gläubiger kann wegen Verletzung des Gesetzes oder der Emissionsbedingungen durch Klage angefochten werden.
 
@@ -194,18 +179,15 @@ Auf die schriftliche Abstimmung sind die Vorschriften über die Einberufung und 
 
 (3) Vor einer rechtskräftigen Entscheidung des Gerichts darf der angefochtene Beschluss nicht vollzogen werden, es sei denn, das nach Absatz 2 Satz 3 zuständige Gericht stellt auf Antrag der Bundesrepublik Deutschland nach Maßgabe des § 246a des Aktiengesetzes fest, dass die Erhebung der Klage dem Vollzug des angefochtenen Beschlusses nicht entgegensteht; § 246a Absatz 1 Satz 1 und 2, Absatz 2, 3 Satz 1 bis 4 und 6, Absatz 4 des Aktiengesetzes gilt entsprechend.
 
-
-## § 4j – Wirksamkeit und Vollziehung von Beschlüssen
+# § 4j – Wirksamkeit und Vollziehung von Beschlüssen
 
 Beschlüsse der Gläubiger, durch welche der Inhalt der Emissionsbedingungen geändert oder ergänzt wird, werden erst wirksam, wenn sie vollzogen worden sind. Sie sind in der Weise zu vollziehen, dass die Emissionsbedingungen in ihrer geänderten oder ergänzten Fassung bekannt gemacht werden.
 
-
-## § 4k – Bekanntmachungen
+# § 4k – Bekanntmachungen
 
 Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c Absatz 4, § 4d Absatz 2 Satz 2, § 4e Absatz 4 und § 4j erfolgen im Bundesanzeiger und im Internet unter der Adresse der Bundesrepublik Deutschland – Finanzagentur GmbH sowie durch die Deutsche Bundesbank.
 
-
-## § 5 – Bundesschuldbuch
+# § 5 – Bundesschuldbuch
 
 (1) Für den Bund und seine Sondervermögen wird ein Bundesschuldbuch geführt, das der Begründung, Dokumentation und Verwaltung von Schuldbuchforderungen sowie der Dokumentation und Verwaltung der sonstigen Verbindlichkeiten gemäß den nachfolgenden Bestimmungen dient. Das Bundesschuldbuch kann auch elektronisch geführt werden.
 
@@ -219,8 +201,7 @@ Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c Absatz 4, §
 
 (3) Eine Schuldbuchforderung wird als Sammelschuldbuchforderung oder Einzelschuldbuchforderung durch die Eintragung in die jeweilige Abteilung begründet; durch die Eintragung in das Bundesschuldbuch gilt eine gesetzlich vorgeschriebene Form als beachtet.
 
-
-## § 6 – Sammelschuldbuchforderungen
+# § 6 – Sammelschuldbuchforderungen
 
 (1) Der Bund und seine Sondervermögen können Schuldverschreibungen dadurch begeben, dass Schuldbuchforderungen bis zur Höhe des Nennbetrages der jeweiligen Emission auf den Namen einer Wertpapiersammelbank in das Bundesschuldbuch eingetragen werden (Sammelschuldbuchforderung).
 
@@ -238,8 +219,7 @@ Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c Absatz 4, §
 
 (8) Befinden sich Emissionen oder Teile davon im Eigenbestand des Bundes oder eines seiner Sondervermögen, können sie im Bundesschuldbuch ganz oder teilweise gelöscht werden, sofern die Emissionsbedingungen dem nicht entgegenstehen. Über die Löschung entscheidet das Bundesministerium der Finanzen.
 
-
-## § 7 – Einzelschuldbuchforderungen
+# § 7 – Einzelschuldbuchforderungen
 
 (1) Einzelne natürliche oder juristische Personen oder Vermögensmassen, deren Verwaltung gesetzlich geregelt ist oder deren Verwalter ihre Verfügungsbefugnis durch eine gerichtliche oder notarielle Urkunde nachweisen, können während der Laufzeit einer Sammelschuldbuchforderung verlangen, dass ihr Anteil daran durch Eintragung in das Einzelschuldbuch in eine auf ihren Namen lautende Buchforderung (Einzelschuldbuchforderung) umgewandelt wird, sofern nicht in den Emissionsbedingungen die Begründung einer Einzelschuldbuchforderung ausgeschlossen ist. Die Übermittlung des Antrags erfolgt durch die eingetragene Wertpapiersammelbank. Durch die Eintragung wird eine Einzelschuldbuchforderung in Höhe des Anteils begründet. § 6 Abs. 6 gilt entsprechend.
 
@@ -257,8 +237,7 @@ Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c Absatz 4, §
 
 (6) Einzelschuldbuchforderungen können, soweit es sich nicht um obligatorische Einzelschuldbuchforderungen handelt, auf Antrag des Berechtigten im Sinne des Absatzes 4 in einen Sammelbestandanteil zur Verwahrung bei einem Kreditinstitut umgewandelt werden.
 
-
-## § 8 – Öffentlicher Glaube des Bundesschuldbuchs
+# § 8 – Öffentlicher Glaube des Bundesschuldbuchs
 
 (1) Verfügungen über Einzelschuldbuchforderungen bedürfen zu ihrer Wirksamkeit gegenüber dem Schuldner der Eintragung in das Bundesschuldbuch.
 
@@ -268,5 +247,4 @@ Die Bekanntmachungen nach § 4b Absatz 6 Satz 2 und Absatz 8, § 4c Absatz 4, §
 
 (4) Die Eintragungen erfolgen in derselben Reihenfolge, in der die Anträge bei der das Bundesschuldbuch führenden Stelle eingegangen sind.
 
-
-## § 9 – (weggefallen)
+# § 9 – (weggefallen)

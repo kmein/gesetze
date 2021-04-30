@@ -1,10 +1,7 @@
-# [TierNebV] Verordnung zur Durchführung des Tierische Nebenprodukte-Beseitigungsgesetzes  (Tierische Nebenprodukte-Beseitigungsverordnung - TierNebV)
-
-Ausfertigungsdatum: 27.07.2006
-
+% Verordnung zur Durchführung des Tierische Nebenprodukte-Beseitigungsgesetzes  (Tierische Nebenprodukte-Beseitigungsverordnung - TierNebV)
+% Ausfertigungsdatum: 27.07.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -26,8 +23,7 @@ auf Grund des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 20 des Tiers
 \-  
 das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit auf Grund des § 8 Abs. 1 in Verbindung mit Abs. 2 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), § 8 Abs. 1 geändert durch Artikel 57 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), in Verbindung mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, nach Anhörung der beteiligten Kreise:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -383,13 +379,11 @@ Nummernschlüssel für die Betriebsart
 
  
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Die Vorschriften dieser Verordnung gelten für den Umgang mit tierischen Nebenprodukten im Sinne des Artikels 2 Abs. 1 Buchstabe a der Verordnung (EG) Nr. 1774/2002 des Europäischen Parlaments und des Rates vom 3. Oktober 2002 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte (ABl. EG Nr. L 273 S. 1) in der jeweils geltenden Fassung, einschließlich Küchen- und Speiseabfälle tierischer Herkunft im Sinne des Artikels 1 Abs. 2 Buchstabe e der Verordnung (EG) Nr. 1774/2002.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind:
 
@@ -421,8 +415,7 @@ Erhitzung von Material mit einer Teilchengröße von höchstens zwölf Millimete
 
 (2) Im Übrigen gelten für die in dieser Verordnung verwendeten Begriffe die Begriffsbestimmungen des Artikels 2 Abs. 1 und des Anhangs I der Verordnung (EG) Nr. 1774/2002.
 
-
-## § 3 – Küchen- und Speiseabfälle aus privaten Haushaltungen
+# § 3 – Küchen- und Speiseabfälle aus privaten Haushaltungen
 
 (1) Für Küchen- und Speiseabfälle der Kategorie 3, die in privaten Haushaltungen anfallen und die in einer Biogas- oder Kompostierungsanlage behandelt werden, sind die Vorschriften über die Überlassung an den öffentlich-rechtlichen Entsorgungsträger im Sinne des § 17 Absatz 1 und § 20 Absatz 1 des Kreislaufwirtschaftsgesetzes sowie die Bioabfallverordnung entsprechend anzuwenden. Biogas- und Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle nach Satz 1 eingesetzt werden, bedürfen nicht der Zulassung nach Artikel 15 Abs. 1 und 2 der Verordnung (EG) Nr. 1774/2002.
 
@@ -438,8 +431,7 @@ Die Biogas- und Kompostierungsanlage ist von Tieren, Tierfutter und Einstreu vol
 
 (4) Für Küchen- und Speiseabfälle nach Absatz 1 finden die §§ 4 bis 27 keine Anwendung.
 
-
-## § 4 – Sonstige Küchen- und Speiseabfälle
+# § 4 – Sonstige Küchen- und Speiseabfälle
 
 (1) Küchen- und Speiseabfälle der Kategorie 3, die nicht in privaten Haushaltungen anfallen und die in einer Biogas- oder Kompostierungsanlage behandelt werden, sind getrennt von sämtlichen Abfällen, die keine Küchen- und Speiseabfälle sind oder die in privaten Haushaltungen anfallen, zu halten, aufzubewahren, einzusammeln und zu befördern.
 
@@ -455,8 +447,7 @@ Die Biogas- und Kompostierungsanlage ist von Tieren, Tierfutter und Einstreu vol
 
 (5) Für Küchen- und Speiseabfälle nach Absatz 1 gelten § 3 Abs. 2 und 3, § 8 Abs. 2 sowie § 9 entsprechend.
 
-
-## § 5 – Betriebe mit Nutztierhaltung
+# § 5 – Betriebe mit Nutztierhaltung
 
 (1) Tierische Nebenprodukte, verarbeitete Erzeugnisse und tierische Nebenprodukte enthaltende Düngemittel, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel sind von einem Tierhalter räumlich getrennt von Nutztieren, Einstreu und Futtermitteln aufzubewahren. Der Tierhalter hat sicherzustellen, dass die Nutztiere weder unmittelbar noch mittelbar mit den in Satz 1 genannten tierischen Nebenprodukten, verarbeiteten Erzeugnissen und tierische Nebenprodukte enthaltenden Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln in Berührung kommen.
 
@@ -474,8 +465,7 @@ In den Fällen des Satzes 1 Nr. 2 bleiben die Bestimmungen der Verordnung (EG) N
 
 (5) (weggefallen)
 
-
-## § 6 – Lagerung, Beförderung und Inverkehrbringen von Gülle
+# § 6 – Lagerung, Beförderung und Inverkehrbringen von Gülle
 
 (1) Artikel 7 Abs. 1 bis 3 und 5 der Verordnung (EG) Nr. 1774/2002 sowie die §§ 8 und 9 gelten nicht für Gülle, soweit sie innerbetrieblich befördert oder an andere landwirtschaftliche Betriebe in unmittelbarer Nähe oder an Dritte in einer Menge von höchstens 1 Tonne pro Jahr, jeweils zum eigenen Verbrauch im Inland abgegeben wird.
 
@@ -487,13 +477,11 @@ In den Fällen des Satzes 1 Nr. 2 bleiben die Bestimmungen der Verordnung (EG) N
 
 (5) Für Gülle, die zwischen im Inland gelegenen Betrieben befördert wird, kann die zuständige Behörde darüber hinaus im Einzelfall Abweichungen von den Bestimmungen des Artikels 7 Abs. 1 bis 3 und 5 der Verordnung (EG) Nr. 1774/2002 genehmigen.
 
-
-## § 7 – Anzeige und Betriebsregistrierung
+# § 7 – Anzeige und Betriebsregistrierung
 
 Wer tierische Nebenprodukte gewerbsmäßig abholt, sammelt oder befördert, hat seinen Betrieb vor Beginn der Tätigkeit der zuständigen Behörde unter Angabe seines Namens, seiner Anschrift und der tierischen Nebenprodukte, deren Beförderung beabsichtigt ist, anzuzeigen. Änderungen sind unverzüglich anzuzeigen.
 
-
-## § 8 – Reinigung und Desinfektion
+# § 8 – Reinigung und Desinfektion
 
 (1) Wer Fermentationsrückstände aus Biogasanlagen oder Komposte aus Kompostierungsanlagen abholt, sammelt oder befördert, hat sicherzustellen, dass Fahrzeuge und wiederverwendbare Behälter sowie alle wiederverwendbaren Ausrüstungsgegenstände und Geräte, die mit Fermentationsrückständen und Komposten in Berührung kommen, nach Maßgabe des Anhangs II Kapitel II Nr. 2 der Verordnung (EG) Nr. 1774/2002 gereinigt und desinfiziert werden. Satz 1 gilt nicht, soweit
 
@@ -513,8 +501,7 @@ Wer tierische Nebenprodukte gewerbsmäßig abholt, sammelt oder befördert, hat 
 
 Die Eintragungen sind unverzüglich nach der Durchführung der aufzeichnungspflichtigen Tätigkeit in dauerhafter Weise zu machen. Das Desinfektionskontrollbuch ist während der Beförderung mitzuführen.
 
-
-## § 9 – Handelspapiere, Aufzeichnungspflichten
+# § 9 – Handelspapiere, Aufzeichnungspflichten
 
 (1) Wer tierische Nebenprodukte oder verarbeitete Erzeugnisse im Inland befördert, hat sicherzustellen, dass die tierischen Nebenprodukte oder die verarbeiteten Erzeugnisse vorbehaltlich des Absatzes 3 von einem dauerhaft lesbaren Handelspapier nach Maßgabe des Absatzes 2 und nach dem Muster der Anlage 1 begleitet werden. Satz 1 gilt nicht
 
@@ -544,8 +531,7 @@ bestimmt. Für den Fall, dass tierische Nebenprodukte nach Artikel 6 Abs. 1 Buch
 
 (6) Absatz 5 Satz 1 gilt nicht für tierische Nebenprodukte und verarbeitete Erzeugnisse nach Absatz 1 Satz 2.
 
-
-## § 9a – Kennzeichnung von Verpackungen, Behältern oder Fahrzeugen
+# § 9a – Kennzeichnung von Verpackungen, Behältern oder Fahrzeugen
 
 (1) Die natürliche oder juristische Person, in deren betrieblicher Verantwortung die Beförderung von nach Anhang II Kapitel I Nr. 2 der Verordnung (EG) Nr. 1774/2002 kennzeichnungspflichtigen tierischen Nebenprodukten oder verarbeiteten Erzeugnissen, die aus dem Inland stammen und im Inland verbleiben, liegt, hat sicherzustellen, dass die Verpackungen, Behälter oder Fahrzeuge, in denen tierische Nebenprodukte und verarbeitete Erzeugnisse befördert werden, neben der Kennzeichnung nach Anhang II Kapitel I Nr. 2 der Verordnung (EG) Nr. 1774/2002 nach Maßgabe des Absatzes 2 zusätzlich farblich gekennzeichnet sind. Satz 1 gilt nicht für
 
@@ -561,8 +547,7 @@ Fahrzeuge, mit denen bereits gekennzeichnete Verpackungen oder Behälter beförd
 
 (2) Für die Kennzeichnung nach Absatz 1 Satz 1 gelten die Vorschriften des Anhanges II Kapitel 1 Nr. 1 Buchstabe d der Verordnung (EG) Nr. 1774/2002 entsprechend. Die Kennzeichnung muss bei der Verwendung von einmal zu verwendenden Behältnissen dauerhaft, bei der Verwendung von mehrmals zu verwendenden Behältnissen so angebracht sein, dass sie nicht leicht entfernt oder geändert werden kann. Soweit Verpackungen, Behälter oder Fahrzeuge nicht vollständig farblich gekennzeichnet sind, sind Aufdrucke, Schilder oder Aufkleber zu verwenden, die den Vorgaben des Anhanges II Kapitel 1 Nr. 1 Buchstabe d der Verordnung (EG) Nr. 1774/2002 entsprechend gefärbt, deutlich sichtbar und, zumindest für die Dauer der Beförderung, an den Verpackungen, Behältern oder Fahrzeugen haltbar befestigt sind. Die Aufdrucke, Schilder oder Aufkleber können zusätzlich mit den Angaben nach Anhang II Kapitel 1 Nr. 2 Buchstabe a und b der Verordnung (EG) Nr. 1774/2002 versehen sein.
 
-
-## § 10 – Verarbeitungsmethoden
+# § 10 – Verarbeitungsmethoden
 
 (1) Material der Kategorie 1 sowie Material der Kategorie 2 mit Ausnahme von Milch der Kategorie 2, Kolostrum, Gülle und Magen- und Darminhalt, ist, soweit das Material nicht unmittelbar durch Verbrennen oder Mitverbrennen in einer nach den Vorgaben in Artikel 12 der Verordnung (EG) Nr. 1774/2002 zugelassenen Verbrennungsanlage oder Mitverbrennungsanlage beseitigt wird, nach der Verarbeitungsmethode 1 nach Anhang V Kapitel III der Verordnung (EG) Nr. 1774/2002 zu verarbeiten. Satz 1 ist nicht anzuwenden
 
@@ -576,8 +561,7 @@ Fahrzeuge, mit denen bereits gekennzeichnete Verpackungen oder Behälter beförd
 
 (2) Verarbeitetes Säugetiereiweiß aus Material der Kategorie 3, das ausschließlich zum Zweck der Verbrennung oder Mitverbrennung hergestellt wird, kann zusätzlich zur Verarbeitungsmethode 1 nach Anhang V Kapitel III der Verordnung (EG) Nr. 1774/2002 auch nach den Verarbeitungsmethoden 2 bis 5 oder 7 nach Anhang V Kapitel III der Verordnung (EG) Nr. 1774/2002 hergestellt werden. Für den Transport der Materialien zur Verbrennungsanlage oder Mitverbrennungsanlage gelten § 8 Abs. 2 und § 9 entsprechend.
 
-
-## § 11 – Anlagen zur Pasteurisierung
+# § 11 – Anlagen zur Pasteurisierung
 
 Anlagen zur Pasteurisierung von Material der Kategorie 3, die nicht Teil einer nach Artikel 15 in Verbindung mit Anhang VI Kapitel II der Verordnung (EG) Nr. 1774/2002 zugelassenen Biogas- oder Kompostierungsanlage sind, bedürfen der Zulassung durch die zuständige Behörde. Die Zulassung darf nur erteilt werden, wenn sichergestellt ist, dass
 
@@ -591,13 +575,11 @@ Anlagen zur Pasteurisierung von Material der Kategorie 3, die nicht Teil einer n
 
 (2) § 8 Abs. 1 Satz 1 und Satz 2 Nr. 1, Abs. 2 und § 9 gelten entsprechend.
 
-
-## § 12 – Verarbeitung von tierischen Nebenprodukten in einer Biogasanlage
+# § 12 – Verarbeitung von tierischen Nebenprodukten in einer Biogasanlage
 
 Tierische Nebenprodukte dürfen in einer Biogasanlage, die nach Artikel 15 Abs. 1 und 2 der Verordnung (EG) Nr. 1774/2002 zugelassen ist und nicht den §§ 14 und 15 unterfällt, nur verarbeitet werden, wenn der Betreiber der Biogasanlage sicherstellt, dass in die Anlage Material der Kategorie 3, das nach Anhang VI Kapitel II Buchstabe C Nr. 12 der Verordnung (EG) Nr. 1774/2002 zu pasteurisieren ist, nur verbracht wird, soweit es vor Einbringen in den Fermenter pasteurisiert worden ist oder eine Pasteurisierung des Fermentationsrückstandes erfolgt.
 
-
-## § 13 – Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden
+# § 13 – Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden
 
 (1) Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle der Kategorie 3 eingesetzt werden, bedürfen nicht der Zulassung nach Artikel 15 Abs. 1 und 2 der Verordnung (EG) Nr. 1774/2002. Der Betreiber der Anlage hat die Anlage nach § 26 durch die zuständige Behörde registrieren zu lassen. Der Betreiber der Anlage hat sicherzustellen, dass
 
@@ -609,15 +591,13 @@ Tierische Nebenprodukte dürfen in einer Biogasanlage, die nach Artikel 15 Abs. 
 
 (2) Der Betreiber der Anlage hat ferner sicherzustellen, dass die Anforderungen an die Prozessführung nach Anhang 2 Nummer 2.2.3.1 der Bioabfallverordnung und an die Prozessüberwachung nach Anhang 2 Nummer 2.2.3.4 der Bioabfallverordnung entsprechend eingehalten werden.
 
-
-## § 14 – Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+# § 14 – Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 
 (1) Biogasanlagen, in denen ausschließlich Küchen- und Speiseabfälle der Kategorie 3 zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum aus Betrieben, die keinen tierseuchenrechtlichen Maßregeln unterliegen, eingesetzt werden, bedürfen der Zulassung nach Artikel 15 Abs. 1 und 2 in Verbindung mit Anhang VI Kapitel II Buchstabe C Nr. 14 Abs. 1 Satz 2 der Verordnung (EG) Nr. 1774/2002. Der Betreiber der Anlage hat sicherzustellen, dass bereits fermentierte tierische Nebenprodukte nicht mit unfermentierten tierischen Nebenprodukten in Berührung kommen. § 13 Abs. 1 Satz 3 Nr. 2 und 3 gilt entsprechend.
 
 (2) Der Betreiber der Anlage hat ferner sicherzustellen, dass für die Küchen- und Speiseabfälle die Anforderungen an die Prozessführung nach Anhang 2 Nummer 2.2.3.1 der Bioabfallverordnung und an die Prozessüberwachung nach Anhang 2 Nummer 2.2.3.4 der Bioabfallverordnung entsprechend eingehalten werden.
 
-
-## § 15 – Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+# § 15 – Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 
 Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum aus Betrieben, die keinen tierseuchenrechtlichen Maßregeln unterliegen, eingesetzt werden, bedürfen der Zulassung nach Artikel 15 Abs. 1 und 2 in Verbindung mit Anhang VI Kapitel II Buchstabe C Nr. 14 Abs. 2 der Verordnung (EG) Nr. 1774/2002. Der Betreiber der Anlage hat sicherzustellen, dass bereits fermentierte tierische Nebenprodukte nicht mit unfermentierten tierischen Nebenprodukten in Berührung kommen. § 13 Abs. 1 Satz 3 Nr. 2 und 3 gilt entsprechend. Soweit ausschließlich
 
@@ -627,8 +607,7 @@ Biogasanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und
 
 hat der Betreiber der Anlage im Fall der Nummer 1 abweichend von Satz 3 und im Fall der Nummer 2 abweichend von Satz 2 und 3 sicherzustellen, dass die Anforderungen in Anhang VI Kapitel II Buchstabe B Nr. 5, 7, 9 und 10 der Verordnung (EG) Nr. 1774/2002 eingehalten werden.
 
-
-## § 16 – Verarbeitung von tierischen Nebenprodukten in einer Kompostierungsanlage
+# § 16 – Verarbeitung von tierischen Nebenprodukten in einer Kompostierungsanlage
 
 Tierische Nebenprodukte dürfen in eine Kompostierungsanlage, die nicht den §§ 17 bis 19 unterfällt, nur verbracht werden, wenn
 
@@ -642,8 +621,7 @@ b) die Kompostierungsanlage so betrieben wird, dass im Verlauf der Kompostierung
 
 c) ausreichende Maßnahmen zur Bekämpfung von Ungeziefer getroffen werden.
 
-
-## § 17 – Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden
+# § 17 – Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle eingesetzt werden
 
 (1) Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle der Kategorie 3 eingesetzt werden, bedürfen nicht der Zulassung nach Artikel 15 Abs. 1 und 2 der Verordnung (EG) Nr. 1774/2002. Der Betreiber der Anlage hat die Anlage nach § 26 durch die zuständige Behörde registrieren zu lassen. Der Betreiber der Anlage hat sicherzustellen, dass
 
@@ -657,15 +635,13 @@ c) ausreichende Maßnahmen zur Bekämpfung von Ungeziefer getroffen werden.
 
 (3) Nicht pasteurisierte Küchen- und Speiseabfälle dürfen nur verarbeitet werden, wenn die Kompostierungsanlage als geschlossener Kompostierreaktor betrieben wird.
 
-
-## § 18 – Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+# § 18 – Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 
 (1) Kompostierungsanlagen, in denen ausschließlich Küchen- und Speiseabfälle der Kategorie 3 zusammen mit Gülle, Magen- und Darminhalt, Milch und Kolostrum aus Betrieben, die keinen tierseuchenrechtlichen Maßregeln unterliegen, eingesetzt werden, bedürfen der Zulassung nach Artikel 15 Abs. 1 und 2 in Verbindung mit Anhang VI Kapitel II Buchstabe C Nr. 14 Abs. 1 Satz 2 der Verordnung (EG) Nr. 1774/2002. Der Betreiber der Anlage hat sicherzustellen, dass bereits kompostierte tierische Nebenprodukte nicht mit nicht kompostierten tierischen Nebenprodukten in Berührung kommen. § 17 Abs. 1 Satz 3 Nr. 2 und 3 und Abs. 3 gilt entsprechend.
 
 (2) Der Betreiber der Anlage hat ferner sicherzustellen, dass die Anforderungen an die Prozessführung nach Anhang 2 Nummer 2.2.2.1 der Bioabfallverordnung und an die Prozessüberwachung nach Anhang 2 Nummer 2.2.2.3 der Bioabfallverordnung entsprechend eingehalten werden.
 
-
-## § 19 – Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
+# § 19 – Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum eingesetzt werden
 
 Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, Milch und Kolostrum aus Betrieben, die keinen tierseuchenrechtlichen Maßregeln unterliegen, eingesetzt werden, bedürfen der Zulassung nach Artikel 15 Abs.1 und 2 in Verbindung mit Anhang VI Kapitel II Buchstabe C Nr. 14 Abs. 2 der Verordnung (EG) Nr. 1774/2002. Der Betreiber der Anlage hat sicherzustellen, dass bereits kompostierte tierische Nebenprodukte nicht mit nicht kompostierten tierischen Nebenprodukten in Berührung kommen. § 17 Abs. 1 Satz 3 Nr. 2 und 3 gilt entsprechend. Soweit ausschließlich
 
@@ -675,15 +651,13 @@ Kompostierungsanlagen, in denen ausschließlich Gülle, Magen- und Darminhalt, M
 
 hat der Betreiber der Anlage im Fall der Nummer 1 abweichend von Satz 3 und im Fall der Nummer 2 abweichend von Satz 2 und 3 sicherzustellen, dass die Anforderungen in Anhang VI Kapitel II Buchstabe B Nr. 5, 7, 9 und 10 der Verordnung (EG) Nr. 1774/2002 eingehalten werden.
 
-
-## § 20 – Gemeinsame Anforderungen an Biogas- und Kompostierungsanlagen
+# § 20 – Gemeinsame Anforderungen an Biogas- und Kompostierungsanlagen
 
 (1) Verarbeitete Gülle aus einer nach Artikel 15 Abs. 1 und 2 der Verordnung (EG) Nr. 1774/2002 zugelassenen Biogas- oder Kompostierungsanlage darf nur in den Verkehr gebracht werden, soweit zusätzlich zu den für die jeweilige Anlage geltenden Vorschriften die Anforderungen des Anhangs VIII Kapitel III Abschnitt II Buchstabe A Nr. 5 der Verordnung (EG) Nr. 1774/2002 erfüllt sind. Die Anforderungen nach Anhang VI Kapitel II Buchstabe D Nr. 15 der Verordnung (EG) Nr. 1774/2002 sind nicht anzuwenden.
 
 (2) Der Betreiber einer Biogas- oder Kompostierungsanlage hat die Messgeräte in regelmäßigen Abständen, mindestens einmal pro Jahr, zu kalibrieren oder kalibrieren zu lassen. Die Kalibrierung ist aufzuzeichnen. Die Aufzeichnungen sind mindestens zwei Jahre, beginnend mit dem Tag der jeweiligen Aufzeichnung, aufzubewahren.
 
-
-## § 21 – Untersuchungen und Probenahme in Biogas- und Kompostierungsanlagen
+# § 21 – Untersuchungen und Probenahme in Biogas- und Kompostierungsanlagen
 
 (1) Der Betreiber einer Biogas- oder Kompostierungsanlage hat Proben von Fermentationsrückständen oder Komposten aus Anlagen nach den §§ 12 und 16 dieser Verordnung auf Escherichia Coli oder Enterokokken untersuchen zu lassen. Die Probenahme erfolgt unmittelbar nach der Pasteurisierungs- oder Hygienisierungseinheit oder nach dem Pasteurisierungs- oder Hygienisierungsprozess und ist nach Anlage 3 dieser Verordnung durchzuführen. Die Anzahl der zu untersuchenden Endproben errechnet sich aus der Quadratwurzel der Anzahl der innerhalb eines Jahres pasteurisierten oder hygienisierten Chargen, aufgerundet auf ganze Zahlen, jedoch nicht mehr als 20 Endproben pro Jahr. Die Untersuchungen sollen gleichmäßig über das Jahr verteilt erfolgen. Soweit erforderlich, kann die zuständige Behörde im Einzelfall die Anzahl der zu untersuchenden Endproben abweichend von Satz 3 festlegen. Die zuständige Behörde kann für Betreiber von Biogas- oder Kompostierungsanlagen, die Mitglied eines Trägers einer regelmäßigen Güteüberwachung (Gütegemeinschaft) sind, der eine kontinuierliche Gütesicherung nachweist, die Anzahl der Untersuchungen auf maximal zwölf Endproben pro Jahr reduzieren; Satz 4 gilt entsprechend.
 
@@ -701,13 +675,11 @@ Im Fall des Satzes 1 Nr. 1 gilt Absatz 1 Satz 2 bis 6 entsprechend. Die Proben m
 
 (5) Die nach den Absätzen 1, 3 und 4 vorgeschriebenen Untersuchungen sind durch eine von der zuständigen Behörde bestimmte Stelle durchzuführen.
 
-
-## § 22 – Untersuchungen und Probenahme in Anlagen zur Pasteurisierung
+# § 22 – Untersuchungen und Probenahme in Anlagen zur Pasteurisierung
 
 Der Betreiber einer Anlage zur Pasteurisierung hat Proben der pasteurisierten tierischen Materialien auf Escherichia Coli oder Enterokokken untersuchen zu lassen. Für die Probenahme und die Durchführung der Untersuchungen gilt § 21 Abs. 1 Satz 2 bis 5 und Abs. 2 entsprechend. Die vorgeschriebenen Untersuchungen sind durch eine von der zuständigen Behörde bestimmte Stelle durchzuführen.
 
-
-## § 23 – Verwertung von Fermentationsrückständen und Komposten
+# § 23 – Verwertung von Fermentationsrückständen und Komposten
 
 (1) Fermentationsrückstände und Komposte, die tierische Nebenprodukte und verarbeitete Erzeugnisse enthalten, dürfen auf landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzte Böden nur aufgebracht werden, soweit keine anderen tierischen Nebenprodukte als die in Anlage 4 genannten als Ausgangsmaterial verarbeitet worden sind.
 
@@ -719,20 +691,17 @@ Der Betreiber einer Anlage zur Pasteurisierung hat Proben der pasteurisierten ti
 
 (5) Für Fermentationsrückstände und Komposte aus Anlagen nach den §§ 13 und 17 gilt Absatz 3 mit der Maßgabe entsprechend, dass Fermentationsrückstände und Komposte nach Satz 1 nur dann auf Weideland ausgebracht werden dürfen, soweit zuvor auf das auszubringende Material eine Temperatur von mindestens 70 Grad Celsius über mindestens 60 Minuten eingewirkt hat.
 
-
-## § 24 – Verbrennungsanlagen
+# § 24 – Verbrennungsanlagen
 
 (1) Rückstände aus Anlagen, die nach Artikel 12 Abs. 1 in Verbindung mit Abs. 2 oder 3 der Verordnung (EG) Nr. 1774/2002 zugelassen sind und in denen ausschließlich ganze Tierkörper verbrannt oder mitverbrannt werden, sind nach den Vorschriften des Kreislaufwirtschaftsgesetzes und der auf Grund des Kreislaufwirtschaftsgesetzes oder des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen zu verwerten oder zu beseitigen.
 
 (2) Anlagen, in denen tierische Nebenprodukte oder verarbeitete Erzeugnisse verbrannt oder mitverbrannt werden, müssen die Anforderungen der Siebzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes erfüllen. § 19 der Siebzehnten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes gilt entsprechend. Satz 1 gilt nicht für die Verbrennung oder Mitverbrennung von ganzen Tierkörpern, soweit diese in Anlagen nach Artikel 12 Abs. 1 in Verbindung mit Abs. 2 oder 3 der Verordnung (EG) Nr. 1774/2002 verbrannt oder mitverbrannt werden.
 
-
-## § 25 – Ablagerung auf Deponien
+# § 25 – Ablagerung auf Deponien
 
 Bei einer Ablagerung von tierischen Nebenprodukten oder verarbeiteten Erzeugnissen auf einer Deponie finden die für die Ablagerung von Abfällen geltenden Bestimmungen des Kreislaufwirtschaftsgesetzes und die auf Grundlage des Kreislaufwirtschaftsgesetzes oder des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen Anwendung. Die Bestimmungen der Verordnung (EG) Nr. 811/2003 der Kommission vom 12. Mai 2003 zur Durchführung der Verordnung (EG) Nr. 1774/2002 des Europäischen Parlaments und des Rates hinsichtlich des Verbots der Rückführung innerhalb derselben Tierart in Bezug auf Fisch sowie hinsichtlich des Verbrennens und Vergrabens tierischer Nebenprodukte und bestimmter Übergangsmaßnahmen (ABl. EU Nr. L 117 S. 14) bleiben unberührt.
 
-
-## § 26 – Registrierung und Bekanntmachung der Zulassungen
+# § 26 – Registrierung und Bekanntmachung der Zulassungen
 
 (1) Die zuständige Behörde erfasst die nach
 
@@ -746,8 +715,7 @@ in einem Register. Die Zulassungsnummer und die Registriernummer sind elfstellig
 
 (3) Das Bundesministerium gibt die zugelassenen und registrierten Betriebe unter Angabe der erteilten Zulassungs- und Registriernummer im Bundesanzeiger bekannt.
 
-
-## § 27 – Ausnahmen
+# § 27 – Ausnahmen
 
 (1) Die zuständige Behörde kann Ausnahmen von Artikel 6 Abs. 2 der Verordnung (EG) Nr. 1774/2002 im Hinblick auf Blut genehmigen, das zu Forschungszwecken oder zu Ausbildungszwecken für Jagdhunde verwendet wird.
 
@@ -757,8 +725,7 @@ in einem Register. Die Zulassungsnummer und die Registriernummer sind elfstellig
 
 (4) Für die Sammlung, Beförderung, Verarbeitung, Verwendung und Lagerung von Milch, Erzeugnissen auf Milchbasis und aus Milch gewonnenen Erzeugnissen der Kategorie 3 im Sinne des Artikels 6 Abs. 1 Buchstabe e, f und g der Verordnung (EG) Nr. 1774/2002 gelten die Bestimmungen der Verordnung (EG) Nr. 79/2005 der Kommission vom 19. Januar 2005 zur Durchführung der Verordnung (EG) Nr. 1774/2002 des Europäischen Parlaments und des Rates hinsichtlich der Verwendung von Milch, Erzeugnissen auf Milchbasis und aus Milch gewonnenen Erzeugnissen, die in der genannten Verordnung als Material der Kategorie 3 definiert sind (ABl. EU Nr. L 16 S. 46) in der jeweils geltenden Fassung.
 
-
-## § 28 – Ordnungswidrigkeiten
+# § 28 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 14 Abs. 1 Nr. 8 des Tierische Nebenprodukte-Beseitigungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -772,8 +739,7 @@ in einem Register. Die Zulassungsnummer und die Registriernummer sind elfstellig
 
 5. entgegen § 5 Abs. 1 Satz 2 nicht sicherstellt, dass Nutztiere nicht mit den dort genannten Nebenprodukten, Erzeugnissen und dort genannten Düngemitteln in Berührung kommen,
 
-5a.  
-(weggefallen)
+5a. (weggefallen)
 
 6. entgegen § 7 eine Anzeige nicht, nicht richtig oder nicht vollständig erstattet,
 
@@ -781,8 +747,7 @@ in einem Register. Die Zulassungsnummer und die Registriernummer sind elfstellig
 
 8. entgegen § 9 Abs. 1 Satz 1, auch in Verbindung mit § 4 Abs. 5 oder § 11 Abs. 2, nicht sicherstellt, dass tierische Nebenprodukte, verarbeitete Erzeugnisse, Küchen- und Speiseabfälle und pasteurisiertes Material von einem Handelspapier begleitet werden,
 
-8a.  
-entgegen § 9a Absatz 1 Satz 1 in Verbindung mit Absatz 2 Satz 1 und 3 nicht sicherstellt, dass Verpackungen, Behälter oder Fahrzeuge richtig und vollständig gekennzeichnet sind,
+8a. entgegen § 9a Absatz 1 Satz 1 in Verbindung mit Absatz 2 Satz 1 und 3 nicht sicherstellt, dass Verpackungen, Behälter oder Fahrzeuge richtig und vollständig gekennzeichnet sind,
 
 9. entgegen § 10 Abs. 1 Satz 1 das dort genannte Material nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig verarbeitet,
 
@@ -824,18 +789,15 @@ c) § 17 Abs. 1 Satz 3 Nr. 2 oder 3, jeweils auch in Verbindung mit § 18 Abs. 1
 
 (3) Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe a des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 23 Abs. 1 einen Fermentationsrückstand oder einen Kompost aufbringt.
 
-
-## § 29 – Inkrafttreten
+# § 29 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 9 Abs. 1, 3 und 4)  Handelspapiere
+# Anlage 1 – (zu § 9 Abs. 1, 3 und 4)  Handelspapiere
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1746 - 1747
 
@@ -926,8 +888,7 @@ Angabe nur, soweit möglich.
 
 Im Fall von Tierkörpern Unterschrift nur, soweit möglich.
 
-
-## Anlage 2 – (zu § 9 Abs. 5)Muster für Aufzeichnungen
+# Anlage 2 – (zu § 9 Abs. 5)Muster für Aufzeichnungen
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1748;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1095,8 +1056,7 @@ Für Empfänger obligat.
 
 Zulassungsnummer oder Registriernummer des Herkunftsbetriebes bzw. Empfängerbetriebes; Zulassungs- oder Registriernummer des Beförderungsunternehmens.
 
-
-## Anlage 3 – (zu § 21 Abs. 1)  Probenahme
+# Anlage 3 – (zu § 21 Abs. 1)  Probenahme
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1749 - 1750)
 
@@ -1172,8 +1132,7 @@ d) Name und Unterschrift des Probenehmers.
 
 Eine Endprobe ist der mit der Untersuchung beauftragten Stelle von dem Probenehmer unverzüglich nach der Probenahme zum Zweck der Untersuchung zu übersenden. Eine zweite Endprobe ist dem Betrieb, in dem die Einzelproben entnommen worden sind, auf Verlangen zu überlassen.
 
-
-## Anlage 4 – (zu § 23 Abs. 1)  Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen zugelassenen tierischen Nebenprodukte, soweit die Fermentationsrückstände und Komposte aus den Anlagen zur Verwertung auf Böden bestimmt sind
+# Anlage 4 – (zu § 23 Abs. 1)  Liste der zur Verarbeitung in Biogas- und Kompostierungsanlagen zugelassenen tierischen Nebenprodukte, soweit die Fermentationsrückstände und Komposte aus den Anlagen zur Verwertung auf Böden bestimmt sind
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1751
 
@@ -1189,8 +1148,7 @@ d) sonstiges Material der Kategorie 2, das nach Verarbeitungsmethode 1 des Anhan
 
 2. Material der Kategorie 3 im Sinne des Artikels 6 Abs. 1 der Verordnung (EG) Nr. 1774/2002.
 
-
-## Anlage 5 – (zu § 26 Abs. 1)Nummernschlüssel für die Betriebsart
+# Anlage 5 – (zu § 26 Abs. 1)Nummernschlüssel für die Betriebsart
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1752;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

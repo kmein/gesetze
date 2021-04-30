@@ -1,10 +1,7 @@
-# [OlympiaMünz3Bek] Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (3. Motiv der Olympia-Münze - Ausgabe 1971)
-
-Ausfertigungsdatum: 19.11.1971
-
+% Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (3. Motiv der Olympia-Münze - Ausgabe 1971)
+% Ausfertigungsdatum: 19.11.1971
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympia-Münze vom 18. April 1969 (Bundesgesetzbl. I S. 305) wird aus Anlaß der Spiele der XX. Olympiade 1972 in München eine Bundesmünze im Nennwert von 10 Deutschen Mark (Olympia-Münze) geprägt.
 
@@ -35,13 +32,11 @@ und mit Ornamenten zwischen den Worten versehen.
 
 (8) Dies wird namens der Bundesregierung bekanntgegeben.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

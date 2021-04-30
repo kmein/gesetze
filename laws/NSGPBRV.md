@@ -1,15 +1,11 @@
-# [NSGPBRV] Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht – Rönnebank“   (NSGPBRV)
-
-Ausfertigungsdatum: 22.09.2017
-
+% Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht – Rönnebank“   (NSGPBRV)
+% Ausfertigungsdatum: 22.09.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56 Absatz 1, § 32 Absatz 2 und 3, § 20 Absatz 2, § 22 Absatz 1 sowie § 23 Absatz 1 und Absatz 2 Satz 1 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), von denen § 57 Absatz 2 durch Artikel 421 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Erklärung zum Naturschutzgebiet
+# § 1 – Erklärung zum Naturschutzgebiet
 
 Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels wird zum Naturschutzgebiet erklärt. Das Naturschutzgebiet erhält die Bezeichnung „Pommersche Bucht – Rönnebank“. Es ist Teil des zusammenhängenden europäischen ökologischen Netzes „Natura 2000“ und vereint die Gebiete
 
@@ -21,8 +17,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 4. „Pommersche Bucht“, als Europäisches Vogelschutzgebiet nach Artikel 3 Absatz 2 Buchstabe a der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7), die durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, registriert.
 
-
-## § 2 – Schutzgegenstand
+# § 2 – Schutzgegenstand
 
 (1) Das Naturschutzgebiet „Pommersche Bucht – Rönnebank“ hat eine Fläche von 2 092 Quadratkilometern und liegt östlich der Insel Rügen. Es reicht vom Nordrand des Adlergrundes südlich der Arkonasee bis zur seewärtigen Grenze des deutschen Küstenmeeres nördlich der Odermündung und umfasst die Oderbank als zentrale morphologische Struktur der Pommerschen Bucht. Im Norden trennen die Endmoränen der Rönnebank mit dem Adlergrund das Gebiet vom Arkonabecken.
 
@@ -40,8 +35,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 (8) Die Bestimmungen nach den Absätzen 2 bis 6 haben Vorrang gegenüber der Darstellung in der Übersichtskarte nach Anlage 2.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Die Unterschutzstellung des Meeresgebietes als Naturschutzgebiet dient der Verwirklichung der Erhaltungsziele der Natura 2000-Gebiete durch dauerhafte Bewahrung des Meeresgebietes, der Vielfalt seiner für diese Gebiete maßgeblichen Lebensräume, Lebensgemeinschaften und Arten sowie der besonderen Eigenart dieses durch die Oderbank, den Adlergrund, die Rönnebank sowie die Hangbereiche des Arkonabeckens geprägten Teils der Ostsee.
 
@@ -55,8 +49,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 4. der Funktion für die Vernetzung der benthischen Lebensgemeinschaften in der südlichen Ostsee.
 
-
-## § 4 – Schutzzweck des Bereiches I
+# § 4 – Schutzzweck des Bereiches I
 
 (1) Zu den im Bereich I des Naturschutzgebietes verfolgten Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die Wiederherstellung eines günstigen Erhaltungszustands
 
@@ -84,8 +77,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 4. der wesentlichen Nahrungsgrundlagen der Schweinswale, insbesondere der natürlichen Bestandsdichten, Altersklassenverteilungen und Verbreitungsmuster der den Schweinswalen als Nahrungsgrundlage dienenden Organismen.
 
-
-## § 5 – Schutzzweck des Bereiches II
+# § 5 – Schutzzweck des Bereiches II
 
 (1) Zu den im Bereich II des Naturschutzgebietes verfolgten Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die Wiederherstellung eines günstigen Erhaltungszustands
 
@@ -115,8 +107,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 4. der wesentlichen Nahrungsgrundlagen der in Absatz 1 Nummer 2 genannten Arten, insbesondere der natürlichen Bestandsdichten, Altersklassenverteilungen und Verbreitungsmuster der den in Absatz 1 Nummer 2 genannten Arten als Nahrungsgrundlage dienenden Organismen.
 
-
-## § 6 – Schutzzweck des Bereiches III
+# § 6 – Schutzzweck des Bereiches III
 
 (1) Zu den im Bereich III des Naturschutzgebietes verfolgten Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die Wiederherstellung eines günstigen Erhaltungszustands
 
@@ -150,8 +141,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 6. der Funktionsfähigkeit des Bereiches als Wanderkorridor und Nahrungsgebiet für den Stör.
 
-
-## § 7 – Schutzzweck des Bereiches IV
+# § 7 – Schutzzweck des Bereiches IV
 
 (1) Zu den im Bereich IV des Naturschutzgebietes verfolgten Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die Wiederherstellung eines günstigen Erhaltungszustands
 
@@ -197,8 +187,7 @@ i) Gryllteiste (Cepphus grylle, EU-Code A202), sowie
 
 4. der natürlichen Qualität der Lebensräume mit ihren jeweiligen artspezifischen ökologischen Funktionen, ihrer Unzerschnittenheit und räumlichen Wechselbeziehungen sowie des ungehinderten Zugangs zu angrenzenden und benachbarten Meeresbereichen.
 
-
-## § 8 – Verbote
+# § 8 – Verbote
 
 (1) Vorbehaltlich des § 9 sind verboten
 
@@ -224,8 +213,7 @@ i) Gryllteiste (Cepphus grylle, EU-Code A202), sowie
 
 3. Maßnahmen, die zur Erfüllung öffentlicher Aufgaben im Rahmen der Gefahrenabwehr, der Strafverfolgung, der Zollverwaltung, der Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs, der Strahlenschutzvorsorge, der Seevermessung, meereskundlicher Untersuchungen und Überwachungen, der Untersuchung und Überwachung von Einrichtungen und Anlagen einschließlich Voruntersuchungen, der Fischereiaufsicht und -datenerhebung zur Sicherung der Fischbestände, des Katastrophenschutzes, der Kampfmittelbeseitigung und der Unfallbekämpfung einschließlich des Seenotrettungswesens erforderlich sind; § 34 des Bundesnaturschutzgesetzes bleibt unberührt.
 
-
-## § 9 – Zulässigkeit von bestimmten Projekten und Plänen
+# § 9 – Zulässigkeit von bestimmten Projekten und Plänen
 
 (1) Projekte
 
@@ -261,15 +249,13 @@ gelten die Absätze 1 bis 3 entsprechend.
 
 (+++ § 9 Abs. 6 Satz 1: Zur Anwendung vgl. § 11 Abs. 6 +++)
 
-
-## § 10 – Ausnahmen und Befreiungen
+# § 10 – Ausnahmen und Befreiungen
 
 (1) Von den Verboten des § 8 Absatz 1 und 2 kann das Bundesamt für Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit die Handlung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes nicht zu erheblichen Beeinträchtigungen der für den Schutzzweck nach den §§ 4 bis 7 maßgeblichen Bestandteile des Gebietes führen kann.
 
 (2) Von den Verboten des § 8 Absatz 1 und 2 kann das Bundesamt für Naturschutz auf Antrag nach Maßgabe des § 67 des Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
-
-## § 11 – Bewirtschaftungsplan
+# § 11 – Bewirtschaftungsplan
 
 (1) Die zur Erreichung des Schutzzwecks nach den §§ 4 bis 7 notwendigen Maßnahmen einschließlich der erforderlichen Wiederherstellungsmaßnahmen werden in einem Bewirtschaftungsplan dargestellt. Der Plan kann auch die zur Erreichung des Schutzzwecks nach § 3 notwendigen Maßnahmen enthalten. Er bestimmt ferner die Kontrolle des Maßnahmenerfolgs.
 
@@ -283,8 +269,7 @@ gelten die Absätze 1 bis 3 entsprechend.
 
 (6) § 9 Absatz 6 Satz 1 findet keine Anwendung.
 
-
-## § 12 – Weitergehende Vorschriften
+# § 12 – Weitergehende Vorschriften
 
 Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zählen insbesondere
 
@@ -296,13 +281,11 @@ Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zäh
 
 4. die Vorschrift des § 329 Absatz 4 des Strafgesetzbuches.
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht“ vom 15. September 2005 (BGBl. I S. 2778), die zuletzt durch Artikel 2 Absatz 110 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 2 Absatz 2 und 5)
+# Anlage 1 – (zu § 2 Absatz 2 und 5)
 
 (Fundstelle: BGBl. I 2017, 3421)
 
@@ -350,8 +333,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 | PBR9 | 54° 43' 18,0" N | 14° 08' 30,0" E |
 | PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |
 
-
-## Anlage 2 – (zu § 2 Absatz 7)Übersichtskarte des Naturschutzgebietes
+# Anlage 2 – (zu § 2 Absatz 7)Übersichtskarte des Naturschutzgebietes
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 63 v. 27.9.2017)
 

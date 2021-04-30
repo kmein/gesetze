@@ -1,15 +1,11 @@
-# [CorSurV] Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2  (Coronavirus-Surveillanceverordnung - CorSurV)
-
-Ausfertigungsdatum: 08.04.2020
-
+% Verordnung zur molekulargenetischen Surveillance des Coronavirus SARS-CoV-2  (Coronavirus-Surveillanceverordnung - CorSurV)
+% Ausfertigungsdatum: 08.04.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13 Absatz 4 Satz 2 und 3 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), dessen Absatz 4 Satz 2 zuletzt durch Artikel 1 Nummer 10 Buchstabe b des Gesetzes vom 18. November 2020 (BGBl. I S. 2397) neu gefasst worden ist und dessen Absatz 4 Satz 3 durch Artikel 1 Nummer 10 Buchstabe b Doppelbuchstabe aa des Gesetzes vom 19. Mai 2020 (BGBl. I S. 1018) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Pflicht zur Datenübermittlung
+# § 1 – Pflicht zur Datenübermittlung
 
 (1) Laboratorien und die in § 23 Absatz 3 Satz 1 des Infektionsschutzgesetzes genannten Einrichtungen, die in der Bundesrepublik Deutschland Untersuchungsmaterial und Isolate von Krankheitserregern in Bezug auf das Coronavirus SARS-CoV-2 untersuchen und eine Vollgenomsequenzierung des Coronavirus SARS-CoV-2 durchführen (Untersuchungsstellen), sind verpflichtet, für jeden einzelnen Fall einer Vollgenomsequenzierung folgende Angaben zum Zweck der Überwachung der Verbreitung des Coronavirus SARS-CoV-2 (Coronavirussurveillance) in pseudonymisierter Form an das Robert Koch-Institut zu übermitteln:
 
@@ -35,8 +31,7 @@ Untersuchungsstellen müssen zur Durchführung einer Vollgenomsequenzierung inkl
 
 (3) Die Informationen nach Absatz 1 Satz 1 und 2 sind innerhalb von 10 Tagen nach erfolgtem Nukleinsäureamplifikationsnachweis oder nach erfolgter Einsendung der Probe nach § 2 Absatz 2 Satz 1 zu übermitteln.
 
-
-## § 2 – Kostenerstattung
+# § 2 – Kostenerstattung
 
 (1) Die Untersuchungsstellen haben Anspruch auf eine Vergütung für die Übermittlung von Angaben nach § 1 Absatz 1 Satz 1 und 2. Die Vergütung beträgt 220 Euro für jede Übermittlung von Angaben zu einer durchgeführten Vollgenomsequenzierung. Sofern die Vollgenomsequenzierung bereits aus anderen Mitteln vergütet wird, beträgt die Vergütung in Abweichung von Satz 2 20 Euro. Hinsichtlich der Proben, die von der jeweiligen Untersuchungsstelle selbst im Rahmen der Diagnostik mittels Nukleinsäureamplifikationstechnik in Bezug auf das Coronavirus SARS-CoV-2 untersucht wurden, besteht der Anspruch nach Satz 1 höchstens in Bezug auf bis zu 5 Prozent der Proben, die von der Untersuchungsstelle in der jeweils vergangenen Kalenderwoche positiv getestet wurden. Wenn die Zahl der Neuinfektionen mit dem Coronavirus SARS-CoV-2 in der Bundesrepublik Deutschland in der Kalenderwoche vor Durchführung der Diagnostik 70 000 nicht überschritten hat, besteht der Anspruch nach Satz 1 in Abweichung von Satz 4 höchstens für bis zu 10 Prozent der Proben, die von der Untersuchungsstelle in der jeweils vergangenen Kalenderwoche positiv getestet wurden. Im Rahmen von durch Landesgesundheitsbehörden oder das Robert Koch-Institut durchgeführten oder unterstützten Ausbruchsuntersuchungen besteht der Anspruch auch über die in den Sätzen 4 und 5 genannte Anzahl von Übermittlungen hinaus.
 
@@ -58,8 +53,7 @@ Untersuchungsstellen müssen zur Durchführung einer Vollgenomsequenzierung inkl
 
 (6) Die Kassenärztlichen Vereinigungen erhalten für den Aufwand der Abrechnung der Vergütung der Untersuchungsstellen und der Versandkosten der Einsender nach den Absätzen 1 und 2 nach dieser Verordnung einen Verwaltungskostenersatz in Höhe von 0,7 Prozent des jeweiligen Gesamtbetrags der Abrechnungen. Für Untersuchungsstellen und Einsender, die nicht Mitglied einer Kassenärztlichen Vereinigung sind und noch keine Leistungen ihr gegenüber abgerechnet haben, erhalten die Kassenärztlichen Vereinigungen einen Verwaltungskostenersatz in Höhe von 3,5 Prozent des Gesamtbetrags der Abrechnungen.
 
-
-## § 3 – Verfahren für die Zahlung aus dem Bundeshaushalt
+# § 3 – Verfahren für die Zahlung aus dem Bundeshaushalt
 
 (1) Jede Kassenärztliche Vereinigung übermittelt monatlich folgende Angaben an das Bundesamt für Soziale Sicherung und an die jeweilige oberste Landesgesundheitsbehörde:
 
@@ -75,8 +69,7 @@ Sachliche oder rechnerische Fehler in den nach Satz 1 übermittelten Angaben sin
 
 (4) Das Bundesamt für Soziale Sicherung übermittelt dem Bundesministerium für Gesundheit unverzüglich nach Vornahme der Zahlungen nach Absatz 1 Satz 3 eine Aufstellung der an die Kassenärztlichen Vereinigungen ausgezahlten Beträge.
 
-
-## § 4 – Transparenz
+# § 4 – Transparenz
 
 Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit jeden Monat über die Kassenärztliche Bundesvereinigung folgende Angaben zu übermitteln:
 
@@ -84,12 +77,10 @@ Die Kassenärztlichen Vereinigungen haben dem Bundesministerium für Gesundheit 
 
 2. die Höhe der Verwaltungskosten nach § 2 Absatz 6.
 
-
-## § 5 – Evaluierung
+# § 5 – Evaluierung
 
 Diese Verordnung wird insbesondere auf der Grundlage der aktuellen epidemiologischen Erkenntnisse laufend evaluiert.
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 19. Januar 2021 in Kraft und sie tritt am 31. Oktober 2021 außer Kraft. Eine Datenübermittlung gemäß § 1 Absatz 1 an das Robert Koch-Institut ist letztmalig zum 31. Juli 2021 zulässig.

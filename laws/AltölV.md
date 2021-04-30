@@ -1,10 +1,7 @@
-# [AltölV] Altölverordnung  (AltölV)
-
-Ausfertigungsdatum: 27.10.1987
-
+% Altölverordnung  (AltölV)
+% Ausfertigungsdatum: 27.10.1987
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -26,8 +23,7 @@ von Altöl.
 
 (3) Diese Verordnung gilt nicht für PCB/PCT-haltiges Altöl, das zugleich PCB nach § 1 Absatz 2 Nummer 2 der PCB/PCT-Abfallverordnung ist und nach den Vorschriften dieser Verordnung zu beseitigen ist.
 
-
-## § 1a – Definitionen
+# § 1a – Definitionen
 
 (1) Altöle im Sinne dieser Verordnung sind Öle, die als Abfall anfallen und die ganz oder teilweise aus Mineralöl, synthetischem oder biogenem Öl bestehen.
 
@@ -52,20 +48,17 @@ von Altöl.
 
 (4) PCB im Sinne dieser Verordnung sind die in § 1 Absatz 2 Nummer 1 der PCB/PCT-Abfallverordnung bezeichneten Stoffe.
 
-
-## § 2 – Vorrang der Aufbereitung
+# § 2 – Vorrang der Aufbereitung
 
 (1) Die stoffliche Verwertung von Altölen hat Vorrang vor der energetischen Verwertung und der Beseitigung, soweit dies technisch möglich und wirtschaftlich zumutbar ist. Im Rahmen der stofflichen Verwertung hat die Aufbereitung Vorrang vor alternativ in Frage kommenden Recyclingverfahren nach Maßgabe von § 6 Absatz 2 des Kreislaufwirtschaftsgesetzes.
 
 (2) Altöle der Sammelkategorie 1 der Anlage 1 sind zur Aufbereitung geeignet.
 
-
-## § 3 – Grenzwerte
+# § 3 – Grenzwerte
 
 Altöle dürfen nicht stofflich verwertet werden, wenn sie mehr als 20 mg PCB/kg, ermittelt nach den in Anlage 2 Abschnitt 2 festgelegten Untersuchungsverfahren, oder mehr als 2 g Gesamthalogen/kg nach einem der in Anlage 2 Abschnitt 3 festgelegten Untersuchungsverfahren enthalten. Dies gilt nicht, wenn diese Schadstoffe durch stoffliche Verwertung zerstört werden oder zumindest die Konzentration dieser Schadstoffe in den Produkten der stofflichen Verwertung unterhalb der in Satz 1 genannten Grenzwerte liegt.
 
-
-## § 4 – Getrennte Entsorgung, Vermischungsverbote
+# § 4 – Getrennte Entsorgung, Vermischungsverbote
 
 (1) Es ist verboten, Altöle im Sinne des § 1a Absatz 1 mit anderen Abfällen zu vermischen.
 
@@ -81,8 +74,7 @@ Altöle dürfen nicht stofflich verwertet werden, wenn sie mehr als 20 mg PCB/kg
 
 (7) § 30 der Nachweisverordnung findet entsprechende Anwendung.
 
-
-## § 5 – Entnahme, Untersuchung und Aufbewahrung von Proben
+# § 5 – Entnahme, Untersuchung und Aufbewahrung von Proben
 
 (1) Unternehmen der Altölsammlung haben bei der Übernahme von Altölen der Sammelkategorien 1 und 2 eine Probe zu entnehmen. Je eine Teilmenge dieser Probe (Rückstellprobe) ist von der Anfallstelle und vom Unternehmen der Altölsammlung aufzubewahren, bis die nach Absatz 2 vorgeschriebene Untersuchung durchgeführt worden ist und feststeht, dass die Altöle ordnungsgemäß entsorgt werden können.
 
@@ -92,8 +84,7 @@ Altöle dürfen nicht stofflich verwertet werden, wenn sie mehr als 20 mg PCB/kg
 
 (4) Ergibt die Untersuchung nach Absatz 2, dass die Grenzwerte nach § 3 Satz 1 überschritten sind, hat der nach Absatz 2 Satz 1 Untersuchungspflichtige die für das Unternehmen des Altölsammlers zuständige Behörde unverzüglich zu unterrichten. Die nach Absatz 1 Satz 2 und Absatz 3 Satz 2 zur Aufbewahrung von Rückstellproben Verpflichteten haben die Rückstellproben der zuständigen Behörde auf Verlangen zu überlassen.
 
-
-## § 6 – Ergänzende Erklärungen zur Nachweisführung
+# § 6 – Ergänzende Erklärungen zur Nachweisführung
 
 (1) Wer Altöle
 
@@ -113,15 +104,13 @@ hat gleichzeitig mit der Abgabe oder vor der Verbringung eine Erklärung nach de
 
 (6) Für die Abgabe der ergänzenden Erklärungen zur Nachweisführung nach Absatz 4 Satz 1 und 2 und Absatz 5 finden die Bestimmungen der Nachweisverordnung zur elektronischen Führung von Nachweisen entsprechende Anwendung, einschließlich des § 30 der Nachweisverordnung.
 
-
-## § 7 – Kennzeichnung der Gebinde
+# § 7 – Kennzeichnung der Gebinde
 
 Verbrennungsmotoren- oder Getriebeöle dürfen in Gebinden nur in Verkehr gebracht werden, wenn sie durch Aufdruck oder Aufkleber folgendermaßen gekennzeichnet sind:  
   
 "Dieses Öl gehört nach Gebrauch in eine Altölannahmestelle! Unsachgemäße Beseitigung von Altöl gefährdet die Umwelt! Jede Beimischung von Fremdstoffen wie Lösemitteln, Benzin, Brems- und Kühlflüssigkeiten ist verboten."
 
-
-## § 8 – Altölannahmestelle bei Abgabe an Endverbraucher
+# § 8 – Altölannahmestelle bei Abgabe an Endverbraucher
 
 (1) Wer gewerbsmäßig Verbrennungsmotoren- oder Getriebeöl an Endverbraucher abgibt, hat vor einer Abgabe eine Annahmestelle nach Absatz 2 für solche gebrauchten Öle einzurichten oder eine solche durch entsprechende vertragliche Vereinbarung nachzuweisen. Bei der Abgabe an private Endverbraucher ist durch leicht erkennbare und lesbare Schrifttafeln am Ort des Verkaufs auf die Annahmestelle nach Absatz 2 hinzuweisen.
 
@@ -133,15 +122,13 @@ Verbrennungsmotoren- oder Getriebeöle dürfen in Gebinden nur in Verkehr gebrac
 
 (5) Die Absätze 1 bis 4 gelten entsprechend, wenn für den gewerbsmäßigen Verkauf von Verbrennungsmotoren- und Getriebeölen an Endverbraucher Fernkommunikationsmittel verwendet werden.
 
-
-## § 9 – Ausnahmen für gewerbliche Endverbraucher, Schiffahrt
+# § 9 – Ausnahmen für gewerbliche Endverbraucher, Schiffahrt
 
 (1) Soweit gewerbliche oder sonstige wirtschaftliche Unternehmen oder öffentliche Einrichtungen Verbrennungsmotoren- oder Getriebeöle unmittelbar beim Hersteller oder Mineralölhandel erwerben, muss die Annahmestelle nicht am Verkaufsort oder in dessen Nähe eingerichtet oder nachgewiesen werden. Der Verkäufer kann sich zur Erfüllung seiner Annahmeverpflichtung Dritter bedienen.
 
 (2) Für den Bereich der Binnenschiffahrt und der Seeschifffahrt gilt die Annahmeverpflichtung des Verkäufers als erfüllt, wenn der Käufer die Einrichtungen der Bilgenentölung oder die Auffanganlagen gemäß des Internationalen Übereinkommens zur Verhütung der Meeresverschmutzung durch den Schiffsbetrieb (MARPOL) in Anspruch nimmt.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -163,21 +150,17 @@ Verbrennungsmotoren- oder Getriebeöle dürfen in Gebinden nur in Verkehr gebrac
 
 2. entgegen § 7 Verbrennungsmotorenöle oder Getriebeöle in Gebinden in den Verkehr bringt.
 
+# § 11 – (weggefallen)
 
-## § 11 – (weggefallen)
-
-
-## §§ 12 und 13 – (weggefallen)
+# §§ 12 und 13 – (weggefallen)
 
 \-
 
-
-## § 14
+# § 14
 
 (Inkrafttreten)
 
-
-## Anlage 1 – (zu § 2 Abs. 2 und § 4 Abs. 3 und 6)Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
+# Anlage 1 – (zu § 2 Abs. 2 und § 4 Abs. 3 und 6)Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1372)
 
@@ -280,8 +263,7 @@ andere Isolier- und Wärmeübertragungsöle
 
 Heizöl und Diesel
 
-
-## Anlage 2 – (zu § 5 Abs. 3)Probenahme und Untersuchung von Altöl
+# Anlage 2 – (zu § 5 Abs. 3)Probenahme und Untersuchung von Altöl
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1373 - 1374)
 
@@ -455,8 +437,7 @@ Die Untersuchungsstellen sind verpflichtet, die Verlässlichkeit der Analysenerg
 
 Die in den Abschnitten 1, 2 und 3 genannten Bekanntmachungen sachverständiger Stellen sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt. Die DIN-Normen sind in der Beuth-Verlag GmbH, Berlin und Köln erschienen.
 
-
-## Anlage 3 – (zu § 6 Abs. 1 und 2)Erklärung über die Entsorgung von Altölen
+# Anlage 3 – (zu § 6 Abs. 1 und 2)Erklärung über die Entsorgung von Altölen
 
 (Inhalt: nicht darstellbares Formblatt,  
 Fundstelle: BGBl. I 2002, 1375;  

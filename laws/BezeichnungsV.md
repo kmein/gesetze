@@ -1,20 +1,15 @@
-# [BezeichnungsV] Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz  (BezeichnungsV)
-
-Ausfertigungsdatum: 18.11.1971
-
+% Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz  (BezeichnungsV)
+% Ausfertigungsdatum: 18.11.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 59 Abs. 3 Satz 2 des Bundesausbildungsförderungsgesetzes vom 26. August 1971 (Bundesgesetzbl. I S. 1409) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Ausbildungsförderung wird nach Maßgabe des § 59 Abs. 3 des Gesetzes in Höhe des Förderungsbetrages geleistet, der durch einen am 30. September 1971 gültigen Bescheid auf Grund der in den §§ 2 bis 12 bezeichneten landesrechtlichen Vorschriften bewilligt worden ist.
 
-
-## § 2 – Baden-Württemberg
+# § 2 – Baden-Württemberg
 
 Für das Land Baden-Württemberg werden folgende Vorschriften bezeichnet:
 
@@ -34,8 +29,7 @@ Für das Land Baden-Württemberg werden folgende Vorschriften bezeichnet:
 
 8. Richtlinien für die Gewährung von Beihilfen und Darlehen für Studierende an den Universitäten des Landes und für Studierende aus Baden-Württemberg an wissenschaftlichen Hochschulen außerhalb des Landes, die nicht nach den Honnef-Richtlinien gefördert werden können (Härtefälle), gemäß Erlaß des Kultusministeriums Baden-Württemberg vom 28. März 1969 (H 1250/248).
 
-
-## § 3 – Bayern
+# § 3 – Bayern
 
 Für das Land Bayern werden folgende Vorschriften bezeichnet:  
 Im Vollzug der Artikel 2 Abs. 1, 8, 9 und 10 Abs. 4 des Bayerischen Begabtenförderungsgesetzes - BayBFG - in der Fassung der Bekanntmachung vom 21. Mai 1970 (Gesetz- und Verordnungsblatt S. 185), geändert durch Gesetz vom 27. Oktober 1970 (Gesetz- und Verordnungsblatt S. 495), in Verbindung mit der Verordnung zur Durchführung des Bayerischen Begabtenförderungsgesetzes vom 25. Juni 1970 (Gesetz- und Verordnungsblatt S. 266), geändert durch Verordnung vom 8. Dezember 1970 (Gesetz- und Verordnungsblatt S. 670), zur Förderung der Studierenden an
@@ -52,8 +46,7 @@ Im Vollzug der Artikel 2 Abs. 1, 8, 9 und 10 Abs. 4 des Bayerischen Begabtenför
 
 6. dem Süddeutschen Bibliothekarinstitut, soweit die Studierenden aus Bayern stammen, die 11. Bekanntmachung über den Vollzug des BayBFG vom 17. April 1969 (Amtsblatt des Bayer. Staatsministeriums für Unterricht und Kultus S. 579), zuletzt geändert durch die Ministerialentschließung vom 3. Dezember 1970 Nr. A 9 - 2/163802.
 
-
-## § 4 – Berlin
+# § 4 – Berlin
 
 Für das Land Berlin werden folgende Vorschriften bezeichnet:
 
@@ -61,20 +54,17 @@ Für das Land Berlin werden folgende Vorschriften bezeichnet:
 
 2. Richtlinien für die Förderung von Studenten der Pädagogischen Hochschule, der Staatlichen Hochschule für Musik und darstellende Kunst, der Staatlichen Hochschule für bildende Künste, der Fachhochschulen sowie der Fachbezogenen Akademie vom 14. Januar 1971 (Dienstblatt des Senats von Berlin Teil III, S. 25).
 
-
-## § 5 – Bremen
+# § 5 – Bremen
 
 Für das Land Bremen werden folgende Vorschriften bezeichnet:  
 Richtlinien für die Förderung der Studenten der Pädagogischen Hochschule, der Hochschule für Technik, der Hochschule für Wirtschaft, der Hochschule für Gestaltung, der Hochschule für Sozialpädagogik und Sozialökonomie und der Hochschule für Nautik der Freien Hansestadt Bremen vom 1. März 1970 (Bremer Schulblatt 860/1), geändert durch die Richtlinien vom 1. März 1971 (Bremer Schulblatt 860/3).
 
-
-## § 6 – Hamburg
+# § 6 – Hamburg
 
 Für das Land Hamburg wird folgende Vorschrift bezeichnet:  
 Richtlinien der Behörde für Wissenschaft und Kunst für die Förderung von Studenten an den Hamburger Hochschulen vom 23. Dezember 1970 (Amtlicher Anzeiger 1971 S. 1089).
 
-
-## § 7 – Hessen
+# § 7 – Hessen
 
 Für das Land Hessen werden folgende Vorschriften bezeichnet:
 
@@ -86,8 +76,7 @@ Für das Land Hessen werden folgende Vorschriften bezeichnet:
 
 4. Erlaß des Hessischen Kultusministers über die Förderung der Studierenden, soweit sie ihr Studium an bisher staatlich anerkannten privaten Bildungseinrichtungen der in § 44 des Fachhochschulgesetzes vom 15. Juli 1970 (Gesetz- und Verordnungsblatt Teil I S. 415) genannten Formen, die am 1. August 1971 nicht Fachhochschulen geworden sind, nach den bisherigen Vorschriften abschließen, vom 30. Mai 1969 (Staatsanzeiger für das Land Hessen S. 1196) in der Fassung des Erlasses vom 22. März 1971 (Staatsanzeiger für das Land Hessen S. 791).
 
-
-## § 8 – Niedersachsen
+# § 8 – Niedersachsen
 
 Für das Land Niedersachsen werden folgende Vorschriften bezeichnet:
 
@@ -105,8 +94,7 @@ Für das Land Niedersachsen werden folgende Vorschriften bezeichnet:
 
 4. Richtlinien für die Förderung der Studierenden an den Akademien und Höheren Fachschulen in Niedersachsen gemäß Runderlaß des Niedersächsischen Kultusministers vom 18. Januar 1971 (Niedersächsisches Ministerialblatt S. 819).
 
-
-## § 9 – Nordrhein-Westfalen
+# § 9 – Nordrhein-Westfalen
 
 Für das Land Nordrhein-Westfalen werden folgende Vorschriften bezeichnet:
 
@@ -122,8 +110,7 @@ Für das Land Nordrhein-Westfalen werden folgende Vorschriften bezeichnet:
 
 6. Richtlinien für die Förderung der Studenten der Bibliothekar-Lehrinstitute im Lande Nordrhein-Westfalen vom 10. September 1971 (I B 7 44-39 Nr. 01786/71).
 
-
-## § 10 – Rheinland-Pfalz
+# § 10 – Rheinland-Pfalz
 
 Für das Land Rheinland-Pfalz werden folgende Vorschriften bezeichnet:
 
@@ -135,8 +122,7 @@ Für das Land Rheinland-Pfalz werden folgende Vorschriften bezeichnet:
 
 4. Richtlinien für die freiwillige Förderung von Studierenden an Höheren Fachschulen für Sozialarbeit und Sozialpädagogik gemäß Runderlaß des Sozialministeriums vom 26. März 1970 (Ministerialblatt Sp. 271), geändert durch Runderlaß des Sozialministeriums vom 23. Dezember 1970 (Ministerialblatt 1971 Sp. 129).
 
-
-## § 11 – Saarland
+# § 11 – Saarland
 
 Für das Saarland werden folgende Vorschriften bezeichnet:
 
@@ -154,8 +140,7 @@ Für das Saarland werden folgende Vorschriften bezeichnet:
 
 7. Richtlinien für die Förderung von Studierenden der Staatl. Werkkunstschule Saarbrücken vom 20. Mai 1968 (Gemeinsames Ministerialblatt Nr. 2/1969), geändert durch Richtlinien vom 3. Februar 1970 (Gemeinsames Ministerialblatt Nr. 16/1970).
 
-
-## § 12 – Schleswig-Holstein
+# § 12 – Schleswig-Holstein
 
 Für das Land Schleswig-Holstein werden folgende Vorschriften bezeichnet:
 
@@ -165,8 +150,7 @@ Für das Land Schleswig-Holstein werden folgende Vorschriften bezeichnet:
 
 3. Richtlinien der "Darlehenskasse des Landes Schleswig-Holstein beim Studentenwerk Kiel" für die Vergabe von Bürgschaftsdarlehen an die Studenten der Pädagogischen Hochschulen und Fachhochschulen des Landes Schleswig-Holstein vom 6. April 1971 (Nachrichtenblatt des Kultusministers des Landes Schleswig-Holstein S. 208).
 
-
-## § 13 – Ausländervorbehalt
+# § 13 – Ausländervorbehalt
 
 Soweit die in den §§ 2 bis 12 bezeichneten Rechts- und Verwaltungsvorschriften Förderungsleistungen vorsehen für Personen, die nicht
 
@@ -178,12 +162,10 @@ Soweit die in den §§ 2 bis 12 bezeichneten Rechts- und Verwaltungsvorschriften
 
 sind, werden sie durch diese Verordnung nicht bezeichnet. Satz 1 gilt nicht, soweit die Vorschriften Leistungen für Studenten an wissenschaftlichen Hochschulen vorsehen.
 
-
-## § 14 – Berlin-Klausel
+# § 14 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1971 in Kraft.

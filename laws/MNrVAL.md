@@ -1,22 +1,17 @@
-# [MNrVAL] Verordnung über Vergabe und Zusammensetzung der Mitgliedsnummer in der Alterssicherung der Landwirte  (Mitgliedsnummerverordnung-Landwirtschaft - MNrVAL)
-
-Ausfertigungsdatum: 11.11.1996
-
+% Verordnung über Vergabe und Zusammensetzung der Mitgliedsnummer in der Alterssicherung der Landwirte  (Mitgliedsnummerverordnung-Landwirtschaft - MNrVAL)
+% Ausfertigungsdatum: 11.11.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 65 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890, 1891) verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Vergabe der Mitgliedsnummer
+# § 1 – Vergabe der Mitgliedsnummer
 
 (1) Die landwirtschaftliche Alterskasse vergibt an Versicherte, die bei ihr im Zeitpunkt der Vergabe versichert sind oder dort erstmalig versichert werden, eine Mitgliedsnummer, es sei denn, von einem anderen landwirtschaftlichen Sozialversicherungsträger ist bereits eine Mitgliedsnummer vergeben worden, die sich entsprechend § 2 zusammensetzt. Die landwirtschaftliche Alterskasse kann die Mitgliedsnummer für andere Personen vergeben, soweit dies zur Erfüllung der ihr durch Gesetz oder auf Grund eines Gesetzes zugewiesenen Aufgaben erforderlich ist. Ist bereits eine Mitgliedsnummer der Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft vergeben worden und ist diese Mitgliedsnummer entsprechend § 2 zusammengesetzt, hat die landwirtschaftliche Alterskasse diese zu übernehmen.
 
 (2) Eine Mitgliedsnummer wird nur einmal vergeben und nicht berichtigt. Ist die Mitgliedsnummer oder sind Bestandteile derselben unrichtig, erhält der Versicherte eine neue Mitgliedsnummer; die unrichtige Mitgliedsnummer ist nicht mehr zu verwenden. Eine Mitgliedsnummer ist auch dann nicht mehr zu verwenden, wenn sie an mehrere Versicherte vergeben worden ist. Ist an eine Person mehr als eine Mitgliedsnummer vergeben worden, sind alle bis auf eine als nicht mehr verwendbar zu kennzeichnen, wobei eine Verbindung zwischen den Mitgliedsnummern herzustellen ist.
 
-
-## § 2 – Zusammensetzung der Mitgliedsnummer
+# § 2 – Zusammensetzung der Mitgliedsnummer
 
 (1) Die Mitgliedsnummer setzt sich zusammen aus
 
@@ -32,18 +27,15 @@ Auf Grund des § 65 des Gesetzes über die Alterssicherung der Landwirte vom 29.
 
 (4) Die elfte Stelle der Mitgliedsnummer enthält die Prüfziffer. Sie wird gemäß der Anlage 2 berechnet.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – Bereichsnummern
+# Anlage 1 – Bereichsnummern
 
 (Fundstelle: BGBl. I 2012, 598)
 
@@ -96,8 +88,7 @@ Bereichsnummern für das Gebiet
 <table width="100%" style="border: none;"><tbody><tr class="odd"><td style="text-align: left;">Bereichsnummer für die Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft (bei Vorliegen der Voraussetzungen<br />
 des § 1 Absatz 1 Satz 3)</td><td style="text-align: right;">22</td></tr></tbody></table>
 
-
-## Anlage 2 – Prüfziffer
+# Anlage 2 – Prüfziffer
 
 (Fundstelle: BGBl. I 1996, 1725)
 

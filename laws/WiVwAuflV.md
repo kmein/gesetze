@@ -1,15 +1,11 @@
-# [WiVwAuflV] Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes
-
-Ausfertigungsdatum: 08.09.1950
-
+% Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes
+% Ausfertigungsdatum: 08.09.1950
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 130 des Grundgesetzes für die Bundesrepublik Deutschland verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Mit Wirkung vom 1. April 1950 werden folgende Verwaltungsstellen der Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
 
@@ -47,8 +43,7 @@ des Vereinigten Wirtschaftsgebietes
 
 9. Das Amt für Fragen der Heimatvertriebenen.
 
-
-## § 2
+# § 2
 
 (1) Die Befugnisse, die den in § 1 angeführten Verwaltungsstellen zustanden, die Geltendmachung der Ansprüche und die Erfüllung der Verpflichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes in ihrem Bereich übernimmt
 
@@ -92,8 +87,7 @@ Der Bundesminister für Vertriebene.
 
 § 2 Abs. 1 Nr. 9 Kursivdruck: Jetzt "Bundesminister des Innern" gem. Art. 1 G 1103-4 v. 18.3.1975 I 705 mWv 11.11.1969; gem. Art. 303 Nr. 1 Buchst. a V v. 29.10.2001 I 2785 mWv 7.11.2001 "Bundesministerium des Innern" § 2 Abs. 2: IdF d. Art. 303 Nr. 1 Buchst. a u. b V v. 29.10.2001 I 2785 mWv 7.11.2001
 
-
-## § 3
+# § 3
 
 (1) Folgende Behörden und Einrichtungen werden von der Auflösung gemäß § 1 nicht betroffen, sondern in die Verwaltung des Bundes überführt:
 
@@ -139,17 +133,14 @@ d) im Bereich des Bundesministeriums für Wirtschaft und Technologie:
 
 (2) Das zuständige Bundesministerium kann die bisherigen Bezeichnungen dieser Stellen ändern.
 
-
-## § 4
+# § 4
 
 Das Deutsche Patentamt im Vereinigten Wirtschaftsgebiet wird in die Verwaltung des Bundes überführt. Es führt die Bezeichnung "Deutsches Patentamt".
 
-
-## § 5
+# § 5
 
 Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird in die Verwaltung des Bundes überführt. Es führt die Bezeichnung "Statistisches Bundesamt".
 
-
-## § 6
+# § 6
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1950 in Kraft.

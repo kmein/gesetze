@@ -1,10 +1,7 @@
-# [Münz5EuroBek 2017-04-04] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Tropische Zone“)
-
-Ausfertigungsdatum: 04.04.2017
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Tropische Zone“)
+% Ausfertigungsdatum: 04.04.2017
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 5-Euro-Sammlermünze „Tropische Zone“ mit einem roten Kunststoffring prägen zu lassen. Die Münze bildet den Auftakt einer fünfteiligen Serie „Klimazonen der Erde“ (2017 – 2021, eine Ausgabe pro Jahr) und schließt damit thematisch an die innovative 5-Euro-Münze „Planet Erde“ an, die als weltweit erste Sammlermünze mit einem farbigen, lichtdurchlässigen Kunststoffring im April 2016 vom Bund herausgegeben wurde.
 
@@ -22,12 +19,10 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf der Münze stammt von der Künstlerin Stefanie Radtke aus Leipzig.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2017, 862)

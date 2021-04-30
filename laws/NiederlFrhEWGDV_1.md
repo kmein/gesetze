@@ -1,20 +1,15 @@
-# [NiederlFrhEWGDV 1] Erste Verordnung zur Durchführung von Richtlinien über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr in der Europäischen Wirtschaftsgemeinschaft  (1. DV Niederlassungsfreiheit EWG)
-
-Ausfertigungsdatum: 14.05.1971
-
+% Erste Verordnung zur Durchführung von Richtlinien über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr in der Europäischen Wirtschaftsgemeinschaft  (1. DV Niederlassungsfreiheit EWG)
+% Ausfertigungsdatum: 14.05.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels IV des Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr vom 13. August 1965 (Bundesgesetzbl. I S. 849) und auf Grund des § 2 des Zweiten Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr vom 14. Dezember 1970 (Bundesgesetzbl. I S. 1709) verordnet die Bundesregierung, nachdem der Entwurf dem Bundestag zur Kenntnisnahme zugeleitet worden ist, mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2
+# § 2
 
 Der Nachweis der Sachkunde, der Sachkenntnis oder der fachlichen Eignung ist für einen Ausländer, der Staatsangehöriger eines Mitgliedstaates der EWG ist, für
 
@@ -28,8 +23,7 @@ unter den in § 3 dieser Verordnung angegebenen Voraussetzungen als erbracht anz
 
 § 2 Nr. 1 Kursivdruck: Arzneimittelgesetz vom 16.5.1961 vgl. jetzt Arzneimittelgesetz v. 24.8.1976 I 2445
 
-
-## § 3
+# § 3
 
 (1) Der Nachweis der Sachkunde, der Sachkenntnis oder der fachlichen Eignung nach § 2 dieser Verordnung ist als erbracht anzusehen, wenn der Ausländer in einem anderen Mitgliedstaat der EWG eine entsprechende Tätigkeit wie folgt ausgeübt hat:
 
@@ -55,8 +49,7 @@ c) in leitender Stellung mit kaufmännischen Aufgaben und mit der Verantwortung 
 
 (5) Der Nachweis, daß die Voraussetzungen der Absätze 1 bis 4 erfüllt sind, ist vom Antragsteller durch eine Bescheinigung der zuständigen Stelle des Herkunftslandes zu erbringen.
 
-
-## § 4
+# § 4
 
 (1) Der Nachweis der Sachkunde ist für einen Ausländer, der Staatsangehöriger eines Mitgliedstaates der EWG ist, für die Herstellung von jodiertem Speisesalz (§ 11 Abs. 2 der Verordnung über diätetische Lebensmittel vom 20. Juni 1963, Bundesgesetzbl. I S. 415, zuletzt geändert durch die Dritte Änderungsverordnung vom 22. Dezember 1965, Bundesgesetzbl. I S. 2140) als erbracht anzusehen, wenn er diese Tätigkeit in einem anderen Mitgliedstaat nach Maßgabe folgender Voraussetzungen ausgeübt hat:
 
@@ -72,8 +65,7 @@ d) fünf Jahre ununterbrochen in leitender Stellung, davon mindestens drei Jahre
 
 (3) Die Voraussetzungen nach den Absätzen 1 und 2 werden durch eine Bescheinigung der zuständigen Stelle des Herkunftslandes nachgewiesen. In den Fällen des Absatzes 1 Buchstaben b und d muß die geleistete Ausbildung durch ein staatlich anerkanntes Zeugnis bestätigt oder von einer zuständigen Berufsinstitution als vollwertig anerkannt sein.
 
-
-## § 5
+# § 5
 
 (1) Die Bescheinigungen über eine Ausbildung oder Befähigung oder die Ausübung einer beruflichen Tätigkeit im Inland nach Artikel IV des Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr stellen aus
 
@@ -83,12 +75,10 @@ d) fünf Jahre ununterbrochen in leitender Stellung, davon mindestens drei Jahre
 
 (2) Übt der Antragsteller im Zeitpunkt seines Antrags auf Ausstellung der Bescheinigung keinen Beruf aus, so richtet sich die Zuständigkeit nach der von ihm zuletzt im Inland ausgeübten Tätigkeit.
 
-
-## § 6
+# § 6
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel V des Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr und in Verbindung mit § 5 des Zweiten Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr auch im Land Berlin.
 
-
-## § 7
+# § 7
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

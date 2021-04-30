@@ -1,20 +1,15 @@
-# [ADRG] Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
-
-Ausfertigungsdatum: 18.08.1969
-
+% Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
+% Ausfertigungsdatum: 18.08.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichneten Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) einschließlich der Anlagen in ihrer am 29. Juli 1968 geänderten Fassung wird zugestimmt. Das Übereinkommen wird nachstehend, die Anlagen A und B werden in einem Anlagenband veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Änderungen des Übereinkommens, die der Verwirklichung neuer technischer Erkenntnisse hinsichtlich der internationalen Beförderung gefährlicher Güter dienen oder die das anzuwendende technische oder verwaltungsmäßige Verfahren betreffen, sowie Änderungen der Anlagen des Übereinkommens durch Rechtsverordnung in Kraft zu setzen.
 
@@ -24,15 +19,13 @@ Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichne
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur erläßt mit Zustimmung des Bundesrates die zur Ausführung des Übereinkommens, dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften.
 
-
-## Art 3
+# Art 3
 
 (1) Ein Fahrzeug, das den Vorschriften des Übereinkommens nicht entspricht oder für das die nach dem Übereinkommen vorgeschriebenen Papiere nicht vorgelegt werden, kann bis zur Behebung des Mangels sichergestellt werden. Entsprechendes gilt für die Ladung.
 
 (2) In den Fällen des Absatzes 1 können die Grenzzollstellen und andere für die Kontrolle an der Grenze zuständige Stellen die Fahrzeuge zurückweisen.
 
-
-## Art 4
+# Art 4
 
 (1) Zuständig für die Ausführung des Übereinkommens sind
 
@@ -50,13 +43,11 @@ Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichne
 
 Art. 4 Abs. 1 Nr. 5 Kursivdruck: §§ 24 und 24c GewO aufgeh. durch Art. 2 Nr. 2, vgl. jetzt Art. 13 G v. 26.8.1992 I 1564
 
-
-## Art 5
+# Art 5
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art 6
+# Art 6
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

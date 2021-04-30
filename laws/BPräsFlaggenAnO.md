@@ -1,10 +1,7 @@
-# [BPräsFlaggenAnO] Anordnung des Bundespräsidenten über die Dienstflagge der Seestreitkräfte der Bundeswehr
-
-Ausfertigungsdatum: 25.05.1956
-
+% Anordnung des Bundespräsidenten über die Dienstflagge der Seestreitkräfte der Bundeswehr
+% Ausfertigungsdatum: 25.05.1956
  
-
-## ----
+# ----
 
 (1) Als Dienstflagge der Seestreitkräfte der Bundeswehr bestimme ich die Bundesdienstflagge in der Form eines Doppelstanders.
 

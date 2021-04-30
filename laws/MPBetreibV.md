@@ -1,10 +1,7 @@
-# [MPBetreibV] Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten  (Medizinprodukte-Betreiberverordnung - MPBetreibV)
-
-Ausfertigungsdatum: 29.06.1998
-
+% Verordnung über das Errichten, Betreiben und Anwenden von Medizinprodukten  (Medizinprodukte-Betreiberverordnung - MPBetreibV)
+% Ausfertigungsdatum: 29.06.1998
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Betreiben und Anwenden von Medizinprodukten im Sinne des Medizinproduktegesetzes einschließlich der damit zusammenhängenden Tätigkeiten.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (3) Die Vorschriften des Arbeitsschutzgesetzes sowie die Rechtsvorschriften, die aufgrund des Arbeitsschutzgesetzes erlassen wurden, sowie Unfallverhütungsvorschriften bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Tätigkeiten im Zusammenhang mit dem Betreiben und Anwenden von Medizinprodukten sind insbesondere
 
@@ -39,15 +35,13 @@ Ausfertigungsdatum: 29.06.1998
 
 (4) Gesundheitseinrichtung im Sinne dieser Verordnung ist jede Einrichtung, Stelle oder Institution, einschließlich Rehabilitations- und Pflegeeinrichtungen, in der Medizinprodukte durch medizinisches Personal, Personen der Pflegeberufe oder sonstige dazu befugte Personen berufsmäßig betrieben oder angewendet werden.
 
-
-## § 3 – Pflichten eines Betreibers
+# § 3 – Pflichten eines Betreibers
 
 (1) Der Betreiber hat die ihm nach dieser Verordnung obliegenden Pflichten wahrzunehmen, um ein sicheres und ordnungsgemäßes Anwenden der in seiner Gesundheitseinrichtung am Patienten eingesetzten Medizinprodukte zu gewährleisten.
 
 (2) Die Pflichten eines Betreibers hat auch wahrzunehmen, wer Patienten mit Medizinprodukten zur Anwendung durch sich selbst oder durch Dritte in der häuslichen Umgebung oder im sonstigen privaten Umfeld aufgrund einer gesetzlichen oder vertraglichen Verpflichtung versorgt. Werden Medizinprodukte gemäß Satz 1 aufgrund einer Veranlassung des Versorgenden durch einen Dritten bereitgestellt, so können die dem Versorgenden aus den Pflichten nach Satz 1 resultierenden Aufgaben vertraglich auf den Dritten übertragen werden. In diesen Fällen hat der Versorgende, der die Bereitstellung veranlasst, die erforderlichen Vorkehrungen dafür zu treffen, dass diese Aufgaben ordnungsgemäß erfüllt werden. Die Sätze 1 bis 3 gelten auch, wenn Medizinprodukte, die nach Satz 1 überlassen oder nach Satz 2 bereitgestellt wurden, vom Patienten in eine Gesundheitseinrichtung mitgenommen und dort von ihm angewendet werden.
 
-
-## § 4 – Allgemeine Anforderungen
+# § 4 – Allgemeine Anforderungen
 
 (1) Medizinprodukte dürfen nur ihrer Zweckbestimmung entsprechend und nach den Vorschriften dieser Verordnung sowie den allgemein anerkannten Regeln der Technik betrieben und angewendet werden.
 
@@ -65,8 +59,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (8) Medizinprodukte der Anlage 2 dürfen nur betrieben oder angewendet werden, wenn sie die im Leitfaden nach § 14 Absatz 1 Satz 2 angegebenen Fehlergrenzen einhalten.
 
-
-## § 5 – Besondere Anforderungen
+# § 5 – Besondere Anforderungen
 
 (1) Sofern für eine Tätigkeit nach dieser Verordnung besondere Anforderungen vorausgesetzt werden, darf diese Tätigkeit nur durchführen, wer
 
@@ -78,8 +71,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (2) Die Erfüllung dieser besonderen Anforderungen kann durch die Vorlage eines Zertifikats einer von der nach dem Dritten Abschnitt des Medizinproduktegesetzes zuständigen Behörde anerkannten Stelle nachgewiesen werden. Die Erfüllung der besonderen Anforderungen kann auch durch Zertifikate, die von der zuständigen Stelle in einem anderen Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des Europäischen Wirtschaftsraums ausgestellt wurden und die inhaltlich den Zertifikaten nach Satz 1 entsprechen, nachgewiesen werden.
 
-
-## § 6 – Beauftragter für Medizinproduktesicherheit
+# § 6 – Beauftragter für Medizinproduktesicherheit
 
 (1) Gesundheitseinrichtungen mit regelmäßig mehr als 20 Beschäftigten haben sicherzustellen, dass eine sachkundige und zuverlässige Person mit medizinischer, naturwissenschaftlicher, pflegerischer, pharmazeutischer oder technischer Ausbildung als Beauftragter für Medizinproduktesicherheit bestimmt ist.
 
@@ -95,8 +87,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (4) Die Gesundheitseinrichtung hat sicherzustellen, dass eine Funktions-E-Mail-Adresse des Beauftragten für die Medizinproduktesicherheit auf ihrer Internetseite bekannt gemacht ist.
 
-
-## § 7 – Instandhaltung von Medizinprodukten
+# § 7 – Instandhaltung von Medizinprodukten
 
 (1) Die Instandhaltung von Medizinprodukten umfasst insbesondere Instandhaltungsmaßnahmen und die Instandsetzung. Instandhaltungsmaßnahmen sind insbesondere Inspektionen und Wartungen, die erforderlich sind, um den sicheren und ordnungsgemäßen Betrieb der Medizinprodukte fortwährend zu gewährleisten. Die Instandhaltungsmaßnahmen sind unter Berücksichtigung der Angaben des Herstellers durchzuführen, der diese Angaben dem Medizinprodukt beizufügen hat. Die Instandsetzung umfasst insbesondere die Reparatur zur Wiederherstellung der Funktionsfähigkeit.
 
@@ -106,8 +97,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (4) Die durch den Betreiber mit den Prüfungen nach Absatz 3 beauftragten Personen, Betriebe oder Einrichtungen müssen die Voraussetzungen nach Absatz 2 erfüllen und bei der Durchführung und Auswertung der Prüfungen in ihrer fachlichen Beurteilung weisungsunabhängig sein.
 
-
-## § 8 – Aufbereitung von Medizinprodukten
+# § 8 – Aufbereitung von Medizinprodukten
 
 (1) Die Aufbereitung von bestimmungsgemäß keimarm oder steril zur Anwendung kommenden Medizinprodukten ist unter Berücksichtigung der Angaben des Herstellers mit geeigneten validierten Verfahren so durchzuführen, dass der Erfolg dieser Verfahren nachvollziehbar gewährleistet ist und die Sicherheit und Gesundheit von Patienten, Anwendern oder Dritten nicht gefährdet wird. Dies gilt auch für Medizinprodukte, die vor der erstmaligen Anwendung desinfiziert oder sterilisiert werden.
 
@@ -117,8 +107,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (4) Der Betreiber darf mit der Aufbereitung nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftigte, die die Aufbereitung durchführen, die Voraussetzungen nach § 5 hinsichtlich der Aufbereitung des jeweiligen Medizinproduktes erfüllen. Sofern die beauftragte Person oder die Beschäftigten des beauftragten Betriebs oder der beauftragten Einrichtung nicht über eine nach § 5 erforderliche Ausbildung verfügen, kann für den Nachweis der aktuellen Kenntnis die Teilnahme an fachspezifischen Fortbildungsmaßnahmen berücksichtigt werden. Die Validierung und Leistungsbeurteilung des Aufbereitungsprozesses muss im Auftrag des Betreibers durch qualifizierte Fachkräfte, die die Voraussetzungen nach § 5 hinsichtlich der Validierung und Leistungsbeurteilung derartiger Prozesse erfüllen, erfolgen.
 
-
-## § 9 – Qualitätssicherungssystem für medizinische Laboratorien
+# § 9 – Qualitätssicherungssystem für medizinische Laboratorien
 
 (1) Wer laboratoriumsmedizinische Untersuchungen durchführt, hat vor Aufnahme dieser Tätigkeit ein Qualitätssicherungssystem nach dem Stand der medizinischen Wissenschaft und Technik zur Aufrechterhaltung der erforderlichen Qualität, Sicherheit und Leistung bei der Anwendung von In-vitro-Diagnostika sowie zur Sicherstellung der Zuverlässigkeit der damit erzielten Ergebnisse einzurichten. Eine ordnungsgemäße Qualitätssicherung nach Satz 1 wird vermutet, wenn Teil A der Richtlinie der Bundesärztekammer zur Qualitätssicherung laboratoriumsmedizinischer Untersuchungen (Deutsches Ärzteblatt, Jg. 111, Heft 38 vom 19. September 2014, S. A 1583) beachtet wird.
 
@@ -126,8 +115,7 @@ Ausfertigungsdatum: 29.06.1998
 
 (+++ § 9: Zur Geltung vgl. § 17 Abs. 1 Satz 2 CoronaTestV 2021-01 +++)
 
-
-## § 10 – Betreiben und Anwenden von ausgewählten aktiven Medizinprodukten
+# § 10 – Betreiben und Anwenden von ausgewählten aktiven Medizinprodukten
 
 (1) Der Betreiber darf ein in der Anlage 1 aufgeführtes Medizinprodukt nur betreiben, wenn zuvor der Hersteller oder eine dazu befugte Person, die im Einvernehmen mit dem Hersteller handelt,
 
@@ -143,8 +131,7 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 (4) Absatz 2 gilt nicht für in der Anlage 1 aufgeführte Medizinprodukte, die nach der Kennzeichnung, der Gebrauchsanweisung oder den Werbematerialien durch den Personenkreis nach § 3 Nummer 15 des Medizinproduktegesetzes zur Anwendung durch Laien vorgesehen sind. Einweisungspflichten nach anderen Vorschriften werden hiervon nicht berührt.
 
-
-## § 11 – Sicherheitstechnische Kontrollen
+# § 11 – Sicherheitstechnische Kontrollen
 
 (1) Der Betreiber hat für die in der Anlage 1 aufgeführten Medizinprodukte sicherheitstechnische Kontrollen nach den allgemein anerkannten Regeln der Technik und nach Satz 2 oder Satz 3 durchzuführen oder durchführen zu lassen. Er hat für die sicherheitstechnischen Kontrollen solche Fristen vorzusehen, dass entsprechende Mängel, mit denen aufgrund der Erfahrung gerechnet werden muss, rechtzeitig festgestellt werden können. Die sicherheitstechnischen Kontrollen sind jedoch spätestens alle zwei Jahre mit Ablauf des Monats durchzuführen, in dem die Inbetriebnahme des Medizinproduktes erfolgte oder die letzte sicherheitstechnische Kontrolle durchgeführt wurde. Die sicherheitstechnischen Kontrollen schließen die Messfunktionen ein. Für andere Medizinprodukte sowie Zubehör einschließlich Software oder andere Gegenstände, die der Betreiber mit Medizinprodukten nach Satz 1 verbunden verwendet, gelten die Sätze 1 bis 3 entsprechend.
 
@@ -154,8 +141,7 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 (4) Der Betreiber darf mit der Durchführung der sicherheitstechnischen Kontrollen nur Personen, Betriebe oder Einrichtungen beauftragen, die selbst oder deren Beschäftige, die die sicherheitstechnischen Kontrollen durchführen, die Voraussetzungen nach § 5 hinsichtlich der sicherheitstechnischen Kontrollen des jeweiligen Medizinproduktes erfüllen.
 
-
-## § 12 – Medizinproduktebuch
+# § 12 – Medizinproduktebuch
 
 (1) Für die in den Anlagen 1 und 2 aufgeführten Medizinprodukte hat der Betreiber ein Medizinproduktebuch nach Absatz 2 zu führen. Satz 1 gilt nicht für elektronische Fieberthermometer als Kompaktthermometer und Blutdruckmessgeräte mit Quecksilber- oder Aneroidmanometer zur nichtinvasiven Messung.
 
@@ -175,8 +161,7 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 (3) Das Medizinproduktebuch ist so aufzubewahren, dass die Angaben dem Anwender während der Arbeitszeit zugänglich sind. Nach der Außerbetriebnahme des Medizinproduktes ist das Medizinproduktebuch noch fünf Jahre aufzubewahren.
 
-
-## § 13 – Bestandsverzeichnis
+# § 13 – Bestandsverzeichnis
 
 (1) Der Betreiber hat für alle aktiven nichtimplantierbaren Medizinprodukte der jeweiligen Betriebsstätte ein Bestandsverzeichnis zu führen. Die Aufnahme in ein Verzeichnis, das auf Grund anderer Vorschriften geführt wird, ist zulässig.
 
@@ -196,8 +181,7 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 (3) Für das Bestandsverzeichnis sind alle Datenträger zulässig, sofern die Angaben nach Absatz 2 Satz 1 innerhalb einer angemessenen Frist lesbar gemacht werden können.
 
-
-## § 14 – Messtechnische Kontrollen
+# § 14 – Messtechnische Kontrollen
 
 (1) Der Betreiber hat für die in der Anlage 2 aufgeführten Medizinprodukte nach den allgemein anerkannten Regeln der Technik messtechnische Kontrollen nach Absatz 4 durchzuführen oder durchführen zu lassen. Eine ordnungsgemäße Durchführung der messtechnischen Kontrollen nach Satz 1 wird vermutet, wenn der Leitfaden zu messtechnischen Kontrollen von Medizinprodukten mit Messfunktion der Physikalisch-Technischen Bundesanstalt beachtet wird. Der Leitfaden wird in seiner jeweils aktuellen Fassung auf der Internetseite der Physikalisch-Technischen Bundesanstalt bekannt gemacht und von der Physikalisch-Technischen Bundesanstalt archiviert.
 
@@ -227,8 +211,7 @@ Eine Einweisung nach Nummer 2 ist nicht erforderlich, sofern diese für ein baug
 
 Das Protokoll nach Satz 1 Nummer 1 hat der Betreiber zumindest bis zur nächsten messtechnischen Kontrolle aufzubewahren.
 
-
-## § 15 – Besondere Pflichten bei implantierbaren Medizinprodukten
+# § 15 – Besondere Pflichten bei implantierbaren Medizinprodukten
 
 (1) Die für die Implantation verantwortliche Person hat unverzüglich nach Abschluss der Implantation eines in der Anlage 3 aufgeführten Medizinproduktes dem Patienten folgende Dokumente auszuhändigen:
 
@@ -254,8 +237,7 @@ e) Name der verantwortlichen Person und der Einrichtung, die die Implantation du
 
 (3) Kann der Patient über die Dokumentation gemäß Absatz 2 nicht erreicht werden, kann die Einrichtung unter Angabe der Krankenversicherungsnummer die Übermittlung der für die Kontaktaufnahme erforderlichen Daten des Patienten von seiner Krankenkasse verlangen.
 
-
-## § 16 – Medizinprodukte der Bundeswehr
+# § 16 – Medizinprodukte der Bundeswehr
 
 (1) Für Medizinprodukte im Bereich der Bundeswehr steht die Aufsicht über die Ausführung dieser Verordnung dem Bundesministerium der Verteidigung oder den von ihm bestimmten zuständigen Stellen und Sachverständigen zu.
 
@@ -269,8 +251,7 @@ e) Name der verantwortlichen Person und der Einrichtung, die die Implantation du
 
 und die Sicherheit einschließlich der Messsicherheit auf andere Weise gewährleistet ist.
 
-
-## § 17 – Ordnungswidrigkeiten
+# § 17 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 42 Absatz 2 Nummer 16 des Medizinproduktegesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -306,13 +287,11 @@ Ordnungswidrig im Sinne des § 42 Absatz 2 Nummer 16 des Medizinproduktegesetzes
 
 16. entgegen § 19 Nummer 1 oder Nummer 2 Satz 1, auch in Verbindung mit Satz 2, ein Medizinprodukt betreibt oder weiterbetreibt.
 
-
-## § 18 – Übergangsbestimmung
+# § 18 – Übergangsbestimmung
 
 Sofern ein Betreiber vor dem 1. Januar 2017 ein Medizinproduktebuch nach § 7 in der am 31. Dezember 2016 geltenden Fassung begonnen hat, darf er dieses als Medizinproduktebuch im Sinne des § 12 in der am 1. Januar 2017 geltenden Fassung nach § 7 in der am 31. Dezember 2016 geltenden Fassung weiterführen.
 
-
-## § 19 – Sondervorschriften
+# § 19 – Sondervorschriften
 
 Für Medizinprodukte, die nach den Vorschriften der Medizingeräteverordnung in Verkehr gebracht werden dürfen, gelten die Vorschriften dieser Verordnung mit folgenden Maßgaben:
 
@@ -338,8 +317,7 @@ a) vor dem Wirksamwerden des Beitritts zulässigerweise in dem in Artikel 3 des 
 
 b) bis zum 31. Dezember 1991 errichtet und in Betrieb genommen wurden und den Vorschriften entsprechen, die am Tage vor dem Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben.
 
-
-## Anlage 1 – (zu § 10 Absatz 1 und 2, § 11 Absatz 1 und § 12 Absatz 1)
+# Anlage 1 – (zu § 10 Absatz 1 und 2, § 11 Absatz 1 und § 12 Absatz 1)
 
 (Fundstelle: BGBl. I 2002, 3403; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -378,8 +356,7 @@ Säuglingsinkubatoren sowie
 3  
 externe aktive Komponenten aktiver Implantate.
 
-
-## Anlage 2 – (zu § 12 Absatz 1 und § 14 Absatz 1)
+# Anlage 2 – (zu § 12 Absatz 1 und § 14 Absatz 1)
 
 (Fundstelle: BGBl. I 2002, 3404;  
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -545,8 +522,7 @@ Vergleichsmessungen nach 1.5.2 werden von einer durch die zuständige Behörde b
 
  
 
-
-## Anlage 3 – (zu § 15 Absatz 1 und 2)
+# Anlage 3 – (zu § 15 Absatz 1 und 2)
 
 (Fundstelle: BGBl. I 2014, 1230)
 

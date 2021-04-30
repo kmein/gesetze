@@ -1,15 +1,11 @@
-# [ÜblG2§10DV] Verordnung zur Durchführung des § 10 des Zweiten Überleitungsgesetzes
-
-Ausfertigungsdatum: 24.11.1952
-
+% Verordnung zur Durchführung des § 10 des Zweiten Überleitungsgesetzes
+% Ausfertigungsdatum: 24.11.1952
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 des Zweiten Gesetzes zur Überleitung von Lasten und Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21. August 1951 (Bundesgesetzbl. I S. 774) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Versorgungsausgaben im Sinne der Artikel I und II des Zweiten Überleitungsgesetzes sind
 
@@ -25,8 +21,7 @@ Versorgungsausgaben im Sinne der Artikel I und II des Zweiten Überleitungsgeset
 
 6. Versorgungsanteile, die vom Deutschen Reich auf Grund des deutsch-französischen Abkommens über die Zahlung der elsaß-lothringischen Pensionen vom 14. Februar 1921 (Reichsgesetzbl. S. 176) und des Gesetzes vom 11. Januar 1922 (Reichsgesetzbl. I S. 29) übernommen worden sind oder zu übernehmen gewesen wären.
 
-
-## § 2
+# § 2
 
 Als Versorgungsausgaben im Sinne der Artikel I und II des Zweiten Überleitungsgesetzes gelten:
 
@@ -44,12 +39,10 @@ b) Zusatzrenten nach dem Abkommen betreffend zusätzliche Alters- und Hinterblie
 
 c) laufende Unterstützungen als Ersatz für Renten zu a und b nach dem Einführungserlaß des Reichsministers der Finanzen vom 2. Mai 1938 (Reichshaushalts- und Besoldungsblatt S. 117).
 
-
-## § 3
+# § 3
 
 Soweit für die Zeit vom 1. April 1950 bis zum 31. März 1952 Zahlungen der in den §§ 1 und 2 bezeichneten Arten geleistet worden sind, auf die kein Rechtsanspruch bestand, gelten sie als Versorgungsausgaben im Sinne der Artikel I und II des Zweiten Überleitungsgesetzes auch dann, wenn sie über den Rahmen der allgemein dafür geltenden Bestimmungen des Bundes hinausgehen.
 
-
-## § 4
+# § 4
 
 Diese Verordnung tritt mit Wirkung vom 1. April 1950 in Kraft. Sie gilt gemäß § 14 des Gesetzes über die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) mit Wirkung vom 1. April 1951 auch im Land Berlin.

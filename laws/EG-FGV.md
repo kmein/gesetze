@@ -1,10 +1,7 @@
-# [EG-FGV] Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge   (EG-Fahrzeuggenehmigungsverordnung - EG-FGV)
-
-Ausfertigungsdatum: 03.02.2011
-
+% Verordnung über die EG-Genehmigung für Kraftfahrzeuge und ihre Anhänger sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge   (EG-Fahrzeuggenehmigungsverordnung - EG-FGV)
+% Ausfertigungsdatum: 03.02.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -17,11 +14,9 @@ des § 6 Absatz 1 Nummer 5a und 7 in Verbindung mit Absatz 2a des Straßenverkeh
 –  
 des § 6 Absatz 1 Nummer 10 in Verbindung mit Absatz 2 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919) verordnen das Bundesministerium für Verkehr, Bau und Stadtentwicklung und das Bundesministerium des Innern:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für die Genehmigung von
 
@@ -31,15 +26,13 @@ Diese Verordnung gilt für die Genehmigung von
 
 3. land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten nach der Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003 über land- oder forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und selbstständige technische Einheiten (ABl. L 171 vom 9.7.2003, S. 1) in ihrer jeweils geltenden Fassung.
 
-
-## § 2 – Genehmigungsbehörde
+# § 2 – Genehmigungsbehörde
 
 (1) Genehmigungsbehörde für Typgenehmigungen und Genehmigungen für den Verkauf, das Anbieten zum Verkauf oder die Inbetriebnahme von Teilen oder Ausrüstungen, von denen ein erhebliches Risiko für das einwandfreie Funktionieren von Systemen ausgehen kann, die für die Sicherheit des Fahrzeugs oder für seine Umweltwerte von wesentlicher Bedeutung sind (Autorisierung von Teilen oder Ausrüstungen), ist das Kraftfahrt-Bundesamt.
 
 (2) Genehmigungsbehörde für Einzelgenehmigungen sind die nach Landesrecht zuständigen Stellen.
 
-
-## § 3 – Anwendungsbereich und Voraussetzungen
+# § 3 – Anwendungsbereich und Voraussetzungen
 
 (1) Für die Genehmigung von
 
@@ -75,8 +68,7 @@ Die Anwendung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rat
 
 (6) Für die Begriffsbestimmungen gilt Artikel 3 der Richtlinie 2007/46/EG.
 
-
-## § 4 – Erteilung der EG-Typgenehmigung
+# § 4 – Erteilung der EG-Typgenehmigung
 
 (1) Für das Antragsverfahren gelten die Artikel 6 und 7 der Richtlinie 2007/46/EG. Der Antragsteller hat der Genehmigungsbehörde zu erklären, dass für denselben Typ in einem anderen Mitgliedstaat eine EG-Typgenehmigung nicht beantragt worden ist.
 
@@ -88,13 +80,11 @@ Die Anwendung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rat
 
 (5) Die EG-Typgenehmigung kann mit Nebenbestimmungen versehen werden.
 
-
-## § 5 – Änderung der EG-Typgenehmigung
+# § 5 – Änderung der EG-Typgenehmigung
 
 Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt unverzüglich über jede Änderung zu den Angaben, die in den Beschreibungsunterlagen enthalten sind, zu unterrichten. Hat der Inhaber der Genehmigung einen benannten Technischen Dienst beauftragt, kann das Kraftfahrt-Bundesamt im Benehmen mit dem Technischen Dienst darüber entscheiden, ob die Änderung Auswirkungen auf die Beschreibungsunterlagen hat. Hat die Änderung Auswirkungen auf die Beschreibungsunterlagen, so erfolgt die notwendige Revision oder Erweiterung der EG-Typgenehmigung nur auf Antrag. Das Kraftfahrt-Bundesamt nimmt die Änderungen der Beschreibungsunterlagen und des Genehmigungsbogens nach den Artikeln 14 bis 16 der Richtlinie 2007/46/EG vor.
 
-
-## § 6 – Übereinstimmungsbescheinigung und Kennzeichnung
+# § 6 – Übereinstimmungsbescheinigung und Kennzeichnung
 
 (1) Für jedes dem genehmigten Typ entsprechende Fahrzeug hat der Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach Artikel 18 in Verbindung mit Anhang IX der Richtlinie 2007/46/EG auszustellen und dem Fahrzeug beizufügen. Die Übereinstimmungsbescheinigung muss nach Artikel 18 Absatz 3 der Richtlinie 2007/46/EG fälschungssicher sein.
 
@@ -102,34 +92,29 @@ Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt unverzüglich üb
 
 (+++ § 6: Zur Anwendung vgl. § 10 +++)
 
-
-## § 7 – Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
+# § 7 – Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
 
 (1) Die EG-Typgenehmigung für Fahrzeuge erlischt, wenn neue Anforderungen eines für das genehmigte Fahrzeug geltenden Rechtsakts im Sinne des Artikels 3 Nummer 1 der Richtlinie 2007/46/EG für die Zulassung, den Verkauf oder die Inbetriebnahme neuer Fahrzeuge verbindlich werden und eine Änderung der Genehmigung nicht möglich ist. Sie erlischt auch bei endgültiger Einstellung der Produktion des genehmigten Typs eines Fahrzeugs. Der Hersteller hat die Einstellung der Produktion dem Kraftfahrt-Bundesamt mitzuteilen.
 
 (2) Muss der Genehmigungsinhaber bereits verkaufte, zugelassene oder in Betrieb genommene Fahrzeuge nach Artikel 32 der Richtlinie 2007/46/EG zurückrufen, weil von einem oder mehreren Systemen oder Bauteilen oder von einer oder mehreren selbstständigen technischen Einheiten, mit denen diese Fahrzeuge ausgerüstet sind, unabhängig davon, ob sie nach dieser Verordnung ordnungsgemäß genehmigt sind, ein erhebliches Risiko für die Verkehrssicherheit, die Gesundheit oder die Umwelt ausgeht, hat er dies unverzüglich dem Kraftfahrt-Bundesamt zu melden. Die Meldung ist entbehrlich, wenn er bereits eine Meldung nach § 6 Absatz 4 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179) an das Kraftfahrt-Bundesamt abgegeben hat. Führt der Hersteller keine wirksamen Abhilfemaßnahmen im Sinne des Artikels 32 Absatz 2 und 3 der Richtlinie 2007/46/EG durch, kann das Kraftfahrt-Bundesamt Abhilfemaßnahmen anordnen oder die EG-Typgenehmigung ganz oder teilweise widerrufen oder zurücknehmen. Maßnahmen nach dem Geräte- und Produktsicherheitsgesetz bleiben unberührt.
 
-
-## § 8 – Besondere Verfahren
+# § 8 – Besondere Verfahren
 
 (1) Die den Mitgliedstaaten nach Artikel 20 Absatz 1, 2 und 4 der Richtlinie 2007/46/EG obliegenden Aufgaben werden für die Bundesrepublik Deutschland vom Kraftfahrt-Bundesamt wahrgenommen.
 
 (2) Das Kraftfahrt-Bundesamt kann für Fahrzeuge aus auslaufenden Serien im Sinne des Artikels 27 der Richtlinie 2007/46/EG Ausnahmen erteilen, die die Zulassung, den Verkauf und die Inbetriebnahme in einer begrenzten Stückzahl weiterhin erlauben, obwohl die Fahrzeuge einem Fahrzeugtyp entsprechen, dessen EG-Typgenehmigung nicht mehr wirksam ist.
 
-
-## § 9 – Erteilung der EG-Kleinserien-Typgenehmigung
+# § 9 – Erteilung der EG-Kleinserien-Typgenehmigung
 
 (1) Für Fahrzeuge wird eine EG-Kleinserien-Typgenehmigung nach Artikel 22 der Richtlinie 2007/46/EG erteilt, wenn die in der Anlage zum Anhang IV Teil I der Richtlinie 2007/46/EG genannten Anforderungen erfüllt und die in Anhang XII Teil A Abschnitt 1 genannten höchstzulässigen Stückzahlen nicht überschritten werden.
 
 (2) Für das Genehmigungsverfahren gelten die §§ 4, 5, 7 und 8 entsprechend.
 
-
-## § 10 – Übereinstimmungsbescheinigung
+# § 10 – Übereinstimmungsbescheinigung
 
 Für die Ausstellung der Übereinstimmungsbescheinigung ist § 6 Absatz 1 und 2 mit der Maßgabe anzuwenden, dass die nach Artikel 18 Absatz 6 der Richtlinie 2007/46/EG geforderten Zusätze einzutragen sind.
 
-
-## § 11 – Erteilung der nationalen Kleinserien-Typgenehmigung
+# § 11 – Erteilung der nationalen Kleinserien-Typgenehmigung
 
 (1) Für Fahrzeuge wird eine nationale Kleinserien-Typgenehmigung nach Artikel 23 der Richtlinie 2007/46/EG erteilt, wenn die in Anhang IV oder Anhang XI der Richtlinie 2007/46/EG genannten Anforderungen erfüllt und die in Anlage XII Teil A Abschnitt 2 der Richtlinie 2007/46/EG genannten höchstzulässigen Stückzahlen nicht überschritten werden. Der Einhaltung einzelner in Anhang IV oder Anhang XI der Richtlinie 2007/46/EG genannter Vorschriften bedarf es nicht, wenn das Fahrzeug die entsprechenden Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung erfüllt.
 
@@ -139,8 +124,7 @@ Für die Ausstellung der Übereinstimmungsbescheinigung ist § 6 Absatz 1 und 2 
 
 (4) Auf Antrag desjenigen, der ein Fahrzeug in einem anderen Mitgliedstaat verkaufen, zulassen oder in Betrieb nehmen will, fertigt das Kraftfahrt-Bundesamt eine Kopie des Typgenehmigungsbogens einschließlich der Beschreibungsunterlagen aus. Auf Antrag des Herstellers übermittelt es den Genehmigungsbehörden der vom Hersteller angegebenen Mitgliedstaaten eine Kopie des Typgenehmigungsbogens und der zugehörigen Anlagen.
 
-
-## § 12 – Datenbestätigung
+# § 12 – Datenbestätigung
 
 (1) Der Inhaber einer nationalen Kleinserien-Typgenehmigung für Fahrzeuge ist verpflichtet, für jedes dem Typ entsprechende Fahrzeug eine Datenbestätigung nach Muster 2d der Straßenverkehrs-Zulassungs-Ordnung auszufüllen und dem Fahrzeug beizufügen. Die Datenbestätigung nach Satz 1 ist entbehrlich, wenn
 
@@ -150,8 +134,7 @@ Für die Ausstellung der Übereinstimmungsbescheinigung ist § 6 Absatz 1 und 2 
 
 (2) Für Fahrzeuge, die für die Bundeswehr zugelassen werden sollen, braucht die Datenbestätigung abweichend von Absatz 1 Satz 1 nur für eine Fahrzeugserie ausgestellt zu werden, wenn der Inhaber der nationalen Typgenehmigung die Fahrzeug-Identifizierungsnummer jedes einzelnen Fahrzeugs der Fahrzeugserie der Zentralen Militärkraftfahrtstelle mitteilt.
 
-
-## § 13 – Einzelgenehmigung für Fahrzeuge
+# § 13 – Einzelgenehmigung für Fahrzeuge
 
 (1) Für ein Fahrzeug wird eine Einzelgenehmigung nach Artikel 24 der Richtlinie 2007/46/EG erteilt, wenn die in Anhang IV oder Anhang XI der Richtlinie 2007/46/EG genannten Vorschriften erfüllt werden. Der Einhaltung einzelner der in Anhang IV oder Anhang XI der Richtlinie 2007/46/EG genannten Vorschriften bedarf es nicht, wenn das Fahrzeug die entsprechenden Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung erfüllt.
 
@@ -173,8 +156,7 @@ b) es sich um Fahrzeuge nach Artikel 24 Absatz 8 der Richtlinie 2007/46/EG hande
 
 2. trotz der Genehmigung vom Fahrzeug ein erhebliches Risiko für die Verkehrssicherheit, die öffentliche Gesundheit oder die Umwelt ausgeht.
 
-
-## § 14 – Erteilung, Änderung, Widerruf, Rücknahme und Erlöschen der Autorisierung
+# § 14 – Erteilung, Änderung, Widerruf, Rücknahme und Erlöschen der Autorisierung
 
 (1) Für Teile oder Ausrüstungen nach Anhang XIII der Richtlinie 2007/46/EG kann auf Antrag vom Kraftfahrt-Bundesamt eine Autorisierung nach Artikel 31 der Richtlinie 2007/46/EG erteilt werden, wenn die in Artikel 31 Absatz 4 der Richtlinie 2007/46/EG genannten Anforderungen erfüllt werden. Die Autorisierung wird dem Hersteller nach Artikel 31 Absatz 5 und 7 bis 10 der Richtlinie 2007/46/EG erteilt und durch eine Bescheinigung nachgewiesen.
 
@@ -190,8 +172,7 @@ b) es sich um Fahrzeuge nach Artikel 24 Absatz 8 der Richtlinie 2007/46/EG hande
 
 3. der Hersteller nicht über ein wirksames System zur Überwachung der Übereinstimmung der Produktion nach Artikel 31 Absatz 9 der Richtlinie 2007/46/EG verfügt oder dieses System nicht mehr in der vorgesehenen Weise anwendet.
 
-
-## § 15 – Anwendungsbereich und Voraussetzungen
+# § 15 – Anwendungsbereich und Voraussetzungen
 
 (1) Für die Genehmigung von
 
@@ -225,8 +206,7 @@ nach der Richtlinie 2002/24/EG sind die Bestimmungen dieser Richtlinie anzuwende
 
 (4) Für die Begriffsbestimmungen gilt Artikel 2 der Richtlinie 2002/24/EG.
 
-
-## § 16 – Erteilung und Änderung der EG-Typgenehmigung
+# § 16 – Erteilung und Änderung der EG-Typgenehmigung
 
 (1) Für das Antragsverfahren gilt Artikel 3 in Verbindung mit Artikel 11 der Richtlinie 2002/24/EG.
 
@@ -252,8 +232,7 @@ ausgestellt ist. Die Zertifizierung nach Satz 3 Nummer 3 wird nur unter der Vora
 
 (8) Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt über jede Änderung zu den Angaben, die im Beschreibungsbogen enthalten sind, zu unterrichten. Hat der Inhaber der EG-Typgenehmigung einen Technischen Dienst mit der Unterrichtung beauftragt, kann dieser im Einvernehmen mit dem Kraftfahrt-Bundesamt darüber entscheiden, ob die Änderung Auswirkungen auf den EG-Typgenehmigungsbogen hat. Hat die Änderung Auswirkungen auf den EG-Typgenehmigungsbogen, so bedarf es für die notwendige Änderung oder Erweiterung der EG-Typgenehmigung eines Antrags an das Kraftfahrt-Bundesamt. Das Kraftfahrt-Bundesamt nimmt die Änderungen des EG-Typgenehmigungsbogens nach Maßgabe des Artikels 9 Absatz 3 und 4 der Richtlinie 2002/24/EG vor.
 
-
-## § 17 – Übereinstimmungsbescheinigung und Kennzeichnung
+# § 17 – Übereinstimmungsbescheinigung und Kennzeichnung
 
 (1) Für jedes dem genehmigten Typ entsprechende Fahrzeug hat der Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach Anhang IV Teil A der Richtlinie 2002/24/EG auszustellen und diese dem Fahrzeug beizufügen. Die Übereinstimmungsbescheinigung muss nach Artikel 7 Absatz 1 der Richtlinie 2002/24/EG fälschungssicher sein. Für jede selbstständige technische Einheit oder jedes Bauteil, bei dem es sich nicht um ein Originalteil aus der Baureihe des genehmigten Fahrzeugtyps handelt, das aber dem genehmigten Typ entspricht, hat der Inhaber der EG-Typgenehmigung für diese Teile eine Übereinstimmungsbescheinigung nach Anhang IV Teil B der Richtlinie 2002/24/EG auszustellen und diese der selbstständigen technischen Einheit oder dem Bauteil beizufügen; dies gilt nicht, wenn die Anbringung des Typgenehmigungszeichens nach der in Anhang I der Richtlinie 2002/24/EG genannten jeweiligen Einzelrichtlinie vorgeschrieben ist.
 
@@ -265,13 +244,11 @@ ausgestellt ist. Die Zertifizierung nach Satz 3 Nummer 3 wird nur unter der Vora
 
 (5) Hinsichtlich der Ausführung des Typgenehmigungszeichens gilt Artikel 8 der Richtlinie 2002/24/EG.
 
-
-## § 18 – Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
+# § 18 – Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
 
 Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-Typgenehmigungen nach den in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien ungültig werden, die Bestandteil des betreffenden Beschreibungsbogens sind. Sie erlischt auch bei endgültiger Einstellung der Produktion des genehmigten Typs eines Fahrzeugs, einer selbstständigen technischen Einheit oder eines Bauteils.
 
-
-## § 19 – Besondere Verfahren
+# § 19 – Besondere Verfahren
 
 (1) Die den Mitgliedstaaten nach Artikel 15 Absatz 3 und 4 sowie Artikel 16 der Richtlinie 2002/24/EG obliegenden Aufgaben werden für die Bundesrepublik Deutschland vom Kraftfahrt-Bundesamt wahrgenommen.
 
@@ -281,8 +258,7 @@ Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-Typgenehmigungen n
 
 (4) Für Fahrzeuge, Systeme, selbstständige technische Einheiten oder Bauteile im Sinne des Artikels 16 Absatz 3 der Richtlinie 2002/24/EG kann eine EG-Typgenehmigung erteilt werden. Die Vorschriften der §§ 15 bis 18 sind entsprechend anzuwenden. Im Übrigen gilt Artikel 16 Absatz 3 der Richtlinie 2002/24/EG.
 
-
-## § 20 – Anwendungsbereich und Voraussetzungen
+# § 20 – Anwendungsbereich und Voraussetzungen
 
 (1) Für die Genehmigung von
 
@@ -306,8 +282,7 @@ nach der Richtlinie 2003/37/EG sind die Bestimmungen dieser Richtlinie anzuwende
 
 (4) Für die Begriffsbestimmungen gilt Artikel 2 der Richtlinie 2003/37/EG.
 
-
-## § 21 – Erteilung und Änderung der EG-Typgenehmigung
+# § 21 – Erteilung und Änderung der EG-Typgenehmigung
 
 (1) Für das Antragsverfahren gilt Artikel 3 in Verbindung mit Artikel 12 der Richtlinie 2003/37/EG.
 
@@ -333,20 +308,17 @@ ausgestellt ist. Die Zertifizierung nach Satz 3 Nummer 3 wird nur unter der Vora
 
 (8) Der Inhaber der EG-Typgenehmigung hat das Kraftfahrt-Bundesamt über jede Änderung der Angaben, die in den Beschreibungsunterlagen enthalten sind, zu unterrichten. Hat der Inhaber der EG-Typgenehmigung einen Technischen Dienst mit der Unterrichtung beauftragt, kann dieser im Einvernehmen mit dem Kraftfahrt-Bundesamt darüber entscheiden, ob die Änderung Auswirkungen auf den EG-Typgenehmigungsbogen hat. Hat die Änderung Auswirkungen auf den EG-Typgenehmigungsbogen, so bedarf es für die notwendige Änderung oder Erweiterung der EG-Typgenehmigung eines Antrags an das Kraftfahrt-Bundesamt. Das Kraftfahrt-Bundesamt nimmt die Änderungen nach Maßgabe des Artikels 5 der Richtlinie 2003/37/EG vor.
 
-
-## § 22 – Übereinstimmungsbescheinigung und Kennzeichnung
+# § 22 – Übereinstimmungsbescheinigung und Kennzeichnung
 
 (1) Für jedes dem genehmigten Typ entsprechende Fahrzeug hat der Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach Anhang III der Richtlinie 2003/37/EG auszustellen und diese dem Fahrzeug beizufügen. Die Übereinstimmungsbescheinigung muss nach den Anforderungen in Anhang III der Richtlinie 2003/37/EG fälschungssicher sein.
 
 (2) Der Inhaber einer EG-Typgenehmigung für ein Bauteil oder eine selbstständige technische Einheit hat alle in Übereinstimmung mit dem genehmigten Typ hergestellten Bauteile oder selbstständigen technischen Einheiten nach Artikel 6 Absatz 3 der Richtlinie 2003/37/EG zu kennzeichnen und, soweit die EG-Typgenehmigung Verwendungsbeschränkungen nach Artikel 4 Absatz 1 Buchstabe c der Richtlinie 2003/37/EG enthält, jedem hergestellten Bauteil oder jeder hergestellten selbstständigen technischen Einheit ausführliche Angaben über die Beschränkungen und etwa erforderliche Vorschriften über den Einbau beizufügen. Stellt das Kraftfahrt-Bundesamt fest, dass Fahrzeuge, Systeme, selbstständige technische Einheiten oder Bauteile nicht mit dem genehmigten Typ übereinstimmen, trifft es nach Artikel 16 Absatz 2 in Verbindung mit Artikel 13 der Richtlinie 2003/37/EG die erforderlichen Maßnahmen, um die Übereinstimmung der Produktion mit dem genehmigten Typ erneut sicherzustellen.
 
-
-## § 23 – Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
+# § 23 – Erlöschen der EG-Typgenehmigung, Folgemaßnahmen
 
 Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-Typgenehmigungen nach den in Anhang II Kapitel B der Richtlinie 2003/37/EG aufgeführten Einzelrichtlinien ungültig werden, die Bestandteil des zugrunde liegenden Beschreibungsbogens sind. Sie erlischt auch bei endgültiger Einstellung der Produktion des genehmigten Typs eines Fahrzeugs, eines Systems, einer selbstständigen technischen Einheit oder eines Bauteils.
 
-
-## § 24 – Besondere Verfahren
+# § 24 – Besondere Verfahren
 
 (1) Die den Mitgliedstaaten nach Artikel 8 Absatz 2 der Richtlinie 2003/37/EG obliegenden Aufgaben werden für die Bundesrepublik Deutschland vom Kraftfahrt-Bundesamt wahrgenommen.
 
@@ -356,8 +328,7 @@ Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-Typgenehmigungen n
 
 (4) Für Fahrzeuge, Systeme, selbstständige technische Einheiten oder Bauteile im Sinne des Artikels 11 der Richtlinie 2003/37/EG kann nach Maßgabe des Artikels 11 Buchstabe a, c, d und e der Richtlinie 2003/37/EG eine EG-Typgenehmigung erteilt werden. Die Vorschriften der §§ 20 bis 22 sind entsprechend anzuwenden.
 
-
-## § 25 – Sicherstellung der Übereinstimmung der Produktion, Widerruf und Rücknahme
+# § 25 – Sicherstellung der Übereinstimmung der Produktion, Widerruf und Rücknahme
 
 (1) Stellt das Kraftfahrt-Bundesamt fest, dass Fahrzeuge, Systeme, Bauteile und selbstständige technische Einheiten nicht mit dem genehmigten Typ übereinstimmen, kann es die erforderlichen Maßnahmen nach den für den jeweiligen Typ anwendbaren Richtlinien 2007/46/EG, 2002/24/EG und 2003/37/EG anordnen, um die Übereinstimmung der Produktion mit dem genehmigten Typ sicherzustellen.
 
@@ -373,8 +344,7 @@ Die EG-Typgenehmigung erlischt, wenn eine oder mehrere der EG-Typgenehmigungen n
 
 4. der Inhaber der Typgenehmigung gegen die mit der Typgenehmigung verbundenen Auflagen verstößt.
 
-
-## § 26 – EG-Typgenehmigungen aus anderen Mitgliedstaaten
+# § 26 – EG-Typgenehmigungen aus anderen Mitgliedstaaten
 
 (1) In den anderen Mitgliedstaaten nach
 
@@ -392,8 +362,7 @@ erteilte EG-Typgenehmigungen und Autorisierungen gelten auch im Inland. Die nach
 
 (4) Die Zulassungsbehörde kann die Zulassung von Fahrzeugen, die unter Absatz 3 fallen, versagen. Sind die betreffenden Fahrzeuge zugelassen oder in den Verkehr gekommen, kann die Zulassungsbehörde nach § 5 der Fahrzeug-Zulassungsverordnung verfahren. Verbote oder Beschränkungen für neue Fahrzeuge dürfen die Dauer von sechs Monaten nicht überschreiten.
 
-
-## § 27 – Zulassung und Veräußerung
+# § 27 – Zulassung und Veräußerung
 
 (1) Neue Fahrzeuge, selbstständige technische Einheiten oder Bauteile, für die eine Übereinstimmungsbescheinigung nach Anhang IX der Richtlinie 2007/46/EG, nach Anhang IV der Richtlinie 2002/24/EG oder nach Anhang III der Richtlinie 2003/37/EG vorgeschrieben ist, dürfen im Inland zur Verwendung im Straßenverkehr nur feilgeboten, veräußert oder in den Verkehr gebracht werden, wenn sie mit einer gültigen Übereinstimmungsbescheinigung versehen sind. Dies gilt nicht für Fahrzeuge im Sinne des Artikels 8 der Richtlinie 2003/37/EG.
 
@@ -405,15 +374,13 @@ erteilte EG-Typgenehmigungen und Autorisierungen gelten auch im Inland. Die nach
 
 (5) Teile oder Ausrüstungen nach Anhang XIII der Richtlinie 2007/46/EG dürfen zur Verwendung im Straßenverkehr nur feilgeboten, veräußert, in den Verkehr gebracht oder in Betrieb genommen werden, wenn für diese eine Autorisierung nach Artikel 31 der Richtlinie 2007/46/EG erteilt wurde und durch eine Bescheinigung nachgewiesen wird.
 
-
-## § 28 – Informationen des Herstellers
+# § 28 – Informationen des Herstellers
 
 (1) Technische Informationen des Herstellers zu Angaben, die in der Richtlinie 2007/46/EG oder in den in Anhang IV der Richtlinie 2007/46/EG aufgeführten Rechtsakten vorgesehen sind, dürfen nicht von den Angaben abweichen, die von der Genehmigungsbehörde genehmigt worden sind.
 
 (2) Wenn ein Rechtsakt nach Absatz 1 dies ausdrücklich vorsieht, hat der Hersteller den Nutzern alle relevanten Informationen und erforderlichen Anweisungen, aus denen alle für ein Fahrzeug, ein Bauteil oder eine selbstständige technische Einheit geltenden besonderen Nutzungsbedingungen oder Nutzungseinschränkungen zu ersehen sind, zur Verfügung zu stellen. Das Fahrzeug, das Bauteil oder die selbstständige technische Einheit darf nur feilgeboten, veräußert oder in den Verkehr gebracht werden, wenn die nach Satz 1 zur Verfügung gestellten Informationen und Anweisungen beigefügt sind.
 
-
-## § 29 – Zusammenarbeit mit den anderen Mitgliedstaaten der Europäischen Union und mit der Kommission der Europäischen Gemeinschaften
+# § 29 – Zusammenarbeit mit den anderen Mitgliedstaaten der Europäischen Union und mit der Kommission der Europäischen Gemeinschaften
 
 (1) Das Kraftfahrt-Bundesamt übermittelt den Genehmigungsbehörden der anderen Mitgliedstaaten nach den Richtlinien nach § 1 die erforderlichen Unterlagen für jeden Typ eines Fahrzeugs, eines Systems, einer selbstständigen technischen Einheit oder eines Bauteils, für den es die EG-Typgenehmigung erteilt, verweigert, geändert, widerrufen oder zurückgenommen sowie Ausnahmeregelungen zugelassen hat. Satz 1 gilt entsprechend im Falle des Erlöschens einer EG-Typgenehmigung nach § 7 Absatz 2, § 18 Absatz 3 und § 23 Absatz 3.
 
@@ -421,15 +388,13 @@ erteilte EG-Typgenehmigungen und Autorisierungen gelten auch im Inland. Die nach
 
 (3) Das Kraftfahrt-Bundesamt nimmt Anfragen anderer Mitgliedstaaten zu erteilten Einzelgenehmigungen entgegen und leitet sie zur zuständigen Genehmigungsbehörde weiter. Anfragen der Genehmigungsbehörden zu Einzelgenehmigungen, die durch andere Mitgliedstaaten erteilt wurden, können dem Kraftfahrt-Bundesamt zur Weiterleitung an die zuständige ausländische Genehmigungsbehörde übersandt werden.
 
-
-## § 30 – Anerkennung und Anerkennungsstelle
+# § 30 – Anerkennung und Anerkennungsstelle
 
 (1) Stellen, die die Aufgaben von Technischen Diensten nach den Richtlinien 2007/46/EG, 2002/24/EG oder 2003/37/EG oder den in Anhang IV der Richtlinie 2007/46/EG, Anhang I der Richtlinie 2002/24/EG und Anhang II Kapitel B der Richtlinie 2003/37/EG aufgeführten Rechtsakten oder nach den für diese als gleichwertig anerkannten Regelungen wahrnehmen, müssen nach der jeweiligen Richtlinie anerkannt und als solche gegenüber der Kommission der Europäischen Gemeinschaften und den zuständigen Stellen der anderen Mitgliedstaaten benannt sein.
 
 (2) Die Aufgaben der Anerkennungsstelle nimmt das Kraftfahrt-Bundesamt in Anlehnung an die Norm DIN EN ISO/IEC 17011:2004 wahr.
 
-
-## § 31 – Verfahren der Anerkennung der Technischen Dienste
+# § 31 – Verfahren der Anerkennung der Technischen Dienste
 
 (1) Der Antrag auf Anerkennung mit den erforderlichen Unterlagen ist schriftlich zu stellen. Es sind die Formblätter und Muster zu verwenden, die vom Kraftfahrt-Bundesamt dafür vorgesehen sind und die von ihm auf Anforderung zur Verfügung gestellt werden.
 
@@ -437,15 +402,13 @@ erteilte EG-Typgenehmigungen und Autorisierungen gelten auch im Inland. Die nach
 
 (3) Die Anerkennung wird durch einen schriftlichen Bescheid bekannt gegeben, aus dem sich Art und Umfang der Prüfzuständigkeiten der benannten Stelle ergeben. Der Bescheid kann mit Nebenbestimmungen versehen werden, um die ordnungsgemäße Wahrnehmung der Prüfaufgaben durch die Stelle zu gewährleisten.
 
-
-## § 32 – Änderung der Anerkennung
+# § 32 – Änderung der Anerkennung
 
 (1) Die anerkannte Stelle hat dem Kraftfahrt-Bundesamt jede Änderung der Angaben, die in den Antragsunterlagen nach § 31 Absatz 1 enthalten sind, unverzüglich mitzuteilen.
 
 (2) Die Anerkennung kann durch Erteilung eines Änderungsbescheides geändert werden. Für das Änderungsverfahren gilt § 31.
 
-
-## § 33 – Erlöschen, Widerruf und Rücknahme der Anerkennung
+# § 33 – Erlöschen, Widerruf und Rücknahme der Anerkennung
 
 (1) Die Anerkennung erlischt mit Ablauf einer festgesetzten Frist oder bei Einstellung des Betriebs der benannten Stelle.
 
@@ -453,33 +416,27 @@ erteilte EG-Typgenehmigungen und Autorisierungen gelten auch im Inland. Die nach
 
 (3) Die Anerkennung kann insbesondere dann zurückgenommen werden, wenn die nach § 31 zu fordernden Kriterien zum Zeitpunkt des Erlasses des Anerkennungsbescheides nicht erfüllt waren.
 
-
-## § 34 – Überwachung der anerkannten Stellen
+# § 34 – Überwachung der anerkannten Stellen
 
 Das Kraftfahrt-Bundesamt kann jederzeit die Erfüllung der Anerkennungskriterien, die Einhaltung der Nebenbestimmungen und die Beachtung der mit der Anerkennung verbundenen Pflichten bei den nach § 30 Absatz 1 benannten Technischen Diensten überprüfen oder überprüfen lassen. Gegebenenfalls haben Technische Dienste dies auch für die von ihnen zu beaufsichtigenden Prüfungen sicherzustellen. Die mit der Überprüfung beauftragten Personen sind befugt, Grundstücke und Geschäftsräume der anerkannten Stelle während der Geschäfts- und Betriebszeiten zu betreten, dort Prüfungen und Besichtigungen vorzunehmen und in die vorgeschriebenen Aufzeichnungen Einsicht zu nehmen. Der Inhaber der Anerkennung hat die Maßnahmen zu ermöglichen. Technische Dienste der Kategorie B nach Artikel 41 Absatz 3 der Richtlinie 2007/46/EG haben dies auch für die Einrichtungen des Herstellers oder des Dritten sicherzustellen, in denen die zu beaufsichtigenden Prüfungen stattfinden.
 
+# § 35 – (aufgehoben)
 
-## § 35 – (aufgehoben)
-
-
-## § 36 – Freistellungsklausel
+# § 36 – Freistellungsklausel
 
 Die anerkannte oder akkreditierte Stelle hat die Bundesrepublik Deutschland und die Länder von allen Ansprüchen Dritter wegen Schäden freizustellen, die durch die Ausübung der mit der Anerkennung übertragenen Befugnisse verursacht werden.
 
-
-## § 37 – Ordnungswidrigkeiten
+# § 37 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 27 Absatz 1 Satz 1, Absatz 2 Satz 1, 2 oder 4, Absatz 3 Satz 1, Absatz 4, 5 oder § 28 Absatz 2 Satz 2 ein Fahrzeug, eine selbstständige technische Einheit, ein Bauteil, ein Teil oder eine Ausrüstung feilbietet, veräußert oder in den Verkehr bringt.
 
 (2) Ordnungswidrig im Sinne des § 23 Absatz 2 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig eine Handlung nach Absatz 1 begeht, indem er ein Fahrzeug, eine selbstständige technische Einheit, ein Bauteil, ein Teil oder eine Ausrüstung gewerbsmäßig feilbietet.
 
-
-## § 38 – Harmonisierte Normen
+# § 38 – Harmonisierte Normen
 
 Soweit in dieser Verordnung auf DIN-, EN- oder ISO/IEC-Normen Bezug genommen wird, sind diese im Beuth-Verlag GmbH, Berlin, erschienen. Sie sind beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## § 39 – Übergangsvorschriften
+# § 39 – Übergangsvorschriften
 
 (1) Die Bestimmungen der Richtlinie 2007/46/EG sind wie folgt anzuwenden:
 
@@ -515,12 +472,10 @@ anzuwenden.
 
 (7) Vor dem 1. Juli 2005 nach § 20 der Straßenverkehrs-Zulassungs-Ordnung erteilte Allgemeine Betriebserlaubnisse für Fahrzeugtypen der Klassen T1, T2 und T3 im Sinne des Anhangs II Kapitel A der Richtlinie 2003/37/EG bleiben einschließlich der auch nach dem 1. Juli 2005 vorgenommenen Erweiterungen bis zum 30. Juni 2009 gültig, soweit sie nicht vorher aus anderen Gründen erlöschen.
 
-
-## § 40 – Inkrafttreten, Außerkrafttreten
+# § 40 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die EG-Fahrzeuggenehmigungsverordnung vom 21. April 2009 (BGBl. I S. 872, 873) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

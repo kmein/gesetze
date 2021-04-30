@@ -1,15 +1,11 @@
-# [WvGeflpestMonV] Verordnung zur Durchführung eines Monitorings auf das Virus der Geflügelpest bei Wildvögeln  (Wildvogel-Geflügelpest-Monitoring-Verordnung - WvGeflpestMonV)
-
-Ausfertigungsdatum: 08.03.2016
-
+% Verordnung zur Durchführung eines Monitorings auf das Virus der Geflügelpest bei Wildvögeln  (Wildvogel-Geflügelpest-Monitoring-Verordnung - WvGeflpestMonV)
+% Ausfertigungsdatum: 08.03.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Absatz 2 des Tiergesundheitsgesetzes vom 22. Mai 2013 (BGBl. I S. 1324) verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Monitoring
+# § 1 – Monitoring
 
 (1) Die Länder führen jährlich in den Monaten September bis Januar des Folgejahres ein Monitoring zur Untersuchung von Wildvögeln, insbesondere von Arten aus der Ordnung Gänsevögel, auf die in § 1 Absatz 1 Nummer 1 und 3 der Geflügelpest-Verordnung bezeichneten Viren durch. Soweit in dem in Satz 1 genannten Zeitraum keine hinreichende Probenzahl untersucht werden kann, dürfen auch in den übrigen Monaten eines Jahres gewonnene Proben untersucht werden.
 
@@ -29,8 +25,7 @@ zu gewinnen. Bei der Gewinnung, Lagerung und Beförderung der Proben sind die Vo
 
 (4) Die Länder übermitteln dem Bundesministerium für Ernährung und Landwirtschaft jährlich bis zum 1. April des Folgejahres die im Rahmen des Monitorings erzielten Ergebnisse, aufgeschlüsselt nach den untersuchten Wildvogelarten und den jeweils ermittelten Subtypen des nachgewiesenen Virus.
 
-
-## § 2 – Duldungs- und Mitwirkungspflichten
+# § 2 – Duldungs- und Mitwirkungspflichten
 
 Jagdausübungsberechtigte haben nach näherer Anweisung der zuständigen Behörde
 
@@ -38,18 +33,15 @@ Jagdausübungsberechtigte haben nach näherer Anweisung der zuständigen Behörd
 
 2. der von der zuständigen Behörde bestimmten Untersuchungseinrichtung zur virologischen Untersuchung auf das Virus zuzuleiten.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Absatz 2)Vorgaben für das im Rahmen des Monitorings zu untersuchende Probenmaterial
+# Anlage 1 – (zu § 1 Absatz 2)Vorgaben für das im Rahmen des Monitorings zu untersuchende Probenmaterial
 
 (Fundstelle: BGBl. I 2016, 450)
 
@@ -59,7 +51,6 @@ Der Bundesrat hat zugestimmt.
 
 Für den Transport der Proben gelten die Mindestanforderungen gemäß Kapitel XII des Anhangs der Entscheidung 2006/437/EG.
 
-
-## Anlage 2 – (zu § 1 Absatz 3)Probenschlüssel für die Untersuchungen auf Geflügelpest-Virus bei Wildvögeln
+# Anlage 2 – (zu § 1 Absatz 3)Probenschlüssel für die Untersuchungen auf Geflügelpest-Virus bei Wildvögeln
 
 (Fundstelle: BGBl. I 2016, 451)

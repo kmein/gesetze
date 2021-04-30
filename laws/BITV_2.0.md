@@ -1,22 +1,17 @@
-# [BITV 2.0] Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz  (Barrierefreie-Informationstechnik-Verordnung - BITV 2.0)
-
-Ausfertigungsdatum: 12.09.2011
-
+% Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz  (Barrierefreie-Informationstechnik-Verordnung - BITV 2.0)
+% Ausfertigungsdatum: 12.09.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Absatz 1 Satz 2 des Behindertengleichstellungsgesetzes, das zuletzt durch Artikel 12 des Gesetzes vom 19. Dezember 2007 (BGBl. I S. 3024) geändert worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Ziele
+# § 1 – Ziele
 
 (1) Die Barrierefreie-Informationstechnik-Verordnung dient dem Ziel, eine umfassend und grundsätzlich uneingeschränkt barrierefreie Gestaltung moderner Informations- und Kommunikationstechnik zu ermöglichen und zu gewährleisten.
 
 (2) Informationen und Dienstleistungen öffentlicher Stellen, die elektronisch zur Verfügung gestellt werden, sowie elektronisch unterstützte Verwaltungsabläufe mit und innerhalb der Verwaltung, einschließlich der Verfahren zur elektronischen Aktenführung und zur elektronischen Vorgangsbearbeitung, sind für Menschen mit Behinderungen zugänglich und nutzbar zu gestalten.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Die Verordnung gilt unter Berücksichtigung der Umsetzungsfristen der §§ 12a bis 12c des Behindertengleichstellungsgesetzes für folgende Angebote, Anwendungen und Dienste:
 
@@ -46,8 +41,7 @@ b) der Nichtverfügbarkeit automatisierter und kosteneffizienter Lösungen, mit 
 
 (3) Für den Erhalt der Einsatzfähigkeit der Streitkräfte kann die Bundesministerin oder der Bundesminister der Verteidigung Ausnahmen von dieser Verordnung festlegen.
 
-
-## § 2a – Begriffsdefinitionen
+# § 2a – Begriffsdefinitionen
 
 (1) Websites im Sinne dieser Verordnung sind Auftritte, die
 
@@ -83,8 +77,7 @@ Zum Inhalt von Websites gehören textuelle und nicht textuelle Informationen sow
 
 2. grafischen Nutzerschnittstellen in dreidimensionalen virtuellen Repräsentationen oder in Echtzeit-Raum-Repräsentationen.
 
-
-## § 3 – Anzuwendende Standards
+# § 3 – Anzuwendende Standards
 
 (1) Die in § 2 genannten Angebote, Anwendungen und Dienste der Informationstechnik sind barrierefrei zu gestalten. Dies erfordert, dass sie wahrnehmbar, bedienbar, verständlich und robust sind.
 
@@ -108,8 +101,7 @@ Zum Inhalt von Websites gehören textuelle und nicht textuelle Informationen sow
 
 4. weiterführende Erläuterungen.
 
-
-## § 4 – Erläuterungen in Deutscher Gebärdensprache und Leichter Sprache
+# § 4 – Erläuterungen in Deutscher Gebärdensprache und Leichter Sprache
 
 Auf der Startseite einer Website einer öffentlichen Stelle sind nach Anlage 2 folgende Erläuterungen in Deutscher Gebärdensprache und in Leichter Sprache bereitzustellen:
 
@@ -121,8 +113,7 @@ Auf der Startseite einer Website einer öffentlichen Stelle sind nach Anlage 2 f
 
 4. Hinweise auf weitere in diesem Auftritt vorhandene Informationen in Deutscher Gebärdensprache und in Leichter Sprache.
 
-
-## § 5 – Ausschuss für barrierefreie Informationstechnik
+# § 5 – Ausschuss für barrierefreie Informationstechnik
 
 (1) Bei der Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes wird ein Ausschuss für barrierefreie Informationstechnik eingerichtet, in dem fachkundige Vertreterinnen und Vertreter der Bundes- und der Landes-Überwachungsstellen, aus Verbänden von Menschen mit Behinderungen, aus der Wirtschaft und weitere fachkundige Personen, insbesondere der Wissenschaft sowie öffentlicher Stellen, in angemessener Zahl vertreten sein sollen.
 
@@ -138,13 +129,11 @@ Auf der Startseite einer Website einer öffentlichen Stelle sind nach Anlage 2 f
 
 (4) Der Ausschuss für barrierefreie Informationstechnik wird bei der Erfüllung seiner Aufgaben durch die Informationstechnik-Dienstleister des Bundes unterstützt.
 
-
-## § 6 – Beratung und Unterstützung durch die Bundesfachstelle für Barrierefreiheit und die Informationstechnik-Dienstleister des Bundes
+# § 6 – Beratung und Unterstützung durch die Bundesfachstelle für Barrierefreiheit und die Informationstechnik-Dienstleister des Bundes
 
 Die Bundesfachstelle für Barrierefreiheit als zentrale Anlaufstelle zu Fragen der Barrierefreiheit berät die öffentlichen Stellen des Bundes im Rahmen der Erstberatung nach § 13 Absatz 2 Satz 3 Nummer 1 des Behindertengleichstellungsgesetzes zur barrierefreien Gestaltung nach Maßgabe dieser Rechtsverordnung. Das Informationstechnikzentrum Bund und die BWI GmbH als zentrale Informationstechnik-Dienstleister der Bundesverwaltung beraten und unterstützen bei der technischen Umsetzung der IT-Barrierefreiheit.
 
-
-## § 7 – Erklärung zur Barrierefreiheit
+# § 7 – Erklärung zur Barrierefreiheit
 
 (1) Die Erklärung zur Barrierefreiheit nach § 12b des Behindertengleichstellungsgesetzes ist in einem barrierefreien und maschinenlesbaren Format zu veröffentlichen und muss von der Startseite und von jeder Seite einer Website erreichbar sein. Für mobile Anwendungen ist die Erklärung an der Stelle, an der das Herunterladen der mobilen Anwendung ermöglicht wird, oder auf der Website der öffentlichen Stelle, zu veröffentlichen.
 
@@ -164,8 +153,7 @@ Die Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetz
 
 (6) Die Erklärung zur Barrierefreiheit ist jährlich und bei jeder wesentlichen Änderung der Website oder der mobilen Anwendung zu aktualisieren.
 
-
-## § 8 – Überwachungsverfahren
+# § 8 – Überwachungsverfahren
 
 (1) Das Überwachungsverfahren nach § 13 Absatz 3 Satz 2 Nummer 1 des Behindertengleichstellungsgesetzes ist durch die Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes durchzuführen unter Beachtung der Anforderungen der Artikel 1 bis 7 sowie des Anhangs I des Durchführungsbeschlusses (EU) 2018/1524 der Kommission vom 11. Oktober 2018 zur Festlegung einer Überwachungsmethodik und der Modalitäten für die Berichterstattung der Mitgliedstaaten gemäß der Richtlinie (EU) 2016/2102 des Europäischen Parlaments und des Rates über den barrierefreien Zugang zu Websites und mobilen Anwendungen öffentlicher Stellen (ABl. L 256 vom 12.10.2018, S. 108).
 
@@ -175,8 +163,7 @@ Die Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetz
 
 (4) Die Verbände und Organisationen von Menschen mit Behinderungen sowie der Ausschuss nach § 5 werden in die Entwicklung und Evaluation der Überwachungsmethoden einbezogen. Die Überwachungsstelle konsultiert bei der Auswahl der zu überwachenden Websites und mobilen Anwendungen die Verbände und Organisationen von Menschen mit Behinderungen und berücksichtigt ihre Einschätzungen zu einzelnen Websites und mobilen Anwendungen.
 
-
-## § 9 – Berichterstattung
+# § 9 – Berichterstattung
 
 (1) Der Bericht an die Europäische Kommission wird durch die Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetzes erstellt unter Beachtung der Anforderungen der Artikel 8 bis 11 sowie des Anhangs II des Durchführungsbeschlusses (EU) 2018/1524 der Kommission vom 11. Oktober 2018 zur Festlegung einer Überwachungsmethodik und der Modalitäten für die Berichterstattung der Mitgliedstaaten gemäß der Richtlinie (EU) 2016/2102 des Europäischen Parlaments und des Rates über den barrierefreien Zugang zu Websites und mobilen Anwendungen öffentlicher Stellen (ABl. L 256 vom 12.10.2018, S. 108).
 
@@ -188,16 +175,13 @@ Die Überwachungsstelle nach § 13 Absatz 3 des Behindertengleichstellungsgesetz
 
 3. Ergebnisse der Konsultationen der Verbände und Organisationen von Menschen mit Behinderungen.
 
-
-## § 10 – Folgenabschätzung
+# § 10 – Folgenabschätzung
 
 Die Verordnung ist unter Berücksichtigung der technischen Entwicklung regelmäßig zu überprüfen.
 
+# Anlage 1 – (weggefallen)
 
-## Anlage 1 – (weggefallen)
-
-
-## Anlage 2 – (zu § 3 Absatz 2)
+# Anlage 2 – (zu § 3 Absatz 2)
 
 (Fundstelle: BGBl. I 2011, 1859;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)  
@@ -215,7 +199,7 @@ Für die Bereitstellung von Informationen in Deutscher Gebärdensprache im Inter
 
 |                                                  |
 |:------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2011/j1843_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2011/j1843_0010.jpg) |
 |      Symbol für Deutsche Gebärdensprache 1       |
 
 Quelle:
@@ -230,8 +214,7 @@ http://www.dgs-filme.de/GWHomepage/images/dgs\_symbol\_57.png
 
 6. Die Bildfolge beträgt mindestens 25 Bilder je Sekunde.
 
-7. Der Gebärdensprach-Film ist darüber hinaus als Datei zum Herunterladen verfügbar.  
-Es sind Angaben zur Größe der Datei sowie zur Abspieldauer verfügbar.
+7. Der Gebärdensprach-Film ist darüber hinaus als Datei zum Herunterladen verfügbar. Es sind Angaben zur Größe der Datei sowie zur Abspieldauer verfügbar.
 
 Für die Bereitstellung von Informationen in Leichter Sprache im Internet oder Intranet gelten die folgenden Vorgaben:
 

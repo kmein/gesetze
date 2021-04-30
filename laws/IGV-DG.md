@@ -1,19 +1,15 @@
-# [IGV-DG] Gesetz zur Durchführung der Internationalen Gesundheitsvorschriften (2005)  (IGV-Durchführungsgesetz - IGV-DG)
-
-Ausfertigungsdatum: 21.03.2013
-
+% Gesetz zur Durchführung der Internationalen Gesundheitsvorschriften (2005)  (IGV-Durchführungsgesetz - IGV-DG)
+% Ausfertigungsdatum: 21.03.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
  
 
+ 
 
-## § 1 – Zweck und Begriffsbestimmungen (zu Artikel 1 IGV)
+# § 1 – Zweck und Begriffsbestimmungen (zu Artikel 1 IGV)
 
 (1) Dieses Gesetz dient der Durchführung der Internationalen Gesundheitsvorschriften (2005) (IGV) (BGBl. 2007 II S. 930, 932). Sie werden in diesem Gesetz als „IGV“ bezeichnet.
 
@@ -111,22 +107,19 @@ b) möglicherweise eine abgestimmte internationale Reaktion erfordert;
 
 34. ist Verseuchung das Vorkommen eines Krankheitserregers oder Giftstoffs auf menschlichen oder tierischen Körpern, in oder auf einem für den Verzehr bestimmten Produkt oder auf anderen unbelebten Gegenständen, einschließlich Beförderungsmitteln, das eine Gefahr für die öffentliche Gesundheit darstellen kann.
 
-
-## § 2 – Zuständige Behörden (zu Artikel 4 Absatz 1, Artikel 19 Buchstabe b IGV)
+# § 2 – Zuständige Behörden (zu Artikel 4 Absatz 1, Artikel 19 Buchstabe b IGV)
 
 (1) Das Landesrecht bestimmt die Behörden, die als zuständige Behörde, Gesundheitsamt oder an Grenzübergangsstellen von Häfen als Hafenärztlicher Dienst für den Vollzug der IGV und dieses Gesetzes zuständig sind, soweit dieses Gesetz oder anderes Bundesrecht nicht etwas Abweichendes bestimmt. Das Gesundheitsamt ist mit einer Amtsärztin oder einem Amtsarzt besetzt. Der Hafenärztliche Dienst ist mit einer Ärztin oder einem Arzt besetzt, die oder der für den Aufgabenbereich qualifiziert ist.
 
 (2) In der Bundeswehr werden die IGV und dieses Gesetz von den vom Bundesministerium der Verteidigung bestimmten zuständigen Stellen der Bundeswehr vollzogen.
 
-
-## § 3 – Nationale IGV-Anlaufstelle (zu Artikel 4 Absatz 1 und 2 IGV)
+# § 3 – Nationale IGV-Anlaufstelle (zu Artikel 4 Absatz 1 und 2 IGV)
 
 (1) Nationale IGV-Anlaufstelle ist das Gemeinsame Melde- und Lagezentrum von Bund und Ländern im Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. Die nationale IGV-Anlaufstelle nimmt die Aufgaben nach Artikel 4 Absatz 2 IGV sowie diejenigen Aufgaben wahr, mit denen sie vom Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat zur Durchführung der IGV beauftragt wird.
 
 (2) Die nationale IGV-Anlaufstelle darf personenbezogene Daten, die ihr im Rahmen ihrer Aufgaben nach Artikel 4 Absatz 2 IGV übermittelt werden, verarbeiten und dazu an die nach den IGV und diesem Gesetz zuständigen Stellen im In- und Ausland übermitteln, soweit dies zur Umsetzung der IGV erforderlich ist.
 
-
-## § 4 – Mitteilungen über die nationale IGV-Anlaufstelle (zu den Artikeln 6 bis 12 IGV)
+# § 4 – Mitteilungen über die nationale IGV-Anlaufstelle (zu den Artikeln 6 bis 12 IGV)
 
 (1) Die Entscheidung, welche Mitteilungen die nationale IGV-Anlaufstelle insbesondere nach den Artikeln 6 bis 12 IGV an die Weltgesundheitsorganisation sendet, und die Entscheidung, an welche Behörden Informationen weitergeleitet werden, die von der Weltgesundheitsorganisation über die nationale IGV-Anlaufstelle eingehen, trifft
 
@@ -148,20 +141,17 @@ Die Behörden nach Satz 1 stellen der nach Absatz 1 jeweils entscheidungsbefugte
 
 (3) § 12 Absatz 1 des Infektionsschutzgesetzes bleibt unberührt.
 
-
-## § 5 – Informationspflichten von Beförderern, Flughafenunternehmern und Betreibern von Häfen und Personenbahnhöfen (zu Artikel 24 IGV)
+# § 5 – Informationspflichten von Beförderern, Flughafenunternehmern und Betreibern von Häfen und Personenbahnhöfen (zu Artikel 24 IGV)
 
 (1) Wenn Reisende von einer schwerwiegenden Gefahr für die öffentliche Gesundheit bedroht oder betroffen sein können, kann das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur allgemein anordnen, dass die Beförderer Reisenden bei der Ankunft oder Abreise bestimmte Verhaltenshinweise zur Krankheitsvorbeugung oder für den Fall, dass Krankheitssymptome auftreten, zu geben haben. Ebenso können Flughafenunternehmer, die Betreiber von Häfen, Personenbahnhöfen und Omnibusbahnhöfen sowie Reiseveranstalter verpflichtet werden, den Reisenden bestimmte Verhaltenshinweise zur Krankheitsvorbeugung oder für den Fall, dass Krankheitssymptome auftreten, zu geben. Widerspruch und Anfechtungsklage gegen Anordnungen nach den Sätzen 1 und 2 haben keine aufschiebende Wirkung.
 
 (2) Das Bundesministerium für Gesundheit bestimmt Inhalt und Form der Informationen im Benehmen mit den Ländern und im Einvernehmen mit der nach § 4 Absatz 1 jeweils entscheidungsbefugten Behörde, die ihrerseits die empfohlenen Gesundheitsmaßnahmen der Weltgesundheitsorganisation berücksichtigt.
 
-
-## § 6 – Anforderungen an Beförderungsmittel, Container und Container-Verladeplätze (zu Artikel 24 in Verbindung mit den Anlagen 4 und 5, Artikel 34 IGV)
+# § 6 – Anforderungen an Beförderungsmittel, Container und Container-Verladeplätze (zu Artikel 24 in Verbindung mit den Anlagen 4 und 5, Artikel 34 IGV)
 
 Beförderer haben ihre Beförderungsmittel frei von Infektions- und Verseuchungsquellen zu halten. Container-Verlader haben ihre Container und Container-Verladeplätze für den internationalen Verkehr frei von Infektions- und Verseuchungsquellen zu halten und Möglichkeiten zur Überprüfung und Absonderung von Containern zu schaffen.
 
-
-## § 7 – Spezielle Gelbfieber-Impfstellen (zu Anlage 7 Absatz 2 Buchstabe f IGV)
+# § 7 – Spezielle Gelbfieber-Impfstellen (zu Anlage 7 Absatz 2 Buchstabe f IGV)
 
 (1) Schutzimpfungen gegen Gelbfieber dürfen nur in Impfstellen durchgeführt werden, die von der zuständigen Behörde für die Impfung gegen Gelbfieber zugelassen sind (spezielle Gelbfieber-Impfstellen). Die zuständige Behörde kann niedergelassenen Ärztinnen und Ärzten, Gesundheitsbehörden und medizinischen Einrichtungen auf Antrag die Zulassung erteilen, wenn
 
@@ -175,8 +165,7 @@ Die zuständige Behörde stellt eine bedarfsgerechte Versorgung mit Gelbfieber-I
 
 (3) Der impfende Arzt oder die impfende Ärztin hat bei der Schutzimpfung einen von der Weltgesundheitsorganisation anerkannten Impfstoff zu verwenden. Über die Impfung ist die internationale Impf- oder Prophylaxebescheinigung nach dem Muster in Anlage 6 IGV auszustellen. § 22 Absatz 1 des Infektionsschutzgesetzes bleibt unberührt.
 
-
-## § 8 – Flughäfen mit Kapazitäten nach Anlage 1 Teil B IGV (zu Artikel 13 Absatz 1, Artikel 19 Buchstabe a, Artikel 20 Absatz 1 in Verbindung mit Anlage 1 Teil B IGV)
+# § 8 – Flughäfen mit Kapazitäten nach Anlage 1 Teil B IGV (zu Artikel 13 Absatz 1, Artikel 19 Buchstabe a, Artikel 20 Absatz 1 in Verbindung mit Anlage 1 Teil B IGV)
 
 (1) An den Flughäfen Berlin Brandenburg, Düsseldorf, Frankfurt am Main, Hamburg und München müssen ab dem 15. Juni 2012 die in Anlage 1 Teil B IGV aufgeführten Kapazitäten zum Schutz der öffentlichen Gesundheit vorhanden sein.
 
@@ -220,8 +209,7 @@ Der Flughafenunternehmer kann seine Verpflichtungen nach Satz 1 auch durch Vertr
 
 (10) Die zuständige Behörde überwacht die Erfüllung der Verpflichtungen nach den Absätzen 5 und 9. Auf Verlangen der zuständigen Behörde hat der Flughafenunternehmer ihr und den von ihr beauftragten Personen während der üblichen Betriebs- und Geschäftszeiten Zutritt zu den in Absatz 5 Satz 1 genannten Räumlichkeiten und Einrichtungen zu gewähren und alle einschlägigen Unterlagen zur Verfügung zu stellen.
 
-
-## § 9 – Verpflichtung von Luftfahrzeugführerinnen und Luftfahrzeugführern, auf einem Flughafen mit Kapazitäten nach Anlage 1 Teil B IGV zu landen (zu Artikel 28 Absatz 1 und Anlage 5 Absatz 7 Satz 2 IGV)
+# § 9 – Verpflichtung von Luftfahrzeugführerinnen und Luftfahrzeugführern, auf einem Flughafen mit Kapazitäten nach Anlage 1 Teil B IGV zu landen (zu Artikel 28 Absatz 1 und Anlage 5 Absatz 7 Satz 2 IGV)
 
 (1) Das Bundesministerium für Gesundheit kann im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur allgemein anordnen, dass Luftfahrzeuge, die aus betroffenen Gebieten ankommen, im Inland zunächst nur auf einem Flughafen mit Kapazitäten nach Anlage 1 Teil B IGV landen dürfen. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die allgemeine Anordnung in der für den Luftverkehrsbereich üblichen Weise bekannt. Widerspruch und Anfechtungsklage gegen Anordnungen nach Satz 1 haben keine aufschiebende Wirkung.
 
@@ -231,15 +219,13 @@ Der Flughafenunternehmer kann seine Verpflichtungen nach Satz 1 auch durch Vertr
 
 (4) Flughafenunternehmer von Flughäfen mit internationalem Flugverkehr, die nicht nach § 8 Absatz 1 oder 2 verpflichtet sind, haben mit den nach § 8 Absatz 1 oder 2 verpflichteten Flughäfen, zu denen betroffene Luftfahrzeuge oder Luftfahrzeuge aus betroffenen Gebieten voraussichtlich umgeleitet würden, Verträge über eine Beteiligung an den Kosten für Kapazitäten nach § 8 Absatz 4 und 5 und für im Ereignisfall erbrachte medizinische und organisatorische Hilfeleistungen zu schließen.
 
-
-## § 10 – Allgemeine Erklärung für Luftfahrzeuge, Abschnitt über Gesundheit (zu Artikel 38 Absatz 1 und 3 in Verbindung mit Anlage 9 IGV)
+# § 10 – Allgemeine Erklärung für Luftfahrzeuge, Abschnitt über Gesundheit (zu Artikel 38 Absatz 1 und 3 in Verbindung mit Anlage 9 IGV)
 
 (1) Die verantwortliche Luftfahrzeugführerin oder der verantwortliche Luftfahrzeugführer hat vor der ersten Landung auf einem inländischen Flughafen die Allgemeine Erklärung für Luftfahrzeuge, Abschnitt über Gesundheit, gemäß Artikel 38 in Verbindung mit Anlage 9 IGV nur dann abzugeben, wenn das Bundesministerium für Gesundheit dies allgemein angeordnet hat. Das Bundesministerium für Gesundheit kann diese allgemeine Anordnung für Luftfahrzeuge treffen, die aus betroffenen Gebieten kommen. Die Anordnung ergeht im Einvernehmen mit dem Robert Koch-Institut. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die allgemeine Anordnung in der für den Luftverkehrsbereich üblichen Weise bekannt.
 
 (2) Die verantwortliche Luftfahrzeugführerin oder der verantwortliche Luftfahrzeugführer hat unverzüglich nach der ersten Landung die Allgemeine Erklärung für Luftfahrzeuge an die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständige Stelle zu übergeben. Diese leitet die Erklärung zur Prüfung des Abschnitts über Gesundheit an das für den Flughafen zuständige Gesundheitsamt weiter.
 
-
-## § 11 – Meldeverfahren für verantwortliche Luftfahrzeugführerinnen und Luftfahrzeugführer bei Erkrankungsfällen oder Anzeichen an Bord für eine erhebliche Gefahr für die öffentliche Gesundheit (zu Artikel 28 Absatz 4, Artikel 38 Absatz 2 IGV)
+# § 11 – Meldeverfahren für verantwortliche Luftfahrzeugführerinnen und Luftfahrzeugführer bei Erkrankungsfällen oder Anzeichen an Bord für eine erhebliche Gefahr für die öffentliche Gesundheit (zu Artikel 28 Absatz 4, Artikel 38 Absatz 2 IGV)
 
 (1) Die verantwortliche Führerin oder der verantwortliche Führer eines Luftfahrzeugs mit einem inländischen Zielflughafen oder der oder die Beauftragte hat der Flugverkehrskontrollstelle, mit der sie oder er in Funkkontakt steht, und der Verkehrsleiterin oder dem Verkehrsleiter des Luftfahrtunternehmens auf dem Zielflughafen unverzüglich zu melden, wenn sie oder er erfährt,
 
@@ -269,8 +255,7 @@ Satz 1 gilt abweichend von § 1 Absatz 2 auch bei Luftfahrzeugen, die sich auf e
 
 (5) Auf Meldungen nach Absatz 1, die sich auf eine übertragbare Krankheit beziehen, findet § 11 Absatz 1 und 2 des Infektionsschutzgesetzes entsprechende Anwendung. Für die Übermittlung an die zuständige Landesbehörde ist das Gesundheitsamt zuständig, das die Meldung erhalten hat.
 
-
-## § 12 – Ermittlung von Kontaktpersonen (zu Artikel 23 Absatz 1 Buchstabe a IGV)
+# § 12 – Ermittlung von Kontaktpersonen (zu Artikel 23 Absatz 1 Buchstabe a IGV)
 
 (1) Das Bundesministerium für Gesundheit kann allgemein anordnen, dass Reisende, die aus betroffenen Gebieten ankommen, vor dem Verlassen des Luftfahrzeugs in einem Formular, der Aussteigekarte, Angaben zum Flug und zur persönlichen Erreichbarkeit in den auf die Ankunft folgenden 30 Tagen zu machen haben. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die allgemeine Anordnung in der für den Luftverkehrsbereich üblichen Weise bekannt. Die Aussteigekarte soll dem Muster der Anlage 1 zu diesem Gesetz entsprechen.
 
@@ -288,8 +273,7 @@ Satz 1 gilt abweichend von § 1 Absatz 2 auch bei Luftfahrzeugen, die sich auf e
 
 (7) Auf Ersuchen der zuständigen obersten Landesgesundheitsbehörde kann das Robert Koch-Institut dem nach § 25 Absatz 1 des Infektionsschutzgesetzes zuständigen Gesundheitsamt bei den Ermittlungen und der Kontaktaufnahme mit Reisenden oder ihren möglichen Kontaktpersonen Amtshilfe leisten. Soweit es zur Erfüllung dieser Amtshilfe erforderlich ist, darf es personenbezogene Daten verarbeiten und nutzen.
 
-
-## § 13 – Häfen mit Kapazitäten nach Anlage 1 Teil B IGV (zu Artikel 13 Absatz 1, Artikel 19 Buchstabe a, Artikel 20 Absatz 1 in Verbindung mit Anlage 1 Teil B IGV)
+# § 13 – Häfen mit Kapazitäten nach Anlage 1 Teil B IGV (zu Artikel 13 Absatz 1, Artikel 19 Buchstabe a, Artikel 20 Absatz 1 in Verbindung mit Anlage 1 Teil B IGV)
 
 (1) An den Häfen der Städte Bremen und Bremerhaven, Hamburg, Kiel, Rostock und am Jade-Weser-Port in Wilhelmshaven müssen ab dem 15. Juni 2012 die in Anlage 1 Teil B der IGV aufgeführten Kapazitäten zum Schutz der öffentlichen Gesundheit vorhanden sein.
 
@@ -333,8 +317,7 @@ Der Betreiber kann seine Verpflichtungen nach Satz 1 auch durch Verträge auf Dr
 
 (10) Die zuständige Behörde überwacht die Erfüllung der Verpflichtungen nach den Absätzen 5 und 9. Auf Verlangen der zuständigen Behörde hat der Betreiber ihr und den von ihr beauftragten Personen während der üblichen Betriebs- und Geschäftszeiten Zutritt zu den in Absatz 5 Satz 1 genannten Räumlichkeiten und Einrichtungen zu gewähren und alle einschlägigen Unterlagen zur Verfügung zu stellen.
 
-
-## § 14 – Verpflichtung von Schiffsführerinnen und Schiffsführern, einen Hafen mit Kapazitäten nach Anlage 1 Teil B IGV anzulaufen (zu Artikel 28 Absatz 1 IGV)
+# § 14 – Verpflichtung von Schiffsführerinnen und Schiffsführern, einen Hafen mit Kapazitäten nach Anlage 1 Teil B IGV anzulaufen (zu Artikel 28 Absatz 1 IGV)
 
 (1) Das Bundesministerium für Gesundheit kann im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur allgemein anordnen, dass Schiffe, die aus betroffenen Gebieten ankommen, im Inland zunächst nur einen Hafen mit Kapazitäten nach Anlage 1 Teil B IGV anlaufen dürfen. Widerspruch und Anfechtungsklage gegen Anordnungen nach Satz 1 haben keine aufschiebende Wirkung. Die zuständige Gesundheitsbehörde kann Schiffen im Einzelfall erlauben, einen anderen Hafen anzulaufen.
 
@@ -344,8 +327,7 @@ Der Betreiber kann seine Verpflichtungen nach Satz 1 auch durch Verträge auf Dr
 
 (4) Betreiber eines Hafens, die in ihrem Hafen oder Hafenteil internationale Schiffsverkehre abfertigen und die keine Verpflichtung nach § 13 Absatz 1 oder 2 haben, haben mit den Betreibern der Häfen nach § 13 Absatz 1 oder 2, zu denen betroffene Schiffe oder Schiffsverkehre aus betroffenen Gebieten voraussichtlich umgeleitet werden, Verträge über eine Beteiligung an den Kosten für Kapazitäten nach § 13 Absatz 4 und 5 und für im Ereignisfall erbrachte medizinische und organisatorische Hilfeleistung zu schließen.
 
-
-## § 15 – Seegesundheitserklärung (zu Artikel 37 Absatz 1, 3 und 4 in Verbindung mit Anlage 8 IGV)
+# § 15 – Seegesundheitserklärung (zu Artikel 37 Absatz 1, 3 und 4 in Verbindung mit Anlage 8 IGV)
 
 (1) Die Führerin oder der Führer eines Seeschiffes oder die beauftragte Person hat den Gesundheitszustand der an Bord befindlichen Personen vor der Ankunft im ersten inländischen Hafen festzustellen und eine Seegesundheitserklärung nach dem Muster der Anlage 8 IGV auszufüllen. Befindet sich eine Schiffsärztin oder ein Schiffsarzt an Bord, hat sie oder er an der Feststellung des Gesundheitszustandes und der Erstellung der Seegesundheitserklärung mitzuwirken und die Seegesundheitserklärung gegenzuzeichnen. Die Schiffsführerin oder der Schiffsführer oder die beauftragte Person hat die Seegesundheitserklärung in Papierform an Bord zur Einsichtnahme durch den zuständigen Hafenärztlichen Dienst oder seinen Beauftragten aufzubewahren. Er oder sie hat die Seegesundheitserklärung außerdem
 
@@ -389,8 +371,7 @@ Widerspruch und Anfechtungsklage gegen Anordnungen nach Satz 1 Nummer 3 haben ke
 
 (3) Das Bundesministerium für Gesundheit kann im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur allgemein anordnen, dass Schiffe oder bestimmte Typen von Schiffen die an Bord festgestellten gesundheitlichen Verhältnisse auf der Grundlage des Internationalen Signalbuches der Internationalen Seeschifffahrts-Organisation durch Flaggen und Lichtzeichen anzuzeigen haben.
 
-
-## § 16 – Meldeverfahren für Schiffsführerinnen und Schiffsführer bei Erkrankungsfällen oder Anzeichen für eine erhebliche Gefahr für die öffentliche Gesundheit (zu Artikel 28 Absatz 4 IGV)
+# § 16 – Meldeverfahren für Schiffsführerinnen und Schiffsführer bei Erkrankungsfällen oder Anzeichen für eine erhebliche Gefahr für die öffentliche Gesundheit (zu Artikel 28 Absatz 4 IGV)
 
 (1) Die Führerin oder der Führer eines Schiffes mit einem inländischen Bestimmungshafen oder die beauftragte Person hat der zuständigen Hafenaufsicht unverzüglich zu melden, wenn sie oder er erfährt, dass
 
@@ -418,8 +399,7 @@ Satz 1 gilt abweichend von § 1 Absatz 2 auch bei See- und Binnenschiffen, die s
 
 (4) Auf Meldungen nach Absatz 1, die sich auf eine übertragbare Krankheit beziehen, findet § 11 Absatz 1 und 2 des Infektionsschutzgesetzes entsprechende Anwendung. Für die Übermittlung an die zuständige Landesbehörde ist das Gesundheitsamt zuständig, das die Meldung erhalten hat.
 
-
-## § 17 – Ermittlung der gesundheitlichen Verhältnisse an Bord (zu Artikel 37 Absatz 2 IGV)
+# § 17 – Ermittlung der gesundheitlichen Verhältnisse an Bord (zu Artikel 37 Absatz 2 IGV)
 
 (1) Die Lotsin oder der Lotse hat die Führerin oder den Führer eines Schiffes über den Gesundheitszustand an Bord zu befragen und bei Anhaltspunkten für eine Gefahr für die öffentliche Gesundheit unverzüglich den zuständigen Hafenärztlichen Dienst zu informieren.
 
@@ -427,8 +407,7 @@ Satz 1 gilt abweichend von § 1 Absatz 2 auch bei See- und Binnenschiffen, die s
 
 (3) § 12 findet im See- und Binnenschiffsverkehr entsprechende Anwendung. Die Aussteigekarte soll dem Muster der Anlage 1a entsprechen.
 
-
-## § 18 – Freie Verkehrserlaubnis (free pratique) (zu Artikel 28 Absatz 2 und 3, Artikel 27 Absatz 1 IGV)
+# § 18 – Freie Verkehrserlaubnis (free pratique) (zu Artikel 28 Absatz 2 und 3, Artikel 27 Absatz 1 IGV)
 
 (1) Der Hafenärztliche Dienst hat einem Schiff bei der Ankunft eine Freie Verkehrserlaubnis (free pratique) zu erteilen, wenn
 
@@ -448,8 +427,7 @@ Satz 1 gilt abweichend von § 1 Absatz 2 auch bei See- und Binnenschiffen, die s
 
 (6) Für individuell zurechenbare öffentliche Leistungen nach den Absätzen 1 bis 5 werden von den Eigentümerinnen und Eigentümern der Schiffe zur Deckung des Verwaltungsaufwandes Gebühren und Auslagen nach dem Gebührenverzeichnis der Anlage 2 erhoben. Für die Angemessenheit der Kostensätze gilt § 19 Absatz 7 Satz 3 entsprechend.
 
-
-## § 19 – Überprüfung der Schiffshygiene (zu Artikel 20 Absatz 2 und 3, Artikel 39 in Verbindung mit Anlage 3, Artikel 41 IGV)
+# § 19 – Überprüfung der Schiffshygiene (zu Artikel 20 Absatz 2 und 3, Artikel 39 in Verbindung mit Anlage 3, Artikel 41 IGV)
 
 (1) Die zuständige oberste Landesgesundheitsbehörde bestimmt die Häfen, an denen der zuständige Hafenärztliche Dienst befugt ist, Bescheinigungen über die Befreiung von Schiffshygienemaßnahmen oder Bescheinigungen über die Durchführung von Schiffshygienemaßnahmen auszustellen oder die Gültigkeit dieser Schiffshygienebescheinigungen um bis zu einen Monat zu verlängern. Die zuständige oberste Landesgesundheitsbehörde setzt das Bundesministerium für Gesundheit in Kenntnis, welchen Häfen welche Befugnisse nach Satz 1 erteilt oder entzogen wurden. Das Bundesministerium für Gesundheit übermittelt diese Angaben der Weltgesundheitsorganisation.
 
@@ -507,8 +485,7 @@ Bei der Überprüfung der Schiffshygiene sind die Empfehlungen der Weltgesundhei
 
 (8) Zu Wohnzwecken dienende Räume des Schiffes dürfen ohne Einwilligung der oder des Berechtigten zu in den Absätzen 4 und 5 genannten Zwecken nur dann betreten werden und müssen nur dann zugänglich gemacht werden, wenn dies zur Verhütung einer dringenden Gefahr für die öffentliche Gesundheit, insbesondere zur Bekämpfung einer Seuchengefahr, erforderlich ist. Satz 1 gilt außerhalb der üblichen Betriebs-und Geschäftszeiten auch für die Betriebs- und Geschäftsräume des Schiffes. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
-
-## § 20 – Rechtsverordnungsermächtigung
+# § 20 – Rechtsverordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium des Innern, für Bau und Heimat mit Zustimmung des Bundesrates durch Rechtsverordnung nähere Bestimmungen zur Durchführung der IGV zu erlassen, soweit sich diese Bestimmungen im Rahmen der Ziele der IGV bewegen. Dabei kann insbesondere Folgendes geregelt werden:
 
@@ -556,8 +533,7 @@ b) die Zusammenarbeit dieser Behörden mit den sonst nach Landesrecht zuständig
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium für Wirtschaft und Energie sowie dem Bundesministerium des Innern, für Bau und Heimat mit Zustimmung des Bundesrates durch Rechtsverordnung die Aussteigekarte in Anlage 1 oder das Gebührenverzeichnis in Anlage 2 zu ändern oder zu ergänzen, wenn dies zur Anpassung an internationale Standards oder zur Anpassung der Gebührensätze erforderlich ist.
 
-
-## § 21 – Bußgeldvorschriften
+# § 21 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -579,8 +555,7 @@ b) die Zusammenarbeit dieser Behörden mit den sonst nach Landesrecht zuständig
 
 9. entgegen § 12 Absatz 5 die Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt,
 
-9a.  
-entgegen § 15 Absatz 1 Satz 4 oder Satz 6 Nummer 2 eine dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
+9a. entgegen § 15 Absatz 1 Satz 4 oder Satz 6 Nummer 2 eine dort genannte Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
 10. entgegen § 17 Absatz 2 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt oder
 
@@ -588,31 +563,27 @@ entgegen § 15 Absatz 1 Satz 4 oder Satz 6 Nummer 2 eine dort genannte Erklärun
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 5 mit einer Geldbuße bis zu einhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
-## § 22 – Strafvorschrift
+# § 22 – Strafvorschrift
 
 Wer vorsätzlich eine der in § 21 Absatz 1 Nummer 6 bezeichneten Handlungen begeht und dadurch eine bedrohliche Krankheit verbreitet, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
 
-
-## Anlage 1 – (zu § 12 Absatz 1)Aussteigekarte
+# Anlage 1 – (zu § 12 Absatz 1)Aussteigekarte
 
 (Fundstelle: BGBl. I 2017, 2630 - 2631)
 
-![](../normengrafiken/bgbl1_2017/j2615-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j2615-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_2017/j2615-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j2615-1_0020.jpg)
 
-
-## Anlage 1a – (zu § 17 Absatz 3)Aussteigekarte für Reisende/Passenger Locator Card
+# Anlage 1a – (zu § 17 Absatz 3)Aussteigekarte für Reisende/Passenger Locator Card
 
 (Fundstelle: BGBl. I 2017, 2632 - 2633)
 
-![](../normengrafiken/bgbl1_2017/j2615-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j2615-1_0030.jpg)
 
-![](../normengrafiken/bgbl1_2017/j2615-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j2615-1_0040.jpg)
 
-
-## Anlage 2 – (zu § 18 Absatz 6 und § 19 Absatz 7)Gebührenverzeichnis
+# Anlage 2 – (zu § 18 Absatz 6 und § 19 Absatz 7)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2017, 2634 – 2635)
 

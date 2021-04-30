@@ -1,10 +1,7 @@
-# [StZG] Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen  (Stammzellgesetz - StZG)
-
-Ausfertigungsdatum: 28.06.2002
-
+% Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen  (Stammzellgesetz - StZG)
+% Ausfertigungsdatum: 28.06.2002
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es, im Hinblick auf die staatliche Verpflichtung, die Menschenwürde und das Recht auf Leben zu achten und zu schützen und die Freiheit der Forschung zu gewährleisten,
 
@@ -14,13 +11,11 @@ Zweck dieses Gesetzes ist es, im Hinblick auf die staatliche Verpflichtung, die 
 
 3. die Voraussetzungen zu bestimmen, unter denen die Einfuhr und die Verwendung embryonaler Stammzellen ausnahmsweise zu Forschungszwecken zugelassen sind.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 Dieses Gesetz gilt für die Einfuhr von embryonalen Stammzellen und für die Verwendung von embryonalen Stammzellen, die sich im Inland befinden.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -34,8 +29,7 @@ Im Sinne dieses Gesetzes
 
 5. ist Einfuhr das Verbringen embryonaler Stammzellen in den Geltungsbereich dieses Gesetzes.
 
-
-## § 4 – Einfuhr und Verwendung embryonaler Stammzellen
+# § 4 – Einfuhr und Verwendung embryonaler Stammzellen
 
 (1) Die Einfuhr und die Verwendung embryonaler Stammzellen ist verboten.
 
@@ -53,8 +47,7 @@ c) für die Überlassung der Embryonen zur Stammzellgewinnung kein Entgelt oder 
 
 (3) Die Genehmigung ist zu versagen, wenn die Gewinnung der embryonalen Stammzellen offensichtlich im Widerspruch zu tragenden Grundsätzen der deutschen Rechtsordnung erfolgt ist. Die Versagung kann nicht damit begründet werden, dass die Stammzellen aus menschlichen Embryonen gewonnen wurden.
 
-
-## § 5 – Forschung an embryonalen Stammzellen
+# § 5 – Forschung an embryonalen Stammzellen
 
 Forschungsarbeiten an embryonalen Stammzellen dürfen nur durchgeführt werden, wenn wissenschaftlich begründet dargelegt ist, dass
 
@@ -66,8 +59,7 @@ a) die im Forschungsvorhaben vorgesehenen Fragestellungen so weit wie möglich b
 
 b) der mit dem Forschungsvorhaben angestrebte wissenschaftliche Erkenntnisgewinn sich voraussichtlich nur mit embryonalen Stammzellen erreichen lässt.
 
-
-## § 6 – Genehmigung
+# § 6 – Genehmigung
 
 (1) Jede Einfuhr und jede Verwendung embryonaler Stammzellen bedarf der Genehmigung durch die zuständige Behörde.
 
@@ -97,8 +89,7 @@ b) durch diese Eintragung die Voraussetzungen nach § 4 Abs. 2 Nr. 1 erfüllt si
 
 (6) Die Genehmigung kann unter Auflagen und Bedingungen erteilt und befristet werden, soweit dies zur Erfüllung oder fortlaufenden Einhaltung der Genehmigungsvoraussetzungen nach Absatz 4 erforderlich ist. Treten nach Erteilung der Genehmigung Tatsachen ein, die der Genehmigung entgegenstehen, kann die Genehmigung mit Wirkung für die Zukunft ganz oder teilweise widerrufen oder von der Erfüllung von Auflagen abhängig gemacht oder befristet werden, soweit dies zur Erfüllung oder fortlaufenden Einhaltung der Genehmigungsvoraussetzungen nach Absatz 4 erforderlich ist. Widerspruch und Anfechtungsklage gegen die Rücknahme oder den Widerruf der Genehmigung haben keine aufschiebende Wirkung.
 
-
-## § 7 – Zuständige Behörde
+# § 7 – Zuständige Behörde
 
 (1) Zuständige Behörde ist eine durch Rechtsverordnung des Bundesministeriums für Gesundheit zu bestimmende Behörde aus seinem Geschäftsbereich. Sie führt die ihr nach diesem Gesetz übertragenen Aufgaben als Verwaltungsaufgaben des Bundes durch und untersteht der Fachaufsicht des Bundesministeriums für Gesundheit.
 
@@ -108,8 +99,7 @@ b) durch diese Eintragung die Voraussetzungen nach § 4 Abs. 2 Nr. 1 erfüllt si
 
 (4) Die bei der Erfüllung von Auskunftspflichten im Rahmen des Genehmigungsverfahrens entstehenden eigenen Aufwendungen des Antragstellers sind nicht zu erstatten.
 
-
-## § 8 – Zentrale Ethik-Kommission für Stammzellenforschung
+# § 8 – Zentrale Ethik-Kommission für Stammzellenforschung
 
 (1) Bei der zuständigen Behörde wird eine interdisziplinär zusammengesetzte, unabhängige Zentrale Ethik-Kommission für Stammzellenforschung eingerichtet, die sich aus neun Sachverständigen der Fachrichtungen Biologie, Ethik, Medizin und Theologie zusammensetzt. Vier der Sachverständigen werden aus den Fachrichtungen Ethik und Theologie, fünf der Sachverständigen aus den Fachrichtungen Biologie und Medizin berufen. Die Kommission wählt aus ihrer Mitte Vorsitz und Stellvertretung.
 
@@ -119,13 +109,11 @@ b) durch diese Eintragung die Voraussetzungen nach § 4 Abs. 2 Nr. 1 erfüllt si
 
 (4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung das Nähere über die Berufung und das Verfahren der Zentralen Ethik-Kommission für Stammzellenforschung, die Heranziehung externer Sachverständiger sowie die Zusammenarbeit mit der zuständigen Behörde einschließlich der Fristen zu regeln.
 
-
-## § 9 – Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung
+# § 9 – Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung
 
 Die Zentrale Ethik-Kommission für Stammzellenforschung prüft und bewertet anhand der eingereichten Unterlagen, ob die Voraussetzungen nach § 5 erfüllt sind und das Forschungsvorhaben in diesem Sinne ethisch vertretbar ist.
 
-
-## § 10 – Vertraulichkeit von Angaben
+# § 10 – Vertraulichkeit von Angaben
 
 (1) Die Antragsunterlagen nach § 6 sind vertraulich zu behandeln.
 
@@ -139,18 +127,15 @@ Die Zentrale Ethik-Kommission für Stammzellenforschung prüft und bewertet anha
 
 (3) Wird der Antrag vor der Entscheidung über die Genehmigung zurückgezogen, hat die zuständige Behörde die über die Antragsunterlagen gespeicherten Daten zu löschen und die Antragsunterlagen zurückzugeben.
 
-
-## § 11 – Register
+# § 11 – Register
 
 Die Angaben über die embryonalen Stammzellen und die Grunddaten der genehmigten Forschungsvorhaben werden durch die zuständige Behörde in einem öffentlich zugänglichen Register geführt.
 
-
-## § 12 – Anzeigepflicht
+# § 12 – Anzeigepflicht
 
 Die für das Forschungsvorhaben verantwortliche Person hat wesentliche nachträglich eingetretene Änderungen, die die Zulässigkeit der Einfuhr oder der Verwendung der embryonalen Stammzellen betreffen, unverzüglich der zuständigen Behörde anzuzeigen. § 6 bleibt unberührt.
 
-
-## § 13 – Strafvorschriften
+# § 13 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer ohne Genehmigung nach § 6 Abs. 1
 
@@ -162,8 +147,7 @@ Ohne Genehmigung im Sinne des Satzes 1 handelt auch, wer auf Grund einer durch v
 
 (2) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer vollziehbaren Auflage nach § 6 Abs. 6 Satz 1 oder 2 zuwiderhandelt.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -173,12 +157,10 @@ Ohne Genehmigung im Sinne des Satzes 1 handelt auch, wer auf Grund einer durch v
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 15 – Bericht
+# § 15 – Bericht
 
 Die Bundesregierung übermittelt dem Deutschen Bundestag im Abstand von zwei Jahren, erstmals zum Ablauf des Jahres 2003, einen Erfahrungsbericht über die Durchführung des Gesetzes. Der Bericht stellt auch die Ergebnisse der Forschung an anderen Formen menschlicher Stammzellen dar.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Dieses Gesetz tritt am ersten Tag des auf die Verkündung folgenden Monats in Kraft.

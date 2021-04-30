@@ -1,10 +1,7 @@
-# [WPapUmstG] Gesetz über die Börsenzulassung umgestellter Wertpapiere
-
-Ausfertigungsdatum: 27.12.1951
-
+% Gesetz über die Börsenzulassung umgestellter Wertpapiere
+% Ausfertigungsdatum: 27.12.1951
  
-
-## § 1
+# § 1
 
 (1) Die Umstellung des Nennbetrages von Schuldverschreibungen auf Deutsche Mark sowie die Neufestsetzung des Nennbetrags von Aktien in Deutscher Mark sind keine Konvertierung im Sinne des § 38 Abs. 2 des Börsengesetzes. Aktien bedürfen jedoch nach der Neufestsetzung der Kapitalverhältnisse der Gesellschaft in Deutscher Mark einer Neuzulassung zum Börsenhandel, wenn
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 27.12.1951
 
 (3) Sind Aktien einer Gesellschaft nur teilweise zum Börsenhandel zugelassen, so erstreckt sich die Zulassung auf das gesamte in Deutscher Mark umgestellte Grundkapital.
 
-
-## § 2
+# § 2
 
 (1) Gesellschaften, deren Aktien keiner Neuzulassung nach § 1 bedürfen, haben die Neufestsetzung der Kapitalverhältnisse in Deutscher Mark bekanntzumachen; die Bekanntmachung muß enthalten:
 
@@ -49,8 +45,7 @@ Ausfertigungsdatum: 27.12.1951
 
 (2) Die Zulassungsstelle kann weitere Angaben in der Bekanntmachung verlangen.
 
-
-## § 3
+# § 3
 
 (1) Die Bekanntmachung hat im Bundesanzeiger und in einer von der Zulassungsstelle zu bestimmenden Zeitung zu erfolgen. Sind die Aktien an mehreren Börsen zugelassen, so kann die Veröffentlichung im Bundesanzeiger für alle Börsen gemeinsam vorgenommen werden. Anstelle der Veröffentlichungen in den Pflichtblättern aller beteiligten Börsen genügt in diesem Falle auch die Veröffentlichung im Pflichtblatt der Börse des Wirtschaftsraumes, in dem der Aussteller der Wertpapiere seinen Sitz hat (Heimatbörse), und ein Hinweis in den Pflichtblättern der übrigen beteiligten Börsen auf die Veröffentlichungen im Bundesanzeiger und im Pflichtblatt der Heimatbörse.
 
@@ -58,12 +53,10 @@ Ausfertigungsdatum: 27.12.1951
 
 (3) Ist vor Inkrafttreten dieses Gesetzes bereits eine Bekanntmachung erfolgt, die den Erfordernissen der §§ 2 und 3 entspricht, so bedarf es einer erneuten Bekanntmachung nicht.
 
-
-## § 4
+# § 4
 
 Dieses Gesetz gilt auch im Lande Berlin, sobald es gemäß Artikel 87 Abs. 2 seiner Verfassung die Anwendung dieses Gesetzes beschließt.
 
-
-## § 5
+# § 5
 
 Das Gesetz tritt am Tage der Verkündung in Kraft.

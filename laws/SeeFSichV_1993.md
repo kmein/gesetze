@@ -1,15 +1,11 @@
-# [SeeFSichV 1993] Verordnung über die Sicherung der Seefahrt
-
-Ausfertigungsdatum: 27.07.1993
-
+% Verordnung über die Sicherung der Seefahrt
+% Ausfertigungsdatum: 27.07.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 und 6 und Abs. 3 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Justiz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt auf den Seeschifffahrtsstraßen und darüber hinaus für Seeschiffe einschließlich Traditionsschiffe und Sportfahrzeuge im Sinne der Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013, 3023) in der jeweils geltenden Fassung, die berechtigt sind, die Bundesflagge zu führen.
 
@@ -17,8 +13,7 @@ Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 und 6 und Abs. 3 des Seeaufgabengesetzes 
 
 (3) Sonst für die Sicherheit Verantwortlicher im Sinne dieser Verordnung ist die Person, die mit Aufgaben der Sicherung der Seefahrt beauftragt ist, im Rahmen der ihr übertragenen Aufgaben und Befugnisse.
 
-
-## § 2 – Hilfeleistung in Seenotfällen
+# § 2 – Hilfeleistung in Seenotfällen
 
 (1) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche eines auf See befindlichen und zur Hilfeleistung fähigen Schiffes, dem gemeldet wird, dass sich Menschen in Seenot befinden, hat ihnen mit größter Geschwindigkeit zu Hilfe zu eilen und ihnen oder dem betreffenden Such- und Rettungsdienst nach Möglichkeit hiervon Kenntnis zu geben. Den Anordnungen der Stellen, die sich gegenüber dem Schiffsführer oder sonst für die Sicherheit Verantwortlichen als die mit der Koordinierung der Suche und Rettung in Seenotfällen nach Kapitel II der Anlage zum Internationalen Übereinkommen über den Such- und Rettungsdienst auf See vom 6. November 1979 (BGBl. 1982 II S. 485) beauftragten Organisationen zu erkennen geben, ist Folge zu leisten.
 
@@ -30,23 +25,19 @@ Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 und 6 und Abs. 3 des Seeaufgabengesetzes 
 
 (5) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche eines Schiffes ist erst von der Verpflichtung nach Absatz 1 sowie, wenn sein Schiff angefordert worden ist, von der Verpflichtung nach Absatz 3 entbunden, wenn ihm von den in Seenot befindlichen Personen, vom Such- und Rettungsdienst oder vom Schiffsführer eines anderen Schiffes, das diese Personen erreicht hat, mitgeteilt wird, dass eine Hilfeleistung nicht mehr erforderlich ist.
 
-
-## § 3
-
-(weggefallen)
-
-
-## § 4
+# § 3
 
 (weggefallen)
 
-
-## § 5
+# § 4
 
 (weggefallen)
 
+# § 5
 
-## § 6 – Besondere Vorschriften für das Verhalten nach Zusammenstößen
+(weggefallen)
+
+# § 6 – Besondere Vorschriften für das Verhalten nach Zusammenstößen
 
 (1) Sind Schiffe zusammengestoßen, so haben die beteiligten Schiffsführer oder sonst für die Sicherheit Verantwortlichen allen von dem Zusammenstoß Betroffenen Beistand zu leisten, soweit sie dazu ohne erhebliche Gefahr für ihr Schiff und die darauf befindlichen Personen im Stande sind.
 
@@ -54,8 +45,7 @@ Auf Grund des § 9 Abs. 1 Satz 1 Nr. 2 und 6 und Abs. 3 des Seeaufgabengesetzes 
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten bei einem Zusammenstoß mit Schiffahrtseinrichtungen aller Art entsprechend.
 
-
-## § 7 – Meldung bestimmter für die Seesicherheit bedeutsamer Ereignisse
+# § 7 – Meldung bestimmter für die Seesicherheit bedeutsamer Ereignisse
 
 (1) Der Schiffsführer eines Schiffes, das die Bundesflagge führt, oder bei dessen Verhinderung ein anderes Besatzungsmitglied oder, sofern keine dieser Personen dazu in der Lage ist, der Betreiber des Schiffes hat der Bundesstelle für Seeunfalluntersuchung unverzüglich jedes das Schiff betreffende für die Seesicherheit bedeutsame Ereignis im Sinne des Absatzes 2 zu melden und möglichst folgende Angaben zu übermitteln:
 
@@ -129,8 +119,7 @@ Die Angaben nach Satz 1 sind auch dann zu melden, wenn auf See treibende Contain
 
 (5) Zur Vervollständigung der Meldung ist der Betreiber des Schiffes auf Verlangen der Bundesstelle für Seeunfalluntersuchung verpflichtet, auf zugesandtem Formblatt einen ausführlichen Bericht vorzulegen.
 
-
-## § 7a – Vorschriften für das Verhalten nach meldepflichtigen Ereignissen
+# § 7a – Vorschriften für das Verhalten nach meldepflichtigen Ereignissen
 
 Der nach § 7 Absatz 2 und 2a zur Meldung eines Ereignisses verpflichtete Schiffsführer hat zum Zweck einer ordnungsgemäßen Seesicherheitsuntersuchung dafür Sorge zu tragen, dass
 
@@ -142,8 +131,7 @@ Der nach § 7 Absatz 2 und 2a zur Meldung eines Ereignisses verpflichtete Schiff
 
 4. alle Beweise für die Sicherheitsuntersuchungen des Seeunfalls unverzüglich eingeholt und gesichert werden.
 
-
-## § 7b – Meldung und Beseitigung von Wracks
+# § 7b – Meldung und Beseitigung von Wracks
 
 (1) Der Schiffsführer eines Schiffes, der sonst für die Sicherheit Verantwortliche des Schiffes und der Betreiber des Schiffes haben der jeweils zuständigen Verkehrszentrale unverzüglich nach Maßgabe des Absatzes 3 zu melden, wenn das Schiff in einen Seeunfall verwickelt war, aus dem ein Wrack entstanden ist, das sich in der deutschen ausschließlichen Wirtschaftszone befindet. Hat eine der in Satz 1 genannten Personen die Meldung vorgenommen, so ist die Meldepflicht der übrigen in Satz 1 genannten Personen erfüllt.
 
@@ -185,15 +173,13 @@ eines anderen Vertragsstaates, so ist die Meldung nach Maßgabe des Satzes 2 und
 
 (+++ § 7b: Zur Anwendung vgl. § 11 vgl. Bek. v. 12.3.2015 I 320 +++)
 
-
-## § 7c – Wrackbeseitigung im Ausland
+# § 7c – Wrackbeseitigung im Ausland
 
 In den Fällen des § 7b Absatz 2 kann die Generaldirektion Wasserstraßen und Schifffahrt anordnen, dass der eingetragene Eigentümer eines Schiffes, das die Bundesflagge führt, seiner Verpflichtung zur Beseitigung eines Wracks nach Artikel 9 Absatz 2 des Wrackbeseitigungsübereinkommens nachzukommen und vom zuständigen Küstenstaat dazu festgelegte Anforderungen einzuhalten hat, wenn der zuständige Küstenstaat festgestellt hat, dass von dem Wrack eine Gefahr ausgeht.
 
 (+++ § 7c: Zur Anwendung vgl. § 11 vgl. Bek. v. 12.3.2015 I 320 +++)
 
-
-## § 8 – Schiffswegeführung - Schiffsmeldesysteme
+# § 8 – Schiffswegeführung - Schiffsmeldesysteme
 
 (1) Der Schiffsführer oder sonst für die Sicherheit Verantwortliche hat die Vorschriften für von der Internationalen Seeschiffahrts-Organisation (IMO) angenommene Systeme der Schiffswegeführung, die für die Art oder Ladung seines Schiffes als verbindlich vorgeschrieben sind, anzuwenden. Dies gilt nicht, wenn aus zwingenden Gründen ein bestimmtes System der Schiffswegeführung nicht benutzt werden kann. Derartige Gründe sind unverzüglich in das Schiffstagebuch einzutragen.
 
@@ -201,8 +187,7 @@ In den Fällen des § 7b Absatz 2 kann die Generaldirektion Wasserstraßen und S
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur macht die in Absatz 1 genannten Systeme der Schiffswegeführung und die in Absatz 2 genannten Schiffsmeldesysteme in den Nachrichten für Seefahrer (Amtliche Veröffentlichung für die Schiffahrt des Bundesamtes für Seeschiffahrt und Hydrographie) nachrichtlich bekannt.
 
-
-## § 8a – Befahren des Panamakanals
+# § 8a – Befahren des Panamakanals
 
 Der Betreiber eines Seeschiffes unter Bundesflagge, das den Panamakanal befahren will, hat sicherzustellen, dass
 
@@ -210,13 +195,11 @@ Der Betreiber eines Seeschiffes unter Bundesflagge, das den Panamakanal befahren
 
 2. die für die Durchfahrt allgemein anerkannten Regeln der Technik und der seemännischen Praxis eingehalten werden.
 
-
-## § 9 – Entscheidungsfreiheit des Schiffsführers im Interesse einer sicheren Schiffsführung
+# § 9 – Entscheidungsfreiheit des Schiffsführers im Interesse einer sicheren Schiffsführung
 
 Der Schiffsführer darf nicht durch den Reeder, den Charterer oder irgendeine andere Person daran gehindert werden, eine Entscheidung zu treffen, die nach dem fachlichen Urteil des Schiffsführers für eine sichere Schiffsführung erforderlich ist, insbesondere bei schwerem Wetter und grober See.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -230,11 +213,9 @@ Der Schiffsführer darf nicht durch den Reeder, den Charterer oder irgendeine an
 
 5. entgegen § 7 Absatz 1 oder § 7 Absatz 2a Satz 1, auch in Verbindung mit Satz 2 eine Meldung nicht, nicht richtig oder nicht rechtzeitig macht,
 
-5a.  
-entgegen § 7b Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz 1, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+5a. entgegen § 7b Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz 1, eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 
-5b.  
-einer vollziehbaren Anordnung nach § 7c zuwiderhandelt,
+5b. einer vollziehbaren Anordnung nach § 7c zuwiderhandelt,
 
 6. entgegen § 8 Abs. 1 Satz 1 oder 3 eine dort genannte Vorschrift nicht anwendet oder eine Eintragung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt oder
 
@@ -246,8 +227,7 @@ einer vollziehbaren Anordnung nach § 7c zuwiderhandelt,
 
 (+++ § 10 Abs. 1 Nr. 5a u. 5b: Zur Anwendung vgl. § 11 iVm Bek. v. 12.3.2015 I 320 +++)
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 (1) Die §§ 7b, 7c und 10 Absatz 1 Nummer 5a und 5b sind erst ab dem Tag anzuwenden, an dem das Wrackbeseitigungsübereinkommen für die Bundesrepublik Deutschland in Kraft tritt.
 
@@ -255,12 +235,10 @@ einer vollziehbaren Anordnung nach § 7c zuwiderhandelt,
 
 (+++ § 11 Abs. 2: Zur Anwendung ab dem 14.4.2015 vgl. Bek. v. 12.3.2015 I 320 +++)
 
-
-## Anlage 1
+# Anlage 1
 
 (weggefallen)
 
-
-## Anlage 2
+# Anlage 2
 
 (weggefallen)

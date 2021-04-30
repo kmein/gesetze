@@ -1,15 +1,11 @@
-# [BMVBSDelegatAnO] Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung  (BMVBS-Delegationsanordnung - BMVBSDelegatAnO)
-
-Ausfertigungsdatum: 06.08.2013
-
+% Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung  (BMVBS-Delegationsanordnung - BMVBSDelegatAnO)
+% Ausfertigungsdatum: 06.08.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) sowie nach § 126 Absatz 3 Satz 2 und § 127 Absatz 3 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) ordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung an:
 
-
-## § 1 – Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts
+# § 1 – Übertragung von Zuständigkeiten auf dem Gebiet des Disziplinarrechts
 
 (1) Der Leiterin oder dem Leiter des Deutschen Wetterdienstes werden für ihren oder seinen Geschäftsbereich übertragen:
 
@@ -37,29 +33,24 @@ c) die Zuständigkeit für den Erlass des Widerspruchsbescheids,
 
 Satz 1 gilt nicht für die DFS Deutsche Flugsicherung GmbH.
 
-
-## § 2 – Übertragung von Zuständigkeiten in Widerspruchsverfahren in beamtenrechtlichen Angelegenheiten
+# § 2 – Übertragung von Zuständigkeiten in Widerspruchsverfahren in beamtenrechtlichen Angelegenheiten
 
 (1) Der DFS Deutsche Flugsicherung GmbH wird die Zuständigkeit für die Entscheidung über Widersprüche der bei ihr tätigen Beamtinnen und Beamten des Luftfahrt-Bundesamts gegen von ihr getroffene beamtenrechtliche Maßnahmen übertragen.
 
 (2) Den übrigen nachgeordneten Behörden wird für den jeweiligen Geschäftsbereich die Zuständigkeit für die Entscheidung über Widersprüche gegen von ihnen getroffene beamtenrechtliche Maßnahmen übertragen.
 
-
-## § 3 – Vertretung bei Klagen aus dem Beamtenverhältnis
+# § 3 – Vertretung bei Klagen aus dem Beamtenverhältnis
 
 Die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis wird den in § 2 Absatz 2 genannten Behörden übertragen, soweit sie nach dieser Anordnung für die Entscheidung über Widersprüche zuständig sind.
 
-
-## § 4 – Vorbehaltsklausel
+# § 4 – Vorbehaltsklausel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung behält sich vor, Zuständigkeiten nach den §§ 1 bis 3 in besonderen Fällen selbst auszuüben.
 
-
-## § 5 – Übergangsregelung
+# § 5 – Übergangsregelung
 
 Für Widersprüche und Klagen, die vor dem Inkrafttreten dieser Anordnung erhoben worden sind, bleibt es bei den bisherigen Zuständigkeiten.
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt am 15. August 2013 in Kraft. Gleichzeitig tritt die BMVBS-Delegationsanordnung vom 25. Mai 2010 (BGBl. I S. 781) außer Kraft.

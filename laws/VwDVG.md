@@ -1,10 +1,7 @@
-# [VwDVG] Gesetz über die Verwendung von Verwaltungsdaten für Zwecke der Wirtschaftsstatistiken  (Verwaltungsdatenverwendungsgesetz - VwDVG)
-
-Ausfertigungsdatum: 04.11.2010
-
+% Gesetz über die Verwendung von Verwaltungsdaten für Zwecke der Wirtschaftsstatistiken  (Verwaltungsdatenverwendungsgesetz - VwDVG)
+% Ausfertigungsdatum: 04.11.2010
  
-
-## § 1 – Übermittlung und Verwendung
+# § 1 – Übermittlung und Verwendung
 
 (1) Die Finanzbehörden und die Bundesagentur für Arbeit übermitteln dem Statistischen Bundesamt und den statistischen Ämtern der Länder für die in Absatz 2 bestimmten Zwecke monatlich die bei ihnen vorhandenen Daten nach Maßgabe der §§ 2 und 3 und der nach § 5 erlassenen Rechtsverordnung. Die Bundesanstalt für Finanzdienstleistungsaufsicht und die Deutsche Bundesbank übermitteln dem Statistischen Bundesamt für die in Absatz 2 bestimmten Zwecke jährlich die bei ihnen vorhandenen Daten nach Maßgabe der §§ 3a und 3b und der nach § 5 erlassenen Rechtsverordnung. Die in den Sätzen 1 und 2 genannten Stellen informieren das Statistische Bundesamt und die statistischen Ämter der Länder so früh wie möglich über anstehende Änderungen der zu übermittelnden Daten, soweit diese Änderungen die Verwendung der Daten nach Absatz 2 beeinträchtigen könnten.
 
@@ -26,8 +23,7 @@ Die Daten werden für die unter den Nummern 1 bis 3 genannten Zwecke nur verwend
 
 (5) Das Statistische Bundesamt trifft, vorbehaltlich anderweitiger Rechtsvorschriften, die Entscheidungen, die nach den Absätzen 3 und 4 erforderlich sind, im Benehmen mit den statistischen Ämtern der Länder und nach pflichtgemäßem Ermessen.
 
-
-## § 2 – Daten der Finanzbehörden
+# § 2 – Daten der Finanzbehörden
 
 Die Finanzbehörden übermitteln dem Statistischen Bundesamt und den statistischen Ämtern der Länder jeweils für deren Zuständigkeitsbereich folgende Daten zu Steuerpflichtigen, die zur Abgabe von Umsatzsteuervoranmeldungen verpflichtet sind:
 
@@ -61,8 +57,7 @@ Die Finanzbehörden übermitteln dem Statistischen Bundesamt und den statistisch
 
 Zusätzlich übermitteln die Finanzbehörden aktuelle Daten über die Zusammensetzung von umsatzsteuerlichen Organschaften, für die Daten nach Satz 1 geliefert werden.
 
-
-## § 3 – Daten der Bundesagentur für Arbeit
+# § 3 – Daten der Bundesagentur für Arbeit
 
 Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt folgende Daten von Betrieben, die für Beschäftigte Meldungen nach § 28a des Vierten Buches Sozialgesetzbuch erstatten:
 
@@ -80,8 +75,7 @@ Die Bundesagentur für Arbeit übermittelt dem Statistischen Bundesamt folgende 
 
 Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich.
 
-
-## § 3a – Daten der Bundesanstalt für Finanzdienstleistungsaufsicht
+# § 3a – Daten der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistischen Bundesamt folgende Daten der unter Bundesaufsicht stehenden Unternehmen der Wirtschaftsgruppen 65.1-Versicherungen, 65.2-Rückversicherungen und 65.3-Pensionskassen und Pensionsfonds nach Anhang I der Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1) in der jeweils geltenden Fassung, soweit sie der Bundesanstalt für Finanzdienstleistungsaufsicht vorliegen:
 
@@ -99,8 +93,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht übermittelt dem Statistisc
 
 Die in § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 309 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes für die bei dem Statistischen Bundesamt und den statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 
-
-## § 3b – Daten der Deutschen Bundesbank
+# § 3b – Daten der Deutschen Bundesbank
 
 Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt folgende Daten hinsichtlich der zu den Wirtschaftsklassen 64.19-Kreditinstitute und 64.92-Spezialkreditinstitute gehörenden Institute nach Anhang I der Verordnung (EG) Nr. 1893/2006 in der jeweils geltenden Fassung, soweit sie der Deutschen Bundesbank vorliegen:
 
@@ -118,12 +111,10 @@ Die Deutsche Bundesbank übermittelt dem Statistischen Bundesamt folgende Daten 
 
 Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes genannten Personen sind insoweit von ihrer Verschwiegenheitspflicht befreit. Das Statistische Bundesamt übermittelt die Daten an die statistischen Ämter der Länder jeweils für deren Zuständigkeitsbereich. Im Übrigen gilt für die nach dieser Vorschrift erhaltenen Informationen die Verschwiegenheitspflicht gemäß § 9 Absatz 1 Satz 1 des Kreditwesengesetzes für die bei dem Statistischen Bundesamt und den statistischen Ämtern der Länder beschäftigten Personen entsprechend.
 
-
-## § 4 – Rückfragen
+# § 4 – Rückfragen
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen zur Klärung von Unstimmigkeiten in den übermittelten Daten nach den §§ 2 und 3 bei den betroffenen Wirtschaftseinheiten im Einzelfall Rückfragen stellen, sofern dies zur Erfüllung der nach § 1 Absatz 2 Satz 1 Nummer 1 bis 3 genannten Zwecke erforderlich ist. Für die nach § 3 übermittelten Daten gilt dies nur, wenn die Bundesagentur für Arbeit die Unstimmigkeiten nicht selbst fristgerecht beheben kann. Die Leiterinnen und Leiter der betroffenen Wirtschaftseinheiten sind auskunftspflichtig.
 
-
-## § 5 – Verordnungsermächtigung
+# § 5 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Daten zu Wirtschaftseinheiten festzulegen, die nach den §§ 2 und 3 zu übermitteln sind; dies gilt, wenn solche Daten zu Steuerpflichtigen, die zur Abgabe von Umsatzsteuervoranmeldungen verpflichtet sind, und zu Betrieben, die für Beschäftigte Meldungen nach § 28a des Vierten Buches Sozialgesetzbuch erstatten, neu in die jeweiligen Meldeverfahren aufgenommen werden und für die in § 1 Absatz 2 festgelegten Zwecke geeignet und erforderlich sind. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates weitere Daten zu Wirtschaftseinheiten festzulegen, die nach den §§ 3a und 3b zu übermitteln sind, sofern dies für die in § 1 Absatz 2 festgelegten Zwecke erforderlich ist.

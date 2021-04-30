@@ -1,10 +1,7 @@
-# [KatSchErwG] Gesetz über die Erweiterung des Katastrophenschutzes
-
-Ausfertigungsdatum: 09.07.1968
-
+% Gesetz über die Erweiterung des Katastrophenschutzes
+% Ausfertigungsdatum: 09.07.1968
  
-
-## § 9 – Rechtsverhältnisse der Helfer im Katastrophenschutz
+# § 9 – Rechtsverhältnisse der Helfer im Katastrophenschutz
 
 (1) (weggefallen)
 

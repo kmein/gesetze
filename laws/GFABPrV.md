@@ -1,10 +1,7 @@
-# [GFABPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung  (Arbeits- und Berufsförderungsfortbildungsprüfungsverordnung - GFABPrV)
-
-Ausfertigungsdatum: 13.12.2016
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung  (Arbeits- und Berufsförderungsfortbildungsprüfungsverordnung - GFABPrV)
+% Ausfertigungsdatum: 13.12.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen
 –  
 des § 30 Absatz 5 des Berufsbildungsgesetzes das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -49,8 +45,7 @@ Die Geprüfte Fachkraft zur Arbeits- und Berufsförderung soll die Aufgaben eige
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfte Fachkraft zur Arbeits- und Berufsförderung“.
 
-
-## § 2 – Voraussetzungen für die Zulassung zur Prüfung
+# § 2 – Voraussetzungen für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -72,8 +67,7 @@ und eine sich daran anschließende mindestens zweijährige einschlägige Berufsp
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Handlungsbereiche
+# § 3 – Handlungsbereiche
 
 In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
@@ -85,8 +79,7 @@ In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
 4. Kommunikation und Zusammenarbeit personenzentriert planen, steuern und gestalten.
 
-
-## § 4 – Handlungsbereich „Eingliederung und Teilhabe am Arbeitsleben personenzentriert gestalten“
+# § 4 – Handlungsbereich „Eingliederung und Teilhabe am Arbeitsleben personenzentriert gestalten“
 
 (1) Im Handlungsbereich „Eingliederung und Teilhabe am Arbeitsleben personenzentriert gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, unter Einbeziehung des behinderten Menschen personenzentriert den Verlauf der Eingliederung des behinderten Menschen und dessen Teilhabe am Arbeitsleben zu planen und zu gestalten. Dazu muss die zu prüfende Person in der Lage sein, Fähigkeiten und Wünsche des behinderten Menschen zu erkennen, einzuschätzen und zu berücksichtigen sowie Angebote zu Qualifizierung, Beschäftigung und Arbeit zu unterbreiten. Sie muss behinderten Menschen mit geeigneten Methoden Aufgaben und Arbeiten bereitstellen können und aus deren Erledigung Schlussfolgerungen über die Fähigkeiten, Fertigkeiten und Kenntnisse des behinderten Menschen ziehen können.
 
@@ -110,8 +103,7 @@ In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Handlungsbereich „Berufliche Bildungsprozesse personenzentriert planen, steuern und gestalten“
+# § 5 – Handlungsbereich „Berufliche Bildungsprozesse personenzentriert planen, steuern und gestalten“
 
 (1) Im Handlungsbereich „Berufliche Bildungsprozesse personenzentriert planen, steuern und gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Bildungsprozesse, durch die behinderte Menschen berufliche Handlungsfähigkeit erlangen sollen, personenzentriert didaktisch zu planen, zu steuern, durchzuführen, auszuwerten und zu dokumentieren. Hierbei hat die zu prüfende Person anerkannte Methoden anzuwenden sowie habilitative und rehabilitative Aspekte zu berücksichtigen. Die individuellen Bildungsprozesse sind unter Einbeziehung des behinderten Menschen zu gestalten; dabei sind ihm seine Rechte, Interessensvertretungs- und Selbstvertretungsmöglichkeiten zu vermitteln.
 
@@ -137,8 +129,7 @@ In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Handlungsbereich „Arbeits- und Beschäftigungsprozesse personenzentriert planen und steuern sowie Arbeitsplätze personenzentriert gestalten“
+# § 6 – Handlungsbereich „Arbeits- und Beschäftigungsprozesse personenzentriert planen und steuern sowie Arbeitsplätze personenzentriert gestalten“
 
 (1) Im Handlungsbereich „Arbeits- und Beschäftigungsprozesse personenzentriert planen und steuern sowie Arbeitsplätze personenzentriert gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Arbeits- und Beschäftigungsprozesse für behinderte Menschen unter partizipativen, didaktischen und kommunikativen Gesichtspunkten sowie unter Berücksichtigung betriebswirtschaftlicher und betrieblicher Zusammenhänge und Anforderungen zu planen, zu steuern und zu gestalten. Die Arbeits- und Beschäftigungsprozesse sollen kontinuierlich an aktuelle Erfordernisse angepasst werden. Die Arbeitsplätze sind personenzentriert, orientiert an den Gegebenheiten des allgemeinen Arbeitsmarktes sowie lern- und persönlichkeitsförderlich zu gestalten. Dabei sind rechtliche und wirtschaftliche Rahmenbedingungen für die Teilhabe des behinderten Menschen am Arbeitsleben zu berücksichtigen.
 
@@ -160,8 +151,7 @@ In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Handlungsbereich „Kommunikation und Zusammenarbeit personenzentriert planen, steuern und gestalten“
+# § 7 – Handlungsbereich „Kommunikation und Zusammenarbeit personenzentriert planen, steuern und gestalten“
 
 (1) Im Handlungsbereich „Kommunikation und Zusammenarbeit personenzentriert planen, steuern und gestalten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, für die Teilhabe behinderter Menschen am Arbeitsleben Kommunikations-, Gruppenbildungs- und Kooperationsprozesse zu planen, zu steuern und zu gestalten. Dabei ist der Prozess der Teilhabe mit dem behinderten Menschen unter Einbeziehung interner und externer Beteiligter unter Beachtung der mehrdimensionalen Rollenanforderungen selbstreflektiert, barrierefrei und wertschätzend zu planen und durchzuführen.
 
@@ -187,8 +177,7 @@ In der Prüfung werden die folgenden Handlungsbereiche geprüft:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Gliederung der Prüfung
+# § 8 – Gliederung der Prüfung
 
 Die Prüfung gliedert sich in
 
@@ -196,8 +185,7 @@ Die Prüfung gliedert sich in
 
 2. eine Projektarbeit bestehend aus einer schriftlichen Abschlussarbeit und einer Projektpräsentation verbunden mit einem Fachgespräch nach § 10.
 
-
-## § 9 – Schriftliche Prüfungsaufgabe
+# § 9 – Schriftliche Prüfungsaufgabe
 
 (1) Die schriftliche Prüfungsaufgabe bezieht sich auf alle in § 3 genannten Handlungsbereiche.
 
@@ -205,8 +193,7 @@ Die Prüfung gliedert sich in
 
 (3) Die schriftliche Prüfungsaufgabe ist unter Aufsicht zu bearbeiten. Die Bearbeitungszeit beträgt 240 Minuten.
 
-
-## § 10 – Projektarbeit
+# § 10 – Projektarbeit
 
 (1) In der Projektarbeit soll die zu prüfende Person nachweisen, dass sie eine komplexe praxisbezogene Aufgabe erfassen, darstellen, beurteilen, planen und durchführen kann.
 
@@ -218,15 +205,13 @@ Die Prüfung gliedert sich in
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 11 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 12 und 13 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 13 Absatz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Bewerten der Prüfungsleistungen
+# § 12 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -240,8 +225,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Bestehen der Prüfung, Gesamtnote
+# § 13 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundungen in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -257,15 +241,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Ausbildereignung
+# § 14 – Ausbildereignung
 
 Mit dem Bestehen der Prüfung wird die Ausbildereignung im Sinne des § 30 Absatz 5 des Berufsbildungsgesetzes erworben. Im Falle des Satzes 1 ist der zu prüfenden Person das Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Zeugnisse
+# § 15 – Zeugnisse
 
 (1) Wer die Prüfung nach § 13 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -279,8 +261,7 @@ Mit dem Bestehen der Prüfung wird die Ausbildereignung im Sinne des § 30 Absat
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Wiederholung von Prüfungsbestandteilen
+# § 16 – Wiederholung von Prüfungsbestandteilen
 
 (1) Wurde die schriftliche Prüfungsaufgabe, die schriftliche Abschlussarbeit oder die Projektpräsentation einschließlich Fachgespräch nicht bestanden, so kann dieser Prüfungsbestandteil innerhalb einer Frist von zwei Jahren, beginnend mit dem Tag der nicht bestandenen Prüfung, zweimal wiederholt werden.
 
@@ -290,8 +271,7 @@ Mit dem Bestehen der Prüfung wird die Ausbildereignung im Sinne des § 30 Absat
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Übergangsvorschriften
+# § 17 – Übergangsvorschriften
 
 (1) Für Prüfungsverfahren zum anerkannten Abschluss „Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen“, die am 1. Januar 2017 bereits begonnen waren, können bis zum Ablauf des 31. Dezember 2019 die Vorschriften der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen vom 25. Juni 2001 (BGBl. I S. 1239) angewendet werden.
 
@@ -301,15 +281,13 @@ Mit dem Bestehen der Prüfung wird die Ausbildereignung im Sinne des § 30 Absat
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfte Fachkraft zur Arbeits- und Berufsförderung in Werkstätten für behinderte Menschen vom 25. Juni 2001 (BGBl. I S. 1239) außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 12 und 13)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 12 und 13)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2421 – 2422)
 
@@ -318,8 +296,7 @@ Diese Verordnung tritt am 1. Januar 2017 in Kraft. Gleichzeitig tritt die Verord
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 15)Zeugnisinhalte
+# Anlage 2 – (zu § 15)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2422)
 

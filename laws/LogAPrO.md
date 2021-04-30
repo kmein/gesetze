@@ -1,29 +1,23 @@
-# [LogAPrO] Ausbildungs- und Prüfungsordnung für Logopäden  (LogAPrO)
-
-Ausfertigungsdatum: 01.10.1980
-
+% Ausbildungs- und Prüfungsordnung für Logopäden  (LogAPrO)
+% Ausfertigungsdatum: 01.10.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 des Gesetzes über den Beruf des Logopäden vom 7. Mai 1980 (BGBl. I S. 529) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Ausbildung
+# § 1 – Ausbildung
 
 (1) Die dreijährige Ausbildung für Logopäden umfaßt mindestens den in Anlage 1 aufgeführten theoretischen und praktischen Unterricht und die in Anlage 2 aufgeführte praktische Ausbildung.
 
 (2) Der Auszubildende hat seine regelmäßige und erfolgreiche Teilnahme an den nach Absatz 1 vorgeschriebenen Ausbildungsveranstaltungen durch eine Bescheinigung nach dem Muster der Anlage 3 nachzuweisen.
 
-
-## § 2 – Staatliche Prüfung
+# § 2 – Staatliche Prüfung
 
 (1) Die staatliche Prüfung umfaßt einen schriftlichen, einen mündlichen und einen praktischen Teil.
 
 (2) Der Prüfling legt die Prüfung vor dem Prüfungsausschuß bei der Schule ab, an der er die Ausbildung abgeschlossen hat. Die zuständige Behörde, in deren Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören. Bei Personen, die beantragen, die Prüfung auf Grund des § 8 Abs. 4 des Gesetzes abzulegen, bestimmt die zuständige Behörde den zuständigen Prüfungsausschuß.
 
-
-## § 3 – Prüfungsausschuß
+# § 3 – Prüfungsausschuß
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus folgenden Mitgliedern besteht:
 
@@ -45,8 +39,7 @@ c) weiteren an der Schule tätigen Lehrkräften.
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 4 – Zulassung zur Prüfung
+# § 4 – Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit dem Leiter der Schule fest.
 
@@ -66,8 +59,7 @@ c) weiteren an der Schule tätigen Lehrkräften.
 
 (5) Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 5 – Schriftlicher Teil der Prüfung
+# § 5 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -85,8 +77,7 @@ Der Prüfling hat aus diesen Fächern in je einer Aufsichtsarbeit schriftlich ge
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses im Benehmen mit dem Leiter der Schule bestimmt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern nach § 9 zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Einvernehmen mit den Fachprüfern die Prüfungsnote für den schriftlichen Teil der Prüfung. Dabei sind die in Absatz 1 unter Nr. 1 und 2 genannten Fächer mit dem Faktor 2, die übrigen Fächer einfach zu gewichten.
 
-
-## § 6 – Mündlicher Teil der Prüfung
+# § 6 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teile der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -106,8 +97,7 @@ Kenntnisse in Anatomie und Physiologie sollen in die Prüfung in den in Satz 1 N
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer zum mündlichen Teil der Prüfung zulassen.
 
-
-## § 7 – Praktischer Teil der Prüfung
+# § 7 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die angewandte Logopädie. Er umfaßt die folgenden Aufgaben:
 
@@ -121,13 +111,11 @@ Kenntnisse in Anatomie und Physiologie sollen in die Prüfung in den in Satz 1 N
 
 (4) Der Vorsitzende des Prüfungsausschusses kann auf Antrag Zuhörer zum praktischen Teil der Prüfung zulassen.
 
-
-## § 8 – Niederschrift
+# § 8 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnis der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 9 – Benotung
+# § 9 – Benotung
 
 Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und der praktischen Prüfung werden wie folgt benotet:  
 "sehr gut" (1), wenn die Leistung den Anforderungen in besonderem Maße entspricht,  
@@ -137,8 +125,7 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 "mangelhaft" (5), wenn die Leistung den Anforderungen nicht entspricht, jedoch erkennen läßt, daß die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können,  
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 10 – Bestehen und Wiederholung der Prüfung
+# § 10 – Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn der schriftliche, der mündliche und der praktische Teil der Prüfung mit mindestens "ausreichend" benotet werden.
 
@@ -148,37 +135,31 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 (4) Hat der Prüfling alle Teile der Prüfung zu wiederholen, so darf er zur Prüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses bestimmt werden. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein. Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
-## § 11 – Rücktritt von der Prüfung
+# § 11 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück, so hat er die Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, so gilt die Prüfung als nicht unternommen. Die Genehmigung ist schriftlich und nur dann zu erteilen, wenn ein wichtiger, vom Prüfling nicht zu vertretender Grund vorliegt. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterläßt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden.
 
-
-## § 12 – Versäumnisfolgen
+# § 12 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, hat er die Gründe hierfür unverzüglich dem Vorsitzenden des Prüfungsausschusses mitzuteilen. Genehmigt der Vorsitzende die Versäumung des Prüfungstermins oder die nicht oder nicht rechtzeitig erfolgte Abgabe der Aufsichtsarbeit oder die Unterbrechung der Prüfung, so gilt der betreffende Teil der Prüfung als nicht unternommen. Die Genehmigung ist nur zu erteilen, wenn ein wichtiger, vom Prüfling nicht zu vertretender Grund vorliegt. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung nach Absatz 1 nicht erteilt oder unterläßt es der Prüfling, die Gründe unverzüglich mitzuteilen, so gilt der betreffende Teil der Prüfung als nicht bestanden.
 
-
-## § 13 – Ordnungsverstöße und Täuschungsversuche
+# § 13 – Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuches schuldig gemacht haben, den betreffenden Teil der Prüfung für "nicht bestanden" erklären. Eine solche Erklärung ist nach Ablauf von drei Jahren nach Abschluß der Prüfung nicht mehr zulässig.
 
-
-## § 14 – Prüfungsunterlagen
+# § 14 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 15 – Erlaubniserteilung
+# § 15 – Erlaubniserteilung
 
 Liegen die Voraussetzungen des Gesetzes für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung "Logopäde" vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 5 aus.
 
-
-## § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+# § 16 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Logopädengesetzes beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem des Logopäden entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des Logopädengesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 dieses Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -192,8 +173,7 @@ Liegen die Voraussetzungen des Gesetzes für die Erteilung der Erlaubnis zur Fü
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 16a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Gesetzes über den Beruf des Logopäden beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 2 Absatz 3 Satz 7 des Gesetzes über den Beruf des Logopäden erworben haben.
 
@@ -203,8 +183,7 @@ Liegen die Voraussetzungen des Gesetzes für die Erteilung der Erlaubnis zur Fü
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 5a Absatz 3 Satz 6 des Gesetzes über den Beruf des Logopäden einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 12 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 16b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des Gesetzes über den Beruf des Logopäden beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 2 Satz 5 des Gesetzes über den Beruf des Logopäden vorliegenden Umstände nicht durchgeführt wird.
 
@@ -230,8 +209,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 7 erteilt.
 
-
-## § 16c – Fristen, Bescheide, Durchführungsbestimmungen
+# § 16c – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis als Logopädin oder Logopäde nach § 1 Absatz 1 des Gesetzes über den Beruf des Logopäden in Verbindung mit § 2 Absatz 2, 3, 3a oder Absatz 4 des Gesetzes über den Beruf des Logopäden kurzfristig, spätestens vier Monate, nach Vorlage der für Entscheidungen nach § 2 des Gesetzes über den Beruf des Logopäden erforderlichen Unterlagen zu entscheiden. Im Falle des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -247,18 +225,15 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (3) Die Prüfungen nach § 16a Absatz 3 und § 16b Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in den §§ 16a und 16b nichts anderes bestimmt ist, gelten die §§ 8, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1980, 1895 - 1897
 
@@ -415,8 +390,7 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1895 - 1897
 
 Theoretischer und praktischer Unterricht
 
-
-## Anlage 2 – (zu § 1 Abs. 1)
+# Anlage 2 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
@@ -440,20 +414,17 @@ Fundstelle des Originaltextes: BGBl. I 1980, 1897
 
 Praktische Ausbildung
 
-
-## Anlage 3 – (zu § 1 Abs. 2)
+# Anlage 3 – (zu § 1 Abs. 2)
 
 (Inhalt: nicht darstellbare Anlage 3,  
 Fundstelle: BGBl. I 1980, 1898)
 
-
-## Anlage 4 – (zu § 10 Abs. 2 Satz 1)
+# Anlage 4 – (zu § 10 Abs. 2 Satz 1)
 
 (Inhalt: nicht darstellbare Anlage 4,  
 Fundstelle: BGBl. I 1980, 1899)
 
-
-## Anlage 5 – (zu § 15)
+# Anlage 5 – (zu § 15)
 
 (Fundstelle des Originaltextes: BGBl. I 1980, 1900)
 
@@ -463,9 +434,7 @@ Urkunde
 
 über die Erlaubnis zur Führung der Berufsbezeichnung "Logopäde"
 
-Herr/Frau/Fräulein +).............................................  
-geboren am ........ in .........................................  
-erhält auf Grund des Gesetzes über den Beruf des Logopäden vom 7. Mai 1980 (BGBl. I S. 529) mit Wirkung vom heutigen Tag die Erlaubnis, eine Tätigkeit unter der Berufsbezeichnung
+Herr/Frau/Fräulein +)............................................. geboren am ........ in ......................................... erhält auf Grund des Gesetzes über den Beruf des Logopäden vom 7. Mai 1980 (BGBl. I S. 529) mit Wirkung vom heutigen Tag die Erlaubnis, eine Tätigkeit unter der Berufsbezeichnung
 
 "Logopäd(e)in"
 
@@ -485,13 +454,11 @@ Siegel
 
 Nichtzutreffendes streichen
 
-
-## Anlage 5a – (zu § 16a Absatz 2)
+# Anlage 5a – (zu § 16a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 911)
 
-..........................................................................................  
-
+.......................................................................................... 
 (Bezeichnung der Einrichtung)
 
 Bescheinigung  
@@ -505,19 +472,16 @@ Geburtsdatum        Geburtsort
 
 ......................................................................................................
 
-hat in der Zeit vom ....................................................... bis .......................................................  
-regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsordnung für Logopäden von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+hat in der Zeit vom ....................................................... bis ....................................................... regelmäßig an dem nach § 16a Absatz 2 der Ausbildungs- und Prüfungsordnung für Logopäden von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
 
 Ort, Datum
 
 ......................................................................................................  (Stempel)
 
-......................................................................................................  
-
+...................................................................................................... 
 Unterschrift(en) der Einrichtung
 
-
-## Anlage 5b – (zu § 16a Absatz 3)
+# Anlage 5b – (zu § 16a Absatz 3)
 
 (Fundstelle: BGBl. I 2016, 911)
 
@@ -553,12 +517,9 @@ Ort, Datum
 
 .....................................................................................  (Siegel)
 
-.....................................................................................  
-
+..................................................................................... 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
+# Anlage 6 – (zu § 16b Absatz 2)
 
-## Anlage 6 – (zu § 16b Absatz 2)
-
-
-## Anlage 7 – (zu § 16b Absatz 7)
+# Anlage 7 – (zu § 16b Absatz 7)

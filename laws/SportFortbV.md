@@ -1,15 +1,11 @@
-# [SportFortbV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte Sportfachwirtin
-
-Ausfertigungsdatum: 02.11.2010
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte Sportfachwirtin
+% Ausfertigungsdatum: 02.11.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum „Geprüften Sportfachwirt“ und zur „Geprüften Sportfachwirtin“ nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -33,8 +29,7 @@ Hierzu gehören insbesondere:
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Sportfachwirt“ oder „Geprüfte Sportfachwirtin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Wirtschaftsbezogene Qualifikationen“ ist zuzulassen, wer
 
@@ -58,8 +53,7 @@ nachweist.
 
 (4) Abweichend von Absatz 1 und Absatz 2 Nummer 2 ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -103,8 +97,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Wirtschaftsbezogene Qualifikationen
+# § 4 – Wirtschaftsbezogene Qualifikationen
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -155,8 +148,7 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 
 (6) Wurden in nicht mehr als einem Qualifikationsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Qualifikationsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Im Handlungsbereich „Leitung und Vermarktung von Vereinen und Sportanlagen“ soll die Fähigkeit nachgewiesen werden, Managementtechniken zur effektiven Prozesssteuerung im Geschäftsbetrieb einzusetzen. Strategien sollen entwickelt und deren Auswirkungen auf die Organisation aufgezeigt werden. Marktchancen sollen erkannt und eingeschätzt werden, um unternehmerische Entscheidungen vorzubereiten und zu treffen. Ziele sollen formuliert, Zielgruppen bestimmt und die jeweiligen Marktgegebenheiten beobachtet und analysiert werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -224,15 +216,13 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 
 (6) Die schriftliche Prüfung der in den Absätzen 1 bis 5 beschriebenen Handlungsbereiche wird auf der Grundlage einer betrieblichen Situationsbeschreibung mit zwei aufeinander abgestimmten, gleichgewichtig daraus abgeleiteten Aufgabenstellungen durchgeführt. Die gesamte Bearbeitungsdauer soll 480 Minuten nicht unterschreiten und 510 Minuten nicht überschreiten. Die Punktebewertung für das Ergebnis der schriftlichen Prüfungsleistung ist aus den beiden schriftlichen Teilergebnissen gleichgewichtig zu bilden.
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewertung der Prüfungsleistungen
+# § 7 – Bewertung der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -256,8 +246,7 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -291,8 +280,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -306,8 +294,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen Prüfungsverfahrens wiederholt werden.
 
@@ -315,8 +302,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Ausbildereignung
+# § 11 – Ausbildereignung
 
 (1) Die zu prüfende Person kann nach erfolgreichem Abschluss des Prüfungsteils „Handlungsspezifische Qualifikationen“ beantragen, eine zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese besteht aus der Präsentation einer Ausbildungssituation und einem Fachgespräch mit einer Dauer von höchstens 30 Minuten. Die zu prüfende Person wählt hierfür eine berufstypische Ausbildungssituation aus. Die Präsentation soll 15 Minuten nicht übersteigen. Die Auswahl und Gestaltung der Ausbildungssituation sind in dem Fachgespräch zu erläutern. Anstelle der Präsentation kann eine Ausbildungssituation auch praktisch durchgeführt werden. Die zusätzliche Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht wurden.
 
@@ -324,8 +310,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Sportfachwirt und zur Sportfachwirtin (IHK) können bis zum 31. Dezember 2014 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2013 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -333,15 +318,13 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2347 – 2348)
 
@@ -350,8 +333,7 @@ Diese Verordnung tritt am 1. Juli 2011 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2348 – 2349)
 

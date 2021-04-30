@@ -1,17 +1,13 @@
-# [VerkVereinfG] Gesetz über vereinfachte Verkündungen und Bekanntgaben
-
-Ausfertigungsdatum: 18.07.1975
-
+% Gesetz über vereinfachte Verkündungen und Bekanntgaben
+% Ausfertigungsdatum: 18.07.1975
  
-
-## § 1
+# § 1
 
 (1) Eine vereinfachte Verkündung oder Bekanntgabe ist in den Fällen des § 2 zulässig, wenn eine Verkündung oder Bekanntgabe im Bundesgesetzblatt nicht oder nicht rechtzeitig möglich ist. Dies gilt auch, soweit für Rechtsverordnungen das Verkündungs- und Bekanntmachungsgesetz andere Verkündungsarten zuläßt.
 
 (2) Die Verkündung oder Bekanntgabe ist in der in Absatz 1 genannten Form nachzuholen, sobald die Umstände es zulassen.
 
-
-## § 2
+# § 2
 
 Eine vereinfachte Verkündung oder Bekanntgabe findet unter den Voraussetzungen des § 1 Abs. 1 in folgenden Fällen statt:
 
@@ -27,8 +23,7 @@ Eine vereinfachte Verkündung oder Bekanntgabe findet unter den Voraussetzungen 
 
 6. Bekanntgabe von Beschlüssen internationaler Organe und Entscheidungen der Bundesregierung bei der Anwendung des Artikels 80a Abs. 3 Satz 1 GG.
 
-
-## § 3
+# § 3
 
 (1) Eine vereinfachte Verkündung oder Bekanntgabe kann erfolgen
 
@@ -52,8 +47,7 @@ Das Recht des Bundespräsidenten, für seinen Zuständigkeitsbereich andere Arte
 
 Die nach Satz 1 verkündeten Vorschriften sind in den Fällen der Nummer 2 bei den der Generaldirektion Wasserstraßen und Schifffahrt unmittelbar nachgeordneten Behörden, in den Fällen der Nummer 3 bei der Flugsicherungsorganisation unverzüglich durch Aushang bekanntzumachen.
 
-
-## § 4
+# § 4
 
 (1) Wer über eine Einrichtung oder Anlage verfügt, die zu einer Verkündung oder Bekanntgabe in der in § 3 Abs. 1 oder Abs. 3 Satz 1 vorgesehenen Weise geeignet ist, hat auf Anordnung der zuständigen Stelle in den in § 2 bezeichneten Fällen Verkündungen und Bekanntgaben durchzuführen.
 
@@ -67,29 +61,24 @@ Die nach Satz 1 verkündeten Vorschriften sind in den Fällen der Nummer 2 bei d
 
 (6) Widerspruch und Anfechtungsklage gegen Anordnungen nach dieser Vorschrift haben keine aufschiebende Wirkung.
 
-
-## § 5
+# § 5
 
 Die Bekanntgabe der in § 2 Nr. 5 und 6 genannten Beschlüsse erfolgt durch die Bundesregierung oder einen von ihr bestimmten Bundesminister; sie ist unverzüglich vorzunehmen. Der genaue Zeitpunkt der Beschlußfassung ist anzugeben. Beschlüsse internationaler Organe brauchen nicht in ihrem vollen Wortlaut veröffentlicht zu werden; erforderlich ist lediglich ein allgemeiner Hinweis auf einen derartigen Beschluß. Die anwendbaren Rechtsvorschriften müssen in jedem Fall genau bezeichnet werden.
 
-
-## § 6
+# § 6
 
 Wenn feststeht, daß während des Verteidigungsfalles wegen besonderer Umstände Verkündungsmaßnahmen Gebiete im Geltungsbereich dieses Gesetzes, die mindestens einen Landkreis oder eine kreisfreie Stadt umfassen, nicht erreicht haben, so sind die verkündeten Rechtsvorschriften insoweit bis zu dem Zeitpunkt, zu dem eine Verkündungsmaßnahme diese Gebiete erreicht hat, nicht anzuwenden.
 
-
-## § 7
+# § 7
 
 Die Rechtsträger der Presseorgane können von der Bundesrepublik Deutschland nach Maßgabe des § 670 des Bürgerlichen Gesetzbuchs Ersatz der Aufwendungen verlangen, die sie auf Grund von Anordnungen nach diesem Gesetz gemacht haben.
 
-
-## § 8
+# § 8
 
 (1) Wer vorsätzlich oder fahrlässig entgegen § 4 eine Verkündung oder Bekanntgabe nicht, nicht richtig, nicht fristgemäß oder nicht in der vorgeschriebenen Weise durchführt oder wiederholt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (2) Ebenso wird bestraft, wer als Hilfsperson vorsätzlich oder fahrlässig eine ihm übertragene Aufgabe nicht, nicht richtig oder nicht rechtzeitig erfüllt und dadurch eine fristgemäße Verkündung oder Bekanntgabe oder deren Wiederholung verhindert.
 
-
-## § 9
+# § 9
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

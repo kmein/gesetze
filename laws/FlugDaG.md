@@ -1,10 +1,7 @@
-# [FlugDaG] Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681   (Fluggastdatengesetz - FlugDaG)
-
-Ausfertigungsdatum: 06.06.2017
-
+% Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681   (Fluggastdatengesetz - FlugDaG)
+% Ausfertigungsdatum: 06.06.2017
  
-
-## § 1 – Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems
+# § 1 – Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems
 
 (1) Das Bundeskriminalamt ist nationale zentrale Stelle für die Verarbeitung von Fluggastdaten (Fluggastdatenzentralstelle). Die Fluggastdatenzentralstelle unterhält ein Fluggastdaten-Informationssystem nach Maßgabe dieses Gesetzes.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 06.06.2017
 
 (3) Das Bundesverwaltungsamt verarbeitet Fluggastdaten im Auftrag und nach Weisung der Fluggastdatenzentralstelle.
 
-
-## § 2 – Datenübermittlung durch Luftfahrtunternehmen
+# § 2 – Datenübermittlung durch Luftfahrtunternehmen
 
 (1) Luftfahrtunternehmen übermitteln nach Maßgabe des Absatzes 3 im Rahmen ihrer Geschäftstätigkeit erhobene Fluggastdaten von Fluggästen, einschließlich von Transfer- und Transitfluggästen, die von ihnen in einem Luftfahrzeug befördert werden oder befördert werden sollen, an die Fluggastdatenzentralstelle.
 
@@ -79,8 +75,7 @@ Sind zu einem Fluggast im Zeitpunkt der Übermittlung nach Satz 1 Nummer 1 keine
 
 (7) Die Fluggastdaten werden elektronisch übermittelt. Bei der Übermittlung zu verwenden sind die gemeinsamen Protokolle und die unterstützten Datenformate, die jeweils festgelegt worden sind durch Durchführungsrechtsakte der Europäischen Kommission nach Artikel 16 Absatz 3 der Richtlinie (EU) 2016/681 des Europäischen Parlaments und des Rates vom 27. April 2016 über die Verwendung von Fluggastdatensätzen (PNR-Daten) zur Verhütung, Aufdeckung, Ermittlung und Verfolgung von terroristischen Straftaten und schwerer Kriminalität (ABl. L 119 vom 4.5.2016, S. 132). Die Luftfahrtunternehmen teilen der Fluggastdatenzentralstelle mit, welches konkrete Protokoll und Datenformat für die Übermittlung der Fluggastdaten verwendet wird. Bei technischen Störungen erfolgt die Übermittlung der Fluggastdaten in Abstimmung mit der Fluggastdatenzentralstelle ausnahmsweise auf andere geeignete Weise, die ein angemessenes Datensicherheitsniveau gewährleistet.
 
-
-## § 3 – Datenübermittlung der durch andere Unternehmen erhobenen Fluggastdaten
+# § 3 – Datenübermittlung der durch andere Unternehmen erhobenen Fluggastdaten
 
 Für den Fall, dass andere Unternehmen, die an der Reservierung oder Buchung von Flügen oder an der Ausstellung von Flugscheinen beteiligt sind, im Rahmen ihrer Geschäftstätigkeit Fluggastdaten an Luftfahrtunternehmen übermitteln, gilt Folgendes:
 
@@ -88,8 +83,7 @@ Für den Fall, dass andere Unternehmen, die an der Reservierung oder Buchung von
 
 2. die anderen Unternehmen haben die Fluggastdaten so rechtzeitig an das jeweilige Luftfahrtunternehmen zu übermitteln, dass eine Weiterleitung der Daten durch das Luftfahrtunternehmen zu den in § 2 Absatz 5 Satz 1 und 2 genannten Zeitpunkten an die Fluggastdatenzentralstelle erfolgen kann.
 
-
-## § 4 – Voraussetzungen für die Datenverarbeitung
+# § 4 – Voraussetzungen für die Datenverarbeitung
 
 (1) Die Fluggastdatenzentralstelle verarbeitet die von den Luftfahrtunternehmen übermittelten Fluggastdaten und gleicht sie mit Datenbeständen und Mustern nach Maßgabe der Absätze 2 und 5 ab, um Personen zu identifizieren, bei denen tatsächliche Anhaltspunkte dafür vorliegen, dass sie eine der folgenden Straftaten begangen haben oder innerhalb eines übersehbaren Zeitraumes begehen werden:
 
@@ -119,8 +113,7 @@ Für den Fall, dass andere Unternehmen, die an der Reservierung oder Buchung von
 
 (5) Die Fluggastdatenzentralstelle kann im Einzelfall auf ein begründetes Ersuchen einer in § 6 Absatz 1 Satz 1 genannten zuständigen Behörde die von der ersuchenden Behörde übermittelten Daten in besonderen Fällen mit den im Fluggastdaten-Informationssystem gespeicherten Daten zu den in § 1 Absatz 2 genannten Zwecken abgleichen. Satz 1 gilt mit Blick auf die in § 6 Absatz 2 Satz 1 genannten Behörden entsprechend mit der Maßgabe, dass der Abgleich zum Zweck der Erfüllung von deren Aufgaben im Zusammenhang mit Straftaten nach Absatz 1 erfolgen kann.
 
-
-## § 5 – Depersonalisierung von Daten
+# § 5 – Depersonalisierung von Daten
 
 (1) Nach Ablauf von sechs Monaten ab Übermittlung der Fluggastdaten an die Fluggastdatenzentralstelle werden die Fluggastdaten durch Unkenntlichmachung der folgenden Datenelemente, mit denen die Identität einer Person nach § 2 Absatz 1 festgestellt werden könnte, von der Fluggastdatenzentralstelle depersonalisiert:
 
@@ -148,8 +141,7 @@ Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des Bundeskrimina
 (+++ § 5 Abs. 2: Zur Anwendung vgl. § 9 +++)  
 (+++ § 5 Abs. 2: Zur Anwendung vgl. § 10 Abs. 1 +++)
 
-
-## § 6 – Datenübermittlung an die zuständigen Behörden im Inland
+# § 6 – Datenübermittlung an die zuständigen Behörden im Inland
 
 (1) Soweit dies zur Erfüllung von deren Aufgaben zur Verhütung oder Verfolgung von Straftaten nach § 4 Absatz 1 erforderlich ist, kann die Fluggastdatenzentralstelle die aus einem Abgleich nach § 4 Absatz 2 oder Absatz 5 resultierenden Fluggastdaten und die Ergebnisse der Verarbeitung dieser Daten zur weiteren Überprüfung oder zur Veranlassung geeigneter Maßnahmen übermitteln an
 
@@ -177,8 +169,7 @@ Absatz 1 Satz 2 gilt entsprechend.
 
 (4) Die in Absatz 1 Satz 1 genannten Behörden können, soweit sie Aufgaben der Strafverfolgung wahrnehmen, die übermittelten Daten zu anderen Zwecken verarbeiten, wenn Erkenntnisse, auch unter Einbezug weiterer Informationen, den Verdacht einer bestimmten anderen Straftat begründen.
 
-
-## § 7 – Datenaustausch zwischen den Mitgliedstaaten der Europäischen Union
+# § 7 – Datenaustausch zwischen den Mitgliedstaaten der Europäischen Union
 
 (1) Der Fluggastdatenzentralstelle obliegt der Austausch von Fluggastdaten und von Ergebnissen der Verarbeitung dieser Daten mit den Fluggastdatenzentralstellen anderer Mitgliedstaaten der Europäischen Union (Mitgliedstaaten).
 
@@ -214,18 +205,15 @@ Die Übermittlung von Daten nach Satz 1 Nummer 2 an eine andere als an die ersuc
 
 (5) Die Vorschriften über die internationale Rechtshilfe in strafrechtlichen Angelegenheiten bleiben unberührt.
 
-
-## § 8 – Teilnahme an gemeinsamen Verfahren der Zusammenarbeit
+# § 8 – Teilnahme an gemeinsamen Verfahren der Zusammenarbeit
 
 Die Fluggastdatenzentralstelle kann an gemeinsamen Verfahren der systematischen Zusammenarbeit mit anderen Fluggastdatenzentralstellen der Mitgliedstaaten der Europäischen Union zur Verhütung und Verfolgung von terroristischen Straftaten und schwerer Kriminalität nach Maßgabe dieses Gesetzes teilnehmen. § 7 bleibt unberührt.
 
-
-## § 9 – Datenübermittlung an Europol
+# § 9 – Datenübermittlung an Europol
 
 Die Fluggastdatenzentralstelle kann Fluggastdaten und die Ergebnisse der Verarbeitung dieser Daten an Europol übermitteln, wenn ein Ersuchen von Europol vorliegt, aus dem sich tatsächliche Anhaltspunkte dafür ergeben, dass die Übermittlung zur Verhütung oder Verfolgung von terroristischen Straftaten oder schwerer Kriminalität durch Europol erforderlich ist. § 5 Absatz 2 gilt entsprechend.
 
-
-## § 10 – Datenübermittlung an Drittstaaten
+# § 10 – Datenübermittlung an Drittstaaten
 
 (1) Unter Beachtung der §§ 78 bis 80 des Bundesdatenschutzgesetzes kann die Fluggastdatenzentralstelle Fluggastdaten und die Ergebnisse der Verarbeitung dieser Daten im Einzelfall auf Ersuchen an die Behörden von Staaten, die nicht Mitgliedstaaten der Europäischen Union sind (Drittstaaten) übermitteln, wenn
 
@@ -245,20 +233,17 @@ Die für die Einwilligung nach Satz 2 zuständige Fluggastdatenzentralstelle ist
 
 (3) Die Fluggastdatenzentralstelle unterrichtet die Datenschutzbeauftragte oder den Datenschutzbeauftragten der Fluggastdatenzentralstelle über jede Datenübermittlung nach den Absätzen 1 und 2. Die Datenübermittlung nach Absatz 2 Satz 2 ist nachträglich durch die Datenschutzbeauftragte oder den Datenschutzbeauftragten der Fluggastdatenzentralstelle zu überprüfen.
 
-
-## § 11 – Nationale Kontrollstelle
+# § 11 – Nationale Kontrollstelle
 
 Die Aufgaben der nationalen Kontrollstelle für den Datenschutz nimmt die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit wahr.
 
-
-## § 12 – Die oder der Datenschutzbeauftragte der Fluggastdatenzentralstelle
+# § 12 – Die oder der Datenschutzbeauftragte der Fluggastdatenzentralstelle
 
 (1) Die Aufgaben der oder des Datenschutzbeauftragten der Fluggastdatenzentralstelle nimmt die oder der Datenschutzbeauftragte des Bundeskriminalamtes wahr.
 
 (2) Die oder der Datenschutzbeauftragte der Fluggastdatenzentralstelle kann eine Angelegenheit an die nationale Kontrollstelle verweisen, wenn sie oder er eine Verarbeitung von Fluggastdaten für rechtswidrig hält.
 
-
-## § 13 – Löschung von Daten
+# § 13 – Löschung von Daten
 
 (1) Fluggastdaten sind nach Ablauf von fünf Jahren ab ihrer Übermittlung an die Fluggastdatenzentralstelle durch die Fluggastdatenzentralstelle aus dem Fluggastdaten-Informationssystem zu löschen. Die Löschung von Fluggastdaten, die den in § 6 Absatz 1 Satz 1 oder Absatz 2 Satz 1 genannten Behörden übermittelt wurden, richtet sich nach den jeweiligen für diese Behörden geltenden Vorschriften.
 
@@ -270,8 +255,7 @@ Die Aufgaben der nationalen Kontrollstelle für den Datenschutz nimmt die oder d
 
 (5) Ergibt die individuelle Überprüfung nach § 4 Absatz 2 Satz 2 nach einem vorzeitigen Abgleich, dass kein Treffer vorliegt, so ist dieses Ergebnis spätestens dann zu löschen, wenn die dazugehörigen Daten nach Absatz 1 Satz 1 gelöscht werden.
 
-
-## § 14 – Protokollierung
+# § 14 – Protokollierung
 
 (1) § 76 des Bundesdatenschutzgesetzes gilt mit der Maßgabe, dass die Protokolle der oder dem Datenschutzbeauftragten der Fluggastdatenzentralstelle oder der nationalen Kontrollstelle in elektronisch auswertbarer Form für die Überprüfung der Rechtmäßigkeit der Datenverarbeitung zur Verfügung stehen.
 
@@ -279,8 +263,7 @@ Die Aufgaben der nationalen Kontrollstelle für den Datenschutz nimmt die oder d
 
 (3) Die Protokolldaten sind fünf Jahre lang aufzubewahren und anschließend zu löschen.
 
-
-## § 15 – Dokumentationspflicht
+# § 15 – Dokumentationspflicht
 
 (1) Die Fluggastdatenzentralstelle dokumentiert alle Verarbeitungssysteme und Verarbeitungsverfahren, die in ihre Zuständigkeit fallen.
 
@@ -302,18 +285,15 @@ d) Europol sowie
 
 (3) Die Fluggastdatenzentralstelle stellt der nationalen Kontrollstelle auf Anfrage alle verfügbaren Dokumentationen zur Verfügung.
 
-
-## § 16 – Geltung des Bundeskriminalamtgesetzes
+# § 16 – Geltung des Bundeskriminalamtgesetzes
 
 Das Bundeskriminalamtgesetz findet entsprechende Anwendung, soweit in diesem Gesetz keine spezielleren Regelungen enthalten sind.
 
-
-## § 17 – Gerichtliche Zuständigkeit, Verfahren
+# § 17 – Gerichtliche Zuständigkeit, Verfahren
 
 Für gerichtliche Entscheidungen nach diesem Gesetz ist das Amtsgericht zuständig, in dessen Bezirk das Bundeskriminalamt seinen Sitz hat. Für das Verfahren gelten die Bestimmungen des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
-
-## § 18 – Bußgeldvorschriften
+# § 18 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

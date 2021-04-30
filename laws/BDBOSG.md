@@ -1,22 +1,17 @@
-# [BDBOSG] Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben  (BDBOS-Gesetz - BDBOSG)
-
-Ausfertigungsdatum: 28.08.2006
-
+% Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben  (BDBOS-Gesetz - BDBOSG)
+% Ausfertigungsdatum: 28.08.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Errichtung, Zweck, Sitz
+# § 1 – Errichtung, Zweck, Sitz
 
 (1) Im Geschäftsbereich des Bundesministeriums des Innern, für Bau und Heimat wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts (Bundesanstalt) errichtet. Sie trägt die Bezeichnung "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben" (Bundesanstalt für den Digitalfunk der BOS - BDBOS). Der Zweck der Bundesanstalt ist insbesondere der Aufbau und der Betrieb eines bundesweit einheitlichen digitalen Sprech- und Datenfunksystems für Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) in der Bundesrepublik Deutschland. Weiterer Zweck ist die Wahrnehmung der Aufgaben nach § 2 Absatz 1 Satz 2, soweit diese ihr hiernach übertragen worden sind.
 
 (2) Die Bundesanstalt hat ihren Sitz in Berlin.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS) aufzubauen, zu betreiben und seine Funktionsfähigkeit sicherzustellen. Das Bundesministerium des Innern, für Bau und Heimat kann im Einvernehmen mit dem Bundesministerium der Finanzen sowie mit den im Einzelfall zuständigen weiteren Bundesministerien der Bundesanstalt darüber hinaus Planung, Aufbau, Betrieb und Sicherstellung der Funktionsfähigkeit weiterer staatlicher Kommunikationsinfrastrukturen des Bundes sowie Aufgaben, die sich aus dem Zusammenwirken von Bund und Ländern bei der Planung, Errichtung, dem Betrieb und der Sicherstellung ihrer staatlichen Kommunikationsinfrastrukturen ergeben, übertragen. Die Bundesanstalt nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der Digitalfunk BOS soll den Behörden und Organisationen mit Sicherheitsaufgaben des Bundes zur Verfügung stehen sowie der Bundeswehr und, nach Maßgabe des Verwaltungsabkommens nach § 7, den Behörden und Organisationen mit Sicherheitsaufgaben in den Ländern. Die Richtlinie nach § 57 Abs. 4 Satz 1 Nr. 2 des Telekommunikationsgesetzes legt die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben fest.
 
@@ -26,8 +21,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Das Bundesministerium des Innern, für Bau und Heimat kann durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen über die Beschränkung der Haftung von beauftragten Unternehmen gegenüber Dritten aufgrund der Beeinträchtigung der Dienstgüte des Digitalfunk BOS treffen.
 
-
-## § 2a – Begriffsbestimmungen
+# § 2a – Begriffsbestimmungen
 
 (1) Verkehrsdaten im Sinne dieses Gesetzes sind Daten, die bei der Erbringung eines Telekommunikationsdienstes im Digitalfunk BOS im Zuständigkeitsbereich der Bundesanstalt entstehen. Die Verkehrsdaten umfassen
 
@@ -49,15 +43,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Nutzer des Digitalfunks BOS sind die zur Teilnahme am Digitalfunk BOS berechtigten Behörden und Organisationen mit Sicherheitsaufgaben nach § 2 Absatz 1 Satz 5 in Verbindung mit § 57 Absatz 4 Satz 1 Nummer 2 des Telekommunikationsgesetzes sowie die Bundeswehr.
 
-
-## § 3 – Organe
+# § 3 – Organe
 
 (1) Organe der Bundesanstalt sind die Präsidentin oder der Präsident und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe bestimmt die Satzung, soweit sie nicht durch dieses Gesetz geregelt sind.
 
-
-## § 4 – Präsidentin oder Präsident
+# § 4 – Präsidentin oder Präsident
 
 (1) Die Präsidentin oder der Präsident führt die Geschäfte der Bundesanstalt in eigener Verantwortung nach Maßgabe dieses Gesetzes und der Satzung. Sie oder er vollzieht die Beschlüsse des Verwaltungsrats und vertritt die Bundesanstalt gerichtlich und außergerichtlich.
 
@@ -65,8 +57,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Die Präsidentin oder der Präsident hat eine ständige Vertreterin (Vizepräsidentin) oder einen ständigen Vertreter (Vizepräsident).
 
-
-## § 5 – Verwaltungsrat
+# § 5 – Verwaltungsrat
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht insoweit die Geschäftsführung durch die Präsidentin oder den Präsidenten und unterstützt diese oder diesen bei der Erfüllung ihrer oder seiner Aufgaben. Ihm obliegt die Entscheidung über die grundsätzlichen Angelegenheiten der Bundesanstalt, soweit Belange im Sinne des § 2 Absatz 1 Satz 1 betroffen sein können, sowie bei der Übertragung von Aufgaben im Sinne von § 2 Absatz 1 Satz 2. Näheres regelt die Satzung. Die Präsidentin oder der Präsident hat den Verwaltungsrat regelmäßig über die Geschäftsführung zu unterrichten.
 
@@ -80,8 +71,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (6) Scheidet ein Mitglied, eine Vertreterin oder ein Vertreter aus, so ist unverzüglich eine Nachfolgerin oder ein Nachfolger zu bestellen. Hierfür gelten die Absätze 4 und 5 entsprechend.
 
-
-## § 6 – Satzung
+# § 6 – Satzung
 
 (1) Die Bundesanstalt gibt sich eine Satzung. Die Satzung wird durch den Verwaltungsrat erlassen. Sie bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat und wird im Gemeinsamen Ministerialblatt veröffentlicht.
 
@@ -97,8 +87,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Die Satzung darf nicht von den Vorgaben des Verwaltungsabkommens nach § 7 abweichen. § 109 Abs. 2 Satz 2 der Bundeshaushaltsordnung ist anzuwenden.
 
-
-## § 7 – Verwaltungsabkommen
+# § 7 – Verwaltungsabkommen
 
 Die Beteiligung der Länder am Digitalfunk BOS wird in einem Verwaltungsabkommen zwischen Bund und Ländern geregelt. Hierbei sollen insbesondere Bestimmungen getroffen werden über
 
@@ -108,18 +97,15 @@ Die Beteiligung der Länder am Digitalfunk BOS wird in einem Verwaltungsabkommen
 
 3. die Einzelheiten der Finanzierung des Digitalfunk BOS sowie zum Zweckvermögen und zur Finanzierung der Bundesanstalt (§ 9).
 
-
-## § 8 – Aufsicht
+# § 8 – Aufsicht
 
 Die Bundesanstalt untersteht der Aufsicht des Bundesministeriums des Innern, für Bau und Heimat.
 
-
-## § 9 – Zweckvermögen, Finanzierung
+# § 9 – Zweckvermögen, Finanzierung
 
 Zur Wahrnehmung für die ihr nach § 2 übertragenen Aufgaben bildet die Bundesanstalt ein Zweckvermögen. Die Bundesanstalt deckt ihren Aufwand für die ihr nach § 2 Absatz 1 Satz 1 übertragenen Aufgaben anteilig durch Mittel von Bund und Ländern. Die Einzelheiten regelt das Verwaltungsabkommen nach § 7. Im Fall einer Aufgabenübertragung nach § 2 Absatz 1 Satz 2 erfolgt die Finanzierung nach der Verwaltungszuständigkeit.
 
-
-## § 10 – Wirtschaftsplan, mittelfristige Planung
+# § 10 – Wirtschaftsplan, mittelfristige Planung
 
 (1) Die Präsidentin oder der Präsident stellt bis zum 31. Oktober eines jeden Jahres einen Wirtschaftsplan für das folgende Geschäftsjahr auf, der
 
@@ -139,8 +125,7 @@ umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben 
 
 (2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat und dem Bundesministerium des Innern, für Bau und Heimat den Wirtschaftsplan und die mittelfristige Planung unverzüglich vor. Der Wirtschaftsplan wird im Rahmen seiner Zuständigkeit gemäß § 5 Absatz 1 Satz 1 vom Verwaltungsrat und vom Bundesministerium des Innern, für Bau und Heimat für übertragene Aufgaben gemäß § 2 Absatz 1 Satz 2 festgestellt. Er bedarf der Genehmigung des Bundesministeriums des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen.
 
-
-## § 11 – Buchführung, Jahresabschluss
+# § 11 – Buchführung, Jahresabschluss
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen Buchführung.
 
@@ -150,8 +135,7 @@ umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben 
 
 (4) Näheres regelt die Satzung. § 109 Abs. 2 Satz 3 und 4 der Bundeshaushaltsordnung ist anzuwenden.
 
-
-## § 12 – Rechnungsprüfung, Anwendung des Haushaltsrechts
+# § 12 – Rechnungsprüfung, Anwendung des Haushaltsrechts
 
 (1) Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 Abs. 1 der Bundeshaushaltsordnung.
 
@@ -161,20 +145,17 @@ umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben 
 
 (4) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen weitere Ausnahmen von der Anwendung der Vorschriften der Bundeshaushaltsordnung mit Einwilligung des Haushaltsausschusses des Deutschen Bundestags zuzulassen.
 
-
-## § 13 – Beamtinnen und Beamte
+# § 13 – Beamtinnen und Beamte
 
 (1) Die Bundesanstalt besitzt Dienstherrnfähigkeit nach § 2 des Bundesbeamtengesetzes.
 
 (2) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat ihre Befugnisse und Zuständigkeiten einschließlich der Entscheidung über Rechtsbehelfe auf den Gebieten der Besoldung, Beihilfe, Versorgung, Reise- und Umzugskosten, Trennungsgeld sowie die damit verbundene automatisierte Verarbeitung personenbezogener Daten ganz oder teilweise gegen Erstattung der Verwaltungskosten auf Behörden in den Geschäftsbereichen der Bundesministerien übertragen. Die Übertragung ist im Gemeinsamen Ministerialblatt bekannt zu machen.
 
-
-## § 14 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
+# § 14 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
 
 Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden. § 13 Abs. 2 findet entsprechende Anwendung.
 
-
-## § 15 – Abwehr netzspezifischer Gefahren, Überwachung
+# § 15 – Abwehr netzspezifischer Gefahren, Überwachung
 
 (1) Soweit es der Schutz der Funktionsfähigkeit und des laufenden Betriebs des Digitalfunk BOS dringend erfordert, ist die Präsidentin oder der Präsident befugt, die im Einzelfall zur Abwehr von Gefahren für den Digitalfunk BOS erforderlichen netz- und betriebsbezogenen Anordnungen zu treffen. Insbesondere kann die Präsidentin oder der Präsident der Bundesanstalt
 
@@ -194,8 +175,7 @@ Die Umsetzung der Anordnung nach Satz 1 erfolgt auf Ersuchen der Präsidentin od
 
 (5) Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2 des Grundgesetzes) und die Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden durch die vorstehenden Absätze eingeschränkt.
 
-
-## § 15a – Zertifizierung von Endgeräten
+# § 15a – Zertifizierung von Endgeräten
 
 (1) Im Digitalfunk BOS werden nur solche Endgeräte verwendet, die von der Bundesanstalt als hierfür geeignet zertifiziert worden sind. Die Bundesanstalt ist berechtigt, die erforderlichen Maßnahmen zu treffen, um die Nutzung des Digitalfunks BOS mittels nicht zertifizierter Endgeräte zu unterbinden. Die Bundesanstalt zertifiziert auf der Grundlage der entsprechend der Rechtsverordnung nach § 15b Absatz 1 veröffentlichten Leistungsmerkmale ein Endgerät als für den Digitalfunk BOS geeignet, wenn
 
@@ -215,8 +195,7 @@ Die Umsetzung der Anordnung nach Satz 1 erfolgt auf Ersuchen der Präsidentin od
 
 (5) Abweichend von Absatz 1 Satz 1 dürfen Endgeräte bis zum Ablauf der in der Rechtsverordnung nach § 15b Absatz 1 Satz 1 Nummer 3 festgelegten Übergangsfrist auch ohne eine Zertifizierung im Digitalfunk BOS verwendet werden, es sei denn, ihre Verwendung ruft eine Störung des Digitalfunk BOS hervor. Wird durch die Verwendung der Digitalfunk BOS gestört, so ist die Bundesanstalt berechtigt, die erforderlichen Maßnahmen nach Absatz 1 Satz 2 zu treffen, um die weitere Nutzung der Endgeräte zu unterbinden.
 
-
-## § 15b – Erlass von Rechtsverordnungen; Widerspruchsgebühren
+# § 15b – Erlass von Rechtsverordnungen; Widerspruchsgebühren
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat erlässt durch Rechtsverordnung Bestimmungen über die Einzelheiten des Zertifizierungsverfahrens und den Inhalt der Zertifikate nach § 15a Absatz 1 bis 3, insbesondere über
 
@@ -246,20 +225,17 @@ Das Bundesministerium des Innern, für Bau und Heimat kann diese Ermächtigung d
 
 (4) Für ein Vorverfahren werden Gebühren und Auslagen erhoben. Für die vollständige oder teilweise Zurückweisung eines Widerspruchs wird eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt festgesetzten Gebühr erhoben. Wird ein Widerspruch nach Beginn seiner sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die Gebühr höchstens 75 Prozent der Widerspruchsgebühr. Über die Gebühren und Auslagen nach den Sätzen 2 und 3 entscheidet die Widerspruchsstelle nach billigem Ermessen.
 
-
-## § 15c – Testplattform
+# § 15c – Testplattform
 
 (1) Zur Erfüllung ihrer Aufgaben nach § 2 kann die Bundesanstalt eine Testplattform unterhalten.
 
 (2) Die Präsidentin oder der Präsident kann durch Satzung die Benutzung der Testplattform sowie die Gebühren hierfür regeln. Die Gebühren sind so zu bemessen, dass der mit der Benutzung der Testplattform verbundene Personal- und Sachaufwand gedeckt wird. Die Satzung wird im Bundesanzeiger veröffentlicht.
 
-
-## § 16 – Internationale Zusammenarbeit
+# § 16 – Internationale Zusammenarbeit
 
 Für den Abschluss von Verwaltungsabkommen mit ausländischen Staaten über die Mitnutzung des Digitalfunk BOS ist das Bundesministerium des Innern, für Bau und Heimat zuständig. Solche Verwaltungsabkommen sollen das Prinzip der Gegenseitigkeit wahren und nur abgeschlossen werden, wenn das Recht zur Mitnutzung der entsprechenden Funkeinrichtungen des jeweils anderen Vertragsstaats sichergestellt ist.
 
-
-## § 17 – Abgabenfreiheit, Dienstsiegel, Sonstiges
+# § 17 – Abgabenfreiheit, Dienstsiegel, Sonstiges
 
 (1) Die Bundesanstalt führt als Dienstsiegel das kleine Bundessiegel mit der Umschrift "Bundesanstalt für den Digitalfunk der BOS".
 
@@ -271,13 +247,11 @@ Für den Abschluss von Verwaltungsabkommen mit ausländischen Staaten über die 
 
 (5) Die Bundesanstalt kann nur durch Gesetz aufgelöst werden.
 
-
-## § 18 – Anwendbarkeit des Bundesdatenschutzgesetzes
+# § 18 – Anwendbarkeit des Bundesdatenschutzgesetzes
 
 Für die Verarbeitung personenbezogener Daten durch die Bundesanstalt gelten die Teile 1 und 2 des Bundesdatenschutzgesetzes, soweit die §§ 19 bis 22 keine abweichende Regelung treffen.
 
-
-## § 19 – Verarbeitung von Verkehrsdaten durch die Bundesanstalt
+# § 19 – Verarbeitung von Verkehrsdaten durch die Bundesanstalt
 
 (1) Die Bundesanstalt darf Verkehrsdaten verarbeiten, soweit dies zum Betreiben des Digitalfunk BOS und zur Sicherstellung der Funktionsfähigkeit des Digitalfunk BOS erforderlich ist. Die Verarbeitung ist insbesondere zulässig:
 
@@ -301,8 +275,7 @@ Die Verkehrsdaten von Gesprächsteilnehmern außerhalb des Digitalfunk BOS sind 
 
 (4) Zur Sicherstellung, dass die Zwecke der Absätze 1 bis 3 erfüllt werden können, dürfen Verkehrsdaten nach ihrem Entstehen 75 Tage gespeichert werden. Nach Ablauf dieser Frist, sind die Verkehrsdaten zu löschen oder zu anonymisieren, es sei denn, ihre weitere Speicherung ist zu den in den Absätzen 1 bis 3 genannten Zwecken erforderlich. Die weitere Speicherung ist zu begründen und zu dokumentieren. In Abständen von drei Monaten ist zu überprüfen, ob eine weitere Speicherung der Verkehrsdaten für die in den Absätzen 1 bis 3 genannten Zwecke erforderlich ist. Wird im Rahmen der Überprüfung festgestellt, dass eine weitere Speicherung der Verkehrsdaten nicht erforderlich ist, sind die Verkehrsdaten unverzüglich zu löschen oder zu anonymisieren.
 
-
-## § 20 – Übermittlung von Verkehrsdaten an die Zuständigen Stellen für den Betrieb des Digitalfunk BOS
+# § 20 – Übermittlung von Verkehrsdaten an die Zuständigen Stellen für den Betrieb des Digitalfunk BOS
 
 (1) Verkehrsdaten dürfen von der Bundesanstalt an die Zuständigen Stellen für den Betrieb des Digitalfunk BOS übermittelt und von diesen verarbeitet werden, soweit dies erforderlich ist
 
@@ -320,20 +293,17 @@ Der Antrag ist durch den Nutzer über die für ihn verantwortliche Zuständige S
 
 (3) Empfänger, an die Verkehrsdaten nach den Absätzen 1 und 2 übermittelt werden, dürfen diese nur für die Zwecke verarbeiten, zu deren Erfüllung sie ihnen übermittelt werden.
 
-
-## § 21 – Übermittlung von Verkehrsdaten an Strafverfolgungs- und Polizeibehörden
+# § 21 – Übermittlung von Verkehrsdaten an Strafverfolgungs- und Polizeibehörden
 
 Die Bundesanstalt übermittelt Gerichten und Strafverfolgungsbehörden zu Zwecken der Strafverfolgung sowie den Polizeibehörden des Bundes und der Länder zu Zwecken der Gefahrenabwehr Verkehrsdaten, soweit dies im Einzelfall zur Erfüllung der Aufgaben dieser Gerichte und Behörden erforderlich ist und die Empfänger zu der Erhebung der Verkehrsdaten berechtigt sind. Vor der Übermittlung haben die in Satz 1 genannten Gerichte und Behörden die Erfüllung der Voraussetzungen für die Erhebung der Verkehrsdaten gegenüber der Bundesanstalt nachzuweisen.
 
-
-## § 22 – Weitere Vorschriften zur Übermittlung von Verkehrsdaten
+# § 22 – Weitere Vorschriften zur Übermittlung von Verkehrsdaten
 
 (1) Sind mit Verkehrsdaten, die übermittelt werden dürfen, weitere Verkehrsdaten von Nutzern oder Dritten so verbunden, dass eine Trennung nicht oder nur mit unvertretbarem Aufwand möglich ist, ist auch die Übermittlung dieser Daten zulässig; eine Verarbeitung dieser Daten durch den Empfänger ist unzulässig.
 
 (2) Die Übermittlung von Verkehrsdaten ist aktenkundig zu machen.
 
-
-## § 23 – Dateisystem zur Verwaltung der Standorte des Digitalfunk BOS
+# § 23 – Dateisystem zur Verwaltung der Standorte des Digitalfunk BOS
 
 (1) Die Bundesanstalt führt zur Erfüllung ihrer Aufgaben ein Dateisystem zur Verwaltung der Standorte des Digitalfunk BOS. In diesem Dateisystem können auch personenbezogene Daten verarbeitet werden, insbesondere Angaben zu Mietverhältnissen zu den Standorten des Digitalfunk BOS sowie Kontaktdaten des Vermieters der für einen Standort genutzten Liegenschaft und seiner Beschäftigten oder Beauftragten. Die Zuständigen Stellen für den Betrieb des Digitalfunk BOS sowie die Bundesanstalt sind berechtigt, Daten im automatisierten Verfahren in das Dateisystem einzugeben und, soweit es zur jeweiligen Aufgabenerfüllung erforderlich ist, aus dem Dateisystem abzurufen.
 
@@ -343,7 +313,6 @@ Die Bundesanstalt übermittelt Gerichten und Strafverfolgungsbehörden zu Zwecke
 
 (4) Die Bundesanstalt hat für Zwecke der Datenschutzkontrolle bei jedem Zugriff den Zeitpunkt des Abrufs und die abrufenden Stelle sowie die Angaben, die die Feststellung der abgerufenen Datensätze ermöglichen, zu protokollieren. Die protokollierten Daten dürfen nur für Zwecke der Datenschutzkontrolle oder der Datensicherung oder zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet werden. Die Protokolldaten sind spätestens am Ende des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu löschen.
 
-
-## § 24 – Einschränkung eines Grundrechts
+# § 24 – Einschränkung eines Grundrechts
 
 Durch die §§ 19 bis 22 wird das Grundrecht des Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) eingeschränkt.

@@ -1,10 +1,7 @@
-# [WoImmoDarlRV] Verordnung zur Durchführung von Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien  (Wohnimmobiliendarlehensrisikoverordnung)
-
-Ausfertigungsdatum: 28.01.2021
-
+% Verordnung zur Durchführung von Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien  (Wohnimmobiliendarlehensrisikoverordnung)
+% Ausfertigungsdatum: 28.01.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet
 
@@ -17,8 +14,7 @@ auf Grund des § 5 Absatz 8a Satz 3 des Kapitalanlagegesetzbuches, der durch Art
 –  
 auf Grund des § 308b Satz 3 des Versicherungsaufsichtsgesetzes, der durch Artikel 4 Nummer 16 des Gesetzes vom 6. Juni 2017 (BGBl. I S. 1495) eingefügt worden ist, nach Anhörung der Spitzenverbände der Unternehmen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Maßnahmen der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) gegenüber Darlehensgebern nach § 48u Absatz 1 Satz 1 des Kreditwesengesetzes, nach § 5 Absatz 8a Satz 1 des Kapitalanlagegesetzbuches und nach § 308b Satz 1 des Versicherungsaufsichtsgesetzes.
 
@@ -26,8 +22,7 @@ auf Grund des § 308b Satz 3 des Versicherungsaufsichtsgesetzes, der durch Artik
 
 (3) Sofern lediglich einzelne Bedingungen der Darlehensvergabe vor dem in der Allgemeinverfügung nach § 4 Absatz 3 Nummer 6 festgelegten Zeitpunkt vertraglich bindend vereinbart wurden, sind die Maßnahmen nach Absatz 1 nur auf diese Bedingungen nicht anzuwenden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind:
 
@@ -65,8 +60,7 @@ b) für den Erwerb oder für die Erhaltung von grundstücksgleichen Rechten an e
 
 8. Fremdfinanzierungen durch Dritte alle weiteren Finanzierungen, die nicht durch den Darlehensgeber erfolgen, wobei auch ein mit dem Darlehensgeber verbundenes Unternehmen als Dritter anzusehen ist.
 
-
-## § 3 – Weitere Begriffsbestimmungen und Wertfestlegung bei einschränkenden Maßnahmen
+# § 3 – Weitere Begriffsbestimmungen und Wertfestlegung bei einschränkenden Maßnahmen
 
 (1) Für die Festlegung der Darlehensvolumen-Immobilienwert-Relation und der Amortisationsanforderung nach § 48u Absatz 2 des Kreditwesengesetzes ist
 
@@ -88,8 +82,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (3) Der Beleihungswert nach § 48u Absatz 3 des Kreditwesengesetzes ist der aktuelle Wert der Wohnimmobilie, der nach den Anforderungen des § 22 der Solvabilitätsverordnung ermittelt wird.
 
-
-## § 4 – Verfahren zum Erlass einer Allgemeinverfügung
+# § 4 – Verfahren zum Erlass einer Allgemeinverfügung
 
 (1) Die Deutsche Bundesbank unterrichtet die Bundesanstalt und das Bundesministerium der Finanzen unverzüglich, wenn sie im Rahmen ihrer Finanzstabilitätsanalysen nach § 1 Absatz 1 Nummer 1 des Finanzstabilitätsgesetzes zu der Einschätzung gelangt, dass es auf Grund der systemischen Risikolage im Bereich der Darlehensvergabe zum Bau oder Erwerb von Wohnimmobilien zu einer Störung der Funktionsfähigkeit des Finanzsystems oder einer Gefährdung der Finanzstabilität kommen könnte.
 
@@ -117,8 +110,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (6) Die Bundesanstalt arbeitet bei der Festlegung von Beschränkungen eng mit der Deutschen Bundesbank zusammen. Die Bundesanstalt entscheidet im Einvernehmen mit der Deutschen Bundesbank über die genaue Festlegung der Beschränkungen nach Absatz 3 Nummer 1, die Anordnungen nach Absatz 3 Nummer 2, 3 und 5, die Festlegung nach Absatz 3 Nummer 4 sowie die Zulassung von Ausnahmen nach § 48u Absatz 1 Satz 5 des Kreditwesengesetzes.
 
-
-## § 5 – Darlehensvergabe unter festgelegten Beschränkungen
+# § 5 – Darlehensvergabe unter festgelegten Beschränkungen
 
 (1) Wurden Maßnahmen nach § 1 Absatz 1 festgelegt, können Darlehen zum Bau oder Erwerb von Wohnimmobilien nur vergeben werden im Rahmen
 
@@ -134,8 +126,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (2) Sofern die Vergabe eines Darlehens oder mehrerer Darlehen zum Zweck einer Wohnimmobilienfinanzierung nicht in voller Höhe einer der unter Absatz 1 Nummer 2 bis 5 genannten Rahmen unterliegt, findet für die Vergabe in voller Höhe die Beschränkung nach Absatz 1 Nummer 1 Anwendung. Eine Kombination von Ausnahmeregelungen, Freikontingent, Bagatellgrenze und Schwellenwerten ist auch bei der Vergabe mehrerer Darlehen an einen Darlehensnehmer nicht zulässig. Darlehen, die der Ausnahme nach § 8 Absatz 2 unterliegen, bleiben bei der Anwendung der Sätze 1 und 2 unberücksichtigt.
 
-
-## § 6 – Obergrenze für die Darlehensvolumen-Immobilienwert-Relation
+# § 6 – Obergrenze für die Darlehensvolumen-Immobilienwert-Relation
 
 (1) Die Obergrenze für die Darlehensvolumen-Immobilienwert-Relation gilt für
 
@@ -145,8 +136,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (2) Der Darlehensgeber kann bei der Anwendung der Obergrenze auf die Gesamtfinanzierung nach Absatz 1 Nummer 2 die Angaben des Darlehensnehmers oder Auskünfte anderer Stellen verwenden. § 18a Absatz 3 des Kreditwesengesetzes gilt entsprechend. Hierbei bleiben solche Fremdfinanzierungen Dritter unberücksichtigt, die Bestandteil einer sozialen Wohnraumförderung im Sinne des Wohnraumförderungsgesetzes oder nach entsprechenden landesrechtlichen Regelungen sind und den Eigenmitteln des Darlehensnehmers gleichzustellen sind.
 
-
-## § 7 – Amortisationsanforderung
+# § 7 – Amortisationsanforderung
 
 (1) Bei Darlehen mit regelmäßigen Tilgungsleistungen legt die Bundesanstalt die Länge des Zeitraums und die Höhe des in diesem Zeitraum mindestens zu tilgenden Darlehensanteils fest. Darlehensgeber haben die Anforderungen der Bundesanstalt im Rahmen der Vertragsgestaltung mit Darlehensnehmern zu beachten.
 
@@ -154,15 +144,13 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (3) Die Beschränkung durch eine Amortisationsanforderung nach Absatz 1 oder nach Absatz 2 ist auf jedes der von einem Darlehensgeber vergebene Darlehen einzeln anzuwenden.
 
-
-## § 8 – Ausnahmen
+# § 8 – Ausnahmen
 
 (1) Die Ausnahmen nach § 48u Absatz 1 Satz 3 des Kreditwesengesetzes und mögliche weitere von der Bundesanstalt nach § 48u Absatz 1 Satz 5 des Kreditwesengesetzes zugelassene Ausnahmen jeweils auch in Verbindung mit § 5 Absatz 8a Satz 2 des Kapitalanlagegesetzbuches und § 308b Satz 2 des Versicherungsaufsichtsgesetzes gelten nur für Darlehen, auf die insgesamt und in voller Höhe mindestens eine dieser Ausnahmen zutrifft.
 
 (2) Darlehen für Maßnahmen, für die eine soziale Wohnraumförderung im Sinne des § 1 Absatz 1 des Wohnraumförderungsgesetzes oder nach entsprechenden landesrechtlichen Regelungen zugesagt ist, sind von den festgelegten Beschränkungen ausgenommen, soweit das Darlehen zur Finanzierung solcher Maßnahmen dient, auf die sich die Förderzusage erstreckt. Dient das Darlehen nur teilweise der Finanzierung einer Maßnahme, die Gegenstand einer Förderzusage ist, so unterliegt das Darlehen den Beschränkungen nur insoweit als es über die Finanzierung der Maßnahme hinausgeht, die Gegenstand einer Förderzusage ist. Absatz 1 findet insoweit keine Anwendung.
 
-
-## § 9 – Freikontingent
+# § 9 – Freikontingent
 
 (1) Der von der Bundesanstalt als Freikontingent festgelegte prozentuale Anteil gilt einheitlich für alle gewerblichen Darlehensgeber. Das Freikontingent bezieht sich auf das Volumen der von einem gewerblichen Darlehensgeber in der laufenden Bezugsperiode insgesamt neu vergebenen Darlehen zum Bau oder Erwerb von Wohnimmobilien. Als Bezugsperiode für die Anwendung des Freikontingents gilt das Kalenderjahr.
 
@@ -170,8 +158,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (3) Neu vergebene Wohnimmobiliendarlehen, die nicht den von der Bundesanstalt festgelegten Beschränkungen unterliegen, weil für sie die Regelungen zu den Ausnahmen nach § 48u Absatz 1 Satz 3 und Satz 5 des Kreditwesengesetzes, zur Bagatellgrenze nach § 48u Absatz 3 Nummer 2 des Kreditwesengesetzes in Verbindung mit § 10 oder die Schwellenwertregelung nach § 48u Absatz 3 Nummer 3 und 4 des Kreditwesengesetzes in Verbindung mit § 11 gelten, werden nicht auf das Volumen des Freikontingents angerechnet.
 
-
-## § 10 – Bagatellgrenze
+# § 10 – Bagatellgrenze
 
 (1) Die Bagatellgrenze wird nach Maßgabe von § 4 Absatz 5 unter Berücksichtigung des Mindestwertes nach § 48u Absatz 3 Satz 2 des Kreditwesengesetzes festgelegt.
 
@@ -179,8 +166,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 (3) Werden im Rahmen einer Wohnimmobilienfinanzierung mehrere Darlehen zum Bau oder zum Erwerb von Wohnimmobilien an einen Darlehensnehmer vergeben, bezieht sich die Bagatellgrenze auf das gesamte Fremdkapitalvolumen im Sinne des § 3 Absatz 1 Nummer 1. Eine anteilige Berücksichtigung der Bagatellgrenze in Bezug auf die insgesamt an den Darlehensnehmer zu vergebende Darlehenssumme ist nicht möglich. Dies gilt auch, wenn die Darlehen zum Bau oder zum Erwerb von Wohnimmobilien von mehreren Darlehensgebern vergeben werden. Der Darlehensgeber kann insoweit die Angaben des Darlehensnehmers oder Auskünfte anderer Stellen verwenden. § 18a Absatz 3 des Kreditwesengesetzes gilt entsprechend.
 
-
-## § 11 – Unterer und oberer Schwellenwert
+# § 11 – Unterer und oberer Schwellenwert
 
 (1) Werden durch einen gewerblichen Darlehensgeber mehrere Darlehen zum Bau oder zum Erwerb von Wohnimmobilien vergeben, fallen solche Darlehen nur dann unter diese Schwellenwertregelung, wenn die Vergabe aller Darlehen insgesamt den Bedingungen der Schwellenwertregelung nach § 48u Absatz 3 Nummer 3 und 4 des Kreditwesengesetzes genügt. Der Darlehensgeber kann insoweit die Angaben des Darlehensnehmers oder Auskünfte anderer Stellen verwenden. § 18a Absatz 3 des Kreditwesengesetzes gilt entsprechend.
 
@@ -188,8 +174,7 @@ Können mehrere Werte ermittelt werden, so ist im Regelfall der niedrigste ermit
 
 § 11 Abs. 1 Satz 1 Kursivdruck: Wegen offensichtlicher Unrichtigkeit wurde die Angabe "des Kreditwesengesetzes" hinzugefügt.
 
-
-## § 12 – Überprüfung festgelegter Beschränkungen
+# § 12 – Überprüfung festgelegter Beschränkungen
 
 (1) Die Bundesanstalt überprüft festgelegte Beschränkungen mindestens alle sechs Monate daraufhin, ob und inwieweit die dem Erlass der Allgemeinverfügung zugrunde gelegte systemische Risikolage im Bereich der Darlehensvergabe fortbesteht und ob die Maßnahmen weiterhin geboten sind. Die Überprüfung ist zu dokumentieren.
 
@@ -213,7 +198,6 @@ e) Entwicklungen der Realwirtschaft, insbesondere der Bauwirtschaft, mit Blick a
 
 (4) Die Deutsche Bundesbank unterstützt die Bundesanstalt bei der Überprüfung nach Absatz 1 und bei der Erstellung des Überprüfungsberichts nach Absatz 3, insbesondere indem die Deutsche Bundesbank der Bundesanstalt ihre Beobachtungen, Feststellungen und Einschätzungen mitteilt, die für die Überprüfung und die Erstellung des Überprüfungsberichts erforderlich sind.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,27 +1,21 @@
-# [EU-FahrgRSchG] EU-Fahrgastrechte-Schifffahrt-Gesetz  (EU-FahrgRSchG)
-
-Ausfertigungsdatum: 05.12.2012
-
+% EU-Fahrgastrechte-Schifffahrt-Gesetz  (EU-FahrgRSchG)
+% Ausfertigungsdatum: 05.12.2012
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz dient der Durchführung der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 über die Fahrgastrechte im See- und Binnenschiffsverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004 (ABl. L 334 vom 17.12.2010, S. 1).
 
-
-## § 2 – Aufgaben des Bundes
+# § 2 – Aufgaben des Bundes
 
 Dem Bund obliegt die Durchsetzung der Fahrgastrechte auf dem Gebiet des See- und Binnenschiffsverkehrs.
 
-
-## § 3 – Zuständige Behörde
+# § 3 – Zuständige Behörde
 
 (1) Zuständige Behörde für die Durchsetzung der Verordnung (EU) Nr. 1177/2010 ist das Eisenbahn-Bundesamt.
 
 (2) Die in Absatz 1 bezeichnete Behörde ist Beschwerdestelle für Beschwerden über einen mutmaßlichen Verstoß gegen die Verordnung (EU) Nr. 1177/2010 nach Artikel 25 Absatz 3 Satz 1 der Verordnung (EU) Nr. 1177/2010.
 
-
-## § 4 – Befugnisse
+# § 4 – Befugnisse
 
 (1) Soweit es zur Durchführung der Verordnung (EU) Nr. 1177/2010 erforderlich ist, kann die zuständige Behörde die notwendigen Maßnahmen treffen, die zur Feststellung, Beseitigung oder Verhütung von Verstößen gegen die Verordnung (EU) Nr. 1177/2010 erforderlich sind. Sie kann insbesondere
 
@@ -43,8 +37,7 @@ c) die unter Buchstabe b genannten Unterlagen und Datenträger verwenden und hie
 
 (4) Die zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Bestimmungen durchsetzen. Bei der Verhängung eines Zwangsgeldes kann dieses bis zu 500 000 Euro betragen.
 
-
-## § 5 – Duldungs- und Mitwirkungspflichten
+# § 5 – Duldungs- und Mitwirkungspflichten
 
 Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber, die nach Gesetz oder Satzung zu deren Vertretung berufenen Personen und die von ihnen bestellten Vertreter sowie die Eigentümer und sonstigen nutzungsberechtigten Personen der in § 4 Absatz 2 bezeichneten Wasserfahrzeuge, Betriebs- und Geschäftsräume sind verpflichtet,
 
@@ -54,8 +47,7 @@ Beförderer, Reisevermittler, Reiseveranstalter oder Terminalbetreiber, die nach
 
 Insbesondere sind die in Satz 1 genannten Personen verpflichtet, auf Verlangen der zuständigen Behörde und den von ihr beauftragten Personen die in Betracht kommenden Räume zu öffnen.
 
-
-## § 6 – Schlichtungsstelle
+# § 6 – Schlichtungsstelle
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung im See- und Binnenschiffsverkehr kann der Fahrgast eine geeignete Verbraucherschlichtungsstelle anrufen, wenn sich der Vertragspartner bereit erklärt hat, an der Schlichtung teilzunehmen.
 
@@ -77,13 +69,11 @@ Das Recht, die Gerichte anzurufen, bleibt durch die Schlichtung unberührt.
 
 (7) (weggefallen)
 
-
-## § 7 – Gebühren und Auslagen
+# § 7 – Gebühren und Auslagen
 
 Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, auf Grund dieses Gesetzes oder nach der Verordnung (EU) Nr. 1177/2010.
 
-
-## § 8 – Verordnungsermächtigung
+# § 8 – Verordnungsermächtigung
 
 Zur Durchsetzung der Fahrgastrechte im See- und Binnenschiffsverkehr nach der Verordnung (EU) Nr. 1177/2010 wird das Bundesministerium für Verkehr und digitale Infrastruktur zur Wahrnehmung der Aufgaben des Bundes nach § 2 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -95,8 +85,7 @@ Zur Durchsetzung der Fahrgastrechte im See- und Binnenschiffsverkehr nach der Ve
 
 4. Regelungen zur Berichterstattung über die Durchsetzung der Verordnung (EU) Nr. 1177/2010 nach deren Artikel 26 zu treffen.
 
-
-## § 9 – Bußgeldvorschriften
+# § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen Union über die Fahrgastrechte im See- und Binnenschiffsverkehr zuwiderhandelt, soweit eine Rechtsverordnung nach Absatz 4 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 

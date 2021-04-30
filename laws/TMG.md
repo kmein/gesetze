@@ -1,13 +1,9 @@
-# [TMG] Telemediengesetz  (TMG)
-
-Ausfertigungsdatum: 26.02.2007
-
+% Telemediengesetz  (TMG)
+% Ausfertigungsdatum: 26.02.2007
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für alle elektronischen Informations- und Kommunikationsdienste, soweit sie nicht Telekommunikationsdienste nach § 3 Nr. 24 des Telekommunikationsgesetzes, die ganz in der Übertragung von Signalen über Telekommunikationsnetze bestehen, telekommunikationsgestützte Dienste nach § 3 Nr. 25 des Telekommunikationsgesetzes oder Rundfunk nach § 2 des Rundfunkstaatsvertrages sind (Telemedien). Dieses Gesetz gilt für alle Anbieter einschließlich der öffentlichen Stellen unabhängig davon, ob für die Nutzung ein Entgelt erhoben wird.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 26.02.2007
 
 2. weder unmittelbar noch mittelbar von der Allgemeinheit mit handelsüblichen Verbraucherendgeräten in einem Mitgliedstaat empfangen werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -34,8 +29,7 @@ Im Sinne dieses Gesetzes
 
 2. ist niedergelassener Diensteanbieter jeder Anbieter, der mittels einer festen Einrichtung auf unbestimmte Zeit Telemedien geschäftsmäßig anbietet oder erbringt; der Standort der technischen Einrichtung allein begründet keine Niederlassung des Anbieters,
 
-2a.  
-ist drahtloses lokales Netzwerk ein Drahtloszugangssystem mit geringer Leistung und geringer Reichweite sowie mit geringem Störungsrisiko für weitere, von anderen Nutzern in unmittelbarer Nähe installierte Systeme dieser Art, welches nicht exklusive Grundfrequenzen nutzt,
+2a. ist drahtloses lokales Netzwerk ein Drahtloszugangssystem mit geringer Leistung und geringer Reichweite sowie mit geringem Störungsrisiko für weitere, von anderen Nutzern in unmittelbarer Nähe installierte Systeme dieser Art, welches nicht exklusive Grundfrequenzen nutzt,
 
 3. ist Nutzer jede natürliche oder juristische Person, die Telemedien nutzt, insbesondere um Informationen zu erlangen oder zugänglich zu machen,
 
@@ -85,8 +79,7 @@ b) trennbare Teile von Telemedien, wenn für den trennbaren Teil der in Buchstab
 
 Einer juristischen Person steht eine Personengesellschaft gleich, die mit der Fähigkeit ausgestattet ist, Rechte zu erwerben und Verbindlichkeiten einzugehen.
 
-
-## § 2a – Europäisches Sitzland
+# § 2a – Europäisches Sitzland
 
 (1) Sitzland des Diensteanbieters im Sinne dieses Gesetzes ist der Mitgliedstaat, in dessen Hoheitsgebiet der Diensteanbieter niedergelassen ist.
 
@@ -130,8 +123,7 @@ niedergelassen ist.
 
 (8) Treten zwischen der zuständigen Behörde und einer Behörde eines anderen Mitgliedstaats Meinungsverschiedenheiten darüber auf, welcher Mitgliedstaat Sitzland des Diensteanbieters nach den Absätzen 2 bis 7 ist oder als solcher gilt, so bringt die zuständige Behörde dies der Europäischen Kommission unverzüglich zur Kenntnis.
 
-
-## § 2b – Listen der audiovisuellen Mediendiensteanbieter und Videosharingplattform-Anbieter
+# § 2b – Listen der audiovisuellen Mediendiensteanbieter und Videosharingplattform-Anbieter
 
 (1) Die zuständige Behörde erstellt jeweils eine Liste der audiovisuellen Mediendiensteanbieter und der Videosharingplattform-Anbieter, deren Sitzland Deutschland ist oder für die Deutschland als Sitzland gilt. In der Liste sind zu jedem audiovisuellen Mediendiensteanbieter und Videosharingplattform-Anbieter die maßgeblichen Kriterien nach § 2a Absatz 2 bis 7 anzugeben.
 
@@ -139,15 +131,13 @@ niedergelassen ist.
 
 (3) Die für Kultur und Medien zuständige oberste Bundesbehörde leitet die ihr übermittelten Listen der audiovisuellen Mediendiensteanbieter und Videosharingplattform-Anbieter und alle Aktualisierungen dieser Listen an die Europäische Kommission weiter.
 
-
-## § 2c – Auskunftsverlangen der zuständigen Behörde
+# § 2c – Auskunftsverlangen der zuständigen Behörde
 
 (1) Audiovisuelle Mediendiensteanbieter und Videosharingplattform-Anbieter sind verpflichtet, der zuständigen Behörde auf Verlangen Auskünfte über die in § 2a Absatz 2 bis 7 genannten Kriterien zu erteilen, soweit dies für die Erfüllung der Aufgaben nach § 2b Absatz 1 Satz 2 und Absatz 2 erforderlich ist.
 
 (2) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit aussetzen würde. Er ist über sein Recht zur Auskunftsverweigerung zu belehren. Die Tatsache, auf die der Auskunftspflichtige die Verweigerung der Auskunft nach Satz 1 stützt, ist auf Verlangen glaubhaft zu machen. Es genügt die eidliche Versicherung des Auskunftspflichtigen.
 
-
-## § 3 – Herkunftslandprinzip
+# § 3 – Herkunftslandprinzip
 
 (1) In Deutschland nach § 2a niedergelassene Diensteanbieter und ihre Telemedien unterliegen den Anforderungen des deutschen Rechts auch dann, wenn die Telemedien innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt (Richtlinie über den elektronischen Geschäftsverkehr) (ABl. L 178 vom 17.7.2000, S. 1) und der Richtlinie 2010/13/EU in einem anderen Mitgliedstaat geschäftsmäßig angeboten oder verbreitet werden.
 
@@ -229,13 +219,11 @@ c) die Wahrung nationaler Sicherheits- und Verteidigungsinteressen.
 
 Maßnahmen nach Satz 1 sind nur zulässig, wenn die Voraussetzungen des Artikels 3 Absatz 2 bis 5 der Richtlinie 2010/13/EU erfüllt sind.
 
-
-## § 4 – Zulassungsfreiheit
+# § 4 – Zulassungsfreiheit
 
 Telemedien sind im Rahmen der Gesetze zulassungs- und anmeldefrei.
 
-
-## § 5 – Allgemeine Informationspflichten
+# § 5 – Allgemeine Informationspflichten
 
 (1) Diensteanbieter haben für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien folgende Informationen leicht erkennbar, unmittelbar erreichbar und ständig verfügbar zu halten:
 
@@ -267,8 +255,7 @@ b) der zuständigen Regulierungs- und Aufsichtsbehörden.
 
 (2) Weitergehende Informationspflichten nach anderen Rechtsvorschriften bleiben unberührt.
 
-
-## § 6 – Besondere Pflichten bei kommerziellen Kommunikationen
+# § 6 – Besondere Pflichten bei kommerziellen Kommunikationen
 
 (1) Diensteanbieter haben bei kommerziellen Kommunikationen, die Telemedien oder Bestandteile von Telemedien sind, mindestens die folgenden Voraussetzungen zu beachten:
 
@@ -288,8 +275,7 @@ b) der zuständigen Regulierungs- und Aufsichtsbehörden.
 
 (5) Die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb bleiben unberührt.
 
-
-## § 7 – Allgemeine Grundsätze
+# § 7 – Allgemeine Grundsätze
 
 (1) Diensteanbieter sind für eigene Informationen, die sie zur Nutzung bereithalten, nach den allgemeinen Gesetzen verantwortlich.
 
@@ -299,8 +285,7 @@ b) der zuständigen Regulierungs- und Aufsichtsbehörden.
 
 (4) Wurde ein Telemediendienst von einem Nutzer in Anspruch genommen, um das Recht am geistigen Eigentum eines anderen zu verletzen und besteht für den Inhaber dieses Rechts keine andere Möglichkeit, der Verletzung seines Rechts abzuhelfen, so kann der Inhaber des Rechts von dem betroffenen Diensteanbieter nach § 8 Absatz 3 die Sperrung der Nutzung von Informationen verlangen, um die Wiederholung der Rechtsverletzung zu verhindern. Die Sperrung muss zumutbar und verhältnismäßig sein. Ein Anspruch gegen den Diensteanbieter auf Erstattung der vor- und außergerichtlichen Kosten für die Geltendmachung und Durchsetzung des Anspruchs nach Satz 1 besteht außer in den Fällen des § 8 Absatz 1 Satz 3 nicht.
 
-
-## § 8 – Durchleitung von Informationen
+# § 8 – Durchleitung von Informationen
 
 (1) Diensteanbieter sind für fremde Informationen, die sie in einem Kommunikationsnetz übermitteln oder zu denen sie den Zugang zur Nutzung vermitteln, nicht verantwortlich, sofern sie
 
@@ -328,8 +313,7 @@ b) die Eingabe eines Passworts zu verlangen oder
 
 Davon unberührt bleibt, wenn ein Diensteanbieter auf freiwilliger Basis die Nutzer identifiziert, eine Passworteingabe verlangt oder andere freiwillige Maßnahmen ergreift.
 
-
-## § 9 – Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
+# § 9 – Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
 
 Diensteanbieter sind für eine automatische, zeitlich begrenzte Zwischenspeicherung, die allein dem Zweck dient, die Übermittlung fremder Informationen an andere Nutzer auf deren Anfrage effizienter zu gestalten, nicht verantwortlich, sofern sie
 
@@ -345,8 +329,7 @@ Diensteanbieter sind für eine automatische, zeitlich begrenzte Zwischenspeicher
 
 § 8 Abs. 1 Satz 2 gilt entsprechend.
 
-
-## § 10 – Speicherung von Informationen
+# § 10 – Speicherung von Informationen
 
 Diensteanbieter sind für fremde Informationen, die sie für einen Nutzer speichern, nicht verantwortlich, sofern
 
@@ -356,8 +339,7 @@ Diensteanbieter sind für fremde Informationen, die sie für einen Nutzer speich
 
 Satz 1 findet keine Anwendung, wenn der Nutzer dem Diensteanbieter untersteht oder von ihm beaufsichtigt wird.
 
-
-## § 10a – Verfahren zur Meldung von Nutzerbeschwerden
+# § 10a – Verfahren zur Meldung von Nutzerbeschwerden
 
 (1) Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese Vorschrift Bezug nimmt und soweit sich eine entsprechende Verpflichtung nicht bereits aus dem Netzwerkdurchsetzungsgesetz vom 1. September 2017 (BGBl. I S. 3352), das zuletzt durch Artikel 274 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, in der jeweils geltenden Fassung ergibt, sind Videosharingplattform-Anbieter verpflichtet, ein Verfahren vorzuhalten, mit dem die Nutzer Beschwerden (Nutzerbeschwerden) über rechtswidrige audiovisuelle Inhalte, die auf dem Videosharingplattform-Dienst des Videosharingplattform-Anbieters bereitgestellt werden, elektronisch melden können.
 
@@ -369,8 +351,7 @@ Satz 1 findet keine Anwendung, wenn der Nutzer dem Diensteanbieter untersteht od
 
 3. gewährleisten, dass der Videosharingplattform-Anbieter Nutzerbeschwerden unverzüglich zur Kenntnis nehmen und prüfen kann.
 
-
-## § 10b – Verfahren zur Abhilfe von Nutzerbeschwerden
+# § 10b – Verfahren zur Abhilfe von Nutzerbeschwerden
 
 Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese Vorschrift Bezug nimmt und soweit sich eine entsprechende Verpflichtung nicht bereits aus dem Netzwerkdurchsetzungsgesetz ergibt, müssen Videosharingplattform-Anbieter ein wirksames und transparentes Verfahren nach Satz 2 zur Prüfung und Abhilfe der nach § 10a Absatz 1 gemeldeten Nutzerbeschwerden vorhalten. Das Verfahren muss gewährleisten, dass der Videosharingplattform-Anbieter
 
@@ -396,8 +377,7 @@ Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese Vorschrift Bezu
 
 11. jede Beschwerde, das Ergebnis ihrer Prüfung, die zu ihrer Abhilfe getroffene Maßnahme sowie jede verlangte Überprüfung der Entscheidung und deren Ergebnis dokumentiert.
 
-
-## § 10c – Allgemeine Geschäftsbedingungen
+# § 10c – Allgemeine Geschäftsbedingungen
 
 (1) Videosharingplattform-Anbieter sind verpflichtet, mit ihren Nutzern wirksam zu vereinbaren, dass diesen die Verbreitung unzulässiger audiovisueller kommerzieller Kommunikation verboten ist.
 
@@ -407,8 +387,7 @@ Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese Vorschrift Bezu
 
 2. § 10 des Heilmittelwerbegesetzes in der Fassung der Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3068), das zuletzt durch Artikel 6 des Gesetzes vom 28. April 2020 (BGBl. I S. 960) geändert worden ist.
 
-
-## § 11 – Anbieter-Nutzer-Verhältnis
+# § 11 – Anbieter-Nutzer-Verhältnis
 
 (1) Die Vorschriften dieses Abschnitts gelten nicht für die Erhebung und Verwendung personenbezogener Daten der Nutzer von Telemedien, soweit die Bereitstellung solcher Dienste
 
@@ -420,8 +399,7 @@ Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese Vorschrift Bezu
 
 (3) Bei Telemedien, die überwiegend in der Übertragung von Signalen über Telekommunikationsnetze bestehen, gelten für die Erhebung und Verwendung personenbezogener Daten der Nutzer nur § 15 Absatz 8 und § 16 Absatz 2 Nummer 4.
 
-
-## § 12 – Grundsätze
+# § 12 – Grundsätze
 
 (1) Der Diensteanbieter darf personenbezogene Daten zur Bereitstellung von Telemedien nur erheben und verwenden, soweit dieses Gesetz oder eine andere Rechtsvorschrift, die sich ausdrücklich auf Telemedien bezieht, es erlaubt oder der Nutzer eingewilligt hat.
 
@@ -429,8 +407,7 @@ Wenn eine Rechtsvorschrift des Bundes oder der Länder auf diese Vorschrift Bezu
 
 (3) Soweit nichts anderes bestimmt ist, sind die jeweils geltenden Vorschriften für den Schutz personenbezogener Daten anzuwenden, auch wenn die Daten nicht automatisiert verarbeitet werden.
 
-
-## § 13 – Pflichten des Diensteanbieters
+# § 13 – Pflichten des Diensteanbieters
 
 (1) Der Diensteanbieter hat den Nutzer zu Beginn des Nutzungsvorgangs über Art, Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten sowie über die Verarbeitung seiner Daten in Staaten außerhalb des Anwendungsbereichs der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr (ABl. EG Nr. L 281 S. 31) in allgemein verständlicher Form zu unterrichten, sofern eine solche Unterrichtung nicht bereits erfolgt ist. Bei einem automatisierten Verfahren, das eine spätere Identifizierung des Nutzers ermöglicht und eine Erhebung oder Verwendung personenbezogener Daten vorbereitet, ist der Nutzer zu Beginn dieses Verfahrens zu unterrichten. Der Inhalt der Unterrichtung muss für den Nutzer jederzeit abrufbar sein.
 
@@ -480,8 +457,7 @@ gesichert sind. Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksi
 
 (8) Der Diensteanbieter hat dem Nutzer nach Maßgabe von § 34 des Bundesdatenschutzgesetzes auf Verlangen Auskunft über die zu seiner Person oder zu seinem Pseudonym gespeicherten Daten zu erteilen. Die Auskunft kann auf Verlangen des Nutzers auch elektronisch erteilt werden.
 
-
-## § 14 – Bestandsdaten
+# § 14 – Bestandsdaten
 
 (1) Der Diensteanbieter darf personenbezogene Daten eines Nutzers nur erheben und verwenden, soweit sie für die Begründung, inhaltliche Ausgestaltung oder Änderung eines Vertragsverhältnisses zwischen dem Diensteanbieter und dem Nutzer über die Nutzung von Telemedien erforderlich sind (Bestandsdaten).
 
@@ -493,13 +469,11 @@ gesichert sind. Vorkehrungen nach Satz 1 müssen den Stand der Technik berücksi
 
 (5) Der Diensteanbieter ist als Beteiligter zu dem Verfahren nach Absatz 4 hinzuzuziehen. Er darf den Nutzer über die Einleitung des Verfahrens unterrichten.
 
-
-## § 14a – Verarbeitung personenbezogener Daten Minderjähriger
+# § 14a – Verarbeitung personenbezogener Daten Minderjähriger
 
 Hat ein Diensteanbieter zur Wahrung des Jugendschutzes personenbezogene Daten von Minderjährigen erhoben, etwa durch Mittel zur Altersverifikation oder andere technische Maßnahmen, oder anderweitig gewonnen, so darf er diese Daten nicht für kommerzielle Zwecke verarbeiten.
 
-
-## § 15 – Nutzungsdaten
+# § 15 – Nutzungsdaten
 
 (1) Der Diensteanbieter darf personenbezogene Daten eines Nutzers nur erheben und verwenden, soweit dies erforderlich ist, um die Inanspruchnahme von Telemedien zu ermöglichen und abzurechnen (Nutzungsdaten). Nutzungsdaten sind insbesondere
 
@@ -523,8 +497,7 @@ Hat ein Diensteanbieter zur Wahrung des Jugendschutzes personenbezogene Daten vo
 
 (8) Liegen dem Diensteanbieter zu dokumentierende tatsächliche Anhaltspunkte vor, dass seine Dienste von bestimmten Nutzern in der Absicht in Anspruch genommen werden, das Entgelt nicht oder nicht vollständig zu entrichten, darf er die personenbezogenen Daten dieser Nutzer über das Ende des Nutzungsvorgangs sowie die in Absatz 7 genannte Speicherfrist hinaus nur verwenden, soweit dies für Zwecke der Rechtsverfolgung erforderlich ist. Der Diensteanbieter hat die Daten unverzüglich zu löschen, wenn die Voraussetzungen nach Satz 1 nicht mehr vorliegen oder die Daten für die Rechtsverfolgung nicht mehr benötigt werden. Der betroffene Nutzer ist zu unterrichten, sobald dies ohne Gefährdung des mit der Maßnahme verfolgten Zweckes möglich ist.
 
-
-## § 15a – Auskunftsverfahren bei Bestandsdaten
+# § 15a – Auskunftsverfahren bei Bestandsdaten
 
 (1) Wer geschäftsmäßig Telemediendienste erbringt, daran mitwirkt oder den Zugang zur Nutzung daran vermittelt, darf die nach § 14 Absatz 1 erhobenen Bestandsdaten nach Maßgabe dieser Vorschrift zur Erfüllung von Auskunftspflichten gegenüber den in Absatz 3 genannten Stellen verwenden. Dies gilt nicht für Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird. Die in eine Auskunft aufzunehmenden Bestandsdaten dürfen auch anhand einer zu einem bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse bestimmt werden; hierfür dürfen nach § 15 Absatz 1 erhobene Nutzungsdaten auch automatisiert ausgewertet werden. Für die Auskunftserteilung sind sämtliche unternehmensinternen Datenquellen zu berücksichtigen.
 
@@ -732,8 +705,7 @@ b) zur Früherkennung von aus dem Ausland drohenden Gefahren von internationaler
 
 § 15a Abs. 3 Nr. 8 Buchst b Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "BDN-Gesetzes" durch das Wort "BND-Gesetzes" ersetzt
 
-
-## § 15b – Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten
+# § 15b – Auskunftsverfahren bei Passwörtern und anderen Zugangsdaten
 
 (1) Abweichend von § 15a darf derjenige, der geschäftsmäßig Telemediendienste erbringt, daran mitwirkt oder den Zugang zur Nutzung daran vermittelt, die nach § 14 Absatz 1 erhobenen Passwörter oder andere Daten, mittels derer der Zugriff auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten oder hiervon räumlich getrennt eingesetzt werden, geschützt wird, nach Maßgabe dieser Vorschrift zur Erfüllung von Auskunftspflichten gegenüber den in Absatz 2 genannten Stellen verwenden. Für die Auskunftserteilung sind sämtliche unternehmensinternen Datenquellen zu berücksichtigen.
 
@@ -749,8 +721,7 @@ An andere öffentliche und nichtöffentliche Stellen dürfen Daten nach Absatz 1
 
 (4) Wer geschäftsmäßig Telemediendienste erbringt oder daran mitwirkt, hat die in seinem Verantwortungsbereich für die Auskunftserteilung erforderlichen Vorkehrungen auf seine Kosten zu treffen. Jedes Auskunftsverlangen ist durch eine verantwortliche Fachkraft auf Einhaltung der in Absatz 2 genannten formalen Voraussetzungen zu prüfen. Die weitere Bearbeitung des Auskunftsverlangens darf erst nach einem positiven Prüfergebnis freigegeben werden.
 
-
-## § 15c – Auskunftsverfahren bei Nutzungsdaten
+# § 15c – Auskunftsverfahren bei Nutzungsdaten
 
 (1) Wer geschäftsmäßig Telemediendienste erbringt, daran mitwirkt oder den Zugang zur Nutzung daran vermittelt, darf die nach § 15 Absatz 1 erhobenen Nutzungsdaten nach Maßgabe dieser Vorschrift zur Erfüllung von Auskunftspflichten gegenüber den in Absatz 3 genannten Stellen verwenden. Für die Auskunftserteilung sind sämtliche unternehmensinternen Datenquellen zu berücksichtigen.
 
@@ -816,13 +787,11 @@ der Früherkennung von aus dem Ausland drohenden Gefahren von internationaler Be
 
 (5) Wer geschäftsmäßig Telemediendienste erbringt oder daran mitwirkt, hat die in seinem Verantwortungsbereich für die Auskunftserteilung erforderlichen Vorkehrungen auf seine Kosten zu treffen. Jedes Auskunftsverlangen ist durch eine verantwortliche Fachkraft auf Einhaltung der in Absatz 2 genannten formalen Voraussetzungen zu prüfen. Die weitere Bearbeitung des Auskunftsverlangens darf erst nach einem positiven Prüfergebnis freigegeben werden.
 
-
-## § 15d – Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten
+# § 15d – Informationspflicht bei unrechtmäßiger Kenntniserlangung von Daten
 
 Stellt der Diensteanbieter fest, dass bei ihm gespeicherte Bestands- oder Nutzungsdaten unrechtmäßig übermittelt worden oder auf sonstige Weise Dritten unrechtmäßig zur Kenntnis gelangt sind, und drohen schwerwiegende Beeinträchtigungen für die Rechte oder schutzwürdigen Interessen des betroffenen Nutzers, gilt § 42a des Bundesdatenschutzgesetzes entsprechend.
 
-
-## § 16 – Bußgeldvorschriften
+# § 16 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer absichtlich entgegen § 6 Abs. 2 Satz 1 den Absender oder den kommerziellen Charakter der Nachricht verschleiert oder verheimlicht.
 
@@ -832,8 +801,7 @@ Stellt der Diensteanbieter fest, dass bei ihm gespeicherte Bestands- oder Nutzun
 
 2. entgegen § 5 Abs. 1 eine Information nicht, nicht richtig oder nicht vollständig verfügbar hält,
 
-2a.  
-entgegen § 10a Absatz 1 oder § 10b Satz 1 ein dort genanntes Verfahren nicht, nicht richtig oder nicht vollständig vorhält,
+2a. entgegen § 10a Absatz 1 oder § 10b Satz 1 ein dort genanntes Verfahren nicht, nicht richtig oder nicht vollständig vorhält,
 
 3. entgegen § 13 Abs. 1 Satz 1 oder 2 den Nutzer nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
 

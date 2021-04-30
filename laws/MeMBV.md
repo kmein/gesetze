@@ -1,20 +1,15 @@
-# [MeMBV] Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch  (Medizinproduktemethodenbewertungsverordnung - MeMBV)
-
-Ausfertigungsdatum: 15.12.2015
-
+% Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch  (Medizinproduktemethodenbewertungsverordnung - MeMBV)
+% Ausfertigungsdatum: 15.12.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 137h Absatz 2 Satz 3 des Fünften Buches Sozialgesetzbuch – Gesetzliche Krankenversicherung –, der durch Artikel 1 Nummer 66 des Gesetzes vom 16. Juli 2015 (BGBl. I S. 1211) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h Absatz 2 Satz 1 und 2 des Fünften Buches Sozialgesetzbuch genannten Voraussetzungen des Verfahrens zur Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse.
 
-
-## § 2 – Medizinprodukte mit hoher Risikoklasse
+# § 2 – Medizinprodukte mit hoher Risikoklasse
 
 (1) Medizinprodukte mit hoher Risikoklasse nach § 137h Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch sind solche, die der Klasse IIb oder III nach Artikel 9 in Verbindung mit Anhang IX der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch die Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, oder den aktiven implantierbaren Medizinprodukten zuzuordnen sind und deren Anwendung einen besonders invasiven Charakter aufweist.
 
@@ -24,8 +19,7 @@ Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h Absatz 2 S
 
 (4) Die Anwendung eines Medizinprodukts, das der Klasse IIb zuzuordnen ist, weist nur dann einen besonders invasiven Charakter auf, wenn das Medizinprodukt mittels Aussendung von Energie oder Abgabe radioaktiver Stoffe gezielt auf wesentliche Funktionen von Organen oder Organsystemen, insbesondere des Herzens, des zentralen Kreislaufsystems oder des zentralen Nervensystems einwirkt.
 
-
-## § 3 – Neues theoretisch-wissenschaftliches Konzept
+# § 3 – Neues theoretisch-wissenschaftliches Konzept
 
 (1) Eine Methode weist ein neues theoretisch-wissenschaftliches Konzept im Sinne von § 137h Absatz 1 Satz 3 des Fünften Buches Sozialgesetzbuch auf, wenn sich ihr Wirkprinzip oder ihr Anwendungsgebiet von anderen, in der stationären Versorgung bereits eingeführten systematischen Herangehensweisen wesentlich unterscheidet.
 
@@ -47,7 +41,6 @@ Die Verordnung regelt nähere Kriterien zur Bestimmung der in § 137h Absatz 2 S
 
 (6) Eine schrittweise erfolgende Weiterentwicklung einer bereits eingeführten systematischen Herangehensweise, die nicht zu einer wesentlichen Veränderung des zugrundeliegenden theoretisch-wissenschaftlichen Konzepts führt, erfüllt nicht die Voraussetzungen des Verfahrens zur Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse. Insbesondere wenn mit einer schrittweise erfolgenden Weiterentwicklung der Zweck verfolgt wird, das diagnostische oder therapeutische Ziel in höherem Maße zu erreichen, führt dies für sich allein nicht bereits zu einer wesentlichen Veränderung des zugrundeliegenden Behandlungskonzepts, ohne dass eines der Kriterien nach den Absätzen 4 oder 5 erfüllt ist.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.

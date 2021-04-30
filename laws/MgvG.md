@@ -1,20 +1,15 @@
-# [MgvG] Gesetz zur Vorbereitung der Schaffung von Baurecht durch Maßnahmengesetz im Verkehrsbereich  (Maßnahmengesetzvorbereitungsgesetz - MgvG)
-
-Ausfertigungsdatum: 22.03.2020
-
+% Gesetz zur Vorbereitung der Schaffung von Baurecht durch Maßnahmengesetz im Verkehrsbereich  (Maßnahmengesetzvorbereitungsgesetz - MgvG)
+% Ausfertigungsdatum: 22.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## § 1 – Gegenstand des Gesetzes
+# § 1 – Gegenstand des Gesetzes
 
 Gegenstand dieses Gesetzes ist es, ein Verfahren zu schaffen, um anschließend den Neu- oder Ausbau sowie die Änderung von Verkehrsinfrastruktur durch Gesetz anstelle eines Verwaltungsakts zulassen zu können.
 
-
-## § 2 – Verkehrsinfrastrukturprojekte
+# § 2 – Verkehrsinfrastrukturprojekte
 
 Durch Maßnahmengesetz anstelle eines Verwaltungsakts kann der Deutsche Bundestag abweichend von § 18 Absatz 1 des Allgemeinen Eisenbahngesetzes und von § 14 Absatz 1 des Bundeswasserstraßengesetzes die folgenden Verkehrsinfrastrukturprojekte zulassen:
 
@@ -30,8 +25,7 @@ Durch Maßnahmengesetz anstelle eines Verwaltungsakts kann der Deutsche Bundesta
 
 6. den Ausbau und Neubau der Eisenbahnstrecke von Hannover nach Bielefeld,
 
-6a.  
-den Ausbau der Eisenbahnstrecke von Niebüll über Klanxbüll nach Westerland,
+6a. den Ausbau der Eisenbahnstrecke von Niebüll über Klanxbüll nach Westerland,
 
 7. den Ausbau der Eisenbahnstrecke von der deutsch-niederländischen Grenze über Kaldenkirchen, Viersen und Rheydt nach Odenkirchen,
 
@@ -47,8 +41,7 @@ den Ausbau der Eisenbahnstrecke von Niebüll über Klanxbüll nach Westerland,
 
 Die Zulassung schließt die für den Betrieb des jeweiligen Verkehrsweges notwendigen Anlagen ein.
 
-
-## § 2a – Verkehrswegeinfrastrukturprojekte zur Strukturstärkung
+# § 2a – Verkehrswegeinfrastrukturprojekte zur Strukturstärkung
 
 Durch Maßnahmengesetz anstelle eines Verwaltungsakts kann der Deutsche Bundestag abweichend von § 18 Absatz 1 des Allgemeinen Eisenbahngesetzes und von § 17 Absatz 1 des Bundesfernstraßengesetzes die folgenden Verkehrsinfrastrukturprojekte mit dem Ziel der Strukturförderung der ehemaligen Kohleregionen zulassen:
 
@@ -86,8 +79,7 @@ Durch Maßnahmengesetz anstelle eines Verwaltungsakts kann der Deutsche Bundesta
 
 Die Zulassung schließt die für den Betrieb des jeweiligen Verkehrsweges notwendigen Anlagen mit ein.
 
-
-## § 3 – Träger des Vorhabens; zuständige Behörde
+# § 3 – Träger des Vorhabens; zuständige Behörde
 
 (1) Träger des Vorhabens für die in § 2 Satz 1 und in § 2a Satz 1 Nummer 1 bis 12 genannten Verkehrsinfrastrukturprojekte ist die nach dem jeweiligen Fachgesetz zuständige Stelle für den Neu- oder Ausbau oder die Änderung des jeweiligen Verkehrsweges. Für die in § 2a Satz 1 Nummer 13 bis 16 genannten Verkehrsinfrastrukturprojekte ist Träger die Autobahn GmbH des Bundes.
 
@@ -99,8 +91,7 @@ Die Zulassung schließt die für den Betrieb des jeweiligen Verkehrsweges notwen
 
 3. für die in § 2a Satz 1 Nummer 13 bis 16 genannten Verkehrsinfrastrukturprojekte das Fernstraßen-Bundesamt.
 
-
-## § 4 – Vorbereitendes Verfahren
+# § 4 – Vorbereitendes Verfahren
 
 (1) Für die Zulassung eines Verkehrsinfrastrukturprojektes oder von Teilen eines Verkehrsinfrastrukturprojektes nach § 2 Satz 1 und § 2a Satz 1 durch Maßnahmengesetz wird vor Einleitung des jeweiligen Gesetzgebungsverfahrens ein vorbereitendes Verfahren durchgeführt. Der Träger des Vorhabens beantragt die Durchführung des vorbereitenden Verfahrens bei der zuständigen Behörde.
 
@@ -124,8 +115,7 @@ Die Zulassung schließt die für den Betrieb des jeweiligen Verkehrsweges notwen
 
 (4) Die frühe Öffentlichkeitsbeteiligung nach § 5 wird vom Träger des Vorhabens durchgeführt. Das vorbereitende Verfahren wird von der zuständigen Behörde durchgeführt.
 
-
-## § 5 – Frühe Öffentlichkeitsbeteiligung
+# § 5 – Frühe Öffentlichkeitsbeteiligung
 
 (1) Der Träger des Vorhabens hat die betroffene Öffentlichkeit frühzeitig zu unterrichten über
 
@@ -141,8 +131,7 @@ Er hat der betroffenen Öffentlichkeit Gelegenheit zur Äußerung und zur Erört
 
 (3) Das Ergebnis der frühen Öffentlichkeitsbeteiligung ist der betroffenen Öffentlichkeit und der zuständigen Behörde spätestens mit der Stellung des Antrags auf Durchführung eines vorbereitenden Verfahrens, im Übrigen unverzüglich mitzuteilen.
 
-
-## § 6 – Unterrichtung über den Untersuchungsrahmen
+# § 6 – Unterrichtung über den Untersuchungsrahmen
 
 (1) Für die Unterrichtung über den Untersuchungsrahmen gilt § 15 des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze.
 
@@ -154,8 +143,7 @@ Er hat der betroffenen Öffentlichkeit Gelegenheit zur Äußerung und zur Erört
 
 (5) Die zuständige Behörde muss über § 15 des Gesetzes über die Umweltverträglichkeitsprüfung hinaus auch der betroffenen Öffentlichkeit nach § 2 Absatz 9 des Gesetzes über die Umweltverträglichkeitsprüfung Gelegenheit zur Teilnahme an der in Absatz 3 genannten Besprechung und zur Äußerung in dieser Besprechung geben.
 
-
-## § 7 – Anhörungsverfahren
+# § 7 – Anhörungsverfahren
 
 (1) Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes mit der Maßgabe, dass
 
@@ -169,8 +157,7 @@ Er hat der betroffenen Öffentlichkeit Gelegenheit zur Äußerung und zur Erört
 
 (3) Wenn das Bundesministerium für Verkehr und digitale Infrastruktur entscheidet, dass ein Vorhaben nach § 2 Satz 1 oder § 2a Satz 1 durch Verwaltungsakt zugelassen werden soll, berichtet es dem Deutschen Bundestag hierüber unverzüglich.
 
-
-## § 8 – Abschlussbericht und Anlagen zum Abschlussbericht
+# § 8 – Abschlussbericht und Anlagen zum Abschlussbericht
 
 (1) Die zuständige Behörde erstellt nach Abschluss des Anhörungsverfahrens einen Abschlussbericht und leitet diesen dem Bundesministerium für Verkehr und digitale Infrastruktur mit den für den Erlass eines Maßnahmengesetzes erforderlichen Unterlagen (Anlagen zum Abschlussbericht) zu. Erforderlich sind in der Regel die Planunterlagen mit entscheidungserheblichen Unterlagen wie zum Beispiel der UVP-Bericht, der landschaftspflegerische Begleitplan und die etwaige Stellungnahme der Europäischen Kommission nach § 34 Absatz 4 Satz 2 des Bundesnaturschutzgesetzes. Wenn das Bundesministerium für Verkehr und digitale Infrastruktur gemäß § 7 Absatz 2 entscheidet, dass ein Vorhaben nach § 2 Satz 1 oder § 2a Satz 1 durch Verwaltungsakt zugelassen werden soll, ist kein Abschlussbericht zu erstellen.
 
@@ -192,8 +179,7 @@ Er hat der betroffenen Öffentlichkeit Gelegenheit zur Äußerung und zur Erört
 
 Der Abschlussbericht ist so zu erstellen, dass durch ihn die Entscheidung des Deutschen Bundestages nicht vorweggenommen wird. In ihm muss so weit wie möglich Raum für eigene Abwägungen des Gesetzgebers gelassen werden.
 
-
-## § 9 – Zusätzliche Zugänglichmachung und Bekanntgabe des Maßnahmengesetzes
+# § 9 – Zusätzliche Zugänglichmachung und Bekanntgabe des Maßnahmengesetzes
 
 (1) Nach Verkündung des Maßnahmengesetzes im Bundesgesetzblatt übersendet die zuständige Behörde unverzüglich dem Träger des Vorhabens, denjenigen Personen, über deren Einwendungen entschieden worden ist, und den Vereinigungen, über deren Stellungnahmen entschieden worden ist, einen Auszug aus dem Bundesgesetzblatt in Papierform.
 
@@ -203,15 +189,13 @@ Der Abschlussbericht ist so zu erstellen, dass durch ihn die Entscheidung des De
 
 (++++ § 9: Zur Geltung vgl. § 11 Abs. 4 +++)
 
-
-## § 10 – Vollzugskontrolle; Unterrichtung der Europäischen Kommission
+# § 10 – Vollzugskontrolle; Unterrichtung der Europäischen Kommission
 
 (1) Der zuständigen Behörde obliegt die Vollzugskontrolle. Sie überwacht, dass der Träger des Vorhabens die im Maßnahmengesetz festgelegten Maßnahmen gesetzeskonform umsetzt.
 
 (2) Ist bei einem Verkehrsinfrastrukturprojekt eine Unterrichtung der Europäischen Kommission gemäß § 34 Absatz 5 des Bundesnaturschutzgesetzes erforderlich, so erfolgt diese Unterrichtung durch die zuständige Behörde.
 
-
-## § 11 – Ermächtigung zum Erlass von Rechtsverordnungen für Änderungen des Maßnahmengesetzes
+# § 11 – Ermächtigung zum Erlass von Rechtsverordnungen für Änderungen des Maßnahmengesetzes
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, ein die Bundesschienenwege betreffendes Maßnahmengesetz zu ändern, wenn nach Inkrafttreten eines solchen Maßnahmengesetzes Tatsachen bekannt werden, die der Ausführung des Verkehrsinfrastrukturprojektes oder von Teilen des Verkehrsinfrastrukturprojektes nach den getroffenen Festsetzungen entgegenstehen. Die hiervon betroffenen öffentlichen und privaten Belange sind zu ermitteln und gegeneinander abzuwägen. Die Grundzüge des Maßnahmengesetzes dürfen nicht geändert werden.
 
@@ -223,13 +207,11 @@ Der Abschlussbericht ist so zu erstellen, dass durch ihn die Entscheidung des De
 
 (5) Die Rechtsverordnungen nach den Absätzen 1 und 2 sind dem Bundestag zuzuleiten. Sie können durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages zu der Rechtsverordnung wird der Bundesregierung zugeleitet. Rechtsverordnungen, die der Zustimmung des Bundesrates bedürfen, sind zudem dem Bundesrat zuzuleiten. Die Zuleitung erfolgt erst nach der Zuleitung an den Bundestag. Hat sich der Bundestag nach Ablauf von vier Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet.
 
-
-## § 12 – Normenkontrollverfahren
+# § 12 – Normenkontrollverfahren
 
 Über die Gültigkeit einer Rechtsverordnung nach § 11 Absatz 1 und 2 entscheidet auf Antrag das Bundesverwaltungsgericht. § 47 der Verwaltungsgerichtsordnung ist auf das Verfahren beim Bundesverwaltungsgericht entsprechend anzuwenden.
 
-
-## § 13 – Zusätzliche Regelungen der Behörde
+# § 13 – Zusätzliche Regelungen der Behörde
 
 Ohne Erlass einer Rechtsverordnung kann die zuständige Behörde nach § 3 Absatz 2 zusätzliche Regelungen treffen,
 
@@ -241,8 +223,7 @@ Ohne Erlass einer Rechtsverordnung kann die zuständige Behörde nach § 3 Absat
 
 Auf das Verfahren finden die für die Planfeststellung geltenden Vorschriften Anwendung.
 
-
-## § 14 – Überleitung von Verfahren
+# § 14 – Überleitung von Verfahren
 
 (1) Ist für ein in § 2 Satz 1 oder § 2a Satz 1 genanntes Verkehrsinfrastrukturprojekt oder für Teile dieses Verkehrsinfrastrukturprojektes bereits ein Planfeststellungsverfahren nach den §§ 72 bis 78 des Verwaltungsverfahrensgesetzes eingeleitet worden, so kann das Bundesministerium für Verkehr und digitale Infrastruktur prüfen, das Zulassungsverfahren nach diesem Gesetz fortzuführen.
 
@@ -250,12 +231,10 @@ Auf das Verfahren finden die für die Planfeststellung geltenden Vorschriften An
 
 (3) Hat das Bundesministerium für Verkehr und digitale Infrastruktur entschieden, dass bei einem in § 2 Satz 1 oder § 2a Satz 1 genannten Verkehrsinfrastrukturprojekt, für das bereits ein Planfeststellungsverfahren eingeleitet worden war, das Zulassungsverfahren nach diesem Gesetz fortgesetzt wird, so darf das Gesetzgebungsverfahren für das Maßnahmengesetz erst eingeleitet werden, wenn das vorbereitende Verfahren durchgeführt worden ist.
 
-
-## § 15 – Gebühren
+# § 15 – Gebühren
 
 Das Eisenbahn-Bundesamt erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen für die Durchführung von vorbereitenden Verfahren. Die Gebührenart kann abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

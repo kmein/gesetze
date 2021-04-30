@@ -1,15 +1,11 @@
-# [BPolZV] Verordnung über die Zuständigkeit der Bundespolizeibehörden  (BPolZV)
-
-Ausfertigungsdatum: 22.02.2008
-
+% Verordnung über die Zuständigkeit der Bundespolizeibehörden  (BPolZV)
+% Ausfertigungsdatum: 22.02.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 58 Abs. 1 des Bundespolizeigesetzes vom 19. Oktober 1994 (BGBl. I S. 2978), der zuletzt durch Artikel 1 Nr. 11 Buchstabe a des Gesetzes vom 21. Juni 2005 (BGBl. I S. 1818) geändert worden ist, verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Sachliche Zuständigkeiten
+# § 1 – Sachliche Zuständigkeiten
 
 (1) Das Bundespolizeipräsidium als Oberbehörde und die Bundespolizeidirektionen sowie die Bundespolizeiakademie als Unterbehörden sind sachlich zuständig für die Wahrnehmung der der Bundespolizei obliegenden Aufgaben nach § 1 Abs. 2 des Bundespolizeigesetzes.
 
@@ -33,8 +29,7 @@ f) § 6 Abs. 1 Nr. 2 und § 32 Abs. 1 Nr. 1 des Ausländerzentralregistergesetze
 
 g) § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
 
-1a.  
-das Bundespolizeipräsidium für die Ahndung von Ordnungswidrigkeiten nach
+1a. das Bundespolizeipräsidium für die Ahndung von Ordnungswidrigkeiten nach
 
 a) § 13 Abs. 2 des Bundespolizeigesetzes,
 
@@ -96,8 +91,7 @@ b) das Bundespolizeipräsidium, soweit es Aufgaben nach § 1 Absatz 2 Satz 2 im 
 
 (7) Die in der Unterschrift zu Abbildung 9 der Anlage II zu § 9 der Beschussverordnung genannte Bundespolizeibehörde ist die in Sankt Augustin gelegene Beschussstelle des Bundespolizeipräsidiums.
 
-
-## § 2 – Örtliche Zuständigkeiten
+# § 2 – Örtliche Zuständigkeiten
 
 (1) Örtlich sind die Bundespolizeidirektionen wie folgt zuständig:
 
@@ -137,7 +131,6 @@ b) auf See innerhalb und außerhalb des deutschen Küstenmeers und darüber hina
 
 4. für die polizeiliche Sicherung eigener Einrichtungen nach § 1 Abs. 3 des Bundespolizeigesetzes.
 
-
-## § 3 – Inkrafttreten, Außerkrafttreten
+# § 3 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. März 2008 in Kraft.

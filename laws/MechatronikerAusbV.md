@@ -1,23 +1,17 @@
-# [MechatronikerAusbV] Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin   (Mechatroniker-Ausbildungsverordnung - MechatronikerAusbV)
-
-Ausfertigungsdatum: 21.07.2011
-
+% Verordnung über die Berufsausbildung zum Mechatroniker und zur Mechatronikerin   (Mechatroniker-Ausbildungsverordnung - MechatronikerAusbV)
+% Ausfertigungsdatum: 21.07.2011
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Mechatronikers und der Mechatronikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -65,20 +59,17 @@ Die Ausbildung dauert dreieinhalb Jahre.
 
 21. Instandhalten mechatronischer Systeme.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist in den Prüfungen nach den §§ 5 bis 7 nachzuweisen.
 
 (2) Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 5 – Abschlussprüfung
+# § 5 – Abschlussprüfung
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsfähigkeit nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 6 – Teil 1 der Abschlussprüfung
+# § 6 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -102,8 +93,7 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 (6) Die Prüfungszeit beträgt acht Stunden, wobei die situativen Fachgespräche insgesamt höchstens zehn Minuten umfassen sollen. Die schriftlichen Aufgabenstellungen sollen einen zeitlichen Umfang von 90 Minuten haben.
 
-
-## § 7 – Teil 2 der Abschlussprüfung
+# § 7 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -191,8 +181,7 @@ g) Fehlerursachen zu lokalisieren, Schutzeinrichtungen zu testen und elektrische
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelung
+# § 8 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -214,8 +203,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der schlechter als „ausreichend“ bewerteten Prüfungsbereiche „Arbeitsplanung“, „Funktionsanalyse“ und „Wirtschafts- und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Zusatzqualifikationen
+# § 9 – Zusatzqualifikationen
 
 Über das in § 3 Absatz 2 beschriebene Ausbildungsberufsbild hinaus kann die Ausbildung in einer oder mehreren der folgenden Zusatzqualifikationen vereinbart werden:
 
@@ -227,8 +215,7 @@ bewertet worden sind.
 
 4. Additive Fertigungsverfahren.
 
-
-## § 10 – Gegenstand der Zusatzqualifikationen
+# § 10 – Gegenstand der Zusatzqualifikationen
 
 (1) Gegenstand der Zusatzqualifikation Digitale Vernetzung sind die in Anlage 2 Abschnitt A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -238,15 +225,13 @@ bewertet worden sind.
 
 (4) Gegenstand der Zusatzqualifikation Additive Fertigungsverfahren sind die in Anlage 2 Abschnitt D genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 11 – Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+# § 11 – Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
 (2) Die Prüfung der Zusatzqualifikation findet im Rahmen von Teil 2 der Abschlussprüfung als gesonderte Prüfung statt.
 
-
-## § 12 – Anforderungen für die Prüfung der Zusatzqualifikation Digitale Vernetzung
+# § 12 – Anforderungen für die Prüfung der Zusatzqualifikation Digitale Vernetzung
 
 (1) Die Prüfung der Zusatzqualifikation Digitale Vernetzung erstreckt sich auf die in Anlage 2 Abschnitt A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -258,8 +243,7 @@ bewertet worden sind.
 
 3. Fehler, Störungen oder Engpässe zu analysieren, den Datendurchsatz und Fehlerraten zu bewerten, Fehler zu beheben, die Systeme zu testen sowie Optimierungen vorzuschlagen.
 
-
-## § 13 – Anforderungen für die Prüfung der Zusatzqualifikation Programmierung
+# § 13 – Anforderungen für die Prüfung der Zusatzqualifikation Programmierung
 
 (1) Die Prüfung der Zusatzqualifikation Programmierung erstreckt sich auf die in Anlage 2 Abschnitt B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -271,8 +255,7 @@ bewertet worden sind.
 
 3. Testpläne und Testdaten zu erstellen, Umgebungsbedingungen zu simulieren, die Systeme zu testen und Fehler zu beheben.
 
-
-## § 14 – Anforderungen für die Prüfung der Zusatzqualifikation IT-Sicherheit
+# § 14 – Anforderungen für die Prüfung der Zusatzqualifikation IT-Sicherheit
 
 (1) Die Prüfung der Zusatzqualifikation IT-Sicherheit erstreckt sich auf die in Anlage 2 Abschnitt C genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -284,8 +267,7 @@ bewertet worden sind.
 
 3. die umgesetzten IT-Sicherheitsmaßnahmen zu überwachen.
 
-
-## § 15 – Anforderungen für die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+# § 15 – Anforderungen für die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
 
 (1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren erstreckt sich auf die in Anlage 2 Abschnitt D genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -297,8 +279,7 @@ bewertet worden sind.
 
 3. die Qualität der Produkte zu prüfen und zu sichern.
 
-
-## § 16 – Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+# § 16 – Durchführung und Bestehen der Prüfung der Zusatzqualifikation
 
 (1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
 
@@ -316,33 +297,28 @@ bewertet worden sind.
 
 (8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
-
-## § 17 – Bestandsschutz
+# § 17 – Bestandsschutz
 
 Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, ist die Mechatroniker-Ausbildungsverordnung vom 21. Juli 2011 (BGBl. I S. 1516, 1888) weiter anzuwenden.
 
-
-## § 18 – Änderung bestehender Berufsausbildungsverhältnisse
+# § 18 – Änderung bestehender Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, können nach den Vorschriften dieser Verordnung in der ab dem 1. August 2018 geltenden Fassung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht Teil 1 der Abschlussprüfung absolviert hat.
 
-
-## § 19 – Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+# § 19 – Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
 
 Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem 1. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, angewendet werden.
 
 § 19 Kursivdruck: Muss richtig "§§ 9 bis 16" lauten
 
-
-## Anlage 1 – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
+# Anlage 1 – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
 
 (Fundstelle: BGBl. I 2018, 1063 – 1070)
 
   
   
 
-
-## Anlage 2 – (zu § 10)Ausbildungsrahmenplan für die Zusatzqualifikationen
+# Anlage 2 – (zu § 10)Ausbildungsrahmenplan für die Zusatzqualifikationen
 
 (Fundstelle: BGBl. I 2018, 1071 – 1073)
 

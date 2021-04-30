@@ -1,10 +1,7 @@
-# [VerwFöG] Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten  (Verwendungsförderungsgesetz)
-
-Ausfertigungsdatum: 21.12.1992
-
+% Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten  (Verwendungsförderungsgesetz)
+% Ausfertigungsdatum: 21.12.1992
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die folgenden Bestimmungen gelten für
 
@@ -18,8 +15,7 @@ aufnehmen,
 
 2. Bundesbeamte, die von § 1 des Gesetzes zur Anpassung der Zahl von Beamten im Geschäftsbereich des Bundesministers der Verteidigung an die Verringerung der Streitkräfte (Bundeswehrbeamtenanpassungsgesetz - BwBAnpG) vom 20. Dezember 1991 (BGBl. I S. 2378) betroffen sind und vor dem 1. Januar 1998 in einen anderen Geschäftsbereich oder in den Bereich eines anderen Dienstherrn versetzt werden.
 
-
-## § 2 – Laufbahnrechtliche Regelungen
+# § 2 – Laufbahnrechtliche Regelungen
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten können abweichend von § 7 Abs. 1 Nr. 3 Buchstabe b, § 11 Abs. 1 Nr. 2 und § 19 des Bundesbeamtengesetzes nach Maßgabe der folgenden Bestimmungen in ein Beamtenverhältnis berufen werden:
 
@@ -72,8 +68,7 @@ beträgt, ergänzt werden. Nummer 3 gilt entsprechend. Die Feststellung, ob die 
 
 (2) (weggefallen)
 
-
-## § 2 – Laufbahnrechtliche Regelungen
+# § 2 – Laufbahnrechtliche Regelungen
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten können abweichend von § 7 Abs. 1 Nr. 3 Buchstabe b, § 9 Abs. 1 Nr. 3 Buchstabe b und § 21 des Bundesbeamtengesetzes nach Maßgabe der folgenden Bestimmungen in ein Beamtenverhältnis berufen werden:
 
@@ -125,8 +120,7 @@ beträgt, ergänzt werden. Nummer 3 gilt entsprechend. Die Feststellung, ob die 
 
 (2) (weggefallen)
 
-
-## § 3 – Besoldungsrechtliche Regelungen
+# § 3 – Besoldungsrechtliche Regelungen
 
 (1) Die in § 1 Nr. 1 Buchstabe a bezeichneten Berufssoldaten erhalten eine Einmalzahlung in Höhe des Dreifachen der monatlichen Dienstbezüge, die zuletzt im Soldatenverhältnis zugestanden haben, höchstens aber in Höhe von 15.000 DM. Die Einmalzahlung ist zurückzuzahlen, wenn der Beamte vor Ablauf von zwei Jahren nach der Ernennung aus dem Beamtenverhältnis ausscheidet; dies gilt nicht, wenn das Beamtenverhältnis durch Tod oder durch Eintritt in den Ruhestand wegen Dienstunfähigkeit endet.
 
@@ -134,8 +128,7 @@ beträgt, ergänzt werden. Nummer 3 gilt entsprechend. Die Feststellung, ob die 
 
 (3) Die in § 1 Nr. 2 bezeichneten Bundesbeamten erhalten eine Einmalzahlung in Höhe des Dreifachen der monatlichen Dienstbezüge, die zuletzt zugestanden haben, höchstens aber in Höhe von 15.000 DM, wenn die anderweitige Verwendung außerhalb des Einzugsgebiets (§ 3 Abs. 1 Nr. 1 Buchstabe c des Bundesumzugskostengesetzes) des bisherigen dienstlichen Wohnsitzes erfolgt. Absatz 1 Satz 2 gilt entsprechend; maßgebend für die Frist ist das Wirksamwerden der Versetzung.
 
-
-## § 4 – Versorgungsrechtliche Regelungen
+# § 4 – Versorgungsrechtliche Regelungen
 
 (1) Für die Versorgung eines zum Beamten ernannten ehemaligen Berufssoldaten im Sinne des § 1 Nr. 1 Buchstabe a gilt:
 

@@ -1,15 +1,11 @@
-# [SozSichAbkSVNG] Gesetz zu dem Abkommen vom 24. September 1997 zwischen der Bundesrepublik Deutschland und der Republik Slowenien über Soziale Sicherheit
-
-Ausfertigungsdatum: 25.08.1998
-
+% Gesetz zu dem Abkommen vom 24. September 1997 zwischen der Bundesrepublik Deutschland und der Republik Slowenien über Soziale Sicherheit
+% Ausfertigungsdatum: 25.08.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Den folgenden, in Laibach am 24. September 1997 unterzeichneten zwischenstaatlichen Übereinkünften wird zugestimmt:
 
@@ -19,13 +15,11 @@ Den folgenden, in Laibach am 24. September 1997 unterzeichneten zwischenstaatlic
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (weggefallen)
 
-
-## Art 3
+# Art 3
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Die Vereinbarungen können auch Änderungen der in Artikel 1 Nr. 2 genannten Durchführungsvereinbarung vorsehen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -39,8 +33,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 5. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
 
-
-## Art 4
+# Art 4
 
 Die Aufgaben der zuständigen Behörde nach
 
@@ -58,8 +51,7 @@ den Artikeln 7 und 11 des Abkommens vom 16. April 1984 zwischen der Bundesrepubl
 
 werden vom Inkrafttreten dieses Gesetzes an auf die Deutsche Verbindungsstelle Krankenversicherung-Ausland, Bonn, übertragen.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetzes tritt am Tage nach seiner Verkündung in Kraft.
 

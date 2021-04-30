@@ -1,13 +1,9 @@
-# [SektVO] Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung  (Sektorenverordnung - SektVO)
-
-Ausfertigungsdatum: 12.04.2016
-
+% Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung  (Sektorenverordnung - SektVO)
+% Ausfertigungsdatum: 12.04.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren bei der dem Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen unterliegenden Vergabe von Aufträgen und die Ausrichtung von Wettbewerben zum Zwecke von Tätigkeiten auf dem Gebiet der Trinkwasser- oder Energieversorgung oder des Verkehrs (Sektorentätigkeiten) durch Sektorenauftraggeber.
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (3) Für die Beschaffung im Wege von Konzessionen im Sinne des § 105 des Gesetzes gegen Wettbewerbsbeschränkungen gilt die Verordnung über die Vergabe von Konzessionen.
 
-
-## § 2 – Schätzung des Auftragswerts
+# § 2 – Schätzung des Auftragswerts
 
 (1) Bei der Schätzung des Auftragswerts ist vom voraussichtlichen Gesamtwert der vorgesehenen Leistung ohne Umsatzsteuer auszugehen. Zudem sind etwaige Optionen oder Vertragsverlängerungen zu berücksichtigen. Sieht der Auftraggeber Prämien oder Zahlungen an den Bewerber oder Bieter vor, sind auch diese zu berücksichtigen.
 
@@ -50,8 +45,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (12) Bei einem Planungswettbewerb nach § 60, der zu einem Dienstleistungsauftrag führen soll, ist der Wert des Dienstleistungsauftrags zu schätzen zuzüglich etwaiger Preisgelder und Zahlungen an Teilnehmer. Bei allen übrigen Planungswettbewerben entspricht der Auftragswert der Summe der Preisgelder und Zahlungen an die Teilnehmer einschließlich des Wertes des Dienstleistungsauftrags, der vergeben werden könnte, soweit der Auftraggeber diese Vergabe in der Wettbewerbsbekanntmachung des Planungswettbewerbs nicht ausschließt.
 
-
-## § 3 – Antragsverfahren für Tätigkeiten, die unmittelbar dem Wettbewerb ausgesetzt sind
+# § 3 – Antragsverfahren für Tätigkeiten, die unmittelbar dem Wettbewerb ausgesetzt sind
 
 (1) Auftraggeber können bei der Europäischen Kommission beantragen festzustellen, dass die Vorschriften des Teils 4 des Gesetzes gegen Wettbewerbsbeschränkungen sowie der Sektorenverordnung auf die Auftragsvergabe oder Ausrichtung von Wettbewerben für die Ausübung dieser Tätigkeit keine Anwendung finden. Dem Antrag ist eine Stellungnahme des Bundeskartellamtes beizufügen. Dem Antrag sind alle sachdienlichen Informationen beizufügen, insbesondere Gesetze, Verordnungen, Verwaltungsvorschriften oder Vereinbarungen, die darlegen, dass die betreffende Tätigkeit unmittelbar dem Wettbewerb auf Märkten ausgesetzt ist, die keiner Zugangsbeschränkung unterliegen. Eine Kopie des Antrags ist dem Bundesministerium für Wirtschaft und Energie zu übermitteln.
 
@@ -67,15 +61,13 @@ Ausfertigungsdatum: 12.04.2016
 
 (7) Die Absätze 1 bis 6 gelten für Auftraggeber im Sinne des § 143 des Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
 
-
-## § 4 – Gelegentliche gemeinsame Auftragsvergabe
+# § 4 – Gelegentliche gemeinsame Auftragsvergabe
 
 (1) Mehrere Auftraggeber können vereinbaren, bestimmte Aufträge gemeinsam zu vergeben. Dies gilt auch für die Auftragsvergabe gemeinsam mit Auftraggebern aus anderen Mitgliedstaaten der Europäischen Union. Die Möglichkeiten zur Nutzung von zentralen Beschaffungsstellen bleiben unberührt.
 
 (2) Soweit das Vergabeverfahren im Namen und im Auftrag aller Auftraggeber insgesamt gemeinsam durchgeführt wird, sind diese für die Einhaltung der Bestimmungen über das Vergabeverfahren gemeinsam verantwortlich. Das gilt auch, wenn ein Auftraggeber das Verfahren in seinem Namen und im Auftrag der anderen Auftraggeber allein ausführt. Bei nur teilweise gemeinsamer Durchführung sind die Auftraggeber nur für jene Teile gemeinsam verantwortlich, die gemeinsam durchgeführt wurden. Wird ein Auftrag durch Auftraggeber aus verschiedenen Mitgliedstaaten der Europäischen Union gemeinsam vergeben, legen diese die Zuständigkeiten und die anwendbaren Bestimmungen des nationalen Rechts durch Vereinbarung fest und geben das in den Vergabeunterlagen an.
 
-
-## § 5 – Wahrung der Vertraulichkeit
+# § 5 – Wahrung der Vertraulichkeit
 
 (1) Sofern in dieser Verordnung oder anderen Rechtsvorschriften nichts anderes bestimmt ist, darf der Auftraggeber keine von den Unternehmen übermittelten und von diesen als vertraulich gekennzeichneten Informationen weitergeben. Dazu gehören insbesondere Betriebs- und Geschäftsgeheimnisse und die vertraulichen Aspekte der Angebote einschließlich ihrer Anlagen.
 
@@ -85,8 +77,7 @@ Ausfertigungsdatum: 12.04.2016
 
 (+++ § 5: Zur Anwendung vgl. § 60 Abs. 2 +++)
 
-
-## § 6 – Vermeidung von Interessenkonflikten
+# § 6 – Vermeidung von Interessenkonflikten
 
 (1) Organmitglieder oder Mitarbeiter des öffentlichen Auftraggebers oder eines im Namen des öffentlichen Auftraggebers handelnden Beschaffungsdienstleisters, bei denen ein Interessenkonflikt besteht, dürfen in einem Vergabeverfahren nicht mitwirken.
 
@@ -108,8 +99,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 6: Zur Anwendung vgl. § 60 Abs. 2 +++)
 
-
-## § 7 – Mitwirkung an der Vorbereitung des Vergabeverfahrens
+# § 7 – Mitwirkung an der Vorbereitung des Vergabeverfahrens
 
 (1) Hat ein Unternehmen oder ein mit ihm in Verbindung stehendes Unternehmen den Auftraggeber beraten oder war auf andere Art und Weise an der Vorbereitung des Vergabeverfahrens beteiligt (vorbefasstes Unternehmen), so ergreift der Auftraggeber angemessene Maßnahmen, um sicherzustellen, dass der Wettbewerb durch die Teilnahme dieses Unternehmens nicht verzerrt wird.
 
@@ -117,8 +107,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (3) Vor einem Ausschluss nach § 124 Absatz 1 Nummer 6 des Gesetzes gegen Wettbewerbsbeschränkungen ist dem vorbefassten Unternehmen die Möglichkeit zu geben, nachzuweisen, dass seine Beteiligung an der Vorbereitung des Vergabeverfahrens den Wettbewerb nicht verzerren kann.
 
-
-## § 8 – Dokumentation
+# § 8 – Dokumentation
 
 (1) Der Auftraggeber ist verpflichtet, den Fortgang des Vergabeverfahrens jeweils zeitnah zu dokumentieren. Hierzu stellt er sicher, dass er über eine ausreichende Dokumentation verfügt, um Entscheidungen in allen Phasen des Vergabeverfahrens, insbesondere zu den Verhandlungs- oder Dialogphasen, der Auswahl der Teilnehmer sowie der Zuschlagsentscheidung, nachvollziehbar zu begründen.
 
@@ -140,8 +129,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (4) Die Dokumentation oder deren Hauptelemente ist der Europäischen Kommission sowie den zuständigen Aufsichts- oder Prüfbehörden auf deren Anforderung hin zu übermitteln.
 
-
-## § 9 – Grundsätze der Kommunikation
+# § 9 – Grundsätze der Kommunikation
 
 (1) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in einem Vergabeverfahren verwenden Auftraggeber und Unternehmen grundsätzlich Geräte und Programme für die elektronische Datenübermittlung (elektronische Mittel).
 
@@ -151,8 +139,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (4) Der Auftraggeber kann von jedem Unternehmen die Angabe einer eindeutigen Unternehmensbezeichnung sowie einer elektronischen Adresse verlangen (Registrierung). Für den Zugang zur Auftragsbekanntmachung und zu den Vergabeunterlagen darf der Auftraggeber keine Registrierung verlangen; eine freiwillige Registrierung ist zulässig.
 
-
-## § 10 – Anforderungen an die verwendeten elektronischen Mittel
+# § 10 – Anforderungen an die verwendeten elektronischen Mittel
 
 (1) Der Auftraggeber legt das erforderliche Sicherheitsniveau für die elektronischen Mittel fest. Elektronische Mittel, die vom Auftraggeber für den Empfang von Angeboten, Teilnahmeanträgen und Interessensbestätigungen sowie von Plänen und Entwürfen für Planungswettbewerbe verwendet werden, müssen gewährleisten, dass
 
@@ -172,8 +159,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (2) Die elektronischen Mittel, die vom Auftraggeber für den Empfang von Angeboten, Teilnahmeanträgen und Interessensbestätigungen sowie von Plänen und Entwürfen für Planungswettbewerbe genutzt werden, müssen über eine einheitliche Datenaustauschschnittstelle verfügen. Es sind die jeweils geltenden Interoperabilitäts- und Sicherheitsstandards der Informationstechnik gemäß § 3 Absatz 1 des Vertrags über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern vom 1. April 2010 zu verwenden.
 
-
-## § 11 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
+# § 11 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht einschränken. Der Auftraggeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.
 
@@ -189,8 +175,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 11: Zur Anwendung vgl. § 20 Abs. 3 +++)
 
-
-## § 12 – Einsatz alternativer elektronischer Mittel bei der Kommunikation
+# § 12 – Einsatz alternativer elektronischer Mittel bei der Kommunikation
 
 (1) Der Auftraggeber kann im Vergabeverfahren die Verwendung elektronischer Mittel, die nicht allgemein verfügbar sind (alternative elektronische Mittel), verlangen, wenn er
 
@@ -202,8 +187,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 12: Zur Anwendung vgl. § 20 Abs. 3 +++)
 
-
-## § 13 – Wahl der Verfahrensart
+# § 13 – Wahl der Verfahrensart
 
 (1) Dem Auftraggeber stehen zur Vergabe von Aufträgen das offene Verfahren, das nicht offene Verfahren und das Verhandlungsverfahren mit Teilnahmewettbewerb sowie der wettbewerbliche Dialog nach seiner Wahl zur Verfügung. Die Innovationspartnerschaft steht nach Maßgabe dieser Verordnung zur Verfügung.
 
@@ -237,8 +221,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, einschließlich der Rechte 
 
 (3) Die in Absatz 2 Nummer 3 Buchstabe b und c genannten Voraussetzungen für die Anwendung des Verhandlungsverfahrens ohne Teilnahmewettbewerb gelten nur dann, wenn es keine vernünftige Alternative oder Ersatzlösung gibt und der mangelnde Wettbewerb nicht das Ergebnis einer künstlichen Einschränkung der Auftragsvergabeparameter ist.
 
-
-## § 14 – Offenes Verfahren; Fristen
+# § 14 – Offenes Verfahren; Fristen
 
 (1) In einem offenen Verfahren kann jedes interessierte Unternehmen ein Angebot abgeben.
 
@@ -248,8 +231,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, einschließlich der Rechte 
 
 (4) Der Auftraggeber kann die Frist gemäß Absatz 2 um fünf Tage verkürzen, wenn er die elektronische Übermittlung der Angebote akzeptiert.
 
-
-## § 15 – Nicht offenes Verfahren und Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb; Fristen
+# § 15 – Nicht offenes Verfahren und Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb; Fristen
 
 (1) In einem nicht offenen Verfahren sowie einem Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb kann jedes interessierte Unternehmen einen Teilnahmeantrag abgeben.
 
@@ -261,8 +243,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, einschließlich der Rechte 
 
 (+++ § 15 Abs. 3: Zur Anwendung vgl. § 22 Abs. 4 +++)
 
-
-## § 16 – Fristsetzung; Pflicht zur Fristverlängerung
+# § 16 – Fristsetzung; Pflicht zur Fristverlängerung
 
 (1) Bei der Festlegung der Fristen für den Eingang der Angebote und der Teilnahmeanträge berücksichtigt der Auftraggeber die Komplexität der Leistung und die Zeit, die für die Ausarbeitung der Angebote erforderlich ist.
 
@@ -276,8 +257,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, einschließlich der Rechte 
 
 Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der Information oder Änderung stehen und gewährleisten, dass alle Unternehmen Kenntnis von den Informationen oder Änderungen nehmen können. Dies gilt nicht, wenn die Information oder Änderung nicht rechtzeitig angefordert wurde oder ihre Bedeutung für die Erstellung des Angebots unerheblich ist.
 
-
-## § 17 – Wettbewerblicher Dialog
+# § 17 – Wettbewerblicher Dialog
 
 (1) In der Auftragsbekanntmachung oder den Vergabeunterlagen zur Durchführung eines wettbewerblichen Dialogs beschreibt der Auftraggeber seine Bedürfnisse und Anforderungen an die zu beschaffende Leistung. Gleichzeitig nennt und erläutert er die hierbei zugrunde gelegten Zuschlagskriterien und legt einen vorläufigen Zeitrahmen für den Dialog fest.
 
@@ -299,8 +279,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (10) Der Auftraggeber kann Prämien oder Zahlungen an die Teilnehmer am Dialog vorsehen.
 
-
-## § 18 – Innovationspartnerschaft
+# § 18 – Innovationspartnerschaft
 
 (1) Der Auftraggeber kann für die Vergabe eines Auftrags eine Innovationspartnerschaft mit dem Ziel der Entwicklung einer innovativen Leistung und deren anschließenden Erwerb eingehen. Der Beschaffungsbedarf, der der Innovationspartnerschaft zugrunde liegt, darf nicht durch auf dem Markt bereits verfügbare Leistungen befriedigt werden können. Der Auftraggeber beschreibt in der Auftragsbekanntmachung, der Bekanntmachung über das Bestehen eines Qualifizierungssystems oder den Vergabeunterlagen die Nachfrage nach der innovativen Leistung. Dabei ist anzugeben, welche Elemente dieser Beschreibung Mindestanforderungen darstellen. Es sind Eignungskriterien vorzugeben, die die Fähigkeiten der Unternehmen auf dem Gebiet der Forschung und Entwicklung sowie die Ausarbeitung und Umsetzung innovativer Lösungen betreffen. Die bereitgestellten Informationen müssen so genau sein, dass die Unternehmen Art und Umfang der geforderten Lösung erkennen und entscheiden können, ob sie eine Teilnahme an dem Verfahren beantragen.
 
@@ -328,8 +307,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (10) Nach Abschluss der Forschungs- und Entwicklungsphase ist der Auftraggeber zum anschließenden Erwerb der innovativen Liefer- oder Dienstleistung nur dann verpflichtet, wenn das bei Eingehung der Innovationspartnerschaft festgelegte Leistungsniveau und die Kostenobergrenze eingehalten werden.
 
-
-## § 19 – Rahmenvereinbarungen
+# § 19 – Rahmenvereinbarungen
 
 (1) Der Abschluss einer Rahmenvereinbarung erfolgt im Wege einer nach dieser Verordnung geltenden Verfahrensart. Das in Aussicht genommene Auftragsvolumen ist so genau wie möglich zu ermitteln und bekanntzugeben, braucht aber nicht abschließend festgelegt zu werden. Eine Rahmenvereinbarung darf nicht missbräuchlich oder in einer Art angewendet werden, die den Wettbewerb behindert, einschränkt oder verfälscht.
 
@@ -337,8 +315,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (3) Mit Ausnahme angemessen begründeter Sonderfälle, in denen dies insbesondere aufgrund des Gegenstands der Rahmenvereinbarung gerechtfertigt werden kann, beträgt die Laufzeit einer Rahmenvereinbarung maximal acht Jahre.
 
-
-## § 20 – Grundsätze für den Betrieb dynamischer Beschaffungssysteme
+# § 20 – Grundsätze für den Betrieb dynamischer Beschaffungssysteme
 
 (1) Der Auftraggeber kann für die Beschaffung marktüblicher Leistungen ein dynamisches Beschaffungssystem nutzen.
 
@@ -350,8 +327,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (5) Der Zugang zu einem dynamischen Beschaffungssystem ist für alle Unternehmen kostenlos.
 
-
-## § 21 – Betrieb eines dynamischen Beschaffungssystems
+# § 21 – Betrieb eines dynamischen Beschaffungssystems
 
 (1) Der Auftraggeber gibt in der Auftragsbekanntmachung an, dass er ein dynamisches Beschaffungssystem nutzt und für welchen Zeitraum es betrieben wird.
 
@@ -369,8 +345,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (6) Die zugelassenen Bewerber sind für jede einzelne, über ein dynamisches Beschaffungssystem stattfindende Auftragsvergabe gesondert zur Angebotsabgabe aufzufordern. Wurde ein dynamisches Beschaffungssystem in Kategorien von Leistungen untergliedert, werden jeweils alle für die einem konkreten Auftrag entsprechende Kategorie zugelassenen Bewerber aufgefordert, ein Angebot zu unterbreiten.
 
-
-## § 22 – Fristen beim Betrieb eines dynamischen Beschaffungssystems
+# § 22 – Fristen beim Betrieb eines dynamischen Beschaffungssystems
 
 (1) Abweichend von § 15 gelten bei der Nutzung eines dynamischen Beschaffungssystems die Bestimmungen der Absätze 2 bis 5.
 
@@ -380,8 +355,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (4) Die Frist für den Eingang der Angebote beträgt mindestens zehn Tage, gerechnet ab dem Tag nach der Absendung der Aufforderung zur Angebotsabgabe. § 15 Absatz 3 findet Anwendung.
 
-
-## § 23 – Grundsätze für die Durchführung elektronischer Auktionen
+# § 23 – Grundsätze für die Durchführung elektronischer Auktionen
 
 (1) Der Auftraggeber kann im Rahmen eines offenen, eines nicht offenen oder eines Verhandlungsverfahrens vor der Zuschlagserteilung eine elektronische Auktion durchführen, sofern der Inhalt der Vergabeunterlagen hinreichend präzise beschrieben und die Leistung mithilfe automatischer Bewertungsmethoden eingestuft werden kann. Geistig-schöpferische Leistungen können nicht Gegenstand elektronischer Auktionen sein. Der elektronischen Auktion hat eine vollständige erste Bewertung aller Angebote anhand der Zuschlagskriterien und der jeweils dafür festgelegten Gewichtung vorauszugehen. Die Sätze 1 und 2 gelten entsprechend bei einem erneuten Vergabeverfahren zwischen den Parteien einer Rahmenvereinbarung nach § 19 und bei einem erneuten Vergabeverfahren während der Laufzeit eines dynamischen Beschaffungssystems nach § 20. Eine elektronische Auktion kann mehrere, aufeinanderfolgende Phasen umfassen.
 
@@ -395,8 +369,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (4) Angebotskomponenten nach Absatz 2 Satz 2 Nummer 2 müssen numerisch oder prozentual beschrieben werden.
 
-
-## § 24 – Durchführung elektronischer Auktionen
+# § 24 – Durchführung elektronischer Auktionen
 
 (1) Der Auftraggeber kündigt in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbestätigung an, dass er eine elektronische Auktion durchführt.
 
@@ -432,8 +405,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (8) Der Zuschlag wird nach Abschluss einer elektronischen Auktion entsprechend ihrem Ergebnis mitgeteilt.
 
-
-## § 25 – Elektronische Kataloge
+# § 25 – Elektronische Kataloge
 
 (1) Der Auftraggeber kann festlegen, dass Angebote in Form eines elektronischen Kataloges einzureichen sind oder einen elektronischen Katalog beinhalten müssen. Angeboten, die in Form eines elektronischen Kataloges eingereicht werden, können weitere Unterlagen beigefügt werden.
 
@@ -447,15 +419,13 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (4) Vor der Erteilung des Zuschlags sind dem jeweiligen Bieter die gesammelten Daten vorzulegen, sodass dieser die Möglichkeit zum Einspruch oder zur Bestätigung, dass das Angebot keine materiellen Fehler enthält, hat.
 
-
-## § 26 – Markterkundung
+# § 26 – Markterkundung
 
 (1) Vor der Einleitung eines Vergabeverfahrens darf der Auftraggeber eine Markterkundung zur Vorbereitung der Auftragsvergabe und zur Unterrichtung der Marktteilnehmer über seine Auftragsvergabepläne und -anforderungen durchführen.
 
 (2) Die Durchführung von Vergabeverfahren lediglich zur Markterkundung und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
 
-
-## § 27 – Aufteilung nach Losen
+# § 27 – Aufteilung nach Losen
 
 (1) Unbeschadet des § 97 Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen kann der Auftraggeber festlegen, ob die Angebote nur für ein Los, für mehrere oder für alle Lose eingereicht werden dürfen. Er kann, auch wenn Angebote für mehrere oder alle Lose eingereicht werden dürfen, die Zahl der Lose auf eine Höchstzahl beschränken, für die ein einzelner Bieter den Zuschlag erhalten kann.
 
@@ -463,8 +433,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (3) In Fällen, in denen ein einziger Bieter den Zuschlag für mehr als ein Los erhalten kann, kann der Auftraggeber Aufträge über mehrere oder alle Lose vergeben, wenn er in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbestätigung angegeben hat, dass er sich diese Möglichkeit vorbehält und die Lose oder Losgruppen angibt, die kombiniert werden können.
 
-
-## § 28 – Leistungsbeschreibung
+# § 28 – Leistungsbeschreibung
 
 (1) Der Auftraggeber fasst die Leistungsbeschreibung (§ 121 des Gesetzes gegen Wettbewerbsbeschränkungen) in einer Weise, dass sie allen Unternehmen den gleichen Zugang zum Vergabeverfahren gewährt und die Öffnung des nationalen Beschaffungsmarktes für den Wettbewerb nicht in ungerechtfertigter Weise behindert.
 
@@ -500,8 +469,7 @@ Jede Bezugnahme auf eine Anforderung nach Satz 1 Nummer 2 Buchstabe a bis e ist 
 
 (6) In der Leistungsbeschreibung darf nicht auf eine bestimmte Produktion oder Herkunft oder ein besonderes Verfahren oder auf gewerbliche Schutzrechte, Typen oder einen bestimmten Ursprung verwiesen werden, wenn dadurch bestimmte Unternehmen oder bestimmte Produkte begünstigt oder ausgeschlossen werden, es sei denn, dieser Verweis ist durch den Auftragsgegenstand gerechtfertigt. Solche Verweise sind ausnahmsweise zulässig, wenn der Auftragsgegenstand anderenfalls nicht hinreichend genau und allgemein verständlich beschrieben werden kann; die Verweise sind mit dem Zusatz „oder gleichwertig“ zu versehen.
 
-
-## § 29 – Technische Anforderungen
+# § 29 – Technische Anforderungen
 
 (1) Verweist der Auftraggeber in der Leistungsbeschreibung auf technische Anforderungen nach § 28 Absatz 2 Satz 1 Nummer 2, so darf er ein Angebot nicht mit der Begründung ablehnen, dass die angebotenen Liefer- und Dienstleistungen nicht den von ihm herangezogenen technischen Anforderungen der Leistungsbeschreibung entsprechen, wenn das Unternehmen in seinem Angebot dem Auftraggeber mit geeigneten Mitteln nachweist, dass die vom Unternehmen vorgeschlagenen Lösungen diesen technischen Anforderungen gleichermaßen entsprechen.
 
@@ -519,8 +487,7 @@ Jede Bezugnahme auf eine Anforderung nach Satz 1 Nummer 2 Buchstabe a bis e ist 
 
 Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm entsprechende Liefer- oder Dienstleistung den Leistungs- oder Funktionsanforderungen des Auftraggebers entspricht. Belege können insbesondere eine technische Beschreibung des Herstellers oder ein Prüfbericht einer anerkannten Stelle sein.
 
-
-## § 30 – Bekanntmachung technischer Anforderungen
+# § 30 – Bekanntmachung technischer Anforderungen
 
 (1) Der Auftraggeber stellt den interessierten Unternehmen auf deren Anfrage die technischen Anforderungen zur Verfügung, auf die er sich in seinen Aufträgen regelmäßig bezieht oder die er anzuwenden beabsichtigt.
 
@@ -528,8 +495,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (3) Können die technischen Anforderungen nicht gemäß Absatz 2 elektronisch zugänglich gemacht werden, so wählt der Auftraggeber einen anderen Weg, um die technischen Anforderungen zugänglich zu machen. Dies gilt auch für den Fall, dass der Auftraggeber Anforderungen an die Vertraulichkeit von durch ihn den Bewerbern oder Bietern zur Verfügung gestellten Unterlagen oder Dokumenten nach § 41 Absatz 4 stellt.
 
-
-## § 31 – Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen
+# § 31 – Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen
 
 (1) Als Beleg dafür, dass eine Leistung bestimmten, in der Leistungsbeschreibung geforderten Merkmalen entspricht, kann der Auftraggeber die Vorlage von Bescheinigungen, insbesondere Testberichten oder Zertifizierungen, einer Konformitätsbewertungsstelle verlangen. Wird die Vorlage einer Bescheinigung einer bestimmten Konformitätsbewertungsstelle verlangt, hat der Auftraggeber auch Bescheinigungen gleichwertiger anderer Konformitätsbewertungsstellen zu akzeptieren.
 
@@ -537,8 +503,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (3) Eine Konformitätsbewertungsstelle ist eine Stelle, die gemäß der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) akkreditiert ist und Konformitätsbewertungstätigkeiten durchführt.
 
-
-## § 32 – Nachweisführung durch Gütezeichen
+# § 32 – Nachweisführung durch Gütezeichen
 
 (1) Als Beleg dafür, dass eine Leistung bestimmten, in der Leistungsbeschreibung geforderten Merkmalen entspricht, kann der Auftraggeber die Vorlage von Gütezeichen nach Maßgabe der Absätze 2 bis 5 verlangen.
 
@@ -560,8 +525,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (5) Hatte ein Unternehmen aus Gründen, die ihm nicht zugerechnet werden können, nachweislich keine Möglichkeit, das vom Auftraggeber angegebene oder ein gleichwertiges Gütezeichen innerhalb einer einschlägigen Frist zu erlangen, so muss der Auftraggeber andere geeignete Belege akzeptieren, sofern das Unternehmen nachweist, dass die von ihm zu erbringende Leistung die Anforderungen des geforderten Gütezeichens oder die vom Auftraggeber angegebenen spezifischen Anforderungen erfüllt.
 
-
-## § 33 – Nebenangebote
+# § 33 – Nebenangebote
 
 (1) Der Auftraggeber kann Nebenangebote zulassen oder vorschreiben. Dabei legt er Mindestanforderungen, denen die Nebenangebote genügen müssen, fest.
 
@@ -571,8 +535,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (4) Der Auftraggeber berücksichtigt nur Nebenangebote, die die Mindestanforderungen erfüllen. Bei den Verfahren zur Vergabe von Liefer- oder Dienstleistungsaufträgen dürfen Auftraggeber, die Nebenangebote zugelassen oder vorgeschrieben haben, ein Nebenangebot nicht allein deshalb zurückweisen, weil es, wenn darauf der Zuschlag erteilt werden sollte, entweder zu einem Dienstleistungsauftrag anstatt zu einem Lieferauftrag oder zu einem Lieferauftrag anstatt zu einem Dienstleistungsauftrag führen würde.
 
-
-## § 34 – Unteraufträge
+# § 34 – Unteraufträge
 
 (1) Der Auftraggeber kann Unternehmen in der Auftragsbekanntmachung oder den Vergabeunterlagen auffordern, bei Angebotsabgabe die Teile des Auftrags, die sie im Wege der Unterauftragsvergabe an Dritte zu vergeben beabsichtigen, sowie, falls zumutbar, die vorgesehenen Unterauftragnehmer zu benennen. Vor Zuschlagserteilung kann der Auftraggeber von den Bietern, deren Angebote in die engere Wahl kommen, verlangen, die Unterauftragnehmer zu benennen und nachzuweisen, dass ihnen die erforderlichen Mittel dieser Unterauftragnehmer zur Verfügung stehen.
 
@@ -584,8 +547,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (5) Der öffentliche Auftraggeber im Sinne des § 100 Absatz 1 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen überprüft vor der Erteilung des Zuschlags, ob Gründe für den Ausschluss des Unterauftragnehmers vorliegen. Bei Vorliegen zwingender Ausschlussgründe verlangt der öffentliche Auftraggeber die Ersetzung des Unterauftragnehmers. Bei Vorliegen fakultativer Ausschlussgründe kann der öffentliche Auftraggeber verlangen, dass dieser ersetzt wird. Der öffentliche Auftraggeber kann dem Bewerber oder Bieter dafür eine Frist setzen.
 
-
-## § 35 – Auftragsbekanntmachungen, Beschafferprofil
+# § 35 – Auftragsbekanntmachungen, Beschafferprofil
 
 (1) Der Auftraggeber teilt seine Absicht, einen Auftrag zu vergeben oder eine Rahmenvereinbarung abzuschließen, in einer Auftragsbekanntmachung mit. § 13 Absatz 2, § 36 Absatz 4 und § 37 bleiben unberührt.
 
@@ -595,8 +557,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (4) Der Auftraggeber kann im Internet zusätzlich ein Beschafferprofil einrichten. Dieses kann regelmäßige nicht verbindliche Bekanntmachungen, Angaben über laufende oder aufgehobene Vergabeverfahren, über vergebene Aufträge sowie alle sonstigen Informationen von allgemeinem Interesse wie Kontaktstelle, Telefon- und Faxnummer, Anschrift und E-Mail-Adresse des Auftraggebers enthalten.
 
-
-## § 36 – Regelmäßige nicht verbindliche Bekanntmachung
+# § 36 – Regelmäßige nicht verbindliche Bekanntmachung
 
 (1) Der Auftraggeber kann die Absicht einer geplanten Auftragsvergabe mittels Veröffentlichung einer regelmäßigen nicht verbindlichen Bekanntmachung nach dem in Anhang IV der Durchführungsverordnung (EU) 2015/1986 enthaltenen Muster bekanntgeben.
 
@@ -626,8 +587,7 @@ Ungeachtet der Verpflichtung zur Veröffentlichung der Bekanntmachung können so
 
 (6) Der von der regelmäßigen nicht verbindlichen Bekanntmachung abgedeckte Zeitraum beträgt höchstens zwölf Monate ab dem Tag der Übermittlung der regelmäßigen nicht verbindlichen Bekanntmachung an das Amt für Veröffentlichungen der Europäischen Union.
 
-
-## § 37 – Bekanntmachung über das Bestehen eines Qualifizierungssystems
+# § 37 – Bekanntmachung über das Bestehen eines Qualifizierungssystems
 
 (1) Der Auftraggeber kann die Absicht einer Auftragsvergabe mittels der Bekanntmachung über das Bestehen eines Qualifizierungssystems bekanntmachen.
 
@@ -635,8 +595,7 @@ Ungeachtet der Verpflichtung zur Veröffentlichung der Bekanntmachung können so
 
 (3) Änderungen der Gültigkeitsdauer, ohne das System zu ändern, werden nach dem in Anhang XI der Durchführungsverordnung (EU) 2015/1986 enthaltenen Muster erstellt. Bei Beendigung des Systems wird das in Anhang VI der Durchführungsverordnung (EU) 2015/1986 enthaltene Muster für Vergabebekanntmachungen nach § 38 verwendet.
 
-
-## § 38 – Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen
+# § 38 – Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen
 
 (1) Der Auftraggeber übermittelt spätestens 30 Tage nach Zuschlagserteilung oder nach dem Abschluss einer Rahmenvereinbarung eine Vergabebekanntmachung mit den Ergebnissen des Vergabeverfahrens an das Amt für Veröffentlichungen der Europäischen Union.
 
@@ -666,8 +625,7 @@ würde.
 
 2. auf Angaben in der Auftragsbekanntmachung, die mindestens ebenso detailliert sind wie in der Auftragsbekanntmachung.
 
-
-## § 39 – Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen
+# § 39 – Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen
 
 (1) Der Auftraggeber teilt seine Absicht, einen Auftrag zur Erbringung sozialer oder anderer besonderer Dienstleistungen im Sinne von § 130 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen zu vergeben, mittels
 
@@ -677,15 +635,13 @@ würde.
 
 3. einer Bekanntmachung über das Bestehen eines Qualifizierungssystems gemäß § 37
 
-mit.  
-Dies gilt nicht, wenn ein Verhandlungsverfahren ohne vorherigen Teilnahmewettbewerb nach § 13 Absatz 2 zulässig wäre; § 13 Absatz 2 bleibt unberührt.
+mit. Dies gilt nicht, wenn ein Verhandlungsverfahren ohne vorherigen Teilnahmewettbewerb nach § 13 Absatz 2 zulässig wäre; § 13 Absatz 2 bleibt unberührt.
 
 (2) Die Bekanntmachungen nach Absatz 1 werden nach dem Muster gemäß Anhang XIX der Durchführungsverordnung (EU) 2015/1986 erstellt.
 
 (3) Der Auftraggeber, der einen Auftrag zur Erbringung von sozialen und anderen besonderen Dienstleistungen vergeben hat, teilt die Ergebnisse des Vergabeverfahrens unter Verwendung des in Anhang XIX der Durchführungsverordnung (EU) 2015/1986 enthaltenen Musters mit. Er kann die Vergabebekanntmachungen quartalsweise bündeln. In diesem Fall versendet er die Zusammenstellung spätestens 30 Tage nach Quartalsende.
 
-
-## § 40 – Veröffentlichung von Bekanntmachungen
+# § 40 – Veröffentlichung von Bekanntmachungen
 
 (1) Auftragsbekanntmachungen, regelmäßige nicht verbindliche Bekanntmachungen nach § 36 Absatz 4, Bekanntmachungen über das Bestehen von Qualifikationssystemen und Vergabebekanntmachungen (Bekanntmachungen) sind dem Amt für Veröffentlichungen der Europäischen Union mit elektronischen Mitteln zu übermitteln. Der Auftraggeber muss den Tag der Absendung nachweisen können.
 
@@ -695,8 +651,7 @@ Dies gilt nicht, wenn ein Verhandlungsverfahren ohne vorherigen Teilnahmewettbew
 
 (4) Der Auftraggeber kann auch Bekanntmachungen über Bau-, Liefer- oder Dienstleistungsaufträge, die nicht der Bekanntmachungspflicht unterliegen, an das Amt für Veröffentlichungen der Europäischen Union übermitteln.
 
-
-## § 41 – Bereitstellung der Vergabeunterlagen
+# § 41 – Bereitstellung der Vergabeunterlagen
 
 (1) Der Auftraggeber gibt in der Auftragsbekanntmachung oder der Aufforderung zur Interessensbestätigung eine elektronische Adresse an, unter der die Vergabeunterlagen unentgeltlich, uneingeschränkt, vollständig und direkt abgerufen werden können.
 
@@ -714,8 +669,7 @@ Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, sofern nicht
 
 (4) Der Auftraggeber gibt in der Auftragsbekanntmachung oder der Aufforderung zur Interessensbestätigung oder, sofern eine Bekanntmachung über das Bestehen eines Qualifizierungssystems erfolgt, in den Vergabeunterlagen an, welche Maßnahmen er zum Schutz der Vertraulichkeit von Informationen anwendet und wie auf die Vergabeunterlagen zugegriffen werden kann. Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, es sei denn, die Maßnahme zum Schutz der Vertraulichkeit besteht ausschließlich in der Abgabe einer Verschwiegenheitserklärung, es liegt ein Fall hinreichend begründeter Dringlichkeit gemäß § 14 Absatz 3 vor oder die Frist wurde gemäß § 15 Absatz 3 im gegenseitigen Einvernehmen festgelegt.
 
-
-## § 42 – Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog
+# § 42 – Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog
 
 (1) Ist ein Teilnahmewettbewerb durchgeführt worden, wählt der Auftraggeber Bewerber aus, die er auffordert, in einem nicht offenen Verfahren ein Angebot oder in einem Verhandlungsverfahren ein Erstangebot einzureichen und darüber zu verhandeln, am wettbewerblichen Dialog teilzunehmen oder an Verhandlungen im Rahmen einer Innovationspartnerschaft teilzunehmen.
 
@@ -753,8 +707,7 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 9. die Zuschlagskriterien sowie deren Gewichtung oder gegebenenfalls die Kriterien in der Rangfolge ihrer Bedeutung, wenn diese Angaben nicht in der regelmäßigen nicht verbindlichen Bekanntmachung oder den Vergabeunterlagen enthalten sind.
 
-
-## § 43 – Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen
+# § 43 – Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen
 
 (1) Die Unternehmen übermitteln ihre Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen in Textform nach § 126b des Bürgerlichen Gesetzbuchs mithilfe elektronischer Mittel.
 
@@ -762,8 +715,7 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 (3) Der Auftraggeber gibt im Vergabevermerk die Gründe an, warum die Angebote mithilfe anderer als elektronischer Mittel eingereicht werden können.
 
-
-## § 44 – Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen
+# § 44 – Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen
 
 (1) Der Auftraggeber prüft im Einzelfall, ob zu übermittelnde Daten erhöhte Anforderungen an die Sicherheit stellen. Soweit es erforderlich ist, kann der Auftraggeber verlangen, dass Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote zu versehen sind mit
 
@@ -777,8 +729,7 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 (2) Der Auftraggeber kann festlegen, dass Angebote mithilfe anderer als elektronischer Mittel einzureichen sind, wenn sie besonders schutzwürdige Daten enthalten, die bei Verwendung allgemein verfügbarer oder alternativer elektronischer Mittel nicht angemessen geschützt werden können, oder wenn die Sicherheit der elektronischen Mittel nicht gewährleistet werden kann. Der Auftraggeber dokumentiert die Gründe, warum er die Einreichung der Angebote mithilfe anderer als elektronischer Mittel für erforderlich hält.
 
-
-## § 45 – Grundsätze
+# § 45 – Grundsätze
 
 (1) Bei der Auswahl der Teilnehmer an Vergabeverfahren beachtet der Auftraggeber die in den Absätzen 2 und 3 genannten Grundsätze.
 
@@ -786,15 +737,13 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 (3) In Fällen, in denen der Auftraggeber ein angemessenes Gleichgewicht zwischen bestimmten Merkmalen des Vergabeverfahrens und den notwendigen Ressourcen für dessen Durchführung sicherstellen muss, kann er bei nicht offenen Verfahren, Verhandlungsverfahren, wettbewerblichen Dialogen oder Innovationspartnerschaften objektive Kriterien festlegen, die es ermöglichen, die Zahl der Bewerber, die zur Angebotsabgabe oder zur Aufnahme von Verhandlungen aufgefordert werden, zu begrenzen. Die Zahl der ausgewählten Bewerber muss jedoch der Notwendigkeit Rechnung tragen, dass ein angemessener Wettbewerb gewährleistet sein muss.
 
-
-## § 46 – Objektive und nichtdiskriminierende Kriterien
+# § 46 – Objektive und nichtdiskriminierende Kriterien
 
 (1) Der Auftraggeber wählt die Unternehmen anhand objektiver Kriterien aus, die allen interessierten Unternehmen zugänglich sein müssen.
 
 (2) Die objektiven und nichtdiskriminierenden Kriterien für die Auswahl der Unternehmen, die eine Qualifizierung im Rahmen eines Qualifizierungssystems beantragen, sowie für die Auswahl der Bewerber und Bieter im offenen Verfahren, nicht offenen Verfahren, Verhandlungsverfahren, wettbewerblichen Dialog oder in einer Innovationspartnerschaft können nach § 142 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen die Anwendung des § 123 des Gesetzes gegen Wettbewerbsbeschränkungen beinhalten. Handelt es sich um einen Auftraggeber nach § 100 Absatz 1 Nummer 1 des Gesetzes gegen Wettbewerbsbeschränkungen, beinhalten diese Kriterien nach § 142 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen die Anwendung des § 123 des Gesetzes gegen Wettbewerbsbeschränkungen.
 
-
-## § 47 – Eignungsleihe
+# § 47 – Eignungsleihe
 
 (1) Ein Bewerber oder Bieter kann für einen bestimmten Auftrag im Hinblick auf die erforderliche wirtschaftliche und finanzielle sowie die technische und berufliche Leistungsfähigkeit die Kapazitäten anderer Unternehmen in Anspruch nehmen, wenn er nachweist, dass ihm die für den Auftrag erforderlichen Mittel tatsächlich zur Verfügung stehen werden, indem er beispielsweise eine entsprechende Verpflichtungserklärung dieser Unternehmen vorlegt. Diese Möglichkeit besteht unabhängig von der Rechtsnatur der zwischen dem Bewerber oder Bieter und den anderen Unternehmen bestehenden Verbindungen. Ein Bewerber oder Bieter kann jedoch im Hinblick auf Nachweise für die erforderliche berufliche Leistungsfähigkeit wie Ausbildungs- und Befähigungsnachweise oder die einschlägige berufliche Erfahrung die Kapazitäten anderer Unternehmen nur dann in Anspruch nehmen, wenn diese die Leistung erbringen, für die diese Kapazitäten benötigt werden.
 
@@ -806,8 +755,7 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 (5) Der Auftraggeber kann vorschreiben, dass bestimmte kritische Aufgaben bei Bauaufträgen, Dienstleistungsaufträgen oder kritische Verlege- oder Installationsarbeiten im Zusammenhang mit einem Lieferauftrag direkt vom Bieter selbst oder im Fall einer Bietergemeinschaft von einem Teilnehmer der Bietergemeinschaft ausgeführt werden müssen.
 
-
-## § 48 – Qualifizierungssysteme
+# § 48 – Qualifizierungssysteme
 
 (1) Der Auftraggeber kann zur Eignungsfeststellung ein Qualifizierungssystem für Unternehmen einrichten und betreiben. Unternehmen müssen jederzeit die Zulassung zum Qualifizierungssystem beantragen können. Das Qualifizierungssystem kann verschiedene Qualifizierungsstufen umfassen.
 
@@ -833,8 +781,7 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 (12) Eine Ablehnung ist dem Unternehmen innerhalb von 15 Tagen nach der Entscheidung unter Angabe der Gründe mitzuteilen. Dabei darf sich eine Ablehnung nur auf die gemäß Absatz 2 festgelegten objektiven Kriterien beziehen. Dasselbe gilt für die Beendigung einer Qualifizierung. Die beabsichtigte Beendigung ist dem Unternehmen 15 Tage vor dem vorgesehenen Ausschluss unter Angabe der Gründe mitzuteilen.
 
-
-## § 49 – Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements
+# § 49 – Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements
 
 (1) Verlangt der Auftraggeber als Beleg dafür, dass Bewerber oder Bieter bestimmte Normen der Qualitätssicherung erfüllen, die Vorlage von Bescheinigungen unabhängiger Stellen, so bezieht er sich auf Qualitätssicherungssysteme, die
 
@@ -854,8 +801,7 @@ Der Auftraggeber erkennt auch gleichwertige Bescheinigungen von akkreditierten S
 
 Der Auftraggeber erkennt auch gleichwertige Bescheinigungen von Stellen in anderen Staaten an. Hatte ein Bewerber oder Bieter aus Gründen, die ihm nicht zugerechnet werden können, nachweislich keinen Zugang zu den betreffenden Bescheinigungen oder aus Gründen, die es nicht zu vertreten hat, keine Möglichkeit, diese innerhalb der einschlägigen Fristen zu erlangen, so muss der Auftraggeber auch andere Unterlagen über gleichwertige Umweltmanagementmaßnahmen anerkennen, sofern der Bewerber oder Bieter nachweist, dass diese Maßnahmen mit denen, die nach dem geltenden System oder den geltenden Normen für das Umweltmanagement erforderlich sind, gleichwertig sind.
 
-
-## § 50 – Rechtsform von Unternehmen und Bietergemeinschaften
+# § 50 – Rechtsform von Unternehmen und Bietergemeinschaften
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des Staates, in dem sie niedergelassen sind, zur Erbringung der betreffenden Leistung berechtigt sind, dürfen nicht allein deshalb zurückgewiesen werden, weil sie gemäß den deutschen Rechtsvorschriften eine natürliche oder juristische Person sein müssten. Juristische Personen können jedoch bei Dienstleistungsaufträgen sowie bei Lieferaufträgen, die zusätzlich Dienstleistungen umfassen, verpflichtet werden, in ihrem Antrag auf Teilnahme oder in ihrem Angebot die Namen und die berufliche Befähigung der Personen anzugeben, die für die Erbringung der Leistung als verantwortlich vorgesehen sind.
 
@@ -865,8 +811,7 @@ Der Auftraggeber erkennt auch gleichwertige Bescheinigungen von Stellen in ander
 
 (+++ § 50: Zur Anwendung vgl. § 60 Abs. 2 +++)
 
-
-## § 51 – Prüfung und Wertung der Angebote; Nachforderung von Unterlagen
+# § 51 – Prüfung und Wertung der Angebote; Nachforderung von Unterlagen
 
 (1) Die Angebote werden geprüft und gewertet, bevor der Zuschlag erteilt wird.
 
@@ -878,8 +823,7 @@ Der Auftraggeber erkennt auch gleichwertige Bescheinigungen von Stellen in ander
 
 (5) Die Entscheidung zur und das Ergebnis der Nachforderung sind zu dokumentieren.
 
-
-## § 52 – Zuschlag und Zuschlagskriterien
+# § 52 – Zuschlag und Zuschlagskriterien
 
 (1) Der Zuschlag wird nach Maßgabe des § 127 des Gesetzes gegen Wettbewerbsbeschränkungen auf das wirtschaftlichste Angebot erteilt.
 
@@ -899,8 +843,7 @@ Der Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sodass das wirts
 
 (5) Für den Beleg, dass die angebotene Leistung den geforderten Ausführungsbedingungen gemäß § 128 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen entspricht, gelten die §§ 31 und 32 entsprechend.
 
-
-## § 53 – Berechnung von Lebenszykluskosten
+# § 53 – Berechnung von Lebenszykluskosten
 
 (1) Der Auftraggeber kann vorgeben, dass das Zuschlagskriterium „Kosten“ auf der Grundlage der Lebenszykluskosten der Leistung berechnet wird.
 
@@ -926,8 +869,7 @@ Der Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sodass das wirts
 
 (4) Sofern eine Methode zur Berechnung der Lebenszykluskosten durch einen Rechtsakt der Europäischen Union verbindlich vorgeschrieben worden ist, hat der Auftraggeber diese Methode vorzugeben.
 
-
-## § 54 – Ungewöhnlich niedrige Angebote
+# § 54 – Ungewöhnlich niedrige Angebote
 
 (1) Erscheinen der Preis oder die Kosten eines Angebots im Verhältnis zu der zu erbringenden Leistung ungewöhnlich niedrig, verlangt der Auftraggeber vom Bieter Aufklärung.
 
@@ -947,8 +889,7 @@ Der Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sodass das wirts
 
 (4) Stellt der Auftraggeber fest, dass ein Angebot ungewöhnlich niedrig ist, weil der Bieter eine staatliche Beihilfe erhalten hat, so lehnt der Auftraggeber das Angebot ab, wenn der Bieter nicht fristgemäß nachweisen kann, dass die staatliche Beihilfe rechtmäßig gewährt wurde. Der Auftraggeber teilt die Ablehnung der Europäischen Kommission mit.
 
-
-## § 55 – Angebote, die Erzeugnisse aus Drittländern umfassen
+# § 55 – Angebote, die Erzeugnisse aus Drittländern umfassen
 
 (1) Der Auftraggeber eines Lieferauftrags kann Angebote zurückweisen, bei denen der Warenanteil zu mehr als 50 Prozent des Gesamtwertes aus Ländern stammt, die nicht Vertragsparteien des Abkommens über den Europäischen Wirtschaftsraum sind und mit denen auch keine sonstigen Vereinbarungen über gegenseitigen Marktzugang bestehen. Das Bundesministerium für Wirtschaft und Energie gibt im Bundesanzeiger bekannt, mit welchen Ländern und auf welchen Gebieten solche Vereinbarungen bestehen.
 
@@ -956,8 +897,7 @@ Der Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sodass das wirts
 
 (3) Software, die in der Ausstattung für Telekommunikationsnetze verwendet wird, gilt als Ware im Sinne des Absatzes 1.
 
-
-## § 56 – Unterrichtung der Bewerber oder Bieter
+# § 56 – Unterrichtung der Bewerber oder Bieter
 
 (1) Unbeschadet des § 134 des Gesetzes gegen Wettbewerbsbeschränkungen teilt der Auftraggeber jedem Bewerber und jedem Bieter unverzüglich seine Entscheidungen über den Abschluss einer Rahmenvereinbarung, die Zuschlagserteilung oder die Zulassung zur Teilnahme an einem dynamischen Beschaffungssystem mit. Gleiches gilt für die Entscheidung, ein Vergabeverfahren aufzuheben oder erneut einzuleiten einschließlich der Gründe dafür, sofern eine Bekanntmachung veröffentlicht wurde.
 
@@ -973,20 +913,17 @@ Der Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sodass das wirts
 
 (3) § 38 Absatz 6 gilt entsprechend.
 
-
-## § 57 – Aufhebung und Einstellung des Verfahrens
+# § 57 – Aufhebung und Einstellung des Verfahrens
 
 Ein Vergabeverfahren kann ganz oder bei Losvergabe für einzelne Lose aufgehoben werden oder im Fall eines Verhandlungsverfahrens eingestellt werden. In diesen Fällen hat der Auftraggeber den am Vergabeverfahren beteiligten Unternehmen unverzüglich die Aufhebung oder Einstellung des Verfahrens und die Gründe hierfür sowie seine etwaige Absicht, ein neues Vergabeverfahren durchzuführen, in Textform mitzuteilen.
 
-
-## § 58 – Beschaffung energieverbrauchsrelevanter Leistungen
+# § 58 – Beschaffung energieverbrauchsrelevanter Leistungen
 
 (1) Mit der Leistungsbeschreibung sind im Rahmen der technischen Spezifikationen von den Bietern Angaben zum Energieverbrauch von technischen Geräten und Ausrüstungen zu fordern. Bei Bauleistungen sind diese Angaben dann zu fordern, wenn die Lieferung von technischen Geräten und Ausrüstungen Bestandteil dieser Bauleistungen sind. Dabei ist in geeigneten Fällen eine Analyse minimierter Lebenszykluskosten oder eine vergleichbare Methode zur Gewährleistung der Wirtschaftlichkeit vom Bieter zu fordern.
 
 (2) Bei technischen Geräten und Ausrüstungen kann deren Energieverbrauch bei der Entscheidung über den Zuschlag berücksichtigt werden, bei Bauleistungen jedoch nur dann, wenn die Lieferung der technischen Geräte oder Ausrüstungen ein wesentlicher Bestandteil der Bauleistung ist.
 
-
-## § 59 – Beschaffung von Straßenfahrzeugen
+# § 59 – Beschaffung von Straßenfahrzeugen
 
 (1) Der Auftraggeber muss bei der Beschaffung von Straßenfahrzeugen Energieverbrauch und Umweltauswirkungen berücksichtigen. Zumindest müssen folgende Faktoren, jeweils bezogen auf die Gesamtkilometerleistung des Straßenfahrzeugs im Sinne der Tabelle 3 der Anlage 2, berücksichtigt werden:
 
@@ -1008,15 +945,13 @@ Ein Vergabeverfahren kann ganz oder bei Losvergabe für einzelne Lose aufgehoben
 
 Sollen der Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen finanziell bewertet werden, ist die in Anlage 3 definierte Methode anzuwenden. Soweit die Angaben in Anlage 2 dem Auftraggeber einen Spielraum bei der Beurteilung des Energiegehaltes oder der Emissionskosten einräumen, nutzt er diesen Spielraum entsprechend den lokalen Bedingungen am Einsatzort des Fahrzeugs.
 
-
-## § 60 – Anwendungsbereich
+# § 60 – Anwendungsbereich
 
 (1) Wettbewerbe nach § 103 Absatz 6 des Gesetzes gegen Wettbewerbsbeschränkungen werden insbesondere auf den Gebieten der Raumplanung, des Städtebaus und des Bauwesens oder der Datenverarbeitung durchgeführt (Planungswettbewerbe).
 
 (2) Bei der Durchführung eines Planungswettbewerbs wendet der Auftraggeber die §§ 5, 6, 50 und die Vorschriften dieses Abschnitts an.
 
-
-## § 61 – Veröffentlichung, Transparenz
+# § 61 – Veröffentlichung, Transparenz
 
 (1) Der Auftraggeber teilt seine Absicht, einen Planungswettbewerb auszurichten, in einer Wettbewerbsbekanntmachung mit. Die Wettbewerbsbekanntmachung wird nach dem in Anhang IX der Durchführungsverordnung (EU) 2015/1986 enthaltenen Muster erstellt.
 
@@ -1026,8 +961,7 @@ Sollen der Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen fi
 
 (4) § 38 Absatz 6 gilt entsprechend.
 
-
-## § 62 – Ausrichtung
+# § 62 – Ausrichtung
 
 (1) Die an einem Planungswettbewerb Interessierten sind vor Wettbewerbsbeginn über die geltenden Durchführungsregeln zu informieren.
 
@@ -1039,8 +973,7 @@ Sollen der Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen fi
 
 (3) Bei einem Planungswettbewerb mit beschränkter Teilnehmerzahl hat der Auftraggeber eindeutige und nichtdiskriminierende Auswahlkriterien festzulegen. Die Zahl der Bewerber, die zur Teilnahme aufgefordert werden, muss ausreichen, um einen echten Wettbewerb zu gewährleisten.
 
-
-## § 63 – Preisgericht
+# § 63 – Preisgericht
 
 (1) Das Preisgericht darf nur aus Preisrichtern bestehen, die von den Teilnehmern des Planungswettbewerbs unabhängig sind. Wird von den Wettbewerbsteilnehmern eine bestimmte berufliche Qualifikation verlangt, muss mindestens ein Drittel der Preisrichter über dieselbe oder eine gleichwertige Qualifikation verfügen.
 
@@ -1050,18 +983,15 @@ Sollen der Energieverbrauch und die Umweltauswirkungen von Straßenfahrzeugen fi
 
 (4) Die Teilnehmer können zur Klärung bestimmter Aspekte der Wettbewerbsarbeiten aufgefordert werden, Fragen zu beantworten, die das Preisgericht in seinem Protokoll festzuhalten hat. Der Dialog zwischen Preisrichtern und Teilnehmern ist zu dokumentieren.
 
-
-## § 64 – Übergangsbestimmungen
+# § 64 – Übergangsbestimmungen
 
 Zentrale Beschaffungsstellen im Sinne von § 120 Absatz 4 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen können bis zum 18. April 2017, andere Auftraggeber bis zum 18. Oktober 2018, abweichend von § 43 Absatz 1 die Übermittlung der Angebote, Teilnahmeanträge und Interessensbestätigungen auch auf dem Postweg, anderem geeigneten Weg, Fax oder durch die Kombination dieser Mittel verlangen. Dasselbe gilt für die sonstige Kommunikation im Sinne des § 9 Absatz 1, soweit sie nicht die Übermittlung von Bekanntmachungen und die Bereitstellung der Vergabeunterlagen betrifft.
 
-
-## § 65 – Fristenberechnung
+# § 65 – Fristenberechnung
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L 124 vom 8.6.1971, S. 1).
 
-
-## Anlage 1 – (zu § 28 Absatz 2)Technische Anforderungen, Begriffsbestimmungen
+# Anlage 1 – (zu § 28 Absatz 2)Technische Anforderungen, Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2016, 680)
 
@@ -1083,13 +1013,11 @@ c) nationale Norm: Norm, die von einer nationalen Normungsorganisation angenomme
 
 5. „technische Bezugsgröße“ bezeichnet jeden Bezugsrahmen, der keine europäische Norm ist und von den europäischen Normungsorganisationen nach den an die Bedürfnisse des Markts angepassten Verfahren erarbeitet wurde.
 
-
-## Anlage 2 – (zu § 59)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten
+# Anlage 2 – (zu § 59)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten
 
 (Fundstelle: BGBl. I 2016, 681)
 
-
-## Anlage 3 – (zu § 59 Absatz 2)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
+# Anlage 3 – (zu § 59 Absatz 2)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
 
 (Fundstelle: BGBl. I 2016, 682)
 

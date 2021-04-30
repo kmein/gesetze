@@ -1,10 +1,7 @@
-# [Münz5EuroBek 2016-04-04] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Planet Erde“)
-
-Ausfertigungsdatum: 04.04.2016
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Planet Erde“)
+% Ausfertigungsdatum: 04.04.2016
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum Thema „Planet Erde“ eine innovative deutsche Gedenkmünze im Nennwert von 5 Euro prägen zu lassen.
 
@@ -22,12 +19,10 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf stammt von dem Künstler Stefan Klein aus Iserlohn. Der Adlerentwurf basiert auf einer Vorlage der Künstlerin Alina Hoyer aus Berlin.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2016, 754)

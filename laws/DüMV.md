@@ -1,18 +1,13 @@
-# [DüMV] Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln   (Düngemittelverordnung - DüMV)
-
-Ausfertigungsdatum: 05.12.2012
-
+% Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln   (Düngemittelverordnung - DüMV)
+% Ausfertigungsdatum: 05.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Absatz 2 in Verbindung mit Absatz 3, des § 5 Absatz 5 Satz 1 Nummer 1, des § 7, des § 8 Absatz 1, des § 9 und des § 15 Absatz 1 und 2 des Düngegesetzes vom 9. Januar 2009 (BGBl. I S. 54, 136) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -86,8 +81,7 @@ a) als Vom-Hundert-Wert: maximale Abweichung des ermittelten Wertes vom gekennze
 
 b) in Vom-Hundert-Punkten: maximale Abweichung des ermittelten Wertes in vom Hundert vom gekennzeichneten Wert in vom Hundert durch Differenzbildung, ausgedrückt in „%-Punkt“.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 (1) Diese Verordnung gilt für das Inverkehrbringen von Düngemitteln, die nicht als EG-Düngemittel bezeichnet sind, sowie von Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln.
 
@@ -95,8 +89,7 @@ b) in Vom-Hundert-Punkten: maximale Abweichung des ermittelten Wertes in vom Hun
 
 (3) Die §§ 4 bis 8 gelten nicht beim Abgeben von Wirtschaftsdüngern sowie Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln unter ausschließlicher Verwendung von Wirtschaftsdüngern zwischen zwei Betrieben, die demselben Landwirt gehören, sowie zwei juristischen Personen, die beide von demselben Landwirt als alleinigem Anteilseigner oder alleinigem Gesellschafter beherrscht werden, und beim Abgeben dieser Stoffe zwischen einem oder mehreren Landwirten und einer juristischen Person, die von diesem Landwirt als alleinigem Anteilseigner oder alleinigem Gesellschafter beherrscht wird.
 
-
-## § 3 – Zulassung von Düngemitteltypen
+# § 3 – Zulassung von Düngemitteltypen
 
 (1) Düngemittel dürfen vorbehaltlich des § 5 Absatz 1 des Düngegesetzes nur in den Verkehr gebracht werden, wenn sie einem durch diese Verordnung zugelassenen Düngemitteltyp entsprechen. Die in Anlage 1 festgelegten Düngemitteltypen werden mit der Maßgabe zugelassen, dass
 
@@ -148,8 +141,7 @@ enthalten sind.
 
 2. die Grenzwerte nach Anlage 2 Tabelle 1.4 Spalte 4 bis zu einer Überschreitung von 50 vom Hundert im Falle von Brennraumaschen entsprechend den Vorgaben nach Tabelle 7.3.16 aus ausschließlicher Verbrennung von unbehandeltem Holz, wenn für diese Düngemittel im Rahmen der Hinweise zur sachgerechten Anwendung auf deren ausschließliche Verwendbarkeit auf forstlichen Standorten hingewiesen wird.
 
-
-## § 4 – Inverkehrbringen von Wirtschaftsdüngern, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
+# § 4 – Inverkehrbringen von Wirtschaftsdüngern, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln
 
 (1) Wirtschaftsdünger, soweit diese nicht als Düngemittel nach Anlage 1 Abschnitt 3 in den Verkehr gebracht werden, sowie Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
 
@@ -255,8 +247,7 @@ Für die Ermittlung des Gehaltes an Gesamtstickstoff und der daraus ermittelten 
 
 Die zuständige Stelle kann zum Inverkehrbringen oder zum Anwenden zum Schutz vor Schäden für die Gesundheit von Menschen und Tieren oder Gefährdungen des Naturhaushalts die erforderlichen Anordnungen treffen, insbesondere die Menge des Stoffes begrenzen, sowie das Inverkehrbringen und die Verwendung zu Versuchs- und Forschungszwecken untersagen.
 
-
-## § 5 – Anforderungen an die Seuchen- und Phytohygiene
+# § 5 – Anforderungen an die Seuchen- und Phytohygiene
 
 (1) Die Erfüllung der Anforderungen nach § 3 Absatz 1 Nummer 1 und nach § 4 Absatz 1 Nummer 1 setzt voraus, dass keine Krankheitserreger, Toxine oder Schaderreger enthalten sind, von denen Gefahren für die Gesundheit von Menschen, Tieren und Nutzpflanzen ausgehen.
 
@@ -294,8 +285,7 @@ und
 
 (5) (weggefallen)
 
-
-## § 6 – Anforderungen an die Kennzeichnung
+# § 6 – Anforderungen an die Kennzeichnung
 
 (1) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
 
@@ -401,13 +391,11 @@ c) jede Partie durch ein solches Begleitpapier deutlich gekennzeichnet ist und d
 
 (10) Düngemittel, die entsprechend den Anforderungen der Absätze 1 bis 8 oder des § 7a gekennzeichnet sind, dürfen nicht gleichzeitig als „EG-Düngemittel“ nach § 7 gekennzeichnet sein.
 
-
-## § 7 – Kennzeichnung bei EG-Düngemitteln
+# § 7 – Kennzeichnung bei EG-Düngemitteln
 
 Wer ein Düngemittel mit der Bezeichnung „EG-Düngemittel“ in den Verkehr bringt, hat dafür zu sorgen, dass das Düngemittel entsprechend den Anforderungen des Artikels 7 in Verbindung mit Artikel 10 und 11 der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. L 304 vom 21.11.2003, S. 1) gekennzeichnet ist.
 
-
-## § 7a – Kennzeichnung bei Inverkehrbringen nach § 5 Absatz 1 Satz 2 des Düngegesetzes
+# § 7a – Kennzeichnung bei Inverkehrbringen nach § 5 Absatz 1 Satz 2 des Düngegesetzes
 
 Wer Düngemittel, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel nach § 5 Absatz 1 Satz 2 des Düngegesetzes in den Verkehr bringt, hat dafür zu sorgen, dass der jeweilige Stoff
 
@@ -419,8 +407,7 @@ Wer Düngemittel, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel nac
 
 gekennzeichnet ist. Andere Sprachen dürfen zusätzlich verwendet werden.
 
-
-## § 8 – Toleranzen
+# § 8 – Toleranzen
 
 (1) Toleranzen gelten für gekennzeichnete Gehalte, Nährstoffformen oder Nährstofflöslichkeiten, sie gelten nicht für festgesetzte oder in der Kennzeichnung angegebene Mindest- oder Höchstgehalte. Wird die Toleranz sowohl als Prozentwert als auch als Prozentpunkt oder sonstige Einheit angegeben, gilt der jeweils zuerst erreichte Wert.
 
@@ -448,8 +435,7 @@ gekennzeichnet ist. Andere Sprachen dürfen zusätzlich verwendet werden.
 
 (8) Für Stoffe nach Anlage 2 Tabelle 1.4 sowie Fremdbestandteile nach Anlage 2 Tabelle 8.3 Nummer 8.3.2 bis 8.3.10 dürfen die tatsächlichen Gehalte die gekennzeichneten Gehalte in unbestimmter Höhe unterschreiten.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe e des Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Absatz 1 und § 4 Absatz 1 oder Absatz 3 Satz 1 ein Düngemittel, einen Wirtschaftsdünger, einen Bodenhilfsstoff, ein Kultursubstrat, ein Pflanzenhilfsmittel oder einen dort genannten Stoff in den Verkehr bringt.
 
@@ -459,13 +445,11 @@ gekennzeichnet ist. Andere Sprachen dürfen zusätzlich verwendet werden.
 
 2. entgegen § 7 nicht dafür sorgt, dass das Düngemittel in der dort genannten Weise gekennzeichnet ist.
 
-
-## § 9a – Evaluierung
+# § 9a – Evaluierung
 
 Das Bundesministerium für Ernährung und Landwirtschaft überprüft bis zum 31. Dezember 2019 unter Berücksichtigung der neuesten wissenschaftlichen Erkenntnisse die Anforderungen an synthetische Polymere nach Anlage 2 Tabelle 7 Nummer 7.4.7 und Tabelle 8 Nummer 8.1.3 und 8.2.9 und bewertet hierbei, ob eine Änderung der dort genannten Anforderungen zu den in § 1 des Düngegesetzes genannten Zwecken erforderlich ist.
 
-
-## § 10 – Übergangsvorschriften
+# § 10 – Übergangsvorschriften
 
 (1) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und Pflanzenhilfsmittel, die hinsichtlich der Kennzeichnung nach § 6 den Anforderungen der Düngemittelverordnung in der Fassung vom 16. Dezember 2008 (BGBl. I S. 2524), zuletzt geändert durch die Verordnung vom 14. Dezember 2009 (BGBl. I S. 3905) entsprechen, dürfen noch bis zum 30. Juni 2015 in Verkehr gebracht werden.
 
@@ -489,18 +473,15 @@ verwendet werden, dürfen noch bis zum 31. Dezember 2014 in den Verkehr gebracht
 
 (8) Düngemittel, die § 3 Absatz 1 Satz 2 Nummer 4 Buchstabe b und c, und Stoffe, die § 4 Absatz 1 Nummer 4 Buchstabe b und c, jeweils in der bis zum 9. Oktober 2019 geltenden Fassung entsprechen, dürfen noch bis zum Ablauf des 31. Dezember 2020 in den Verkehr gebracht werden.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Düngemittelverordnung vom 16. Dezember 2008 (BGBl. I S. 2524), die zuletzt durch Artikel 3 der Verordnung vom 23. April 2012 (BGBl. I S. 611) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Nummer 11, § 3 Absatz 1, § 6 Absatz 3, § 8 Absatz 3 und 4)Definition von Düngemitteltypen
+# Anlage 1 – (zu § 1 Nummer 11, § 3 Absatz 1, § 6 Absatz 3, § 8 Absatz 3 und 4)Definition von Düngemitteltypen
 
 (Fundstelle: BGBl. I 2012, 2490 - 2511; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -611,10 +592,8 @@ Zeile 7.3.16
 
 Das Düngemittel darf als „Kohlensaurer  
 Magnesiumkalk“ bezeichnet sein, wenn der  
-Gehalt an MgCO<sub>3</sub> und MgO mehr als 15 % beträgt.  
-Das Düngemittel darf mit dem Hinweis „leicht umsetzbar“ gekennzeichnet sein, wenn die  
-Reaktivität mindestens 80 % beträgt.  
-Bei der Herstellung aus Meeralgen:
+Gehalt an MgCO<sub>3</sub> und MgO mehr als 15 % beträgt. Das Düngemittel darf mit dem Hinweis „leicht umsetzbar“ gekennzeichnet sein, wenn die  
+Reaktivität mindestens 80 % beträgt. Bei der Herstellung aus Meeralgen:
 
 –  
 Mindestgehalt nach Spalte 2: 65 % CaCO<sub>3</sub>,
@@ -645,8 +624,7 @@ Buchstabe b Spalte 5 darf das Düngemittel
 zusätzlich als AZ-Kalk bezeichnet sein, wenn  
 es mindestens 1 000 wirksame Azotobakter-  
 zellen je g, bewertet nach ihrem Wachstum  
-auf Agarplatten, enthält.  
-Bei der Zugabe von Brennraumasche  
+auf Agarplatten, enthält. Bei der Zugabe von Brennraumasche  
 nach Buchstabe c Spalte 5:
 
 –  
@@ -718,9 +696,7 @@ Dolomit oder Kreide natürlicher Lagerstätten;
 durch Mischen oder Brennen, auch teilweises Brennen,  
 auch Zugabe von Wasser zur Staubbindung
 
-Bezeichnung nach Spalte 1 gilt auch für recarbonatisierten Branntkalk.  
-Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: „Bei der Anwendung in der Forstwirtschaft die hohe Wirkungsintensität beachten“.  
-Bei Zugabe von Wasser zur Staubbindung  
+Bezeichnung nach Spalte 1 gilt auch für recarbonatisierten Branntkalk. Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit dem Hinweis: „Bei der Anwendung in der Forstwirtschaft die hohe Wirkungsintensität beachten“. Bei Zugabe von Wasser zur Staubbindung  
 im Rahmen der Hinweise zur sachgerechten  
 Anwendung Kennzeichnung mit dem Hinweis:  
 „Bei längerer Lagerung verringerte Wirkungs-  
@@ -779,8 +755,7 @@ Rohphosphat
 
 jeweils in die flüssige Schmelze (&gt; 1 400 °C);
 
-Ausgangsstoffe und Art der Herstellung nach Spalte 5 müssen angegeben sein.  
-Bei Zugabe phosphathaltiger Stoffe nach Spalte 5:  
+Ausgangsstoffe und Art der Herstellung nach Spalte 5 müssen angegeben sein. Bei Zugabe phosphathaltiger Stoffe nach Spalte 5:  
 
 –   
 Mindestgehalte nach Spalte 2: 30 % CaO, 3 % P<sub>2</sub>O<sub>5</sub>
@@ -852,10 +827,8 @@ Oxide, Hydroxide, Silicate oder Carbonate von Calcium und
 Magnesium;  
 aus nur einem Stoff nach Anlage 2 Tabelle 6.4
 
-In der Typenbezeichnung ist der Klammerausdruck durch die Bezeichnung nach Anlage 2 Tabelle 6.4 Spalte 1 zu ersetzen.  
-Bei ausschließlicher Verwendung von Aschen pflanzlicher Herkunft nach Anlage 2 Tabelle 7.3 Zeile 7.3.16 Mindestgehalt nach Spalte 2:  
-15 % CaO in der TM.  
-Kalke nach Anlage 2 Tabelle 6 Nummer 6.4.12 und 6.4.13 dürfen abweichend von den Vorgaben zur Herstellung nach Spalte 5 auch mit Kalken nach Tabelle 6 Nummer 6.4.2, 6.4.4 und 6.4.6 gemischt sein.
+In der Typenbezeichnung ist der Klammerausdruck durch die Bezeichnung nach Anlage 2 Tabelle 6.4 Spalte 1 zu ersetzen. Bei ausschließlicher Verwendung von Aschen pflanzlicher Herkunft nach Anlage 2 Tabelle 7.3 Zeile 7.3.16 Mindestgehalt nach Spalte 2:  
+15 % CaO in der TM. Kalke nach Anlage 2 Tabelle 6 Nummer 6.4.12 und 6.4.13 dürfen abweichend von den Vorgaben zur Herstellung nach Spalte 5 auch mit Kalken nach Tabelle 6 Nummer 6.4.2, 6.4.4 und 6.4.6 gemischt sein.
 
 1.5 Vorgaben für Sekundärnährstoffdünger  
   
@@ -1280,8 +1253,7 @@ auch Zugabe von Kohlensaurem Kalk aus Meeralgen
 auch Umhüllung
 
 Beim Mischen von Kaliumnitrat mit Salpetersäure darf das Düngemittel nur in geschlossenen  
-Behältern in den Verkehr gebracht werden.  
-Bei Zugabe von Kohlensaurem Kalk aus  
+Behältern in den Verkehr gebracht werden. Bei Zugabe von Kohlensaurem Kalk aus  
 Meeralgen:
 
 –  
@@ -1375,8 +1347,7 @@ als Suspension: 4.2.1, 4.2.5, 4.2.8
 wasserlösliches Kaliumoxid
 
 Bei den Stickstoffformen 3.2  
-bis 3.10 müssen Gehalte angegeben sein, wenn sie mindestens 1 % betragen.  
-Für Phosphat:  
+bis 3.10 müssen Gehalte angegeben sein, wenn sie mindestens 1 % betragen. Für Phosphat:  
 Gehaltsangaben und weitere Erfordernisse nach Anlage 2 Tabelle 5
 
 Auf chemischem Wege oder durch Mischen (fest), Lösen (Lösung) oder Suspendieren (Suspension) gewonnenes Erzeugnis;  
@@ -1396,10 +1367,8 @@ benzol-Copolymer
 auch Zugabe von Kohlen-  
 saurem Kalk aus Meeralgen
 
-Bei Einschließen in Kapseln ist das Düngemittel als „verkapselt“ zu bezeichnen.  
-Bei Verwendung von Ionenaustauschern ist die Kennzeichnung wie folgt zu ergänzen:  
-„Das Düngemittel ist nach Gebrauch nicht mehr als Stoff nach § 2 des Düngegesetzes, ausgenommen Wiederverwertung zum selben Zweck, zulässig und in Systemen zu verwenden, die eine Entsorgung des gebrauchten Trägermaterials ermöglichen“.  
-Bei Verwendung von Aschen nach Spalte 5:
+Bei Einschließen in Kapseln ist das Düngemittel als „verkapselt“ zu bezeichnen. Bei Verwendung von Ionenaustauschern ist die Kennzeichnung wie folgt zu ergänzen:  
+„Das Düngemittel ist nach Gebrauch nicht mehr als Stoff nach § 2 des Düngegesetzes, ausgenommen Wiederverwertung zum selben Zweck, zulässig und in Systemen zu verwenden, die eine Entsorgung des gebrauchten Trägermaterials ermöglichen“. Bei Verwendung von Aschen nach Spalte 5:
 
 –  
 Mindestgehalt nach Spalte 2 für festen  
@@ -1509,8 +1478,7 @@ oder 5 sowie Düngemittel nach Abschnitt 3;
 auch Zugeben von Spurennährstoffen nach Abschnitt 4.2
 
 Das Düngemittel muss mindestens einen der  
-in Spalte 3 genannten Spurennährstoffe enthalten.  
-Bei Inverkehrbringen für eine Anwendung in  
+in Spalte 3 genannten Spurennährstoffe enthalten. Bei Inverkehrbringen für eine Anwendung in  
 der Landwirtschaft außer Gartenbau Mindestgehalte nach Spalte 2:
 
 –  
@@ -1634,8 +1602,7 @@ Eisenhumat,
 Eisenhuminat;  
 Weichbraunkohle (Leonardit) unter Zugabe von Kaliumhydroxidlösung und Eisensulfatlösung
 
-Zur Blattapplikation.  
-Im Rahmen der Hinweise zur sachgerechten Anwendung muss auf die verlangsamte Wirkung des Eisendüngers hingewiesen sein.
+Zur Blattapplikation. Im Rahmen der Hinweise zur sachgerechten Anwendung muss auf die verlangsamte Wirkung des Eisendüngers hingewiesen sein.
 
 4.2.4
 
@@ -1671,11 +1638,9 @@ Toleranzen:
 
 Bor- und metallhaltige Stoffe, auch in Chelatform, in wasser- und nicht wasserlöslicher Form
 
-Das Düngemittel muss mindestens zwei der in Spalte 3 genannten Spurennährstoffe enthalten.  
-Die Art des Ausgangsmaterials muss angegeben sein.
+Das Düngemittel muss mindestens zwei der in Spalte 3 genannten Spurennährstoffe enthalten. Die Art des Ausgangsmaterials muss angegeben sein.
 
-Entspricht ein Düngemittel einem Düngemitteltyp nach Abschnitt 1 bis 4, darf es nicht als Düngemittel nach diesem Abschnitt gekennzeichnet werden.  
-  
+Entspricht ein Düngemittel einem Düngemitteltyp nach Abschnitt 1 bis 4, darf es nicht als Düngemittel nach diesem Abschnitt gekennzeichnet werden.   
 
  
 
@@ -1760,10 +1725,8 @@ auch in flüssiger Form
 
 Für die Bezeichnung des Düngemittels nach  
 Spalte 1 ist die den enthaltenen Nährstoffen  
-entsprechende Typenbezeichnung zu wählen.  
-
-
-## Anlage 2 – (zu § 1 Nummer 11, § 3 Absatz 1 und 2, § 4 Absatz 1 und 2, § 6 Absatz 1, 2, 5, 6 und 7, § 8 Absatz 3 und 4, § 10)Tabellen
+entsprechende Typenbezeichnung zu wählen. 
+# Anlage 2 – (zu § 1 Nummer 11, § 3 Absatz 1 und 2, § 4 Absatz 1 und 2, § 6 Absatz 1, 2, 5, 6 und 7, § 8 Absatz 3 und 4, § 10)Tabellen
 
 (Fundstelle: BGBl. I 2012, 2512 - 2544)
 
@@ -1785,8 +1748,7 @@ als Hauptbestandteil für Düngemittel nach Anlage 1 Abschnitt 1, 2, 4 und 5 ggf
 1.2  
 die für Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel als Hauptbestandteil zulässigen Ausgangsstoffe (vgl. dazu § 4).
 
-2. Feste Düngemittel ausgenommen Wirtschaftsdünger, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel dürfen nur zerkleinert und streufähig aufbereitet in den Verkehr gebracht werden. Es gilt ein Siebdurchgang von mindestens 90 % ≤ 20 mm unbeschadet anderer spezieller Anforderungen für den Siebdurchgang.  
-  
+2. Feste Düngemittel ausgenommen Wirtschaftsdünger, Bodenhilfsstoffe, Kultursubstrate oder Pflanzenhilfsmittel dürfen nur zerkleinert und streufähig aufbereitet in den Verkehr gebracht werden. Es gilt ein Siebdurchgang von mindestens 90 % ≤ 20 mm unbeschadet anderer spezieller Anforderungen für den Siebdurchgang.   
 
 Ausgenommen davon sind Bodenhilfsstoffe und Kultursubstrate, deren spezieller Anwendungszweck eine gröbere Struktur erfordert. In diesem Fall sind im Rahmen der Hinweise zur sachgerechten Anwendung der spezielle Anwendungszweck sowie dass Anteile, die einen Siebdurchgang von 20 mm überschreiten, enthalten sind, zu kennzeichnen.
 
@@ -1800,8 +1762,7 @@ c) pilzliche Erreger mit widerstandsfähigen Dauerorganen, insbesondere Synchytr
 
 4. Für Stoffe, die der Bioabfallverordnung unterliegen, sind die dort genannten Anforderungen zu erfüllen. Vorschriften dieser Verordnung bleiben hiervon unberührt.
 
-1. Nebenbestandteile sind auch alle Stoffe nach Tabelle 1. Bei Aufbereitungshilfsmitteln nach Tabelle 8.1 und Anwendungshilfsmitteln nach Tabelle 8.2 handelt es sich jedoch um Stoffe, deren Zugabe in der Regel gezielt wegen eines zusätzlichen produktions- oder anwendungstechnischen Nutzens (vgl. § 3 Absatz 1 Nummer 2 und § 4 Absatz 1 Nummer 2) als Hilfsmittel zur Unterstützung der Anwendung oder Aufbereitung erfolgt.  
-Nebenbestandteile einschließlich Fremdstoffe nach Tabelle 8.3, die düngemittelrechtlich keinerlei Nutzen aufweisen, können daher nicht ausschließlich und – von besonders gekennzeichneten Ausnahmen abgesehen – auch nicht überwiegender Bestandteil von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln sein.
+1. Nebenbestandteile sind auch alle Stoffe nach Tabelle 1. Bei Aufbereitungshilfsmitteln nach Tabelle 8.1 und Anwendungshilfsmitteln nach Tabelle 8.2 handelt es sich jedoch um Stoffe, deren Zugabe in der Regel gezielt wegen eines zusätzlichen produktions- oder anwendungstechnischen Nutzens (vgl. § 3 Absatz 1 Nummer 2 und § 4 Absatz 1 Nummer 2) als Hilfsmittel zur Unterstützung der Anwendung oder Aufbereitung erfolgt. Nebenbestandteile einschließlich Fremdstoffe nach Tabelle 8.3, die düngemittelrechtlich keinerlei Nutzen aufweisen, können daher nicht ausschließlich und – von besonders gekennzeichneten Ausnahmen abgesehen – auch nicht überwiegender Bestandteil von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten oder Pflanzenhilfsmitteln sein.
 
 2. Die Tabellen 8.1 und 8.2 sind nicht abschließend, in den Tabellen 8.1 und 8.2 aufgenommene Stoffe nach Spalte 1 können jedoch nur unter den in den Spalten 2 und 3 getroffenen Maßgaben verwendet werden; Tabelle 8.3 ist abschließend gestaltet (siehe insbes. auch § 3 Absatz 1 und § 4 Absatz 1).
 
@@ -2114,8 +2075,7 @@ der jeweiligen Beschreibung des Düngemitteltyps.
 
 6. Bei Kalken – zusätzlich zur Angabe der Gehalte  
 nach Anlage 1 Spalte 2 der jeweiligen Beschreibung des Düngemitteltyps – die Gehalte an basisch  
-wirksamen Bestandteilen, bewertet als CaO.  
-In Klammern darf zusätzlich die Bezeichnung  
+wirksamen Bestandteilen, bewertet als CaO. In Klammern darf zusätzlich die Bezeichnung  
 „Neutralisationswert“ angefügt sein.
 
  
@@ -2401,8 +2361,7 @@ Abschnitt 4.2) enthalten, zusätzliche Angaben im
 Rahmen der Hinweise zur sachgerechten Anwendung:
 
 1. Ergänzung der Kennzeichnung mit den Worten:  
-„Nur bei tatsächlichem Bedarf verwenden.  
-Empfohlene Aufwandmenge nicht überschreiten. “
+„Nur bei tatsächlichem Bedarf verwenden. Empfohlene Aufwandmenge nicht überschreiten. “
 
 2. Angabe einer sachgerechten Anwendungszeit  
 (Vegetationsstand, Wiederholungen) und den  
@@ -2446,8 +2405,7 @@ abfällen mit dem Hinweis: „Bei einer Aufbringung
 auf landwirtschaftlich genutzten Flächen sind  
 Anwendungs- und Mengenbeschränkungen aus  
 abfallrechtlichen Vorschriften (AbfKlärV, BioAbfV)  
-zu beachten“.  
-
+zu beachten“. 
  
 
  
@@ -2455,8 +2413,7 @@ zu beachten“.
 4. Bei Verwendung von Stoffen nach der Verordnung (EG) Nr. 1069/2009 – außer Gülle im Sinne dieser VO – im Rahmen der Hinweise zur sachgerechten Lagerung und Anwendung der Hinweis „Organisches Düngemittel unter Verwendung von tierischen Nebenprodukten – Zugang für Nutztiere zu den behandelten Flächen während eines Zeitraumes von mindestens 21 Tagen nach der Ausbringung verboten“, soweit in Anlage 2 Tabelle 7.2 Spalte 3 nichts anderes bestimmt ist.
 
 Hinweis:  
-Es bestehen ggf. spezifische Anforderungen an Lagerung und Anwendung, die sich aus der Verwendung bestimmter tierischer Nebenprodukte nach der Verordnung (EG) Nr. 1069/2009 ergeben.  
-  
+Es bestehen ggf. spezifische Anforderungen an Lagerung und Anwendung, die sich aus der Verwendung bestimmter tierischer Nebenprodukte nach der Verordnung (EG) Nr. 1069/2009 ergeben.   
   
 
  

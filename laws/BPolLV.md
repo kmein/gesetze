@@ -1,23 +1,17 @@
-# [BPolLV] Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei  (Bundespolizei-Laufbahnverordnung - BPolLV)
-
-Ausfertigungsdatum: 02.12.2011
-
+% Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei  (Bundespolizei-Laufbahnverordnung - BPolLV)
+% Ausfertigungsdatum: 02.12.2011
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Soweit in dieser Verordnung nichts anderes bestimmt ist, gelten für die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der Bundespolizei die Vorschriften der Bundeslaufbahnverordnung.
 
-
-## § 2 – Schwerbehinderte Menschen
+# § 2 – Schwerbehinderte Menschen
 
 § 5 der Bundeslaufbahnverordnung gilt mit der Maßgabe, dass die besonderen gesundheitlichen Anforderungen, die der Polizeivollzugsdienst an Beamtinnen und Beamte stellt, berücksichtigt werden.
 
-
-## § 3 – Gestaltung und Ämter der Laufbahnen
+# § 3 – Gestaltung und Ämter der Laufbahnen
 
 (1) Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei sind
 
@@ -29,13 +23,11 @@ Soweit in dieser Verordnung nichts anderes bestimmt ist, gelten für die Polizei
 
 (2) Die zu den Laufbahnen gehörenden Ämter sowie die ihnen zugeordneten Amtsbezeichnungen ergeben sich aus Anlage 1. Im Übrigen gilt § 9 Absatz 2 der Bundeslaufbahnverordnung.
 
-
-## § 4 – Einrichtung von Vorbereitungsdiensten
+# § 4 – Einrichtung von Vorbereitungsdiensten
 
 Für die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei werden Vorbereitungsdienste eingerichtet. Im Übrigen gilt § 10 Absatz 2 der Bundeslaufbahnverordnung.
 
-
-## § 5 – Einstellung in den Vorbereitungsdienst
+# § 5 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte auf Widerruf in den Vorbereitungsdienst eingestellt. Einstellungsbehörde für den mittleren und gehobenen Polizeivollzugsdienst in der Bundespolizei ist die Bundespolizeiakademie. Einstellungsbehörde für den höheren Polizeivollzugsdienst in der Bundespolizei ist das Bundespolizeipräsidium.
 
@@ -67,25 +59,21 @@ Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf die Bewerberin oder 
 
 Das Bundespolizeipräsidium kann bei erheblichem dienstlichen Interesse Ausnahmen bis zu den Höchstaltersgrenzen nach Absatz 4 Satz 2 auch zulassen, wenn sich der berufliche Werdegang nachweislich aus von der Bewerberin oder dem Bewerber nicht zu vertretenden Gründen in einem solchen Maß verzögert hat, dass die Anwendung der Höchstaltersgrenze nach Absatz 3 unbillig wäre. Ein erhebliches dienstliches Interesse liegt insbesondere vor, wenn die Ausnahme zur Sicherstellung der Erledigung der öffentlichen Aufgaben erforderlich ist.
 
-
-## § 6 – Mittlerer Polizeivollzugsdienst in der Bundespolizei
+# § 6 – Mittlerer Polizeivollzugsdienst in der Bundespolizei
 
 (1) Der Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei dauert zwei Jahre und sechs Monate. Im Übrigen gilt § 12 der Bundeslaufbahnverordnung.
 
 (2) Haben Polizeikommissaranwärterinnen oder Polizeikommissaranwärter die Laufbahnprüfung für den gehobenen Polizeivollzugsdienst endgültig nicht bestanden, kann das Bundespolizeipräsidium auf Vorschlag der Prüfungskommission ihnen die Befähigung für die Laufbahn des mittleren Polizeivollzugsdienstes in der Bundespolizei zuerkennen, wenn sie die dafür erforderlichen Kenntnisse nachgewiesen haben.
 
-
-## § 7 – Gehobener Polizeivollzugsdienst in der Bundespolizei
+# § 7 – Gehobener Polizeivollzugsdienst in der Bundespolizei
 
 Der Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der Bundespolizei dauert drei Jahre und wird in einem modularisierten Diplomstudiengang an der Fachhochschule des Bundes für öffentliche Verwaltung durchgeführt. Im Übrigen gilt § 13 der Bundeslaufbahnverordnung.
 
-
-## § 8 – Höherer Polizeivollzugsdienst in der Bundespolizei
+# § 8 – Höherer Polizeivollzugsdienst in der Bundespolizei
 
 Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespolizei dauert in der Regel zwei Jahre. Er besteht aus einer fachpraktischen Ausbildungsphase und dem Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“ an der Deutschen Hochschule der Polizei. Einstellungsbehörde ist das Bundespolizeipräsidium. Im Übrigen gilt § 14 der Bundeslaufbahnverordnung.
 
-
-## § 9 – Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei bei Besitz einer erforderlichen Hochschulausbildung
+# § 9 – Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei bei Besitz einer erforderlichen Hochschulausbildung
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren und gehobenen Polizeivollzugsdienstes in der Bundespolizei, die eine Hochschulausbildung besitzen, die den Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei eröffnet, können zum Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn sie an einem für Regelbewerberinnen und Regelbewerber vorgesehenen Auswahlverfahren erfolgreich teilgenommen haben.
 
@@ -93,8 +81,7 @@ Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespol
 
 (3) Den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten wird im Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn übertragen, wenn sie den Vorbereitungsdienst erfolgreich abgeschlossen haben.
 
-
-## § 10 – Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei für Bewerberinnen und Bewerber mit einer zweiten Staatsprüfung
+# § 10 – Zugang zum höheren Polizeivollzugsdienst in der Bundespolizei für Bewerberinnen und Bewerber mit einer zweiten Staatsprüfung
 
 (1) Bewerberinnen und Bewerbern für den höheren Polizeivollzugsdienst in der Bundespolizei kann die Laufbahnbefähigung für den höheren Polizeivollzugsdienst in der Bundespolizei zuerkannt werden, wenn sie
 
@@ -106,8 +93,7 @@ Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespol
 
 (2) Während der Probezeit erhalten die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten eine polizeifachliche Unterweisung von mindestens zwölf Monaten Dauer. Das Bundespolizeipräsidium erlässt für die Unterweisung einen Rahmenplan.
 
-
-## § 11 – Einstellung oder Versetzung aus Laufbahnen des Polizeivollzugsdienstes
+# § 11 – Einstellung oder Versetzung aus Laufbahnen des Polizeivollzugsdienstes
 
 (1) Die Einstellung oder die Versetzung in den Polizeivollzugsdienst in der Bundespolizei aus dienstlichen Gründen ist nur zulässig, wenn die Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte die Befähigung für die jeweilige Laufbahn besitzt.
 
@@ -125,8 +111,7 @@ Der Vorbereitungsdienst für den höheren Polizeivollzugsdienst in der Bundespol
 
 (4) Im Übrigen gilt § 44 der Bundeslaufbahnverordnung.
 
-
-## § 12 – Besondere Fachverwendungen
+# § 12 – Besondere Fachverwendungen
 
 (1) Für die besonderen Fachverwendungen im Polizeivollzugsdienst in der Bundespolizei nach Anlage 2 können
 
@@ -162,13 +147,11 @@ b) die Altershöchstgrenze nach § 5 Absatz 3 und 4 nicht überschritten haben.
 
 (5) Sind Personen nach Absatz 1 Nummer 1 oder 4 für eine Verwendung im ärztlichen Dienst als Polizeivollzugsbeamtin oder Polizeivollzugsbeamter des höheren Dienstes in der Bundespolizei vorgesehen, werden sie mit den Aufgaben des Polizeivollzugsdienstes in der Bundespolizei vertraut gemacht. Die Ämter sowie die ihnen zugeordneten Amtsbezeichnungen ergeben sich aus Anlage 1.
 
-
-## § 12a – Altershöchstgrenze für die Verwendungsfortbildung zur Pilotin oder zum Piloten
+# § 12a – Altershöchstgrenze für die Verwendungsfortbildung zur Pilotin oder zum Piloten
 
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der Verwendungsfortbildung zur Pilotin oder zum Piloten im Flugdienst der Bundespolizei nur teilnehmen, wenn sie bei Beginn dieser Fortbildung noch nicht 40 Jahre alt sind.
 
-
-## § 13 – Erprobungszeit
+# § 13 – Erprobungszeit
 
 (1) Die Erprobung auf einem höherwertigen Dienstposten dauert
 
@@ -186,8 +169,7 @@ Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der Verwendungsfo
 
 (4) Im Übrigen gilt § 34 der Bundeslaufbahnverordnung.
 
-
-## § 14 – Fortbildung sowie Erhaltung der körperlichen Leistungsfähigkeit
+# § 14 – Fortbildung sowie Erhaltung der körperlichen Leistungsfähigkeit
 
 (1) Das Bundespolizeipräsidium regelt die dienstliche Fortbildung.
 
@@ -197,8 +179,7 @@ Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte dürfen an der Verwendungsfo
 
 (4) Im Übrigen gilt § 47 der Bundeslaufbahnverordnung.
 
-
-## § 15 – Aufstieg
+# § 15 – Aufstieg
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie erfolgreich an einem Auswahlverfahren teilgenommen haben, Beamtinnen auf Lebenszeit oder Beamte auf Lebenszeit sind und sich seit der erstmaligen Ernennung
 
@@ -220,8 +201,7 @@ Bei der Bemessung der Bewährungszeit sind Zeiten einer Teilzeitbeschäftigung w
 
 (5) Für die Übertragung eines Amtes der neuen Laufbahn gilt § 40 der Bundeslaufbahnverordnung entsprechend. Abweichend davon kann Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die ein Amt der Besoldungsgruppe A 9 mit Amtszulage mindestens ein Jahr innehaben, unmittelbar das Amt einer Polizeioberkommissarin oder eines Polizeioberkommissars übertragen werden.
 
-
-## § 16 – Verkürzter Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
+# § 16 – Verkürzter Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zu einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
@@ -247,8 +227,7 @@ e) erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
 (4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die die Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3 erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11 erreichen. Für die Übertragung eines Amtes der neuen Laufbahn sowie für die Verleihung des ersten Beförderungsamtes gilt § 40 der Bundeslaufbahnverordnung. Abweichend davon kann Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die ein Amt der Besoldungsgruppe A 9 mit Amtszulage mindestens ein Jahr innehaben, unmittelbar das Amt einer Polizeioberkommissarin oder eines Polizeioberkommissars übertragen werden.
 
-
-## § 16a – Verkürzter Aufstieg von Spitzensportlerinnen und Spitzensportlern in den gehobenen Polizeivollzugsdienst in der Bundespolizei
+# § 16a – Verkürzter Aufstieg von Spitzensportlerinnen und Spitzensportlern in den gehobenen Polizeivollzugsdienst in der Bundespolizei
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Spitzensportförderung in der Bundespolizei können zu einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
@@ -276,8 +255,7 @@ Bei der Bemessung der Bewährungszeit sind Zeiten einer Teilzeitbeschäftigung w
 
 (4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Spitzensportförderung der Bundespolizei, die die Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3 erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11 erreichen. Für die Übertragung eines Amtes der neuen Laufbahn und für die Verleihung des ersten Beförderungsamtes gilt § 40 der Bundeslaufbahnverordnung. Abweichend davon kann den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten in der Spitzensportförderung der Bundespolizei, die mindestens ein Jahr ein Amt der Besoldungsgruppe A 9m mit Amtszulage innehaben, das Amt einer Polizeioberkommissarin oder eines Polizeioberkommissars unmittelbar übertragen werden.
 
-
-## § 17 – Verkürzter Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
+# § 17 – Verkürzter Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
 
 (1) Abweichend von § 15 können Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte zu einem verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei zugelassen werden, wenn
 
@@ -309,8 +287,7 @@ e) erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
 (5) Für die Übertragung eines Amtes der neuen Laufbahn und für die Verleihung des ersten Beförderungsamtes gilt § 40 der Bundeslaufbahnverordnung.
 
-
-## § 18 – Ausnahmen für besonders leistungsstarke Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren Polizeivollzugsdienstes in der Bundespolizei
+# § 18 – Ausnahmen für besonders leistungsstarke Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des mittleren Polizeivollzugsdienstes in der Bundespolizei
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren Polizeivollzugsdienstes in der Bundespolizei kann ein Amt der Laufbahn des gehobenen Polizeivollzugsdienstes in der Bundespolizei verliehen werden, wenn
 
@@ -340,8 +317,7 @@ Das Nähere regelt das Bundespolizeipräsidium in ergänzenden Bestimmungen.
 
 (4) Ist das Feststellungsgespräch bei einer Polizeivollzugsbeamtin oder einem Polizeivollzugsbeamten erfolgreich verlaufen, so wird ihr oder ihm im Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn verliehen. Das erste Beförderungsamt in der höheren Laufbahngruppe darf erst verliehen werden, wenn eine Dienstzeit von einem Jahr in dieser Laufbahngruppe zurückgelegt worden ist. Abweichend davon kann Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Amt einer Polizeioberkommissarin oder eines Polizeioberkommissars unmittelbar verliehen werden, wenn sie im Zeitpunkt des Feststellungsgesprächs bereits eine Dienstzeit von einem Jahr in einem Amt der Besoldungsgruppe A 9m mit Amtszulage zurückgelegt haben. Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, denen ein Amt des gehobenen Polizeivollzugsdienstes nach Absatz 1 verliehen worden ist, können höchstens ein Amt der Besoldungsgruppe A 11 erreichen.
 
-
-## Anlage 1 – (zu § 3 Absatz 2)
+# Anlage 1 – (zu § 3 Absatz 2)
 
 (Fundstelle: BGBl. I 2011, 2414)
 
@@ -378,7 +354,6 @@ Medizinaldirektor in der Bundespolizei</td></tr></tbody></table>
 <span id="FnA1-f775922_01"></span><a href="#FnR.FnA1-f775922_01" class="Footnote">*)</a>  
 Eingangsamt
 
-
-## Anlage 2 – (zu § 12 Absatz 1)Bildungsvoraussetzungen für besondere Fachverwendungen im Polizeivollzugsdienst in der Bundespolizei
+# Anlage 2 – (zu § 12 Absatz 1)Bildungsvoraussetzungen für besondere Fachverwendungen im Polizeivollzugsdienst in der Bundespolizei
 
 (Fundstelle: BGBl. I 2020, 667 – 669)

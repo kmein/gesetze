@@ -1,15 +1,11 @@
-# [FlechtwAusbV] Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
-
-Ausfertigungsdatum: 31.03.2006
-
+% Verordnung über die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
+% Ausfertigungsdatum: 31.03.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und auf Grund des § 25 Abs. 1 in Verbindung mit § 26 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074), die durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) neu gefasst worden sind, jeweils auch in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Flechtwerkgestalter/Flechtwerkgestalterin wird
 
@@ -19,32 +15,25 @@ Der Ausbildungsberuf Flechtwerkgestalter/Flechtwerkgestalterin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
-
-## § 4 – Struktur der Berufsausbildung
+# § 4 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einem der Schwerpunkte
 
-A.  
-Korbwaren,
+A. Korbwaren,
 
-B.  
-Flechtmöbel oder
+B. Flechtmöbel oder
 
-C.  
-Flechtobjekte.
+C. Flechtobjekte.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -78,23 +67,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 15. Kundenorientierung.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Schriftlicher Ausbildungsnachweis
+# § 8 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -105,17 +90,13 @@ Herstellen eines Flechtwerks unter Anwendung unterschiedlicher Flechttechniken.
 
 (4) Durch die Durchführung der Arbeitsaufgabe, das Fachgespräch und die schriftliche Bearbeitung der Aufgaben soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Werkstoffe und Arbeitsmittel festlegen, technische Unterlagen nutzen, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung anwenden und seine Vorgehensweise begründen kann.
 
-
-## § 10 – Abschlussprüfung/Gesellenprüfung
+# § 10 – Abschlussprüfung/Gesellenprüfung
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sechs Stunden eine Arbeitsaufgabe I durchführen. Weiterhin soll der Prüfling in insgesamt höchstens 20 Stunden eine Arbeitsaufgabe II, die einem Kundenauftrag entsprechen soll, durchführen und mit praxisüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 25 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann.  
-Für die Arbeitsaufgabe I kommt insbesondere in Betracht:  
-Herstellen von zwei Flechtwerken aus unterschiedlichen Materialien unter Anwendung unterschiedlicher Flechttechniken.  
-Für die Arbeitsaufgabe II kommt insbesondere in Betracht:  
-Gestalten, Herstellen und Präsentieren einer Korbware, eines Flechtmöbels oder Flechtobjektes einschließlich der Verwendung von Ergänzungsteilen sowie der Oberflächenbehandlung.  
-Dem Prüfungsausschuss ist vor Durchführung der Arbeitsaufgabe II der Entwurf zur Genehmigung vorzulegen. Der Entwurf ist nicht Gegenstand der Bewertung. Bei der Arbeitsaufgabe II ist der Schwerpunkt der Ausbildung zu berücksichtigen. Durch die Durchführung der Arbeitsaufgaben, die Dokumentation und das Fachgespräch soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen und kundenorientiert durchführen, den Zusammenhang zwischen Gestaltung, Konstruktion sowie Flechttechniken und Einsatz unterschiedlicher Werk- und Hilfsstoffe berücksichtigen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung ergreifen sowie seine Vorgehensweise begründen kann. Das Ergebnis der Arbeitsaufgabe I ist mit 35 Prozent und das der Arbeitsaufgabe II ist mit 65 Prozent zu gewichten.
+(2) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sechs Stunden eine Arbeitsaufgabe I durchführen. Weiterhin soll der Prüfling in insgesamt höchstens 20 Stunden eine Arbeitsaufgabe II, die einem Kundenauftrag entsprechen soll, durchführen und mit praxisüblichen Unterlagen dokumentieren sowie innerhalb dieser Zeit in insgesamt höchstens 25 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Für die Arbeitsaufgabe I kommt insbesondere in Betracht:  
+Herstellen von zwei Flechtwerken aus unterschiedlichen Materialien unter Anwendung unterschiedlicher Flechttechniken. Für die Arbeitsaufgabe II kommt insbesondere in Betracht:  
+Gestalten, Herstellen und Präsentieren einer Korbware, eines Flechtmöbels oder Flechtobjektes einschließlich der Verwendung von Ergänzungsteilen sowie der Oberflächenbehandlung. Dem Prüfungsausschuss ist vor Durchführung der Arbeitsaufgabe II der Entwurf zur Genehmigung vorzulegen. Der Entwurf ist nicht Gegenstand der Bewertung. Bei der Arbeitsaufgabe II ist der Schwerpunkt der Ausbildung zu berücksichtigen. Durch die Durchführung der Arbeitsaufgaben, die Dokumentation und das Fachgespräch soll der Prüfling zeigen, dass er Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer, organisatorischer und zeitlicher Vorgaben selbstständig planen und kundenorientiert durchführen, den Zusammenhang zwischen Gestaltung, Konstruktion sowie Flechttechniken und Einsatz unterschiedlicher Werk- und Hilfsstoffe berücksichtigen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit, zum Umweltschutz und zur Qualitätssicherung ergreifen sowie seine Vorgehensweise begründen kann. Das Ergebnis der Arbeitsaufgabe I ist mit 35 Prozent und das der Arbeitsaufgabe II ist mit 65 Prozent zu gewichten.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den Prüfungsbereichen Gestaltung, Fertigung sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Gestaltung und Fertigung sind insbesondere praxisbezogene Aufgaben mit verknüpften informationstechnischen, technologischen und mathematischen Sachverhalten zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Flecht- und Gestellmaterialien, Holz, Holzwerk-, Hilfs- und Beschichtungsstoffen sowie von Ergänzungsteilen planen, Werkzeuge, Geräte und Maschinen zuordnen sowie kundenorientiertes Handeln und qualitätssichernde Maßnahmen einbeziehen kann. Den Prüfungsbereichen ist zu Grunde zu legen:
 
@@ -157,18 +138,15 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">20 Prozent.</td><
 
 (7) Die Prüfung ist bestanden, wenn im praktischen und schriftlichen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des schriftlichen Teils der Prüfung müssen mindestens ausreichende Leistungen erbracht worden sein. Weiterhin darf weder in den Arbeitsaufgaben des praktischen Teils noch in dem weiteren Prüfungsbereich des schriftlichen Teils eine ungenügende Leistung erbracht worden sein.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
+# Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Flechtwerkgestalter/zur Flechtwerkgestalterin
 
 (Fundstelle: BGBl. I 2006, 598 - 603)
 

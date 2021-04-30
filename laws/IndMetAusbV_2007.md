@@ -1,15 +1,11 @@
-# [IndMetAusbV 2007] Verordnung über die Berufsausbildung in den industriellen Metallberufen
-
-Ausfertigungsdatum: 23.07.2007
-
+% Verordnung über die Berufsausbildung in den industriellen Metallberufen
+% Ausfertigungsdatum: 23.07.2007
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
   
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -25,13 +21,11 @@ Die Ausbildungsberufe
 
 werden gemäß § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur und Zielsetzung der Berufsausbildung
+# § 3 – Struktur und Zielsetzung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) sollen prozessbezogen vermittelt werden. Diese Qualifikationen sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18, 21 und 22 sowie 25 und 26 nachzuweisen.
 
@@ -65,23 +59,19 @@ Sie sind während der gesamten Ausbildungszeit integriert zu vermitteln. Bei der
 
 (3) Im Rahmen der berufsspezifischen Fachqualifikationen ist die berufliche Handlungskompetenz in mindestens einem Einsatzgebiet durch Qualifikationen zu erweitern und zu vertiefen, die im jeweiligen Geschäftsprozess zur ganzheitlichen Durchführung komplexer Aufgaben befähigt.
 
-
-## § 4 – Ausbildungsplan
+# § 4 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 5 – (weggefallen)
+# § 5 – (weggefallen)
 
 (weggefallen)
 
-
-## § 6 – Abschlussprüfung
+# § 6 – Abschlussprüfung
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsfähigkeit nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 7 – Ausbildungsberufsbild
+# § 7 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
@@ -135,13 +125,11 @@ Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teile
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
-
-## § 8 – Ausbildungsrahmenplan
+# § 8 – Ausbildungsrahmenplan
 
 Die in § 7 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 9 – Teil 1 der Abschlussprüfung
+# § 9 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -163,8 +151,7 @@ kann. Diese Anforderungen sollen durch Herstellen von Rohrleitungen, Anlagen- od
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
-
-## § 10 – Teil 2 der Abschlussprüfung
+# § 10 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 2 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -208,8 +195,7 @@ kann. Zum Nachweis kommen insbesondere Herstellen, Ändern oder Instandhalten vo
 
 (8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
-## § 11 – Ausbildungsberufsbild
+# § 11 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
@@ -261,13 +247,11 @@ kann. Zum Nachweis kommen insbesondere Herstellen, Ändern oder Instandhalten vo
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
-
-## § 12 – Ausbildungsrahmenplan
+# § 12 – Ausbildungsrahmenplan
 
 Die in § 11 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 3 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 13 – Teil 1 der Abschlussprüfung
+# § 13 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -289,8 +273,7 @@ kann. Diese Anforderungen sollen durch Herstellen einer Baugruppe mit steuerungs
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
-
-## § 14 – Teil 2 der Abschlussprüfung
+# § 14 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 3 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -332,8 +315,7 @@ kann. Zum Nachweis kommen insbesondere Herstellen, Einrichten, Ändern, Umrüste
 
 (8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
-## § 15 – Ausbildungsberufsbild
+# § 15 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
@@ -393,13 +375,11 @@ kann. Zum Nachweis kommen insbesondere Herstellen, Einrichten, Ändern, Umrüste
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
-
-## § 16 – Ausbildungsrahmenplan
+# § 16 – Ausbildungsrahmenplan
 
 Die in § 15 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 4 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 17 – Teil 1 der Abschlussprüfung
+# § 17 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -421,8 +401,7 @@ kann. Diese Anforderungen sollen durch Herstellen von Bauteilen und Baugruppen u
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
-
-## § 18 – Teil 2 der Abschlussprüfung
+# § 18 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 4 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -466,8 +445,7 @@ kann. Zum Nachweis kommt insbesondere Herstellen, Montieren und Demontieren von 
 
 (8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
-## § 19 – Ausbildungsberufsbild
+# § 19 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
@@ -523,13 +501,11 @@ kann. Zum Nachweis kommt insbesondere Herstellen, Montieren und Demontieren von 
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
-
-## § 20 – Ausbildungsrahmenplan
+# § 20 – Ausbildungsrahmenplan
 
 Die in § 19 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 5 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 21 – Teil 1 der Abschlussprüfung
+# § 21 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -551,8 +527,7 @@ kann. Diese Anforderungen sollen durch Herstellen von Bauteilen, Fügen zu Baugr
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
-
-## § 22 – Teil 2 der Abschlussprüfung
+# § 22 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 5 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -594,8 +569,7 @@ kann. Zum Nachweis kommt insbesondere Herstellen, Ändern oder Instandhalten von
 
 (8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
-## § 23 – Ausbildungsberufsbild
+# § 23 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
@@ -649,13 +623,11 @@ kann. Zum Nachweis kommt insbesondere Herstellen, Ändern oder Instandhalten von
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach Absatz 1 vermittelt werden können.
 
-
-## § 24 – Ausbildungsrahmenplan
+# § 24 – Ausbildungsrahmenplan
 
 Die in § 23 Absatz 1 genannten Qualifikationen sollen nach der in Anlage 1 und Anlage 6 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 25 – Teil 1 der Abschlussprüfung
+# § 25 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -677,8 +649,7 @@ kann. Diese Anforderungen sollen durch Bearbeiten eines kombinierten Fertigungsa
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 90 Minuten haben.
 
-
-## § 26 – Teil 2 der Abschlussprüfung
+# § 26 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 und der Anlage 6 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -720,8 +691,7 @@ kann. Zum Nachweis kommt insbesondere Durchführen und Überwachen von Fertigung
 
 (8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde in der Prüfungszeit von höchstens 60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
-
-## § 27 – Bestehensregelung
+# § 27 – Bestehensregelung
 
 (1) Für die in dieser Verordnung genannten Ausbildungsberufe gelten jeweils die in den nachfolgenden Absätzen aufgeführten Bestehensregelungen.
 
@@ -741,8 +711,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 (5) Die Prüfungsbereiche Auftrags- und Funktionsanalyse, Fertigungstechnik sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 28 – Zusatzqualifikationen
+# § 28 – Zusatzqualifikationen
 
 Über das jeweilige Ausbildungsberufsbild, das in § 7 Absatz 1, § 11 Absatz 1, § 15 Absatz 1, § 19 Absatz 1 und § 23 Absatz 1 beschrieben ist, hinaus kann die Ausbildung in einer oder mehreren der folgenden Zusatzqualifikationen vereinbart werden:
 
@@ -754,8 +723,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 4. IT-gestützte Anlagenänderung.
 
-
-## § 29 – Gegenstand der Zusatzqualifikationen
+# § 29 – Gegenstand der Zusatzqualifikationen
 
 (1) Gegenstand der Zusatzqualifikation Systemintegration sind die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -765,15 +733,13 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 (4) Gegenstand der Zusatzqualifikation IT-gestützte Anlagenänderung sind die in Anlage 7 Teil D genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 30 – Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+# § 30 – Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
 
 (1) Die Zusatzqualifikation wird auf Antrag des oder der Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten vermittelt worden sind.
 
 (2) Die Prüfung findet im Rahmen von Teil 2 der Abschlussprüfung als gesonderte Prüfung statt.
 
-
-## § 31 – Anforderungen an die Prüfung der Zusatzqualifikation Systemintegration
+# § 31 – Anforderungen an die Prüfung der Zusatzqualifikation Systemintegration
 
 (1) Die Prüfung der Zusatzqualifikation Systemintegration erstreckt sich auf die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -785,8 +751,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 3. Systeme in Betrieb zu nehmen.
 
-
-## § 32 – Anforderungen an die Prüfung der Zusatzqualifikation Prozessintegration
+# § 32 – Anforderungen an die Prüfung der Zusatzqualifikation Prozessintegration
 
 (1) Die Prüfung der Zusatzqualifikation Prozessintegration erstreckt sich auf die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -798,8 +763,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 3. den Gesamtprozess zu testen und Prozessdaten zu dokumentieren.
 
-
-## § 33 – Anforderungen an die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+# § 33 – Anforderungen an die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
 
 (1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren erstreckt sich auf die in Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -811,8 +775,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 3. die Qualität der Produkte zu prüfen und zu sichern.
 
-
-## § 34 – Anforderungen an die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
+# § 34 – Anforderungen an die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung
 
 (1) Die Prüfung der Zusatzqualifikation IT-gestützte Anlagenänderung erstreckt sich auf die in Anlage 7 Teil D genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
 
@@ -824,8 +787,7 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 3. die Qualität der durchgeführten Änderungen zu prüfen und zu sichern.
 
-
-## § 35 – Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+# § 35 – Durchführung und Bestehen der Prüfung der Zusatzqualifikation
 
 (1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
 
@@ -843,23 +805,19 @@ mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereich
 
 (8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
 
-
-## § 36 – Bestandsschutz
+# § 36 – Bestandsschutz
 
 Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, ist die Verordnung über die Berufsausbildung in den industriellen Metallberufen vom 23. Juli 2007 (BGBl. I S. 1599), die durch Artikel 1 der Verordnung vom 1. März 2011 (BGBl. I S. 326) geändert worden ist, weiter anzuwenden.
 
-
-## § 37 – Änderung bestehender Berufsausbildungsverhältnisse
+# § 37 – Änderung bestehender Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, können nach den Vorschriften dieser Verordnung in der ab dem 1. August 2018 geltenden Fassung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht Teil 1 der Abschlussprüfung absolviert hat.
 
-
-## § 38 – Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+# § 38 – Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
 
 Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem 1. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits bestehen, angewendet werden.
 
-
-## Anlage 1 – (zu den §§ 8, 12, 16, 20 und 24) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
+# Anlage 1 – (zu den §§ 8, 12, 16, 20 und 24) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Metallberufen
 
 (Fundstelle: BGBl. I 2018, 989 – 991)
 
@@ -1145,8 +1103,7 @@ a) auftragsspezifische Anforderungen und Informationen beschaffen, prüfen, umse
 
 b) Kunden auf auftragsspezifische Besonderheiten und Sicherheitsvorschriften hinweisen
 
-
-## Anlage 2 – (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
+# Anlage 2 – (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker/zur Anlagenmechanikerin
 
 (Fundstelle: BGBl. I 2018, 992 – 1002)
 
@@ -1158,8 +1115,7 @@ Abschnitt I:
 
 Abschnitt II:
 
-
-## Anlage 3 – (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
+# Anlage 3 – (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Industriemechaniker/zur Industriemechanikerin
 
 (Fundstelle: BGBl. I 2018, 1003 – 1016)
 
@@ -1171,8 +1127,7 @@ Abschnitt I:
 
 Abschnitt II:
 
-
-## Anlage 4 – (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
+# Anlage 4 – (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Konstruktionsmechaniker/zur Konstruktionsmechanikerin
 
 (Fundstelle: BGBl. I 2018, 1017 – 1029)
 
@@ -1184,8 +1139,7 @@ Abschnitt I:
 
 Abschnitt II:
 
-
-## Anlage 5 – (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
+# Anlage 5 – (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Werkzeugmechaniker/zur Werkzeugmechanikerin
 
 (Fundstelle: BGBl. I 2018, 1030 – 1042)
 
@@ -1197,8 +1151,7 @@ Abschnitt I:
 
 Abschnitt II:
 
-
-## Anlage 6 – (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
+# Anlage 6 – (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Zerspanungsmechaniker/zur Zerspanungsmechanikerin
 
 (Fundstelle: BGBl. I 2018, 1043 – 1053)
 
@@ -1210,8 +1163,7 @@ Abschnitt I:
 
 Abschnitt II:
 
-
-## Anlage 7 – (zu § 29) Ausbildungsrahmenplan für die Zusatzqualifikationen
+# Anlage 7 – (zu § 29) Ausbildungsrahmenplan für die Zusatzqualifikationen
 
 (Fundstelle: BGBl. I 2018, 1054 – 1056)
 

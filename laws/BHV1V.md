@@ -1,10 +1,7 @@
-# [BHV1V] Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1  (BHV1-Verordnung)
-
-Ausfertigungsdatum: 25.11.1997
-
+% Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1  (BHV1-Verordnung)
+% Ausfertigungsdatum: 25.11.1997
  
-
-## § 1
+# § 1
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -69,8 +66,7 @@ b) durch serologische Untersuchungsverfahren Antikörper gegen das gE-Glykoprote
 
 Satz 1 Nummer 2 Buchstabe b Doppelbuchstabe aa und bb und Nummer 2 Buchstabe c Doppelbuchstabe aa gelten im Hinblick auf die Verpflichtung zur Impfung oder Nachimpfung nicht im Falle von Rindern, die aus einem BHV1-freien Bestand im Sinne der Nummer 2 Buchstabe a in den Bestand eingestellt worden sind, soweit in diesem Bestand alle Reagenten entfernt worden sind.
 
-
-## § 2 – Impfungen
+# § 2 – Impfungen
 
 (1) Rinder dürfen gegen eine BHV1-Infektion nur mit Impfstoffen geimpft werden, bei deren Herstellung Virusstämme verwendet worden sind, die eine Deletion des Glykoprotein-E-Gens aufweisen und die nicht zur Bildung von gE-Antikörpern im geimpften Rind führen.
 
@@ -86,8 +82,7 @@ Satz 1 Nummer 2 Buchstabe b Doppelbuchstabe aa und bb und Nummer 2 Buchstabe c D
 
 (5) Der Tierhalter hat auf Verlangen der zuständigen Behörde schriftlich oder in elektronischer Form Auskunft über die Anzahl und den Zeitpunkt der durchgeführten Impfungen gegen eine BHV1-Infektion, über die Ohrmarkennummern der geimpften Rinder sowie über den verwendeten BHV1-Impfstoff zu erteilen.
 
-
-## § 2a – Untersuchungen
+# § 2a – Untersuchungen
 
 (1) Der Tierhalter hat, soweit sein Bestand nicht bereits ein BHV1-freier Rinderbestand im Sinne des § 1 Absatz 2 Nummer 1 ist, alle über neun Monate alten Zucht- und Nutzrinder oder, sofern der Bestand zu mindestens 30 vom Hundert aus Kühen besteht, alle über neun Monate alten weiblichen Rinder sowie die zur Zucht vorgesehenen männlichen Rinder im Abstand von längstens zwölf Monaten nach näherer Anweisung der zuständigen Behörde in einer von ihr bestimmten Untersuchungseinrichtung,
 
@@ -107,13 +102,11 @@ anordnen.
 
 (3) Der Tierhalter hat auf Verlangen der zuständigen Behörde schriftlich oder in elektronischer Form Auskunft über die Anzahl, die Art sowie den Zeitpunkt der nach Absatz 1 durchgeführten Untersuchungen sowie das Ergebnis dieser Untersuchungen zu erteilen.
 
-
-## § 2b – Mitteilungspflicht
+# § 2b – Mitteilungspflicht
 
 Die zuständigen obersten Landesbehörden übermitteln dem Bundesministerium jährlich bis zum 1. März des folgenden Jahres nach den Vorgaben des Anhangs IV der Entscheidung 2003/886/EG der Kommission vom 10. Dezember 2003 zur Festlegung der Kriterien für die Übermittlung der Angaben gemäß der Richtlinie 64/432/EWG des Rates (ABl. EU Nr. L 332 S. 53) in der jeweils geltenden Fassung den Stand der BHV1-Sanierung.
 
-
-## § 3 – Verbringen von Rindern
+# § 3 – Verbringen von Rindern
 
 (1) Zucht- und Nutzrinder dürfen aus einem Bestand nur verbracht oder in einen Bestand nur eingestellt werden, wenn sie die Anforderungen des § 1 Absatz 2 Nummer 2 erfüllen und von einer amtstierärztlichen Bescheinigung nach dem Muster der Anlage 2 oder 3 begleitet sind. Satz 1 gilt nicht für Rinder, die
 
@@ -155,8 +148,7 @@ untersucht worden ist. Im Falle der Bescheinigung nach dem Muster der Anlage 3 g
 
 (+++ § 3 Abs. 1 Satz 2 Nr. 5: Zur Anwendung vgl. § 14 +++)
 
-
-## § 4 – Weitergehende Befugnisse der zuständigen Behörde
+# § 4 – Weitergehende Befugnisse der zuständigen Behörde
 
 (1) Die zuständige Behörde kann das Treiben von Rindern, die nicht die Anforderungen des § 1 Absatz 2 Nummer 2 erfüllen, verbieten, soweit es aus Gründen der Seuchenbekämpfung erforderlich ist.
 
@@ -170,8 +162,7 @@ untersucht worden ist. Im Falle der Bescheinigung nach dem Muster der Anlage 3 g
 
 2. Reagenten sowie geimpfte Rinder dauerhaft zu kennzeichnen sind.
 
-
-## § 5 – Schutzmaßregeln
+# § 5 – Schutzmaßregeln
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der BHV1-Infektion in einem Gehöft oder an einem sonstigen Standort gelten vor der amtlichen Feststellung folgende Schutzmaßregeln:
 
@@ -189,8 +180,7 @@ untersucht worden ist. Im Falle der Bescheinigung nach dem Muster der Anlage 3 g
 
 (2) Absatz 1 Nummer 2 gilt nicht für Rinder, die unmittelbar zur Schlachtung oder nach vorheriger Impfung (Grundimmunisierung, sofern die Rinder noch nicht geimpft waren, oder Wiederholungsimpfung entsprechend den Empfehlungen des Impfstoffherstellers) auf betriebseigene Weiden verbracht werden, wobei Kontakte zu Rindern anderer Tierhalter zu verhindern sind.
 
-
-## § 6 – Sperre
+# § 6 – Sperre
 
 (1) Ist der Ausbruch der BHV1-Infektion bei Rindern amtlich festgestellt, so unterliegen das Gehöft oder der sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -226,18 +216,15 @@ untersucht worden ist. Im Falle der Bescheinigung nach dem Muster der Anlage 3 g
 
 (5) Absatz 1 Nummer 5 gilt nicht, soweit abgestoßene oder abgestorbene Früchte, tot geborene Kälber oder Nachgeburten für Untersuchungen benötigt werden.
 
-
-## § 7 – Tötung
+# § 7 – Tötung
 
 Ist der Verdacht des Ausbruchs oder der Ausbruch der BHV1-Infektion in einem Gehöft oder an einem sonstigen Standort amtlich festgestellt, kann die zuständige Behörde die Tötung der seuchenkranken und seuchenverdächtigen Rinder anordnen.
 
-
-## § 8 – Sperrbezirk
+# § 8 – Sperrbezirk
 
 Ist der Ausbruch der BHV1-Infektion bei Rindern in einem Gehöft oder an einem sonstigen Standort amtlich festgestellt, so kann die zuständige Behörde das Gebiet in einem von ihr bestimmten, für die Seuchenbekämpfung erforderlichen Umkreis um das Gehöft oder den sonstigen Standort zum Sperrbezirk erklären und eine amtstierärztliche Untersuchung von Rinderbeständen, einschließlich der Entnahme von Proben zur Untersuchung auf eine BHV1-Infektion, sowie die Impfung von Rindern im Sperrbezirk anordnen. Die zuständige Behörde kann ferner anordnen, dass Rinder nur mit Genehmigung aus dem Sperrbezirk verbracht werden dürfen.
 
-
-## § 9 – Ansteckungsverdacht
+# § 9 – Ansteckungsverdacht
 
 (1) Ist in einem Gehöft oder an einem sonstigen Standort der Ausbruch der BHV1-Infektion amtlich festgestellt, so stellt die zuständige Behörde epidemiologische Nachforschungen an und unterstellt alle Rinder der Gehöfte oder sonstigen Standorte,
 
@@ -251,8 +238,7 @@ worden sein kann, für die Dauer von 30 Tagen der behördlichen Beobachtung. Die
 
 (3) Die zuständige Behörde kann ferner in nach Artikel 10 der Richtlinie 64/432/EWG in der jeweils geltenden Fassung als BHV1-frei anerkannten Gebieten die Tötung ansteckungsverdächtiger Rinder anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
-## § 10 – Reinigung und Desinfektion
+# § 10 – Reinigung und Desinfektion
 
 (1) Nach Entfernung der seuchenkranken und -verdächtigen Rinder hat der Tierhalter unverzüglich nach näherer Anweisung der zuständigen Behörde
 
@@ -262,13 +248,11 @@ worden sein kann, für die Dauer von 30 Tagen der behördlichen Beobachtung. Die
 
 (2) Der Tierhalter hat Futter und Einstreu, die Träger des Seuchenerregers sein können, zu verbrennen oder zusammen mit dem Dung zu packen. Davon abweichend darf der Tierhalter Futter auch einem Behandlungsverfahren, durch das die Abtötung des Seuchenerregers gewährleistet ist, unterwerfen. Der Tierhalter hat den Dung an einem für Rinder unzugänglichen Platz zu packen, nach näherer Anweisung der zuständigen Behörde zu desinfizieren oder mindestens zwei Monate zu lagern. Flüssige Abgänge aus den Rinderställen oder sonstigen Standorten der Rinder hat der Tierhalter nach näherer Anweisung der zuständigen Behörde zu desinfizieren oder mindestens zwei Monate zu lagern. Abweichend von den Sätzen 2 und 3 kann die zuständige Behörde kürzere Lagerzeiten genehmigen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 11 – Ausstellungen, Märkte
+# § 11 – Ausstellungen, Märkte
 
 Wird bei Rindern, die sich auf Ausstellungen, Märkten und Veranstaltungen ähnlicher Art befinden, die BHV1-Infektion amtlich festgestellt oder liegt ein Seuchen- oder Ansteckungsverdacht vor, so kann die zuständige Behörde entsprechend den §§ 5 bis 10 Anordnungen treffen.
 
-
-## § 12 – Aufhebung der Schutzmaßregeln
+# § 12 – Aufhebung der Schutzmaßregeln
 
 (1) Angeordnete Schutzmaßregeln sind aufzuheben, wenn die BHV1-Infektion erloschen ist oder der Verdacht des Ausbruchs der BHV1-Infektion beseitigt ist.
 
@@ -302,8 +286,7 @@ b) sofern die Rinder mit Impfstoffen im Sinne des § 2 Absatz 1 geimpft worden s
 
 untersucht worden sind. Absatz 3 gilt entsprechend.
 
-
-## § 13 – Ordnungswidrigkeiten
+# § 13 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -345,13 +328,11 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 19. entgegen § 6 Absatz 1 Nummer 5 eine Frucht, ein Kalb oder eine Nachgeburt nicht oder nicht rechtzeitig beseitigt und nicht oder nicht rechtzeitig beseitigen lässt.
 
-
-## § 14 – Übergangsvorschriften
+# § 14 – Übergangsvorschriften
 
 § 3 Absatz 1 Satz 3 ist mit Ablauf des 31. Dezember 2005 nicht mehr anzuwenden.
 
-
-## Anlage 1 – (zu § 1 Absatz 2 Nummer 1 Buchstabe a und b)Voraussetzungen, unter denen ein Rinderbestand als frei von einer BHV1-Infektion gilt
+# Anlage 1 – (zu § 1 Absatz 2 Nummer 1 Buchstabe a und b)Voraussetzungen, unter denen ein Rinderbestand als frei von einer BHV1-Infektion gilt
 
 (Fundstelle: BGBl. I 2015, 775 - 777)
 
@@ -381,8 +362,7 @@ c) in den letzten drei Monaten der Verdacht des Ausbruchs der BHV1-Infektion ode
 
 Die serologische Untersuchung nach Satz 1 Buchstabe b muss jeweils in einem Untersuchungsgang durchgeführt werden. Die zuständige Behörde kann in Abhängigkeit von der epidemiologischen Situation den in Satz 1 Buchstabe b vorgesehenen Abstand für die Untersuchung von fünf bis sieben Monaten bis auf maximal zwölf Monate verlängern. Die zuständige Behörde kann ferner, soweit bei der Untersuchung nach Satz 1 Buchstabe b Reagenten festgestellt werden, genehmigen, dass 30 Tage nach Entfernen des letzten Reagenten die im Bestand verbliebenen Rinder nach Satz 1 Buchstabe b Doppelbuchstabe aa oder Doppelbuchstabe bb untersucht werden. Im Rahmen der Genehmigung nach Satz 4 kann die zuständige Behörde die Untersuchung auf eine von ihr festzulegende Kontaktgruppe begrenzen. Soweit die Untersuchung der Rinder nach Satz 4 mit negativem Ergebnis auf Antikörper gegen das gE-Glykoprotein des Virus der BHV1-Infektion durchgeführt worden ist, gelten die Anforderungen des Abschnitts I als erfüllt.
 
-1a.  
-In einem Rinderbestand, der zu weniger als 30 vom Hundert aus Kühen besteht, müssen bei einer serologischen Untersuchung aller weiblichen Rinder und der bis zu neun Monate alten männlichen Rinder frühestens 30 Tage nach Entfernen des letzten Reagenten,
+1a. In einem Rinderbestand, der zu weniger als 30 vom Hundert aus Kühen besteht, müssen bei einer serologischen Untersuchung aller weiblichen Rinder und der bis zu neun Monate alten männlichen Rinder frühestens 30 Tage nach Entfernen des letzten Reagenten,
 
 a) sofern die Rinder nicht gegen eine BHV1-Infektion geimpft worden sind, blut- oder milchserologisch¹ keine Antikörper gegen das Virus der BHV1-Infektion oder,
 
@@ -390,8 +370,7 @@ b) sofern die Rinder mit Impfstoffen im Sinne des § 2 Absatz 1 geimpft worden s
 
 festgestellt worden sein oder der Bestand nur mit BHV1-freien Rindern aufgebaut worden sein. Die zuständige Behörde kann, soweit bei der Untersuchung nach Satz 1 Reagenten festgestellt werden, genehmigen, dass 30 Tage nach Entfernen des letzten Reagenten die im Bestand verbliebenen Rinder nach Satz 1 Buchstabe a oder b untersucht werden. Im Rahmen der Genehmigung nach Satz 2 kann die zuständige Behörde die Untersuchung auf eine von ihr festzulegende Kontaktgruppe begrenzen. Soweit die Untersuchung der Rinder nach Satz 2 mit negativem Ergebnis auf Antikörper gegen das gE-Glykoprotein des Virus der BHV1-Infektion durchgeführt worden ist, gelten die Anforderungen der Nummer 1a als erfüllt. Nummer 1 Satz 1 Buchstabe a und c gilt entsprechend.
 
-1b.  
-In einem Rinderbestand, der zu mehr als 50 vom Hundert aus bis zu neun Monate alten Rindern besteht, müssen, vorbehaltlich des Satzes 4, bei einer Stichprobenuntersuchung der Rinder, die frühestens 30 Tage nach Entfernen des letzten Reagenten erfolgt,
+1b. In einem Rinderbestand, der zu mehr als 50 vom Hundert aus bis zu neun Monate alten Rindern besteht, müssen, vorbehaltlich des Satzes 4, bei einer Stichprobenuntersuchung der Rinder, die frühestens 30 Tage nach Entfernen des letzten Reagenten erfolgt,
 
 a) sofern die Rinder nicht gegen eine BHV1-Infektion geimpft worden sind, blut- oder milchserologisch¹ keine Antikörper gegen das Virus der BHV1-Infektion oder,
 
@@ -455,8 +434,7 @@ Buchstabe b mit einer Wahrscheinlichkeit von 95 vom Hundert und einer Prävalenz
 
 des Bestandes keine Reagenten festgestellt worden sind.
 
-2a.  
-(weggefallen)
+2a. (weggefallen)
 
 3. Für den Fall, dass bei einer Untersuchung
 
@@ -486,8 +464,7 @@ Die Entnahme der Blutproben für die Kontrolluntersuchungen nach Satz 1 Buchstab
 
 -----
 
-
-## Anlage 2 – (zu § 3 Absatz 1 Satz 1)Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rindes
+# Anlage 2 – (zu § 3 Absatz 1 Satz 1)Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rindes
 
 (Fundstelle: BGBl. I 2015, 778)
 
@@ -544,8 +521,7 @@ zuständigen Behörde</td><td style="text-align: center;"><br />
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 3 – (zu § 3 Absatz 1 Satz 1)Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rinderbestandes
+# Anlage 3 – (zu § 3 Absatz 1 Satz 1)Amtstierärztliche Bescheinigung über die BHV1-Freiheit eines Rinderbestandes
 
 (Fundstelle: BGBl. I 2015, 779)
 

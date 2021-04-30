@@ -1,20 +1,15 @@
-# [InsoBekV] Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet
-
-Ausfertigungsdatum: 12.02.2002
-
+% Verordnung zu öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet
+% Ausfertigungsdatum: 12.02.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 2 Satz 2 in Verbindung mit Satz 3 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), der durch Artikel 1 Nr. 2 des Gesetzes vom 26.Oktober 2001 (BGBl. I S. 2710) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Öffentliche Bekanntmachungen in Insolvenzverfahren im Internet haben den Anforderungen dieser Verordnung zu entsprechen. Die Veröffentlichung darf nur die personenbezogenen Daten enthalten, die nach der Insolvenzordnung oder nach anderen Gesetzen, die eine öffentliche Bekanntmachung in Insolvenzverfahren vorsehen, bekannt zu machen sind.
 
-
-## § 2 – Datensicherheit, Schutz vor Missbrauch
+# § 2 – Datensicherheit, Schutz vor Missbrauch
 
 (1) Durch geeignete technische und organisatorische Maßnahmen ist sicherzustellen, dass die Daten
 
@@ -38,8 +33,7 @@ Die Angaben nach Satz 1 Nr. 3 Buchstabe a bis e können unvollständig sein, sof
 
 (2) Als Ergebnis der Abfrage nach Absatz 1 Satz 2 darf zunächst nur eine Übersicht über die ermittelten Datensätze übermittelt werden, die nur die vollständigen Daten nach Absatz 1 Satz 1 Nr. 3 Buchstabe a bis e enthalten darf. Die übrigen nach der Insolvenzordnung zu veröffentlichenden Daten dürfen erst übermittelt werden, wenn der Nutzer den entsprechenden Datensatz aus der Übersicht ausgewählt hat.
 
-
-## § 3 – Löschungsfristen
+# § 3 – Löschungsfristen
 
 (1) Die in einem elektronischen Informations- und Kommunikationssystem erfolgte Veröffentlichung von Daten aus einem Insolvenzverfahren einschließlich des Eröffnungsverfahrens wird spätestens sechs Monate nach der Aufhebung oder der Rechtskraft der Einstellung des Insolvenzverfahrens gelöscht. Wird das Verfahren nicht eröffnet, beginnt die Frist mit der Aufhebung der veröffentlichten Sicherungsmaßnahmen.
 
@@ -47,22 +41,18 @@ Die Angaben nach Satz 1 Nr. 3 Buchstabe a bis e können unvollständig sein, sof
 
 (3) Sonstige Veröffentlichungen nach der Insolvenzordnung werden einen Monat nach dem ersten Tag der Veröffentlichung gelöscht.
 
-
-## § 4 – Einsichtsrecht
+# § 4 – Einsichtsrecht
 
 Die Insolvenzgerichte haben sicherzustellen, dass jedermann von den öffentlichen Bekanntmachungen in angemessenem Umfang unentgeltlich Kenntnis nehmen kann.
 
-
-## § 4a – Anwendbares Recht
+# § 4a – Anwendbares Recht
 
 Die §§ 2 bis 4 gelten entsprechend für den Datenabruf über das Unternehmensregister (§ 8b des Handelsgesetzbuchs).
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

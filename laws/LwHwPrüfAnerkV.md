@@ -1,15 +1,11 @@
-# [LwHwPrüfAnerkV] Verordnung über die Anforderung an die fachliche Eignung und die Anerkennung von Prüfungen zum Nachweis der fachlichen Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft
-
-Ausfertigungsdatum: 01.08.2005
-
+% Verordnung über die Anforderung an die fachliche Eignung und die Anerkennung von Prüfungen zum Nachweis der fachlichen Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft
+% Ausfertigungsdatum: 01.08.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30 Abs. 3 und 4 Nr. 1 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnen das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft und das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Anforderungen an die fachliche Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft
+# § 1 – Anforderungen an die fachliche Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft
 
 Ausbilder und Ausbilderinnen in den Berufen der Landwirtschaft und der Hauswirtschaft besitzen abweichend von § 30 Abs. 2 des Berufsbildungsgesetzes die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten nur, wenn sie
 
@@ -19,8 +15,7 @@ Ausbilder und Ausbilderinnen in den Berufen der Landwirtschaft und der Hauswirts
 
 und eine angemessene Zeit in ihrem Beruf praktisch tätig gewesen sind.
 
-
-## § 2 – Anerkennungen von Prüfungen
+# § 2 – Anerkennungen von Prüfungen
 
 (1) Als Prüfung gemäß § 1 Nr. 1 werden anerkannt:
 
@@ -30,8 +25,7 @@ und eine angemessene Zeit in ihrem Beruf praktisch tätig gewesen sind.
 
 (2) Sonstige Prüfungen vor einer Prüfungsbehörde werden gemäß § 1 Nr. 1 anerkannt, wenn die jeweils zuständige Stelle nach Anhörung des Berufsbildungsausschusses die Gleichwertigkeit mit den Prüfungen gemäß Absatz 1 Nr. 1 oder 2 bescheinigt. § 30 Abs. 6 des Berufsbildungsgesetzes bleibt unberührt.
 
-
-## § 3 – Anforderungen an die Fachschulen und Bildungsgänge
+# § 3 – Anforderungen an die Fachschulen und Bildungsgänge
 
 (1) Errichtung, Betrieb und Einrichtung der Schulen müssen den für sie geltenden Vorschriften des Landesrechts entsprechen. Sie müssen der staatlichen Schulaufsicht unterliegen.
 
@@ -41,13 +35,11 @@ und eine angemessene Zeit in ihrem Beruf praktisch tätig gewesen sind.
 
 (4) Die Dauer der fachschulischen Ausbildung in gestuften Bildungsgängen an Fachschulen im Fachbereich Agrarwirtschaft muss insgesamt mindestens 2.400 Unterrichtsstunden umfassen. Absatz 3 gilt entsprechend.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2 Abs. 1 Nr. 1)Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte Meisterprüfungen
+# Anlage 1 – (zu § 2 Abs. 1 Nr. 1)Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte Meisterprüfungen
 
 (Fundstelle: BGBl. I 2005, 2285;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -75,8 +67,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 \*)  
 Einschließlich der Abschlüsse Meister/Meisterin der städtischen Hauswirtschaft und Meister/Meisterin der ländlichen Hauswirtschaft.
 
-
-## Anlage 2 – (zu § 2 Abs. 1 Nr. 2)Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte fachschulische Bildungsgänge
+# Anlage 2 – (zu § 2 Abs. 1 Nr. 2)Für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft anerkannte fachschulische Bildungsgänge
 
 (Fundstelle: BGBl. I 2005, 2286;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

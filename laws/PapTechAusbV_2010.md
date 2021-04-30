@@ -1,25 +1,19 @@
-# [PapTechAusbV 2010] Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
-
-Ausfertigungsdatum: 20.04.2010
-
+% Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
+% Ausfertigungsdatum: 20.04.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Papiertechnologe/Papiertechnologin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -27,8 +21,7 @@ Die Berufsausbildung gliedert sich in
 
 2. zwei im Ausbildungsvertrag festzulegende Wahlqualifikationen nach § 4 Absatz 2 Abschnitt B.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -146,8 +139,7 @@ Arbeitsorganisation und Kommunikation,
 
 Qualitätssicherung.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Die in Satz 1 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
@@ -155,8 +147,7 @@ Qualitätssicherung.
 
 (3) (weggefallen)
 
-
-## § 6 – Ziel, Aufteilung in zwei Teile und Zeitpunkt der Abschlussprüfung
+# § 6 – Ziel, Aufteilung in zwei Teile und Zeitpunkt der Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -164,8 +155,7 @@ Qualitätssicherung.
 
 (3) Teil 1 der Abschlussprüfung findet im vierten Ausbildungshalbjahr statt. Teil 2 der Abschlussprüfung findet am Ende der Berufsausbildung statt. Den jeweiligen Zeitpunkt legen die zuständigen Prüfungsausschüsse fest.
 
-
-## § 7 – Inhalt von Teil 1 der Abschlussprüfung
+# § 7 – Inhalt von Teil 1 der Abschlussprüfung
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -173,8 +163,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 8 – Prüfungsbereiche von Teil 1 der Abschlussprüfung
+# § 8 – Prüfungsbereiche von Teil 1 der Abschlussprüfung
 
 Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -182,8 +171,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 2. „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“.
 
-
-## § 9 – Prüfungsbereich „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie Qualitätssicherung“
+# § 9 – Prüfungsbereich „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie Qualitätssicherung“
 
 (1) Im Prüfungsbereich „Steuern und Regeln von Anlagen zur Aufbereitung von Roh-, Faser- und Hilfsstoffen sowie Qualitätssicherung“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -203,8 +191,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt für jede Arbeitsaufgabe 60 Minuten.
 
-
-## § 10 – Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“
+# § 10 – Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“
 
 (1) Im Prüfungsbereich „Aufbereiten von Roh-, Faser- und Hilfsstoffen sowie Instandhaltung“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -224,8 +211,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 11 – Inhalt von Teil 2 der Abschlussprüfung
+# § 11 – Inhalt von Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -235,8 +221,7 @@ Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 12 – Prüfungsbereiche von Teil 2 der Abschlussprüfung
+# § 12 – Prüfungsbereiche von Teil 2 der Abschlussprüfung
 
 Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -248,8 +233,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 4. „Wirtschafts- und Sozialkunde“.
 
-
-## § 13 – Prüfungsbereich „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
+# § 13 – Prüfungsbereich „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
 
 (1) Im Prüfungsbereich „Bedienen von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -263,8 +247,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 14 – Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
+# § 14 – Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“
 
 (1) Im Prüfungsbereich „Steuern und Regeln von Anlagen zur Herstellung von Papier, Karton, Pappe und Zellstoff“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -284,8 +267,7 @@ Teil 2 der Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 15 – Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“
+# § 15 – Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“
 
 (1) Im Prüfungsbereich „Durchführen einer betrieblichen Aufgabe“ hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -305,8 +287,7 @@ Die Aufgabe ist so zu erstellen, dass auch die Fertigkeiten, Kenntnisse und Fäh
 
 (3) Die Prüfungszeit beträgt insgesamt 16 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 20 Minuten.
 
-
-## § 16 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
+# § 16 – Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
 (1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ hat der Prüfling nachzuweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -314,8 +295,7 @@ Die Aufgabe ist so zu erstellen, dass auch die Fertigkeiten, Kenntnisse und Fäh
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 17 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -341,8 +321,7 @@ Die Aufgabe ist so zu erstellen, dass auch die Fertigkeiten, Kenntnisse und Fäh
 
 4. in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
-
-## § 18 – Mündliche Ergänzungsprüfung in der Abschlussprüfung
+# § 18 – Mündliche Ergänzungsprüfung in der Abschlussprüfung
 
 (1) Der Prüfling kann in einem Prüfungsbereich der Abschlussprüfung eine mündliche Ergänzungsprüfung beantragen.
 
@@ -364,10 +343,8 @@ Die mündliche Ergänzungsprüfung darf nur in einem einzigen Prüfungsbereich d
 
 (4) Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 19 – Übergangsregelung
+# § 19 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2019 bereits bestehen, ist die Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin vom 20. April 2010 (BGBl. I S. 436), die durch Artikel 1 der Verordnung vom 19. Oktober 2010 (BGBl. I S. 1433) geändert worden ist, weiter anzuwenden.
 
-
-## Anlage – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
+# Anlage – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin

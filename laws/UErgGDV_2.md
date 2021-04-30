@@ -1,15 +1,11 @@
-# [UErgGDV 2] Zweite Durchführungsverordnung zum Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und über die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen (Umstellungsergänzungsgesetz) (Anmeldung von Ansprüchen aus Schuldverschreibungen Berliner Altbanken)
-
-Ausfertigungsdatum: 26.04.1954
-
+% Zweite Durchführungsverordnung zum Gesetz über die Ergänzung von Vorschriften des Umstellungsrechts und über die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen (Umstellungsergänzungsgesetz) (Anmeldung von Ansprüchen aus Schuldverschreibungen Berliner Altbanken)
+% Ausfertigungsdatum: 26.04.1954
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 55 Abs. 2 des Umstellungsergänzungsgesetzes vom 21. September 1953 (Bundesgesetzbl. I S. 1439) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Ansprüche aus vor dem 9. Mai 1945 ausgegebenen Schuldverschreibungen der in der Anlage 1 aufgeführten Berliner Altbanken, für welche geltend gemacht wird, daß das Schuldnerinstitut aus ihnen in Anspruch genommen werden kann, sind vom Berechtigten durch Vermittlung eines Kreditinstitutes (Vermittlungsstelle) bei dem Schuldnerinstitut anzumelden.
 
@@ -19,15 +15,13 @@ Auf Grund des § 55 Abs. 2 des Umstellungsergänzungsgesetzes vom 21. September 
 
 2. aus Auslandsbonds im Sinne des Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952 (Bundesgesetzbl. I S. 553).
 
-
-## § 2
+# § 2
 
 (1) Vermittlungsstelle ist für Ansprüche aus Schuldverschreibungen, die im Wertpapierbereinigungsverfahren angemeldet worden sind, das Kreditinstitut, das als Anmeldestelle tätig geworden ist.
 
 (2) Ist für eine Schuldverschreibung eine Lieferbarkeitsbescheinigung ausgestellt worden und befindet sich die Schuldverschreibung zur Zeit der Anmeldung bei einem Kreditinstitut im Bundesgebiet oder in Berlin (West) in Erstverwahrung, so ist dieses Kreditinstitut Vermittlungsstelle. Für andere Schuldverschreibungen mit Lieferbarkeitsbescheinigung ist das Kreditinstitut Vermittlungsstelle, das die Lieferbarkeitsbescheinigung ausgestellt hat. Ist eine Lieferbarkeitsbescheinigung nach § 48 des Berliner Wertpapierbereinigungsgesetzes ausgestellt worden, so ist Vermittlungsstelle das Kreditinstitut, das als Anmeldestelle im Wertpapierbereinigungsverfahren tätig gewesen ist.
 
-
-## § 3
+# § 3
 
 (1) Ist der Anspruch aus der Schuldverschreibung im Wertpapierbereinigungsverfahren angemeldet worden, so kann die Vermittlungsstelle den Anspruch ohne Auftrag des Berechtigten (§ 1 Abs. 1) für ihn anmelden, sofern sie für denjenigen, der am 1. Oktober 1949 oder an einem nach § 7 Abs. 2 des Altbankengesetzes vom 10. Dezember 1953 (Gesetz- und Verordnungsblatt für Berlin S. 1483) maßgebenden Zeitpunkt Gläubiger war, eine Bestätigung nach den Absätzen 2 bis 7 abgeben und außerdem bestätigen kann, daß sie mit demjenigen, für den sie die Bestätigung abgibt, nach dem 30. September 1949 in unmittelbarer Verbindung gestanden hat.
 
@@ -53,8 +47,7 @@ c) ein Ausweis nach § 15 des Bundesvertriebenengesetzes vom 19. Mai 1953 (Bunde
 
 (7) Ist das Recht noch nicht rechtskräftig anerkannt worden, so ist die Bestätigung nach den Absätzen 2 bis 6 für den Anmelder (§ 14 des Berliner Wertpapierbereinigungsgesetzes) abzugeben.
 
-
-## § 4
+# § 4
 
 Ist für eine Schuldverschreibung eine Lieferbarkeitsbescheinigung ausgestellt worden, so kann die Vermittlungsstelle den Anspruch ohne Auftrag des Berechtigten (§ 1 Abs. 1) für ihn anmelden, sofern sie
 
@@ -70,23 +63,19 @@ b) bei Ausstellung der Lieferbarkeitsbescheinigung nach dem 1. Oktober 1949 für
 
 und ferner bestätigen kann, daß sie mit dieser Person nach dem 30. September 1949 in unmittelbarer Verbindung gestanden hat.
 
-
-## § 5
+# § 5
 
 Die Vermittlungsstelle hat den Berechtigten von einer Anmeldung nach § 3 oder § 4 zu benachrichtigen.
 
-
-## § 6
+# § 6
 
 Ist der Vermittlungsstelle bekannt, daß der Anspruch aus der Schuldverschreibung nach § 5 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz angemeldet worden ist, so soll sie eine Anmeldung nach § 3 oder § 4 nicht vornehmen, solange ihr nicht bekannt ist, daß die Einstellung des Anspruchs in die Umstellungsrechnung abgelehnt worden ist.
 
-
-## § 7
+# § 7
 
 Nimmt der Berechtigte die Anmeldung selbst vor, so hat er Unterlagen über den Wohnsitz oder dauernden Aufenthaltsort, den Sitz oder Ort der Geschäftsleitung desjenigen beizufügen, der am 1. Oktober 1949 oder an einem nach § 7 Abs. 2 des Altbankengesetzes maßgebenden Zeitpunkt Gläubiger war.
 
-
-## § 8
+# § 8
 
 (1) Die Anmeldung ist nach dem Muster AE (Anlage 2) vorzunehmen.
 
@@ -96,18 +85,15 @@ Nimmt der Berechtigte die Anmeldung selbst vor, so hat er Unterlagen über den W
 
 (4) Die Anmeldungen sind in doppelter Ausfertigung bei dem Schuldnerinstitut einzureichen.
 
-
-## § 9
+# § 9
 
 Nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 57 Abs. 1 des Umstellungsergänzungsgesetzes vom 21. September 1953 gilt diese Verordnung auch in Berlin (West).
 
-
-## § 10
+# § 10
 
 Die Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Anlage 1 – Berliner Altbanken, die Schuldverschreibungen ausgegeben haben  (Emissionsinstitute)
+# Anlage 1 – Berliner Altbanken, die Schuldverschreibungen ausgegeben haben  (Emissionsinstitute)
 
 Fundstelle des Originaltextes: BGBl. III 7601-1-2, S 24
 
@@ -177,8 +163,7 @@ Nr. 19 Kursivdruck: Jetzt Berlin W 35, Schöneberger Ufer 65
 Nr. 20 Kursivdruck: Jetzt Berlin-Charlottenburg 2, Kantstr. 18/19  
 Nr. 23 Kursivdruck: Jetzt Frankfurt a. Main, Hochstr. 2
 
-
-## Anlage 2
+# Anlage 2
 
 Fundstelle des Originaltextes: BGBl. Teil III 7601-1-2, S. 25 u. 26
 
@@ -338,8 +323,7 @@ Fundstelle des Originaltextes: BGBl. Teil III 7601-1-2, S. 25 u. 26
     7) Kann diese Bestätigung nicht abgegeben werden, muß die Anmeldung
        von dem Berechtigten erstattet werden. 
 
-
-## Anlage 3
+# Anlage 3
 
 Fundstelle des Originaltextes: BGBl. Teil III 7601-1-2, S. 27 u. 28
 

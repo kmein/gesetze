@@ -1,15 +1,11 @@
-# [RohrFLtgV] Verordnung über Rohrfernleitungsanlagen  (Rohrfernleitungsverordnung)
-
-Ausfertigungsdatum: 27.09.2002
-
+% Verordnung über Rohrfernleitungsanlagen  (Rohrfernleitungsverordnung)
+% Ausfertigungsdatum: 27.09.2002
  
-
-## § 1 – Zweck der Verordnung
+# § 1 – Zweck der Verordnung
 
 Zweck der Verordnung ist es, eine Beeinträchtigung des Wohls der Allgemeinheit zu vermeiden, insbesondere den Menschen und die Umwelt vor schädlichen Einwirkungen durch die Errichtung, die Beschaffenheit und den Betrieb von Rohrfernleitungsanlagen zu schützen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Rohrfernleitungsanlagen, in denen folgende Stoffe befördert werden:
 
@@ -33,15 +29,13 @@ Die Anlagen im Sinne des Satzes 1 umfassen neben den Rohrleitungen auch alle dem
 
 (4) Soweit zwingende Gründe der Verteidigung oder die Erfüllung zwischenstaatlicher Verpflichtungen, insbesondere im Rahmen des NATO-Vertrages, es erfordern, kann das Bundesministerium der Verteidigung nach Richtlinien, die im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit festzulegen sind, für Rohrfernleitungsanlagen, die der Landesverteidigung dienen, sowie der Einrichtungen zu ihrem Betrieb die Anwendung dieser Rechtsverordnung ausschließen oder Ausnahmen von den Anforderungen dieser Rechtsverordnung zulassen. Dabei ist der Schutz vor erheblichen nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben unberührt. Das Bundesministerium der Verteidigung unterrichtet das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit jährlich über die Anwendung dieses Absatzes.
 
-
-## § 3 – Grundsätzliche Anforderungen
+# § 3 – Grundsätzliche Anforderungen
 
 (1) Rohrfernleitungsanlagen müssen so beschaffen sein und betrieben werden, dass eine Beeinträchtigung des Wohls der Allgemeinheit vermieden wird und insbesondere schädliche Einwirkungen auf den Menschen und die Umwelt nicht zu besorgen sind.
 
 (2) Eine Rohrfernleitungsanlage ist entsprechend dem Stand der Technik zu errichten und zu betreiben. Als Stand der Technik im Sinne von Satz 1 gelten insbesondere die Technischen Regeln, die nach § 9 Abs. 5 veröffentlicht werden. Als gleichwertige Regeln der Technik im Sinne von Satz 1 gelten Normen, sonstige Bestimmungen oder technische Vorschriften anderer Mitgliedstaaten der Europäischen Gemeinschaft oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, sofern das geforderte Schutzniveau gleichermaßen dauerhaft erreicht wird.
 
-
-## § 4 – Sonstige Anforderungen
+# § 4 – Sonstige Anforderungen
 
 (1) Der Betreiber einer Rohrfernleitungsanlage hat dafür zu sorgen, dass die Rohrfernleitungsanlage in ordnungsgemäßem Zustand erhalten und fortlaufend überwacht wird. Er hat unverzüglich die notwendigen Instandsetzungsmaßnahmen vorzunehmen.
 
@@ -63,8 +57,7 @@ Der Betreiber hat im Rahmen dieses Systems die für den bestimmungsgemäßen Bet
 
 (5) Zur Erfüllung der Anforderungen nach § 3 und den Absätzen 1 bis 4 kann die zuständige Behörde die im Einzelfall erforderlichen Anordnungen treffen.
 
-
-## § 4a – Anzeigepflicht
+# § 4a – Anzeigepflicht
 
 (1) Wer die Errichtung oder wesentliche Änderung einer Rohrfernleitungsanlage im Sinne von § 2 Absatz 2 Satz 1 Nummer 2 beabsichtigt, hat
 
@@ -82,8 +75,7 @@ Die Frist beginnt, sobald die vollständigen Unterlagen und die gutachtliche Ste
 
 (3) Mit der Errichtung oder wesentlichen Änderung darf erst nach Ablauf der Frist nach Absatz 2, bei einer Beanstandung erst nach Behebung des Mangels begonnen werden. Soweit Teile der Rohrfernleitungsanlage durch eine Beanstandung nicht betroffen sind, kann mit ihrer Errichtung unabhängig von der Beanstandung begonnen werden.
 
-
-## § 5 – Prüfung von Rohrfernleitungsanlagen
+# § 5 – Prüfung von Rohrfernleitungsanlagen
 
 (1) Der Betreiber hat dafür zu sorgen, dass Prüfungen von Rohrfernleitungsanlagen durch Prüfstellen nach § 6
 
@@ -91,8 +83,7 @@ Die Frist beginnt, sobald die vollständigen Unterlagen und die gutachtliche Ste
 
 2. vor erneuter Inbetriebnahme nach einer nach § 2 Abs. 1 zulassungsbedürftigen Änderung oder nach einer nach § 4a Absatz 1 anzeigebedürftigen wesentlichen Änderung,
 
-2a.  
-vor erneuter Inbetriebnahme nach einer nicht zulassungsbedürftigen Änderung
+2a. vor erneuter Inbetriebnahme nach einer nicht zulassungsbedürftigen Änderung
 
 a) die die Funktionsfähigkeit der Rohrfernleitungsanlage durch Schweißen oder Schneiden beeinträchtigt,
 
@@ -114,8 +105,7 @@ durchgeführt werden. Auf Antrag des Betreibers kann aufgrund einer von einer An
 
 (3) Die Prüfstelle hat über das Ergebnis der Prüfungen nach Absatz 1 oder Absatz 2 eine Bescheinigung auszustellen und dem Betreiber und der zuständigen Behörde bei gefährlichen Mängeln unverzüglich, sonst innerhalb von acht Wochen nach Abschluss der Prüfungen vorzulegen. Die zuständige Behörde kann bei der Prüfstelle in die zu einer Prüfung erstellten Prüfprotokolle Einsicht nehmen. Die Prüfstelle hat die bei ihren Prüfungen erstellten Prüfprotokolle für einen Zeitraum von zehn Jahren aufzubewahren. Der Betreiber hat der zuständigen Behörde auf Verlangen betriebliche Unterlagen zur Rohrfernleitungsanlage vorzulegen.
 
-
-## § 6 – Prüfstellen für Rohrfernleitungsanlagen
+# § 6 – Prüfstellen für Rohrfernleitungsanlagen
 
 (1) Prüfstelle ist
 
@@ -147,8 +137,7 @@ Bei der Prüfung des Antrags auf Anerkennung stehen Nachweise aus einem anderen 
 
 (6) Für Prüfungen nach § 5 können die Betreiber bis zum 31. Dezember 2015 auch die Sachverständigen heranziehen, die nach Maßgabe des § 6 in der bis zum 10. Oktober 2008 geltenden Fassung heranzuziehen waren.
 
-
-## § 7 – Schadensfall
+# § 7 – Schadensfall
 
 (1) Im Schadensfall hat der Betreiber unverzüglich Maßnahmen zur Schadensbegrenzung und Schadensbehebung zu ergreifen.
 
@@ -174,8 +163,7 @@ Bei der Prüfung des Antrags auf Anerkennung stehen Nachweise aus einem anderen 
 
 3. ob neue Erkenntnisse vorliegen, die andere oder zusätzliche Schutzvorkehrungen erfordern.
 
-
-## § 8 – Schadensfallvorsorge
+# § 8 – Schadensfallvorsorge
 
 (1) Der Betreiber einer Rohrfernleitungsanlage hat Alarm- und Gefahrenabwehrpläne aufzustellen und fortzuschreiben, in denen die notwendigen Maßnahmen zur Gefahrenabwehr im Schadensfall festgelegt sind. Sie sind auf Verlangen der zuständigen Behörde vorzulegen.
 
@@ -183,8 +171,7 @@ Bei der Prüfung des Antrags auf Anerkennung stehen Nachweise aus einem anderen 
 
 (3) Der Betreiber einer Rohrfernleitungsanlage ist verpflichtet, im Rahmen der Schadensfallvorsorge die betroffenen Gemeinden, Feuerwehr, Polizei und andere Hilfsorganisationen entlang der Trasse über Art, Zweckbestimmung und Verlauf der Rohrfernleitungsanlage, über Gefahren sowie über die transportierten Stoffe zu informieren.
 
-
-## § 8a – Überwachung
+# § 8a – Überwachung
 
 (1) Bedienstete und Beauftragte der zuständigen Behörde sind im Rahmen der Überwachung befugt,
 
@@ -202,8 +189,7 @@ Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundg
 
 (3) (weggefallen)
 
-
-## § 9 – Ausschuss für Rohrfernleitungen
+# § 9 – Ausschuss für Rohrfernleitungen
 
 (1) Beim Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ein Ausschuss für Rohrfernleitungen eingerichtet.
 
@@ -221,8 +207,7 @@ Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundg
 
 (5) Technische Regeln und das Anforderungsprofil nach Absatz 2 Nr. 3 werden vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Bundesanzeiger veröffentlicht.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 3 Buchstabe a des Gesetzes über die Umweltverträglichkeitsprüfung handelt, wer vorsätzlich oder fahrlässig
 
@@ -234,11 +219,9 @@ Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundg
 
 4. entgegen § 4 Abs. 2 Satz 1 eine zusammenfassende Dokumentation nicht oder nicht rechtzeitig erstellt oder nicht oder nicht rechtzeitig fortschreibt,
 
-4a.  
-entgegen § 4a Absatz 1 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+4a. entgegen § 4a Absatz 1 Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
 
-4b.  
-entgegen § 4a Absatz 3 Satz 1 mit der Errichtung oder wesentlichen Änderung einer Rohrfernleitungsanlage beginnt,
+4b. entgegen § 4a Absatz 3 Satz 1 mit der Errichtung oder wesentlichen Änderung einer Rohrfernleitungsanlage beginnt,
 
 5. entgegen § 5 Abs. 1 Satz 1 nicht dafür sorgt, dass eine Prüfung durchgeführt wird,
 
@@ -252,8 +235,7 @@ entgegen § 4a Absatz 3 Satz 1 mit der Errichtung oder wesentlichen Änderung ei
 
 2. entgegen § 8 Abs. 3 eine Information nicht, nicht richtig oder nicht vollständig gibt.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 Für Rohrfernleitungsanlagen, die vor dem 3. Oktober 2002 ordnungsgemäß errichtet und betrieben worden sind oder mit deren ordnungsgemäßer Errichtung vor diesem Zeitpunkt begonnen worden ist, bleiben die Beschaffenheitsanforderungen nach den vor dem 3. Oktober 2002 geltenden Vorschriften maßgebend. Die zuständige Behörde kann anordnen, dass diese Rohrfernleitungsanlagen den Anforderungen an die Beschaffenheit nach dieser Verordnung angepasst werden, wenn
 

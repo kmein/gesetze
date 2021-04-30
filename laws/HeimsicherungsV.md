@@ -1,10 +1,7 @@
-# [HeimsicherungsV] Verordnung über die Pflichten der Träger von Altenheimen, Altenwohnheimen und Pflegeheimen für Volljährige im Falle der Entgegennahme von Leistungen zum Zweck der Unterbringung eines Bewohners oder Bewerbers  (HeimsicherungsV)
-
-Ausfertigungsdatum: 24.04.1978
-
+% Verordnung über die Pflichten der Träger von Altenheimen, Altenwohnheimen und Pflegeheimen für Volljährige im Falle der Entgegennahme von Leistungen zum Zweck der Unterbringung eines Bewohners oder Bewerbers  (HeimsicherungsV)
+% Ausfertigungsdatum: 24.04.1978
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -174,49 +171,41 @@ Inkrafttreten
 
 § 23
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Abs. 4 des Heimgesetzes vom 7. August 1974 (BGBl. I S. 1873) wird im Einvernehmen mit dem Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung regelt die Pflichten des Trägers einer Einrichtung im Sinne des § 1 Abs. 1 des Gesetzes, der Geld oder geldwerte Leistungen zum Zwecke der Unterbringung eines Bewohners oder Bewerbers entgegennimmt (§ 14 Abs. 3 des Gesetzes). Sie gilt auch für Leistungen, die bereits vor Aufnahme des Betriebes einer Einrichtung entgegengenommen werden.
 
 (2) Als Leistungen zum Zwecke der Unterbringung im Sinne des Absatzes 1 Satz 1 gelten Leistungen, die über das laufende Entgelt hinaus zum Bau, zum Erwerb, zur Instandsetzung, zur Ausstattung oder zum Betrieb einer Einrichtung gewährt werden.
 
-
-## § 2 – Begriff des Trägers
+# § 2 – Begriff des Trägers
 
 Träger im Sinne dieser Verordnung sind natürliche oder juristische Personen, die eine Einrichtung im Sinne des § 1 Abs. 1 des Gesetzes betreiben oder die Aufnahme des Betriebes vorbereiten. Träger ist auch der Empfänger von Leistungen im Sinne des § 1, der in einer Einrichtung, für die diese Leistungen verwendet werden sollen, lediglich das Belegungsrecht ausübt.
 
-
-## § 3 – Verpflichtung anderer Personen
+# § 3 – Verpflichtung anderer Personen
 
 Ermächtigt der Träger andere Personen zur Entgegennahme oder Verwendung der Leistungen, so hat er sicherzustellen, daß auch diese Personen die ihm nach dieser Verordnung obliegenden Pflichten erfüllen.
 
-
-## § 4 – Zwingende Vorschriften
+# § 4 – Zwingende Vorschriften
 
 Die Pflichten des Trägers nach dieser Verordnung einschließlich der Pflichten nach § 3 können vertraglich weder ausgeschlossen noch beschränkt werden.
 
-
-## § 5 – Anzeige- und Informationspflicht
+# § 5 – Anzeige- und Informationspflicht
 
 (1) Läßt sich der Träger einer Einrichtung Leistungen im Sinne des § 1 versprechen oder nimmt er solche Leistungen entgegen, so hat er dies der zuständigen Behörde unverzüglich anzuzeigen.
 
 (2) Der Träger einer Einrichtung hat den Vertragspartner rechtzeitig und schriftlich vor Abschluß eines Vertrages über Leistungen im Sinne des § 1 über die sich aus diesem Vertrag ergebenden Rechte und Pflichten, insbesondere über die Sicherung der Rückzahlungsansprüche, zu informieren.
 
-
-## § 6 – Verwendungszweck
+# § 6 – Verwendungszweck
 
 (1) Der Träger darf Leistungen im Sinne des § 1 nur zur Vorbereitung und Durchführung der von den Vertragsparteien bestimmten Maßnahmen verwenden. Diese Maßnahmen müssen sich auf Einrichtungen beziehen, in denen der Leistende oder derjenige, zu dessen Gunsten die Leistung erbracht wird, untergebracht ist oder untergebracht werden soll.
 
 (2) Der Träger darf Leistungen im Sinne des § 1 erst verwenden, wenn die Finanzierung der Maßnahme, für die sie gewährt werden, gesichert und in einem Finanzierungsplan ausgewiesen ist.
 
-
-## § 7 – Beschränkungen
+# § 7 – Beschränkungen
 
 (1) Leistungen im Sinne des § 1 dürfen von dem Träger einer Einrichtung nur bis zu einer Höhe von insgesamt 30 vom Hundert der im Finanzierungsplan ausgewiesenen Kosten der Maßnahmen entgegengenommen werden.
 
@@ -234,8 +223,7 @@ Für die Ermittlung der Eigenleistungen findet § 15 der Zweiten Berechnungsvero
 
 (4) Die zuständige Behörde kann Ausnahmen von Absatz 2 zulassen, wenn der Träger unmittelbar und ausschließlich steuerbegünstigte Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung vom 16. März 1976 (BGBl. I S. 613), zuletzt geändert durch Gesetz vom 28. Februar 1978 (BGBl. I S. 333), verfolgt.
 
-
-## § 8 – Getrennte Verwaltung
+# § 8 – Getrennte Verwaltung
 
 (1) Der Träger hat die ihm gewährten Leistungen im Sinne des § 1 bis zu ihrer bestimmungsmäßigen Verwendung getrennt von seinem Vermögen durch die Einrichtung eines Sonderkontos für Rechnung der einzelnen Bewerber oder Bewohner bei einem Kreditinstitut zu verwalten. Hierbei sind Name und Anschrift des Bewerbers oder des Bewohners anzugeben. Das Kreditinstitut muß eine Erlaubnis zum Geschäftsbetrieb nach dem Gesetz über das Kreditwesen in der Fassung der Bekanntmachung vom 3. Mai 1976 (BGBl. I S. 1121), geändert durch Artikel 72 des Einführungsgesetzes zur Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341), besitzen.
 
@@ -245,13 +233,11 @@ Für die Ermittlung der Eigenleistungen findet § 15 der Zweiten Berechnungsvero
 
 (4) Die Absätze 1 bis 3 gelten nicht, wenn Bürgschaften nach § 12 Abs. 2 geleistet worden sind.
 
-
-## § 9 – Leistungen zum Betrieb
+# § 9 – Leistungen zum Betrieb
 
 Die Vorschriften des § 6 Abs. 2 sowie der §§ 7 und 8 gelten nicht für Leistungen im Sinne des § 1, die zum Betrieb der Einrichtung gewährt werden.
 
-
-## § 10 – Verrechnung, Rückzahlung
+# § 10 – Verrechnung, Rückzahlung
 
 (1) Sollen Leistungen im Sinne des § 1 einschließlich ihrer Zinsen mit dem Entgelt im Sinne des § 14 Abs. 1 Satz 1 des Gesetzes verrechnet werden, so sind Art, Umfang und Zeitpunkt der Verrechnung in dem Heimvertrag festzulegen.
 
@@ -259,8 +245,7 @@ Die Vorschriften des § 6 Abs. 2 sowie der §§ 7 und 8 gelten nicht für Leistu
 
 (3) Wird ein freiwerdender oder freigewordener Heimplatz neu belegt, so sind die Leistungen des bisherigen Bewohners ohne Einhaltung der Frist nach Absatz 2 unverzüglich in dem Umfang zurückzuzahlen, in dem der nachfolgende Bewohner für die Belegung des Heimplatzes eine Leistung im Sinne des § 1 erbracht hat.
 
-
-## § 11 – Sicherheitsleistungen
+# § 11 – Sicherheitsleistungen
 
 (1) Der Träger einer Einrichtung hat bei Entgegennahme von Leistungen im Sinne des § 1 etwaige Ansprüche auf Rückzahlung nach § 14 Abs. 3 des Gesetzes zu sichern. Sicherheiten sind so zu leisten, daß die Gefahr eines nicht unerheblichen finanziellen Ausfalles für den Bewohner oder den Bewerber, insbesondere infolge Zahlungsunfähigkeit des Trägers, ausgeschlossen wird. Sie können insbesondere durch die in § 12 genannten Formen geleistet werden.
 
@@ -272,8 +257,7 @@ Die Vorschriften des § 6 Abs. 2 sowie der §§ 7 und 8 gelten nicht für Leistu
 
 (5) Die Sicherheit ist in dem Umfang aufrechtzuerhalten, in dem Leistungen im Sinne des § 1 nicht verrechnet oder nicht zurückgezahlt worden sind.
 
-
-## § 12 – Formen der Sicherheit
+# § 12 – Formen der Sicherheit
 
 (1) Die Sicherheit kann durch die Bestellung eines Grundpfandrechtes geleistet werden. Dabei darf eine Beleihungsgrenze von 60 vom Hundert des Verkehrswertes in der Regel nicht überschritten werden.
 
@@ -295,20 +279,17 @@ Die Vorschriften des § 6 Abs. 2 sowie der §§ 7 und 8 gelten nicht für Leistu
 
 § 12 Abs. 2 Satz 2 Nr. 4 Kursivdruck: Vgl. jetzt Gesetz über die Beaufsichtigung d. Versicherungsunternehmen (Versicherungsaufsichtsgesetz - VAG) v. 13.10.1983 I 1261
 
-
-## § 13 – Versicherungspflicht
+# § 13 – Versicherungspflicht
 
 (1) Einrichtungen, die mit Leistungen im Sinne des § 1 gebaut, erworben, instandgesetzt, ausgestattet oder betrieben werden, sind bei einem im Bundesgebiet zum Geschäftsbetrieb befugten öffentlichen oder privaten Versicherungsunternehmen in Form einer gleitenden Neuwertversicherung gegen Feuer-, Sturm- und Leitungswasserschäden zu versichern. In gleicher Weise ist für das Inventar der Einrichtung, das der Sicherung von Leistungen im Sinne des § 1 dient, eine Versicherung gegen Feuer, Einbruchdiebstahl und Leitungswasserschäden abzuschließen.
 
 (2) Die Bestellung eines Grundpfandrechtes nach § 12 Abs. 1 ist nur ausreichend, wenn das haftende Grundstück in der in Absatz 1 Satz 1 genannten Form versichert ist.
 
-
-## § 14 – Auskunftspflicht
+# § 14 – Auskunftspflicht
 
 Werden Leistungen im Sinne des § 1 mit dem Entgelt verrechnet, kann der Bewohner einmal jährlich von dem Träger Auskunft über seinen Kontostand verlangen. Bei Vorliegen eines besonderen Grundes ist die Auskunft jederzeit zu erteilen.
 
-
-## § 15 – Rechnungslegung
+# § 15 – Rechnungslegung
 
 (1) Der Träger hat bei Beendigung des Heimvertrages mit einem Bewohner diesem oder dessen Rechtsnachfolger Rechnung zu legen über
 
@@ -320,8 +301,7 @@ Werden Leistungen im Sinne des § 1 mit dem Entgelt verrechnet, kann der Bewohne
 
 (2) Der Träger hat dem Bewohner ferner Rechnung zu legen, wenn die Leistungen des Bewohners durch Verrechnung oder in sonstiger Weise vor Beendigung des Heimvertrages voll zurückgezahlt werden.
 
-
-## § 16 – Prüfung
+# § 16 – Prüfung
 
 (1) Der Träger hat die Einhaltung der in den §§ 5 bis 15 genannten Pflichten für jedes Kalenderjahr, spätestens bis zum 30. September des folgenden Jahres, durch einen geeigneten Prüfer prüfen zu lassen.
 
@@ -331,8 +311,7 @@ Werden Leistungen im Sinne des § 1 mit dem Entgelt verrechnet, kann der Bewohne
 
 (4) Die Kosten der Prüfung übernimmt der Träger.
 
-
-## § 17 – Aufzeichnungspflicht
+# § 17 – Aufzeichnungspflicht
 
 Der Träger hat vom Zeitpunkt der Entgegennahme der Leistungen im Sinne des § 1 prüfungsfähige Aufzeichnungen zu machen sowie Unterlagen und Belege zu sammeln. Aus den Aufzeichnungen und Unterlagen müssen ersichtlich sein
 
@@ -356,8 +335,7 @@ Der Träger hat vom Zeitpunkt der Entgegennahme der Leistungen im Sinne des § 1
 
 10. die Rechnungslegung nach § 15.
 
-
-## § 18 – Prüfer
+# § 18 – Prüfer
 
 (1) Geeignete Prüfer im Sinne des § 16 Abs. 1 Satz 1 sind:
 
@@ -379,8 +357,7 @@ c) sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder
 
 (4) Der Prüfer hat bei Verletzung seiner Pflicht nach Absatz 3 den hieraus entstehenden Schaden zu ersetzen.
 
-
-## § 19 – Prüfungsbericht
+# § 19 – Prüfungsbericht
 
 (1) Das Ergebnis der Prüfung ist unverzüglich nach ihrer Durchführung in einem Prüfungsbericht festzuhalten. Dieser Bericht muß den Vermerk enthalten, ob und gegebenenfalls in welcher Form der Träger gegen die ihm obliegenden Pflichten nach den §§ 5 bis 15 verstoßen hat.
 
@@ -390,8 +367,7 @@ c) sie sich für ihre Prüfungstätigkeit selbständiger Wirtschaftsprüfer oder
 
 (4) Der Träger hat Bewohner oder Bewerber, die Leistungen im Sinne des § 1 gewährt haben, von der Durchführung der Prüfung zu unterrichten. Der Prüfungsbericht kann von ihnen und von einem Vertreter des Heimbeirates eingesehen werden.
 
-
-## § 20 – Ordnungswidrigkeiten
+# § 20 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Heimgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -411,24 +387,20 @@ Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Heimgesetzes handelt, wer vor
 
 8. entgegen § 19 Abs. 3 den Prüfungsbericht nicht zuleitet.
 
-
-## § 21 – Übergangsvorschriften und Befreiungen
+# § 21 – Übergangsvorschriften und Befreiungen
 
 (1) Die Vorschriften der Verordnung finden keine Anwendung auf Leistungen im Sinne des § 1, die vor Inkrafttreten der Verordnung versprochen oder erbracht worden sind.
 
 (2) Die zuständige Behörde kann den Träger einer Einrichtung von den in § 10 Abs. 2 und § 11 der Verordnung festgelegten Pflichten ganz oder teilweise befreien, wenn deren Erfüllung eine im Zeitpunkt des Inkrafttretens dieser Verordnung bereits bestehende Einrichtung in ihrem wirtschaftlichen Bestand gefährdet. Die Befreiung von den Pflichten nach § 11 kann nur befristet erteilt werden.
 
-
-## § 22 – Berlin-Klausel
+# § 22 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
-
-## § 23 – Inkrafttreten
+# § 23 – Inkrafttreten
 
 Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden vierten Kalendermonats in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit

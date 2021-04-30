@@ -1,10 +1,7 @@
-# [SeeUmwVerhV] Verordnung über das umweltgerechte Verhalten in der Seeschifffahrt  (See-Umweltverhaltensverordnung - SeeUmwVerhV)
-
-Ausfertigungsdatum: 13.08.2014
-
+% Verordnung über das umweltgerechte Verhalten in der Seeschifffahrt  (See-Umweltverhaltensverordnung - SeeUmwVerhV)
+% Ausfertigungsdatum: 13.08.2014
  
-
-## § 1 – Ziele
+# § 1 – Ziele
 
 Diese Verordnung regelt
 
@@ -18,8 +15,7 @@ b) AFS-Übereinkommens,
 
 c) Ballastwasser-Übereinkommens.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung bedeuten
 
@@ -29,8 +25,7 @@ c) Ballastwasser-Übereinkommens.
 
 3. Ballastwasser-Übereinkommen: das Internationale Übereinkommen von 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (BGBl. 2013 II S. 42, 44; 2017 II S. 1239) in seiner jeweils innerstaatlich geltenden Fassung,
 
-3a.  
-Übereinkommen von Hongkong: das Internationale Übereinkommen von Hongkong von 2009 über das sichere und umweltgerechte Recycling von Schiffen in seiner jeweils innerstaatlich geltenden Fassung,
+3a. Übereinkommen von Hongkong: das Internationale Übereinkommen von Hongkong von 2009 über das sichere und umweltgerechte Recycling von Schiffen in seiner jeweils innerstaatlich geltenden Fassung,
 
 4. ein Schiff:
 
@@ -64,8 +59,7 @@ e) im Sinne des § 3 ein Schiff nach den Buchstaben a bis d,
 
 (2) Als Bunkerlieferbescheinigung nach Anhang V der Anlage VI des MARPOL-Übereinkommens gilt auch der Tanklieferschein im Sinne des Artikels 4a Absatz 6 der Schwefelrichtlinie.
 
-
-## § 3 – Anwendungsbereich
+# § 3 – Anwendungsbereich
 
 (1) Diese Verordnung gilt
 
@@ -85,8 +79,7 @@ in der jeweils geltenden Fassung,
 
 (3) Für Schiffe der Bundeswehr stellt das Bundesministerium der Verteidigung die Einhaltung dieser Verordnung, soweit es hiervon betroffen ist, durch eigene Vorschriften, Verfahren und Organisationen sicher. Dabei kann auch vom Inhalt der Bestimmungen dieser Verordnung abgewichen werden, soweit dies zur Erfüllung der besonderen Aufgaben der Bundeswehr unter Berücksichtigung des Schutzes der Meeresumwelt erforderlich ist. Diese Verordnung gilt nicht für Kriegsschiffe anderer Staaten.
 
-
-## § 4 – Öltagebuch
+# § 4 – Öltagebuch
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche hat dafür zu sorgen, dass
 
@@ -102,15 +95,13 @@ in der jeweils geltenden Fassung,
 
 (5) Auf Wasserstraßen der Zone 2 in der Nord- und Ostsee gelten für Fahrzeuge, die nach den Bestimmungen des Abfall-Übereinkommens zur Führung des Ölkontrollbuchs verpflichtet sind, die Bestimmungen der Anlage I des MARPOL-Übereinkommens über die Führung des Öltagebuchs als erfüllt, wenn das Ölkontrollbuch ordnungsgemäß geführt ist.
 
-
-## § 5 – Umpumpvorgänge auf See
+# § 5 – Umpumpvorgänge auf See
 
 (1) Der Schiffsführer hat dafür zu sorgen, dass dem örtlich zuständigen Wasserstraßen- und Schifffahrtsamt über dessen Verkehrszentrale über UKW-Sprechfunk oder telefonisch die nach Anlage I Regel 42 Absatz 2 des MARPOL-Übereinkommens vorgeschriebenen Angaben über Umpumpvorgänge rechtzeitig mitgeteilt werden.
 
 (2) Die Durchführung eines Umpumpvorganges auf Seewasserstraßen oder den in § 3 Absatz 1 Nummer 1 bezeichneten Wasserflächen ohne Erlaubnis des örtlich zuständigen Wasserstraßen- und Schifffahrtsamtes ist verboten. Die Erlaubnis ist rechtzeitig schriftlich zu beantragen und kann mit Auflagen verbunden oder unter Bedingungen erteilt werden.
 
-
-## § 6 – Öl, ölhaltige Gemische, Ölrückstände
+# § 6 – Öl, ölhaltige Gemische, Ölrückstände
 
 (1) Unbeschadet der Bestimmungen des Abfall-Übereinkommens ist das Einleiten umweltschädlicher ölhaltiger Gemische auf den in § 3 Absatz 1 Nummer 1 bezeichneten Wasserflächen verboten.
 
@@ -118,8 +109,7 @@ in der jeweils geltenden Fassung,
 
 (3) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche darf nicht zulassen, dass an Rohrleitungen von und zu Tanks für Ölrückstände weitere Verbindungen nach außenbords als genormte Abflussanschlüsse nach Anlage I Regel 13 des MARPOL-Übereinkommens angebracht werden. Als unmittelbare Verbindung nach außenbords gilt auch, wenn eine Umgehung der in der Anlage I Regel 14 Absatz 1 und 2 des MARPOL-Übereinkommens vorgeschriebenen Ölfilteranlage vorhanden ist.
 
-
-## § 7 – Ladungstagebuch
+# § 7 – Ladungstagebuch
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche hat dafür zu sorgen, dass
 
@@ -135,15 +125,13 @@ in der jeweils geltenden Fassung,
 
 (5) Auf Wasserstraßen der Zone 2 in der Nord- und Ostsee gelten für Fahrzeuge, die nach den Bestimmungen des Abfall-Übereinkommens zur Mitführung einer Entladebescheinigung verpflichtet sind, die Bestimmungen der Anlage II des MARPOL-Übereinkommens über die Führung des Ladungstagebuchs als erfüllt, wenn eine gültige Entladebescheinigung mitgeführt ist.
 
-
-## § 8 – Einleiten und vorläufige Bewertung von flüssigen Stoffen
+# § 8 – Einleiten und vorläufige Bewertung von flüssigen Stoffen
 
 (1) Ein Schiff ist bei der Einleitung von Stoffen der Gruppen X, Y oder Z nach Anlage II Regel 6 des MARPOL-Übereinkommens ins Meer nicht in Fahrt im Sinne von Anlage II Regel 13 Absatz 2.1, wenn es die Reise nur zur Einleitung dieser Stoffe durchführt.
 
 (2) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist für die vorläufige Bewertung eines für die Beförderung als Massengut noch nicht eingestuften flüssigen Stoffes nach Anlage II Regel 6 Absatz 3 des MARPOL-Übereinkommens zuständig. Sie kann dafür die Unterstützung des Umweltbundesamtes und des Bundesinstituts für Risikobewertung anfordern.
 
-
-## § 9 – Einleiten von Schiffsabwasser
+# § 9 – Einleiten von Schiffsabwasser
 
 (1) Das Einleiten von Schiffsabwasser ins Meer nach Maßgabe der Anlage IV Regel 11 Absatz 1 Satzteil vor Absatz 1.1 und Absatz 3 Satzteil vor Satz 2 des MARPOL-Übereinkommens ist verboten
 
@@ -167,8 +155,7 @@ b) für die in Buchstabe a bezeichneten Schiffe, die die Bundesflagge führen, a
 
 Das Bundesamt für Seeschifffahrt und Hydrographie kann zur Erleichterung der Durchführung wassersportlicher Veranstaltungen auf Antrag des Veranstalters teilnehmende Fahrzeuge vom Verbot nach Satz 1 befreien und diese Entscheidung mit Bedingungen und – auch nachträglich – mit Auflagen verbinden.
 
-
-## § 10 – Mülltagebuch
+# § 10 – Mülltagebuch
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche hat dafür zu sorgen, dass in das Mülltagebuch nach Anlage V Regel 10 Absatz 3 Satz 1 des MARPOL-Übereinkommens die in Anlage V Regel 10 Absatz 3.1 Satz 1 oder Absatz 3.4 bezeichneten Vorgänge mit den Angaben nach Anlage V Regel 10 Absatz 3.2 eingetragen werden.
 
@@ -186,8 +173,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie kann zur Erleichterung der Du
 
 Wird im Falle des Satzes 1 Nummer 2 das Mülltagebuch als Teil des elektronischen Schiffstagebuchs geführt, gelten die Absätze 1 bis 4 als erfüllt, wenn das elektronische Schiffstagebuch von der zuständigen Stelle des Staates, dessen Flagge das Schiff führt, zugelassen worden ist und in Übereinstimmung damit geführt wird.
 
-
-## § 11 – Aushänge zur Müllbehandlung
+# § 11 – Aushänge zur Müllbehandlung
 
 Anlage V Regel 10 Absatz 1 des MARPOL-Übereinkommens über Aushänge zur Müllbehandlung gilt bei Schiffen mit einer Länge von 12 Metern und mehr und einer Bruttoraumzahl von weniger als 100 oder einer Erlaubnis zur Beförderung von weniger als 15 Personen, die Sportboote oder Traditionsschiffe sind, als erfüllt, wenn
 
@@ -195,13 +181,11 @@ Anlage V Regel 10 Absatz 1 des MARPOL-Übereinkommens über Aushänge zur Müllb
 
 2. die an Bord befindlichen Personen darüber vor Antritt der Fahrt informiert worden sind.
 
-
-## § 12 – Fanggerät
+# § 12 – Fanggerät
 
 Zuständige Behörde für die Meldung nach Anlage V Regel 10 Absatz 6 des MARPOL-Übereinkommens über den Verlust oder das Einbringen von Fanggerät ist das örtlich zuständige Wasserstraßen- und Schifffahrtsamt. Die Meldung hat an die Verkehrszentrale des Wasserstraßen- und Schifffahrtsamtes über UKW-Sprechfunk zu erfolgen.
 
-
-## § 13 – Einhaltung der Anforderungen an niederschwefligen Schiffskraftstoff
+# § 13 – Einhaltung der Anforderungen an niederschwefligen Schiffskraftstoff
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche hat dafür zu sorgen, dass auf den in § 3 Absatz 1 Nummer 1 bezeichneten Wasserflächen und innerhalb eines Emissionsüberwachungsgebiets nur Schiffskraftstoff verfeuert wird, der den in Anlage VI Regel 18 Absatz 3.1.1.1 Satz 1, Absatz 3.1.1.2, 3.1.1.3 oder Absatz 3.2.2.1 in Verbindung mit Regel 14 Absatz 1.2, 1.3, 4.2 oder Absatz 4.3, Regel 18 Absatz 3.2.2.2 oder Absatz 3.2.2.3 des MARPOL-Übereinkommens genannten Anforderungen entspricht.
 
@@ -223,8 +207,7 @@ Zuständige Behörde für die Meldung nach Anlage V Regel 10 Absatz 6 des MARPOL
 
 (8) Die Absätze 1 bis 4 gelten nicht, soweit § 4 Absatz 5 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die zuletzt durch Artikel 1 der Verordnung vom 13. Dezember 2019 (BGBl. I S. 2739) geändert worden ist, anzuwenden ist.
 
-
-## § 14 – Zuständige Behörde
+# § 14 – Zuständige Behörde
 
 Das Bundesamt für Seeschifffahrt und Hydrographie ist
 
@@ -234,8 +217,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie ist
 
 Das Verzeichnis nach Anlage VI Regel 18 Absatz 9.1 des MARPOL-Übereinkommens wird mit den vom Lieferanten beantragten Angaben auf der Internetseite www.bsh.de geführt.
 
-
-## § 15 – Bunkern
+# § 15 – Bunkern
 
 (1) Der Lieferant eines Schiffskraftstoffs oder der für die Lieferung Verantwortliche ist verpflichtet,
 
@@ -257,8 +239,7 @@ Eine Probe ist typisch, wenn sie den Anforderungen des Satzes 1 Nummer 2 oder ei
 
 (3) Das Bundesamt für Seeschifffahrt und Hydrographie kann von der Anwendung der Richtlinie nach Absatz 1 Satz 1 Nummer 2 allgemein oder auf Antrag im Einzelfall Ausnahmen zulassen, wenn andernfalls durch das Ziehen der Probe eine Gefahr für die beteiligten Schiffe, deren Besatzung oder andere Personen besteht.
 
-
-## § 16 – Befahrensregelung
+# § 16 – Befahrensregelung
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche darf mit einem Schiff, das die Flagge eines Mitgliedstaates der Europäischen Union oder einer Vertragspartei des AFS-Übereinkommens führt und das
 
@@ -270,8 +251,7 @@ die ausschließliche Wirtschaftszone, die Seewasserstraßen und die in § 3 Absa
 
 (2) Absatz 1 gilt nicht für Schiffe auf der Fahrt zu einer Einrichtung, um das Bewuchsschutzsystem zu erneuern.
 
-
-## § 17 – Mitführen von Dokumenten
+# § 17 – Mitführen von Dokumenten
 
 Der Schiffsführer ist verpflichtet, nach Maßgabe der Nummern 1 und 2 das jeweils dort genannte Dokument mitzuführen und auf Verlangen der Bediensteten der zuständigen Behörden zur Prüfung auszuhändigen:
 
@@ -283,8 +263,7 @@ b) mit einer Bruttoraumzahl von weniger als 400 und einer Länge von 24 Metern o
 
 2. für Schiffe, die die Flagge eines anderen Staates führen, der nicht Vertragspartei des AFS-Übereinkommens ist, und die einen deutschen Hafen anlaufen oder aus ihm auslaufen, die von der Verwaltung des jeweiligen Flaggenstaates ausgestellte Bestätigung, die Artikel 2 Absatz 4 der Verordnung (EG) Nr. 536/2008 der Kommission vom 13. Juni 2008 mit Durchführungsvorschriften für Artikel 6 Absatz 3 und Artikel 7 der Verordnung (EG) Nr. 782/2003 des Europäischen Parlaments und des Rates über das Verbot zinnorganischer Verbindungen auf Schiffen und zur Änderung dieser Verordnung (ABl. L 156 vom 14.6.2008, S. 10) entsprechen muss.
 
-
-## § 18 – Einleiten von Ballastwasser
+# § 18 – Einleiten von Ballastwasser
 
 (1) Das Einleiten von Ballastwasser ins Meer und in die in § 3 Absatz 1 Nummer 1 bezeichneten Wasserflächen ist verboten, soweit nicht
 
@@ -302,8 +281,7 @@ Dies gilt nicht für Binnenschiffe, die auf den in § 3 Absatz 1 Nummer 1 bezeic
 
 (4) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation und die Wasserschutzpolizeien der Länder unterrichten das Bundesamt für Seeschifffahrt und Hydrographie unter Angabe der in § 9e Absatz 1 Satz 1 Nummer 1, 3, 4 und 6 des Seeaufgabengesetzes genannten Daten über durchgeführte Überprüfungen von Schiffen nach Artikel 9 des Ballastwasser-Übereinkommens oder über aufgedeckte Verstöße im Rahmen der Durchführung des Artikels 10 des Ballastwasser-Übereinkommens, wenn sich daraus Hinweise ergeben, dass das Schiff eine Gefahr für die Umwelt, die menschliche Gesundheit, Sachwerte oder Ressourcen darstellt.
 
-
-## § 19 – Zulassung des Ballastwasser-Behandlungsplans und von Ballastwasser-Behandlungssystemen
+# § 19 – Zulassung des Ballastwasser-Behandlungsplans und von Ballastwasser-Behandlungssystemen
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation lässt den Ballastwasser-Behandlungsplan nach der Anlage Regel B-1 des Ballastwasser-Übereinkommens auf Antrag zu. Dabei beteiligt sie bei Bedarf das Bundesamt für Seeschifffahrt und Hydrographie.
 
@@ -311,8 +289,7 @@ Dies gilt nicht für Binnenschiffe, die auf den in § 3 Absatz 1 Nummer 1 bezeic
 
 (3) Das Bundesamt für Seeschifffahrt und Hydrographie kann auf Antrag das Zulassungszeugnis für ein Ballastwasser-Behandlungssystem ändern, insbesondere die Zulassung auf einen anderen Inhaber übertragen.
 
-
-## § 20 – Mitführen von Dokumenten
+# § 20 – Mitführen von Dokumenten
 
 Der Schiffsführer eines Schiffes, das die Flagge eines Staates führt, der Vertragspartei des Ballastwasser-Übereinkommens ist, ist verpflichtet, folgende Dokumente mitzuführen und auf Verlangen der Bediensteten der zuständigen Behörden zur Prüfung auszuhändigen:
 
@@ -320,8 +297,7 @@ Der Schiffsführer eines Schiffes, das die Flagge eines Staates führt, der Vert
 
 2. das Ballastwasser-Tagebuch nach der Anlage Regel B-2 des Ballastwasser-Übereinkommens.
 
-
-## § 21 – Ballastwasser-Tagebuch
+# § 21 – Ballastwasser-Tagebuch
 
 (1) Der Schiffsführer oder der sonst für den Schiffsbetrieb Verantwortliche hat dafür zu sorgen, dass
 
@@ -337,13 +313,11 @@ Der Schiffsführer eines Schiffes, das die Flagge eines Staates führt, der Vert
 
 (4) Die Anlage Regel B-2 des Ballastwasser-Übereinkommens gilt bei Schiffen, die die Flagge eines Staates führen, der nicht Vertragspartei des Ballastwasser-Übereinkommens ist, als erfüllt, wenn die nach Regel B-2 vorgeschriebenen Eintragungen im Schiffstagebuch oder in einem Ballastwasser-Tagebuch, das dem nach dem Übereinkommen vorgeschriebenen entspricht, und mindestens für den Zeitraum seit Ankunft in dem vorangehenden Anlaufhafen bis zum Verlassen des Geltungsbereichs dieser Verordnung, spätestens beim Einlaufen in die ausschließliche Wirtschaftszone, unverzüglich vollständig und wahrheitsgemäß vorgenommen werden. Wird das Ballastwasser-Tagebuch als Teil des elektronischen Schiffstagebuchs geführt, gelten die Absätze 1 bis 3 als erfüllt, wenn das elektronische Schiffstagebuch von der zuständigen Stelle des Staates, dessen Flagge das Schiff führt, zugelassen und in Übereinstimmung damit geführt worden ist.
 
-
-## § 22 – Ballastwasser-Austauschgebiete
+# § 22 – Ballastwasser-Austauschgebiete
 
 Das Bundesamt für Seeschifffahrt und Hydrographie kann Ballastwasser-Austauschgebiete im Sinne der Anlage Regel B-4 des Ballastwasser-Übereinkommens nach Maßgabe der Richtlinien für die Festlegung von Gebieten für den Ballastwasser-Austausch (VkBl. 2011 S. 236) bestimmen. Dabei hört es vor der Konsultation angrenzender Staaten die betroffenen Küstenländer, das Umweltbundesamt und das Bundesinstitut für Risikobewertung an.
 
-
-## § 23 – Besichtigungen und Überprüfungen
+# § 23 – Besichtigungen und Überprüfungen
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation führt die Besichtigungen und Überprüfungen gemäß der Verordnung (EU) Nr. 1257/2013 und gemäß dem Übereinkommen von Hongkong durch oder ermächtigt anerkannte Organisationen, diese Besichtigungen und Überprüfungen durchzuführen.
 
@@ -351,15 +325,13 @@ Das Bundesamt für Seeschifffahrt und Hydrographie kann Ballastwasser-Austauschg
 
 (3) Erneuerungsbesichtigungen sind alle fünf Jahre durchzuführen.
 
-
-## § 24 – Inventarbescheinigung und Recyclingfähigkeitsbescheinigung
+# § 24 – Inventarbescheinigung und Recyclingfähigkeitsbescheinigung
 
 (1) Inventarbescheinigungen und Recyclingfähigkeitsbescheinigungen werden von der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ausgestellt. In den Fällen des Artikels 9 Absatz 2 bis 4 der Verordnung (EU) Nr. 1257/2013 bestätigt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation oder eine von ihr ermächtigte anerkannte Organisation bestehende Inventarbescheinigungen und Recyclingfähigkeitsbescheinigungen mit einem entsprechenden Sichtvermerk. Die Inventarbescheinigung wird für einen Zeitraum von fünf Jahren ausgestellt.
 
 (2) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation kann die Geltungsdauer der Inventarbescheinigungen und Recyclingfähigkeitsbescheinigungen nach Maßgabe des Artikels 9 Absatz 7 und 8 sowie des Artikels 10 Absatz 5 der Verordnung (EU) Nr. 1257/2013 verlängern.
 
-
-## § 25 – Hafenstaatkontrolle
+# § 25 – Hafenstaatkontrolle
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation überprüft im Rahmen der Hafenstaatkontrolle nach § 6 Absatz 1 des Seeaufgabengesetzes in Verbindung mit § 12 der Schiffssicherheitsverordnung auch, ob eine der folgenden Bescheinigungen an Bord mitgeführt wird:
 
@@ -369,8 +341,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie kann Ballastwasser-Austauschg
 
 (2) Sofern im Rahmen der Hafenstaatkontrolle eine gültige Recyclingfähigkeitsbescheinigung vorgelegt werden kann, steht diese der Inventarbescheinigung gleich.
 
-
-## § 26 – Aufgaben des Bundesamts für Seeschifffahrt und Hydrographie
+# § 26 – Aufgaben des Bundesamts für Seeschifffahrt und Hydrographie
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist Kontaktstelle für sämtliche Anfragen im Zusammenhang mit in diesem Abschnitt geregelten Angelegenheiten. Sie benennt mindestens eine Kontaktperson, die dafür zuständig ist, natürliche oder juristische Personen, die um Auskunft ersuchen, zu informieren und zu beraten.
 
@@ -380,8 +351,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie kann Ballastwasser-Austauschg
 
 (4) Das Bundesamt für Seeschifffahrt und Hydrographie erstellt die Berichte nach Maßgabe des Artikels 21 Absatz 1 der Verordnung (EU) Nr. 1257/2013 und des Artikels 12 des Übereinkommens von Hongkong für das Bundesministerium für Verkehr und digitale Infrastruktur. Das Bundesministerium für Verkehr und digitale Infrastruktur leitet die jeweiligen Berichte an die Europäische Kommission und die Internationale Seeschifffahrts-Organisation weiter.
 
-
-## § 27 – Aufgaben der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
+# § 27 – Aufgaben der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
 
 (1) Für die deutsche Flaggenstaatsverwaltung ist die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation die zuständige Verwaltung,
 
@@ -403,8 +373,7 @@ Die Übermittlung des Verzeichnisses erfolgt jeweils zum 31. März des Jahres f�
 
 (3) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation übermittelt dem Bundesamt für Seeschifffahrt und Hydrographie alle drei Jahre, jeweils bis zum 31. März des nach dem Berichtzeitraums liegenden Jahres, die Informationen, die nach Artikel 21 Absatz 1 Buchstabe a und b der Verordnung (EU) Nr. 1257/2013 erforderlich sind.
 
-
-## § 28 – Ordnungswidrigkeiten
+# § 28 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -494,8 +463,7 @@ Die Übermittlung des Verzeichnisses erfolgt jeweils zum 31. März des Jahres f�
 
 21. als Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher entgegen Anlage V Regel 10 Absatz 2 Satz 1 in Verbindung mit Satz 2 oder Satz 3 einen Müllbehandlungsplan nicht, nicht richtig oder nicht vollständig mitführt,
 
-21a.  
-als Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher entgegen Anlage V Regel 10 Absatz 3 Unterabsatz 3 ein Mülltagebuch nicht, nicht richtig oder nicht mindestens zwei Jahre aufbewahrt,
+21a. als Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher entgegen Anlage V Regel 10 Absatz 3 Unterabsatz 3 ein Mülltagebuch nicht, nicht richtig oder nicht mindestens zwei Jahre aufbewahrt,
 
 22. als Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher entgegen Anlage V Regel 10 Absatz 6 eine dort genannte Meldung nicht, nicht richtig, nicht vollständig oder nicht unverzüglich macht,
 
@@ -527,13 +495,11 @@ als Schiffsführer oder sonst für den Schiffsbetrieb Verantwortlicher entgegen 
 
 übertragen.
 
-
-## § 29 – Bekanntmachungserlaubnis
+# § 29 – Bekanntmachungserlaubnis
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann den jeweils geltenden Wortlaut der amtlichen deutschen Fassung des MARPOL-Übereinkommens, des AFS-Übereinkommens und des Ballastwasser-Übereinkommens im Verkehrsblatt bekannt machen.
 
-
-## § 30 – Übergangsvorschrift zur Anwendung der Verordnung (EU) Nr. 1257/2013
+# § 30 – Übergangsvorschrift zur Anwendung der Verordnung (EU) Nr. 1257/2013
 
 (1) Die Vorschriften der Verordnung (EU) Nr. 1257/2013, die sich auf die Zulassung des Recyclings von Schiffen in den in der europäischen Liste aufgeführten Abwrackeinrichtungen beziehen, sind in Verbindung mit den Vorschriften des Abschnitts 4a anzuwenden.
 

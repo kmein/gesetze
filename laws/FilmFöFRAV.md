@@ -1,15 +1,11 @@
-# [FilmFöFRAV] Verordnung zur verstärkten Förderung deutsch-französischer Filmvorhaben
-
-Ausfertigungsdatum: 10.08.1981
-
+% Verordnung zur verstärkten Förderung deutsch-französischer Filmvorhaben
+% Ausfertigungsdatum: 10.08.1981
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 32 Abs. 6 Satz 3 des Filmförderungsgesetzes vom 25. Juni 1979 (BGBl. I S. 803) wird nach Anhörung der Filmförderungsanstalt verordnet:
 
-
-## § 1 – Art und Höhe der Förderungshilfe
+# § 1 – Art und Höhe der Förderungshilfe
 
 (1) Zur verstärkten Förderung deutsch-französischer Filmvorhaben, die in Gemeinschaftsproduktion im Sinne des Filmförderungsgesetzes hergestellt werden, gewährt die Filmförderungsanstalt zinslose Darlehen von mindestens 100.000 Deutsche Mark und höchstens 200.000 Deutsche Mark. Diese können auch zusätzlich zu einer Förderung nach § 32 Abs. 1 des Filmförderungsgesetzes gewährt werden.
 
@@ -19,8 +15,7 @@ Auf Grund des § 32 Abs. 6 Satz 3 des Filmförderungsgesetzes vom 25. Juni 1979 
 
 (4) Im übrigen richtet sich die Förderung der Filmvorhaben nach den Vorschriften des Filmförderungsgesetzes.
 
-
-## § 2 – Art und Zahl der Filmvorhaben
+# § 2 – Art und Zahl der Filmvorhaben
 
 Gefördert werden jährlich bis zu sechs Filmvorhaben. Die Anzahl der im Jahr geförderten Filmvorhaben mit deutscher und mit französischer Mehrheitsbeteiligung muß gleich sein. Dabei wird für jede Seite je ein Filmvorhaben pro Jahr mit Minderheitsbeteiligung wie ein Filmvorhaben mit Mehrheitsbeteiligung behandelt, wenn
 
@@ -28,17 +23,14 @@ Gefördert werden jährlich bis zu sechs Filmvorhaben. Die Anzahl der im Jahr ge
 
 2. die Voraussetzungen des Satzes 2 sonst nicht erfüllt werden könnten.
 
-
-## § 3 – Berlin-Klausel
+# § 3 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 76 des Filmförderungsgesetzes auch im Land Berlin.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft

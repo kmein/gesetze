@@ -1,10 +1,7 @@
-# [RWBestV 2005] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2005  (Rentenwertbestimmungsverordnung 2005 - RWBestV 2005)
-
-Ausfertigungsdatum: 06.06.2005
-
+% Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2005  (Rentenwertbestimmungsverordnung 2005 - RWBestV 2005)
+% Ausfertigungsdatum: 06.06.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -19,26 +16,22 @@ des § 26 in Verbindung mit § 23 Abs. 4 und des § 105 des Gesetzes über die A
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+# § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt vom 1. Juli 2005 an 26,13 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt vom 1. Juli 2005 an 22,97 Euro.
 
-
-## § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+# § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt vom 1. Juli 2005 an 12,06 Euro.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt vom 1. Juli 2005 an 10,60 Euro.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

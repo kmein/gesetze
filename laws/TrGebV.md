@@ -1,30 +1,23 @@
-# [TrGebV] Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister  (Transparenzregistergebührenverordnung - TrGebV)
-
-Ausfertigungsdatum: 08.01.2020
-
+% Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister  (Transparenzregistergebührenverordnung - TrGebV)
+% Ausfertigungsdatum: 08.01.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) und auf Grund des § 24 Absatz 3 des Geldwäschegesetzes, der durch Artikel 1 Nummer 23 Buchstabe d des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2602) geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Gebührenerhebung
+# § 1 – Gebührenerhebung
 
 Die registerführende Stelle erhebt für individuell zurechenbare öffentliche Leistungen nach Abschnitt 4 des Geldwäschegesetzes Gebühren nach der Anlage (Gebührenverzeichnis).
 
-
-## § 2 – Gebührenerhebung bei Rechtsgestaltungen
+# § 2 – Gebührenerhebung bei Rechtsgestaltungen
 
 Nimmt eine Rechtsgestaltung nach § 21 des Geldwäschegesetzes eine individuell zurechenbare öffentliche Leistung in Anspruch, so ist der Gebührenschuldner der Verwalter des Trusts nach § 21 Absatz 1 des Geldwäschegesetzes oder der Treuhänder nach § 21 Absatz 2 des Geldwäschegesetzes.
 
-
-## § 3 – Tragung der Gebühren durch Dachverbände
+# § 3 – Tragung der Gebühren durch Dachverbände
 
 Die registerführende Stelle kann mit Dachverbänden von eingetragenen Vereinen Vereinbarungen treffen, wonach die Dachverbände die Jahresgebühren im Namen der bei ihnen eingetragenen Mitgliedsvereine und für diese mit befreiender Wirkung tragen können. Die befreiende Wirkung tritt mit Zahlung ein. Die Dachverbände legen der registerführenden Stelle jeweils im Zeitpunkt der Zahlung eine aktuelle Liste der Mitgliedsvereine vor, für die die Jahresgebühren getragen werden. Die registerführende Stelle gleicht diese Mitgliedsliste mit ihren Gebührenschuldnern ab.
 
-
-## § 4 – Verfahren für eine Gebührenbefreiung bei steuerbegünstigten Zwecken
+# § 4 – Verfahren für eine Gebührenbefreiung bei steuerbegünstigten Zwecken
 
 (1) Ein Antrag auf Gebührenbefreiung nach § 24 Absatz 1 Satz 2 des Geldwäschegesetzes kann nur in einer von der registerführenden Stelle vorgegebenen elektronischen Form gestellt werden. Die registerführende Stelle stellt hierzu eine Möglichkeit der Antragstellung per E-Mail oder über die Internetseite des Transparenzregisters zur Verfügung.
 
@@ -32,8 +25,7 @@ Die registerführende Stelle kann mit Dachverbänden von eingetragenen Vereinen 
 
 (3) Die Vereinigung wird für die Gebührenjahre von der Jahresgebühr befreit, für die ein steuerbegünstigter Zweck im Sinne der §§ 52 bis 54 der Abgabenordnung nachgewiesen und der Antrag rechtzeitig gestellt wurde. Wird der Antrag im Laufe eines begonnenen Gebührenjahres gestellt, gilt die Befreiung für das gesamte Gebührenjahr. Eine rückwirkende Befreiung für vor dem Jahr der Antragstellung liegende Gebührenjahre ist nicht möglich.
 
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.
 
@@ -41,8 +33,7 @@ Die registerführende Stelle kann mit Dachverbänden von eingetragenen Vereinen 
 
 (3) Gleichzeitig mit dem Inkrafttreten nach Absatz 1 tritt die Transparenzregistergebührenverordnung vom 19. Dezember 2017 (BGBl. I S. 3982) außer Kraft.
 
-
-## Anlage – (zu § 1)Gebührenverzeichnis
+# Anlage – (zu § 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2020, 95)
 

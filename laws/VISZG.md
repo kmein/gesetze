@@ -1,20 +1,15 @@
-# [VISZG] Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten zum Visa-Informationssystem  (VIS-Zugangsgesetz - VISZG)
-
-Ausfertigungsdatum: 06.05.2009
-
+% Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten zum Visa-Informationssystem  (VIS-Zugangsgesetz - VISZG)
+% Ausfertigungsdatum: 06.05.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Unmittelbare Anwendbarkeit
+# § 1 – Unmittelbare Anwendbarkeit
 
 Die Bestimmungen des Beschlusses 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten (ABl. EU Nr. L 218 S. 129) sind anwendbar.
 
-
-## § 2 – Zugangsberechtigte Behörden und zentrale Zugangsstellen
+# § 2 – Zugangsberechtigte Behörden und zentrale Zugangsstellen
 
 (1) Der Bund und die Länder bestimmen die Polizeibehörden, Strafverfolgungsbehörden und Nachrichtendienste, die zum Zwecke der Verhütung, Aufdeckung und Ermittlung von terroristischen Straftaten oder sonstigen schwerwiegenden Straftaten zum Zugang zum Visa-Informationssystem berechtigt sind.
 
@@ -22,8 +17,7 @@ Die Bestimmungen des Beschlusses 2008/633/JI des Rates vom 23. Juni 2008 über d
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat erstellt in Abstimmung mit den Ländern eine Liste der zentralen Zugangsstellen, eine Liste der zugangsberechtigten Behörden sowie eine Liste der Organisationseinheiten, die innerhalb der zugangsberechtigten Behörden zum Zugang zum Visa-Informationssystem ermächtigt sind. Die Länder teilen die erforderlichen Angaben sowie jede nachträgliche Änderung dem Bundesministerium des Innern, für Bau und Heimat mit. Das Bundesministerium des Innern, für Bau und Heimat übermittelt die Listen der zugangsberechtigten Behörden und der zentralen Zugangsstellen sowie jede nachträgliche Änderung an die Europäische Kommission und das Generalsekretariat des Rates der Europäischen Union.
 
-
-## § 3 – Terroristische und sonstige schwerwiegende Straftaten
+# § 3 – Terroristische und sonstige schwerwiegende Straftaten
 
 Zugang zum Visa-Informationssystem kann nur gewährt werden zum Zwecke der Verhütung, Aufdeckung oder Ermittlung
 
@@ -33,27 +27,22 @@ Zugang zum Visa-Informationssystem kann nur gewährt werden zum Zwecke der Verh�
 
 3. einer Straftat, die darauf gerichtet ist, eine der in Nummer 2 bezeichneten Straftaten anzudrohen,
 
-3a.  
-einer Straftat nach den §§ 89a bis 89c und 91 des Strafgesetzbuches,
+3a. einer Straftat nach den §§ 89a bis 89c und 91 des Strafgesetzbuches,
 
 4. einer Straftat im Zusammenhang mit terroristischen Aktivitäten gemäß Artikel 3 des Rahmenbeschlusses 2002/475/JI des Rates vom 13. Juni 2002 zur Terrorismusbekämpfung (ABl. EG Nr. L 164 S. 3), der zuletzt durch Artikel 1 Nummer 1 des Rahmenbeschlusses 2008/919/JI (ABl. L 330 vom 9.12.2008, S. 21) geändert worden ist,
 
-4a.  
-einer Straftat nach § 94 Absatz 2, den §§ 95 bis 97a, 98 Absatz 1, § 99 Absatz 1 und 2, § 100 Absatz 2 und § 100a des Strafgesetzbuches,
+4a. einer Straftat nach § 94 Absatz 2, den §§ 95 bis 97a, 98 Absatz 1, § 99 Absatz 1 und 2, § 100 Absatz 2 und § 100a des Strafgesetzbuches,
 
 5. einer Straftat, die mit einer Freiheitsstrafe im Höchstmaß von mindestens drei Jahren bedroht ist und zu einer der in Artikel 2 Abs. 2 des Rahmenbeschlusses 2002/584/JI des Rates vom 13. Juni 2002 über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaaten (ABl. EG Nr. L 190 S. 1) aufgeführten Deliktsgruppen gehört.
 
-
-## § 4 – Datenschutzkontrolle
+# § 4 – Datenschutzkontrolle
 
 Die Kontrolle der Einhaltung der datenschutzrechtlichen Bestimmungen obliegt nach § 9 des Bundesdatenschutzgesetzes dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. Die datenschutzrechtliche Kontrolle der Verarbeitung von Daten durch eine Landesbehörde richtet sich nach dem Datenschutzgesetz des Landes.
 
-
-## § 5 – Protokollierung
+# § 5 – Protokollierung
 
 Das Bundesverwaltungsamt protokolliert jede Abfrage und Übermittlung von Daten aus dem Visa-Informationssystem. Dazu gehört auch die persönliche Kennung der Personen, die die Abfrage bearbeiten.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Dieses Gesetz tritt an dem Tag in Kraft, ab dem der Beschluss 2008/633/JI nach seinem Artikel 18 Abs. 2 gilt. Das Bundesministerium des Innern gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.

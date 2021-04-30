@@ -1,10 +1,7 @@
-# [BauFordSiG] Gesetz über die Sicherung der Bauforderungen  (Bauforderungssicherungsgesetz - BauFordSiG)
-
-Ausfertigungsdatum: 01.06.1909
-
+% Gesetz über die Sicherung der Bauforderungen  (Bauforderungssicherungsgesetz - BauFordSiG)
+% Ausfertigungsdatum: 01.06.1909
  
-
-## § 1
+# § 1
 
 (1) Der Empfänger von Baugeld ist verpflichtet, das Baugeld zur Befriedigung solcher Personen, die an der Herstellung oder dem Umbau des Baues auf Grund eines Werk-, Dienst- oder Kaufvertrags beteiligt sind, zu verwenden. Eine anderweitige Verwendung des Baugeldes ist bis zu dem Betrag statthaft, in welchem der Empfänger aus anderen Mitteln Gläubiger der bezeichneten Art bereits befriedigt hat. Die Verpflichtung nach Satz 1 hat auch zu erfüllen, wer als Baubetreuer bei der Betreuung des Bauvorhabens zur Verfügung über die Finanzierungsmittel des Bestellers ermächtigt ist.
 
@@ -20,27 +17,22 @@ Beträge, die zum Zweck der Bestreitung der Kosten eines Baues oder Umbaues gew�
 
 (4) Ist die Baugeldeigenschaft oder die Verwendung des Baugeldes streitig, so trifft die Beweislast den Empfänger.
 
-
-## § 2
+# § 2
 
 Baugeldempfänger, welche ihre Zahlungen eingestellt haben oder über deren Vermögen das Insolvenzverfahren eröffnet worden ist und deren in § 1 Abs. 1 bezeichnete Gläubiger zur Zeit der Zahlungseinstellung oder der Eröffnung des Insolvenzverfahrens benachteiligt sind, werden mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft, wenn sie zum Nachteil der bezeichneten Gläubiger den Vorschriften des § 1 zuwidergehandelt haben.
 
-
-## § 4
-
-\-
-
-
-## § 7
+# § 4
 
 \-
 
-
-## § 8
+# § 7
 
 \-
 
+# § 8
 
-## §§ 9 bis 67 – (weggefallen)
+\-
+
+# §§ 9 bis 67 – (weggefallen)
 
 \-

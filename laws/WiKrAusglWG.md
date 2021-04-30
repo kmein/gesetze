@@ -1,15 +1,11 @@
-# [WiKrAusglWG] Gesetz zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums in den neuen Ländern  (Investitionsförderungsgesetz Aufbau Ost)
-
-Ausfertigungsdatum: 23.06.1993
-
+% Gesetz zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums in den neuen Ländern  (Investitionsförderungsgesetz Aufbau Ost)
+% Ausfertigungsdatum: 23.06.1993
  
-
-## § 1
+# § 1
 
 Zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums gewährt der Bund den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen für die Dauer von vier Jahren ab dem Jahr 1998 Finanzhilfen für besonders bedeutsame Investitionen der Länder und Gemeinden (Gemeindeverbände) in Höhe von jährlich insgesamt 6,6 Milliarden Deutsche Mark, es sei denn, der Jahresbetrag wird nach Maßgabe des § 2 Abs. 1 Satz 2 abgesenkt.
 
-
-## § 2
+# § 2
 
 (1) Von dem Jahresbetrag der Finanzhilfen erhalten die Länder  
 
@@ -30,8 +26,7 @@ Der den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt un
 
 (3) Von den Mitteln nach Absatz 1 stellen die Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen den Gemeinden für die Grunderneuerung von Straßenbrücken über Schienenwege der ehemaligen Deutschen Reichsbahn in den Jahren 1990 bis 2001 jährlich 10 Millionen Deutsche Mark zur Verfügung.
 
-
-## § 3
+# § 3
 
 Durch die Finanzhilfen werden zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums folgende strukturverbessernde Investitionen gefördert:
 
@@ -59,15 +54,13 @@ f) Fremdenverkehr;
 
 6. für die wirtschaftliche Entwicklung bedeutsame Maßnahmen zur Förderung kommunaler Investitionen, soweit sie nicht bereits von den Förderungsmaßnahmen nach den Nummern 1 bis 5 umfaßt werden, insbesondere Investitionen zum Aufbau und zur Erneuerung von sozialen Einrichtungen.
 
-
-## § 4
+# § 4
 
 (1) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen als Anteilsfinanzierung nach Artikel 104a Abs. 4 des Grundgesetzes gefördert werden oder nach Artikel 91a des Grundgesetzes durch den Bund gefördert werden können, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
 (2) Investive Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie unmittelbar in ursächlichem Zusammenhang mit den Maßnahmen nach § 3 stehen.
 
-
-## § 5
+# § 5
 
 (1) Die Finanzhilfen des Bundes betragen 90 vom Hundert der öffentlichen Finanzierung. Die Länder können abweichend von Satz 1 bestimmen, daß der Anteil des Bundes weniger als 90 vom Hundert beträgt.
 
@@ -75,14 +68,12 @@ f) Fremdenverkehr;
 
 (3) Von einem Land in einem Jahr nicht abgerufene Bundesmittel können in den Folgejahren bei Bedarf abgerufen werden. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 5a
+# § 5a
 
 (1) Für den Zeitraum, in dem Mittel dieses Gesetzes nicht für die in § 3 festgelegten Zwecke oder abweichend von § 5 Abs. 2 Satz 2 und 3 verwendet werden, zahlen die Länder dem Bund Zinsen in Höhe von 6 vom Hundert jährlich.
 
 (2) Die nach § 5 Abs. 2 eingerichteten Verwahrkonten werden zum 31. Dezember 2004 geschlossen. Nicht benötigte Kassenmittel werden zu diesem Zeitpunkt an den Bund zurückübertragen. Absatz 1 bleibt unberührt.
 
-
-## § 6
+# § 6
 
 Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes werden durch Verwaltungsvereinbarung geregelt.

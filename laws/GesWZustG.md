@@ -1,10 +1,7 @@
-# [GesWZustG] Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des Gesundheitswesens
-
-Ausfertigungsdatum: 29.07.1964
-
+% Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des Gesundheitswesens
+% Ausfertigungsdatum: 29.07.1964
  
-
-## § 1
+# § 1
 
 Die in Gesetzen und Rechtsverordnungen begründeten Zuständigkeiten des Bundesministers des Innern auf dem Gebiete des Rechts des Gesundheitswesens gehen auf den Bundesminister für Gesundheitswesen über. Dies gilt insbesondere für alle durch folgende Gesetze und Rechtsverordnungen begründeten Zuständigkeiten:
 
@@ -48,23 +45,19 @@ b) Gesetz zur Änderung und Ergänzung des Lebensmittelgesetzes vom 21. Dezember
 
 § 1 Satz 1 Kursivdruck: Jetzt Bundesminister für Gesundheit
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
+# § 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 5
+# § 5
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 3 mit Wirkung vom 14. November 1961 in Kraft; Maßnahmen, die bis zum Tag nach seiner Verkündung auf Grund der bisherigen Zuständigkeitsregelung getroffen worden sind, sind wirksam.
 

@@ -1,10 +1,7 @@
-# [SGB X] Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -  (SGB X)
-
-Ausfertigungsdatum: 18.08.1980
-
+% Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -  (SGB X)
+% Ausfertigungsdatum: 18.08.1980
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erstes Kapitel
 
@@ -948,15 +945,13 @@ Viertes Kapitel
 
 Anlage (zu § 78a)
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Vorschriften dieses Kapitels gelten für die öffentlich-rechtliche Verwaltungstätigkeit der Behörden, die nach diesem Gesetzbuch ausgeübt wird. Für die öffentlich-rechtliche Verwaltungstätigkeit der Behörden der Länder, der Gemeinden und Gemeindeverbände, der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts zur Ausführung von besonderen Teilen dieses Gesetzbuches, die nach Inkrafttreten der Vorschriften dieses Kapitels Bestandteil des Sozialgesetzbuches werden, gilt dies nur, soweit diese besonderen Teile mit Zustimmung des Bundesrates die Vorschriften dieses Kapitels für anwendbar erklären. Die Vorschriften gelten nicht für die Verfolgung und Ahndung von Ordnungswidrigkeiten.
 
 (2) Behörde im Sinne dieses Gesetzbuches ist jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt.
 
-
-## § 2 – Örtliche Zuständigkeit
+# § 2 – Örtliche Zuständigkeit
 
 (1) Sind mehrere Behörden örtlich zuständig, entscheidet die Behörde, die zuerst mit der Sache befasst worden ist, es sei denn, die gemeinsame Aufsichtsbehörde bestimmt, dass eine andere örtlich zuständige Behörde zu entscheiden hat. Diese Aufsichtsbehörde entscheidet ferner über die örtliche Zuständigkeit, wenn sich mehrere Behörden für zuständig oder für unzuständig halten oder wenn die Zuständigkeit aus anderen Gründen zweifelhaft ist. Fehlt eine gemeinsame Aufsichtsbehörde, treffen die Aufsichtsbehörden die Entscheidung gemeinsam.
 
@@ -966,8 +961,7 @@ Anlage (zu § 78a)
 
 (4) Bei Gefahr im Verzug ist für unaufschiebbare Maßnahmen jede Behörde örtlich zuständig, in deren Bezirk der Anlass für die Amtshandlung hervortritt. Die nach den besonderen Teilen dieses Gesetzbuchs örtlich zuständige Behörde ist unverzüglich zu unterrichten.
 
-
-## § 3 – Amtshilfepflicht
+# § 3 – Amtshilfepflicht
 
 (1) Jede Behörde leistet anderen Behörden auf Ersuchen ergänzende Hilfe (Amtshilfe).
 
@@ -977,8 +971,7 @@ Anlage (zu § 78a)
 
 2. die Hilfeleistung in Handlungen besteht, die der ersuchten Behörde als eigene Aufgabe obliegen.
 
-
-## § 4 – Voraussetzungen und Grenzen der Amtshilfe
+# § 4 – Voraussetzungen und Grenzen der Amtshilfe
 
 (1) Eine Behörde kann um Amtshilfe insbesondere dann ersuchen, wenn sie
 
@@ -1012,37 +1005,31 @@ Die ersuchte Behörde ist insbesondere zur Vorlage von Urkunden oder Akten sowie
 
 (5) Hält die ersuchte Behörde sich zur Hilfe nicht für verpflichtet, teilt sie der ersuchenden Behörde ihre Auffassung mit. Besteht diese auf der Amtshilfe, entscheidet über die Verpflichtung zur Amtshilfe die gemeinsame Aufsichtsbehörde oder, sofern eine solche nicht besteht, die für die ersuchte Behörde zuständige Aufsichtsbehörde.
 
-
-## § 5 – Auswahl der Behörde
+# § 5 – Auswahl der Behörde
 
 Kommen für die Amtshilfe mehrere Behörden in Betracht, soll nach Möglichkeit eine Behörde der untersten Verwaltungsstufe des Verwaltungszweiges ersucht werden, dem die ersuchende Behörde angehört.
 
-
-## § 6 – Durchführung der Amtshilfe
+# § 6 – Durchführung der Amtshilfe
 
 (1) Die Zulässigkeit der Maßnahme, die durch die Amtshilfe verwirklicht werden soll, richtet sich nach dem für die ersuchende Behörde, die Durchführung der Amtshilfe nach dem für die ersuchte Behörde geltenden Recht.
 
 (2) Die ersuchende Behörde trägt gegenüber der ersuchten Behörde die Verantwortung für die Rechtmäßigkeit der zu treffenden Maßnahme. Die ersuchte Behörde ist für die Durchführung der Amtshilfe verantwortlich.
 
-
-## § 7 – Kosten der Amtshilfe
+# § 7 – Kosten der Amtshilfe
 
 (1) Die ersuchende Behörde hat der ersuchten Behörde für die Amtshilfe keine Verwaltungsgebühr zu entrichten. Auslagen hat sie der ersuchten Behörde auf Anforderung zu erstatten, wenn sie im Einzelfall 35 Euro, bei Amtshilfe zwischen Versicherungsträgern 100 Euro übersteigen. Abweichende Vereinbarungen werden dadurch nicht berührt. Leisten Behörden desselben Rechtsträgers einander Amtshilfe, werden die Auslagen nicht erstattet.
 
 (2) Nimmt die ersuchte Behörde zur Durchführung der Amtshilfe eine kostenpflichtige Amtshandlung vor, stehen ihr die von einem Dritten hierfür geschuldeten Kosten (Verwaltungsgebühren, Benutzungsgebühren und Auslagen) zu.
 
-
-## § 8 – Begriff des Verwaltungsverfahrens
+# § 8 – Begriff des Verwaltungsverfahrens
 
 Das Verwaltungsverfahren im Sinne dieses Gesetzbuches ist die nach außen wirkende Tätigkeit der Behörden, die auf die Prüfung der Voraussetzungen, die Vorbereitung und den Erlass eines Verwaltungsaktes oder auf den Abschluss eines öffentlich-rechtlichen Vertrages gerichtet ist; es schließt den Erlass des Verwaltungsaktes oder den Abschluss des öffentlich-rechtlichen Vertrags ein.
 
-
-## § 9 – Nichtförmlichkeit des Verwaltungsverfahrens
+# § 9 – Nichtförmlichkeit des Verwaltungsverfahrens
 
 Das Verwaltungsverfahren ist an bestimmte Formen nicht gebunden, soweit keine besonderen Rechtsvorschriften für die Form des Verfahrens bestehen. Es ist einfach, zweckmäßig und zügig durchzuführen.
 
-
-## § 10 – Beteiligungsfähigkeit
+# § 10 – Beteiligungsfähigkeit
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -1052,8 +1039,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 3. Behörden.
 
-
-## § 11 – Vornahme von Verfahrenshandlungen
+# § 11 – Vornahme von Verfahrenshandlungen
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -1069,8 +1055,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (3) Die §§ 53 und 55 der Zivilprozessordnung gelten entsprechend.
 
-
-## § 12 – Beteiligte
+# § 12 – Beteiligte
 
 (1) Beteiligte sind
 
@@ -1086,8 +1071,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (3) Wer anzuhören ist, ohne dass die Voraussetzungen des Absatzes 1 vorliegen, wird dadurch nicht Beteiligter.
 
-
-## § 13 – Bevollmächtigte und Beistände
+# § 13 – Bevollmächtigte und Beistände
 
 (1) Ein Beteiligter kann sich durch einen Bevollmächtigten vertreten lassen. Die Vollmacht ermächtigt zu allen das Verwaltungsverfahren betreffenden Verfahrenshandlungen, sofern sich aus ihrem Inhalt nicht etwas anderes ergibt. Der Bevollmächtigte hat auf Verlangen seine Vollmacht schriftlich nachzuweisen. Ein Widerruf der Vollmacht wird der Behörde gegenüber erst wirksam, wenn er ihr zugeht.
 
@@ -1103,13 +1087,11 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (7) Die Zurückweisung nach den Absätzen 5 und 6 ist auch dem Beteiligten, dessen Bevollmächtigter oder Beistand zurückgewiesen wird, schriftlich mitzuteilen. Verfahrenshandlungen des zurückgewiesenen Bevollmächtigten oder Beistandes, die dieser nach der Zurückweisung vornimmt, sind unwirksam.
 
-
-## § 14 – Bestellung eines Empfangsbevollmächtigten
+# § 14 – Bestellung eines Empfangsbevollmächtigten
 
 Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäftsleitung im Inland hat der Behörde auf Verlangen innerhalb einer angemessenen Frist einen Empfangsbevollmächtigten im Inland zu benennen. Unterlässt er dies, gilt ein an ihn gerichtetes Schriftstück am siebenten Tage nach der Aufgabe zur Post und ein elektronisch übermitteltes Dokument am dritten Tage nach der Absendung als zugegangen. Dies gilt nicht, wenn feststeht, dass das Dokument den Empfänger nicht oder zu einem späteren Zeitpunkt erreicht hat. Auf die Rechtsfolgen der Unterlassung ist der Beteiligte hinzuweisen.
 
-
-## § 15 – Bestellung eines Vertreters von Amts wegen
+# § 15 – Bestellung eines Vertreters von Amts wegen
 
 (1) Ist ein Vertreter nicht vorhanden, hat das Gericht auf Ersuchen der Behörde einen geeigneten Vertreter zu bestellen
 
@@ -1127,8 +1109,7 @@ Ein Beteiligter ohne Wohnsitz oder gewöhnlichen Aufenthalt, Sitz oder Geschäft
 
 (4) Im Übrigen gelten für die Bestellung und für das Amt des Vertreters in den Fällen des Absatzes 1 Nr. 4 die Vorschriften über die Betreuung, in den übrigen Fällen die Vorschriften über die Pflegschaft entsprechend.
 
-
-## § 16 – Ausgeschlossene Personen
+# § 16 – Ausgeschlossene Personen
 
 (1) In einem Verwaltungsverfahren darf für eine Behörde nicht tätig werden,
 
@@ -1178,15 +1159,13 @@ Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 3. im Fall der Nummer 8 die häusliche Gemeinschaft nicht mehr besteht, sofern die Personen weiterhin wie Eltern und Kind miteinander verbunden sind.
 
-
-## § 17 – Besorgnis der Befangenheit
+# § 17 – Besorgnis der Befangenheit
 
 (1) Liegt ein Grund vor, der geeignet ist, Misstrauen gegen eine unparteiische Amtsausübung zu rechtfertigen, oder wird von einem Beteiligten das Vorliegen eines solchen Grundes behauptet, hat, wer in einem Verwaltungsverfahren für eine Behörde tätig werden soll, den Leiter der Behörde oder den von diesem Beauftragten zu unterrichten und sich auf dessen Anordnung der Mitwirkung zu enthalten. Betrifft die Besorgnis der Befangenheit den Leiter der Behörde, trifft diese Anordnung die Aufsichtsbehörde, sofern sich der Behördenleiter nicht selbst einer Mitwirkung enthält. Bei den Geschäftsführern der Versicherungsträger tritt an die Stelle der Aufsichtsbehörde der Vorstand.
 
 (2) Für Mitglieder eines Ausschusses oder Beirats gilt § 16 Abs. 4 entsprechend.
 
-
-## § 18 – Beginn des Verfahrens
+# § 18 – Beginn des Verfahrens
 
 Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Verwaltungsverfahren durchführt. Dies gilt nicht, wenn die Behörde auf Grund von Rechtsvorschriften
 
@@ -1194,8 +1173,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 2. nur auf Antrag tätig werden darf und ein Antrag nicht vorliegt.
 
-
-## § 19 – Amtssprache
+# § 19 – Amtssprache
 
 (1) Die Amtssprache ist deutsch. Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen haben das Recht, in Deutscher Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere geeignete Kommunikationshilfen zu kommunizieren; Kosten für Kommunikationshilfen sind von der Behörde oder dem für die Sozialleistung zuständigen Leistungsträger zu tragen. § 5 der Kommunikationshilfenverordnung in der jeweils geltenden Fassung gilt entsprechend.
 
@@ -1207,8 +1185,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (4) Soll durch eine Anzeige, einen Antrag oder eine Willenserklärung, die in fremder Sprache eingehen, zugunsten eines Beteiligten eine Frist gegenüber der Behörde gewahrt, ein öffentlich-rechtlicher Anspruch geltend gemacht oder eine Sozialleistung begehrt werden, gelten die Anzeige, der Antrag oder die Willenserklärung als zum Zeitpunkt des Eingangs bei der Behörde abgegeben, wenn die Behörde in der Lage ist, die Anzeige, den Antrag oder die Willenserklärung zu verstehen, oder wenn innerhalb der gesetzten Frist eine Übersetzung vorgelegt wird. Anderenfalls ist der Zeitpunkt des Eingangs der Übersetzung maßgebend. Auf diese Rechtsfolge ist bei der Fristsetzung hinzuweisen.
 
-
-## § 20 – Untersuchungsgrundsatz
+# § 20 – Untersuchungsgrundsatz
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt Art und Umfang der Ermittlungen; an das Vorbringen und an die Beweisanträge der Beteiligten ist sie nicht gebunden.
 
@@ -1216,8 +1193,7 @@ Die Behörde entscheidet nach pflichtgemäßem Ermessen, ob und wann sie ein Ver
 
 (3) Die Behörde darf die Entgegennahme von Erklärungen oder Anträgen, die in ihren Zuständigkeitsbereich fallen, nicht deshalb verweigern, weil sie die Erklärung oder den Antrag in der Sache für unzulässig oder unbegründet hält.
 
-
-## § 21 – Beweismittel
+# § 21 – Beweismittel
 
 (1) Die Behörde bedient sich der Beweismittel, die sie nach pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für erforderlich hält. Sie kann insbesondere
 
@@ -1237,8 +1213,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (4) Die Finanzbehörden haben, soweit es im Verfahren nach diesem Gesetzbuch erforderlich ist, Auskunft über die ihnen bekannten Einkommens- oder Vermögensverhältnisse des Antragstellers, Leistungsempfängers, Erstattungspflichtigen, Unterhaltsverpflichteten, Unterhaltsberechtigten oder der zum Haushalt rechnenden Familienmitglieder zu erteilen.
 
-
-## § 22 – Vernehmung durch das Sozial- oder Verwaltungsgericht
+# § 22 – Vernehmung durch das Sozial- oder Verwaltungsgericht
 
 (1) Verweigern Zeugen oder Sachverständige in den Fällen des § 21 Abs. 3 ohne Vorliegen eines der in den §§ 376, 383 bis 385 und 408 der Zivilprozessordnung bezeichneten Gründe die Aussage oder die Erstattung des Gutachtens, kann die Behörde je nach dem gegebenen Rechtsweg das für den Wohnsitz oder den Aufenthaltsort des Zeugen oder des Sachverständigen zuständige Sozial- oder Verwaltungsgericht um die Vernehmung ersuchen. Befindet sich der Wohnsitz oder der Aufenthaltsort des Zeugen oder des Sachverständigen nicht am Sitz eines Sozial- oder Verwaltungsgerichts oder einer Zweigstelle eines Sozialgerichts oder einer besonders errichteten Kammer eines Verwaltungsgerichts, kann auch das zuständige Amtsgericht um die Vernehmung ersucht werden. In dem Ersuchen hat die Behörde den Gegenstand der Vernehmung darzulegen sowie die Namen und Anschriften der Beteiligten anzugeben. Das Gericht hat die Beteiligten von den Beweisterminen zu benachrichtigen.
 
@@ -1248,8 +1223,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (4) Ein Ersuchen nach Absatz 1 oder 2 an das Gericht darf nur von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes gestellt werden, der die Befähigung zum Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllt.
 
-
-## § 23 – Glaubhaftmachung, Versicherung an Eides statt
+# § 23 – Glaubhaftmachung, Versicherung an Eides statt
 
 (1) Sieht eine Rechtsvorschrift vor, dass für die Feststellung der erheblichen Tatsachen deren Glaubhaftmachung genügt, kann auch die Versicherung an Eides statt zugelassen werden. Eine Tatsache ist dann als glaubhaft anzusehen, wenn ihr Vorliegen nach dem Ergebnis der Ermittlungen, die sich auf sämtliche erreichbaren Beweismittel erstrecken sollen, überwiegend wahrscheinlich ist.
 
@@ -1263,8 +1237,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (6) Die Niederschrift hat ferner die Namen der anwesenden Personen sowie den Ort und den Tag der Niederschrift zu enthalten. Die Niederschrift ist demjenigen, der die eidesstattliche Versicherung abgibt, zur Genehmigung vorzulesen oder auf Verlangen zur Durchsicht vorzulegen. Die erteilte Genehmigung ist zu vermerken und von dem Versichernden zu unterschreiben. Die Niederschrift ist sodann von demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie von dem Schriftführer zu unterschreiben.
 
-
-## § 24 – Anhörung Beteiligter
+# § 24 – Anhörung Beteiligter
 
 (1) Bevor ein Verwaltungsakt erlassen wird, der in Rechte eines Beteiligten eingreift, ist diesem Gelegenheit zu geben, sich zu den für die Entscheidung erheblichen Tatsachen zu äußern.
 
@@ -1286,8 +1259,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (+++ § 24: Zur Nichtanwendung vgl. § 108 Abs. 2 Satz 3 SGB 6 +++)
 
-
-## § 25 – Akteneinsicht durch Beteiligte
+# § 25 – Akteneinsicht durch Beteiligte
 
 (1) Die Behörde hat den Beteiligten Einsicht in die das Verfahren betreffenden Akten zu gestatten, soweit deren Kenntnis zur Geltendmachung oder Verteidigung ihrer rechtlichen Interessen erforderlich ist. Satz 1 gilt bis zum Abschluss des Verwaltungsverfahrens nicht für Entwürfe zu Entscheidungen sowie die Arbeiten zu ihrer unmittelbaren Vorbereitung.
 
@@ -1299,8 +1271,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (5) Soweit die Akteneinsicht zu gestatten ist, können die Beteiligten Auszüge oder Abschriften selbst fertigen oder sich Ablichtungen durch die Behörde erteilen lassen. Soweit die Akteneinsicht in eine elektronische Akte zu gestatten ist, kann die Behörde Akteneinsicht gewähren, indem sie Unterlagen ganz oder teilweise ausdruckt, elektronische Dokumente auf einem Bildschirm wiedergibt, elektronische Dokumente zur Verfügung stellt oder den elektronischen Zugriff auf den Inhalt der Akte gestattet. Die Behörde kann Ersatz ihrer Aufwendungen in angemessenem Umfang verlangen.
 
-
-## § 26 – Fristen und Termine
+# § 26 – Fristen und Termine
 
 (1) Für die Berechnung von Fristen und für die Bestimmung von Terminen gelten die §§ 187 bis 193 des Bürgerlichen Gesetzbuches entsprechend, soweit nicht durch die Absätze 2 bis 5 etwas anderes bestimmt ist.
 
@@ -1316,8 +1287,7 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (7) Fristen, die von einer Behörde gesetzt sind, können verlängert werden. Sind solche Fristen bereits abgelaufen, können sie rückwirkend verlängert werden, insbesondere wenn es unbillig wäre, die durch den Fristablauf eingetretenen Rechtsfolgen bestehen zu lassen. Die Behörde kann die Verlängerung der Frist nach § 32 mit einer Nebenbestimmung verbinden.
 
-
-## § 27 – Wiedereinsetzung in den vorigen Stand
+# § 27 – Wiedereinsetzung in den vorigen Stand
 
 (1) War jemand ohne Verschulden verhindert, eine gesetzliche Frist einzuhalten, ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren. Das Verschulden eines Vertreters ist dem Vertretenen zuzurechnen.
 
@@ -1329,15 +1299,13 @@ Urkunden und Akten können auch in elektronischer Form beigezogen werden, es sei
 
 (5) Die Wiedereinsetzung ist unzulässig, wenn sich aus einer Rechtsvorschrift ergibt, dass sie ausgeschlossen ist.
 
-
-## § 28 – Wiederholte Antragstellung
+# § 28 – Wiederholte Antragstellung
 
 (1) Hat ein Leistungsberechtigter von der Stellung eines Antrages auf eine Sozialleistung abgesehen, weil ein Anspruch auf eine andere Sozialleistung geltend gemacht worden ist, und wird diese Leistung versagt oder ist sie zu erstatten, wirkt der nunmehr nachgeholte Antrag bis zu einem Jahr zurück, wenn er innerhalb von sechs Monaten nach Ablauf des Monats gestellt ist, in dem die Ablehnung oder Erstattung der anderen Leistung bindend geworden ist. Satz 1 gilt auch dann, wenn der Antrag auf die zunächst geltend gemachte Sozialleistung zurückgenommen wird.
 
 (2) Absatz 1 gilt auch dann, wenn der rechtzeitige Antrag auf eine andere Leistung aus Unkenntnis über deren Anspruchsvoraussetzung unterlassen wurde und die zweite Leistung gegenüber der ersten Leistung, wenn diese erbracht worden wäre, nachrangig gewesen wäre.
 
-
-## § 29 – Beglaubigung von Dokumenten
+# § 29 – Beglaubigung von Dokumenten
 
 (1) Jede Behörde ist befugt, Abschriften von Urkunden, die sie selbst ausgestellt hat, zu beglaubigen. Darüber hinaus sind die von der Bundesregierung durch Rechtsverordnung bestimmten Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts und die nach Landesrecht zuständigen Behörden befugt, Abschriften zu beglaubigen, wenn die Urschrift von einer Behörde ausgestellt ist oder die Abschrift zur Vorlage bei einer Behörde benötigt wird, sofern nicht durch Rechtsvorschrift die Erteilung beglaubigter Abschriften aus amtlichen Registern und Archiven anderen Behörden ausschließlich vorbehalten ist; die Rechtsverordnung bedarf nicht der Zustimmung des Bundesrates.
 
@@ -1385,8 +1353,7 @@ Wird ein elektronisches Dokument, das ein anderes technisches Format als das mit
 
 (7) Soweit eine Behörde über die technischen Möglichkeiten verfügt, kann sie von Urkunden, die sie selbst ausgestellt hat, auf Verlangen ein elektronisches Dokument nach Absatz 4 Nummer 4 Buchstabe a oder eine elektronische Abschrift fertigen und beglaubigen.
 
-
-## § 30 – Beglaubigung von Unterschriften
+# § 30 – Beglaubigung von Unterschriften
 
 (1) Die von der Bundesregierung durch Rechtsverordnung bestimmten Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts und die nach Landesrecht zuständigen Behörden sind befugt, Unterschriften zu beglaubigen, wenn das unterzeichnete Schriftstück zur Vorlage bei einer Behörde oder bei einer sonstigen Stelle, der auf Grund einer Rechtsvorschrift das unterzeichnete Schriftstück vorzulegen ist, benötigt wird. Dies gilt nicht für
 
@@ -1410,18 +1377,15 @@ Wird ein elektronisches Dokument, das ein anderes technisches Format als das mit
 
 (5) Die Rechtsverordnungen nach den Absätzen 1 und 4 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 31 – Begriff des Verwaltungsaktes
+# § 31 – Begriff des Verwaltungsaktes
 
 Verwaltungsakt ist jede Verfügung, Entscheidung oder andere hoheitliche Maßnahme, die eine Behörde zur Regelung eines Einzelfalles auf dem Gebiet des öffentlichen Rechts trifft und die auf unmittelbare Rechtswirkung nach außen gerichtet ist. Allgemeinverfügung ist ein Verwaltungsakt, der sich an einen nach allgemeinen Merkmalen bestimmten oder bestimmbaren Personenkreis richtet oder die öffentlich-rechtliche Eigenschaft einer Sache oder ihre Benutzung durch die Allgemeinheit betrifft.
 
-
-## § 31a – Vollständig automatisierter Erlass eines Verwaltungsaktes
+# § 31a – Vollständig automatisierter Erlass eines Verwaltungsaktes
 
 Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen erlassen werden, sofern kein Anlass besteht, den Einzelfall durch Amtsträger zu bearbeiten. Setzt die Behörde automatische Einrichtungen zum Erlass von Verwaltungsakten ein, muss sie für den Einzelfall bedeutsame tatsächliche Angaben des Beteiligten berücksichtigen, die im automatischen Verfahren nicht ermittelt würden.
 
-
-## § 32 – Nebenbestimmungen zum Verwaltungsakt
+# § 32 – Nebenbestimmungen zum Verwaltungsakt
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer Nebenbestimmung nur versehen werden, wenn sie durch Rechtsvorschrift zugelassen ist oder wenn sie sicherstellen soll, dass die gesetzlichen Voraussetzungen des Verwaltungsaktes erfüllt werden.
 
@@ -1441,8 +1405,7 @@ oder verbunden werden mit
 
 (3) Eine Nebenbestimmung darf dem Zweck des Verwaltungsaktes nicht zuwiderlaufen.
 
-
-## § 33 – Bestimmtheit und Form des Verwaltungsaktes
+# § 33 – Bestimmtheit und Form des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
@@ -1454,8 +1417,7 @@ oder verbunden werden mit
 
 (5) Bei einem Verwaltungsakt, der mit Hilfe automatischer Einrichtungen erlassen wird, können abweichend von Absatz 3 Satz 1 Unterschrift und Namenswiedergabe fehlen; bei einem elektronischen Verwaltungsakt muss auch das der Signatur zugrunde liegende Zertifikat nur die erlassende Behörde erkennen lassen. Zur Inhaltsangabe können Schlüsselzeichen verwendet werden, wenn derjenige, für den der Verwaltungsakt bestimmt ist oder der von ihm betroffen wird, auf Grund der dazu gegebenen Erläuterungen den Inhalt des Verwaltungsaktes eindeutig erkennen kann.
 
-
-## § 34 – Zusicherung
+# § 34 – Zusicherung
 
 (1) Eine von der zuständigen Behörde erteilte Zusage, einen bestimmten Verwaltungsakt später zu erlassen oder zu unterlassen (Zusicherung), bedarf zu ihrer Wirksamkeit der schriftlichen Form. Ist vor dem Erlass des zugesicherten Verwaltungsaktes die Anhörung Beteiligter oder die Mitwirkung einer anderen Behörde oder eines Ausschusses auf Grund einer Rechtsvorschrift erforderlich, darf die Zusicherung erst nach Anhörung der Beteiligten oder nach Mitwirkung dieser Behörde oder des Ausschusses gegeben werden.
 
@@ -1463,8 +1425,7 @@ oder verbunden werden mit
 
 (3) Ändert sich nach Abgabe der Zusicherung die Sach- oder Rechtslage derart, dass die Behörde bei Kenntnis der nachträglich eingetretenen Änderung die Zusicherung nicht gegeben hätte oder aus rechtlichen Gründen nicht hätte geben dürfen, ist die Behörde an die Zusicherung nicht mehr gebunden.
 
-
-## § 35 – Begründung des Verwaltungsaktes
+# § 35 – Begründung des Verwaltungsaktes
 
 (1) Ein schriftlicher oder elektronischer sowie ein schriftlich oder elektronisch bestätigter Verwaltungsakt ist mit einer Begründung zu versehen. In der Begründung sind die wesentlichen tatsächlichen und rechtlichen Gründe mitzuteilen, die die Behörde zu ihrer Entscheidung bewogen haben. Die Begründung von Ermessensentscheidungen muss auch die Gesichtspunkte erkennen lassen, von denen die Behörde bei der Ausübung ihres Ermessens ausgegangen ist.
 
@@ -1482,13 +1443,11 @@ oder verbunden werden mit
 
 (3) In den Fällen des Absatzes 2 Nr. 1 bis 3 ist der Verwaltungsakt schriftlich oder elektronisch zu begründen, wenn der Beteiligte, dem der Verwaltungsakt bekannt gegeben ist, es innerhalb eines Jahres seit Bekanntgabe verlangt.
 
-
-## § 36 – Rechtsbehelfsbelehrung
+# § 36 – Rechtsbehelfsbelehrung
 
 Erlässt die Behörde einen schriftlichen Verwaltungsakt oder bestätigt sie schriftlich einen Verwaltungsakt, ist der durch ihn beschwerte Beteiligte über den Rechtsbehelf und die Behörde oder das Gericht, bei denen der Rechtsbehelf anzubringen ist, deren Sitz, die einzuhaltende Frist und die Form schriftlich zu belehren. Erlässt die Behörde einen elektronischen Verwaltungsakt oder bestätigt sie elektronisch einen Verwaltungsakt, hat die Rechtsbehelfsbelehrung nach Satz 1 elektronisch zu erfolgen.
 
-
-## § 37 – Bekanntgabe des Verwaltungsaktes
+# § 37 – Bekanntgabe des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt ist demjenigen Beteiligten bekannt zu geben, für den er bestimmt ist oder der von ihm betroffen wird. Ist ein Bevollmächtigter bestellt, kann die Bekanntgabe ihm gegenüber vorgenommen werden.
 
@@ -1504,13 +1463,11 @@ Erlässt die Behörde einen schriftlichen Verwaltungsakt oder bestätigt sie sch
 
 (5) Vorschriften über die Bekanntgabe eines Verwaltungsaktes mittels Zustellung bleiben unberührt.
 
-
-## § 38 – Offenbare Unrichtigkeiten im Verwaltungsakt
+# § 38 – Offenbare Unrichtigkeiten im Verwaltungsakt
 
 Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten in einem Verwaltungsakt jederzeit berichtigen. Bei berechtigtem Interesse des Beteiligten ist zu berichtigen. Die Behörde ist berechtigt, die Vorlage des Dokumentes zu verlangen, das berichtigt werden soll.
 
-
-## § 39 – Wirksamkeit des Verwaltungsaktes
+# § 39 – Wirksamkeit des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt wird gegenüber demjenigen, für den er bestimmt ist oder der von ihm betroffen wird, in dem Zeitpunkt wirksam, in dem er ihm bekannt gegeben wird. Der Verwaltungsakt wird mit dem Inhalt wirksam, mit dem er bekannt gegeben wird.
 
@@ -1518,8 +1475,7 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 (3) Ein nichtiger Verwaltungsakt ist unwirksam.
 
-
-## § 40 – Nichtigkeit des Verwaltungsaktes
+# § 40 – Nichtigkeit des Verwaltungsaktes
 
 (1) Ein Verwaltungsakt ist nichtig, soweit er an einem besonders schwerwiegenden Fehler leidet und dies bei verständiger Würdigung aller in Betracht kommenden Umstände offensichtlich ist.
 
@@ -1549,8 +1505,7 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 (5) Die Behörde kann die Nichtigkeit jederzeit von Amts wegen feststellen; auf Antrag ist sie festzustellen, wenn der Antragsteller hieran ein berechtigtes Interesse hat.
 
-
-## § 41 – Heilung von Verfahrens- und Formfehlern
+# § 41 – Heilung von Verfahrens- und Formfehlern
 
 (1) Eine Verletzung von Verfahrens- oder Formvorschriften, die nicht den Verwaltungsakt nach § 40 nichtig macht, ist unbeachtlich, wenn
 
@@ -1570,13 +1525,11 @@ Die Behörde kann Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigk
 
 (3) Fehlt einem Verwaltungsakt die erforderliche Begründung oder ist die erforderliche Anhörung eines Beteiligten vor Erlass des Verwaltungsaktes unterblieben und ist dadurch die rechtzeitige Anfechtung des Verwaltungsaktes versäumt worden, gilt die Versäumung der Rechtsbehelfsfrist als nicht verschuldet. Das für die Wiedereinsetzungsfrist maßgebende Ereignis tritt im Zeitpunkt der Nachholung der unterlassenen Verfahrenshandlung ein.
 
-
-## § 42 – Folgen von Verfahrens- und Formfehlern
+# § 42 – Folgen von Verfahrens- und Formfehlern
 
 Die Aufhebung eines Verwaltungsaktes, der nicht nach § 40 nichtig ist, kann nicht allein deshalb beansprucht werden, weil er unter Verletzung von Vorschriften über das Verfahren, die Form oder die örtliche Zuständigkeit zustande gekommen ist, wenn offensichtlich ist, dass die Verletzung die Entscheidung in der Sache nicht beeinflusst hat. Satz 1 gilt nicht, wenn die erforderliche Anhörung unterblieben oder nicht wirksam nachgeholt ist.
 
-
-## § 43 – Umdeutung eines fehlerhaften Verwaltungsaktes
+# § 43 – Umdeutung eines fehlerhaften Verwaltungsaktes
 
 (1) Ein fehlerhafter Verwaltungsakt kann in einen anderen Verwaltungsakt umgedeutet werden, wenn er auf das gleiche Ziel gerichtet ist, von der erlassenden Behörde in der geschehenen Verfahrensweise und Form rechtmäßig hätte erlassen werden können und wenn die Voraussetzungen für dessen Erlass erfüllt sind.
 
@@ -1586,8 +1539,7 @@ Die Aufhebung eines Verwaltungsaktes, der nicht nach § 40 nichtig ist, kann nic
 
 (4) § 24 ist entsprechend anzuwenden.
 
-
-## § 44 – Rücknahme eines rechtswidrigen nicht begünstigenden Verwaltungsaktes
+# § 44 – Rücknahme eines rechtswidrigen nicht begünstigenden Verwaltungsaktes
 
 (1) Soweit sich im Einzelfall ergibt, dass bei Erlass eines Verwaltungsaktes das Recht unrichtig angewandt oder von einem Sachverhalt ausgegangen worden ist, der sich als unrichtig erweist, und soweit deshalb Sozialleistungen zu Unrecht nicht erbracht oder Beiträge zu Unrecht erhoben worden sind, ist der Verwaltungsakt, auch nachdem er unanfechtbar geworden ist, mit Wirkung für die Vergangenheit zurückzunehmen. Dies gilt nicht, wenn der Verwaltungsakt auf Angaben beruht, die der Betroffene vorsätzlich in wesentlicher Beziehung unrichtig oder unvollständig gemacht hat.
 
@@ -1597,8 +1549,7 @@ Die Aufhebung eines Verwaltungsaktes, der nicht nach § 40 nichtig ist, kann nic
 
 (4) Ist ein Verwaltungsakt mit Wirkung für die Vergangenheit zurückgenommen worden, werden Sozialleistungen nach den Vorschriften der besonderen Teile dieses Gesetzbuches längstens für einen Zeitraum bis zu vier Jahren vor der Rücknahme erbracht. Dabei wird der Zeitpunkt der Rücknahme von Beginn des Jahres an gerechnet, in dem der Verwaltungsakt zurückgenommen wird. Erfolgt die Rücknahme auf Antrag, tritt bei der Berechnung des Zeitraumes, für den rückwirkend Leistungen zu erbringen sind, anstelle der Rücknahme der Antrag.
 
-
-## § 45 – Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes
+# § 45 – Rücknahme eines rechtswidrigen begünstigenden Verwaltungsaktes
 
 (1) Soweit ein Verwaltungsakt, der ein Recht oder einen rechtlich erheblichen Vorteil begründet oder bestätigt hat (begünstigender Verwaltungsakt), rechtswidrig ist, darf er, auch nachdem er unanfechtbar geworden ist, nur unter den Einschränkungen der Absätze 2 bis 4 ganz oder teilweise mit Wirkung für die Zukunft oder für die Vergangenheit zurückgenommen werden.
 
@@ -1625,15 +1576,13 @@ In den Fällen des Satzes 3 kann ein Verwaltungsakt über eine laufende Geldleis
 (+++ § 45: Zur Nichtanwendung vgl. § 108 Abs. 2 Satz 3 SGB 6 +++)  
 (+++ § 45 Abs. 2: Zur Nichtanwendung vgl. § 44a SGB 12 F. 22.12.2016 +++)
 
-
-## § 46 – Widerruf eines rechtmäßigen nicht begünstigenden Verwaltungsaktes
+# § 46 – Widerruf eines rechtmäßigen nicht begünstigenden Verwaltungsaktes
 
 (1) Ein rechtmäßiger nicht begünstigender Verwaltungsakt kann, auch nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die Zukunft widerrufen werden, außer wenn ein Verwaltungsakt gleichen Inhalts erneut erlassen werden müsste oder aus anderen Gründen ein Widerruf unzulässig ist.
 
 (2) § 44 Abs. 3 gilt entsprechend.
 
-
-## § 47 – Widerruf eines rechtmäßigen begünstigenden Verwaltungsaktes
+# § 47 – Widerruf eines rechtmäßigen begünstigenden Verwaltungsaktes
 
 (1) Ein rechtmäßiger begünstigender Verwaltungsakt darf, auch nachdem er unanfechtbar geworden ist, ganz oder teilweise mit Wirkung für die Zukunft nur widerrufen werden, soweit
 
@@ -1651,8 +1600,7 @@ Der Verwaltungsakt darf mit Wirkung für die Vergangenheit nicht widerrufen werd
 
 (3) § 44 Abs. 3 gilt entsprechend.
 
-
-## § 48 – Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse
+# § 48 – Aufhebung eines Verwaltungsaktes mit Dauerwirkung bei Änderung der Verhältnisse
 
 (1) Soweit in den tatsächlichen oder rechtlichen Verhältnissen, die beim Erlass eines Verwaltungsaktes mit Dauerwirkung vorgelegen haben, eine wesentliche Änderung eintritt, ist der Verwaltungsakt mit Wirkung für die Zukunft aufzuheben. Der Verwaltungsakt soll mit Wirkung vom Zeitpunkt der Änderung der Verhältnisse aufgehoben werden, soweit
 
@@ -1674,13 +1622,11 @@ Als Zeitpunkt der Änderung der Verhältnisse gilt in Fällen, in denen Einkomme
 
 (+++ § 48: Zur Nichtanwendung vgl. § 108 Abs. 2 Satz 3 SGB 6 +++)
 
-
-## § 49 – Rücknahme und Widerruf im Rechtsbehelfsverfahren
+# § 49 – Rücknahme und Widerruf im Rechtsbehelfsverfahren
 
 § 45 Abs. 1 bis 4, §§ 47 und 48 gelten nicht, wenn ein begünstigender Verwaltungsakt, der von einem Dritten angefochten worden ist, während des Vorverfahrens oder während des sozial- oder verwaltungsgerichtlichen Verfahrens aufgehoben wird, soweit dadurch dem Widerspruch abgeholfen oder der Klage stattgegeben wird.
 
-
-## § 50 – Erstattung zu Unrecht erbrachter Leistungen
+# § 50 – Erstattung zu Unrecht erbrachter Leistungen
 
 (1) Soweit ein Verwaltungsakt aufgehoben worden ist, sind bereits erbrachte Leistungen zu erstatten. Sach- und Dienstleistungen sind in Geld zu erstatten.
 
@@ -1694,34 +1640,29 @@ Als Zeitpunkt der Änderung der Verhältnisse gilt in Fällen, in denen Einkomme
 
 (5) Die Absätze 1 bis 4 gelten bei Berichtigungen nach § 38 entsprechend.
 
-
-## § 51 – Rückgabe von Urkunden und Sachen
+# § 51 – Rückgabe von Urkunden und Sachen
 
 Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen oder ist seine Wirksamkeit aus einem anderen Grund nicht oder nicht mehr gegeben, kann die Behörde die auf Grund dieses Verwaltungsaktes erteilten Urkunden oder Sachen, die zum Nachweis der Rechte aus dem Verwaltungsakt oder zu deren Ausübung bestimmt sind, zurückfordern. Der Inhaber und, sofern er nicht der Besitzer ist, auch der Besitzer dieser Urkunden oder Sachen sind zu ihrer Herausgabe verpflichtet. Der Inhaber oder der Besitzer kann jedoch verlangen, dass ihm die Urkunden oder Sachen wieder ausgehändigt werden, nachdem sie von der Behörde als ungültig gekennzeichnet sind; dies gilt nicht bei Sachen, bei denen eine solche Kennzeichnung nicht oder nicht mit der erforderlichen Offensichtlichkeit oder Dauerhaftigkeit möglich ist.
 
-
-## § 52 – Hemmung der Verjährung durch Verwaltungsakt
+# § 52 – Hemmung der Verjährung durch Verwaltungsakt
 
 (1) Ein Verwaltungsakt, der zur Feststellung oder Durchsetzung des Anspruchs eines öffentlich-rechtlichen Rechtsträgers erlassen wird, hemmt die Verjährung dieses Anspruchs. Die Hemmung endet mit Eintritt der Unanfechtbarkeit des Verwaltungsakts oder sechs Monate nach seiner anderweitigen Erledigung.
 
 (2) Ist ein Verwaltungsakt im Sinne des Absatzes 1 unanfechtbar geworden, beträgt die Verjährungsfrist 30 Jahre.
 
-
-## § 53 – Zulässigkeit des öffentlich-rechtlichen Vertrages
+# § 53 – Zulässigkeit des öffentlich-rechtlichen Vertrages
 
 (1) Ein Rechtsverhältnis auf dem Gebiet des öffentlichen Rechts kann durch Vertrag begründet, geändert oder aufgehoben werden (öffentlich-rechtlicher Vertrag), soweit Rechtsvorschriften nicht entgegenstehen. Insbesondere kann die Behörde, anstatt einen Verwaltungsakt zu erlassen, einen öffentlich-rechtlichen Vertrag mit demjenigen schließen, an den sie sonst den Verwaltungsakt richten würde.
 
 (2) Ein öffentlich-rechtlicher Vertrag über Sozialleistungen kann nur geschlossen werden, soweit die Erbringung der Leistungen im Ermessen des Leistungsträgers steht.
 
-
-## § 54 – Vergleichsvertrag
+# § 54 – Vergleichsvertrag
 
 (1) Ein öffentlich-rechtlicher Vertrag im Sinne des § 53 Abs. 1 Satz 2, durch den eine bei verständiger Würdigung des Sachverhalts oder der Rechtslage bestehende Ungewissheit durch gegenseitiges Nachgeben beseitigt wird (Vergleich), kann geschlossen werden, wenn die Behörde den Abschluss des Vergleichs zur Beseitigung der Ungewissheit nach pflichtgemäßem Ermessen für zweckmäßig hält.
 
 (2) § 53 Abs. 2 gilt im Fall des Absatzes 1 nicht.
 
-
-## § 55 – Austauschvertrag
+# § 55 – Austauschvertrag
 
 (1) Ein öffentlich-rechtlicher Vertrag im Sinne des § 53 Abs. 1 Satz 2, in dem sich der Vertragspartner der Behörde zu einer Gegenleistung verpflichtet, kann geschlossen werden, wenn die Gegenleistung für einen bestimmten Zweck im Vertrag vereinbart wird und der Behörde zur Erfüllung ihrer öffentlichen Aufgaben dient. Die Gegenleistung muss den gesamten Umständen nach angemessen sein und im sachlichen Zusammenhang mit der vertraglichen Leistung der Behörde stehen.
 
@@ -1729,20 +1670,17 @@ Ist ein Verwaltungsakt unanfechtbar widerrufen oder zurückgenommen oder ist sei
 
 (3) § 53 Abs. 2 gilt in den Fällen der Absätze 1 und 2 nicht.
 
-
-## § 56 – Schriftform
+# § 56 – Schriftform
 
 Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben ist.
 
-
-## § 57 – Zustimmung von Dritten und Behörden
+# § 57 – Zustimmung von Dritten und Behörden
 
 (1) Ein öffentlich-rechtlicher Vertrag, der in Rechte eines Dritten eingreift, wird erst wirksam, wenn der Dritte schriftlich zustimmt.
 
 (2) Wird anstatt eines Verwaltungsaktes, bei dessen Erlass nach einer Rechtsvorschrift die Genehmigung, die Zustimmung oder das Einvernehmen einer anderen Behörde erforderlich ist, ein Vertrag geschlossen, so wird dieser erst wirksam, nachdem die andere Behörde in der vorgeschriebenen Form mitgewirkt hat.
 
-
-## § 58 – Nichtigkeit des öffentlich-rechtlichen Vertrages
+# § 58 – Nichtigkeit des öffentlich-rechtlichen Vertrages
 
 (1) Ein öffentlich-rechtlicher Vertrag ist nichtig, wenn sich die Nichtigkeit aus der entsprechenden Anwendung von Vorschriften des Bürgerlichen Gesetzbuches ergibt.
 
@@ -1758,32 +1696,27 @@ Ein öffentlich-rechtlicher Vertrag ist schriftlich zu schließen, soweit nicht 
 
 (3) Betrifft die Nichtigkeit nur einen Teil des Vertrages, so ist er im Ganzen nichtig, wenn nicht anzunehmen ist, dass er auch ohne den nichtigen Teil geschlossen worden wäre.
 
-
-## § 59 – Anpassung und Kündigung in besonderen Fällen
+# § 59 – Anpassung und Kündigung in besonderen Fällen
 
 (1) Haben die Verhältnisse, die für die Festsetzung des Vertragsinhalts maßgebend gewesen sind, sich seit Abschluss des Vertrages so wesentlich geändert, dass einer Vertragspartei das Festhalten an der ursprünglichen vertraglichen Regelung nicht zuzumuten ist, so kann diese Vertragspartei eine Anpassung des Vertragsinhalts an die geänderten Verhältnisse verlangen oder, sofern eine Anpassung nicht möglich oder einer Vertragspartei nicht zuzumuten ist, den Vertrag kündigen. Die Behörde kann den Vertrag auch kündigen, um schwere Nachteile für das Gemeinwohl zu verhüten oder zu beseitigen.
 
 (2) Die Kündigung bedarf der Schriftform, soweit nicht durch Rechtsvorschrift eine andere Form vorgeschrieben ist. Sie soll begründet werden.
 
-
-## § 60 – Unterwerfung unter die sofortige Vollstreckung
+# § 60 – Unterwerfung unter die sofortige Vollstreckung
 
 (1) Jeder Vertragschließende kann sich der sofortigen Vollstreckung aus einem öffentlich-rechtlichen Vertrag im Sinne des § 53 Abs. 1 Satz 2 unterwerfen. Die Behörde muss hierbei von dem Behördenleiter, seinem allgemeinen Vertreter oder einem Angehörigen des öffentlichen Dienstes, der die Befähigung zum Richteramt hat oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllt, vertreten werden.
 
 (2) Auf öffentlich-rechtliche Verträge im Sinne des Absatzes 1 Satz 1 ist § 66 entsprechend anzuwenden. Will eine natürliche oder juristische Person des Privatrechts oder eine nichtrechtsfähige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist § 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Behörde, ist § 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.
 
-
-## § 61 – Ergänzende Anwendung von Vorschriften
+# § 61 – Ergänzende Anwendung von Vorschriften
 
 Soweit sich aus den §§ 53 bis 60 nichts Abweichendes ergibt, gelten die übrigen Vorschriften dieses Gesetzbuches. Ergänzend gelten die Vorschriften des Bürgerlichen Gesetzbuches entsprechend.
 
-
-## § 62 – Rechtsbehelfe gegen Verwaltungsakte
+# § 62 – Rechtsbehelfe gegen Verwaltungsakte
 
 Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrechtsweg gegeben ist, das Sozialgerichtsgesetz, wenn der Verwaltungsrechtsweg gegeben ist, die Verwaltungsgerichtsordnung und die zu ihrer Ausführung ergangenen Rechtsvorschriften, soweit nicht durch Gesetz etwas anderes bestimmt ist; im Übrigen gelten die Vorschriften dieses Gesetzbuches.
 
-
-## § 63 – Erstattung von Kosten im Vorverfahren
+# § 63 – Erstattung von Kosten im Vorverfahren
 
 (1) Soweit der Widerspruch erfolgreich ist, hat der Rechtsträger, dessen Behörde den angefochtenen Verwaltungsakt erlassen hat, demjenigen, der Widerspruch erhoben hat, die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen zu erstatten. Dies gilt auch, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 41 unbeachtlich ist. Aufwendungen, die durch das Verschulden eines Erstattungsberechtigten entstanden sind, hat dieser selbst zu tragen; das Verschulden eines Vertreters ist dem Vertretenen zuzurechnen.
 
@@ -1791,8 +1724,7 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrecht
 
 (3) Die Behörde, die die Kostenentscheidung getroffen hat, setzt auf Antrag den Betrag der zu erstattenden Aufwendungen fest; hat ein Ausschuss oder Beirat die Kostenentscheidung getroffen, obliegt die Kostenfestsetzung der Behörde, bei der der Ausschuss oder Beirat gebildet ist. Die Kostenentscheidung bestimmt auch, ob die Zuziehung eines Rechtsanwalts oder eines sonstigen Bevollmächtigten notwendig war.
 
-
-## § 64 – Kostenfreiheit
+# § 64 – Kostenfreiheit
 
 (1) Für das Verfahren bei den Behörden nach diesem Gesetzbuch werden keine Gebühren und Auslagen erhoben. Abweichend von Satz 1 erhalten die Träger der gesetzlichen Rentenversicherung für jede auf der Grundlage des § 74a Abs. 2 Satz 1 erteilte Auskunft eine Gebühr von 10,20 Euro.
 
@@ -1810,15 +1742,13 @@ Für förmliche Rechtsbehelfe gegen Verwaltungsakte gelten, wenn der Sozialrecht
 
 (3) Absatz 2 Satz 1 gilt auch für gerichtliche Verfahren, auf die das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden ist. Im Verfahren nach der Zivilprozessordnung, dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie im Verfahren vor Gerichten der Sozial- und Finanzgerichtsbarkeit sind die Träger der Eingliederungshilfe, der Sozialhilfe, der Grundsicherung für Arbeitsuchende, der Leistungen nach dem Asylbewerberleistungsgesetz, der Jugendhilfe und der Kriegsopferfürsorge von den Gerichtskosten befreit; § 197a des Sozialgerichtsgesetzes bleibt unberührt.
 
-
-## § 65 – Zustellung
+# § 65 – Zustellung
 
 (1) Soweit Zustellungen durch Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts vorgeschrieben sind, gelten die §§ 2 bis 10 des Verwaltungszustellungsgesetzes. § 5 Abs. 4 des Verwaltungszustellungsgesetzes und § 178 Abs. 1 Nr. 2 der Zivilprozessordnung sind auf die nach § 73 Absatz 2 Satz 2 Nummer 5 bis 9 und Satz 3 des Sozialgerichtsgesetzes als Bevollmächtigte zugelassenen Personen entsprechend anzuwenden. Diese Vorschriften gelten auch, soweit Zustellungen durch Verwaltungsbehörden der Kriegsopferversorgung vorgeschrieben sind.
 
 (2) Für die übrigen Behörden gelten die jeweiligen landesrechtlichen Vorschriften über das Zustellungsverfahren.
 
-
-## § 66 – Vollstreckung
+# § 66 – Vollstreckung
 
 (1) Für die Vollstreckung zugunsten der Behörden des Bundes, der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gilt das Verwaltungs-Vollstreckungsgesetz. In Angelegenheiten des § 51 des Sozialgerichtsgesetzes ist für die Anordnung der Ersatzzwangshaft das Sozialgericht zuständig. Die oberste Verwaltungsbehörde kann bestimmen, dass die Aufsichtsbehörde nach Anhörung der in Satz 1 genannten Behörden für die Vollstreckung fachlich geeignete Bedienstete als Vollstreckungsbeamte und sonstige hierfür fachlich geeignete Bedienstete dieser Behörde als Vollziehungsbeamte bestellen darf; die fachliche Eignung ist durch einen qualifizierten beruflichen Abschluss, die Teilnahme an einem Lehrgang einschließlich berufspraktischer Tätigkeit oder entsprechende mehrjährige Berufserfahrung nachzuweisen. Die oberste Verwaltungsbehörde kann auch bestimmen, dass die Aufsichtsbehörde nach Anhörung der in Satz 1 genannten Behörden für die Vollstreckung von Ansprüchen auf Gesamtsozialversicherungsbeiträge fachlich geeignete Bedienstete
 
@@ -1834,8 +1764,7 @@ als Vollstreckungsbeamte und sonstige hierfür fachlich geeignete Bedienstete de
 
 (4) Aus einem Verwaltungsakt kann auch die Zwangsvollstreckung in entsprechender Anwendung der Zivilprozessordnung stattfinden. Der Vollstreckungsschuldner soll vor Beginn der Vollstreckung mit einer Zahlungsfrist von einer Woche gemahnt werden. Die vollstreckbare Ausfertigung erteilt der Behördenleiter, sein allgemeiner Vertreter oder ein anderer auf Antrag eines Leistungsträgers von der Aufsichtsbehörde ermächtigter Angehöriger des öffentlichen Dienstes. Bei den Versicherungsträgern und der Bundesagentur für Arbeit tritt in Satz 3 an die Stelle der Aufsichtsbehörden der Vorstand.
 
-
-## § 67 – Begriffsbestimmungen
+# § 67 – Begriffsbestimmungen
 
 (1) Die nachfolgenden Begriffsbestimmungen gelten ergänzend zu Artikel 4 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung.
 
@@ -1855,8 +1784,7 @@ als Vollstreckungsbeamte und sonstige hierfür fachlich geeignete Bedienstete de
 
 (5) Nicht-öffentliche Stellen sind natürliche und juristische Personen, Gesellschaften und andere Personenvereinigungen des privaten Rechts, soweit sie nicht unter § 81 Absatz 3 fallen.
 
-
-## § 67a – Erhebung von Sozialdaten
+# § 67a – Erhebung von Sozialdaten
 
 (1) Die Erhebung von Sozialdaten durch die in § 35 des Ersten Buches genannten Stellen ist zulässig, wenn ihre Kenntnis zur Erfüllung einer Aufgabe der erhebenden Stelle nach diesem Gesetzbuch erforderlich ist. Dies gilt auch für die Erhebung der besonderen Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
@@ -1882,8 +1810,7 @@ die Erhebung bei der betroffenen Person einen unverhältnismäßigen Aufwand erf
 
 und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Interessen der betroffenen Person beeinträchtigt werden.
 
-
-## § 67b – Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung und Löschung von Sozialdaten
+# § 67b – Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung und Löschung von Sozialdaten
 
 (1) Die Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung und Löschung von Sozialdaten durch die in § 35 des Ersten Buches genannten Stellen ist zulässig, soweit die nachfolgenden Vorschriften oder eine andere Rechtsvorschrift in diesem Gesetzbuch es erlauben oder anordnen. Dies gilt auch für die besonderen Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679. Die Übermittlung von biometrischen, genetischen oder Gesundheitsdaten ist abweichend von Artikel 9 Absatz 2 Buchstabe b, d bis j der Verordnung (EU) 2016/679 nur zulässig, soweit eine gesetzliche Übermittlungsbefugnis nach den §§ 68 bis 77 oder nach einer anderen Rechtsvorschrift in diesem Gesetzbuch vorliegt. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
@@ -1891,8 +1818,7 @@ und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Inter
 
 (3) Die Einwilligung zur Verarbeitung personenbezogener Daten zu Forschungszwecken kann für ein bestimmtes Vorhaben oder für bestimmte Bereiche der wissenschaftlichen Forschung erteilt werden. Im Bereich der wissenschaftlichen Forschung liegt ein besonderer Umstand im Sinne des Absatzes 2 Satz 2 auch dann vor, wenn durch die Einholung einer schriftlichen oder elektronischen Einwilligung der Forschungszweck erheblich beeinträchtigt würde. In diesem Fall sind die Gründe, aus denen sich die erhebliche Beeinträchtigung des Forschungszweckes ergibt, schriftlich festzuhalten.
 
-
-## § 67c – Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken
+# § 67c – Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken
 
 (1) Die Speicherung, Veränderung oder Nutzung von Sozialdaten durch die in § 35 des Ersten Buches genannten Stellen ist zulässig, wenn sie zur Erfüllung der in der Zuständigkeit des Verantwortlichen liegenden gesetzlichen Aufgaben nach diesem Gesetzbuch erforderlich ist und für die Zwecke erfolgt, für die die Daten erhoben worden sind. Ist keine Erhebung vorausgegangen, dürfen die Daten nur für die Zwecke geändert oder genutzt werden, für die sie gespeichert worden sind.
 
@@ -1908,8 +1834,7 @@ und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Inter
 
 (5) Für Zwecke der wissenschaftlichen Forschung oder Planung im Sozialleistungsbereich erhobene oder gespeicherte Sozialdaten dürfen von den in § 35 des Ersten Buches genannten Stellen nur für ein bestimmtes Vorhaben der wissenschaftlichen Forschung im Sozialleistungsbereich oder der Planung im Sozialleistungsbereich verändert oder genutzt werden. Die Sozialdaten sind zu anonymisieren, sobald dies nach dem Forschungs- oder Planungszweck möglich ist. Bis dahin sind die Merkmale gesondert zu speichern, mit denen Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren Person zugeordnet werden können. Sie dürfen mit den Einzelangaben nur zusammengeführt werden, soweit der Forschungs- oder Planungszweck dies erfordert.
 
-
-## § 67d – Übermittlungsgrundsätze
+# § 67d – Übermittlungsgrundsätze
 
 (1) Die Verantwortung für die Zulässigkeit der Bekanntgabe von Sozialdaten durch ihre Weitergabe an einen Dritten oder durch die Einsichtnahme oder den Abruf eines Dritten von zur Einsicht oder zum Abruf bereitgehaltenen Daten trägt die übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des Dritten, an den die Daten übermittelt werden, trägt dieser die Verantwortung für die Richtigkeit der Angaben in seinem Ersuchen.
 
@@ -1917,8 +1842,7 @@ und keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige Inter
 
 (3) Die Übermittlung von Sozialdaten ist auch über Vermittlungsstellen im Rahmen einer Auftragsverarbeitung zulässig.
 
-
-## § 67e – Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung
+# § 67e – Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung
 
 Bei der Prüfung nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 28p des Vierten Buches darf bei der überprüften Person zusätzlich erfragt werden,
 
@@ -1932,8 +1856,7 @@ Bei der Prüfung nach § 2 des Schwarzarbeitsbekämpfungsgesetzes oder nach § 2
 
 Zu Prüfzwecken dürfen die Antworten auf Fragen nach Satz 1 Nummer 1 an den jeweils zuständigen Leistungsträger und nach Satz 1 Nummer 2 bis 4 an die jeweils zuständige Einzugsstelle und die Bundesagentur für Arbeit übermittelt werden. Der Empfänger hat die Prüfung unverzüglich durchzuführen.
 
-
-## § 68 – Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
+# § 68 – Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr
 
 (1) Zur Erfüllung von Aufgaben der Polizeibehörden, der Staatsanwaltschaften und Gerichte, der Behörden der Gefahrenabwehr und der Justizvollzugsanstalten dürfen im Einzelfall auf Ersuchen Name, Vorname, Geburtsdatum, Geburtsort, derzeitige Anschrift der betroffenen Person, ihr derzeitiger oder zukünftiger Aufenthaltsort sowie Namen, Vornamen oder Firma und Anschriften ihrer derzeitigen Arbeitgeber übermittelt werden, soweit kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, und wenn das Ersuchen nicht länger als sechs Monate zurückliegt. Die ersuchte Stelle ist über § 4 Absatz 3 hinaus zur Übermittlung auch dann nicht verpflichtet, wenn sich die ersuchende Stelle die Angaben auf andere Weise beschaffen kann. Satz 2 findet keine Anwendung, wenn das Amtshilfeersuchen zur Durchführung einer Vollstreckung nach § 66 erforderlich ist.
 
@@ -1943,8 +1866,7 @@ Zu Prüfzwecken dürfen die Antworten auf Fragen nach Satz 1 Nummer 1 an den jew
 
 (3) Eine Übermittlung der in Absatz 1 Satz 1 genannten Sozialdaten, von Angaben zur Staats- und Religionsangehörigkeit, früherer Anschriften der betroffenen Personen, von Namen und Anschriften früherer Arbeitgeber der betroffenen Personen sowie von Angaben über an betroffene Personen erbrachte oder demnächst zu erbringende Geldleistungen ist zulässig, soweit sie zur Durchführung einer nach Bundes- oder Landesrecht zulässigen Rasterfahndung erforderlich ist. Die Verantwortung für die Zulässigkeit der Übermittlung trägt abweichend von § 67d Absatz 1 Satz 1 der Dritte, an den die Daten übermittelt werden. Die übermittelnde Stelle prüft nur, ob das Übermittlungsersuchen im Rahmen der Aufgaben des Dritten liegt, an den die Daten übermittelt werden, es sei denn, dass besonderer Anlass zur Prüfung der Zulässigkeit der Übermittlung besteht.
 
-
-## § 69 – Übermittlung für die Erfüllung sozialer Aufgaben
+# § 69 – Übermittlung für die Erfüllung sozialer Aufgaben
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie erforderlich ist
 
@@ -1968,13 +1890,11 @@ Zu Prüfzwecken dürfen die Antworten auf Fragen nach Satz 1 Nummer 1 an den jew
 
 (5) Die Übermittlung von Sozialdaten ist zulässig für die Erfüllung der gesetzlichen Aufgaben der Rechnungshöfe und der anderen Stellen, auf die § 67c Absatz 3 Satz 1 Anwendung findet.
 
-
-## § 70 – Übermittlung für die Durchführung des Arbeitsschutzes
+# § 70 – Übermittlung für die Durchführung des Arbeitsschutzes
 
 Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur Erfüllung der gesetzlichen Aufgaben der für den Arbeitsschutz zuständigen staatlichen Behörden oder der Bergbehörden bei der Durchführung des Arbeitsschutzes erforderlich ist und schutzwürdige Interessen der betroffenen Person nicht beeinträchtigt werden oder das öffentliche Interesse an der Durchführung des Arbeitsschutzes das Geheimhaltungsinteresse der betroffenen Person erheblich überwiegt.
 
-
-## § 71 – Übermittlung für die Erfüllung besonderer gesetzlicher Pflichten und Mitteilungsbefugnisse
+# § 71 – Übermittlung für die Erfüllung besonderer gesetzlicher Pflichten und Mitteilungsbefugnisse
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie erforderlich ist für die Erfüllung der gesetzlichen Mitteilungspflichten
 
@@ -2046,15 +1966,13 @@ Daten über die Gesundheit eines Ausländers dürfen nur übermittelt werden,
 
 (4) Eine Übermittlung von Sozialdaten ist außerdem zulässig, soweit sie im Einzelfall für die rechtmäßige Erfüllung der in der Zuständigkeit der Zentralstelle für Finanztransaktionsuntersuchungen liegenden Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des Geldwäschegesetzes erforderlich ist. Die Übermittlung ist auf Angaben über Name, Vorname sowie früher geführte Namen, Geburtsdatum, Geburtsort, derzeitige und frühere Anschriften der betroffenen Person sowie Namen und Anschriften seiner derzeitigen und früheren Arbeitgeber beschränkt.
 
-
-## § 72 – Übermittlung für den Schutz der inneren und äußeren Sicherheit
+# § 72 – Übermittlung für den Schutz der inneren und äußeren Sicherheit
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie im Einzelfall für die rechtmäßige Erfüllung der in der Zuständigkeit der Behörden für Verfassungsschutz, des Bundesnachrichtendienstes, des Militärischen Abschirmdienstes und des Bundeskriminalamtes liegenden Aufgaben erforderlich ist. Die Übermittlung ist auf Angaben über Name und Vorname sowie früher geführte Namen, Geburtsdatum, Geburtsort, derzeitige und frühere Anschriften der betroffenen Person sowie Namen und Anschriften ihrer derzeitigen und früheren Arbeitgeber beschränkt.
 
 (2) Über die Erforderlichkeit des Übermittlungsersuchens entscheidet eine von dem Leiter oder der Leiterin der ersuchenden Stelle bestimmte beauftragte Person, die die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen soll. Wenn eine oberste Bundes- oder Landesbehörde für die Aufsicht über die ersuchende Stelle zuständig ist, ist sie über die gestellten Übermittlungsersuchen zu unterrichten. Bei der ersuchten Stelle entscheidet über das Übermittlungsersuchen der Behördenleiter oder die Behördenleiterin oder dessen oder deren allgemeiner Stellvertreter oder allgemeine Stellvertreterin.
 
-
-## § 73 – Übermittlung für die Durchführung eines Strafverfahrens
+# § 73 – Übermittlung für die Durchführung eines Strafverfahrens
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur Durchführung eines Strafverfahrens wegen eines Verbrechens oder wegen einer sonstigen Straftat von erheblicher Bedeutung erforderlich ist.
 
@@ -2062,8 +1980,7 @@ Daten über die Gesundheit eines Ausländers dürfen nur übermittelt werden,
 
 (3) Die Übermittlung nach den Absätzen 1 und 2 ordnet der Richter oder die Richterin an.
 
-
-## § 74 – Übermittlung bei Verletzung der Unterhaltspflicht und beim Versorgungsausgleich
+# § 74 – Übermittlung bei Verletzung der Unterhaltspflicht und beim Versorgungsausgleich
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie erforderlich ist
 
@@ -2085,8 +2002,7 @@ In den Fällen des Satzes 1 Nummer 2 und 3 ist eine Übermittlung nur zulässig,
 
 (2) Eine Übermittlung von Sozialdaten durch die Träger der gesetzlichen Rentenversicherung und durch die Träger der Grundsicherung für Arbeitsuchende ist auch zulässig, soweit sie für die Erfüllung der nach § 5 des Auslandsunterhaltsgesetzes der zentralen Behörde (§ 4 des Auslandsunterhaltsgesetzes) obliegenden Aufgaben und zur Erreichung der in den §§ 16 und 17 des Auslandsunterhaltsgesetzes bezeichneten Zwecke erforderlich ist.
 
-
-## § 74a – Übermittlung zur Durchsetzung öffentlich-rechtlicher Ansprüche und im Vollstreckungsverfahren
+# § 74a – Übermittlung zur Durchsetzung öffentlich-rechtlicher Ansprüche und im Vollstreckungsverfahren
 
 (1) Zur Durchsetzung von öffentlich-rechtlichen Ansprüchen dürfen im Einzelfall auf Ersuchen Name, Vorname, Geburtsdatum, Geburtsort, derzeitige Anschrift der betroffenen Person, ihr derzeitiger oder zukünftiger Aufenthaltsort sowie Namen, Vornamen oder Firma und Anschriften ihrer derzeitigen Arbeitgeber übermittelt werden, soweit kein Grund zu der Annahme besteht, dass dadurch schutzwürdige Interessen der betroffenen Person beeinträchtigt werden, und wenn das Ersuchen nicht länger als sechs Monate zurückliegt. Die ersuchte Stelle ist über § 4 Absatz 3 hinaus zur Übermittlung auch dann nicht verpflichtet, wenn sich die ersuchende Stelle die Angaben auf andere Weise beschaffen kann. Satz 2 findet keine Anwendung, wenn das Amtshilfeersuchen zur Durchführung einer Vollstreckung nach § 66 erforderlich ist.
 
@@ -2100,8 +2016,7 @@ In den Fällen des Satzes 1 Nummer 2 und 3 ist eine Übermittlung nur zulässig,
 
 Der Gerichtsvollzieher hat in seinem Ersuchen zu bestätigen, dass diese Voraussetzungen vorliegen. Das Ersuchen und die Auskunft sind elektronisch zu übermitteln.
 
-
-## § 75 – Übermittlung von Sozialdaten für die Forschung und Planung
+# § 75 – Übermittlung von Sozialdaten für die Forschung und Planung
 
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie erforderlich ist für ein bestimmtes Vorhaben
 
@@ -2135,8 +2050,7 @@ genau bezeichnen und steht auch ohne besonderen Hinweis unter dem Vorbehalt der 
 
 (+++ § 75 Abs. 2: Änderungsanweisung durch Art. 38 Nr. 4 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
-
-## § 76 – Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten
+# § 76 – Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten
 
 (1) Die Übermittlung von Sozialdaten, die einer in § 35 des Ersten Buches genannten Stelle von einem Arzt oder einer Ärztin oder einer anderen in § 203 Absatz 1 und 4 des Strafgesetzbuches genannten Person zugänglich gemacht worden sind, ist nur unter den Voraussetzungen zulässig, unter denen diese Person selbst übermittlungsbefugt wäre.
 
@@ -2144,8 +2058,7 @@ genau bezeichnen und steht auch ohne besonderen Hinweis unter dem Vorbehalt der 
 
 1. im Rahmen des § 69 Absatz 1 Nummer 1 und 2 für Sozialdaten, die im Zusammenhang mit einer Begutachtung wegen der Erbringung von Sozialleistungen oder wegen der Ausstellung einer Bescheinigung übermittelt worden sind, es sei denn, dass die betroffene Person der Übermittlung widerspricht; die betroffene Person ist von dem Verantwortlichen zu Beginn des Verwaltungsverfahrens in allgemeiner Form schriftlich oder elektronisch auf das Widerspruchsrecht hinzuweisen,
 
-1a.  
-im Rahmen der Geltendmachung und Durchsetzung sowie Abwehr eines Erstattungs- oder Ersatzanspruchs,
+1a. im Rahmen der Geltendmachung und Durchsetzung sowie Abwehr eines Erstattungs- oder Ersatzanspruchs,
 
 2. im Rahmen des § 69 Absatz 4 und 5 und des § 71 Absatz 1 Satz 3,
 
@@ -2153,8 +2066,7 @@ im Rahmen der Geltendmachung und Durchsetzung sowie Abwehr eines Erstattungs- od
 
 (3) Ein Widerspruchsrecht besteht nicht in den Fällen des § 275 Absatz 1 bis 3 und 3b, des § 275c Absatz 1 und des § 275d Absatz 1 des Fünften Buches, soweit die Daten durch Personen nach Absatz 1 übermittelt werden.
 
-
-## § 77 – Übermittlung ins Ausland und an internationale Organisationen
+# § 77 – Übermittlung ins Ausland und an internationale Organisationen
 
 (1) Die Übermittlung von Sozialdaten an Personen oder Stellen in anderen Mitgliedstaaten der Europäischen Union sowie in diesen nach § 35 Absatz 7 des Ersten Buches gleichgestellten Staaten ist zulässig, soweit
 
@@ -2182,8 +2094,7 @@ und soweit die betroffene Person kein schutzwürdiges Interesse an dem Ausschlus
 
 (+++ § 77: Änderungsanweisungen durch Art. 38 Nr. 4 G v. 12.12.2019 I 2652 mWv 1.1.2020 wegen textlicher Unstimmigkeit nicht ausführbar +++)
 
-
-## § 78 – Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden
+# § 78 – Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden
 
 (1) Personen oder Stellen, die nicht in § 35 des Ersten Buches genannt und denen Sozialdaten übermittelt worden sind, dürfen diese nur zu dem Zweck verarbeiten, zu dem sie ihnen befugt übermittelt worden sind. Eine Übermittlung von Sozialdaten nach den §§ 68 bis 77 oder nach einer anderen Rechtsvorschrift in diesem Gesetzbuch an eine nicht-öffentliche Stelle auf deren Ersuchen hin ist nur zulässig, wenn diese sich gegenüber der übermittelnden Stelle verpflichtet hat, die Daten nur für den Zweck zu verarbeiten, zu dem sie ihr übermittelt werden. Die Dritten haben die Daten in demselben Umfang geheim zu halten wie die in § 35 des Ersten Buches genannten Stellen. Sind Sozialdaten an Gerichte oder Staatsanwaltschaften übermittelt worden, dürfen diese gerichtliche Entscheidungen, die Sozialdaten enthalten, weiter übermitteln, wenn eine in § 35 des Ersten Buches genannte Stelle zur Übermittlung an den weiteren Dritten befugt wäre. Abweichend von Satz 4 ist eine Übermittlung nach § 115 des Bundesbeamtengesetzes und nach Vorschriften, die auf diese Vorschrift verweisen, zulässig. Sind Sozialdaten an Polizeibehörden, Staatsanwaltschaften, Gerichte oder Behörden der Gefahrenabwehr übermittelt worden, dürfen diese die Daten unabhängig vom Zweck der Übermittlung sowohl für Zwecke der Gefahrenabwehr als auch für Zwecke der Strafverfolgung und der Strafvollstreckung speichern, verändern, nutzen, übermitteln, in der Verarbeitung einschränken oder löschen.
 
@@ -2195,8 +2106,7 @@ und soweit die betroffene Person kein schutzwürdiges Interesse an dem Ausschlus
 
 (5) Behörden der Zollverwaltung dürfen Sozialdaten, die ihnen zum Zweck der Vollstreckung übermittelt worden sind, auch zum Zweck der Vollstreckung öffentlich-rechtlicher Ansprüche anderer Stellen als der in § 35 des Ersten Buches genannten Stellen verarbeiten.
 
-
-## § 79 – Einrichtung automatisierter Verfahren auf Abruf
+# § 79 – Einrichtung automatisierter Verfahren auf Abruf
 
 (1) Die Einrichtung eines automatisierten Verfahrens, das die Übermittlung von Sozialdaten durch Abruf ermöglicht, ist zwischen den in § 35 des Ersten Buches genannten Stellen sowie mit der Deutschen Rentenversicherung Bund als zentraler Stelle zur Erfüllung ihrer Aufgaben nach § 91 Absatz 1 Satz 1 des Einkommensteuergesetzes und der Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz durchführt, zulässig, soweit dieses Verfahren unter Berücksichtigung der schutzwürdigen Interessen der betroffenen Personen wegen der Vielzahl der Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen ist und wenn die jeweiligen Rechts- oder Fachaufsichtsbehörden die Teilnahme der unter ihrer Aufsicht stehenden Stellen genehmigt haben. Das Gleiche gilt gegenüber den in § 69 Absatz 2 und 3 genannten Stellen.
 
@@ -2218,8 +2128,7 @@ und soweit die betroffene Person kein schutzwürdiges Interesse an dem Ausschlus
 
 (5) Die Absätze 1 bis 4 gelten nicht für den Abruf aus Dateisystemen, die mit Einwilligung der betroffenen Personen angelegt werden und die jedermann, sei es ohne oder nach besonderer Zulassung, zur Benutzung offenstehen.
 
-
-## § 80 – Verarbeitung von Sozialdaten im Auftrag
+# § 80 – Verarbeitung von Sozialdaten im Auftrag
 
 (1) Die Erteilung eines Auftrags im Sinne des Artikels 28 der Verordnung (EU) 2016/679 zur Verarbeitung von Sozialdaten ist nur zulässig, wenn der Verantwortliche seiner Rechts- oder Fachaufsichtsbehörde rechtzeitig vor der Auftragserteilung
 
@@ -2247,8 +2156,7 @@ Dies gilt nicht, wenn Dienstleister in der Informationstechnik, deren absolute M
 
 (5) Absatz 3 gilt nicht bei Verträgen über die Prüfung oder Wartung automatisierter Verfahren oder von Datenverarbeitungsanlagen durch andere Stellen im Auftrag, bei denen ein Zugriff auf Sozialdaten nicht ausgeschlossen werden kann. Die Verträge sind bei zu erwartenden oder bereits eingetretenen Störungen im Betriebsablauf unverzüglich der Rechts- oder Fachaufsichtsbehörde mitzuteilen.
 
-
-## § 81 – Recht auf Anrufung, Beauftragte für den Datenschutz
+# § 81 – Recht auf Anrufung, Beauftragte für den Datenschutz
 
 (1) Ist eine betroffene Person der Ansicht, bei der Verarbeitung ihrer Sozialdaten in ihren Rechten verletzt worden zu sein, kann sie sich
 
@@ -2262,8 +2170,7 @@ Dies gilt nicht, wenn Dienstleister in der Informationstechnik, deren absolute M
 
 (4) Auf die in § 35 des Ersten Buches genannten Stellen, die Vermittlungsstellen nach § 67d Absatz 3 und die Auftragsverarbeiter sind die §§ 5 bis 7 des Bundesdatenschutzgesetzes entsprechend anzuwenden. In räumlich getrennten Organisationseinheiten ist sicherzustellen, dass der oder die Beauftragte für den Datenschutz bei der Erfüllung seiner oder ihrer Aufgaben unterstützt wird. Die Sätze 1 und 2 gelten nicht für öffentliche Stellen der Länder mit Ausnahme der Sozialversicherungsträger und ihrer Verbände. Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 81a – Gerichtlicher Rechtsschutz
+# § 81a – Gerichtlicher Rechtsschutz
 
 (1) Für Streitigkeiten zwischen einer natürlichen oder juristischen Person und dem oder der Bundesbeauftragten oder der nach Landesrecht für die Kontrolle des Datenschutzes zuständigen Stelle gemäß Artikel 78 Absatz 1 und 2 der Verordnung (EU) 2016/679 aufgrund der Verarbeitung von Sozialdaten im Zusammenhang mit einer Angelegenheit nach § 51 Absatz 1 und 2 des Sozialgerichtsgesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit eröffnet. Für die übrigen Streitigkeiten gemäß Artikel 78 Absatz 1 und 2 der Verordnung (EU) 2016/679 aufgrund der Verarbeitung von Sozialdaten gilt § 20 des Bundesdatenschutzgesetzes, soweit die Streitigkeiten nicht durch Bundesgesetz einer anderen Gerichtsbarkeit ausdrücklich zugewiesen sind. Satz 1 gilt nicht für Bußgeldverfahren.
 
@@ -2285,8 +2192,7 @@ Dies gilt nicht, wenn Dienstleister in der Informationstechnik, deren absolute M
 
 (7) Der oder die Bundesbeauftragte oder die nach Landesrecht für die Kontrolle des Datenschutzes zuständige Stelle darf gegenüber einer Behörde oder deren Rechtsträger nicht die sofortige Vollziehung (§ 86a Absatz 2 Nummer 5 des Sozialgerichtsgesetzes) anordnen.
 
-
-## § 81b – Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
+# § 81b – Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
 
 (1) Für Klagen der betroffenen Person gegen einen Verantwortlichen oder einen Auftragsverarbeiter wegen eines Verstoßes gegen datenschutzrechtliche Bestimmungen im Anwendungsbereich der Verordnung (EU) 2016/679 oder der darin enthaltenen Rechte der betroffenen Person bei der Verarbeitung von Sozialdaten im Zusammenhang mit einer Angelegenheit nach § 51 Absatz 1 und 2 des Sozialgerichtsgesetzes ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit eröffnet.
 
@@ -2294,13 +2200,11 @@ Dies gilt nicht, wenn Dienstleister in der Informationstechnik, deren absolute M
 
 (3) Hat der Verantwortliche oder Auftragsverarbeiter einen Vertreter nach Artikel 27 Absatz 1 der Verordnung (EU) 2016/679 benannt, gilt dieser auch als bevollmächtigt, Zustellungen in sozialgerichtlichen Verfahren nach Absatz 1 entgegenzunehmen. § 63 Absatz 3 des Sozialgerichtsgesetzes bleibt unberührt.
 
-
-## § 81c – Antrag auf gerichtliche Entscheidung bei angenommener Europarechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
+# § 81c – Antrag auf gerichtliche Entscheidung bei angenommener Europarechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
 
 Hält der oder die Bundesbeauftragte oder eine nach Landesrecht für die Kontrolle des Datenschutzes zuständige Stelle einen Angemessenheitsbeschluss der Europäischen Kommission, auf dessen Gültigkeit es bei der Entscheidung über die Beschwerde einer betroffenen Person hinsichtlich der Verarbeitung von Sozialdaten ankommt, für europarechtswidrig, so gilt § 21 des Bundesdatenschutzgesetzes.
 
-
-## § 82 – Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person
+# § 82 – Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person
 
 (1) Die Pflicht zur Information der betroffenen Person gemäß Artikel 13 Absatz 1 Buchstabe e der Verordnung (EU) 2016/679 über Kategorien von Empfängern besteht ergänzend zu der in Artikel 13 Absatz 4 der Verordnung (EU) 2016/679 genannten Ausnahme nur, soweit
 
@@ -2324,8 +2228,7 @@ Hält der oder die Bundesbeauftragte oder eine nach Landesrecht für die Kontrol
 
 (5) Bezieht sich die Informationserteilung auf die Übermittlung von Sozialdaten durch öffentliche Stellen an die Staatsanwaltschaften und Gerichte im Bereich der Strafverfolgung, an Polizeibehörden, Verfassungsschutzbehörden, den Bundesnachrichtendienst und den Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser Stelle zulässig.
 
-
-## § 82a – Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden
+# § 82a – Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden
 
 (1) Die Pflicht einer in § 35 des Ersten Buches genannten Stelle zur Information der betroffenen Person gemäß Artikel 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679 besteht ergänzend zu den in Artikel 14 Absatz 5 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht,
 
@@ -2347,8 +2250,7 @@ und deswegen das Interesse der betroffenen Person an der Informationserteilung z
 
 (5) Bezieht sich die Informationserteilung auf die Übermittlung von Sozialdaten durch öffentliche Stellen an Staatsanwaltschaften und Gerichte im Bereich der Strafverfolgung, an Polizeibehörden, Verfassungsschutzbehörden, den Bundesnachrichtendienst und den Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser Stellen zulässig.
 
-
-## § 83 – Auskunftsrecht der betroffenen Personen
+# § 83 – Auskunftsrecht der betroffenen Personen
 
 (1) Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der Verordnung (EU) 2016/679 besteht nicht, soweit
 
@@ -2370,13 +2272,11 @@ und die Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern würde
 
 (5) Bezieht sich die Informationserteilung auf die Übermittlung von Sozialdaten durch öffentliche Stellen an Staatsanwaltschaften und Gerichte im Bereich der Strafverfolgung, an Polizeibehörden, Verfassungsschutzbehörden, den Bundesnachrichtendienst und den Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser Stellen zulässig.
 
-
-## § 83a – Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten
+# § 83a – Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten
 
 Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der Verordnung (EU) 2016/679 meldet die in § 35 des Ersten Buches genannte Stelle die Verletzung des Schutzes von Sozialdaten auch der Rechts- oder Fachaufsichtsbehörde.
 
-
-## § 84 – Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
+# § 84 – Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
 
 (1) Ist eine Löschung von Sozialdaten im Fall nicht automatisierter Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder nur mit unverhältnismäßig hohem Aufwand möglich und ist das Interesse der betroffenen Person an der Löschung als gering anzusehen, besteht das Recht der betroffenen Person auf und die Pflicht des Verantwortlichen zur Löschung von Sozialdaten gemäß Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 ergänzend zu den in Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung gemäß Artikel 18 der Verordnung (EU) 2016/679. Die Sätze 1 und 2 finden keine Anwendung, wenn die Sozialdaten unrechtmäßig verarbeitet wurden.
 
@@ -2390,8 +2290,7 @@ Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der Verordnung (
 
 (6) § 71 Absatz 1 Satz 3 bleibt unberührt.
 
-
-## § 85 – Strafvorschriften
+# § 85 – Strafvorschriften
 
 (1) Für Sozialdaten gelten die Strafvorschriften des § 42 Absatz 1 und 2 des Bundesdatenschutzgesetzes entsprechend.
 
@@ -2399,8 +2298,7 @@ Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der Verordnung (
 
 (3) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU) 2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der Verordnung (EU) 2016/679 dürfen in einem Strafverfahren gegen die melde- oder benachrichtigungspflichtige Person oder gegen einen ihrer in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur mit Zustimmung der melde- oder benachrichtigungspflichtigen Person verwendet werden.
 
-
-## § 85a – Bußgeldvorschriften
+# § 85a – Bußgeldvorschriften
 
 (1) Für Sozialdaten gilt § 41 des Bundesdatenschutzgesetzes entsprechend.
 
@@ -2408,20 +2306,17 @@ Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der Verordnung (
 
 (3) Gegen Behörden und sonstige öffentliche Stellen werden keine Geldbußen verhängt.
 
-
-## § 86 – Zusammenarbeit
+# § 86 – Zusammenarbeit
 
 Die Leistungsträger, ihre Verbände und die in diesem Gesetzbuch genannten öffentlich-rechtlichen Vereinigungen sind verpflichtet, bei der Erfüllung ihrer Aufgaben nach diesem Gesetzbuch eng zusammenzuarbeiten.
 
-
-## § 87 – Beschleunigung der Zusammenarbeit
+# § 87 – Beschleunigung der Zusammenarbeit
 
 (1) Ersucht ein Leistungsträger einen anderen Leistungsträger um Verrechnung mit einer Nachzahlung und kann er die Höhe des zu verrechnenden Anspruchs noch nicht bestimmen, ist der ersuchte Leistungsträger dagegen bereits in der Lage, die Nachzahlung zu erbringen, ist die Nachzahlung spätestens innerhalb von zwei Monaten nach Zugang des Verrechnungsersuchens zu leisten. Soweit die Nachzahlung nach Auffassung der beteiligten Leistungsträger die Ansprüche der ersuchenden Leistungsträger übersteigt, ist sie unverzüglich auszuzahlen.
 
 (2) Ist ein Anspruch auf eine Geldleistung auf einen anderen Leistungsträger übergegangen und ist der Anspruchsübergang sowohl diesem als auch dem verpflichteten Leistungsträger bekannt, hat der verpflichtete Leistungsträger die Geldleistung nach Ablauf von zwei Monaten seit dem Zeitpunkt, in dem die Auszahlung frühestens möglich ist, an den Berechtigten auszuzahlen, soweit ihm bis zu diesem Zeitpunkt nicht bekannt ist, in welcher Höhe der Anspruch dem anderen Leistungsträger zusteht. Die Auszahlung hat gegenüber dem anderen Leistungsträger befreiende Wirkung. Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 88 – Auftrag
+# § 88 – Auftrag
 
 (1) Ein Leistungsträger (Auftraggeber) kann ihm obliegende Aufgaben durch einen anderen Leistungsträger oder seinen Verband (Beauftragter) mit dessen Zustimmung wahrnehmen lassen, wenn dies
 
@@ -2439,8 +2334,7 @@ zweckmäßig ist. Satz 1 gilt nicht im Recht der Ausbildungsförderung, der Krie
 
 (4) Der Auftraggeber hat einen Auftrag für gleichartige Fälle in der für seine amtlichen Veröffentlichungen vorgeschriebenen Weise bekanntzumachen.
 
-
-## § 89 – Ausführung des Auftrags
+# § 89 – Ausführung des Auftrags
 
 (1) Verwaltungsakte, die der Beauftragte zur Ausführung des Auftrags erlässt, ergehen im Namen des Auftraggebers.
 
@@ -2452,13 +2346,11 @@ zweckmäßig ist. Satz 1 gilt nicht im Recht der Ausbildungsförderung, der Krie
 
 (5) Der Auftraggeber ist berechtigt, den Beauftragten an seine Auffassung zu binden.
 
-
-## § 90 – Anträge und Widerspruch beim Auftrag
+# § 90 – Anträge und Widerspruch beim Auftrag
 
 Der Beteiligte kann auch beim Beauftragten Anträge stellen. Erhebt der Beteiligte gegen eine Entscheidung des Beauftragten Widerspruch und hilft der Beauftragte diesem nicht ab, erlässt den Widerspruchsbescheid die für den Auftraggeber zuständige Widerspruchsstelle.
 
-
-## § 91 – Erstattung von Aufwendungen
+# § 91 – Erstattung von Aufwendungen
 
 (1) Erbringt ein Beauftragter Sozialleistungen für einen Auftraggeber, ist dieser zur Erstattung verpflichtet. Sach- und Dienstleistungen sind in Geld zu erstatten. Eine Erstattungspflicht besteht nicht, soweit Sozialleistungen zu Unrecht erbracht worden sind und den Beauftragten hierfür ein Verschulden trifft.
 
@@ -2468,18 +2360,15 @@ Der Beteiligte kann auch beim Beauftragten Anträge stellen. Erhebt der Beteilig
 
 (4) Abweichende Vereinbarungen, insbesondere über pauschalierte Erstattungen, sind zulässig.
 
-
-## § 92 – Kündigung des Auftrags
+# § 92 – Kündigung des Auftrags
 
 Der Auftraggeber oder der Beauftragte kann den Auftrag kündigen. Die Kündigung darf nur zu einem Zeitpunkt erfolgen, der es ermöglicht, dass der Auftraggeber für die Erledigung der Aufgabe auf andere Weise rechtzeitig Vorsorge treffen und der Beauftragte sich auf den Wegfall des Auftrags in angemessener Zeit einstellen kann. Liegt ein wichtiger Grund vor, kann mit sofortiger Wirkung gekündigt werden. § 88 Abs. 4 gilt entsprechend.
 
-
-## § 93 – Gesetzlicher Auftrag
+# § 93 – Gesetzlicher Auftrag
 
 Handelt ein Leistungsträger auf Grund gesetzlichen Auftrags für einen anderen, gelten § 89 Abs. 3 und 5 sowie § 91 Abs. 1 und 3 entsprechend.
 
-
-## § 94 – Arbeitsgemeinschaften
+# § 94 – Arbeitsgemeinschaften
 
 (1) Die Arbeitsgemeinschaft für Krebsbekämpfung der Träger der gesetzlichen Kranken- und Rentenversicherung im Lande Nordrhein-Westfalen, die Rheinische Arbeitsgemeinschaft zur Rehabilitation Suchtkranker, die Westfälische Arbeitsgemeinschaft zur Rehabilitation Suchtkranker, die Arbeitsgemeinschaft zur Rehabilitation Suchtkranker im Lande Hessen sowie die Arbeitsgemeinschaft für Heimdialyse im Lande Hessen sind berechtigt, Verwaltungsakte zu erlassen zur Erfüllung der Aufgaben, die ihnen am 1. Juli 1981 übertragen waren.
 
@@ -2495,8 +2384,7 @@ Handelt ein Leistungsträger auf Grund gesetzlichen Auftrags für einen anderen,
 
 (+++ § 94 Abs. 1a: Zur Anwendung vgl. § 20b Abs. 3 SGB 5 u. § 5 Abs. 3 SGB 11 jeweils F. ab 17.7.2015 +++)
 
-
-## § 95 – Zusammenarbeit bei Planung und Forschung
+# § 95 – Zusammenarbeit bei Planung und Forschung
 
 (1) Die in § 86 genannten Stellen sollen
 
@@ -2508,8 +2396,7 @@ Die jeweiligen Gebietskörperschaften sowie die gemeinnützigen und freien Einri
 
 (2) Die in § 86 genannten Stellen sollen Forschungsvorhaben über den gleichen Gegenstand aufeinander abstimmen.
 
-
-## § 96 – Ärztliche Untersuchungen, psychologische Eignungsuntersuchungen
+# § 96 – Ärztliche Untersuchungen, psychologische Eignungsuntersuchungen
 
 (1) Veranlasst ein Leistungsträger eine ärztliche Untersuchungsmaßnahme oder eine psychologische Eignungsuntersuchungsmaßnahme, um festzustellen, ob die Voraussetzungen für eine Sozialleistung vorliegen, sollen die Untersuchungen in der Art und Weise vorgenommen und deren Ergebnisse so festgehalten werden, dass sie auch bei der Prüfung der Voraussetzungen anderer Sozialleistungen verwendet werden können. Der Umfang der Untersuchungsmaßnahme richtet sich nach der Aufgabe, die der Leistungsträger, der die Untersuchung veranlasst hat, zu erfüllen hat. Die Untersuchungsbefunde sollen bei der Feststellung, ob die Voraussetzungen einer anderen Sozialleistung vorliegen, verwertet werden.
 
@@ -2517,15 +2404,13 @@ Die jeweiligen Gebietskörperschaften sowie die gemeinnützigen und freien Einri
 
 (3) Die Bildung einer Zentraldatei mehrerer Leistungsträger für Daten der ärztlich untersuchten Leistungsempfänger ist nicht zulässig.
 
-
-## § 97 – Durchführung von Aufgaben durch Dritte
+# § 97 – Durchführung von Aufgaben durch Dritte
 
 (1) Kann ein Leistungsträger, ein Verband von Leistungsträgern oder eine Arbeitsgemeinschaft von einem Dritten Aufgaben wahrnehmen lassen, muss sichergestellt sein, dass der Dritte die Gewähr für eine sachgerechte, die Rechte und Interessen des Betroffenen wahrende Erfüllung der Aufgaben bietet. Soweit Aufgaben aus dem Bereich der Sozialversicherung von einem Dritten, an dem ein Leistungsträger, ein Verband oder eine Arbeitsgemeinschaft unmittelbar oder mittelbar beteiligt ist, wahrgenommen werden sollen, hat der Leistungsträger, der Verband oder die Arbeitsgemeinschaft den Dritten zu verpflichten, dem Auftraggeber auf Verlangen alle Unterlagen vorzulegen und über alle Tatsachen Auskunft zu erteilen, die zur Ausübung des Aufsichtsrechts über die Auftraggeber auf Grund pflichtgemäßer Prüfung der Aufsichtsbehörde des Auftraggebers erforderlich sind. Die Aufsichtsbehörde ist durch den Leistungsträger, den Verband oder die Arbeitsgemeinschaft so rechtzeitig und umfassend zu unterrichten, dass ihr vor der Aufgabenübertragung oder einer Änderung ausreichend Zeit zur Prüfung bleibt. Die Aufsichtsbehörde kann auf eine Unterrichtung verzichten. Die Sätze 3 und 4 gelten nicht für die Bundesagentur für Arbeit.
 
 (2) § 89 Abs. 3 bis 5, § 91 Abs. 1 bis 3 sowie § 92 gelten entsprechend.
 
-
-## § 98 – Auskunftspflicht des Arbeitgebers
+# § 98 – Auskunftspflicht des Arbeitgebers
 
 (1) Soweit es in der Sozialversicherung einschließlich der Arbeitslosenversicherung im Einzelfall für die Erbringung von Sozialleistungen erforderlich ist, hat der Arbeitgeber auf Verlangen dem Leistungsträger oder der zuständigen Einzugsstelle Auskunft über die Art und Dauer der Beschäftigung, den Beschäftigungsort und das Arbeitsentgelt zu erteilen. Wegen der Entrichtung von Beiträgen hat der Arbeitgeber auf Verlangen über alle Tatsachen Auskunft zu erteilen, die für die Erhebung der Beiträge notwendig sind. Der Arbeitgeber hat auf Verlangen die Geschäftsbücher, Listen oder andere Unterlagen, aus denen die Angaben über die Beschäftigung hervorgehen, während der Betriebszeit nach seiner Wahl den in Satz 1 bezeichneten Stellen entweder in deren oder in seinen eigenen Geschäftsräumen zur Einsicht vorzulegen. Das Wahlrecht nach Satz 3 entfällt, wenn besondere Gründe eine Prüfung in den Geschäftsräumen des Arbeitgebers gerechtfertigt erscheinen lassen. Satz 4 gilt nicht gegenüber Arbeitgebern des öffentlichen Dienstes. Die Sätze 2 bis 5 gelten auch für Stellen im Sinne des § 28p Abs. 6 des Vierten Buches.
 
@@ -2545,8 +2430,7 @@ Die jeweiligen Gebietskörperschaften sowie die gemeinnützigen und freien Einri
 
 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Euro geahndet werden. Die Sätze 1 und 2 gelten nicht für die Leistungsträger, wenn sie wie ein Arbeitgeber Beiträge für eine kraft Gesetzes versicherte Person zu entrichten haben.
 
-
-## § 99 – Auskunftspflicht von Angehörigen, Unterhaltspflichtigen oder sonstigen Personen
+# § 99 – Auskunftspflicht von Angehörigen, Unterhaltspflichtigen oder sonstigen Personen
 
 Ist nach dem Recht der Sozialversicherung einschließlich der Arbeitslosenversicherung oder dem sozialen Entschädigungsrecht
 
@@ -2556,8 +2440,7 @@ Ist nach dem Recht der Sozialversicherung einschließlich der Arbeitslosenversic
 
 gelten für diese Personen § 60 Abs. 1 Nr. 1 und 3 sowie § 65 Abs. 1 des Ersten Buches entsprechend. Das Gleiche gilt für den in Satz 1 genannten Anwendungsbereich in den Fällen, in denen Unterhaltspflichtige, Angehörige, der frühere Ehegatte, der frühere Lebenspartner oder Erben zum Ersatz der Aufwendungen des Leistungsträgers herangezogen werden. Auskünfte auf Fragen, deren Beantwortung einem nach Satz 1 oder Satz 2 Auskunftspflichtigen oder einer ihm nahe stehenden Person (§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung) die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert werden.
 
-
-## § 100 – Auskunftspflicht des Arztes oder Angehörigen eines anderen Heilberufs
+# § 100 – Auskunftspflicht des Arztes oder Angehörigen eines anderen Heilberufs
 
 (1) Der Arzt oder Angehörige eines anderen Heilberufs ist verpflichtet, dem Leistungsträger im Einzelfall auf Verlangen Auskunft zu erteilen, soweit es für die Durchführung von dessen Aufgaben nach diesem Gesetzbuch erforderlich und
 
@@ -2569,13 +2452,11 @@ Die Einwilligung soll zum Nachweis im Sinne des Artikels 7 Absatz 1 der Verordnu
 
 (2) Auskünfte auf Fragen, deren Beantwortung dem Arzt, dem Angehörigen eines anderen Heilberufs oder ihnen nahe stehenden Personen (§ 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung) die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert werden.
 
-
-## § 101 – Auskunftspflicht der Leistungsträger
+# § 101 – Auskunftspflicht der Leistungsträger
 
 Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungsbefunde, die für die Behandlung von Bedeutung sein können, mitzuteilen, sofern der Betroffene im Einzelfall in die Mitteilung eingewilligt hat. § 100 Abs. 1 Satz 2 gilt entsprechend.
 
-
-## § 101a – Mitteilungen der Meldebehörden
+# § 101a – Mitteilungen der Meldebehörden
 
 (1) Die Datenstelle der Rentenversicherung übermittelt die Mitteilungen aller Sterbefälle und Anschriftenänderungen und jede Änderung des Vor- und des Familiennamens unter den Voraussetzungen von § 196 Absatz 2 des Sechsten Buches und bei einer Eheschließung eines Einwohners das Datum dieser Eheschließung unter den Voraussetzungen von § 196 Absatz 2a des Sechsten Buches unverzüglich an die Deutsche Post AG.
 
@@ -2591,15 +2472,13 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 2. im Übrigen im Rahmen eines öffentlich-rechtlichen oder privatrechtlichen Vertrages der Deutschen Post AG mit den Leistungsträgern, den berufsständischen Versorgungseinrichtungen oder den in § 69 Abs. 2 genannten Stellen.
 
-
-## § 102 – Anspruch des vorläufig leistenden Leistungsträgers
+# § 102 – Anspruch des vorläufig leistenden Leistungsträgers
 
 (1) Hat ein Leistungsträger auf Grund gesetzlicher Vorschriften vorläufig Sozialleistungen erbracht, ist der zur Leistung verpflichtete Leistungsträger erstattungspflichtig.
 
 (2) Der Umfang des Erstattungsanspruchs richtet sich nach den für den vorleistenden Leistungsträger geltenden Rechtsvorschriften.
 
-
-## § 103 – Anspruch des Leistungsträgers, dessen Leistungsverpflichtung nachträglich entfallen ist
+# § 103 – Anspruch des Leistungsträgers, dessen Leistungsverpflichtung nachträglich entfallen ist
 
 (1) Hat ein Leistungsträger Sozialleistungen erbracht und ist der Anspruch auf diese nachträglich ganz oder teilweise entfallen, ist der für die entsprechende Leistung zuständige Leistungsträger erstattungspflichtig, soweit dieser nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat.
 
@@ -2607,8 +2486,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
-
-## § 104 – Anspruch des nachrangig verpflichteten Leistungsträgers
+# § 104 – Anspruch des nachrangig verpflichteten Leistungsträgers
 
 (1) Hat ein nachrangig verpflichteter Leistungsträger Sozialleistungen erbracht, ohne dass die Voraussetzungen von § 103 Abs. 1 vorliegen, ist der Leistungsträger erstattungspflichtig, gegen den der Berechtigte vorrangig einen Anspruch hat oder hatte, soweit der Leistungsträger nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat. Nachrangig verpflichtet ist ein Leistungsträger, soweit dieser bei rechtzeitiger Erfüllung der Leistungsverpflichtung eines anderen Leistungsträgers selbst nicht zur Leistung verpflichtet gewesen wäre. Ein Erstattungsanspruch besteht nicht, soweit der nachrangige Leistungsträger seine Leistungen auch bei Leistung des vorrangig verpflichteten Leistungsträgers hätte erbringen müssen. Satz 1 gilt entsprechend, wenn von den Trägern der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe Aufwendungsersatz geltend gemacht oder ein Kostenbeitrag erhoben werden kann; Satz 3 gilt in diesen Fällen nicht.
 
@@ -2618,8 +2496,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (4) Sind mehrere Leistungsträger vorrangig verpflichtet, kann der Leistungsträger, der die Sozialleistung erbracht hat, Erstattung nur von dem Leistungsträger verlangen, für den er nach § 107 Abs. 2 mit befreiender Wirkung geleistet hat.
 
-
-## § 105 – Anspruch des unzuständigen Leistungsträgers
+# § 105 – Anspruch des unzuständigen Leistungsträgers
 
 (1) Hat ein unzuständiger Leistungsträger Sozialleistungen erbracht, ohne dass die Voraussetzungen von § 102 Abs. 1 vorliegen, ist der zuständige oder zuständig gewesene Leistungsträger erstattungspflichtig, soweit dieser nicht bereits selbst geleistet hat, bevor er von der Leistung des anderen Leistungsträgers Kenntnis erlangt hat. § 104 Abs. 2 gilt entsprechend.
 
@@ -2627,8 +2504,7 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (3) Die Absätze 1 und 2 gelten gegenüber den Trägern der Eingliederungshilfe, der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe nur von dem Zeitpunkt ab, von dem ihnen bekannt war, dass die Voraussetzungen für ihre Leistungspflicht vorlagen.
 
-
-## § 106 – Rangfolge bei mehreren Erstattungsberechtigten
+# § 106 – Rangfolge bei mehreren Erstattungsberechtigten
 
 (1) Ist ein Leistungsträger mehreren Leistungsträgern zur Erstattung verpflichtet, sind die Ansprüche in folgender Rangfolge zu befriedigen:  
 1. (weggefallen)
@@ -2645,15 +2521,13 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 (3) Der Erstattungspflichtige muss insgesamt nicht mehr erstatten, als er nach den für ihn geltenden Erstattungsvorschriften einzeln zu erbringen hätte.
 
-
-## § 107 – Erfüllung
+# § 107 – Erfüllung
 
 (1) Soweit ein Erstattungsanspruch besteht, gilt der Anspruch des Berechtigten gegen den zur Leistung verpflichteten Leistungsträger als erfüllt.
 
 (2) Hat der Berechtigte Ansprüche gegen mehrere Leistungsträger, gilt der Anspruch als erfüllt, den der Träger, der die Sozialleistung erbracht hat, bestimmt. Die Bestimmung ist dem Berechtigten gegenüber unverzüglich vorzunehmen und den übrigen Leistungsträgern mitzuteilen.
 
-
-## § 108 – Erstattung in Geld, Verzinsung
+# § 108 – Erstattung in Geld, Verzinsung
 
 (1) Sach- und Dienstleistungen sind in Geld zu erstatten.
 
@@ -2665,40 +2539,33 @@ Die Leistungsträger haben auf Verlangen eines behandelnden Arztes Untersuchungs
 
 auf Antrag mit vier vom Hundert zu verzinsen. Die Verzinsung beginnt frühestens nach Ablauf von sechs Kalendermonaten nach Eingang des vollständigen Leistungsantrages des Leistungsberechtigten beim zuständigen Leistungsträger, beim Fehlen eines Antrages nach Ablauf eines Kalendermonats nach Bekanntgabe der Entscheidung über die Leistung. § 44 Abs. 3 des Ersten Buches findet Anwendung; § 16 des Ersten Buches gilt nicht.
 
-
-## § 109 – Verwaltungskosten und Auslagen
+# § 109 – Verwaltungskosten und Auslagen
 
 Verwaltungskosten sind nicht zu erstatten. Auslagen sind auf Anforderung zu erstatten, wenn sie im Einzelfall 200 Euro übersteigen. Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates den in Satz 2 genannten Betrag entsprechend der jährlichen Steigerung der monatlichen Bezugsgröße nach § 18 des Vierten Buches anheben und dabei auf zehn Euro nach unten oder oben runden.
 
-
-## § 110 – Pauschalierung
+# § 110 – Pauschalierung
 
 Die Leistungsträger haben ihre Erstattungsansprüche pauschal abzugelten, soweit dies zweckmäßig ist. Beträgt im Einzelfall ein Erstattungsanspruch voraussichtlich weniger als 50 Euro, erfolgt keine Erstattung. Die Leistungsträger können abweichend von Satz 2 höhere Beträge vereinbaren. Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates den in Satz 2 genannten Betrag entsprechend der jährlichen Steigerung der monatlichen Bezugsgröße nach § 18 des Vierten Buches anheben und dabei auf zehn Euro nach unten oder oben runden.
 
-
-## § 111 – Ausschlussfrist
+# § 111 – Ausschlussfrist
 
 Der Anspruch auf Erstattung ist ausgeschlossen, wenn der Erstattungsberechtigte ihn nicht spätestens zwölf Monate nach Ablauf des letzten Tages, für den die Leistung erbracht wurde, geltend macht. Der Lauf der Frist beginnt frühestens mit dem Zeitpunkt, zu dem der erstattungsberechtigte Leistungsträger von der Entscheidung des erstattungspflichtigen Leistungsträgers über seine Leistungspflicht Kenntnis erlangt hat.
 
-
-## § 112 – Rückerstattung
+# § 112 – Rückerstattung
 
 Soweit eine Erstattung zu Unrecht erfolgt ist, sind die gezahlten Beträge zurückzuerstatten.
 
-
-## § 113 – Verjährung
+# § 113 – Verjährung
 
 (1) Erstattungsansprüche verjähren in vier Jahren nach Ablauf des Kalenderjahres, in dem der erstattungsberechtigte Leistungsträger von der Entscheidung des erstattungspflichtigen Leistungsträgers über dessen Leistungspflicht Kenntnis erlangt hat. Rückerstattungsansprüche verjähren in vier Jahren nach Ablauf des Kalenderjahres, in dem die Erstattung zu Unrecht erfolgt ist.
 
 (2) Für die Hemmung, die Ablaufhemmung, den Neubeginn und die Wirkung der Verjährung gelten die Vorschriften des Bürgerlichen Gesetzbuchs sinngemäß.
 
-
-## § 114 – Rechtsweg
+# § 114 – Rechtsweg
 
 Für den Erstattungsanspruch ist derselbe Rechtsweg wie für den Anspruch auf die Sozialleistung gegeben. Maßgebend ist im Fall des § 102 der Anspruch gegen den vorleistenden Leistungsträger und im Fall der §§ 103 bis 105 der Anspruch gegen den erstattungspflichtigen Leistungsträger.
 
-
-## § 115 – Ansprüche gegen den Arbeitgeber
+# § 115 – Ansprüche gegen den Arbeitgeber
 
 (1) Soweit der Arbeitgeber den Anspruch des Arbeitnehmers auf Arbeitsentgelt nicht erfüllt und deshalb ein Leistungsträger Sozialleistungen erbracht hat, geht der Anspruch des Arbeitnehmers gegen den Arbeitgeber auf den Leistungsträger bis zur Höhe der erbrachten Sozialleistungen über.
 
@@ -2706,8 +2573,7 @@ Für den Erstattungsanspruch ist derselbe Rechtsweg wie für den Anspruch auf di
 
 (3) An Stelle der Ansprüche des Arbeitnehmers auf Sachbezüge tritt im Fall des Absatzes 1 der Anspruch auf Geld; die Höhe bestimmt sich nach den nach § 17 Absatz 1 Satz 1 Nummer 4 des Vierten Buches festgelegten Werten der Sachbezüge.
 
-
-## § 116 – Ansprüche gegen Schadenersatzpflichtige
+# § 116 – Ansprüche gegen Schadenersatzpflichtige
 
 (1) Ein auf anderen gesetzlichen Vorschriften beruhender Anspruch auf Ersatz eines Schadens geht auf den Versicherungsträger oder Träger der Eingliederungshilfe oder der Sozialhilfe über, soweit dieser auf Grund des Schadensereignisses Sozialleistungen zu erbringen hat, die der Behebung eines Schadens der gleichen Art dienen und sich auf denselben Zeitraum wie der vom Schädiger zu leistende Schadensersatz beziehen. Dazu gehören auch
 
@@ -2733,18 +2599,15 @@ Für den Erstattungsanspruch ist derselbe Rechtsweg wie für den Anspruch auf di
 
 (10) Die Bundesagentur für Arbeit und die Träger der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch gelten als Versicherungsträger im Sinne dieser Vorschrift.
 
-
-## § 117 – Schadenersatzansprüche mehrerer Leistungsträger
+# § 117 – Schadenersatzansprüche mehrerer Leistungsträger
 
 Haben im Einzelfall mehrere Leistungsträger Sozialleistungen erbracht und ist in den Fällen des § 116 Abs. 2 und 3 der übergegangene Anspruch auf Ersatz des Schadens begrenzt, sind die Leistungsträger Gesamtgläubiger. Untereinander sind sie im Verhältnis der von ihnen erbrachten Sozialleistungen zum Ausgleich verpflichtet. Soweit jedoch eine Sozialleistung allein von einem Leistungsträger erbracht ist, steht der Ersatzanspruch im Innenverhältnis nur diesem zu. Die Leistungsträger können ein anderes Ausgleichsverhältnis vereinbaren.
 
-
-## § 118 – Bindung der Gerichte
+# § 118 – Bindung der Gerichte
 
 Hat ein Gericht über einen nach § 116 übergegangenen Anspruch zu entscheiden, ist es an eine unanfechtbare Entscheidung gebunden, dass und in welchem Umfang der Leistungsträger zur Leistung verpflichtet ist.
 
-
-## § 119 – Übergang von Beitragsansprüchen
+# § 119 – Übergang von Beitragsansprüchen
 
 (1) Soweit der Schadenersatzanspruch eines Versicherten den Anspruch auf Ersatz von Beiträgen zur Rentenversicherung umfasst, geht dieser auf den Versicherungsträger über, wenn der Geschädigte im Zeitpunkt des Schadensereignisses bereits Pflichtbeitragszeiten nachweist oder danach pflichtversichert wird; dies gilt nicht, soweit
 
@@ -2760,8 +2623,7 @@ Für den Anspruch auf Ersatz von Beiträgen zur Rentenversicherung gilt § 116 A
 
 (4) Die Vereinbarung der Abfindung von Ansprüchen auf Ersatz von Beiträgen zur Rentenversicherung mit einem ihrem Kapitalwert entsprechenden Betrag ist im Einzelfall zulässig. Im Fall des Absatzes 1 Satz 1 Nr. 1 gelten für die Mitwirkungspflichten des Geschädigten die §§ 60, 61, 65 Abs. 1 und 3 sowie § 65a des Ersten Buches entsprechend.
 
-
-## § 120 – Übergangsregelung
+# § 120 – Übergangsregelung
 
 (1) Die §§ 116 bis 119 sind nur auf Schadensereignisse nach dem 30. Juni 1983 anzuwenden; für frühere Schadensereignisse gilt das bis 30. Juni 1983 geltende Recht weiter. Ist das Schadensereignis nach dem 30. Juni 1983 eingetreten, sind § 116 Abs. 1 Satz 2 und § 119 Abs. 1, 3 und 4 in der ab 1. Januar 2001 geltenden Fassung auf einen Sachverhalt auch dann anzuwenden, wenn der Sachverhalt bereits vor diesem Zeitpunkt bestanden hat und darüber noch nicht abschließend entschieden ist. § 116 Absatz 6 ist nur auf Schadensereignisse nach dem 31. Dezember 2020 anzuwenden; für frühere Schadensereignisse gilt das bis 31. Dezember 2020 geltende Recht weiter.
 

@@ -1,20 +1,15 @@
-# [UAG-ErwV] Verordnung nach dem Umweltauditgesetz über die Erweiterung des Gemeinschaftssystems für das Umweltmanagement und die Umweltbetriebsprüfung auf weitere Bereiche  (UAG-Erweiterungsverordnung - UAG-ErwV)
-
-Ausfertigungsdatum: 02.03.1998
-
+% Verordnung nach dem Umweltauditgesetz über die Erweiterung des Gemeinschaftssystems für das Umweltmanagement und die Umweltbetriebsprüfung auf weitere Bereiche  (UAG-Erweiterungsverordnung - UAG-ErwV)
+% Ausfertigungsdatum: 02.03.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 des Umweltauditgesetzes vom 7. Dezember 1995 (BGBl. I S. 1591) verordnet die Bundesregierung nach Anhörung des Umweltgutachterausschusses:
 
-
-## § 1 – Einbeziehung weiterer Bereiche
+# § 1 – Einbeziehung weiterer Bereiche
 
 In den Anwendungsbereich des Gemeinschaftssystems für das Umweltmanagement und die Umweltbetriebsprüfung werden Körperschaften des öffentlichen Rechts und Unternehmen einbezogen, soweit sie eine Tätigkeit an einem oder mehreren Standorten ausüben, die zu den im Anhang zu dieser Verordnung genannten Bereichen gehört.
 
-
-## § 2 – Teilnahmeerklärung
+# § 2 – Teilnahmeerklärung
 
 Körperschaften des öffentlichen Rechts und Unternehmen nach § 1 verwenden für ihren eingetragenen Standort oder für ihre eingetragenen Standorte entsprechend der Art ihrer Teilnahme eine der folgenden Teilnahmeerklärungen:
 
@@ -30,18 +25,15 @@ Körperschaften des öffentlichen Rechts und Unternehmen nach § 1 verwenden fü
 
 \- ...".
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anhang – (zu § 1)
+# Anhang – (zu § 1)
 
 1. Erzeugung von Strom, Gas, Dampf und Heißwasser sowie Recycling, Behandlung, Vernichtung oder Endlagerung von festen oder flüssigen Abfällen gemäß Artikel 2 Buchstabe i der Verordnung (EWG) Nr. 1836/93 des Rates vom 29. Juni 1993 über die freiwillige Beteiligung gewerblicher Unternehmen an einem Gemeinschaftssystem für das Umweltmanagement und die Umweltbetriebsprüfung (ABl. EG Nr. L 168 S. 1) in öffentlich-rechtlicher Organisationsform;
 

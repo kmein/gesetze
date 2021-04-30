@@ -1,10 +1,7 @@
-# [GetrAuVÜV] Verordnung über die Überwachung von Getreide aus Interventionsbeständen zur Ausfuhr oder zur Verarbeitung zu bestimmten Erzeugnissen  (Getreide-Ausfuhr- und -Verarbeitungs-Überwachungsverordnung - GetrAuVÜV)
-
-Ausfertigungsdatum: 15.01.1991
-
+% Verordnung über die Überwachung von Getreide aus Interventionsbeständen zur Ausfuhr oder zur Verarbeitung zu bestimmten Erzeugnissen  (Getreide-Ausfuhr- und -Verarbeitungs-Überwachungsverordnung - GetrAuVÜV)
+% Ausfertigungsdatum: 15.01.1991
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte des Rates und der Kommission der Europäischen Gemeinschaften im Rahmen der gemeinsamen Marktorganisation für Getreide, insbesondere für die Durchführung der Verordnung (EWG) Nr. 3002/92 der Kommission vom 16. Oktober 1992 über gemeinsame Durchführungsbestimmungen für die Überwachung der Verwendung und/oder Bestimmung von Erzeugnissen aus den Beständen der Interventionsstellen (ABl. EG Nr. L 301 S. 17) in der jeweils geltenden Fassung, hinsichtlich der Überwachung von Getreide aus Interventionsbeständen, das bestimmt ist
 
@@ -22,15 +19,13 @@ a) in unverändertem Zustand,
 
 b) nach Verarbeitung zu bestimmten Erzeugnissen oder Zwischenerzeugnissen.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 (1) Vorbehaltlich der Regelung in Absatz 2 ist für die Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte, soweit sie den Anwendungsbereich dieser Verordnung betreffen, die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) zuständig.
 
 (2) Die Bundesfinanzverwaltung ist im Falle der Ausfuhr zuständig für die Ausstellung und Erledigung der Kontrollexemplare. Im Falle der Verbringung nach § 8 Abs. 2 ist die Bundesanstalt für die Ausstellung und Erledigung der Kontrollexemplare zuständig.
 
-
-## § 3 – Grundsatz
+# § 3 – Grundsatz
 
 (1) Zur Versendung bestimmtes Getreide wird vom Zeitpunkt der Auslagerung bis zu dem Zeitpunkt, zu dem das Getreide das Inland verläßt, unter amtliche Überwachung der Bundesanstalt gestellt. Zur Ausfuhr bestimmtes Getreide wird vom Zeitpunkt der Auslagerung bis zur Ausstellung des Kontrollexemplares und der Annahme der Ausfuhranmeldung unter amtliche Überwachung der Bundesanstalt gestellt.
 
@@ -40,8 +35,7 @@ b) nach Verarbeitung zu bestimmten Erzeugnissen oder Zwischenerzeugnissen.
 
 (4) Soweit es der Überwachungszweck erfordert, kann die Bundesanstalt für unter amtliche Überwachung gestelltes Getreide im Einzelfall besondere Auflagen erteilen.
 
-
-## § 4 – Überwachungsverfahren
+# § 4 – Überwachungsverfahren
 
 (1) Die Bundesanstalt stellt bei der Auslagerung des Getreides für jedes einzelne Transportmittel (Einzelsendung) einen Kontrollschein in vier Stücken aus. Der Kontrollschein enthält folgende Angaben:
 
@@ -125,8 +119,7 @@ Der Kontrollschein, der für das Transportmittel, mit dem das Getreide aus dem I
 
 Die Bundesanstalt kann auf Antrag eine kürzere Frist zulassen, wenn dadurch der Überwachungszweck nicht gefährdet wird. Änderungen im tatsächlichen Ablauf sind der Bundesanstalt unverzüglich mitzuteilen. Die Pflichten nach den Sätzen 1 bis 3 gelten für jeden Fall einer weiteren Einschaltung eines anerkannten Umschlagsbetriebes.
 
-
-## § 5 – Probenahme und Untersuchung des Getreides
+# § 5 – Probenahme und Untersuchung des Getreides
 
 (1) Die Probenahme und die Untersuchung des Getreides zur Feststellung der Warenart haben nach den für die Übernahme von Getreide in die Intervention entsprechend den in den in § 1 genannten Rechtsakten vorgeschriebenen Verfahren zu erfolgen. Die Probenahmen und die Untersuchungen sind von den anerkannten Umschlagsbetrieben durchzuführen.
 
@@ -134,8 +127,7 @@ Die Bundesanstalt kann auf Antrag eine kürzere Frist zulassen, wenn dadurch der
 
 (3) Die Bundesanstalt kann zum Zwecke der Überprüfung jederzeit selbst Proben entnehmen und selbstgezogene Proben untersuchen.
 
-
-## § 6 – Freigabe der Sicherheiten
+# § 6 – Freigabe der Sicherheiten
 
 (1) Die für eine ausgelagerte Getreidemenge nach den in § 1 genannten Rechtsakten zu leistenden Sicherheiten können nur freigegeben werden, wenn die Bundesanstalt festgestellt hat, daß das Verfahren nach § 4 eingehalten und die sonstigen in den in § 1 genannten Rechtsakten verlangten Nachweise erbracht worden sind.
 
@@ -151,8 +143,7 @@ Die Bundesanstalt kann auf Antrag eine kürzere Frist zulassen, wenn dadurch der
 
 Der Antrag muß die Bestätigung enthalten, daß das Interventionsgetreide nicht gegen freie Ware ausgetauscht wurde. Dem Antrag ist eine Erklärung jedes beteiligten Transporteurs beizufügen, daß beim Transport keine Zu-, Ab- oder Umladungen, ausgenommen Umladungen im Falle eines Schadens an einem Transportmittel, erfolgt oder sonstige Unregelmäßigkeiten aufgetreten sind. Die Verpflichtung zur Beifügung der Erklärung nach Satz 3 entfällt bei Transporten mit der Deutschen Bahn Aktiengesellschaft. Im Falle der Ausfuhr ist der letzte Kontrollschein mit dem Sichtvermerk der Ausfuhrzollstelle gemäß § 4 Abs. 8 Satz 3 beizufügen.
 
-
-## § 7 – Grundsatz
+# § 7 – Grundsatz
 
 (1) Getreide aus Interventionsbeständen der Bundesanstalt, das nach den in § 1 genannten Rechtsakten zur Verarbeitung zu bestimmten Erzeugnissen (bestimmte Verarbeitungserzeugnisse) vorgesehen ist, wird von der Auslagerung bis zu dem in Absatz 2, 3 oder 4 genannten Zeitpunkt einer amtlichen Überwachung durch die Bundesanstalt nach Maßgabe der folgenden Bestimmungen unterstellt.
 
@@ -168,8 +159,7 @@ Der Antrag muß die Bestätigung enthalten, daß das Interventionsgetreide nicht
 
 (6) Unter amtliche Überwachung gestelltes Getreide ist getrennt von anderem Getreide zu transportieren, zu lagern und zu verarbeiten. Zwischenerzeugnisse, die aus Getreide hergestellt worden sind, das unter amtliche Überwachung gestellt ist, sind getrennt von anderen Zwischenerzeugnissen zu transportieren und zu lagern. Sind die bestimmten Verarbeitungserzeugnisse auszuführen, so sind diese bis zur Ausstellung des Kontrollexemplares und der Annahme der Ausfuhranmeldung getrennt von anderen Verarbeitungserzeugnissen zu transportieren und zu lagern.
 
-
-## § 8 – Überwachung der Verarbeitung
+# § 8 – Überwachung der Verarbeitung
 
 (1) Zur Durchführung der amtlichen Überwachung stellt die Bundesanstalt bei der Auslagerung einen Kontrollschein entsprechend § 4 Abs. 1 Satz 2 in vier Stücken aus.
 
@@ -229,11 +219,9 @@ Ist der Verarbeiter des Getreides nicht mit dem Erstkäufer identisch, ist die V
 
 Die vorstehenden Pflichten gelten auch für jeden weiteren Verarbeiter. § 4 Abs. 9 Satz 2 und 3 gilt entsprechend.
 
+# §§ 9 und 10 – (weggefallen)
 
-## §§ 9 und 10 – (weggefallen)
-
-
-## § 11 – Ausfuhr und Versendung der Verarbeitungserzeugnisse
+# § 11 – Ausfuhr und Versendung der Verarbeitungserzeugnisse
 
 (1) Werden die bestimmten Verarbeitungserzeugnisse ausgeführt oder die bestimmten Verarbeitungserzeugnisse oder Zwischenerzeugnisse versandt, gelten vorbehaltlich des Absatzes 2 die Bestimmungen des § 8 Abs. 1 und des § 4 Abs. 2 bis 8 bis zu der Annahme der Ausfuhranmeldung und der Ausstellung des Kontrollexemplares. Der Erstkäufer beantragt bei der Bundesanstalt die Ausstellung des Kontrollscheines. § 4 Abs. 9 gilt entsprechend.
 
@@ -241,23 +229,19 @@ Die vorstehenden Pflichten gelten auch für jeden weiteren Verarbeiter. § 4 Abs
 
 (3) § 5 Abs. 1 Satz 2 und Abs. 2 bis 3 gilt entsprechend.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13 – Freigabe der Sicherheit
+# § 13 – Freigabe der Sicherheit
 
 Ist für eine aus Beständen der Bundesanstalt ausgelagerte Getreidemenge, die zu bestimmten Erzeugnissen oder zu Zwischenerzeugnissen zu verarbeiten ist, eine Sicherheit geleistet worden, kann diese erst freigegeben werden, wenn die Bundesanstalt festgestellt hat, daß die ordnungsgemäße Verarbeitung unter Berücksichtigung der §§ 7 bis 11 oder zusätzlich die Versendung oder die Ausfuhr erfolgt ist. § 6 Abs. 2 gilt entsprechend.
 
-
-## § 14 – Kosten
+# § 14 – Kosten
 
 Soweit für die amtliche Überwachung Proben entnommen oder Warenuntersuchungen veranlaßt werden, sind den zuständigen Stellen die entstandenen Auslagen für die Entnahme, Verpackung und Beförderung der Proben sowie für die Warenuntersuchungen zu erstatten, sofern in den in § 1 genannten Rechtsakten keine abweichende Regelung getroffen ist.
 
-
-## § 15 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 15 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Wer Getreide aus Interventionsbeständen der Bundesanstalt kauft, das zu bestimmten Erzeugnissen zu verarbeiten oder aus der Gemeinschaft auszuführen ist, ist verpflichtet
 
@@ -283,13 +267,11 @@ Die Aufzeichnungen nach Satz 1 sind getrennt von Aufzeichnungen für nicht der a
 
 (3) Wer nach Absatz 1 oder 2 zu Aufzeichnungen verpflichtet ist, hat die vorgeschriebenen Bücher, Aufzeichnungen und sonstigen geschäftlichen Unterlagen bis zum Ablauf des sechsten Jahres, das dem Kalenderjahr der Abgabe des Getreides aus den Interventionsbeständen folgt, aufzubewahren, soweit nicht nach anderen Rechtsvorschriften längere Aufbewahrungspflichten bestehen.
 
-
-## § 16 – Duldungs- und Mitwirkungspflichten
+# § 16 – Duldungs- und Mitwirkungspflichten
 
 Soweit es zu der Überwachung der Einhaltung der Verpflichtungen nach dieser Verordnung erforderlich ist, sind die Käufer und Empfänger von Getreide aus Interventionsbeständen, die mit dessen Transport beauftragten Spediteure oder Frachtführer sowie die nach § 4 Abs. 3 oder § 8 Abs. 4 anerkannten Betriebe verpflichtet, den Bediensteten der Bundesanstalt das Betreten der Geschäfts-, Betriebs- und Lagerräume sowie das Besichtigen der Transportmittel während der Geschäfts- und Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen Unterlagen vorzulegen, Auskunft zu erteilen und die erforderliche Unterstützung zu gewähren. Bei automatischer Buchführung sind die nach Satz 1 Auskunftspflichtigen verpflichtet, auf ihre Kosten Listen mit den erforderlichen Angaben auszudrucken, soweit die Bundesanstalt dies verlangt.
 
-
-## § 17 – Muster, Vordrucke
+# § 17 – Muster, Vordrucke
 
 (1) Die Bundesanstalt kann für
 
@@ -305,8 +287,7 @@ Muster im Bundesanzeiger bekanntgeben oder Vordrucke bereithalten.
 
 (2) Soweit von den zuständigen Stellen Muster bekanntgemacht oder Vordrucke bereitgehalten worden sind, sind diese zu verwenden.
 
-
-## § 18 – Ordnungswidrigkeiten
+# § 18 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 36 Abs. 3 Nr. 3 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
@@ -336,18 +317,15 @@ eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig 
 
 8. entgegen § 9 Abs. 1 Satz 2 erster Halbsatz Getreide weitergibt.
 
-
-## § 19
+# § 19
 
 (Inkrafttreten)
 
-
-## Anlage 1
+# Anlage 1
 
 (weggefallen)
 
-
-## Anlage 2 – (zu § 4 Abs. 3)  Voraussetzungen für die Anerkennung von Umschlagsbetrieben bei der Ausfuhr von Getreide in unverarbeitetem Zustand
+# Anlage 2 – (zu § 4 Abs. 3)  Voraussetzungen für die Anerkennung von Umschlagsbetrieben bei der Ausfuhr von Getreide in unverarbeitetem Zustand
 
 1. Die Lagerkapazität muß mindestens 3.000 Tonnen betragen.
 
@@ -369,8 +347,7 @@ eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig 
 
 10. Bei Verwendung einer mobilen Verladeeinrichtung darf das Verladen nur über eine geeichte Waage, die Bestandteil dieser Verladeeinrichtung sein muß, möglich sein.
 
-
-## Anlage 3 – (zu § 8 Abs. 4)  Voraussetzungen für die Anerkennung von Verarbeitungsbetrieben
+# Anlage 3 – (zu § 8 Abs. 4)  Voraussetzungen für die Anerkennung von Verarbeitungsbetrieben
 
 1. Es muß mindestens eine geeichte Waage zur Verfügung stehen.
 

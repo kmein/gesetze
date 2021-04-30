@@ -1,20 +1,15 @@
-# [EltLastV] Verordnung über die Sicherstellung der Elektrizitätsversorgung  (Elektrizitätslastverteilungs-Verordnung - EltLastV)
-
-Ausfertigungsdatum: 21.07.1976
-
+% Verordnung über die Sicherstellung der Elektrizitätsversorgung  (Elektrizitätslastverteilungs-Verordnung - EltLastV)
+% Ausfertigungsdatum: 21.07.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 2 Buchstabe a, Nr. 4, 5 und 7, des § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzblatt I S. 705), wird von der Bundesregierung und auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Zur Sicherstellung der Elektrizitätsversorgung wird eine Lastverteilung für die elektrische Energie eingerichtet.
 
-
-## § 2
+# § 2
 
 Die Lastverteilung obliegt
 
@@ -22,8 +17,7 @@ Die Lastverteilung obliegt
 
 2. dem Bundesministerium für Wirtschaft und Energie als Bundeslastverteiler.
 
-
-## § 3
+# § 3
 
 (1) Beim Bundesministerium für Wirtschaft und Energie und bei den obersten Wirtschaftsbehörden der Länder sind zur Durchführung der Lastverteilung besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 
@@ -41,15 +35,13 @@ Bezirkslastverteilerstelle für elektrische Energie,
 
 Bereichslastverteilerstelle für elektrische Energie.
 
-
-## § 4
+# § 4
 
 (1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage zu dieser Verordnung. Die Befugnis, diese Grenzen durch Rechtsverordnung zu ändern, wird auf das Bundesministerium für Wirtschaft und Energie übertragen.
 
 (2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung bestimmen sich nach Landesrecht.
 
-
-## § 5
+# § 5
 
 (1) Die Lastverteiler können Verfügungen erlassen
 
@@ -73,8 +65,7 @@ c) die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerbliche
 
 (6) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald diese Verordnung aufgehoben oder außer Anwendung gesetzt wird. Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch eine Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem ursprünglichen Inhalt wieder auf.
 
-
-## § 6
+# § 6
 
 Örtlich zuständig ist der Lastverteiler, in dessen Bezirk
 
@@ -82,8 +73,7 @@ c) die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerbliche
 
 2. die Elektrizitätsübergabestelle der von einer Verfügung nach § 5 Abs. 1 Nr. 2 betroffenen Betriebsstätte eines Verbrauchers liegt.
 
-
-## § 6a
+# § 6a
 
 (1) Der Leiter einer Lastverteilerstelle muß mit der technischen Lastverteilung sowie den versorgungstechnischen Gegebenheiten und der Verbrauchsstruktur seiner Lastverteilung gut vertraut sein.
 
@@ -93,28 +83,23 @@ c) die Lagerung, Vorratshaltung, Abgabe und Verwendung von Waren der gewerbliche
 
 (4) Die Absätze 1 bis 3 gelten auch für die Vertreter des Leiters der Lastverteilerstelle.
 
-
-## § 7
+# § 7
 
 Einer Anzeige nach § 5 des Energiewirtschaftsgesetzes oder einer Genehmigung nach § 4 Abs. 1 des Energiewirtschaftsgesetzes bedarf es nicht, soweit die anzeige- oder genehmigungspflichtige Tätigkeit durch eine Verfügung nach § 5 Abs. 1 Nr. 1 dieser Verordnung angeordnet worden ist.
 
-
-## § 8
+# § 8
 
 Wer vorsätzlich oder fahrlässig einer vollziehbaren Verfügung nach § 5 Abs. 1 zuwiderhandelt, begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz 1954 geahndet wird.
 
-
-## § 9
+# § 9
 
 Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist die Behörde, welche die Verfügung nach § 5 erlassen hat.
 
-
-## § 10
+# § 10
 
 Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften dieser Verordnung über die Zuständigkeit von Behörden dem besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 
-
-## § 11
+# § 11
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -122,8 +107,7 @@ Die Senate der Länder Bremen und Hamburg werden ermächtigt, die Vorschriften d
 
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
 
-
-## Anlage – zu § 4 Abs. 1 Satz 1 der Elektrizitätslastverteilungs-Verordnung
+# Anlage – zu § 4 Abs. 1 Satz 1 der Elektrizitätslastverteilungs-Verordnung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 381 - 390
 

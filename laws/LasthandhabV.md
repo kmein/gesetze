@@ -1,10 +1,7 @@
-# [LasthandhabV] Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten bei der Arbeit  (Lastenhandhabungsverordnung - LasthandhabV)
-
-Ausfertigungsdatum: 04.12.1996
-
+% Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten bei der Arbeit  (Lastenhandhabungsverordnung - LasthandhabV)
+% Ausfertigungsdatum: 04.12.1996
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für die manuelle Handhabung von Lasten, die aufgrund ihrer Merkmale oder ungünstiger ergonomischer Bedingungen für die Beschäftigten eine Gefährdung für Sicherheit und Gesundheit, insbesondere der Lendenwirbelsäule, mit sich bringt.
 
@@ -12,25 +9,21 @@ Ausfertigungsdatum: 04.12.1996
 
 (3) Das Bundeskanzleramt, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen können, soweit sie hierfür jeweils zuständig sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern, für Bau und Heimat selbst zuständig ist, im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat bestimmen, daß für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes, insbesondere bei der Bundeswehr, der Polizei, den Zivil- und Katastrophenschutzdiensten, dem Zoll oder den Nachrichtendiensten, Vorschriften dieser Verordnung ganz oder zum Teil nicht anzuwenden sind, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden.
 
-
-## § 2 – Maßnahmen
+# § 2 – Maßnahmen
 
 (1) Der Arbeitgeber hat unter Zugrundelegung des Anhangs geeignete organisatorische Maßnahmen zu treffen oder geeignete Arbeitsmittel, insbesondere mechanische Ausrüstungen, einzusetzen, um manuelle Handhabungen von Lasten, die für die Beschäftigten eine Gefährdung für Sicherheit und Gesundheit, insbesondere der Lendenwirbelsäule mit sich bringen, zu vermeiden.
 
 (2) Können diese manuellen Handhabungen von Lasten nicht vermieden werden, hat der Arbeitgeber bei der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes die Arbeitsbedingungen insbesondere unter Zugrundelegung des Anhangs zu beurteilen. Aufgrund der Beurteilung hat der Arbeitgeber geeignete Maßnahmen zu treffen, damit eine Gefährdung von Sicherheit und Gesundheit der Beschäftigten möglichst gering gehalten wird.
 
-
-## § 3 – Übertragung von Aufgaben
+# § 3 – Übertragung von Aufgaben
 
 Bei der Übertragung von Aufgaben der manuellen Handhabung von Lasten, die für die Beschäftigten zu einer Gefährdung für Sicherheit und Gesundheit führen, hat der Arbeitgeber die körperliche Eignung der Beschäftigten zur Ausführung der Aufgaben zu berücksichtigen.
 
-
-## § 4 – Unterweisung
+# § 4 – Unterweisung
 
 Bei der Unterweisung nach § 12 des Arbeitsschutzgesetzes hat der Arbeitgeber insbesondere den Anhang und die körperliche Eignung der Beschäftigten zu berücksichtigen. Er hat den Beschäftigten, soweit dies möglich ist, genaue Angaben zu machen über die sachgemäße manuelle Handhabung von Lasten und über die Gefahren, denen die Beschäftigten insbesondere bei unsachgemäßer Ausführung der Tätigkeit ausgesetzt sind.
 
-
-## Anhang
+# Anhang
 
 Merkmale, aus denen sich eine Gefährdung von Sicherheit und Gesundheit, insbesondere der Lendenwirbelsäule, der Beschäftigten ergeben kann:
 

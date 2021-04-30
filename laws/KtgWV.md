@@ -1,22 +1,17 @@
-# [KtgWV] Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland (KtgWV)  (KtgWV)
-
-Ausfertigungsdatum: 08.08.1963
-
+% Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland (KtgWV)  (KtgWV)
+% Ausfertigungsdatum: 08.08.1963
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 1 und 2 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 339) in der Fassung des Gesetzes zur Änderung des Gesetzes über die Finanzverwaltung, der Reichsabgabenordnung und anderer Steuergesetze vom 23. April 1963 (Bundesgesetzbl. I S. 197) und des § 78 Abs. 1 Nr. 3 des Zollgesetzes vom 14. Juni 1961 (Bundesgesetzbl. I S. 737), zuletzt geändert durch das Gesetz zur Änderung des Zollgesetzes vom 4. September 1962 (Bundesgesetzbl. I S. 605), wird verordnet:
 
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 (1) Für Kontingentswaren hängt die Zollfreiheit nach § 7 Abs. 1 und 2 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland davon ab, daß der Zollbeteiligte nach vorgeschriebenem Muster einen gültigen Kontingentschein und eine Erklärung des Einführers vorlegt, wonach die Waren zum Gebrauch, Verbrauch, zur Verarbeitung, zu einer Bearbeitung, die eine wesentliche Veränderung der Beschaffenheit bewirkt und wirtschaftlich sinnvoll ist, oder zum Absatz im Saarland bestimmt sind. Auf Verlangen der Zollstelle ist diese Erklärung glaubhaft zu machen.
 
 (2) Die Vorlage eines Kontingentscheins ist in den Fällen des § 34 Abs. 2 und 3 der Außenwirtschaftsverordnung vom 22. August 1961 (Bundesgesetzbl. I S. 1381) in der jeweils geltenden Fassung nicht erforderlich.
 
-
-## § 2 – Bleibende Zollgutverwendung
+# § 2 – Bleibende Zollgutverwendung
 
 Kontingentswaren, die in der Warenliste zu dieser Verordnung genannt sind, sind zollfrei, wenn sie unter zollamtlicher Überwachung
 
@@ -26,21 +21,17 @@ Kontingentswaren, die in der Warenliste zu dieser Verordnung genannt sind, sind 
 
 3. im Saarland vom Kleinhandel an Endverbraucher abgegeben worden sind.
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am fünften Tage nach ihrer Verkündung in Kraft. ...
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Anlage – (zu § 2)   Warenliste zur Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland
+# Anlage – (zu § 2)   Warenliste zur Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland
 
 (Fundstelle: BGBl. Teil III 600-2-4, S. 36 - 37)
 

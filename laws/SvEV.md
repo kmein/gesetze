@@ -1,10 +1,7 @@
-# [SvEV] Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt  (Sozialversicherungsentgeltverordnung - SvEV)
-
-Ausfertigungsdatum: 21.12.2006
-
+% Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt  (Sozialversicherungsentgeltverordnung - SvEV)
+% Ausfertigungsdatum: 21.12.2006
  
-
-## § 1 – Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
+# § 1 – Dem sozialversicherungspflichtigen Arbeitsentgelt nicht zuzurechnende Zuwendungen
 
 (1) Dem Arbeitsentgelt sind nicht zuzurechnen:
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 21.12.2006
 
 4. Beiträge nach § 40b des Einkommensteuergesetzes in der am31. Dezember 2004 geltenden Fassung, die zusätzlich zu Löhnen und Gehältern gewährt werden; dies gilt auch für darin enthaltene Beiträge, die aus einer Entgeltumwandlung (§ 1 Abs. 2 Nr. 3 des Betriebsrentengesetzes) stammen,
 
-4a.  
-Zuwendungen nach § 3 Nr. 56 und § 40b des Einkommensteuergesetzes, die zusätzlich zu Löhnen und Gehältern gewährt werden und für die Satz 3 und 4 nichts Abweichendes bestimmen,
+4a. Zuwendungen nach § 3 Nr. 56 und § 40b des Einkommensteuergesetzes, die zusätzlich zu Löhnen und Gehältern gewährt werden und für die Satz 3 und 4 nichts Abweichendes bestimmen,
 
 5. Beträge nach § 10 des Entgeltfortzahlungsgesetzes,
 
@@ -47,8 +43,7 @@ Dem Arbeitsentgelt sind die in Satz 1 Nummer 1 bis 4a, 9 bis 11, 13, 15 und 16 g
 
 (2) In der gesetzlichen Unfallversicherung und in der Seefahrt sind auch lohnsteuerfreie Zuschläge für Sonntags-, Feiertags- und Nachtarbeit dem Arbeitsentgelt zuzurechnen; dies gilt in der Unfallversicherung nicht für Erwerbseinkommen, das bei einer Hinterbliebenenrente zu berücksichtigen ist.
 
-
-## § 2 – Verpflegung, Unterkunft und Wohnung als Sachbezug
+# § 2 – Verpflegung, Unterkunft und Wohnung als Sachbezug
 
 (1) Der Wert der als Sachbezug zur Verfügung gestellten Verpflegung wird auf monatlich 263 Euro festgesetzt. Dieser Wert setzt sich zusammen aus dem Wert für
 
@@ -92,8 +87,7 @@ Ist es nach Lage des einzelnen Falles unbillig, den Wert einer Unterkunft nach S
 
 (6) Bei der Berechnung des Wertes für kürzere Zeiträume als einen Monat ist für jeden Tag ein Dreißigstel der Werte nach den Absätzen 1 bis 5 zugrunde zu legen. Die Prozentsätze der Absätze 2 und 3 sind auf den Tageswert nach Satz 1 anzuwenden. Die Berechnungen werden jeweils auf 2 Dezimalstellen durchgeführt; die zweite Dezimalstelle wird um 1 erhöht, wenn sich in der dritten Dezimalstelle eine der Zahlen 5 bis 9 ergibt.
 
-
-## § 3 – Sonstige Sachbezüge
+# § 3 – Sonstige Sachbezüge
 
 (1) Werden Sachbezüge, die nicht von § 2 erfasst werden, unentgeltlich zur Verfügung gestellt, ist als Wert für diese Sachbezüge der um übliche Preisnachlässe geminderte übliche Endpreis am Abgabeort anzusetzen. Sind auf Grund des § 8 Absatz 2 Satz 10 des Einkommensteuergesetzes Durchschnittswerte festgesetzt worden, sind diese Werte maßgebend. Findet § 8 Abs. 2 Satz 2, 3, 4 oder 5 oder Abs. 3 Satz 1 des Einkommensteuergesetzes Anwendung, sind die dort genannten Werte maßgebend. § 8 Absatz 2 Satz 11 des Einkommensteuergesetzes gilt entsprechend.
 
@@ -101,7 +95,6 @@ Ist es nach Lage des einzelnen Falles unbillig, den Wert einer Unterkunft nach S
 
 (3) Waren und Dienstleistungen, die vom Arbeitgeber nicht überwiegend für den Bedarf seiner Arbeitnehmer hergestellt, vertrieben oder erbracht werden und die nach § 40 Abs. 1 Satz 1 Nr. 1 des Einkommensteuergesetzes pauschal versteuert werden, können mit dem Durchschnittsbetrag der pauschal versteuerten Waren und Dienstleistungen angesetzt werden; dabei kann der Durchschnittsbetrag des Vorjahres angesetzt werden. Besteht das Beschäftigungsverhältnis nur während eines Teils des Kalenderjahres, ist für jeden Tag des Beschäftigungsverhältnisses der dreihundertsechzigste Teil des Durchschnittswertes nach Satz 1 anzusetzen. Satz 1 gilt nur, wenn der Arbeitgeber den von dem Beschäftigten zu tragenden Teil des Gesamtsozialversicherungsbeitrags übernimmt. Die Sätze 1 bis 3 gelten entsprechend für Sachzuwendungen im Wert von nicht mehr als 80 Euro, die der Arbeitnehmer für Verbesserungsvorschläge sowie für Leistungen in der Unfallverhütung und im Arbeitsschutz erhält. Die mit einem Durchschnittswert angesetzten Sachbezüge, die in einem Kalenderjahr gewährt werden, sind insgesamt dem letzten Entgeltabrechnungszeitraum in diesem Kalenderjahr zuzuordnen.
 
-
-## § 4 – (weggefallen)
+# § 4 – (weggefallen)
 
 \-

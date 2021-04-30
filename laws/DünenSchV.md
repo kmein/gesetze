@@ -1,10 +1,7 @@
-# [DünenSchV] Bekanntmachung der Verordnung über den Schutz der Randdünen auf der Nordseeinsel Wangerooge  (Dünenschutzverordnung Wangerooge - DünenSchV)
-
-Ausfertigungsdatum: 06.06.2016
-
+% Bekanntmachung der Verordnung über den Schutz der Randdünen auf der Nordseeinsel Wangerooge  (Dünenschutzverordnung Wangerooge - DünenSchV)
+% Ausfertigungsdatum: 06.06.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Generaldirektion Wasserstraßen und Schifffahrt verordnet
 
@@ -14,8 +11,7 @@ auf Grund des § 27 Absatz 1 des Bundeswasserstraßengesetzes in der Fassung der
 \-  
 auf Grund des § 46 Satz 1 Nummer 3 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; BGBl. 2008 I S. 1980), § 46 Satz 1 Nummer 3 geändert durch Artikel 522 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. S. 1474), in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung, Beschränkung oder Untersagung des Gemeingebrauchs vom 21. September 1971 (BGBl. I S. 1617), der zuletzt durch Artikel 24 der Verordnung vom 02. Juni 2016 geändert worden ist:
 
-
-## § 1 – Benutzungs- und Beschädigungsverbot
+# § 1 – Benutzungs- und Beschädigungsverbot
 
 (1) Zum Schutz der für die Erhaltung des Bestandes der Insel Wangerooge notwendigen Randdünen ist es verboten,
 
@@ -39,8 +35,7 @@ Die Randdünen dürfen nur auf den hierfür vorgesehenen und besonders gekennzei
 
 (2) Die Benutzungs- und Beschädigungsverbote nach Absatz 1 können durch ein Schild nach dem Muster 1 dieser Verordnung oder durch Zäune kenntlich gemacht werden.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 (1) Ausnahmen von den Verboten des § 1 Absatz 1 können durch Einzelgenehmigung zugelassen werden.
 
@@ -48,18 +43,15 @@ Die Randdünen dürfen nur auf den hierfür vorgesehenen und besonders gekennzei
 
 (3) In dringenden Fällen kann die Einzelgenehmigung mündlich erteilt werden.
 
-
-## § 3 – Befreiungen
+# § 3 – Befreiungen
 
 Von den Verboten des § 1 Absatz 1 Nummer 1 bis 4 befreit sind die Bediensteten oder Beauftragten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, anderer Behörden, der Einrichtungen des Rettungs- und Feuerwehrdienstes sowie sonstiger Hilfsorganisationen, soweit die in § 1 Absatz 1 Nummer 1 bis 4 genannten Tätigkeiten zur Erfüllung ihrer dienstlichen Aufgaben erforderlich sind.
 
-
-## § 4 – Zuständigkeit
+# § 4 – Zuständigkeit
 
 Ausnahmegenehmigungen nach § 2 erteilt das örtlich zuständige Wasserstraßen- und Schifffahrtsamt.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -73,21 +65,18 @@ Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengese
 
 5. entgegen § 2 Absatz 2 Satz 3 den Genehmigungsbescheid nicht mitführt oder nicht oder nicht rechtzeitig aushändigt.
 
-
-## § 6 – Übergangsbestimmungen
+# § 6 – Übergangsbestimmungen
 
 Schilder, die am 30. Juni 2016 aufgestellt sind, gelten neben den nach dieser Verordnung aufgestellten Schildern bis zum 31. Dezember 2021 fort. Im Umfang der sich aus den fortgeltenden Schildern ergebenden Verbote oder Berechtigungen ist die Verordnung über den Schutz der Randdünen auf der Insel Wangerooge vom 27. Oktober 1972 (VkBl. 1972, 852) weiter anzuwenden.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2) Gleichzeitig tritt die Verordnung über den Schutz der Randdünen auf der Insel Wangerooge vom 27. Oktober 1972 (VkBl. 1972, 852) außer Kraft.
 
-
-## Anlage – (zu § 1 Absatz 2)Schild zur Kennzeichnung der Verbote
+# Anlage – (zu § 1 Absatz 2)Schild zur Kennzeichnung der Verbote
 
 (Fundstelle: VkBl. 2016, 441)
 
-![](../normengrafiken/vkbl_2016/juris-n_VkBl_2016_441_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/vkbl_2016/juris-n_VkBl_2016_441_0010.jpg)

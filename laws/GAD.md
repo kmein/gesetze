@@ -1,12 +1,7 @@
-# [GAD] Gesetz über den Auswärtigen Dienst  (GAD)
-
-Ausfertigungsdatum: 30.08.1990
-
+% Gesetz über den Auswärtigen Dienst  (GAD)
+% Ausfertigungsdatum: 30.08.1990
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -44,13 +39,13 @@ Ausfertigungsdatum: 30.08.1990
 
  
 
+ 
 
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Aufgaben
+# § 1 – Aufgaben
 
 (1) Der Auswärtige Dienst nimmt die auswärtigen Angelegenheiten des Bundes wahr. Er pflegt die Beziehungen der Bundesrepublik Deutschland zu auswärtigen Staaten sowie zwischenstaatlichen und überstaatlichen Einrichtungen. Er dient
 
@@ -99,13 +94,11 @@ und die außenpolitische Beziehungen betreffenden Tätigkeiten von staatlichen u
 
 (4) Der Auswärtige Dienst erfüllt die im Konsulargesetz geregelten Aufgaben.
 
-
-## § 2 – Auswärtiger Dienst
+# § 2 – Auswärtiger Dienst
 
 Der Auswärtige Dienst besteht aus dem Auswärtigen Amt (Zentrale) und den Auslandsvertretungen, die zusammen eine einheitliche Bundesbehörde unter Leitung des Bundesministers des Auswärtigen bilden.
 
-
-## § 3 – Auslandsvertretungen
+# § 3 – Auslandsvertretungen
 
 (1) Auslandsvertretungen sind Botschaften, Generalkonsulate und Konsulate sowie ständige Vertretungen bei zwischenstaatlichen und überstaatlichen Organisationen.
 
@@ -113,22 +106,19 @@ Der Auswärtige Dienst besteht aus dem Auswärtigen Amt (Zentrale) und den Ausla
 
 (3) Die Gesamtverantwortung für die Tätigkeit der Vertretung trägt ihr Leiter. Der Botschafter ist der persönliche Vertreter des Bundespräsidenten bei dem Staatsoberhaupt des Empfangsstaats.
 
-
-## § 4 – Gemeinsame Auslandsvertretungen mit anderen Staaten
+# § 4 – Gemeinsame Auslandsvertretungen mit anderen Staaten
 
 (1) Der Bundesminister des Auswärtigen kann Vereinbarungen mit anderen Staaten, insbesondere Mitgliedstaaten der Europäischen Gemeinschaft, über die Errichtung gemeinsamer diplomatischer oder konsularischer Auslandsvertretungen in Drittstaaten schließen.
 
 (2) Angehörige der auswärtigen Dienste anderer Staaten, die an diesen gemeinsamen Auslandsvertretungen tätig sind, können nach Maßgabe des Konsulargesetzes ermächtigt werden, Amtshandlungen mit Wirkung für und gegen die Bundesrepublik Deutschland vorzunehmen.
 
-
-## § 5 – Personaleinsatz
+# § 5 – Personaleinsatz
 
 (1) Die Angehörigen des Auswärtigen Dienstes werden nach dienstlichen Erfordernissen im Auswärtigen Amt und an den Auslandsvertretungen eingesetzt.
 
 (2) Für Beamte auf Lebenszeit des Auswärtigen Dienstes bildet der Ablauf des 30. Juni des Kalenderjahres, in dem sie die Regelaltersgrenze des § 51 Abs. 1 und 2 des Bundesbeamtengesetzes erreichen, die Altersgrenze. Liegt der Zeitpunkt der Versetzung in den Ruhestand damit erst nach Vollendung des 67. Lebensjahres, können sie auf Antrag bereits mit dem Ende des Monats in den Ruhestand treten, in dem sie das 67. Lebensjahr vollenden.
 
-
-## § 6 – Personalreserve
+# § 6 – Personalreserve
 
 (1) Der Auswärtige Dienst verfügt über eine angemessene Personalreserve. Sie gewährleistet eine sachgerechte Personalplanung unter den besonderen Bedingungen des Auswärtigen Dienstes.
 
@@ -143,8 +133,7 @@ angemessene fachliche und fremdsprachliche Aus- und Fortbildung,
 \-  
 Vorbereitung auf Versetzungen und persönliche Einführung in die Dienstgeschäfte durch den Amtsvorgänger.
 
-
-## § 7 – Organisation und Ausstattung
+# § 7 – Organisation und Ausstattung
 
 (1) Organisation und Ausstattung des Auswärtigen Dienstes sind seinen Aufgaben und Erfordernissen regelmäßig anzupassen.
 
@@ -152,25 +141,21 @@ Vorbereitung auf Versetzungen und persönliche Einführung in die Dienstgeschäf
 
 (3) Die entsandten Angehörigen des Auswärtigen Dienstes erhalten im Ausland für die Pflege dienstlicher Kontakte eine Aufwandsentschädigung, für die der Haushaltsplan Mittel zur Verfügung stellt.
 
-
-## § 8 – Inspektion
+# § 8 – Inspektion
 
 Inspekteure des Auswärtigen Amts überprüfen regelmäßig Aufgabenerfüllung, Organisation und Ausstattung der Auslandsvertretungen, die Einhaltung der organisatorischen, dienstrechtlichen und arbeitsrechtlichen Vorschriften und die Lebensbedingungen der Bediensteten. Sie achten auf einen zweckentsprechenden Einsatz des Personals und der Sachmittel und beraten die Auslandsvertretungen in Fragen der Führung und Zusammenarbeit.
 
-
-## § 9 – Kurierdienst und Auslands-IT
+# § 9 – Kurierdienst und Auslands-IT
 
 (1) Das Auswärtige Amt stellt durch einen eigenen Kurierdienst und die Auslandsinformations- und -kommunikationstechnik mit einem eigenen Kommunikationsnetz eine störungsgeschützte und geheimschutzgerechte Kommunikation im Auswärtigen Dienst sicher.
 
 (2) Die Auslandsinformations- und -kommunikationstechnik umfasst die Informations- und Kommunikationstechnik des Geschäftsbereichs des Auswärtigen Amts im In- und Ausland sowie die Informationstechnik der unmittelbaren Bundesverwaltung im Ausland.
 
-
-## § 10 – Politisches Archiv
+# § 10 – Politisches Archiv
 
 Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubigten Abschriften der völkerrechtlichen Vereinbarungen des Deutschen Reiches und der Bundesrepublik Deutschland sowie alle Unterlagen aufbewahrt, die der Auswärtige Dienst zur Erfüllung seiner Aufgaben benötigt. Die Vorschriften des Bundesarchivgesetzes über die Nutzung von Archivgut des Bundes sind entsprechend anzuwenden.
 
-
-## § 11 – Rechtsverhältnisse
+# § 11 – Rechtsverhältnisse
 
 (1) Die Angehörigen des Auswärtigen Dienstes im Inland und im Ausland sind Beamte, Angestellte und Arbeiter.
 
@@ -180,8 +165,7 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubi
 
 (4) Die Honorarkonsuln vertreten die Interessen der Bundesrepublik Deutschland in ihrem Amtsbezirk nach Weisungen des Auswärtigen Amtes und der übergeordneten Auslandsvertretung. Ihre konsularischen Befugnisse richten sich nach dem Konsulargesetz. Für ihre Rechtsstellung gegenüber dem Empfangsstaat gilt das Wiener Übereinkommen über konsularische Beziehungen.
 
-
-## § 12 – Auswahl und Ausbildung der Beamten
+# § 12 – Auswahl und Ausbildung der Beamten
 
 (1) Die Befähigung für die Laufbahnen des mittleren, gehobenen und höheren Auswärtigen Dienstes wird durch Vorbereitungsdienst und Bestehen der Laufbahnprüfung erworben. Die Einzelheiten der Laufbahn, Ausbildung und Prüfung bestimmt das Auswärtige Amt durch Rechtsverordnung, in der auch die Dauer des Vorbereitungsdienstes entsprechend den besonderen Anforderungen des Auswärtigen Dienstes geregelt werden kann.
 
@@ -189,8 +173,7 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubi
 
 (3) Andere Bewerber im Sinne des § 19 des Bundesbeamtengesetzes müssen diese Kenntnisse und Fähigkeiten im Rahmen ihrer Lebens- und Berufserfahrung erworben haben.
 
-
-## § 13 – Personalaustausch
+# § 13 – Personalaustausch
 
 (1) Das Auswärtige Amt kann Angehörige anderer Bundesbehörden insbesondere für besondere Fachaufgaben zeitlich befristet in den Auswärtigen Dienst übernehmen. In dieser Zeit sind sie Angehörige des Auswärtigen Dienstes; für ihre Pflichten und Rechte gelten die entsprechenden Vorschriften dieses Gesetzes sinngemäß.
 
@@ -198,8 +181,7 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubi
 
 (3) Angehörige anderer auswärtiger Dienste können befristet im Auswärtigen Dienst der Bundesrepublik Deutschland verwendet werden.
 
-
-## § 14 – Besondere Pflichten im Auswärtigen Dienst
+# § 14 – Besondere Pflichten im Auswärtigen Dienst
 
 (1) Der Beamte des Auswärtigen Dienstes hat sich für Verwendungen an allen Dienstorten bereitzuhalten.
 
@@ -207,8 +189,7 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubi
 
 (3) Der Beamte des Auswärtigen Dienstes ist verpflichtet, im Ausland auch außerhalb der regelmäßigen Arbeitszeit die sich aus dem Auftrag des Auswärtigen Dienstes ergebenden Aufgaben wahrzunehmen, insbesondere die notwendigen Kontakte zu pflegen und zu fördern und Deutschen zu helfen.
 
-
-## § 15 – Fürsorge und Schutz
+# § 15 – Fürsorge und Schutz
 
 (1) Die Fürsorge des Dienstherrn für den Beamten des Auswärtigen Dienstes und seine Familienangehörigen trägt den Belastungen und Gefährdungen des Dienstes und den besonderen Gegebenheiten im Ausland Rechnung.
 
@@ -216,29 +197,25 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubi
 
 (3) Der Leiter der Vertretung nimmt gegenüber den Beamten und ihren Familienangehörigen Fürsorge- und Schutzaufgaben des Dienstherrn im Ausland wahr.
 
-
-## § 16 – Erkrankungen und Unfälle im Ausland
+# § 16 – Erkrankungen und Unfälle im Ausland
 
 (1) In Krankheits-, Geburts- und Todesfällen, von denen der Beamte und seine Familienangehörigen im Ausland betroffen sind, werden dem Beamten Beihilfen gewährt, die den besonderen Verhältnissen des Auswärtigen Dienstes Rechnung tragen. Das Auswärtige Amt erläßt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen besondere Verwaltungsvorschriften, soweit es die Besonderheiten des Auswärtigen Dienstes erfordern.
 
 (2) Dem Beamten kann Unfallfürsorge wie bei einem Dienstunfall auch dann gewährt werden, wenn eine Erkrankung oder deren Folgen auf gesundheitsschädigende oder sonst vom Inland wesentlich abweichende Verhältnisse zurückzuführen sind, denen der Beamte bei einem dienstlich angeordneten Auslandsaufenthalt besonders ausgesetzt war. Das gleiche gilt für einen Unfall infolge derartiger Verhältnisse. Der Schadensausgleich ist ausgeschlossen, wenn sich der Beamte grobfahrlässig der Gefährdung ausgesetzt hat, es sei denn, daß der Ausschluß für ihn eine unbillige Härte wäre. Ansprüche auf Grund des Beamtenversorgungsgesetzes bleiben unberührt. Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen erläßt.
 
-
-## § 17 – Gesundheitsdienst und soziale Betreuung
+# § 17 – Gesundheitsdienst und soziale Betreuung
 
 (1) Der Auswärtige Dienst unterhält zur Vorsorge gegen besondere gesundheitliche Gefährdungen seiner Beamten und ihrer Familienangehörigen einen eigenen Gesundheitsdienst.
 
 (2) Soweit es die mit dem Auslandseinsatz verbundenen Bedingungen erfordern, kann das Auswärtige Amt soziale Betreuungseinrichtungen unterhalten oder entsprechende Selbsthilfeeinrichtungen fördern. Diese Einrichtungen können auch gemeinsam mit anderen Staaten, insbesondere den Mitgliedstaaten der Europäischen Gemeinschaft, und internationalen Organisationen betrieben werden.
 
-
-## § 18 – Urlaub der in das Ausland entsandten Beamten
+# § 18 – Urlaub der in das Ausland entsandten Beamten
 
 (1) Beamte des Auswärtigen Dienstes an außereuropäischen Dienstorten erhalten neben dem Erholungsurlaub jährlich zusätzliche Urlaubstage, gestaffelt nach Entfernung und Schwierigkeit des jeweiligen Dienstortes. Entsprechendes gilt für die Beamten an europäischen Dienstorten mit besonders schwierigen Lebens- und Arbeitsbedingungen. Die ins Ausland entsandten Beamten und ihre Familienangehörigen können jährlich einen Zuschuß zu einer Reise in die Bundesrepublik Deutschland erhalten, um die notwendigen Verbindungen zum Inland aufrechtzuerhalten.
 
 (2) Der Bundesminister des Auswärtigen wird ermächtigt, das Nähere im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen durch Rechtsverordnung zu regeln. Die Dienstorte mit Zusatzurlaubstagen und die Zahl der an einem Dienstort nach der Rechtsverordnung zu gewährenden zusätzlichen Urlaubstage bestimmt das Auswärtige Amt im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat durch Verwaltungsvorschrift.
 
-
-## § 19 – Unterstützung der Familienangehörigen
+# § 19 – Unterstützung der Familienangehörigen
 
 (1) Die Begleitung des ins Ausland entsandten Beamten durch seine Kinder, seinen Ehegatten und dessen Kinder wird zum Schutz von Ehe und Familie gefördert. Sie liegt im besonderen Interesse des Auswärtigen Dienstes.
 
@@ -260,13 +237,11 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder beglaubi
 
 (6) Die Vorschriften dieses Gesetzes, die sich auf das Bestehen einer Ehe beziehen, gelten entsprechend für das Bestehen einer Lebenspartnerschaft. Die Vorschriften dieses Gesetzes, die sich auf den Ehegatten beziehen, gelten entsprechend für den Lebenspartner.
 
-
-## § 20 – Mitwirkung der Ehegatten an dienstlichen Aufgaben
+# § 20 – Mitwirkung der Ehegatten an dienstlichen Aufgaben
 
 Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von Aufgaben der Beamten oder der Auslandsvertretung mit, so sind sie dabei zu unterstützen.
 
-
-## § 21 – Vorschulische und schulische Erziehung und Ausbildung der Kinder
+# § 21 – Vorschulische und schulische Erziehung und Ausbildung der Kinder
 
 (1) Vorschulische und schulische Erziehung, Ausbildung und Entwicklung der Kinder von Beamten des Auswärtigen Dienstes und ihrer Ehegatten sind so zu fördern, daß Nachteile in ihrer persönlichen Entwicklung im Vergleich zu im Inland heranwachsenden Kindern nach Möglichkeit vermieden oder ausgeglichen werden. Die bisherige Ausbildung und Erziehung sind zu berücksichtigen. Höhere als die im Inland gewöhnlich anfallenden Kosten werden erstattet.
 
@@ -274,8 +249,7 @@ Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von Aufgaben de
 
 (3) Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen erläßt.
 
-
-## § 22 – Unfälle und Erkrankungen von Familienangehörigen
+# § 22 – Unfälle und Erkrankungen von Familienangehörigen
 
 (1) Erleidet ein Familienangehöriger des Beamten oder eine andere zur häuslichen Gemeinschaft gehörende Person im Ausland einen Schaden durch einen Unfall oder eine Erkrankung, die unter den Voraussetzungen des § 31 des Beamtenversorgungsgesetzes bei dem Beamten als Dienstunfall zu werten wären, so ist dem Beamten ein Ausgleich zu gewähren. Ein Ausgleich kann auch unter den Voraussetzungen des § 16 Abs. 2 dieses Gesetzes gewährt werden.
 
@@ -285,27 +259,23 @@ Wirken die Ehegatten im dienstlichen Interesse an der Erfüllung von Aufgaben de
 
 (4) Näheres regeln Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen erläßt.
 
-
-## § 23 – Reisebeihilfen in besonderen Fällen
+# § 23 – Reisebeihilfen in besonderen Fällen
 
 (1) Zu Reisen des Beamten und seiner Familienangehörigen vom ausländischen Dienstort aus Anlaß des Todes oder einer lebensgefährlichen Erkrankung eines Familienangehörigen oder Verwandten ersten oder zweiten Grades können dem Beamten Reisebeihilfen gewährt werden. Ebenso können Beihilfen für Reisen von Familienangehörigen und Verwandten ersten oder zweiten Grades zum ausländischen Dienstort gewährt werden, wenn der Beamte oder ein Familienangehöriger lebensgefährlich erkrankt oder gestorben ist.
 
 (2) Das Auswärtige Amt erläßt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen besondere Verwaltungsvorschriften, soweit es die Besonderheiten des Auswärtigen Dienstes erfordern.
 
-
-## § 24 – Berufsausübung der Ehegatten
+# § 24 – Berufsausübung der Ehegatten
 
 (1) Der Dienstherr setzt sich dafür ein, daß der Ehegatte des Beamten nach Möglichkeit eine eigene Berufstätigkeit sowohl im Ausland ausüben als auch nach Rückkehr ins Inland wieder aufnehmen kann.
 
 (2) Einem Bundesbeamten kann unter Wegfall der Besoldung Urlaub für die Dauer der Tätigkeit des Ehegatten an einer Auslandsvertretung gewährt werden, wenn er mit diesem am Auslandsdienstort in häuslicher Gemeinschaft lebt und am Gesamtauftrag des Auswärtigen Dienstes mitwirkt.
 
-
-## § 25 – Maßnahmen der Krisenfürsorge
+# § 25 – Maßnahmen der Krisenfürsorge
 
 Bei kriegerischen Auseinandersetzungen oder inneren Unruhen oder Bedrohungen der Sicherheit der Auslandsvertretungen und ihrer Angehörigen sowie bei unvorhergesehenen schwerwiegenden gesundheitsschädigenden Verhältnissen oder Naturkatastrophen am Dienstort trifft das Auswärtige Amt die erforderlichen Maßnahmen zum Schutz und zur Fürsorge für die Angehörigen des Auswärtigen Dienstes und die zu ihrer häuslichen Gemeinschaft gehörenden Personen.
 
-
-## § 26 – Schadensausgleich
+# § 26 – Schadensausgleich
 
 (1) Schäden, die während eines dienstlich angeordneten Auslandsaufenthalts des Beamten diesem, einem Familienangehörigen oder einer anderen zur häuslichen Gemeinschaft gehörenden Person infolge von besonderen, vom Inland wesentlich abweichenden Verhältnissen, insbesondere infolge von Kriegshandlungen, kriegerischen Ereignissen, Aufruhrs, Unruhe oder Naturkatastrophen entstehen, können dem Beamten ersetzt werden. Gleiches gilt für Schäden des Beamten, seiner Familienangehörigen oder der mit ihm in häuslicher Gemeinschaft lebenden Personen durch einen Gewaltakt gegen staatliche Amtsträger, Einrichtungen oder Maßnahmen, wenn der Beamte von dem Gewaltakt in Ausübung des Dienstes oder im Zusammenhang mit seiner dienstlichen Stellung betroffen ist.
 
@@ -313,8 +283,7 @@ Bei kriegerischen Auseinandersetzungen oder inneren Unruhen oder Bedrohungen der
 
 (3) Das Nähere regeln Verwaltungsvorschriften, die das Auswärtige Amt im Einvernehmen mit dem Bundesminister des Innern, für Bau und Heimat und dem Bundesminister der Finanzen erläßt.
 
-
-## § 27 – Wohnsitz und Wohnung
+# § 27 – Wohnsitz und Wohnung
 
 (1) Der ins Ausland entsandte Beamte hat seinen Wohnsitz am ausländischen Dienstort zu nehmen; der Dienstherr kann Ausnahmen zulassen.
 
@@ -324,50 +293,40 @@ Bei kriegerischen Auseinandersetzungen oder inneren Unruhen oder Bedrohungen der
 
 (4) Ein Beamter des Auswärtigen Dienstes kann im Ausland zum Bezug einer angemessenen Dienstwohnung angewiesen werden, wenn es die dienstlichen und örtlichen Verhältnisse erfordern.
 
-
-## § 28 – Auslandsumzüge und Auslandstrennungsgeld
+# § 28 – Auslandsumzüge und Auslandstrennungsgeld
 
 Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen Regelungen werden nach den Grundsätzen des Bundesumzugskostengesetzes und des Bundesreisekostengesetzes durch Rechtsverordnungen des Bundesministers des Auswärtigen im Einvernehmen mit dem Bundesminister der Finanzen und dem Bundesminister des Innern, für Bau und Heimat getroffen.
 
-
-## § 29 – Auslandsbesoldung des Auswärtigen Dienstes
+# § 29 – Auslandsbesoldung des Auswärtigen Dienstes
 
 Die Auslandsbesoldung der Beamten des Auswärtigen Dienstes erfolgt nach dem Bundesbesoldungsgesetz. Neben den aus den Lebensbedingungen im Ausland folgenden besonderen materiellen und immateriellen Belastungen in der Lebensführung sowie Kaufkraftnachteilen berücksichtigt sie die durch den wiederkehrenden Auslandseinsatz bedingten Mehraufwendungen, bei verheirateten Beamten die entsprechende Belastung der Ehegatten und deren Mitwirkung am Gesamtauftrag des Auswärtigen Dienstes. Die auf eine Auslandstätigkeit bezogenen Leistungen sind regelmäßig auf ihre Angemessenheit zu überprüfen und, soweit erforderlich, anzupassen. Die Vorbemerkung Nummer 7 Abs. 2 Satz 1 zu den Bundesbesoldungsordnungen A und B bleibt unberührt.
 
-
-## § 30 – Fremdsprachenförderung
+# § 30 – Fremdsprachenförderung
 
 Erwerb und Pflege von dienstlich erforderlichen Sprachkenntnissen werden vom Auswärtigen Amt durch Fortbildungsmaßnahmen, Gewährung von Zuschüssen und einer Sprachenaufwandsentschädigung gefördert. Die Sprachenaufwandsentschädigung wird nicht gewährt für Sprachkenntnisse, die Voraussetzung für die Einstellung in den Auswärtigen Dienst sind. Das Nähere regelt das Auswärtige Amt in Verwaltungsvorschriften.
 
-
-## § 31 – Nichtentsandte Beschäftigte
+# § 31 – Nichtentsandte Beschäftigte
 
 An den Auslandsvertretungen werden deutsche und nichtdeutsche nichtentsandte Angestellte und Arbeiter beschäftigt. Sie leisten einen wichtigen Beitrag zum Gesamtauftrag des Auswärtigen Dienstes.
 
-
-## § 32 – Nichtentsandte Beschäftigte deutscher Staatsangehörigkeit
+# § 32 – Nichtentsandte Beschäftigte deutscher Staatsangehörigkeit
 
 Die Rechtsverhältnisse der bei den Auslandsvertretungen beschäftigten nichtentsandten deutschen Arbeitnehmer richten sich nach den für sie geltenden Tarifverträgen und sonstigen Bestimmungen.
 
-
-## § 33 – Nichtentsandte Beschäftigte anderer Staatsangehörigkeit
+# § 33 – Nichtentsandte Beschäftigte anderer Staatsangehörigkeit
 
 Die Arbeitsverhältnisse nichtentsandter Beschäftigter, die nicht Deutsche sind, werden unter Berücksichtigung der Erfordernisse der Auslandsvertretungen sowie des Rechts im Gastland nach der Ortsüblichkeit gestaltet. Unter Berücksichtigung der örtlichen Verhältnisse werden angemessene soziale Bedingungen gewährleistet.
 
+# § 34 – (weggefallen)
 
-## § 34 – (weggefallen)
-
-
-## § 35 – Allgemeine Verwaltungsvorschriften
+# § 35 – Allgemeine Verwaltungsvorschriften
 
 Der Bundesminister des Auswärtigen erläßt, soweit in diesem Gesetz nicht anders bestimmt, die zur Durchführung dieses Gesetzes erforderlichen Verwaltungsvorschriften.
 
-
-## § 36 – Übergangsregelung
+# § 36 – Übergangsregelung
 
 § 5 Abs. 2 dieses Gesetzes ist nicht anzuwenden auf Beamte, denen vor dem 1. Januar 2003 Altersteilzeit bewilligt wurde.
 
-
-## § 37 – Inkrafttreten
+# § 37 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1991 in Kraft.

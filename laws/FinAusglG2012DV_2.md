@@ -1,15 +1,11 @@
-# [FinAusglG2012DV 2] Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2012
-
-Ausfertigungsdatum: 14.10.2013
-
+% Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2012
+% Ausfertigungsdatum: 14.10.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2012
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2012
 
 Für das Ausgleichsjahr 2012 werden als Länderanteile an der Umsatzsteuer festgestellt:  
   
@@ -33,8 +29,7 @@ Für das Ausgleichsjahr 2012 werden als Länderanteile an der Umsatzsteuer festg
 | für Schleswig-Holstein     |  2 966 022 350,33 Euro |
 | für Thüringen              | 3 591 690 697,60 Euro. |
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2012
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2012
 
 Für das Ausgleichsjahr 2012 wird der Finanzausgleich unter den Ländern wie folgt festgestellt:
 
@@ -64,8 +59,7 @@ Für das Ausgleichsjahr 2012 wird der Finanzausgleich unter den Ländern wie fol
 | an Schleswig-Holstein     |   134 406 244,11 Euro |
 | an Thüringen              |  541 905 223,05 Euro. |
 
-
-## § 3 – Abschlusszahlungen für 2012
+# § 3 – Abschlusszahlungen für 2012
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1, den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Finanzausgleichsgesetzes mit dem Inkrafttreten dieser Verordnung fällig:
 
@@ -95,12 +89,10 @@ Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgül
 | an Schleswig-Holstein     |  34 042 853,22 Euro |
 | an Thüringen              |  3 399 552,60 Euro. |
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft. Gleichzeitig treten die Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2012 vom 8. März 2012 (BGBl. I S. 453) sowie die Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2010 vom 10. November 2011 (BGBl. I S. 2231) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

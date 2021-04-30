@@ -1,15 +1,11 @@
-# [ÖkoKennzV] Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens  (Öko-Kennzeichenverordnung - ÖkoKennzV)
-
-Ausfertigungsdatum: 06.02.2002
-
+% Verordnung zur Gestaltung und Verwendung des Öko-Kennzeichens  (Öko-Kennzeichenverordnung - ÖkoKennzV)
+% Ausfertigungsdatum: 06.02.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 1 des Öko-Kennzeichengesetzes vom 10. Dezember 2001 (BGBl. I S. 3441) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1 – Gestaltung des Öko-Kennzeichens
+# § 1 – Gestaltung des Öko-Kennzeichens
 
 (1) Das Öko-Kennzeichen nach § 1 Abs. 1 des Öko-Kennzeichengesetzes besteht nach Maßgabe des Musters und der technischen Beschreibung der Anlage 1 aus einem umrandeten Sechseck und trägt als Inschrift den Schriftzug "Bio" und darunter den Schriftzug "nach EG-Öko-Verordnung". Der Schriftzug "nach EG-Öko-Verordnung" kann
 
@@ -33,8 +29,7 @@ Es darf um höchstens 15 Grad gedreht werden. Bei einer Verwendung im Sinne des 
 
 (6) Das Weglassen oder Hinzufügen von Bestandteilen oder sonstige Änderungen des Öko-Kennzeichens sind vorbehaltlich der Absätze 1 bis 5 verboten.
 
-
-## § 2 – Verwendung des Öko-Kennzeichens
+# § 2 – Verwendung des Öko-Kennzeichens
 
 (1) Das Öko-Kennzeichen ist
 
@@ -56,30 +51,25 @@ anzubringen.
 
 angepriesen wird.
 
-
-## § 3 – Anzeigepflicht
+# § 3 – Anzeigepflicht
 
 (1) Wer für Erzeugnisse nach § 1 Abs. 1 des Öko-Kennzeichengesetzes das Öko-Kennzeichen verwenden will, hat dies der Bundesanstalt für landwirtschaft und Ernährung vor dem erstmaligen Verwenden anzuzeigen. Die Anzeige ist nach dem Muster des Formblattes in Anlage 2 vorzunehmen.
 
 (2) Wer vor dem Inkrafttreten dieser Verordnung das beim Deutschen Patent- und Markenamt unter der Registernummer 301 41 473 eingetragene Öko-Kennzeichen verwendet hat, hat die Anzeige nach Absatz 1 bis zum 1. Juni 2002 zu erstatten.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 4 Abs. 2 des Öko-Kennzeichengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 Satz 1 oder Abs. 2 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)  Öko-Kennzeichen  Muster
+# Anlage 1 – (zu § 1 Abs. 1)  Öko-Kennzeichen  Muster
 
 (Inhalt: nicht darstellbares Muster Öko-Kennzeichen;  
 Fundstelle: BGBl. I 2002, 591)
@@ -115,8 +105,7 @@ b) Das Öko-Kennzeichen ist in der Version mit Verlauf zu verwenden (Schwarz-Ant
 
 Bei einfarbiger Verwendung des Kennzeichens im Sinne von § 1 Abs. 4 ist die Strich-Version des Öko-Kennzeichens zulässig (Schwarz-Anteil bei Strich: black = 100% bzw. in der entsprechenden Farbe eingefärbt).
 
-
-## Anlage 2 – (zu § 3 Abs. 1)  Formblattmuster für die Anzeige  VERPFLICHTENDE ANGABEN!
+# Anlage 2 – (zu § 3 Abs. 1)  Formblattmuster für die Anzeige  VERPFLICHTENDE ANGABEN!
 
 (nicht darstellbares Formblatt;  
 Fundstelle: BGBl. I 2005, 3384 - 3385)

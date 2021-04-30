@@ -1,13 +1,9 @@
-# [ZensG 2011] Gesetz über den registergestützten Zensus im Jahre 2011  (Zensusgesetz 2011 - ZensG 2011)
-
-Ausfertigungsdatum: 08.07.2009
-
+% Gesetz über den registergestützten Zensus im Jahre 2011  (Zensusgesetz 2011 - ZensG 2011)
+% Ausfertigungsdatum: 08.07.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Art, Zwecke und Berichtszeitpunkt des Zensus
+# § 1 – Art, Zwecke und Berichtszeitpunkt des Zensus
 
 (1) Die statistischen Ämter des Bundes und der Länder führen eine Bevölkerungs-, Gebäude- und Wohnungszählung (Zensus) mit Stand vom 9. Mai 2011 (Berichtszeitpunkt) als Bundesstatistik durch.
 
@@ -37,8 +33,7 @@ Ausfertigungsdatum: 08.07.2009
 
 3. der Erfüllung der Berichtspflichten nach der Verordnung (EG) Nr. 763/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über Volks- und Wohnungszählungen (ABl. L 218 vom 13.8.2008, S. 14).
 
-
-## § 2 – Erhebungseinheiten und Begriffsbestimmungen
+# § 2 – Erhebungseinheiten und Begriffsbestimmungen
 
 (1) Erhebungseinheiten der Bevölkerungszählung sind Personen und Haushalte. Zur Bevölkerung zählen
 
@@ -58,8 +53,7 @@ Nicht zur Bevölkerung zählen Angehörige ausländischer Streitkräfte, diploma
 
 (6) Soweit Erhebungen auf Kreise, Gemeindeverbände unterhalb der Kreisebene und Gemeinden sowie Teile von Städten Bezug nehmen, werden der Gebietsstand und die in § 5 des Bevölkerungsstatistikgesetzes geregelte Bevölkerungsfortschreibung mit Stand vom 31. Dezember 2009 zugrunde gelegt. Davon kann abgewichen werden, wenn und soweit es innerhalb der Länder bis zur Stichprobenziehung zu Gebietsreformen kommt.
 
-
-## § 3 – Übermittlung von Daten durch die Meldebehörden und durch oberste Bundesbehörden
+# § 3 – Übermittlung von Daten durch die Meldebehörden und durch oberste Bundesbehörden
 
 (1) Zur Aktualisierung des Anschriften- und Gebäuderegisters nach § 2 des Zensusvorbereitungsgesetzes 2011 vom 8. Dezember 2007 (BGBl. I S. 2808) sowie zur Vorbereitung und Durchführung des Zensus übermitteln die Meldebehörden den statistischen Ämtern der Länder für jede gemeldete Person elektronisch die folgenden Daten:
 
@@ -157,8 +151,7 @@ sowie für ihre dort ansässigen in Deutschland nicht gemeldeten Familienangehö
 
 (7) Die statistischen Ämter der Länder übermitteln dem Statistischen Bundesamt die Daten nach Absatz 1 nach Abschluss der Vollzähligkeits- und Vollständigkeitsüberprüfung jeweils spätestens acht Wochen nach den in Absatz 2 genannten Zeitpunkten.
 
-
-## § 4 – Übermittlung von Daten durch die Bundesagentur für Arbeit
+# § 4 – Übermittlung von Daten durch die Bundesagentur für Arbeit
 
 Zur Durchführung des Zensus übermittelt die Bundesagentur für Arbeit dem Statistischen Bundesamt zu dem Berichtstag, der dem Berichtszeitpunkt am nächsten liegt, aus ihrem Datenbestand elektronisch die folgenden Daten:
 
@@ -204,8 +197,7 @@ d) Geschlecht,
 
 e) Tag der Geburt.
 
-
-## § 5 – Übermittlung von Daten durch die nach dem Finanz- und Personalstatistikgesetz auskunftspflichtigen Stellen
+# § 5 – Übermittlung von Daten durch die nach dem Finanz- und Personalstatistikgesetz auskunftspflichtigen Stellen
 
 Die nach § 11 Absatz 2 Nummer 3 des Finanz- und Personalstatistikgesetzes auskunftspflichtigen Stellen des Bundes, soweit es sich dabei um Bundesbehörden oder Erhebungseinheiten nach § 2 Absatz 1 Nummer 10 des Finanz- und Personalstatistikgesetzes handelt, an denen der Bund unmittelbar oder mittelbar mit mehr als der Hälfte des Nennkapitals oder Stimmrechts beteiligt ist, übermitteln dem Statistischen Bundesamt für das in einem unmittelbaren Dienst- oder Dienstordnungsverhältnis stehende Personal der in § 12 Absatz 2 des Finanz- und Personalstatistikgesetzes genannten Erhebungseinheiten zum Berichtszeitpunkt innerhalb von drei Monaten elektronisch die folgenden Daten:
 
@@ -237,8 +229,7 @@ g) Berichts- oder Dienststellennummer.
 
 Die statistischen Ämter der Länder übermitteln für das in einem unmittelbaren Dienst- oder Dienstordnungsverhältnis stehende Personal der übrigen in § 2 Absatz 1 des Finanz- und Personalstatistikgesetzes genannten Erhebungseinheiten jeweils zu den in Satz 1 genannten Fristen die dort genannten Daten elektronisch an das Statistische Bundesamt.
 
-
-## § 6 – Gebäude- und Wohnungszählung
+# § 6 – Gebäude- und Wohnungszählung
 
 (1) Zur Durchführung des Zensus führen die statistischen Ämter der Länder zum Berichtszeitpunkt eine Gebäude- und Wohnungszählung als schriftliche Befragung durch.
 
@@ -288,8 +279,7 @@ g) Zahl der Räume.
 
 5. Straße, Hausnummer und Anschriftenzusätze der Wohnung.
 
-
-## § 7 – Haushaltebefragung auf Stichprobenbasis
+# § 7 – Haushaltebefragung auf Stichprobenbasis
 
 (1) Die statistischen Ämter der Länder führen zum Berichtszeitpunkt eine Haushaltebefragung auf Stichprobenbasis (Haushaltsstichprobe) durch. Die Erhebung dient:
 
@@ -359,8 +349,7 @@ Die Feststellung umfasst nicht die Berichtigung der aus den Melderegistern über
 
 § 7 Abs. 1 bis 3: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -
 
-
-## § 8 – Erhebungen an Anschriften mit Sonderbereichen
+# § 8 – Erhebungen an Anschriften mit Sonderbereichen
 
 (1) Die statistischen Ämter der Länder stellen für alle Anschriften mit Sonderbereichen die dort wohnenden Personen fest. Dafür werden für jede dort wohnende Person folgende Daten erhoben:
 
@@ -400,8 +389,7 @@ c) Geburtsort.
 
 § 8 Abs. 3: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -
 
-
-## § 9 – Zusammenführung der Datensätze und Haushaltegenerierung
+# § 9 – Zusammenführung der Datensätze und Haushaltegenerierung
 
 (1) Zur Erstellung des kombinierten Datensatzes mit demografischen und erwerbsstatistischen Angaben führt das Statistische Bundesamt die Datensätze nach den §§ 3 bis 5 unter Beachtung der Ergebnisse der Erhebungen und Untersuchungen nach den §§ 8, 15 und 16 zusammen.
 
@@ -459,17 +447,15 @@ q) Anschrift der wohnungsgebenden Person,
 
 r) Information über freiwillige Anmeldung im Melderegister.
 
-
-## § 10 – Erhebungsstellen
+# § 10 – Erhebungsstellen
 
 (1) Zur Durchführung der Erhebungen nach den §§ 6 bis 8, 14, 15 und 16 können die Länder Erhebungsstellen einrichten. Den Erhebungsstellen können auch Aufgaben übertragen werden, die nach diesem Gesetz von den statistischen Ämtern der Länder zu erfüllen sind.
 
 (2) Die Erhebungsstellen sind räumlich, organisatorisch und personell von anderen Verwaltungsstellen zu trennen. Es ist sicherzustellen, dass die Angaben in den Erhebungsunterlagen nicht für andere Aufgaben verwendet werden. Die in den Erhebungsstellen tätigen Personen sind schriftlich zu verpflichten, das Statistikgeheimnis zu wahren und auch solche Erkenntnisse über Auskunftspflichtige geheim zu halten, die bei ihrer Tätigkeit gewonnen werden. Die Verpflichtung gilt auch nach Beendigung der Tätigkeit in den Erhebungsstellen.
 
-§ 10 Abs. 2 Satz 1 idF d. G v. 8.7.2009 I 1781: Sachsen - Abweichung durch [§ 2 Abs. 3 Satz 1 des Gesetzes zur Ausführung des Zensusgesetzes 2011 im Freistaat Sachsen (Sächsisches Zensusausführungsgesetz - SächsZensGAG)](../abweichendes_Landesrecht/zensg2011ag_sn__2.html "Anzeige in neuem Fenster") v. 23.9.2010 SächsGVBl. 2010, 254, mWv 19.10.2010 (vgl. BGBl. I 2011, 846)
+§ 10 Abs. 2 Satz 1 idF d. G v. 8.7.2009 I 1781: Sachsen - Abweichung durch [§ 2 Abs. 3 Satz 1 des Gesetzes zur Ausführung des Zensusgesetzes 2011 im Freistaat Sachsen (Sächsisches Zensusausführungsgesetz - SächsZensGAG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/zensg2011ag_sn__2.html "Anzeige in neuem Fenster") v. 23.9.2010 SächsGVBl. 2010, 254, mWv 19.10.2010 (vgl. BGBl. I 2011, 846)
 
-
-## § 11 – Erhebungsbeauftragte
+# § 11 – Erhebungsbeauftragte
 
 (1) Für die Erhebungen nach den §§ 6 bis 8 sowie 14 bis 17 können Erhebungsbeauftragte nach § 14 des Bundesstatistikgesetzes eingesetzt werden. Sie sind von den statistischen Ämtern der Länder oder von den Erhebungsstellen auszuwählen und zu bestellen.
 
@@ -497,8 +483,7 @@ r) Information über freiwillige Anmeldung im Melderegister.
 
 (11) Die Erhebungsbeauftragten erhalten zur Unterstützung ihrer Tätigkeit bei den Erhebungen nach den §§ 6 bis 8 und 15 bis 17 einen verkürzten Melderegisterauszug für die betreffenden Anschriften. Dieser Auszug enthält für die unter der Anschrift gemeldeten Personen die Angaben zu Familienname, frühere Namen, Vornamen, Namenszusatz, Geschlecht, Tag der Geburt, Staatsangehörigkeiten sowie die Angaben zur Anschrift.
 
-
-## § 12 – Zentrale Datenverarbeitung und -aufbereitung
+# § 12 – Zentrale Datenverarbeitung und -aufbereitung
 
 (1) Die erhobenen Daten werden nach Maßgabe der folgenden Vorschriften zentral verarbeitet und aufbereitet.
 
@@ -516,8 +501,7 @@ r) Information über freiwillige Anmeldung im Melderegister.
 
 (8) Die datenschutzrechtliche Verantwortung für die zentral gespeicherten Daten trägt das nach den Absätzen 1 bis 7 zuständige statistische Amt. Es hat insbesondere zu gewährleisten, dass die Daten von den anderen statistischen Ämtern nur im Rahmen ihrer jeweiligen Aufgaben nach diesem Gesetz abgerufen werden können. Die Verantwortung für die Zulässigkeit des Abrufs im automatisierten Verfahren trägt der Empfänger.
 
-
-## § 13 – Ordnungsnummern
+# § 13 – Ordnungsnummern
 
 (1) Für jede Anschrift, jedes Gebäude, jede Wohnung, jeden Haushalt und jede Person wird von den statistischen Ämtern des Bundes und der Länder eine Ordnungsnummer vergeben und geführt, die gemeinde- und gebäudeübergreifend sein kann.
 
@@ -525,8 +509,7 @@ r) Information über freiwillige Anmeldung im Melderegister.
 
 (3) Die Ordnungsnummern dürfen zusammen mit den Erhebungsmerkmalen gespeichert werden. Sie sind nach Abschluss der Aufbereitung des Zensus, spätestens jedoch vier Jahre nach dem Berichtszeitpunkt zu löschen.
 
-
-## § 14 – Ergänzende Ermittlung von Anschriften von Gebäuden mit Wohnraum und von bewohnten Unterkünften
+# § 14 – Ergänzende Ermittlung von Anschriften von Gebäuden mit Wohnraum und von bewohnten Unterkünften
 
 (1) Die statistischen Ämter der Länder überprüfen bei Anschriften, die in das Anschriften- und Gebäuderegister nach § 2 des Zensusvorbereitungsgesetzes 2011 ausschließlich auf Grund von Angaben der Vermessungsbehörden (§ 4 des Zensusvorbereitungsgesetzes 2011) oder ausschließlich von Angaben der Meldebehörden (§ 5 des Zensusvorbereitungsgesetzes 2011) oder ausschließlich von Angaben der Bundesagentur für Arbeit (§ 6 des Zensusvorbereitungsgesetzes 2011) aufgenommen wurden, ob es sich dabei um Anschriften von Gebäuden mit Wohnraum oder bewohnten Unterkünften handelt. Die statistischen Ämter der Länder stellen die hierbei festgestellten Wohnanschriften bis zum 30. Juli 2010 in das Anschriften- und Gebäuderegister ein.
 
@@ -534,8 +517,7 @@ r) Information über freiwillige Anmeldung im Melderegister.
 
 (3) Nach Abschluss der Prüfung nach Absatz 1 führen die statistischen Ämter der Länder zur Klärung der verbleibenden Anschriften eine schriftliche Erhebung bei den in § 18 Absatz 2 bezeichneten Personen durch. Führt diese zu keinem Ergebnis, sind Begehungen durchzuführen. Eine Begehung im Sinne des Satzes 2 ist die Inaugenscheinnahme der Liegenschaft vom öffentlichen Straßenraum oder vom öffentlich zugänglichen Grundstücksteil.
 
-
-## § 15 – Mehrfachfalluntersuchung
+# § 15 – Mehrfachfalluntersuchung
 
 (1) Das Statistische Bundesamt prüft anhand der von den Meldebehörden nach § 3 Absatz 1 übermittelten Daten, ob Personen für mehr als eine alleinige Wohnung oder Hauptwohnung (Mehrfachfälle) oder nur für Nebenwohnungen gemeldet sind.
 
@@ -569,8 +551,7 @@ d) Anschriften aller Haupt- und Nebenwohnungen der betroffenen Person.
 
 § 15 Abs. 2 u. 3: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -
 
-
-## § 16 – Befragung zur Klärung von Unstimmigkeiten
+# § 16 – Befragung zur Klärung von Unstimmigkeiten
 
 Die statistischen Ämter der Länder bereinigen Unstimmigkeiten, die in Bezug auf Anschriften mit nur einer bewohnten Wohnung in Gemeinden mit weniger als 10 000 Einwohnern bestehen. Dazu erheben sie an den betroffenen Anschriften für jede dort wohnende Person folgende Angaben:
 
@@ -596,8 +577,7 @@ b) Tag der Geburt (Tag ohne Monats- und Jahresangabe),
 
 c) Anschrift.
 
-
-## § 17 – Bewertung der Qualität der Zensusergebnisse
+# § 17 – Bewertung der Qualität der Zensusergebnisse
 
 (1) Zur Sicherung der Qualität der Durchführung des Zensus dokumentieren die Erhebungsstellen die Schulung und die Aufgabenerledigung der Erhebungsbeauftragten. Die Dokumentationen sind den statistischen Ämtern der Länder vorzulegen und von diesen zu prüfen. Sofern keine Erhebungsstellen eingerichtet worden sind, erfolgt die Dokumentation durch die statistischen Ämter der Länder.
 
@@ -639,8 +619,7 @@ c) Anschrift.
 
 Für diesen Qualitätsbericht stellen die statistischen Ämter der Länder jeweils für ihren Zuständigkeitsbereich dem Statistischen Bundesamt Qualitätsberichte über die Durchführung des Zensus bis spätestens zum 1. März 2015 zur Verfügung. Diese Berichte enthalten insbesondere einen Bericht über die Schulung und Aufgabenerledigung der Erhebungsbeauftragten sowie die Ergebnisse der Überprüfungen nach den Absätzen 2 und 3.
 
-
-## § 18 – Auskunftspflicht und Form der Auskunftserteilung
+# § 18 – Auskunftspflicht und Form der Auskunftserteilung
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht. Die Auskunft über die Erhebungsmerkmale nach § 7 Absatz 4 Nummer 19 ist freiwillig.
 
@@ -656,54 +635,41 @@ Für diesen Qualitätsbericht stellen die statistischen Ämter der Länder jewei
 
 (7) Auskunftspflichtig für die Erhebung nach § 16 sind alle Volljährigen oder einen eigenen Haushalt führenden Minderjährigen, jeweils auch für minderjährige Haushaltsmitglieder, die unter den betroffenen Anschriften wohnen. Für volljährige Haushaltsmitglieder, die nicht selbst Auskunft geben können, ist jedes andere auskunftspflichtige Haushaltsmitglied auskunftspflichtig. Die Auskunftspflicht über Personen, die nicht selbst Auskunft geben können, und über Minderjährige erstreckt sich nur auf die Daten, die der auskunftspflichtigen Person bekannt sind. Benennt eine wegen einer Behinderung nicht auskunftsfähige Person eine Vertrauensperson, die für diese die erforderliche Auskunft erteilt, erlischt die Auskunftspflicht der behinderten Person sowie des diesbezüglich auskunftspflichtigen Haushaltsmitglieds, soweit die Vertrauensperson die Auskunft erteilt. Die Angaben zu den Hilfsmerkmalen nach § 16 Nummer 2 sowie die Angaben nach § 16 Nummer 1 Buchstabe a, b und f sind von den angetroffenen Auskunftspflichtigen auch für andere in derselben Wohnung wohnende Personen auf Aufforderung mündlich gegenüber den Erhebungsbeauftragten mitzuteilen.
 
-
-## § 19 – Löschung
+# § 19 – Löschung
 
 (1) Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum frühestmöglichen Zeitpunkt zu trennen und gesondert aufzubewahren. Sie sind, soweit sich nicht aus § 22 Absatz 2 und § 23 etwas anderes ergibt, zu löschen, sobald bei den statistischen Ämtern die Überprüfung der Erhebungs- und Hilfsmerkmale auf ihre Schlüssigkeit und Vollständigkeit abgeschlossen ist. Sie sind spätestens vier Jahre nach dem Berichtszeitpunkt zu löschen.
 
 (2) Die Erhebungsunterlagen sind nach Abschluss der Aufbereitung des Zensus, spätestens vier Jahre nach dem Berichtszeitpunkt zu vernichten.
 
 § 19: Mit dem GG vereinbar; die einstweilige Anordnung v. 26.8.2015, zuletzt verlängert durch Beschluss v. 14.5.2018, wird damit gegenstandslos, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -  
-§ 19: Wurde gem. BVerfGE v. 26.8.2015; 2016 I 492 (2 BvF 1/15) bis zur Entscheidung in der Hauptsache, längstens für die Dauer von sechs Monaten, außer Vollzug gesetzt.  
-Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 15.2.2016 I 492 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.  
-Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 20.7.2016 I 2030 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.  
-Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 22.12.2016; 2017 I 134 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.  
-Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 13.6.2017 I 2202 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.  
-Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 1.12.2017 I 4042 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.  
-Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 14.5.2018 I 854 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.
+§ 19: Wurde gem. BVerfGE v. 26.8.2015; 2016 I 492 (2 BvF 1/15) bis zur Entscheidung in der Hauptsache, längstens für die Dauer von sechs Monaten, außer Vollzug gesetzt. Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 15.2.2016 I 492 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt. Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 20.7.2016 I 2030 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt. Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 22.12.2016; 2017 I 134 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt. Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 13.6.2017 I 2202 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt. Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 1.12.2017 I 4042 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt. Die einstweilige Anordnung v. 26.8.2015; 2016 I 492 (2 BvF 1/15) wurde gem. BVerfGE v. 14.5.2018 I 854 (2 BvF 1/15) für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung in der Hauptsache, wiederholt.
 
-
-## § 20 – Datenübermittlungen
+# § 20 – Datenübermittlungen
 
 (1) Die Datenübermittlungen nach § 3 Absatz 1 und 3 sowie § 4 erfolgen aus den vorhandenen Unterlagen. Die Angaben zu § 5 Absatz 1 sind aus den vorhandenen Daten zu erstellen, ohne neue Erhebungen durchzuführen.
 
 (2) Bei der Datenübermittlung im Wege der Datenfernübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Gewährleistung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit, Integrität und Authentizität der Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
-
-## § 21 – Information der Öffentlichkeit
+# § 21 – Information der Öffentlichkeit
 
 (1) Die statistischen Ämter des Bundes und der Länder richten im Internet unter www.zensus2011.de eine gemeinsame Internetseite ein, um die Bevölkerung über den Zensus zu informieren.
 
 (2) Die Bundesregierung gibt die Merkmalsausprägungen der Erhebungsmerkmale im elektronischen Bundesanzeiger sowie auf der Internetseite nach Absatz 1 bekannt.
 
-
-## § 22 – Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
+# § 22 – Übermittlung von Tabellen und Einzelangaben an oberste Bundes- und Landesbehörden sowie an Statistikstellen der Gemeinden und Gemeindeverbände
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, dürfen die statistischen Ämter des Bundes und der Länder den obersten Bundes- oder Landesbehörden Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 (2) Für ausschließlich kommunalstatistische Zwecke dürfen die statistischen Ämter des Bundes und der Länder den für statistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände (Statistikstellen) auf Ersuchen für deren Zuständigkeitsbereich Einzelangaben zu den Erhebungsmerkmalen sowie zu den Hilfsmerkmalen „Straße“ und „Hausnummer“ oder nach Blockseiten zusammengefasste Einzelangaben übermitteln. Die Übermittlung ist nur zulässig, wenn das Statistikgeheimnis durch gesetzlich vorgeschriebene Maßnahmen, insbesondere zur räumlichen, organisatorischen und personellen Trennung der Statistikstellen von den für nichtstatistische Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände, gewährleistet ist. Die Hilfsmerkmale sind zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach Übermittlung zu löschen.
 
-
-## § 23 – Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
+# § 23 – Bereitstellung von Auswahlgrundlagen für Gebäude-, Wohnungs- und Bevölkerungsstichproben
 
 Als Grundlage für Gebäude-, Wohnungs- und Bevölkerungsstichproben, die als Bundes- oder Landesstatistiken durchgeführt werden, dürfen die statistischen Ämter des Bundes und der Länder die Zahl der Wohnungen und Personen, die Art des Sonderbereichs, die Anschrift des Gebäudes oder der Unterkunft zur Ermittlung von Auswahlbezirken im Geltungsbereich dieses Gesetzes nach mathematischen Zufallsverfahren nutzen. Diese Merkmale sind gesondert aufzubewahren. Die Auswahlbezirke für die Stichproben werden auf 20 Prozent begrenzt. Die Merkmale für diese Auswahlbezirke sind unverzüglich nach Zweckerfüllung zu löschen, spätestens zu dem Zeitpunkt, zu dem entsprechende Auswahlgrundlagen aus einer künftigen Zählung zur Verfügung stehen. Die Merkmale für die nicht benötigten 80 Prozent der Auswahlbezirke sind unverzüglich nach Festlegung der Auswahlbezirke nach Satz 3, spätestens vier Jahre nach dem Berichtszeitpunkt zu löschen.
 
-
-## § 24 – Kosten der Übermittlungen an das Statistische Bundesamt
+# § 24 – Kosten der Übermittlungen an das Statistische Bundesamt
 
 Die Kosten der Datenübermittlungen an das Statistische Bundesamt werden nicht erstattet.
 
-
-## § 25 – Finanzzuweisung
+# § 25 – Finanzzuweisung
 
 Der Bund gewährt den Ländern zum Ausgleich der Kosten der Vorbereitung und der Durchführung des registergestützten Zensus am 1. Juli 2011 eine Finanzzuweisung in Höhe von 250 Millionen Euro. Die Verteilung der Finanzzuweisung erfolgt nach dem jeweiligen Aufwand der Länder; sie ist im Rahmen einer Verwaltungsvereinbarung zwischen den Ländern bis spätestens 31. März 2010 festzulegen.

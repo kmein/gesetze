@@ -1,20 +1,15 @@
-# [KonsVerGBRV] Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland  (Deutsch-Britische Konsultationsvereinbarungsverordnung - KonsVerGBRV)
-
-Ausfertigungsdatum: 09.07.2012
-
+% Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland  (Deutsch-Britische Konsultationsvereinbarungsverordnung - KonsVerGBRV)
+% Ausfertigungsdatum: 09.07.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Absatz 2 Satz 1 der Abgabenordnung, der durch Artikel 9 Nummer 2 Buchstabe b des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) angefügt worden ist, und des Artikels 97 § 1 Absatz 9 Satz 2 des Einführungsgesetzes zur Abgabenordnung, der durch Artikel 16 Nummer 1 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Abkommen
+# § 1 – Abkommen
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 30. März 2010 (BGBl. 2010 II S. 1333, 1334) in der jeweils geltenden Fassung.
 
-
-## § 2 – Abfindungen an Arbeitnehmer
+# § 2 – Abfindungen an Arbeitnehmer
 
 (1) Die einheitliche Anwendung und Auslegung des Abkommens hinsichtlich der Besteuerung von Abfindungen an Arbeitnehmer auf Grund einer entsprechenden Konsultationsvereinbarung im Sinn des § 2 Absatz 2 Satz 2 der Abgabenordnung zwischen den zuständigen Behörden im Sinn des Artikels 3 Absatz 1 Buchstabe k des Abkommens richtet sich nach den Absätzen 2 bis 4.
 
@@ -30,17 +25,14 @@ können nach Artikel 14 Absatz 2 des Abkommens in dem Staat besteuert werden, in
 
 (4) Die Absätze 2 und 3 sind auf die in Artikel 18 Absatz 1 des Abkommens genannten Einkünfte nicht anzuwenden.
 
-
-## § 3 – Anwendungszeitpunkt
+# § 3 – Anwendungszeitpunkt
 
 Diese Verordnung ist erstmals auf Besteuerungssachverhalte seit dem 29. Dezember 2011 anzuwenden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

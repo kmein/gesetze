@@ -1,35 +1,27 @@
-# [HBankDVDV] Verordnung über den Vorbereitungsdienst für den höheren Bankdienst der Deutschen Bundesbank  (HBankDVDV)
-
-Ausfertigungsdatum: 30.08.2017
-
+% Verordnung über den Vorbereitungsdienst für den höheren Bankdienst der Deutschen Bundesbank  (HBankDVDV)
+% Ausfertigungsdatum: 30.08.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung sind der Vorbereitungsdienst für die Laufbahn des höheren Bankdienstes. Der Vorbereitungsdienst setzt sich aus einer fachtheoretischen und einer berufspraktischen Ausbildung zusammen. Er dauert in der Regel 18 Monate.
 
-
-## § 2 – Ausbildungsziele
+# § 2 – Ausbildungsziele
 
 Die Ausbildung vermittelt das theoretische Wissen sowie die berufspraktischen Kenntnisse und Fähigkeiten, die für die Erfüllung der Aufgaben im höheren Bankdienst erforderlich sind. Hierzu gehört auch die Fähigkeit zur Personalführung. Die Referendarinnen und Referendare sollen zu verantwortlichem Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat sowie zur Zusammenarbeit im europäischen und internationalen Raum befähigt werden.
 
-
-## § 3 – Erholungsurlaub
+# § 3 – Erholungsurlaub
 
 Erholungsurlaub wird nur während der berufspraktischen Ausbildung gewährt.
 
-
-## § 4 – Nachteilsausgleich
+# § 4 – Nachteilsausgleich
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen werden im Auswahlverfahren, bei Leistungstests sowie in der schriftlichen und mündlichen Abschlussprüfung Erleichterungen gewährt, die ihrer Behinderung angemessen sind. Abschnitt 9 der Vereinbarung über die Inklusion schwerbehinderter Menschen bei der Deutschen Bundesbank vom 30. Juli 2014 in der jeweils geltenden auf der Internetseite der Deutschen Bundesbank veröffentlichten Fassung ist zu berücksichtigen.
 
 (2) Über die Gewährung von Erleichterungen im Auswahlverfahren entscheidet die oberste Dienstbehörde oder eine von ihr bestimmte Stelle. Bei Leistungstests entscheidet die Ausbildungsleiterin oder der Ausbildungsleiter. In der schriftlichen Abschlussprüfung entscheidet das Prüfungsamt, in der mündlichen Abschlussprüfung die oder der Vorsitzende der Prüfungskommission.
 
-
-## § 5 – Bewertung der Leistungen
+# § 5 – Bewertung der Leistungen
 
 (1) Die Leistungen der Referendarinnen und Referendare werden wie folgt bewertet:  
   
@@ -143,8 +135,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Soweit in dieser Verordnung nichts anderes bestimmt ist, werden Rangpunktzahlen auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
-## § 6 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 6 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die für die Ernennung der Beamtinnen und Beamten der Deutschen Bundesbank zuständige Stelle (§ 31 Absatz 2 des Gesetzes über die Deutsche Bundesbank) auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst für die Laufbahn des höheren Bankdienstes geeignet sind. Insbesondere wird festgestellt, ob sie über das Allgemein- und Fachwissen, die Sprachkenntnisse, die kognitiven, methodischen und sozialen Fähigkeiten, die charakterlichen Merkmale und die Leistungsmotivation verfügen, die für die Erfüllung der Aufgaben im höheren Bankdienst erforderlich sind.
 
@@ -152,8 +143,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Schwerbehinderte Bewerberinnen und Bewerber und diesen gleichgestellte Bewerberinnen und Bewerber sind zum Auswahlverfahren zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet. Vor dem Ausschluss schwerbehinderter Bewerberinnen oder Bewerber und diesen gleichgestellte Bewerberinnen oder Bewerber ist die Schwerbehindertenvertretung anzuhören.
 
-
-## § 7 – Auswahlkommission
+# § 7 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens werden eine oder bei Bedarf mehrere Auswahlkommissionen gebildet.
 
@@ -163,13 +153,11 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (4) Die nach Absatz 2 Satz 1 zuständige Stelle stellt sicher, dass alle Auswahlkommissionen denselben Bewertungsmaßstab anlegen.
 
-
-## § 8 – Teile des Auswahlverfahrens
+# § 8 – Teile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
-
-## § 9 – Schriftlicher Teil
+# § 9 – Schriftlicher Teil
 
 Der schriftliche Teil des Auswahlverfahrens besteht aus drei Abschnitten, und zwar aus
 
@@ -181,8 +169,7 @@ Der schriftliche Teil des Auswahlverfahrens besteht aus drei Abschnitten, und zw
 
 Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest und einen Persönlichkeitstest.
 
-
-## § 10 – Mündlicher Teil
+# § 10 – Mündlicher Teil
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus drei Abschnitten, und zwar aus
 
@@ -204,8 +191,7 @@ Der Test nach Satz 1 Nummer 3 umfasst einen Leistungstest, einen Intelligenztest
 
 Die Auswahlrichtlinien werden auf der Internetseite der Deutschen Bundesbank veröffentlicht. Maßgeblich ist die jüngste am Tag der Einladung zum Auswahlverfahren veröffentlichte Fassung.
 
-
-## § 11 – Bewertung der im Auswahlverfahren erbrachten Leistungen
+# § 11 – Bewertung der im Auswahlverfahren erbrachten Leistungen
 
 (1) Für die Einzelbewertungen der im Auswahlverfahren erbrachten Leistungen gelten folgende Noten und Notendefinitionen:  
   
@@ -278,8 +264,7 @@ Die Eignung entspricht nicht den Anforderungen. Die Abweichungen liegen so deutl
 
 (5) Für die Bewertung des Fachkolloquiums wird eine Note nach Absatz 1 festgelegt.
 
-
-## § 12 – Ausschluss von der weiteren Teilnahme am Auswahlverfahren
+# § 12 – Ausschluss von der weiteren Teilnahme am Auswahlverfahren
 
 Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverfahren ausgeschlossen, wenn
 
@@ -289,8 +274,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 3. im mündlichen Teil der Kompetenzbereich „soziales Verhalten“ oder mindestens zwei andere Kompetenzbereiche mit der Teilnote 4,50 oder schlechter bewertet worden sind.
 
-
-## § 13 – Gesamtergebnis des Auswahlverfahrens
+# § 13 – Gesamtergebnis des Auswahlverfahrens
 
 (1) Für die Ermittlung des Gesamtergebnisses des Auswahlverfahrens werden gewichtet:
 
@@ -306,8 +290,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (3) Wer nicht zum Auswahlverfahren zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens endgültig zu löschen.
 
-
-## § 14 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
+# § 14 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner Persönlichkeit geeignet ist.
 
@@ -319,8 +302,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (5) Den Ausbildungsbeauftragten und Ausbildenden dürfen nicht mehr Referendarinnen und Referendare zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, sind die Ausbildungsbeauftragten und Ausbildenden von anderen Dienstgeschäften zu entlasten.
 
-
-## § 15 – Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
+# § 15 – Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle erlässt einen Ausbildungsrahmenplan, der die Lerninhalte, die Lernziele sowie die Dauer der Ausbildungslehrgänge und der Phasen der berufspraktischen Ausbildung bestimmt.
 
@@ -330,8 +312,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 2. für jede Referendarin und jeden Referendar einen Ausbildungsplan, in dem die Ausbildungsstellen und Arbeitsbereiche sowie die Zeiträume der Ausbildungslehrgänge und der Phasen der berufspraktischen Ausbildung enthalten sind, und gibt ihn der Referendarin oder dem Referendar bekannt.
 
-
-## § 16 – Fachtheoretische Ausbildung
+# § 16 – Fachtheoretische Ausbildung
 
 (1) Die fachtheoretische Ausbildung umfasst Ausbildungslehrgänge mit einer Gesamtdauer von mindestens zehn Wochen.
 
@@ -343,8 +324,7 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (5) Jeder Leistungstest ist mindestens eine Woche vorher anzukündigen. Kann eine Referendarin oder ein Referendar an einem Leistungstest nicht teilnehmen, ist dieser nachzuholen; den Zeitpunkt der Nachholung setzt die Ausbildungsleiterin oder der Ausbildungsleiter fest. Die §§ 24 und 25 gelten mit der Maßgabe entsprechend, dass die dort genannten Entscheidungen die Ausbildungsleiterin oder der Ausbildungsleiter trifft.
 
-
-## § 17 – Berufspraktische Ausbildung
+# § 17 – Berufspraktische Ausbildung
 
 (1) Während der berufspraktischen Ausbildung werden die Referendarinnen und Referendare mit den wesentlichen Aufgaben des höheren Bankdienstes vertraut gemacht.
 
@@ -356,18 +336,15 @@ Eine Bewerberin oder ein Bewerber wird von der weiteren Teilnahme am Auswahlverf
 
 (5) Die dienstliche Bewertung ist der Referendarin oder dem Referendar bekannt zu geben und mit ihr oder ihm zu besprechen.
 
-
-## § 18 – Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
+# § 18 – Zusammenfassendes Zeugnis, Ausbildungsrangpunktzahl
 
 Über den Erfolg der Ausbildung erstellt die Ausbildungsleiterin oder der Ausbildungsleiter ein zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der Leistungstests und der dienstlichen Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl (Ausbildungsrangpunktzahl) aufzuführen sind. Die Referendarin oder der Referendar erhält spätestens zwei Wochen vor Beginn der schriftlichen Abschlussprüfung eine Ausfertigung des zusammenfassenden Zeugnisses.
 
-
-## § 19 – Bestandteile
+# § 19 – Bestandteile
 
 Die Laufbahnprüfung besteht aus einer schriftlichen und einer mündlichen Abschlussprüfung.
 
-
-## § 20 – Prüfungsamt
+# § 20 – Prüfungsamt
 
 (1) Für die Organisation und Durchführung der Laufbahnprüfung richtet die Deutsche Bundesbank ein Prüfungsamt für den höheren Bankdienst ein. Das Prüfungsamt hat
 
@@ -397,15 +374,13 @@ Das Prüfungsamt kann
 
 (6) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle bestellt auf Vorschlag des Prüfungsamts eine Angehörige oder einen Angehörigen des höheren Dienstes zur Geschäftsführerin oder zum Geschäftsführer des Prüfungsamts und eine Vertretung. Die Bestellung endet mit dem Ausscheiden aus dem Hauptamt.
 
-
-## § 21 – Prüfungskommission
+# § 21 – Prüfungskommission
 
 (1) Eine Prüfungskommission besteht aus der oder dem Vorsitzenden sowie zwei weiteren Mitgliedern als Prüfenden. Für jedes Mitglied ist eine Vertretung zu bestellen. Zu Vorsitzenden sollen Mitglieder oder Vertretungen von Mitgliedern des Prüfungsamts bestellt werden. Alle Mitglieder der Prüfungskommission müssen Angehörige des höheren Dienstes sein. Sie werden vom Prüfungsamt auf vier Jahre bestellt. Wiederbestellung ist zulässig. Die Bestellung endet mit dem Ausscheiden aus dem Hauptamt.
 
 (2) Die Mitglieder der Prüfungskommission sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
-
-## § 22 – Schriftliche Abschlussprüfung
+# § 22 – Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung ist zugelassen, wer eine Ausbildungsrangpunktzahl von mindestens 5 erreicht hat. Bei Nichterreichen der erforderlichen Rangpunktzahl kann der Vorbereitungsdienst auf Antrag der Referendarin oder des Referendars verlängert werden; § 29 Absatz 2 und 3 gilt entsprechend.
 
@@ -417,8 +392,7 @@ Das Prüfungsamt kann
 
 (+++ § 22 Abs. 3 Satz 4: zur Anwendung vgl. § 23 Abs. 9 +++)
 
-
-## § 23 – Mündliche Abschlussprüfung
+# § 23 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung ist zugelassen, wer
 
@@ -448,8 +422,7 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (9) Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission und des Prüfungsamts, die Geschäftsführerin oder der Geschäftsführer des Prüfungsamts, die Protokollführerin oder der Protokollführer und weitere vom Prüfungsamt nach § 20 Absatz 1 Satz 3 Nummer 2 zugelassene Personen anwesend sein. Die oder der Vorsitzende der Prüfungskommission setzt auf Vorschlag der beiden Mitprüfenden für jeden Teil der mündlichen Abschlussprüfung die Rangpunkte und die Note fest. Für die Festsetzung der Rangpunkte gilt § 22 Absatz 3 Satz 4 entsprechend.
 
-
-## § 24 – Fernbleiben, Rücktritt
+# § 24 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einem Teil der Abschlussprüfung ohne Genehmigung des Prüfungsamts gilt die Laufbahnprüfung als nicht bestanden.
 
@@ -459,8 +432,7 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (+++ § 24: zur Anwendung vgl. § 16 Abs. 5 +++)
 
-
-## § 25 – Täuschung, Ordnungsverstoß
+# § 25 – Täuschung, Ordnungsverstoß
 
 (1) Referendarinnen oder Referendaren, die bei einem Teil der Abschlussprüfung täuschen, eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Abschlussprüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamts gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an dem betreffenden Teil der Abschlussprüfung ausgeschlossen werden.
 
@@ -472,8 +444,7 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (+++ § 25: zur Anwendung vgl. § 16 Abs. 5 +++)
 
-
-## § 26 – Bestehen der Laufbahnprüfung
+# § 26 – Bestehen der Laufbahnprüfung
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -495,22 +466,19 @@ Für das Referat werden den Referendarinnen und Referendaren Materialien bereitg
 
 (4) Die oder der Vorsitzende der Prüfungskommission teilt den Referendarinnen und Referendaren die Rangpunktzahl der Laufbahnprüfung und die Ergebnisse der Einzelleistungen mit und erläutert die Bewertungen auf Wunsch kurz mündlich.
 
-
-## § 27 – Abschlusszeugnis
+# § 27 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein Abschlusszeugnis, das die in der schriftlichen und mündlichen Abschlussprüfung erreichten Rangpunktzahlen sowie die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote enthält.
 
 (2) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung.
 
-
-## § 28 – Prüfungsakte, Einsichtnahme
+# § 28 – Prüfungsakte, Einsichtnahme
 
 (1) Die Klausuren der schriftlichen Abschlussprüfung und das Protokoll der mündlichen Abschlussprüfung sowie eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung werden zur Prüfungsakte genommen. Die Prüfungsakte kann automatisiert geführt werden. Die Prüfungsakte wird beim Prüfungsamt nach Beendigung des Vorbereitungsdienstes mindestens fünf und höchstens zehn Jahre aufbewahrt.
 
 (2) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
-
-## § 29 – Wiederholung der Laufbahnprüfung
+# § 29 – Wiederholung der Laufbahnprüfung
 
 (1) Das Prüfungsamt bestimmt nach Anhörung der oder des Vorsitzenden der Prüfungskommission, innerhalb welcher Frist die Wiederholung der Laufbahnprüfung stattfindet. Die Frist soll mindestens drei und höchstens zwölf Monate betragen.
 

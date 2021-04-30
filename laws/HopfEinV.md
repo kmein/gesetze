@@ -1,10 +1,7 @@
-# [HopfEinV] Verordnung zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Einfuhr von Hopfen aus Drittländern  (Hopfen-Einfuhrverordnung - HopfEinV)
-
-Ausfertigungsdatum: 14.01.1997
-
+% Verordnung zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Einfuhr von Hopfen aus Drittländern  (Hopfen-Einfuhrverordnung - HopfEinV)
+% Ausfertigungsdatum: 14.01.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnet
 
@@ -14,18 +11,15 @@ auf Grund des § 31 Abs. 3 und des § 36 Abs. 4 des Gesetzes zur Durchführung d
 \-  
 auf Grund des § 6 Abs. 1 Nr. 7 und des § 15 Satz 1 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft:
 
-
-## § 1 – Zuständigkeiten
+# § 1 – Zuständigkeiten
 
 Zuständig für die Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Einfuhr von Hopfen aus Drittländern ist, soweit nach den vorgenannten Rechtsakten nicht die Zollbehörden zuständig sind, die Bundesanstalt für Landwirtschaft und Ernährung.
 
-
-## § 2 – Einfuhr
+# § 2 – Einfuhr
 
 Erzeugnisse aus Drittländern dürfen vorbehaltlich des Artikels 8 der Verordnung (EWG) Nr. 3076/78 der Kommission vom 21. Dezember 1978 über die Einfuhr von Hopfen aus Drittländern (ABl. EG Nr. L 367 S. 17), zuletzt geändert durch die Verordnung (EWG) Nr. 2918/93 der Kommission vom 22. Oktober 1993 (ABl. EG Nr. L 264 S. 37), nur mit dem in Artikel 1 Abs. 1 und 2 der Verordnung (EWG) Nr. 3076/78 genannten Nachweis in den Geltungsbereich dieser Verordnung verbracht werden.
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 36 Abs. 4 Satz 1 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen handelt, wer gegen die Verordnung (EWG) Nr. 3076/78 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -35,14 +29,12 @@ Erzeugnisse aus Drittländern dürfen vorbehaltlich des Artikels 8 der Verordnun
 
 (2) Ordnungswidrig im Sinne des § 36 Abs. 3 Nr. 3 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen handelt, wer vorsätzlich oder leichtfertig entgegen § 2 ein Erzeugnis in den Geltungsbereich dieser Verordnung verbringt.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

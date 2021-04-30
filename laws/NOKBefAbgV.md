@@ -1,20 +1,15 @@
-# [NOKBefAbgV] Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal  (NOKBefAbgV)
-
-Ausfertigungsdatum: 28.09.1993
-
+% Verordnung über die Befahrungsabgaben auf dem Nord-Ostsee-Kanal  (NOKBefAbgV)
+% Ausfertigungsdatum: 28.09.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13 Abs. 2 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 21. Januar 1987 (BGBl. I S. 541) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen und nach Anhörung der Küstenländer:
 
-
-## § 1
+# § 1
 
 Für Wasserfahrzeuge, die den Nord-Ostsee-Kanal befahren, sind Befahrungsabgaben nach der Anlage zu dieser Verordnung zu entrichten. Die Befahrungsabgaben werden von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und eingezogen.
 
-
-## § 2
+# § 2
 
 Zur Zahlung der Befahrungsabgaben sind verpflichtet:
 
@@ -24,15 +19,13 @@ Zur Zahlung der Befahrungsabgaben sind verpflichtet:
 
 Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
-
-## § 3
+# § 3
 
 (1) Die Zahlungspflicht für die Befahrungsabgaben entsteht mit dem Antritt der Reise durch den Nord-Ostsee-Kanal.
 
 (2) Die Befahrungsabgaben werden mit Rechnungserteilung fällig. Sie sind vom 15. Tage nach Rechnungsdatum mit fünf Prozent über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu verzinsen.
 
-
-## § 4
+# § 4
 
 (1) Der Anspruch auf Zahlung der Befahrungsabgaben verjährt nach drei Jahren. Die Verjährung beginnt mit Ablauf des Kalenderjahres, in dem der Anspruch fällig geworden ist.
 
@@ -44,8 +37,7 @@ Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
 (5) Wird eine Entscheidung über die zu entrichtende Befahrungsabgabe angefochten, so erlöschen Ansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Entscheidung unanfechtbar geworden ist oder das Verfahren sich auf andere Weise erledigt hat.
 
-
-## § 5
+# § 5
 
 (1) Bei der Bemessung der Befahrensabgaben werden zugrundegelegt:
 
@@ -63,8 +55,7 @@ Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
 (2) Eine nicht auf volle Euro errechnete Befahrungsabgabe wird auf den nächstliegenden Euro auf- oder abgerundet; 0,50 Euro werden aufgerundet. Für die Abwicklung des bargeldlosen Zahlungsverkehrs kann die Generaldirektion Wasserstraßen und Schifffahrt eine Verwaltungsgebühr in Höhe der dadurch entstandenen Kosten erheben.
 
-
-## § 6
+# § 6
 
 (1) Von der Zahlung der Befahrungsabgaben sind befreit:
 
@@ -76,8 +67,7 @@ Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
 (2) Weitere Befreiungen und Ermäßigungen kann die Generaldirektion Wasserstraßen und Schifffahrt im Einzelfall zulassen, wenn das öffentliche Interesse es erfordert.
 
-
-## § 7
+# § 7
 
 (1) Für Fahrzeuge im Durchgangsverkehr über 3.000 BRZ, die ausschließlich unter Ballast fahren, ermäßigt sich die Befahrungsabgabe nach Nummer 1.1 des Abgabenverzeichnisses um 30%.
 
@@ -85,13 +75,11 @@ Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
 (3) Abweichend von Absatz 2 kann bei Vorliegen der Voraussetzungen auf Antrag die Ermäßigung auch nach Ablauf des Kalenderjahres erfolgen. Der Antrag ist bis zum 31. März des folgenden Jahres bei der Generaldirektion Wasserstraßen und Schifffahrt zu stellen.
 
-
-## § 8
+# § 8
 
 Diese Verordnung ist bis einschließlich 31. Dezember 2021 nicht anzuwenden.
 
-
-## Anlage – zu § 1
+# Anlage – zu § 1
 
 Fundstelle des Originaltextes: BAnz. 2003 Nr. 100, 11854
 

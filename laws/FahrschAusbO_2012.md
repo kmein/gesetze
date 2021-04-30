@@ -1,10 +1,7 @@
-# [FahrschAusbO 2012] Fahrschüler-Ausbildungsordnung
-
-Ausfertigungsdatum: 19.06.2012
-
+% Fahrschüler-Ausbildungsordnung
+% Ausfertigungsdatum: 19.06.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -14,14 +11,12 @@ des § 6 Absatz 3, § 11 Absatz 4, § 18 Absatz 4 des Fahrlehrergesetzes vom 25.
 –  
 des § 2 Nummer 1 des Fahrpersonalgesetzes in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 640), § 2 Nummer 1 zuletzt geändert durch Artikel 1 Nummer 1 des Gesetzes vom 6. Juli 2007 (BGBl. I S. 1270), verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Anlagen  
   
 
-
-## § 1 – Ziel und Inhalt der Ausbildung
+# § 1 – Ziel und Inhalt der Ausbildung
 
 (1) Ziel der Ausbildung ist die Befähigung zum sicheren, verantwortungsvollen und umweltbewussten Verkehrsteilnehmer. Ziel der Ausbildung ist außerdem die Vorbereitung auf die Fahrerlaubnisprüfung.
 
@@ -41,22 +36,19 @@ Anlagen
 
 einschließt.
 
-
-## § 2 – Art und Umfang der Ausbildung
+# § 2 – Art und Umfang der Ausbildung
 
 (1) Die Ausbildung erfolgt in einem theoretischen und einem praktischen Teil. Die beiden Teile sollen in der Konzeption aufeinander bezogen und im Verlauf der Ausbildung miteinander verknüpft werden.
 
 (2) Die Ausbildung in der Bundeswehr zur Erlangung der Dienstfahrerlaubnis, die nicht den Klassen nach § 6 der Fahrerlaubnis-Verordnung entsprechen oder die über den Mindestumfang der Ausbildung nach dieser Verordnung hinausgehen, darf durch Verwendung von Fahrsimulatoren ergänzt werden.
 
-
-## § 3 – Allgemeine Ausbildungsgrundsätze
+# § 3 – Allgemeine Ausbildungsgrundsätze
 
 (1) Die Ausbildung hat sich an den Zielen dieser Verordnung zu orientieren. Die Ausbildungsinhalte sind so auszuwählen und aufzubereiten, dass diese Ziele erreicht werden. Dabei kann die exemplarische Vertiefung wichtiger sein als die inhaltliche Vollständigkeit. Die Inhalte müssen sachlich richtig, anschaulich und verständlich vermittelt werden.
 
 (2) Der theoretische Unterricht und die praktische Fahrausbildung müssen systematisch und für den Fahrschüler nachvollziehbar aufgebaut sein. Die Ausbildung soll das selbstverantwortliche Weiterlernen nach dem Erwerb der Fahrerlaubnis fördern. Der Fahrlehrer soll gegenüber dem Fahrschüler sachlich, aufgeschlossen und geduldig auftreten. Die Mitarbeit des Schülers ist insbesondere durch Fragen und Diskussionen anzustreben.
 
-
-## § 4 – Theoretischer Unterricht
+# § 4 – Theoretischer Unterricht
 
 (1) Der theoretische Unterricht hat sich an den im Rahmenplan (Anlagen 1 und 2) aufgeführten Inhalten zu orientieren und ist systematisch nach Lektionen aufzubauen. Der Unterricht soll methodisch vielfältig sein. Die Unterrichtsmedien sollen zielgerichtet ausgewählt und eingesetzt werden. Die Ausbildung setzt das selbstständige Lernen durch die Fahrschüler voraus. Zur Ergebnissicherung sind Lernkontrollen einzusetzen; das Ausfüllen von Testbogen nach Art der Prüfungsbogen auch mithilfe elektronischer Medien darf nicht Gegenstand des theoretischen Mindestunterrichts sein.
 
@@ -70,8 +62,7 @@ einschließt.
 
 (6) Für den theoretischen Unterricht ist ein Ausbildungsplan aufzustellen. Der Ausbildungsplan hat sich inhaltlich nach dem Rahmenplan zu richten und ist durch Aushang oder Auslegen in den Geschäftsräumen der Fahrschule bekannt zu geben. Der Unterricht hat sich nach dem Ausbildungsplan zu richten und soll zwei Doppelstunden täglich nicht überschreiten.
 
-
-## § 5 – Praktischer Unterricht
+# § 5 – Praktischer Unterricht
 
 (1) Der praktische Unterricht ist auf die theoretische Ausbildung zu beziehen und inhaltlich mit dieser zu verzahnen. Er hat sich an den in den Anlagen 3 bis 6 aufgeführten Inhalten zu orientieren und die praktische Anwendung der Kenntnisse einzubeziehen, die zur Beurteilung der Verkehrs- und Betriebssicherheit des Fahrzeuges erforderlich sind. Er ist systematisch aufzubauen. Der praktische Unterricht besteht aus einer Grundausbildung und besonderen Ausbildungsfahrten. Zum praktischen Unterricht gehören auch
 
@@ -103,8 +94,7 @@ Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokum
 
 (11) Für den praktischen Unterricht ist ein gegliederter Ausbildungsplan aufzustellen. Der Unterricht hat sich nach dem Ausbildungsplan zu richten. Er ist durch Aushang oder Auslegen in den Geschäftsräumen der Fahrschule bekannt zu geben.
 
-
-## § 5a – Praktische Ausbildung auf Kraftfahrzeugen mit Schaltgetriebe der Klasse B gemäß § 17a der Fahrerlaubnis-Verordnung
+# § 5a – Praktische Ausbildung auf Kraftfahrzeugen mit Schaltgetriebe der Klasse B gemäß § 17a der Fahrerlaubnis-Verordnung
 
 (1) Für den Nachweis nach § 17a Absatz 4 der Fahrerlaubnis-Verordnung sind mindestens 10 Stunden (à 45 Minuten) auf einem Kraftfahrzeug mit Schaltgetriebe der Klasse B auszubilden. Die Ausbildung soll die Kompetenzen für das sichere, verantwortungsvolle und umweltbewusste Führen eines Kraftfahrzeuges mit Schaltgetriebe vermitteln. Grundlage der Ausbildung sind die in Teil B der Prüfungsrichtlinie für die praktische Fahrerlaubnisprüfung definierten Anforderungen hinsichtlich der Kompetenz zur Fahrzeugbedienung eines Kraftfahrzeuges mit manuellem Schaltgetriebe.
 
@@ -120,20 +110,17 @@ Der Fahrlehrer hat den jeweiligen Ausbildungsstand durch Aufzeichnungen zu dokum
 
 (5) Die Bescheinigung nach Anlage 7 ist von dem Inhaber der Fahrschule oder der für die verantwortliche Leitung des Ausbildungsbetriebes bestellten Person nach Abschluss der Ausbildung zu unterzeichnen und dem Fahrschüler oder Inhaber der beschränkten Fahrerlaubnis zur Unterschrift vorzulegen. Die Unterzeichnung kann auch elektronisch erfolgen.
 
-
-## § 5b – Evaluierung
+# § 5b – Evaluierung
 
 Die Auswirkungen dieser Verordnung im Hinblick auf die Verkehrssicherheit und auf die Nutzung alternativer Antriebe werden von der Bundesanstalt für Straßenwesen in nicht personenbezogener Form evaluiert. Die Bundesanstalt für Straßenwesen legt das Ergebnis der Evaluierung bis zum 31. Dezember 2024 dem Bundesministerium für Verkehr und digitale Infrastruktur in nicht personenbezogener Form vor.
 
-
-## § 6 – Abschluss der Ausbildung
+# § 6 – Abschluss der Ausbildung
 
 (1) Der Fahrlehrer darf die theoretische und die praktische Ausbildung erst abschließen, wenn der Bewerber den Unterricht im gesetzlich vorgeschriebenen Umfang absolviert hat und der Fahrlehrer überzeugt ist, dass die Ausbildungsziele nach § 1 erreicht sind. Für die Durchführung der hierfür notwendigen Übungsstunden hat der Fahrlehrer Sorge zu tragen. Im Fall eines gemeinsamen Ausbildungsganges nach Anlage 4 ist die praktische Ausbildung erst abgeschlossen, wenn mindestens alle vorgeschriebenen besonderen Ausbildungsfahrten für beide Klassen durchgeführt worden sind. Wird in einem gemeinsamen Ausbildungsgang nach Anlage 4 die praktische Ausbildung für die Klassen C1E und CE nicht abgeschlossen, ist die Ausbildung für die Klasse C1 und C erst abgeschlossen, wenn mindestens die für diese Klassen vorgeschriebenen besonderen Ausbildungsfahrten durchgeführt worden sind.
 
 (2) Nach Abschluss der Ausbildung hat der Inhaber der Fahrschule oder die für die verantwortliche Leitung des Ausbildungsbetriebes bestellte Person dem Fahrschüler die durchgeführte theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz zu bescheinigen. Der Ausbildungsnachweis nach § 6 Absatz 1 der Durchführungsverordnung zum Fahrlehrergesetz in Verbindung mit Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ist von dem Inhaber der Fahrschule oder der für die verantwortliche Leitung des Ausbildungsbetriebes bestellten Person nach Abschluss der Ausbildung zu unterzeichnen und dem Fahrschüler zur Unterschrift vorzulegen. Wird die Ausbildung nicht abgeschlossen oder wechselt der Fahrschüler die Fahrschule, sind dem Fahrschüler die absolvierten Ausbildungsteile mit dem Ausbildungsnachweis zu bestätigen. Die Unterzeichnung kann auch elektronisch erfolgen. Der Ausbildungsnachweis ist dem Fahrschüler auszuhändigen oder elektronisch zu übermitteln.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Die §§ 1 bis 6 finden keine Anwendung, wenn
 
@@ -157,8 +144,7 @@ Die Auswirkungen dieser Verordnung im Hinblick auf die Verkehrssicherheit und au
 
 (3) Ausnahmen von § 5 Absatz 2 Satz 3 und § 6 Absatz 2 können bei der Ausbildung für Dienstfahrerlaubnisse erteilt werden.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 56 Absatz 1 Nummer 23 des Fahrlehrergesetzes handelt, wer als Inhaber einer Fahrschule oder als zur verantwortlichen Leitung des Ausbildungsbetriebes bestellte Person vorsätzlich oder fahrlässig
 
@@ -190,18 +176,15 @@ Die Auswirkungen dieser Verordnung im Hinblick auf die Verkehrssicherheit und au
 
 6. entgegen § 6 Absatz 2 Satz 1 eine Bescheinigung über die theoretische und praktische Ausbildung nach Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ausstellt, obwohl der Mindestumfang des theoretischen Unterrichts nach § 4 oder der Mindestumfang des praktischen Unterrichts nach § 5 nicht durchgeführt wurde.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Fahrschüler-Ausbildungsordnung vom 18. August 1998 (BGBl. I S. 2307, 2335), die zuletzt durch Artikel 3 der Verordnung vom 18. Juli 2008 (BGBl. I S. 1338) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 4)Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
+# Anlage 1 – (zu § 4)Rahmenplan für den Grundstoff (12 Doppelstunden) für alle Klassen
 
 (Fundstelle: BGBl. I 2012, 1322 - 1323;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -549,8 +532,7 @@ e) Sicherheitstraining
 
 f) Kurse zur umweltschonenden Fahrweise.
 
-
-## Anlage 2.1 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A2, A1 (4 Doppelstunden), in der Klasse AM (2 Doppelstunden)
+# Anlage 2.1 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen A, A2, A1 (4 Doppelstunden), in der Klasse AM (2 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1324 - 1325;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -700,8 +682,7 @@ f) Kritische Fahrzustände/Ursachen
 
 Pendeln, Flattern, Winddruck von vorn und von der Seite.
 
-
-## Anlage 2.2 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse B (2 Doppelstunden)
+# Anlage 2.2 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse B (2 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1326;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -779,8 +760,7 @@ h) Sozialvorschriften und Verkehrsverbote (z. B. nach sog. Ozongesetz)
 
 i) Abgrenzung zur Klasse BE und B mit der Schlüsselzahl 96.
 
-
-## Anlage 2.3 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
+# Anlage 2.3 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1327;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -935,8 +915,7 @@ e) Luftwiderstand
 
 f) Kartenlesen, Streckenplanung, Navigationssysteme.
 
-
-## Anlage 2.4 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse CE (4 Doppelstunden)
+# Anlage 2.4 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse CE (4 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1328)
 
@@ -994,8 +973,7 @@ i) Ladung/Ladungssicherung
 
 j) toter Winkel.
 
-
-## Anlage 2.5 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
+# Anlage 2.5 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1329 - 1330)
 
@@ -1276,8 +1254,7 @@ b) Unterrichtung über Handfertigkeiten, die im Rahmen der praktischen Ausbildun
 
 Die Punkte „Ausrüstung, Einbau und Prüfung von Geschwindigkeitsbegrenzern, Automatisch-lastabhängige Bremse, Dauerbremse, Haltestellenbremse, Kupplung, Wandlerkupplung, Geschwindigkeitsbegrenzer, Besonderheiten bei Gelenkbussen und Kneeling“ entfallen bei Klasse D1.
 
-
-## Anlage 2.6 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse L (2 Doppelstunden)
+# Anlage 2.6 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse L (2 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1331)
 
@@ -1339,8 +1316,7 @@ Betriebsgeschwindigkeit
 
 Ladung.
 
-
-## Anlage 2.7 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse T (6 Doppelstunden)
+# Anlage 2.7 – (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse T (6 Doppelstunden)
 
 (Fundstelle: BGBl. I 2012, 1332)
 
@@ -1457,13 +1433,11 @@ c) Hilfs- und Feststellbremsanlage
 
 d) Beleuchtungseinrichtungen an Anhängern.
 
-
-## Anlage 2.8 – (zu § 4 Absatz 4)Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
+# Anlage 2.8 – (zu § 4 Absatz 4)Mindestdauer des Unterrichts für den klassenspezifischen Zusatzstoff
 
 (Fundstelle: BGBl. I 2012, 1417 - 1418)
 
-
-## Anlage 3 – (zu § 5 Absatz 1)Sachgebiete für den praktischen Unterricht für alle Klassen
+# Anlage 3 – (zu § 5 Absatz 1)Sachgebiete für den praktischen Unterricht für alle Klassen
 
 (Fundstelle: BGBl. I 2012, 1334 - 1338;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2361,18 +2335,15 @@ Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
 –  
 Kenntlichmachung
 
-
-## Anlage 4 – (zu § 5 Absatz 3)Die besonderen Ausbildungsfahrten für die Klassen A1, A2, A, B, BE, C1, C1E, C und CE
+# Anlage 4 – (zu § 5 Absatz 3)Die besonderen Ausbildungsfahrten für die Klassen A1, A2, A, B, BE, C1, C1E, C und CE
 
 (Fundstelle BGBl. I 2014, 375)
 
-
-## Anlage 5 – (zu § 5 Absatz 4)Praktische Mindestausbildung in den Klassen D1, D, D1E und DE
+# Anlage 5 – (zu § 5 Absatz 4)Praktische Mindestausbildung in den Klassen D1, D, D1E und DE
 
 (Fundstelle: BGBl. I 2012, 1340)
 
-
-## Anlage 6 – (zu § 5 Absatz 5)Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und TFunktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit
+# Anlage 6 – (zu § 5 Absatz 5)Für die Klassen BE, C1, C, C1E, CE, D1, D1E, D, DE und TFunktions- und Sicherheitskontrolle sowie entsprechende Handfertigkeiten Kontrolle der Kraftfahrzeuge und Anhänger auf Verkehrs- und Betriebssicherheit
 
 (Fundstelle: BGBl. I 2012, 1341 - 1342;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2500,7 +2471,6 @@ Funktionsprüfung der Druckluftbremsanschlüsse oder der Auflaufbremse
 
 Kontrolle von Aufbau, Planen, Bordwänden und sonstigen Einrichtungen zur Sicherung der Ladung
 
-
-## Anlage 7 – (zu § 5a Absatz 4)Nachweis über die praktische Ausbildung zum Führen von Fahrzeugen mit Schaltgetriebe der Klasse B
+# Anlage 7 – (zu § 5a Absatz 4)Nachweis über die praktische Ausbildung zum Führen von Fahrzeugen mit Schaltgetriebe der Klasse B
 
 (Fundstelle: BGBl. I 2020, 2707)

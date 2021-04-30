@@ -1,17 +1,12 @@
-# [ZOVersDTAG] Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich der Deutschen Telekom AG  (ZOVersDTAG)
-
-Ausfertigungsdatum: 25.07.1997
-
+% Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich der Deutschen Telekom AG  (ZOVersDTAG)
+% Ausfertigungsdatum: 25.07.1997
  
-
-## I. – Pensionsfestsetzungs- und -regelungsbehörden
+# I. – Pensionsfestsetzungs- und -regelungsbehörden
 
 (1) Auf Grund des § 49 Abs. 1 Satz 2 des Gesetzes über die Versorgung der Beamten und Richter in Bund und Ländern in der Fassung der Bekanntmachung vom 16. Dezember 1994 (BGBl. I S. 3858), zuletzt geändert durch Artikel 4 des Gesetzes zur Reform des öffentlichen Dienstrechts (Reformgesetz) vom 24. Februar 1997 (BGBl. I S. 322), in Verbindung mit § 14 Abs. 1 Satz 1 des Gesetzes zum Personalrecht der Beschäftigten der früheren Deutschen Bundespost vom 14. September 1994 (BGBl. I S. 2325, 2353) übertragen wir im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation und dem Bundesministerium des Innern die uns als oberster Dienstbehörde im Sinne des Beamtenversorgungsrechts für die Versorgungsberechtigten der Deutschen Telekom AG zustehenden Befugnisse auf die nachstehend genannten Organisationseinheiten (Pensionsfestsetzungs- und -regelungsbehörden) für ihren jeweiligen Zuständigkeitsbereich. Die sachliche Zuständigkeit der Pensionsfestsetzungs- und -regelungsbehörden umfaßt versorgungsrechtliche Entscheidungen aller Art, soweit nicht gesetzlich oder in dieser Anordnung etwas anderes bestimmt ist.
 
 (2) Örtlich zuständig sind:  
-für alle vor und nach Eintritt eines Versorgungsfalles notwendigen Entscheidungen und Maßnahmen zur Festsetzung, Regelung und Zahlbarmachung von Versorgungsbezügen die Niederlassungen der Deutschen Telekom AG mit Ressort Versorgungsservice, in deren Zuständigkeitsbereich der Sitz der Organisationseinheit liegt, der der Versorgungsberechtigte angehört beziehungsweise vor Eintritt des Versorgungsfalles angehört hat. Ein Zuständigkeitswechsel infolge Wohnsitzänderung eines Versorgungsempfängers erfolgt nicht. Die bei der Zurruhesetzung beziehungsweise beim Tod eines aktiven Beamten gegebene Zuständigkeit bleibt auch für die Hinterbliebenen erhalten.  
-Die Niederlassung mit Ressort Versorgungsservice nimmt die Aufgaben einer Pensionsfestsetzungs- und -regelungsbehörde für alle Organisationseinheiten wahr, deren Sitz sich innerhalb des sich aus der Anlage ergebenden Arbeitsbezirks der jeweiligen Niederlassung mit Ressort Versorgungsservice befindet. Eine Aufstellung der Organisationseinheiten, die sich im jeweiligen Zuständigkeitsbereich einer Niederlassung mit Ressort Versorgungsservice befinden, wird mit besonderer Anweisung bekanntgegeben.  
-Die Zuständigkeit für vorhandene Versorgungsfälle, die bis zum 31. Dezember 1996 von Organisationseinheiten der Deutschen Post AG wahrgenommen wurde, wird ab dem 1. Januar 1997 von folgenden Organisationseinheiten der Deutschen Telekom AG wahrgenommen:  
+für alle vor und nach Eintritt eines Versorgungsfalles notwendigen Entscheidungen und Maßnahmen zur Festsetzung, Regelung und Zahlbarmachung von Versorgungsbezügen die Niederlassungen der Deutschen Telekom AG mit Ressort Versorgungsservice, in deren Zuständigkeitsbereich der Sitz der Organisationseinheit liegt, der der Versorgungsberechtigte angehört beziehungsweise vor Eintritt des Versorgungsfalles angehört hat. Ein Zuständigkeitswechsel infolge Wohnsitzänderung eines Versorgungsempfängers erfolgt nicht. Die bei der Zurruhesetzung beziehungsweise beim Tod eines aktiven Beamten gegebene Zuständigkeit bleibt auch für die Hinterbliebenen erhalten. Die Niederlassung mit Ressort Versorgungsservice nimmt die Aufgaben einer Pensionsfestsetzungs- und -regelungsbehörde für alle Organisationseinheiten wahr, deren Sitz sich innerhalb des sich aus der Anlage ergebenden Arbeitsbezirks der jeweiligen Niederlassung mit Ressort Versorgungsservice befindet. Eine Aufstellung der Organisationseinheiten, die sich im jeweiligen Zuständigkeitsbereich einer Niederlassung mit Ressort Versorgungsservice befinden, wird mit besonderer Anweisung bekanntgegeben. Die Zuständigkeit für vorhandene Versorgungsfälle, die bis zum 31. Dezember 1996 von Organisationseinheiten der Deutschen Post AG wahrgenommen wurde, wird ab dem 1. Januar 1997 von folgenden Organisationseinheiten der Deutschen Telekom AG wahrgenommen:  
 
 | Organisationseinheiten der Deutschen Post AG bis zum 31. Dezember 1996 | Organisationseinheiten der Deutschen Telekom AG ab 1. Januar 1997 |
 |:-----------------------------------------------------------------------|:------------------------------------------------------------------|
@@ -70,19 +65,16 @@ Die Zuständigkeit für vorhandene Versorgungsfälle, die bis zum 31. Dezember 1
 
 3. Entscheidungen über das Absehen von der Rückforderung zuviel gezahlter Versorgungsbezüge aus Billigkeitsgründen nach § 52 Abs. 2 Satz 3 des Beamtenversorgungsgesetzes, wenn der vom Vorstand der Deutschen Telekom AG durch besondere Anweisung festgesetzte Höchstbetrag überschritten wird oder die Überzahlung im Prüfungsbericht des Bundesrechnungshofes erörtert worden ist.
 
-
-## II.
+# II.
 
 (weggefallen)
 
-
-## III. – Inkrafttreten
+# III. – Inkrafttreten
 
 Diese Anordnung tritt am 1. Januar 1997 in Kraft.
 
-
-## Anlage – (zu Abschnitt I Abs. 2)  Standorte der Ressorts Versorgungsservice (Rs VeS) der Deutschen Telekom AG mit Arbeitsbezirken
+# Anlage – (zu Abschnitt I Abs. 2)  Standorte der Ressorts Versorgungsservice (Rs VeS) der Deutschen Telekom AG mit Arbeitsbezirken
 
 (Fundstelle: BGBl. I 1997, 2291)
 
-![](../normengrafiken/bgbl1_1997/j2291_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1997/j2291_0010.jpg)

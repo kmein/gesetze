@@ -1,20 +1,15 @@
-# [CSCG] Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
-
-Ausfertigungsdatum: 10.02.1976
-
+% Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
+% Ausfertigungsdatum: 10.02.1976
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichneten Internationalen Übereinkommen vom 2. Dezember 1972 über sichere Container (CSC) wird zugestimmt. Das Übereinkommen wird mit seinen Anlagen nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Änderungen der Anlagen des Übereinkommens nach dessen Artikel X, die die Verwirklichung neuer technischer Erkenntnisse hinsichtlich der Sicherheit der dem internationalen Verkehr dienenden Container oder die das anzuwendende technische oder verwaltungsmäßige Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 
@@ -24,8 +19,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (4) Die zur Ausführung des Übereinkommens, dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen erforderlichen Allgemeinen Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates. Der Zustimmung des Bundesrates bedarf es nicht, soweit die Allgemeinen Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
 
-
-## Art 3
+# Art 3
 
 (1) Für dieses Gesetz gelten die Begriffsbestimmungen des Übereinkommens.
 
@@ -45,8 +39,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (9) Werden Tankcontainer für die Beförderung gefährlicher Güter nach den Vorschriften über die Beförderung gefährlicher Güter zugelassen, so ist die dafür zuständige Behörde abweichend von den Absätzen 2, 5 und 6 auch für die Erteilung und Entziehung der Zulassung nach diesem Gesetz zuständig; die übrigen Aufgaben nach diesem Gesetz - ausgenommen die nach Artikel 4 - werden dann für diese Tankcontainer von den Behörden und Stellen wahrgenommen, die für die entsprechenden Aufgaben nach den Vorschriften über die Beförderung gefährlicher Güter zuständig sind.
 
-
-## Art 4
+# Art 4
 
 (1) Die Kontrollbehörden prüfen nach Artikel VI des Übereinkommens, ob der im internationalen Verkehr verwendete Container ein gültiges CSC-Sicherheits-Zulassungsschild trägt. Ist ein gültiges CSC-Sicherheits-Zulassungsschild nicht vorhanden, so soll die Kontrollbehörde die weitere Verwendung des Containers untersagen und ihn erst freigeben, wenn seine Zulassung nachgewiesen worden ist. Befindet sich der Container in einem Zustand, der eine offensichtliche Gefährdung der Sicherheit darstellt, so hat die Kontrollbehörde die weitere Verwendung des Containers zu untersagen und ihn erst wieder zur Verwendung freizugeben, wenn die Beanstandungen behoben sind. Erscheint eine Entziehung der Zulassung geboten (Artikel IV Abs. 5 des Übereinkommens), so veranlaßt die Kontrollbehörde das Erforderliche, damit die Entziehung bei der Behörde, die die Zulassung ausgesprochen hat, beantragt werden kann.
 
@@ -54,8 +47,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (3) Absätze 1 und 2 gelten erst nach Inkrafttreten der Rechtsverordnung nach Artikel 2 Abs. 3. Dies gilt nicht für Container, deren Zustand eine offensichtliche Gefährdung der Sicherheit darstellt.
 
-
-## Art 5
+# Art 5
 
 (1) Der Eigentümer hat die vorgeschriebenen Überprüfungen seiner Container (Regel 2 der Anlage I des Übereinkommens) selbst durchzuführen oder durch eine im Umgang mit Containern erfahrene Person durchführen zu lassen. Durch eingehende Außensichtkontrollen des Containers hat die die Prüfung durchführende Person festzustellen, ob der Container Mängel aufweist, die eine Gefahr für Personen darstellen können. Die Überprüfung hat sich auch darauf zu erstrecken, ob das CSC-Sicherheits-Zulassungsschild am Container angebracht ist und den Vorschriften entspricht.
 
@@ -69,8 +61,7 @@ Dem in Genf am 5. Dezember 1972 von der Bundesrepublik Deutschland unterzeichnet
 
 (6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß über die gemäß Regel 2 der Anlage I des Übereinkommens vorgeschriebenen Überprüfungen der Container vom Eigentümer Vermerke angefertigt, aufbewahrt und der Kontrollbehörde auf Verlangen vorgelegt werden, wenn dies zur Gewährleistung der ordnungsgemäßen Unterhaltung und der vorgeschriebenen Überprüfungen der Container erforderlich ist. Unter dieser Voraussetzung kann dem Eigentümer mit Hauptniederlassung oder Sitz im Geltungsbereich dieses Gesetzes aufgegeben werden, die seiner Unterhaltungspflicht unterliegenden Container unter Angabe von Zulassungsland und Zulassungsbezeichnung der Kontrollbehörde mitzuteilen; es kann verlangt werden, daß sich die Sichtkontrolle auch auf das Innere des Containers zu erstrecken hat.
 
-
-## Art 6
+# Art 6
 
 (1) Für das CSC-Sicherheits-Zulassungsschild (Anhang zur Regel 1 der Anlage I des Übereinkommens) teilen die Zulassungsbehörden dem Antragsteller eine Zulassungsbezeichnung zu, die wie folgt beginnt:  
 
@@ -129,8 +120,7 @@ Zeile 8 in englischer Sprache: "SIDE WALL STRENGTH ... P", in französischer Spr
 
 (5) Auf dem CSC-Sicherheits-Zulassungsschild entfällt die Angabe in Zeile 9 (Monat, Jahr der erneuten Überprüfungen), wenn diese Daten möglichst nahe des CSC-Sicherheits-Zulassungsschildes angegeben sind (Regel 2 Abs. 3 der Anlage I des Übereinkommens).
 
-
-## Art 7
+# Art 7
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -152,8 +142,7 @@ Zeile 8 in englischer Sprache: "SIDE WALL STRENGTH ... P", in französischer Spr
 
 (4) Wird eine Zuwiderhandlung nach Absatz 1 bei der Beförderung eines Containers auf der Straße in einem Unternehmen begangen, das im Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für Güterverkehr.
 
-
-## Art 8
+# Art 8
 
 (1) Für Amtshandlungen, Prüfungen und Besichtigungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen werden von demjenigen, der die Amtshandlung veranlaßt oder zu dessen Gunsten sie vorgenommen wird, Kosten (Gebühren und Auslagen) erhoben. Kostengläubiger ist der Rechtsträger, dessen Behörde die Amtshandlung vornimmt, bei Auslagen auch der Rechtsträger, bei dessen Behörde die Auslagen entstanden sind. Das Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung findet Anwendung.
 
@@ -161,18 +150,15 @@ Zeile 8 in englischer Sprache: "SIDE WALL STRENGTH ... P", in französischer Spr
 
 (3) In der Rechtsverordnung nach Absatz 2 können die Kostengläubigerschaft, der Umfang der zu erstattenden Auslagen, eine Vorschußpflicht, die Fälligkeit und die Verjährung der Kostenansprüche, die Befreiung von der Kostenpflicht, insbesondere für Unternehmen mit Betriebssitz außerhalb des Geltungsbereiches dieses Gesetzes soweit die Gegenseitigkeit verbürgt ist, sowie das Erhebungsverfahren abweichend vom Verwaltungskostengesetz in der bis zum 14. August 2013 geltenden Fassung geregelt werden.
 
-
-## Art 9
-
-\-
-
-
-## Art 10
+# Art 9
 
 \-
 
+# Art 10
 
-## Art 11
+\-
+
+# Art 11
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

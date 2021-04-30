@@ -1,15 +1,11 @@
-# [MarketFachwPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Marketing und Geprüfte Fachwirtin für Marketing
-
-Ausfertigungsdatum: 21.08.2014
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Marketing und Geprüfte Fachwirtin für Marketing
+% Ausfertigungsdatum: 21.08.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, § 53 Absatz 1 auch in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Fachwirt für Marketing und zur Geprüften Fachwirtin für Marketing nach den §§ 2 bis 8 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -31,8 +27,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss "Geprüfter Fachwirt für Marketing" oder "Geprüfte Fachwirtin für Marketing".
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -50,8 +45,7 @@ nachweist.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung bezieht sich auf folgende Handlungsbereiche:
 
@@ -75,8 +69,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Inhalte der Prüfung
+# § 4 – Inhalte der Prüfung
 
 (1) Im Handlungsbereich „Marketingstrategien entwickeln“ soll die Fähigkeit nachgewiesen werden, Marktinformationen anforderungsorientiert zu beschaffen, zu bewerten, zu präsentieren und zu erläutern sowie auf dieser Grundlage Marktentwicklungen zu prognostizieren und Marketingstrategien abzuleiten. Dabei sollen auch soziale, rechtliche, technische, ethische, kulturelle und ökologische Aspekte zielorientiert und situationsbezogen berücksichtigt werden. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -118,15 +111,13 @@ nachweist.
 
 7. Gestalten des Arbeits- und Gesundheitsschutzes.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder § 7 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -148,8 +139,7 @@ Aus den beiden schriftlichen Teilleistungen ist als zusammengefasste Bewertung d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen und in der mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -163,8 +153,7 @@ Aus den beiden schriftlichen Teilleistungen ist als zusammengefasste Bewertung d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -178,8 +167,7 @@ Aus den beiden schriftlichen Teilleistungen ist als zusammengefasste Bewertung d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -187,15 +175,13 @@ Aus den beiden schriftlichen Teilleistungen ist als zusammengefasste Bewertung d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren nach der Verordnung zum anerkannten Abschluss Geprüfter Fachkaufmann für Marketing/Geprüfte Fachkauffrau für Marketing vom 28. März 2006 (BGBl. I S. 588), die durch Artikel 59 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, können bis zum 31. Dezember 2018 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Juli 2017 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -203,15 +189,13 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. April 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann für Marketing/Geprüfte Fachkauffrau für Marketing vom 28. März 2006 (BGBl. I S. 588), die durch Artikel 59 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2407 – 2408)
 
@@ -220,8 +204,7 @@ Diese Verordnung tritt am 1. April 2015 in Kraft. Gleichzeitig tritt die Verordn
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2408 – 2409)
 

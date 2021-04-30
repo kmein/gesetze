@@ -1,25 +1,19 @@
-# [ZahnmedAusbV] Verordnung über die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten
-
-Ausfertigungsdatum: 04.07.2001
-
+% Verordnung über die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten
+% Ausfertigungsdatum: 04.07.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Zahnmedizinischer Fachangestellter/Zahnmedizinische Fachangestellte wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die Vermittlung der folgenden Fertigkeiten und Kenntnisse:
 
@@ -103,25 +97,21 @@ Materialbeschaffung und -verwaltung
 
 10. Abrechnung von Leistungen
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in den Anlagen 1 und 2 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung eines Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -137,8 +127,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 4. Anwenden von Gebührenordnungen und Vertragsbestimmungen.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -233,18 +222,15 @@ Der Prüfling soll praxisbezogene Aufgaben aus der Berufs- und Arbeitswelt bearb
 
 (8) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens drei Bereichen mindestens ausreichende Prüfungsleistungen erbracht sind. Werden die Prüfungsleistungen in einem Bereich mit "ungenügend" bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 9 – Übergangsregelungen
+# § 9 – Übergangsregelungen
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-
-## Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten  - Sachliche Gliederung -
+# Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten  - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2001, 1495 - 1499)
 
@@ -856,8 +842,7 @@ f)
 
 zahntechnische Material- und Laborrechnungen überprüfen
 
-
-## Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten  - Zeitliche Gliederung -
+# Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Zahnmedizinischen Fachangestellten/zur Zahnmedizinischen Fachangestellten  - Zeitliche Gliederung -
 
   
   

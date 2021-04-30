@@ -1,15 +1,11 @@
-# [TWirtAusbStEignV 2005] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
-
-Ausfertigungsdatum: 13.07.2005
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
+% Ausfertigungsdatum: 13.07.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+# § 1 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Abs. 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein, der nach Art und Umfang der Produktion sowie nach seinem Bewirtschaftungszustand die Voraussetzungen dafür bietet, dass den Auszubildenden die in der Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin geforderten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) in der gemeinsamen beruflichen Fachbildung und der Ausbildung in der jeweiligen Fachrichtung vermittelt werden können. Eine kontinuierliche Anleitung muss gewährleistet sein.
 
@@ -25,8 +21,7 @@ Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. 
 
 (7) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren eröffnet worden ist.
 
-
-## § 2 – Fachrichtungsspezifische Anforderungen
+# § 2 – Fachrichtungsspezifische Anforderungen
 
 (1) Die Ausbildungsstätte in der Fachrichtung Rinderhaltung muss über einen Rinderbestand verfügen, der alle Altersstufen der Rinderhaltung umfasst. Insbesondere müssen die technischen Einrichtungen zur Milchgewinnung und Lagerung vorhanden sein. Ausreichende Flächen zur Weidehaltung von Rindern müssen nachgewiesen werden.
 
@@ -38,12 +33,10 @@ Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. 
 
 (5) Die Ausbildungsstätte in der Fachrichtung Imkerei muss über einen ausreichenden Bestand an Bienenvölkern verfügen, der unterschiedliche Bereiche der Völkerführungen, wie Wirtschaftsimkerei, Ablegerbildung, Königinnenaufzucht, repräsentiert, so dass die notwendige Vielfalt und Tiefe der Vermittlung der beruflichen Handlungsfähigkeit gewährleistet ist. Der Betrieb muss über Standorte mit unterschiedlichen Trachtangeboten verfügen. Insbesondere müssen Einrichtungen zur Bienenwanderung, zur Honiggewinnung, -lagerung und -vermarktung vorhanden sein.
 
-
-## § 3 – Ausnahmeregelungen
+# § 3 – Ausnahmeregelungen
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten nicht im vollen Umfang vermittelt werden können, gilt als geeignet, wenn sichergestellt ist, dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen anerkannten Ausbildungsstätte, in Form von Ausbildungsverbünden oder in Form überbetrieblicher Ausbildung vermittelt werden können.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.

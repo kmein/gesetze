@@ -1,29 +1,23 @@
-# [PRV] Verordnung über die Einrichtung und Führung des Partnerschaftsregisters  (Partnerschaftsregisterverordnung - PRV)
-
-Ausfertigungsdatum: 16.06.1995
-
+% Verordnung über die Einrichtung und Führung des Partnerschaftsregisters  (Partnerschaftsregisterverordnung - PRV)
+% Ausfertigungsdatum: 16.06.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 160b Abs. 1 Satz 2 in Verbindung mit § 125 Abs. 3 und 4 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit in der im Bundesgesetzblatt Teil III, Gliederungsnummer 315-1, veröffentlichten bereinigten Fassung, von denen § 125 Abs. 3 neugefaßt und § 125 Abs. 4 eingefügt worden ist durch Artikel 6 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2182) und § 160b eingefügt worden ist durch Artikel 2 des Gesetzes vom 25. Juli 1994 (BGBl. I S. 1744), geändert durch Artikel 5 Abs. 3 des Gesetzes vom 6. Juni 1995 (BGBl. I S. 778), verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Anwendbares Recht
+# § 1 – Anwendbares Recht
 
 (1) Die Einrichtung und Führung des Partnerschaftsregisters bestimmen sich nach den Vorschriften der Handelsregisterverordnung, soweit nicht nachfolgend etwas anderes vorgeschrieben ist.
 
 (2) Dabei steht die Partnerschaft einer offenen Handelsgesellschaft gleich; an die Stelle der persönlich haftenden Gesellschafter treten die Partner, an die Stelle der Firma der offenen Handelsgesellschaft tritt der Name der Partnerschaft.
 
-
-## § 2 – Einteilung und Gestaltung des Registers
+# § 2 – Einteilung und Gestaltung des Registers
 
 (1) Jede Partnerschaft ist unter einer fortlaufenden Nummer (Registerblatt) in das Register einzutragen. Das Register wird nach dem beigegebenen Muster in Anlage 1 geführt.
 
 (2) Bei der Führung des Registers sind die beigegebenen Muster (Anlagen 1 bis 3) zu verwenden.
 
-
-## § 3 – Anmeldung
+# § 3 – Anmeldung
 
 (1) In der Anmeldung der Partnerschaft zur Eintragung in das Register ist die Zugehörigkeit jedes Partners zu dem Freien Beruf, den er in der Partnerschaft ausübt, anzugeben. Bedarf die Berufsausübung der staatlichen Zulassung oder einer staatlichen Prüfung, so sollen die Urkunde über die Zulassung oder das Zeugnis über die Befähigung zu diesem Beruf in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift vorgelegt werden. Besteht für die angestrebte Tätigkeit keine anerkannte Ausbildung oder ist zweifelhaft, ob die angestrebte Tätigkeit als freiberuflich im Sinne des § 1 Abs. 2 des Partnerschaftsgesellschaftsgesetzes einzustufen ist, können die anmeldenden Partner die Ausübung freiberuflicher Tätigkeit auf sonstige Weise, notfalls auch durch schlichte Erklärung, darlegen. Das Gericht legt in diesem Fall bei der Eintragung die Angaben der Partner zugrunde, es sei denn, ihm ist deren Unrichtigkeit bekannt (§ 4 Abs. 2 Satz 2 des Partnerschaftsgesellschaftsgesetzes).
 
@@ -33,13 +27,11 @@ Auf Grund des § 160b Abs. 1 Satz 2 in Verbindung mit § 125 Abs. 3 und 4 des Ge
 
 (4) Die Absätze 1 bis 3 gelten bei Anmeldung des Eintrittes eines Partners in eine bestehende Partnerschaft oder der Umwandlung in oder auf eine Partnerschaft entsprechend.
 
-
-## § 4 – Stellungnahme der Berufskammer
+# § 4 – Stellungnahme der Berufskammer
 
 Bestehen für in der Partnerschaft ausgeübte Berufe Berufskammern, so soll das Gericht diesen in zweifelhaften Fällen vor Eintragung Gelegenheit zur Stellungnahme geben. Die anmeldenden Partner sollen dem Gericht mit der Anmeldung mitteilen, ob und welche Berufskammern für die in der Partnerschaft ausgeübten Berufe bestehen. Dabei sollen auch die Anschriften der Berufskammern mitgeteilt werden. Weicht das Gericht von einer Stellungnahme ab, so hat es seine Entscheidung der Berufskammer, die die Stellungnahme abgegeben hat, unter Angabe der Gründe mitzuteilen.
 
-
-## § 5 – Inhalt der Eintragungen
+# § 5 – Inhalt der Eintragungen
 
 (1) In Spalte 1 ist die laufende Nummer der die Partnerschaft betreffenden Eintragungen anzugeben.
 
@@ -61,38 +53,31 @@ und die sich jeweils darauf beziehenden Änderungen.
 
 (6) Enthält eine Eintragung die Nennung eines in ein öffentliches Unternehmensregister eingetragenen Rechtsträgers, so sind Art und Ort des Registers und die Registernummer dieses Rechtsträgers mit zu vermerken.
 
-
-## § 6 – Mitteilungen an Berufskammern
+# § 6 – Mitteilungen an Berufskammern
 
 Besteht für einen in der Partnerschaft ausgeübten Beruf eine Berufskammer, so sind dieser sämtliche Eintragungen mitzuteilen.
 
-
-## § 7 – Bekanntmachungen
+# § 7 – Bekanntmachungen
 
 Die Bekanntmachungen erfolgen in dem für das Handelsregister bestimmten Veröffentlichungssystem (§ 10 des Handelsgesetzbuchs).
 
-
-## § 8 – Namenslöschung wegen Nichtausübung freiberuflicher Tätigkeit
+# § 8 – Namenslöschung wegen Nichtausübung freiberuflicher Tätigkeit
 
 Wird der Name einer Partnerschaft gelöscht, weil unter diesem keine freiberufliche Tätigkeit ausgeübt wird, so kann auf Antrag der Gesellschafter in der Bekanntmachung der Grund der Löschung erwähnt werden.
 
-
-## § 9 – (weggefallen)
+# § 9 – (weggefallen)
 
 \-
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Abs. 1 und 2)
+# Anlage 1 – (zu § 2 Abs. 1 und 2)
 
 (Fundstelle: BGBl. I 2001, 3696;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -241,8 +226,7 @@ Als nicht in den aktuellen Ausdruck aufzunehmen kenntlich gemacht gemäß § 1 d
 ++)  
 Die Durchkreuzung oder die auf sonstige Weise erfolgte Kenntlichmachung des Registerblattes als gegenstandslos ist hier weggelassen.
 
-
-## Anlage 2 – (zu § 2 Abs. 2)
+# Anlage 2 – (zu § 2 Abs. 2)
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 3697)
 
@@ -265,19 +249,16 @@ Die Durchkreuzung oder die auf sonstige Weise erfolgte Kenntlichmachung des Regi
     Anmerkung: Die beiden Kopfzeilen müssen beim Abruf der Registerdaten auf
                dem Bildschirm stets sichtbar sein. 
 
-
-## Anlage 3 – (zu § 2 Abs. 2)
+# Anlage 3 – (zu § 2 Abs. 2)
 
 (Fundstelle: BGBl. I 1995, 812)
 
-![](../normengrafiken/bgbl1_1995/j0812_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1995/j0812_0010.jpg)
 
-
-## Anlage 4 – (zu § 7)  Muster für Bekanntmachungen
+# Anlage 4 – (zu § 7)  Muster für Bekanntmachungen
 
 Amtsgericht München – Registergericht –, Aktenzeichen: PR 1292  
 Die in ( ) gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:  
 Neueintragungen  
 27.06.2004  
-PR 1292 Müller und Partner, Rechtsanwälte und Steuerberater, München (Junkerstr. 7, 80117 München). Partnerschaft. Gegenstand: Ausübung rechtsanwaltlicher und steuerberatender Tätigkeit. Jeweils zwei Partner vertreten gemeinsam. Partner: Müller, Peter, Rechtsanwalt, Starnberg, \* 18.05.1966; Schmidt, Christian, Steuerberater, München, \* 13.01.1966.  
-Bekannt gemacht am: 30.06.2004.
+PR 1292 Müller und Partner, Rechtsanwälte und Steuerberater, München (Junkerstr. 7, 80117 München). Partnerschaft. Gegenstand: Ausübung rechtsanwaltlicher und steuerberatender Tätigkeit. Jeweils zwei Partner vertreten gemeinsam. Partner: Müller, Peter, Rechtsanwalt, Starnberg, \* 18.05.1966; Schmidt, Christian, Steuerberater, München, \* 13.01.1966. Bekannt gemacht am: 30.06.2004.

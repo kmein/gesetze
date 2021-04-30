@@ -1,12 +1,7 @@
-# [BinSchUO2018Anh III] Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2(Anhang III der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2(Anhang III der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Inhaltsverzeichnis
-
- 
+# Inhaltsverzeichnis
 
  
 
@@ -90,8 +85,9 @@ Ausfertigungsdatum: 21.09.2018
 
  
 
+ 
 
-## § 1.01 – Allgemeines
+# § 1.01 – Allgemeines
 
  
 
@@ -119,8 +115,7 @@ erforderlich.
 
 (+++ § 1.01 Nr. 1 u. 2: Zur Anwendung vgl. § 2.01 Nr. 3 +++)
 
-
-## § 1.02 – Sonderbestimmungen für Fahrgastschiffe
+# § 1.02 – Sonderbestimmungen für Fahrgastschiffe
 
  
 
@@ -134,8 +129,7 @@ b) Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammel
 
 (+++ § 1.02 Buchst. a: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.04 Nr. 1 u. § 5.05 BinSchUO2018Anh II +++)
 
-
-## § 2.01 – Allgemeines
+# § 2.01 – Allgemeines
 
  
 
@@ -145,8 +139,7 @@ b) Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammel
 
 3. Abweichend von den Nummern 1 und 2 ist auf der Ems unterhalb von Emden bis zur Hafeneinfahrt von Delfzijl für Güterschiffe bei geschlossenen Ladeluken, für Schleppboote und Schubboote der § 1.01 Nummer 1 und 2 anzuwenden.
 
-
-## § 4.01 – Sicherheitsabstand
+# § 4.01 – Sicherheitsabstand
 
  
 
@@ -156,8 +149,7 @@ b) Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammel
 
 3. Zu Öffnungen, die offen sind, muss der Sicherheitsabstand mindestens 1,00 m betragen.
 
-
-## § 4.02 – Freibord
+# § 4.02 – Freibord
 
  
 
@@ -180,7 +172,7 @@ anzusetzen.
 b) Die Sprunghöhe an den Schiffsenden darf die Höhe bis zum Schiffsende reichender Aufbauten nicht einschließen.
 
 c) Bei Berechnungen nach Buchstabe a wird die wirksame Länge des Aufbaus nach folgender Formel berechnet:  
-![](../normengrafiken/bgbl1_2018/j1398-1_0600.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0600.jpg)
 
 In diesen Formeln bedeuten:
 
@@ -199,7 +191,7 @@ die Breite des Schiffes gemessen auf der Hälfte der Länge des Aufbaus, Decksha
 h  
 die an der Aufbau-, Deckshaus- oder Lukenseite gemessene Höhe des betreffenden Aufbaus in \[m\], für Luken ergibt sich die Höhe h, indem die Höhe der Sülle um den halben Sicherheitsabstand nach § 4.01 unter Berücksichtigung der Art der Lukenabdeckung vermindert wird. Für die Höhe h darf kein größerer Wert eingesetzt werden als 0,72 m.
 
-Wenn ![](../normengrafiken/bgbl1_2018/j1398-1_0610.jpg) kleiner ist als 0,6, ist die wirksame Aufbaulänge l<sub>e</sub> gleich Null zu setzen.
+Wenn ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0610.jpg) kleiner ist als 0,6, ist die wirksame Aufbaulänge l<sub>e</sub> gleich Null zu setzen.
 
 3. Unter Berücksichtigung der Freibordberichtigung nach Nummer 2 muss der Freibord mindestens 0,15 m betragen. Dabei müssen die nachfolgenden Bedingungen erfüllt sein:
 
@@ -215,8 +207,7 @@ cc) bei offenen Ladeluken mindestens 1,20 m.
 
 b) Die durchschnittliche Breite des Gangbords beträgt höchstens 0,125 · B.
 
-
-## § 5.01 – Aufbauten
+# § 5.01 – Aufbauten
 
  
 
@@ -226,13 +217,11 @@ b) Die durchschnittliche Breite des Gangbords beträgt höchstens 0,125 · B.
 
 3. Sofern Deckel von Einstiegsluken und Mannlöchern nicht durch Verschraubungen gesichert sind, müssen sie durch Scharniere fest mit dem Schiff verbunden sein.
 
-
-## § 5.02 – Türen
+# § 5.02 – Türen
 
 Alle äußeren Türen, die Zugang zu Räumen unter dem Freiborddeck gewähren, müssen mindestens sprühwasser- und wetterdicht verschließbar und von ausreichender Festigkeit sein.
 
-
-## § 5.03 – Fenster und Oberlichter
+# § 5.03 – Fenster und Oberlichter
 
  
 
@@ -250,8 +239,7 @@ b) sprühwasser- und wetterdicht, wenn ihre Ausführung als runde Fenster mindes
 
 c) offen, wenn ihre Ausführung den in Buchstabe a und b genannten Normen nicht entspricht.
 
-
-## § 5.04 – Abdeckung der Laderäume
+# § 5.04 – Abdeckung der Laderäume
 
  
 
@@ -288,13 +276,11 @@ Sprühwasser- und wetterdichte Lukendeckel brauchen nicht besonders abgedichtet 
 
 3. Laderäume ohne Lukendeckel und mit Lukendeckeln, die den Bestimmungen nach Nummer 1 oder 2 nicht entsprechen, gelten als offen.
 
-
-## § 6.01 – Ankerketten
+# § 6.01 – Ankerketten
 
 Abweichend von Artikel 13.01 Nummer 10 ES-TRIN muss jede Bugankerkette mindestens 60 m lang sein.
 
-
-## § 6.02 – Kompass
+# § 6.02 – Kompass
 
  
 
@@ -316,8 +302,7 @@ Der Regulierer prüft gleichzeitig den ordnungsgemäßen Einbau nach Satz 1 Buch
 
 5. Die Regulierung und Kompensierung durch eine anerkannte Person (Regulierer) eines Mitgliedstaates der Internationalen Seeschifffahrts-Organisation (IMO) wird als gleichwertig anerkannt.
 
-
-## § 6.03 – Navigationsradaranlage
+# § 6.03 – Navigationsradaranlage
 
  
 
@@ -325,13 +310,11 @@ Der Regulierer prüft gleichzeitig den ordnungsgemäßen Einbau nach Satz 1 Buch
 
 2. Nummer 1 gilt nicht für Seeschiffe mit Seeradar.
 
-
-## § 6.04 – Sende- und Empfangsanlagen
+# § 6.04 – Sende- und Empfangsanlagen
 
 Fahrzeuge mit eigener Triebkraft müssen mit einer Funkanlage für die Teilnahme am Binnenschifffahrtsfunk nach den Bestimmungen der Regionalen Vereinbarung über den Binnenschifffahrtsfunk ausgerüstet sein.
 
-
-## § 6.05 – Rettungsmittel
+# § 6.05 – Rettungsmittel
 
  
 
@@ -339,8 +322,7 @@ Fahrzeuge mit eigener Triebkraft müssen mit einer Funkanlage für die Teilnahme
 
 2. Zusätzlich zu Artikel 13.08 ES-TRIN muss für jede an Bord befindliche Person ein Platz in einem Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit dessen Nummer 7 bis 9 vorhanden sein.
 
-
-## § 6.06 – Sonstige Ausrüstung
+# § 6.06 – Sonstige Ausrüstung
 
 Folgende Ausrüstungsgegenstände müssen mindestens vorhanden sein:
 
@@ -360,18 +342,15 @@ cc) stillliegender Schiffe mit bestimmten gefährlichen Gütern;
 
 d) an Bord von Fahrzeugen mit Besatzung zusätzlich die in § 13 Absatz 1 Nummer 2 Buchstabe a der Schiffssicherheitsverordnung vorgeschriebenen Seekarten; werden Seekarten in digitaler Form verwendet, so müssen diese auf zugelassenen Inland-ECDIS-Geräten im Navigationsmodus nach Artikel 7.06 Nummer 1 ES-TRIN dargestellt werden.
 
-
-## § 7.01 – Allgemeines
+# § 7.01 – Allgemeines
 
 Für Fahrgastschiffe auf Wasserstraßen der Zone 2-See gelten Kapitel 3 und 4 sowie die Bestimmungen des § 6.05 nicht.
 
-
-## § 7.02 – Festigkeit
+# § 7.02 – Festigkeit
 
 Abweichend von Artikel 3.02 Nummer 1 Buchstabe a ES-TRIN muss der Schiffskörper den Vorschriften einer anerkannten Klassifikationsgesellschaft für die Zone 2-See entsprechen. Als Nachweis genügt eine Bescheinigung einer anerkannten Klassifikationsgesellschaft, aus der hervorgeht, dass das Fahrgastschiff nach den Bauvorschriften für die Zone 2-See gebaut oder umgebaut worden ist.
 
-
-## § 7.03 – Stabilität, Sicherheitsabstand und Freibord
+# § 7.03 – Stabilität, Sicherheitsabstand und Freibord
 
  
 
@@ -395,15 +374,13 @@ betragen.
 
 (+++ § 7.03: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.05 BinSchUO2018Anh II +++)
 
-
-## § 7.04 – Höchstzulässige Zahl der Fahrgäste
+# § 7.04 – Höchstzulässige Zahl der Fahrgäste
 
 Die höchstzulässige Zahl der Fahrgäste ist nach den Bestimmungen des Artikels 19.05 Nummer 2 Buchstabe b ES-TRIN unter Berücksichtigung des § 7.03 zu ermitteln.
 
 (+++ § 7.04: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.04 Nr. 1 BinSchUO2018Anh II +++)
 
-
-## § 7.05 – Anker
+# § 7.05 – Anker
 
 Für Fahrgastschiffe ist die Gesamtmasse P der Buganker nach folgender Formel zu berechnen:  
 P = k · B · T + 4 · A<sub>f</sub> \[kg\]  
@@ -415,13 +392,11 @@ Koeffizient nach Artikel 13.01 Nummer 2 ES-TRIN
 A<sub>f</sub>  
 frontale Windangriffsfläche in m².
 
-
-## § 7.06 – Rettungsmittel
+# § 7.06 – Rettungsmittel
 
 Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit dessen Nummer 7 bis 9 ersetzt werden.
 
-
-## § 10.01 – Allgemeines
+# § 10.01 – Allgemeines
 
  
 
@@ -429,18 +404,15 @@ Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelret
 
 2. Die Bestimmungen aus den Kapiteln 2 bis 6 und die Bestimmungen der §§ 10.02 bis 10.07 sind zu erfüllen.
 
-
-## § 10.02 – Sicherheitsabstand
+# § 10.02 – Sicherheitsabstand
 
 Der Sicherheitsabstand muss mindestens 1,20 m betragen.
 
-
-## § 10.03 – Freibord
+# § 10.03 – Freibord
 
 Der Freibord muss mindestens 0,50 m betragen.
 
-
-## § 10.04 – Verschlusszustand
+# § 10.04 – Verschlusszustand
 
  
 
@@ -448,20 +420,17 @@ Der Freibord muss mindestens 0,50 m betragen.
 
 2. Die Festsetzung der höchstzulässigen Einsenkung für die Fahrt mit ungedeckten Laderäumen ist nicht zulässig.
 
-
-## § 10.05 – Festigkeit
+# § 10.05 – Festigkeit
 
 Eine anerkannte Klassifikationsgesellschaft muss bescheinigen, dass das Fahrzeug zur Fahrt auf Wasserstraßen der Zone 1 ausreichende Festigkeit und einen angemessenen Freibord und Verschlusszustand aufweist. Die vorzulegende Bescheinigung muss die zulässigen Fahrtbedingungen des Fahrzeugs gemäß § 10.06 angeben.
 
 (+++ § 10.05: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.05 BinSchUO2018Anh II +++)
 
-
-## § 10.06 – Zulässige Fahrtbedingungen
+# § 10.06 – Zulässige Fahrtbedingungen
 
 Abhängig vom Bau-, Erhaltungs- und Ausrüstungszustand des Fahrzeugs werden dessen zulässige Fahrtbedingungen – insbesondere Beschränkung auf Fahrten bei geringer signifikanter Wellenhöhe, auf einen bestimmten Zeitraum im Jahr, auf Fahrten bei Tageslicht oder bei annehmbaren Witterungs- und Wetterverhältnissen oder auf Fahrten von begrenzter Dauer – festgelegt. Die zulässigen Fahrtbedingungen sind in der jeweiligen Fahrtauglichkeitsbescheinigung zu bescheinigen.
 
-
-## § 10.07 – Zusätzliche Ausrüstung
+# § 10.07 – Zusätzliche Ausrüstung
 
  
 
@@ -481,8 +450,7 @@ f) das Beiboot muss mit einer Laterne und einem wasserdichten Behälter mit sech
 
 2. Zusätzlich zu den Bestimmungen nach Kapitel 6 müssen geschleppte Fahrzeuge mit Besatzung die nach Nummer 1 Buchstabe b bis f geforderten Ausrüstungsgegenstände an Bord mitführen.
 
-
-## § 10.08 – Sonderbestimmungen für Fahrgastschiffe
+# § 10.08 – Sonderbestimmungen für Fahrgastschiffe
 
  
 
@@ -492,8 +460,7 @@ f) das Beiboot muss mit einer Laterne und einem wasserdichten Behälter mit sech
 
 (+++ § 10.08 Nr. 2: Zur Anwendung vgl. § 5.01 Nr. 1 iVm § 5.04 Nr. 1 BinSchUO2018Anh II +++)
 
-
-## § 11.01 – Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
+# § 11.01 – Anwendung der Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
  
 
@@ -501,8 +468,7 @@ f) das Beiboot muss mit einer Laterne und einem wasserdichten Behälter mit sech
 
 2. Für die Fahrzeuge muss nachgewiesen werden, dass sie am Tage der Erteilung oder letzten Erneuerung ihres Gemeinschaftszeugnisses oder einer anderen Verkehrszulassung den technischen Vorschriften der Binnenschiffs-Untersuchungsordnung in der Fassung vom 30. Dezember 2008 entsprochen haben.
 
-
-## § 11.02 – Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
+# § 11.02 – Übergangsbestimmungen für Fahrzeuge, die schon in Betrieb sind
 
  
 
@@ -525,8 +491,7 @@ Die Vorschrift muss bei der nächsten auf das angegebene Datum folgenden Erteilu
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">4.01</td><td style="text-align: left;">Sicherheitsabstand</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">4.02</td><td style="text-align: left;">Freibord</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">5.01</td><td style="text-align: left;">Aufbauten</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">5.02</td><td style="text-align: left;">Türen</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">5.03</td><td style="text-align: left;">Fenster und Oberlichter</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">5.04</td><td style="text-align: left;">Abdeckung der Laderäume</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">6.02 Nr. 1</td><td style="text-align: left;">Kompass</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2029</td></tr><tr class="even"><td style="text-align: left;">6.03 Nr. 1</td><td style="text-align: left;">Radar</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2029</td></tr><tr class="odd"><td style="text-align: left;">6.06 Buch-<br />
 stabe b</td><td style="text-align: left;">Schallsignalanlage</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="even"><td style="text-align: left;">10.02</td><td style="text-align: left;">Sicherheitsabstand</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr><tr class="odd"><td style="text-align: left;">10.03</td><td style="text-align: left;">Freibord</td><td style="text-align: left;">N.E.U., spätestens bei Erteilung oder Erneuerung des zusätzlichen Unionszeugnisses für Binnenschiffe nach dem 30.12.2049</td></tr></tbody></table>
 
-
-## Anlage 1 – Anforderungen an Kompasse und Steuerkurstransmitter
+# Anlage 1 – Anforderungen an Kompasse und Steuerkurstransmitter
 
 (Fundstelle: BGBl. I 2018, 1468 - 1471)
 

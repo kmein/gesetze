@@ -1,32 +1,25 @@
-# [BelWertV] Verordnung über die Ermittlung der Beleihungswerte von Grundstücken nach § 16 Abs. 1 und 2 des Pfandbriefgesetzes  (Beleihungswertermittlungsverordnung - BelWertV)
-
-Ausfertigungsdatum: 12.05.2006
-
+% Verordnung über die Ermittlung der Beleihungswerte von Grundstücken nach § 16 Abs. 1 und 2 des Pfandbriefgesetzes  (Beleihungswertermittlungsverordnung - BelWertV)
+% Ausfertigungsdatum: 12.05.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16 Abs. 4 Satz 1 bis 3 des Pfandbriefgesetzes vom 22. Mai 2005 (BGBl. I S. 1373) in Verbindung mit § 1 Nr. 4 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), § 1 Nr. 4 zuletzt geändert durch Artikel 7 Nr. 1 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände der Kreditwirtschaft:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Bei der Ermittlung der Beleihungswerte nach § 16 Abs. 1 und 2 des Pfandbriefgesetzes und bei der Erhebung der für die Wertermittlung erforderlichen Daten sind die Vorschriften dieser Verordnung anzuwenden.
 
-
-## § 2 – Gegenstand der Wertermittlung
+# § 2 – Gegenstand der Wertermittlung
 
 Gegenstand der Beleihungswertermittlung ist das Grundstück, grundstücksgleiche Recht oder vergleichbare Recht einer ausländischen Rechtsordnung, das mit dem Grundpfandrecht belastet ist oder belastet werden soll.
 
-
-## § 3 – Grundsatz der Beleihungswertermittlung
+# § 3 – Grundsatz der Beleihungswertermittlung
 
 (1) Der Wert, der der Beleihung zugrunde gelegt wird (Beleihungswert), ist der Wert der Immobilie, der erfahrungsgemäß unabhängig von vorübergehenden, etwa konjunkturell bedingten Wertschwankungen am maßgeblichen Grundstücksmarkt und unter Ausschaltung von spekulativen Elementen während der gesamten Dauer der Beleihung bei einer Veräußerung voraussichtlich erzielt werden kann.
 
 (2) Zur Ermittlung des Beleihungswerts ist die zukünftige Verkäuflichkeit der Immobilie unter Berücksichtigung der langfristigen, nachhaltigen Merkmale des Objekts, der normalen regionalen Marktgegebenheiten sowie der derzeitigen und möglichen anderweitigen Nutzungen im Rahmen einer vorsichtigen Bewertung zugrunde zu legen.
 
-
-## § 4 – Verfahren zur Ermittlung des Beleihungswerts
+# § 4 – Verfahren zur Ermittlung des Beleihungswerts
 
 (1) Zur Ermittlung des Beleihungswerts sind der Ertragswert (§§ 8 bis 13) und der Sachwert (§§ 14 bis 18) des Beleihungsobjekts getrennt zu ermitteln. Der Beleihungswert ist unter Berücksichtigung dieser Werte nach Maßgabe der Absätze 2 bis 6 abzuleiten. Das zu bewertende Objekt ist im Rahmen der Wertermittlung zu besichtigen.
 
@@ -40,8 +33,7 @@ Gegenstand der Beleihungswertermittlung ist das Grundstück, grundstücksgleiche
 
 (6) Bei im Bau befindlichen Objekten ist der Beleihungswert der Zustandswert. Dieser ist die Summe aus dem Bodenwert (§ 15) und dem anteiligen Wert der baulichen Anlage. Der anteilige Wert der baulichen Anlage errechnet sich aus dem Wert der baulichen Anlage des fertig gestellten Objekts (§ 16) und dem erreichten Bautenstand. Der in Ansatz gebrachte Bautenstand ist von einer von der Pfandbriefbank auszuwählenden, fachkundigen, von Bauplanung und -ausführung unabhängigen Person festzustellen; § 7 Abs. 1 Satz 1 gilt entsprechend. In den Fällen, in denen der Ertragswert des planmäßig fertig gestellten Objekts unter dessen Sachwert liegt, darf der Zustandswert den anteiligen Ertragswert, der prozentual dem jeweiligen Bautenstand entspricht, nicht überschreiten.
 
-
-## § 5 – Gutachten
+# § 5 – Gutachten
 
 (1) Der Beleihungswert ist mittels eines Gutachtens zu ermitteln.
 
@@ -59,20 +51,17 @@ Gutachten, die vom Darlehensnehmer vorgelegt oder in Auftrag gegeben worden sind
 
 (4) Alle den Sachwert oder den Ertragswert beeinflussenden Umstände, insbesondere auch etwaige Nutzungsbeschränkungen, Dienstbarkeiten, Duldungspflichten, Vorkaufsrechte, Baulasten und alle sonstigen Beschränkungen und Lasten sind zu nennen, zu beachten und gegebenenfalls wertmindernd zu berücksichtigen.
 
-
-## § 6 – Gutachter
+# § 6 – Gutachter
 
 Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet der Bewertung von Immobilien verfügen; eine entsprechende Qualifikation wird bei Personen, die von einer staatlichen, staatlich anerkannten oder nach DIN EN ISO/IEC 17024 akkreditierten Stelle als Sachverständige oder Gutachter für die Wertermittlung von Immobilien bestellt oder zertifiziert worden sind, vermutet. Bei der Auswahl des Gutachters hat sich die Pfandbriefbank davon zu überzeugen, dass der Gutachter neben langjähriger Berufserfahrung in der Wertermittlung von Immobilien speziell über die zur Erstellung von Beleihungswertgutachten notwendigen Kenntnisse, insbesondere bezüglich des jeweiligen Immobilienmarkts und der Objektart, verfügt.
 
-
-## § 7 – Unabhängigkeit des Gutachters
+# § 7 – Unabhängigkeit des Gutachters
 
 (1) Der Gutachter muss sowohl vom Kreditakquisitions- und Kreditentscheidungsprozess als auch von Objektvermittlung, -verkauf und -vermietung unabhängig sein. Er darf nicht in einem verwandtschaftlichen, einem sonstigen rechtlichen oder einem wirtschaftlichen Verhältnis zum Darlehensnehmer stehen und darf kein eigenes Interesse am Ergebnis des Gutachtens haben. Der Gutachter darf auch nicht den Beleihungswert festsetzen oder den Kredit bearbeiten.
 
 (2) Gutachten von bei der Pfandbriefbank angestellten Gutachtern dürfen nur dann der Beleihungswertermittlung zugrunde gelegt werden, wenn im Rahmen der Aufbauorganisation der Pfandbriefbank die betreffenden Gutachter nur der Geschäftsleitung verantwortlich sind oder ausschließlich Teil einer Gutachtereinheit sind, die unmittelbar der Geschäftsleitung unterstellt ist, oder Teil einer alle betreffenden Gutachter zusammenfassenden Einheit und auch im Übrigen bis einschließlich der Ebene der Geschäftsleitung nicht einem Bereich der Pfandbriefbank zugeordnet sind, in dem Immobilienkreditgeschäfte entweder angebahnt oder zum Gegenstand des einzigen Votums gemacht werden.
 
-
-## § 8 – Grundlagen der Ertragswertermittlung
+# § 8 – Grundlagen der Ertragswertermittlung
 
 (1) Für das Ertragswertverfahren ist der Ertragswert der baulichen Anlage, getrennt von dem Bodenwert, nach den §§ 9 bis 12 zu ermitteln.
 
@@ -80,8 +69,7 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 (3) Bodenwert und Ertragswert der baulichen Anlage ergeben vorbehaltlich § 13 den Ertragswert des Beleihungsobjekts.
 
-
-## § 9 – Ermittlung des Ertragswerts der baulichen Anlage
+# § 9 – Ermittlung des Ertragswerts der baulichen Anlage
 
 (1) Bei der Ermittlung des Ertragswerts der baulichen Anlage ist vom nachhaltig erzielbaren jährlichen Reinertrag auszugehen. Der Reinertrag ergibt sich aus dem Rohertrag (§ 10) abzüglich der Bewirtschaftungskosten (§ 11).
 
@@ -89,8 +77,7 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 (3) Der nach Absatz 2 verminderte Reinertrag ist nach § 12 zu kapitalisieren.
 
-
-## § 10 – Rohertrag
+# § 10 – Rohertrag
 
 (1) Bei der Ermittlung des Rohertrags darf nur der Ertrag berücksichtigt werden, den das Objekt bei ordnungsgemäßer Bewirtschaftung und zulässiger Nutzung jedem Eigentümer nachhaltig gewähren kann. Liegt die nachhaltige Miete über der vertraglich vereinbarten Miete, ist im Regelfall die vertraglich vereinbarte Miete anzusetzen. Die Mietfläche entspricht der vermietbaren Wohnfläche bei wohnwirtschaftlicher Nutzung oder der dauerhaft vermietbaren Nutzfläche bei gewerblicher Nutzung. Bei verschiedenen Nutzungsarten sind die anteiligen Erträge getrennt darzustellen. Umlagen, die vom Mieter oder Pächter zur Deckung von Betriebskosten zu zahlen sind, sind nicht zu berücksichtigen.
 
@@ -98,8 +85,7 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 (3) Bestehen strukturelle oder lang andauernde Leerstände, ist besonders zu prüfen, ob aufgrund der jeweiligen Marktlage eine Vermietung überhaupt oder zu den angesetzten Mietpreisen in absehbarer Zeit noch zu erwarten ist.
 
-
-## § 11 – Bewirtschaftungskosten
+# § 11 – Bewirtschaftungskosten
 
 (1) Der nach § 10 ermittelte Rohertrag ist um die üblicherweise beim Vermieter verbleibenden Bewirtschaftungskosten zu kürzen. Dafür sind ertragsmindernde, aus langfristiger Markterfahrung gewonnene Einzelkostenansätze für Verwaltungskosten, Instandhaltungskosten, das Mietausfallwagnis und gegebenenfalls weitere nicht durch Umlagen gedeckte Betriebskosten anzusetzen sowie objektartenspezifisch ein Modernisierungsrisiko nach Absatz 7 zu berücksichtigen.
 
@@ -121,8 +107,7 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 (7) Die Kosten für notwendige Anpassungsmaßnahmen, die zusätzlich zu den Instandhaltungskosten zur Aufrechterhaltung der Marktgängigkeit und der dauerhaften Sicherung des Mietausgangsniveaus notwendig sind, bilden das Modernisierungsrisiko nach Absatz 1 Satz 2. Sie sind als prozentualer Anteil an den Neubaukosten darzustellen.
 
-
-## § 12 – Kapitalisierung der Reinerträge
+# § 12 – Kapitalisierung der Reinerträge
 
 (1) Der um den Verzinsungsbetrag des Bodenwerts nach § 9 Abs. 2 verminderte Reinertrag ist in Abhängigkeit von der Restnutzungsdauer der baulichen Anlage und dem Kapitalisierungszinssatz mit dem sich daraus ergebenden, finanzmathematisch dem Rentenbarwertfaktor entsprechenden Vervielfältiger nach Anlage 4 zu kapitalisieren.
 
@@ -154,8 +139,7 @@ Der Gutachter muss nach seiner Ausbildung und beruflichen Tätigkeit über beson
 
 Ein Unterschreiten nach Satz 3 bedarf im Gutachten der besonderen, nachvollziehbaren Begründung.
 
-
-## § 13 – Ermittlung des Ertragswerts in besonderen Fällen
+# § 13 – Ermittlung des Ertragswerts in besonderen Fällen
 
 (1) Verbleibt bei der Minderung des Reinertrags um den Verzinsungsbetrag des Bodenwerts nach § 9 Abs. 2 kein Anteil für die Ermittlung des Ertragswerts der baulichen Anlage, so ist als Ertragswert des Beleihungsobjekts abweichend von § 8 Abs. 3 nur der Bodenwert anzusetzen. Der Bodenwert ist in diesem Fall um die gewöhnlichen Kosten zu mindern, die aufzuwenden wären, um das Grundstück vergleichbaren unbebauten Grundstücken anzugleichen. Gewöhnliche Kosten im Sinne des Satzes 2 sind insbesondere die Abbruchkosten für die baulichen Anlagen.
 
@@ -163,13 +147,11 @@ Ein Unterschreiten nach Satz 3 bedarf im Gutachten der besonderen, nachvollziehb
 
 (3) In Fällen, in denen der Bodenwert mehr als die Hälfte des Ertragswerts ausmacht, sind im Gutachten die bei der Ermittlung des Bodenwerts zugrunde gelegten Annahmen zu begründen und die Voraussetzungen für eine Ersatzbebauung und die dafür gegebenenfalls notwendigen Aufwendungen besonders darzulegen.
 
-
-## § 14 – Grundlagen der Sachwertermittlung
+# § 14 – Grundlagen der Sachwertermittlung
 
 Der Sachwert des Beleihungsobjekts setzt sich aus dem Bodenwert und dem nach § 16 zu ermittelnden Wert der baulichen Anlage zusammen. Zu der baulichen Anlage gehören auch die Außenanlagen.
 
-
-## § 15 – Bodenwert
+# § 15 – Bodenwert
 
 (1) Zur Ermittlung des Bodenwerts sind Erhebungen anzustellen über
 
@@ -189,8 +171,7 @@ Der Sachwert des Beleihungsobjekts setzt sich aus dem Bodenwert und dem nach § 
 
 (2) Der Bodenwert ist nach Quadratmetern der Grundstücksfläche anzusetzen. Bei der Ermittlung des Bodenwerts darf keine höherwertige Nutzung als zulässig zugrunde gelegt werden.
 
-
-## § 16 – Wert der baulichen Anlage
+# § 16 – Wert der baulichen Anlage
 
 (1) Zur Ermittlung des Werts der baulichen Anlage sind die aus Erfahrungssätzen abzuleitenden Herstellungskosten je Raum- oder Flächeneinheit mit der Anzahl der entsprechenden Bezugseinheit des zu bewertenden Gebäudes zu vervielfachen (Herstellungswert). Die angesetzten Herstellungskosten müssen regional und objektspezifisch angemessen sein. Wertmäßig zu berücksichtigen sind dabei insbesondere
 
@@ -212,37 +193,31 @@ Die Kosten für Außenanlagen dürfen im Regelfall mit nicht mehr als 5 Prozent 
 
 (3) Baunebenkosten, insbesondere Kosten für Planung, Baudurchführung, behördliche Prüfungen und Genehmigungen, können nur in üblicher Höhe und soweit Berücksichtigung finden, wie ihnen eine dauernde Werterhöhung entspricht. Der Ansatz von Baunebenkosten ist auf bis zu 20 Prozent des nach Absatz 2 verminderten Herstellungswerts beschränkt.
 
-
-## § 17 – Wertminderung wegen Alters
+# § 17 – Wertminderung wegen Alters
 
 (1) Die Wertminderung wegen Alters bestimmt sich nach dem Verhältnis der Restnutzungsdauer zur Nutzungsdauer der baulichen Anlage; sie ist in einem Prozentsatz des Herstellungswerts auszudrücken. Bei der Bestimmung der Wertminderung kann je nach Art und Nutzung der baulichen Anlage von einer gleichmäßigen oder von einer mit zunehmendem Alter sich verändernden Wertminderung ausgegangen werden.
 
 (2) Ist die bei ordnungsgemäßem Gebrauch übliche Nutzungsdauer der baulichen Anlage durch Instandsetzungen oder Modernisierungen verlängert worden oder haben unterlassene Instandhaltung oder andere Gegebenheiten zu einer Verkürzung der Restnutzungsdauer geführt, soll der Bestimmung der Wertminderung wegen Alters die geänderte Restnutzungsdauer und die für die bauliche Anlage übliche Nutzungsdauer zugrunde gelegt werden.
 
-
-## § 18 – Berücksichtigung sonstiger wertbeeinflussender Umstände
+# § 18 – Berücksichtigung sonstiger wertbeeinflussender Umstände
 
 Sonstige nach den §§ 16 und 17 noch nicht erfasste, den Wert beeinflussende Umstände, insbesondere eine wirtschaftliche Überalterung, ein über- oder unterdurchschnittlicher Erhaltungszustand und ein erhebliches Abweichen der tatsächlichen von der vorgesehenen Nutzung, sind durch Zu- oder Abschläge oder in anderer geeigneter Weise zu berücksichtigen.
 
-
-## § 19 – Ermittlung des Vergleichswerts
+# § 19 – Ermittlung des Vergleichswerts
 
 (1) Zur Ermittlung des Vergleichswerts sind nachhaltig erzielbare Vergleichspreise von Objekten heranzuziehen, die hinsichtlich der maßgeblich ihren Wert beeinflussenden Merkmale, insbesondere Lage, Ausstattung und Nutzungsmöglichkeiten, mit dem zu bewertenden Objekt hinreichend übereinstimmen; die Vergleichspreise können aus Kaufpreis- oder anderen Marktdatensammlungen entnommen werden. Von dem so ermittelten Ausgangswert ist ein Sicherheitsabschlag in Höhe von mindestens 10 Prozent in Abzug zu bringen.
 
 (2) Bei Wohnungs- oder Teileigentum ergibt sich der Ausgangswert des zu bewertenden Objekts aus der Vervielfachung des Vergleichspreises je Quadratmeter Wohn- beziehungsweise Nutzfläche mit der gesamten Fläche des zu bewertenden Wohnungs- oder Teileigentums, im Falle von Stellplätzen aus der Vervielfachung des Vergleichspreises für einen Stellplatz mit der Anzahl der zu bewertenden Stellplätze; Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 20 – Bauland
+# § 20 – Bauland
 
 Bei der Wertermittlung von Bauland ist sowohl dessen Entwicklungszustand als auch der künftige Bedarf an Baugrundstücken zu prüfen. Zu Bebauungsrecht, Erschließungszustand und eventuellen Altlasten ist im Gutachten Stellung zu nehmen. Nur gesichertes Bebauungsrecht darf berücksichtigt werden. Der Wertansatz ist unter Berücksichtigung der vorgefundenen Grundstücksmerkmale aus geeigneten Vergleichswerten abzuleiten. § 15 Abs. 2 ist entsprechend anzuwenden.
 
-
-## § 21 – Erbbaurechte und andere grundstücksgleiche Rechte
+# § 21 – Erbbaurechte und andere grundstücksgleiche Rechte
 
 Bei der Beleihung von Erbbaurechten ist die Restlaufzeit des Erbbaurechts zu berücksichtigen. Sich aus dem Erbbaurecht ergebenden Einschränkungen ist durch angemessene Wertabschläge ausreichend Rechnung zu tragen. Im Gutachten ist darzulegen, ob und wie lange das Erbbaurecht im Hinblick auf seine Laufzeit und die bei seiner Beendigung für das Bauwerk vereinbarte Entschädigungsregelung angemessen verwertbar erscheint. Die Regelung gilt für andere grundstücksgleiche Rechte und solche Rechte einer ausländischen Rechtsordnung, die den grundstücksgleichen Rechten deutschen Rechts vergleichbar sind, entsprechend.
 
-
-## § 22 – Landwirtschaftlich genutzte Grundstücke
+# § 22 – Landwirtschaftlich genutzte Grundstücke
 
 (1) Landwirtschaftlich genutzte Grundstücke sind solche, deren überwiegender Teil des Rohertrags durch land- oder forstwirtschaftliche Nutzung erzielt wird.
 
@@ -250,13 +225,11 @@ Bei der Beleihung von Erbbaurechten ist die Restlaufzeit des Erbbaurechts zu ber
 
 (3) Sofern bebaute Grundstücke bei der Bewertung einbezogen werden sollen, sind für diese jeweils der Ertragswert und der Sachwert zu ermitteln. Den Gebäuden kann ein eigenständiger Wert, der bei der Beleihungswertermittlung berücksichtigt werden kann, nur dann beigemessen werden, wenn sie selbständig und auch außerhalb des jeweiligen landwirtschaftlichen Betriebs genutzt werden können. § 4 Abs. 4 ist entsprechend anzuwenden.
 
-
-## § 23 – Maschinen und Betriebseinrichtungen
+# § 23 – Maschinen und Betriebseinrichtungen
 
 Maschinen und Betriebseinrichtungen sind bei der Ermittlung des Sachwerts grundsätzlich unberücksichtigt zu lassen, sofern sie nicht wesentliche Bestandteile des Gegenstands der Beleihungswertermittlung im Sinne des § 2 sind. Der Wert solcher wesentlicher Bestandteile ist, wenn sich das Grundpfandrecht darauf erstreckt, unter Berücksichtigung einer normalen Abschreibung und ausreichender Abschläge für Abnutzung und technische Entwertung gesondert zu schätzen. Sofern bei Maschinen infolge der technischen Entwicklung mit einer schnellen Überalterung zu rechnen ist, können diese wertmäßig nicht angesetzt werden.
 
-
-## § 24 – Wohnwirtschaftlich genutzte Objekte bei Vergabe von Kleindarlehen
+# § 24 – Wohnwirtschaftlich genutzte Objekte bei Vergabe von Kleindarlehen
 
 (1) Bei der Beleihung eines im Inland gelegenen wohnwirtschaftlich genutzten Objekts kann auf die Erstellung eines Gutachtens nach § 5 verzichtet werden, wenn der auf dem Objekt abzusichernde Darlehensbetrag unter Einbeziehung aller Vorlasten den Betrag von 400.000 Euro nicht übersteigt. Bei einer teilweise gewerblichen Nutzung des Objekts darf jedoch der darauf entfallende Ertragsanteil ein Drittel des Rohertrags nicht überschreiten. Anstelle des Gutachtens ist eine vereinfachte Wertermittlung zu erstellen oder erstellen zu lassen, die den übrigen Anforderungen dieser Verordnung genügen muss.
 
@@ -290,8 +263,7 @@ Die Gründe für das Unterbleiben der Besichtigung sind in nachvollziehbarer Wei
 
 Die nach Satz 1 Nr. 2 erforderliche Plausibilitätsprüfung kann auf eine repräsentative, das erworbene Portfolio regional und objektmäßig abbildende Anzahl von Bewertungen beschränkt werden. Ergibt sich hierbei, dass die seinerzeit ermittelten Werte der Beleihungsobjekte nicht nur in Einzelfällen zu hoch angesetzt worden sind oder ergeben sich sonstige Zweifel bezüglich der Angemessenheit der ermittelten Werte, so ist in Abhängigkeit vom Ergebnis der Überprüfung die Stichprobe angemessen auszuweiten oder eine Einzelprüfung aller Bewertungen für bestimmte Regionen oder Objekttypen oder eine vollständige Neubewertung bestimmter oder aller Beleihungsobjekte nach Absatz 1 Satz 3 in Verbindung mit Absatz 2 Satz 1 und 2 durchzuführen. Die Wertermittlungen nach Satz 1 sind in die nach Absatz 2 Satz 3 vorzunehmende Überprüfung einzubeziehen.
 
-
-## § 25 – Beleihungen im Ausland
+# § 25 – Beleihungen im Ausland
 
 (1) Die Ermittlung des Beleihungswerts von außerhalb der Bundesrepublik Deutschland belegenen Objekten ist nach den §§ 1 bis 23 und 26 durchzuführen, soweit in den Absätzen 2 bis 5 nichts Abweichendes bestimmt ist.
 
@@ -303,25 +275,21 @@ Die nach Satz 1 Nr. 2 erforderliche Plausibilitätsprüfung kann auf eine reprä
 
 (5) Sieht die jeweilige landesspezifische Bewertungsmethodik üblicherweise einen Abzug von Bewirtschaftungskosten nicht oder nur in stark verminderter Form vor, kann der in § 11 Abs. 2 Satz 3 vorgeschriebene Mindestabzug auch in Form eines ergebnisgleichen Äquivalents durch Ansatz eines erhöhten Kapitalisierungszinssatzes erfolgen.
 
-
-## § 26 – Überprüfung der Grundlagen der Beleihungswertermittlung
+# § 26 – Überprüfung der Grundlagen der Beleihungswertermittlung
 
 (1) Bestehen Anhaltspunkte, dass sich die Grundlagen der Beleihungswertermittlung nicht nur unerheblich verschlechtert haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das allgemeine Preisniveau auf dem jeweiligen regionalen Immobilienmarkt in einem die Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Sofern es sich nicht um eigengenutzte Wohnimmobilien handelt, ist eine Überprüfung auch dann vorzunehmen, wenn die auf dem Beleihungsobjekt abgesicherte Forderung einen wesentlichen Leistungsrückstand von mindestens 90 Tagen aufweist. Der Beleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung zur Überprüfung des Beleihungswerts besteht, bleibt diese unberührt.
 
-
-## § 27 – Bezugsquelle der DIN-Norm
+# § 27 – Bezugsquelle der DIN-Norm
 
 Die in § 6 Satz 1 genannte DIN-Norm ist im Beuth Verlag GmbH, Berlin erschienen und im Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## § 28 – Inkrafttreten
+# § 28 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage 1 – (zu § 11 Abs. 2)  Bandbreite der Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten
+# Anlage 1 – (zu § 11 Abs. 2)  Bandbreite der Einzelkostenansätze für die Ermittlung der Bewirtschaftungskosten
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1182
 
@@ -341,8 +309,7 @@ b) Gewerbliche Objekte
 
 Bandbreite: 1% bis 3% des Jahresrohertrages
 
-In jedem Einzelfall ist darauf zu achten, dass der ausgewiesene absolute Betrag unzweifelhaft für eine ordnungsgemäße Verwaltung angemessen ist.  
-Instandhaltungskosten  
+In jedem Einzelfall ist darauf zu achten, dass der ausgewiesene absolute Betrag unzweifelhaft für eine ordnungsgemäße Verwaltung angemessen ist. Instandhaltungskosten  
 Kalkulationsbasis: Herstellungskosten pro qm Wohn- oder Nutzfläche (ohne Baunebenkosten und Außenanlagen). Die untere Grenze der Bandbreite ist in der Regel für neue, die obere Grenze für ältere Objekte angemessen. Objektzustand, Ausstattungsgrad und Alter sind bei der Bemessung der Instandhaltungskosten zu berücksichtigen.
 
 a) z\. B. Lager- und Produktionshallen mit Herstellungskosten von 250,00 bis 500,00 Euro/qm:
@@ -388,8 +355,7 @@ d) sehr hohes Modernisierungsrisiko
 
 (z. B. Sanatorien, Kliniken, Freizeitimmobilien mit höherem Standard, Hotels und Einzelhandelsobjekte mit besonders hohem Standard): 0,75% bis 3%
 
-
-## Anlage 2 – (zu § 12 Abs. 2)  Erfahrungssätze für die Nutzungsdauer baulicher Anlagen
+# Anlage 2 – (zu § 12 Abs. 2)  Erfahrungssätze für die Nutzungsdauer baulicher Anlagen
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1183
 
@@ -441,8 +407,7 @@ j) Tankstellen:
 
 10 bis 30 Jahre
 
-
-## Anlage 3 – (zu § 12 Abs. 4)  Bandbreiten für Kapitalisierungszinssätze
+# Anlage 3 – (zu § 12 Abs. 4)  Bandbreiten für Kapitalisierungszinssätze
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1184
 
@@ -506,8 +471,7 @@ m) Produktionsgebäude:
 
 7,0% bis 9,0%
 
-
-## Anlage 4 – (zu § 12 Abs. 1)  Vervielfältigertabelle
+# Anlage 4 – (zu § 12 Abs. 1)  Vervielfältigertabelle
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1185 - 1186)
 

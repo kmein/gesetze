@@ -1,10 +1,7 @@
-# [AuswSG] Gesetz zum Schutze der Auswanderer und Auswanderinnen  (Auswandererschutzgesetz - AuswSG)
-
-Ausfertigungsdatum: 26.03.1975
-
+% Gesetz zum Schutze der Auswanderer und Auswanderinnen  (Auswandererschutzgesetz - AuswSG)
+% Ausfertigungsdatum: 26.03.1975
  
-
-## § 1 – Erlaubnis zur Auswandererberatung
+# § 1 – Erlaubnis zur Auswandererberatung
 
 (1) Wer geschäftsmäßig Auskunft über die Aussichten der Auswanderung und über die Lebensverhältnisse im Einwanderungsland, insbesondere über die Arbeits- und Niederlassungsverhältnisse im Ausland oder in diesen Angelegenheiten Rat erteilen will, bedarf der Erlaubnis der zuständigen Behörde. Die Erlaubnis ist zu versagen, wenn Tatsachen die Annahme rechtfertigen, dass die antragstellende Person die für die Beratung erforderliche Zuverlässigkeit nicht besitzt, oder wenn die antragstellende Person die für die Beratung erforderliche Sachkunde nicht nachweist. Der Nachweis der Sachkunde gilt als erbracht, wenn die antragstellende Person fünf Jahre als unselbständiger Berater oder unselbständige Beraterin insbesondere bei einer in Absatz 2 genannten Auskunfts- oder Beratungsstelle tätig war. Die Erlaubnis kann unter Bedingungen erteilt und mit Auflagen verbunden werden; nachträgliche Auflagen sind zulässig; darauf ist in der Erlaubnis hinzuweisen. Die Erlaubnis wird von der zuständigen Stelle für das gesamte Bundesgebiet erteilt.
 
@@ -22,15 +19,13 @@ Ausfertigungsdatum: 26.03.1975
 
 3. die Verwendung von Vordrucken zur Beantragung der Erlaubnis anzuordnen, die Gestaltung der Vordrucke durch Muster festzulegen und Vorgaben zu treffen, wie und in welcher Anzahl die Vordrucke auszufüllen sind.
 
-
-## § 2 – Werbungsverbot
+# § 2 – Werbungsverbot
 
 (1) Es ist verboten, geschäftsmäßig für die Auswanderung zu werben.
 
 (2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen von Absatz 1 zulassen, soweit dies zur Durchsetzung zwischenstaatlicher Vereinbarungen erforderlich ist. Das Bundesministerium für Familie, Senioren, Frauen und Jugend kann Ausnahmen von Absatz 1 aus besonderen Gründen zulassen, wenn dieses im öffentlichen Interesse liegt oder aus Gründen humanitärer oder sozialer Art angezeigt ist, insbesondere bei der Rückwanderung von Ausländern in ihre Heimat oder bei der Weiterwanderung dieser Personen.
 
-
-## § 3 – Zuständigkeit und Verfahren
+# § 3 – Zuständigkeit und Verfahren
 
 (1) Für die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen ist das Bundesverwaltungsamt zuständig.
 
@@ -42,8 +37,7 @@ Ausfertigungsdatum: 26.03.1975
 
 (5) Die Verfahren nach diesem Gesetz können über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
-
-## § 3a – Gebühren und Auslagen
+# § 3a – Gebühren und Auslagen
 
 (1) Für Amtshandlungen nach diesem Gesetz und nach den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sind zur Deckung des Verwaltungsaufwandes Gebühren und Auslagen zu erheben.
 
@@ -51,8 +45,7 @@ Ausfertigungsdatum: 26.03.1975
 
 (3) In den Fällen der Zurückweisung oder Zurücknahme eines Widerspruchs ermäßigt sich die vorgesehene Gebühr um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies der Billigkeit entspricht.
 
-
-## § 4 – Erhebung, Verarbeitung und Nutzung personenbezogener Daten
+# § 4 – Erhebung, Verarbeitung und Nutzung personenbezogener Daten
 
 (1) Das Bundesverwaltungsamt darf personenbezogene Daten der antragstellenden Person erheben, soweit die Daten zur Beurteilung der Zuverlässigkeit und der sonstigen Zulassungskriterien erforderlich sind. Daten im Sinne des Satzes 1 sind Familienname, Vorname, gegebenenfalls Geburtsname, Tag und Ort der Geburt, Beruf, Anschrift und Telekommunikationsdaten.
 
@@ -60,8 +53,7 @@ Ausfertigungsdatum: 26.03.1975
 
 (3) Die nach Absatz 1 in Verbindung mit Absatz 2 erhobenen Daten dürfen nur für Zwecke des Absatzes 1 verarbeitet werden.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
 
@@ -75,5 +67,4 @@ Ausfertigungsdatum: 26.03.1975
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesverwaltungsamt.
 
-
-## § 6 – (Inkrafttreten)
+# § 6 – (Inkrafttreten)

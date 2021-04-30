@@ -1,13 +1,9 @@
-# [SchAusrV] Schiffsausrüstungsverordnung  (SchAusrV)
-
-Ausfertigungsdatum: 01.10.2008
-
+% Schiffsausrüstungsverordnung  (SchAusrV)
+% Ausfertigungsdatum: 01.10.2008
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Ausrüstung im Sinne des § 2 Nr. 2.
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 01.10.2008
 
 (3) Diese Verordnung gilt nicht für Schiffe der Bundeswehr und ausländische Kriegsschiffe.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeuten
 
@@ -120,8 +115,7 @@ die in § 8 genannte Behörde.
 
 Im Falle des Satzes 1 Nr. 10 steht die Einfuhr in den Europäischen Wirtschaftsraum dem Inverkehrbringen neuer Ausrüstung gleich.
 
-
-## § 3 – Benannte Stelle
+# § 3 – Benannte Stelle
 
 (1) Benannte Stelle, die zur Durchführung des Konformitätsbewertungsverfahrens befugt ist, ist jede nach den Absätzen 3 und 3a anerkannte juristische Person.
 
@@ -169,15 +163,13 @@ Der Nachweis nach Satz 1 Nummer 13 kann durch ein Audit des Antragstellers nach 
 
 (8) Die benannte Stelle wirkt an der europäischen Gruppe benannter Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
 
-
-## § 4 – Aufsicht über benannte Stellen und Audit
+# § 4 – Aufsicht über benannte Stellen und Audit
 
 (1) Die zuständige Behörde überwacht die benannten Stellen; dabei prüft die zuständige Behörde oder eine von ihr beauftragte unabhängige externe Einrichtung mindestens alle zwei Jahre die Erfüllung der Anforderungen des § 3 Abs. 2 (Audit). Die benannte Stelle wirkt hieran mit. Die zuständige Behörde kann erforderliche Anordnungen treffen, diese mit Auflagen verbinden sowie diese überwachen, um die Erfüllung der Anforderungen des § 3 Abs. 3 Satz 1 sicherzustellen.
 
 (2) Die zuständige Behörde unterrichtet das Bundesministerium für Verkehr und digitale Infrastruktur, wenn ihr für Zwecke des Absatzes 1 der Zugang zu Einrichtungen der benannten Stellen oder der Einblick in die erforderlichen Unterlagen verwehrt wird oder die Kriterien des § 3 Abs. 3 Satz 1 nicht erfüllt sind.
 
-
-## § 5 – Konformitätsbewertungsverfahren und Kennzeichnung
+# § 5 – Konformitätsbewertungsverfahren und Kennzeichnung
 
 (1) Der Hersteller oder sein Bevollmächtigter haben vor dem Inverkehrbringen einer Ausrüstung deren Konformität durch ein Konformitätsbewertungsverfahren nach Artikel 15 der Richtlinie 2014/90/EU in ihrer jeweils geltenden Fassung nachzuweisen.
 
@@ -185,8 +177,7 @@ Der Nachweis nach Satz 1 Nummer 13 kann durch ein Audit des Antragstellers nach 
 
 (3) Die nach Durchführung des Konformitätsbewertungsverfahrens zugelassene Ausrüstung muss mit der Kennzeichnung versehen sein.
 
-
-## § 6 – Anforderungen an Ausrüstung, Befugnisse
+# § 6 – Anforderungen an Ausrüstung, Befugnisse
 
 (1) Die Voraussetzung nach § 7a Abs. 1 des Seeaufgabengesetzes für das Inverkehrbringen, den Einbau, die Instandhaltung und die Verwendung von Ausrüstung ist gegeben, wenn diese
 
@@ -202,8 +193,7 @@ Der Nachweis nach Satz 1 Nummer 13 kann durch ein Audit des Antragstellers nach 
 
 (3) Die zuständige Behörde wirkt an der europäischen Gruppe benannter Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
 
-
-## § 7 – Maßnahmen
+# § 7 – Maßnahmen
 
 (1) Stellt die zuständige Behörde fest, dass Ausrüstung, die sachgemäß eingebaut, instand gehalten und ihrem Zweck entsprechend verwendet wird, trotz der Kennzeichnung eine Gefährdung für die Gesundheit oder Sicherheit der Besatzung, der Fahrgäste oder gegebenenfalls anderer Personen darstellen kann oder nach sachgemäßem Einbau darstellen würde oder die Meeresumwelt beeinträchtigen kann, so trifft sie alle geeigneten vorläufigen Maßnahmen im Sinne des Absatzes 3, um diese Ausrüstung stillzulegen, auszubauen oder in sonstiger Form nicht mehr zu verwenden oder ihr Inverkehrbringen oder die Ausstattung eines Schiffes mit dieser Ausrüstung zu verbieten oder einzuschränken. Die zuständige Behörde unterrichtet die Kommission in Fällen der Artikel 26 und 28 der Richtlinie 2014/90/EU in ihrer jeweils geltenden Fassung unverzüglich von dieser Maßnahme und gibt insbesondere an, ob die Abweichung von den Anforderungen zurückzuführen ist auf die Nichteinhaltung des Artikels 4 der Richtlinie 2014/90/EU oder eine mangelhafte Anwendung der in Artikel 4 genannten Prüfnormen oder Mängel in den Prüfnormen selbst. Die zuständige Behörde setzt die von der Kommission nach Artikel 27 Absatz 1 der Richtlinie 2014/90/EU getroffene Entscheidung in geeigneter Weise um und gibt diese bekannt.
 
@@ -227,13 +217,11 @@ Diese Maßnahmen können sich gegen jeden, der Ausrüstung in Verkehr bringt, we
 
 (5) Wenn der Mangel eines eingebauten Ausrüstungsgegenstandes nicht behoben wird, teilt die zuständige Behörde dies der für die Erteilung des betroffenen Schiffssicherheitszeugnisses zuständigen Verwaltung des Flaggenstaats mit.
 
-
-## § 8 – Zuständigkeiten
+# § 8 – Zuständigkeiten
 
 Das Bundesamt für Seeschifffahrt und Hydrographie ist zuständige Behörde im Sinne dieser Verordnung und führt diese aus, soweit nichts Anderes bestimmt ist.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 

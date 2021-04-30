@@ -1,15 +1,11 @@
-# [IndElErprobV] Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung in den industriellen Elektroberufen
-
-Ausfertigungsdatum: 03.07.2003
-
+% Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung in den industriellen Elektroberufen
+% Ausfertigungsdatum: 03.07.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit nach Anhörung des Ständigen Ausschusses des Bundesinstitutes für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand und Struktur der Erprobung
+# § 1 – Gegenstand und Struktur der Erprobung
 
 (1) Zur Erprobung einer neuen Ausbildungsform sollen die Leistungen der Zwischenprüfung nach den §§ 8, 12, 16, 20, 24 oder 28 der Verordnung über die Berufsausbildung in den industriellen Elektroberufen vom 3. Juli 2003 (BGBl. I S. 1144) als Teil 1 der Abschlussprüfung bewertet und in ein Gesamtergebnis der Abschlussprüfung einbezogen werden.
 
@@ -25,8 +21,7 @@ Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (7) Der Erprobung ist die Verordnung über die Berufsausbildung in den industriellen Elektroberufen vom 3. Juli 2003 (BGBl. I S. 1144) mit Ausnahme der §§ 30 bis 32 zugrunde zu legen.
 
-
-## § 2 – Bestehensregelung
+# § 2 – Bestehensregelung
 
 (1) Bei der Ermittlung des Gesamtergebnisses ist Teil 1 der Abschlussprüfung mit 40 Prozent und Teil 2 mit 60 Prozent zu gewichten.
 
@@ -44,21 +39,18 @@ mindestens ausreichende Leistungen erbracht wurden. Dabei haben die Prüfungsber
 
 (4) Die Prüfungsbereiche Systementwurf, Funktions- und Systemanalyse sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 3 – Übergangsregelung
+# § 3 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die für sie jeweils geltenden bisherigen Vorschriften weiter anzuwenden; die Vertragsparteien können den Verzicht auf die weitere Anwendung vereinbaren, wenn noch keine Zwischenprüfung abgelegt worden ist.
 
 (2) Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2007 begonnen wurden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 
-
-## § 3 – Übergangsregelung
+# § 3 – Übergangsregelung
 
 (1) (weggefallen)
 
 (2) Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2007 begonnen wurden, sind die Vorschriften dieser Verordnung weiter anzuwenden.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft und mit Ausnahme von § 3 Abs. 2 am 31. Juli 2007 außer Kraft.

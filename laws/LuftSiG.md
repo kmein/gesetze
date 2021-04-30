@@ -1,10 +1,7 @@
-# [LuftSiG] Luftsicherheitsgesetz  (LuftSiG)
-
-Ausfertigungsdatum: 11.01.2005
-
+% Luftsicherheitsgesetz  (LuftSiG)
+% Ausfertigungsdatum: 11.01.2005
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -154,13 +151,11 @@ Grundrechtseinschränkungen
 
 Übergangsregelung
 
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 Dieses Gesetz dient dem Schutz vor Angriffen auf die Sicherheit des zivilen Luftverkehrs, insbesondere vor Flugzeugentführungen, Sabotageakten und terroristischen Anschlägen.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 Die Luftsicherheitsbehörde hat die Aufgabe, Angriffe auf die Sicherheit des Luftverkehrs im Sinne des § 1 abzuwehren. Dazu gehört insbesondere, dass sie:
 
@@ -174,8 +169,7 @@ Die Luftsicherheitsbehörde hat die Aufgabe, Angriffe auf die Sicherheit des Luf
 
 5. Sicherheitsmaßnahmen der Flugplatzbetreiber nach § 8, der Luftfahrtunternehmen nach § 9 und der Beteiligten an der sicheren Lieferkette nach § 9a anordnet und deren Einhaltung überwacht.
 
-
-## § 3 – Allgemeine Befugnisse der Luftsicherheitsbehörde
+# § 3 – Allgemeine Befugnisse der Luftsicherheitsbehörde
 
 (1) Die Luftsicherheitsbehörde trifft die notwendigen Maßnahmen, um eine im Einzelfall bestehende Gefahr für die Sicherheit des zivilen Luftverkehrs abzuwehren, soweit nicht dieses Gesetz ihre Befugnisse besonders regelt.
 
@@ -187,15 +181,13 @@ Die Luftsicherheitsbehörde hat die Aufgabe, Angriffe auf die Sicherheit des Luf
 
 (5) Die Aufgaben und Befugnisse der Polizeivollzugsbehörden bleiben unberührt.
 
-
-## § 3a – Flugverbot
+# § 3a – Flugverbot
 
 (1) Bei tatsächlichen Anhaltspunkten für eine erhebliche Gefährdung der Luftsicherheit kann die Luftsicherheitsbehörde für einzelne Luftfahrzeuge oder eine näher bestimmte Gruppe von Luftfahrzeugen für alle oder bestimmte Beförderungsarten ein Einflug-, Überflug- oder Startverbot verhängen. Das Verbot kann ungeachtet einer Erlaubnis oder einer Erlaubnisfreiheit nach § 2 Absatz 7 des Luftverkehrsgesetzes verhängt werden. Widerspruch und Anfechtungsklage gegen die Anordnung nach Satz 1 haben keine aufschiebende Wirkung. Eine Kombination mehrerer Maßnahmen nach Satz 1 ist möglich. Das Verbot ist auf das gebotene Maß zu beschränken, zeitlich zu befristen und kann bei Fortbestehen der Gefährdungslage nach Satz 1 im erforderlichen Umfang, auch mehrfach, verlängert werden.
 
 (2) Fliegt ein Luftfahrtunternehmen Fracht oder Post aus einem Drittstaat zwecks Transfer, Transit oder zum Entladen in die Bundesrepublik Deutschland ein, ohne als Unternehmen, das Luftfracht oder Luftpost von einem Drittstaaten-Flughafen in die Europäische Union befördert (ACC3) nach Kapitel 6.8. des Anhangs der Durchführungsverordnung (EU) 2015/1998 der Kommission vom 5. November 2015 zur Festlegung detaillierter Maßnahmen für die Durchführung der gemeinsamen Grundstandards für die Luftsicherheit (ABl. L 299 vom 14.11.2015, S. 1) in der jeweils geltenden Fassung benannt zu sein oder verstößt es gegen seine Pflichten nach den Ziffern 6.8.3.1. bis 6.8.3.3. des Anhangs der Durchführungsverordnung (EU) 2015/1998, so kann die Luftsicherheitsbehörde gegenüber diesem ein Flugverbot im Sinne des Absatzes 1 verhängen. Widerspruch und Anfechtungsklage gegen die Anordnung haben keine aufschiebende Wirkung. Absatz 1 Satz 4 gilt entsprechend.
 
-
-## § 4 – Grundsatz der Verhältnismäßigkeit
+# § 4 – Grundsatz der Verhältnismäßigkeit
 
 (1) Von mehreren möglichen und geeigneten Maßnahmen ist diejenige zu treffen, die den Einzelnen oder die Allgemeinheit voraussichtlich am wenigsten beeinträchtigt.
 
@@ -203,8 +195,7 @@ Die Luftsicherheitsbehörde hat die Aufgabe, Angriffe auf die Sicherheit des Luf
 
 (3) Eine Maßnahme ist nur solange zulässig, bis ihr Zweck erreicht ist oder sich zeigt, dass er nicht erreicht werden kann.
 
-
-## § 5 – Besondere Befugnisse der Luftsicherheitsbehörden
+# § 5 – Besondere Befugnisse der Luftsicherheitsbehörden
 
 (1) Die Luftsicherheitsbehörde kann Personen, welche den Sicherheitsbereich des Flugplatzes betreten haben oder betreten wollen, durchsuchen oder in sonstiger geeigneter Weise überprüfen. Sie kann Gegenstände durchsuchen, durchleuchten oder in sonstiger geeigneter Weise überprüfen, die in diese Bereiche verbracht wurden oder werden sollen. Die Luftsicherheitsbehörde kann die Orte, an denen die Sicherheitskontrollen stattfinden, durch bewaffnete Polizeivollzugsbeamte schützen, die Sicherheitsbereiche des Flughafens bestreifen und gefährdete Flugzeuge durch bewaffnete Standposten sichern.
 
@@ -220,15 +211,13 @@ Die Luftsicherheitsbehörde hat die Aufgabe, Angriffe auf die Sicherheit des Luf
 
 (+++ § 5 Abs. 3 Satz 2: Zur Anwendung vgl. § 9a Abs. 3 Satz 4 +++)
 
-
-## § 6 – Verarbeitung personenbezogener Daten
+# § 6 – Verarbeitung personenbezogener Daten
 
 (1) Die Befugnis zur Verarbeitung personenbezogener Daten richtet sich nach den für die Luftsicherheitsbehörden geltenden Vorschriften des Bundes- oder Landesrechts, soweit dieses Gesetz nichts anderes bestimmt.
 
 (2) Unbeschadet einer sich aus Absatz 1 ergebenden Übermittlungsbefugnis dürfen die Luftsicherheitsbehörden personenbezogene Daten an öffentliche Stellen außerhalb des Geltungsbereichs dieses Gesetzes übermitteln, wenn dies zur Abwehr unmittelbar drohender erheblicher Gefahren für die Sicherheit des Luftverkehrs, insbesondere bei erfolgten oder drohenden terroristischen Angriffen, erforderlich ist.
 
-
-## § 7 – Zuverlässigkeitsüberprüfungen
+# § 7 – Zuverlässigkeitsüberprüfungen
 
 (1) Zum Schutz vor Angriffen auf die Sicherheit des zivilen Luftverkehrs (§ 1) hat die Luftsicherheitsbehörde die Zuverlässigkeit folgender Personen zu überprüfen:
 
@@ -270,8 +259,7 @@ Bei sonstigen Verurteilungen oder beim Vorliegen sonstiger Erkenntnisse ist im W
 
 5. Angabe von unterschiedlichen beziehungsweise falschen Identitäten bei behördlichen Vorgängen.
 
-(2) Die Überprüfung erfolgt auf Antrag der betroffenen Person. Die Kosten für die Überprüfung zur Ausübung einer beruflichen Tätigkeit trägt der Arbeitgeber.  
-Die betroffene Person ist bei Antragstellung über
+(2) Die Überprüfung erfolgt auf Antrag der betroffenen Person. Die Kosten für die Überprüfung zur Ausübung einer beruflichen Tätigkeit trägt der Arbeitgeber. Die betroffene Person ist bei Antragstellung über
 
 1. die zuständige Luftsicherheitsbehörde,
 
@@ -281,8 +269,7 @@ Die betroffene Person ist bei Antragstellung über
 
 4. die Übermittlungsempfänger nach Absatz 7 Satz 2 und 3
 
-zu unterrichten.  
-Auf Antrag der betroffenen Person entfällt die Überprüfung, wenn die betroffene Person nach § 9 oder § 10 des Sicherheitsüberprüfungsgesetzes überprüft wurde. Über das Entfallen einer Überprüfung unterrichtet die Luftsicherheitsbehörde die nach § 3 oder § 25 des Sicherheitsüberprüfungsgesetzes zuständige Stelle. Die nach § 3 oder § 25 des Sicherheitsüberprüfungsgesetzes zuständige Stelle informiert die Luftsicherheitsbehörde, wenn ein Sicherheitsrisiko nach § 5 des Sicherheitsüberprüfungsgesetzes festgestellt oder die Betrauung der betroffenen Person mit einer sicherheitsempfindlichen Tätigkeit gemäß § 16 Absatz 3 Satz 1 des Sicherheitsüberprüfungsgesetzes vorläufig untersagt wurde.
+zu unterrichten. Auf Antrag der betroffenen Person entfällt die Überprüfung, wenn die betroffene Person nach § 9 oder § 10 des Sicherheitsüberprüfungsgesetzes überprüft wurde. Über das Entfallen einer Überprüfung unterrichtet die Luftsicherheitsbehörde die nach § 3 oder § 25 des Sicherheitsüberprüfungsgesetzes zuständige Stelle. Die nach § 3 oder § 25 des Sicherheitsüberprüfungsgesetzes zuständige Stelle informiert die Luftsicherheitsbehörde, wenn ein Sicherheitsrisiko nach § 5 des Sicherheitsüberprüfungsgesetzes festgestellt oder die Betrauung der betroffenen Person mit einer sicherheitsempfindlichen Tätigkeit gemäß § 16 Absatz 3 Satz 1 des Sicherheitsüberprüfungsgesetzes vorläufig untersagt wurde.
 
 (3) Zur Überprüfung der Zuverlässigkeit darf die Luftsicherheitsbehörde
 
@@ -351,8 +338,7 @@ Wenn Grund zu der Annahme besteht, dass durch die Löschung die schutzwürdigen 
 (+++ § 7 Abs. 1 Satz 2: Zur Anwendung vgl. § 22 Abs. 1 +++)  
 § 7 Abs. 1 Satz 1 Nr. 4 (früher Nr. 4): Die Vorschrift ist iVm § 4 Abs. 1 Satz 2 Nr. 3 LuftVG (96-1) idF d. Art. 2 Nr. 1 G v. 11.1.2005 I 78 mit dem GG (100-1) vereinbar gem. BVerfGE v. 4.5.2010 I 885 - 2 BvL 8/07, 2 BvL 9/07
 
-
-## § 7a – Gemeinsames Luftsicherheitsregister
+# § 7a – Gemeinsames Luftsicherheitsregister
 
 (1) Die Luftsicherheitsbehörden der Länder können ein gemeinsames Luftsicherheitsregister errichten und führen, in dem für Zwecke des Absatzes 2 Daten nach Absatz 3 von zuverlässigkeitsüberprüften Personen nach § 7 Absatz 1 gespeichert werden dürfen. Die Luftsicherheitsbehörden nach Satz 1 können sich auf eine ausführende Stelle verständigen.
 
@@ -408,8 +394,7 @@ Die Protokolldaten sind nach zwei Jahren zu löschen.
 
 (9) Für die Löschung der im gemeinsamen Luftsicherheitsregister gespeicherten Daten gilt § 7 Absatz 11 Satz 1 Nummer 1 entsprechend.
 
-
-## § 8 – Sicherheitsmaßnahmen der Flugplatzbetreiber
+# § 8 – Sicherheitsmaßnahmen der Flugplatzbetreiber
 
 (1) Der Betreiber eines Flugplatzes ist zum Schutz des Flughafenbetriebs vor Angriffen auf die Sicherheit des Luftverkehrs verpflichtet,
 
@@ -435,8 +420,7 @@ Die in Satz 1 Nummer 1 bis 8 aufgeführten Sicherheitsmaßnahmen sind von dem Be
 
 (3) Für die Bereitstellung und Unterhaltung von Räumen und Flächen nach den Absätzen 1 und 2, die der für die Durchführung der Maßnahmen gemäß § 5 zuständigen Behörde zur Verfügung gestellt worden sind, kann der Verpflichtete die Vergütung seiner Selbstkosten verlangen. Im Übrigen trägt der Verpflichtete die Kosten für die Sicherheitsmaßnahmen nach den Absätzen 1 und 2. Zur Feststellung der Selbstkosten im Sinne dieses Gesetzes finden die Vorschriften des Preisrechts bei öffentlichen Aufträgen entsprechende Anwendung. Unterschreitet der Marktpreis die Selbstkosten, ist der Marktpreis maßgeblich.
 
-
-## § 9 – Sicherheitsmaßnahmen der Luftfahrtunternehmen
+# § 9 – Sicherheitsmaßnahmen der Luftfahrtunternehmen
 
 (1) Ein Luftfahrtunternehmen ist zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs verpflichtet,
 
@@ -474,8 +458,7 @@ Die in Satz 1 Nummer 1 bis 6 aufgeführten Sicherheitsmaßnahmen sind von dem Un
 
 (4) Ein anderer als der in Absatz 1 bezeichnete Halter von Luftfahrzeugen kann von der Luftsicherheitsbehörde zur Durchführung der Sicherheitsmaßnahmen entsprechend den Absätzen 1 bis 3 verpflichtet werden, soweit dies zur Sicherung des Flugbetriebs erforderlich ist.
 
-
-## § 9a – Sicherheitsmaßnahmen der Beteiligten an der sicheren Lieferkette
+# § 9a – Sicherheitsmaßnahmen der Beteiligten an der sicheren Lieferkette
 
 (1) Reglementierte Beauftragte, bekannte Versender, Transporteure, andere Stellen nach Ziffer 6.3.1.1. Buchstabe c des Anhangs der Durchführungsverordnung (EU) 2015/1998, reglementierte Lieferanten und bekannte Lieferanten sind zum Schutz vor Angriffen auf die Sicherheit des Luftverkehrs verpflichtet, Sicherheitsmaßnahmen nach den Kapiteln 6, 8, 9, 11 und 12 des Anhangs der Verordnung (EG) Nr. 300/2008 und der Durchführungsverordnung (EU) 2015/1998 durchzuführen. Die in Satz 1 aufgeführten Sicherheitsmaßnahmen sind von den genannten Stellen in einem Sicherheitsprogramm im Sinne des Artikels 14 Absatz 1 der Verordnung (EG) Nr. 300/2008 darzustellen.
 
@@ -497,13 +480,11 @@ Die in Satz 1 Nummer 1 bis 6 aufgeführten Sicherheitsmaßnahmen sind von dem Un
 
 (6) Die Dokumentation ist für Qualitätskontrollmaßnahmen der zuständigen Luftsicherheitsbehörde für die Dauer des Fluges, auf dem die Sendung transportiert wird, mindestens jedoch für 48 Stunden, jederzeit zur Verfügung zu halten und auf Verlangen vorzulegen. Nach Ablauf dieser Frist sind die personenbezogenen Daten zu löschen. Die Löschung der Daten braucht der betroffenen Person nicht mitgeteilt zu werden.
 
-
-## § 10 – Zugangsberechtigung
+# § 10 – Zugangsberechtigung
 
 Die Luftsicherheitsbehörde entscheidet, welchen Personen bei Vorliegen der Voraussetzungen die Berechtigung zum Zugang zur Luftseite sowie zum Zugang zum Sicherheitsbereich oder zum sensiblen Teil des Sicherheitsbereichs erteilt werden darf oder bei Wegfall der Voraussetzungen zu entziehen ist. Nach Abschluss der Zuverlässigkeitsüberprüfung nach § 7 Abs. 1 kann der betroffenen Person zum Nachweis der Zugangsberechtigung ein Ausweis durch den Unternehmer nach § 8 Abs. 1 oder § 9 Abs. 1 ausgestellt werden. Der Ausweisinhaber ist verpflichtet, den Ausweis in den Sicherheitsbereichen offen sichtbar zu tragen und ihn nach Ablauf der Gültigkeitsdauer oder auf Verlangen zurückzugeben. Der Ausweisinhaber darf den Ausweis keinem Dritten überlassen. Sein Verlust ist der Ausgabestelle unverzüglich anzuzeigen. Der Zugang oder die Verschaffung des Zugangs zur Luftseite sowie zu den Sicherheitsbereichen ohne Berechtigung ist verboten.
 
-
-## § 10a – Sicherheitsausrüstung
+# § 10a – Sicherheitsausrüstung
 
 (1) Sicherheitsausrüstung sind Kontrollmittel zur Durchführung der Kontrollen von Fluggästen und Handgepäck, von aufgegebenem Gepäck, von anderen Personen als Fluggästen und mitgeführten Gegenständen, von Fracht und Post, von Bordvorräten und Flughafenlieferungen sowie von sonstigen Gegenständen, die auf die Luftseite des Flugplatzes verbracht wurden oder werden sollen. Zur Sicherheitsausrüstung zählen auch Sprengstoffspürhunde oder andere für das Aufspüren von Stoffen ausgebildete Tiere. Keine Sicherheitsausrüstung nach Satz 1 sind einfache Hilfsmittel und Alltagsgegenstände, die üblicherweise auch außerhalb von Sicherheitskontrollen verwendet werden.
 
@@ -519,8 +500,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 (4) Die Luftsicherheitsbehörde überwacht die Einhaltung der einschlägigen gesetzlichen Regelungen bei Verwendung der zertifizierten und zugelassenen Sicherheitsausrüstung.
 
-
-## § 11 – Verbotene Gegenstände
+# § 11 – Verbotene Gegenstände
 
 (1) Das Mitführen im Handgepäck oder Ansichtragen von
 
@@ -546,8 +526,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 (3) § 27 Abs. 2 des Luftverkehrsgesetzes bleibt unberührt.
 
-
-## § 12 – Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugführers
+# § 12 – Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugführers
 
 (1) Der verantwortliche Luftfahrzeugführer hat als Beliehener für die Aufrechterhaltung der Sicherheit und Ordnung an Bord des im Flug befindlichen Luftfahrzeuges zu sorgen. Er ist nach Maßgabe von Absatz 2 und der sonst geltenden Gesetze befugt, die erforderlichen Maßnahmen zu treffen.
 
@@ -567,8 +546,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 (5) Der verantwortliche Luftfahrzeugführer hat den Schaden zu ersetzen, welcher der Bundesrepublik Deutschland durch rechtswidrige und vorsätzliche oder grob fahrlässige Verletzung seiner Pflichten bei Ausübung der Aufgaben und Befugnisse nach den Absätzen 1 bis 3 entsteht. Wird der Flug von einem Luftfahrtunternehmen durchgeführt, hat dieses den Schaden zu ersetzen, welcher der Bundesrepublik Deutschland durch eine rechtswidrige und schuldhafte Verletzung der Pflichten des verantwortlichen Luftfahrzeugführers oder seiner Beauftragten bei Ausübung der Aufgaben und Befugnisse nach den Absätzen 1 bis 3 entsteht.
 
-
-## § 13 – Entscheidung der Bundesregierung
+# § 13 – Entscheidung der Bundesregierung
 
 (1) Liegen auf Grund eines erheblichen Luftzwischenfalls Tatsachen vor, die im Rahmen der Gefahrenabwehr die Annahme begründen, dass ein besonders schwerer Unglücksfall nach Artikel 35 Abs. 2 Satz 2 oder Abs. 3 des Grundgesetzes bevorsteht, können die Streitkräfte, soweit es zur wirksamen Bekämpfung erforderlich ist, zur Unterstützung der Polizeikräfte der Länder im Luftraum zur Verhinderung dieses Unglücksfalles eingesetzt werden.
 
@@ -580,8 +558,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 §§ 13 bis 15: Nach Maßgabe der Entscheidungssformel mit dem GG vereinbar gem. BVerfGE v. 20.3.2013 I 1118 - 2 BvF 1/05 -
 
-
-## § 14 – Einsatzmaßnahmen, Anordnungsbefugnis
+# § 14 – Einsatzmaßnahmen, Anordnungsbefugnis
 
 (1) Zur Verhinderung des Eintritts eines besonders schweren Unglücksfalles dürfen die Streitkräfte im Luftraum Luftfahrzeuge abdrängen, zur Landung zwingen, den Einsatz von Waffengewalt androhen oder Warnschüsse abgeben.
 
@@ -591,8 +568,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 §§ 13 bis 15: Nach Maßgabe der Entscheidungssformel mit dem GG vereinbar gem. BVerfGE v. 20.3.2013 I 1118 - 2 BvF 1/05 -
 
-
-## § 15 – Sonstige Maßnahmen
+# § 15 – Sonstige Maßnahmen
 
 (1) Die Maßnahmen nach § 14 Absatz 1 dürfen erst nach Überprüfung sowie erfolglosen Versuchen zur Warnung und Umleitung getroffen werden. Zu diesem Zweck können die Streitkräfte auf Ersuchen der Flugsicherungsorganisation im Luftraum Luftfahrzeuge überprüfen, umleiten oder warnen. Ein generelles Ersuchen ist zulässig. Die Voraussetzungen für ein Tätigwerden werden in diesem Fall durch vorherige Vereinbarung festgelegt.
 
@@ -602,8 +578,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 §§ 13 bis 15: Nach Maßgabe der Entscheidungssformel mit dem GG vereinbar gem. BVerfGE v. 20.3.2013 I 1118 - 2 BvF 1/05 -
 
-
-## § 16 – Zuständigkeiten
+# § 16 – Zuständigkeiten
 
 (1) Die örtliche Zuständigkeit der Luftsicherheitsbehörden für die Aufgaben nach § 2 erstreckt sich auf das Flugplatzgelände. Die Maßnahmen nach § 3 Absatz 4 und § 5 Absatz 3 sowie die Überprüfungen der Verfahren zum sicheren Umgang der Unternehmen mit Fracht, Post, Flughafenlieferungen und Bordvorräten sowie Post und Material von Luftfahrtunternehmen kann die Luftsicherheitsbehörde auch außerhalb des Flugplatzgeländes durchführen.
 
@@ -623,8 +598,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 (5) Die Befugnis nach § 3a Absatz 1 wird vom Bundesministerium des Innern im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur wahrgenommen. Bei Gefahr im Verzug kann auf das Benehmen nach Satz 1 verzichtet werden. Die Befugnis nach § 3a Absatz 2 wird vom Luftfahrt-Bundesamt wahrgenommen.
 
-
-## § 16a – Beleihung
+# § 16a – Beleihung
 
 (1) Die zuständige Luftsicherheitsbehörde kann natürlichen Personen sowie teilrechtsfähigen Vereinigungen und juristischen Personen des Privatrechts als Beliehenen die Wahrnehmung folgender Aufgaben übertragen:
 
@@ -650,8 +624,7 @@ Die beleihende Behörde hat sich anhand geeigneter Nachweise vom Vorliegen der i
 
 (6) Wird der Rechtsträger der Luftsicherheitsbehörde, die die Beleihung vorgenommen hat, von einem Dritten wegen eines Schadens in Anspruch genommen, den der Beliehene in Ausübung des ihm anvertrauten Amtes diesem durch eine Amtspflichtverletzung zugefügt hat, so kann der Rechtsträger bei Vorsatz und grober Fahrlässigkeit beim Beliehenen Rückgriff nehmen. Vertragliche Ansprüche des Rechtsträgers aus demselben Schadensereignis gegen Dritte, insbesondere den Arbeitgeber des Beliehenen, bleiben unberührt und sind vorrangig geltend zu machen.
 
-
-## § 17 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 17 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Das Bundesministerium des Innern regelt durch Rechtsverordnung mit Zustimmung des Bundesrates die Einzelheiten der Zuverlässigkeitsüberprüfung nach § 7, insbesondere
 
@@ -671,8 +644,7 @@ Die beleihende Behörde hat sich anhand geeigneter Nachweise vom Vorliegen der i
 
 (7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium des Innern ohne Zustimmung des Bundesrates Einzelheiten zu Zulassung, Rezertifizierung und Schulung der EU-Validierungsprüfer für die Luftsicherheit zu regeln.
 
-
-## § 17a – Gebühren und Auslagen; Verordnungsermächtigung
+# § 17a – Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und der Verordnung (EG) Nr. 300/2008 werden Gebühren und Auslagen nach den Absätzen 2 bis 4 erhoben.
 
@@ -682,8 +654,7 @@ Die beleihende Behörde hat sich anhand geeigneter Nachweise vom Vorliegen der i
 
 (4) Das Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie sowie mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Gebührenhöhe zu bestimmen. Ferner können in der Rechtsverordnung nach Satz 1 die Gebührengläubigerschaft und die Gebührenschuldnerschaft abweichend von den Vorschriften der §§ 5 und 6 des Bundesgebührengesetzes bestimmt werden. Die Rechtsverordnung nach Satz 1 kann eine Pflicht der Gebührenschuldner zur Auskunft über die Zahl der betroffenen Fluggäste sowie über Art und Umfang der beförderten Gegenstände enthalten; Auskünfte an die betroffene Person über die zu ihr in Luftfahrtdateien gespeicherten personenbezogenen Daten sind gebühren- und auslagenfrei.
 
-
-## § 18 – Bußgeldvorschriften
+# § 18 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -711,15 +682,13 @@ Die beleihende Behörde hat sich anhand geeigneter Nachweise vom Vorliegen der i
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Luftsicherheitsbehörde.
 
-
-## § 19 – Strafvorschriften
+# § 19 – Strafvorschriften
 
 (1) Wer entgegen § 11 Absatz 1 Satz 1 einen dort genannten Gegenstand in einem Luftfahrzeug oder auf einem Flugplatz in einem Bereich der Luftseite, der zugleich Sicherheitsbereich ist, mit sich führt oder an sich trägt, wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe bestraft.
 
 (2) Wer die Tat fahrlässig begeht, wird mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu einhundertachtzig Tagessätzen bestraft.
 
-
-## § 20 – Bußgeld- und Strafvorschriften zu § 12
+# § 20 – Bußgeld- und Strafvorschriften zu § 12
 
 (1) Ordnungswidrig handelt, wer entgegen § 12 Abs. 4 als an Bord befindliche Person den Anordnungen des Luftfahrzeugführers oder seiner Beauftragten nicht Folge leistet. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden. Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt.
 
@@ -731,13 +700,11 @@ Die beleihende Behörde hat sich anhand geeigneter Nachweise vom Vorliegen der i
 
 2. der Täter durch eine Gewalttätigkeit den Angegriffenen in die Gefahr des Todes oder einer schweren Gesundheitsbeschädigung bringt.
 
-
-## § 21 – Grundrechtseinschränkungen
+# § 21 – Grundrechtseinschränkungen
 
 Die Grundrechte auf Leben, körperliche Unversehrtheit und Freiheit der Person (Artikel 2 Abs. 2 Satz 1 und 2 des Grundgesetzes), das Grundrecht des Postgeheimnisses (Artikel 10 Abs. 1 des Grundgesetzes) und das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 22 – Übergangsregelung
+# § 22 – Übergangsregelung
 
 (1) Die Regelung in § 7 Absatz 1 Satz 2 ist erst ein Jahr nach dem 4. März 2017 anzuwenden. Bereits vor diesem Zeitpunkt können die Betroffenen einen Antrag auf Zuverlässigkeitsüberprüfung stellen.
 

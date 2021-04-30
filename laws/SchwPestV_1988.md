@@ -1,12 +1,7 @@
-# [SchwPestV 1988] Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest   (Schweinepest-Verordnung)
-
-Ausfertigungsdatum: 03.08.1988
-
+% Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest   (Schweinepest-Verordnung)
+% Ausfertigungsdatum: 03.08.1988
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -14,8 +9,9 @@ Ausfertigungsdatum: 03.08.1988
 
  
 
+ 
 
-## § 1
+# § 1
 
 (1) Im Sinne dieser Verordnung liegen vor:
 
@@ -61,20 +57,17 @@ alle Schweineställe oder sonstigen Standorte zur ständigen oder vorübergehend
 
 ein räumlich und lüftungstechnisch abgegrenzter Bereich eines Betriebs, der auf Grund seiner Struktur, seines Umfangs und seiner Funktion in Bezug auf die Haltung einschließlich der Betreuung, Fütterung und Entsorgung vollständig getrennt von anderen Bereichen des Betriebs ist.
 
-
-## § 2 – Impfverbot
+# § 2 – Impfverbot
 
 (1) Impfungen gegen die Schweinepest oder die Afrikanische Schweinepest sowie Heilversuche an seuchenkranken und seuchenverdächtigen Schweinen sind verboten, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
 (2) Die zuständige Behörde kann im Einzelfall bei der Schweinepest oder der Afrikanischen Schweinepest abweichend von Absatz 1 Impfungen für wissenschaftliche Versuche und Impfstoffprüfungen genehmigen, sofern Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 2a – Verbot des Verfütterns von Küchen- und Speiseabfällen
+# § 2a – Verbot des Verfütterns von Küchen- und Speiseabfällen
 
 Das Verfüttern von Küchen- und Speiseabfällen an Schweine, die keine Nutztiere im Sinne des Artikels 3 Nummer 6 Buchstabe a der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (ABl. L 300 vom 14.11.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 1385/2013 (ABl. L 354 vom 28.12.2013, S. 86) geändert worden ist, sind, ist verboten.
 
-
-## § 2b – Reinigung und Desinfektion von Transportfahrzeugen
+# § 2b – Reinigung und Desinfektion von Transportfahrzeugen
 
 (1) Fahrzeuge für den Transport von Schweinen, mit denen ein Betrieb oder eine Schlachtstätte angefahren worden ist, der oder die in einem in Teil I, II oder III des Anhangs des Durchführungsbeschlusses 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Maßnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU (ABl. L 295 vom 11.10.2014, S. 63), der zuletzt durch den Durchführungsbeschluss (EU) 2018/1689 (ABl. L 279 vom 9.11.2018, S. 39) geändert worden ist, in der jeweils geltenden Fassung bezeichneten Gebiet gelegen ist, und mit denen ein Betrieb oder eine Schlachtstätte im Inland angefahren wird, sowie die bei einem solchen Transport verwendete Ausrüstung, sind nach Maßgabe des Satzes 2 zu reinigen und zu desinfizieren. Die Reinigung und Desinfektion hat nach Maßgabe des Anhangs II Nummer 1 der Richtlinie 2002/60/EG des Rates vom 27. Juni 2002 zur Festlegung von besonderen Vorschriften für die Bekämpfung der Afrikanischen Schweinepest sowie zur Änderung der Richtlinie 92/119/EWG hinsichtlich der Teschener Krankheit und der Afrikanischen Schweinepest (ABl. L 192 vom 20.7.2002, S. 27), die zuletzt durch die Richtlinie 2008/73/EG (ABl. L 219 vom 14.8.2008, S. 40) geändert worden ist, in der jeweils geltenden Fassung zu erfolgen. § 17 Absatz 1 der Viehverkehrsverordnung findet keine Anwendung, soweit ein Betrieb nach Satz 1 angefahren wird, § 17 Absatz 2 der Viehverkehrsverordnung findet keine Anwendung, soweit eine Schlachtstätte nach Satz 1 angefahren wird.
 
@@ -92,8 +85,7 @@ und jeweils spätestens, bevor ein Betrieb oder eine Schlachtstätte erreicht wi
 
 (5) § 22 Absatz 1 der Viehverkehrsverordnung sowie das Recht über tierische Nebenprodukte bleiben unberührt.
 
-
-## § 3 – Behördliche Anordnungen
+# § 3 – Behördliche Anordnungen
 
 Die zuständige Behörde kann, soweit es aus Gründen der Seuchenbekämpfung erforderlich ist,
 
@@ -109,8 +101,7 @@ c) eine behördliche Beobachtung
 
 anordnen.
 
-
-## § 3a – Weitere behördliche Anordnungen
+# § 3a – Weitere behördliche Anordnungen
 
 Die zuständige Behörde kann für ein von ihr bestimmtes Gebiet, soweit es zur Vorbeugung vor der Einschleppung oder zur Erkennung der Schweinepest oder der Afrikanischen Schweinepest erforderlich ist, anordnen, dass Jagdausübungsberechtigte
 
@@ -136,8 +127,7 @@ b) zu einer von der zuständigen Behörde bestimmten Stelle zu verbringen haben.
 
 Die zuständige Behörde kann ferner die Nutzung von Wildkammern in Betrieben einschränken oder verbieten, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
-## § 3b – Amtliche Untersuchungen
+# § 3b – Amtliche Untersuchungen
 
 Bei amtlichen oder amtlich angeordneten Untersuchungen ist das Diagnosehandbuch mit Diagnosemethoden, Probenahmeverfahren und Kriterien für die Auswertung von Laboruntersuchungen zur Bestätigung
 
@@ -147,8 +137,7 @@ Bei amtlichen oder amtlich angeordneten Untersuchungen ist das Diagnosehandbuch 
 
 in der jeweils geltenden Fassung anzuwenden.
 
-
-## § 4
+# § 4
 
 (1) Im Falle des Verdachts auf Schweinepest oder Afrikanische Schweinepest in einem Betrieb ordnet die zuständige Behörde in Bezug auf den betroffenen Betrieb (Verdachtsbetrieb)
 
@@ -265,13 +254,11 @@ desinfiziert worden sind.
 
 (5) Die zuständige Behörde kann, wenn die Seuchenlage dies erfordert, um den Verdachtsbetrieb zeitlich befristet eine Kontrollzone festlegen. Die Absätze 1 und 2 Satz 1 Nummer 1 bis 6 Buchstabe a bis c und Absatz 3 Nummer 1 und 2 gelten für die in der Kontrollzone liegenden Betriebe entsprechend.
 
-
-## § 5
+# § 5
 
 Die zuständige Behörde macht den Ausbruch der Schweinepest oder der Afrikanischen Schweinepest öffentlich bekannt.
 
-
-## § 6
+# § 6
 
 (1) Ist der Ausbruch der Schweinepest oder der Afrikanischen Schweinepest in einem Betrieb amtlich festgestellt, so ordnet die zuständige Behörde in Bezug auf den betroffenen Betrieb (Seuchenbetrieb)
 
@@ -305,11 +292,9 @@ Für den Seuchenbetrieb gilt § 4 Absatz 3 Nummer 1, 2 und 3 Satz 1 Buchstabe c,
 
 (3) Unbeschadet des § 4 Absatz 2 dürfen in den oder aus dem Seuchenbetrieb andere Haustiere als Schweine, ausgenommen Bienen, nur mit Genehmigung der zuständigen Behörde verbracht werden.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – Ausnahmen
+# § 8 – Ausnahmen
 
 (1) Bei Seuchenbetrieben mit gesonderten Betriebsabteilungen kann die zuständige Behörde für nicht betroffene Betriebsabteilungen Ausnahmen von § 4 Absatz 1 Satz 2 Nummer 2 und § 6 Absatz 1 Satz 1 Nummer 2 genehmigen.
 
@@ -317,11 +302,9 @@ Für den Seuchenbetrieb gilt § 4 Absatz 3 Nummer 1, 2 und 3 Satz 1 Buchstabe c,
 
 (3) Zum Zwecke der Mitteilung an die Europäische Kommission teilt die zuständige Behörde dem Bundesministerium unverzüglich die nach den Absätzen 1 und 2 erteilten Ausnahmegenehmigungen mit.
 
+# §§ 9 und 10 – (weggefallen)
 
-## §§ 9 und 10 – (weggefallen)
-
-
-## § 11 – Sperrbezirk
+# § 11 – Sperrbezirk
 
 (1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Seuchenbetrieb mit einem Radius von mindestens drei Kilometern als Sperrbezirk fest. Hierbei berücksichtigt sie die Ergebnisse durchgeführter epidemiologischer Untersuchungen, Strukturen des Handels und der örtlichen Schweinehaltung, das Vorhandensein von Schlachtstätten und Verarbeitungsbetrieben für Material der Kategorie 1 oder 2 nach Artikel 24 Absatz 1 Buchstabe a der Verordnung (EG) Nr. 1069/2009, natürlichen Grenzen sowie Überwachungsmöglichkeiten.
 
@@ -381,8 +364,7 @@ und nach näherer Anweisung der zuständigen Behörde zu reinigen, zu desinfizie
 
 9. § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe a und b und Absatz 3 Nummer 1 gilt entsprechend.
 
-
-## § 11a – Beobachtungsgebiet
+# § 11a – Beobachtungsgebiet
 
 (1) Ist die Schweinepest oder die Afrikanische Schweinepest in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde um den den Seuchenbetrieb umgebenden Sperrbezirk ein Beobachtungsgebiet fest. Hierbei berücksichtigt sie die mögliche Weiterverbreitung des Erregers, Strukturen des Handels und der örtlichen Schweinehaltung, das Vorhandensein von Schlachtstätten, natürlichen Grenzen, Überwachungsmöglichkeiten sowie die Ergebnisse der durchgeführten epidemiologischen Untersuchungen. Der Radius von Sperrbezirk und Beobachtungsgebiet zusammen beträgt mindestens zehn Kilometer.
 
@@ -400,8 +382,7 @@ gut sichtbar an,
 
 (3) Andere Haustiere als Schweine, ausgenommen Bienen, dürfen innerhalb von sieben Tagen seit Festlegung des Beobachtungsgebiets nur mit Genehmigung der zuständigen Behörde aus einem oder in einen Betrieb mit Schweinehaltung im Beobachtungsgebiet verbracht werden. § 4 Absatz 2 Satz 1 Nummer 6 Buchstabe a und b und Absatz 3 Nummer 1 sowie § 11 Absatz 2 Nummer 5, Absatz 3 Nummer 1 und Absatz 4 Nummer 1, 3, 4, 5, 6 und 8 gelten entsprechend.
 
-
-## § 11b – Ausnahmen
+# § 11b – Ausnahmen
 
 (1) Die zuständige Behörde kann Ausnahmen von § 11 Absatz 4 Nummer 1 und 5 Satz 1 und § 11a Absatz 3 Satz 2 für das Verbringen oder den Transport von Schweinen
 
@@ -495,20 +476,17 @@ mit negativem Ergebnis auf Schweinepest oder Afrikanische Schweinepest untersuch
 
 2. sichergestellt ist, dass alle Eber der Besamungsstation im Abstand von nicht mehr als zehn Tagen virologisch auf Schweinepest oder Afrikanische Schweinepest untersucht werden.
 
-
-## § 11c – Seuchenausbruch in benachbartem Staat
+# § 11c – Seuchenausbruch in benachbartem Staat
 
 Wird auf dem Gebiet eines benachbarten Staates der Ausbruch der Schweinepest oder der Afrikanischen Schweinepest innerhalb einer Entfernung von zehn Kilometern von der deutschen Grenze amtlich festgestellt und der für das angrenzende Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so ordnet diese die Maßnahmen entsprechend den §§ 11 und 11a an. § 11b gilt entsprechend.
 
-
-## § 11d – Weitergehende Schutzmaßregeln
+# § 11d – Weitergehende Schutzmaßregeln
 
 (1) In Zeiten erhöhter Seuchengefahr kann die zuständige Behörde die Durchführung von Schweineausstellungen, Schweinemärkten und Veranstaltungen ähnlicher Art, den Handel mit Schweinen ohne vorherige Bestellung, das Aufsuchen durch Besteller unter Mitführen von Schweinen, das Umherziehen mit Schweinen sowie das gewerbsmäßige Kastrieren von Schweinen durch Personen, die nicht Tierärzte sind, verbieten.
 
 (2) Besteht wegen des Auftretens der Schweinepest ein Verbringungsverbot nach § 11 der Binnenmarkt-Tierseuchenschutzverordnung, so ordnet die zuständige Behörde für das von dem Verbot betroffene Gebiet die zur Unterstützung des Verbotes erforderlichen ergänzenden Maßnahmen nach den §§ 8, 24 Absatz 3, den §§ 25 und 38 Absatz 11 in Verbindung mit § 26 Absatz 2 des Tiergesundheitsgesetzes an.
 
-
-## § 12
+# § 12
 
 (1) Führt die epidemiologische Nachforschung nach § 4 Absatz 1 Satz 2 zu dem Ergebnis, dass die Schweinepest oder die Afrikanische Schweinepest aus einem anderen Betrieb eingeschleppt oder bereits in andere Betriebe weiterverschleppt worden sein kann, oder bestehen Anhaltspunkte dafür, dass die Schweinepest oder die Afrikanische Schweinepest durch Wildschweine in einen Betrieb eingeschleppt worden ist, so ordnet die zuständige Behörde für diese Betriebe (Kontaktbetriebe) die behördliche Beobachtung für die Dauer von mindestens 40 Tagen an.
 
@@ -524,8 +502,7 @@ Wird auf dem Gebiet eines benachbarten Staates der Ausbruch der Schweinepest ode
 
 an.
 
-
-## § 13
+# § 13
 
 (1) Die zuständige oberste Landesbehörde kann, vorbehaltlich der Zustimmung durch die Europäische Kommission, für ein bestimmtes Gebiet die Notimpfung gegen Schweinepest anordnen, wenn die Schweinepest amtlich festgestellt worden ist und auf Grund des Ergebnisses der epidemiologischen Untersuchung und unter Berücksichtigung der Kriterien des Anhangs VI der Richtlinie 2001/89/EG eine Ausbreitung der Schweinepest zu befürchten ist. Zu diesem Zweck erstellt die zuständige oberste Landesbehörde einen Impfplan, der insbesondere Angaben über die Seuchensituation, über das Impfgebiet, die Zahl der Schweine haltenden Betriebe im Impfgebiet, die voraussichtliche Zahl, die Nutzungsart und die Kennzeichnung der zu impfenden Schweine, die Dauer der Impfmaßnahmen, den zu verwendenden Impfstoff und die nach der Impfung vorgesehenen Untersuchungen und sonstigen Überwachungsmaßnahmen enthält.
 
@@ -559,13 +536,11 @@ d) dürfen Sperma, Eizellen und Embryonen den geimpften Schweinen nicht entnomme
 
 e) sind Sperma, Eizellen und Embryonen, die während eines Zeitraums von 30 Tagen vor der Impfung entnommen wurden, unter amtlicher Aufsicht unschädlich zu beseitigen.
 
-
-## § 14
+# § 14
 
 Die zuständige Behörde kann über § 4 Absatz 1 Satz 2 Nummer 2 und § 6 Absatz 1 Satz 1 Nummer 2 hinaus die Tötung von Schweinen im Sperrbezirk, im Beobachtungsgebiet oder im Impfgebiet sowie in Kontaktbetrieben anordnen, wenn dies aus Gründen der Seuchenbekämpfung, insbesondere zur schnelleren Beseitigung eines Infektionsherdes, erforderlich ist.
 
-
-## § 14a – Gefährdeter Bezirk
+# § 14a – Gefährdeter Bezirk
 
 (1) Im Falle des Verdachts auf Schweinepest bei einem Wildschwein ordnet die zuständige Behörde die serologische und virologische Untersuchung der erlegten oder verendeten Wildschweine an und führt epidemiologische Nachforschungen durch.
 
@@ -659,13 +634,11 @@ anordnen.
 
 (10) Die zuständige Behörde kann im gefährdeten Bezirk oder in Teilen des gefährdeten Bezirks die Ausübung der Jagd ganz oder teilweise untersagen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
-## § 14b – Notimpfung bei Wildschweinen
+# § 14b – Notimpfung bei Wildschweinen
 
 Die zuständige oberste Landesbehörde kann, vorbehaltlich der Zustimmung durch die Europäische Kommission, für den gefährdeten Bezirk oder für ein bestimmtes Gebiet innerhalb des gefährdeten Bezirks die Durchführung von Notimpfungen gegen Schweinepest bei Wildschweinen anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist. Zu diesem Zweck erstellt die zuständige oberste Landesbehörde einen Notimpfplan, der insbesondere Angaben enthält über die Seuchensituation, das Impfgebiet, die voraussichtliche Zahl der zu impfenden Wildschweine, das Impfverfahren einschließlich Maßnahmen zur Impfung von Jungtieren, die Dauer der Impfmaßnahmen, die Wirksamkeit des zu verwendenden Impfstoffs, Maßnahmen zur Vermeidung einer Ausbreitung des Impfvirus, zur Reduzierung der Jungtiere und zur Überprüfung der Ergebnisse durch die zuständige Behörde. Im Falle einer behördlichen Anordnung nach Satz 1 ist der Jagdausübungsberechtigte zur Mitwirkung bei der Auslegung der Impfköder im Rahmen der Notimpfung verpflichtet.
 
-
-## § 14c – Maßregeln zur Erkennung der Schweinepest
+# § 14c – Maßregeln zur Erkennung der Schweinepest
 
 (1) Zur Erkennung der Schweinepest bei Wildschweinen gilt im gefährdeten Bezirk Folgendes:
 
@@ -703,8 +676,7 @@ Die zuständige Behörde kann anordnen, dass erlegte Wildschweine nur an von ihr
 
 (+++ § 14c: Zur Anwendung vgl. § 24 Abs. 5 Satz 2 +++)
 
-
-## § 14d – Kerngebiet, gefährdetes Gebiet und Pufferzone
+# § 14d – Kerngebiet, gefährdetes Gebiet und Pufferzone
 
 (1) Im Falle des Verdachts auf Afrikanische Schweinepest bei einem Wildschwein ordnet die zuständige Behörde die virologische Untersuchung der erlegten oder verendeten Wildschweine an und führt epidemiologische Nachforschungen durch.
 
@@ -812,8 +784,7 @@ Eine Anordnung nach Satz 1 Nummer 1 kann erneut getroffen werden.
 
 (8) Die zuständige Behörde kann für die Pufferzone Maßnahmen nach den Absätzen 4, 5, 5b und 6 Satz 1 bis 3 anordnen, soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
-## § 14e – Maßregeln zur Erkennung der Afrikanischen Schweinepest
+# § 14e – Maßregeln zur Erkennung der Afrikanischen Schweinepest
 
 (1) Zur Erkennung der Afrikanischen Schweinepest bei Wildschweinen gilt im gefährdeten Gebiet und in der Pufferzone Folgendes:
 
@@ -857,8 +828,7 @@ Die zuständige Behörde kann anordnen, dass erlegte Wildschweine nur an von ihr
 
 (+++ § 14e: Zur Anwendung vgl. § 24 Abs. 5 Satz 2 +++)
 
-
-## § 14f – Maßregeln bei Afrikanischer Schweinepest für Schweine
+# § 14f – Maßregeln bei Afrikanischer Schweinepest für Schweine
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem Wildschwein amtlich festgestellt, dürfen Schweine
 
@@ -992,8 +962,7 @@ Die zuständige Behörde kann ferner Ausnahmen von Absatz 1 Nummer 5 genehmigen,
 
 Satz 1 gilt nicht, wenn die Schweine ausschließlich durch in Teil I, Teil II oder Teil III des Anhangs des Durchführungsbeschlusses 2014/709/EU bezeichnete Gebiete befördert werden.
 
-
-## § 14g – Maßregeln bei Afrikanischer Schweinepest für frisches Schweinefleisch und Schweinefleischerzeugnisse
+# § 14g – Maßregeln bei Afrikanischer Schweinepest für frisches Schweinefleisch und Schweinefleischerzeugnisse
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem Wildschwein amtlich festgestellt, dürfen
 
@@ -1029,8 +998,7 @@ b) soweit es sich um frisches Schweinefleisch handelt, in einer oder in einem vo
 
 zu verwechseln sein.
 
-
-## § 14h – Maßregeln bei Afrikanischer Schweinepest für Sperma, Eizellen und Embryonen
+# § 14h – Maßregeln bei Afrikanischer Schweinepest für Sperma, Eizellen und Embryonen
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem Wildschwein amtlich festgestellt, dürfen
 
@@ -1071,8 +1039,7 @@ und
 
 (5) Die zuständige Behörde unterrichtet das Bundesministerium zum Zwecke der Mitteilung an die Europäische Kommission und die anderen Mitgliedstaaten über die nach Absatz 3 erteilten Genehmigungen.
 
-
-## § 14i – Maßregeln bei Afrikanischer Schweinepest für Wildschweine, Wildschweinefleisch und Wildschweinefleischerzeugnisse
+# § 14i – Maßregeln bei Afrikanischer Schweinepest für Wildschweine, Wildschweinefleisch und Wildschweinefleischerzeugnisse
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem Wildschwein amtlich festgestellt, dürfen
 
@@ -1106,8 +1073,7 @@ oder
 
 zu verwechseln sein.
 
-
-## § 14j – Maßregeln bei Afrikanischer Schweinepest für tierische Nebenprodukte
+# § 14j – Maßregeln bei Afrikanischer Schweinepest für tierische Nebenprodukte
 
 (1) Ist der Ausbruch der Afrikanischen Schweinepest bei einem Wildschwein amtlich festgestellt, dürfen tierische Nebenprodukte und Folgeprodukte aus tierischen Nebenprodukten, die
 
@@ -1125,8 +1091,7 @@ innergemeinschaftlich nicht verbracht oder ausgeführt werden.
 
 Das Recht der Beseitigung tierischer Nebenprodukte bleibt unberührt.
 
-
-## § 14k – Tilgungsplan
+# § 14k – Tilgungsplan
 
 (1) Die zuständige Behörde legt dem Bundesministerium
 
@@ -1144,16 +1109,13 @@ in der jeweils geltenden Fassung vor.
 
 die Ergebnisse der Untersuchungen, die in dem von der Europäischen Kommission genehmigten Plan zur Tilgung der Afrikanischen Schweinepest bei Wildschweinen nach Artikel 16 Absatz 3 Buchstabe a und h der Richtlinie 2002/60/EG vorgesehen sind.
 
-
-## § 14l – Seuchenausbruch bei Wildschweinen in einem benachbarten Staat
+# § 14l – Seuchenausbruch bei Wildschweinen in einem benachbarten Staat
 
 Wird auf dem Gebiet eines benachbarten Staates der Ausbruch der Schweinepest oder der Afrikanischen Schweinepest bei Wildschweinen innerhalb einer Entfernung von zehn Kilometern von der deutschen Grenze festgestellt und der für das angrenzende Gebiet im Inland zuständigen Behörde amtlich zur Kenntnis gebracht, so ordnet diese die Maßnahmen entsprechend den §§ 14a bis 14j an. Sie kann, wenn die Afrikanische Schweinepest innerhalb einer Entfernung von 100 Kilometern von der deutschen Grenze festgestellt wird und soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist, Maßnahmen entsprechend den §§ 14d bis 14j anordnen.
 
+# §§ 15 bis 22 – (weggefallen)
 
-## §§ 15 bis 22 – (weggefallen)
-
-
-## § 23
+# § 23
 
 (1) Im Falle des Verdachts auf Schweinepest oder Afrikanische Schweinepest in einer Schlachtstätte oder in einem Transportmittel ordnet die zuständige Behörde eine klinische, virologische und serologische Untersuchung der seuchenverdächtigen Schweine sowie epidemiologische Nachforschungen an. Ferner kann sie
 
@@ -1175,8 +1137,7 @@ anordnen. Im Falle des Verdachts auf Schweinepest oder Afrikanische Schweinepest
 
 (4) Der Betreiber einer Schlachtstätte hat Teile und Rohstoffe bereits geschlachteter Schweine, die ansteckungsverdächtig waren oder bei denen sich nach der Schlachtung Veränderungen zeigen, die auf einen Seuchenverdacht hinweisen, unverzüglich unschädlich zu beseitigen oder beseitigen zu lassen.
 
-
-## § 24
+# § 24
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn die Schweinepest bei Hausschweinen oder die Afrikanische Schweinepest erloschen ist, wenn der Verdacht auf Schweinepest bei Hausschweinen beseitigt ist oder wenn der Verdacht auf Schweinepest bei Hausschweinen oder Afrikanische Schweinepest sich als unbegründet erwiesen hat.
 
@@ -1248,8 +1209,7 @@ frühestens sechs Monate nach dem letzten Nachweis der Schweinepest oder der Afr
 
 festgelegt war, zwölf Monate nach dem letzten Nachweis der Schweinepest oder der Afrikanischen Schweinepest anzuwenden ist. Die zuständige Behörde kann, auch nach der Aufhebung der Festlegung des gefährdeten Bezirkes, des gefährdeten Gebietes, der Pufferzone oder des Kerngebietes, den in Satz 2 genannten Zeitraum in Abhängigkeit von der Seuchensituation um bis zu sechs Monate verlängern.
 
-
-## § 24a – Wiederbelegung
+# § 24a – Wiederbelegung
 
 (1) Betriebe, in denen nach einem Ausbruch der Schweinepest auf Anordnung der zuständigen Behörde die Schweine getötet und unschädlich beseitigt worden sind, dürfen vorbehaltlich der Absätze 2 und 3 und des § 24b mit Schweinen erst wiederbelegt werden, wenn die Schweinepest nach § 24 Absatz 2 als erloschen gilt.
 
@@ -1305,8 +1265,7 @@ d) im Betrieb verbleiben, bis die Negativbefunde der nach Buchstabe c durchgefü
 
 (7) Die zuständige Behörde kann Ausnahmen von Absatz 2, 3, 5 oder 6 für Betriebe genehmigen, in denen die Wiederbelegung frühestens sechs Monate nach Abschluss der Reinigung und Desinfektion nach § 24 Absatz 2 Nummer 2 oder Absatz 4 Satz 1 Nummer 2 erfolgt.
 
-
-## § 24b – Wiederbelegung von Betrieben im Impfgebiet
+# § 24b – Wiederbelegung von Betrieben im Impfgebiet
 
 (1) Betriebe, in denen nach § 13 geimpft worden ist, dürfen mit Schweinen erst wiederbelegt werden, wenn
 
@@ -1316,8 +1275,7 @@ d) im Betrieb verbleiben, bis die Negativbefunde der nach Buchstabe c durchgefü
 
 (2) Die zuständige Behörde ordnet in Bezug auf nach Absatz 1 wiederbelegte Betriebe eine klinische und serologische Untersuchung der Schweine frühestens 40 Tage nach der Wiederbelegung an. Ferner ordnet sie an, dass bis zum Vorliegen des Ergebnisses der Untersuchung nach Satz 1 Schweine nicht aus dem Betrieb verbracht werden dürfen.
 
-
-## § 25
+# § 25
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -1325,17 +1283,13 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 2. einer mit einer Genehmigung nach § 2 Absatz 2, § 8 Absatz 1 oder Absatz 2 Satz 1, § 11 Absatz 4 Nummer 3 oder Nummer 7, § 11a Absatz 3 Satz 1, § 14a Absatz 6 oder Absatz 7, § 14f Absatz 2 Satz 1, Absatz 3 Satz 1, Absatz 4 Satz 1 oder Absatz 5, § 14g Absatz 2, § 14h Absatz 2 oder Absatz 3, § 14i Absatz 2, § 14j Absatz 2 Satz 1 oder § 24a Absatz 7 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-2a.  
-entgegen § 2a Küchen- oder Speiseabfälle verfüttert,
+2a. entgegen § 2a Küchen- oder Speiseabfälle verfüttert,
 
-2b.  
-entgegen § 2b Absatz 2 Satz 1 oder 2, jeweils auch in Verbindung mit Absatz 4, nicht sicherstellt, dass ein Fahrzeug oder eine Ausrüstung gereinigt oder desinfiziert wird oder gereinigt oder desinfiziert ist,
+2b. entgegen § 2b Absatz 2 Satz 1 oder 2, jeweils auch in Verbindung mit Absatz 4, nicht sicherstellt, dass ein Fahrzeug oder eine Ausrüstung gereinigt oder desinfiziert wird oder gereinigt oder desinfiziert ist,
 
-2c.  
-entgegen § 2b Absatz 3 Satz 1, auch in Verbindung mit Absatz 4, einen Nachweis nicht führt,
+2c. entgegen § 2b Absatz 3 Satz 1, auch in Verbindung mit Absatz 4, einen Nachweis nicht führt,
 
-2d.  
-entgegen § 2b Absatz 3 Satz 2, auch in Verbindung mit Absatz 4, einen Nachweis nicht oder nicht mindestens sechs Monate aufbewahrt,
+2d. entgegen § 2b Absatz 3 Satz 2, auch in Verbindung mit Absatz 4, einen Nachweis nicht oder nicht mindestens sechs Monate aufbewahrt,
 
 3. einer vollziehbaren Anordnung nach § 3, § 3a Satz 1 Nummer 2, Nummer 3 oder Nummer 5, § 6 Absatz 1 Satz 1, § 11c Satz 1, § 11d, § 12 Absatz 1 oder Absatz 3, § 13 Absatz 1 Satz 1 oder Absatz 2 Nummer 1 Satz 2 oder Nummer 2 Buchstabe b Doppelbuchstabe bb zweiter Halbsatz, § 14, § 14a Absatz 1, Absatz 4 Nummer 4, Absatz 5 Nummer 4, § 14a Absatz 8 oder Absatz 10, jeweils auch in Verbindung mit § 14d Absatz 6 Satz 1, § 14b Satz 1, § 14c Absatz 1 Satz 1 Nummer 1 Buchstabe a, b oder Buchstabe d Doppelbuchstabe bb, Nummer 3 oder Nummer 4, § 14c Absatz 1 Satz 2 oder Satz 3 oder Absatz 2, § 14d Absatz 1, 2b Nummer 1, Absatz 4 Nummer 4, Absatz 5 Nummer 2 oder 3, Absatz 5a Satz 1, Absatz 5b Satz 1, Absatz 6a, Absatz 7 oder 8, § 14e Absatz 1 Satz 1 Nummer 1 Buchstabe a, Buchstabe b oder Buchstabe d Doppelbuchstabe bb oder Nummer 3, Satz 2 oder Satz 3 oder Absatz 2, § 23 Absatz 1 oder Absatz 2 oder § 24b Absatz 2 zuwiderhandelt,
 
@@ -1407,30 +1361,25 @@ entgegen § 2b Absatz 3 Satz 2, auch in Verbindung mit Absatz 4, einen Nachweis 
 
 37. entgegen § 14a Absatz 4 Nummer 6 oder § 14d Absatz 4 Nummer 6 nicht sicherstellt, dass ein Hund das Betriebsgelände nur unter Aufsicht verlässt,
 
-37a.  
-entgegen § 14d Absatz 5 Nummer 5 Satz 1 Gras, Heu oder Stroh verwendet,
+37a. entgegen § 14d Absatz 5 Nummer 5 Satz 1 Gras, Heu oder Stroh verwendet,
 
 38. entgegen § 23 Absatz 4 einen Teil oder Rohstoff eines geschlachteten Schweines nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beseitigt und nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig untersuchen lässt oder
 
 39. entgegen § 24a Absatz 1 oder Absatz 4 oder § 24b Absatz 1 einen Betrieb wiederbelegt.
 
-
-## § 25a – Weitergehende Maßnahmen
+# § 25a – Weitergehende Maßnahmen
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Schweinepest oder Afrikanischen Schweinepest bei einem Hausschwein oder einem Wildschwein weitergehende Maßnahmen nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 und 3 bis 5 des Tiergesundheitsgesetzes anzuordnen, soweit diese zur Seuchenbekämpfung erforderlich sind und Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union nicht entgegenstehen, bleibt unberührt.
 
-
-## § 25b – Übergangsbestimmungen
+# § 25b – Übergangsbestimmungen
 
 (1) Am 25. Juli 2003 bestehende Einrichtungen nach § 8 Absatz 2 Satz 1 haben der zuständigen Behörde die Voraussetzungen und Vorkehrungen, die Grundlage einer Genehmigung nach § 8 Absatz 2 Satz 1 sein können, spätestens bis zum 31. Juli 2004 mitzuteilen.
 
 (2) Am 24. Juli 2003 vorhandene Sperrbezirke, Verdachtssperrbezirke, Beobachtungsgebiete, gefährdete Bezirke und Überwachungsgebiete bleiben bestehen, bis die zuständige Behörde ihre Festlegung aufhebt. Auf Sperrbezirke, Beobachtungsgebiete und gefährdete Bezirke nach Satz 1 sind die ab dem 25. Juli 2003 für solche Gebiete geltenden Vorschriften anzuwenden. Auf Verdachtssperrbezirke nach Satz 1 sind die ab dem 25. Juli 2003 für Kontrollzonen geltenden Vorschriften anzuwenden. Auf Überwachungsgebiete nach Satz 1 sind die ab dem 25. Juli 2003 für gefährdete Bezirke geltenden Vorschriften anzuwenden.
 
+# § 26 – (weggefallen)
 
-## § 26 – (weggefallen)
-
-
-## Anlage – (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc Dreifachbuchstabe aaa)Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung
+# Anlage – (zu § 14a Absatz 6 Satz 1 Nummer 1 Buchstabe b Doppelbuchstabe cc Dreifachbuchstabe aaa)Tiergesundheitsbescheinigung für den inländischen Versand von Schweinen aus gefährdeten Bezirken im Sinne der Schweinepest-Verordnung
 
 (Fundstelle: BGBl. I 2020, 1629)
 

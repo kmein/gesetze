@@ -1,10 +1,7 @@
-# [PBZugV] Berufszugangsverordnung für den Straßenpersonenverkehr  (PBZugV)
-
-Ausfertigungsdatum: 15.06.2000
-
+% Berufszugangsverordnung für den Straßenpersonenverkehr  (PBZugV)
+% Ausfertigungsdatum: 15.06.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,8 +13,7 @@ des § 17 des Güterkraftverkehrsgesetzes in der Fassung der Bekanntmachung vom 
 
 in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 § 1
 
@@ -65,8 +61,7 @@ Inkrafttreten, Außerkrafttreten
 
 Anlagen: 6
 
-
-## § 1 – Persönliche Zuverlässigkeit
+# § 1 – Persönliche Zuverlässigkeit
 
 (1) Der Unternehmer und die zur Führung der Geschäfte bestellten Personen gelten als zuverlässig im Sinne des § 13 Abs. 1 Nr. 2 des Personenbeförderungsgesetzes, wenn keine hinreichenden Anhaltspunkte dafür vorliegen, dass bei der Führung des Unternehmens die für den Straßenpersonenverkehr geltenden Vorschriften missachtet oder die Allgemeinheit bei dem Betrieb des Unternehmens geschädigt oder gefährdet werden. Anhaltspunkte für die Unzuverlässigkeit des Unternehmers oder der für die Führung der Geschäfte bestellten Person sind insbesondere
 
@@ -122,8 +117,7 @@ g) Vorschriften des Handels- und Insolvenzrechts.
 
 (3) Zur Prüfung, ob Verstöße vorliegen, kann die Genehmigungsbehörde Bescheinigungen in Steuersachen der Finanzämter sowie Unbedenklichkeitsbescheinigungen anderer öffentlicher Stellen und Auszüge aus Registern, in denen derartige Verstöße registriert sind, von dem Antragsteller verlangen oder mit dessen Einverständnis anfordern.
 
-
-## § 2 – Finanzielle Leistungsfähigkeit
+# § 2 – Finanzielle Leistungsfähigkeit
 
 (1) Die finanzielle Leistungsfähigkeit im Sinne des § 13 Abs. 1 Nr. 1 des Personenbeförderungsgesetzes ist als gewährleistet anzusehen, wenn die finanziellen Mittel verfügbar sind, die zur Aufnahme und ordnungsgemäßen Führung des Betriebes erforderlich sind. Sie ist zu verneinen, wenn
 
@@ -155,15 +149,13 @@ Der Nachweis über das Vorliegen der Nummern 1 bis 4 ist zu erbringen durch Vorl
 
 (5) Beim Verkehr mit Kraftomnibussen besitzt der Unternehmer die erforderliche finanzielle Leistungsfähigkeit, wenn er die Voraussetzungen des Artikels 7 der Verordnung (EG) Nr. 1071/2009 erfüllt.
 
-
-## § 3 – Fachliche Eignung
+# § 3 – Fachliche Eignung
 
 (1) Beim Verkehr mit Kraftomnibussen ist fachlich geeignet im Sinne des Artikels 3 Absatz 1 Buchstabe d der Verordnung (EG) Nr. 1071/2009, wer über die Kenntnisse verfügt, die zur ordnungsgemäßen Führung eines Straßenpersonenverkehrsunternehmens erforderlich sind, und zwar auf den jeweiligen Sachgebieten, die im Anhang I Teil I der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aufgeführt sind.
 
 (2) Für die fachliche Eignung nach § 13 Absatz 1 Nummer 3 des Personenbeförderungsgesetzes gilt Absatz 1 im Hinblick auf die Vorschriften zum Personenkraftverkehr entsprechend. Abweichend davon ergeben sich die für den Taxen- und Mietwagenverkehr erforderlichen Kenntnisse aus Anlage 3.
 
-
-## § 4 – Fachkundeprüfung
+# § 4 – Fachkundeprüfung
 
 (1) Die fachliche Eignung im Sinne des § 3 wird durch eine Prüfung nachgewiesen, die sich aus zwei schriftlichen und gegebenenfalls einem ergänzenden mündlichen Prüfungsteil zusammensetzt.
 
@@ -190,8 +182,7 @@ mündliche Prüfung zu 25 Prozent.
 
 (8) Beim Verkehr mit Kraftomnibussen ist Artikel 8 der Verordnung (EG) Nr. 1071/2009 die maßgebliche Vorschrift für die Anforderungen an die fachliche Eignung. Die Absätze 2 bis 5 und 7 gelten mit Ausnahme des Absatzes 2 Satz 3 entsprechend. Die Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung, die Bewerbern, die die Prüfung bestanden haben, erteilt wird, ist auf Papier mit Spezialfasern, die unter UV-Licht sichtbar werden, zu erteilen, sowie mit einer Seriennummer und einer Ausgabenummer zu versehen.
 
-
-## § 5 – Prüfungsausschuss
+# § 5 – Prüfungsausschuss
 
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer abgelegt, die einen Prüfungsausschuss errichtet.
 
@@ -201,8 +192,7 @@ mündliche Prüfung zu 25 Prozent.
 
 (4) Bei Bedarf muss der Prüfungsausschuss der Industrie- und Handelskammer mindestens einmal im Vierteljahr einen Prüfungstermin festsetzen. Zuständig ist der Prüfungsausschuss, in dessen Zuständigkeitsbereich der Bewerber seinen Wohnsitz hat. Hat der Bewerber seinen Wohnsitz im Ausland, ist die nächstgelegene Industrie- und Handelskammer zuständig. Abweichend von Satz 3 ist beim Verkehr mit Kraftomnibussen die Industrie- und Handelskammer zuständig, in deren Zuständigkeitsbereich der Bewerber arbeitet. Der Bewerber kann mit seiner Zustimmung an den Prüfungsausschuss einer anderen Industrie- und Handelskammer verwiesen werden, wenn innerhalb eines Vierteljahres weniger als drei Bewerber zur Prüfung anstehen oder dem Bewerber andernfalls wirtschaftliche Nachteile entstehen.
 
-
-## § 6 – Gleichwertige Abschlussprüfungen
+# § 6 – Gleichwertige Abschlussprüfungen
 
 (1) Die nach Landesrecht zuständige Behörde kann nach Anhörung der übrigen nach Landesrecht zuständigen Behörden und des Deutschen Industrie- und Handelskammertages andere Abschlussprüfungen als Fachkundeprüfungen nach § 4 anerkennen, wenn die erforderlichen Kenntnisse auf den Sachgebieten, die sich aus § 3 ergeben, Gegenstand der Abschlussprüfung sind. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt die Bezeichnung der anerkannten Abschlussprüfung auf Antrag der nach Landesrecht zuständigen Behörde im Verkehrsblatt bekannt.
 
@@ -210,8 +200,7 @@ mündliche Prüfung zu 25 Prozent.
 
 (3) Die nach § 5 Absatz 4 zuständige Industrie-und Handelskammer stellt dem Inhaber eines nach Absatz 1 oder 2 anerkannten Abschlusses auf Antrag eine Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus. § 4 Absatz 6 Satz 2 und 3 gilt entsprechend.
 
-
-## § 7 – Anerkennung leitender Tätigkeit
+# § 7 – Anerkennung leitender Tätigkeit
 
 (1) Die fachliche Eignung kann auch durch eine mindestens fünfjährige leitende Tätigkeit in einem inländischen Unternehmen nachgewiesen werden, das Straßenpersonenverkehr betreibt. Zur Führung eines Unternehmens des Taxen- und Mietwagenverkehrs ist eine mindestens dreijährige leitende Tätigkeit in einem solchen Unternehmen nachzuweisen. Die Tätigkeit muss die zur ordnungsgemäßen Führung eines Straßenpersonenverkehrsunternehmens erforderlichen Kenntnisse auf den Sachgebieten vermittelt haben, die sich aus § 3 ergeben. Das Ende dieser Tätigkeit darf zum Zeitpunkt der Antragstellung nicht länger als zwei Jahre zurückliegen.
 
@@ -219,11 +208,9 @@ mündliche Prüfung zu 25 Prozent.
 
 (3) Die Prüfung der in den Absätzen 1 und 2 genannten Voraussetzungen obliegt der Industrie- und Handelskammer, in deren Zuständigkeitsbereich der Bewerber seinen Wohnsitz hat. Hat der Bewerber seinen Wohnsitz im Ausland, ist die nächstgelegene Industrie- und Handelskammer zuständig. Abweichend von Satz 2 ist beim Verkehr mit Kraftomnibussen die Industrie- und Handelskammer zuständig, in deren Zuständigkeitsbereich der Bewerber arbeitet. Der Bewerber hat der Kammer hierzu die zur Prüfung nach Satz 1 erforderlichen Unterlagen vorzulegen. Reichen die Unterlagen zum Nachweis der fachlichen Eignung nicht aus, so kann die Kammer mit dem Bewerber ein ergänzendes Beurteilungsgespräch führen. Hält die Kammer den Bewerber für fachlich geeignet, so stellt sie eine Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus. § 4 Absatz 6 Satz 2 und 3 gilt entsprechend.
 
+# § 8 – (weggefallen)
 
-## § 8 – (weggefallen)
-
-
-## § 9 – Überwachung
+# § 9 – Überwachung
 
 (1) Die zuständigen Behörden vergewissern sich regelmäßig und mindestens alle fünf Jahre, dass das Unternehmen die Berufszugangsvoraussetzungen nach § 13 Abs. 1 des Personenbeförderungsgesetzes in Verbindung mit dieser Verordnung noch erfüllt. Zu diesem Zweck kann sie die in den §§ 1 und 2 bezeichneten Auskünfte erneut einholen. Im Bereich des Taxen- und Mietwagenverkehrs vergewissern sich die zuständigen Behörden über das Vorliegen der Berufszugangsvoraussetzungen in den Fällen, in denen Zweifel daran angezeigt sind, dass die Voraussetzungen noch vorliegen.
 
@@ -235,8 +222,7 @@ mündliche Prüfung zu 25 Prozent.
 
 (5) Beim Verkehr mit Kraftomnibussen gelten die Artikel 12 und 13 der Verordnung (EG) Nr. 1071/2009. Absatz 1 Satz 2 und Absatz 2 gelten entsprechend. Verfahren auf Erneuerung der Gemeinschaftslizenz nach Artikel 4 oder 6 der Verordnung (EG) Nr. 1073/2009 ersetzen die Kontrolle nach Artikel 12 der Verordnung (EG) Nr. 1071/2009, soweit dabei zugleich der Nachweis geführt wird, dass die Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
-
-## § 10 – Anerkennung von ausländischen Berufsqualifikationen
+# § 10 – Anerkennung von ausländischen Berufsqualifikationen
 
 (1) Berufsqualifikationen, die in anderen Mitgliedstaaten der Europäischen Union oder des Europäischen Wirtschaftsraumes erworben wurden, sind von der Genehmigungsbehörde in unmittelbarer Anwendung der Artikel 19 bis 21 der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung und der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22), insbesondere der Artikel 4, 5, 8, 10 bis 16, 19, 50, 51 und 56, anzuerkennen.
 
@@ -244,20 +230,17 @@ mündliche Prüfung zu 25 Prozent.
 
 (3) Das Bundesamt für Güterverkehr unterrichtet die zuständigen Behörden anderer Mitgliedstaaten der Europäischen Union oder des Europäischen Wirtschaftsraumes gemäß Artikel 23 Absatz 1 der Verordnung (EG) Nr. 1073/2009 über die ihm bekannt gewordenen Verstöße gegen die Vorschriften für das Personenkraftverkehrsgewerbe und gemäß Artikel 56 Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt gewordenen strafrechtlichen Verurteilungen und andere Tatsachen, die geeignet sind, Zweifel an der Zuverlässigkeit des Unternehmens zu begründen.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 (1) Die §§ 3 bis 8 treten am 1. Januar 2001 in Kraft. Im Übrigen tritt diese Verordnung am 1. Juli 2000 in Kraft.
 
 (2)
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Abs. 2 Nr. 2)
+# Anlage 1 – (zu § 2 Abs. 2 Nr. 2)
 
 (Fundstelle: BGBl. I 2000, 855)
 
@@ -299,8 +282,7 @@ Der Bundesrat hat zugestimmt.
                                         oder Steuerberatungsgesellschaft
                                         oder eines Kreditinstituts) 
 
-
-## Anlage 2 – (zu § 2 Abs. 3)
+# Anlage 2 – (zu § 2 Abs. 3)
 
 (Fundstelle: BGBl. I 2000, 856 - 858)
 
@@ -413,8 +395,7 @@ Der Bundesrat hat zugestimmt.
                                         oder Steuerberatungsgesellschaft
                                         oder eines Kreditinstituts) 
 
-
-## Anlage 3 – (zu § 3 und § 7)
+# Anlage 3 – (zu § 3 und § 7)
 
   
   
@@ -422,8 +403,7 @@ Der Bundesrat hat zugestimmt.
   
 Sachgebiete für Unternehmer des Taxen- und Mietwagenverkehrs
 
-A.  
-Sachgebiete, deren Kenntnis für innerstaatliche Beförderungen notwendig ist
+A. Sachgebiete, deren Kenntnis für innerstaatliche Beförderungen notwendig ist
 
 1. Recht
 
@@ -511,8 +491,7 @@ Fernsprech- und Funkverkehr.
 
 4. Straßenverkehrssicherheit, Unfallverhütung sowie Grundregeln des Umweltschutzes bei der Verwendung und Wartung der Fahrzeuge
 
-B.  
-Sachgebiete, deren zusätzliche Kenntnis für grenzüberschreitende Beförderungen erforderlich ist, soweit solche Beförderungen im Bezirk des Prüfungsausschusses bedeutsam sind
+B. Sachgebiete, deren zusätzliche Kenntnis für grenzüberschreitende Beförderungen erforderlich ist, soweit solche Beförderungen im Bezirk des Prüfungsausschusses bedeutsam sind
 
 5.1  
 Berufsbezogenes Personenbeförderungsrecht, das im Verkehr mit benachbarten Staaten gilt
@@ -523,11 +502,9 @@ Paß- und zollrechtliche Vorschriften, die für den internationalen Taxen- und M
 5.3  
 Beförderungsdokumente.
 
+# Anlage 4 – (weggefallen)
 
-## Anlage 4 – (weggefallen)
-
-
-## Anlage 5 – (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
+# Anlage 5 – (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
 
 (Fundstelle: BGBl. I 2000, 861)
 
@@ -567,5 +544,4 @@ Beförderungsdokumente.
                                              (Stempel und Unterschrift der
                                                     zuständigen IHK) 
 
-
-## Anlage 6 – (weggefallen)
+# Anlage 6 – (weggefallen)

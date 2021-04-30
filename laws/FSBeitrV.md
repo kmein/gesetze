@@ -1,15 +1,11 @@
-# [FSBeitrV] Verordnung über Beiträge zum Schutz einer störungsfreien Frequenznutzung  (Frequenzschutzbeitragsverordnung - FSBeitrV)
-
-Ausfertigungsdatum: 13.05.2004
-
+% Verordnung über Beiträge zum Schutz einer störungsfreien Frequenznutzung  (Frequenzschutzbeitragsverordnung - FSBeitrV)
+% Ausfertigungsdatum: 13.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 48 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGBl. I S. 1120), zuletzt geändert durch Artikel 1 und 3 des Gesetzes vom 3. August 2003 (BGBl. I S. 1120), und des § 11 Abs. 2 des Gesetzes über die elektromagnetische Verträglichkeit von Geräten vom 18. September 1998 (BGBl. I S. 2882), geändert durch Artikel 22 des Gesetzes vom 7. Mai 2002 (BGBl. I S. 1529), verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Beitragspflicht
+# § 1 – Beitragspflicht
 
 (1) Beitragspflichtig für die Kosten, die der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) durch die in
 
@@ -27,8 +23,7 @@ genannten Tätigkeit entstehen, ist jeder Senderbetreiber und jeder, dem Frequen
 
 (4) Nach dieser Verordnung werden Beiträge nur für die Zeit ab dem 1. Januar 2003 erhoben.
 
-
-## § 2 – Beitragsbefreiungen
+# § 2 – Beitragsbefreiungen
 
 (1) Von der Beitragsverpflichtung werden befreit:
 
@@ -50,8 +45,7 @@ genannten Tätigkeit entstehen, ist jeder Senderbetreiber und jeder, dem Frequen
 
 (7) Soweit das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Verkehr und digitale Infrastruktur festgestellt hat, dass an der Nutzung von Frequenzen ein besonderes Interesse der Bundesrepublik Deutschland besteht, kann Beitragsbefreiung gewährt werden.
 
-
-## § 3 – Ermittlung der Kosten und Festlegung von Jahresbeiträgen
+# § 3 – Ermittlung der Kosten und Festlegung von Jahresbeiträgen
 
 (1) Die durch Beiträge nach
 
@@ -77,18 +71,15 @@ In den errechneten und in der Anlage ausgewiesenen Beträgen ist dieser Selbstbe
 
 (4) Für die für jede Nutzergruppe vorhandenen Bezugseinheiten sind die statistischen Unterlagen der Bundesnetzagentur maßgeblich.
 
-
-## § 4 – Fälligkeit
+# § 4 – Fälligkeit
 
 Der Beitrag wird fällig mit der Bekanntgabe des Beitragsbescheids, wenn nicht die Behörde einen späteren Zeitpunkt bestimmt. § 17 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung gilt entsprechend.
 
-
-## § 5 – Säumniszuschlag
+# § 5 – Säumniszuschlag
 
 Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach, werden Säumniszuschläge entsprechend § 18 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung erhoben.
 
-
-## § 6 – Verjährung
+# § 6 – Verjährung
 
 (1) Eine Festsetzung der Beiträge, ihre Aufhebung oder Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist abgelaufen ist (Festsetzungsverjährung). Die Festsetzungsfrist beträgt vier Jahre. Sie beginnt am 1. Januar des dem Beitragsjahr folgenden Jahres, frühestens jedoch mit Kenntnis der Bundesnetzagentur von beitragsrelevanten Sachverhalten oder einer Mitteilung nach § 2 Abs. 6. Wird vor Ablauf der Frist ein Antrag auf Aufhebung oder Änderung der Festsetzung gestellt, ist die Festsetzungsfrist so lange gehemmt, bis über den Antrag unanfechtbar entschieden wurde.
 
@@ -100,27 +91,23 @@ Kommt der Beitragsschuldner seiner Zahlungsverpflichtung nicht nach, werden Säu
 
 (5) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet, beginnt eine neue vierjährige Verjährung.
 
-
-## § 7 – Erstattung von Beitragsanteilen
+# § 7 – Erstattung von Beitragsanteilen
 
 (1) Für Zeiten innerhalb eines Kalenderjahres, für die keine Beitragspflicht nach § 1 bestand, werden gezahlte Beitragsanteile je Kalendermonat mit einem Zwölftel des Jahresbeitrags erstattet oder mit der nächsten Beitragszahlung verrechnet.
 
 (2) Der Anspruch auf Erstattung zu viel gezahlter Beiträge verjährt nach vier Jahren (Erstattungsverjährung); mit der Verjährung erlischt der Erstattungsanspruch. Die Erstattungsverjährungsfrist beginnt mit Ablauf des Kalenderjahres, in dem der Erstattungsbescheid bekannt gegeben wurde.
 
-
-## § 8 – Anwendungsbestimmung
+# § 8 – Anwendungsbestimmung
 
 (1) Soweit Beitragsbescheide bestandskräftig geworden sind, verbleibt es bei ihren Festsetzungen. Soweit Beiträge für das Jahr 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 oder 2014 noch nicht bestandskräftig festgesetzt sind, sind die zum Zeitpunkt ihrer Festsetzung geltenden Vorschriften auf sie anzuwenden. Bei Festsetzungen für die Jahre 2003, 2004 und 2005 ist die Höhe dieser Beiträge auf den Betrag begrenzt, der sich im Einzelfall aus der Anwendung der für die Jahre 2003, 2004 und 2005 geltenden Anlage der Frequenzschutzbeitragsverordnung in der Fassung vom 27. Mai 2005 (BGBl. I S. 1538) ergibt.
 
 (2) Für die Bemessung der Frequenznutzungsbeiträge und der EMV-Beiträge für die Jahre 2015 und 2016 sind die Regelungen des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln in der bis zum 21. Dezember 2016 geltenden Fassung sowie die Regelungen des Gesetzes über Funkanlagen und Telekommunikationsendeinrichtungen in der bis zum 3. Juli 2017 geltenden Fassung maßgeblich.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2003 in Kraft.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2007, 2777 - 2782;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

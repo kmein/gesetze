@@ -1,24 +1,19 @@
-# [PauschAV] Verordnung über die Verteilung der pauschalen Abgeltung für Aufwendungen der Krankenkassen für versicherungsfremde Leistungen durch den Bund  (Pauschal-Abgeltungsverordnung - PauschAV)
-
-Ausfertigungsdatum: 26.04.2004
-
+% Verordnung über die Verteilung der pauschalen Abgeltung für Aufwendungen der Krankenkassen für versicherungsfremde Leistungen durch den Bund  (Pauschal-Abgeltungsverordnung - PauschAV)
+% Ausfertigungsdatum: 26.04.2004
  
-
-## § 1 – Verfahrensbeteiligte und zentrale Stelle
+# § 1 – Verfahrensbeteiligte und zentrale Stelle
 
 (1) Krankenkassen und Spitzenverbände der Krankenkassen im Sinne dieser Verordnung sind die in § 4 Abs. 2 und § 213 Abs. 1 des Fünften Buches Sozialgesetzbuch genannten Körperschaften.
 
 (2) Die Mitteilung der Spitzenverbände, wer zentrale Stelle nach § 221 Abs. 1 Satz 2 des Fünften Buches Sozialgesetzbuch ist, erfolgt bis zum 15. April 2004 an das Bundesamt für Soziale Sicherung.
 
-
-## § 2 – Zu berücksichtigende Ausgaben
+# § 2 – Zu berücksichtigende Ausgaben
 
 (1) Als Ausgaben für versicherungsfremde Leistungen im Sinne dieser Verordnung sind die in der Anlage aufgeführten Ausgaben zu berücksichtigen, soweit sie nach § 37 der Allgemeinen Verwaltungsvorschrift über das Rechnungswesen in der Sozialversicherung in der im Erhebungszeitraum geltenden Fassung und nach Maßgabe der Bestimmungen des Kontenrahmens für die Träger der gesetzlichen Krankenversicherung gebucht wurden.
 
 (2) Die Summe der in Absatz 1 genannten Ausgaben ist von den Krankenkassen gesondert in der jeweiligen Vierteljahresrechnung anzugeben. Die in der Vierteljahresrechnung für den Berichtszeitraum 1. Januar bis 31. Dezember ausgewiesene Summe gilt als endgültige Summe für die Berechnung der Verteilung auf die Krankenkassen.
 
-
-## § 3 – Verteilungsquote
+# § 3 – Verteilungsquote
 
 (1) Das Bundesamt für Soziale Sicherung legt die Verteilungsquote für die nach § 221 Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch vom Bund geleisteten Abgeltungsbeträge fest. Die Verteilungsquote entspricht dem Verhältnis der Summe der in Satz 1 genannten Beträge zur Summe der in § 2 Abs. 2 Satz 2 genannten Ausgaben.
 
@@ -32,8 +27,7 @@ zugrunde zu legen.
 
 (3) Das Bundesamt für Soziale Sicherung teilt die nach den Absätzen 1 und 2 ermittelte Verteilungsquote unverzüglich den Spitzenverbänden der Krankenkassen mit. Die Spitzenverbände stellen sicher, dass die Krankenkassen, für die sie zuständig sind, unverzüglich Kenntnis von der Verteilungsquote erhalten. Das Bundesamt für Soziale Sicherung macht die Verteilungsquote im Bundesanzeiger bekannt.
 
-
-## § 4 – Verteilungsverfahren
+# § 4 – Verteilungsverfahren
 
 (1) Das Bundesamt für Soziale Sicherung ermittelt für jede Krankenkasse die Höhe des Jahresabgeltungsbetrages, indem die in § 2 Abs. 2 Satz 2 genannte Summe der Ausgaben der jeweiligen Krankenkasse mit der nach § 3 Abs. 1 festgelegten Verteilungsquote vervielfacht wird.
 
@@ -47,13 +41,11 @@ zugrunde zu legen.
 
 (6) Das Bundesamt für Soziale Sicherung kann im Einvernehmen mit den Spitzenverbänden der Krankenkassen das Verteilungsverfahren vereinfachen.
 
-
-## § 5 – Korrekturverfahren
+# § 5 – Korrekturverfahren
 
 Werden nach Abschluss der Ermittlung der Werte nach § 4 Abs. 1 sachliche oder rechnerische Fehler in den Berechnungsgrundlagen festgestellt, berücksichtigt das Bundesamt für Soziale Sicherung diese im nächsten Verteilungsverfahren. Das Nähere regelt das Bundesamt für Soziale Sicherung im Einvernehmen mit den Spitzenverbänden der Krankenkassen.
 
-
-## Anlage – (zu § 2 Abs. 1)
+# Anlage – (zu § 2 Abs. 1)
 
 (Fundstelle: BGBl. I 2004, 645)
 

@@ -1,15 +1,11 @@
-# [DDR-IG] Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)  (DDR-Investitionsgesetz - DDR-IG)
-
-Ausfertigungsdatum: 26.06.1990
-
+% Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)  (DDR-Investitionsgesetz - DDR-IG)
+% Ausfertigungsdatum: 26.06.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in eine Kapitalgesellschaft oder Erwerbs- oder Wirtschaftsgenossenschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
+# § 1 – Steuerfreie Rücklage bei Überführung bestimmter Wirtschaftsgüter in eine Kapitalgesellschaft oder Erwerbs- oder Wirtschaftsgenossenschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 
 (1) Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermitteln und zum Anlagevermögen eines inländischen Betriebs gehörende abnutzbare Wirtschaftsgüter in eine Kapitalgesellschaft mit Sitz und Geschäftsleitung in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) gegen Gewährung neuer Anteile an der Gesellschaft überführen, können im Wirtschaftsjahr der Überführung bis zur Höhe des durch die Überführung entstandenen Gewinns eine den steuerlichen Gewinn mindernde Rücklage bilden. Besteht bereits eine Beteiligung an einer Kapitalgesellschaft mit Sitz und Geschäftsleitung in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) und werden in einem solchen Fall zum Anlagevermögen eines inländischen Betriebs gehörende abnutzbare Wirtschaftsgüter in die Gesellschaft ohne Gewährung neuer Anteile und ohne eine sonstige Gegenleistung, die dem Wert der überführten Wirtschaftsgüter entspricht, überführt, gilt Satz 1 mit der Maßgabe entsprechend, daß im Wirtschaftsjahr der Überführung bis zur Höhe des infolge der unentgeltlichen oder teilunentgeltlichen Überführung entstandenen Gewinns eine Rücklage gebildet werden kann. Die Rücklage ist spätestens vom zehnten auf ihre Bildung folgenden Wirtschaftsjahr an jährlich mit mindestens einem Zehntel gewinnerhöhend aufzulösen.
 
@@ -25,8 +21,7 @@ Zum Schluß des Wirtschaftsjahrs, in dem die Voraussetzungen der Nummer 1 oder 2
 
 (4) Die Absätze 1 bis 3 sind bei der Überführung von zum Anlagevermögen eines inländischen Betriebs gehörenden abnutzbaren Wirtschaftsgütern in eine Erwerbs- oder Wirtschaftsgenossenschaft mit Sitz und Geschäftsleitung in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) sinngemäß anzuwenden.
 
-
-## § 2 – Steuerfreie Rücklage für Verluste einer Tochtergesellschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
+# § 2 – Steuerfreie Rücklage für Verluste einer Tochtergesellschaft in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)
 
 (1) Unbeschränkt Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermitteln, können für Verluste einer Kapitalgesellschaft mit Sitz und Geschäftsleitung in der Deutschen Demokratischen Republik einschließlich Berlin (Ost), an deren Nennkapital der Steuerpflichtige mindestens zu 10 vom Hundert unmittelbar beteiligt ist (Tochtergesellschaft), eine den steuerlichen Gewinn mindernde Rücklage bilden. Die Bildung der Rücklage ist für das Wirtschaftsjahr, in dem der Steuerpflichtige Anteile an der Tochtergesellschaft in einem Ausmaß erwirbt, das erstmals zu einer Beteiligung des Steuerpflichtigen in dem in Satz 1 bezeichneten Umfang führt, oder - wenn der Steuerpflichtige an der Tochtergesellschaft bereits in dem in Satz 1 bezeichneten Umfang beteiligt war - in dem er weitere Anteile an dieser Gesellschaft erwirbt, und in den vier folgenden Wirtschaftsjahren zulässig; die neu erworbenen Anteile müssen mindestens 5 vom Hundert des Nennkapitals der Tochtergesellschaft betragen. Die Rücklage darf für das Wirtschaftsjahr des Steuerpflichtigen, in dem der Verlust der Tochtergesellschaft entstanden ist, bis zur Höhe des Teils des Verlustes gebildet werden, der dem Verhältnis der neu erworbenen Anteile zum Nennkapital dieser Gesellschaft entspricht; sie ist zu vermindern um den Betrag, in dessen Höhe der Steuerpflichtige im Wirtschaftsjahr ihrer Bildung auf die neu erworbenen Anteile an der Tochtergesellschaft eine Teilwertabschreibung vornimmt. Die Rücklage darf den Betrag nicht übersteigen, mit dem die neu erworbenen Anteile in der Steuerbilanz angesetzt sind.
 
@@ -70,21 +65,17 @@ spätestens jedoch am Schluß des fünften auf ihre Bildung folgenden Wirtschaft
 
 (4) Die Absätze 1 bis 3 sind für Verluste einer Erwerbs- oder Wirtschaftsgenossenschaft mit Sitz und Geschäftsleitung in der Deutschen Demokratischen Republik einschließlich Berlin (Ost) sinngemäß anzuwenden.
 
-
-## § 3 – Gewerbesteuer
+# § 3 – Gewerbesteuer
 
 Die Vorschriften der §§ 1 und 2 gelten auch für die Ermittlung des Gewerbeertrags nach § 7 des Gewerbesteuergesetzes.
 
+# §§ 4 und 5 – ----
 
-## §§ 4 und 5 – ----
-
-
-## § 6 – Berlin-Klausel
+# § 6 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 7 – Inkrafttreten, Anwendungszeitraum
+# § 7 – Inkrafttreten, Anwendungszeitraum
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft. Es ist erstmals anzuwenden für Wirtschaftsjahre, die im Veranlagungszeitraum 1990 enden.
 

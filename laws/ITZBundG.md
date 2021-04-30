@@ -1,17 +1,13 @@
-# [ITZBundG] Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts  (ITZBund-Umwandlungsgesetz - ITZBundG)
-
-Ausfertigungsdatum: 07.12.2020
-
+% Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts  (ITZBund-Umwandlungsgesetz - ITZBundG)
+% Ausfertigungsdatum: 07.12.2020
  
-
-## § 1 – Errichtung, Sitz, Außenstellen
+# § 1 – Errichtung, Sitz, Außenstellen
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird das Informationstechnikzentrum Bund in eine bundesunmittelbare nichtrechtsfähige Anstalt des öffentlichen Rechts umgewandelt (Bundesanstalt). Sie ist eine Bundesoberbehörde und trägt die Bezeichnung „Informationstechnikzentrum Bund (ITZBund)“.
 
 (2) Die Bundesanstalt hat ihren Sitz in Bonn. Sie kann Außenstellen als Hauptstellen oder Nebenstellen einrichten.
 
-
-## § 2 – Aufgaben und Leistungen der Bundesanstalt
+# § 2 – Aufgaben und Leistungen der Bundesanstalt
 
 (1) Die Bundesanstalt hat die Aufgabe, IT-Leistungen für Behörden und Organisationen des Bundes bereitzustellen und deren Funktionsfähigkeit, Sicherheit, Qualität, Wirtschaftlichkeit und Verfügbarkeit zu gewährleisten. Dazu gehören insbesondere die Softwareentwicklung, Bereitstellung von Basis- und Querschnittsdiensten und IT-Arbeitsplätzen, Werkzeugen für Anwendungsentwicklung, Infrastruktur- und Hardwareleistungen, der IT-Betrieb in Rechenzentren und Beratungsleistungen.
 
@@ -25,15 +21,13 @@ Ausfertigungsdatum: 07.12.2020
 
 (6) Die Bundesanstalt erbringt ihre Leistungen in einem Auftraggeber-/Auftragnehmer-Verhältnis im Regelfall auf der Grundlage standardisierter Prozesse.
 
-
-## § 3 – Organe der Bundesanstalt
+# § 3 – Organe der Bundesanstalt
 
 (1) Organe der Bundesanstalt sind das Direktorium und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe bestimmt die Satzung, soweit sie nicht durch dieses Gesetz geregelt sind.
 
-
-## § 4 – Direktorium der Bundesanstalt
+# § 4 – Direktorium der Bundesanstalt
 
 (1) Das Direktorium verantwortet das operative Geschäft. Es unterrichtet den Verwaltungsrat über den Stand der Geschäftsführung. Dies beinhaltet auch die Auftrags- und Ressourcenentwicklung in der Bundesanstalt. Näheres regelt die Satzung.
 
@@ -47,8 +41,7 @@ Ausfertigungsdatum: 07.12.2020
 
 (6) Wird eine Bundesbeamtin oder ein Bundesbeamter zum Direktoriumsmitglied bestellt, wird sie oder er für die Dauer des Anstellungsverhältnisses beurlaubt. Die Zeit der Beurlaubung ist ruhegehaltfähig. Die Sätze 1 und 2 gelten für Richterinnen und Richter und für Berufssoldatinnen und Berufssoldaten entsprechend.
 
-
-## § 5 – Verwaltungsrat der Bundesanstalt
+# § 5 – Verwaltungsrat der Bundesanstalt
 
 (1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er entscheidet über die strategische Ausrichtung der Bundesanstalt. Das Direktorium und jedes Mitglied des Verwaltungsrats können dem Verwaltungsrat Vorschläge zur Entscheidung unterbreiten. Der Verwaltungsrat überwacht die Geschäftsführung des Direktoriums und gibt den Wirtschaftsplan frei. Der Verwaltungsrat handelt im Rahmen der Vorgaben der Beschlüsse der Gremien der IT-Steuerung des Bundes.
 
@@ -64,13 +57,11 @@ Ausfertigungsdatum: 07.12.2020
 
 (7) Zur Unterstützung des Verwaltungsrats wird in der Bundesanstalt eine Geschäftsstelle eingerichtet.
 
-
-## § 6 – Kundenbeirat der Bundesanstalt
+# § 6 – Kundenbeirat der Bundesanstalt
 
 Zur Vertretung der Kundeninteressen wird in der Bundesanstalt der bereits in der Behörde eingerichtete Kundenbeirat fortgeführt. Der Kundenbeirat kann sich eine Geschäftsordnung geben.
 
-
-## § 7 – Satzung
+# § 7 – Satzung
 
 (1) Die Bundesanstalt gibt sich eine Satzung. Die Satzung wird durch den Verwaltungsrat erlassen. Sie bedarf der Genehmigung des Bundesministeriums der Finanzen. Die Satzung wird im Bundesanzeiger veröffentlicht.
 
@@ -82,8 +73,7 @@ Zur Vertretung der Kundeninteressen wird in der Bundesanstalt der bereits in der
 
 3. den Wirtschaftsplan.
 
-
-## § 8 – Aufsicht
+# § 8 – Aufsicht
 
 (1) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Die fachliche Zuständigkeit für die jeweiligen Fachverfahren verbleibt bei den Auftraggebern.
 
@@ -91,8 +81,7 @@ Zur Vertretung der Kundeninteressen wird in der Bundesanstalt der bereits in der
 
 (+++ § 8 Abs. 2: Zur Nichtanwendung vgl. § 10 Abs. 1 Satz 2 +++)
 
-
-## § 9 – Anwendung des Haushaltsrechts, Finanzierung und Wirtschaftsplan
+# § 9 – Anwendung des Haushaltsrechts, Finanzierung und Wirtschaftsplan
 
 (1) Das Haushaltsrecht gilt uneingeschränkt.
 
@@ -100,8 +89,7 @@ Zur Vertretung der Kundeninteressen wird in der Bundesanstalt der bereits in der
 
 (3) Die Bundesanstalt stellt für jedes Kalenderjahr rechtzeitig vor dessen Beginn einen Wirtschaftsplan auf. Der Wirtschaftsplan enthält die zu erwartenden Einnahmen, die voraussichtlich zu leistenden Ausgaben und die voraussichtlich benötigten Verpflichtungsermächtigungen sowie eine verbindliche Übersicht über die Planstellen der Beamtinnen und Beamten und die Stellen der Arbeitnehmerinnen und Arbeitnehmer. Geschäftsjahr ist das Kalenderjahr. Der Wirtschaftsplan bedarf der Genehmigung durch das Bundesministerium der Finanzen.
 
-
-## § 10 – Tätigkeit der Bundesanstalt im Steuerbereich, Auftragsverarbeitung
+# § 10 – Tätigkeit der Bundesanstalt im Steuerbereich, Auftragsverarbeitung
 
 (1) Soweit die Bundesanstalt für andere Bundesfinanzbehörden
 
@@ -133,7 +121,6 @@ unterliegt sie als Bundesfinanzbehörde allein den Weisungen des Bundesministeri
 
 Der Auftragsverarbeiter der Bundesanstalt darf sich nur mit Zustimmung des Bundesministeriums der Finanzen oder der von ihm bestimmten Stelle der Bundesfinanzverwaltung und unter Einhaltung der in Satz 1 bezeichneten Voraussetzungen eines weiteren Auftragsverarbeiters bedienen.
 
-
-## § 11 – Dienstsiegel
+# § 11 – Dienstsiegel
 
 Die Bundesanstalt führt als Dienstsiegel das kleine Bundessiegel mit der Umschrift „Informationstechnikzentrum Bund – ITZBund“.

@@ -1,10 +1,7 @@
-# [GrEStG] Grunderwerbsteuergesetz  (GrEStG)
-
-Ausfertigungsdatum: 17.12.1982
-
+% Grunderwerbsteuergesetz  (GrEStG)
+% Ausfertigungsdatum: 17.12.1982
  
-
-## § 1 – Erwerbsvorgänge
+# § 1 – Erwerbsvorgänge
 
 (1) Der Grunderwerbsteuer unterliegen die folgenden Rechtsvorgänge, soweit sie sich auf inländische Grundstücke beziehen:
 
@@ -58,8 +55,7 @@ c) der Übergang des Eigentums im Zwangsversteigerungsverfahren;
 
 (+++ § 1: Zur Anwendung vgl. § 23 +++)
 
-
-## § 2 – Grundstücke
+# § 2 – Grundstücke
 
 (1) Unter Grundstücken im Sinne dieses Gesetzes sind Grundstücke im Sinne des bürgerlichen Rechts zu verstehen. Jedoch werden nicht zu den Grundstücken gerechnet:
 
@@ -79,8 +75,7 @@ c) der Übergang des Eigentums im Zwangsversteigerungsverfahren;
 
 (3) Bezieht sich ein Rechtsvorgang auf mehrere Grundstücke, die zu einer wirtschaftlichen Einheit gehören, so werden diese Grundstücke als ein Grundstück behandelt. Bezieht sich ein Rechtsvorgang auf einen oder mehrere Teile eines Grundstücks, so werden diese Teile als ein Grundstück behandelt.
 
-
-## § 3 – Allgemeine Ausnahmen von der Besteuerung
+# § 3 – Allgemeine Ausnahmen von der Besteuerung
 
 Von der Besteuerung sind ausgenommen:
 
@@ -94,8 +89,7 @@ Von der Besteuerung sind ausgenommen:
 
 5. der Grundstückserwerb durch den früheren Ehegatten des Veräußerers im Rahmen der Vermögensauseinandersetzung nach der Scheidung;
 
-5a.  
-der Grundstückserwerb durch den früheren Lebenspartner des Veräußerers im Rahmen der Vermögensauseinandersetzung nach der Aufhebung der Lebenspartnerschaft;
+5a. der Grundstückserwerb durch den früheren Lebenspartner des Veräußerers im Rahmen der Vermögensauseinandersetzung nach der Aufhebung der Lebenspartnerschaft;
 
 6. der Erwerb eines Grundstücks durch Personen, die mit dem Veräußerer in gerader Linie verwandt sind oder deren Verwandtschaft durch die Annahme als Kind bürgerlich-rechtlich erloschen ist. Den Abkömmlingen stehen die Stiefkinder gleich. Den in den Sätzen 1 und 2 genannten Personen stehen deren Ehegatten oder deren Lebenspartner gleich;
 
@@ -105,8 +99,7 @@ der Grundstückserwerb durch den früheren Lebenspartner des Veräußerers im Ra
 
 (+++ § 3 Nr. 3 bis 7: Zur Anwendung vgl. § 23 Abs. 9 +++)
 
-
-## § 4 – Besondere Ausnahmen von der Besteuerung
+# § 4 – Besondere Ausnahmen von der Besteuerung
 
 Von der Besteuerung sind ausgenommen:
 
@@ -124,8 +117,7 @@ Von der Besteuerung sind ausgenommen:
 
 (+++ § 4: Zur Anwendung vgl. § 23 Abs. 5, 11 +++)
 
-
-## § 5 – Übergang auf eine Gesamthand
+# § 5 – Übergang auf eine Gesamthand
 
 (1) Geht ein Grundstück von mehreren Miteigentümern auf eine Gesamthand (Gemeinschaft zur gesamten Hand) über, so wird die Steuer nicht erhoben, soweit der Anteil des einzelnen am Vermögen der Gesamthand Beteiligten seinem Bruchteil am Grundstück entspricht.
 
@@ -135,8 +127,7 @@ Von der Besteuerung sind ausgenommen:
 
 (+++ § 5: Zur Anwendung vgl. § 23 +++)
 
-
-## § 6 – Übergang von einer Gesamthand
+# § 6 – Übergang von einer Gesamthand
 
 (1) Geht ein Grundstück von einer Gesamthand in das Miteigentum mehrerer an der Gesamthand beteiligter Personen über, so wird die Steuer nicht erhoben, soweit der Bruchteil, den der einzelne Erwerber erhält, dem Anteil entspricht, zu dem er am Vermögen der Gesamthand beteiligt ist. Wird ein Grundstück bei der Auflösung der Gesamthand übertragen, so ist die Auseinandersetzungsquote maßgebend, wenn die Beteiligten für den Fall der Auflösung der Gesamthand eine vom Beteiligungsverhältnis abweichende Auseinandersetzungsquote vereinbart haben.
 
@@ -148,15 +139,13 @@ Von der Besteuerung sind ausgenommen:
 
 (+++ § 5: Zur Anwendung vgl. § 23 +++)
 
-
-## § 6a – Steuervergünstigung bei Umstrukturierungen im Konzern
+# § 6a – Steuervergünstigung bei Umstrukturierungen im Konzern
 
 Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2, 2a, 3 oder Absatz 3a steuerbaren Rechtsvorgang auf Grund einer Umwandlung im Sinne des § 1 Absatz 1 Nummer 1 bis 3 des Umwandlungsgesetzes, einer Einbringung oder eines anderen Erwerbsvorgangs auf gesellschaftsvertraglicher Grundlage wird die Steuer nicht erhoben. Satz 1 gilt auch für entsprechende Umwandlungen, Einbringungen sowie andere Erwerbsvorgänge auf gesellschaftsvertraglicher Grundlage auf Grund des Rechts eines Mitgliedstaates der Europäischen Union oder eines Staats, auf den das Abkommen über den Europäischen Wirtschaftsraum Anwendung findet. Satz 1 gilt nur, wenn an dem dort genannten Rechtsvorgang ausschließlich ein herrschendes Unternehmen und ein oder mehrere von diesem herrschenden Unternehmen abhängige Gesellschaften oder mehrere von einem herrschenden Unternehmen abhängige Gesellschaften beteiligt sind. Im Sinne von Satz 3 abhängig ist eine Gesellschaft, an deren Kapital oder Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist. Satz 3 gilt nicht, soweit allein durch den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union das herrschende Unternehmen nicht im Sinne von Satz 4 innerhalb von fünf Jahren nach dem Rechtsvorgang unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom Hundert ununterbrochen beteiligt ist.
 
 (+++ § 6a: Zur Anwendung vgl. § 23 Abs. 8, 10, 11 +++)
 
-
-## § 7 – Umwandlung von gemeinschaftlichem Eigentum in Flächeneigentum
+# § 7 – Umwandlung von gemeinschaftlichem Eigentum in Flächeneigentum
 
 (1) Wird ein Grundstück, das mehreren Miteigentümern gehört, von den Miteigentümern flächenweise geteilt, so wird die Steuer nicht erhoben, soweit der Wert des Teilgrundstücks, das der einzelne Erwerber erhält, dem Bruchteil entspricht, zu dem er am gesamten zu verteilenden Grundstück beteiligt ist.
 
@@ -164,8 +153,7 @@ Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2, 2a, 3 oder Absatz 3a st
 
 (3) Die Vorschriften des Absatzes 2 gelten insoweit nicht, als ein Gesamthänder - im Fall der Erbfolge sein Rechtsvorgänger - seinen Anteil an der Gesamthand innerhalb von fünf Jahren vor der Umwandlung durch Rechtsgeschäft unter Lebenden erworben hat. Die Vorschrift des Absatzes 2 Satz 2 gilt außerdem insoweit nicht, als die vom Beteiligungsverhältnis abweichende Auseinandersetzungsquote innerhalb der letzten fünf Jahre vor der Auflösung der Gesamthand vereinbart worden ist.
 
-
-## § 8 – Grundsatz
+# § 8 – Grundsatz
 
 (1) Die Steuer bemißt sich nach dem Wert der Gegenleistung.
 
@@ -182,8 +170,7 @@ Erstreckt sich der Erwerbsvorgang auf ein noch zu errichtendes Gebäude oder ber
 (+++ § 8 Abs. 2: Zur Anwendung vgl. § 23 Abs. 4, 6, 11, 14 +++)  
 § 8 Abs. 2: Mit Art. 3 Abs. 1 GG unvereinbar gem. Nr. 1 BVerfGE v. 23.6.2015 I 1423 - 1 BvL 13/11, 1 BvL 14/11 -; das bisherige Recht ist bis zum 31.12.2008 weiter anwendbar; der Gesetzgeber ist verpflichtet, spätestens bis zum 30.6.2016 rückwirkend zum 1.1.2009 eine Neuregelung zu treffen, vgl. Nr. 2 BVerfGE v. 23.6.2015 I 1423 - 1 BvL 13/11, 1 BvL 14/11 -
 
-
-## § 9 – Gegenleistung
+# § 9 – Gegenleistung
 
 (1) Als Gegenleistung gelten
 
@@ -229,25 +216,21 @@ die Entschädigung. Wird ein Grundstück enteignet, das zusammen mit anderen Gru
 
 (3) Die Grunderwerbsteuer, die für den zu besteuernden Erwerbsvorgang zu entrichten ist, wird der Gegenleistung weder hinzugerechnet noch von ihr abgezogen.
 
-
-## § 10
+# § 10
 
 (weggefallen)
 
-
-## § 11 – Steuersatz, Abrundung
+# § 11 – Steuersatz, Abrundung
 
 (1) Die Steuer beträgt 3,5 vom Hundert.
 
 (2) Die Steuer ist auf volle Euro nach unten abzurunden.
 
-
-## § 12 – Pauschbesteuerung
+# § 12 – Pauschbesteuerung
 
 Das Finanzamt kann im Einvernehmen mit dem Steuerpflichtigen von der genauen Ermittlung des Steuerbetrags absehen und die Steuer in einem Pauschbetrag festsetzen, wenn dadurch die Besteuerung vereinfacht und das steuerliche Ergebnis nicht wesentlich geändert wird.
 
-
-## § 13 – Steuerschuldner
+# § 13 – Steuerschuldner
 
 Steuerschuldner sind
 
@@ -288,8 +271,7 @@ der Rechtsträger, der die wirtschaftliche Beteiligung innehat.
 
 (+++ § 13: Zur Anwendung vgl. § 23 Abs. 3, 6, 11 +++)
 
-
-## § 14 – Entstehung der Steuer in besonderen Fällen
+# § 14 – Entstehung der Steuer in besonderen Fällen
 
 Die Steuer entsteht,
 
@@ -297,13 +279,11 @@ Die Steuer entsteht,
 
 2. wenn ein Erwerbsvorgang einer Genehmigung bedarf, mit der Genehmigung.
 
-
-## § 15 – Fälligkeit der Steuer
+# § 15 – Fälligkeit der Steuer
 
 Die Steuer wird einen Monat nach der Bekanntgabe des Steuerbescheids fällig. Das Finanzamt darf eine längere Zahlungsfrist setzen.
 
-
-## § 16
+# § 16
 
 (1) Wird ein Erwerbsvorgang rückgängig gemacht bevor das Eigentum am Grundstück auf den Erwerber übergegangen ist, so wird auf Antrag die Steuer nicht festgesetzt oder die Steuerfestsetzung aufgehoben,
 
@@ -331,8 +311,7 @@ Die Steuer wird einen Monat nach der Bekanntgabe des Steuerbescheids fällig. Da
 
 (+++ § 16: Zur Anwendung vgl. § 23 Abs. 3, 6, 7, 11 +++)
 
-
-## § 17 – Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen
+# § 17 – Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen
 
 (1) Für die Besteuerung ist vorbehaltlich des Satzes 2 das Finanzamt örtlich zuständig, in dessen Bezirk das Grundstück oder der wertvollste Teil des Grundstücks liegt. Liegt das Grundstück in den Bezirken von Finanzämtern verschiedener Länder, so ist jedes dieser Finanzämter für die Besteuerung des Erwerbs insoweit zuständig, als der Grundstücksteil in seinem Bezirk liegt.
 
@@ -359,8 +338,7 @@ Wird von der gesonderten Feststellung abgesehen, so ist in den Fällen der Numme
 (+++ § 17 Abs. 3: Zur Anwendung vgl. § 23 Abs. 3, 6, 11 +++)  
 (+++ § 17 Abs. 3a: Zur Anwendung vgl. § 23 Abs. 14 +++)
 
-
-## § 18 – Anzeigepflicht der Gerichte, Behörden und Notare
+# § 18 – Anzeigepflicht der Gerichte, Behörden und Notare
 
 (1) Gerichte, Behörden und Notare haben dem zuständigen Finanzamt schriftlich Anzeige nach amtlich vorgeschriebenem Vordruck zu erstatten über
 
@@ -384,8 +362,7 @@ Der Anzeige ist eine Abschrift der Urkunde über den Rechtsvorgang, den Antrag, 
 
 (+++ § 18 Abs. 2 Satz 2: Zur Anwendung vgl. § 23 Abs. 16 +++)
 
-
-## § 19 – Anzeigepflicht der Beteiligten
+# § 19 – Anzeigepflicht der Beteiligten
 
 (1) Steuerschuldner müssen Anzeige erstatten über
 
@@ -395,8 +372,7 @@ Der Anzeige ist eine Abschrift der Urkunde über den Rechtsvorgang, den Antrag, 
 
 3. den Erwerb von Gebäuden auf fremdem Boden;
 
-3a.  
-unmittelbare und mittelbare Änderungen des Gesellschafterbestandes einer Personengesellschaft, die innerhalb von fünf Jahren zum Übergang von 95 vom Hundert der Anteile am Gesellschaftsvermögen auf neue Gesellschafter geführt haben, wenn zum Vermögen der Personengesellschaft ein inländisches Grundstück gehört (§ 1 Abs. 2a);
+3a. unmittelbare und mittelbare Änderungen des Gesellschafterbestandes einer Personengesellschaft, die innerhalb von fünf Jahren zum Übergang von 95 vom Hundert der Anteile am Gesellschaftsvermögen auf neue Gesellschafter geführt haben, wenn zum Vermögen der Personengesellschaft ein inländisches Grundstück gehört (§ 1 Abs. 2a);
 
 4. schuldrechtliche Geschäfte, die auf die Vereinigung von mindestens 95 vom Hundert der Anteile einer Gesellschaft gerichtet sind, wenn zum Vermögen der Gesellschaft ein Grundstück gehört (§ 1 Abs. 3 Nr. 1);
 
@@ -406,8 +382,7 @@ unmittelbare und mittelbare Änderungen des Gesellschafterbestandes einer Person
 
 7. die Übertragung von mindestens 95 vom Hundert der Anteile einer Gesellschaft auf einen anderen, wenn zum Vermögen der Gesellschaft ein Grundstück gehört (§ 1 Abs. 3 Nr. 4);
 
-7a.  
-Rechtsvorgänge, aufgrund derer ein Rechtsträger unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche Beteiligung in Höhe von mindestens 95 vom Hundert an einer Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört, innehat (§ 1 Absatz 3a);
+7a. Rechtsvorgänge, aufgrund derer ein Rechtsträger unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche Beteiligung in Höhe von mindestens 95 vom Hundert an einer Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört, innehat (§ 1 Absatz 3a);
 
 8. Entscheidungen im Sinne von § 18 Abs. 1 Satz 1 Nr. 3. Die Anzeigepflicht besteht auch beim Wechsel im Grundstückseigentum auf Grund einer Eintragung im Handels-, Genossenschafts- oder Vereinsregister.
 
@@ -423,8 +398,7 @@ Sie haben auch alle Erwerbsvorgänge anzuzeigen, über die ein Gericht, eine Beh
 
 4. Änderungen im Gesellschafterbestand einer Gesamthand bei Gewährung der Steuervergünstigung nach § 5 Abs. 1 und 2 oder § 6 Abs. 3 in Verbindung mit § 6 Abs. 1;
 
-4a.  
-Änderungen von Beherrschungsverhältnissen im Sinne des § 6a Satz 4;
+4a. Änderungen von Beherrschungsverhältnissen im Sinne des § 6a Satz 4;
 
 5. Änderungen in der Nutzung oder den Verzicht auf Rückübertragung, wenn der Grundstückserwerb nach § 4 Nummer 5 von der Besteuerung ausgenommen war.
 
@@ -438,8 +412,7 @@ Sie haben auch alle Erwerbsvorgänge anzuzeigen, über die ein Gericht, eine Beh
 
 (+++ § 19: Zur Anwendung vgl. § 23 +++)
 
-
-## § 20 – Inhalt der Anzeigen
+# § 20 – Inhalt der Anzeigen
 
 (1) Die Anzeigen müssen enthalten:
 
@@ -465,27 +438,23 @@ Sie haben auch alle Erwerbsvorgänge anzuzeigen, über die ein Gericht, eine Beh
 
 (+++ § 20: Zur Anwendung vgl. § 23 Abs. 16 +++)
 
-
-## § 21 – Urkundenaushändigung
+# § 21 – Urkundenaushändigung
 
 Die Gerichte, Behörden und Notare dürfen Urkunden, die einen anzeigepflichtigen Vorgang betreffen, den Beteiligten erst aushändigen und Ausfertigungen oder beglaubigte Abschriften den Beteiligten erst erteilen, wenn sie die Anzeigen in allen Teilen vollständig (§§ 18 und 20) an das Finanzamt abgesandt haben.
 
 (+++ § 21: Zur Anwendung vgl. § 23 Abs. 13 +++)
 
-
-## § 22 – Unbedenklichkeitsbescheinigung
+# § 22 – Unbedenklichkeitsbescheinigung
 
 (1) Der Erwerber eines Grundstücks darf in das Grundbuch erst dann eingetragen werden, wenn eine Bescheinigung des für die Besteuerung zuständigen Finanzamts vorgelegt wird (§ 17 Abs. 1 Satz 1) oder Bescheinigungen der für die Besteuerung zuständigen Finanzämter (§ 17 Abs. 1 Satz 2) vorgelegt werden, daß der Eintragung steuerliche Bedenken nicht entgegenstehen. Die obersten Finanzbehörden der Länder können im Einvernehmen mit den Landesjustizverwaltungen Ausnahmen hiervon vorsehen.
 
 (2) Das Finanzamt hat die Bescheinigung zu erteilen, wenn die Grunderwerbsteuer entrichtet, sichergestellt oder gestundet worden ist oder wenn Steuerfreiheit gegeben ist. Es darf die Bescheinigung auch in anderen Fällen erteilen, wenn nach seinem Ermessen die Steuerforderung nicht gefährdet ist. Das Finanzamt hat die Bescheinigung schriftlich zu erteilen. Eine elektronische Übermittlung der Bescheinigung ist ausgeschlossen.
 
-
-## § 22a – Ermächtigung
+# § 22a – Ermächtigung
 
 Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Finanzen ermächtigt, im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat und mit Zustimmung des Bundesrates durch Rechtsverordnung ein Verfahren zur elektronischen Übermittlung der Anzeige und der Abschrift der Urkunde im Sinne des § 18 näher zu bestimmen. Die Authentifizierung des Datenübermittlers sowie die Vertraulichkeit und Integrität des übermittelten elektronischen Dokuments sind sicherzustellen. Soweit von dieser Ermächtigung nicht Gebrauch gemacht wurde, ist die elektronische Übermittlung der Anzeige und der Abschrift der Urkunde im Sinne des § 18 ausgeschlossen.
 
-
-## § 23 – Anwendungsbereich
+# § 23 – Anwendungsbereich
 
 (1) Dieses Gesetz ist auf Erwerbsvorgänge anzuwenden, die nach dem 31. Dezember 1982 verwirklicht werden. Es ist auf Antrag auch auf Erwerbsvorgänge anzuwenden, die vor dem 1. Januar 1983, jedoch nach dem Tag der Verkündung des Gesetzes, 22. Dezember 1982, verwirklicht werden.
 
@@ -521,10 +490,8 @@ Zur Vereinfachung des Besteuerungsverfahrens wird das Bundesministerium der Fina
 
 (17) § 1 Absatz 1 Nummer 3 Satz 2 Buchstabe a und b und § 19 Absatz 6 in der Fassung des Artikels 32 des Gesetzes vom 21. Dezember 2020 (BGBl. I S. 3096) sind erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 28. Dezember 2020 verwirklicht werden.
 
+# §§ 24 bis 27 – (weggefallen)
 
-## §§ 24 bis 27 – (weggefallen)
-
-
-## § 28
+# § 28
 
 (Inkrafttreten)

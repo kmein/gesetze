@@ -1,10 +1,7 @@
-# [LuftVStDV] Verordnung zur Durchführung des Luftverkehrsteuergesetzes  (Luftverkehrsteuer-Durchführungsverordnung - LuftVStDV)
-
-Ausfertigungsdatum: 22.08.2012
-
+% Verordnung zur Durchführung des Luftverkehrsteuergesetzes  (Luftverkehrsteuer-Durchführungsverordnung - LuftVStDV)
+% Ausfertigungsdatum: 22.08.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -19,23 +16,19 @@ das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium fü
 
 des Luftverkehrsteuergesetzes vom 9. Dezember 2010 (BGBl. I S. 1885):
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Ergänzende Begriffsbestimmungen zum Gesetz
+# § 1 – Ergänzende Begriffsbestimmungen zum Gesetz
 
 Als Luftverkehrsunternehmen im Sinne des § 2 Nummer 2 des Gesetzes gilt auch, wer die gewerbliche Beförderung von Personen betreibt und infolgedessen einer Genehmigung oder Erlaubnis nach den Vorschriften des Luftverkehrsgesetzes oder der Verordnung (EG) Nr. 1008/2008 des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (ABl. L 293 vom 31.10.2008, S. 3) in der jeweils geltenden Fassung bedarf.
 
-
-## § 2 – Erteilung der Erlaubnis als steuerlicher Beauftragter
+# § 2 – Erteilung der Erlaubnis als steuerlicher Beauftragter
 
 (1) Das zuständige Hauptzollamt erteilt die Erlaubnis nach § 8 Absatz 2 des Gesetzes schriftlich oder elektronisch.
 
 (2) Die Erlaubnis kann mit sämtlichen in § 120 Absatz 2 der Abgabenordnung aufgezählten Nebenbestimmungen verbunden werden.
 
-
-## § 3 – Anzeichen für eine Gefährdung der Steuer
+# § 3 – Anzeichen für eine Gefährdung der Steuer
 
 Als Anzeichen für eine Gefährdung der Steuer nach § 9 des Gesetzes ist es insbesondere anzusehen, wenn eine oder mehrere der folgenden Voraussetzungen erfüllt sind:
 
@@ -75,17 +68,14 @@ c) sind oder waren in einen Fall von Zahlungsunfähigkeit verwickelt, auf Grund 
 
 12. der Steuerschuldner stellt einen Antrag auf Stundung nach § 222 der Abgabenordnung.
 
+# §§ 4 bis 6 – (weggefallen)
 
-## §§ 4 bis 6 – (weggefallen)
-
-
-## § 6a – Kleinbetragsregelung
+# § 6a – Kleinbetragsregelung
 
 (1) Eine angemeldete oder festgesetzte Steuer wird vom zuständigen Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt, wenn die Abweichung von der angemeldeten oder festgesetzten Steuer mindestens 25 Euro beträgt.
 
 (2) Soweit die Festsetzung durch automatisierte Verfahren unterstützt wird, gilt Absatz 1 erst, wenn die entsprechende Regelung programmtechnisch umgesetzt worden ist.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2012 in Kraft.

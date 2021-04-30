@@ -1,15 +1,11 @@
-# [MilzbRbV] Verordnung zum Schutz gegen den Milzbrand und den Rauschbrand
-
-Ausfertigungsdatum: 23.05.1991
-
+% Verordnung zum Schutz gegen den Milzbrand und den Rauschbrand
+% Ausfertigungsdatum: 23.05.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 4 sowie des § 79 Abs. 1 Nr. 2 in Verbindung mit den §§ 18, 19 Abs. 1 und 2, § 20 Abs. 1 und 2, § 22 Abs. 1 und 4, den §§ 23 und 24 Abs. 1 und den §§ 26 und 27 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 28. März 1980 (BGBl. I S. 386), von denen § 17 Abs. 1 und die §§ 18, 23, 27 und 79 Abs. 1 durch Artikel 1 Nr. 9, 25, 27, 28 und 44 des Gesetzes vom 15. Februar 1991 (BGBl. I S. 461) geändert worden sind, verordnet der Bundesminister für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1
+# § 1
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -21,8 +17,7 @@ Im Sinne dieser Verordnung liegen vor:
 
 4. Verdacht des Ausbruchs des Rauschbrandes, wenn das Ergebnis der klinischen, der pathologisch-anatomischen oder der serologischen Untersuchung den Ausbruch des Rauschbrandes befürchten läßt.
 
-
-## § 2 – Impfungen
+# § 2 – Impfungen
 
 (1) Impfungen gegen Milzbrand sind verboten.
 
@@ -38,8 +33,7 @@ Im Sinne dieser Verordnung liegen vor:
 
 (4) Der Besitzer muß Tiere, die gegen Milzbrand geimpft worden sind, unverzüglich und deutlich sichtbar als geimpft kennzeichnen. Die zuständige Behörde kann Ausnahmen zulassen, wenn Belange der Seuchenbekämpfung nicht entgegenstehen.
 
-
-## § 3 – Schutzmaßregeln vor amtlicher Feststellung
+# § 3 – Schutzmaßregeln vor amtlicher Feststellung
 
 Im Falle des Ausbruchs oder des Verdachts des Ausbruchs von Milzbrand in einem Betrieb oder sonstigen Standort gilt vor der amtlichen Feststellung folgendes:
 
@@ -51,8 +45,7 @@ Im Falle des Ausbruchs oder des Verdachts des Ausbruchs von Milzbrand in einem B
 
 4. Von in Nummer 1 genannten Tieren stammende Teile, Rohstoffe, Erzeugnisse, Dung und flüssige Stallabgänge, ferner Futtermittel und Einstreu sowie sämtliche Gegenstände, die mit diesen Tieren in Berührung gekommen sind, dürfen nur mit Genehmigung der zuständigen Behörde aus dem Betrieb oder von dem sonstigen Standort verbracht werden.
 
-
-## § 4 – Schutzmaßregeln nach amtlicher Feststellung
+# § 4 – Schutzmaßregeln nach amtlicher Feststellung
 
 Ist der Ausbruch oder der Verdacht des Ausbruchs von Milzbrand in einem Betrieb oder an einem sonstigen Standort amtlich festgestellt, so unterliegt der Betrieb oder sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -74,8 +67,7 @@ Ist der Ausbruch oder der Verdacht des Ausbruchs von Milzbrand in einem Betrieb 
 
 9. Sämtliche Gegenstände, die mit den seuchenkranken oder verdächtigen Tieren oder ihren Abgängen in Berührung gekommen sind, dürfen nur mit Genehmigung der zuständigen Behörde aus dem Betrieb oder von dem sonstigen Standort verbracht werden. Vor dem Verbringen sind sie nach näherer Anweisung des beamteten Tierarztes zu reinigen und zu desinfizieren.
 
-
-## § 5 – Tötung und Heilversuch
+# § 5 – Tötung und Heilversuch
 
 (1) Ist in einem Bestand der Ausbruch oder der Verdacht des Ausbruchs von Milzbrand amtlich festgestellt, so kann die zuständige Behörde die Tötung und unschädliche Beseitigung der seuchenkranken und seuchenverdächtigen Tiere anordnen. Seuchenkranke oder seuchenverdächtige Tiere dürfen nicht unter Blutentzug getötet werden.
 
@@ -83,20 +75,17 @@ Ist der Ausbruch oder der Verdacht des Ausbruchs von Milzbrand in einem Betrieb 
 
 (3) Heilversuche an seuchenkranken oder seuchenverdächtigen Tieren dürfen nur von einem Tierarzt vorgenommen werden.
 
-
-## § 6 – Milzbrand bei Wildtieren
+# § 6 – Milzbrand bei Wildtieren
 
 § 4 Nr. 6 und § 5 Abs. 2 gelten für seuchenkrankes und seuchenverdächtiges Wild entsprechend.
 
-
-## § 7 – Reinigung und Desinfektion
+# § 7 – Reinigung und Desinfektion
 
 (1) Nach Entfernen der seuchenkranken oder seuchenverdächtigen Tiere muß der Besitzer die Ställe und sonstigen Standorte sowie sämtliche Gegenstände, die Träger des Seuchenerregers sein können, unverzüglich nach näherer Anweisung des beamteten Tierarztes reinigen und desinfizieren. In den Ställen oder sonstigen Standorten muß der Besitzer unverzüglich nach Entfernen der in Satz 1 bezeichneten Tiere eine Schadnagerbekämpfung durchführen.
 
 (2) Der Besitzer muß Dung von Pferden, Rindern, Schafen, Ziegen und Schweinen an einem für diese Tiere unzugänglichen Ort packen, mit einem geeigneten Desinfektionsmittel übergießen und mindestens drei Wochen lagern. Flüssige Stallabgänge muß er nach näherer Anweisung des beamteten Tierarztes desinfizieren. Futter und Einstreu, die Träger des Seuchenerregers sein können, muß er verbrennen oder zusammen mit dem Dung behandeln.
 
-
-## § 8
+# § 8
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn der Milzbrand erloschen ist oder der Verdacht auf Milzbrand beseitigt ist oder sich als unbegründet erwiesen hat.
 
@@ -110,13 +99,11 @@ b) binnen 14 Tagen nach Beseitigung der Tierkörper verendeter oder getöteter T
 
 (3) Der Verdacht auf Milzbrand gilt als beseitigt, wenn die seuchenverdächtigen Tiere des Betriebes verendet, getötet oder entfernt worden sind und bei den übrigen Tieren des Betriebes oder sonstigen Standortes innerhalb von 14 Tagen nach Beseitigung der seuchenverdächtigen Tiere keine Anzeichen festgestellt werden, die auf Milzbrand hinweisen.
 
-
-## § 9
+# § 9
 
 Wird bei Rindern Rauschbrand festgestellt oder liegt Verdacht auf Rauschbrand vor, so kann die zuständige Behörde die sinngemäße Anwendung der Schutzmaßregeln des Abschnitts 2 anordnen. Abschnitt 3 gilt entsprechend.
 
-
-## § 10
+# § 10
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -148,8 +135,7 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 14. entgegen § 7 Absatz 1 Satz 2 eine Schadnagerbekämpfung nicht oder nicht rechtzeitig durchführt.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 1991 in Kraft. Gleichzeitig treten außer Kraft:
 
@@ -168,7 +154,6 @@ Rheinland-Pfalz
 
 2. die Abschnitte 1, 2 und 3 der Landesverordnung zur Bekämpfung des Milz- und Rauschbrandes sowie der Räude der Einhufer und Schafe vom 29. Juni 1987 (Gesetz- und Verordnungsblatt für das Land Rheinland-Pfalz S. 185).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

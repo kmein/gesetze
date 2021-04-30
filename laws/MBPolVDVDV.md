@@ -1,17 +1,11 @@
-# [MBPolVDVDV] Verordnung über den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei  (MBPolVDVDV)
-
-Ausfertigungsdatum: 06.03.2020
-
+% Verordnung über den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei  (MBPolVDVDV)
+% Ausfertigungsdatum: 06.03.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Absatz 2 Satz 2 und 3 des Bundespolizeibeamtengesetzes, Satz 2 eingefügt durch Artikel 4 des Gesetzes vom 19. Oktober 2016 (BGBl. I S. 2362) verordnet das Bundesministerium des Innern, für Bau und Heimat:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -75,13 +69,13 @@ Auf Grund des § 3 Absatz 2 Satz 2 und 3 des Bundespolizeibeamtengesetzes, Satz 
 
  
 
+ 
 
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei.
 
-
-## § 2 – Ziele des Vorbereitungsdienstes
+# § 2 – Ziele des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst hat insbesondere zum Ziel,
 
@@ -91,8 +85,7 @@ Der Vorbereitungsdienst hat insbesondere zum Ziel,
 
 3. die Anwärterinnen und Anwärter zu verantwortlichem polizeilichen Handeln im freiheitlichen, demokratischen und sozialen Rechtsstaat zu befähigen.
 
-
-## § 3 – Einstellungsbehörde und Auswahlverfahren
+# § 3 – Einstellungsbehörde und Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Bundespolizeiakademie auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei geeignet sind.
 
@@ -102,8 +95,7 @@ Der Vorbereitungsdienst hat insbesondere zum Ziel,
 
 (4) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 4 – Auswahlkommission
+# § 4 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Bundespolizeipräsidium eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen den gleichen Bewertungsmaßstab anlegen.
 
@@ -121,8 +113,7 @@ Mindestens zwei Mitglieder der Auswahlkommission sollen dem Polizeivollzugsdiens
 
 (5) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Die Stimmen der Mitglieder der Auswahlkommission haben gleiches Gewicht.
 
-
-## § 5 – Bestandteile des Auswahlverfahrens
+# § 5 – Bestandteile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus den folgenden Teilen:
 
@@ -132,8 +123,7 @@ Das Auswahlverfahren besteht aus den folgenden Teilen:
 
 3. einem mündlichen Teil.
 
-
-## § 6 – Festlegungen des Bundespolizeipräsidiums
+# § 6 – Festlegungen des Bundespolizeipräsidiums
 
 (1) Das Bundespolizeipräsidium legt in Verwaltungsvorschriften fest:
 
@@ -157,8 +147,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (3) Das Bundespolizeipräsidium kann die Bewertungssystematik im laufenden Auswahlverfahren für jeden Teil ändern.
 
-
-## § 7 – Schriftlicher Teil
+# § 7 – Schriftlicher Teil
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist ein auf wissenschaftlicher Grundlage entwickelter Leistungstest.
 
@@ -182,8 +171,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (6) Die Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
-
-## § 8 – Bewertung und Bestehen des schriftlichen Teils
+# § 8 – Bewertung und Bestehen des schriftlichen Teils
 
 (1) Der schriftliche Teil des Auswahlverfahrens wird mit einer Punktzahl bewertet.
 
@@ -191,8 +179,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (3) Der schriftliche Teil ist bestanden, wenn die Bewerberin oder der Bewerber in jedem Teilabschnitt die erforderliche Mindestpunktzahl erreicht hat.
 
-
-## § 9 – Prüfung der körperlichen Leistungsfähigkeit und Bestehen
+# § 9 – Prüfung der körperlichen Leistungsfähigkeit und Bestehen
 
 (1) Die Prüfung der körperlichen Leistungsfähigkeit besteht aus mehreren sportlichen Leistungstests.
 
@@ -200,15 +187,13 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (3) Die Prüfung ist bestanden, wenn die Bewerberin oder der Bewerber die insgesamt erforderliche Mindestpunktzahl erreicht hat.
 
-
-## § 10 – Zulassung zum mündlichen Teil
+# § 10 – Zulassung zum mündlichen Teil
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens und die Prüfung der körperlichen Leistungsfähigkeit bestanden hat.
 
 (2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den schriftlichen Teil des Auswahlverfahrens und die Prüfung der körperlichen Leistungsfähigkeit bestanden haben, das Dreifache der Zahl der Ausbildungsplätze, so kann die Zahl der am mündlichen Teil des Auswahlverfahrens Teilnehmenden beschränkt werden; jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie Ausbildungsplätze zur Verfügung stehen. In diesem Fall wird zugelassen, wer nach der im schriftlichen Teil erzielten Punktzahl am besten geeignet ist.
 
-
-## § 11 – Mündlicher Teil
+# § 11 – Mündlicher Teil
 
 (1) Der mündliche Teil des Auswahlverfahrens dient dazu, die Eignung der Bewerberin oder des Bewerbers in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
 
@@ -216,8 +201,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (3) Die Dauer der Teilabschnitte einschließlich erforderlicher Vorbereitungszeiten beträgt je Bewerberin oder Bewerber höchstens 90 Minuten. Die Dauer der Teilabschnitte wird der Bewerberin oder dem Bewerber vor Beginn des mündlichen Teils mitgeteilt.
 
-
-## § 12 – Bewertung und Bestehen des mündlichen Teils
+# § 12 – Bewertung und Bestehen des mündlichen Teils
 
 (1) Nach jedem Abschnitt des mündlichen Teils des Auswahlverfahrens bewerten die Mitglieder der Auswahlkommission unabhängig voneinander die mit dem Teilabschnitt überprüften Kompetenzbereiche jeder Bewerberin und jedes Bewerbers.
 
@@ -225,8 +209,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (3) Der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die Bewerberin oder der Bewerber in jedem Teilabschnitt, für den eine Mindestpunktzahl vorgesehen ist, die erforderliche Mindestpunktzahl erreicht hat.
 
-
-## § 13 – Gesamtergebnis des Auswahlverfahrens und Rangfolge der Bewerberinnen und Bewerber
+# § 13 – Gesamtergebnis des Auswahlverfahrens und Rangfolge der Bewerberinnen und Bewerber
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber, die oder der den mündlichen Teil des Auswahlverfahrens bestanden hat, das Gesamtergebnis des Auswahlverfahrens.
 
@@ -236,15 +219,13 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 14 – Ordnungsverstoß
+# § 14 – Ordnungsverstoß
 
 (1) Im Fall einer Täuschung, eines Täuschungsversuchs, eines Mitwirkens an einer Täuschung oder an einem Täuschungsversuch oder im Fall eines sonstigen Ordnungsverstoßes kann die Bewerberin oder der Bewerber vom Auswahlverfahren ausgeschlossen werden.
 
 (2) Die Betroffenen sind vor der Entscheidung anzuhören.
 
-
-## § 15 – Einstellung
+# § 15 – Einstellung
 
 (1) In den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei kann eingestellt werden, wer
 
@@ -262,8 +243,7 @@ c) für das Bestehen des gesamten Auswahlverfahrens.
 
 (4) Über die Einstellung der Bewerberinnen und Bewerber entscheidet die Bundespolizeiakademie auf der Grundlage der Rangfolge, die anhand des im Auswahlverfahren erzielten Gesamtergebnisses festgelegt worden ist.
 
-
-## § 16 – Bewertung
+# § 16 – Bewertung
 
 (1) Eine Leistung, die in der Ausbildung, in der Zwischenprüfung oder in der Laufbahnprüfung erbracht wird, ist wie folgt zu bewerten:
 
@@ -425,20 +405,17 @@ können
 
 (5) Die Leistungen in der praktischen Ausbildung (§ 22 Absatz 2 Nummer 2, § 23 Absatz 2 Nummer 2 und § 24 Absatz 2 Nummer 2) können auch in der Weise bewertet werden, dass nur das Erfüllen oder Nichterfüllen der Mindestanforderungen festgestellt wird.
 
-
-## § 17 – Dienstaufsicht, Organisation und Ausbildungsstellen
+# § 17 – Dienstaufsicht, Organisation und Ausbildungsstellen
 
 (1) Die Bundespolizeiakademie führt die Dienstaufsicht über die Anwärterinnen und Anwärter während der Ausbildung.
 
 (2) Die Bundespolizeiakademie organisiert die Ausbildung. Die Ausbildung erfolgt in Einrichtungen der Bundespolizeiakademie (Ausbildungsstätten) und in Einsatzdienststellen der Bundespolizei. Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 18 – Ausbildungsleiterin oder Ausbildungsleiter
+# § 18 – Ausbildungsleiterin oder Ausbildungsleiter
 
 In jeder Ausbildungsstätte wird eine Ausbildungsleiterin oder ein Ausbildungsleiter sowie eine Vertretung bestellt.
 
-
-## § 19 – Ausbilderinnen und Ausbilder
+# § 19 – Ausbilderinnen und Ausbilder
 
 (1) Die Einsatzdienststelle benennt der Bundespolizeiakademie für die praktischen Verwendungen Ausbilderinnen und Ausbilder.
 
@@ -450,13 +427,11 @@ In jeder Ausbildungsstätte wird eine Ausbildungsleiterin oder ein Ausbildungsle
 
 (5) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 20 – Erholungsurlaub
+# § 20 – Erholungsurlaub
 
 Die Bundespolizeiakademie bestimmt die Zeiten des Erholungsurlaubs.
 
-
-## § 21 – Dauer und Gliederung
+# § 21 – Dauer und Gliederung
 
 (1) Die Ausbildung dauert zwei Jahre und sechs Monate.
 
@@ -470,8 +445,7 @@ Die Bundespolizeiakademie bestimmt die Zeiten des Erholungsurlaubs.
 
 (3) Für Anwärterinnen und Anwärter in der Spitzensportförderung in der Bundespolizei kann die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums abweichende Regelungen für die Dauer und Gliederung der Ausbildung treffen. Die Dauer der Ausbildung einschließlich der Zeiten für das Training und die Teilnahme an sportlichen Wettkämpfen soll vier Jahre und einen Monat nicht überschreiten.
 
-
-## § 22 – Grundausbildung
+# § 22 – Grundausbildung
 
 (1) Ziel der Grundausbildung ist es,
 
@@ -517,8 +491,7 @@ d) polizeispezifische Erste Hilfe sowie
 
 (5) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 23 – Weitere Ausbildung
+# § 23 – Weitere Ausbildung
 
 (1) Ziel der weiteren Ausbildung ist es,
 
@@ -566,8 +539,7 @@ c) Polizeitechnik,
 
 (4) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 24 – Laufbahnlehrgang
+# § 24 – Laufbahnlehrgang
 
 (1) Ziel des Laufbahnlehrgangs ist es,
 
@@ -599,8 +571,7 @@ g) Englisch sowie
 
 (4) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 25 – Durchführung der Leistungstests
+# § 25 – Durchführung der Leistungstests
 
 (1) Ein Leistungstest kann durchgeführt werden in Form
 
@@ -622,8 +593,7 @@ g) Englisch sowie
 
 (4) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 26 – Bewertung der Leistungstests
+# § 26 – Bewertung der Leistungstests
 
 (1) Die Leistungstests werden durch Angehörige der Bundespolizeiakademie bewertet.
 
@@ -631,8 +601,7 @@ g) Englisch sowie
 
 (3) Näheres legt die Bundespolizeiakademie mit Zustimmung des Bundespolizeipräsidiums im Ausbildungsplan fest.
 
-
-## § 27 – Fachrangpunktzahlen, Fachnoten und Ausbildungsabschnittsrangpunktzahlen
+# § 27 – Fachrangpunktzahlen, Fachnoten und Ausbildungsabschnittsrangpunktzahlen
 
 (1) Für jede Anwärterin und jeden Anwärter wird in jedem Ausbildungsabschnitt für jedes Fach, für das die Durchführung mindestens eines Leistungstests vorgesehen ist, eine Fachrangpunktzahl berechnet. Der jeweiligen Fachrangpunktzahl wird die entsprechende Note zugeordnet. Die zugeordnete Note ist die Fachnote.
 
@@ -640,25 +609,21 @@ g) Englisch sowie
 
 (3) Die Gewichtungssystematik zur Berechnung der Fachrangpunktzahl und der Ausbildungsabschnittsrangpunktzahl wird im Ausbildungsplan geregelt.
 
-
-## § 28 – Zeitpunkt
+# § 28 – Zeitpunkt
 
 Die Zwischenprüfung findet am Ende der Grundausbildung statt.
 
-
-## § 29 – Prüfungsamt
+# § 29 – Prüfungsamt
 
 Für die Organisation und Durchführung der Zwischenprüfung ist das Prüfungsamt der Bundespolizeiakademie (Prüfungsamt) zuständig.
 
-
-## § 30 – Einrichtung der Prüfungskommission
+# § 30 – Einrichtung der Prüfungskommission
 
 (1) Für die Abnahme und Bewertung der Zwischenprüfung richtet das Prüfungsamt eine Prüfungskommission ein.
 
 (2) Bei Bedarf können mehrere Prüfungskommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Prüfungskommissionen der Zwischenprüfung den gleichen Bewertungsmaßstab anlegen.
 
-
-## § 31 – Mitglieder der Prüfungskommission
+# § 31 – Mitglieder der Prüfungskommission
 
 (1) Die Prüfungskommission für die Zwischenprüfung besteht aus
 
@@ -678,15 +643,13 @@ Zu Mitgliedern einer Prüfungskommission können auch Tarifbeschäftigte bestell
 
 (5) Die Mitglieder der Prüfungskommissionen sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 32 – Entscheidungen der Prüfungskommission
+# § 32 – Entscheidungen der Prüfungskommission
 
 (1) Die Prüfungskommission der Zwischenprüfung ist beschlussfähig, wenn die oder der Vorsitzende sowie mindestens zwei Prüfende anwesend sind. Bei der mündlichen Prüfung der Zwischenprüfung muss für jedes Prüfungsfach eine Prüfende oder ein Prüfender anwesend sein.
 
 (2) Die Prüfungskommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 33 – Bestandteile der Zwischenprüfung
+# § 33 – Bestandteile der Zwischenprüfung
 
 Die Zwischenprüfung besteht aus
 
@@ -696,8 +659,7 @@ Die Zwischenprüfung besteht aus
 
 3. einer praktischen Prüfung.
 
-
-## § 34 – Gegenstand und Durchführung der schriftlichen Prüfung
+# § 34 – Gegenstand und Durchführung der schriftlichen Prüfung
 
 (1) Die schriftliche Prüfung der Zwischenprüfung besteht aus vier Klausuren.
 
@@ -719,8 +681,7 @@ Die Zwischenprüfung besteht aus
 
 (6) Die Klausuren werden anstelle des Namens mit einer Kennnummer versehen. Die Ausbildungsstätte erstellt eine Übersicht mit der Zuordnung der Kennnummern zu den Namen. Die Übersicht ist geheim zu halten und darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
-
-## § 35 – Bewertung der Klausuren
+# § 35 – Bewertung der Klausuren
 
 (1) Eine Klausur der Zwischenprüfung wird von einer oder einem Prüfenden der Prüfungskommission bewertet.
 
@@ -736,13 +697,11 @@ Die Zwischenprüfung besteht aus
 
 (7) Für jede Klausur wird den vergebenen Rangpunkten die entsprechende Note zugeordnet.
 
-
-## § 36 – Bestehen der schriftlichen Prüfung
+# § 36 – Bestehen der schriftlichen Prüfung
 
 Die schriftliche Prüfung der Zwischenprüfung hat bestanden, wer in mindestens zwei Klausuren der schriftlichen Prüfung der Zwischenprüfung jeweils mindestens fünf Rangpunkte erreicht hat.
 
-
-## § 37 – Zulassung zur mündlichen und praktischen Prüfung; Folge der Nichtzulassung
+# § 37 – Zulassung zur mündlichen und praktischen Prüfung; Folge der Nichtzulassung
 
 (1) Zur mündlichen und zur praktischen Prüfung der Zwischenprüfung ist zugelassen, wer
 
@@ -758,8 +717,7 @@ b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfol
 
 (+++ § 37 Abs. 1 Nr. 2: Zur Nichtanwendung vgl. § 71 Abs. 2 Satz 1 +++)
 
-
-## § 38 – Gegenstand, Durchführung und Protokoll der praktischen Prüfung
+# § 38 – Gegenstand, Durchführung und Protokoll der praktischen Prüfung
 
 (1) In der praktischen Prüfung wird die Handlungsfähigkeit bei ausgewählten polizeifachlichen Standardsituationen geprüft.
 
@@ -771,8 +729,7 @@ b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfol
 
 (5) Zu jeder praktischen Prüfung ist ein Protokoll anzufertigen. In dem Protokoll sind Gegenstand, Verlauf und Ergebnis der praktischen Prüfung anzugeben. Die Anfertigung erfolgt durch die Protokollführerin oder den Protokollführer, die oder der vom Prüfungsamt bestimmt worden ist. Das Protokoll ist von den Mitgliedern der Prüfungskommission zu unterschreiben.
 
-
-## § 39 – Bewertung und Rangpunktzahl der praktischen Prüfung
+# § 39 – Bewertung und Rangpunktzahl der praktischen Prüfung
 
 (1) Die polizeifachlichen Standardsituationen werden einzeln bewertet.
 
@@ -782,13 +739,11 @@ b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfol
 
 (4) Im Anschluss an die praktische Prüfung teilt die oder der Vorsitzende der Prüfungskommission mündlich der Anwärterin oder dem Anwärter das erreichte Ergebnis mit und erläutert es.
 
-
-## § 40 – Bestehen der praktischen Prüfung
+# § 40 – Bestehen der praktischen Prüfung
 
 Die praktische Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktzahl der praktischen Prüfung mindestens 5,00 beträgt.
 
-
-## § 41 – Gegenstand, Durchführung und Protokoll der mündlichen Prüfung
+# § 41 – Gegenstand, Durchführung und Protokoll der mündlichen Prüfung
 
 (1) Die Prüfungsfächer der mündlichen Prüfung der Zwischenprüfung sind
 
@@ -816,8 +771,7 @@ Die praktische Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 (6) Über die mündliche Prüfung ist ein Protokoll anzufertigen. In dem Protokoll sind Gegenstand, Verlauf und Ergebnis der mündlichen Prüfung anzugeben. Die Anfertigung erfolgt durch die Protokollführerin oder den Protokollführer, die oder der vom Prüfungsamt bestimmt worden ist. Das Protokoll ist von den Mitgliedern der Prüfungskommission zu unterschreiben.
 
-
-## § 42 – Bewertung und Rangpunktzahl der mündlichen Prüfung
+# § 42 – Bewertung und Rangpunktzahl der mündlichen Prüfung
 
 (1) Die geprüften Fächer der mündlichen Prüfung werden einzeln bewertet.
 
@@ -825,8 +779,7 @@ Die praktische Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 (3) Im Anschluss an die mündliche Prüfung teilt die oder der Vorsitzende der Prüfungskommission der Anwärterin oder dem Anwärter das Ergebnis mit und erläutert es.
 
-
-## § 43 – Anwesenheit weiterer Personen bei der mündlichen Prüfung
+# § 43 – Anwesenheit weiterer Personen bei der mündlichen Prüfung
 
 (1) Die mündliche Prüfung der Zwischenprüfung ist nicht öffentlich.
 
@@ -848,13 +801,11 @@ Anderen Personen kann das Prüfungsamt die Anwesenheit in der mündlichen Prüfu
 
 (3) Bei den Beratungen der Prüfungskommission dürfen neben den Mitgliedern der Prüfungskommission nur Angehörige des Prüfungsamts und die Protokollführerin oder der Protokollführer anwesend sein.
 
-
-## § 44 – Bestehen der mündlichen Prüfung
+# § 44 – Bestehen der mündlichen Prüfung
 
 Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktzahl der mündlichen Prüfung mindestens 5,00 beträgt.
 
-
-## § 45 – Bestehen, Rangpunktzahl und Note der Zwischenprüfung
+# § 45 – Bestehen, Rangpunktzahl und Note der Zwischenprüfung
 
 (1) Die Zwischenprüfung ist bestanden, wenn
 
@@ -876,8 +827,7 @@ Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 (3) Ist die Zwischenprüfung bestanden, wird die Rangpunktzahl kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet. Die zugeordnete Note ist die Note der Zwischenprüfung.
 
-
-## § 46 – Wiederholung der Zwischenprüfung
+# § 46 – Wiederholung der Zwischenprüfung
 
 (1) Hat eine Anwärterin oder ein Anwärter die Zwischenprüfung nicht bestanden, so kann sie oder er die Zwischenprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern, für Bau und Heimat eine zweite Wiederholung zulassen.
 
@@ -891,8 +841,7 @@ Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 (6) Ist die Wiederholung nicht bestanden worden und ist eine weitere Wiederholung nicht mehr möglich, so ist die Zwischenprüfung endgültig nicht bestanden.
 
-
-## § 47 – Zwischenprüfungszeugnis
+# § 47 – Zwischenprüfungszeugnis
 
 (1) Wer die Zwischenprüfung bestanden hat, erhält ein Zwischenprüfungszeugnis.
 
@@ -906,32 +855,27 @@ Die mündliche Prüfung der Zwischenprüfung ist bestanden, wenn die Rangpunktza
 
 (4) Wird die Zwischenprüfung nachträglich wegen einer Täuschung (§ 68 Absatz 4) für nicht bestanden erklärt, so ist das Zwischenprüfungszeugnis zurückzugeben.
 
-
-## § 48 – Bescheid über die nichtbestandene Zwischenprüfung
+# § 48 – Bescheid über die nichtbestandene Zwischenprüfung
 
 (1) Wer die Zwischenprüfung nicht bestanden hat, erhält einen schriftlichen oder elektronischen Bescheid über die nichtbestandene Zwischenprüfung.
 
 (2) Wer die Zwischenprüfung endgültig nicht bestanden hat, erhält zudem eine schriftliche oder elektronische Bescheinigung über die erbrachten Ausbildungsleistungen. In der Bescheinigung ist anzugeben, welche Ausbildungsinhalte absolviert und welche Rangpunkte in den Ausbildungsabschnitten erreicht worden sind.
 
-
-## § 49 – Zeitpunkt
+# § 49 – Zeitpunkt
 
 Die Laufbahnprüfung findet am Ende des Laufbahnlehrgangs statt.
 
-
-## § 50 – Prüfungsamt
+# § 50 – Prüfungsamt
 
 Für die Organisation und Durchführung der Laufbahnprüfung ist das Prüfungsamt zuständig.
 
-
-## § 51 – Einrichtung der Prüfungskommission
+# § 51 – Einrichtung der Prüfungskommission
 
 (1) Für die Abnahme und Bewertung der Laufbahnprüfung richtet das Prüfungsamt eine Prüfungskommission ein.
 
 (2) Bei Bedarf können mehrere Prüfungskommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Prüfungskommissionen der Laufbahnprüfung den gleichen Bewertungsmaßstab anlegen.
 
-
-## § 52 – Mitglieder der Prüfungskommission
+# § 52 – Mitglieder der Prüfungskommission
 
 (1) Die Prüfungskommission für die Laufbahnprüfung besteht aus
 
@@ -953,15 +897,13 @@ Soweit nicht genügend Beamtinnen oder Beamte des höheren Dienstes zur Verfügu
 
 (5) Die Mitglieder der Prüfungskommissionen sind bei ihren Entscheidungen unabhängig und nicht weisungsgebunden.
 
-
-## § 53 – Entscheidungen der Prüfungskommission
+# § 53 – Entscheidungen der Prüfungskommission
 
 (1) Die Prüfungskommission der Laufbahnprüfung ist beschlussfähig, wenn die oder der Vorsitzende sowie mindestens zwei Prüfende anwesend sind. Bei der mündlichen Prüfung der Laufbahnprüfung muss für jedes Prüfungsfach eine Prüfende oder ein Prüfender anwesend sein.
 
 (2) Die Prüfungskommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 54 – Bestandteile der Laufbahnprüfung
+# § 54 – Bestandteile der Laufbahnprüfung
 
 Die Laufbahnprüfung besteht aus
 
@@ -969,8 +911,7 @@ Die Laufbahnprüfung besteht aus
 
 2. einer mündlichen Prüfung.
 
-
-## § 55 – Gegenstand und Durchführung der schriftlichen Prüfung
+# § 55 – Gegenstand und Durchführung der schriftlichen Prüfung
 
 (1) Die schriftliche Prüfung der Laufbahnprüfung besteht aus vier Klausuren.
 
@@ -996,8 +937,7 @@ Die Laufbahnprüfung besteht aus
 
 (6) Die Klausuren werden anstelle des Namens mit einer Kennnummer versehen. Die Ausbildungsstätte erstellt eine Übersicht mit der Zuordnung der Kennnummern zu den Namen. Die Übersicht ist geheim zu halten und darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
-
-## § 56 – Bewertung der Klausuren
+# § 56 – Bewertung der Klausuren
 
 (1) Eine Klausur der Laufbahnprüfung wird von einer oder einem Prüfenden der Prüfungskommission bewertet.
 
@@ -1013,13 +953,11 @@ Die Laufbahnprüfung besteht aus
 
 (7) Für jede Klausur wird den vergebenen Rangpunkten die entsprechende Note zugeordnet.
 
-
-## § 57 – Bestehen der schriftlichen Prüfung
+# § 57 – Bestehen der schriftlichen Prüfung
 
 Die schriftliche Prüfung der Laufbahnprüfung hat bestanden, wer in mindestens zwei Klausuren der schriftlichen Prüfung der Laufbahnprüfung jeweils mindestens fünf Rangpunkte erreicht hat.
 
-
-## § 58 – Zulassung zur mündlichen Prüfung; Folge der Nichtzulassung
+# § 58 – Zulassung zur mündlichen Prüfung; Folge der Nichtzulassung
 
 (1) Zur mündlichen Prüfung der Laufbahnprüfung ist zugelassen, wer
 
@@ -1035,8 +973,7 @@ b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfol
 
 (+++ § 58 Abs. 1 Nr. 2: Zur Nichtanwendung vgl. § 71 Abs. 2 Satz 1 +++)
 
-
-## § 59 – Gegenstand, Durchführung und Protokoll der mündlichen Prüfung
+# § 59 – Gegenstand, Durchführung und Protokoll der mündlichen Prüfung
 
 (1) Die Prüfungsfächer der mündlichen Prüfung der Laufbahnprüfung sind
 
@@ -1064,8 +1001,7 @@ b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfol
 
 (6) Zu jeder mündlichen Prüfung ist ein Protokoll anzufertigen. In dem Protokoll sind Gegenstand, Verlauf und Ergebnis der mündlichen Prüfung anzugeben. Die Anfertigung erfolgt durch die Protokollführerin oder den Protokollführer, die oder der vom Prüfungsamt bestimmt worden ist. Das Protokoll ist von den Mitgliedern der Prüfungskommission zu unterschreiben.
 
-
-## § 60 – Bewertung und Rangpunktzahl der mündlichen Prüfung
+# § 60 – Bewertung und Rangpunktzahl der mündlichen Prüfung
 
 (1) Die geprüften Fächer der mündlichen Prüfung werden einzeln bewertet.
 
@@ -1073,8 +1009,7 @@ b) die Mindestanforderungen erfüllt hat, falls die Bewertung in der Weise erfol
 
 (3) Im Anschluss an die mündliche Prüfung teilt die oder der Vorsitzende der Prüfungskommission der Anwärterin oder dem Anwärter das Ergebnis mit und erläutert es.
 
-
-## § 61 – Anwesenheit weiterer Personen bei der mündlichen Prüfung
+# § 61 – Anwesenheit weiterer Personen bei der mündlichen Prüfung
 
 (1) Die mündliche Prüfung der Laufbahnprüfung ist nicht öffentlich.
 
@@ -1096,13 +1031,11 @@ Anderen Personen kann das Prüfungsamt die Anwesenheit in der mündlichen Prüfu
 
 (3) Bei den Beratungen der Prüfungskommission dürfen neben den Mitgliedern der Prüfungskommission nur Angehörige des Prüfungsamts und die Protokollführerin oder der Protokollführer anwesend sein.
 
-
-## § 62 – Bestehen der mündlichen Prüfung
+# § 62 – Bestehen der mündlichen Prüfung
 
 Die mündliche Prüfung der Laufbahnprüfung ist bestanden, wenn die Rangpunktzahl der mündlichen Prüfung mindestens 5,00 beträgt.
 
-
-## § 63 – Bestehen und Rangpunktzahl der Laufbahnprüfung und Abschlussnote
+# § 63 – Bestehen und Rangpunktzahl der Laufbahnprüfung und Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -1136,8 +1069,7 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 (3) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl der Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet. Die zugeordnete Note ist die Abschlussnote.
 
-
-## § 64 – Wiederholung der Laufbahnprüfung
+# § 64 – Wiederholung der Laufbahnprüfung
 
 (1) Hat eine Anwärterin oder ein Anwärter die Laufbahnprüfung nicht bestanden, so kann sie oder er nach § 17 Absatz 3 Satz 1 der Bundeslaufbahnverordnung die Laufbahnprüfung einmal wiederholen. In begründeten Ausnahmefällen kann das Bundespolizeipräsidium mit Einverständnis des Bundesministeriums des Innern, für Bau und Heimat eine zweite Wiederholung zulassen.
 
@@ -1151,8 +1083,7 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 (6) Ist die Wiederholung nicht bestanden worden und ist eine weitere Wiederholung nicht mehr möglich, so ist die Laufbahnprüfung endgültig nicht bestanden.
 
-
-## § 65 – Abschlusszeugnis
+# § 65 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis.
 
@@ -1168,15 +1099,13 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 (4) Wird die Laufbahnprüfung nachträglich wegen einer Täuschung (§ 68 Absatz 4) für nicht bestanden erklärt, so ist das Abschlusszeugnis zurückzugeben.
 
-
-## § 66 – Bescheid über die nichtbestandene Laufbahnprüfung
+# § 66 – Bescheid über die nichtbestandene Laufbahnprüfung
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält einen schriftlichen oder elektronischen Bescheid über die nichtbestandene Laufbahnprüfung.
 
 (2) Wer die Laufbahnprüfung endgültig nicht bestanden hat, erhält zudem eine schriftliche oder elektronische Bescheinigung über die erbrachten Ausbildungsleistungen. In der Bescheinigung ist anzugeben, welche Ausbildungsinhalte absolviert und welche Rangpunkte in den Ausbildungsabschnitten erreicht worden sind.
 
-
-## § 67 – Fernbleiben und Rücktritt
+# § 67 – Fernbleiben und Rücktritt
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil gilt diese Prüfung oder dieser Prüfungsteil als mit der Rangpunktzahl 0,00 oder als mit null Rangpunkten bewertet.
 
@@ -1186,8 +1115,7 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 (4) Die Genehmigung darf nur erteilt werden, wenn ein wichtiger Grund vorliegt. Bei Erkrankung soll die Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches Attest vorgelegt wird.
 
-
-## § 68 – Ordnungsverstoß
+# § 68 – Ordnungsverstoß
 
 (1) Anwärterinnen und Anwärtern, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen, an einer Täuschung oder einem Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der jeweiligen Prüfung oder des jeweiligen Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamts gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung oder an dem Prüfungsteil ausgeschlossen werden. In der mündlichen und praktischen Prüfung der Zwischenprüfung und der mündlichen Prüfung der Laufbahnprüfung entscheidet die jeweilige Prüfungskommission über die Fortsetzung der Prüfung.
 
@@ -1205,8 +1133,7 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 (5) Die Betroffenen sind vor Entscheidungen nach den Absätzen 1 bis 4 anzuhören.
 
-
-## § 69 – Prüfungsakten und Einsichtnahme
+# § 69 – Prüfungsakten und Einsichtnahme
 
 (1) Zu jeder Anwärterin und jedem Anwärter wird eine Prüfungsakte geführt.
 
@@ -1234,19 +1161,16 @@ der Laufbahnprüfung</td><td style="text-align: right;">mit 27 Prozent.</td></tr
 
 Die Einsichtnahme wird in der Prüfungsakte vermerkt.
 
-
-## § 70 – Zuständigkeit für die Entscheidung über Widersprüche
+# § 70 – Zuständigkeit für die Entscheidung über Widersprüche
 
 Über Widersprüche gegen Entscheidungen, die auf Grund dieser Verordnung getroffen werden, entscheidet das Prüfungsamt.
 
-
-## § 71 – Übergangsvorschriften
+# § 71 – Übergangsvorschriften
 
 (1) Für Anwärterinnen und Anwärter, die den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei vor dem 1. September 2017 oder als Spitzensportlerin oder Spitzensportler nach § 21 Absatz 3 vor dem 1. August 2016 begonnen haben, ist die Verordnung über die Ausbildung und Prüfung für den mittleren Polizeivollzugsdienst in der Bundespolizei vom 19. Dezember 2001 (BGBl. I S. 3882), die zuletzt durch Artikel 2 der Verordnung vom 2. Dezember 2011 (BGBl. I S. 2408) geändert worden ist, weiter anzuwenden.
 
 (2) Anwärterinnen und Anwärter, die den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei nach dem 31. August 2017 und vor dem 1. März 2020 oder als Spitzensportlerin oder Spitzensportler nach § 21 Absatz 3 nach dem 31. Juli 2016 und vor dem 1. März 2020 begonnen haben, setzen die Ausbildung nach dieser Verordnung mit der Maßgabe fort, dass die in § 37 Absatz 1 Nummer 2 und § 58 Absatz 1 Nummer 2 genannten Zulassungsvoraussetzungen nicht anzuwenden sind. Die Leistungen, die sie bis zum 1. März 2020 erbracht haben, gehen in die Bewertungen der Zwischenprüfung und der Laufbahnprüfung ein.
 
-
-## § 72 – Inkrafttreten, Außerkrafttreten
+# § 72 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. März 2020 in Kraft. Gleichzeitig tritt die Verordnung über die Ausbildung und Prüfung für den mittleren Polizeivollzugsdienst in der Bundespolizei vom 19. Dezember 2001 (BGBl. I S. 3882), die zuletzt durch Artikel 2 der Verordnung vom 2. Dezember 2011 (BGBl. I S. 2408) geändert worden ist, außer Kraft.

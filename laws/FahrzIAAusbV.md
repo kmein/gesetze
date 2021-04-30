@@ -1,40 +1,31 @@
-# [FahrzIAAusbV] Verordnung über die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
-
-Ausfertigungsdatum: 21.07.2003
-
+% Verordnung über die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
+% Ausfertigungsdatum: 21.07.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fahrzeuginnenausstatter/Fahrzeuginnenausstatterin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse (Qualifikationen) sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Diese Qualifikationen sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die im Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsplan
+# § 4 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 5 – Berichtsheft
+# § 5 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 6 – Ausbildungsberufsbild
+# § 6 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
@@ -74,13 +65,11 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Qualifikationen:
 
 18. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 7 – Ausbildungsrahmenplan
+# § 7 – Ausbildungsrahmenplan
 
 Die in § 6 genannten Qualifikationen sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung der Ausbildungsinhalte ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -90,8 +79,7 @@ Die in § 6 genannten Qualifikationen sollen nach der in der Anlage enthaltenen 
 
 (4) Die Prüfung besteht aus der Ausführung einer komplexen Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche Aufgabenstellungen beinhaltet. Die Prüfung soll in insgesamt höchstens neun Stunden durchgeführt werden, wobei die Gesprächsphasen insgesamt höchstens zehn Minuten umfassen sollen. Die Aufgabenstellungen sollen einen zeitlichen Umfang von höchstens 120 Minuten haben.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -133,23 +121,19 @@ jeweils mindestens ausreichende Leistungen erbracht wurden. Dabei haben die Prü
 
 (9) Die Prüfungsbereiche Technologie und Fertigungstechnik sowie Wirtschafts- und Sozialkunde sind auf Antrag des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 10 – Aufheben von Vorschriften
+# § 10 – Aufheben von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Bildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Fahrzeugpolsterer sind nicht mehr anzuwenden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-
-## Anlage – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
+# Anlage – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
 
 (Fundstelle: BGBl. I 2003, 1515 - 1520)
 

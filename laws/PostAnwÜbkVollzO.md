@@ -1,5 +1,3 @@
-# [PostAnwÜbkVollzO] Vollzugsordnung zum Postanweisungsübereinkommen
-
-Ausfertigungsdatum: 16.02.1995
-
+% Vollzugsordnung zum Postanweisungsübereinkommen
+% Ausfertigungsdatum: 16.02.1995
  

@@ -1,10 +1,7 @@
-# [AlkStG] Alkoholsteuergesetz   (AlkStG)
-
-Ausfertigungsdatum: 21.06.2013
-
+% Alkoholsteuergesetz   (AlkStG)
+% Ausfertigungsdatum: 21.06.2013
  
-
-## § 1 – Steuergebiet, Steuergegenstand
+# § 1 – Steuergebiet, Steuergegenstand
 
 (1) Alkoholerzeugnisse unterliegen im Steuergebiet der Alkoholsteuer. Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Alkoholsteuer ist eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
@@ -24,8 +21,7 @@ andere Waren als die des Kapitels 22 der Kombinierten Nomenklatur, die unter Ver
 
 (4) Kombinierte Nomenklatur im Sinn dieses Gesetzes ist die Warennomenklatur nach Artikel 1 der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif (ABl. L 256 vom 7.9.1987, S. 1, L 341 vom 3.12.1987, S. 38, L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42) in der am 19. Oktober 1992 geltenden Fassung und der bis zu diesem Zeitpunkt zur Durchführung der Verordnung (EWG) Nr. 2658/87 erlassenen Rechtsvorschriften.
 
-
-## § 2 – Steuertarif
+# § 2 – Steuertarif
 
 (1) Die Steuer bemisst sich nach der im Alkoholerzeugnis enthaltenen Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohols (hl A), gemessen bei einer Temperatur von 20 Grad Celsius, als Regelsatz 1 303 Euro.
 
@@ -47,8 +43,7 @@ Die Steuerermäßigungen sind auf den Erzeuger des Alkohols beschränkt und setz
 
 4. anzuordnen, dass die in Alkohol und Alkoholerzeugnissen enthaltene Alkoholmenge nach den Angaben des Herstellers oder Händlers über den Alkoholgehalt und die Menge berechnet wird.
 
-
-## § 3 – Sonstige Begriffsbestimmungen
+# § 3 – Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind
 
@@ -82,8 +77,7 @@ b) beim Eingang aus Drittgebieten der Ort, an dem die Alkoholerzeugnisse in sinn
 
 13. Abfindungsbrenner: Inhaber einer Erlaubnis zum Betrieb einer Abfindungsbrennerei nach § 10 Absatz 1.
 
-
-## § 4 – Steuerlager
+# § 4 – Steuerlager
 
 (1) Steuerlager sind Orte, an oder von denen Alkoholerzeugnisse unter Steueraussetzung hergestellt, bearbeitet (auch gereinigt) oder verarbeitet, gelagert, empfangen oder versandt werden dürfen. Als Herstellung gilt auch die Herabsetzung des Alkoholgehalts auf Trinkstärke.
 
@@ -97,8 +91,7 @@ b) beim Eingang aus Drittgebieten der Ort, an dem die Alkoholerzeugnisse in sinn
 
 3. Regelungen zur Alkoholerfassung und Ausnahmen von der amtlichen Feststellung der in einer Verschlussbrennerei gewonnenen Alkoholmenge zu erlassen.
 
-
-## § 5 – Steuerlagerinhaber
+# § 5 – Steuerlagerinhaber
 
 (1) Steuerlagerinhaber sind Personen, die ein oder mehrere Steuerlager betreiben. Sie bedürfen einer Erlaubnis. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen und die, soweit sie nach dem Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet sind, ordnungsmäßig kaufmännische Bücher führen und rechtzeitig Jahresabschlüsse aufstellen. Sind Anzeichen für eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer Sicherheit in Höhe des Steuerwerts der Menge reinen Alkohols abhängig, die voraussichtlich im Jahresdurchschnitt in 1,5 Monaten unvergällt in den steuerrechtlich freien Verkehr überführt wird. Der Steuerwert wird nach dem Regelsatz (§ 2 Absatz 1) bemessen.
 
@@ -126,8 +119,7 @@ f) festzulegen, dass Alkoholerzeugnisse als im Steuerlager hergestellt gelten, w
 
 2. zur Erleichterung der Herstellung trinkfertiger Alkohole bei wirtschaftlichem Bedürfnis zuzulassen, dass Alkohol, ausgenommen der aus Traubenwein, der nachweislich in einer Abfindungsbrennerei erzeugt wurde, in ein Steuerlager aufgenommen werden kann, dessen Inhaber eine Verschlussbrennerei regelmäßig betreibt, und dass für diesen Alkohol eine um 1 Prozent gekürzte gleiche Alkoholmenge steuerfrei in den freien Verkehr überführt werden kann, sowie die notwendigen steuerlichen Sicherungsmaßnahmen anzuordnen.
 
-
-## § 6 – Registrierte Empfänger
+# § 6 – Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die in ihren Betrieben im Steuergebiet Alkoholerzeugnisse unter Steueraussetzung zu gewerblichen Zwecken
 
@@ -143,8 +135,7 @@ empfangen dürfen, wenn die Alkoholerzeugnisse aus einem Steuerlager in einem an
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung, zu erlassen.
 
-
-## § 7 – Registrierte Versender
+# § 7 – Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Alkoholerzeugnisse vom Ort der Einfuhr unter Steueraussetzung versenden dürfen.
 
@@ -154,8 +145,7 @@ empfangen dürfen, wenn die Alkoholerzeugnisse aus einem Steuerlager in einem an
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu den Absätzen 1 bis 3, insbesondere zum Verfahren der Erlaubnis und zur Sicherheitsleistung, zu erlassen und dabei zur Vorbeugung des Steuermissbrauchs und zur Sicherung des Steueraufkommens vorzusehen, den Versand vom Ort der Einfuhr nur dann zuzulassen, wenn dem steuerliche Belange nicht entgegenstehen.
 
-
-## § 8 – Begünstigte
+# § 8 – Begünstigte
 
 (1) Begünstigte, die Alkoholerzeugnisse unter Steueraussetzung im Steuergebiet empfangen dürfen, sind vorbehaltlich des Absatzes 2
 
@@ -185,8 +175,7 @@ und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren für den Empfang unter Steueraussetzung mit Freistellungsbescheinigung für Begünstigte nach Absatz 1 näher zu regeln und zur Verfahrensvereinfachung bei Beförderungen unter Steueraussetzung im Steuergebiet anstelle einer Freistellungsbescheinigung andere geeignete Dokumente zuzulassen.
 
-
-## § 9 – Abfindungsbrennerei
+# § 9 – Abfindungsbrennerei
 
 (1) Abfindungsbrennereien sind Orte, an denen Alkohol abweichend von § 4 ohne Verschlüsse ausschließlich aus Obst, einschließlich Obstmost und Obsttrester, Beeren, Wein, einschließlich Weinhefe und Weintrester, Wurzeln, einschließlich deren Knollen, Topinambur, Getreide, Bier, Kartoffeln oder den jeweiligen Rückständen davon gewonnen und gereinigt werden darf. Die Jahreserzeugung in einer Abfindungsbrennerei darf 3 hl A pro Kalenderjahr nicht überschreiten. Der in einer Abfindungsbrennerei gewonnene Alkohol darf nicht zu gewerblichen Zwecken in einen anderen Mitgliedstaat, ein Drittland oder ein Drittgebiet befördert werden.
 
@@ -210,8 +199,7 @@ und eine Freistellungsbescheinigung (Artikel 13 der Systemrichtlinie) vorliegen.
 
 (+++ § 9 Abs. 3: Zur Anwendung vgl. § 23 Abs. 4 AlkStV +++)
 
-
-## § 10 – Abfindungsbrenner
+# § 10 – Abfindungsbrenner
 
 (1) Wer eine Abfindungsbrennerei betreiben will, bedarf der Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt,
 
@@ -251,8 +239,7 @@ c) für landwirtschaftliche Betriebe mit Sonderkulturen Obstbau eine von Absatz 
 
 4. das Antrags- und Genehmigungsverfahren nach Absatz 4 zu regeln.
 
-
-## § 11 – Stoffbesitzer
+# § 11 – Stoffbesitzer
 
 (1) Stoffbesitzer sind natürliche Personen, die
 
@@ -292,8 +279,7 @@ Satz 1 gilt bis zu einer Jahreserzeugung von 0,5 hl A pro Kalenderjahr.
 
 6. das Antrags- und Genehmigungsverfahren nach Absatz 5 zu regeln.
 
-
-## § 12 – Abschnittsbrennen
+# § 12 – Abschnittsbrennen
 
 (1) Innerhalb eines Abschnitts dürfen
 
@@ -309,8 +295,7 @@ gewinnen und reinigen. Dieser Alkohol gilt abweichend von § 9 Absatz 1 Satz 2 u
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung, Vorschriften zu den Absätzen 1 bis 3 zu erlassen und dabei insbesondere das Verfahren zur Anzeige und Überwachung des Abschnittsbrennens zu regeln.
 
-
-## § 13 – Beförderungen (Allgemeines)
+# § 13 – Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder in den dazu ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur dann als unter Steueraussetzung durchgeführt, wenn sie mit einem elektronischen Verwaltungsdokument nach Artikel 21 der Systemrichtlinie erfolgen.
 
@@ -318,8 +303,7 @@ gewinnen und reinigen. Dieser Alkohol gilt abweichend von § 9 Absatz 1 Satz 2 u
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Beförderung unter Steueraussetzung entsprechend den Artikeln 21 bis 31 der Systemrichtlinie und den dazu ergangenen Verordnungen sowie das Verfahren der Übermittlung des elektronischen Verwaltungsdokuments und den dazu erforderlichen Datenaustausch zu regeln und dabei das Verfahren abweichend von Absatz 1 zu bestimmen.
 
-
-## § 14 – Beförderungen im Steuergebiet
+# § 14 – Beförderungen im Steuergebiet
 
 (1) Alkoholerzeugnisse dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet
 
@@ -349,8 +333,7 @@ im Steuergebiet.
 
 2. zur Verfahrensvereinfachung zuzulassen, dass Alkoholerzeugnisse, die Steuerlagerinhaber oder Verwender in Besitz genommen haben, als in ihr Steuerlager oder ihren Betrieb aufgenommen gelten, soweit Steuerbelange dadurch nicht beeinträchtigt werden.
 
-
-## § 15 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
+# § 15 – Beförderungen aus anderen, in andere oder über andere Mitgliedstaaten
 
 (1) Alkoholerzeugnisse dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden
 
@@ -404,8 +387,7 @@ aus dem Steuergebiet in den anderen Mitgliedstaat zu befördern, oder
 
 2. für häufig und regelmäßig stattfindende Beförderungen von Alkoholerzeugnissen in einem Verfahren der Steueraussetzung zwischen den Gebieten von zwei oder mehr Mitgliedstaaten Vereinfachungen durch bilaterale Vereinbarungen mit den betroffenen Mitgliedstaaten vorsehen.
 
-
-## § 16 – Ausfuhr
+# § 16 – Ausfuhr
 
 (1) Alkoholerzeugnisse dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet zu einem Ort befördert werden, an dem die Alkoholerzeugnisse das Verbrauchsteuergebiet der Europäischen Union verlassen.
 
@@ -415,8 +397,7 @@ aus dem Steuergebiet in den anderen Mitgliedstaat zu befördern, oder
 
 (4) Für die Verfahrensvorschriften, die Sicherheitsleistung und die Zulassung von Verfahrensvereinfachungen gilt für die unmittelbare Ausfuhr aus dem Steuergebiet § 14 Absatz 2 und 5, für die Ausfuhr über andere Mitgliedstaaten § 15 Absatz 2 und 6 entsprechend.
 
-
-## § 17 – Unregelmäßigkeiten während der Beförderung
+# § 17 – Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 18 Absatz 3 geregelten Fälle, auf Grund dessen die Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
@@ -438,8 +419,7 @@ Hatte die Person, die für die Beförderung Sicherheit geleistet hat (§ 15 Absa
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 2 bis 6 zu erlassen.
 
-
-## § 18 – Steuerentstehung, Steuerschuldner
+# § 18 – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Alkoholerzeugnisse in den steuerrechtlich freien Verkehr, es sei denn, es schließt sich eine Steuerbefreiung an.
 
@@ -487,8 +467,7 @@ Werden Alkoholerzeugnisse aus einem Steuerlager an Personen abgegeben, die keine
 
 2. zu regeln, in welchen Fällen und unter welchen Voraussetzungen und Bedingungen der in einer Abfindungsbrennerei gewonnene und nach amtlichem Ausbeutesatz ermittelte Alkohol abweichend von Absatz 5 nicht in den steuerrechtlich freien Verkehr überführt wird, sondern als unter Steueraussetzung in einem Steuerlager gewonnen gilt und von diesem Steuerlager unter Steueraussetzung zu einem Steuerlager im Steuergebiet befördert werden kann.
 
-
-## § 19 – Steueranmeldung, Steuerbescheid, Fälligkeit
+# § 19 – Steueranmeldung, Steuerbescheid, Fälligkeit
 
 (1) Die Steuerschuldner nach § 18 Absatz 6 Satz 1 Nummer 1 erste Alternative und Nummer 4 haben über die Alkoholerzeugnisse, für die in einem Monat die Steuer entstanden ist, spätestens am zehnten Tag des auf die Steuerentstehung folgenden Monats eine Steuererklärung abzugeben und in ihr die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist am fünften Tag des zweiten auf die Steuerentstehung folgenden Monats fällig. Bei der Entnahme von Alkoholerzeugnissen aus einer Verschlussbrennerei in den steuerrechtlich freien Verkehr wird die Alkoholmenge amtlich festgestellt. Über die durch die Entnahme entstandene Steuer wird dem Steuerlagerinhaber ein Steuerbescheid erteilt. Die Steuer ist spätestens am siebten Tag nach der Bekanntgabe des Steuerbescheids fällig. Eine Entnahme ohne amtliche Mitwirkung steht einer unrechtmäßigen Entnahme gleich.
 
@@ -498,8 +477,7 @@ Werden Alkoholerzeugnisse aus einem Steuerlager an Personen abgegeben, die keine
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung die Einzelheiten zur Steueranmeldung zu bestimmen.
 
-
-## § 20 – Einfuhr
+# § 20 – Einfuhr
 
 (1) Einfuhr ist
 
@@ -525,13 +503,11 @@ und die dazu ergangenen Vorschriften;
 
 2. beim Eingang von Alkoholerzeugnissen im zollrechtlichen Status als Gemeinschaftswaren aus Drittgebieten in sinngemäßer Anwendung die besonderen Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der Europäischen Union nach Titel III Kapitel 1 bis 4 des Zollkodex.
 
-
-## § 21 – Unregelmäßigkeiten in zollrechtlichen Nichterhebungsverfahren
+# § 21 – Unregelmäßigkeiten in zollrechtlichen Nichterhebungsverfahren
 
 Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Alkoholerzeugnisse befinden, Unregelmäßigkeiten ein, gilt Artikel 215 des Zollkodex sinngemäß.
 
-
-## § 22 – Steuerentstehung, Steuerschuldner
+# § 22 – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Alkoholerzeugnisse in den steuerrechtlich freien Verkehr durch die Einfuhr, es sei denn, die Alkoholerzeugnisse werden unmittelbar am Ort der Einfuhr in ein Verfahren der Steueraussetzung überführt oder es schließt sich eine Steuerbefreiung an. Die Steuer entsteht nicht, wenn die Alkoholerzeugnisse unter Steueraussetzung aus dem Steuergebiet oder einem anderen Mitgliedstaat über Drittländer oder Drittgebiete in das Steuergebiet befördert werden.
 
@@ -549,8 +525,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Alkoholerze
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften zu Absatz 3 zu erlassen und die Besteuerung abweichend von Absatz 3 zu regeln, soweit dies zur Sicherung des Steueraufkommens oder zur Anpassung an die Behandlung von im Steuergebiet hergestellten Alkoholerzeugnissen oder wegen der besonderen Verhältnisse bei der Einfuhr erforderlich ist.
 
-
-## § 23 – Erwerb durch Privatpersonen
+# § 23 – Erwerb durch Privatpersonen
 
 (1) Alkoholerzeugnisse, die eine Privatperson für ihren Eigenbedarf in anderen Mitgliedstaaten im steuerrechtlich freien Verkehr erwirbt und selbst in das Steuergebiet befördert (private Zwecke), sind steuerfrei.
 
@@ -566,8 +541,7 @@ Treten in einem zollrechtlichen Nichterhebungsverfahren, in dem sich Alkoholerze
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens vorzuschreiben, bei welcher Menge an Alkoholerzeugnissen nach Absatz 1 widerleglich vermutet wird, dass diese nicht für den Eigenbedarf der Privatperson bestimmt sind.
 
-
-## § 24 – Bezug und Besitz zu gewerblichen Zwecken
+# § 24 – Bezug und Besitz zu gewerblichen Zwecken
 
 (1) Werden Alkoholerzeugnisse in anderen als den in § 23 Absatz 1 genannten Fällen aus dem steuerrechtlich freien Verkehr eines anderen Mitgliedstaats bezogen (gewerbliche Zwecke), entsteht die Steuer dadurch, dass der Bezieher
 
@@ -591,8 +565,7 @@ Steuerschuldner ist, wer die Alkoholerzeugnisse versendet, in Besitz hält oder 
 
 (5) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens Vorschriften zu den Absätzen 1 bis 4 zu erlassen, insbesondere zum Besteuerungsverfahren und zur Sicherheit.
 
-
-## § 25 – Versandhandel
+# § 25 – Versandhandel
 
 (1) Versandhandel betreibt, wer Alkoholerzeugnisse aus dem steuerrechtlich freien Verkehr des Mitgliedstaats, in dem er seinen Sitz hat, an Privatpersonen in anderen Mitgliedstaaten liefert und den Versand der Ware an den Erwerber selbst durchführt oder durch andere durchführen lässt (Versandhändler). Als Privatpersonen gelten alle Erwerber, die sich gegenüber dem Versandhändler nicht als Abnehmer ausweisen, deren innergemeinschaftliche Erwerbe nach den Vorschriften des Umsatzsteuergesetzes der Umsatzsteuer unterliegen.
 
@@ -608,8 +581,7 @@ Steuerschuldner ist, wer die Alkoholerzeugnisse versendet, in Besitz hält oder 
 
 (7) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 bis 6 zu erlassen.
 
-
-## § 26 – Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
+# § 26 – Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs anderer Mitgliedstaaten
 
 (1) Treten während der Beförderung von Alkoholerzeugnissen nach § 24 Absatz 1 und 2 oder nach § 25 Absatz 2 im Steuergebiet Unregelmäßigkeiten ein, entsteht die Steuer. Dies gilt auch, wenn während der Beförderung im Steuergebiet eine Unregelmäßigkeit festgestellt wurde, ohne dass sich der Ort, an dem sie begangen wurde, bestimmen lässt. § 17 Absatz 1 gilt entsprechend.
 
@@ -617,8 +589,7 @@ Steuerschuldner ist, wer die Alkoholerzeugnisse versendet, in Besitz hält oder 
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu den Absätzen 1 und 2 zu erlassen.
 
-
-## § 27 – Steuerbefreiungen
+# § 27 – Steuerbefreiungen
 
 (1) Alkoholerzeugnisse sind von der Steuer befreit, wenn sie folgendermaßen gewerblich verwendet werden:
 
@@ -670,8 +641,7 @@ d) anzuordnen, dass Vergällungsmittel von den Betrieben auf ihre Kosten bereitz
 
 4. zur Sicherung des Steueraufkommens und zur Durchführung der Richtlinie 92/83/EWG des Rates vom 19. Oktober 1992 zur Harmonisierung der Struktur der Verbrauchsteuern auf Alkohol und alkoholische Getränke (ABl. L 316 vom 31.10.1992, S. 21, L 19 vom 27.1.1995, S. 52), die zuletzt durch das Protokoll über die Bedingungen und Einzelheiten der Aufnahme der Republik Bulgarien und Rumäniens in die Europäische Union (ABl. L 157 vom 21.6.2005, S. 86) geändert worden ist, in der jeweils geltenden Fassung, insbesondere deren Artikel 27, anzuordnen, dass auch vollständig vergällter Alkohol dem Beförderungsverfahren nach § 13 oder einem anderen Überwachungsverfahren unterstellt wird.
 
-
-## § 28 – Verwender
+# § 28 – Verwender
 
 (1) Wer Alkoholerzeugnisse in den Fällen des § 27 Absatz 1 steuerfrei verwenden will, bedarf einer Erlaubnis. Sie wird auf Antrag Personen unter Widerrufsvorbehalt erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen.
 
@@ -697,15 +667,13 @@ a) Mindestmengen für die Verwendung von Alkoholerzeugnissen vorzuschreiben,
 
 b) die steuerbefreite Verwendung unter Verzicht auf Einzelerlaubnisse allgemein zuzulassen.
 
-
-## § 29 – Steuerentlastung im Steuergebiet
+# § 29 – Steuerentlastung im Steuergebiet
 
 (1) Nachweislich versteuerte Alkoholerzeugnisse, die in ein Steuerlager aufgenommen worden sind, werden auf Antrag von der Steuer entlastet. Entlastungsberechtigt ist der Steuerlagerinhaber.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung Vorschriften zu Absatz 1 zu erlassen und insbesondere eine für den Entlastungsberechtigten ausgestellte Versteuerungsbestätigung des Steuerschuldners für den Antrag nach Absatz 1 Satz 1 vorzuschreiben.
 
-
-## § 30 – Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
+# § 30 – Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs in andere Mitgliedstaaten
 
 (1) Nachweislich versteuerte Alkoholerzeugnisse, die zu gewerblichen Zwecken, einschließlich Versandhandel, in einen anderen Mitgliedstaat befördert worden sind, werden auf Antrag von der Steuer entlastet. Das gilt auch, wenn die Alkoholerzeugnisse nicht am Bestimmungsort angekommen sind, der Beförderer jedoch auf Grund einer in einem anderen Mitgliedstaat festgestellten Unregelmäßigkeit als Steuerschuldner in Anspruch genommen worden ist. Entlastungsberechtigt ist, wer die Alkoholerzeugnisse in den anderen Mitgliedstaat befördert hat.
 
@@ -729,8 +697,7 @@ c) eine ordnungsgemäße Empfangsbestätigung sowie eine amtliche Bestätigung d
 
 2. zur Verwaltungsvereinfachung Mindestmengen vorzuschreiben sowie Steuerlagerinhaber von dem Entlastungsverfahren auszuschließen.
 
-
-## § 31 – Steueraufsicht, Überwachung
+# § 31 – Steueraufsicht, Überwachung
 
 (1) Unbeschadet des § 209 Absatz 1 und 2 der Abgabenordnung unterliegen im Steuergebiet der Steueraufsicht:
 
@@ -756,8 +723,7 @@ c) im alkoholhaltigen Gärungsverfahren Hefe oder andere Stoffe ohne gleichzeiti
 
 sich vorher beim Hauptzollamt anzumelden und über die Herstellung, die Bearbeitung oder Verarbeitung und den Handel Aufzeichnungen zu führen haben, sowie hierzu die Einzelheiten und das Verfahren festzulegen.
 
-
-## § 32 – Überwachung von Brenn- und Reinigungsgeräten
+# § 32 – Überwachung von Brenn- und Reinigungsgeräten
 
 (1) Wer zur gewerblichen Gewinnung oder Reinigung von Alkohol geeignete Brenn- oder Reinigungsgeräte oder sonstige zur gewerblichen Gewinnung oder Reinigung von Alkohol bestimmte Geräte abgibt, hat dies dem Hauptzollamt schriftlich anzuzeigen. Dies hat unter Angabe des Empfängers spätestens bei der Abgabe zu geschehen. Der Empfänger hat den Empfang des Brenn-, Reinigungsgerätes oder des sonstigen zur gewerblichen Gewinnung oder Reinigung von Alkohol bestimmten Gerätes dem Hauptzollamt unverzüglich schriftlich anzuzeigen.
 
@@ -775,15 +741,13 @@ anzubieten, abzugeben oder zu besitzen.
 
 2. die Fälle festzulegen, in denen Brenn- oder Reinigungsgeräte mit einem Raumvolumen von bis zu 5 Litern vom Verbot nach Absatz 2 ausgenommen werden können.
 
-
-## § 33 – Berechnung bei Verkürzung der Alkoholsteuer
+# § 33 – Berechnung bei Verkürzung der Alkoholsteuer
 
 (1) Ist Alkoholsteuer dadurch verkürzt worden, dass eine Brennvorrichtung unbefugt in Betrieb genommen worden ist, so wird die verkürzte Alkoholsteuer nach der Alkoholmenge berechnet, die mit der Brennvorrichtung bei unausgesetztem Betrieb während der dem Zeitpunkt der Entdeckung vorhergegangenen drei Monate gewonnen werden konnte, sofern nicht festgestellt wird, dass die Brennvorrichtung in einem größeren oder in einem geringeren Umfang benutzt worden ist.
 
 (2) Ist Alkoholsteuer dadurch verkürzt worden, dass alkoholhaltige Dämpfe oder Alkohol unbefugt abgeleitet oder entnommen worden sind oder dass der Gang der Messvorrichtung vorsätzlich gestört oder eine unrichtig gehende, zu gering anzeigende Messuhr in Kenntnis ihrer Unrichtigkeit weiterbenutzt worden ist, so wird die verkürzte Alkoholsteuer in der Weise berechnet, dass für die dem Zeitpunkt der Entdeckung vorhergegangenen drei Monate eine ununterbrochene Ableitung, Entnahme, Störung oder Weiterbenutzung angenommen wird, sofern nicht festgestellt wird, dass die Verkürzung sich auf einen anderen Zeitraum oder auf eine andere Menge erstreckt hat.
 
-
-## § 34 – Sicherstellung
+# § 34 – Sicherstellung
 
 (1) Das Hauptzollamt kann in entsprechender Anwendung des § 215 der Abgabenordnung Folgendes sicherstellen:
 
@@ -803,15 +767,13 @@ c) nach § 24 Absatz 2 Satz 2 befördert oder in Besitz gehalten werden.
 
 (2) Sichergestellte Sachen werden durch das Hauptzollamt in das Eigentum des Bundes übergeführt. § 216 der Abgabenordnung gilt entsprechend.
 
-
-## § 35 – Geschäftsstatistik
+# § 35 – Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen stellen die Hauptzollämter für statistische Zwecke Erhebungen an und teilen die Ergebnisse in anonymisierter Form dem Statistischen Bundesamt zur Auswertung mit.
 
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für allgemeine Zwecke in anonymisierter Form übermitteln.
 
-
-## § 36 – Bußgeldvorschriften
+# § 36 – Bußgeldvorschriften
 
 (1) Ordnungswidrig im Sinn des § 381 Absatz 1 Nummer 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -831,8 +793,7 @@ c) nach § 24 Absatz 2 Satz 2 befördert oder in Besitz gehalten werden.
 
 (5) Die Ordnungswidrigkeit kann in den Fällen der Absätze 3 und 4 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 37 – Besondere Ermächtigungen
+# § 37 – Besondere Ermächtigungen
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
@@ -888,8 +849,7 @@ Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das den Date
 
 7. zur Sicherung des Steueraufkommens anzuordnen, dass Alkohol zu Trinkzwecken, der in Fertigpackungen in den freien Verkehr des Steuergebiets gelangt, zu diesem Zeitpunkt durch Steuerzeichen gekennzeichnet sein muss, und Alkohol zu Trinkzwecken, der im freien Verkehr zu gewerblichen Zwecken in Fertigpackungen abgefüllt wird, bei seiner Entfernung aus dem abfüllenden Betrieb in gleicher Weise gekennzeichnet sein muss. Dabei können die Kennzeichnung und insbesondere die Herstellung, die Gestaltung, der Bezug, die Anbringung und die Verwendung der Steuerzeichen und das Steuerzeichenverfahren im Übrigen geregelt sowie notwendige Sicherungsmaßnahmen angeordnet werden. Darüber hinaus können in der Rechtsverordnung die Steuerzeichen als Wertzeichen zur Entrichtung der Alkoholsteuer bestimmt und angeordnet werden, dass mit dem Bezug des Steuerzeichens in Höhe des Steuerwerts eine Steuerzeichenschuld in der Person des Beziehers entsteht, sowie Regelungen über die Entlastung von der Steuerzeichenschuld oder der Alkoholsteuer getroffen werden, wenn Steuerzeichen zurückgegeben oder unter Steueraufsicht vernichtet werden oder ungültig gemacht oder gekennzeichneter Alkohol zu Trinkzwecken aus dem freien Verkehr des Steuergebiets genommen wird. Dabei kann das Bundesministerium der Finanzen zur Durchführung des Steuerzeichenverfahrens bestimmen, dass Alkohol zu Trinkzwecken nur in Steuerlagern in Fertigpackungen abgefüllt werden darf und für zurückgegebene, vernichtete oder ungültig gemachte Steuerzeichen Gebühren erhoben werden.
 
-
-## § 38 – Übergangsbestimmungen
+# § 38 – Übergangsbestimmungen
 
 (1) Die am 31. Dezember 2017 nach dem Branntweinmonopolgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 612-7, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 21. Juni 2013 (BGBl. I S. 1650) geändert worden ist, geltenden Erlaubnisse gelten ab dem 1. Januar 2018 entsprechend der nachfolgenden Überleitungstabelle als widerruflich erteilt:  
   

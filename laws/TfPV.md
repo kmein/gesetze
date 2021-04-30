@@ -1,29 +1,23 @@
-# [TfPV] Verordnung über die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins  (Triebfahrzeugführerschein-Prüfungsverordnung - TfPV)
-
-Ausfertigungsdatum: 22.11.2013
-
+% Verordnung über die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins  (Triebfahrzeugführerschein-Prüfungsverordnung - TfPV)
+% Ausfertigungsdatum: 22.11.2013
  
-
-## § 1 – Geltungsbereich und zuständige Behörde
+# § 1 – Geltungsbereich und zuständige Behörde
 
 (1) Diese Verordnung regelt die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins, die Zulassung zur Prüfung, den Ablauf der Prüfungen und das Prüfungsverfahren im Geltungsbereich der Triebfahrzeugführerscheinverordnung vom 29. April 2011 (BGBl. I S. 705, 1010).
 
 (2) Zuständige Behörde im Sinne dieser Verordnung ist das Eisenbahn-Bundesamt.
 
-
-## § 2 – Zweck der Prüfung
+# § 2 – Zweck der Prüfung
 
 In der theoretischen Prüfung ist festzustellen, ob der Prüfling über die Fachkenntnisse für den Erwerb des Triebfahrzeugführerscheins nach Anlage 5 der Triebfahrzeugführerscheinverordnung verfügt.
 
-
-## § 3 – Durchführung der Prüfung, Prüfer
+# § 3 – Durchführung der Prüfung, Prüfer
 
 (1) Die Prüfung wird von Personen oder Stellen durchgeführt, die nach § 15 der Triebfahrzeugführerscheinverordnung von der zuständigen Behörde als Prüfungsorganisationen anerkannt sind (Prüfungsorganisation). Die Prüfungsorganisation nach Satz 1 beruft die Prüfer, die den Anforderungen des § 7 Absatz 1 genügen müssen.
 
 (2) Die Prüfungsorganisation stellt sicher, dass die Bestimmungen dieser Verordnung und der Triebfahrzeugführerscheinverordnung während der Prüfung eingehalten werden.
 
-
-## § 4 – Antrag auf Zulassung zur Prüfung
+# § 4 – Antrag auf Zulassung zur Prüfung
 
 (1) Der Prüfungsbewerber oder sein Bevollmächtigter muss die Zulassung zur Prüfung für den Erwerb des Triebfahrzeugführerscheins schriftlich bei der Prüfungsorganisation beantragen.
 
@@ -51,8 +45,7 @@ und
 
 d) eine Erklärung darüber, ob er sich bereits in einem Prüfungsverfahren bei einer anderen Prüfungsorganisation befindet.
 
-
-## § 5 – Entscheidung über die Zulassung
+# § 5 – Entscheidung über die Zulassung
 
 (1) Über die Zulassung zur Prüfung entscheidet die Prüfungsorganisation. Sie kann im Einzelfall Ausnahmen von den Voraussetzungen des § 4 Absatz 2 Nummer 1 zulassen, wenn der Prüfungsbewerber entsprechende Kenntnisse und Fertigkeiten auf andere Art nachweisen kann.
 
@@ -68,8 +61,7 @@ d) eine Erklärung darüber, ob er sich bereits in einem Prüfungsverfahren bei 
 
 4. der Prüfungsbewerber die Prüfung für den Erwerb des Triebfahrzeugführerscheins nach § 20 Absatz 4 Satz 1 oder eine Eisenbahnführerschein-Prüfung nach den bis zum 28. November 2013 angewandten Bestimmungen endgültig nicht bestanden hat und die Voraussetzungen einer erneuten Prüfung nach § 21 nicht vorliegen.
 
-
-## § 6 – Aufgaben der Prüfungsorganisation
+# § 6 – Aufgaben der Prüfungsorganisation
 
 Die Prüfungsorganisation
 
@@ -87,8 +79,7 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 3. bereitet sämtliche Prüfungsunterlagen einschließlich der Prüfungsaufgaben für den schriftlichen Teil der Prüfung vor; die Prüfungsaufgaben sind vertraulich zu behandeln.
 
-
-## § 7 – Anforderungen an die Prüfer
+# § 7 – Anforderungen an die Prüfer
 
 (1) Die Prüfer müssen die Anforderungen erfüllen nach
 
@@ -98,15 +89,13 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (2) Die Prüfer dürfen den Prüfling nicht zuvor ausgebildet haben.
 
-
-## § 8 – Gliederung der Prüfung, Prüfungssprache
+# § 8 – Gliederung der Prüfung, Prüfungssprache
 
 (1) Die Gliederung der Prüfung richtet sich nach § 7 Absatz 1 Satz 1 der Triebfahrzeugführerscheinverordnung. Der schriftliche Teil der Prüfung wird zuerst abgelegt.
 
 (2) Die Prüfung wird in der Regel in deutscher Sprache abgelegt. Auf Antrag des Prüflings kann die Prüfung auch in einer Sprache eines anderen Mitgliedstaates der Europäischen Union durchgeführt werden. Über den Antrag nach Satz 2 entscheidet die Prüfungsorganisation. Wird die Prüfung in der Sprache eines anderen Mitgliedstaates der Europäischen Union durchgeführt, muss die Prüfungsorganisation sicherstellen, dass die Prüfer und der Prüfling über ausreichende Sprachkenntnisse entsprechend der Stufe 4 nach Anlage 7 Nummer 6 der Triebfahrzeugführerscheinverordnung verfügen.
 
-
-## § 9 – Schriftlicher Teil der Prüfung
+# § 9 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung umfasst Aufgaben zu den in Anlage 5 der Triebfahrzeugführerscheinverordnung genannten Ausbildungsinhalten. Die Prüfungsaufgaben werden von der Prüfungsorganisation bestimmt. Fragen mit Antworten im Auswahlverfahren sind zulässig. Erlaubte Arbeits- und Hilfmittel sind in den Prüfungsaufgaben anzugeben.
 
@@ -120,8 +109,7 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (6) Der Prüfling ist über das Ergebnis des schriftlichen Teils der Prüfung unverzüglich zu unterrichten. Gleichzeitig ist der Prüfling zur mündlichen Prüfung zu laden, wenn der schriftliche Teil der Prüfung mindestens mit „ausreichend“ bewertet worden ist. Ist der schriftliche Teil der Prüfung mit „mangelhaft“ oder schlechter bewertet worden, so ist die Prüfung insgesamt durch die Prüfungsorganisation für nicht bestanden zu erklären. Der Prüfling ist damit für den mündlichen Teil der Prüfung nicht zugelassen.
 
-
-## § 10 – Mündlicher Teil der Prüfung
+# § 10 – Mündlicher Teil der Prüfung
 
 (1) Die Prüfungsorganisation bestimmt für den mündlichen Teil der Prüfung zwei Prüfer, davon einen als Vorsitzenden.
 
@@ -135,8 +123,7 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (6) Der Vorsitzende fertigt eine Niederschrift über den Verlauf und etwaige Unregelmäßigkeiten bei dem mündlichen Teil der Prüfung nach Anlage 1 an. Er übermittelt die Niederschrift an die zuständige Behörde.
 
-
-## § 11 – Ausweispflicht und Belehrung
+# § 11 – Ausweispflicht und Belehrung
 
 (1) Der Prüfling muss sich auf Verlangen der Prüfer oder der Aufsichtsperson über seine Person ausweisen.
 
@@ -148,15 +135,13 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 3. die Folgen von Täuschungen und Ordnungsverstößen.
 
-
-## § 12 – Täuschungen und Ordnungsverstöße
+# § 12 – Täuschungen und Ordnungsverstöße
 
 (1) Wer täuscht, eine Täuschung versucht oder den ordnungsgemäßen Ablauf des schriftlichen oder mündlichen Teils der Prüfung stört, kann von der Aufsichtsperson oder vom Vorsitzenden von der weiteren Teilnahme an der Prüfung ausgeschlossen werden.
 
 (2) Wird ein Prüfling nach Absatz 1 von dem schriftlichen oder mündlichen Teil der Prüfung ausgeschlossen, gilt die betreffende Prüfungsleistung als nicht bestanden. Der Prüfling darf den nach Satz 1 nicht bestandenen Prüfungsteil frühestens sechs Monate nach dem Ausschluss wiederholen.
 
-
-## § 13 – Rücktritt und Nichterscheinen
+# § 13 – Rücktritt und Nichterscheinen
 
 (1) Die Prüfung gilt als nicht angetreten, wenn der Prüfling
 
@@ -178,18 +163,15 @@ d) die pseudonyme Kennziffer, die der Prüfling im Rahmen des schriftlichen Teil
 
 (5) Über das Vorliegen eines wichtigen Grundes entscheidet die Prüfungsorganisation.
 
-
-## § 14 – Verschwiegenheit
+# § 14 – Verschwiegenheit
 
 Die Prüfer haben gegenüber Dritten Verschwiegenheit zu wahren. Mit Einwilligung des Prüflings kann die Prüfungsorganisation das Ergebnis der Prüfung der Ausbildungsorganisation des Prüflings mitteilen.
 
-
-## § 15 – Bewertung der Prüfungsleistungen
+# § 15 – Bewertung der Prüfungsleistungen
 
 Der schriftliche und der mündliche Teil der Prüfung sind von den Prüfern mit jeweils einer Dezimalnote nach Anlage 2 zu bewerten. Die Prüfer müssen jeden Prüfungsteil einvernehmlich bewerten.
 
-
-## § 16 – Feststellen und Bekanntgeben des Prüfungsergebnisses
+# § 16 – Feststellen und Bekanntgeben des Prüfungsergebnisses
 
 (1) Die theoretische Prüfung ist bestanden, wenn nach § 7 Absatz 4 Satz 1 und 2 der Triebfahrzeugführerscheinverordnung in Verbindung mit Anlage 2 dieser Verordnung
 
@@ -221,18 +203,15 @@ Der Notenmittelwert wird auf zwei Dezimalstellen hinter dem Komma ohne Auf- und 
 
 (4) Das Ergebnis des mündlichen Teils der Prüfung sowie das Gesamtprüfungsergebnis der theoretischen Prüfung sind dem Prüfling unmittelbar nach dem Abschluss des mündlichen Teils der Prüfung durch den Vorsitzenden bekanntzugeben.
 
-
-## § 17 – Prüfungsbescheinigung
+# § 17 – Prüfungsbescheinigung
 
 Wer die theoretische Prüfung bestanden hat, erhält von der Prüfungsorganisation eine Prüfungsbescheinigung nach dem Muster der Anlage 3. Die Prüfungsbescheinigung soll spätestens vier Wochen nach Abschluss der Prüfung ausgestellt werden.
 
-
-## § 18 – Nicht bestandene Prüfung
+# § 18 – Nicht bestandene Prüfung
 
 Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theoretischen Prüfung eine schriftliche Bescheinigung aus. Darin sind die Teile der Prüfung anzugeben, die nicht mit mindestens „ausreichend“ bewertet wurden. Auf die besonderen Bedingungen der Wiederholungsprüfung nach § 20 ist hinzuweisen.
 
-
-## § 19 – Anerkennung von Prüfungsleistungen
+# § 19 – Anerkennung von Prüfungsleistungen
 
 (1) Bereits erbrachte Prüfungsleistungen können anerkannt werden, soweit Gleichwertigkeit festgestellt ist. Gleichwertigkeit ist festzustellen, wenn bereits erbrachte Prüfungsleistungen in Bezug auf Inhalt und Umfang die Anforderungen dieser Verordnung erfüllen.
 
@@ -242,8 +221,7 @@ Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theor
 
 (4) Der Prüfling hat die für die Anerkennung erforderlichen Nachweise in deutscher Sprache vorzulegen.
 
-
-## § 20 – Wiederholungsprüfung
+# § 20 – Wiederholungsprüfung
 
 (1) Eine nicht bestandene theoretische Prüfung kann zweimal wiederholt werden (Wiederholungsprüfung). Die erste Wiederholungsprüfung muss innerhalb eines Jahres nach Abschluss der nicht bestandenen Prüfung und die zweite Wiederholungsprüfung muss innerhalb eines Jahres nach Abschluss der nicht bestandenen ersten Wiederholungsprüfung stattfinden. Maßgeblich ist jeweils der Tag, an dem der nicht bestandene schriftliche oder mündliche Teil der Prüfung stattgefunden hat. § 4 gilt entsprechend.
 
@@ -253,22 +231,19 @@ Die Prüfungsorganisation stellt dem Prüfling über das Nichtbestehen der theor
 
 (4) Besteht der Prüfling die zweite Wiederholungsprüfung nicht, so hat er die Prüfung zum Erwerb des Triebfahrzeugführerscheins endgültig nicht bestanden. Eine weitere Wiederholungsprüfung ist nicht zulässig.
 
-
-## § 21 – Erneute Prüfung
+# § 21 – Erneute Prüfung
 
 (1) Die endgültig nicht bestandene theoretische Prüfung zum Erwerb des Triebfahrzeugführerscheins kann erneut abgelegt werden, wenn sich der Bewerber einer erneuten Ausbildung zum Erwerb des Triebfahrzeugführerscheins unterzogen hat.
 
 (2) Für die Zulassung zur erneuten Prüfung gilt § 4 entsprechend mit der Maßgabe, dass der Prüfungsbewerber zusätzlich eine Ausbildungsbescheinigung über die erneut durchlaufene Ausbildung vorzulegen hat.
 
-
-## § 22 – Prüfungsunterlagen
+# § 22 – Prüfungsunterlagen
 
 (1) Auf Antrag ist dem Prüfling nach Beendigung der theoretischen Prüfung Einsicht in seine Prüfungsunterlagen durch die Prüfungsorganisation zu gewähren. Kopien des schriftlichen Teils der Prüfung und ihrer Bewertung sowie der Niederschrift über die mündliche Prüfung dürfen ihm nur zum Zwecke der Verwendung für gerichtliche Verfahren ausgehändigt werden.
 
 (2) Die Prüfungsunterlagen sind von der Prüfungsorganisation fünf Jahre nach Ausstellung der Prüfungsbescheinigung nach § 17 oder der Bescheinigung nach § 18 aufzubewahren. Anschließend sind sie unverzüglich zu vernichten. Elektronisch gespeicherte Daten sind nach Ablauf der in Satz 1 genannten Frist unverzüglich automatisiert zu löschen.
 
-
-## § 23 – Informationsrechte der zuständigen Behörde
+# § 23 – Informationsrechte der zuständigen Behörde
 
 Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 
@@ -280,8 +255,7 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 
 4. Zugang zu allen Unterlagen zu ermöglichen, die für die Vorbereitung, Durchführung und Bewertung der Prüfungen relevant sind.
 
-
-## Anlage 1 – (zu § 9 Absatz 3 und § 10 Absatz 6)Prüfungsniederschrift
+# Anlage 1 – (zu § 9 Absatz 3 und § 10 Absatz 6)Prüfungsniederschrift
 
 (Fundstelle: BGBl. I 2013, 4013)
 
@@ -299,8 +273,7 @@ Die zuständige Behörde kann die Prüfungsorganisation auffordern,
 
  
 
-
-## Anlage 2 – (zu den §§ 15, 16 Absatz 1)
+# Anlage 2 – (zu den §§ 15, 16 Absatz 1)
 
 (Fundstelle: BGBl. I 2013, 4014)
 
@@ -310,8 +283,7 @@ Andere als die in Spalte 2 aufgeführten Zwischennoten dürfen nicht verwendet w
 
  
 
-
-## Anlage 3 – (zu § 17)Muster
+# Anlage 3 – (zu § 17)Muster
 
 (Fundstelle: BGBl. I 2013, 4015)
 

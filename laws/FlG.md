@@ -1,15 +1,11 @@
-# [FlG] Fleischgesetz
-
-Ausfertigungsdatum: 09.04.2008
-
+% Fleischgesetz
+% Ausfertigungsdatum: 09.04.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -27,8 +23,7 @@ Im Sinne dieses Gesetzes sind
 
 7. Klassifizierer: ein Mitarbeiter eines Klassifizierungsunternehmens, der die Klassifizierung durchführt.
 
-
-## § 2 – Klassifizierung
+# § 2 – Klassifizierung
 
 (1) Soweit nach den Vorschriften des Handelsklassenrechts eine Klassifizierung von Schlachtkörpern vorgeschrieben oder zulässig ist, darf die Klassifizierung nur von
 
@@ -40,8 +35,7 @@ vorgenommen werden.
 
 (2) Die von einem auszubildenden Klassifizierer durchgeführte und gleichzeitig von einem zugelassenen Klassifizierer beaufsichtigte Klassifizierung gilt als Klassifizierung durch einen zugelassenen Klassifizierer, wenn der zugelassene Klassifizierer ausschließlich diese eine Klassifizierung beaufsichtigt, um jederzeit einschreiten und damit eine ordnungsgemäße Klassifizierung sicherstellen zu können.
 
-
-## § 3 – Zulassung von Klassifizierungsunternehmen
+# § 3 – Zulassung von Klassifizierungsunternehmen
 
 (1) Der Betrieb eines Klassifizierungsunternehmens bedarf der Zulassung durch die zuständige Behörde. Die Zulassung wird auf Antrag erteilt, wenn das Klassifizierungsunternehmen
 
@@ -73,8 +67,7 @@ Das Erlöschen der Zulassung wird durch Bescheid der zuständigen Behörde festg
 
 (4) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Anforderungen an die Zulassung nach Absatz 1 einschließlich des Verfahrens festzulegen. In der Rechtsverordnung nach Satz 1 kann insbesondere vorgeschrieben werden, dass die Zulassung inhaltlich beschränkt, mit Auflagen, auch nachträglich, verbunden oder nur für das Gebiet eines oder mehrerer Länder erteilt werden kann, soweit dies zur ordnungsgemäßen Durchführung der Klassifizierung erforderlich ist.
 
-
-## § 4 – Befähigung und Zulassung von Klassifizierern
+# § 4 – Befähigung und Zulassung von Klassifizierern
 
 (1) Ein Klassifizierer darf Schlachtkörper einer Tierart nur klassifizieren, wenn er dazu von der zuständigen Behörde zugelassen ist. Die Zulassung wird auf Antrag erteilt, wenn die antragstellende Person
 
@@ -114,8 +107,7 @@ einschließlich des jeweiligen Verfahrens zu regeln. In der Verordnung nach Satz
 
 (7) Die Absätze 1 bis 4 und 6 gelten für qualifiziertes Personal im Sinne von Artikel 9 Buchstabe b der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union für Schlachtkörper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise für bestimmte Kategorien von Schlachtkörpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74) entsprechend.
 
-
-## § 5 – Erlöschen der Zulassung eines Klassifizierers, Rückgabe übergebener Gegenstände
+# § 5 – Erlöschen der Zulassung eines Klassifizierers, Rückgabe übergebener Gegenstände
 
 (1) Die Zulassung eines Klassifizierers erlischt, wenn der Klassifizierer seine Tätigkeit
 
@@ -127,8 +119,7 @@ hat. Das Erlöschen der Zulassung wird durch Bescheid der zuständigen Behörde 
 
 (2) Ein Klassifizierer ist nach Beendigung seiner Tätigkeit sowie nach Widerruf, Rücknahme oder Erlöschen seiner Zulassung verpflichtet, der zuständigen Behörde die Zulassungsurkunde, den Klassifiziererausweis und den personenbezogenen Stempel zurückzugeben.
 
-
-## § 6 – Widerruf und Rücknahme der Zulassung von Klassifizierungsunternehmen und Klassifizierern
+# § 6 – Widerruf und Rücknahme der Zulassung von Klassifizierungsunternehmen und Klassifizierern
 
 (1) Die Zulassung eines Klassifizierungsunternehmens ist zu widerrufen, wenn die Gewähr für eine ordnungsgemäße Durchführung der Klassifizierung nicht mehr gegeben ist. Dies ist insbesondere dann der Fall, wenn
 
@@ -154,8 +145,7 @@ b) einen oder mehrere Klassifizierer zur Verfälschung des Klassifizierungsergeb
 
 (4) Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf von Verwaltungsakten unberührt.
 
-
-## § 7 – Zuständigkeit
+# § 7 – Zuständigkeit
 
 (1) Die Durchführung dieses Gesetzes und die Überwachung der Einhaltung der Bestimmungen dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt den nach Landesrecht zuständigen Behörden, soweit in diesem Gesetz nichts anderes bestimmt ist.
 
@@ -175,8 +165,7 @@ ist die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt).
 
 (4) Stellt die nach Absatz 2 oder Absatz 3 zuständige Behörde Tatsachen fest, die für das Vorliegen der Voraussetzungen der Zulassung eines Klassifizierungsunternehmens oder eines Klassifizierers von Bedeutung sein können und ist sie nicht selbst die für die Entscheidung zuständige Behörde, so teilt sie diese Tatsachen der für die Entscheidung zuständigen Behörde unverzüglich mit.
 
-
-## § 8 – Mitteilungspflichten
+# § 8 – Mitteilungspflichten
 
 (1) Das Klassifizierungsunternehmen ist verpflichtet, zum Zweck der Durchführung dieses Gesetzes der Bundesanstalt sowie den für die Zulassung und Überwachung der Tätigkeit der Klassifizierer zuständigen Landesbehörden vor Aufnahme seiner Tätigkeit Namen und Anschriften der bei ihm beschäftigten Klassifizierer sowie die vorgesehenen Einsatzorte der Klassifizierer mitzuteilen. Änderungen sind unverzüglich mitzuteilen.
 
@@ -192,8 +181,7 @@ den in Absatz 1 Satz 1 genannten Behörden mit.
 
 (4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Anforderungen an die Mitteilungspflichten nach den Absätzen 1 bis 3 und das Verfahren zu regeln.
 
-
-## § 9 – Preis- und Gewichtsfeststellung, Kennzeichnung von Schlachtkörpern
+# § 9 – Preis- und Gewichtsfeststellung, Kennzeichnung von Schlachtkörpern
 
 (1) Zur Förderung der Marktübersicht können nach Maßgabe der folgenden Vorschriften von den zuständigen Behörden
 
@@ -235,8 +223,7 @@ b) Ermittlung des Schlachtgewichts und der Schnittführung,
 
 c) Dauer der Aufbewahrung der Preismelde- und der Wiegeunterlagen sowie zum Inhalt der von den nach Landesrecht zuständigen Behörden an das Bundesministerium oder die von ihm bestimmte Stelle weiterzuleitenden Aufstellungen.
 
-
-## § 10 – Auskunftspflichten
+# § 10 – Auskunftspflichten
 
 (1) Ein Klassifizierungsunternehmen ist verpflichtet, dem Lieferanten eines Schlachttieres auf Antrag, der innerhalb von drei Monaten nach der Schlachtung des gelieferten Tieres zu stellen ist, eine schriftliche oder elektronische Auskunft über die Schlachtnummer, das Schlachtgewicht und das Klassifizierungsergebnis des Schlachttieres zu geben. Die Verpflichtung nach Satz 1 erstreckt sich bei Schweinen auch auf den Muskelfleischanteil.
 
@@ -248,8 +235,7 @@ c) Dauer der Aufbewahrung der Preismelde- und der Wiegeunterlagen sowie zum Inha
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Anforderungen an die Informationen nach Absatz 1 oder 2 einschließlich der Art und Weise ihrer Erteilung zu regeln.
 
-
-## § 11 – Befugnisse der zuständigen Behörde
+# § 11 – Befugnisse der zuständigen Behörde
 
 (1) Die zuständige Behörde kann die zur Beseitigung festgestellter Verstöße und die zur Verhütung künftiger Verstöße notwendigen Anordnungen treffen. Insbesondere kann sie
 
@@ -277,8 +263,7 @@ c) Dauer der Aufbewahrung der Preismelde- und der Wiegeunterlagen sowie zum Inha
 
 (4) Wer zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 12 – Registerführung, Datenübermittlung
+# § 12 – Registerführung, Datenübermittlung
 
 (1) Soweit dies zur Erfüllung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union über die Preismeldungen für Schlachtkörper oder zur Durchführung von Rechtsverordnungen nach § 9 Abs. 2 erforderlich ist, darf die zuständige Behörde erhobene Informationen einschließlich personenbezogener Daten übermitteln
 
@@ -312,8 +297,7 @@ Im öffentlichen Bereich können die Festlegungen auch von den Fachaufsichtsbeh�
 
 (5) Nach der Einstellung der Tätigkeit eines Klassifizierungsunternehmens oder eines Klassifizierers oder dem Ausscheiden eines Klassifizierers aus einem Klassifizierungsunternehmen sind die dieses Klassifizierungsunternehmen oder diesen Klassifizierer betreffenden Daten noch für die Dauer von drei Jahren aufzubewahren. Die Frist beginnt mit Ablauf des 31. Dezember desjenigen Jahres, in dem die Unternehmensaufgabe, das Ausscheiden aus dem Unternehmen oder die Beendigung der Tätigkeit erfolgt ist. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu löschen. Vorschriften, die eine längere Aufbewahrung vorschreiben, bleiben unberührt.
 
-
-## § 13 – Rechtsverordnungen in bestimmten Fällen
+# § 13 – Rechtsverordnungen in bestimmten Fällen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die für die Durchführung dieses Gesetzes erforderliche Verarbeitung personenbezogener Daten zu treffen.
 
@@ -321,20 +305,17 @@ Im öffentlichen Bereich können die Festlegungen auch von den Fachaufsichtsbeh�
 
 (3) Das Bundesministerium kann die ihm in diesem Gesetz erteilten Ermächtigungen zum Erlass von Rechtsverordnungen durch Rechtsverordnung mit Zustimmung des Bundesrates auf die Landesregierungen übertragen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-
-## § 14 – Gebühren und Auslagen
+# § 14 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen, die nach diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen vorgenommen werden, werden Gebühren und Auslagen erhoben.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates für individuell zurechenbare öffentliche Leistungen der Bundesanstalt nach den §§ 3 und 6 Abs. 1 und 3 die gebührenpflichtigen Tatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-
-## § 15 – Außenverkehr
+# § 15 – Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und dritter Staaten sowie den Organen der Europäischen Union obliegt dem Bundesministerium. Es kann die damit verbundenen Aufgaben auf die Bundesanstalt oder durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
 
-
-## § 16 – Bußgeldvorschriften
+# § 16 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -352,13 +333,11 @@ Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und dritter S
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für Landwirtschaft und Ernährung.
 
-
-## § 17 – Einziehung
+# § 17 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 16 Abs. 1 begangen worden, so können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 18 – Übergangsbestimmungen
+# § 18 – Übergangsbestimmungen
 
 (1) Ein Klassifizierungsunternehmen, das zum Zeitpunkt des Inkrafttretens dieses Gesetzes bereits tätig ist, ist von dem Erfordernis der Zulassung nach § 3 bis zum 1. November 2009 befreit.
 
@@ -370,17 +349,14 @@ Ist eine Ordnungswidrigkeit nach § 16 Abs. 1 begangen worden, so können Gegens
 
 (5) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, Rechtsverordnungen aufzuheben, die auf Grund des Vieh- und Fleischgesetzes in der Fassung der Bekanntmachung vom 21. März 1977 (BGBl. I S. 477), zuletzt geändert durch Art. 200 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), erlassen worden sind.
 
-
-## § 19 – Aufhebung des Vieh- und Fleischgesetzes
-
-\-
-
-
-## § 20 – Änderung von Rechtsvorschriften
+# § 19 – Aufhebung des Vieh- und Fleischgesetzes
 
 \-
 
+# § 20 – Änderung von Rechtsvorschriften
 
-## § 21 – Inkrafttreten
+\-
+
+# § 21 – Inkrafttreten
 
 Das Gesetz tritt vorbehaltlich des Satzes 2 am 1. November 2008 in Kraft. Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen, treten am Tage nach der Verkündung in Kraft.

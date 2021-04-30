@@ -1,13 +1,9 @@
-# [VgV] Verordnung über die Vergabe öffentlicher Aufträge  (Vergabeverordnung - VgV)
-
-Ausfertigungsdatum: 12.04.2016
-
+% Verordnung über die Vergabe öffentlicher Aufträge  (Vergabeverordnung - VgV)
+% Ausfertigungsdatum: 12.04.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand und Anwendungsbereich
+# § 1 – Gegenstand und Anwendungsbereich
 
 (1) Diese Verordnung trifft nähere Bestimmungen über das einzuhaltende Verfahren bei der dem Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen unterliegenden Vergabe von öffentlichen Aufträgen und bei der Ausrichtung von Wettbewerben durch den öffentlichen Auftraggeber.
 
@@ -19,13 +15,11 @@ Ausfertigungsdatum: 12.04.2016
 
 3. die Vergabe von Konzessionen durch Konzessionsgeber.
 
-
-## § 2 – Vergabe von Bauaufträgen
+# § 2 – Vergabe von Bauaufträgen
 
 Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2 der Vergabe- und Vertragsordnung für Bauleistungen in der Fassung der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2) anzuwenden.
 
-
-## § 3 – Schätzung des Auftragswerts
+# § 3 – Schätzung des Auftragswerts
 
 (1) Bei der Schätzung des Auftragswerts ist vom voraussichtlichen Gesamtwert der vorgesehenen Leistung ohne Umsatzsteuer auszugehen. Zudem sind etwaige Optionen oder Vertragsverlängerungen zu berücksichtigen. Sieht der öffentliche Auftraggeber Prämien oder Zahlungen an den Bewerber oder Bieter vor, sind auch diese zu berücksichtigen.
 
@@ -59,8 +53,7 @@ Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschn
 
 (12) Bei einem Planungswettbewerb nach § 69, der zu einem Dienstleistungsauftrag führen soll, ist der Wert des Dienstleistungsauftrags zu schätzen zuzüglich etwaiger Preisgelder und Zahlungen an die Teilnehmer. Bei allen übrigen Planungswettbewerben entspricht der Auftragswert der Summe der Preisgelder und Zahlungen an die Teilnehmer einschließlich des Werts des Dienstleistungsauftrags, der vergeben werden könnte, soweit der öffentliche Auftraggeber diese Vergabe in der Wettbewerbsbekanntmachung des Planungswettbewerbs nicht ausschließt.
 
-
-## § 4 – Gelegentliche gemeinsame Auftragsvergabe; zentrale Beschaffung
+# § 4 – Gelegentliche gemeinsame Auftragsvergabe; zentrale Beschaffung
 
 (1) Mehrere öffentliche Auftraggeber können vereinbaren, bestimmte öffentliche Aufträge gemeinsam zu vergeben. Dies gilt auch für die Auftragsvergabe gemeinsam mit öffentlichen Auftraggebern aus anderen Mitgliedstaaten der Europäischen Union. Die Möglichkeiten zur Nutzung von zentralen Beschaffungsstellen bleiben unberührt.
 
@@ -68,8 +61,7 @@ Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschn
 
 (3) Die Bundesregierung kann für Dienststellen des Bundes in geeigneten Bereichen allgemeine Verwaltungsvorschriften über die Einrichtung und die Nutzung zentraler Beschaffungsstellen sowie die durch die zentralen Beschaffungsstellen bereitzustellenden Beschaffungsdienstleistungen erlassen.
 
-
-## § 5 – Wahrung der Vertraulichkeit
+# § 5 – Wahrung der Vertraulichkeit
 
 (1) Sofern in dieser Verordnung oder anderen Rechtsvorschriften nichts anderes bestimmt ist, darf der öffentliche Auftraggeber keine von den Unternehmen übermittelten und von diesen als vertraulich gekennzeichneten Informationen weitergeben. Dazu gehören insbesondere Betriebs- und Geschäftsgeheimnisse und die vertraulichen Aspekte der Angebote einschließlich ihrer Anlagen.
 
@@ -79,8 +71,7 @@ Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2, Unterabschn
 
 (+++ § 5: Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 6 – Vermeidung von Interessenkonflikten
+# § 6 – Vermeidung von Interessenkonflikten
 
 (1) Organmitglieder oder Mitarbeiter des öffentlichen Auftraggebers oder eines im Namen des öffentlichen Auftraggebers handelnden Beschaffungsdienstleisters, bei denen ein Interessenkonflikt besteht, dürfen in einem Vergabeverfahren nicht mitwirken.
 
@@ -102,8 +93,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 6: Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 7 – Mitwirkung an der Vorbereitung des Vergabeverfahrens
+# § 7 – Mitwirkung an der Vorbereitung des Vergabeverfahrens
 
 (1) Hat ein Unternehmen oder ein mit ihm in Verbindung stehendes Unternehmen den öffentlichen Auftraggeber beraten oder war auf andere Art und Weise an der Vorbereitung des Vergabeverfahrens beteiligt (vorbefasstes Unternehmen), so ergreift der öffentliche Auftraggeber angemessene Maßnahmen, um sicherzustellen, dass der Wettbewerb durch die Teilnahme dieses Unternehmens nicht verzerrt wird.
 
@@ -111,8 +101,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (3) Vor einem Ausschluss nach § 124 Absatz 1 Nummer 6 des Gesetzes gegen Wettbewerbsbeschränkungen ist dem vorbefassten Unternehmen die Möglichkeit zu geben nachzuweisen, dass seine Beteiligung an der Vorbereitung des Vergabeverfahrens den Wettbewerb nicht verzerren kann.
 
-
-## § 8 – Dokumentation und Vergabevermerk
+# § 8 – Dokumentation und Vergabevermerk
 
 (1) Der öffentliche Auftraggeber dokumentiert das Vergabeverfahren von Beginn an fortlaufend in Textform nach § 126b des Bürgerlichen Gesetzbuchs, soweit dies für die Begründung von Entscheidungen auf jeder Stufe des Vergabeverfahrens erforderlich ist. Dazu gehört zum Beispiel die Dokumentation der Kommunikation mit Unternehmen und interner Beratungen, der Vorbereitung der Auftragsbekanntmachung und der Vergabeunterlagen, der Öffnung der Angebote, Teilnahmeanträge und Interessensbestätigungen, der Verhandlungen und der Dialoge mit den teilnehmenden Unternehmen sowie der Gründe für Auswahlentscheidungen und den Zuschlag.
 
@@ -154,8 +143,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (6) § 5 bleibt unberührt.
 
-
-## § 9 – Grundsätze der Kommunikation
+# § 9 – Grundsätze der Kommunikation
 
 (1) Für das Senden, Empfangen, Weiterleiten und Speichern von Daten in einem Vergabeverfahren verwenden der öffentliche Auftraggeber und die Unternehmen grundsätzlich Geräte und Programme für die elektronische Datenübermittlung (elektronische Mittel).
 
@@ -163,8 +151,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (3) Der öffentliche Auftraggeber kann von jedem Unternehmen die Angabe einer eindeutigen Unternehmensbezeichnung sowie einer elektronischen Adresse verlangen (Registrierung). Für den Zugang zur Auftragsbekanntmachung und zu den Vergabeunterlagen darf der öffentliche Auftraggeber keine Registrierung verlangen; eine freiwillige Registrierung ist zulässig.
 
-
-## § 10 – Anforderungen an die verwendeten elektronischen Mittel
+# § 10 – Anforderungen an die verwendeten elektronischen Mittel
 
 (1) Der öffentliche Auftraggeber legt das erforderliche Sicherheitsniveau für die elektronischen Mittel fest. Elektronische Mittel, die von dem öffentlichen Auftraggeber für den Empfang von Angeboten, Teilnahmeanträgen und Interessensbestätigungen sowie von Plänen und Entwürfen für Planungswettbewerbe verwendet werden, müssen gewährleisten, dass
 
@@ -184,8 +171,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (2) Die elektronischen Mittel, die von dem öffentlichen Auftraggeber für den Empfang von Angeboten, Teilnahmeanträgen und Interessensbestätigungen sowie von Plänen und Entwürfen für Planungswettbewerbe genutzt werden, müssen über eine einheitliche Datenaustauschschnittstelle verfügen. Es sind die jeweils geltenden Interoperabilitäts- und Sicherheitsstandards der Informationstechnik gemäß § 3 Absatz 1 des Vertrags über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern vom 1. April 2010 zu verwenden.
 
-
-## § 11 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
+# § 11 – Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren
 
 (1) Elektronische Mittel und deren technische Merkmale müssen allgemein verfügbar, nichtdiskriminierend und mit allgemein verbreiteten Geräten und Programmen der Informations- und Kommunikationstechnologie kompatibel sein. Sie dürfen den Zugang von Unternehmen zum Vergabeverfahren nicht einschränken. Der öffentliche Auftraggeber gewährleistet die barrierefreie Ausgestaltung der elektronischen Mittel nach den §§ 4, 12a und 12b des Behindertengleichstellungsgesetzes vom 27. April 2002 (BGBl. I S. 1467, 1468) in der jeweils geltenden Fassung.
 
@@ -201,8 +187,7 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 11: Zur Anwendung vgl. § 22 Abs. 3 +++)
 
-
-## § 12 – Einsatz alternativer elektronischer Mittel bei der Kommunikation
+# § 12 – Einsatz alternativer elektronischer Mittel bei der Kommunikation
 
 (1) Der öffentliche Auftraggeber kann im Vergabeverfahren die Verwendung elektronischer Mittel, die nicht allgemein verfügbar sind (alternative elektronische Mittel), verlangen, wenn er
 
@@ -214,13 +199,11 @@ b) für ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unt
 
 (+++ § 12: Zur Anwendung vgl. § 22 Abs. 3 +++)
 
-
-## § 13 – Allgemeine Verwaltungsvorschriften
+# § 13 – Allgemeine Verwaltungsvorschriften
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften über die zu verwendenden elektronischen Mittel (Basisdienste für die elektronische Auftragsvergabe) sowie über die einzuhaltenden technischen Standards erlassen.
 
-
-## § 14 – Wahl der Verfahrensart
+# § 14 – Wahl der Verfahrensart
 
 (1) Die Vergabe von öffentlichen Aufträgen erfolgt nach § 119 des Gesetzes gegen Wettbewerbsbeschränkungen im offenen Verfahren, im nicht offenen Verfahren, im Verhandlungsverfahren, im wettbewerblichen Dialog oder in der Innovationspartnerschaft.
 
@@ -268,8 +251,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, insbesondere von gewerblich
 
 (6) Die in Absatz 4 Nummer 2 Buchstabe b und c genannten Voraussetzungen für die Anwendung des Verhandlungsverfahrens ohne Teilnahmewettbewerb gelten nur dann, wenn es keine vernünftige Alternative oder Ersatzlösung gibt und der mangelnde Wettbewerb nicht das Ergebnis einer künstlichen Einschränkung der Auftragsvergabeparameter ist.
 
-
-## § 15 – Offenes Verfahren
+# § 15 – Offenes Verfahren
 
 (1) Bei einem offenen Verfahren fordert der öffentliche Auftraggeber eine unbeschränkte Anzahl von Unternehmen öffentlich zur Abgabe von Angeboten auf. Jedes interessierte Unternehmen kann ein Angebot abgeben.
 
@@ -281,8 +263,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, insbesondere von gewerblich
 
 (5) Der öffentliche Auftraggeber darf von den Bietern nur Aufklärung über das Angebot oder deren Eignung verlangen. Verhandlungen, insbesondere über Änderungen der Angebote oder Preise, sind unzulässig.
 
-
-## § 16 – Nicht offenes Verfahren
+# § 16 – Nicht offenes Verfahren
 
 (1) Bei einem nicht offenen Verfahren fordert der öffentliche Auftraggeber eine unbeschränkte Anzahl von Unternehmen im Rahmen eines Teilnahmewettbewerbs öffentlich zur Abgabe von Teilnahmeanträgen auf. Jedes interessierte Unternehmen kann einen Teilnahmeantrag abgeben. Mit dem Teilnahmeantrag übermitteln die Unternehmen die vom öffentlichen Auftraggeber geforderten Informationen für die Prüfung ihrer Eignung.
 
@@ -304,8 +285,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, insbesondere von gewerblich
 
 (+++ § 16 Abs. 4: Zur Anwendung vgl. § 23 Abs. 6 +++) (+++ § 16 Abs. 6: Zur Anwendung vgl. § 24 Abs. 4 +++)
 
-
-## § 17 – Verhandlungsverfahren
+# § 17 – Verhandlungsverfahren
 
 (1) Bei einem Verhandlungsverfahren mit Teilnahmewettbewerb fordert der öffentliche Auftraggeber eine unbeschränkte Anzahl von Unternehmen im Rahmen eines Teilnahmewettbewerbs öffentlich zur Abgabe von Teilnahmeanträgen auf. Jedes interessierte Unternehmen kann einen Teilnahmeantrag abgeben. Mit dem Teilnahmeantrag übermitteln die Unternehmen die vom öffentlichen Auftraggeber geforderten Informationen für die Prüfung ihrer Eignung.
 
@@ -337,8 +317,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, insbesondere von gewerblich
 
 (15) In einem Verhandlungsverfahren ohne Teilnahmewettbewerb nach § 14 Absatz 4 Nummer 3 ist der öffentliche Auftraggeber von den Verpflichtungen der §§ 9 bis 13, des § 53 Absatz 1 sowie der §§ 54 und 55 befreit.
 
-
-## § 18 – Wettbewerblicher Dialog
+# § 18 – Wettbewerblicher Dialog
 
 (1) In der Auftragsbekanntmachung oder den Vergabeunterlagen zur Durchführung eines wettbewerblichen Dialogs beschreibt der öffentliche Auftraggeber seine Bedürfnisse und Anforderungen an die zu beschaffende Leistung. Gleichzeitig nennt und erläutert er die hierbei zugrunde gelegten Zuschlagskriterien und legt einen vorläufigen Zeitrahmen für den Dialog fest.
 
@@ -360,8 +339,7 @@ c) wegen des Schutzes von ausschließlichen Rechten, insbesondere von gewerblich
 
 (10) Der öffentliche Auftraggeber kann Prämien oder Zahlungen an die Teilnehmer am Dialog vorsehen.
 
-
-## § 19 – Innovationspartnerschaft
+# § 19 – Innovationspartnerschaft
 
 (1) Der öffentliche Auftraggeber kann für die Vergabe eines öffentlichen Auftrags eine Innovationspartnerschaft mit dem Ziel der Entwicklung einer innovativen Liefer- oder Dienstleistung und deren anschließenden Erwerb eingehen. Der Beschaffungsbedarf, der der Innovationspartnerschaft zugrunde liegt, darf nicht durch auf dem Markt bereits verfügbare Liefer- oder Dienstleistungen befriedigt werden können. Der öffentliche Auftraggeber beschreibt in der Auftragsbekanntmachung oder den Vergabeunterlagen die Nachfrage nach der innovativen Liefer- oder Dienstleistung. Dabei ist anzugeben, welche Elemente dieser Beschreibung Mindestanforderungen darstellen. Es sind Eignungskriterien vorzugeben, die die Fähigkeiten der Unternehmen auf dem Gebiet der Forschung und Entwicklung sowie die Ausarbeitung und Umsetzung innovativer Lösungen betreffen. Die bereitgestellten Informationen müssen so genau sein, dass die Unternehmen Art und Umfang der geforderten Lösung erkennen und entscheiden können, ob sie eine Teilnahme an dem Verfahren beantragen.
 
@@ -389,8 +367,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 (10) Nach Abschluss der Forschungs- und Entwicklungsphase ist der öffentliche Auftraggeber zum anschließenden Erwerb der innovativen Liefer- oder Dienstleistung nur dann verpflichtet, wenn das bei Eingehung der Innovationspartnerschaft festgelegte Leistungsniveau und die Kostenobergrenze eingehalten werden.
 
-
-## § 20 – Angemessene Fristsetzung; Pflicht zur Fristverlängerung
+# § 20 – Angemessene Fristsetzung; Pflicht zur Fristverlängerung
 
 (1) Bei der Festlegung der Fristen für den Eingang der Angebote und der Teilnahmeanträge nach den §§ 15 bis 19 sind die Komplexität der Leistung und die Zeit für die Ausarbeitung der Angebote angemessen zu berücksichtigen. § 38 Absatz 3 bleibt unberührt.
 
@@ -404,8 +381,7 @@ Die Phasen sind durch die Festlegung von Zwischenzielen zu untergliedern, bei de
 
 Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der Information oder Änderung stehen und gewährleisten, dass alle Unternehmen Kenntnis von den Informationen oder Änderungen nehmen können. Dies gilt nicht, wenn die Information oder Änderung für die Erstellung des Angebots unerheblich ist oder die Information nicht rechtzeitig angefordert wurde.
 
-
-## § 21 – Rahmenvereinbarungen
+# § 21 – Rahmenvereinbarungen
 
 (1) Der Abschluss einer Rahmenvereinbarung erfolgt im Wege einer nach dieser Verordnung anwendbaren Verfahrensart. Das in Aussicht genommene Auftragsvolumen ist so genau wie möglich zu ermitteln und bekannt zu geben, braucht aber nicht abschließend festgelegt zu werden. Eine Rahmenvereinbarung darf nicht missbräuchlich oder in einer Art angewendet werden, die den Wettbewerb behindert, einschränkt oder verfälscht.
 
@@ -433,8 +409,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (6) Die Laufzeit einer Rahmenvereinbarung darf höchstens vier Jahre betragen, es sei denn, es liegt ein im Gegenstand der Rahmenvereinbarung begründeter Sonderfall vor.
 
-
-## § 22 – Grundsätze für den Betrieb dynamischer Beschaffungssysteme
+# § 22 – Grundsätze für den Betrieb dynamischer Beschaffungssysteme
 
 (1) Der öffentliche Auftraggeber kann für die Beschaffung marktüblicher Leistungen ein dynamisches Beschaffungssystem nutzen.
 
@@ -446,8 +421,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (5) Der Zugang zu einem dynamischen Beschaffungssystem ist für alle Unternehmen kostenlos.
 
-
-## § 23 – Betrieb eines dynamischen Beschaffungssystems
+# § 23 – Betrieb eines dynamischen Beschaffungssystems
 
 (1) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung an, dass er ein dynamisches Beschaffungssystem nutzt und für welchen Zeitraum es betrieben wird.
 
@@ -465,8 +439,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (6) § 16 Absatz 4 und § 51 Absatz 1 finden mit der Maßgabe Anwendung, dass die zugelassenen Bewerber für jede einzelne, über ein dynamisches Beschaffungssystem stattfindende Auftragsvergabe gesondert zur Angebotsabgabe aufzufordern sind. Wurde ein dynamisches Beschaffungssystem in Kategorien von Leistungen untergliedert, werden jeweils alle für die einem konkreten Auftrag entsprechende Kategorie zugelassenen Bewerber aufgefordert, ein Angebot zu unterbreiten.
 
-
-## § 24 – Fristen beim Betrieb dynamischer Beschaffungssysteme
+# § 24 – Fristen beim Betrieb dynamischer Beschaffungssysteme
 
 (1) Abweichend von § 16 gelten bei der Nutzung eines dynamischen Beschaffungssystems die Bestimmungen der Absätze 2 bis 5.
 
@@ -478,8 +451,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (5) Der öffentliche Auftraggeber kann von den zu einem dynamischen Beschaffungssystem zugelassenen Bewerbern jederzeit verlangen, innerhalb von fünf Arbeitstagen nach Übermittlung der Aufforderung zur Angebotsabgabe eine erneute und aktualisierte Einheitliche Europäische Eigenerklärung nach § 48 Absatz 3 einzureichen. § 48 Absatz 3 bis 6 findet Anwendung.
 
-
-## § 25 – Grundsätze für die Durchführung elektronischer Auktionen
+# § 25 – Grundsätze für die Durchführung elektronischer Auktionen
 
 (1) Der öffentliche Auftraggeber kann im Rahmen eines offenen, eines nicht offenen oder eines Verhandlungsverfahrens vor der Zuschlagserteilung eine elektronische Auktion durchführen, sofern der Inhalt der Vergabeunterlagen hinreichend präzise beschrieben und die Leistung mithilfe automatischer Bewertungsmethoden eingestuft werden kann. Geistig-schöpferische Leistungen können nicht Gegenstand elektronischer Auktionen sein. Der elektronischen Auktion hat eine vollständige erste Bewertung aller Angebote anhand der Zuschlagskriterien und der jeweils dafür festgelegten Gewichtung vorauszugehen. Die Sätze 1 und 2 gelten entsprechend bei einem erneuten Vergabeverfahren zwischen den Parteien einer Rahmenvereinbarung nach § 21 und bei einem erneuten Vergabeverfahren während der Laufzeit eines dynamischen Beschaffungssystems nach § 22. Eine elektronische Auktion kann mehrere, aufeinanderfolgende Phasen umfassen.
 
@@ -493,8 +465,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (4) Angebotskomponenten nach Absatz 2 Nummer 2 müssen numerisch oder prozentual beschrieben werden.
 
-
-## § 26 – Durchführung elektronischer Auktionen
+# § 26 – Durchführung elektronischer Auktionen
 
 (1) Der öffentliche Auftraggeber kündigt in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbestätigung an, dass er eine elektronische Auktion durchführt.
 
@@ -530,8 +501,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (8) Der Zuschlag wird nach Abschluss einer elektronischen Auktion entsprechend ihrem Ergebnis mitgeteilt.
 
-
-## § 27 – Elektronische Kataloge
+# § 27 – Elektronische Kataloge
 
 (1) Der öffentliche Auftraggeber kann festlegen, dass Angebote in Form eines elektronischen Katalogs einzureichen sind oder einen elektronischen Katalog beinhalten müssen. Angeboten, die in Form eines elektronischen Katalogs eingereicht werden, können weitere Unterlagen beigefügt werden.
 
@@ -545,15 +515,13 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (4) Hat der öffentliche Auftraggeber gemäß Absatz 3 Nummer 2 bereits eingereichten elektronischen Katalogen selbstständig Daten zur Angebotserstellung entnommen, legt er jedem Bieter die gesammelten Daten vor der Erteilung des Zuschlags vor, sodass dieser die Möglichkeit zum Einspruch oder zur Bestätigung hat, dass das Angebot keine materiellen Fehler enthält.
 
-
-## § 28 – Markterkundung
+# § 28 – Markterkundung
 
 (1) Vor der Einleitung eines Vergabeverfahrens darf der öffentliche Auftraggeber Markterkundungen zur Vorbereitung der Auftragsvergabe und zur Unterrichtung der Unternehmen über seine Auftragsvergabepläne und -anforderungen durchführen.
 
 (2) Die Durchführung von Vergabeverfahren lediglich zur Markterkundung und zum Zwecke der Kosten- oder Preisermittlung ist unzulässig.
 
-
-## § 29 – Vergabeunterlagen
+# § 29 – Vergabeunterlagen
 
 (1) Die Vergabeunterlagen umfassen alle Angaben, die erforderlich sind, um dem Bewerber oder Bieter eine Entscheidung zur Teilnahme am Vergabeverfahren zu ermöglichen. Sie bestehen in der Regel aus
 
@@ -565,8 +533,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (2) Der Teil B der Vergabe- und Vertragsordnung für Leistungen in der Fassung der Bekanntmachung vom 5. August 2003 (BAnz. Nr. 178a) ist in der Regel in den Vertrag einzubeziehen. Dies gilt nicht für die Vergabe von Aufträgen, die im Rahmen einer freiberuflichen Tätigkeit erbracht oder im Wettbewerb mit freiberuflichen Tätigen angeboten werden und deren Gegenstand eine Aufgabe ist, deren Lösung nicht vorab eindeutig und erschöpfend beschrieben werden kann.
 
-
-## § 30 – Aufteilung nach Losen
+# § 30 – Aufteilung nach Losen
 
 (1) Unbeschadet des § 97 Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen kann der öffentliche Auftraggeber festlegen, ob die Angebote nur für ein Los, für mehrere oder für alle Lose eingereicht werden dürfen. Er kann, auch wenn Angebote für mehrere oder alle Lose eingereicht werden dürfen, die Zahl der Lose auf eine Höchstzahl beschränken, für die ein einzelner Bieter den Zuschlag erhalten kann.
 
@@ -574,8 +541,7 @@ Die Fristverlängerung muss in einem angemessenen Verhältnis zur Bedeutung der 
 
 (3) In Fällen, in denen ein einziger Bieter den Zuschlag für mehr als ein Los erhalten kann, kann der öffentliche Auftraggeber Aufträge über mehrere oder alle Lose vergeben, wenn er in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbestätigung angegeben hat, dass er sich diese Möglichkeit vorbehält und die Lose oder Losgruppen angibt, die kombiniert werden können.
 
-
-## § 31 – Leistungsbeschreibung
+# § 31 – Leistungsbeschreibung
 
 (1) Der öffentliche Auftraggeber fasst die Leistungsbeschreibung (§ 121 des Gesetzes gegen Wettbewerbsbeschränkungen) in einer Weise, dass sie allen Unternehmen den gleichen Zugang zum Vergabeverfahren gewährt und die Öffnung des nationalen Beschaffungsmarkts für den Wettbewerb nicht in ungerechtfertigter Weise behindert.
 
@@ -611,8 +577,7 @@ Jede Bezugnahme auf eine Anforderung nach Nummer 2 Buchstabe a bis e ist mit dem
 
 (6) In der Leistungsbeschreibung darf nicht auf eine bestimmte Produktion oder Herkunft oder ein besonderes Verfahren, das die Erzeugnisse oder Dienstleistungen eines bestimmten Unternehmens kennzeichnet, oder auf gewerbliche Schutzrechte, Typen oder einen bestimmten Ursprung verwiesen werden, wenn dadurch bestimmte Unternehmen oder bestimmte Produkte begünstigt oder ausgeschlossen werden, es sei denn, dieser Verweis ist durch den Auftragsgegenstand gerechtfertigt. Solche Verweise sind ausnahmsweise zulässig, wenn der Auftragsgegenstand anderenfalls nicht hinreichend genau und allgemein verständlich beschrieben werden kann; diese Verweise sind mit dem Zusatz „oder gleichwertig“ zu versehen.
 
-
-## § 32 – Technische Anforderungen
+# § 32 – Technische Anforderungen
 
 (1) Verweist der öffentliche Auftraggeber in der Leistungsbeschreibung auf technische Anforderungen nach § 31 Absatz 2 Nummer 2, so darf er ein Angebot nicht mit der Begründung ablehnen, dass die angebotenen Liefer- und Dienstleistungen nicht den von ihm herangezogenen technischen Anforderungen der Leistungsbeschreibung entsprechen, wenn das Unternehmen in seinem Angebot dem öffentlichen Auftraggeber mit geeigneten Mitteln nachweist, dass die vom Unternehmen vorgeschlagenen Lösungen diesen technischen Anforderungen gleichermaßen entsprechen.
 
@@ -630,8 +595,7 @@ Jede Bezugnahme auf eine Anforderung nach Nummer 2 Buchstabe a bis e ist mit dem
 
 Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm entsprechende Liefer- oder Dienstleistung den Leistungs- oder Funktionsanforderungen des öffentlichen Auftraggebers entspricht. Belege können insbesondere eine technische Beschreibung des Herstellers oder ein Prüfbericht einer anerkannten Stelle sein.
 
-
-## § 33 – Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen
+# § 33 – Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen
 
 (1) Als Beleg dafür, dass eine Liefer- oder Dienstleistung bestimmten, in der Leistungsbeschreibung geforderten Merkmalen entspricht, kann der öffentliche Auftraggeber die Vorlage von Bescheinigungen, insbesondere Testberichten oder Zertifizierungen, einer Konformitätsbewertungsstelle verlangen. Wird die Vorlage einer Bescheinigung einer bestimmten Konformitätsbewertungsstelle verlangt, hat der öffentliche Auftraggeber auch Bescheinigungen gleichwertiger anderer Konformitätsbewertungsstellen zu akzeptieren.
 
@@ -639,8 +603,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (3) Eine Konformitätsbewertungsstelle ist eine Stelle, die gemäß der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) akkreditiert ist und Konformitätsbewertungstätigkeiten durchführt.
 
-
-## § 34 – Nachweisführung durch Gütezeichen
+# § 34 – Nachweisführung durch Gütezeichen
 
 (1) Als Beleg dafür, dass eine Liefer- oder Dienstleistung bestimmten, in der Leistungsbeschreibung geforderten Merkmalen entspricht, kann der öffentliche Auftraggeber die Vorlage von Gütezeichen nach Maßgabe der Absätze 2 bis 5 verlangen.
 
@@ -662,8 +625,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (5) Hatte ein Unternehmen aus Gründen, die ihm nicht zugerechnet werden können, nachweislich keine Möglichkeit, das vom öffentlichen Auftraggeber angegebene oder ein gleichwertiges Gütezeichen innerhalb einer einschlägigen Frist zu erlangen, so muss der öffentliche Auftraggeber andere geeignete Belege akzeptieren, sofern das Unternehmen nachweist, dass die von ihm zu erbringende Leistung die Anforderungen des geforderten Gütezeichens oder die vom öffentlichen Auftraggeber angegebenen spezifischen Anforderungen erfüllt.
 
-
-## § 35 – Nebenangebote
+# § 35 – Nebenangebote
 
 (1) Der öffentliche Auftraggeber kann Nebenangebote in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbestätigung zulassen oder vorschreiben. Fehlt eine entsprechende Angabe, sind keine Nebenangebote zugelassen. Nebenangebote müssen mit dem Auftragsgegenstand in Verbindung stehen.
 
@@ -671,8 +633,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (3) Der öffentliche Auftraggeber berücksichtigt nur Nebenangebote, die die Mindestanforderungen erfüllen. Ein Nebenangebot darf nicht deshalb ausgeschlossen werden, weil es im Falle des Zuschlags zu einem Dienstleistungsauftrag anstelle eines Lieferauftrags oder zu einem Lieferauftrag anstelle eines Dienstleistungsauftrags führen würde.
 
-
-## § 36 – Unteraufträge
+# § 36 – Unteraufträge
 
 (1) Der öffentliche Auftraggeber kann Unternehmen in der Auftragsbekanntmachung oder den Vergabeunterlagen auffordern, bei Angebotsabgabe die Teile des Auftrags, die sie im Wege der Unterauftragsvergabe an Dritte zu vergeben beabsichtigen, sowie, falls zumutbar, die vorgesehenen Unterauftragnehmer zu benennen. Vor Zuschlagserteilung kann der öffentliche Auftraggeber von den Bietern, deren Angebote in die engere Wahl kommen, verlangen, die Unterauftragnehmer zu benennen und nachzuweisen, dass ihnen die erforderlichen Mittel dieser Unterauftragnehmer zur Verfügung stehen. Wenn ein Bewerber oder Bieter die Vergabe eines Teils des Auftrags an einen Dritten im Wege der Unterauftragsvergabe beabsichtigt und sich zugleich im Hinblick auf seine Leistungsfähigkeit gemäß den §§ 45 und 46 auf die Kapazitäten dieses Dritten beruft, ist auch § 47 anzuwenden.
 
@@ -684,8 +645,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (5) Der öffentliche Auftraggeber überprüft vor der Erteilung des Zuschlags, ob Gründe für den Ausschluss des Unterauftragnehmers vorliegen. Bei Vorliegen zwingender Ausschlussgründe verlangt der öffentliche Auftraggeber die Ersetzung des Unterauftragnehmers. Bei Vorliegen fakultativer Ausschlussgründe kann der öffentliche Auftraggeber verlangen, dass dieser ersetzt wird. Der öffentliche Auftraggeber kann dem Bewerber oder Bieter dafür eine Frist setzen.
 
-
-## § 37 – Auftragsbekanntmachung; Beschafferprofil
+# § 37 – Auftragsbekanntmachung; Beschafferprofil
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen öffentlichen Auftrag zu vergeben oder eine Rahmenvereinbarung abzuschließen, in einer Auftragsbekanntmachung mit. § 17 Absatz 5 und § 38 Absatz 4 bleiben unberührt.
 
@@ -695,8 +655,7 @@ Das Unternehmen muss in seinem Angebot belegen, dass die jeweilige der Norm ents
 
 (4) Der öffentliche Auftraggeber kann im Internet zusätzlich ein Beschafferprofil einrichten. Es enthält die Veröffentlichung von Vorinformationen, Angaben über geplante oder laufende Vergabeverfahren, über vergebene Aufträge oder aufgehobene Vergabeverfahren sowie alle sonstigen für die Auftragsvergabe relevanten Informationen wie zum Beispiel Kontaktstelle, Anschrift, E-Mail-Adresse, Telefon- und Telefaxnummer des öffentlichen Auftraggebers.
 
-
-## § 38 – Vorinformation
+# § 38 – Vorinformation
 
 (1) Der öffentliche Auftraggeber kann die Absicht einer geplanten Auftragsvergabe mittels Veröffentlichung einer Vorinformation nach dem Muster gemäß Anhang I der Durchführungsverordnung (EU) 2015/1986 bekanntgeben.
 
@@ -726,8 +685,7 @@ Ungeachtet der Verpflichtung zur Veröffentlichung der Vorinformation können so
 
 (6) Der von der Vorinformation abgedeckte Zeitraum beträgt höchstens zwölf Monate ab dem Datum der Übermittlung der Vorinformation an das Amt für Veröffentlichungen der Europäischen Union.
 
-
-## § 39 – Vergabebekanntmachung; Bekanntmachung über Auftragsänderungen
+# § 39 – Vergabebekanntmachung; Bekanntmachung über Auftragsänderungen
 
 (1) Der öffentliche Auftraggeber übermittelt spätestens 30 Tage nach der Vergabe eines öffentlichen Auftrags oder nach dem Abschluss einer Rahmenvereinbarung eine Vergabebekanntmachung mit den Ergebnissen des Vergabeverfahrens an das Amt für Veröffentlichungen der Europäischen Union.
 
@@ -753,8 +711,7 @@ würde.
 
 (+++ § 39 Abs. 6: Zur Anwendung vgl. § 62 Abs. 3 +++)
 
-
-## § 40 – Veröffentlichung von Bekanntmachungen
+# § 40 – Veröffentlichung von Bekanntmachungen
 
 (1) Auftragsbekanntmachungen, Vorinformationen, Vergabebekanntmachungen und Bekanntmachungen über Auftragsänderungen (Bekanntmachungen) sind dem Amt für Veröffentlichungen der Europäischen Union mit elektronischen Mitteln zu übermitteln. Der öffentliche Auftraggeber muss den Tag der Absendung nachweisen können.
 
@@ -766,8 +723,7 @@ würde.
 
 (+++ § 40: Zur Anwendung vgl. § 70 Abs. 1 +++)
 
-
-## § 41 – Bereitstellung der Vergabeunterlagen
+# § 41 – Bereitstellung der Vergabeunterlagen
 
 (1) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung oder der Aufforderung zur Interessensbestätigung eine elektronische Adresse an, unter der die Vergabeunterlagen unentgeltlich, uneingeschränkt, vollständig und direkt abgerufen werden können.
 
@@ -783,8 +739,7 @@ Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, sofern nicht
 
 (3) Der öffentliche Auftraggeber gibt in der Auftragsbekanntmachung oder in der Aufforderung zur Interessensbestätigung an, welche Maßnahmen er zum Schutz der Vertraulichkeit von Informationen anwendet und wie auf die Vergabeunterlagen zugegriffen werden kann. Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, es sei denn, die Maßnahme zum Schutz der Vertraulichkeit besteht ausschließlich in der Abgabe einer Verschwiegenheitserklärung oder es liegt ein Fall hinreichend begründeter Dringlichkeit gemäß § 15 Absatz 3, § 16 Absatz 7 oder § 17 Absatz 8 vor.
 
-
-## § 42 – Auswahl geeigneter Unternehmen; Ausschluss von Bewerbern und Bietern
+# § 42 – Auswahl geeigneter Unternehmen; Ausschluss von Bewerbern und Bietern
 
 (1) Der öffentliche Auftraggeber überprüft die Eignung der Bewerber oder Bieter anhand der nach § 122 des Gesetzes gegen Wettbewerbsbeschränkungen festgelegten Eignungskriterien und das Nichtvorliegen von Ausschlussgründen nach den §§ 123 und 124 des Gesetzes gegen Wettbewerbsbeschränkungen sowie gegebenenfalls Maßnahmen des Bewerbers oder Bieters zur Selbstreinigung nach § 125 des Gesetzes gegen Wettbewerbsbeschränkungen und schließt gegebenenfalls Bewerber oder Bieter vom Vergabeverfahren aus.
 
@@ -792,8 +747,7 @@ Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, sofern nicht
 
 (3) Bei offenen Verfahren kann der öffentliche Auftraggeber entscheiden, ob er die Angebotsprüfung vor der Eignungsprüfung durchführt.
 
-
-## § 43 – Rechtsform von Unternehmen und Bietergemeinschaften
+# § 43 – Rechtsform von Unternehmen und Bietergemeinschaften
 
 (1) Bewerber oder Bieter, die gemäß den Rechtsvorschriften des Staates, in dem sie niedergelassen sind, zur Erbringung der betreffenden Leistung berechtigt sind, dürfen nicht allein deshalb zurückgewiesen werden, weil sie gemäß den deutschen Rechtsvorschriften eine natürliche oder juristische Person sein müssten. Juristische Personen können jedoch bei Dienstleistungsaufträgen sowie bei Lieferaufträgen, die zusätzlich Dienstleistungen umfassen, verpflichtet werden, in ihrem Antrag auf Teilnahme oder in ihrem Angebot die Namen und die berufliche Befähigung der Personen anzugeben, die für die Erbringung der Leistung als verantwortlich vorgesehen sind.
 
@@ -803,15 +757,13 @@ Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, sofern nicht
 
 (+++ § 43: Zur Anwendung vgl. § 69 Abs. 2 +++)
 
-
-## § 44 – Befähigung und Erlaubnis zur Berufsausübung
+# § 44 – Befähigung und Erlaubnis zur Berufsausübung
 
 (1) Der öffentliche Auftraggeber kann verlangen, dass Bewerber oder Bieter je nach den Rechtsvorschriften des Staats, in dem sie niedergelassen sind, entweder die Eintragung in einem Berufs- oder Handelsregister dieses Staats nachweisen oder auf andere Weise die erlaubte Berufsausübung nachweisen. Für die Mitgliedstaaten der Europäischen Union sind die jeweiligen Berufs- oder Handelsregister und die Bescheinigungen oder Erklärungen über die Berufsausübung in Anhang XI der Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die öffentliche Auftragsvergabe und zur Aufhebung der Richtlinie 2004/18/EG (ABl. L 94 vom 28.3.2014, S. 65) aufgeführt.
 
 (2) Bei der Vergabe öffentlicher Dienstleistungsaufträge kann der öffentliche Auftraggeber dann, wenn Bewerber oder Bieter eine bestimmte Berechtigung besitzen oder Mitglied einer bestimmten Organisation sein müssen, um die betreffende Dienstleistung in ihrem Herkunftsstaat erbringen zu können, von den Bewerbern oder Bietern verlangen, ihre Berechtigung oder Mitgliedschaft nachzuweisen.
 
-
-## § 45 – Wirtschaftliche und finanzielle Leistungsfähigkeit
+# § 45 – Wirtschaftliche und finanzielle Leistungsfähigkeit
 
 (1) Der öffentliche Auftraggeber kann im Hinblick auf die wirtschaftliche und finanzielle Leistungsfähigkeit der Bewerber oder Bieter Anforderungen stellen, die sicherstellen, dass die Bewerber oder Bieter über die erforderlichen wirtschaftlichen und finanziellen Kapazitäten für die Ausführung des Auftrags verfügen. Zu diesem Zweck kann er insbesondere Folgendes verlangen:
 
@@ -837,8 +789,7 @@ Die Angebotsfrist wird in diesen Fällen um fünf Tage verlängert, sofern nicht
 
 (5) Kann ein Bewerber oder Bieter aus einem berechtigten Grund die geforderten Unterlagen nicht beibringen, so kann er seine wirtschaftliche und finanzielle Leistungsfähigkeit durch Vorlage anderer, vom öffentlichen Auftraggeber als geeignet angesehener Unterlagen belegen.
 
-
-## § 46 – Technische und berufliche Leistungsfähigkeit
+# § 46 – Technische und berufliche Leistungsfähigkeit
 
 (1) Der öffentliche Auftraggeber kann im Hinblick auf die technische und berufliche Leistungsfähigkeit der Bewerber oder Bieter Anforderungen stellen, die sicherstellen, dass die Bewerber oder Bieter über die erforderlichen personellen und technischen Mittel sowie ausreichende Erfahrungen verfügen, um den Auftrag in angemessener Qualität ausführen zu können. Bei Lieferaufträgen, für die Verlege- oder Installationsarbeiten erforderlich sind, sowie bei Dienstleistungsaufträgen darf die berufliche Leistungsfähigkeit der Unternehmen auch anhand ihrer Fachkunde, Effizienz, Erfahrung und Verlässlichkeit beurteilt werden.
 
@@ -872,8 +823,7 @@ a) Muster, Beschreibungen oder Fotografien der zu liefernden Güter, wobei die E
 
 b) Bescheinigungen, die von als zuständig anerkannten Instituten oder amtlichen Stellen für Qualitätskontrolle ausgestellt wurden, mit denen bestätigt wird, dass die durch entsprechende Bezugnahmen genau bezeichneten Güter bestimmten technischen Anforderungen oder Normen entsprechen.
 
-
-## § 47 – Eignungsleihe
+# § 47 – Eignungsleihe
 
 (1) Ein Bewerber oder Bieter kann für einen bestimmten öffentlichen Auftrag im Hinblick auf die erforderliche wirtschaftliche und finanzielle sowie die technische und berufliche Leistungsfähigkeit die Kapazitäten anderer Unternehmen in Anspruch nehmen, wenn er nachweist, dass ihm die für den Auftrag erforderlichen Mittel tatsächlich zur Verfügung stehen werden, indem er beispielsweise eine entsprechende Verpflichtungserklärung dieser Unternehmen vorlegt. Diese Möglichkeit besteht unabhängig von der Rechtsnatur der zwischen dem Bewerber oder Bieter und den anderen Unternehmen bestehenden Verbindungen. Ein Bewerber oder Bieter kann jedoch im Hinblick auf Nachweise für die erforderliche berufliche Leistungsfähigkeit wie Ausbildungs- und Befähigungsnachweise nach § 46 Absatz 3 Nummer 6 oder die einschlägige berufliche Erfahrung die Kapazitäten anderer Unternehmen nur dann in Anspruch nehmen, wenn diese die Leistung erbringen, für die diese Kapazitäten benötigt werden.
 
@@ -887,8 +837,7 @@ b) Bescheinigungen, die von als zuständig anerkannten Instituten oder amtlichen
 
 (+++ § 47: Zur Anwendung vgl. § 36 Abs. 1 +++)
 
-
-## § 48 – Beleg der Eignung und des Nichtvorliegens von Ausschlussgründen
+# § 48 – Beleg der Eignung und des Nichtvorliegens von Ausschlussgründen
 
 (1) In der Auftragsbekanntmachung oder der Aufforderung zur Interessensbestätigung ist neben den Eignungskriterien ferner anzugeben, mit welchen Unterlagen (Eigenerklärungen, Angaben, Bescheinigungen und sonstige Nachweise) Bewerber oder Bieter ihre Eignung gemäß den §§ 43 bis 47 und das Nichtvorliegen von Ausschlussgründen zu belegen haben.
 
@@ -908,8 +857,7 @@ b) Bescheinigungen, die von als zuständig anerkannten Instituten oder amtlichen
 
 (+++ § 48 Abs. 3: Zur Nichtanwendung vgl. § 65 Abs. 4 +++)
 
-
-## § 49 – Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements
+# § 49 – Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements
 
 (1) Verlangt der öffentliche Auftraggeber als Beleg dafür, dass Bewerber oder Bieter bestimmte Normen der Qualitätssicherung erfüllen, die Vorlage von Bescheinigungen unabhängiger Stellen, so bezieht sich der öffentliche Auftraggeber auf Qualitätssicherungssysteme, die
 
@@ -929,8 +877,7 @@ Der öffentliche Auftraggeber erkennt auch gleichwertige Bescheinigungen von akk
 
 Der öffentliche Auftraggeber erkennt auch gleichwertige Bescheinigungen von Stellen in anderen Staaten an. Hatte ein Bewerber oder Bieter aus Gründen, die ihm nicht zugerechnet werden können, nachweislich keinen Zugang zu den betreffenden Bescheinigungen oder aus Gründen, die er nicht zu vertreten hat, keine Möglichkeit, diese innerhalb der einschlägigen Fristen zu erlangen, so muss der öffentliche Auftraggeber auch andere Unterlagen über gleichwertige Umweltmanagementmaßnahmen anerkennen, sofern der Bewerber oder Bieter nachweist, dass diese Maßnahmen mit denen, die nach dem geltenden System oder den geltenden Normen für das Umweltmanagement erforderlich sind, gleichwertig sind.
 
-
-## § 50 – Einheitliche Europäische Eigenerklärung
+# § 50 – Einheitliche Europäische Eigenerklärung
 
 (1) Die Einheitliche Europäische Eigenerklärung ist in der Form des Anhangs 2 der Durchführungsverordnung (EU) 2016/7 der Kommission vom 5. Januar 2016 zur Einführung des Standardformulars für die Einheitliche Europäische Eigenerklärung (ABl. L 3 vom 6.1.2016, S. 16) zu übermitteln. Bewerber oder Bieter können eine bereits bei einer früheren Auftragsvergabe verwendete Einheitliche Europäische Eigenerklärung wiederverwenden, sofern sie bestätigen, dass die darin enthaltenen Informationen weiterhin zutreffend sind.
 
@@ -942,8 +889,7 @@ Der öffentliche Auftraggeber erkennt auch gleichwertige Bescheinigungen von Ste
 
 2. bereits im Besitz der Unterlagen ist.
 
-
-## § 51 – Begrenzung der Anzahl der Bewerber
+# § 51 – Begrenzung der Anzahl der Bewerber
 
 (1) Bei allen Verfahrensarten mit Ausnahme des offenen Verfahrens kann der öffentliche Auftraggeber die Zahl der geeigneten Bewerber, die zur Abgabe eines Angebots aufgefordert oder zum Dialog eingeladen werden, begrenzen, sofern genügend geeignete Bewerber zur Verfügung stehen. Dazu gibt der öffentliche Auftraggeber in der Auftragsbekanntmachung oder der Aufforderung zur Interessensbestätigung die von ihm vorgesehenen objektiven und nichtdiskriminierenden Eignungskriterien für die Begrenzung der Zahl, die vorgesehene Mindestzahl und gegebenenfalls auch die Höchstzahl der einzuladenden Bewerber an.
 
@@ -953,8 +899,7 @@ Der öffentliche Auftraggeber erkennt auch gleichwertige Bescheinigungen von Ste
 
 (+++ § 51 Abs. 1: Zur Anwendung vgl. § 23 Abs. 6 +++)
 
-
-## § 52 – Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog
+# § 52 – Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog
 
 (1) Ist ein Teilnahmewettbewerb durchgeführt worden, wählt der öffentliche Auftraggeber gemäß § 51 Bewerber aus, die er auffordert, in einem nicht offenen Verfahren oder einem Verhandlungsverfahren ein Angebot einzureichen, am wettbewerblichen Dialog teilzunehmen oder an Verhandlungen im Rahmen einer Innovationspartnerschaft teilzunehmen.
 
@@ -992,8 +937,7 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 9. die Zuschlagskriterien sowie deren Gewichtung oder gegebenenfalls die Kriterien in der Rangfolge ihrer Bedeutung, wenn diese Angaben nicht bereits in der Vorinformation oder den Vergabeunterlagen enthalten sind.
 
-
-## § 53 – Form und Übermittlung der Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote
+# § 53 – Form und Übermittlung der Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote
 
 (1) Die Unternehmen übermitteln ihre Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote in Textform nach § 126b des Bürgerlichen Gesetzbuchs mithilfe elektronischer Mittel gemäß § 10.
 
@@ -1021,20 +965,17 @@ Bei öffentlichen Aufträgen, die in einem wettbewerblichen Dialog oder im Rahme
 
 (9) Bewerber- oder Bietergemeinschaften haben in der Interessensbestätigung, im Teilnahmeantrag oder im Angebot jeweils die Mitglieder sowie eines ihrer Mitglieder als bevollmächtigten Vertreter für den Abschluss und die Durchführung des Vertrags zu benennen. Fehlt eine dieser Angaben, so ist sie vor der Zuschlagserteilung beizubringen.
 
-
-## § 54 – Aufbewahrung ungeöffneter Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote
+# § 54 – Aufbewahrung ungeöffneter Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote
 
 Elektronisch übermittelte Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträge und Angebote sind auf geeignete Weise zu kennzeichnen und verschlüsselt zu speichern. Auf dem Postweg und direkt übermittelte Interessensbestätigungen, Teilnahmeanträge und Angebote sind ungeöffnet zu lassen, mit Eingangsvermerk zu versehen und bis zum Zeitpunkt der Öffnung unter Verschluss zu halten. Mittels Telefax übermittelte Interessensbestätigungen, Teilnahmeanträge und Angebote sind ebenfalls entsprechend zu kennzeichnen und auf geeignete Weise unter Verschluss zu halten.
 
-
-## § 55 – Öffnung der Interessensbestätigungen, Teilnahmeanträge und Angebote
+# § 55 – Öffnung der Interessensbestätigungen, Teilnahmeanträge und Angebote
 
 (1) Der öffentliche Auftraggeber darf vom Inhalt der Interessensbestätigungen, Teilnahmeanträge und Angebote erst nach Ablauf der entsprechenden Fristen Kenntnis nehmen.
 
 (2) Die Öffnung der Angebote wird von mindestens zwei Vertretern des öffentlichen Auftraggebers gemeinsam an einem Termin unverzüglich nach Ablauf der Angebotsfrist durchgeführt. Bieter sind nicht zugelassen.
 
-
-## § 56 – Prüfung der Interessensbestätigungen, Teilnahmeanträge und Angebote; Nachforderung von Unterlagen
+# § 56 – Prüfung der Interessensbestätigungen, Teilnahmeanträge und Angebote; Nachforderung von Unterlagen
 
 (1) Die Interessensbestätigungen, Teilnahmeanträge und Angebote sind auf Vollständigkeit und fachliche Richtigkeit, Angebote zudem auf rechnerische Richtigkeit zu prüfen.
 
@@ -1046,8 +987,7 @@ Elektronisch übermittelte Interessensbekundungen, Interessensbestätigungen, Te
 
 (5) Die Entscheidung zur und das Ergebnis der Nachforderung sind zu dokumentieren.
 
-
-## § 57 – Ausschluss von Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträgen und Angeboten
+# § 57 – Ausschluss von Interessensbekundungen, Interessensbestätigungen, Teilnahmeanträgen und Angeboten
 
 (1) Von der Wertung ausgeschlossen werden Angebote von Unternehmen, die die Eignungskriterien nicht erfüllen, und Angebote, die nicht den Erfordernissen des § 53 genügen, insbesondere:
 
@@ -1067,8 +1007,7 @@ Elektronisch übermittelte Interessensbekundungen, Interessensbestätigungen, Te
 
 (3) Absatz 1 findet auf die Prüfung von Interessensbekundungen, Interessensbestätigungen und Teilnahmeanträgen entsprechende Anwendung.
 
-
-## § 58 – Zuschlag und Zuschlagskriterien
+# § 58 – Zuschlag und Zuschlagskriterien
 
 (1) Der Zuschlag wird nach Maßgabe des § 127 des Gesetzes gegen Wettbewerbsbeschränkungen auf das wirtschaftlichste Angebot erteilt.
 
@@ -1088,8 +1027,7 @@ Der öffentliche Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sod
 
 (5) An der Entscheidung über den Zuschlag sollen in der Regel mindestens zwei Vertreter des öffentlichen Auftraggebers mitwirken.
 
-
-## § 59 – Berechnung von Lebenszykluskosten
+# § 59 – Berechnung von Lebenszykluskosten
 
 (1) Der öffentliche Auftraggeber kann vorgeben, dass das Zuschlagskriterium „Kosten“ auf der Grundlage der Lebenszykluskosten der Leistung berechnet wird.
 
@@ -1115,8 +1053,7 @@ Der öffentliche Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sod
 
 (4) Sofern eine Methode zur Berechnung der Lebenszykluskosten durch einen Rechtsakt der Europäischen Union verbindlich vorgeschrieben worden ist, hat der öffentliche Auftraggeber diese Methode vorzugeben.
 
-
-## § 60 – Ungewöhnlich niedrige Angebote
+# § 60 – Ungewöhnlich niedrige Angebote
 
 (1) Erscheinen der Preis oder die Kosten eines Angebots im Verhältnis zu der zu erbringenden Leistung ungewöhnlich niedrig, verlangt der öffentliche Auftraggeber vom Bieter Aufklärung.
 
@@ -1136,13 +1073,11 @@ Der öffentliche Auftraggeber kann auch Festpreise oder Festkosten vorgeben, sod
 
 (4) Stellt der öffentliche Auftraggeber fest, dass ein Angebot ungewöhnlich niedrig ist, weil der Bieter eine staatliche Beihilfe erhalten hat, so lehnt der öffentliche Auftraggeber das Angebot ab, wenn der Bieter nicht fristgemäß nachweisen kann, dass die staatliche Beihilfe rechtmäßig gewährt wurde. Der öffentliche Auftraggeber teilt die Ablehnung der Europäischen Kommission mit.
 
-
-## § 61 – Ausführungsbedingungen
+# § 61 – Ausführungsbedingungen
 
 Für den Beleg, dass die angebotene Leistung den geforderten Ausführungsbedingungen gemäß § 128 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen entspricht, gelten die §§ 33 und 34 entsprechend.
 
-
-## § 62 – Unterrichtung der Bewerber und Bieter
+# § 62 – Unterrichtung der Bewerber und Bieter
 
 (1) Unbeschadet des § 134 des Gesetzes gegen Wettbewerbsbeschränkungen teilt der öffentliche Auftraggeber jedem Bewerber und jedem Bieter unverzüglich seine Entscheidungen über den Abschluss einer Rahmenvereinbarung, die Zuschlagserteilung oder die Zulassung zur Teilnahme an einem dynamischen Beschaffungssystem mit. Gleiches gilt für die Entscheidung, ein Vergabeverfahren aufzuheben oder erneut einzuleiten einschließlich der Gründe dafür, sofern eine Auftragsbekanntmachung oder Vorinformation veröffentlicht wurde.
 
@@ -1158,8 +1093,7 @@ Für den Beleg, dass die angebotene Leistung den geforderten Ausführungsbedingu
 
 (3) § 39 Absatz 6 ist auf die in den Absätzen 1 und 2 genannten Angaben über die Zuschlagserteilung, den Abschluss von Rahmenvereinbarungen oder die Zulassung zu einem dynamischen Beschaffungssystem entsprechend anzuwenden.
 
-
-## § 63 – Aufhebung von Vergabeverfahren
+# § 63 – Aufhebung von Vergabeverfahren
 
 (1) Der öffentliche Auftraggeber ist berechtigt, ein Vergabeverfahren ganz oder teilweise aufzuheben, wenn
 
@@ -1175,13 +1109,11 @@ Im Übrigen ist der öffentliche Auftraggeber grundsätzlich nicht verpflichtet,
 
 (2) Der öffentliche Auftraggeber teilt den Bewerbern oder Bietern nach Aufhebung des Vergabeverfahrens unverzüglich die Gründe für seine Entscheidung mit, auf die Vergabe eines Auftrages zu verzichten oder das Verfahren erneut einzuleiten. Auf Antrag teilt er ihnen dies in Textform nach § 126b des Bürgerlichen Gesetzbuchs mit.
 
-
-## § 64 – Vergabe von Aufträgen für soziale und andere besondere Dienstleistungen
+# § 64 – Vergabe von Aufträgen für soziale und andere besondere Dienstleistungen
 
 Öffentliche Aufträge über soziale und andere besondere Dienstleistungen im Sinne von § 130 Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen werden nach den Bestimmungen dieser Verordnung und unter Berücksichtigung der Besonderheiten der jeweiligen Dienstleistung nach Maßgabe dieses Abschnitts vergeben.
 
-
-## § 65 – Ergänzende Verfahrensregeln
+# § 65 – Ergänzende Verfahrensregeln
 
 (1) Neben dem offenen und dem nicht offenen Verfahren stehen dem öffentlichen Auftraggeber abweichend von § 14 Absatz 3 auch das Verhandlungsverfahren mit Teilnahmewettbewerb, der wettbewerbliche Dialog und die Innovationspartnerschaft nach seiner Wahl zur Verfügung. Ein Verhandlungsverfahren ohne Teilnahmewettbewerb steht nur zur Verfügung, soweit dies nach § 14 Absatz 4 gestattet ist.
 
@@ -1201,8 +1133,7 @@ Im Übrigen ist der öffentliche Auftraggeber grundsätzlich nicht verpflichtet,
 
 4. Beurteilungen der Vertragsausführung durch den öffentlichen Auftraggeber anhand transparenter und nichtdiskriminierender Methoden.
 
-
-## § 66 – Veröffentlichungen, Transparenz
+# § 66 – Veröffentlichungen, Transparenz
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen öffentlichen Auftrag zur Erbringung sozialer oder anderer besonderer Dienstleistungen zu vergeben, in einer Auftragsbekanntmachung mit. § 17 Absatz 5 bleibt unberührt.
 
@@ -1218,8 +1149,7 @@ Im Übrigen ist der öffentliche Auftraggeber grundsätzlich nicht verpflichtet,
 
 (4) Für die Bekanntmachungen nach den Absätzen 1 bis 3 ist das Muster gemäß Anhang XVIII der Durchführungsverordnung (EU) 2015/1986 zu verwenden. Die Veröffentlichung der Bekanntmachungen erfolgt gemäß § 40.
 
-
-## § 67 – Beschaffung energieverbrauchsrelevanter Liefer- oder Dienstleistungen
+# § 67 – Beschaffung energieverbrauchsrelevanter Liefer- oder Dienstleistungen
 
 (1) Wenn energieverbrauchsrelevante Waren, technische Geräte oder Ausrüstungen Gegenstand einer Lieferleistung oder wesentliche Voraussetzung zur Ausführung einer Dienstleistung sind (energieverbrauchsrelevante Liefer- oder Dienstleistungen), sind die Anforderungen der Absätze 2 bis 5 zu beachten.<span id="FnR.F793682_02"></span><a href="#F793682_02" class="FnR">2</a></sup>
 
@@ -1243,8 +1173,7 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (5) Im Rahmen der Ermittlung des wirtschaftlichsten Angebotes ist die anhand der Informationen nach Absatz 3 oder der Ergebnisse einer Überprüfung nach Absatz 4 zu ermittelnde Energieeffizienz als Zuschlagskriterium angemessen zu berücksichtigen.
 
-
-## § 68 – Beschaffung von Straßenfahrzeugen
+# § 68 – Beschaffung von Straßenfahrzeugen
 
 (1) Der öffentliche Auftraggeber muss bei der Beschaffung von Straßenfahrzeugen Energieverbrauch und Umweltauswirkungen berücksichtigen. Zumindest müssen hierbei folgende Faktoren, jeweils bezogen auf die Gesamtkilometerleistung des Straßenfahrzeugs im Sinne der Tabelle 3 der Anlage 2, berücksichtigt werden:<span id="FnR.F793682_03"></span><a href="#F793682_03" class="FnR">3</a></sup>
 
@@ -1268,15 +1197,13 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (4) Von der Anwendung der Absätze 1 bis 3 sind Straßenfahrzeuge ausgenommen, die für den Einsatz im Rahmen des hoheitlichen Auftrags der Streitkräfte, des Katastrophenschutzes, der Feuerwehren und der Polizeien des Bundes und der Länder konstruiert und gebaut sind (Einsatzfahrzeuge). Bei der Beschaffung von Einsatzfahrzeugen werden die Anforderungen nach den Absätzen 1 bis 3 berücksichtigt, soweit es der Stand der Technik zulässt und hierdurch die Einsatzfähigkeit der Einsatzfahrzeuge zur Erfüllung des in Satz 1 genannten hoheitlichen Auftrags nicht beeinträchtigt wird.
 
-
-## § 69 – Anwendungsbereich
+# § 69 – Anwendungsbereich
 
 (1) Wettbewerbe nach § 103 Absatz 6 des Gesetzes gegen Wettbewerbsbeschränkungen werden insbesondere auf den Gebieten der Raumplanung, des Städtebaus und des Bauwesens oder der Datenverarbeitung durchgeführt (Planungswettbewerbe).
 
 (2) Bei der Durchführung eines Planungswettbewerbs wendet der öffentliche Auftraggeber die §§ 5, 6 und 43 und die Vorschriften dieses Abschnitts an.
 
-
-## § 70 – Veröffentlichung, Transparenz
+# § 70 – Veröffentlichung, Transparenz
 
 (1) Der öffentliche Auftraggeber teilt seine Absicht, einen Planungswettbewerb auszurichten, in einer Wettbewerbsbekanntmachung mit. Die Wettbewerbsbekanntmachung wird nach dem Muster gemäß Anhang IX der Durchführungsverordnung (EU) 2015/1986 erstellt. § 40 ist entsprechend anzuwenden.
 
@@ -1286,8 +1213,7 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (4) § 39 Absatz 6 gilt entsprechend.
 
-
-## § 71 – Ausrichtung
+# § 71 – Ausrichtung
 
 (1) Die an einem Planungswettbewerb Interessierten sind vor Wettbewerbsbeginn über die geltenden Durchführungsregeln zu informieren.
 
@@ -1299,8 +1225,7 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (3) Bei einem Planungswettbewerb mit beschränkter Teilnehmerzahl hat der öffentliche Auftraggeber eindeutige und nichtdiskriminierende Auswahlkriterien festzulegen. Die Zahl der Bewerber, die zur Teilnahme aufgefordert werden, muss ausreichen, um den Wettbewerb zu gewährleisten.
 
-
-## § 72 – Preisgericht
+# § 72 – Preisgericht
 
 (1) Das Preisgericht darf nur aus Preisrichtern bestehen, die von den Teilnehmern des Planungswettbewerbs unabhängig sind. Wird von den Wettbewerbsteilnehmern eine bestimmte berufliche Qualifikation verlangt, muss mindestens ein Drittel der Preisrichter über dieselbe oder eine gleichwertige Qualifikation verfügen.
 
@@ -1310,8 +1235,7 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (4) Die Teilnehmer können zur Klärung bestimmter Aspekte der Wettbewerbsarbeiten aufgefordert werden, Fragen zu beantworten, die das Preisgericht in seinem Protokoll festzuhalten hat. Der Dialog zwischen Preisrichtern und Teilnehmern ist zu dokumentieren.
 
-
-## § 73 – Anwendungsbereich und Grundsätze
+# § 73 – Anwendungsbereich und Grundsätze
 
 (1) Die Bestimmungen dieses Abschnitts gelten zusätzlich für die Vergabe von Architekten- und Ingenieurleistungen, deren Gegenstand eine Aufgabe ist, deren Lösung vorab nicht eindeutig und erschöpfend beschrieben werden kann.
 
@@ -1323,13 +1247,11 @@ b) die Ergebnisse einer Buchstabe a vergleichbaren Methode zur Überprüfung der
 
 (3) Aufträge über Leistungen nach Absatz 1 sollen unabhängig von Ausführungs- und Lieferinteressen vergeben werden.
 
-
-## § 74 – Verfahrensart
+# § 74 – Verfahrensart
 
 Architekten- und Ingenieurleistungen werden in der Regel im Verhandlungsverfahren mit Teilnahmewettbewerb nach § 17 oder im wettbewerblichen Dialog nach § 18 vergeben.
 
-
-## § 75 – Eignung
+# § 75 – Eignung
 
 (1) Wird als Berufsqualifikation der Beruf des Architekten, Innenarchitekten, Landschaftsarchitekten oder Stadtplaners gefordert, so ist zuzulassen, wer nach dem für die öffentliche Auftragsvergabe geltenden Landesrecht berechtigt ist, die entsprechende Berufsbezeichnung zu tragen oder in der Bundesrepublik Deutschland entsprechend tätig zu werden.
 
@@ -1343,15 +1265,13 @@ Architekten- und Ingenieurleistungen werden in der Regel im Verhandlungsverfahre
 
 (6) Erfüllen mehrere Bewerber an einem Teilnahmewettbewerb mit festgelegter Höchstzahl gemäß § 51 gleichermaßen die Anforderungen und ist die Bewerberzahl auch nach einer objektiven Auswahl entsprechend der zugrunde gelegten Eignungskriterien zu hoch, kann die Auswahl unter den verbleibenden Bewerbern durch Los getroffen werden.
 
-
-## § 76 – Zuschlag
+# § 76 – Zuschlag
 
 (1) Architekten- und Ingenieurleistungen werden im Leistungswettbewerb vergeben. Auf die zu erbringende Leistung anwendbare Gebühren- oder Honorarordnungen bleiben unberührt.
 
 (2) Die Ausarbeitung von Lösungsvorschlägen der gestellten Aufgabe kann der öffentliche Auftraggeber nur im Rahmen eines Planungswettbewerbs, eines Verhandlungsverfahrens oder eines wettbewerblichen Dialogs verlangen. Die Erstattung der Kosten richtet sich nach § 77. Unaufgefordert eingereichte Ausarbeitungen bleiben unberücksichtigt.
 
-
-## § 77 – Kosten und Vergütung
+# § 77 – Kosten und Vergütung
 
 (1) Für die Erstellung der Bewerbungs- und Angebotsunterlagen werden Kosten nicht erstattet.
 
@@ -1359,8 +1279,7 @@ Architekten- und Ingenieurleistungen werden in der Regel im Verhandlungsverfahre
 
 (3) Gesetzliche Gebühren- oder Honorarordnungen und der Urheberrechtsschutz bleiben unberührt.
 
-
-## § 78 – Grundsätze und Anwendungsbereich für Planungswettbewerbe
+# § 78 – Grundsätze und Anwendungsbereich für Planungswettbewerbe
 
 (1) Planungswettbewerbe gewährleisten die Wahl der besten Lösung der Planungsaufgabe und sind gleichzeitig ein geeignetes Instrument zur Sicherstellung der Planungsqualität und Förderung der Baukultur.
 
@@ -1368,8 +1287,7 @@ Architekten- und Ingenieurleistungen werden in der Regel im Verhandlungsverfahre
 
 (3) Die Bestimmungen dieses Unterabschnitts sind zusätzlich zu Abschnitt 5 für die Ausrichtung von Planungswettbewerben anzuwenden. Die auf die Durchführung von Planungswettbewerben anwendbaren Regeln nach Absatz 2 sind in der Wettbewerbsbekanntmachung mitzuteilen.
 
-
-## § 79 – Durchführung von Planungswettbewerben
+# § 79 – Durchführung von Planungswettbewerben
 
 (1) Mit der Ausrichtung eines Planungswettbewerbs sind Preise oder neben Preisen Anerkennungen auszuloben, die der Bedeutung und Schwierigkeit der Bauaufgabe sowie dem Leistungsumfang nach der jeweils geltenden Honorarordnung angemessen sind.
 
@@ -1381,25 +1299,21 @@ Architekten- und Ingenieurleistungen werden in der Regel im Verhandlungsverfahre
 
 (5) Das Preisgericht hat einen von den Preisrichtern zu unterzeichnenden Bericht über die Rangfolge und hierin eine Beurteilung der von ihm ausgewählten Wettbewerbsarbeiten zu erstellen. Der Ausrichter informiert die Teilnehmer unverzüglich über das Ergebnis durch Versendung des Protokolls der Preisgerichtssitzung. Der Ausrichter soll spätestens einen Monat nach der Entscheidung des Preisgerichts alle eingereichten Wettbewerbsarbeiten mit Namensangaben der Verfasser unter Auslegung des Protokolls öffentlich ausstellen. Soweit ein Preisträger wegen mangelnder Teilnahmeberechtigung oder Verstoßes gegen Wettbewerbsregeln nicht berücksichtigt werden kann, rücken die übrigen Preisträger sowie sonstige Teilnehmer in der Rangfolge des Preisgerichts nach, soweit das Preisgericht ausweislich seines Protokolls nichts anderes bestimmt hat.
 
-
-## § 80 – Aufforderung zur Verhandlung; Nutzung der Ergebnisse des Planungswettbewerbs
+# § 80 – Aufforderung zur Verhandlung; Nutzung der Ergebnisse des Planungswettbewerbs
 
 (1) Soweit und sobald das Ergebnis des Planungswettbewerbs realisiert werden soll und beabsichtigt ist, einen oder mehrere der Preisträger mit den zu beschaffenden Planungsleistungen zu beauftragen, hat der öffentliche Auftraggeber in der Aufforderung zur Teilnahme an den Verhandlungen die zum Nachweis der Eignung erforderlichen Unterlagen für die gemäß § 70 Absatz 2 bereits in der Wettbewerbsbekanntmachung genannten Eignungskriterien zu verlangen.
 
 (2) Gesetzliche Vorschriften, nach denen Teillösungen von Teilnehmern des Planungswettbewerbs, die bei der Auftragserteilung nicht berücksichtigt worden sind, nur mit deren Erlaubnis genutzt werden dürfen, bleiben unberührt.
 
-
-## § 81 – Übergangsbestimmungen
+# § 81 – Übergangsbestimmungen
 
 Zentrale Beschaffungsstellen im Sinne von § 120 Absatz 4 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen können bis zum 18. April 2017, andere öffentliche Auftraggeber bis zum 18. Oktober 2018, abweichend von § 53 Absatz 1 die Übermittlung der Angebote, Teilnahmeanträge und Interessensbestätigungen auch auf dem Postweg, anderem geeigneten Weg, Fax oder durch die Kombination dieser Mittel verlangen. Dasselbe gilt für die sonstige Kommunikation im Sinne des § 9 Absatz 1, soweit sie nicht die Übermittlung von Bekanntmachungen und die Bereitstellung der Vergabeunterlagen betrifft.
 
-
-## § 82 – Fristenberechnung
+# § 82 – Fristenberechnung
 
 Die Berechnung der in dieser Verordnung geregelten Fristen bestimmt sich nach der Verordnung (EWG, Euratom) Nr. 1182/71 des Rates vom 3. Juni 1971 zur Festlegung der Regeln für die Fristen, Daten und Termine (ABl. L 124 vom 8.6.1971, S. 1).
 
-
-## Anlage 1 – (zu § 31 Absatz 2)Technische Anforderungen, Begriffsbestimmungen
+# Anlage 1 – (zu § 31 Absatz 2)Technische Anforderungen, Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2016, 654)
 
@@ -1421,13 +1335,11 @@ c) nationale Norm: Norm, die von einer nationalen Normungsorganisation angenomme
 
 5. „technische Bezugsgröße“ bezeichnet jeden Bezugsrahmen, der keine europäische Norm ist und von den europäischen Normungsorganisationen nach den an die Bedürfnisse des Markts angepassten Verfahren erarbeitet wurde.
 
-
-## Anlage 2 – (zu § 68 Absatz 1 und 3)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten
+# Anlage 2 – (zu § 68 Absatz 1 und 3)Daten zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden externen Kosten
 
 (Fundstelle: BGBl. I 2016, 655)
 
-
-## Anlage 3 – (zu § 68 Absatz 3)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
+# Anlage 3 – (zu § 68 Absatz 3)Methode zur Berechnung der über die Lebensdauer von Straßenfahrzeugen anfallenden Betriebskosten
 
 (Fundstelle: BGBl. I 2016, 656)
 

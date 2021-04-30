@@ -1,20 +1,15 @@
-# [BauStiftG] Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
-
-Ausfertigungsdatum: 17.12.2006
-
+% Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
+% Ausfertigungsdatum: 17.12.2006
  
-
-## § 1 – Name, Rechtsform und Sitz der Stiftung
+# § 1 – Name, Rechtsform und Sitz der Stiftung
 
 Unter dem Namen "Bundesstiftung Baukultur" wird eine rechtsfähige Stiftung des öffentlichen Rechts mit Sitz in Potsdam errichtet.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 Zweck der Stiftung ist es, die Qualität, Nachhaltigkeit und Leistungsfähigkeit des Planungs- und Bauwesens in Deutschland national wie international herauszustellen und das Bewusstsein für gutes Planen, Bauen und Baukultur sowie den Wert der gebauten Umwelt bei Bauschaffenden und bei der Bevölkerung zu stärken. Dazu soll die Stiftung insbesondere als Kommunikationsplattform für die bundesweite Diskussion städtebaulicher, planerischer, bau- und wohnungswirtschaftlicher Qualitätsmaßstäbe dienen. Die Stiftung wird sich dabei auf Instrumente mit bundesweiter und internationaler Ausstrahlung konzentrieren. Maßnahmen der Länder und Gemeinden bleiben hiervon unberührt.
 
-
-## § 3 – Konvent der Baukultur
+# § 3 – Konvent der Baukultur
 
 (1) Die Stiftung veranstaltet regelmäßig einen öffentlichen Konvent der Baukultur.
 
@@ -26,8 +21,7 @@ Zweck der Stiftung ist es, die Qualität, Nachhaltigkeit und Leistungsfähigkeit
 
 (5) Das Nähere regelt die Satzung.
 
-
-## § 4 – Stiftungsvermögen
+# § 4 – Stiftungsvermögen
 
 (1) Der Bund stellt der Stiftung ein Stiftungskapital in Höhe von 250.000 Euro zur Verfügung.
 
@@ -39,8 +33,7 @@ Zweck der Stiftung ist es, die Qualität, Nachhaltigkeit und Leistungsfähigkeit
 
 (5) Erträge des Stiftungsvermögens und sonstige Einnahmen sind nur im Sinne des Stiftungszwecks zu verwenden.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -50,8 +43,7 @@ Organe der Stiftung sind
 
 3. der Beirat.
 
-
-## § 6 – Vorstand
+# § 6 – Vorstand
 
 (1) Der Vorstand besteht aus der Vorsitzenden oder dem Vorsitzenden und einer Stellvertreterin oder einem Stellvertreter.
 
@@ -61,8 +53,7 @@ Organe der Stiftung sind
 
 (4) Das Nähere regelt die Satzung.
 
-
-## § 7 – Stiftungsrat
+# § 7 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus 13 Mitgliedern:
 
@@ -86,8 +77,7 @@ Organe der Stiftung sind
 
 (8) Das Nähere regelt die Satzung.
 
-
-## § 8 – Beirat
+# § 8 – Beirat
 
 (1) Der Beirat besteht aus 20 Mitgliedern unterschiedlicher Fachrichtungen, die sich auf dem Gebiet der Baukultur hervorgetan haben. Sie werden vom Stiftungsrat ernannt, nachdem die Stiftung erstmals einen Konvent der Baukultur nach § 3 durchgeführt hat. Drei Viertel der Mitglieder ernennt der Stiftungsrat auf Vorschlag des Konvents der Baukultur.
 
@@ -103,13 +93,11 @@ Organe der Stiftung sind
 
 (7) Das Nähere regelt die Satzung.
 
-
-## § 9 – Satzung
+# § 9 – Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit der Mehrheit seiner Mitglieder beschlossen wird. Satzungsänderungen bedürfen ebenfalls der Mehrheit der Mitglieder des Stiftungsrats.
 
-
-## § 10 – Aufsicht, Haushalt, Rechnungsprüfung
+# § 10 – Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums des Innern, für Bau und Heimat.
 
@@ -117,19 +105,16 @@ Die Stiftung gibt sich eine Satzung, die vom Stiftungsrat mit der Mehrheit seine
 
 (3) Die Haushalts- und Wirtschaftsführung der Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
 
-
-## § 11 – Arbeitnehmerinnen und Arbeitnehmer
+# § 11 – Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Die Geschäfte der Stiftung werden durch Arbeitnehmerinnen und Arbeitnehmer wahrgenommen.
 
 (2) Auf die Arbeitsverhältnisse der Arbeitnehmerinnen und Arbeitnehmer der Stiftung sind die für die Arbeitnehmerinnen und Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 Um die Stiftung in die Lage zu versetzen, den ersten Konvent der Baukultur nach § 3 vorzubereiten und durchzuführen, konstituiert sich der Stiftungsrat zunächst ohne die vom Konvent der Baukultur zu benennenden Mitglieder. Dieser Stiftungsrat ist berechtigt und verpflichtet, alle im Zusammenhang mit der Vorbereitung und Durchführung des Konvents erforderlichen sowie unabweisbare Entscheidungen zu treffen. Dies umfasst auch die Bestellung eines vorläufigen Vorstands sowie die Verabschiedung einer vorläufigen Satzung. Die §§ 7 und 9 gelten entsprechend.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

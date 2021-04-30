@@ -1,10 +1,7 @@
-# [TreuhG] Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens  (Treuhandgesetz)
-
-Ausfertigungsdatum: 17.06.1990
-
+% Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens  (Treuhandgesetz)
+% Ausfertigungsdatum: 17.06.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Getragen von der Absicht,
 
@@ -19,8 +16,7 @@ Grund und Boden für wirtschaftliche Zwecke bereitzustellen,
 
 wird folgendes Gesetz erlassen:
 
-
-## § 1 – Vermögensübertragung
+# § 1 – Vermögensübertragung
 
 (1) Das volkseigene Vermögen ist zu privatisieren. Volkseigenes Vermögen kann auch in durch Gesetz bestimmten Fällen Gemeinden, Städten, Kreisen und Ländern sowie der öffentlichen Hand als Eigentum übertragen werden. Volkseigenes Vermögen, das kommunalen Aufgaben und kommunalen Dienstleistungen dient, ist durch Gesetz den Gemeinden und Städten zu übertragen.
 
@@ -48,8 +44,7 @@ sind.
 
 (6) Für die Privatisierung und Reorganisation des volkseigenen Vermögens in der Land- und Forstwirtschaft ist die Treuhandschaft so zu gestalten, daß den ökonomischen, ökologischen, strukturellen und eigentumsrechtlichen Besonderheiten dieses Bereiches Rechnung getragen wird.
 
-
-## § 2 – Stellung und Aufgaben der Treuhandanstalt
+# § 2 – Stellung und Aufgaben der Treuhandanstalt
 
 (1) Die Treuhandanstalt ist eine rechtsfähige bundesunmittelbare Anstalt des öffentlichen Rechts. Sie dient der Privatisierung und Verwertung volkseigenen Vermögens nach den Prinzipien der sozialen Marktwirtschaft. Beteiligungen der Treuhandanstalt sind mittelbare Beteiligungen des Bundes.
 
@@ -67,8 +62,7 @@ sind.
 
 (8) Der Sitz der Treuhandanstalt ist Berlin.
 
-
-## § 2a – Wirtschaftsplan
+# § 2a – Wirtschaftsplan
 
 (1) Der oder die Abwickler der Anstalt stellen vor Beginn eines jeden Kalenderjahres einen Wirtschaftsplan auf. Soweit die Treuhandanstalt ihre Ausgaben nicht aus eigenen Einnahmen finanzieren kann, erhält sie auf der Grundlage ihres Wirtschaftsplanes Zuwendungen gemäß den §§ 23, 44 und 44a der Bundeshaushaltsordnung aus dem Bundeshaushalt.
 
@@ -76,28 +70,23 @@ sind.
 
 (3) Die Treuhandanstalt kann Bürgschaften, Garantien oder sonstige Gewährleistungen nur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie und nur im Rahmen des im Wirtschaftsplan festgelegten Gesamtbetrages übernehmen.
 
-
-## § 3 – Abwickler der Anstalt
+# § 3 – Abwickler der Anstalt
 
 Das verbliebene Vermögen der Anstalt wird durch das Bundesministerium der Finanzen oder einen oder mehrere vom Bundesministerium der Finanzen zu bestellende andere Abwickler abgewickelt. Der oder die Abwickler vertreten die Anstalt im Rechtsverkehr.
 
-
-## § 4
+# § 4
 
 (weggefallen)
 
-
-## § 5
-
-\-
-
-
-## § 6
+# § 5
 
 \-
 
+# § 6
 
-## § 7 – Treuhand-Aktiengesellschaften
+\-
+
+# § 7 – Treuhand-Aktiengesellschaften
 
 (1) Die Treuhandanstalt kann ihre Aufgaben in dezentraler Organisationsstruktur über Treuhand-Aktiengesellschaften verwirklichen, die nach Anzahl und Zweckbestimmung mit den Aufgaben der Treuhandanstalt die Privatisierung und Verwertung des volkseigenen Vermögens nach unternehmerischen Grundsätzen sichern.
 
@@ -105,8 +94,7 @@ Das verbliebene Vermögen der Anstalt wird durch das Bundesministerium der Finan
 
 (3) Der Verwaltungsrat der Treuhandanstalt ordnet dabei nach Zweckmäßigkeitsgesichtspunkten den einzelnen Treuhand-Aktiengesellschaften die von ihnen zu haltenden Beteiligungen zu.
 
-
-## § 8 – Aufgaben der Treuhand-Aktiengesellschaften
+# § 8 – Aufgaben der Treuhand-Aktiengesellschaften
 
 (1) Die Treuhand-Aktiengesellschaften haben unter Hinzuziehung von Unternehmensberatungs- und Verkaufsgesellschaften sowie Banken und anderen geeigneten Unternehmen zu gewährleisten, daß in ihrem Bereich folgende Aufgaben unternehmerisch und weitestgehend dezentral gelöst werden:
 
@@ -121,8 +109,7 @@ Stillegung und Verwertung des Vermögens von nicht sanierungsfähigen Unternehme
 
 (2) Die Treuhand-Aktiengesellschaften haben der Treuhandanstalt über den Fortgang der Privatisierung zu berichten.
 
-
-## § 9
+# § 9
 
 (1) Zur Sicherung der Effizienz und Wettbewerbsfähigkeit haben die Treuhand-Aktiengesellschaften in den Unternehmen ihres Bereiches solche Strukturen zu schaffen, die den Bedingungen des Marktes und den Zielsetzungen der sozialen Marktwirtschaft entsprechen.
 
@@ -132,8 +119,7 @@ Stillegung und Verwertung des Vermögens von nicht sanierungsfähigen Unternehme
 
 (4) Die Treuhand-Aktiengesellschaften können zur Stärkung der Unternehmen ihres Bereiches insbesondere im Zusammenhang mit Sanierungsmaßnahmen alle marktmäßigen Möglichkeiten nutzen, z.B. Kredite aufnehmen oder Bürgschaften gewähren.
 
-
-## § 10 – Organe der Treuhand-Aktiengesellschaften
+# § 10 – Organe der Treuhand-Aktiengesellschaften
 
 (1) Die Aufsichtsratsmitglieder, die die Treuhandanstalt in der Treuhand-Aktiengesellschaft vertreten, werden vom Vorstand der Treuhandanstalt benannt. Für sie gilt § 4 Abs. 2 entsprechend.
 
@@ -141,8 +127,7 @@ Stillegung und Verwertung des Vermögens von nicht sanierungsfähigen Unternehme
 
 (3) Die Vorstände der Treuhand-Aktiengesellschaften sollen über Erfahrungen bei der Leitung von Unternehmen, insbesondere bei der Sanierung und der Veräußerung von Geschäftsanteilen verfügen.
 
-
-## § 11
+# § 11
 
 (1) Die in § 1 Abs. 4 bezeichneten Wirtschaftseinheiten, die bis zum 1. Juli 1990 noch nicht in Kapitalgesellschaften umgewandelt sind, werden nach den folgenden Vorschriften in Kapitalgesellschaften umgewandelt. Volkseigene Kombinate werden in Aktiengesellschaften, Kombinatsbetriebe und andere Wirtschaftseinheiten in Kapitalgesellschaften, vorzugsweise in Gesellschaften mit beschränkter Haftung (im weiteren als Gesellschaften mit beschränkter Haftung bezeichnet), umgewandelt.
 
@@ -165,25 +150,21 @@ Außenhandelsbetriebe in Abwicklung, die gemäß Anlage 1 Artikel 8 § 4 Abs. 1 
 \-  
 volkseigene Güter und staatliche Forstwirtschaftsbetriebe.
 
-
-## § 12
+# § 12
 
 (1) Die aus den Kombinaten entstandenen Aktiengesellschaften werden Inhaber der Geschäftsanteile der Gesellschaften mit beschränkter Haftung, die den Kombinaten vor dem 1. Juli 1990 unterstellt waren.
 
 (2) Eine Aktiengesellschaft im Sinne des Absatzes 1 hat ihre Anteile an einer Gesellschaft mit beschränkter Haftung der Treuhandanstalt gegen angemessenes Entgelt anzubieten, wenn die Geschäftsleitung der Gesellschaft mit beschränkter Haftung dies verlangt.
 
-
-## § 13
+# § 13
 
 Die Umwandlung einer Wirtschaftseinheit in eine Kapitalgesellschaft ist von Amts wegen unter Bezugnahme auf dieses Gesetz in das Register einzutragen, in dem diese Wirtschaftseinheit bisher eingetragen war.
 
-
-## § 14
+# § 14
 
 Die Firma der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaft muß die Bezeichnung "Aktiengesellschaft im Aufbau" oder "Gesellschaft mit beschränkter Haftung im Aufbau" enthalten.
 
-
-## § 15
+# § 15
 
 (1) Die Kapitalgesellschaft ist von Amts wegen unter Bezugnahme auf dieses Gesetz in das Handelsregister einzutragen.
 
@@ -201,32 +182,27 @@ Die Firma der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaft muß die Bez
 
 (4) Bis zur Bestimmung des Stammkapitals oder Grundkapitals im Gesellschaftsvertrag oder in der Satzung beträgt das Stammkapital einer Gesellschaft mit beschränkter Haftung 50.000 Deutsche Mark, das Grundkapital einer Aktiengesellschaft 100.000 Deutsche Mark.
 
-
-## § 16
+# § 16
 
 (1) Bis zum 31. Juli 1990 werden von der Treuhandanstalt Personen als vorläufige Mitglieder des Vorstandes oder vorläufige Geschäftsführer bestellt. Bis zu ihrer Bestellung sind die Aufgaben des Vorstandes oder der Geschäftsführung durch die geschäftsführenden Generaldirektoren oder Betriebsdirektoren wahrzunehmen.
 
 (2) Die Vorschriften des Aktiengesetzes oder des Gesetzes über die Gesellschaften mit beschränkter Haftung über die Stellung und die Verantwortlichkeit der Mitglieder des Vorstandes oder der Geschäftsführer sind auf die in Abs. 1 genannten Personen anzuwenden. Die Treuhandanstalt haftet für Schäden aus Pflichtverletzungen dieser Personen an deren Stelle. Regreßansprüche der Treuhandanstalt gegen diese Personen aufgrund anderer Rechtsvorschriften bleiben unberührt.
 
-
-## § 17
+# § 17
 
 (1) Bis zur endgültigen Feststellung der Satzung einer gemäß § 11 Abs. 2 entstandenen Aktiengesellschaft lauten deren Aktien auf den Inhaber. Der Nennbetrag der Aktien beträgt fünfzig Deutsche Mark.
 
 (2) Bis zum endgültigen Abschluß des Gesellschaftsvertrages einer gemäß § 11 Abs. 2 entstandenen Gesellschaft mit beschränkter Haftung beträgt die Stammeinlage eintausend Deutsche Mark.
 
-
-## § 18
+# § 18
 
 Geschäftsjahr der gemäß § 11 Abs. 2 entstandenen Kapitalgesellschaften ist das Kalenderjahr.
 
-
-## § 19
+# § 19
 
 Unverzüglich nach der Eintragung der Aktiengesellschaft im Aufbau oder der Gesellschaft mit beschränkter Haftung im Aufbau in das Handelsregister hat deren vorläufiges Leitungsorgan die für die Gründung einer Aktiengesellschaft oder einer Gesellschaft mit beschränkter Haftung gesetzlich erforderlichen Maßnahmen für die Gründung einzuleiten.
 
-
-## § 20
+# § 20
 
 (1) Die Kapitalgesellschaften haben der Treuhandanstalt bis zum 31. Oktober 1990 zu übergeben:
 
@@ -242,8 +218,7 @@ Unverzüglich nach der Eintragung der Aktiengesellschaft im Aufbau oder der Gese
 
 (3) Nach dem 31. Oktober 1990 kann der Abschluß des Gesellschaftsvertrages oder die Feststellung der Satzung durch die Treuhandanstalt unter Mitwirkung der Kapitalgesellschaften erfolgen. Die Treuhandanstalt kann nach Ablauf dieses Termins Wirtschaftsprüfer oder Wirtschaftsprüfungsgesellschaften beauftragen, auf Kosten der Kapitalgesellschaft den Gründungsbericht und den Lagebericht sowie die Eröffnungsbilanz zu erstellen.
 
-
-## § 21
+# § 21
 
 (1) Das vorläufige Leitungsorgan hat die Durchführung der Maßnahmen nach § 19 bei dem Handelsregister anzumelden. Der Anmeldung sind beizufügen:
 
@@ -259,30 +234,25 @@ Unverzüglich nach der Eintragung der Aktiengesellschaft im Aufbau oder der Gese
 
 (3) Liegen die gesetzlichen Voraussetzungen für die Eintragung der Kapitalgesellschaften vor, so löscht das Registergericht den Zusatz "im Aufbau" in der bisherigen Firma der Kapitalgesellschaft.
 
-
-## § 22
+# § 22
 
 Kapitalgesellschaften, die nach § 11 Abs. 2 entstanden sind, sind mit Ablauf des 30. Juni 1991 aufgelöst, wenn die nach den §§ 19 und 21 erforderlichen Maßnahmen bis zu diesem Tage nicht durchgeführt worden sind.
 
-
-## § 23
+# § 23
 
 § 11 Abs. 2 sowie § 15 Abs. 3 gelten auch für Umwandlungen, die auf Grund der Verordnung vom 1. März 1990 zur Umwandlung von volkseigenen Kombinaten, Betrieben und Einrichtungen in Kapitalgesellschaften (GBl. I Nr. 14 S. 107) vorgenommen worden sind; § 12 Abs. 2 gilt auch für Gesellschaften mit beschränkter Haftung, die durch eine Umwandlung im Sinne dieser Verordnung entstanden sind.
 
-
-## § 23a – Übertragung von Vermögenswerten, Auflösung
+# § 23a – Übertragung von Vermögenswerten, Auflösung
 
 (1) Die Anstalt kann ihr Vermögen im Wege der Gesamt- oder Teilrechtsnachfolge jeweils als Gesamtheit unter genauer Bezeichnung und Aufteilung der Gegenstände des Aktiv- und Passivvermögens auf den Bund, Einrichtungen des Bundes oder Kapitalgesellschaften, deren Geschäftsanteile oder Aktien sich mehrheitlich unmittelbar oder mittelbar in der Hand des Bundes befinden, übertragen. Der zwischen der Anstalt und dem Rechtsnachfolger zu schließende Übertragungsvertrag bedarf der Schriftform; § 311b Abs. 3 und § 415 des Bürgerlichen Gesetzbuchs finden keine Anwendung. Mit der Übertragung tritt der Rechtsnachfolger in alle in Bezug auf die Vermögenswerte bestehenden Rechte und Pflichten der Anstalt ein. Für nach Satz 1 auf Einrichtungen des Bundes oder Kapitalgesellschaften übertragene Verbindlichkeiten haften der Bund und der Rechtsnachfolger unbeschadet einer abweichenden Regelung im Innenverhältnis als Gesamtschuldner.
 
 (2) Das Bundesministerium der Finanzen löst die Anstalt nach vollständiger Abwicklung oder Übertragung ihres Vermögens auf. Die Auflösung ist im Bundesanzeiger bekannt zu machen.
 
-
-## § 23c – (weggefallen)
+# § 23c – (weggefallen)
 
 \-
 
-
-## § 24 – Übergangs- und Schlußbestimmungen
+# § 24 – Übergangs- und Schlußbestimmungen
 
 (1) Vorschriften dieses Gesetzes berühren nicht etwaige Ansprüche auf Restitution oder Entschädigung wegen unrechtmäßiger Enteignung oder enteignungsgleichen Eingriffen.
 
@@ -292,13 +262,11 @@ Kapitalgesellschaften, die nach § 11 Abs. 2 entstanden sind, sind mit Ablauf de
 
 (4) Die Bundesregierung wird ermächtigt, die bis zum 17. August 1994 erlassenen Durchführungsverordnungen zu diesem Gesetz durch Rechtsverordnung mit Zustimmung des Bundesrates zu ändern oder aufzuheben, soweit es zur weiteren Erfüllung der in diesen Durchführungsverordnungen der Treuhandanstalt zugewiesenen Aufgaben erforderlich ist.
 
-
-## Schlußformel
+# Schlußformel
 
 Das vorstehende, von der Volkskammer der Deutschen Demokratischen Republik am siebzehnten Juni neunzehnhundertneunzig beschlossene Gesetz wird hiermit verkündet.
 
-
-## Anhang EV – - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Gemäß Artikel 25 des Einigungsvertrages vom 31.8.1990 iVm Art. 1 des Gesetzes vom 23.9.1990 II 885, 889 gilt das Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens - Treuhandgesetz - vom 17. Juni 1990 (GBl. I Nr. 33 S. 300) mit Wirksamwerden des Beitritts mit folgender Maßgabe fort:
 

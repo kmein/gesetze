@@ -1,15 +1,11 @@
-# [PBefAusglV] Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr  (PBefAusglV)
-
-Ausfertigungsdatum: 02.08.1977
-
+% Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im Straßenpersonenverkehr  (PBefAusglV)
+% Ausfertigungsdatum: 02.08.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des durch das Gesetz vom 24. August 1976 (BGBl. I S. 2439) eingefügten § 58 Abs. 1 Nr. 5 des Personenbeförderungsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9240-1, veröffentlichten bereinigten Fassung, wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Auszubildende
+# § 1 – Auszubildende
 
 (1) Auszubildende im Sinne des § 45a Abs. 1 des Personenbeförderungsgesetzes sind
 
@@ -45,13 +41,11 @@ h) Teilnehmer an einem freiwilligen sozialen Jahr oder an einem freiwilligen ök
 
 (2) Die Berechtigung zum Erwerb von Zeitfahrausweisen des Ausbildungsverkehrs hat sich der Verkehrsunternehmer vom Auszubildenden nachweisen zu lassen. In den Fällen des Absatzes 1 Nr. 2 Buchstaben a bis g geschieht dies durch Vorlage einer Bescheinigung der Ausbildungsstätte oder des Ausbildenden, in den Fällen des Absatzes 1 Nr. 2 Buchstabe h durch Vorlage einer Bescheinigung des Trägers der jeweiligen sozialen Dienste. In der Bescheinigung ist zu bestätigen, daß die Voraussetzung des Absatzes 1 Nr. 2 gegeben ist. Die Bescheinigung gilt längstens ein Jahr.
 
-
-## § 2 – Kostenbestandteile für die Festlegung der Kostensätze
+# § 2 – Kostenbestandteile für die Festlegung der Kostensätze
 
 Für die Festlegung der pauschalen Kostensätze durch Rechtsverordnung nach § 45a Abs. 2 Satz 2 des Gesetzes gelten die in der Anlage aufgeführten Kostenbestandteile. Soweit in der Anlage nichts anderes festgelegt ist, ist in Zweifelsfällen sinngemäß nach den Leitsätzen für die Preisermittlung auf Grund von Selbstkosten, Anlage zur Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 (BAnz. Nr. 244 vom 18. Dezember 1953) zu verfahren; hierbei bleiben kalkulatorische Kosten, soweit sie in der Anlage nicht ausdrücklich aufgeführt sind, außer Ansatz.
 
-
-## § 3 – Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
+# § 3 – Ermittlung der Personen-Kilometer für die Berechnung des Ausgleichs
 
 (1) Personen-Kilometer werden durch Multiplikation der Beförderungsfälle mit der mittleren Reiseweite ermittelt.
 
@@ -87,20 +81,17 @@ jeweils um mehr als 25 vom Hundert abgewichen wird, sind der Berechnung des Ausg
 
 (6) (weggefallen)
 
-
-## § 4 – Ermittlung der Erträge
+# § 4 – Ermittlung der Erträge
 
 Als Erträge im Sinne von § 45a Abs. 1 und 2 des Gesetzes sind die Fahrgeldeinnahmen aus dem Verkauf von Zeitfahrausweisen im Ausbildungsverkehr und die Einnahmen aus erhöhten Beförderungsentgelten anzusetzen.
 
-
-## § 5 – Sonderregelung bei Einnahmeaufteilungsverträgen
+# § 5 – Sonderregelung bei Einnahmeaufteilungsverträgen
 
 (1) Werden in einem von mehreren Unternehmern gebildeten zusammenhängenden Liniennetz mit einheitlichen oder verbundenen Beförderungsentgelten die Erträge aus dem Verkauf von Zeitfahrausweisen zusammengefaßt und dem einzelnen Unternehmer anteilmäßig nach einem vereinbarten Verteilungsschlüssel zugewiesen, so ist der zugewiesene Anteil als Ertrag im Sinne von § 45a Abs. 2 des Gesetzes anzugeben. Bei der Ermittlung der von dem einzelnen Unternehmer geleisteten Personen-Kilometer ist diejenige Zahl der verkauften Wochen-, Monats- und Jahreszeitfahrausweise im Ausbildungsverkehr anzugeben, die sich nach Anwendung des in Satz 1 genannten Verteilungsschlüssels auf die Gesamtzahl der von allen Unternehmern verkauften Wochen-, Monats- und Jahreszeitfahrausweise im Ausbildungsverkehr ergibt.
 
 (2) Abweichend von Absatz 1 können die beteiligten Unternehmer eine andere geeignete Schlüsselung vereinbaren. Die Vereinbarung bedarf der Zustimmung der Genehmigungsbehörde.
 
-
-## § 6 – Länderüberschreitender Verkehr
+# § 6 – Länderüberschreitender Verkehr
 
 (1) Erstreckt sich die Beförderung von Auszubildenden mit Zeitfahrausweisen auf das Gebiet mehrerer Länder, sind deren Anteilen an der Ausgleichsleistung die Personen-Kilometer und Erträge zugrunde zu legen, die in dem jeweiligen Land erbracht werden.
 
@@ -108,8 +99,7 @@ Als Erträge im Sinne von § 45a Abs. 1 und 2 des Gesetzes sind die Fahrgeldeinn
 
 (3) Für die Antragstellung nach § 7 und für die Entscheidung nach § 8 gilt § 11 Abs. 1, 3 und 4 des Gesetzes entsprechend.
 
-
-## § 7 – Antrag
+# § 7 – Antrag
 
 (1) Der Antrag auf Gewährung eines Ausgleichs ist vom Unternehmer bis zum 31. Mai jeden Jahres für das vorangegangene Kalenderjahr bei der zuständigen Genehmigungsbehörde zu stellen. Der Antrag ist in dreifacher Ausfertigung nach einem bundeseinheitlichen Muster zu stellen. Bei einem von mehreren Unternehmern gebildeten zusammenhängenden Liniennetz mit einheitlichen oder verbundenen Beförderungsentgelten kann auch eine Gemeinschaftseinrichtung dieser Unternehmer die Anträge für ihre Mitglieder stellen.
 
@@ -117,35 +107,29 @@ Als Erträge im Sinne von § 45a Abs. 1 und 2 des Gesetzes sind die Fahrgeldeinn
 
 (3) Der Antragsteller hat in zweifacher Ausfertigung die Bescheinigung eines Wirtschaftsprüfers oder einer von der Genehmigungsbehörde anerkannten Stelle oder Person über die Richtigkeit der Angaben und Ausgleichsberechnungen beizubringen. Bestehen Zweifel an der Richtigkeit der Angaben und Ausgleichsberechnungen, kann die Genehmigungsbehörde weitere Nachweise verlangen.
 
-
-## § 8 – Entscheidung
+# § 8 – Entscheidung
 
 Die Entscheidung ist schriftlich zu erlassen und dem Antragsteller zuzustellen. Wird dem Antrag nicht oder nicht in vollem Umfang entsprochen, ist die Entscheidung schriftlich zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 9 – Änderung der Voraussetzungen
+# § 9 – Änderung der Voraussetzungen
 
 Jede Änderung der Tatsachen, die der Berechnung des Ausgleichs zugrunde liegen, ist unverzüglich der Genehmigungsbehörde anzuzeigen.
 
-
-## § 10 – Vorauszahlungen
+# § 10 – Vorauszahlungen
 
 (1) Die Unternehmer erhalten auf den Ausgleichsbetrag auf Antrag für das laufende Kalenderjahr Vorauszahlungen in Höhe von insgesamt 80 vom Hundert des zuletzt für ein Jahr festgesetzten Ausgleichsbetrags; sie werden je zur Hälfte bis zum 15. Juli und bis zum 15. November geleistet.
 
 (2) und (3) (weggefallen)
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage – zu § 2
+# Anlage – zu § 2
 
 Fundstelle des Originaltextes: BGBl. I 1977, 1463 - 1464
 

@@ -1,25 +1,19 @@
-# [AWZ Nordsee-ROV] Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee  (AWZ Nordsee-ROV)
-
-Ausfertigungsdatum: 21.09.2009
-
+% Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee  (AWZ Nordsee-ROV)
+% Ausfertigungsdatum: 21.09.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 18a Absatz 1 des Raumordnungsgesetzes vom 18. August 1997 (BGBl. I S. 2081, 2102), der durch Artikel 10 Nummer 2 des Gesetzes vom 9. Dezember 2006 (BGBl. I S. 2833) geändert worden ist, in Verbindung mit § 29 Absatz 1 des Raumordnungsgesetzes vom 22. Dezember 2008 (BGBl. I S. 2986) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Raumplanung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee
+# § 1 – Raumplanung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee
 
 Für die ausschließliche Wirtschaftszone der Bundesrepublik Deutschland in der Nordsee werden Ziele und Grundsätze der Raumordnung hinsichtlich der wirtschaftlichen und wissenschaftlichen Nutzung, hinsichtlich der Gewährleistung der Sicherheit und Leichtigkeit der Seeschifffahrt sowie zum Schutz der Meeresumwelt gemäß der Anlage zu dieser Verordnung als Raumordnungsplan, bestehend aus einem Textteil und einem Kartenteil, festgelegt.<span id="FnR.F772549_01"></span><a href="#F772549_01" class="FnR">1)</a></sup> <span id="FnR.F772549_02"></span><a href="#F772549_02" class="FnR">2)</a></sup>
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1)  Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Nordsee  (Textteil und Kartenteil)
+# Anlage – (zu § 1)  Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Nordsee  (Textteil und Kartenteil)
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 61, S. 3107 vom 25. September 2009, S. 1 - 34, gesonderte Karte)
 
@@ -293,13 +287,12 @@ Zur Vermeidung einer Riegelwirkung von Offshore-Windenergieparks für die Schiff
 \-  
 Westlich der Tiefwasserreede (Nr. 14) wird bis zur Europipe 2 ein Vorbehaltsgebiet festgelegt, um hier genügend Navigationsfläche zu sichern. Dieser Bereich wird insbesondere von Ankerliegern bei Sturmlagen aus Südwest bis Nordwest genutzt. Manövrierende Fahrzeuge haben auf Grund der umgebenden VTG nur die Möglichkeit, nach Westen abzulaufen. Zudem ist in Abhängigkeit von der künftigen Verkehrsentwicklung – insbesondere nach der Realisierung des Jade-Weser-Ports in Wilhelmshaven – ggf. mit einer Erweiterung der Tiefwasserreede nach Westen zu rechnen.
 
-Zu (3): Internationale Vereinbarungen zur Verhütung von Beeinträchtigungen der Meeresumwelt, wie insbesondere das Internationale Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe vom 2. November 1973 (BGBl. 1982 II S. 2, 4) in der Fassung des Protokolls vom 17. Februar 1978 (BGBl. 1982 II S. 2, 24) (MARPOL) und das Übereinkommen über den Schutz der Meeresumwelt des Nordostatlantiks vom 22. September 1992 (BGBl. 1994 II S. 1355, 1360) (OSPAR-Übereinkommen) zielen darauf ab, dass von der Schifffahrt eine möglichst geringe Beeinträchtigung der Meeresumwelt erfolgt. Neben den verbindlichen Regelungen der IMO sollen die beste Umweltpraxis („best environmental practice“) gemäß OSPAR-Übereinkommen sowie der jeweilige Stand der Technik berücksichtigt werden.  
-  
+Zu (3): Internationale Vereinbarungen zur Verhütung von Beeinträchtigungen der Meeresumwelt, wie insbesondere das Internationale Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe vom 2. November 1973 (BGBl. 1982 II S. 2, 4) in der Fassung des Protokolls vom 17. Februar 1978 (BGBl. 1982 II S. 2, 24) (MARPOL) und das Übereinkommen über den Schutz der Meeresumwelt des Nordostatlantiks vom 22. September 1992 (BGBl. 1994 II S. 1355, 1360) (OSPAR-Übereinkommen) zielen darauf ab, dass von der Schifffahrt eine möglichst geringe Beeinträchtigung der Meeresumwelt erfolgt. Neben den verbindlichen Regelungen der IMO sollen die beste Umweltpraxis („best environmental practice“) gemäß OSPAR-Übereinkommen sowie der jeweilige Stand der Technik berücksichtigt werden.   
   
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2009/j3107_ab_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j3107_ab_0020.jpg) |
 
   
 Abbildung: Nummerierung der Festlegungsbereiche für die Schifffahrt in der Nordsee
@@ -772,8 +765,7 @@ Im Rahmen des Beteiligungsverfahrens sind den Anrainerstaaten sowie den deutsche
 
 Nach der Durchführung und Auswertung der ersten Beteiligungsrunde wurde der Planentwurf insbesondere in zwei Bereichen geändert:  
   
-Eine erste Änderung betrifft die Gebietsfestlegungen für Windenergie. Damit das Klimaschutz- bzw. Ausbauziel der Bundesregierung für die Offshore-Windenergie von 25 000 MW bis zum Jahr 2030 erreicht werden kann, wird die im ersten Planentwurf vorgesehene Kopplung der Vorranggebiete für Windenergie mit einem Ausschluss der Windenergie im übrigen Plangebiet fallengelassen. Eine Ausschlusswirkung gilt nunmehr nur noch für die Natura-2000-Gebiete. Diese Planänderung lässt die Feststellung im Umweltbericht, dass mit der (unveränderten) Festlegung der Vorranggebiete für Windenergie „Nördlich Borkum“, „Südlich Amrumbank“ und „Östlich Austerngrund“ keine erheblichen Auswirkungen auf die Meeresumwelt verbunden sind, unberührt.  
-  
+Eine erste Änderung betrifft die Gebietsfestlegungen für Windenergie. Damit das Klimaschutz- bzw. Ausbauziel der Bundesregierung für die Offshore-Windenergie von 25 000 MW bis zum Jahr 2030 erreicht werden kann, wird die im ersten Planentwurf vorgesehene Kopplung der Vorranggebiete für Windenergie mit einem Ausschluss der Windenergie im übrigen Plangebiet fallengelassen. Eine Ausschlusswirkung gilt nunmehr nur noch für die Natura-2000-Gebiete. Diese Planänderung lässt die Feststellung im Umweltbericht, dass mit der (unveränderten) Festlegung der Vorranggebiete für Windenergie „Nördlich Borkum“, „Südlich Amrumbank“ und „Östlich Austerngrund“ keine erheblichen Auswirkungen auf die Meeresumwelt verbunden sind, unberührt.   
 Eine zweite Änderung betrifft die Vergrößerung des Vorbehaltsgebietes für die Schifffahrt nördlich des Verkehrstrennungsgebietes „German Bight Western Approach“. Diese Festlegung dient dem Zweck, der Sicherheit und Leichtigkeit der Schifffahrt – und damit mittelbar auch der Sicherheit der Meeresumwelt – bei der Koordinierung mit anderen Nutzungen wie etwa der Installation von baulichen Anlagen ein besonderes Gewicht beizumessen. Erhebliche Auswirkungen auf die Meeresumwelt, insbesondere negative Auswirkungen, sind mit dieser Planänderung nicht verbunden.
 
 Es kann zusammenfassend festgehalten werden, dass durch die Durchführung der Festlegungen des Raumordnungsplans zu Schifffahrt, Rohstoffgewinnung, Rohrleitungen und Seekabel, wissenschaftliche Meeresforschung, Energiegewinnung (insbesondere Windenergie) sowie Fischerei und Marikultur – insbesondere wegen der allgemeinen sowie quellenbezogenen Festlegungen zur Vermeidung und Verminderung von Auswirkungen – keine erheblichen Auswirkungen auf die Meeresumwelt zu erwarten sind. Die im Raumordnungsplan getroffenen Gebietsfestlegungen für Rohrleitungen und Seekabel sowie Windenergie haben nach der Verträglichkeitsprüfung keine erheblichen Auswirkungen auf die Schutz- und Erhaltungsziele der FFH- und Vogelschutzgebiete.
@@ -836,7 +828,7 @@ Nummerierung der Schifffahrtsrouten
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2009/j3107_ab_0030.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j3107_ab_0030.jpg) |
 
   
   
@@ -844,7 +836,7 @@ Darstellung der wesentlichen Eckkoordinaten
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2009/j3107_ab_0040.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j3107_ab_0040.jpg) |
 
   
   
@@ -906,7 +898,7 @@ Rohrleitungen und Seekabel
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2009/j3107_ab_0050.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j3107_ab_0050.jpg) |
 
   
   
@@ -933,7 +925,7 @@ Forschung
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2009/j3107_ab_0060.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j3107_ab_0060.jpg) |
 
   
   
@@ -960,7 +952,7 @@ Windenergie
 
 |                                                     |
 |:---------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2009/j3107_ab_0070.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j3107_ab_0070.jpg) |
 
   
   

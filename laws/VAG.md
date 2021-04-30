@@ -1,10 +1,7 @@
-# [VAG] Gesetz über die Beaufsichtigung der Versicherungsunternehmen  (Versicherungsaufsichtsgesetz - VAG)
-
-Ausfertigungsdatum: 01.04.2015
-
+% Gesetz über die Beaufsichtigung der Versicherungsunternehmen  (Versicherungsaufsichtsgesetz - VAG)
+% Ausfertigungsdatum: 01.04.2015
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
   
 
@@ -285,8 +282,7 @@ Ausfertigungsdatum: 01.04.2015
 
   
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Der Aufsicht nach diesem Gesetz unterliegen
 
@@ -308,15 +304,13 @@ Ausfertigungsdatum: 01.04.2015
 
 (+++ § 1 Abs. 1 u. 2: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 1 +++)
 
-
-## § 2 – Öffentlich-rechtliche Versorgungseinrichtungen
+# § 2 – Öffentlich-rechtliche Versorgungseinrichtungen
 
 (1) Soweit öffentlich-rechtliche Einrichtungen einschließlich der rechtlich unselbständigen kommunalen und kirchlichen Zusatzversorgungskassen und der Versorgungsanstalt des Bundes und der Länder im Wege der freiwilligen Versicherung Leistungen der Altersvorsorge anbieten, ist für die diesen Geschäften entsprechenden Verbindlichkeiten und Vermögenswerte ein separater Abrechnungsverband einzurichten. Die Verbindlichkeiten und Vermögenswerte werden ohne die Möglichkeit einer Übertragung getrennt von den anderen Geschäften der Einrichtung verwaltet und organisiert. Auf den Abrechnungsverband sind die Vorschriften dieses Gesetzes über die Geschäfte der Pensionskassen entsprechend anzuwenden; die Einrichtungen unterliegen insoweit auch der Versicherungsaufsicht.
 
 (2) Für die nach Landesrecht errichteten und der Landesaufsicht unterliegenden öffentlich-rechtlichen Einrichtungen kann das Landesrecht Abweichendes bestimmen.
 
-
-## § 3 – Ausnahmen von der Aufsichtspflicht, Verordnungsermächtigung
+# § 3 – Ausnahmen von der Aufsichtspflicht, Verordnungsermächtigung
 
 (1) Der Aufsicht nach diesem Gesetz unterliegen nicht
 
@@ -346,15 +340,13 @@ c) Leistungen aus der kommunalen Unfallfürsorge;
 
 (+++ § 3: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 1 +++)
 
-
-## § 4 – Feststellung der Aufsichtspflicht
+# § 4 – Feststellung der Aufsichtspflicht
 
 Ob ein Unternehmen der Aufsicht unterliegt, entscheidet die Aufsichtsbehörde. Die Entscheidung bindet die Verwaltungsbehörden. Eine vor dem 1. April 1931 ergangene Entscheidung eines Gerichts oder einer Verwaltungsbehörde steht einer erneuten Entscheidung der Aufsichtsbehörde nicht entgegen.
 
 (+++ § 4: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 1 +++)
 
-
-## § 5 – Freistellung von der Aufsicht
+# § 5 – Freistellung von der Aufsicht
 
 (1) Die Aufsichtsbehörde kann Versicherungsvereine auf Gegenseitigkeit, die nicht eingetragen zu werden brauchen, von der laufenden Aufsicht nach diesem Gesetz freistellen, wenn nach der Art der betriebenen Geschäfte und den sonstigen Umständen eine Beaufsichtigung zur Wahrung der Belange der Versicherten nicht erforderlich erscheint. Diese Voraussetzungen können insbesondere bei Sterbekassen und bei Vereinen mit örtlich begrenztem Wirkungskreis, geringer Mitgliederzahl und geringem Beitragsaufkommen vorliegen. Die Freistellung ist zu widerrufen, wenn der Aufsichtsbehörde bekannt wird, dass die Voraussetzungen der Freistellung entfallen sind.
 
@@ -362,8 +354,7 @@ Ob ein Unternehmen der Aufsicht unterliegt, entscheidet die Aufsichtsbehörde. D
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, öffentlich-rechtliche Versicherungsunternehmen im Sinne des § 1 Absatz 3 und Versorgungseinrichtungen im Sinne des § 2, die nicht der Landesaufsicht unterliegen, von der Aufsicht nach diesem Gesetz freizustellen, wenn nach den gesetzlichen Vorschriften über die Errichtung der Unternehmen oder den zwischen den Unternehmen und ihren Trägern bestehenden Vereinbarungen eine Beaufsichtigung zur Wahrung der Belange der Versicherten nicht erforderlich erscheint.
 
-
-## § 6 – Bezeichnungsschutz
+# § 6 – Bezeichnungsschutz
 
 (1) Die Bezeichnungen „Versicherung“, „Versicherer“, „Assekuranz“, „Rückversicherung“, „Rückversicherer“ und entsprechende fremdsprachliche Bezeichnungen oder eine Bezeichnung, in der eines dieser Worte enthalten ist, dürfen in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von Versicherungsunternehmen im Sinne des § 1 Absatz 1 und 3 sowie von deren Verbänden geführt werden, soweit durch Gesetz nichts anderes bestimmt ist. Versicherungsvermittler dürfen die in Satz 1 genannten Bezeichnungen nur führen, wenn diese mit einem Zusatz versehen sind, der die Vermittlereigenschaft klarstellt.
 
@@ -373,8 +364,7 @@ Ob ein Unternehmen der Aufsicht unterliegt, entscheidet die Aufsichtsbehörde. D
 
 (4) Führt ein Unternehmen eine Firma oder einen Zusatz zur Firma, deren Gebrauch nach Absatz 1 unzulässig ist oder verwendet ein Unternehmen eine solche Bezeichnung, so hat das Registergericht die Firma, den Zusatz zur Firma oder den Unternehmensgegenstand von Amts wegen zu löschen; § 395 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist entsprechend anzuwenden. Das Unternehmen ist zur Unterlassung des Gebrauchs der Firma, des Zusatzes zur Firma oder des Unternehmensgegenstandes durch Festsetzung von Ordnungsgeld anzuhalten; § 392 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ist entsprechend anzuwenden.
 
-
-## § 7 – Begriffsbestimmungen
+# § 7 – Begriffsbestimmungen
 
 Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
 
@@ -474,11 +464,9 @@ b) sich ihre Verwaltungs-, Leitungs- oder Aufsichtsorgane mehrheitlich aus dense
 
 34. Versicherungsunternehmen eines Drittstaats: Erst- oder Rückversicherungsunternehmen, die ihren Sitz in einem Drittstaat haben und eine behördliche Zulassung gemäß Artikel 14 Absatz 1 der Richtlinie 2009/138/EG benötigen würden, wenn sie ihren Sitz in einem Staat innerhalb des Europäischen Wirtschaftsraums hätten.
 
-34a.  
-Versicherungsvertrieb: Versicherungsvertriebstätigkeiten und Rückversicherungsvertriebstätigkeiten im Sinne des Artikels 2 Absatz 1 Nummer 1 und 2 der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb (Neufassung) (ABl. L 26 vom 2.2.2016, S. 19).
+34a. Versicherungsvertrieb: Versicherungsvertriebstätigkeiten und Rückversicherungsvertriebstätigkeiten im Sinne des Artikels 2 Absatz 1 Nummer 1 und 2 der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb (Neufassung) (ABl. L 26 vom 2.2.2016, S. 19).
 
-34b.  
-Vertriebsvergütung: alle Arten von Provisionen, Gebühren, Entgelten oder sonstigen Zahlungen, einschließlich wirtschaftlicher Vorteile jeglicher Art, oder finanzielle oder nichtfinanzielle Vorteile oder Anreize, die in Bezug auf Versicherungsvertriebstätigkeiten angeboten oder gewährt werden, ausgenommen solcher aus Rückversicherungsvertriebstätigkeiten.
+34b. Vertriebsvergütung: alle Arten von Provisionen, Gebühren, Entgelten oder sonstigen Zahlungen, einschließlich wirtschaftlicher Vorteile jeglicher Art, oder finanzielle oder nichtfinanzielle Vorteile oder Anreize, die in Bezug auf Versicherungsvertriebstätigkeiten angeboten oder gewährt werden, ausgenommen solcher aus Rückversicherungsvertriebstätigkeiten.
 
 35. Volatilitätsanpassung: Anpassung der maßgeblichen risikofreien Zinskurve, die von der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung gemäß Artikel 77e Absatz 1 Buchstabe c der Richtlinie 2009/138/EG mindestens einmal im Quartal beschlossen und veröffentlicht wird.
 
@@ -490,8 +478,7 @@ a) ein Versicherungsunternehmen, auf das die Richtlinie 2009/138/EG Anwendung fi
 
 b) eine Einrichtung der betrieblichen Altersversorgung zugelassen oder in ein nationales Register eingetragen ist gemäß Artikel 9 Absatz 1 der Richtlinie (EU) 2016/2341 des Europäischen Parlaments und des Rates vom 14. Dezember 2016 über die Tätigkeiten und die Beaufsichtigung von Einrichtungen der betrieblichen Altersversorgung (EbAV) (Neufassung) (ABl. L 354 vom 23.12.2016, S. 37).
 
-
-## § 8 – Erlaubnis; Spartentrennung
+# § 8 – Erlaubnis; Spartentrennung
 
 (1) Versicherungsunternehmen bedürfen zum Geschäftsbetrieb der Erlaubnis der Aufsichtsbehörde.
 
@@ -506,8 +493,7 @@ b) eine Einrichtung der betrieblichen Altersversorgung zugelassen oder in ein na
 (+++ § 8 Abs. 2: Zur Anwendung vgl. § 237 Abs. 3 Nr. 1 +++)  
 (+++ § 8 Abs. 4: Zur Anwendung vgl. § 13 Abs. 1 Satz 2 +++)
 
-
-## § 9 – Antrag
+# § 9 – Antrag
 
 (1) Mit dem Antrag auf Erlaubnis ist der Geschäftsplan einzureichen; er hat den Zweck und die Einrichtung des Unternehmens, das Gebiet des beabsichtigten Geschäftsbetriebs sowie die Verhältnisse darzulegen, aus denen sich die künftigen Verpflichtungen des Unternehmens als dauernd erfüllbar ergeben sollen.
 
@@ -587,8 +573,7 @@ b) die allgemeinen Versicherungsbedingungen sowie
 
 Zuständig sind die Behörden der Mitglied- oder Vertragsstaaten, in denen das Mutterunternehmen, das Schwesterunternehmen oder das kontrollierende Unternehmen seine Hauptniederlassung hat oder die kontrollierenden Personen ihren gewöhnlichen Aufenthalt haben. Schwesterunternehmen im Sinne des Satzes 1 Nummer 1 sind Unternehmen, die ein gemeinsames Mutterunternehmen haben. Die Anhörung erstreckt sich insbesondere auf die Angaben, die für die Beurteilung der Zuverlässigkeit und fachlichen Eignung der in § 24 genannten Personen sowie für die Beurteilung der Zuverlässigkeit der Inhaber einer bedeutenden Beteiligung an Unternehmen derselben Gruppe im Sinne des Satzes 1 mit Sitz in dem betreffenden Mitglied- oder Vertragsstaat erforderlich sind sowie auf die Angaben zu den Eigenmitteln.
 
-
-## § 10 – Umfang der Erlaubnis
+# § 10 – Umfang der Erlaubnis
 
 (1) Die Aufsichtsbehörde erteilt die Erlaubnis unbefristet, wenn sich nicht aus dem Geschäftsplan etwas anderes ergibt. Die Erlaubnis gilt für das Gebiet aller Mitglied- oder Vertragsstaaten.
 
@@ -600,8 +585,7 @@ Zuständig sind die Behörden der Mitglied- oder Vertragsstaaten, in denen das M
 
 (+++ § 10 Abs. 4: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 11 – Versagung und Beschränkung der Erlaubnis
+# § 11 – Versagung und Beschränkung der Erlaubnis
 
 (1) Die Aufsichtsbehörde versagt die Erlaubnis, wenn
 
@@ -633,8 +617,7 @@ Die Erlaubnis kann ferner versagt werden, wenn entgegen § 9 Absatz 4 der Antrag
 
 (+++ § 11: Zur Anwendung vgl. § 12 Abs. 1 Satz 4 +++)
 
-
-## § 12 – Änderungen des Geschäftsplans und von Unternehmensverträgen
+# § 12 – Änderungen des Geschäftsplans und von Unternehmensverträgen
 
 (1) Jede Änderung der in § 9 Absatz 2 Nummer 1 und 2 genannten Bestandteile des Geschäftsplans eines Erstversicherungsunternehmens, jede Erweiterung seines Geschäftsbetriebs auf ein Gebiet außerhalb der Mitglied- und Vertragsstaaten sowie die Unternehmensverträge eines Erstversicherungsunternehmens im Sinne des § 9 Absatz 4 Nummer 1 Buchstabe b und deren Änderung, Aufhebung, Kündigung oder Beendigung durch Rücktritt dürfen erst in Kraft gesetzt werden, wenn sie von der Aufsichtsbehörde genehmigt worden sind. Dasselbe gilt für jede Ausdehnung des Geschäftsbetriebs eines Rückversicherungsunternehmens auf ein Gebiet außerhalb der Mitglied- oder Vertragsstaaten oder auf andere Arten der Rückversicherung. Satz 1 gilt nicht für Satzungsänderungen, die eine Kapitalerhöhung zum Gegenstand haben. § 11 ist entsprechend anzuwenden.
 
@@ -650,8 +633,7 @@ a) auch nach der beabsichtigten Ausdehnung des Gebiets des Geschäftsbetriebs di
 
 b) im Falle der Errichtung einer Niederlassung in einem Gebiet außerhalb der Mitglied- und Vertragsstaaten eine dort erforderliche Erlaubnis zum Geschäftsbetrieb erhalten hat oder eine solche Erlaubnis nicht erforderlich ist.
 
-
-## § 13 – Bestandsübertragungen
+# § 13 – Bestandsübertragungen
 
 (1) Jeder Vertrag, durch den der Versicherungsbestand eines Erstversicherungsunternehmens ganz oder teilweise auf ein anderes Versicherungsunternehmen übertragen werden soll, bedarf der Genehmigung der Aufsichtsbehörden, die für die beteiligten Unternehmen zuständig sind. Die Genehmigung ist zu erteilen, wenn die Belange der Versicherten gewahrt sind und die Verpflichtungen aus den Versicherungen als dauernd erfüllbar dargetan sind; § 9 Absatz 5 über die Anhörung der zuständigen Stellen eines anderen Mitglied- oder Vertragsstaats und § 8 Absatz 4 sind entsprechend anzuwenden.
 
@@ -680,15 +662,13 @@ Die Sätze 1 und 2 Nummer 1 gelten auch für die Übertragung eines im Inland er
 (+++ § 13 Abs. 2: Zur Anwendung vgl. § 65 Abs. 2 Nr. 4 u. § 237 Abs. 1 Satz 2 +++)  
 (+++ § 13 Abs. 4 u. 5, Abs. 7 Satz 1: Zur Anwendung vgl. § 63 Abs. 1 Satz 2 +++)
 
-
-## § 14 – Umwandlungen
+# § 14 – Umwandlungen
 
 (1) Jede Umwandlung eines Erstversicherungsunternehmens nach den §§ 1 und 122a des Umwandlungsgesetzes bedarf der Genehmigung der Aufsichtsbehörde. § 13 Absatz 1 Satz 2 und Absatz 2, 4 und 5 ist entsprechend anzuwenden.
 
 (2) Die Aufsichtsbehörde kann die Genehmigung auch versagen, wenn die Vorschriften über die Umwandlung nicht beachtet worden sind.
 
-
-## § 15 – Versicherungsfremde Geschäfte
+# § 15 – Versicherungsfremde Geschäfte
 
 (1) Erstversicherungsunternehmen dürfen neben Versicherungsgeschäften nur solche Geschäfte betreiben, die mit Versicherungsgeschäften in unmittelbarem Zusammenhang stehen. Bei Termingeschäften und Geschäften mit Optionen und ähnlichen Finanzinstrumenten ist ein solcher Zusammenhang anzunehmen, wenn sie der Absicherung gegen Kurs- oder Zinsänderungsrisiken bei vorhandenen Vermögenswerten oder dem späteren Erwerb von Wertpapieren dienen sollen oder wenn aus vorhandenen Wertpapieren ein zusätzlicher Ertrag erzielt werden soll, ohne dass bei Erfüllung von Lieferverpflichtungen eine Unterdeckung des Sicherungsvermögens eintreten kann. Bei einer Aufnahme von Fremdmitteln besteht regelmäßig kein unmittelbarer Zusammenhang im Sinne des Satzes 1. Bei einem anderen Geschäft ist ein solcher Zusammenhang nur anzunehmen, wenn es nicht mit einem zusätzlichen finanziellen Risiko verbunden ist.
 
@@ -696,20 +676,17 @@ Die Sätze 1 und 2 Nummer 1 gelten auch für die Übertragung eines im Inland er
 
 (3) Der Versicherungsvertrieb im Sinne von § 7 Nummer 34a gehört zum Geschäftsbetrieb eines Versicherungsunternehmens.
 
-
-## § 15a – Immobiliar-Verbraucherdarlehen; Verordnungsermächtigung
+# § 15a – Immobiliar-Verbraucherdarlehen; Verordnungsermächtigung
 
 (1) Für die Vergabe von Immobiliar-Verbraucherdarlehen gilt § 18a Absatz 1 bis 10 des Kreditwesengesetzes entsprechend. Bei der Kreditwürdigkeitsprüfung durch Unternehmen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, gelten die Leitlinien der gemäß § 18a Absatz 10a des Kreditwesengesetzes erlassenen Rechtsverordnung entsprechend.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen über die nach Absatz 1 in Verbindung mit § 18a Absatz 6 des Kreditwesengesetzes erforderlichen Kenntnisse und Fähigkeiten der mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten internen und externen Mitarbeiter zu erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung nach Satz 1 durch Rechtsverordnung mit Zustimmung des Bundesrates auf die Bundesanstalt übertragen.
 
-
-## § 16 – Inhaber bedeutender Beteiligungen
+# § 16 – Inhaber bedeutender Beteiligungen
 
 Die Inhaber einer bedeutenden Beteiligung im Sinne des § 7 Nummer 3 am Versicherungsunternehmen müssen den Ansprüchen genügen, die im Interesse einer soliden und umsichtigen Leitung des Unternehmens zu stellen sind; insbesondere müssen sie zuverlässig sein. Wird die Beteiligung von juristischen Personen oder Personenhandelsgesellschaften gehalten, gilt das Gleiche für diejenigen natürlichen Personen, die nach Gesetz, Satzung oder Gesellschaftsvertrag zur Führung der Geschäfte und zur Vertretung berufen sind, sowie für die persönlich haftenden Gesellschafter.
 
-
-## § 17 – Anzeige bedeutender Beteiligungen
+# § 17 – Anzeige bedeutender Beteiligungen
 
 (1) Jeder hat der Aufsichtsbehörde unverzüglich schriftlich anzuzeigen, wenn er beabsichtigt,
 
@@ -745,8 +722,7 @@ c) 2013/36/EU des Europäischen Parlaments und des Rates vom 26. Juni 2013 über
 
 d) 2009/138/EG.
 
-
-## § 18 – Untersagung oder Beschränkung einer bedeutenden Beteiligung
+# § 18 – Untersagung oder Beschränkung einer bedeutenden Beteiligung
 
 (1) Die Aufsichtsbehörde kann in den Fällen des § 17 Absatz 1 Satz 1 Nummer 1 oder 2 innerhalb des Beurteilungszeitraums den beabsichtigten Erwerb der bedeutenden Beteiligung oder deren Erhöhung untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
@@ -768,8 +744,7 @@ d) 2009/138/EG.
 
 (3) Entscheidet die Aufsichtsbehörde nach Abschluss der Beurteilung, den Erwerb oder die Erhöhung der Beteiligung zu untersagen oder eine Anordnung nach Absatz 2a zu erlassen, teilt sie dem Anzeigepflichtigen die Entscheidung innerhalb von zwei Arbeitstagen und unter Einhaltung des Beurteilungszeitraums schriftlich unter Angabe der Gründe mit. Bemerkungen und Vorbehalte der für den Anzeigepflichtigen zuständigen Behörde sind in der Entscheidung wiederzugeben; eine Untersagung darf nur aus den in den Absätzen 1 und 2 genannten Gründen erfolgen; eine Anordnung nach Absatz 2a darf nur aus den in Absatz 1 aufgezählten Gründen erfolgen. Wird der Erwerb oder die Erhöhung der Beteiligung nicht innerhalb des Beurteilungszeitraums schriftlich untersagt, kann der Erwerb oder die Erhöhung vollzogen werden; die Rechte der Aufsichtsbehörde nach § 20 bleiben davon unberührt. Wird der Erwerb oder die Erhöhung der Beteiligung nicht untersagt, kann die Aufsichtsbehörde eine Frist festsetzen, nach deren Ablauf der Anzeigepflichtige ihr den Vollzug oder den Nichtvollzug des beabsichtigten Erwerbs oder der Erhöhung unverzüglich anzuzeigen hat.
 
-
-## § 19 – Untersagung der Ausübung der Stimmrechte
+# § 19 – Untersagung der Ausübung der Stimmrechte
 
 (1) Die Aufsichtsbehörde kann dem Inhaber einer bedeutenden Beteiligung sowie den seine bedeutende Beteiligung vermittelnden Unternehmen die Ausübung der Stimmrechte untersagen und anordnen, dass über die Anteile nur mit ihrer Zustimmung verfügt werden darf, wenn
 
@@ -787,13 +762,11 @@ d) 2009/138/EG.
 
 (3) Die Aufsichtsbehörde kann in den Fällen des Absatzes 1 auch gegenüber einem die bedeutende Beteiligung vermittelnden Unternehmen anordnen, Weisungen des Inhabers einer bedeutenden Beteiligung, der an dem vermittelnden Unternehmen beteiligt ist, nicht zu befolgen.
 
-
-## § 20 – Prüfung des Inhabers
+# § 20 – Prüfung des Inhabers
 
 Sofern Tatsachen Anlass zu Zweifeln geben, dass der Inhaber einer bedeutenden Beteiligung den in § 16 genannten Anforderungen genügt oder dass die Verbindung mit anderen Personen oder Unternehmen wegen der Struktur des Beteiligungsgeflechts oder mangelhafter wirtschaftlicher Transparenz eine wirksame Aufsicht über das Versicherungsunternehmen möglich macht, kann die Aufsichtsbehörde anordnen, dass der Inhaber die in § 9 Absatz 4 Nummer 2 Buchstabe c und d genannten Unterlagen vorzulegen und auf seine Kosten durch einen von der Aufsichtsbehörde zu bestimmenden Wirtschaftsprüfer prüfen zu lassen hat.
 
-
-## § 21 – Zusammenarbeit mit den zuständigen Behörden in anderen Mitglied- oder Vertragsstaaten
+# § 21 – Zusammenarbeit mit den zuständigen Behörden in anderen Mitglied- oder Vertragsstaaten
 
 (1) Bei der Beurteilung des Erwerbs arbeitet die Aufsichtsbehörde mit den zuständigen Behörden in den anderen Mitglied- oder Vertragsstaaten eng zusammen, wenn der Anzeigepflichtige
 
@@ -805,13 +778,11 @@ Sofern Tatsachen Anlass zu Zweifeln geben, dass der Inhaber einer bedeutenden Be
 
 (2) Die zuständigen Behörden tauschen untereinander unverzüglich die Informationen aus, die für die Beurteilung wesentlich oder relevant sind. Dabei teilen die zuständigen Behörden einander alle einschlägigen Informationen auf Anfrage mit und übermitteln alle wesentlichen Informationen von sich aus. In der Entscheidung der zuständigen Behörde, die das Versicherungsunternehmen zugelassen hat, an dem der Erwerb beabsichtigt wird, sind alle Bemerkungen oder Vorbehalte seitens der für den interessierten Erwerber zuständigen Behörde zu vermerken.
 
-
-## § 22 – Verordnungsermächtigung
+# § 22 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vorschriften über Art, Umfang, Zeitpunkt und Form der gemäß § 17 Absatz 1 und 2 einzureichenden Angaben zu erlassen, soweit dies zur Erfüllung der Aufgaben der Aufsichtsbehörde erforderlich ist. Für Versicherungsunternehmen, die nicht der Aufsicht der Aufsichtsbehörden der Länder unterliegen, kann in der Rechtsverordnung vorgesehen werden, dass interessierte Erwerber allgemein oder im Einzelfall die in § 9 Absatz 4 Nummer 2 Buchstabe c und d genannten Unterlagen vorzulegen haben und auf ihre Kosten durch einen von der Aufsichtsbehörde zu bestimmenden Wirtschaftsprüfer prüfen zu lassen haben. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 23 – Allgemeine Anforderungen an die Geschäftsorganisation, Produktfreigabeverfahren
+# § 23 – Allgemeine Anforderungen an die Geschäftsorganisation, Produktfreigabeverfahren
 
 (1) Versicherungsunternehmen müssen über eine Geschäftsorganisation verfügen, die wirksam und ordnungsgemäß ist und die der Art, dem Umfang und der Komplexität ihrer Tätigkeiten angemessen ist. Die Geschäftsorganisation muss neben der Einhaltung der von den Versicherungsunternehmen zu beachtenden Gesetze, Verordnungen und aufsichtsbehördlichen Anforderungen eine solide und umsichtige Leitung des Unternehmens gewährleisten. Dazu gehören neben der Einhaltung der Anforderungen dieses Abschnitts insbesondere eine angemessene, transparente Organisationsstruktur mit einer klaren Zuweisung und einer angemessenen Trennung der Zuständigkeiten sowie ein wirksames unternehmensinternes Kommunikationssystem.
 
@@ -843,8 +814,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 sowie etwaige strafbare Handlungen innerhalb des Unternehmens an eine geeignete Stelle zu melden.
 
-
-## § 24 – Anforderungen an Personen, die das Unternehmen tatsächlich leiten oder andere Schlüsselaufgaben wahrnehmen
+# § 24 – Anforderungen an Personen, die das Unternehmen tatsächlich leiten oder andere Schlüsselaufgaben wahrnehmen
 
 (1) Personen, die ein Versicherungsunternehmen tatsächlich leiten oder andere Schlüsselaufgaben wahrnehmen, müssen zuverlässig und fachlich geeignet sein. Fachliche Eignung setzt berufliche Qualifikationen, Kenntnisse und Erfahrungen voraus, die eine solide und umsichtige Leitung des Unternehmens gewährleisten. Dies erfordert angemessene theoretische und praktische Kenntnisse in Versicherungsgeschäften sowie im Fall der Wahrnehmung von Leitungsaufgaben ausreichende Leitungserfahrung. Eine ausreichende Leitungserfahrung ist in der Regel anzunehmen, wenn eine dreijährige leitende Tätigkeit bei einem Versicherungsunternehmen von vergleichbarer Größe und Geschäftsart nachgewiesen wird.
 
@@ -854,8 +824,7 @@ sowie etwaige strafbare Handlungen innerhalb des Unternehmens an eine geeignete 
 
 (4) Wer Geschäftsleiter eines Unternehmens war, kann nicht zum Mitglied des Verwaltungs- oder Aufsichtsorgans dieses Unternehmens bestellt werden, wenn bereits zwei ehemalige Geschäftsleiter des Unternehmens Mitglied des Verwaltungs- oder Aufsichtsorgans sind. Zum Mitglied des Verwaltungs- oder Aufsichtsorgans kann auch nicht bestellt werden, wer bereits fünf Kontrollmandate bei Unternehmen ausübt, die unter der Aufsicht der Bundesanstalt stehen; Mandate bei Unternehmen derselben Versicherungs- oder Unternehmensgruppe bleiben dabei außer Betracht.
 
-
-## § 25 – Vergütung
+# § 25 – Vergütung
 
 (1) Die Vergütungssysteme für Geschäftsleiter, Mitarbeiter und Aufsichtsratsmitglieder von Versicherungsunternehmen müssen angemessen, transparent und auf eine nachhaltige Entwicklung des Unternehmens ausgerichtet sein.
 
@@ -869,8 +838,7 @@ sowie etwaige strafbare Handlungen innerhalb des Unternehmens an eine geeignete 
 
 (6) Für den Abschluss oder die Vermittlung von Immobiliar-Verbraucherdarlehensverträgen darf die Struktur der Vergütung der Vermittler deren Fähigkeit nicht beeinträchtigen, im besten Interesse des Verbrauchers zu handeln, insbesondere darf sie nicht an Absatzziele gekoppelt sein.
 
-
-## § 26 – Risikomanagement
+# § 26 – Risikomanagement
 
 (1) Versicherungsunternehmen müssen über ein wirksames Risikomanagementsystem verfügen, das gut in die Organisationsstruktur und die Entscheidungsprozesse des Unternehmens integriert ist und dabei die Informationsbedürfnisse der Personen, die das Unternehmen tatsächlich leiten oder andere Schlüsselfunktionen innehaben, durch eine angemessene interne Berichterstattung gebührend berücksichtigt. Das Risikomanagementsystem muss die Strategien, Prozesse und internen Meldeverfahren umfassen, die erforderlich sind, um Risiken, denen das Unternehmen tatsächlich oder möglicherweise ausgesetzt ist, zu identifizieren, zu bewerten, zu überwachen und zu steuern sowie aussagefähig über diese Risiken zu berichten. Es muss einzeln und auf aggregierter Basis eine kontinuierliche Risikosteuerung unter Berücksichtigung der zwischen den Risiken bestehenden Interdependenzen ermöglichen. Auf Verlangen der Aufsichtsbehörde haben die Versicherungsunternehmen einen Sanierungsplan (allgemeiner Sanierungsplan) aufzustellen. Der allgemeine Sanierungsplan muss Szenarien beschreiben, die zu einer Gefährdung des Unternehmens führen können, und darlegen, mit welchen Maßnahmen diesen begegnet werden soll.
 
@@ -922,8 +890,7 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (+++ § 26 Abs. 1: Zur Anwendung vgl. § 234 Abs. 3 Satz 1 Nr. 3 u. § 237 Abs. 3 Nr. 4 +++)
 
-
-## § 27 – Risiko- und Solvabilitätsbeurteilung
+# § 27 – Risiko- und Solvabilitätsbeurteilung
 
 (1) Zum Risikomanagementsystem gehört eine unternehmenseigene Risiko- und Solvabilitätsbeurteilung, die Versicherungsunternehmen regelmäßig sowie im Fall wesentlicher Änderungen in ihrem Risikoprofil unverzüglich vorzunehmen haben. Die Risiko- und Solvabilitätsbeurteilung muss fester Bestandteil der Geschäftsstrategie des Unternehmens sein und kontinuierlich in die strategischen Entscheidungen einfließen. Die Versicherungsunternehmen informieren die Aufsichtsbehörde innerhalb von 14 Tagen nach Abschluss jeder durchgeführten Risiko- und Solvabilitätsbeurteilung über das Ergebnis.
 
@@ -943,15 +910,13 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (6) Unternehmen, die langfristige Garantien geben, müssen als Teil der Beurteilung nach Absatz 2 Nummer 2 auch die langfristige Risikotragfähigkeit des Unternehmens berücksichtigen. Wenn Versicherungsunternehmen die Matching-Anpassung gemäß § 80, die Volatilitätsanpassung gemäß § 82 oder die Übergangsmaßnahmen gemäß den §§ 351 und 352 anwenden, ist die Einhaltung der Kapitalanforderungen gemäß Absatz 2 Nummer 2 mit und ohne Berücksichtigung dieser Anpassungen und Übergangsmaßnahmen zu bewerten.
 
-
-## § 28 – Externe Ratings
+# § 28 – Externe Ratings
 
 (1) Damit ein übermäßiges Vertrauen auf externe Ratingagenturen vermieden wird, überprüfen die Versicherungsunternehmen bei der Nutzung externer Ratings für die Berechnung der versicherungstechnischen Rückstellungen und der Solvabilitätskapitalanforderung im Rahmen ihres Risikomanagements die Angemessenheit dieser externen Ratings, indem sie soweit praktisch möglich zusätzliche Bewertungen vornehmen, um eine automatische Abhängigkeit von externen Ratings zu verhindern.
 
 (2) Die in den Geltungsbereich der Verordnung (EG) Nr. 1060/2009 einbezogenen Unternehmen, die der Aufsicht nach diesem Gesetz unterliegen, haben die sich aus dieser Verordnung in der jeweils geltenden Fassung ergebenden Pflichten einzuhalten.
 
-
-## § 29 – Internes Kontrollsystem
+# § 29 – Internes Kontrollsystem
 
 (1) Versicherungsunternehmen müssen über ein wirksames internes Kontrollsystem verfügen, das mindestens Verwaltungs- und Rechnungslegungsverfahren, einen internen Kontrollrahmen und eine angemessene unternehmensinterne Berichterstattung auf allen Unternehmensebenen umfasst. Darüber hinaus muss das interne Kontrollsystem über eine Funktion zur Überwachung der Einhaltung der Anforderungen (Compliance-Funktion) verfügen.
 
@@ -961,15 +926,13 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (4) Die Unternehmen legen in vom Vorstand genehmigten schriftlichen internen Leitlinien fest, wie die kontinuierliche Angemessenheit der zu veröffentlichenden und der zu übermittelnden Informationen zu gewährleisten ist.
 
-
-## § 30 – Interne Revision
+# § 30 – Interne Revision
 
 (1) Versicherungsunternehmen müssen über eine wirksame interne Revision verfügen, welche die gesamte Geschäftsorganisation und insbesondere das interne Kontrollsystem auf deren Angemessenheit und Wirksamkeit überprüft.
 
 (2) Die interne Revision muss objektiv und unabhängig von anderen operativen Tätigkeiten sein. Sie berichtet ihre Prüfungsergebnisse und Empfehlungen direkt an den Vorstand. Der Vorstand beschließt, welche Maßnahmen auf Grund der Feststellungen der Revisionsberichte zu ergreifen sind und stellt die Umsetzung dieser Maßnahmen sicher.
 
-
-## § 31 – Versicherungsmathematische Funktion
+# § 31 – Versicherungsmathematische Funktion
 
 (1) Versicherungsunternehmen müssen über eine wirksame versicherungsmathematische Funktion verfügen. Die Aufgabe dieser Funktion ist es, in Bezug auf die Berechnung der versicherungstechnischen Rückstellungen
 
@@ -989,8 +952,7 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (3) Wer die versicherungsmathematische Funktion ausübt, muss über Kenntnisse der Versicherungs- und der Finanzmathematik verfügen, die der Art, dem Umfang und der Komplexität der Risiken des Versicherungsunternehmens angemessen sind, und einschlägige Erfahrungen mit den maßgeblichen fachlichen und sonstigen Standards darlegen können.
 
-
-## § 32 – Ausgliederung
+# § 32 – Ausgliederung
 
 (1) Ein Versicherungsunternehmen, das Funktionen oder Versicherungstätigkeiten ausgliedert, bleibt für die Erfüllung aller aufsichtsrechtlichen Vorschriften und Anforderungen verantwortlich.
 
@@ -1006,22 +968,19 @@ Die Versicherungsunternehmen übermitteln die in Satz 1 genannten Bewertungen de
 
 (4) Das ausgliedernde Versicherungsunternehmen hat sich die erforderlichen Auskunfts- und Weisungsrechte vertraglich zu sichern und die ausgegliederten Funktionen und Versicherungstätigkeiten in sein Risikomanagement einzubeziehen. Ein Weisungsrecht ist dann nicht erforderlich, wenn im Rahmen einer steuerlichen Organschaft Funktionen auf eine Muttergesellschaft ausgegliedert werden und diese sich für die Wahrnehmung der Funktionen oder Versicherungstätigkeiten vertraglich den gleichen aufsichtsrechtlichen Anforderungen unterwirft, die für das ausgliedernde Unternehmen gelten.
 
-
-## § 33 – Entsprechende Anwendung gesellschaftsrechtlicher Vorschriften
+# § 33 – Entsprechende Anwendung gesellschaftsrechtlicher Vorschriften
 
 (1) § 188 Absatz 1 Satz 1 und § 195 Absatz 3 sind entsprechend auch für Versicherungsaktiengesellschaften anzuwenden.
 
 (2) Soweit in diesem Gesetz Vorschriften für den Vorstand oder den Aufsichtsrat getroffen sind und öffentlich-rechtliche Versicherungsunternehmen Organe mit dieser Bezeichnung nicht besitzen, tritt an die Stelle des Vorstands das entsprechende Geschäftsführungsorgan und an die Stelle des Aufsichtsrats das entsprechende Überwachungsorgan. Für das Geschäftsführungsorgan öffentlich-rechtlicher Versicherungsunternehmen gelten die §§ 80 und 91 Absatz 2 des Aktiengesetzes entsprechend. Für das Überwachungsorgan öffentlich-rechtlicher Versicherungsunternehmen gilt § 80 des Aktiengesetzes entsprechend.
 
-
-## § 34 – Verordnungsermächtigung
+# § 34 – Verordnungsermächtigung
 
 (1) Für Versicherungsunternehmen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, kann das Bundesministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen über den Inhalt der allgemeinen Sanierungspläne nach § 26 Absatz 1 erlassen. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Vor dem Erlass ist der Versicherungsbeirat zu hören. Die Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung nähere Einzelheiten festzulegen zur Ausgestaltung, Überwachung, Weiterentwicklung und Transparenz der Vergütungssysteme im Sinne des § 25, einschließlich der Entscheidungsprozesse und Verantwortlichkeiten, der Zusammensetzung der Vergütung, der positiven und negativen Vergütungsparameter, der Leistungszeiträume und der Offenlegung der Ausgestaltung der Vergütungssysteme und der gezahlten Vergütungen, des Offenlegungsmediums und der Häufigkeit der Offenlegung sowie zur Zulässigkeit sonstiger Vergütungen im Sinne des § 25 Absatz 2. Die Regelungen haben sich insbesondere an Größe und Vergütungsstruktur des Unternehmens sowie Art, Umfang, Komplexität, Risikogehalt und Internationalität der Geschäftsaktivitäten insgesamt zu orientieren. Bei Unternehmen, die einer Versicherungsgruppe angehören, haben sich die Regelungen zusätzlich an der Größe der Gruppe sowie an Art, Umfang, Komplexität, Risikogehalt und Internationalität der Geschäftsaktivitäten der Gruppe zu orientieren. Im Rahmen der Bestimmungen nach Satz 1 müssen die auf Offenlegung der Vergütung bezogenen handelsrechtlichen Bestimmungen nach § 341a Absatz 1 und 2 in Verbindung mit § 341l Absatz 1 Satz 1 des Handelsgesetzbuchs unberührt bleiben. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 bis 5 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 35 – Pflichten des Abschlussprüfers
+# § 35 – Pflichten des Abschlussprüfers
 
 (1) Bei der Prüfung des Jahresabschlusses hat der Prüfer festzustellen, ob das Versicherungsunternehmen folgende Anzeigepflichten und Anforderungen erfüllt hat:
 
@@ -1065,8 +1024,7 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 
 (+++ § 35 Abs. 1 Satz 1 Nr. 5, 6 u. 7: Zur Anwendung vgl. § 356 +++)
 
-
-## § 36 – Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
+# § 36 – Anzeige des Abschlussprüfers gegenüber der Aufsichtsbehörde; Prüfungsauftrag
 
 (1) Der Vorstand hat der Aufsichtsbehörde unverzüglich den vom Aufsichtsrat bestimmten Abschlussprüfer anzuzeigen. Die Aufsichtsbehörde kann, wenn sie gegen den Abschlussprüfer des Jahresabschlusses Bedenken hat, verlangen, dass innerhalb einer angemessenen Frist ein anderer Abschlussprüfer bestimmt wird. Unterbleibt das oder hat die Aufsichtsbehörde auch gegen den neuen Abschlussprüfer Bedenken, so hat sie den Abschlussprüfer selbst zu bestimmen. In diesem Fall gilt § 318 Absatz 1 Satz 4 des Handelsgesetzbuchs mit der Maßgabe, dass die gesetzlichen Vertreter den Prüfungsauftrag unverzüglich dem von der Aufsichtsbehörde bestimmten Prüfer zu erteilen haben.
 
@@ -1074,8 +1032,7 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 
 (+++ § 36 Abs. 2: Zur Anwendung vgl. § 234 Abs. 2 Satz 1 u. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 37 – Vorlage bei der Aufsichtsbehörde
+# § 37 – Vorlage bei der Aufsichtsbehörde
 
 (1) Versicherungsunternehmen haben den von den gesetzlichen Vertretern aufgestellten sowie später den festgestellten Jahresabschluss und den Lagebericht der Aufsichtsbehörde jeweils unverzüglich einzureichen. Versicherungsunternehmen, die einen Konzernabschluss oder einen Konzernlagebericht aufstellen, haben diese Unterlagen der Aufsichtsbehörde unverzüglich einzureichen.
 
@@ -1089,15 +1046,13 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 
 (6) Absatz 4 gilt nicht für die in § 36 Absatz 2 genannten Unternehmen.
 
-
-## § 38 – Rechnungslegung und Prüfung öffentlich-rechtlicher Versicherungsunternehmen
+# § 38 – Rechnungslegung und Prüfung öffentlich-rechtlicher Versicherungsunternehmen
 
 (1) Die Vorschriften des Zweiten Unterabschnitts des Vierten Abschnitts in Verbindung mit den Vorschriften des Ersten und Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs gelten für öffentlich-rechtliche Unternehmen, die den Betrieb von Versicherungsgeschäften zum Gegenstand haben und nicht Träger der Sozialversicherung sind, entsprechend.
 
 (2) Die §§ 36 und 37 gelten nicht für nach Landesrecht errichtete und der Landesaufsicht unterliegende öffentlich-rechtliche Versicherungsunternehmen, für die zur Prüfung ihrer Jahresabschlüsse nach § 341k des Handelsgesetzbuchs zusätzliche landesrechtliche Vorschriften bestehen.
 
-
-## § 39 – Verordnungsermächtigung
+# § 39 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für Versicherungsunternehmen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, durch Rechtsverordnung Vorschriften zu erlassen über
 
@@ -1107,8 +1062,7 @@ Satz 1 ist entsprechend anzuwenden für Tatsachen und Entscheidungen, von denen 
 
 3. den Inhalt, die Form und die Frist der Prüfungsberichte nach § 35 Absatz 1 und 2 sowie § 341k des Handelsgesetzbuchs, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist, insbesondere, um einheitliche Unterlagen zur Beurteilung der von den Versicherungsunternehmen durchgeführten Versicherungsgeschäfte zu erhalten;
 
-3a.  
-den Zeitpunkt der Prüfung nach § 35 Absatz 5 sowie den Inhalt, die Form und die Frist des Berichts über diese Prüfung, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist;
+3a. den Zeitpunkt der Prüfung nach § 35 Absatz 5 sowie den Inhalt, die Form und die Frist des Berichts über diese Prüfung, soweit dies zur Erfüllung der Aufgaben der Bundesanstalt erforderlich ist;
 
 4. die Prüfung des Jahresabschlusses und des Lageberichts von Versicherungsunternehmen, auf die § 341k des Handelsgesetzbuchs nicht anwendbar ist, durch einen unabhängigen Sachverständigen sowie über den Inhalt und die Frist für die Einreichung eines Sachverständigenberichts, soweit dies zur Durchführung der Aufsicht nach diesem Gesetz erforderlich ist;
 
@@ -1122,8 +1076,7 @@ Vor dem Erlass ist der Versicherungsbeirat zu hören. Die Ermächtigung kann dur
 
 (2) Für Versicherungsunternehmen, die der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, können die Landesregierungen im Benehmen mit der Bundesanstalt durch Rechtsverordnung Vorschriften nach Absatz 1 erlassen. Sie können diese Befugnis durch Rechtsverordnung der Aufsichtsbehörde des Landes übertragen.
 
-
-## § 40 – Solvabilitäts- und Finanzbericht
+# § 40 – Solvabilitäts- und Finanzbericht
 
 (1) Versicherungsunternehmen haben mindestens einmal jährlich, spätestens 14 Wochen nach Ende des Geschäftsjahres, einen Solvabilitäts- und Finanzbericht zu veröffentlichen. Für den Bericht auf Gruppenebene verlängert sich die Frist um sechs Wochen. Der Bericht ist vor der Veröffentlichung von dem Geschäftsführungsorgan zu genehmigen. Der Bericht ist nach der Veröffentlichung unverzüglich der Aufsichtsbehörde zu übersenden.
 
@@ -1169,8 +1122,7 @@ Versicherungsunternehmen, die ein internes oder partielles internes Modell für 
 
 (+++ § 40: Zur Anwendung vgl. § 277 Abs. 1 Satz 2 +++)
 
-
-## § 41 – Nichtveröffentlichung von Informationen
+# § 41 – Nichtveröffentlichung von Informationen
 
 (1) Mit Genehmigung der Aufsichtsbehörde kann auf Angaben im Solvabilitäts- und Finanzbericht verzichtet werden; dies gilt nicht für Angaben gemäß § 40 Absatz 2 Satz 3 Nummer 5, Absatz 4 Satz 2 und Absatz 5. In diesem Fall ist im Solvabilitäts- und Finanzbericht darzulegen, weshalb die Angaben nicht aufgenommen worden sind.
 
@@ -1182,8 +1134,7 @@ Versicherungsunternehmen, die ein internes oder partielles internes Modell für 
 
 (+++ § 41: Zur Anwendung vgl. § 277 Abs. 1 Satz 2 +++)
 
-
-## § 42 – Aktualisierung des Solvabilitäts- und Finanzberichts
+# § 42 – Aktualisierung des Solvabilitäts- und Finanzberichts
 
 (1) Verändert eine wichtige Entwicklung die Bedeutung der im Solvabilitäts- und Finanzbericht veröffentlichten Informationen erheblich, veröffentlicht das betroffene Versicherungsunternehmen angemessene Angaben über Art und Auswirkungen der wichtigen Entwicklung. Eine wichtige Entwicklung liegt insbesondere vor, wenn
 
@@ -1203,15 +1154,13 @@ In der Veröffentlichung ist anzugeben, welche Abhilfemaßnahmen bereits ergriff
 
 (+++ § 42: Zur Anwendung vgl. § 277 Abs. 1 Satz 2 +++)
 
-
-## § 43 – Informationspflichten; Berechnungen
+# § 43 – Informationspflichten; Berechnungen
 
 (1) Versicherungsunternehmen haben den Aufsichtsbehörden nach Maßgabe dieses Gesetzes diejenigen Informationen zu übermitteln, die sie zur Erfüllung ihrer Aufgaben nach diesem Gesetz (§ 294 Absatz 1) benötigen.
 
 (2) Die Informationen müssen vollständig, aktuell und genau sein. Sie müssen der Art, dem Umfang und der Komplexität der Geschäftstätigkeit des betreffenden Unternehmens und insbesondere den mit dieser Geschäftstätigkeit einhergehenden Risiken Rechnung tragen. Die Unternehmen haben die Informationen fristgerecht und in verständlicher Form bei der Aufsichtsbehörde einzureichen.
 
-
-## § 43a – Berichtspflichten zum Zwecke der Finanzstabilität; Verordnungsermächtigung
+# § 43a – Berichtspflichten zum Zwecke der Finanzstabilität; Verordnungsermächtigung
 
 (1) Die Aufsichtsbehörde kann von beaufsichtigten Unternehmen und von beaufsichtigten Gruppen Informationen verlangen,
 
@@ -1221,8 +1170,7 @@ In der Veröffentlichung ist anzugeben, welche Abhilfemaßnahmen bereits ergriff
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, für beaufsichtigte Unternehmen und beaufsichtigte Gruppen, die jeweils nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, durch Rechtsverordnung Vorschriften zu erlassen, die Berichtspflichten nach Absatz 1 begründen und den Inhalt, die Form der zu übermittelnden Informationen sowie die Frist für die Einreichung bei der Bundesanstalt festlegen. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 44 – Prognoserechnungen
+# § 44 – Prognoserechnungen
 
 Die Aufsichtsbehörde kann von den beaufsichtigten Unternehmen die Durchführung von Berechnungen einschließlich Prognoserechnungen verlangen, soweit dies für die Finanzaufsicht erforderlich ist. Prognoserechnungen können insbesondere Folgendes betreffen:
 
@@ -1232,8 +1180,7 @@ Die Aufsichtsbehörde kann von den beaufsichtigten Unternehmen die Durchführung
 
 In diesem Fall bestimmt sie die Parameter, Stichtage und Berechnungsmethoden sowie Form und Frist, in der die Prognoserechnung vorzulegen ist. Die Aufsichtsbehörde gestattet den Versicherungsunternehmen die Verwendung eigener Berechnungsmethoden, soweit dies die Beurteilung des Unternehmens oder des Versicherungsmarktes insgesamt nicht erschwert. Sie kann verlangen, dass dabei bestimmte Rechnungsannahmen zugrunde gelegt werden.
 
-
-## § 45 – Befreiung von Berichtspflichten
+# § 45 – Befreiung von Berichtspflichten
 
 (1) Wenn Berichte auf Grund von delegierten Rechtsakten gemäß Artikel 35 Absatz 9 und technischen Durchführungsstandards gemäß Artikel 35 Absatz 10 der Richtlinie 2009/138/EG gegenüber der Aufsichtsbehörde häufiger als einmal pro Jahr zu erstatten sind, kann die Aufsichtsbehörde Versicherungsunternehmen ganz oder teilweise von dieser Berichtspflicht befreien, wenn
 
@@ -1281,15 +1228,13 @@ Eine Befreiung ist ausgeschlossen, wenn das Versicherungsunternehmen zu einer Gr
 
 10. ob es sich bei dem Unternehmen um ein firmeneigenes Versicherungsunternehmen handelt, das nur Risiken abdeckt, die mit dem Industrie- oder Handelskonzern verbunden sind, zu dem es gehört.
 
-
-## § 46 – Informationspflichten gegenüber der Bundesanstalt
+# § 46 – Informationspflichten gegenüber der Bundesanstalt
 
 (1) Alle Unternehmen, die nach diesem Gesetz der Aufsicht unterliegen, haben der Bundesanstalt die von ihr angeforderten Zählnachweise über ihren Geschäftsbetrieb einzureichen. Über die Art der Nachweise ist der Versicherungsbeirat zu hören.
 
 (2) Öffentlich-rechtliche Versicherungsunternehmen, die nicht der Aufsicht nach diesem Gesetz unterliegen, haben der Bundesanstalt auf Anforderung die gleichen statistischen Angaben über ihren Geschäftsbetrieb einzureichen wie Versicherungsunternehmen, die der Aufsicht nach diesem Gesetz unterliegen.
 
-
-## § 47 – Anzeigepflichten
+# § 47 – Anzeigepflichten
 
 Versicherungsunternehmen haben der Aufsichtsbehörde unverzüglich Folgendes anzuzeigen:
 
@@ -1319,8 +1264,7 @@ Versicherungsunternehmen haben der Aufsichtsbehörde unverzüglich Folgendes anz
 
 13. bei Pflichtversicherungen die beabsichtigte Verwendung neuer oder geänderter allgemeiner Versicherungsbedingungen unter deren Beifügung.
 
-
-## § 48 – Anforderungen an den Versicherungsvertrieb
+# § 48 – Anforderungen an den Versicherungsvertrieb
 
 (1) Versicherungsunternehmen sind verpflichtet, nur mit solchen gewerbsmäßig tätigen Versicherungsvermittlern zusammenzuarbeiten, die
 
@@ -1348,8 +1292,7 @@ dürfen die Versicherungsunternehmen nur zusammenarbeiten, wenn diese Versicheru
 
 (+++ § 48: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 3 +++)
 
-
-## § 48a – Vertriebsvergütung und Vermeidung von Interessenkonflikten
+# § 48a – Vertriebsvergütung und Vermeidung von Interessenkonflikten
 
 (1) Die Vertriebsvergütung von Versicherungsunternehmen und deren Angestellten darf nicht mit ihrer Pflicht, im bestmöglichen Interesse der Kunden zu handeln, kollidieren. Versicherungsunternehmen dürfen keine Vorkehrungen durch die Vertriebsvergütung, Verkaufsziele oder in anderer Weise treffen, durch die Anreize für sie selbst oder Versicherungsvermittler geschaffen werden könnten, einem Kunden ein bestimmtes Versicherungsprodukt zu empfehlen, obwohl sie ein anderes, den Bedürfnissen des Kunden besser entsprechendes Versicherungsprodukt anbieten könnten.
 
@@ -1367,8 +1310,7 @@ dürfen die Versicherungsunternehmen nur zusammenarbeiten, wenn diese Versicheru
 
 (6) Versicherungsunternehmen, die eine Gebühr oder Provision zahlen oder eine Gebühr oder Provision erhalten oder einer Partei einen nichtmonetären Vorteil im Zusammenhang mit dem Vertrieb eines Versicherungsanlageprodukts oder einer Nebendienstleistung gewähren oder einen solchen von einer Partei erhalten, sofern es sich bei dieser Partei nicht um einen Kunden oder eine Person handelt, die im Auftrag des Kunden tätig wird, müssen dafür Sorge tragen, dass die Gebühr oder Provision oder der Vorteil sich nicht nachteilig auf die Qualität der entsprechenden Dienstleistung für den Kunden auswirkt und nicht die Verpflichtung des Versicherungsunternehmens beeinträchtigt, im besten Interesse seiner Kunden ehrlich, redlich und professionell zu handeln.
 
-
-## § 48b – Sondervergütungs- und Provisionsabgabeverbot
+# § 48b – Sondervergütungs- und Provisionsabgabeverbot
 
 (1) Versicherungsunternehmen und Versicherungsvermittlern im Sinne von § 59 Absatz 1 des Versicherungsvertragsgesetzes ist es untersagt, Versicherungsnehmern, versicherten Personen oder Bezugsberechtigten aus einem Versicherungsvertrag Sondervergütungen zu gewähren oder zu versprechen. Dieses Verbot gilt auch für die Angestellten von Versicherungsunternehmen und Versicherungsvermittlern. Eine entgegenstehende vertragliche Vereinbarung ist unwirksam.
 
@@ -1386,8 +1328,7 @@ sofern sie nicht geringwertig ist. Als geringwertig gelten Belohnungen oder Gesc
 
 (4) Absatz 1 findet keine Anwendung, soweit die Sondervergütung zur dauerhaften Leistungserhöhung oder Prämienreduzierung des vermittelten Vertrags verwendet wird. § 138 Absatz 2, § 146 Absatz 2 Satz 1, § 161 Absatz 1 und § 177 Absatz 1 bleiben unberührt.
 
-
-## § 48c – Durchleitungsgebot
+# § 48c – Durchleitungsgebot
 
 (1) Sobald der Versicherungsberater das Versicherungsunternehmen nach § 34d Absatz 2 Satz 6 der Gewerbeordnung darüber informiert, dass er dem Versicherungsnehmer eine Versicherung vermittelt hat, die Zuwendungen enthält, die nicht dem Versicherungsvertrag zugutekommen (Bruttotarif), ist das Versicherungsunternehmen verpflichtet, diese Zuwendung unverzüglich an den Versicherungsnehmer auszukehren. Die Auskehrung hat im Wege der Gutschrift auf einem für den Versicherungsnehmer für den Vertrag zu führenden Prämienkonto zu erfolgen. Die Gutschrift beträgt höchstens 80 Prozent der maßgeblichen Zuwendung bis zum Gegenwert von 80 Prozent der in den ersten fünf Jahren nach Vertragsschluss zu entrichtenden Prämien. Das Guthaben des Prämienkontos ist ausschließlich zur Erfüllung der Pflicht des Versicherungsnehmers zur Prämienzahlung zu verwenden und in Höhe von 80 Prozent auf die Prämie anzurechnen, die für die jeweilige Versicherungsperiode zu leisten ist. Die Auskehrung kann abweichend von den Sätzen 2 bis 4 auch im Wege der Prämienreduzierung des vermittelten Vertrages nach Maßgabe des § 48b Absatz 4 erfolgen. Die Sätze 1 bis 5 gelten entsprechend, wenn der Versicherungsnehmer im Fall einer Beratung im Sinne des § 34d Absatz 2 Satz 2 Nummer 1 der Gewerbeordnung dem Versicherungsunternehmen vor dem Abschluss des Vertrags eine vom Versicherungsberater auszustellende Bescheinigung über eine Beratung über die Versicherung vorlegt. In der Bescheinigung ist der Tag der Beratung anzugeben. Zwischen dem Tag der Beratung und dem Tag des Antrags auf Abschluss des Versicherungsvertrags dürfen nicht mehr als sechs Monate verstrichen sein.
 
@@ -1395,15 +1336,13 @@ sofern sie nicht geringwertig ist. Als geringwertig gelten Belohnungen oder Gesc
 
 (3) Zuwendungen im Sinne dieser Vorschrift sind die Kosten für die Versicherungsvermittlung, insbesondere Provisionen, Gebühren oder sonstige Geldleistungen sowie alle geldwerten Vorteile, unabhängig vom Zeitpunkt ihrer Fälligkeit. Die Zuwendungen sind mit der Sorgfalt eines ordentlichen Kaufmanns zu schätzen. Soweit gesetzliche Regelungen kalkulatorische Vorgaben zur Berücksichtigung von Kosten des Vertriebs im Rahmen eines Versicherungsproduktes enthalten, können abweichend von den Sätzen 1 und 2 diese zugrunde gelegt werden.
 
-
-## § 49 – Stornohaftung
+# § 49 – Stornohaftung
 
 (1) Die Versicherungsunternehmen müssen sicherstellen, dass zumindest im Fall der Kündigung eines Vertrags durch den Versicherungsnehmer, wenn es sich nicht um eine Kündigung gemäß § 205 Absatz 2 des Versicherungsvertragsgesetzes handelt, oder im Fall des Ruhendstellens der Leistungen gemäß § 193 Absatz 6 Satz 4 des Versicherungsvertragsgesetzes oder einer Prämienfreistellung gemäß § 165 Absatz 1 des Versicherungsvertragsgesetzes in den ersten fünf Jahren nach Vertragsschluss der Versicherungsvermittler die für die Vermittlung eines Vertrags der substitutiven Krankenversicherung oder der Lebensversicherung angefallene Provision nur bis zur Höhe des Betrags einbehält, der bei gleichmäßiger Verteilung der Provision über die ersten fünf Jahre seit Vertragsschluss bis zum Zeitpunkt der Beendigung, des Ruhendstellens oder der Prämienfreistellung angefallen wäre. Ist die vereinbarte Prämienzahlungsdauer kürzer als fünf Jahre, so kann diese zugrunde gelegt werden.
 
 (2) Eine entgegenstehende vertragliche Vereinbarung zwischen dem Versicherungsunternehmen und dem Versicherungsvermittler ist unwirksam.
 
-
-## § 50 – Entgelt bei der Vermittlung substitutiver Krankenversicherungsverträge
+# § 50 – Entgelt bei der Vermittlung substitutiver Krankenversicherungsverträge
 
 (1) Die Versicherungsunternehmen dürfen Versicherungsvermittlern für den Abschluss von substitutiven Krankenversicherungen in einem Geschäftsjahr keine Abschlussprovisionen oder sonstigen Vergütungen gewähren, die insgesamt 3 Prozent der Bruttobeitragssumme des Neuzugangs übersteigen. Die Bruttobeitragssumme entspricht der über 25 Jahre hochgerechneten Erstprämie ohne den Zuschlag gemäß § 149. Die in einem Geschäftsjahr für den Abschluss von substitutiven Krankenversicherungen an einen einzelnen Versicherungsvermittler gewährten Zahlungen und sonstigen geldwerten Vorteile dürfen 3,3 Prozent der Bruttobeitragssumme des von ihm vermittelten Geschäfts nicht übersteigen. Die im Einzelfall für den Abschluss gewährte Abschlussprovision und eine sonstige Vergütung dürfen zusammen 3,3 Prozent der Bruttobeitragssumme des vermittelten Vertrags nicht übersteigen.
 
@@ -1411,22 +1350,19 @@ sofern sie nicht geringwertig ist. Als geringwertig gelten Belohnungen oder Gesc
 
 (3) Eine den Vorgaben des Absatzes 1 Satz 2 bis 4 oder des Absatzes 2 entgegenstehende Vereinbarung zwischen dem Versicherungsunternehmen und dem Versicherungsvermittler ist unwirksam.
 
-
-## § 51 – Beschwerden über Versicherungsvermittler
+# § 51 – Beschwerden über Versicherungsvermittler
 
 Versicherungsunternehmen müssen Beschwerden von Kunden über Versicherungsvermittler oder andere Versicherungsunternehmen, die ihre Versicherungen vermitteln, beantworten. Das Recht zur Beschwerde steht auch Verbraucherschutzverbänden zu. Bei wiederholten Beschwerden, die für die Beurteilung der Zuverlässigkeit erheblich sein können, müssen sie die für die Erlaubniserteilung nach § 34d Absatz 1 Satz 1 der Gewerbeordnung zuständige Behörde davon in Kenntnis setzen.
 
 (+++ § 51: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 3 +++)
 
-
-## § 52 – Verpflichtete Unternehmen
+# § 52 – Verpflichtete Unternehmen
 
 Die Vorschriften dieses Abschnitts gelten für alle Versicherungsunternehmen im Sinne von § 2 Absatz 1 Nummer 7 des Geldwäschegesetzes.
 
 (+++ § 52: Zur Anwendung vgl. § 234 Abs. 2 Satz 6 u. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 53 – Interne Sicherungsmaßnahmen
+# § 53 – Interne Sicherungsmaßnahmen
 
 (1) Die verpflichteten Unternehmen dürfen im Einzelfall einander Informationen übermitteln, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass der Empfänger der Informationen diese für die Beurteilung der Frage benötigt, ob ein Sachverhalt nach § 43 Absatz 1 des Geldwäschegesetzes der Zentralstelle für Finanztransaktionsuntersuchungen zu melden oder eine Strafanzeige nach § 158 der Strafprozessordnung zu erstatten ist. Der Empfänger darf die Informationen ausschließlich verwenden, um Geldwäsche, Terrorismusfinanzierung oder sonstige strafbare Handlungen zu verhindern oder nach § 158 der Strafprozessordnung anzuzeigen. Er darf die Informationen nur unter den durch das übermittelnde Versicherungsunternehmen vorgegebenen Bedingungen verwenden.
 
@@ -1435,8 +1371,7 @@ Die Vorschriften dieses Abschnitts gelten für alle Versicherungsunternehmen im 
 (+++ § 53: Zur Anwendung vgl. § 234 Abs. 2 Satz 6 u. § 237 Abs. 1 Satz 2 +++)  
 (+++ § 53 Abs. 1 bis 3: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 4 +++)
 
-
-## § 54 – Allgemeine Sorgfaltspflichten in Bezug auf den Bezugsberechtigten
+# § 54 – Allgemeine Sorgfaltspflichten in Bezug auf den Bezugsberechtigten
 
 (1) Ein verpflichtetes Unternehmen ist unbeschadet des § 10 Absatz 1 Nummer 2 des Geldwäschegesetzes bei Begründung der Geschäftsbeziehung auch zur Feststellung der Identität eines vom Versicherungsnehmer abweichenden Bezugsberechtigten aus dem Versicherungsvertrag nach Maßgabe des § 11 Absatz 5 des Geldwäschegesetzes verpflichtet. Soweit Bezugsberechtigte nach Merkmalen oder nach Kategorien oder auf andere Weise bestimmt werden, holt das verpflichtete Unternehmen ausreichende Informationen über diese ein, um sicherzustellen, dass es zum Zeitpunkt der Auszahlung in der Lage sein wird, ihre Identität festzustellen und zu überprüfen. Handelt es sich bei dem Versicherungsnehmer oder bei einem vom Versicherungsnehmer abweichenden Bezugsberechtigten um eine juristische Person oder um eine Personenvereinigung, so haben die verpflichteten Unternehmen gegebenenfalls auch deren wirtschaftlich Berechtigten nach Maßgabe des § 11 Absatz 5 des Geldwäschegesetzes zu identifizieren.
 
@@ -1446,8 +1381,7 @@ Die Vorschriften dieses Abschnitts gelten für alle Versicherungsunternehmen im 
 
 (+++ § 54: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 4, § 234 Abs. 2 Satz 6 u. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 55 – Verstärkte Sorgfaltspflichten
+# § 55 – Verstärkte Sorgfaltspflichten
 
 Handelt es sich bei einem vom Vertragspartner abweichenden Bezugsberechtigten oder, sofern vorhanden, um den wirtschaftlich Berechtigten des Bezugsberechtigten, um eine politisch exponierte Person, um deren Familienangehörigen oder um eine ihr bekanntermaßen nahestehende Person nach § 1 Absatz 12, 13 oder 14 des Geldwäschegesetzes, haben die verpflichteten Unternehmen, wenn sie ein höheres Risiko der Geldwäsche oder der Terrorismusfinanzierung feststellen, über die in § 15 Absatz 4 des Geldwäschegesetzes genannten Pflichten hinaus zusätzlich
 
@@ -1459,11 +1393,9 @@ Handelt es sich bei einem vom Vertragspartner abweichenden Bezugsberechtigten od
 
 (+++ § 55: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 4, § 234 Abs. 2 Satz 6 u. § 237 Abs. 1 Satz 2 +++)
 
+# § 56 – (weggefallen)
 
-## § 56 – (weggefallen)
-
-
-## § 57 – Versicherungsgeschäfte über Niederlassungen oder im Dienstleistungsverkehr
+# § 57 – Versicherungsgeschäfte über Niederlassungen oder im Dienstleistungsverkehr
 
 (1) Erstversicherungsunternehmen dürfen nach Maßgabe der §§ 58 und 59 das Versicherungsgeschäft in den anderen Mitglied- oder Vertragsstaaten über Niederlassungen oder im Dienstleistungsverkehr betreiben.
 
@@ -1483,8 +1415,7 @@ a) wenn der Versicherungsnehmer eine natürliche Person ist, der Mitglied- oder 
 
 b) wenn der Versicherungsnehmer keine natürliche Person ist, der Mitglied- oder Vertragsstaat, in dem sich das Unternehmen, die Betriebsstätte oder die entsprechende Einrichtung befindet, auf die sich der Vertrag bezieht.
 
-
-## § 58 – Errichtung einer Niederlassung
+# § 58 – Errichtung einer Niederlassung
 
 (1) Erstversicherungsunternehmen haben der Aufsichtsbehörde die beabsichtigte Errichtung einer Niederlassung unter Angabe des betreffenden Mitglied- oder Vertragsstaats anzuzeigen. Die Anzeige muss enthalten:
 
@@ -1512,8 +1443,7 @@ und benachrichtigt hierüber das Unternehmen. Anderenfalls teilt sie dem Unterne
 
 (+++ § 58 Abs. 2 Satz 4: Zur Anwendung vgl. § 63 Abs. 4 +++)
 
-
-## § 59 – Aufnahme des Dienstleistungsverkehrs
+# § 59 – Aufnahme des Dienstleistungsverkehrs
 
 (1) Erstversicherungsunternehmen haben der Aufsichtsbehörde die beabsichtigte Aufnahme des Dienstleistungsverkehrs unter Angabe des betreffenden Mitglied- oder Vertragsstaats anzuzeigen. Zugleich ist anzugeben, welche Versicherungssparten dort betrieben und welche Risiken einer Versicherungssparte gedeckt werden sollen; sofern die Krankenversicherung im Sinne des Artikels 206 Absatz 2 der Richtlinie 2009/138/EG betrieben werden soll, sind zusätzlich die dem § 9 Absatz 4 Nummer 5 entsprechenden Angaben zu machen. Bei Deckung der in der Anlage 1 Nummer 10 Buchstabe a genannten Risiken hat die Anzeige außerdem Folgendes zu enthalten:
 
@@ -1545,8 +1475,7 @@ und benachrichtigt hierüber das Unternehmen. Anderenfalls teilt sie dem Unterne
 
 (+++ § 59 Abs. 2 Satz 5: Zur Anwendung vgl. § 63 Abs. 4 +++)
 
-
-## § 60 – Statistische Angaben über grenzüberschreitende Tätigkeiten
+# § 60 – Statistische Angaben über grenzüberschreitende Tätigkeiten
 
 (1) Jedes Erstversicherungsunternehmen muss der Aufsichtsbehörde für im Rahmen der Niederlassungsfreiheit getätigte Geschäfte und getrennt davon für im Rahmen der Dienstleistungsfreiheit getätigte Geschäfte
 
@@ -1560,8 +1489,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (2) Die Aufsichtsbehörde teilt den Aufsichtsbehörden jedes betroffenen Mitgliedstaats auf Antrag innerhalb einer angemessenen Frist die in Absatz 1 genannten Angaben zusammengefasst mit.
 
-
-## § 61 – Geschäftstätigkeit durch eine Niederlassung oder im Dienstleistungsverkehr
+# § 61 – Geschäftstätigkeit durch eine Niederlassung oder im Dienstleistungsverkehr
 
 (1) Erstversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat mit Ausnahme der in den §§ 65 und 66 genannten Unternehmen dürfen das Versicherungsgeschäft im Inland durch eine Niederlassung oder im Dienstleistungsverkehr nur nach Maßgabe der Absätze 2 bis 4 betreiben. § 57 Absatz 2 und 3 gilt sinngemäß.
 
@@ -1573,8 +1501,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (5) Die Bundesanstalt unterrichtet die Aufsichtsbehörden der anderen Mitglied- oder Vertragsstaaten fortlaufend über solche Rechtsvorschriften, die Versicherungsunternehmen mit Sitz in diesen Staaten bei Ausübung einer Geschäftstätigkeit nach Absatz 1 zu beachten haben und deren Befolgung in Wahrnehmung der Aufsicht mit Ausnahme der Finanzaufsicht überwacht wird. Vorschriften, die nicht gemäß Satz 1 bekannt gegeben wurden, teilt die Bundesanstalt innerhalb von zwei Monaten nach Zugang der in Absatz 2 oder 3 bezeichneten Angaben den Aufsichtsbehörden der Herkunftsstaaten mit.
 
-
-## § 62 – Beaufsichtigung der Geschäftstätigkeit
+# § 62 – Beaufsichtigung der Geschäftstätigkeit
 
 (1) Die Finanzaufsicht über die Geschäftstätigkeit im Sinne des § 61 obliegt allein der Aufsichtsbehörde des Herkunftsstaats, die Aufsicht im Übrigen auch der Bundesanstalt. Für die Aufsicht der Bundesanstalt nach Satz 1 sind neben § 61 Absatz 1 und 2 entsprechend anzuwenden:
 
@@ -1598,8 +1525,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (4) Verliert ein nach § 61 Absatz 1 tätiges Unternehmen die Erlaubnis zum Geschäftsbetrieb, so trifft die Bundesanstalt nach Unterrichtung durch die Aufsichtsbehörde des Herkunftsstaats die zur Unterbindung der weiteren inländischen Geschäftstätigkeit geeigneten und erforderlichen Maßnahmen.
 
-
-## § 63 – Bestandsübertragungen
+# § 63 – Bestandsübertragungen
 
 (1) Ein Vertrag, durch den ein Erstversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat ganz oder teilweise einen Bestand an Versicherungsverträgen, die es gemäß § 61 Absatz 1 durch eine Niederlassung oder im Dienstleistungsverkehr abgeschlossen hat, auf ein Unternehmen mit Sitz in einem Mitglied- oder Vertragsstaat übertragen will, bedarf zur Genehmigung durch die für das übertragende Unternehmen zuständige Aufsichtsbehörde des Herkunftsstaats der Zustimmung der Bundesanstalt. Die Zustimmung ist zu erteilen, wenn die Belange der Versicherten gewahrt sind und die Verpflichtungen aus den Versicherungen als dauernd erfüllbar dargetan sind; § 13 Absatz 4, 5 und 7 Satz 1 ist entsprechend anzuwenden.
 
@@ -1609,15 +1535,13 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (4) Fordert die gemäß Absatz 1 Satz 1 für die Genehmigung zuständige Aufsichtsbehörde von der Bundesanstalt die in § 13 Absatz 2 Satz 2 Nummer 1 genannte Bescheinigung an, sind § 58 Absatz 2 Satz 4 und § 59 Absatz 2 Satz 5 entsprechend anzuwenden.
 
-
-## § 64 – Bei Lloyd´s vereinigte Einzelversicherer
+# § 64 – Bei Lloyd´s vereinigte Einzelversicherer
 
 (1) Die bei Lloyd´s vereinigten Einzelversicherer dürfen eine Geschäftstätigkeit nur ausüben, wenn die Vereinigung im Namen der Einzelversicherer für den Fall der Zwangsvollstreckung in deren im Inland belegene Vermögenswerte darauf verzichtet, Rechte daraus herzuleiten, dass die Zwangsvollstreckung auch in Vermögenswerte von Einzelversicherern erfolgt, gegen die der Titel nicht wirkt; die Verzichtserklärung muss bis zur vollständigen Abwicklung der im Inland abgeschlossenen Versicherungsverträge unwiderruflich sein.
 
 (2) Ansprüche aus dem im Inland über eine Niederlassung betriebenen Versicherungsgeschäft der bei Lloyd´s vereinigten Einzelversicherer können nur durch und gegen den Hauptbevollmächtigten gerichtlich geltend gemacht werden. Ein gemäß Satz 1 erzielter Titel wirkt für und gegen die an dem Versicherungsgeschäft beteiligten Einzelversicherer. § 727 der Zivilprozessordnung ist entsprechend anzuwenden. Aus einem gegen den Hauptbevollmächtigten erzielten Titel kann in die von ihm verwalteten, im Inland belegenen Vermögenswerte aller in der Vereinigung zusammengeschlossenen Einzelversicherer vollstreckt werden.
 
-
-## § 65 – Niederlassung
+# § 65 – Niederlassung
 
 (1) Versicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat, auf die die Richtlinie 2009/138/EG keine Anwendung findet und die das Versicherungsgeschäft durch eine Niederlassung betreiben wollen, bedürfen der Erlaubnis. Über den Antrag entscheidet die Bundesanstalt.
 
@@ -1633,8 +1557,7 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (3) Die Absätze 1 und 2 gelten auch, wenn der Betrieb im Dienstleistungsverkehr erfolgen soll; die in Absatz 2 genannten Vorschriften gelten jedoch insoweit nicht entsprechend, als sie eine Niederlassung voraussetzen.
 
-
-## § 66 – Dienstleistungsverkehr; Mitversicherung
+# § 66 – Dienstleistungsverkehr; Mitversicherung
 
 (1) Erstversicherungsunternehmen, die im Dienstleistungsverkehr ausschließlich die in der Anlage 1 Nummer 4 bis 7 und 12 genannten Versicherungssparten sowie die dort in Nummer 10 Buchstabe b genannte Risikoart betreiben, unterliegen nicht den Vorschriften dieses Gesetzes.
 
@@ -1650,15 +1573,13 @@ ohne Abzug der Rückversicherung sowie nach Mitgliedstaaten aufgeschlüsselt mit
 
 (5) Unter den Voraussetzungen des Absatzes 4 Nummer 1 kann die Bundesanstalt entsprechende Freistellungen auch im Einzelfall durch Verwaltungsakt gewähren.
 
-
-## § 66a – Entsprechende Anwendung des EU-Passregimes
+# § 66a – Entsprechende Anwendung des EU-Passregimes
 
 (1) Wird der Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union wirksam, ohne dass bis zu diesem Zeitpunkt ein Austrittsabkommen im Sinne von Artikel 50 Absatz 2 Satz 2 des Vertrages über die Europäische Union in Kraft getreten ist, so kann die Bundesanstalt zum Schutz der Versicherungsnehmer und der Begünstigten von Versicherungsleistungen anordnen, dass die §§ 61 bis 66 und 169 für einen Übergangszeitraum für die Zwecke der Abwicklung der bis zum Austritt abgeschlossenen Versicherungsverträge auf Versicherungsunternehmen mit Sitz im Vereinigten Königreich Großbritannien und Nordirland, die zum Zeitpunkt des Austritts des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union nach § 61 Absatz 1 Satz 1 und § 169 Absatz 1 Satz 1 über eine Niederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig waren, entsprechend anzuwenden sind. Der im Zeitpunkt des Austritts beginnende Übergangszeitraum darf eine Dauer von 21 Monaten nicht überschreiten. Die Anordnung kann auch durch Allgemeinverfügung ohne vorherige Anhörung getroffen und öffentlich bekannt gegeben werden.
 
 (2) Absatz 1 ist auf Einrichtungen der betrieblichen Altersversorgung mit Sitz im Vereinigten Königreich Großbritannien und Nordirland, die zum Zeitpunkt des Austritts des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union nach § 243 grenzüberschreitend im Inland tätig sind, mit der Maßgabe anzuwenden, dass die §§ 243 und 243a anzuwenden sind.
 
-
-## § 67 – Erlaubnis; Spartentrennung
+# § 67 – Erlaubnis; Spartentrennung
 
 (1) Versicherungsunternehmen eines Drittstaats, die im Inland das Erst- oder Rückversicherungsgeschäft betreiben wollen, bedürfen zum Geschäftsbetrieb der Erlaubnis der Aufsichtsbehörde. Satz 1 gilt nicht für Versicherungsunternehmen eines Drittstaats, die von ihrem Sitz aus im Inland ausschließlich das Rückversicherungsgeschäft betreiben, wenn
 
@@ -1674,8 +1595,7 @@ Im Fall des Satzes 2 Nummer 1 werden Rückversicherungsverträge mit diesen Unte
 
 (4) Für Einrichtungen der betrieblichen Altersversorgung im Sinne des Artikels 6 Nummer 1 der Richtlinie (EU) 2016/2341, die ihren Sitz in einem Drittstaat haben, gelten die Vorschriften dieses Unterabschnitts entsprechend.
 
-
-## § 68 – Niederlassung; Hauptbevollmächtigter
+# § 68 – Niederlassung; Hauptbevollmächtigter
 
 (1) Die Unternehmen, für die § 67 Absatz 1 gilt, haben im Inland eine Niederlassung zu errichten und dort alle die Niederlassung betreffenden Geschäftsunterlagen zur Verfügung zu halten. Die Vorschriften der §§ 13d bis 13f des Handelsgesetzbuchs über die Zweigniederlassung sind entsprechend anzuwenden. Für die Geschäftstätigkeit der Niederlassung ist gesondert Rechnung zu legen. § 37, § 38 Absatz 1 und § 39 sowie § 43 Absatz 1 gelten mit der Maßgabe, dass
 
@@ -1690,8 +1610,7 @@ Im Fall des Satzes 2 Nummer 1 werden Rückversicherungsverträge mit diesen Unte
 (+++ § 68 Abs. 2: Zur Anwendung vgl. § 65 Abs. 2 Eingangssatz +++)  
 (+++ § 68 Abs. 2 Satz 4: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 2 +++)
 
-
-## § 69 – Antrag; Verfahren
+# § 69 – Antrag; Verfahren
 
 (1) Der Antrag nach § 67 ist bei der Bundesanstalt zu stellen. Mit dem Antrag sind einzureichen:
 
@@ -1719,8 +1638,7 @@ b) welche Versicherungssparten das Unternehmen zu betreiben befugt ist und welch
 
 (5) Absatz 2 Satz 5 und 6, Absatz 3 Nummer 3, Absatz 4, § 70 Absatz 1 Satz 1 Nummer 2 und § 71 Satz 1 Nummer 2 finden keine Anwendung bei inländischen Niederlassungen von Rückversicherungsunternehmen mit Sitz in einem Drittstaat.
 
-
-## § 70 – Erleichterungen für Unternehmen, die bereits in einem anderen Mitglied- oder Vertragsstaat zugelassen sind
+# § 70 – Erleichterungen für Unternehmen, die bereits in einem anderen Mitglied- oder Vertragsstaat zugelassen sind
 
 (1) Einem Unternehmen, das in einem anderen Mitglied- oder Vertragsstaat die Erlaubnis zum Geschäftsbetrieb erhalten oder beantragt hat, kann auf Antrag widerruflich genehmigt werden, dass
 
@@ -1736,8 +1654,7 @@ Die Erleichterungen können nur zusammen gewährt werden. Der Antrag ist bei den
 
 (+++ § 70 Abs. 1 Satz 1 Nr. 2: Zur Anwendung vgl. § 69 Abs. 5 +++)
 
-
-## § 71 – Widerruf der Erlaubnis
+# § 71 – Widerruf der Erlaubnis
 
 Die Bundesanstalt widerruft die Erlaubnis, wenn
 
@@ -1749,13 +1666,11 @@ Die Bundesanstalt widerruft die Erlaubnis, wenn
 
 (+++ § 71 Satz 1 Nr. 2: Zur Anwendung vgl. § 69 Abs. 5 +++)
 
-
-## § 72 – Versicherung inländischer Risiken
+# § 72 – Versicherung inländischer Risiken
 
 Erstversicherungsunternehmen eines Drittstaats, denen der Geschäftsbetrieb nach § 67 erlaubt worden ist, dürfen Versicherungsverträge mit Versicherungsnehmern, die ihren gewöhnlichen Aufenthalt im Inland haben, sowie Versicherungsverträge über dort belegene Grundstücke nur durch Bevollmächtigte abschließen, die im Inland wohnen.
 
-
-## § 73 – Bestandsübertragung
+# § 73 – Bestandsübertragung
 
 (1) Ein Vertrag, durch den der Versicherungsbestand einer inländischen Niederlassung im Sinne des § 68 Absatz 1 ganz oder teilweise übertragen wird auf
 
@@ -1777,8 +1692,7 @@ Für Erstversicherungsunternehmen gilt § 63 Absatz 4 entsprechend.
 
 (4) Wird der Versicherungsbestand einer inländischen Niederlassung auf die inländische Niederlassung eines Versicherungsunternehmens eines Drittstaats übertragen und wird die Kapitalausstattung der Niederlassung des letztgenannten Unternehmens von der Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats überwacht, so bleiben die von einer Niederlassung für den übertragenen Bestand gestellten Sicherheiten bestehen, sofern die für das übernehmende Unternehmen zuständige Aufsichtsbehörde nichts anderes bestimmt.
 
-
-## § 74 – Bewertung der Vermögenswerte und Verbindlichkeiten
+# § 74 – Bewertung der Vermögenswerte und Verbindlichkeiten
 
 (1) Versicherungsunternehmen haben nach Maßgabe der Absätze 2 und 3 sowie der §§ 75 bis 87 eine Gegenüberstellung von Aktiva und Passiva zum Zweck der Bestimmung der vorhandenen Eigenmittel zu erstellen (Solvabilitätsübersicht). Die Vorschriften dieses Gesetzes über Eigenmittel sowie die handelsrechtliche Verpflichtung zur Rechnungslegung bleiben unberührt.
 
@@ -1786,8 +1700,7 @@ Für Erstversicherungsunternehmen gilt § 63 Absatz 4 entsprechend.
 
 (3) Die Verbindlichkeiten werden mit dem Betrag bewertet, zu dem sie zwischen sachverständigen, vertragswilligen und voneinander unabhängigen Geschäftspartnern übertragen oder beglichen werden könnten. Eine Berichtigung der Bewertung, um die Bonität des Versicherungsunternehmens zu berücksichtigen, findet nicht statt.
 
-
-## § 75 – Allgemeine Vorschriften für die Bildung versicherungstechnischer Rückstellungen
+# § 75 – Allgemeine Vorschriften für die Bildung versicherungstechnischer Rückstellungen
 
 (1) In der Solvabilitätsübersicht sind für sämtliche Versicherungsverpflichtungen gegenüber Versicherungsnehmern und Anspruchsberechtigten versicherungstechnische Rückstellungen zu bilden. Diese sind auf vorsichtige, verlässliche und objektive Art und Weise zu berechnen.
 
@@ -1799,8 +1712,7 @@ Für Erstversicherungsunternehmen gilt § 63 Absatz 4 entsprechend.
 
 (5) Bei der Berechnung der versicherungstechnischen Rückstellungen sind die in § 74 Absatz 3 genannten Grundsätze zu beachten.
 
-
-## § 76 – Wert der versicherungstechnischen Rückstellungen
+# § 76 – Wert der versicherungstechnischen Rückstellungen
 
 (1) Der Wert der versicherungstechnischen Rückstellungen entspricht der Summe aus
 
@@ -1812,8 +1724,7 @@ Der beste Schätzwert und die Risikomarge sind getrennt zu berechnen.
 
 (2) Können künftige Zahlungsströme in Verbindung mit Versicherungsverpflichtungen mit Finanzinstrumenten, für die ein verlässlicher Marktwert zu ermitteln ist, verlässlich nachgebildet werden, so wird der Wert der mit diesen künftigen Zahlungsströmen verbundenen versicherungstechnischen Rückstellungen auf der Grundlage des Marktwerts dieser Finanzinstrumente bestimmt. Absatz 1 Satz 2 gilt in diesem Fall nicht.
 
-
-## § 77 – Bester Schätzwert
+# § 77 – Bester Schätzwert
 
 (1) Der beste Schätzwert entspricht dem wahrscheinlichkeitsgewichteten Durchschnitt künftiger Zahlungsströme unter Berücksichtigung des Zeitwerts des Geldes (erwarteter Barwert künftiger Zahlungsströme) und unter Verwendung der maßgeblichen risikofreien Zinskurve.
 
@@ -1825,22 +1736,19 @@ Der beste Schätzwert und die Risikomarge sind getrennt zu berechnen.
 
 (5) Bei Währungen und Binnenmärkten, für die die in Artikel 77e Absatz 1 Buchstabe c der Richtlinie 2009/138/EG genannte Anpassung nicht in den Durchführungsrechtsakten nach Artikel 77e Absatz 2 der Richtlinie 2009/138/EG enthalten ist, wird zur Berechnung des besten Schätzwerts keine Volatilitätsanpassung auf die maßgebliche risikofreie Zinskurve angewandt.
 
-
-## § 78 – Risikomarge
+# § 78 – Risikomarge
 
 (1) Die Risikomarge stellt sicher, dass der Wert der versicherungstechnischen Rückstellungen dem Betrag entspricht, den die Versicherungsunternehmen fordern würden, um die Versicherungsverpflichtungen übernehmen und erfüllen zu können.
 
 (2) Die Risikomarge wird unter Bestimmung der Kosten, die für die Bereitstellung eines Betrags an anrechnungsfähigen Eigenmitteln erforderlich sind, berechnet. Dieser Betrag hat der Solvabilitätskapitalanforderung zu entsprechen, die für die Bedeckung der Versicherungsverpflichtungen während deren Laufzeit erforderlich ist. Legt die Europäische Kommission gemäß Artikel 86 Buchstabe d der Richtlinie 2009/138/EG einen Kapitalkostensatz für die Bereitstellung an anrechnungsfähigen Eigenmitteln fest, so ist dieser zu verwenden.
 
-
-## § 79 – Allgemeine Grundsätze für die Berechnung der versicherungstechnischen Rückstellungen
+# § 79 – Allgemeine Grundsätze für die Berechnung der versicherungstechnischen Rückstellungen
 
 (1) Versicherungsunternehmen müssen über interne Prozesse und Verfahren verfügen, um die Genauigkeit, Vollständigkeit und Angemessenheit der bei der Berechnung der versicherungstechnischen Rückstellungen verwendeten Daten zu gewährleisten.
 
 (2) Wenn den Versicherungsunternehmen Daten von angemessener Qualität nicht in genügender Menge zur Verfügung stehen, um eine verlässliche versicherungsmathematische Methode auf eine Gruppe oder Untergruppe ihrer Versicherungsverpflichtungen oder auf einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften anzuwenden, können die Versicherungsunternehmen für die Berechnung des besten Schätzwerts geeignete Näherungswerte einschließlich Einzelfallanalysen verwenden.
 
-
-## § 80 – Matching-Anpassung an die maßgebliche risikofreie Zinskurve
+# § 80 – Matching-Anpassung an die maßgebliche risikofreie Zinskurve
 
 (1) Mit Genehmigung der Aufsichtsbehörde können Versicherungsunternehmen eine Matching-Anpassung an die maßgebliche risikofreie Zinskurve vornehmen, um den besten Schätzwert des Portfolios der Lebensversicherungs- oder Rückversicherungsverpflichtungen zu berechnen, einschließlich der Rentenversicherungen, die aus Nichtlebensversicherungs- oder Rückversicherungsverträgen stammen. Die Genehmigung wird erteilt, wenn folgende Voraussetzungen erfüllt sind:
 
@@ -1868,8 +1776,7 @@ Unbeschadet des Satzes 2 Nummer 8 können Versicherungsunternehmen Vermögenswer
 
 (3) Die Matching-Anpassung darf nicht auf Versicherungs- oder Rückversicherungsverpflichtungen angewandt werden, bei denen die maßgebliche risikofreie Zinskurve für die Berechnung des besten Schätzwerts dieser Verpflichtungen eine Volatilitätsanpassung nach § 82 oder eine Übergangsmaßnahme zu den risikofreien Zinssätzen gemäß § 351 enthält.
 
-
-## § 81 – Berechnung der Matching-Anpassung
+# § 81 – Berechnung der Matching-Anpassung
 
 Die Matching-Anpassung nach § 80 ist für jede Währung nach folgenden Grundsätzen zu berechnen:
 
@@ -1885,8 +1792,7 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 4. die Verwendung externer Ratings bei der Berechnung der Matching-Anpassung hat im Einklang mit den von der Europäischen Kommission gemäß Artikel 111 Absatz 1 Buchstabe n der Richtlinie 2009/138/EG erlassenen delegierten Rechtsakten zu stehen.
 
-
-## § 82 – Volatilitätsanpassung
+# § 82 – Volatilitätsanpassung
 
 (1) Versicherungsunternehmen können mit Genehmigung der Aufsichtsbehörde eine Volatilitätsanpassung der maßgeblichen risikofreien Zinskurve zur Berechnung des besten Schätzwerts nach § 77 vornehmen.
 
@@ -1894,8 +1800,7 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 (3) Abweichend von § 97 deckt die Solvabilitätskapitalanforderung nicht das Verlustrisiko für Basiseigenmittel aus Änderungen der Volatilitätsanpassung.
 
-
-## § 83 – Zu berücksichtigende technische Informationen
+# § 83 – Zu berücksichtigende technische Informationen
 
 (1) Wenn Durchführungsrechtsakte mit den in Artikel 77e Absatz 1 genannten technischen Informationen gemäß Artikel 77e Absatz 2 der Richtlinie 2009/138/EG von der Kommission erlassen werden, müssen die Versicherungsunternehmen diese technischen Informationen für die Berechnung des besten Schätzwerts nach § 77, der Matching-Anpassung nach § 80 und der Volatilitätsanpassung nach § 82 nutzen.
 
@@ -1903,8 +1808,7 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 (3) (weggefallen)
 
-
-## § 84 – Weitere Sachverhalte, die bei der Berechnung der versicherungstechnischen Rückstellungen zu berücksichtigen sind
+# § 84 – Weitere Sachverhalte, die bei der Berechnung der versicherungstechnischen Rückstellungen zu berücksichtigen sind
 
 (1) Bei der Berechnung der versicherungstechnischen Rückstellungen sind ferner die folgenden Sachverhalte zu berücksichtigen:
 
@@ -1916,8 +1820,7 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 (2) Bei Lebensversicherungen, bei nach Art der Lebensversicherung betriebenen Krankenversicherungen und bei Unfallversicherungen mit Prämienrückgewähr sind künftige Zahlungsströme an Versicherungsnehmer und Anspruchsberechtigte aus dem Teil der zum Bewertungsstichtag vorhandenen Rückstellung für Beitragsrückerstattung, der zum Ausgleich von Verlusten verwendet werden darf und nicht auf festgelegte Überschussanteile entfällt, nicht als erwartete Zahlungen im Sinne des Absatzes 1 Nummer 3 anzusehen.
 
-
-## § 85 – Finanzgarantien und vertragliche Optionen in den Versicherungsverträgen
+# § 85 – Finanzgarantien und vertragliche Optionen in den Versicherungsverträgen
 
 (1) Bei der Berechnung der versicherungstechnischen Rückstellungen ist der Wert der Finanzgarantien und sonstiger vertraglicher Optionen zu berücksichtigen, die Gegenstand der Versicherungsverträge sind.
 
@@ -1925,8 +1828,7 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 (3) Die Annahmen tragen entweder explizit oder implizit den Auswirkungen Rechnung, die künftige Veränderungen der Finanz- und Nichtfinanzbedingungen auf die Ausübung dieser Optionen haben könnten.
 
-
-## § 86 – Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften
+# § 86 – Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften
 
 (1) Die Berechnung der einforderbaren Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften erfolgt nach Maßgabe der §§ 75 bis 85.
 
@@ -1934,15 +1836,13 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 (3) Das Ergebnis dieser Berechnung ist anzupassen, um den im Fall des Ausfalls der Gegenpartei zu erwartenden Verlusten Rechnung zu tragen. Die Anpassung gründet sich auf eine Einschätzung der Ausfallwahrscheinlichkeit der Gegenpartei und des sich daraus ergebenden durchschnittlichen Verlusts.
 
-
-## § 87 – Vergleich mit Erfahrungsdaten
+# § 87 – Vergleich mit Erfahrungsdaten
 
 (1) Versicherungsunternehmen haben durch geeignete Prozesse und Verfahren sicherzustellen, dass die besten Schätzwerte und die Annahmen, die deren Berechnung zugrunde liegen, regelmäßig mit Erfahrungsdaten verglichen werden.
 
 (2) Zeigt der Vergleich eine systematische Abweichung zwischen den Berechnungen des besten Schätzwerts und den Erfahrungsdaten, hat das betreffende Unternehmen entsprechende Anpassungen der verwendeten versicherungsmathematischen Methoden oder der zugrunde liegenden Annahmen vorzunehmen.
 
-
-## § 88 – Befugnisse der Aufsichtsbehörde in Bezug auf versicherungstechnische Rückstellungen; Verordnungsermächtigung
+# § 88 – Befugnisse der Aufsichtsbehörde in Bezug auf versicherungstechnische Rückstellungen; Verordnungsermächtigung
 
 (1) Auf Verlangen der Aufsichtsbehörde haben ihr die Versicherungsunternehmen Folgendes nachzuweisen:
 
@@ -1966,8 +1866,7 @@ b) dem effektiven Jahreszinssatz, der als ein konstanter Abzinsungssatz berechne
 
 Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen aus den in § 162 genannten Versicherungen ist Satz 1 entsprechend anzuwenden. Die Ermächtigung kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 89 – Eigenmittel
+# § 89 – Eigenmittel
 
 (1) Versicherungsunternehmen haben stets über anrechnungsfähige Eigenmittel mindestens in Höhe der Solvabilitätskapitalanforderung zu verfügen. In Höhe der Mindestkapitalanforderung haben sie stets über anrechnungsfähige Basiseigenmittel zu verfügen. Anrechnungsfähig sind Eigenmittel, die den Anforderungen der §§ 94 und 95 entsprechen.
 
@@ -1991,8 +1890,7 @@ Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen
 
 (5) Sobald ein Bestandteil der ergänzenden Eigenmittel eingezahlt oder eingefordert wurde, ist er für die Zwecke der Solvabilitätsübersicht als Vermögenswert zu behandeln und zählt zu den Basiseigenmitteln.
 
-
-## § 90 – Genehmigung ergänzender Eigenmittel
+# § 90 – Genehmigung ergänzender Eigenmittel
 
 (1) Ergänzende Eigenmittel dürfen nur mit vorheriger Genehmigung der Aufsichtsbehörde angesetzt werden.
 
@@ -2008,8 +1906,7 @@ Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen
 
 3. etwaige Informationen über das Ergebnis bisheriger Einforderungen des Versicherungsunternehmens für derartige ergänzende Eigenmittel, soweit diese Informationen auf verlässliche Weise verwendet werden können, um das erwartete Ergebnis künftiger Einforderungen zu bewerten.
 
-
-## § 91 – Einstufung der Eigenmittelbestandteile
+# § 91 – Einstufung der Eigenmittelbestandteile
 
 (1) Die Versicherungsunternehmen haben ihre Eigenmittelbestandteile in drei Qualitätsklassen einzustufen.
 
@@ -2031,8 +1928,7 @@ Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen
 
 (5) Die Einstufung bedarf der Genehmigung durch die Aufsichtsbehörde. Das gilt nicht für Eigenmittelbestandteile, deren Einstufung in delegierten Rechtsakten der Europäischen Kommission bekannt gemacht wird.
 
-
-## § 92 – Kriterien der Einstufung
+# § 92 – Kriterien der Einstufung
 
 (1) Basiseigenmittel werden in die Qualitätsklasse 1 eingestuft, wenn sie die in § 91 Absatz 2 Nummer 1 und 2 genannten Merkmale unter zusätzlicher Berücksichtigung des § 91 Absatz 3 und 4 weitgehend aufweisen.
 
@@ -2042,8 +1938,7 @@ Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen
 
 (4) Alle sonstigen Basiseigenmittel und ergänzenden Eigenmittel, die nicht unter die Absätze 1 bis 3 fallen, werden in die Qualitätsklasse 3 eingestuft.
 
-
-## § 93 – Einstufung bestimmter Eigenmittelbestandteile
+# § 93 – Einstufung bestimmter Eigenmittelbestandteile
 
 (1) In die Qualitätsklasse 1 eingestuft wird der wahrscheinlichkeitsgewichtete Durchschnitt künftiger Zahlungsströme an Versicherungsnehmer und Anspruchsberechtigte unter Berücksichtigung des Zeitwerts des Geldes (erwarteter Barwert künftiger Zahlungsströme) und unter Verwendung der maßgeblichen risikofreien Zinskurve aus dem Teil der zum Bewertungsstichtag vorhandenen Rückstellung für Beitragsrückerstattung, der zur Deckung von Verlusten verwendet werden darf und nicht auf festgelegte Überschussanteile entfällt
 
@@ -2059,8 +1954,7 @@ Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen
 
 2. alle künftigen Forderungen, die von durch Reeder gegründeten Versicherungsvereinen auf Gegenseitigkeit mit variablen Beitragseinnahmen, die nur die in der Anlage 1 Nummer 6, 12 und 17 genannten Risiken versichern, gegenüber ihren Mitgliedern mittels der Aufforderung zur Beitragsnachzahlung innerhalb der folgenden zwölf Monate geltend gemacht werden können.
 
-
-## § 94 – Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung
+# § 94 – Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung
 
 (1) Für die Einhaltung der Solvabilitätskapitalanforderung setzen sich die anrechnungsfähigen Eigenmittel zusammen aus Eigenmitteln der Qualitätsklasse 1 und aus anrechnungsfähigen Eigenmitteln der Qualitätsklassen 2 und 3.
 
@@ -2070,22 +1964,19 @@ Auf Unfallversicherungen der in § 161 genannten Art sowie für Rentenleistungen
 
 2. der anrechnungsfähige Betrag der Eigenmittelbestandteile der Qualitätsklasse 3 ist kleiner als ein Drittel der Solvabilitätskapitalanforderung.
 
-
-## § 95 – Eigenmittel zur Einhaltung der Mindestkapitalanforderung
+# § 95 – Eigenmittel zur Einhaltung der Mindestkapitalanforderung
 
 (1) Für die Einhaltung der Mindestkapitalanforderung setzen sich die anrechnungsfähigen Eigenmittel nur aus Eigenmitteln der Qualitätsklasse 1 und anrechnungsfähigen Basiseigenmitteln der Qualitätsklasse 2 zusammen.
 
 (2) Die Eigenmittelbestandteile der Qualitätsklasse 1 bedecken mindestens die Hälfte der Mindestkapitalanforderung.
 
-
-## § 96 – Ermittlung der Solvabilitätskapitalanforderung
+# § 96 – Ermittlung der Solvabilitätskapitalanforderung
 
 (1) Die Solvabilitätskapitalanforderung kann mit Hilfe einer Standardformel oder eines internen Modells ermittelt werden. In beiden Fällen gelten für die Ermittlung der Solvabilitätskapitalanforderung die Vorschriften des § 97.
 
 (2) Weicht das Risikoprofil des Versicherungsunternehmens wesentlich von den Annahmen ab, die der Berechnung mit der Standardformel zugrunde liegen, kann die Aufsichtsbehörde anordnen, dass das Versicherungsunternehmen ein internes Modell zur Berechnung der Solvabilitätskapitalanforderung oder der relevanten Risikomodule dieser Anforderung innerhalb eines angemessenen Zeitraums entwickelt und verwendet.
 
-
-## § 97 – Berechnung der Solvabilitätskapitalanforderung
+# § 97 – Berechnung der Solvabilitätskapitalanforderung
 
 (1) Die Berechnung der Solvabilitätskapitalanforderung hat unter der Annahme der Unternehmensfortführung zu erfolgen.
 
@@ -2109,8 +2000,7 @@ Das operationelle Risiko umfasst auch Rechtsrisiken. Es umfasst jedoch weder Rep
 
 (4) Bei der Ermittlung der Solvabilitätskapitalanforderung sind Auswirkungen von Techniken zur Risikominderung zu berücksichtigen, sofern dem Kreditrisiko und anderen Risiken, die sich aus dem Einsatz dieser Techniken ergeben können, in der Solvabilitätskapitalanforderung angemessen Rechnung getragen wird.
 
-
-## § 98 – Häufigkeit der Berechnung
+# § 98 – Häufigkeit der Berechnung
 
 (1) Die Versicherungsunternehmen müssen die Solvabilitätskapitalanforderung mindestens einmal im Jahr berechnen und das Ergebnis dieser Berechnung der Aufsichtsbehörde melden. Die Versicherungsunternehmen überwachen laufend die Höhe der Solvabilitätskapitalanforderung und den Betrag der vorhandenen anrechnungsfähigen Eigenmittel.
 
@@ -2118,8 +2008,7 @@ Das operationelle Risiko umfasst auch Rechtsrisiken. Es umfasst jedoch weder Rep
 
 (3) Rechtfertigen Tatsachen die Annahme, dass sich das Risikoprofil des Versicherungsunternehmens seit der letzten Meldung der Solvabilitätskapitalanforderung wesentlich verändert hat, kann die Aufsichtsbehörde von dem Unternehmen die Neuberechnung der Solvabilitätskapitalanforderung verlangen.
 
-
-## § 99 – Struktur der Standardformel
+# § 99 – Struktur der Standardformel
 
 Wird die Solvabilitätskapitalanforderung mit der Standardformel berechnet, so setzt sie sich aus den folgenden Bestandteilen zusammen:
 
@@ -2129,8 +2018,7 @@ Wird die Solvabilitätskapitalanforderung mit der Standardformel berechnet, so s
 
 3. der Anpassung für die Verlustausgleichsfähigkeit der versicherungstechnischen Rückstellungen und latenten Steuern gemäß § 108.
 
-
-## § 100 – Aufbau der Basissolvabilitätskapitalanforderung
+# § 100 – Aufbau der Basissolvabilitätskapitalanforderung
 
 (1) Die Basissolvabilitätskapitalanforderung umfasst einzelne Risikomodule, die gemäß der Anlage 3 aggregiert werden. Sie umfasst mindestens die folgenden Risikomodule:
 
@@ -2154,8 +2042,7 @@ Versicherungsgeschäfte sind demjenigen versicherungstechnischen Risikomodul zuz
 
 (5) Im Hinblick auf Risiken, die aus Katastrophen herrühren, können geographische Besonderheiten bei der Berechnung der lebensversicherungstechnischen, nichtlebensversicherungstechnischen und krankenversicherungstechnischen Module zugrunde gelegt werden.
 
-
-## § 101 – Nichtlebensversicherungstechnisches Risikomodul
+# § 101 – Nichtlebensversicherungstechnisches Risikomodul
 
 (1) Das nichtlebensversicherungstechnische Risikomodul gibt das sich aus Nichtlebensversicherungsverpflichtungen ergebende Risiko in Bezug auf die abgedeckten Risiken und die verwendeten Prozesse bei der Ausübung des Geschäfts wieder. Das Risikomodul hat die Ungewissheit der Ergebnisse der Versicherungsunternehmen im Hinblick auf die bestehenden Versicherungsverpflichtungen und auf die in den folgenden zwölf Monaten erwarteten neuen Geschäfte zu berücksichtigen.
 
@@ -2165,8 +2052,7 @@ Versicherungsgeschäfte sind demjenigen versicherungstechnischen Risikomodul zuz
 
 2. einer wesentlichen Ungewissheit in Bezug auf die Preisfestlegung und die Annahmen bei der Bildung der versicherungstechnischen Rückstellungen für extreme oder außergewöhnliche Ereignisse (Nichtlebenskatastrophenrisiko).
 
-
-## § 102 – Lebensversicherungstechnisches Risikomodul
+# § 102 – Lebensversicherungstechnisches Risikomodul
 
 (1) Das lebensversicherungstechnische Risikomodul gibt das sich aus Lebensversicherungsverpflichtungen ergebende Risiko in Bezug auf die abgedeckten Risiken und die verwendeten Prozesse bei der Ausübung des Geschäfts wieder.
 
@@ -2186,8 +2072,7 @@ Versicherungsgeschäfte sind demjenigen versicherungstechnischen Risikomodul zuz
 
 7. einer wesentlichen Ungewissheit in Bezug auf die Annahmen über extreme oder außergewöhnliche Ereignisse bei der Preisfestlegung und bei der Bildung versicherungstechnischer Rückstellungen (Lebensversicherungskatastrophenrisiko).
 
-
-## § 103 – Krankenversicherungstechnisches Risikomodul
+# § 103 – Krankenversicherungstechnisches Risikomodul
 
 (1) Das krankenversicherungstechnische Risikomodul gibt das sich aus Krankenversicherungsverpflichtungen ergebende Risiko in Bezug auf die abgedeckten Risiken und verwendeten Prozesse bei der Ausübung des Geschäfts wieder. Dies gilt unabhängig davon, ob die Krankenversicherung nach Art der Lebensversicherung betrieben wird.
 
@@ -2199,8 +2084,7 @@ Versicherungsgeschäfte sind demjenigen versicherungstechnischen Risikomodul zuz
 
 3. einer wesentlichen Ungewissheit der Annahmen in Bezug auf die Preisfestlegung und die Bildung versicherungstechnischer Rückstellungen im Hinblick auf den Ausbruch größerer Epidemien sowie der ungewöhnlichen Häufung der unter diesen extremen Umständen auftretenden Risiken.
 
-
-## § 104 – Marktrisikomodul
+# § 104 – Marktrisikomodul
 
 (1) Das Marktrisikomodul deckt das Risiko ab, das sich ergibt aus der Höhe oder der Volatilität der Marktpreise von Finanzinstrumenten, die sich auf die Bewertung des Vermögens und der Verbindlichkeiten des Unternehmens auswirken. Es hat die strukturelle Inkongruenz zwischen Vermögenswerten und Verbindlichkeiten, insbesondere bezüglich deren Laufzeit, angemessen widerzuspiegeln.
 
@@ -2218,8 +2102,7 @@ Versicherungsgeschäfte sind demjenigen versicherungstechnischen Risikomodul zuz
 
 Zusätzliche Risiken, die entweder durch eine mangelnde Diversifikation des Anlageportfolios oder durch eine hohe Exponierung gegenüber dem Ausfallrisiko eines einzelnen Wertpapieremittenten oder einer Gruppe verbundener Emittenten bedingt sind (Marktrisikokonzentrationen), sind ebenfalls zu berechnen.
 
-
-## § 105 – Gegenparteiausfallrisikomodul
+# § 105 – Gegenparteiausfallrisikomodul
 
 (1) Das Gegenparteiausfallrisikomodul trägt möglichen Verlusten Rechnung, die sich aus einem unerwarteten Ausfall oder der Verschlechterung der Bonität von Gegenparteien und Schuldnern des Versicherungsunternehmens während der nächsten zwölf Monate ergeben.
 
@@ -2235,8 +2118,7 @@ Das Gegenparteiausfallrisikomodul berücksichtigt in angemessener Weise akzessor
 
 (3) Das Gegenparteiausfallrisikomodul berücksichtigt für jede Gegenpartei die Gesamtrisikoexponierung des Versicherungsunternehmens in Bezug auf diese Gegenpartei unabhängig von der rechtlichen Ausgestaltung der vertraglichen Verpflichtungen gegenüber der Gegenpartei.
 
-
-## § 106 – Aktienrisikountermodul
+# § 106 – Aktienrisikountermodul
 
 (1) Das Aktienrisikountermodul schließt eine symmetrische Anpassung des Faktors im Szenario für Aktienanlagen ein, der das Risiko aus Veränderungen des Aktienkursniveaus erfasst.
 
@@ -2244,8 +2126,7 @@ Das Gegenparteiausfallrisikomodul berücksichtigt in angemessener Weise akzessor
 
 (3) Die Anpassung darf nicht zu einem Faktor im Szenario für Aktienanlagen führen, der mehr als 10 Prozentpunkte über oder unter dem Standardfaktor für Aktienanlagen liegt.
 
-
-## § 107 – Kapitalanforderung für das operationelle Risiko
+# § 107 – Kapitalanforderung für das operationelle Risiko
 
 (1) Die Kapitalanforderung für das operationelle Risiko deckt operationelle Risiken ab, soweit diese nicht bereits in den in § 100 genannten Risikomodulen berücksichtigt werden. Sie ist gemäß § 97 Absatz 2 zu kalibrieren.
 
@@ -2253,8 +2134,7 @@ Das Gegenparteiausfallrisikomodul berücksichtigt in angemessener Weise akzessor
 
 (3) In Bezug auf Versicherungsgeschäfte, die nicht unter Absatz 2 fallen, muss die Berechnung der Kapitalanforderung für das operationelle Risiko das Volumen dieser Geschäfte hinsichtlich der verdienten Prämien und der versicherungstechnischen Rückstellungen berücksichtigen, die für die Verpflichtungen aus diesen Versicherungen gehalten werden. Dabei darf die Kapitalanforderung für die operationellen Risiken 30 Prozent der Basissolvabilitätskapitalanforderung für diese Versicherungsgeschäfte nicht überschreiten.
 
-
-## § 108 – Anpassung für die Verlustausgleichsfähigkeit der versicherungstechnischen Rückstellungen und latenten Steuern
+# § 108 – Anpassung für die Verlustausgleichsfähigkeit der versicherungstechnischen Rückstellungen und latenten Steuern
 
 (1) Die in § 99 Nummer 3 genannte Anpassung für die Verlustausgleichsfähigkeit der versicherungstechnischen Rückstellungen und latenten Steuern berücksichtigt den möglichen Ausgleich unerwarteter Verluste durch eine gleichzeitige Verringerung der versicherungstechnischen Rückstellungen, der latenten Steuern oder eine Kombination von beidem.
 
@@ -2262,20 +2142,17 @@ Das Gegenparteiausfallrisikomodul berücksichtigt in angemessener Weise akzessor
 
 (3) Für die Zwecke des Absatzes 2 wird der Wert der künftigen Überschussbeteiligungen unter ungünstigen Umständen mit dem Wert der Überschussbeteiligungen gemäß den Basisannahmen für die Berechnung des besten Schätzwerts verglichen.
 
-
-## § 109 – Abweichungen von der Standardformel
+# § 109 – Abweichungen von der Standardformel
 
 (1) Versicherungsunternehmen können eine vereinfachte Berechnung für ein Untermodul oder Risikomodul verwenden, wenn Art, Umfang und Komplexität der Risiken dies rechtfertigen und es unverhältnismäßig ist, von dem Versicherungsunternehmen insoweit die Anwendung der Standardberechnung zu verlangen. Die vereinfachten Berechnungen müssen gemäß § 97 Absatz 2 kalibriert werden.
 
 (2) Mit Genehmigung der Aufsichtsbehörde können Versicherungsunternehmen bei der Berechnung der versicherungstechnischen Module eine Untergruppe von Parametern durch unternehmensspezifische Parameter ersetzen. Derartige Parameter werden auf der Grundlage interner Daten des Unternehmens oder auf der Grundlage von Daten, die direkt für die Geschäfte dieses Unternehmens relevant sind, unter Verwendung standardisierter Methoden kalibriert. Die verwendeten Daten müssen genau, vollständig und angemessen sein.
 
-
-## § 110 – Wesentliche Abweichungen von den Annahmen, die der Berechnung mit der Standardformel zugrunde liegen
+# § 110 – Wesentliche Abweichungen von den Annahmen, die der Berechnung mit der Standardformel zugrunde liegen
 
 Ist die Berechnung der Solvabilitätskapitalanforderung nach der Standardformel nicht zweckmäßig, weil das Risikoprofil des Versicherungsunternehmens wesentlich von den der Standardformel zugrunde gelegten Annahmen abweicht, kann die Aufsichtsbehörde dem Unternehmen aufgeben, bei der Berechnung der versicherungstechnischen Risikomodule eine Untergruppe der für die Standardformel verwendeten Parameter durch unternehmensspezifische Parameter zu ersetzen. Bei der Berechnung dieser spezifischen Parameter hat das Unternehmen die Anforderungen des § 97 Absatz 2 und des § 109 Absatz 2 Satz 2 und 3 einzuhalten.
 
-
-## § 111 – Verwendung interner Modelle
+# § 111 – Verwendung interner Modelle
 
 (1) Versicherungsunternehmen können für die Berechnung der Solvabilitätskapitalanforderung ein internes Modell in Form eines Voll- oder Partialmodells verwenden.
 
@@ -2289,8 +2166,7 @@ Ist die Berechnung der Solvabilitätskapitalanforderung nach der Standardformel 
 
 (6) Von Versicherungsunternehmen, denen die Aufsichtsbehörde die Verwendung eines internen Modells genehmigt hat, kann die Aufsichtsbehörde eine Schätzung der Solvabilitätskapitalanforderung gemäß der Standardformel nach den §§ 96 bis 110 verlangen.
 
-
-## § 112 – Interne Modelle in Form von Partialmodellen
+# § 112 – Interne Modelle in Form von Partialmodellen
 
 (1) Interne Modelle in Form von Partialmodellen werden genehmigt für die Berechnung
 
@@ -2316,8 +2192,7 @@ b) vollständig in die Standardformel für die Solvabilitätskapitalanforderung 
 
 (4) Deckt das Partialmodell nur bestimmte Untermodule eines Risikomoduls oder einige Geschäftsbereiche eines Versicherungsunternehmens in Bezug auf ein spezielles Risikomodul oder Teile von beiden ab, kann die Aufsichtsbehörde die Ausdehnung des Anwendungsbereichs des Modells auf weitere Untermodule oder Geschäftsbereiche eines Risikomoduls im Wege eines Übergangsplans verlangen, bis der überwiegende Teil der Versicherungsgeschäfte in Bezug auf dieses Risikomodul abgedeckt ist.
 
-
-## § 113 – Verantwortung des Vorstands; Mitwirkung Dritter
+# § 113 – Verantwortung des Vorstands; Mitwirkung Dritter
 
 (1) Der Vorstand ist selbst verantwortlich
 
@@ -2331,15 +2206,13 @@ b) vollständig in die Standardformel für die Solvabilitätskapitalanforderung 
 
 (2) Die vollständige oder teilweise Bereitstellung des Modells oder von Daten durch Dritte entbindet das Versicherungsunternehmen nicht von der Pflicht, die Anforderungen der §§ 115 bis 121 an das interne Modell zu erfüllen.
 
-
-## § 114 – Nichterfüllung der Anforderungen an das interne Modell
+# § 114 – Nichterfüllung der Anforderungen an das interne Modell
 
 (1) Wenn Versicherungsunternehmen nach der Erteilung der aufsichtsbehördlichen Genehmigung zur Verwendung eines internen Modells nicht mehr die Anforderungen der §§ 115 bis 121 erfüllen, müssen sie der Aufsichtsbehörde unverzüglich einen Plan vorlegen, wie die Anforderungen innerhalb eines angemessenen Zeitraums wieder eingehalten werden können, oder den Nachweis erbringen, dass die Nichteinhaltung der Anforderungen sich nur unwesentlich auswirkt.
 
 (2) Wird der Plan nach Absatz 1 nicht ordnungsgemäß umgesetzt, kann die Aufsichtsbehörde zur Berechnung der Solvabilitätskapitalanforderung die Rückkehr zur Standardformel anordnen.
 
-
-## § 115 – Verwendungstest
+# § 115 – Verwendungstest
 
 (1) Das interne Modell muss in erheblichem Maße zur Unternehmenssteuerung verwendet werden und in der Geschäftsorganisation eine wichtige Rolle spielen, insbesondere
 
@@ -2353,8 +2226,7 @@ b) vollständig in die Standardformel für die Solvabilitätskapitalanforderung 
 
 (+++ § 115: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 116 – Statistische Qualitätsstandards für Wahrscheinlichkeitsverteilungsprognosen
+# § 116 – Statistische Qualitätsstandards für Wahrscheinlichkeitsverteilungsprognosen
 
 (1) Das interne Modell muss alle wesentlichen Risiken des Versicherungsunternehmens abdecken. Die in § 97 Absatz 3 genannten Risiken sind stets zu berücksichtigen. Ungeachtet der gewählten Berechnungsmethode muss die Risikoeinstufung ausreichend sein, um zu gewährleisten, dass das interne Modell in der Geschäftsorganisation, insbesondere im Risikomanagement, in den Entscheidungsprozessen und der Kapitalallokation in erheblichem Maße verwendet wird und eine wichtige Rolle im Sinne des § 115 Absatz 1 spielt.
 
@@ -2368,8 +2240,7 @@ b) vollständig in die Standardformel für die Solvabilitätskapitalanforderung 
 
 (+++ § 116: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 117 – Sonstige statistische Qualitätsstandards
+# § 117 – Sonstige statistische Qualitätsstandards
 
 (1) Abhängigkeiten innerhalb der Risikokategorien sowie zwischen den Risikokategorien in Bezug auf Diversifikationseffekte können im internen Modell berücksichtigt werden, wenn die Systeme zur Messung der Diversifikationseffekte angemessen sind.
 
@@ -2383,8 +2254,7 @@ b) vollständig in die Standardformel für die Solvabilitätskapitalanforderung 
 
 (+++ § 117: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 118 – Kalibrierungsstandards
+# § 118 – Kalibrierungsstandards
 
 (1) Die Versicherungsunternehmen können abweichend von § 97 Absatz 2 im internen Modell einen anderen Zeitraum oder ein anderes Risikomaß verwenden, wenn sichergestellt ist, dass die Ergebnisse des internen Modells in einer Art und Weise zur Berechnung der Solvabilitätskapitalanforderung verwendet werden, die den Versicherten ein dem § 97 gleichwertiges Schutzniveau gewährt.
 
@@ -2396,15 +2266,13 @@ b) vollständig in die Standardformel für die Solvabilitätskapitalanforderung 
 
 (+++ § 118: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 119 – Zuordnung von Gewinnen und Verlusten
+# § 119 – Zuordnung von Gewinnen und Verlusten
 
 Die Versicherungsunternehmen haben die Ursachen und Quellen von Gewinnen und Verlusten jedes Hauptgeschäftsbereichs mindestens einmal jährlich zu untersuchen. Dabei prüfen sie, wie die im internen Modell gewählte Risikokategorisierung die Ursachen und Quellen der Gewinne und Verluste erklärt. Die Risikokategorisierung und die Zuweisung von Gewinnen und Verlusten müssen das Risikoprofil der Versicherungsunternehmen widerspiegeln.
 
 (+++ § 119: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 120 – Validierungsstandards
+# § 120 – Validierungsstandards
 
 (1) Versicherungsunternehmen müssen über einen regelmäßigen Modellvalidierungszyklus verfügen, der die Kontrolle des Leistungsvermögens des internen Modells, die Überprüfung der kontinuierlichen Angemessenheit seiner Spezifikation und den Abgleich von Modellergebnissen und Erfahrungswerten umfasst.
 
@@ -2416,8 +2284,7 @@ Die Versicherungsunternehmen haben die Ursachen und Quellen von Gewinnen und Ver
 
 (+++ § 120: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 121 – Dokumentationsstandards
+# § 121 – Dokumentationsstandards
 
 (1) Der Aufbau und die Funktionsweise des internen Modells sind zu dokumentieren. Aus dieser Dokumentation muss hervorgehen, dass die Anforderungen der §§ 115 bis 120 eingehalten werden.
 
@@ -2427,22 +2294,19 @@ Die Versicherungsunternehmen haben die Ursachen und Quellen von Gewinnen und Ver
 
 (+++ § 121: Zur Anwendung vgl. § 112 Abs. 2 Satz 1 +++)
 
-
-## § 122 – Bestimmung der Mindestkapitalanforderung; Verordnungsermächtigung
+# § 122 – Bestimmung der Mindestkapitalanforderung; Verordnungsermächtigung
 
 (1) Die Mindestkapitalanforderung entspricht dem Betrag anrechnungsfähiger Basiseigenmittel, unterhalb dessen die Versicherungsnehmer und Anspruchsberechtigten bei einer Fortführung der Geschäftstätigkeit des Versicherungsunternehmens einem unannehmbaren Risikoniveau ausgesetzt sind.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung die Höhe der in Absatz 1 genannten Mindestkapitalanforderung festzulegen; dabei sind Artikel 129 Absatz 1 bis 3 der Richtlinie 2009/138/EG, delegierte Rechtsakte der Europäischen Kommission gemäß Artikel 130 der Richtlinie 2009/138/EG und Veröffentlichungen der Europäischen Kommission gemäß Artikel 300 der Richtlinie 2009/138/EG zu beachten. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 123 – Berechnungsturnus; Meldepflichten
+# § 123 – Berechnungsturnus; Meldepflichten
 
 (1) Versicherungsunternehmen haben die Mindestkapitalanforderung vierteljährlich zu berechnen und das Berechnungsergebnis der Aufsichtsbehörde zu melden. Für Zwecke der Bestimmung der Grenzwerte der Mindestkapitalanforderung ist keine vierteljährliche Berechnung der Solvabilitätskapitalanforderung erforderlich.
 
 (2) Bestimmt einer der in Artikel 129 Absatz 3 der Richtlinie 2009/138/EG genannten Grenzwerte die Mindestkapitalanforderung eines Versicherungsunternehmens, hat dieses der Aufsichtsbehörde die Gründe dafür zu erläutern.
 
-
-## § 124 – Anlagegrundsätze
+# § 124 – Anlagegrundsätze
 
 (1) Versicherungsunternehmen müssen ihre gesamten Vermögenswerte nach dem Grundsatz der unternehmerischen Vorsicht anlegen. Dabei sind folgende Anforderungen einzuhalten:
 
@@ -2476,8 +2340,7 @@ b) bei der Beurteilung ihres Solvabilitätsbedarfs gemäß § 27 Absatz 2 Nummer
 
 (3) Gehören Versicherungsverhältnisse zu einem selbständigen Bestand eines Versicherungsunternehmens in einem Staat außerhalb der Mitglied- oder Vertragsstaaten, sind die Absätze 1 und 2 anzuwenden, soweit nicht ausländisches Recht Abweichendes vorschreibt.
 
-
-## § 125 – Sicherungsvermögen
+# § 125 – Sicherungsvermögen
 
 (1) Der Vorstand eines Erstversicherungsunternehmens hat schon im Laufe des Geschäftsjahres Beträge in solcher Höhe dem Sicherungsvermögen zuzuführen und vorschriftsmäßig anzulegen, wie es dem voraussichtlichen Anwachsen des Mindestumfangs nach Absatz 2 entspricht. Wenn Erstversicherungsunternehmen Vermögen in
 
@@ -2539,8 +2402,7 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (+++ § 125 Abs. 5 u. 6: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 126 – Vermögensverzeichnis
+# § 126 – Vermögensverzeichnis
 
 (1) Das Versicherungsunternehmen hat dafür zu sorgen, dass die Bestände des Sicherungsvermögens in ein Vermögensverzeichnis einzeln eingetragen werden. Die Vorschriften über das Sicherungsvermögen gelten für alle Vermögensgegenstände, die im Vermögensverzeichnis eingetragen sind. Ansprüche auf Nutzungen, die die zum Sicherungsvermögen gehörenden Vermögensgegenstände gewähren, gehören auch ohne Eintragung in das Vermögensverzeichnis zum Sicherungsvermögen. Forderungen aus Vorauszahlungen oder Darlehen auf die eigenen Versicherungsscheine des Unternehmens, soweit sie zu den Beständen des Sicherungsvermögens gehören, brauchen nur in einer Gesamtsumme nachgewiesen zu werden. Bei Forderungen, die durch eine Grundstücksbelastung gesichert und in Teilbeträgen zurückzuzahlen sind, ist das Vermögensverzeichnis nach näherer Bestimmung der Aufsichtsbehörde zu berichtigen; dasselbe gilt für Grundstücksbelastungen, die keine persönliche Forderung sichern.
 
@@ -2550,8 +2412,7 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (4) Absatz 3 gilt für die Lebensversicherung, die Krankenversicherung der in § 146 genannten Art, die private Pflegepflichtversicherung nach § 148 und die Unfallversicherung mit Prämienrückgewähr nach § 161, nur für die Beitragsüberträge nach § 341e Absatz 2 Nummer 1 des Handelsgesetzbuchs und die Rückstellung für noch nicht abgewickelte Versicherungsfälle nach § 341g des Handelsgesetzbuchs. In den genannten Versicherungszweigen hat das Unternehmen die anteiligen Werte des Sicherungsvermögens mit Ausnahme der Beitragsüberträge nach § 341e Absatz 2 Nummer 1 des Handelsgesetzbuchs und der Rückstellung für noch nicht abgewickelte Versicherungsfälle nach § 341g des Handelsgesetzbuchs auch für den in Rückdeckung gegebenen Anteil selbst aufzubewahren und zu verwalten.
 
-
-## § 127 – Zuführungen zum Sicherungsvermögen
+# § 127 – Zuführungen zum Sicherungsvermögen
 
 (1) Erreicht das Sicherungsvermögen nicht den Mindestumfang nach § 125 Absatz 2, hat der Vorstand den fehlenden Betrag unverzüglich dem Sicherungsvermögen zuzuführen. Die Zuführung zum Sicherungsvermögen darf so weit unterbleiben, wie im Ausland zugunsten bestimmter Versicherungen eine besondere Sicherheit aus den eingenommenen Versicherungsentgelten gestellt werden muss.
 
@@ -2559,8 +2420,7 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (+++ § 127 Abs. 1: Zur Anwendung vgl. § 129 Abs. 2 Satz 3 +++)
 
-
-## § 128 – Treuhänder für das Sicherungsvermögen
+# § 128 – Treuhänder für das Sicherungsvermögen
 
 (1) Zur Überwachung des Sicherungsvermögens für die Lebensversicherung, die Krankenversicherung der in § 146 genannten Art, die private Pflegepflichtversicherung nach § 148 und die Unfallversicherung mit Prämienrückgewähr nach § 161 sind ein Treuhänder und ein Stellvertreter für diesen zu bestellen. Öffentlich-rechtliche Versicherungsunternehmen müssen keinen Treuhänder bestellen. Kleinere Vereine im Sinne des § 210 Absatz 1 Satz 1 müssen einen Treuhänder nur bestellen, wenn es die Aufsichtsbehörde anordnet.
 
@@ -2574,8 +2434,7 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (6) Streitigkeiten zwischen dem Treuhänder und dem Versicherungsunternehmen über seine Obliegenheiten entscheidet die Aufsichtsbehörde.
 
-
-## § 129 – Sicherstellung des Sicherungsvermögens
+# § 129 – Sicherstellung des Sicherungsvermögens
 
 (1) Das Sicherungsvermögen ist so sicherzustellen, dass nur mit Zustimmung des Treuhänders darüber verfügt werden kann.
 
@@ -2585,15 +2444,13 @@ Bilanzwerte im Sinne des Satzes 1 sind die Bruttobeträge für das selbst abgesc
 
 (4) Der Treuhänder kann jederzeit die Bücher und Schriften des Versicherungsunternehmens einsehen, soweit sie sich auf das Sicherungsvermögen beziehen.
 
-
-## § 130 – Entnahme aus dem Sicherungsvermögen
+# § 130 – Entnahme aus dem Sicherungsvermögen
 
 (1) Dem Sicherungsvermögen dürfen außer den Mitteln, die zur Vornahme und Änderung der Kapitalanlagen erforderlich sind, nur die Beträge entnommen werden, die durch Eintritt oder Regulierung des Versicherungsfalls, durch Rückkauf oder dadurch frei werden, dass sonst ein Versicherungsverhältnis beendet oder der Geschäftsplan geändert wird.
 
 (2) Durch Zwangsvollstreckung oder Arrestvollziehung darf über die Bestände des Sicherungsvermögens nur so weit verfügt werden, wie für den Anspruch, zu dessen Gunsten verfügt wird, die Zuführung zum Sicherungsvermögen gemäß § 125 Absatz 1 bis 3, § 126 Absatz 3 und § 127 vorgeschrieben und tatsächlich erfolgt ist. Satz 1 ist entsprechend anzuwenden für die Aufrechnung gegen Ansprüche, die zu den Beständen des Sicherungsvermögens gehören.
 
-
-## § 131 – Verordnungsermächtigung
+# § 131 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für Versicherungsunternehmen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, durch Rechtsverordnung unter Berücksichtigung von delegierten Rechtsakten der Europäischen Kommission gemäß Artikel 135 der Richtlinie 2009/138/EG Vorschriften zu erlassen über
 
@@ -2615,15 +2472,13 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 (3) Rechtsverordnungen nach den Absätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 132 – Feststellung und Anzeige einer sich verschlechternden finanziellen Lage
+# § 132 – Feststellung und Anzeige einer sich verschlechternden finanziellen Lage
 
 (1) Ein Versicherungsunternehmen muss über geeignete Verfahren verfügen, um eine Verschlechterung seiner finanziellen Lage festzustellen.
 
 (2) Eine Verschlechterung der finanziellen Lage, die die Erfüllbarkeit der Verpflichtungen aus Versicherungen oder die Zahlungsfähigkeit des Versicherungsunternehmens gefährden könnte, hat das Versicherungsunternehmen unverzüglich der Aufsichtsbehörde anzuzeigen.
 
-
-## § 133 – Unzureichende Höhe versicherungstechnischer Rückstellungen
+# § 133 – Unzureichende Höhe versicherungstechnischer Rückstellungen
 
 (1) Sofern ein Versicherungsunternehmen auf Grund einer Verletzung der in den §§ 74 bis 88 geregelten Pflichten nur unzureichende versicherungstechnische Rückstellungen bildet, kann die Aufsichtsbehörde die freie Verfügung über die Vermögenswerte des Unternehmens einschränken oder untersagen.
 
@@ -2633,8 +2488,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 (+++ § 133 Abs. 3: Zur Anwendung vgl. § 134 Abs. 7 u. § 135 Abs. 3 +++)
 
-
-## § 134 – Nichtbedeckung der Solvabilitätskapitalanforderung
+# § 134 – Nichtbedeckung der Solvabilitätskapitalanforderung
 
 (1) Ist die Solvabilitätskapitalanforderung nicht mehr bedeckt oder droht dieser Fall innerhalb der nächsten drei Monate einzutreten, hat das Versicherungsunternehmen die Aufsichtsbehörde unverzüglich darüber zu unterrichten.
 
@@ -2652,8 +2506,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 (8) Hat die Aufsichtsbehörde die freie Verfügung über die Vermögenswerte nach Absatz 7 eingeschränkt oder untersagt, unterrichtet sie die Aufsichtsbehörden der Mitglied- oder Vertragsstaaten, in dem das Unternehmen eine Zweigniederlassung unterhält oder Dienstleistungen erbringt, davon. Sie kann diese ersuchen, die gleichen Maßnahmen zu treffen. In diesem Fall bezeichnet sie die Vermögenswerte, die Gegenstand der Maßnahme sein sollen.
 
-
-## § 135 – Nichtbedeckung der Mindestkapitalanforderung
+# § 135 – Nichtbedeckung der Mindestkapitalanforderung
 
 (1) Ist die Mindestkapitalanforderung nicht mehr bedeckt oder droht dieser Fall innerhalb der nächsten drei Monate einzutreten, hat das Versicherungsunternehmen die Aufsichtsbehörde unverzüglich darüber zu unterrichten.
 
@@ -2663,8 +2516,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 (+++ § 135 Abs. 1 u. 2: Zur Anwendung vgl. § 261 Abs. 3 Satz 3 +++)
 
-
-## § 136 – Sanierungs- und Finanzierungsplan
+# § 136 – Sanierungs- und Finanzierungsplan
 
 (1) Sanierungsplan und Finanzierungsplan umfassen mindestens die folgenden Angaben:
 
@@ -2680,8 +2532,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 (2) Ist der Aufsichtsbehörde ein Sanierungsplan oder ein Finanzierungsplan vorzulegen, so kann sie eine Bescheinigung nach § 13 Absatz 2 Nummer 1 erst ausstellen, wenn sie der Auffassung ist, dass die Rechte der Versicherungsnehmer nicht mehr gefährdet sind.
 
-
-## § 137 – Fortschreitende Verschlechterung der Solvabilität
+# § 137 – Fortschreitende Verschlechterung der Solvabilität
 
 (1) Im Fall einer fortschreitenden Verschlechterung der Solvabilität eines Versicherungsunternehmens kann die Aufsichtsbehörde neben den in den §§ 134 und 135 genannten Maßnahmen alle Maßnahmen ergreifen, die zur Wahrung der sich aus den Versicherungsverträgen ergebenden Interessen der Versicherungsnehmer oder zur Erfüllung der Verpflichtungen aus Rückversicherungsverträgen geeignet, erforderlich und angemessen sind. Bei der Auswahl der Maßnahme müssen Grad und Dauer der Verschlechterung der Solvabilitätssituation des Versicherungsunternehmens berücksichtigt werden.
 
@@ -2695,8 +2546,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 § 137 Abs. 2 Nr. 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "anrechungsfähigen" durch "anrechnungsfähigen" ersetzt
 
-
-## § 138 – Prämienkalkulation in der Lebensversicherung; Gleichbehandlung
+# § 138 – Prämienkalkulation in der Lebensversicherung; Gleichbehandlung
 
 (1) Die Prämien in der Lebensversicherung müssen unter Zugrundelegung angemessener versicherungsmathematischer Annahmen kalkuliert werden und so hoch sein, dass das Lebensversicherungsunternehmen allen seinen Verpflichtungen nachkommen und insbesondere für die einzelnen Verträge ausreichende Deckungsrückstellungen bilden kann. Hierbei kann der Finanzlage des Versicherungsunternehmens Rechnung getragen werden, ohne dass planmäßig und auf Dauer Mittel eingesetzt werden dürfen, die nicht aus Prämienzahlungen stammen.
 
@@ -2704,8 +2554,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 
 (+++ § 138 Abs. 2: Zur Anwendung vgl. § 146 Abs. 2 Satz 1 +++)
 
-
-## § 139 – Überschussbeteiligung
+# § 139 – Überschussbeteiligung
 
 (1) Die für die Überschussbeteiligung der Versicherten bestimmten Beträge sind, soweit sie den Versicherten nicht unmittelbar zugeteilt wurden, in der Bilanz in eine Rückstellung für Beitragsrückerstattung einzustellen.
 
@@ -2718,8 +2567,7 @@ b) qualitative Anforderungen, die Versicherungsunternehmen erfüllen müssen, di
 (+++ § 139 Abs. 1 u. 2 Satz 1 u. 2: Zur Anwendung vgl. § 151 Abs. 1 +++)  
 (+++ § 139 Abs. 3 u. 4: Zur Anwendung vgl. § 233 Abs. 1 Satz 6 u. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 140 – Rückstellung für Beitragsrückerstattung
+# § 140 – Rückstellung für Beitragsrückerstattung
 
 (1) Die der Rückstellung für Beitragsrückerstattung zugewiesenen Beträge dürfen nur für die Überschussbeteiligung der Versicherten einschließlich der durch § 153 des Versicherungsvertragsgesetzes vorgeschriebenen Beteiligung an den Bewertungsreserven verwendet werden. In Ausnahmefällen kann die Rückstellung für Beitragsrückerstattung, soweit sie nicht auf bereits festgelegte Überschussanteile entfällt, mit Zustimmung der Aufsichtsbehörde im Interesse der Versicherten herangezogen werden, um
 
@@ -2755,8 +2603,7 @@ Das ist insbesondere dann anzunehmen, wenn
 (+++ § 140 Abs. 2: Zur Anwendung vgl. § 237 Abs. 3 Nr. 6 +++)  
 (+++ § 140 Abs. 2, 3: Zur Anwendung vgl. § 222 Abs. 4 Satz 3 +++)
 
-
-## § 141 – Verantwortlicher Aktuar in der Lebensversicherung
+# § 141 – Verantwortlicher Aktuar in der Lebensversicherung
 
 (1) Jedes Lebensversicherungsunternehmen hat einen Verantwortlichen Aktuar zu bestellen. Er muss zuverlässig und fachlich geeignet sein. Fachliche Eignung setzt ausreichende Kenntnisse in der Versicherungsmathematik und Berufserfahrung voraus. Eine ausreichende Berufserfahrung ist regelmäßig anzunehmen, wenn eine mindestens dreijährige Tätigkeit als Versicherungsmathematiker nachgewiesen wird.
 
@@ -2786,28 +2633,24 @@ Für den Verantwortlichen Aktuar entfallen die Pflichten nach Satz 1 Nummer 2, w
 
 3. der Aufsichtsbehörde den Vorschlag des Verantwortlichen Aktuars gemäß Absatz 5 Nummer 4 unverzüglich vorzulegen und mitzuteilen, wenn er beabsichtigt, eine vom Vorschlag des Verantwortlichen Aktuars abweichende Überschussbeteiligung festzusetzen; die Gründe für die Abweichung sind der Aufsichtsbehörde schriftlich oder elektronisch mitzuteilen.
 
-
-## § 142 – Treuhänder in der Lebensversicherung
+# § 142 – Treuhänder in der Lebensversicherung
 
 Soweit bei den nach dem 28. Juli 1994 geschlossenen Lebensversicherungsverträgen die Prämien mit Wirkung für bestehende Versicherungsverträge geändert werden können, dürfen entsprechende Änderungen erst in Kraft gesetzt werden, nachdem ihnen ein unabhängiger Treuhänder zugestimmt hat. Für den Treuhänder gilt § 157 Absatz 1 und 2 entsprechend. Die Mitwirkung des Treuhänders entfällt, wenn Änderungen nach Satz 1 der Genehmigung der Aufsichtsbehörde bedürfen.
 
 (+++ § 142: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)  
 (+++ § 142 Satz 2: Zur Anwendung vgl. § 234 Abs. 3 Satz 1 Nr. 6 u. § 237 Abs. 3 Nr. 8 +++)
 
-
-## § 143 – Besondere Anzeigepflichten in der Lebensversicherung
+# § 143 – Besondere Anzeigepflichten in der Lebensversicherung
 
 Nach Erteilung der Erlaubnis zum Betrieb der Lebensversicherung hat das Unternehmen unverzüglich der Aufsichtsbehörde die Grundsätze für die Berechnung der Prämien und Deckungsrückstellungen einschließlich der verwendeten Rechnungsgrundlagen, mathematischen Formeln, kalkulatorischen Herleitungen und statistischen Nachweise unter deren Beifügung anzuzeigen; dies gilt entsprechend bei der Verwendung neuer oder geänderter Grundsätze.
 
-
-## § 144 – Information bei betrieblicher Altersversorgung
+# § 144 – Information bei betrieblicher Altersversorgung
 
 (1) Soweit Lebensversicherungsunternehmen Leistungen der betrieblichen Altersversorgung erbringen, gelten für die Information der Versorgungsanwärter und Versorgungsempfänger die §§ 234k bis 234p und 235a entsprechend.
 
 (2) Auf Versicherungsgeschäfte in anderen Mitglied- oder Vertragsstaaten ist Absatz 1 anzuwenden, wenn den Versicherungsverträgen deutsches Recht zugrunde liegt.
 
-
-## § 145 – Verordnungsermächtigung
+# § 145 – Verordnungsermächtigung
 
 (1) Das Bundesministerium der Finanzen kann durch Rechtsverordnung nähere Einzelheiten festlegen bezüglich
 
@@ -2827,8 +2670,7 @@ Nach Erteilung der Erlaubnis zum Betrieb der Lebensversicherung hat das Unterneh
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Wahrung der Belange der Versicherten nähere Einzelheiten zur Ausgestaltung der kollektiven Teile der Rückstellung für Beitragsrückerstattung zu regeln, insbesondere zur Begrenzung der kollektiven Teile sowie zu Zuführungen zu und Rückführungen aus den kollektiven Teilen an die nichtkollektiven Teile der Rückstellung für Beitragsrückerstattung festzulegen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung mit Zustimmung des Bundesrates auf die Bundesanstalt übertragen. Die Bundesanstalt erlässt die Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit den Aufsichtsbehörden der Länder.
 
-
-## § 146 – Substitutive Krankenversicherung
+# § 146 – Substitutive Krankenversicherung
 
 (1) Soweit die Krankenversicherung ganz oder teilweise den im gesetzlichen Sozialversicherungssystem vorgesehenen Kranken- oder Pflegeversicherungsschutz ersetzen kann (substitutive Krankenversicherung), darf sie im Inland vorbehaltlich des Absatzes 3 nur nach Art der Lebensversicherung betrieben werden, wobei
 
@@ -2851,27 +2693,23 @@ Nach Erteilung der Erlaubnis zum Betrieb der Lebensversicherung hat das Unterneh
 (+++ § 146: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)  
 (+++ § 146 Abs. 1 Nr. 1 bis 4, Abs. 2: Zur Anwendung vgl. § 147 u. § 148 Satz 1 +++)
 
-
-## § 147 – Sonstige Krankenversicherung
+# § 147 – Sonstige Krankenversicherung
 
 Sofern die nicht-substitutive Krankenversicherung nach Art der Lebensversicherung betrieben wird, sind § 146 Absatz 1 Nummer 1 bis 4 und Absatz 2 sowie § 156 entsprechend anzuwenden.
 
 (+++ § 147: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)
 
-
-## § 148 – Pflegeversicherung
+# § 148 – Pflegeversicherung
 
 Vorbehaltlich der §§ 110 und 111 des Elften Buches Sozialgesetzbuch sind § 146 Absatz 1 Nummer 1 bis 4 und Absatz 2 sowie die §§ 155 bis 157 und 160 auf die private Pflege-Pflichtversicherung und die geförderte Pflegevorsorge entsprechend anzuwenden. In Versicherungsverträgen zur privaten Pflege-Pflichtversicherung ist die Mitgabe des Übertragungswerts bei Wechsel des Versicherungsnehmers zu einem anderen privaten Krankenversicherungsunternehmen vorzusehen.
 
-
-## § 149 – Prämienzuschlag in der substitutiven Krankenversicherung
+# § 149 – Prämienzuschlag in der substitutiven Krankenversicherung
 
 In der substitutiven Krankheitskostenversicherung ist spätestens mit Beginn des Kalenderjahres, das auf die Vollendung des 21. Lebensjahres des Versicherten folgt und endend in dem Kalenderjahr, in dem die versicherte Person das 60. Lebensjahr vollendet, für die Versicherten ein Zuschlag von 10 Prozent der jährlichen gezillmerten Bruttoprämie zu erheben. Dieser ist der Alterungsrückstellung nach § 341f Absatz 3 des Handelsgesetzbuchs jährlich direkt zuzuführen und zur Prämienermäßigung im Alter nach § 150 Absatz 3 zu verwenden. Für Versicherungen mit befristeten Vertragslaufzeiten nach § 195 Absatz 2 und 3 des Versicherungsvertragsgesetzes sowie bei Tarifen, die regelmäßig spätestens mit Erreichen der gesetzlichen Altersgrenze enden, sowie für den Notlagentarif nach § 153 gelten die Sätze 1 und 2 nicht.
 
 (+++ § 149: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)
 
-
-## § 150 – Gutschrift zur Alterungsrückstellung; Direktgutschrift
+# § 150 – Gutschrift zur Alterungsrückstellung; Direktgutschrift
 
 (1) Das Versicherungsunternehmen hat den Versicherten in der nach Art der Lebensversicherung betriebenen Krankheitskosten- und freiwilligen Pflegekrankenversicherung (Pflegekosten- und Pflegetagegeldversicherung) jährlich Zinserträge gutzuschreiben, die auf die Summe der jeweiligen zum Ende des vorherigen Geschäftsjahres vorhandenen positiven Alterungsrückstellung der betroffenen Versicherungen entfallen. Diese Gutschrift beträgt 90 Prozent der durchschnittlichen, über die rechnungsmäßige Verzinsung hinausgehenden Kapitalerträge (Überzins).
 
@@ -2883,8 +2721,7 @@ In der substitutiven Krankheitskostenversicherung ist spätestens mit Beginn des
 
 (+++ § 150 Abs. 1 bis 3: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)
 
-
-## § 151 – Überschussbeteiligung der Versicherten
+# § 151 – Überschussbeteiligung der Versicherten
 
 (1) § 139 Absatz 1 und 2 Satz 1 und 2 sowie § 140 Absatz 1 mit Ausnahme von § 140 Absatz 1 Satz 2 Nummer 2 und 3 sind auf Krankenversicherungsverträge, die eine erfolgsabhängige Beitragsrückerstattung der Versicherten vorsehen, entsprechend anzuwenden.
 
@@ -2892,8 +2729,7 @@ In der substitutiven Krankheitskostenversicherung ist spätestens mit Beginn des
 
 (3) Die Aufsichtsbehörde kann verlangen, dass ihr ein Plan zur Sicherstellung angemessener Zuführungen zur Rückstellung für erfolgsabhängige Beitragsrückerstattung (Zuführungsplan) vorgelegt wird, wenn die Zuführung zur Rückstellung nicht den Mindestanforderungen der Rechtsverordnung nach § 160 Satz 1 Nummer 6 entspricht.
 
-
-## § 152 – Basistarif
+# § 152 – Basistarif
 
 (1) Versicherungsunternehmen mit Sitz im Inland, die die substitutive Krankenversicherung betreiben, haben einen branchenweit einheitlichen Basistarif anzubieten, dessen Vertragsleistungen in Art, Umfang und Höhe jeweils den Leistungen nach dem Dritten Kapitel des Fünften Buches Sozialgesetzbuch, auf die ein Anspruch besteht, vergleichbar sind. Der Basistarif muss jeweils eine Variante vorsehen für
 
@@ -2928,22 +2764,19 @@ Ist der private Krankheitskostenversicherungsvertrag vor dem 1. Januar 2009 abge
 (+++ § 152 Abs. 1 bis 4: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)  
 (+++ § 152 Abs. 3: Zur Anwendung vgl. § 153 Abs. 2 Satz 3 +++)
 
-
-## § 153 – Notlagentarif
+# § 153 – Notlagentarif
 
 (1) Nichtzahler nach § 193 Absatz 7 des Versicherungsvertragsgesetzes bilden einen Tarif im Sinne des § 155 Absatz 3 Satz 1. Der Notlagentarif sieht ausschließlich die Aufwendungserstattung für Leistungen vor, die zur Behandlung von akuten Erkrankungen und Schmerzzuständen sowie bei Schwangerschaft und Mutterschaft erforderlich sind. Abweichend davon sind für versicherte Kinder und Jugendliche zudem insbesondere Aufwendungen für Vorsorgeuntersuchungen zur Früherkennung von Krankheiten nach gesetzlich eingeführten Programmen und für Schutzimpfungen, die die Ständige Impfkommission beim Robert Koch-Institut gemäß § 20 Absatz 2 des Infektionsschutzgesetzes empfiehlt, zu erstatten.
 
 (2) Für alle im Notlagentarif Versicherten ist eine einheitliche Prämie zu kalkulieren, im Übrigen gilt § 146 Absatz 1 Nummer 1 und 2. Für Versicherte, deren Vertrag nur die Erstattung eines Prozentsatzes der entstandenen Aufwendungen vorsieht, gewährt der Notlagentarif Leistungen in Höhe von 20, 30 oder 50 Prozent der versicherten Behandlungskosten. § 152 Absatz 3 ist entsprechend anzuwenden. Die kalkulierten Prämien aus dem Notlagentarif dürfen nicht höher sein, als es zur Deckung der Aufwendungen für Versicherungsfälle aus dem Tarif erforderlich ist. Mehraufwendungen, die zur Gewährleistung der in Satz 3 genannten Begrenzungen entstehen, sind gleichmäßig auf alle Versicherungsnehmer des Versicherers mit einer Versicherung, die eine Pflicht aus § 193 Absatz 3 Satz 1 des Versicherungsvertragsgesetzes erfüllt, zu verteilen. Auf die im Notlagentarif zu zahlende Prämie ist die Alterungsrückstellung in der Weise anzurechnen, dass bis zu 25 Prozent der monatlichen Prämie durch Entnahme aus der Alterungsrückstellung geleistet werden.
 
-
-## § 154 – Risikoausgleich
+# § 154 – Risikoausgleich
 
 (1) Die Versicherungsunternehmen, die einen Basistarif anbieten, müssen sich zur dauerhaften Erfüllbarkeit der Verpflichtungen aus den Versicherungen am Ausgleich der Versicherungsrisiken im Basistarif beteiligen und dazu ein Ausgleichssystem schaffen und erhalten, dem sie angehören. Das Ausgleichssystem muss einen dauerhaften und wirksamen Ausgleich der unterschiedlichen Belastungen gewährleisten. Mehraufwendungen, die im Basistarif auf Grund von Vorerkrankungen entstehen, sind auf alle im Basistarif Versicherten gleichmäßig zu verteilen; Mehraufwendungen, die zur Gewährleistung der in § 152 Absatz 3 und 4 genannten Begrenzungen entstehen, sind auf alle beteiligten Versicherungsunternehmen so zu verteilen, dass eine gleichmäßige Belastung dieser Unternehmen bewirkt wird.
 
 (2) Die Errichtung, die Ausgestaltung, die Änderung und die Durchführung des Ausgleichs unterliegen der Aufsicht der Bundesanstalt.
 
-
-## § 155 – Prämienänderungen
+# § 155 – Prämienänderungen
 
 (1) Bei der nach Art der Lebensversicherung betriebenen Krankenversicherung dürfen Prämienänderungen erst in Kraft gesetzt werden, nachdem ein unabhängiger Treuhänder der Prämienänderung zugestimmt hat. Der Treuhänder hat zu prüfen, ob die Berechnung der Prämien mit den dafür bestehenden Rechtsvorschriften in Einklang steht. Dazu sind ihm sämtliche für die Prüfung der Prämienänderungen erforderlichen technischen Berechnungsgrundlagen einschließlich der hierfür benötigten kalkulatorischen Herleitungen und statistischen Nachweise vorzulegen. In den technischen Berechnungsgrundlagen sind die Grundsätze für die Berechnung der Prämien und Alterungsrückstellung einschließlich der verwendeten Rechnungsgrundlagen und mathematischen Formeln vollständig darzustellen. Die Zustimmung ist zu erteilen, wenn die Voraussetzungen des Satzes 2 erfüllt sind.
 
@@ -2962,8 +2795,7 @@ Der Treuhänder hat in den Fällen des Satzes 1 Nummer 1 und 2 darauf zu achten,
 (+++ § 155: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 u. § 148 Satz 1 +++)  
 (+++ § 155 Abs. 1: Zur Anwendung vgl. § 8 Abs. 9 VAG 2016 +++)
 
-
-## § 156 – Verantwortlicher Aktuar in der Krankenversicherung
+# § 156 – Verantwortlicher Aktuar in der Krankenversicherung
 
 (1) Versicherungsunternehmen, die die substitutive Krankenversicherung betreiben, haben einen Verantwortlichen Aktuar zu bestellen. § 141 Absatz 1 Satz 2 bis 4 und Absatz 2 und 3 ist entsprechend anzuwenden.
 
@@ -2975,8 +2807,7 @@ Der Treuhänder hat in den Fällen des Satzes 1 Nummer 1 und 2 darauf zu achten,
 
 § 141 Absatz 5 Satz 1 Nummer 3 und Absatz 6 Nummer 1 ist entsprechend anzuwenden.
 
-
-## § 157 – Treuhänder in der Krankenversicherung
+# § 157 – Treuhänder in der Krankenversicherung
 
 (1) Zum Treuhänder darf nur bestellt werden, wer zuverlässig, fachlich geeignet und von dem Versicherungsunternehmen unabhängig ist, insbesondere keinen Anstellungsvertrag oder sonstigen Dienstvertrag mit dem Versicherungsunternehmen oder einem mit diesem verbundenen Unternehmen abgeschlossen hat oder aus einem solchen Vertrag noch Ansprüche gegen das Unternehmen besitzt. Die fachliche Eignung setzt ausreichende Kenntnisse auf dem Gebiet der Prämienkalkulation in der Krankenversicherung voraus. Zum Treuhänder kann grundsätzlich nicht bestellt werden, wer bereits bei zehn Versicherungsunternehmen oder Pensionsfonds als Treuhänder oder Verantwortlicher Aktuar tätig ist. Die Aufsichtsbehörde kann eine höhere Zahl von Mandaten zulassen.
 
@@ -2987,8 +2818,7 @@ Der Treuhänder hat in den Fällen des Satzes 1 Nummer 1 und 2 darauf zu achten,
 (+++ § 157: Zur Anwendung vgl. § 148 Satz 1 +++)  
 (+++ § 157 Abs. 1: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)
 
-
-## § 158 – Besondere Anzeigepflichten in der Krankenversicherung; Leistungen im Basis- und Notlagentarif
+# § 158 – Besondere Anzeigepflichten in der Krankenversicherung; Leistungen im Basis- und Notlagentarif
 
 (1) Krankenversicherungsunternehmen haben der Aufsichtsbehörde unverzüglich anzuzeigen:
 
@@ -2998,8 +2828,7 @@ Der Treuhänder hat in den Fällen des Satzes 1 Nummer 1 und 2 darauf zu achten,
 
 (2) Der Verband der privaten Krankenversicherung wird damit beliehen, Art, Umfang und Höhe der Leistungen im Basistarif nach Maßgabe des § 152 Absatz 1 und im Notlagentarif nach Maßgabe des § 153 Absatz 1 festzulegen. Die Fachaufsicht übt das Bundesministerium der Finanzen aus.
 
-
-## § 159 – Statistische Daten
+# § 159 – Statistische Daten
 
 (1) Die Bundesanstalt veröffentlicht nicht tarifspezifische allgemeine Wahrscheinlichkeitstafeln und andere einschlägige statistische Daten für die Krankenversicherung im Sinne des § 146 Absatz 1. § 318 Absatz 3 ist entsprechend anzuwenden.
 
@@ -3009,8 +2838,7 @@ Der Treuhänder hat in den Fällen des Satzes 1 Nummer 1 und 2 darauf zu achten,
 
 (+++ § 159: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 5 +++)
 
-
-## § 160 – Verordnungsermächtigung
+# § 160 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung für die nach Art der Lebensversicherung betriebene Krankenversicherung
 
@@ -3032,20 +2860,17 @@ Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen 
 
 (+++ § 160: Zur Anwendung vgl. § 148 Satz 1 +++)
 
-
-## § 161 – Unfallversicherung mit Prämienrückgewähr
+# § 161 – Unfallversicherung mit Prämienrückgewähr
 
 (1) Soweit Unfallversicherungsunternehmen Versicherungen mit Rückgewähr der Prämie übernehmen, gelten die §§ 138, 139, 140 Absatz 1, die §§ 141, 142 und 145 Absatz 4 sowie § 336 entsprechend.
 
 (2) Unverzüglich nach Aufnahme des Betriebs der Unfallversicherung mit Prämienrückgewähr hat das Versicherungsunternehmen die Grundsätze für die Berechnung der Prämien und Deckungsrückstellungen einschließlich der verwendeten Rechnungsgrundlagen, mathematischen Formeln, kalkulatorischen Herleitungen und statistischen Nachweise unter deren Beifügung der Aufsichtsbehörde anzuzeigen; dies gilt entsprechend bei der Verwendung neuer oder geänderter Grundsätze.
 
-
-## § 162 – Deckungsrückstellung für Haftpflicht- und Unfall-Renten
+# § 162 – Deckungsrückstellung für Haftpflicht- und Unfall-Renten
 
 Für die Berechnung der Deckungsrückstellung von Renten in der Allgemeinen Haftpflichtversicherung, der Kraftfahrzeug-Haftpflichtversicherung, der Kraftfahrt-Unfallversicherung sowie der Allgemeinen Unfallversicherung ohne Rückgewähr der Prämie sind § 141 Absatz 1 bis 3, 5 und 6 sowie § 145 Absatz 4 entsprechend anzuwenden.
 
-
-## § 163 – Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
+# § 163 – Schadenregulierungsbeauftragte in der Kraftfahrzeug-Haftpflichtversicherung
 
 (1) Für die Erlaubnis zur Deckung der in der Anlage 1 Nummer 10 Buchstabe a genannten Risiken hat das Versicherungsunternehmen in allen anderen Mitglied- oder Vertragsstaaten einen Schadenregulierungsbeauftragten zu benennen. Dieser hat im Auftrag des Versicherungsunternehmens Ansprüche auf Ersatz von Personen- und Sachschäden zu bearbeiten und zu regulieren, die wegen eines Unfalls entstanden sind, der sich in einem anderen Mitglied- oder Vertragsstaat als dem Wohnsitzmitgliedstaat des Geschädigten ereignet hat und der durch die Nutzung eines Fahrzeugs verursacht wurde, das in einem Mitglied- oder Vertragsstaat versichert ist und dort seinen gewöhnlichen Standort hat.
 
@@ -3065,8 +2890,7 @@ In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetz
 
 (5) Die Bestellung eines Schadenregulierungsbeauftragten durch ein ausländisches Versicherungsunternehmen im Inland stellt für sich allein keine Errichtung einer Zweigniederlassung dar; der Schadenregulierungsbeauftragte gilt nicht als Niederlassung.
 
-
-## § 164 – Schadenabwicklung in der Rechtsschutzversicherung
+# § 164 – Schadenabwicklung in der Rechtsschutzversicherung
 
 (1) Ein Versicherungsunternehmen, das die Rechtsschutzversicherung zusammen mit anderen Versicherungssparten betreibt, hat die Leistungsbearbeitung in der Rechtsschutzversicherung einem anderen Unternehmen mit einer in § 8 Absatz 2 genannten Rechtsform oder der Rechtsform einer sonstigen Kapitalgesellschaft (Schadenabwicklungsunternehmen) zu übertragen. Die Übertragung gilt als Ausgliederung.
 
@@ -3078,8 +2902,7 @@ In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetz
 
 (5) Die Absätze 1 bis 4 gelten nicht für die Rechtsschutzversicherung, wenn sich diese auf Streitigkeiten oder Ansprüche bezieht, die aus dem Einsatz von Schiffen auf See entstehen oder mit diesem Einsatz verbunden sind.
 
-
-## § 165 – Rückversicherungsunternehmen in Abwicklung
+# § 165 – Rückversicherungsunternehmen in Abwicklung
 
 (1) Auf Rückversicherungsunternehmen, die den Abschluss neuer Rückversicherungsverträge bis zum 10. Dezember 2007 eingestellt haben und ausschließlich ihr Portfolio mit dem Ziel verwalten, ihre Tätigkeit einzustellen, finden die nachstehenden Absätze und die für kleine Versicherungsunternehmen geltenden Vorschriften mit Ausnahme des § 215 Anwendung.
 
@@ -3089,8 +2912,7 @@ In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetz
 
 (4) Gehören Rückversicherungsverhältnisse zu einem selbständigen Bestand eines Rückversicherungsunternehmens in einem Drittstaat, so gelten Absatz 2 sowie § 125 Absatz 1 entsprechend auch für die aus diesen Rückversicherungsverhältnissen entstandenen Vermögensbestände, soweit das ausländische Recht nichts Abweichendes vorschreibt.
 
-
-## § 166 – Bestandsübertragungen; Umwandlungen
+# § 166 – Bestandsübertragungen; Umwandlungen
 
 (1) Jeder Vertrag, durch den ein Versicherungsbestand eines inländischen Rückversicherungsunternehmens ganz oder teilweise auf ein anderes Versicherungsunternehmen mit Sitz in einem Mitglied- oder Vertragsstaat übertragen werden soll, bedarf der Genehmigung der Bundesanstalt. Der Bestandsübertragungsvertrag bedarf der Schriftform; § 311b Absatz 3 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Genehmigung wird erteilt, wenn durch eine Bescheinigung der zuständigen Behörde des Mitglied- oder Vertragsstaats nachgewiesen ist, dass das übernehmende Unternehmen unter Berücksichtigung der Übertragung über anrechnungsfähige Eigenmittel zur Einhaltung der Solvabilitätskapitalanforderung verfügt. Die Rechte und Pflichten des übertragenden Unternehmens aus den Rückversicherungsverträgen gehen mit der Bestandsübertragung auch im Verhältnis zu den Vorversicherern auf das übernehmende Unternehmen über; § 415 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Genehmigung der Bestandsübertragung ist im Bundesanzeiger zu veröffentlichen. Sobald die Bestandsübertragung wirksam geworden ist, hat das übernehmende Versicherungsunternehmen unverzüglich die Vorversicherer über die Bestandsübertragung schriftlich zu informieren.
 
@@ -3098,8 +2920,7 @@ In diesem Fall gilt § 3a Absatz 1 Nummer 1 und 2 des Pflichtversicherungsgesetz
 
 (3) Jede Umwandlung eines Rückversicherungsunternehmens nach den §§ 1 und 122a des Umwandlungsgesetzes, bei der Rückversicherungsverträge zu den von der Umwandlung erfassten Vermögensgegenständen gehören, bedarf der Genehmigung der Aufsichtsbehörde. Absatz 1 Satz 3 und 4 ist entsprechend anzuwenden. Die Genehmigung kann auch versagt werden, wenn die Vorschriften über die Umwandlung nicht beachtet worden sind. Die Absicht der Umwandlung eines Rückversicherungsunternehmens nach den §§ 1 und 122a des Umwandlungsgesetzes, soweit sie nicht der Genehmigungspflicht nach Satz 1 unterliegt, ist der Aufsichtsbehörde unverzüglich anzuzeigen.
 
-
-## § 167 – Finanzrückversicherung
+# § 167 – Finanzrückversicherung
 
 (1) Eine Finanzrückversicherung ist eine Rückversicherung, bei der das übernommene wirtschaftliche Gesamtrisiko, das sich aus der Übernahme sowohl eines erheblichen versicherungstechnischen Risikos als auch des Risikos hinsichtlich der Abwicklungsdauer ergibt, die Prämiensumme über die Gesamtlaufzeit des Versicherungsvertrags um einen begrenzten, aber erheblichen Betrag übersteigt (hinreichender Risikotransfer), wenn dabei zumindest
 
@@ -3111,8 +2932,7 @@ Die Vorschriften dieses Gesetzes, die an das Bestehen einer Rückversicherung an
 
 (2) Versicherungsunternehmen, die Finanzrückversicherungsverträge schließen oder Finanzrückversicherungsgeschäfte tätigen, müssen sicherstellen, dass sie die aus diesen Verträgen oder Geschäften erwachsenden Risiken angemessen identifizieren, bewerten, überwachen, steuern, kontrollieren und über diese berichten können.
 
-
-## § 168 – Versicherungs-Zweckgesellschaften
+# § 168 – Versicherungs-Zweckgesellschaften
 
 (1) Eine Versicherungs-Zweckgesellschaft ist eine Kapitalgesellschaft oder eine Personengesellschaft, die kein bestehendes Versicherungsunternehmen ist und Risiken von Versicherungsunternehmen übernimmt, wobei sie die Schadenrisiken vollständig über die Emission von Schuldtiteln oder einen anderen Finanzierungsmechanismus absichert, bei dem die Rückzahlungsansprüche der Darlehensgeber oder der Finanzierungsmechanismus den Rückversicherungsverpflichtungen der Gesellschaft nachgeordnet sind. Die Laufzeit der Schuldtitel oder des anderen Finanzierungsmechanismus muss derjenigen des Rückversicherungsvertrags mindestens entsprechen. Versicherungs-Zweckgesellschaften mit Sitz oder Hauptverwaltung im Inland bedürfen zur Aufnahme des Geschäftsbetriebs der Erlaubnis der Aufsichtsbehörde.
 
@@ -3120,8 +2940,7 @@ Die Vorschriften dieses Gesetzes, die an das Bestehen einer Rückversicherung an
 
 (3) Sind die Mittel einer Versicherungs-Zweckgesellschaft nicht ausreichend im Sinne der nach Artikel 211 Absatz 2 der Richtlinie 2009/138/EG erlassenen Durchführungsmaßnahme der Europäischen Kommission, hat die Versicherungs-Zweckgesellschaft auf Verlangen der Aufsichtsbehörde dieser einen Plan zur Wiederherstellung gesunder Finanzverhältnisse zur Genehmigung vorzulegen. Die Aufsichtsbehörde kann die Erlaubnis zum Geschäftsbetrieb widerrufen, wenn die Versicherungs-Zweckgesellschaft außerstande ist, innerhalb einer angemessenen, von der Aufsichtsbehörde gesetzten Frist wieder ausreichende Mittel vorzuweisen.
 
-
-## § 169 – Rückversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat
+# § 169 – Rückversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat
 
 (1) Rückversicherungsunternehmen mit Sitz in einem anderen Mitglied- oder Vertragsstaat, die eine behördliche Zulassung nach den Rechtsvorschriften besitzen, die in dem Herkunftsstaat zur Umsetzung des Artikels 14 der Richtlinie 2009/138/EG erlassen worden sind, dürfen das Rückversicherungsgeschäft im Inland durch eine Niederlassung oder im Dienstleistungsverkehr betreiben. Die Aufsicht mit Ausnahme der Finanzaufsicht obliegt der Bundesanstalt, die hierbei mit der zuständigen Aufsichtsbehörde des Herkunftsstaats zusammenzuarbeiten hat.
 
@@ -3131,8 +2950,7 @@ Die Vorschriften dieses Gesetzes, die an das Bestehen einer Rückversicherung an
 
 (4) Für die Aufsicht der Bundesanstalt nach Absatz 1 gelten neben den Absätzen 2 und 3 die §§ 4, 68 Absatz 2 Satz 4, die §§ 298, 299 Nummer 1, die §§ 303, 305 Absatz 1 Nummer 2, Absatz 3 und 5, § 306 Absatz 1 Satz 1 Nummer 1 bis 3, Absatz 2 Satz 1 Nummer 2, Absatz 5 bis 8, § 310 und § 17 des Finanzdienstleistungsaufsichtsgesetzes entsprechend. § 305 Absatz 1 Nummer 1 findet mit der Maßgabe entsprechende Anwendung, dass an die Stelle der Versicherungsnehmer die Vorversicherer treten.
 
-
-## § 170 – Verordnungsermächtigung
+# § 170 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen
 
@@ -3148,49 +2966,41 @@ c) wie Unternehmen durch geeignete interne Verfahren den Risikotransfer unter ei
 
 Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 171 – Rechtsfähigkeit
+# § 171 – Rechtsfähigkeit
 
 Ein Verein, der die Versicherung seiner Mitglieder nach dem Grundsatz der Gegenseitigkeit betreiben will, wird dadurch rechtsfähig, dass ihm die Aufsichtsbehörde erlaubt, als Versicherungsverein auf Gegenseitigkeit Geschäfte zu betreiben.
 
-
-## § 172 – Anwendung handelsrechtlicher Vorschriften
+# § 172 – Anwendung handelsrechtlicher Vorschriften
 
 Soweit dieses Gesetz nichts anderes vorschreibt, gelten die Vorschriften des Ersten und Vierten Buchs des Handelsgesetzbuchs über Kaufleute mit Ausnahme der §§ 1 bis 7 entsprechend auch für Versicherungsvereine auf Gegenseitigkeit. Für die Rechnungslegung gelten die Vorschriften des Zweiten Unterabschnitts des Vierten Abschnitts in Verbindung mit den Vorschriften des Ersten und Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs entsprechend.
 
-
-## § 173 – Satzung
+# § 173 – Satzung
 
 (1) Die Verfassung eines Versicherungsvereins auf Gegenseitigkeit wird durch die Satzung bestimmt, soweit sie nicht auf den folgenden Vorschriften beruht.
 
 (2) Die Satzung muss notariell beurkundet sein.
 
-
-## § 174 – Firma
+# § 174 – Firma
 
 (1) Die Satzung hat den Namen (die Firma) und den Sitz des Vereins zu bestimmen.
 
 (2) Die Firma soll den Sitz des Vereins erkennen lassen. Auch ist in der Firma oder in einem Zusatz auszudrücken, dass Versicherung auf Gegenseitigkeit betrieben wird.
 
-
-## § 175 – Haftung für Verbindlichkeiten
+# § 175 – Haftung für Verbindlichkeiten
 
 Für alle Verbindlichkeiten des Vereins haftet den Vereinsgläubigern nur das Vereinsvermögen. Die Mitglieder haften den Vereinsgläubigern nicht.
 
-
-## § 176 – Mitgliedschaft
+# § 176 – Mitgliedschaft
 
 Die Satzung soll Bestimmungen über den Beginn der Mitgliedschaft enthalten. Mitglied kann nur werden, wer ein Versicherungsverhältnis mit dem Verein begründet. Soweit die Satzung nichts anderes bestimmt, endet die Mitgliedschaft, wenn das Versicherungsverhältnis aufhört.
 
-
-## § 177 – Gleichbehandlung
+# § 177 – Gleichbehandlung
 
 (1) Mitgliedsbeiträge und Vereinsleistungen an die Mitglieder dürfen bei gleichen Voraussetzungen nur nach gleichen Grundsätzen bemessen sein.
 
 (2) Versicherungsgeschäfte gegen feste Entgelte, ohne dass die Versicherungsnehmer Mitglieder werden, darf der Verein nur betreiben, soweit es die Satzung ausdrücklich gestattet.
 
-
-## § 178 – Gründungsstock
+# § 178 – Gründungsstock
 
 (1) In der Satzung ist vorzusehen, dass ein Gründungsstock gebildet wird, der die Kosten der Vereinserrichtung zu decken sowie als Gewähr- und Betriebsstock zu dienen hat. Die Satzung soll die Bedingungen enthalten, unter denen der Gründungsstock dem Verein zur Verfügung steht und besonders bestimmen, wie der Gründungsstock zu tilgen ist sowie ob und in welchem Umfang die Personen, die ihn zur Verfügung gestellt haben, berechtigt sein sollen, an der Vereinsverwaltung teilzunehmen.
 
@@ -3202,8 +3012,7 @@ Die Satzung soll Bestimmungen über den Beginn der Mitgliedschaft enthalten. Mit
 
 (5) Die Satzung kann zulassen, dass nach Errichtung des Vereins ein weiterer Gründungsstock gebildet wird, der den Zweck hat, die langfristige Risikotragfähigkeit des Vereins zu gewährleisten. Einzahlungen in den weiteren Gründungsstock und seine Tilgung bedürfen der Zustimmung der Aufsichtsbehörde. Absatz 4 findet keine Anwendung.
 
-
-## § 179 – Beiträge
+# § 179 – Beiträge
 
 (1) Die Satzung hat zu bestimmen, ob die Ausgaben durch einmalige oder wiederkehrende Beiträge gedeckt werden sollen, die im Voraus erhoben werden, oder durch Beiträge, die je nach Bedarf umgelegt werden.
 
@@ -3211,8 +3020,7 @@ Die Satzung soll Bestimmungen über den Beginn der Mitgliedschaft enthalten. Mit
 
 (3) Die Satzung kann für Nachschüsse und Umlagen einen Höchstbetrag festsetzen. Eine Beschränkung, derzufolge Nachschüsse oder Umlagen nur ausgeschrieben werden dürfen, um Versicherungsansprüche der Mitglieder zu decken, ist unzulässig.
 
-
-## § 180 – Beitragspflicht ausgeschiedener oder eingetretener Mitglieder
+# § 180 – Beitragspflicht ausgeschiedener oder eingetretener Mitglieder
 
 (1) Zu den Nachschüssen oder Umlagen haben auch die im Laufe des Geschäftsjahres ausgeschiedenen oder eingetretenen Mitglieder beizutragen. Die Beitragspflicht bemisst sich danach, wie lange sie in dem Geschäftsjahr dem Verein angehört haben.
 
@@ -3220,41 +3028,35 @@ Die Satzung soll Bestimmungen über den Beginn der Mitgliedschaft enthalten. Mit
 
 (3) Die Absätze 1 und 2 gelten nur, soweit die Satzung nichts anderes bestimmt.
 
-
-## § 181 – Aufrechnungsverbot
+# § 181 – Aufrechnungsverbot
 
 Gegen eine Forderung des Vereins aus der Beitragspflicht kann das Mitglied nicht aufrechnen.
 
-
-## § 182 – Ausschreibung von Umlagen und Nachschüssen
+# § 182 – Ausschreibung von Umlagen und Nachschüssen
 
 (1) Die Satzung soll bestimmen, unter welchen Voraussetzungen Nachschüsse oder Umlagen ausgeschrieben werden dürfen, insbesondere, inwieweit zuvor andere Deckungsmittel wie Gründungsstock oder Rücklagen verwendet werden müssen.
 
 (2) Die Satzung soll ferner bestimmen, wie die Nachschüsse oder Umlagen ausgeschrieben und eingezogen werden.
 
-
-## § 183 – Bekanntmachungen
+# § 183 – Bekanntmachungen
 
 (1) Die Satzung hat zu bestimmen, wie die Vereinsbekanntmachungen erlassen werden.
 
 (2) Vereinsbekanntmachungen sind im Bundesanzeiger zu veröffentlichen.
 
-
-## § 184 – Organe
+# § 184 – Organe
 
 Die Satzung hat zu bestimmen, wie ein Vorstand, ein Aufsichtsrat und eine oberste Vertretung (oberstes Organ; Versammlung von Mitgliedern oder von Vertretern der Mitglieder) zu bilden sind.
 
 (+++ § 184: Zur Anwendung vgl. § 234 Abs. 5 Satz 1 +++)
 
-
-## § 185 – Anmeldung zum Handelsregister
+# § 185 – Anmeldung zum Handelsregister
 
 (1) Sämtliche Vorstands- und Aufsichtsratsmitglieder haben den Verein bei dem Gericht, in dessen Bezirk er seinen Sitz hat, zur Eintragung ins Handelsregister anzumelden. In der Anmeldung ist anzugeben, welche Vertretungsbefugnis die Vorstandsmitglieder haben.
 
 (2) Die Aufsichtsbehörde hat dem Registergericht jede Erlaubnis zum Geschäftsbetrieb im Sinne des § 171 mitzuteilen.
 
-
-## § 186 – Unterlagen zur Anmeldung
+# § 186 – Unterlagen zur Anmeldung
 
 (1) Der Anmeldung zum Handelsregister sind beizufügen:
 
@@ -3272,8 +3074,7 @@ Die Satzung hat zu bestimmen, wie ein Vorstand, ein Aufsichtsrat und eine oberst
 
 (2) Für die Einreichung von Unterlagen nach diesem Gesetz gilt § 12 Absatz 2 des Handelsgesetzbuchs entsprechend.
 
-
-## § 187 – Eintragung
+# § 187 – Eintragung
 
 (1) Bei der Eintragung ins Handelsregister sind anzugeben:
 
@@ -3291,8 +3092,7 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 
 (2) Bestimmt die Satzung etwas über die Dauer des Vereins, so ist auch das einzutragen.
 
-
-## § 188 – Vorstand
+# § 188 – Vorstand
 
 (1) Der Vorstand besteht aus mindestens zwei Personen. Für den Vorstand gelten § 76 Absatz 1, 3 und 4, die §§ 77 bis 87, 88 bis 91 und 93 Absatz 1, 2 und 4 bis 6 sowie § 94 des Aktiengesetzes entsprechend mit der Maßgabe, dass an die Stelle der Beschlüsse der Hauptversammlung die Beschlüsse der obersten Vertretung treten. An die Stelle des § 93 Absatz 3 des Aktiengesetzes tritt die Vorschrift des Absatzes 2.
 
@@ -3308,8 +3108,7 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 
 (+++ § 188 Abs. 1 Satz 1: Zur Anwendung vgl. § 33 Abs. 1 +++)
 
-
-## § 189 – Aufsichtsrat
+# § 189 – Aufsichtsrat
 
 (1) Der Aufsichtsrat besteht aus drei Personen. Die Satzung kann eine bestimmte höhere Zahl festsetzen, die durch drei teilbar sein muss. Die Höchstzahl der Aufsichtsratsmitglieder beträgt 21.
 
@@ -3319,37 +3118,31 @@ Ferner ist einzutragen, welche Vertretungsbefugnis die Vorstandsmitglieder haben
 
 (4) Die Aufsichtsratsmitglieder sind insbesondere zum Ersatz verpflichtet, wenn mit ihrem Wissen und ohne ihr Einschreiten die in § 188 Absatz 2 genannten Handlungen vorgenommen werden.
 
-
-## § 190 – Schadenersatzpflicht
+# § 190 – Schadenersatzpflicht
 
 § 117 des Aktiengesetzes gilt entsprechend.
 
-
-## § 191 – Oberste Vertretung
+# § 191 – Oberste Vertretung
 
 Für die oberste Vertretung gelten entsprechend die für die Hauptversammlung geltenden Vorschriften der §§ 118, 119 Absatz 1 Nummer 1, 2, 4, 6, 8 und 9 sowie Absatz 2, von § 120 Absatz 1 bis 3 und § 121 Absatz 1 bis 4, 5 Satz 1 und Absatz 6, der §§ 122 und 123 Absatz 1, der §§ 124 bis 127, 129 Absatz 1 und 4, des § 130 Absatz 1 Satz 1 und 2 sowie Absatz 2 bis 5, der §§ 131 bis 133 und 134 Absatz 4 sowie der §§ 136, 142 bis 149, 241 bis 253 und 257 bis 261 des Aktiengesetzes. § 256 des Aktiengesetzes gilt entsprechend. Ist die oberste Vertretung die Mitgliederversammlung, so gilt auch § 134 Absatz 3 des Aktiengesetzes entsprechend. Genussrechte im Sinne des § 214 Absatz 2 dürfen nur auf Grund eines Beschlusses der obersten Vertretung gewährt werden. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen. Die Satzung kann eine andere Mehrheit und weitere Erfordernisse bestimmen.
 
-
-## § 192 – Rechte von Minderheiten
+# § 192 – Rechte von Minderheiten
 
 Soweit die Vorschriften des Aktiengesetzes, die nach den §§ 188, 190 und 191 entsprechend gelten, einer Minderheit von Aktionären Rechte gewähren (§ 93 Absatz 4 Satz 3, § 117 Absatz 4, § 120 Absatz 1, §§ 122, 142 Absatz 2 und 4, §§ 147, 258 Absatz 2 Satz 3 sowie § 260 Absatz 1 Satz 1 und Absatz 3 Satz 4 des Aktiengesetzes), hat die Satzung die erforderliche Minderheit der Mitglieder der obersten Vertretung zu bestimmen.
 
-
-## § 193 – Verlustrücklage
+# § 193 – Verlustrücklage
 
 Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen Verlusts aus dem Geschäftsbetrieb eine Rücklage (Verlustrücklage, Reservefonds) zu bilden ist, welche Beträge jährlich zurückzulegen sind und welchen Mindestbetrag die Rücklage erreichen muss.
 
 (+++ § 193: Zur Anwendung vgl. § 5 Abs. 2 +++)
 
-
-## § 194 – Überschussverwendung
+# § 194 – Überschussverwendung
 
 (1) Ein sich nach der Bilanz ergebender Überschuss wird, soweit er nicht nach der Satzung der Verlustrücklage oder anderen Rücklagen zuzuführen oder zur Verteilung von Vergütungen zu verwenden oder auf das nächste Geschäftsjahr zu übertragen ist, an die in der Satzung bestimmten Mitglieder verteilt. § 214 Absatz 2 bleibt unberührt.
 
 (2) Die Satzung hat zu bestimmen, welcher Maßstab der Verteilung zugrunde zu legen ist und ob der Überschuss nur an die am Schluss des Geschäftsjahres vorhandenen oder auch an ausgeschiedene Mitglieder verteilt werden soll.
 
-
-## § 195 – Änderung der Satzung
+# § 195 – Änderung der Satzung
 
 (1) Nur die oberste Vertretung kann die Satzung ändern.
 
@@ -3361,8 +3154,7 @@ Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen Verlust
 
 (+++ § 195 Abs. 3: Zur Anwendung vgl. § 33 Abs. 1 +++)
 
-
-## § 196 – Eintragung der Satzungsänderung
+# § 196 – Eintragung der Satzungsänderung
 
 (1) Die Satzungsänderung ist zur Eintragung ins Handelsregister anzumelden. Der Anmeldung ist die Genehmigungsurkunde beizufügen. Es ist ferner der vollständige Wortlaut der Satzung beizufügen; er muss mit der Bescheinigung eines Notars versehen sein, dass die geänderten Bestimmungen der Satzung mit dem Beschluss über die Satzungsänderung und die unveränderten Bestimmungen mit dem zuletzt zum Handelsregister eingereichten vollständigen Wortlaut der Satzung übereinstimmen.
 
@@ -3370,8 +3162,7 @@ Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen Verlust
 
 (3) Die Änderung wirkt nicht, bevor sie bei dem Gericht, in dessen Bezirk der Verein seinen Sitz hat, ins Handelsregister eingetragen worden ist.
 
-
-## § 197 – Änderung der allgemeinen Versicherungsbedingungen
+# § 197 – Änderung der allgemeinen Versicherungsbedingungen
 
 (1) § 195 Absatz 1 und 2 gilt vorbehaltlich des Absatzes 2 entsprechend auch für Änderungen der allgemeinen Versicherungsbedingungen.
 
@@ -3379,8 +3170,7 @@ Die Satzung hat zu bestimmen, dass zur Deckung eines außergewöhnlichen Verlust
 
 (3) Eine Änderung der Satzung oder der allgemeinen Versicherungsbedingungen berührt ein bestehendes Versicherungsverhältnis nur, wenn der Versicherte der Änderung ausdrücklich zustimmt. Dies gilt nicht für solche Bestimmungen, für die die Satzung ausdrücklich vorsieht, dass sie auch mit Wirkung für die bestehenden Versicherungsverhältnisse geändert werden können.
 
-
-## § 198 – Auflösung des Vereins
+# § 198 – Auflösung des Vereins
 
 Der Verein wird aufgelöst:
 
@@ -3392,8 +3182,7 @@ Der Verein wird aufgelöst:
 
 4. mit der Rechtskraft des Beschlusses, durch den die Eröffnung des Insolvenzverfahrens mangels Masse abgelehnt wird.
 
-
-## § 199 – Auflösungsbeschluss
+# § 199 – Auflösungsbeschluss
 
 (1) Der Beschluss nach § 198 Nummer 2 bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen, wenn die Satzung nichts anderes bestimmt. Mitglieder der obersten Vertretung, die gegen die Auflösung gestimmt haben, können dem Auflösungsbeschluss zur Niederschrift widersprechen.
 
@@ -3401,13 +3190,11 @@ Der Verein wird aufgelöst:
 
 (3) Ist der Verein durch einen Beschluss der obersten Vertretung aufgelöst worden, so erlöschen die Versicherungsverhältnisse zwischen den Mitgliedern und dem Verein mit dem Zeitpunkt, den der Beschluss bestimmt, frühestens jedoch mit dem Ablauf von vier Wochen. Versicherungsansprüche, die bis dahin entstanden sind, können geltend gemacht werden; im Übrigen können aber nur die für künftige Versicherungszeitabschnitte im Voraus gezahlten Beiträge nach Abzug der aufgewandten Kosten zurückgefordert werden. Diese Vorschriften gelten nicht für Lebensversicherungsverhältnisse; diese bleiben unberührt, wenn die Satzung nichts anderes bestimmt.
 
-
-## § 200 – Bestandsübertragung
+# § 200 – Bestandsübertragung
 
 Verträge, durch die der Versicherungsbestand des Vereins ganz oder teilweise auf ein anderes Unternehmen übertragen werden soll, bedürfen zu ihrer Wirksamkeit der Zustimmung der obersten Vertretung. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen, wenn die Satzung nichts anderes bestimmt. Mit der Zustimmung ist zugleich über die Höhe einer Abfindung nach § 201 zu beschließen. In dem Beschluss sind die Maßstäbe festzusetzen, nach denen die Abfindung auf die Mitglieder zu verteilen ist.
 
-
-## § 201 – Verlust der Mitgliedschaft
+# § 201 – Verlust der Mitgliedschaft
 
 (1) Verliert ein Versicherungsnehmer durch eine Bestandsübertragung ganz oder zum Teil seine Rechte als Vereinsmitglied und wird er nicht Mitglied eines übernehmenden Versicherungsvereins auf Gegenseitigkeit, so steht ihm für diesen Verlust eine angemessene Barabfindung zu. Sie muss die Verhältnisse des Vereins zum Zeitpunkt der Beschlussfassung nach § 200 berücksichtigen.
 
@@ -3427,20 +3214,17 @@ Verträge, durch die der Versicherungsbestand des Vereins ganz oder teilweise au
 
 6. der Dauer der Mitgliedschaft.
 
-
-## § 202 – Anmeldung der Auflösung
+# § 202 – Anmeldung der Auflösung
 
 Der Vorstand hat die Auflösung des Vereins zur Eintragung in das Handelsregister anzumelden. Dies gilt nicht in den Fällen des § 198 Nummer 3 und 4. In diesen Fällen hat das Gericht die Auflösung und ihren Grund von Amts wegen einzutragen; die Geschäftsstelle des Insolvenzgerichts hat dem Registergericht eine beglaubigte Abschrift des Eröffnungsbeschlusses oder eine mit der Bescheinigung der Rechtskraft versehene beglaubigte Abschrift des den Eröffnungsantrag ablehnenden Beschlusses zu übersenden.
 
-
-## § 203 – Abwicklung
+# § 203 – Abwicklung
 
 (1) Nach der Auflösung des Vereins findet die Abwicklung statt, wenn nicht über sein Vermögen das Insolvenzverfahren eröffnet worden ist.
 
 (2) Während der Abwicklung gelten die gleichen Vorschriften wie vor der Abwicklung, soweit sich aus den folgenden Vorschriften oder aus dem Zweck der Abwicklung nichts anderes ergibt. Insbesondere können Nachschüsse oder Umlagen im Sinne des § 179 ausgeschrieben und eingezogen werden. Neue Versicherungen dürfen nicht mehr übernommen, die bestehenden nicht erhöht oder verlängert werden.
 
-
-## § 204 – Abwicklungsverfahren
+# § 204 – Abwicklungsverfahren
 
 (1) Die Abwicklung besorgen die Vorstandsmitglieder als Abwickler, wenn nicht die Satzung oder ein Beschluss der obersten Vertretung andere Personen bestellt. Auch eine juristische Person kann Abwickler sein.
 
@@ -3448,8 +3232,7 @@ Der Vorstand hat die Auflösung des Vereins zur Eintragung in das Handelsregiste
 
 (3) Im Übrigen gelten für die Abwicklung § 265 Absatz 4, die §§ 266 bis 269, 270 Absatz 1 und 2 Satz 1 und die §§ 272, 273 des Aktiengesetzes entsprechend. Unbeschadet des entsprechend anzuwendenden § 270 Absatz 2 Satz 3 und Absatz 3 des Aktiengesetzes gelten für die Eröffnungsbilanz, den erläuternden Bericht, den Jahresabschluss und den Lagebericht die auf die Aufstellung und Prüfung des Jahresabschlusses und des Lageberichts des Vereins anzuwendenden Vorschriften sowie die §§ 175, 176 des Aktiengesetzes und die §§ 325, 328 des Handelsgesetzbuchs sinngemäß.
 
-
-## § 205 – Tilgung des Gründungsstocks; Vermögensverteilung
+# § 205 – Tilgung des Gründungsstocks; Vermögensverteilung
 
 (1) Der Gründungsstock darf erst getilgt werden, wenn die Ansprüche sämtlicher anderer Gläubiger, insbesondere die der Mitglieder aus Versicherungsverhältnissen, befriedigt sind oder Sicherheit geleistet ist. Für die Tilgung dürfen keine Nachschüsse oder Umlagen erhoben werden.
 
@@ -3457,8 +3240,7 @@ Der Vorstand hat die Auflösung des Vereins zur Eintragung in das Handelsregiste
 
 (3) Über die Verteilung des Vermögens kann die Satzung etwas anderes bestimmen; die Bestimmung anderer Anfallberechtigter kann sie der obersten Vertretung übertragen.
 
-
-## § 206 – Fortsetzung des Vereins
+# § 206 – Fortsetzung des Vereins
 
 (1) Ist ein Verein durch Zeitablauf oder durch Beschluss der obersten Vertretung aufgelöst worden, so kann die oberste Vertretung, solange noch nicht mit der Verteilung des Vermögens unter die Anfallberechtigten begonnen worden ist, die Fortsetzung des Vereins beschließen. Der Beschluss bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen, wenn die Satzung nichts anderes bestimmt. Er bedarf der Genehmigung der Aufsichtsbehörde; diese hat die Genehmigung dem Registergericht mitzuteilen.
 
@@ -3468,29 +3250,25 @@ Der Vorstand hat die Auflösung des Vereins zur Eintragung in das Handelsregiste
 
 (4) Der Fortsetzungsbeschluss hat keine Wirkung, bevor er in das Handelsregister des Sitzes des Vereins eingetragen worden ist.
 
-
-## § 207 – Beitragspflicht im Insolvenzverfahren
+# § 207 – Beitragspflicht im Insolvenzverfahren
 
 (1) Soweit Mitglieder oder ausgeschiedene Mitglieder nach dem Gesetz oder der Satzung zu Beiträgen verpflichtet sind, haften sie bei Eröffnung des Insolvenzverfahrens dem Verein gegenüber für seine Schulden.
 
 (2) Mitglieder, die im letzten Jahr vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag ausgeschieden sind, haften für die Schulden des Vereins, als ob sie ihm noch angehörten.
 
-
-## § 208 – Rang der Insolvenzforderungen
+# § 208 – Rang der Insolvenzforderungen
 
 (1) Die Ansprüche auf Tilgung des Gründungsstocks stehen allen übrigen Insolvenzforderungen nach. Unter den Insolvenzforderungen werden Ansprüche aus einem Versicherungsverhältnis, die den bei Eröffnung des Insolvenzverfahrens dem Verein angehörenden oder im letzten Jahr vor dem Eröffnungsantrag oder nach diesem Antrag ausgeschiedenen Mitgliedern zustehen, im Rang nach den Ansprüchen der anderen Insolvenzgläubiger befriedigt.
 
 (2) Zur Tilgung des Gründungsstocks dürfen keine Nachschüsse oder Umlagen erhoben werden.
 
-
-## § 209 – Nachschüsse und Umlagen im Insolvenzverfahren
+# § 209 – Nachschüsse und Umlagen im Insolvenzverfahren
 
 (1) Die Nachschüsse oder Umlagen, die das Insolvenzverfahren erfordert, werden vom Insolvenzverwalter festgestellt und ausgeschrieben. Dieser hat sofort, nachdem die Vermögensübersicht nach § 153 der Insolvenzordnung auf der Geschäftsstelle niedergelegt ist, zu berechnen, wie viel die Mitglieder zur Deckung des aus der Vermögensübersicht ersichtlichen Fehlbetrags nach ihrer Beitragspflicht vorzuschießen haben. Für diese Vorschussberechnung und für Zusatzberechnungen gelten § 106 Absatz 1 Satz 2, Absatz 2 und 3 sowie die §§ 107 bis 113 des Genossenschaftsgesetzes entsprechend.
 
 (2) Alsbald nach Beginn der Schlussverteilung nach § 196 der Insolvenzordnung hat der Insolvenzverwalter zu berechnen, welche Beiträge die Mitglieder endgültig zu leisten haben. Dafür und für das weitere Verfahren gelten § 114 Absatz 2 und die §§ 115, 115a, 115c und 115d Absatz 1 sowie die §§ 115e bis 118 des Genossenschaftsgesetzes entsprechend.
 
-
-## § 210 – Kleinere Vereine
+# § 210 – Kleinere Vereine
 
 (1) Für Vereine, die bestimmungsgemäß einen sachlich, örtlich oder dem Personenkreis nach eng begrenzten Wirkungskreis haben (kleinere Vereine), gelten von den Vorschriften dieses Kapitels nur die §§ 171 und 172 Satz 2, § 173 Absatz 1, § 174 Absatz 1, die §§ 175, 176 und 177 Absatz 1, die §§ 178 bis 182 und 183 Absatz 1, § 188 Absatz 1 Satz 1, die §§ 193, 194 und 195 Absatz 1 bis 3, die §§ 197, 198 und 199 Absatz 1, 2 Satz 1 und Absatz 3 sowie die §§ 200, 205 und 207 bis 209. Versicherungen gegen festes Entgelt, ohne dass der Versicherungsnehmer Mitglied wird, dürfen nicht übernommen werden.
 
@@ -3503,8 +3281,7 @@ Der Vorstand hat die Auflösung des Vereins zur Eintragung in das Handelsregiste
 (+++ § 210: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)  
 (+++ § 210 Abs. 3 Satz 1: Zur Anwendung vgl. § 233 Abs. 1 Satz 4 +++)
 
-
-## § 211 – Kleine Versicherungsunternehmen
+# § 211 – Kleine Versicherungsunternehmen
 
 (1) Kleine Versicherungsunternehmen im Sinne dieses Gesetzes sind Erstversicherungsunternehmen,
 
@@ -3536,8 +3313,7 @@ Sofern das Erstversicherungsunternehmen einer Gruppe angehört, dürfen die gesa
 
 (4) Auf Antrag ist ein Erstversicherungsunternehmen, das nach den Absätzen 1 und 2 als kleines Versicherungsunternehmen anzusehen wäre, nicht als ein solches zu behandeln.
 
-
-## § 212 – Anzuwendende Vorschriften
+# § 212 – Anzuwendende Vorschriften
 
 (1) Für kleine Versicherungsunternehmen gelten die auf Erstversicherungsunternehmen, die keine Sterbekassen oder Pensionskassen sind, anwendbaren Vorschriften dieses Gesetzes, soweit dieses Kapitel keine abweichenden Regelungen enthält.
 
@@ -3549,8 +3325,7 @@ Sofern das Erstversicherungsunternehmen einer Gruppe angehört, dürfen die gesa
 
 3. die Vorschriften über den Bericht über Solvabilität und Finanzlage, §§ 40 bis 42,
 
-3a.  
-von den Vorschriften über den Versicherungsvertrieb § 48 Absatz 2a,
+3a. von den Vorschriften über den Versicherungsvertrieb § 48 Absatz 2a,
 
 4. von den Vorschriften über den Dienstleistungs- und Niederlassungsverkehr die §§ 57 bis 59,
 
@@ -3590,13 +3365,11 @@ von den Vorschriften über den Versicherungsvertrieb § 48 Absatz 2a,
 
 13. § 304 Absatz 1 Nummer 2 mit der Maßgabe, dass die Aufsichtsbehörde die Erlaubnis widerrufen kann, wenn es dem Unternehmen nicht gelingt, innerhalb von drei Monaten nach Feststellung der Nichtbedeckung der Mindestkapitalanforderung den genehmigten Finanzierungsplan zu erfüllen, und die Erlaubnis zu widerrufen ist, wenn es dem Unternehmen nicht gelingt, innerhalb von neun Monaten nach Feststellung der Nichtbedeckung der Mindestkapitalanforderung den genehmigten Finanzierungsplan zu erfüllen.
 
-
-## § 213 – Solvabilitäts- und Mindestkapitalanforderung
+# § 213 – Solvabilitäts- und Mindestkapitalanforderung
 
 Kleine Versicherungsunternehmen müssen stets über Eigenmittel mindestens in Höhe der Solvabilitätskapitalanforderung verfügen. Die Solvabilitätskapitalanforderung ist nach der Rechtsverordnung zu § 217 Satz 1 Nummer 1 zu berechnen. Ein Drittel der Solvabilitätskapitalanforderung gilt als Mindestkapitalanforderung.
 
-
-## § 214 – Eigenmittel
+# § 214 – Eigenmittel
 
 (1) In die Ermittlung der Eigenmittel gehen ein
 
@@ -3726,8 +3499,7 @@ Die Aufsichtsbehörde kann auf Antrag des Versicherungsunternehmens in Bezug auf
 
 (8) Auf Kapital im Sinne des Absatzes 1 Satz 1 Nummer 4 und 5, das vor dem 13. Januar 2019 eingezahlt worden ist, können die Absätze 2 und 3 in der bis zum 12. Januar 2019 geltenden Fassung weiter angewendet werden. Satz 1 gilt letztmalig in dem Geschäftsjahr, das nach dem 31. Dezember 2027 beginnt.
 
-
-## § 215 – Anlagegrundsätze für das Sicherungsvermögen
+# § 215 – Anlagegrundsätze für das Sicherungsvermögen
 
 (1) Die Bestände des Sicherungsvermögens nach § 125 sind unter Berücksichtigung der Art der betriebenen Versicherungsgeschäfte sowie der Unternehmensstruktur so anzulegen, dass möglichst große Sicherheit und Rentabilität bei jederzeitiger Liquidität des Versicherungsunternehmens unter Wahrung angemessener Mischung und Streuung erreicht werden.
 
@@ -3754,8 +3526,7 @@ Darüber hinaus darf das Sicherungsvermögen nur angelegt werden, soweit dies di
 (+++ § 215: Zur Anwendung vgl. § 165 Abs. 1, § 234 Abs. 3 Satz 1 Nr. 9a u. § 237 Abs. 1 Satz 2 +++)  
 (+++ § 215 Abs. 1 u. 2 Satz 1 Nr. 8: Zur Anwendung vgl. § 234 Abs. 2 Satz 6 +++)
 
-
-## § 216 – Anzeigepflichten
+# § 216 – Anzeigepflichten
 
 (1) Zusammen mit dem nach § 341a Absatz 1 des Handelsgesetzbuchs vorgeschriebenen Jahresabschluss und Lagebericht ist der Aufsichtsbehörde jährlich eine Berechnung der Solvabilitätskapitalanforderung vorzulegen und sind ihr die Eigenmittel nachzuweisen.
 
@@ -3763,8 +3534,7 @@ Darüber hinaus darf das Sicherungsvermögen nur angelegt werden, soweit dies di
 
 (+++ § 216 Abs. 2: Zur Anwendung vgl. § 234 Abs. 3 Satz 1 Nr. 10 +++)
 
-
-## § 217 – Verordnungsermächtigung
+# § 217 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vorschriften für kleine Versicherungsunternehmen zu erlassen
 
@@ -3790,15 +3560,13 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 Das Bundesministerium der Finanzen kann die Ermächtigungen nach Satz 1 Nummer 1 bis 5 durch Rechtsverordnung auf die Bundesanstalt übertragen. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates. Rechtsverordnungen nach Satz 1 Nummer 6 bis 10 sind im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz zu erlassen.
 
-
-## § 218 – Sterbekassen
+# § 218 – Sterbekassen
 
 (1) Sterbekassen sind Lebensversicherungsunternehmen, die nach ihrem Geschäftsplan nur Todesfallrisiken im Inland versichern, soweit der Betrag ihrer Leistungen den Durchschnittswert der Bestattungskosten bei einem Todesfall nicht übersteigt oder diese Leistungen in Sachwerten erbracht werden.
 
 (2) Sterbekassen dürfen nicht die in § 1 Absatz 2 genannten Geschäfte betreiben.
 
-
-## § 219 – Anzuwendende Vorschriften
+# § 219 – Anzuwendende Vorschriften
 
 (1) Auf Sterbekassen finden unabhängig von der Höhe ihrer Beitragseinnahmen und ihrer versicherungstechnischen Rückstellungen die nach den §§ 212 bis 217 auf kleine Versicherungsunternehmen anwendbaren Vorschriften dieses Gesetzes Anwendung, soweit sie Lebensversicherungsunternehmen betreffen und dieser Abschnitt keine abweichenden Regelungen enthält.
 
@@ -3816,20 +3584,17 @@ b) die fachlichen Geschäftsunterlagen, insbesondere die Tarife und die Grundsä
 
 3. § 141 Absatz 5 Satz 1 Nummer 2 mit der Maßgabe, dass an die Stelle der dort genannten Bestätigung die Bestätigung tritt, dass die Deckungsrückstellung nach dem genehmigten Geschäftsplan gebildet ist (versicherungsmathematische Bestätigung).
 
-
-## § 220 – Verordnungsermächtigung
+# § 220 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vorschriften über die Berechnung und die Höhe der Solvabilitätskapitalanforderung von Sterbekassen zu erlassen. Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 221 – Pflichtmitgliedschaft
+# § 221 – Pflichtmitgliedschaft
 
 (1) Unternehmen, die gemäß § 8 Absatz 1 oder § 67 Absatz 1 zum Geschäftsbetrieb in den in der Anlage 1 genannten Versicherungssparten Nummer 19 bis 23 oder zum Betrieb der substitutiven Krankenversicherung gemäß § 146 zugelassen sind, mit Ausnahme der Pensions- und Sterbekassen, müssen einem Sicherungsfonds angehören, der dem Schutz der Ansprüche ihrer Versicherungsnehmer, der versicherten Personen, der Bezugsberechtigten und der sonstigen aus dem Versicherungsvertrag begünstigten Personen dient. Die Mitgliedschaft in einem Sicherungsfonds endet, wenn das betreffende Unternehmen nicht mehr über die die Pflichtmitgliedschaft begründende Erlaubnis zum Geschäftsbetrieb verfügt und auch keinen Versicherungsbestand mehr abwickelt, der unter diese Erlaubnis fällt. § 229 Absatz 1 bleibt hiervon unberührt.
 
 (2) Pensionskassen können einem Sicherungsfonds freiwillig beitreten. Zur Gewährleistung vergleichbarer Finanzverhältnisse aller Mitglieder kann der Sicherungsfonds die Aufnahme von der Erfüllung bestimmter Bedingungen abhängig machen. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-
-## § 222 – Aufrechterhaltung der Versicherungsverträge
+# § 222 – Aufrechterhaltung der Versicherungsverträge
 
 (1) Stellt die Aufsichtsbehörde fest, dass die Voraussetzungen des § 314 Absatz 1 Satz 1 bei einem Versicherungsunternehmen erfüllt sind, welches Mitglied eines Sicherungsfonds ist, oder liegt eine Anzeige gemäß § 311 Absatz 1 Satz 1 oder 2 eines solchen Versicherungsunternehmens vor, übermittelt sie diese Feststellung dem Sicherungsfonds und informiert hierüber das betroffene Versicherungsunternehmen.
 
@@ -3847,8 +3612,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 (8) Widerspruch und Anfechtungsklage gegen die Anordnung der Aufsichtsbehörde haben keine aufschiebende Wirkung.
 
-
-## § 223 – Sicherungsfonds
+# § 223 – Sicherungsfonds
 
 (1) Bei der Kreditanstalt für Wiederaufbau werden ein Sicherungsfonds für die Lebensversicherer und ein Sicherungsfonds für die Krankenversicherer als nicht rechtsfähige Sondervermögen des Bundes errichtet. Die Sicherungsfonds können im Rechtsverkehr handeln, klagen oder verklagt werden.
 
@@ -3860,8 +3624,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung Vors
 
 (+++ § 223 Abs. 4: Zur Anwendung vgl. § 224 Abs. 2 Satz 2 +++)
 
-
-## § 224 – Beleihung Privater
+# § 224 – Beleihung Privater
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz ohne Zustimmung des Bundesrates Aufgaben und Befugnisse eines oder beider Sicherungsfonds einer juristischen Person des Privatrechts zu übertragen, wenn diese bereit ist, die Aufgaben des Sicherungsfonds zu übernehmen und hinreichende Gewähr für die Erfüllung der Ansprüche der Entschädigungsversicherten bietet. Eine juristische Person bietet hinreichende Gewähr, wenn
 
@@ -3895,13 +3658,11 @@ Auch ein nach § 8 zugelassenes Unternehmen kann beliehen werden. Durch die Rech
 
 10. § 47 Nummer 5 bis 7 und 12.
 
-
-## § 225 – Aufsicht
+# § 225 – Aufsicht
 
 Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße Erfüllung der Aufgaben der Sicherungsfonds gefährden können. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missstände zu beseitigen oder zu verhindern. Der Bundesanstalt stehen gegenüber den Sicherungsfonds die Auskunfts- und Prüfungsrechte nach den §§ 305 und 306 zu. Im Übrigen gelten für die Sicherungsfonds nur die Vorschriften dieses Kapitels sowie § 332.
 
-
-## § 226 – Finanzierung
+# § 226 – Finanzierung
 
 (1) Die Versicherungsunternehmen, die einem Sicherungsfonds angehören, sind verpflichtet, Beiträge an den Sicherungsfonds zu leisten. Die Beiträge sollen die Fehlbeträge der übernommenen Versicherungsverträge, die entstehenden Verwaltungskosten und sonstige Kosten, die durch die Tätigkeit des Sicherungsfonds entstehen, decken.
 
@@ -3919,15 +3680,13 @@ Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße
 
 (8) Aus den Beitragsbescheiden des Sicherungsfonds findet die Vollstreckung nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes statt. Die vollstreckbare Ausfertigung erteilt der Sicherungsfonds.
 
-
-## § 227 – Rechnungslegung des Sicherungsfonds
+# § 227 – Rechnungslegung des Sicherungsfonds
 
 (1) Die Sicherungsfonds haben für den Schluss eines jeden Kalenderjahres jeweils einen Geschäftsbericht aufzustellen und einen unabhängigen Wirtschaftsprüfer oder eine unabhängige Wirtschaftsprüfungsgesellschaft mit der Prüfung der Vollständigkeit des Geschäftsberichts und der Richtigkeit der Angaben zu beauftragen. Die Sicherungsfonds haben der Bundesanstalt den von ihnen bestellten Prüfer unverzüglich nach der Bestellung anzuzeigen. Die Bundesanstalt kann innerhalb eines Monats nach Zugang der Anzeige die Bestellung eines anderen Prüfers verlangen, wenn dies zur Erreichung des Prüfungszwecks geboten ist; Widerspruch und Anfechtungsklage hiergegen haben keine aufschiebende Wirkung. Der Geschäftsbericht muss Angaben zur Tätigkeit und zu den finanziellen Verhältnissen des Sicherungsfonds, insbesondere zur Höhe und Anlage der Mittel, zur Verwendung der Mittel für Entschädigungsfälle, zur Höhe der Beiträge sowie zu den Kosten der Verwaltung, enthalten. Soweit dieses Gesetz nichts anderes vorschreibt, gelten für die Rechnungslegung der übernommenen Verträge die Vorschriften des Zweiten Unterabschnitts des Vierten Abschnitts in Verbindung mit den Vorschriften des Ersten und Zweiten Abschnitts des Dritten Buchs des Handelsgesetzbuchs entsprechend.
 
 (2) Die Sicherungsfonds haben der Bundesanstalt den festgestellten Geschäftsbericht jeweils bis zum 31. Mai einzureichen. Der Prüfer hat der Bundesanstalt den Bericht über die Prüfung des Geschäftsberichts unverzüglich nach Beendigung der Prüfung einzureichen. Die Bundesanstalt ist auf Anforderung auch über die Angaben nach Absatz 1 Satz 4 näher zu unterrichten.
 
-
-## § 228 – Mitwirkungspflichten
+# § 228 – Mitwirkungspflichten
 
 (1) Die Versicherungsunternehmen sind verpflichtet, dem Sicherungsfonds, dem sie angehören, auf Verlangen alle Auskünfte zu erteilen und alle Unterlagen vorzulegen, welche der Sicherungsfonds zur Wahrnehmung seines Auftrags nach diesem Gesetz benötigt.
 
@@ -3939,27 +3698,23 @@ Die Bundesanstalt hat Missständen entgegenzuwirken, welche die ordnungsgemäße
 
 (5) Hat das Unternehmen, dessen Bestand übertragen wird, passive Rückversicherungsverträge abgeschlossen, kann der Sicherungsfonds anstelle des Unternehmens in die Verträge eintreten. Der Sicherungsfonds hat den Eintritt unverzüglich nach der Übertragung des Versicherungsbestandes gegenüber dem betroffenen Rückversicherer zu erklären. Der Eintritt wirkt auf den Zeitpunkt der Übertragung des Versicherungsbestandes zurück. § 415 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
-
-## § 229 – Ausschluss
+# § 229 – Ausschluss
 
 (1) Erfüllt ein Versicherungsunternehmen die Beitrags- oder Mitwirkungspflichten nach § 226 oder § 228 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig, so hat der Sicherungsfonds die Bundesanstalt zu unterrichten. Ist die Bundesanstalt nicht die zuständige Aufsichtsbehörde, unterrichtet sie diese unverzüglich. Erfüllt das Versicherungsunternehmen auch innerhalb eines Monats nach Aufforderung durch die Bundesanstalt seine Verpflichtungen nicht, kann der Sicherungsfonds dem Versicherungsunternehmen mit einer Frist von zwölf Monaten den Ausschluss aus dem Sicherungsfonds ankündigen. Nach Ablauf dieser Frist kann der Sicherungsfonds mit Zustimmung der Bundesanstalt das Versicherungsunternehmen von dem Sicherungsfonds ausschließen, wenn die Verpflichtungen von dem Versicherungsunternehmen weiterhin nicht erfüllt werden. Nach dem Ausschluss haftet der Sicherungsfonds nur noch für Verbindlichkeiten des Versicherungsunternehmens, die vor Ablauf dieser Frist begründet wurden.
 
 (2) Für Verbindlichkeiten eines Versicherungsunternehmens, die entstanden sind, nachdem seine Erlaubnis zum Geschäftsbetrieb erloschen ist, haftet der Sicherungsfonds nicht.
 
-
-## § 230 – Verschwiegenheitspflicht
+# § 230 – Verschwiegenheitspflicht
 
 Personen, die bei einem Sicherungsfonds beschäftigt oder für ihn tätig sind, dürfen fremde Geheimnisse, insbesondere Betriebs- oder Geschäftsgeheimnisse, nicht unbefugt offenbaren oder verwerten. Sie sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469, 547) von der Bundesanstalt auf eine gewissenhafte Erfüllung ihrer Obliegenheiten zu verpflichten. Ein unbefugtes Offenbaren oder Verwerten liegt nicht vor, wenn Tatsachen an die Bundesanstalt weitergegeben werden.
 
-
-## § 231 – Zwangsmittel
+# § 231 – Zwangsmittel
 
 (1) Der Sicherungsfonds kann seine Anordnungen nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen.
 
 (2) Die Höhe des Zwangsgeldes beträgt bei Maßnahmen gemäß § 226 Absatz 1 und 5 Satz 1 sowie § 228 Absatz 1 bis zu fünfzigtausend Euro.
 
-
-## § 232 – Pensionskassen
+# § 232 – Pensionskassen
 
 (1) Eine Pensionskasse ist ein rechtlich selbständiges Lebensversicherungsunternehmen, dessen Zweck die Absicherung wegfallenden Erwerbseinkommens wegen Alters, Invalidität oder Todes ist und das
 
@@ -3973,8 +3728,7 @@ Personen, die bei einem Sicherungsfonds beschäftigt oder für ihn tätig sind, 
 
 (2) Pensionskassen dürfen nur Erstversicherungsgeschäft betreiben. Ihnen kann die Erlaubnis ausschließlich in den Versicherungssparten nach Anlage 1 Nummer 19, 21 und 24 erteilt werden.
 
-
-## § 233 – Regulierte Pensionskassen
+# § 233 – Regulierte Pensionskassen
 
 (1) Pensionskassen können mit Genehmigung der Bundesanstalt reguliert werden (regulierte Pensionskassen). Den Antrag, reguliert zu werden, können stellen
 
@@ -4000,8 +3754,7 @@ Die Bundesanstalt genehmigt den Antrag, wenn die Voraussetzungen des Satzes 2 Nu
 
 (5) Erfüllt eine regulierte Pensionskasse nicht mehr die Voraussetzungen des Absatzes 1 oder 2, stellt die Bundesanstalt durch Bescheid fest, dass es sich nicht mehr um eine regulierte Pensionskasse handelt. Auf Versicherungsverhältnisse, die vor dem im Bescheid genannten Zeitpunkt in Kraft getreten sind, ist § 234 Absatz 6 entsprechend anzuwenden.
 
-
-## § 234 – Besonderheiten der Geschäftstätigkeit, die nicht die Geschäftsorganisation betreffen
+# § 234 – Besonderheiten der Geschäftstätigkeit, die nicht die Geschäftsorganisation betreffen
 
 (1) Für Pensionskassen gilt § 341k des Handelsgesetzbuchs; § 36 Absatz 2 findet keine Anwendung. § 1 Absatz 2 Satz 4, § 35 Absatz 2, § 37 Absatz 2, die §§ 40 bis 42 und 48 Absatz 2a, die §§ 52 bis 56, 141 Absatz 5 Satz 2 und § 144 gelten nicht.
 
@@ -4015,8 +3768,7 @@ Die Bundesanstalt genehmigt den Antrag, wenn die Voraussetzungen des Satzes 2 Nu
 
 (6) Auf Versicherungsverhältnisse, die vor dem 1. Januar 2006 in Kraft getreten sind, ist § 336 entsprechend anzuwenden, soweit ihnen ein von der Aufsichtsbehörde genehmigter Geschäftsplan zugrunde liegt. § 142 gilt in diesen Fällen nicht.
 
-
-## § 234a – Ergänzende allgemeine Vorschriften
+# § 234a – Ergänzende allgemeine Vorschriften
 
 (1) Die Geschäftsorganisation einer Pensionskasse muss über § 23 Absatz 1 hinaus auch der Größenordnung ihrer Tätigkeiten angemessen sein. Die Geschäftsorganisation ist darauf abzustimmen, ob und auf welche Weise ökologische, soziale und die Unternehmensführung betreffende Faktoren in Bezug auf die Vermögenswerte bei Anlageentscheidungen berücksichtigt werden.
 
@@ -4032,8 +3784,7 @@ Die Bundesanstalt genehmigt den Antrag, wenn die Voraussetzungen des Satzes 2 Nu
 
 (7) Für das interne Kontrollsystem gilt § 29 Absatz 1 Satz 2 und Absatz 2 bis 4 nicht.
 
-
-## § 234b – Besondere Vorschriften zu Schlüsselfunktionen
+# § 234b – Besondere Vorschriften zu Schlüsselfunktionen
 
 (1) Pensionskassen ermöglichen der verantwortlichen Person für eine Schlüsselfunktion, ihre Aufgaben effektiv, objektiv, sachgemäß und unabhängig ausüben zu können.
 
@@ -4075,8 +3826,7 @@ Außerdem trägt die versicherungsmathematische Funktion zur eigenen Risikobeurt
 
 (7) Personen oder Stellen, an die eine Schlüsselfunktion ausgegliedert wird, müssen die Anforderungen des § 24 Absatz 1 entsprechend erfüllen.
 
-
-## § 234c – Risikomanagement
+# § 234c – Risikomanagement
 
 (1) Das Risikomanagementsystem einer Pensionskasse muss über § 26 Absatz 5 hinaus auch ökologische und soziale Risiken sowie die Unternehmensführung betreffende Risiken abdecken, soweit diese Risiken mit dem Anlageportfolio und dessen Verwaltung in Verbindung stehen. Die vom Risikomanagementsystem erfassten Risiken werden auf eine Weise behandelt, die der Größe und der internen Organisation der Pensionskasse sowie der Größenordnung, der Art, dem Umfang und der Komplexität ihrer Geschäftstätigkeiten angemessen ist.
 
@@ -4088,8 +3838,7 @@ Außerdem trägt die versicherungsmathematische Funktion zur eigenen Risikobeurt
 
 (5) Zum Risikomanagementsystem der Pensionskasse gehört die eigene Risikobeurteilung nach § 234d. § 27 ist nicht anzuwenden.
 
-
-## § 234d – Eigene Risikobeurteilung
+# § 234d – Eigene Risikobeurteilung
 
 (1) Zum Risikomanagementsystem einer Pensionskasse gehört eine eigene Risikobeurteilung, die zu dokumentieren ist. Die eigene Risikobeurteilung ist mindestens alle drei Jahre für das gesamte Risikoprofil durchzuführen, auf Verlangen der Aufsichtsbehörde auch häufiger. Die Pensionskasse hat unverzüglich eine eigene Risikobeurteilung vorzunehmen, wenn eine wesentliche Änderung
 
@@ -4139,8 +3888,7 @@ Die Methoden müssen der Größenordnung, der Art, dem Umfang und der Komplexit�
 
 (4) Die eigene Risikobeurteilung fließt in die strategischen Entscheidungen der Pensionskasse ein.
 
-
-## § 234e – Ergänzende Vorschriften zur Ausgliederung
+# § 234e – Ergänzende Vorschriften zur Ausgliederung
 
 (1) Werden Tätigkeiten ausgegliedert, müssen Pensionskassen einen geeigneten Dienstleister auswählen und kontinuierlich überwachen, dass der Dienstleister die ausgegliederten Tätigkeiten ordnungsgemäß durchführt.
 
@@ -4148,8 +3896,7 @@ Die Methoden müssen der Größenordnung, der Art, dem Umfang und der Komplexit�
 
 (3) § 32 Absatz 3 und § 47 Nummer 8 und 9 sind auch auf die Ausgliederung sonstiger Tätigkeiten, die diesem Gesetz unterliegen, anzuwenden.
 
-
-## § 234f – Allgemeines
+# § 234f – Allgemeines
 
 (1) Für Pensionskassen gelten nicht die §§ 74 bis 88 und 133, 134 Absatz 4 und 5, die §§ 301 und 304 Absatz 1 Nummer 2 sowie die §§ 341 bis 352.
 
@@ -4159,8 +3906,7 @@ Die Methoden müssen der Größenordnung, der Art, dem Umfang und der Komplexit�
 
 (4) Die Aufsichtsbehörde kann die Erlaubnis widerrufen, wenn es der Pensionskasse nicht gelingt, innerhalb von drei Monaten nach Feststellung der Nichtbedeckung der Mindestkapitalanforderung den genehmigten Finanzierungsplan zu erfüllen. Die Aufsichtsbehörde hat die Erlaubnis zu widerrufen, wenn sie der Auffassung ist, dass der vorgelegte Finanzierungsplan offensichtlich unzureichend ist, oder wenn es der Pensionskasse nicht gelingt, innerhalb von zwölf Monaten nach Feststellung der Nichtbedeckung der Mindestkapitalanforderung den genehmigten Finanzierungsplan zu erfüllen.
 
-
-## § 234g – Solvabilitätskapitalanforderung, Mindestkapitalanforderung und Eigenmittel
+# § 234g – Solvabilitätskapitalanforderung, Mindestkapitalanforderung und Eigenmittel
 
 (1) Pensionskassen müssen stets über Eigenmittel mindestens in Höhe der Solvabilitätskapitalanforderung verfügen.
 
@@ -4170,8 +3916,7 @@ Die Methoden müssen der Größenordnung, der Art, dem Umfang und der Komplexit�
 
 (4) Pensionskassen haben der Aufsichtsbehörde jährlich eine Berechnung der Solvabilitätskapitalanforderung vorzulegen und ihr die Eigenmittel nachzuweisen.
 
-
-## § 234h – Ergänzende allgemeine Anlagegrundsätze
+# § 234h – Ergänzende allgemeine Anlagegrundsätze
 
 (1) Pensionskassen haben die Vermögenswerte zum größtmöglichen langfristigen Nutzen der Versorgungsanwärter und Versorgungsempfänger insgesamt anzulegen. Im Fall eines Interessenkonflikts sorgt die Pensionskasse oder die Stelle, die ihr Vermögen verwaltet, dafür, dass die Anlage ausschließlich im Interesse der Versorgungsanwärter und Versorgungsempfänger erfolgt.
 
@@ -4181,8 +3926,7 @@ Die Methoden müssen der Größenordnung, der Art, dem Umfang und der Komplexit�
 
 (4) § 124 Absatz 1 Satz 2 Nummer 1 Buchstabe b und Nummer 4 sowie Absatz 2 Satz 1 ist nicht anzuwenden.
 
-
-## § 234i – Anlagepolitik
+# § 234i – Anlagepolitik
 
 Pensionskassen haben der Aufsichtsbehörde eine Erklärung zu den Grundsätzen ihrer Anlagepolitik vorzulegen
 
@@ -4192,8 +3936,7 @@ Pensionskassen haben der Aufsichtsbehörde eine Erklärung zu den Grundsätzen i
 
 In der Erklärung ist zumindest einzugehen auf das Verfahren der Risikobewertung und der Risikosteuerung, auf die Strategie sowie auf die Frage, wie die Anlagepolitik ökologischen, sozialen und die Unternehmensführung betreffenden Belangen Rechnung trägt. Pensionskassen müssen die Erklärung öffentlich zugänglich machen. Spätestens nach drei Jahren ist die Erklärung zu überprüfen.
 
-
-## § 234j – Besondere Vorschriften zum Sicherungsvermögen
+# § 234j – Besondere Vorschriften zum Sicherungsvermögen
 
 (1) Das Sicherungsvermögen darf nur angelegt werden in
 
@@ -4207,8 +3950,7 @@ Darüber hinaus darf das Sicherungsvermögen nur angelegt werden, soweit dies di
 
 (3) Pensionskassen haben über ihre gesamten Vermögensanlagen, aufgegliedert in Neuanlagen und Bestände, zu berichten. Die Pflichten nach § 126 Absatz 2 bleiben unberührt.
 
-
-## § 234k – Anforderungen an zu erteilende Informationen
+# § 234k – Anforderungen an zu erteilende Informationen
 
 (1) Die nach diesem Abschnitt vorgeschriebenen Informationen über ein Altersversorgungssystem müssen
 
@@ -4228,8 +3970,7 @@ Darüber hinaus darf das Sicherungsvermögen nur angelegt werden, soweit dies di
 
 (4) Die Vorschriften dieses Abschnitts sind nicht anzuwenden auf Altersversorgungssysteme, die von der Pensionskasse grenzüberschreitend im Sinne des § 241 betrieben werden.
 
-
-## § 234l – Allgemeine Informationen zu einem Altersversorgungssystem
+# § 234l – Allgemeine Informationen zu einem Altersversorgungssystem
 
 (1) Für jedes betriebene Altersversorgungssystem stellt die Pensionskasse den Versorgungsanwärtern und Versorgungsempfängern allgemeine Informationen über das Altersversorgungssystem zur Verfügung.
 
@@ -4237,8 +3978,7 @@ Darüber hinaus darf das Sicherungsvermögen nur angelegt werden, soweit dies di
 
 (3) Werden die Methoden und Annahmen zur Berechnung der versicherungstechnischen Rückstellungen wesentlich geändert, stellt die Pensionskasse eine Erläuterung zu den damit verbundenen Auswirkungen auf die Versorgungsanwärter und Versorgungsempfänger innerhalb einer angemessenen Frist zur Verfügung.
 
-
-## § 234m – Information der Versorgungsanwärter bei Beginn des Versorgungsverhältnisses
+# § 234m – Information der Versorgungsanwärter bei Beginn des Versorgungsverhältnisses
 
 (1) Die Pensionskasse stellt dem Versorgungsanwärter bei Beginn des Versorgungsverhältnisses folgende Informationen zur Verfügung:
 
@@ -4264,13 +4004,11 @@ Darüber hinaus darf das Sicherungsvermögen nur angelegt werden, soweit dies di
 
 4. Angaben dazu, wo weitere Informationen erhältlich sind.
 
-
-## § 234n – Information vor dem Beitritt zu einem Altersversorgungssystem
+# § 234n – Information vor dem Beitritt zu einem Altersversorgungssystem
 
 Die Pensionskasse stellt sicher, dass Versorgungsanwärtern, die nicht automatisch in das Altersversorgungssystem aufgenommen werden, die in § 234m Absatz 2 bezeichneten Informationen zur Verfügung gestellt werden, bevor sie dem Altersversorgungssystem beitreten.
 
-
-## § 234o – Information der Versorgungsanwärter während der Anwartschaftsphase
+# § 234o – Information der Versorgungsanwärter während der Anwartschaftsphase
 
 (1) Pensionskassen stellen dem Versorgungsanwärter mindestens alle zwölf Monate die für ihn wesentlichen Informationen über den Stand seines Versorgungsverhältnisses zur Verfügung. Die Informationen werden in knapper, präziser Form zusammengestellt und die Überschrift „Renteninformation“ vorangestellt.
 
@@ -4286,8 +4024,7 @@ Die Pensionskasse stellt sicher, dass Versorgungsanwärtern, die nicht automatis
 
 (5) Darüber, in welcher Form die Altersversorgungsleistungen bezogen werden können, informiert die Pensionskasse den Versorgungsanwärter rechtzeitig vor Erreichen des Termins, ab dem voraussichtlich Altersversorgungsleistungen bezogen werden. Sie hat die Informationen auch auf Anfrage des Versorgungsanwärters mitzuteilen.
 
-
-## § 234p – Information der Versorgungsempfänger
+# § 234p – Information der Versorgungsempfänger
 
 (1) Die Pensionskasse unterrichtet den Versorgungsempfänger regelmäßig über die ihm zustehenden Leistungen und über etwaige Wahlrechte, in welcher Form die Leistungen bezogen werden können.
 
@@ -4299,8 +4036,7 @@ Die Pensionskasse stellt sicher, dass Versorgungsanwärtern, die nicht automatis
 
 (3) Tragen die Versorgungsempfänger in der Auszahlungsphase ein wesentliches Anlagerisiko, werden sie von der Pensionskasse regelmäßig angemessen informiert.
 
-
-## § 235 – Verordnungsermächtigungen zur Finanzaufsicht
+# § 235 – Verordnungsermächtigungen zur Finanzaufsicht
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, für Pensionskassen durch Rechtsverordnung Vorschriften zu erlassen
 
@@ -4332,8 +4068,7 @@ Die Pensionskasse stellt sicher, dass Versorgungsanwärtern, die nicht automatis
 
 (2) Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach Absatz 1 Satz 1 und nach Satz 1 bedürfen nicht der Zustimmung des Bundesrates. Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 9 und 11 und nach Satz 1, soweit sie die Ermächtigung nach Absatz 1 Satz 1 Nummer 9 und 11 erfassen, ergehen im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz.
 
-
-## § 235a – Verordnungsermächtigung zu den Informationspflichten
+# § 235a – Verordnungsermächtigung zu den Informationspflichten
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales für Pensionskassen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, durch Rechtsverordnung Vorschriften zu erlassen
 
@@ -4355,8 +4090,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bun
 
 Rechtsverordnungen nach Satz 1 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 236 – Pensionsfonds
+# § 236 – Pensionsfonds
 
 (1) Ein Pensionsfonds im Sinne dieses Gesetzes ist eine rechtsfähige Versorgungseinrichtung, die
 
@@ -4398,8 +4132,7 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Diese erlässt die Vorschriften im Benehmen mit den Versicherungsaufsichtsbehörden der Länder. Rechtsverordnungen nach den Sätzen 1 bis 3 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 237 – Anzuwendende Vorschriften
+# § 237 – Anzuwendende Vorschriften
 
 (1) Für Pensionsfonds gelten die auf Lebensversicherungsunternehmen, die Pensionskassen sind, anwendbaren Vorschriften entsprechend, soweit dieser Teil keine abweichenden Regelungen enthält. Dabei treten
 
@@ -4417,8 +4150,7 @@ Pensionspläne sind die im Rahmen des Geschäftsplans ausgestalteten Bedingungen
 
 (4) In § 140 Absatz 2 tritt die auf Grund des § 240 Satz 1 Nummer 7 erlassene Rechtsverordnung an die Stelle der auf Grund des § 145 Absatz 2 erlassenen Rechtsverordnung. In § 141 Absatz 5 Satz 1 Nummer 1 und 2 treten die Grundsätze der auf Grund des § 240 Satz 1 Nummer 10 bis 12 erlassenen Rechtsverordnung an die Stelle der Grundsätze der auf Grund des § 88 Absatz 3 erlassenen Rechtsverordnung.
 
-
-## § 238 – Finanzielle Ausstattung
+# § 238 – Finanzielle Ausstattung
 
 (1) Für Pensionsfonds treten die Absätze 2 bis 5 an die Stelle des § 234g. In § 234f Absatz 2 Satz 2 tritt Absatz 4 an die Stelle von § 234g Absatz 3.
 
@@ -4430,8 +4162,7 @@ Pensionspläne sind die im Rahmen des Geschäftsplans ausgestalteten Bedingungen
 
 (5) Pensionsfonds haben der Aufsichtsbehörde jährlich eine Berechnung der Solvabilitätskapitalanforderung vorzulegen und ihr die Eigenmittel nachzuweisen.
 
-
-## § 239 – Vermögensanlage
+# § 239 – Vermögensanlage
 
 (1) Pensionsfonds haben unter Berücksichtigung der jeweiligen Pensionspläne Sicherungsvermögen zu bilden. Sie haben dafür zu sorgen, dass die Bestände der Sicherungsvermögen in einer der Art und Dauer der zu erbringenden Altersversorgung entsprechenden Weise unter Berücksichtigung der Festlegungen des jeweiligen Pensionsplans angelegt werden.
 
@@ -4453,8 +4184,7 @@ Die Genehmigung ist zu erteilen, wenn durch den Arbeitgeber die Erfüllung der N
 
 (4) Für Pensionspläne nach § 236 Absatz 2 ist Absatz 3 mit der Maßgabe anzuwenden, dass die Unterdeckung 10 Prozent des Betrags der versicherungstechnischen Rückstellungen im Sinne der §§ 341e bis 341h des Handelsgesetzbuchs nicht übersteigt. Die Frist, bis zu der die vollständige Bedeckung wieder erreicht werden muss, kann von der Aufsichtsbehörde verlängert werden; sie darf insgesamt zehn Jahre nicht überschreiten.
 
-
-## § 240 – Verordnungsermächtigung
+# § 240 – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, für Pensionsfonds, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, durch Rechtsverordnung Vorschriften zu erlassen über
 
@@ -4484,15 +4214,13 @@ Das Bundesministerium der Finanzen wird ermächtigt, für Pensionsfonds, die nic
 
 Die Ermächtigung kann durch Rechtsverordnung auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates. Rechtsverordnungen nach Satz 1 Nummer 4 und 10 bis 12 und nach Satz 2, soweit sie die Ermächtigungen nach Satz 1 Nummer 4 und 10 bis 12 erfassen, ergehen im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz.
 
-
-## § 241 – Grenzüberschreitende Geschäftstätigkeit
+# § 241 – Grenzüberschreitende Geschäftstätigkeit
 
 (1) Grenzüberschreitende Geschäftstätigkeit einer Einrichtung der betrieblichen Altersversorgung liegt vor, wenn sie ein Altersversorgungssystem betreibt, bei dem der Tätigkeitsstaat ein anderer Mitglied- oder Vertragsstaat als der Herkunftsstaat der Einrichtung ist. Tätigkeitsstaat ist der Mitglied- oder Vertragsstaat, dessen sozial- und arbeitsrechtliche Vorschriften im Bereich der betrieblichen Altersversorgung auf die Beziehung zwischen dem Trägerunternehmen und seinen Versorgungsanwärtern und Versorgungsempfängern angewendet werden.
 
 (2) Auf Pensionskassen und Pensionsfonds sind die §§ 57 bis 60 nicht anwendbar. Für Einrichtungen der betrieblichen Altersversorgung, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist, sind die §§ 61 bis 66 nicht anwendbar.
 
-
-## § 242 – Grenzüberschreitende Geschäftstätigkeit von Pensionskassen und Pensionsfonds
+# § 242 – Grenzüberschreitende Geschäftstätigkeit von Pensionskassen und Pensionsfonds
 
 (1) Pensionskassen und Pensionsfonds haben ihre Absicht, für ein Trägerunternehmen die betriebliche Altersversorgung im Wege der grenzüberschreitenden Geschäftstätigkeit durchzuführen, der Aufsichtsbehörde anzuzeigen. Dabei haben sie anzugeben
 
@@ -4522,8 +4250,7 @@ Pensionskassen und Pensionsfonds sind berechtigt, die grenzüberschreitende Gesc
 
 (7) Die Aufsichtsbehörde informiert die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung darüber, in welchen Mitglied- und Vertragsstaaten die Pensionskasse oder der Pensionsfonds grenzüberschreitend tätig ist. Sie teilt ihr Änderungen dieser Angaben laufend mit.
 
-
-## § 243 – Grenzüberschreitende Geschäftstätigkeit von Einrichtungen, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist
+# § 243 – Grenzüberschreitende Geschäftstätigkeit von Einrichtungen, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist
 
 (1) Die Absätze 2 bis 6 sind anzuwenden auf Altersversorgungssysteme,
 
@@ -4549,8 +4276,7 @@ Die Einrichtung ist berechtigt, die grenzüberschreitende Geschäftstätigkeit i
 
 (7) Auf Antrag der Aufsichtsbehörde des Herkunftsstaats kann die Bundesanstalt die freie Verfügung über Vermögenswerte untersagen, die sich im Besitz eines Verwahrers oder einer Verwahrstelle mit Standort im Inland befinden.
 
-
-## § 243a – Übertragung von Beständen auf eine Pensionskasse oder einen Pensionsfonds
+# § 243a – Übertragung von Beständen auf eine Pensionskasse oder einen Pensionsfonds
 
 (1) Jeder Vertrag, durch den der Bestand an Versorgungsverhältnissen eines Altersversorgungssystems, das eine Einrichtung der betrieblichen Altersversorgung mit einem anderen Herkunftsstaat als Deutschland betreibt, ganz oder teilweise auf eine Pensionskasse oder einen Pensionsfonds übertragen werden soll, bedarf der Genehmigung der Aufsichtsbehörde. Der Antrag auf Genehmigung wird von der Pensionskasse oder dem Pensionsfonds gestellt. Die Aufsichtsbehörde leitet den Antrag unverzüglich an die zuständige Behörde im Herkunftsstaat der Einrichtung weiter.
 
@@ -4620,8 +4346,7 @@ Die Prüfung nach Satz 1 erfolgt auch mit Blick darauf, ob die Belange der Verso
 
 2. sobald sie die Genehmigung nach Absatz 1 Satz 1 und die in Absatz 8 Satz 2 genannten Informationen von der Aufsichtsbehörde erhalten haben, spätestens aber sieben Wochen nach Erhalt der Genehmigung.
 
-
-## § 243b – Übertragung von Beständen auf eine Einrichtung, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist
+# § 243b – Übertragung von Beständen auf eine Einrichtung, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist
 
 (1) Jeder Vertrag, durch den der Bestand an Versorgungsverhältnissen eines von einer Pensionskasse oder einem Pensionsfonds betriebenen Altersversorgungssystems ganz oder teilweise auf eine Einrichtung, deren Herkunftsstaat ein anderer Mitglied- oder Vertragsstaat ist, übertragen werden soll, bedarf der Genehmigung der zuständigen Behörde im Herkunftsstaat der Einrichtung. Der Antrag auf Genehmigung wird von der Einrichtung gestellt.
 
@@ -4651,18 +4376,15 @@ Die Prüfung nach Satz 1 erfolgt auch mit Blick darauf, ob die Belange der Verso
 
 (5) Hat die Übertragung eine grenzüberschreitende Geschäftstätigkeit der Einrichtung zur Folge, informiert die Aufsichtsbehörde die zuständige Behörde im Herkunftsstaat der Einrichtung über die in § 243 Absatz 2 Satz 1 Nummer 1 und 2 genannten Vorschriften. Sie hat die Informationen innerhalb von vier Wochen zu übermitteln, nachdem sie von der zuständigen Behörde über die Genehmigung nach Absatz 1 Satz 1 unterrichtet worden ist. § 243 Absatz 2 ist nicht anzuwenden.
 
+# § 244 – (weggefallen)
 
-## § 244 – (weggefallen)
-
-
-## § 244a – Geltungsbereich
+# § 244a – Geltungsbereich
 
 (1) Bei der Durchführung reiner Beitragszusagen nach § 1 Absatz 2 Nummer 2a des Betriebsrentengesetzes haben Pensionsfonds, Pensionskassen und andere Lebensversicherungsunternehmen die Vorschriften dieses Teils einzuhalten.
 
 (2) Die auf Pensionsfonds, Pensionskassen und andere Lebensversicherungsunternehmen anwendbaren Vorschriften dieses Gesetzes gelten nur insoweit, als dieser Teil keine abweichenden Regelungen enthält.
 
-
-## § 244b – Verpflichtungen
+# § 244b – Verpflichtungen
 
 (1) Pensionsfonds, Pensionskassen und andere Lebensversicherungsunternehmen dürfen reine Beitragszusagen nur dann durchführen, wenn
 
@@ -4674,8 +4396,7 @@ Die Prüfung nach Satz 1 erfolgt auch mit Blick darauf, ob die Belange der Verso
 
 (2) Pensionskassen und andere Lebensversicherungsunternehmen bedürfen der Erlaubnis für die in Nummer 21 der Anlage 1 genannte Sparte.
 
-
-## § 244c – Sicherungsvermögen
+# § 244c – Sicherungsvermögen
 
 Unter Berücksichtigung der jeweiligen Tarifverträge ist
 
@@ -4683,8 +4404,7 @@ Unter Berücksichtigung der jeweiligen Tarifverträge ist
 
 2. im Fall einer Pensionskasse oder eines anderen Lebensversicherungsunternehmens ein gesonderter Anlagestock im Sinne des § 125 Absatz 5 einzurichten.
 
-
-## § 244d – Verordnungsermächtigung
+# § 244d – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung nähere Bestimmungen zu erlassen bezüglich
 
@@ -4698,8 +4418,7 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bun
 
 Die Ermächtigung kann durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales auf die Bundesanstalt übertragen werden. Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 245 – Anwendungsbereich der Gruppenaufsicht
+# § 245 – Anwendungsbereich der Gruppenaufsicht
 
 (1) Versicherungsunternehmen einer Gruppe unterliegen neben der Einzelaufsicht einer Aufsicht auf Ebene der Gruppe nach Maßgabe der Vorschriften dieses Teils. Sofern in diesem Teil nichts anderes bestimmt ist, sind auf diese Unternehmen die Vorschriften für die Einzelbeaufsichtigung von Versicherungsunternehmen weiterhin anwendbar.
 
@@ -4735,8 +4454,7 @@ mit Sitz in einem Drittstaat ist, und
 
 § 245 Abs. 4 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Grupenaufsichtsbehörde" durch "Gruppenaufsichtsbehörde" ersetzt
 
-
-## § 246 – Umfang der Gruppenaufsicht
+# § 246 – Umfang der Gruppenaufsicht
 
 (1) Eine gruppenweite Beaufsichtigung gemäß § 245 umfasst nicht die Beaufsichtigung auf Einzelebene des Versicherungsunternehmens eines Drittstaats, der Versicherungs-Holdinggesellschaft, der gemischten Finanzholding-Gesellschaft oder der gemischten Versicherungs-Holdinggesellschaft. § 293 bleibt unberührt.
 
@@ -4754,15 +4472,13 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (4) Das an der Spitze einer Gruppe stehende Unternehmen ist verpflichtet, auf Ersuchen der Aufsichtsbehörde, die in dem jeweiligen Mitglied- oder Vertragsstaat für ein gemäß Absatz 2 Satz 1 Nummer 2 oder 3 nicht in die Gruppenaufsicht einbezogenes Versicherungsunternehmen zuständig ist, alle zur Erleichterung der Beaufsichtigung angeforderten Informationen zu geben.
 
-
-## § 247 – Oberstes Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten
+# § 247 – Oberstes Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten
 
 (1) Ist das in § 245 Absatz 2 Nummer 1 genannte beteiligte Versicherungsunternehmen oder die in § 245 Absatz 2 Nummer 2 genannte Versicherungs-Holdinggesellschaft oder gemischte Finanzholding-Gesellschaft selbst Tochterunternehmen eines anderen Versicherungsunternehmens oder einer anderen Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft mit Sitz in einem Mitglied- oder Vertragsstaat, so sind die §§ 250 bis 287 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1 Nummer 1 und § 306 Absatz 1 Nummer 1 nur auf Ebene der obersten Muttergesellschaft anzuwenden, die ein Versicherungsunternehmen oder eine Versicherungs-Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft mit Sitz in einem Mitglied- oder Vertragsstaat ist.
 
 (2) Ist die in Absatz 1 genannte oberste Muttergesellschaft, die ein Versicherungsunternehmen oder eine Versicherungs-Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft mit Sitz in einem Mitglied- oder Vertragsstaat ist, Tochterunternehmen eines Unternehmens, das nach Artikel 5 Absatz 2 der Richtlinie 2002/87/EG einer zusätzlichen Beaufsichtigung unterliegt, so kann die Gruppenaufsichtsbehörde nach Konsultation der anderen betroffenen Aufsichtsbehörden auf der Ebene dieses obersten Mutterunternehmens von der Überwachung der Risikokonzentration gemäß § 273, der Überwachung der gruppeninternen Transaktionen gemäß § 274 oder von beidem absehen.
 
-
-## § 248 – Oberstes Mutterunternehmen auf nationaler Ebene
+# § 248 – Oberstes Mutterunternehmen auf nationaler Ebene
 
 (1) Hat das in § 245 Absatz 2 Nummer 1 genannte beteiligte Versicherungsunternehmen oder die in § 245 Absatz 2 Nummer 2 genannte Versicherungs-Holdinggesellschaft oder gemischte Finanzholding-Gesellschaft seinen oder ihren Sitz im Inland und hat das in § 247 genannte oberste Mutterunternehmen seinen Sitz in einem anderen Mitglied- oder Vertragsstaat, so kann die Aufsichtsbehörde nach Konsultation der Gruppenaufsichtsbehörde und dieses obersten Mutterunternehmens anordnen, dass das auf nationaler Ebene oberste Mutterversicherungsunternehmen oder die auf nationaler Ebene oberste Muttergesellschaft, die eine Versicherungs-Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft ist, der Gruppenaufsicht unterliegt. Die Aufsichtsbehörde begründet ihre Entscheidung in diesem Fall sowohl gegenüber der Gruppenaufsichtsbehörde als auch gegenüber dem obersten Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten. Die Gruppenaufsichtsbehörde unterrichtet das Aufsichtskollegium (§ 283) gemäß Artikel 248 Absatz 1 Buchstabe a der Richtlinie 2009/138/EG. Vorbehaltlich der Absätze 2 bis 6 sind die §§ 250 bis 287 sowie § 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1 Nummer 1 und § 306 Absatz 1 Nummer 1 entsprechend anzuwenden.
 
@@ -4776,15 +4492,13 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (6) Eine Anordnung gemäß Absatz 1 kann nicht getroffen oder aufrechterhalten werden, wenn das oberste Mutterunternehmen auf nationaler Ebene ein Tochterunternehmen des in § 247 genannten obersten Mutterunternehmens auf Ebene der Mitglied- oder Vertragsstaaten ist und dieses gemäß der Vorschrift des § 268 oder des § 270 die Erlaubnis erhalten hat, die §§ 269 und 270 auf das Tochterunternehmen anzuwenden.
 
-
-## § 249 – Mutterunternehmen, die mehrere Mitglied- oder Vertragsstaaten umfassen
+# § 249 – Mutterunternehmen, die mehrere Mitglied- oder Vertragsstaaten umfassen
 
 (1) Die Aufsichtsbehörde kann mit den Aufsichtsbehörden anderer Mitglied- oder Vertragsstaaten, in denen sich ein verbundenes Unternehmen befindet, das ebenfalls oberstes Mutterunternehmen auf nationaler Ebene ist, vereinbaren, auf Ebene einer mehrere Mitglied- oder Vertragsstaaten umspannenden Teilgruppe eine Gruppenaufsicht durchzuführen. Haben die betroffenen Aufsichtsbehörden eine solche Vereinbarung geschlossen, findet auf Ebene eines in einem anderen Mitglied- oder Vertragsstaat als der Teilgruppe gelegenen obersten Mutterunternehmens im Sinne des § 248 keine Gruppenaufsicht statt.
 
 (2) § 248 Absatz 2 bis 6 gilt entsprechend.
 
-
-## § 250 – Überwachung der Gruppensolvabilität
+# § 250 – Überwachung der Gruppensolvabilität
 
 (1) Die Solvabilität der Gruppe wird nach Maßgabe der Absätze 2 und 3, der §§ 275 bis 287 sowie 293 Absatz 1, § 298 Absatz 1 und 2, § 305 Absatz 1 Nummer 1 und § 306 Absatz 1 Nummer 1 überwacht. Vermögenswerte und Verbindlichkeiten werden nach § 74 bewertet.
 
@@ -4797,8 +4511,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 (+++ § 250: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)  
 (+++ § 250 Abs. 1 Satz 2: Zur Anwendung vgl. § 261 Abs. 3 Satz 3 +++)
 
-
-## § 251 – Häufigkeit der Berechnung
+# § 251 – Häufigkeit der Berechnung
 
 (1) Die Solvabilitätskapitalanforderung auf Gruppenebene ist von den beteiligten Versicherungsunternehmen, der Versicherungs-Holdinggesellschaft oder der gemischten Finanzholding-Gesellschaft mindestens einmal im Jahr zu berechnen. Sofern das oberste beteiligte Unternehmen ein Versicherungsunternehmen ist, meldet dieses der Gruppenaufsichtsbehörde die für diese Berechnung maßgeblichen Daten und Ergebnisse. Sofern das oberste beteiligte Unternehmen eine Versicherungs-Holdinggesellschaft oder gemischte Finanzholding-Gesellschaft ist, meldet diese die Informationen gemäß Satz 2, sofern nicht die Gruppenaufsichtsbehörde nach Anhörung der anderen betroffenen Aufsichtsbehörden und der Gruppe ein Versicherungsunternehmen als zur Meldung verpflichtetes Unternehmen bestimmt hat.
 
@@ -4806,8 +4519,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 251: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 252 – Bestimmung der Methode
+# § 252 – Bestimmung der Methode
 
 (1) Die Solvabilität der Gruppe, an deren Spitze ein beteiligtes Versicherungsunternehmen steht, ist auf der Grundlage eines konsolidierten Abschlusses gemäß den §§ 261 bis 264 (Konsolidierungsmethode) zu berechnen.
 
@@ -4815,8 +4527,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 252: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 253 – Berücksichtigung des verhältnismäßigen Anteils
+# § 253 – Berücksichtigung des verhältnismäßigen Anteils
 
 (1) Bei der Berechnung der Gruppensolvabilität ist der verhältnismäßige Anteil, den das beteiligte Unternehmen an seinen verbundenen Unternehmen hält, zu berücksichtigen.
 
@@ -4838,8 +4549,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 253: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 254 – Ausschluss der Mehrfachberücksichtigung anrechnungsfähiger Eigenmittel
+# § 254 – Ausschluss der Mehrfachberücksichtigung anrechnungsfähiger Eigenmittel
 
 (1) Auf die Solvabilitätskapitalanforderung anrechnungsfähige Eigenmittel dürfen bei mehreren in die Berechnung der Gruppensolvabilität einbezogenen Versicherungsunternehmen nicht mehrfach berücksichtigt werden. Bei der Berechnung der Gruppensolvabilität bleiben, sofern die in den §§ 261 bis 265 beschriebenen Methoden nicht etwas anderes vorsehen, die folgenden Beträge unberücksichtigt:
 
@@ -4871,8 +4581,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 254: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 255 – Ausschluss der gruppeninternen Kapitalschöpfung
+# § 255 – Ausschluss der gruppeninternen Kapitalschöpfung
 
 (1) Bei der Berechnung der Gruppensolvabilität bleiben anrechnungsfähige Eigenmittel unberücksichtigt, die aus einer Gegenfinanzierung stammen zwischen dem beteiligten Versicherungsunternehmen und
 
@@ -4888,8 +4597,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 255: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 256 – Verbundene Versicherungsunternehmen
+# § 256 – Verbundene Versicherungsunternehmen
 
 (1) Hat das Versicherungsunternehmen mehr als ein verbundenes Versicherungsunternehmen, umfasst die Berechnung der Gruppensolvabilität sämtliche verbundene Versicherungsunternehmen.
 
@@ -4897,8 +4605,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 256: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 257 – Zwischengeschaltete Versicherungs-Holdinggesellschaften
+# § 257 – Zwischengeschaltete Versicherungs-Holdinggesellschaften
 
 (1) Hält ein Versicherungsunternehmen über eine Versicherungs-Holdinggesellschaft oder eine gemischte Finanzholding-Gesellschaft eine Beteiligung an einem verbundenen Versicherungsunternehmen oder einem Versicherungsunternehmen eines Drittstaats, wird die Versicherungs-Holdinggesellschaft oder gemischte Finanzholding-Gesellschaft in die Berechnung der Gruppensolvabilität einbezogen. Ausschließlich für diese Berechnung wird die zwischengeschaltete Versicherungs-Holdinggesellschaft oder zwischengeschaltete gemischte Finanzholding-Gesellschaft wie ein Versicherungsunternehmen behandelt, für das in Bezug auf die Solvabilitätskapitalanforderung die §§ 96 bis 121 und in Bezug auf die anrechnungsfähigen Eigenmittel die §§ 89 bis 95 gelten.
 
@@ -4906,8 +4613,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 257: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 258 – Verbundene Versicherungsunternehmen eines Drittstaats
+# § 258 – Verbundene Versicherungsunternehmen eines Drittstaats
 
 (1) Ist ein Versicherungsunternehmen beteiligtes Unternehmen eines Versicherungsunternehmens eines Drittstaats und wird die Gruppensolvabilität nach der Abzugs- und Aggregationsmethode berechnet, ist das Versicherungsunternehmen des Drittstaats für diese Berechnung wie ein verbundenes Versicherungsunternehmen zu behandeln. Unterliegt das Versicherungsunternehmen des Drittstaats in seinem Sitzland der Zulassungspflicht und Solvabilitätsvorschriften, die denen in Titel I Kapitel VI der Richtlinie 2009/138/EG festgelegten zumindest gleichwertig sind, so wird die Berechnung der Solvabilitätskapitalanforderung und der anrechnungsfähigen Eigenmittel nach den Vorschriften dieses Drittstaats vorgenommen.
 
@@ -4917,8 +4623,7 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 258: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 259 – Verbundene Kreditinstitute, Wertpapierfirmen und Finanzinstitute
+# § 259 – Verbundene Kreditinstitute, Wertpapierfirmen und Finanzinstitute
 
 (1) Bei der Berechnung der Gruppensolvabilität eines Versicherungsunternehmens, das an einem Kreditinstitut, einem Wertpapierhandelsunternehmen oder einem Finanzinstitut beteiligt ist, können die beteiligten Versicherungsunternehmen die in Anhang I der Richtlinie 2002/87/EG festgelegte Methode 1 oder 2 entsprechend anwenden. Die Konsolidierungsmethode darf nur angewendet werden, wenn das integrierte Management und die interne Kontrolle in Bezug auf die in den Konsolidierungskreis einbezogenen Unternehmen nach Auffassung der Gruppenaufsichtsbehörde angemessen sind. Die gewählte Methode ist auf Dauer einheitlich anzuwenden.
 
@@ -4926,15 +4631,13 @@ Können mehrere Unternehmen derselben Gruppe einzeln betrachtet nach Satz 1 Numm
 
 (+++ § 259: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 260 – Nichtverfügbarkeit der notwendigen Informationen
+# § 260 – Nichtverfügbarkeit der notwendigen Informationen
 
 Sind die für die Berechnung der Gruppensolvabilität eines Versicherungsunternehmens notwendigen Informationen über ein verbundenes Unternehmen mit Sitz in einem Mitglied- oder Vertragsstaat oder Drittstaat nicht verfügbar, wird der Buchwert, den dieses Unternehmen in dem beteiligten Versicherungsunternehmen hat, von den auf die Gruppensolvabilität anrechnungsfähigen Eigenmitteln abgezogen. Die mit dieser Beteiligung verbundenen nicht realisierten Gewinne dürfen nicht als Eigenmittel zur Bedeckung der Gruppensolvabilität herangezogen werden.
 
 (+++ § 260: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 261 Abs. 3 Satz 3 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 261 – Konsolidierungsmethode
+# § 261 – Konsolidierungsmethode
 
 (1) Nach der Konsolidierungsmethode wird die Gruppensolvabilität des beteiligten Versicherungsunternehmens auf der Grundlage des konsolidierten Abschlusses berechnet. Die Gruppensolvabilität des beteiligten Versicherungsunternehmens ist die Differenz zwischen den auf der Grundlage des konsolidierten Abschlusses errechneten, zur Einhaltung der Solvabilitätskapitalanforderung anrechnungsfähigen Eigenmitteln und der auf der Grundlage des konsolidierten Abschlusses errechneten Gruppensolvabilitätskapitalanforderung. Teil 2 Kapitel 2 Abschnitt 2 gilt für die Berechnung der auf die Solvabilitätskapitalanforderung anrechnungsfähigen Eigenmittel und der Gruppensolvabilitätskapitalanforderung unter Anwendung der Konsolidierungsmethode entsprechend.
 
@@ -4944,8 +4647,7 @@ Sind die für die Berechnung der Gruppensolvabilität eines Versicherungsunterne
 
 (+++ § 261: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 262 – Internes Modell für die Gruppe
+# § 262 – Internes Modell für die Gruppe
 
 (1) Ein Versicherungsunternehmen und seine verbundenen Unternehmen oder gemeinsam die verbundenen Unternehmen einer Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft können beantragen, die konsolidierte Solvabilitätskapitalanforderung auf Gruppenebene sowie die Solvabilitätskapitalanforderungen der Versicherungsunternehmen der Gruppe mit einem internen Modell zu berechnen. Der Antrag ist an die Gruppenaufsichtsbehörde zu richten.
 
@@ -4963,8 +4665,7 @@ Sind die für die Berechnung der Gruppensolvabilität eines Versicherungsunterne
 
 (+++ § 262: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 265 Abs. 5 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 263 – Kapitalaufschlag für ein Gruppenunternehmen
+# § 263 – Kapitalaufschlag für ein Gruppenunternehmen
 
 (1) Wenn ein Versicherungsunternehmen seine Solvabilitätskapitalanforderung auf Grundlage eines auf Gruppenebene genehmigten internen Modells berechnet und das Risikoprofil dieses Unternehmens nach Auffassung der Aufsichtsbehörde erheblich von den Annahmen abweicht, die diesem internen Modell zugrunde liegen, kann die Aufsichtsbehörde gemäß § 301 einen Kapitalaufschlag auf die anhand des internen Modells ermittelte Solvabilitätskapitalanforderung festsetzen. Der Kapitalaufschlag wird aufgehoben, sobald das betroffene Versicherungsunternehmen die Bedenken der Aufsichtsbehörde ausgeräumt hat.
 
@@ -4972,8 +4673,7 @@ Sind die für die Berechnung der Gruppensolvabilität eines Versicherungsunterne
 
 (+++ § 263: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 265 Abs. 5 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 264 – Kapitalaufschlag für die Gruppe
+# § 264 – Kapitalaufschlag für die Gruppe
 
 (1) Die Gruppenaufsichtsbehörde kann einen Kapitalaufschlag auf die konsolidierte Solvabilitätskapitalanforderung für die Gruppe festsetzen, wenn die konsolidierte Solvabilitätskapitalanforderung das Risikoprofil der Gruppe nicht angemessen abbildet. Dies ist insbesondere der Fall, wenn
 
@@ -4985,8 +4685,7 @@ Sind die für die Berechnung der Gruppensolvabilität eines Versicherungsunterne
 
 (+++ § 264: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 265 – Abzugs- und Aggregationsmethode
+# § 265 – Abzugs- und Aggregationsmethode
 
 (1) Nach der Abzugs- und Aggregationsmethode ist die Gruppensolvabilität des beteiligten Versicherungsunternehmens die Differenz zwischen
 
@@ -5014,15 +4713,13 @@ Sind die für die Berechnung der Gruppensolvabilität eines Versicherungsunterne
 
 (+++ § 265: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 266 – Gruppensolvabilität bei einer Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft
+# § 266 – Gruppensolvabilität bei einer Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft
 
 Sind Versicherungsunternehmen Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft, ist die Solvabilität der Gruppe gemäß § 250 Absatz 1 Satz 2 und den §§ 252 bis 265 auf Ebene der Versicherungs-Holdinggesellschaft oder der gemischten Finanzholding-Gesellschaft zu berechnen. Für diese Berechnung wird die Versicherungs-Holdinggesellschaft oder die gemischte Finanzholding-Gesellschaft wie ein Versicherungsunternehmen behandelt. Ihre Solvabilitätskapitalanforderung muss gemäß Teil 2 Kapitel 2 Abschnitt 2 Unterabschnitt 2 und 3 und unter der Annahme ermittelt werden, dass sie in Bezug auf die anrechnungsfähigen Eigenmittel den in Teil 2 Kapitel 2 Abschnitt 2 Unterabschnitt 1 festgelegten Bestimmungen unterliegt.
 
 (+++ § 266: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)
 
-
-## § 267 – Bedingungen für Tochterunternehmen eines Versicherungsunternehmens
+# § 267 – Bedingungen für Tochterunternehmen eines Versicherungsunternehmens
 
 Die Bestimmungen der §§ 269 und 270 gelten für jedes Versicherungsunternehmen, das Tochterunternehmen eines Versicherungsunternehmens ist, wenn
 
@@ -5038,8 +4735,7 @@ Die Bestimmungen der §§ 269 und 270 gelten für jedes Versicherungsunternehmen
 
 (+++ § 267: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)
 
-
-## § 268 – Beaufsichtigung bei zentralisiertem Risikomanagement
+# § 268 – Beaufsichtigung bei zentralisiertem Risikomanagement
 
 (1) Bei der Entscheidung über die Genehmigung eines Antrags auf Beaufsichtigung der Solvabilität einer Gruppe mit zentralisiertem Risikomanagement gemäß den Bestimmungen der §§ 269 und 270 und bei der Entscheidung über etwaige Bedingungen, unter denen die Genehmigung erteilt wird, arbeiten alle betroffenen Aufsichtsbehörden im Aufsichtskollegium (§ 283) zusammen. Der Antrag ist an die für das Tochterunternehmen zuständige Aufsichtsbehörde zu richten. Diese unterrichtet hiervon unverzüglich die anderen Aufsichtsbehörden im Aufsichtskollegium und leitet den vollständigen Antrag an diese weiter.
 
@@ -5057,8 +4753,7 @@ Die Bestimmungen der §§ 269 und 270 gelten für jedes Versicherungsunternehmen
 
 (+++ § 268: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)
 
-
-## § 269 – Bestimmung der Solvabilitätskapitalanforderung des Tochterunternehmens
+# § 269 – Bestimmung der Solvabilitätskapitalanforderung des Tochterunternehmens
 
 (1) Die Solvabilitätskapitalanforderung eines Tochterunternehmens wird gemäß den Absätzen 2, 4 und 5 berechnet. § 262 bleibt unberührt.
 
@@ -5074,8 +4769,7 @@ Die Bestimmungen der §§ 269 und 270 gelten für jedes Versicherungsunternehmen
 
 (+++ § 269: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 271 Abs. 1 Eingangssatz +++)
 
-
-## § 270 – Nichtbedeckung der Kapitalanforderungen des Tochterunternehmens
+# § 270 – Nichtbedeckung der Kapitalanforderungen des Tochterunternehmens
 
 (1) Innerhalb von sechs Monaten nach Feststellung der Nichtbedeckung der Solvabilitätskapitalanforderung hat das Tochterunternehmen die anrechnungsfähigen Eigenmittel aufzustocken oder seine Risiken so zu reduzieren, dass die Solvabilitätskapitalanforderung wieder bedeckt ist. Die Aufsichtsbehörde, die das Tochterunternehmen zugelassen hat, übermittelt allen Aufsichtsbehörden im Aufsichtskollegium unverzüglich den vom Tochterunternehmen vorgelegten Sanierungsplan. Die Aufsichtsbehörden im Aufsichtskollegium entscheiden einvernehmlich innerhalb von vier Monaten nach Feststellung der Nichteinhaltung der Solvabilitätskapitalanforderung über die Genehmigung des Sanierungsplans. Können sich die Aufsichtsbehörden innerhalb dieser Frist nicht einigen, entscheidet die Aufsichtsbehörde unter Berücksichtigung der Auffassungen der anderen Aufsichtsbehörden über die Genehmigung des Sanierungsplans.
 
@@ -5103,8 +4797,7 @@ können sie die Europäische Aufsichtsbehörde für das Versicherungswesen und d
 
 (+++ § 270: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 271 Abs. 1 Eingangssatz +++)
 
-
-## § 271 – Ende der Ausnahmeregelung für ein Tochterunternehmen
+# § 271 – Ende der Ausnahmeregelung für ein Tochterunternehmen
 
 (1) Die in den §§ 269 und 270 vorgesehenen Regelungen sind nicht anwendbar, wenn
 
@@ -5122,15 +4815,13 @@ Entscheidet die Gruppenaufsichtsbehörde in dem in Satz 1 Nummer 1 genannten Fal
 
 (+++ § 271: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 272 – Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft
+# § 272 – Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft
 
 Für Versicherungsunternehmen, die Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder einer gemischten Finanzholding-Gesellschaft sind, gelten die §§ 267 bis 271 entsprechend.
 
 (+++ § 272: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 273 – Überwachung der Risikokonzentration
+# § 273 – Überwachung der Risikokonzentration
 
 (1) Der Gruppenaufsichtsbehörde sind mindestens einmal jährlich alle wesentlichen Risikokonzentrationen auf Gruppenebene zu melden.
 
@@ -5149,8 +4840,7 @@ Bei der Bestimmung der Risiken ist der individuellen Struktur der Gruppe und der
 (+++ § 273: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)  
 (+++ § 273 Abs. 3 Satz 2 u. 3, Abs. 4: Zur Anwendung vgl. § 274 Abs. 4 Satz 3 +++)
 
-
-## § 274 – Überwachung gruppeninterner Transaktionen
+# § 274 – Überwachung gruppeninterner Transaktionen
 
 (1) Der Gruppenaufsichtsbehörde ist mindestens einmal jährlich über alle wesentlichen gruppeninternen Transaktionen der Versicherungsunternehmen der Gruppe zu berichten, einschließlich der Transaktionen mit natürlichen Personen, die zu einem Unternehmen der Gruppe enge Verbindungen unterhalten. Die Gruppenaufsichtsbehörde kann einen unterjährigen Berichtsturnus festlegen, um die Überwachung der gruppeninternen Transaktionen zu erleichtern.
 
@@ -5162,8 +4852,7 @@ Bei der Bestimmung der Risiken ist der individuellen Struktur der Gruppe und der
 
 (+++ § 274: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 290 Abs. 1 Satz 1 u. § 292 Satz 2 +++)
 
-
-## § 275 – Überwachung des Governance-Systems
+# § 275 – Überwachung des Governance-Systems
 
 (1) Teil 2 Kapitel 1 Abschnitt 3 und § 47 Nummer 1, 2, 8 und 9 gelten auf Gruppenebene entsprechend. Dessen ungeachtet sind das Risikomanagementsystem und das interne Kontrollsystem sowie das Berichtswesen aller in die Gruppenaufsicht nach § 245 Absatz 2 Nummer 1 und 2 einbezogenen Unternehmen so umzusetzen, dass diese Systeme und das Berichtswesen auf der Ebene der Gruppe gesteuert und kontrolliert werden können.
 
@@ -5179,8 +4868,7 @@ Bei der Bestimmung der Risiken ist der individuellen Struktur der Gruppe und der
 
 (+++ § 275: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 276 – Gegenseitiger Informationsaustausch
+# § 276 – Gegenseitiger Informationsaustausch
 
 (1) Die in die Gruppenaufsicht einbezogenen natürlichen und juristischen Personen einschließlich ihrer verbundenen und beteiligten Unternehmen sind befugt, alle Informationen auszutauschen, die für die Anwendung der Vorschriften dieses Teils notwendig sind.
 
@@ -5190,8 +4878,7 @@ Bei der Bestimmung der Risiken ist der individuellen Struktur der Gruppe und der
 
 (+++ § 276: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 277 – Bericht über Solvabilität und Finanzlage der Gruppe
+# § 277 – Bericht über Solvabilität und Finanzlage der Gruppe
 
 (1) Das oberste Mutterunternehmen auf Ebene der Mitglied- oder Vertragsstaaten im Sinne des § 247 hat jährlich einen Solvabilitäts- und Finanzbericht auf Gruppenebene zu veröffentlichen. § 29 Absatz 3 und die §§ 40 bis 42 sind entsprechend anzuwenden.
 
@@ -5203,15 +4890,13 @@ Bei der Bestimmung der Risiken ist der individuellen Struktur der Gruppe und der
 
 (+++ § 277: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 278 – Gruppenstruktur
+# § 278 – Gruppenstruktur
 
 Versicherungsunternehmen, Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften veröffentlichen jährlich die rechtliche Struktur und die Governance- und Organisationsstruktur auf Gruppenebene einschließlich einer Beschreibung der zu der Gruppe gehörenden Tochtergesellschaften, wichtigen verbundenen Unternehmen und bedeutenden Zweigniederlassungen.
 
 (+++ § 278: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 279 – Zuständigkeit für die Gruppenaufsicht
+# § 279 – Zuständigkeit für die Gruppenaufsicht
 
 (1) Zuständig für die Koordinierung und Wahrnehmung der Gruppenaufsicht ist die Gruppenaufsichtsbehörde. Gruppenaufsichtsbehörde ist die Aufsichtsbehörde der betroffenen Mitglied- oder Vertragsstaaten, die die in Absatz 2 genannten Kriterien erfüllt, sofern nicht nach § 280 eine abweichende Bestimmung erfolgt.
 
@@ -5233,8 +4918,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 (+++ § 279: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 280 – Bestimmung der Gruppenaufsichtsbehörde
+# § 280 – Bestimmung der Gruppenaufsichtsbehörde
 
 (1) Wäre die Anwendung der in § 279 Absatz 2 genannten Kriterien auf Grund der Struktur der Gruppe und der relativen Bedeutung der Geschäfte des Versicherungsunternehmens in den verschiedenen Mitglied- oder Vertragsstaaten unangemessen, können die betroffenen Aufsichtsbehörden in besonderen Fällen gemeinsam eine andere Aufsichtsbehörde zur Gruppenaufsichtsbehörde bestimmen. Die Gruppenaufsichtsbehörde soll nicht häufiger als einmal jährlich bestimmt werden.
 
@@ -5248,8 +4932,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 (+++ § 280: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 281 – Aufgaben und Befugnisse der Gruppenaufsichtsbehörde
+# § 281 – Aufgaben und Befugnisse der Gruppenaufsichtsbehörde
 
 (1) Die Aufgaben und Befugnisse der Gruppenaufsichtsbehörde umfassen
 
@@ -5279,8 +4962,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 (+++ § 281: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 282 – Befreiung von der Berichterstattung auf Gruppenebene
+# § 282 – Befreiung von der Berichterstattung auf Gruppenebene
 
 (1) Sind die Intervalle für die regelmäßige aufsichtliche Berichterstattung kürzer als ein Jahr, kann die Gruppenaufsichtsbehörde die Häufigkeit der Berichterstattung auf Gruppenebene begrenzen, sofern alle Versicherungsunternehmen der Gruppe von dieser Begrenzung gemäß § 45 Absatz 1 profitieren, wobei der Wesensart, dem Umfang und der Komplexität der mit der Geschäftstätigkeit der Gruppe verbundenen Risiken Rechnung zu tragen ist.
 
@@ -5288,8 +4970,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 (+++ § 282: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 283 – Aufsichtskollegium
+# § 283 – Aufsichtskollegium
 
 (1) In Bezug auf Gruppen, die nicht ausschließlich im Inland tätig sind, ist die Aufsichtsbehörde Mitglied eines Aufsichtskollegiums unter dem Vorsitz der Gruppenaufsichtsbehörde. Mitglieder des Aufsichtskollegiums sind die Gruppenaufsichtsbehörde, die Aufsichtsbehörden aller Mitgliedstaaten, in denen Tochterunternehmen ihren Sitz haben, und gemäß Artikel 21 der Verordnung (EU) Nr. 1094/2010 die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung. Die Aufsichtsbehörden von bedeutenden Zweigniederlassungen und verbundenen Unternehmen dürfen im Aufsichtskollegium mitwirken. Ihre Teilnahme ist jedoch darauf beschränkt, einen effizienten Informationsaustausch zu gewährleisten.
 
@@ -5313,8 +4994,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 (+++ § 283: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 284 – Zusammenarbeit bei der Gruppenaufsicht
+# § 284 – Zusammenarbeit bei der Gruppenaufsicht
 
 (1) Die für die Beaufsichtigung der Versicherungsunternehmen einer Gruppe zuständigen Aufsichtsbehörden und die Gruppenaufsichtsbehörde arbeiten eng zusammen, insbesondere in Fällen, in denen sich ein Versicherungsunternehmen in finanziellen Schwierigkeiten befindet. Ist ein Versicherungsunternehmen direkt oder indirekt mit einem Kreditinstitut oder einem Wertpapierhandelsunternehmen verbunden oder haben diese Unternehmen ein gemeinsames beteiligtes Unternehmen, so arbeiten die Aufsichtsbehörden im Sinne des Satzes 1 und die für die Beaufsichtigung dieser anderen Unternehmen zuständigen Behörden eng zusammen.
 
@@ -5332,8 +5012,7 @@ e) wenn die Gruppe kein Mutterunternehmen hat oder ein anderer nicht in den Buch
 
 (+++ § 284: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 290 Abs. 1 Satz 1 u. § 292 Satz 2 +++)
 
-
-## § 285 – Gegenseitige Konsultation der Aufsichtsbehörden
+# § 285 – Gegenseitige Konsultation der Aufsichtsbehörden
 
 (1) Vor jeder Entscheidung, die für die Aufsichtstätigkeit anderer Aufsichtsbehörden von Bedeutung ist, hört die Aufsichtsbehörde im Rahmen des Aufsichtskollegiums die anderen betroffenen Aufsichtsbehörden an über
 
@@ -5351,8 +5030,7 @@ Als außergewöhnliche Maßnahmen im Sinne des Satzes 1 Nummer 3 sind insbesonde
 
 (+++ § 285: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4, § 290 Abs. 1 Satz 1 u. § 292 Satz 2 +++)
 
-
-## § 286 – Zusammenarbeit bei verbundenen Unternehmen
+# § 286 – Zusammenarbeit bei verbundenen Unternehmen
 
 (1) Ist ein Versicherungsunternehmen mit Sitz im Inland mit einem Versicherungsunternehmen, einem Kreditinstitut im Sinne der Richtlinie 2006/48/EG oder einer Wertpapierfirma im Sinne der Richtlinie 2004/39/EG in einem anderen Mitglied- oder Vertragsstaat unmittelbar oder mittelbar verbunden oder hat es mit einem solchen Unternehmen ein gemeinsames beteiligtes Unternehmen, übermittelt die Aufsichtsbehörde der Aufsichtsbehörde des anderen Mitglied- oder Vertragsstaats unverzüglich die Informationen, die dieser die Erfüllung der Aufsichtspflichten im Rahmen der Richtlinie 2009/138/EG ermöglichen oder erleichtern. Zu den Informationen nach Satz 1 gehören insbesondere Informationen über Maßnahmen der Gruppe und der Aufsichtsbehörden sowie Informationen, die von der Gruppe bereitgestellt werden. Auf Anfrage der Aufsichtsbehörde des anderen Mitglied- oder Vertragsstaats übermittelt die Aufsichtsbehörde darüber hinaus Informationen, die geeignet sind, die Beaufsichtigung nach den Richtlinien 2009/138/EG und 2002/87/EG zu ermöglichen oder zu erleichtern. Die Aufsichtsbehörde übermittelt außerdem Informationen, soweit dies in delegierten Rechtsakten der Europäischen Kommission gemäß Artikel 249 Absatz 3 der Richtlinie 2009/138/EG verlangt wird.
 
@@ -5362,8 +5040,7 @@ Als außergewöhnliche Maßnahmen im Sinne des Satzes 1 Nummer 3 sind insbesonde
 
 (+++ § 286: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)
 
-
-## § 287 – Zwangsmaßnahmen
+# § 287 – Zwangsmaßnahmen
 
 (1) Erfüllt ein Versicherungsunternehmen einer Gruppe die Anforderungen der §§ 250 bis 272 an die Solvabilität der Gruppe nicht oder ist die Solvabilität der Gruppe gefährdet, obwohl es die Anforderungen einhält, oder gefährden gruppeninterne Transaktionen oder Risikokonzentrationen die Finanzlage des Versicherungsunternehmens, fordert die Aufsichtsbehörde das Versicherungsunternehmen auf, Maßnahmen zur unverzüglichen Bereinigung der Situation zu ergreifen. Gleichzeitig verlangt die Gruppenaufsichtsbehörde entsprechende Maßnahmen von der Versicherungs-Holdinggesellschaft oder der gemischten Finanzholding-Gesellschaft.
 
@@ -5373,8 +5050,7 @@ Als außergewöhnliche Maßnahmen im Sinne des Satzes 1 Nummer 3 sind insbesonde
 
 (+++ § 287: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)
 
-
-## § 288 – Mutterunternehmen mit Sitz in einem Drittstaat
+# § 288 – Mutterunternehmen mit Sitz in einem Drittstaat
 
 (1) Für ein Versicherungsunternehmen einer Gruppe, dessen Mutterunternehmen eine Versicherungs-Holdinggesellschaft, eine gemischte Finanzholding-Gesellschaft oder ein Versicherungsunternehmen mit Sitz in einem Drittstaat ist, muss festgestellt werden, ob es von der Aufsichtsbehörde des betreffenden Drittstaats in einer der Gruppenaufsicht in den Mitglied-oder Vertragsstaaten gleichwertigen Weise beaufsichtigt wird. Die Feststellung erfolgt von Amts wegen oder auf Antrag eines der betroffenen Unternehmen. Hat die Europäische Kommission einen delegierten Rechtsakt nach Artikel 260 Absatz 3 der Richtlinie 2009/138/EG in Bezug auf einen Drittstaat erlassen, wird dieser als verbindlich anerkannt.
 
@@ -5386,8 +5062,7 @@ Als außergewöhnliche Maßnahmen im Sinne des Satzes 1 Nummer 3 sind insbesonde
 
 (5) Wenn die Europäische Kommission in einem delegierten Rechtsakt nach Artikel 260 Absatz 5 der Richtlinie 2009/138/EG festgestellt hat, dass die Aufsichtsvorschriften eines Drittstaats vorläufig als gleichwertig gelten, ist während des in dem Rechtsakt genannten Zeitraums § 289 anzuwenden. Dies gilt nicht, wenn ein Versicherungsunternehmen mit Sitz im Inland eine Bilanzsumme aufweist, die über der Bilanzsumme des Mutterunternehmens mit Sitz in einem Drittstaat liegt. In diesem Fall übernimmt die als Gruppenaufsichtsbehörde handelnde Behörde die Aufgabe der Gruppenaufsichtsbehörde.
 
-
-## § 289 – Gleichwertigkeit
+# § 289 – Gleichwertigkeit
 
 (1) Ist im Überprüfungsverfahren nach § 288 die gleichwertige Beaufsichtigung festgestellt worden, erkennt die Aufsichtsbehörde die im Drittstaat durchgeführte Gruppenaufsicht als verbindlich an.
 
@@ -5395,8 +5070,7 @@ Als außergewöhnliche Maßnahmen im Sinne des Satzes 1 Nummer 3 sind insbesonde
 
 (+++ § 289: Zur Anwendung vgl. § 288 Abs. 5 Satz 1 +++)
 
-
-## § 290 – Fehlende Gleichwertigkeit
+# § 290 – Fehlende Gleichwertigkeit
 
 (1) Findet keine gleichwertige Beaufsichtigung im Sinne des § 288 statt, sind die §§ 250 bis 265 und 271 bis 285 sowie 309 entsprechend anzuwenden; Absatz 4 bleibt unberührt. Die in den §§ 250 bis 265 und 271 bis 285 festgelegten allgemeinen Grundsätze und Berechnungsmethoden sind auf der Ebene der Versicherungs-Holdinggesellschaft, der gemischten Finanzholding-Gesellschaft oder des Drittstaats-Versicherungsunternehmens anzuwenden.
 
@@ -5410,20 +5084,17 @@ Als außergewöhnliche Maßnahmen im Sinne des Satzes 1 Nummer 3 sind insbesonde
 
 (+++ § 290: Zur Anwendung vgl. § 291 Abs. 2 Satz 3 +++)
 
-
-## § 291 – Ebene der Beaufsichtigung
+# § 291 – Ebene der Beaufsichtigung
 
 (1) Ist ein Mutterunternehmen mit Sitz in einem Drittstaat selbst Tochterunternehmen einer Versicherungs-Holdinggesellschaft oder gemischten Finanzholding-Gesellschaft mit Sitz außerhalb des Europäischen Wirtschaftsraums oder eines Drittstaats-Versicherungsunternehmens, wird die in § 288 genannte Überprüfung nur auf der Ebene des obersten Mutterunternehmens, das eine Drittstaats-Versicherungs-Holdinggesellschaft, eine gemischte Drittstaats-Finanzholding-Gesellschaft oder ein Drittstaats-Versicherungsunternehmen ist, vorgenommen.
 
 (2) Die Aufsichtsbehörde kann bei fehlender gleichwertiger Beaufsichtigung auf einer niedrigeren Ebene bei einem Mutterunternehmen von Versicherungsunternehmen eine erneute Überprüfung vornehmen, unabhängig davon, ob es sich dabei um eine Drittstaats-Versicherungs-Holdinggesellschaft, eine gemischte Drittstaats-Finanzholding-Gesellschaft oder ein Drittstaats-Versicherungsunternehmen handelt. In diesem Fall erläutert die in § 288 Absatz 2 genannte Aufsichtsbehörde der Gruppe die Entscheidung. § 290 ist entsprechend anzuwenden.
 
-
-## § 292 – Gruppeninterne Transaktionen
+# § 292 – Gruppeninterne Transaktionen
 
 Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Holdinggesellschaft als Mutterunternehmen, unterliegen die gruppeninternen Transaktionen zwischen diesen Versicherungsunternehmen und der gemischten Versicherungs-Holdinggesellschaft der allgemeinen Aufsicht. Die §§ 274, 284 bis 287, § 298 Absatz 1, § 305 Absatz 1 Nummer 1 und § 328 sind entsprechend anzuwenden.
 
-
-## § 293 – Aufsicht
+# § 293 – Aufsicht
 
 (1) Für Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften gelten neben dem Absatz 3 die §§ 4, 16 bis 26, 29, 30, 32, 47 Nummer 1, 2 und 5 bis 7 sowie die §§ 303, 305, 306, 310 und 333 entsprechend; § 299 bleibt unberührt. Für Unternehmen, die auch das Erst- oder Rückversicherungsgeschäft betreiben, gelten neben Absatz 2 nur die Vorschriften über die Beaufsichtigung von Erst- oder Rückversicherungsunternehmen.
 
@@ -5441,8 +5112,7 @@ Haben ein oder mehrere Versicherungsunternehmen eine gemischte Versicherungs-Hol
 
 (+++ § 293 Abs. 1: Zur Anwendung vgl. § 247 Abs. 1, § 248 Abs. 1 Satz 4 u. § 292 Satz 2 +++)
 
-
-## § 294 – Aufgaben
+# § 294 – Aufgaben
 
 (1) Hauptziel der Beaufsichtigung ist der Schutz der Versicherungsnehmer und der Begünstigten von Versicherungsleistungen.
 
@@ -5468,8 +5138,7 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 
 (8) Die Aufsichtsbehörden nimmt ihre Aufgaben und Befugnisse nur im öffentlichen Interesse wahr.
 
-
-## § 295 – Zuständige Behörde in Bezug auf EU-Verordnungen
+# § 295 – Zuständige Behörde in Bezug auf EU-Verordnungen
 
 (1) Die nach diesem Gesetz zuständige Aufsichtsbehörde ist für die der Aufsicht nach diesem Gesetz unterliegenden Unternehmen auch
 
@@ -5483,22 +5152,19 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 
 (2) Die Aufsichtsbehörde ist zuständige Stelle nach Artikel 5 Absatz 1 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34; L 47 vom 20.2.2015, S. 34; L 246 vom 23.9.2015, S. 11) für die von ihr beaufsichtigten Unternehmen.
 
-
-## § 296 – Grundsatz der Verhältnismäßigkeit
+# § 296 – Grundsatz der Verhältnismäßigkeit
 
 (1) Auf Versicherungsunternehmen, die keine Pensionskassen sind, wendet die Aufsichtsbehörde die Vorschriften dieses Gesetzes in einer Art und Weise an, die der Art, dem Umfang und der Komplexität der Risiken angemessen ist, die mit der Tätigkeit des jeweiligen Versicherungsunternehmens einhergehen. Auf Pensionskassen wendet die Aufsichtsbehörde die Vorschriften dieses Gesetzes in einer Art und Weise an, die der Größenordnung, der Art, dem Umfang und der Komplexität der Tätigkeiten der jeweiligen Pensionskasse angemessen ist.
 
 (2) Absatz 1 gilt für den Verordnungsgeber entsprechend, soweit dieses Gesetz zum Erlass von Rechtsverordnungen ermächtigt.
 
-
-## § 297 – Ermessen
+# § 297 – Ermessen
 
 (1) Die Aufsichtsbehörde trifft ihre Maßnahmen nach pflichtgemäßem Ermessen.
 
 (2) Kommen zur Abwehr einer Gefahr mehrere Mittel in Betracht, so genügt es, wenn eines davon bestimmt wird. Dem Betroffenen ist auf Antrag zu gestatten, ein anderes ebenso wirksames Mittel anzuwenden, sofern die Belange der Versicherten dadurch nicht stärker beeinträchtigt werden.
 
-
-## § 298 – Allgemeine Aufsichtsbefugnisse
+# § 298 – Allgemeine Aufsichtsbefugnisse
 
 (1) Gegenüber Erstversicherungsunternehmen, den Mitgliedern ihres Vorstands sowie sonstigen Geschäftsleitern und den die Erstversicherungsunternehmen kontrollierenden Personen kann die Aufsichtsbehörde alle Maßnahmen ergreifen, die geeignet und erforderlich sind, um Missstände zu vermeiden oder zu beseitigen. Ein Missstand ist jedes Verhalten eines Versicherungsunternehmens, das den Aufsichtszielen des § 294 Absatz 2 widerspricht. Missstände sind auch Schwächen oder Mängel, die die Aufsichtsbehörde im Rahmen des aufsichtlichen Überprüfungsverfahrens festgestellt hat.
 
@@ -5518,8 +5184,7 @@ Die Aufsichtsbehörde legt die Mindesthäufigkeit und den Anwendungsbereich dies
 (+++ § 298 Abs. 1: Zur Anwendung vgl. § 292 Satz 2 +++)  
 (+++ § 298 Abs. 1 u. 2: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)
 
-
-## § 299 – Erweiterung der Aufsichtsbefugnisse
+# § 299 – Erweiterung der Aufsichtsbefugnisse
 
 Die Aufsichtsbehörde kann Maßnahmen nach § 298 Absatz 1 oder 2 auch unmittelbar ergreifen gegenüber
 
@@ -5529,15 +5194,13 @@ Die Aufsichtsbehörde kann Maßnahmen nach § 298 Absatz 1 oder 2 auch unmittelb
 
 (+++ § 299 Nr. 1: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
-
-## § 300 – Änderung des Geschäftsplans
+# § 300 – Änderung des Geschäftsplans
 
 Die Aufsichtsbehörde kann verlangen, dass ein Geschäftsplan vor Abschluss neuer Versicherungsverträge geändert wird. Wenn es zur Wahrung der Belange der Versicherten notwendig erscheint, kann die Aufsichtsbehörde einen Geschäftsplan mit Wirkung für bestehende sowie für noch nicht abgewickelte Versicherungsverhältnisse ändern oder aufheben. Die Sätze 1 und 2 gelten nicht für Rückversicherungsunternehmen.
 
 (+++ § 300: Zur Anwendung vgl. § 237 Abs. 3 Nr. 11 +++)
 
-
-## § 301 – Kapitalaufschlag
+# § 301 – Kapitalaufschlag
 
 (1) Die Aufsichtsbehörde kann einen Kapitalaufschlag auf die Solvabilitätskapitalanforderung für ein Versicherungsunternehmen nur festsetzen, wenn
 
@@ -5565,15 +5228,13 @@ oder
 
 (+++ § 301: Zur Anwendung vgl. § 264 Abs. 2 u. § 265 Abs. 6 Satz 4 +++)
 
-
-## § 302 – Untersagung einer Beteiligung
+# § 302 – Untersagung einer Beteiligung
 
 (1) Ist ein Erstversicherungsunternehmen an einem anderen Unternehmen, das nicht der Aufsicht unterliegt, beteiligt und ist die Beteiligung nach ihrer Art oder ihrem Umfang geeignet, das Versicherungsunternehmen zu gefährden, so kann die Aufsichtsbehörde dem Versicherungsunternehmen die Fortsetzung der Beteiligung untersagen oder nur unter der Bedingung gestatten, dass sich das Unternehmen nach § 341k des Handelsgesetzbuchs sowie nach den §§ 35 und 36 dieses Gesetzes auf seine Kosten oder auf Kosten des Versicherungsunternehmens prüfen lässt. Verweigert das Unternehmen dies oder ergeben sich bei der Prüfung Bedenken gegen die Beteiligung, so hat die Aufsichtsbehörde dem Versicherungsunternehmen die Fortsetzung zu untersagen.
 
 (2) Als Beteiligung im Sinne des Absatzes 1 gilt es auch, wenn ein Vorstands- oder Aufsichtsratsmitglied des Versicherungsunternehmens auf die Geschäftsführung eines anderen Unternehmens maßgebenden Einfluss ausübt oder auszuüben in der Lage ist.
 
-
-## § 303 – Abberufung von Personen mit Schlüsselaufgaben, Verwarnung
+# § 303 – Abberufung von Personen mit Schlüsselaufgaben, Verwarnung
 
 (1) Die Aufsichtsbehörde kann eine Person, die ein Versicherungsunternehmen tatsächlich leitet oder für andere Schlüsselaufgaben in einem Versicherungsunternehmen verantwortlich ist, verwarnen, wenn das Versicherungsunternehmen oder die Person als Geschäftsleiter gegen Bestimmungen dieses Gesetzes, des Versicherungsvertragsgesetzes, des Geldwäschegesetzes, der Verordnung (EU) Nr. 648/2012, gegen Artikel 4 Absatz 1 bis 5 oder Artikel 15 der Verordnung (EU) 2015/2365, gegen Artikel 16 Absatz 1 bis 4, Artikel 23 Absatz 3 Satz 1, Absatz 5, 6 oder 10, Artikel 28 Absatz 2 oder Artikel 29 der Verordnung (EU) 2016/1011, gegen die Artikel 6, 7, 9, 18 bis 26 oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402, gegen die zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen, die zur Durchführung der Verordnung (EU) Nr. 648/2012, des Artikels 4 Absatz 1 bis 5 der Verordnungen (EU) 2015/2365, (EU) 2016/1011, (EU) 2017/2402 oder der Richtlinie 2009/138/EG erlassenen Rechtsakte oder gegen Anordnungen der Aufsichtsbehörde verstößt. Gegenstand der Verwarnung ist die Feststellung des entscheidungsrelevanten Sachverhalts und des hierdurch begründeten Verstoßes.
 
@@ -5593,13 +5254,11 @@ oder
 
 (+++ § 303: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
-
-## § 303a – Tätigkeitsverbot für natürliche Personen
+# § 303a – Tätigkeitsverbot für natürliche Personen
 
 In den Fällen des § 304 Absatz 3 Nummer 3 oder des § 308 c Absatz 1 kann die Aufsichtsbehörde auch einer für den Verstoß verantwortlichen natürlichen Person, die zum Zeitpunkt des Verstoßes nicht Geschäftsleiter ist, vorübergehend für einen Zeitraum von bis zu zwei Jahren eine künftige Tätigkeit als Geschäftsleiter bei Versicherungsunternehmen und Pensionsfonds untersagen.
 
-
-## § 304 – Widerruf der Erlaubnis
+# § 304 – Widerruf der Erlaubnis
 
 (1) Die Erlaubnis zum Geschäftsbetrieb ist zu widerrufen,
 
@@ -5635,8 +5294,7 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 
 (+++ § 304 Abs. 4 bis 6: Zur Anwendung vgl. § 66 Abs. 3 Satz 3 +++)
 
-
-## § 305 – Befragung, Auskunftspflicht
+# § 305 – Befragung, Auskunftspflicht
 
 (1) Die Aufsichtsbehörde ist befugt,
 
@@ -5676,8 +5334,7 @@ Der Widerruf der Erlaubnis steht den im Rahmen des Insolvenzverfahrens erforderl
 (+++ § 305 Abs. 1, 2 Nr. 1 u. 2, Abs. 3 bis 5: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)  
 (+++ § 305 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1, Abs. 3 Satz 3 +++)
 
-
-## § 305a – Befugnisse und Maßnahmen gegen beaufsichtigte Kontributoren und Verwender von Indizes im Sinne der Verordnung (EU) 2016/1011
+# § 305a – Befugnisse und Maßnahmen gegen beaufsichtigte Kontributoren und Verwender von Indizes im Sinne der Verordnung (EU) 2016/1011
 
 (1) Die Aufsichtsbehörde kann Personen, die an der Bereitstellung eines Referenzwerts im Sinne der Verordnung (EU) 2016/1011 beteiligt sind oder dazu beitragen, laden und vernehmen, soweit dies auf Grund von Anhaltspunkten für die Überwachung der Einhaltung eines Verbots oder Gebots der Verordnung (EU) 2016/1011 erforderlich ist. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unberührt.
 
@@ -5707,8 +5364,7 @@ b) bezüglich eines beaufsichtigten Unternehmens im Sinne des Artikels 3 Absatz 
 
 c) einer Person für einen Zeitraum von bis zu zwei Jahren die Wahrnehmung von Führungsaufgaben bei einem Administrator oder beaufsichtigten Kontributor untersagen, wenn diese den Verstoß vorsätzlich begangen hat und das Verhalten trotz Verwarnung durch die Aufsichtsbehörde fortsetzt.
 
-
-## § 306 – Betreten und Durchsuchen von Räumen; Beschlagnahme
+# § 306 – Betreten und Durchsuchen von Räumen; Beschlagnahme
 
 (1) Die Aufsichtsbehörde ist befugt,
 
@@ -5762,8 +5418,7 @@ sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht, in dessen Bez
 (+++ § 306 Abs. 1 Satz 1 Nr. 1: Zur Anwendung vgl. § 247 Abs. 1 u. § 248 Abs. 1 Satz 4 +++)  
 (+++ § 306 Abs. 5: Zur Anwendung vgl. § 327 Abs. 1 Satz 1, Abs. 3 Satz 3 +++)
 
-
-## § 307 – Sonderbeauftragter
+# § 307 – Sonderbeauftragter
 
 (1) Die Aufsichtsbehörde kann Befugnisse eines Organs ganz oder teilweise auf einen Sonderbeauftragten übertragen. Sie bestimmt, in welchem Umfang der Sonderbeauftragte anstelle der Organe des beaufsichtigten Unternehmens handeln darf. Der Sonderbeauftragte muss unabhängig, zuverlässig und fachlich geeignet sein.
 
@@ -5775,8 +5430,7 @@ sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht, in dessen Bez
 
 (+++ § 307 Abs. 1 Satz 2 u. 3, Abs. 2, 3 u. 4: Zur Anwendung vgl. § 293 Abs. 3 Satz 2 +++)
 
-
-## § 308 – Unerlaubte Versicherungsgeschäfte
+# § 308 – Unerlaubte Versicherungsgeschäfte
 
 (1) Werden ohne die nach § 8 Absatz 1 erforderliche Erlaubnis Versicherungsgeschäfte betrieben, wird die Geschäftstätigkeit entgegen § 61 Absatz 1 oder § 67 Absatz 1 aufgenommen oder entgegen § 62 Absatz 3 Satz 2 oder 3 oder § 169 Absatz 3 Satz 2 fortgeführt (unerlaubte Versicherungsgeschäfte), kann die Aufsichtsbehörde die sofortige Einstellung des Geschäftsbetriebs und die unverzügliche Abwicklung dieser Geschäfte gegenüber dem Unternehmen anordnen. Sie kann für die Abwicklung Weisungen erlassen und eine geeignete Person als Abwickler bestellen.
 
@@ -5800,8 +5454,7 @@ sind durch den Richter anzuordnen. Zuständig ist das Amtsgericht, in dessen Bez
 
 (+++ § 308: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
-
-## § 308a – Maßnahmen gegenüber PRIIP-Herstellern und PRIIP-Verkäufern
+# § 308a – Maßnahmen gegenüber PRIIP-Herstellern und PRIIP-Verkäufern
 
 Die Aufsichtsbehörde kann gegenüber jedem Versicherungsunternehmen, das über ein PRIIP im Sinne des Artikels 4 Nummer 3 der Verordnung (EU) Nr. 1286/2014 berät oder es verkauft oder das Hersteller von PRIIP im Sinne des Artikels 4 Nummer 4 der Verordnung (EU) Nr. 1286/2014 ist, alle Maßnahmen treffen, die geeignet und erforderlich sind, um die Einhaltung der Anforderungen der Verordnung (EU) Nr. 1286/2014 und der auf Grundlage dieser Verordnung erlassenen delegierten Rechtsakte der Europäischen Kommission und technischen Regulierungsstandards zu überwachen. Insbesondere kann sie
 
@@ -5813,20 +5466,17 @@ Die Aufsichtsbehörde kann gegenüber jedem Versicherungsunternehmen, das über 
 
 4. bei einem Verstoß gegen eine der in Nummer 1 genannten Vorschriften auf ihrer Internetseite eine Warnung unter Nennung des verantwortlichen Versicherungsunternehmens sowie der Art des Verstoßes veröffentlichen.
 
-
-## § 308b – Maßnahmen hinsichtlich der Vergabe von Wohnimmobilien-Darlehen; Verordnungsermächtigung
+# § 308b – Maßnahmen hinsichtlich der Vergabe von Wohnimmobilien-Darlehen; Verordnungsermächtigung
 
 Die Aufsichtsbehörde kann nach Anhörung der Spitzenverbände der Unternehmen im Wege der Allgemeinverfügung Beschränkungen bei der Vergabe von Darlehen zum Bau oder zum Erwerb von im Inland belegenen Wohnimmobilien festlegen, wenn und soweit dies erforderlich ist, um einer Störung der Funktionsfähigkeit des inländischen Finanzsystems oder einer Gefährdung der Finanzstabilität im Inland entgegenzuwirken. § 48u Absatz 1 Satz 2 bis 5 und Absatz 2 bis 4 des Kreditwesengesetzes gilt entsprechend. Das Bundesministerium der Finanzen wird ermächtigt, für Unternehmen, die nicht der Aufsicht durch die Aufsichtsbehörden der Länder unterliegen, nach Anhörung der Spitzenverbände der Unternehmen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, nähere Regelungen nach Maßgabe des entsprechend anzuwendenden § 48u Absatz 5 Nummer 1 bis 5 des Kreditwesengesetzes zu erlassen.
 
-
-## § 308c – Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
+# § 308c – Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402
 
 (1) Verstößt ein nach diesem Gesetz beaufsichtigtes Unternehmen als Originator oder ursprünglicher Kreditgeber gegen die Anforderungen der Artikel 6, 7, 9, 18 bis 26 oder 27 Absatz 1 oder 4 der Verordnung (EU) 2017/2402, kann die Aufsichtsbehörde anordnen, dass die den Verstoß begründenden Handlungen oder Verhaltensweisen dauerhaft eingestellt werden, sowie verlangen, dass deren Wiederholung verhindert wird.
 
 (2) Wird eine Verbriefung als STS-Verbriefung im Sinne des Artikels 18 der Verordnung (EU) 2017/2402 bezeichnet und hat ein Originator, Sponsor oder eine Verbriefungszweckgesellschaft gegen eine der Anforderungen der Artikel 19 bis 26 der Verordnung (EU) 2017/2402 verstoßen oder macht ein Originator eine irreführende Meldung nach Artikel 27 Absatz 1 dieser Verordnung, kann die Aufsichtsbehörde vorübergehend verbieten, dass ein beaufsichtigtes Unternehmen als Originator gemäß Artikel 27 Absatz 1 dieser Verordnung meldet, dass seine Verbriefungen die Anforderungen der Artikel 19 bis 22 oder der Artikel 23 bis 26 dieser Verordnung erfüllen.
 
-
-## § 309 – Verschwiegenheitspflicht
+# § 309 – Verschwiegenheitspflicht
 
 (1) Die bei den Versicherungsaufsichtsbehörden beschäftigten oder von ihnen beauftragten Personen sowie die Mitglieder des Versicherungsbeirats dürfen bei ihrer Tätigkeit erhaltene vertrauliche Informationen an keine andere Person oder Behörde weitergeben. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 genannten Informationen erhalten. Die Sätze 1 und 2 gelten nicht für die Weitergabe von Informationen in zusammengefasster oder allgemeiner Form, bei der die einzelnen Versicherungsunternehmen nicht zu erkennen sind.
 
@@ -5890,8 +5540,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (+++ § 309: Zur Anwendung vgl. § 290 Abs. 1 Satz 1 +++)
 
-
-## § 310 – Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung
+# § 310 – Nebenbestimmungen; Ausschluss der aufschiebenden Wirkung
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können mit Nebenbestimmungen versehen werden.
 
@@ -5899,15 +5548,13 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (+++ § 310: Zur Anwendung vgl. § 62 Abs. 1 Satz 2 Nr. 6 +++)
 
-
-## § 311 – Anzeige der Zahlungsunfähigkeit
+# § 311 – Anzeige der Zahlungsunfähigkeit
 
 (1) Sobald das Versicherungsunternehmen zahlungsunfähig wird, hat sein Vorstand dies der Aufsichtsbehörde anzuzeigen. Dies gilt sinngemäß, wenn das Vermögen des Versicherungsunternehmens nicht mehr die Schulden deckt. Diese Anzeigepflicht tritt an die Stelle der dem Vorstand durch andere gesetzliche Vorschriften auferlegten Pflicht, bei Zahlungsunfähigkeit oder Überschuldung die Eröffnung des Insolvenzverfahrens zu beantragen.
 
 (2) Bleiben bei Versicherungsvereinen auf Gegenseitigkeit und nach dem Gegenseitigkeitsgrundsatz arbeitenden öffentlich-rechtlichen Versicherungsunternehmen, bei denen Nachschüsse oder Umlagen zu leisten sind, ausgeschriebene Nachschüsse oder Umlagen fünf Monate über die Fälligkeit rückständig, so hat der Vorstand zu prüfen, ob sich, wenn die nicht bar eingegangenen Nachschüsse oder Umlagen außer Betracht bleiben, Überschuldung ergibt; ist dies der Fall, so hat er dies innerhalb eines Monats nach Ablauf der bezeichneten Frist der Aufsichtsbehörde anzuzeigen. Die gleichen Pflichten haben die Liquidatoren.
 
-
-## § 312 – Eröffnung des Insolvenzverfahrens
+# § 312 – Eröffnung des Insolvenzverfahrens
 
 (1) Der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen eines Versicherungsunternehmens kann nur von der Aufsichtsbehörde gestellt werden. Die Antragsrechte nach § 3a Absatz 1, § 3d Absatz 2 und § 269d Absatz 2 der Insolvenzordnung stehen ausschließlich der Aufsichtsbehörde zu. Die Einleitung eines Koordinationsverfahrens (§§ 269d bis 269i der Insolvenzordnung) entfaltet für die gruppenangehörigen Versicherungsunternehmen nur dann Wirkung, wenn die Aufsichtsbehörde sie beantragt oder ihr zugestimmt hat.
 
@@ -5923,8 +5570,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (+++ § 312 Abs. 4 Satz 1, 3 u. 4, Abs. 5 Satz 2: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 313 – Unterrichtung der Gläubiger
+# § 313 – Unterrichtung der Gläubiger
 
 (1) Mit dem Eröffnungsbeschluss ist den Gläubigern ein Formblatt zu übersenden, das mit den Worten „Aufforderung zur Anmeldung und Erläuterung einer Forderung. Fristen beachten!“ und den entsprechenden Übersetzungen in sämtlichen Amtssprachen der Mitglied- oder Vertragsstaaten überschrieben ist. Das Formblatt wird vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesanzeiger veröffentlicht und enthält insbesondere folgende Angaben:
 
@@ -5950,8 +5596,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (+++ § 313: Zur Anwendung vgl. § 237 Abs. 1 Satz 2 +++)
 
-
-## § 314 – Zahlungsverbot; Herabsetzung von Leistungen
+# § 314 – Zahlungsverbot; Herabsetzung von Leistungen
 
 (1) Ergibt sich bei der Prüfung der Geschäftsführung und der Vermögenslage eines Unternehmens, dass dieses dauerhaft nicht mehr imstande ist, seine Verpflichtungen zu erfüllen, die Vermeidung des Insolvenzverfahrens aber zum Besten der Versicherten geboten erscheint, so kann die Aufsichtsbehörde das hierzu Erforderliche anordnen, auch die Vertreter des Unternehmens auffordern, innerhalb bestimmter Fristen eine Änderung der Geschäftsgrundlagen oder sonst die Beseitigung der Mängel herbeizuführen. Alle Arten von Zahlungen, besonders Versicherungsleistungen, Gewinnverteilungen und bei Lebensversicherungen der Rückkauf oder die Beleihung des Versicherungsscheins sowie Vorauszahlungen darauf, können zeitweilig verboten werden. Die Vorschriften der Insolvenzordnung zum Schutz von Zahlungsabrechnungssystemen, Wertpapierliefersystemen und Wertpapierabrechnungssystemen sowie von dinglichen Sicherheiten der Zentralbanken und von Finanzsicherheiten sind entsprechend anzuwenden.
 
@@ -5959,8 +5604,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (3) Die Maßnahmen nach den Absätzen 1 und 2 können auf eine selbständige Abteilung des Sicherungsvermögens (§ 125 Absatz 6) beschränkt werden.
 
-
-## § 315 – Behandlung von Versicherungsforderungen
+# § 315 – Behandlung von Versicherungsforderungen
 
 (1) Bei Befriedigung aus den Werten des Sicherungsvermögens nach § 126 Absatz 1 bis 3 haben
 
@@ -5974,8 +5618,7 @@ in Höhe des Anteils am Sicherungsvermögen gemäß § 125 Absatz 2 Vorrang vor 
 
 (+++ § 315 Abs. 1 Satz 2, Abs. 2: Zur Anwendung vgl. § 316 Satz 3 +++)
 
-
-## § 316 – Erlöschen bestimmter Versicherungsverträge
+# § 316 – Erlöschen bestimmter Versicherungsverträge
 
 Durch die Eröffnung des Insolvenzverfahrens erlöschen
 
@@ -5991,8 +5634,7 @@ Durch die Eröffnung des Insolvenzverfahrens erlöschen
 
 Die Anspruchsberechtigten können den auf sie zum Zeitpunkt der Eröffnung des Insolvenzverfahrens entfallenden Anteil an dem Mindestumfang des Sicherungsvermögens nach § 125 Absatz 2 fordern. § 315 Absatz 1 Satz 2 und Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 317 – Pfleger im Insolvenzfall
+# § 317 – Pfleger im Insolvenzfall
 
 (1) Das Insolvenzgericht hat den Versicherten zur Wahrung ihrer Rechte nach den §§ 315 und 316 einen Pfleger zu bestellen. Für die Pflegschaft tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht.
 
@@ -6006,8 +5648,7 @@ Die Anspruchsberechtigten können den auf sie zum Zeitpunkt der Eröffnung des I
 
 (6) Vor Bestellung des Pflegers und vor Festsetzung der Vergütung ist die Aufsichtsbehörde anzuhören.
 
-
-## § 318 – Veröffentlichungen
+# § 318 – Veröffentlichungen
 
 (1) Die Bundesanstalt veröffentlicht jährlich Mitteilungen über den Stand der ihrer Aufsicht unterstellten Versicherungsunternehmen sowie über ihre Wahrnehmungen auf dem Gebiet des Versicherungswesens.
 
@@ -6027,8 +5668,7 @@ Die Angaben müssen ausreichend sein, um einen Vergleich der von den Aufsichtsbe
 
 (+++ § 318 Abs. 3: Zur Anwendung vgl. § 159 Abs. 1 Satz 2 +++)
 
-
-## § 319 – Bekanntmachung von Maßnahmen
+# § 319 – Bekanntmachung von Maßnahmen
 
 (1) Die Bundesanstalt soll jede gegen ein ihrer Aufsicht unterstehendes Unternehmen oder gegen einen Geschäftsleiter eines Unternehmens verhängte und bestandskräftig gewordene Maßnahme, die sie wegen eines Verstoßes gegen dieses Gesetz oder den dazu erlassenen Rechtsverordnungen verhängt hat, und jede unanfechtbar gewordene Bußgeldentscheidung nach Maßgabe der Absätze 2 und 3 unverzüglich auf ihren Internetseiten öffentlich bekannt machen und dabei auch Informationen zu Art und Charakter des Verstoßes mitteilen, soweit dies unter Abwägung der betroffenen Interessen zur Beseitigung oder Verhinderung von Missständen geboten ist. Die Rechte der Bundesanstalt nach § 308 Absatz 2 bleiben unberührt.
 
@@ -6044,8 +5684,7 @@ Abweichend von Satz 1 kann die Bundesanstalt in den Fällen von Satz 1 Nummer 2 
 
 (3) Eine Bekanntmachung soll fünf Jahre auf der Internetseite der Bundesanstalt veröffentlicht bleiben. Abweichend von Satz 1 sind personenbezogene Daten zu löschen, sobald die Bekanntmachung nicht mehr erforderlich ist.
 
-
-## § 319a – Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402
+# § 319a – Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402
 
 (1) Die Aufsichtsbehörde macht Entscheidungen über Maßnahmen und Sanktionen, die wegen Verstößen gegen die Verordnung (EU) 2015/2365 oder die Verordnung (EU) 2016/1011 oder auf diesen Verordnungen basierende delegierte Rechtsakte erlassen wurden, auf ihrer Internetseite unverzüglich nach Unterrichtung der natürlichen oder juristischen Person, gegen die die Maßnahme oder Sanktion verhängt wurde, bekannt.
 
@@ -6069,8 +5708,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (6) Bei bestandskräftigen Maßnahmen und unanfechtbar gewordenen Bußgeldentscheidungen, die wegen eines Verstoßes gegen die Artikel 6, 7, 9 oder 27 Absatz 1 der Verordnung (EU) 2017/2402 erlassen wurden, gelten die Absätze 1 bis 3 und 5 mit der Maßgabe entsprechend, dass die Bekanntmachung auch die verhängten Maßnahmen und Bußgeldentscheidungen umfasst und in der Verhältnismäßigkeitsprüfung nach Absatz 3 geprüft wird, ob die Bekanntmachung den beteiligten Personen einen unverhältnismäßigen Schaden zufügen würde.
 
-
-## § 320 – Bundesanstalt für Finanzdienstleistungsaufsicht
+# § 320 – Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (1) Die Bundesanstalt beaufsichtigt
 
@@ -6084,22 +5722,19 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (3) Die Bundesanstalt führt die Fachaufsicht über die Einrichtungen der in § 140 Absatz 1 des Siebten Buches Sozialgesetzbuch genannten Art, wenn diese Einrichtungen über das Gebiet eines Landes hinaus tätig sind.
 
-
-## § 321 – Übertragung der Aufsicht auf eine Landesaufsichtsbehörde
+# § 321 – Übertragung der Aufsicht auf eine Landesaufsichtsbehörde
 
 (1) Das Bundesministerium der Finanzen kann auf Antrag der Bundesanstalt die Aufsicht über private Versicherungsunternehmen von geringerer wirtschaftlicher Bedeutung, über Pensionsfonds und über öffentlich-rechtliche Wettbewerbs-Versicherungsunternehmen mit Zustimmung der zuständigen Landesaufsichtsbehörde auf diese übertragen.
 
 (2) Auch nach Übertragung der Aufsicht kann das Bundesministerium der Finanzen die Aufsicht über Unternehmen im Sinne des Absatzes 1 wieder der Bundesanstalt übertragen, insbesondere, wenn die Unternehmen größere wirtschaftliche Bedeutung erlangt haben.
 
-
-## § 322 – Übertragung der Aufsicht auf die Bundesanstalt
+# § 322 – Übertragung der Aufsicht auf die Bundesanstalt
 
 (1) Die Fachaufsicht über ein öffentlich-rechtliches Wettbewerbs-Versicherungsunternehmen, dessen Tätigkeit sich auf das Gebiet eines Landes beschränkt, kann auf Antrag der zuständigen Landesbehörden von der Bundesanstalt übernommen werden.
 
 (2) Bei anderen öffentlich-rechtlichen Versicherungsunternehmen, die nicht Wettbewerbs-Versicherungsunternehmen sind, kann die Bundesanstalt die Aufsicht übernehmen, wenn die beteiligten Landesregierungen dies beantragen.
 
-
-## § 323 – Verfahren
+# § 323 – Verfahren
 
 (1) Ein nach § 322 Absatz 1 gestellter Antrag kann jederzeit von der früher aufsichtsführenden Landesbehörde zum 1. Januar mit Wirkung zum 1. Januar des folgenden Jahres zurückgenommen werden.
 
@@ -6107,15 +5742,13 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (3) Bei dem Übergang von Aufsichtsbefugnissen nach den §§ 321 und 322 hat die Bundesanstalt den Zeitpunkt der Übernahme oder der Übertragung der Aufsicht im Bundesanzeiger mindestens zwei Wochen vorher bekannt zu geben.
 
-
-## § 324 – Zusammenarbeit der Aufsichtsbehörden
+# § 324 – Zusammenarbeit der Aufsichtsbehörden
 
 (1) Die Bundesanstalt und die aufsichtsführenden Landesbehörden sind verpflichtet, einander ihre Rechts- und Verwaltungsgrundsätze mitzuteilen. Dies gilt auch für die Grundsätze, die die Landesbehörden bei der Beaufsichtigung der öffentlich-rechtlichen Versicherungsunternehmen aufstellen sowie die Entwürfe von Rechtsverordnungen, Allgemeinverfügungen und Richtlinien, wenn Belange der anderen Aufsichtsbehörden berührt sein können.
 
 (2) Die Landesaufsichtsbehörden arbeiten mit der Bundesanstalt zusammen, wann immer dies erforderlich ist, um ihre Aufgaben gemäß der Richtlinie 2014/17/EU wahrzunehmen, einschließlich für die Zwecke der Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde gemäß dieser Richtlinie.
 
-
-## § 325 – Versicherungsbeirat
+# § 325 – Versicherungsbeirat
 
 (1) Zur Mitwirkung bei der Aufsicht besteht bei der Bundesanstalt ein Beirat aus Sachverständigen des Versicherungswesens.
 
@@ -6125,8 +5758,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (4) Die Mitglieder verwalten ihr Amt als unentgeltliches Ehrenamt; für ihre Teilnahme an Sitzungen erhalten sie Tagegeld und die Vergütung der Reisekosten.
 
-
-## § 326 – Allgemeine Grundsätze für die Zusammenarbeit der Aufsichtsbehörden
+# § 326 – Allgemeine Grundsätze für die Zusammenarbeit der Aufsichtsbehörden
 
 (1) Die Aufsichtsbehörde arbeitet mit der Europäischen Kommission und den Aufsichtsbehörden der Mitglied- oder Vertragsstaaten eng zusammen, um die Aufsicht auf Gemeinschaftsebene zu erleichtern.
 
@@ -6136,8 +5768,7 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (4) Die Bundesanstalt arbeitet mit den Aufsichtsbehörden des Herkunftsmitgliedstaates zusammen, wann immer dies erforderlich ist, um ihre Aufgaben gemäß der Richtlinie 2014/17/EU auszuüben. Zu diesem Zweck kann die Bundesanstalt Aufgaben und Zuständigkeiten an die Aufsichtsbehörde des Herkunftsmitgliedstaates übertragen und Aufgaben und Zuständigkeiten der Aufsichtsbehörde des Herkunftsmitgliedstaates übernehmen, die Dienstleistungen im Sinne dieser Richtlinie im Inland betreffen. Bei Meinungsverschiedenheiten zwischen den Aufsichtsbehörden bei der Zusammenarbeit nach Satz 1 gilt Artikel 19 der Verordnung (EU) Nr. 1093/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Errichtung einer Europäischen Aufsichtsbehörde (Europäische Bankenaufsichtsbehörde), zur Änderung des Beschlusses Nr. 716/2009/EG und zur Aufhebung des Beschlusses 2009/78/EG der Kommission (ABl. L 331 vom 15.12.2010, S. 12), die zuletzt durch die Richtlinie 2014/17/EU (ABl. L 60 vom 28.2.2014, S. 34) geändert worden ist, entsprechend.
 
-
-## § 327 – Zusammenarbeit bei örtlichen Prüfungen
+# § 327 – Zusammenarbeit bei örtlichen Prüfungen
 
 (1) Soweit es zur Ausübung der Finanzaufsicht nach § 62 Absatz 1 oder § 169 Absatz 1 oder zur Prüfung eines im Inland ansässigen Dienstleisters erforderlich ist, ist die Aufsichtsbehörde des Herkunftsstaats in Begleitung der mit der Aufsicht beauftragten Bediensteten der Aufsichtsbehörde befugt, in den Geschäftsräumen der Niederlassung durch eigenes Personal oder durch Beauftragte Prüfungen des Geschäftsbetriebs vorzunehmen; § 305 Absatz 5 und § 306 Absatz 5 sind entsprechend anzuwenden. Die Bundesanstalt leistet auf Verlangen Amtshilfe. Die Bediensteten der Aufsichtsbehörde und von ihr entsprechend § 306 Absatz 1 Nummer 3 an der Prüfung beteiligte Personen dürfen die Geschäftsräume des Versicherungsunternehmens betreten. Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
 
@@ -6145,15 +5776,13 @@ b) die Verhältnismäßigkeit der Bekanntmachung gewahrt bleibt.
 
 (3) Stellt im Rahmen der Zusammenarbeit bei der Gruppenaufsicht (§ 284) die zuständige Behörde eines anderen Mitglied- oder Vertragsstaats (ersuchende Behörde) ein Prüfungsersuchen im Sinne des Absatzes 2 für ein entsprechendes Unternehmen mit Sitz im Inland, so leistet die Aufsichtsbehörde Amtshilfe. Wenn die Aufsichtsbehörde die Prüfung selbst vornimmt, kann sich die ersuchende Behörde an der Prüfung beteiligen oder dabei zugegen sein. § 305 Absatz 5 und § 306 Absatz 5 sind entsprechend anzuwenden. Die Aufsichtsbehörde unterrichtet die Gruppenaufsichtsbehörde über die getroffenen Maßnahmen.
 
-
-## § 328 – Zustellungen
+# § 328 – Zustellungen
 
 Will die Aufsichtsbehörde eines anderen Mitglied- oder Vertragsstaats in einem Verfahren nach dessen Vorschriften über die Versicherungsaufsicht einem dort tätigen Versicherungsunternehmen mit Sitz im Inland ein Schriftstück übermitteln, ist die unmittelbare Übermittlung durch die Post nach den für den Postverkehr mit diesem anderen Mitglied- oder Vertragsstaat geltenden Vorschriften zulässig. Zum Nachweis der Zustellung genügt die Versendung des Schriftstücks als eingeschriebener Brief mit den besonderen Versendungsformen „eigenhändig“ und „Rückschein“. Kann eine Zustellung nicht unmittelbar durch die Post bewirkt werden oder ist dies nach Art oder Inhalt des Schriftstücks nicht zweckmäßig, wird die Zustellung durch die Bundesanstalt bewirkt.
 
 (+++ § 328: Zur Anwendung vgl. § 292 Satz 2 +++)
 
-
-## § 329 – Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
+# § 329 – Zusammenarbeit mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung
 
 (1) Die Aufsichtsbehörde arbeitet gemäß der Verordnung (EU) Nr. 1094/2010 für die Zwecke der Richtlinien 2009/138/EG und 2003/41/EG mit der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung zusammen. Sie berücksichtigt so weit wie möglich deren Leitlinien und Empfehlungen und begründet eventuelle Abweichungen.
 
@@ -6183,8 +5812,7 @@ e) für Rückversicherungsunternehmen;
 
 (5) Die Aufsichtsbehörde unterrichtet die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung über alle Verwaltungssanktionen und andere Maßnahmen nach Maßgabe von Artikel 32 Absatz 3 und Artikel 36 der Richtlinie (EU) 2016/97.
 
-
-## § 330 – Meldungen an die Europäische Kommission
+# § 330 – Meldungen an die Europäische Kommission
 
 (1) Die Aufsichtsbehörde meldet der Europäischen Kommission
 
@@ -6218,8 +5846,7 @@ e) für Rückversicherungsunternehmen;
 
 (4) Die Meldepflichten nach Absatz 1 Nummer 1, 2, 3 und 5 bestehen auch gegenüber der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung.
 
-
-## § 331 – Strafvorschriften
+# § 331 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -6249,8 +5876,7 @@ eine dort genannte Bestätigung nicht richtig abgibt oder
 
 (3) Handelt der Täter fahrlässig, so ist die Strafe in den Fällen des Absatzes 1 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe und in den Fällen des Absatzes 2 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 332 – Bußgeldvorschriften
+# § 332 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -6264,11 +5890,9 @@ b) § 303 Absatz 2 Nummer 2 oder Nummer 3
 
 zuwiderhandelt,
 
-2a.  
-entgegen § 48b Absatz 1 Satz 1 oder 2 eine Sondervergütung gewährt oder verspricht,
+2a. entgegen § 48b Absatz 1 Satz 1 oder 2 eine Sondervergütung gewährt oder verspricht,
 
-2b.  
-entgegen § 48c Absatz 1 Satz 1 die Auskehrung einer Zuwendung nicht, nicht vollständig oder nicht rechtzeitig veranlasst,
+2b. entgegen § 48c Absatz 1 Satz 1 die Auskehrung einer Zuwendung nicht, nicht vollständig oder nicht rechtzeitig veranlasst,
 
 3. entgegen § 125 Absatz 1 Satz 2 einen Vermögenswert nicht, nicht richtig oder nicht rechtzeitig dem Sicherungsvermögen zuführt,
 
@@ -6308,8 +5932,7 @@ ein Sicherungsvermögen anlegt,
 
 1. entgegen § 17 Absatz 1 oder Absatz 2, § 36 Absatz 1 Satz 1 oder § 59 Absatz 1, auch in Verbindung mit Absatz 4, eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
-1a.  
-entgegen § 18 Absatz 3 Satz 3 innerhalb des Beurteilungszeitraums eine bedeutende Beteiligung erwirbt oder erhöht,
+1a. entgegen § 18 Absatz 3 Satz 3 innerhalb des Beurteilungszeitraums eine bedeutende Beteiligung erwirbt oder erhöht,
 
 2. einer vollziehbaren Anordnung nach
 
@@ -6321,11 +5944,9 @@ zuwiderhandelt,
 
 3. entgegen § 48 Absatz 1 oder Absatz 2 Satz 2 mit einem Versicherungsvermittler zusammenarbeitet,
 
-3a.  
-entgegen § 1a Absatz 3 des Versicherungsvertragsgesetzes Informationen an Versicherungsnehmer oder potentielle Versicherungsnehmer richtet,
+3a. entgegen § 1a Absatz 3 des Versicherungsvertragsgesetzes Informationen an Versicherungsnehmer oder potentielle Versicherungsnehmer richtet,
 
-3b.  
-bei der Vermittlung eines Versicherungsanlageproduktes im Sinne von Artikel 2 Absatz 1 Nummer 17 der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb (Neufassung) (ABl. L 26 vom 2.2.2016, S. 19; L 222 vom 17.8.2016, S. 114)
+3b. bei der Vermittlung eines Versicherungsanlageproduktes im Sinne von Artikel 2 Absatz 1 Nummer 17 der Richtlinie (EU) 2016/97 des Europäischen Parlaments und des Rates vom 20. Januar 2016 über Versicherungsvertrieb (Neufassung) (ABl. L 26 vom 2.2.2016, S. 19; L 222 vom 17.8.2016, S. 114)
 
 a) entgegen § 7b Absatz 1 Satz 1 des Versicherungsvertragsgesetzes angemessene Informationen nicht rechtzeitig vor Abschluss des Vertrags zur Verfügung stellt,
 
@@ -6335,8 +5956,7 @@ c) entgegen § 7c Absatz 1 Satz 2 des Versicherungsvertragsgesetzes ein Versiche
 
 d) entgegen § 7c Absatz 5 Satz 3 des Versicherungsvertragsgesetzes eine Erklärung vor Vertragsabschluss nicht zur Verfügung stellt,
 
-3c.  
-entgegen § 7c Absatz 4 Satz 1 des Versicherungsvertragsgesetzes eine Aufzeichnung nicht erstellt,
+3c. entgegen § 7c Absatz 4 Satz 1 des Versicherungsvertragsgesetzes eine Aufzeichnung nicht erstellt,
 
 4. entgegen § 135 Absatz 1 eine Unterrichtung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vornimmt,
 
@@ -6502,13 +6122,11 @@ Handelt es sich bei der juristischen Person oder der Personenvereinigung um das 
 
 (9) § 17 Absatz 2 des Gesetzes über Ordnungswidrigkeiten ist nicht anzuwenden bei Verstößen gegen Gebote und Verbote, die in Absatz 3 Nummer 3, 3a, 3b, 3c und den Absätzen 4d, 4e, 4f, 4g, 4h, 4i und 4j in Bezug genommen werden. § 30 des Gesetzes über Ordnungswidrigkeiten gilt auch für juristische Personen oder für Personenvereinigungen, die über eine Niederlassung oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs im Inland tätig sind. Die Verfolgung der Ordnungswidrigkeiten nach Absatz 3 Nummer 3, 3a, 3b, 3c und den Absätzen 4d, 4e, 4f, 4g, 4h, 4i und 4j verjährt in drei Jahren.
 
-
-## § 333 – Zuständige Verwaltungsbehörde
+# § 333 – Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt, soweit die Aufsicht über Versicherungsunternehmen der Bundesanstalt zusteht.
 
-
-## § 334 – Beteiligung der Aufsichtsbehörde und Mitteilungen in Strafsachen
+# § 334 – Beteiligung der Aufsichtsbehörde und Mitteilungen in Strafsachen
 
 (1) Das Gericht, die Strafverfolgungs- oder die Strafvollstreckungsbehörde übermittelt der Bundesanstalt in Strafverfahren gegen Geschäftsleiter von Versicherungsunternehmen oder Pensionsfonds, Mitglieder der Verwaltungs- oder Aufsichtsorgane von Versicherungsunternehmen oder Pensionsfonds sowie gegen Inhaber bedeutender Beteiligungen an Versicherungsunternehmen oder Pensionsfonds oder deren gesetzliche Vertreter oder persönlich haftende Gesellschafter wegen Verletzung ihrer Berufspflichten oder anderer Straftaten bei oder im Zusammenhang mit der Ausübung eines Gewerbes oder dem Betrieb einer sonstigen wirtschaftlichen Unternehmung, ferner in Strafverfahren, die Straftaten nach § 331 zum Gegenstand haben, im Fall der Erhebung der öffentlichen Klage
 
@@ -6530,25 +6148,21 @@ Ist gegen die Entscheidung ein Rechtsmittel eingelegt worden, so ist die Entsche
 
 (4) Betrifft eine Mitteilung nach Absatz 1 oder 2 ein Versicherungsunternehmen oder einen Pensionsfonds, über das oder den die Aufsicht nach diesem Gesetz durch eine Landesbehörde ausgeübt wird, leitet die Bundesanstalt die Mitteilung unverzüglich an diese Behörde weiter.
 
-
-## § 335 – Fortsetzung des Geschäftsbetriebs
+# § 335 – Fortsetzung des Geschäftsbetriebs
 
 Die Versicherungsunternehmen, die am 1. Januar 1902 in einem oder in mehreren Ländern landesgesetzlich zum Geschäftsbetrieb befugt gewesen sind, bedürfen keiner Erlaubnis nach diesem Gesetz, wenn sie ihren Geschäftsbetrieb in den Grenzen fortsetzen, die sie bis zum 1. Januar 1902 eingehalten haben oder die ihnen, wenn ihre Befugnis zum Geschäftsbetrieb auf besonderer Erlaubnis beruht hat, durch die Erlaubnis gezogen waren.
 
-
-## § 336 – Weitergeltung genehmigter Geschäftspläne in der Lebensversicherung
+# § 336 – Weitergeltung genehmigter Geschäftspläne in der Lebensversicherung
 
 Für die vor dem 29. Juli 1994 abgeschlossenen Lebensversicherungsverträge (Altbestand) gilt der von der Aufsichtsbehörde bis zu diesem Zeitpunkt genehmigte Geschäftsplan in vollem Umfang weiter. Auf Änderungen dieses Geschäftsplans findet § 12 Absatz 1 Anwendung. Von den Bestimmungen des § 141 sind die Absätze 1, 2, 3 und 6 entsprechend sowie Absatz 5 mit der Maßgabe anzuwenden, dass die Deckungsrückstellung nach dem geltenden Geschäftsplan zu berechnen ist.
 
 (+++ § 336: Zur Anwendung vgl. § 233 Abs. 3 Satz 2 +++)
 
-
-## § 337 – Treuhänder in der Krankenversicherung
+# § 337 – Treuhänder in der Krankenversicherung
 
 Soweit bei der nach Art der Lebensversicherung betriebenen Krankenversicherung die Prämien für die vor dem 29. Juli 1994 abgeschlossenen Versicherungsverträge auf Grund einer Anpassungsklausel mit Genehmigung der Aufsichtsbehörde geändert werden dürfen, tritt an die Stelle der Genehmigung der Aufsichtsbehörde die Zustimmung des Treuhänders (§ 155 Absatz 1 und 2).
 
-
-## § 338 – Zuschlag in der Krankenversicherung
+# § 338 – Zuschlag in der Krankenversicherung
 
 Ist ein Vertrag über eine substitutive Krankenversicherung vor dem 1. Januar 2000 geschlossen, gilt § 149 mit der Maßgabe, dass
 
@@ -6560,25 +6174,21 @@ Ist ein Vertrag über eine substitutive Krankenversicherung vor dem 1. Januar 20
 
 4. der Zuschlag nur zu erheben ist, wenn der Versicherungsnehmer nicht innerhalb von drei Monaten nach dem Zugang der Mitteilung nach Nummer 3 schriftlich oder elektronisch widerspricht.
 
-
-## § 339 – Teilbestandsvorschriften in der Unfallversicherung
+# § 339 – Teilbestandsvorschriften in der Unfallversicherung
 
 Unternehmen, die im Rahmen eines einheitlichen Vertrags Risiken decken, die den in der Anlage 1 Nummer 1 und 19 genannten Versicherungssparten zuzuordnen sind, dürfen den Unfallversicherungsteil dieser Verträge auf ein anderes Unternehmen übertragen. § 13 ist entsprechend anzuwenden.
 
-
-## § 340 – Bestandsschutz für Rückversicherungsunternehmen
+# § 340 – Bestandsschutz für Rückversicherungsunternehmen
 
 (1) Für Unternehmen, die ausschließlich die Rückversicherung betreiben, dieses Geschäft bereits vor dem 21. Dezember 2004 ausgeübt haben und als Rückversicherungsunternehmen bei der Aufsichtsbehörde registriert sind, gilt die Erlaubnis nach § 8 Absatz 1 im Umfang des bisherigen Geschäftsbetriebs als erteilt. Diese Unternehmen unterliegen jedoch ohne Einschränkung der laufenden Aufsicht.
 
 (2) Für Rückversicherungsunternehmen eines Drittstaats, die bestehende Zweigniederlassungen fortführen und dies der Bundesanstalt bis zum 31. Dezember 2007 angezeigt haben, gilt die notwendige Erlaubnis im Umfang des angezeigten Geschäftsbetriebs als erteilt, soweit sie befugt sind, in ihrem Sitzland Rückversicherungsgeschäfte zu betreiben, dort ihre Hauptverwaltung haben, dort nach international anerkannten Grundsätzen beaufsichtigt werden und eine befriedigende Zusammenarbeit der zuständigen Behörden des Sitzlandes mit der Bundesanstalt gewährleistet ist. Diese Unternehmen unterliegen jedoch ohne Einschränkung der laufenden Aufsicht.
 
-
-## § 341 – Bericht über die Solvabilität und die Finanzlage
+# § 341 – Bericht über die Solvabilität und die Finanzlage
 
 Versicherungsunternehmen, für die ein Kapitalaufschlag festgesetzt wurde oder die unternehmensspezifische Parameter bei der Berechnung der Solvabilitätskapitalanforderung zu verwenden haben, müssen bis zum 31. Dezember 2020 nur den Gesamtbetrag der Solvabilitätskapitalanforderung ohne gesonderte Nennung des Betrags des Kapitalaufschlags und der quantitativen Auswirkungen der unternehmensspezifischen Parameter veröffentlichen. Die Verpflichtung, die aufsichtsrechtliche Maßnahme und ihre Hintergründe dem Grunde nach offenzulegen, bleibt unberührt.
 
-
-## § 342 – Einhaltung der Mindestkapitalanforderung
+# § 342 – Einhaltung der Mindestkapitalanforderung
 
 (1) Versicherungsunternehmen, die die am 31. Dezember 2015 geltenden Solvabilitätsanforderungen erfüllen, deren anrechnungsfähige Basiseigenmittel aber nicht zur Bedeckung der Mindestkapitalanforderung ausreichen, müssen spätestens am 31. Dezember 2016 über anrechnungsfähige Basiseigenmittel in Höhe der Mindestkapitalanforderung verfügen.
 
@@ -6586,8 +6196,7 @@ Versicherungsunternehmen, für die ein Kapitalaufschlag festgesetzt wurde oder d
 
 (3) Bis zum 31. Dezember 2017 kann die Aufsichtsbehörde von einem Versicherungsunternehmen, für das ein Kapitalaufschlag festgelegt wurde, verlangen, die in Artikel 129 Absatz 3 Satz 1 der Richtlinie 2009/138/EG genannten Prozentsätze ausschließlich auf die ohne den Kapitalaufschlag berechnete Solvabilitätskapitalanforderung anzuwenden.
 
-
-## § 343 – Einstellung des Geschäftsbetriebs
+# § 343 – Einstellung des Geschäftsbetriebs
 
 (1) Unbeschadet des § 165 Absatz 1 gilt, dass für Versicherungsunternehmen, die den Abschluss neuer Versicherungsverträge bis zum 1. Januar 2016 einstellen und ihren Versicherungsbestand ausschließlich mit dem Ziel verwalten, ihre Tätigkeit einzustellen, bis zu den in Absatz 2 genannten Zeitpunkten auf Antrag die für kleine Versicherungsunternehmen im Sinne des § 211 geltenden Vorschriften dieses Gesetzes Anwendung finden, wenn
 
@@ -6611,8 +6220,7 @@ Die Aufsichtsbehörde kann in den Fällen des Satzes 1 einen früheren Zeitpunkt
 
 (4) Die Aufsichtsbehörde hat eine Liste der betroffenen Versicherungsunternehmen den Aufsichtsbehörden aller Mitglied- oder Vertragsstaaten zu übermitteln.
 
-
-## § 344 – Fristen für Berichts- und Offenlegungspflichten
+# § 344 – Fristen für Berichts- und Offenlegungspflichten
 
 (1) Die Frist, in der Versicherungsunternehmen die Informationen nach Artikel 304 Absatz 1 der Delegierten Verordnung (EU) 2015/35 der Kommission vom 10. Oktober 2014 zur Ergänzung der Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. L 12 vom 17.1.2015, S. 1), die durch die Delegierte Verordnung (EU) 2016/467 (ABl. L 85 vom 1.4.2016, S. 6) geändert worden ist, jährlich einzureichen haben, beträgt
 
@@ -6652,8 +6260,7 @@ Für Versicherungsunternehmen, deren Geschäftsjahr am oder nach dem 1. Januar 2
 
 (4) Die Absätze 1 bis 3 sind in Verbindung mit den §§ 276 und 277 auf Gruppenebene entsprechend für beteiligte Versicherungsunternehmen, Versicherungs-Holdinggesellschaften, gemischte Versicherungs-Holdinggesellschaften und gemischte Finanzholding-Gesellschaften anzuwenden, wobei sich die genannten Fristen jeweils um sechs Wochen verlängern.
 
-
-## § 345 – Eigenmittel
+# § 345 – Eigenmittel
 
 (1) Unbeschadet des § 92 dürfen Basiseigenmittelbestandteile für bis zu zehn Jahre nach dem 1. Januar 2016 als Eigenmittel der Qualitätsklasse 1 angesetzt werden. Dies setzt voraus, dass diese Bestandteile
 
@@ -6671,15 +6278,13 @@ Für Versicherungsunternehmen, deren Geschäftsjahr am oder nach dem 1. Januar 2
 
 (+++ § 345: Zur Anwendung vgl. § 350 Satz 1 +++)
 
-
-## § 346 – Anlagen in Kreditverbriefungen
+# § 346 – Anlagen in Kreditverbriefungen
 
 Für Versicherungsunternehmen, die in handelbare Wertpapiere oder andere Finanzinstrumente auf der Grundlage von neu gebündelten, verbrieften und vor dem 1. Januar 2011 ausgegebenen Krediten investieren, gelten die in von der Kommission nach Artikel 135 Absatz 2 der Richtlinie 2009/138/EG erlassenen delegierten Rechtsakten genannten Anforderungen nur, wenn nach dem 31. Dezember 2014 zugrunde liegende Forderungen neu hinzugefügt oder ersetzt werden.
 
 (+++ § 346: Zur Anwendung vgl. § 350 Satz 1 +++)
 
-
-## § 347 – Standardparameter
+# § 347 – Standardparameter
 
 (1) Unbeschadet von § 89 Absatz 1 Satz 1, § 96 Absatz 1, § 97 Absatz 3 und der §§ 100, 109 Absatz 2 gilt im Hinblick auf die zu verwendenden Standardparameter Folgendes:
 
@@ -6701,8 +6306,7 @@ Das Gewicht des in Satz 1 Nummer 2 genannten Parameters steigt zumindest linear 
 
 (+++ § 347: Zur Anwendung vgl. § 350 Satz 1 +++)
 
-
-## § 348 – Solvabilitätskapitalanforderung
+# § 348 – Solvabilitätskapitalanforderung
 
 (1) Erfüllt ein Versicherungsunternehmen abweichend von § 134 die Solvabilitätskapitalanforderung im Jahr 2016 nicht, hätte aber die geforderte Solvabilitätsspanne nach dem bis zum 31. Dezember 2015 geltenden Recht erfüllt, gewährt die Aufsichtsbehörde auf Antrag eine Fristverlängerung für die Erfüllung der Solvabilitätskapitalanforderungen bis zum 31. Dezember 2017, wenn das Versicherungsunternehmen sich verpflichtet,
 
@@ -6715,18 +6319,15 @@ Das Gewicht des in Satz 1 Nummer 2 genannten Parameters steigt zumindest linear 
 § 348 Abs. 1 Eingangssatz Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Solvabiltätskapitalanforderung" durch "Solvabilitätskapitalanforderung" ersetzt  
 (+++ § 348: Zur Anwendung vgl. § 350 Satz 2 +++)
 
-
-## § 349 – Internes Teilgruppenmodell
+# § 349 – Internes Teilgruppenmodell
 
 Auf Antrag kann die Aufsichtsbehörde dem obersten beteiligten Versicherungsunternehmen die Verwendung eines nur auf einen Teil der Gruppe anwendbaren internen Gruppenmodells genehmigen. Dies setzt voraus, dass sowohl das oberste beteiligte Versicherungsunternehmen als auch das oberste beteiligte Versicherungsunternehmen der Teilgruppe, im Inland ansässig sind und die Teilgruppe einen abgrenzbaren Teil bildet, dessen Risikoprofil sich deutlich von dem der übrigen Gruppe unterscheidet. Ein Antrag nach Satz 1 ist bis spätestens 31. März 2022 bei der Aufsichtsbehörde zu stellen.
 
-
-## § 350 – Gruppenvorschriften
+# § 350 – Gruppenvorschriften
 
 Unbeschadet des § 250 sind auf Gruppenebene die §§ 345 bis 347 und 351 und 352 entsprechend anzuwenden. Wenn das oberste beteiligte Versicherungsunternehmen die für die bereinigte Solvabilität nach Artikel 9 der Richtlinie 98/78/EG des Europäischen Parlaments und des Rates vom 27. Oktober 1998 über die zusätzliche Beaufsichtigung von Versicherungs- und Rückversicherungsunternehmen in einer Versicherungs- oder Rückversicherungsgruppe (ABl. L 330 vom 5.12.1998, S. 1), die zuletzt durch die Richtlinie 2011/89/EU (ABl. L 326 vom 8.12.2011, S. 113) geändert worden ist, geltenden Bestimmungen erfüllt, das beteiligte Versicherungsunternehmen, die beteiligte Versicherungs-Holdinggesellschaft, die beteiligte gemischte Versicherungs-Holdinggesellschaft oder die beteiligte gemischte Finanzholding-Gesellschaft, aber nicht die Solvabilitätskapitalanforderung für die Gruppe, ist unbeschadet des § 250 der § 348 entsprechend anzuwenden.
 
-
-## § 351 – Risikofreie Zinssätze
+# § 351 – Risikofreie Zinssätze
 
 (1) Versicherungsunternehmen dürfen mit Genehmigung der Aufsichtsbehörde unter Berücksichtigung der zulässigen Versicherungsverpflichtungen eine vorübergehende Anpassung der maßgeblichen risikofreien Zinskurve vornehmen.
 
@@ -6756,8 +6357,7 @@ Der in Satz 1 genannte Anteil sinkt am Ende jedes Kalenderjahres linear von 100 
 
 (+++ § 351: Zur Anwendung vgl. § 350 Satz 1 u. § 352 Abs. 5 Eingangssatz +++)
 
-
-## § 352 – Versicherungstechnische Rückstellungen
+# § 352 – Versicherungstechnische Rückstellungen
 
 (1) Versicherungsunternehmen dürfen mit Genehmigung der Aufsichtsbehörde bei versicherungstechnischen Rückstellungen vorübergehend einen Abzug im Sinne des Absatzes 2 geltend machen. Der Abzug kann auf der Ebene homogener Risikogruppen nach § 75 Absatz 3 zur Anwendung kommen.
 
@@ -6781,8 +6381,7 @@ Der maximal abzugsfähige Anteil sinkt am Ende jedes Kalenderjahres linear von 1
 
 (+++ § 352: Zur Anwendung vgl. § 350 Satz 1 u. § 351 Abs. 4 Nr. 2 +++)
 
-
-## § 353 – Plan betreffend die schrittweise Einführung von Übergangsmaßnahmen für risikofreie Zinssätze und versicherungstechnische Rückstellungen
+# § 353 – Plan betreffend die schrittweise Einführung von Übergangsmaßnahmen für risikofreie Zinssätze und versicherungstechnische Rückstellungen
 
 (1) Versicherungsunternehmen, die die Übergangsmaßnahmen nach § 351 oder § 352 anwenden, melden der Aufsichtsbehörde unverzüglich, wenn sie feststellen, dass der Fall einzutreten droht, dass die Solvabilitätskapitalanforderung am Ende des Übergangszeitraums ohne diese Übergangsmaßnahmen nicht mehr bedeckt sein würde. Die Aufsichtsbehörde verpflichtet das betroffene Versicherungsunternehmen in diesem Fall, Maßnahmen zu treffen, die zur Einhaltung der Solvabilitätskapitalanforderung am Ende des Übergangszeitraums notwendig und geeignet sind.
 
@@ -6790,8 +6389,7 @@ Der maximal abzugsfähige Anteil sinkt am Ende jedes Kalenderjahres linear von 1
 
 (3) Das betroffene Versicherungsunternehmen legt der Aufsichtsbehörde alle zwölf Monate einen Bericht vor, in dem die Maßnahmen zur Einhaltung der Solvabilitätskapitalanforderung am Ende des Übergangszeitraums sowie der hierbei erzielte Fortschritt dargestellt sind. Wenn aus dem Fortschrittsbericht deutlich wird, dass eine erneute Einhaltung der Solvabilitätskapitalanforderung am Ende des Übergangszeitraums unrealistisch ist, widerruft die Aufsichtsbehörde die Genehmigung für die Anwendung der Übergangsmaßnahme nach § 351 oder § 352.
 
-
-## § 354 – Überprüfung der langfristigen Garantien und der Maßnahmen gegen Aktienrisiken
+# § 354 – Überprüfung der langfristigen Garantien und der Maßnahmen gegen Aktienrisiken
 
 Die Bundesanstalt informiert die Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung bis zum 1. Januar 2021 jedes Jahr über Folgendes:
 
@@ -6807,8 +6405,7 @@ Die Bundesanstalt informiert die Europäische Aufsichtsbehörde für das Versich
 
 6. die Erfüllung oder Nichterfüllung der Pläne betreffend Übergangsmaßnahmen nach § 353 durch Versicherungsunternehmen, die diese Übergangsmaßnahmen nach den §§ 351 und 352 anwenden und die Wahrscheinlichkeit einer geringeren Abhängigkeit von diesen Übergangsmaßnahmen, einschließlich Maßnahmen, die von den Unternehmen und den Aufsichtsbehörden ergriffen wurden oder voraussichtlich ergriffen werden, wobei dem anwendbaren Regelungsumfeld Rechnung zu tragen ist.
 
-
-## § 355 – Entscheidungen der Aufsichtsbehörde aus Anlass des Inkrafttretens dieses Gesetzes
+# § 355 – Entscheidungen der Aufsichtsbehörde aus Anlass des Inkrafttretens dieses Gesetzes
 
 (1) Ab dem 11. April 2015 ist die Aufsichtsbehörde befugt, zu entscheiden über die Genehmigung
 
@@ -6856,13 +6453,11 @@ Die Bundesanstalt informiert die Europäische Aufsichtsbehörde für das Versich
 
 (4) Entscheidungen nach den Absätzen 1 bis 3 werden zum 1. Januar 2016 wirksam, wenn in der Entscheidung kein späteres Datum genannt wird.
 
-
-## § 356 – Übergangsvorschrift zu § 35 Absatz 1 Satz 1 Nummer 5 bis 8
+# § 356 – Übergangsvorschrift zu § 35 Absatz 1 Satz 1 Nummer 5 bis 8
 
 § 35 Absatz 1 Satz 1 Nummer 5, 6 und 7 ist erstmals auf die Abschlussprüfung des Jahresabschlusses für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2017 beginnt. § 35 Absatz 1 Satz 1 Nummer 8 ist erstmals auf die Abschlussprüfung des Jahresabschlusses für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2018 beginnt.
 
-
-## Anlage 1 – Einteilung der Risiken nach Sparten
+# Anlage 1 – Einteilung der Risiken nach Sparten
 
 (Fundstelle: BGBl. I 2015, 555 - 556)
 
@@ -7016,8 +6611,7 @@ b) unter anderen Bedingungen, sofern die Risiken nicht unter andere Versicherung
 
 25. Pensionsfondsgeschäfte
 
-
-## Anlage 2 – Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird
+# Anlage 2 – Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird
 
 (Fundstelle: BGBl. I 2015, 557)
 
@@ -7037,8 +6631,7 @@ Umfasst die Zulassung zugleich
 
 7. die Nummern 1, 3 bis 13 und 16, so wird sie unter der Bezeichnung „Schaden- und Unfallversicherung“ erteilt.
 
-
-## Anlage 3 – Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)
+# Anlage 3 – Standardformel zur Berechnung der Solvabilitätskapitalanforderung (SCR)
 
 (Fundstelle: BGBl. I 2015, 558 - 559)
 
@@ -7046,7 +6639,7 @@ Umfasst die Zulassung zugleich
 
 Die in § 100 dargelegte Basissolvabilitätskapitalanforderung wird wie folgt ermittelt:
 
-![](../normengrafiken/bgbl1_2015/j0434-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0434-1_0010.jpg)
 
 wobei SCR<sub>i</sub> das Risikomodul i und SCR<sub>j</sub> das Risikomodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR<sub>i</sub> und SCR<sub>j</sub>:
 
@@ -7068,7 +6661,7 @@ j
 
 Das in § 101 genannte nichtlebensversicherungstechnische Risikomodul errechnet sich wie folgt:
 
-![](../normengrafiken/bgbl1_2015/j0434-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0434-1_0020.jpg)
 
 wobei SCR<sub>i</sub> das Untermodul i und SCR<sub>j</sub> das Untermodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR<sub>i</sub> und SCR<sub>j</sub> :
 
@@ -7080,7 +6673,7 @@ SCR<sub>NL-Katastrophen</sub>: Untermodul Nichtlebenskatastrophenrisiko.
 
 Das in § 102 genannte lebensversicherungstechnische Risikomodul errechnet sich wie folgt:
 
-![](../normengrafiken/bgbl1_2015/j0434-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0434-1_0030.jpg)
 
 wobei SCR<sub>i</sub> das Untermodul i und SCRj das Untermodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR<sub>i</sub> und SCR<sub>j</sub>:
 
@@ -7104,7 +6697,7 @@ Struktur des Risikomoduls Marktrisiken
 
 Das in § 104 genannte Marktrisikomodul errechnet sich wie folgt:
 
-![](../normengrafiken/bgbl1_2015/j0434-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j0434-1_0040.jpg)
 
 wobei SCR<sub>i</sub> das Untermodul i und SCR<sub>j</sub> das Untermodul j bezeichnet; „i, j“ bedeutet, dass in der Summe alle möglichen Kombinationen von i und j erfasst sein sollten. Bei der Berechnung treten an die Stelle von SCR<sub>i</sub> und SCR<sub>j</sub>:
 

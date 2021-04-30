@@ -1,20 +1,15 @@
-# [GlAusbV 2001] Verordnung über die Berufsausbildung zum Glaser/zur Glaserin
-
-Ausfertigungsdatum: 05.07.2001
-
+% Verordnung über die Berufsausbildung zum Glaser/zur Glaserin
+% Ausfertigungsdatum: 05.07.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), jeweils in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Glaser/Glaserin wird für die Ausbildung für das Gewerbe Nummer 72, Glaser, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -24,8 +19,7 @@ Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 gewählt werden.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -83,25 +77,21 @@ b) Behandeln von Oberflächen,
 
 c) Einbauen von Fenster-, Türen- und Fassadenkonstruktionen.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7, 8 und 9 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -109,8 +99,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Der Prüfling soll im praktischen Teil der Prüfung in insgesamt höchstens sieben Stunden eine Arbeitsaufgabe sowie im schriftlichen Teil der Prüfung in insgesamt 180 Minuten die zur Arbeitsaufgabe gehörende Arbeitsplanung und Dokumentation bearbeiten. Hierfür kommt insbesondere das Herstellen eines Werkstücks unter Anwendung manueller und maschineller Bearbeitungstechniken, unterschiedlicher Verbindungstechniken einschließlich Behandeln von Oberflächen in Betracht. Dabei soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie den Umweltschutz, die Sicherheit und den Gesundheitsschutz bei der Arbeit beachten kann.
 
-
-## § 8 – Gesellenprüfung der Fachrichtung Verglasung und Glasbau
+# § 8 – Gesellenprüfung der Fachrichtung Verglasung und Glasbau
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -118,8 +107,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 1. Herstellen, Ändern, Erweitern oder Instandsetzen einer Glaskonstruktion,
 
-\* 2.  
-Einrahmen eines Objektes,
+\* 2. Einrahmen eines Objektes,
 
 3. Herstellen oder Instandsetzen einer Kunstverglasung oder
 
@@ -163,8 +151,7 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">20 Prozent.</td>
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Glasbau mindestens ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in einer Arbeitsaufgabe mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 9 – Gesellenprüfung der Fachrichtung Fenster- und Glasfassadenbau
+# § 9 – Gesellenprüfung der Fachrichtung Fenster- und Glasfassadenbau
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -172,8 +159,7 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">20 Prozent.</td>
 
 1. Herstellen eines Fensters oder einer Fenstertür,
 
-\* 2.  
-Herstellen einer Tür- oder Torkonstruktion,
+\* 2. Herstellen einer Tür- oder Torkonstruktion,
 
 3. Herstellen einer Glasfassadenkonstruktion oder
 
@@ -218,18 +204,15 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">20 Prozent.</td>
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsfach Fenster- und Türenbau mindestens ausreichende Leistungen erbracht sind. Wird die Prüfungsleistung in einer Arbeitsaufgabe mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-
-## Anlage – (zu § 4 Abs 1)  Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
+# Anlage – (zu § 4 Abs 1)  Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
 
 (Fundstelle: BGBl. I 2001, 1555 - 1561)
 
@@ -245,11 +228,9 @@ Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durc
 
 Zeitlicher Richtwert in Wochen im
 
-1.-18.  
-Monat
+1.-18. Monat
 
-19.-36.  
-Monat
+19.-36. Monat
 
 1
 

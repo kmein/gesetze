@@ -1,22 +1,17 @@
-# [StichprobenV] Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis zum Zensusgesetz 2011  (Stichprobenverordnung Zensusgesetz 2011 - StichprobenV)
-
-Ausfertigungsdatum: 25.06.2010
-
+% Verordnung über Verfahren und Umfang der Haushaltebefragung auf Stichprobenbasis zum Zensusgesetz 2011  (Stichprobenverordnung Zensusgesetz 2011 - StichprobenV)
+% Ausfertigungsdatum: 25.06.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Absatz 2 Satz 2 des Zensusgesetzes 2011 vom 8. Juli 2009 (BGBl. I S. 1781) verordnet die Bundesregierung:
 
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 (1) Die in dieser Verordnung festgelegten einheitlichen Regelungen zum Stichprobenverfahren und zum Stichprobenumfang für die nach § 7 des Zensusgesetzes 2011 durchzuführende Haushaltsstichprobe stellen sicher, dass der registergestützte Zensus 2011 in einem nachvollziehbaren, wissenschaftlichen Standards entsprechenden Verfahren verlässliche statistische Daten zu den in § 1 Absatz 3 des Zensusgesetzes 2011 genannten Zwecken liefert.
 
 (2) Die Verfahrensvorgaben und die methodisch-statistischen Festlegungen in den §§ 2 bis 4 dienen dazu, dass die Qualitätsvorgaben des § 7 Absatz 1 Satz 2 Nummer 1 und 2 des Zensusgesetzes 2011 sowohl bei der Ermittlung der amtlichen Einwohnerzahl als auch bei den Zensusmerkmalen eingehalten werden, die nicht aus Verwaltungsregistern gewonnen werden.
 
-
-## § 2 – Stichprobenverfahren
+# § 2 – Stichprobenverfahren
 
 (1) Das Statistische Bundesamt legt den bundesweiten Stichprobenplan fest, zieht die Stichproben nach § 7 Absatz 3 des Zensusgesetzes 2011 bundesweit jeweils am gleichen Datum und dokumentiert das Auswahlverfahren sowie die einbezogenen Anschriften.
 
@@ -36,8 +31,7 @@ Auf Grund des § 7 Absatz 2 Satz 2 des Zensusgesetzes 2011 vom 8. Juli 2009 (BGB
 
 § 2 Abs. 2 u. 3: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -
 
-
-## § 3 – Stichprobenumfang
+# § 3 – Stichprobenumfang
 
 (1) Auf Grund der in den Stichprobenplan übernommenen qualitätssichernden Vorgaben errechnet sich bundesweit ein Bedarf von rund 1,4 Millionen Anschriften, an denen Haushaltsbefragungen auf Stichprobenbasis durchgeführt werden. Der bundesweite Stichprobenumfang wird auf 9,6 Prozent der Bevölkerung festgelegt. Grundlage dafür ist die amtliche Einwohnerzahl zum Stichtag 31. Dezember 2009.
 
@@ -53,22 +47,18 @@ gesamt</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">B
 
 § 3 Abs. 2: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -
 
-
-## § 4 – Fragebogen
+# § 4 – Fragebogen
 
 Die Haushaltsstichprobe wird mit Hilfe eines einheitlichen Fragebogens erhoben, den das Statistische Bundesamt in Zusammenarbeit mit den statistischen Ämtern der Länder erstellt.
 
-
-## § 5 – Zusammenarbeit der statistischen Ämter
+# § 5 – Zusammenarbeit der statistischen Ämter
 
 Die statistischen Ämter der Länder arbeiten bei der Haushaltsstichprobe mit dem Statistischen Bundesamt zusammen, um insbesondere das Erhebungsverfahren sowie die Datenverarbeitung und die Datenaufbereitung bundesweit einheitlich durchzuführen.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

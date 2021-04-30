@@ -1,15 +1,11 @@
-# [HdBALBV] Verordnung über die Leistungsbezüge und Zulagen an der Hochschule der Bundesagentur für Arbeit  (HdBA-Leistungsbezüge-Verordnung - HdBALBV)
-
-Ausfertigungsdatum: 05.03.2018
-
+% Verordnung über die Leistungsbezüge und Zulagen an der Hochschule der Bundesagentur für Arbeit  (HdBA-Leistungsbezüge-Verordnung - HdBALBV)
+% Ausfertigungsdatum: 05.03.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 33 Absatz 4 Satz 1 und des § 35 des Bundesbesoldungsgesetzes, die durch Artikel 1 Nummer 9 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2163) geändert worden sind, verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Professorinnen und Professoren der Hochschule der Bundesagentur für Arbeit (Hochschule), die ein Amt der Besoldungsgruppen W 2 oder W 3 innehaben.
 
@@ -23,8 +19,7 @@ b) der Ruhegehaltfähigkeit von Leistungsbezügen sowie
 
 2. die Gewährung von Forschungs- und Lehrzulagen.
 
-
-## § 2 – Berufungsleistungsbezüge und Bleibeleistungsbezüge
+# § 2 – Berufungsleistungsbezüge und Bleibeleistungsbezüge
 
 (1) Aus Anlass von Berufungs- und Bleibeverhandlungen können Leistungsbezüge gewährt werden, soweit dies erforderlich ist, um eine Professorin oder einen Professor für die Hochschule zu gewinnen (Berufungsleistungsbezüge) oder die Abwanderung einer Professorin oder eines Professors abzuwenden (Bleibeleistungsbezüge).
 
@@ -46,8 +41,7 @@ b) der Ruhegehaltfähigkeit von Leistungsbezügen sowie
 
 (+++ § 2 Abs. 5: zur Anwendung vgl. § 3 Abs. 7 +++)
 
-
-## § 3 – Besondere Leistungsbezüge
+# § 3 – Besondere Leistungsbezüge
 
 (1) Für Leistungen in den Bereichen Forschung, Lehre, Weiterbildung oder Nachwuchsförderung, die über den durchschnittlich zu erwartenden Leistungen liegen und die in der Regel über eine längere Zeit erbracht worden sind, können Leistungsbezüge gewährt werden (besondere Leistungsbezüge).
 
@@ -83,15 +77,13 @@ Unbefristet gewährte besondere Leistungsbezüge können widerrufen werden, wenn
 
 (7) Für die Anpassung unbefristet gewährter besonderer Leistungsbezüge gilt § 2 Absatz 5 entsprechend.
 
-
-## § 4 – Funktionsleistungsbezüge
+# § 4 – Funktionsleistungsbezüge
 
 (1) Funktionsleistungsbezüge können für die Zeit gewährt werden, in der die Professorin oder der Professor Funktionen oder besondere Aufgaben der Hochschulselbstverwaltung oder der Hochschulleitung wahrnimmt.
 
 (2) Bei der Bemessung der Funktionsleistungsbezüge ist die Verantwortung oder Belastung, die mit der Funktion oder Aufgabe verbunden ist, zu berücksichtigen. Der Grundsatz der funktionsgerechten Besoldung ist zu beachten.
 
-
-## § 5 – Forschungs- und Lehrzulage
+# § 5 – Forschungs- und Lehrzulage
 
 (1) Einer Professorin oder einem Professor kann eine Forschungs- und Lehrzulage gewährt werden, wenn
 
@@ -105,8 +97,7 @@ Unbefristet gewährte besondere Leistungsbezüge können widerrufen werden, wenn
 
 (3) Die Forschungs- und Lehrzulage darf in einem Kalenderjahr das Grundgehalt der Professorin oder des Professors für dieses Kalenderjahr nicht überschreiten.
 
-
-## § 6 – Ruhegehaltfähigkeit befristet gewährter Leistungsbezüge
+# § 6 – Ruhegehaltfähigkeit befristet gewährter Leistungsbezüge
 
 (1) Befristet gewährte Berufungsleistungsbezüge, befristet gewährte Bleibeleistungsbezüge und befristet gewährte besondere Leistungsbezüge sind ruhegehaltfähig, wenn sie
 
@@ -118,8 +109,7 @@ Unbefristet gewährte besondere Leistungsbezüge können widerrufen werden, wenn
 
 (3) Treffen nach Absatz 1 ruhegehaltfähige Leistungsbezüge mit unbefristet gewährten Berufungsleistungsbezügen, Bleibeleistungsbezügen oder besonderen Leistungsbezügen zusammen, so sind die Leistungsbezüge nur insoweit ruhegehaltfähig, als sie insgesamt die Obergrenze nach § 33 Absatz 3 Satz 1 erster Halbsatz des Bundesbesoldungsgesetzes nicht überschreiten.
 
-
-## § 7 – Konkurrenz von Leistungsbezügen und Forschungs- und Lehrzulagen; zuständige Stelle für die Gewährung von Leistungsbezügen; ergänzende Regelungen der Hochschule
+# § 7 – Konkurrenz von Leistungsbezügen und Forschungs- und Lehrzulagen; zuständige Stelle für die Gewährung von Leistungsbezügen; ergänzende Regelungen der Hochschule
 
 (1) Besondere Leistungsbezüge und Funktionsleistungsbezüge können nebeneinander gewährt werden. Sie können auch neben Berufungsleistungsbezügen, Bleibeleistungsbezügen sowie Forschungs- und Lehrzulagen gewährt werden. Eine gleichzeitige Gewährung mehrerer besonderer Leistungsbezüge und Funktionsleistungsbezüge ist möglich. Dieselbe Leistung darf nicht mehrfach honoriert werden.
 
@@ -127,7 +117,6 @@ Unbefristet gewährte besondere Leistungsbezüge können widerrufen werden, wenn
 
 (3) Das Nähere zu den Voraussetzungen und dem Verfahren der Gewährung von Leistungsbezügen sowie von Forschungs- und Lehrzulagen regelt die Hochschule in einer Ordnung. Die Ordnung bedarf der Zustimmung des Vorstandes der Bundesagentur für Arbeit. Sie ist an der Hochschule durch Aushang bekannt zu machen.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

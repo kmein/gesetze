@@ -1,15 +1,11 @@
-# [BfNKostV] Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz  (BfNKostV)
-
-Ausfertigungsdatum: 25.03.1998
-
+% Kostenverordnung für Amtshandlungen des Bundesamtes für Naturschutz  (BfNKostV)
+% Ausfertigungsdatum: 25.03.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21g Abs. 2 des Bundesnaturschutzgesetzes in der Fassung der Bekanntmachung vom 12. März 1987 (BGBl. I S. 889) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Ernährung, Landwirtschaft und Forsten und dem Bundesministerium für Wirtschaft:
 
-
-## § 1 – Gebühren und Auslagen
+# § 1 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach dem Bundesnaturschutzgesetz und dem Umweltschadensgesetz erhebt das Bundesamt für Naturschutz Gebühren und Auslagen.
 
@@ -19,8 +15,7 @@ Auf Grund des § 21g Abs. 2 des Bundesnaturschutzgesetzes in der Fassung der Bek
 
 (4) Auslagen werden nach Maßgabe des § 23 Absatz 6 des Bundesgebührengesetzes erhoben. Erreichen die Auslagen nicht die Höhe von 5 Euro, werden sie nicht erhoben.
 
-
-## § 2 – Nutzung von Anlage(blätter)n, Gebührenbefreiung und -ermäßigung bei Ein-, Durch- oder Ausfuhren oder dem Verbringen aus Drittstaaten nach dem Fünften Kapitel des Bundesnaturschutzgesetzes, der Verordnung (EG) Nr. 338/97 sowie der Verordnung (EG) Nr. 865/2006
+# § 2 – Nutzung von Anlage(blätter)n, Gebührenbefreiung und -ermäßigung bei Ein-, Durch- oder Ausfuhren oder dem Verbringen aus Drittstaaten nach dem Fünften Kapitel des Bundesnaturschutzgesetzes, der Verordnung (EG) Nr. 338/97 sowie der Verordnung (EG) Nr. 865/2006
 
 (1) Auf Antrag des Gebührenschuldners ist eine Gebührenbefreiung zu gewähren, wenn die Exemplare für Zwecke der wissenschaftlichen Forschung und Lehre, die insbesondere zur Erhaltung der betreffenden Arten beitragen, oder für wissenschaftliche Arterhaltungszuchtprogramme ein- oder ausgeführt werden. Die Verwendung der Exemplare zu hauptsächlich kommerziellen Zwecken schließt eine Gebührenbefreiung aus. Als Nachweis kann vom Gebührenschuldner eine Bescheinigung einer anerkannten wissenschaftlichen Einrichtung verlangt werden, aus der hervorgeht, daß die Exemplare zu den oben genannten Zwecken verwendet werden.
 
@@ -30,22 +25,18 @@ Auf Grund des § 21g Abs. 2 des Bundesnaturschutzgesetzes in der Fassung der Bek
 
 (4) Für die Ausfuhr künstlich vermehrter Exemplare von Pflanzenarten bis zu einem Warenwert von 50 Euro wird keine Gebühr erhoben.
 
-
-## § 3 – Gebühren in besonderen Fällen
+# § 3 – Gebühren in besonderen Fällen
 
 Für die Rücknahme oder den Widerruf eines Verwaltungsaktes, die Ablehnung eines Antrages auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie in den Fällen der Rücknahme eines Antrages auf Vornahme einer individuell zurechenbaren öffentlichen Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
-
-## § 4 – Zurückweisung oder Zurücknahme eines Widerspruchs gegen eine Sachentscheidung
+# § 4 – Zurückweisung oder Zurücknahme eines Widerspruchs gegen eine Sachentscheidung
 
 (1) Für die vollständige oder teilweise Zurückweisung eines Widerspruchs gegen eine Sachentscheidung kann eine Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt festgesetzten Gebühr erhoben werden. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hatte, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist.
 
 (2) Wird ein Widerspruch gegen eine Sachentscheidung nach Beginn seiner sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen, darf die Gebühr höchstens 75 Prozent der Gebühr nach Absatz 1 betragen.
 
-
-## § 5 – Zurückweisung oder Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs
+# § 5 – Zurückweisung oder Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs
 
 Für die vollständige oder teilweise Zurückweisung und bei Zurücknahme eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen gerichteten Widerspruchs kann eine Gebühr bis zur Höhe von zehn Prozent des streitigen Betrages erhoben werden.
 
-
-## Anlage – (zu § 1)Gebührenverzeichnis
+# Anlage – (zu § 1)Gebührenverzeichnis

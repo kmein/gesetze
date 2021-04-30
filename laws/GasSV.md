@@ -1,15 +1,11 @@
-# [GasSV] Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise  (Gassicherungsverordnung - GasSV)
-
-Ausfertigungsdatum: 26.04.1982
-
+% Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise  (Gassicherungsverordnung - GasSV)
+% Ausfertigungsdatum: 26.04.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Zur Deckung des lebenswichtigen Bedarfs an Gas können die zuständigen Stellen als Lastverteiler Verfügungen erlassen
 
@@ -29,22 +25,19 @@ b) die Lagerung, Abgabe und Verwendung von Ausgangsstoffen zur Gasherstellung;
 
 (5) Die Verfügungen sind zu befristen, soweit sich ihre Geltungsdauer nicht schon aus ihrem Inhalt ergibt. Sie werden unwirksam, sobald diese Verordnung aufgehoben oder außer Anwendung gesetzt wird. Entsprechendes gilt für Verträge, die auf Grund einer Verfügung nach Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem ursprünglichen Inhalt wieder auf.
 
-
-## § 2
+# § 2
 
 (1) Unternehmen und Betriebe, die Gas gewinnen, herstellen oder einführen und in das Netz der öffentlichen Versorgung abgeben können, sind verpflichtet, der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen sowie der nach Landesrecht zuständigen Stelle Meldungen entsprechend der Anlage zu dieser Verordnung bis zum Zehnten jeden Monats zu erstatten. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen und die nach Landesrecht zuständige Stelle können, wenn dies zur Sicherung der Energieversorgung notwendig ist, die Meldepflicht nach Satz 1 auf Unternehmen und Betriebe ausdehnen, die Gas im Inland beziehen und in das Netz der öffentlichen Versorgung abgeben können, und die Meldungen nach Satz 1 auch in kürzeren Zeitabständen verlangen.
 
 (2) Die zuständige Stelle kann im Interesse der Sicherung der Energieversorgung bereits vor der Feststellung der Bundesregierung, daß die Energieversorgung im Sinne des § 1 Abs. 1 oder § 2 Abs. 3 des Energiesicherungsgesetzes 1975 gefährdet oder gestört ist, Meldungen nach Absatz 1 verlangen.
 
-
-## § 3
+# § 3
 
 (1) Gas im Sinne dieser Verordnung sind brennbare, verdichtete oder verflüssigte Gase, die für eine Verwendung in der öffentlichen Gasversorgung mittelbar oder unmittelbar geeignet sind.
 
 (2) Auf Flüssiggas ist diese Verordnung insoweit anzuwenden, als es für die leitungsgebundene öffentliche Gasversorgung verwendet wird.
 
-
-## § 4
+# § 4
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
@@ -52,18 +45,15 @@ Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 197
 
 2. eine Meldung nach § 2 nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-## § 5
+# § 5
 
 Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7
+# § 7
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -73,8 +63,7 @@ Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsge
 
 2. die Anwendbarkeit durch Verordnung bestimmt.
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 519
 

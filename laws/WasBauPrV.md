@@ -1,15 +1,11 @@
-# [WasBauPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin
-
-Ausfertigungsdatum: 18.10.2007
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin
+% Ausfertigungsdatum: 18.10.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen Absatz 1 durch Artikel 232 Nr. 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407, 2007 I S. 2149) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Wasserbaumeister/zur Geprüften Wasserbaumeisterin nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -55,8 +51,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss „Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin“.
 
-
-## § 2 – Umfang der Meisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Wasserbaumeister/zur Geprüften Wasserbaumeisterin umfasst:
 
@@ -78,8 +73,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (5) Im Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich und mündlich in Form von handlungsspezifischen Aufgabenstellungen nach § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Grundlegende Qualifikationen“ ist zuzulassen, wer folgendes nachweist:
 
@@ -99,8 +93,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 (4) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann auf Antrag zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die eine Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Grundlegende Qualifikationen
+# § 4 – Grundlegende Qualifikationen
 
 (1) Im Prüfungsteil „Grundlegende Qualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -112,8 +105,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 des Berufsbildungsgesetzes v
 
 4. Anwenden von Methoden der Information, Kommunikation und Planung.
 
-(2) Im Prüfungsbereich „Berücksichtigung der naturwissenschaftlichen und technischen Grundlagen des Wasserbaus“ soll die Fähigkeit nachgewiesen werden, naturwissenschaftliche und technische Gesetzmäßigkeiten sowie die anerkannten Regeln der Technik bei der Lösung wasserbaulicher Aufgaben in der betrieblichen Praxis anwenden und berücksichtigen zu können.  
-In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewässerausbau, Gewässerpflege und -entwicklung sowie der Gewässerbewirtschaftung folgende Qualifikationsinhalte geprüft werden:
+(2) Im Prüfungsbereich „Berücksichtigung der naturwissenschaftlichen und technischen Grundlagen des Wasserbaus“ soll die Fähigkeit nachgewiesen werden, naturwissenschaftliche und technische Gesetzmäßigkeiten sowie die anerkannten Regeln der Technik bei der Lösung wasserbaulicher Aufgaben in der betrieblichen Praxis anwenden und berücksichtigen zu können. In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewässerausbau, Gewässerpflege und -entwicklung sowie der Gewässerbewirtschaftung folgende Qualifikationsinhalte geprüft werden:
 
 1. Berücksichtigen der naturwissenschaftlichen Gesetzmäßigkeiten und materialspezifischen Eigenschaften bei der Auswahl, Lagerung, Verarbeitung und Entsorgung von Bau- und Bauhilfsstoffen,
 
@@ -179,8 +171,7 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 
 (7) Wurden in nicht mehr als einem der schriftlichen Prüfungsbereiche mangelhafte Prüfungsleistungen erbracht, ist in diesem Prüfungsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche „Planung und Bau“, „Betrieb und Unterhaltung“ sowie „Führung und Organisation“.
 
@@ -278,15 +269,13 @@ In diesem Rahmen können in den Bereichen Schifffahrt und Wasserstraße, Gewäss
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -302,8 +291,7 @@ Aus den Bewertungen für die beiden schriftlichen Situationsaufgaben und der Bew
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -335,8 +323,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -350,8 +337,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -359,22 +345,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die bis zum Ablauf des 31. August 2009 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. November 2007 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2289 – 2290)
 
@@ -383,8 +366,7 @@ Diese Verordnung tritt am 1. November 2007 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2291)
 

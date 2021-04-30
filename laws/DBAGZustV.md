@@ -1,15 +1,11 @@
-# [DBAGZustV] Verordnung über die Zuständigkeit der Deutsche Bahn Aktiengesellschaft für Entscheidungen in Angelegenheiten der zugewiesenen Beamten des Bundeseisenbahnvermögens  (DBAG-Zuständigkeitsverordnung - DBAGZustV)
-
-Ausfertigungsdatum: 01.01.1994
-
+% Verordnung über die Zuständigkeit der Deutsche Bahn Aktiengesellschaft für Entscheidungen in Angelegenheiten der zugewiesenen Beamten des Bundeseisenbahnvermögens  (DBAG-Zuständigkeitsverordnung - DBAGZustV)
+% Ausfertigungsdatum: 01.01.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 Abs. 6 und des § 23 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1 – Übertragung beamtenrechtlicher Befugnisse zur Ausübung
+# § 1 – Übertragung beamtenrechtlicher Befugnisse zur Ausübung
 
 Der Deutsche Bahn Aktiengesellschaft werden die folgenden aufgeführten beamtenrechtlichen Entscheidungen sowie sonstige Entscheidungen und Maßnahmen zur Ausübung übertragen für diejenigen Beamten des Bundeseisenbahnvermögens, die ihr auf Grund des § 12 Abs. 2 und 3 des Deutsche Bahn Gründungsgesetzes zugewiesen sind:
 
@@ -95,12 +91,10 @@ Der Deutsche Bahn Aktiengesellschaft werden die folgenden aufgeführten beamtenr
 
 41. Einschätzungen der Leistungen nach § 27 Abs. 4, 5 und 7 des Bundesbesoldungsgesetzes.
 
-
-## § 2 – Anwendung auf ausgegliederte Gesellschaften
+# § 2 – Anwendung auf ausgegliederte Gesellschaften
 
 § 1 gilt sinngemäß für Gesellschaften, die im Wege der Ausgliederung nach § 2 Abs. 1 des Deutsche Bahn Gründungsgesetzes errichtet werden. Für nach § 3 Abs. 3 des Deutsche Bahn Gründungsgesetzes ausgegliederte Gesellschaften gilt § 1 mit der Maßgabe, daß der neue Rechtsträger Geschäftstätigkeiten im Sinne des § 3 Abs. 1 Nr. 1 oder 2 dieses Gesetzes ausübt.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

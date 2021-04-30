@@ -1,10 +1,7 @@
-# [NiSG] Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen   (NiSG)
-
-Ausfertigungsdatum: 29.07.2009
-
+% Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen   (NiSG)
+% Ausfertigungsdatum: 29.07.2009
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt den Schutz und die Vorsorge im Hinblick auf schädliche Wirkungen nichtionisierender Strahlung, die durch die Anwendung nichtionisierender Strahlung am Menschen verursacht werden können. Es gilt für
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 29.07.2009
 
 (3) Die Vorschriften des Arbeitsschutzgesetzes, des Medizinproduktegesetzes und die auf diese Gesetze gestützten Rechtsverordnungen bleiben unberührt.
 
-
-## § 2 – Schutz in der Medizin
+# § 2 – Schutz in der Medizin
 
 (1) In Ausübung der Heil- oder Zahnheilkunde am Menschen dürfen beim Betrieb von Anlagen, die nichtionisierende Strahlung aussenden können, die in einer Rechtsverordnung nach § 5 für bestimmte Anwendungsarten festgelegten Werte nur dann überschritten werden, wenn eine berechtigte Person hierfür die rechtfertigende Indikation gestellt hat.
 
@@ -39,18 +35,15 @@ und über die erforderliche Fachkunde verfügt, um die Risiken der jeweiligen An
 
 (4) Bei Anwendungen nach Absatz 1 sind die in einer Rechtsverordnung nach § 5 festgelegten weiteren Anforderungen einzuhalten.
 
-
-## § 3 – Schutz bei kosmetischen oder sonstigen Anwendungen
+# § 3 – Schutz bei kosmetischen oder sonstigen Anwendungen
 
 Anlagen, die nichtionisierende Strahlung aussenden können, dürfen zu kosmetischen Zwecken oder sonstigen Anwendungen am Menschen außerhalb der Heil- oder Zahnheilkunde nur betrieben werden, wenn bei ihrem Betrieb die in einer Rechtsverordnung nach § 5 festgelegten Anforderungen eingehalten werden.
 
-
-## § 4 – Nutzungsverbot für Minderjährige
+# § 4 – Nutzungsverbot für Minderjährige
 
 Die Benutzung von Anlagen nach § 3 zur Bestrahlung der Haut mit künstlicher ultravioletter Strahlung in Sonnenstudios, ähnlichen Einrichtungen oder sonst öffentlich zugänglichen Räumen darf Minderjährigen nicht gestattet werden.
 
-
-## § 5 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 5 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass zum Schutz der Menschen vor schädlichen Wirkungen nichtionisierender Strahlung der Betrieb von Anlagen nach § 2 Absatz 1 in Ausübung der Heil- oder Zahnheilkunde bestimmten Anforderungen genügen muss, insbesondere
 
@@ -82,8 +75,7 @@ b) welche Warnhinweise anzubringen sind und unter welchen Voraussetzungen von di
 
 b) welche Nachweise gegenüber der zuständigen Behörde zu erbringen sind.
 
-
-## § 6 – Befugnisse der zuständigen Behörden
+# § 6 – Befugnisse der zuständigen Behörden
 
 (1) Die zuständige Behörde kann zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes und der auf § 5 gestützten Rechtsverordnungen Anlagen oder deren Betrieb überprüfen. § 52 Absatz 1 Satz 1 bis 3, Absatz 2, 3 und 5 bis 7 des Bundes-Immissionsschutzgesetzes gilt entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
 
@@ -95,8 +87,7 @@ b) welche Nachweise gegenüber der zuständigen Behörde zu erbringen sind.
 
 (3) Kommt die Betreiberin oder der Betreiber einer Anlage einer vollziehbaren behördlichen Anordnung nach Absatz 2 Nummer 1 nicht nach, so kann die zuständige Behörde den Betrieb der Anlage ganz oder teilweise untersagen, bis die Anordnung erfüllt ist.
 
-
-## § 6a – Bekanntgabe von Prüfstellen
+# § 6a – Bekanntgabe von Prüfstellen
 
 (1) Auf Antrag hat die zuständige Behörde die Stelle bekannt zu geben, die berechtigt ist, eine Anlage nach § 6 Absatz 2 Nummer 1 zu überprüfen. Dem Antrag ist zu entsprechen, wenn der Antragsteller über die erforderliche Fachkunde, Unabhängigkeit, Zuverlässigkeit und gerätetechnische Ausstattung verfügt. Die Bekanntgabe gilt für das gesamte Bundesgebiet. Sie kann mit einem Vorbehalt des Widerrufs, einer Befristung, mit Bedingungen, Auflagen und dem Vorbehalt von Auflagen versehen werden. Verfahren nach dieser Vorschrift können über eine einheitliche Stelle abgewickelt werden. Die Prüfung des Antrags auf Bekanntgabe muss innerhalb von drei Monaten abgeschlossen sein; § 42a Absatz 2 Satz 2 bis 4 des Verwaltungsverfahrensgesetzes findet Anwendung.
 
@@ -106,13 +97,11 @@ b) welche Nachweise gegenüber der zuständigen Behörde zu erbringen sind.
 
 (4) Gleichwertige Anerkennungen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum stehen Bekanntgaben nach Absatz 1 gleich.
 
-
-## § 7 – Kosten
+# § 7 – Kosten
 
 Die Person, die eine Anlage nach den Vorschriften dieses Gesetzes betreibt, hat die Kosten für Überwachungsmaßnahmen oder Anordnungen nach § 6 zu tragen, wenn die Überprüfung der Anlage durch die zuständige Behörde oder einen von dieser beauftragten Dritten ergibt, dass die Grenzwerte oder sonstigen Anforderungen die in diesem Gesetz oder in einer auf § 5 gestützten Rechtsverordnung festgelegt wurden, nicht eingehalten werden.
 
-
-## § 8 – Bußgeldvorschriften
+# § 8 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 

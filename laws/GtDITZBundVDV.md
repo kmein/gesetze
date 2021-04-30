@@ -1,10 +1,7 @@
-# [GtDITZBundVDV] Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund   (GtDITZBundVDV)
-
-Ausfertigungsdatum: 13.11.2020
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund   (GtDITZBundVDV)
+% Ausfertigungsdatum: 13.11.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes – Absatz 1 Nummer 2 geändert durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) – in Verbindung mit den §§ 10, 10a Absatz 8 und Anlage 2 Nummer 28 der Bundeslaufbahnverordnung, von denen
 
@@ -19,10 +16,7 @@ Anlage 2 Nummer 28 durch Artikel 1 Nummer 11 der Verordnung vom 15. September 20
 
 verordnet das Bundesministerium der Finanzen:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -52,15 +46,15 @@ verordnet das Bundesministerium der Finanzen:
 
  
 
+ 
 
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 (1) Das Bachelorstudium im Studiengang Verwaltungsinformatik (Bachelor of Science) an der Universität der Bundeswehr München (Universität) und die berufspraktischen Studienzeiten beim Informationstechnikzentrum Bund sind der Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund.
 
 (2) Der Vorbereitungsdienst dauert in der Regel drei Jahre. Über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheidet das Informationstechnikzentrum Bund im Benehmen mit der Universität.
 
-
-## § 2 – Ziele des Vorbereitungsdienstes
+# § 2 – Ziele des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten, die für die Erfüllung der Aufgaben des gehobenen technischen Verwaltungsdienstes im Informationstechnikzentrum Bund erforderlich sind.
 
@@ -74,18 +68,15 @@ verordnet das Bundesministerium der Finanzen:
 
 (3) Die Anwärterinnen und Anwärter sind zum Selbststudium verpflichtet.
 
-
-## § 3 – Dienstbehörde
+# § 3 – Dienstbehörde
 
 Dienstbehörde der Anwärterinnen und Anwärter ist das Informationstechnikzentrum Bund.
 
-
-## § 4 – Dienstvorgesetzte, Dienstvorgesetzter
+# § 4 – Dienstvorgesetzte, Dienstvorgesetzter
 
 Dienstvorgesetzte oder Dienstvorgesetzter der Anwärterinnen und Anwärter ist die Leiterin oder der Leiter des Informationstechnikzentrums Bund. Dies gilt auch während des Bachelorstudiums.
 
-
-## § 5 – Nachteilsausgleich
+# § 5 – Nachteilsausgleich
 
 (1) Auf Antrag gewährt das Informationstechnikzentrum Bund Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse oder Fähigkeiten einschränken, im Auswahlverfahren und in der mündlichen Abschlussprüfung einen angemessenen Nachteilsausgleich. Hierauf werden die Betroffenen rechtzeitig hingewiesen.
 
@@ -95,8 +86,7 @@ Dienstvorgesetzte oder Dienstvorgesetzter der Anwärterinnen und Anwärter ist d
 
 (4) Gewährte Nachteilsausgleiche sind aktenkundig zu machen.
 
-
-## § 6 – Bewertung der Leistungen
+# § 6 – Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt bewertet:
 
@@ -248,13 +238,11 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Wenn eine Leistung von mehr als einer oder einem Prüfenden bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer Bewertung zusammengefasst werden, wird als Bewertung eine Rangpunktzahl berechnet. Soweit in dieser Verordnung nicht etwas anderes bestimmt ist, sind Rangpunktzahlen das arithmetische Mittel der Einzelwertungen und werden auf zwei Nachkommastellen ohne Rundung berechnet.
 
-
-## § 7 – Erholungsurlaub
+# § 7 – Erholungsurlaub
 
 Erholungsurlaub wird grundsätzlich während der vorlesungsfreien Zeiten des Bachelorstudiums gewährt.
 
-
-## § 8 – Auswahlverfahren und Zulassung zum Auswahlverfahren
+# § 8 – Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer Persönlichkeit für den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Informationstechnikzentrum Bund geeignet sind. Insbesondere wird festgestellt, ob sie über das erforderliche Allgemeinwissen, die erforderlichen kognitiven, methodischen und sozialen Kompetenzen und die erforderliche Leistungsmotivation verfügen.
 
@@ -266,8 +254,7 @@ Erholungsurlaub wird grundsätzlich während der vorlesungsfreien Zeiten des Bac
 
 (5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine schriftliche oder elektronische Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind nach Abschluss des Auswahlverfahrens auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 9 – Auswahlkommission
+# § 9 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Informationstechnikzentrum Bund eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe anlegen.
 
@@ -287,8 +274,7 @@ Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte
 
 (5) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 10 – Durchführung des Auswahlverfahrens, Täuschungen
+# § 10 – Durchführung des Auswahlverfahrens, Täuschungen
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Der schriftliche Teil kann ganz oder teilweise mit Unterstützung von Informationstechnik durchgeführt werden. Mit der Durchführung des schriftlichen Teils können Dritte betraut werden. Die Gesamtverantwortung für die Bewertung der Leistungen trägt die Auswahlkommission.
 
@@ -296,8 +282,7 @@ Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte
 
 (3) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei einer Täuschung oder einem Täuschungsversuch hilft, wird vom Auswahlverfahren ausgeschlossen. Vor der Entscheidung über den Ausschluss wird die Bewerberin oder der Bewerber angehört.
 
-
-## § 11 – Gesamtergebnis und Rangfolge
+# § 11 – Gesamtergebnis und Rangfolge
 
 (1) Der schriftliche und der mündliche Teil des Auswahlverfahrens ist bestanden, wenn die im Auswahlkonzept jeweils festgelegte Mindestpunktzahl erreicht wurde.
 
@@ -307,8 +292,7 @@ Mitglieder einer Auswahlkommission können auch vergleichbare Tarifbeschäftigte
 
 (4) Wer am Auswahlverfahren erfolglos teilgenommen hat, erhält einen schriftlichen Bescheid mit Rechtsmittelbelehrung. Die Bewerbungsunterlagen sind auf Wunsch nach Abschluss des Auswahlverfahrens zurückzusenden, ansonsten zu vernichten. Elektronisch eingereichte Bewerbungsunterlagen sind endgültig zu löschen.
 
-
-## § 12 – Aufbau des Vorbereitungsdienstes
+# § 12 – Aufbau des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst gliedert sich wie folgt:
 
@@ -346,34 +330,29 @@ insgesamt
 9 Monate  
 während der vorlesungsfreien Zeiten des Bachelorstudiums
 
-
-## § 13 – Einführungsveranstaltung
+# § 13 – Einführungsveranstaltung
 
 Vor dem Bachelorstudium erhalten die Anwärterinnen und Anwärter in einer ein- bis zweiwöchigen Einführungsveranstaltung des Informationstechnikzentrums Bund einen Überblick über die Aufgaben des Informationstechnikzentrums Bund, den Ablauf des Vorbereitungsdienstes sowie über ihre Rechtstellung als Beamtinnen und Beamte des Bundes.
 
-
-## § 14 – Bachelorstudium
+# § 14 – Bachelorstudium
 
 (1) Das Bachelorstudium richtet sich nach den Studien- und Prüfungsordnungen der Universität. Diese sind auf der Internetseite der Universität veröffentlicht.
 
 (2) Das Informationstechnikzentrum Bund ordnet die Anwärterinnen und Anwärter für das Bachelorstudium an die Universität ab.
 
-
-## § 15 – Berufspraktische Studienzeiten
+# § 15 – Berufspraktische Studienzeiten
 
 (1) Die berufspraktischen Studienzeiten werden vom Informationstechnikzentrum Bund organisiert und durchgeführt und finden während der vorlesungsfreien Zeiten des Bachelorstudiums statt. Sie untergliedern sich in Ausbildungsabschnitte.
 
 (2) Während der berufspraktischen Studienzeiten sollen die Anwärterinnen und Anwärter berufspraktische Fertigkeiten erwerben und lernen, die im Bachelorstudium erworbenen Kenntnisse und Fähigkeiten in der Praxis anzuwenden. Sie lernen die Aufgabenbereiche des Informationstechnikzentrums Bund kennen, machen sich mit den Arbeitsabläufen und Arbeitstechniken vertraut und entwickeln ihre Fähigkeiten zur Kommunikation, Kooperation und insbesondere zur Teamarbeit im beruflichen Kontext weiter. Je nach Ausbildungsstand und organisatorischen Möglichkeiten sollen die Anwärterinnen und Anwärter einzelne Aufgaben oder Aufgabenteile eigenständig erledigen.
 
-
-## § 16 – Ausbildungsleitung
+# § 16 – Ausbildungsleitung
 
 (1) Das Informationstechnikzentrum Bund bestellt eine Beamtin oder einen Beamten des gehobenen Dienstes des Bundes als Ausbildungsleitung und eine Vertretung.
 
 (2) Die Ausbildungsleitung ist für die konzeptionelle Gestaltung und die Organisation der Ausbildungsabschnitte zuständig und stellt eine sorgfältige Ausbildung der Anwärterinnen und Anwärter sicher.
 
-
-## § 17 – Ausbildende
+# § 17 – Ausbildende
 
 (1) Die Ausbildenden für die berufspraktischen Studienzeiten werden von der Ausbildungsleitung bestellt.
 
@@ -381,8 +360,7 @@ Vor dem Bachelorstudium erhalten die Anwärterinnen und Anwärter in einer ein- 
 
 (3) Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den erreichten Ausbildungsstand der Anwärterinnen und Anwärter.
 
-
-## § 18 – Bewertung der berufspraktischen Studienzeiten, Bescheinigung
+# § 18 – Bewertung der berufspraktischen Studienzeiten, Bescheinigung
 
 (1) Nach Abschluss eines Ausbildungsabschnitts bewertet die Ausbildungsleitung die fachlichen Leistungen sowie die methodischen und die sozialen Kompetenzen der Anwärterinnen und Anwärter nach § 6 und erteilt hierüber eine Bescheinigung.
 
@@ -394,8 +372,7 @@ Vor dem Bachelorstudium erhalten die Anwärterinnen und Anwärter in einer ein- 
 
 (3) Die Bewertung ist mit der Anwärterin oder dem Anwärter zu besprechen.
 
-
-## § 19 – Zeugnis über die berufspraktischen Studienzeiten, Rangpunktzahl der berufspraktischen Studienzeiten
+# § 19 – Zeugnis über die berufspraktischen Studienzeiten, Rangpunktzahl der berufspraktischen Studienzeiten
 
 (1) Die Ausbildungsleitung erstellt für jede Anwärterin und jeden Anwärter ein Zeugnis über die berufspraktischen Studienzeiten.
 
@@ -409,8 +386,7 @@ Die Rangpunktzahl der berufspraktischen Studienzeiten wird aus den Rangpunkten d
 
 (3) Spätestens vor Beginn der mündlichen Abschlussprüfung erhält die Anwärterin oder der Anwärter eine Ausfertigung des Zeugnisses über die berufspraktischen Studienzeiten.
 
-
-## § 20 – Laufbahnprüfung
+# § 20 – Laufbahnprüfung
 
 Die Laufbahnprüfung besteht aus
 
@@ -418,8 +394,7 @@ Die Laufbahnprüfung besteht aus
 
 2. der mündlichen Abschlussprüfung.
 
-
-## § 21 – Prüfungskommission
+# § 21 – Prüfungskommission
 
 (1) Für die Durchführung der mündlichen Abschlussprüfung richtet das Informationstechnikzentrum Bund eine Prüfungskommission ein. Bei Bedarf kann es mehrere Prüfungskommissionen einrichten. In diesem Fall ist sicherzustellen, dass alle Prüfungskommissionen die gleichen Bewertungsmaßstäbe anlegen.
 
@@ -435,8 +410,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (4) Die Prüfungskommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig.
 
-
-## § 22 – Mündliche Abschlussprüfung
+# § 22 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung ist zugelassen, wer die Bachelorprüfung bestanden hat.
 
@@ -460,8 +434,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (6) Das Prüfungsgespräch bezieht sich auf den Vortrag und auf ausgewählte Schwerpunkte des Vorbereitungsdienstes. Es soll 20 Minuten nicht unterschreiten und 30 Minuten nicht überschreiten.
 
-
-## § 23 – Durchführung der mündlichen Abschlussprüfung
+# § 23 – Durchführung der mündlichen Abschlussprüfung
 
 (1) Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung und stellt sicher, dass die Anwärterinnen und Anwärter in geeigneter Weise geprüft werden.
 
@@ -469,8 +442,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (3) Die mündliche Abschlussprüfung ist nicht öffentlich. Die Prüfungskommission kann unabhängig vom Einverständnis der Anwärterinnen und Anwärter allgemein oder im Einzelfall gestatten, dass Vertreterinnen und Vertreter des Bundesministeriums der Finanzen, des Informationstechnikzentrums Bund und in Ausnahmefällen auch andere mit der Ausbildung der Anwärterinnen und Anwärter befasste Personen in der mündlichen Abschlussprüfung anwesend sind. Zuhörerinnen und Zuhörer dürfen während der Prüfung keine Aufzeichnungen machen. Die Teilnahmerechte der Personalvertretung, der Gleichstellungsbeauftragten und der Schwerbehindertenvertretung bleiben unberührt.
 
-
-## § 24 – Bewertung und Bestehen der mündlichen Abschlussprüfung, Rangpunktzahl der mündlichen Abschlussprüfung
+# § 24 – Bewertung und Bestehen der mündlichen Abschlussprüfung, Rangpunktzahl der mündlichen Abschlussprüfung
 
 (1) Bei den Beratungen über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission anwesend sein.
 
@@ -480,8 +452,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (4) Im Anschluss an die mündliche Abschlussprüfung teilt die oder der Vorsitzende der Anwärterin oder dem Anwärter das Ergebnis mit und erläutert es auf Wunsch.
 
-
-## § 25 – Verhinderung
+# § 25 – Verhinderung
 
 (1) Sind Anwärterinnen und Anwärter an der Ablegung der mündlichen Abschlussprüfung ganz oder teilweise gehindert, so können sie beim Informationstechnikzentrum Bund beantragen, dass die Verhinderung genehmigt wird.
 
@@ -491,8 +462,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (4) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der Verhinderung als Prüfungszeit. Wird in diesem Fall gar keine Prüfungsleistung erbracht, so gilt die mündliche Abschlussprüfung als mit null Rangpunkten bewertet.
 
-
-## § 26 – Ordnungsverstoß
+# § 26 – Ordnungsverstoß
 
 (1) Anwärterinnen und Anwärtern, die bei der mündlichen Abschlussprüfung täuschen, eine Täuschung versuchen, an einer Täuschung oder einem Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen, soll im Regelfall die vorläufige Fortsetzung der Prüfung gestattet werden. Bei einem erheblichen Verstoß können die Anwärterinnen und Anwärter von der weiteren Teilnahme an der mündlichen Abschlussprüfung ausgeschlossen werden.
 
@@ -508,8 +478,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (4) Die betroffenen Anwärterinnen und Anwärter sind vor den Entscheidungen nach den Absätzen 2 und 3 anzuhören.
 
-
-## § 27 – Wiederholung der mündlichen Abschlussprüfung
+# § 27 – Wiederholung der mündlichen Abschlussprüfung
 
 (1) Anwärterinnen und Anwärter, die die mündliche Abschlussprüfung nicht bestanden haben, können sie einmal wiederholen. Auf Antrag kann das Bundesministerium der Finanzen in Ausnahmefällen eine zweite Wiederholung der mündlichen Abschlussprüfung zulassen.
 
@@ -519,8 +488,7 @@ Mindestens ein Mitglied der Prüfungskommission muss eine Beamtin oder ein Beamt
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 28 – Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung, Abschlussnote
+# § 28 – Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung, Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -576,8 +544,7 @@ Das Ergebnis wird kaufmännisch auf eine ganze Zahl gerundet.
 
 (4) Der Rangpunktzahl der Laufbahnprüfung wird die entsprechende Note nach § 6 Absatz 1 zugeordnet und als Abschlussnote festgesetzt.
 
-
-## § 29 – Abschlusszeugnis
+# § 29 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Informationstechnikzentrum Bund ein Abschlusszeugnis.
 
@@ -593,8 +560,7 @@ Das Ergebnis wird kaufmännisch auf eine ganze Zahl gerundet.
 
 5. die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
 
-
-## § 30 – Bescheid über die nicht bestandene Laufbahnprüfung
+# § 30 – Bescheid über die nicht bestandene Laufbahnprüfung
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Informationstechnikzentrum Bund
 
@@ -604,8 +570,7 @@ Das Ergebnis wird kaufmännisch auf eine ganze Zahl gerundet.
 
 (2) Die Bescheinigung über die erbrachten Leistungen enthält Angaben über Dauer und Inhalt der Ausbildung sowie die Rangpunkte und die Noten der abgeschlossenen Ausbildungsabschnitte der berufspraktischen Studienzeiten.
 
-
-## § 31 – Prüfungsakte
+# § 31 – Prüfungsakte
 
 (1) Das Informationstechnikzentrum Bund führt für jede Anwärterin und jeden Anwärter eine Prüfungsakte.
 
@@ -625,7 +590,6 @@ Das Ergebnis wird kaufmännisch auf eine ganze Zahl gerundet.
 
 (4) Nach Beendigung des Vorbereitungsdienstes wird die Prüfungsakte mindestens fünf Jahre aufbewahrt und spätestens nach zehn Jahren vernichtet.
 
-
-## § 32 – Inkrafttreten
+# § 32 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 29. September 2020 in Kraft.

@@ -1,10 +1,7 @@
-# [MarkschBergV] Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche  (Markscheider-Bergverordnung - MarkschBergV)
-
-Ausfertigungsdatum: 19.12.1986
-
+% Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche  (Markscheider-Bergverordnung - MarkschBergV)
+% Ausfertigungsdatum: 19.12.1986
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für
 
@@ -12,8 +9,7 @@ Diese Verordnung gilt für
 
 2. Messungen zur Erfassung von bergbaubedingten Bodenbewegungen.
 
-
-## § 2 – Grundsätze für Arbeiten nach § 1 Nummer 1
+# § 2 – Grundsätze für Arbeiten nach § 1 Nummer 1
 
 (1) Arbeiten nach § 1 Nummer 1 sind nach den allgemein anerkannten Regeln der Markscheide- oder Vermessungskunde unter Berücksichtigung der örtlichen Gegebenheiten durchzuführen. Die Regeln der DIN 21901 (Ausgabe Februar 1984)<span id="FnR.F810143_01"></span><a href="#F810143_01" class="FnR">*</a></sup> und die in deren Rahmen vom Deutschen Institut für Normung aufgestellten technischen Normen sind grundsätzlich zu beachten. Eintragungen, die von den technischen Normen abweichen oder in ihnen nicht festgelegt sind, müssen an geeigneter Stelle kenntlich gemacht werden. Sie müssen begründet und dokumentiert werden.
 
@@ -25,15 +21,13 @@ Diese Verordnung gilt für
 
 (5) Personen nach Absatz 4 Satz 1 haben die Ergebnisse ihrer Arbeiten mit einem Anfertigungs- oder Nachtragungsvermerk zu versehen sowie Änderungen an geeigneter Stelle unter Angabe des Grundes mit Datum und Unterschrift zu bestätigen. Sind mehrere Personen an den Arbeiten beteiligt, muss erkennbar sein, für welche Teile sie verantwortlich unterzeichnen.
 
-
-## § 3 – Geobasisdaten
+# § 3 – Geobasisdaten
 
 (1) Den Arbeiten nach § 1 Nummer 1 sind die aktuellen Geobasisdaten des amtlichen Vermessungswesens und die von diesen Geobasisdaten abgeleiteten Produkte zugrunde zu legen. Risswerke, welche auf der Grundlage nicht mehr gebräuchlicher Geobasisdaten angefertigt wurden, dürfen fortgeführt werden, wenn die dann verwendeten Geobasisdaten den vorgeschriebenen Geobasisdaten zugeordnet werden können.
 
 (2) Im Bereich des Festlandsockels und der Küstengewässer sind die aktuellen Geobasisdaten der für die Herausgabe von Seekarten zuständigen Behörden und die von diesen Geobasisdaten abgeleiteten Produkte zugrunde zu legen. Für die Küstengewässer dürfen auch Geobasisdaten nach Absatz 1 verwendet werden, wenn eine Zuordnung zu den Geobasisdaten nach Satz 1 gegeben ist.
 
-
-## § 4 – Vermessungen über Tage
+# § 4 – Vermessungen über Tage
 
 (1) Vermessungen über Tage sind an die amtlichen Netze anzuschließen. Die Anschlüsse sind nach Neubestimmung der amtlichen Netze zu überprüfen. Wenn die Genauigkeit es erfordert, sind die Ergebnisse der angeschlossenen Messungen zu berichtigen oder neue Messungen durchzuführen.
 
@@ -43,27 +37,23 @@ Diese Verordnung gilt für
 
 (4) Vermessungspunkte von nicht nur vorübergehender Bedeutung sind dauerhaft zu vermarken. Über diese Vermessungspunkte sind Nachweise zu führen. Die Nachweise sind durch Netzübersichten mit der Eintragung von Festpunkten grundlegender Vermessungen und von Messungsdifferenzen zu ergänzen, wenn die Übersicht über das Vermessungsnetz anders nicht sicherzustellen ist.
 
-
-## § 5 – Vermessungen unter Tage
+# § 5 – Vermessungen unter Tage
 
 (1) Vermessungen unter Tage sind auf der Grundlage eines Hauptzugnetzes und eines Höhenfestpunktnetzes durchzuführen. Sie sind durch Orientierungsmessungen an sichere Festpunkte über Tage anzuschließen. Das Hauptzugnetz und das Höhenfestpunktnetz sind mit dem Fortschreiten der Grubenbaue zu erweitern und abschnittsweise vorgetragene Messungen abschließend durch durchgehende Messungen zu ersetzen. § 4 Absatz 1, 3 und 4 gilt entsprechend.
 
 (2) Für die Vermessung von Vorrichtungs- oder Gewinnungsbetrieben können Nebenzüge angelegt werden, die an das Hauptzugnetz anzuschließen sind und nicht länger als 1 000 m sein dürfen.
 
-
-## § 6 – Messgenauigkeiten
+# § 6 – Messgenauigkeiten
 
 (1) Die Genauigkeit der Messungen richtet sich nach dem jeweiligen Zweck. Die in Anlage 1 aufgeführten Werte dürfen nicht überschritten werden.
 
 (2) Im Bereich der Küstengewässer gilt Absatz 1 entsprechend, wenn die Messungen an die amtlichen Netze angeschlossen werden. In den anderen Fällen sowie im Bereich des Festlandsockels ist das für das jeweilige Vermessungsgebiet geeignete Messverfahren anzuwenden. Die erzielte Messgenauigkeit ist anzugeben.
 
-
-## § 7 – Dokumentationspflicht
+# § 7 – Dokumentationspflicht
 
 Messungen und Berechnungen sind gemäß Anlage 2 zu dokumentieren. Dies ist nicht für geophysikalische Messungen und andere Verfahren anzuwenden.
 
-
-## § 8 – Übernahme fremder Unterlagen
+# § 8 – Übernahme fremder Unterlagen
 
 (1) Für Arbeiten nach § 1 Nummer 1 dürfen Vermessungsergebnisse und aktuelle Karten amtlicher Stellen verwendet werden. Vermessungsergebnisse und Karten nichtamtlicher Stellen dürfen erst nach Überprüfung durch die risswerkführende Person verwendet werden.
 
@@ -73,8 +63,7 @@ Messungen und Berechnungen sind gemäß Anlage 2 zu dokumentieren. Dies ist nich
 
 (4) Übernommene fremde Unterlagen sind auf Plausibilität zu prüfen und als solche zu kennzeichnen.
 
-
-## § 9 – Anforderungen an das Risswerk
+# § 9 – Anforderungen an das Risswerk
 
 (1) Zum Risswerk gehören die in Anlage 3 Teil 1 aufgeführten Bestandteile. Für Form und Inhalt des Risswerks ist Anlage 3 Teil 2 maßgebend. Für die Anfertigung der Bestandteile sind zweckentsprechende haltbare Zeichengrundstoffe zu verwenden. Das Risswerk kann auf Antrag und nach schriftlicher Zustimmung der zuständigen Behörde auch in elektronischer Form nach den Grundsätzen der digitalen Langzeitarchivierung vorgehalten oder mit Zeichengrundstoffen geringerer Haltbarkeit angefertigt werden. Die Zustimmung zu Anträgen kann befristet werden. Bei Abschluss des Risswerks entscheidet die zuständige Behörde, ob das abgeschlossene Risswerk in elektronischer Form eingereicht werden kann.
 
@@ -88,8 +77,7 @@ Messungen und Berechnungen sind gemäß Anlage 2 zu dokumentieren. Dies ist nich
 
 (6) Grubenbaue und Bohrungen benachbarter Aufsuchungs- oder Gewinnungsbetriebe in einem Abstand bis zu 50 m, bei der Aufsuchung oder Gewinnung von Kohle, Salz oder Kohlenwasserstoffen oder bei Untergrundspeichern in einem Abstand bis zu 200 m von seinen bestehenden oder geplanten Grubenbauen oder Bohrungen hat der Unternehmer in sein Risswerk eintragen zu lassen (Nachbarbaue). Der benachbarte Unternehmer oder der Inhaber der benachbarten Bergbauberechtigung hat auf Anforderung des eintragungspflichtigen Unternehmers die für die Eintragung des Risswerks erforderlichen Auszüge aus dem Risswerk oder aus sonstigen Darstellungen zur Verfügung zu stellen. Die Sätze 1 und 2 gelten entsprechend für die rissliche Darstellung von Standwasserbereichen, Brandherden, Brandfeldern, Dämmen zum Abschluss von Grubenbauen, Austritt- oder Ausbruchstellen von Gasen, Laugen oder Schlämmen und Gebirgsschlagstellen sowie für die dazugehörenden Verzeichnisse nach Anlage 3 Teil 2 Nummer 17 Buchstabe a bis c, e und f.
 
-
-## § 10 – Nachtragungsfristen für das Risswerk
+# § 10 – Nachtragungsfristen für das Risswerk
 
 (1) Der Unternehmer hat das Risswerk innerhalb der in Anlage 4 Teil 1 festgesetzten Fristen vollständig nachtragen und die Angaben nach Anlage 4 Teil 2 unverzüglich eintragen zu lassen. Die zwei Stücke des Risswerks (§ 63 Absatz 1 Satz 1 des Bundesberggesetzes) müssen zum Zeitpunkt der Anfertigung und der vorgeschriebenen Nachtragungen inhaltsgleich sein. Das Einreichen an die zuständige Behörde (§ 63 Absatz 3 Satz 1 des Bundesberggesetzes) hat unverzüglich nach der Anfertigung und der Nachtragung zu erfolgen.
 
@@ -109,8 +97,7 @@ b) der Schutz der Oberfläche im Interesse der persönlichen Sicherheit oder des
 
 c) die Durchführung der Bergaufsicht.
 
-
-## § 11 – Mitteilungen, nachträgliche Vermessung
+# § 11 – Mitteilungen, nachträgliche Vermessung
 
 Der Unternehmer hat sicherzustellen, dass
 
@@ -132,8 +119,7 @@ cc) Betriebsanlagen und Betriebseinrichtungen, die für die Sicherheit bedeutsam
 
 3. Grubenbaue oder andere Gegenstände nach Nummer 2 unverzüglich vermessen und dargestellt werden, sobald dies wieder möglich wird.
 
-
-## § 12 – Ausnahmen von dem Erfordernis des Grubenbildes
+# § 12 – Ausnahmen von dem Erfordernis des Grubenbildes
 
 (1) Die zuständige Behörde kann in Einzelfällen für
 
@@ -175,8 +161,7 @@ Ausnahmen von der Verpflichtung des Unternehmers zulassen, ein Grubenbild als Te
 
 Die besondere rissliche Darstellung ist in diesem Fall ein Bestandteil der sonstigen Unterlagen des Risswerkes.
 
-
-## § 13 – Anerkennung anderer Personen
+# § 13 – Anerkennung anderer Personen
 
 (1) Die zuständige Behörde kann zur Anfertigung und Nachtragung sonstiger Unterlagen nach § 63 Absatz 2 Satz 1 Nummer 2 des Bundesberggesetzes für die in Anlage 3 Teil 1 Nummer 1.2.1, 1.2.2, 1.3, 2.1.1 und 2.3 genannten Betriebe Personen, die keine anerkannten Markscheider sind, im Sinne des § 64 Absatz 1 Satz 2 des Bundesberggesetzes auf Antrag anerkennen.
 
@@ -194,8 +179,7 @@ Der Nachweis nach Satz 1 Nummer 3 kann insbesondere durch eine mindestens dreij�
 
 (4) Für das Anerkennungsverfahren gilt § 42a des Verwaltungsverfahrensgesetzes. Das Anerkennungsverfahren nach Absatz 1 kann über eine einheitliche Stelle nach den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
-
-## § 14 – Anzeigen, Aufzeichnungen
+# § 14 – Anzeigen, Aufzeichnungen
 
 Personen nach § 2 Absatz 4 Satz 1 sind verpflichtet,
 
@@ -227,8 +211,7 @@ c) Neuerungen und Besonderheiten hinsichtlich der Instrumente und Geräte,
 
 d) Anzahl der Mitarbeiter mit Angabe der fachlichen Ausbildung und der von ihnen wahrgenommenen Aufgaben.
 
-
-## § 15 – Anforderungen an Messungen von bergbaubedingten Bodenbewegungen
+# § 15 – Anforderungen an Messungen von bergbaubedingten Bodenbewegungen
 
 (1) Für Messungen zur Erfassung von bergbaubedingten Bodenbewegungen sind nur Verfahren zulässig, die für diesen Zweck geeignet sind.
 
@@ -242,8 +225,7 @@ d) Anzahl der Mitarbeiter mit Angabe der fachlichen Ausbildung und der von ihnen
 
 Entsprechend sind auch die Ergebnisse der Messungen darzustellen.
 
-
-## § 16 – Anforderungen an Gebiete nach § 125 Absatz 2 des Bundesberggesetzes
+# § 16 – Anforderungen an Gebiete nach § 125 Absatz 2 des Bundesberggesetzes
 
 Messungen nach § 15 Absatz 3 dürfen nur für Gebiete verlangt werden, in denen
 
@@ -253,14 +235,11 @@ Messungen nach § 15 Absatz 3 dürfen nur für Gebiete verlangt werden, in denen
 
 zu besorgen ist, dass infolge von Einwirkungen auf die Oberfläche vorhandene oder unmittelbar vor der Ausführung stehende bauliche Anlagen, insbesondere solche des öffentlichen Verkehrs, der Wasserwirtschaft einschließlich der Vorfluterhaltung, des Hochwasserschutzes, der öffentlichen Versorgung und Entsorgung sowie Anlagen, die vergleichbar bedeutsam und gegen Einwirkungen auf die Oberfläche besonders empfindlich sind, beeinträchtigt werden und dass im Zusammenhang damit Gefahren für Leben, Gesundheit oder bedeutende Sachgüter entstehen.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
+# § 18 – (Inkrafttreten, abgelöste Vorschriften)
 
-
-## § 18 – (Inkrafttreten, abgelöste Vorschriften)
-
-
-## Anlage 1 – (zu § 6)
+# Anlage 1 – (zu § 6)
 
 (Fundstelle: BGBl. I 2020, 1708 - 1710)
 
@@ -461,8 +440,7 @@ Im Einzelnen ist Folgendes anzuwenden:
 | empfindliche bauliche Anlagen                                      |   II   |
 | räumlich ausgedehnte und weniger empfindliche bauliche Anlagen     |  III   |
 
-
-## Anlage 2 – (zu § 7)
+# Anlage 2 – (zu § 7)
 
 (Fundstelle: BGBl. I 2020, 1711 - 1712)
 
@@ -596,8 +574,7 @@ Bei Messverfahren, bei denen die gesuchten Größen nicht direkt bestimmt werden
 
 In den Erläuterungen zu den gemessenen Werten ist anzugeben, ob die Werte tatsächlich gemessen wurden oder ob es sich um Reindaten handelt. Die Erzeugung der Reindaten ist zu erläutern. Derartige Erläuterungen können auch Verweise auf entsprechende technische Dokumentationen sein.
 
-
-## Anlage 3 – (zu den §§ 9, 12 und 13)
+# Anlage 3 – (zu den §§ 9, 12 und 13)
 
 (Fundstelle: BGBl. I 2020, 1713 - 1721)
 
@@ -1231,8 +1208,7 @@ eine Gegenüberstellung des durch die Hohlraumvermessungen bestimmten Kavernenvo
 
 cc) bei sonstigen Aussolungen die während des vorangegangenen Nachtragungszeitraums gewonnene Solemenge und die in ihr enthaltene Salzmenge sowie die Summen dieser Mengen über die Betriebszeit.
 
-
-## Anlage 4 – (zu § 10)
+# Anlage 4 – (zu § 10)
 
 (Fundstelle: BGBl. I 2020, 1722 - 1723)
 

@@ -1,44 +1,33 @@
-# [LebensMAusbV] Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
-
-Ausfertigungsdatum: 31.03.2006
-
+% Verordnung über die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
+% Ausfertigungsdatum: 31.03.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Fachverkäufer im Lebensmittelhandwerk/Fachverkäuferin im Lebensmittelhandwerk wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
-
-## § 4 – Struktur der Berufsausbildung
+# § 4 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einem der Schwerpunkte
 
-A.  
-Bäckerei
+A. Bäckerei
 
-B.  
-Konditorei oder
+B. Konditorei oder
 
-C.  
-Fleischerei.
+C. Fleischerei.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -76,23 +65,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenn
 
 17. Herstellen von Gerichten.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Schriftlicher Ausbildungsnachweis
+# § 8 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -122,8 +107,7 @@ kann.
 
 (5) In höchstens 150 Minuten soll der Prüfling Aufgaben schriftlich bearbeiten, die sich auf die praktischen Aufgaben beziehen. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Produktarten unterscheiden, Zusammensetzung und Herstellungsverfahren von Produkten erläutern, Preise ermitteln und Produkte auszeichnen sowie lebensmittelrechtliche Vorschriften und Maßnahmen der Qualitätssicherung berücksichtigen kann.
 
-
-## § 10 – Abschlussprüfung
+# § 10 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -206,18 +190,15 @@ Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (8) Die Prüfung ist bestanden, wenn im praktischen Teil der Prüfung und im schriftlichen Teil der Prüfung jeweils mindestens ausreichende Leistungen erbracht wurden. In keinem Prüfungsbereich dürfen ungenügende Leistungen erbracht worden sein.
 
-
-## § 11 – Bestehende Berufsausbildungsverhältnisse
+# § 11 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
+# Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Fachverkäufer im Lebensmittelhandwerk/zur Fachverkäuferin im Lebensmittelhandwerk
 
 (Fundstelle: BGBl. I 2006, 607 - 613)
 

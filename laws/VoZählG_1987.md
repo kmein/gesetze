@@ -1,15 +1,11 @@
-# [VoZählG 1987] Gesetz über eine Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung  (Volkszählungsgesetz 1987)
-
-Ausfertigungsdatum: 08.11.1985
-
+% Gesetz über eine Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung  (Volkszählungsgesetz 1987)
+% Ausfertigungsdatum: 08.11.1985
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Art und Stichtag der Erhebung
+# § 1 – Art und Stichtag der Erhebung
 
 (1) Nach dem Stand vom 25. Mai 1987 (Zählungsstichtag) werden flächendeckend eine Volks- und Berufszählung, eine Gebäude- und Wohnungszählung sowie eine Zählung der nichtlandwirtschaftlichen Arbeitsstätten und Unternehmen (Arbeitsstättenzählung) durchgeführt.
 
@@ -19,27 +15,23 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Wiederholungsbefragungen zur Prüfung der Zuverlässigkeit der Ergebnisse sind mit einem Auswahlsatz bis zu 0,2 vom Hundert der Befragten bei den Erhebungsmerkmalen nach § 5 Nr. 1, 3 und 5 zulässig.
 
-
-## § 2 – Erhebungseinheiten
+# § 2 – Erhebungseinheiten
 
 (1) Erhebungseinheiten sind Personen und Haushalte (Volks- und Berufszählung), Wohnungen (Wohnungszählung), Gebäude mit Wohnraum und ständig bewohnte Unterkünfte (Gebäudezählung) sowie nichtlandwirtschaftliche Arbeitsstätten und Unternehmen (Arbeitsstättenzählung).
 
 (2) Einen Haushalt bilden alle Personen, die gemeinsam wohnen und wirtschaften. Wer allein wirtschaftet, bildet einen eigenen Haushalt. Personen mit mehreren Wohnungen (§ 12 Melderechtsrahmengesetz - MRRG) sind in jeder Wohnung einem Haushalt zuzuordnen.
 
-
-## § 3 – Merkmale
+# § 3 – Merkmale
 
 (1) Die Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung erhebt Merkmale über persönliche und sachliche Verhältnisse, die zur statistischen Verwendung bestimmt sind (Erhebungsmerkmale) oder die, vorbehaltlich der Regelung in § 8 Abs. 2 und § 15 Abs. 5, der Durchführung der Zählung dienen (Hilfsmerkmale). Als Erhebungsmerkmal gilt auch die Blockseite (§ 15 Abs. 4 Satz 3).
 
 (2) Die Erhebungsmerkmale dürfen auf die für die maschinelle Weiterverarbeitung bestimmten Datenträger übernommen werden. Hilfsmerkmale dürfen auf die für die maschinelle Weiterverarbeitung bestimmten Datenträger übernommen werden, soweit dies nach § 15 Abs. 4 zugelassen ist oder soweit sie nach § 15 Abs. 5 verwendet werden dürfen.
 
-
-## § 4 – Laufende Nummern und Ordnungsnummern
+# § 4 – Laufende Nummern und Ordnungsnummern
 
 Die auf den Erhebungsvordrucken ausgedruckten laufenden Nummern und die im Erhebungsverfahren zur Kennzeichnung statistischer Zusammenhänge verwendeten Nummern (Ordnungsnummern) dürfen auf die für die maschinelle Weiterverarbeitung bestimmten Datenträger übernommen werden. Diese Nummern dürfen nur Angaben nach den §§ 5 bis 8 über Gebäude-, Wohnungs-, Haushalts- und Unternehmenszugehörigkeit enthalten.
 
-
-## § 5 – Erhebungsmerkmale der Volks- und Berufszählung
+# § 5 – Erhebungsmerkmale der Volks- und Berufszählung
 
 Erhebungsmerkmale der Volks- und Berufszählung sind:
 
@@ -59,8 +51,7 @@ Erhebungsmerkmale der Volks- und Berufszählung sind:
 
 8. bei Erwerbstätigen: Wirtschaftszweig des Betriebs; Stellung im Beruf (Facharbeiter; sonstiger Arbeiter; Angestellter; Auszubildender; Beamter, Richter, Beamtenanwärter, Soldat, Zivildienstleistender; Selbständiger mit bezahlten Beschäftigten oder ohne bezahlte Beschäftigte; mithelfender Familienangehöriger); tatsächlich ausgeübte Tätigkeit; landwirtschaftliche und nichtlandwirtschaftliche Nebenerwerbstätigkeit.
 
-
-## § 6 – Erhebungsmerkmale der Gebäude- und Wohnungszählung
+# § 6 – Erhebungsmerkmale der Gebäude- und Wohnungszählung
 
 (1) Erhebungsmerkmale der Gebäudezählung sind:  
 Gemeinde; Art des Gebäudes (Wohngebäude, sonstiges Gebäude mit Wohnraum, bewohnte Unterkunft, Wohnheim) und Baujahr; Eigentümer nach Personen oder Personengemeinschaften, Gemeinschaft von Wohnungseigentümern, gemeinnütziges, freies Wohnungsunternehmen, sonstige Eigentümer; Förderung von Wohnungen mit Mitteln des sozialen Wohnungsbaus; Zahl der Wohnungen und Arbeitsstätten im Gebäude.
@@ -71,8 +62,7 @@ Gemeinde; Art des Gebäudes (Wohngebäude, sonstiges Gebäude mit Wohnraum, bewo
 
 2. bei vermieteten Wohnungen außerdem: Höhe der monatlichen Miete; Ermäßigung oder Wegfall der Miete; Nutzung als Dienst-, Werks-, Berufs- oder Geschäftsmietwohnung.
 
-
-## § 7 – Erhebungsmerkmale der Arbeitsstättenzählung
+# § 7 – Erhebungsmerkmale der Arbeitsstättenzählung
 
 Erhebungsmerkmale der Arbeitsstättenzählung sind:
 
@@ -106,8 +96,7 @@ für das zugehörige Unternehmen
 
 Gemeinde; Schwerpunkt der wirtschaftlichen Tätigkeit.
 
-
-## § 8 – Hilfsmerkmale
+# § 8 – Hilfsmerkmale
 
 (1) Hilfsmerkmale sind:
 
@@ -127,8 +116,7 @@ Name, Bezeichnung von Arbeitsstätten und Unternehmen; Straße und Hausnummer; B
 
 (2) Die Hilfsmerkmale Straße und Hausnummer dürfen auch zur Bestimmung der Blockseite (§ 15 Abs. 4 Satz 3) und das Hilfsmerkmal Name der Arbeits- oder Ausbildungsstätte nach Absatz 1 Nr. 1 auch zur Überprüfung der Zuordnung der Erwerbstätigen zum Wirtschaftszweig verwendet werden.
 
-
-## § 9 – Erhebungsstellen
+# § 9 – Erhebungsstellen
 
 (1) Zur Durchführung der Zählungen werden Erhebungsstellen eingerichtet. Sie sind räumlich, organisatorisch und personell von anderen Verwaltungsstellen zu trennen. Es ist sicherzustellen, daß die Angaben in den Erhebungsvordrucken nicht für andere Aufgaben verwendet werden.
 
@@ -136,8 +124,7 @@ Name, Bezeichnung von Arbeitsstätten und Unternehmen; Straße und Hausnummer; B
 
 (3) Die Bestimmung der Erhebungsstellen und das Nähere zur Ausführung des Absatzes 1 obliegt den Ländern. Sie können die Aufgaben der Erhebungsstellen auf die Gemeinden und Gemeindeverbände übertragen. Die Regelungen können durch Rechtsverordnung der Landesregierung getroffen werden.
 
-
-## § 10 – Zähler
+# § 10 – Zähler
 
 (1) Für die Erhebung können ehrenamtliche Zähler eingesetzt werden. Sie sind von den Erhebungsstellen auszuwählen und zu bestellen.
 
@@ -161,8 +148,7 @@ Name, Bezeichnung von Arbeitsstätten und Unternehmen; Straße und Hausnummer; B
 
 (9) Die Erhebungsstellen zahlen den Zählern für die ehrenamtliche Tätigkeit eine Entschädigung, die als steuerfreie Aufwandsentschädigung im Sinne von § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes gilt.
 
-
-## § 11 – Datenübermittlungen an die Erhebungsstellen
+# § 11 – Datenübermittlungen an die Erhebungsstellen
 
 (1) Zur Organisation der Zählung übermittelt die Meldebehörde der Erhebungsstelle auf Verlangen folgende im Melderegister gespeicherte Daten der Einwohner: Vor- und Familiennamen, Gemeinde, Straße, Hausnummer, Haupt- oder Nebenwohnung, Geburtsjahr und -monat, Geschlecht, Staatsangehörigkeit. Diese Daten, mit Ausnahme von Vor- und Familiennamen, können auch zur Vervollständigung der Angaben der Volks- und Berufszählung verwendet werden, soweit im Einzelfall eine Auskunft innerhalb von sechs Wochen nach dem Zählungsstichtag nicht zu erreichen ist.
 
@@ -170,8 +156,7 @@ Name, Bezeichnung von Arbeitsstätten und Unternehmen; Straße und Hausnummer; B
 
 (3) Die für die Entgegennahme von Gewerbeanzeigen (§ 14 Abs. 1 Gewerbeordnung) zuständigen Stellen der Gemeinden übermitteln den Erhebungsstellen auf Verlangen Name, Bezeichnung, Straße und Hausnummer der Arbeitsstätten.
 
-
-## § 12 – Auskunftspflicht
+# § 12 – Auskunftspflicht
 
 (1) Auskunftspflichtig sind
 
@@ -205,8 +190,7 @@ die Inhaber oder Leiter der Arbeitsstätten und Unternehmen.
 
 (6) Die Auskünfte über die Hilfsmerkmale Telefonnummer (§ 8 Abs. 1 Nr. 4) und Bearbeiter des Fragebogens (§ 8 Abs. 1 Nr. 3) sind freiwillig.
 
-
-## § 13 – Erhebungsvordrucke
+# § 13 – Erhebungsvordrucke
 
 (1) Die Erhebungsvordrucke können maschinenlesbar gestaltet werden. Sie dürfen keine Fragen über persönliche oder sachliche Verhältnisse enthalten, die über die Merkmale nach den §§ 5 bis 8 hinausgehen.
 
@@ -218,8 +202,7 @@ die Inhaber oder Leiter der Arbeitsstätten und Unternehmen.
 
 (5) Zur ordnungsgemäßen Durchführung der Zählertätigkeit sind die Angaben nach § 10 Abs. 7 Satz 1 auf Verlangen des Zählers mündlich, die Vor- und Familiennamen der übrigen Haushaltsmitglieder (§ 8 Abs. 1 Nr. 1) sowie der Vor- und Familienname des Wohnungsinhabers (§ 8 Abs. 1 Nr. 2) mündlich oder entsprechend Absatz 4 schriftlich mitzuteilen.
 
-
-## § 14 – Übermittlung und Veröffentlichung
+# § 14 – Übermittlung und Veröffentlichung
 
 (1) Für ausschließlich statistische Aufgaben dürfen den zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände Einzelangaben für ihren Zuständigkeitsbereich nur ohne Hilfsmerkmale übermittelt werden und nur insoweit, als die Einzelangaben auf Datenträger, die für die maschinelle Weiterverarbeitung bestimmt sind, übernommen worden sind. Auf Anforderung der zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände erfolgt die Übermittlung auf der Grundlage von Blockseiten (§ 15 Abs. 4 Satz 3). Die Übermittlung ist nur zulässig, wenn durch Landesgesetz eine Trennung dieser Stellen von anderen kommunalen Verwaltungsstellen sichergestellt und das Statistikgeheimnis durch Organisation und Verfahren gewährleistet ist.
 
@@ -233,8 +216,7 @@ die Inhaber oder Leiter der Arbeitsstätten und Unternehmen.
 
 (6) Die statistischen Ämter der Länder leiten dem Statistischen Bundesamt auf Anforderung Einzelangaben für Zusatzaufbereitungen für Bundeszwecke zu, wenn und soweit sie diese nicht selbst durchführen.
 
-
-## § 15 – Trennung und Löschung
+# § 15 – Trennung und Löschung
 
 (1) Die Hilfsmerkmale nach § 8 sind mit Ausnahme der Hilfsmerkmale Straße und Hausnummer sowie Name der Arbeits- oder Ausbildungsstätte nach § 8 Abs. 1 Nr. 1 und Name, Bezeichnung von Unternehmen und Arbeitsstätten nach § 8 Abs. 1 Nr. 3 unverzüglich nach Durchführung der Eingangskontrollen bei den statistischen Ämtern der Länder von den Erhebungsmerkmalen zu trennen und gesondert aufzubewahren.
 
@@ -248,8 +230,7 @@ die Inhaber oder Leiter der Arbeitsstätten und Unternehmen.
 
 (6) Datenträger, auf denen eine Übermittlung an die Erhebungsstellen nach § 11 erfolgt ist, sind gemeinsam mit den Erhebungsvordrucken an die statistischen Ämter der Länder für Zwecke der Festsetzung der amtlichen Bevölkerungszahl der Gemeinden weiterzuleiten. Sie sind dort gesondert aufzubewahren und zwei Wochen nach Feststellung der amtlichen Bevölkerungszahl des Landes zu vernichten.
 
-
-## § 16 – Unterrichtung
+# § 16 – Unterrichtung
 
 Die Auskunftspflichtigen sind schriftlich zu unterrichten über:
 
@@ -269,29 +250,24 @@ Die Auskunftspflichtigen sind schriftlich zu unterrichten über:
 
 8. die Rechte und Pflichten der Zähler (§ 10, § 13 Abs. 2 und 5).
 
-
-## § 17 – Verbot der Reidentifizierung
+# § 17 – Verbot der Reidentifizierung
 
 (1) Die auf Grund dieses Gesetzes erhobenen Merkmale einschließlich der Blockseite (§ 15 Abs. 4 Satz 3) dienen ausschließlich statistischen Zwecken.
 
 (2) Eine Zusammenführung von Merkmalen nach Absatz 1 oder von solchen Merkmalen mit Daten aus anderen statistischen Erhebungen zum Zweck der Herstellung eines Personenbezugs außerhalb der statistischen Aufgabenstellung dieses Gesetzes ist untersagt.
 
-
-## § 18 – Strafvorschrift
+# § 18 – Strafvorschrift
 
 Wer entgegen § 17 Abs. 2 Merkmale oder Daten zusammenführt, sobald die Merkmale nach § 17 Abs. 1 auf für maschinelle Weiterverarbeitung bestimmte Datenträger übernommen worden sind, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 19 – Finanzzuweisung
+# § 19 – Finanzzuweisung
 
 Der Bund gewährt den Ländern zum Ausgleich der Mehrbelastungen, die ihnen und den Gemeinden durch dieses Gesetz auferlegt werden, eine Finanzzuweisung in Höhe von 4,50 Deutsche Mark je Einwohner. Maßgebend ist die Bevölkerungszahl, die das Statistische Bundesamt für den 25. Mai 1987 feststellt. Die Finanzzuweisung ist in zwei Teilbeträgen, am 1. Juli 1987 und am 1. Juli 1988, zu zahlen.
 
-
-## § 20 – Berlin-Klausel
+# § 20 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 21 – Inkrafttreten
+# § 21 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [StreitkrAVtrSUNG] Gesetz zu dem Vertrag vom 12. Oktober 1990 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über die Bedingungen des befristeten Aufenthalts und die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen aus dem Gebiet der Bundesrepublik Deutschland
-
-Ausfertigungsdatum: 21.12.1990
-
+% Gesetz zu dem Vertrag vom 12. Oktober 1990 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über die Bedingungen des befristeten Aufenthalts und die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen aus dem Gebiet der Bundesrepublik Deutschland
+% Ausfertigungsdatum: 21.12.1990
  
-
-## § 1
+# § 1
 
 (1) Ansprüche der in Artikel 24 Abs. 1 des Vertrags genannten Art sind zur Vermeidung des Ausschlusses bei der zuständigen deutschen Behörde innerhalb einer Frist von drei Monaten von dem Zeitpunkt an geltend zu machen, in dem der Geschädigte von dem Schaden und von Umständen Kenntnis erlangt hat, aus denen sich ergibt, daß sowjetische Truppen für den Schaden rechtlich verantwortlich sind.
 
@@ -14,15 +11,13 @@ Ausfertigungsdatum: 21.12.1990
 
 (4) Nach Ablauf von zwei Jahren seit dem Zeitpunkt des schädigenden Ereignisses kann der Anspruch nicht mehr geltend gemacht werden. War der Schaden vor Ablauf dieser Frist nicht erkennbar, so beginnt der Lauf der Frist mit dem Zeitpunkt, in dem der Geschädigte von dem Schaden hätte Kenntnis erlangen müssen; § 852 Abs. 1 Halbsatz 2 des Bürgerlichen Gesetzbuches bleibt unberührt.
 
-
-## § 2
+# § 2
 
 (1) Zuständige deutsche Behörde ist die Bundesanstalt für Immobilienaufgaben.
 
 (2) (weggefallen)
 
-
-## § 3
+# § 3
 
 (1) Die Ansprüche sind durch Einreichung eines Antrags auf Entschädigung geltend zu machen.
 
@@ -32,8 +27,7 @@ Ausfertigungsdatum: 21.12.1990
 
 (4) Die Behörde hat den Eingang des Antrags unter Angabe des Eingangstags schriftlich zu bestätigen.
 
-
-## § 4
+# § 4
 
 (1) Die Behörde hat dem Antragsteller ihre Entschließung darüber mitzuteilen, ob und inwieweit sie einen geltend gemachten Anspruch als begründet anerkennt. Wird der Anspruch nicht oder nicht in vollem Umfang als begründet anerkannt, so sind dem Antragsteller die Gründe mitzuteilen, auf denen die Entschließung der Behörde beruht.
 
@@ -41,8 +35,7 @@ Ausfertigungsdatum: 21.12.1990
 
 (3) Einer Mitteilung nach Absatz 1 bedarf es nicht, wenn und soweit zwischen der Behörde und dem Antragsteller eine Vereinbarung über die zu gewährende Entschädigung abgeschlossen wird.
 
-
-## § 5
+# § 5
 
 (1) Hat die Behörde einen geltend gemachten Anspruch nicht oder nicht in vollem Umfang anerkannt, so kann der Antragsteller Klage vor den ordentlichen Gerichten gegen die Bundesrepublik Deutschland erheben.
 
@@ -52,8 +45,7 @@ Ausfertigungsdatum: 21.12.1990
 
 (4) Die Klage ist auch dann zulässig, wenn die zuständige Behörde dem Antragsteller nicht innerhalb einer angemessenen Frist nach Eingang des Antrags, die jedoch nicht mehr als sechs Monate betragen darf, ihre Entschließung mitgeteilt hat. Der Klage hat in diesem Fall die Aufforderung an die Behörde vorauszugehen, dem Antragsteller innerhalb eines Monats ihre Entschließung mitzuteilen.
 
-
-## § 6
+# § 6
 
 (1) Hat die Behörde einen geltend gemachten Anspruch in vollem Umfang oder zum Teil anerkannt, so sind die danach zahlbaren und fälligen Beträge unverzüglich nach der Zustellung der Mitteilung über das Anerkenntnis auszuzahlen.
 
@@ -61,7 +53,6 @@ Ausfertigungsdatum: 21.12.1990
 
 (3) Vorauszahlungen auf die Entschädigung können in angemessenem Umfang gewährt werden, wenn der Anspruch dem Grunde nach gerechtfertigt ist.
 
-
-## § 7
+# § 7
 
 Bei Schäden an Liegenschaften oder bei Verlust oder Beschädigung von beweglichen Sachen, die den sowjetischen Truppen zur Verfügung gestellt worden sind, gilt der Anspruch auf Entschädigung als mit der Freigabe entstanden. Der Lauf der in § 1 Abs. 1 genannten Frist beginnt in diesen Schadensfällen mit dem Zeitpunkt, in dem der Geschädigte von der Freigabe Kenntnis erlangt hat. Der Lauf der in § 1 Abs. 4 Satz 1 genannten Frist beginnt mit der Freigabe der Sache; § 1 Abs. 4 Satz 2 gilt entsprechend.

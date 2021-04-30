@@ -1,15 +1,11 @@
-# [BaFinVerstMeldV] Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht   (BaFin-Verstoßmeldeverordnung - BaFinVerstMeldV)
-
-Ausfertigungsdatum: 02.07.2016
-
+% Verordnung zur Meldung von Verstößen bei der Bundesanstalt für Finanzdienstleistungsaufsicht   (BaFin-Verstoßmeldeverordnung - BaFinVerstMeldV)
+% Ausfertigungsdatum: 02.07.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4d Absatz 9 des Finanzdienstleistungsaufsichtsgesetzes vom 22. April 2002 (BGBl. I S. 1310), der durch Artikel 9 Nummer 2 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Spezielle Beschäftigte für die Bearbeitung von Verstoßmeldungen
+# § 1 – Spezielle Beschäftigte für die Bearbeitung von Verstoßmeldungen
 
 (1) Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) setzt Beschäftigte eigens für die Bearbeitung von Verstoßmeldungen (spezielle Beschäftigte) ein. Verstoßmeldungen im Sinne dieser Verordnung sind Meldungen nach § 4d des Finanzdienstleistungsaufsichtsgesetzes über tatsächliche oder mögliche Verstöße gegen Gesetze, Rechtsverordnungen, Allgemeinverfügungen und sonstige Vorschriften sowie Verordnungen und Richtlinien der Europäischen Union, bei denen es die Aufgabe der Bundesanstalt ist, deren Einhaltung durch die von ihr beaufsichtigten Unternehmen und Personen sicherzustellen oder Verstöße dagegen zu ahnden.
 
@@ -21,8 +17,7 @@ Auf Grund des § 4d Absatz 9 des Finanzdienstleistungsaufsichtsgesetzes vom 22. 
 
 3. die weitere Kommunikation mit der meldenden Person hinsichtlich der Verstoßmeldung (Folgekommunikation) zu führen, sofern die meldende Person ihre Identität preisgegeben hat oder eine ihre Anonymität wahrende Kontaktmöglichkeit besteht.
 
-
-## § 2 – Spezielle Kommunikationskanäle
+# § 2 – Spezielle Kommunikationskanäle
 
 (1) Die Bundesanstalt richtet für die Entgegennahme von Verstoßmeldungen und für die Folgekommunikation spezielle Kommunikationskanäle ein.
 
@@ -50,8 +45,7 @@ b) der Zugang zu den speziellen Kommunikationskanälen durch nicht befugte Besch
 
 (5) Die Bundesanstalt kann sich bei der Ausgestaltung, der Einrichtung und dem Betrieb der speziellen Kommunikationskanäle geeigneter Dritter bedienen.
 
-
-## § 3 – Allgemeine Informationen zu Verstoßmeldungen
+# § 3 – Allgemeine Informationen zu Verstoßmeldungen
 
 (1) Die Bundesanstalt veröffentlicht in einer gesonderten, leicht erkennbaren und leicht zugänglichen Rubrik auf ihrer Internetseite Informationen zur Entgegennahme von Verstoßmeldungen.
 
@@ -79,8 +73,7 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 
 (3) Arbeitnehmer im Sinne dieser Verordnung sind Arbeiter und Angestellte sowie die zu ihrer Berufsausbildung Beschäftigten. Als Arbeitnehmer gelten auch Personen, die wegen ihrer wirtschaftlichen Unselbständigkeit als arbeitnehmerähnliche Personen anzusehen sind.
 
-
-## § 4 – Information von meldenden Personen
+# § 4 – Information von meldenden Personen
 
 (1) Die Bundesanstalt informiert die meldende Person über die in § 3 Absatz 2 genannten Informationen vor oder spätestens während der Entgegennahme einer Verstoßmeldung.
 
@@ -90,8 +83,7 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 
 2. die Bundesanstalt Grund zu der Annahme hat, dass die Bestätigung den Schutz der Identität der meldenden Person beeinträchtigen würde.
 
-
-## § 5 – Dokumentation von Verstoßmeldungen
+# § 5 – Dokumentation von Verstoßmeldungen
 
 (1) Die Bundesanstalt dokumentiert jede Verstoßmeldung.
 
@@ -111,8 +103,7 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 
 (5) Die Bundesanstalt räumt der meldenden Person die Möglichkeit ein, die Transkription oder das Gesprächsprotokoll zu prüfen und zu berichtigen. Hat die meldende Person ihre Identität offengelegt, räumt ihr die Bundesanstalt zusätzlich die Möglichkeit ein, die Transkription oder das Gesprächsprotokoll durch Unterschrift zu bestätigen.
 
-
-## § 6 – Vertraulichkeit und Datensicherheit
+# § 6 – Vertraulichkeit und Datensicherheit
 
 (1) Die Bundesanstalt stellt sicher, dass die Dokumentation der Verstoßmeldung in einem vertraulichen und sicheren System gespeichert wird.
 
@@ -122,19 +113,16 @@ c) Informationen über Art, Inhalt und Zeitrahmen der Rückmeldung über das Erg
 
 2. nur die Beschäftigten der Bundesanstalt, die die Dokumentation zur Erfüllung ihrer dienstlichen Aufgaben benötigen, Zugang zur Dokumentation haben.
 
-
-## § 7 – Weitergabe von Daten
+# § 7 – Weitergabe von Daten
 
 (1) Die Bundesanstalt richtet angemessene Verfahren für die Übermittlung personenbezogener Daten der meldenden Person und der Person, die Gegenstand einer Meldung ist, ein.
 
 (2) Werden im Zusammenhang mit einer Verstoßmeldung innerhalb oder außerhalb der Bundesanstalt Daten weitergegeben, darf die Identität der meldenden Person oder der Person, die Gegenstand einer Verstoßmeldung ist, weder direkt noch indirekt offengelegt werden, es sei denn, eine derartige Offenlegung erfolgt nach § 4d Absatz 3 bis 5 und § 11 des Finanzdienstleistungsaufsichtsgesetzes oder nach den Artikeln 27 bis 29 der Verordnung (EU) Nr. 596/2014.
 
-
-## § 8 – Zusammenarbeit mit anderen Behörden
+# § 8 – Zusammenarbeit mit anderen Behörden
 
 Die Bundesanstalt arbeitet im Rahmen von Verstoßmeldungen mit anderen Behörden zusammen, die daran beteiligt sind, Arbeitnehmer oder Personen, die Gegenstand einer Verstoßmeldung sind, vor Benachteiligung zu schützen. Dabei unterstützt die Bundesanstalt die meldende Person mit deren Zustimmung gegenüber der anderen Behörde insbesondere durch Bestätigung, dass die meldende Person gegenüber der Bundesanstalt als Informant aufgetreten ist.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 3. Juli 2016 in Kraft.

@@ -1,12 +1,7 @@
-# [KVBG] Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung   (Kohleverstromungsbeendigungsgesetz - KVBG)
-
-Ausfertigungsdatum: 08.08.2020
-
+% Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung   (Kohleverstromungsbeendigungsgesetz - KVBG)
+% Ausfertigungsdatum: 08.08.2020
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -62,8 +57,9 @@ Ausfertigungsdatum: 08.08.2020
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Das Gesetz ist für Anlagen zur Erzeugung elektrischer Energie durch den Einsatz von Kohle in Deutschland anzuwenden. Es regelt die schrittweise und möglichst stetige Reduzierung und Beendigung der Erzeugung elektrischer Energie durch den Einsatz von Kohle in Deutschland.
 
@@ -71,8 +67,7 @@ Ausfertigungsdatum: 08.08.2020
 
 (3) Soweit sich aus diesem Gesetz Rechte, Pflichten oder Verbote für den Anlagenbetreiber ergeben, sind diese auch für und gegen den Rechtsnachfolger des Anlagenbetreibers anzuwenden.
 
-
-## § 2 – Zweck und Ziele des Gesetzes
+# § 2 – Zweck und Ziele des Gesetzes
 
 (1) Zweck des Gesetzes ist es, die Erzeugung elektrischer Energie durch den Einsatz von Kohle in Deutschland sozialverträglich, schrittweise und möglichst stetig zu reduzieren und zu beenden, um dadurch Emissionen zu reduzieren, und dabei eine sichere, preisgünstige, effiziente und klimaverträgliche Versorgung der Allgemeinheit mit Elektrizität zu gewährleisten.
 
@@ -86,8 +81,7 @@ Ausfertigungsdatum: 08.08.2020
 
 (3) Die schrittweise und möglichst stetige Reduzierung und Beendigung der Erzeugung elektrischer Energie durch den Einsatz von Kohle in Deutschland ist Grund und Bedingung für die strukturpolitische Unterstützung des Bundes für die Regionen nach Kapitel 2 des Investitionsgesetzes Kohleregionen vom 8. August 2020 (BGBl. I S. 1795).
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -155,8 +149,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 32. „Zielniveau“ die in § 4 geregelte höchstens zugelassene Summe der Nettonennleistung der in der Bundesrepublik Deutschland bis zum jeweiligen Zieldatum am Strommarkt befindlichen Braun- und Steinkohleanlagen.
 
-
-## § 4 – Zielniveau und Zieldaten
+# § 4 – Zielniveau und Zieldaten
 
 (1) Das Zielniveau für die Reduzierung und Beendigung der Kohleverstromung ist bis zum 31. Dezember 2022 (Zieldatum 2022) 30 Gigawatt, bis zum 1. April 2030 (Zieldatum 2030) 17 Gigawatt und spätestens bis zum 31. Dezember 2038 (Zieldatum 2038) 0 Gigawatt verbleibende Nettonennleistung Steinkohleanlagen und Braunkohleanlagen am Strommarkt. Dieses Zielniveau sinkt zwischen den Zieldaten 2022 und 2030 sowie zwischen den Zieldaten 2030 und 2038 jeweils jährlich um gleich große Mengen Nettonennleistung. Die jährlichen Reduktionsschritte erfolgen zum 1. Juli 2023 (Zieldatum 2023), zum 1. Juli 2024 (Zieldatum 2024), danach jährlich jeweils zum 1. April, erstmals zum 1. April 2025 (Zieldatum 2025) bis zum 1. April 2037 (Zieldatum 2037), und spätestens endend am 31. Dezember 2038 (Zieldatum 2038).
 
@@ -164,8 +157,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 5 – Erreichen des Zielniveaus durch Ausschreibungen und die gesetzliche Reduzierung
+# § 5 – Erreichen des Zielniveaus durch Ausschreibungen und die gesetzliche Reduzierung
 
 (1) Das jeweilige Zielniveau für die Reduzierung der Steinkohleverstromung nach § 4 wird wie folgt erreicht:
 
@@ -179,8 +171,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 6 – Ermittlung des Ausschreibungsvolumens und des Umfangs der gesetzlichen Reduzierung
+# § 6 – Ermittlung des Ausschreibungsvolumens und des Umfangs der gesetzlichen Reduzierung
 
 (1) Die Bundesnetzagentur ermittelt nach Absatz 2 ausschließlich im öffentlichen Interesse für jeden Gebotstermin das Ausschreibungsvolumen und für jeden Anordnungstermin die Reduktionsmenge für die gesetzliche Reduzierung der Steinkohleverstromung.
 
@@ -194,8 +185,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 7 – Ermittlung des Ausgangsniveaus durch die Bundesnetzagentur
+# § 7 – Ermittlung des Ausgangsniveaus durch die Bundesnetzagentur
 
 (1) Die Bundesnetzagentur ermittelt vor jedem Gebots- oder Anordnungstermin das Ausgangsniveau für die Ausschreibungen und für die gesetzliche Reduzierung für das jeweils nächste Zieldatum, indem sie das Verfahren nach den folgenden Absätzen durchführt.
 
@@ -229,8 +219,7 @@ Im Sinne dieses Gesetzes ist oder sind:
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 8 – Beschleunigtes Verfahren zur Erfassung der Steinkohleanlagen
+# § 8 – Beschleunigtes Verfahren zur Erfassung der Steinkohleanlagen
 
 (1) Die Bundesnetzagentur veröffentlicht zur Ermittlung des Ausgangsniveaus für die Ausschreibungen für die Zieldaten 2022 und 2023 auf Grundlage des Monitorings nach § 35 Absatz 1 des Energiewirtschaftsgesetzes spätestens fünf Monate vor dem jeweiligen Gebotstermin, beginnend spätestens mit dem 30. September 2020, eine Liste der Steinkohleanlagen in Deutschland, die eine rechtswirksame Genehmigung nach den §§ 4 bis 6 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274), das zuletzt durch Artikel 1 des Gesetzes vom 8. April 2019 (BGBl. I S. 432) geändert worden ist, zur Verfeuerung von Steinkohle zum Zweck der Erzeugung elektrischer Energie haben, mit folgenden Angaben auf ihrer Internetseite:
 
@@ -248,8 +237,7 @@ Bereits endgültig nach § 13b Absatz 3 Satz 2 des Energiewirtschaftsgesetzes st
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 9 – Verbindliche Stilllegungsanzeige und verbindliche Kohleverfeuerungsverbotsanzeige
+# § 9 – Verbindliche Stilllegungsanzeige und verbindliche Kohleverfeuerungsverbotsanzeige
 
 (1) Der Anlagenbetreiber einer Steinkohleanlage mit einer Nettonennleistung von 10 Megawatt oder mehr kann
 
@@ -269,8 +257,7 @@ Der Anspruch auf den erhöhten Zuschlag für KWK-Strom nach § 7 Absatz 2 des Kr
 
 (+++ Teil 2 (§§ 4 bis 9): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 10 – Gegenstand der Ausschreibungen, Gebotstermine
+# § 10 – Gegenstand der Ausschreibungen, Gebotstermine
 
 (1) Die Bundesnetzagentur ermittelt durch Ausschreibungen die zu bezuschlagenden Gebote und den Steinkohlezuschlag.
 
@@ -298,8 +285,7 @@ Der Anspruch auf den erhöhten Zuschlag für KWK-Strom nach § 7 Absatz 2 des Kr
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 11 – Bekanntmachung der Ausschreibung
+# § 11 – Bekanntmachung der Ausschreibung
 
 (1) Die Bundesnetzagentur macht die Ausschreibung frühestens 14 Wochen und spätestens zehn Wochen vor dem jeweiligen Gebotstermin auf ihrer Internetseite bekannt. Abweichend von Satz 1 macht die Bundesnetzagentur die Ausschreibung im verkürzten Verfahren für das Jahr 2020 und die Ausschreibung im verkürzten Verfahren für das Jahr 2021 spätestens vier Wochen vor dem Gebotstermin bekannt. Die Bekanntmachung muss folgende Angaben enthalten:
 
@@ -321,8 +307,7 @@ Der Anspruch auf den erhöhten Zuschlag für KWK-Strom nach § 7 Absatz 2 des Kr
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 12 – Teilnahmeberechtigung
+# § 12 – Teilnahmeberechtigung
 
 (1) Der Anlagenbetreiber kann sich mit einer Steinkohleanlage an einem Ausschreibungsverfahren nach Teil 3 beteiligen, sofern diese Steinkohleanlage nach den Absätzen 2 und 3 teilnahmeberechtigt ist. Für die Teilnahme an der Ausschreibung müssen folgende Anforderungen erfüllt sein:
 
@@ -364,8 +349,7 @@ b) nach dem 31. Mai 2021 ein Gebot in der Ausschreibung abgibt, den Kohleersatzb
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 13 – Zuordnung zu Dampfsammelschienenblöcken für die Ausschreibungen
+# § 13 – Zuordnung zu Dampfsammelschienenblöcken für die Ausschreibungen
 
 (1) Verfügt eine Steinkohleanlage über eine Dampfsammelschiene, kann der Anlagenbetreiber, vorbehaltlich § 29 Absatz 3 Satz 2, die Hauptanlagenteile dieser Anlage zu Dampfsammelschienenblöcken zuordnen und damit von anderen Dampfsammelschienenblöcken derselben Anlage abgrenzen. Die Abgrenzung wird nur wirksam, wenn
 
@@ -403,8 +387,7 @@ b) nach dem 31. Mai 2021 ein Gebot in der Ausschreibung abgibt, den Kohleersatzb
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 14 – Anforderungen an Gebote
+# § 14 – Anforderungen an Gebote
 
 (1) Der Bieter muss das Gebot in Schriftform abgeben und hierbei jeweils die folgenden Angaben machen:
 
@@ -448,8 +431,7 @@ b) der Name einer natürlichen Person, die zur Kommunikation mit der Bundesnetza
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 15 – Rücknahme von Geboten
+# § 15 – Rücknahme von Geboten
 
 (1) Die Rücknahme von Geboten ist bis zu dem jeweiligen Gebotstermin zulässig. Maßgeblich ist der Zugang der Rücknahmeerklärung bei der Bundesnetzagentur. Die Rücknahme muss durch eine unbedingte und unbefristete Erklärung des Bieters erfolgen, die sich dem Gebot eindeutig zuordnen lässt. Die Rücknahmeerklärung bedarf der Schriftform.
 
@@ -457,15 +439,13 @@ b) der Name einer natürlichen Person, die zur Kommunikation mit der Bundesnetza
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 16 – Ausschluss von Bietern
+# § 16 – Ausschluss von Bietern
 
 Die Bundesnetzagentur kann einen Bieter und dessen Gebote von dem Zuschlagsverfahren ausschließen, wenn der Bieter vorsätzlich oder grob fahrlässig ein Gebot oder mehrere Gebote unter falschen Angaben oder unter Vorlage falscher Nachweise in dieser oder einer vorangegangenen Ausschreibung abgegeben hat. Die Bundesnetzagentur schließt einen Bieter und dessen Gebote von dem Ausschreibungsverfahren aus, wenn er mit anderen Bietern Absprachen über die Gebotswerte der in dieser oder einer vorangegangenen Ausschreibung abgegebenen Gebote getroffen hat.
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 17 – Ausschluss von Geboten
+# § 17 – Ausschluss von Geboten
 
 Die Bundesnetzagentur schließt Gebote vom Zuschlagsverfahren aus, wenn
 
@@ -485,8 +465,7 @@ Ist ein Gebot ausschließlich aufgrund von offensichtlich fehlerhaften oder fehl
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 18 – Zuschlagsverfahren
+# § 18 – Zuschlagsverfahren
 
 (1) Die Bundesnetzagentur führt bei jeder Ausschreibung ein Zuschlagsverfahren durch. Hierbei öffnet sie die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Die Bundesnetzagentur prüft die Zulässigkeit der Gebote nach den §§ 16 und 17 und schließt unzulässige Gebote von dem weiteren Zuschlagsverfahren aus.
 
@@ -529,8 +508,7 @@ Sofern für eine Steinkohleanlage eine modifizierte Kennziffer ermittelt wurde, 
 (+++ § 18 Abs. 8 Satz 2: Zur Anwendung vgl. § 33 Abs. 2 Satz 2 +++)  
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 19 – Höchstpreis
+# § 19 – Höchstpreis
 
 (1) Der Höchstpreis in den Ausschreibungen ist
 
@@ -554,8 +532,7 @@ Sofern für eine Steinkohleanlage eine modifizierte Kennziffer ermittelt wurde, 
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 20 – Verfahren bei Unterzeichnung der Ausschreibung
+# § 20 – Verfahren bei Unterzeichnung der Ausschreibung
 
 (1) Soweit in einer Ausschreibung die Summe der Gebotsmenge der zugelassenen Gebote das Ausschreibungsvolumen nicht übersteigt (Unterzeichnung der Ausschreibung), erteilt die Bundesnetzagentur jedem nach § 18 Absatz 1 zugelassenen Gebot einen Zuschlag in Höhe des Gebotswerts unter Berücksichtigung des Höchstpreises nach § 19.
 
@@ -566,8 +543,7 @@ Sofern für eine Steinkohleanlage eine modifizierte Kennziffer ermittelt wurde, 
 (+++ § 20 Abs. 3: Zur Nichtanwendung vgl. § 38 Satz 1 +++)  
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 21 – Zuschlagstermine, Erteilung der Zuschläge
+# § 21 – Zuschlagstermine, Erteilung der Zuschläge
 
 (1) Die Bundesnetzagentur erteilt die Zuschläge frühestens acht Wochen und spätestens drei Monate nach dem Gebotstermin nach § 10 Absatz 2 (Zuschlagstermin) und gibt die erteilten Zuschläge auf ihrer Internetseite bekannt. Sie unterrichtet die Anlagenbetreiber der bezuschlagten Steinkohleanlagen unverzüglich nach dem Zuschlagstermin über die Zuschlagserteilung und den Steinkohlezuschlag. Für jeden Zuschlag erteilt die Bundesnetzagentur eine eindeutige Zuschlagsnummer.
 
@@ -575,22 +551,19 @@ Sofern für eine Steinkohleanlage eine modifizierte Kennziffer ermittelt wurde, 
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 22 – Unterrichtung der für den Vollzug des Bundes-Immissionsschutzgesetzes zuständigen Behörden
+# § 22 – Unterrichtung der für den Vollzug des Bundes-Immissionsschutzgesetzes zuständigen Behörden
 
 Die Bundesnetzagentur unterrichtet die für den Vollzug des Bundes-Immissionsschutzgesetzes zuständige Behörde sowie das Bundesamt für Wirtschaft und Ausfuhrkontrolle über die Erteilung eines Zuschlags für die jeweilige Steinkohleanlage. Die für den Vollzug des Bundes-Immissionsschutzgesetzes zuständige Behörde trifft die notwendigen Maßnahmen. Die §§ 15, 16, 17, 20 und 21 Absatz 1 bis 3 des Bundes-Immissionsschutzgesetzes sind entsprechend anzuwenden.
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 23 – Anspruch auf den Steinkohlezuschlag, Fälligkeit
+# § 23 – Anspruch auf den Steinkohlezuschlag, Fälligkeit
 
 Der Anlagenbetreiber, der einen Zuschlag nach § 21 erhält, hat ab Bestandskraft des Zuschlags einen Anspruch gegen die Bundesrepublik Deutschland, vertreten durch die Bundesnetzagentur, auf Zahlung des Steinkohlezuschlags, wobei dieser fällig wird, wenn das Verbot der Kohleverfeuerung für die jeweilige Steinkohleanlage wirksam wird.
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 24 – Öffentliche Bekanntmachung der Zuschläge
+# § 24 – Öffentliche Bekanntmachung der Zuschläge
 
 Die Bundesnetzagentur gibt das Ergebnis der Ausschreibung mit den folgenden Angaben auf ihrer Internetseite bekannt:
 
@@ -612,15 +585,13 @@ Der Zuschlag ist eine Woche nach der Veröffentlichung nach Satz 1 als öffentli
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 25 – Verhältnis der Steinkohleausschreibung zur Kapazitätsreserve
+# § 25 – Verhältnis der Steinkohleausschreibung zur Kapazitätsreserve
 
 Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen an Beschaffungsverfahren nach § 13e des Energiewirtschaftsgesetzes in Verbindung mit der Kapazitätsreserveverordnung teilnehmen. Im Fall des Zustandekommens eines wirksamen Vertrags nach § 18 der Kapazitätsreserveverordnung bleiben § 3 Absatz 2 der Kapazitätsreserveverordnung und das Vermarktungsverbot nach § 52 Absatz 1 unberührt.
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 26 – Gewährleistung der Netzsicherheit bei der Ausschreibung
+# § 26 – Gewährleistung der Netzsicherheit bei der Ausschreibung
 
 (1) Die Bundesnetzagentur übermittelt die Namen der Steinkohleanlagen, die einen Zuschlag erhalten haben, und den jeweiligen Kalendertag, ab dem das Verbot der Kohleverfeuerung nach § 51 in Verbindung mit § 21 für die Steinkohleanlagen wirksam wird, unverzüglich nach der Erteilung der Zuschläge den Betreibern von Übertragungsnetzen mit Regelzonenverantwortung.
 
@@ -644,8 +615,7 @@ Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen an Besch
 
 (+++ Teil 3 (§§ 10 bis 26): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 27 – Gesetzliche Reduzierung, Anordnungstermine
+# § 27 – Gesetzliche Reduzierung, Anordnungstermine
 
 (1) Die Bundesnetzagentur legt jeweils 31 Monate vor dem jeweiligen Zieldatum und beginnend für das Zieldatum 2031 durch Anordnung der gesetzlichen Reduzierung nach § 35 Absatz 1 fest, für welche Steinkohleanlagen die gesetzliche Reduzierung der Kohleverstromung jeweils wirksam wird.
 
@@ -653,8 +623,7 @@ Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen an Besch
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 28 – Gesetzliche Reduktionsmenge
+# § 28 – Gesetzliche Reduktionsmenge
 
 (1) Die Reduktionsschritte der gesetzlichen Reduzierung erfolgen gemäß der nach § 6 für das jeweilige Zieldatum ermittelten gesetzlichen Reduktionsmenge. Für die Zieldaten 2024 bis 2027 erfolgt die gesetzliche Reduzierung nach § 20 Absatz 3 für die nicht bezuschlagten Ausschreibungsmengen.
 
@@ -662,8 +631,7 @@ Steinkohleanlagen, denen ein Zuschlag nach § 21 erteilt wurde, dürfen an Besch
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 29 – Verfahren der Reihung durch die Bundesnetzagentur
+# § 29 – Verfahren der Reihung durch die Bundesnetzagentur
 
 (1) Die Bundesnetzagentur veröffentlicht zur Ermittlung der Reihung auf Grundlage der Erfassung nach § 8 und des Monitorings nach § 35 Absatz 1 des Energiewirtschaftsgesetzes spätestens zum 1. Januar 2021 eine Liste der Steinkohleanlagen in Deutschland mit folgenden Informationen auf ihrer Internetseite:
 
@@ -715,8 +683,7 @@ Die Daten der Inbetriebnahme in der Reihung sind eine Woche nach der Veröffentl
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 30 – Zuordnung zu Dampfsammelschienenblöcken für die gesetzliche Reduzierung
+# § 30 – Zuordnung zu Dampfsammelschienenblöcken für die gesetzliche Reduzierung
 
 (1) Verfügt eine Steinkohleanlage über eine Dampfsammelschiene und hat der Anlagenbetreiber nicht bereits im Rahmen eines Gebotsverfahrens eine wirksame Dampfsammelschienenzuordnung nach § 13 vorgenommen, kann er auch im Rahmen des Verfahrens der Reihung die Hauptanlagenteile dieser Anlage zu Dampfsammelschienenblöcken nach § 13 zuordnen und damit von anderen Dampfsammelschienenblöcken derselben Anlage abgrenzen.
 
@@ -726,8 +693,7 @@ Die Daten der Inbetriebnahme in der Reihung sind eine Woche nach der Veröffentl
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 31 – Investitionen in Steinkohleanlagen
+# § 31 – Investitionen in Steinkohleanlagen
 
 (1) Die Bundesnetzagentur berücksichtigt bei der Erstellung der Reihung nach § 29 Investitionen in eine Steinkohleanlage, deren Umfang in einer nach Absatz 2 Satz 2 testierten Aufstellung nachgewiesen worden ist und die im Zeitraum zwischen dem 1. Januar 2010 und dem 31. Dezember 2019 nach den Bestimmungen des Handelsgesetzbuchs in der Bilanz des Anlagenbetreibers erstmalig als fertiggestellte Sachanlagen des Anlagevermögens aktiviert worden sind. Soweit Investitionen unterjährig erfolgt sind, gelten sie als am 1. Januar des jeweiligen Jahres aktiviert. Berücksichtigungsfähig sind nur Investitionen in die Hauptanlagenteile nach § 3 Nummer 17. Die erste Investition in eine Steinkohleanlage, die für deren Errichtung und Inbetriebnahme getätigt wurde, ist keine Investition im Sinne des Absatzes 1 und wird im Verfahren zur Korrektur des Inbetriebnahmedatums nach den Absätzen 2, 3, 4 und 5 nicht berücksichtigt.
 
@@ -759,8 +725,7 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 32 – Aktualisierung der Reihung, Pflichten der Anlagenbetreiber
+# § 32 – Aktualisierung der Reihung, Pflichten der Anlagenbetreiber
 
 (1) Die Bundesnetzagentur veröffentlicht eine aktualisierte Fassung der Reihung nach § 29 jährlich zum 1. Juli auf ihrer Internetseite (aktualisierte Reihung), beginnend am 1. Juli 2021 und endend am 1. Juli 2037. Zur Aktualisierung der Reihung kennzeichnet die Bundesnetzagentur eindeutig die Steinkohleanlagen,
 
@@ -782,8 +747,7 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 33 – Anordnungsverfahren
+# § 33 – Anordnungsverfahren
 
 (1) Die Bundesnetzagentur ermittelt ab dem Zieldatum 2031 zu jedem Anordnungstermin die Reduktionsmenge nach § 6 für die gesetzliche Reduzierung. Soweit ab der Ausschreibung für das Zieldatum 2024 eine Ausschreibung nach § 20 Absatz 1 unterzeichnet ist, ermittelt die Bundesnetzagentur die Reduktionsmenge nach § 6 nach Maßgabe des § 20 Absatz 2 und 3.
 
@@ -791,8 +755,7 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 34 – Netzanalyse und Prüfung der Aussetzung der Anordnung der gesetzlichen Reduzierung
+# § 34 – Netzanalyse und Prüfung der Aussetzung der Anordnung der gesetzlichen Reduzierung
 
 (1) Die Betreiber von Übertragungsnetzen mit Regelverantwortung legen dem Bundesministerium für Wirtschaft und Energie und der Bundesnetzagentur bis zum 31. Dezember 2020 eine langfristige Netzanalyse vor, in der untersucht wird, welche Auswirkungen die Reduzierung der Stein- und Braunkohleverstromung auf die Bewirtschaftung von Netzengpässen, auf die Frequenzhaltung, die Spannungshaltung und auf die Sicherstellung eines möglichen Versorgungswiederaufbaus hat. Dabei sind geplante Maßnahmen und Alternativen zum Weiterbetrieb der Steinkohleanlagen zu berücksichtigen. Die langfristige Netzanalyse wird von der Bundesnetzagentur bei dem Monitoring der Versorgungssicherheit nach § 51 des Energiewirtschaftsgesetzes und von dem Bundesministerium für Wirtschaft und Energie bei der Festlegung der Kriterien in der Rechtsverordnung nach § 60 Absatz 2 berücksichtigt.
 
@@ -806,8 +769,7 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 35 – Anordnung der gesetzlichen Reduzierung und deren Aussetzung
+# § 35 – Anordnung der gesetzlichen Reduzierung und deren Aussetzung
 
 (1) Die Bundesnetzagentur ordnet gegenüber den Anlagenbetreibern der nach § 33 Absatz 2 bestimmten Steinkohleanlagen spätestens zum Anordnungstermin an, dass ihre Steinkohleanlagen der gesetzlichen Reduzierung unterfallen und für diese Steinkohleanlagen ein Verbot der Kohleverfeuerung nach § 51 wirksam werden soll, sofern nicht in Absatz 2 oder in § 38 oder in § 43 etwas anderes geregelt ist.
 
@@ -817,15 +779,13 @@ Die Aufstellung nach Satz 1 ist von dem Prüfer zu testieren, der nach den jewei
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 36 – Verhältnis der gesetzlichen Reduzierung zur Kapazitätsreserve
+# § 36 – Verhältnis der gesetzlichen Reduzierung zur Kapazitätsreserve
 
 Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35 Absatz 1 angeordnet ist, dürfen an einem Beschaffungsverfahren nach § 13e des Energiewirtschaftsgesetzes in Verbindung mit der Kapazitätsreserveverordnung teilnehmen. Im Fall des Zustandekommens eines wirksamen Vertrags nach § 18 der Kapazitätsreserveverordnung bleibt § 3 Absatz 2 der Kapazitätsreserveverordnung neben dem Vermarktungsverbot nach § 52 Absatz 1 unberührt.
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 37 – Gewährleistung der Netzsicherheit bei der gesetzlichen Reduzierung
+# § 37 – Gewährleistung der Netzsicherheit bei der gesetzlichen Reduzierung
 
 (1) Die Bundesnetzagentur übermittelt die Namen der Steinkohleanlagen, die eine Anordnung der gesetzlichen Reduzierung erhalten haben, und den jeweiligen Kalendertag, ab dem das Verbot der Kohleverfeuerung nach § 51 in Verbindung mit § 35 für die Steinkohleanlagen wirksam werden soll, unverzüglich nach der Anordnung der gesetzlichen Reduzierung den Betreibern von Übertragungsnetzen mit Regelverantwortung.
 
@@ -839,15 +799,13 @@ Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35 Absatz 1 ange
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 38 – Steinkohle-Kleinanlagen
+# § 38 – Steinkohle-Kleinanlagen
 
 § 20 Absatz 3 ist nicht auf Steinkohle-Kleinanlagen anzuwenden. Für Steinkohle-Kleinanlagen darf abweichend von § 35 Absatz 1 die gesetzliche Reduzierung frühestens zum Zieldatum 2030 angeordnet werden. Für das Zieldatum 2030 wird nur den Steinkohle-Kleinanlagen die gesetzliche Reduzierung angeordnet, die notwendig sind, um das Zielniveau 2030 für die Steinkohle zu erreichen. Bis zum Zieldatum 2029 werden Steinkohle-Kleinanlagen in der Reihung nach den §§ 28, 29 und 32 geführt, aber im Anordnungsverfahren nach § 33 nicht berücksichtigt. Bei der gesetzlichen Reduzierung für die Zieldaten 2031 bis 2038 werden die Steinkohle-Kleinanlagen wie Steinkohleanlagen behandelt.
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 39 – Härtefälle
+# § 39 – Härtefälle
 
 (1) Ordnet die Bundesnetzagentur gegenüber einem Anlagenbetreiber die gesetzliche Reduzierung gemäß § 35 Absatz 1 an und stellt die Umsetzung des Verbots der Kohleverfeuerung aufgrund der Anordnung der gesetzlichen Reduzierung innerhalb der Frist nach § 51 Absatz 2 Nummer 2 für ihn eine unzumutbare Härte dar, kann die Bundesnetzagentur auf Antrag des Anlagenbetreibers, für dessen Steinkohleanlage die gesetzliche Reduzierung angeordnet wurde, die Frist nach § 51 Absatz 2 Nummer 2 verlängern, jedoch höchstens bis zum Abschlussdatum für die Kohleverstromung gemäß § 2 Absatz 2 Nummer 3 unter Berücksichtigung einer möglichen Anpassung des Abschlussdatums auf Grundlage der Überprüfung nach § 56.
 
@@ -855,22 +813,19 @@ Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35 Absatz 1 ange
 
 (+++ Teil 4 (§§ 27 bis 39): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 40 – Stilllegung von Braunkohleanlagen
+# § 40 – Stilllegung von Braunkohleanlagen
 
 (1) Zur Reduzierung und Beendigung der Braunkohleverstromung gemäß den Zielen in den §§ 2 und 4 legen die Anlagenbetreiber ihre in der Anlage 2 aufgelisteten Braunkohleanlagen spätestens bis zu dem in der Anlage 2 für die jeweilige Braunkohleanlage als endgültiges Stilllegungsdatum vermerkten Zeitpunkt (Stilllegungszeitpunkt) endgültig still und überführen sie vorher in eine Zeitlich gestreckte Stilllegung, sofern dies in Anlage 2 für diese Braunkohleanlage vorgesehen ist, zu dem dort genannten Zeitpunkt (Überführungszeitpunkt) sowie nach Maßgabe des § 50.
 
 (2) Der Anlagenbetreiber kann eine Braunkohleanlage vorbehaltlich und nach Maßgabe von § 42 vor dem Stilllegungszeitpunkt vorläufig oder endgültig stilllegen. Die Überführung einer Braunkohleanlage in die Zeitlich gestreckte Stilllegung vor dem Überführungszeitpunkt ist mit der Maßgabe möglich, dass die Braunkohleanlage auch entsprechend früher endgültig stillgelegt wird, so dass der in Anlage 2 für diese Braunkohleanlage vorgesehene Zeitraum in der gestreckten Stilllegung nicht verlängert wird.
 
-
-## § 41 – Wahlrechte im Stilllegungspfad
+# § 41 – Wahlrechte im Stilllegungspfad
 
 (1) In den in Anlage 2 in der Spalte „Wahlrecht“ genannten Fällen hat der jeweilige Anlagenbetreiber ein Wahlrecht jeweils zwischen den zwei dort genannten Braunkohleanlagen am selben Standort. Ein Wahlrecht besteht jeweils zwischen den Braunkohleanlagen Weisweiler E und Weisweiler F (Wahlrecht Weisweiler E/F), zwischen Weisweiler G und H (Wahlrecht Weisweiler G/H) sowie vorbehaltlich des § 47 Absatz 2 zwischen Niederaußem G und H (Wahlrecht Niederaußem G/H). Durch Ausübung des jeweiligen Wahlrechts in Bezug auf Weisweiler E/F und Weisweiler G/H kann der jeweilige Anlagenbetreiber bestimmen, welche der beiden vom jeweiligen Wahlrecht betroffenen Braunkohleanlagen zu dem früheren und welche zu dem späteren Stilllegungszeitpunkt endgültig stillgelegt werden soll. Durch Ausübung des Wahlrechts Niederaußem G/H kann der jeweilige Anlagenbetreiber bestimmen, welche der beiden vom Wahlrecht betroffenen Braunkohleanlagen mit Ablauf des 31. Dezember 2029 endgültig stillgelegt und welche zunächst in die Zeitlich gestreckte Stilllegung überführt wird.
 
 (2) Der jeweilige Anlagenbetreiber übt sein Wahlrecht aus, indem er seine Wahl im Fall des Wahlrechts Weisweiler E/F bis zum 31. Dezember 2020, im Fall des Wahlrechts Weisweiler G/H bis zum 1. April 2027 sowie im Fall des Wahlrechts Niederaußem G/H bis zum 31. Dezember 2028 dem jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber schriftlich und unwiderruflich mitteilt. Maßgeblich für die Einhaltung der Frist ist der Zugang der Mitteilung beim jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber. Übt der Anlagenbetreiber sein Wahlrecht nicht oder nicht fristgerecht aus, werden die Braunkohleanlagen Weisweiler E, Weisweiler G und Niederaußem G in Bezug auf das jeweilige Wahlrecht zum früheren des in Anlage 2 für das Wahlrecht genannten Stilllegungszeitpunkts endgültig stillgelegt. Der jeweilige Anlagenbetreiber informiert das Bundesministerium für Wirtschaft und Energie unverzüglich über die Ausübung seines Wahlrechts.
 
-
-## § 42 – Netzreserve
+# § 42 – Netzreserve
 
 (1) Erfolgt die endgültige Stilllegung einer Braunkohleanlage zu dem Stilllegungszeitpunkt oder soweit in Anlage 2 vorgesehen die Überführung einer Braunkohleanlage in die Zeitlich gestreckte Stilllegung zu dem Überführungszeitpunkt, sind die §§ 13b und 13c des Energiewirtschaftsgesetzes nicht anzuwenden.
 
@@ -878,13 +833,11 @@ Steinkohleanlagen, für die die gesetzliche Reduzierung nach § 35 Absatz 1 ange
 
 (3) Der Anlagenbetreiber ist verpflichtet, auf Anforderung des jeweils regelzonenverantwortlichen Übertragungsnetzbetreibers je Kraftwerksstandort einen Generator für maximal acht Jahre ab dem Stilllegungszeitpunkt zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung umzurüsten und den Übertragungsnetzbetreibern nach § 13a Absatz 1 des Energiewirtschaftsgesetzes zur Verfügung zu stellen. Der Anlagenbetreiber hat gegenüber dem jeweils regelzonenverantwortlichen Übertragungsnetzbetreiber einen Anspruch auf Erstattung der nachgewiesenen Kosten für die Umrüstung seiner Anlage und auf eine angemessene Vergütung entsprechend § 13c Absatz 3 des Energiewirtschaftsgesetzes. § 13c Absatz 5 des Energiewirtschaftsgesetzes ist entsprechend anzuwenden. Die Anforderung ist spätestens ein Jahr vor dem Stilllegungszeitpunkt zu übermitteln.
 
-
-## § 43 – Braunkohle-Kleinanlagen
+# § 43 – Braunkohle-Kleinanlagen
 
 Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der Ermittlung des Ausschreibungsvolumens und der gesetzlichen Reduktionsmenge berücksichtigt, sie können an den Ausschreibungen nach Teil 3 teilnehmen und sie sind vorbehaltlich der entsprechenden Anwendung von § 38 Gegenstand der gesetzlichen Reduzierung. Die Regelungen in den Teilen 2, 3, 4 und 6 sind für die in Satz 1 genannten Braunkohle-Kleinanlagen entsprechend anzuwenden.
 
-
-## § 44 – Entschädigung für die Stilllegung von Braunkohleanlagen
+# § 44 – Entschädigung für die Stilllegung von Braunkohleanlagen
 
 (1) Für die endgültige und sozialverträgliche Stilllegung von Braunkohleanlagen bis zum Ablauf des 31. Dezember 2029 nach Anlage 2 hat die RWE Power AG Anspruch auf eine Entschädigung in Höhe eines Nominalbetrages von 2,6 Milliarden Euro für die Braunkohleanlagen im Rheinland und die Lausitz Energie Kraftwerk AG einen Anspruch auf Zahlung einer Entschädigung in Höhe eines Nominalbetrages von 1,75 Milliarden Euro für die Braunkohleanlagen in der Lausitz. Zinsen fallen nicht an. Für Braunkohle-Kleinanlagen wird vorbehaltlich § 43 keine Entschädigung gewährt.
 
@@ -892,8 +845,7 @@ Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der 
 
 (3) Werden eine oder mehrere Braunkohleanlagen vor den in Anlage 2 für die jeweilige Braunkohleanlage genannten Stilllegungszeitpunkten stillgelegt, verbleibt es bei der Entschädigung nach Absatz 1.
 
-
-## § 45 – Auszahlungsmodalitäten
+# § 45 – Auszahlungsmodalitäten
 
 (1) Die Entschädigung nach § 44 Absatz 1 wird in 15 gleich großen jährlichen Raten jeweils zum 31. Dezember über einen Zeitraum von 15 Jahren gezahlt, beginnend mit dem Ende des Jahres, in dem erstmals eine Braunkohleanlage der RWE Power AG, oder im Falle der Zahlung an die Zweckgesellschaften nach § 44 Absatz 2, eine Braunkohleanlage der Lausitz Energie Kraftwerk AG, endgültig stillgelegt oder in die Zeitlich gestreckte Stilllegung überführt wird. Demnach wird die erste Rate jeweils zu folgenden Zeitpunkten gezahlt:
 
@@ -905,32 +857,27 @@ Braunkohle-Kleinanlagen, die nicht in Anlage 2 aufgeführt sind, werden bei der 
 
 (3) Sollten das Land Brandenburg oder der Freistaat Sachsen vor dem 31. Dezember 2025 aufgrund der Reduzierung und Beendigung der Braunkohleverstromung nach Anlage 2 zusätzliche Einzahlungen in die Zweckgesellschaften Brandenburg oder Sachsen geltend machen, werden diese zusätzlichen Einzahlungen von der Bundesrepublik Deutschland im Jahr der Fälligkeit der Lausitz Energie Kraftwerk AG unter Anrechnung auf den gesamten Entschädigungsanspruch der Lausitz Energie Kraftwerk AG gemäß § 44 Absatz 1 erstattet. Die Erstattungen dürfen jährlich den Nominalbetrag von 100 Millionen Euro nicht überschreiten.
 
-
-## § 46 – Ausschluss Kohleersatzbonus
+# § 46 – Ausschluss Kohleersatzbonus
 
 Für in Anlage 2 benannte Braunkohleanlagen kann weder der Anspruch auf die Erhöhung des Zuschlags für KWK-Strom nach § 7 Absatz 2 des Kraft-Wärme-Kopplungsgesetzes in der jeweils geltenden Fassung noch der Anspruch auf Zahlung des Kohleersatzbonus nach § 7c des Kraft-Wärme-Kopplungsgesetzes geltend gemacht werden.
 
-
-## § 47 – Überprüfung der vorzeitigen Stilllegung
+# § 47 – Überprüfung der vorzeitigen Stilllegung
 
 (1) Im Rahmen der umfassenden Überprüfung nach den §§ 54 und 56 in den Jahren 2026, 2029 und 2032 wird bezüglich der Stilllegung der Braunkohleanlagen nach Anlage 2 auch geprüft, ob der Stilllegungszeitpunkt für die Braunkohleanlagen nach dem Jahr 2030 jeweils bis zu drei Jahre vorgezogen und damit auch das Abschlussdatum 2035 erreicht werden kann, ohne dabei den nach Anlage 2 für eine Braunkohleanlage vorgesehenen Zeitraum in der Zeitlich gestreckten Stilllegung zu verkürzen.
 
 (2) Bei der Überprüfung nach den §§ 54 und 56 wird im Jahr 2026 zudem überprüft, ob eine Überführung von Braunkohleanlagen in eine Zeitlich gestreckten Stilllegung für die Zeit nach dem 31. Dezember 2028 energiewirtschaftlich erforderlich ist. Kann die energiewirtschaftliche Erforderlichkeit nicht festgestellt werden, legt der Anlagenbetreiber, dessen Braunkohleanlage nach diesem Zeitpunkt in eine Zeitlich gestreckten Stilllegung überführt werden sollte, abweichend von § 40 Absatz 1 und 2 sowie der Anlage 2 die betreffende Braunkohleanlage spätestens bis zum 31. Dezember 2029 endgültig still.
 
-
-## § 48 – Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II
+# § 48 – Energiepolitische und energiewirtschaftliche Notwendigkeit des Tagebaus Garzweiler II
 
 (1) Die energiepolitische und energiewirtschaftliche Notwendigkeit und der vordringliche Bedarf zur Gewährleistung einer sicheren und zuverlässigen Energieversorgung wird für den Tagebau Garzweiler II in den Grenzen der Leitentscheidung der Landesregierung von Nordrhein-Westfalen zur Zukunft des Rheinischen Braunkohlereviers/Garzweiler II vom 5. Juli 2016 festgestellt.
 
 (2) Die Feststellung nach Absatz 1 ist für die Planung sowie fachrechtliche Zulassungen zu Grunde zu legen. Der damit verbindlich festgestellte energiepolitische und energiewirtschaftliche Bedarf schließt räumliche Konkretisierungen im Rahmen der Braunkohlenplanung und der anschließenden fachrechtlichen Zulassungen des Landes Nordrhein-Westfalen nicht aus.
 
-
-## § 49 – Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags
+# § 49 – Ermächtigung der Bundesregierung zum Abschluss eines öffentlich-rechtlichen Vertrags
 
 Zur Reduzierung und Beendigung der Braunkohleverstromung kann das Bundesministerium für Wirtschaft und Energie für die Bundesrepublik Deutschland mit den Betreibern oder einem Betreiber von Braunkohleanlagen und weiteren, von der Reduzierung und Beendigung der Braunkohleverstromung unmittelbar betroffenen Braunkohletagebauunternehmen, einen öffentlich-rechtlichen Vertrag schließen, mit dem die aus den §§ 40 bis 47 folgenden Rechte und Pflichten zusätzlich vertraglich geregelt werden, in dem im Zusammenhang mit der Reduzierung und Beendigung der Braunkohleverstromung Regelungen zu den Planungs- und Genehmigungsverfahren, zur bergrechtlichen Verantwortung der Tagebaubetreiber und zur sozialverträglichen Umsetzung geregelt werden, in dem die Verwendung der Entschädigung geregelt wird, in dem die Voraussetzungen und Rechtsfolgen bei Änderungen der Verhältnisse geregelt werden und in dem Rechtsbehelfsverzichte der Betreiber geregelt werden. Der Vertrag bedarf der Zustimmung des Bundestages.
 
-
-## § 50 – Zeitlich gestreckte Stilllegung
+# § 50 – Zeitlich gestreckte Stilllegung
 
 (1) Braunkohleanlagen werden, sofern und solange dies nach § 40 in Verbindung mit Anlage 2 vorgesehen ist, vorläufig stillgelegt und damit in eine zeitlich gestreckte Stilllegung überführt und anschließend endgültig stillgelegt (Zeitlich gestreckte Stilllegung). Die Anlagenbetreiber erhalten für die Zeitlich gestreckte Stilllegung einer Braunkohleanlage eine Vergütung, die nach der Formel in Anlage 3 zu berechnen ist.
 
@@ -968,8 +915,7 @@ Wenn eine Braunkohleanlage in der Zeitlich gestreckten Stilllegung die Vorausset
 
 (10) Ergibt die Überprüfung im Jahr 2026 gemäß § 47 Absatz 2 und den §§ 54 und 56, dass eine Überführung von Braunkohleanlagen in eine Zeitlich gestreckte Stilllegung für die Zeit nach dem 31. Dezember 2028 nicht erforderlich ist, dann werden Braunkohleanlagen, die sich noch über diesen Zeitpunkt hinaus in der Zeitlich gestreckten Stilllegung befinden, bis zum 31. Dezember 2029 endgültig stillgelegt.
 
-
-## § 51 – Verbot der Kohleverfeuerung
+# § 51 – Verbot der Kohleverfeuerung
 
 (1) Erhält der Anlagenbetreiber für eine Steinkohleanlage einen Zuschlag nach § 21 Absatz 1 Satz 1, wird für die Steinkohleanlage die gesetzliche Reduzierung nach § 35 Absatz 1 oder Absatz 2 Satz 5 angeordnet oder hat der Anlagenbetreiber eine verbindliche Stilllegungsanzeige oder eine verbindliche Kohleverfeuerungsverbotsanzeige nach § 9 Absatz 1 abgegeben, darf in der Steinkohleanlage vorbehaltlich abweichender Regelungen in diesem Gesetz ab dem nach Absatz 2 geltenden Kalendertag keine Kohle mehr verfeuert werden (Verbot der Kohleverfeuerung). Muss eine Braunkohleanlage mit einer Nettonennleistung von mehr als 150 Megawatt gemäß Teil 5 und Anlage 2 sowie dem öffentlich-rechtlichen Vertrag nach § 49 endgültig stillgelegt werden, darf in der Braunkohleanlage ab dem nach Absatz 2 geltenden Kalendertag keine Kohle mehr verfeuert werden.
 
@@ -1012,8 +958,7 @@ h) in der Ausschreibung für das Zieldatum 2027 30 Monate nach der öffentlichen
 (+++ § 51 Abs. 1: Zur Anwendung vgl. § 9 Abs. 1 Nr 2 +++)  
 (+++ Teil 6 (§§ 51 bis 53): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 52 – Vermarktungsverbot
+# § 52 – Vermarktungsverbot
 
 (1) Der Anlagenbetreiber, gegenüber dem ein Zuschlag nach § 21 Absatz 1 bekanntgegeben wurde oder gegenüber dem die gesetzliche Reduzierung nach § 35 Absatz 1 oder 2 Satz 5 angeordnet wurde, darf ab dem Wirksamwerden des Verbots der Kohleverfeuerung die durch den Einsatz von Steinkohle erzeugte Leistung oder Arbeit der Steinkohleanlage weder ganz noch teilweise auf den Strommärkten veräußern (Vermarktungsverbot).
 
@@ -1025,8 +970,7 @@ h) in der Ausschreibung für das Zieldatum 2027 30 Monate nach der öffentlichen
 
 (+++ Teil 6 (§§ 51 bis 53): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 53 – Verbot der Errichtung und der Inbetriebnahme neuer Stein- und Braunkohleanlagen
+# § 53 – Verbot der Errichtung und der Inbetriebnahme neuer Stein- und Braunkohleanlagen
 
 (1) Es ist verboten, nach dem 14. August 2020 neue Stein- und Braunkohleanlagen in Betrieb zu nehmen, es sei denn, für die Stein- oder Braunkohleanlage wurde bereits bis zum 29. Januar 2020 eine Genehmigung nach dem Bundes-Immissionsschutzgesetz für die Errichtung und den Betrieb der Anlage erteilt.
 
@@ -1034,8 +978,7 @@ h) in der Ausschreibung für das Zieldatum 2027 30 Monate nach der öffentlichen
 
 (+++ Teil 6 (§§ 51 bis 53): Zur Anwendung vgl. § 43 Satz 2 +++)
 
-
-## § 54 – Regelmäßige Überprüfungen der Maßnahme
+# § 54 – Regelmäßige Überprüfungen der Maßnahme
 
 (1) Die Bundesregierung überprüft zum 15. August 2022, zum 15. August 2026, zum 15. August 2029 sowie zum 15. August 2032 auf wissenschaftlicher Grundlage einschließlich festgelegter Kriterien und dazugehöriger Indikatoren die Auswirkungen der Reduzierung und Beendigung der Kohleverstromung auf die Versorgungssicherheit, auf die Anzahl und die installierte Leistung der von Kohle auf Gas umgerüsteten Anlagen, auf die Aufrechterhaltung der Wärmeversorgung und auf die Strompreise und sie überprüft die Erreichung des gesetzlich festgelegten Zielniveaus nach § 4 sowie den Beitrag zur Erreichung der damit verbundenen Klimaschutzziele. Zu den in Satz 1 genannten Überprüfungszeitpunkten wird die Bundesregierung auch Auswirkungen auf Rohstoffe, insbesondere Gips, die im Zuge der Kohleverstromung gewonnen werden, untersuchen. Die jeweiligen Zielniveaus nach § 4 bleiben vom Ergebnis der Untersuchung nach Satz 2 unberührt. Bei der Überprüfung zum 15. August 2022 überprüft die Bundesregierung auch die Sozialverträglichkeit der Reduzierung und Beendigung der Kohleverstromung.
 
@@ -1045,8 +988,7 @@ h) in der Ausschreibung für das Zieldatum 2027 30 Monate nach der öffentlichen
 
 (4) Die Bundesnetzagentur ermittelt für die Überprüfung der Bundesregierung nach den Absätzen 1 und 2, ob die vorhandenen Gasversorgungsnetze ausreichend sind, um Stein- und Braunkohleanlagen eine Umrüstung auf den Energieträger Gas zu ermöglichen und teilt der Bundesregierung das Ergebnis mit. Die Bundesnetzagentur verpflichtet die Fernleitungsnetzbetreiber, für die Ermittlung nach Satz 1 anhand von Kriterien, die die Bundesnetzagentur vorgibt, im Rahmen der Erstellung des Netzentwicklungsplans Gas 2022 bis 2032 eine Netzmodellierung durchzuführen. Die Fernleitungsnetzbetreiber legen der Bundesnetzagentur das Ergebnis der Modellierung nach Satz 2 mit dem Entwurf des Netzentwicklungsplans Gas zum 1. April 2022 vor.
 
-
-## § 55 – Überprüfung der Sicherheit, Zuverlässigkeit und Preisgünstigkeit des Elektrizitätsversorgungssystems; Zuschüsse für stromkostenintensive Unternehmen
+# § 55 – Überprüfung der Sicherheit, Zuverlässigkeit und Preisgünstigkeit des Elektrizitätsversorgungssystems; Zuschüsse für stromkostenintensive Unternehmen
 
 (1) Bis zum 31. Dezember 2020 prüft das Bundesministerium für Wirtschaft und Energie jährlich und ab dem 1. Januar 2021 prüft die Bundesnetzagentur jährlich insbesondere auf Basis und entsprechend den Vorgaben des Monitorings der Versorgungssicherheit nach § 51 des Energiewirtschaftsgesetzes oder auf Basis des jeweils aktuellen Berichts zum Monitoring der Versorgungssicherheit nach § 63 Absatz 2 Satz 1 Nummer 2 des Energiewirtschaftsgesetzes, ob die Sicherheit und Zuverlässigkeit des Elektrizitätsversorgungssystems durch die Maßnahmen dieses Gesetzes mit hinreichender Wahrscheinlichkeit nicht unerheblich gefährdet oder gestört ist. Dabei berücksichtigen sie insbesondere, inwieweit die Steinkohleanlagen den Betreibern der Übertragungsnetze außerhalb des Marktes im Rahmen der Netzreserve weiterhin für einen sicheren und zuverlässigen Netzbetrieb zur Verfügung stehen können. Eine nicht unerhebliche Gefährdung oder Störung der Sicherheit oder Zuverlässigkeit des Elektrizitätsversorgungssystems durch Leistungsbilanzdefizite an den Strommärkten im deutschen Netzregelverbund liegt mit hinreichender Wahrscheinlichkeit insbesondere vor, wenn der im Bericht zum Monitoring der Versorgungssicherheit gemäß der europäischen Strommarktverordnung festgelegte Zuverlässigkeitsstandard unter Berücksichtigung der verfügbaren Reserven nicht eingehalten wird.
 
@@ -1068,13 +1010,11 @@ Satz 2 ist entsprechend anzuwenden, wenn die Bundesregierung feststellt, dass di
 
 (7) Das Bundesministerium für Wirtschaft und Energie teilt den Anlagenbetreibern, die von den Maßnahmen nach Absatz 4 betroffen sind, der Bundesnetzagentur und den zuständigen Betreibern der Übertragungsnetze die Änderung des Ausschreibungsvolumens oder des Ausschreibungszeitpunkts und die Aussetzung der gesetzlichen Reduzierung oder die Reduzierung der gesetzlichen Reduktionsmenge unverzüglich schriftlich mit.
 
-
-## § 56 – Überprüfung des Abschlussdatums
+# § 56 – Überprüfung des Abschlussdatums
 
 Die Bundesregierung überprüft im Rahmen der umfassenden Überprüfung zum 15. August 2026, zum 15. August 2029 und zum 15. August 2032 nach § 54 auch, ob die Reduzierung und Beendigung der Kohleverstromung nach dem Jahr 2030 jeweils drei Jahre vorgezogen und damit das Abschlussdatum 31. Dezember 2035 erreicht werden kann. Soweit das Abschlussdatum nach Satz 1 vorgezogen wird, ist das Zielniveau in § 4 entsprechend anzupassen.
 
-
-## § 57 – Anpassungsgeld für Arbeitnehmerinnen und Arbeitnehmer
+# § 57 – Anpassungsgeld für Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Zur sozialverträglichen schrittweisen Reduzierung und Beendigung der Kohleverstromung kann aus Mitteln des Bundeshaushalts Arbeitnehmerinnen und Arbeitnehmern in den Braunkohleanlagen und -tagebauen sowie den Steinkohleanlagen, die mindestens 58 Jahre alt sind und aus Anlass eines Zuschlags nach § 21 Absatz 1 in Verbindung mit § 51, einer Anordnung der gesetzlichen Reduzierung nach § 35 Absatz 1 in Verbindung mit § 51 oder einer Stilllegung gemäß Teil 5 und Anlage 2 sowie dem öffentlich-rechtlichen Vertrag nach § 49 bis zum 31. Dezember 2043 ihren Arbeitsplatz verlieren, vom Tag nach der Beendigung des Arbeitsverhältnisses für längstens fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf eine Rente wegen Alters aus der gesetzlichen Rentenversicherung gewährt werden. Rentenminderungen, die durch die vorzeitige Inanspruchnahme einer sich an das Anpassungsgeld anschließenden Rente wegen Alters entstehen, können durch die Zahlung entsprechender Beiträge gemäß § 187a des Sechsten Buches Sozialgesetzbuch direkt an die gesetzliche Rentenversicherung ausgeglichen werden.
 
@@ -1084,25 +1024,21 @@ Die Bundesregierung überprüft im Rahmen der umfassenden Überprüfung zum 15. 
 
 (4) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle entscheidet über die Gewährung eines Zuschusses nach Absatz 1 im Rahmen der dafür zur Verfügung stehenden haushaltsmäßigen Ermächtigungen.
 
-
-## § 58 – Förderprogramm zur treibhausgasneutralen Erzeugung und Nutzung von Wärme
+# § 58 – Förderprogramm zur treibhausgasneutralen Erzeugung und Nutzung von Wärme
 
 Das Bundesministerium für Wirtschaft und Energie fördert die treibhausgasneutrale Erzeugung und Nutzung von Wärme.
 
-
-## § 59 – Bestehende Genehmigungen
+# § 59 – Bestehende Genehmigungen
 
 Die für den Vollzug des Bundes-Immissionsschutzgesetzes zuständige Behörde ergreift die zur Umsetzung des Verbots der Kohleverfeuerung unter Berücksichtigung eines notwendigen Weiterbetriebs nach § 13b oder § 13e des Energiewirtschaftsgesetzes notwendigen Maßnahmen. Die §§ 15, 16, 17, 20 und 21 Absatz 1 bis 3 des Bundes-Immissionsschutzgesetzes sind entsprechend anzuwenden.
 
-
-## § 60 – Verordnungsermächtigungen
+# § 60 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, eine Rechtsverordnung zu erlassen, mit der der Netzfaktor in den Ausschreibungen nach Teil 3 abweichend von § 18 Absatz 4 und 5 auf Grundlage der begleitenden Netzanalyse nach § 34 Absatz 2 geregelt werden kann. Mit Inkrafttreten der Rechtsverordnung nach Satz 1 ist § 18 Absatz 4 nicht mehr anzuwenden.
 
 (2) Zur näheren Ausgestaltung der Aussetzung der Anordnung der gesetzlichen Reduzierung nach § 34 Absatz 3 und § 35 Absatz 2 wird die Bundesregierung ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, mit Zustimmung des Bundestages spätestens bis zum 31. März 2021 zu regeln, nach welchem Maßstab die Bundesnetzagentur die Anordnung der gesetzlichen Reduzierung einer Steinkohleanlage gemäß § 34 Absatz 3 und § 35 Absatz 2 aussetzt. In der Rechtsverordnung nach Satz 1 soll insbesondere auf Grundlage der langfristigen Netzanalyse nach § 34 Absatz 1 insbesondere geregelt werden, nach welchen Kriterien die Bundesnetzagentur nach § 34 Absatz 3 empfiehlt, ob einzelne Steinkohleanlagen für die Bewirtschaftung von Netzengpässen, für die Frequenzhaltung, die Spannungshaltung und zur Sicherstellung eines möglichen Versorgungswiederaufbaus erforderlich sind und wie Alternativen zur Aussetzung der Anordnung der gesetzlichen Reduzierung zu bewerten und zu berücksichtigen sind.
 
-
-## § 61 – Aufgaben der Bundesnetzagentur
+# § 61 – Aufgaben der Bundesnetzagentur
 
 (1) Die Bundesnetzagentur hat die Aufgaben,
 
@@ -1132,8 +1068,7 @@ Die für den Vollzug des Bundes-Immissionsschutzgesetzes zuständige Behörde er
 
 (3) Für die Wahrnehmung der Aufgaben der Bundesnetzagentur nach diesem Gesetz und den aufgrund dieses Gesetzes ergangenen Rechtsverordnungen sind, soweit in diesem Gesetz nichts anderes geregelt ist, die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme des § 69 Absatz 1 Satz 2 und Absatz 10 des Energiewirtschaftsgesetzes, der §§ 91 und 95 bis 101 sowie 105 des Energiewirtschaftsgesetzes entsprechend anzuwenden. Die Befugnisse nach Satz 1 sind gegenüber Personen, die keine Unternehmen sind, entsprechend maßgebend.
 
-
-## § 62 – Festlegungskompetenzen der Bundesnetzagentur
+# § 62 – Festlegungskompetenzen der Bundesnetzagentur
 
 (1) Die Entscheidungen nach diesem Gesetz und aufgrund dieses Gesetzes werden von der Bundesnetzagentur getroffen.
 
@@ -1145,13 +1080,11 @@ Die für den Vollzug des Bundes-Immissionsschutzgesetzes zuständige Behörde er
 
 (3) Die Bundesnetzagentur soll vor ihrer Entscheidung nach Absatz 2 von einer Einholung von Stellungnahmen nach § 67 Absatz 2 des Energiewirtschaftsgesetzes absehen. Eine mündliche Verhandlung findet nicht statt. Die Bundesnetzagentur macht Entscheidungen nach Absatz 1 unter Angabe der tragenden Gründe in ihrem Amtsblatt und auf ihrer Internetseite öffentlich bekannt.
 
-
-## § 63 – Gebühren und Auslagen
+# § 63 – Gebühren und Auslagen
 
 Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach diesem Gesetz werden durch die Bundesnetzagentur Gebühren und Auslagen erhoben. § 61 Absatz 3 Satz 1 ist entsprechend anzuwenden.
 
-
-## § 64 – Rechtsschutz
+# § 64 – Rechtsschutz
 
 (1) Soweit dieses Gesetz nichts anderes bestimmt, sind für Rechtsbehelfe, die sich gegen Entscheidungen der Bundesnetzagentur nach diesem Gesetz und den aufgrund dieses Gesetzes erlassenen Rechtsverordnungen richten, die Bestimmungen des Teils 8 des Energiewirtschaftsgesetzes mit Ausnahme des § 69 Absatz 1 Satz 2 und Absatz 10, der §§ 91 und 95 bis 101 sowie § 105 des Energiewirtschaftsgesetzes entsprechend anzuwenden.
 
@@ -1159,8 +1092,7 @@ Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach
 
 (3) Über einen gerichtlichen Rechtsbehelf, der sich gegen die Reihung nach § 29 Absatz 4 richtet, entscheidet durch unanfechtbaren Beschluss das nach Absatz 1 zuständige Oberlandesgericht.
 
-
-## § 65 – Bußgeldvorschriften
+# § 65 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1174,13 +1106,11 @@ Für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur nach
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1, 3 und 4 mit einer Geldbuße bis zu einer Million Euro, in den übrigen Fällen mit einer Geldbuße bis zu einhunderttausend Euro geahndet werden. § 30 Absatz 2 Satz 3 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 66 – Fristen und Termine
+# § 66 – Fristen und Termine
 
 Für die Berechnung von Fristen und für die Bestimmung von Terminen ist § 31 des Verwaltungsverfahrensgesetzes entsprechend anzuwenden, soweit nicht durch dieses Gesetz etwas anderes bestimmt ist.
 
-
-## Anlage 1 – (zu § 12 Absatz 3)Südregion
+# Anlage 1 – (zu § 12 Absatz 3)Südregion
 
 (Fundstelle: BGBl. I 2020, 1841 - 1845)
 
@@ -1363,13 +1293,11 @@ Die Südregion besteht aus folgenden kreisfreien Städten, Stadtkreisen, Kreisen
 | Landkreis Saarpfalz-Kreis                     |
 | Landkreis St. Wendel                          |
 
-
-## Anlage 2 – (zu Teil 5)Stilllegungszeitpunkte Braunkohleanlagen
+# Anlage 2 – (zu Teil 5)Stilllegungszeitpunkte Braunkohleanlagen
 
 (Fundstelle: BGBl. I 2020, 1846 - 1847)
 
-
-## Anlage 3 – (zu § 50)Vergütung Zeitlich gestreckte Stilllegung
+# Anlage 3 – (zu § 50)Vergütung Zeitlich gestreckte Stilllegung
 
 (Fundstelle: BGBl. I 2020, 3203 – 3204)
 
@@ -1377,7 +1305,7 @@ Die Vergütung von vorläufig Stillzulegenden Anlagen nach § 50 wird nach folge
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2020/j3138-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j3138-1_0010.jpg) |
 
 Im Sinne dieser Anlage ist oder sind:
 

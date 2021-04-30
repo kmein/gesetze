@@ -1,15 +1,11 @@
-# [GFV] Verordnung über die Durchführung der Graduiertenförderung  (Graduiertenförderungsverordnung - GFV)
-
-Ausfertigungsdatum: 03.11.1971
-
+% Verordnung über die Durchführung der Graduiertenförderung  (Graduiertenförderungsverordnung - GFV)
+% Ausfertigungsdatum: 03.11.1971
  
-
-## § 1 – Höhe des Grundstipendiums
+# § 1 – Höhe des Grundstipendiums
 
 Das Grundstipendium beträgt 800 Deutsche Mark monatlich.
 
-
-## § 2 – Familienzuschlag
+# § 2 – Familienzuschlag
 
 Der Stipendiat erhält auf Antrag zu dem Grundstipendium einen Familienzuschlag von 200 Deutsche Mark monatlich, wenn
 
@@ -21,8 +17,7 @@ Der Stipendiat erhält auf Antrag zu dem Grundstipendium einen Familienzuschlag 
 
 Erhalten beide Ehegatten Stipendien nach dem Gesetz oder erhält der Ehegatte des Stipendiaten ein Stipendium nach Vorschriften, deren Zielsetzung der des Gesetzes entspricht, so wird der Familienzuschlag nicht gewährt.
 
-
-## § 3 – Zuschläge für Sachkosten und Reisekosten im Inland
+# § 3 – Zuschläge für Sachkosten und Reisekosten im Inland
 
 (1) Für Sachkosten, mit Ausnahme von Druckkosten, sowie für Reisekosten im Inland, deren Aufwendung für die Durchführung des wissenschaftlichen Vorhabens notwendig und deren Deckung dem Stipendiaten nicht zuzumuten ist, können Zuschläge gewährt werden. Sie sollen insgesamt 2.000 Deutsche Mark während der Regelförderungsdauer nicht überschreiten.
 
@@ -34,8 +29,7 @@ Erhalten beide Ehegatten Stipendien nach dem Gesetz oder erhält der Ehegatte de
 
 (5) Sachkosten und Fahrkosten sind nachzuweisen, soweit für sie kein Pauschbetrag gewährt wird.
 
-
-## § 4 – Förderung von Auslandsaufenthalten
+# § 4 – Förderung von Auslandsaufenthalten
 
 (1) Zuschläge können, soweit sich aus den nachfolgenden Bestimmungen nicht etwas anderes ergibt, nach Maßgabe des § 3 auch für die Kosten von Reisen ins Ausland und innerhalb des Auslandes gewährt werden. Abweichungen von § 3 Abs. 3 Satz 1 sind zulässig, sofern die Benutzung der dort bezeichneten Beförderungsmittel nicht zumutbar ist. Kosten, die durch die Benutzung wissenschaftlicher Einrichtungen im Ausland entstehen, können ersetzt werden.
 
@@ -107,8 +101,7 @@ VIII-X
 
 (6) Die Zonenzuteilung der Aufenthaltsorte und der Kaufkraftausgleich richten sich nach den Festsetzungen, die am 1. Januar des jeweiligen Jahres gelten. Spätere Änderungen können nur berücksichtigt werden, wenn sie zu einer Erhöhung oder Verminderung des Grundstipendiums sowie der Auslandszulage und des Kaufkraftausgleichs um insgesamt mehr als 20 vom Hundert führen würden.
 
-
-## § 5 – Einkommen des Stipendiaten und seines Ehegatten
+# § 5 – Einkommen des Stipendiaten und seines Ehegatten
 
 (1) Das Einkommen des Stipendiaten wird auf das Stipendium angerechnet. Das Einkommen seines Ehegatten wird zu zwei Dritteln des Betrages angerechnet, um den es 12.000 Deutsche Mark im Jahr übersteigt.
 
@@ -142,8 +135,7 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 (5) Veränderungen der Einkommensverhältnisse sind zu berücksichtigen, wenn sie zu einer Erhöhung oder Verminderung des monatlichen Stipendiums um mehr als 100 Deutsche Mark führen würden. Abweichend von Absatz 4 Satz 1 ist in diesem Fall für die Berechnung des monatlichen Stipendiums der zwölfte Teil des Einkommens im Kalenderjahr maßgebend, in dem die Veränderungen wirksam werden. Dabei ist zu unterstellen, daß die Veränderungen mit Beginn des Kalenderjahres eingetreten sind. Das erhöhte Stipendium ist vom Ersten des Monats an zu zahlen, in dem die Veränderungen wirksam werden; das verminderte Stipendium ist vom Ersten des Monats an zu zahlen, der auf den Monat folgt, in dem die Veränderungen wirksam geworden sind.
 
-
-## § 6 – Anrechnungsfreie Beträge
+# § 6 – Anrechnungsfreie Beträge
 
 (1) Vom Einkommen des Stipendiaten und seines Ehegatten wird die Einkommensteuer abgezogen, die auf das nach § 5 Abs. 2 oder Abs. 3 anzurechnende Einkommen entfällt. Dabei ist bei verheirateten Stipendiaten, die von ihrem Ehegatten nicht dauernd getrennt leben, die Einkommensteuer-Splittingtabelle zugrunde zu legen und der so ermittelte Betrag im Verhältnis der Einkünfte auf die Ehegatten aufzuteilen. In allen anderen Fällen ist die Grundtabelle zugrunde zu legen.
 
@@ -155,15 +147,13 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 3. Vergütungen, die die Hochschule oder eine ihrer Einrichtungen aus eigenen Mitteln für die in der Bearbeitung des wissenschaftlichen Vorhabens liegende Forschungsleistung des Stipendiaten zahlt, bis zu 4.800 Deutsche Mark, wenn die Vergütung erforderlich ist, um den Bewerber für die wissenschaftliche Arbeit an der Hochschule zu gewinnen und gewährleistet ist, daß seine Arbeitskraft nicht für förderungsfremde Zwecke in Anspruch genommen wird. Zahlt der bisherige Dienstherr oder Arbeitgeber des Stipendiaten einen Teil der Bezüge fort, ohne seine Dienste in Anspruch zu nehmen, so bleiben diese bis zur Höhe des Unterschiedsbetrages zwischen dem bisherigen Einkommen und dem gewährten Stipendium anrechnungsfrei.
 
-
-## § 7 – Vermögen des Stipendiaten
+# § 7 – Vermögen des Stipendiaten
 
 (1) Hat der Stipendiat für das Kalenderjahr der Antragstellung, die der Bewilligung zugrunde liegt, Vermögensteuer zu entrichten, so vermindert sich sein monatliches Stipendium um 2 vom Hundert seines steuerpflichtigen Vermögens.
 
 (2) Tritt eine Änderung der Vermögensverhältnisse ein, die zu einer Neuveranlagung oder Nachveranlagung zur Vermögensteuer führt, so ist das Stipendium entsprechend dem Betrag, für den Vermögensteuer künftig zu entrichten ist, neu festzusetzen.
 
-
-## § 8 – Durchführung der Anrechnung
+# § 8 – Durchführung der Anrechnung
 
 (1) Der Bewerber oder Stipendiat teilt seine Einkommensverhältnisse sowie, wenn er verheiratet ist, die seines Ehegatten der Hochschule mit und zeigt ihr die in § 5 Abs. 5 bezeichneten Veränderungen an. Er weist der Hochschule die Einkommensverhältnisse durch Gehaltsbescheinigungen des Arbeitgebers, durch Steuerbescheide oder in anderer geeigneter Form nach. Kann ein Nachweis noch nicht oder nur mit unverhältnismäßigem Aufwand geführt werden, so sind die Einkommensverhältnisse glaubhaft zu machen; in diesem Fall wird das Stipendium unter dem Vorbehalt der abschließenden Festsetzung gewährt.
 
@@ -173,8 +163,7 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 (4) Der sich aus der Berechnung nach den §§ 5 bis 7 ergebende Betrag ist auf volle Deutsche Mark aufzurunden; bleibt der ermittelte Stipendienbetrag unter 50 Deutsche Mark, so entfällt eine Stipendiengewährung.
 
-
-## § 9 – Auskunftspflichten
+# § 9 – Auskunftspflichten
 
 (1) Die Finanzbehörden erteilen der Hochschule Auskünfte über die Einkommensverhältnisse des Stipendiaten und seines Ehegatten sowie über die Vermögensverhältnisse des Stipendiaten, soweit die Durchführung der Verordnung es erfordert.
 
@@ -182,15 +171,13 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 (3) Die Arbeitgeber des Stipendiaten und seines Ehegatten sind verpflichtet, auf Verlangen dieser Personen Bescheinigungen über deren Arbeitslohn und auf der Lohnsteuerkarte eingetragene steuerfreie Jahresbeträge auszustellen und auf Verlangen der Hochschule mit Einwilligung dieser Personen über deren persönliche und wirtschaftliche Verhältnisse die Auskünfte zu erteilen und die Urkunden vorzulegen, die zur Entscheidung über einen Antrag auf Gewährung eines Stipendiums von Bedeutung sind.
 
-
-## § 10 – Dauer der Förderung in besonderen Fällen
+# § 10 – Dauer der Förderung in besonderen Fällen
 
 (1) Das zur Vorbereitung auf die Promotion gewährte Stipendium kann über die Regelförderungsdauer hinaus bis zu einem weiteren Jahr verlängert werden, wenn das Zwischenergebnis einen Beitrag erwarten läßt, der für die Entwicklung der Wissenschaft bedeutsam ist, oder wenn infolge der notwendigen Laufzeit von Versuchen und Erhebungen oder infolge besonders schwieriger Erschließung des Arbeitsmaterials der Abschluß des Vorhabens innerhalb der Regelförderungsdauer nicht möglich gewesen ist.
 
 (2) Unterbricht der Stipendiat sein wissenschaftliches Vorhaben oder kann er es nicht fortsetzen, so unterrichtet er das Vergabegremium unverzüglich. Das Stipendium kann bis zu sechs Wochen fortgezahlt werden, wenn die Unterbrechung durch Krankheit oder einen anderen, von ihm nicht zu vertretenden, wichtigen Grund erforderlich geworden ist. Danach kann die Zahlung eines Teilbetrages des Stipendiums für einen Zeitraum von längstens sechs Monaten bewilligt werden, wenn dies zur Vermeidung einer unbilligen Härte notwendig ist. Das Stipendium kann um den Zeitraum, in dem der Stipendiat aus einem der in Satz 2 genannten Gründe an der Fortsetzung der Arbeit verhindert war, verlängert werden.
 
-
-## § 11 – Vergabe der Stipendien
+# § 11 – Vergabe der Stipendien
 
 (1) Die Stipendien werden von der Hochschule auf Antrag der Bewerber zentral vergeben. Die Bewerber haben sich bei der Antragstellung zu verpflichten, das Stipendium, ausgenommen Zuschläge für Sach- und Reisekosten, nach Maßgabe der für die Rückzahlung geltenden Bestimmungen zurückzuzahlen.
 
@@ -202,8 +189,7 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 (5) Die Stipendien werden hochschulöffentlich ausgeschrieben.
 
-
-## § 12 – Verteilung der Förderungsmittel
+# § 12 – Verteilung der Förderungsmittel
 
 (1) Die für die Verteilung zuständige Stelle bestimmt die auf die Fachbereiche bzw. Fakultäten entfallenden Förderungsmittel (Verteilung der Förderungsmittel). Sie kann eine Verteilung auf die Fachrichtungen vornehmen, wenn dies erforderlich ist, um Vorhaben zu fördern, die für die Entwicklung der Wissenschaft bedeutsam sind, oder um dem Bedarf an wissenschaftlichem Nachwuchs in einer Fachrichtung hinreichend Rechnung zu tragen.
 
@@ -211,15 +197,13 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 (3) Die Mittel für die Promotionsförderung und die Förderung eines weiteren Studiums im Sinne des § 3 des Gesetzes werden von der nach Absatz 1 zuständigen Stelle getrennt verteilt.
 
-
-## § 13 – Erstmalige Gewährung des Stipendiums
+# § 13 – Erstmalige Gewährung des Stipendiums
 
 (1) Der Bewerber fügt seinem Antrag einen Arbeitsplan bei, in welchem er die Gründe für die Wahl seines Vorhabens darlegt. Beantragt der Bewerber die Förderung einer Promotion, so hat der Arbeitsplan entsprechend dem Stand der Vorarbeiten auch einen Aufriß des Themas und einen Zeitplan zu enthalten. Das Vorliegen der Förderungsvoraussetzungen bei einem Bewerber wird anhand von Gutachten geprüft, die von zwei Hochschullehrern erstattet werden. Auf Antrag des Bewerbers hat die Hochschule Gutachter zu benennen.
 
 (2) Bei der Auswahl der Bewerber sind Studien- und Prüfungsleistungen, Arbeitsplan sowie Gutachten in einem ausgewogenen Verhältnis heranzuziehen.
 
-
-## § 14 – Verlängerung des Stipendiums
+# § 14 – Verlängerung des Stipendiums
 
 (1) Innerhalb der Regelförderungsdauer kann eine Verlängerung des Stipendiums für einen Zeitraum bis zu einem Jahr ausgesprochen werden. Eine Verlängerung über die Regelförderungsdauer hinaus soll jeweils für einen Zeitraum von nicht mehr als einem halben Jahr ausgesprochen werden.
 
@@ -227,20 +211,17 @@ der in der Weise auf beide Ehegatten zu verteilen ist, daß dies zu der für den
 
 (3) Abweichungen vom Arbeitsplan nach § 13 sind darzulegen und zu begründen.
 
-
-## § 15 – Abschlußbericht
+# § 15 – Abschlußbericht
 
 (1) Nach Beendigung der Förderung legt der Stipendiat den beteiligten Kommissionen einen Bericht über seine Arbeit während der gesamten Förderungsdauer vor und stellt darin insbesondere seine Arbeit im letzten Bewilligungszeitraum dar.
 
 (2) Ist eine Promotion gefördert worden, so genügt die Mitteilung über die Einreichung der wissenschaftlichen Arbeit, sofern nicht die Hochschule eine andere Bestimmung trifft. Kann der Stipendiat die wissenschaftliche Arbeit nicht einreichen, so legt er die Gründe hierfür dar und äußert sich zum beabsichtigten Fortgang der Arbeit. In diesem Fall berichtet der Stipendiat ferner bis zur Einreichung der wissenschaftlichen Arbeit, höchstens aber bis zum Ablauf von drei Jahren nach Abschluß der Förderung, jährlich der zentralen Kommission zu einem von ihr festzusetzenden Termin schriftlich über den Stand der Arbeit.
 
-
-## § 16 – Aufhebung des Bewilligungsbescheides und Rückzahlung
+# § 16 – Aufhebung des Bewilligungsbescheides und Rückzahlung
 
 Die Entscheidung nach § 7b des Gesetzes trifft die für die Vergabe zuständige Stelle nach Anhörung des Stipendiaten.
 
-
-## § 17 – Datenermittlung, Zwischenbescheid
+# § 17 – Datenermittlung, Zwischenbescheid
 
 (1) Die Hochschulen stellen nach Ablauf eines jeden Kalenderjahres bis zum 31. März dem Bundesverwaltungsamt die für den Darlehenseinzug erforderlichen Daten über
 
@@ -254,18 +235,15 @@ auf einheitlichen Datenblättern zur Verfügung.
 
 (3) Die Hochschulen übersenden in der Regel innerhalb von zwei Jahren nach Beendigung der Gewährung des Stipendiums die für den Darlehenseinzug erforderlichen Akten dem Bundesverwaltungsamt.
 
-
-## § 18 – Bescheid des Bundesverwaltungsamtes
+# § 18 – Bescheid des Bundesverwaltungsamtes
 
 Das Bundesverwaltungsamt erteilt dem Stipendiaten einen Bescheid, in dem die Höhe des Darlehensbetrages festgestellt und der Zeitpunkt des Beginns der Rückzahlung des Darlehens sowie die Höhe der monatlichen Raten festgesetzt werden.
 
-
-## § 19 – Rückzahlungsbedingungen
+# § 19 – Rückzahlungsbedingungen
 
 Die Rückzahlungsrate ist am Ende eines jeden Monats für den Lastschrifteinzug bereitzustellen oder auf das vom Bundesverwaltungsamt bestimmte Konto zu überweisen.
 
-
-## § 20 – Freistellung von der Rückzahlungsverpflichtung
+# § 20 – Freistellung von der Rückzahlungsverpflichtung
 
 (1) Die Entscheidung über die Freistellung von der Verpflichtung zur Rückzahlung des Darlehens nach § 7a Abs. 4 oder Abs. 5 des Gesetzes trifft das Bundesverwaltungsamt. Sie erfolgt nur auf schriftlichen Antrag. Sie ergeht in der Regel für die Dauer von zwölf Monaten.
 
@@ -275,8 +253,7 @@ Die Rückzahlungsrate ist am Ende eines jeden Monats für den Lastschrifteinzug 
 
 (4) Der Rückzahlungszeitraum verlängert sich um den Zeitraum der Freistellung.
 
-
-## § 21 – Verzug
+# § 21 – Verzug
 
 (1) Die Verzinsung nach § 7a Abs. 2 des Gesetzes beginnt mit dem Ersten des auf den Fälligkeitstag folgenden Kalendermonats.
 
@@ -286,26 +263,22 @@ Die Rückzahlungsrate ist am Ende eines jeden Monats für den Lastschrifteinzug 
 
 2. Aufwendungen für die Geltendmachung der Darlehensforderung.
 
-
-## § 22 – Veränderungen von Ansprüchen
+# § 22 – Veränderungen von Ansprüchen
 
 Stirbt der Stipendiat, bevor das Stipendium zurückgezahlt ist, wird gegenüber den Erben kein Rückzahlungsanspruch geltend gemacht. Im übrigen richtet sich die Befugnis zum Abschluß von Vergleichen und zur Stundung, Niederschlagung und zum Erlaß von Ansprüchen nach den §§ 58 und 59 der Bundeshaushaltsordnung vom 19. August 1969 (Bundesgesetzbl. I S. 1284), geändert durch Gesetz vom 23. Dezember 1971 (Bundesgesetzbl. I S. 2133).
 
-
-## § 23 – Mitteilungspflichten
+# § 23 – Mitteilungspflichten
 
 (1) Der Stipendiat ist verpflichtet, von der Beendigung der Gewährung des Stipendiums an jeden Wohnungswechsel und jede Änderung des Familiennamens sowie während der Dauer der Freistellung von der Rückzahlungsverpflichtung jede nach der Antragstellung eintretende Änderung seiner nach § 7a Abs. 4 oder Abs. 5 des Gesetzes maßgeblichen Familien- und Einkommensverhältnisse dem Bundesverwaltungsamt unverzüglich schriftlich mitzuteilen.
 
 (2) Die Kosten für jeden Versuch der Ermittlung des Aufenthaltsortes des Stipendiaten werden auf 25 Deutsche Mark festgesetzt; sie sind auf Anforderung zu erstatten. Das Bundesverwaltungsamt kann höhere Aufwendungen unter Darlegung der hierfür maßgeblichen Gründe geltend machen.
 
-
-## § 24 – Rückleitung der eingezogenen Beträge
+# § 24 – Rückleitung der eingezogenen Beträge
 
 (1) Das Bundesverwaltungsamt führt bis zum 31. März von dem Darlehensbetrag, den es im letzten vorausgegangenen Kalenderjahr eingezogen hat, an jedes Land den Hundertsatz ab, der dem Finanzierungsanteil dieses Landes an der Summe aller für die Jahre 1976 bis 1981 geleisteten Darlehen entspricht.
 
 (2) Kostenerstattungen nach § 21 Abs. 2 Nr. 2 und 3 und § 23 Abs. 2 verbleiben in voller Höhe dem Bund.
 
-
-## § 25 – Berlin-Klausel
+# § 25 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 16 des Gesetzes auch im Land Berlin.

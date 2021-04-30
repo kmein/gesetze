@@ -1,15 +1,11 @@
-# [BetrWHwOPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung
-
-Ausfertigungsdatum: 13.03.2011
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung
+% Ausfertigungsdatum: 13.03.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407; 2007 I S. 2149) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von beruflicher Handlungsfähigkeit, die im Rahmen der beruflichen Fortbildung zum Geprüften Betriebswirt nach der Handwerksordnung und zur Geprüften Betriebswirtin nach der Handwerksordnung erworben worden ist, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 14 durchführen.
 
@@ -31,8 +27,7 @@ Mit einem strategisch ausgerichteten Verständnis des Handelns soll der Geprüft
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung oder Geprüfte Betriebswirtin nach der Handwerksordnung.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -50,8 +45,7 @@ nachweist.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -95,8 +89,7 @@ Die Prüfung wird schriftlich durchgeführt.
 
 (5) Im Prüfungsteil „Innovationsmanagement“ wird die Qualifikation nach § 7 im Rahmen einer Projektarbeit, einer Präsentation und eines Fachgesprächs durchgeführt. Mit diesem Prüfungsteil ist innerhalb eines Jahres nach Ablegen der Prüfungsteile nach Absatz 1 Nummer 1 bis 3 zu beginnen.
 
-
-## § 4 – Inhalt der Prüfung im Prüfungsteil „Unternehmensstrategie“
+# § 4 – Inhalt der Prüfung im Prüfungsteil „Unternehmensstrategie“
 
 (1) Im Handlungsbereich „Volkswirtschaftliche und gesellschaftliche Rahmenbedingungen bewerten“ soll die Fähigkeit nachgewiesen werden, wirtschaftliche Rahmenbedingungen in relevanten Beschaffungs- und Absatzmärkten sowie zur Führung eines Unternehmens und deren Entwicklungen im Hinblick auf die eigene Unternehmensstrategie erfassen und bewerten zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -130,8 +123,7 @@ Die Prüfung wird schriftlich durchgeführt.
 
 7. Erfolgsfaktoren für die Strategieplanung bestimmen.
 
-
-## § 5 – Inhalt der Prüfung im Prüfungsteil „Unternehmensführung“
+# § 5 – Inhalt der Prüfung im Prüfungsteil „Unternehmensführung“
 
 (1) Im Handlungsbereich „Unternehmensführung und -organisation gestalten“ soll die Fähigkeit nachgewiesen werden, die Unternehmensstrategie durch Maßnahmen der Unternehmensführung nachhaltig umzusetzen. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -189,8 +181,7 @@ Die Prüfung wird schriftlich durchgeführt.
 
 7. Methoden zur Überprüfung der Leistungsfähigkeit von Prozessen beurteilen.
 
-
-## § 6 – Inhalt der Prüfung im Prüfungsteil „Personalmanagement“
+# § 6 – Inhalt der Prüfung im Prüfungsteil „Personalmanagement“
 
 (1) Im Handlungsbereich „Personal planen und gewinnen“ soll die Fähigkeit nachgewiesen werden, eine an den strategischen Unternehmenszielen orientierte, nachhaltige und ethisch verantwortungsvolle Personalplanung und Personalgewinnungspolitik realisieren zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -212,13 +203,11 @@ Die Prüfung wird schriftlich durchgeführt.
 
 4. Instrumente der Personalentwicklung auswählen und einsetzen, nachhaltige Personalentwicklung sowie Planung und Organisation von Weiterbildung realisieren.
 
-
-## § 7 – Inhalte des Prüfungsteils „Innovationsmanagement“
+# § 7 – Inhalte des Prüfungsteils „Innovationsmanagement“
 
 Im Prüfungsteil „Innovationsmanagement“ soll eine komplexe betriebswirtschaftliche Problemstellung eines Unternehmens mit betrieblicher Relevanz, dargestellt, beurteilt und mit einem Lösungsentwurf erarbeitet und präsentiert werden. Die Bezüge zur Unternehmensstrategie, die Auswirkungen auf die operative Unternehmensführung haben und einen Innovationsbedarf zur Umsetzung einer Unternehmensstrategie beinhalten, sind darzustellen. Die Themenstellung ist entsprechend § 11 zu entwickeln.
 
-
-## § 8 – Durchführung der Prüfung im Prüfungsteil „Unternehmensstrategie“
+# § 8 – Durchführung der Prüfung im Prüfungsteil „Unternehmensstrategie“
 
 (1) Es ist schriftlich anhand von mindestens zwei Situationsaufgaben je Handlungsbereich zu prüfen. Die Prüfung dauert je Handlungsbereich mindestens 90 Minuten und insgesamt nicht mehr als 300 Minuten.
 
@@ -226,15 +215,13 @@ Im Prüfungsteil „Innovationsmanagement“ soll eine komplexe betriebswirtscha
 
 (3) Wurde in einem Handlungsbereich eine mangelhafte Prüfungsleistung erbracht, ist in diesem Handlungsbereich eine mündliche Ergänzungsprüfung anzubieten. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung in diesem Handlungsbereich und die der mündlichen Ergänzungsprüfung werden zu einem Gesamtergebnis zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 9 – Durchführung der Prüfung im Prüfungsteil „Unternehmensführung“
+# § 9 – Durchführung der Prüfung im Prüfungsteil „Unternehmensführung“
 
 (1) Es ist schriftlich anhand einer komplexen Situationsaufgabe handlungsbereichsübergreifend zu prüfen. Die Prüfung dauert mindestens 240 Minuten und höchstens 300 Minuten.
 
 (2) Wurde eine mangelhafte Prüfungsleistung erbracht, ist eine mündliche Ergänzungsprüfung anzubieten. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einem Gesamtergebnis zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 10 – Durchführung der Prüfung im Prüfungsteil „Personalmanagement“
+# § 10 – Durchführung der Prüfung im Prüfungsteil „Personalmanagement“
 
 (1) Es ist schriftlich anhand von mindestens zwei Situationsaufgaben je Handlungsbereich zu prüfen. Die Prüfung dauert je Handlungsbereich mindestens 90 Minuten, höchstens 120 Minuten und insgesamt nicht mehr als 210 Minuten.
 
@@ -242,8 +229,7 @@ Im Prüfungsteil „Innovationsmanagement“ soll eine komplexe betriebswirtscha
 
 (3) Wurde in einem Handlungsbereich eine mangelhafte Prüfungsleistung erbracht, ist in diesem Handlungsbereich eine mündliche Ergänzungsprüfung anzubieten. Die Ergänzungsprüfung soll in der Regel nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung in diesem Handlungsbereich und die der mündlichen Ergänzungsprüfung werden zu einem Gesamtergebnis zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 11 – Durchführung der Prüfung im Prüfungsteil „Innovationsmanagement“
+# § 11 – Durchführung der Prüfung im Prüfungsteil „Innovationsmanagement“
 
 (1) Das Thema der Projektarbeit wird vom Prüfungsausschuss vorgegeben. Vorschläge der zu prüfenden Person können berücksichtigt werden. Der Prüfungsausschuss soll den Umfang der Arbeit begrenzen. Die Projektarbeit ist schriftlich anzufertigen. Die Bearbeitungszeit beträgt 30 Kalendertage.
 
@@ -255,15 +241,13 @@ Im Prüfungsteil „Innovationsmanagement“ soll eine komplexe betriebswirtscha
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 12 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 42c Absatz 2 der Handwerksordnung von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 13 und 14 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 13 Absatz 2 Satz 2 oder Satz 3, Absatz 4 Satz 2 oder 3 oder § 14 Absatz 2 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Bewerten der Prüfungsleistungen
+# § 13 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -283,8 +267,7 @@ Aus den Bewertungen der Projektarbeit und der mündlichen Prüfungsleistung nach
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Bestehen der Prüfung, Gesamtnote
+# § 14 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -306,8 +289,7 @@ Aus den Bewertungen der Projektarbeit und der mündlichen Prüfungsleistung nach
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Zeugnisse
+# § 15 – Zeugnisse
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -321,8 +303,7 @@ Aus den Bewertungen der Projektarbeit und der mündlichen Prüfungsleistung nach
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Wiederholen der Prüfung
+# § 16 – Wiederholen der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -332,29 +313,25 @@ Aus den Bewertungen der Projektarbeit und der mündlichen Prüfungsleistung nach
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Übergangsvorschriften
+# § 17 – Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Betriebswirt (HWK) und zur Betriebswirtin (HWK) können bis zum 31. Dezember 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers oder der Prüfungsteilnehmerin die Wiederholungsprüfung auch nach dieser Verordnung durchführen; § 14 Absatz 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2014 die Anwendung der bisherigen Vorschriften vereinbart werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Diese Verordnung tritt am 1. April 2011 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2169 - 2170)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 15)Zeugnisinhalte
+# Anlage 2 – (zu § 15)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2170 -2171)
 

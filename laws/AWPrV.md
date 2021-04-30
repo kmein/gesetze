@@ -1,20 +1,15 @@
-# [AWPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Außenwirtschaft und Geprüfte Fachwirtin für Außenwirtschaft  (Außenwirtschaftsfachwirtprüfungsverordnung - AWPrV)
-
-Ausfertigungsdatum: 05.06.2017
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Außenwirtschaft und Geprüfte Fachwirtin für Außenwirtschaft  (Außenwirtschaftsfachwirtprüfungsverordnung - AWPrV)
+% Ausfertigungsdatum: 05.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 zuletzt durch Artikel 436 Nummer 4 Buchstabe a der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Außenwirtschaft und Geprüfte Fachwirtin für Außenwirtschaft.
 
-
-## § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Außenwirtschaft und Geprüfte Fachwirtin für Außenwirtschaft soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -46,8 +41,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Außenwirtschaft oder Geprüfte Fachwirtin für Außenwirtschaft.
 
-
-## § 3 – Voraussetzung für die Zulassung zur Prüfung
+# § 3 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -65,8 +59,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -78,8 +71,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 4. Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen.
 
-
-## § 5 – Handlungsbereich „International Business Management umsetzen“
+# § 5 – Handlungsbereich „International Business Management umsetzen“
 
 (1) Im Handlungsbereich „International Business Management umsetzen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, zu prüfen, ob das Unternehmen geeignet ist, internationale Geschäfte zu tätigen und eine Unternehmensstrategie zu entwickeln. Dabei soll die Fähigkeit nachgewiesen werden, globalwirtschaftliche Zusammenhänge zu erkennen, Marktentwicklungen zu identifizieren, sich auf verändernde Markterfordernisse einzustellen, Auswirkungen wirtschaftspolitischer Maßnahmen auf das Unternehmen zu beurteilen und den Wandel im Unternehmen mitzugestalten und zu fördern. Unternehmensziele und -strategien sollen unter Beachtung wirtschaftlicher und rechtlicher Rahmenbedingungen sowie unter Beachtung der Aspekte der Qualitätsoptimierung und der Nachhaltigkeit umgesetzt, evaluiert und kommuniziert werden. Die zu prüfende Person soll Strategien zur Stärkung der globalen Marktposition des Unternehmens entwickeln und unter Anwendung des Projektmanagements die Umsetzung der Strategien vorbereiten. Hierfür sollen unternehmerische Entscheidungen vorbereitet werden.
 
@@ -99,8 +91,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Handlungsbereich „Risk- und Changemanagement sicherstellen“
+# § 6 – Handlungsbereich „Risk- und Changemanagement sicherstellen“
 
 (1) Im Handlungsbereich „Risk- und Changemanagement sicherstellen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, außenwirtschaftliche Geschäftsprozesse mithilfe des Qualitätsmanagements zu analysieren und mitzugestalten sowie Teilprozesse zu steuern. Dabei sollen die strategischen und betrieblichen Interessen des Unternehmens sowie die volkswirtschaftlichen und rechtlichen Rahmenbedingungen berücksichtigt werden. Die zu prüfende Person soll die globalen wirtschaftlichen, politischen und ethischen Risiken erkennen und Gegenmaßnahmen entwickeln. Darüber hinaus soll sie Veränderungen und Trends bei Außenwirtschaftsgeschäften rechtzeitig erkennen und notwendige Maßnahmen einleiten.
 
@@ -122,8 +113,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Handlungsbereich „Außenhandelsgeschäfte durchführen“
+# § 7 – Handlungsbereich „Außenhandelsgeschäfte durchführen“
 
 (1) Im Handlungsbereich „Außenhandelsgeschäfte durchführen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Außenhandelsgeschäfte eigenständig anzubahnen und abzuwickeln sowie die bestehenden Rahmenbedingungen regelmäßig zu überprüfen und zu berücksichtigen. Dabei sollen die unternehmensspezifischen Entscheidungen für ein außenwirtschaftliches Handeln vorbereitet und die daraus resultierenden Maßnahmen umgesetzt werden. Dies beinhaltet die Prüfung der Rentabilität, der Finanzierungsmöglichkeiten und der Zahlungsbedingungen sowie der außenwirtschaftsrechtlichen und logistischen Durchführbarkeit, darüber hinaus die frühzeitige Ermittlung von Störfaktoren und die Einleitung notwendiger Gegenmaßnahmen unter Berücksichtigung der Unternehmensstrategie.
 
@@ -141,8 +131,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“
+# § 8 – Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“
 
 (1) Im Handlungsbereich „Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, zielorientiert mit Mitarbeitern und Mitarbeiterinnen, Auszubildenden, Geschäftspartnern sowie mit Kunden zu kommunizieren und zu kooperieren, Methoden der Kommunikation und des Konfliktmanagements situationsgerecht einzusetzen, ethische Grundsätze zu berücksichtigen und Mitarbeiter und Mitarbeiterinnen, Auszubildende und Projektgruppen unter Beachtung der rechtlichen und betrieblichen Rahmenbedingungen und der Unternehmensziele zu führen und zu motivieren.
 
@@ -164,15 +153,13 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Durchführung der Prüfung
+# § 9 – Durchführung der Prüfung
 
 (1) Die Prüfung besteht aus einer selbständigen schriftlichen Prüfung und einer selbständigen mündlichen Prüfung.
 
 (2) Das Prüfungsverfahren ist innerhalb von zwei Jahren, beginnend mit dem Tag der ersten Prüfungsleistung, abzuschließen.
 
-
-## § 10 – Schriftliche Prüfung
+# § 10 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung wird auf der Grundlage einer Beschreibung einer betrieblichen Situation durchgeführt.
 
@@ -186,8 +173,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Mündliche Prüfung
+# § 11 – Mündliche Prüfung
 
 (1) Zur mündlichen Prüfung wird nur zugelassen, wer die schriftliche Prüfung abgelegt hat.
 
@@ -204,15 +190,13 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)  
 § 11 Abs. 6 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde von der Änderungsanweisung dahingehend abgewichen, dass anstelle der Wörter "Der Prüfungsteilnehmer oder die Prüfungsteilnehmerin" die Wörter "der Prüfungsteilnehmer oder die Prüfungsteilnehmerin" durch die Wörter "die zu prüfende Person" ersetzt wurden
 
-
-## § 12 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 12 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 13 und 14 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 13 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder § 14 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Bewerten der Prüfungsleistungen
+# § 13 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -232,8 +216,7 @@ Aus den einzelnen Bewertungen wird als Bewertung der mündlichen Prüfung das ge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Bestehen der Prüfung, Gesamtnote
+# § 14 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -251,8 +234,7 @@ Aus den einzelnen Bewertungen wird als Bewertung der mündlichen Prüfung das ge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Zeugnisse
+# § 15 – Zeugnisse
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -266,8 +248,7 @@ Aus den einzelnen Bewertungen wird als Bewertung der mündlichen Prüfung das ge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Wiederholung
+# § 16 – Wiederholung
 
 (1) Die nicht bestandene schriftliche Prüfung oder die nicht bestandene mündliche Prüfung kann jeweils zweimal wiederholt werden.
 
@@ -277,15 +258,13 @@ Aus den einzelnen Bewertungen wird als Bewertung der mündlichen Prüfung das ge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Ausbildereignung
+# § 17 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung nach der Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Vor Ablauf des 30. September 2017 angemeldete Prüfungen nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann für Außenwirtschaft/Geprüfte Fachkauffrau für Außenwirtschaft vom 19. Juli 2005 (BGBl. I S. 2191; 2015 I S. 2008), die durch Artikel 57 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, werden bis zum 31. Juli 2020 nach den bisherigen Vorschriften zu Ende geführt.
 
@@ -295,15 +274,13 @@ Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Tei
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 19 – Inkrafttreten, Außerkrafttreten
+# § 19 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann für Außenwirtschaft/Geprüfte Fachkauffrau für Außenwirtschaft vom 19. Juli 2005 (BGBl. I S. 2191; 2015 I S. 2008), die durch Artikel 57 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 13 und 14)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2428 – 2429)
 
@@ -312,8 +289,7 @@ Diese Verordnung tritt am 1. Oktober 2017 in Kraft. Gleichzeitig tritt die Veror
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 15)Zeugnisinhalte
+# Anlage 2 – (zu § 15)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2430)
 

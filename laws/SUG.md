@@ -1,10 +1,7 @@
-# [SUG] Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchung von Seeunfällen und anderen Vorkommnissen  (Seesicherheits-Untersuchungs-Gesetz - SUG)
-
-Ausfertigungsdatum: 16.06.2002
-
+% Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchung von Seeunfällen und anderen Vorkommnissen  (Seesicherheits-Untersuchungs-Gesetz - SUG)
+% Ausfertigungsdatum: 16.06.2002
  
-
-## § 1 – Zielsetzung und Geltungsbereich des Gesetzes
+# § 1 – Zielsetzung und Geltungsbereich des Gesetzes
 
 (1) Dieses Gesetz dient dazu, die Vorsorge für die Sicherheit der Seefahrt einschließlich des damit untrennbar im Zusammenhang stehenden Arbeitsschutzes von Beschäftigten auf Seeschiffen und des Umweltschutzes auf See durch Untersuchung von Seeunfällen oder sonstigen Vorkommnissen im Seeverkehr (Seeunfällen) unter Einhaltung der darauf bezogenen geltenden internationalen Untersuchungsregelungen zu verbessern.
 
@@ -30,8 +27,7 @@ Im Übrigen wird für die Sicherheitsuntersuchung von Seeunfällen, an denen ein
 
 Eine Sicherheitsuntersuchung im Sinne des Satzes 1 unterbleibt, soweit sie nicht durchführbar ist oder Anhaltspunkte dafür gegeben sind, dass die Untersuchung nicht durchführbar sein könnte.
 
-
-## § 1a – Begriffsbestimmungen
+# § 1a – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -93,23 +89,19 @@ f) der über wichtige Informationen verfügt, die für die Sicherheitsuntersuchu
 
 g) der aus einem anderen Grund ein Interesse geltend machen kann, das von dem bei der Sicherheitsuntersuchung federführenden Staat als bedeutend angesehen wird.
 
-
-## § 2 – Seefahrtbezogene internationale Untersuchungsregelungen
+# § 2 – Seefahrtbezogene internationale Untersuchungsregelungen
 
 Seefahrtbezogene internationale Untersuchungsregelungen im Sinne dieses Gesetzes sind die in den Buchstaben A, C und D der Anlage aufgeführten Vorschriften des innerstaatlich geltenden Völkerrechts und die in den Buchstaben B und E der Anlage aufgeführten Vorschriften in Rechtsakten der Europäischen Gemeinschaft in der jeweils angegebenen Fassung.
 
-
-## § 3 – Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften
+# § 3 – Behördliche Aufgaben auf Grund von Rechtsakten der Europäischen Gemeinschaften
 
 Im Rahmen ihrer Zuständigkeiten nach diesem Gesetz haben die darin genannten Behörden des Bundes jeweils die Überprüfungs-, Gestaltungs- und Eingriffsbefugnisse, -aufgaben und -pflichten, die die in Buchstaben B und E der Anlage genannten Einzelregelungen den Mitgliedstaaten zur Verwaltung oder ihren Verwaltungsbehörden für einen Fall vorbehalten oder zuweisen.
 
-
-## § 4 – Sachlicher Geltungsbereich des Abschnitts 2
+# § 4 – Sachlicher Geltungsbereich des Abschnitts 2
 
 Dieser Abschnitt gilt für Untersuchungen durch Ermittlung und Auswertung der Ursachen von im Schiffsbetrieb auftretenden Seeunfällen seitens nachstehend bestimmter verantwortlicher Personen in der Seefahrt sowie für organisatorische Maßnahmen dieser Personen.
 
-
-## § 5 – Organisatorische Maßnahmen für Untersuchungen
+# § 5 – Organisatorische Maßnahmen für Untersuchungen
 
 Der Eigentümer eines Schiffes unter der Bundesflagge hat dafür zu sorgen, dass
 
@@ -127,23 +119,19 @@ Sorge zu tragen.
 
 § 9 des Schiffssicherheitsgesetzes gilt in Bezug auf den Eigentümer entsprechend.
 
-
-## § 6 – Anpassung betrieblicher Sicherheitskonzepte
+# § 6 – Anpassung betrieblicher Sicherheitskonzepte
 
 Die Seeunfälle im Sinne von § 4 sind nach Maßgabe des Schiffssicherheitsgesetzes und der darin aufgeführten internationalen Schiffssicherheitsregelungen sowie der Schiffssicherheitsverordnung auf Veranlassung der beim Betrieb eines Schiffes nach dem Schiffssicherheitsgesetz für die Sicherheitsorganisation Verantwortlichen unverzüglich zu analysieren und zu untersuchen mit dem Ziel, das Konzept des Unternehmens für die Organisation von Sicherheitsanforderungen zur Gewährleistung eines sicheren Schiffsbetriebs und die Verhütung der Meeresverschmutzung nach Maßgabe der Ergebnisse der Untersuchung anzupassen.
 
-
-## § 7 – Verbesserung der Vorschriften von Klassifikationsgesellschaften
+# § 7 – Verbesserung der Vorschriften von Klassifikationsgesellschaften
 
 Liegen einer Zeugniserteilung durch eine deutsche Behörde eigene Vorschriften einer nach Maßgabe der Verordnung (EG) Nr. 391/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über gemeinsame Vorschriften und Normen für Schiffsüberprüfungs- und -besichtigungsorganisationen (ABl. L 131 vom 28.5.2009, S. 11) in der jeweils geltenden Fassung anerkannten Klassifikationsgesellschaft zugrunde, die hierzu eine Besichtigung des Schiffes durchgeführt hat, so hat die Klassifikationsgesellschaft nach einem ihr bekannt gewordenen Seeunfall im Sinne des § 4, der den Schiffskörper, die Maschinen, die Elektroeinrichtungen oder die Steuer-, Regel- und Überwachungseinrichtungen dieses Schiffes betrifft, intern zu untersuchen, ob durch Verbesserung ihrer eigenen Vorschriften Sicherheitsmängel beseitigt oder verhindert werden können.
 
-
-## § 8 – Unterrichtung von Klassifikationsgesellschaften
+# § 8 – Unterrichtung von Klassifikationsgesellschaften
 
 Die beim Betrieb eines Schiffes nach dem Schiffssicherheitsgesetz für die Sicherheitsorganisation Verantwortlichen haben dafür zu sorgen, dass die in § 7 genannte Klassifikationsgesellschaft nach einem Seeunfall im Sinne von § 4 unverzüglich hinsichtlich aller für die Mitwirkung der Klassifikationsgesellschaft in Bezug auf die Zeugniserteilung bedeutsamen technischen Gefahrumstände unterrichtet wird.
 
-
-## § 9 – Zielsetzung und sachlicher Geltungsbereich des Abschnitts 3
+# § 9 – Zielsetzung und sachlicher Geltungsbereich des Abschnitts 3
 
 (1) Dieser Abschnitt gilt für die amtliche Untersuchung von Seeunfällen zur Sicherheitskultur des internationalen und nationalen Seesicherheitssystems sowie für die Verarbeitung personenbezogener Daten, die in diesem Zusammenhang anfallen.
 
@@ -163,13 +151,11 @@ c) der Faktoren, die den Seeunfall begünstigt haben – einschließlich von Sch
 
 Sie dient weder der Ermittlung von Tatsachen zum Zwecke der Zurechnung von Fehlern, um Nachteile für Einzelne herbeizuführen, noch dient sie der Feststellung von Verschulden, Haftung oder Ansprüchen. Jedoch sollte sie nicht deshalb von der uneingeschränkten Darstellung der Ursachen absehen, weil aus den Untersuchungsergebnissen Rückschlüsse auf ein schuldhaftes Verhalten oder auf eine haftungsrechtliche Verantwortlichkeit gezogen werden könnten.
 
-
-## § 10 – Internationale Untersuchungsregelungen im Sinne des Abschnitts 3
+# § 10 – Internationale Untersuchungsregelungen im Sinne des Abschnitts 3
 
 Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach den Buchstaben A bis C der Anlage geschieht, soweit dieses Gesetz betroffen ist, im Rahmen dieses Abschnitts.
 
-
-## § 11 – Entscheidung über die Durchführung der Sicherheitsuntersuchung nach Abschnitt 3
+# § 11 – Entscheidung über die Durchführung der Sicherheitsuntersuchung nach Abschnitt 3
 
 (1) Über die Durchführung einer Sicherheitsuntersuchung entscheidet der Direktor der Bundesstelle für Seeunfalluntersuchung oder im Falle seiner Verhinderung sein Stellvertreter nach Maßgabe der Absätze 2 bis 4.
 
@@ -187,8 +173,7 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (5) Eine Sicherheitsuntersuchung wird unverzüglich, jedoch nicht später als zwei Monate nach Kenntnis der Bundesstelle für Seeunfalluntersuchung vom Eintritt eines Seeunfalls eingeleitet.
 
-
-## § 12 – Bundesstelle für Seeunfalluntersuchung
+# § 12 – Bundesstelle für Seeunfalluntersuchung
 
 (1) Die Bundesstelle für Seeunfalluntersuchung (Bundesstelle) ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur. Ihr obliegt die amtliche Sicherheitsuntersuchung von Seeunfällen nach diesem Abschnitt. Die Bundesstelle wird von einem Direktor geleitet und im Übrigen mit Beamten und Beamtinnen sowie Tarifbeschäftigten in erforderlicher Anzahl besetzt.
 
@@ -202,8 +187,7 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (6) Der Direktor der Bundesstelle und die Untersuchungsführer müssen über umfassende technische und betriebliche Kenntnisse und Erfahrungen auf dem Gebiet des Seefahrtwesens verfügen sowie für die Befähigung zur Leitung einer umfangreichen Unfalluntersuchung ausreichend geschult sein. Die Bundesstelle hat dafür Sorge zu tragen, die fachlichen Fähigkeiten und Kenntnisse der Untersuchungsführer, der Untersuchungsfachkräfte und der weiteren Fachkräfte zu erhalten und der Entwicklung anzupassen.
 
-
-## § 13 – Verwaltungs- und Amtshilfe
+# § 13 – Verwaltungs- und Amtshilfe
 
 (1) Die Bundesstelle arbeitet mit der Bundesstelle für Flugunfalluntersuchung zusammen, soweit dies – insbesondere aus wirtschaftlichen oder technischen Gründen – zweckmäßig erscheint.
 
@@ -213,8 +197,7 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (4) Die sonstigen Vorschriften und Grundsätze für die Verwaltungs- und Amtshilfe bleiben unberührt.
 
-
-## § 14 – Unterrichtung ausländischer Staaten und der Internationalen Seeschifffahrts-Organisation (IMO)
+# § 14 – Unterrichtung ausländischer Staaten und der Internationalen Seeschifffahrts-Organisation (IMO)
 
 Ereignet sich ein Seeunfall im Sinne des Artikels 94 Absatz 7 oder des Artikels 221 Absatz 2 des Seerechtsübereinkommens (BGBl. 1994 II S. 1798) im deutschen Hoheitsgebiet oder ist außerhalb desselben ein Schiff unter der Bundesflagge an einem solchen Seeunfall beteiligt, so unterrichtet die Bundesstelle unverzüglich
 
@@ -224,11 +207,9 @@ Ereignet sich ein Seeunfall im Sinne des Artikels 94 Absatz 7 oder des Artikels 
 
 3. nach Maßgabe des IMO-Codes für die Untersuchung von Unfällen und Vorkommnissen auf See (Verkehrsblatt 2000 S. 128, Anlagenband B 8124 S. 21) die Internationale Seeschifffahrts-Organisation.
 
+# § 15 – (weggefallen)
 
-## § 15 – (weggefallen)
-
-
-## § 16 – Benennung des für die Sicherheitsuntersuchung federführenden Staates
+# § 16 – Benennung des für die Sicherheitsuntersuchung federführenden Staates
 
 (1) Hat die Bundesstelle wegen eines Seeunfalls ein Untersuchungsverfahren eingeleitet, an dem auch ein anderer Staat ein begründetes Interesse hat, so werden auf Ersuchen dieses Staates im gegenseitigen Einvernehmen benannt
 
@@ -246,15 +227,13 @@ Eine von der Bundesstelle eingeleitete Sicherheitsuntersuchung kann fortgeführt
 
 (5) Ist ein Ro-Ro-Fahrgastschiff oder Fahrgasthochgeschwindigkeitsfahrzeug an einem Seeunfall im deutschen Küstenmeer oder in den deutschen inneren Gewässern im Sinne des Seerechtsübereinkommens beteiligt, leitet die Bundesstelle die Sicherheitsuntersuchung ein. Dies gilt auch für einen Seeunfall in anderen Gewässern, sofern das Fahrzeug zuletzt in deutschen Hoheitsgewässern verkehrt ist.Die Bundesstelle ist für die Sicherheitsuntersuchung und die Koordinierung mit den Untersuchungsstellen anderer Staaten mit begründetem Interesse zuständig, bis eine Einigung darüber zustande gekommen ist, welcher Staat federführend für die Sicherheitsuntersuchung sein soll.
 
-
-## § 17 – Teilnahme an Sicherheitsuntersuchungen anderer Staaten
+# § 17 – Teilnahme an Sicherheitsuntersuchungen anderer Staaten
 
 (1) Wird wegen eines Seeunfalls bereits eine Sicherheitsuntersuchung durch einen Mitgliedstaat der Europäischen Union oder unter Federführung eines Mitgliedstaates der Europäischen Union unter Mitwirkung eines anderen Mitgliedstaates der Europäischen Union mit begründetem Interesse durchgeführt, führt die Bundesstelle wegen desselben Seeunfalls keine gleichzeitige Sicherheitsuntersuchung durch, sondern beteiligt sich an dem anderen Untersuchungsverfahren, soweit ein begründetes deutsches Interesse vorliegt. In begründeten Einzelfällen kann die Bundesstelle abweichend von Satz 1 eigene gleichzeitige Sicherheitsuntersuchungen durchführen. Sie unterrichtet hierüber das Bundesministerium für Verkehr und digitale Infrastruktur unter Angabe der Gründe. Bei eigenen gleichzeitigen Sicherheitsuntersuchungen arbeitet sie eng mit den Untersuchungsstellen der anderen Mitgliedstaaten der Europäischen Union zusammen. Um so weit wie möglich gemeinsame Schlussfolgerungen zu erzielen, tauscht sie die bei ihren Sicherheitsuntersuchungen gesammelten Informationen in dem für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 erforderlichen Umfang nach Maßgabe der datenschutzrechtlichen Vorschriften aus, soweit in diesem Gesetz nicht etwas anderes bestimmt ist.
 
 (2) Erfolgt die Sicherheitsuntersuchung unter Leitung oder Federführung eines Staates mit begründetem Interesse, der nicht Mitgliedstaat der Europäischen Union ist (Drittland), arbeitet die Bundesstelle so weit wie möglich mit diesem zusammen. Absatz 1 Satz 5 gilt entsprechend. Die Bundesstelle kann von der Einleitung einer eigenen, gleichzeitig stattfindenden Sicherheitsuntersuchung absehen, sofern die Beteiligung der Bundesstelle sichergestellt ist und die Sicherheitsuntersuchung gemäß dem IMO-Code für die Sicherheitsuntersuchung von Seeunfällen und Vorkommnissen auf See (Seeunfall-Untersuchungs-Code) (VkBl. 2000 S. 128, Anlagenband B 8124 S. 21) durchgeführt wird.
 
-
-## § 18 – Hilfeleistungen im Rahmen der Zusammenarbeit
+# § 18 – Hilfeleistungen im Rahmen der Zusammenarbeit
 
 (1) Die Bundesstelle kann bei Bedarf die zuständigen Stellen anderer Staaten darum ersuchen, ihr
 
@@ -272,15 +251,13 @@ zur Verfügung zu stellen.
 
 (2) Die Bundesstelle kann anderen Staaten auf deren Ersuchen die in Absatz 1 bezeichnete Hilfe gewähren. Sie wird auf der Grundlage der Gegenseitigkeit kostenlos gewährt. Bittet die Bundesstelle einen Staat, der nicht an der Sicherheitsuntersuchung beteiligt ist, um Unterstützung, übernimmt sie die Erstattung der diesem anfallenden Kosten.
 
-
-## § 19 – Untersuchungsstatus
+# § 19 – Untersuchungsstatus
 
 (1) Die Sicherheitsuntersuchung durch die Bundesstelle hat grundsätzlich Vorrang vor allen anderen fachlich-technischen Untersuchungen für andere als die in § 9 Absatz 2 genannten Ziele und Zwecke. Die Befugnisse der Strafverfolgungsbehörden und der zur Strafverfolgung berufenen Gerichte bleiben unberührt.
 
 (2) Überschneidungen mit anders gerichteten Interessen im Einzelfall sind durch zielgerichtete und zweckmäßige Zusammenarbeit der Bundesstelle mit anderen beteiligten Behörden zu vermeiden.
 
-
-## § 20 – Untersuchungsverfahren
+# § 20 – Untersuchungsverfahren
 
 (1) Das Untersuchungsverfahren umfasst die gesamte Tätigkeit der Bundesstelle, die auf die Ermittlung der ursächlichen Zusammenhänge eines Seeunfalls sowie auf die Feststellung der dafür maßgebenden Ursachen gerichtet ist. Es endet mit der Zusammenfassung der Ergebnisse der Sicherheitsuntersuchung in einem Untersuchungsbericht und dessen Veröffentlichung. Der Untersuchungsbericht nach Satz 2 enthält keine personenbezogenen Daten.
 
@@ -290,15 +267,13 @@ zur Verfügung zu stellen.
 
 (4) Die Bundesstelle berücksichtigt bei ihren Untersuchungen die internationalen seefahrtbezogenen Untersuchungsregelungen nach Buchstabe C der Anlage, insbesondere die Leitlinien der Internationalen Seeschifffahrtsorganisation (IMO) über die faire Behandlung von Seeleuten bei einem Unfall auf See (VkBl. 2010 S. 506).
 
-
-## § 21 – Einleitung der Sicherheitsuntersuchung
+# § 21 – Einleitung der Sicherheitsuntersuchung
 
 (1) Der Direktor der Bundesstelle oder im Falle seiner Verhinderung sein Stellvertreter bestimmt für jeden zu untersuchenden Seeunfall einen Untersuchungsführer, der die Sicherheitsuntersuchung leitet.
 
 (2) Der Untersuchungsführer trifft unverzüglich die zur Erfüllung des Untersuchungszwecks notwendigen Maßnahmen.
 
-
-## § 22 – Untersuchungsbefugnisse
+# § 22 – Untersuchungsbefugnisse
 
 (1) Der Untersuchungsführer sowie die Untersuchungsfachkräfte und die Beauftragten für Seeunfalluntersuchung, jeweils nach Weisung des Untersuchungsführers, sind zur Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 im Benehmen mit der örtlich zuständigen Strafverfolgungsbehörde befugt, alle erforderlichen Anordnungen und Maßnahmen zu ergreifen. Hierzu gehören insbesondere
 
@@ -334,8 +309,7 @@ zur Verfügung zu stellen.
 
 (5) Widerspruch und Anfechtungsklage gegen Anordnungen der Bundesstelle im Rahmen der Sicherheitsuntersuchungen haben keine aufschiebende Wirkung.
 
-
-## § 23 – Unfallort
+# § 23 – Unfallort
 
 (1) Die Bundesstelle entscheidet nach einem Seeunfall in deutschen Hoheitsgewässern oder in der deutschen ausschließlichen Wirtschaftszone im Benehmen mit der zuständigen Strafverfolgungsbehörde über Zutrittsrechte Dritter zu einem Schiff oder Wrack (Unfallort).
 
@@ -349,8 +323,7 @@ zur Verfügung zu stellen.
 
 3. die Bergung von und Erste-Hilfe-Maßnahmen an Verletzten möglichst unter gleichzeitiger schriftlicher und bildlicher Dokumentierung ihrer Lage am Unfallort oder im Verhältnis zum Unfallort.
 
-
-## § 24 – Teilnehmer am Untersuchungsverfahren
+# § 24 – Teilnehmer am Untersuchungsverfahren
 
 (1) Am Untersuchungsverfahren nimmt bei begründetem Interesse und auf ihr Verlangen je ein bevollmächtigter Vertreter anderer Staaten teil (Teilnehmer), und zwar insbesondere
 
@@ -390,8 +363,7 @@ zur Verfügung zu stellen.
 
 (8) Soweit die in den Absätzen 1 bis 7 genannten Personen nach Maßgabe des Absatzes 2 Zugang zu personenbezogenen Daten erhalten, gilt § 35 Absatz 5 entsprechend.
 
-
-## § 25 – Besorgnis der Befangenheit
+# § 25 – Besorgnis der Befangenheit
 
 Liegt ein Grund vor, der geeignet ist, Misstrauen gegen die unparteiische Ausübung der Tätigkeit einer an der Sicherheitsuntersuchung beteiligten Person zu rechtfertigen, oder wird von einem Betroffenen das Vorliegen eines solchen Grundes behauptet (Besorgnis der Befangenheit), so hat die betreffende Person
 
@@ -403,8 +375,7 @@ Liegt ein Grund vor, der geeignet ist, Misstrauen gegen die unparteiische Ausüb
 
 Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft die Besorgnis der Befangenheit den Direktor der Bundesstelle oder seinen Vertreter, so trifft das Bundesministerium für Verkehr und digitale Infrastruktur die erforderlichen Anordnungen.
 
-
-## § 26 – Nachweismittel
+# § 26 – Nachweismittel
 
 (1) Der Untersuchungsführer und die Untersuchungsfachkräfte bedienen sich aller für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 erforderlichen, zur Verfügung stehenden Mittel zum Nachweis der Unfallursachen (Nachweismittel). Sie dürfen nach Maßgabe des Satzes 1 insbesondere
 
@@ -420,8 +391,7 @@ Bereits vorgenommene Untersuchungshandlungen bleiben wirksam. Betrifft die Besor
 
 (4) Zeugen und Sachverständige sind auf Antrag nach Maßgabe des Justizvergütungs- und -entschädigungsgesetzes zu entschädigen.
 
-
-## § 27 – Untersuchungsbericht
+# § 27 – Untersuchungsbericht
 
 (1) Zu jeder Sicherheitsuntersuchung wird ein Untersuchungsbericht der Bundesstelle in einer der Art und Schwere des Seeunfalls angemessenen Form verfasst. Dieser Untersuchungsbericht verweist auf den ausschließlichen Untersuchungszweck nach § 9 Absatz 2.
 
@@ -467,8 +437,7 @@ Bei Seeunfällen mit tödlichem Ausgang sind auch der Ehegatte oder Lebenspartne
 
 (5) Seeunfälle, deren Untersuchungsergebnisse nicht von besonderer Bedeutung für die Sicherheit des Seeverkehrs sind, werden mit einem summarischen Untersuchungsbericht abgeschlossen. Der summarische Untersuchungsbericht gibt lediglich Auskunft über die an dem Seeunfall beteiligten Schiffe und den Unfallhergang. Er kann eine überschlägige Bewertung des Seeunfalls enthalten. Eine Gelegenheit zur Stellungnahme wird in diesem Fall nicht gegeben.
 
-
-## § 28 – Veröffentlichung des Untersuchungsberichts
+# § 28 – Veröffentlichung des Untersuchungsberichts
 
 (1) Die Bundesstelle veröffentlicht den endgültigen Untersuchungsbericht spätestens zwölf Monate nach dem Seeunfall. Ist es im Falle eines sehr schweren Seeunfalls oder eines schweren Seeunfalls, der unter den Anwendungsbereich der Richtlinie 2009/18/EG fällt, der Bundesstelle nicht möglich, den endgültigen Untersuchungsbericht innerhalb der in Satz 1 genannten Frist zu verfassen, veröffentlicht die Bundesstelle innerhalb dieser Frist einen Untersuchungszwischenbericht.
 
@@ -486,8 +455,7 @@ Zeitgleich erfolgt die Veröffentlichung des Untersuchungsberichts durch Bekannt
 
 (4) Bei Seeunfällen, die sich im Anwendungsbereich der Richtlinie 2009/18/EG ereignet haben, berücksichtigt die Bundesstelle mögliche technische Anmerkungen der Europäischen Kommission zu den nach Absatz 2 übersandten Untersuchungsberichten, die den Inhalt der Ergebnisse nicht beeinflussen, im Hinblick auf die Verbesserung der Qualität des Untersuchungsberichts.
 
-
-## § 29 – Sicherheitsempfehlungen
+# § 29 – Sicherheitsempfehlungen
 
 (1) Sicherheitsempfehlungen werden vom Direktor der Bundesstelle herausgegeben. Die Sicherheitsempfehlungen sind an die Stellen zu richten, die sie in geeignete Maßnahmen umsetzen können. Stellen in diesem Sinne können im Rahmen der Sicherheitsvorsorge nach § 3 des Schiffssicherheitsgesetzes auch einzelne Personen, Unternehmen oder Verbände sein.
 
@@ -499,20 +467,17 @@ Zeitgleich erfolgt die Veröffentlichung des Untersuchungsberichts durch Bekannt
 
 (5) Die in Absatz 1 bezeichneten Stellen berichten der Bundesstelle innerhalb einer von dieser gesetzten angemessenen Frist über die zur Umsetzung der Sicherheitsempfehlung getroffenen oder geplanten geeigneten Maßnahmen.
 
-
-## § 30 – Ausländische Untersuchungsberichte
+# § 30 – Ausländische Untersuchungsberichte
 
 (1) Ausländische Untersuchungsberichte und deren Entwürfe, Teile davon und Dokumente, die die Bundesstelle auf Grund ihrer Beteiligung an einer Sicherheitsuntersuchung erhält, dürfen ohne die ausdrückliche Zustimmung der ausländischen Untersuchungsbehörde nicht veröffentlicht oder Dritten zugänglich gemacht werden, es sei denn, die ausländische Untersuchungsbehörde hat diese Unterlagen bereits veröffentlicht oder freigegeben. § 27 Absatz 2 Satz 2 gilt entsprechend.
 
 (2) Die Bundesstelle ist zur Veröffentlichung ausländischer Untersuchungsberichte nicht verpflichtet. Im Falle einer Veröffentlichung ist § 28 Absatz 2 Satz 1 entsprechend anzuwenden, sofern dies nicht bereits durch den ausländischen Staat erfolgt ist.
 
-
-## § 31 – Wiederaufnahme eines Untersuchungsverfahrens
+# § 31 – Wiederaufnahme eines Untersuchungsverfahrens
 
 Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts wesentliche neue Tatsachen bekannt, nimmt die Bundesstelle von Amts wegen oder auf Antrag bevollmächtigter Vertreter nach § 24 Absatz 1 oder der in § 27 Absatz 3 Satz 2 und 3, auch in Verbindung mit Satz 4, genannten Personen und Stellen das Verfahren wieder auf. Der Antrag kann frühestens nach Ablauf von sechs Monaten nach der Veröffentlichung des Untersuchungsberichts gestellt werden. Gegen die Ablehnung eines Antrags auf Wiederaufnahme kann innerhalb von 30 Tagen Beschwerde an das für den Sitz der Bundesstelle zuständige Oberverwaltungsgericht erhoben werden; sein Spruch ist unanfechtbar.
 
-
-## § 32 – Zuständigkeit
+# § 32 – Zuständigkeit
 
 (1) Bei Seeunfällen von besonderer Bedeutung und Schwere, deren Sicherheitsuntersuchung nach Art und Umfang das übliche Maß überschritten hat und bei denen die Auswertung und Kombination der Ergebnisse der verschiedenen Untersuchungshandlungen nicht ohne Schwierigkeiten zu einem offensichtlich eindeutigen Ergebnis führen können, setzt die Bundesstelle nach der Anhörung der in § 27 Absatz 3 genannten Personen eine Untersuchungskammer ein.
 
@@ -524,8 +489,7 @@ Werden innerhalb von zehn Jahren nach Fertigstellung des Untersuchungsberichts w
 
 (5) Die Untersuchungskammer ordnet und verteilt ihre Aufgaben in eigener Verantwortung auf ihre Mitglieder. Sie tritt jedoch nach außen nur als die Untersuchungskammer auf.
 
-
-## § 33 – Verarbeitung
+# § 33 – Verarbeitung
 
 (1) Die Bundesstelle, die Untersuchungsbefugten nach den §§ 22 und 32 sowie die Teilnehmer nach § 24 Absatz 1 dürfen im Rahmen ihrer Befugnisse nach den §§ 22 und 26 personenbezogene Daten aller an dem Seeunfall beteiligten oder von einem Seeunfall betroffenen Personen sowie von Zeugen und anderen Personen, die im Rahmen der Sicherheitsuntersuchung über den Seeunfall Aussagen machen, verarbeiten, soweit dies für die Erfüllung des Untersuchungsauftrags nach § 9 Absatz 2 erforderlich ist. Ebenso stellen sie die beteiligten Schiffe mit identifizierenden Schiffs- und Betreiberdaten sowie die relevanten Daten der an Bord befindlichen Passagiere und Ladung fest.
 
@@ -551,8 +515,7 @@ Im Falle der an Bord befindlichen Passagiere werden nur die Daten nach Satz 1 Nu
 
 (4) (weggefallen)
 
-
-## § 34 – Vertraulichkeit
+# § 34 – Vertraulichkeit
 
 (1) Die Bundesstelle darf vorbehaltlich des § 35 die nachstehenden Informationen und Daten zu keinem anderen Zweck als dem einer Sicherheitsuntersuchung im Sinne dieses Abschnitts freigeben:
 
@@ -568,8 +531,7 @@ Im Falle der an Bord befindlichen Passagiere werden nur die Daten nach Satz 1 Nu
 
 (4) Aussagen einer Person im Rahmen einer Sicherheitsuntersuchung nach diesem Abschnitt dürfen nicht zu Lasten des Aussagenden verwertet werden.
 
-
-## § 35 – Übermittlung an öffentliche Stellen
+# § 35 – Übermittlung an öffentliche Stellen
 
 (1) Eine Übermittlung der in § 34 Absatz 1 bezeichneten Informationen und Daten an öffentliche Stellen ist zulässig, soweit im öffentlichen Interesse die Übermittlung für
 
@@ -587,8 +549,7 @@ Im Falle der an Bord befindlichen Passagiere werden nur die Daten nach Satz 1 Nu
 
 (5) Die Bundesstelle darf Daten im Sinne des § 33 zu den in Absatz 1 Satz 1 genannten Zwecken an die in § 14 genannten Stellen übermitteln, soweit dies jeweils zur Erfüllung der in der Zuständigkeit der empfangenden Stellen liegenden Aufgaben erforderlich ist, schutzwürdige Interessen einer betroffenen Person nicht beeinträchtigt werden und bei den in § 14 genannten Stellen ein angemessenes Datenschutzniveau gewährleistet ist. Der Empfänger ist darauf hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen, zu dessen Erfüllung sie ihm übermittelt worden sind.
 
-
-## § 36 – Aufbewahrungs- und Löschungsfristen
+# § 36 – Aufbewahrungs- und Löschungsfristen
 
 (1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit tödlichem Ausgang 30 Jahre. Alle anderen Akten werden 20 Jahre aufbewahrt.
 
@@ -596,8 +557,7 @@ Im Falle der an Bord befindlichen Passagiere werden nur die Daten nach Satz 1 Nu
 
 (3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluss der jeweiligen Sicherheitsuntersuchung. § 187 Absatz 1 des Bürgerlichen Gesetzbuchs sowie § 1 Nummer 2, 8 bis 10, § 3 Absatz 4, sowie die §§ 5 bis 7 des Bundesarchivgesetzes sind anzuwenden.
 
-
-## § 37 – Arbeit zur Verbesserung der Sicherheit im Seeverkehr
+# § 37 – Arbeit zur Verbesserung der Sicherheit im Seeverkehr
 
 (1) Die Bundesstelle trägt zur Verbesserung der Sicherheit im Seeverkehr mit dem Ziel der Verhütung von Seeunfällen bei, indem sie Statistiken führt und auswertet, Informationen über Seeunfälle veröffentlicht, Daten über Seeunfälle, die in den Anwendungsbereich der Richtlinie 2009/18/EG fallen, einschließlich der aus den Sicherheitsuntersuchungen gewonnenen Erkenntnisse, unter Einhaltung der Vorgaben des Anhangs II der Richtlinie 2009/18/EG an die von der Europäischen Kommission nach der Richtlinie 2009/18/EG eingerichtete europäische elektronische Datenbank „Europäisches Informationsforum für Unfälle auf See“ sowie an die Internationale Seeschifffahrtsorganisation weiterleitet und sich an Vortragsveranstaltungen beteiligt.
 
@@ -617,13 +577,11 @@ Im Falle der an Bord befindlichen Passagiere werden nur die Daten nach Satz 1 Nu
 
 (5) Die Bundesstelle kann auf Anfrage Auswertungen und Statistiken gegen Kostenerstattung übersenden, soweit dadurch die ordnungsgemäße Erfüllung ihrer Aufgaben nicht beeinträchtigt wird. Behörden und als gemeinnützig anerkannte Organisationen, die Arbeit zur Sicherheit im Seeverkehr leisten, erhalten diese Auswertungen und Statistiken kostenlos.
 
-
-## § 38 – Beteiligung am Such- und Rettungsdienst
+# § 38 – Beteiligung am Such- und Rettungsdienst
 
 Die Bundesstelle wirkt beim Such- und Rettungsdienst mit, indem sie hierfür erforderliche Informationen auf Anfrage beschafft oder vorhandene hierfür erforderliche Informationen an die am Such- und Rettungsdienst beteiligten Personen und Stellen übermittelt. Vor der Einstellung der Suche nach einem vermissten Schiff ist zwischen der für die Koordinierung des Such- und Rettungsdienstes zuständigen Stelle und der Bundesstelle Einvernehmen herzustellen.
 
-
-## § 39 – Sachlicher Geltungsbereich des Abschnitts 4, Verwaltungsverfahren
+# § 39 – Sachlicher Geltungsbereich des Abschnitts 4, Verwaltungsverfahren
 
 Dieser Abschnitt gilt für die Ermittlung und Auswertung der Ursachen von Seeunfällen in Bezug auf Inhaber von
 
@@ -633,13 +591,11 @@ Dieser Abschnitt gilt für die Ermittlung und Auswertung der Ursachen von Seeunf
 
 (Berechtigungen) sowie auf Inhaber von Befähigungszeugnissen oder Fahrerlaubnissen, die von einer ausländischen Behörde oder für die Binnenschifffahrt ausgestellt sind, als Verfahren im Sinne des § 9 des Verwaltungsverfahrensgesetzes.
 
-
-## § 40 – Internationale Untersuchungsregelungen im Sinne des Abschnitts 4
+# § 40 – Internationale Untersuchungsregelungen im Sinne des Abschnitts 4
 
 Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach den Buchstaben D und E der Anlage geschieht, soweit dieses Gesetz betroffen ist, im Rahmen dieses Abschnitts.
 
-
-## § 41 – Öffentliches Untersuchungsinteresse
+# § 41 – Öffentliches Untersuchungsinteresse
 
 (1) Bestehen hinreichende tatsächliche Anhaltspunkte, dass eine Berechtigung zu entziehen oder die Ausübung der mit ihr oder einem Befähigungszeugnis oder einer Fahrerlaubnis verbundenen Befugnisse zu beschränken ist, so führt die Generaldirektion Wasserstraßen und Schifffahrt unverzüglich eine Prüfung des Untersuchungsinteresses durch.
 
@@ -651,15 +607,13 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (5) Zuständigkeiten und Befugnisse nach anderen Rechtsvorschriften zur Entziehung von Berechtigungen, Beschränkung ihrer Ausübung oder Sicherstellung oder Beschlagnahme der entsprechenden Urkunden bleiben unberührt.
 
-
-## § 42 – Pflicht zur Durchführung oder Einstellung der Untersuchung nach Abschnitt 4
+# § 42 – Pflicht zur Durchführung oder Einstellung der Untersuchung nach Abschnitt 4
 
 (1) Eine Untersuchung nach diesem Abschnitt ist durchzuführen, soweit die Generaldirektion Wasserstraßen und Schifffahrt einen Antrag nach § 41 Absatz 3 gestellt hat.
 
 (2) Die Untersuchung nach diesem Abschnitt ist einzustellen, wenn der Beteiligte gegenüber einer nach diesem Abschnitt zuständigen Behörde schriftlich unwiderruflich erklärt hat, dass er während der nächsten 30 Monate – oder bei Verdacht der Behörde nach § 41 Absatz 1 auf dauerhaftes Fehlen eines der in § 50 Absatz 1 Satz 1 genannten subjektiven Merkmale auf Dauer – von seiner Berechtigung keinen Gebrauch machen wird, und wenn er dieser Behörde die entsprechenden Berechtigungsurkunden für die jeweilige Dauer unwiderruflich zur Verwahrung übergeben hat. Die zuständige Behörde kann Auflagen anordnen und die in Satz 1 vorgesehenen Fristen bei Vorliegen besonderer Gründe verkürzen. § 50 Absatz 5 gilt entsprechend.
 
-
-## § 43 – Zuständigkeit der Seeämter
+# § 43 – Zuständigkeit der Seeämter
 
 (1) Die Untersuchung nach diesem Abschnitt obliegt der Generaldirektion Wasserstraßen und Schifffahrt. Sie bildet Untersuchungsausschüsse (Seeämter) in Bremerhaven, Emden, Hamburg, Kiel und Rostock.
 
@@ -667,8 +621,7 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (3) Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt eine Geschäftsordnung für die Seeämter; vor ihrem Erlass sind die Küstenländer zu hören. Die Geschäftsordnung ist im Verkehrsblatt bekannt zu machen.
 
-
-## § 44 – Besetzung der Seeämter
+# § 44 – Besetzung der Seeämter
 
 (1) Die Seeämter entscheiden in der Besetzung mit einem Vorsitzenden, einem Ständigen Beisitzer und zwei ehrenamtlichen Beisitzern.
 
@@ -676,8 +629,7 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (3) Der Vorsitzende der Seeämter muss die Befähigung zum Richteramt nach dem Deutschen Richtergesetz besitzen. Die Ständigen Beisitzer der Seeämter müssen, wenn es sich um Berechtigungen für Kauffahrteischiffe handelt, die Befähigung zum Kapitän auf entsprechenden Schiffen besitzen und über ausreichende Erfahrungen in der Führung eines Seeschiffes verfügen.
 
-
-## § 45 – Ehrenamtliche Beisitzer
+# § 45 – Ehrenamtliche Beisitzer
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt stellt eine Vorschlagsliste für die ehrenamtlichen Beisitzer der Seeämter auf, wählt hieraus die erforderliche Anzahl von ehrenamtlichen Beisitzern aus (Beisitzerliste) und bestellt die Beisitzer für eine ehrenamtliche Tätigkeit. In die Vorschlagsliste werden Personen aufgenommen, die von den beteiligten Bundes- und Landesbehörden sowie den Berufs- und Interessenvertretungen benannt werden.
 
@@ -691,22 +643,19 @@ Die Anwendung der seefahrtbezogenen internationalen Untersuchungsregelungen nach
 
 (3) Die ehrenamtlichen Beisitzer sind vom Vorsitzenden aus der Beisitzerliste zu den Sitzungen heranzuziehen. Dabei ist unter Berücksichtigung der Bordfunktion des oder der Beteiligten sowie des Ortes und der Art des zugrunde liegenden Sachverhalts die sachkundige und unabhängige Besetzung sicherzustellen. Die ehrenamtlichen Beisitzer sind berechtigt und verpflichtet, sich über die Ergebnisse der Ermittlungen zu unterrichten.
 
-
-## § 46 – Beweisaufnahme
+# § 46 – Beweisaufnahme
 
 (1) Außerhalb der mündlichen Verhandlung sind Beweise aufzunehmen, wenn der Sachverhalt es erfordert oder die Beweisaufnahme in der Verhandlung voraussichtlich nicht möglich oder besonders erschwert sein würde. Zur Beweisaufnahme sind der Ständige Beisitzer und nach Lage des Falles weitere Beisitzer hinzuzuziehen. § 48 Absatz 7 und 8 findet Anwendung. Das Seeamt ist befugt, bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt abzunehmen.
 
 (2) Behörden und Stellen, deren Geschäftsbereiche von dem zugrunde liegenden Sachverhalt unmittelbar betroffen sind, sollen von einer beabsichtigten Beweisaufnahme unterrichtet werden; erstrecken sich die Ermittlungen auf ein Schiff unter fremder Flagge, soll, und zwar auch von der Vollstreckung einer Anordnung nach § 47 Absatz 1 Satz 2, die zuständige konsularische Vertretung benachrichtigt werden.
 
-
-## § 47 – Auskunfts-, Herausgabe- und Aufbewahrungspflichten
+# § 47 – Auskunfts-, Herausgabe- und Aufbewahrungspflichten
 
 (1) Die nach dem Schiffssicherheitsgesetz in der jeweils geltenden Fassung für die Sicherheit des Schiffes Verantwortlichen sind nach Maßgabe dieser Verantwortlichkeit verpflichtet, dem Seeamt auf Verlangen über die Beschaffenheit, Besatzung, den Liegeort und den Reiseplan der von dem zugrunde liegenden Sachverhalt betroffenen Schiffe Auskunft zu erteilen. Die für die Untersuchung erheblichen Unterlagen und Gegenstände sind auf Verlangen von demjenigen herauszugeben, der sie in Gewahrsam hat oder verfügungsbefugt ist; dies gilt insbesondere für die benutzten Seekarten, Seetagebücher sowie technischen Aufzeichnungen und Unterlagen. Die nach Satz 2 angeforderten Unterlagen sind von den herausgabepflichtigen Personen bis zum Abschluss der seeamtlichen Untersuchung aufzubewahren.
 
 (2) Die Herausgabe von Unterlagen kann verweigert werden, wenn das Bundesministerium der Verteidigung dies aus Gründen der militärischen Sicherheit für erforderlich hält.
 
-
-## § 48 – Mündliche Verhandlung
+# § 48 – Mündliche Verhandlung
 
 (1) Im Untersuchungsverfahren des Seeamtes findet eine mündliche Verhandlung statt, soweit nicht sämtliche Beteiligten demgegenüber dem Vorsitzenden unwiderruflich widersprechen.
 
@@ -742,8 +691,7 @@ Der Ausschluss der Öffentlichkeit aus anderen Gründen als denen der Geheimhalt
 
 Die Niederschrift ist von dem Vorsitzenden und vom Schriftführer zu unterzeichnen.
 
-
-## § 49 – Spruch des Seeamtes
+# § 49 – Spruch des Seeamtes
 
 (1) Das Untersuchungsverfahren wird durch Spruch abgeschlossen. Das Seeamt entscheidet unter Würdigung des Gesamtergebnisses des Verfahrens.
 
@@ -787,8 +735,7 @@ Der Spruch lautet auf Einstellung des Verfahrens, wenn sich herausstellt, dass d
 
 (8) Unanfechtbare Sprüche des Seeamtes können vollständig – einschließlich der Schiffsnamen, soweit es zur Erfüllung der öffentlichen Aufgabe nach diesem Abschnitt erforderlich ist – oder in gekürzter Fassung in einer amtlichen Entscheidungssammlung veröffentlicht werden, wenn die Namen der natürlichen Personen in der Veröffentlichung anonymisiert werden. Beruht der Spruch auf einem nichtöffentlichen Verfahren, so sind bei der Entscheidung über die Veröffentlichung die Umstände zu berücksichtigen, auf denen die Nichtöffentlichkeit des Verfahrens beruht.
 
-
-## § 50 – Entzug und Beschränkung der Ausübung von Berechtigungen
+# § 50 – Entzug und Beschränkung der Ausübung von Berechtigungen
 
 (1) Das Seeamt hat im Spruch ein Fahrverbot für höchstens 30 Monate auszusprechen, wenn es zu der Überzeugung gelangt ist, dass eine solche Maßnahme für die Sicherheit der Seefahrt im Sinne des § 1 erforderlich ist, weil der Inhaber der Berechtigung während dieser Zeit nicht die für eine Tätigkeit als Schiffsführer oder sonst in der Seefahrt Verantwortlicher gebotene körperliche oder geistige Eignung oder das für diese Tätigkeit gebotene Verantwortungsbewusstsein besitzt. Ein solcher Mangel ist in der Regel anzunehmen, wenn der Inhaber infolge des Genusses alkoholischer Getränke oder anderer berauschender Mittel nicht in der Lage war, den Dienst an Bord sicher auszuüben. Falls der Inhaber mehr als ein Befähigungszeugnis besitzt, kann im Spruch ausgesprochen werden, dass die Ausübung einzelner Befugnisse unbeschränkt bleibt.
 
@@ -802,8 +749,7 @@ Der Spruch lautet auf Einstellung des Verfahrens, wenn sich herausstellt, dass d
 
 (6) Befähigungszeugnisse sowie Fahrerlaubnisse für Sportboote, die von einer Behörde der Deutschen Demokratischen Republik ausgestellt sind, gelten im Sinne dieser Vorschrift als von einer Behörde der Bundesrepublik Deutschland ausgestellt.
 
-
-## § 51 – Gebühren und Auslagen
+# § 51 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach § 49 Absatz 2 Satz 1 Nummer 3 werden Gebühren erhoben.
 
@@ -813,20 +759,17 @@ Der Spruch lautet auf Einstellung des Verfahrens, wenn sich herausstellt, dass d
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung die Gebührentatbestände und die Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 
-
-## § 52 – Widerspruchsverfahren
+# § 52 – Widerspruchsverfahren
 
 Gegen Verwaltungsakte der Seeämter kann innerhalb eines Monats nach ihrer Bekanntgabe Widerspruch erhoben werden. Widerspruchsbehörde ist die Generaldirektion Wasserstraßen und Schifffahrt. Dem Widerspruch kann das Seeamt nicht nach § 72 der Verwaltungsgerichtsordnung abhelfen.
 
-
-## § 53 – Bußgeldvorschriften
+# § 53 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. einer Rechtsverordnung nach § 22 Absatz 4 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-1a.  
-entgegen § 23 Absatz 3 Satz 1 den Unfallort, eine Unfallspur, ein Wrackteil oder Trümmerstück des Schiffes oder sonstigen Inhalt des Schiffes oder der Ladung berührt oder verändert,
+1a. entgegen § 23 Absatz 3 Satz 1 den Unfallort, eine Unfallspur, ein Wrackteil oder Trümmerstück des Schiffes oder sonstigen Inhalt des Schiffes oder der Ladung berührt oder verändert,
 
 2. sich ohne Zustimmung nach § 24 Absatz 6 Satz 1 zum Stand der Untersuchung oder zu einzelnen Ergebnissen öffentlich äußert,
 
@@ -848,8 +791,7 @@ geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-
-## § 54 – Vollzugsvereinbarungen zwischen Bund und Küstenländern
+# § 54 – Vollzugsvereinbarungen zwischen Bund und Küstenländern
 
 Dieses Gesetz berührt nicht die über die Vereinbarungen über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben erlassenen Gesetze der Länder
 
@@ -863,29 +805,24 @@ Dieses Gesetz berührt nicht die über die Vereinbarungen über die Ausübung de
 
 5. Schleswig-Holstein vom 15. Juli 1955 (Gesetz- und Verordnungsblatt für Schleswig-Holstein S. 137) und vom 10. Dezember 1984 (Gesetz- und Verordnungsblatt für Schleswig-Holstein S. 247).
 
-
-## § 55 – Einschränkung von Grundrechten
+# § 55 – Einschränkung von Grundrechten
 
 Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 56 – Verordnungsermächtigung
+# § 56 – Verordnungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, zur Verbesserung der Sicherheit im Seeverkehr durch Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage in Anpassung an den Gesamtbestand der völkerrechtlich als verbindlich angenommenen und auf Grund innerstaatlichen Rechts anzuwendenden oder gemeinschafts- oder unionsrechtlich in Kraft getretenen seefahrtbezogenen internationalen Untersuchungsregelungen zu ändern.
 
-
-## § 57 – Übergangsregelung
+# § 57 – Übergangsregelung
 
 Sicherheitsuntersuchungen von Seeunfällen, die vor dem 1. Dezember 2011 eingeleitet worden sind, sind nach den am 30. November 2011 geltenden Vorschriften dieses Gesetzes fortzuführen.
 
-
-## Anlage – (zu den §§ 2, 3, 10, 20 Absatz 4, §§ 40 und 41 Absatz 2)
+# Anlage – (zu den §§ 2, 3, 10, 20 Absatz 4, §§ 40 und 41 Absatz 2)
 
 (Fundstelle: BGBl. I 2012, 408;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-A.  
-Allgemein anerkannte völkerrechtliche Vorschriften über Verpflichtungen zur Durchführung von Untersuchungen von Seeunfällen und zur internationalen Zusammenarbeit
+A. Allgemein anerkannte völkerrechtliche Vorschriften über Verpflichtungen zur Durchführung von Untersuchungen von Seeunfällen und zur internationalen Zusammenarbeit
 
 1. Artikel 94 Absatz 7 – auch in Verbindung mit Artikel 58 Absatz 2 – sowie Artikel 194 Absatz 1 und 3 Buchstabe b des Seerechtsübereinkommens der Vereinten Nationen (SRÜ) (BGBl. 1994 II S. 1798)
 
@@ -899,15 +836,13 @@ Allgemein anerkannte völkerrechtliche Vorschriften über Verpflichtungen zur Du
 
 6. Artikel 6 und 12 des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe (MARPOL) (BGBl. 1982 II S. 2; Bekanntmachung der Neufassung in der amtlichen deutschen Übersetzung: BGBl. 1996 II S. 399)
 
-B.  
-Richtlinien- und Verordnungsbestimmungen der Europäischen Gemeinschaft über die Untersuchung von Seeunfällen
+B. Richtlinien- und Verordnungsbestimmungen der Europäischen Gemeinschaft über die Untersuchung von Seeunfällen
 
 1. Artikel 5 in Verbindung mit Artikel 1 bis 3 der Richtlinie 1999/35/EG des Rates vom 29. April 1999 über ein System verbindlicher Überprüfungen im Hinblick auf den sicheren Betrieb von Ro-Ro-Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen im Linienverkehr (ABl. L 138 vom 1.6.1999, S. 1)
 
 2. Richtlinie 2009/18/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Festlegung der Grundsätze für die Sicherheitsuntersuchung von Unfällen im Seeverkehr und zur Änderung der Richtlinie 1999/35/EG des Rates und der Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates (ABl. L 131 vom 28.5.2009, S. 114)
 
-C.  
-Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A und B genannten Regeln und Normen zugrunde gelegt werden müssen
+C. Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A und B genannten Regeln und Normen zugrunde gelegt werden müssen
 
 1. Code für die Untersuchung von Unfällen und Vorkommnissen auf See der Internationalen Seeschifffahrts-Organisation (IMO), Entschließung A.849(20) vom 27. November 1997, geändert durch Entschließung A.884(21) vom 25. November 1999 (VkBl. 2000 S. 128, Anlagenband B 8124 S. 21)
 
@@ -916,8 +851,7 @@ Internationale Richtlinien und Standards, die bestimmten, in Abschnitt A und B g
 –  
 Leitlinien über die faire Behandlung von Seeleuten bei einem Seeunfall (IMO-Rundschreiben Nr. 2711 vom 26. Juni 2006 (VkBl. 2010 S. 506))
 
-D.  
-Allgemein anerkannte völkerrechtliche Regeln der Untersuchung
+D. Allgemein anerkannte völkerrechtliche Regeln der Untersuchung
 
 1. Verpflichtungen zu Untersuchungsmaßnahmen
 
@@ -929,8 +863,7 @@ Regel I/5 Absatz 1 der Anlage des Internationalen Übereinkommens von 1978 über
 
 2. Schranken der Untersuchung Artikel 97 Absatz 3 SRÜ
 
-E.  
-Richtlinienbestimmungen der Europäischen Gemeinschaft über den Berechtigungsentzug
+E. Richtlinienbestimmungen der Europäischen Gemeinschaft über den Berechtigungsentzug
 
 –  
 Artikel 9 Absatz 1 der Richtlinie 2008/106/EG vom 19. November 2008 über Mindestanforderungen für die Ausbildung von Seeleuten (Neufassung) (ABl. L 323 vom 3.12.2008, S. 33)

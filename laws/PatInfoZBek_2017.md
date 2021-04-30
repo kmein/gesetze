@@ -1,10 +1,7 @@
-# [PatInfoZBek 2017] Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
-
-Ausfertigungsdatum: 14.11.2017
-
+% Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren
+% Ausfertigungsdatum: 14.11.2017
  
-
-## ----
+# ----
 
 Nach
 
@@ -55,7 +52,6 @@ zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen b
 
 Die Bekanntmachung vom 5. Oktober 2004 (BGBl. I S. 2599) wird insoweit aufgehoben.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium der Justiz und für Verbraucherschutz

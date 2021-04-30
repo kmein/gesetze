@@ -1,15 +1,11 @@
-# [ZulKostV] Kostenverordnung für die Zulassung von Meßgeräten zur Eichung  (Zulassungskostenverordnung)
-
-Ausfertigungsdatum: 22.12.1992
-
+% Kostenverordnung für die Zulassung von Meßgeräten zur Eichung  (Zulassungskostenverordnung)
+% Ausfertigungsdatum: 22.12.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14 Satz 1 Nr. 1 und 2 des Eichgesetzes in der Fassung der Bekanntmachung vom 23. März 1992 (BGBl. I S. 711) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet der Bundesminister für Wirtschaft:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Für jede der nachstehend aufgeführten individuell zurechenbaren öffentlichen Leistungen der Physikalisch-Technischen Bundesanstalt (PTB) nach § 13a Nummer 1 und 2 des Eichgesetzes werden Gebühren und Auslagen nach dieser Verordnung erhoben:
 
@@ -29,8 +25,7 @@ Für jede der nachstehend aufgeführten individuell zurechenbaren öffentlichen 
 
 8. die Prüfung oder Erteilung von Anerkennungen von Herstellerzeichen für Flaschen und Maßbehältnisse oder deren Änderungen gemäß § 4 der Fertigpackungsverordnung.
 
-
-## § 2 – Gebührenberechnung
+# § 2 – Gebührenberechnung
 
 (1) Die Gebühren werden nach dem Zeitaufwand bestimmt, soweit nicht nach § 3 Gebühren auch für den sachlichen Aufwand zu erheben sind. Bei der Berechnung der Gebühr sind die in der Anlage zu dieser Verordnung für die einzelnen Themenbereiche aufgeführten Stundensätze zugrunde zu legen. Für jede angefangene Viertelstunde ist ein Viertel dieser Stundensätze zu berechnen.
 
@@ -50,28 +45,23 @@ Für jede der nachstehend aufgeführten individuell zurechenbaren öffentlichen 
 
 2. Wartezeiten, die vom Gebührenschuldner verursacht worden sind.
 
-
-## § 3 – Gebührenerhebung in besonderen Fällen
+# § 3 – Gebührenerhebung in besonderen Fällen
 
 Erfordert eine Zulassung einen überdurchschnittlichen sachlichen Aufwand, so ist dieser nach den Selbstkosten zu berechnen. Um diesen Betrag erhöht sich die Gebühr nach § 2.
 
-
-## § 4 – Auslagen
+# § 4 – Auslagen
 
 Auslagen sind nach Maßgabe des § 10 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung zu erstatten. Die in § 10 Absatz 1 Nummer 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung bezeichneten Auslagen werden jedoch nicht gesondert erhoben.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 (Fundstelle: BGBl. I 2013, 4018)
 

@@ -1,10 +1,7 @@
-# [BioAbfV] Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden  (Bioabfallverordnung - BioAbfV)
-
-Ausfertigungsdatum: 21.09.1998
-
+% Verordnung über die Verwertung von Bioabfällen auf landwirtschaftlich, forstwirtschaftlich und gärtnerisch genutzten Böden  (Bioabfallverordnung - BioAbfV)
+% Ausfertigungsdatum: 21.09.1998
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -18,15 +15,13 @@ Ausfertigungsdatum: 21.09.1998
 
 2. Erzeuger oder Besitzer von Bioabfällen oder Gemischen, soweit sie diese Abfälle nicht einem Entsorgungsträger überlassen,
 
-2a.  
-denjenigen, der Bioabfälle einsammelt und transportiert (Einsammler),
+2a. denjenigen, der Bioabfälle einsammelt und transportiert (Einsammler),
 
 3. denjenigen, der Bioabfälle behandelt (Bioabfallbehandler),
 
 4. Hersteller von Gemischen unter Verwendung von Bioabfällen (Gemischhersteller),
 
-4a.  
-denjenigen, der Bioabfälle oder Gemische zur Aufbringung annimmt und diese ohne weitere Veränderung abgibt (Zwischenabnehmer) sowie
+4a. denjenigen, der Bioabfälle oder Gemische zur Aufbringung annimmt und diese ohne weitere Veränderung abgibt (Zwischenabnehmer) sowie
 
 5. Bewirtschafter von landwirtschaftlich, gärtnerisch oder forstwirtschaftlich genutzten Böden, auf denen unbehandelte oder behandelte Bioabfälle oder Gemische aufgebracht werden sollen oder aufgebracht werden.
 
@@ -38,8 +33,7 @@ denjenigen, der Bioabfälle oder Gemische zur Aufbringung annimmt und diese ohne
 
 3. soweit die Klärschlammverordnung Anwendung findet,
 
-3a.  
-für tierische Nebenprodukte, die nach der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert worden ist, in der jeweils geltenden Fassung, nach den zu ihrer Durchführung ergangenen Rechtsakten der Europäischen Union, nach dem Tierische Nebenprodukte-Beseitigungsgesetz vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 2 Absatz 91 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung oder nach den auf Grund des Tierische Nebenprodukte-Beseitigungsgesetzes erlassenen Rechtsverordnungen abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten, zu verwenden, zu beseitigen oder in Verkehr zu bringen sind, oder
+3a. für tierische Nebenprodukte, die nach der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1), die durch die Richtlinie 2010/63/EU (ABl. L 276 vom 20.10.2010, S. 33) geändert worden ist, in der jeweils geltenden Fassung, nach den zu ihrer Durchführung ergangenen Rechtsakten der Europäischen Union, nach dem Tierische Nebenprodukte-Beseitigungsgesetz vom 25. Januar 2004 (BGBl. I S. 82), das zuletzt durch Artikel 2 Absatz 91 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, in der jeweils geltenden Fassung oder nach den auf Grund des Tierische Nebenprodukte-Beseitigungsgesetzes erlassenen Rechtsverordnungen abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten, zu verwenden, zu beseitigen oder in Verkehr zu bringen sind, oder
 
 4. für Stoffe, die nach anderen Rechtsvorschriften entsorgt werden müssen.
 
@@ -47,8 +41,7 @@ für tierische Nebenprodukte, die nach der Verordnung (EG) Nr. 1069/2009 des Eur
 
 (5) Die in Absatz 2 Genannten wirken darauf hin, dass die in dieser Verordnung genannten Schadstoffhöchstwerte für unbehandelte und behandelte Bioabfälle und Gemische soweit wie möglich unterschritten werden. Generelle Anbaubeschränkungen oder sonstige in dieser Verordnung nicht genannte Beschränkungen lassen sich aus dem Erreichen oder Überschreiten der Bodenwerte nach § 9 Absatz 2 nicht herleiten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeuten die Begriffe
 
@@ -68,8 +61,7 @@ c) anaerobe hygienisierende Behandlung gemäß Anhang 2 Nummer 2.2.3 (thermophil
 
 d) anderweitige hygienisierende Behandlung gemäß Anhang 2 Nummer 2.2.4;
 
-2a.  
-Biologisch stabilisierende Behandlung:
+2a. Biologisch stabilisierende Behandlung:
 
 Biotechnologische Aufbereitung biologisch abbaubarer Materialien zum Zweck des biologischen Abbaus der organischen Substanz unter aeroben Bedingungen (Kompostierung) oder anaeroben Bedingungen (Vergärung) oder andere Maßnahmen zur biologischen Stabilisierung der organischen Substanz; eine hygienisierende Behandlung nach Nummer 2 Buchstabe b oder c ist gleichzeitig eine biologisch stabilisierende Behandlung;
 
@@ -93,8 +85,7 @@ a) bei gärtnerischen Dienstleistungen auf fremden Flächen angefallenen pflanzl
 
 b) anteilig zurückgenommenen unbehandelten pflanzlichen Bioabfällen durch Mitglieder von Erzeugerzusammenschlüssen des Wein-, Obst- und Gemüseanbaus auf selbst bewirtschaftete Betriebsflächen, soweit die pflanzlichen Ausgangserzeugnisse auf Betriebsflächen von Mitgliedern des jeweiligen Erzeugerzusammenschlusses erzeugt wurden.
 
-
-## § 3 – Anforderungen an die hygienisierende Behandlung
+# § 3 – Anforderungen an die hygienisierende Behandlung
 
 (1) Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, Bioabfälle vor einer Aufbringung oder vor der Herstellung von Gemischen einer hygienisierenden Behandlung zuzuführen, welche die seuchen- und phytohygienische Unbedenklichkeit gewährleistet.
 
@@ -140,20 +131,17 @@ Der Temperaturverlauf während der hygienisierenden Behandlung ist mit einer st�
 
 (10) Die Absätze 1 bis 9 sind bei gemeinsamer hygienisierender Behandlung von Bioabfällen mit in Anhang 1 Nummer 2 genannten Materialien auf das gesamte Material entsprechend anzuwenden. Werden bereits hygienisierend behandelte Bioabfälle zusammen mit in Anhang 1 Nummer 2 genannten Materialien einer nachfolgenden biologisch stabilisierenden Behandlung unterzogen, gilt Absatz 4 Satz 1 Nummer 3 mit der Maßgabe, dass die Prüfungen der hygienisierten Bioabfälle erst nach der biologisch stabilisierenden Behandlung am abgabefertigen Material durchzuführen sind. Abweichend von Satz 2 können die Prüfungen der hygienisierten Bioabfälle bereits nach der hygienisierenden Behandlung am abgabefertigen Material durchgeführt werden, wenn die nachfolgende biologisch stabilisierende Behandlung der bereits hygienisierend behandelten Bioabfälle in einem landwirtschaftlichen Betrieb zusammen mit dort angefallenen biologisch abbaubaren Materialien erfolgt und die behandelten Materialien auf selbst bewirtschaftete Betriebsflächen aufgebracht werden.
 
-
-## § 3a – Anforderungen an die biologisch stabilisierende Behandlung
+# § 3a – Anforderungen an die biologisch stabilisierende Behandlung
 
 Entsorgungsträger, Erzeuger und Besitzer haben, soweit nicht von einer Freistellung nach § 10 Absatz 1 oder Absatz 2 erfasst, Bioabfälle vor einer Aufbringung oder vor der Herstellung von Gemischen einer biologisch stabilisierenden Behandlung zuzuführen. Die Bioabfälle sind unter Berücksichtigung der vorgesehenen Verwendung so weit biologisch zu stabilisieren, dass das Wohl der Allgemeinheit insbesondere durch Zersetzungsprozesse und Geruchsbelastungen der aufgebrachten Bioabfälle oder Gemische nicht beeinträchtigt wird.
 
-
-## § 3b – Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung
+# § 3b – Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung
 
 (1) In Betrieben mit Nutztierhaltung ist das Verbringen von Bioabfällen tierischer Herkunft nur nach einer hygienisierenden Behandlung zulässig. Werden Nutztiere in einem Betrieb in abgetrennten Bereichen gehalten, gilt Satz 1 nur für diese Betriebsbereiche.
 
 (2) Eine Behandlung von Bioabfällen tierischer Herkunft gemäß den §§ 3 und 3a darf in Betrieben mit Nutztierhaltung nur durchgeführt werden, wenn sich die Behandlungsanlage in einem zum Schutz vor der Übertragung von Seuchenerregern ausreichenden Abstand von dem Betriebsbereich befindet, in dem die Tiere gehalten werden. Der Betriebsbereich zur Behandlung der Bioabfälle einschließlich Annahme, Aufbereitung, Aufbewahrung und Abgabe ist von dem Bioabfallbehandler von Tieren, Futtermitteln und Einstreu vollständig räumlich zu trennen, um sicherzustellen, dass die Nutztiere weder unmittelbar noch mittelbar mit den Bioabfällen tierischer Herkunft in Berührung kommen. Satz 1 und 2 gilt entsprechend für Anlagen zur Behandlung von Bioabfällen tierischer Herkunft in Betrieben, die an Betriebe oder Betriebsbereiche mit Nutztierhaltung angrenzen.
 
-
-## § 4 – Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
+# § 4 – Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter
 
 (1) Der Bioabfallbehandler darf nur Bioabfälle und in Anhang 1 Nummer 2 genannte Materialien verwenden, von denen in unvermischter Form auf Grund ihrer Art, Beschaffenheit oder Herkunft angenommen werden kann, dass sie nach einer Behandlung die Anforderungen nach den Absätzen 3 und 4 einhalten und bei denen keine Anhaltspunkte für überhöhte Gehalte an anderen als den von Absatz 3 erfassten Schadstoffen bestehen. In Anhang 1 Nummer 2 genannte Materialien dürfen auch verwendet werden, wenn sie als Düngemittel, Bodenhilfsstoffe oder Kultursubstrate die Anforderungen der Düngemittelverordnung an die stoffliche Zusammensetzung erfüllen und keine Anhaltspunkte für überhöhte Gehalte an anderen als von der Düngemittelverordnung erfassten Schadstoffen bestehen. Gehalte an den in den Sätzen 1 und 2 bezeichneten anderen Schadstoffen sind überhöht, wenn durch sie bei bestimmungsgemäßer Verwendung der Bioabfälle oder in Anhang 1 Nummer 2 genannten Materialien in unvermischter Form die Gesundheit von Menschen oder Haus- und Nutztieren, die Gesundheit, das Wachstum und die Qualität von Nutzpflanzen, die Beschaffenheit und Fruchtbarkeit des Bodens oder der Naturhaushalt gefährdet werden können.
 
@@ -211,8 +199,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (10) Für die Bestimmung einer Untersuchungsstelle nach Absatz 9 Satz 1 gilt § 3 Absatz 8a und 8b entsprechend.
 
-
-## § 5 – Anforderungen an Gemische
+# § 5 – Anforderungen an Gemische
 
 (1) Der Gemischhersteller darf behandelte Bioabfälle, gemäß § 10 unbehandelte, hygienisierend oder biologisch stabilisierend behandelte Bioabfälle sowie in Anhang 1 Nummer 2 genannte Materialien verwenden, von denen in unvermischter Form auf Grund ihrer Art, Beschaffenheit oder Herkunft angenommen werden kann, dass sie die Anforderungen nach § 4 Absatz 3 und 4 einhalten und bei denen keine Anhaltspunkte für überhöhte Gehalte an anderen als den von § 4 Absatz 3 erfassten Schadstoffen bestehen. In Anhang 1 Nummer 2 genannte Materialien dürfen auch verwendet werden, wenn sie als Düngemittel, Bodenhilfsstoffe oder Kultursubstrate die Anforderungen der Düngemittelverordnung an die stoffliche Zusammensetzung erfüllen und keine Anhaltspunkte für überhöhte Gehalte an anderen als von der Düngemittelverordnung erfassten Schadstoffen bestehen. § 4 Absatz 1 Satz 3 gilt entsprechend.
 
@@ -224,8 +211,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (5) Die in Anhang 1 Nummer 1 und 2 in der jeweiligen Spalte 3 für die Getrennthaltung, Behandlung und Verwendung der Einsatzmaterialien sowie die Aufbringung von Gemischen festgelegten ergänzenden Bestimmungen sind zu beachten.
 
-
-## § 5a – Rückstellprobe
+# § 5a – Rückstellprobe
 
 (1) Die zuständige Behörde kann den Bioabfallbehandler und den Gemischhersteller verpflichten, zur Überwachung der in § 4 Absatz 3 und 4 genannten Grenzwerte eine Rückstellprobe aus den behandelten und unbehandelten Bioabfällen und Gemischen, die für die Verwertung als Düngemittel auf landwirtschaftlich, forstwirtschaftlich oder gärtnerisch genutzten Böden aufgebracht oder zum Zweck der Aufbringung abgegeben werden, zu entnehmen. Satz 1 gilt entsprechend für die in Anhang 1 Nummer 2 genannten Materialien. Die Probenahme hat nach § 4 Absatz 9 zu erfolgen.
 
@@ -235,8 +221,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (4) Die nach Absatz 1 zur Aufbewahrung von Rückstellproben Verpflichteten haben die Rückstellproben der zuständigen Behörde auf Verlangen herauszugeben.
 
-
-## § 6 – Beschränkungen und Verbote der Aufbringung
+# § 6 – Beschränkungen und Verbote der Aufbringung
 
 (1) Unbeschadet düngemittelrechtlicher Regelungen dürfen auf Böden innerhalb von drei Jahren nicht mehr als 20 Tonnen Trockenmasse Bioabfälle oder Gemische je Hektar aufgebracht werden. Die gemäß Satz 1 zulässige Aufbringungsmenge kann bis zu 30 Tonnen je Hektar innerhalb von drei Jahren betragen, wenn die gemäß § 4 Absatz 5 und 6 oder § 5 Absatz 2 gemessenen Schwermetallgehalte die in § 4 Absatz 3 Satz 2 festgelegten Grenzwerte nicht überschreiten. Die für die Aufbringungsfläche zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde weitere Ausnahmen im Einzelfall zulassen, wenn die in § 4 Absatz 3 Satz 2 genannten Schwermetallgrenzwerte deutlich unterschritten werden und Beeinträchtigungen des Wohls der Allgemeinheit nicht zu erwarten sind.
 
@@ -248,8 +233,7 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (3) Das Aufbringen von Bioabfällen und Gemischen auf forstwirtschaftlich genutzte Böden darf nur im begründeten Ausnahmefall mit Zustimmung der zuständigen Behörde im Einvernehmen mit der zuständigen Forstbehörde erfolgen.
 
-
-## § 7 – Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen
+# § 7 – Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen
 
 (1) Auf Grünlandflächen und mehrschnittigen Feldfutterflächen dürfen nur diejenigen Bioabfälle und Gemische aufgebracht werden, die in Anhang 1 Nummer 1 Spalte 3 und Nummer 2 Spalte 3 mit einem Verweis auf diesen Satz aufgeführt sind. Im Übrigen dürfen Bioabfälle und Gemische auf Feldfutterflächen aufgebracht werden, wenn diese vor dem Anbau des Feldfutters aufgebracht und in den Boden eingearbeitet werden.
 
@@ -259,13 +243,11 @@ Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaf
 
 (4) Werden Bioabfälle tierischer Herkunft oder Gemische, die solche Bioabfälle enthalten, auf Grünlandflächen oder auf Feldfutterflächen aufgebracht, darf eine Beweidung durch Nutztiere oder eine Futtermittelgewinnung erst 21 Tage nach der Aufbringung erfolgen. Die für die Aufbringungsfläche zuständige Behörde kann den Zeitraum nach Satz 1 verlängern, sofern dies zur Vorbeugung einer Gefahr für die menschliche oder tierische Gesundheit erforderlich ist.
 
-
-## § 8 – Zusammentreffen von Bioabfall- und Klärschlammaufbringung
+# § 8 – Zusammentreffen von Bioabfall- und Klärschlammaufbringung
 
 Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Aufbringung von Bioabfällen und Gemischen nach dieser Verordnung oder die Aufbringung von Klärschlamm nach der Klärschlammverordnung zulässig.
 
-
-## § 9 – Bodenuntersuchungen
+# § 9 – Bodenuntersuchungen
 
 (1) Der Bewirtschafter oder ein beauftragter Dritter hat der zuständigen Behörde innerhalb von zwei Wochen nach der ersten nach dem 1. Oktober 1998 erfolgenden Aufbringung von Bioabfällen oder Gemischen die Aufbringungsflächen anzugeben. Die zuständige Behörde teilt der zuständigen landwirtschaftlichen Fachbehörde diese Flächen mit.
 
@@ -277,8 +259,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (4) Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde im Rahmen der regionalen Verwertung bei geogen bedingt erhöhten Schwermetallgehalten von Böden zulassen, dass Bioabfälle oder Gemische auch auf Böden aufgebracht werden, bei denen die in Absatz 2 genannten Werte überschritten werden, wenn keine Beeinträchtigungen des Wohls der Allgemeinheit zu erwarten sind. Satz 1 gilt nicht für Cadmium.
 
-
-## § 9a – Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen
+# § 9a – Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen
 
 (1) Entsorgungsträger, Erzeuger und Besitzer dürfen die in Anhang 1 Nummer 1 Buchstabe b genannten Bioabfälle nur mit Zustimmung der für sie zuständigen Behörde abgeben oder auf selbst bewirtschaftete Betriebsflächen aufbringen. Die Bioabfälle sind der zuständigen Behörde nach Art, Beschaffenheit, Bezugsquelle und Anfallstelle vor der erstmaligen Abgabe oder erstmaligen Aufbringung auf selbst bewirtschaftete Betriebsflächen sowie bei sich erheblich verändernder Zusammensetzung nach Art, Beschaffenheit oder Herkunft anzugeben. Die zuständige Behörde kann zur Bewertung der Eignung dieser Bioabfälle für die Verwertung verlangen, dass Untersuchungsergebnisse über Schwermetallgehalte und Fremdstoffanteile nach § 4 Absatz 3 und 4, über andere als die von § 4 Absatz 3 erfassten Schadstoffe und über zusätzliche Inhaltsstoffe sowie weitere Unterlagen vorgelegt werden. Eine Zustimmung der zuständigen Behörde ist für Erzeuger nicht erforderlich, wenn bei ihnen nicht mehr als insgesamt zwei Tonnen der in Anhang 1 Nummer 1 Buchstabe b genannten Bioabfälle (Kleinmengen) jährlich anfallen.
 
@@ -286,8 +267,7 @@ Innerhalb des Zeitraumes nach § 6 Absatz 1 ist auf derselben Fläche nur die Au
 
 (3) Die nach Absatz 1 Satz 1 Verpflichteten haben eine Kopie der vollständigen Formblätter nach Absatz 2 Satz 1 und 2 einmalig im Geltungszeitraum der Behördenzustimmung bei der ersten Abgabe von Bioabfällen dem Bioabfallbehandler oder Einsammler oder im Falle von der Behandlung freigestellter Bioabfälle nach § 10 dem Gemischhersteller oder Bewirtschafter der Aufbringungsfläche auszuhändigen.
 
-
-## § 10 – Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
+# § 10 – Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen
 
 (1) Bioabfälle dürfen unvermischt abgegeben, zur Gemischherstellung verwendet oder aufgebracht werden, soweit diese in Anhang 1 Nummer 1 Spalte 3 aufgeführt werden und hierbei auf eine der folgenden Nummern verwiesen wird,
 
@@ -309,8 +289,7 @@ Die sich aus Satz 1 ergebenden Pflichten des Bioabfallbehandlers sind durch den 
 
 (4) Soweit nicht von einer Freistellung nach Absatz 1 oder Absatz 2 erfasst, sind für die Abgabe, Verwendung zur Gemischherstellung und Aufbringung von ausschließlich biologisch stabilisierend behandelten Bioabfällen die Bestimmungen über die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 3, Satz 2, Absatz 7 und 8 Satz 1 und 2 entsprechend anzuwenden. Die sich aus Satz 1 ergebenden Pflichten sind durch den Bioabfallbehandler zu erfüllen, der die biologisch stabilisierende Behandlung der Bioabfälle durchführt.
 
-
-## § 11 – Nachweispflichten
+# § 11 – Nachweispflichten
 
 (1) Der Bioabfallbehandler hat die bei der Behandlung verwendeten Materialien nach Art, Bezugsquelle, -menge und Anfallstelle von der ursprünglichen Anfallstelle bis zum letzten Besitzer sowie aufgeteilt nach Chargen behandelten Bioabfalls gemäß Satz 2 und 3 aufzulisten. Jede Charge behandelten Bioabfalls ist mit einer fortlaufenden Chargennummer zu versehen, die mindestens das Jahr und den Monat der Behandlung sowie eine für das Behandlungsjahr fortlaufende Nummerierung enthalten muss. Handelt es sich um eine Behandlungsanlage mit einer kontinuierlichen Zuführung und Entnahme des behandelten Materials, legt die zuständige Behörde eine bestimmte Zeitspanne fest, in der der Bioabfallbehandler Chargen nach Satz 2 zu bestimmen hat. Verwendet der Bioabfallbehandler bei einer Behandlung bereits hygienisierend behandelte oder biologisch stabilisierend behandelte Materialien, hat er diese im Sinne des Satzes 1 mit den Angaben nach Absatz 2 Satz 2 des vorhergehenden Bioabfallbehandlers aufzulisten. Werden dem Bioabfallbehandler die Materialien von einem Einsammler angeliefert, hat dieser die eingesammelten Materialien nach Satz 1 aufgeteilt nach Anlieferungen aufzulisten und dem Bioabfallbehandler nach Art und Menge anzugeben. Im Falle des Satzes 4 und 5 entfällt für den Bioabfallbehandler die Dokumentationspflicht der Anfallstelle nach Satz 1.
 
@@ -382,18 +361,15 @@ Satz 2 gilt für Zwischenabnehmer entsprechend, die gütegesicherte Bioabfälle 
 
 (4) Auf die Verwertung von Bioabfällen, für die die Bestimmungen dieser Verordnung gelten, finden die Bestimmungen der Nachweisverordnung mit Ausnahme des § 2 Absatz 1 Nummer 2 und des § 23 Nummer 2 der Nachweisverordnung keine Anwendung.
 
-
-## § 12 – Ausnahmen für Kleinflächen
+# § 12 – Ausnahmen für Kleinflächen
 
 § 9 Absatz 1 und 2 und § 11 Absatz 2a Satz 2 gelten nicht, wenn unbehandelte oder behandelte Bioabfälle oder Gemische auf Flächen von Bewirtschaftern aufgebracht werden, die insgesamt nicht mehr als 1 Hektar landwirtschaftlich oder gärtnerisch genutzte Flächen bewirtschaften. § 11 Absatz 2a Satz 3 und Absatz 3a Satz 6 gilt nicht für den Bewirtschafter dieser Flächen.
 
-
-## § 12a – Elektronische Datenverarbeitung und -übermittlung
+# § 12a – Elektronische Datenverarbeitung und -übermittlung
 
 Die in dieser Verordnung vorgeschriebenen Dokumentationen und Nachweise können mit Hilfe elektronischer Datenverarbeitung erstellt und mit Zustimmung der zuständigen Behörde elektronisch oder in elektronischer Form vorgelegt oder übermittelt werden.
 
-
-## § 13 – Ordnungswidrigkeiten
+# § 13 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -457,8 +433,7 @@ dort genannte Materialien nicht, nicht richtig oder nicht vollständig auflistet
 
 10. entgegen § 11 Absatz 3a Satz 6 eine Dokumentation nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 13a – Bestimmungen für bestehende Anlagen
+# § 13a – Bestimmungen für bestehende Anlagen
 
 (1) Bei den am 1. Mai 2012 bestehenden Anlagen, in denen von den Anforderungen an die Behandlung freigestellte Bioabfälle nach § 10 Absatz 1 in der bis zu diesem Datum geltenden Fassung eingesetzt worden sind und die als Behandlungsanlage zur Hygienisierung fortgeführt werden, ist eine Prozessprüfung gemäß § 3 Absatz 4 Satz 1 Nummer 1 und Satz 2 innerhalb von 18 Monaten nach dem 1. Mai 2012 durchzuführen. Satz 1 gilt nicht, soweit nach dem 30. September 1993 für die Anlage oder das eingesetzte Verfahren eine Hygieneprüfung nach den Vorgaben für die Prozessprüfung oder nach vergleichbaren Vorgaben durchgeführt worden ist oder begonnen wurde und innerhalb von 12 Monaten nach dem 1. Mai 2012 abgeschlossen wird. Im Falle des Satzes 2 hat der Bioabfallbehandler die Untersuchungsergebnisse über die Hygieneprüfung nach den Vorgaben für die Prozessprüfung oder den Nachweis über die Vergleichbarkeit der Hygieneprüfung sowie die Untersuchungsergebnisse dieser Hygieneprüfung der zuständigen Behörde innerhalb von drei Monaten nach dem 1. Mai 2012 vorzulegen und zehn Jahre aufzubewahren; bei begonnener Hygieneprüfung sind der Nachweis und die Untersuchungsergebnisse innerhalb von drei Monaten nach Abschluss der Prüfung vorzulegen und zehn Jahre aufzubewahren. Die zuständige Behörde kann im Einvernehmen mit der zuständigen landwirtschaftlichen Fachbehörde bei Behandlungsanlagen nach Satz 1 von Bioabfallbehandlern, die die Voraussetzungen des § 11 Absatz 3 Satz 2 oder 3 erfüllen, anstelle der Hygieneprüfung nach Satz 1 oder 2 eine vom Träger der Gütegemeinschaft zwischen dem 1. Oktober 1998 und 1. Mai 2012 im Rahmen des Gütesicherungsverfahrens durchgeführte Konformitätsprüfung zulassen. Mit der Konformitätsprüfung muss nachgewiesen werden, dass die Behandlungsanlage oder das eingesetzte Hygienisierungsverfahren einer geprüften Anlage oder einem geprüften Verfahren nach den Vorgaben für die Prozessprüfung oder nach vergleichbaren Vorgaben entspricht. Die Zulassung darf nur erteilt werden, wenn nach Art, Beschaffenheit oder Herkunft der eingesetzten Bioabfälle einschließlich in Anhang 1 Nummer 2 genannter Materialien keine Beeinträchtigung seuchen- und phytohygienischer Belange zu erwarten ist.
 
@@ -466,18 +441,15 @@ dort genannte Materialien nicht, nicht richtig oder nicht vollständig auflistet
 
 (3) Bei den am 1. Mai 2012 bestehenden Anlagen hat der Bioabfallbehandler die Anforderungen an die Prozessüberwachung und an die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 2 und 3 und Satz 2 nach spätestens 12 Monaten einzuhalten.
 
-
-## § 13b – Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen
+# § 13b – Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen
 
 (1) Direkte Prozessprüfungen, die vor dem 1. Mai 2012 nach § 3 Absatz 4 Satz 1 Nummer 1 in der bis zu diesem Datum geltenden Fassung durchgeführt worden sind, gelten bis zum Ablauf ihrer Geltungsdauer, längstens jedoch bis zum Einsatz eines neuen Verfahrens oder wesentlicher technischer Änderung des Verfahrens oder der Prozessführung, als Prozessprüfung im Sinne des § 3 Absatz 4 Satz 1 Nummer 1 für Behandlungsanlagen zur Hygienisierung fort. Mit der direkten Prozessprüfung vergleichbare Hygieneprüfungen, die vor dem 1. Mai 2012 nach § 3 Absatz 5 Satz 3 und Absatz 8 Satz 3 in der bis zu diesem Datum geltenden Fassung bei bereits bestehenden Anlagen durchgeführt und der zuständigen Behörde nachgewiesen worden sind, gelten bis zum Ablauf ihrer Geltungsdauer, längstens jedoch bis zum Einsatz eines neuen Verfahrens oder wesentlicher technischer Änderung des Verfahrens oder der Prozessführung, als Prozessprüfung im Sinne des § 3 Absatz 4 Satz 1 Nummer 1 für Behandlungsanlagen zur Hygienisierung fort.
 
 (2) Ausnahmezulassungen, die vor dem 1. Mai 2012 nach § 3 Absatz 3 Satz 2 in der bis zu diesem Datum geltenden Fassung von den in Anhang 2 enthaltenen Vorgaben an die direkte Prozessprüfung für Behandlungsanlagen erteilt worden sind, gelten bis zum Ablauf ihrer Geltungsdauer fort, längstens jedoch bis zum Einsatz eines neuen Verfahrens oder wesentlicher technischer Änderung des Verfahrens oder der Prozessführung. Ausnahmezulassungen, die vor dem 1. Mai 2012 nach § 3 Absatz 3 Satz 2 in der bis zu diesem Datum geltenden Fassung von den in Anhang 2 enthaltenen Vorgaben an die indirekte Prozessprüfung und an die Endprüfung der behandelten Bioabfälle für Behandlungsanlagen erteilt worden sind, soll die zuständige Behörde nachträglich auf längstens zwölf Monate befristen; nach Ablauf der Befristung sind die Anforderungen an die Prozessüberwachung und an die Prüfungen der hygienisierten Bioabfälle gemäß § 3 Absatz 4 Satz 1 Nummer 2 und 3 und Satz 2 einzuhalten.
 
+# § 14 – Inkrafttreten
 
-## § 14 – Inkrafttreten
-
-
-## Anhang 1 – (zu § 2 Nummer 1, 4, 5, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Flächen geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
+# Anhang 1 – (zu § 2 Nummer 1, 4, 5, § 3 Absatz 3, 7, 7a, 9, 10, § 4 Absatz 1, 2, 5, 6, 8, § 5 Absatz 1, 5, § 6 Absatz 2, § 7 Absatz 1, § 9a Absatz 1, § 10 Absatz 1, § 13a Absatz 1)Liste der für eine Verwertung auf Flächen geeigneten Bioabfälle sowie der dafür geeigneten anderen Abfälle, biologisch abbaubaren Materialien und mineralischen Stoffe
 
 (Fundstelle: BGBl. I 2013, 671 — 688)
 
@@ -841,8 +813,7 @@ Die Abfallstoffe werden dieser Abfallbezeichnung zugeordnet, da die AVV keine sp
 <span id="FnA1-f780003_08"></span><a href="#FnR.FnA1-f780003_08" class="Footnote">7</a>  
 Düngemittelverordnung und Düngeverordnung in der jeweils geltenden Fassung.
 
-
-## Anhang 2 – (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
+# Anhang 2 – (zu § 2 Nummer 2, § 3 Absatz 2 bis 7)Anforderungen an die hygienisierende Behandlung von Bioabfällen zur Gewährleistung der seuchen- und phytohygienischen Unbedenklichkeit
 
 1  
 Allgemeine Anmerkungen
@@ -1405,7 +1376,7 @@ Für jede einzelne Erregerprobe (Wiederholung) werden die Boniturnoten für den 
 
 |                                                  |
 |:------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2012/j0611_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0611_0010.jpg) |
 
   
   
@@ -1415,7 +1386,7 @@ Der Befallsindex für einen Prüfbereich ergibt sich aus dem arithmetischen Mitt
 
 |                                                  |
 |:------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2012/j0611_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0611_0020.jpg) |
 
   
   
@@ -1570,8 +1541,7 @@ Nach 15 Tagen Kulturdauer werden die aufgelaufenen Pflanzen gezählt und ihre An
 
 Die Prüfung der hygienisierten Bioabfälle ist in der Phytohygiene erfolgreich abgeschlossen, wenn der Gehalt an keimfähigen Samen und austriebsfähigen Pflanzenteilen maximal 2 pro Liter Prüfsubstrat ist.
 
-
-## Anhang 3 – (zu § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
+# Anhang 3 – (zu § 4 Absatz 9)Vorgaben zur Analytik (Probenahme, Probevorbereitung und Untersuchung von unbehandelten und behandelten Bioabfällen)
 
 (Fundstelle: BGBl. I 2013, 704 — 706)
 
@@ -1692,13 +1662,11 @@ Die im Abschnitt 1 genannten DIN-Normen wurden in der Beuth-Verlag GmbH, Berlin 
 
 Das in Nummer 1.3.3 genannte Methodenbuch zur Analyse organischer Düngemittel, Bodenverbesserungsmittel und Substrate wurde im Selbstverlag der Bundesgütegemeinschaft Kompost e. V., Köln, veröffentlicht und ist bei der Deutschen Nationalbibliothek in Leipzig archivmäßig gesichert niedergelegt.
 
-
-## Anhang 4 – (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
+# Anhang 4 – (zu § 11 Absatz 2)Lieferschein gemäß § 11 Absatz 2 der Bioabfallverordnung
 
 (Fundstelle: BGBl. I 2013, 706 — 708)
 
-Der Lieferschein ist vom Bioabfallbehandler oder Gemischhersteller (§ 11 Absatz 2 Satz 2 Nummer 1) bzw. bei unbehandelten Bioabfällen vom Entsorgungsträger, Erzeuger oder Besitzer (§ 10 Absatz 3 Satz 1 Nummer 3 und Satz 2) auszustellen; das Original ist bis zum Bewirtschafter der Aufbringungsfläche (§ 11 Absatz 2 Satz 2 Nummer 2) weiterzugeben. Eine Kopie (Aussteller und Zwischenabnehmer) und das Original (Bewirtschafter der Aufbringungsfläche) des jeweils vollständig ausgefüllten Lieferscheines ist 10 Jahre lang aufzubewahren.  
-  
+Der Lieferschein ist vom Bioabfallbehandler oder Gemischhersteller (§ 11 Absatz 2 Satz 2 Nummer 1) bzw. bei unbehandelten Bioabfällen vom Entsorgungsträger, Erzeuger oder Besitzer (§ 10 Absatz 3 Satz 1 Nummer 3 und Satz 2) auszustellen; das Original ist bis zum Bewirtschafter der Aufbringungsfläche (§ 11 Absatz 2 Satz 2 Nummer 2) weiterzugeben. Eine Kopie (Aussteller und Zwischenabnehmer) und das Original (Bewirtschafter der Aufbringungsfläche) des jeweils vollständig ausgefüllten Lieferscheines ist 10 Jahre lang aufzubewahren.   
 
 Aussteller des Lieferscheines  
 (§ 11 Abs. 2 Satz 2 Nr. 1 bzw. § 10 Abs. 3 Satz 1 Nr. 3 und Satz 2) – Name und Anschrift:

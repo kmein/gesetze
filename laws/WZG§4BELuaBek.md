@@ -1,10 +1,7 @@
-# [WZG§4BELuaBek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 19.01.1983
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 19.01.1983
  
-
-## I.
+# I.
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) werden amtliche Prüf- und Gewährzeichen bekanntgemacht, die  
 - im Königreich Belgien (Anlage 1),  
@@ -15,8 +12,7 @@ Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Beka
 - in der Portugiesischen Republik (Anlage 6)  
 eingeführt sind.
 
-
-## II.
+# II.
 
 Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird bekanntgemacht, daß die Bezeichnungen, Abkürzungen und Kennzeichen  
 - des Benelux-Markenamts (Anlage 7),  
@@ -24,18 +20,15 @@ Auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes wird bekanntgemacht, daß di
 - der Internationalen Seeschiffahrts-Organisation (Anlage 9)  
 von der Eintragung als Warenzeichen ausgeschlossen sind.
 
-
-## III.
+# III.
 
 Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 7. September 1981 (BGBl. I S. 940).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -43,13 +36,11 @@ Der Bundesminister der Justiz
 
 Fundstelle: BGBl. I 1983, 48)
 
-
-## Anlage 2
+# Anlage 2
 
 (weggefallen)
 
-
-## Anlage 3
+# Anlage 3
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -57,17 +48,7 @@ Fundstelle: BGBl. I 1983, 48)
 
 Fundstelle: BGBl. I 1983, 49)
 
-
-## Anlage 4
-
-(Inhalt: Nicht darstellbares Muster,
-
-  
-
-Fundstelle: BGBl. I 1983, 50)
-
-
-## Anlage 5
+# Anlage 4
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -75,8 +56,15 @@ Fundstelle: BGBl. I 1983, 50)
 
 Fundstelle: BGBl. I 1983, 50)
 
+# Anlage 5
 
-## Anlage 6
+(Inhalt: Nicht darstellbares Muster,
+
+  
+
+Fundstelle: BGBl. I 1983, 50)
+
+# Anlage 6
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -84,8 +72,7 @@ Fundstelle: BGBl. I 1983, 50)
 
 Fundstelle: BGBl. I 1983, 51)
 
-
-## Anlage 7
+# Anlage 7
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -93,8 +80,7 @@ Fundstelle: BGBl. I 1983, 51)
 
 Fundstelle: BGBl. I 1983, 51)
 
-
-## Anlage 8
+# Anlage 8
 
 (Inhalt: Nicht darstellbares Muster,
 
@@ -102,8 +88,7 @@ Fundstelle: BGBl. I 1983, 51)
 
 Fundstelle: BGBl. I 1983, 52)
 
-
-## Anlage 9
+# Anlage 9
 
 (Inhalt: Nicht darstellbares Muster,
 

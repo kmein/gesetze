@@ -1,20 +1,15 @@
-# [BürstPiMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe  (Bürsten- und Pinselmachermeisterverordnung - BürstPiMstrV)
-
-Ausfertigungsdatum: 17.11.2020
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe  (Bürsten- und Pinselmachermeisterverordnung - BürstPiMstrV)
+% Ausfertigungsdatum: 17.11.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die in der Prüfung in den Teilen I und II der Meisterprüfung im Bürsten- und Pinselmacher-Gewerbe zu stellenden Anforderungen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 In den Teilen I und II der Meisterprüfung im Bürsten- und Pinselmacher-Gewerbe hat der Prüfling den Teil seiner beruflichen Handlungskompetenz nachzuweisen, der sich auf Tätigkeiten seines Gewerbes und die erforderlichen fachtheoretischen Kenntnisse bezieht. Grundlage dafür sind folgende Fertigkeiten und Kenntnisse:
 
@@ -88,15 +83,13 @@ e) die Möglichkeiten zum Einsatz von Auszubildenden,
 
 13. Prototypen von Bürsten oder Pinseln entwickeln und testen.
 
-
-## § 3 – Ziel und Gliederung der Prüfung in Teil I
+# § 3 – Ziel und Gliederung der Prüfung in Teil I
 
 (1) In der Prüfung in Teil I hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er Tätigkeiten des Bürsten- und Pinselmacher-Gewerbes meisterhaft verrichtet.
 
 (2) Die Prüfung in Teil I gliedert sich in ein Meisterprüfungsprojekt nach § 4 und ein darauf bezogenes Fachgespräch nach § 5. Das Meisterprüfungsprojekt und das Fachgespräch bilden einen Prüfungsbereich.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einer Produktentwicklung oder einer Produktoptimierung entspricht. Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-, Kontroll- und Dokumentationsarbeiten.
 
@@ -126,8 +119,7 @@ Die Planungsarbeiten für das nach Satz 1 gewählte Produkt bestehen aus dem Ent
 
 3. die Kontroll- und Dokumentationsarbeiten anhand der Dokumentationsunterlagen, bestehend aus der Dokumentation und Beurteilung der Testergebnisse, mit 20 Prozent.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 (1) Im Fachgespräch hat der Prüfling nachzuweisen, dass er in der Lage ist,
 
@@ -141,8 +133,7 @@ Die Planungsarbeiten für das nach Satz 1 gewählte Produkt bestehen aus dem Ent
 
 (2) Das Fachgespräch soll höchstens 30 Minuten dauern.
 
-
-## § 6 – Gewichtung; Bestehen der Prüfung in Teil I
+# § 6 – Gewichtung; Bestehen der Prüfung in Teil I
 
 (1) Das Meisterprüfungsprojekt und das Fachgespräch werden gesondert bewertet. Für das Gesamtergebnis der Prüfung in Teil I der Meisterprüfung ist die Bewertung des Meisterprüfungsprojekts und die Bewertung des Fachgesprächs im Verhältnis 3:1 zu gewichten.
 
@@ -152,8 +143,7 @@ Die Planungsarbeiten für das nach Satz 1 gewählte Produkt bestehen aus dem Ent
 
 2. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-
-## § 7 – Ziel und Gliederung der Prüfung in Teil II
+# § 7 – Ziel und Gliederung der Prüfung in Teil II
 
 (1) In Teil II der Meisterprüfung hat der Prüfling umfängliche und zusammenhängende berufliche Aufgaben zu lösen und dabei nachzuweisen, dass er die besonderen fachtheoretischen Kenntnisse im Bürsten- und Pinselmacher-Gewerbe zur Lösung komplexer beruflicher Aufgaben anwendet. Grundlage für den Nachweis bilden die Qualifikationen in den folgenden Handlungsfeldern:
 
@@ -169,8 +159,7 @@ Die Planungsarbeiten für das nach Satz 1 gewählte Produkt bestehen aus dem Ent
 
 (4) Für die Bearbeitung der Aufgaben stehen dem Prüfling in jedem Handlungsfeld drei Stunden zur Verfügung. Eine Prüfungsdauer von sechs Stunden an einem Tag darf nicht überschritten werden.
 
-
-## § 8 – Handlungsfeld „Anforderungen von Kunden eines Bürsten- und Pinselmacher-Betriebs analysieren, Lösungen erarbeiten und anbieten“
+# § 8 – Handlungsfeld „Anforderungen von Kunden eines Bürsten- und Pinselmacher-Betriebs analysieren, Lösungen erarbeiten und anbieten“
 
 (1) Im Handlungsfeld „Anforderungen von Kunden eines Bürsten- und Pinselmacher-Betriebs analysieren, Lösungen erarbeiten und anbieten“ hat der Prüfling nachzuweisen, dass er in der Lage ist, in einem Bürsten- und Pinselmacher-Betrieb Anforderungen erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, zu analysieren, Lösungen zu planen und anzubieten. Dabei hat er wirtschaftliche, verwendungszweckbezogene, gestalterische, materialbezogene und rechtliche Gesichtspunkte sowie Gesichtspunkte der Nachhaltigkeit und die allgemein anerkannten Regeln der Technik zu berücksichtigen. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
@@ -220,8 +209,7 @@ d) auf der Grundlage entwickelter Produktvorschläge Angebotspositionen bestimme
 
 e) Bildung von Produktpreisen erläutern.
 
-
-## § 9 – Handlungsfeld „Produkte eines Bürsten- und Pinselmacher-Betriebs herstellen, kontrollieren und übergeben“
+# § 9 – Handlungsfeld „Produkte eines Bürsten- und Pinselmacher-Betriebs herstellen, kontrollieren und übergeben“
 
 (1) Im Handlungsfeld „Produkte eines Bürsten- und Pinselmacher-Betriebs herstellen, kontrollieren und übergeben“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Produkte eines Bürsten- und Pinselmacher-Betriebs erfolgs-, kunden- und qualitätsorientiert, auch unter Anwendung von Informations- und Kommunikationstechnologien, herzustellen, zu kontrollieren und zu übergeben. Dabei hat er wirtschaftliche, verwendungszweckbezogene, gestalterische, materialbezogene und rechtliche Gesichtspunkte sowie Gesichtspunkte der Nachhaltigkeit und die allgemein anerkannten Regeln der Technik zu berücksichtigen. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
@@ -263,8 +251,7 @@ f) Möglichkeiten des Aufbaus und Erhalt von Kundenzufriedenheit und Kundenbindu
 
 g) Serviceleistungen als Instrumente zur Kundenzufriedenheit und Kundenbindung erläutern und bewerten.
 
-
-## § 10 – Handlungsfeld „Einen Bürsten- und Pinselmacher-Betrieb führen und organisieren“
+# § 10 – Handlungsfeld „Einen Bürsten- und Pinselmacher-Betrieb führen und organisieren“
 
 (1) Im Handlungsfeld „Einen Bürsten- und Pinselmacher-Betrieb führen und organisieren“ hat der Prüfling nachzuweisen, dass er in der Lage ist, Aufgaben der Betriebsführung und Betriebsorganisation in einem Bürsten- und Pinselmacher-Betrieb unter Berücksichtigung der Rechtsvorschriften, auch unter Anwendung von Informations- und Kommunikationstechnologien, wahrzunehmen. Dabei hat er den Nutzen zwischenbetrieblicher Kooperationen, insbesondere den Nutzen gewerbeübergreifender Zusammenarbeit, zu prüfen und zu bewerten. Bei der jeweiligen Aufgabenstellung sollen mehrere der in Absatz 2 genannten Qualifikationen verknüpft werden.
 
@@ -340,8 +327,7 @@ e) Betriebsabläufe planen und verbessern, unter Berücksichtigung der Nachfrage
 
 f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung logistischer Gesichtspunkte planen.
 
-
-## § 11 – Gewichtung; Bestehen der Prüfung in Teil II
+# § 11 – Gewichtung; Bestehen der Prüfung in Teil II
 
 (1) Für das Gesamtergebnis der Prüfung in Teil II der Meisterprüfung ist das arithmetische Mittel der Bewertungen der drei Handlungsfelder nach den §§ 8 bis 10 zu bilden.
 
@@ -355,21 +341,18 @@ f) Betriebs-, Lager-, Fahrzeug- und Werkstattausstattung unter Berücksichtigung
 
 3. das Gesamtergebnis der Prüfung mindestens „ausreichend“ ist.
 
-
-## § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 12 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 13 – Übergangsvorschrift
+# § 13 – Übergangsvorschrift
 
 (1) Die bis zum Ablauf des 31. Dezember 2020 begonnenen Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2021, so sind auf Verlangen des Prüflings die bis zum Ablauf des 31. Dezember 2020 geltenden Vorschriften weiter anzuwenden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 31. Dezember 2020 geltenden Vorschriften nicht bestanden haben und sich bis zum Ablauf des 31. Dezember 2022 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum Ablauf des 31. Dezember 2020 geltenden Vorschriften ablegen.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt die Bürsten- und Pinselmachermeisterverordnung vom 27. Juli 1993 (BGBl. I S.1414) außer Kraft.

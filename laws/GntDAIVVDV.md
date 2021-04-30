@@ -1,37 +1,29 @@
-# [GntDAIVVDV] Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes  (GntDAIVVDV)
-
-Ausfertigungsdatum: 11.08.2010
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes  (GntDAIVVDV)
+% Ausfertigungsdatum: 11.08.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) und des § 10 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium des Innern:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Diplomstudium
+# § 1 – Diplomstudium
 
 (1) Der Diplom-Studiengang „Verwaltungsmanagement“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen Dienstes in der allgemeinen und inneren Verwaltung des Bundes.
 
 (2) Der Diplom-Studiengang wird als Präsenzstudiengang und als Fernstudiengang angeboten.
 
-
-## § 2 – Ziele des Studiums
+# § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen nichttechnischen Verwaltungsdienst des Bundes erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln in einem freiheitlichen demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und europäischen Raum. Die Studierenden sollen ihre Kompetenzen weiterentwickeln, um den sich ständig wandelnden Herausforderungen der Bundesverwaltung gerecht zu werden.
 
-
-## § 3 – Dienstbehörden; Freistellung
+# § 3 – Dienstbehörden; Freistellung
 
 (1) Im Präsenzstudiengang ist die Fachhochschule als Einstellungsbehörde der Studierenden für die dienstrechtlichen Entscheidungen zuständig. Während der berufspraktischen Studienzeiten in den Ausbildungsbehörden des Bundes unterstehen die Studierenden neben der Dienstaufsicht der Präsidentin oder des Präsidenten der Fachhochschule auch der Dienstaufsicht der Leitungen der Ausbildungsbehörden.
 
 (2) Im Fernstudiengang verbleiben die Studierenden bei ihren bisherigen Dienststellen. Sie sind für den Besuch der Präsenzveranstaltungen, für die Teilnahme an Prüfungen und im Rahmen weiterer Anwesenheitspflichten an der Fachhochschule von ihren sonstigen Dienstpflichten freizustellen. Für die Anfertigung der Diplomarbeit ist ihnen eine Dienstbefreiung im Umfang von sechs Wochen zu gewähren. Zum Fern- und Selbststudium ist ihnen eine Dienstbefreiung im Umfang von 47 Arbeitstagen pro Studienabschnitt zu gewähren, die gleichmäßig auf die Module verteilt werden soll.
 
-
-## § 4 – Auswahlverfahren
+# § 4 – Auswahlverfahren
 
 (1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung zum Fernstudiengang entscheidet jeweils die Fachhochschule auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den gehobenen nichttechnischen Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung bleibt unberührt. Das Auswahlverfahren wird an der Fachhochschule von einer Auswahlkommission durchgeführt. Es besteht aus einem schriftlichen und einem mündlichen Teil. Das Bundesministerium des Innern, für Bau und Heimat entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
 
@@ -51,13 +43,11 @@ In begründeten Fällen kann auch eine Tarifbeschäftigte oder ein Tarifbeschäf
 
 (5) Bei Bedarf können mehrere Kommissionen eingerichtet werden. In diesen Fällen ist sicherzustellen, dass gleiche Auswahlmaßstäbe angelegt werden.
 
-
-## § 5 – Urlaub
+# § 5 – Urlaub
 
 Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholungsurlaubs. Er ist auf die Fachstudien und die berufspraktischen Studienzeiten gleichmäßig zu verteilen.
 
-
-## § 6 – Dauer und Aufbau des Studiums
+# § 6 – Dauer und Aufbau des Studiums
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien an der Fachhochschule sowie berufspraktische Studienzeiten (Praktika) in Bundesbehörden. Praktika können auch im Ausland bei geeigneten Ausbildungsstätten absolviert werden. Das Nähere regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
@@ -85,8 +75,7 @@ Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholung
 
 (5) Je Semester im Präsenzstudiengang oder je Studienabschnitt im Fernstudiengang können die Studierenden bis zu 30 Leistungspunkte (Credit Points) nach dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen (ECTS) erwerben. Die Anzahl der Leistungspunkte, die für jedes erfolgreich absolvierte Modul erreicht werden können, ergibt sich aus dem Modulhandbuch in der jeweils bei Aufnahme des Studiums geltenden Fassung entsprechend § 7 Absatz 1 Satz 2.
 
-
-## § 7 – Studieninhalte, Module
+# § 7 – Studieninhalte, Module
 
 (1) Die Studieninhalte werden in Modulen vermittelt. Die Inhalte der Module richten sich nach dem Modulhandbuch in der jeweils bei Aufnahme des Studiums geltenden Fassung. Es sind alle Module zu absolvieren.
 
@@ -120,8 +109,7 @@ Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholung
 
 (4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
-
-## § 8 – Berufspraktische Studienzeiten
+# § 8 – Berufspraktische Studienzeiten
 
 (1) Die Fachhochschule bestimmt und überwacht die Gestaltung und die Organisation der Praktika. Die Praktikumsstelle erstellt in Abstimmung mit der Fachhochschule für jede Studierende und jeden Studierenden einen Ausbildungsplan für das Praktikum und gibt ihn der oder dem Studierenden bekannt. Einzelheiten regelt die Praktikumsordnung der Fachhochschule.
 
@@ -131,8 +119,7 @@ Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des Erholung
 
 (4) Die Ausbildungsverantwortlichen erstellen unter Beteiligung der Ausbildenden für jede Studierende und jeden Studierenden eine Praktikumsbeurteilung. Die Praktikumsbeurteilungen sind mit den Studierenden zu besprechen.
 
-
-## § 9 – Laufbahnprüfung
+# § 9 – Laufbahnprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
@@ -146,8 +133,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 5. der mündlichen Abschlussprüfung.
 
-
-## § 10 – Prüfungsamt
+# § 10 – Prüfungsamt
 
 (1) Für die Organisation und Durchführung der Laufbahnprüfung richtet die Fachhochschule ein Prüfungsamt ein.
 
@@ -155,8 +141,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
 
 (3) Prüfungstermine soll das Prüfungsamt zu Beginn eines Semesters oder Studienabschnittes zusammen mit dem Fachbereich nach den Erfordernissen von Prüfungsrecht und Lehre festlegen.
 
-
-## § 11 – Prüfende, Prüfungskommission
+# § 11 – Prüfende, Prüfungskommission
 
 (1) Das Prüfungsamt bestellt Prüfende für die Bewertung der fachtheoretischen Modulprüfungen und der Diplomarbeit. Es richtet für die mündliche Abschlussprüfung Prüfungskommissionen ein und bestellt deren Mitglieder und Ersatzmitglieder. Die Prüfenden sind in ihren Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
@@ -190,8 +175,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (8) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
-
-## § 12 – Modulprüfungen im Hauptstudium
+# § 12 – Modulprüfungen im Hauptstudium
 
 (1) In jedem Modul des Hauptstudiums ist eine Prüfung abzulegen.
 
@@ -221,8 +205,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (7) Modulprüfungen in den Praktika bestehen aus einem Praktikumsbericht und einem Rundgespräch. Daneben fließt in die Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4 ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
-
-## § 13 – Prüfungen im Grundstudium
+# § 13 – Prüfungen im Grundstudium
 
 (1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ abgeschlossen.
 
@@ -234,8 +217,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (5) Für die Prüfung im Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“ gilt § 12 Absatz 4 entsprechend.
 
-
-## § 14 – Diplomarbeit
+# § 14 – Diplomarbeit
 
 (1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbstständig zu bearbeiten. Die Bearbeitungszeit beträgt acht Wochen. Die Studierenden werden zur Anfertigung der Diplomarbeit für sechs Wochen von der Teilnahme an Lehrveranstaltungen und von ihren sonstigen Dienstpflichten freigestellt.
 
@@ -247,8 +229,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (5) Die Lehrkraft, die das Thema der Diplomarbeit vorgeschlagen hat, ist Erstprüferin oder Erstprüfer der Diplomarbeit. Ist das Thema von einer Dienstbehörde vorgeschlagen worden, ist eine hauptamtliche Lehrkraft, die das entsprechende Fachgebiet unterrichtet, Erstprüferin oder Erstprüfer. Die Dauer des Bewertungsverfahrens soll sechs Wochen nicht überschreiten.
 
-
-## § 15 – Mündliche Abschlussprüfung
+# § 15 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die Zwischenprüfung, die Modulprüfungen des Hauptstudiums und die Diplomarbeit bestanden hat.
 
@@ -262,8 +243,7 @@ Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine entspreche
 
 (6) Die Prüfung muss bis zum Ende des Vorbereitungsdienstes abgeschlossen sein.
 
-
-## § 16 – Bewertung von Prüfungen und Prüfungsteilen
+# § 16 – Bewertung von Prüfungen und Prüfungsteilen
 
 (1) Prüfungen und Prüfungsteile werden mit Rangpunkten und Noten bewertet.
 
@@ -359,8 +339,7 @@ nicht ausreichend
 
 (5) Eine Prüfung ist bestanden, wenn sie mit mindestens fünf Rangpunkten bewertet ist.
 
-
-## § 17 – Fernbleiben, Rücktritt
+# § 17 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der Zwischenprüfung, von einer Modulprüfung oder von der mündlichen Abschlussprüfung ohne Genehmigung des Prüfungsamtes gilt die Prüfung als mit null Rangpunkten bewertet.
 
@@ -368,8 +347,7 @@ nicht ausreichend
 
 (3) Für die Anfertigung der Diplomarbeit gilt Absatz 2 entsprechend. Soweit die Verhinderung die Bearbeitungszeit der Diplomarbeit nicht um die Hälfte übersteigt, verlängert das Prüfungsamt die Bearbeitungszeit auf Antrag der oder des Studierenden entsprechend. Sind Studierende länger als die Hälfte der Bearbeitungszeit verhindert, gilt die Diplomarbeit als nicht begonnen. Wird die Diplomarbeit nicht innerhalb der vorgesehenen Frist abgegeben, gilt sie als mit null Punkten bewertet.
 
-
-## § 18 – Täuschung, Ordnungsverstoß, Störung
+# § 18 – Täuschung, Ordnungsverstoß, Störung
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil eine Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung oder dem Prüfungsteil ausgeschlossen werden.
 
@@ -387,8 +365,7 @@ nicht ausreichend
 
 2. der Diplomarbeit dem Prüfungsamt.
 
-
-## § 19 – Wiederholung von Prüfungen
+# § 19 – Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb von sechs Wochen nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Ist auch die Wiederholung erfolglos, ist das Studium beendet.
 
@@ -400,8 +377,7 @@ nicht ausreichend
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 20 – Bestehen der Laufbahnprüfung, Gesamtnote
+# § 20 – Bestehen der Laufbahnprüfung, Gesamtnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die Modulprüfungen und die Diplomarbeit jeweils mit mindestens fünf Rangpunkten bewertet worden sind und in der Zwischenprüfung sowie der mündlichen Abschlussprüfung jeweils mindestens die Durchschnittsrangpunktzahl 5 erreicht wurde.
 
@@ -448,8 +424,7 @@ Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch auf ei
 
 (3) Im Anschluss an die Beratung der Prüfungskommission zur mündlichen Abschlussprüfung teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-
-## § 21 – Abschlusszeugnis
+# § 21 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält
 
@@ -469,8 +444,7 @@ Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch auf ei
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der die absolvierten Module, deren Bewertung und die erworbenen Leistungspunkte hervorgehen.
 
-
-## § 22 – Prüfungsakten, Einsichtnahme
+# § 22 – Prüfungsakten, Einsichtnahme
 
 (1) Zu den Prüfungsakten zu nehmen sind
 
@@ -488,17 +462,14 @@ Die Prüfungsakten werden von der Fachhochschule mindestens fünf und höchstens
 
 (2) Die Beamtinnen und Beamten können Einsicht in ihre Prüfungsakten nehmen. Satz 1 gilt entsprechend, wenn die Laufbahnprüfung nicht bestanden ist oder wenn keine Übernahme in das Beamtenverhältnis erfolgt ist.
 
-
-## § 23 – Übergangsvorschrift
+# § 23 – Übergangsvorschrift
 
 Für Studierende, die vor dem 1. Oktober 2014 mit dem Vorbereitungsdienst im Präsenzstudium begonnen haben, ist die Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes vom 11. August 2010 (BGBl. I S. 1214) weiter anzuwenden.
 
-
-## § 24 – Inkrafttreten, Außerkrafttreten
+# § 24 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes vom 12. Juli 2001 (BGBl. I S. 1578), die zuletzt durch § 56 Absatz 8 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 21 Absatz 1)Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
+# Anlage – (zu § 21 Absatz 1)Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
 
 (Fundstelle: BGBl. I 2010, 1221)

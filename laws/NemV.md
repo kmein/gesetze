@@ -1,10 +1,7 @@
-# [NemV] Verordnung über Nahrungsergänzungsmittel  (Nahrungsergänzungsmittelverordnung - NemV)
-
-Ausfertigungsdatum: 24.05.2004
-
+% Verordnung über Nahrungsergänzungsmittel  (Nahrungsergänzungsmittelverordnung - NemV)
+% Ausfertigungsdatum: 24.05.2004
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Nahrungsergänzungsmittel im Sinne dieser Verordnung ist ein Lebensmittel, das
 
@@ -16,20 +13,17 @@ Ausfertigungsdatum: 24.05.2004
 
 (2) Nährstoffe im Sinne dieser Verordnung sind Vitamine und Mineralstoffe, einschließlich Spurenelemente.
 
-
-## § 2 – Abgabe in Verpackungen
+# § 2 – Abgabe in Verpackungen
 
 Ein Nahrungsergänzungsmittel, das zur Abgabe an den Verbraucher bestimmt ist, darf gewerbsmäßig nur als vorverpacktes Lebensmittel im Sinne von Artikel 2 Absatz 2 Buchstabe e der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung in den Verkehr gebracht werden.
 
-
-## § 3 – Zugelassene Stoffe
+# § 3 – Zugelassene Stoffe
 
 (1) Bei der Herstellung eines Nahrungsergänzungsmittels dürfen nur die in Anhang I der Richtlinie 2002/46/EG des Europäischen Parlaments und des Rates vom 10. Juni 2002 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Nahrungsergänzungsmittel (ABl. L 183 vom 12.7.2002, S. 51) aufgeführten Nährstoffe im Sinne des § 1 Absatz 2 in den in Anhang II der Richtlinie 2002/46/EG aufgeführten Formen verwendet werden. Die Anhänge I und II der Richtlinie 2002/46/EG sind jeweils in der am 5. Dezember 2011 geltenden Fassung (ABl. L 296 vom 15.11.2011, S. 29) anzuwenden.
 
 (2) Die in Anhang II der Richtlinie 2002/46/EG, in der am 5. Dezember 2011 geltenden Fassung (ABl. L 296 vom 15.11.2011, S. 29), genannten Stoffe müssen vorbehaltlich des Satzes 2 den in der Verordnung (EU) Nr. 231/2012 der Kommission vom 9. März 2012 mit Spezifikationen für die in den Anhängen II und III der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates aufgeführten Lebensmittelzusatzstoffe (ABl. L 83 vom 22.3.2012, S. 1), in der jeweils geltenden Fassung, festgelegten Reinheitsanforderungen entsprechen. Stoffe des Anhangs II der Richtlinie 2002/46/EG, in der am 5. Dezember 2011 geltenden Fassung (ABl. L 296 vom 15.11.2011, S. 29), die nicht in der Verordnung (EU) Nr. 231/2012 aufgeführt sind, müssen den nach den allgemein anerkannten Regeln der Technik erreichbaren Reinheitsanforderungen entsprechen.
 
-
-## § 4 – Kennzeichnung
+# § 4 – Kennzeichnung
 
 (1) Für ein Nahrungsergänzungsmittel ist die Bezeichnung "Nahrungsergänzungsmittel" Bezeichnung des Lebensmittels nach der Verordnung (EU) Nr. 1169/2011.
 
@@ -59,8 +53,7 @@ angegeben sind. Die Angabe nach Satz 1 Nummer 2 kann auch in grafischer Form erf
 
 (5) Für die Art und Weise der Kennzeichnung nach den Absätzen 1 bis 3 gelten Artikel 12 Absatz 1 und 2, Artikel 13 Absatz 1 bis 3 der Verordnung (EU) Nr. 1169/2011 und § 2 der Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
-
-## § 5 – Anzeige
+# § 5 – Anzeige
 
 (1) Wer ein Nahrungsergänzungsmittel als Hersteller oder Einführer in den Verkehr bringen will, hat dies spätestens beim ersten Inverkehrbringen dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit unter Vorlage eines Musters des für das Erzeugnis verwendeten Etiketts anzuzeigen.
 
@@ -68,8 +61,7 @@ angegeben sind. Die Angabe nach Satz 1 Nummer 2 kann auch in grafischer Form erf
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übermittelt die Anzeige unverzüglich dem Bundesministerium für Ernährung und Landwirtschaft und den für die Lebensmittelüberwachung zuständigen obersten Landesbehörden.
 
-
-## § 6 – Straftaten und Ordnungswidrigkeiten
+# § 6 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 einen Nährstoff verwendet.
 

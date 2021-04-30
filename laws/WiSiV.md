@@ -1,15 +1,11 @@
-# [WiSiV] Verordnung über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft  (Wirtschaftssicherstellungsverordnung - WiSiV)
-
-Ausfertigungsdatum: 12.08.2004
-
+% Verordnung über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft  (Wirtschaftssicherstellungsverordnung - WiSiV)
+% Ausfertigungsdatum: 12.08.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1 bis 3, 5, 7 und 8, der §§ 2, 3 und 5 Abs. 1, des § 6, des § 8 Abs. 1 und 6 und der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (BGBl. I S. 1069), von denen § 5 Abs. 1, die §§ 6, 9 und 21 Nr. 2 durch Artikel 100 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden sind, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
@@ -29,8 +25,7 @@ Die Vorschriften dieser Verordnung gelten nicht für Waren, Werkleistungen und P
 
 Sie sind auf das unerlässliche Maß zu beschränken.
 
-
-## § 2 – Vorrangige Erfüllung von Verträgen
+# § 2 – Vorrangige Erfüllung von Verträgen
 
 (1) Unternehmer der gewerblichen Wirtschaft mit einer Betriebsstätte im Geltungsbereich dieser Verordnung (Unternehmer) sind für Zwecke der Verteidigung verpflichtet, Verträge über Warenlieferungen oder Werkleistungen, für die eine Vorrangerklärung nach Absatz 3 abgegeben worden ist (Vorrangverträge), nach Maßgabe der Absätze 2 bis 8 im Range vor konkurrierenden anderen Verpflichtungen zu erfüllen.
 
@@ -54,8 +49,7 @@ b) ihre Erfüllung betriebliche Mittel erfordert, die für die Erfüllung des Vo
 
 (8) Sind einem Unternehmer mehrere Vorrangerklärungen zugegangen, so kann die zuständige Behörde auf Antrag oder von Amts wegen die Reihenfolge der Erfüllung der Vorrangverträge unter Berücksichtigung der Zwecke dieser Verordnung untereinander anordnen; die zuständige Behörde kann ferner die Reihenfolge der Erfüllung von Vorrangverträgen und Verwaltungsakten nach § 6 Abs. 1 und 2 abweichend von § 6 Abs. 3 regeln.
 
-
-## § 3 – Erklärungsermächtigung
+# § 3 – Erklärungsermächtigung
 
 (1) Die Ermächtigung zur Abgabe einer Vorrangerklärung kann von der zuständigen Behörde auf Antrag für bestehende und für noch abzuschließende Verträge oder Teile von Verträgen erteilt werden.
 
@@ -75,8 +69,7 @@ e) die sonstigen juristischen Personen des öffentlichen Rechts;
 
 3. Personen und Personenvereinigungen des privaten Rechts mit lebens- oder verteidigungswichtigen Aufgaben oder mit Aufgaben zur Durchführung des Energiesicherungsgesetzes.
 
-
-## § 4 – Erklärungsberechtigung
+# § 4 – Erklärungsberechtigung
 
 (1) Eine Vorrangerklärung nach § 2 Abs. 3 darf nur abgeben,
 
@@ -86,8 +79,7 @@ e) die sonstigen juristischen Personen des öffentlichen Rechts;
 
 (2) Sobald die Voraussetzungen zur Abgabe einer Vorrangerklärung entfallen, ist sie unverzüglich zu widerrufen.
 
-
-## § 5 – Vorrangbestellung
+# § 5 – Vorrangbestellung
 
 (1) Wer nach § 4 Abs. 1 berechtigt ist, einen Vorrang zu erklären, kann einem Unternehmer ein Angebot zum Abschluss eines Vertrages (Bestellung) über eine Warenlieferung oder eine Werkleistung nach § 1 zum üblichen Entgelt mit der Zusicherung machen, dass er im Falle des Zustandekommens des Vertrages eine Vorrangerklärung abgeben wird (Vorrangbestellung). Der Unternehmer hat eine Vorrangbestellung unverzüglich anzunehmen oder unter Darlegung der Gründe abzulehnen.
 
@@ -105,8 +97,7 @@ e) die sonstigen juristischen Personen des öffentlichen Rechts;
 
 Beantragt der Besteller eine Verpflichtung nach Absatz 4, so kann die zuständige Behörde die Dauer des Unterlassungsgebots bis zum Zeitpunkt des Zuganges der Entscheidung nach § 6 verlängern.
 
-
-## § 6 – Verpflichtungsbescheid
+# § 6 – Verpflichtungsbescheid
 
 (1) Unternehmer können von der zuständigen Behörde verpflichtet werden, vor konkurrierenden anderen Verpflichtungen, die nicht Vorrangverträge sind, innerhalb einer gesetzten Frist oder in einer sonstigen bestimmten Weise
 
@@ -130,8 +121,7 @@ Beantragt der Besteller eine Verpflichtung nach Absatz 4, so kann die zuständig
 
 (7) Die zuständige Behörde hat die sofortige Vollziehung der Verpflichtung im öffentlichen Interesse anzuordnen.
 
-
-## § 7 – Einschränkungen
+# § 7 – Einschränkungen
 
 (1) Schränkt das Bundesministerium für Wirtschaft und Energie durch Verordnung die Lieferung, den Bezug oder die Verwendung von Waren zeitlich oder mengenmäßig ein (Warenbewirtschaftung), so darf der Unternehmer solche Waren nur liefern, sie beziehen oder verwenden, soweit
 
@@ -145,15 +135,13 @@ Beantragt der Besteller eine Verpflichtung nach Absatz 4, so kann die zuständig
 
 (2) Der Unternehmer darf bewirtschaftete Waren zur eigenen Verwendung nur entnehmen, wenn die Voraussetzungen des Absatzes 1 erfüllt sind.
 
-
-## § 8 – Allgemeine Zulassungen und Genehmigungen im Einzelfall
+# § 8 – Allgemeine Zulassungen und Genehmigungen im Einzelfall
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann die Lieferung, den Bezug und die Verwendung bewirtschafteter Waren durch Unternehmer insgesamt oder hinsichtlich bestimmter Waren und Warenarten oder besonderer Tatbestände allgemein zulassen.
 
 (2) Die zuständige Behörde kann in Einzelfällen die Lieferung, den Bezug oder die Verwendung dieser Waren genehmigen.
 
-
-## § 9 – Bezugsberechtigungen
+# § 9 – Bezugsberechtigungen
 
 (1) Für den Bezug von bewirtschafteten Waren kann die zuständige Behörde zur Deckung des nach § 1 Abs. 2 bestehenden Bedarfs auf begründeten Antrag Bezugscheine erteilen. Das Bundesministerium für Wirtschaft und Energie oder die für die gewerbliche Wirtschaft zuständige oberste Landesbehörde können ein anderes Verfahren zulassen, wenn der Nachweis der Lieferung und des Bezuges bewirtschafteter Waren sichergestellt ist.
 
@@ -167,13 +155,11 @@ Beantragt der Besteller eine Verpflichtung nach Absatz 4, so kann die zuständig
 
 (6) Der Unternehmer hat die ihm ausgehändigten Bezugscheine oder Kartenabschnitte unverzüglich durch einen Vermerk zu entwerten, ein Jahr nach der Entwertung aufzubewahren und innerhalb dieser Frist der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 10 – Zuteilungsnachweis
+# § 10 – Zuteilungsnachweis
 
 Für Zwecke der Zuteilung und des Bezuges von Waren der gewerblichen Wirtschaft zur Deckung des persönlichen Bedarfs kann ein Zuteilungsnachweis eingeführt werden. Über seine Einführung und Ausgestaltung entscheidet das Bundesministerium für Wirtschaft und Energie im Benehmen mit den Ländern.
 
-
-## § 11 – Meldungen
+# § 11 – Meldungen
 
 (1) Um die für Zwecke der Verteidigung erforderliche Versorgung mit Waren sicherzustellen, haben Unternehmer, deren Gewerbebetrieb auf die Lieferung von Waren eingerichtet ist, der zuständigen Behörde die Bestände an bewirtschafteten Waren, über die sie unmittelbar verfügungsberechtigt sind, zum Zeitpunkt des Beginns der Bewirtschaftung nach § 7 unverzüglich gemäß Absatz 2 zu melden.
 
@@ -187,8 +173,7 @@ Für Zwecke der Zuteilung und des Bezuges von Waren der gewerblichen Wirtschaft 
 
 (3) Die zuständige Behörde kann bestimmen, dass und zu welchem Zeitpunkt erneut Meldungen abzugeben sind.
 
-
-## § 12 – Zuständige Behörde
+# § 12 – Zuständige Behörde
 
 (1) Zuständig sind
 
@@ -220,8 +205,7 @@ Länder ohne höhere Verwaltungsbehörden können in eigener Zuständigkeit ents
 
 (3) Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt, entsprechend dem besonderen Verwaltungsaufbau ihrer Länder die Zuständigkeit von Behörden abweichend von den Vorschriften dieser Verordnung zu regeln und insbesondere zu bestimmen, welche Stellen die Aufgaben der Behörden der allgemeinen Verwaltung auf der Kreisstufe, der Gemeinden und Gemeindeverbände nach Maßgabe dieser Verordnung wahrzunehmen haben.
 
-
-## § 13 – Straftaten und Ordnungswidrigkeiten
+# § 13 – Straftaten und Ordnungswidrigkeiten
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -259,8 +243,7 @@ begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsges
 
 Die übergeordnete Behörde ist in den Fällen des § 12 Abs. 2 zuständig.
 
-
-## § 14 – Inkrafttreten und Anwendbarkeit
+# § 14 – Inkrafttreten und Anwendbarkeit
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -268,7 +251,6 @@ Die übergeordnete Behörde ist in den Fällen des § 12 Abs. 2 zuständig.
 
 (3) § 12 Abs. 3 ist mit dem Inkrafttreten anwendbar.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

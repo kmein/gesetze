@@ -1,10 +1,7 @@
-# [MsbLärmSchV] Magnetschwebebahn-Lärmschutzverordnung
-
-Ausfertigungsdatum: 23.09.1997
-
+% Magnetschwebebahn-Lärmschutzverordnung
+% Ausfertigungsdatum: 23.09.1997
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Verordnung gilt für den Bau oder die wesentliche Änderung von Verkehrswegen der Magnetschwebebahnen.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 23.09.1997
 
 Eine Änderung ist auch wesentlich, wenn der Beurteilungspegel des von dem zu ändernden Verkehrsweg der Magnetschwebebahnen ausgehenden Verkehrslärms von mindestens 70 Dezibel (A) am Tage oder 60 Dezibel (A) in der Nacht durch einen erheblichen baulichen Eingriff erhöht wird; dies gilt nicht in Gewerbegebieten.
 
-
-## § 2 – Immissionsgrenzwerte
+# § 2 – Immissionsgrenzwerte
 
 (1) Zum Schutz der Nachbarschaft vor schädlichen Umwelteinwirkungen durch Verkehrsgeräusche von Magnetschwebebahnen ist bei dem Bau oder der wesentlichen Änderung von Verkehrswegen der Magnetschwebebahnen sicherzustellen, daß der Beurteilungspegel dieser Verkehrsgeräusche einen der folgenden Immissionsgrenzwerte nicht überschreitet:  
 
@@ -71,13 +67,11 @@ in Gewerbegebieten
 
 (3) Wird die zu schützende Nutzung nur am Tage oder nur in der Nacht ausgeübt, so ist der Immissionsgrenzwert für diesen Zeitraum anzuwenden.
 
-
-## § 3 – Berechnung des Beurteilungspegels
+# § 3 – Berechnung des Beurteilungspegels
 
 Der Beurteilungspegel ist nach der Anlage zu berechnen. Die dort unter Nummer 2.1 genannten Angaben hat der Betreiber der Magnetschwebebahn beizubringen.
 
-
-## Anlage – Berechnung des Beurteilungspegels
+# Anlage – Berechnung des Beurteilungspegels
 
 (Inhalt: nicht darstellbare Anlage;  
 Fundstelle: BGBl. I 1997, 2338 - 2344)

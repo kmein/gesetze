@@ -1,33 +1,25 @@
-# [BBankG] Gesetz über die Deutsche Bundesbank
-
-Ausfertigungsdatum: 26.07.1957
-
+% Gesetz über die Deutsche Bundesbank
+% Ausfertigungsdatum: 26.07.1957
  
-
-## § 1
+# § 1
 
 (weggefallen)
 
-
-## § 2 – Rechtsform, Grundkapital und Sitz
+# § 2 – Rechtsform, Grundkapital und Sitz
 
 Die Deutsche Bundesbank ist eine bundesunmittelbare juristische Person des öffentlichen Rechts. Ihr Grundkapital im Betrage von 2,5 Milliarden Euro steht dem Bund zu. Die Bank hat ihren Sitz in Frankfurt am Main.
 
-
-## § 3 – Aufgaben
+# § 3 – Aufgaben
 
 Die Deutsche Bundesbank ist als Zentralbank der Bundesrepublik Deutschland integraler Bestandteil des Europäischen Systems der Zentralbanken. Sie wirkt an der Erfüllung seiner Aufgaben mit dem vorrangigen Ziel mit, die Preisstabilität zu gewährleisten, hält und verwaltet die Währungsreserven der Bundesrepublik Deutschland, sorgt für die bankmäßige Abwicklung des Zahlungsverkehrs im Inland und mit dem Ausland und trägt zur Stabilität der Zahlungs- und Verrechnungssysteme bei. Sie nimmt darüber hinaus die ihr nach diesem Gesetz oder anderen Rechtsvorschriften übertragenen Aufgaben wahr.
 
-
-## § 4 – Beteiligungen
+# § 4 – Beteiligungen
 
 Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der Satzung des Europäischen Systems der Zentralbanken und der Europäischen Zentralbank berechtigt, sich an der Bank für Internationalen Zahlungsausgleich und mit Zustimmung der Bundesregierung an anderen Einrichtungen zu beteiligen, die einer übernationalen Währungspolitik oder dem internationalen Zahlungs- und Kreditverkehr dienen oder sonst geeignet sind, die Erfüllung ihrer Aufgabe zu fördern.
 
+# §§ 5 und 6 – (weggefallen)
 
-## §§ 5 und 6 – (weggefallen)
-
-
-## § 7 – Vorstand
+# § 7 – Vorstand
 
 (1) Organ der Deutschen Bundesbank ist der Vorstand. Er leitet und verwaltet die Bank. Er beschließt ein Organisationsstatut, das die Zuständigkeiten innerhalb des Vorstands und die Aufgaben, die den Hauptverwaltungen übertragen werden können, festlegt. Der Vorstand kann die Wahrnehmung bestimmter Angelegenheiten einem Mitglied zur eigenverantwortlichen Erledigung übertragen.
 
@@ -39,8 +31,7 @@ Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der Satzung des Eu
 
 (5) Der Vorstand berät unter dem Vorsitz des Präsidenten oder des Vizepräsidenten. Er fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag. Bei der Verteilung der Zuständigkeiten innerhalb des Vorstands kann nicht gegen den Präsidenten entschieden werden.
 
-
-## § 8 – Hauptverwaltungen
+# § 8 – Hauptverwaltungen
 
 (1) Die Deutsche Bundesbank unterhält je eine Hauptverwaltung für den Bereich
 
@@ -66,8 +57,7 @@ Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der Satzung des Eu
 
 (3) bis (5) (weggefallen)
 
-
-## § 9 – Beiräte bei den Hauptverwaltungen
+# § 9 – Beiräte bei den Hauptverwaltungen
 
 (1) Bei jeder Hauptverwaltung besteht ein Beirat, der regelmäßig mit dem Präsidenten der Hauptverwaltung zusammentrifft und mit ihm über die Durchführung der in seinem Bereich anfallenden Arbeiten berät.
 
@@ -77,13 +67,11 @@ Die Deutsche Bundesbank ist unbeschadet des Artikels 6 Abs. 2 der Satzung des Eu
 
 (4) Den Vorsitz im Beirat führt der Präsident der Hauptverwaltung. Bei Beratungsgegenständen, die ihrer Natur nach vertraulich sind oder die der Vorsitzende ausdrücklich als vertraulich bezeichnet hat, sind die Teilnehmer an den Sitzungen des Beirats zur Verschwiegenheit verpflichtet.
 
-
-## § 10 – Filialen
+# § 10 – Filialen
 
 Die Deutsche Bundesbank darf Filialen unterhalten, die der zuständigen Hauptverwaltung unterstehen.
 
-
-## § 11 – Vertretung
+# § 11 – Vertretung
 
 (1) Die Deutsche Bundesbank wird gerichtlich und außergerichtlich durch den Vorstand vertreten. § 31 Abs. 2 und § 41 Abs. 4 bleiben unberührt.
 
@@ -93,43 +81,36 @@ Die Deutsche Bundesbank darf Filialen unterhalten, die der zuständigen Hauptver
 
 (4) Klagen gegen die Deutsche Bundesbank, die auf den Geschäftsbetrieb einer Hauptverwaltung oder einer Filiale Bezug haben, können auch bei dem Gericht des Sitzes der Hauptverwaltung erhoben werden.
 
-
-## § 12 – Verhältnis der Bank zur Bundesregierung
+# § 12 – Verhältnis der Bank zur Bundesregierung
 
 Die Deutsche Bundesbank ist bei der Ausübung der Befugnisse, die ihr nach diesem Gesetz zustehen, von Weisungen der Bundesregierung unabhängig. Soweit dies unter Wahrung ihrer Aufgabe als Bestandteil des Europäischen Systems der Zentralbanken möglich ist, unterstützt sie die allgemeine Wirtschaftspolitik der Bundesregierung.
 
-
-## § 13 – Zusammenarbeit
+# § 13 – Zusammenarbeit
 
 (1) Die Deutsche Bundesbank hat die Bundesregierung in Angelegenheiten von wesentlicher währungspolitischer Bedeutung zu beraten und ihr auf Verlangen Auskunft zu geben.
 
 (2) Die Bundesregierung soll den Präsidenten der Deutschen Bundesbank zu ihren Beratungen über Angelegenheiten von währungspolitischer Bedeutung zuziehen.
 
-
-## § 14 – Notenausgabe
+# § 14 – Notenausgabe
 
 (1) Die Deutsche Bundesbank hat unbeschadet des Artikels 128 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union das ausschließliche Recht, Banknoten im Geltungsbereich dieses Gesetzes auszugeben. Auf Euro lautende Banknoten sind das einzige unbeschränkte gesetzliche Zahlungsmittel. Die Deutsche Bundesbank hat die Stückelung und die Unterscheidungsmerkmale der von ihr ausgegebenen Noten öffentlich bekanntzumachen.
 
 (2) Die Deutsche Bundesbank kann unbeschadet des Artikels 128 Absatz 1 des Vertrages über die Arbeitsweise der Europäischen Union Noten zur Einziehung aufrufen. Aufgerufene Noten werden nach Ablauf der beim Aufruf bestimmten Umtauschfrist ungültig.
 
+# §§ 15 und 16 – (weggefallen)
 
-## §§ 15 und 16 – (weggefallen)
-
-
-## § 17
+# § 17
 
 \-
 
-
-## § 18 – Statistische Erhebungen
+# § 18 – Statistische Erhebungen
 
 Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen Kreditinstituten, Kapitalverwaltungsgesellschaften und extern verwalteten Investmentgesellschaften anzuordnen und durchzuführen. §§ 9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der Anordnung über die Statistik vorgesehen ist.
 
 (+++ § 18 Satz 5: Zur Geltung vgl. § 7 Abs. 3 Satz 3 Halbsatz 2 KredWG +++)  
 (+++ § 18: Zur Anwendung vgl. § 51 Abs. 4 Satz 2 u. § 54 Abs. 4 Satz 2 KAGB +++)
 
-
-## § 19 – Geschäfte mit Kreditinstituten und anderen Marktteilnehmern
+# § 19 – Geschäfte mit Kreditinstituten und anderen Marktteilnehmern
 
 Die Deutsche Bundesbank darf mit Kreditinstituten und anderen Marktteilnehmern unbeschadet des Kapitels IV der Satzung des Europäischen Systems der Zentralbanken und der Europäischen Zentralbank (BGBl. 1992 II S. 1251, 1297) folgende Geschäfte betreiben:
 
@@ -147,23 +128,19 @@ Die Deutsche Bundesbank darf mit Kreditinstituten und anderen Marktteilnehmern u
 
 7. alle Bankgeschäfte im Verkehr mit dem Ausland vornehmen.
 
-
-## § 20 – Geschäfte mit öffentlichen Verwaltungen
+# § 20 – Geschäfte mit öffentlichen Verwaltungen
 
 Die Deutsche Bundesbank darf mit dem Bund, den Sondervermögen des Bundes, den Ländern und anderen öffentlichen Verwaltungen die in § 19 Nr. 2 bis 7 bezeichneten Geschäfte vornehmen; dabei darf die Bank im Verlauf eines Tages Kontoüberziehungen zulassen. Für diese Geschäfte darf die Bank dem Bund, den Sondervermögen des Bundes und den Ländern keine Kosten und Gebühren berechnen.
 
-
-## § 21
+# § 21
 
 (weggefallen)
 
-
-## § 22 – Geschäfte mit jedermann
+# § 22 – Geschäfte mit jedermann
 
 Die Deutsche Bundesbank darf mit natürlichen und juristischen Personen im In- und Ausland die in § 19 Nr. 2 bis 7 bezeichneten Geschäfte betreiben.
 
-
-## § 23 – Bestätigung von Schecks
+# § 23 – Bestätigung von Schecks
 
 (1) Die Deutsche Bundesbank darf Schecks, die auf sie gezogen sind, nur nach Deckung bestätigen. Aus dem Bestätigungsvermerk wird sie dem Inhaber zur Einlösung verpflichtet; für die Einlösung haftet sie auch dem Aussteller und dem Indossanten.
 
@@ -175,21 +152,17 @@ Die Deutsche Bundesbank darf mit natürlichen und juristischen Personen im In- u
 
 (5) Auf die gerichtliche Geltendmachung von Ansprüchen auf Grund der Bestätigung sind die für Wechselsachen geltenden Zuständigkeits- und Verfahrensvorschriften entsprechend anzuwenden.
 
-
-## § 24
+# § 24
 
 (weggefallen)
 
-
-## § 25 – Andere Geschäfte
+# § 25 – Andere Geschäfte
 
 Die Deutsche Bundesbank soll andere als die in den §§ 19, 20, 22 und 23 oder auf der Grundlage der Satzung des Europäischen Systems der Zentralbanken und der Europäischen Zentralbank zugelassenen Geschäfte nur zur Durchführung und Abwicklung zugelassener Geschäfte oder für den eigenen Betrieb oder für ihre Betriebsangehörigen vornehmen.
 
+# §§ 25a bis 25d – (weggefallen)
 
-## §§ 25a bis 25d – (weggefallen)
-
-
-## § 26 – Jahresabschluss, Kostenrechnung
+# § 26 – Jahresabschluss, Kostenrechnung
 
 (1) Das Geschäftsjahr der Deutschen Bundesbank ist das Kalenderjahr.
 
@@ -203,8 +176,7 @@ Die Deutsche Bundesbank soll andere als die in den §§ 19, 20, 22 und 23 oder a
 
 (6) Der Bundesrechnungshof berichtet dem Deutschen Bundestag über seine Feststellungen nach Absatz 3.
 
-
-## § 27 – Gewinnverteilung
+# § 27 – Gewinnverteilung
 
 Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
@@ -212,13 +184,11 @@ Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
 2. der Restbetrag ist an den Bund abzuführen.
 
-
-## § 28
+# § 28
 
 (weggefallen)
 
-
-## § 29 – Sonderstellung der Deutschen Bundesbank
+# § 29 – Sonderstellung der Deutschen Bundesbank
 
 (1) Der Vorstand mit der Zentrale am Sitz der Bank hat die Stellung einer obersten Bundesbehörde. Die Hauptverwaltungen und Filialen haben die Stellung von Bundesbehörden.
 
@@ -226,13 +196,11 @@ Der Reingewinn ist in nachstehender Reihenfolge zu verwenden:
 
 (3) Die Vorschriften des Handelsgesetzbuchs über die Eintragungen in das Handelsregister sowie die Vorschriften über die Zugehörigkeit zu den Industrie- und Handelskammern sind auf die Deutsche Bundesbank nicht anzuwenden.
 
-
-## § 30 – Urkundsbeamte
+# § 30 – Urkundsbeamte
 
 Der Präsident der Deutschen Bundesbank kann für die Zwecke des § 11 Abs. 3 Urkundsbeamte bestellen. Sie müssen die Befähigung zum Richteramt besitzen.
 
-
-## § 31 – Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank
+# § 31 – Rechtsverhältnisse der Beamten, Angestellten und Arbeiter der Deutschen Bundesbank
 
 (1) Die Deutsche Bundesbank beschäftigt Beamte, Angestellte und Arbeiter.
 
@@ -266,23 +234,19 @@ Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung ohne Zu
 
 (6) Die Bundesregierung wird ermächtigt, zum Zweck eines geordneten und leistungsfähigen Bankbetriebs durch Rechtsverordnung die Vorschriften über die Vorbildung und die Laufbahnen der Beamten der Deutschen Bundesbank sowie die besonderen Vorschriften für die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) der Beamten der Deutschen Bundesbank zu erlassen. In der Rechtsverordnung nach Satz 1 kann von den Vorschriften des Bundesbeamtenrechts über die Dauer des Vorbereitungsdienstes und der Probezeit sowie über die Dauer der Bewährungszeit für Beförderungen im gehobenen Dienst und für die Zulassung zum Aufstieg in den höheren Dienst abgewichen werden. Die Bundesregierung kann die Befugnis nach Satz 1 durch Rechtsverordnung auf den Vorstand der Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstands der Deutschen Bundesbank über die Vorbildung und die Laufbahnen bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen; Rechtsverordnungen über die einzelnen Laufbahnen (Laufbahn-, Ausbildungs- und Prüfungsordnungen) bedürfen des Einvernehmens des Bundesministeriums des Innern, für Bau und Heimat.
 
-
-## § 32 – Schweigepflicht
+# § 32 – Schweigepflicht
 
 Sämtliche Personen im Dienste der Deutschen Bundesbank haben über die Angelegenheiten und Einrichtungen der Bank sowie über die von ihr geschlossenen Geschäfte Schweigen zu bewahren. Sie dürfen über die ihnen hierüber bei ihrer Tätigkeit bekanntgewordenen Tatsachen auch nach ihrem Ausscheiden aus dem Dienste der Bank ohne Genehmigung weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgegeben. Die Genehmigung wird, soweit es sich um das Interesse der Bank handelt, den Mitgliedern des Vorstands von diesem, anderen Bediensteten der Bank vom Präsidenten erteilt, der diese Befugnis auf ein Mitglied des Vorstands mit der Möglichkeit der Weiterübertragung übertragen kann; die Genehmigung darf für eine gerichtliche Vernehmung nur versagt werden, wenn es das Wohl des Bundes oder die Interessen der Allgemeinheit erfordern.
 
-
-## § 33 – Veröffentlichungen
+# § 33 – Veröffentlichungen
 
 Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten Bekanntmachungen, insbesondere den Aufruf von Noten sowie die Anordnung von Statistiken im Bundesanzeiger zu veröffentlichen.
 
-
-## § 34
+# § 34
 
 (weggefallen)
 
-
-## § 35 – Unbefugte Ausgabe und Verwendung von Geldzeichen
+# § 35 – Unbefugte Ausgabe und Verwendung von Geldzeichen
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird bestraft,
 
@@ -294,8 +258,7 @@ Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten Bekanntmach
 
 (3) Handelt der Täter in den Fällen des Absatzes 1 Nr. 2 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu sechs Monaten oder Geldstrafe bis zu einhundertachtzig Tagessätzen.
 
-
-## § 36 – Anhalten von Falschgeld sowie unbefugt ausgegebener Geldzeichen
+# § 36 – Anhalten von Falschgeld sowie unbefugt ausgegebener Geldzeichen
 
 (1) Die Deutsche Bundesbank sowie die Stellen und deren Beschäftigte, die in Artikel 6 Absatz 1 der Verordnung (EG) Nr. 1338/2001 des Rates vom 28. Juni 2001 zur Festlegung von zum Schutz des Euro gegen Geldfälschung erforderlichen Maßnahmen (ABl. L 181 vom 4.7.2001, S. 6) in der jeweils geltenden Fassung genannt sind, sind verpflichtet, nachgemachte oder verfälschte Banknoten oder Münzen (Falschgeld), als Falschgeld verdächtige Banknoten oder Münzen sowie unbefugt ausgegebene Gegenstände im Sinne des § 35 unverzüglich anzuhalten. Dem Betroffenen ist eine Empfangsbescheinigung zu erteilen.
 
@@ -321,20 +284,17 @@ Die Deutsche Bundesbank hat ihre für die Öffentlichkeit bestimmten Bekanntmach
 
 (6) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Deutsche Bundesbank.
 
-
-## § 36a – Verordnungsermächtigung
+# § 36a – Verordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit der Deutschen Bundesbank durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zur Art und Weise sowie zum Umfang der Übermittlungspflichten nach § 36 Absatz 2 und 3 und der in diesem Zusammenhang zu übermittelnden Angaben zu regeln. In der Rechtsverordnung nach Satz 1 kann insbesondere bestimmt werden, dass Verpflichtete, die Banknoten wieder in Umlauf geben, die Inbetriebnahme und Außerbetriebnahme von Systemen zur Banknotenbearbeitung sowie Art und Umfang der mit diesen Systemen vorgenommenen Transaktionen der Deutschen Bundesbank zu melden haben. In der Rechtsverordnung nach Satz 1 kann auch geregelt werden, dass die Deutsche Bundesbank im Rahmen der Prüfungen nach § 37a Absatz 2 Stichproben der bearbeiteten Banknoten entnehmen kann, sofern deren Gegenwert dem Verpflichteten erstattet wird. Das Bundesministerium der Finanzen kann die Befugnis nach den Sätzen 1 bis 3 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf den Vorstand der Deutschen Bundesbank übertragen. Rechtsverordnungen des Vorstandes der Deutschen Bundesbank bedürfen des Einvernehmens des Bundesministeriums der Finanzen.
 
-
-## § 37 – Einziehung
+# § 37 – Einziehung
 
 (1) Unbefugt ausgegebene Gegenstände der in § 35 genannten Art können eingezogen werden.
 
 (2) Nach Absatz 1 eingezogene Gegenstände sowie nach § 150 des Strafgesetzbuchs eingezogenes Falschgeld sind von der Deutschen Bundesbank aufzubewahren. Sie können, wenn der Täter ermittelt worden ist, nach Ablauf von zehn Jahren und, wenn der Täter nicht ermittelt worden ist, nach Ablauf von zwanzig Jahren nach Rechtskraft des die Einziehung aussprechenden Urteils vernichtet werden.
 
-
-## § 37a – Auskünfte und Prüfungen, Untersagung der Wiederausgabe von Banknoten
+# § 37a – Auskünfte und Prüfungen, Untersagung der Wiederausgabe von Banknoten
 
 (1) Verpflichtete nach § 36 Absatz 1, die Banknoten wieder in Umlauf geben wollen, haben der Deutschen Bundesbank auf Verlangen Auskünfte über die Herkunft der Banknoten, deren Bearbeitung sowie die verwendeten Banknotenbearbeitungsgeräte zu erteilen und Unterlagen vorzulegen. Die Auskunft kann verweigert werden, wenn die Beantwortung den Verpflichteten oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -344,20 +304,17 @@ Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit der Deutsch
 
 § 36a Abs. 3 Kursivdruck: Das Wort "der-" müsste richtig "der" lauten
 
-
-## § 38 – Übergangsvorschrift für die Mitglieder der Organe der Bank
+# § 38 – Übergangsvorschrift für die Mitglieder der Organe der Bank
 
 Die Mitglieder des Direktoriums, mit Ausnahme des Präsidenten, scheiden mit Inkrafttreten des Änderungsgesetzes aus ihren Ämtern aus; sie erhalten für die restliche Dauer ihrer vertraglich vorgesehenen Amtszeit die Amtsbezüge als Ruhegehalt und anschließend die vertragliche Regelversorgung, es sei denn, ein Vertrag nach § 7 Abs. 4 Satz 2 des Gesetzes über die Deutsche Bundesbank in der Fassung der Bekanntmachung vom 22. Oktober 1992 (BGBl. I S. 1782) enthält eine abweichende Regelung über die Folgen des Ausscheidens vor Ablauf der Amtszeit aufgrund eines Gesetzes zur Änderung des Gesetzes über die Deutsche Bundesbank. Die Präsidenten der Landeszentralbanken werden für die restliche Dauer ihrer vertraglich vorgesehenen Amtszeit unter Fortgeltung ihrer Verträge im Übrigen als Präsidenten der Hauptverwaltungen übernommen. Die Vizepräsidenten und weiteren Vorstandsmitglieder der Landeszentralbanken, deren Verträge die Beendigung ihres Vertragsverhältnisses im Falle eines Ausscheidens aufgrund eines Gesetzes zur Änderung des Gesetzes über die Deutsche Bundesbank vorsehen, scheiden mit Inkrafttreten des Änderungsgesetzes aus ihren Ämtern aus; die übrigen Vizepräsidenten und weiteren Vorstandsmitglieder werden für die restliche Dauer ihrer vertraglich vorgesehenen Amtszeit unter Fortgeltung ihrer Verträge im Übrigen unter Beachtung von § 8 dieses Gesetzes übernommen.
 
-
-## § 39 – Übergangsvorschrift für die Vorstände der Landeszentralbanken und die Beiräte
+# § 39 – Übergangsvorschrift für die Vorstände der Landeszentralbanken und die Beiräte
 
 (1) Die Mitglieder der Vorstände der am 1. November 1992 bestehenden Landeszentralbanken, deren Bereiche sich gemäß § 8 Abs. 1 Nr. 4, 5 und 8 verändern, scheiden am 1. November 1992 aus ihren Ämtern. Sie erhalten für die restliche Dauer ihrer vertraglich vorgesehenen Amtszeit die Amtsbezüge als Ruhegehalt und anschließend die vertragliche Regelversorgung.
 
 (2) Die am 1. November 1992 bestehenden Beiräte bei den Landeszentralbanken werden aufgelöst.
 
-
-## § 40 – Änderung der Dienstverhältnisse
+# § 40 – Änderung der Dienstverhältnisse
 
 (1) Mit dem Inkrafttreten dieses Gesetzes werden die Beamten, Angestellten und Arbeiter der Bank deutscher Länder, der bisherigen Landeszentralbanken und der Berliner Zentralbank Beamte, Angestellte und Arbeiter der Deutschen Bundesbank. Beamte auf Lebenszeit oder auf Probe erhalten die Rechtsstellung eines Beamten auf Lebenszeit oder auf Probe nach dem Bundesbeamtengesetz; Beamte auf Widerruf erhalten die Rechtsstellung eines Beamten auf Widerruf nach dem Bundesbeamtengesetz, soweit sie nicht bei Vorliegen der Voraussetzungen des § 6 Abs. 3 des Bundesbeamtengesetzes zu Beamten auf Probe ernannt werden; in Höhe der Unterschiedsbeträge zwischen bisherigen höheren Bezügen und den nach Inkrafttreten dieses Gesetzes zustehenden Bezügen wird eine nicht ruhegehaltfähige Ausgleichszulage so lange gewährt, bis sie durch Erhöhung der Bezüge ausgeglichen wird; Erhöhungen infolge einer Änderung des Familienstandes oder eines Wechsels der Ortsklasse sowie allgemeine Erhöhungen der Besoldungen infolge einer Änderung der wirtschaftlichen Verhältnisse bleiben außer Betracht.
 
@@ -379,8 +336,7 @@ richten sich gegen die Deutsche Bundesbank. Dies gilt in den Fällen der Nummer 
 
 (7) (gegenstandslose Überleitungsvorschrift)
 
-
-## § 41 – Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
+# § 41 – Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen
 
 (1) Die Deutsche Bundesbank ist entsprechende Einrichtung im Sinne des § 61 des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen gegenüber der Deutschen Reichsbank, der Nationalbank für Böhmen und Mähren und ausländischen Notenbanken (Nr. 19 der Anlage A zu § 2 Abs. 1 des Gesetzes).
 
@@ -398,8 +354,7 @@ ist § 62 des in Absatz 1 bezeichneten Gesetzes entsprechend anzuwenden.
 
 § 41 Abs. 3 Satz 1 Kursivdruck: Aufgeh. durch § 92 Abs. 1 Nr. 5 u. 10 G v. 24.8.1976 I 2485
 
-
-## § 42 – Ausgabe von Liquiditätspapieren offenen Markt
+# § 42 – Ausgabe von Liquiditätspapieren offenen Markt
 
 (1) Der Bund hat der Deutschen Bundesbank auf Verlangen Schatzwechsel oder unverzinsliche Schatzanweisungen in einer Stückelung und Ausstattung nach deren Wahl als Liquiditätspapiere bis zum Höchstbetrag von 25 Milliarden Euro zur Verfügung zu stellen. Die Liquiditätspapiere sind bei der Bank zahlbar. Die Bank ist gegenüber dem Bund verpflichtet, alle Verbindlichkeiten aus den Liquiditätspapieren zu erfüllen.
 
@@ -409,18 +364,15 @@ ist § 62 des in Absatz 1 bezeichneten Gesetzes entsprechend anzuwenden.
 
 (4) Die Deutsche Bundesbank darf auf Euro lautende Schuldverschreibungen in einer Stückelung und Ausstattung nach ihrer Wahl begeben.
 
-
-## § 43
+# § 43
 
 (Aufhebung und Änderung von Rechtsvorschriften)
 
-
-## § 44 – Auflösung
+# § 44 – Auflösung
 
 Die Deutsche Bundesbank kann nur durch Gesetz aufgelöst werden. Das Auflösungsgesetz bestimmt über die Verwendung des Vermögens.
 
-
-## § 45 – Weitere Übergangsvorschriften
+# § 45 – Weitere Übergangsvorschriften
 
 (1) § 2 Satz 2 und § 27 Nr. 1, jeweils in der Fassung des Sechsten Gesetzes zur Änderung des Gesetzes über die Deutsche Bundesbank, sind erstmals auf den Jahresabschluß zu dem Stichtag anzuwenden, der dem Beginn des ersten Jahres der Teilnahme der Bundesrepublik Deutschland an der dritten Stufe der Währungsunion gemäß Artikel 109j des EG-Vertrages unmittelbar vorausgeht. § 26 Abs. 2 Satz 2 und 3 in der Fassung des Sechsten Gesetzes zur Änderung des Gesetzes über die Deutsche Bundesbank ist erstmals auf das darauf folgende Geschäftsjahr anzuwenden.
 
@@ -432,7 +384,6 @@ Die Deutsche Bundesbank kann nur durch Gesetz aufgelöst werden. Das Auflösungs
 
 (5) Das auf Grundlage von § 31 Abs. 4 in der am 11. Februar 2009 geltenden Fassung erlassene Personalstatut gilt bis zum Inkrafttreten einer das Personalstatut ersetzenden Rechtsverordnung nach § 31 Abs. 4 weiter, längstens jedoch bis zum 30. Juni 2009.
 
-
-## § 47
+# § 47
 
 (Inkrafttreten)

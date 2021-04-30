@@ -1,15 +1,11 @@
-# [NS-AufhG] Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege  (NS-AufhG)
-
-Ausfertigungsdatum: 25.08.1998
-
+% Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege  (NS-AufhG)
+% Ausfertigungsdatum: 25.08.1998
  
-
-## § 1
+# § 1
 
 Durch dieses Gesetz werden verurteilende strafgerichtliche Entscheidungen, die unter Verstoß gegen elementare Gedanken der Gerechtigkeit nach dem 30. Januar 1933 zur Durchsetzung oder Aufrechterhaltung des nationalsozialistischen Unrechtsregimes aus politischen, militärischen, rassischen, religiösen oder weltanschaulichen Gründen ergangen sind, aufgehoben. Die den Entscheidungen zugrunde liegenden Verfahren werden eingestellt.
 
-
-## § 2
+# § 2
 
 Entscheidungen im Sinne des § 1 sind insbesondere
 
@@ -19,27 +15,23 @@ Entscheidungen im Sinne des § 1 sind insbesondere
 
 3. Entscheidungen, die auf den in der Anlage genannten gesetzlichen Vorschriften beruhen.
 
-
-## § 3
+# § 3
 
 (1) Ist eine Entscheidung auf die Verletzung mehrerer Strafvorschriften gestützt und liegen die Voraussetzungen des § 1 Satz 1, auch in Verbindung mit § 2, nur hinsichtlich eines Teiles der Entscheidung vor, so wird die Entscheidung insgesamt aufgehoben, sofern der Teil der Entscheidung, der die Voraussetzung des § 1 Satz 1, auch in Verbindung mit § 2, erfüllt, nicht von untergeordneter Bedeutung ist.
 
 (2) Erscheint nach Lage des Falles zweifelhaft, ob die Voraussetzungen des Absatzes 1 vorliegen, so ist die dem Täter günstigere Auslegung zugrunde zu legen.
 
-
-## § 4
+# § 4
 
 (1) Ist die Entscheidung in Fällen des § 3 nicht vollständig aufgehoben, so wird auf Antrag der Teil der Entscheidung aufgehoben, für den die Voraussetzungen des § 1 Satz 1, auch in Verbindung mit § 2, vorliegen.
 
 (2) Über den Antrag entscheidet das Landgericht durch unanfechtbaren Beschluß.
 
-
-## § 5
+# § 5
 
 Weitergehende Vorschriften, die zur Wiedergutmachung oder Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege erlassen wurden, bleiben unberührt.
 
-
-## § 6
+# § 6
 
 (1) Auf Antrag stellt die Staatsanwaltschaft fest, ob ein Urteil aufgehoben ist; hierüber erteilt sie eine Bescheinigung. Antragsberechtigt sind der Verurteilte, nach seinem Tode seine Verwandten und Verschwägerten gerader Linie, seine Geschwister, der Ehegatte und der Verlobte. Sind alle Antragsberechtigten verstorben oder ist ihr Aufenthalt unbekannt, so hat die Staatsanwaltschaft die Feststellung von Amts wegen zu treffen, wenn dafür ein berechtigtes Interesse dargetan wird.
 
@@ -47,18 +39,15 @@ Weitergehende Vorschriften, die zur Wiedergutmachung oder Beseitigung nationalso
 
 (3) Absatz 1 Satz 2 und 3, Absatz 2 gelten für Entscheidungen nach § 4 sinngemäß.
 
-
-## § 7
+# § 7
 
 Die Aufhebung des Urteils umfaßt auch alle Nebenstrafen und Nebenfolgen.
 
-
-## § 8
+# § 8
 
 Eintragungen im Bundeszentralregister über Urteile, deren Aufhebung gemäß § 6 festgestellt worden ist, sind zu tilgen.
 
-
-## Anlage – (zu Artikel 1 § 2 Nr. 3)
+# Anlage – (zu Artikel 1 § 2 Nr. 3)
 
 1. Gesetz zur Behebung der Not von Volk und Reich vom 24. März 1933 (RGBl. I S. 141)
 
@@ -112,8 +101,7 @@ Eintragungen im Bundeszentralregister über Urteile, deren Aufhebung gemäß § 
 
 26. Folgende Vorschriften des Strafgesetzbuches für das Deutsche Reich vom 15. Mai 1871 in seiner am 30. Januar 1946 gültigen Fassung: §§ 2, 9, 10, 16 Abs. 3, § 42a Nr. 5, § 42k, 80 bis 94 einschließlich, § 102, 103, 112, 134a, 134b, 140, 140a, 140b, 141, 141a, 142, 143, 143a, 175, 175a Nr. 4 in der Fassung des Gesetzes zur Änderung des Strafgesetzbuchs vom 28. Juni 1935 (RGBl. I S. 839), § 189 Abs. 3, § 210a, 226b, 291, 353a, 370 Nr. 3
 
-26a.  
-§§ 57, 59, 60, 62 bis 65, 67, 69, 71 bis 73, 77, 78, 80 bis 85, 87, 89, 91, 92, 94 bis 97, 99 bis 104, 106 bis 108, 110 bis 112, 139, 141, 144, 147, 147a, 150 des Militärstrafgesetzbuches in den Fassungen der Gesetze vom 16. Juni 1926 (RGBl. I S. 275), 26. Mai 1933 (RGBl. I S. 295), 23. November 1934 (RGBl. I S. 1165), 16. Juli 1935 (RGBl. I S. 1021) und 10. Oktober 1940 (RGBl. I S. 1347)
+26a. §§ 57, 59, 60, 62 bis 65, 67, 69, 71 bis 73, 77, 78, 80 bis 85, 87, 89, 91, 92, 94 bis 97, 99 bis 104, 106 bis 108, 110 bis 112, 139, 141, 144, 147, 147a, 150 des Militärstrafgesetzbuches in den Fassungen der Gesetze vom 16. Juni 1926 (RGBl. I S. 275), 26. Mai 1933 (RGBl. I S. 295), 23. November 1934 (RGBl. I S. 1165), 16. Juli 1935 (RGBl. I S. 1021) und 10. Oktober 1940 (RGBl. I S. 1347)
 
 27. Gesetz über Verhängung und Vollzug der Todesstrafe vom 29. März 1933 (RGBl. I S. 151)
 

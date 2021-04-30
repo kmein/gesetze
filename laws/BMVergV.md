@@ -1,15 +1,11 @@
-# [BMVergV] Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte des Bundes  (Bundesmehrarbeitsvergütungsverordnung - BMVergV)
-
-Ausfertigungsdatum: 26.04.1972
-
+% Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte des Bundes  (Bundesmehrarbeitsvergütungsverordnung - BMVergV)
+% Ausfertigungsdatum: 26.04.1972
  
-
-## § 1
+# § 1
 
 Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nach Maßgabe dieser Verordnung gezahlt werden.
 
-
-## § 2
+# § 2
 
 (1) Beamtinnen und Beamten mit Dienstbezügen in Besoldungsgruppen mit aufsteigenden Gehältern kann in folgenden Bereichen für Mehrarbeit eine Vergütung gewährt werden:
 
@@ -45,8 +41,7 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 (4) Ist die Gewährung einer Mehrarbeitsvergütung neben einer Zulage ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach Wegfall der Zulage gewährte Ausgleichszulage, solange diese noch nicht bis zur Hälfte aufgezehrt ist.
 
-
-## § 3
+# § 3
 
 (1) Die Vergütung wird nur gewährt, wenn die Mehrarbeit
 
@@ -62,8 +57,7 @@ Vergütungen für Mehrarbeit an Beamtinnen und Beamte des Bundes dürfen nur nac
 
 (3) Besteht keine feste tägliche Arbeitszeit, so dass eine Mehrarbeit nicht für den einzelnen Arbeitstag, sondern nur auf Grund der regelmäßigen wöchentlichen Arbeitszeit für eine volle Woche ermittelt werden kann, so ist Mehrarbeit innerhalb einer Kalenderwoche, wenn diese zum Teil auf den laufenden, zum Teil auf den folgenden Kalendermonat fällt, diesem zuzurechnen.
 
-
-## § 4
+# § 4
 
 (1) Die Vergütung beträgt je Stunde  
   
@@ -86,8 +80,7 @@ A 13 bis A 16</td><td style="text-align: left;">30,05 Euro.</td></tr></tbody></t
 
 (4) Die in den Absätzen 1 und 3 enthaltenen Vergütungssätze gelten nur für Mehrarbeit, die nach dem Inkrafttreten dieser Sätze geleistet wird.
 
-
-## § 4a
+# § 4a
 
 (1) Teilzeitbeschäftigte erhalten bis zur Erreichung der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten je Stunde Mehrarbeit eine Vergütung in Höhe des auf eine Stunde entfallenden Anteils der Besoldung entsprechender Vollzeitbeschäftigter.
 
@@ -95,8 +88,7 @@ A 13 bis A 16</td><td style="text-align: left;">30,05 Euro.</td></tr></tbody></t
 
 (3) Mehrarbeit, die über die Arbeitszeit von Vollzeitbeschäftigten hinausgeht, wird nach § 4 Absatz 1 und 3 vergütet.
 
-
-## § 5
+# § 5
 
 (1) Als Mehrarbeitsstunde im Sinne der §§ 3 und 4 Absatz 1 und 2 sowie § 4a gilt die volle Zeitstunde. Hiervon abweichend wird eine Stunde Dienst in Bereitschaft nur entsprechend dem Umfang der erfahrungsgemäß bei der betreffenden Tätigkeit durchschnittlich anfallenden Inanspruchnahme berücksichtigt; dabei ist schon die Ableistung eines Dienstes in Bereitschaft als solche in jeweils angemessenem Umfang anzurechnen.
 
@@ -104,17 +96,14 @@ A 13 bis A 16</td><td style="text-align: left;">30,05 Euro.</td></tr></tbody></t
 
 (3) Ergibt sich bei der monatlichen Mehrarbeitsstundenberechnung ein Bruchteil einer Stunde, so werden 30 Minuten und mehr auf eine volle Stunde aufgerundet, weniger als 30 Minuten bleiben unberücksichtigt.
 
-
-## § 6 – (weggefallen)
-
-\-
-
-
-## § 7 – (weggefallen)
+# § 6 – (weggefallen)
 
 \-
 
+# § 7 – (weggefallen)
 
-## § 8 – (Inkrafttreten)
+\-
+
+# § 8 – (Inkrafttreten)
 
 \-

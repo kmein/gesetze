@@ -1,15 +1,11 @@
-# [RechtsfachwPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
-
-Ausfertigungsdatum: 23.08.2001
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
+% Ausfertigungsdatum: 23.08.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), die zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden sind, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstitutes für Berufsbildung und im Einvernehmen mit dem Bundesministerium der Justiz:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Rechtsfachwirt/zur Geprüften Rechtsfachwirtin erworben wurden, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 8 durchführen.
 
@@ -29,8 +25,7 @@ Auf Grund des § 46 Abs. 2 und des § 21 Abs. 1 des Berufsbildungsgesetzes vom 1
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur schriftlichen Prüfung gemäß § 3 Abs. 2 ist zuzulassen, wer
 
@@ -44,8 +39,7 @@ Die Berufspraxis im Sinne des Satzes 1 muss inhaltlich wesentliche Bezüge zu de
 
 (3) Abweichend von § 1 kann zur schriftlichen Prüfung gemäß § 3 Abs. 2 auch zugelassen werden, wer durch Vorlage von Zeugnissen und anderer Weise glaubhaft macht, dass er Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Handlungsbereiche:
 
@@ -71,8 +65,7 @@ Der Präsentation der Lösung der gestellten Aufgabe schließt sich ein Fachgesp
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Prüfungsinhalte
+# § 4 – Prüfungsinhalte
 
 (1) Im Handlungsbereich "Büroorganisation und Verwaltung" soll die zu prüfende Person nachweisen, dass sie in der Lage ist, ein Anwaltsbüro im nichtanwaltlichen Bereich eigenverantwortlich, systematisch und betriebswirtschaftlich orientiert zu führen. In diesem Rahmen können geprüft werden:
 
@@ -176,15 +169,13 @@ c) praxisbezogene Schwerpunktkenntnisse des Sachen-, Familien- und Erbrechts, de
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 3 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -194,8 +185,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -211,8 +201,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -226,8 +215,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -235,8 +223,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Übergangsvorschriften
+# § 10 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden.
 
@@ -244,29 +231,25 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Ausbildereignung
+# § 11 – Ausbildereignung
 
 Wer die Prüfung zum Geprüften Rechtsfachwirt/zur Geprüften Rechtsfachwirtin nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung nach der aufgrund des Berufsbildungsgesetzes erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2221 - 2222)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2222 - 2223)
 

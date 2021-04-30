@@ -1,32 +1,25 @@
-# [EAPatV] Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof  (EAPatV)
-
-Ausfertigungsdatum: 10.02.2010
-
+% Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof  (EAPatV)
+% Ausfertigungsdatum: 10.02.2010
  
-
-## § 1 – Elektronische Aktenführung
+# § 1 – Elektronische Aktenführung
 
 Das Patentamt, das Patentgericht und der Bundesgerichtshof, soweit er für die Verhandlung und Entscheidung über Rechtsmittel gegen Entscheidungen des Patentgerichts zuständig ist, können Verfahrensakten ganz oder teilweise auch elektronisch führen.
 
-
-## § 2 – Verfahrensrecht für das Patentamt
+# § 2 – Verfahrensrecht für das Patentamt
 
 Für das Verfahren vor dem Patentamt gelten die Regelungen der Zivilprozessordnung über die elektronische Aktenführung entsprechend.
 
-
-## § 3 – Vernichtung von Schriftstücken
+# § 3 – Vernichtung von Schriftstücken
 
 Werden Schriftstücke oder sonstige Unterlagen in ein elektronisches Dokument übertragen, so dürfen sie nicht vernichtet werden, wenn in Betracht kommt, über ihr Vorhandensein oder ihre Beschaffenheit Beweis zu erheben.
 
-
-## § 4 – Überblick über Aktenbestandteile
+# § 4 – Überblick über Aktenbestandteile
 
 (1) Enthält eine Akte sowohl elektronische als auch papiergebundene Bestandteile, so muss beim Zugriff auf jeden der Teile ein Hinweis auf den jeweils anderen Teil sichtbar sein.
 
 (2) Vor jedem Zugriff auf einen elektronischen Aktenbestandteil muss ein vollständiger Überblick über alle anderen elektronischen Aktenbestandteile sichtbar sein.
 
-
-## § 5 – Herkunftsnachweis
+# § 5 – Herkunftsnachweis
 
 (1) Ist eine handschriftliche Unterzeichnung nicht erforderlich, so kann in elektronischen Bestandteilen der Akte statt der elektronischen Signatur ein anderer eindeutiger Herkunftsnachweis verwendet werden, der nicht unbemerkt verändert werden kann.
 
@@ -42,8 +35,7 @@ a) mit einer fortgeschrittenen Signatur nach Artikel 3 Nummer 11 der Verordnung 
 
 b) mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014.
 
-
-## § 6 – Form der Ausfertigungen und Abschriften
+# § 6 – Form der Ausfertigungen und Abschriften
 
 (1) Wird die Abschrift eines elektronischen Dokuments gefertigt, das mit einem Herkunftsnachweis nach § 5 Absatz 1 oder Absatz 2 versehen ist, müssen in den Ausdruck keine weiteren Informationen aufgenommen werden.
 
@@ -55,11 +47,9 @@ b) mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer 12 der
 
 (3) Wird eine Ausfertigung eines elektronischen Dokuments gefertigt, ist in den Ausdruck zusätzlich zu den Angaben nach Absatz 2 der Hinweis aufzunehmen, dass die Ausfertigung elektronisch erstellt worden ist und daher nicht unterschrieben ist.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – Vorlegen von Akten
+# § 8 – Vorlegen von Akten
 
 (1) Sind Akten einem Gericht oder einer Behörde vorzulegen, werden alle elektronischen Aktenbestandteile übersandt oder der unbeschränkte Zugriff darauf ermöglicht. Die Aktenbestandteile dürfen keinen Kopierschutz tragen.
 
@@ -67,7 +57,6 @@ b) mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer 12 der
 
 (3) Kann das Gericht oder die Behörde den Inhalt der Dateien nicht in eine lesbare Form bringen, sind die betreffenden Aktenteile in einer anderen, geeigneten Form zu übersenden.
 
-
-## § 9 – Aufbewahrung
+# § 9 – Aufbewahrung
 
 Aktenbestandteile in elektronischer Form sind ebenso lange aufzubewahren wie Aktenbestandteile in Papierform.

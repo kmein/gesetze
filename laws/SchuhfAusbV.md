@@ -1,41 +1,33 @@
-# [SchuhfAusbV] Verordnung über die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin   (Schuhfertigerausbildungsverordnung - SchuhfAusbV)
-
-Ausfertigungsdatum: 28.02.2017
-
+% Verordnung über die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin   (Schuhfertigerausbildungsverordnung - SchuhfAusbV)
+% Ausfertigungsdatum: 28.02.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Schuhfertigers und der Schuhfertigerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -81,20 +73,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 8. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
+# § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -102,8 +91,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (3) Teil 1 soll am Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
-
-## § 8 – Inhalt von Teil 1
+# § 8 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -111,8 +99,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereich von Teil 1
+# § 9 – Prüfungsbereich von Teil 1
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Herstellen von Schaftteilen statt.
 
@@ -142,8 +129,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt insgesamt sieben Stunden. Davon entfallen auf die schriftliche Bearbeitung der Aufgaben 90 Minuten.
 
-
-## § 10 – Inhalt von Teil 2
+# § 10 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf:
 
@@ -153,8 +139,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 11 – Prüfungsbereiche von Teil 2
+# § 11 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -164,8 +149,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 12 – Prüfungsbereich Herstellen von Schuhen
+# § 12 – Prüfungsbereich Herstellen von Schuhen
 
 (1) Im Prüfungsbereich Herstellen von Schuhen soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -193,8 +177,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (5) Die Prüfungszeit beträgt insgesamt zwölf bis vierzehn Stunden. Davon entfallen auf das auftragsbezogene Fachgespräch höchstens 20 Minuten.
 
-
-## § 13 – Prüfungsbereich Schuhtechnik
+# § 13 – Prüfungsbereich Schuhtechnik
 
 (1) Im Prüfungsbereich Schuhtechnik soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -224,8 +207,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 210 Minuten.
 
-
-## § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 14 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -233,8 +215,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 15 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -272,22 +253,18 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 16 – Anrechnung von Ausbildungszeiten
+# § 16 – Anrechnung von Ausbildungszeiten
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Lederverarbeitung kann im Umfang von zwei Jahren auf die Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 
-
-## § 17 – Bestehende Berufsausbildungsverhältnisse
+# § 17 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2017 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Schuhfertiger/zur Schuhfertigerin vom 11. Mai 1998 (BGBl. I S. 909), die durch Artikel 1 der Verordnung vom 14. Februar 2011 (BGBl. I S. 262) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin
 
 (Fundstelle: BGBl. I 2017, 313 - 317)

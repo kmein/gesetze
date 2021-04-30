@@ -1,10 +1,7 @@
-# [Münz5DMBek 1983-05] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Karl Marx)
-
-Ausfertigungsdatum: 02.05.1983
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Karl Marx)
+% Ausfertigungsdatum: 02.05.1983
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 100. Wiederkehr des Todestages von Karl Marx eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Hamburgischen Münze.
 
@@ -39,13 +36,11 @@ Ausfertigungsdatum: 02.05.1983
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

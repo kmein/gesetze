@@ -1,22 +1,17 @@
-# [PEntgV] Post-Entgeltregulierungsverordnung  (PEntgV)
-
-Ausfertigungsdatum: 22.11.1999
-
+% Post-Entgeltregulierungsverordnung  (PEntgV)
+% Ausfertigungsdatum: 22.11.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 Abs. 4 des Postgesetzes vom 22. Dezember 1997 (BGBl. I S. 3294) verordnet die Bundesregierung:
 
-
-## § 1 – Arten und Verfahren der Entgeltgenehmigung
+# § 1 – Arten und Verfahren der Entgeltgenehmigung
 
 (1) Das Verfahren zur Genehmigung von Entgelten und entgeltrelevanten Bestandteilen der Allgemeinen Geschäftsbedingungen nach § 19 in Verbindung mit § 21 Abs. 1 Nr. 1 des Gesetzes kommt nur in Betracht, wenn die Dienstleistung nicht nach Absatz 2 mit einer Mehrzahl von Dienstleistungen in einem Korb zusammengefasst werden kann.
 
 (2) Im Rahmen des Verfahrens zur Genehmigung von Entgelten und entgeltrelevanten Bestandteilen der Allgemeinen Geschäftsbedingungen nach § 19 in Verbindung mit § 21 Abs. 1 Nr. 2 des Gesetzes kann die Regulierungsbehörde Dienstleistungen nur insoweit in einem Korb zusammenfassen, als sich die erwartete Stärke des Wettbewerbs bei diesen Dienstleistungen nicht wesentlich unterscheidet.
 
-
-## § 2 – Umfang der Kostennachweise
+# § 2 – Umfang der Kostennachweise
 
 (1) Mit einem Entgeltantrag nach § 21 Abs. 1 Nr. 1 des Gesetzes hat das beantragende Unternehmen für die jeweilige Dienstleistung folgende Unterlagen vorzulegen:
 
@@ -46,8 +41,7 @@ Bei Entgeltanträgen von geringer wirtschaftlicher Bedeutung sowie bei einer reg
 
 (3) Die Regulierungsbehörde kann einen Entgeltantrag ablehnen, wenn das Unternehmen die in den Absätzen 1 und 2 genannten Unterlagen nicht vollständig vorlegt.
 
-
-## § 3 – Maßstäbe zur Ermittlung genehmigungsfähiger Entgelte
+# § 3 – Maßstäbe zur Ermittlung genehmigungsfähiger Entgelte
 
 (1) Die Regulierungsbehörde hat die vom beantragenden Unternehmen vorgelegten Nachweise dahin gehend zu prüfen, ob und inwieweit die beantragten Entgelte sich an den Kosten der effizienten Leistungsbereitstellung im Sinne des § 20 Absatz 2 des Gesetzes orientieren und den Anforderungen nach § 20 Absatz 3 des Gesetzes entsprechen. Bei der Prüfung der Effizienz der Leistungsbereitstellung werden die Entscheidungen des Unternehmens bezüglich seines Dienstleistungsangebots berücksichtigt.
 
@@ -55,8 +49,7 @@ Bei Entgeltanträgen von geringer wirtschaftlicher Bedeutung sowie bei einer reg
 
 (3) Die Regulierungsbehörde kann Entgeltermäßigungen oder Entgeltbefreiungen auch aus sozialen Gründen als sachlich gerechtfertigten Grund im Sinne des § 20 Absatz 3 des Gesetzes anerkennen.
 
-
-## § 4 – Bildung von Maßgrößen
+# § 4 – Bildung von Maßgrößen
 
 (1) Die Regulierungsbehörde hat zunächst das Ausgangsentgeltniveau der in einem Korb zusammengefassten Dienstleistungen festzustellen.
 
@@ -76,8 +69,7 @@ Bei Entgeltanträgen von geringer wirtschaftlicher Bedeutung sowie bei einer reg
 
 (6) Zur Vorgabe der Maßgrößen kann die Regulierungsbehörde gegenüber dem betroffenen Unternehmen anordnen, ihr die in § 2 Abs. 1 und 2 genannten Nachweise zur Verfügung zu stellen.
 
-
-## § 5 – Genehmigungsvoraussetzungen für Entgelte
+# § 5 – Genehmigungsvoraussetzungen für Entgelte
 
 (1) Mit einem Entgeltantrag nach § 21 Abs. 1 Nr. 2 des Gesetzes hat das beantragende Unternehmen diejenigen Unterlagen vorzulegen, die es der Regulierungsbehörde ermöglichen, die Einhaltung der nach § 4 vorgegebenen Maßgrößen zu überprüfen. Diese Unterlagen müssen Angaben über die anteiligen Umsätze jeder Entgeltposition für den von der Regulierungsbehörde nach § 4 Abs. 5 festgelegten Referenzzeitraum enthalten.
 
@@ -85,31 +77,26 @@ Bei Entgeltanträgen von geringer wirtschaftlicher Bedeutung sowie bei einer reg
 
 (3) Sofern die nach § 4 vorgegebenen Maßgrößen eingehalten werden, soll die Regulierungsbehörde die Genehmigung für einen Entgeltantrag im Rahmen der Entgeltgenehmigung nach § 21 Abs. 1 Nr. 2 des Gesetzes innerhalb von zwei Wochen erteilen.
 
-
-## § 6 – Nachträgliche Überprüfung von Entgelten
+# § 6 – Nachträgliche Überprüfung von Entgelten
 
 (1) In den Fällen der §§ 24 und 25 des Gesetzes kann die Regulierungsbehörde gegenüber dem betroffenen Unternehmen anordnen, ihr Nachweise nach § 2 Abs. 1 und 2 sowie sonstige sachgerechte Nachweise vorzulegen.
 
 (2) Die Regulierungsbehörde stellt den Zeitpunkt der Einleitung der Überprüfung fest und teilt dies dem betroffenen Unternehmen nach § 24 Abs. 1 Satz 2 und § 25 Abs. 1 Satz 2 des Gesetzes mit.
 
-
-## § 7 – Entgelte für das Angebot von Teilleistungen und Leistungen nach § 29 des Gesetzes
+# § 7 – Entgelte für das Angebot von Teilleistungen und Leistungen nach § 29 des Gesetzes
 
 Entgelte für das Angebot von Teilleistungen nach § 28 und Leistungen nach § 29 des Gesetzes dürfen andere Unternehmen in ihren Wettbewerbsmöglichkeiten nicht unverhältnismäßig behindern. Eine unverhältnismäßige Behinderung ist insbesondere bei solchen Entgeltmaßnahmen zu vermuten, bei denen sich Änderungen bei Kostenbestandteilen, die sowohl für das Angebot von Teilleistungen nach § 28 oder Leistungen nach § 29 des Gesetzes als auch für das Angebot anderer Postdienstleistungen wesentlich sind, ausschließlich oder überwiegend zu Lasten der Teilleistungen auswirken. Das beantragende Unternehmen hat in seinem Antrag darzulegen, dass eine Beeinträchtigung nicht zu erwarten ist oder dass es einen sachlich gerechtfertigten Grund für die Beeinträchtigung gibt. Leistungsangebote nach den §§ 28 und 29 des Gesetzes dürfen nicht mit anderen Dienstleistungen in einem Korb zusammengefasst werden. § 3 gilt entsprechend.
 
-
-## § 8 – Beteiligungsrechte
+# § 8 – Beteiligungsrechte
 
 (1) Die Regulierungsbehörde veröffentlicht beabsichtigte Entscheidungen zur Zusammenfassung von Dienstleistungen nach § 1 Abs. 2 sowie zur Vorgabe der jeweiligen Maßgrößen nach § 4 in ihrem Amtsblatt und auf ihrer Internetseite. Vor der Veröffentlichung nach Satz 1 soll sie dem Unternehmen, an das sich die Entscheidung richtet, Gelegenheit zur Stellungnahme geben.
 
 (2) Bei Entgeltanträgen nach § 21 Abs. 1 Nr. 1 des Gesetzes veröffentlicht die Regulierungsbehörde die beantragten Entgelte in ihrem Amtsblatt und auf ihrer Internetseite.
 
-
-## § 9 – Veröffentlichung
+# § 9 – Veröffentlichung
 
 Die Regulierungsbehörde veröffentlicht in ihrem Amtsblatt nach § 22 Abs. 4 des Gesetzes die genehmigten Entgelte sowie die dazugehörigen Leistungsbeschreibungen und die Bestimmung über die Leistungsentgelte.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

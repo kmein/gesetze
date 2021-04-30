@@ -1,10 +1,7 @@
-# [EUZBBGVbg] Vereinbarung zwischen dem Deutschen Bundestag und der Bundesregierung über die Zusammenarbeit in Angelegenheiten der Europäischen Union in Ausführung des § 6 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union
-
-Ausfertigungsdatum: 28.09.2006
-
+% Vereinbarung zwischen dem Deutschen Bundestag und der Bundesregierung über die Zusammenarbeit in Angelegenheiten der Europäischen Union in Ausführung des § 6 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union
+% Ausfertigungsdatum: 28.09.2006
  
-
-## I. – Unterrichtung des Deutschen Bundestages
+# I. – Unterrichtung des Deutschen Bundestages
 
 1. Die Bundesregierung unterrichtet den Deutschen Bundestag frühzeitig, fortlaufend und in der Regel schriftlich über alle Vorhaben im Rahmen der Europäischen Union (siehe Anlage 1, Liste Vorhaben).
 
@@ -80,8 +77,7 @@ b) Dabei werden in diese Unterrichtung auch Informationen über eigene Initiativ
 
 9. Die Bundesregierung hat eine geeignete politische Vertretung in den Ausschüssen des Deutschen Bundestages sicherzustellen.
 
-
-## II. – Stellungnahme des Deutschen Bundestages
+# II. – Stellungnahme des Deutschen Bundestages
 
 1. Die Bundesregierung gibt dem Deutschen Bundestag in einem frühen Verhandlungsstadium Gelegenheit zur Stellungnahme. Die Frist zur Stellungnahme muss so bemessen sein, dass der Deutsche Bundestag ausreichend Gelegenheit hat, sich mit der Vorlage zu befassen. Je nach Verhandlungslage teilt die Bundesregierung dem Deutschen Bundestag auch mit, bis zu welchem Zeitpunkt eine Stellungnahme wegen der sich aus dem Verfahrensablauf der Europäischen Union ergebenden zeitlichen Vorgaben noch berücksichtigt werden kann.
 
@@ -93,51 +89,41 @@ b) Dabei werden in diese Unterrichtung auch Informationen über eigene Initiativ
 
 5. Nach der Beschlussfassung im Rat unterrichtet die Bundesregierung den Deutschen Bundestag unverzüglich, insbesondere über die Durchsetzung seiner Stellungnahme. Sollten nicht alle Belange der Stellungnahme berücksichtigt worden sein, so legt die Bundesregierung die Gründe hierfür dar. Die Unterrichtung hat auch zu erfolgen, wenn die Beschlussfassung im Rat nicht zum Abschluss des Verfahrens führt.
 
-
-## III. – Information über europäische Rechtsakte
+# III. – Information über europäische Rechtsakte
 
 Nach Erlass eines europäischen Rechtsaktes unterrichtet die Bundesregierung den Deutschen Bundestag hierüber. Bei Richtlinien und Rahmenbeschlüssen informiert die Bundesregierung über die zu berücksichtigenden Fristen für die innerstaatliche Umsetzung und den Umsetzungsbedarf.
 
-
-## IV. – Verfahren vor den Europäischen Gerichten
+# IV. – Verfahren vor den Europäischen Gerichten
 
 Die Bundesregierung unterrichtet den Deutschen Bundestag unverzüglich über Vorabentscheidungsverfahren und Gutachtenverfahren und diejenigen Verfahren vor dem Europäischen Gerichtshof und dem Gericht Erster Instanz, bei denen die Bundesrepublik Deutschland Verfahrensbeteiligte ist. Zu Verfahren, an denen sich die Bundesregierung beteiligt, übermittelt sie die entsprechenden Dokumente. Dies gilt auch für Urteile zu Verfahren, an denen sich die Bundesregierung beteiligt.
 
-
-## V. – Übergang zu Mehrheitsentscheidungen
+# V. – Übergang zu Mehrheitsentscheidungen
 
 Beabsichtigt der Rat, einen Beschluss zum Übergang von der Einstimmigkeit zu Mehrheitsentscheidungen zu fassen, informiert die Bundesregierung den Deutschen Bundestag und unterrichtet über ihre Willensbildung. Der Vorschlag oder die Initiative für diesen Beschluss ist ein Vorhaben im Sinne dieser Vereinbarung.
 
+# VI. – Beitritt und Vertragsrevision
 
-## VI. – Beitritt und Vertragsrevision
+Beabsichtigt der Rat, einen Beschluss zur Aufnahme von Verhandlungen zur Vorbereitung von Beitritten zur Europäischen Union sowie zur Aufnahme von Verhandlungen zu Änderungen der vertraglichen Grundlagen der Europäischen Union zu fassen, informiert die Bundesregierung den Deutschen Bundestag und unterrichtet über ihre Willensbildung. Diese Verhandlungen sind Vorhaben im Sinne dieser Vereinbarung. Vor der abschließenden Entscheidung im Rat bemüht sich die Bundesregierung, Einvernehmen mit dem Deutschen Bundestag herzustellen. Das Recht der Bundesregierung, in Kenntnis der Voten des Deutschen Bundestages aus wichtigen außen- oder integrationspolitischen Gründen abweichende Entscheidungen zu treffen, bleibt hiervon unberührt.
 
-Beabsichtigt der Rat, einen Beschluss zur Aufnahme von Verhandlungen zur Vorbereitung von Beitritten zur Europäischen Union sowie zur Aufnahme von Verhandlungen zu Änderungen der vertraglichen Grundlagen der Europäischen Union zu fassen, informiert die Bundesregierung den Deutschen Bundestag und unterrichtet über ihre Willensbildung. Diese Verhandlungen sind Vorhaben im Sinne dieser Vereinbarung.  
-Vor der abschließenden Entscheidung im Rat bemüht sich die Bundesregierung, Einvernehmen mit dem Deutschen Bundestag herzustellen. Das Recht der Bundesregierung, in Kenntnis der Voten des Deutschen Bundestages aus wichtigen außen- oder integrationspolitischen Gründen abweichende Entscheidungen zu treffen, bleibt hiervon unberührt.
-
-
-## VII. – Zusammenarbeit zwischen Ständiger Vertretung und Verbindungsbüro des Deutschen Bundestages
+# VII. – Zusammenarbeit zwischen Ständiger Vertretung und Verbindungsbüro des Deutschen Bundestages
 
 Die Bundesregierung unterstützt über die Ständige Vertretung und gegebenenfalls die bilaterale Botschaft im Rahmen der gegebenen Möglichkeiten und soweit erforderlich das Büro des Deutschen Bundestages in Einzelfragen im Hinblick auf seine Aufgaben.
 
-
-## VIII. – Vertraulichkeit
+# VIII. – Vertraulichkeit
 
 Die Unterlagen der Europäischen Union werden im Allgemeinen offen weitergegeben. Mitteilungen der EU-Organe über eine besondere Vertraulichkeit werden vom Deutschen Bundestag beachtet. Eine für diese Unterlagen oder für andere im Rahmen dieser Vereinbarung an den Deutschen Bundestag zu übermittelnde Dokumente eventuell erforderliche nationale VS-Einstufung wird vor Versendung von der Bundesregierung vorgenommen. Die Gründe für die Einstufung sind auf Anforderung zu erläutern.
 
-
-## IX. – Schlussbestimmungen
+# IX. – Schlussbestimmungen
 
 Der Deutsche Bundestag kann auf die Übersendung von oder Unterrichtung zu Vorhaben verzichten. Der Verzicht kann nicht gegen den Widerspruch einer Fraktion oder 5 Prozent der Mitglieder des Bundestages erklärt werden.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Präsident des Deutschen Bundestages
 
 Die Bundeskanzlerin
 
-
-## Anlage 1 – Vorhaben
+# Anlage 1 – Vorhaben
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2180
 
@@ -176,8 +162,7 @@ Institutionelle Vereinbarungen
 \-  
 EU-Haushalt und Finanzplanung.
 
-
-## Anlage 2 – Berichtsbogen
+# Anlage 2 – Berichtsbogen
 
 Fundstelle des Originaltextes: BGBl. I 2006, 2180
 

@@ -1,30 +1,23 @@
-# [GlasappAusbV] Verordnung über die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin  (Glasapparatebauer-Ausbildungsverordnung - GlasappAusbV)
-
-Ausfertigungsdatum: 21.12.1983
-
+% Verordnung über die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin  (Glasapparatebauer-Ausbildungsverordnung - GlasappAusbV)
+% Ausfertigungsdatum: 21.12.1983
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und des § 25 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für die Berufsausbildung in dem Ausbildungsberuf Glasapparatebauer/Glasapparatebauerin nach der Handwerksordnung und für die Berufsausbildung in dem nach § 2 anerkannten Ausbildungsberuf.
 
-
-## § 2 – Staatliche Anerkennung des Ausbildungsberufes
+# § 2 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Glasapparatebauer/Glasapparatebauerin wird staatlich anerkannt.
 
-
-## § 3 – Ausbildungsdauer
+# § 3 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -56,30 +49,25 @@ e) Herstellen von Glasapparaten,
 
 9. Messen und Prüfen von Halb- und Fertigerzeugnissen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 3 Halbjahre aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend den Rahmenlehrplänen zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 6 Stunden 4 Arbeitsproben durchführen.  
-Hierfür kommen insbesondere in Betracht:
+(3) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 6 Stunden 4 Arbeitsproben durchführen. Hierfür kommen insbesondere in Betracht:
 
 1. seitliches und zentrisches Zusammensetzen von Glasrohren bis 20 mm Durchmesser,
 
@@ -107,13 +95,11 @@ Die schriftlichen Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (5) Die in Absatz 4 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-
-## § 9 – Abschlußprüfung und Gesellenprüfung
+# § 9 – Abschlußprüfung und Gesellenprüfung
 
 (1) Die Abschlußprüfung und die Gesellenprüfung erstrecken sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
-(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden 4 Arbeitsproben anfertigen.  
-Hierfür kommen insbesondere in Betracht:
+(2) Zum Nachweis der Fertigkeiten soll der Prüfling in insgesamt höchstens 8 Stunden 4 Arbeitsproben anfertigen. Hierfür kommen insbesondere in Betracht:
 
 1. zentrisches Zusammensetzen von Glasrohren unterschiedlichen Durchmessers,
 
@@ -222,33 +208,27 @@ Die Fragen und Aufgaben sollen auch praxisbezogene Fälle berücksichtigen.
 
 (9) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung sowie innerhalb der Kenntnisprüfung im Prüfungsfach Technologie mindestens ausreichende Leistungen erbracht sind.
 
-
-## § 10 – Aufhebung von Vorschriften
+# § 10 – Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für Lehrberufe, Anlernberufe und für vergleichbar geregelte Ausbildungsberufe, die in dieser Verordnung geregelt sind, insbesondere für die Ausbildungsberufe Glasinstrumentenmacher, Glasapparatebläser und Glasapparatejustierer, sind vorbehaltlich des § 11 nicht mehr anzuwenden.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Berlin-Klausel
+# § 12 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes und § 128 der Handwerksordnung auch im Land Berlin.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1984 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – Ausbildungsrahmenplan für die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin
+# Anlage – Ausbildungsrahmenplan für die Berufsausbildung zum Glasapparatebauer/zur Glasapparatebauerin
 
 (Fundstelle: BGBl. I 1983, 1648 - 1651)
 
@@ -1274,8 +1254,7 @@ X
 
  
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III  und Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 998, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 - Kapitel V Sachgebiet B Abschnitt III -

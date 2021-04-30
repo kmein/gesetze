@@ -1,15 +1,11 @@
-# [BMVgBDGAnO] Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung  (BMVgBDGAnO)
-
-Ausfertigungsdatum: 07.06.2013
-
+% Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung  (BMVgBDGAnO)
+% Ausfertigungsdatum: 07.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) ordnet das Bundesministerium der Verteidigung an:
 
-
-## § 1
+# § 1
 
 Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes wird für den jeweiligen Kommando- oder Geschäftsbereich übertragen:
 
@@ -66,22 +62,18 @@ der dienstaufsichtführenden Rechtsberaterin oder dem dienstaufsichtführenden R
 
 12. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der Hochschule des Bundes für öffentliche Verwaltung.
 
-
-## § 2
+# § 2
 
 Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2 Satz 1 des Bundesdisziplinargesetzes wird den in § 1 genannten Dienstvorgesetzten übertragen.
 
-
-## § 3
+# § 3
 
 Die Zuständigkeit zum Erlass des Widerspruchsbescheids nach § 42 Absatz 1 des Bundesdisziplinargesetzes wird der nächsthöheren Behörde übertragen. Ist die nächsthöhere Behörde das Bundesministerium der Verteidigung, erlässt die Behörde, die die angefochtene Entscheidung erlassen hat, den Widerspruchsbescheid.
 
-
-## § 4
+# § 4
 
 Die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und Ruhestandsbeamten nach § 84 Satz 1 des Bundesdisziplinargesetzes werden der Präsidentin oder dem Präsidenten des Bundesamtes für das Personalmanagement der Bundeswehr übertragen.
 
-
-## § 5
+# § 5
 
 Diese Anordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt die Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung vom 16. Januar 2002 (BGBl. I S. 613), die durch die Anordnung vom 15. August 2002 (BGBl. I S. 3668) geändert worden ist, außer Kraft.

@@ -1,10 +1,7 @@
-# [PersStärkeG] Gesetz über die Verminderung der Personalstärke der Streitkräfte  (Personalstärkegesetz - PersStärkeG)
-
-Ausfertigungsdatum: 20.12.1991
-
+% Gesetz über die Verminderung der Personalstärke der Streitkräfte  (Personalstärkegesetz - PersStärkeG)
+% Ausfertigungsdatum: 20.12.1991
  
-
-## § 1
+# § 1
 
 (1) Die besonderen Altersgrenzen des § 45 Abs. 2 Nr. 1, 2, 4 und Abs. 3 des Soldatengesetzes in der Fassung der Bekanntmachung vom 19. August 1975 (BGBl. I S. 2273), das zuletzt durch Artikel 6 des Gesetzes vom 6. Dezember 1991 (BGBl. I S. 2142) geändert worden ist, nach denen Berufssoldaten in den Ruhestand versetzt werden können, werden für die Jahre 1993 bis 1998 wie folgt festgesetzt:
 
@@ -26,8 +23,7 @@ d) für Obersten die Vollendung des achtundfünfzigsten Lebensjahres,
 
 (3) § 44 Abs. 6 Satz 1 bis 3 und Abs. 7 sowie § 51 Abs. 1, 3 und 5 des Soldatengesetzes gelten entsprechend.
 
-
-## § 2
+# § 2
 
 (1) In den Jahren 1992 bis 1994 können Berufssoldaten, die das achtundvierzigste Lebensjahr vollendet haben und die der Laufbahngruppe der Unteroffiziere oder der Laufbahn der Offiziere des militärfachlichen Dienstes angehören, auf ihren schriftlichen Antrag in den Ruhestand versetzt werden, wenn
 
@@ -43,23 +39,19 @@ d) für Obersten die Vollendung des achtundfünfzigsten Lebensjahres,
 
 (4) § 44 Abs. 6 Satz 1 bis 3 und Abs. 7 sowie § 51 Abs. 1, 3 und 5 des Soldatengesetzes gelten entsprechend.
 
-
-## § 3
-
-(weggefallen)
-
-
-## § 4
+# § 3
 
 (weggefallen)
 
+# § 4
 
-## § 5
+(weggefallen)
+
+# § 5
 
 Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und Soldaten auf Zeit sowie ihrer Hinterbliebenen bestimmt sich nach dem Soldatenversorgungsgesetz nach Maßgabe der folgenden Vorschriften.
 
-
-## § 6
+# § 6
 
 (1) § 15 Abs. 1 des Soldatenversorgungsgesetzes in der Fassung der Bekanntmachung vom 5. März 1987 (BGBl. I S. 842), das zuletzt durch Artikel 7 des Gesetzes vom 6. Dezember 1991 (BGBl. I S. 2142) geändert worden ist, findet auch Anwendung auf Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden sind.
 
@@ -73,8 +65,7 @@ Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und Soldaten auf Zei
 
 (6) (weggefallen)
 
-
-## § 7
+# § 7
 
 (1) Berufssoldaten, die nach § 1 in den Ruhestand versetzt worden sind, erhalten unbeschadet der Regelung des § 38 des Soldatenversorgungsgesetzes einen einmaligen Ausgleich für die Anzahl der Monate, um die die Versetzung in den Ruhestand vor dem Zeitpunkt liegt, von dem an die Berufssoldaten nach § 44 Abs. 2 in Verbindung mit § 45 Abs. 2 und 3 des Soldatengesetzes in der vor Inkrafttreten dieses Gesetzes geltenden Fassung in den Ruhestand hätten versetzt werden können. Der Ausgleich beträgt bei einer Vorverlegung der Zurruhesetzung um  
 
@@ -87,12 +78,10 @@ Die Versorgung der von Abschnitt I erfaßten Berufssoldaten und Soldaten auf Zei
 
 (2) Für Berufssoldaten, die nach § 2 in den Ruhestand versetzt worden sind, findet § 38 des Soldatenversorgungsgesetzes entsprechende Anwendung. Darüber hinaus gilt § 4 Abs. 1 Satz 1 des Bundesbesoldungsgesetzes entsprechend mit der Maßgabe, daß der Mehrbetrag, der auf der Weitergewährung der Besoldung anstelle von Ruhegehalt beruht, insgesamt viertausend Deutsche Mark nicht übersteigen darf.
 
-
-## § 8
+# § 8
 
 In den Fällen der Umwandlung des Dienstverhältnisses nach § 3 und der Verkürzung der Dienstzeit nach § 4 ist für die Versorgung die neu festgesetzte Dienstzeit als Soldat auf Zeit maßgebend.
 
-
-## § 9
+# § 9
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

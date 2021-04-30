@@ -1,10 +1,7 @@
-# [KStDV 1994] Körperschaftsteuer-Durchführungsverordnung 1994  (KStDV 1994)
-
-Ausfertigungsdatum: 14.06.1977
-
+% Körperschaftsteuer-Durchführungsverordnung 1994  (KStDV 1994)
+% Ausfertigungsdatum: 14.06.1977
  
-
-## § 1 – Allgemeines
+# § 1 – Allgemeines
 
 Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen sind nur dann eine soziale Einrichtung im Sinne des § 5 Abs. 1 Nr. 3 Buchstabe b des Gesetzes, wenn sie die folgenden Voraussetzungen erfüllen:
 
@@ -14,8 +11,7 @@ Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen sind nur da
 
 3. Außerdem müssen bei Kassen mit Rechtsanspruch der Leistungsempfänger die Voraussetzungen des § 2, bei Kassen ohne Rechtsanspruch der Leistungsempfänger die Voraussetzungen des § 3 erfüllt sein.
 
-
-## § 2 – Kassen mit Rechtsanspruch der Leistungsempfänger
+# § 2 – Kassen mit Rechtsanspruch der Leistungsempfänger
 
 (1) Bei rechtsfähigen Pensions- oder Sterbekassen, die den Leistungsempfängern einen Rechtsanspruch gewähren, dürfen die jeweils erreichten Rechtsansprüche der Leistungsempfänger vorbehaltlich des Absatzes 2 die folgenden Beträge nicht übersteigen:  
 
@@ -36,8 +32,7 @@ Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen sind nur da
 | als Waisengeld |  7.731 Euro | jährlich für jede Halbwaise, |
 |                | 15.461 Euro | jährlich für jede Vollwaise. |
 
-
-## § 3 – Kassen ohne Rechtsanspruch der Leistungsempfänger
+# § 3 – Kassen ohne Rechtsanspruch der Leistungsempfänger
 
 Rechtsfähige Unterstützungskassen, die den Leistungsempfängern keinen Rechtsanspruch gewähren, müssen die folgenden Voraussetzungen erfüllen:
 
@@ -47,8 +42,7 @@ Rechtsfähige Unterstützungskassen, die den Leistungsempfängern keinen Rechtsa
 
 3. Die laufenden Leistungen und das Sterbegeld dürfen die in § 2 bezeichneten Beträge nicht übersteigen.
 
-
-## § 4 – Kleinere Versicherungsvereine
+# § 4 – Kleinere Versicherungsvereine
 
 Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210 des Versicherungsaufsichtsgesetzes sind von der Körperschaftsteuer befreit, wenn
 
@@ -60,18 +54,14 @@ b) 306.775 Euro bei allen übrigen Versicherungsvereinen, oder
 
 2. sich ihr Geschäftsbetrieb auf die Sterbegeldversicherung beschränkt und sie im übrigen die Voraussetzungen des § 1 erfüllen.
 
+# § 5 – (weggefallen)
 
-## § 5 – (weggefallen)
-
-
-## § 6 – Anwendungszeitraum
+# § 6 – Anwendungszeitraum
 
 Die Körperschaftsteuer-Durchführungsverordnung in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
 
-
-## § 7
+# § 7
 
 (Inkrafttreten)
 
-
-## Anlage – (weggefallen)
+# Anlage – (weggefallen)

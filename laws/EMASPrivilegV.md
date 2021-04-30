@@ -1,20 +1,15 @@
-# [EMASPrivilegV] Verordnung über immissionsschutz- und abfallrechtliche Überwachungserleichterungen für nach der Verordnung (EG) Nr. 761/2001 registrierte Standorte und Organisationen  (EMAS-Privilegierungs-Verordnung - EMASPrivilegV)
-
-Ausfertigungsdatum: 24.06.2002
-
+% Verordnung über immissionsschutz- und abfallrechtliche Überwachungserleichterungen für nach der Verordnung (EG) Nr. 761/2001 registrierte Standorte und Organisationen  (EMAS-Privilegierungs-Verordnung - EMASPrivilegV)
+% Ausfertigungsdatum: 24.06.2002
  
-
-## § 1 – Begriffsbestimmung
+# § 1 – Begriffsbestimmung
 
 Im Sinne dieser Verordnung ist eine EMAS-Anlage eine Anlage, die Bestandteil einer Organisation oder eines Standorts ist, die oder der nach den Artikeln 13 bis 15 in Verbindung mit Artikel 2 Nummer 22 der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1) registriert ist.
 
-
-## § 2 – Betriebsorganisation
+# § 2 – Betriebsorganisation
 
 Die Anzeige- und Mitteilungspflichten zur Betriebsorganisation nach § 52b des Bundes-Immissionsschutzgesetzes und § 58 des Kreislaufwirtschaftsgesetzes werden bezüglich EMAS-Anlagen durch die Bereitstellung des Bescheides zur Standort- oder Organisationseintragung erfüllt. Gleiches gilt für Abfälle, die der Verpflichtete im Rahmen der Tätigkeiten einer Organisation oder eines Standorts, die oder der nach den Artikeln 13 bis 15 in Verbindung mit Artikel 2 Nummer 22 der Verordnung (EG) Nr. 1221/2009 registriert ist, nach § 27 des Kreislaufwirtschaftsgesetzes in Besitz genommen hat. Die Behörde kann im Einzelfall die Vorlage weitergehender Unterlagen verlangen.
 
-
-## § 3 – Betriebsbeauftragte
+# § 3 – Betriebsbeauftragte
 
 (1) Auf die Anordnung der Bestellung eines oder mehrerer Betriebsbeauftragten nach § 53 Abs. 2 des Bundes-Immissionsschutzgesetzes oder § 59 Absatz 2 des Kreislaufwirtschaftsgesetzes soll bei einer EMAS-Anlage oder bei einem Entsorgungsfachbetrieb im Sinne des § 56 Absatz 2 des Kreislaufwirtschaftsgesetzes verzichtet werden. Satz 1 gilt entsprechend für eine Anordnung nach § 58a Abs. 2 des Bundes-Immissionsschutzgesetzes. Im Rahmen der Entscheidung über eine Befreiung nach § 6 der Verordnung über Immissionsschutz- und Störfallbeauftragte vom 30. Juli 1993 (BGBl. I S. 1433), die zuletzt durch Artikel 2 des Gesetzes vom 9. September 2001 (BGBl. I S. 2331) geändert worden ist, in der jeweils geltenden Fassung, oder nach § 7 der Verordnung über Betriebsbeauftragte für Abfall vom 2. Dezember 2016, in der jeweils geltenden Fassung, hat die zuständige Behörde zu berücksichtigen, dass es sich um eine EMAS-Anlage handelt.
 
@@ -22,13 +17,11 @@ Die Anzeige- und Mitteilungspflichten zur Betriebsorganisation nach § 52b des B
 
 (3) Die Pflichten zur Anzeige nach § 55 Abs. 1 Satz 2, § 58c Abs. 1 des Bundes-Immissionsschutzgesetzes und § 60 Absatz 3 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 55 Abs. 1 Satz 2 des Bundes-Immissionsschutzgesetzes werden seitens des Betreibers einer EMAS-Anlage auch dadurch erfüllt, dass er der zuständigen Behörde im Rahmen des Umwelt-Audits erarbeitete Unterlagen zugeleitet hat, die gleichwertige Angaben enthalten.
 
-
-## § 4 – Ermittlungen von Emissionen
+# § 4 – Ermittlungen von Emissionen
 
 Die zuständige Behörde soll bei EMAS-Anlagen Messungen nach § 28 Satz 1 Nr. 2 des Bundes-Immissionsschutzgesetzes erst nach Ablauf eines längeren Zeitraums als drei Jahren anordnen. Darüber hinaus soll die zuständige Behörde dem Betreiber einer EMAS-Anlage gestatten, Messungen nach § 28 Satz 1 Nr. 2 des Bundes-Immissionsschutzgesetzes mit eigenem Personal durchzuführen, wenn der Betreiber, Immissionsschutzbeauftragte oder ein sonstiger geeigneter Betriebsangehöriger die hierfür erforderliche Fachkunde und Zuverlässigkeit besitzt und sichergestellt ist, dass geeignete Geräte und Einrichtungen eingesetzt werden.
 
-
-## § 5 – Wiederkehrende Messungen, Funktionsprüfungen
+# § 5 – Wiederkehrende Messungen, Funktionsprüfungen
 
 (1) Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatten, für diese Anlage wiederkehrende
 
@@ -54,13 +47,11 @@ mit eigenem Personal durchzuführen, wenn der Betreiber, Immissionsschutzbeauftr
 
 mit eigenem Personal durchzuführen. Satz 1 gilt nicht für die erstmalige Funktionsprüfung.
 
-
-## § 6 – Sicherheitstechnische Prüfungen
+# § 6 – Sicherheitstechnische Prüfungen
 
 Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatten, sicherheitstechnische Prüfungen nach § 29a Abs. 2 Nr. 1 bis 4 des Bundes-Immissionsschutzgesetzes mit eigenem Personal durchzuführen, wenn die Belange der Anlagensicherheit Gegenstand des Audits und der Prüfung durch einen dafür fachkundigen Umweltgutachter gewesen sind und sichergestellt ist, dass der Betreiber, Störfallbeauftragte oder ein sonstiger geeigneter Betriebsangehöriger die hierfür erforderliche Fachkunde und Zuverlässigkeit besitzt und geeignete Geräte und Einrichtungen eingesetzt werden. Die Ergebnisse der Prüfungen sind der Behörde auf deren Verlangen vorzulegen.
 
-
-## § 7 – Berichte
+# § 7 – Berichte
 
 (1) Betreiber von EMAS-Anlagen können der zuständigen Behörde anstelle einer Emissionserklärung gemäß der Verordnung über Emissionserklärungen eine vom Umweltgutachter validierte Umwelterklärung vorlegen, die den Anforderungen des § 27 Abs. 1 des Bundes-Immissionsschutzgesetzes sowie der Verordnung über Emissionserklärungen genügt. In der Umwelterklärung ist zu erklären, dass die Voraussetzungen nach Satz 1 eingehalten sind.
 
@@ -76,18 +67,15 @@ Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatt
 
 der zuständigen Behörde nur auf deren Verlangen vorzulegen; sind nach den Berichten die zu erfüllenden Anforderungen nicht eingehalten, so sind die Berichte unaufgefordert der zuständigen Behörde vorzulegen. Satz 1 gilt nicht für Anlagen, die dem Anwendungsbereich der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen unterliegen und der Genehmigung in einem Verfahren nach § 4 Abs. 1 des Bundes-Immissionsschutzgesetzes unter Einbeziehung der Öffentlichkeit bedürfen.
 
-
-## § 8 – Verlängerung von Messintervallen
+# § 8 – Verlängerung von Messintervallen
 
 Die zuständige Behörde soll die Messintervalle von Messungen an EMAS-Anlagen nach § 12 Abs. 3 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen in der jeweils geltenden Fassung um jeweils ein Jahr verlängern.
 
-
-## § 9 – Unterrichtung der Öffentlichkeit
+# § 9 – Unterrichtung der Öffentlichkeit
 
 Der Verpflichtete nach § 18 der Verordnung über Verbrennungsanlagen für Abfälle und ähnliche brennbare Stoffe in der jeweils geltenden Fassung kann nach Anzeige gegenüber der zuständigen Behörde die jährliche Unterrichtung der Öffentlichkeit mittels der jeweils aktualisierten Umwelterklärung vornehmen, sofern diese die erforderlichen Angaben enthält.
 
-
-## § 10 – Widerruf
+# § 10 – Widerruf
 
 (1) Die zuständige Behörde kann die nach dieser Verordnung von ihr gestatteten Überwachungserleichterungen auch dann ganz oder teilweise widerrufen, wenn
 

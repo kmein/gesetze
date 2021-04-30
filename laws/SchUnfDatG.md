@@ -1,10 +1,7 @@
-# [SchUnfDatG] Schiffsunfalldatenbankgesetz  (SchUnfDatG)
-
-Ausfertigungsdatum: 07.08.2013
-
+% Schiffsunfalldatenbankgesetz  (SchUnfDatG)
+% Ausfertigungsdatum: 07.08.2013
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 07.08.2013
 
 2. Wasserfahrzeuge der Behörden des Bundes und der Länder, sofern sie zur Wahrnehmung von Vollzugsaufgaben bestimmt sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 In diesem Gesetz gelten als
 
@@ -33,8 +29,7 @@ ein Seeschiff oder ein Binnenschiff, einschließlich Kleinfahrzeug, Fähre, Schu
 
 jedes unvorhersehbare Ereignis, das im Zusammenhang mit dem Betrieb eines Wasserfahrzeugs oder der Teilnahme am Schiffsverkehr einen Personenschaden oder einen nicht nur unerheblichen Sach- oder Umweltschaden oder eine erhebliche Störung des Verkehrsablaufs verursacht, sowie auf den Seewasserstraßen auch jedes Vorkommnis gemäß § 1a Nummer 1 Buchstabe b des Seesicherheits-Untersuchungs-Gesetzes.
 
-
-## § 3 – Errichtung
+# § 3 – Errichtung
 
 (1) Bei der Generaldirektion Wasserstraßen und Schifffahrt wird eine zentrale Datenbank zur Erfassung und Auswertung von Unfällen, an denen Wasserfahrzeuge beteiligt sind, errichtet (Schiffsunfalldatenbank).
 
@@ -58,8 +53,7 @@ jedes unvorhersehbare Ereignis, das im Zusammenhang mit dem Betrieb eines Wasser
 
 9. Zulassung und Überwachung von Fahrzeugen nach den schifffahrtsrechtlichen Vorschriften.
 
-
-## § 4 – Datenerhebung
+# § 4 – Datenerhebung
 
 (1) Zu den in § 3 Absatz 1 und 2 genannten Zwecken werden im Falle eines Unfalls nachstehende Daten durch die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und den mit der Wahrnehmung wasserschutzpolizeilicher Aufgaben betrauten Dienststellen der Länder elektronisch oder in Papierform erhoben und an die datenbankführende Stelle übermittelt:
 
@@ -143,15 +137,13 @@ Die Daten nach Satz 1 können von den dort genannten Behörden zum Zweck der ans
 
 (2) Absatz 1 Satz 1 gilt nicht für Daten, die von den Betroffenen in den Unfallberichten nach Unterabschnitt 1.8.5.1 ADN der Generaldirektion Wasserstraßen und Schifffahrt oder nach § 4 Absatz 8 der Gefahrgutverordnung See den zuständigen Behörden übermittelt wurden.
 
-
-## § 5 – Datenspeicherung und Datenverwendung
+# § 5 – Datenspeicherung und Datenverwendung
 
 (1) Die datenbankführende Stelle darf die Daten nach § 4 Absatz 1 Satz 1 zu den in § 3 Absatz 1 und 2 genannten Zwecken erheben, speichern und verwenden. Daten über Unfälle im Anwendungsbereich des § 1 Absatz 1 Nummer 3 dürfen nur zum Zwecke statistischer Auswertungen erhoben, gespeichert und verwendet werden.
 
 (2) Die Daten nach § 4 Absatz 1 Satz 1 dürfen zu den in § 3 Absatz 2 Nummer 6 bis 9 genannten Zwecken von den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und von den mit der Wahrnehmung wasserschutzpolizeilicher Aufgaben betrauten Dienststellen der Länder im Rahmen ihrer gesetzlichen Aufgaben durch jeweils unmittelbaren Zugriff erhoben, gespeichert und verwendet werden, soweit dies für deren jeweilige Aufgabenerfüllung im Einzelfall erforderlich ist. Zu den Zwecken des § 3 Absatz 2 Nummer 1 bis 5 dürfen die Daten nach § 4 Absatz 1 Satz 1 nur erhoben, gespeichert und verwendet werden, soweit es sich nicht um personenbezogene Daten handelt.
 
-
-## § 6 – Datenübermittlung
+# § 6 – Datenübermittlung
 
 (1) Die datenbankführende Stelle ist befugt, die Daten nach § 4 Absatz 1 Satz 1, soweit es sich nicht um personenbezogene Daten handelt, zu den in § 3 Absatz 2 Nummer 1, 2, 4 und 5 genannten Zwecken an das Bundesministerium für Verkehr und digitale Infrastruktur, an die Bundesanstalt für Wasserbau, an das Bundesamt für Seeschifffahrt und Hydrographie und zu den in § 3 Absatz 2 Nummer 1 und 3 genannten Zwecken an die für Wasserstraßen überführende Kreuzungsbauwerke nach Landesrecht zuständigen Behörden zu übermitteln, soweit dies für deren jeweilige Aufgabenerfüllung erforderlich ist. Die nach Satz 1 übermittelten Daten dürfen zu den dort genannten Zwecken vom Bundesministerium für Verkehr und digitale Infrastruktur, von der Bundesanstalt für Wasserbau, vom Bundesamt für Seeschifffahrt und Hydrographie und von den für Wasserstraßen überführende Kreuzungsbauwerke nach Landesrecht zuständigen Behörden gespeichert und verwendet werden, soweit dies für deren jeweilige Aufgabenerfüllung erforderlich ist.
 
@@ -200,8 +192,7 @@ auf Ersuchen der jeweils zuständigen Stelle übermitteln, soweit dies im Einzel
 
 durch die zuständigen Organe und Einrichtungen der Europäischen Union, über- oder zwischenstaatliche Stellen, internationale Organisationen oder öffentliche Stellen anderer Staaten im Einzelfall jeweils erforderlich ist.
 
-
-## § 7 – Löschung
+# § 7 – Löschung
 
 (1) Personenbezogene Daten nach § 4 Absatz 1 Satz 1 sind im Einzelfall unverzüglich zu löschen, soweit sie für die Erfüllung der Zwecke nach § 3 Absatz 1 und 2 nicht mehr erforderlich sind, spätestens jedoch automatisiert nach zehn Jahren ab dem Tag des Unfalls.
 
@@ -209,7 +200,6 @@ durch die zuständigen Organe und Einrichtungen der Europäischen Union, über- 
 
 (3) Im Falle Minderjähriger sind die Absätze 1 und 2 mit der Maßgabe anzuwenden, dass die Löschungsfrist fünf Jahre beträgt.
 
-
-## § 8 – Verordnungsermächtigung
+# § 8 – Verordnungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates Einzelheiten der Form der Datenverarbeitung, insbesondere zur Wahrung der Datensicherheit, durch Rechtsverordnung zu regeln.

@@ -1,15 +1,11 @@
-# [FachbPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb
-
-Ausfertigungsdatum: 31.10.2001
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb
+% Ausfertigungsdatum: 31.10.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Fachberater im Vertrieb/zur Geprüften Fachberaterin im Vertrieb erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 8 durchführen.
 
@@ -25,8 +21,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Fachberater im Vertrieb/ Geprüfte Fachberaterin im Vertrieb.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -44,8 +39,7 @@ nachweist.
 
 (3) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er/sie Kenntnisse, Fertigkeiten und Erfahrungen erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in folgende Handlungsbereiche:
 
@@ -65,8 +59,7 @@ nachweist.
 
 (4) Der Handlungsbereich gemäß Absatz 1 Nr. 5 ist als situationsbezogenes Fachgespräch mündlich zu prüfen. Es soll sich hierbei um ein praxisorientiertes Verkaufs- oder Verhandlungsgespräch einschließlich Visualisierungstechniken handeln. Der Prüfungsteilnehmer/die Prüfungsteilnehmerin hat Anspruch auf höchstens 30 Minuten Vorbereitungszeit. Die Prüfungszeit beträgt höchstens 30Minuten.
 
-
-## § 4 – Anforderungen und Inhalte der Prüfung
+# § 4 – Anforderungen und Inhalte der Prüfung
 
 (1) Im Handlungsbereich "Methodisches Arbeiten unter Anwendung moderner Informationstechnologien" soll der Prüfungsteilnehmer/die Prüfungsteilnehmerin nachweisen, dass er/sie seine/ihre Arbeitskraft optimal einzusetzen versteht, kreative Ideen entwickeln und anwenden kann und somit die vorgegebenen Ziele systematisch und wirtschaftlich erreicht. Weiterhin soll er/sie verkaufspsychologische Ansätze kennen, um den Zusammenhang zwischen Verkaufserfolg und eigener Persönlichkeit zu verstehen. In diesem Rahmen können folgende Qualifikationsschwerpunkte geprüft werden:
 
@@ -124,13 +117,11 @@ nachweist.
 
 5. Kundenreklamationen aufnehmen und bearbeiten.
 
-
-## § 5 – Anrechnung anderer Prüfungsleistungen
+# § 5 – Anrechnung anderer Prüfungsleistungen
 
 Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann auf Antrag von der Ablegung einzelner schriftlicher Prüfungsleistungen befreit werden, wenn er/sie in den letzten fünf Jahren vor einer zuständigen Stelle, einer öffentlichen oder staatlichen anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt hat, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung vom situationsbezogenen Fachgespräch ist nicht zulässig.
 
-
-## § 6 – Bestehen der Prüfung
+# § 6 – Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen in den einzelnen Handlungsbereichen sind einzeln zu bewerten.
 
@@ -154,21 +145,18 @@ Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
 
 Jede Befreiung nach Satz 3 Nummer 3 ist mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben.
 
-
-## § 7 – Wiederholung der Prüfung
+# § 7 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) Mit dem Antrag auf Wiederholung der Prüfung wird der Prüfungsteilnehmer/die Prüfungsteilnehmerin von einzelnen Prüfungsleistungen befreit, wenn er/sie mit seinen/ihren Leistungen darin in einer vorangegangenen Prüfung mindestens ausreichende Leistungen erzielt hat und er/sie sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung angemeldet hat. Der Prüfungsteilnehmer/die Prüfungsteilnehmerin kann beantragen, auch bestandene Prüfungsleistungen zu wiederholen. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
-## § 8 – Übergangsvorschriften
+# § 8 – Übergangsvorschriften
 
 (1) Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren können nach den bisherigen Vorschriften bis zum 31. Dezember 2004 zu Ende geführt werden.
 
 (2) Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers/der Prüfungsteilnehmerin die Wiederholungsprüfung auch gemäß dieser Verordnung durchführen; § 7 Abs. 2 findet in diesem Fall keine Anwendung.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

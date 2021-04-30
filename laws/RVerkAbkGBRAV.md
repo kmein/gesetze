@@ -1,20 +1,15 @@
-# [RVerkAbkGBRAV] Verordnung zur Ausführung des deutsch-britischen Abkommens über den Rechtsverkehr
-
-Ausfertigungsdatum: 05.03.1929
-
+% Verordnung zur Ausführung des deutsch-britischen Abkommens über den Rechtsverkehr
+% Ausfertigungsdatum: 05.03.1929
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 des Gesetzes wegen des deutsch-britischen Abkommens über den Rechtsverkehr vom 3. Dezember 1928 (Reichsgesetzbl. II S. 623) verordnet die Reichsregierung:
 
-
-## Art 1
+# Art 1
 
 Für die Erledigung der in den Artikeln 3 und 9 des Abkommens vorgesehenen Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk die Amtshandlung vorgenommen werden soll.
 
-
-## Art 2
+# Art 2
 
 (1) Für die Erledigung der in Artikel 12 des Abkommens vorgesehenen Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk der britische diplomatische oder konsularische Beamte, der die Beweisaufnahme vorzunehmen hat, seinen Sitz hat.
 
@@ -24,7 +19,6 @@ Für die Erledigung der in den Artikeln 3 und 9 des Abkommens vorgesehenen Angel
 
 (4) Der Beschluss unterliegt der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die Beschwerde steht auch dem Staatsanwalt zu.
 
-
-## Art 3
+# Art 3
 
 (weggefallen)

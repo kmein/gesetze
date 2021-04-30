@@ -1,10 +1,7 @@
-# [AltGZustAnO] Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten des Altersgeldes für freiwillig aus dem Bundesdienst ausscheidende Beamte, Richter und Berufssoldaten sowie des Versorgungsausgleichs der mit Altersgeldanspruch aus dem Bundesdienst ausgeschiedenen Beamten, Richtern und Berufssoldaten  (Altersgeldzuständigkeitsanordnung - AltGZustAnO)
-
-Ausfertigungsdatum: 09.04.2018
-
+% Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten des Altersgeldes für freiwillig aus dem Bundesdienst ausscheidende Beamte, Richter und Berufssoldaten sowie des Versorgungsausgleichs der mit Altersgeldanspruch aus dem Bundesdienst ausgeschiedenen Beamten, Richtern und Berufssoldaten  (Altersgeldzuständigkeitsanordnung - AltGZustAnO)
+% Ausfertigungsdatum: 09.04.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Nach
 
@@ -22,8 +19,7 @@ Nach
 
 ordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat sowie den anderen in der Anlage genannten obersten Dienstbehörden und den in der Anlage genannten Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts an:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Anordnung regelt die Zuständigkeit für
 
@@ -37,8 +33,7 @@ Diese Anordnung regelt die Zuständigkeit für
 
 5. die Entscheidung über Widersprüche und die Vertretung des Dienstherrn bei Klagen aus den in den Nummern 1 bis 4 genannten Bereichen.
 
-
-## § 2 – Festsetzung der Leistungen nach dem Altersgeldgesetz
+# § 2 – Festsetzung der Leistungen nach dem Altersgeldgesetz
 
 (1) Die Zuständigkeit der obersten Dienstbehörde für die Festsetzung des Altersgeldes und des Hinterbliebenenaltersgeldes nach § 49 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes oder nach § 46 Absatz 1 Satz 1 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes sowie die Zuständigkeit für die Erteilung von Altersgeldauskünften nach § 49 Absatz 10 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 7 Satz 1 des Altersgeldgesetzes oder nach § 46 Absatz 8 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes wird auf die Service-Center der Generalzolldirektion (Service-Center) übertragen, soweit in dieser Anordnung nichts Abweichendes geregelt ist.
 
@@ -48,8 +43,7 @@ Diese Anordnung regelt die Zuständigkeit für
 
 2. über den Entzug des Altersgeldes nach § 62 Absatz 3 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes oder nach § 60 Absatz 3 des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes zu entscheiden.
 
-
-## § 3 – Versorgungsausgleich und Durchführung des Bundesversorgungsteilungsgesetzes
+# § 3 – Versorgungsausgleich und Durchführung des Bundesversorgungsteilungsgesetzes
 
 Besteht ein Anspruch auf Altersgeld, sind die Service-Center zuständig für
 
@@ -63,13 +57,11 @@ Besteht ein Anspruch auf Altersgeld, sind die Service-Center zuständig für
 
 Abweichend von Satz 1 sind die obersten Dienstbehörden bis zur ersten Festsetzung des Altersgeldes zuständig, wenn ihnen diese obliegt.
 
-
-## § 4 – Versorgungslastenteilung
+# § 4 – Versorgungslastenteilung
 
 Die Service-Center sind zuständig für die Durchführung der Versorgungslastenteilung nach § 107b des Beamtenversorgungsgesetzes in Verbindung mit § 16 des Altersgeldgesetzes oder nach § 92b des Soldatenversorgungsgesetzes in Verbindung mit § 2 Absatz 3 Satz 1 und § 10 Absatz 5 des Altersgeldgesetzes, insbesondere für die Erstattung und Geltendmachung von Versorgungslasten.
 
-
-## § 5 – Besonderheiten für das Bundeskanzleramt
+# § 5 – Besonderheiten für das Bundeskanzleramt
 
 Beim Bundeskanzleramt verbleibt die Zuständigkeit für
 
@@ -81,8 +73,7 @@ Beim Bundeskanzleramt verbleibt die Zuständigkeit für
 
 4. die Entscheidung, ob von der Möglichkeit nach § 49 Absatz 6 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes Gebrauch gemacht wird.
 
-
-## § 6 – Besonderheiten für das Bundesministerium für Wirtschaft und Energie
+# § 6 – Besonderheiten für das Bundesministerium für Wirtschaft und Energie
 
 Beim Bundesministerium für Wirtschaft und Energie verbleibt nur für die Angehörigen des Ministeriums die Zuständigkeit für
 
@@ -92,8 +83,7 @@ Beim Bundesministerium für Wirtschaft und Energie verbleibt nur für die Angeh�
 
 3. die erste Festsetzung des Altersgeldes nach § 49 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes.
 
-
-## § 7 – Besonderheiten für das Bundesministerium der Verteidigung
+# § 7 – Besonderheiten für das Bundesministerium der Verteidigung
 
 Beim Bundesministerium der Verteidigung verbleibt die Zuständigkeit für
 
@@ -105,8 +95,7 @@ b) Angehörige des Amtes für Militärkunde oder des Bundesamtes für den Milit�
 
 2. die Bearbeitung nichtförmlicher Rechtsbehelfe, wenn ressortspezifische Belange betroffen sind.
 
-
-## § 8 – Besonderheiten für das Bundesministerium für Bildung und Forschung
+# § 8 – Besonderheiten für das Bundesministerium für Bildung und Forschung
 
 Beim Bundesministerium für Bildung und Forschung verbleibt nur für die Angehörigen des Ministeriums die Zuständigkeit für
 
@@ -116,8 +105,7 @@ Beim Bundesministerium für Bildung und Forschung verbleibt nur für die Angehö
 
 3. die erste Festsetzung des Altersgeldes nach § 49 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes.
 
-
-## § 9 – Besonderheiten für den Bundesrechnungshof
+# § 9 – Besonderheiten für den Bundesrechnungshof
 
 Beim Bundesrechnungshof verbleibt die Zuständigkeit für
 
@@ -127,8 +115,7 @@ Beim Bundesrechnungshof verbleibt die Zuständigkeit für
 
 3. die erste Festsetzung des Altersgeldes nach § 49 Absatz 1 Satz 1 des Beamtenversorgungsgesetzes in Verbindung mit § 10 Absatz 5 des Altersgeldgesetzes.
 
-
-## § 10 – Örtliche Zuständigkeit
+# § 10 – Örtliche Zuständigkeit
 
 (1) Für die Aufgaben nach den §§ 2 bis 4 ist, vorbehaltlich des Absatzes 2, das Service-Center Dresden zuständig.
 
@@ -140,8 +127,7 @@ Beim Bundesrechnungshof verbleibt die Zuständigkeit für
 
 Abweichend von Satz 1 Nummer 1 ist das Service-Center Stuttgart auch für die aus der ehemaligen Volksmarine der Deutschen Demokratischen Republik übernommenen Berufssoldaten zuständig.
 
-
-## § 11 – Entscheidung über Widersprüche sowie Vertretung des Dienstherrn bei Klagen aus den in den §§ 2 bis 4 genannten Bereichen
+# § 11 – Entscheidung über Widersprüche sowie Vertretung des Dienstherrn bei Klagen aus den in den §§ 2 bis 4 genannten Bereichen
 
 (1) Die Befugnis zur Entscheidung über Widersprüche in den in den §§ 2 bis 4 genannten Bereichen wird den Service-Centern übertragen, wenn sie die Maßnahme getroffen haben.
 
@@ -159,25 +145,21 @@ Abweichend von Satz 1 Nummer 1 ist das Service-Center Stuttgart auch für die au
 
 2. in Einzelfällen oder in Gruppen von Fällen nach Absatz 2 die Vertretung abweichend zu regeln oder die Vertretung selbst zu übernehmen.
 
-
-## § 12 – Vorlagepflicht, Schriftverkehr
+# § 12 – Vorlagepflicht, Schriftverkehr
 
 (1) Die Service-Center legen die Fälle, in denen sie nicht entscheidungsbefugt sind, derjenigen obersten Dienstbehörde zur Entscheidung vor, die bis zum Ausscheiden für die altersgeldberechtigte Person zuständig ist oder war. Eine erforderliche Beteiligung des Bundesministeriums des Innern, für Bau und Heimat wird durch die oberste Dienstbehörde veranlasst.
 
 (2) Die Service-Center führen den Schriftverkehr mit den zuständigen Stellen unmittelbar. Das Bundesministerium der Finanzen ist nachrichtlich zu beteiligen bei Fragen von grundsätzlicher Bedeutung oder bei Sachverhalten, die von allgemeinem Interesse auch für die altersgeldberechtigten Personen aus dem Geschäftsbereich des Bundesministeriums der Finanzen sind.
 
-
-## § 13 – Andere Rechtsgebiete
+# § 13 – Andere Rechtsgebiete
 
 Die Zuständigkeit für Aufgaben, die zwar im Zusammenhang mit dem Altersgeldgesetz stehen, aber schwerpunktmäßig andere Rechtsgebiete betreffen, bleibt unberührt.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Diese Anordnung tritt mit Wirkung vom 1. Januar 2018 in Kraft.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2018, 465 - 470)
 
@@ -189,16 +171,14 @@ und Altersgeldauskunft
 nach § 10 Abs. 7 AltGG
 
 Erste Festsetzung  
-des Altersgeldes<span id="FnR.FnA1-F802441_01"></span><a href="#FnA1-F802441_01" class="FnR">1</a></sup> bzw.  
-Hinterbliebenenaltersgeldes<span id="FnR.FnA1-F802441_02"></span><a href="#FnA1-F802441_02" class="FnR">2</a></sup>
+des Altersgeldes<span id="FnR.FnA1-F802441_01"></span><a href="#FnA1-F802441_01" class="FnR">1</a></sup> bzw. Hinterbliebenenaltersgeldes<span id="FnR.FnA1-F802441_02"></span><a href="#FnA1-F802441_02" class="FnR">2</a></sup>
 
 Folgeregelungen<span id="FnR.FnA1-F802441_03"></span><a href="#FnA1-F802441_03" class="FnR">3</a></sup>  
 und Auszahlung
 
 Rückforderung  
 nach § 52 Abs. 2  
-BeamtVG i. V. m.  
-§ 10 Abs. 5 AltGG<span id="FnR.FnA1-F802441_04"></span><a href="#FnA1-F802441_04" class="FnR">4</a></sup>
+BeamtVG i. V. m. § 10 Abs. 5 AltGG<span id="FnR.FnA1-F802441_04"></span><a href="#FnA1-F802441_04" class="FnR">4</a></sup>
 
 Versorgungs-  
 lastenteilung
@@ -230,8 +210,7 @@ Klagen
 
 9
 
-1.  
-Bundespräsidialamt
+1. Bundespräsidialamt
 
    
 Service-Center Dresden
@@ -257,8 +236,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-2.  
-Verwaltung des  
+2. Verwaltung des  
 Deutschen Bundestages
 
    
@@ -285,8 +263,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-3.  
-Verwaltung des  
+3. Verwaltung des  
 Bundesrates
 
    
@@ -313,8 +290,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-4.  
-Bundesverfassungsgericht
+4. Bundesverfassungsgericht
 
    
 Service-Center Dresden
@@ -340,8 +316,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-5.  
-Bundeskanzleramt
+5. Bundeskanzleramt
 
    
 Bundeskanzleramt
@@ -401,8 +376,7 @@ erlassen hat
 Behörde, die zur Entscheidung  
 über den Widerspruch befugt ist
 
-6.  
-Auswärtiges Amt
+6. Auswärtiges Amt
 
    
 Service-Center Dresden
@@ -456,8 +430,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-7.  
-Bundesministerium des  
+7. Bundesministerium des  
 lnnern, für Bau und Heimat
 
    
@@ -511,8 +484,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-8.  
-Bundesministerium der  
+8. Bundesministerium der  
 Justiz und für  
 Verbraucherschutz
 
@@ -568,8 +540,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-9.  
-Bundesministerium der  
+9. Bundesministerium der  
 Finanzen
 
    
@@ -679,8 +650,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-10.  
-Bundesministerium für Wirtschaft und Energie
+10. Bundesministerium für Wirtschaft und Energie
 
    
 Bundesministerium für Wirtschaft und Energie
@@ -736,8 +706,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-11.  
-Bundesministerium für  
+11. Bundesministerium für  
 Arbeit und Soziales
 
    
@@ -847,8 +816,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-12.  
-Bundesministerium für  
+12. Bundesministerium für  
 Ernährung und  
 Landwirtschaft
 
@@ -959,8 +927,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-13.  
-Bundesministerium der  
+13. Bundesministerium der  
 Verteidigung
 
    
@@ -1086,8 +1053,7 @@ Service-Center Stuttgart⁷
 
 Service-Center Stuttgart⁷
 
-14.  
-Bundesministerium für  
+14. Bundesministerium für  
 Familie, Senioren, Frauen und Jugend
 
    
@@ -1141,8 +1107,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-15.  
-Bundesministerium für  
+15. Bundesministerium für  
 Gesundheit
 
    
@@ -1196,8 +1161,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-16.  
-Bundesministerium für  
+16. Bundesministerium für  
 Umwelt, Naturschutz und nukleare Sicherheit
 
    
@@ -1251,8 +1215,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-17.  
-Bundesministerium für  
+17. Bundesministerium für  
 Bildung und Forschung
 
    
@@ -1311,8 +1274,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-18.  
-Bundesministerium  
+18. Bundesministerium  
 für wirtschaftliche  
 Zusammenarbeit und  
 Entwicklung
@@ -1341,8 +1303,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-19.  
-Presse- und  
+19. Presse- und  
 Informationsamt der  
 Bundesregierung
 
@@ -1370,8 +1331,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-20.  
-Die oder der Beauftragte der Bundesregierung für Kultur und Medien
+20. Die oder der Beauftragte der Bundesregierung für Kultur und Medien
 
    
 Service-Center Dresden
@@ -1705,8 +1665,7 @@ Service-Center Dresden
    
 Service-Center Dresden
 
-21.  
-Bundesrechnungshof
+21. Bundesrechnungshof
 
    
 Bundesrechnungshof

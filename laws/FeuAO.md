@@ -1,15 +1,11 @@
-# [FeuAO] Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung  (Feuerungsanordnung - FeuAO)
-
-Ausfertigungsdatum: 10.09.1990
-
+% Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung  (Feuerungsanordnung - FeuAO)
+% Ausfertigungsdatum: 10.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund § 82 Abs. 1 des Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50 S. 929) in Verbindung mit § 2 Abs. 2 des Gesetzes vom 20. Juli 1990 zur Einführung des Gesetzes vom 20. Juli 1990 über die Bauordnung (BauO) (GBl. I Nr. 50 S. 950) wird folgendes angeordnet:
 
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 
   
 § 1  
@@ -39,8 +35,7 @@ Feuerungsanlagen besonderer Art
 § 9  
 Inkrafttreten
 
-
-## § 1 – Geltungsbereich, Begriffe
+# § 1 – Geltungsbereich, Begriffe
 
 (1) Diese Anordnung gilt für
 
@@ -68,8 +63,7 @@ c) die aus dem Brennstoffdurchsatz und einem Wirkungsgrad von 80 vom Hundert erm
 
 2. höchstmögliche Wärmeleistung in den Fällen der Nr. 1 Buchstabe a und c die Nennwärmeleistung, im Falle der Nr. 1 Buchstabe b die obere Grenze des Leistungsbereiches.
 
-
-## § 2 – Feuerstätten, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung
+# § 2 – Feuerstätten, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung
 
 (1) Feuerstätten sind mit Verbindungsstücken und Schornsteinen oder anderen Abgasanlagen so aufeinander abzustimmen, daß Gefahren und unzumutbare Belästigungen nicht entstehen.
 
@@ -111,8 +105,7 @@ Ferner gelten als beschaffen nach den Absätzen 2 und 3
 
 (7) Für Wärmetauscher von Anlagen zur Verteilung von Wärme und Wärmetauscher von Anlagen zur Warmwasserversorgung, die mit Flüssigkeiten, Gasen oder Dämpfen beheizt werden, gelten die Absätze 2 und 4 bis 6 entsprechend. Wärmetauscher von Anlagen zur Warmwasserversorgung, die durch Wasser oder Wasserdampf mit gesundheitsgefährdenden Zusatzstoffen oder durch andere flüssige Wärmeträger oder Kältemittel beheizt werden, müssen außerdem so beschaffen sein, daß durch undichte Wärmetauscherwände die Wärmeträger oder Kältemittel nicht in gefahrdrohender Menge in die Warmwasserversorgungsanlage eindringen können.
 
-
-## § 3 – Verbindungsstücke
+# § 3 – Verbindungsstücke
 
 (1) Abgasrohre und Abgaskanäle (Verbindungsstücke) müssen aus form- und hitzebeständigen, nichtbrennbaren Baustoffen bestehen, einschließlich der Anschlüsse und der Verschlüsse der Reinigungsöffnungen dicht und gegen die bei einer bestimmungsgemäßen Abgaskondensation entstehenden Stoffe widerstandsfähig sein. Abgaskanäle müssen widerstandsfähig gegen Abgas aller Brennstoffe sein.
 
@@ -122,8 +115,7 @@ Ferner gelten als beschaffen nach den Absätzen 2 und 3
 
 (4) Abgasrohre müssen von brennbaren Baustoffen so weit entfernt sein, daß eine Brandgefahr nicht entsteht. Führen Abgasrohre durch Bauteile mit brennbaren Baustoffen, so sind diese Bauteile durch geeignete Vorkehrungen zu schützen.
 
-
-## § 4 – Schornsteine und andere Abgasanlagen
+# § 4 – Schornsteine und andere Abgasanlagen
 
 (1) Lichter Querschnitt, Höhe, Wärmedurchlaßwiderstand, Dichtheit, innere Oberfläche und Anordnung der Schornsteine sowie der Anschluß der Feuerstätten nach Zahl, Art und Nennwärmeleistung müssen so beschaffen sein, daß
 
@@ -167,8 +159,7 @@ Für Schornsteine, an die nur Gasfeuerstätten mit Feuerungseinrichtung ohne Geb
 
 (7) Für Schornsteine aus Metall können Ausnahmen von den Absätzen 2 und 4 zugelassen werden, wenn wegen der Stand- oder Betriebssicherheit und des Brandschutzes Bedenken nicht bestehen.
 
-
-## § 5 – Ableitung der Abgase
+# § 5 – Ableitung der Abgase
 
 (1) Die Ableitung der Abgase der Feuerstätten über Dach muß so erfolgen, daß ihr Abtransport mit der Luftströmung gewährleistet ist.
 
@@ -188,13 +179,11 @@ Für Schornsteine, an die nur Gasfeuerstätten mit Feuerungseinrichtung ohne Geb
 
 (5) Die Mündungen von Schornsteinen und anderen Abgasanlagen müssen zu Lüftungsöffnungen und Fenstern so angeordnet sein, daß Gefahren oder unzumutbare Belästigungen, auch für Nachbarn, nicht entstehen.
 
-
-## § 6 – Rohrleitungen
+# § 6 – Rohrleitungen
 
 Rohrleitungen in Gebäuden einschließlich der Formstücke und Armaturen sowie der Steuer-, Regel-, Sicherheits- und Meßeinrichtungen müssen dicht und so beschaffen und eingebaut sein, daß sie den beim bestimmungsgemäßen Gebrauch auftretenden Beanspruchungen standhalten. Sie dürfen einschließlich ihrer Wärmedämmung oder sonstigen Ummantelungen nicht die Brandsicherheit gefährden und bei äußerer Brandeinwirkung nicht zu einer Explosionsgefahr führen.
 
-
-## § 7 – Aufstellräume von Feuerstätten
+# § 7 – Aufstellräume von Feuerstätten
 
 (1) Aufstellräume müssen so bemessen sein, daß Feuerstätten ordnungsgemäß errichtet, betrieben und unterhalten werden können.
 
@@ -232,8 +221,7 @@ Die Lüftungsanlagen nach Satz 1 Nr. 2 müssen mindestens für einen eineinhalbf
 
 (11) Heizräume müssen Be- und Entlüftungsanlagen haben, die die Heizräume während des Betriebs ständig lüften und den Feuerstätten die erforderliche Verbrennungsluft zuführen. Die Lüftungsanlagen sind so anzuordnen, daß der sichere Betrieb der Feuerstätten nicht beeinträchtigt wird. Bei Feuerstätten für Flüssiggas müssen die Lüftungsanlagen mindestens für einen eineinhalbfachen Luftwechsel je Stunde bemessen und ständig wirksam sein.
 
-
-## § 8 – Feuerungsanlagen besonderer Art
+# § 8 – Feuerungsanlagen besonderer Art
 
 (1) Andere Anforderungen als nach den §§ 2 bis 7 können an Feuerstätten besonderer Art, an ihre Verbindungsstücke und Schornsteine oder sonstige Abgasanlagen, an ihre Aufstellräume und an ihren Betrieb gestellt werden. Verlangt werden können Nachprüfungen, die von Zeit zu Zeit zu wiederholen sind, und Bescheinigungen über deren Ergebnis.
 
@@ -247,12 +235,10 @@ Die Lüftungsanlagen nach Satz 1 Nr. 2 müssen mindestens für einen eineinhalbf
 
 4. Feuerstätten mit niedriger Abgastemperatur, wie Brennwertkessel und andere Feuerstätten mit nachgeschalteten Heizflächen zur Wärmegewinnung durch Verminderung der Abgastemperatur.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Anordnung tritt am 1. März 1991 in Kraft. § 7 Abs. 3 tritt am Tage nach der Veröffentlichung im Gesetzblatt in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Minister für Bauwesen, Städtebau und Wohnungswirtschaft

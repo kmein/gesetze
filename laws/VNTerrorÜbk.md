@@ -1,5 +1,3 @@
-# [VNTerrorÜbk] Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen
-
-Ausfertigungsdatum: 13.04.2005
-
+% Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen
+% Ausfertigungsdatum: 13.04.2005
  

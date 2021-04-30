@@ -1,10 +1,7 @@
-# [SozSichAbkUmsG] Gesetz zur Umsetzung von Abkommen über Soziale Sicherheit
-
-Ausfertigungsdatum: 27.04.2002
-
+% Gesetz zur Umsetzung von Abkommen über Soziale Sicherheit
+% Ausfertigungsdatum: 27.04.2002
  
-
-## § 1 – Umlageverfahren der Träger der Krankenversicherung
+# § 1 – Umlageverfahren der Träger der Krankenversicherung
 
 (1) Belastungen, die sich für die Träger der Krankenversicherung aus Erstattungsverzichtsregelungen des über- und zwischenstaatlichen Rechts ergeben, sind auf alle Träger der Krankenversicherung umzulegen. Die Umlage wird von der Deutschen Verbindungsstelle Krankenversicherung - Ausland, Bonn, durchgeführt.
 
@@ -12,13 +9,11 @@ Ausfertigungsdatum: 27.04.2002
 
 (3) Die Umlagen nach den Absätzen 1 und 2 werden für die Zeit bis 31. Dezember 1997 auf der Grundlage der durchschnittlichen Mitgliederzahl des Vorjahres ohne Rentner, ab dem 1. Januar 1998 auf der Grundlage der durchschnittlichen Mitgliederzahl des Vorjahres einschließlich Rentner aufgebracht.
 
-
-## § 2 – Umlageverfahren der Träger der Unfallversicherung
+# § 2 – Umlageverfahren der Träger der Unfallversicherung
 
 Aufwendungen oder außergewöhnliche Belastungen, die sich für einen Träger der Unfallversicherung des Wohn- oder Aufenthaltsorts aus Regelungen des über- und zwischenstaatlichen Rechts ergeben, können von ihm ganz oder teilweise auf alle Träger der Unfallversicherung umgelegt werden. Der Umlagenanteil ermittelt sich nach dem Verhältnis der Ausgaben des vorvergangenen Kalenderjahres für Sachleistungen der einzelnen Träger der Unfallversicherung zu denen aller Träger.
 
-
-## § 3 – Übertragung der Zuständigkeit für Entsendevereinbarungen auf die Deutsche Verbindungsstelle Krankenversicherung - Ausland
+# § 3 – Übertragung der Zuständigkeit für Entsendevereinbarungen auf die Deutsche Verbindungsstelle Krankenversicherung - Ausland
 
 Die Aufgaben der zuständigen Behörde bzw. der von ihr bestimmten Stelle nach
 

@@ -1,32 +1,25 @@
-# [BSIZertV] Verordnung über das Verfahren der Erteilung von Sicherheitszertifikaten und Anerkennungen durch das Bundesamt für Sicherheit in der Informationstechnik   (BSI-Zertifizierungs- und -Anerkennungsverordnung - BSIZertV)
-
-Ausfertigungsdatum: 17.12.2014
-
+% Verordnung über das Verfahren der Erteilung von Sicherheitszertifikaten und Anerkennungen durch das Bundesamt für Sicherheit in der Informationstechnik   (BSI-Zertifizierungs- und -Anerkennungsverordnung - BSIZertV)
+% Ausfertigungsdatum: 17.12.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821) verordnet das Bundesministerium des Innern nach Anhörung der betroffenen Wirtschaftsverbände im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Das Bundesamt für Sicherheit in der Informationstechnik (Bundesamt) erteilt Zertifikate und Anerkennungen gemäß § 9 des BSI-Gesetzes nach dieser Verordnung.
 
-
-## § 2 – Antragsverfahren
+# § 2 – Antragsverfahren
 
 Anträge müssen schriftlich eingereicht werden und den Namen und die Anschrift des Antragstellers sowie das Datum des Antrags enthalten.
 
-
-## § 3 – Vorlage und Aufbewahrung von Unterlagen und sonstigen Beweismitteln
+# § 3 – Vorlage und Aufbewahrung von Unterlagen und sonstigen Beweismitteln
 
 (1) Der Antrag, die mit dem Antrag eingereichten Unterlagen und die im Zertifizierungs- oder Anerkennungsverfahren anfallenden Unterlagen werden beim Bundesamt elektronisch oder in Papierform gemäß den geltenden Bestimmungen aufbewahrt.
 
 (2) Soweit der Antragsteller nach dieser Verordnung dazu berechtigt ist, dem Bundesamt Unterlagen oder sonstige Beweismittel nur zeitweise zur Verfügung zu stellen, hat er diese Unterlagen oder sonstigen Beweismittel nach der Inaugenscheinnahme durch das Bundesamt beim Antragsteller während des Antragsverfahrens und des Gültigkeitszeitraums der Zertifizierung oder der Anerkennung aufzubewahren. Nach Ablauf der Geltungsdauer der Zertifizierung oder der Anerkennung sind diese Unterlagen oder sonstigen Beweismittel für mindestens drei weitere Jahre aufzubewahren und dem Bundesamt jederzeit auf Anfrage kostenfrei zur Verfügung zu stellen.
 
-
-## § 4 – Prüfkriterien, Anforderungen, sachliche Geltungsbereiche
+# § 4 – Prüfkriterien, Anforderungen, sachliche Geltungsbereiche
 
 (1) Das Bundesamt bestimmt, soweit erforderlich, für Zertifizierungs- und Anerkennungsverfahren nach dieser Verordnung
 
@@ -44,8 +37,7 @@ und veröffentlicht diese auf seiner Internetseite.
 
 (3) Das Bundesamt sieht von der Veröffentlichung nach den Absätzen 1 und 2 ab, wenn durch die Veröffentlichung die öffentliche Sicherheit gefährdet würde. Das Bundesamt kann von der Veröffentlichung absehen, wenn durch die Veröffentlichung öffentliche Interessen oder die Sicherheit bestimmter Produkte, Komponenten, Produktkategorien oder Systeme beeinträchtigt würden oder die Prüfkriterien oder Verfahrensbeschreibungen als Verschlusssache eingestuft sind. Das Bundesamt gibt nicht veröffentlichte Prüfkriterien, Geltungsbereiche und Verfahrensbeschreibungen denjenigen, die als Antragsteller in Betracht kommen, bekannt, wenn diese gegenüber dem Bundesamt ein berechtigtes Interesse nachweisen und sich verpflichten, die notwendigen Sicherheitsvorkehrungen einzuhalten.
 
-
-## § 5 – Form der Entscheidungen; Anhörungspflicht
+# § 5 – Form der Entscheidungen; Anhörungspflicht
 
 (1) Entscheidungen, mit denen abschließend über einen nach dieser Verordnung gestellten Antrag entschieden wird, sind schriftlich oder elektronisch zu erlassen.
 
@@ -53,15 +45,13 @@ und veröffentlicht diese auf seiner Internetseite.
 
 (3) Vor Erteilung eines Zertifikats oder einer Anerkennung mit Nebenbestimmungen nach § 22 ist der Antragsteller nach § 28 des Verwaltungsverfahrensgesetzes anzuhören.
 
-
-## § 6 – Mitwirkungsobliegenheit des Antragstellers
+# § 6 – Mitwirkungsobliegenheit des Antragstellers
 
 (1) Das Bundesamt stellt die Tatsachen fest, die notwendig sind, um den für die Zertifizierung oder Anerkennung relevanten Sachverhalt zu ermitteln. Es obliegt dem Antragsteller, die notwendigen Beweismittel zur Ermittlung des Sachverhaltes beizubringen. Das Bundesamt ist nicht verpflichtet, eigene Ermittlungen im Sinne des § 26 Absatz 1 des Verwaltungsverfahrensgesetzes anzustellen, kann aber auf ihm bereits vorliegende Erkenntnisse zurückgreifen.
 
 (2) Dem Antragsteller obliegt es, im Rahmen seiner Mitwirkungsobliegenheiten die notwendige Mitwirkung etwaiger Dritter sicherzustellen.
 
-
-## § 7 – Veröffentlichung von Zertifikaten und Anerkennungen
+# § 7 – Veröffentlichung von Zertifikaten und Anerkennungen
 
 (1) Das Bundesamt veröffentlicht mindestens vierteljährlich im Internet oder in anderen Medien Gesamtlisten oder seit der letzten Veröffentlichung geänderte oder hinzugefügte Listeneinträge der zertifizierten informationstechnischen Systeme, Standorte, Produkte, Komponenten und Schutzprofile sowie die zugehörigen Sicherheitszertifikate und Zertifizierungsreporte.
 
@@ -73,8 +63,7 @@ und veröffentlicht diese auf seiner Internetseite.
 
 (5) Der Inhaber eines Zertifikats oder einer Anerkennung kann der Veröffentlichung nach den Absätzen 1 bis 4 widersprechen. Das Bundesamt sieht von der Veröffentlichung nach den Absätzen 1 bis 4 ab, soweit durch die Veröffentlichung die öffentliche Sicherheit beeinträchtigt werden könnte. Das Bundesamt kann von der Veröffentlichung nach den Absätzen 1 bis 4 ganz oder teilweise absehen, wenn durch die Veröffentlichung öffentliche oder private Interessen beeinträchtigt würden.
 
-
-## § 8 – Zertifizierung von informationstechnischen Produkten oder Komponenten
+# § 8 – Zertifizierung von informationstechnischen Produkten oder Komponenten
 
 (1) Ein Antrag auf Zertifizierung von informationstechnischen Produkten oder Komponenten kann von einer natürlichen oder juristischen Person gestellt werden. Ist der Antragsteller nicht Hersteller des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente oder von Teilen davon, so muss der Antragsteller dem Antrag eine Erklärung aller Hersteller des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente beifügen, in der die Hersteller ihr Einverständnis mit dem Antrag erklären sowie ihre Bereitschaft zur Mitwirkung und ihr Einverständnis, den Antragsteller bei der Erfüllung von Auflagen oder sonstigen Nebenbestimmungen im Antragsverfahren und nach der Erteilung des Zertifikats zu unterstützen. § 13 Absatz 2 des Verwaltungsverfahrensgesetzes bleibt unberührt.
 
@@ -94,8 +83,7 @@ und veröffentlicht diese auf seiner Internetseite.
 
 7. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
-
-## § 9 – Zertifizierung von informationstechnischen Systemen
+# § 9 – Zertifizierung von informationstechnischen Systemen
 
 (1) Ein Antrag auf Zertifizierung von informationstechnischen Systemen kann nur von dem Betreiber des zu zertifizierenden Systems gestellt werden.
 
@@ -113,8 +101,7 @@ und veröffentlicht diese auf seiner Internetseite.
 
 6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
-
-## § 10 – Zertifizierung von Schutzprofilen
+# § 10 – Zertifizierung von Schutzprofilen
 
 (1) Ein Antrag auf Zertifizierung von Schutzprofilen kann nur von einer Vereinigung von Herstellern oder Anwendern von informationstechnischen Produkten, von einer Standardisierungsorganisation oder von einer Behörde gestellt werden.
 
@@ -130,10 +117,8 @@ und veröffentlicht diese auf seiner Internetseite.
 
 5. die Angabe der vom Bundesamt anerkannten sachverständigen Stelle, die für die Prüfung und Bewertung vorgesehen ist, sowie
 
-6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.  
-
-
-## § 11 – Mitwirkungsobliegenheiten
+6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 1 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1. 
+# § 11 – Mitwirkungsobliegenheiten
 
 (1) Zur Zertifizierung von informationstechnischen Produkten oder Komponenten obliegt es dem Antragsteller, kostenfrei dem Bundesamt und der sachverständigen Stelle das zu zertifizierende Produkt oder die zu zertifizierende Komponente, die für dessen oder deren Betrieb notwendigen Einrichtungen und Rechte sowie die nach § 4 Absatz 1 erforderlichen Unterlagen und Beweismittel zur Verfügung zu stellen. Unterlagen und sonstige Beweismittel können beim Antragsteller in Augenschein genommen werden, wenn der Antragsteller glaubhaft macht, dass einer Weitergabe der Unterlagen oder Beweismittel wesentliche Interessen des Antragstellers entgegenstehen.
 
@@ -143,8 +128,7 @@ und veröffentlicht diese auf seiner Internetseite.
 
 (4) Zur Durchführung des Zertifizierungsverfahrens obliegt es dem Antragsteller, das Bundesamt und die beauftragte sachverständige Stelle kostenfrei durch fachkompetente Vertreter zu unterstützen. Soweit notwendig, obliegt es dem Antragsteller, kostenfrei das mit der Prüfung, Bewertung und Zertifizierung befasste Personal produkt-, komponenten- oder systembezogen einzuweisen oder Schulungen durchzuführen.
 
-
-## § 12 – Zertifikat
+# § 12 – Zertifikat
 
 (1) Ein Zertifikat nach § 9 Absatz 4 des BSI-Gesetzes wird erteilt, wenn
 
@@ -194,13 +178,11 @@ Dem Sicherheitszertifikat wird ein Zertifizierungsbericht beigefügt.
 
 (7) Das Bundesamt kann jederzeit anlassbezogen überprüfen, ob die Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin vorliegen. Das Bundesamt entwickelt für die Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
-
-## § 13 – Rückgabe von informationstechnischen Produkten oder Komponenten
+# § 13 – Rückgabe von informationstechnischen Produkten oder Komponenten
 
 Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte oder Komponenten werden dem Antragsteller am Ort der Prüfung zurückgegeben. Das Bundesamt kann mit dem Antragsteller vereinbaren, dass das Produkt oder die Komponente beim Bundesamt aufbewahrt wird.
 
-
-## § 14 – Antrag
+# § 14 – Antrag
 
 (1) Ein Antrag auf Zertifizierung einer Person kann nur von der Person gestellt werden, die die Zertifizierung erhalten möchte.
 
@@ -212,8 +194,7 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 3. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 2 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
-
-## § 15 – Zertifikat
+# § 15 – Zertifikat
 
 (1) Ein Zertifikat für Personen nach § 9 Absatz 5 des BSI-Gesetzes wird erteilt, wenn
 
@@ -241,8 +222,7 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (4) Das Bundesamt überprüft regelmäßig, ob die Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
-
-## § 16 – Antrag
+# § 16 – Antrag
 
 (1) Ein Antrag auf Zertifizierung als IT-Sicherheitsdienstleister kann nur von dem IT-Sicherheitsdienstleister gestellt werden, der die Zertifizierung erhalten möchte.
 
@@ -260,15 +240,13 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 6. die Zustimmung zur Veröffentlichung einer erteilten Zertifizierung nach § 7 Absatz 3 oder den Widerspruch gegen die Veröffentlichung nach § 7 Absatz 5 Satz 1.
 
-
-## § 17 – Mitwirkungsobliegenheiten
+# § 17 – Mitwirkungsobliegenheiten
 
 (1) Es obliegt dem Antragsteller, im Rahmen des Verfahrens dem Bundesamt oder den vom Bundesamt beauftragten Personen, soweit erforderlich, kostenfrei Zugang zu den Standorten, zu den zur Prüfung vorgesehenen Systemen und zu den Unterlagen nach § 4 zu gewähren.
 
 (2) Während des Verfahrens obliegt es dem Antragsteller, das Bundesamt oder die vom Bundesamt beauftragten Personen kostenfrei durch fachkompetente Vertreter zu unterstützen.
 
-
-## § 18 – Zertifikat
+# § 18 – Zertifikat
 
 (1) Ein Zertifikat als IT-Sicherheitsdienstleister nach § 9 Absatz 5 des BSI-Gesetzes wird erteilt, wenn
 
@@ -296,8 +274,7 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (4) Das Bundesamt überprüft regelmäßig, ob die Voraussetzungen für die Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
-
-## § 19 – Antrag
+# § 19 – Antrag
 
 (1) Ein Antrag auf Anerkennung als sachverständige Stelle kann nur von der Stelle gestellt werden, die die Anerkennung erhalten möchte.
 
@@ -317,15 +294,13 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (3) Die Anträge werden in der zeitlichen Reihenfolge ihres Eingangs bearbeitet; hiervon kann abgewichen werden, wenn das Bundesamt wegen der Zahl und des Umfangs anhängiger Prüfungsverfahren eine Prüfung in angemessener Zeit nicht durchführen kann und an einer Anerkennung ein öffentliches Interesse besteht.
 
-
-## § 20 – Mitwirkungsobliegenheiten
+# § 20 – Mitwirkungsobliegenheiten
 
 (1) Es obliegt dem Antragsteller, im Rahmen des Verfahrens dem Bundesamt oder den vom Bundesamt beauftragten Personen, soweit erforderlich, kostenfrei Zugang zu den Standorten, zu den zur Prüfung vorgesehenen Systemen und zu den Unterlagen nach § 4 zu gewähren.
 
 (2) Während des Verfahrens obliegt es dem Antragsteller, das Bundesamt oder die vom Bundesamt beauftragten Personen kostenfrei durch fachkompetente Vertreter zu unterstützen.
 
-
-## § 21 – Anerkennung
+# § 21 – Anerkennung
 
 (1) Eine Anerkennung nach § 9 Absatz 6 des BSI-Gesetzes wird erteilt, wenn
 
@@ -353,8 +328,7 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 (4) Das Bundesamt überprüft regelmäßig nach § 9 Absatz 6 Satz 2 des BSI-Gesetzes, ob die Voraussetzungen für die Anerkennung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene Überprüfung stattfinden. Das Bundesamt entwickelt für diese Überprüfungen Verfahrensbeschreibungen und veröffentlicht diese auf seiner Internetseite.
 
-
-## § 22 – Nebenbestimmungen
+# § 22 – Nebenbestimmungen
 
 (1) Ein Zertifikat nach § 12, § 15 und § 18 sowie eine Anerkennung nach § 21 kann unter dem Vorbehalt des Widerrufs erlassen werden.
 
@@ -374,7 +348,6 @@ Vom Antragsteller an das Bundesamt übergebene informationstechnische Produkte o
 
 7. in den Fällen des § 18 oder § 21 der Antragsteller eine bestimmte Zahl von nach § 15 zertifizierten Personen für den jeweiligen Geltungsbereich beschäftigen muss.
 
-
-## § 23 – Inkrafttreten, Außerkrafttreten
+# § 23 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die BSI-Zertifizierungsverordnung vom 7. Juli 1992 (BGBl. I S. 1230) außer Kraft.

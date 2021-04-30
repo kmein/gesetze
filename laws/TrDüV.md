@@ -1,15 +1,11 @@
-# [TrDüV] Verordnung zur Datenübermittlung durch Mitteilungsverpflichtete und durch den Betreiber des Unternehmensregisters an das Transparenzregister  (Transparenzregisterdatenübermittlungsverordnung - TrDüV)
-
-Ausfertigungsdatum: 30.06.2017
-
+% Verordnung zur Datenübermittlung durch Mitteilungsverpflichtete und durch den Betreiber des Unternehmensregisters an das Transparenzregister  (Transparenzregisterdatenübermittlungsverordnung - TrDüV)
+% Ausfertigungsdatum: 30.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 4 des Geldwäschegesetzes vom 23. Juni 2017 (BGBl. I S. 1822) verordnet das Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Registrierung im Transparenzregister und Übermittlung der Mindestangaben
+# § 1 – Registrierung im Transparenzregister und Übermittlung der Mindestangaben
 
 (1) Für die Übermittlung der Mitteilung einer Vereinigung nach § 20 Absatz 1 Satz 1 des Geldwäschegesetzes und einer Rechtsgestaltung nach § 21 Absatz 1 Satz 1 und Absatz 2 des Geldwäschegesetzes ist eine Registrierung auf der Internetseite des Transparenzregisters www.transparenzregister.de erforderlich. Die Pflicht zur Registrierung trägt die Vereinigung oder Rechtsgestaltung.
 
@@ -33,13 +29,11 @@ Die erfolgte Übermittlung der Mindestangaben wird demjenigen, der die Registrie
 
 (5) Für die Registrierung können andere Authentifizierungsverfahren verwendet werden, wenn sie nach dem Stand der Technik einen gleichwertigen oder höheren Sicherheitsstandard bei vergleichbarem Registrierungsaufwand gewährleisten.
 
-
-## § 2 – Pflicht zur Mitteilung bei Änderung der Registrierungsdaten
+# § 2 – Pflicht zur Mitteilung bei Änderung der Registrierungsdaten
 
 Kommt es zu einer Änderung bei den Mindestangaben nach § 1 Absatz 3 Nummer 1 bis 5, so ist der Registrierende verpflichtet, im Transparenzregister die entsprechenden Angaben selbst oder durch eine beauftragte Person unverzüglich zu ändern.
 
-
-## § 3 – Übermittlung der Angaben zu wirtschaftlich Berechtigten
+# § 3 – Übermittlung der Angaben zu wirtschaftlich Berechtigten
 
 (1) Die Übermittlung der Angaben zu wirtschaftlich Berechtigten nach § 20 Absatz 1 Satz 1 und Absatz 2 Satz 4 sowie § 21 Absatz 1 Satz 1 des Geldwäschegesetzes ist auf der Internetseite des Transparenzregisters www.transparenzregister.de vorzunehmen. Für die Übermittlung sind die auf der Internetseite von der registerführenden Stelle zur Verfügung gestellten Formulare zu verwenden.
 
@@ -47,8 +41,7 @@ Kommt es zu einer Änderung bei den Mindestangaben nach § 1 Absatz 3 Nummer 1 b
 
 (3) Der Eingang der übermittelten Angaben zu wirtschaftlich Berechtigten ist mit einer Zeitangabe von der registerführenden Stelle zu dokumentieren. Die erfolgte Übermittlung wird elektronisch im Benutzerkonto durch eine Auftragsbestätigung mit elektronischem Sicherheitsmerkmal angezeigt. Es können andere Verfahren zur Anzeige der erfolgten Übermittlung verwendet werden, soweit diese nach dem Stand der Technik eine gleichwertige Nachweiseigenschaft bei vergleichbarem Aufwand gewährleisten.
 
-
-## § 4 – Übermittlung der Indexdaten durch den Betreiber des Unternehmensregisters
+# § 4 – Übermittlung der Indexdaten durch den Betreiber des Unternehmensregisters
 
 (1) Zur Ermöglichung des Zugangs zu Bekanntmachungen nach § 22 Absatz 1 Satz 1 Nummer 2 des Geldwäschegesetzes und Stimmrechtsmitteilungen nach § 22 Absatz 1 Satz 1 Nummer 3 des Geldwäschegesetzes übermittelt der Betreiber des Unternehmensregisters der registerführenden Stelle folgende Indexdaten:
 
@@ -70,21 +63,18 @@ Der Betreiber des Unternehmensregisters hat die Befugnis, die Indexdaten, die ih
 
 (4) Der Betreiber des Unternehmensregisters stellt sicher, dass die von ihm übermittelten Indexdaten den Zugang zu den Originaldaten nach § 22 Absatz 1 Satz 1 Nummer 2 und 3 des Geldwäschegesetzes im Transparenzregister ermöglichen, ohne dass der Betreiber des Transparenzregisters die Indexdaten aufbereiten oder verändern muss.
 
-
-## § 5 – Änderung und Aktualisierung der Indexdaten
+# § 5 – Änderung und Aktualisierung der Indexdaten
 
 (1) Der Betreiber des Unternehmensregisters übermittelt Änderungen der Indexdaten nach § 4 unverzüglich der registerführenden Stelle.
 
 (2) Der Betreiber des Unternehmensregisters hat Änderungen der Indexdaten mindestens innerhalb von vierundzwanzig Stunden zu übermitteln. Der Betreiber des Unternehmensregisters kann in Absprache mit dem Betreiber des Transparenzregisters eine vollständige Neuübermittlung vornehmen, wenn dadurch der Betrieb des Transparenzregisters nicht beeinträchtigt wird.
 
-
-## § 6 – Störungen bei der Indexdatenübermittlung, Sicherheitskonzept für das Transparenzregister
+# § 6 – Störungen bei der Indexdatenübermittlung, Sicherheitskonzept für das Transparenzregister
 
 (1) Kommt es während einer Übermittlung der Indexdaten nach § 4 zu Störungen oder Unterbrechungen, soll dies demjenigen, der die Daten übermitteln wollte, mitgeteilt werden. In diesem Fall soll eine erneute Übermittlung verlangt werden.
 
 (2) Der Betreiber des Transparenzregisters erstellt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik ein Sicherheitskonzept für das Transparenzregister.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

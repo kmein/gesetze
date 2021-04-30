@@ -1,20 +1,15 @@
-# [SeeBewachV] Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen  (Seeschiffbewachungsverordnung - SeeBewachV)
-
-Ausfertigungsdatum: 11.06.2013
-
+% Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen  (Seeschiffbewachungsverordnung - SeeBewachV)
+% Ausfertigungsdatum: 11.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 31 Absatz 4 Satz 1 sowie Satz 3 und 4 der Gewerbeordnung, der durch Artikel 1 Nummer 4 des Gesetzes vom 4. März 2013 (BGBl. I S. 362) eingefügt worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung unter Wahrung der Rechte des Bundestages:
 
-
-## § 1 – Zuständige Behörde
+# § 1 – Zuständige Behörde
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle erteilt im Benehmen mit der nach § 58 Absatz 1 des Bundespolizeigesetzes vom 19. Oktober 1994 (BGBl. I S. 2978, 2979), das zuletzt durch Artikel 4 des Gesetzes vom 21. Juli 2012 (BGBl. I S. 1566) geändert worden ist, in Verbindung mit § 1 Absatz 3 Nummer 3 der Verordnung über die Zuständigkeit der Bundespolizeibehörden vom 22. Februar 2008 (BGBl. I S. 250), die zuletzt durch Artikel 12 Absatz 3 des Gesetzes vom 22. November 2011 (BGBl. I S. 2258) geändert worden ist, festgelegten Behörde der Bundespolizei auf Antrag die Zulassung für Bewachungsaufgaben auf Seeschiffen nach § 31 Absatz 1 der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 3 des Gesetzes vom 24. April 2013 (BGBl. I S. 930) geändert worden ist.
 
-
-## § 2 – Antragsberechtigung und Antrag
+# § 2 – Antragsberechtigung und Antrag
 
 (1) Einen Antrag auf die Zulassung nach § 31 Absatz 1 der Gewerbeordnung können natürliche und juristische Personen stellen, die Bewachungsaufgaben auf Seeschiffen seewärts der Begrenzung der deutschen ausschließlichen Wirtschaftszone ausüben wollen (Bewachungsunternehmen).
 
@@ -36,13 +31,11 @@ Dem Antrag ist ferner ein Unternehmensprofil beizufügen, das eine Beschreibung 
 
 (3) Der Antrag ist über ein elektronisches Portal des Bundesamtes für Wirtschaft und Ausfuhrkontrolle zu stellen. Zulassungen werden elektronisch erteilt.
 
-
-## § 3 – Dauer der Zulassung
+# § 3 – Dauer der Zulassung
 
 Die Zulassung wird für die Dauer von zwei Jahren erteilt.
 
-
-## § 4 – Betriebliche Organisation; Übertragung der Verordnungsermächtigung
+# § 4 – Betriebliche Organisation; Übertragung der Verordnungsermächtigung
 
 (1) Das Bewachungsunternehmen muss eine ordnungsgemäße betriebliche Organisation einrichten und dokumentieren, die die Einhaltung der gesetzlichen Bestimmungen, insbesondere der Anforderungen dieser Verordnung gewährleistet; diese muss während der Dauer der Zulassung aufrechterhalten werden. Die ordnungsgemäße betriebliche Organisation muss umfassen
 
@@ -72,8 +65,7 @@ e) die Durchführung und Überwachung der Verfahrensabläufe und Dienstanweisung
 
 (2) Die inhaltlichen Anforderungen an eine ordnungsgemäße betriebliche Organisation bestimmt im Einzelnen das Bundesamt für Wirtschaft und Ausfuhrkontrolle im Einvernehmen mit dem Bundespolizeipräsidium und dem Bundesamt für Seeschifffahrt und Hydrographie durch Verordnung gemäß § 31 Absatz 4 Satz 2 sowie Satz 3 und 4 in Verbindung mit Absatz 4 Satz 1 Nummer 2 der Gewerbeordnung.
 
-
-## § 5 – Anforderungen an die Planung und Durchführung von Einsätzen auf See (Verfahrensabläufe und Dienstanweisungen); Übertragung der Verordnungsermächtigung
+# § 5 – Anforderungen an die Planung und Durchführung von Einsätzen auf See (Verfahrensabläufe und Dienstanweisungen); Übertragung der Verordnungsermächtigung
 
 (1) Für die Planung und Durchführung von Einsätzen auf See sind vom Bewachungsunternehmen geeignete Verfahrensabläufe vor Beginn der beantragten Bewachungstätigkeit festzulegen, zu dokumentieren und während der Dauer der Zulassung fortlaufend zu aktualisieren. Die Verfahrensabläufe müssen umfassen:
 
@@ -115,15 +107,13 @@ d) Unterschriften der Wachpersonen sowie einer Person nach § 11 Absatz 1 oder A
 
 Der Ausweis nach Satz 1 Nummer 4 muss sich von amtlichen Ausweisen deutlich unterscheiden. Das Bewachungsunternehmen hat die Ausweise fortlaufend zu nummerieren und in ein Verzeichnis einzutragen.
 
-
-## § 6 – Ausrüstung; Übertragung der Verordnungsermächtigung
+# § 6 – Ausrüstung; Übertragung der Verordnungsermächtigung
 
 (1) Das Bewachungsunternehmen hat sicherzustellen, dass die Wachpersonen mit einer geeigneten, funktionsfähigen Ausrüstung zur Erfüllung ihrer Bewachungsaufgaben ausgestattet sind. Die Anforderungen an die Eignung und Funktionsfähigkeit der Ausrüstung bestimmt im Einzelnen das Bundesamt für Wirtschaft und Ausfuhrkontrolle im Einvernehmen mit dem Bundespolizeipräsidium und dem Bundesamt für Seeschifffahrt und Hydrographie durch Rechtsverordnung gemäß § 31 Absatz 4 Satz 2 sowie Satz 3 und 4 in Verbindung mit Absatz 4 Satz 1 Nummer 2 der Gewerbeordnung.
 
 (2) Das Bewachungsunternehmen kann für seine Wachpersonen eine Dienstkleidung vorsehen. Sofern Wachpersonen Dienstkleidung tragen, hat das Bewachungsunternehmen dafür zu sorgen, dass diese nicht mit Uniformen der Angehörigen von Streitkräften oder behördlichen Vollzugsorganen verwechselt werden kann und dass keine Abzeichen verwendet werden, die Amtsabzeichen zum Verwechseln ähnlich sind.
 
-
-## § 7 – Anforderungen an die eingesetzten Personen
+# § 7 – Anforderungen an die eingesetzten Personen
 
 Das Bewachungsunternehmen darf für Bewachungsaufgaben nur Personen einsetzen, die
 
@@ -135,8 +125,7 @@ Das Bewachungsunternehmen darf für Bewachungsaufgaben nur Personen einsetzen, d
 
 4. über die notwendige Sachkunde verfügen (§ 10).
 
-
-## § 8 – Zuverlässigkeit; dem Bewachungsunternehmen vorzulegende Unterlagen
+# § 8 – Zuverlässigkeit; dem Bewachungsunternehmen vorzulegende Unterlagen
 
 (1) Personen sind nicht zuverlässig, wenn
 
@@ -198,8 +187,7 @@ d) das Bundesjagdgesetz in der Fassung der Bekanntmachung vom 29. September 1976
 
 3. ein Führungszeugnis nach § 30 oder § 30b des Bundeszentralregistergesetzes in der Fassung der Bekanntmachung vom 21. September 1984 (BGBl. I S. 1229; 1985 I S. 195), das zuletzt durch Artikel 1 des Gesetzes vom 15. Dezember 2011 (BGBl. I S. 2714) geändert worden ist, das nicht früher als drei Monate vor der Vorlage ausgestellt sein darf, oder ein gleichwertiges ausländisches Dokument, das sofern es nicht in deutscher Sprache abgefasst ist, in einer beglaubigten Übersetzung vorzulegen ist.
 
-
-## § 9 – Persönliche Eignung
+# § 9 – Persönliche Eignung
 
 (1) Personen besitzen keine persönliche Eignung, wenn sie
 
@@ -213,8 +201,7 @@ d) das Bundesjagdgesetz in der Fassung der Bekanntmachung vom 29. September 1976
 
 (3) Personen, die noch nicht 25 Jahre alt sind, benötigen für den erstmaligen Einsatz als Wachperson auf einem Seeschiff ein amts- oder fachärztliches oder fachpsychologisches Attest über ihre geistige Eignung.
 
-
-## § 10 – Sachkunde
+# § 10 – Sachkunde
 
 (1) Das Bewachungsunternehmen hat sicherzustellen, dass die Wachpersonen über Kenntnisse in folgenden, in der Anlage näher genannten Sach- und Rechtsgebieten verfügen:
 
@@ -248,8 +235,7 @@ d) das Bundesjagdgesetz in der Fassung der Bekanntmachung vom 29. September 1976
 
 (2) Die in Absatz 1 Nummer 6 und 7 genannten Kenntnisse über Waffen, Munition und sonstige Bewachungsausrüstung sind nur für die jeweils mitgeführten Waffentypen, Munitionsarten und Ausrüstungsgegenstände und nur für den Zweck der Bewachung von Seeschiffen nachzuweisen.
 
-
-## § 11 – Anforderungen an die Geschäftsleitung sowie an die mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen
+# § 11 – Anforderungen an die Geschäftsleitung sowie an die mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen
 
 (1) § 7 Nummer 1, 2 und 3 gelten entsprechend für die Geschäftsleitung sowie die mit der Leitung des Betriebes oder einer Zweigniederlassung beauftragten Personen.
 
@@ -265,8 +251,7 @@ d) das Bundesjagdgesetz in der Fassung der Bekanntmachung vom 29. September 1976
 
 (4) Sofern der Verantwortliche die Sachkunde nach Absatz 2 in Verbindung mit § 10 Absatz 1 durch eine polizeiliche oder militärische Ausbildung erworben hat, kann er dies durch eine Bescheinigung des früheren Dienstherrn nachweisen.
 
-
-## § 12 – Betriebshaftpflichtversicherung
+# § 12 – Betriebshaftpflichtversicherung
 
 (1) Bewachungsunternehmen sind verpflichtet, für sich und die eingesetzten Wachpersonen zur Deckung der Schäden, die den Auftraggebern oder Dritten bei der Durchführung des Bewachungsvertrages entstehen, eine Betriebshaftpflichtversicherung nach Maßgabe des Absatzes 2 abzuschließen und für die Dauer ihrer Tätigkeit aufrechtzuerhalten.
 
@@ -276,8 +261,7 @@ d) das Bundesjagdgesetz in der Fassung der Bekanntmachung vom 29. September 1976
 
 (4) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes vom 23. November 2007 (BGBl. I S. 2631), das zuletzt durch Artikel 1 des Gesetzes vom 24. April 2013 (BGBl. I S. 932) geändert worden ist, ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
-
-## § 13 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 13 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Das Bewachungsunternehmen ist verpflichtet, laufende Aufzeichnungen über seine Geschäfte und Einsätze zu führen und Unterlagen und Belege übersichtlich zu sammeln. Die Aufzeichnungen sind unverzüglich vorzunehmen. Die folgenden Aufzeichnungen sind anzufertigen sowie die folgenden Unterlagen und Belege zu sammeln:
 
@@ -329,8 +313,7 @@ d) Liste der mitgeführten Waffen, Munition und sonstiger Ausrüstung nach § 6 
 
 (4) Sonstige Vorschriften über Aufzeichnungs- und Aufbewahrungspflichten bleiben unberührt.
 
-
-## § 14 – Anzeige-, Melde- und Vorlagepflichten
+# § 14 – Anzeige-, Melde- und Vorlagepflichten
 
 (1) Das Bewachungsunternehmen ist verpflichtet, einen Bewachungseinsatz auf Seeschiffen unverzüglich beim Bundesamt für Wirtschaft und Ausfuhrkontrolle anzuzeigen, spätestens aber 24 Stunden nach der Einschiffung der Wachpersonen. Hierbei sind Unterlagen mit den folgenden Angaben vorzulegen:
 
@@ -352,8 +335,7 @@ d) Liste der mitgeführten Waffen, Munition und sonstiger Ausrüstung nach § 6 
 
 (5) Anzeigen und Meldungen sind über ein elektronisches Portal des Bundesamtes für Wirtschaft und Ausfuhrkontrolle einzureichen.
 
-
-## § 15 – Anerkennung ausländischer Zulassungen und Zertifizierungen
+# § 15 – Anerkennung ausländischer Zulassungen und Zertifizierungen
 
 (1) Staatliche Zulassungen und staatlich anerkannte Zertifizierungen für Bewachungsaufgaben auf Seeschiffen, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilt werden, sind nach § 31 Absatz 1 der Gewerbeordnung erteilten Zulassungen gleichzustellen, sofern die Anforderungen für diese ausländischen Zulassungen oder Zertifizierungen den Anforderungen gemäß dieser Rechtsverordnung im Wesentlichen gleichwertig sind.
 
@@ -363,8 +345,7 @@ d) Liste der mitgeführten Waffen, Munition und sonstiger Ausrüstung nach § 6 
 
 (4) Für Bewachungsunternehmen, die Inhaber einer gleichgestellten ausländischen staatlichen Zulassung oder staatlich anerkannten Zertifizierung sind, ist § 14 Absatz 1, 2, 4 und 5 entsprechend anzuwenden.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -398,13 +379,11 @@ Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1 der Gewerbeordnung handelt,
 
 15. entgegen § 14 Absatz 4 den Verlust oder Ersatz von Waffen oder Munition nicht oder nicht rechtzeitig meldet.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 10 Absatz 1)Sachkunde
+# Anlage – (zu § 10 Absatz 1)Sachkunde
 
 (Fundstelle: BGBl. I 2013, 1569 - 1573)
 

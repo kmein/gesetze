@@ -1,30 +1,23 @@
-# [GenBkBEAnO] Anordnung über das Statut der Genossenschaftsbank Berlin
-
-Ausfertigungsdatum: 30.03.1990
-
+% Anordnung über das Statut der Genossenschaftsbank Berlin
+% Ausfertigungsdatum: 30.03.1990
  
-
-## § 1
+# § 1
 
 Auf der Grundlage des § 11 des Gesetzes vom 19. Dezember 1974 über die Staatsbank der Deutschen Demokratischen Republik (GBl. I Nr. 62 S. 580) in der Fassung des Gesetzes vom 6. März 1990 zur Änderung des Gesetzes über die Staatsbank der Deutschen Demokratischen Republik (GBl. I Nr. 16 S. 125) wird das Statut der Genossenschaftsbank Berlin (Anlage) bestätigt.
 
-
-## § 2
+# § 2
 
 Die Allgemeinen Geschäftsbedingungen der Bank für Landwirtschaft und Nahrungsgüterwirtschaft der DDR gemäß Anordnung vom 17. November 1969 (GBl. II Nr. 93 S. 575) bleiben bis zur Bestätigung der Geschäftsbedingungen der Genossenschaftsbank Berlin in Kraft.
 
-
-## § 3
+# § 3
 
 Diese Anordnung tritt am 1. April 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Präsident der Staatsbank der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III  (BGBl. II 1990, 889, 1199)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III  (BGBl. II 1990, 889, 1199)
 
 Abschnitt III  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:

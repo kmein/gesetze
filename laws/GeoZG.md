@@ -1,10 +1,7 @@
-# [GeoZG] Gesetz über den Zugang zu digitalen Geodaten    (Geodatenzugangsgesetz - GeoZG)
-
-Ausfertigungsdatum: 10.02.2009
-
+% Gesetz über den Zugang zu digitalen Geodaten    (Geodatenzugangsgesetz - GeoZG)
+% Ausfertigungsdatum: 10.02.2009
  
-
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 Dieses Gesetz dient dem Aufbau einer nationalen Geodateninfrastruktur. Es schafft den rechtlichen Rahmen für
 
@@ -12,8 +9,7 @@ Dieses Gesetz dient dem Aufbau einer nationalen Geodateninfrastruktur. Es schaff
 
 2. die Nutzung dieser Daten und Dienste, insbesondere für Maßnahmen, die Auswirkungen auf die Umwelt haben können.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für geodatenhaltende Stellen des Bundes und der bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
@@ -23,8 +19,7 @@ Dieses Gesetz dient dem Aufbau einer nationalen Geodateninfrastruktur. Es schaff
 
 (4) Dieses Gesetz gilt nach Maßgabe des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1798; 1995 II S. 602) auch im Bereich der ausschließlichen Wirtschaftszone und des Festlandsockels.
 
-
-## § 3 – Allgemeine Begriffe
+# § 3 – Allgemeine Begriffe
 
 (1) Geodaten sind alle Daten mit direktem oder indirektem Bezug zu einem bestimmten Standort oder geografischen Gebiet.
 
@@ -50,8 +45,7 @@ Dieses Gesetz dient dem Aufbau einer nationalen Geodateninfrastruktur. Es schaff
 
 (8) Geodatenhaltende Stellen im Sinne dieses Gesetzes sind die informationspflichtigen Stellen im Sinne von § 2 Absatz 1 des Umweltinformationsgesetzes vom 22. Dezember 2004 (BGBl. I S. 3704).
 
-
-## § 4 – Betroffene Geodaten und Geodatendienste
+# § 4 – Betroffene Geodaten und Geodatendienste
 
 (1) Dieses Gesetz gilt für Geodaten, die noch in Verwendung stehen und die folgenden Bedingungen erfüllen:
 
@@ -159,8 +153,7 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 (4) Verfügt die geodatenhaltende Stelle bezogen auf Geodaten und Geodatendienste nicht selbst über die Rechte an geistigem Eigentum, so bleiben diese Rechte von den Vorschriften dieses Gesetzes unberührt.
 
-
-## § 5 – Bereitstellung von Geodaten
+# § 5 – Bereitstellung von Geodaten
 
 (1) Die amtlichen Daten des Liegenschaftskatasters, der Geotopografie und des geodätischen Raumbezugs sind die fachneutralen Kernkomponenten der nationalen Geodateninfrastruktur. Sie werden für Zwecke dieses Gesetzes durch die hierfür zuständigen Stellen des Bundes und der Länder bereitgestellt.
 
@@ -170,8 +163,7 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 (4) Soweit Geodaten sich auf einen Standort oder ein geografisches Gebiet beziehen, dessen Lage sich auf das Hoheitsgebiet mehrerer Mitgliedstaaten der Europäischen Gemeinschaft erstreckt, stimmen die zuständigen geodatenhaltenden Stellen mit den jeweils zuständigen Stellen in dem Mitgliedstaat beziehungsweise in den Mitgliedstaaten die Darstellung und die Position des Standorts beziehungsweise des geografischen Gebiets ab.
 
-
-## § 6 – Bereitstellung der Geodatendienste und Netzdienste
+# § 6 – Bereitstellung der Geodatendienste und Netzdienste
 
 (1) Die geodatenhaltenden Stellen stellen sicher, dass für die von ihnen erhobenen, geführten oder bereitgestellten Geodaten und Metadaten mindestens die nachfolgenden Dienste bereitstehen:
 
@@ -205,8 +197,7 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 (5) Einzelheiten zur Spezifikation der Geodatendienste und Netzdienste werden durch Rechtsverordnung nach § 15 geregelt.
 
-
-## § 7 – Bereitstellung von Metadaten
+# § 7 – Bereitstellung von Metadaten
 
 (1) Die geodatenhaltenden Stellen, welche Geodaten und Geodatendienste als Referenzversion im Sinne von § 4 Absatz 3 bereitstellen, haben die zugehörigen Metadaten zu erstellen, zu führen und bereitzustellen sowie in Übereinstimmung mit den Geodaten und Geodatendiensten zu halten.
 
@@ -236,22 +227,19 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 (4) Einzelheiten zur Spezifikation der Metadaten werden durch Rechtsverordnung nach § 15 geregelt.
 
-
-## § 8 – Interoperabilität
+# § 8 – Interoperabilität
 
 (1) Geodaten und Geodatendienste sowie Metadaten sind interoperabel bereitzustellen.
 
 (2) Einzelheiten werden durch Rechtsverordnung nach § 15 geregelt.
 
-
-## § 9 – Geodateninfrastruktur und Geoportal
+# § 9 – Geodateninfrastruktur und Geoportal
 
 (1) Metadaten, Geodaten, Geodatendienste und Netzdienste werden als Bestandteile der nationalen Geodateninfrastruktur über ein elektronisches Netzwerk verknüpft.
 
 (2) Der Zugang zum elektronischen Netzwerk nach Absatz 1 erfolgt auf der Ebene des Bundes durch ein Geoportal.
 
-
-## § 10 – Nationale Anlaufstelle
+# § 10 – Nationale Anlaufstelle
 
 (1) Die Organisation der nationalen Geodateninfrastruktur erfolgt in der Verantwortung eines nationalen Lenkungsgremiums des Bundes und der Länder.
 
@@ -259,8 +247,7 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 (3) Die Einzelheiten regeln Bund und Länder in einer Verwaltungsvereinbarung.
 
-
-## § 11 – Allgemeine Nutzung
+# § 11 – Allgemeine Nutzung
 
 (1) Geodaten und Geodatendienste, einschließlich zugehöriger Metadaten, sind vorbehaltlich der Vorschrift des § 12 Absatz 1 und 2 öffentlich zur Verfügung zu stellen.
 
@@ -268,8 +255,7 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 (3) Die Einzelheiten zur Nutzung von Geodaten und Geodatendiensten, einschließlich zugehöriger Metadaten, werden in einer Rechtsverordnung nach § 15 geregelt.
 
-
-## § 12 – Schutz öffentlicher und sonstiger Belange
+# § 12 – Schutz öffentlicher und sonstiger Belange
 
 (1) Der Zugang der Öffentlichkeit zu Geodaten und Geodatendiensten über Suchdienste im Sinne des § 6 Absatz 1 Nummer 1 kann beschränkt werden, wenn er nachteilige Auswirkungen auf die internationalen Beziehungen, bedeutsame Schutzgüter der öffentlichen Sicherheit oder die Verteidigung haben kann.
 
@@ -291,8 +277,7 @@ mineralische Bodenschätze (mineralische Rohstofflagerstätten wie zum Beispiel 
 
 gefährdet werden können.
 
-
-## § 13 – Überwachung
+# § 13 – Überwachung
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die Kontrolle im Sinne des § 2 Absatz 2 des Umweltinformationsgesetzes für den Bund oder eine unter der Aufsicht des Bundes stehende juristische Person des öffentlichen Rechts ausüben, überwachen die geodatenhaltenden Stellen im Sinne des § 3 Absatz 8 dieses Gesetzes in Verbindung mit § 2 Absatz 1 Nummer 2 des Umweltinformationsgesetzes (private geodatenhaltende Stellen) bei deren Aufgabenwahrnehmung.
 
@@ -306,15 +291,13 @@ gefährdet werden können.
 
 3. die Gewährleistung der allgemeinen Nutzung gemäß § 11.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 13 Absatz 3 Satz 2 zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 15 – Verordnungsermächtigung
+# § 15 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -324,7 +307,6 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zust
 
 3. die Aufgaben nach § 13 Absatz 1 bis 3 abweichend von § 13 Absatz 1 auf andere Stellen der öffentlichen Verwaltung zu übertragen.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

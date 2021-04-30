@@ -1,28 +1,21 @@
-# [WerkstoffPrAusbV] Verordnung über die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin
-
-Ausfertigungsdatum: 25.06.2013
-
+% Verordnung über die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin
+% Ausfertigungsdatum: 25.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Werkstoffprüfers und der Werkstoffprüferin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen
 
@@ -34,8 +27,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 4. Systemtechnik.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Hierbei sind die in Anlage 2 enthaltenen Entsprechungen zu berücksichtigen. Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -157,8 +149,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 8. Warten und Pflegen von Werkzeugen, Messgeräten und Betriebseinrichtungen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 21 nachzuweisen.
 
@@ -166,13 +157,11 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung in der Fachrichtung Metalltechnik
+# § 6 – Abschlussprüfung in der Fachrichtung Metalltechnik
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 7 – Teil 1 der Abschlussprüfung in der Fachrichtung Metalltechnik
+# § 7 – Teil 1 der Abschlussprüfung in der Fachrichtung Metalltechnik
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -220,8 +209,7 @@ f) messmikroskopische Auswertung;
 
 4. die Prüfungszeit beträgt acht Stunden; innerhalb dieser Zeit sind das situative Fachgespräch in insgesamt höchstens 20 Minuten und die schriftlich zu bearbeitenden Aufgaben in 90 Minuten durchzuführen.
 
-
-## § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Metalltechnik
+# § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Metalltechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -327,8 +315,7 @@ e) themenbezogene Berechnungen durchzuführen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Metalltechnik
+# § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Metalltechnik
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -373,13 +360,11 @@ bewertet worden sind.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Kunststofftechnik
+# § 10 – Abschlussprüfung in der Fachrichtung Kunststofftechnik
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetztes erforderlich ist.
 
-
-## § 11 – Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofftechnik
+# § 11 – Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofftechnik
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -427,8 +412,7 @@ f) messmikroskopische Auswertung;
 
 4. die Prüfungszeit beträgt acht Stunden; innerhalb dieser Zeit sind das situative Fachgespräch in insgesamt höchstens 20 Minuten und die schriftlich zu bearbeitenden Aufgaben in 90 Minuten durchzuführen.
 
-
-## § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofftechnik
+# § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofftechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -528,8 +512,7 @@ d) themenbezogene Berechnungen durchzuführen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofftechnik
+# § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofftechnik
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -574,13 +557,11 @@ bewertet worden sind.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 14 – Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
+# § 14 – Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 15 – Teil 1 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
+# § 15 – Teil 1 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -628,8 +609,7 @@ f) messmikroskopische Auswertung;
 
 4. die Prüfungszeit beträgt acht Stunden; innerhalb dieser Zeit sind das situative Fachgespräch in insgesamt höchstens 20 Minuten und die schriftlich zu bearbeitenden Aufgaben in 90 Minuten durchzuführen.
 
-
-## § 16 – Teil 2 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
+# § 16 – Teil 2 der Abschlussprüfung in der Fachrichtung Wärmebehandlungstechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -737,8 +717,7 @@ g) themenbezogene Berechnungen durchzuführen;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 17 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Wärmebehandlungstechnik
+# § 17 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Wärmebehandlungstechnik
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -783,13 +762,11 @@ bewertet worden sind.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 18 – Abschlussprüfung in der Fachrichtung Systemtechnik
+# § 18 – Abschlussprüfung in der Fachrichtung Systemtechnik
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung nach § 38 des Berufsbildungsgesetzes erforderlich ist.
 
-
-## § 19 – Teil 1 der Abschlussprüfung in der Fachrichtung Systemtechnik
+# § 19 – Teil 1 der Abschlussprüfung in der Fachrichtung Systemtechnik
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -837,8 +814,7 @@ f) messmikroskopische Auswertung;
 
 4. die Prüfungszeit beträgt acht Stunden; innerhalb dieser Zeit sind das situative Fachgespräch in insgesamt höchstens 20 Minuten und die schriftlich zu bearbeitenden Aufgaben in 90 Minuten durchzuführen.
 
-
-## § 20 – Teil 2 der Abschlussprüfung in der Fachrichtung Systemtechnik
+# § 20 – Teil 2 der Abschlussprüfung in der Fachrichtung Systemtechnik
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -934,8 +910,7 @@ f) Auftragsdurchführung unter Berücksichtigung technischer, normativer, wirtsc
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 21 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Systemtechnik
+# § 21 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Systemtechnik
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -978,13 +953,11 @@ bewertet worden sind.
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 22 – Inkrafttreten, Außerkrafttreten
+# § 22 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Werkstoffprüfer/zur Werkstoffprüferin vom 29. Mai 1996 (BGBl. I S. 773) außer Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Werkstoffprüfer und zur Werkstoffprüferin
 
 (Fundstelle: BGBl. I 2013, 1704 - 1715)
 
@@ -1000,8 +973,7 @@ Abschnitt E: Weitere berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeit
 
 Abschnitt F: Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-
-## Anlage 2 – (zu § 4 Absatz 1 Satz 2)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten bezüglich der Zerstörungsfreien Prüfung (ZfP) nach DIN EN ISO 9712
+# Anlage 2 – (zu § 4 Absatz 1 Satz 2)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten bezüglich der Zerstörungsfreien Prüfung (ZfP) nach DIN EN ISO 9712
 
 (Fundstelle: BGBl. I 2013, 1716 - 1728)
 

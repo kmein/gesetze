@@ -1,24 +1,17 @@
-# [NatSGSORügenV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Südost-Rügen"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Südost-Rügen"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13 und 15 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 In dem in § 2 näher bezeichneten Umfang werden auf der Insel Rügen Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Südost-Rügen" festgesetzt.
 
+# § 2 – Flächenbeschreibung und Abgrenzung
 
-## § 2 – Flächenbeschreibung und Abgrenzung
-
-(1) Das Biosphärenreservat umfaßt die von den jüngsten Gletschervorstößen der Weichselkaltzeit und holozäner Küstendynamik geformte Jungmoränen- und Küstenlandschaft von Südost-Rügen mit Mönchgut, der Granitz, der Umgebung von Putbus und dem Rügischen Bodden einschließlich der Insel Vilm.  
-Mit Endmoränenhügeln, Grundmoränenplatten, Haken und Nehrungen, vermoorten Niederungen, Boddengewässern, Insel, Halbinseln und Küstenvorsprüngen in enger Durchdringung von Land und Meer, mit reich differenzierter naturnaher und anthropogener Vegetation sowie artenreicher Pflanzen- und Tierwelt weist dieses Gebiet auf engstem Raum eine außerordentliche Formenvielfalt von Natur und Landschaft auf.  
-Es ist seit der Mittleren Steinzeit von Menschen bewohnt; Großsteingräber, Hügelgräber, Burgwälle, Kirchen und Siedlungen, historische Bauwerke, Parks, Alleen, Feldgehölze und Einzelbäume prägen das Bild dieser alten Kulturlandschaft.
+(1) Das Biosphärenreservat umfaßt die von den jüngsten Gletschervorstößen der Weichselkaltzeit und holozäner Küstendynamik geformte Jungmoränen- und Küstenlandschaft von Südost-Rügen mit Mönchgut, der Granitz, der Umgebung von Putbus und dem Rügischen Bodden einschließlich der Insel Vilm. Mit Endmoränenhügeln, Grundmoränenplatten, Haken und Nehrungen, vermoorten Niederungen, Boddengewässern, Insel, Halbinseln und Küstenvorsprüngen in enger Durchdringung von Land und Meer, mit reich differenzierter naturnaher und anthropogener Vegetation sowie artenreicher Pflanzen- und Tierwelt weist dieses Gebiet auf engstem Raum eine außerordentliche Formenvielfalt von Natur und Landschaft auf. Es ist seit der Mittleren Steinzeit von Menschen bewohnt; Großsteingräber, Hügelgräber, Burgwälle, Kirchen und Siedlungen, historische Bauwerke, Parks, Alleen, Feldgehölze und Einzelbäume prägen das Bild dieser alten Kulturlandschaft.
 
 (2) Die Grenze des Biosphärenreservates hat folgenden Verlauf:
 
@@ -32,8 +25,7 @@ Es ist seit der Mittleren Steinzeit von Menschen bewohnt; Großsteingräber, Hü
 
 (3) Die Grenze des Biosphärenreservates ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Biosphärenreservates in der Topographischen Karte M 1:10.000 (Ausgabe für die Volkswirtschaft) rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei der Verwaltung des Biosphärenreservates und bei der Kreisverwaltung Rügen. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Die Unterschutzstellung bezweckt für den Bereich des Landschaftsschutzgebietes von zentraler Bedeutung:
 
@@ -57,8 +49,7 @@ Es ist seit der Mittleren Steinzeit von Menschen bewohnt; Großsteingräber, Hü
 
 4. die Sicherung der Eigendynamik der Naturprozesse in der Kernzone des Biosphärenreservates (Küstendynamik einschließlich submariner Prozesse, Waldentwicklung und Moorgenese).
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Gebiet des Biosphärenreservates wird in die Schutzzonen I, II und III gegliedert.
 
@@ -128,8 +119,7 @@ Siedlungsbereich, Hafen und Hafenzufahrt.
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Biosphärenreservat ist es geboten,
 
@@ -159,8 +149,7 @@ d) Intensivgrasland im Bereich ehemaliger Salzwiesen schrittweise durch Rückbau
 
 2. ein umfassendes Verkehrskonzept zur Verringerung der Belastungen durch individuellen Kraftfahrzeugverkehr.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Im Biosphärenreservat sind alle Handlungen verboten, die dem Schutzzweck nach § 3 zuwiderlaufen.
 
@@ -222,8 +211,7 @@ d) Intensivgrasland im Bereich ehemaliger Salzwiesen schrittweise durch Rückbau
 
 (6) Weiter ist es verboten, Geräte mitzuführen, die ausschließlich oder überwiegend für Handlungen benutzt werden können, die gemäß Absatz 4 verboten sind.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 sind:
 
@@ -243,8 +231,7 @@ b) die im Sinne des Bundesnaturschutzgesetzes (§ 8 Abs. 7) ordnungsgemäße lan
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Biosphärenreservates (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8
+# § 8
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -258,8 +245,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Reservatsverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei
 
@@ -269,34 +255,28 @@ Das Einvernehmen mit der Reservatsverwaltung ist herzustellen bei
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung für Nutzungsbeschränkungen
+# § 10 – Entschädigung für Nutzungsbeschränkungen
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentümers hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1471)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

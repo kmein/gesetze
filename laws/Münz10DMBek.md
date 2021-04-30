@@ -1,10 +1,7 @@
-# [Münz10DMBek] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 750-Jahr-Feier Berlins)
-
-Ausfertigungsdatum: 11.04.1987
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 750-Jahr-Feier Berlins)
+% Ausfertigungsdatum: 11.04.1987
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, aus Anlaß der 750-Jahr-Feier Berlins im Jahre 1987 eine Bundesmünze (Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Hamburgischen Münze.
 
@@ -36,20 +33,17 @@ in den Verkehr gebracht.
 | "BUNDESREPUBLIK DEUTSCHLAND |
 |     10 DEUTSCHE MARK".      |
 
-Die Jahreszahl 1987 befindet sich in der Umschrift rechts neben dem Wort "MARK", das Münzzeichen "J" steht zwischen den beiden Fängen des Adlers.  
-Der glatte Münzrand enthält die vertiefte Inschrift:
+Die Jahreszahl 1987 befindet sich in der Umschrift rechts neben dem Wort "MARK", das Münzzeichen "J" steht zwischen den beiden Fängen des Adlers. Der glatte Münzrand enthält die vertiefte Inschrift:
 
   
 "EINIGKEIT UND RECHT UND FREIHEIT".
 
 Zwischen Ende und Anfang der Randschrift ist ein doppelblättriges Eichenblattornament mit 2 Eicheln eingeprägt.
 
-(8) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.  
-  
+(8) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung,  
 Fundstelle: BGBl. I 1987, 1159)

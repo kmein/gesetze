@@ -1,15 +1,11 @@
-# [BSI-KritisV] Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz  (BSI-Kritisverordnung - BSI-KritisV)
-
-Ausfertigungsdatum: 22.04.2016
-
+% Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz  (BSI-Kritisverordnung - BSI-KritisV)
+% Ausfertigungsdatum: 22.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821), der zuletzt durch die Artikel 1 Nummer 8 des Gesetzes vom 17. Juli 2015 (BGBl. I S. 1324) geändert worden ist, verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium der Justiz und für Verbraucherschutz, dem Bundesministerium der Finanzen, dem Bundesministerium für Arbeit und Soziales, dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Gesundheit, dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium der Verteidigung und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit nach Anhörung der beteiligten Kreise:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -37,8 +33,7 @@ ein Wert, mittels dessen der Beitrag einer Anlage oder Teilen davon im jeweilige
 
 ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad einer Anlage oder Teilen davon als bedeutend im Sinne von § 10 Absatz 1 Satz 1 des BSI-Gesetzes anzusehen ist.
 
-
-## § 2 – Sektor Energie
+# § 2 – Sektor Energie
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens sind im Sektor Energie kritische Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
 
@@ -62,8 +57,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 1 Teil 3 Spalte D erreichen oder überschreiten.
 
-
-## § 3 – Sektor Wasser
+# § 3 – Sektor Wasser
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens sind im Sektor Wasser kritische Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
 
@@ -81,8 +75,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 2 Teil 3 Spalte D erreichen oder überschreiten.
 
-
-## § 4 – Sektor Ernährung
+# § 4 – Sektor Ernährung
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens ist im Sektor Ernährung die Versorgung der Allgemeinheit mit Lebensmitteln (Lebensmittelversorgung) kritische Dienstleistung im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes.
 
@@ -94,8 +87,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 3 Teil 3 Spalte D erreichen oder überschreiten.
 
-
-## § 5 – Sektor Informationstechnik und Telekommunikation
+# § 5 – Sektor Informationstechnik und Telekommunikation
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens sind im Sektor Informationstechnik und Telekommunikation kritische Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
 
@@ -113,8 +105,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 4 Teil 3 Spalte D erreichen oder überschreiten.
 
-
-## § 6 – Sektor Gesundheit
+# § 6 – Sektor Gesundheit
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens sind im Sektor Gesundheit kritische Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
 
@@ -140,8 +131,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 5 Teil 3 Spalte D erreichen oder überschreiten.
 
-
-## § 7 – Sektor Finanz- und Versicherungswesen
+# § 7 – Sektor Finanz- und Versicherungswesen
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens sind im Sektor Finanz- und Versicherungswesen kritische Dienstleistungen im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes:
 
@@ -173,8 +163,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 (8) Abweichend von § 1 Nummer 2 hat im Sektor Finanz- und Versicherungswesen bestimmenden Einfluss auf eine Anlage, die den in Anhang 6 Teil 3 Spalte A Nummer 1 bis 4 genannten Anlagenkategorien zuzuordnen ist, wer die tatsächliche Sachherrschaft ausübt. Die rechtlichen und wirtschaftlichen Umstände bleiben insoweit unberücksichtigt.
 
-
-## § 8 – Sektor Transport und Verkehr
+# § 8 – Sektor Transport und Verkehr
 
 (1) Wegen ihrer besonderen Bedeutung für das Funktionieren des Gemeinwesens ist im Sektor Transport und Verkehr die Versorgung der Allgemeinheit mit Leistungen zum Transport von Personen und Gütern (Personen- und Güterverkehr) kritische Dienstleistung im Sinne des § 10 Absatz 1 Satz 1 des BSI-Gesetzes.
 
@@ -186,8 +175,7 @@ ein Wert, bei dessen Erreichen oder dessen Überschreitung der Versorgungsgrad e
 
 2. den Schwellenwert nach Anhang 7 Teil 3 Spalte D erreichen oder überschreiten.
 
-
-## § 9 – Evaluierung
+# § 9 – Evaluierung
 
 Zwei Jahre nach Inkrafttreten und danach alle zwei Jahre dieser Rechtsverordnung sind unter Beteiligung der in § 10 Absatz 1 Satz 1 des BSI-Gesetzes genannten Ressorts zu evaluieren
 
@@ -197,8 +185,7 @@ Zwei Jahre nach Inkrafttreten und danach alle zwei Jahre dieser Rechtsverordnung
 
 3. die Bestimmung der Schwellenwerte.
 
-
-## Anhang 1 – (zu § 1 Nummer 4 und 5, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie
+# Anhang 1 – (zu § 1 Nummer 4 und 5, § 2 Absatz 5 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Energie
 
 (Fundstelle: BGBl. I 2016,960 - 962)
 
@@ -326,7 +313,7 @@ Die durchschnittliche elektrische Arbeit zur Versorgung von 500 000 Personen im
 
 |                                                          |
 |:--------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0958-1_0010_thumb.gif) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0958-1_0010_thumb.gif) |
 
 9. Der für die Anlagenkategorien des Teils 3 Nummer 2 genannte Schwellenwert ist unter Annahme eines Durchschnittsverbrauchs von 10 380 kWh pro versorgter Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
 
@@ -350,7 +337,7 @@ Die durchschnittliche elektrische Arbeit zur Versorgung von 500 000 Personen im
 
 |                                                          |
 |:--------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0958-1_0020_thumb.gif) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0958-1_0020_thumb.gif) |
 
 13. Der für die Anlagenkategorien des Teils 3 Nummer 4.1.1 und 4.1.2 genannte Schwellenwert ist unter Annahme eines Durchschnittsverbrauchs einer Person pro Jahr von 4,528 MWh und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:
 
@@ -358,8 +345,7 @@ Die durchschnittliche elektrische Arbeit zur Versorgung von 500 000 Personen im
 |:-----------------------------------------:|
 | 2 300 GWh/Jahr ≈ 4,528 MWh/Jahr x 500 000 |
 
-
-## Anhang 2 – (zu § 1 Nummer 4 und 5, § 3 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Wasser
+# Anhang 2 – (zu § 1 Nummer 4 und 5, § 3 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Wasser
 
 (Fundstelle: BGBl. I 2016,963 - 964)
 
@@ -413,8 +399,7 @@ d) unter gemeinsamer Leitung stehen.
 |:-----------------------------------------------------------------:|
 | 22 Millionen m³/Jahr = 44 m³/Jahr x 500 000 |
 
-
-## Anhang 3 – (zu § 1 Nummer 4 und 5, § 4 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Ernährung
+# Anhang 3 – (zu § 1 Nummer 4 und 5, § 4 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Ernährung
 
 (Fundstelle: BGBl. I 2016,965 - 966)
 
@@ -474,8 +459,7 @@ d) unter gemeinsamer Leitung stehen.
 |:-------------------------------------------:|
 | 350 Millionen l/Jahr = 700 l/Jahr x 500 000 |
 
-
-## Anhang 4 – (zu § 1 Nummer 4 und 5, § 5 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
+# Anhang 4 – (zu § 1 Nummer 4 und 5, § 5 Absatz 4 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Informationstechnik und Telekommunikation
 
 (Fundstelle: BGBl. I 2016, 967 - 969)
 
@@ -539,28 +523,27 @@ c) unter gemeinsamer Leitung oder Steuerung stehen.
 
 |                                                          |
 |:--------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0958-1_0030_thumb.gif) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0958-1_0030_thumb.gif) |
 
 9. Der für die Anlagenkategorie des Teils 3 Nummer 1.4.2 genannte Schwellenwert ist unter Annahme von 40 Millionen in der Bundesrepublik Deutschland verwalteten Domains und einer Bedarfsabdeckung von 500 000 versorgten Personen bei einer Gesamtbevölkerung von 80 Millionen Personen wie folgt berechnet:
 
 |                                                          |
 |:--------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0958-1_0040_thumb.gif) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0958-1_0040_thumb.gif) |
 
 10. Der für die Anlagenkategorie des Teils 3 Nummer 2.2.1 genannte Schwellenwert ist unter Annahme von 4 Millionen in der Bundesrepublik Deutschland verwalteten Servern und einer Bedarfsabdeckung von 500 000 versorgten Personen bei einer Gesamtbevölkerung von 80 Millionen Personen wie folgt berechnet:
 
 |                                                          |
 |:--------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0958-1_0050_thumb.gif) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0958-1_0050_thumb.gif) |
 
 11. Der für die Anlagenkategorie des Teils 3 Nummer 2.2.2 genannte Schwellenwert ist unter Annahme eines Transportvolumens von 11 826 000 Terabyte/Jahr und einer Bedarfsabdeckung von 500 000 versorgten Personen bei 80 Millionen Personen Gesamtbevölkerung wie folgt berechnet:
 
 |                                                          |
 |:--------------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2016/j0958-1_0060_thumb.gif) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0958-1_0060_thumb.gif) |
 
-
-## Anhang 5 – (zu § 1 Nummer 4 und 5, § 6 Absatz 6 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
+# Anhang 5 – (zu § 1 Nummer 4 und 5, § 6 Absatz 6 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Gesundheit
 
 (Fundstelle: BGBl. I 2017, 1910 — 1912)
 
@@ -848,8 +831,7 @@ Anzahl Aufträge/Jahr
 
 1 500 000
 
-
-## Anhang 6 – (zu § 1 Nummer 4 und 5, § 7 Absatz 7 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Finanz- und Versicherungswesen
+# Anhang 6 – (zu § 1 Nummer 4 und 5, § 7 Absatz 7 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Finanz- und Versicherungswesen
 
 (Fundstelle: BGBl. I 2017, 1913 — 1918)
 
@@ -1540,8 +1522,7 @@ Anzahl der Versicherten
 
 3 000 000
 
-
-## Anhang 7 – (zu § 1 Nummer 4 und 5, § 8 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
+# Anhang 7 – (zu § 1 Nummer 4 und 5, § 8 Absatz 3 Nummer 1 und 2)Anlagenkategorien und Schwellenwerte im Sektor Transport und Verkehr
 
 (Fundstelle: BGBl. I 2017, 1918 — 1922)
 
@@ -1694,7 +1675,7 @@ d) unter gemeinsamer Leitung stehen.
 6. Der für die Anlagenkategorien des Teils 3 Nummer 1.2.2 und 1.2.3 genannte Schwellenwert ist unter Annahme einer durchschnittlichen disponierten Transportleistung im Güterschienenverkehr von 1 460 Tonnenkilometern zur Versorgung einer Person, eines Regelschwellenwerts von 500 000 versorgten Personen sowie einer durchschnittlichen Transportleistung von 32 000 Tonnenkilometern pro Güterzug pro Jahr wie folgt berechnet:  
   
 
-![](../normengrafiken/bgbl1_2017/j1903-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j1903-1_0010.jpg)
 
 7. Der für die Anlagenkategorie des Teils 3 Nummer 1.2.6 genannte Schwellenwert ist unter Annahme einer durchschnittlichen disponierten Transportleistung im Güterschienenverkehr von 1 460 Tonnenkilometern zur Versorgung einer Person pro Jahr und eines Regelschwellenwertes von 500 000 versorgten Personen wie folgt berechnet:  
   

@@ -1,15 +1,11 @@
-# [TBetrWPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-
-Ausfertigungsdatum: 22.11.2004
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
+% Ausfertigungsdatum: 22.11.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Technischen Betriebswirt/zur Geprüften Technischen Betriebswirtin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
@@ -27,8 +23,7 @@ Zur Wahrnehmung dieser Aufgaben soll eine vertiefte betriebswirtschaftliche Fach
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -42,8 +37,7 @@ nachweist.
 
 (2) Abweichend von Absatz 1 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Kenntnisse, Fertigkeiten und Erfahrungen erworben worden sind, die eine Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in die Prüfungsteile:
 
@@ -61,8 +55,7 @@ nachweist.
 
 (5) Mit dem letzten Prüfungsteil nach Absatz 1 Nr. 3 soll spätestens ein Jahr nach dem erfolgreichen Abschluss der Prüfungsteile nach Absatz 1 Nr. 1 und 2 begonnen werden.
 
-
-## § 4 – Wirtschaftliches Handeln und betrieblicher Leistungsprozess
+# § 4 – Wirtschaftliches Handeln und betrieblicher Leistungsprozess
 
 (1) Der Prüfungsteil "Wirtschaftliches Handeln und betrieblicher Leistungsprozess" gliedert sich in folgende Prüfungsbereiche:
 
@@ -147,8 +140,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Management und Führung
+# § 5 – Management und Führung
 
 (1) Der Prüfungsteil "Management und Führung" umfasst die Handlungsbereiche:
 
@@ -334,8 +326,7 @@ b) Auswählen, Einsetzen und Anwenden von aktuellen Kommunikationssystemen und -
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Fachübergreifender technikbezogener Prüfungsteil
+# § 6 – Fachübergreifender technikbezogener Prüfungsteil
 
 (1) Im Prüfungsteil "Fachübergreifender technikbezogener Prüfungsteil" soll die Fähigkeit nachgewiesen werden, komplexe, praxisorientierte Problemstellungen an der Schnittstelle der technischen und kaufmännischen Funktionsbereiche im Betrieb erfassen, darstellen, beurteilen und lösen zu können. Die Themenstellung kann alle in den §§ 4 und 5 genannten Prüfungsanforderungen umfassen und soll die Fachrichtung sowie die betriebliche Praxis, insbesondere die betriebs-, fertigungs-, produktions- oder verfahrenstechnischen Kenntnisse und Fertigkeiten der zu prüfenden Person einbeziehen.
 
@@ -347,15 +338,13 @@ b) Auswählen, Einsetzen und Anwenden von aktuellen Kommunikationssystemen und -
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 7 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 8 und 9 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 8 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 9 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Eine Befreiung von der Prüfung im situationsbezogenen Fachgespräch nach § 5 Absatz 6, von der Projektarbeit sowie dem projektarbeitsbezogenen Fachgespräch nach § 6 Absatz 3 ist nicht zulässig.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bewerten der Prüfungsleistungen
+# § 8 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -383,8 +372,7 @@ Aus den beiden Bewertungen der Prüfungsleistungen wird als Bewertung des Prüfu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Bestehen der Prüfung, Gesamtnote
+# § 9 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -410,8 +398,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Zeugnisse
+# § 10 – Zeugnisse
 
 (1) Wer die Prüfung nach § 9 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -425,8 +412,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Wiederholung der Prüfung
+# § 11 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil, kann zweimal wiederholt werden.
 
@@ -436,22 +422,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 Begonnene Prüfungsverfahren zum Technischen Betriebswirt (IHK)/zur Technischen Betriebswirtin (IHK) können bis zum 31. Mai 2007 nach den bisherigen Vorschriften zu Ende geführt werden. Die zuständige Stelle kann auf Antrag des Prüfungsteilnehmers/der Prüfungsteilnehmerin die Wiederholungsprüfung auch gemäß dieser Verordnung durchführen; § 9 Abs. 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. April 2005 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 8 und 9)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2255 – 2256)
 
@@ -460,8 +443,7 @@ Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 10)Zeugnisinhalte
+# Anlage 2 – (zu § 10)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2256 – 2257)
 

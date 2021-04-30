@@ -1,10 +1,7 @@
-# [GKG] Gerichtskostengesetz  (GKG)
-
-Ausfertigungsdatum: 05.05.2004
-
+% Gerichtskostengesetz  (GKG)
+% Ausfertigungsdatum: 05.05.2004
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -410,8 +407,7 @@ Anlage 1 (zu § 3 Absatz 2)
 
 Anlage 2 (zu § 34 Absatz 1 Satz 3)
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Für Verfahren vor den ordentlichen Gerichten
 
@@ -421,8 +417,7 @@ Anlage 2 (zu § 34 Absatz 1 Satz 3)
 
 3. nach der Schifffahrtsrechtlichen Verteilungsordnung;
 
-3a.  
-nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz;
+3a. nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz;
 
 4. nach dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung;
 
@@ -490,8 +485,7 @@ werden Kosten (Gebühren und Auslagen) nur nach diesem Gesetz erhoben. Satz 1 Nu
 
 (5) Die Vorschriften dieses Gesetzes über die Erinnerung und die Beschwerde gehen den Regelungen der für das zugrunde liegende Verfahren geltenden Verfahrensvorschriften vor.
 
-
-## § 2 – Kostenfreiheit
+# § 2 – Kostenfreiheit
 
 (1) In Verfahren vor den ordentlichen Gerichten und den Gerichten der Finanz- und Sozialgerichtsbarkeit sind von der Zahlung der Kosten befreit der Bund und die Länder sowie die nach Haushaltsplänen des Bundes oder eines Landes verwalteten öffentlichen Anstalten und Kassen. In Verfahren der Zwangsvollstreckung wegen öffentlich-rechtlicher Geldforderungen ist maßgebend, wer ohne Berücksichtigung des § 252 der Abgabenordnung oder entsprechender Vorschriften Gläubiger der Forderung ist.
 
@@ -503,22 +497,19 @@ werden Kosten (Gebühren und Auslagen) nur nach diesem Gesetz erhoben. Satz 1 Nu
 
 (5) Soweit jemandem, der von Kosten befreit ist, Kosten des Verfahrens auferlegt werden, sind Kosten nicht zu erheben; bereits erhobene Kosten sind zurückzuzahlen. Das Gleiche gilt, soweit eine von der Zahlung der Kosten befreite Partei Kosten des Verfahrens übernimmt.
 
-
-## § 3 – Höhe der Kosten
+# § 3 – Höhe der Kosten
 
 (1) Die Gebühren richten sich nach dem Wert des Streitgegenstands (Streitwert), soweit nichts anderes bestimmt ist.
 
 (2) Kosten werden nach dem Kostenverzeichnis der Anlage 1 zu diesem Gesetz erhoben.
 
-
-## § 4 – Verweisungen
+# § 4 – Verweisungen
 
 (1) Verweist ein erstinstanzliches Gericht oder ein Rechtsmittelgericht ein Verfahren an ein erstinstanzliches Gericht desselben oder eines anderen Zweiges der Gerichtsbarkeit, ist das frühere erstinstanzliche Verfahren als Teil des Verfahrens vor dem übernehmenden Gericht zu behandeln.
 
 (2) Mehrkosten, die durch Anrufung eines Gerichts entstehen, zu dem der Rechtsweg nicht gegeben oder das für das Verfahren nicht zuständig ist, werden nur dann erhoben, wenn die Anrufung auf verschuldeter Unkenntnis der tatsächlichen oder rechtlichen Verhältnisse beruht. Die Entscheidung trifft das Gericht, an das verwiesen worden ist.
 
-
-## § 5 – Verjährung, Verzinsung
+# § 5 – Verjährung, Verzinsung
 
 (1) Ansprüche auf Zahlung von Kosten verjähren in vier Jahren nach Ablauf des Kalenderjahrs, in dem das Verfahren durch rechtskräftige Entscheidung über die Kosten, durch Vergleich oder in sonstiger Weise beendet ist. Für die Ansprüche auf Zahlung von Auslagen des erstinstanzlichen Musterverfahrens nach dem Kapitalanleger-Musterverfahrensgesetz beginnt die Frist frühestens mit dem rechtskräftigen Abschluss des Musterverfahrens.
 
@@ -528,22 +519,19 @@ werden Kosten (Gebühren und Auslagen) nur nach diesem Gesetz erhoben. Satz 1 Nu
 
 (4) Ansprüche auf Zahlung und Rückerstattung von Kosten werden vorbehaltlich der nach Nummer 9018 des Kostenverzeichnisses für das erstinstanzliche Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz geltenden Regelung nicht verzinst.
 
-
-## § 5a – Elektronische Akte, elektronisches Dokument
+# § 5a – Elektronische Akte, elektronisches Dokument
 
 In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen Vorschriften über die elektronische Akte und über das elektronische Dokument anzuwenden, die für das dem kostenrechtlichen Verfahren zugrunde liegende Verfahren gelten.
 
 (+++ § 5a: Zur Anwendung vgl. § 22 Abs. 1 Satz 2 G 363-5 v. 23.7.2013 I 2586, 2655 +++)
 
-
-## § 5b – Rechtsbehelfsbelehrung
+# § 5b – Rechtsbehelfsbelehrung
 
 Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine Belehrung über den statthaften Rechtsbehelf sowie über die Stelle, bei der dieser Rechtsbehelf einzulegen ist, über deren Sitz und über die einzuhaltende Form und Frist zu enthalten.
 
 (+++ § 5b: Zur Anwendung vgl. § 22 Abs. 1 Satz 2 G 363-5 v. 23.7.2013 I 2586, 2655 idF d. Art. 12 G v. 5.12.2012 I 2418, dieser idF d. Art. 41 Nr. 2 G v. 23.7.2013 I 2586 +++)
 
-
-## § 6 – Fälligkeit der Gebühren im Allgemeinen
+# § 6 – Fälligkeit der Gebühren im Allgemeinen
 
 (1) In folgenden Verfahren wird die Verfahrensgebühr mit der Einreichung der Klage-, Antrags-, Einspruchs- oder Rechtsmittelschrift oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig:
 
@@ -553,8 +541,7 @@ Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine Belehrung über d
 
 3. in Insolvenzverfahren und in schifffahrtsrechtlichen Verteilungsverfahren,
 
-3a.  
-in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz,
+3a. in Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz,
 
 4. in Rechtsmittelverfahren des gewerblichen Rechtsschutzes und
 
@@ -566,20 +553,17 @@ Im Verfahren über ein Rechtsmittel, das vom Rechtsmittelgericht zugelassen word
 
 (3) In Verfahren vor den Gerichten für Arbeitssachen bestimmt sich die Fälligkeit der Kosten nach § 9.
 
-
-## § 7 – Zwangsversteigerung und Zwangsverwaltung
+# § 7 – Zwangsversteigerung und Zwangsverwaltung
 
 (1) Die Gebühren für die Entscheidung über den Antrag auf Anordnung der Zwangsversteigerung und über den Beitritt werden mit der Entscheidung fällig. Die Gebühr für die Erteilung des Zuschlags wird mit dessen Verkündung und, wenn der Zuschlag von dem Beschwerdegericht erteilt wird, mit der Zustellung des Beschlusses an den Ersteher fällig. Im Übrigen werden die Gebühren im ersten Rechtszug im Verteilungstermin und, wenn das Verfahren vorher aufgehoben wird, mit der Aufhebung fällig.
 
 (2) Absatz 1 Satz 1 gilt im Verfahren der Zwangsverwaltung entsprechend. Die Jahresgebühr wird jeweils mit Ablauf eines Kalenderjahres, die letzte Jahresgebühr mit der Aufhebung des Verfahrens fällig.
 
-
-## § 8 – Strafsachen, Bußgeldsachen
+# § 8 – Strafsachen, Bußgeldsachen
 
 In Strafsachen werden die Kosten, die dem verurteilten Beschuldigten zur Last fallen, erst mit der Rechtskraft des Urteils fällig. Dies gilt in gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten entsprechend.
 
-
-## § 9 – Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen
+# § 9 – Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen
 
 (1) Die Gebühr für die Anmeldung eines Anspruchs zum Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz wird mit Einreichung der Anmeldungserklärung fällig. Die Auslagen des Musterverfahrens nach dem Kapitalanleger-Musterverfahrensgesetz werden mit dem rechtskräftigen Abschluss des Musterverfahrens fällig.
 
@@ -597,18 +581,15 @@ In Strafsachen werden die Kosten, die dem verurteilten Beschuldigten zur Last fa
 
 (3) Die Dokumentenpauschale sowie die Auslagen für die Versendung von Akten werden sofort nach ihrer Entstehung fällig.
 
-
-## § 10 – Grundsatz für die Abhängigmachung
+# § 10 – Grundsatz für die Abhängigmachung
 
 In weiterem Umfang als die Prozessordnungen und dieses Gesetz es gestatten, darf die Tätigkeit der Gerichte von der Sicherstellung oder Zahlung der Kosten nicht abhängig gemacht werden.
 
-
-## § 11 – Verfahren nach dem Arbeitsgerichtsgesetz
+# § 11 – Verfahren nach dem Arbeitsgerichtsgesetz
 
 In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften dieses Abschnitts nicht anzuwenden; dies gilt für die Zwangsvollstreckung in Arbeitssachen auch dann, wenn das Amtsgericht Vollstreckungsgericht ist. Satz 1 gilt nicht in Verfahren wegen überlanger Gerichtsverfahren (§ 9 Absatz 2 Satz 2 des Arbeitsgerichtsgesetzes).
 
-
-## § 12 – Verfahren nach der Zivilprozessordnung
+# § 12 – Verfahren nach der Zivilprozessordnung
 
 (1) In bürgerlichen Rechtsstreitigkeiten soll die Klage erst nach Zahlung der Gebühr für das Verfahren im Allgemeinen zugestellt werden. Wird der Klageantrag erweitert, soll vor Zahlung der Gebühr für das Verfahren im Allgemeinen keine gerichtliche Handlung vorgenommen werden; dies gilt auch in der Rechtsmittelinstanz. Die Anmeldung zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) soll erst nach Zahlung der Gebühr nach Nummer 1902 des Kostenverzeichnisses zugestellt werden.
 
@@ -630,25 +611,21 @@ In Verfahren vor den Gerichten für Arbeitssachen sind die Vorschriften dieses A
 
 (6) Über Anträge auf Erteilung einer weiteren vollstreckbaren Ausfertigung (§ 733 der Zivilprozessordnung) und über Anträge auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829 Absatz 1, §§ 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder § 890 der Zivilprozessordnung soll erst nach Zahlung der Gebühr für das Verfahren und der Auslagen für die Zustellung entschieden werden. Dies gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
 
-
-## § 12a – Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren
+# § 12a – Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren
 
 In Verfahren wegen überlanger Gerichtsverfahren und strafrechtlicher Ermittlungsverfahren ist § 12 Absatz 1 Satz 1 und 2 entsprechend anzuwenden. Wird ein solches Verfahren bei einem Gericht der Verwaltungs-, Finanz- oder Sozialgerichtsbarkeit anhängig, ist in der Aufforderung zur Zahlung der Gebühr für das Verfahren im Allgemeinen darauf hinzuweisen, dass die Klage erst nach Zahlung dieser Gebühr zugestellt und die Streitsache erst mit Zustellung der Klage rechtshängig wird.
 
-
-## § 13 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+# § 13 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 
 Über den Antrag auf Eröffnung des Verteilungsverfahrens nach der Schifffahrtsrechtlichen Verteilungsordnung soll erst nach Zahlung der dafür vorgesehenen Gebühr und der Auslagen für die öffentliche Bekanntmachung entschieden werden.
 
-
-## § 13a – Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
+# § 13a – Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
 
 (1) Über den Antrag auf Inanspruchnahme eines Instruments des Stabilisierungs- und Restrukturierungsrahmens soll erst nach Zahlung der Gebühr für das Verfahren entschieden werden.
 
 (2) Absatz 1 gilt entsprechend für den Antrag auf Bestellung eines Restrukturierungsbeauftragten oder eines Sanierungsmoderators.
 
-
-## § 14 – Ausnahmen von der Abhängigmachung
+# § 14 – Ausnahmen von der Abhängigmachung
 
 Die §§ 12 und 13 gelten nicht,
 
@@ -662,22 +639,19 @@ a) dem Antragsteller die alsbaldige Zahlung der Kosten mit Rücksicht auf seine 
 
 b) eine Verzögerung dem Antragsteller einen nicht oder nur schwer zu ersetzenden Schaden bringen würde; zur Glaubhaftmachung genügt in diesem Fall die Erklärung des zum Prozessbevollmächtigten bestellten Rechtsanwalts.
 
-
-## § 15 – Zwangsversteigerungs- und Zwangsverwaltungsverfahren
+# § 15 – Zwangsversteigerungs- und Zwangsverwaltungsverfahren
 
 (1) Im Zwangsversteigerungsverfahren ist spätestens bei der Bestimmung des Zwangsversteigerungstermins ein Vorschuss in Höhe des Doppelten einer Gebühr für die Abhaltung des Versteigerungstermins zu erheben.
 
 (2) Im Zwangsverwaltungsverfahren hat der Antragsteller jährlich einen angemessenen Gebührenvorschuss zu zahlen.
 
-
-## § 16 – Privatklage, Nebenklage
+# § 16 – Privatklage, Nebenklage
 
 (1) Der Privatkläger hat, wenn er Privatklage erhebt, Rechtsmittel einlegt, die Wiederaufnahme beantragt oder das Verfahren nach den §§ 435 bis 437 der Strafprozessordnung betreibt, für den jeweiligen Rechtszug einen Betrag in Höhe der entsprechenden in den Nummern 3311, 3321, 3331, 3340, 3410, 3431, 3441 oder 3450 des Kostenverzeichnisses bestimmten Gebühr als Vorschuss zu zahlen. Der Widerkläger ist zur Zahlung eines Gebührenvorschusses nicht verpflichtet.
 
 (2) Der Nebenkläger hat, wenn er Rechtsmittel einlegt oder die Wiederaufnahme beantragt, für den jeweiligen Rechtszug einen Betrag in Höhe der entsprechenden in den Nummern 3511, 3521 oder 3530 des Kostenverzeichnisses bestimmten Gebühr als Vorschuss zu zahlen. Wenn er im Verfahren nach den §§ 435 bis 437 der Strafprozessordnung Rechtsmittel einlegt oder die Wiederaufnahme beantragt, hat er für den jeweiligen Rechtszug einen Betrag in Höhe der entsprechenden in den Nummern 3431, 3441 oder 3450 des Kostenverzeichnisses bestimmten Gebühr als Vorschuss zu zahlen.
 
-
-## § 17 – Auslagen
+# § 17 – Auslagen
 
 (1) Wird die Vornahme einer Handlung, mit der Auslagen verbunden sind, beantragt, hat derjenige, der die Handlung beantragt hat, einen zur Deckung der Auslagen hinreichenden Vorschuss zu zahlen. Das Gericht soll die Vornahme der Handlung von der vorherigen Zahlung abhängig machen.
 
@@ -687,13 +661,11 @@ b) eine Verzögerung dem Antragsteller einen nicht oder nur schwer zu ersetzende
 
 (4) Absatz 1 gilt nicht in Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz, für die Anordnung einer Haft und in Strafsachen nur für den Privatkläger, den Widerkläger sowie für den Nebenkläger, der Berufung oder Revision eingelegt hat. Absatz 2 gilt nicht in Strafsachen und in gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten, wenn der Beschuldigte oder sein Beistand Antragsteller ist. Absatz 3 gilt nicht in Strafsachen, in gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten sowie in Verfahren über einen Schuldenbereinigungsplan (§ 306 der Insolvenzordnung).
 
-
-## § 18 – Fortdauer der Vorschusspflicht
+# § 18 – Fortdauer der Vorschusspflicht
 
 Die Verpflichtung zur Zahlung eines Vorschusses bleibt bestehen, auch wenn die Kosten des Verfahrens einem anderen auferlegt oder von einem anderen übernommen sind. § 31 Absatz 2 gilt entsprechend.
 
-
-## § 19 – Kostenansatz
+# § 19 – Kostenansatz
 
 (1) Außer in Strafsachen und in gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten werden angesetzt:
 
@@ -711,8 +683,7 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (5) Der Kostenansatz kann im Verwaltungsweg berichtigt werden, solange nicht eine gerichtliche Entscheidung getroffen ist. Ergeht nach der gerichtlichen Entscheidung über den Kostenansatz eine Entscheidung, durch die der Streitwert anders festgesetzt wird, kann der Kostenansatz ebenfalls berichtigt werden.
 
-
-## § 20 – Nachforderung
+# § 20 – Nachforderung
 
 (1) Wegen eines unrichtigen Ansatzes dürfen Kosten nur nachgefordert werden, wenn der berichtigte Ansatz dem Zahlungspflichtigen vor Ablauf des nächsten Kalenderjahres nach Absendung der den Rechtszug abschließenden Kostenrechnung (Schlusskostenrechnung), in Zwangsverwaltungsverfahren der Jahresrechnung, mitgeteilt worden ist. Dies gilt nicht, wenn die Nachforderung auf vorsätzlich oder grob fahrlässig falschen Angaben des Kostenschuldners beruht oder wenn der ursprüngliche Kostenansatz unter einem bestimmten Vorbehalt erfolgt ist.
 
@@ -720,15 +691,13 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (3) Ist der Wert gerichtlich festgesetzt worden, genügt es, wenn der berichtigte Ansatz dem Zahlungspflichtigen drei Monate nach der letzten Wertfestsetzung mitgeteilt worden ist.
 
-
-## § 21 – Nichterhebung von Kosten
+# § 21 – Nichterhebung von Kosten
 
 (1) Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben. Das Gleiche gilt für Auslagen, die durch eine von Amts wegen veranlasste Verlegung eines Termins oder Vertagung einer Verhandlung entstanden sind. Für abweisende Entscheidungen sowie bei Zurücknahme eines Antrags kann von der Erhebung von Kosten abgesehen werden, wenn der Antrag auf unverschuldeter Unkenntnis der tatsächlichen oder rechtlichen Verhältnisse beruht.
 
 (2) Die Entscheidung trifft das Gericht. Solange nicht das Gericht entschieden hat, können Anordnungen nach Absatz 1 im Verwaltungsweg erlassen werden. Eine im Verwaltungsweg getroffene Anordnung kann nur im Verwaltungsweg geändert werden.
 
-
-## § 22 – Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln
+# § 22 – Streitverfahren, Bestätigungen und Bescheinigungen zu inländischen Titeln
 
 (1) In bürgerlichen Rechtsstreitigkeiten mit Ausnahme der Restitutionsklage nach § 580 Nummer 8 der Zivilprozessordnung sowie in Verfahren nach § 1 Absatz 1 Satz 1 Nummer 14, Absatz 2 Nummer 1 bis 3 sowie Absatz 4 schuldet die Kosten, wer das Verfahren des Rechtszugs beantragt hat. Im Verfahren, das gemäß § 700 Absatz 3 der Zivilprozessordnung dem Mahnverfahren folgt, schuldet die Kosten, wer den Vollstreckungsbescheid beantragt hat. Im Verfahren, das nach Einspruch dem Europäischen Mahnverfahren folgt, schuldet die Kosten, wer den Zahlungsbefehl beantragt hat. Die Gebühr für den Abschluss eines gerichtlichen Vergleichs schuldet jeder, der an dem Abschluss beteiligt ist.
 
@@ -738,8 +707,7 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (4) Im erstinstanzlichen Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz ist Absatz 1 nicht anzuwenden. Die Kosten für die Anmeldung eines Anspruchs zum Musterverfahren schuldet der Anmelder. Im Verfahren über die Rechtsbeschwerde nach § 20 des Kapitalanleger-Musterverfahrensgesetzes schuldet neben dem Rechtsbeschwerdeführer auch der Beteiligte, der dem Rechtsbeschwerdeverfahren auf Seiten des Rechtsbeschwerdeführers beigetreten ist, die Kosten.
 
-
-## § 23 – Insolvenzverfahren
+# § 23 – Insolvenzverfahren
 
 (1) Die Gebühr für das Verfahren über den Antrag auf Eröffnung des Insolvenzverfahrens schuldet, wer den Antrag gestellt hat. Wird der Antrag abgewiesen oder zurückgenommen, gilt dies auch für die entstandenen Auslagen. Die Auslagen nach Nummer 9017 des Kostenverzeichnisses schuldet jedoch nur der Schuldner des Insolvenzverfahrens. Die Sätze 1 und 2 gelten nicht, wenn der Schuldner des Insolvenzverfahrens nach § 14 Absatz 3 der Insolvenzordnung die Kosten des Verfahrens trägt.
 
@@ -755,30 +723,25 @@ Dies gilt auch dann, wenn die Kosten bei einem ersuchten Gericht entstanden sind
 
 (7) Im Übrigen schuldet die Kosten der Schuldner des Insolvenzverfahrens.
 
-
-## § 23a – Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
+# § 23a – Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
 
 Die Kosten des Sanierungs- und Reorganisationsverfahrens schuldet nur das Kreditinstitut.
 
-
-## § 24 – Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren
+# § 24 – Öffentliche Bekanntmachung in ausländischen Insolvenzverfahren
 
 Die Kosten des Verfahrens über den Antrag auf öffentliche Bekanntmachung ausländischer Entscheidungen in Insolvenzverfahren oder vergleichbaren Verfahren schuldet, wer das Verfahren beantragt hat.
 
-
-## § 25 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+# § 25 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 
 Die Kosten des Verteilungsverfahrens nach der Schifffahrtsrechtlichen Verteilungsordnung schuldet, wer das Verfahren beantragt hat.
 
-
-## § 25a – Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
+# § 25a – Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz
 
 (1) Die Kosten der Verfahren nach dem Unternehmensstabilisierungs- und -restrukturierungsgesetz vor dem Restrukturierungsgericht sowie die Gebühren nach den Nummern 2510 und 2513 des Kostenverzeichnisses schuldet nur der Schuldner des Verfahrens, soweit nichts anderes bestimmt ist.
 
 (2) Wird ein fakultativer Restrukturierungsbeauftragter auf Antrag von Gläubigern bestellt, schulden die Gebühr nach Nummer 2513 des Kostenverzeichnisses und die Auslagen nach Nummer 9017 des Kostenverzeichnisses nur die antragstellenden Gläubiger, soweit sie ihnen nach § 82 Absatz 2 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes auferlegt sind.
 
-
-## § 26 – Zwangsversteigerungs- und Zwangsverwaltungsverfahren
+# § 26 – Zwangsversteigerungs- und Zwangsverwaltungsverfahren
 
 (1) Die Kosten des Zwangsversteigerungs- und Zwangsverwaltungsverfahrens sowie des Verfahrens der Zwangsliquidation einer Bahneinheit schuldet vorbehaltlich des Absatzes 2, wer das Verfahren beantragt hat, soweit die Kosten nicht dem Erlös entnommen werden können.
 
@@ -786,13 +749,11 @@ Die Kosten des Verteilungsverfahrens nach der Schifffahrtsrechtlichen Verteilung
 
 (3) Die Kosten des Beschwerdeverfahrens schuldet der Beschwerdeführer.
 
-
-## § 27 – Bußgeldsachen
+# § 27 – Bußgeldsachen
 
 Der Betroffene, der im gerichtlichen Verfahren nach dem Gesetz über Ordnungswidrigkeiten den Einspruch gegen einen Bußgeldbescheid zurücknimmt, schuldet die entstandenen Kosten.
 
-
-## § 28 – Auslagen in weiteren Fällen
+# § 28 – Auslagen in weiteren Fällen
 
 (1) Die Dokumentenpauschale schuldet ferner, wer die Erteilung der Ausfertigungen, Kopien oder Ausdrucke beantragt hat. Sind Kopien oder Ausdrucke angefertigt worden, weil die Partei oder der Beteiligte es unterlassen hat, die erforderliche Zahl von Mehrfertigungen beizufügen, schuldet nur die Partei oder der Beteiligte die Dokumentenpauschale.
 
@@ -804,8 +765,7 @@ Der Betroffene, der im gerichtlichen Verfahren nach dem Gesetz über Ordnungswid
 
 2. die Übermittlung des Antrags von der Übermittlungsstelle oder das Ersuchen um Prozesskostenhilfe von der Empfangsstelle abgelehnt wird.
 
-
-## § 29 – Weitere Fälle der Kostenhaftung
+# § 29 – Weitere Fälle der Kostenhaftung
 
 Die Kosten schuldet ferner,
 
@@ -817,13 +777,11 @@ Die Kosten schuldet ferner,
 
 4. der Vollstreckungsschuldner für die notwendigen Kosten der Zwangsvollstreckung.
 
-
-## § 30 – Erlöschen der Zahlungspflicht
+# § 30 – Erlöschen der Zahlungspflicht
 
 Die durch gerichtliche oder staatsanwaltschaftliche Entscheidung begründete Verpflichtung zur Zahlung von Kosten erlischt, soweit die Entscheidung durch eine andere gerichtliche Entscheidung aufgehoben oder abgeändert wird. Soweit die Verpflichtung zur Zahlung von Kosten nur auf der aufgehobenen oder abgeänderten Entscheidung beruht hat, werden bereits gezahlte Kosten zurückerstattet.
 
-
-## § 31 – Mehrere Kostenschuldner
+# § 31 – Mehrere Kostenschuldner
 
 (1) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -839,20 +797,17 @@ Die durch gerichtliche oder staatsanwaltschaftliche Entscheidung begründete Ver
 
 3. das Gericht in seinem Vergleichsvorschlag ausdrücklich festgestellt hat, dass die Kostenregelung der sonst zu erwartenden Kostenentscheidung entspricht.
 
-
-## § 32 – Haftung von Streitgenossen und Beigeladenen
+# § 32 – Haftung von Streitgenossen und Beigeladenen
 
 (1) Streitgenossen haften als Gesamtschuldner, wenn die Kosten nicht durch gerichtliche Entscheidung unter sie verteilt sind. Soweit einen Streitgenossen nur Teile des Streitgegenstands betreffen, beschränkt sich seine Haftung als Gesamtschuldner auf den Betrag, der entstanden wäre, wenn das Verfahren nur diese Teile betroffen hätte.
 
 (2) Absatz 1 gilt auch für mehrere Beigeladene, denen Kosten auferlegt worden sind.
 
-
-## § 33 – Verpflichtung zur Zahlung von Kosten in besonderen Fällen
+# § 33 – Verpflichtung zur Zahlung von Kosten in besonderen Fällen
 
 Die nach den §§ 53 bis 55, 177, 209 und 269 der Insolvenzordnung sowie den §§ 466 und 471 Absatz 4 der Strafprozessordnung begründete Verpflichtung zur Zahlung von Kosten besteht auch gegenüber der Staatskasse.
 
-
-## § 34 – Wertgebühren
+# § 34 – Wertgebühren
 
 (1) Wenn sich die Gebühren nach dem Streitwert richten, beträgt bei einem Streitwert bis 500 Euro die Gebühr 38 Euro. Die Gebühr erhöht sich bei einem  
   
@@ -873,13 +828,11 @@ Eine Gebührentabelle für Streitwerte bis 500 000 Euro ist diesem Gesetz als A
 
 (2) Der Mindestbetrag einer Gebühr ist 15 Euro.
 
-
-## § 35 – Einmalige Erhebung der Gebühren
+# § 35 – Einmalige Erhebung der Gebühren
 
 Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine Entscheidung werden in jedem Rechtszug hinsichtlich eines jeden Teils des Streitgegenstands nur einmal erhoben.
 
-
-## § 36 – Teile des Streitgegenstands
+# § 36 – Teile des Streitgegenstands
 
 (1) Für Handlungen, die einen Teil des Streitgegenstands betreffen, sind die Gebühren nur nach dem Wert dieses Teils zu berechnen.
 
@@ -887,30 +840,25 @@ Die Gebühr für das Verfahren im Allgemeinen und die Gebühr für eine Entschei
 
 (3) Sind für Teile des Gegenstands verschiedene Gebührensätze anzuwenden, sind die Gebühren für die Teile gesondert zu berechnen; die aus dem Gesamtbetrag der Wertteile nach dem höchsten Gebührensatz berechnete Gebühr darf jedoch nicht überschritten werden.
 
-
-## § 37 – Zurückverweisung
+# § 37 – Zurückverweisung
 
 Wird eine Sache zur anderweitigen Verhandlung an das Gericht des unteren Rechtszugs zurückverwiesen, bildet das weitere Verfahren mit dem früheren Verfahren vor diesem Gericht im Sinne des § 35 einen Rechtszug.
 
-
-## § 38 – Verzögerung des Rechtsstreits
+# § 38 – Verzögerung des Rechtsstreits
 
 Wird außer im Fall des § 335 der Zivilprozessordnung durch Verschulden des Klägers, des Beklagten oder eines Vertreters die Vertagung einer mündlichen Verhandlung oder die Anberaumung eines neuen Termins zur mündlichen Verhandlung nötig oder ist die Erledigung des Rechtsstreits durch nachträgliches Vorbringen von Angriffs- oder Verteidigungsmitteln, Beweismitteln oder Beweiseinreden, die früher vorgebracht werden konnten, verzögert worden, kann das Gericht dem Kläger oder dem Beklagten von Amts wegen eine besondere Gebühr mit einem Gebührensatz von 1,0 auferlegen. Die Gebühr kann bis auf einen Gebührensatz von 0,3 ermäßigt werden. Dem Kläger, dem Beklagten oder dem Vertreter stehen gleich der Nebenintervenient, der Beigeladene, der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht und der Vertreter des öffentlichen Interesses sowie ihre Vertreter.
 
-
-## § 39 – Grundsatz
+# § 39 – Grundsatz
 
 (1) In demselben Verfahren und in demselben Rechtszug werden die Werte mehrerer Streitgegenstände zusammengerechnet, soweit nichts anderes bestimmt ist.
 
 (2) Der Streitwert beträgt höchstens 30 Millionen Euro, soweit kein niedrigerer Höchstwert bestimmt ist.
 
-
-## § 40 – Zeitpunkt der Wertberechnung
+# § 40 – Zeitpunkt der Wertberechnung
 
 Für die Wertberechnung ist der Zeitpunkt der den jeweiligen Streitgegenstand betreffenden Antragstellung maßgebend, die den Rechtszug einleitet.
 
-
-## § 41 – Miet-, Pacht- und ähnliche Nutzungsverhältnisse
+# § 41 – Miet-, Pacht- und ähnliche Nutzungsverhältnisse
 
 (1) Ist das Bestehen oder die Dauer eines Miet-, Pacht- oder ähnlichen Nutzungsverhältnisses streitig, ist der Betrag des auf die streitige Zeit entfallenden Entgelts und, wenn das einjährige Entgelt geringer ist, dieser Betrag für die Wertberechnung maßgebend. Das Entgelt nach Satz 1 umfasst neben dem Nettogrundentgelt Nebenkosten dann, wenn diese als Pauschale vereinbart sind und nicht gesondert abgerechnet werden.
 
@@ -922,8 +870,7 @@ Für die Wertberechnung ist der Zeitpunkt der den jeweiligen Streitgegenstand be
 
 (5) Bei Ansprüchen auf Erhöhung der Miete für Wohnraum ist der Jahresbetrag der zusätzlich geforderten Miete, bei Feststellung einer Minderung der Miete für Wohnraum der Jahresbetrag der Mietminderung, bei Ansprüchen des Mieters auf Durchführung von Instandsetzungsmaßnahmen der Jahresbetrag einer angemessenen Mietminderung und bei Ansprüchen des Vermieters auf Duldung einer Durchführung von Modernisierungs- oder Erhaltungsmaßnahmen der Jahresbetrag einer möglichen Mieterhöhung, in Ermangelung dessen einer sonst möglichen Mietminderung durch den Mieter maßgebend. Endet das Mietverhältnis vor Ablauf eines Jahres, ist ein entsprechend niedrigerer Betrag maßgebend.
 
-
-## § 42 – Wiederkehrende Leistungen
+# § 42 – Wiederkehrende Leistungen
 
 (1) Bei Ansprüchen auf wiederkehrende Leistungen aus einem öffentlich-rechtlichen Dienst- oder Amtsverhältnis, einer Dienstpflicht oder einer Tätigkeit, die anstelle einer gesetzlichen Dienstpflicht geleistet werden kann, bei Ansprüchen von Arbeitnehmern auf wiederkehrende Leistungen sowie in Verfahren vor Gerichten der Sozialgerichtsbarkeit, in denen Ansprüche auf wiederkehrende Leistungen dem Grunde oder der Höhe nach geltend gemacht oder abgewehrt werden, ist der dreifache Jahresbetrag der wiederkehrenden Leistungen maßgebend, wenn nicht der Gesamtbetrag der geforderten Leistungen geringer ist. Ist im Verfahren vor den Gerichten der Verwaltungs- und Sozialgerichtsbarkeit die Höhe des Jahresbetrags nicht nach dem Antrag des Klägers bestimmt oder nach diesem Antrag mit vertretbarem Aufwand bestimmbar, ist der Streitwert nach § 52 Absatz 1 und 2 zu bestimmen.
 
@@ -931,8 +878,7 @@ Für die Wertberechnung ist der Zeitpunkt der den jeweiligen Streitgegenstand be
 
 (3) Die bei Einreichung der Klage fälligen Beträge werden dem Streitwert hinzugerechnet; dies gilt nicht in Rechtsstreitigkeiten vor den Gerichten für Arbeitssachen. Der Einreichung der Klage steht die Einreichung eines Antrags auf Bewilligung der Prozesskostenhilfe gleich, wenn die Klage alsbald nach Mitteilung der Entscheidung über den Antrag oder über eine alsbald eingelegte Beschwerde eingereicht wird.
 
-
-## § 43 – Nebenforderungen
+# § 43 – Nebenforderungen
 
 (1) Sind außer dem Hauptanspruch auch Früchte, Nutzungen, Zinsen oder Kosten als Nebenforderungen betroffen, wird der Wert der Nebenforderungen nicht berücksichtigt.
 
@@ -940,13 +886,11 @@ Für die Wertberechnung ist der Zeitpunkt der den jeweiligen Streitgegenstand be
 
 (3) Sind die Kosten des Rechtsstreits ohne den Hauptanspruch betroffen, ist der Betrag der Kosten maßgebend, soweit er den Wert des Hauptanspruchs nicht übersteigt.
 
-
-## § 44 – Stufenklage
+# § 44 – Stufenklage
 
 Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines Vermögensverzeichnisses oder auf Abgabe einer eidesstattlichen Versicherung die Klage auf Herausgabe desjenigen verbunden, was der Beklagte aus dem zugrunde liegenden Rechtsverhältnis schuldet, ist für die Wertberechnung nur einer der verbundenen Ansprüche, und zwar der höhere, maßgebend.
 
-
-## § 45 – Klage und Widerklage, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
+# § 45 – Klage und Widerklage, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung
 
 (1) In einer Klage und in einer Widerklage geltend gemachte Ansprüche, die nicht in getrennten Prozessen verhandelt werden, werden zusammengerechnet. Ein hilfsweise geltend gemachter Anspruch wird mit dem Hauptanspruch zusammengerechnet, soweit eine Entscheidung über ihn ergeht. Betreffen die Ansprüche im Fall des Satzes 1 oder 2 denselben Gegenstand, ist nur der Wert des höheren Anspruchs maßgebend.
 
@@ -956,11 +900,9 @@ Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines Vermögensverzei
 
 (4) Bei einer Erledigung des Rechtsstreits durch Vergleich sind die Absätze 1 bis 3 entsprechend anzuwenden.
 
+# § 46 – (weggefallen)
 
-## § 46 – (weggefallen)
-
-
-## § 47 – Rechtsmittelverfahren
+# § 47 – Rechtsmittelverfahren
 
 (1) Im Rechtsmittelverfahren bestimmt sich der Streitwert nach den Anträgen des Rechtsmittelführers. Endet das Verfahren, ohne dass solche Anträge eingereicht werden, oder werden, wenn eine Frist für die Rechtsmittelbegründung vorgeschrieben ist, innerhalb dieser Frist Rechtsmittelanträge nicht eingereicht, ist die Beschwer maßgebend.
 
@@ -968,8 +910,7 @@ Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines Vermögensverzei
 
 (3) Im Verfahren über den Antrag auf Zulassung des Rechtsmittels und im Verfahren über die Beschwerde gegen die Nichtzulassung des Rechtsmittels ist Streitwert der für das Rechtsmittelverfahren maßgebende Wert.
 
-
-## § 48 – Bürgerliche Rechtsstreitigkeiten
+# § 48 – Bürgerliche Rechtsstreitigkeiten
 
 (1) In bürgerlichen Rechtsstreitigkeiten richten sich die Gebühren nach den für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels geltenden Vorschriften über den Wert des Streitgegenstands, soweit nichts anderes bestimmt ist. In Musterfeststellungsklagen nach Buch 6 der Zivilprozessordnung und in Rechtsstreitigkeiten aufgrund des Unterlassungsklagengesetzes darf der Streitwert 250 000 Euro nicht übersteigen.
 
@@ -977,13 +918,11 @@ Wird mit der Klage auf Rechnungslegung oder auf Vorlegung eines Vermögensverzei
 
 (3) Ist mit einem nichtvermögensrechtlichen Anspruch ein aus ihm hergeleiteter vermögensrechtlicher Anspruch verbunden, ist nur ein Anspruch, und zwar der höhere, maßgebend.
 
-
-## § 49 – Beschlussklagen nach dem Wohnungseigentumsgesetz
+# § 49 – Beschlussklagen nach dem Wohnungseigentumsgesetz
 
 Der Streitwert in Verfahren nach § 44 Absatz 1 des Wohnungseigentumsgesetzes ist auf das Interesse aller Wohnungseigentümer an der Entscheidung festzusetzen. Er darf den siebeneinhalbfachen Wert des Interesses des Klägers und der auf seiner Seite Beigetretenen sowie den Verkehrswert ihres Wohnungseigentums nicht übersteigen.
 
-
-## § 50 – Bestimmte Beschwerdeverfahren
+# § 50 – Bestimmte Beschwerdeverfahren
 
 (1) In folgenden Verfahren bestimmt sich der Wert nach § 3 der Zivilprozessordnung:
 
@@ -999,8 +938,7 @@ Im Verfahren über Beschwerden eines Beigeladenen (§ 54 Absatz 2 Nummer 3 des G
 
 (2) Im Verfahren über die Beschwerde gegen die Entscheidung der Vergabekammer (§ 171 des Gesetzes gegen Wettbewerbsbeschränkungen) einschließlich des Verfahrens über den Antrag nach § 169 Absatz 2 Satz 5 und 6, Absatz 4 Satz 2, § 173 Absatz 1 Satz 3 und nach § 176 des Gesetzes gegen Wettbewerbsbeschränkungen beträgt der Streitwert 5 Prozent der Bruttoauftragssumme.
 
-
-## § 51 – Gewerblicher Rechtsschutz
+# § 51 – Gewerblicher Rechtsschutz
 
 (1) In Rechtsmittelverfahren des gewerblichen Rechtsschutzes (§ 1 Absatz 1 Satz 1 Nummer 14) und in Verfahren über Ansprüche nach dem Patentgesetz, dem Gebrauchsmustergesetz, dem Markengesetz, dem Designgesetz, dem Halbleiterschutzgesetz und dem Sortenschutzgesetz ist der Wert nach billigem Ermessen zu bestimmen.
 
@@ -1012,8 +950,7 @@ Im Verfahren über Beschwerden eines Beigeladenen (§ 54 Absatz 2 Nummer 3 des G
 
 (5) Die Vorschriften über die Anordnung der Streitwertbegünstigung (§ 12 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb, § 144 des Patentgesetzes, § 26 des Gebrauchsmustergesetzes, § 142 des Markengesetzes, § 54 des Designgesetzes, § 22 des Gesetzes zum Schutz von Geschäftsgeheimnissen) sind anzuwenden.
 
-
-## § 51a – Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz
+# § 51a – Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 
 (1) Für die Anmeldung eines Anspruchs zum Musterverfahren (§ 10 Absatz 2 des Kapitalanleger-Musterverfahrensgesetzes) bestimmt sich der Wert nach der Höhe des Anspruchs.
 
@@ -1023,8 +960,7 @@ Im Verfahren über Beschwerden eines Beigeladenen (§ 54 Absatz 2 Nummer 3 des G
 
 (4) Die Musterbeklagten schulden im Rechtsbeschwerdeverfahren Gerichtsgebühren jeweils nur nach dem Wert, der sich aus den gegen sie im Ausgangsverfahren geltend gemachten Ansprüchen, die von den Feststellungszielen des Musterverfahrens betroffen sind, ergibt.
 
-
-## § 52 – Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit
+# § 52 – Verfahren vor Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit
 
 (1) In Verfahren vor den Gerichten der Verwaltungs-, Finanz- und Sozialgerichtsbarkeit ist, soweit nichts anderes bestimmt ist, der Streitwert nach der sich aus dem Antrag des Klägers für ihn ergebenden Bedeutung der Sache nach Ermessen zu bestimmen.
 
@@ -1058,8 +994,7 @@ Maßgebend für die Berechnung ist das laufende Kalenderjahr. Bezügebestandteil
 
 (8) Dem Kläger steht gleich, wer sonst das Verfahren des ersten Rechtszugs beantragt hat.
 
-
-## § 53 – Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes
+# § 53 – Einstweiliger Rechtsschutz und Verfahren nach § 148 Absatz 1 und 2 des Aktiengesetzes
 
 (1) In folgenden Verfahren bestimmt sich der Wert nach § 3 der Zivilprozessordnung:
 
@@ -1085,13 +1020,11 @@ Maßgebend für die Berechnung ist das laufende Kalenderjahr. Bezügebestandteil
 
 5. nach § 50 Absatz 3 bis 5 des Wertpapiererwerbs- und Übernahmegesetzes.
 
-
-## § 53a – Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
+# § 53a – Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz
 
 Die Gebühren im Sanierungs- und Reorganisationsverfahren werden nach der Bilanzsumme des letzten Jahresabschlusses vor der Stellung des Antrags auf Durchführung des Sanierungs- oder Reorganisationsverfahrens erhoben.
 
-
-## § 54 – Zwangsversteigerung
+# § 54 – Zwangsversteigerung
 
 (1) Bei der Zwangsversteigerung von Grundstücken sind die Gebühren für das Verfahren im Allgemeinen und für die Abhaltung des Versteigerungstermins nach dem gemäß § 74a Absatz 5 des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung festgesetzten Wert zu berechnen. Ist ein solcher Wert nicht festgesetzt, ist der Einheitswert maßgebend. Weicht der Gegenstand des Verfahrens vom Gegenstand der Einheitsbewertung wesentlich ab oder hat sich der Wert infolge bestimmter Umstände, die nach dem Feststellungszeitpunkt des Einheitswerts eingetreten sind, wesentlich verändert oder ist ein Einheitswert noch nicht festgestellt, ist der nach den Grundsätzen der Einheitsbewertung geschätzte Wert maßgebend. Wird der Einheitswert nicht nachgewiesen, ist das Finanzamt um Auskunft über die Höhe des Einheitswerts zu ersuchen; § 30 der Abgabenordnung steht der Auskunft nicht entgegen.
 
@@ -1103,23 +1036,19 @@ Die Gebühren im Sanierungs- und Reorganisationsverfahren werden nach der Bilanz
 
 (5) Bei Zuschlägen an verschiedene Ersteher wird die Gebühr für die Erteilung des Zuschlags von jedem Ersteher nach dem Wert der auf ihn entfallenden Gegenstände erhoben. Eine Bietergemeinschaft gilt als ein Ersteher.
 
-
-## § 55 – Zwangsverwaltung
+# § 55 – Zwangsverwaltung
 
 Die Gebühr für die Durchführung des Zwangsverwaltungsverfahrens bestimmt sich nach dem Gesamtwert der Einkünfte.
 
-
-## § 56 – Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundstücksgleichen Rechten
+# § 56 – Zwangsversteigerung von Schiffen, Schiffsbauwerken, Luftfahrzeugen und grundstücksgleichen Rechten
 
 Die §§ 54 und 55 gelten entsprechend für die Zwangsversteigerung von Schiffen, Schiffsbauwerken und Luftfahrzeugen sowie für die Zwangsversteigerung und die Zwangsverwaltung von Rechten, die den Vorschriften der Zwangsvollstreckung in das unbewegliche Vermögen unterliegen, einschließlich der unbeweglichen Kuxe.
 
-
-## § 57 – Zwangsliquidation einer Bahneinheit
+# § 57 – Zwangsliquidation einer Bahneinheit
 
 Bei der Zwangsliquidation einer Bahneinheit bestimmt sich die Gebühr für das Verfahren nach dem Gesamtwert der Bestandteile der Bahneinheit.
 
-
-## § 58 – Insolvenzverfahren
+# § 58 – Insolvenzverfahren
 
 (1) Die Gebühren für den Antrag auf Eröffnung des Insolvenzverfahrens und für die Durchführung des Insolvenzverfahrens werden nach dem Wert der Insolvenzmasse zur Zeit der Beendigung des Verfahrens erhoben. Gegenstände, die zur abgesonderten Befriedigung dienen, werden nur in Höhe des für diese nicht erforderlichen Betrags angesetzt. Wird das Unternehmen des Schuldners fortgeführt, so ist von den bei der Fortführung erzielten Einnahmen nur der Überschuss zu berücksichtigen, der sich nach Abzug der Ausgaben ergibt. Dies gilt auch, wenn nur Teile des Unternehmens fortgeführt werden.
 
@@ -1133,28 +1062,23 @@ Bei der Zwangsliquidation einer Bahneinheit bestimmt sich die Gebühr für das V
 
 (6) Im Verfahren über die sofortige Beschwerde nach Artikel 102c § 26 des Einführungsgesetzes zur Insolvenzordnung gegen die Entscheidung über die Kosten des Gruppen-Koordinationsverfahrens bestimmt sich der Wert nach der Höhe der Kosten.
 
-
-## § 59 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
+# § 59 – Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung
 
 Die Gebühren für den Antrag auf Eröffnung des Verteilungsverfahrens nach der Schifffahrtsrechtlichen Verteilungsordnung und für die Durchführung des Verteilungsverfahrens richten sich nach dem Betrag der festgesetzten Haftungssumme. Ist diese höher als der Gesamtbetrag der Ansprüche, für deren Gläubiger das Recht auf Teilnahme an dem Verteilungsverfahren festgestellt wird, richten sich die Gebühren nach dem Gesamtbetrag der Ansprüche.
 
-
-## § 60 – Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
+# § 60 – Gerichtliche Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
 
 Für die Bestimmung des Werts in gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, ist § 52 Absatz 1 bis 3 entsprechend anzuwenden; im Verfahren über den Antrag auf Aussetzung des Vollzugs einer Maßnahme der Vollzugsbehörde oder auf Erlass einer einstweiligen Anordnung gilt § 52 Absatz 1 und 2 entsprechend.
 
-
-## § 61 – Angabe des Werts
+# § 61 – Angabe des Werts
 
 Bei jedem Antrag ist der Streitwert, sofern dieser nicht in einer bestimmten Geldsumme besteht, kein fester Wert bestimmt ist oder sich nicht aus früheren Anträgen ergibt, und nach Aufforderung auch der Wert eines Teils des Streitgegenstands schriftlich oder zu Protokoll der Geschäftsstelle anzugeben. Die Angabe kann jederzeit berichtigt werden.
 
-
-## § 62 – Wertfestsetzung für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels
+# § 62 – Wertfestsetzung für die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels
 
 Ist der Streitwert für die Entscheidung über die Zuständigkeit des Prozessgerichts oder die Zulässigkeit des Rechtsmittels festgesetzt, ist die Festsetzung auch für die Berechnung der Gebühren maßgebend, soweit die Wertvorschriften dieses Gesetzes nicht von den Wertvorschriften des Verfahrensrechts abweichen. Satz 1 gilt nicht in Verfahren vor den Gerichten für Arbeitssachen.
 
-
-## § 63 – Wertfestsetzung für die Gerichtsgebühren
+# § 63 – Wertfestsetzung für die Gerichtsgebühren
 
 (1) Sind Gebühren, die sich nach dem Streitwert richten, mit der Einreichung der Klage-, Antrags-, Einspruchs- oder Rechtsmittelschrift oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig, setzt das Gericht sogleich den Wert ohne Anhörung der Parteien durch Beschluss vorläufig fest, wenn Gegenstand des Verfahrens nicht eine bestimmte Geldsumme in Euro ist oder gesetzlich kein fester Wert bestimmt ist. Einwendungen gegen die Höhe des festgesetzten Werts können nur im Verfahren über die Beschwerde gegen den Beschluss, durch den die Tätigkeit des Gerichts aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten abhängig gemacht wird, geltend gemacht werden. Die Sätze 1 und 2 gelten nicht in Verfahren vor den Gerichten der Finanzgerichtsbarkeit.
 
@@ -1168,18 +1092,15 @@ Ist der Streitwert für die Entscheidung über die Zuständigkeit des Prozessger
 
 Die Änderung ist nur innerhalb von sechs Monaten zulässig, nachdem die Entscheidung in der Hauptsache Rechtskraft erlangt oder das Verfahren sich anderweitig erledigt hat.
 
-
-## § 64 – Schätzung des Werts
+# § 64 – Schätzung des Werts
 
 Wird eine Abschätzung durch Sachverständige erforderlich, ist in dem Beschluss, durch den der Wert festgesetzt wird (§ 63), über die Kosten der Abschätzung zu entscheiden. Diese Kosten können ganz oder teilweise der Partei auferlegt werden, welche die Abschätzung durch Unterlassen der ihr obliegenden Wertangabe, durch unrichtige Angabe des Werts, durch unbegründetes Bestreiten des angegebenen Werts oder durch eine unbegründete Beschwerde veranlasst hat.
 
-
-## § 65 – Wertfestsetzung in gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
+# § 65 – Wertfestsetzung in gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes
 
 In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit § 92 des Jugendgerichtsgesetzes, ist der Wert von Amts wegen festzusetzen. § 63 Absatz 3 gilt entsprechend.
 
-
-## § 66 – Erinnerung gegen den Kostenansatz, Beschwerde
+# § 66 – Erinnerung gegen den Kostenansatz, Beschwerde
 
 (1) Über Erinnerungen des Kostenschuldners und der Staatskasse gegen den Kostenansatz entscheidet das Gericht, bei dem die Kosten angesetzt sind. Sind die Kosten bei der Staatsanwaltschaft angesetzt, ist das Gericht des ersten Rechtszugs zuständig. War das Verfahren im ersten Rechtszug bei mehreren Gerichten anhängig, ist das Gericht, bei dem es zuletzt anhängig war, auch insoweit zuständig, als Kosten bei den anderen Gerichten angesetzt worden sind. Soweit sich die Erinnerung gegen den Ansatz der Auslagen des erstinstanzlichen Musterverfahrens nach dem Kapitalanleger-Musterverfahrensgesetz richtet, entscheidet hierüber das für die Durchführung des Musterverfahrens zuständige Oberlandesgericht.
 
@@ -1199,8 +1120,7 @@ In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit 
 
 (+++ § 66 Abs. 2 bis 8: Zur Anwendung vgl. § 22 Abs. 1 Satz 2 G 363-5 v. 23.7.2013 I 2586, 2655 +++)
 
-
-## § 67 – Beschwerde gegen die Anordnung einer Vorauszahlung
+# § 67 – Beschwerde gegen die Anordnung einer Vorauszahlung
 
 (1) Gegen den Beschluss, durch den die Tätigkeit des Gerichts nur aufgrund dieses Gesetzes von der vorherigen Zahlung von Kosten abhängig gemacht wird, und wegen der Höhe des in diesem Fall im Voraus zu zahlenden Betrags findet stets die Beschwerde statt. § 66 Absatz 3 Satz 1 bis 3, Absatz 4, 5 Satz 1 und 5, Absatz 6 und 8 ist entsprechend anzuwenden. Soweit sich die Partei in dem Hauptsacheverfahren vor dem Gericht, dessen Entscheidung angefochten werden soll, durch einen Prozessbevollmächtigten vertreten lassen muss, gilt dies auch im Beschwerdeverfahren.
 
@@ -1208,8 +1128,7 @@ In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit 
 
 (+++ § 67: Zur Anwendung vgl. § 22 Abs. 1 Satz 2 G 363-5 v. 23.7.2013 I 2586, 2655 +++)
 
-
-## § 68 – Beschwerde gegen die Festsetzung des Streitwerts
+# § 68 – Beschwerde gegen die Festsetzung des Streitwerts
 
 (1) Gegen den Beschluss, durch den der Wert für die Gerichtsgebühren festgesetzt worden ist (§ 63 Absatz 2), findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt. Die Beschwerde findet auch statt, wenn sie das Gericht, das die angefochtene Entscheidung erlassen hat, wegen der grundsätzlichen Bedeutung der zur Entscheidung stehenden Frage in dem Beschluss zulässt. Die Beschwerde ist nur zulässig, wenn sie innerhalb der in § 63 Absatz 3 Satz 2 bestimmten Frist eingelegt wird; ist der Streitwert später als einen Monat vor Ablauf dieser Frist festgesetzt worden, kann sie noch innerhalb eines Monats nach Zustellung oder formloser Mitteilung des Festsetzungsbeschlusses eingelegt werden. Im Fall der formlosen Mitteilung gilt der Beschluss mit dem dritten Tage nach Aufgabe zur Post als bekannt gemacht. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5 sowie Absatz 6 ist entsprechend anzuwenden. Die weitere Beschwerde ist innerhalb eines Monats nach Zustellung der Entscheidung des Beschwerdegerichts einzulegen.
 
@@ -1217,13 +1136,11 @@ In gerichtlichen Verfahren nach dem Strafvollzugsgesetz, auch in Verbindung mit 
 
 (3) Die Verfahren sind gebührenfrei. Kosten werden nicht erstattet.
 
-
-## § 69 – Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
+# § 69 – Beschwerde gegen die Auferlegung einer Verzögerungsgebühr
 
 Gegen den Beschluss nach § 38 findet die Beschwerde statt, wenn der Wert des Beschwerdegegenstands 200 Euro übersteigt oder das Gericht, das die angefochtene Entscheidung erlassen hat, die Beschwerde wegen der grundsätzlichen Bedeutung in dem Beschluss der zur Entscheidung stehenden Frage zugelassen hat. § 66 Absatz 3, 4, 5 Satz 1, 2 und 5, Absatz 6 und 8 ist entsprechend anzuwenden.
 
-
-## § 69a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
+# § 69a – Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör
 
 (1) Auf die Rüge eines durch die Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -1243,16 +1160,13 @@ Gegen den Beschluss nach § 38 findet die Beschwerde statt, wenn der Wert des Be
 
 (+++ § 69a: Zur Anwendung vgl. § 22 Abs. 1 Satz 2 G 363-5 v. 23.7.2013 I 2586, 2655 +++)
 
-
-## § 69b – Verordnungsermächtigung
+# § 69b – Verordnungsermächtigung
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass die von den Gerichten der Länder zu erhebenden Verfahrensgebühren über die in den Nummern 1211, 1411, 5111, 5113, 5211, 5221, 6111, 6211, 7111, 7113 und 8211 des Kostenverzeichnisses bestimmte Ermäßigung hinaus weiter ermäßigt werden oder entfallen, wenn das gesamte Verfahren nach einer Mediation oder nach einem anderen Verfahren der außergerichtlichen Konfliktbeilegung durch Zurücknahme der Klage oder des Antrags beendet wird und in der Klage- oder Antragsschrift mitgeteilt worden ist, dass eine Mediation oder ein anderes Verfahren der außergerichtlichen Konfliktbeilegung unternommen wird oder beabsichtigt ist, oder wenn das Gericht den Parteien die Durchführung einer Mediation oder eines anderen Verfahrens der außergerichtlichen Konfliktbeilegung vorgeschlagen hat. Satz 1 gilt entsprechend für die in den Rechtsmittelzügen von den Gerichten der Länder zu erhebenden Verfahrensgebühren; an die Stelle der Klage- oder Antragsschrift tritt der Schriftsatz, mit dem das Rechtsmittel eingelegt worden ist.
 
+# § 70 – (weggefallen)
 
-## § 70 – (weggefallen)
-
-
-## § 70a – Bekanntmachung von Neufassungen
+# § 70a – Bekanntmachung von Neufassungen
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderungen den Wortlaut des Gesetzes feststellen und als Neufassung im Bundesgesetzblatt bekannt machen. Die Bekanntmachung muss auf diese Vorschrift Bezug nehmen und angeben
 
@@ -1262,8 +1176,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderunge
 
 3. das Inkrafttreten der Änderungen.
 
-
-## § 71 – Übergangsvorschrift
+# § 71 – Übergangsvorschrift
 
 (1) In Rechtsstreitigkeiten, die vor dem Inkrafttreten einer Gesetzesänderung anhängig geworden sind, werden die Kosten nach bisherigem Recht erhoben. Dies gilt nicht im Verfahren über ein Rechtsmittel, das nach dem Inkrafttreten einer Gesetzesänderung eingelegt worden ist. Die Sätze 1 und 2 gelten auch, wenn Vorschriften geändert werden, auf die dieses Gesetz verweist.
 
@@ -1271,8 +1184,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann nach Änderunge
 
 (3) In Insolvenzverfahren, Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung und Verfahren der Zwangsversteigerung und Zwangsverwaltung gilt das bisherige Recht für Kosten, die vor dem Inkrafttreten einer Gesetzesänderung fällig geworden sind.
 
-
-## § 72 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
+# § 72 – Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes
 
 Das Gerichtskostengesetz in der Fassung der Bekanntmachung vom 15. Dezember 1975 (BGBl. I S. 3047), zuletzt geändert durch Artikel 2 Absatz 5 des Gesetzes vom 12. März 2004 (BGBl. I S. 390), und Verweisungen hierauf sind weiter anzuwenden
 
@@ -1282,13 +1194,11 @@ Das Gerichtskostengesetz in der Fassung der Bekanntmachung vom 15. Dezember 1975
 
 3. in Insolvenzverfahren, Verteilungsverfahren nach der Schifffahrtsrechtlichen Verteilungsordnung und Verfahren der Zwangsversteigerung und Zwangsverwaltung für Kosten, die vor dem 1. Juli 2004 fällig geworden sind.
 
-
-## § 73 – Übergangsvorschrift für die Erhebung von Haftkosten
+# § 73 – Übergangsvorschrift für die Erhebung von Haftkosten
 
 Bis zum Erlass landesrechtlicher Vorschriften über die Höhe des Haftkostenbeitrags, der von einem Gefangenen zu erheben ist, sind die Nummern 9010 und 9011 des Kostenverzeichnisses in der bis zum 27. Dezember 2010 geltenden Fassung anzuwenden.
 
-
-## Anlage 1 – (zu § 3 Abs. 2)Kostenverzeichnis
+# Anlage 1 – (zu § 3 Abs. 2)Kostenverzeichnis
 
 (Fundstelle: BGBl. I 2014, 172 - 216;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1324,8 +1234,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Anlage 1 Nr. 9012 Fußnote Kursivdruck: Art. 4 Abs. 47 u. Art. 5 Abs. 3 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
-
-## Anlage 2 – (zu § 34 Absatz 1 Satz 3)
+# Anlage 2 – (zu § 34 Absatz 1 Satz 3)
 
 (Fundstelle: BGBl. I 2020, 3233)
 

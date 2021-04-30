@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2010] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Nordrhein-Westfalen“)
-
-Ausfertigungsdatum: 02.12.2010
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Nordrhein-Westfalen“)
+% Ausfertigungsdatum: 02.12.2010
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „Nordrhein-Westfalen“ prägen zu lassen. Die Auflage der Münze beträgt 30 Millionen Stück.
 
@@ -20,10 +17,8 @@ Das Münzzeichen der jeweiligen Prägestätte befindet sich im rechten oberen Ke
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn Heinz Hoyer, Berlin.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----

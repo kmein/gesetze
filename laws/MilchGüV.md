@@ -1,15 +1,11 @@
-# [MilchGüV] Verordnung über die Güteprüfung und Bezahlung der Anlieferungsmilch  (Milch-Güteverordnung)
-
-Ausfertigungsdatum: 09.07.1980
-
+% Verordnung über die Güteprüfung und Bezahlung der Anlieferungsmilch  (Milch-Güteverordnung)
+% Ausfertigungsdatum: 09.07.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 1 des Milch- und Fettgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7842-1, veröffentlichten bereinigten Fassung in Verbindung mit § 1 Nr. 9 des Gesetzes vom 29. Juli 1964 (BGBl. I S. 560) wird im Einvernehmen mit dem Bundesminister für Jugend, Familie und Gesundheit und auf Grund des § 20 Abs. 1 Nr. 1, Abs. 4 und 5 des Milch- und Fettgesetzes im Einvernehmen mit dem Bundesminister für Wirtschaft mit Zustimmung des Bundesrates und nach Bekanntgabe an den Deutschen Bundestag verordnet:
 
-
-## § 1 – Gütemerkmale
+# § 1 – Gütemerkmale
 
 (1) Abnehmer von Milch haben jede Anlieferungsmilch zur Bewertung der Güte auf
 
@@ -29,8 +25,7 @@ nach Maßgabe des § 2 Abs. 1 bis 8 untersuchen zu lassen oder zu untersuchen.
 
 (3) Abnehmer im Sinne dieser Verordnung ist, wer Anlieferungsmilch von Milcherzeugern erwirbt, soweit im Durchschnitt eines Jahres täglich 500 Liter Anlieferungsmilch oder mehr erworben und angeliefert werden.
 
-
-## § 2 – Untersuchungen
+# § 2 – Untersuchungen
 
 (1) Zur Feststellung des Fettgehaltes sind monatlich mindestens drei Proben zu entnehmen und nach den Bestimmungen der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches, Gliederungsnummer L 01.00-9, zu untersuchen. Der Fettgehalt ist auf Hundertstelprozente festzustellen. Aus den einzelnen Ergebnissen ist der Durchschnittsfettgehalt der Anlieferungsmilch des jeweiligen Monats auf Hundertstelprozente zu errechnen. Bei täglich zweimaliger Anlieferung sind abweichend von Satz 1 monatlich mindestens jeweils zwei Proben morgens und abends zu entnehmen.
 
@@ -52,8 +47,7 @@ nach Maßgabe des § 2 Abs. 1 bis 8 untersuchen zu lassen oder zu untersuchen.
 
 (10) Die Untersuchungsstelle oder der Abnehmer hat, wenn sie oder er in der Anlieferungsmilch Hemmstoffe oder einen Keimgehalt von mehr als 100 000 Keimen je ccm oder einen Gehalt an somatischen Zellen von mehr als 400 000 je ccm feststellt, dies dem Milcherzeuger unverzüglich mitzuteilen.
 
-
-## § 3 – Einstufung der Anlieferungsmilch
+# § 3 – Einstufung der Anlieferungsmilch
 
 (1) Die Anlieferungsmilch ist auf Grund der Untersuchungsergebnisse nach § 2 Abs. 3 Satz 1 in Klassen einzustufen. Hierzu sind aus den festgestellten Keimzahlwerten der Untersuchungen der letzten zwei Monate der geometrische Mittelwert, auf Tausend gerundet, zu bilden und die folgende Bewertung zugrunde zu legen:  
 
@@ -82,8 +76,7 @@ geführt hat.
 
 Das Bezahlen eines Zuschlages ist der nach Landesrecht zuständigen Stelle mitzuteilen.
 
-
-## § 4 – Berechnung des Auszahlungspreises
+# § 4 – Berechnung des Auszahlungspreises
 
 (1) Die Anlieferungsmilch ist monatlich, auch bei Abschlagszahlungen, unter Berücksichtigung der in § 1 genannten Gütemerkmale nach Gewicht zu bezahlen. Werden Umrechnungen von Volumen in Gewicht nicht mit dem Faktor 1,020 vorgenommen, ist der vom Abnehmer zugrundegelegte Umrechnungsfaktor in der Milchgeldabrechnung auszuweisen.
 
@@ -107,8 +100,7 @@ Werden in zwei Untersuchungen nach dem Monat der Einstufung in eine Klasse Ergeb
 
 (4) Andere als die in § 1 genannten oder in Landesvorschriften nach § 6 Nr. 2 zusätzlich festgelegten Gütemerkmale können durch angemessene Zu- oder Abschläge berücksichtigt werden, soweit sie für den Abnehmer von Bedeutung sind. Sie sind in der Milchgeldabrechnung gesondert auszuweisen. Sonstige Zu- und Abschläge sind ebenfalls gesondert auszuweisen.
 
-
-## § 5 – Aufzeichnungs- und Aufbewahrungspflichten
+# § 5 – Aufzeichnungs- und Aufbewahrungspflichten
 
 (1) Der Abnehmer hat die Ergebnisse der Untersuchungen nach § 2 und die Einstufung nach § 3 laufend aufzuzeichnen. Er hat ferner den Auszahlungspreis nach § 4 laufend aufzuzeichnen.
 
@@ -116,8 +108,7 @@ Werden in zwei Untersuchungen nach dem Monat der Einstufung in eine Klasse Ergeb
 
 (3) Die Aufzeichnungen sind drei Jahre aufzubewahren und der nach Landesrecht zuständigen Stelle auf Verlangen vorzulegen.
 
-
-## § 6 – Befugnisse der Länder
+# § 6 – Befugnisse der Länder
 
 Unberührt bleibt die Befugnis der Landesregierungen, nach § 10 Abs. 2 und § 20 Abs. 2 Satz 1 des Milch- und Fettgesetzes Vorschriften, soweit sie dieser Verordnung nicht entgegenstehen, zu erlassen, insbesondere über
 
@@ -127,13 +118,11 @@ Unberührt bleibt die Befugnis der Landesregierungen, nach § 10 Abs. 2 und § 2
 
 3. die Beratung der Milcherzeuger, einschließlich der hierfür erforderlichen Übermittlung der Untersuchungsergebnisse nach § 2.
 
-
-## § 6a – Bezugsquelle von Untersuchungsverfahren
+# § 6a – Bezugsquelle von Untersuchungsverfahren
 
 Bestimmungen der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches, auf die in dieser Verordnung verwiesen wird, werden vom Bundesgesundheitsamt, Thielallee 88 - 92, 14195 Berlin, veröffentlicht und erscheinen im Beuth Verlag GmbH, Berlin und Köln. DIN-Normen sind im Beuth Verlag GmbH, Berlin, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 30 Abs. 1 Nr. 9 des Milch- und Fettgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -145,17 +134,14 @@ Ordnungswidrig im Sinne des § 30 Abs. 1 Nr. 9 des Milch- und Fettgesetzes hande
 
 4. entgegen § 5 Abs. 1 Satz 1, Abs. 2 oder 3 Aufzeichnungen nicht, nicht richtig oder nicht vollständig macht, nicht aufbewahrt oder der zuständigen Stelle nicht vorlegt.
 
-
-## § 8 – Inkrafttreten, Übergangsvorschriften
+# § 8 – Inkrafttreten, Übergangsvorschriften
 
 Diese Verordnung tritt am 1. Januar 1981 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
-
-## Anlage
+# Anlage
 
 (weggefallen)

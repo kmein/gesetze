@@ -1,10 +1,7 @@
-# [RAVPV] Verordnung über die Rechtsanwaltsverzeichnisse und die besonderen elektronischen Anwaltspostfächer  (Rechtsanwaltsverzeichnis- und -postfachverordnung - RAVPV)
-
-Ausfertigungsdatum: 23.09.2016
-
+% Verordnung über die Rechtsanwaltsverzeichnisse und die besonderen elektronischen Anwaltspostfächer  (Rechtsanwaltsverzeichnis- und -postfachverordnung - RAVPV)
+% Ausfertigungsdatum: 23.09.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 31c der Bundesrechtsanwaltsordnung in Verbindung mit
 
@@ -22,11 +19,9 @@ den §§ 31 bis 31b der Bundesrechtsanwaltsordnung, die durch Artikel 1 Nummer 1
 
 verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Verzeichnis und einzutragende Personen
+# § 1 – Verzeichnis und einzutragende Personen
 
 Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in ihrem Bezirk zugelassenen Rechtsanwälte einschließlich der Syndikusrechtsanwälte. In ihr Verzeichnis sind zudem die folgenden Personen einzutragen:
 
@@ -38,8 +33,7 @@ Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in ihrem Bezi
 
 4. dienstleistende europäische Rechtsanwälte einschließlich dienstleistender europäischer Syndikusrechtsanwälte, sofern für diese ein besonderes elektronisches Anwaltspostfach einzurichten und dies nach § 27a Absatz 1 Satz 1 in Verbindung mit § 32 Absatz 4 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland bei ihr zu beantragen ist.
 
-
-## § 2 – Inhalt des Verzeichnisses
+# § 2 – Inhalt des Verzeichnisses
 
 (1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen Person geführt und mitgeteilt, akademische Grade und Ehrengrade sowie die Bezeichnung „Professor“ eingetragen. Nicht-juristische Grade und Bezeichnungen müssen als solche erkennbar sein. Die Rechtsanwaltskammer kann die Eintragung davon abhängig machen, dass die Berechtigung zum Führen des akademischen Grades, des Ehrengrades oder der Bezeichnung „Professor“ nachgewiesen wird.
 
@@ -62,20 +56,17 @@ Jede Rechtsanwaltskammer führt ein elektronisches Verzeichnis der in ihrem Bezi
 (+++ § 2 Abs. 1 bis 4 Satz 1 u. 2: Zur Anwendung vgl. § 17 Abs. 2 +++)  
 (+++ § 2 Abs. 5: Zur Anwendung vgl. § 17 Abs. 2 +++)
 
-
-## § 3 – Eintragungen in das Verzeichnis
+# § 3 – Eintragungen in das Verzeichnis
 
 Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt unverzüglich nach ihrer Aufnahme in die Rechtsanwaltskammer. Im Fall des § 1 Satz 2 Nummer 4 erfolgt die Eintragung unverzüglich nach der Feststellung der Voraussetzungen für die Einrichtung des besonderen elektronischen Anwaltspostfachs. Im Übrigen nimmt die Rechtsanwaltskammer Eintragungen unverzüglich vor, nachdem sie von den einzutragenden Umständen Kenntnis erlangt hat und ihr erforderliche Nachweise vorgelegt wurden.
 
-
-## § 4 – Berichtigungen des Verzeichnisses
+# § 4 – Berichtigungen des Verzeichnisses
 
 (1) Stellt die Rechtsanwaltskammer fest, dass Eintragungen in ihrem Verzeichnis unrichtig oder unvollständig sind, hat sie diese unverzüglich zu berichtigen. Insbesondere sind nicht mehr bestehende Berufs-, Berufsausübungs- oder Vertretungsverbote unverzüglich aus dem Verzeichnis zu löschen. Bestehen Zweifel an der Richtigkeit oder Vollständigkeit des Verzeichnisses, hat die Rechtsanwaltskammer Auskünfte einzuholen und gegebenenfalls die Vorlage von Nachweisen durch die eingetragene Person zu verlangen.
 
 (2) Stellt eine andere Rechtsanwaltskammer oder die Bundesrechtsanwaltskammer Umstände fest, die die Unrichtigkeit oder Unvollständigkeit eines von einer Rechtsanwaltskammer geführten Verzeichnisses nahelegen, unterrichtet sie die für die Führung des Verzeichnisses zuständige Rechtsanwaltskammer hiervon.
 
-
-## § 5 – Sperrung und Löschung von Eintragungen
+# § 5 – Sperrung und Löschung von Eintragungen
 
 (1) Scheidet eine in das Verzeichnis eingetragene Person aus der das Verzeichnis führenden Rechtsanwaltskammer aus, sperrt die Rechtsanwaltskammer unverzüglich sämtliche zu der Person eingetragenen Angaben. Die Rechtsfolge des Satzes 1 gilt sinngemäß für die gesonderte Eintragung eines Syndikusrechtsanwalts nach § 46c Absatz 5 Satz 2 der Bundesrechtsanwaltsordnung, soweit dessen Zulassung widerrufen wird. Für dienstleistende europäische Rechtsanwälte gilt Satz 1 mit der Maßgabe nach § 27a Absatz 1 Satz 3 des Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland sinngemäß.
 
@@ -87,8 +78,7 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 (5) Ist für die Abwicklung einer Kanzlei ein Abwickler bestellt, so ist im Verzeichnis zu vermerken, dass die eingetragene Person nicht mehr Mitglied der Rechtsanwaltskammer ist und dass ein Abwickler bestellt wurde.
 
-
-## § 6 – Einsichtnahme in das Verzeichnis
+# § 6 – Einsichtnahme in das Verzeichnis
 
 (1) Die Einsichtnahme in das Verzeichnis der Rechtsanwaltskammer ist ausschließlich über das Internet möglich. Eine Einsichtnahme muss jederzeit kostenfrei und ohne vorherige Registrierung möglich sein.
 
@@ -100,8 +90,7 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 (+++ § 6: Zur Anwendung vgl. § 13 Abs. 1 +++)
 
-
-## § 7 – Suchfunktion
+# § 7 – Suchfunktion
 
 (1) Die Rechtsanwaltskammern haben die Einsichtnahme in ihr Verzeichnis über eine Suchfunktion zu gewährleisten. Die Suchfunktion hat die alternative und die kumulative Suche anhand folgender Angaben zu ermöglichen:
 
@@ -121,8 +110,7 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 (2) Die Nutzung der Suchfunktion kann von der Eingabe eines auf der Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
 
-
-## § 8 – Datensicherheit und Einsehbarkeit
+# § 8 – Datensicherheit und Einsehbarkeit
 
 (1) Die das Verzeichnis führende Rechtsanwaltskammer hat zu gewährleisten, dass Eintragungen, Berichtigungen, Sperrungen, Entsperrungen und Löschungen allein durch sie selbst vorgenommen werden können. Zudem muss nachträglich überprüft und festgestellt werden können, wer diese Maßnahmen innerhalb der Rechtsanwaltskammer zu welchem Zeitpunkt vorgenommen hat.
 
@@ -130,13 +118,11 @@ Die Eintragung der nach § 1 in das Verzeichnis einzutragenden Personen erfolgt 
 
 (3) Jede Rechtsanwaltskammer hat durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Maßnahmen Vorkehrungen zu treffen, dass sie von auftretenden Fehlfunktionen des von ihr zu führenden Verzeichnisses unverzüglich Kenntnis erlangt. Schwerwiegende Fehlfunktionen hat sie unverzüglich, andere Fehlfunktionen hat sie zeitnah zu beheben.
 
-
-## § 9 – Führung des Gesamtverzeichnisses
+# § 9 – Führung des Gesamtverzeichnisses
 
 Die Bundesrechtsanwaltskammer führt ein elektronisches Gesamtverzeichnis aller in den Verzeichnissen der Rechtsanwaltskammern eingetragenen Personen. Es trägt die Bezeichnung „Bundesweites Amtliches Anwaltsverzeichnis“.
 
-
-## § 10 – Inhalt des Gesamtverzeichnisses
+# § 10 – Inhalt des Gesamtverzeichnisses
 
 Das Gesamtverzeichnis enthält zu den einzutragenden Personen
 
@@ -148,8 +134,7 @@ Das Gesamtverzeichnis enthält zu den einzutragenden Personen
 
 4. die Sprachkenntnisse und die Tätigkeitsschwerpunkte, die die eingetragenen Personen selbst eingetragen haben.
 
-
-## § 11 – Eintragungen in das Gesamtverzeichnis
+# § 11 – Eintragungen in das Gesamtverzeichnis
 
 (1) Sofern die Rechtsanwaltskammern die in ihren Verzeichnissen enthaltenen Angaben im automatisierten Verfahren in das Gesamtverzeichnis eingeben, sind die zu übertragenden Daten zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.
 
@@ -197,8 +182,7 @@ Das Gesamtverzeichnis enthält zu den einzutragenden Personen
 
 20. Verkehrs- und Transportrecht.
 
-
-## § 12 – Berichtigung des Gesamtverzeichnisses
+# § 12 – Berichtigung des Gesamtverzeichnisses
 
 (1) Sofern die Rechtsanwaltskammern in ihren Verzeichnissen enthaltene Angaben in das Gesamtverzeichnis eingegeben haben, erfolgen Berichtigungen, Sperrungen, Entsperrungen und Löschungen dieser Angaben durch die Rechtsanwaltskammern im automatisierten Verfahren. Zu diesem Zweck zu übertragende Daten sind zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.
 
@@ -206,20 +190,17 @@ Das Gesamtverzeichnis enthält zu den einzutragenden Personen
 
 (3) Die Bundesrechtsanwaltskammer ermöglicht den eingetragenen Personen die Berichtigung und Löschung der jeweiligen von ihnen im Gesamtverzeichnis eingetragenen Sprachkenntnisse und Tätigkeitsschwerpunkte.
 
-
-## § 13 – Einsichtnahme in das Gesamtverzeichnis
+# § 13 – Einsichtnahme in das Gesamtverzeichnis
 
 (1) § 6 gilt entsprechend.
 
 (2) In das Gesamtverzeichnis eingetragene Sprachkenntnisse und Tätigkeitsschwerpunkte sind ausschließlich über das Europäische Rechtsanwaltsverzeichnis einsehbar.
 
-
-## § 14 – Suchfunktion
+# § 14 – Suchfunktion
 
 Die Einsichtnahme in das Gesamtverzeichnis erfolgt über eine Suchfunktion. § 7 gilt mit der Maßgabe entsprechend, dass auch eine Suche nach der Kammerzugehörigkeit zu ermöglichen ist.
 
-
-## § 15 – Datensicherheit und Einsehbarkeit
+# § 15 – Datensicherheit und Einsehbarkeit
 
 (1) Die Bundesrechtsanwaltskammer gewährleistet, dass die von den Rechtsanwaltskammern vorzunehmenden Eingaben in das Gesamtverzeichnis allein durch die jeweils zuständige Rechtsanwaltskammer erfolgen. Von der Bundesrechtsanwaltskammer vorzunehmende Eintragungen dürfen nur durch diese erfolgen. Die Bundesrechtsanwaltskammer gewährleistet zudem, dass Sprachkenntnisse und Tätigkeitsschwerpunkte nur von der eingetragenen Person eingetragen, berichtigt und gelöscht werden können.
 
@@ -227,13 +208,11 @@ Die Einsichtnahme in das Gesamtverzeichnis erfolgt über eine Suchfunktion. § 7
 
 (3) Die Bundesrechtsanwaltskammer stellt durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Maßnahmen sicher, dass die in das Gesamtverzeichnis aufgenommenen Angaben ständig einsehbar sind. Sie hat durch solche Maßnahmen zudem Vorkehrungen zu treffen, dass sie von auftretenden Fehlfunktionen des von ihr zu führenden Verzeichnisses unverzüglich Kenntnis erlangt. Schwerwiegende Fehlfunktionen hat sie unverzüglich, andere Fehlfunktionen hat sie zeitnah zu beheben.
 
-
-## § 16 – Abruf von Angaben über das Europäische Rechtsanwaltsverzeichnis
+# § 16 – Abruf von Angaben über das Europäische Rechtsanwaltsverzeichnis
 
 Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtverzeichnisses für die Einsichtnahme über das auf den Internetseiten der Europäischen Kommission unter der Bezeichnung „Find a lawyer“ betriebene elektronische Suchsystem, das im Deutschen die Bezeichnung „Europäisches Rechtsanwaltsverzeichnis“ trägt, abrufbereit zur Verfügung. Der Abruf ist bezüglich des in § 1 Satz 1 und 2 Nummer 1 bis 3 genannten Personenkreises mit Ausnahme der Syndikusrechtsanwälte, der niedergelassenen europäischen Syndikusrechtsanwälte und der Syndikusrechtsanwälte aus anderen Staaten zu ermöglichen.
 
-
-## § 17 – Abrufbare Angaben
+# § 17 – Abrufbare Angaben
 
 (1) Die Bundesrechtsanwaltskammer ermöglicht über das Europäische Rechtsanwaltsverzeichnis den Abruf der folgenden im Gesamtverzeichnis eingetragenen Angaben:
 
@@ -255,15 +234,13 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (4) Der Abruf von weiteren, in den Absätzen 1 bis 3 nicht genannten Eintragungen im Gesamtverzeichnis darf über das Europäische Rechtsanwaltsverzeichnis nicht ermöglicht werden.
 
-
-## § 18 – Abrufbarkeit
+# § 18 – Abrufbarkeit
 
 (1) Die Bundesrechtsanwaltskammer stellt durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Maßnahmen sicher, dass in ihrem Verantwortungsbereich alle Voraussetzungen dafür erfüllt sind, dass die in § 17 genannten Angaben des Gesamtverzeichnisses jederzeit über das Europäische Rechtsanwaltsverzeichnis abrufbar sind.
 
 (2) Die Bundesrechtsanwaltskammer hat durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Maßnahmen zu gewährleisten, dass sie von in ihrem Verantwortungsbereich auftretenden Fehlfunktionen beim Abruf über das Europäische Rechtsanwaltsverzeichnis unverzüglich Kenntnis erlangt. Entsprechende schwerwiegende Fehlfunktionen hat sie unverzüglich, entsprechende andere Fehlfunktionen hat sie zeitnah zu beheben. Über sonstige ihr bekannt werdende Fehlfunktionen des Europäischen Rechtsanwaltsverzeichnisses hat sie den für dessen Führung Verantwortlichen unverzüglich zu unterrichten.
 
-
-## § 19 – Besonderes elektronisches Anwaltspostfach
+# § 19 – Besonderes elektronisches Anwaltspostfach
 
 (1) Das besondere elektronische Anwaltspostfach dient der elektronischen Kommunikation der in das Gesamtverzeichnis eingetragenen Mitglieder der Rechtsanwaltskammern, der Rechtsanwaltskammern und der Bundesrechtsanwaltskammer mit den Gerichten auf einem sicheren Übermittlungsweg. Ebenso dient es der elektronischen Kommunikation der Mitglieder der Rechtsanwaltskammern, der Rechtsanwaltskammern und der Bundesrechtsanwaltskammer untereinander.
 
@@ -273,8 +250,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (4) Vertreter, Abwickler und Zustellungsbevollmächtigte, die nicht bereits von Absatz 1 Satz 1 erfasst sind, sowie nach § 1 Satz 2 Nummer 4 eingetragene Personen stehen den Mitgliedern der Rechtsanwaltskammern nach den Absätzen 1 bis 3 gleich.
 
-
-## § 20 – Führung der besonderen elektronischen Postfächer
+# § 20 – Führung der besonderen elektronischen Postfächer
 
 (1) Die Bundesrechtsanwaltskammer hat die besonderen elektronischen Anwaltspostfächer auf der Grundlage des Protokollstandards „Online Services Computer Interface – OSCI“ oder einem künftig nach dem Stand der Technik an dessen Stelle tretenden Standard zu betreiben. Die Bundesrechtsanwaltskammer hat fortlaufend zu gewährleisten, dass die in § 19 Absatz 1 genannten Personen und Stellen miteinander sicher elektronisch kommunizieren können.
 
@@ -282,8 +258,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (3) Die Bundesrechtsanwaltskammer hat zu gewährleisten, dass bei einem Versand nicht-qualifiziert signierter elektronischer Dokumente durch einen Rechtsanwalt auf einem sicheren Übermittlungsweg für den Empfänger feststellbar ist, dass die Nachricht von dem Rechtsanwalt selbst versandt wurde.
 
-
-## § 21 – Einrichtung eines Postfachs
+# § 21 – Einrichtung eines Postfachs
 
 (1) Die Rechtsanwaltskammern unterrichten die Bundesrechtsanwaltskammer über die bevorstehende Eintragung einer Person in das Gesamtverzeichnis. Die Bundesrechtsanwaltskammer richtet unverzüglich nach der Eintragung einer Person in das Gesamtverzeichnis für diese ein besonderes elektronisches Anwaltspostfach empfangsbereit ein.
 
@@ -293,8 +268,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (4) Beantragt ein dienstleistender europäischer Rechtsanwalt die Einrichtung eines besonderen elektronischen Anwaltspostfachs, so hat er eine höchstens einen Monat alte Bescheinigung darüber vorzulegen, dass er zur Ausübung des Berufs des Rechtsanwalts in seinem Niederlassungsstaat berechtigt ist. Verliert ein dienstleistender europäischer Rechtsanwalt, für den ein besonderes elektronisches Anwaltspostfach eingerichtet wurde, seine Zulassung, ist er verpflichtet, der für ihn zuständigen Rechtsanwaltskammer diesen Verlust unverzüglich mitzuteilen. Hierüber ist er von der Rechtsanwaltskammer zu belehren. Die Rechtsanwaltskammer hat zudem die für die Zulassung des Rechtsanwalts in seinem Niederlassungsstaat zuständige Stelle darum zu bitten, ihr einen Verlust der Zulassung unverzüglich mitzuteilen.
 
-
-## § 22 – Erstanmeldung am Postfach
+# § 22 – Erstanmeldung am Postfach
 
 (1) Die Erstanmeldung des Postfachinhabers an seinem besonderen elektronischen Anwaltspostfach erfolgt unter Verwendung eines für ihn zu diesem Zweck erzeugten und auf einer Hardwarekomponente gespeicherten Zertifikats, das die eindeutige Bezeichnung des Postfachs enthält, sowie unter Verwendung der zugehörigen Zertifikats-PIN. Eine Hardwarekomponente im Sinne des Satzes 1 und des § 23 muss vergleichbaren Anforderungen genügen, wie sie nach dem Anhang II der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) für qualifizierte elektronische Signaturerstellungseinheiten gelten.
 
@@ -314,8 +288,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (5) Die Bundesrechtsanwaltskammer hat das zur Erstanmeldung erteilte Zertifikat unverzüglich zu sperren, wenn Anhaltspunkte dafür bestehen, dass die Voraussetzungen nach Absatz 3 Nummer 2 bis 4 nicht erfüllt sind.
 
-
-## § 23 – Weitere Zugangsberechtigungen zum Postfach
+# § 23 – Weitere Zugangsberechtigungen zum Postfach
 
 (1) Der Postfachinhaber kann mit einem auf einer Hardwarekomponente gespeicherten Zertifikat weitere ihm zugeordnete Zertifikate berechtigen, ihm Zugang zu seinem besonderen elektronischen Anwaltspostfach zu gewähren. Diese Zertifikate müssen nicht auf einer Hardwarekomponente gespeichert sein. Zu ihnen muss jedoch ebenfalls eine Zertifikats-PIN gehören. Zudem müssen sie von einem von der Bundesrechtsanwaltskammer anerkannten Zertifizierungsdiensteanbieter authentifiziert sein.
 
@@ -325,15 +298,13 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (4) Der Postfachinhaber und die von ihm entsprechend ermächtigten anderen Personen können erteilte Zugangsberechtigungen jederzeit ändern und widerrufen.
 
-
-## § 24 – Zugang zum Postfach
+# § 24 – Zugang zum Postfach
 
 (1) Die Anmeldung des Inhabers an seinem besonderen elektronischen Anwaltspostfach erfolgt mit einem ihm zugeordneten Zertifikat und der zugehörigen Zertifikats-PIN. Hat der Inhaber die Nutzung des Postfachs beendet, hat er sich abzumelden. Die Bundesrechtsanwaltskammer hat für den Fall, dass der aktivierte Zugang für eine bestimmte Zeitdauer nicht genutzt wird, eine automatische Abmeldung des Postfachinhabers durch das System vorzusehen. Bei der Bemessung der Zeitdauer sind die Belange des Datenschutzes gegen den Aufwand für die erneute Anmeldung abzuwägen.
 
 (2) Die Anmeldung anderer Personen an einem besonderen elektronischen Anwaltspostfach erfolgt mit einem ihnen zugeordneten Zertifikat und der zugehörigen Zertifikats-PIN; Absatz 1 Satz 2 bis 4 gilt entsprechend.
 
-
-## § 25 – Vertreter, Abwickler und Zustellungsbevollmächtigte
+# § 25 – Vertreter, Abwickler und Zustellungsbevollmächtigte
 
 (1) Verfügt eine Person, die für eine im Gesamtverzeichnis eingetragene Person als Vertreter oder Abwickler bestellt oder von ihr als Zustellungsbevollmächtigte benannt wird, nicht über ein besonderes elektronisches Anwaltspostfach, unterrichtet die für die eingetragene Person zuständige Rechtsanwaltskammer die Bundesrechtsanwaltskammer über deren Bestellung oder Benennung. Sie übermittelt hierzu die Angaben zur Identität der eingetragenen Person sowie den Familiennamen, die Vornamen und eine zustellfähige Anschrift der Person, für die das Postfach einzurichten ist. Die Bundesrechtsanwaltskammer richtet daraufhin für die bestellte oder benannte Person für die Dauer ihrer Tätigkeit ein besonderes elektronisches Anwaltspostfach ein.
 
@@ -343,8 +314,7 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 (4) Im Übrigen haben Vertreter und Zustellungsbevollmächtigte Berechtigungen am besonderen elektronischen Anwaltspostfach der Person, für die sie bestellt oder von der sie benannt wurden, nur, soweit sie hierzu nach § 23 Absatz 2 bis 4 berechtigt wurden.
 
-
-## § 26 – Datensicherheit
+# § 26 – Datensicherheit
 
 (1) Die Inhaber eines für sie erzeugten Zertifikats dürfen dieses keiner weiteren Person überlassen und haben die dem Zertifikat zugehörige Zertifikats-PIN geheim zu halten.
 
@@ -358,13 +328,11 @@ Die Bundesrechtsanwaltskammer stellt die in § 17 genannten Angaben des Gesamtve
 
 4. sonst von einer Person mittels eines Zertifikats auf das besondere elektronische Anwaltspostfach unbefugt zugegriffen werden könnte.
 
-
-## § 27 – Automatisches Löschen von Nachrichten
+# § 27 – Automatisches Löschen von Nachrichten
 
 Nachrichten dürfen frühestens 90 Tage nach ihrem Eingang automatisch in den Papierkorb des besonderen elektronischen Anwaltspostfachs verschoben werden. Im Papierkorb befindliche Nachrichten dürfen frühestens nach 30 Tagen automatisch gelöscht werden.
 
-
-## § 28 – Aufhebung der Zugangsberechtigung und Sperrung
+# § 28 – Aufhebung der Zugangsberechtigung und Sperrung
 
 (1) Die Bundesrechtsanwaltskammer sperrt ein besonderes elektronisches Anwaltspostfach, wenn die Eintragungen zum Postfachinhaber im Gesamtverzeichnis gesperrt wurden. Der Zugang zu einem gesperrten besonderen elektronischen Anwaltspostfach ist nicht möglich. Dies gilt für den Postfachinhaber und alle anderen Personen, denen eine Zugangsberechtigung zu dem Postfach erteilt wurde. Die Sätze 1 bis 3 gelten nicht, wenn der Postfachinhaber von einer Rechtsanwaltskammer in eine andere wechselt.
 
@@ -374,27 +342,22 @@ Nachrichten dürfen frühestens 90 Tage nach ihrem Eingang automatisch in den Pa
 
 (4) Wird eine Sperrung der Eintragung des Postfachinhabers im Gesamtverzeichnis aufgehoben, ist auch die Sperrung des besonderen elektronischen Anwaltspostfachs unverzüglich rückgängig zu machen.
 
-
-## § 29 – Löschung des Postfachs
+# § 29 – Löschung des Postfachs
 
 Gesperrte besondere elektronische Anwaltspostfächer werden einschließlich der darin gespeicherten Nachrichten sechs Monate nach der Sperrung gelöscht. Wird ein Abwickler bestellt, erfolgt die Löschung nicht vor Beendigung der Abwicklung.
 
-
-## § 30 – Die Rechtsanwaltschaft bei dem Bundesgerichtshof
+# § 30 – Die Rechtsanwaltschaft bei dem Bundesgerichtshof
 
 Von den Aufgaben, die nach dieser Verordnung der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und für Verbraucherschutz die Aufgaben wahr, die mit der Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof, dem Erlöschen dieser Zulassung und der Bestellung eines Vertreters oder Abwicklers für einen Rechtsanwalt bei dem Bundesgerichtshof verbunden sind.
 
+# § 31 – (weggefallen)
 
-## § 31 – (weggefallen)
-
-
-## § 32 – Inkrafttreten
+# § 32 – Inkrafttreten
 
 (1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.
 
 (2) § 2 Absatz 6 Satz 3, Absatz 7 bis 9, § 7 Absatz 1 Satz 2 Nummer 5 und 6, § 20 Absatz 3 sowie § 23 Absatz 3 Satz 5 treten am 1. Januar 2018 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

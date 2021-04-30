@@ -1,15 +1,11 @@
-# [FPfZG] Gesetz über die Familienpflegezeit  (Familienpflegezeitgesetz - FPfZG)
-
-Ausfertigungsdatum: 06.12.2011
-
+% Gesetz über die Familienpflegezeit  (Familienpflegezeitgesetz - FPfZG)
+% Ausfertigungsdatum: 06.12.2011
  
-
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 Durch die Einführung der Familienpflegezeit werden die Möglichkeiten zur Vereinbarkeit von Beruf und familiärer Pflege verbessert.
 
-
-## § 2 – Familienpflegezeit
+# § 2 – Familienpflegezeit
 
 (1) Beschäftigte sind von der Arbeitsleistung für längstens 24 Monate (Höchstdauer) teilweise freizustellen, wenn sie einen pflegebedürftigen nahen Angehörigen in häuslicher Umgebung pflegen (Familienpflegezeit). Während der Familienpflegezeit muss die verringerte Arbeitszeit wöchentlich mindestens 15 Stunden betragen. Bei unterschiedlichen wöchentlichen Arbeitszeiten oder einer unterschiedlichen Verteilung der wöchentlichen Arbeitszeit darf die wöchentliche Arbeitszeit im Durchschnitt eines Zeitraums von bis zu einem Jahr 15 Stunden nicht unterschreiten (Mindestarbeitszeit). Der Anspruch nach Satz 1 besteht nicht gegenüber Arbeitgebern mit in der Regel 25 oder weniger Beschäftigten ausschließlich der zu ihrer Berufsbildung Beschäftigten.
 
@@ -23,8 +19,7 @@ Durch die Einführung der Familienpflegezeit werden die Möglichkeiten zur Verei
 
 (+++ Zur Anwendung vgl. § 9 F. 2020-05-19 +++)
 
-
-## § 2a – Inanspruchnahme der Familienpflegezeit
+# § 2a – Inanspruchnahme der Familienpflegezeit
 
 (1) Wer Familienpflegezeit nach § 2 beanspruchen will, muss dies dem Arbeitgeber spätestens acht Wochen vor dem gewünschten Beginn schriftlich ankündigen und gleichzeitig erklären, für welchen Zeitraum und in welchem Umfang innerhalb der Gesamtdauer nach § 2 Absatz 2 die Freistellung von der Arbeitsleistung in Anspruch genommen werden soll. Dabei ist auch die gewünschte Verteilung der Arbeitszeit anzugeben. Enthält die Ankündigung keine eindeutige Festlegung, ob die oder der Beschäftigte Pflegezeit nach § 3 des Pflegezeitgesetzes oder Familienpflegezeit in Anspruch nehmen will, und liegen die Voraussetzungen beider Freistellungsansprüche vor, gilt die Erklärung als Ankündigung von Pflegezeit. Wird die Familienpflegezeit nach einer Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes zur Pflege oder Betreuung desselben pflegebedürftigen Angehörigen in Anspruch genommen, muss sich die Familienpflegezeit unmittelbar an die Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes anschließen. In diesem Fall soll die oder der Beschäftigte möglichst frühzeitig erklären, ob sie oder er Familienpflegezeit in Anspruch nehmen wird; abweichend von Satz 1 muss die Ankündigung spätestens drei Monate vor Beginn der Familienpflegezeit erfolgen. Wird eine Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes nach einer Familienpflegezeit in Anspruch genommen, ist die Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes in unmittelbarem Anschluss an die Familienpflegezeit zu beanspruchen und dem Arbeitgeber spätestens acht Wochen vor Beginn der Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes schriftlich anzukündigen.
 
@@ -40,8 +35,7 @@ Durch die Einführung der Familienpflegezeit werden die Möglichkeiten zur Verei
 
 (+++ Zur Anwendung vgl. § 9 F. 2020-05-19 +++)
 
-
-## § 2b – Erneute Familienpflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
+# § 2b – Erneute Familienpflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 (1) Abweichend von § 2a Absatz 3 können Beschäftigte einmalig nach einer beendeten Familienpflegezeit zur Pflege und Betreuung desselben pflegebedürftigen Angehörigen Familienpflegezeit erneut, jedoch insgesamt nur bis zur Höchstdauer nach § 2 Absatz 1 in Anspruch nehmen, wenn die Gesamtdauer von 24 Monaten nach § 2 Absatz 2 nicht überschritten wird und die Inanspruchnahme der beendeten Familienpflegezeit auf der Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie erfolgte.
 
@@ -49,8 +43,7 @@ Durch die Einführung der Familienpflegezeit werden die Möglichkeiten zur Verei
 
 (3) Abweichend von § 2a Absatz 1 Satz 6 muss sich die Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes nicht unmittelbar an die Familienpflegezeit anschließen, wenn die Inanspruchnahme der Familienpflegezeit aufgrund der Sonderregelungen aus Anlass der COVID-19-Pandemie erfolgte und die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten ab Beginn der ersten Freistellung nicht überschritten wird.
 
-
-## § 3 – Förderung der pflegebedingten Freistellung von der Arbeitsleistung
+# § 3 – Förderung der pflegebedingten Freistellung von der Arbeitsleistung
 
 (1) Für die Dauer der Freistellungen nach § 2 dieses Gesetzes oder nach § 3 des Pflegezeitgesetzes gewährt das Bundesamt für Familie und zivilgesellschaftliche Aufgaben Beschäftigten auf Antrag ein in monatlichen Raten zu zahlendes zinsloses Darlehen nach Maßgabe der Absätze 2 bis 5. Der Anspruch gilt auch für alle Vereinbarungen über Freistellungen von der Arbeitsleistung, die die Voraussetzungen von § 2 Absatz 1 Satz 1 bis 3 dieses Gesetzes oder des § 3 Absatz 1 Satz 1, Absatz 5 Satz 1 oder Absatz 6 Satz 1 des Pflegezeitgesetzes erfüllen.
 
@@ -64,27 +57,23 @@ Durch die Einführung der Familienpflegezeit werden die Möglichkeiten zur Verei
 
 (6) Das Darlehen ist in der in Absatz 2 genannten Höhe, in den Fällen der Pflegezeit in der in Absatz 4 genannten Höhe, vorrangig vor dem Bezug von bedürftigkeitsabhängigen Sozialleistungen in Anspruch zu nehmen und von den Beschäftigten zu beantragen; Absatz 5 ist insoweit nicht anzuwenden. Bei der Berechnung von Sozialleistungen nach Satz 1 sind die Zuflüsse aus dem Darlehen als Einkommen zu berücksichtigen.
 
-
-## § 4 – Mitwirkungspflicht des Arbeitgebers
+# § 4 – Mitwirkungspflicht des Arbeitgebers
 
 Der Arbeitgeber hat dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben für bei ihm Beschäftigte den Arbeitsumfang sowie das Arbeitsentgelt vor der Freistellung nach § 3 Absatz 1 zu bescheinigen, soweit dies zum Nachweis des Einkommens aus Erwerbstätigkeit oder der wöchentlichen Arbeitszeit der die Förderung beantragenden Beschäftigten erforderlich ist. Für die in Heimarbeit Beschäftigten und die ihnen Gleichgestellten tritt an die Stelle des Arbeitgebers der Auftraggeber oder Zwischenmeister.
 
-
-## § 5 – Ende der Förderfähigkeit
+# § 5 – Ende der Förderfähigkeit
 
 (1) Die Förderfähigkeit endet mit dem Ende der Freistellung nach § 3 Absatz 1. Die Förderfähigkeit endet auch dann, wenn die oder der Beschäftigte während der Freistellung nach § 2 den Mindestumfang der wöchentlichen Arbeitszeit aufgrund gesetzlicher oder kollektivvertraglicher Bestimmungen oder aufgrund von Bestimmungen, die in Arbeitsrechtsregelungen der Kirchen enthalten sind, unterschreitet. Die Unterschreitung der Mindestarbeitszeit aufgrund von Kurzarbeit oder eines Beschäftigungsverbotes lässt die Förderfähigkeit unberührt.
 
 (2) Die Darlehensnehmerin oder der Darlehensnehmer hat dem Bundesamt für Familie und zivilgesellschaftliche Aufgaben unverzüglich jede Änderung in den Verhältnissen, die für den Anspruch nach § 3 Absatz 1 erheblich sind, mitzuteilen, insbesondere die Beendigung der häuslichen Pflege der oder des nahen Angehörigen, die Beendigung der Betreuung nach § 2 Absatz 5 dieses Gesetzes oder § 3 Absatz 5 des Pflegezeitgesetzes, die Beendigung der Freistellung nach § 3 Absatz 6 des Pflegezeitgesetzes, die vorzeitige Beendigung der Freistellung nach § 3 Absatz 1 sowie die Unterschreitung des Mindestumfangs der wöchentlichen Arbeitszeit während der Freistellung nach § 2 aus anderen als den in Absatz 1 Satz 2 genannten Gründen.
 
-
-## § 6 – Rückzahlung des Darlehens
+# § 6 – Rückzahlung des Darlehens
 
 (1) Im Anschluss an die Freistellung nach § 3 Absatz 1 ist die Darlehensnehmerin oder der Darlehensnehmer verpflichtet, das Darlehen innerhalb von 48 Monaten nach Beginn der Freistellung nach § 3 Absatz 1 zurückzuzahlen. Die Rückzahlung erfolgt in möglichst gleichbleibenden monatlichen Raten in Höhe des im Bescheid nach § 9 festgesetzten monatlichen Betrags jeweils spätestens zum letzten Bankarbeitstag des laufenden Monats. Für die Rückzahlung gelten alle nach § 3 an die Darlehensnehmerin oder den Darlehensnehmer geleisteten Darlehensbeträge als ein Darlehen.
 
 (2) Die Rückzahlung beginnt in dem Monat, der auf das Ende der Förderung der Freistellung nach § 3 Absatz 1 folgt. Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben kann auf Antrag der Darlehensnehmerin oder des Darlehensnehmers den Beginn der Rückzahlung auf einen späteren Zeitpunkt, spätestens jedoch auf den 25. Monat nach Beginn der Förderung festsetzen, wenn die übrigen Voraussetzungen für den Anspruch nach den §§ 2 und 3 weiterhin vorliegen. Befindet sich die Darlehensnehmerin oder der Darlehensnehmer während des Rückzahlungszeitraums in einer Freistellung nach § 3 Absatz 1, setzt das Bundesamt für Familie und zivilgesellschaftliche Aufgaben auf Antrag der oder des Beschäftigten die monatlichen Rückzahlungsraten bis zur Beendigung der Freistellung von der Arbeitsleistung aus. Der Rückzahlungszeitraum verlängert sich um den Zeitraum der Aussetzung.
 
-
-## § 7 – Härtefallregelung
+# § 7 – Härtefallregelung
 
 (1) Zur Vermeidung einer besonderen Härte stundet das Bundesamt für Familie und zivilgesellschaftliche Aufgaben der Darlehensnehmerin oder dem Darlehensnehmer auf Antrag die Rückzahlung des Darlehens, ohne dass hierfür Zinsen anfallen. Als besondere Härte gelten insbesondere der Bezug von Entgeltersatzleistungen nach dem Dritten und dem Fünften Buch Sozialgesetzbuch, Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch und Leistungen nach dem Dritten und Vierten Kapitel des Zwölften Buches Sozialgesetzbuch oder eine mehr als 180 Tage ununterbrochene Arbeitsunfähigkeit. Eine besondere Härte liegt auch vor, wenn sich die Darlehensnehmerin oder der Darlehensnehmer wegen unverschuldeter finanzieller Belastungen vorübergehend in ernsthaften Zahlungsschwierigkeiten befindet oder zu erwarten ist, dass sie oder er durch die Rückzahlung des Darlehens in der vorgesehenen Form in solche Schwierigkeiten gerät.
 
@@ -98,8 +87,7 @@ Der Arbeitgeber hat dem Bundesamt für Familie und zivilgesellschaftliche Aufgab
 
 (4) Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung und der Erlass von Ansprüchen richten sich, sofern in diesem Gesetz nicht abweichende Regelungen getroffen werden, nach den §§ 58 und 59 der Bundeshaushaltsordnung.
 
-
-## § 8 – Antrag auf Förderung
+# § 8 – Antrag auf Förderung
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben entscheidet auf schriftlichen Antrag über das Darlehen nach § 3 und dessen Rückzahlung nach § 6.
 
@@ -123,8 +111,7 @@ Der Arbeitgeber hat dem Bundesamt für Familie und zivilgesellschaftliche Aufgab
 
 2. in den Fällen der vollständigen Freistellung nach § 3 des Pflegezeitgesetzes eine Bescheinigung des Arbeitgebers über die Freistellung und in den Fällen der teilweisen Freistellung die hierüber getroffene schriftliche Vereinbarung zwischen dem Arbeitgeber und der oder dem Beschäftigten.
 
-
-## § 9 – Darlehensbescheid und Zahlweise
+# § 9 – Darlehensbescheid und Zahlweise
 
 (1) In dem Bescheid nach § 8 Absatz 1 sind anzugeben:
 
@@ -142,8 +129,7 @@ Wurde dem Antragsteller für eine vor dem Antrag liegende Freistellung nach § 3
 
 (3) Die Darlehensraten werden unbar zu Beginn jeweils für den Kalendermonat ausgezahlt, in dem die Anspruchsvoraussetzungen vorliegen. Monatliche Förderungsbeträge, die nicht volle Euro ergeben, sind bei Restbeträgen bis zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden.
 
-
-## § 10 – Antrag und Nachweis in weiteren Fällen
+# § 10 – Antrag und Nachweis in weiteren Fällen
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben entscheidet auch in den Fällen des § 7 auf schriftlichen Antrag, der Name und Anschrift der Darlehensnehmerin oder des Darlehensnehmers enthalten muss.
 
@@ -157,13 +143,11 @@ Wurde dem Antragsteller für eine vor dem Antrag liegende Freistellung nach § 3
 
 (3) Anträge auf Teildarlehenserlass nach § 7 Absatz 2 sind bis spätestens 48 Monate nach Beginn der Freistellungen nach § 2 dieses Gesetzes oder nach § 3 Absatz 1 oder 5 des Pflegezeitgesetzes zu stellen.
 
-
-## § 11 – Allgemeine Verwaltungsvorschriften
+# § 11 – Allgemeine Verwaltungsvorschriften
 
 Zur Durchführung des Verfahrens nach den §§ 8 und 10 kann das Bundesministerium für Familie, Senioren, Frauen und Jugend allgemeine Verwaltungsvorschriften erlassen.
 
-
-## § 12 – Bußgeldvorschriften
+# § 12 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -179,13 +163,11 @@ Zur Durchführung des Verfahrens nach den §§ 8 und 10 kann das Bundesministeri
 
 (4) Die Geldbußen fließen in die Kasse des Bundesamtes für Familie und zivilgesellschaftliche Aufgaben. Diese trägt abweichend von § 105 Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des Gesetzes über Ordnungswidrigkeiten.
 
-
-## § 13 – Aufbringung der Mittel
+# § 13 – Aufbringung der Mittel
 
 Die für die Ausführung dieses Gesetzes erforderlichen Mittel trägt der Bund.
 
-
-## § 14 – Beirat
+# § 14 – Beirat
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend setzt einen unabhängigen Beirat für die Vereinbarkeit von Pflege und Beruf ein.
 
@@ -201,13 +183,11 @@ Die für die Ausführung dieses Gesetzes erforderlichen Mittel trägt der Bund.
 
 (7) Der Beirat arbeitet auf der Grundlage einer durch das Bundesministerium für Familie, Senioren, Frauen und Jugend zu erlassenden Geschäftsordnung.
 
-
-## § 15 – Übergangsvorschrift
+# § 15 – Übergangsvorschrift
 
 Die Vorschriften des Familienpflegezeitgesetzes in der Fassung vom 6. Dezember 2011 gelten in den Fällen fort, in denen die Voraussetzungen für die Gewährung eines Darlehens nach § 3 Absatz 1 in Verbindung mit § 12 Absatz 1 Satz 1 bis einschließlich 31. Dezember 2014 vorlagen.
 
-
-## § 16 – Sonderregelungen aus Anlass der COVID-19-Pandemie
+# § 16 – Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 (1) Abweichend von § 2 Absatz 1 Satz 2 gilt, dass die wöchentliche Mindestarbeitszeit von 15 Wochenstunden vorübergehend unterschritten werden darf, längstens jedoch für die Dauer von einem Monat.
 

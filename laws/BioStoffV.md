@@ -1,12 +1,7 @@
-# [BioStoffV] Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen  (Biostoffverordnung - BioStoffV)
-
-Ausfertigungsdatum: 15.07.2013
-
+% Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen  (Biostoffverordnung - BioStoffV)
+% Ausfertigungsdatum: 15.07.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -16,15 +11,15 @@ Ausfertigungsdatum: 15.07.2013
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Tätigkeiten mit Biologischen Arbeitsstoffen (Biostoffen). Sie regelt Maßnahmen zum Schutz von Sicherheit und Gesundheit der Beschäftigten vor Gefährdungen durch diese Tätigkeiten. Sie regelt zugleich auch Maßnahmen zum Schutz anderer Personen, soweit diese aufgrund des Verwendens von Biostoffen durch Beschäftigte oder durch Unternehmer ohne Beschäftigte gefährdet werden können.
 
 (2) Die Verordnung gilt auch für Tätigkeiten, die dem Gentechnikrecht unterliegen, sofern dort keine gleichwertigen oder strengeren Regelungen zum Schutz der Beschäftigten bestehen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Biostoffe sind
 
@@ -92,8 +87,7 @@ Auf Schülerinnen und Schüler, Studierende sowie sonstige Personen nach Nummer 
 
 (15) Biotechnologie im Sinne dieser Verordnung umfasst die biotechnologische Produktion sowie die biotechnologische Forschung unter gezieltem Einsatz definierter Biostoffe.
 
-
-## § 3 – Einstufung von Biostoffen in Risikogruppen
+# § 3 – Einstufung von Biostoffen in Risikogruppen
 
 (1) Biostoffe werden entsprechend dem von ihnen ausgehenden Infektionsrisiko nach dem Stand der Wissenschaft in eine der folgenden Risikogruppen eingestuft:
 
@@ -117,8 +111,7 @@ Auf Schülerinnen und Schüler, Studierende sowie sonstige Personen nach Nummer 
 
 3. Stämme, die abgeschwächt sind oder bekannte Virulenzgene verloren haben, können vorbehaltlich einer angemessenen Ermittlung und Bewertung in eine niedrigere Risikogruppe eingestuft werden als der Elternstamm (parentaler Stamm); ist der Elternstamm in die Risikogruppe 3 oder 4 eingestuft, kann eine Herabstufung nur auf der Grundlage einer wissenschaftlichen Bewertung erfolgen, die insbesondere der Ausschuss nach § 19 vornehmen kann.
 
-
-## § 4 – Gefährdungsbeurteilung
+# § 4 – Gefährdungsbeurteilung
 
 (1) Im Rahmen der Gefährdungsbeurteilung nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber die Gefährdung der Beschäftigten durch die Tätigkeiten mit Biostoffen vor Aufnahme der Tätigkeit zu beurteilen. Die Gefährdungsbeurteilung ist fachkundig durchzuführen. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, so hat er sich fachkundig beraten zu lassen.
 
@@ -152,8 +145,7 @@ c) aus der arbeitsmedizinischen Vorsorge.
 
 (5) Sind bei Tätigkeiten mit Produkten, die Biostoffe enthalten, die erforderlichen Informationen zur Gefährdungsbeurteilung wie zum Beispiel die Risikogruppeneinstufung nicht zu ermitteln, so muss der Arbeitgeber diese beim Hersteller, Einführer oder Inverkehrbringer einholen. Satz 1 gilt nicht für Lebensmittel in Form von Fertigerzeugnissen, die für den Endverbrauch bestimmt sind.
 
-
-## § 5 – Tätigkeiten mit Schutzstufenzuordnung
+# § 5 – Tätigkeiten mit Schutzstufenzuordnung
 
 (1) Bei Tätigkeiten in Laboratorien, in der Versuchstierhaltung, in der Biotechnologie sowie in Einrichtungen des Gesundheitsdienstes hat der Arbeitgeber ergänzend zu § 4 Absatz 3 zu ermitteln, ob gezielte oder nicht gezielte Tätigkeiten ausgeübt werden. Er hat diese Tätigkeiten hinsichtlich ihrer Infektionsgefährdung einer Schutzstufe zuzuordnen.
 
@@ -171,8 +163,7 @@ c) der Art, Dauer, Höhe und Häufigkeit der ermittelten Exposition
 
 den Grad der Infektionsgefährdung der Beschäftigten bestimmt.
 
-
-## § 6 – Tätigkeiten ohne Schutzstufenzuordnung
+# § 6 – Tätigkeiten ohne Schutzstufenzuordnung
 
 (1) Tätigkeiten, die nicht unter § 5 Absatz 1 fallen, müssen keiner Schutzstufe zugeordnet werden. Dabei handelt es sich um Tätigkeiten im Sinne von § 2 Absatz 7 Nummer 2. Zu diesen Tätigkeiten gehören beispielsweise Reinigungs- und Sanierungsarbeiten, Tätigkeiten in der Veterinärmedizin, der Land-, Forst-, Abwasser- und Abfallwirtschaft sowie in Biogasanlagen und Schlachtbetrieben.
 
@@ -184,8 +175,7 @@ den Grad der Infektionsgefährdung der Beschäftigten bestimmt.
 
 3. sonstigen gesicherten arbeitswissenschaftlichen Erkenntnissen.
 
-
-## § 7 – Dokumentation der Gefährdungsbeurteilung und Aufzeichnungspflichten
+# § 7 – Dokumentation der Gefährdungsbeurteilung und Aufzeichnungspflichten
 
 (1) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der Zahl der Beschäftigten erstmals vor Aufnahme der Tätigkeit sowie danach jede Aktualisierung gemäß Satz 2 zu dokumentieren. Die Dokumentation der Gefährdungsbeurteilung umfasst insbesondere folgende Angaben:
 
@@ -211,8 +201,7 @@ Das Verzeichnis über die Beschäftigten kann zusammen mit dem Biostoffverzeichn
 
 (4) Auf die Dokumentation der Angaben nach Absatz 1 Satz 2 Nummer 2 und 5 sowie auf das Verzeichnis nach Absatz 2 kann verzichtet werden, wenn ausschließlich Tätigkeiten mit Biostoffen der Risikogruppe 1 ohne sensibilisierende oder toxische Wirkungen durchgeführt werden.
 
-
-## § 8 – Grundpflichten
+# § 8 – Grundpflichten
 
 (1) Der Arbeitgeber hat die Belange des Arbeitsschutzes in Bezug auf Tätigkeiten mit Biostoffen in seine betriebliche Organisation einzubinden und hierfür die erforderlichen personellen, finanziellen und organisatorischen Voraussetzungen zu schaffen. Dabei hat er die Vertretungen der Beschäftigten in geeigneter Form zu beteiligen. Insbesondere hat er sicherzustellen, dass
 
@@ -240,8 +229,7 @@ Das Verzeichnis über die Beschäftigten kann zusammen mit dem Biostoffverzeichn
 
 (7) Der Arbeitgeber darf in Heimarbeit nur Tätigkeiten mit Biostoffen der Risikogruppe 1 ohne sensibilisierende oder toxische Wirkung ausüben lassen.
 
-
-## § 9 – Allgemeine Schutzmaßnahmen
+# § 9 – Allgemeine Schutzmaßnahmen
 
 (1) Bei allen Tätigkeiten mit Biostoffen müssen mindestens die allgemeinen Hygienemaßnahmen eingehalten werden. Insbesondere hat der Arbeitgeber dafür zu sorgen, dass
 
@@ -281,8 +269,7 @@ Das Verzeichnis über die Beschäftigten kann zusammen mit dem Biostoffverzeichn
 
 (5) Bei der medizinischen Untersuchung, Behandlung und Pflege von Patienten außerhalb von Einrichtungen des Gesundheitsdienstes findet § 11 Absatz 2 bis 5 Anwendung. Bei diesen Tätigkeiten hat der Arbeitgeber in Arbeitsanweisungen den Umgang mit persönlicher Schutzausrüstung und Arbeitskleidung sowie die erforderlichen Maßnahmen zur Hygiene und zur Desinfektion festzulegen.
 
-
-## § 10 – Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Laboratorien, in der Versuchstierhaltung sowie in der Biotechnologie
+# § 10 – Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Laboratorien, in der Versuchstierhaltung sowie in der Biotechnologie
 
 (1) Zusätzlich zu den Schutzmaßnahmen nach § 9 hat der Arbeitgeber vor Aufnahme der Tätigkeiten der Schutzstufe 2, 3 oder 4 in Laboratorien, in der Versuchstierhaltung oder in der Biotechnologie
 
@@ -314,8 +301,7 @@ b) Durchführung der Unterweisung nach § 14 Absatz 2,
 
 Der Arbeitgeber hat die Aufgaben und die Befugnisse dieser Person schriftlich festzulegen. Sie darf wegen der Erfüllung der ihr übertragenen Aufgaben nicht benachteiligt werden. Ihr ist für die Durchführung der Aufgaben ausreichend Zeit zur Verfügung zu stellen. Satz 1 gilt nicht für Tätigkeiten mit Biostoffen der Risikogruppe 3, die mit (\*\*) gekennzeichnet sind.
 
-
-## § 11 – Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen des Gesundheitsdienstes
+# § 11 – Zusätzliche Schutzmaßnahmen und Anforderungen bei Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen des Gesundheitsdienstes
 
 (1) Zusätzlich zu den Schutzmaßnahmen nach § 9 hat der Arbeitgeber vor Aufnahme der Tätigkeiten der Schutzstufe 2, 3 oder 4 in Einrichtungen des Gesundheitsdienstes in Abhängigkeit von der Gefährdungsbeurteilung
 
@@ -341,13 +327,11 @@ Der Arbeitgeber hat die Aufgaben und die Befugnisse dieser Person schriftlich fe
 
 3. eine Person im Sinne von § 10 Absatz 2 Satz 1 zu benennen und mit den Aufgaben nach § 10 Absatz 2 Satz 2 zu beauftragen.
 
-
-## § 12 – Arbeitsmedizinische Vorsorge
+# § 12 – Arbeitsmedizinische Vorsorge
 
 Die Verordnung zur arbeitsmedizinischen Vorsorge in der jeweils geltenden Fassung gilt auch für den in § 2 Absatz 9 Satz 2 genannten Personenkreis.
 
-
-## § 13 – Betriebsstörungen, Unfälle
+# § 13 – Betriebsstörungen, Unfälle
 
 (1) Der Arbeitgeber hat vor Aufnahme einer Tätigkeit der Schutzstufen 2 bis 4 die erforderlichen Maßnahmen festzulegen, die bei Betriebsstörungen oder Unfällen notwendig sind, um die Auswirkungen auf die Sicherheit und Gesundheit der Beschäftigten und anderer Personen zu minimieren und den normalen Betriebsablauf wiederherzustellen. In Abhängigkeit von der Art möglicher Ereignisse und verwendeter oder vorkommender Biostoffe ist insbesondere Folgendes festzulegen:
 
@@ -369,8 +353,7 @@ Die Festlegungen sind gemäß § 14 Absatz 1 Satz 4 Nummer 3 ein Bestandteil der
 
 (5) Der Arbeitgeber hat vor Aufnahme der Tätigkeiten ein Verfahren für Unfallmeldungen und -untersuchungen sowie die Vorgehensweise zur Unterrichtung der Beschäftigten und ihrer Vertretungen festzulegen. Das Verfahren ist so zu gestalten, dass bei schweren Unfällen sowie bei Nadelstichverletzungen mögliche organisatorische und technische Unfallursachen erkannt werden können und individuelle Schuldzuweisungen vermieden werden. Die Beschäftigten und ihre Vertretungen sind über Betriebsstörungen und Unfälle mit Biostoffen, die die Sicherheit oder Gesundheit der Beschäftigten gefährden können, unverzüglich zu unterrichten.
 
-
-## § 14 – Betriebsanweisung und Unterweisung der Beschäftigten
+# § 14 – Betriebsanweisung und Unterweisung der Beschäftigten
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung nach § 4 vor Aufnahme der Tätigkeit eine schriftliche Betriebsanweisung arbeitsbereichs- und biostoffbezogen zu erstellen. Satz 1 gilt nicht, wenn ausschließlich Tätigkeiten mit Biostoffen der Risikogruppe 1 ohne sensibilisierende oder toxische Wirkungen ausgeübt werden. Die Betriebsanweisung ist den Beschäftigten zur Verfügung zu stellen. Sie muss in einer für die Beschäftigten verständlichen Form und Sprache verfasst sein und insbesondere folgende Informationen enthalten:
 
@@ -406,8 +389,7 @@ Die Betriebsanweisung muss bei jeder maßgeblichen Veränderung der Arbeitsbedin
 
 3. Tätigkeiten, bei denen bei einem Unfall mit schweren Infektionen zu rechnen ist; dies kann bei der Entnahme von Proben menschlichen oder tierischen Ursprungs der Fall sein.
 
-
-## § 15 – Erlaubnispflicht
+# § 15 – Erlaubnispflicht
 
 (1) Der Arbeitgeber bedarf der Erlaubnis der zuständigen Behörde, bevor Tätigkeiten der Schutzstufe 3 oder 4 in Laboratorien, in der Versuchstierhaltung oder in der Biotechnologie erstmals aufgenommen werden. Die Erlaubnis umfasst die baulichen, technischen und organisatorischen Voraussetzungen nach dieser Verordnung zum Schutz der Beschäftigten und anderer Personen vor den Gefährdungen durch diese Tätigkeiten. Satz 1 gilt auch für Einrichtungen des Gesundheitsdienstes, die für Tätigkeiten der Schutzstufe 4 vorgesehen sind. Tätigkeiten mit Biostoffen der Risikogruppe 3, die mit (\*\*) gekennzeichnet sind, bedürfen keiner Erlaubnis.
 
@@ -439,8 +421,7 @@ Bei Bedarf kann die zuständige Behörde weitere Unterlagen anfordern. Erfolgt d
 
 (4) Die Erlaubnis ist zu erteilen, wenn die Anforderungen dieser Verordnung erfüllt werden, die erforderlich sind, um den Schutz der Beschäftigten und anderer Personen vor den Gefährdungen durch Biostoffe sicherzustellen.
 
-
-## § 16 – Anzeigepflicht
+# § 16 – Anzeigepflicht
 
 (1) Der Arbeitgeber hat der zuständigen Behörde nach Maßgabe der Absätze 2 und 3 anzuzeigen:
 
@@ -474,8 +455,7 @@ in Laboratorien, in der Versuchstierhaltung und in der Biotechnologie,
 
 (4) Die Anzeigepflicht kann auch dadurch erfüllt werden, dass der zuständigen Behörde innerhalb der in Absatz 3 bestimmten Frist die Kopie einer Anzeige, Genehmigung oder Erlaubnis nach einer anderen Rechtsvorschrift übermittelt wird, wenn diese gleichwertige Angaben beinhaltet.
 
-
-## § 17 – Unterrichtung der Behörde
+# § 17 – Unterrichtung der Behörde
 
 (1) Der Arbeitgeber hat die zuständige Behörde unverzüglich zu unterrichten über
 
@@ -495,13 +475,11 @@ in Laboratorien, in der Versuchstierhaltung und in der Biotechnologie,
 
 5. die nach § 13 Absatz 1 und 2 festgelegten oder ergriffenen Maßnahmen und den nach § 13 Absatz 3 erstellten Plan.
 
-
-## § 18 – Behördliche Ausnahmen
+# § 18 – Behördliche Ausnahmen
 
 Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Arbeitgebers Ausnahmen von den Vorschriften der §§ 9, 10, 11 und 13 einschließlich der Anhänge II und III erteilen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die beantragte Abweichung mit dem Schutz der betroffenen Beschäftigten vereinbar ist.
 
-
-## § 19 – Ausschuss für Biologische Arbeitsstoffe
+# § 19 – Ausschuss für Biologische Arbeitsstoffe
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Biologische Arbeitsstoffe (ABAS) gebildet, in dem fachlich geeignete Personen vonseiten der Arbeitgeber, der Gewerkschaften, der Länderbehörden, der gesetzlichen Unfallversicherung und weitere fachlich geeignete Personen, insbesondere der Wissenschaft, vertreten sein sollen. Die Gesamtzahl der Mitglieder soll 16 Personen nicht überschreiten. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im Ausschuss ist ehrenamtlich.
 
@@ -529,8 +507,7 @@ Das Arbeitsprogramm des Ausschusses wird mit dem Bundesministerium für Arbeit u
 
 (6) Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin führt die Geschäfte des Ausschusses.
 
-
-## § 20 – Ordnungswidrigkeiten
+# § 20 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -588,15 +565,13 @@ Das Arbeitsprogramm des Ausschusses wird mit dem Bundesministerium für Arbeit u
 
 (2) Ordnungswidrig im Sinne des § 32 Absatz 1 Nummer 1 des Heimarbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 8 Absatz 7 eine dort genannte Tätigkeit ausüben lässt.
 
-
-## § 21 – Straftaten
+# § 21 – Straftaten
 
 (1) Wer durch eine in § 20 Absatz 1 bezeichnete vorsätzliche Handlung Leben oder Gesundheit eines Beschäftigten gefährdet, ist nach § 26 Nummer 2 des Arbeitsschutzgesetzes strafbar.
 
 (2) Wer durch eine in § 20 Absatz 2 bezeichnete vorsätzliche Handlung in Heimarbeit Beschäftigte in ihrer Arbeitskraft oder Gesundheit gefährdet, ist nach § 32 Absatz 3 oder Absatz 4 des Heimarbeitsgesetzes strafbar.
 
-
-## § 22 – Übergangsvorschriften
+# § 22 – Übergangsvorschriften
 
 Bei Tätigkeiten, die vor Inkrafttreten dieser Verordnung aufgenommen worden sind,
 
@@ -604,15 +579,13 @@ Bei Tätigkeiten, die vor Inkrafttreten dieser Verordnung aufgenommen worden sin
 
 2. besteht keine Erlaubnispflicht gemäß § 15 Absatz 1, sofern diese Tätigkeiten der zuständigen Behörde angezeigt wurden.
 
-
-## Anhang I – Symbol für Biogefährdung
+# Anhang I – Symbol für Biogefährdung
 
 (Fundstelle: BGBl. I 2013, 2525)
 
-![](../normengrafiken/bgbl1_2013/j2514-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j2514-1_0010.jpg)
 
-
-## Anhang II – Zusätzliche Schutzmaßnahmen bei Tätigkeiten in Laboratorien und vergleichbaren Einrichtungen sowie in der Versuchstierhaltung
+# Anhang II – Zusätzliche Schutzmaßnahmen bei Tätigkeiten in Laboratorien und vergleichbaren Einrichtungen sowie in der Versuchstierhaltung
 
 (Fundstelle: BGBl. I 2013, 2526 – 2527)
 
@@ -823,8 +796,7 @@ verbindlich vor Ort
 Anmerkung:  
 Gemäß § 10 Absatz 1 sind die als empfohlen bezeichneten Schutzmaßnahmen dann zu ergreifen, wenn dadurch die Gefährdung der Beschäftigten verringert werden kann.
 
-
-## Anhang III – Zusätzliche Schutzmaßnahmen bei Tätigkeiten in der Biotechnologie
+# Anhang III – Zusätzliche Schutzmaßnahmen bei Tätigkeiten in der Biotechnologie
 
 (Fundstelle: BGBl. I 2013, 2528)
 

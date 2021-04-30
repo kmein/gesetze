@@ -1,15 +1,11 @@
-# [TätoV] Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen   (Tätowiermittel-Verordnung)
-
-Ausfertigungsdatum: 13.11.2008
-
+% Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen   (Tätowiermittel-Verordnung)
+% Ausfertigungsdatum: 13.11.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 28 Abs. 1 Nr. 2 in Verbindung mit § 32 Abs. 1 Nr. 1, des § 28 Abs. 3 Nr. 1 und 2, des § 29 Abs. 1 Nr. 1 und 2 und des § 35 Nr. 1 und 2, jeweils in Verbindung mit § 4 Abs. 1 Nr. 3, des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26. April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Allgemein verbotene Stoffe
+# § 1 – Allgemein verbotene Stoffe
 
 Bei dem gewerbsmäßigen Herstellen oder Behandeln von
 
@@ -31,8 +27,7 @@ b) in Anhang IV aufgeführt sind und nach Anhang IV Spalte g nur in auszuspülen
 
 4. para-Phenylendiamin sowie sein Hydrochlorid oder Sulfat (CI 76060).
 
-
-## § 2 – Mitteilungspflichten
+# § 2 – Mitteilungspflichten
 
 (1) Der Hersteller hat der für die Überwachung zuständigen Behörde, in deren Zuständigkeitsbereich der Ort der Herstellung liegt, vor dem erstmaligen Inverkehrbringen mitzuteilen, an welchem Ort das Mittel nach § 1 Satz 1 hergestellt wird. Der Hersteller kann die Verpflichtung nach Satz 1 auf einen Beauftragten übertragen. Hersteller ist auch, in dessen Auftrag ein Mittel hergestellt wird. Bei Mitteln, die aus dem Ausland eingeführt werden, hat der für die Einfuhr Verantwortliche vor der erstmaligen Einfuhr der Behörde, in deren Zuständigkeit der Ort der Einfuhr liegt, diesen Ort sowie die weiteren Orte, an denen die Mittel eingeführt werden, mitzuteilen. Die Behörde, der die Einfuhr eines Mittels mitgeteilt worden ist, unterrichtet im Falle der Nennung weiterer Einfuhrorte die dort für die Überwachung zuständigen Behörden über die Einfuhr des Mittels.
 
@@ -46,8 +41,7 @@ Sind die Angaben in elektronischer Form verfügbar, sind sie auf elektronischem 
 
 (3) Die Angaben nach Absatz 2 dürfen nur zu dem Zweck verwendet werden, Anfragen zur Behandlung von gesundheitlichen Beeinträchtigungen zu beantworten. Sie sind von anderen Unterlagen getrennt aufzubewahren.
 
-
-## § 3 – Kennzeichnung
+# § 3 – Kennzeichnung
 
 (1) Mittel nach § 1 Satz 1 dürfen gewerbsmäßig nur in den Verkehr gebracht werden, wenn folgende Angaben angebracht sind:
 
@@ -73,13 +67,11 @@ Sind die Angaben in elektronischer Form verfügbar, sind sie auf elektronischem 
 
 (5) Die Angaben nach Absatz 1 sind unverwischbar, leicht lesbar und deutlich sichtbar, die Angaben nach Absatz 1 Nr. 1, 2, 4, 5 und 6 darüber hinaus in deutscher Sprache auf dem Behältnis und der Verpackung anzugeben. Kann der volle Wortlaut der Angabe nach Absatz 1 Nr. 7 aus technischen Gründen nicht auf dem Behältnis angebracht werden, so muss diese Angabe auf der Verpackung, einer Packungsbeilage, einem beigefügten Etikett, Papierstreifen oder Kärtchen enthalten sein.
 
-
-## § 4 – Gute Herstellungspraxis
+# § 4 – Gute Herstellungspraxis
 
 Bei der Herstellung von Mitteln nach § 1 Satz 1 sind die Grundsätze der Guten Herstellungspraxis zu berücksichtigen.
 
-
-## § 5 – Straftaten und Ordnungswidrigkeiten
+# § 5 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Satz 1 in Verbindung mit Satz 2 einen dort aufgeführten Stoff verwendet.
 
@@ -91,18 +83,14 @@ Bei der Herstellung von Mitteln nach § 1 Satz 1 sind die Grundsätze der Guten 
 
 (3) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Abs. 1 Nr. 6 ein Mittel nach § 1 Satz 1 in den Verkehr bringt.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2009 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
+# Anlage 1 – (zu § 1 Satz 2 Nr. 2)Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
 
-## Anlage 1 – (zu § 1 Satz 2 Nr. 2)Liste der Amine, die bei der reduktiven Spaltung von Azofarbstoffen entstehen
-
-
-## Anlage 2 – (zu § 1 Satz 2 Nr. 3)Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen
+# Anlage 2 – (zu § 1 Satz 2 Nr. 3)Farbstoffe, die beim Herstellen und Behandeln von Mitteln nach § 1 Satz 1 nicht verwendet werden dürfen

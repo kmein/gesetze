@@ -1,15 +1,11 @@
-# [ABBergV] Bergverordnung für alle bergbaulichen Bereiche  (Allgemeine Bundesbergverordnung - ABBergV)
-
-Ausfertigungsdatum: 23.10.1995
-
+% Bergverordnung für alle bergbaulichen Bereiche  (Allgemeine Bundesbergverordnung - ABBergV)
+% Ausfertigungsdatum: 23.10.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 66 Satz 1 Nr. 1 Buchstabe b, Nr. 2, 4 Buchstabe a und d, Nr. 5, 6, 9, 10 und Satz 3, des § 67 Nr. 1 und 8 und des § 68 Abs. 2, in Verbindung mit § 126 Abs. 1 Satz 1 und Abs. 3 und den §§ 128 und 129 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310), zuletzt geändert durch Artikel 8 des Ausführungsgesetzes Seerechtsübereinkommen 1982/1994 vom 6. Juni 1995 (BGBl. I S. 778), verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung und für den Bereich des Festlandsockels und der Küstengewässer im Einvernehmen mit dem Bundesministerium für Verkehr:
 
-
-## § 1 – Sachliche und räumliche Anwendung
+# § 1 – Sachliche und räumliche Anwendung
 
 Diese Verordnung regelt die Sicherheit und den Gesundheitsschutz sowie den Umweltschutz bei
 
@@ -25,8 +21,7 @@ Diese Verordnung regelt die Sicherheit und den Gesundheitsschutz sowie den Umwel
 
 auf dem Festland sowie im Bereich des Festlandsockels und der Küstengewässer. Die §§ 2 bis 22 und 23 sind auch für Anlagen zur Lagerung, Sicherstellung und Endlagerung radioaktiver Stoffe nach § 126 Absatz 3 des Bundesberggesetzes anzuwenden.
 
-
-## § 2 – Allgemeine Pflichten
+# § 2 – Allgemeine Pflichten
 
 (1) Zur Gewährleistung der Sicherheit und zum Schutz der Gesundheit der Beschäftigten hat der Unternehmer die jeweils erforderlichen Maßnahmen des Arbeitsschutzes unter Berücksichtigung der die Arbeit berührenden Umstände zu treffen. Die Maßnahmen müssen darauf ausgerichtet sein, daß
 
@@ -70,8 +65,7 @@ Als Arbeitsstätte im Sinne dieser Verordnung gilt jede Örtlichkeit, in der Arb
 
 (5) Der Unternehmer hat außerbetriebliche Sachverständige oder sachverständige Stellen hinzuzuziehen, wenn die eigenen Möglichkeiten im Betrieb nicht ausreichen. Sachverständige oder sachverständige Stellen müssen alle für ihre jeweilige Tätigkeit erforderlichen Informationen erhalten.
 
-
-## § 3 – Sicherheits- und Gesundheitsschutzdokument
+# § 3 – Sicherheits- und Gesundheitsschutzdokument
 
 (1) Der Unternehmer hat dafür zu sorgen, daß als Maßnahme nach § 2 Abs. 1 Satz 1 und 2 ein Dokument über Sicherheit und Gesundheitsschutz (Sicherheits- und Gesundheitsschutzdokument) nach Maßgabe der Sätze 3 und 5 vor Aufnahme der Arbeit erstellt wird. Zur Erstellung des Sicherheits- und Gesundheitsschutzdokuments können auch andere im Betrieb vorhandene Unterlagen verwendet werden. In dem Sicherheits- und Gesundheitsschutzdokument hat der Unternehmer darzulegen, daß unter Berücksichtigung der in Betracht kommenden Umstände und der Beurteilung der Arbeitsbedingungen die jeweils erforderlichen Maßnahmen, die der Sicherheit und dem Gesundheitsschutz der Beschäftigten dienen, rechtzeitig getroffen werden. Das Sicherheits- und Gesundheitsschutzdokument muß im Betrieb verfügbar sein. Aus ihm muß mindestens hervorgehen, daß
 
@@ -101,8 +95,7 @@ Als Arbeitsstätte im Sinne dieser Verordnung gilt jede Örtlichkeit, in der Arb
 
 (+++ § 3 Abs. 1: Zur Anwendung vgl. § 19 Abs. 2 OffshoreBergV +++)
 
-
-## § 4 – Zusammenarbeit der Unternehmer
+# § 4 – Zusammenarbeit der Unternehmer
 
 (1) Werden Beschäftigte mehrerer Unternehmer zeitlich und örtlich gemeinsam in einem Betrieb tätig, so ist jeder Unternehmer für den Bereich verantwortlich, der seinem Weisungsrecht unterliegt. Die Unternehmer haben bei den zur Gewährleistung der Sicherheit und des Gesundheitsschutzes erforderlichen Maßnahmen zusammenzuarbeiten. Sie haben ihre Beschäftigten über die bei den Arbeiten möglichen Gefahren für Sicherheit und Gesundheitsschutz in dem Betrieb zu unterrichten und angemessene Anweisungen zu erteilen.
 
@@ -110,8 +103,7 @@ Als Arbeitsstätte im Sinne dieser Verordnung gilt jede Örtlichkeit, in der Arb
 
 (3) Absatz 1 gilt entsprechend für die Zusammenarbeit mit natürlichen und juristischen Personen und Personenhandelsgesellschaften, die nicht die Voraussetzungen des § 4 Abs. 5 des Bundesberggesetzes erfüllen.
 
-
-## § 5 – Beaufsichtigung durch verantwortliche Personen
+# § 5 – Beaufsichtigung durch verantwortliche Personen
 
 (1) Der Unternehmer hat dafür zu sorgen, daß
 
@@ -143,8 +135,7 @@ Die in Betracht kommenden Arbeiten und Arbeitsstätten sowie Einzelheiten der Be
 
 (+++ § 5: Zur Anwendung vgl. § 17 Abs. 2 OffshoreBergV +++)
 
-
-## § 6 – Unterrichtung, Unterweisung, Anhörung
+# § 6 – Unterrichtung, Unterweisung, Anhörung
 
 (1) Der Unternehmer hat Beschäftigte vor Beginn der Beschäftigung und bei Veränderungen in ihren Arbeitsbereichen über Gefahren für Sicherheit und Gesundheit, denen sie bei der jeweiligen Arbeit ausgesetzt sein können, sowie über die Maßnahmen und Vorkehrungen zur Abwendung dieser Gefahren und über Notfall- und Erste-Hilfe-Maßnahmen verständlich zu unterrichten.
 
@@ -152,13 +143,11 @@ Die in Betracht kommenden Arbeiten und Arbeitsstätten sowie Einzelheiten der Be
 
 (3) Besteht kein Betriebsrat, hat der Unternehmer die Beschäftigten zu allen Aktivitäten anzuhören, die Auswirkungen auf ihre Sicherheit und Gesundheit haben können. Anzuhören sind die Beschäftigten insbesondere auch zu für sie wichtigen Festlegungen im Sicherheits- und Gesundheitsschutzdokument nach § 3 sowie zu Fragen der Unterrichtung und Unterweisung nach den Absätzen 1 und 2.
 
-
-## § 7 – Schriftliche Anweisungen
+# § 7 – Schriftliche Anweisungen
 
 Für jede Arbeitsstätte oder einen Betrieb hat der Unternehmer schriftliche Anweisungen in verständlicher Form und Sprache über die Vorgehensweisen zu erteilen, soweit sie zur Gewährleistung der Sicherheit und des Gesundheitsschutzes der Beschäftigten, einschließlich der Verwendung von Arbeitsstoffen und Ausrüstungen sowie des sicheren Einsatzes von Maschinen, Geräten, Apparaten, maschinellen und elektrischen Anlagen und Werkzeugen, erforderlich sind. Diese Anweisungen haben auch Informationen über den Einsatz von Notfallausrüstungen sowie darüber zu enthalten, wie bei einem Notfall in oder in der Nähe der Arbeitsstätte oder des Betriebes vorzugehen ist.
 
-
-## § 8 – Übertragung von Arbeiten
+# § 8 – Übertragung von Arbeiten
 
 (1) Bei der Übertragung von Arbeiten an Beschäftigte hat der Unternehmer zu berücksichtigen, daß die Beschäftigten
 
@@ -168,8 +157,7 @@ Für jede Arbeitsstätte oder einen Betrieb hat der Unternehmer schriftliche Anw
 
 (2) In jeder belegten Arbeitsstätte muß zur Erledigung der übertragenen Aufgaben eine ausreichende Anzahl nach Absatz 1 geeigneter Beschäftigter zur Verfügung stehen.
 
-
-## § 9 – Arbeitsfreigabe
+# § 9 – Arbeitsfreigabe
 
 Der Unternehmer hat entsprechend dem Ergebnis der Beurteilung von Gefährdungen nach § 3 Abs. 1 Satz 5 Nr. 1 dafür zu sorgen, daß
 
@@ -179,8 +167,7 @@ Der Unternehmer hat entsprechend dem Ergebnis der Beurteilung von Gefährdungen 
 
 erst durchgeführt werden, wenn eine verantwortliche Person ihren Beginn freigegeben hat. Die Vorgehensweise sowie die vor, während und nach Abschluß der Arbeiten einzuhaltenden Sicherheitsvorkehrungen müssen in der Arbeitsfreigabe oder auf andere Weise schriftlich geregelt und den jeweiligen Beschäftigten bekannt sein.
 
-
-## § 10 – Vorkehrungen bei erheblichen Gefahren
+# § 10 – Vorkehrungen bei erheblichen Gefahren
 
 (1) Der Unternehmer hat alle Beschäftigten, die einer unmittelbaren erheblichen Gefahr ausgesetzt sind oder sein können, unverzüglich über diese Gefahr und die getroffenen oder zu treffenden Schutzmaßnahmen zu unterrichten.
 
@@ -198,8 +185,7 @@ Bei Vorkehrungen nach Satz 1 Nr. 2 sind die Kenntnisse der Beschäftigten und di
 
 (4) Den Beschäftigten dürfen aus einem Handeln nach Absatz 2 Nr. 2 keine Nachteile entstehen, es sei denn, sie haben vorsätzlich oder grob fahrlässig ungeeignete Maßnahmen getroffen.
 
-
-## § 11 – Spezifische Schutzmaßnahmen
+# § 11 – Spezifische Schutzmaßnahmen
 
 (1) Der Unternehmer hat dafür zu sorgen, daß entsprechend der Art und Größe des Betriebes sowie der Art der Tätigkeiten, ergänzt durch die Anforderungen des Anhangs 1 Nr. 1 bis 5,
 
@@ -227,8 +213,7 @@ Bei Vorkehrungen nach Satz 1 Nr. 2 sind die Kenntnisse der Beschäftigten und di
 
 Satz 1 Nr. 3 gilt insbesondere für grubengasführende untertägige Betriebe und untertägige Betriebe mit brennbaren Stäuben.
 
-
-## § 12 – Allgemeine Anforderungen an Arbeitsstätten und sanitäre Einrichtungen
+# § 12 – Allgemeine Anforderungen an Arbeitsstätten und sanitäre Einrichtungen
 
 (1) Bei der Gestaltung der Arbeitsstätten hat der Unternehmer für einen den Gefahren angemessenen Schutz der Beschäftigten zu sorgen. Die Arbeitsstätten sind sauber zu halten, wobei gefährliche Stoffe oder gefährliche Ablagerungen zu beseitigen oder so zu überwachen sind, daß Gesundheit und Sicherheit der Beschäftigten nicht beeinträchtigt werden. Die Standsicherheit von Abraumhalden, Kippen, sonstigen Halden und Absetzbecken muß gewährleistet sein.
 
@@ -248,8 +233,7 @@ jederzeit feststellbar sind. Der wahrscheinliche Aufenthaltsort der in einem unt
 
 (6) Die zusätzlichen Anforderungen des Anhangs 1 Nr. 6 bis 11 sind entsprechend der Art der Betriebe und der Tätigkeiten einzuhalten. Anhang 2 gilt zusätzlich für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1.
 
-
-## § 13 – Arbeitsstätten zur Aufsuchung und Gewinnung durch Bohrungen einschließlich der Aufbereitung, Untergrundspeicherung, Wiedernutzbarmachung
+# § 13 – Arbeitsstätten zur Aufsuchung und Gewinnung durch Bohrungen einschließlich der Aufbereitung, Untergrundspeicherung, Wiedernutzbarmachung
 
 (1) Der Unternehmer hat Arbeitsstätten,
 
@@ -283,8 +267,7 @@ Sofern sich Beschäftigte an normalerweise nicht belegten Arbeitsstätten befind
 
 (8) Für den Bereich des Festlandsockels und der Küstengewässer gelten zusätzlich für Arbeitsstätten nach Absatz 1 Nummer 1 die Anforderungen der Offshore-Bergverordnung vom 3. August 2016 (BGBl. I S. 1866) und für Arbeitsstätten nach Absatz 1 Nummer 2 die Anforderungen des Anhangs 3.
 
-
-## § 14 – Arbeitsstätten zur übertägigen Aufsuchung, Gewinnung und Aufbereitung, Wiedernutzbarmachung
+# § 14 – Arbeitsstätten zur übertägigen Aufsuchung, Gewinnung und Aufbereitung, Wiedernutzbarmachung
 
 (1) Der Unternehmer hat Arbeitsstätten, in denen
 
@@ -306,8 +289,7 @@ in Abhängigkeit von den natürlichen Gegebenheiten und unter Berücksichtigung 
 
 (6) Straßen und Verkehrswege müssen eine Tragfestigkeit aufweisen, die für die eingesetzten Arbeitsmittel angemessen ist. Insbesondere müssen sie so angelegt und unterhalten werden, daß ein sicheres Fahren von Maschinen, Geräten und Fahrzeugen gegeben ist.
 
-
-## § 15 – Untertägige Arbeitsstätten
+# § 15 – Untertägige Arbeitsstätten
 
 (1) Der Unternehmer hat dafür zu sorgen, daß
 
@@ -359,8 +341,7 @@ Unter Tage muß jede Person einen Selbstretter ständig bei sich tragen. Sauerst
 
 (11) In jedem untertägigen Betrieb sind angemessene organisatorische Maßnahmen zur schnellen und wirksamen Einleitung und Durchführung von Rettungswerken zu treffen. Für den Einsatz in jedem derartigen Betrieb muß eine ausreichende Anzahl im Grubenrettungswesen theoretisch und praktisch unterwiesener Personen mit den erforderlichen sachlichen Mitteln verfügbar sein.
 
-
-## § 16 – Bewetterung untertägiger Arbeitsstätten
+# § 16 – Bewetterung untertägiger Arbeitsstätten
 
 (1) Der Unternehmer hat dafür zu sorgen, daß alle untertägigen Arbeitsstätten mit einem ausreichenden Sicherheitsspielraum so bewettert werden, daß eine Atmosphäre aufrechterhalten bleibt, die
 
@@ -388,8 +369,7 @@ die Grubengaskonzentration ständig zu überwachen. Art und Umfang der Überwach
 
 (6) Ein Bewetterungsplan mit den wesentlichen Merkmalen der Bewetterung ist von dem Unternehmer anzufertigen, regelmäßig auf den neuesten Stand zu bringen und im Betrieb verfügbar zu halten.
 
-
-## § 17 – Bereitstellung und Benutzung von Arbeitsmitteln
+# § 17 – Bereitstellung und Benutzung von Arbeitsmitteln
 
 (1) Der Unternehmer hat alle Maschinen, Geräte, Apparate, Werkzeuge oder Anlagen, die bei der Arbeit benutzt werden, entsprechend dem Ergebnis der Beurteilung von Gefährdungen nach § 3 Abs. 1 Satz 5 Nr. 1 unter Berücksichtigung der vorgesehenen Arbeit oder des vorgesehenen Einsatzzweckes auszuwählen und bereitzustellen. Er hat dafür zu sorgen, daß sie so errichtet, in Betrieb genommen und betrieben werden, daß bei bestimmungsgemäßer Benutzung Sicherheit und Gesundheitsschutz der Beschäftigten sichergestellt sind.
 
@@ -413,8 +393,7 @@ Arbeitsmittel, für die in sonstigen Rechtsvorschriften weitergehende Anforderun
 
 (6) Besondere Arbeitsmittel im Sinne des Anhangs I Nr. 3 der Richtlinie 89/655/EWG, geändert durch die Richtlinie 95/63/EG des Rates vom 5. Dezember 1995 (ABl. EG Nr. L 335 S. 28), die den Beschäftigten am 5. Dezember 1998 bereits zur Verfügung stehen und nach dem bis zu diesem Zeitpunkt geltenden Recht niedrigeren Anforderungen als den in Absatz 2 Satz 1 Nr. 1 festgelegten entsprechen dürfen, müssen spätestens zum 5. Dezember 2002 den Anforderungen des Anhangs I dieser Richtlinie entsprechen.
 
-
-## § 18 – Bereitstellung und Benutzung von persönlichen Schutzausrüstungen
+# § 18 – Bereitstellung und Benutzung von persönlichen Schutzausrüstungen
 
 (1) Der Unternehmer hat dafür zu sorgen, daß persönliche Schutzausrüstungen bereitgestellt und benutzt werden, wenn die Beurteilung von Gefährdungen nach § 3 Abs. 1 Satz 5 Nr. 1 ergeben hat, daß Gefahren für die Beschäftigten durch andere Maßnahmen nicht vermieden oder ausreichend begrenzt werden können. Als persönliche Schutzausrüstungen gelten Ausrüstungen im Sinne des § 1 Abs. 2 bis 5 der Verordnung über das Inverkehrbringen von persönlichen Schutzausrüstungen.
 
@@ -436,8 +415,7 @@ Nummer 2 gilt nicht für persönliche Schutzausrüstungen, die für Arbeiten ber
 
 (7) Der Unternehmer hat sich von der Wirksamkeit der ausgewählten persönlichen Schutzausrüstungen zu überzeugen und erforderlichenfalls getroffene Maßnahmen erneut zu prüfen und anzupassen. Werden Beschäftigte infolge der zu verrichtenden Arbeit und der dabei benutzten persönlichen Schutzausrüstungen besonderen körperlichen Belastungen ausgesetzt, hat der Unternehmer zu prüfen, ob zur Gewährleistung ihres Gesundheitsschutzes weitere Maßnahmen erforderlich sind.
 
-
-## § 19 – Sicherheits- oder Gesundheitsschutzkennzeichnung
+# § 19 – Sicherheits- oder Gesundheitsschutzkennzeichnung
 
 (1) Der Unternehmer hat zu gewährleisten, daß Risiken und Gefahren für Sicherheit und Gesundheit an Arbeitsplätzen unter Berücksichtigung des Ergebnisses der Beurteilung von Gefährdungen nach § 3 Abs. 1 Satz 5 Nr. 1 gekennzeichnet werden, sofern die Risiken und Gefahren nicht durch allgemeine technische Schutzmittel oder durch arbeitsorganisatorische Maßnahmen, Methoden oder Verfahren vermieden oder ausreichend begrenzt werden können. Die Sicherheits- oder Gesundheitsschutzkennzeichnung muß den Anforderungen des Anhangs 4 entsprechen.
 
@@ -445,13 +423,11 @@ Nummer 2 gilt nicht für persönliche Schutzausrüstungen, die für Arbeiten ber
 
 (3) Die Sicherheits- oder Gesundheitsschutzkennzeichnung, die bereits vor dem 24. Juni 1994 an Arbeitsplätzen verwendet wurde, muß spätestens bis zum 24. Dezember 1996 den Mindestvorschriften nach Absatz 1 Satz 2 entsprechen.
 
-
-## § 20 – Präventivmedizinische Überwachung, ärztliche Untersuchungen
+# § 20 – Präventivmedizinische Überwachung, ärztliche Untersuchungen
 
 Der Unternehmer hat zu gewährleisten, daß die Gesundheit der Beschäftigten in Abhängigkeit von den Sicherheits- und Gesundheitsrisiken am Arbeitsplatz in geeigneter Weise überwacht wird. Für die ärztlichen Untersuchungen sind die §§ 2 bis 6 der Gesundheitsschutz-Bergverordnung oder § 16 Absatz 2 und 3 und § 23 Absatz 3 Nummer 2, Absatz 4 Nummer 2 und Absatz 5 der Offshore-Bergverordnung vom 3. August 2016 (BGBl. I S. 1866), sowie ergänzend die Regelungen der Verordnung zur arbeitsmedizinischen Vorsorge vom 18. Dezember 2008 (BGBl. I S. 2768), die zuletzt durch Artikel 1 der Verordnung vom 23. Oktober 2013 (BGBl. I S. 3882) geändert worden ist, maßgebend.
 
-
-## § 21 – Pflichten der Beschäftigten
+# § 21 – Pflichten der Beschäftigten
 
 (1) Die Beschäftigten sind verpflichtet, nach ihren Möglichkeiten sowie gemäß der Unterweisung und besonderer Weisung des Unternehmers für ihre Sicherheit und Gesundheit Sorge zu tragen. Entsprechend Satz 1 haben die Beschäftigten auch für die Sicherheit und Gesundheit der Personen zu sorgen, die von ihren Handlungen oder Unterlassungen bei der Arbeit betroffen sind.
 
@@ -465,8 +441,7 @@ Der Unternehmer hat zu gewährleisten, daß die Gesundheit der Beschäftigten in
 
 (3) Die Beschäftigten haben dem Unternehmer oder der zuständigen verantwortlichen Person jede von ihnen festgestellte unmittelbare erhebliche Gefahr für die Sicherheit und Gesundheit sowie jeden an den Schutzsystemen festgestellten Mangel unverzüglich zu melden. Sie sollen diese auch der Fachkraft für Arbeitssicherheit oder dem Betriebsarzt sowie dem Sicherheitsbeauftragten nach § 22 des Siebten Buches Sozialgesetzbuch mitteilen. Gemeinsam mit der Fachkraft für Arbeitssicherheit und dem Betriebsarzt haben sie den Unternehmer nachhaltig darin zu unterstützen, daß dieser seinen Pflichten nachkommen kann, die Sicherheit und den Gesundheitsschutz der Beschäftigten bei der Arbeit zu gewährleisten und entsprechend den behördlichen Auflagen zu erfüllen.
 
-
-## § 22 – Rechte der Beschäftigten
+# § 22 – Rechte der Beschäftigten
 
 Die Beschäftigten sind berechtigt,
 
@@ -478,8 +453,7 @@ Die Beschäftigten sind berechtigt,
 
 Den Beschäftigten dürfen durch die Inanspruchnahme der Rechte nach Satz 1 keine Nachteile entstehen.
 
-
-## § 22a – Anforderungen an die Entsorgung von bergbaulichen Abfällen
+# § 22a – Anforderungen an die Entsorgung von bergbaulichen Abfällen
 
 (1) Der Unternehmer hat für die Entsorgung von Abfällen nach § 2 Absatz 2 Nummer 7 des Kreislaufwirtschaftsgesetzes, die unmittelbar beim Aufsuchen, Gewinnen und Aufbereiten sowie bei der damit zusammenhängenden Lagerung von Bodenschätzen auf dem Festland und im Bereich der Küstengewässer anfallen (bergbauliche Abfälle), unbeschadet der Vorschriften über die Betriebsplanpflicht für die Errichtung, Führung und Einstellung des Betriebes geeignete Maßnahmen zu treffen, um Auswirkungen auf die Umwelt sowie sich daraus ergebende Risiken für die menschliche Gesundheit so weit wie möglich zu vermeiden oder zu vermindern. Er hat dabei den Stand der Technik im Hinblick auf die Eigenschaften der Abfallentsorgungseinrichtung, ihres Standortes und der Umweltbedingungen am Standort zu berücksichtigen. Der Einsatz einer bestimmten Technik wird hierdurch nicht vorgeschrieben.
 
@@ -528,8 +502,7 @@ Die Absätze 3 bis 5 gelten nicht für die Entsorgung von Inertabfällen und unv
 
 2. nicht kontaminiertes Bodenmaterial und andere natürlich vorkommende Materialien, die bei Bauarbeiten ausgehoben wurden, sofern sichergestellt ist, dass die Materialien in ihrem natürlichen Zustand an dem Ort, an dem sie ausgehoben wurden, für Bauzwecke verwendet werden.
 
-
-## § 22b – Anforderungen an die Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlich des Aufbrechens von Gestein unter hydraulischem Druck
+# § 22b – Anforderungen an die Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlich des Aufbrechens von Gestein unter hydraulischem Druck
 
 Bei der Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlich des Aufbrechens von Gestein unter hydraulischem Druck und den sonstigen damit in betrieblichem Zusammenhang stehenden Tätigkeiten hat der Unternehmer insbesondere
 
@@ -545,8 +518,7 @@ Bei der Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlic
 
 Satz 1 Nummer 5 ist nicht für die Aufsuchung und Gewinnung von Erdwärme anzuwenden. Die Vorschriften des Bundes-Immissionsschutzgesetzes sowie der darauf beruhenden Vorschriften bleiben unberührt. Betriebsanlagen und Betriebseinrichtungen, die aufgrund eines genehmigten Betriebsplans errichtet wurden, sind auf Anordnung der zuständigen Behörde dem Stand der Technik anzupassen, sofern dies aus Gründen der Vorsorge gegen Gefahren für Leben oder Gesundheit oder zum Schutz von Sachgütern, Beschäftigten oder Dritten im Betrieb oder der Umwelt erforderlich ist.
 
-
-## § 22c – Anforderungen an den Umgang mit Lagerstättenwasser und Rückfluss bei der Aufsuchung und Gewinnung von Erdöl und Erdgas
+# § 22c – Anforderungen an den Umgang mit Lagerstättenwasser und Rückfluss bei der Aufsuchung und Gewinnung von Erdöl und Erdgas
 
 (1) Bei der Aufsuchung und Gewinnung von Erdgas und Erdöl hat der Unternehmer das Lagerstättenwasser aufzufangen. Der Unternehmer hat Umweltgefährdungen bei Transport und Zwischenlagerung des Lagerstättenwassers und seismologischen Gefährdungen bei Versenkbohrungen durch geeignete Maßnahmen vorzubeugen. Die untertägige Einbringung des Lagerstättenwassers ist nicht zulässig, es sei denn, der Unternehmer bringt das Lagerstättenwasser in druckabgesenkte kohlenwasserstoffhaltige Gesteinsformationen ein,
 
@@ -564,13 +536,11 @@ Eine nachteilige Veränderung des Grundwassers darf hierdurch nicht zu besorgen 
 
 § 22c Abs. 1 Satz 6 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "untertätigen" abweichend vom Bundesgesetzblatt in "untertägigen" korrigiert
 
-
-## § 23 – Übertragung der Verantwortlichkeit
+# § 23 – Übertragung der Verantwortlichkeit
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen übertragen.
 
-
-## § 23a – Anerkennung von Sachverständigen
+# § 23a – Anerkennung von Sachverständigen
 
 (1) Ein Sachverständiger, der Aufgaben nach einer Bergverordnung wahrnimmt, die auf Grund des § 68 Absatz 1 oder 2 des Bundesberggesetzes erlassen oder die nach § 176 Absatz 3 des Bundesberggesetzes aufrechterhalten wurde, und dessen Tätigkeit nach einer solchen Verordnung einer Anerkennung durch die zuständige Behörde bedarf, ist vorbehaltlich anderer Vorschriften auf Grund seines Antrags von der zuständigen Behörde anzuerkennen, wenn er die erforderliche Zuverlässigkeit, besondere fachliche Kompetenz, Leistungsfähigkeit und Unabhängigkeit nachgewiesen hat. Dies setzt insbesondere voraus,
 
@@ -604,8 +574,7 @@ Die Eignung und besondere fachliche Qualifikation nach Satz 2 Nummer 2 Buchstabe
 
 (5) Der Antrag auf Anerkennung kann in schriftlicher oder elektronischer Form gestellt werden und hat genaue Angaben zum Umfang der vorgesehenen Sachverständigentätigkeit zu enthalten. Das Anerkennungsverfahren kann über eine einheitliche Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Hat die zuständige Behörde nicht innerhalb einer Frist von drei Monaten nach Eingang der vollständigen Unterlagen über den Antrag entschieden und wurde die Frist durch die zuständige Behörde nicht verlängert, gilt die Anerkennung als erteilt; die Vorschriften des Verwaltungsverfahrensgesetzes zur Genehmigungsfiktion sind entsprechend anzuwenden.
 
-
-## § 24 – Ordnungswidrigkeiten
+# § 24 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 145 Abs. 3 Nr. 1 des Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 12 Abs. 5 Satz 1 nicht dafür sorgt, daß Anzahl oder Namen der anwesenden Beschäftigten oder Personen feststellbar sind.
 
@@ -653,23 +622,19 @@ Die Eignung und besondere fachliche Qualifikation nach Satz 2 Nummer 2 Buchstabe
 
 21. entgegen § 22c Absatz 2 Satz 6 den Rückfluss unter Tage einbringt.
 
-
-## § 25 – Gegenstandslose landesrechtliche Vorschriften
+# § 25 – Gegenstandslose landesrechtliche Vorschriften
 
 Das Bundesministerium für Wirtschaft gibt im Bundesanzeiger bekannt, welche landesrechtlichen Vorschriften gegenstandslos werden.
 
-
-## § 26 – Inkrafttreten
+# § 26 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anhang 1 – (zu den §§ 11 und 12)  Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
+# Anhang 1 – (zu den §§ 11 und 12)  Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1476 - 1479;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1021,8 +986,7 @@ Der Unternehmer hat die erforderlichen Maßnahmen zu treffen, damit die nicht ra
 11.3.2  
 In Arbeitsstätten mit Publikumsverkehr hat der Unternehmer Schutzmaßnahmen nach Nummer 11.3.1 nur insoweit zu treffen, als die Natur des Betriebes und die Art der Beschäftigung es zulassen.
 
-
-## Anhang 2 – (zu § 12)  Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
+# Anhang 2 – (zu § 12)  Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1480 - 1481;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1118,8 +1082,7 @@ Pausenräume müssen ausreichend bemessen und der Anzahl der Beschäftigten ents
 8.3  
 Fallen in der Arbeitszeit regelmäßig und häufig Arbeitsbereitschaftszeiten an und sind keine Pausenräume vorhanden, so sind andere Räume zur Verfügung zu stellen, in denen sich die Beschäftigten während der Dauer der Arbeitsbereitschaft aufhalten können.
 
-
-## Anhang 3 – (zu § 13)Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 2 im Bereich des Festlandsockels und der Küstengewässer
+# Anhang 3 – (zu § 13)Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 2 im Bereich des Festlandsockels und der Küstengewässer
 
 (Fundstelle: BGBl. I 1995, 1482 - 1484; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -1325,8 +1288,7 @@ Während der Positionierung der Plattformen auf See sind alle personellen, organ
 6.2  
 Die vorbereitenden Arbeiten zur Positionierung der Plattformen auf See müssen so ausgeführt werden, daß Sicherheit und Stabilität der Plattformen nicht beeinträchtigt werden.
 
-
-## Anhang 4 – (zu § 19)  Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
+# Anhang 4 – (zu § 19)  Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
@@ -1488,8 +1450,7 @@ Weitere Anforderungen
 
 Unbeschadet der Anforderungen nach Nummer 1 muß die Sicherheits- oder Gesundheitsschutzkennzeichnung den Anforderungen der Anhänge II bis IX der Richtlinie 92/58/EWG entsprechen.
 
-
-## Anhang 5 – (zu § 22a Abs. 2)Abfallbewirtschaftungsplan
+# Anhang 5 – (zu § 22a Abs. 2)Abfallbewirtschaftungsplan
 
 1  
 Der Unternehmer hat den Abfallbewirtschaftungsplan für die Entsorgung von bergbaulichen Abfällen unter Berücksichtigung des Grundsatzes der Nachhaltigkeit und der in Nummer 2 aufgeführten Ziele aufzustellen. In dem Plan sind alle wesentlichen Aspekte des Abfallentsorgungskonzeptes und die vorgesehenen Vorkehrungen und Maßnahmen zum Schutze der Umwelt und der menschlichen Gesundheit darzustellen. Sofern die für den Abfallbewirtschaftungsplan geforderten Angaben Bestandteil eines Betriebsplanes, anderer behördlicher Verfahren oder anderer aufgrund von Rechtsvorschriften erstellter Unterlagen sind, kann im Abfallbewirtschaftungsplan auf diese verwiesen werden.
@@ -1542,8 +1503,7 @@ Vorkehrungen und Maßnahmen zur Begrenzung schwerer Unfälle einschließlich der
 4.10  
 bei Abfallentsorgungseinrichtungen, die nicht der Kategorie A zuzuordnen sind, eine Einschätzung der möglichen Gefährdung durch Unfälle.
 
-
-## Anhang 6 – (zu § 22a Abs. 3 Satz 1)Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
+# Anhang 6 – (zu § 22a Abs. 3 Satz 1)Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
 
 1  
 Unbeschadet der Vorschriften über die Errichtung, den Betrieb und die Einstellung des Betriebes haben Betriebspläne für Abfallentsorgungseinrichtungen folgende Angaben zu enthalten:
@@ -1579,8 +1539,7 @@ Zusätzliche Anforderungen für Abschlussbetriebspläne für die Stilllegung von
 
 Der Unternehmer hat unbeschadet der Vorschrift des § 69 Abs. 2 des Bundesberggesetzes im Abschlussbetriebsplan darzustellen, ob nach der Stilllegung der Abfallentsorgungseinrichtung eine Nachsorge zur Gewährleistung der physischen und chemischen Stabilität erforderlich ist, um eine Beeinträchtigung der menschlichen Gesundheit und der Umwelt, insbesondere der Gewässer, zu vermeiden. Die Nachsorge umfasst insbesondere die Prüfung und Überwachung der Abfallentsorgungseinrichtung einschließlich erforderlicher Messungen mit geeigneten Geräten, die Säuberung und Instandhaltung von vorhandenen Überlaufkanälen und -rinnen, sonstige Erhaltungsmaßnahmen sowie die regelmäßige Berichterstattung über den Anlagenzustand an die zuständige Behörde. Der Unternehmer hat alle Ereignisse nach Stilllegung der Abfallentsorgungseinrichtung, die die Stabilität der Anlage beeinträchtigen können, der zuständigen Behörde unverzüglich mitzuteilen sowie alle erforderlichen Messergebnisse, Daten und Prüfberichte zu übermitteln.
 
-
-## Anhang 7 – (zu § 22a Abs. 3 Satz 4) Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
+# Anhang 7 – (zu § 22a Abs. 3 Satz 4) Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
 
 1  
 Die zuständige Behörde entscheidet über Art, Umfang und Höhe der Sicherheit. Der Unternehmer hat vor Inbetriebnahme der Abfallentsorgungseinrichtung eine Sicherheit nach Maßgabe der erteilten Genehmigung gegenüber der zuständigen Behörde nachzuweisen.

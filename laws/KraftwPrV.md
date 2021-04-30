@@ -1,15 +1,11 @@
-# [KraftwPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
-
-Ausfertigungsdatum: 19.02.2001
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
+% Ausfertigungsdatum: 19.02.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum Geprüften Kraftwerker/zur Geprüften Kraftwerkerin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 5 durchführen.
 
@@ -33,8 +29,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 2 – Gliederung der Prüfung
+# § 2 – Gliederung der Prüfung
 
 (1) Die Prüfung zum Kraftwerker gliedert sich in die Prüfungsteile:
 
@@ -48,8 +43,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Kraftwerkstechnologie“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -115,8 +109,7 @@ Die Protokolle nach Nummer 3 können auch beim Arbeiten an einem Kraftwerkssimul
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Kraftwerkstechnologie
+# § 4 – Kraftwerkstechnologie
 
 (1) Im Prüfungsteil "Kraftwerkstechnologie" ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -232,8 +225,7 @@ e) Kühlwasserversorgung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Kraftwerksbetrieb
+# § 5 – Kraftwerksbetrieb
 
 (1) Im Prüfungsteil "Kraftwerksbetrieb" ist in Form eines situationsbezogenen Fachgespräches zu prüfen. Dabei sind der zu prüfenden Person eine oder mehrere betriebliche Situationen, insbesondere Anfahren, Geradeausbetrieb, Last- und Brennstoffwechsel, Abfahren, Stillstand, Störungen und Vorbereitung von Wartungs- und Instandsetzungsarbeiten, vorzugeben. Das situationsbezogene Fachgespräch soll sich auf das Kraftwerk, in dem die zu prüfende Person ihre berufspraktischen Zeiten gemäß § 3 Abs. 3 abgeleistet hat sowie auf die Dokumentation gemäß § 3 Abs. 2 Nr. 3 beziehen. In das situationsbezogene Fachgespräch können zusätzlich die reale Anlage, Modelle oder Kraftwerkssimulatoren einbezogen werden. Das situationsbezogene Fachgespräch soll die folgenden Kraftwerksbereiche berücksichtigen:
 
@@ -261,15 +253,13 @@ e) Kühlwasserversorgung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“ nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbereiche befreit, bleiben diese Prüfungsbereiche für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbereiche erhöhen sich die Anteile nach § 7 Absatz 3 oder § 8 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbereiche sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Eine Befreiung von der Prüfung im Prüfungsteil „Kraftwerksbetrieb“ ist nicht zulässig.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -279,8 +269,7 @@ Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“ nach �
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -296,8 +285,7 @@ Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“ nach �
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -311,8 +299,7 @@ Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“ nach �
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden. Der Antrag auf Wiederholung der Prüfung ist innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zu stellen.
 
@@ -320,8 +307,7 @@ Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“ nach �
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren können einschließlich einer Wiederholungsprüfung nach den bisherigen Vorschriften zu Ende geführt werden.
 
@@ -329,22 +315,19 @@ Wird die zu prüfende Person im Prüfungsteil „Kraftwerkstechnologie“ nach �
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2218 - 2219)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2219)
 

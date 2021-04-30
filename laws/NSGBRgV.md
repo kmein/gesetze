@@ -1,20 +1,15 @@
-# [NSGBRgV] Verordnung über die Festsetzung des Naturschutzgebietes „Borkum Riffgrund“   (NSGBRgV)
-
-Ausfertigungsdatum: 22.09.2017
-
+% Verordnung über die Festsetzung des Naturschutzgebietes „Borkum Riffgrund“   (NSGBRgV)
+% Ausfertigungsdatum: 22.09.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56 Absatz 1, § 32 Absatz 2 und 3, § 20 Absatz 2, § 22 Absatz 1 sowie § 23 Absatz 1 und Absatz 2 Satz 1 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), von denen § 57 Absatz 2 durch Artikel 421 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Erklärung zum Naturschutzgebiet
+# § 1 – Erklärung zum Naturschutzgebiet
 
 Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels wird zum Naturschutzgebiet erklärt. Das Naturschutzgebiet erhält die Bezeichnung „Borkum Riffgrund“. Es ist Teil des zusammenhängenden europäischen ökologischen Netzes „Natura 2000“ und als Gebiet von gemeinschaftlicher Bedeutung nach der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), die zuletzt durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, registriert.
 
-
-## § 2 – Schutzgegenstand
+# § 2 – Schutzgegenstand
 
 (1) Das Naturschutzgebiet „Borkum Riffgrund“ hat eine Fläche von 625 Quadratkilometern und liegt in der Nordsee nördlich der ostfriesischen Wattenmeerinseln Borkum und Juist. Es umfasst eine aus Reliktsedimenten hervorgegangene Sandbank, die als Fortsetzung der saaleeiszeitlichen oldenburgisch-ostfriesischen Grundmoräne anzusehen ist.
 
@@ -28,8 +23,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 (6) Die Bestimmungen nach den Absätzen 2 bis 4 haben Vorrang gegenüber der Darstellung in der Übersichtskarte nach Anlage 2.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Die Unterschutzstellung des Meeresgebietes als Naturschutzgebiet dient der Verwirklichung der Erhaltungsziele des Natura 2000-Gebietes durch dauerhafte Bewahrung des Meeresgebietes, der Vielfalt seiner für dieses Gebiet maßgeblichen Lebensräume, Lebensgemeinschaften und Arten sowie der besonderen Vielgestaltigkeit des Meeresbodens und seiner Sedimente.
 
@@ -73,8 +67,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 5. einer hohen Vitalität der Individuen und arttypischen Altersstruktur der Bestände der Fische und Rundmäuler sowie der räumlichen und zeitlichen Verbreitungsmuster und Bestandsdichten ihrer natürlichen Nahrungsgrundlagen.
 
-
-## § 4 – Verbote
+# § 4 – Verbote
 
 (1) Vorbehaltlich des § 5 sind verboten
 
@@ -100,8 +93,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 3. Maßnahmen, die zur Erfüllung öffentlicher Aufgaben im Rahmen der Gefahrenabwehr, der Strafverfolgung, der Zollverwaltung, der Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs, der Strahlenschutzvorsorge, der Seevermessung, meereskundlicher Untersuchungen und Überwachungen, der Untersuchung und Überwachung von Einrichtungen und Anlagen einschließlich Voruntersuchungen, der Fischereiaufsicht und -datenerhebung zur Sicherung der Fischbestände, des Katastrophenschutzes, der Kampfmittelbeseitigung und der Unfallbekämpfung einschließlich des Seenotrettungswesens erforderlich sind; § 34 des Bundesnaturschutzgesetzes bleibt unberührt.
 
-
-## § 5 – Zulässigkeit von bestimmten Projekten und Plänen
+# § 5 – Zulässigkeit von bestimmten Projekten und Plänen
 
 (1) Projekte
 
@@ -135,15 +127,13 @@ gelten die Absätze 1 bis 3 entsprechend.
 
 (7) Die Prüfung nach den Absätzen 1, 2, 4 und 5 obliegt der für die Zulassung, die Entgegennahme der Anzeige oder die Durchführung zuständigen Behörde, im Übrigen dem Bundesamt für Naturschutz. Die Prüfung nach Absatz 6 obliegt der für den Plan oder die Entscheidung zuständigen Behörde.
 
-
-## § 6 – Ausnahmen und Befreiungen
+# § 6 – Ausnahmen und Befreiungen
 
 (1) Von den Verboten des § 4 Absatz 1 und 2 kann das Bundesamt für Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit die Handlung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes nicht zu erheblichen Beeinträchtigungen der für den Schutzzweck nach § 3 Absatz 3 bis 5 maßgeblichen Bestandteile des Gebietes führen kann.
 
 (2) Von den Verboten des § 4 Absatz 1 und 2 kann das Bundesamt für Naturschutz auf Antrag nach Maßgabe des § 67 des Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
-
-## § 7 – Bewirtschaftungsplan
+# § 7 – Bewirtschaftungsplan
 
 (1) Die zur Erreichung des Schutzzwecks nach § 3 Absatz 3 bis 5 notwendigen Maßnahmen einschließlich der erforderlichen Wiederherstellungsmaßnahmen werden in einem Bewirtschaftungsplan dargestellt. Der Plan kann auch die zur Erreichung des Schutzzwecks nach § 3 Absatz 1 und 2 notwendigen Maßnahmen enthalten. Er bestimmt ferner die Kontrolle des Maßnahmenerfolgs.
 
@@ -157,8 +147,7 @@ gelten die Absätze 1 bis 3 entsprechend.
 
 (6) § 5 Absatz 6 Satz 1 findet keine Anwendung.
 
-
-## § 8 – Weitergehende Vorschriften
+# § 8 – Weitergehende Vorschriften
 
 Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zählen insbesondere
 
@@ -170,18 +159,15 @@ Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zäh
 
 4. die Vorschrift des § 329 Absatz 4 des Strafgesetzbuches.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2 Absatz 2)Geographische Koordinaten des Naturschutzgebietes „Borkum Riffgrund“
+# Anlage 1 – (zu § 2 Absatz 2)Geographische Koordinaten des Naturschutzgebietes „Borkum Riffgrund“
 
 (Fundstelle: BGBl. I 2017, 3399)
 
-
-## Anlage 2 – (zu § 2 Absatz 5)Übersichtskarte des Naturschutzgebietes
+# Anlage 2 – (zu § 2 Absatz 5)Übersichtskarte des Naturschutzgebietes
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 63 v. 27.9.2017)
 

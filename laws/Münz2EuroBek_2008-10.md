@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2008-10] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Wirtschafts- und Währungsunion“)
-
-Ausfertigungsdatum: 31.10.2008
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Wirtschafts- und Währungsunion“)
+% Ausfertigungsdatum: 31.10.2008
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „10 Jahre Wirtschafts- und Währungsunion“ prägen zu lassen.
 
@@ -22,10 +19,8 @@ Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G�
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn George Stamatopoulos, einem für die griechische Zentralbank tätigen Bildhauer.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----

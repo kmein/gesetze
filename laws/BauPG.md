@@ -1,10 +1,7 @@
-# [BauPG] Gesetz zur Durchführung der Verordnung (EU) Nr. 305/2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Umsetzung und Durchführung anderer Rechtsakte der Europäischen Union in Bezug auf Bauprodukte  (Bauproduktengesetz - BauPG)
-
-Ausfertigungsdatum: 05.12.2012
-
+% Gesetz zur Durchführung der Verordnung (EU) Nr. 305/2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Umsetzung und Durchführung anderer Rechtsakte der Europäischen Union in Bezug auf Bauprodukte  (Bauproduktengesetz - BauPG)
+% Ausfertigungsdatum: 05.12.2012
  
-
-## § 1 – Technische Bewertungsstelle
+# § 1 – Technische Bewertungsstelle
 
 (1) Das Deutsche Institut für Bautechnik in Berlin ist Technische Bewertungsstelle im Sinne von Artikel 29 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März 2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5) (EU-Bauproduktenverordnung), insbesondere für die in Anhang IV Tabelle 1 der EU-Bauproduktenverordnung in der jeweils geltenden Fassung genannten Produktbereiche.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 05.12.2012
 
 (4) Dem Bundesministerium des Innern, für Bau und Heimat obliegen die Mitteilung nach Artikel 29 Absatz 1 Unterabsatz 2 der EU-Bauproduktenverordnung und die Unterrichtungen nach Artikel 29 Absatz 3 Unterabsatz 2 und Artikel 30 Absatz 3 der EU-Bauproduktenverordnung.
 
-
-## § 2 – Widerruf der Benennung als Technische Bewertungsstelle
+# § 2 – Widerruf der Benennung als Technische Bewertungsstelle
 
 (1) Gelangt der Verwaltungsrat des Deutschen Instituts für Bautechnik bei der nach § 1 Absatz 3 vorzunehmenden Überwachung und Begutachtung zu der Auffassung, dass eine Benennung des Deutschen Instituts für Bautechnik als Technische Bewertungsstelle für einen oder mehrere Produktbereiche nicht mehr gerechtfertigt ist, so teilt er dies dem Bundesministerium des Innern, für Bau und Heimat unter Angabe seiner Gründe mit.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 05.12.2012
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat kann eine Neubenennung vornehmen, wenn die rechtlichen Anforderungen hierfür erfüllt sind.
 
-
-## § 3 – Notifizierende Behörde und notifizierte Stellen
+# § 3 – Notifizierende Behörde und notifizierte Stellen
 
 (1) Das Deutsche Institut für Bautechnik ist notifizierende Behörde im Sinne von Artikel 40 Absatz 1 der EU-Bauproduktenverordnung. Es nimmt die Notifizierungen nach Artikel 39 der EU-Bauproduktenverordnung vor.
 
@@ -32,25 +27,21 @@ Ausfertigungsdatum: 05.12.2012
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat unterrichtet die Europäische Kommission nach Artikel 42 Satz 1 der EU-Bauproduktenverordnung.
 
-
-## § 4 – Antrag auf Notifizierung
+# § 4 – Antrag auf Notifizierung
 
 Dem Antrag auf Notifizierung nach Artikel 47 Absatz 1 der EU-Bauproduktenverordnung ist die in Artikel 47 Absatz 2 genannte Akkreditierungsurkunde der Deutschen Akkreditierungsstelle GmbH beizufügen.
 
-
-## § 5 – Marktüberwachung
+# § 5 – Marktüberwachung
 
 (1) Auf die Marktüberwachung im Hinblick auf die rechtlichen Anforderungen, die sich aus der EU-Bauproduktenverordnung ergeben, sind die §§ 4, 5, 7, 9 bis 23, 24 Absatz 1 Satz 3 sowie die §§ 32 bis 38 des Produktsicherheitsgesetzes nicht anzuwenden.
 
 (2) Mitteilungen der Marktüberwachungsbehörden über Bauprodukte zum Zweck der Unterrichtung der Europäischen Kommission sind zugleich dem Bundesministerium des Innern, für Bau und Heimat zuzuleiten.
 
-
-## § 6 – Sprache
+# § 6 – Sprache
 
 Für Artikel 7 Absatz 4, Artikel 11 Absatz 6, Artikel 13 Absatz 4 und Artikel 14 Absatz 2 der EU-Bauproduktenverordnung wird Deutsch als die zu verwendende Sprache festgelegt. Die in Artikel 11 Absatz 8 Satz 1, Artikel 13 Absatz 9 Satz 1 und Artikel 14 Absatz 5 Satz 1 der EU-Bauproduktenverordnung enthaltene Anforderung gilt als erfüllt, wenn die deutsche Sprache verwendet wird.
 
-
-## § 7 – Rechtsverordnungen zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union
+# § 7 – Rechtsverordnungen zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union
 
 (1) Die Bundesregierung kann zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union, die Regelungen über das Inverkehrbringen von Bauprodukten enthalten, mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die die Voraussetzungen für das Inverkehrbringen von solchen Bauprodukten geregelt werden, die nicht unter die EU-Bauproduktenverordnung fallen. Dabei können insbesondere Prüfungen, Überwachungen, Bescheinigungen, Kennzeichnungen, Aufbewahrungs- und Mitteilungspflichten, behördliche Maßnahmen sowie andere als die nach der EU-Bauproduktenverordnung erforderlichen Konformitätsnachweisverfahren vorgeschrieben werden. Darüber hinaus können sonstige Regelungen, die mit dem Inverkehrbringen von Bauprodukten in engem Zusammenhang stehen, getroffen werden.
 
@@ -60,8 +51,7 @@ Für Artikel 7 Absatz 4, Artikel 11 Absatz 6, Artikel 13 Absatz 4 und Artikel 14
 
 2. die kostenpflichtigen Tatbestände und die Gebührensätze.
 
-
-## § 8 – Bußgeldvorschriften
+# § 8 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach § 7 Absatz 1 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
@@ -117,7 +107,6 @@ zuwiderhandelt.
 
 (3) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2 Nummer 2, 5, 8, 9, 12, 13, 14, 15, 16 und 18 Buchstabe a und b mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 9 – Strafvorschriften
+# § 9 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer eine in § 8 Absatz 2 Nummer 2 Buchstabe a, Nummer 5, 9, 14 oder Nummer 18 Buchstabe a oder Buchstabe b bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.

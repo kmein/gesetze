@@ -1,34 +1,25 @@
-# [BierStDB] Verordnung zur Durchführung des Vorläufigen Biergesetzes
-
-Ausfertigungsdatum: 28.03.1931
-
+% Verordnung zur Durchführung des Vorläufigen Biergesetzes
+% Ausfertigungsdatum: 28.03.1931
  
+# §§ 1 und 2 – (weggefallen)
 
-## §§ 1 und 2 – (weggefallen)
-
-
-## § 3
+# § 3
 
 Das Biersteuergesetz gilt in Bayern und im Gebiet der ehemaligen Länder Württemberg und Baden nach Maßgabe der Gesetze vom 27. März 1919 (Reichsgesetzbl. S. 345) und vom 24. Juni 1919 (Reichsgesetzbl. S. 599) in der durch das Gesetz vom 9. April 1927 (Reichsgesetzbl. I S. 94) geänderten Fassung.
 
+# §§ 4 bis 7 – (weggefallen)
 
-## §§ 4 bis 7 – (weggefallen)
-
-
-## § 8
+# § 8
 
 Der Stammwürzegehalt des Bieres ist der Gehalt der ungegorenen Anstellwürze, aus der das Bier hergestellt ist oder nach seiner Beschaffenheit hätte hergestellt sein können, an löslichen Stoffen in Gewichtshundertteilen. Er wird aus dem Restextraktgehalt (Gehalt an nicht flüchtigen gelösten Stoffen) und dem Alkoholgehalt des Bieres errechnet. Nachträgliche Verminderungen des Alkoholgehalts werden dabei nicht berücksichtigt.
 
+# §§ 9 bis 15 – (weggefallen)
 
-## §§ 9 bis 15 – (weggefallen)
-
-
-## § 16
+# § 16
 
 Die Ausdrücke "Bereitung von Bier" und "Bierbereitung" sind im weitesten Sinn zu verstehen. Sie umfassen alle Teile der Herstellung und Behandlung des Bieres in der Brauerei selbst wie außerhalb dieser - beim Bierverleger, Wirt und dergleichen - bis zur Abgabe des Bieres an den Verbraucher.
 
-
-## § 17
+# § 17
 
 (1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8 des Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs. 1, 2 und 4 des Gesetzes zugelassenen Braustoffe und Brauersatzstoffe verwendet werden. Die Vorschriften der Zusatzstoff-Zulassungsverordnung sind anzuwenden. Farbebier muß aus Gerstenmalz, Hopfen, untergäriger Hefe und Wasser hergestellt werden, es muß vergoren sein.
 
@@ -38,30 +29,25 @@ Die Ausdrücke "Bereitung von Bier" und "Bierbereitung" sind im weitesten Sinn z
 
 (4) Zur Bereitung von obergärigem Bier darf Malz auch aus anderem Getreide als Gerste verwendet werden. Reis, Mais oder Dari gelten nicht als Getreide im Sinne des § 9 Abs. 3 des Gesetzes.
 
-
-## § 18
+# § 18
 
 Rüben-, Rohr- oder Invertzucker ist technisch rein, wenn er mindestens 99,5 Gewichtshundertteile Zucker, bezogen auf den Trockenstoff, enthält. Stärkezucker ist der aus natürlicher Stärke gewonnene Zucker. Es ist zulässig, den Zucker auch in der Form von wäßrigen Lösungen zu verwenden.
 
-
-## § 19
+# § 19
 
 Wasser im Sinne des § 9 Abs. 1 des Gesetzes ist alles in der Natur vorkommende, gesundheitlich unbedenkliche Wasser sowie solches Wasser, das nach Maßgabe der jeweils geltenden lebensmittelrechtlichen Vorschriften für Trink- oder Brauzwecke aufbereitet worden ist. Maische oder Würze darf mit auf dem Malz natürlich vorkommenden Milchsäurebakterien, auch wenn sie vermehrt worden sind, angereichert werden.
 
-
-## § 20
+# § 20
 
 (1) Die Verwendung von Rückständen, die bei der Bereitung obergärigen Bieres verbleiben, zu dem anderes Malz als Gerstenmalz oder zu dem Zucker verwendet wurde, ist bei der Bereitung untergärigen Bieres nicht zulässig.
 
 (2) bis (4) (weggefallen)
 
-
-## § 21
+# § 21
 
 Als obergärig gelten die mit obergäriger, Auftrieb gebender Hefe hergestellten, als untergärig die mit untergäriger, ausschließlich zu Boden gehender Hefe bereiteten Biere.
 
-
-## § 22
+# § 22
 
 (1) Zucker und aus Zucker hergestellte Farbmittel (gebräunter Zucker) dürfen nur bei der Bereitung von solchem Bier verwendet werden, dessen Würze mit reiner obergäriger Hefe, also weder mit untergäriger Hefe noch mit einer aus obergäriger und untergäriger Hefe zusammengesetzten Mischhefe, angestellt worden ist. Die nach Landesrecht zuständige Behörde kann jedoch im Bedürfnisfall widerruflich zulassen, daß unter Zuckerverwendung oder aus Weizenmalz hergestellten obergärigen Bieren eine verhältnismäßig geringe Menge untergäriger Hefe oder untergäriger Kräusen (in Gärung befindlicher, mit untergäriger Hefe angestellter Würze) zum Zweck einer besseren Klärung oder zur Erzielung eines festeren Absetzens der Hefe zugesetzt wird. Die Zulassung ist an folgende Bedingungen und Auflagen zu knüpfen:
 

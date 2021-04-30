@@ -1,15 +1,11 @@
-# [FachkBüroPrV 2012] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und Projektorganisation
-
-Ausfertigungsdatum: 09.02.2012
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und Projektorganisation
+% Ausfertigungsdatum: 09.02.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Fachwirt für Büro- und Projektorganisation und zur Geprüften Fachwirtin für Büro- und Projektorganisation nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -33,8 +29,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt für Büro- und Projektorganisation“ oder „Geprüfte Fachwirtin für Büro- und Projektorganisation“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -50,8 +45,7 @@ nachweist.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung gliedert sich in folgende Handlungsbereiche:
 
@@ -75,8 +69,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Inhalte der Prüfung
+# § 4 – Inhalte der Prüfung
 
 (1) Im Handlungsbereich „Koordinieren von Entscheidungsprozessen im Rahmen betrieblicher Organisationsstrukturen“ soll die Kompetenz nachgewiesen werden, dass eigenständig Entscheidungserfordernisse in einem flexiblen Prozessablauf erkannt und bewertet werden können sowie deren betriebsspezifische Verarbeitung veranlasst werden kann. Verhaltens- und Zielstrukturen sind zu berücksichtigen, sodass Entscheidungsgrundlagen erarbeitet und die wesentlichen zu integrierenden betrieblichen Schnittstellen mit einbezogen werden können. In diesem Rahmen können folgende Qualifikationsinhalte nachgewiesen werden:
 
@@ -120,15 +113,13 @@ nachweist.
 
 4. im Rahmen des Wissensmanagements Erfahrungen und Informationen sichern sowie einen Austausch ermöglichen.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 7 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -148,8 +139,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen und der mündlichen Teilprüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -161,8 +151,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -176,8 +165,7 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -185,15 +173,13 @@ Aus den Bewertungen der Präsentation und des Fachgesprächs wird als zusammenge
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 Mit der erfolgreich abgelegten Fortbildungsprüfung nach dieser Verordnung wurden auch die berufs- und arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach § 30 Absatz 5 des Berufsbildungsgesetzes nachgewiesen. Der zu prüfenden Person ist das Zeugnis nach § 5 der Ausbilder-Eignungsverordnung auszustellen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Fachkaufmann für Büromanagement und zur Geprüften Fachkauffrau für Büromanagement können bis zum 31. Dezember 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2014 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -201,15 +187,13 @@ Mit der erfolgreich abgelegten Fortbildungsprüfung nach dieser Verordnung wurde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2353 – 2354)
 
@@ -218,8 +202,7 @@ Diese Verordnung tritt am 1. Juli 2012 in Kraft. Gleichzeitig tritt die Verordnu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2354 – 2355)
 

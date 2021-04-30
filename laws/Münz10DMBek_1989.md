@@ -1,10 +1,7 @@
-# [Münz10DMBek 1989] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 40 Jahre Bundesrepublik Deutschland)
-
-Ausfertigungsdatum: 30.03.1989
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 40 Jahre Bundesrepublik Deutschland)
+% Ausfertigungsdatum: 30.03.1989
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, zum 40jährigen Bestehen der Bundesrepublik Deutschland im Jahre 1989 eine Bundesmünze (Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Karlsruhe.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 30.03.1989
 
 (4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden glatten Randstab umgeben.
 
-(5) Die Bildseite zeigt die Wappen der 11 Bundesländer, die kreisförmig angeordnet und durch Seile miteinander verbunden sind. Die Anordnung der Seile läßt in der Mitte die Zahl 40 erkennen.  
-Die Umschrift lautet:
+(5) Die Bildseite zeigt die Wappen der 11 Bundesländer, die kreisförmig angeordnet und durch Seile miteinander verbunden sind. Die Anordnung der Seile läßt in der Mitte die Zahl 40 erkennen. Die Umschrift lautet:
 
   
 "BUNDESREPUBLIK DEUTSCHLAND
@@ -40,17 +36,15 @@ Die Umschrift lautet:
 
 (9) Zwischen Ende und Anfang der Randschrift ist ein fünfeckiger Stern eingeprägt.
 
-(10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.  
-  
+(10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.   
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
   
 (Fundstelle: BGBl. I 1989, 658)
 
   
   
-![](../normengrafiken/bgbl1_1989/j0658_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1989/j0658_0010.jpg)  
   

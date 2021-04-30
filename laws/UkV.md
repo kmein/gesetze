@@ -1,15 +1,11 @@
-# [UkV] Verordnung über die Zuständigkeit und das Verfahren bei der Unabkömmlichstellung  (Unabkömmlichstellungsverordnung - UkV)
-
-Ausfertigungsdatum: 24.08.2005
-
+% Verordnung über die Zuständigkeit und das Verfahren bei der Unabkömmlichstellung  (Unabkömmlichstellungsverordnung - UkV)
+% Ausfertigungsdatum: 24.08.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13 Abs. 2 in Verbindung mit § 50 Abs. 1 Nr. 2 und § 50 Abs. 2 des Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1465) sowie des § 68 Abs. 2 in Verbindung mit § 93 Abs. 1 Nr. 9 und § 93 Abs. 4 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) verordnet die Bundesregierung:
 
-
-## § 1 – Vorschlagsrecht
+# § 1 – Vorschlagsrecht
 
 (1) Die Unabkömmlichstellung von Wehrpflichtigen oder Dienstleistungspflichtigen im Spannungs- oder Verteidigungsfall können der zuständigen Wehrersatzbehörde vorschlagen:
 
@@ -45,8 +41,7 @@ Auf Grund des § 13 Abs. 2 in Verbindung mit § 50 Abs. 1 Nr. 2 und § 50 Abs. 2
 
 (5) Die Vorschläge sind zu begründen.
 
-
-## § 2 – Gutachtliche Stellungnahmen
+# § 2 – Gutachtliche Stellungnahmen
 
 (1) Wer, ohne selbst vorschlagsberechtigt zu sein, als Dienstherr, Arbeitgeber oder Arbeitgeberin die Unabkömmlichstellung von Wehrpflichtigen oder Dienstleistungspflichtigen anstrebt, benennt diese mit Begründung der nach § 1 vorschlagsberechtigten Behörde.
 
@@ -80,8 +75,7 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (4) Die Behörde beteiligt, soweit erforderlich, die Agentur für Arbeit.
 
-
-## § 3 – Verfahrensgrundsätze
+# § 3 – Verfahrensgrundsätze
 
 (1) Vorschläge zur Unabkömmlichstellung können eingereicht werden, wenn die Bundesregierung den Bereitschaftsdienst angeordnet hat oder der Spannungs- oder der Verteidigungsfall festgestellt worden ist.
 
@@ -101,13 +95,11 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (7) Die Entscheidung ist der vorschlagsberechtigten Behörde schriftlich mitzuteilen.
 
-
-## § 4 – (weggefallen)
+# § 4 – (weggefallen)
 
 \-
 
-
-## § 5 – Widerruf der Unabkömmlichstellung
+# § 5 – Widerruf der Unabkömmlichstellung
 
 (1) Die Unabkömmlichstellung ist bei Wegfall ihrer Voraussetzungen schriftlich zu widerrufen.
 
@@ -121,8 +113,7 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (3) Vor dem Widerruf einer Unabkömmlichstellung soll die vorschlagsberechtigte Behörde gehört werden.
 
-
-## § 6 – Ausgleich von Meinungsverschiedenheiten
+# § 6 – Ausgleich von Meinungsverschiedenheiten
 
 (1) Lehnt die Wehrersatzbehörde eine Unabkömmlichstellung ab oder widerruft sie diese nach § 5, kann die vorschlagsberechtigte Behörde innerhalb einer Woche nach Zugang der Entscheidung einen bei der Wehrersatzbehörde gebildeten Ausschuss anrufen.
 
@@ -130,12 +121,10 @@ g) der nichtbundeseigenen Häfen von der für Häfen zuständigen obersten Lande
 
 (3) Zuständig ist der Ausschuss bei der Wehrersatzbehörde, die die Unabkömmlichstellung abgelehnt oder widerrufen hat. Befinden sich der Sitz der vorschlagsberechtigten Behörde und der Sitz des Kreiswehrersatzamtes in verschiedenen Ländern, ist diejenige Landesregierung für die Entsendung des Beisitzers oder der Beisitzerin zuständig, in deren Zuständigkeitsbereich das Kreiswehrersatzamt seinen Sitz hat.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

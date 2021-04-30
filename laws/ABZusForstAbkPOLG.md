@@ -1,20 +1,15 @@
-# [ABZusForstAbkPOLG] Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
-
-Ausfertigungsdatum: 15.05.1996
-
+% Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
+% Ausfertigungsdatum: 15.05.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna) sowie dem dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen und das Protokoll werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Auf die in Artikel 9 Abs. 1 des Abkommens bezeichneten Umsätze findet polnisches Waren- und Dienstleistungssteuerrecht Anwendung. Für diese Umsätze wird keine deutsche Umsatzsteuer erhoben.
 
@@ -22,8 +17,7 @@ Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der Bundesre
 
 (3) Die in Artikel 9 des Abkommens vorgesehenen steuerlichen Bestimmungen sind mit Wirkung vom 21. März 1995 anzuwenden.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

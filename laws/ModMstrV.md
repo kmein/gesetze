@@ -1,15 +1,11 @@
-# [ModMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Modisten-Handwerk  (Modistenmeisterverordnung - ModMstrV)
-
-Ausfertigungsdatum: 09.09.1994
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Modisten-Handwerk  (Modistenmeisterverordnung - ModMstrV)
+% Ausfertigungsdatum: 09.09.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Modisten-Handwerk sind folgende Tätigkeiten zuzurechnen:  
 Entwurf, Anfertigung, Veränderung und Reparatur von Kopfbedeckungen und Beiwerk, insbesondere aus Filz, Stroh, Stoff, Pelz und Leder.
@@ -58,8 +54,7 @@ Entwurf, Anfertigung, Veränderung und Reparatur von Kopfbedeckungen und Beiwerk
 
 21. Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und Maschinen.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -67,8 +62,7 @@ Entwurf, Anfertigung, Veränderung und Reparatur von Kopfbedeckungen und Beiwerk
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit sind die nachstehend genannten Arbeiten anzufertigen:
 
@@ -84,15 +78,13 @@ Entwurf, Anfertigung, Veränderung und Reparatur von Kopfbedeckungen und Beiwerk
 
 (3) Die Skizze mit Maßangaben zu der Arbeit nach Absatz 1 Nr. 1, das Schnittmuster zu der Arbeit nach Absatz 1 Nr. 3 sowie die Vor- und Nachkalkulationen sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe ist eine modische Unterform mit handgeformter Sparterie und einem Drahtrand auszuführen.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden vier Prüfungsfächern nachzuweisen:
 
@@ -132,18 +124,15 @@ Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Fak
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Dezember 1994 in Kraft.
 

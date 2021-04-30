@@ -1,15 +1,11 @@
-# [AFuV] Verordnung zum Gesetz über den Amateurfunk  (Amateurfunkverordnung - AFuV)
-
-Ausfertigungsdatum: 15.02.2005
-
+% Verordnung zum Gesetz über den Amateurfunk  (Amateurfunkverordnung - AFuV)
+% Ausfertigungsdatum: 15.02.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 2 Satz 2, des § 4 Abs. 1 Satz 1 und der §§ 6 und 8 Satz 2 des Amateurfunkgesetzes vom 23. Juni 1997 (BGBl. I S. 1494), die durch Artikel 229 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden sind, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -29,8 +25,7 @@ Diese Verordnung regelt
 
 Regelungen der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder vom 20. August 2002 (BGBl. I S. 3366) bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -56,15 +51,13 @@ Im Sinne dieser Verordnung ist
 
 11. "unerwünschte Aussendung" jede Aussendung außerhalb der erforderlichen Bandbreite; dies ist die Bandbreite, welche für eine gegebene Sendeart gerade ausreicht, um die Übertragung der Nachricht mit der Geschwindigkeit und Güte sicherzustellen, die unter den gegebenen Bedingungen erforderlich ist.
 
-
-## § 3 – Zulassung zur Prüfung
+# § 3 – Zulassung zur Prüfung
 
 (1) Der Antrag auf Zulassung zur Prüfung ist gleichzeitig mit dem Antrag auf Erteilung eines Amateurfunkzeugnisses nach bestandener Prüfung in schriftlicher oder elektronischer Form an die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Regulierungsbehörde) zu richten. Einzelheiten zum Antragsverfahren werden von der Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
 
 (2) Die Zulassung zur Prüfung erfolgt, wenn zuvor die jeweilige Gebühr gemäß Anlage 2 Nr. 1 dieser Verordnung entrichtet wurde.
 
-
-## § 4 – Prüfungsanforderungen und Prüfungsinhalte
+# § 4 – Prüfungsanforderungen und Prüfungsinhalte
 
 (1) In der fachlichen Prüfung für Funkamateure hat der Bewerber für das Amateurfunkzeugnis der Klasse A folgende Kenntnisse nachzuweisen:
 
@@ -82,8 +75,7 @@ Im Sinne dieser Verordnung ist
 
 (5) In einer freiwilligen Zusatzprüfung können Fertigkeiten im Hören und Geben von Morsezeichen nachgewiesen werden. Die Prüfung ist gebührenpflichtig nach Anlage 2 Nr. 1c. Die Regulierungsbehörde bescheinigt den erfolgreichen Nachweis von praktischen Fertigkeiten im Hören und Geben von Morsezeichen. Die Bestimmungen der §§ 5 und 6 gelten entsprechend.
 
-
-## § 5 – Durchführung der Prüfung
+# § 5 – Durchführung der Prüfung
 
 (1) Die Prüfung nach § 4 Abs. 1, 2 und 3 besteht aus einer schriftlichen Prüfung, der unter den nach Absatz 5 festzulegenden Voraussetzungen eine mündliche Nachprüfung folgen kann. Die Prüfungen sind nicht öffentlich. Der Vorsitzende des Prüfungsausschusses kann Personen, die ein berechtigtes Interesse nachweisen, die Anwesenheit bei der Prüfung gestatten.
 
@@ -95,8 +87,7 @@ Im Sinne dieser Verordnung ist
 
 (5) Einzelheiten zur Durchführung von Prüfungen werden nach Anhörung der betroffenen Kreise von der Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
 
-
-## § 6 – Prüfungsausschuss
+# § 6 – Prüfungsausschuss
 
 (1) Zur Abnahme von Prüfungen werden von der Regulierungsbehörde Prüfungsausschüsse gebildet. Ein Prüfungsausschuss besteht aus einem Vorsitzenden und mindestens einem Beisitzer.
 
@@ -110,8 +101,7 @@ Im Sinne dieser Verordnung ist
 
 Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
 
-
-## § 7 – Amateurfunkzeugnis
+# § 7 – Amateurfunkzeugnis
 
 (1) Amateurfunkzeugnisse werden in die Klassen A und E eingeteilt. Das Amateurfunkzeugnis der Klasse A entspricht der harmonisierten Prüfungsbescheinigung (HAREC) der CEPT (Europäische Konferenz der Verwaltungen für Post und Telekommunikation). Die Amateurfunkzeugnisse werden von der Regulierungsbehörde nach bestandener fachlicher Prüfung erteilt.
 
@@ -119,15 +109,13 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (3) Voraussetzung für die Erteilung eines Amateurfunkzeugnisses der Klasse E ist, dass der Prüfungsteilnehmer die Prüfung gemäß § 5 Abs. 2 bestanden und damit die in § 4 Abs. 2 geforderten Kenntnisse nachgewiesen hat.
 
-
-## § 8 – Anerkennung von Prüfungsbescheinigungen und Genehmigungen
+# § 8 – Anerkennung von Prüfungsbescheinigungen und Genehmigungen
 
 (1) Prüfungsbescheinigungen aus Staaten, die sich zur Umsetzung der CEPT-Empfehlungen zu harmonisierten Prüfungsbescheinigungen verpflichtet haben, stehen deutschen Amateurfunkzeugnissen der entsprechenden Klasse gleich. Nähere Einzelheiten zur Umsetzung harmonisierter Regelungen der CEPT werden von der Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
 
 (2) Andere Prüfungsbescheinigungen oder Genehmigungen können anerkannt werden, wenn die ihnen zu Grunde liegenden Prüfungsinhalte und Anforderungen denen eines deutschen Amateurfunkzeugnisses gleichwertig sind. Der Regulierungsbehörde ist vom Original der Urkunden oder von Dokumenten nach Satz 1, die nicht in deutscher, englischer oder französischer Sprache abgefasst sind, eine beglaubigte Übersetzung vorzulegen.
 
-
-## § 9 – Zulassung zur Teilnahme am Amateurfunkdienst
+# § 9 – Zulassung zur Teilnahme am Amateurfunkdienst
 
 (1) Die Regulierungsbehörde lässt auf Antrag eine natürliche Person gemäß § 3 Abs. 1 des Amateurfunkgesetzes auf der Grundlage ihres vorgelegten Amateurfunkzeugnisses oder einer gleichwertigen Bescheinigung im Sinne von § 8 zur Teilnahme am Amateurfunkdienst unter gleichzeitiger Zuteilung eines personengebundenen Rufzeichens zu.
 
@@ -139,8 +127,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (5) Für den Empfang von Aussendungen ist eine Zulassung zur Teilnahme am Amateurfunkdienst nicht erforderlich.
 
-
-## § 10 – Rufzeichenzuteilung
+# § 10 – Rufzeichenzuteilung
 
 (1) Ein personengebundenes Rufzeichen wird einem Funkamateur von der Regulierungsbehörde auf der Grundlage des § 3 Abs. 3 Nr. 1 des Amateurfunkgesetzes zugeteilt. Es besteht kein Anspruch auf Zuteilung eines bestimmten Rufzeichens. Ein personengebundenes Rufzeichen, auf das verzichtet wurde, wird einem anderen Funkamateur frühestens nach einem Jahr neu zugeteilt.
 
@@ -148,8 +135,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (3) Die Regulierungsbehörde erstellt und veröffentlicht in ihrem Amtsblatt einen Rufzeichenplan für den Amateurfunkdienst in Deutschland. Der Rufzeichenplan enthält die angewendeten Rufzeichenreihen einschließlich der Zuordnung zu den Klassen und Verwendungszwecken, die zulässigen Kennungen, die nicht zuteilungsfähigen Rufzeichenzusammensetzungen und die international gebräuchlichen Rufzeichenzusätze.
 
-
-## § 11 – Rufzeichenanwendung
+# § 11 – Rufzeichenanwendung
 
 (1) Rufzeichen dienen der Identifikation. Die für den jeweiligen Verwendungszweck zugeteilten Rufzeichen sind bei Beginn und Beendigung jeder Funkverbindung sowie mindestens alle zehn Minuten während des Funkverkehrs zu übermitteln. Weitere Einzelheiten zur Rufzeichenanwendung können einschließlich der Ausnahmeregelung nach Absatz 4 von der Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht werden.
 
@@ -159,8 +145,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (4) Mit einem Rufzeichen darf nicht zeitgleich von verschiedenen Standorten aus am Amateurfunkdienst teilgenommen werden. Ausnahmen sind zulässig, bedürfen jedoch der vorherigen Zustimmung durch die Regulierungsbehörde.
 
-
-## § 12 – Ausbildungsfunkbetrieb
+# § 12 – Ausbildungsfunkbetrieb
 
 (1) Der Ausbildungsfunkbetrieb dient der praktischen Vorbereitung auf das Ablegen der fachlichen Prüfung zum Erwerb eines Amateurfunkzeugnisses. Zur Durchführung des Ausbildungsfunkbetriebs sind zum Amateurfunkdienst zugelassene Funkamateure nach vorheriger Zuteilung eines Ausbildungsrufzeichens gemäß § 3 Abs. 3 Nr. 2 des Amateurfunkgesetzes berechtigt. Das Ausbildungsrufzeichen wird auf Antrag zugeteilt. Mit der Zuteilung wird der Berechtigungsumfang für den Ausbildungsfunkbetrieb festgelegt.
 
@@ -170,8 +155,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (4) Beim Ausbildungsfunkbetrieb sind von dem Auszubildenden Angaben über den Funkbetrieb schriftlich festzuhalten und vom Ausbilder zu bestätigen. Dieser hat die Aufzeichnungen ein Jahr aufzubewahren.
 
-
-## § 13 – Fernbediente oder automatisch arbeitende Amateurfunkstellen
+# § 13 – Fernbediente oder automatisch arbeitende Amateurfunkstellen
 
 (1) Der Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle bedarf einer gesonderten Rufzeichenzuteilung nach § 3 Abs. 3 Nr. 3 des Amateurfunkgesetzes. Diese Funkstelle darf nur an dem in der Rufzeichenzuteilung aufgeführten Standort unter den dort festgelegten Rahmenbedingungen betrieben werden.
 
@@ -191,8 +175,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 4. der Inhaber des Rufzeichens seine Verpflichtungen nach Absatz 1 Satz 2 oder eine Auflage nach Absatz 3 Satz 2 nicht erfüllt.
 
-
-## § 14 – Klubstationen
+# § 14 – Klubstationen
 
 (1) Das Rufzeichen für das Betreiben einer Amateurfunkstelle als Klubstation gemäß § 3 Abs. 3 Nr. 4 des Amateurfunkgesetzes wird einem zur Teilnahme am Amateurfunkdienst zugelassenen Funkamateur zugeteilt, wenn er vom Leiter einer Gruppe von Funkamateuren der Regulierungsbehörde in schriftlicher oder elektronischer Form als Verantwortlicher für die Klubstation benannt worden ist. Mit der Zuteilung wird der Berechtigungsumfang für den Betrieb der Klubstation festgelegt.
 
@@ -202,8 +185,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (4) Zum Amateurfunkdienst zugelassene Funkamateure mit einem Amateurfunkzeugnis der Klasse E dürfen die Klubstation im Rahmen ihres Berechtigungsumfangs gemäß § 9 Abs. 2 mitbenutzen.
 
-
-## § 15 – Rufzeichenliste
+# § 15 – Rufzeichenliste
 
 (1) Die Regulierungsbehörde veröffentlicht die zugeteilten deutschen Rufzeichen und ihre Inhaber in einer Rufzeichenliste.
 
@@ -217,8 +199,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (3) Der Eintragung in die Rufzeichenliste kann widersprochen werden. Der Widerspruch ist in schriftlicher oder elektronischer Form bei der Regulierungsbehörde einzureichen. Sie hat die Funkamateure rechtzeitig und in angemessener Weise auf ihr Widerspruchsrecht hinzuweisen. Unabhängig vom Inhalt der Widersprüche werden alle zugeteilten Rufzeichen in Verbindung mit dem Namen des Inhabers und die Standorte von Amateurfunkstellen nach § 13 in das Verzeichnis aufgenommen.
 
-
-## § 16 – Technische und betriebliche Rahmenbedingungen für Amateurfunkstellen
+# § 16 – Technische und betriebliche Rahmenbedingungen für Amateurfunkstellen
 
 (1) Die Amateurfunkstelle ist nach den allgemein anerkannten Regeln der Technik einzurichten und zu unterhalten.
 
@@ -238,8 +219,7 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (9) Der Funkamateur hat geeignete Maßnahmen zu treffen, um eine missbräuchliche Benutzung seiner Amateurfunkstelle auszuschließen.
 
-
-## § 17 – Störungen und Maßnahmen bei Störungen
+# § 17 – Störungen und Maßnahmen bei Störungen
 
 (1) Die Regulierungsbehörde kann zur Ermittlung und zur Untersuchung von Störungsursachen oder zur Klärung frequenztechnischer Fragen den Betreiber einer Amateurfunkstelle zur Mitwirkung verpflichten. Hierbei kann sie insbesondere verlangen, dass der Funkamateur Angaben über den Betrieb der Amateurfunkstelle in schriftlicher Form festhält und vorlegt und dass der Funkamateur bei der Störungsuntersuchung Testaussendungen durchführt, die eine messtechnische Auswertung der Störszenarien ermöglichen.
 
@@ -247,13 +227,11 @@ Einzelheiten werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsb
 
 (3) Die Bestimmungen des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln bleiben unberührt.
 
-
-## § 18 – Gebühren und Auslagen
+# § 18 – Gebühren und Auslagen
 
 Für individuell zurechenbare öffentliche Leistungen nach dem Amateurfunkgesetz und dieser Verordnung werden Gebühren nach Anlage 2 dieser Verordnung und Auslagen nach § 23 Absatz 6 des Bundesgebührengesetzes erhoben.
 
-
-## § 19 – Übergangsregelungen
+# § 19 – Übergangsregelungen
 
 (1) Für Amateurfunkzeugnisse, die vor dem Inkrafttreten dieser Verordnung erteilt wurden, gilt:
 
@@ -267,8 +245,7 @@ Für individuell zurechenbare öffentliche Leistungen nach dem Amateurfunkgesetz
 
 (4) Bis zur Veröffentlichung allgemeiner Auflagen für die Nutzung des Frequenzbereichs gemäß Anlage 1 Buchstabe A Nr. 13 durch die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen gelten die Bestimmungen der Amtsblattmitteilung Nr. 311/2005 der Bundesnetzagentur (veröffentlicht im Amtsblatt Nr. 24/2005 vom 21. Dezember 2005) sinngemäß weiter.
 
-
-## § 20 – Inkrafttreten, Außerkrafttreten
+# § 20 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -276,17 +253,12 @@ Für individuell zurechenbare öffentliche Leistungen nach dem Amateurfunkgesetz
 
 (3) Bis zur Veröffentlichung der Richtwerte nach § 16 Abs. 4 dieser Verordnung gelten die in § 12 Abs. 3 und 4 der Verordnung zur Durchführung des Gesetzes über den Amateurfunk vom 13. März 1967 (BGBl. I S. 284) festgelegten Richtwerte.
 
-
-## Anlage 1 – (zu § 1 Nr. 6)Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
+# Anlage 1 – (zu § 1 Nr. 6)Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
 
 (Fundstelle: BGBl. I 2006, 2071 - 2073)
 
 Auf der Grundlage des § 6 Satz 1 des Gesetzes über den Amateurfunk vom 23. Juni 1997 (BGBl. I S. 1494) werden im Folgenden die technischen und betrieblichen Rahmenbedingungen für die Nutzung von Frequenzen des Amateurfunkdienstes und des Amateurfunkdienstes über Satelliten festgelegt:  
-Fernbediente und automatisch arbeitende Amateurfunkstellen im Sinne von § 13 Abs. 1 und 2 dieser Verordnung dürfen nur auf den in der Rufzeichenzuteilung für diese Amateurfunkstellen ausgewiesenen Frequenzen betrieben werden. Die maximal zulässige Strahlungsleistung für fernbediente oder automatisch arbeitende terrestrische Amateurfunkstellen beträgt oberhalb 30 MHz 15 Watt ERP. Der Inhaber der Rufzeichenzuteilung muss sicherstellen, dass fernbediente Amateurfunkstellen jederzeit abgeschaltet werden können.  
-Die belegte Bandbreite einer Aussendung ist entsprechend dem Stand der Technik auf das für die verwendete Sendeart notwendige Ausmaß zu beschränken. Die Mittenfrequenz der Aussendungen ist so zu wählen, dass die belegte Bandbreite innerhalb des dem Amateurfunk zugewiesenen Frequenzbereiches liegt. Der Vorrang des Funkverkehrs bereits belegter Frequenzen ist zu beachten.  
-Die Funkdienste werden nach primären und sekundären Funkdiensten unterschieden. Ein primärer Funkdienst ist ein Funkdienst, dessen Funkstellen Schutz gegen Störungen durch Funkstellen sekundärer Funkdienste verlangen können, auch wenn diesen Frequenzen bereits zugeteilt sind. Schutz gegen Störungen durch Funkstellen des gleichen oder eines anderen primären Funkdienstes kann nur die Funkstelle verlangen, der die Frequenz früher zugeteilt wurde. Ein sekundärer Funkdienst ist ein Funkdienst, dessen Funkstellen weder Störungen bei den Funkstellen eines primären Funkdienstes verursachen dürfen noch Schutz vor Störungen durch solche Funkstellen verlangen können, unabhängig davon, wann die Frequenzzuteilung an Funkstellen des primären Funkdienstes erfolgt. Sie können jedoch Schutz gegen Störungen durch Funkstellen des gleichen oder eines anderen sekundären Funkdienstes verlangen, deren Frequenzzuteilung später erfolgt.  
-In den Frequenzbereichen gemäß Buchstabe A gelten die Regelungen des Frequenznutzungsplans und zusätzlich die besonderen Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.  
-
+Fernbediente und automatisch arbeitende Amateurfunkstellen im Sinne von § 13 Abs. 1 und 2 dieser Verordnung dürfen nur auf den in der Rufzeichenzuteilung für diese Amateurfunkstellen ausgewiesenen Frequenzen betrieben werden. Die maximal zulässige Strahlungsleistung für fernbediente oder automatisch arbeitende terrestrische Amateurfunkstellen beträgt oberhalb 30 MHz 15 Watt ERP. Der Inhaber der Rufzeichenzuteilung muss sicherstellen, dass fernbediente Amateurfunkstellen jederzeit abgeschaltet werden können. Die belegte Bandbreite einer Aussendung ist entsprechend dem Stand der Technik auf das für die verwendete Sendeart notwendige Ausmaß zu beschränken. Die Mittenfrequenz der Aussendungen ist so zu wählen, dass die belegte Bandbreite innerhalb des dem Amateurfunk zugewiesenen Frequenzbereiches liegt. Der Vorrang des Funkverkehrs bereits belegter Frequenzen ist zu beachten. Die Funkdienste werden nach primären und sekundären Funkdiensten unterschieden. Ein primärer Funkdienst ist ein Funkdienst, dessen Funkstellen Schutz gegen Störungen durch Funkstellen sekundärer Funkdienste verlangen können, auch wenn diesen Frequenzen bereits zugeteilt sind. Schutz gegen Störungen durch Funkstellen des gleichen oder eines anderen primären Funkdienstes kann nur die Funkstelle verlangen, der die Frequenz früher zugeteilt wurde. Ein sekundärer Funkdienst ist ein Funkdienst, dessen Funkstellen weder Störungen bei den Funkstellen eines primären Funkdienstes verursachen dürfen noch Schutz vor Störungen durch solche Funkstellen verlangen können, unabhängig davon, wann die Frequenzzuteilung an Funkstellen des primären Funkdienstes erfolgt. Sie können jedoch Schutz gegen Störungen durch Funkstellen des gleichen oder eines anderen sekundären Funkdienstes verlangen, deren Frequenzzuteilung später erfolgt. In den Frequenzbereichen gemäß Buchstabe A gelten die Regelungen des Frequenznutzungsplans und zusätzlich die besonderen Nutzungsbestimmungen nach Buchstabe A und Buchstabe B. 
  
 
 A Tabellarische Übersicht
@@ -1066,8 +1038,7 @@ Die Frequenzbereiche 7.000 - 7.100 kHz, 14.000 - 14.250 kHz, 18.068 - 18.168 kHz
 14  
 Die Frequenzbereiche 444 – 453 GHz, 510 – 546 GHz, 711 – 730 GHz, 909 – 926 GHz, 945 – 951 GHz und Frequenzen oberhalb von 956 GHz können durch den Amateurfunkdienst genutzt werden. Die Nutzungsbedingungen werden durch die Regulierungsbehörde festgelegt und in ihrem Amtsblatt veröffentlicht.
 
-
-## Anlage 2 – (zu § 1 Nr. 7 und § 18)Gebührenverzeichnis
+# Anlage 2 – (zu § 1 Nr. 7 und § 18)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2005, 250)
 

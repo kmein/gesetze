@@ -1,10 +1,7 @@
-# [EntsorgÜG] Gesetz zur Regelung des Übergangs der Finanzierungs- und Handlungspflichten für die Entsorgung radioaktiver Abfälle der Betreiber von Kernkraftwerken  (Entsorgungsübergangsgesetz)
-
-Ausfertigungsdatum: 27.01.2017
-
+% Gesetz zur Regelung des Übergangs der Finanzierungs- und Handlungspflichten für die Entsorgung radioaktiver Abfälle der Betreiber von Kernkraftwerken  (Entsorgungsübergangsgesetz)
+% Ausfertigungsdatum: 27.01.2017
  
-
-## § 1 – Übergang der Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle
+# § 1 – Übergang der Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle
 
 Die folgenden künftigen Verpflichtungen des Betreibers einer in Anhang 1 des Entsorgungsfondsgesetzes aufgeführten Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität gehen an den Fonds nach dem Entsorgungsfondsgesetz über, wenn für die Anlage der nach § 7 Absatz 2 des Entsorgungsfondsgesetzes fällige Grundbetrag oder die erste Rate auf Grundlage einer nach § 7 Absatz 4 Satz 3 des Entsorgungsfondsgesetzes wirksamen Ratenzahlungsvereinbarung erfüllt wurde:
 
@@ -14,8 +11,7 @@ Die folgenden künftigen Verpflichtungen des Betreibers einer in Anhang 1 des En
 
 3. Entrichtung von Umlagen aufgrund von § 21 des Standortauswahlgesetzes.
 
-
-## § 2 – Übergang der Handlungspflicht für die Entsorgung radioaktiver Abfälle
+# § 2 – Übergang der Handlungspflicht für die Entsorgung radioaktiver Abfälle
 
 (1) Radioaktive Abfälle aus dem Betrieb und der Stilllegung, dem sicheren Einschluss sowie dem Abbau einer Anlage zur Spaltung von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität, für die der nach § 7 Absatz 2 des Entsorgungsfondsgesetzes fällige Grundbetrag oder die erste Rate auf Grundlage einer nach § 7 Absatz 4 Satz 3 des Entsorgungsfondsgesetzes wirksamen Ratenzahlungsvereinbarung eingezahlt wurde, können nach Maßgabe der folgenden Absätze an einen vom Bund mit der Wahrnehmung der Zwischenlagerung beauftragten Dritten abgegeben werden. Dieser Dritte ist in privater Rechtsform zu organisieren; alleiniger Gesellschafter des Dritten ist der Bund. Zuständig für die Übertragung der Aufgaben der Zwischenlagerung auf einen Dritten ist das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
@@ -41,8 +37,7 @@ Grundlage für die Feststellung nach Satz 1 Nummer 1 sind die aufgrund von § 74
 
 (6) Bei der Abgabe der Abfälle hat der Betreiber dem Dritten nach Absatz 1 Satz 1 die für die spätere Ablieferung an ein Endlager benötigten Abfallerzeugerdaten, die Dokumentation der Abfälle sowie alle Daten aus dem elektronischen Buchführungssystem gemäß § 73 Absatz 2 der Strahlenschutzverordnung zu übergeben.
 
-
-## § 3 – Zwischenlager, Verordnungsermächtigung
+# § 3 – Zwischenlager, Verordnungsermächtigung
 
 (1) Die Betreiber übertragen dem Dritten nach § 2 Absatz 1 Satz 1 zum 1. Januar 2019 unentgeltlich die in dem Anhang Tabelle 1 aufgeführten Zwischenlager, die über eine Genehmigung nach § 6 des Atomgesetzes verfügen. Nach der Übertragung gelten die in Bezug auf den bisherigen Betreiber erteilten Genehmigungen, Erlaubnisse, solche Entscheidungen ergänzende Anordnungen nach § 19 Absatz 3 des Atomgesetzes und Zulassungen für und gegen den Dritten nach § 2 Absatz 1 Satz 1; das Bundesamt für die Sicherheit der nuklearen Entsorgung hat in angemessener Zeit zu prüfen, wie der Dritte durch organisatorische Maßnahmen und durch die Bereitstellung von sachlichen und personellen Mitteln die Fortführung des Betriebs gewährleistet.
 
@@ -56,14 +51,12 @@ Grundlage für die Feststellung nach Satz 1 Nummer 1 sind die aufgrund von § 74
 
 (6) Notwendiger Aufwand für den Bau von Zwischenlagern und für Nachrüstungen, die bei Inkrafttreten dieses Gesetzes erforderlich sind, wird dem Betreiber bis zur Höhe der hierfür an den Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes geleisteten Zahlungen erstattet. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den Anteil der notwendigen Kosten für den Bau von Zwischenlagern und für Nachrüstungen an den Einzahlungsbeträgen nach dem Entsorgungsfondsgesetz festzusetzen.
 
-
-## § 4 – Erstattung der Aufwendungen des Dritten nach § 2 Absatz 1 Satz 1
+# § 4 – Erstattung der Aufwendungen des Dritten nach § 2 Absatz 1 Satz 1
 
 (1) Der Fonds nach dem Entsorgungsfondsgesetz erstattet dem Bund die Aufwendungen für die Entsorgung radioaktiver Abfälle nach diesem Gesetz.
 
 (2) Der Dritte nach § 2 Absatz 1 Satz 1 erstellt nach Ende des Haushaltsjahres eine Jahresrechnung über die Einnahmen und Ausgaben. Er lässt die Jahresrechnung durch einen Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft prüfen. Er übermittelt die Jahresrechnung und das Prüfungsergebnis jeweils zeitnah dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit prüft die Jahresrechnung und setzt den vom Fonds zu erstattenden Betrag durch Bescheid fest.
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2017, 123 - 124)

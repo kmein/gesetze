@@ -1,22 +1,17 @@
-# [PersStdGÄndG 2] Zweites Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes
-
-Ausfertigungsdatum: 18.05.1957
-
+% Zweites Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes
+% Ausfertigungsdatum: 18.05.1957
  
-
-## Art I
+# Art I
 
 \-
 
-
-## Art II
+# Art II
 
 1. Wo in Gesetzen, Rechtsverordnungen und allgemeinen Verwaltungsvorschriften dem Rechtsamt in Hamburg, dem Amtsgericht in Hamburg oder dem Hauptstandesamt Hamburg Aufgaben übertragen sind, gehen diese auf den Senator für Inneres in Berlin, das Amtsgericht Schöneberg in Berlin-Schöneberg oder das Standesamt I in Berlin (West) über.
 
 2. Die Zuständigkeiten nach dem Gesetz über die Anerkennung freier Ehen rassisch und politisch Verfolgter vom 23. Juni 1950 (Bundesgesetzbl. S. 226) und nach dem Gesetz über die Anerkennung von Nottrauungen vom 2. Dezember 1950 (Bundesgesetzbl. S. 778) bleiben unberührt.
 
-
-## Art III
+# Art III
 
 1. Alle diesem Gesetz entgegenstehenden Vorschriften werden aufgehoben. Insbesondere werden folgende Vorschriften aufgehoben, soweit sie nicht bereits außer Kraft getreten sind:
 
@@ -45,23 +40,18 @@ g) das Gesetz des Landes Berlin über Vereinfachungsmaßnahmen auf dem Gebiete d
 
 und die zur Ausführung dieser Gesetze ergangenen Bestimmungen.
 
-2\. ...  
-3. ...  
-4. ...
+2\. ... 3. ... 4. ...
 
 5. Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz aufgehoben oder geändert werden, erhält die Verweisung ihren Inhalt aus den entsprechenden neuen Vorschriften. Einer Verweisung steht es gleich, wenn die Anwendbarkeit der in Nummer 1 bezeichneten Vorschriften stillschweigend vorausgesetzt wird.
 
-
-## Art IV
+# Art IV
 
 \-
 
-
-## Art V
+# Art V
 
 Dieses Gesetz und das Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes vom 15. Januar 1951 (Bundesgesetzbl. I S. 57) gelten auch im Land Berlin, sofern sie im Land Berlin in Kraft gesetzt werden. Rechtsverordnungen, die auf Grund des Personenstandsgesetzes in der gemäß Artikel IV dieses Gesetzes bekanntgemachten Fassung oder auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art VI
+# Art VI
 
 Artikel I Nr. 50 Buchstabe a, § 69d in Nr. 65, Nr. 67 und Nr. 68 treten am Tage nach der Verkündung, die übrigen Bestimmungen am 1. Januar 1958 in Kraft.

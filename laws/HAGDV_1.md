@@ -1,10 +1,7 @@
-# [HAGDV 1] Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes
-
-Ausfertigungsdatum: 09.08.1951
-
+% Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes
+% Ausfertigungsdatum: 09.08.1951
  
-
-## § 1 – Verfahren bei der Gleichstellung
+# § 1 – Verfahren bei der Gleichstellung
 
 (1) Über die Gleichstellung entscheidet der für den Gewerbezweig oder die Beschäftigungsart der gleichzustellenden Einzelperson oder Personengruppe zuständige Heimarbeitsausschuß (§ 4 Abs. 1 HAG). Im übrigen entscheidet der gemeinsame Heimarbeitsausschuß (§ 4 Abs. 1 Satz 4 HAG).
 
@@ -12,13 +9,11 @@ Ausfertigungsdatum: 09.08.1951
 
 (3) Im übrigen richtet sich das Verfahren der Gleichstellung, ihrer Änderung oder ihres Widerrufs sowie das Verfahren der Herausnahme einzelner Personen aus einer Gleichstellung von Personengruppen nach den §§ 5 und 7.
 
-
-## § 2 – Bekanntmachung der Errichtung von Heimarbeitsausschüssen
+# § 2 – Bekanntmachung der Errichtung von Heimarbeitsausschüssen
 
 Die Errichtung des Heimarbeitsausschusses ist an einer von der zuständigen Arbeitsbehörde jeweils zu bestimmenden Stelle bekanntzumachen. Der räumliche, sachliche und persönliche Zuständigkeitsbereich des Heimarbeitsausschusses ist dabei anzugeben.
 
-
-## § 3 – Vorsitzender
+# § 3 – Vorsitzender
 
 (1) Der Vorsitzende darf nicht Auftraggeber, Zwischenmeister, in Heimarbeit Beschäftigter oder Gleichgestellter sein.
 
@@ -26,8 +21,7 @@ Die Errichtung des Heimarbeitsausschusses ist an einer von der zuständigen Arbe
 
 (3) Der Vorsitzende vertritt den Heimarbeitsausschuß im Rahmen der gefaßten Beschlüsse. Er hat dem Heimarbeitsausschuß in wichtigen Angelegenheiten über das von ihm Veranlaßte Mitteilung zu machen. Der Vorsitzende ist berechtigt, Erklärungen und Auskünfte, die dem Heimarbeitsausschuß gegenüber abzugeben sind, entgegenzunehmen.
 
-
-## § 4 – Beisitzer
+# § 4 – Beisitzer
 
 (1) Die zuständige Arbeitsbehörde beruft als Beisitzer des Heimarbeitsausschusses je drei Vertreter der in Heimarbeit Beschäftigten und der Auftraggeber und mindestens je drei Stellvertreter. Für den Fall der Verhinderung der Vertreter und Stellvertreter kann sie weitere Stellvertreter bestellen.
 
@@ -39,8 +33,7 @@ Die Errichtung des Heimarbeitsausschusses ist an einer von der zuständigen Arbe
 
 (5) Sind die Beisitzer oder Stellvertreter gemäß Absatz 4 Satz 2 auf Vorschlag der Spitzenorganisation zu bestellen, so sind diese Vorschläge für Heimarbeitsausschüsse, die von den Obersten Arbeitsbehörden der Länder errichtet werden, von den bezirklichen Untergliederungen der Spitzenorganisationen einzuholen, soweit solche für den Bereich des Landes bestehen.
 
-
-## § 5 – Verfahren vor den Heimarbeitsausschüssen allgemein
+# § 5 – Verfahren vor den Heimarbeitsausschüssen allgemein
 
 (1) Die Sitzungen des Heimarbeitsausschusses sind nicht öffentlich. Der Heimarbeitsausschuß kann bestimmte Personen zulassen. Die Vertreter der zuständigen Arbeitsbehörde, im Fall des § 7 Abs. 3 Satz 4 auch die Vertreter der gleichgeordneten Wirtschaftsbehörde sind berechtigt, an den Sitzungen mit beratender Stimme teilzunehmen.
 
@@ -56,13 +49,11 @@ Die Errichtung des Heimarbeitsausschusses ist an einer von der zuständigen Arbe
 
 (7) Sind mit der Hinzuziehung von Sachkundigen oder mit der Erhebung über Arbeitszeiten Kosten verbunden, so hat der Heimarbeitsausschuß bei seiner Beschlußfassung darauf zu achten, daß der Kostenaufwand in einem angemessenen Verhältnis zu der Notwendigkeit und dem Umfang der Maßnahmen steht.
 
-
-## § 6 – Beteiligung des Heimarbeitsausschusses
+# § 6 – Beteiligung des Heimarbeitsausschusses
 
 Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle verpflichtet, sich mit dem Heimarbeitsausschuß ins Benehmen zu setzen (§ 10 Satz 2 HAG), so ist der Vorsitzende des Heimarbeitsausschusses rechtzeitig von der beabsichtigten Maßnahme zu verständigen. Die Maßnahme soll erst erfolgen, nachdem der Heimarbeitsausschuß durch einen Beschluß (§ 4 Abs. 3 HAG) seine Stellungnahme festgelegt und der Arbeitsbehörde mitgeteilt hat. Der Beschluß des Heimarbeitsausschusses kann schriftlich herbeigeführt werden.
 
-
-## § 7 – Zustimmungsverfahren
+# § 7 – Zustimmungsverfahren
 
 (1) Trifft der Heimarbeitsausschuß Entscheidungen, die der Zustimmung der zuständigen Arbeitsbehörde bedürfen (§ 1 Abs. 4, § 11 Abs. 2, § 19 Abs. 2 HAG), so hat er unter geeigneter Bekanntgabe den in Heimarbeit Beschäftigten und den Auftraggebern, die von der Entscheidung berührt werden, sowie den zuständigen Gewerkschaften und Vereinigungen der Auftraggeber und, falls die Zustimmung nur das Bundesministerium für Arbeit und Soziales zu erteilen hat (§ 3 Abs. 1 Satz 3 HAG), auch den Obersten Arbeitsbehörden der Länder Gelegenheit zur schriftlichen Stellungnahme innerhalb einer festzusetzenden angemessenen Frist zu geben. Werden schriftliche Einwendungen fristgerecht erhoben, ist eine öffentliche und mündliche Verhandlung über diese Einwendungen anzusetzen. Erachtet der Ausschuß die Einwendungen für begründet, so hat er unter Aufhebung seiner früheren Beschlüsse eine neue Entscheidung zu treffen; auf diese Entscheidung findet Satz 1 Anwendung.
 
@@ -70,15 +61,13 @@ Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle ver
 
 (3) Der Heimarbeitsausschuß hat die Zustimmung der zuständigen Arbeitsbehörde schriftlich zu beantragen. Dem Antrag sind die Niederschriften der Sitzungen, in denen über die zustimmungsbedürftige Entscheidung beraten wurde, beizufügen; das gleiche gilt für fristgerecht eingegangene Einwendungen (§ 5 Abs. 5). Ist das Bundesministerium für Arbeit und Soziales zuständig (§ 3 Abs. 1 Satz 3 HAG), so hat der Heimarbeitsausschuß die Niederschriften auch den Obersten Arbeitsbehörden der Länder zuzuleiten. Betrifft eine Gleichstellung nicht nur bestimmte einzelne Personen, so soll die zuständige Arbeitsbehörde vor ihrer Entscheidung über die Zustimmung die gleichgeordnete Wirtschaftsbehörde zur Stellungnahme auffordern.
 
-
-## § 8 – Entgeltausschüsse
+# § 8 – Entgeltausschüsse
 
 (1) Für die Errichtung der Entgeltausschüsse für fremde Hilfskräfte der Heimarbeit gelten die Vorschriften des Zweiten Abschnitts sinngemäß mit der Maßgabe, daß die Beisitzer je zur Hälfte aus Kreisen der Hausgewerbetreibenden und Gleichgestellten sowie der fremden Hilfskräfte (§ 2 Abs. 6 HAG) berufen werden. Die Berufung der Beisitzer nach Anhörung der Beteiligten (§ 22 Abs. 3 Satz 3 HAG) soll nur erfolgen, wenn zuständige Gewerkschaften oder Vereinigungen der Hausgewerbetreibenden oder Gleichgestellten nicht bestehen oder innerhalb einer von der zuständigen Arbeitsbehörde gesetzten angemessenen Frist keine geeigneten Vorschläge eingereicht haben.
 
 (2) Für das Verfahren vor den Entgeltausschüssen für fremde Hilfskräfte der Heimarbeit gelten die §§ 5 und 7 sinngemäß.
 
-
-## § 9 – Listenführung
+# § 9 – Listenführung
 
 (1) Die nach § 6 HAG zu führenden Listen sind aufzugliedern nach
 
@@ -108,8 +97,7 @@ Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle ver
 
 (5) Das Beschaffen und Ausfüllen der Listen obliegt denjenigen, die Heimarbeit ausgeben oder weitergeben.
 
-
-## § 10 – Führen von Entgeltbüchern
+# § 10 – Führen von Entgeltbüchern
 
 (1) Entgeltbeleg im Sinne der §§ 9, 11 und 28 HAG ist in der Regel ein Entgeltbuch, das die in § 12 vorgeschriebenen Angaben enthält. Die Oberste Arbeitsbehörde des Landes kann Muster für Entgeltbücher vorschreiben.
 
@@ -119,8 +107,7 @@ Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle ver
 
 (4) Ist der in Heimarbeit Beschäftigte oder Gleichgestellte für mehrere Auftraggeber tätig, so hat jeder Auftraggeber ein besonderes Entgeltbuch auszustellen.
 
-
-## § 11 – Genehmigung von Entgelt- oder Arbeitszetteln
+# § 11 – Genehmigung von Entgelt- oder Arbeitszetteln
 
 (1) Die Ausgabe der in § 9 Abs. 2 HAG vorgesehenen Entgelt- oder Arbeitszettel darf nur genehmigt werden, wenn ihre Verwendung einen wesentlichen Vorteil für den Geschäftsverkehr bietet.
 
@@ -130,8 +117,7 @@ Ist die Oberste Arbeitsbehörde des Landes oder die von ihr bestimmte Stelle ver
 
 (4) Leistungs-, Abrechnungs-, Liefer- oder ähnliche Zettel, die neben den Entgeltbelegen geführt werden, unterliegen keiner Beschränkung und bedürfen nicht der Genehmigung. Die ordnungsgemäße Führung der Entgeltbelege darf durch solche Zettel nicht beeinträchtigt werden. Können die Angaben über die Art der Arbeit und ihrer Teilarbeiten oder sonstige Angaben aus Raummangel nicht vollständig in den Entgeltbeleg eingetragen werden, so kann dieser durch Zettel ergänzt werden (Ergänzungszettel). Die Ergänzungszettel, für die die Vorschriften des Absatzes 2 Satz 1, des Absatzes 3 und des § 9 Abs. 3 HAG gelten, sind im Entgeltbeleg mit Nummern und einem kurzen Hinweis auf den Inhalt aufzuführen.
 
-
-## § 12 – Form und Inhalt der Entgeltbelege
+# § 12 – Form und Inhalt der Entgeltbelege
 
 (1) Die Entgeltbücher und die von der Obersten Arbeitsbehörde des Landes oder der von ihr bestimmten Stelle zugelassenen Entgeltzettel und Entgelthefte müssen außer den im § 9 Abs. 1 HAG geforderten Angaben folgendes enthalten:
 
@@ -159,14 +145,12 @@ cc) Heimarbeitern.
 
 (6) Die zuständigen Arbeitsbehörden haben die nach den Absätzen 3 bis 5 erlassenen Vorschriften öffentlich bekanntzumachen.
 
-
-## § 13 – Aufbewahrung von Entgeltbelegen
+# § 13 – Aufbewahrung von Entgeltbelegen
 
 (1) Abgeschlossene Entgeltbelege sind bis zum Ablauf des dritten Kalenderjahrs, das auf das Jahr der letzten Eintragung folgt, von den in Heimarbeit Beschäftigten oder Gleichgestellten aufzubewahren. Sie sind auf Verlangen vorzulegen (§ 9 Abs. 3 HAG).
 
 (2) Absatz 1 gilt im Fall des § 11 Abs. 3 entsprechend für den Auftraggeber.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

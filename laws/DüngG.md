@@ -1,15 +1,11 @@
-# [DüngG] Düngegesetz
-
-Ausfertigungsdatum: 09.01.2009
-
+% Düngegesetz
+% Ausfertigungsdatum: 09.01.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 Zweck dieses Gesetzes ist es,
 
@@ -23,8 +19,7 @@ Zweck dieses Gesetzes ist es,
 
 5. Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union, die Sachbereiche dieses Gesetzes, insbesondere über den Verkehr mit oder die Anwendung von Düngemitteln betreffen, umzusetzen oder durchzuführen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -72,8 +67,7 @@ b) die symbiotische Bindung von Stickstoff zu fördern;
 
 Dem Inverkehrbringen im Sinne des Satzes 1 Nr. 10 stehen das Verbringen in den Geltungsbereich dieses Gesetzes zur Abgabe an andere sowie die Abgabe zwischen Mitgliedern innerhalb von Personenvereinigungen gleich.
 
-
-## § 3 – Anwendung
+# § 3 – Anwendung
 
 (1) Stoffe nach § 2 Nr. 1 und 6 bis 8 dürfen nur angewandt werden, soweit sie
 
@@ -131,20 +125,17 @@ bedürfen des Einvernehmens mit dem Bundesministerium für Umwelt, Naturschutz u
 
 (7) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung zu Forschungs- oder Versuchszwecken eine von den Absätzen 1 und 2 abweichende Regelung zu treffen, soweit hierfür ein berechtigtes Interesse besteht und Gesundheitsschäden bei Menschen und Tieren oder Gefährdungen des Naturhaushalts nicht zu befürchten sind.
 
-
-## § 3a – Nationales Aktionsprogramm zum Schutz von Gewässern vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen, Öffentlichkeitsbeteiligung
+# § 3a – Nationales Aktionsprogramm zum Schutz von Gewässern vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen, Öffentlichkeitsbeteiligung
 
 (1) Das Bundesministerium erarbeitet im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und im Benehmen mit den Ländern ein nationales Aktionsprogramm im Sinne des Artikels 5 Absatz 1 in Verbindung mit den Absätzen 4 und 5 und Artikel 4 Absatz 1 Buchstabe a der Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1) geändert worden ist. Satz 1 gilt nicht im Hinblick auf die Beschaffenheit, die Lage, die Errichtung und den Betrieb von Anlagen zum Lagern oder Abfüllen von Gülle, Jauche oder Silagesickersäften sowie von vergleichbaren in der Landwirtschaft anfallenden Stoffen nach Anhang II Buchstabe A Nummer 5 der Richtlinie 91/676/EWG. Satz 1 in Verbindung mit Satz 2 gilt bei einer Änderung des Aktionsprogramms entsprechend. Zu dem Entwurf des Aktionsprogramms sowie zu Entwürfen zur Änderung des Aktionsprogramms wird eine Strategische Umweltprüfung nach dem Gesetz über die Umweltverträglichkeitsprüfung durchgeführt. Das Aktionsprogramm und seine Änderungen sind bei Erlass einer Rechtsverordnung auf Grund des § 3 Absatz 4 Satz 1 in Verbindung mit Satz 2 Nummer 3 und mit Absatz 5 in die Beratungen zur Erstellung des Entwurfes einzubeziehen.
 
 (2) Soweit ein Aktionsprogramm nach Absatz 1 geringfügig geändert wird und hierbei nach Maßgabe des § 14d des Gesetzes über die Umweltverträglichkeitsprüfung keine Strategische Umweltprüfung durchzuführen ist, ist die Öffentlichkeit nach Maßgabe der folgenden Bestimmungen zu beteiligen. Der Entwurf der Änderung des Aktionsprogramms sowie Informationen über das Beteiligungsverfahren sind im Bundesanzeiger zu veröffentlichen. Natürliche und juristische Personen sowie sonstige Vereinigungen, insbesondere Vereinigungen des Agrar- und Umweltbereichs, deren Belange oder deren satzungsgemäßer Aufgabenbereich durch den Entwurf berührt werden (betroffene Öffentlichkeit), haben innerhalb einer Frist von sechs Wochen Gelegenheit zur schriftlichen oder elektronischen Stellungnahme gegenüber dem Bundesministerium; der Zeitpunkt des Fristablaufs ist bei der Veröffentlichung nach Satz 2 mitzuteilen. Fristgemäß eingegangene Stellungnahmen der betroffenen Öffentlichkeit werden vom Bundesministerium bei der Erarbeitung der Änderung des Aktionsprogramms angemessen berücksichtigt. Die Fundstelle der vom Bundesministerium unter Berücksichtigung der Änderung des Aktionsprogramms erlassenen und im Bundesgesetzblatt verkündeten Rechtsverordnung ist im Bundesanzeiger zu veröffentlichen; dabei ist in zusammengefasster Form über den Ablauf des Beteiligungsverfahrens und über die Gründe und Erwägungen, auf denen die getroffene Entscheidung beruht, zu unterrichten.
 
-
-## § 4 – Mitwirkungshandlungen
+# § 4 – Mitwirkungshandlungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über Aufzeichnungs-, Melde-, Mitteilungs- oder Aufbewahrungspflichten bezüglich des Inverkehrbringens einschließlich des Vermittelns sowie des Herstellens, des Beförderns, der Übernahme oder des Lagerns von Stoffen nach § 2 Nr. 1 und 6 bis 8, soweit dies erforderlich ist, um die Einhaltung des § 3 Absatz 1, 2 und 3, auch in Verbindung mit einer Rechtsverordnung nach Absatz 4 auch in Verbindung mit Absatz 5, sicherzustellen.
 
-
-## § 5 – Inverkehrbringen
+# § 5 – Inverkehrbringen
 
 (1) Stoffe nach § 2 Nr. 1 und 6 bis 8, die nicht als „EG-Düngemittel“ bezeichnet sind, dürfen nur in den Verkehr gebracht werden, soweit sie geeignet sind,
 
@@ -208,13 +199,11 @@ Soweit für einen Stoff Aufzeichnungen nach Satz 1 Nr. 1 vorgeschrieben werden, 
 
 zu treffen, soweit hierfür ein berechtigtes Interesse besteht und Schäden für die Gesundheit von Menschen und Tieren oder Gefährdungen des Naturhaushalts nicht zu befürchten sind. Das Bundesministerium wird ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Ermächtigung nach Satz 1 ganz oder teilweise auf die Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
-
-## § 6 – EG-Düngemittel
+# § 6 – EG-Düngemittel
 
 Düngemittel dürfen mit der Bezeichnung „EG-Düngemittel“ nur in den Verkehr gebracht werden, wenn sie einem Düngemitteltyp entsprechen, der im Anhang I der Verordnung (EG) Nr. 2003/2003 des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über Düngemittel (ABl. EU Nr. L 304 S. 1), die zuletzt durch die Verordnung (EG) Nr. 162/2007 der Kommission vom 19. Februar 2007 (ABl. EU Nr. L 51 S. 7) geändert worden ist, festgelegt worden ist.
 
-
-## § 7 – Kennzeichnung, Verpackung
+# § 7 – Kennzeichnung, Verpackung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zu den in § 1 genannten Zwecken erforderlich ist, für Stoffe nach § 2 Nr. 1 und 6 bis 8 Art und Umfang der Kennzeichnung zu regeln. In Rechtsverordnungen nach Satz 1 können insbesondere folgende Angaben vorgeschrieben werden:
 
@@ -242,25 +231,21 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung de
 
 12. die Rechtsvorschrift oder rechtliche Grundlage, auf Grund derer das Düngemittel, der Bodenhilfsstoff, das Pflanzenhilfsmittel oder das Kultursubstrat in den Verkehr gebracht worden ist.
 
-
-## § 8 – Toleranzen
+# § 8 – Toleranzen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates duldbare Abweichungen (Toleranzen) der bei der Überwachung festgestellten Gehalte von den durch Rechtsverordnung nach § 7 vorgeschriebenen oder im Rahmen der vorgeschriebenen Kennzeichnung zulässigen Angaben festzusetzen, um unvermeidbare Unsicherheiten bei der Herstellung, der Probenahme und der Analyse aufzufangen.
 
 (2) Die Toleranzen dürfen nicht planmäßig ausgenutzt werden.
 
-
-## § 9 – Probenahmeverfahren, Analysemethoden
+# § 9 – Probenahmeverfahren, Analysemethoden
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Anwendung bestimmter Probenahmeverfahren und Analysemethoden vorzuschreiben, soweit es zur ordnungsgemäßen Überwachung des Düngemittelverkehrs oder zur Durchführung von Rechtsakten der Organe der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des Düngemittelrechts erforderlich ist. In der Rechtsverordnung nach Satz 1 kann die Beschreibung der Probenahmeverfahren und Analysemethoden durch den Hinweis auf Veröffentlichungen im Amtsblatt der Europäischen Gemeinschaft oder der Europäischen Union oder auf Veröffentlichungen allgemein anerkannter Probenahmeverfahren und Analysemethoden unter Angabe der Bezugsquelle ersetzt werden.
 
-
-## § 10 – Wissenschaftlicher Beirat
+# § 10 – Wissenschaftlicher Beirat
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates einen Wissenschaftlichen Beirat zu errichten, der es in Düngungsfragen berät. In dem Beirat sollen insbesondere die Bereiche der Bodenkunde, der Pflanzenernährung, des Pflanzenbaues, der Gewässerkunde, der Toxikologie, der Ökotoxikologie und der Seuchenhygiene durch Wissenschaftler, die auf diesen Gebieten tätig sind, vertreten sein. In der Rechtsverordnung nach Satz 1 kann das Nähere über die Zusammensetzung des Beirats, die Berufung der Mitglieder sowie die Geschäftsordnung geregelt werden.
 
-
-## § 11 – Klärschlamm-Entschädigungsfonds
+# § 11 – Klärschlamm-Entschädigungsfonds
 
 (1) Der durch Artikel 4 Nr. 8 des Gesetzes vom 27. September 1994 (BGBl. I S. 2705) errichtete Entschädigungsfonds hat die durch die landwirtschaftliche Verwertung von Klärschlämmen entstehenden Schäden an Personen und Sachen sowie sich daraus ergebende Folgeschäden zu ersetzen.
 
@@ -286,8 +271,7 @@ Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung d
 
 (4) Eine Rechtsverordnung nach Absatz 3 ist dem Bundestag vor der Zuleitung an den Bundesrat zuzuleiten. Die Rechtsverordnung kann durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet. Soweit die Rechtsverordnung auf Grund des Beschlusses des Bundesrates geändert wird, bedarf es einer erneuten Zuleitung an den Bundestag nicht.
 
-
-## § 11a – Umgang mit Nährstoffen im Betrieb, Nährstoffsteuerung
+# § 11a – Umgang mit Nährstoffen im Betrieb, Nährstoffsteuerung
 
 (1) Bei der landwirtschaftlichen Erzeugung hat der Umgang mit Nährstoffen im Betrieb nach guter fachlicher Praxis zu erfolgen. Zur guten fachlichen Praxis gehört insbesondere, dass bei der landwirtschaftlichen Erzeugung ein nachhaltiger und ressourceneffizienter Umgang mit Nährstoffen im Betrieb sichergestellt und hierbei Nährstoffverluste in die Umwelt so weit wie möglich vermieden werden. Die Vorschriften über die Anwendung der in § 2 Nummer 1 und 6 bis 8 genannten Stoffe nach § 3 Absatz 1 bis 3 und einer auf Grund des § 3 Absatz 4 auch in Verbindung mit Absatz 5 erlassenen Rechtsverordnung bleiben unberührt.
 
@@ -307,8 +291,7 @@ Das Bundesministerium untersucht die Auswirkungen der verbindlichen Stoffstrombi
 
 (3) Eine Rechtsverordnung nach Absatz 2 ist dem Bundestag vor der Zuleitung an den Bundesrat zuzuleiten. Die Rechtsverordnung kann durch Beschluss des Bundestages geändert oder abgelehnt werden. Der Beschluss des Bundestages wird der Bundesregierung zugeleitet. Hat sich der Bundestag nach Ablauf von drei Sitzungswochen seit Eingang der Rechtsverordnung nicht mit ihr befasst, so wird die unveränderte Rechtsverordnung dem Bundesrat zugeleitet. Soweit die Rechtsverordnung auf Grund des Beschlusses des Bundesrates geändert wird, bedarf es einer erneuten Zuleitung an den Bundestag nicht.
 
-
-## § 12 – Überwachung, Datenübermittlung
+# § 12 – Überwachung, Datenübermittlung
 
 (1) Die Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie unmittelbar geltender Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des Düngemittelrechts wird vorbehaltlich des Absatzes 2 durch die nach Landesrecht zuständigen Behörden überwacht.
 
@@ -383,8 +366,7 @@ Im Falle des Satzes 1 Nummer 4 Buchstabe d unterbleibt eine Übermittlung, sowei
 
 (8) Die für die Überwachung nach Absatz 1 zuständigen Behörden dürfen zu dem in Absatz 7 Satz 1 genannten Zweck die dort genannten Daten erheben, speichern und nutzen. Zu dem in Absatz 7 Satz 1 genannten Zweck dürfen die zuständigen Behörden diese Daten mit Daten abgleichen, die sie nach diesem Gesetz oder den auf Grund des § 3 Absatz 4 oder 5 und des § 4, jeweils auch in Verbindung mit § 15 Absatz 6, erlassenen Rechtsverordnungen erhoben, gespeichert oder genutzt haben. Die in Satz 1 genannten Daten sind durch die nach Absatz 1 zuständige Behörde unverzüglich zu löschen, sobald sie zur Erfüllung des Zwecks, zu dem sie erhoben, gespeichert oder genutzt worden sind, nicht mehr erforderlich sind.
 
-
-## § 13 – Behördliche Anordnungen
+# § 13 – Behördliche Anordnungen
 
 Die zuständige Behörde kann die zur Beseitigung festgestellter Verstöße und die zur Vermeidung künftiger Verstöße gegen dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie gegen unmittelbar geltende Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union im Bereich des Düngemittelrechts notwendigen Anordnungen treffen. Sie kann insbesondere
 
@@ -398,8 +380,7 @@ Die zuständige Behörde kann die zur Beseitigung festgestellter Verstöße und 
 
 Abweichend von Satz 1 kann die zuständige Behörde Anordnungen zum Umgang mit Nährstoffen im Betrieb im Sinne des § 11a Absatz 1 nur treffen, wenn die Anforderungen der guten fachlichen Praxis beim Umgang mit Nährstoffen im Betrieb in einer Rechtsverordnung nach § 11a Absatz 2 näher bestimmt sind.
 
-
-## § 13a – Qualitätssicherung im Bereich von Wirtschaftsdüngern
+# § 13a – Qualitätssicherung im Bereich von Wirtschaftsdüngern
 
 (1) Zur Förderung der Einhaltung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, die für die Anwendung, das Inverkehrbringen, das Herstellen, das Befördern, die Übernahme oder das Lagern von Wirtschaftsdüngern sowie von Düngemitteln, die als Ausgangsstoff oder Bestandteil Wirtschaftsdünger enthalten, gelten, können Träger einer Qualitätssicherung eine regelmäßige Qualitätssicherung nach Maßgabe der folgenden Vorschriften für die genannten Düngemittel einrichten.
 
@@ -463,8 +444,7 @@ sind.
 
 (10) Die Landesregierungen können Rechtsverordnungen nach Absatz 9 erlassen, soweit das Bundesministerium von seiner Ermächtigung keinen Gebrauch macht. Die Landesregierungen können die Ermächtigungen nach Satz 1 durch Rechtsverordnung ganz oder teilweise auf andere Behörden übertragen.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 8 Abs. 2 eine festgesetzte Toleranz planmäßig ausnutzt.
 
@@ -500,8 +480,7 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (4) Düngemittel und Stoffe, auf die sich eine Ordnungswidrigkeit nach Absatz 2 Nr. 1 Buchstabe e oder Nr. 2 bezieht, können eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 15 – Rechtsverordnungen in bestimmten Fällen
+# § 15 – Rechtsverordnungen in bestimmten Fällen
 
 (1) Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach § 14 Abs. 2 Nr. 6 geahndet werden können.
 
@@ -525,15 +504,12 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 Im Falle des Satzes 1 in Verbindung mit Satz 2 Nr. 2 gilt § 3a Absatz 1 Satz 4 und 5 sowie Absatz 2 entsprechend.
 
-
-## § 16 – Ermächtigung zur Aufhebung von Rechtsvorschriften
+# § 16 – Ermächtigung zur Aufhebung von Rechtsvorschriften
 
 Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass von Rechtsverordnungen des Bundes fortgefallen sind, können Vorschriften, die auf solche Ermächtigungen gestützt sind, durch Rechtsverordnung des Bundesministeriums ohne Zustimmung des Bundesrates aufgehoben werden.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am …<span id="FnR.F3_771702"></span><a href="#F3_771702" class="FnR">*)</a></sup> in Kraft.

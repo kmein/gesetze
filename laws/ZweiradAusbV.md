@@ -1,15 +1,11 @@
-# [ZweiradAusbV] Verordnung über die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin   (Zweiradmechatronikerausbildungsverordnung - ZweiradAusbV)
-
-Ausfertigungsdatum: 13.06.2014
-
+% Verordnung über die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin   (Zweiradmechatronikerausbildungsverordnung - ZweiradAusbV)
+% Ausfertigungsdatum: 13.06.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, und auf Grund des § 25 Absatz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Zweiradmechatronikers und der Zweiradmechatronikerin wird staatlich anerkannt nach
 
@@ -17,13 +13,11 @@ Der Ausbildungsberuf des Zweiradmechatronikers und der Zweiradmechatronikerin wi
 
 2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 17 Zweiradmechaniker der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Fachrichtungen der Berufsausbildung
+# § 3 – Fachrichtungen der Berufsausbildung
 
 Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgeführt:
 
@@ -31,8 +25,7 @@ Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgef�
 
 2. Motorradtechnik.
 
-
-## § 4 – Struktur und Inhalte der Berufsausbildung
+# § 4 – Struktur und Inhalte der Berufsausbildung
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -104,15 +97,13 @@ Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgef�
 
 6. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
 (2) Eine vom Ausbildungsrahmenplan abweichende Organisation der Berufsausbildung ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+# § 6 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 bis 9 und 11 nachzuweisen.
 
@@ -120,8 +111,7 @@ Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgef�
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Abschluss- oder Gesellenprüfung
+# § 7 – Abschluss- oder Gesellenprüfung
 
 (1) Die Abschluss- oder Gesellenprüfung besteht aus zwei Teilen. Teil 1 soll zum Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
@@ -133,8 +123,7 @@ Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgef�
 
 3. mit dem Lehrstoff des Berufsschulunterrichts vertraut ist, soweit der Lehrstoff für die Berufsausbildung wesentlich ist.
 
-
-## § 8 – Teil 1 der Abschluss- oder Gesellenprüfung
+# § 8 – Teil 1 der Abschluss- oder Gesellenprüfung
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -180,8 +169,7 @@ a) für die beiden Arbeitsaufgaben und das situative Fachgespräch 180 Minuten; 
 
 b) für die schriftlichen Aufgaben 120 Minuten.
 
-
-## § 9 – Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Fahrradtechnik
+# § 9 – Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Fahrradtechnik
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -281,8 +269,7 @@ h) elektrotechnische Arbeiten an Hochvoltkomponenten unter Anwendung der Sicherh
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 10 – Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Fahrradtechnik
+# § 10 – Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Fahrradtechnik
 
 (1) Die Ergebnisse der Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -326,8 +313,7 @@ h) elektrotechnische Arbeiten an Hochvoltkomponenten unter Anwendung der Sicherh
 
 Bei der Ermittlung des Ergebnisses für den gewählten Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 11 – Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Motorradtechnik
+# § 11 – Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Motorradtechnik
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -425,8 +411,7 @@ e) die Vernetzung von Systemen eines Kraftfahrzeuges zu beschreiben und zu analy
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 12 – Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Motorradtechnik
+# § 12 – Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Motorradtechnik
 
 (1) Die Ergebnisse der Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -470,18 +455,15 @@ e) die Vernetzung von Systemen eines Kraftfahrzeuges zu beschreiben und zu analy
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 13 – Anrechnung von Ausbildungszeiten
+# § 13 – Anrechnung von Ausbildungszeiten
 
 Die erfolgreich abgeschlossene Berufsausbildung zum Fahrradmonteur und zur Fahrradmonteurin kann ab dem dritten Ausbildungsjahr im Ausbildungsberuf Zweiradmechatroniker und Zweiradmechatronikerin nach dieser Verordnung fortgesetzt werden.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Zweiradmechaniker und zur Zweiradmechanikerin vom 25. Juli 2008 (BGBl. I S. 1560) außer Kraft.
 
-
-## Anlage – (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin
+# Anlage – (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin
 
 (Fundstelle: BGBl. I 2014, 736 – 745)
 

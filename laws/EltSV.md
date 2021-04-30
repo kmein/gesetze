@@ -1,15 +1,11 @@
-# [EltSV] Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise  (Elektrizitätssicherungsverordnung - EltSV)
-
-Ausfertigungsdatum: 26.04.1982
-
+% Verordnung zur Sicherung der Elektrizitätsversorgung in einer Versorgungskrise  (Elektrizitätssicherungsverordnung - EltSV)
+% Ausfertigungsdatum: 26.04.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3, des § 2 Abs. 3, des § 3 Abs. 1 und 3 sowie des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974 (BGBl. I S. 3681), das durch Gesetz vom 19. Dezember 1979 (BGBl. I S. 2305) zuletzt geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Zur Deckung des lebenswichtigen Bedarfs an Elektrizität können die zuständigen Stellen als Lastverteiler Verfügungen erlassen
 
@@ -33,13 +29,11 @@ b) die Lagerung, Abgabe und Verwendung von Brennstoffen;
 
 (6) Zur Deckung des lebenswichtigen Bedarfs an Elektrizität nach Absatz 1 sind die Betreiber von Übertragungsnetzen berechtigt und verpflichtet, die Gefährdung oder Störung nach Maßgabe des § 13g Absatz 2 des Energiewirtschaftsgesetzes durch den Abruf von stillzulegenden Anlagen während der Sicherheitsbereitschaft der stillzulegenden Anlagen zu beseitigen, soweit der Lastverteiler keine gegenteilige Verfügung erlassen hat.
 
-
-## § 2
+# § 2
 
 Unternehmen und Betriebe, die über Anlagen zur Erzeugung von elektrischer Energie mit einer Gesamtleistung von mehr als 100 MW verfügen und ihre Leistung ganz oder teilweise in das Netz der öffentlichen Versorgung einspeisen können, sind verpflichtet, der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen sowie der nach Landesrecht zuständigen Stelle Meldungen entsprechend der Anlage zu dieser Verordnung in zweifacher Ausfertigung bis zum Zehnten jeden Monats zu erstatten. Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen und die nach Landesrecht zuständige Stelle können diese Meldungen in kürzeren Zeitabständen verlangen, wenn dies zur Sicherung der Energieversorgung notwendig ist.
 
-
-## § 3
+# § 3
 
 Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 1975 handelt, wer vorsätzlich oder fahrlässig
 
@@ -47,18 +41,15 @@ Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 1 des Energiesicherungsgesetzes 197
 
 2. eine Meldung nach § 2 nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-## § 4
+# § 4
 
 Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsgesetzes 1975 ist die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen.
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6
+# § 6
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -68,8 +59,7 @@ Verwaltungsbehörde im Sinne des § 16 Nr. 2 Buchstabe a des Energiesicherungsge
 
 2. die Anwendbarkeit durch Verordnung bestimmt.
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 Fundstelle des Originaltextes: BGBl. I 1982, 516
 

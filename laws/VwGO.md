@@ -1,10 +1,7 @@
-# [VwGO] Verwaltungsgerichtsordnung  (VwGO)
-
-Ausfertigungsdatum: 21.01.1960
-
+% Verwaltungsgerichtsordnung  (VwGO)
+% Ausfertigungsdatum: 21.01.1960
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 TEIL I
 
@@ -148,18 +145,15 @@ Schluß- und Übergangsbestimmungen
 
 §§ 173 bis 195
 
-
-## § 1
+# § 1
 
 Die Verwaltungsgerichtsbarkeit wird durch unabhängige, von den Verwaltungsbehörden getrennte Gerichte ausgeübt.
 
-
-## § 2
+# § 2
 
 Gerichte der Verwaltungsgerichtsbarkeit sind in den Ländern die Verwaltungsgerichte und je ein Oberverwaltungsgericht, im Bund das Bundesverwaltungsgericht mit Sitz in Leipzig.
 
-
-## § 3
+# § 3
 
 (1) Durch Gesetz werden angeordnet
 
@@ -180,13 +174,11 @@ die Zuweisung von Verfahren, bei denen sich die örtliche Zuständigkeit nach §
 
 (2) Mehrere Länder können die Errichtung eines gemeinsamen Gerichts oder gemeinsamer Spruchkörper eines Gerichts oder die Ausdehnung von Gerichtsbezirken über die Landesgrenzen hinaus, auch für einzelne Sachgebiete, vereinbaren.
 
-
-## § 4
+# § 4
 
 Für die Gerichte der Verwaltungsgerichtsbarkeit gelten die Vorschriften des Zweiten Titels des Gerichtsverfassungsgesetzes entsprechend. Die Mitglieder und drei Vertreter des für Entscheidungen nach § 99 Abs. 2 zuständigen Spruchkörpers bestimmt das Präsidium jeweils für die Dauer von vier Jahren. Die Mitglieder und ihre Vertreter müssen Richter auf Lebenszeit sein.
 
-
-## § 5
+# § 5
 
 (1) Das Verwaltungsgericht besteht aus dem Präsidenten und aus den Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
 
@@ -194,8 +186,7 @@ Für die Gerichte der Verwaltungsgerichtsbarkeit gelten die Vorschriften des Zwe
 
 (3) Die Kammer des Verwaltungsgerichts entscheidet in der Besetzung von drei Richtern und zwei ehrenamtlichen Richtern, soweit nicht ein Einzelrichter entscheidet. Bei Beschlüssen außerhalb der mündlichen Verhandlung und bei Gerichtsbescheiden (§ 84) wirken die ehrenamtlichen Richter nicht mit.
 
-
-## § 6
+# § 6
 
 (1) Die Kammer soll in der Regel den Rechtsstreit einem ihrer Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn
 
@@ -211,11 +202,9 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (4) Beschlüsse nach den Absätzen 1 und 3 sind unanfechtbar. Auf eine unterlassene Übertragung kann ein Rechtsbehelf nicht gestützt werden.
 
+# §§ 7 bis 8 – (weggefallen)
 
-## §§ 7 bis 8 – (weggefallen)
-
-
-## § 9
+# § 9
 
 (1) Das Oberverwaltungsgericht besteht aus dem Präsidenten und aus den Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
 
@@ -225,8 +214,7 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (4) (weggefallen)
 
-
-## § 10
+# § 10
 
 (1) Das Bundesverwaltungsgericht besteht aus dem Präsidenten und aus den Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
 
@@ -234,8 +222,7 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (3) Die Senate des Bundesverwaltungsgerichts entscheiden in der Besetzung von fünf Richtern, bei Beschlüssen außerhalb der mündlichen Verhandlung in der Besetzung von drei Richtern.
 
-
-## § 11
+# § 11
 
 (1) Bei dem Bundesverwaltungsgericht wird ein Großer Senat gebildet.
 
@@ -251,8 +238,7 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (7) Der Große Senat entscheidet nur über die Rechtsfrage. Er kann ohne mündliche Verhandlung entscheiden. Seine Entscheidung ist in der vorliegenden Sache für den erkennenden Senat bindend.
 
-
-## § 12
+# § 12
 
 (1) Die Vorschriften des § 11 gelten für das Oberverwaltungsgericht entsprechend, soweit es über eine Frage des Landesrechts endgültig entscheidet. An die Stelle der Revisionssenate treten die nach diesem Gesetz gebildeten Berufungssenate.
 
@@ -260,18 +246,15 @@ Ein Richter auf Probe darf im ersten Jahr nach seiner Ernennung nicht Einzelrich
 
 (3) Durch Landesgesetz kann eine abweichende Zusammensetzung des Großen Senats bestimmt werden.
 
-
-## § 13
+# § 13
 
 Bei jedem Gericht wird eine Geschäftsstelle eingerichtet. Sie wird mit der erforderlichen Anzahl von Urkundsbeamten besetzt.
 
-
-## § 14
+# § 14
 
 Alle Gerichte und Verwaltungsbehörden leisten den Gerichten der Verwaltungsgerichtsbarkeit Rechts- und Amtshilfe.
 
-
-## § 15
+# § 15
 
 (1) Die Richter werden auf Lebenszeit ernannt, soweit nicht in §§ 16 und 17 Abweichendes bestimmt ist.
 
@@ -279,13 +262,11 @@ Alle Gerichte und Verwaltungsbehörden leisten den Gerichten der Verwaltungsgeri
 
 (3) Die Richter des Bundesverwaltungsgerichts müssen das fünfunddreißigste Lebensjahr vollendet haben.
 
-
-## § 16
+# § 16
 
 Bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht können auf Lebenszeit ernannte Richter anderer Gerichte und ordentliche Professoren des Rechts für eine bestimmte Zeit von mindestens zwei Jahren, längstens jedoch für die Dauer ihres Hauptamts, zu Richtern im Nebenamt ernannt werden.
 
-
-## § 17
+# § 17
 
 Bei den Verwaltungsgerichten können auch folgende Richter verwendet werden:
 
@@ -297,25 +278,21 @@ Bei den Verwaltungsgerichten können auch folgende Richter verwendet werden:
 
 § 17 Nr. 3: Mit dem GG vereinbar, BVerfGE v. 22.3.2018 - 2 BvR 780/16 -
 
-
-## § 18
+# § 18
 
 Zur Deckung eines nur vorübergehenden Personalbedarfs kann ein Beamter auf Lebenszeit mit der Befähigung zum Richteramt für die Dauer von mindestens zwei Jahren, längstens jedoch für die Dauer seines Hauptamts, zum Richter auf Zeit ernannt werden. § 15 Absatz 1 Satz 1 und 3 sowie Absatz 2 des Deutschen Richtergesetzes ist entsprechend anzuwenden.
 
 § 18: Mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerfGE v. 22.3.2018 - 2 BvR 780/16 -
 
-
-## § 19
+# § 19
 
 Der ehrenamtliche Richter wirkt bei der mündlichen Verhandlung und der Urteilsfindung mit gleichen Rechten wie der Richter mit.
 
-
-## § 20
+# § 20
 
 Der ehrenamtliche Richter muß Deutscher sein. Er soll das 25. Lebensjahr vollendet und seinen Wohnsitz innerhalb des Gerichtsbezirks haben.
 
-
-## § 21
+# § 21
 
 (1) Vom Amt des ehrenamtlichen Richters sind ausgeschlossen
 
@@ -327,8 +304,7 @@ Der ehrenamtliche Richter muß Deutscher sein. Er soll das 25. Lebensjahr vollen
 
 (2) Personen, die in Vermögensverfall geraten sind, sollen nicht zu ehrenamtlichen Richtern berufen werden.
 
-
-## § 22
+# § 22
 
 Zu ehrenamtlichen Richtern können nicht berufen werden
 
@@ -340,13 +316,11 @@ Zu ehrenamtlichen Richtern können nicht berufen werden
 
 4. Berufssoldaten und Soldaten auf Zeit,
 
-4a.  
-(weggefallen)
+4a. (weggefallen)
 
 5. Rechtsanwälte, Notare und Personen, die fremde Rechtsangelegenheiten geschäftsmäßig besorgen.
 
-
-## § 23
+# § 23
 
 (1) Die Berufung zum Amt des ehrenamtlichen Richters dürfen ablehnen
 
@@ -364,8 +338,7 @@ Zu ehrenamtlichen Richtern können nicht berufen werden
 
 (2) In besonderen Härtefällen kann außerdem auf Antrag von der Übernahme des Amtes befreit werden.
 
-
-## § 24
+# § 24
 
 (1) Ein ehrenamtlicher Richter ist von seinem Amt zu entbinden, wenn er
 
@@ -387,13 +360,11 @@ Zu ehrenamtlichen Richtern können nicht berufen werden
 
 (5) Auf Antrag des ehrenamtlichen Richters ist die Entscheidung nach Absatz 3 von dem Senat des Oberverwaltungsgerichts aufzuheben, wenn Anklage nach § 21 Nr. 2 erhoben war und der Angeschuldigte rechtskräftig außer Verfolgung gesetzt oder freigesprochen worden ist.
 
-
-## § 25
+# § 25
 
 Die ehrenamtlichen Richter werden auf fünf Jahre gewählt.
 
-
-## § 26
+# § 26
 
 (1) Bei jedem Verwaltungsgericht wird ein Ausschuß zur Wahl der ehrenamtlichen Richter bestellt.
 
@@ -401,128 +372,107 @@ Die ehrenamtlichen Richter werden auf fünf Jahre gewählt.
 
 (3) Der Ausschuß ist beschlußfähig, wenn wenigstens der Vorsitzende, ein Verwaltungsbeamter und drei Vertrauensleute anwesend sind.
 
-
-## § 27
+# § 27
 
 Die für jedes Verwaltungsgericht erforderliche Zahl von ehrenamtlichen Richtern wird durch den Präsidenten so bestimmt, daß voraussichtlich jeder zu höchstens zwölf ordentlichen Sitzungstagen im Jahr herangezogen wird.
 
-
-## § 28
+# § 28
 
 Die Kreise und kreisfreien Städte stellen in jedem fünften Jahr eine Vorschlagsliste für ehrenamtliche Richter auf. Der Ausschuß bestimmt für jeden Kreis und für jede kreisfreie Stadt die Zahl der Personen, die in die Vorschlagsliste aufzunehmen sind. Hierbei ist die doppelte Anzahl der nach § 27 erforderlichen ehrenamtlichen Richter zugrunde zu legen. Für die Aufnahme in die Liste ist die Zustimmung von zwei Dritteln der anwesenden Mitglieder der Vertretungskörperschaft des Kreises oder der kreisfreien Stadt, mindestens jedoch die Hälfte der gesetzlichen Mitgliederzahl erforderlich. Die jeweiligen Regelungen zur Beschlussfassung der Vertretungskörperschaft bleiben unberührt. Die Vorschlagslisten sollen außer dem Namen auch den Geburtsort, den Geburtstag und Beruf des Vorgeschlagenen enthalten; sie sind dem Präsidenten des zuständigen Verwaltungsgerichts zu übermitteln.
 
-
-## § 29
+# § 29
 
 (1) Der Ausschuß wählt aus den Vorschlagslisten mit einer Mehrheit von mindestens zwei Dritteln der Stimmen die erforderliche Zahl von ehrenamtlichen Richtern.
 
 (2) Bis zur Neuwahl bleiben die bisherigen ehrenamtlichen Richter im Amt.
 
-
-## § 30
+# § 30
 
 (1) Das Präsidium des Verwaltungsgerichts bestimmt vor Beginn des Geschäftsjahres die Reihenfolge, in der die ehrenamtlichen Richter zu den Sitzungen heranzuziehen sind.
 
 (2) Für die Heranziehung von Vertretern bei unvorhergesehener Verhinderung kann eine Hilfsliste aus ehrenamtlichen Richtern aufgestellt werden, die am Gerichtssitz oder in seiner Nähe wohnen.
 
-
-## § 31
+# § 31
 
 (weggefallen)
 
-
-## § 32
+# § 32
 
 Der ehrenamtliche Richter und der Vertrauensmann (§ 26) erhalten eine Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 33
+# § 33
 
 (1) Gegen einen ehrenamtlichen Richter, der sich ohne genügende Entschuldigung zu einer Sitzung nicht rechtzeitig einfindet oder der sich seinen Pflichten auf andere Weise entzieht, kann ein Ordnungsgeld festgesetzt werden. Zugleich können ihm die durch sein Verhalten verursachten Kosten auferlegt werden.
 
 (2) Die Entscheidung trifft der Vorsitzende. Bei nachträglicher Entschuldigung kann er sie ganz oder zum Teil aufheben.
 
-
-## § 34
+# § 34
 
 §§ 19 bis 33 gelten für die ehrenamtlichen Richter bei dem Oberverwaltungsgericht entsprechend, wenn die Landesgesetzgebung bestimmt hat, daß bei diesem Gericht ehrenamtliche Richter mitwirken.
 
-
-## § 35
+# § 35
 
 (1) Die Bundesregierung bestellt einen Vertreter des Bundesinteresses beim Bundesverwaltungsgericht und richtet ihn im Bundesministerium des Innern, für Bau und Heimat ein. Der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht kann sich an jedem Verfahren vor dem Bundesverwaltungsgericht beteiligen; dies gilt nicht für Verfahren vor den Wehrdienstsenaten. Er ist an die Weisungen der Bundesregierung gebunden.
 
 (2) Das Bundesverwaltungsgericht gibt dem Vertreter des Bundesinteresses beim Bundesverwaltungsgericht Gelegenheit zur Äußerung.
 
-
-## § 36
+# § 36
 
 (1) Bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht kann nach Maßgabe einer Rechtsverordnung der Landesregierung ein Vertreter des öffentlichen Interesses bestimmt werden. Dabei kann ihm allgemein oder für bestimmte Fälle die Vertretung des Landes oder von Landesbehörden übertragen werden.
 
 (2) § 35 Abs. 2 gilt entsprechend.
 
-
-## § 37
+# § 37
 
 (1) Der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht und seine hauptamtlichen Mitarbeiter des höheren Dienstes müssen die Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 Satz 1 des Deutschen Richtergesetzes erfüllen.
 
 (2) Der Vertreter des öffentlichen Interesses bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht muß die Befähigung zum Richteramt nach dem Deutschen Richtergesetz haben; § 174 bleibt unberührt.
 
-
-## § 38
+# § 38
 
 (1) Der Präsident des Gerichts übt die Dienstaufsicht über die Richter, Beamten, Angestellten und Arbeiter aus.
 
 (2) Übergeordnete Dienstaufsichtsbehörde für das Verwaltungsgericht ist der Präsident des Oberverwaltungsgerichts.
 
-
-## § 39
+# § 39
 
 Dem Gericht dürfen keine Verwaltungsgeschäfte außerhalb der Gerichtsverwaltung übertragen werden.
 
-
-## § 40
+# § 40
 
 (1) Der Verwaltungsrechtsweg ist in allen öffentlich-rechtlichen Streitigkeiten nichtverfassungsrechtlicher Art gegeben, soweit die Streitigkeiten nicht durch Bundesgesetz einem anderen Gericht ausdrücklich zugewiesen sind. Öffentlich-rechtliche Streitigkeiten auf dem Gebiet des Landesrechts können einem anderen Gericht auch durch Landesgesetz zugewiesen werden.
 
 (2) Für vermögensrechtliche Ansprüche aus Aufopferung für das gemeine Wohl und aus öffentlich-rechtlicher Verwahrung sowie für Schadensersatzansprüche aus der Verletzung öffentlich-rechtlicher Pflichten, die nicht auf einem öffentlich-rechtlichen Vertrag beruhen, ist der ordentliche Rechtsweg gegeben; dies gilt nicht für Streitigkeiten über das Bestehen und die Höhe eines Ausgleichsanspruchs im Rahmen des Artikels 14 Abs. 1 Satz 2 des Grundgesetzes. Die besonderen Vorschriften des Beamtenrechts sowie über den Rechtsweg bei Ausgleich von Vermögensnachteilen wegen Rücknahme rechtswidriger Verwaltungsakte bleiben unberührt.
 
-
-## § 41
+# § 41
 
 (weggefallen)
 
-
-## § 42
+# § 42
 
 (1) Durch Klage kann die Aufhebung eines Verwaltungsakts (Anfechtungsklage) sowie die Verurteilung zum Erlaß eines abgelehnten oder unterlassenen Verwaltungsakts (Verpflichtungsklage) begehrt werden.
 
 (2) Soweit gesetzlich nichts anderes bestimmt ist, ist die Klage nur zulässig, wenn der Kläger geltend macht, durch den Verwaltungsakt oder seine Ablehnung oder Unterlassung in seinen Rechten verletzt zu sein.
 
-
-## § 43
+# § 43
 
 (1) Durch Klage kann die Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses oder der Nichtigkeit eines Verwaltungsakts begehrt werden, wenn der Kläger ein berechtigtes Interesse an der baldigen Feststellung hat (Feststellungsklage).
 
 (2) Die Feststellung kann nicht begehrt werden, soweit der Kläger seine Rechte durch Gestaltungs- oder Leistungsklage verfolgen kann oder hätte verfolgen können. Dies gilt nicht, wenn die Feststellung der Nichtigkeit eines Verwaltungsakts begehrt wird.
 
-
-## § 44
+# § 44
 
 Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
-
-## § 44a
+# § 44a
 
 Rechtsbehelfe gegen behördliche Verfahrenshandlungen können nur gleichzeitig mit den gegen die Sachentscheidung zulässigen Rechtsbehelfen geltend gemacht werden. Dies gilt nicht, wenn behördliche Verfahrenshandlungen vollstreckt werden können oder gegen einen Nichtbeteiligten ergehen.
 
-
-## § 45
+# § 45
 
 Das Verwaltungsgericht entscheidet im ersten Rechtszug über alle Streitigkeiten, für die der Verwaltungsrechtsweg offensteht.
 
-
-## § 46
+# § 46
 
 Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
@@ -532,8 +482,7 @@ Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 3. (weggefallen)
 
-
-## § 47
+# § 47
 
 (1) Das Oberverwaltungsgericht entscheidet im Rahmen seiner Gerichtsbarkeit auf Antrag über die Gültigkeit
 
@@ -553,30 +502,25 @@ Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
 (6) Das Gericht kann auf Antrag eine einstweilige Anordnung erlassen, wenn dies zur Abwehr schwerer Nachteile oder aus anderen wichtigen Gründen dringend geboten ist.
 
-
-## § 48
+# § 48
 
 (1) Das Oberverwaltungsgericht entscheidet im ersten Rechtszug über sämtliche Streitigkeiten, die betreffen
 
 1. die Errichtung, den Betrieb, die sonstige Innehabung, die Veränderung, die Stillegung, den sicheren Einschluß und den Abbau von Anlagen im Sinne der §§ 7 und 9a Abs. 3 des Atomgesetzes,
 
-1a.  
-das Bestehen und die Höhe von Ausgleichsansprüchen auf Grund der §§ 7e und 7f des Atomgesetzes,
+1a. das Bestehen und die Höhe von Ausgleichsansprüchen auf Grund der §§ 7e und 7f des Atomgesetzes,
 
 2. die Bearbeitung, Verarbeitung und sonstige Verwendung von Kernbrennstoffen außerhalb von Anlagen der in § 7 des Atomgesetzes bezeichneten Art (§ 9 des Atomgesetzes) und die wesentliche Abweichung oder die wesentliche Veränderung im Sinne des § 9 Abs. 1 Satz 2 des Atomgesetzes sowie die Aufbewahrung von Kernbrennstoffen außerhalb der staatlichen Verwahrung (§ 6 des Atomgesetzes),
 
 3. die Errichtung, den Betrieb und die Änderung von Kraftwerken mit Feuerungsanlagen für feste, flüssige und gasförmige Brennstoffe mit einer Feuerungswärmeleistung von mehr als dreihundert Megawatt,
 
-3a.  
-die Errichtung, den Betrieb und die Änderung von Anlagen zur Nutzung von Windenergie an Land mit einer Gesamthöhe von mehr als 50 Metern,
+3a. die Errichtung, den Betrieb und die Änderung von Anlagen zur Nutzung von Windenergie an Land mit einer Gesamthöhe von mehr als 50 Metern,
 
-3b.  
-die Errichtung, den Betrieb und die Änderung von Kraft-Wärme-Kopplungsanlagen im Sinne des Kraft-Wärme-Kopplungsgesetzes ab einer Feuerungswärmeleistung von 50 Megawatt,
+3b. die Errichtung, den Betrieb und die Änderung von Kraft-Wärme-Kopplungsanlagen im Sinne des Kraft-Wärme-Kopplungsgesetzes ab einer Feuerungswärmeleistung von 50 Megawatt,
 
 4. Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
-4a.  
-Planfeststellungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 45 Absatz 1 des Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
+4a. Planfeststellungsverfahren für die Errichtung, den Betrieb und die Änderung von Einrichtungen nach § 45 Absatz 1 des Windenergie-auf-See-Gesetzes, soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50 Absatz 1 Nummer 6 begründet ist,
 
 5. Verfahren für die Errichtung, den Betrieb und die wesentliche Änderung von ortsfesten Anlagen zur Verbrennung oder thermischen Zersetzung von Abfällen mit einer jährlichen Durchsatzleistung (effektive Leistung) von mehr als einhunderttausend Tonnen und von ortsfesten Anlagen, in denen ganz oder teilweise Abfälle im Sinne des § 48 des Kreislaufwirtschaftsgesetzes gelagert oder abgelagert werden,
 
@@ -604,8 +548,7 @@ Satz 1 gilt auch für Streitigkeiten über Genehmigungen, die anstelle einer Pla
 
 § 48 Abs. 1 Satz 1 Nr. 1a: Eingef. durch Art. 2 G v. 10.7.2018 I 1122 iVm Bek. v. 11.7.2018 I 1124 mWv 4.7.2018; bzgl. dieses Gesetzes und dieser Bekanntmachung vgl. BVerfGE v. 29.9.2020 (1 BvR 1550/19)
 
-
-## § 49
+# § 49
 
 Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
@@ -615,8 +558,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 3. der Beschwerde nach § 99 Abs. 2 und § 133 Abs. 1 dieses Gesetzes sowie nach § 17a Abs. 4 Satz 4 des Gerichtsverfassungsgesetzes.
 
-
-## § 50
+# § 50
 
 (1) Das Bundesverwaltungsgericht entscheidet im ersten und letzten Rechtszug
 
@@ -636,8 +578,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 (3) Hält das Bundesverwaltungsgericht nach Absatz 1 Nr. 1 eine Streitigkeit für verfassungsrechtlich, so legt es die Sache dem Bundesverfassungsgericht zur Entscheidung vor.
 
-
-## § 51
+# § 51
 
 (1) Ist gemäß § 5 Abs. 2 des Vereinsgesetzes das Verbot des Gesamtvereins an Stelle des Verbots eines Teilvereins zu vollziehen, so ist ein Verfahren über eine Klage dieses Teilvereins gegen das ihm gegenüber erlassene Verbot bis zum Erlaß der Entscheidung über eine Klage gegen das Verbot des Gesamtvereins auszusetzen.
 
@@ -645,8 +586,7 @@ Das Bundesverwaltungsgericht entscheidet über das Rechtsmittel
 
 (3) Das Bundesverwaltungsgericht unterrichtet die Oberverwaltungsgerichte über die Klage eines Vereins nach § 50 Abs. 1 Nr. 2.
 
-
-## § 52
+# § 52
 
 Für die örtliche Zuständigkeit gilt folgendes:
 
@@ -660,8 +600,7 @@ Für die örtliche Zuständigkeit gilt folgendes:
 
 5. In allen anderen Fällen ist das Verwaltungsgericht örtlich zuständig, in dessen Bezirk der Beklagte seinen Sitz, Wohnsitz oder in Ermangelung dessen seinen Aufenthalt hat oder seinen letzten Wohnsitz oder Aufenthalt hatte.
 
-
-## § 53
+# § 53
 
 (1) Das zuständige Gericht innerhalb der Verwaltungsgerichtsbarkeit wird durch das nächsthöhere Gericht bestimmt,
 
@@ -679,8 +618,7 @@ Für die örtliche Zuständigkeit gilt folgendes:
 
 (3) Jeder am Rechtsstreit Beteiligte und jedes mit dem Rechtsstreit befaßte Gericht kann das im Rechtszug höhere Gericht oder das Bundesverwaltungsgericht anrufen. Das angerufene Gericht kann ohne mündliche Verhandlung entscheiden.
 
-
-## § 54
+# § 54
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten §§ 41 bis 49 der Zivilprozeßordnung entsprechend.
 
@@ -688,13 +626,11 @@ Für die örtliche Zuständigkeit gilt folgendes:
 
 (3) Besorgnis der Befangenheit nach § 42 der Zivilprozeßordnung ist stets dann begründet, wenn der Richter oder ehrenamtliche Richter der Vertretung einer Körperschaft angehört, deren Interessen durch das Verfahren berührt werden.
 
-
-## § 55
+# § 55
 
 §§ 169, 171a bis 198 des Gerichtsverfassungsgesetzes über die Öffentlichkeit, Sitzungspolizei, Gerichtssprache, Beratung und Abstimmung finden entsprechende Anwendung.
 
-
-## § 55a
+# § 55a
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
 
@@ -718,8 +654,7 @@ Für die örtliche Zuständigkeit gilt folgendes:
 
 (7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches Dokument, in welches das handschriftlich unterzeichnete Schriftstück gemäß § 55b Absatz 6 Satz 4 übertragen worden ist.
 
-
-## § 55b
+# § 55b
 
 (1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Verwahrung der elektronischen Akten festzulegen. Die Landesregierungen können die Ermächtigung auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Prozessakten elektronisch zu führen sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
@@ -741,15 +676,13 @@ Für die örtliche Zuständigkeit gilt folgendes:
 
 (6) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
 
-
-## § 55c – Formulare; Verordnungsermächtigung
+# § 55c – Formulare; Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 55a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 56
+# § 56
 
 (1) Anordnungen und Entscheidungen, durch die eine Frist in Lauf gesetzt wird, sowie Terminbestimmungen und Ladungen sind zuzustellen, bei Verkündung jedoch nur, wenn es ausdrücklich vorgeschrieben ist.
 
@@ -757,8 +690,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (3) Wer nicht im Inland wohnt, hat auf Verlangen einen Zustellungsbevollmächtigten zu bestellen.
 
-
-## § 56a
+# § 56a
 
 (1) Sind gleiche Bekanntgaben an mehr als fünfzig Personen erforderlich, kann das Gericht für das weitere Verfahren die Bekanntgabe durch öffentliche Bekanntmachung anordnen. In dem Beschluß muß bestimmt werden, in welchen Tageszeitungen die Bekanntmachungen veröffentlicht werden; dabei sind Tageszeitungen vorzusehen, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird. Der Beschluß ist den Beteiligten zuzustellen. Die Beteiligten sind darauf hinzuweisen, auf welche Weise die weiteren Bekanntgaben bewirkt werden und wann das Dokument als zugestellt gilt. Der Beschluß ist unanfechtbar. Das Gericht kann den Beschluß jederzeit aufheben; es muß ihn aufheben, wenn die Voraussetzungen des Satzes 1 nicht vorlagen oder nicht mehr vorliegen.
 
@@ -766,25 +698,21 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (3) Das Dokument gilt als an dem Tage zugestellt, an dem seit dem Tage der Veröffentlichung im Bundesanzeiger zwei Wochen verstrichen sind; darauf ist in jeder Veröffentlichung hinzuweisen. Nach der öffentlichen Bekanntmachung einer Entscheidung können die Beteiligten eine Ausfertigung schriftlich anfordern; darauf ist in der Veröffentlichung gleichfalls hinzuweisen.
 
-
-## § 57
+# § 57
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist, mit der Zustellung oder, wenn diese nicht vorgeschrieben ist, mit der Eröffnung oder Verkündung.
 
 (2) Für die Fristen gelten die Vorschriften der §§ 222, 224 Abs. 2 und 3, §§ 225 und 226 der Zivilprozeßordnung.
 
-
-## § 58
+# § 58
 
 (1) Die Frist für ein Rechtsmittel oder einen anderen Rechtsbehelf beginnt nur zu laufen, wenn der Beteiligte über den Rechtsbehelf, die Verwaltungsbehörde oder das Gericht, bei denen der Rechtsbehelf anzubringen ist, den Sitz und die einzuhaltende Frist schriftlich oder elektronisch belehrt worden ist.
 
 (2) Ist die Belehrung unterblieben oder unrichtig erteilt, so ist die Einlegung des Rechtsbehelfs nur innerhalb eines Jahres seit Zustellung, Eröffnung oder Verkündung zulässig, außer wenn die Einlegung vor Ablauf der Jahresfrist infolge höherer Gewalt unmöglich war oder eine schriftliche oder elektronische Belehrung dahin erfolgt ist, daß ein Rechtsbehelf nicht gegeben sei. § 60 Abs. 2 gilt für den Fall höherer Gewalt entsprechend.
 
+# § 59 – (weggefallen)
 
-## § 59 – (weggefallen)
-
-
-## § 60
+# § 60
 
 (1) Wenn jemand ohne Verschulden verhindert war, eine gesetzliche Frist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren.
 
@@ -796,8 +724,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (5) Die Wiedereinsetzung ist unanfechtbar.
 
-
-## § 61
+# § 61
 
 Fähig, am Verfahren beteiligt zu sein, sind
 
@@ -807,8 +734,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 3. Behörden, sofern das Landesrecht dies bestimmt.
 
-
-## § 62
+# § 62
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -822,8 +748,7 @@ Fähig, am Verfahren beteiligt zu sein, sind
 
 (4) §§ 53 bis 58 der Zivilprozeßordnung gelten entsprechend.
 
-
-## § 63
+# § 63
 
 Beteiligte am Verfahren sind
 
@@ -835,13 +760,11 @@ Beteiligte am Verfahren sind
 
 4. der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht oder der Vertreter des öffentlichen Interesses, falls er von seiner Beteiligungsbefugnis Gebrauch macht.
 
-
-## § 64
+# § 64
 
 Die Vorschriften der §§ 59 bis 63 der Zivilprozeßordnung über die Streitgenossenschaft sind entsprechend anzuwenden.
 
-
-## § 65
+# § 65
 
 (1) Das Gericht kann, solange das Verfahren noch nicht rechtskräftig abgeschlossen oder in höherer Instanz anhängig ist, von Amts wegen oder auf Antrag andere, deren rechtliche Interessen durch die Entscheidung berührt werden, beiladen.
 
@@ -851,13 +774,11 @@ Die Vorschriften der §§ 59 bis 63 der Zivilprozeßordnung über die Streitgeno
 
 (4) Der Beiladungsbeschluß ist allen Beteiligten zuzustellen. Dabei sollen der Stand der Sache und der Grund der Beiladung angegeben werden. Die Beiladung ist unanfechtbar.
 
-
-## § 66
+# § 66
 
 Der Beigeladene kann innerhalb der Anträge eines Beteiligten selbständig Angriffs- und Verteidigungsmittel geltend machen und alle Verfahrenshandlungen wirksam vornehmen. Abweichende Sachanträge kann er nur stellen, wenn eine notwendige Beiladung vorliegt.
 
-
-## § 67
+# § 67
 
 (1) Die Beteiligten können vor dem Verwaltungsgericht den Rechtsstreit selbst führen.
 
@@ -889,15 +810,13 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (7) In der Verhandlung können die Beteiligten mit Beiständen erscheinen. Beistand kann sein, wer in Verfahren, in denen die Beteiligten den Rechtsstreit selbst führen können, als Bevollmächtigter zur Vertretung in der Verhandlung befugt ist. Das Gericht kann andere Personen als Beistand zulassen, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht. Absatz 3 Satz 1 und 3 und Absatz 5 gelten entsprechend. Das von dem Beistand Vorgetragene gilt als von dem Beteiligten vorgebracht, soweit es nicht von diesem sofort widerrufen oder berichtigt wird.
 
-
-## § 67a
+# § 67a
 
 (1) Sind an einem Rechtsstreit mehr als zwanzig Personen im gleichen Interesse beteiligt, ohne durch einen Prozeßbevollmächtigten vertreten zu sein, kann das Gericht ihnen durch Beschluß aufgeben, innerhalb einer angemessenen Frist einen gemeinsamen Bevollmächtigten zu bestellen, wenn sonst die ordnungsgemäße Durchführung des Rechtsstreits beeinträchtigt wäre. Bestellen die Beteiligten einen gemeinsamen Bevollmächtigten nicht innerhalb der ihnen gesetzten Frist, kann das Gericht einen Rechtsanwalt als gemeinsamen Vertreter durch Beschluß bestellen. Die Beteiligten können Verfahrenshandlungen nur durch den gemeinsamen Bevollmächtigten oder Vertreter vornehmen. Beschlüsse nach den Sätzen 1 und 2 sind unanfechtbar.
 
 (2) Die Vertretungsmacht erlischt, sobald der Vertreter oder der Vertretene dies dem Gericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle erklärt; der Vertreter kann die Erklärung nur hinsichtlich aller Vertretenen abgeben. Gibt der Vertretene eine solche Erklärung ab, so erlischt die Vertretungsmacht nur, wenn zugleich die Bestellung eines anderen Bevollmächtigten angezeigt wird.
 
-
-## § 68
+# § 68
 
 (1) Vor Erhebung der Anfechtungsklage sind Rechtmäßigkeit und Zweckmäßigkeit des Verwaltungsakts in einem Vorverfahren nachzuprüfen. Einer solchen Nachprüfung bedarf es nicht, wenn ein Gesetz dies bestimmt oder wenn
 
@@ -907,30 +826,25 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (2) Für die Verpflichtungsklage gilt Absatz 1 entsprechend, wenn der Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
-
-## § 69
+# § 69
 
 Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 
-
-## § 70
+# § 70
 
 (1) Der Widerspruch ist innerhalb eines Monats, nachdem der Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich, in elektronischer Form nach § 3a Absatz 2 des Verwaltungsverfahrensgesetzes oder zur Niederschrift bei der Behörde zu erheben, die den Verwaltungsakt erlassen hat. Die Frist wird auch durch Einlegung bei der Behörde, die den Widerspruchsbescheid zu erlassen hat, gewahrt.
 
 (2) §§ 58 und 60 Abs. 1 bis 4 gelten entsprechend.
 
-
-## § 71 – Anhörung
+# § 71 – Anhörung
 
 Ist die Aufhebung oder Änderung eines Verwaltungsakts im Widerspruchsverfahren erstmalig mit einer Beschwer verbunden, soll der Betroffene vor Erlaß des Abhilfebescheids oder des Widerspruchsbescheids gehört werden.
 
-
-## § 72
+# § 72
 
 Hält die Behörde den Widerspruch für begründet, so hilft sie ihm ab und entscheidet über die Kosten.
 
-
-## § 73
+# § 73
 
 (1) Hilft die Behörde dem Widerspruch nicht ab, so ergeht ein Widerspruchsbescheid. Diesen erläßt
 
@@ -946,32 +860,27 @@ Abweichend von Satz 2 Nr. 1 kann durch Gesetz bestimmt werden, dass die Behörde
 
 (3) Der Widerspruchsbescheid ist zu begründen, mit einer Rechtsmittelbelehrung zu versehen und zuzustellen. Zugestellt wird von Amts wegen nach den Vorschriften des Verwaltungszustellungsgesetzes. Der Widerspruchsbescheid bestimmt auch, wer die Kosten trägt.
 
-
-## § 74
+# § 74
 
 (1) Die Anfechtungsklage muß innerhalb eines Monats nach Zustellung des Widerspruchsbescheids erhoben werden. Ist nach § 68 ein Widerspruchsbescheid nicht erforderlich, so muß die Klage innerhalb eines Monats nach Bekanntgabe des Verwaltungsakts erhoben werden.
 
 (2) Für die Verpflichtungsklage gilt Absatz 1 entsprechend, wenn der Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
-
-## § 75
+# § 75
 
 Ist über einen Widerspruch oder über einen Antrag auf Vornahme eines Verwaltungsakts ohne zureichenden Grund in angemessener Frist sachlich nicht entschieden worden, so ist die Klage abweichend von § 68 zulässig. Die Klage kann nicht vor Ablauf von drei Monaten seit der Einlegung des Widerspruchs oder seit dem Antrag auf Vornahme des Verwaltungsakts erhoben werden, außer wenn wegen besonderer Umstände des Falles eine kürzere Frist geboten ist. Liegt ein zureichender Grund dafür vor, daß über den Widerspruch noch nicht entschieden oder der beantragte Verwaltungsakt noch nicht erlassen ist, so setzt das Gericht das Verfahren bis zum Ablauf einer von ihm bestimmten Frist, die verlängert werden kann, aus. Wird dem Widerspruch innerhalb der vom Gericht gesetzten Frist stattgegeben oder der Verwaltungsakt innerhalb dieser Frist erlassen, so ist die Hauptsache für erledigt zu erklären.
 
-
-## § 76
+# § 76
 
 (weggefallen)
 
-
-## § 77
+# § 77
 
 (1) Alle bundesrechtlichen Vorschriften in anderen Gesetzen über Einspruchs- oder Beschwerdeverfahren sind durch die Vorschriften dieses Abschnitts ersetzt.
 
 (2) Das gleiche gilt für landesrechtliche Vorschriften über Einspruchs- oder Beschwerdeverfahren als Voraussetzung der verwaltungsgerichtlichen Klage.
 
-
-## § 78
+# § 78
 
 (1) Die Klage ist zu richten
 
@@ -981,8 +890,7 @@ Ist über einen Widerspruch oder über einen Antrag auf Vornahme eines Verwaltun
 
 (2) Wenn ein Widerspruchsbescheid erlassen ist, der erstmalig eine Beschwer enthält (§ 68 Abs. 1 Satz 2 Nr. 2), ist Behörde im Sinne des Absatzes 1 die Widerspruchsbehörde.
 
-
-## § 79
+# § 79
 
 (1) Gegenstand der Anfechtungsklage ist
 
@@ -992,8 +900,7 @@ Ist über einen Widerspruch oder über einen Antrag auf Vornahme eines Verwaltun
 
 (2) Der Widerspruchsbescheid kann auch dann alleiniger Gegenstand der Anfechtungsklage sein, wenn und soweit er gegenüber dem ursprünglichen Verwaltungsakt eine zusätzliche selbständige Beschwer enthält. Als eine zusätzliche Beschwer gilt auch die Verletzung einer wesentlichen Verfahrensvorschrift, sofern der Widerspruchsbescheid auf dieser Verletzung beruht. § 78 Abs. 2 gilt entsprechend.
 
-
-## § 80
+# § 80
 
 (1) Widerspruch und Anfechtungsklage haben aufschiebende Wirkung. Das gilt auch bei rechtsgestaltenden und feststellenden Verwaltungsakten sowie bei Verwaltungsakten mit Doppelwirkung (§ 80a).
 
@@ -1005,8 +912,7 @@ Ist über einen Widerspruch oder über einen Antrag auf Vornahme eines Verwaltun
 
 3. in anderen durch Bundesgesetz oder für Landesrecht durch Landesgesetz vorgeschriebenen Fällen, insbesondere für Widersprüche und Klagen Dritter gegen Verwaltungsakte, die Investitionen oder die Schaffung von Arbeitsplätzen betreffen,
 
-3a.  
-für Widersprüche und Klagen Dritter gegen Verwaltungsakte, die die Zulassung von Vorhaben betreffend Bundesverkehrswege und Mobilfunknetze zum Gegenstand haben und die nicht unter Nummer 3 fallen,
+3a. für Widersprüche und Klagen Dritter gegen Verwaltungsakte, die die Zulassung von Vorhaben betreffend Bundesverkehrswege und Mobilfunknetze zum Gegenstand haben und die nicht unter Nummer 3 fallen,
 
 4. in den Fällen, in denen die sofortige Vollziehung im öffentlichen Interesse oder im überwiegenden Interesse eines Beteiligten von der Behörde, die den Verwaltungsakt erlassen oder über den Widerspruch zu entscheiden hat, besonders angeordnet wird.
 
@@ -1028,8 +934,7 @@ Die Länder können auch bestimmen, daß Rechtsbehelfe keine aufschiebende Wirku
 
 (8) In dringenden Fällen kann der Vorsitzende entscheiden.
 
-
-## § 80a
+# § 80a
 
 (1) Legt ein Dritter einen Rechtsbehelf gegen den an einen anderen gerichteten, diesen begünstigenden Verwaltungsakt ein, kann die Behörde
 
@@ -1041,8 +946,7 @@ Die Länder können auch bestimmen, daß Rechtsbehelfe keine aufschiebende Wirku
 
 (3) Das Gericht kann auf Antrag Maßnahmen nach den Absätzen 1 und 2 ändern oder aufheben oder solche Maßnahmen treffen. § 80 Abs. 5 bis 8 gilt entsprechend.
 
-
-## § 80b
+# § 80b
 
 (1) Die aufschiebende Wirkung des Widerspruchs und der Anfechtungsklage endet mit der Unanfechtbarkeit oder, wenn die Anfechtungsklage im ersten Rechtszug abgewiesen worden ist, drei Monate nach Ablauf der gesetzlichen Begründungsfrist des gegen die abweisende Entscheidung gegebenen Rechtsmittels. Dies gilt auch, wenn die Vollziehung durch die Behörde ausgesetzt oder die aufschiebende Wirkung durch das Gericht wiederhergestellt oder angeordnet worden ist, es sei denn, die Behörde hat die Vollziehung bis zur Unanfechtbarkeit ausgesetzt.
 
@@ -1050,27 +954,23 @@ Die Länder können auch bestimmen, daß Rechtsbehelfe keine aufschiebende Wirku
 
 (3) § 80 Abs. 5 bis 8 und § 80a gelten entsprechend.
 
-
-## § 81
+# § 81
 
 (1) Die Klage ist bei dem Gericht schriftlich zu erheben. Bei dem Verwaltungsgericht kann sie auch zu Protokoll des Urkundsbeamten der Geschäftsstelle erhoben werden.
 
 (2) Der Klage und allen Schriftsätzen sollen vorbehaltlich des § 55a Absatz 5 Satz 3 Abschriften für die übrigen Beteiligten beigefügt werden.
 
-
-## § 82
+# § 82
 
 (1) Die Klage muß den Kläger, den Beklagten und den Gegenstand des Klagebegehrens bezeichnen. Sie soll einen bestimmten Antrag enthalten. Die zur Begründung dienenden Tatsachen und Beweismittel sollen angegeben, die angefochtene Verfügung und der Widerspruchsbescheid sollen in Abschrift beigefügt werden.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der Vorsitzende oder der nach § 21g des Gerichtsverfassungsgesetzes zuständige Berufsrichter (Berichterstatter) den Kläger zu der erforderlichen Ergänzung innerhalb einer bestimmten Frist aufzufordern. Er kann dem Kläger für die Ergänzung eine Frist mit ausschließender Wirkung setzen, wenn es an einem der in Absatz 1 Satz 1 genannten Erfordernisse fehlt. Für die Wiedereinsetzung in den vorigen Stand gilt § 60 entsprechend.
 
-
-## § 83
+# § 83
 
 Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes sind unanfechtbar.
 
-
-## § 84
+# § 84
 
 (1) Das Gericht kann ohne mündliche Verhandlung durch Gerichtsbescheid entscheiden, wenn die Sache keine besonderen Schwierigkeiten tatsächlicher oder rechtlicher Art aufweist und der Sachverhalt geklärt ist. Die Beteiligten sind vorher zu hören. Die Vorschriften über Urteile gelten entsprechend.
 
@@ -1090,13 +990,11 @@ Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b des G
 
 (4) Wird mündliche Verhandlung beantragt, kann das Gericht in dem Urteil von einer weiteren Darstellung des Tatbestandes und der Entscheidungsgründe absehen, soweit es der Begründung des Gerichtsbescheides folgt und dies in seiner Entscheidung feststellt.
 
-
-## § 85
+# § 85
 
 Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten. Zugleich mit der Zustellung ist der Beklagte aufzufordern, sich schriftlich zu äußern; § 81 Abs. 1 Satz 2 gilt entsprechend. Hierfür kann eine Frist gesetzt werden.
 
-
-## § 86
+# § 86
 
 (1) Das Gericht erforscht den Sachverhalt von Amts wegen; die Beteiligten sind dabei heranzuziehen. Es ist an das Vorbringen und an die Beweisanträge der Beteiligten nicht gebunden.
 
@@ -1108,13 +1006,11 @@ Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten. Zugleich mit
 
 (5) Den Schriftsätzen sind die Urkunden oder elektronischen Dokumente, auf die Bezug genommen wird, in Abschrift ganz oder im Auszug beizufügen. Sind die Urkunden dem Gegner bereits bekannt oder sehr umfangreich, so genügt die genaue Bezeichnung mit dem Anerbieten, Einsicht bei Gericht zu gewähren.
 
-
-## § 86a
+# § 86a
 
 (weggefallen)
 
-
-## § 87
+# § 87
 
 (1) Der Vorsitzende oder der Berichterstatter hat schon vor der mündlichen Verhandlung alle Anordnungen zu treffen, die notwendig sind, um den Rechtsstreit möglichst in einer mündlichen Verhandlung zu erledigen. Er kann insbesondere
 
@@ -1136,8 +1032,7 @@ Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten. Zugleich mit
 
 (3) Der Vorsitzende oder der Berichterstatter kann einzelne Beweise erheben. Dies darf nur insoweit geschehen, als es zur Vereinfachung der Verhandlung vor dem Gericht sachdienlich und von vornherein anzunehmen ist, daß das Gericht das Beweisergebnis auch ohne unmittelbaren Eindruck von dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag.
 
-
-## § 87a
+# § 87a
 
 (1) Der Vorsitzende entscheidet, wenn die Entscheidung im vorbereitenden Verfahren ergeht,
 
@@ -1157,8 +1052,7 @@ Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten. Zugleich mit
 
 (3) Ist ein Berichterstatter bestellt, so entscheidet dieser anstelle des Vorsitzenden.
 
-
-## § 87b
+# § 87b
 
 (1) Der Vorsitzende oder der Berichterstatter kann dem Kläger eine Frist setzen zur Angabe der Tatsachen, durch deren Berücksichtigung oder Nichtberücksichtigung im Verwaltungsverfahren er sich beschwert fühlt. Die Fristsetzung nach Satz 1 kann mit der Fristsetzung nach § 82 Abs. 2 Satz 2 verbunden werden.
 
@@ -1178,25 +1072,21 @@ Der Vorsitzende verfügt die Zustellung der Klage an den Beklagten. Zugleich mit
 
 Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 1 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
-
-## § 88
+# § 88
 
 Das Gericht darf über das Klagebegehren nicht hinausgehen, ist aber an die Fassung der Anträge nicht gebunden.
 
-
-## § 89
+# § 89
 
 (1) Bei dem Gericht der Klage kann eine Widerklage erhoben werden, wenn der Gegenanspruch mit dem in der Klage geltend gemachten Anspruch oder mit den gegen ihn vorgebrachten Verteidigungsmitteln zusammenhängt. Dies gilt nicht, wenn in den Fällen des § 52 Nr. 1 für die Klage wegen des Gegenanspruchs ein anderes Gericht zuständig ist.
 
 (2) Bei Anfechtungs- und Verpflichtungsklagen ist die Widerklage ausgeschlossen.
 
-
-## § 90
+# § 90
 
 Durch Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst mit Zustellung der Klage rechtshängig.
 
-
-## § 91
+# § 91
 
 (1) Eine Änderung der Klage ist zulässig, wenn die übrigen Beteiligten einwilligen oder das Gericht die Änderung für sachdienlich hält.
 
@@ -1204,8 +1094,7 @@ Durch Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach d
 
 (3) Die Entscheidung, daß eine Änderung der Klage nicht vorliegt oder zuzulassen sei, ist nicht selbständig anfechtbar.
 
-
-## § 92
+# § 92
 
 (1) Der Kläger kann bis zur Rechtskraft des Urteils seine Klage zurücknehmen. Die Zurücknahme nach Stellung der Anträge in der mündlichen Verhandlung setzt die Einwilligung des Beklagten und, wenn ein Vertreter des öffentlichen Interesses an der mündlichen Verhandlung teilgenommen hat, auch seine Einwilligung voraus. Die Einwilligung gilt als erteilt, wenn der Klagerücknahme nicht innerhalb von zwei Wochen seit Zustellung des die Rücknahme enthaltenden Schriftsatzes widersprochen wird; das Gericht hat auf diese Folge hinzuweisen.
 
@@ -1213,25 +1102,21 @@ Durch Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach d
 
 (3) Ist die Klage zurückgenommen oder gilt sie als zurückgenommen, so stellt das Gericht das Verfahren durch Beschluß ein und spricht die sich nach diesem Gesetz ergebenden Rechtsfolgen der Zurücknahme aus. Der Beschluß ist unanfechtbar.
 
-
-## § 93
+# § 93
 
 Das Gericht kann durch Beschluß mehrere bei ihm anhängige Verfahren über den gleichen Gegenstand zu gemeinsamer Verhandlung und Entscheidung verbinden und wieder trennen. Es kann anordnen, daß mehrere in einem Verfahren erhobene Ansprüche in getrennten Verfahren verhandelt und entschieden werden.
 
-
-## § 93a
+# § 93a
 
 (1) Ist die Rechtmäßigkeit einer behördlichen Maßnahme Gegenstand von mehr als zwanzig Verfahren, kann das Gericht eines oder mehrere geeignete Verfahren vorab durchführen (Musterverfahren) und die übrigen Verfahren aussetzen. Die Beteiligten sind vorher zu hören. Der Beschluß ist unanfechtbar.
 
 (2) Ist über die durchgeführten Verfahren rechtskräftig entschieden worden, kann das Gericht nach Anhörung der Beteiligten über die ausgesetzten Verfahren durch Beschluß entscheiden, wenn es einstimmig der Auffassung ist, daß die Sachen gegenüber rechtskräftig entschiedenen Musterverfahren keine wesentlichen Besonderheiten tatsächlicher oder rechtlicher Art aufweisen und der Sachverhalt geklärt ist. Das Gericht kann in einem Musterverfahren erhobene Beweise einführen; es kann nach seinem Ermessen die wiederholte Vernehmung eines Zeugen oder eine neue Begutachtung durch denselben oder andere Sachverständige anordnen. Beweisanträge zu Tatsachen, über die bereits im Musterverfahren Beweis erhoben wurde, kann das Gericht ablehnen, wenn ihre Zulassung nach seiner freien Überzeugung nicht zum Nachweis neuer entscheidungserheblicher Tatsachen beitragen und die Erledigung des Rechtsstreits verzögern würde. Die Ablehnung kann in der Entscheidung nach Satz 1 erfolgen. Den Beteiligten steht gegen den Beschluß nach Satz 1 das Rechtsmittel zu, das zulässig wäre, wenn das Gericht durch Urteil entschieden hätte. Die Beteiligten sind über dieses Rechtsmittel zu belehren.
 
-
-## § 94
+# § 94
 
 Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Rechtsstreits bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen, daß die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
 
-
-## § 95
+# § 95
 
 (1) Das Gericht kann das persönliche Erscheinen eines Beteiligten anordnen. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluß das angedrohte Ordnungsgeld fest. Androhung und Festsetzung des Ordnungsgelds können wiederholt werden.
 
@@ -1239,32 +1124,27 @@ Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von
 
 (3) Das Gericht kann einer beteiligten öffentlich-rechtlichen Körperschaft oder Behörde aufgeben, zur mündlichen Verhandlung einen Beamten oder Angestellten zu entsenden, der mit einem schriftlichen Nachweis über die Vertretungsbefugnis versehen und über die Sach- und Rechtslage ausreichend unterrichtet ist.
 
-
-## § 96
+# § 96
 
 (1) Das Gericht erhebt Beweis in der mündlichen Verhandlung. Es kann insbesondere Augenschein einnehmen, Zeugen, Sachverständige und Beteiligte vernehmen und Urkunden heranziehen.
 
 (2) Das Gericht kann in geeigneten Fällen schon vor der mündlichen Verhandlung durch eines seiner Mitglieder als beauftragten Richter Beweis erheben lassen oder durch Bezeichnung der einzelnen Beweisfragen ein anderes Gericht um die Beweisaufnahme ersuchen.
 
-
-## § 97
+# § 97
 
 Die Beteiligten werden von allen Beweisterminen benachrichtigt und können der Beweisaufnahme beiwohnen. Sie können an Zeugen und Sachverständige sachdienliche Fragen richten. Wird eine Frage beanstandet, so entscheidet das Gericht.
 
-
-## § 98
+# § 98
 
 Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Beweisaufnahme §§ 358 bis 444 und 450 bis 494 der Zivilprozeßordnung entsprechend anzuwenden.
 
-
-## § 99
+# § 99
 
 (1) Behörden sind zur Vorlage von Urkunden oder Akten, zur Übermittlung elektronischer Dokumente und zu Auskünften verpflichtet. Wenn das Bekanntwerden des Inhalts dieser Urkunden, Akten, elektronischen Dokumente oder dieser Auskünfte dem Wohl des Bundes oder eines Landes Nachteile bereiten würde oder wenn die Vorgänge nach einem Gesetz oder ihrem Wesen nach geheim gehalten werden müssen, kann die zuständige oberste Aufsichtsbehörde die Vorlage von Urkunden oder Akten, die Übermittlung der elektronischen Dokumente und die Erteilung der Auskünfte verweigern.
 
 (2) Auf Antrag eines Beteiligten stellt das Oberverwaltungsgericht ohne mündliche Verhandlung durch Beschluss fest, ob die Verweigerung der Vorlage der Urkunden oder Akten, der Übermittlung der elektronischen Dokumente oder der Erteilung von Auskünften rechtmäßig ist. Verweigert eine oberste Bundesbehörde die Vorlage, Übermittlung oder Auskunft mit der Begründung, das Bekanntwerden des Inhalts der Urkunden, der Akten, der elektronischen Dokumente oder der Auskünfte würde dem Wohl des Bundes Nachteile bereiten, entscheidet das Bundesverwaltungsgericht; Gleiches gilt, wenn das Bundesverwaltungsgericht nach § 50 für die Hauptsache zuständig ist. Der Antrag ist bei dem für die Hauptsache zuständigen Gericht zu stellen. Dieses gibt den Antrag und die Hauptsacheakten an den nach § 189 zuständigen Spruchkörper ab. Die oberste Aufsichtsbehörde hat die nach Absatz 1 Satz 2 verweigerten Urkunden oder Akten auf Aufforderung dieses Spruchkörpers vorzulegen, die elektronischen Dokumente zu übermitteln oder die verweigerten Auskünfte zu erteilen. Sie ist zu diesem Verfahren beizuladen. Das Verfahren unterliegt den Vorschriften des materiellen Geheimschutzes. Können diese nicht eingehalten werden oder macht die zuständige Aufsichtsbehörde geltend, dass besondere Gründe der Geheimhaltung oder des Geheimschutzes der Übergabe der Urkunden oder Akten oder der Übermittlung der elektronischen Dokumente an das Gericht entgegenstehen, wird die Vorlage oder Übermittlung nach Satz 5 dadurch bewirkt, dass die Urkunden, Akten oder elektronischen Dokumente dem Gericht in von der obersten Aufsichtsbehörde bestimmten Räumlichkeiten zur Verfügung gestellt werden. Für die nach Satz 5 vorgelegten Akten, elektronischen Dokumente und für die gemäß Satz 8 geltend gemachten besonderen Gründe gilt § 100 nicht. Die Mitglieder des Gerichts sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen Art und Inhalt der geheim gehaltenen Urkunden, Akten, elektronischen Dokumente und Auskünfte nicht erkennen lassen. Für das nichtrichterliche Personal gelten die Regelungen des personellen Geheimschutzes. Soweit nicht das Bundesverwaltungsgericht entschieden hat, kann der Beschluss selbständig mit der Beschwerde angefochten werden. Über die Beschwerde gegen den Beschluss eines Oberverwaltungsgerichts entscheidet das Bundesverwaltungsgericht. Für das Beschwerdeverfahren gelten die Sätze 4 bis 11 sinngemäß.
 
-
-## § 100
+# § 100
 
 (1) Die Beteiligten können die Gerichtsakten und die dem Gericht vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen.
 
@@ -1274,8 +1154,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (4) In die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die Arbeiten zu ihrer Vorbereitung und die Dokumente, die Abstimmungen betreffen, wird Akteneinsicht nach den Absätzen 1 bis 3 nicht gewährt.
 
-
-## § 101
+# § 101
 
 (1) Das Gericht entscheidet, soweit nichts anderes bestimmt ist, auf Grund mündlicher Verhandlung. Die mündliche Verhandlung soll so früh wie möglich stattfinden.
 
@@ -1283,8 +1162,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (3) Entscheidungen des Gerichts, die nicht Urteile sind, können ohne mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
 
-
-## § 102
+# § 102
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind die Beteiligten mit einer Ladungsfrist von mindestens zwei Wochen, bei dem Bundesverwaltungsgericht von mindestens vier Wochen, zu laden. In dringenden Fällen kann der Vorsitzende die Frist abkürzen.
 
@@ -1294,8 +1172,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (4) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
 
-
-## § 102a
+# § 102a
 
 (1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
 
@@ -1305,8 +1182,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 87 Absatz 1 Satz 2 Nummer 1).
 
-
-## § 103
+# § 103
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung.
 
@@ -1314,8 +1190,7 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (3) Hierauf erhalten die Beteiligten das Wort, um ihre Anträge zu stellen und zu begründen.
 
-
-## § 104
+# § 104
 
 (1) Der Vorsitzende hat die Streitsache mit den Beteiligten tatsächlich und rechtlich zu erörtern.
 
@@ -1323,50 +1198,41 @@ Soweit dieses Gesetz nicht abweichende Vorschriften enthält, sind auf die Bewei
 
 (3) Nach Erörterung der Streitsache erklärt der Vorsitzende die mündliche Verhandlung für geschlossen. Das Gericht kann die Wiedereröffnung beschließen.
 
-
-## § 105
+# § 105
 
 Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung entsprechend.
 
-
-## § 106
+# § 106
 
 Um den Rechtsstreit vollständig oder zum Teil zu erledigen, können die Beteiligten zu Protokoll des Gerichts oder des beauftragten oder ersuchten Richters einen Vergleich schließen, soweit sie über den Gegenstand des Vergleichs verfügen können. Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, daß die Beteiligten einen in der Form eines Beschlusses ergangenen Vorschlag des Gerichts, des Vorsitzenden oder des Berichterstatters schriftlich oder durch Erklärung zu Protokoll in der mündlichen Verhandlung gegenüber dem Gericht annehmen.
 
-
-## § 107
+# § 107
 
 Über die Klage wird, soweit nichts anderes bestimmt ist, durch Urteil entschieden.
 
-
-## § 108
+# § 108
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung. In dem Urteil sind die Gründe anzugeben, die für die richterliche Überzeugung leitend gewesen sind.
 
 (2) Das Urteil darf nur auf Tatsachen und Beweisergebnisse gestützt werden, zu denen die Beteiligten sich äußern konnten.
 
-
-## § 109
+# § 109
 
 Über die Zulässigkeit der Klage kann durch Zwischenurteil vorab entschieden werden.
 
-
-## § 110
+# § 110
 
 Ist nur ein Teil des Streitgegenstands zur Entscheidung reif, so kann das Gericht ein Teilurteil erlassen.
 
-
-## § 111
+# § 111
 
 Ist bei einer Leistungsklage ein Anspruch nach Grund und Betrag streitig, so kann das Gericht durch Zwischenurteil über den Grund vorab entscheiden. Das Gericht kann, wenn der Anspruch für begründet erklärt ist, anordnen, daß über den Betrag zu verhandeln ist.
 
-
-## § 112
+# § 112
 
 Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern gefällt werden, die an der dem Urteil zugrunde liegenden Verhandlung teilgenommen haben.
 
-
-## § 113
+# § 113
 
 (1) Soweit der Verwaltungsakt rechtswidrig und der Kläger dadurch in seinen Rechten verletzt ist, hebt das Gericht den Verwaltungsakt und den etwaigen Widerspruchsbescheid auf. Ist der Verwaltungsakt schon vollzogen, so kann das Gericht auf Antrag auch aussprechen, daß und wie die Verwaltungsbehörde die Vollziehung rückgängig zu machen hat. Dieser Ausspruch ist nur zulässig, wenn die Behörde dazu in der Lage und diese Frage spruchreif ist. Hat sich der Verwaltungsakt vorher durch Zurücknahme oder anders erledigt, so spricht das Gericht auf Antrag durch Urteil aus, daß der Verwaltungsakt rechtswidrig gewesen ist, wenn der Kläger ein berechtigtes Interesse an dieser Feststellung hat.
 
@@ -1378,18 +1244,15 @@ Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern gefällt werden
 
 (5) Soweit die Ablehnung oder Unterlassung des Verwaltungsakts rechtswidrig und der Kläger dadurch in seinen Rechten verletzt ist, spricht das Gericht die Verpflichtung der Verwaltungsbehörde aus, die beantragte Amtshandlung vorzunehmen, wenn die Sache spruchreif ist. Andernfalls spricht es die Verpflichtung aus, den Kläger unter Beachtung der Rechtsauffassung des Gerichts zu bescheiden.
 
-
-## § 114
+# § 114
 
 Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu handeln, prüft das Gericht auch, ob der Verwaltungsakt oder die Ablehnung oder Unterlassung des Verwaltungsakts rechtswidrig ist, weil die gesetzlichen Grenzen des Ermessens überschritten sind oder von dem Ermessen in einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht ist. Die Verwaltungsbehörde kann ihre Ermessenserwägungen hinsichtlich des Verwaltungsaktes auch noch im verwaltungsgerichtlichen Verfahren ergänzen.
 
-
-## § 115
+# § 115
 
 §§ 113 und 114 gelten entsprechend, wenn nach § 79 Abs. 1 Nr. 2 und Abs. 2 der Widerspruchsbescheid Gegenstand der Anfechtungsklage ist.
 
-
-## § 116
+# § 116
 
 (1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden hat, in der Regel in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, in besonderen Fällen in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll. Das Urteil ist den Beteiligten zuzustellen.
 
@@ -1397,8 +1260,7 @@ Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu handeln, 
 
 (3) Entscheidet das Gericht ohne mündliche Verhandlung, so wird die Verkündung durch Zustellung an die Beteiligten ersetzt.
 
-
-## § 117
+# § 117
 
 (1) Das Urteil ergeht "Im Namen des Volkes". Es ist schriftlich abzufassen und von den Richtern, die bei der Entscheidung mitgewirkt haben, zu unterzeichnen. Ist ein Richter verhindert, seine Unterschrift beizufügen, so wird dies mit dem Hinderungsgrund vom Vorsitzenden oder, wenn er verhindert ist, vom dienstältesten beisitzenden Richter unter dem Urteil vermerkt. Der Unterschrift der ehrenamtlichen Richter bedarf es nicht.
 
@@ -1424,22 +1286,19 @@ Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu handeln, 
 
 (6) Der Urkundsbeamte der Geschäftsstelle hat auf dem Urteil den Tag der Zustellung und im Falle des § 116 Abs. 1 Satz 1 den Tag der Verkündung zu vermerken und diesen Vermerk zu unterschreiben. Werden die Akten elektronisch geführt, hat der Urkundsbeamte der Geschäftsstelle den Vermerk in einem gesonderten Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 118
+# § 118
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil sind jederzeit vom Gericht zu berichtigen.
 
 (2) Über die Berichtigung kann ohne vorgängige mündliche Verhandlung entschieden werden. Der Berichtigungsbeschluß wird auf dem Urteil und den Ausfertigungen vermerkt. Ist das Urteil elektronisch abgefasst, ist auch der Beschluss elektronisch abzufassen und mit dem Urteil untrennbar zu verbinden.
 
-
-## § 119
+# § 119
 
 (1) Enthält der Tatbestand des Urteils andere Unrichtigkeiten oder Unklarheiten, so kann die Berichtigung binnen zwei Wochen nach Zustellung des Urteils beantragt werden.
 
 (2) Das Gericht entscheidet ohne Beweisaufnahme durch Beschluß. Der Beschluß ist unanfechtbar. Bei der Entscheidung wirken nur die Richter mit, die beim Urteil mitgewirkt haben. Ist ein Richter verhindert, so entscheidet bei Stimmengleichheit die Stimme des Vorsitzenden. Der Berichtigungsbeschluß wird auf dem Urteil und den Ausfertigungen vermerkt. Ist das Urteil elektronisch abgefasst, ist auch der Beschluss elektronisch abzufassen und mit dem Urteil untrennbar zu verbinden.
 
-
-## § 120
+# § 120
 
 (1) Wenn ein nach dem Tatbestand von einem Beteiligten gestellter Antrag oder die Kostenfolge bei der Entscheidung ganz oder zum Teil übergangen ist, so ist auf Antrag das Urteil durch nachträgliche Entscheidung zu ergänzen.
 
@@ -1447,8 +1306,7 @@ Soweit die Verwaltungsbehörde ermächtigt ist, nach ihrem Ermessen zu handeln, 
 
 (3) Die mündliche Verhandlung hat nur den nicht erledigten Teil des Rechtsstreits zum Gegenstand. Von der Durchführung einer mündlichen Verhandlung kann abgesehen werden, wenn mit der Ergänzung des Urteils nur über einen Nebenanspruch oder über die Kosten entschieden werden soll und wenn die Bedeutung der Sache keine mündliche Verhandlung erfordert.
 
-
-## § 121
+# § 121
 
 Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden worden ist,
 
@@ -1456,15 +1314,13 @@ Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden wo
 
 2. im Fall des § 65 Abs. 3 die Personen, die einen Antrag auf Beiladung nicht oder nicht fristgemäß gestellt haben.
 
-
-## § 122
+# § 122
 
 (1) §§ 88, 108 Abs. 1 Satz 1, §§ 118, 119 und 120 gelten entsprechend für Beschlüsse.
 
 (2) Beschlüsse sind zu begründen, wenn sie durch Rechtsmittel angefochten werden können oder über einen Rechtsbehelf entscheiden. Beschlüsse über die Aussetzung der Vollziehung (§§ 80, 80a) und über einstweilige Anordnungen (§ 123) sowie Beschlüsse nach Erledigung des Rechtsstreits in der Hauptsache (§ 161 Abs. 2) sind stets zu begründen. Beschlüsse, die über ein Rechtsmittel entscheiden, bedürfen keiner weiteren Begründung, soweit das Gericht das Rechtsmittel aus den Gründen der angefochtenen Entscheidung als unbegründet zurückweist.
 
-
-## § 123
+# § 123
 
 (1) Auf Antrag kann das Gericht, auch schon vor Klageerhebung, eine einstweilige Anordnung in bezug auf den Streitgegenstand treffen, wenn die Gefahr besteht, daß durch eine Veränderung des bestehenden Zustands die Verwirklichung eines Rechts des Antragstellers vereitelt oder wesentlich erschwert werden könnte. Einstweilige Anordnungen sind auch zur Regelung eines vorläufigen Zustands in bezug auf ein streitiges Rechtsverhältnis zulässig, wenn diese Regelung, vor allem bei dauernden Rechtsverhältnissen, um wesentliche Nachteile abzuwenden oder drohende Gewalt zu verhindern oder aus anderen Gründen nötig erscheint.
 
@@ -1476,8 +1332,7 @@ Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden wo
 
 (5) Die Vorschriften der Absätze 1 bis 3 gelten nicht für die Fälle der §§ 80 und 80a.
 
-
-## § 124
+# § 124
 
 (1) Gegen Endurteile einschließlich der Teilurteile nach § 110 und gegen Zwischenurteile nach den §§ 109 und 111 steht den Beteiligten die Berufung zu, wenn sie von dem Verwaltungsgericht oder dem Oberverwaltungsgericht zugelassen wird.
 
@@ -1493,8 +1348,7 @@ Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden wo
 
 5. wenn ein der Beurteilung des Berufungsgerichts unterliegender Verfahrensmangel geltend gemacht wird und vorliegt, auf dem die Entscheidung beruhen kann.
 
-
-## § 124a
+# § 124a
 
 (1) Das Verwaltungsgericht lässt die Berufung in dem Urteil zu, wenn die Gründe des § 124 Abs. 2 Nr. 3 oder Nr. 4 vorliegen. Das Oberverwaltungsgericht ist an die Zulassung gebunden. Zu einer Nichtzulassung der Berufung ist das Verwaltungsgericht nicht befugt.
 
@@ -1508,15 +1362,13 @@ Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden wo
 
 (6) Die Berufung ist in den Fällen des Absatzes 5 innerhalb eines Monats nach Zustellung des Beschlusses über die Zulassung der Berufung zu begründen. Die Begründung ist bei dem Oberverwaltungsgericht einzureichen. Absatz 3 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 125
+# § 125
 
 (1) Für das Berufungsverfahren gelten die Vorschriften des Teils II entsprechend, soweit sich aus diesem Abschnitt nichts anderes ergibt. § 84 findet keine Anwendung.
 
 (2) Ist die Berufung unzulässig, so ist sie zu verwerfen. Die Entscheidung kann durch Beschluß ergehen. Die Beteiligten sind vorher zu hören. Gegen den Beschluß steht den Beteiligten das Rechtsmittel zu, das zulässig wäre, wenn das Gericht durch Urteil entschieden hätte. Die Beteiligten sind über dieses Rechtsmittel zu belehren.
 
-
-## § 126
+# § 126
 
 (1) Die Berufung kann bis zur Rechtskraft des Urteils zurückgenommen werden. Die Zurücknahme nach Stellung der Anträge in der mündlichen Verhandlung setzt die Einwilligung des Beklagten und, wenn ein Vertreter des öffentlichen Interesses an der mündlichen Verhandlung teilgenommen hat, auch seine Einwilligung voraus.
 
@@ -1524,8 +1376,7 @@ Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden wo
 
 (3) Die Zurücknahme bewirkt den Verlust des eingelegten Rechtsmittels. Das Gericht entscheidet durch Beschluß über die Kostenfolge.
 
-
-## § 127
+# § 127
 
 (1) Der Berufungsbeklagte und die anderen Beteiligten können sich der Berufung anschließen. Die Anschlussberufung ist bei dem Oberverwaltungsgericht einzulegen.
 
@@ -1537,25 +1388,21 @@ Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden wo
 
 (5) Die Anschließung verliert ihre Wirkung, wenn die Berufung zurückgenommen oder als unzulässig verworfen wird.
 
-
-## § 128
+# § 128
 
 Das Oberverwaltungsgericht prüft den Streitfall innerhalb des Berufungsantrags im gleichen Umfang wie das Verwaltungsgericht. Es berücksichtigt auch neu vorgebrachte Tatsachen und Beweismittel.
 
-
-## § 128a
+# § 128a
 
 (1) Neue Erklärungen und Beweismittel, die im ersten Rechtszug entgegen einer hierfür gesetzten Frist (§ 87b Abs. 1 und 2) nicht vorgebracht worden sind, sind nur zuzulassen, wenn nach der freien Überzeugung des Gerichts ihre Zulassung die Erledigung des Rechtsstreits nicht verzögern würde oder wenn der Beteiligte die Verspätung genügend entschuldigt. Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 1 gilt nicht, wenn der Beteiligte im ersten Rechtszug über die Folgen einer Fristversäumung nicht nach § 87b Abs. 3 Nr. 3 belehrt worden ist oder wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
 (2) Erklärungen und Beweismittel, die das Verwaltungsgericht zu Recht zurückgewiesen hat, bleiben auch im Berufungsverfahren ausgeschlossen.
 
-
-## § 129
+# § 129
 
 Das Urteil des Verwaltungsgerichts darf nur soweit geändert werden, als eine Änderung beantragt ist.
 
-
-## § 130
+# § 130
 
 (1) Das Oberverwaltungsgericht hat die notwendigen Beweise zu erheben und in der Sache selbst zu entscheiden.
 
@@ -1569,23 +1416,19 @@ und ein Beteiligter die Zurückverweisung beantragt.
 
 (3) Das Verwaltungsgericht ist an die rechtliche Beurteilung der Berufungsentscheidung gebunden.
 
-
-## § 130a
+# § 130a
 
 Das Oberverwaltungsgericht kann über die Berufung durch Beschluß entscheiden, wenn es sie einstimmig für begründet oder einstimmig für unbegründet hält und eine mündliche Verhandlung nicht für erforderlich hält. § 125 Abs. 2 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 130b
+# § 130b
 
 Das Oberverwaltungsgericht kann in dem Urteil über die Berufung auf den Tatbestand der angefochtenen Entscheidung Bezug nehmen, wenn es sich die Feststellungen des Verwaltungsgerichts in vollem Umfange zu eigen macht. Von einer weiteren Darstellung der Entscheidungsgründe kann es absehen, soweit es die Berufung aus den Gründen der angefochtenen Entscheidung als unbegründet zurückweist.
 
-
-## § 131
+# § 131
 
 (weggefallen)
 
-
-## § 132
+# § 132
 
 (1) Gegen das Urteil des Oberverwaltungsgerichts (§ 49 Nr. 1) und gegen Beschlüsse nach § 47 Abs. 5 Satz 1 steht den Beteiligten die Revision an das Bundesverwaltungsgericht zu, wenn das Oberverwaltungsgericht oder auf Beschwerde gegen die Nichtzulassung das Bundesverwaltungsgericht sie zugelassen hat.
 
@@ -1599,8 +1442,7 @@ Das Oberverwaltungsgericht kann in dem Urteil über die Berufung auf den Tatbest
 
 (3) Das Bundesverwaltungsgericht ist an die Zulassung gebunden.
 
-
-## § 133
+# § 133
 
 (1) Die Nichtzulassung der Revision kann durch Beschwerde angefochten werden.
 
@@ -1614,8 +1456,7 @@ Das Oberverwaltungsgericht kann in dem Urteil über die Berufung auf den Tatbest
 
 (6) Liegen die Voraussetzungen des § 132 Abs. 2 Nr. 3 vor, kann das Bundesverwaltungsgericht in dem Beschluß das angefochtene Urteil aufheben und den Rechtsstreit zur anderweitigen Verhandlung und Entscheidung zurückverweisen.
 
-
-## § 134
+# § 134
 
 (1) Gegen das Urteil eines Verwaltungsgerichts (§ 49 Nr. 2) steht den Beteiligten die Revision unter Übergehung der Berufungsinstanz zu, wenn der Kläger und der Beklagte der Einlegung der Sprungrevision schriftlich zustimmen und wenn sie von dem Verwaltungsgericht im Urteil oder auf Antrag durch Beschluß zugelassen wird. Der Antrag ist innerhalb eines Monats nach Zustellung des vollständigen Urteils schriftlich zu stellen. Die Zustimmung zu der Einlegung der Sprungrevision ist dem Antrag oder, wenn die Revision im Urteil zugelassen ist, der Revisionsschrift beizufügen.
 
@@ -1627,18 +1468,15 @@ Das Oberverwaltungsgericht kann in dem Urteil über die Berufung auf den Tatbest
 
 (5) Die Einlegung der Revision und die Zustimmung gelten als Verzicht auf die Berufung, wenn das Verwaltungsgericht die Revision zugelassen hat.
 
-
-## § 135
+# § 135
 
 Gegen das Urteil eines Verwaltungsgerichts (§ 49 Nr. 2) steht den Beteiligten die Revision an das Bundesverwaltungsgericht zu, wenn durch Bundesgesetz die Berufung ausgeschlossen ist. Die Revision kann nur eingelegt werden, wenn das Verwaltungsgericht oder auf Beschwerde gegen die Nichtzulassung das Bundesverwaltungsgericht sie zugelassen hat. Für die Zulassung gelten die §§ 132 und 133 entsprechend.
 
-
-## § 136
+# § 136
 
 (weggefallen)
 
-
-## § 137
+# § 137
 
 (1) Die Revision kann nur darauf gestützt werden, daß das angefochtene Urteil auf der Verletzung
 
@@ -1652,8 +1490,7 @@ beruht.
 
 (3) Wird die Revision auf Verfahrensmängel gestützt und liegt nicht zugleich eine der Voraussetzungen des § 132 Abs. 2 Nr. 1 und 2 vor, so ist nur über die geltend gemachten Verfahrensmängel zu entscheiden. Im übrigen ist das Bundesverwaltungsgericht an die geltend gemachten Revisionsgründe nicht gebunden.
 
-
-## § 138
+# § 138
 
 Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend anzusehen, wenn
 
@@ -1669,8 +1506,7 @@ Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend anzusehen, 
 
 6. die Entscheidung nicht mit Gründen versehen ist.
 
-
-## § 139
+# § 139
 
 (1) Die Revision ist bei dem Gericht, dessen Urteil angefochten wird, innerhalb eines Monats nach Zustellung des vollständigen Urteils oder des Beschlusses über die Zulassung der Revision nach § 134 Abs. 3 Satz 2 schriftlich einzulegen. Die Revisionsfrist ist auch gewahrt, wenn die Revision innerhalb der Frist bei dem Bundesverwaltungsgericht eingelegt wird. Die Revision muß das angefochtene Urteil bezeichnen.
 
@@ -1678,32 +1514,27 @@ Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend anzusehen, 
 
 (3) Die Revision ist innerhalb von zwei Monaten nach Zustellung des vollständigen Urteils oder des Beschlusses über die Zulassung der Revision nach § 134 Abs. 3 Satz 2 zu begründen; im Falle des Absatzes 2 beträgt die Begründungsfrist einen Monat nach Zustellung des Beschlusses über die Zulassung der Revision. Die Begründung ist bei dem Bundesverwaltungsgericht einzureichen. Die Begründungsfrist kann auf einen vor ihrem Ablauf gestellten Antrag von dem Vorsitzenden verlängert werden. Die Begründung muß einen bestimmten Antrag enthalten, die verletzte Rechtsnorm und, soweit Verfahrensmängel gerügt werden, die Tatsachen angeben, die den Mangel ergeben.
 
-
-## § 140
+# § 140
 
 (1) Die Revision kann bis zur Rechtskraft des Urteils zurückgenommen werden. Die Zurücknahme nach Stellung der Anträge in der mündlichen Verhandlung setzt die Einwilligung des Revisionsbeklagten und, wenn der Vertreter des Bundesinteresses beim Bundesverwaltungsgericht an der mündlichen Verhandlung teilgenommen hat, auch seine Einwilligung voraus.
 
 (2) Die Zurücknahme bewirkt den Verlust des eingelegten Rechtsmittels. Das Gericht entscheidet durch Beschluß über die Kostenfolge.
 
-
-## § 141
+# § 141
 
 Für die Revision gelten die Vorschriften über die Berufung entsprechend, soweit sich aus diesem Abschnitt nichts anderes ergibt. Die §§ 87a, 130a und 130b finden keine Anwendung.
 
-
-## § 142
+# § 142
 
 (1) Klageänderungen und Beiladungen sind im Revisionsverfahren unzulässig. Das gilt nicht für Beiladungen nach § 65 Abs. 2.
 
 (2) Ein im Revisionsverfahren nach § 65 Abs. 2 Beigeladener kann Verfahrensmängel nur innerhalb von zwei Monaten nach Zustellung des Beiladungsbeschlusses rügen. Die Frist kann auf einen vor ihrem Ablauf gestellten Antrag von dem Vorsitzenden verlängert werden.
 
-
-## § 143
+# § 143
 
 Das Bundesverwaltungsgericht prüft, ob die Revision statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet worden ist. Mangelt es an einem dieser Erfordernisse, so ist die Revision unzulässig.
 
-
-## § 144
+# § 144
 
 (1) Ist die Revision unzulässig, so verwirft sie das Bundesverwaltungsgericht durch Beschluß.
 
@@ -1725,13 +1556,11 @@ Das Bundesverwaltungsgericht verweist den Rechtsstreit zurück, wenn der im Revi
 
 (7) Die Entscheidung über die Revision bedarf keiner Begründung, soweit das Bundesverwaltungsgericht Rügen von Verfahrensmängeln nicht für durchgreifend hält. Das gilt nicht für Rügen nach § 138 und, wenn mit der Revision ausschließlich Verfahrensmängel geltend gemacht werden, für Rügen, auf denen die Zulassung der Revision beruht.
 
-
-## § 145
+# § 145
 
 (weggefallen)
 
-
-## § 146
+# § 146
 
 (1) Gegen die Entscheidungen des Verwaltungsgerichts, des Vorsitzenden oder des Berichterstatters, die nicht Urteile oder Gerichtsbescheide sind, steht den Beteiligten und den sonst von der Entscheidung Betroffenen die Beschwerde an das Oberverwaltungsgericht zu, soweit nicht in diesem Gesetz etwas anderes bestimmt ist.
 
@@ -1743,46 +1572,39 @@ Das Bundesverwaltungsgericht verweist den Rechtsstreit zurück, wenn der im Revi
 
 (5) u. (6) (weggefallen)
 
-
-## § 147
+# § 147
 
 (1) Die Beschwerde ist bei dem Gericht, dessen Entscheidung angefochten wird, schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle innerhalb von zwei Wochen nach Bekanntgabe der Entscheidung einzulegen. § 67 Abs. 4 bleibt unberührt.
 
 (2) Die Beschwerdefrist ist auch gewahrt, wenn die Beschwerde innerhalb der Frist bei dem Beschwerdegericht eingeht.
 
-
-## § 148
+# § 148
 
 (1) Hält das Verwaltungsgericht, der Vorsitzende oder der Berichterstatter, dessen Entscheidung angefochten wird, die Beschwerde für begründet, so ist ihr abzuhelfen; sonst ist sie unverzüglich dem Oberverwaltungsgericht vorzulegen.
 
 (2) Das Verwaltungsgericht soll die Beteiligten von der Vorlage der Beschwerde an das Oberverwaltungsgericht in Kenntnis setzen.
 
-
-## § 149
+# § 149
 
 (1) Die Beschwerde hat nur dann aufschiebende Wirkung, wenn sie die Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat. Das Gericht, der Vorsitzende oder der Berichterstatter, dessen Entscheidung angefochten wird, kann auch sonst bestimmen, daß die Vollziehung der angefochtenen Entscheidung einstweilen auszusetzen ist.
 
 (2) §§ 178 und 181 Abs. 2 des Gerichtsverfassungsgesetzes bleiben unberührt.
 
-
-## § 150
+# § 150
 
 Über die Beschwerde entscheidet das Oberverwaltungsgericht durch Beschluß.
 
-
-## § 151
+# § 151
 
 Gegen die Entscheidungen des beauftragten oder ersuchten Richters oder des Urkundsbeamten kann innerhalb von zwei Wochen nach Bekanntgabe die Entscheidung des Gerichts beantragt werden. Der Antrag ist schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle des Gerichts zu stellen. §§ 147 bis 149 gelten entsprechend.
 
-
-## § 152
+# § 152
 
 (1) Entscheidungen des Oberverwaltungsgerichts können vorbehaltlich des § 99 Abs. 2 und des § 133 Abs. 1 dieses Gesetzes sowie des § 17a Abs. 4 Satz 4 des Gerichtsverfassungsgesetzes nicht mit der Beschwerde an das Bundesverwaltungsgericht angefochten werden.
 
 (2) Im Verfahren vor dem Bundesverwaltungsgericht gilt für Entscheidungen des beauftragten oder ersuchten Richters oder des Urkundsbeamten der Geschäftsstelle § 151 entsprechend.
 
-
-## § 152a
+# § 152a
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -1802,15 +1624,13 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (6) § 149 Abs. 1 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 153
+# § 153
 
 (1) Ein rechtskräftig beendetes Verfahren kann nach den Vorschriften des Vierten Buchs der Zivilprozeßordnung wiederaufgenommen werden.
 
 (2) Die Befugnis zur Erhebung der Nichtigkeitsklage und der Restitutionsklage steht auch dem Vertreter des öffentlichen Interesses, im Verfahren vor dem Bundesverwaltungsgericht im ersten und letzten Rechtszug auch dem Vertreter des Bundesinteresses beim Bundesverwaltungsgericht zu.
 
-
-## § 154
+# § 154
 
 (1) Der unterliegende Teil trägt die Kosten des Verfahrens.
 
@@ -1820,8 +1640,7 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (4) Die Kosten des erfolgreichen Wiederaufnahmeverfahrens können der Staatskasse auferlegt werden, soweit sie nicht durch das Verschulden eines Beteiligten entstanden sind.
 
-
-## § 155
+# § 155
 
 (1) Wenn ein Beteiligter teils obsiegt, teils unterliegt, so sind die Kosten gegeneinander aufzuheben oder verhältnismäßig zu teilen. Sind die Kosten gegeneinander aufgehoben, so fallen die Gerichtskosten jedem Teil zur Hälfte zur Last. Einem Beteiligten können die Kosten ganz auferlegt werden, wenn der andere nur zu einem geringen Teil unterlegen ist.
 
@@ -1831,35 +1650,29 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (4) Kosten, die durch Verschulden eines Beteiligten entstanden sind, können diesem auferlegt werden.
 
-
-## § 156
+# § 156
 
 Hat der Beklagte durch sein Verhalten keine Veranlassung zur Erhebung der Klage gegeben, so fallen dem Kläger die Prozeßkosten zur Last, wenn der Beklagte den Anspruch sofort anerkennt.
 
-
-## § 157
+# § 157
 
 (weggefallen)
 
-
-## § 158
+# § 158
 
 (1) Die Anfechtung der Entscheidung über die Kosten ist unzulässig, wenn nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel eingelegt wird.
 
 (2) Ist eine Entscheidung in der Hauptsache nicht ergangen, so ist die Entscheidung über die Kosten unanfechtbar.
 
-
-## § 159
+# § 159
 
 Besteht der kostenpflichtige Teil aus mehreren Personen, so gilt § 100 der Zivilprozeßordnung entsprechend. Kann das streitige Rechtsverhältnis dem kostenpflichtigen Teil gegenüber nur einheitlich entschieden werden, so können die Kosten den mehreren Personen als Gesamtschuldnern auferlegt werden.
 
-
-## § 160
+# § 160
 
 Wird der Rechtsstreit durch Vergleich erledigt und haben die Beteiligten keine Bestimmung über die Kosten getroffen, so fallen die Gerichtskosten jedem Teil zur Hälfte zur Last. Die außergerichtlichen Kosten trägt jeder Beteiligte selbst.
 
-
-## § 161
+# § 161
 
 (1) Das Gericht hat im Urteil oder, wenn das Verfahren in anderer Weise beendet worden ist, durch Beschluß über die Kosten zu entscheiden.
 
@@ -1867,8 +1680,7 @@ Wird der Rechtsstreit durch Vergleich erledigt und haben die Beteiligten keine B
 
 (3) In den Fällen des § 75 fallen die Kosten stets dem Beklagten zur Last, wenn der Kläger mit seiner Bescheidung vor Klageerhebung rechnen durfte.
 
-
-## § 162
+# § 162
 
 (1) Kosten sind die Gerichtskosten (Gebühren und Auslagen) und die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen der Beteiligten einschließlich der Kosten des Vorverfahrens.
 
@@ -1876,28 +1688,23 @@ Wird der Rechtsstreit durch Vergleich erledigt und haben die Beteiligten keine B
 
 (3) Die außergerichtlichen Kosten des Beigeladenen sind nur erstattungsfähig, wenn sie das Gericht aus Billigkeit der unterliegenden Partei oder der Staatskasse auferlegt.
 
-
-## § 163
+# § 163
 
 (weggefallen)
 
-
-## § 164
+# § 164
 
 Der Urkundsbeamte des Gerichts des ersten Rechtszugs setzt auf Antrag den Betrag der zu erstattenden Kosten fest.
 
-
-## § 165
+# § 165
 
 Die Beteiligten können die Festsetzung der zu erstattenden Kosten anfechten. § 151 gilt entsprechend.
 
-
-## § 165a
+# § 165a
 
 § 110 der Zivilprozessordnung gilt entsprechend.
 
-
-## § 166
+# § 166
 
 (1) Die Vorschriften der Zivilprozeßordnung über die Prozesskostenhilfe sowie § 569 Abs. 3 Nr. 2 der Zivilprozessordnung gelten entsprechend. Einem Beteiligten, dem Prozesskostenhilfe bewilligt worden ist, kann auch ein Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer oder vereidigter Buchprüfer beigeordnet werden. Die Vergütung richtet sich nach den für den beigeordneten Rechtsanwalt geltenden Vorschriften des Rechtsanwaltsvergütungsgesetzes.
 
@@ -1913,15 +1720,13 @@ Die Beteiligten können die Festsetzung der zu erstattenden Kosten anfechten. §
 
 (7) Durch Landesgesetz kann bestimmt werden, dass die Absätze 2 bis 6 für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
-
-## § 167
+# § 167
 
 (1) Soweit sich aus diesem Gesetz nichts anderes ergibt, gilt für die Vollstreckung das Achte Buch der Zivilprozeßordnung entsprechend. Vollstreckungsgericht ist das Gericht des ersten Rechtszugs.
 
 (2) Urteile auf Anfechtungs- und Verpflichtungsklagen können nur wegen der Kosten für vorläufig vollstreckbar erklärt werden.
 
-
-## § 168
+# § 168
 
 (1) Vollstreckt wird
 
@@ -1937,15 +1742,13 @@ Die Beteiligten können die Festsetzung der zu erstattenden Kosten anfechten. §
 
 (2) Für die Vollstreckung können den Beteiligten auf ihren Antrag Ausfertigungen des Urteils ohne Tatbestand und ohne Entscheidungsgründe erteilt werden, deren Zustellung in den Wirkungen der Zustellung eines vollständigen Urteils gleichsteht.
 
-
-## § 169
+# § 169
 
 (1) Soll zugunsten des Bundes, eines Landes, eines Gemeindeverbands, einer Gemeinde oder einer Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts vollstreckt werden, so richtet sich die Vollstreckung nach dem Verwaltungsvollstreckungsgesetz. Vollstreckungsbehörde im Sinne des Verwaltungsvollstreckungsgesetzes ist der Vorsitzende des Gerichts des ersten Rechtszugs; er kann für die Ausführung der Vollstreckung eine andere Vollstreckungsbehörde oder einen Gerichtsvollzieher in Anspruch nehmen.
 
 (2) Wird die Vollstreckung zur Erzwingung von Handlungen, Duldungen und Unterlassungen im Wege der Amtshilfe von Organen der Länder vorgenommen, so ist sie nach landesrechtlichen Bestimmungen durchzuführen.
 
-
-## § 170
+# § 170
 
 (1) Soll gegen den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, eine Körperschaft, eine Anstalt oder Stiftung des öffentlichen Rechts wegen einer Geldforderung vollstreckt werden, so verfügt auf Antrag des Gläubigers das Gericht des ersten Rechtszugs die Vollstreckung. Es bestimmt die vorzunehmenden Vollstreckungsmaßnahmen und ersucht die zuständige Stelle um deren Vornahme. Die ersuchte Stelle ist verpflichtet, dem Ersuchen nach den für sie geltenden Vollstreckungsvorschriften nachzukommen.
 
@@ -1957,35 +1760,29 @@ Die Beteiligten können die Festsetzung der zu erstattenden Kosten anfechten. §
 
 (5) Der Ankündigung der Vollstreckung und der Einhaltung einer Wartefrist bedarf es nicht, wenn es sich um den Vollzug einer einstweiligen Anordnung handelt.
 
-
-## § 171
+# § 171
 
 In den Fällen der §§ 169, 170 Abs. 1 bis 3 bedarf es einer Vollstreckungsklausel nicht.
 
-
-## § 172
+# § 172
 
 Kommt die Behörde in den Fällen des § 113 Abs. 1 Satz 2 und Abs. 5 und des § 123 der ihr im Urteil oder in der einstweiligen Anordnung auferlegten Verpflichtung nicht nach, so kann das Gericht des ersten Rechtszugs auf Antrag unter Fristsetzung gegen sie ein Zwangsgeld bis zehntausend Euro durch Beschluß androhen, nach fruchtlosem Fristablauf festsetzen und von Amts wegen vollstrecken. Das Zwangsgeld kann wiederholt angedroht, festgesetzt und vollstreckt werden.
 
-
-## § 173
+# § 173
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung das zuständige Oberverwaltungsgericht.
 
-
-## § 174
+# § 174
 
 (1) Für den Vertreter des öffentlichen Interesses bei dem Oberverwaltungsgericht und bei dem Verwaltungsgericht steht der Befähigung zum Richteramt nach dem Deutschen Richtergesetz die Befähigung zum höheren Verwaltungsdienst gleich, wenn sie nach mindestens dreijährigem Studium der Rechtswissenschaft an einer Universität und dreijähriger Ausbildung im öffentlichen Dienst durch Ablegen der gesetzlich vorgeschriebenen Prüfungen erlangt worden ist.
 
 (2) Bei Kriegsteilnehmern gilt die Voraussetzung des Absatzes 1 als erfüllt, wenn sie den für sie geltenden besonderen Vorschriften genügt haben.
 
-
-## § 175
+# § 175
 
 § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-
-## § 176
+# § 176
 
 Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember 2025 abweichend von § 29 Satz 1 des Deutschen Richtergesetzes bei einer gerichtlichen Entscheidung auch mitwirken:
 
@@ -1993,36 +1790,29 @@ Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember 2025 abweic
 
 2. ein abgeordneter Richter auf Lebenszeit und entweder ein Richter auf Probe oder ein Richter kraft Auftrags.
 
+# § 177 – (weggefallen)
 
-## § 177 – (weggefallen)
-
-
-## §§ 178 und 179 – ----
+# §§ 178 und 179 – ----
 
 (Änderungsvorschriften)
 
-
-## § 180
+# § 180
 
 Erfolgt die Vernehmung oder die Vereidigung von Zeugen und Sachverständigen nach dem Verwaltungsverfahrensgesetz oder nach dem Zehnten Buch Sozialgesetzbuch durch das Verwaltungsgericht, so findet sie vor dem dafür im Geschäftsverteilungsplan bestimmten Richter statt. Über die Rechtmäßigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung nach dem Verwaltungsverfahrensgesetz oder nach dem Zehnten Buch Sozialgesetzbuch entscheidet das Verwaltungsgericht durch Beschluß.
 
-
-## §§ 181 und 182 – ----
+# §§ 181 und 182 – ----
 
 (Änderungsvorschriften)
 
-
-## § 183
+# § 183
 
 Hat das Verfassungsgericht eines Landes die Nichtigkeit von Landesrecht festgestellt oder Vorschriften des Landesrechts für nichtig erklärt, so bleiben vorbehaltlich einer besonderen gesetzlichen Regelung durch das Land die nicht mehr anfechtbaren Entscheidungen der Gerichte der Verwaltungsgerichtsbarkeit, die auf der für nichtig erklärten Norm beruhen, unberührt. Die Vollstreckung aus einer solchen Entscheidung ist unzulässig. § 767 der Zivilprozeßordnung gilt entsprechend.
 
-
-## § 184
+# § 184
 
 Das Land kann bestimmen, daß das Oberverwaltungsgericht die bisherige Bezeichnung "Verwaltungsgerichtshof" weiterführt.
 
-
-## § 185
+# § 185
 
 (1) In den Ländern Berlin und Hamburg treten an die Stelle der Kreise im Sinne des § 28 die Bezirke.
 
@@ -2030,13 +1820,11 @@ Das Land kann bestimmen, daß das Oberverwaltungsgericht die bisherige Bezeichnu
 
 (3) In den Ländern Berlin und Bremen treten an die Stelle der Landesstraßen im Sinne des § 48 Absatz 1 Satz 1 Nummer 8 die Straßen I. Ordnung nach § 20 Nummer 1 des Berliner Straßengesetzes und die Straßen der Gruppe A nach § 3 Absatz 1 Nummer 1 des Bremischen Landesstraßengesetzes.
 
-
-## § 186
+# § 186
 
 § 22 Nr. 3 findet in den Ländern Berlin, Bremen und Hamburg auch mit der Maßgabe Anwendung, daß in der öffentlichen Verwaltung ehrenamtlich tätige Personen nicht zu ehrenamtlichen Richtern berufen werden können. § 6 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-
-## § 187
+# § 187
 
 (1) Die Länder können den Gerichten der Verwaltungsgerichtsbarkeit Aufgaben der Disziplinargerichtsbarkeit und der Schiedsgerichtsbarkeit bei Vermögensauseinandersetzungen öffentlich-rechtlicher Verbände übertragen, diesen Gerichten Berufsgerichte angliedern sowie dabei die Besetzung und das Verfahren regeln.
 
@@ -2044,28 +1832,23 @@ Das Land kann bestimmen, daß das Oberverwaltungsgericht die bisherige Bezeichnu
 
 (3) (weggefallen)
 
-
-## § 188
+# § 188
 
 Die Sachgebiete in Angelegenheiten der Fürsorge mit Ausnahme der Angelegenheiten der Sozialhilfe und des Asylbewerberleistungsgesetzes, der Jugendhilfe, der Kriegsopferfürsorge, der Schwerbehindertenfürsorge sowie der Ausbildungsförderung sollen in einer Kammer oder in einem Senat zusammengefaßt werden. Gerichtskosten (Gebühren und Auslagen) werden in den Verfahren dieser Art nicht erhoben; dies gilt nicht für Erstattungsstreitigkeiten zwischen Sozialleistungsträgern.
 
-
-## § 188a
+# § 188a
 
 Für Angelegenheiten des Wirtschaftsrechts können besondere Kammern oder Senate gebildet werden (Wirtschaftskammern, Wirtschaftssenate). Die Sachgebiete der Wirtschaftsverfassung, Wirtschaftslenkung, Marktordnung und Außenwirtschaft, des Gewerberechts sowie des Post-, Fernmelde- und Telekommunikationsrechts sollen in den Wirtschaftskammern oder Wirtschaftssenaten zusammengefasst werden. Darüber hinaus können den Wirtschaftskammern oder Wirtschaftssenaten weitere Streitigkeiten mit einem Bezug zum Wirtschaftsrecht zugewiesen werden.
 
-
-## § 188b
+# § 188b
 
 Für Angelegenheiten des Planungsrechts können besondere Kammern oder Senate gebildet werden (Planungskammern, Planungssenate). Die Sachgebiete der Raumordnung und Landesplanung sowie des Bauplanungs-, Bauordnungs- und Städtebauförderungsrechts sollen in den Planungskammern oder Planungssenaten zusammengefasst werden. In anderen Sachgebieten können die Planungskammern oder Planungssenate insbesondere über Streitigkeiten entscheiden, die Planfeststellungsverfahren oder anstelle einer Planfeststellung erteilte Genehmigungen betreffen.
 
-
-## § 189
+# § 189
 
 Für die nach § 99 Abs. 2 zu treffenden Entscheidungen sind bei den Oberverwaltungsgerichten und dem Bundesverwaltungsgericht Fachsenate zu bilden.
 
-
-## § 190
+# § 190
 
  (1) Die folgenden Gesetze, die von diesem Gesetz abweichen, bleiben unberührt:
 
@@ -2089,25 +1872,21 @@ Für die nach § 99 Abs. 2 zu treffenden Entscheidungen sind bei den Oberverwalt
 
  (3) (weggefallen)
 
-
-## § 191
+# § 191
 
 (1) (Änderungsvorschrift)
 
 (2) § 127 des Beamtenrechtsrahmengesetzes und § 54 des Beamtenstatusgesetzes bleiben unberührt.
 
-
-## § 192
+# § 192
 
 (Änderungsvorschrift)
 
-
-## § 193
+# § 193
 
 In einem Land, in dem kein Verfassungsgericht besteht, bleibt eine dem Oberverwaltungsgericht übertragene Zuständigkeit zur Entscheidung von Verfassungsstreitigkeiten innerhalb des Landes bis zur Errichtung eines Verfassungsgerichts unberührt.
 
-
-## § 194
+# § 194
 
 (1) Die Zulässigkeit der Berufungen richtet sich nach dem bis zum 31. Dezember 2001 geltenden Recht, wenn vor dem 1. Januar 2002
 
@@ -2123,8 +1902,7 @@ In einem Land, in dem kein Verfassungsgericht besteht, bleibt eine dem Oberverwa
 
 (5) § 40 Abs. 2 Satz 1, § 154 Abs. 3, § 162 Abs. 2 Satz 3 und § 188 Satz 2 sind für die ab 1. Januar 2002 bei Gericht anhängig werdenden Verfahren in der zu diesem Zeitpunkt geltenden Fassung anzuwenden.
 
-
-## § 195
+# § 195
 
 (1) (Inkrafttreten)
 

@@ -1,10 +1,7 @@
-# [SGB 8] Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)
-
-Ausfertigungsdatum: 26.06.1990
-
+% Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)
+% Ausfertigungsdatum: 26.06.1990
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erstes Kapitel
 
@@ -962,8 +959,7 @@ Einschränkung eines Grundrechts
 
  
 
-
-## § 1 – Recht auf Erziehung, Elternverantwortung, Jugendhilfe
+# § 1 – Recht auf Erziehung, Elternverantwortung, Jugendhilfe
 
 (1) Jeder junge Mensch hat ein Recht auf Förderung seiner Entwicklung und auf Erziehung zu einer eigenverantwortlichen und gemeinschaftsfähigen Persönlichkeit.
 
@@ -979,8 +975,7 @@ Einschränkung eines Grundrechts
 
 4. dazu beitragen, positive Lebensbedingungen für junge Menschen und ihre Familien sowie eine kinder- und familienfreundliche Umwelt zu erhalten oder zu schaffen.
 
-
-## § 2 – Aufgaben der Jugendhilfe
+# § 2 – Aufgaben der Jugendhilfe
 
 (1) Die Jugendhilfe umfasst Leistungen und andere Aufgaben zugunsten junger Menschen und Familien.
 
@@ -1026,8 +1021,7 @@ Einschränkung eines Grundrechts
 
 13. die Aufnahme von vollstreckbaren Urkunden (§ 60).
 
-
-## § 3 – Freie und öffentliche Jugendhilfe
+# § 3 – Freie und öffentliche Jugendhilfe
 
 (1) Die Jugendhilfe ist gekennzeichnet durch die Vielfalt von Trägern unterschiedlicher Wertorientierungen und die Vielfalt von Inhalten, Methoden und Arbeitsformen.
 
@@ -1035,8 +1029,7 @@ Einschränkung eines Grundrechts
 
 (3) Andere Aufgaben der Jugendhilfe werden von Trägern der öffentlichen Jugendhilfe wahrgenommen. Soweit dies ausdrücklich bestimmt ist, können Träger der freien Jugendhilfe diese Aufgaben wahrnehmen oder mit ihrer Ausführung betraut werden.
 
-
-## § 4 – Zusammenarbeit der öffentlichen Jugendhilfe mit der freien Jugendhilfe
+# § 4 – Zusammenarbeit der öffentlichen Jugendhilfe mit der freien Jugendhilfe
 
 (1) Die öffentliche Jugendhilfe soll mit der freien Jugendhilfe zum Wohl junger Menschen und ihrer Familien partnerschaftlich zusammenarbeiten. Sie hat dabei die Selbständigkeit der freien Jugendhilfe in Zielsetzung und Durchführung ihrer Aufgaben sowie in der Gestaltung ihrer Organisationsstruktur zu achten.
 
@@ -1044,15 +1037,13 @@ Einschränkung eines Grundrechts
 
 (3) Die öffentliche Jugendhilfe soll die freie Jugendhilfe nach Maßgabe dieses Buches fördern und dabei die verschiedenen Formen der Selbsthilfe stärken.
 
-
-## § 5 – Wunsch- und Wahlrecht
+# § 5 – Wunsch- und Wahlrecht
 
 (1) Die Leistungsberechtigten haben das Recht, zwischen Einrichtungen und Diensten verschiedener Träger zu wählen und Wünsche hinsichtlich der Gestaltung der Hilfe zu äußern. Sie sind auf dieses Recht hinzuweisen.
 
 (2) Der Wahl und den Wünschen soll entsprochen werden, sofern dies nicht mit unverhältnismäßigen Mehrkosten verbunden ist. Wünscht der Leistungsberechtigte die Erbringung einer in § 78a genannten Leistung in einer Einrichtung, mit deren Träger keine Vereinbarungen nach § 78b bestehen, so soll der Wahl nur entsprochen werden, wenn die Erbringung der Leistung in dieser Einrichtung im Einzelfall oder nach Maßgabe des Hilfeplans (§ 36) geboten ist.
 
-
-## § 6 – Geltungsbereich
+# § 6 – Geltungsbereich
 
 (1) Leistungen nach diesem Buch werden jungen Menschen, Müttern, Vätern und Personensorgeberechtigten von Kindern und Jugendlichen gewährt, die ihren tatsächlichen Aufenthalt im Inland haben. Für die Erfüllung anderer Aufgaben gilt Satz 1 entsprechend. Umgangsberechtigte haben unabhängig von ihrem tatsächlichen Aufenthalt Anspruch auf Beratung und Unterstützung bei der Ausübung des Umgangsrechts, wenn das Kind oder der Jugendliche seinen gewöhnlichen Aufenthalt im Inland hat.
 
@@ -1062,8 +1053,7 @@ Einschränkung eines Grundrechts
 
 (4) Regelungen des über- und zwischenstaatlichen Rechts bleiben unberührt.
 
-
-## § 7 – Begriffsbestimmungen
+# § 7 – Begriffsbestimmungen
 
 (1) Im Sinne dieses Buches ist
 
@@ -1085,8 +1075,7 @@ Einschränkung eines Grundrechts
 
 (4) Die Bestimmungen dieses Buches, die sich auf die Annahme als Kind beziehen, gelten nur für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
-
-## § 8 – Beteiligung von Kindern und Jugendlichen
+# § 8 – Beteiligung von Kindern und Jugendlichen
 
 (1) Kinder und Jugendliche sind entsprechend ihrem Entwicklungsstand an allen sie betreffenden Entscheidungen der öffentlichen Jugendhilfe zu beteiligen. Sie sind in geeigneter Weise auf ihre Rechte im Verwaltungsverfahren sowie im Verfahren vor dem Familiengericht und dem Verwaltungsgericht hinzuweisen.
 
@@ -1096,8 +1085,7 @@ Einschränkung eines Grundrechts
 
 (+++ § 8 Abs. 1: Zur Anwendung vgl. § 42f Abs. 1 +++)
 
-
-## § 8a – Schutzauftrag bei Kindeswohlgefährdung
+# § 8a – Schutzauftrag bei Kindeswohlgefährdung
 
 (1) Werden dem Jugendamt gewichtige Anhaltspunkte für die Gefährdung des Wohls eines Kindes oder Jugendlichen bekannt, so hat es das Gefährdungsrisiko im Zusammenwirken mehrerer Fachkräfte einzuschätzen. Soweit der wirksame Schutz dieses Kindes oder dieses Jugendlichen nicht in Frage gestellt wird, hat das Jugendamt die Erziehungsberechtigten sowie das Kind oder den Jugendlichen in die Gefährdungseinschätzung einzubeziehen und, sofern dies nach fachlicher Einschätzung erforderlich ist, sich dabei einen unmittelbaren Eindruck von dem Kind und von seiner persönlichen Umgebung zu verschaffen. Hält das Jugendamt zur Abwendung der Gefährdung die Gewährung von Hilfen für geeignet und notwendig, so hat es diese den Erziehungsberechtigten anzubieten.
 
@@ -1117,8 +1105,7 @@ In die Vereinbarung ist neben den Kriterien für die Qualifikation der beratend 
 
 (5) Werden einem örtlichen Träger gewichtige Anhaltspunkte für die Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt, so sind dem für die Gewährung von Leistungen zuständigen örtlichen Träger die Daten mitzuteilen, deren Kenntnis zur Wahrnehmung des Schutzauftrags bei Kindeswohlgefährdung nach § 8a erforderlich ist. Die Mitteilung soll im Rahmen eines Gespräches zwischen den Fachkräften der beiden örtlichen Träger erfolgen, an dem die Personensorgeberechtigten sowie das Kind oder der Jugendliche beteiligt werden sollen, soweit hierdurch der wirksame Schutz des Kindes oder des Jugendlichen nicht in Frage gestellt wird.
 
-
-## § 8b – Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen
+# § 8b – Fachliche Beratung und Begleitung zum Schutz von Kindern und Jugendlichen
 
 (1) Personen, die beruflich in Kontakt mit Kindern oder Jugendlichen stehen, haben bei der Einschätzung einer Kindeswohlgefährdung im Einzelfall gegenüber dem örtlichen Träger der Jugendhilfe Anspruch auf Beratung durch eine insoweit erfahrene Fachkraft.
 
@@ -1128,8 +1115,7 @@ In die Vereinbarung ist neben den Kriterien für die Qualifikation der beratend 
 
 2. zu Verfahren der Beteiligung von Kindern und Jugendlichen an strukturellen Entscheidungen in der Einrichtung sowie zu Beschwerdeverfahren in persönlichen Angelegenheiten.
 
-
-## § 9 – Grundrichtung der Erziehung, Gleichberechtigung von Mädchen und Jungen
+# § 9 – Grundrichtung der Erziehung, Gleichberechtigung von Mädchen und Jungen
 
 Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 
@@ -1139,8 +1125,7 @@ Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 
 3. die unterschiedlichen Lebenslagen von Mädchen und Jungen zu berücksichtigen, Benachteiligungen abzubauen und die Gleichberechtigung von Mädchen und Jungen zu fördern.
 
-
-## § 10 – Verhältnis zu anderen Leistungen und Verpflichtungen
+# § 10 – Verhältnis zu anderen Leistungen und Verpflichtungen
 
 (1) Verpflichtungen anderer, insbesondere der Träger anderer Sozialleistungen und der Schulen, werden durch dieses Buch nicht berührt. Auf Rechtsvorschriften beruhende Leistungen anderer dürfen nicht deshalb versagt werden, weil nach diesem Buch entsprechende Leistungen vorgesehen sind.
 
@@ -1150,8 +1135,7 @@ Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 
 (4) Die Leistungen nach diesem Buch gehen Leistungen nach dem Neunten und Zwölften Buch vor. Abweichend von Satz 1 gehen Leistungen nach § 27a Absatz 1 in Verbindung mit § 34 Absatz 6 des Zwölften Buches und Leistungen der Eingliederungshilfe nach dem Neunten Buch für junge Menschen, die körperlich oder geistig behindert oder von einer solchen Behinderung bedroht sind, den Leistungen nach diesem Buch vor. Landesrecht kann regeln, dass Leistungen der Frühförderung für Kinder unabhängig von der Art der Behinderung vorrangig von anderen Leistungsträgern gewährt werden.
 
-
-## § 11 – Jugendarbeit
+# § 11 – Jugendarbeit
 
 (1) Jungen Menschen sind die zur Förderung ihrer Entwicklung erforderlichen Angebote der Jugendarbeit zur Verfügung zu stellen. Sie sollen an den Interessen junger Menschen anknüpfen und von ihnen mitbestimmt und mitgestaltet werden, sie zur Selbstbestimmung befähigen und zu gesellschaftlicher Mitverantwortung und zu sozialem Engagement anregen und hinführen.
 
@@ -1173,15 +1157,13 @@ Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 
 (4) Angebote der Jugendarbeit können auch Personen, die das 27. Lebensjahr vollendet haben, in angemessenem Umfang einbeziehen.
 
-
-## § 12 – Förderung der Jugendverbände
+# § 12 – Förderung der Jugendverbände
 
 (1) Die eigenverantwortliche Tätigkeit der Jugendverbände und Jugendgruppen ist unter Wahrung ihres satzungsgemäßen Eigenlebens nach Maßgabe des § 74 zu fördern.
 
 (2) In Jugendverbänden und Jugendgruppen wird Jugendarbeit von jungen Menschen selbst organisiert, gemeinschaftlich gestaltet und mitverantwortet. Ihre Arbeit ist auf Dauer angelegt und in der Regel auf die eigenen Mitglieder ausgerichtet, sie kann sich aber auch an junge Menschen wenden, die nicht Mitglieder sind. Durch Jugendverbände und ihre Zusammenschlüsse werden Anliegen und Interessen junger Menschen zum Ausdruck gebracht und vertreten.
 
-
-## § 13 – Jugendsozialarbeit
+# § 13 – Jugendsozialarbeit
 
 (1) Jungen Menschen, die zum Ausgleich sozialer Benachteiligungen oder zur Überwindung individueller Beeinträchtigungen in erhöhtem Maße auf Unterstützung angewiesen sind, sollen im Rahmen der Jugendhilfe sozialpädagogische Hilfen angeboten werden, die ihre schulische und berufliche Ausbildung, Eingliederung in die Arbeitswelt und ihre soziale Integration fördern.
 
@@ -1191,8 +1173,7 @@ Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 
 (4) Die Angebote sollen mit den Maßnahmen der Schulverwaltung, der Bundesagentur für Arbeit, der Träger betrieblicher und außerbetrieblicher Ausbildung sowie der Träger von Beschäftigungsangeboten abgestimmt werden.
 
-
-## § 14 – Erzieherischer Kinder- und Jugendschutz
+# § 14 – Erzieherischer Kinder- und Jugendschutz
 
 (1) Jungen Menschen und Erziehungsberechtigten sollen Angebote des erzieherischen Kinder- und Jugendschutzes gemacht werden.
 
@@ -1202,13 +1183,11 @@ Bei der Ausgestaltung der Leistungen und der Erfüllung der Aufgaben sind
 
 2. Eltern und andere Erziehungsberechtigte besser befähigen, Kinder und Jugendliche vor gefährdenden Einflüssen zu schützen.
 
-
-## § 15 – Landesrechtsvorbehalt
+# § 15 – Landesrechtsvorbehalt
 
 Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben und Leistungen regelt das Landesrecht.
 
-
-## § 16 – Allgemeine Förderung der Erziehung in der Familie
+# § 16 – Allgemeine Förderung der Erziehung in der Familie
 
 (1) Müttern, Vätern, anderen Erziehungsberechtigten und jungen Menschen sollen Leistungen der allgemeinen Förderung der Erziehung in der Familie angeboten werden. Sie sollen dazu beitragen, dass Mütter, Väter und andere Erziehungsberechtigte ihre Erziehungsverantwortung besser wahrnehmen können. Sie sollen auch Wege aufzeigen, wie Konfliktsituationen in der Familie gewaltfrei gelöst werden können.
 
@@ -1226,8 +1205,7 @@ Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben 
 
 (5) (weggefallen)
 
-
-## § 17 – Beratung in Fragen der Partnerschaft, Trennung und Scheidung
+# § 17 – Beratung in Fragen der Partnerschaft, Trennung und Scheidung
 
 (1) Mütter und Väter haben im Rahmen der Jugendhilfe Anspruch auf Beratung in Fragen der Partnerschaft, wenn sie für ein Kind oder einen Jugendlichen zu sorgen haben oder tatsächlich sorgen. Die Beratung soll helfen,
 
@@ -1241,8 +1219,7 @@ Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben 
 
 (3) Die Gerichte teilen die Rechtshängigkeit von Scheidungssachen, wenn gemeinschaftliche minderjährige Kinder vorhanden sind, sowie Namen und Anschriften der beteiligte Eheleute und Kinder dem Jugendamt mit, damit dieses die Eltern über das Leistungsangebot der Jugendhilfe nach Absatz 2 unterrichtet.
 
-
-## § 18 – Beratung und Unterstützung bei der Ausübung der Personensorge und des Umgangsrechts
+# § 18 – Beratung und Unterstützung bei der Ausübung der Personensorge und des Umgangsrechts
 
 (1) Mütter und Väter, die allein für ein Kind oder einen Jugendlichen zu sorgen haben oder tatsächlich sorgen, haben Anspruch auf Beratung und Unterstützung
 
@@ -1256,8 +1233,7 @@ Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben 
 
 (4) Ein junger Volljähriger hat bis zur Vollendung des 21. Lebensjahres Anspruch auf Beratung und Unterstützung bei der Geltendmachung von Unterhalts- oder Unterhaltsersatzansprüchen.
 
-
-## § 19 – Gemeinsame Wohnformen für Mütter/Väter und Kinder
+# § 19 – Gemeinsame Wohnformen für Mütter/Väter und Kinder
 
 (1) Mütter oder Väter, die allein für ein Kind unter sechs Jahren zu sorgen haben oder tatsächlich sorgen, sollen gemeinsam mit dem Kind in einer geeigneten Wohnform betreut werden, wenn und solange sie auf Grund ihrer Persönlichkeitsentwicklung dieser Form der Unterstützung bei der Pflege und Erziehung des Kindes bedürfen. Die Betreuung schließt auch ältere Geschwister ein, sofern die Mutter oder der Vater für sie allein zu sorgen hat. Eine schwangere Frau kann auch vor der Geburt des Kindes in der Wohnform betreut werden.
 
@@ -1265,8 +1241,7 @@ Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben 
 
 (3) Die Leistung soll auch den notwendigen Unterhalt der betreuten Personen sowie die Krankenhilfe nach Maßgabe des § 40 umfassen.
 
-
-## § 20 – Betreuung und Versorgung des Kindes in Notsituationen
+# § 20 – Betreuung und Versorgung des Kindes in Notsituationen
 
 (1) Fällt der Elternteil, der die überwiegende Betreuung des Kindes übernommen hat, für die Wahrnehmung dieser Aufgabe aus gesundheitlichen oder anderen zwingenden Gründen aus, so soll der andere Elternteil bei der Betreuung und Versorgung des im Haushalt lebenden Kindes unterstützt werden, wenn
 
@@ -1278,13 +1253,11 @@ Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben 
 
 (2) Fällt ein allein erziehender Elternteil oder fallen beide Elternteile aus gesundheitlichen oder anderen zwingenden Gründen aus, so soll unter der Voraussetzung des Absatzes 1 Nummer 3 das Kind im elterlichen Haushalt versorgt und betreut werden, wenn und solange es für sein Wohl erforderlich ist.
 
-
-## § 21 – Unterstützung bei notwendiger Unterbringung zur Erfüllung der Schulpflicht
+# § 21 – Unterstützung bei notwendiger Unterbringung zur Erfüllung der Schulpflicht
 
 Können Personensorgeberechtigte wegen des mit ihrer beruflichen Tätigkeit verbundenen ständigen Ortswechsels die Erfüllung der Schulpflicht ihres Kindes oder Jugendlichen nicht sicherstellen und ist deshalb eine anderweitige Unterbringung des Kindes oder des Jugendlichen notwendig, so haben sie Anspruch auf Beratung und Unterstützung. In geeigneten Fällen können die Kosten der Unterbringung in einer für das Kind oder den Jugendlichen geeigneten Wohnform einschließlich des notwendigen Unterhalts sowie die Krankenhilfe übernommen werden. Die Leistung kann über das schulpflichtige Alter hinaus gewährt werden, sofern eine begonnene Schulausbildung noch nicht abgeschlossen ist, längstens aber bis zur Vollendung des 21. Lebensjahres.
 
-
-## § 22 – Grundsätze der Förderung
+# § 22 – Grundsätze der Förderung
 
 (1) Tageseinrichtungen sind Einrichtungen, in denen sich Kinder für einen Teil des Tages oder ganztägig aufhalten und in Gruppen gefördert werden. Kindertagespflege wird von einer geeigneten Tagespflegeperson in ihrem Haushalt oder im Haushalt des Personensorgeberechtigten geleistet. Das Nähere über die Abgrenzung von Tageseinrichtungen und Kindertagespflege regelt das Landesrecht. Es kann auch regeln, dass Kindertagespflege in anderen geeigneten Räumen geleistet wird.
 
@@ -1300,8 +1273,7 @@ Können Personensorgeberechtigte wegen des mit ihrer beruflichen Tätigkeit verb
 
 (4) Für die Erfüllung des Förderungsauftrags nach Absatz 3 sollen geeignete Maßnahmen zur Gewährleistung der Qualität der Förderung von Kindern in Tageseinrichtungen und in der Kindertagespflege weiterentwickelt werden. Das Nähere regelt das Landesrecht.
 
-
-## § 22a – Förderung in Tageseinrichtungen
+# § 22a – Förderung in Tageseinrichtungen
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen die Qualität der Förderung in ihren Einrichtungen durch geeignete Maßnahmen sicherstellen und weiterentwickeln. Dazu gehören die Entwicklung und der Einsatz einer pädagogischen Konzeption als Grundlage für die Erfüllung des Förderungsauftrags sowie der Einsatz von Instrumenten und Verfahren zur Evaluation der Arbeit in den Einrichtungen.
 
@@ -1321,8 +1293,7 @@ Die Erziehungsberechtigten sind an den Entscheidungen in wesentlichen Angelegenh
 
 (5) Die Träger der öffentlichen Jugendhilfe sollen die Realisierung des Förderungsauftrags nach Maßgabe der Absätze 1 bis 4 in den Einrichtungen anderer Träger durch geeignete Maßnahmen sicherstellen.
 
-
-## § 23 – Förderung in Kindertagespflege
+# § 23 – Förderung in Kindertagespflege
 
 (1) Die Förderung in Kindertagespflege nach Maßgabe von § 24 umfasst die Vermittlung des Kindes zu einer geeigneten Tagespflegeperson, soweit diese nicht von der erziehungsberechtigten Person nachgewiesen wird, deren fachliche Beratung, Begleitung und weitere Qualifizierung sowie die Gewährung einer laufenden Geldleistung an die Tagespflegeperson.
 
@@ -1342,8 +1313,7 @@ Die Erziehungsberechtigten sind an den Entscheidungen in wesentlichen Angelegenh
 
 (4) Erziehungsberechtigte und Tagespflegepersonen haben Anspruch auf Beratung in allen Fragen der Kindertagespflege. Für Ausfallzeiten einer Tagespflegeperson ist rechtzeitig eine andere Betreuungsmöglichkeit für das Kind sicherzustellen. Zusammenschlüsse von Tagespflegepersonen sollen beraten, unterstützt und gefördert werden.
 
-
-## § 24 – Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege
+# § 24 – Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege
 
 (1) Ein Kind, das das erste Lebensjahr noch nicht vollendet hat, ist in einer Einrichtung oder in Kindertagespflege zu fördern, wenn
 
@@ -1369,18 +1339,15 @@ Lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt diese Pers
 
 (6) Weitergehendes Landesrecht bleibt unberührt.
 
-
-## § 25 – Unterstützung selbst organisierter Förderung von Kindern
+# § 25 – Unterstützung selbst organisierter Förderung von Kindern
 
 Mütter, Väter und andere Erziehungsberechtigte, die die Förderung von Kindern selbst organisieren wollen, sollen beraten und unterstützt werden.
 
-
-## § 26 – Landesrechtsvorbehalt
+# § 26 – Landesrechtsvorbehalt
 
 Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben und Leistungen regelt das Landesrecht. Am 31. Dezember 1990 geltende landesrechtliche Regelungen, die das Kindergartenwesen dem Bildungsbereich zuweisen, bleiben unberührt.
 
-
-## § 27 – Hilfe zur Erziehung
+# § 27 – Hilfe zur Erziehung
 
 (1) Ein Personensorgeberechtigter hat bei der Erziehung eines Kindes oder eines Jugendlichen Anspruch auf Hilfe (Hilfe zur Erziehung), wenn eine dem Wohl des Kindes oder des Jugendlichen entsprechende Erziehung nicht gewährleistet ist und die Hilfe für seine Entwicklung geeignet und notwendig ist.
 
@@ -1392,38 +1359,31 @@ Das Nähere über Inhalt und Umfang der in diesem Abschnitt geregelten Aufgaben 
 
 (4) Wird ein Kind oder eine Jugendliche während ihres Aufenthalts in einer Einrichtung oder einer Pflegefamilie selbst Mutter eines Kindes, so umfasst die Hilfe zur Erziehung auch die Unterstützung bei der Pflege und Erziehung dieses Kindes.
 
-
-## § 28 – Erziehungsberatung
+# § 28 – Erziehungsberatung
 
 Erziehungsberatungsstellen und andere Beratungsdienste und -einrichtungen sollen Kinder, Jugendliche, Eltern und andere Erziehungsberechtigte bei der Klärung und Bewältigung individueller und familienbezogener Probleme und der zugrunde liegenden Faktoren, bei der Lösung von Erziehungsfragen sowie bei Trennung und Scheidung unterstützen. Dabei sollen Fachkräfte verschiedener Fachrichtungen zusammenwirken, die mit unterschiedlichen methodischen Ansätzen vertraut sind.
 
-
-## § 29 – Soziale Gruppenarbeit
+# § 29 – Soziale Gruppenarbeit
 
 Die Teilnahme an sozialer Gruppenarbeit soll älteren Kindern und Jugendlichen bei der Überwindung von Entwicklungsschwierigkeiten und Verhaltensproblemen helfen. Soziale Gruppenarbeit soll auf der Grundlage eines gruppenpädagogischen Konzepts die Entwicklung älterer Kinder und Jugendlicher durch soziales Lernen in der Gruppe fördern.
 
-
-## § 30 – Erziehungsbeistand, Betreuungshelfer
+# § 30 – Erziehungsbeistand, Betreuungshelfer
 
 Der Erziehungsbeistand und der Betreuungshelfer sollen das Kind oder den Jugendlichen bei der Bewältigung von Entwicklungsproblemen möglichst unter Einbeziehung des sozialen Umfelds unterstützen und unter Erhaltung des Lebensbezugs zur Familie seine Verselbständigung fördern.
 
-
-## § 31 – Sozialpädagogische Familienhilfe
+# § 31 – Sozialpädagogische Familienhilfe
 
 Sozialpädagogische Familienhilfe soll durch intensive Betreuung und Begleitung Familien in ihren Erziehungsaufgaben, bei der Bewältigung von Alltagsproblemen, der Lösung von Konflikten und Krisen sowie im Kontakt mit Ämtern und Institutionen unterstützen und Hilfe zur Selbsthilfe geben. Sie ist in der Regel auf längere Dauer angelegt und erfordert die Mitarbeit der Familie.
 
-
-## § 32 – Erziehung in einer Tagesgruppe
+# § 32 – Erziehung in einer Tagesgruppe
 
 Hilfe zur Erziehung in einer Tagesgruppe soll die Entwicklung des Kindes oder des Jugendlichen durch soziales Lernen in der Gruppe, Begleitung der schulischen Förderung und Elternarbeit unterstützen und dadurch den Verbleib des Kindes oder des Jugendlichen in seiner Familie sichern. Die Hilfe kann auch in geeigneten Formen der Familienpflege geleistet werden.
 
-
-## § 33 – Vollzeitpflege
+# § 33 – Vollzeitpflege
 
 Hilfe zur Erziehung in Vollzeitpflege soll entsprechend dem Alter und Entwicklungsstand des Kindes oder des Jugendlichen und seinen persönlichen Bindungen sowie den Möglichkeiten der Verbesserung der Erziehungsbedingungen in der Herkunftsfamilie Kindern und Jugendlichen in einer anderen Familie eine zeitlich befristete Erziehungshilfe oder eine auf Dauer angelegte Lebensform bieten. Für besonders entwicklungsbeeinträchtigte Kinder und Jugendliche sind geeignete Formen der Familienpflege zu schaffen und auszubauen.
 
-
-## § 34 – Heimerziehung, sonstige betreute Wohnform
+# § 34 – Heimerziehung, sonstige betreute Wohnform
 
 Hilfe zur Erziehung in einer Einrichtung über Tag und Nacht (Heimerziehung) oder in einer sonstigen betreuten Wohnform soll Kinder und Jugendliche durch eine Verbindung von Alltagserleben mit pädagogischen und therapeutischen Angeboten in ihrer Entwicklung fördern. Sie soll entsprechend dem Alter und Entwicklungsstand des Kindes oder des Jugendlichen sowie den Möglichkeiten der Verbesserung der Erziehungsbedingungen in der Herkunftsfamilie
 
@@ -1435,13 +1395,11 @@ Hilfe zur Erziehung in einer Einrichtung über Tag und Nacht (Heimerziehung) ode
 
 Jugendliche sollen in Fragen der Ausbildung und Beschäftigung sowie der allgemeinen Lebensführung beraten und unterstützt werden.
 
-
-## § 35 – Intensive sozialpädagogische Einzelbetreuung
+# § 35 – Intensive sozialpädagogische Einzelbetreuung
 
 Intensive sozialpädagogische Einzelbetreuung soll Jugendlichen gewährt werden, die einer intensiven Unterstützung zur sozialen Integration und zu einer eigenverantwortlichen Lebensführung bedürfen. Die Hilfe ist in der Regel auf längere Zeit angelegt und soll den individuellen Bedürfnissen des Jugendlichen Rechnung tragen.
 
-
-## § 35a – Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche
+# § 35a – Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche
 
 (1) Kinder oder Jugendliche haben Anspruch auf Eingliederungshilfe, wenn
 
@@ -1475,8 +1433,7 @@ einzuholen. Die Stellungnahme ist auf der Grundlage der Internationalen Klassifi
 
 (4) Ist gleichzeitig Hilfe zur Erziehung zu leisten, so sollen Einrichtungen, Dienste und Personen in Anspruch genommen werden, die geeignet sind, sowohl die Aufgaben der Eingliederungshilfe zu erfüllen als auch den erzieherischen Bedarf zu decken. Sind heilpädagogische Maßnahmen für Kinder, die noch nicht im schulpflichtigen Alter sind, in Tageseinrichtungen für Kinder zu gewähren und lässt der Hilfebedarf es zu, so sollen Einrichtungen in Anspruch genommen werden, in denen behinderte und nicht behinderte Kinder gemeinsam betreut werden.
 
-
-## § 36 – Mitwirkung, Hilfeplan
+# § 36 – Mitwirkung, Hilfeplan
 
 (1) Der Personensorgeberechtigte und das Kind oder der Jugendliche sind vor der Entscheidung über die Inanspruchnahme einer Hilfe und vor einer notwendigen Änderung von Art und Umfang der Hilfe zu beraten und auf die möglichen Folgen für die Entwicklung des Kindes oder des Jugendlichen hinzuweisen. Vor und während einer langfristig zu leistenden Hilfe außerhalb der eigenen Familie ist zu prüfen, ob die Annahme als Kind in Betracht kommt. Ist Hilfe außerhalb der eigenen Familie erforderlich, so sind die in Satz 1 genannten Personen bei der Auswahl der Einrichtung oder der Pflegestelle zu beteiligen. Der Wahl und den Wünschen ist zu entsprechen, sofern sie nicht mit unverhältnismäßigen Mehrkosten verbunden sind. Wünschen die in Satz 1 genannten Personen die Erbringung einer in § 78a genannten Leistung in einer Einrichtung, mit deren Träger keine Vereinbarungen nach § 78b bestehen, so soll der Wahl nur entsprochen werden, wenn die Erbringung der Leistung in dieser Einrichtung nach Maßgabe des Hilfeplans nach Absatz 2 geboten ist.
 
@@ -1486,8 +1443,7 @@ einzuholen. Die Stellungnahme ist auf der Grundlage der Internationalen Klassifi
 
 (4) Vor einer Entscheidung über die Gewährung einer Hilfe, die ganz oder teilweise im Ausland erbracht wird, soll zur Feststellung einer seelischen Störung mit Krankheitswert die Stellungnahme einer in § 35a Absatz 1a Satz 1 genannten Person eingeholt werden.
 
-
-## § 36a – Steuerungsverantwortung, Selbstbeschaffung
+# § 36a – Steuerungsverantwortung, Selbstbeschaffung
 
 (1) Der Träger der öffentlichen Jugendhilfe trägt die Kosten der Hilfe grundsätzlich nur dann, wenn sie auf der Grundlage seiner Entscheidung nach Maßgabe des Hilfeplans unter Beachtung des Wunsch- und Wahlrechts erbracht wird; dies gilt auch in den Fällen, in denen Eltern durch das Familiengericht oder Jugendliche und junge Volljährige durch den Jugendrichter zur Inanspruchnahme von Hilfen verpflichtet werden. Die Vorschriften über die Heranziehung zu den Kosten der Hilfe bleiben unberührt.
 
@@ -1509,8 +1465,7 @@ keinen zeitlichen Aufschub geduldet hat.
 
 War es dem Leistungsberechtigten unmöglich, den Träger der öffentlichen Jugendhilfe rechtzeitig über den Hilfebedarf in Kenntnis zu setzen, so hat er dies unverzüglich nach Wegfall des Hinderungsgrundes nachzuholen.
 
-
-## § 37 – Zusammenarbeit bei Hilfen außerhalb der eigenen Familie
+# § 37 – Zusammenarbeit bei Hilfen außerhalb der eigenen Familie
 
 (1) Bei Hilfen nach §§ 32 bis 34 und § 35a Absatz 2 Nummer 3 und 4 soll darauf hingewirkt werden, dass die Pflegeperson oder die in der Einrichtung für die Erziehung verantwortlichen Personen und die Eltern zum Wohl des Kindes oder des Jugendlichen zusammenarbeiten. Durch Beratung und Unterstützung sollen die Erziehungsbedingungen in der Herkunftsfamilie innerhalb eines im Hinblick auf die Entwicklung des Kindes oder Jugendlichen vertretbaren Zeitraums so weit verbessert werden, dass sie das Kind oder den Jugendlichen wieder selbst erziehen kann. Während dieser Zeit soll durch begleitende Beratung und Unterstützung der Familien darauf hingewirkt werden, dass die Beziehung des Kindes oder Jugendlichen zur Herkunftsfamilie gefördert wird. Ist eine nachhaltige Verbesserung der Erziehungsbedingungen in der Herkunftsfamilie innerhalb dieses Zeitraums nicht erreichbar, so soll mit den beteiligten Personen eine andere, dem Wohl des Kindes oder des Jugendlichen förderliche und auf Dauer angelegte Lebensperspektive erarbeitet werden.
 
@@ -1520,13 +1475,11 @@ War es dem Leistungsberechtigten unmöglich, den Träger der öffentlichen Jugen
 
 (3) Das Jugendamt soll den Erfordernissen des Einzelfalls entsprechend an Ort und Stelle überprüfen, ob die Pflegeperson eine dem Wohl des Kindes oder des Jugendlichen förderliche Erziehung gewährleistet. Die Pflegeperson hat das Jugendamt über wichtige Ereignisse zu unterrichten, die das Wohl des Kindes oder des Jugendlichen betreffen.
 
-
-## § 38 – Vermittlung bei der Ausübung der Personensorge
+# § 38 – Vermittlung bei der Ausübung der Personensorge
 
 Sofern der Inhaber der Personensorge durch eine Erklärung nach § 1688 Absatz 3 Satz 1 des Bürgerlichen Gesetzbuchs die Vertretungsmacht der Pflegeperson soweit einschränkt, dass dies eine dem Wohl des Kindes oder des Jugendlichen förderliche Erziehung nicht mehr ermöglicht, sowie bei sonstigen Meinungsverschiedenheiten sollen die Beteiligten das Jugendamt einschalten.
 
-
-## § 39 – Leistungen zum Unterhalt des Kindes oder des Jugendlichen
+# § 39 – Leistungen zum Unterhalt des Kindes oder des Jugendlichen
 
 (1) Wird Hilfe nach den §§ 32 bis 35 oder nach § 35a Absatz 2 Nummer 2 bis 4 gewährt, so ist auch der notwendige Unterhalt des Kindes oder Jugendlichen außerhalb des Elternhauses sicherzustellen. Er umfasst die Kosten für den Sachaufwand sowie für die Pflege und Erziehung des Kindes oder Jugendlichen.
 
@@ -1542,13 +1495,11 @@ Sofern der Inhaber der Personensorge durch eine Erklärung nach § 1688 Absatz 3
 
 (7) Wird ein Kind oder eine Jugendliche während ihres Aufenthalts in einer Einrichtung oder einer Pflegefamilie selbst Mutter eines Kindes, so ist auch der notwendige Unterhalt dieses Kindes sicherzustellen.
 
-
-## § 40 – Krankenhilfe
+# § 40 – Krankenhilfe
 
 Wird Hilfe nach den §§ 33 bis 35 oder nach § 35a Absatz 2 Nummer 3 oder 4 gewährt, so ist auch Krankenhilfe zu leisten; für den Umfang der Hilfe gelten die §§ 47 bis 52 des Zwölften Buches entsprechend. Krankenhilfe muss den im Einzelfall notwendigen Bedarf in voller Höhe befriedigen. Zuzahlungen und Eigenbeteiligungen sind zu übernehmen. Das Jugendamt kann in geeigneten Fällen die Beiträge für eine freiwillige Krankenversicherung übernehmen, soweit sie angemessen sind.
 
-
-## § 41 – Hilfe für junge Volljährige, Nachbetreuung
+# § 41 – Hilfe für junge Volljährige, Nachbetreuung
 
 (1) Einem jungen Volljährigen soll Hilfe für die Persönlichkeitsentwicklung und zu einer eigenverantwortlichen Lebensführung gewährt werden, wenn und solange die Hilfe auf Grund der individuellen Situation des jungen Menschen notwendig ist. Die Hilfe wird in der Regel nur bis zur Vollendung des 21. Lebensjahres gewährt; in begründeten Einzelfällen soll sie für einen begrenzten Zeitraum darüber hinaus fortgesetzt werden.
 
@@ -1556,8 +1507,7 @@ Wird Hilfe nach den §§ 33 bis 35 oder nach § 35a Absatz 2 Nummer 3 oder 4 gew
 
 (3) Der junge Volljährige soll auch nach Beendigung der Hilfe bei der Verselbständigung im notwendigen Umfang beraten und unterstützt werden.
 
-
-## § 42 – Inobhutnahme von Kindern und Jugendlichen
+# § 42 – Inobhutnahme von Kindern und Jugendlichen
 
 (1) Das Jugendamt ist berechtigt und verpflichtet, ein Kind oder einen Jugendlichen in seine Obhut zu nehmen, wenn
 
@@ -1595,8 +1545,7 @@ Sind die Personensorge- oder Erziehungsberechtigten nicht erreichbar, so gilt Sa
 
 (+++ § 42 Abs. 2 Satz 2: Zur Anwendung vgl. § 42f Abs. 1 +++)
 
-
-## § 42a – Vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise
+# § 42a – Vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise
 
 (1) Das Jugendamt ist berechtigt und verpflichtet, ein ausländisches Kind oder einen ausländischen Jugendlichen vorläufig in Obhut zu nehmen, sobald dessen unbegleitete Einreise nach Deutschland festgestellt wird. Ein ausländisches Kind oder ein ausländischer Jugendlicher ist grundsätzlich dann als unbegleitet zu betrachten, wenn die Einreise nicht in Begleitung eines Personensorgeberechtigten oder Erziehungsberechtigten erfolgt; dies gilt auch, wenn das Kind oder der Jugendliche verheiratet ist. § 42 Absatz 1 Satz 2, Absatz 2 Satz 2 und 3, Absatz 5 sowie 6 gilt entsprechend.
 
@@ -1628,8 +1577,7 @@ Hält sich eine mit dem Kind oder dem Jugendlichen verwandte Person im Inland od
 
 (6) Die vorläufige Inobhutnahme endet mit der Übergabe des Kindes oder des Jugendlichen an die Personensorge- oder Erziehungsberechtigten oder an das aufgrund der Zuweisungsentscheidung der zuständigen Landesbehörde nach § 88a Absatz 2 Satz 1 zuständige Jugendamt oder mit der Anzeige nach Absatz 4 Satz 3 über den Ausschluss des Verteilungsverfahrens nach § 42b Absatz 4.
 
-
-## § 42b – Verfahren zur Verteilung unbegleiteter ausländischer Kinder und Jugendlicher
+# § 42b – Verfahren zur Verteilung unbegleiteter ausländischer Kinder und Jugendlicher
 
 (1) Das Bundesverwaltungsamt benennt innerhalb von zwei Werktagen nach Anmeldung eines unbegleiteten ausländischen Kindes oder Jugendlichen zur Verteilung durch die zuständige Landesstelle das zu dessen Aufnahme verpflichtete Land. Maßgebend dafür ist die Aufnahmequote nach § 42c.
 
@@ -1655,10 +1603,9 @@ Hält sich eine mit dem Kind oder dem Jugendlichen verwandte Person im Inland od
 
 (8) Das Nähere regelt das Landesrecht.
 
-§ 42b Abs. 3 Satz 3 idF d. Bek. v. 11.9.2012 I 2022: Hessen - Abweichung durch [§ 58 d. Hessischen Kinder- und Jugendhilfegesetzbuches](../abweichendes_Landesrecht/kjhg_he__58.html "Anzeige in neuem Fenster") v. 18.12.2006 GVBl. I S. 689 mWv 28.12.2017 (vgl. BGBl. I 2018, 1390)
+§ 42b Abs. 3 Satz 3 idF d. Bek. v. 11.9.2012 I 2022: Hessen - Abweichung durch [§ 58 d. Hessischen Kinder- und Jugendhilfegesetzbuches](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/kjhg_he__58.html "Anzeige in neuem Fenster") v. 18.12.2006 GVBl. I S. 689 mWv 28.12.2017 (vgl. BGBl. I 2018, 1390)
 
-
-## § 42c – Aufnahmequote
+# § 42c – Aufnahmequote
 
 (1) Die Länder können durch Vereinbarung einen Schlüssel als Grundlage für die Benennung des zur Aufnahme verpflichteten Landes nach § 42b Absatz 1 festlegen. Bis zum Zustandekommen dieser Vereinbarung oder bei deren Wegfall richtet sich die Aufnahmequote für das jeweilige Kalenderjahr nach dem von dem Büro der Gemeinsamen Wissenschaftskonferenz im Bundesanzeiger veröffentlichten Schlüssel, der für das vorangegangene Kalenderjahr entsprechend den Steuereinnahmen und der Bevölkerungszahl der Länder errechnet worden ist (Königsteiner Schlüssel), und nach dem Ausgleich für den Bestand der Anzahl unbegleiteter ausländischer Minderjähriger, denen am 1. November 2015 in den einzelnen Ländern Jugendhilfe gewährt wird. Ein Land kann seiner Aufnahmepflicht eine höhere Quote als die Aufnahmequote nach Satz 1 oder 2 zugrunde legen; dies ist gegenüber dem Bundesverwaltungsamt anzuzeigen.
 
@@ -1666,8 +1613,7 @@ Hält sich eine mit dem Kind oder dem Jugendlichen verwandte Person im Inland od
 
 (3) Bis zum 1. Mai 2017 wird die Aufnahmepflicht durch einen Abgleich der aktuellen Anzahl unbegleiteter ausländischer Minderjähriger in den Ländern mit der Aufnahmequote nach Absatz 1 werktäglich ermittelt.
 
-
-## § 42d – Übergangsregelung
+# § 42d – Übergangsregelung
 
 (1) Kann ein Land die Anzahl von unbegleiteten ausländischen Kindern oder Jugendlichen, die seiner Aufnahmequote nach § 42c entspricht, nicht aufnehmen, so kann es dies gegenüber dem Bundesverwaltungsamt anzeigen.
 
@@ -1683,13 +1629,11 @@ Hält sich eine mit dem Kind oder dem Jugendlichen verwandte Person im Inland od
 
 (5) Die Geltendmachung des Anspruchs des örtlichen Trägers gegenüber dem nach § 89d Absatz 3 erstattungspflichtigen Land auf Erstattung der Kosten, die nach dem 1. November 2015 entstanden sind, ist ausgeschlossen. Die Erstattung dieser Kosten richtet sich nach § 89d Absatz 1.
 
-
-## § 42e – Berichtspflicht
+# § 42e – Berichtspflicht
 
 Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht über die Situation unbegleiteter ausländischer Minderjähriger in Deutschland vorzulegen.
 
-
-## § 42f – Behördliches Verfahren zur Altersfeststellung
+# § 42f – Behördliches Verfahren zur Altersfeststellung
 
 (1) Das Jugendamt hat im Rahmen der vorläufigen Inobhutnahme der ausländischen Person gemäß § 42a deren Minderjährigkeit durch Einsichtnahme in deren Ausweispapiere festzustellen oder hilfsweise mittels einer qualifizierten Inaugenscheinnahme einzuschätzen und festzustellen. § 8 Absatz 1 und § 42 Absatz 2 Satz 2 sind entsprechend anzuwenden.
 
@@ -1697,8 +1641,7 @@ Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht über di
 
 (3) Widerspruch und Klage gegen die Entscheidung des Jugendamts, aufgrund der Altersfeststellung nach dieser Vorschrift die vorläufige Inobhutnahme nach § 42a oder die Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3 abzulehnen oder zu beenden, haben keine aufschiebende Wirkung. Landesrecht kann bestimmen, dass gegen diese Entscheidung Klage ohne Nachprüfung in einem Vorverfahren nach § 68 der Verwaltungsgerichtsordnung erhoben werden kann.
 
-
-## § 43 – Erlaubnis zur Kindertagespflege
+# § 43 – Erlaubnis zur Kindertagespflege
 
 (1) Eine Person, die ein Kind oder mehrere Kinder außerhalb des Haushalts des Erziehungsberechtigten während eines Teils des Tages und mehr als 15 Stunden wöchentlich gegen Entgelt länger als drei Monate betreuen will, bedarf der Erlaubnis.
 
@@ -1716,8 +1659,7 @@ Sie sollen über vertiefte Kenntnisse hinsichtlich der Anforderungen der Kindert
 
 (5) Das Nähere regelt das Landesrecht.
 
-
-## § 44 – Erlaubnis zur Vollzeitpflege
+# § 44 – Erlaubnis zur Vollzeitpflege
 
 (1) Wer ein Kind oder einen Jugendlichen über Tag und Nacht in seinem Haushalt aufnehmen will (Pflegeperson), bedarf der Erlaubnis. Einer Erlaubnis bedarf nicht, wer ein Kind oder einen Jugendlichen
 
@@ -1741,8 +1683,7 @@ Sie sollen über vertiefte Kenntnisse hinsichtlich der Anforderungen der Kindert
 
 (4) Wer ein Kind oder einen Jugendlichen in erlaubnispflichtige Familienpflege aufgenommen hat, hat das Jugendamt über wichtige Ereignisse zu unterrichten, die das Wohl des Kindes oder des Jugendlichen betreffen.
 
-
-## § 45 – Erlaubnis für den Betrieb einer Einrichtung
+# § 45 – Erlaubnis für den Betrieb einer Einrichtung
 
 (1) Der Träger einer Einrichtung, in der Kinder oder Jugendliche ganztägig oder für einen Teil des Tages betreut werden oder Unterkunft erhalten, bedarf für den Betrieb der Einrichtung der Erlaubnis. Einer Erlaubnis bedarf nicht, wer
 
@@ -1774,15 +1715,13 @@ Sie sollen über vertiefte Kenntnisse hinsichtlich der Anforderungen der Kindert
 
 (7) Die Erlaubnis ist zurückzunehmen oder zu widerrufen, wenn das Wohl der Kinder oder der Jugendlichen in der Einrichtung gefährdet und der Träger der Einrichtung nicht bereit oder nicht in der Lage ist, die Gefährdung abzuwenden. Widerspruch und Anfechtungsklage gegen die Rücknahme oder den Widerruf der Erlaubnis haben keine aufschiebende Wirkung.
 
-
-## § 46 – Örtliche Prüfung
+# § 46 – Örtliche Prüfung
 
 (1) Die zuständige Behörde soll nach den Erfordernissen des Einzelfalls an Ort und Stelle überprüfen, ob die Voraussetzungen für die Erteilung der Erlaubnis weiter bestehen. Der Träger der Einrichtung soll bei der örtlichen Prüfung mitwirken. Sie soll das Jugendamt und einen zentralen Träger der freien Jugendhilfe, wenn diesem der Träger der Einrichtung angehört, an der Überprüfung beteiligen.
 
 (2) Die von der zuständigen Behörde mit der Überprüfung der Einrichtung beauftragten Personen sind berechtigt, die für die Einrichtung benutzten Grundstücke und Räume, soweit diese nicht einem Hausrecht der Bewohner unterliegen, während der Tageszeit zu betreten, dort Prüfungen und Besichtigungen vorzunehmen, sich mit den Kindern und Jugendlichen in Verbindung zu setzen und die Beschäftigten zu befragen. Zur Abwehr von Gefahren für das Wohl der Kinder und der Jugendlichen können die Grundstücke und Räume auch außerhalb der in Satz 1 genannten Zeit und auch, wenn sie zugleich einem Hausrecht der Bewohner unterliegen, betreten werden. Der Träger der Einrichtung hat die Maßnahmen nach den Sätzen 1 und 2 zu dulden.
 
-
-## § 47 – Meldepflichten
+# § 47 – Meldepflichten
 
 Der Träger einer erlaubnispflichtigen Einrichtung hat der zuständigen Behörde unverzüglich
 
@@ -1794,25 +1733,21 @@ Der Träger einer erlaubnispflichtigen Einrichtung hat der zuständigen Behörde
 
 anzuzeigen. Änderungen der in Nummer 1 bezeichneten Angaben sowie der Konzeption sind der zuständigen Behörde unverzüglich, die Zahl der belegten Plätze ist jährlich einmal zu melden.
 
-
-## § 48 – Tätigkeitsuntersagung
+# § 48 – Tätigkeitsuntersagung
 
 Die zuständige Behörde kann dem Träger einer erlaubnispflichtigen Einrichtung die weitere Beschäftigung des Leiters, eines Beschäftigten oder sonstigen Mitarbeiters ganz oder für bestimmte Funktionen oder Tätigkeiten untersagen, wenn Tatsachen die Annahme rechtfertigen, dass er die für seine Tätigkeit erforderliche Eignung nicht besitzt.
 
-
-## § 48a – Sonstige betreute Wohnform
+# § 48a – Sonstige betreute Wohnform
 
 (1) Für den Betrieb einer sonstigen Wohnform, in der Kinder oder Jugendliche betreut werden oder Unterkunft erhalten, gelten die §§ 45 bis 48 entsprechend.
 
 (2) Ist die sonstige Wohnform organisatorisch mit einer Einrichtung verbunden, so gilt sie als Teil der Einrichtung.
 
-
-## § 49 – Landesrechtsvorbehalt
+# § 49 – Landesrechtsvorbehalt
 
 Das Nähere über die in diesem Abschnitt geregelten Aufgaben regelt das Landesrecht.
 
-
-## § 50 – Mitwirkung in Verfahren vor den Familiengerichten
+# § 50 – Mitwirkung in Verfahren vor den Familiengerichten
 
 (1) Das Jugendamt unterstützt das Familiengericht bei allen Maßnahmen, die die Sorge für die Person von Kindern und Jugendlichen betreffen. Es hat in folgenden Verfahren nach dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit mitzuwirken:
 
@@ -1830,8 +1765,7 @@ Das Nähere über die in diesem Abschnitt geregelten Aufgaben regelt das Landesr
 
 (3) Das Jugendamt, das in Verfahren zur Übertragung der gemeinsamen Sorge nach § 155a Absatz 4 Satz 1 und § 162 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit angehört wird oder sich am Verfahren beteiligt, teilt gerichtliche Entscheidungen, aufgrund derer die Sorge gemäß § 1626a Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs den Eltern ganz oder zum Teil gemeinsam übertragen wird, dem nach § 87c Absatz 6 Satz 2 zuständigen Jugendamt zu den in § 58a genannten Zwecken unverzüglich mit. Mitzuteilen sind auch das Geburtsdatum und der Geburtsort des Kindes oder des Jugendlichen sowie der Name, den das Kind oder der Jugendliche zur Zeit der Beurkundung seiner Geburt geführt hat.
 
-
-## § 51 – Beratung und Belehrung in Verfahren zur Annahme als Kind
+# § 51 – Beratung und Belehrung in Verfahren zur Annahme als Kind
 
 (1) Das Jugendamt hat im Verfahren zur Ersetzung der Einwilligung eines Elternteils in die Annahme nach § 1748 Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs den Elternteil über die Möglichkeit der Ersetzung der Einwilligung zu belehren. Es hat ihn darauf hinzuweisen, dass das Familiengericht die Einwilligung erst nach Ablauf von drei Monaten nach der Belehrung ersetzen darf. Der Belehrung bedarf es nicht, wenn der Elternteil seinen Aufenthaltsort ohne Hinterlassung seiner neuen Anschrift gewechselt hat und der Aufenthaltsort vom Jugendamt während eines Zeitraums von drei Monaten trotz angemessener Nachforschungen nicht ermittelt werden konnte; in diesem Fall beginnt die Frist mit der ersten auf die Belehrung oder auf die Ermittlung des Aufenthaltsorts gerichteten Handlung des Jugendamts. Die Fristen laufen frühestens fünf Monate nach der Geburt des Kindes ab.
 
@@ -1839,8 +1773,7 @@ Das Nähere über die in diesem Abschnitt geregelten Aufgaben regelt das Landesr
 
 (3) Steht nicht miteinander verheirateten Eltern die elterliche Sorge nicht gemeinsam zu, so hat das Jugendamt den Vater bei der Wahrnehmung seiner Rechte nach § 1747 Absatz 1 und 3 des Bürgerlichen Gesetzbuchs zu beraten.
 
-
-## § 52 – Mitwirkung in Verfahren nach dem Jugendgerichtsgesetz
+# § 52 – Mitwirkung in Verfahren nach dem Jugendgerichtsgesetz
 
 (1) Das Jugendamt hat nach Maßgabe der §§ 38 und 50 Absatz 3 Satz 2 des Jugendgerichtsgesetzes im Verfahren nach dem Jugendgerichtsgesetz mitzuwirken.
 
@@ -1848,8 +1781,7 @@ Das Nähere über die in diesem Abschnitt geregelten Aufgaben regelt das Landesr
 
 (3) Der Mitarbeiter des Jugendamts oder des anerkannten Trägers der freien Jugendhilfe, der nach § 38 Absatz 2 Satz 2 des Jugendgerichtsgesetzes tätig wird, soll den Jugendlichen oder den jungen Volljährigen während des gesamten Verfahrens betreuen.
 
-
-## § 52a – Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen
+# § 52a – Beratung und Unterstützung bei Vaterschaftsfeststellung und Geltendmachung von Unterhaltsansprüchen
 
 (1) Das Jugendamt hat unverzüglich nach der Geburt eines Kindes, dessen Eltern nicht miteinander verheiratet sind, der Mutter Beratung und Unterstützung insbesondere bei der Vaterschaftsfeststellung und der Geltendmachung von Unterhaltsansprüchen des Kindes anzubieten. Hierbei hat es hinzuweisen auf
 
@@ -1871,8 +1803,7 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (4) Das Standesamt hat die Geburt eines Kindes, dessen Eltern nicht miteinander verheiratet sind, unverzüglich dem Jugendamt anzuzeigen.
 
-
-## § 53 – Beratung und Unterstützung von Pflegern und Vormündern
+# § 53 – Beratung und Unterstützung von Pflegern und Vormündern
 
 (1) Das Jugendamt hat dem Familiengericht Personen und Vereine vorzuschlagen, die sich im Einzelfall zum Pfleger oder Vormund eignen.
 
@@ -1882,8 +1813,7 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (4) Für die Gegenvormundschaft gelten die Absätze 1 und 2 entsprechend. Ist ein Verein Vormund, so findet Absatz 3 keine Anwendung.
 
-
-## § 54 – Erlaubnis zur Übernahme von Vereinsvormundschaften
+# § 54 – Erlaubnis zur Übernahme von Vereinsvormundschaften
 
 (1) Ein rechtsfähiger Verein kann Pflegschaften oder Vormundschaften übernehmen, wenn ihm das Landesjugendamt dazu eine Erlaubnis erteilt hat. Er kann eine Beistandschaft übernehmen, soweit Landesrecht dies vorsieht.
 
@@ -1899,8 +1829,7 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (4) Das Nähere regelt das Landesrecht. Es kann auch weitere Voraussetzungen für die Erteilung der Erlaubnis vorsehen.
 
-
-## § 55 – Beistandschaft, Amtspflegschaft und Amtsvormundschaft
+# § 55 – Beistandschaft, Amtspflegschaft und Amtsvormundschaft
 
 (1) Das Jugendamt wird Beistand, Pfleger oder Vormund in den durch das Bürgerliche Gesetzbuch vorgesehenen Fällen (Beistandschaft, Amtspflegschaft, Amtsvormundschaft).
 
@@ -1908,8 +1837,7 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (3) Die Übertragung gehört zu den Angelegenheiten der laufenden Verwaltung. In dem durch die Übertragung umschriebenen Rahmen ist der Beamte oder Angestellte gesetzlicher Vertreter des Kindes oder Jugendlichen. Amtspfleger und Amtsvormund haben den persönlichen Kontakt zu diesem zu halten sowie dessen Pflege und Erziehung nach Maßgabe des § 1793 Absatz 1a und § 1800 des Bürgerlichen Gesetzbuchs persönlich zu fördern und zu gewährleisten.
 
-
-## § 56 – Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft
+# § 56 – Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft
 
 (1) Auf die Führung der Beistandschaft, der Amtspflegschaft und der Amtsvormundschaft sind die Bestimmungen des Bürgerlichen Gesetzbuchs anzuwenden, soweit dieses Gesetz nicht etwas anderes bestimmt.
 
@@ -1919,18 +1847,15 @@ Das Jugendamt hat der Mutter ein persönliches Gespräch anzubieten. Das Gesprä
 
 (4) Das Jugendamt hat in der Regel jährlich zu prüfen, ob im Interesse des Kindes oder des Jugendlichen seine Entlassung als Amtspfleger oder Amtsvormund und die Bestellung einer Einzelperson oder eines Vereins angezeigt ist, und dies dem Familiengericht mitzuteilen.
 
-
-## § 57 – Mitteilungspflicht des Jugendamts
+# § 57 – Mitteilungspflicht des Jugendamts
 
 Das Jugendamt hat dem Familiengericht unverzüglich den Eintritt einer Vormundschaft mitzuteilen.
 
-
-## § 58 – Gegenvormundschaft des Jugendamts
+# § 58 – Gegenvormundschaft des Jugendamts
 
 Für die Tätigkeit des Jugendamts als Gegenvormund gelten die §§ 55 und 56 entsprechend.
 
-
-## § 58a – Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister
+# § 58a – Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister
 
 (1) Zum Zwecke der Erteilung der Bescheinigung nach Absatz 2 wird für Kinder nicht miteinander verheirateter Eltern bei dem nach § 87c Absatz 6 Satz 2 zuständigen Jugendamt ein Sorgeregister geführt. In das Sorgeregister erfolgt jeweils eine Eintragung, wenn
 
@@ -1942,8 +1867,7 @@ Das Sorgeregister enthält auch Eintragungen, wenn Sorgeerklärungen nach Artike
 
 (2) Liegen keine Eintragungen im Sorgeregister vor, so erhält die mit dem Vater des Kindes nicht verheiratete Mutter auf Antrag hierüber eine Bescheinigung von dem nach § 87c Absatz 6 Satz 1 zuständigen Jugendamt. Die Mutter hat dafür Geburtsdatum und Geburtsort des Kindes oder des Jugendlichen anzugeben sowie den Namen, den das Kind oder der Jugendliche zur Zeit der Beurkundung seiner Geburt geführt hat.
 
-
-## § 59 – Beurkundung
+# § 59 – Beurkundung
 
 (1) Die Urkundsperson beim Jugendamt ist befugt,
 
@@ -1971,8 +1895,7 @@ Die Zuständigkeit der Notare, anderer Urkundspersonen oder sonstiger Stellen f�
 
 (3) Das Jugendamt hat geeignete Beamte und Angestellte zur Wahrnehmung der Aufgaben nach Absatz 1 zu ermächtigen. Die Länder können Näheres hinsichtlich der fachlichen Anforderungen an diese Personen regeln.
 
-
-## § 60 – Vollstreckbare Urkunden
+# § 60 – Vollstreckbare Urkunden
 
 Aus Urkunden, die eine Verpflichtung nach § 59 Absatz 1 Satz 1 Nummer 3 oder 4 zum Gegenstand haben und die von einem Beamten oder Angestellten des Jugendamts innerhalb der Grenzen seiner Amtsbefugnisse in der vorgeschriebenen Form aufgenommen worden sind, findet die Zwangsvollstreckung statt, wenn die Erklärung die Zahlung einer bestimmten Geldsumme betrifft und der Schuldner sich in der Urkunde der sofortigen Zwangsvollstreckung unterworfen hat. Die Zustellung kann auch dadurch vollzogen werden, dass der Beamte oder Angestellte dem Schuldner eine beglaubigte Abschrift der Urkunde aushändigt; § 173 Satz 2 und 3 der Zivilprozessordnung gilt entsprechend. Auf die Zwangsvollstreckung sind die Vorschriften, die für die Zwangsvollstreckung aus gerichtlichen Urkunden nach § 794 Absatz 1 Nummer 5 der Zivilprozessordnung gelten, mit folgenden Maßgaben entsprechend anzuwenden:
 
@@ -1980,8 +1903,7 @@ Aus Urkunden, die eine Verpflichtung nach § 59 Absatz 1 Satz 1 Nummer 3 oder 4 
 
 2. Über Einwendungen, die die Zulässigkeit der Vollstreckungsklausel oder die Zulässigkeit der Bezifferung nach § 790 der Zivilprozessordnung betreffen, über die Erteilung einer weiteren vollstreckbaren Ausfertigung sowie über Anträge nach § 1081 der Zivilprozessordnung entscheidet das für das Jugendamt zuständige Amtsgericht.
 
-
-## § 61 – Anwendungsbereich
+# § 61 – Anwendungsbereich
 
 (1) Für den Schutz von Sozialdaten bei ihrer Verarbeitung in der Jugendhilfe gelten § 35 des Ersten Buches, §§ 67 bis 85a des Zehnten Buches sowie die nachfolgenden Vorschriften. Sie gelten für alle Stellen des Trägers der öffentlichen Jugendhilfe, soweit sie Aufgaben nach diesem Buch wahrnehmen. Für die Wahrnehmung von Aufgaben nach diesem Buch durch kreisangehörige Gemeinden und Gemeindeverbände, die nicht örtliche Träger sind, gelten die Sätze 1 und 2 entsprechend.
 
@@ -1989,8 +1911,7 @@ Aus Urkunden, die eine Verpflichtung nach § 59 Absatz 1 Satz 1 Nummer 3 oder 4 
 
 (3) Werden Einrichtungen und Dienste der Träger der freien Jugendhilfe in Anspruch genommen, so ist sicherzustellen, dass der Schutz der personenbezogenen Daten bei der Verarbeitung in entsprechender Weise gewährleistet ist.
 
-
-## § 62 – Datenerhebung
+# § 62 – Datenerhebung
 
 (1) Sozialdaten dürfen nur erhoben werden, soweit ihre Kenntnis zur Erfüllung der jeweiligen Aufgabe erforderlich ist.
 
@@ -2016,15 +1937,13 @@ d) die Erfüllung des Schutzauftrags bei Kindeswohlgefährdung nach § 8a oder
 
 (4) Ist die betroffene Person nicht zugleich Leistungsberechtigter oder sonst an der Leistung beteiligt, so dürfen die Daten auch beim Leistungsberechtigten oder einer anderen Person, die sonst an der Leistung beteiligt ist, erhoben werden, wenn die Kenntnis der Daten für die Gewährung einer Leistung nach diesem Buch notwendig ist. Satz 1 gilt bei der Erfüllung anderer Aufgaben im Sinne des § 2 Absatz 3 entsprechend.
 
-
-## § 63 – Datenspeicherung
+# § 63 – Datenspeicherung
 
 (1) Sozialdaten dürfen gespeichert werden, soweit dies für die Erfüllung der jeweiligen Aufgabe erforderlich ist.
 
 (2) Daten, die zur Erfüllung unterschiedlicher Aufgaben der öffentlichen Jugendhilfe erhoben worden sind, dürfen nur zusammengeführt werden, wenn und solange dies wegen eines unmittelbaren Sachzusammenhangs erforderlich ist. Daten, die zu Leistungszwecken im Sinne des § 2 Absatz 2 und Daten, die für andere Aufgaben im Sinne des § 2 Absatz 3 erhoben worden sind, dürfen nur zusammengeführt werden, soweit dies zur Erfüllung der jeweiligen Aufgabe erforderlich ist.
 
-
-## § 64 – Datenübermittlung und -nutzung
+# § 64 – Datenübermittlung und -nutzung
 
 (1) Sozialdaten dürfen zu dem Zweck übermittelt oder genutzt werden, zu dem sie erhoben worden sind.
 
@@ -2034,8 +1953,7 @@ d) die Erfüllung des Schutzauftrags bei Kindeswohlgefährdung nach § 8a oder
 
 (3) Sozialdaten dürfen beim Träger der öffentlichen Jugendhilfe zum Zwecke der Planung im Sinne des § 80 gespeichert oder genutzt werden; sie sind unverzüglich zu anonymisieren.
 
-
-## § 65 – Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe
+# § 65 – Besonderer Vertrauensschutz in der persönlichen und erzieherischen Hilfe
 
 (1) Sozialdaten, die dem Mitarbeiter eines Trägers der öffentlichen Jugendhilfe zum Zwecke persönlicher und erzieherischer Hilfe anvertraut worden sind, dürfen von diesem nur weitergegeben oder übermittelt werden
 
@@ -2053,14 +1971,11 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (2) § 35 Absatz 3 des Ersten Buches gilt auch, soweit ein behördeninternes Weitergabeverbot nach Absatz 1 besteht.
 
+# § 66 – (weggefallen)
 
-## § 66 – (weggefallen)
+# § 67 – (weggefallen)
 
-
-## § 67 – (weggefallen)
-
-
-## § 68 – Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft
+# § 68 – Sozialdaten im Bereich der Beistandschaft, Amtspflegschaft und der Amtsvormundschaft
 
 (1) Der Beamte oder Angestellte, dem die Ausübung der Beistandschaft, Amtspflegschaft oder Amtsvormundschaft übertragen ist, darf Sozialdaten nur verarbeiten, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist. Die Nutzung dieser Sozialdaten zum Zwecke der Aufsicht, Kontrolle oder Rechnungsprüfung durch die dafür zuständigen Stellen sowie die Übermittlung an diese ist im Hinblick auf den Einzelfall zulässig. Die Informationspflichten nach Artikel 13 und 14 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung bestehen nur, soweit die Erteilung der Informationen
 
@@ -2076,8 +1991,7 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (5) Für die Tätigkeit des Jugendamts als Gegenvormund gelten die Absätze 1 bis 4 entsprechend.
 
-
-## § 69 – Träger der öffentlichen Jugendhilfe, Jugendämter, Landesjugendämter
+# § 69 – Träger der öffentlichen Jugendhilfe, Jugendämter, Landesjugendämter
 
 (1) Die Träger der öffentlichen Jugendhilfe werden durch Landesrecht bestimmt.
 
@@ -2087,11 +2001,10 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (4) Mehrere örtliche Träger und mehrere überörtliche Träger können, auch wenn sie verschiedenen Ländern angehören, zur Durchführung einzelner Aufgaben gemeinsame Einrichtungen und Dienste errichten.
 
-§ 69 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Niedersachsen - Abweichung durch [§ 9 Abs. 2 Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes (KJHGAG ND)](../abweichendes_Landesrecht/kjhgag_nd__9.html "Anzeige in neuem Fenster") idF d. Art. 12 G v. 15.12.2006, GVBl Nds 2006, 597 mWv 1.1.2007 (vgl. BGBl I 2009, 463)  
+§ 69 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Niedersachsen - Abweichung durch [§ 9 Abs. 2 Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes (KJHGAG ND)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/kjhgag_nd__9.html "Anzeige in neuem Fenster") idF d. Art. 12 G v. 15.12.2006, GVBl Nds 2006, 597 mWv 1.1.2007 (vgl. BGBl I 2009, 463)  
 § 69 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch § 1 Abs. 1 u. 2 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG) idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)
 
-
-## § 70 – Organisation des Jugendamts und des Landesjugendamts
+# § 70 – Organisation des Jugendamts und des Landesjugendamts
 
 (1) Die Aufgaben des Jugendamts werden durch den Jugendhilfeausschuss und durch die Verwaltung des Jugendamts wahrgenommen.
 
@@ -2099,11 +2012,10 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (3) Die Aufgaben des Landesjugendamts werden durch den Landesjugendhilfeausschuss und durch die Verwaltung des Landesjugendamts im Rahmen der Satzung und der dem Landesjugendamt zur Verfügung gestellten Mittel wahrgenommen. Die Geschäfte der laufenden Verwaltung werden von dem Leiter der Verwaltung des Landesjugendamts im Rahmen der Satzung und der Beschlüsse des Landesjugendhilfeausschusses geführt.
 
-§ 70 Abs. 1 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch [§ 2 Abs. 1 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG)](../abweichendes_Landesrecht/sgb8ag1_br__2.html "Anzeige in neuem Fenster") idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)  
-§ 70 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch [§ 3 Abs. 1 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG)](../abweichendes_Landesrecht/sgb8ag1_br__3.html "Anzeige in neuem Fenster") idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)
+§ 70 Abs. 1 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch [§ 2 Abs. 1 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/sgb8ag1_br__2.html "Anzeige in neuem Fenster") idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)  
+§ 70 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Bremen - Abweichung durch [§ 3 Abs. 1 Erstes Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch - Gesetz zur Ausführung des Kinder- und Jugendhilfegesetzes im Lande Bremen (BremAGKJHG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/sgb8ag1_br__3.html "Anzeige in neuem Fenster") idF d. Art. 1 G v. 20.10.2015, Brem.GBl. S. 471 mWv 23.10.2015 (vgl. BGBl I 2016, 2195)
 
-
-## § 71 – Jugendhilfeausschuss, Landesjugendhilfeausschuss
+# § 71 – Jugendhilfeausschuss, Landesjugendhilfeausschuss
 
 (1) Dem Jugendhilfeausschuss gehören als stimmberechtigte Mitglieder an
 
@@ -2125,10 +2037,9 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (5) Das Nähere regelt das Landesrecht. Es regelt die Zugehörigkeit beratender Mitglieder zum Jugendhilfeausschuss. Es kann bestimmen, dass der Leiter der Verwaltung der Gebietskörperschaft oder der Leiter der Verwaltung des Jugendamts nach Absatz 1 Nummer 1 stimmberechtigt ist.
 
-§ 71 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Baden-Württemberg - Abweichung durch [§ 2 Abs. 1 Kinder- und Jugendhilfegesetz (KJHG BW)](../abweichendes_Landesrecht/kjhg_bw__2.html "Anzeige in neuem Fenster") v. 19.4.1996 GBl BW 1996, 457 mWv 1.1.2009 (vgl. BGBl I 2009, 744)
+§ 71 Abs. 3 idF d. Bek. v. 14.12.2006 I 3134: Baden-Württemberg - Abweichung durch [§ 2 Abs. 1 Kinder- und Jugendhilfegesetz (KJHG BW)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/kjhg_bw__2.html "Anzeige in neuem Fenster") v. 19.4.1996 GBl BW 1996, 457 mWv 1.1.2009 (vgl. BGBl I 2009, 744)
 
-
-## § 72 – Mitarbeiter, Fortbildung
+# § 72 – Mitarbeiter, Fortbildung
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen bei den Jugendämtern und Landesjugendämtern hauptberuflich nur Personen beschäftigen, die sich für die jeweilige Aufgabe nach ihrer Persönlichkeit eignen und eine dieser Aufgabe entsprechende Ausbildung erhalten haben (Fachkräfte) oder auf Grund besonderer Erfahrungen in der sozialen Arbeit in der Lage sind, die Aufgabe zu erfüllen. Soweit die jeweilige Aufgabe dies erfordert, sind mit ihrer Wahrnehmung nur Fachkräfte oder Fachkräfte mit entsprechender Zusatzausbildung zu betrauen. Fachkräfte verschiedener Fachrichtungen sollen zusammenwirken, soweit die jeweilige Aufgabe dies erfordert.
 
@@ -2136,8 +2047,7 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (3) Die Träger der öffentlichen Jugendhilfe haben Fortbildung und Praxisberatung der Mitarbeiter des Jugendamts und des Landesjugendamts sicherzustellen.
 
-
-## § 72a – Tätigkeitsausschluss einschlägig vorbestrafter Personen
+# § 72a – Tätigkeitsausschluss einschlägig vorbestrafter Personen
 
 (1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen oder vermitteln, die rechtskräftig wegen einer Straftat nach den §§ 171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 184i, 184k, 201a Absatz 3, den §§ 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden ist. Zu diesem Zweck sollen sie sich bei der Einstellung oder Vermittlung und in regelmäßigen Abständen von den betroffenen Personen ein Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen.
 
@@ -2149,13 +2059,11 @@ Der Empfänger darf die Sozialdaten nur zu dem Zweck weitergeben oder übermitte
 
 (5) Träger der öffentlichen und freien Jugendhilfe dürfen von den nach den Absätzen 3 und 4 eingesehenen Daten nur den Umstand, dass Einsicht in ein Führungszeugnis genommen wurde, das Datum des Führungszeugnisses und die Information erheben, ob die das Führungszeugnis betreffende Person wegen einer Straftat nach Absatz 1 Satz 1 rechtskräftig verurteilt worden ist. Die Träger der öffentlichen und freien Jugendhilfe dürfen diese erhobenen Daten nur speichern, verändern und nutzen, soweit dies zum Ausschluss der Personen von der Tätigkeit, die Anlass zu der Einsichtnahme in das Führungszeugnis gewesen ist, erforderlich ist. Die Daten sind vor dem Zugriff Unbefugter zu schützen. Sie sind unverzüglich zu löschen, wenn im Anschluss an die Einsichtnahme keine Tätigkeit nach Absatz 3 Satz 2 oder Absatz 4 Satz 2 wahrgenommen wird. Andernfalls sind die Daten spätestens drei Monate nach der Beendigung einer solchen Tätigkeit zu löschen.
 
-
-## § 73 – Ehrenamtliche Tätigkeit
+# § 73 – Ehrenamtliche Tätigkeit
 
 In der Jugendhilfe ehrenamtlich tätige Personen sollen bei ihrer Tätigkeit angeleitet, beraten und unterstützt werden.
 
-
-## § 74 – Förderung der freien Jugendhilfe
+# § 74 – Förderung der freien Jugendhilfe
 
 (1) Die Träger der öffentlichen Jugendhilfe sollen die freiwillige Tätigkeit auf dem Gebiet der Jugendhilfe anregen; sie sollen sie fördern, wenn der jeweilige Träger
 
@@ -2181,13 +2089,11 @@ Eine auf Dauer angelegte Förderung setzt in der Regel die Anerkennung als Träg
 
 (6) Die Förderung von anerkannten Trägern der Jugendhilfe soll auch Mittel für die Fortbildung der haupt-, neben- und ehrenamtlichen Mitarbeiter sowie im Bereich der Jugendarbeit Mittel für die Errichtung und Unterhaltung von Jugendfreizeit- und Jugendbildungsstätten einschließen.
 
-
-## § 74a – Finanzierung von Tageseinrichtungen für Kinder
+# § 74a – Finanzierung von Tageseinrichtungen für Kinder
 
 Die Finanzierung von Tageseinrichtungen regelt das Landesrecht. Dabei können alle Träger von Einrichtungen, die die rechtlichen und fachlichen Voraussetzungen für den Betrieb der Einrichtung erfüllen, gefördert werden. Die Erhebung von Teilnahmebeiträgen nach § 90 bleibt unberührt.
 
-
-## § 75 – Anerkennung als Träger der freien Jugendhilfe
+# § 75 – Anerkennung als Träger der freien Jugendhilfe
 
 (1) Als Träger der freien Jugendhilfe können juristische Personen und Personenvereinigungen anerkannt werden, wenn sie
 
@@ -2203,25 +2109,21 @@ Die Finanzierung von Tageseinrichtungen regelt das Landesrecht. Dabei können al
 
 (3) Die Kirchen und Religionsgemeinschaften des öffentlichen Rechts sowie die auf Bundesebene zusammengeschlossenen Verbände der freien Wohlfahrtspflege sind anerkannte Träger der freien Jugendhilfe.
 
-
-## § 76 – Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben
+# § 76 – Beteiligung anerkannter Träger der freien Jugendhilfe an der Wahrnehmung anderer Aufgaben
 
 (1) Die Träger der öffentlichen Jugendhilfe können anerkannte Träger der freien Jugendhilfe an der Durchführung ihrer Aufgaben nach den §§ 42, 42a, 43, 50 bis 52a und 53 Absatz 2 bis 4 beteiligen oder ihnen diese Aufgaben zur Ausführung übertragen.
 
 (2) Die Träger der öffentlichen Jugendhilfe bleiben für die Erfüllung der Aufgaben verantwortlich.
 
-
-## § 77 – Vereinbarungen über die Höhe der Kosten
+# § 77 – Vereinbarungen über die Höhe der Kosten
 
 Werden Einrichtungen und Dienste der Träger der freien Jugendhilfe in Anspruch genommen, so sind Vereinbarungen über die Höhe der Kosten der Inanspruchnahme zwischen der öffentlichen und der freien Jugendhilfe anzustreben. Das Nähere regelt das Landesrecht. Die §§ 78a bis 78g bleiben unberührt.
 
-
-## § 78 – Arbeitsgemeinschaften
+# § 78 – Arbeitsgemeinschaften
 
 Die Träger der öffentlichen Jugendhilfe sollen die Bildung von Arbeitsgemeinschaften anstreben, in denen neben ihnen die anerkannten Träger der freien Jugendhilfe sowie die Träger geförderter Maßnahmen vertreten sind. In den Arbeitsgemeinschaften soll darauf hingewirkt werden, dass die geplanten Maßnahmen aufeinander abgestimmt werden und sich gegenseitig ergänzen.
 
-
-## § 78a – Anwendungsbereich
+# § 78a – Anwendungsbereich
 
 (1) Die Regelungen der §§ 78b bis 78g gelten für die Erbringung von
 
@@ -2253,8 +2155,7 @@ b) Einrichtungen über Tag und Nacht sowie sonstigen Wohnformen (§ 35a Absatz 2
 
 (2) Landesrecht kann bestimmen, dass die §§ 78b bis 78g auch für andere Leistungen nach diesem Buch sowie für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen (§ 42) gelten.
 
-
-## § 78b – Voraussetzungen für die Übernahme des Leistungsentgelts
+# § 78b – Voraussetzungen für die Übernahme des Leistungsentgelts
 
 (1) Wird die Leistung ganz oder teilweise in einer Einrichtung erbracht, so ist der Träger der öffentlichen Jugendhilfe zur Übernahme des Entgelts gegenüber dem Leistungsberechtigten verpflichtet, wenn mit dem Träger der Einrichtung oder seinem Verband Vereinbarungen über
 
@@ -2276,8 +2177,7 @@ abgeschlossen worden sind.
 
 (3) Ist eine der Vereinbarungen nach Absatz 1 nicht abgeschlossen, so ist der Träger der öffentlichen Jugendhilfe zur Übernahme des Leistungsentgelts nur verpflichtet, wenn dies insbesondere nach Maßgabe der Hilfeplanung (§ 36) im Einzelfall geboten ist.
 
-
-## § 78c – Inhalt der Leistungs- und Entgeltvereinbarungen
+# § 78c – Inhalt der Leistungs- und Entgeltvereinbarungen
 
 (1) Die Leistungsvereinbarung muss die wesentlichen Leistungsmerkmale, insbesondere
 
@@ -2295,8 +2195,7 @@ festlegen. In die Vereinbarung ist aufzunehmen, unter welchen Voraussetzungen de
 
 (2) Die Entgelte müssen leistungsgerecht sein. Grundlage der Entgeltvereinbarung sind die in der Leistungs- und der Qualitätsentwicklungsvereinbarung festgelegten Leistungs- und Qualitätsmerkmale. Eine Erhöhung der Vergütung für Investitionen kann nur dann verlangt werden, wenn der zuständige Träger der öffentlichen Jugendhilfe der Investitionsmaßnahme vorher zugestimmt hat. Förderungen aus öffentlichen Mitteln sind anzurechnen.
 
-
-## § 78d – Vereinbarungszeitraum
+# § 78d – Vereinbarungszeitraum
 
 (1) Die Vereinbarungen nach § 78b Absatz 1 sind für einen zukünftigen Zeitraum (Vereinbarungszeitraum) abzuschließen. Nachträgliche Ausgleiche sind nicht zulässig.
 
@@ -2306,8 +2205,7 @@ festlegen. In die Vereinbarung ist aufzunehmen, unter welchen Voraussetzungen de
 
 (4) Vereinbarungen über die Erbringung von Leistungen nach § 78a Absatz 1, die vor dem 1. Januar 1999 abgeschlossen worden sind, gelten bis zum Inkrafttreten neuer Vereinbarungen weiter.
 
-
-## § 78e – Örtliche Zuständigkeit für den Abschluss von Vereinbarungen
+# § 78e – Örtliche Zuständigkeit für den Abschluss von Vereinbarungen
 
 (1) Soweit Landesrecht nicht etwas anderes bestimmt, ist für den Abschluss von Vereinbarungen nach § 78b Absatz 1 der örtliche Träger der Jugendhilfe zuständig, in dessen Bereich die Einrichtung gelegen ist. Die von diesem Träger abgeschlossenen Vereinbarungen sind für alle örtlichen Träger bindend.
 
@@ -2315,13 +2213,11 @@ festlegen. In die Vereinbarung ist aufzunehmen, unter welchen Voraussetzungen de
 
 (3) Die kommunalen Spitzenverbände auf Landesebene und die Verbände der Träger der freien Jugendhilfe sowie die Vereinigungen sonstiger Leistungserbringer im jeweiligen Land können regionale oder landesweite Kommissionen bilden. Die Kommissionen können im Auftrag der Mitglieder der in Satz 1 genannten Verbände und Vereinigungen Vereinbarungen nach § 78b Absatz 1 schließen. Landesrecht kann die Beteiligung der für die Wahrnehmung der Aufgaben nach § 85 Absatz 2 Nummer 5 und 6 zuständigen Behörde vorsehen.
 
-
-## § 78f – Rahmenverträge
+# § 78f – Rahmenverträge
 
 Die kommunalen Spitzenverbände auf Landesebene schließen mit den Verbänden der Träger der freien Jugendhilfe und den Vereinigungen sonstiger Leistungserbringer auf Landesebene Rahmenverträge über den Inhalt der Vereinbarungen nach § 78b Absatz 1. Die für die Wahrnehmung der Aufgaben nach § 85 Absatz 2 Nummer 5 und 6 zuständigen Behörden sind zu beteiligen.
 
-
-## § 78g – Schiedsstelle
+# § 78g – Schiedsstelle
 
 (1) In den Ländern sind Schiedsstellen für Streit- und Konfliktfälle einzurichten. Sie sind mit einem unparteiischen Vorsitzenden und mit einer gleichen Zahl von Vertretern der Träger der öffentlichen Jugendhilfe sowie von Vertretern der Träger der Einrichtungen zu besetzen. Der Zeitaufwand der Mitglieder ist zu entschädigen, bare Auslagen sind zu erstatten. Für die Inanspruchnahme der Schiedsstellen können Gebühren erhoben werden.
 
@@ -2341,8 +2237,7 @@ Die kommunalen Spitzenverbände auf Landesebene schließen mit den Verbänden de
 
 5. die Rechtsaufsicht.
 
-
-## § 79 – Gesamtverantwortung, Grundausstattung
+# § 79 – Gesamtverantwortung, Grundausstattung
 
 (1) Die Träger der öffentlichen Jugendhilfe haben für die Erfüllung der Aufgaben nach diesem Buch die Gesamtverantwortung einschließlich der Planungsverantwortung.
 
@@ -2356,8 +2251,7 @@ Von den für die Jugendhilfe bereitgestellten Mitteln haben sie einen angemessen
 
 (3) Die Träger der öffentlichen Jugendhilfe haben für eine ausreichende Ausstattung der Jugendämter und der Landesjugendämter zu sorgen; hierzu gehört auch eine dem Bedarf entsprechende Zahl von Fachkräften.
 
-
-## § 79a – Qualitätsentwicklung in der Kinder- und Jugendhilfe
+# § 79a – Qualitätsentwicklung in der Kinder- und Jugendhilfe
 
 Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen, haben die Träger der öffentlichen Jugendhilfe Grundsätze und Maßstäbe für die Bewertung der Qualität sowie geeignete Maßnahmen zu ihrer Gewährleistung für
 
@@ -2371,8 +2265,7 @@ Um die Aufgaben der Kinder- und Jugendhilfe nach § 2 zu erfüllen, haben die Tr
 
 weiterzuentwickeln, anzuwenden und regelmäßig zu überprüfen. Dazu zählen auch Qualitätsmerkmale für die Sicherung der Rechte von Kindern und Jugendlichen in Einrichtungen und ihren Schutz vor Gewalt. Die Träger der öffentlichen Jugendhilfe orientieren sich dabei an den fachlichen Empfehlungen der nach § 85 Absatz 2 zuständigen Behörden und an bereits angewandten Grundsätzen und Maßstäben für die Bewertung der Qualität sowie Maßnahmen zu ihrer Gewährleistung.
 
-
-## § 80 – Jugendhilfeplanung
+# § 80 – Jugendhilfeplanung
 
 (1) Die Träger der öffentlichen Jugendhilfe haben im Rahmen ihrer Planungsverantwortung
 
@@ -2396,8 +2289,7 @@ weiterzuentwickeln, anzuwenden und regelmäßig zu überprüfen. Dazu zählen au
 
 (4) Die Träger der öffentlichen Jugendhilfe sollen darauf hinwirken, dass die Jugendhilfeplanung und andere örtliche und überörtliche Planungen aufeinander abgestimmt werden und die Planungen insgesamt den Bedürfnissen und Interessen der jungen Menschen und ihrer Familien Rechnung tragen.
 
-
-## § 81 – Strukturelle Zusammenarbeit mit anderen Stellen und öffentlichen Einrichtungen
+# § 81 – Strukturelle Zusammenarbeit mit anderen Stellen und öffentlichen Einrichtungen
 
 Die Träger der öffentlichen Jugendhilfe haben mit anderen Stellen und öffentlichen Einrichtungen, deren Tätigkeit sich auf die Lebenssituation junger Menschen und ihrer Familien auswirkt, insbesondere mit
 
@@ -2427,29 +2319,25 @@ Die Träger der öffentlichen Jugendhilfe haben mit anderen Stellen und öffentl
 
 im Rahmen ihrer Aufgaben und Befugnisse zusammenzuarbeiten.
 
-
-## § 82 – Aufgaben der Länder
+# § 82 – Aufgaben der Länder
 
 (1) Die oberste Landesjugendbehörde hat die Tätigkeit der Träger der öffentlichen und der freien Jugendhilfe und die Weiterentwicklung der Jugendhilfe anzuregen und zu fördern.
 
 (2) Die Länder haben auf einen gleichmäßigen Ausbau der Einrichtungen und Angebote hinzuwirken und die Jugendämter und Landesjugendämter bei der Wahrnehmung ihrer Aufgaben zu unterstützen.
 
-
-## § 83 – Aufgaben des Bundes, Bundesjugendkuratorium
+# § 83 – Aufgaben des Bundes, Bundesjugendkuratorium
 
 (1) Die fachlich zuständige oberste Bundesbehörde soll die Tätigkeit der Jugendhilfe anregen und fördern, soweit sie von überregionaler Bedeutung ist und ihrer Art nach nicht durch ein Land allein wirksam gefördert werden kann. Hierzu gehören auch die überregionalen Tätigkeiten der Jugendorganisationen der politischen Parteien auf dem Gebiet der Jugendarbeit.
 
 (2) Die Bundesregierung wird in grundsätzlichen Fragen der Jugendhilfe von einem Sachverständigengremium (Bundesjugendkuratorium) beraten. Das Nähere regelt die Bundesregierung durch Verwaltungsvorschriften.
 
-
-## § 84 – Jugendbericht
+# § 84 – Jugendbericht
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag und dem Bundesrat in jeder Legislaturperiode einen Bericht über die Lage junger Menschen und die Bestrebungen und Leistungen der Jugendhilfe vor. Neben der Bestandsaufnahme und Analyse sollen die Berichte Vorschläge zur Weiterentwicklung der Jugendhilfe enthalten; jeder dritte Bericht soll einen Überblick über die Gesamtsituation der Jugendhilfe vermitteln.
 
 (2) Die Bundesregierung beauftragt mit der Ausarbeitung der Berichte jeweils eine Kommission, der mindestens sieben Sachverständige (Jugendberichtskommission) angehören. Die Bundesregierung fügt eine Stellungnahme mit den von ihr für notwendig gehaltenen Folgerungen bei.
 
-
-## § 85 – Sachliche Zuständigkeit
+# § 85 – Sachliche Zuständigkeit
 
 (1) Für die Gewährung von Leistungen und die Erfüllung anderer Aufgaben nach diesem Buch ist der örtliche Träger sachlich zuständig, soweit nicht der überörtliche Träger sachlich zuständig ist.
 
@@ -2481,10 +2369,9 @@ im Rahmen ihrer Aufgaben und Befugnisse zusammenzuarbeiten.
 
 (5) Ist das Land überörtlicher Träger, so können durch Landesrecht bis zum 30. Juni 1993 einzelne seiner Aufgaben auf andere Körperschaften des öffentlichen Rechts, die nicht Träger der öffentlichen Jugendhilfe sind, übertragen werden.
 
-§ 85 Abs. 1 idF d. Bek. v. 11.9.2012 I 2022: Bayern - Abweichung durch [Art. 24 Abs. 2 Satz 1 Gesetz zur Ausführung der Sozialgesetze (AGSG)](../abweichendes_Landesrecht/sgag_by__24.html "Anzeige in neuem Fenster") v. 8.12.2006 (GVBl S. 942, BayRS 86-7-A) idF d. G v. 24.6.2013 (GVBl S. 385) mWv 16.7.2013 (vgl. BGBl. I 2014, 47)
+§ 85 Abs. 1 idF d. Bek. v. 11.9.2012 I 2022: Bayern - Abweichung durch [Art. 24 Abs. 2 Satz 1 Gesetz zur Ausführung der Sozialgesetze (AGSG)](https://www.gesetze-im-internet.de/abweichendes_Landesrecht/sgag_by__24.html "Anzeige in neuem Fenster") v. 8.12.2006 (GVBl S. 942, BayRS 86-7-A) idF d. G v. 24.6.2013 (GVBl S. 385) mWv 16.7.2013 (vgl. BGBl. I 2014, 47)
 
-
-## § 86 – Örtliche Zuständigkeit für Leistungen an Kinder, Jugendliche und ihre Eltern
+# § 86 – Örtliche Zuständigkeit für Leistungen an Kinder, Jugendliche und ihre Eltern
 
 (1) Für die Gewährung von Leistungen nach diesem Buch ist der örtliche Träger zuständig, in dessen Bereich die Eltern ihren gewöhnlichen Aufenthalt haben. An die Stelle der Eltern tritt die Mutter, wenn und solange die Vaterschaft nicht anerkannt oder gerichtlich festgestellt ist. Lebt nur ein Elternteil, so ist dessen gewöhnlicher Aufenthalt maßgebend.
 
@@ -2500,8 +2387,7 @@ im Rahmen ihrer Aufgaben und Befugnisse zusammenzuarbeiten.
 
 (7) Für Leistungen an Kinder oder Jugendliche, die um Asyl nachsuchen oder einen Asylantrag gestellt haben, ist der örtliche Träger zuständig, in dessen Bereich sich die Person vor Beginn der Leistung tatsächlich aufhält; geht der Leistungsgewährung eine Inobhutnahme voraus, so bleibt die nach § 87 begründete Zuständigkeit bestehen. Unterliegt die Person einem Verteilungsverfahren, so richtet sich die örtliche Zuständigkeit nach der Zuweisungsentscheidung der zuständigen Landesbehörde; bis zur Zuweisungsentscheidung gilt Satz 1 entsprechend. Die nach Satz 1 oder 2 begründete örtliche Zuständigkeit bleibt auch nach Abschluss des Asylverfahrens so lange bestehen, bis die für die Bestimmung der örtlichen Zuständigkeit maßgebliche Person einen gewöhnlichen Aufenthalt im Bereich eines anderen Trägers der öffentlichen Jugendhilfe begründet. Eine Unterbrechung der Leistung von bis zu drei Monaten bleibt außer Betracht.
 
-
-## § 86a – Örtliche Zuständigkeit für Leistungen an junge Volljährige
+# § 86a – Örtliche Zuständigkeit für Leistungen an junge Volljährige
 
 (1) Für Leistungen an junge Volljährige ist der örtliche Träger zuständig, in dessen Bereich der junge Volljährige vor Beginn der Leistung seinen gewöhnlichen Aufenthalt hat.
 
@@ -2511,8 +2397,7 @@ im Rahmen ihrer Aufgaben und Befugnisse zusammenzuarbeiten.
 
 (4) Wird eine Leistung nach § 13 Absatz 3 oder nach § 21 über die Vollendung des 18. Lebensjahres hinaus weitergeführt oder geht der Hilfe für junge Volljährige nach § 41 eine dieser Leistungen, eine Leistung nach § 19 oder eine Hilfe nach den §§ 27 bis 35a voraus, so bleibt der örtliche Träger zuständig, der bis zu diesem Zeitpunkt zuständig war. Eine Unterbrechung der Hilfeleistung von bis zu drei Monaten bleibt dabei außer Betracht. Die Sätze 1 und 2 gelten entsprechend, wenn eine Hilfe für junge Volljährige nach § 41 beendet war und innerhalb von drei Monaten erneut Hilfe für junge Volljährige nach § 41 erforderlich wird.
 
-
-## § 86b – Örtliche Zuständigkeit für Leistungen in gemeinsamen Wohnformen für Mütter/Väter und Kinder
+# § 86b – Örtliche Zuständigkeit für Leistungen in gemeinsamen Wohnformen für Mütter/Väter und Kinder
 
 (1) Für Leistungen in gemeinsamen Wohnformen für Mütter oder Väter und Kinder ist der örtliche Träger zuständig, in dessen Bereich der nach § 19 Leistungsberechtigte vor Beginn der Leistung seinen gewöhnlichen Aufenthalt hat. § 86a Absatz 2 gilt entsprechend.
 
@@ -2520,25 +2405,21 @@ im Rahmen ihrer Aufgaben und Befugnisse zusammenzuarbeiten.
 
 (3) Geht der Leistung Hilfe nach den §§ 27 bis 35a oder eine Leistung nach § 13 Absatz 3, § 21 oder § 41 voraus, so bleibt der örtliche Träger zuständig, der bisher zuständig war. Eine Unterbrechung der Hilfeleistung von bis zu drei Monaten bleibt dabei außer Betracht.
 
-
-## § 86c – Fortdauernde Leistungsverpflichtung und Fallübergabe bei Zuständigkeitswechsel
+# § 86c – Fortdauernde Leistungsverpflichtung und Fallübergabe bei Zuständigkeitswechsel
 
 (1) Wechselt die örtliche Zuständigkeit für eine Leistung, so bleibt der bisher zuständige örtliche Träger so lange zur Gewährung der Leistung verpflichtet, bis der nunmehr zuständige örtliche Träger die Leistung fortsetzt. Dieser hat dafür Sorge zu tragen, dass der Hilfeprozess und die im Rahmen der Hilfeplanung vereinbarten Hilfeziele durch den Zuständigkeitswechsel nicht gefährdet werden.
 
 (2) Der örtliche Träger, der von den Umständen Kenntnis erhält, die den Wechsel der Zuständigkeit begründen, hat den anderen davon unverzüglich zu unterrichten. Der bisher zuständige örtliche Träger hat dem nunmehr zuständigen örtlichen Träger unverzüglich die für die Hilfegewährung sowie den Zuständigkeitswechsel maßgeblichen Sozialdaten zu übermitteln. Bei der Fortsetzung von Leistungen, die der Hilfeplanung nach § 36 Absatz 2 unterliegen, ist die Fallverantwortung im Rahmen eines Gespräches zu übergeben. Die Personensorgeberechtigten und das Kind oder der Jugendliche sowie der junge Volljährige oder der Leistungsberechtigte nach § 19 sind an der Übergabe angemessen zu beteiligen.
 
-
-## § 86d – Verpflichtung zum vorläufigen Tätigwerden
+# § 86d – Verpflichtung zum vorläufigen Tätigwerden
 
 Steht die örtliche Zuständigkeit nicht fest oder wird der zuständige örtliche Träger nicht tätig, so ist der örtliche Träger vorläufig zum Tätigwerden verpflichtet, in dessen Bereich sich das Kind oder der Jugendliche, der junge Volljährige oder bei Leistungen nach § 19 der Leistungsberechtigte vor Beginn der Leistung tatsächlich aufhält.
 
-
-## § 87 – Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen
+# § 87 – Örtliche Zuständigkeit für vorläufige Maßnahmen zum Schutz von Kindern und Jugendlichen
 
 Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtliche Träger zuständig, in dessen Bereich sich das Kind oder der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält. Die örtliche Zuständigkeit für die Inobhutnahme eines unbegleiteten ausländischen Kindes oder Jugendlichen richtet sich nach § 88a Absatz 2.
 
-
-## § 87a – Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung
+# § 87a – Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung
 
 (1) Für die Erteilung der Pflegeerlaubnis sowie deren Rücknahme oder Widerruf (§§ 43, 44) ist der örtliche Träger zuständig, in dessen Bereich die Pflegeperson ihren gewöhnlichen Aufenthalt hat.
 
@@ -2546,8 +2427,7 @@ Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtl
 
 (3) Für die Mitwirkung an der örtlichen Prüfung (§§ 46, 48a) ist der örtliche Träger zuständig, in dessen Bereich die Einrichtung oder die selbständige sonstige Wohnform gelegen ist.
 
-
-## § 87b – Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren
+# § 87b – Örtliche Zuständigkeit für die Mitwirkung in gerichtlichen Verfahren
 
 (1) Für die Zuständigkeit des Jugendamts zur Mitwirkung in gerichtlichen Verfahren (§§ 50 bis 52) gilt § 86 Absatz 1 bis 4 entsprechend. Für die Mitwirkung im Verfahren nach dem Jugendgerichtsgesetz gegen einen jungen Menschen, der zu Beginn des Verfahrens das 18. Lebensjahr vollendet hat, gilt § 86a Absatz 1 und 3 entsprechend.
 
@@ -2555,8 +2435,7 @@ Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtl
 
 (3) Steht die örtliche Zuständigkeit nicht fest oder wird der zuständige örtliche Träger nicht tätig, so gilt § 86d entsprechend.
 
-
-## § 87c – Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Bescheinigung nach § 58a
+# § 87c – Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Bescheinigung nach § 58a
 
 (1) Für die Vormundschaft nach § 1791c des Bürgerlichen Gesetzbuchs ist das Jugendamt zuständig, in dessen Bereich die Mutter ihren gewöhnlichen Aufenthalt hat. Wurde die Vaterschaft nach § 1592 Nummer 1 oder 2 des Bürgerlichen Gesetzbuchs durch Anfechtung beseitigt, so ist der gewöhnliche Aufenthalt der Mutter zu dem Zeitpunkt maßgeblich, zu dem die Entscheidung rechtskräftig wird. Ist ein gewöhnlicher Aufenthalt der Mutter nicht festzustellen, so richtet sich die örtliche Zuständigkeit nach ihrem tatsächlichen Aufenthalt.
 
@@ -2570,27 +2449,23 @@ Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist der örtl
 
 (6) Für die Erteilung der Bescheinigung nach § 58a Absatz 2 gilt Absatz 1 entsprechend. Die Mitteilungen nach § 1626d Absatz 2 des Bürgerlichen Gesetzbuchs, die Mitteilungen nach § 155a Absatz 3 Satz 3 und Absatz 5 Satz 2 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie die Mitteilungen nach § 50 Absatz 3 sind an das für den Geburtsort des Kindes oder des Jugendlichen zuständige Jugendamt zu richten; § 88 Absatz 1 Satz 2 gilt entsprechend. Das nach Satz 2 zuständige Jugendamt teilt auf Ersuchen dem nach Satz 1 zuständigen Jugendamt mit, ob Eintragungen im Sorgeregister vorliegen.
 
-
-## § 87d – Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen
+# § 87d – Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen
 
 (1) Für die Wahrnehmung der Aufgaben nach § 53 ist der örtliche Träger zuständig, in dessen Bereich der Pfleger oder Vormund seinen gewöhnlichen Aufenthalt hat.
 
 (2) Für die Erteilung der Erlaubnis zur Übernahme von Pflegschaften oder Vormundschaften durch einen rechtsfähigen Verein (§ 54) ist der überörtliche Träger zuständig, in dessen Bereich der Verein seinen Sitz hat.
 
-
-## § 87e – Örtliche Zuständigkeit für Beurkundung und Beglaubigung
+# § 87e – Örtliche Zuständigkeit für Beurkundung und Beglaubigung
 
 Für Beurkundungen und Beglaubigungen nach § 59 ist die Urkundsperson bei jedem Jugendamt zuständig.
 
-
-## § 88 – Örtliche Zuständigkeit bei Aufenthalt im Ausland
+# § 88 – Örtliche Zuständigkeit bei Aufenthalt im Ausland
 
 (1) Für die Gewährung von Leistungen der Jugendhilfe im Ausland ist der überörtliche Träger zuständig, in dessen Bereich der junge Mensch geboren ist. Liegt der Geburtsort im Ausland oder ist er nicht zu ermitteln, so ist das Land Berlin zuständig.
 
 (2) Wurden bereits vor der Ausreise Leistungen der Jugendhilfe gewährt, so bleibt der örtliche Träger zuständig, der bisher tätig geworden ist; eine Unterbrechung der Hilfeleistung von bis zu drei Monaten bleibt dabei außer Betracht.
 
-
-## § 88a – Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+# § 88a – Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
 
 (1) Für die vorläufige Inobhutnahme eines unbegleiteten ausländischen Kindes oder Jugendlichen (§ 42a) ist der örtliche Träger zuständig, in dessen Bereich sich das Kind oder der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält, soweit Landesrecht nichts anderes regelt.
 
@@ -2606,13 +2481,11 @@ Für Beurkundungen und Beglaubigungen nach § 59 ist die Urkundsperson bei jedem
 
 3. der Leistungsgewährung nach Absatz 3.
 
-
-## § 89 – Kostenerstattung bei fehlendem gewöhnlichen Aufenthalt
+# § 89 – Kostenerstattung bei fehlendem gewöhnlichen Aufenthalt
 
 Ist für die örtliche Zuständigkeit nach den §§ 86, 86a oder 86b der tatsächliche Aufenthalt maßgeblich, so sind die Kosten, die ein örtlicher Träger aufgewendet hat, von dem überörtlichen Träger zu erstatten, zu dessen Bereich der örtliche Träger gehört.
 
-
-## § 89a – Kostenerstattung bei fortdauernder Vollzeitpflege
+# § 89a – Kostenerstattung bei fortdauernder Vollzeitpflege
 
 (1) Kosten, die ein örtlicher Träger auf Grund einer Zuständigkeit nach § 86 Absatz 6 aufgewendet hat, sind von dem örtlichen Träger zu erstatten, der zuvor zuständig war oder gewesen wäre. Die Kostenerstattungspflicht bleibt bestehen, wenn die Pflegeperson ihren gewöhnlichen Aufenthalt ändert oder wenn die Leistung über die Volljährigkeit hinaus nach § 41 fortgesetzt wird.
 
@@ -2620,8 +2493,7 @@ Ist für die örtliche Zuständigkeit nach den §§ 86, 86a oder 86b der tatsäc
 
 (3) Ändert sich während der Gewährung der Leistung nach Absatz 1 der für die örtliche Zuständigkeit nach § 86 Absatz 1 bis 5 maßgebliche gewöhnliche Aufenthalt, so wird der örtliche Träger kostenerstattungspflichtig, der ohne Anwendung des § 86 Absatz 6 örtlich zuständig geworden wäre.
 
-
-## § 89b – Kostenerstattung bei vorläufigen Maßnahmen zum Schutz von Kindern und Jugendlichen
+# § 89b – Kostenerstattung bei vorläufigen Maßnahmen zum Schutz von Kindern und Jugendlichen
 
 (1) Kosten, die ein örtlicher Träger im Rahmen der Inobhutnahme von Kindern und Jugendlichen (§ 42) aufgewendet hat, sind von dem örtlichen Träger zu erstatten, dessen Zuständigkeit durch den gewöhnlichen Aufenthalt nach § 86 begründet wird.
 
@@ -2629,8 +2501,7 @@ Ist für die örtliche Zuständigkeit nach den §§ 86, 86a oder 86b der tatsäc
 
 (3) Eine nach Absatz 1 oder 2 begründete Pflicht zur Kostenerstattung bleibt bestehen, wenn und solange nach der Inobhutnahme Leistungen auf Grund einer Zuständigkeit nach § 86 Absatz 7 Satz 1 Halbsatz 2 gewährt werden.
 
-
-## § 89c – Kostenerstattung bei fortdauernder oder vorläufiger Leistungsverpflichtung
+# § 89c – Kostenerstattung bei fortdauernder oder vorläufiger Leistungsverpflichtung
 
 (1) Kosten, die ein örtlicher Träger im Rahmen seiner Verpflichtung nach § 86c aufgewendet hat, sind von dem örtlichen Träger zu erstatten, der nach dem Wechsel der örtlichen Zuständigkeit zuständig geworden ist. Kosten, die ein örtlicher Träger im Rahmen seiner Verpflichtung nach § 86d aufgewendet hat, sind von dem örtlichen Träger zu erstatten, dessen Zuständigkeit durch den gewöhnlichen Aufenthalt nach §§ 86, 86a und 86b begründet wird.
 
@@ -2638,8 +2509,7 @@ Ist für die örtliche Zuständigkeit nach den §§ 86, 86a oder 86b der tatsäc
 
 (3) Ist ein kostenerstattungspflichtiger örtlicher Träger nicht vorhanden, so sind die Kosten vom überörtlichen Träger zu erstatten, zu dessen Bereich der örtliche Träger gehört, der nach Absatz 1 tätig geworden ist.
 
-
-## § 89d – Kostenerstattung bei Gewährung von Jugendhilfe nach der Einreise
+# § 89d – Kostenerstattung bei Gewährung von Jugendhilfe nach der Einreise
 
 (1) Kosten, die ein örtlicher Träger aufwendet, sind vom Land zu erstatten, wenn
 
@@ -2657,34 +2527,29 @@ Als Tag der Einreise gilt der Tag des Grenzübertritts, sofern dieser amtlich fe
 
 (5) Kostenerstattungsansprüche nach den Absätzen 1 bis 3 gehen Ansprüchen nach den §§ 89 bis 89c und § 89e vor.
 
-
-## § 89e – Schutz der Einrichtungsorte
+# § 89e – Schutz der Einrichtungsorte
 
 (1) Richtet sich die Zuständigkeit nach dem gewöhnlichen Aufenthalt der Eltern, eines Elternteils, des Kindes oder des Jugendlichen und ist dieser in einer Einrichtung, einer anderen Familie oder sonstigen Wohnform begründet worden, die der Erziehung, Pflege, Betreuung, Behandlung oder dem Strafvollzug dient, so ist der örtliche Träger zur Erstattung der Kosten verpflichtet, in dessen Bereich die Person vor der Aufnahme in eine Einrichtung, eine andere Familie oder sonstige Wohnform den gewöhnlichen Aufenthalt hatte. Eine nach Satz 1 begründete Erstattungspflicht bleibt bestehen, wenn und solange sich die örtliche Zuständigkeit nach § 86a Absatz 4 und § 86b Absatz 3 richtet.
 
 (2) Ist ein kostenerstattungspflichtiger örtlicher Träger nicht vorhanden, so sind die Kosten von dem überörtlichen Träger zu erstatten, zu dessen Bereich der erstattungsberechtigte örtliche Träger gehört.
 
-
-## § 89f – Umfang der Kostenerstattung
+# § 89f – Umfang der Kostenerstattung
 
 (1) Die aufgewendeten Kosten sind zu erstatten, soweit die Erfüllung der Aufgaben den Vorschriften dieses Buches entspricht. Dabei gelten die Grundsätze, die im Bereich des tätig gewordenen örtlichen Trägers zur Zeit des Tätigwerdens angewandt werden.
 
 (2) Kosten unter 1 000 Euro werden nur bei vorläufigen Maßnahmen zum Schutz von Kindern und Jugendlichen (§ 89b), bei fortdauernder oder vorläufiger Leistungsverpflichtung (§ 89c) und bei Gewährung von Jugendhilfe nach der Einreise (§ 89d) erstattet. Verzugszinsen können nicht verlangt werden.
 
-
-## § 89g – Landesrechtsvorbehalt
+# § 89g – Landesrechtsvorbehalt
 
 Durch Landesrecht können die Aufgaben des Landes und des überörtlichen Trägers nach diesem Abschnitt auf andere Körperschaften des öffentlichen Rechts übertragen werden.
 
-
-## § 89h – Übergangsvorschrift
+# § 89h – Übergangsvorschrift
 
 (1) Für die Erstattung von Kosten für Maßnahmen der Jugendhilfe nach der Einreise gemäß § 89d, die vor dem 1. Juli 1998 begonnen haben, gilt die nachfolgende Übergangsvorschrift.
 
 (2) Kosten, für deren Erstattung das Bundesverwaltungsamt vor dem 1. Juli 1998 einen erstattungspflichtigen überörtlichen Träger bestimmt hat, sind nach den bis zu diesem Zeitpunkt geltenden Vorschriften zu erstatten. Erfolgt die Bestimmung nach dem 30. Juni 1998, so sind § 86 Absatz 7, § 89b Absatz 3, die §§ 89d und 89g in der ab dem 1. Juli 1998 geltenden Fassung anzuwenden.
 
-
-## § 90 – Pauschalierte Kostenbeteiligung
+# § 90 – Pauschalierte Kostenbeteiligung
 
 (1) Für die Inanspruchnahme von Angeboten
 
@@ -2714,8 +2579,7 @@ Lebt das Kind oder der Jugendliche nur mit einem Elternteil zusammen, so tritt d
 
 (4) Im Fall des Absatzes 1 Nummer 3 wird der Kostenbeitrag auf Antrag erlassen oder auf Antrag ein Teilnahmebeitrag vom Träger der öffentlichen Jugendhilfe übernommen, wenn die Belastung durch Kostenbeiträge den Eltern und dem Kind nicht zuzumuten ist. Nicht zuzumuten sind Kostenbeiträge immer dann, wenn Eltern oder Kinder Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch, Leistungen nach dem dritten und vierten Kapitel des Zwölften Buches oder Leistungen nach den §§ 2 und 3 des Asylbewerberleistungsgesetzes beziehen oder wenn die Eltern des Kindes Kinderzuschlag gemäß § 6a des Bundeskindergeldgesetzes oder Wohngeld nach dem Wohngeldgesetz erhalten. Der Träger der öffentlichen Jugendhilfe hat die Eltern über die Möglichkeit einer Antragstellung nach Satz 1 bei unzumutbarer Belastung durch Kostenbeiträge zu beraten. Absatz 2 Satz 2 bis 4 gilt entsprechend.
 
-
-## § 91 – Anwendungsbereich
+# § 91 – Anwendungsbereich
 
 (1) Zu folgenden vollstationären Leistungen und vorläufigen Maßnahmen werden Kostenbeiträge erhoben:
 
@@ -2759,8 +2623,7 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 (5) Die Träger der öffentlichen Jugendhilfe tragen die Kosten der in den Absätzen 1 und 2 genannten Leistungen unabhängig von der Erhebung eines Kostenbeitrags.
 
-
-## § 92 – Ausgestaltung der Heranziehung
+# § 92 – Ausgestaltung der Heranziehung
 
 (1) Aus ihrem Einkommen nach Maßgabe der §§ 93 und 94 heranzuziehen sind:
 
@@ -2784,8 +2647,7 @@ d) auf der Grundlage von § 27 in stationärer Form,
 
 (5) Von der Heranziehung soll im Einzelfall ganz oder teilweise abgesehen werden, wenn sonst Ziel und Zweck der Leistung gefährdet würden oder sich aus der Heranziehung eine besondere Härte ergäbe. Von der Heranziehung kann abgesehen werden, wenn anzunehmen ist, dass der damit verbundene Verwaltungsaufwand in keinem angemessenen Verhältnis zu dem Kostenbeitrag stehen wird.
 
-
-## § 93 – Berechnung des Einkommens
+# § 93 – Berechnung des Einkommens
 
 (1) Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert mit Ausnahme der Grundrente nach oder entsprechend dem Bundesversorgungsgesetz sowie der Renten und Beihilfen, die nach dem Bundesentschädigungsgesetz für einen Schaden an Leben sowie an Körper und Gesundheit gewährt werden bis zur Höhe der vergleichbaren Grundrente nach dem Bundesversorgungsgesetz. Eine Entschädigung, die nach § 253 Absatz 2 des Bürgerlichen Gesetzbuchs wegen eines Schadens, der nicht Vermögensschaden ist, geleistet wird, ist nicht als Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen. Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen zu berücksichtigen.
 
@@ -2809,8 +2671,7 @@ Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
 
 (4) Maßgeblich ist das durchschnittliche Monatseinkommen, das die kostenbeitragspflichtige Person in dem Kalenderjahr erzielt hat, welches dem jeweiligen Kalenderjahr der Leistung oder Maßnahme vorangeht. Auf Antrag der kostenbeitragspflichtigen Person wird dieses Einkommen nachträglich durch das durchschnittliche Monatseinkommen ersetzt, welches die Person in dem jeweiligen Kalenderjahr der Leistung oder Maßnahme erzielt hat. Der Antrag kann innerhalb eines Jahres nach Ablauf dieses Kalenderjahres gestellt werden. Macht die kostenbeitragspflichtige Person glaubhaft, dass die Heranziehung zu den Kosten aus dem Einkommen nach Satz 1 in einem bestimmten Zeitraum eine besondere Härte für sie ergäbe, wird vorläufig von den glaubhaft gemachten, dem Zeitraum entsprechenden Monatseinkommen ausgegangen; endgültig ist in diesem Fall das nach Ablauf des Kalenderjahres zu ermittelnde durchschnittliche Monatseinkommen dieses Jahres maßgeblich.
 
-
-## § 94 – Umfang der Heranziehung
+# § 94 – Umfang der Heranziehung
 
 (1) Die Kostenbeitragspflichtigen sind aus ihrem Einkommen in angemessenem Umfang zu den Kosten heranzuziehen. Die Kostenbeiträge dürfen die tatsächlichen Aufwendungen nicht überschreiten. Eltern sollen nachrangig zu den jungen Menschen herangezogen werden. Ehegatten und Lebenspartner sollen nachrangig zu den jungen Menschen, aber vorrangig vor deren Eltern herangezogen werden.
 
@@ -2824,8 +2685,7 @@ Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
 
 (6) Bei vollstationären Leistungen haben junge Menschen und Leistungsberechtigte nach § 19 nach Abzug der in § 93 Absatz 2 genannten Beträge 75 Prozent ihres Einkommens als Kostenbeitrag einzusetzen. Es kann ein geringerer Kostenbeitrag erhoben oder gänzlich von der Erhebung des Kostenbeitrags abgesehen werden, wenn das Einkommen aus einer Tätigkeit stammt, die dem Zweck der Leistung dient. Dies gilt insbesondere, wenn es sich um eine Tätigkeit im sozialen oder kulturellen Bereich handelt, bei der nicht die Erwerbstätigkeit, sondern das soziale oder kulturelle Engagement im Vordergrund stehen.
 
-
-## § 95 – Überleitung von Ansprüchen
+# § 95 – Überleitung von Ansprüchen
 
 (1) Hat eine der in § 92 Absatz 1 genannten Personen für die Zeit, für die Jugendhilfe gewährt wird, einen Anspruch gegen einen anderen, der weder Leistungsträger im Sinne des § 12 des Ersten Buches noch Kostenbeitragspflichtiger ist, so kann der Träger der öffentlichen Jugendhilfe durch schriftliche Anzeige an den anderen bewirken, dass dieser Anspruch bis zur Höhe seiner Aufwendungen auf ihn übergeht.
 
@@ -2835,16 +2695,13 @@ Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
 
 (4) Widerspruch und Anfechtungsklage gegen den Verwaltungsakt, der den Übergang des Anspruchs bewirkt, haben keine aufschiebende Wirkung.
 
+# § 96 – (weggefallen)
 
-## § 96 – (weggefallen)
-
-
-## § 97 – Feststellung der Sozialleistungen
+# § 97 – Feststellung der Sozialleistungen
 
 Der erstattungsberechtigte Träger der öffentlichen Jugendhilfe kann die Feststellung einer Sozialleistung betreiben sowie Rechtsmittel einlegen. Der Ablauf der Fristen, die ohne sein Verschulden verstrichen sind, wirkt nicht gegen ihn. Dies gilt nicht für die Verfahrensfristen, soweit der Träger der öffentlichen Jugendhilfe das Verfahren selbst betreibt.
 
-
-## § 97a – Pflicht zur Auskunft
+# § 97a – Pflicht zur Auskunft
 
 (1) Soweit dies für die Berechnung oder den Erlass eines Kostenbeitrags oder die Übernahme eines Teilnahmebeitrags nach § 90 oder die Ermittlung eines Kostenbeitrags nach den §§ 92 bis 94 erforderlich ist, sind Eltern, Ehegatten und Lebenspartner junger Menschen sowie Leistungsberechtigter nach § 19 verpflichtet, dem örtlichen Träger über ihre Einkommensverhältnisse Auskunft zu geben. Junge Volljährige und volljährige Leistungsberechtigte nach § 19 sind verpflichtet, dem örtlichen Träger über ihre Einkommens- und Vermögensverhältnisse Auskunft zu geben. Eltern, denen die Sorge für das Vermögen des Kindes oder des Jugendlichen zusteht, sind auch zur Auskunft über dessen Einkommen verpflichtet. Ist die Sorge über das Vermögen des Kindes oder des Jugendlichen anderen Personen übertragen, so treten diese an die Stelle der Eltern.
 
@@ -2856,16 +2713,13 @@ Der erstattungsberechtigte Träger der öffentlichen Jugendhilfe kann die Festst
 
 (5) Die nach den Absätzen 1 und 2 zur Erteilung einer Auskunft Verpflichteten können die Auskunft verweigern, soweit sie sich selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr aussetzen würden, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden. Die Auskunftspflichtigen sind auf ihr Auskunftsverweigerungsrecht hinzuweisen.
 
+# § 97b – (weggefallen)
 
-## § 97b – (weggefallen)
-
-
-## § 97c – Erhebung von Gebühren und Auslagen
+# § 97c – Erhebung von Gebühren und Auslagen
 
 Landesrecht kann abweichend von § 64 des Zehnten Buches die Erhebung von Gebühren und Auslagen regeln.
 
-
-## § 98 – Zweck und Umfang der Erhebung
+# § 98 – Zweck und Umfang der Erhebung
 
 (1) Zur Beurteilung der Auswirkungen der Bestimmungen dieses Buches und zu seiner Fortentwicklung sind laufende Erhebungen über
 
@@ -2905,8 +2759,7 @@ als Bundesstatistik durchzuführen.
 
 (2) Zur Verfolgung der gesellschaftlichen Entwicklung im Bereich der elterlichen Sorge sind im Rahmen der Kinder- und Jugendhilfestatistik auch laufende Erhebungen über Sorgeerklärungen durchzuführen.
 
-
-## § 99 – Erhebungsmerkmale
+# § 99 – Erhebungsmerkmale
 
 (1) Erhebungsmerkmale bei den Erhebungen über Hilfe zur Erziehung nach den §§ 27 bis 35, Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche nach § 35a und Hilfe für junge Volljährige nach § 41 sind
 
@@ -3114,8 +2967,7 @@ d) für das pädagogische und in der Verwaltung tätige Personal zusätzlich Geb
 
 4. die Ausgaben für das Personal, das bei den örtlichen und den überörtlichen Trägern sowie den kreisangehörigen Gemeinden und Gemeindeverbänden, die nicht örtliche Träger sind, Aufgaben der Jugendhilfe wahrnimmt.
 
-
-## § 100 – Hilfsmerkmale
+# § 100 – Hilfsmerkmale
 
 Hilfsmerkmale sind
 
@@ -3127,8 +2979,7 @@ Hilfsmerkmale sind
 
 4. Name und Telefonnummer sowie Faxnummer oder E-Mail-Adresse der für eventuelle Rückfragen zur Verfügung stehenden Person.
 
-
-## § 101 – Periodizität und Berichtszeitraum
+# § 101 – Periodizität und Berichtszeitraum
 
 (1) Die Erhebungen nach § 99 Absatz 1 bis 5 sowie nach Absatz 6a bis 7b und 10 sind jährlich durchzuführen, die Erhebungen nach § 99 Absatz 1, soweit sie die Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche betreffen, beginnend 2007. Die Erhebung nach § 99 Absatz 6 erfolgt laufend. Die übrigen Erhebungen nach § 99 sind alle zwei Jahre durchzuführen, die Erhebungen nach § 99 Absatz 8 erstmalig für das Jahr 2015 und die Erhebungen nach § 99 Absatz 9 erstmalig für das Jahr 2014.
 
@@ -3154,8 +3005,7 @@ Hilfsmerkmale sind
 
 zu erteilen.
 
-
-## § 102 – Auskunftspflicht
+# § 102 – Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 100 Nummer 4 sind freiwillig.
 
@@ -3179,8 +3029,7 @@ zu erteilen.
 
 (3) Zur Durchführung der Erhebungen nach § 99 Absatz 1, 2, 3, 7, 8 und 9 übermitteln die Träger der öffentlichen Jugendhilfe den statistischen Ämtern der Länder auf Anforderung die erforderlichen Anschriften der übrigen Auskunftspflichtigen.
 
-
-## § 103 – Übermittlung
+# § 103 – Übermittlung
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Tabellen, deren Tabellenfelder nur einen einzigen Fall ausweisen, dürfen nur dann übermittelt werden, wenn sie nicht differenzierter als auf Regierungsbezirksebene, im Fall der Stadtstaaten auf Bezirksebene, aufbereitet sind.
 
@@ -3188,8 +3037,7 @@ zu erteilen.
 
 (3) Die Ergebnisse der Kinder- und Jugendhilfestatistiken gemäß den §§ 98 und 99 dürfen auf der Ebene der einzelnen Gemeinde oder des einzelnen Jugendamtsbezirkes veröffentlicht werden.
 
-
-## § 104 – Bußgeldvorschriften
+# § 104 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -3203,8 +3051,7 @@ zu erteilen.
 
 (2) Die Ordnungswidrigkeiten nach Absatz 1 Nummer 1, 3 und 4 können mit einer Geldbuße bis zu fünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1 Nummer 2 kann mit einer Geldbuße bis zu fünfzehntausend Euro geahndet werden.
 
-
-## § 105 – Strafvorschriften
+# § 105 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -3212,7 +3059,6 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 2. eine in § 104 Absatz 1 Nummer 1 oder 2 bezeichnete vorsätzliche Handlung beharrlich wiederholt.
 
-
-## § 106 – Einschränkung eines Grundrechts
+# § 106 – Einschränkung eines Grundrechts
 
 Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes) eingeschränkt.

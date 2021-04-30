@@ -1,10 +1,7 @@
-# [ARSchiedsGAufhG] Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes
-
-Ausfertigungsdatum: 20.12.1991
-
+% Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes
+% Ausfertigungsdatum: 20.12.1991
  
-
-## Art 1 – Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht
+# Art 1 – Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht
 
 (1) Das Gesetz über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht vom 29. Juni 1990 (GBl. I Nr. 38 S. 505), das nach Anlage II Kapitel VIII Sachgebiet A Abschnitt III Nr. 3 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1207) mit Maßgaben und Änderungen fortgilt, tritt mit Ablauf des 31. Dezember 1992 außer Kraft.
 
@@ -16,17 +13,14 @@ Ausfertigungsdatum: 20.12.1991
 
 Art. 1 Abs. 1 Kursivdruck: Aufhebungsvorschrift
 
-
-## Art 2 – Gleichstellungsklausel
+# Art 2 – Gleichstellungsklausel
 
 Soweit in dem Gesetz über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht und in § 48 des Arbeitsgerichtsgesetzes die Zuständigkeit der Kreisgerichte begründet ist, treten in den in Artikel 1 Abs. 1 des Einigungsvertrages genannten Ländern, in denen eine selbständige Arbeitsgerichtsbarkeit errichtet ist, an die Stelle der Kreisgerichte die Arbeitsgerichte.
 
-
-## Art 3
+# Art 3
 
 \-
 
-
-## Art 4 – Inkrafttreten
+# Art 4 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

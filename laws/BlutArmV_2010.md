@@ -1,15 +1,11 @@
-# [BlutArmV 2010] Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer  (Einhufer-Blutarmut-Verordnung)
-
-Ausfertigungsdatum: 04.10.2010
-
+% Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer  (Einhufer-Blutarmut-Verordnung)
+% Ausfertigungsdatum: 04.10.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 73a Satz 1 in Verbindung mit Satz 2 Nummer 1 und 4, des § 79 Absatz 1 Nummer 1 in Verbindung mit § 17 Absatz 1 Nummer 1, des § 79 Absatz 1 Nummer 2 in Verbindung mit den §§ 18, 19 Absatz 1 und 2, § 20 Absatz 1 in Verbindung mit Absatz 2, § 21 Absatz 1 Nummer 1, § 22 Absatz 2 Satz 1 Nummer 1 in Verbindung mit Satz 2, den §§ 23, 24 Absatz 1 und den §§ 26, 27, 28, 29, 30 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -25,13 +21,11 @@ den Ausbruch der Einhufer-Blutarmut befürchten lässt;
 
 3. Ansteckungsverdacht, soweit auf Grund epidemiologischer Nachforschungen eine Ansteckung mit der Einhufer-Blutarmut nicht ausgeschlossen werden kann.
 
-
-## § 2 – Impfungen und Heilversuche
+# § 2 – Impfungen und Heilversuche
 
 Impfungen und Heilversuche seuchenkranker oder -verdächtiger Einhufer sind verboten. Die zuständige Behörde kann Ausnahmen von Satz 1 zur Durchführung wissenschaftlicher Versuche genehmigen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
-
-## § 3 – Untersuchungen
+# § 3 – Untersuchungen
 
 Die zuständige Behörde kann anordnen, dass
 
@@ -41,8 +35,7 @@ Die zuständige Behörde kann anordnen, dass
 
 soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
-
-## § 3a – Veranstaltungen mit Einhufern
+# § 3a – Veranstaltungen mit Einhufern
 
 (1) Wer eine überregionale Veranstaltung durchführt, bei der Einhufer verschiedener Bestände zusammenkommen, hat ein Register der zu der Veranstaltung verbrachten Einhufer zu führen. Das Register muss von jedem dieser Einhufer folgende Angaben enthalten:
 
@@ -58,8 +51,7 @@ soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 (2) Für die Führung des Registers nach Absatz 1 Satz 1 gilt § 25 Absatz 1 Satz 1 und 2 und Absatz 2 der Viehverkehrsverordnung entsprechend. Für die Aufbewahrung des Registers nach Absatz 1 Satz 1 gilt § 25 Absatz 3 Satz 1 und 2 der Viehverkehrsverordnung entsprechend.
 
-
-## § 4 – Blutprobenentnahme, epidemiologische Nachforschungen
+# § 4 – Blutprobenentnahme, epidemiologische Nachforschungen
 
 (1) Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut führt die zuständige Behörde unverzüglich eine klinische und serologische Untersuchung des seuchenverdächtigen Einhufers auf die Einhufer-Blutarmut durch. Im Falle verendeter oder getöteter Einhufer ordnet sie die virologische oder serologische Untersuchung auf die Einhufer-Blutarmut an.
 
@@ -71,8 +63,7 @@ soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 3. die Ermittlung aller Kontakte der Einhufer des betroffenen Betriebes zu anderen Einhufern.
 
-
-## § 5 – Schutzmaßnahmen in dem betroffenen Betrieb
+# § 5 – Schutzmaßnahmen in dem betroffenen Betrieb
 
 (1) Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut hat der Tierhalter des Betriebes unverzüglich
 
@@ -88,8 +79,7 @@ soweit dies aus Gründen der Tierseuchenbekämpfung erforderlich ist.
 
 (3) Einhufersamen, -eizellen und -embryonen dürfen nur mit Genehmigung der zuständigen Behörde in den und aus dem Betrieb verbracht werden. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 6 – Reinigung und Desinfektion
+# § 6 – Reinigung und Desinfektion
 
 Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut haben Personen, die eine Untersuchung oder Behandlung seuchenverdächtiger Einhufer durchgeführt haben, sowie Personen, die mit der Betreuung oder Pflege seuchenverdächtiger Einhufer betraut sind,
 
@@ -99,13 +89,11 @@ Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut haben Personen, die 
 
 3. Blut seuchenverdächtiger Einhufer, soweit es nicht zur Untersuchung bestimmt ist, unschädlich zu beseitigen und mit Blut seuchenverdächtiger Einhufer verunreinigte Flächen und Gegenstände nach näherer Anweisung der zuständigen Behörde unverzüglich nach den Eingriffen zu reinigen und zu desinfizieren.
 
-
-## § 7 – Öffentliche Bekanntmachung
+# § 7 – Öffentliche Bekanntmachung
 
 Die zuständige Behörde macht den Ausbruch und das Erlöschen der Einhufer-Blutarmut öffentlich bekannt.
 
-
-## § 8 – Schutzmaßnahmen in dem betroffenen Betrieb
+# § 8 – Schutzmaßnahmen in dem betroffenen Betrieb
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt, ordnet die zuständige Behörde
 
@@ -121,8 +109,7 @@ auf die Einhufer-Blutarmut an. § 4 Absatz 2 Satz 2 und die §§ 5 und 6 gelten 
 
 (4) Die zuständige Behörde kann zur Durchführung wissenschaftlicher Versuche von der Anordnung der Tötung seuchenkranker Einhufer nach Absatz 3 absehen, soweit der Einhufer in eine tierärztliche wissenschaftliche Einrichtung verbracht wird und Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
-
-## § 9 – Ansteckungsverdacht
+# § 9 – Ansteckungsverdacht
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt und besteht Ansteckungsverdacht, führt die zuständige Behörde unverzüglich die klinische und serologische Untersuchung auf die Einhufer-Blutarmut für alle durch die Nachforschungen nach § 4 Absatz 2 Satz 2 Nummer 2 und 3 ermittelten Einhufer durch. Ist die serologische Untersuchung nach Satz 1 mit negativem Ergebnis durchgeführt worden und liegt der letztmalige Kontakt zu dem seuchenkranken Einhufer weniger als 90 Tage, gerechnet vom Tag der Seuchenfeststellung, zurück, so ist die serologische Untersuchung frühestens im Abstand von 90 Tagen, gerechnet vom Tag des letztmaligen Kontaktes zu dem seuchenkranken Einhufer, zu wiederholen. Im Falle verendeter oder getöteter Einhufer ordnet die zuständige Behörde die virologische oder serologische Untersuchung auf die Einhufer-Blutarmut an.
 
@@ -130,8 +117,7 @@ auf die Einhufer-Blutarmut an. § 4 Absatz 2 Satz 2 und die §§ 5 und 6 gelten 
 
 (3) (weggefallen)
 
-
-## § 10 – Sperrbezirk
+# § 10 – Sperrbezirk
 
 (1) Ist der Ausbruch der Einhufer-Blutarmut in einem Betrieb amtlich festgestellt, so legt die zuständige Behörde ein Gebiet um den Seuchenbetrieb mit einem Radius von mindestens einem Kilometer als Sperrbezirk fest. Hierbei berücksichtigt sie die Ergebnisse epidemiologischer Untersuchungen, das Vorkommen von Einhufern und blutsaugenden Insekten, natürliche Grenzen und Überwachungsmöglichkeiten. Satz 1 gilt nicht, soweit in dem Gebiet mit einem Radius von einem Kilometer um den Seuchenbetrieb keine Einhufer gehalten werden oder sonstige Umstände vorliegen, die die Annahme rechtfertigen, dass eine Gefahr der Verbreitung der Einhufer-Blutarmut nicht besteht.
 
@@ -163,8 +149,7 @@ sowie jede Änderung anzuzeigen und
 
 (10) Fahrzeuge, die für den Transport von Einhufern, die im Sperrbezirk gehalten werden, verwendet worden sind, müssen vor weiterem Gebrauch nach Anweisung der zuständigen Behörde gereinigt und desinfiziert werden.
 
-
-## § 11 – Desinfektion
+# § 11 – Desinfektion
 
 (1) Der Tierhalter des betroffenen Betriebes hat nach näherer Anweisung der zuständigen Behörde
 
@@ -178,8 +163,7 @@ sowie jede Änderung anzuzeigen und
 
 (2) Die zuständige Behörde kann genehmigen, dass die Desinfektion nach Absatz 1 Nummer 4 auf die Betriebsteile beschränkt wird, in denen die seuchenkranken und -verdächtigen Einhufer gestanden haben.
 
-
-## § 12 – Aufhebung der Schutzmaßnahmen
+# § 12 – Aufhebung der Schutzmaßnahmen
 
 (1) Angeordnete Schutzmaßnahmen nach den §§ 5 bis 11 sind aufzuheben, wenn die Einhufer-Blutarmut erloschen ist oder der Verdacht des Ausbruchs der Einhufer-Blutarmut sich als unbegründet erwiesen hat.
 
@@ -193,8 +177,7 @@ b) die seuchenkranken und -verdächtigen Einhufer des Betriebes verendet sind, g
 
 (3) Der Seuchenverdacht auf die Einhufer-Blutarmut hat sich als unbegründet erwiesen, wenn nach Anzeige des Verdachts eine serologische Untersuchung mit negativem Ergebnis durchgeführt wurde.
 
-
-## § 13 – Ordnungswidrigkeiten
+# § 13 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -204,8 +187,7 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 3. einer vollziehbaren Anordnung nach § 3, § 4 Absatz 1 Satz 2, § 5 Absatz 1 Nummer 1 oder Nummer 4, jeweils auch in Verbindung mit § 9 Absatz 2, nach § 6, § 8 Absatz 1 Satz 1 oder Absatz 3, § 9 Absatz 1 Satz 3, § 10 Absatz 10 oder § 11 Absatz 1 zuwiderhandelt,
 
-3a.  
-entgegen § 3a Absatz 1 Satz 1 ein dort genanntes Register nicht führt,
+3a. entgegen § 3a Absatz 1 Satz 1 ein dort genanntes Register nicht führt,
 
 4. entgegen § 5 Absatz 1 Nummer 2, auch in Verbindung mit § 9 Absatz 2, Einhufer nicht, nicht richtig oder nicht rechtzeitig absondert oder versorgt,
 
@@ -217,12 +199,10 @@ entgegen § 3a Absatz 1 Satz 1 ein dort genanntes Register nicht führt,
 
 8. entgegen § 10 Absatz 9 Satz 1 eine Ausstellung, einen Markt oder eine Veranstaltung ähnlicher Art mit Einhufern innerhalb des Sperrbezirks durchführt.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Einhufer-Blutarmut-Verordnung vom 2. Juli 1975 (BGBl. I S. 1845), die zuletzt durch Artikel 5 der Verordnung vom 18. April 2000 (BGBl. I S. 531) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

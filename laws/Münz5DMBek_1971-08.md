@@ -1,10 +1,7 @@
-# [Münz5DMBek 1971-08] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Beethoven-Gedenkmünze)
-
-Ausfertigungsdatum: 20.08.1971
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Beethoven-Gedenkmünze)
+% Ausfertigungsdatum: 20.08.1971
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist zur Erinnerung an den 200. Geburtstag des Komponisten Ludwig van Beethoven eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab 7. September 1971 in den Verkehr gebracht wird.
 
@@ -32,13 +29,11 @@ ALLE MENSCHEN WERDEN BRÜDER.
 
 (10) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft und Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

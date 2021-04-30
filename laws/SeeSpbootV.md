@@ -1,10 +1,7 @@
-# [SeeSpbootV] Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich    (See-Sportbootverordnung - SeeSpbootV)
-
-Ausfertigungsdatum: 29.08.2002
-
+% Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich    (See-Sportbootverordnung - SeeSpbootV)
+% Ausfertigungsdatum: 29.08.2002
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -134,8 +131,7 @@ Anlage 4
 
 Besetzung von gewerbsmäßig genutzten Sportbooten (§ 15 Abs. 2)
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für die Sportboote und Wassermotorräder im Bereich der deutschen Seeschifffahrtsstraßen und der seewärts angrenzenden Gewässer des deutschen Küstenmeeres.
 
@@ -153,8 +149,7 @@ Besetzung von gewerbsmäßig genutzten Sportbooten (§ 15 Abs. 2)
 
 (5) Die für Sportboote geltenden Vorschriften der §§ 2, 5 Absatz 3, §§ 6 und 13 Absatz 1 Nummer 2a und 3 in Verbindung mit Anlage 1 Abschnitt B Nummer II.8 der Schiffssicherheitsverordnung über die Selbstkontrolle, die besonderen Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard, den Sicherheitsstandard in besonderen Fällen und die Überwachung von Funkstellen sowie Verhaltenspflichten bleiben unberührt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -191,13 +186,11 @@ die Dienststelle Schiffssicherheit bei der Berufsgenossenschaft Verkehrswirtscha
 
 (2) Für die Begriffe „Küstengewässer“, „küstennahe Seegewässer” und „weltweite Fahrt” ist § 1 Absatz 2 der Sportseeschifferscheinverordnung in der Fassung der Bekanntmachung vom 3. März 1998 (BGBl. I S. 394), die zuletzt durch Artikel 4 der Verordnung vom 7. April 2010 (BGBl. I S. 399) geändert worden ist, in der jeweils geltenden Fassung anzuwenden.
 
-
-## § 3 – CE-Kennzeichnung
+# § 3 – CE-Kennzeichnung
 
 Soweit Sportboote, die nach dem 15. Juni 1998 erstmals auf den Markt der Europäischen Gemeinschaft oder der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum gelangen, zugleich nach Maßgabe produktsicherheitsrechtlicher Vorschriften über Sportboote und Wassermotorräder kennzeichnungspflichtig sind, dürfen sie nur in Betrieb genommen werden, wenn sie mit der nach produktsicherheitsrechtlichen Vorschriften über Sportboote oder Wassermotorräder vorgeschriebenen CE-Kennzeichnung versehen sind.
 
-
-## § 4 – Kennzeichnung von Wassermotorrädern im Inland
+# § 4 – Kennzeichnung von Wassermotorrädern im Inland
 
 (1) Wassermotorräder dürfen nur in Betrieb genommen werden, wenn sie mit einem gültigen amtlichen Kennzeichen nach § 4 Abs. 1 in Verbindung mit Anlage 1 der Verordnung über die Kennzeichnung von auf Binnenschifffahrtsstraßen verkehrenden Kleinfahrzeugen vom 21. Februar 1995 (BGBl. I S. 226), die zuletzt durch Artikel 30 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist, in der jeweils geltenden Fassung versehen sind.
 
@@ -207,8 +200,7 @@ Soweit Sportboote, die nach dem 15. Juni 1998 erstmals auf den Markt der Europä
 
 (4) Absatz 1 gilt nicht für Wassermotorräder, die durch Führen einer Flagge oder durch Aufschriften als Wasserrettungsfahrzeuge einer als gemeinnützig anerkannten Körperschaft gekennzeichnet sind.
 
-
-## § 5 – Bootszeugnis
+# § 5 – Bootszeugnis
 
 (1) Das Bootszeugnis (Anlage 1) wird auf Antrag des Unternehmers erteilt. Es wird auf die Dauer von zwei Jahren, bei Werftneubauten auf die Dauer von drei Jahren, befristet; eine anschließende Verlängerung um jeweils zwei Jahre ist nach vorheriger Untersuchung möglich.
 
@@ -228,8 +220,7 @@ Die §§ 48, 49 des Verwaltungsverfahrensgesetzes bleiben unberührt. Ein wegen 
 
 (6) Für Sportboote oder Wassermotorräder, die nicht vermietet werden, kann auf Antrag ein Bootszeugnis erteilt werden.
 
-
-## § 6 – Zulassungsverfahren
+# § 6 – Zulassungsverfahren
 
 (1) Die Erteilung eines Bootszeugnisses setzt eine Untersuchung des Sportbootes oder Wassermotorrades durch die Zulassungsbehörde voraus. Die Untersuchung erfolgt vor der erstmaligen Vermietung sowie vor jeder Verlängerung der Gültigkeitsdauer des Bootszeugnisses. Der Untersuchungsumfang ist in Anlage 2 festgelegt. Das Sportboot oder Wassermotorrad ist möglichst vor Beginn der Saison der Zulassungsbehörde vorzuführen. Auf Verlangen der Zulassungsbehörde ist das Sportboot oder Wassermotorrad zur Untersuchung auf dem Trockenen vorzuführen.
 
@@ -253,8 +244,7 @@ Die §§ 48, 49 des Verwaltungsverfahrensgesetzes bleiben unberührt. Ein wegen 
 
 (7) Die Zulassungsbehörde kann im Einzelfall Unterlagen zum Nachweis der Angaben nach den Absätzen 4 und 6 verlangen.
 
-
-## § 7 – Vermietung
+# § 7 – Vermietung
 
 Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 
@@ -266,15 +256,13 @@ Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 
 4. die in dem Bootszeugnis nach Nummer 2 vorgeschriebene Ausrüstung an Bord hat.
 
-
-## § 8 – Amtliche Kennzeichen
+# § 8 – Amtliche Kennzeichen
 
 (1) Der Unternehmer muss bei vermieteten Sportbooten vor Inbetriebnahme auf der Innenseite deutlich sicht- und lesbar Name und Wohnsitz oder Sitz des Unternehmers und die von der Zulassungsbehörde festgesetzte höchstzulässige Anzahl der zu befördernden Personen anbringen. Er muss bis zu diesem Zeitpunkt in mindestens zehn Zentimeter hohen lateinischen Buchstaben und arabischen Ziffern dauerhaft in heller Farbe auf dunklem Grund oder dunkler Farbe auf hellem Grund an den beiden Bug- oder Heckseiten oder am Spiegelheck der Sportboote die Buchstaben des Unterscheidungszeichens für den Verwaltungsbezirk des Ortes der Zulassungsbehörde und eine von der Zulassungsbehörde bestimmte Nummer anbringen. Die Sätze 1 und 2 gelten nicht für vermietete Sportboote, die aufgrund anderer schifffahrtspolizeilicher Vorschriften des Bundes oder der Länder gekennzeichnet sind. Für die Bezeichnung der vermieteten Sportboote mit ihrem Namen und dem Namen des Heimathafens gelten die Vorschriften des Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26. Oktober 1994 (BGBl. I S. 3140), zuletzt geändert durch Artikel 25 des Gesetzes vom 15. Dezember 2001 (BGBl. I S. 3762), und der Flaggenrechtsverordnung vom 4. Juli 1990 (BGBl. I S. 1389), zuletzt geändert durch Artikel 442 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), in der jeweils geltenden Fassung.
 
 (2) An vermieteten Wassermotorrädern muss der Unternehmer vor Inbetriebnahme deutlich sicht- und lesbar Name und Wohnsitz oder Sitz des Unternehmers dauerhaft anbringen.
 
-
-## § 9 – Unterhaltung
+# § 9 – Unterhaltung
 
 (1) Der Unternehmer hat das Sportboot oder Wassermotorrad und seine Ausrüstung stets in verkehrssicherem Zustand zu erhalten. Ein Sportboot oder Wassermotorrad, das sich nicht mehr in verkehrssicherem Zustand befindet oder dessen Ausrüstung nicht vollständig oder unbrauchbar ist, darf nicht vermietet werden.
 
@@ -282,15 +270,13 @@ Ein Sportboot oder Wassermotorrad darf nur vermietet werden, wenn es
 
 (3) Die Untersuchung nach Absatz 2 Satz 1 kann durch einen Besichtiger der Berufsgenossenschaft oder einer anerkannten Organisation im Sinne des § 6 Abs. 2 durchgeführt werden. Dem Antrag auf Bescheinigung der Verkehrssicherheit ist in diesem Fall die Untersuchungsbescheinigung der Berufsgenossenschaft oder der anerkannten Organisation beizufügen. § 6 Abs. 3 Satz 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 10 – Besichtigung der Betriebsstätte und der Sportboote oder Wassermotorräder
+# § 10 – Besichtigung der Betriebsstätte und der Sportboote oder Wassermotorräder
 
 (1) Der Unternehmer hat die Betriebsstätte, an der er Sportboote oder Wassermotorräder zur Vermietung anbieten will, so rechtzeitig vor der Inbetriebnahme oder der Wiederaufnahme des Betriebes vor Beginn der Saison der Zulassungsbehörde anzuzeigen, dass eine Besichtigung vor der Eröffnung oder der Wiederaufnahme des Betriebes möglich ist. Die Beauftragten der Zulassungsbehörde sind berechtigt, die Betriebsstätte des Unternehmers während der üblichen Geschäfts- und Betriebszeit zur Vornahme von Prüfungen zu betreten. Der Unternehmer oder sein bevollmächtigter Vertreter hat den Beauftragten der Zulassungsbehörde auf Verlangen das Betreten der Betriebsstätte und die Besichtigung der Sportboote oder Wassermotorräder zu gestatten, die benötigten Arbeitskräfte und Hilfsmittel bereitzustellen sowie Auskünfte zu erteilen und Unterlagen vorzulegen.
 
 (2) Wer als Unternehmer ohne Betriebsstätte ein großes Sportboot vermietet, hat der Zulassungsbehörde vor Aufnahme des Betriebes seine Anschrift und den Liegeplatz des Sportbootes mit der Angabe des Hafens, der Brücke und der Nummer des Liegeplatzes anzuzeigen.
 
-
-## § 11 – Pflichten des Unternehmers
+# § 11 – Pflichten des Unternehmers
 
 (1) Der Unternehmer darf ein Sportboot oder Wassermotorrad nicht übergeben an
 
@@ -326,8 +312,7 @@ Der Unternehmer ist berechtigt, zur Feststellung des Alters des Benutzers die Vo
 
 (6) Der Unternehmer hat an der Betriebsstätte ein zur Rettung geeignetes fahrbereites motorisiertes Boot und einen Rettungsring mit einer Tragfähigkeit von mindestens 14,5 Kilogramm bereitzuhalten. Dies gilt nicht im Falle des § 10 Abs. 2.
 
-
-## § 12 – Pflichten der Mieter und Bootsführer
+# § 12 – Pflichten der Mieter und Bootsführer
 
 (1) Ein Mieter darf ein Sportboot oder Wassermotorrad nicht Personen zum selbstständigen Gebrauch überlassen, an die eine Übergabe nach § 11 Abs. 1 ausgeschlossen ist. § 11 Abs. 2 findet entsprechende Anwendung.
 
@@ -343,18 +328,15 @@ Der Unternehmer ist berechtigt, zur Feststellung des Alters des Benutzers die Vo
 
 (3) Mieter und Bootsführer kleiner Sportboote haben dafür zu sorgen, dass bei einsetzendem Nebel, Sturm oder aufziehendem Gewitter das Sportboot sofort zur Betriebsstätte zurückkehrt oder, soweit dies nicht möglich ist, an einer geschützten Stelle des Ufers anlegt.
 
-
-## § 13 – Beschränkungen und Ausnahmen
+# § 13 – Beschränkungen und Ausnahmen
 
 Wenn die örtlichen Verhältnisse der Gewässer oder die Sicherheit und Leichtigkeit der Schifffahrt es erfordern oder gestatten, kann die Zulassungsbehörde im Einzelfall, die Generaldirektion Wasserstraßen und Schifffahrt auch durch allgemeine Anordnungen, für Unternehmer, Mieter und Bootsführer Verbote und Gebote erlassen oder Ausnahmen zulassen.
 
-
-## § 14 – Sicherheitszeugnis
+# § 14 – Sicherheitszeugnis
 
 Ein Sportboot darf nur gewerbsmäßig genutzt werden, wenn es ein Sicherheitszeugnis der Berufsgenossenschaft nach § 9 Absatz 3 der Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013, 3023), die zuletzt durch Artikel 1 der Verordnung vom 7. März 2018 (BGBl. I S. 237) geändert worden ist, besitzt und den übrigen Anforderungen der Schiffssicherheitsverordnung entspricht. Soweit die internationalen Regelungen und die Schiffssicherheitsverordnung nicht entgegenstehen, richten sich die Sicherheitsanforderungen für gewerbsmäßig genutzte Sportboote bis zum Inkrafttreten des Teils 4 der Anlage 1a zur Schiffssicherheitsverordnung vom 18. September 1998 in ihrer jeweils geltenden Fassung nach der Richtlinie über Sicherheitsvorschriften für gewerbsmäßig zu Ausbildungszwecken genutzte Sportfahrzeuge nach § 52a der Schiffssicherheitsverordnung 1997 (Richtlinie für Ausbildungsfahrzeuge) vom 25. August 1997 (VkBl. S. 572).
 
-
-## § 15 – Fahrerlaubnis
+# § 15 – Fahrerlaubnis
 
 (1) Wer ein Sportboot zum Zweck der gewerbsmäßigen Nutzung führt, bedarf einer Fahrerlaubnis sowie eines für die Funkstelle ausreichenden gültigen Funkzeugnisses. Wird das Sportboot in den Küstengewässern eingesetzt, ist die Fahrerlaubnis durch Vorlage des Sportküstenschifferscheins im Sinne des § 1 Absatz 1 Satz 1 Nummer 1 der Sportseeschifferscheinverordnung nachzuweisen. Wird das Sportboot in den küstennahen Seegewässern eingesetzt, ist die Fahrerlaubnis durch den Sportseeschifferschein im Sinne des § 1 Absatz 1 Satz 1 Nummer 2 der Sportseeschifferscheinverordnung nachzuweisen, bei Einsatz des Sportbootes in der weltweiten Fahrt durch den Sporthochseeschifferschein im Sinne des § 1 Absatz 1 Satz 1 Nummer 3 der Sportseeschifferscheinverordnung. Der Nachweis des für die Funkstelle ausreichenden gültigen Funkzeugnisses richtet sich nach § 1 Absatz 7 der Sportseeschifferscheinverordnung.
 
@@ -362,8 +344,7 @@ Ein Sportboot darf nur gewerbsmäßig genutzt werden, wenn es ein Sicherheitszeu
 
 (2) Der Bootsführer muss dafür sorgen, dass gewerbsmäßig genutzte Sportboote entsprechend ihrer Antriebsart mindestens die sich aus der Anlage 4 ergebende Besetzung mit Inhabern von Fahrerlaubnissen nach Absatz 1 haben.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -423,13 +404,11 @@ h) entgegen § 15 Abs. 2 nicht dafür sorgt, dass ein gewerbsmäßig genutztes S
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## § 17 – Überwachung
+# § 17 – Überwachung
 
 Für die Überwachung der §§ 3 bis 15 dieser Verordnung sind die Schifffahrtspolizeibehörden zuständig. Die Überwachung der §§ 5 bis 13 obliegt auch der Zulassungsbehörde. Die Behörden bedienen sich hierbei der Wasserschutzpolizeien der Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung schifffahrtspolizeilicher Vollzugsaufgaben (§ 20 Abs. 1 Nr. 5 des Seeaufgabengesetzes) sowie der Bundespolizei und der Zollverwaltung.
 
-
-## § 18 – Vermietung im Ausland
+# § 18 – Vermietung im Ausland
 
 (1) Für Sportboote unter deutscher Flagge, die im Ausland vermietet werden, sind § 5 Abs. 1 bis 3 sowie Abs. 4 Satz 1 Nr. 1 und Satz 2, §§ 7, 10 Abs. 1 Satz 1 und Abs. 2, §§ 11 und 12 anzuwenden. Liegen Anhaltspunkte dafür vor, dass die Voraussetzungen des § 5 Abs. 4 Satz 1 Nr. 1 gegeben sind, kann die Zulassungsbehörde einen Besichtiger der Berufsgenossenschaft oder einen ortsansässigen Besichtiger einer anerkannten Organisation beauftragen, eine Nachbesichtigung durchzuführen.
 
@@ -441,15 +420,13 @@ Für die Überwachung der §§ 3 bis 15 dieser Verordnung sind die Schifffahrtsp
 
 (5) Die Pflicht zum Besitz eines Bootszeugnisses besteht nicht, wenn der jeweilige Staat für Sportboote unter deutscher Flagge ein eigenes Sicherheitszeugnis vorschreibt.
 
-
-## § 19 – Gewerbsmäßige Nutzung im Ausland
+# § 19 – Gewerbsmäßige Nutzung im Ausland
 
 (1) Für Sportboote unter deutscher Flagge, die im Ausland gewerbsmäßig genutzt werden, ist § 14 entsprechend anzuwenden.
 
 (2) Deutsche mit Wohnsitz im Geltungsbereich des Grundgesetzes, die im Ausland ein Sportboot zum Zweck der gewerbsmäßigen Nutzung führen, bedürfen einer Fahrerlaubnis nach § 15 sowie eines Funkbetriebszeugnisses. Funkbetriebszeugnisse nach Satz 1 sind mindestens das UKW-Betriebszeugnis I im Sinne des § 2 Abs. 1 Nr. 3 Buchstabe d der Verordnung über Seefunkzeugnisse oder das Beschränkt Gültige Funkbetriebszeugnis (SRC) im Sinne des Abschnitts A Nr. 1 Buchstabe b Doppelbuchstabe bb der Anlage 3 zu § 13 Abs. 4a der Schiffssicherheitsverordnung.
 
-
-## Anlage 1 – (zu § 5)
+# Anlage 1 – (zu § 5)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3465 - 3466
 
@@ -949,8 +926,7 @@ Prüfungsnachweis
 +++)  
 baumustergeprüft
 
-
-## Anlage 2 – (zu § 6 Abs. 1)  Untersuchungsumfang
+# Anlage 2 – (zu § 6 Abs. 1)  Untersuchungsumfang
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3467
 
@@ -977,8 +953,7 @@ Mast
 \-  
 Rigg (stehendes und laufendes Gut)
 
-.  
-Bauliche Ausrüstung und Einrichtung
+. Bauliche Ausrüstung und Einrichtung
 
 \-  
 Lenzeinrichtungen
@@ -1001,8 +976,7 @@ Seereling, Relingstützen
 \-  
 Inneneinrichtung (Toilette, Tanks etc.)
 
-.  
-Sicherheitsausrüstung
+. Sicherheitsausrüstung
 
 \-  
 Ankerausrüstung
@@ -1028,8 +1002,7 @@ Schwimmwesten
 \-  
 Seenotsignale
 
-.  
-Antriebs- und E-Anlage
+. Antriebs- und E-Anlage
 
 \-  
 Antriebsanlage
@@ -1049,8 +1022,7 @@ Verteilernetz
 \-  
 Verbraucher
 
-.  
-Heizgeräte und Flüssiggasanlagen
+. Heizgeräte und Flüssiggasanlagen
 
 \-  
 Heizgeräte mit flüssigen Brennstoffen vorhanden: Baumusterprüfbescheinigung oder gleichwertige Bescheinigung
@@ -1060,8 +1032,7 @@ Flüssiggasanlagen vorhanden: Prüfbescheinigung nach der Richtlinie der See-Ber
 
 Die in dem Bootszeugnis vorzuschreibende Mindestausrüstung richtet sich nach den Sicherheitsrichtlinien der Kreuzer-Abteilung des Deutschen Segler-Verbandes in der jeweils neuesten Fassung.
 
-
-## Anlage 3 – (zu § 6 Abs. 2)
+# Anlage 3 – (zu § 6 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3468 - 3476
 
@@ -1447,7 +1418,6 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3468 - 3476
      ++) Prüfungsnachweis
     +++) baumustergeprüft 
 
-
-## Anlage 4 – (zu § 15 Abs. 2)Besetzung von gewerbsmäßig genutzten Sportbooten
+# Anlage 4 – (zu § 15 Abs. 2)Besetzung von gewerbsmäßig genutzten Sportbooten
 
 (Fundstelle: BGBl. I 2010, 574)

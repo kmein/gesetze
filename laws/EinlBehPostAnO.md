@@ -1,15 +1,11 @@
-# [EinlBehPostAnO] Anordnung zur Bestimmung der Einleitungsbehörden bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost, der Unfallkasse Post und Telekom sowie der Museumsstiftung Post und Telekommunikation
-
-Ausfertigungsdatum: 18.05.1995
-
+% Anordnung zur Bestimmung der Einleitungsbehörden bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost, der Unfallkasse Post und Telekom sowie der Museumsstiftung Post und Telekommunikation
+% Ausfertigungsdatum: 18.05.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in der Fassung der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) ordnet das Bundesministerium für Post und Telekommunikation im Benehmen mit dem Bundesministerium des Innern an:
 
-
-## I.
+# I.
 
 Einleitungsbehörden sind
 
@@ -27,7 +23,6 @@ a) für den Kurator und seinen ständigen Vertreter das Bundesministerium für P
 
 b) für die übrigen Beamten der Kurator der Museumsstiftung.
 
-
-## II.
+# II.
 
 Diese Anordnung tritt mit sofortiger Wirkung in Kraft.

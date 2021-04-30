@@ -1,10 +1,7 @@
-# [InfrAG] Gesetz über die Erhebung einer zeitbezogenen Infrastrukturabgabe für die Benutzung von Bundesfernstraßen  (Infrastrukturabgabengesetz - InfrAG)
-
-Ausfertigungsdatum: 08.06.2015
-
+% Gesetz über die Erhebung einer zeitbezogenen Infrastrukturabgabe für die Benutzung von Bundesfernstraßen  (Infrastrukturabgabengesetz - InfrAG)
+% Ausfertigungsdatum: 08.06.2015
  
-
-## § 1 – Infrastrukturabgabe
+# § 1 – Infrastrukturabgabe
 
 (1) Für die Benutzung der Bundesfernstraßen im Sinne des § 1 des Bundesfernstraßengesetzes mit
 
@@ -20,8 +17,7 @@ ist eine Abgabe zu entrichten (Infrastrukturabgabe).
 
 (3) Die Infrastrukturabgabe nach Absatz 1 ist nicht zu entrichten auf den Abschnitten von Bundesfernstraßen, für deren Benutzung eine Maut nach § 2 des Fernstraßenbauprivatfinanzierungsgesetzes erhoben wird.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 (1) Die Infrastrukturabgabe ist nicht zu entrichten für die Benutzung von Straßen im Sinne des § 1 Absatz 1 mit
 
@@ -112,8 +108,7 @@ Voraussetzung für die Ausnahmen nach Satz 1 Nummer 3 bis 5 ist, dass die Kraftf
 
 (4) Soweit die Pflicht zur Entrichtung der Abgabe auch für Kraftfahrzeuge, die nicht in der Bundesrepublik Deutschland zugelassen sind, auf Abschnitten von Bundesstraßen besteht, ist in geeigneter Weise auf die Abgabenpflicht des jeweiligen abgabenpflichtigen Abschnitts hinzuweisen.
 
-
-## § 3 – Schuldner der Infrastrukturabgabe
+# § 3 – Schuldner der Infrastrukturabgabe
 
 Schuldner der Infrastrukturabgabe ist
 
@@ -123,15 +118,13 @@ Schuldner der Infrastrukturabgabe ist
 
 Im Falle eines Fahrzeugs, das in der Bundesrepublik Deutschland zugelassen ist, ist abweichend von Satz 1 nur der Halter des Fahrzeugs der Schuldner der Infrastrukturabgabe. Die kumulative Inanspruchnahme beider Schuldner ist unzulässig. Mehrere Schuldner der Infrastrukturabgabe haften als Gesamtschuldner.
 
-
-## § 4 – Infrastrukturabgabebehörde
+# § 4 – Infrastrukturabgabebehörde
 
 (1) Das Kraftfahrt-Bundesamt ist zuständig für die Erhebung der Infrastrukturabgabe. Es kann einem privaten Dritten die Erhebung der Infrastrukturabgabe, die Durchführung der Mahnungen nach § 3 Absatz 3 des Verwaltungs-Vollstreckungsgesetzes und den Erlass von Vollstreckungsanordnungen übertragen (Betreiber). Die Übertragung nach Satz 2 ist vom Kraftfahrt-Bundesamt im Bundesanzeiger bekannt zu geben. Der Betreiber unterliegt der Aufsicht des Kraftfahrt-Bundesamtes.
 
 (2) Im Falle der Übertragung nach Absatz 1 Satz 2 hat der Betreiber die Einnahmen aus der Erhebung der Infrastrukturabgabe taggleich an eine Bundeskasse abzuführen. Soweit es für die Erfüllung der übertragenen haushaltsrechtlichen Aufgaben erforderlich ist, kann der Betreiber Anordnungen zur Annahme oder Leistung von Zahlungen nach § 70 der Bundeshaushaltsordnung erteilen, die von den Bundeskassen ausgeführt werden. Dem Betreiber obliegt zur Erfüllung der Aufgaben außerdem die Wahrnehmung des Zahlungsverkehrs als für Zahlungen zuständige Stelle. Die notwendigen Bestimmungen der Bundeshaushaltsordnung und die dazu erlassenen Ausführungsbestimmungen sind insoweit entsprechend anzuwenden. Das Nähere wird im Einvernehmen mit dem Bundesministerium der Finanzen bestimmt.
 
-
-## § 5 – Entrichtung der Infrastrukturabgabe
+# § 5 – Entrichtung der Infrastrukturabgabe
 
 (1) Die Infrastrukturabgabe ist von dem Schuldner nach § 3 vor Benutzung von abgabepflichtigen Straßen im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3, durch Erwerb einer elektronischen Vignette (Vignette) an die Infrastrukturabgabebehörde zu entrichten. Die Höhe der jeweilig zu entrichtenden Infrastrukturabgabe ergibt sich aus der Anlage zu § 8. Sie wird für in der Bundesrepublik Deutschland zugelassene Kraftfahrzeuge von der Infrastrukturabgabebehörde durch Bescheid festgesetzt. Für im Ausland zugelassene Kraftfahrzeuge gilt die bei Erwerb der Vignette ausgegebene Buchungsbestätigung als Bescheid. Unbeschadet des Satzes 1 gilt die Vignette für Kraftfahrzeuge, die in der Bundesrepublik Deutschland zugelassen sind, mit erteilter Zulassung als erworben. Die Vignette gilt für ein bestimmtes Kraftfahrzeug mit dem ihm zugeteilten Kennzeichen. Der Erwerb der Vignette berechtigt zur Benutzung aller Straßen im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3, während des Zeitraums der Gültigkeit der Vignette. Ein Widerspruchsverfahren findet nicht statt.
 
@@ -155,8 +148,7 @@ In den Fällen des Satzes 1 Nummer 1 ist die erstmalige Entrichtung der Abgabe b
 
 (4) Die Verpflichtung zur Entrichtung der Infrastrukturabgabe für ein Kraftfahrzeug, das nicht in der Bundesrepublik Deutschland zugelassen ist, entsteht mit der ersten Benutzung einer abgabepflichtigen Straße im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3, nach einem Grenzübertritt. Schuldner der Infrastrukturabgabe für Kraftfahrzeuge, die nicht in der Bundesrepublik Deutschland zugelassen sind, haben bei der Erhebung der Infrastrukturabgabe mitzuwirken und die für die Infrastrukturabgabe maßgeblichen Tatsachen ordnungsgemäß anzugeben. Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Einzelheiten zur Mitwirkung bei der Erhebung der Infrastrukturabgabe nach Satz 2 zu regeln.
 
-
-## § 6 – Infrastrukturabgaberegister
+# § 6 – Infrastrukturabgaberegister
 
 (1) Zum Zweck der Erhebung der Infrastrukturabgabe führt das Kraftfahrt-Bundesamt ein Infrastrukturabgaberegister über
 
@@ -224,8 +216,7 @@ Kraftfahrzeuge nach Satz 1 Nummer 3 werden nur auf Antrag des Halters des Kraftf
 
 (10) Die Daten nach den Absätzen 2 und 4 Satz 2 dürfen ausschließlich für die Zwecke dieses Gesetzes verarbeitet werden. Eine Übermittlung, Verwendung oder Beschlagnahme dieser Daten nach anderen Rechtsvorschriften ist unzulässig.
 
-
-## § 7 – Entrichtungszeitraum und Gültigkeit
+# § 7 – Entrichtungszeitraum und Gültigkeit
 
 (1) Für in der Bundesrepublik Deutschland zugelassene Kraftfahrzeuge ist die Infrastrukturabgabe jeweils für ein Jahr zu entrichten. Der Entrichtungszeitraum beginnt, soweit in diesem Gesetz nichts anderes bestimmt ist, mit dem Tag der Zulassung des Fahrzeugs.
 
@@ -247,13 +238,11 @@ zu entrichten.
 
 (6) Die Infrastrukturabgabebehörde setzt die Infrastrukturabgabe nach Absatz 1 unbefristet fest, wenn der Zeitpunkt der Beendigung der Abgabenpflicht nicht feststeht. In allen anderen Fällen setzt sie die Infrastrukturabgabe für einen bestimmten Zeitraum fest.
 
-
-## § 8 – Abgabensätze
+# § 8 – Abgabensätze
 
 Die Höhe der Infrastrukturabgabe bestimmt sich nach der Anlage. Die zu entrichtende Infrastrukturabgabe ist jeweils auf volle Euro nach unten abzurunden.
 
-
-## § 9 – Nachweis der Entrichtung
+# § 9 – Nachweis der Entrichtung
 
 (1) Der Schuldner der Infrastrukturabgabe hat auf Verlangen der Infrastrukturabgabebehörde die ordnungsgemäße Entrichtung der Infrastrukturabgabe nachzuweisen.
 
@@ -273,8 +262,7 @@ Im Falle des Satzes 1 Nummer 2 hat der Halter des Fahrzeugs zugleich über die n
 
 (6) Ist die Infrastrukturabgabe nicht entrichtet worden, so hat die nach Landesrecht zuständige Behörde auf Antrag der Infrastrukturabgabebehörde die Zulassungsbescheinigung Teil I oder den Fahrzeugschein einzuziehen und das amtliche Kennzeichen zu entstempeln (Abmeldung von Amts wegen). Sie trifft die hierzu erforderlichen Anordnungen durch schriftlichen Verwaltungsakt (Außerbetriebsetzung).
 
-
-## § 10 – Erstattung der Infrastrukturabgabe
+# § 10 – Erstattung der Infrastrukturabgabe
 
 (1) Vor Beginn des Gültigkeitszeitraums einer Vignette nach § 7 Absatz 2 kann die Infrastrukturabgabe auf Antrag erstattet werden.
 
@@ -300,8 +288,7 @@ bei der Infrastrukturabgabebehörde zu stellen. § 32 des Verwaltungsverfahrensg
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates das Verfahren der Erstattung der Infrastrukturabgabe bei der Infrastrukturabgabebehörde, den Nachweis des Vorliegens der Voraussetzungen nach Absatz 2 Satz 2 und 3 und die Höhe der Gebühr nach Absatz 4 zu regeln.
 
-
-## § 11 – Überwachung
+# § 11 – Überwachung
 
 (1) Das Bundesamt für Güterverkehr überwacht stichprobenartig die Einhaltung der Abgabenpflicht nach diesem Gesetz. Das Bundesamt für Güterverkehr kann sich dabei der Mitwirkung eines privaten Dritten bedienen. Die Mitwirkung ist vom Bundesamt für Güterverkehr im Bundesanzeiger bekannt zu geben. Dem privaten Dritten nach Satz 2 kann zu diesem Zweck die Feststellung von Benutzungen von Straßen im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3, und der ordnungsgemäßen Abgabenentrichtung übertragen werden.
 
@@ -333,8 +320,7 @@ Diese Daten dürfen ausschließlich zum Zweck der Überwachung der Einhaltung de
 
 (8) Weitergehende Befugnisse des Bundesamtes für Güterverkehr, die ihm nach anderen gesetzlichen Bestimmungen zustehen, bleiben unberührt.
 
-
-## § 12 – Nachträgliche Erhebung der Infrastrukturabgabe
+# § 12 – Nachträgliche Erhebung der Infrastrukturabgabe
 
 (1) Die Abgabe wird von der Infrastrukturabgabebehörde nachträglich durch Bescheid erhoben, wenn die Pflicht zur Entrichtung der Infrastrukturabgabe besteht und Straßen im Sinne des § 1 Absatz 1, auch in Verbindung mit Absatz 2 und § 2 Absatz 3,
 
@@ -366,8 +352,7 @@ genutzt werden. In den Fällen des Satzes 1 Nummer 1 entspricht die nachträglic
 
 (4) Abweichend von Absatz 1 Satz 1 ist für die nachträgliche Erhebung der Abgabe das Bundesamt für Güterverkehr zuständig, wenn die Erhebung im Rahmen der dem Bundesamt für Güterverkehr obliegenden Überwachung nach § 11 Absatz 1 erfolgt.
 
-
-## § 13 – Datenlöschung, Geschäftsstatistiken
+# § 13 – Datenlöschung, Geschäftsstatistiken
 
 (1) Die Infrastrukturabgabebehörde hat die nach § 6 Absatz 7 Satz 1 abgerufenen Daten nach § 6 Absatz 2 Nummer 1, 2, 5 und 6 sowie die Daten nach § 6 Absatz 4 Satz 2 Nummer 1 und 2 ein Jahr nach Ablauf des Kalenderjahres, in dem der Entrichtungszeitraum endet, zu löschen. Die übrigen nach § 6 Absatz 7 Satz 1 abgerufenen Daten nach § 6 Absatz 2 sowie die übrigen Daten nach Absatz 4 Satz 2 sind sechs Jahre nach der Erhebung der Daten zu löschen.
 
@@ -377,8 +362,7 @@ genutzt werden. In den Fällen des Satzes 1 Nummer 1 entspricht die nachträglic
 
 (4) Nach diesem Gesetz gespeicherte Daten dürfen in anonymisierter Form zur Erstellung von Geschäftsstatistiken verwendet werden.
 
-
-## § 14 – Bußgeldvorschriften
+# § 14 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -392,8 +376,7 @@ genutzt werden. In den Fällen des Satzes 1 Nummer 1 entspricht die nachträglic
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Güterverkehr.
 
-
-## § 15 – Abgabenaufkommen
+# § 15 – Abgabenaufkommen
 
 (1) Das Aufkommen aus der Erhebung der Infrastrukturabgabe steht unbeschadet des § 5a des Bundesfernstraßengesetzes dem Bund zu. Ausgaben für
 
@@ -407,8 +390,7 @@ werden aus diesem Aufkommen geleistet. Das verbleibende Aufkommen wird dem Verke
 
 (2) Der Bund stellt das verbleibende Aufkommen nach Absatz 1 Satz 3 der Gesellschaft privaten Rechts im Sinne des Infrastrukturgesellschaftserrichtungsgesetzes für das in ihrer Zuständigkeit befindliche Streckennetz mit der Zweckbindung nach Absatz 1 Satz 3 zur Verfügung.
 
-
-## § 16 – Beginn der Abgabenerhebung
+# § 16 – Beginn der Abgabenerhebung
 
 (1) Das Kraftfahrt-Bundesamt hat mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur bei Vorliegen der technischen Einsatzbereitschaft des zur Erhebung der Infrastrukturabgabe erforderlichen Systems unverzüglich
 
@@ -422,18 +404,15 @@ Im Falle des § 4 Absatz 1 Satz 2 gilt die technische Einsatzbereitschaft im Sin
 
 (3) Die Infrastrukturabgabebehörde beginnt abweichend von Absatz 2 Satz 1 bereits ab dem Tag, der auf die Bekanntmachung nach Absatz 1 Satz 1 Nummer 2 folgt, unverzüglich mit der Festsetzung der Infrastrukturabgabe für die in § 5 Absatz 2 Satz 1 Nummer 1 bezeichneten Kraftfahrzeuge mit Wirkung für den Beginn der Erhebung der Infrastrukturabgabe.
 
-
-## § 17 – Verkündung von Rechtsverordnungen
+# § 17 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 18 – Evaluierung
+# § 18 – Evaluierung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur legt unter Beteiligung des Bundesministeriums der Finanzen zwei Jahre nach der Feststellung der technischen Einsatzbereitschaft des zur Erhebung der Infrastrukturabgabe erforderlichen Systems durch das Kraftfahrt-Bundesamt dem Deutschen Bundestag einen Bericht zu den tatsächlichen Netto-Einnahmen, den wirtschaftlichen Auswirkungen auf die Grenzregionen, den gesamten Erfüllungsaufwand (Bürokratiekosten) der Infrastrukturabgabe, den auf Grundlage des § 2 Absatz 3 getroffenen Maßnahmen und zur Angemessenheit der Rechtsbehelfsmöglichkeiten in Zusammenhang mit der Erhebung der Infrastrukturabgabe vor.
 
-
-## Anlage (zu § 8) – Abgabensätze
+# Anlage (zu § 8) – Abgabensätze
 
 (Fundstelle: BGBl. I 2015, 912)
 
@@ -495,9 +474,7 @@ ccc) die Anforderungen der Emissionsklasse Euro 6 erfüllen, 4,80 Euro,
 
 b) Kraftfahrzeuge im Sinne des § 1 Absatz 1 Nummer 2 für je 200 Kilogramm des zulässigen Gesamtgewichts oder einen Teil davon 16 Euro,
 
-insgesamt jedoch nicht mehr als 130 Euro.  
-Für Kraftfahrzeuge mit Wankelmotoren bezeichnet Hubraum im Sinne des Satzes 1 Nummer 3 das doppelte Nennkammervolumen.  
-Abweichend von Satz 1 beträgt die Infrastrukturabgabe für die
+insgesamt jedoch nicht mehr als 130 Euro. Für Kraftfahrzeuge mit Wankelmotoren bezeichnet Hubraum im Sinne des Satzes 1 Nummer 3 das doppelte Nennkammervolumen. Abweichend von Satz 1 beträgt die Infrastrukturabgabe für die
 
 1. Zehntagesvignette 25 Euro,
 

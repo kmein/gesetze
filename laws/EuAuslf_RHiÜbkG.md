@@ -1,15 +1,11 @@
-# [EuAuslf/RHiÜbkG] Gesetz zu dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 1957 und zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen
-
-Ausfertigungsdatum: 03.11.1964
-
+% Gesetz zu dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 1957 und zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen
+% Ausfertigungsdatum: 03.11.1964
  
-
-## Art 1
+# Art 1
 
 Dem in Paris am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichneten Europäischen Auslieferungsübereinkommen und dem in Straßburg am 20. April 1959 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen über die Rechtshilfe in Strafsachen wird nach Maßgabe des Artikels 2 zugestimmt. Die Übereinkommen werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Auch bei einem Durchlieferungsverfahren nach Artikel 21 Abs. 4 Buchstabe a des Europäischen Auslieferungsübereinkommens ist Artikel 11 des Europäischen Auslieferungsübereinkommens entsprechend anzuwenden. Für die Durchlieferung auf dem Luftwege durch deutsches Hoheitsgebiet bedarf es ferner der Zusicherung, daß der Durchzuliefernde nach den im ersuchenden Staat bekannten Tatsachen und den in seinem Besitz befindlichen Unterlagen nicht die deutsche Staatsangehörigkeit besitzt und diese auch nicht in Anspruch nimmt.
 
@@ -19,20 +15,17 @@ Dem in Paris am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichn
 
 (4) Das Ersuchen um Zustellung einer Ladung im Sinne des Artikels 7 des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen an einen Beschuldigten, der sich im Gebiet der Bundesrepublik Deutschland aufhält, wird grundsätzlich nur ausgeführt, wenn es den deutschen Behörden spätestens einen Monat vor dem für das Erscheinen des Beschuldigten festgesetzten Zeitpunkt zugeht.
 
-
-## Art 3
+# Art 3
 
 (1) Die Überstellung eines Zeugen ist in den Fällen des Artikels 11 Abs. 1 Unterabsatz 2 des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen abzulehnen. Ein Fall des Buchstaben d ist insbesondere anzunehmen, wenn die Gefahr besteht, daß durch die Überstellung völkerrechtliche Verpflichtungen der Bundesrepublik Deutschland verletzt werden.
 
 (2) u. (3)
 
-
-## Art 4
+# Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

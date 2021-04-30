@@ -1,15 +1,11 @@
-# [VerbrVerbG] Gesetz zur Überwachung strafrechtlicher und anderer Verbringungsverbote
-
-Ausfertigungsdatum: 24.05.1961
-
+% Gesetz zur Überwachung strafrechtlicher und anderer Verbringungsverbote
+% Ausfertigungsdatum: 24.05.1961
  
-
-## § 1
+# § 1
 
 Die Behörden, die das Verbringen von Gegenständen in den räumlichen Geltungsbereich dieses Gesetzes zu überwachen haben, stellen sicher, daß nicht Gegenstände unter Verstoß gegen ein Strafgesetz, das ihre Einfuhr oder Verbreitung aus Gründen des Staatsschutzes verbietet, in diesen Bereich verbracht werden.
 
-
-## § 2
+# § 2
 
 (1) Die Hauptzollämter und ihre Beamten nehmen eine Nachprüfung vor, wenn sich tatsächliche Anhaltspunkte für den Verdacht ergeben, daß Gegenstände unter Verstoß gegen eines der in § 1 bezeichneten Strafgesetze in den räumlichen Geltungsbereich dieses Gesetzes verbracht werden, es sei denn, daß es sich lediglich um Reiselektüre handelt. Wird der Verdacht durch die Nachprüfung nicht ausgeräumt, so sind die Gegenstände der Staatsanwaltschaft vorzulegen.
 
@@ -17,18 +13,15 @@ Die Behörden, die das Verbringen von Gegenständen in den räumlichen Geltungsb
 
 (3) (weggefallen)
 
-
-## § 3
+# § 3
 
 Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den räumlichen Geltungsbereich dieses Gesetzes beförderten Sendungen, bei deren betrieblicher Behandlung sich tatsächliche Anhaltspunkte für den in § 2 bezeichneten Verdacht ergeben, der zuständigen Zolldienststelle vor.
 
-
-## § 4
+# § 4
 
 Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der §§ 2 und 3 eingeschränkt.
 
-
-## § 5
+# § 5
 
 (1) Es ist verboten, Filme, die nach ihrem Inhalt dazu geeignet sind, als Propagandamittel gegen die freiheitliche demokratische Grundordnung oder gegen den Gedanken der Völkerverständigung zu wirken, in den räumlichen Geltungsbereich dieses Gesetzes zu verbringen, soweit dies dem Zweck der Verbreitung dient. Dieses Verbot steht der Abfertigung durch die Zolldienststellen nicht entgegen.
 
@@ -40,8 +33,7 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 § 5 Abs. 1: Mit dem GG in der sich aus den Gründen ergebenden Auslegung vereinbar, BVerfGE v. 25.4.1972 I 1662 - 1 BvL 13/67 -
 
-
-## § 6
+# § 6
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Aufforderung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) nach § 5 Abs. 4 nicht nachkommt.
 
@@ -51,15 +43,12 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgab
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
+# §§ 7 bis 10 – (weggefallen)
 
-## §§ 7 bis 10 – (weggefallen)
-
-
-## § 11
+# § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 12
+# § 12
 
 Dieses Gesetz tritt am ersten Tage des vierten auf die Verkündung folgenden Kalendermonats in Kraft.

@@ -1,20 +1,15 @@
-# [OnlWahlV] Verordnung über die technischen und organisatorischen Vorgaben für die Durchführung einer Online-Wahl im Rahmen des Modellprojekts nach § 194a des Fünften Buches Sozialgesetzbuch  (Online-Wahl-Verordnung)
-
-Ausfertigungsdatum: 23.09.2020
-
+% Verordnung über die technischen und organisatorischen Vorgaben für die Durchführung einer Online-Wahl im Rahmen des Modellprojekts nach § 194a des Fünften Buches Sozialgesetzbuch  (Online-Wahl-Verordnung)
+% Ausfertigungsdatum: 23.09.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 194c des Fünften Buches Sozialgesetzbuch, der durch Artikel 5 Nummer 8 des Gesetzes vom 12. Juni 2020 (BGBl. I S. 1248) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die technischen und organisatorischen Vorgaben für die Durchführung der Online-Wahl im Rahmen des Modellprojekts nach § 194a Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Das Online-Wahlsystem umfasst die erforderlichen informationstechnischen Komponenten zur Durchführung der Online-Wahl. Es beinhaltet die Wahlplattform, die elektronische Wahlurne, die elektronische Liste mit den Wahlkennzeichen, zu denen eine Online-Stimme abgegeben wurde, den Zeitserver sowie die Anwendungssoftware zur Einrichtung und Durchführung der Wahl und zur Ermittlung des Wahlergebnisses.
 
@@ -30,8 +25,7 @@ Diese Verordnung regelt die technischen und organisatorischen Vorgaben für die 
 
 (7) Die Online-Stimme ist eine Datenstruktur zur Abbildung der Wahlentscheidung.
 
-
-## § 3 – Allgemeine technische und organisatorische Anforderungen
+# § 3 – Allgemeine technische und organisatorische Anforderungen
 
 (1) Die nach § 194a Absatz 2 Satz 2 des Fünften Buches Sozialgesetzbuch gebildete Arbeitsgemeinschaft bereitet die Ausschreibung der Beauftragung eines Online-Dienstleisters mit der Bereitstellung und dem Betrieb des Online-Wahlsystems vor. Die an der Online-Wahl teilnehmenden Krankenkassen (teilnehmende Krankenkassen) beauftragen auf der Grundlage der Ausschreibung einen Online-Dienstleister mit der Bereitstellung und dem Betrieb des Online-Wahlsystems.
 
@@ -43,20 +37,17 @@ Diese Verordnung regelt die technischen und organisatorischen Vorgaben für die 
 
 (5) Der Wahlausschuss und die Online-Wahlleitung können zur Erfüllung ihrer Aufgaben im Rahmen des Online-Wahlverfahrens externen und unabhängigen Sachverstand hinzuziehen. Nicht hinzugezogen werden darf der Online-Dienstleister.
 
-
-## § 4 – Technische Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik
+# § 4 – Technische Richtlinie des Bundesamtes für Sicherheit in der Informationstechnik
 
 Die sicherheitstechnischen Anforderungen an die Informationstechnik des Online-Wahlverfahrens sind nach dem Stand der Technik in der vom Bundesamt für Sicherheit in der Informationstechnik für das Modellprojekt erlassenen Technischen Richtlinie TR-03162 festgelegt. Die jeweils geltende Fassung der Technischen Richtlinie TR-03162 wird auf der Internetseite des Bundesamtes für Sicherheit in der Informationstechnik veröffentlicht und durch einen Verweis auf diese Internetseite im Bundesanzeiger bekannt gemacht.
 
-
-## § 5 – Informationssicherheitskonzept und Notfallkonzept
+# § 5 – Informationssicherheitskonzept und Notfallkonzept
 
 (1) Die teilnehmenden Krankenkassen haben gemeinsam und einheitlich das Sicherheitskonzept für die Online-Wahlen unter Anwendung des BSI IT-Grundschutzes in der jeweils gültigen Fassung zu erstellen. Wird für einzelne Prozessschritte oder zu schützende Informationen gemäß BSI IT-Grundschutz ein hoher oder ein sehr hoher Schutzbedarf für mindestens eines der Schutzziele Vertraulichkeit, Verfügbarkeit und Integrität festgestellt, ist von den teilnehmenden Krankenkassen für diese Prozessschritte oder zu schützenden Informationen eine Risikoanalyse unter Anwendung des BSI-Standards zum Risikomanagement in der jeweils gültigen Fassung vorzunehmen.
 
 (2) Die teilnehmenden Krankenkassen erarbeiten gemeinsam und einheitlich ein Notfallkonzept unter Anwendung des BSI-Standards zum Notfallmanagement in der jeweils gültigen Fassung. Das Notfallkonzept ist von den teilnehmenden Krankenkassen im Hinblick auf ihre spezifischen Vorgaben und Anforderungen anzupassen.
 
-
-## § 6 – Wählerverzeichnis und Online-Stimmzettel
+# § 6 – Wählerverzeichnis und Online-Stimmzettel
 
 (1) Das von der teilnehmenden Krankenkasse erstellte Wählerverzeichnis muss in das Online-Wahlsystem übertragen werden. Das Wählerverzeichnis ist gegen unbefugte Veränderung, Austausch, Löschung und unbefugten Zugriff oder Weitergabe zu schützen. Zugriffsversuche müssen technisch nachverfolgbar sein und dokumentiert werden.
 
@@ -64,8 +55,7 @@ Die sicherheitstechnischen Anforderungen an die Informationstechnik des Online-W
 
 (3) Der Online-Stimmzettel muss die Abgabe von gültigen und von ungültigen Stimmen ermöglichen. Die Wahlberechtigten dürfen vom Online-Wahlsystem keinen Hinweis auf die Gültigkeit oder Ungültigkeit ihrer abgegebenen Online-Stimmen erhalten.
 
-
-## § 7 – Wahlzeitraum und Verfügbarkeit
+# § 7 – Wahlzeitraum und Verfügbarkeit
 
 (1) Der Wahlzeitraum für die Stimmabgabe per Online-Wahl beginnt am 51. Tag vor dem Wahltag um 00:00:00 Uhr und endet am Wahltag um 23:59:59 Uhr. Mit dem Ende des Wahlzeitraums können sich die Wahlberechtigten nicht mehr in das Wahlsystem einwählen. Wahlberechtigte, die zum Ende des Wahlzeitraums in das Wahlsystem eingewählt sind, ihre Stimme aber noch nicht abgegeben haben, erhalten für die Stimmabgabe weitere zehn Minuten Zeit. Sie sind durch das Online-Wahlsystem über den Zeitablauf zu informieren. Mit dem Ablauf der weiteren zehn Minuten ist die Wahlphase beendet und alle Wahlberechtigten müssen automatisch durch das Online-Wahlsystem abgemeldet werden.
 
@@ -73,8 +63,7 @@ Die sicherheitstechnischen Anforderungen an die Informationstechnik des Online-W
 
 (3) Das Online-Wahlsystem muss eine dem nach § 3 Absatz 4 Satz 1 ermittelten Schutzbedarf entsprechend ausreichende Verfügbarkeit in der gesamten Wahlphase sicherstellen. Im Fall einer Störung dürfen bereits abgegebene Stimmen nicht verloren gehen.
 
-
-## § 8 – Überprüfung des Online-Wahlsystems
+# § 8 – Überprüfung des Online-Wahlsystems
 
 (1) Die teilnehmenden Krankenkassen erstellen gemeinsam einen Testfallkatalog. Unter Berücksichtigung dieses Testfallkatalogs überprüfen sie alle Funktionen des Online-Wahlsystems, insbesondere
 
@@ -92,8 +81,7 @@ Die Überprüfung muss Simulationen von Störungen im Wahlverlauf sowie störung
 
 (3) Die teilnehmenden Krankenkassen haben zusätzlich zu der Überprüfung nach Absatz 1 einen Sicherheitstest durch einen externen und unabhängigen Sachverständigen durchführen zu lassen. Für den Umfang des Sicherheitstests ist der nach § 3 Absatz 4 Satz 1 ermittelte Schutzbedarf entscheidend. Die Ergebnisse des Sicherheitstests sind vollständig zu protokollieren.
 
-
-## § 9 – Prüfung der Einrichtung und Freigabe des Online-Wahlsystems durch den Wahlausschuss
+# § 9 – Prüfung der Einrichtung und Freigabe des Online-Wahlsystems durch den Wahlausschuss
 
 (1) Der Wahlausschuss einer teilnehmenden Krankenkasse hat vor der Freigabe des Online-Wahlsystems die Einrichtung des Online-Wahlsystems im Hinblick auf die spezifischen Vorgaben und Anforderungen der teilnehmenden Krankenkasse für die Durchführung des Online-Wahlverfahrens zu prüfen.
 
@@ -123,8 +111,7 @@ Die Überprüfung muss Simulationen von Störungen im Wahlverlauf sowie störung
 
 (5) Die Ergebnisse der Prüfung der Einrichtung des Online-Wahlsystems nach Absatz 1 und die Entscheidung über die Freigabe nach Absatz 3 sind in der Niederschrift des Wahlausschusses zu protokollieren.
 
-
-## § 10 – Nutzbarkeit und Barrierefreiheit des Online-Wahlsystems
+# § 10 – Nutzbarkeit und Barrierefreiheit des Online-Wahlsystems
 
 (1) Das Online-Wahlsystem ist benutzerfreundlich und barrierefrei zu gestalten, so dass die Anmeldung und die Stimmabgabe per Online-Wahl auch technisch ungeübten Wahlberechtigten und wahlberechtigten Menschen mit Behinderungen möglich sind.
 
@@ -134,8 +121,7 @@ Die Überprüfung muss Simulationen von Störungen im Wahlverlauf sowie störung
 
 (4) Die Verantwortung für den Einsatz geeigneter Sicherungsmaßnahmen nach Absatz 3 liegt bei den Wahlberechtigten.
 
-
-## § 11 – Stimmabgabe per Online-Wahl
+# § 11 – Stimmabgabe per Online-Wahl
 
 (1) Nur Wahlberechtigte, die im Wählerverzeichnis eingetragen sind, dürfen ihre Stimme per Online-Wahl abgeben. Wahlberechtigte, deren Wahlberechtigung erst nach der Übertragung des Wählerverzeichnisses in das Online-Wahlsystem nach § 6 Absatz 1 festgestellt wurde, können nur an der Briefwahl teilnehmen.
 
@@ -151,8 +137,7 @@ Die Überprüfung muss Simulationen von Störungen im Wahlverlauf sowie störung
 
 (7) Mit der Stimmabgabe per Online-Wahl muss die abgegebene Online-Stimme unveränderbar sein und sowohl bei der Übertragung an die elektronische Wahlurne als auch nach der Speicherung in der elektronischen Wahlurne und bei der Auszählung gegen Kenntnisnahme durch Unbefugte und gegen Veränderungen geschützt sein.
 
-
-## § 12 – Entgegennahme der Online-Stimme
+# § 12 – Entgegennahme der Online-Stimme
 
 (1) Die elektronische Wahlurne und alle Verzeichnisse, auf denen Daten der Wahlberechtigten gespeichert werden, sind technisch voneinander zu trennen. Die elektronischen Übertragungswege sind so zu gestalten, dass eine Zuordnung der Online-Stimme zu den individualisierten Wahlberechtigten ausgeschlossen ist.
 
@@ -164,20 +149,17 @@ Die Überprüfung muss Simulationen von Störungen im Wahlverlauf sowie störung
 
 (5) Es muss sichergestellt sein, dass die abgegebenen Online-Stimmen bis zum Beginn der Ermittlung des Online-Wahlergebnisses nicht ausgewertet werden können.
 
-
-## § 13 – Abgleich der Briefwahl- und der Online-Stimmen
+# § 13 – Abgleich der Briefwahl- und der Online-Stimmen
 
 (1) Der Online-Dienstleister übermittelt die elektronische Liste mit den Wahlkennzeichen, zu denen eine Online-Stimme abgegeben wurde, an die Briefwahlleitung. Hierbei haben der Online-Dienstleister und die Briefwahlleitung sicherzustellen, dass die Daten gegen Veränderungen und Löschungen sowie gegen Austausch und Diebstahl geschützt werden.
 
 (2) Alle Wahlkennzeichen, für die eine Stimme per Briefwahl eingegangen ist und zusätzlich eine Online-Stimme abgegeben wurde, werden von der Briefwahlleitung ausgewiesen. Damit die Wahlbriefe als doppelte Stimmabgabe nach § 194b Absatz 3 Nummer 2 des Fünften Buches Sozialgesetzbuch identifiziert werden können, hat die Briefwahlleitung vor der Ermittlung des Wahlergebnisses die Wahlkennzeichen, zu denen eine Stimme per Briefwahl abgegeben wurde, mit den Wahlkennzeichen abzugleichen, zu denen eine Stimme per Online-Wahl abgegeben wurde.
 
-
-## § 14 – Bestellung einer Online-Wahlleitung
+# § 14 – Bestellung einer Online-Wahlleitung
 
 Der Wahlausschuss bestellt eine Online-Wahlleitung oder nimmt deren Aufgaben selbst wahr. Die Sitzungen der Online-Wahlleitung sind öffentlich.
 
-
-## § 15 – Prüfung der Ordnungsmäßigkeit der Online-Wahl
+# § 15 – Prüfung der Ordnungsmäßigkeit der Online-Wahl
 
 (1) Die Online-Wahlleitung hat die Ordnungsmäßigkeit der Online-Wahl zu prüfen. Die Prüfung darf erst erfolgen, wenn alle Wahlberechtigten von dem Online-Wahlsystem abgemeldet sind und keinen Zugriff mehr darauf haben. Zu prüfen ist insbesondere, ob
 
@@ -193,8 +175,7 @@ Der Wahlausschuss bestellt eine Online-Wahlleitung oder nimmt deren Aufgaben sel
 
 (2) Inhalt und Ergebnis der Prüfung nach Absatz 1 sind in die Wahlniederschrift der Online-Wahlleitung aufzunehmen.
 
-
-## § 16 – Ermittlung des Online-Wahlergebnisses durch die Online-Wahlleitung
+# § 16 – Ermittlung des Online-Wahlergebnisses durch die Online-Wahlleitung
 
 (1) Die Ermittlung des Wahlergebnisses der Online-Wahl darf erst nach Abschluss der Prüfung nach § 15 und nur durch die Online-Wahlleitung eingeleitet werden. Eine Ermittlung des Wahlergebnisses durch andere Personen und durch eine fehlerhafte Bedienung des Online-Wahlsystems muss systemseitig ausgeschlossen werden. Die Ermittlung des Wahlergebnisses ist manipulationssicher durchzuführen. Für die Ermittlung des Wahlergebnisses der Online-Wahl veranlasst die Online-Wahlleitung eine vom Online-Wahlsystem durchzuführende Auszählung der abgegebenen Online-Stimmen sowie die Erstellung einer Übersicht der folgenden Ergebnisdaten:
 
@@ -214,8 +195,7 @@ Der Wahlausschuss bestellt eine Online-Wahlleitung oder nimmt deren Aufgaben sel
 
 (5) Die Online-Wahlleitung übermittelt dem Wahlausschuss unverzüglich die Wahlniederschrift.
 
-
-## § 17 – Nachvollziehbarkeit des Wahlergebnisses
+# § 17 – Nachvollziehbarkeit des Wahlergebnisses
 
 (1) Der Ablauf der Online-Wahl muss durch das Online-Wahlsystem in nachvollziehbarer und vor Veränderungen geschützter Form protokolliert werden. In der Protokollierung müssen technische Unregelmäßigkeiten sowie versuchte und vollendete Angriffe auf das Online-Wahlsystem und Manipulationen des Online-Wahlsystems erkennbar sein.
 
@@ -225,8 +205,7 @@ Der Wahlausschuss bestellt eine Online-Wahlleitung oder nimmt deren Aufgaben sel
 
 (4) Im Hinblick auf die Regelungen nach den Absätzen 1 bis 3 ist sicherzustellen, dass die zur Kontrolle vorliegenden Daten keinen Rückschluss auf die Identität der Wahlberechtigten zulassen.
 
-
-## § 18 – Aufbewahrung der Wahlunterlagen
+# § 18 – Aufbewahrung der Wahlunterlagen
 
 (1) Der Online-Dienstleister kann folgende Daten nach den Vorgaben des § 91 Satz 2 der Wahlordnung für die Sozialversicherung vernichten:
 
@@ -244,7 +223,6 @@ Die Vernichtung der Daten nach Satz 1 ist zu protokollieren.
 
 (3) Der Online-Dienstleister darf die in Absatz 1 genannten Daten erst nach schriftlicher Freigabe durch die jeweilige Krankenkasse vernichten. Bei der Vernichtung sind die datenschutzrechtlichen Vorgaben der DIN 66399 zu beachten. Die nach der DIN 66399 notwendigen Festlegungen sind von allen teilnehmenden Krankenkassen gemeinsam und einheitlich zu treffen. Alle Datenträger und internen Speicher des Online-Wahlsystems sind nach Ablauf der Aufbewahrungsfrist vom Online-Dienstleister sicher zu löschen.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

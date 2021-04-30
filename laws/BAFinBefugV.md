@@ -1,10 +1,7 @@
-# [BAFinBefugV] Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht
-
-Ausfertigungsdatum: 13.12.2002
-
+% Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht
+% Ausfertigungsdatum: 13.12.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund folgender Bestimmungen des Wertpapierhandelsgesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2708):
 
@@ -90,8 +87,7 @@ auf Grund folgender Bestimmungen des Kreditwesengesetzes in der Fassung der Beka
 auf Grund des § 6 Abs. 7 Satz 2 in Verbindung mit Satz 1 des Hypothekenbankgesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2674), der durch Artikel 11 Nr. 2 Buchstabe c des Gesetzes vom 21. Juni 2002 (BGBl. I S. 2010) eingefügt worden ist,  
 verordnet das Bundesministerium der Finanzen:
 
-
-## § 1
+# § 1
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
@@ -101,8 +97,7 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt,
 
 3. Rechtsverordnungen nach Maßgabe des § 2a Absatz 7 Satz 1, des § 9 Absatz 5 Satz 1, des § 9a Absatz 2 Satz 1, des § 20 Absatz 4 Satz 1 und 2, des § 28 Absatz 3 Satz 3, des § 34 Absatz 3 Satz 1 und 2, des § 36 Absatz 5 Satz 1 und 2, des § 41 Absatz 3 Satz 1 und 2, des § 44 Absatz 7 Satz 1 und 2, des § 51 Absatz 3 Satz 1 und 2, des § 119 Satz 1 und 2 sowie des § 128 Absatz 6 Satz 1 des Investmentgesetzes, Rechtsverordnungen nach Maßgabe des § 19f Absatz 3 Satz 1, des § 40c Absatz 3 Satz 1, des § 110 Absatz 7 Satz 1 und des § 110a Absatz 5 Satz 1 des Investmentgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz sowie Rechtsverordnungen nach Maßgabe des § 143c Absatz 5 Satz 1 bis 3 und Absatz 6 Satz 1 jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
-3a.  
-Rechtsverordnungen nach Maßgabe des § 19 Absatz 6 Satz 1, des § 26 Absatz 8 Satz 1, des § 27 Absatz 6 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1, des § 30 Absatz 5 Satz 1, des § 37 Absatz 3 Satz 1 bis 3, des § 68 Absatz 8 Satz 1, des § 78 Absatz 3 Satz 3, des § 89 Absatz 3 Satz 3, des § 96 Absatz 4 Satz 1, des § 117 Absatz 9 Satz 1, des § 132 Absatz 8 Satz 1, des § 166 Absatz 5 Satz 5, des § 168 Absatz 8 Satz 1, des § 197 Absatz 3 Satz 1, des § 204 Absatz 3 Satz 1, des § 312 Absatz 8 Satz 1 und des § 331 Absatz 2 Satz 2 des Kapitalanlagegesetzbuchs sowie Rechtsverordnungen nach Maßgabe des § 38 Absatz 5 Satz 1, des § 47 Absatz 4 Satz 1, des § 48a Absatz 2, des § 106 Satz 1, des § 120 Absatz 8 Satz 1, des § 121 Absatz 4 Satz 1, des § 135 Absatz 11 Satz 1, des § 136 Absatz 4 Satz 1 und des § 185 Absatz 3 Satz 1 des Kapitalanlagegesetzbuchs jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
+3a. Rechtsverordnungen nach Maßgabe des § 19 Absatz 6 Satz 1, des § 26 Absatz 8 Satz 1, des § 27 Absatz 6 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1, des § 30 Absatz 5 Satz 1, des § 37 Absatz 3 Satz 1 bis 3, des § 68 Absatz 8 Satz 1, des § 78 Absatz 3 Satz 3, des § 89 Absatz 3 Satz 3, des § 96 Absatz 4 Satz 1, des § 117 Absatz 9 Satz 1, des § 132 Absatz 8 Satz 1, des § 166 Absatz 5 Satz 5, des § 168 Absatz 8 Satz 1, des § 197 Absatz 3 Satz 1, des § 204 Absatz 3 Satz 1, des § 312 Absatz 8 Satz 1 und des § 331 Absatz 2 Satz 2 des Kapitalanlagegesetzbuchs sowie Rechtsverordnungen nach Maßgabe des § 38 Absatz 5 Satz 1, des § 47 Absatz 4 Satz 1, des § 48a Absatz 2, des § 106 Satz 1, des § 120 Absatz 8 Satz 1, des § 121 Absatz 4 Satz 1, des § 135 Absatz 11 Satz 1, des § 136 Absatz 4 Satz 1 und des § 185 Absatz 3 Satz 1 des Kapitalanlagegesetzbuchs jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
 4. Rechtsverordnungen nach Maßgabe des § 4 Absatz 6 Satz 1 und 3, des § 5 Absatz 3 Satz 1 bis 3, dieser auch in Verbindung mit Absatz 2 Satz 3, des § 16 Absatz 4 Satz 1 bis 3, des § 24 Absatz 5 Satz 1 und 2 sowie des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes jeweils im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz,
 
@@ -118,8 +113,7 @@ Rechtsverordnungen nach Maßgabe des § 19 Absatz 6 Satz 1, des § 26 Absatz 8 S
 
 zu erlassen.
 
-
-## § 1a
+# § 1a
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Versicherungsaufsichtsgesetzes zu erlassen
 
@@ -133,13 +127,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsver
 
 5. im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Maßgabe des § 160 Satz 1 Nummer 1 bis 5 und 7 in Verbindung mit Satz 3, des § 235 Absatz 1 Nummer 9 und 11 in Verbindung mit Absatz 2 Satz 3, des § 240 Satz 1 Nummer 4 und 10 bis 12 in Verbindung mit Satz 4.
 
-
-## § 1b
+# § 1b
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen nach Maßgabe des § 22 Absatz 1 des Finanzkonglomerate-Aufsichtsgesetzes im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes und des Versicherungsbeirats nach § 92 des Versicherungsaufsichtsgesetzes zu erlassen.
 
-
-## § 1c
+# § 1c
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht wird ermächtigt, Rechtsverordnungen auf der Grundlage des Sanierungs- und Abwicklungsgesetzes zu erlassen
 
@@ -147,7 +139,6 @@ a) im Einvernehmen mit der Deutschen Bundesbank und nach Anhörung der Abwicklun
 
 b) im Einvernehmen mit der Deutschen Bundesbank und im Benehmen mit der Abwicklungsbehörde nach Maßgabe des § 21a Absatz 2 Satz 1.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [BAFG] Gesetz über die Errichtung des Bundesaufsichtsamtes für Flugsicherung  (BAFG)
-
-Ausfertigungsdatum: 29.07.2009
-
+% Gesetz über die Errichtung des Bundesaufsichtsamtes für Flugsicherung  (BAFG)
+% Ausfertigungsdatum: 29.07.2009
  
-
-## § 1 – Bundesaufsichtsamt für Flugsicherung
+# § 1 – Bundesaufsichtsamt für Flugsicherung
 
 (1) Es wird ein Bundesaufsichtsamt für Flugsicherung als nationale Aufsichtsbehörde für den Bereich der Flugsicherung errichtet. § 30 Abs. 2 des Luftverkehrsgesetzes bleibt unberührt.
 
@@ -26,8 +23,7 @@ Gleiches gilt für die Aufgaben, die dem Bund nach den auf der Grundlage dieser 
 
 (5) In den Bereichen, in denen die Flugsicherungsorganisation als Beliehene tätig ist, kann das Bundesaufsichtsamt für Flugsicherung im Rahmen seiner Aufgabenerfüllung von der Flugsicherungsorganisation Berichte und die Vorlage von Aufzeichnungen aller Art zu jeder Zeit verlangen. Darüber hinaus ist den Bediensteten des Bundesaufsichtsamtes für Flugsicherung und den von ihnen beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben erforderlich ist, das Betreten der Grundstücke und Geschäftsräume durch die Flugsicherungsorganisation zu gestatten. In den Bereichen einer privatrechtlichen Betätigung der Flugsicherungsorganisation gilt darüber hinaus, dass das Betreten außerhalb der Geschäftszeiten oder wenn die Geschäftsräume sich in einer Wohnung befinden, ohne Einverständnis nur zulässig und insoweit zu dulden ist, wie dies zur Verhütung von dringenden Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist und bei der Flugsicherungsorganisation in diesen Bereichen Anhaltspunkte für einen Verstoß gegen ein gesetzliches Verbot oder Gebot im Zusammenhang mit der privatrechtlichen Betätigung vorliegen. Das Grundrecht der Unverletzlichkeit der Wohnung wird insoweit eingeschränkt.
 
-
-## § 2 – Übergangsregelungen
+# § 2 – Übergangsregelungen
 
 (1) Spätestens sechs Monate nach Errichtung des Bundesaufsichtsamtes für Flugsicherung finden Wahlen zur Personalvertretung statt. Bis zur Konstituierung des Personalrates werden die Aufgaben der Personalvertretung bei dem Bundesaufsichtsamt für Flugsicherung vom Hauptpersonalrat beim Bundesministerium für Verkehr und digitale Infrastruktur als Übergangspersonalrat des Bundesaufsichtsamtes für Flugsicherung wahrgenommen. Der Übergangspersonalrat bestellt unverzüglich den Wahlvorstand für die Durchführung der Personalratswahlen im Bundesaufsichtsamt für Flugsicherung.
 

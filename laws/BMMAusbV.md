@@ -1,35 +1,27 @@
-# [BMMAusbV] Verordnung über die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin   (Biologiemodellmacherausbildungsverordnung - BMMAusbV)
-
-Ausfertigungsdatum: 08.06.2017
-
+% Verordnung über die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin   (Biologiemodellmacherausbildungsverordnung - BMMAusbV)
+% Ausfertigungsdatum: 08.06.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Biologiemodellmachers und der Biologiemodellmacherin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -69,27 +61,23 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 6. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel und Zeitpunkt
+# § 7 – Ziel und Zeitpunkt
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen.
 
 (2) Die Zwischenprüfung soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
-
-## § 8 – Inhalt
+# § 8 – Inhalt
 
 Die Zwischenprüfung erstreckt sich auf
 
@@ -97,8 +85,7 @@ Die Zwischenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereich
+# § 9 – Prüfungsbereich
 
 (1) Die Zwischenprüfung findet im Prüfungsbereich Herstellen einteiliger Modelle statt.
 
@@ -126,15 +113,13 @@ Die Zwischenprüfung erstreckt sich auf
 
 (4) Die Prüfungszeit beträgt für die Durchführung der drei Arbeitsproben und die Dokumentation 300 Minuten. Innerhalb dieser Zeit dauern die drei situativen Fachgespräche zusammen höchstens 15 Minuten. Für die schriftliche Bearbeitung der Aufgaben beträgt die Prüfungszeit 120 Minuten.
 
-
-## § 10 – Ziel und Zeitpunkt
+# § 10 – Ziel und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
 (2) Die Abschlussprüfung soll am Ende der Berufsausbildung durchgeführt werden.
 
-
-## § 11 – Inhalt
+# § 11 – Inhalt
 
 Die Abschlussprüfung erstreckt sich auf
 
@@ -142,8 +127,7 @@ Die Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 12 – Prüfungsbereiche
+# § 12 – Prüfungsbereiche
 
 Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
@@ -153,8 +137,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 13 – Prüfungsbereich Herstellen eines mehrteiligen Modells
+# § 13 – Prüfungsbereich Herstellen eines mehrteiligen Modells
 
 (1) Im Prüfungsbereich Herstellen eines mehrteiligen Modells soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -180,8 +163,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt insgesamt 16 Stunden. Das auftragsbezogene Fachgespräch dauert höchstens 30 Minuten.
 
-
-## § 14 – Prüfungsbereich Planung und Fertigung
+# § 14 – Prüfungsbereich Planung und Fertigung
 
 (1) Im Prüfungsbereich Planung und Fertigung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -209,8 +191,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 240 Minuten.
 
-
-## § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -218,8 +199,7 @@ Die Abschlussprüfung findet in den folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -250,17 +230,14 @@ Modells</td><td style="text-align: right;">mit 50 Prozent,</td></tr></tbody></ta
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 17 – Bestehende Berufsausbildungsverhältnisse
+# § 17 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2017 in Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Biologiemodellmacher und zur Biologiemodellmacherin
 
 (Fundstelle: BGBl. I 2017, 1554 - 1558)

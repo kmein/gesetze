@@ -1,15 +1,11 @@
-# [EBBAusbV 2004] Verordnung über die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
-
-Ausfertigungsdatum: 15.07.2004
-
+% Verordnung über die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
+% Ausfertigungsdatum: 15.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf Eisenbahner im Betriebsdienst/Eisenbahnerin im Betriebsdienst wird staatlich anerkannt.
 
@@ -19,18 +15,15 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 
 2. Lokführer und Transport.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 bis 10 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -88,25 +81,21 @@ c) Durchführen von Fahrten im Regelbetrieb,
 
 d) Durchführen von Fahrten beim Abweichen vom Regelbetrieb und bei Störungen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die im Abschnitt I der Anlage genannten Ausbildungsinhalte sind um Ausbildungsinhalte aus den Arbeits- und Geschäftsprozessen der gewählten Fachrichtung zu erweitern, um zur Durchführung komplexer ganzheitlicher Arbeitsaufgaben zu befähigen.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -122,8 +111,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 In den schriftlichen Aufgabenstellungen soll der Prüfling in insgesamt höchstens 120 Minuten zeigen, dass er den Regelbetrieb sicherstellen kann.
 
-
-## § 9 – Abschlussprüfung Fachrichtung Fahrweg
+# § 9 – Abschlussprüfung Fachrichtung Fahrweg
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -184,8 +172,7 @@ können.
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. In keinem der Prüfungsbereiche dürfen ungenügende Leistungen erbracht worden sein.
 
-
-## § 10 – Abschlussprüfung Fachrichtung Lokführer und Transport
+# § 10 – Abschlussprüfung Fachrichtung Lokführer und Transport
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -248,18 +235,15 @@ können.
 
 jeweils mindestens ausreichende Leistungen erzielt wurden. In keinem der Prüfungsbereiche dürfen ungenügende Leistungen erbracht worden sein.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Eisenbahner im Betriebsdienst/zur Eisenbahnerin im Betriebsdienst
 
 (Fundstelle: BGBl. I 2004, 1630 - 1637)
 

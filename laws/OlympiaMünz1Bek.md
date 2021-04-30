@@ -1,10 +1,7 @@
-# [OlympiaMünz1Bek] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze - 1. Motiv/Aufstockung)
-
-Ausfertigungsdatum: 14.06.1972
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze - 1. Motiv/Aufstockung)
+% Ausfertigungsdatum: 14.06.1972
  
-
-## ----
+# ----
 
 (1) Die Olympiamünze zu 10 Deutschen Mark mit dem 1. Motiv (Strahlenspirale), deren Ausprägung im Bundesgesetzblatt vom 14. Januar 1970 (Teil I S. 35) und im Bundesanzeiger Nr. 8 vom 14. Januar 1970 bekanntgemacht worden ist, wird um 10 Millionen Stück aufgestockt. Hiervon prägt jedes der vier Münzämter der Bundesrepublik 2,5 Millionen Stück. Die Münzen tragen auf der Bildseite die Umschrift:
 
@@ -17,13 +14,11 @@ Sie stimmen im übrigen mit den 1970 ausgegebenen Olympiamünzen (1. Motiv) übe
 
 (3) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister für Wirtschaft und Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung,  
 Fundstelle: BGBl. I 1972, 887)

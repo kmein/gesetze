@@ -1,15 +1,11 @@
-# [MedInfoFAngAusbV] Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations/dienste
-
-Ausfertigungsdatum: 03.06.1998
-
+% Verordnung über die Berufsausbildung zum Fachangestellten für Medien- und Informationsdienste/zur Fachangestellten für Medien- und Informations/dienste
+% Ausfertigungsdatum: 03.06.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt gemäß Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnen das Bundesministerium des Innern, das Bundesministerium für Wirtschaft und das Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 (1) Der Ausbildungsberuf Fachangestellter für Medien- und Informationsdienste/Fachangestellte für Medien- und Informationsdienste wird staatlich anerkannt. Er ist Ausbildungsberuf des öffentlichen Dienstes und der gewerblichen Wirtschaft.
 
@@ -27,13 +23,11 @@ Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsges
 
 gewählt werden.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -139,25 +133,21 @@ Verwaltung und Pflege von Datenbeständen,
 5.4  
 Statistik und Informationsdienstleistungen.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 bis 12 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -171,8 +161,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 3. Wirtschafts- und Sozialkunde.
 
-
-## § 8 – Abschlußprüfung in der Fachrichtung Archiv
+# § 8 – Abschlußprüfung in der Fachrichtung Archiv
 
 (1) Die Abschlußprüfung in der Fachrichtung Archiv erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -218,8 +207,7 @@ Im Prüfungsbereich Praktische Übungen soll der Prüfling eine von zwei ihm zur
 
 (6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Abschlußprüfung in der Fachrichtung Bibliothek
+# § 9 – Abschlußprüfung in der Fachrichtung Bibliothek
 
 (1) Die Abschlußprüfung in der Fachrichtung Bibliothek erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -265,8 +253,7 @@ Im Prüfungsbereich Praktische Übungen soll der Prüfling eine von zwei ihm zur
 
 (6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Abschlußprüfung in der Fachrichtung Information und Dokumentation
+# § 10 – Abschlußprüfung in der Fachrichtung Information und Dokumentation
 
 (1) Die Abschlußprüfung in der Fachrichtung Information und Dokumentation erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 3 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -312,8 +299,7 @@ Im Prüfungsbereich Praktische Übungen soll der Prüfling eine von zwei ihm zur
 
 (6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 11 – Abschlußprüfung in der Fachrichtung Bildagentur
+# § 11 – Abschlußprüfung in der Fachrichtung Bildagentur
 
 (1) Die Abschlußprüfung in der Fachrichtung Bildagentur erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 4 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -359,8 +345,7 @@ Im Prüfungsbereich Praktische Übungen soll der Prüfling eine von zwei ihm zur
 
 (6) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 12 – Abschlussprüfung in der Fachrichtung Medizinische Dokumentation
+# § 12 – Abschlussprüfung in der Fachrichtung Medizinische Dokumentation
 
 (1) Die Abschlussprüfung in der Fachrichtung Medizinische Dokumentation erstreckt sich auf die in der Anlage 1 Abschnitt I und Abschnitt II Nummer 5 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -406,20 +391,17 @@ Im Prüfungsbereich Praktische Übungen soll der Prüfling eine von zwei ihm zur
 
 (6) Zum Bestehen der Abschlussprüfung müssen im Gesamtergebnis und in drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsbereich mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 13 – Übergangsregelung
+# § 13 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
 (2) Für Berufsausbildungsverhältnisse, die bis zum 1. Oktober 1998 beginnen, können die Vertragsparteien die Anwendung der bisherigen Vorschriften vereinbaren.
 
-
-## § 14 – Inkrafttreten/Außerkrafttreten
+# § 14 – Inkrafttreten/Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
-
-## Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste
+# Anlage 1 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste
 
 (Fundstelle: BGBl. I 1998, S. 1262 - 1266  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1200,8 +1182,7 @@ c)
 
 Ergebnisse darstellen und präsentieren
 
-
-## Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste  - Zeitliche Gliederung -
+# Anlage 2 – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum/zur Fachangestellten für Medien- und Informationsdienste  - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 1267 - 1275, 2426,  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1293,14 +1274,12 @@ I.2)
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele g bis k,
 
-I.  
-6
+I. 6
 
   
 Öffentlichkeitsarbeit und Werbung, Lernziel a,
 
-zu vermitteln.  
-----------  
+zu vermitteln. ----------  
 
 1) Abschnitt II
 
@@ -1318,15 +1297,13 @@ II. 1.1
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele e und f,
 
-I.  
-5
+I. 5
 
   
   
@@ -1338,27 +1315,23 @@ Erschließung, Lernziele c und e,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel d,
 
-I.  
-5
+I. 5
 
   
   
@@ -1368,8 +1341,7 @@ fortzuführen.
 
 (3) In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-2
+I. 2
 
   
   
@@ -1377,8 +1349,7 @@ Beschaffung, Erschließung und Bereitstellung, Lernziel d,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
@@ -1394,15 +1365,13 @@ Informationsvermittlung und Benutzungsdienst, Lernziel d,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele c und l,
 
-I.  
-5
+I. 5
 
   
   
@@ -1426,8 +1395,7 @@ II. 1.1
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-4
+I. 4
 
   
   
@@ -1449,8 +1417,7 @@ fortzuführen.
 
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-2
+I. 2
 
   
   
@@ -1466,27 +1433,23 @@ Erschließung, Lernziele a, b und d,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele e und f,
 
-I.  
-5
+I. 5
 
   
   
@@ -1500,8 +1463,7 @@ fortzuführen.
 
 (3) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
 
-I.  
-1.2
+I. 1.2
 
   
   
@@ -1513,15 +1475,13 @@ Informationsvermittlung und Benutzungsdienst, Lernziele a, b, c und e,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele a, c und g,
 
-I.  
-6
+I. 6
 
   
   
@@ -1529,8 +1489,7 @@ I.
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   
@@ -1621,20 +1580,17 @@ Beschaffung, Erschließung und Bereitstellung, Lernziel d,
 in Verbindung mit den Berufsbildpositionen
 
   
-I.  
-3
+I. 3
 
   
 Kommunikation und Kooperation, Lernziel e,
 
-I.  
-4
+I. 4
 
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel i,
 
-I.  
-5
+I. 5
 
   
 Informations- und Kommunikationssysteme, Lernziele a und c,
@@ -1648,8 +1604,7 @@ II.
 2.2  
 Erschließung, Lernziel a,
 
-zu vermitteln.  
-----------  
+zu vermitteln. ----------  
 
 1) Abschnitt I
 
@@ -1659,8 +1614,7 @@ zu vermitteln.
 
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   
@@ -1668,22 +1622,19 @@ Kommunikation und Kooperation, Lernziel b,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziel f,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel k,
 
-I.  
-6
+I. 6
 
   
   
@@ -1697,8 +1648,7 @@ zu vermitteln.
 
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-4
+I. 4
 
   
   
@@ -1714,27 +1664,23 @@ Bearbeitung von Medien, Bestandspflege
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele c bis e,
 
-I.  
-5
+I. 5
 
   
   
@@ -1758,15 +1704,13 @@ Erschließung, Lernziele b bis d,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-2
+I. 2
 
   
   
 Beschaffung, Erschließung und Bereitstellung, Lernziel c,
 
-I.  
-4
+I. 4
 
   
   
@@ -1774,20 +1718,17 @@ Arbeitsorganisation und Bürowirtschaft, Lernziel f,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-5
+I. 5
 
   
   
@@ -1817,8 +1758,7 @@ Benutzungsdienst und Informationsvermittlung, Lernziele e, h und i,
 
 in Verbindung mit der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   
@@ -1826,8 +1766,7 @@ Kommunikation und Kooperation, Lernziele a, c und g,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-5
+I. 5
 
   
   
@@ -1853,15 +1792,13 @@ Benutzungsdienst und Informationsvermittlung, Lernziele f und g,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-1.2
+I. 1.2
 
   
   
 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziel e,
 
-I.  
-6
+I. 6
 
   
   
@@ -1958,8 +1895,7 @@ I.2)
   
 Kommunikation und Kooperation, Lernziele b, e und f,
 
-I.  
-4
+I. 4
 
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele f, g und h,
@@ -1967,14 +1903,12 @@ Arbeitsorganisation und Bürowirtschaft, Lernziele f, g und h,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
   
-I.  
-5
+I. 5
 
   
 Informations- und Kommunikationssysteme, Lernziele b, d, e und f,
 
-fortzuführen.  
-----------  
+fortzuführen. ----------  
 
 1) Abschnitt I
 
@@ -1996,8 +1930,7 @@ Verwaltung und Pflege von Datenspeichern, Lernziele a bis c,
 
 in Verbindung mit der Berufsbildposition
 
-I.  
-5
+I. 5
 
   
   
@@ -2006,14 +1939,12 @@ Informations- und Kommunikationssysteme, Lernziel a,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-3
+I. 3
 
   
 Kommunikation und Kooperation, Lernziele d, e und f,
 
-I.  
-5
+I. 5
 
   
 Informations- und Kommunikationssysteme, Lernziele b, d bis f,
@@ -2022,8 +1953,7 @@ fortzuführen.
 
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-2
+I. 2
 
   
   
@@ -2031,22 +1961,19 @@ Beschaffung, Erschließung und Bereitstellung, Lernziel d,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele i und k,
 
-I.  
-5
+I. 5
 
   
   
 Informations- und Kommunikationssysteme, Lernziel c,
 
-I.  
-6
+I. 6
 
   
   
@@ -2058,27 +1985,23 @@ Informationsvermittlung und Informationsdienstleistungen, Lernziele b bis e,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele b und d bis f,
 
-I.  
-5
+I. 5
 
   
   
@@ -2094,8 +2017,7 @@ Drittes Ausbildungsjahr
 
 (1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-2
+I. 2
 
   
   
@@ -2103,8 +2025,7 @@ Beschaffung, Erschließung und Bereitstellung, Lernziel c,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
@@ -2116,34 +2037,29 @@ Erschließung, Lernziel c,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele d bis f,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel f,
 
-I.  
-5
+I. 5
 
   
   
@@ -2153,8 +2069,7 @@ fortzuführen.
 
 (2) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   
@@ -2162,8 +2077,7 @@ Kommunikation und Kooperation, Lernziele a und g,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-1.2
+I. 1.2
 
   
   
@@ -2179,15 +2093,13 @@ Informationsvermittlung und Informationsdienstleistungen, Lernziele a und f,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele d bis f,
 
-I.  
-5
+I. 5
 
   
   
@@ -2205,8 +2117,7 @@ Marketing,
 
 in Verbindung mit der Berufsbildposition
 
-I.  
-6
+I. 6
 
   
   
@@ -2214,8 +2125,7 @@ I.
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   
@@ -2306,20 +2216,17 @@ Beschaffung, Erschließung und Bereitstellung, Lernziel d,
 in Verbindung mit den Berufsbildpositionen
 
   
-I.  
-3
+I. 3
 
   
 Kommunikation und Kooperation, Lernziel e,
 
-I.  
-4
+I. 4
 
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel i,
 
-I.  
-5
+I. 5
 
   
 Informations- und Kommunikationssysteme, Lernziele a und c,
@@ -2336,25 +2243,21 @@ Erschließung, Lernziel a,
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
   
-I.  
-1.3
+I. 1.3
 
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-5
+I. 5
 
   
 Informations- und Kommunikationssysteme, Lernziele b und d bis f,
 
-fortzuführen.  
-----------  
+fortzuführen. ----------  
 
 1) Abschnitt I
 
@@ -2364,15 +2267,13 @@ fortzuführen.
 
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziel b,
 
-I.  
-6
+I. 6
 
   
   
@@ -2380,8 +2281,7 @@ I.
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
@@ -2403,8 +2303,7 @@ Aufbewahrung und technische Bearbeitung, Lernziele a und c,
 
 in Verbindung mit der Berufsbildposition
 
-I.  
-4
+I. 4
 
   
   
@@ -2420,8 +2319,7 @@ Drittes Ausbildungsjahr
 
 (1) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-2
+I. 2
 
   
   
@@ -2441,22 +2339,19 @@ Erschließung, Lernziele b und c,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele c und d,
 
-I.  
-5
+I. 5
 
   
   
@@ -2466,8 +2361,7 @@ fortzuführen.
 
 (2) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   
@@ -2475,15 +2369,13 @@ Kommunikation und Kooperation, Lernziele a, c und g,
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-1.2
+I. 1.2
 
   
   
 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziel e,
 
-I.  
-6
+I. 6
 
   
   
@@ -2499,15 +2391,13 @@ Bildvermittlung, Lernziel b,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele e und f,
 
-I.  
-4
+I. 4
 
   
   
@@ -2537,8 +2427,7 @@ Bildvermittlung, Lernziele c, f und g,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.4
+I. 1.4
 
   
   
@@ -2552,8 +2441,7 @@ II.
 4.4  
 Bildvermittlung, Lernziele d und e,
 
-fortzuführen.  
-Fachrichtung Medizinische Dokumentation
+fortzuführen. Fachrichtung Medizinische Dokumentation
 
   
   
@@ -2638,15 +2526,13 @@ Sammlung, Erfassung und Strukturierung medizinischer Informationen, Lernziele a 
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernzeile b, c, e und f,
 
-I.  
-4
+I. 4
 
   
   
@@ -2654,8 +2540,7 @@ Arbeitsorganisation und Bürowirtschaft, Lernziele f bis h,
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
-I.  
-5
+I. 5
 
   
   
@@ -2677,8 +2562,7 @@ Verwaltung und Pflege von Datenbeständen, Lernziel a
 
 in Verbindung mit der Berufsbildposition
 
-I.  
-5
+I. 5
 
   
   
@@ -2686,15 +2570,13 @@ Informations- und Kommunikationssysteme, Lernziel a
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation udn Kooperation, Lernziele d bis f,
 
-I.  
-5
+I. 5
 
   
   
@@ -2704,8 +2586,7 @@ fortzuführen.
 
 (3) In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
 
-I.  
-2
+I. 2
 
   
   
@@ -2717,15 +2598,13 @@ Statistik und Informationsdienstleistungen, Lernziele a und b
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziele i und k,
 
-I.  
-6
+I. 6
 
   
   
@@ -2733,34 +2612,29 @@ I.
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele b und d bis f,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel l,
 
-I.  
-5
+I. 5
 
   
   
@@ -2776,8 +2650,7 @@ Drittes Ausbildungsjahr
 
 (1) In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildposition
 
-I.  
-2
+I. 2
 
   
   
@@ -2793,34 +2666,29 @@ Erschließung und Verschlüsselung, Lernziele c und d
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-1.3
+I. 1.3
 
   
   
 Sicherheit und Gesundheitsschutz bei der Arbeit,
 
-I.  
-  
+I.   
 1.4  
 Umweltschutz,
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele d bis f,
 
-I.  
-4
+I. 4
 
   
   
 Arbeitsorganisation und Bürowirtschaft, Lernziel f,
 
-I.  
-5
+I. 5
 
   
   
@@ -2842,8 +2710,7 @@ Sammlung, Erfassung und Strukturierung medizinischer Informationen, Lernziel c
 
 in Verbindung mit der Berufsbildpositionen
 
-I.  
-1.2
+I. 1.2
 
   
   
@@ -2855,15 +2722,13 @@ Verwaltung und Pflege von Datenbeständen, Lernziele b und c
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele d bis f,
 
-I.  
-5
+I. 5
 
   
   
@@ -2885,15 +2750,13 @@ Statistik und Informationsdienstleistungen, Lernziel c
 
 in Verbindung mit den Berufsbildpositionen
 
-I.  
-3
+I. 3
 
   
   
 Kommunikation und Kooperation, Lernziele a und g,
 
-I.  
-6
+I. 6
 
   
   
@@ -2901,8 +2764,7 @@ I.
 
 zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
 
-I.  
-3
+I. 3
 
   
   

@@ -1,10 +1,7 @@
-# [RWBestV 2018] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2018  (Rentenwertbestimmungsverordnung 2018 - RWBestV 2018)
-
-Ausfertigungsdatum: 12.06.2018
-
+% Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2018  (Rentenwertbestimmungsverordnung 2018 - RWBestV 2018)
+% Ausfertigungsdatum: 12.06.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -19,34 +16,29 @@ des § 26 in Verbindung mit § 23 Absatz 4 und des § 105 in Verbindung mit § 1
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
+# § 1 – Festsetzung des aktuellen Rentenwerts und des aktuellen Rentenwerts (Ost)
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2018 32,03 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2018 30,69 Euro.
 
-
-## § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
+# § 2 – Festsetzung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2018 14,79 Euro.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2018 14,15 Euro.
 
-
-## § 3 – Ausgleichsbedarf
+# § 3 – Ausgleichsbedarf
 
 Der Ausgleichsbedarf beträgt ab dem 1. Juli 2018 1,0000.
 
-
-## § 4 – Anpassungsfaktor in der Unfallversicherung
+# § 4 – Anpassungsfaktor in der Unfallversicherung
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2018 anzupassenden Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44 Absatz 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt 1,0322.
 
 (2) Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor dem 1. Juli 2018 eingetreten sind, werden zum 1. Juli 2018 angepasst. Der Anpassungsfaktor beträgt 1,0337.
 
-
-## § 5 – Pflegegeld in der Unfallversicherung
+# § 5 – Pflegegeld in der Unfallversicherung
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2018 an
 
@@ -54,12 +46,10 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2018 an
 
 2. für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch anzuwenden ist, zwischen 341 Euro und 1 369 Euro.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2018 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,20 +1,15 @@
-# [VWDG-DV] Verordnung zur Durchführung des Visa-Warndateigesetzes  (VWDG-Durchführungsverordnung - VWDG-DV)
-
-Ausfertigungsdatum: 01.06.2013
-
+% Verordnung zur Durchführung des Visa-Warndateigesetzes  (VWDG-Durchführungsverordnung - VWDG-DV)
+% Ausfertigungsdatum: 01.06.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 des Visa-Warndateigesetzes vom 22. Dezember 2011 (BGBl. I S. 3037) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Inhalt der Datensätze
+# § 1 – Inhalt der Datensätze
 
 Die Daten, die nach § 3 des Visa-Warndateigesetzes gespeichert werden dürfen, ergeben sich aus Spalte A der Anlage zu dieser Verordnung.
 
-
-## § 2 – Visa-Warndateinummer
+# § 2 – Visa-Warndateinummer
 
 (1) Das Bundesverwaltungsamt vergibt die Visa-Warndateinummer als Geschäftszeichen, wenn folgende Daten gespeichert werden:
 
@@ -28,15 +23,13 @@ Die Visa-Warndateinummer darf keine Rückschlüsse auf Daten über die betroffen
 
 (3) Das Bundesverwaltungsamt stellt sicher, dass bei einer Verwendung der Visa-Warndateinummer für Datenübermittlungen an das Bundesverwaltungsamt oder für Übermittlungsersuchen fehlerhafte Angaben der Visa-Warndateinummer erkannt werden und in diesem Fall keine Verarbeitung der Daten erfolgt.
 
-
-## § 3 – Berichtigung eines Datensatzes
+# § 3 – Berichtigung eines Datensatzes
 
 (1) Das Bundesverwaltungsamt hat unabhängig von der Verantwortung der öffentlichen Stellen nach § 5 Absatz 1 des Visa-Warndateigesetzes Hinweise auf eine mögliche Unrichtigkeit der gespeicherten Daten zu prüfen und unrichtige Daten zu berichtigen. Stellt es fest, dass zu einer Person oder Organisation in der Datei mehrere Datensätze bestehen, führt es diese zu einem Datensatz zusammen. Die Zusammenführung von Datensätzen erfolgt im Einvernehmen mit den Stellen, die die Daten an das Bundesverwaltungsamt übermittelt haben. Werden die Daten von Staatsanwaltschaften übermittelt, muss kein Einvernehmen hergestellt werden.
 
 (2) Stellt das Bundesverwaltungsamt fest, dass in der Datei Datensätze verschiedener Personen übereinstimmende oder nur geringfügig voneinander abweichende Grundpersonalien nach § 3 Absatz 1 Satz 1 Nummer 1 des Visa-Warndateigesetzes enthalten, speichert es einen Hinweis auf die Personenverschiedenheit. Satz 1 gilt für die Datensätze von Organisationen entsprechend.
 
-
-## § 4 – Allgemeine Regelungen der Datenübermittlung an das Bundesverwaltungsamt
+# § 4 – Allgemeine Regelungen der Datenübermittlung an das Bundesverwaltungsamt
 
 (1) Die Stellen, die nach § 4 des Visa-Warndateigesetzes verpflichtet sind, an das Bundesverwaltungsamt Daten zu übermitteln, die in der Visa-Warndatei zu speichern sind, ergeben sich aus Spalte C der Anlage zu dieser Verordnung.
 
@@ -50,8 +43,7 @@ Die Visa-Warndateinummer darf keine Rückschlüsse auf Daten über die betroffen
 
 (6) Werden die Daten schriftlich übermittelt, hat das Bundesverwaltungsamt die Unterlagen bis zur Speicherung der Daten in der Datei durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern. Nach der Speicherung der Daten sind die Unterlagen zu vernichten.
 
-
-## § 5 – Verfahren der Datenübermittlung an das Bundesverwaltungsamt
+# § 5 – Verfahren der Datenübermittlung an das Bundesverwaltungsamt
 
 (1) Die Stellen, die zur Datenübermittlung im Wege der Direkteingabe berechtigt sind, haben zuvor durch Abruf im automatisierten Verfahren festzustellen, ob zur betroffenen Person oder Organisation bereits ein Datensatz besteht.
 
@@ -71,8 +63,7 @@ Die Visa-Warndateinummer darf keine Rückschlüsse auf Daten über die betroffen
 
 (6) Übermittelt die Staatsanwaltschaft Daten und ist keine Visa-Warndateinummer zur Person oder Organisation vorhanden, wird in jedem Fall ein neuer Datensatz mit den übermittelten Daten angelegt.
 
-
-## § 6 – Speicherung mit Einwilligung einer Person
+# § 6 – Speicherung mit Einwilligung einer Person
 
 (1) Die Speicherung von Daten in der Visa-Warndatei nach § 2 Absatz 2 des Visa-Warndateigesetzes erfolgt auf Antrag der betroffenen Person und mit deren Einwilligung bei einer Stelle nach § 4 Nummer 1 und 2 des Visa-Warndateigesetzes.
 
@@ -86,8 +77,7 @@ Die Visa-Warndateinummer darf keine Rückschlüsse auf Daten über die betroffen
 
 (6) Die Absätze 1 bis 5 gelten für die freiwillige Speicherung von Daten einer Organisation entsprechend.
 
-
-## § 7 – Übermittlungsersuchen
+# § 7 – Übermittlungsersuchen
 
 (1) Jede Stelle, die um Übermittlung von Daten aus der Datei ersucht, hat zuvor zu prüfen, ob die Kenntnis dieser Daten zur Erfüllung ihrer Aufgaben erforderlich ist.
 
@@ -107,8 +97,7 @@ Die Visa-Warndateinummer darf keine Rückschlüsse auf Daten über die betroffen
 
 (4) Ähnliche Personen nach § 8 Absatz 4 des Visa-Warndateigesetzes sind solche Personen, deren Grundpersonalien mit den im Übermittlungsersuchen angegebenen Grundpersonalien übereinstimmen oder nur geringfügig davon abweichen. Für die Daten zu Organisationen gilt Satz 1 entsprechend.
 
-
-## § 8 – Allgemeine Regelungen der Datenübermittlung durch das Bundesverwaltungsamt
+# § 8 – Allgemeine Regelungen der Datenübermittlung durch das Bundesverwaltungsamt
 
 (1) Der Umfang der Daten, die das Bundesverwaltungsamt nach dem Visa-Warndateigesetz an die jeweils ersuchende Stelle übermitteln und weitergeben darf, ergibt sich aus den Spalten A und D der Anlage zu dieser Verordnung.
 
@@ -122,8 +111,7 @@ Die Visa-Warndateinummer darf keine Rückschlüsse auf Daten über die betroffen
 
 (3) § 4 Absatz 3 und 4 gilt entsprechend.
 
-
-## § 9 – Zulassung zum Abruf von Daten im automatisierten Verfahren
+# § 9 – Zulassung zum Abruf von Daten im automatisierten Verfahren
 
 (1) Die Zulassung zum Abruf von Daten im automatisierten Verfahren nach § 9 Absatz 1 des Visa-Warndateigesetzes ist schriftlich beim Bundesverwaltungsamt zu beantragen und zu begründen. In der Antragsbegründung ist darzulegen,
 
@@ -139,8 +127,7 @@ Das Bundesverwaltungsamt ist berechtigt, entsprechende Nachweise zu verlangen.
 
 (4) Liegt zum Zeitpunkt des Inkrafttretens des Visa-Warndateigesetzes ein Antrag nach Absatz 1 von einer der in § 6 Absatz 1 und § 7 Satz 1 des Visa-Warndateigesetzes genannten Stellen vor, gilt die Zulassung bis zur Entscheidung über den Antrag als erteilt, soweit die Stelle nach § 22 des AZR-Gesetzes zum Abruf von Daten aus dem Ausländerzentralregister im automatisierten Verfahren zugelassen ist.
 
-
-## § 10 – Voraussetzungen und Verfahren der Auskunftserteilung
+# § 10 – Voraussetzungen und Verfahren der Auskunftserteilung
 
 (1) Die betroffene Person kann nach § 12 des Visa-Warndateigesetzes jederzeit einen Antrag auf Auskunftserteilung stellen. Der Antrag kann auch von einem gesetzlichen oder bevollmächtigten Vertreter gestellt werden.
 
@@ -152,13 +139,11 @@ Das Bundesverwaltungsamt ist berechtigt, entsprechende Nachweise zu verlangen.
 
 (5) Die Absätze 1 bis 4 gelten für betroffene Organisationen entsprechend. Die dem Vertreter einer Organisation erteilte Auskunft beinhaltet auch die Daten der zu ihr gespeicherten Personen.
 
-
-## § 11 – Protokollierung bei Datenübermittlungen
+# § 11 – Protokollierung bei Datenübermittlungen
 
 Das Bundesverwaltungsamt hat sicherzustellen, dass die Protokollierung nach § 11 des Visa-Warndateigesetzes bei der Eingabe und beim Abruf von Daten durch ein selbsttätiges Verfahren erfolgt. Es hat sich unabhängig von Prüfungen durch den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit durch regelmäßige Kontrollen von der ordnungsgemäßen Funktion dieses Verfahrens zu überzeugen.
 
-
-## § 12 – Sperrung von Daten
+# § 12 – Sperrung von Daten
 
 (1) Die für die Richtigkeit und Aktualität der Daten verantwortlichen Stellen unterrichten das Bundesverwaltungsamt, wenn durch eine Löschung im Sinne des § 13 des Visa-Warndateigesetzes schutzwürdige Interessen einer betroffenen Person oder Organisation nach § 14 Absatz 1 des Visa-Warndateigesetzes beeinträchtigt werden.
 
@@ -166,18 +151,15 @@ Das Bundesverwaltungsamt hat sicherzustellen, dass die Protokollierung nach § 1
 
 (3) Lässt sich weder die Richtigkeit noch die Unrichtigkeit der Daten, deren Richtigkeit bestritten wird, zur Überzeugung des Bundesverwaltungsamtes feststellen, wird der Datensatz der betroffenen Person mit Ausnahme der Personalien gesperrt. Die Angaben der betroffenen Person zu ihren Personalien gelten als richtig, soweit sich nicht nachweisen lässt, dass die davon abweichenden gespeicherten Daten richtig sind. Geht ein Übermittlungsersuchen ein, wird außer den Personalien nur der Hinweis auf den Sperrvermerk übermittelt.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2013 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – Daten, die in der Datei gespeichert werden, übermittelnde Stellen, Übermittlungsempfänger
+# Anlage – Daten, die in der Datei gespeichert werden, übermittelnde Stellen, Übermittlungsempfänger
 
 (Fundstelle: BGBl. I 2013, 1418 – 1423)
 

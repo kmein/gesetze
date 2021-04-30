@@ -1,15 +1,11 @@
-# [MedienBTMstrPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton und Geprüfte Meisterin Medienproduktion Bild und Ton
-
-Ausfertigungsdatum: 04.07.2012
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton und Geprüfte Meisterin Medienproduktion Bild und Ton
+% Ausfertigungsdatum: 04.07.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Meister Medienproduktion Bild und Ton und zur Geprüften Meisterin Medienproduktion Bild und Ton nach den §§ 2 bis 8 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -17,8 +13,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (3) Durch die Prüfung ist festzustellen, ob die Qualifikation vorhanden ist, folgende in Zusammenhang stehende Aufgaben des Betriebs- und Projektmanagements wahrzunehmen:
 
-I.  
-Betriebsmanagement
+I. Betriebsmanagement
 
 1. Führung  
   
@@ -49,8 +44,7 @@ Präsentieren von Produktionen und Projekten und Übergeben an den Auftraggeber,
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Meister Medienproduktion Bild und Ton“ oder „Geprüfte Meisterin Medienproduktion Bild und Ton“.
 
-
-## § 2 – Umfang der Meisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Meisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Meister Medienproduktion Bild und Ton und zur Geprüften Meisterin Medienproduktion Bild und Ton umfasst:
 
@@ -72,8 +66,7 @@ Präsentieren von Produktionen und Projekten und Übergeben an den Auftraggeber,
 
 (5) Im Prüfungsteil nach Absatz 3 Nummer 2 ist schriftlich in Form einer mehrteiligen Situationsaufgabe und mündlich in einem Fachgespräch nach § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -87,8 +80,7 @@ Präsentieren von Produktionen und Projekten und Übergeben an den Auftraggeber,
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Prüfungsteil „Betriebsmanagement“
+# § 4 – Prüfungsteil „Betriebsmanagement“
 
 (1) Der Prüfungsteil „Betriebsmanagement“ umfasst die Handlungsbereiche
 
@@ -158,8 +150,7 @@ Das Rollenspiel mit anschließender Reflektion soll höchstens 30 Minuten dauern
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Prüfungsteil „Projektmanagement“
+# § 5 – Prüfungsteil „Projektmanagement“
 
 (1) Im Prüfungsteil „Projektmanagement“ soll die Befähigung nachgewiesen werden, komplexe Projektaufgaben selbstständig erfassen, darstellen, beurteilen und lösen zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -225,15 +216,13 @@ f) Einleiten von Maßnahmen der Schadensabwicklung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 8 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -253,8 +242,7 @@ Aus den Bewertungen wird das gewichtete arithmetische Mittel berechnet. Dabei si
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -270,8 +258,7 @@ Aus den Bewertungen wird das gewichtete arithmetische Mittel berechnet. Dabei si
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -285,8 +272,7 @@ Aus den Bewertungen wird das gewichtete arithmetische Mittel berechnet. Dabei si
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -296,22 +282,19 @@ Aus den Bewertungen wird das gewichtete arithmetische Mittel berechnet. Dabei si
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2366 - 2367)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2368)
 

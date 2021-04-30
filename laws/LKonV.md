@@ -1,15 +1,11 @@
-# [LKonV] Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure  (Lebensmittelkontrolleur-Verordnung - LKonV)
-
-Ausfertigungsdatum: 17.08.2001
-
+% Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure  (Lebensmittelkontrolleur-Verordnung - LKonV)
+% Ausfertigungsdatum: 17.08.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 41 Abs. 2 Satz 2 des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1 – Anforderungen
+# § 1 – Anforderungen
 
 (1) Nicht wissenschaftlich ausgebildete Personen dürfen von den zuständigen Behörden beim Vollzug des Lebensmittelrechts mit der Überwachung des Verkehrs mit Lebensmitteln, Lebensmittel-Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne des Lebensmittel- und Futtermittelgesetzbuches sowie mit Erzeugnissen im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes nur beauftragt werden, wenn sie befähigt sind,
 
@@ -81,8 +77,7 @@ c) im Rahmen der Gefahrenabwehr Veranlassung notwendiger Maßnahmen;
 
 14. Mitarbeit bei sonstigen durch die zuständige Behörde oder die Sachverständigen veranlassten Maßnahmen im Rahmen der Überwachung.
 
-
-## § 2 – Anforderungsnachweis
+# § 2 – Anforderungsnachweis
 
 (1) Die Anforderungen nach § 1 erfüllt, wer in einem Beruf, der Kenntnisse und Fertigkeiten auf dem Gebiet des Verkehrs mit Lebensmitteln, Lebensmittel-Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne des Lebensmittel- und Futtermittelgesetzbuches sowie Erzeugnissen im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes vermittelt,
 
@@ -100,8 +95,7 @@ c) im Rahmen der Gefahrenabwehr Veranlassung notwendiger Maßnahmen;
 
 den Personen nach Absatz 1 Nr. 1 gleichstellen. Absatz 1 Nr. 2 bleibt unberührt.
 
-
-## § 3 – Lehrgang
+# § 3 – Lehrgang
 
 (1) Der Lehrgang dauert mindestens 24 Monate. Er gliedert sich in
 
@@ -141,13 +135,11 @@ Bei überdurchschnittlichen Leistungen kann die Lehrgangsdauer um bis zu sechs M
 
 (3) Der Lehrgang schließt mit einer Prüfung ab, durch die festzustellen ist, ob Kenntnisse und Fertigkeiten zur Überwachung des Verkehrs mit Lebensmitteln, Lebensmittel-Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne des Lebensmittel- und Futtermittelgesetzbuches sowie Erzeugnissen im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes vorliegen. Die Prüfung kann in Teilabschnitten, die auch lehrgangsbegleitend durchgeführt werden können, abgelegt werden.
 
-
-## § 4 – Fortbildung
+# § 4 – Fortbildung
 
 Die in § 1 genannten Personen haben mindestens alle zwei Jahre an Fortbildungsveranstaltungen von insgesamt mindestens drei Tagen teilzunehmen, in denen die erworbenen Kenntnisse erweitert und neue Erkenntnisse und Entwicklungen auf den in § 3 Abs. 2 genannten Gebieten vermittelt werden. Die Aufteilung in eintägige oder halbtägige Fortbildungsveranstaltungen ist zulässig.
 
-
-## § 5 – Vorschriften der Länder
+# § 5 – Vorschriften der Länder
 
 Die zuständigen obersten Landesbehörden können im Rahmen dieser Verordnung nähere Vorschriften über den Lehrgang und die Prüfung sowie die Fortbildung erlassen, insbesondere können sie
 
@@ -157,8 +149,7 @@ Die zuständigen obersten Landesbehörden können im Rahmen dieser Verordnung n�
 
 vorschreiben. Im Fall des § 3 Abs. 1 Satz 3 gilt Satz 1 Nr. 2 nicht.
 
-
-## § 6 – Ausnahmen und Übergangsvorschriften
+# § 6 – Ausnahmen und Übergangsvorschriften
 
 (1) Diese Verordnung gilt nicht für
 
@@ -174,12 +165,10 @@ vorschreiben. Im Fall des § 3 Abs. 1 Satz 3 gilt Satz 1 Nr. 2 nicht.
 
 (3) Die Länder tragen dafür Sorge, dass die in Absatz 2 Nr. 1 genannten Personen, soweit erforderlich, durch geeignete Fortbildungsmaßnahmen in den Stand gesetzt werden, alle in § 1 genannten Tätigkeiten auszuüben. § 4 bleibt unberührt.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

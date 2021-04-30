@@ -1,12 +1,7 @@
-# [MessEG] Gesetz über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt, ihre Verwendung und Eichung sowie über Fertigpackungen  (Mess- und Eichgesetz - MessEG)
-
-Ausfertigungsdatum: 25.07.2013
-
+% Gesetz über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt, ihre Verwendung und Eichung sowie über Fertigpackungen  (Mess- und Eichgesetz - MessEG)
+% Ausfertigungsdatum: 25.07.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -74,8 +69,9 @@ Ausfertigungsdatum: 25.07.2013
 
  
 
+ 
 
-## § 1 – Anwendungsbereich des Gesetzes
+# § 1 – Anwendungsbereich des Gesetzes
 
 Dieses Gesetz ist anzuwenden auf
 
@@ -89,8 +85,7 @@ Dieses Gesetz ist anzuwenden auf
 
 5. Fertigpackungen und andere Verkaufseinheiten.
 
-
-## § 2 – Allgemeine Begriffsbestimmungen
+# § 2 – Allgemeine Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes und der auf seiner Grundlage ergangenen Rechtsverordnungen sind die folgenden Begriffsbestimmungen anzuwenden:
 
@@ -122,8 +117,7 @@ b) deren Fundstelle im Amtsblatt der Europäischen Union veröffentlicht wurde,
 
 12. Wirtschaftsakteure sind Hersteller, Einführer, Händler und Bevollmächtigte.
 
-
-## § 3 – Messgerätespezifische Begriffsbestimmungen
+# § 3 – Messgerätespezifische Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes und der auf seiner Grundlage ergangenen Rechtsverordnungen sind ferner folgende Begriffsbestimmungen anzuwenden:
 
@@ -201,8 +195,7 @@ e) zur Verarbeitung von Messergebnissen zum Zweck der Übermittlung an Zusatzein
 
 f) zum Anschluss an eine nicht rückwirkungsfreie Schnittstelle des Messgeräts.
 
-
-## § 4 – Verordnungsermächtigungen
+# § 4 – Verordnungsermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, zur Gewährleistung der Messrichtigkeit und Messbeständigkeit
 
@@ -220,8 +213,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates diejenigen Messgeräte nä
 
 (4) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass einzelne Zusatzeinrichtungen zu Messgeräten ganz oder teilweise von der Anwendung des Gesetzes ausgenommen sind, soweit dies mit den in Absatz 1 Satz 1 genannten Zwecken vereinbar ist.
 
-
-## § 5 – Anwendung der Vorschriften über Messgeräte und Produkte
+# § 5 – Anwendung der Vorschriften über Messgeräte und Produkte
 
 Wenn in den nachfolgenden Abschnitten Regelungen für Messgeräte oder Produkte getroffen werden, sind diese in gleicher Weise anzuwenden auf
 
@@ -229,8 +221,7 @@ Wenn in den nachfolgenden Abschnitten Regelungen für Messgeräte oder Produkte 
 
 2. Teilgeräte.
 
-
-## § 6 – Inverkehrbringen von Messgeräten
+# § 6 – Inverkehrbringen von Messgeräten
 
 (1) Vorbehaltlich des Unterabschnitts 4 dürfen Messgeräte nur in Verkehr gebracht werden, wenn die in den Absätzen 2 bis 5 genannten Voraussetzungen erfüllt sind.
 
@@ -246,8 +237,7 @@ Wenn in den nachfolgenden Abschnitten Regelungen für Messgeräte oder Produkte 
 
 (5) Das Messgerät muss mit den in einer Rechtsverordnung nach § 30 Nummer 4 bezeichneten Aufschriften zur näheren Bestimmung des Geräts und des Herstellers oder Einführers versehen sein.
 
-
-## § 7 – Vermutungswirkung
+# § 7 – Vermutungswirkung
 
 (1) Entspricht ein Messgerät
 
@@ -261,25 +251,21 @@ so wird vermutet, dass das Messgerät die wesentlichen Anforderungen des § 6 Ab
 
 (2) Ist die Marktüberwachungsbehörde der Auffassung, dass eine harmonisierte Norm oder ein normatives Dokument den von ihr oder ihm abgedeckten wesentlichen Anforderungen nach § 6 Absatz 2 nicht entspricht, so informiert sie hierüber unter Angabe der Gründe die Physikalisch-Technische Bundesanstalt. Die Physikalisch-Technische Bundesanstalt überprüft die eingegangenen Meldungen auf Vollständigkeit und Schlüssigkeit; sie beteiligt den Ausschuss nach § 46 und leitet die Meldungen der Europäischen Kommission zu.
 
-
-## § 8 – Konformitätserklärung
+# § 8 – Konformitätserklärung
 
 (1) Unterliegt ein Messgerät mehreren Rechtsvorschriften der Europäischen Union, in denen jeweils eine Konformitätserklärung vorgeschrieben ist, wird nur eine Konformitätserklärung für sämtliche Rechtsvorschriften der Europäischen Union ausgestellt. In der Erklärung sind die betroffenen Rechtsvorschriften samt ihrer Fundstelle im Amtsblatt der Europäischen Union anzugeben.
 
 (2) Unterliegt ein Messgerät mehreren sonstigen Rechtsvorschriften, in denen jeweils eine Konformitätserklärung vorgeschrieben ist, wird nur eine Konformitätserklärung für sämtliche sonstigen Rechtsvorschriften ausgestellt. In der Erklärung sind die betreffenden Rechtsvorschriften mit der Fundstelle im Bundesgesetzblatt anzugeben.
 
-
-## § 9 – Inverkehrbringen von sonstigen Messgeräten
+# § 9 – Inverkehrbringen von sonstigen Messgeräten
 
 Sonstige Messgeräte dürfen nur in Verkehr gebracht werden, wenn sie mit den in einer Rechtsverordnung nach § 30 Nummer 4 bestimmten Kennzeichen und Aufschriften versehen sind.
 
-
-## § 10 – Besondere Vorschriften für Ausstellungsgeräte
+# § 10 – Besondere Vorschriften für Ausstellungsgeräte
 
 Messgeräte, die den Bestimmungen dieses Gesetzes nicht entsprechen, dürfen auf Messen, Ausstellungen und Vorführungen nur ausgestellt werden, wenn ein sichtbares Schild deutlich darauf hinweist, dass sie für Zwecke dieses Gesetzes erst in Verkehr gebracht oder in Betrieb genommen werden dürfen, wenn sie den Bestimmungen dieses Gesetzes entsprechen.
 
-
-## § 11 – Aufgaben der anerkennenden Stelle und der Akkreditierungsstelle
+# § 11 – Aufgaben der anerkennenden Stelle und der Akkreditierungsstelle
 
 (1) Die Aufgaben der anerkennenden Stelle obliegen dem Bundesministerium für Wirtschaft und Energie. Es kann diese Aufgaben auf eine nachgeordnete Behörde übertragen. Die Übertragung ist im Bundesanzeiger bekannt zu machen.
 
@@ -303,15 +289,13 @@ Messgeräte, die den Bestimmungen dieses Gesetzes nicht entsprechen, dürfen auf
 
 3. den Marktüberwachungsbehörden der anderen Mitgliedstaaten der Europäischen Union, soweit es sich um Informationen im Zusammenhang mit notifizierten Konformitätsbewertungsstellen handelt.
 
-
-## § 12 – Befugnisse der anerkennenden Stelle
+# § 12 – Befugnisse der anerkennenden Stelle
 
 (1) Die anerkennende Stelle kann von den Konformitätsbewertungsstellen, die sie zur Durchführung bestimmter Konformitätsbewertungstätigkeiten anerkannt hat, die Auskünfte, die zur Erfüllung ihrer Überwachungsaufgaben erforderlich sind und sonstige Unterstützung verlangen; sie kann die dazu erforderlichen Anordnungen treffen. Die anerkennende Stelle und die von ihr beauftragten Personen sind befugt, zu den Betriebs- und Geschäftszeiten Betriebsgrundstücke und Geschäftsräume sowie Prüflaboratorien zu betreten und zu besichtigen, soweit dies zur Erfüllung ihrer Überwachungsaufgaben erforderlich ist. Die anerkennende Stelle ist insbesondere befugt zu verlangen, dass ihr die Unterlagen vorgelegt werden, die der Konformitätsbewertung zu Grunde liegen.
 
 (2) Die Auskunftspflichtigen haben die Maßnahmen nach Absatz 1 zu dulden. Sie können die Auskunft auf Fragen verweigern, sofern die Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde. Die Auskunftspflichtigen sind über ihr Recht zur Auskunftsverweigerung zu belehren.
 
-
-## § 13 – Anerkennung von Konformitätsbewertungsstellen
+# § 13 – Anerkennung von Konformitätsbewertungsstellen
 
 (1) Eine Konformitätsbewertungsstelle, die die Übereinstimmung von Messgeräten mit den wesentlichen Anforderungen bewerten will, bedarf der Anerkennung (anerkannte Konformitätsbewertungsstelle). Die Anerkennung ist durch die anerkennende Stelle für bestimmte Tätigkeiten auszusprechen, wenn
 
@@ -339,8 +323,7 @@ Die Anerkennung kann unter weiteren Bedingungen erteilt und mit Auflagen verbund
 
 Die Anerkennung nach Satz 1 oder die Nachweise nach Satz 2 hat der Antragsteller der anerkennenden Stelle bei Antragstellung im Original oder in Kopie vorzulegen. Die anerkennende Stelle kann eine Beglaubigung der Kopie und eine beglaubigte deutsche Übersetzung verlangen.
 
-
-## § 14 – Konformitätsbewertungsstellen bei Behörden
+# § 14 – Konformitätsbewertungsstellen bei Behörden
 
 (1) Zur Bewertung, ob Messgeräte mit den wesentlichen Anforderungen übereinstimmen, dürfen auch Konformitätsbewertungsstellen tätig werden, die entweder nach Absatz 2 einer in der metrologischen Überwachung tätigen Behörde oder nach Absatz 3 der Physikalisch-Technischen Bundesanstalt angegliedert sind, sofern die erforderliche Kompetenz zur Durchführung von Konformitätsbewertungen unter Beachtung des § 15 Absatz 2 bis 7 und 9 nachgewiesen ist. Entsprechende Nachweise sind nach den anerkannten Regeln der Technik zu führen. Die Tätigkeit der Konformitätsbewertung muss organisatorisch eindeutig getrennt von den sonstigen Aufgaben der Behörde erfolgen. Die Regelungen der §§ 19 bis 21 sind auf diese Stellen entsprechend anzuwenden.
 
@@ -350,8 +333,7 @@ Die Anerkennung nach Satz 1 oder die Nachweise nach Satz 2 hat der Antragsteller
 
 (4) Die Konformitätsbewertungsstellen nach Absatz 1 verzichten vorbehaltlich des Satzes 2 auf die Durchführung von Konformitätsbewertungen, soweit ein ausreichender Wettbewerb für entsprechende Konformitätsbewertungen gegeben ist und keine besonderen sachlichen Gründe dafür vorliegen, dass sie die Konformitätsbewertung vornehmen. Die Konformitätsbewertung der Bauart von Messgeräten, die zur Messung der Dosis ionisierender Strahlung dienen und die in einer Rechtsverordnung nach § 4 Absatz 1 genannt sind, obliegt ausschließlich der Physikalisch-Technischen Bundesanstalt. Die Physikalisch-Technische Bundesanstalt hat im Übrigen auf Antrag Konformitätsbewertungen für Messgeräte im Rahmen ihrer technischen und personellen Möglichkeiten vorbehaltlich des Satzes 1 vorzunehmen.
 
-
-## § 15 – Anforderungen an die Konformitätsbewertungsstelle
+# § 15 – Anforderungen an die Konformitätsbewertungsstelle
 
 (1) Die Konformitätsbewertungsstelle muss Rechtspersönlichkeit besitzen.
 
@@ -387,15 +369,13 @@ Die Konformitätsbewertungsstelle muss über die erforderlichen Mittel zur angem
 
 (9) Die Mitarbeiter einer Konformitätsbewertungsstelle sind hinsichtlich solcher Informationen, die sie im Rahmen einer Konformitätsbewertung erhalten, zur Verschwiegenheit verpflichtet. Diese Verpflichtung besteht nicht gegenüber den Marktüberwachungsbehörden und dem Hersteller oder seinem Bevollmächtigten. Die Verpflichtung nach Satz 1 besteht nach Beendigung der Tätigkeit der Mitarbeiter fort. Die Konformitätsbewertungsstelle darf die im Rahmen einer Konformitätsbewertung erlangten Informationen, insbesondere Prüfergebnisse, nur an die Marktüberwachungsbehörden und den Hersteller oder seinen Bevollmächtigten herausgeben. Eine Weitergabe an Dritte ist nur mit Zustimmung des Herstellers oder seines Bevollmächtigten zulässig. Die von der Konformitätsbewertungsstelle zu beachtenden Bestimmungen zum Schutz personenbezogener Daten bleiben unberührt.
 
-
-## § 16 – Vermutung der Kompetenz der Konformitätsbewertungsstelle
+# § 16 – Vermutung der Kompetenz der Konformitätsbewertungsstelle
 
 (1) Weist eine Konformitätsbewertungsstelle nach, dass sie die Kriterien der einschlägigen harmonisierten Normen oder von Teilen dieser Normen erfüllt, deren Fundstellen im Amtsblatt der Europäischen Union veröffentlicht worden sind, so wird vermutet, dass sie die Anforderungen nach § 15 in dem Umfang erfüllt, in dem die anwendbaren harmonisierten Normen diese Anforderungen abdecken.
 
 (2) Ist die anerkennende Stelle der Auffassung, dass eine harmonisierte Norm den von dieser abgedeckten Anforderungen nach § 15 nicht voll entspricht, informiert sie hierüber unter Angabe der Gründe die Europäische Kommission.
 
-
-## § 17 – Notifizierung der Konformitätsbewertungsstelle
+# § 17 – Notifizierung der Konformitätsbewertungsstelle
 
 (1) Betrifft die Anerkennung einer Konformitätsbewertungsstelle die Bewertung von Messgeräten, die vom Anwendungsbereich von Rechtsvorschriften der Europäischen Union erfasst sind, in denen die Notifizierung dieser Stellen gegenüber der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union vorgesehen ist, so ist die Anerkennung unter der aufschiebenden Bedingung zu erteilen, dass nach der Notifizierung innerhalb der folgenden Fristen weder die Europäische Kommission noch die übrigen Mitgliedstaaten der Europäischen Union Einwände erhoben haben:
 
@@ -415,15 +395,13 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (4) Die anerkennende Stelle erteilt der Europäischen Kommission auf Verlangen sämtliche Auskünfte über die Kompetenz der betreffenden Stelle zum Zeitpunkt der Notifizierung oder die Erhaltung der Kompetenz während der Tätigkeit der betreffenden Stelle.
 
-
-## § 18 – Vergabe von Kennnummern
+# § 18 – Vergabe von Kennnummern
 
 (1) Die anerkennende Stelle vergibt an Konformitätsbewertungsstellen nach § 13 Absatz 1 oder § 14 Absatz 1, die nicht nach § 17 zu notifizieren sind, eine Kennnummer. Die Kennnummer besteht aus den Großbuchstaben „DE“ und vier nachfolgenden Ziffern. Die anerkennende Stelle veröffentlicht ein Verzeichnis der Konformitätsbewertungsstellen mit den von ihr vergebenen Kennnummern sowie Angaben zu den Tätigkeiten, für die die Anerkennung ausgesprochen wurde.
 
 (2) Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von Messgeräten, bei deren Bewertung sie die Kennnummer nach Absatz 1 verwenden, nicht vornehmen, sofern die anerkennende Stelle die Kennnummer zurückgezogen hat. Die anerkennende Stelle hat die Kennnummer zurückzuziehen, wenn die Kompetenz der Konformitätsbewertungsstelle nicht mehr gegeben ist.
 
-
-## § 19 – Verpflichtungen der anerkannten Konformitätsbewertungsstelle
+# § 19 – Verpflichtungen der anerkannten Konformitätsbewertungsstelle
 
 (1) Die anerkannte Konformitätsbewertungsstelle führt die Konformitätsbewertung im Einklang mit den Verfahren der Konformitätsbewertung gemäß der Rechtsverordnung nach § 30 Nummer 3 und unter Wahrung der Verhältnismäßigkeit durch.
 
@@ -437,8 +415,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (6) Die anerkannte Konformitätsbewertungsstelle hat auf den von ihr erstellten Konformitätsbescheinigungen die ihr von der Europäischen Kommission zugeteilte Kennnummer anzubringen. Ist die Konformitätsbewertungsstelle ausschließlich für die Bewertung solcher Messgeräte anerkannt, für die die Zuteilung einer Kennnummer durch die Europäische Kommission nicht vorgesehen ist, bringt sie die ihr von der anerkennenden Stelle zugewiesene Kennnummer an.
 
-
-## § 20 – Meldepflichten der anerkannten Konformitätsbewertungsstelle
+# § 20 – Meldepflichten der anerkannten Konformitätsbewertungsstelle
 
 (1) Die anerkannte Konformitätsbewertungsstelle meldet der anerkennenden Stelle unverzüglich
 
@@ -452,8 +429,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (2) Die anerkannte Konformitätsbewertungsstelle übermittelt den anderen Stellen, die ähnlichen Konformitätsbewertungstätigkeiten nachgehen und gleichartige Messgeräte abdecken, einschlägige Informationen über die negativen und auf Verlangen auch über die positiven Ergebnisse von Konformitätsbewertungen.
 
-
-## § 21 – Zweigunternehmen einer anerkannten Konformitätsbewertungsstelle und Vergabe von Unteraufträgen
+# § 21 – Zweigunternehmen einer anerkannten Konformitätsbewertungsstelle und Vergabe von Unteraufträgen
 
 (1) Vergibt die anerkannte Konformitätsbewertungsstelle bestimmte mit der Konformitätsbewertung verbundene Aufgaben an Unterauftragnehmer oder überträgt sie diese Aufgaben einem Zweigunternehmen, stellt sie sicher, dass der Unterauftragnehmer oder das Zweigunternehmen die Anforderungen des § 15 erfüllt und informiert die anerkennende Stelle entsprechend.
 
@@ -463,15 +439,13 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (4) Die anerkannte Konformitätsbewertungsstelle hält die einschlägigen Unterlagen über die Begutachtung der Qualifikation des Unterauftragnehmers oder des Zweigunternehmens und über die von ihm im Rahmen des Konformitätsbewertungsverfahrens ausgeführten Arbeiten für die anerkennende Stelle bereit.
 
-
-## § 22 – Widerruf der Anerkennung
+# § 22 – Widerruf der Anerkennung
 
 (1) Stellt die anerkennende Stelle fest oder wird sie darüber informiert, dass eine nach § 13 Absatz 1 anerkannte Konformitätsbewertungsstelle die in § 15 genannten Anforderungen nicht mehr erfüllt oder dass sie ihren Verpflichtungen nicht nachkommt, widerruft sie ganz oder teilweise die Anerkennung. Sie informiert unverzüglich die Europäische Kommission und die übrigen Mitgliedstaaten der Europäischen Union darüber, soweit die Anerkennung das Recht zur Bewertung von Messgeräten betrifft, die von Rechtsvorschriften der Europäischen Union erfasst sind.
 
 (2) Im Fall des Widerrufs nach Absatz 1 oder wenn die anerkannte Konformitätsbewertungsstelle ihre Tätigkeit einstellt, ergreift die anerkennende Stelle die geeigneten Maßnahmen, um zu gewährleisten, dass die Akten dieser Stelle von einer anderen anerkannten Konformitätsbewertungsstelle weiterbearbeitet und für die anerkennende Stelle und die Marktüberwachungsbehörden auf deren Verlangen bereitgehalten werden.
 
-
-## § 23 – Pflichten des Herstellers
+# § 23 – Pflichten des Herstellers
 
 (1) Der Hersteller trägt die Verantwortung, dass die von ihm hergestellten Messgeräte nur in Verkehr gebracht oder von ihm für eigene Zwecke in Betrieb genommen werden, wenn sie die wesentlichen Anforderungen des § 6 Absatz 2 erfüllen. Er gewährleistet durch geeignete Verfahren, dass auch bei Serienfertigung die Konformität sichergestellt ist. Werden innerhalb der Serienfertigung der Entwurf eines Messgeräts oder dessen Merkmale geändert oder ändern sich die technischen Regeln, auf die bei der Konformitätserklärung verwiesen wird, so hat der Hersteller diese Änderungen angemessen zu berücksichtigen.
 
@@ -487,8 +461,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (+++ § 23 Abs. 3 bis 6: Zur Anwendung vgl. § 29 +++)
 
-
-## § 24 – Pflichten des Bevollmächtigten
+# § 24 – Pflichten des Bevollmächtigten
 
 (1) Ein Hersteller kann schriftlich einen Bevollmächtigten benennen.
 
@@ -504,8 +477,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (+++ § 24 Abs. 2: Zur Anwendung vgl. § 29 +++)
 
-
-## § 25 – Pflichten des Einführers
+# § 25 – Pflichten des Einführers
 
 (1) Der Einführer darf nur konforme Messgeräte in Verkehr bringen oder für eigene Zwecke in Betrieb nehmen.
 
@@ -527,8 +499,7 @@ Die Konformitätsbewertungsstellen nach § 14 Absatz 1 dürfen Bewertungen von M
 
 (+++ § 25 Abs. 2 Nr. 3 u. 4, Abs. 4 u. 5: Zur Anwendung vgl. § 29 +++)
 
-
-## § 26 – Pflichten des Händlers
+# § 26 – Pflichten des Händlers
 
 (1) Der Händler hat sicherzustellen, dass in Verkehr gebrachte Messgeräte von ihm nur auf dem Markt bereitgestellt oder für eigene Zwecke in Betrieb genommen werden, wenn
 
@@ -546,8 +517,7 @@ Satz 1 Nummer 1 ist auch bei sonstigen Messgeräten anzuwenden.
 
 (+++ § 26 Abs. 1 Satz 1 Nr. 2, Abs. 2 bis 4: Zur Anwendung vgl. § 29 +++)
 
-
-## § 27 – EG-Bauartzulassung und EG-Ersteichung
+# § 27 – EG-Bauartzulassung und EG-Ersteichung
 
 (1) Messgeräte, die nach den Vorschriften der Richtlinie 2009/34/EG des Europäischen Parlaments und des Rates vom 23. April 2009 betreffend gemeinsame Vorschriften über Messgeräte sowie über Mess- und Prüfverfahren (ABl. L 106 vom 28.4.2009, S. 7) über eine EG-Bauartzulassung verfügen, dürfen vorbehaltlich des Absatzes 2 in Verkehr gebracht werden. Sie dürfen erst in Betrieb genommen werden, wenn sie entsprechend den Vorschriften der genannten Richtlinie EG-erstgeeicht und gekennzeichnet sind.
 
@@ -555,8 +525,7 @@ Satz 1 Nummer 1 ist auch bei sonstigen Messgeräten anzuwenden.
 
 (3) Die EG-Ersteichung wird im Geltungsbereich dieses Gesetzes auf Antrag eines Wirtschaftsakteurs oder desjenigen, der Messgeräte verwendet, durch die nach Landesrecht zuständigen Behörden nach Maßgabe der Vorschriften der Rechtsverordnung nach § 30 Nummer 6 erteilt.
 
-
-## § 28 – Messgeräte, die rechtmäßig im Ausland in Verkehr gebracht wurden
+# § 28 – Messgeräte, die rechtmäßig im Ausland in Verkehr gebracht wurden
 
 (1) Messgeräte, die
 
@@ -570,13 +539,11 @@ dürfen auch im Geltungsbereich dieses Gesetzes in Verkehr gebracht werden, wenn
 
 (3) Auf Antrag eines Wirtschaftsakteurs oder auf ein Ersuchen der nach Landesrecht zuständigen Behörde trifft die Physikalisch-Technische Bundesanstalt eine Entscheidung über die Gleichwertigkeit nach Absatz 1. Diese Entscheidung ist für die nach Landesrecht zuständigen Behörden verbindlich.
 
-
-## § 29 – Pflichten der Wirtschaftsakteure in den Fällen der §§ 27 und 28
+# § 29 – Pflichten der Wirtschaftsakteure in den Fällen der §§ 27 und 28
 
 § 23 Absatz 3 bis 6, § 24 Absatz 2, § 25 Absatz 2 Nummer 3 und 4, Absatz 4 und 5 und § 26 Absatz 1 Satz 1 Nummer 2, Absatz 2 bis 4 sind für die Fälle der §§ 27 und 28 entsprechend anzuwenden.
 
-
-## § 30 – Verordnungsermächtigung
+# § 30 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur Gewährleistung der Messrichtigkeit, Messbeständigkeit und Prüfbarkeit, auch zur Umsetzung von Rechtsakten der Europäischen Union Folgendes näher zu bestimmen:
 
@@ -592,8 +559,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 6. die Anforderungen an die EG-Bauartzulassung und die EG-Ersteichung von Messgeräten, einschließlich Vorschriften über Kennzeichen und Aufschriften auf den Messgeräten sowie die von diesen Vorschriften erfassten Messgeräte.
 
-
-## § 31 – Anforderungen an das Verwenden von Messgeräten
+# § 31 – Anforderungen an das Verwenden von Messgeräten
 
 (1) Verwendet werden dürfen ausschließlich Messgeräte oder sonstige Messgeräte, die den Bestimmungen dieses Gesetzes und der auf seiner Grundlage erlassenen Rechtsverordnungen entsprechen. Sie müssen im Rahmen der vorgesehenen Verwendungsbedingungen eingesetzt werden.
 
@@ -607,8 +573,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 4. Nachweise über erfolgte Wartungen, Reparaturen oder sonstige Eingriffe am Messgerät, einschließlich solcher durch elektronisch vorgenommene Maßnahmen, für einen Zeitraum von bis zu drei Monaten nach Ablauf der nach § 41 Nummer 6 bestimmten Eichfrist, längstens für fünf Jahre, aufbewahrt werden.
 
-
-## § 32 – Anzeigepflicht
+# § 32 – Anzeigepflicht
 
 (1) Wer neue oder erneuerte Messgeräte verwendet oder im Auftrag des Verwenders Messwerte von solchen Messgeräten erfasst, hat die betroffenen Messgeräte der nach Landesrecht zuständigen Behörde spätestens sechs Wochen nach Inbetriebnahme anzuzeigen. Anzugeben sind
 
@@ -632,8 +597,7 @@ Satz 1 ist nicht auf Maßverkörperungen oder Zusatzeinrichtungen und nicht auf 
 
 (3) Die nach Landesrecht zuständigen Behörden stellen sicher, dass eine zentrale, benutzerfreundliche Möglichkeit zur Erfüllung der Anzeigepflicht auf elektronischem Weg oder per Telefax sowie eine einheitliche Postadresse zur Verfügung stehen. Die Behörden bestätigen den Eingang der Anzeigen nach den Absätzen 1 und 2.
 
-
-## § 33 – Anforderungen an das Verwenden von Messwerten
+# § 33 – Anforderungen an das Verwenden von Messwerten
 
 (1) Werte für Messgrößen dürfen im geschäftlichen oder amtlichen Verkehr oder bei Messungen im öffentlichen Interesse nur dann angegeben oder verwendet werden, wenn zu ihrer Bestimmung ein Messgerät bestimmungsgemäß verwendet wurde und die Werte auf das jeweilige Messergebnis zurückzuführen sind, soweit in der Rechtsverordnung nach § 41 Nummer 2 nichts anderes bestimmt ist. Andere bundesrechtliche Regelungen, die vergleichbaren Schutzzwecken dienen, sind weiterhin anzuwenden.
 
@@ -645,8 +609,7 @@ Satz 1 ist nicht auf Maßverkörperungen oder Zusatzeinrichtungen und nicht auf 
 
 2. für die in Nummer 1 genannten Zwecke erforderlichenfalls geeignete Hilfsmittel bereitzustellen.
 
-
-## § 34 – Vermutungswirkung
+# § 34 – Vermutungswirkung
 
 Soweit der Verpflichtete Maßnahmen ergriffen hat, die von Regeln, technischen Spezifikationen oder Erkenntnissen abgedeckt sind, die vom Ausschuss nach § 46 ermittelt wurden und deren Fundstelle die Physikalisch-Technische Bundesanstalt im Bundesanzeiger veröffentlicht hat, wird vermutet, dass
 
@@ -654,8 +617,7 @@ Soweit der Verpflichtete Maßnahmen ergriffen hat, die von Regeln, technischen S
 
 2. Rechnungen, bei denen Messwerte nach § 33 Absatz 3 verwendet werden, nachvollzogen werden können.
 
-
-## § 35 – Ausnahmen für geschlossene Grundstücksnutzungen
+# § 35 – Ausnahmen für geschlossene Grundstücksnutzungen
 
 (1) Verwendet ein Vertragspartner Messgeräte im Rahmen geschäftlicher Zwecke zur Ermittlung leitungsgebundener Leistungen unter gleich bleibenden gewerblichen Vertragspartnern, kann er bei der nach Landesrecht zuständigen Behörde schriftlich beantragen, für diese Messgeräte von den Regelungen des Gesetzes befreit zu werden, wenn
 
@@ -677,8 +639,7 @@ Soweit der Verpflichtete Maßnahmen ergriffen hat, die von Regeln, technischen S
 
 (4) Einem Vertragspartner darf kein Nachteil entstehen, sofern er sein Einverständnis nicht erklärt. Die Weitergabe von Kosteneinsparungen bleibt hiervon unberührt.
 
-
-## § 36 – Ausnahmen für bestimmte Verwendungen
+# § 36 – Ausnahmen für bestimmte Verwendungen
 
 Die Pflichten dieses Unterabschnitts sind nicht anzuwenden, soweit in der Rechtsverordnung nach § 41 Nummer 5 Ausnahmen für einzelne Verwendungen bestimmt sind. Ausnahmen können bestimmt werden, wenn das Schutzbedürfnis der von der Messung Betroffenen dies rechtfertigt. Dies ist insbesondere der Fall, wenn
 
@@ -688,8 +649,7 @@ Die Pflichten dieses Unterabschnitts sind nicht anzuwenden, soweit in der Rechts
 
 3. bei einem amtlichen Verwenden von Messgeräten die Messrichtigkeit nicht von Bedeutung ist.
 
-
-## § 37 – Eichung und Eichfrist
+# § 37 – Eichung und Eichfrist
 
 (1) Messgeräte dürfen nicht ungeeicht verwendet werden,
 
@@ -741,20 +701,17 @@ b) die unkenntlich gemachten, entwerteten oder entfernten Kennzeichen durch geei
 
 Die Eichfristen des jeweiligen Messgeräts bleiben hiervon unberührt.
 
-
-## § 38 – Verspätete Eichungen
+# § 38 – Verspätete Eichungen
 
 Hat der Verwender die Eichung mindestens zehn Wochen vor Ablauf der Eichfrist beantragt und das zur Eichung seinerseits Erforderliche getan oder angeboten, steht das Messgerät trotz des Ablaufs der Eichfrist bis zum Zeitpunkt der behördlichen Überprüfung einem geeichten Messgerät gleich. Hat der Verwender die Eichung zu einem späteren Zeitpunkt beantragt und ist der Behörde eine Eichung vor Ablauf der Eichfrist nicht möglich, so kann sie das weitere Verwenden des Messgeräts bis zum Zeitpunkt der behördlichen Überprüfung gestatten. Die Behörde soll die Eichung nach Ablauf der Eichfrist unverzüglich vornehmen.
 
-
-## § 39 – Befundprüfung
+# § 39 – Befundprüfung
 
 (1) Wer ein begründetes Interesse an der Messrichtigkeit darlegt, kann bei der Behörde nach § 40 Absatz 1 beantragen festzustellen, ob ein Messgerät die wesentlichen Anforderungen nach § 6 Absatz 2 erfüllt, wobei anstelle der Fehlergrenzen nach § 6 Absatz 2 die in einer Rechtsverordnung nach § 41 Nummer 1 bestimmten Verkehrsfehlergrenzen einzuhalten sind (Befundprüfung).
 
 (2) Für ein Messgerät oder eine damit verbundene Zusatzeinrichtung, das oder die bei der Ermittlung des Verbrauchs an Elektrizität, Gas, Wärme oder Wasser eingesetzt wird, kann die Feststellung nach Absatz 1 auch bei einer staatlich anerkannten Prüfstelle nach § 40 Absatz 3 beantragt werden.
 
-
-## § 40 – Zuständige Stellen für die Eichung
+# § 40 – Zuständige Stellen für die Eichung
 
 (1) Die Eichung wird von den nach Landesrecht zuständigen Behörden vorgenommen. Örtlich zuständig für die Eichung und sonstige Prüfung von Messgeräten an der Amtsstelle ist jede nach Satz 1 sachlich zuständige Behörde, bei der eine solche Amtshandlung beantragt wird.
 
@@ -770,8 +727,7 @@ Hat der Verwender die Eichung mindestens zehn Wochen vor Ablauf der Eichfrist be
 
 (5) Den zuständigen Behörden stehen bei der Eichung und bei der Befundprüfung die Befugnisse nach § 56 zur Verfügung; das Grundrecht der Unverletzlichkeit der Wohnung gemäß Artikel 13 des Grundgesetzes wird insoweit eingeschränkt. Die staatlich anerkannten Prüfstellen können Maßnahmen nach § 55 Absatz 1 Satz 2 Nummer 6 ergreifen, wenn Messgeräte von ihnen entgegen den ihnen obliegenden Verpflichtungen geeicht oder sonst geprüft wurden. Ihnen stehen die Befugnisse der Beauftragten nach § 56 zur Verfügung.
 
-
-## § 41 – Verordnungsermächtigung
+# § 41 – Verordnungsermächtigung
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen zu erlassen
 
@@ -817,8 +773,7 @@ c) des Betriebs der Prüfstelle, einschließlich der dafür erforderlichen Dokum
 
 10. zu den besonderen Anforderungen an die Verwendung von Maßverkörperungen, die zum gewerbsmäßigen Ausschank von Getränken gegen Entgelt bestimmt sind (Ausschankmaße), einschließlich der Festlegung bestimmter, von Ausschankmaßen einzuhaltender Maßvolumina.
 
-
-## § 42 – Begriffsbestimmungen für Fertigpackungen und andere Verkaufseinheiten
+# § 42 – Begriffsbestimmungen für Fertigpackungen und andere Verkaufseinheiten
 
 (1) Fertigpackungen im Sinne dieses Gesetzes sind Verpackungen beliebiger Art, in die in Abwesenheit des Käufers Erzeugnisse abgepackt und die in Abwesenheit des Käufers verschlossen werden, wobei die Menge des darin enthaltenen Erzeugnisses ohne Öffnen oder merkliche Änderung der Verpackung nicht verändert werden kann.
 
@@ -836,15 +791,13 @@ c) des Betriebs der Prüfstelle, einschließlich der dafür erforderlichen Dokum
 
 2. Nennfüllmenge die Menge, die die Fertigpackung enthalten soll.
 
-
-## § 43 – Anforderungen an Fertigpackungen
+# § 43 – Anforderungen an Fertigpackungen
 
 (1) Fertigpackungen dürfen nur hergestellt, in den Geltungsbereich des Gesetzes verbracht, in den Verkehr gebracht oder sonst auf dem Markt bereitgestellt werden, wenn die Nennfüllmenge angegeben ist, die Füllmenge die festgelegten Anforderungen erfüllt und die Fertigpackung mit den erforderlichen Angaben, Aufschriften und Zeichen versehen ist.
 
 (2) Es ist verboten, Fertigpackungen herzustellen, herstellen zu lassen, in den Geltungsbereich dieses Gesetzes zu verbringen, in Verkehr zu bringen oder sonst auf dem Markt bereitzustellen, wenn sie ihrer Gestaltung und Befüllung nach eine größere Füllmenge vortäuschen als in ihnen enthalten ist.
 
-
-## § 44 – Verordnungsermächtigung für Fertigpackungen und andere Verkaufseinheiten
+# § 44 – Verordnungsermächtigung für Fertigpackungen und andere Verkaufseinheiten
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen zum Schutz der Verbraucherinnen und Verbraucher, zur Erleichterung des Handels mit Fertigpackungen, auch zur Umsetzung oder Durchführung von Rechtsakten der Europäischen Union, insbesondere über
 
@@ -872,8 +825,7 @@ c) des Betriebs der Prüfstelle, einschließlich der dafür erforderlichen Dokum
 
 (2) Die Bundesregierung wird ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu den gleichen Zwecken entsprechende Vorschriften für andere Verkaufseinheiten zu erlassen.
 
-
-## § 45 – Aufgaben der Physikalisch-Technischen Bundesanstalt
+# § 45 – Aufgaben der Physikalisch-Technischen Bundesanstalt
 
 Die Physikalisch-Technische Bundesanstalt hat zur Sicherung der Einheitlichkeit des gesetzlichen Messwesens
 
@@ -883,8 +835,7 @@ Die Physikalisch-Technische Bundesanstalt hat zur Sicherung der Einheitlichkeit 
 
 3. die Normung und Standardisierung auf diesem Gebiet zu unterstützen.
 
-
-## § 46 – Regelermittlungsausschuss
+# § 46 – Regelermittlungsausschuss
 
 (1) Bei der Physikalisch-Technischen Bundesanstalt wird ein Regelermittlungsausschuss eingesetzt. Er hat die Aufgabe, auf der Grundlage des Standes der Technik
 
@@ -922,15 +873,13 @@ Die Mitgliedschaft ist ehrenamtlich.
 
 (7) Der Ausschuss gibt sich eine Geschäftsordnung, die der Zustimmung des Bundesministeriums für Wirtschaft und Energie bedarf.
 
-
-## § 47 – Metrologische Rückführung
+# § 47 – Metrologische Rückführung
 
 (1) Konformitätsbewertungsstellen, zuständige Behörden und staatlich anerkannte Prüfstellen haben zur Sicherung der Einheitlichkeit des gesetzlichen Messwesens nachweisbar zu gewährleisten, dass die als Prüfmittel verwendeten Normale mit den bei der Physikalisch-Technischen Bundesanstalt aufbewahrten Normalen übereinstimmen (metrologische Rückführung).
 
 (2) Die Physikalisch-Technische Bundesanstalt hat eine Prüfung der Normalgeräte und Prüfungshilfsmittel der in Absatz 1 genannten Stellen auf Antrag vorzunehmen, sofern eine metrologische Rückführung auf anderem Weg nicht möglich ist.
 
-
-## § 48 – Zuständigkeit für die Marktüberwachung und Zusammenarbeit
+# § 48 – Zuständigkeit für die Marktüberwachung und Zusammenarbeit
 
 (1) Die Überwachung der in Verkehr gebrachten Produkte (Marktüberwachung) obliegt den nach Landesrecht zuständigen Behörden, sofern in anderen bundesrechtlichen Regelungen keine abweichenden Festlegungen getroffen werden. Unbeschadet der gesetzlichen Vorschriften über die örtliche Zuständigkeit kann auch die Behörde, in deren Bezirk der Anlass für die Amtshandlung hervortritt, die für ihre Aufgabenerfüllung erforderlichen Unterlagen und Informationen über Produkte nach den Vorschriften des § 52 Absatz 2, 4 und 5 anfordern.
 
@@ -938,8 +887,7 @@ Die Mitgliedschaft ist ehrenamtlich.
 
 (3) Die Marktüberwachungsbehörden und die für die Kontrolle der Außengrenzen zuständigen Behörden schützen im Rahmen des geltenden Rechts Betriebsgeheimnisse und personenbezogene Daten.
 
-
-## § 49 – Marktüberwachungskonzept
+# § 49 – Marktüberwachungskonzept
 
 (1) Die Marktüberwachungsbehörden haben eine wirksame Marktüberwachung auf der Grundlage eines Marktüberwachungskonzepts zu gewährleisten. Das Marktüberwachungskonzept soll insbesondere umfassen:
 
@@ -955,8 +903,7 @@ Die Marktüberwachungsbehörden überprüfen und bewerten regelmäßig, mindeste
 
 (+++ § 49: Zur Anwendung vgl. § 54 Abs. 3 +++)
 
-
-## § 50 – Marktüberwachungsmaßnahmen
+# § 50 – Marktüberwachungsmaßnahmen
 
 (1) Die Marktüberwachungsbehörden kontrollieren anhand angemessener Stichproben auf geeignete Weise und in angemessenem Umfang, ob Messgeräte und sonstige Messgeräte die Anforderungen nach Abschnitt 2 und Fertigpackungen und andere Verkaufseinheiten die Anforderungen nach Abschnitt 4 erfüllen.
 
@@ -990,15 +937,13 @@ b) die erwirken, dass ein dem Endverbraucher schon bereits bereitgestelltes Prod
 
 (6) Die Marktüberwachungsbehörden informieren und unterstützen sich gegenseitig bei Marktüberwachungsmaßnahmen entsprechend den Absätzen 1 bis 3, und zwar in dem Umfang, der für die jeweilige Aufgabenerfüllung im Einzelfall erforderlich ist.
 
-
-## § 51 – Adressaten der Marktüberwachungsmaßnahmen
+# § 51 – Adressaten der Marktüberwachungsmaßnahmen
 
 (1) Die Maßnahmen der Marktüberwachungsbehörden sind gegen den jeweils betroffenen Wirtschaftsakteur gerichtet. Maßnahmen gegen jede andere Person sind, unbeschadet der Maßnahmen im Rahmen der Verwendungsüberwachung, nur zulässig, solange ein bestehendes ernstes Risiko nicht auf andere Weise abgewehrt werden kann.
 
 (2) Der nach Absatz 1 betroffene Wirtschaftsakteur ist vor Erlass einer Maßnahme nach § 50 Absatz 2 gemäß § 28 des Verwaltungsverfahrensgesetzes mit der Maßgabe anzuhören, dass die Anhörungsfrist nicht kürzer als zehn Tage sein darf. Wurde eine Maßnahme getroffen, ohne dass der Wirtschaftsakteur gehört wurde, wird ihm so schnell wie möglich Gelegenheit gegeben, sich zu äußern. Die Maßnahme wird daraufhin umgehend überprüft.
 
-
-## § 52 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Marktüberwachung
+# § 52 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Marktüberwachung
 
 (1) Soweit es zur Erfüllung ihrer Aufgaben erforderlich ist, sind die Marktüberwachungsbehörden und ihre Beauftragten befugt, unbeschadet der Rechte aus Artikel 19 Absatz 1 der Verordnung (EG) Nr. 765/2008, zu den üblichen Betriebs- und Geschäftszeiten Grundstücke, Betriebs- oder Geschäftsräume zu betreten, in oder auf denen im Rahmen einer Geschäftstätigkeit Produkte im Sinne dieses Gesetzes
 
@@ -1028,8 +973,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 (+++ § 52 Abs. 5 Satz 3 u. 4: Zur Anwendung vgl. § 56 Abs. 3 Satz 5 u. § 58 Abs. 3 Satz 5 +++)
 
-
-## § 53 – Meldeverfahren, Verordnungsermächtigung
+# § 53 – Meldeverfahren, Verordnungsermächtigung
 
 (1) Trifft die Marktüberwachungsbehörde eine Maßnahme, durch die die Bereitstellung eines Messgeräts auf dem Markt untersagt oder eingeschränkt oder seine Rücknahme oder sein Rückruf angeordnet wird, so informiert sie hierüber unter Angabe der Gründe die übrigen Marktüberwachungsbehörden. Sie informiert ferner die Konformitätsbewertungsstelle und die anerkennende Stelle über die von ihr getroffene Maßnahme.
 
@@ -1037,8 +981,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 (3) Für den Informationsaustausch sind so weit wie möglich elektronische Kommunikationsmittel zu benutzen. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten des Meldeverfahrens zu regeln, insbesondere die Einzelheiten zur Nutzung bestimmter elektronischer Kommunikationswege.
 
-
-## § 54 – Grundsätze der Verwendungsüberwachung
+# § 54 – Grundsätze der Verwendungsüberwachung
 
 (1) Die zuständigen Behörden kontrollieren anhand angemessener Stichproben auf geeignete Weise und in angemessenem Umfang, ob beim Verwenden von Messgeräten und Messwerten die Vorschriften des Abschnitts 3 beachtet sind (Verwendungsüberwachung). Die zuständigen Behörden überwachen insbesondere
 
@@ -1058,8 +1001,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 (3) Die Behörden haben eine wirksame Überwachung auf der Grundlage eines Verwendungsüberwachungskonzepts zu gewährleisten. Die Regelungen des § 49 sind für die Zwecke der Verwendungsüberwachung entsprechend anzuwenden.
 
-
-## § 55 – Maßnahmen der Verwendungsüberwachung
+# § 55 – Maßnahmen der Verwendungsüberwachung
 
 (1) Die Behörden treffen die erforderlichen Maßnahmen, wenn sie den begründeten Verdacht haben, dass Messgeräte nicht entsprechend den Anforderungen des Abschnitts 3 verwendet werden. Sie sind insbesondere befugt,
 
@@ -1077,8 +1019,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 (2) Die Behörde widerruft oder ändert eine Maßnahme nach Absatz 1, wenn der Verpflichtete nachweist, dass er wirksame Maßnahmen ergriffen hat. Maßnahmen als Nebenfolge einer Ordnungswidrigkeit bleiben unberührt.
 
-
-## § 56 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Verwendungsüberwachung
+# § 56 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Verwendungsüberwachung
 
 (1) Soweit es zum Zweck der Verwendungsüberwachung erforderlich ist, sind die Behörden und ihre Beauftragten befugt, zu den üblichen Betriebs- und Geschäftszeiten Grundstücke, Betriebs- oder Geschäftsräume zu betreten, in oder auf denen Messgeräte verwendet werden. Das Betreten von Wohnräumen ist zulässig, soweit dies zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung erforderlich ist; das Grundrecht der Unverletzlichkeit der Wohnung gemäß Artikel 13 des Grundgesetzes wird insoweit eingeschränkt. Die Behörden und ihre Beauftragten sind befugt, Messgeräte zu besichtigen, zu prüfen oder prüfen zu lassen sowie insbesondere zu diesem Zweck in Betrieb nehmen zu lassen.
 
@@ -1090,8 +1031,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 (3) Der betroffene Verwender oder derjenige, in dessen Räumlichkeiten Messgeräte verwendet werden, hat die Maßnahmen nach Absatz 1 zu dulden und die Behörden sowie deren Beauftragte zu unterstützen, insbesondere ihnen auf Verlangen Räume und Unterlagen zu bezeichnen sowie Räume und Behältnisse zu öffnen. Der betroffene Verwender ist verpflichtet, den Behörden auf Verlangen die Auskünfte zu erteilen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Er hat die von ihm aufzubewahrenden Dokumente auf Verlangen vorzulegen. Befinden sich Unterlagen zum ordnungsgemäßen Betrieb eines Messgeräts im Besitz eines Dritten, ist auch dieser auf Verlangen der zuständigen Behörden und ihrer Beauftragten zur Vorlage dieser Unterlagen verpflichtet, soweit dies zum Zwecke der Verwendungsüberwachung erforderlich ist; liegen die Unterlagen dem Dritten nur in elektronischer Form vor, genügt eine Vorlage in elektronischer Form. § 52 Absatz 5 Satz 4 und 5 ist auf die Verpflichteten nach Satz 1 bis 4 entsprechend anzuwenden.
 
-
-## § 57 – Zuständigkeit und Maßnahmen im Rahmen der Aufsicht über staatlich anerkannte Prüfstellen
+# § 57 – Zuständigkeit und Maßnahmen im Rahmen der Aufsicht über staatlich anerkannte Prüfstellen
 
 (1) Die Aufsicht über die staatlich anerkannten Prüfstellen führen die nach § 40 Absatz 1 zuständigen Behörden.
 
@@ -1105,8 +1045,7 @@ Sie sind befugt, die Produkte zu besichtigen, zu prüfen oder prüfen zu lassen 
 
 Kommt eine staatlich anerkannte Prüfstelle einer Weisung nicht oder nicht fristgerecht nach, kann die zuständige Behörde die erforderlichen Maßnahmen an Stelle und auf Kosten der Prüfstelle selbst durchführen oder durch einen anderen durchführen lassen.
 
-
-## § 58 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Überwachung staatlich anerkannter Prüfstellen
+# § 58 – Betretensrechte, Mitwirkungs- und Duldungspflichten bei der Überwachung staatlich anerkannter Prüfstellen
 
 (1) Soweit es zur Aufsicht erforderlich ist, sind die Behörden und ihre Beauftragten befugt, zu den üblichen Betriebs- und Geschäftszeiten Grundstücke, Geschäftsräume oder Betriebsgrundstücke zu betreten, auf oder in denen Prüfstellen ansässig sind. Die Behörden oder ihre Beauftragten können Prüfungen und Untersuchungen durchführen und Einsicht in geschäftliche Unterlagen der Prüfstelle nehmen.
 
@@ -1118,8 +1057,7 @@ Kommt eine staatlich anerkannte Prüfstelle einer Weisung nicht oder nicht frist
 
 (3) Die Mitarbeiter der Prüfstelle sowie Personen, in deren Herrschaftsbereich die Prüfstelle ansässig ist, haben die Maßnahmen entsprechend den Absätzen 1 und 2 zu dulden. Die Mitarbeiter der Prüfstelle haben die Behörden sowie deren Beauftragte zu unterstützen. Der Leiter der Prüfstelle und sein Vertreter sind verpflichtet, den Behörden auf Verlangen die Auskünfte zu erteilen, die zur Erfüllung ihrer Aufgaben erforderlich sind. Der Leiter der Prüfstelle und sein Vertreter haben die von ihnen aufzubewahrenden Dokumente auf Verlangen vorzulegen. § 52 Absatz 5 Satz 4 und 5 ist entsprechend anzuwenden.
 
-
-## § 59 – Gebühren und Auslagen der Landesbehörden, Verordnungsermächtigung
+# § 59 – Gebühren und Auslagen der Landesbehörden, Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben die Landesbehörden Gebühren und Auslagen nach den Absätzen 2 und 3. Für Prüfungen und Untersuchungen werden keine Gebühren und Auslagen erhoben, wenn die Prüfung und Untersuchung
 
@@ -1133,8 +1071,7 @@ Ergibt eine Befundprüfung nach § 39, dass ein Messgerät die Verkehrsfehlergre
 
 (3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, für den Bereich der Landesverwaltung durch Rechtsverordnung mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und die Auslagenerstattung näher zu bestimmen und dabei Fest-, Zeit- oder Rahmengebühren vorzusehen. In der Rechtsverordnung kann aus Gründen des öffentlichen Interesses oder der Billigkeit eine Gebührenbefreiung oder -ermäßigung bestimmt werden. Ferner kann bestimmt werden, dass die für eine Eichung im Sinne des § 37 zulässige Gebühr auch erhoben werden darf, wenn die individuell zurechenbare öffentliche Leistung aus Gründen, die der Betroffene zu vertreten hat, nicht am festgesetzten Termin stattfinden konnte.
 
-
-## § 60 – Bußgeldvorschriften
+# § 60 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -1210,13 +1147,11 @@ soweit eine Rechtsverordnung nach Absatz 4 für einen bestimmten Tatbestand auf 
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung mit Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 27 geahndet werden können.
 
-
-## § 61 – Einziehung
+# § 61 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 60 Absatz 1 begangen worden, so können Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, und Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 62 – Übergangsvorschriften
+# § 62 – Übergangsvorschriften
 
 (1) Messgeräte, die bis zum 31. Dezember 2014 nach den §§ 28a, 30 der Eichordnung vom 12. August 1988 (BGBl. I S. 1657), die zuletzt durch Artikel 1 der Verordnung vom 6. Juni 2011 (BGBl. I S. 1035) geändert worden ist, in der bis zum 31. Dezember 2014 geltenden Fassung erstgeeicht worden sind, können in Verkehr gebracht, in Betrieb genommen und verwendet werden.
 

@@ -1,25 +1,19 @@
-# [DonauSchPV] Donauschiffahrtspolizeiverordnung  (DonauSchPV)
-
-Ausfertigungsdatum: 27.05.1993
-
+% Donauschiffahrtspolizeiverordnung  (DonauSchPV)
+% Ausfertigungsdatum: 27.05.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1 bis 5 und des § 3c Abs. 1 Nr. 2 des Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270), ferner auf Grund des § 27 Abs. 1 und des § 46 Satz 1 Nr. 1 und 3 und Satz 2 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) verordnet das Bundesministerium für Verkehr, gemäß § 3 Abs. 5 und § 3c Abs. 1 Nr. 1 des Binnenschiffahrtsaufgabengesetzes in Verbindung mit Artikel 56 des Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 5. Juni 1986 (BGBl. I S. 864) gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, gemäß § 3 Abs. 5 des Binnenschiffahrtsaufgabengesetzes im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung, gemäß § 3 Abs. 5 und § 3c Abs. 1 Nr. 2 des Binnenschiffahrtsaufgabengesetzes, § 3 Abs. 5 geändert gemäß Artikel 66 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278), im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Für die Schiffahrt auf der Bundeswasserstraße Donau zwischen Kehlheim (km 2414,60) und Jochenstein (km 2201,77) gelten die Vorschriften der Anlage A zu dieser Verordnung.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 Auf Fahrzeugen mit einer Fahrtauglichkeitsbescheinigung nach den §§ 5 und 6 der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398, 2032) in der jeweils geltenden Fassung dürfen Signallichter auch verwendet werden, wenn sie abweichend von den Anlagen 4 und 5 zu der Anlage A zu dieser Verordnung den Vorschriften nach Artikel 7.05 des Europäischen Standards der technischen Vorschriften für Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) und der zuletzt durch das Korrigendum 2 vom 10. April 2018 berichtigt worden ist (Bekanntmachung des Bundesministeriums für Verkehr und digitale Infrastruktur vom 28. September 2018 (BAnz AT 08.10.2018 B4)) (ES-TRIN), entsprechen.
 
-
-## § 3 – Zuständige Behörde
+# § 3 – Zuständige Behörde
 
 (1) Zuständige Behörde im Sinne des § 6.32 Nr. 1 Buchstabe a der Anlage A zu dieser Verordnung ist das Bundesministerium für Verkehr und digitale Infrastruktur.
 
@@ -33,13 +27,11 @@ Auf Fahrzeugen mit einer Fahrtauglichkeitsbescheinigung nach den §§ 5 und 6 de
 
 (6) Liegen die Voraussetzungen des § 48 oder 49 des Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine Erlaubnis nach der Anlage A zu dieser Verordnung auch nachträglich befristen und mit Auflagen verbinden.
 
-
-## § 4 – Fahrzeuge des öffentlichen Dienstes
+# § 4 – Fahrzeuge des öffentlichen Dienstes
 
 Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von den Vorschriften der Anlage A zu dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
-
-## § 5 – Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
+# § 5 – Ordnungswidrigkeiten nach dem Binnenschiffahrtsaufgabengesetz
 
 (1) Ordnungswidrig im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -53,8 +45,7 @@ zuwiderhandelt.
 
 1. entgegen § 1.03 Nr. 1 Satz 1 oder Nr. 2 eine Anweisung des Schiffsführers nicht befolgt,
 
-1a.  
-entgegen § 1.09 Nr. 2 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
+1a. entgegen § 1.09 Nr. 2 Satz 1 nicht in der Lage ist, alle Weisungen oder Informationen zu geben oder zu empfangen,
 
 2. entgegen § 1.13 Nr. 1 Schiffahrtszeichen benutzt, beschädigt oder unbrauchbar macht,
 
@@ -74,8 +65,7 @@ entgegen § 1.09 Nr. 2 Satz 1 nicht in der Lage ist, alle Weisungen oder Informa
 
 10. ohne Genehmigung nach § 6.37 an Stellen taucht, an denen die Schiffahrt behindert werden könnte,
 
-10a.  
-entgegen § 8.02a Nr. 2 Satz 2 den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
+10a. entgegen § 8.02a Nr. 2 Satz 2 den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
 
 11. entgegen § 14.02 Nr. 2 Satz 1 eine Anweisung der Aufsicht nicht befolgt,
 
@@ -187,20 +177,15 @@ zuwiderhandelt,
 
 15. entgegen § 10.04 Nr. 1 einen talfahrenden Schleppverband nicht aufdreht,
 
-15a.  
-entgegen § 10.09 Nummer 9 Buchstabe a nicht sicherstellt, dass das Inland AIS Gerät ständig eingeschaltet ist,
+15a. entgegen § 10.09 Nummer 9 Buchstabe a nicht sicherstellt, dass das Inland AIS Gerät ständig eingeschaltet ist,
 
-15b.  
-entgegen § 10.09 Nummer 9 Buchstabe b erster Halbsatz nicht sicherstellt, dass das Inland AIS Gerät mit der maximalen Leistung sendet,
+15b. entgegen § 10.09 Nummer 9 Buchstabe b erster Halbsatz nicht sicherstellt, dass das Inland AIS Gerät mit der maximalen Leistung sendet,
 
-15c.  
-entgegen § 10.09 Nummer 9 Buchstabe c nicht sicherstellt, dass nur ein Inland AIS Gerät im Sendebetrieb ist,
+15c. entgegen § 10.09 Nummer 9 Buchstabe c nicht sicherstellt, dass nur ein Inland AIS Gerät im Sendebetrieb ist,
 
-15d.  
-entgegen § 10.09 Nummer 9 Buchstabe d nicht sicherstellt, dass die in das Inland AIS Gerät eingegebenen Daten den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen,
+15d. entgegen § 10.09 Nummer 9 Buchstabe d nicht sicherstellt, dass die in das Inland AIS Gerät eingegebenen Daten den tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen,
 
-15e.  
-entgegen § 10.09 Nummer 9 Buchstabe e nicht sicherstellt, dass in dem in § 10.09 Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, nicht oder nicht zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt wird oder,
+15e. entgegen § 10.09 Nummer 9 Buchstabe e nicht sicherstellt, dass in dem in § 10.09 Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, nicht oder nicht zusammen mit einer aktuellen elektronischen Binnenschifffahrtskarte genutzt wird oder,
 
 16. entgegen § 12.01 Nr. 1 Satz 1 ein Altwasser befährt.
 
@@ -270,11 +255,9 @@ zuwiderhandelt,
 
 16. entgegen § 6.21 Nr. 3 mit einem Fahrzeug mit Maschinenantrieb andere geschleppte, geschobene oder gekuppelt mitgeführte Fahrzeuge verläßt,
 
-16a.  
-entgegen § 8.02a Nr. 1 Satz 2 ein Fahrzeug führt, obwohl er eine Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
+16a. entgegen § 8.02a Nr. 1 Satz 2 ein Fahrzeug führt, obwohl er eine Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
 
-16b.  
-anordnet oder zuläßt, daß entgegen § 8.02a Nr. 2 Satz 2 jemand den Kurs oder die Geschwindigkeit des Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
+16b. anordnet oder zuläßt, daß entgegen § 8.02a Nr. 2 Satz 2 jemand den Kurs oder die Geschwindigkeit des Fahrzeugs bestimmt, obwohl er eine Blutalkoholkonzentration von 0,8 oder mehr Promille oder eine Alkoholmenge, die zu einer solchen Blutalkoholkonzentration führt, im Körper hat,
 
 17. entgegen § 8.15 Nr. 1 Satz 1 oder 3 das Bleib-weg-Signal nicht auslöst,
 
@@ -292,8 +275,7 @@ anordnet oder zuläßt, daß entgegen § 8.02a Nr. 2 Satz 2 jemand den Kurs oder
 
 24. entgegen § 10.07 außerhalb eines Schubverbandes einen Schubleichter oder ein anderes Fahrzeug ohne Ruderanlage fortbewegt,
 
-24a.  
-entgegen § 10.09 Nummer 4 die dort genannten Daten nicht, nicht vollständig oder nicht rechtzeitig übermittelt oder entgegen § 10.09 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht vollständig oder nicht rechtzeitig aktualisiert,
+24a. entgegen § 10.09 Nummer 4 die dort genannten Daten nicht, nicht vollständig oder nicht rechtzeitig übermittelt oder entgegen § 10.09 Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht vollständig oder nicht rechtzeitig aktualisiert,
 
 25. entgegen § 13.02 Satz 1 die dort genannten Fahrzeuge oder Schwimmkörper einsetzt,
 
@@ -363,8 +345,7 @@ b) entgegen § 10.06 Nr. 1 oder § 10.08 Satz 1 in einem Verband ein Fahrzeug mi
 
 15. entgegen § 13.02 Satz 1 den Einsatz eines der dort genannten Fahrzeuge, Schwimmkörper oder Gegenstände anordnet oder zuläßt.
 
-
-## § 6 – Ordnungswidrigkeiten nach dem Bundeswasserstraßengesetz
+# § 6 – Ordnungswidrigkeiten nach dem Bundeswasserstraßengesetz
 
 (1) Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des Bundeswasserstraßengesetzes handelt, wer als Schiffsführer vorsätzlich oder fahrlässig einer Vorschrift der Anlage A zu dieser Verordnung über
 
@@ -404,17 +385,14 @@ zuwiderhandelt.
 
 verstoßen wird.
 
-
-## § 7
-
-\-
-
-
-## § 8 – (weggefallen)
+# § 7
 
 \-
 
+# § 8 – (weggefallen)
 
-## § 9 – Inkrafttreten
+\-
+
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1993 in Kraft.

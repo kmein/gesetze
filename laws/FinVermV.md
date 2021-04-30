@@ -1,13 +1,9 @@
-# [FinVermV] Verordnung über die Finanzanlagenvermittlung  (Finanzanlagenvermittlungsverordnung - FinVermV)
-
-Ausfertigungsdatum: 02.05.2012
-
+% Verordnung über die Finanzanlagenvermittlung  (Finanzanlagenvermittlungsverordnung - FinVermV)
+% Ausfertigungsdatum: 02.05.2012
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Sachkundeprüfung
+# § 1 – Sachkundeprüfung
 
 (1) Gegenstand der Sachkundeprüfung nach § 34f Absatz 2 Nummer 4 auch in Verbindung mit § 34h Absatz 1 Satz 4 der Gewerbeordnung sind die erforderlichen Kenntnisse und Fähigkeiten auf folgenden Gebieten und deren praktische Anwendung:
 
@@ -33,8 +29,7 @@ c) Produktdarstellung und Information.
 
 (2) Die Einzelheiten der inhaltlichen Anforderungen an die Sachkundeprüfung bestimmen sich nach der Anlage 1.
 
-
-## § 2 – Zuständige Stelle und Prüfungsausschuss
+# § 2 – Zuständige Stelle und Prüfungsausschuss
 
 (1) Die Sachkundeprüfung kann bei jeder Industrie- und Handelskammer abgelegt werden, die diese anbietet.
 
@@ -42,8 +37,7 @@ c) Produktdarstellung und Information.
 
 (3) Mehrere Industrie- und Handelskammern können im Rahmen des § 10 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern Vereinbarungen zur gemeinsamen Durchführung der Sachkundeprüfung, insbesondere über einen gemeinsamen Prüfungsausschuss, schließen.
 
-
-## § 3 – Verfahren
+# § 3 – Verfahren
 
 (1) Die Sachkundeprüfung besteht aus einem schriftlichen und einem praktischen Teil. Die Teilnahme am praktischen Teil der Prüfung setzt das Bestehen des schriftlichen Teils voraus.
 
@@ -101,8 +95,7 @@ Diese Personen dürfen nicht in die laufende Prüfung eingreifen oder in die Ber
 
 (9) Die Einzelheiten des Prüfungsverfahrens regelt die Industrie- und Handelskammer nach Maßgabe des § 32 Absatz 1 Satz 2 der Gewerbeordnung durch Satzung.
 
-
-## § 4 – Gleichstellung anderer Berufsqualifikationen
+# § 4 – Gleichstellung anderer Berufsqualifikationen
 
 (1) Folgende Berufsqualifikationen und deren Vorläufer sind der Sachkundeprüfung gleichgestellt:
 
@@ -136,13 +129,11 @@ wenn zusätzlich eine mindestens einjährige Berufserfahrung im Bereich der Anla
 
 (2) Der erfolgreiche Abschluss eines mathematischen, wirtschaftswissenschaftlichen oder rechtswissenschaftlichen Studiums an einer Hochschule oder Akademie, die einen Abschluss verleiht, der einem Hochschulabschluss gleichgestellt ist, wird als Sachkundenachweis anerkannt, wenn in der Regel zusätzlich eine mindestens dreijährige Berufserfahrung im Bereich der Anlageberatung oder Anlagevermittlung nachgewiesen wird.
 
-
-## § 5 – Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
+# § 5 – Anerkennung von ausländischen Berufsbefähigungsnachweisen im Rahmen der Niederlassungsfreiheit
 
 Unterscheiden sich die nach § 13c der Gewerbeordnung vorgelegten Nachweise hinsichtlich der zugrunde liegenden Sachgebiete wesentlich von den Anforderungen der §§ 1 und 3 und gleichen die von der den Antrag stellenden Person im Rahmen ihrer Berufspraxis oder durch sonstige einschlägige nachgewiesene Qualifikationen erworbenen Kenntnisse, Fähigkeiten und Kompetenzen diesen wesentlichen Unterschied nicht aus, so ist die Erlaubnis zur Aufnahme der angestrebten Tätigkeit von der erfolgreichen Teilnahme an einer ergänzenden, diese Sachgebiete umfassenden Sachkundeprüfung (spezifische Sachkundeprüfung) abhängig.
 
-
-## § 6 – Angaben zur Speicherung im Vermittlerregister
+# § 6 – Angaben zur Speicherung im Vermittlerregister
 
 Im Register nach § 11a der Gewerbeordnung werden folgende Angaben zu den Eintragungspflichtigen gespeichert:
 
@@ -166,8 +157,7 @@ Im Register nach § 11a der Gewerbeordnung werden folgende Angaben zu den Eintra
 
 Ist der Eintragungspflichtige eine juristische Person, so werden auch der Name und der Vorname der natürlichen Personen gespeichert, die innerhalb des für die Geschäftsführung verantwortlichen Organs für die Vermittlertätigkeiten zuständig sind.
 
-
-## § 7 – Eintragung
+# § 7 – Eintragung
 
 (1) Der Eintragungspflichtige hat der zuständigen Erlaubnisbehörde unverzüglich nach Aufnahme seiner Tätigkeit die Angaben nach § 6 Satz 1 Nummer 1 bis 7 und Satz 2 mitzuteilen. Ebenso hat er Änderungen der Angaben nach § 6 unverzüglich mitzuteilen. Die zuständige Erlaubnisbehörde leitet die Angaben nach den Sätzen 1 und 2 unverzüglich an die Registerbehörde weiter.
 
@@ -177,13 +167,11 @@ Ist der Eintragungspflichtige eine juristische Person, so werden auch der Name u
 
 (4) Die Registerbehörde unterrichtet den Eintragungspflichtigen und die zuständige Erlaubnisbehörde unverzüglich über eine Datenlöschung nach § 11a Absatz 3a Satz 3 der Gewerbeordnung.
 
-
-## § 8 – Zugang
+# § 8 – Zugang
 
 Die Angaben nach § 6 Satz 1 Nummer 2 und 9 dürfen nicht automatisiert abgerufen werden. Die Registerbehörde darf zu diesen Angaben nur den in § 11a Absatz 7 der Gewerbeordnung genannten Behörden Auskunft geben.
 
-
-## § 9 – Umfang der Versicherung
+# § 9 – Umfang der Versicherung
 
 (1) Die Versicherung gemäß § 34f Absatz 2 Nummer 3, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung muss bei einem im Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen genommen werden.
 
@@ -197,8 +185,7 @@ Die Angaben nach § 6 Satz 1 Nummer 2 und 9 dürfen nicht automatisiert abgerufe
 
 (+++ Hinweis: Mindestversicherungssumme gem. § 9 Abs. 2 ab dem 15.1.2013 vgl. Bek. v. 12.12.2012 BAnz AT 02.01.2013 B2 (siehe: §9Abs2/MindVersHBek2013); ab dem 15.1.2018 vgl. Bek. v. 18.12.2017 BAnz AT 02.01.2018 B1 (siehe: §9Abs2/MindVersHBek2018) +++)
 
-
-## § 10 – Anzeigepflicht des Versicherungsunternehmens
+# § 10 – Anzeigepflicht des Versicherungsunternehmens
 
 (1) Die vom Versicherungsunternehmen nach § 113 Absatz 2 des Versicherungsvertragsgesetzes erteilte Versicherungsbestätigung darf zum Zeitpunkt der Antragstellung bei der für die Erlaubniserteilung zuständigen Behörde nicht älter als drei Monate sein.
 
@@ -214,13 +201,11 @@ Die zuständige Behörde hat dem Versicherungsunternehmen das Datum des Eingangs
 
 (3) Zuständige Stelle im Sinne des § 117 Absatz 2 des Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach § 34f Absatz 1 oder nach § 34h Absatz 1 der Gewerbeordnung zuständige Behörde.
 
-
-## § 11 – Allgemeine Verhaltenspflicht
+# § 11 – Allgemeine Verhaltenspflicht
 
 Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der erforderlichen Sachkenntnis, Sorgfalt und Gewissenhaftigkeit im bestmöglichen Interesse des Anlegers auszuüben.
 
-
-## § 11a – Vermeidung, Regelung und Offenlegung von Interessenkonflikten, Vergütung
+# § 11a – Vermeidung, Regelung und Offenlegung von Interessenkonflikten, Vergütung
 
 (1) Der Gewerbetreibende muss angemessene Maßnahmen treffen, um Interessenkonflikte zu erkennen und zu vermeiden, die zwischen ihm und den bei der Vermittlung und Beratung mitwirkenden Beschäftigten einerseits und den Anlegern andererseits sowie zwischen den Anlegern auftreten können. Sofern ein Interessenkonflikt nicht vermieden werden kann, hat der Gewerbetreibende diesen durch angemessene Maßnahmen so zu regeln, dass das Risiko der Beeinträchtigung von Anlegerinteressen vermieden wird.
 
@@ -228,8 +213,7 @@ Der Gewerbetreibende ist verpflichtet, seine Tätigkeit mit der erforderlichen S
 
 (3) Der Gewerbetreibende darf seine Beschäftigten nicht in einer Weise vergüten oder bewerten, die mit ihrer Pflicht, im bestmöglichen Interesse des Anlegers zu handeln, unvereinbar ist. Der Gewerbetreibende darf keine Vorkehrungen durch die Vergütung, Verkaufsziele oder in anderer Weise treffen, durch die Anreize für ihn selbst oder seine Beschäftigten geschaffen werden könnten, einem Anleger eine bestimmte Finanzanlage zu empfehlen, obwohl er eine andere, den Bedürfnissen des Anlegers besser entsprechende Finanzanlage anbieten kann. Hinsichtlich der Vergütung und Bewertung der Beschäftigten nach Satz 1 gilt Artikel 27 Absatz 1, 2, 3 Satz 2 und Absatz 4 der Delegierten Verordnung (EU) 2017/565 der Kommission vom 25. April 2016 zur Ergänzung der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. L 87 vom 31.3.2017, S. 1), die durch die Delegierte Verordnung (EU) 2017/2294 vom 28. August 2017 (ABl. L 329 vom 28.8.2017, S. 4) geändert worden ist, entsprechend.
 
-
-## § 12 – Statusbezogene Informationspflichten
+# § 12 – Statusbezogene Informationspflichten
 
 (1) Der Gewerbetreibende hat dem Anleger vor der ersten Anlageberatung oder -vermittlung folgende Angaben klar und verständlich in Textform mitzuteilen:
 
@@ -243,8 +227,7 @@ a) als Finanzanlagenvermittler mit einer Erlaubnis nach § 34f Absatz 1 Satz 1 N
 
 b) als Honorar-Finanzanlagenberater mit einer Erlaubnis nach § 34h Absatz 1 Satz 1 in Verbindung mit Satz 3 und § 34f Absatz 1 Satz 1 Nummer 1, 2 oder Nummer 3 der Gewerbeordnung,
 
-3a.  
-wie sich die Eintragung nach Nummer 3 überprüfen lässt,
+3a. wie sich die Eintragung nach Nummer 3 überprüfen lässt,
 
 4. die Emittenten und Anbieter, zu deren Finanzanlagen er Vermittlungs- oder Beratungsleistungen anbietet, sowie
 
@@ -256,8 +239,7 @@ wie sich die Eintragung nach Nummer 3 überprüfen lässt,
 
 (4) Sonstige Vorschriften über Informationspflichten des Gewerbetreibenden bleiben unberührt.
 
-
-## § 12a – Information des Anlegers über Vergütungen und Zuwendungen
+# § 12a – Information des Anlegers über Vergütungen und Zuwendungen
 
 Der Gewerbetreibende ist verpflichtet, den Anleger vor Beginn der Anlageberatung oder -vermittlung und vor Abschluss des Beratungsvertrages in Textform rechtzeitig und in verständlicher Form darüber zu informieren,
 
@@ -265,8 +247,7 @@ Der Gewerbetreibende ist verpflichtet, den Anleger vor Beginn der Anlageberatung
 
 2. ob im Zusammenhang mit der Anlageberatung oder -vermittlung Zuwendungen von Dritten angenommen oder behalten werden dürfen.
 
-
-## § 13 – Information des Anlegers über Risiken, Kosten und Nebenkosten
+# § 13 – Information des Anlegers über Risiken, Kosten und Nebenkosten
 
 (1) Der Gewerbetreibende ist verpflichtet, dem Anleger rechtzeitig vor Abschluss eines Geschäfts und in verständlicher Form angemessene Informationen über die Finanzanlagen und die damit verbundenen Risiken, die vorgeschlagenen Anlagestrategien und alle Kosten und Nebenkosten zur Verfügung zu stellen, die erforderlich sind, damit der Anleger nach vernünftigem Ermessen die Art und die Risiken der ihm angebotenen oder von ihm nachgefragten Finanzanlagen verstehen und auf dieser Grundlage seine Anlageentscheidung treffen kann.
 
@@ -308,8 +289,7 @@ c) Zahlungsmöglichkeiten des Anlegers einschließlich etwaiger Zahlungen durch 
 
 (7) Bei zertifizierten Altersvorsorge- und Basisrentenverträgen im Sinne des Altersvorsorgeverträge-Zertifizierungsgesetzes gilt die Informationspflicht nach den Absätzen 1 und 2 durch Bereitstellung des individuellen Produktinformationsblattes nach § 7 des Altersvorsorgeverträge-Zertifizierungsgesetzes als erfüllt. Dem Anleger sind auf Nachfrage die nach den Absätzen 1 und 2 erforderlichen Informationen über Kosten und Nebenkosten zur Verfügung zu stellen. Der Anleger ist bei Bereitstellung des individuellen Produktinformationsblattes nach § 7 des Altersvorsorgeverträge-Zertifizierungsgesetzes ausdrücklich auf dieses Recht hinzuweisen. Die Pflicht zur regelmäßigen Information nach Absatz 5 gilt durch die Bereitstellung der Informationen nach § 7a des Altersvorsorgeverträge-Zertifizierungsgesetzes als erfüllt. Dem Anleger sind auf Nachfrage die nach Absatz 5 erforderlichen Informationen über Kosten und Nebenkosten zur Verfügung zu stellen. Der Anleger ist bei Bereitstellung der jährlichen Informationen nach § 7a des Altersvorsorgeverträge-Zertifizierungsgesetzes ausdrücklich auf dieses Recht hinzuweisen.
 
-
-## § 14 – Redliche, eindeutige und nicht irreführende Informationen und Werbung
+# § 14 – Redliche, eindeutige und nicht irreführende Informationen und Werbung
 
 (1) Alle Informationen einschließlich Werbemitteilungen, die der Gewerbetreibende dem Anleger zugänglich macht, müssen redlich, eindeutig und nicht irreführend sein. Wichtige Aussagen oder Warnungen dürfen nicht verschleiert oder abgeschwächt dargestellt werden. Werbemitteilungen müssen eindeutig als solche erkennbar sein.
 
@@ -321,13 +301,11 @@ c) Zahlungsmöglichkeiten des Anlegers einschließlich etwaiger Zahlungen durch 
 
 (5) Hinsichtlich der Anforderungen an Werbemitteilungen und an faire, klare und nicht irreführende Informationen des Anlegers sind die Artikel 36 und 44 der Delegierten Verordnung (EU) 2017/565 der Kommission entsprechend anzuwenden.
 
-
-## § 15 – Bereitstellung des Informationsblatts
+# § 15 – Bereitstellung des Informationsblatts
 
 Im Fall einer Anlageberatung über Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes hat der Gewerbetreibende dem Anleger rechtzeitig vor dem Abschluss eines Geschäfts über jede Vermögensanlage, auf die sich eine Kaufempfehlung bezieht, das Vermögensanlagen-Informationsblatt, wenn ein solches nach § 13 des Vermögensanlagengesetzes zu erstellen ist, zur Verfügung zu stellen.
 
-
-## § 16 – Einholung von Informationen über den Anleger; Pflicht zur Empfehlung geeigneter Finanzanlagen
+# § 16 – Einholung von Informationen über den Anleger; Pflicht zur Empfehlung geeigneter Finanzanlagen
 
 (1) Der Gewerbetreibende hat im Rahmen der Anlageberatung vom Anleger alle Informationen
 
@@ -377,8 +355,7 @@ Satz 1 ist nicht anzuwenden, wenn der Gesamtbetrag der Vermögensanlagen desselb
 
 2. den Kunden darüber informiert, dass keine Angemessenheitsprüfung im Sinne des Absatzes 2 vorgenommen wird. Die Information kann in standardisierter Form erfolgen.
 
-
-## § 17 – Offenlegung von Zuwendungen durch Gewerbetreibende nach § 34f der Gewerbeordnung
+# § 17 – Offenlegung von Zuwendungen durch Gewerbetreibende nach § 34f der Gewerbeordnung
 
 (1) Der Gewerbetreibende nach § 34f der Gewerbeordnung darf im Zusammenhang mit der Vermittlung von und Beratung über Finanzanlagen nach § 34f Absatz 1 Satz 1 der Gewerbeordnung keine Zuwendungen von Dritten annehmen oder an Dritte gewähren, die nicht Kunden dieser Dienstleistung sind, es sei denn,
 
@@ -394,8 +371,7 @@ Die Zuwendung darf nicht die Verpflichtung des Gewerbetreibenden beeinträchtige
 
 (+++ § 17 Abs. 2: Zur Anwendung vgl. § 17a Abs. 3 +++)
 
-
-## § 17a – Offenlegung und Auskehr von Zuwendungen durch Gewerbetreibende nach § 34h der Gewerbeordnung
+# § 17a – Offenlegung und Auskehr von Zuwendungen durch Gewerbetreibende nach § 34h der Gewerbeordnung
 
 (1) Der Gewerbetreibende nach § 34h der Gewerbeordnung hat im Fall des § 34h Absatz 3 Satz 2 und 3 der Gewerbeordnung Existenz, Art und Umfang einer Zuwendung, die er im Zusammenhang mit der Beratung über Finanzanlagen von Dritten annimmt oder an Dritte gewährt, vor Abschluss des Geschäfts in umfassender, zutreffender und verständlicher Weise dem Anleger offenzulegen. Soweit sich der Umfang noch nicht bestimmen lässt, sind die Art und Weise seiner Berechnung offenzulegen. Im Rahmen der Offenlegung hat der Gewerbetreibende darauf hinzuweisen, dass Existenz, Art und Umfang einer Zuwendung keinen Aufschluss über die Eignung der Finanzanlage für den Anleger geben.
 
@@ -403,8 +379,7 @@ Die Zuwendung darf nicht die Verpflichtung des Gewerbetreibenden beeinträchtige
 
 (3) § 17 Absatz 2 ist entsprechend anzuwenden.
 
-
-## § 18 – Anfertigung einer Geeignetheitserklärung
+# § 18 – Anfertigung einer Geeignetheitserklärung
 
 (1) Der Gewerbetreibende muss dem Anleger, der Privatkunde im Sinne des § 67 Absatz 3 des Wertpapierhandelsgesetzes ist, auf einem dauerhaften Datenträger vor Vertragsschluss eine Erklärung über die Geeignetheit der im Rahmen der Anlageberatung gegebenen Empfehlung (Geeignetheitserklärung) zur Verfügung stellen. Die Geeignetheitserklärung muss die erbrachte Anlageberatung nennen und erläutern, wie sie auf die Präferenzen, Anlageziele und die sonstigen Merkmale des Anlegers abgestimmt wurde. Artikel 54 Absatz 12 der Delegierten Verordnung (EU) 2017/565 der Kommission ist entsprechend anzuwenden.
 
@@ -412,8 +387,7 @@ Die Zuwendung darf nicht die Verpflichtung des Gewerbetreibenden beeinträchtige
 
 (3) Sofern der Gewerbetreibende dem Anleger anbietet, dass er die Geeignetheit der empfohlenen Finanzanlagen regelmäßig beurteilt, ist er verpflichtet, dem Anleger regelmäßige Berichte über die Geeignetheit der Anlage zur Verfügung zu stellen, die insbesondere eine Erklärung darüber enthalten, wie die Anlage den Präferenzen, den Anlagezielen und den sonstigen Merkmalen des Anlegers entspricht.
 
-
-## § 18a – Aufzeichnung telefonischer Vermittlungs- und Beratungsgespräche und sonstiger elektronischer Kommunikation
+# § 18a – Aufzeichnung telefonischer Vermittlungs- und Beratungsgespräche und sonstiger elektronischer Kommunikation
 
 (1) Der Gewerbetreibende ist verpflichtet, zum Zwecke der Beweissicherung die Inhalte von Telefongesprächen und sonstiger elektronischer Kommunikation aufzuzeichnen, sobald sie sich auf die Vermittlung von oder die Beratung zu Finanzanlagen im Sinne des § 34f Absatz 1 Satz 1 der Gewerbeordnung beziehen. Die Aufzeichnung hat insbesondere diejenigen Teile der Telefongespräche und der sonstigen elektronischen Kommunikation zu umfassen, in welchen die angebotene Dienstleistung der Anlageberatung oder der Anlagevermittlung und die Risiken, die Ertragschancen oder die Ausgestaltung von bestimmten Finanzanlagen oder Gattungen von Finanzanlagen erörtert werden. Hierzu darf der Gewerbetreibende die personenbezogenen Daten verarbeiten, die der Anleger im Rahmen des Telefongesprächs oder sonstiger elektronischer Kommunikation mit Bezug auf die Dienstleistung der Anlageberatung oder Anlagevermittlung offenlegt, soweit sie im Zusammenhang mit der Dienstleistung der Anlageberatung oder der Anlagevermittlung stehen. Satz 1 gilt auch, wenn das Telefongespräch oder die sonstige elektronische Kommunikation nicht zum Abschluss eines Vertrages führt.
 
@@ -437,18 +411,15 @@ Die Zuwendung darf nicht die Verpflichtung des Gewerbetreibenden beeinträchtige
 
 (7) Hinsichtlich der Anforderungen an die Aufzeichnungspflicht ist Artikel 76 Absatz 1, 3 bis 11 der Delegierten Verordnung (EU) 2017/565 der Kommission entsprechend anzuwenden.
 
-
-## § 19 – Beschäftigte
+# § 19 – Beschäftigte
 
 Der Gewerbetreibende hat sicherzustellen, dass auch seine Beschäftigten die Pflichten nach den §§ 11 bis 18a erfüllen. Führt ein Beschäftigter des Gewerbetreibenden die Beratung durch, so hat der Beschäftigte die Geeignetheitserklärung nach § 18 Absatz 1 dem Anleger zur Verfügung zu stellen.
 
-
-## § 20 – Unzulässigkeit der Annahme von Geldern und Anteilen von Anlegern
+# § 20 – Unzulässigkeit der Annahme von Geldern und Anteilen von Anlegern
 
 Der Gewerbetreibende ist nicht befugt, sich im Zusammenhang mit der Finanzanlagenberatung oder -vermittlung nach § 34f Absatz 1 Satz 1 der Gewerbeordnung oder der Honorar-Finanzanlagenberatung nach § 34h Absatz 1 Satz 1 der Gewerbeordnung Eigentum oder Besitz an Geldern oder Anteilen von Anlegern zu verschaffen.
 
-
-## § 21 – Anzeigepflicht
+# § 21 – Anzeigepflicht
 
 Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34f Absatz 1 oder § 34h Absatz 1 der Gewerbeordnung zuständigen Behörde unverzüglich nach Satz 3 anzuzeigen, welche Personen jeweils mit der Leitung des Betriebs oder einer Zweigniederlassung beauftragt sind. Dies gilt bei juristischen Personen auch für die nach Gesetz, Satzung oder Gesellschaftsvertrag jeweils zur Vertretung berufenen Personen. In der Anzeige ist für jede Person Folgendes anzugeben:
 
@@ -460,8 +431,7 @@ Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34f Absatz 1 od
 
 4. die Anschrift.
 
-
-## § 22 – Aufzeichnungspflicht
+# § 22 – Aufzeichnungspflicht
 
 (1) Der Gewerbetreibende hat von der Annahme des Auftrags an nach Maßgabe der Absätze 2 und 3 Aufzeichnungen zu machen sowie Unterlagen und Belege übersichtlich zu sammeln. Die Aufzeichnungen sind unverzüglich und in deutscher Sprache vorzunehmen.
 
@@ -469,17 +439,13 @@ Der Gewerbetreibende hat der für die Erlaubniserteilung nach § 34f Absatz 1 od
 
 1. der Name und Vorname oder die Firma sowie die Anschrift des Anlegers,
 
-1a.  
-sofern der Gewerbetreibende regelmäßige Eignungsbeurteilungen vornimmt, die Vereinbarungen mit dem Anleger, die die Rechte und Pflichten der Vertragsparteien sowie die sonstigen Bedingungen festlegen, zu denen der Gewerbetreibende Anlagevermittlung oder Anlageberatung für den Anleger erbringt. Hinsichtlich der Anforderungen an die Aufzeichnungspflicht ist Artikel 58 der Delegierten Verordnung (EU) 2017/565 der Kommission entsprechend anzuwenden,
+1a. sofern der Gewerbetreibende regelmäßige Eignungsbeurteilungen vornimmt, die Vereinbarungen mit dem Anleger, die die Rechte und Pflichten der Vertragsparteien sowie die sonstigen Bedingungen festlegen, zu denen der Gewerbetreibende Anlagevermittlung oder Anlageberatung für den Anleger erbringt. Hinsichtlich der Anforderungen an die Aufzeichnungspflicht ist Artikel 58 der Delegierten Verordnung (EU) 2017/565 der Kommission entsprechend anzuwenden,
 
-1b.  
-der Nachweis, dass die in § 11a Absatz 1 genannten Maßnahmen zur Erkennung und Vermeidung von Interessenkonflikten getroffen wurden,
+1b. der Nachweis, dass die in § 11a Absatz 1 genannten Maßnahmen zur Erkennung und Vermeidung von Interessenkonflikten getroffen wurden,
 
-1c.  
-der Nachweis, dass die in § 11a Absatz 2 genannte Mitteilung über Interessenkonflikte rechtzeitig und vollständig erfolgt ist,
+1c. der Nachweis, dass die in § 11a Absatz 2 genannte Mitteilung über Interessenkonflikte rechtzeitig und vollständig erfolgt ist,
 
-1d.  
-der Nachweis, dass durch die Vergütung oder Bewertung keine Anreize im Sinne des § 11a Absatz 3 geschaffen wurden,
+1d. der Nachweis, dass durch die Vergütung oder Bewertung keine Anreize im Sinne des § 11a Absatz 3 geschaffen wurden,
 
 2. der Nachweis, dass die in den §§ 12 oder 12a und den §§ 13, 15 und 17 oder § 17a Satz 1 genannten Angaben rechtzeitig und vollständig mitgeteilt wurden,
 
@@ -487,8 +453,7 @@ der Nachweis, dass durch die Vergütung oder Bewertung keine Anreize im Sinne de
 
 4. der Nachweis, dass die in § 16 Absatz 2 Satz 1 genannten Informationen rechtzeitig und vollständig eingeholt und die in Satz 3 und 4 genannten Informationen rechtzeitig und vollständig mitgeteilt wurden,
 
-4a.  
-der Nachweis, dass die in § 16 Absatz 3a genannten Informationen rechtzeitig und vollständig eingeholt wurden,
+4a. der Nachweis, dass die in § 16 Absatz 3a genannten Informationen rechtzeitig und vollständig eingeholt wurden,
 
 5. der Nachweis über die Auskehr von Zuwendungen nach § 17a Absatz 2,
 
@@ -498,13 +463,11 @@ der Nachweis, dass die in § 16 Absatz 3a genannten Informationen rechtzeitig un
 
 (3) Sonstige Vorschriften über Aufzeichnungs- und Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
-
-## § 23 – Aufbewahrung
+# § 23 – Aufbewahrung
 
 Die Aufzeichnungen nach § 18a Absatz 1 Satz 1 und Absatz 4 sowie die in § 22 genannten Unterlagen sind zehn Jahre auf einem dauerhaften Datenträger vorzuhalten und so aufzubewahren, dass sie von den Geschäftsräumen aus jederzeit zugänglich sind. Die Aufbewahrungsfrist beginnt mit dem Ende des Kalenderjahres, in dem der letzte aufzeichnungspflichtige Vorgang für den jeweiligen Auftrag angefallen ist.
 
-
-## § 24 – Prüfungspflicht
+# § 24 – Prüfungspflicht
 
 (1) Der Gewerbetreibende hat
 
@@ -538,15 +501,13 @@ sowie Zusammenschlüsse dieser Personen.
 
 (5) Ungeeignet für eine Prüfung sind Personen, bei denen die Besorgnis der Befangenheit besteht.
 
-
-## § 25 – Rechte und Pflichten der an der Prüfung Beteiligten
+# § 25 – Rechte und Pflichten der an der Prüfung Beteiligten
 
 (1) Der Gewerbetreibende hat dem Prüfer jederzeit Einsicht in die Bücher, Aufzeichnungen und Unterlagen zu gestatten. Er hat ihm alle Aufklärungen und Nachweise auf Verlangen zu geben, die der Prüfer für eine sorgfältige Prüfung benötigt.
 
 (2) Der Prüfer ist zur gewissenhaften und unparteiischen Prüfung und zur Verschwiegenheit verpflichtet. Er darf nicht unbefugt Geschäfts- und Betriebsgeheimnisse verwerten, die er bei seiner Tätigkeit erfahren hat. Ein Prüfer, der vorsätzlich oder fahrlässig seine Pflichten verletzt, ist dem Gewerbetreibenden zum Ersatz des daraus entstehenden Schadens verpflichtet. Mehrere Personen haften als Gesamtschuldner.
 
-
-## § 26 – Ordnungswidrigkeiten
+# § 26 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
@@ -586,13 +547,11 @@ sowie Zusammenschlüsse dieser Personen.
 
 (2) Ordnungswidrig im Sinne des § 145 Absatz 2 Nummer 9 der Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig eine in Absatz 1 bezeichnete Handlung in Ausübung eines Reisegewerbes begeht.
 
-
-## Anlage 1 – (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
+# Anlage 1 – (zu § 1 Absatz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
 
 (Fundstelle: BGBl. I 2012, 1015 - 1017)
 
-
-## Anlage 2 – (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (offene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (geschlossene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
+# Anlage 2 – (zu § 3 Absatz 8)Bescheinigung über die erfolgreiche Ablegung der Sachkundeprüfung „Geprüfter Finanzanlagenfachmann/Geprüfte Finanzanlagenfachfrau IHK“ nach § 34f Absatz 2 Nummer 4, auch in Verbindung mit § 34h Absatz 1 Satz 4, der Gewerbeordnung in Verbindung mit § 34f Absatz 1 Satz 1 Nummer 1 der Gewerbeordnung (offene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 2 der Gewerbeordnung (geschlossene Investmentvermögen)/ § 34f Absatz 1 Satz 1 Nummer 3 der Gewerbeordnung (Vermögensanlagen im Sinne des § 1 Absatz 2 des Vermögensanlagengesetzes)
 
 (Fundstelle: BGBl. I 2012, 1018)
 

@@ -1,10 +1,7 @@
-# [VBVG] Gesetz über die Vergütung von Vormündern und Betreuern  (Vormünder- und Betreuervergütungsgesetz - VBVG)
-
-Ausfertigungsdatum: 21.04.2005
-
+% Gesetz über die Vergütung von Vormündern und Betreuern  (Vormünder- und Betreuervergütungsgesetz - VBVG)
+% Ausfertigungsdatum: 21.04.2005
  
-
-## § 1 – Feststellung der Berufsmäßigkeit und Vergütungsbewilligung
+# § 1 – Feststellung der Berufsmäßigkeit und Vergütungsbewilligung
 
 (1) Das Familiengericht hat die Feststellung der Berufsmäßigkeit gemäß § 1836 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuchs zu treffen, wenn dem Vormund in einem solchen Umfang Vormundschaften übertragen sind, dass er sie nur im Rahmen seiner Berufsausübung führen kann, oder wenn zu erwarten ist, dass dem Vormund in absehbarer Zeit Vormundschaften in diesem Umfang übertragen sein werden. Berufsmäßigkeit liegt im Regelfall vor, wenn
 
@@ -14,13 +11,11 @@ Ausfertigungsdatum: 21.04.2005
 
 (2) Trifft das Familiengericht die Feststellung nach Absatz 1 Satz 1, so hat es dem Vormund oder dem Gegenvormund eine Vergütung zu bewilligen. Ist der Mündel mittellos im Sinne des § 1836d des Bürgerlichen Gesetzbuchs, so kann der Vormund die nach Satz 1 zu bewilligende Vergütung aus der Staatskasse verlangen.
 
-
-## § 2 – Erlöschen der Ansprüche
+# § 2 – Erlöschen der Ansprüche
 
 Der Vergütungsanspruch erlischt, wenn er nicht binnen 15 Monaten nach seiner Entstehung beim Familiengericht geltend gemacht wird; die Geltendmachung des Anspruchs beim Familiengericht gilt dabei auch als Geltendmachung gegenüber dem Mündel. § 1835 Abs. 1a des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
-
-## § 3 – Stundensatz des Vormunds
+# § 3 – Stundensatz des Vormunds
 
 (1) Die dem Vormund nach § 1 Abs. 2 zu bewilligende Vergütung beträgt für jede Stunde der für die Führung der Vormundschaft aufgewandten und erforderlichen Zeit 23 Euro. Verfügt der Vormund über besondere Kenntnisse, die für die Führung der Vormundschaft nutzbar sind, so erhöht sich der Stundensatz
 
@@ -36,8 +31,7 @@ Eine auf die Vergütung anfallende Umsatzsteuer wird, soweit sie nicht nach § 1
 
 (4) Der Vormund kann Abschlagszahlungen verlangen.
 
-
-## § 4 – Vergütung des Betreuers
+# § 4 – Vergütung des Betreuers
 
 (1) Die dem Betreuer nach § 1 Absatz 2 zu bewilligende Vergütung bestimmt sich nach monatlichen Fallpauschalen, die in den Vergütungstabellen A bis C der Anlage festgelegt sind.
 
@@ -51,8 +45,7 @@ Eine auf die Vergütung anfallende Umsatzsteuer wird, soweit sie nicht nach § 1
 
 (4) § 3 Absatz 2 gilt entsprechend. § 1 Absatz 1 Satz 2 Nummer 2 findet keine Anwendung.
 
-
-## § 5 – Fallpauschalen
+# § 5 – Fallpauschalen
 
 (1) Die Höhe der Fallpauschalen nach § 4 Absatz 1 richtet sich nach
 
@@ -80,8 +73,7 @@ Ambulant betreute Wohnformen sind stationären Einrichtungen gleichgestellt, wen
 
 (5) Die Fallpauschalen gelten auch Ansprüche auf Ersatz anlässlich der Betreuung entstandener Aufwendungen ab. Die gesonderte Geltendmachung von Aufwendungen im Sinne des § 1835 Absatz 3 des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
-
-## § 5a – Gesonderte Pauschalen
+# § 5a – Gesonderte Pauschalen
 
 (1) Ist der Betreute nicht mittellos, wird der Betreuer mit einer zusätzlichen monatlichen Pauschale in Höhe von 30 Euro vergütet, wenn dieser die Verwaltung
 
@@ -99,13 +91,11 @@ zu besorgen hat. Die Pauschale kann geltend gemacht werden, wenn einer der Fäll
 
 (4) Die Pauschalen nach den Absätzen 1 bis 3 können nur gemeinsam mit einem Vergütungsantrag nach den §§ 4 und 5 geltend gemacht werden.
 
-
-## § 6 – Sonderfälle der Betreuung
+# § 6 – Sonderfälle der Betreuung
 
 In den Fällen des § 1899 Abs. 2 und 4 des Bürgerlichen Gesetzbuchs erhält der Betreuer eine Vergütung nach § 1 Abs. 2 in Verbindung mit § 3; für seine Aufwendungen kann er Vorschuss und Ersatz nach § 1835 des Bürgerlichen Gesetzbuchs mit Ausnahme der Aufwendungen im Sinne von § 1835 Abs. 2 des Bürgerlichen Gesetzbuchs beanspruchen. Ist im Fall des § 1899 Absatz 4 des Bürgerlichen Gesetzbuchs die Verhinderung tatsächlicher Art, sind die Vergütung und der Aufwendungsersatz nach § 4 in Verbindung mit § 5 sowie die Pauschale nach § 5a Absatz 1 zu bewilligen und im Fall des § 5 nach Tagen zu teilen; § 187 Absatz 1 und § 188 Absatz 1 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
-
-## § 7 – Vergütung und Aufwendungsersatz für Betreuungsvereine
+# § 7 – Vergütung und Aufwendungsersatz für Betreuungsvereine
 
 (1) Ist ein Vereinsbetreuer bestellt, so ist dem Verein eine Vergütung und Aufwendungsersatz nach § 1 Abs. 2 in Verbindung mit den §§ 4 bis 5a zu bewilligen. § 1 Abs. 1 sowie § 1835 Abs. 3 des Bürgerlichen Gesetzbuchs finden keine Anwendung.
 
@@ -113,8 +103,7 @@ In den Fällen des § 1899 Abs. 2 und 4 des Bürgerlichen Gesetzbuchs erhält de
 
 (3) Der Vereinsbetreuer selbst kann keine Vergütung und keinen Aufwendungsersatz nach diesem Gesetz oder nach den §§ 1835 bis 1836 des Bürgerlichen Gesetzbuchs geltend machen.
 
-
-## § 8 – Vergütung und Aufwendungsersatz für Behördenbetreuer
+# § 8 – Vergütung und Aufwendungsersatz für Behördenbetreuer
 
 (1) Ist ein Behördenbetreuer bestellt, so kann der zuständigen Behörde eine Vergütung nach § 1836 Abs. 2 des Bürgerlichen Gesetzbuchs bewilligt werden, soweit der Umfang oder die Schwierigkeit der Betreuungsgeschäfte dies rechtfertigen. Dies gilt nur, soweit eine Inanspruchnahme des Betreuten nach § 1836c des Bürgerlichen Gesetzbuchs zulässig ist.
 
@@ -124,13 +113,11 @@ In den Fällen des § 1899 Abs. 2 und 4 des Bürgerlichen Gesetzbuchs erhält de
 
 (4) § 2 ist nicht anwendbar.
 
-
-## § 9 – Abrechnungszeitraum für die Betreuungsvergütung
+# § 9 – Abrechnungszeitraum für die Betreuungsvergütung
 
 Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen Zeitraum geltend gemacht werden. Dies gilt nicht für die Geltendmachung von Vergütung und Aufwendungsersatz in den Fällen des § 6.
 
-
-## § 10 – Mitteilung an die Betreuungsbehörde
+# § 10 – Mitteilung an die Betreuungsbehörde
 
 (1) Wer Betreuungen entgeltlich führt, hat der Betreuungsbehörde, in deren Bezirk er seinen Sitz oder Wohnsitz hat, kalenderjährlich mitzuteilen
 
@@ -142,8 +129,7 @@ Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen Zeitraum ge
 
 (3) Die Betreuungsbehörde ist berechtigt und auf Verlangen des Betreuungsgerichts verpflichtet, dem Betreuungsgericht diese Mitteilung zu übermitteln.
 
-
-## § 11 – Umschulung und Fortbildung von Berufsvormündern
+# § 11 – Umschulung und Fortbildung von Berufsvormündern
 
 (1) Durch Landesrecht kann bestimmt werden, dass es einer abgeschlossenen Lehre im Sinne des § 3 Abs. 1 Satz 2 Nr. 1 und § 4 Absatz 3 Nummer 1 gleichsteht, wenn der Vormund oder Betreuer besondere Kenntnisse im Sinne dieser Vorschrift durch eine dem Abschluss einer Lehre vergleichbare Prüfung vor einer staatlichen oder staatlich anerkannten Stelle nachgewiesen hat. Zu einer solchen Prüfung darf nur zugelassen werden, wer
 
@@ -159,13 +145,11 @@ Die Vergütung kann nach Ablauf von jeweils drei Monaten für diesen Zeitraum ge
 
 (3) Das Landesrecht kann weitergehende Zulassungsvoraussetzungen aufstellen. Es regelt das Nähere über die an eine Umschulung oder Fortbildung im Sinne des Absatzes 1 Satz 2 Nr. 2, Absatzes 2 Satz 2 Nr. 2 zu stellenden Anforderungen, über Art und Umfang der zu erbringenden Prüfungsleistungen, über das Prüfungsverfahren und über die Zuständigkeiten. Das Landesrecht kann auch bestimmen, dass eine in einem anderen Land abgelegte Prüfung im Sinne dieser Vorschrift anerkannt wird.
 
-
-## § 12 – Übergangsregelungen
+# § 12 – Übergangsregelungen
 
 Auf Vergütungsansprüche von Betreuern, Vormündern, Pflegern und Verfahrenspflegern für Leistungen, die vor dem 27. Juli 2019 erbracht wurden, ist dieses Gesetz bis zum Ende des angefangenen Betreuungsmonats in seiner bis dahin geltenden Fassung anzuwenden.
 
-
-## Anlage – (zu § 4 Absatz 1)
+# Anlage – (zu § 4 Absatz 1)
 
 (Fundstelle: BGBl. I 2019, 869 - 870)
 

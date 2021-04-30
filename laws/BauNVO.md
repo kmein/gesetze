@@ -1,13 +1,9 @@
-# [BauNVO] Verordnung über die bauliche Nutzung der Grundstücke  (Baunutzungsverordnung - BauNVO)
-
-Ausfertigungsdatum: 26.06.1962
-
+% Verordnung über die bauliche Nutzung der Grundstücke  (Baunutzungsverordnung - BauNVO)
+% Ausfertigungsdatum: 26.06.1962
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Allgemeine Vorschriften für Bauflächen und Baugebiete
+# § 1 – Allgemeine Vorschriften für Bauflächen und Baugebiete
 
 (1) Im Flächennutzungsplan können die für die Bebauung vorgesehenen Flächen nach der allgemeinen Art ihrer baulichen Nutzung (Bauflächen) dargestellt werden als
 
@@ -66,8 +62,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 (10) Wären bei Festsetzung eines Baugebiets nach den §§ 2 bis 9 in überwiegend bebauten Gebieten bestimmte vorhandene bauliche und sonstige Anlagen unzulässig, kann im Bebauungsplan festgesetzt werden, dass Erweiterungen, Änderungen, Nutzungsänderungen und Erneuerungen dieser Anlagen allgemein zulässig sind oder ausnahmsweise zugelassen werden können. Im Bebauungsplan können nähere Bestimmungen über die Zulässigkeit getroffen werden. Die allgemeine Zweckbestimmung des Baugebiets muss in seinen übrigen Teilen gewahrt bleiben. Die Sätze 1 bis 3 gelten auch für die Änderung und Ergänzung von Bebauungsplänen.
 
-
-## § 2 – Kleinsiedlungsgebiete
+# § 2 – Kleinsiedlungsgebiete
 
 (1) Kleinsiedlungsgebiete dienen vorwiegend der Unterbringung von Kleinsiedlungen einschließlich Wohngebäuden mit entsprechenden Nutzgärten und landwirtschaftlichen Nebenerwerbsstellen.
 
@@ -87,8 +82,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 4. nicht störende Gewerbebetriebe.
 
-
-## § 3 – Reine Wohngebiete
+# § 3 – Reine Wohngebiete
 
 (1) Reine Wohngebiete dienen dem Wohnen.
 
@@ -106,8 +100,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 (4) Zu den nach Absatz 2 sowie den §§ 2, 4 bis 7 zulässigen Wohngebäuden gehören auch solche, die ganz oder teilweise der Betreuung und Pflege ihrer Bewohner dienen.
 
-
-## § 4 – Allgemeine Wohngebiete
+# § 4 – Allgemeine Wohngebiete
 
 (1) Allgemeine Wohngebiete dienen vorwiegend dem Wohnen.
 
@@ -131,8 +124,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 5. Tankstellen.
 
-
-## § 4a – Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)
+# § 4a – Gebiete zur Erhaltung und Entwicklung der Wohnnutzung (besondere Wohngebiete)
 
 (1) Besondere Wohngebiete sind überwiegend bebaute Gebiete, die aufgrund ausgeübter Wohnnutzung und vorhandener sonstiger in Absatz 2 genannter Anlagen eine besondere Eigenart aufweisen und in denen unter Berücksichtigung dieser Eigenart die Wohnnutzung erhalten und fortentwickelt werden soll. Besondere Wohngebiete dienen vorwiegend dem Wohnen; sie dienen auch der Unterbringung von Gewerbebetrieben und sonstigen Anlagen im Sinne der Absätze 2 und 3, soweit diese Betriebe und Anlagen nach der besonderen Eigenart des Gebiets mit der Wohnnutzung vereinbar sind.
 
@@ -162,8 +154,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 2. in Gebäuden ein im Bebauungsplan bestimmter Anteil der zulässigen Geschossfläche oder eine bestimmte Größe der Geschossfläche für Wohnungen zu verwenden ist.
 
-
-## § 5 – Dorfgebiete
+# § 5 – Dorfgebiete
 
 (1) Dorfgebiete dienen der Unterbringung der Wirtschaftsstellen land- und forstwirtschaftlicher Betriebe, dem Wohnen und der Unterbringung von nicht wesentlich störenden Gewerbebetrieben sowie der Versorgung der Bewohner des Gebiets dienenden Handwerksbetrieben. Auf die Belange der land- und forstwirtschaftlichen Betriebe einschließlich ihrer Entwicklungsmöglichkeiten ist vorrangig Rücksicht zu nehmen.
 
@@ -189,8 +180,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Absatz 3 Nummer 2 zugelassen werden.
 
-
-## § 6 – Mischgebiete
+# § 6 – Mischgebiete
 
 (1) Mischgebiete dienen dem Wohnen und der Unterbringung von Gewerbebetrieben, die das Wohnen nicht wesentlich stören.
 
@@ -214,8 +204,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 (3) Ausnahmsweise können Vergnügungsstätten im Sinne des § 4a Absatz 3 Nummer 2 außerhalb der in Absatz 2 Nummer 8 bezeichneten Teile des Gebiets zugelassen werden.
 
-
-## § 6a – Urbane Gebiete
+# § 6a – Urbane Gebiete
 
 (1) Urbane Gebiete dienen dem Wohnen sowie der Unterbringung von Gewerbebetrieben und sozialen, kulturellen und anderen Einrichtungen, die die Wohnnutzung nicht wesentlich stören. Die Nutzungsmischung muss nicht gleichgewichtig sein.
 
@@ -247,8 +236,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 4. ein im Bebauungsplan bestimmter Anteil der zulässigen Geschossfläche oder eine im Bebauungsplan bestimmte Größe der Geschossfläche für gewerbliche Nutzungen zu verwenden ist.
 
-
-## § 7 – Kerngebiete
+# § 7 – Kerngebiete
 
 (1) Kerngebiete dienen vorwiegend der Unterbringung von Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und der Kultur.
 
@@ -282,8 +270,7 @@ gliedern. Die Festsetzungen nach Satz 1 können auch für mehrere Gewerbegebiete
 
 Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nicht vorwiegend der Unterbringung von Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und der Kultur dient.
 
-
-## § 8 – Gewerbegebiete
+# § 8 – Gewerbegebiete
 
 (1) Gewerbegebiete dienen vorwiegend der Unterbringung von nicht erheblich belästigenden Gewerbebetrieben.
 
@@ -305,8 +292,7 @@ Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nich
 
 3. Vergnügungsstätten.
 
-
-## § 9 – Industriegebiete
+# § 9 – Industriegebiete
 
 (1) Industriegebiete dienen ausschließlich der Unterbringung von Gewerbebetrieben, und zwar vorwiegend solcher Betriebe, die in anderen Baugebieten unzulässig sind.
 
@@ -322,8 +308,7 @@ Dies gilt auch, wenn durch solche Festsetzungen dieser Teil des Kerngebiets nich
 
 2. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.
 
-
-## § 10 – Sondergebiete, die der Erholung dienen
+# § 10 – Sondergebiete, die der Erholung dienen
 
 (1) Als Sondergebiete, die der Erholung dienen, kommen insbesondere in Betracht  
 Wochenendhausgebiete,  
@@ -338,8 +323,7 @@ Campingplatzgebiete.
 
 (5) In Campingplatzgebieten sind Campingplätze und Zeltplätze zulässig.
 
-
-## § 11 – Sonstige Sondergebiete
+# § 11 – Sonstige Sondergebiete
 
 (1) Als sonstige Sondergebiete sind solche Gebiete darzustellen und festzusetzen, die sich von den Baugebieten nach den §§ 2 bis 10 wesentlich unterscheiden.
 
@@ -363,8 +347,7 @@ Gebiete für Anlagen, die der Erforschung, Entwicklung oder Nutzung erneuerbarer
 
 sind außer in Kerngebieten nur in für sie festgesetzten Sondergebieten zulässig. Auswirkungen im Sinne des Satzes 1 Nummer 2 und 3 sind insbesondere schädliche Umwelteinwirkungen im Sinne des § 3 des Bundes-Immissionsschutzgesetzes sowie Auswirkungen auf die infrastrukturelle Ausstattung, auf den Verkehr, auf die Versorgung der Bevölkerung im Einzugsbereich der in Satz 1 bezeichneten Betriebe, auf die Entwicklung zentraler Versorgungsbereiche in der Gemeinde oder in anderen Gemeinden, auf das Orts- und Landschaftsbild und auf den Naturhaushalt. Auswirkungen im Sinne des Satzes 2 sind bei Betrieben nach Satz 1 Nummer 2 und 3 in der Regel anzunehmen, wenn die Geschossfläche 1 200 m² überschreitet. Die Regel des Satzes 3 gilt nicht, wenn Anhaltspunkte dafür bestehen, dass Auswirkungen bereits bei weniger als 1 200 m² Geschossfläche vorliegen oder bei mehr als 1 200 m² Geschossfläche nicht vorliegen; dabei sind in Bezug auf die in Satz 2 bezeichneten Auswirkungen insbesondere die Gliederung und Größe der Gemeinde und ihrer Ortsteile, die Sicherung der verbrauchernahen Versorgung der Bevölkerung und das Warenangebot des Betriebs zu berücksichtigen.
 
-
-## § 12 – Stellplätze und Garagen
+# § 12 – Stellplätze und Garagen
 
 (1) Stellplätze und Garagen sind in allen Baugebieten zulässig, soweit sich aus den Absätzen 2 bis 6 nichts anderes ergibt.
 
@@ -384,18 +367,15 @@ sind außer in Kerngebieten nur in für sie festgesetzten Sondergebieten zuläss
 
 (7) Die landesrechtlichen Vorschriften über die Ablösung der Verpflichtung zur Herstellung von Stellplätzen und Garagen sowie die Verpflichtung zur Herstellung von Stellplätzen und Garagen außerhalb der im Bebauungsplan festgesetzten Bereiche bleiben bei Festsetzungen nach den Absätzen 4 bis 6 unberührt.
 
-
-## § 13 – Gebäude und Räume für freie Berufe
+# § 13 – Gebäude und Räume für freie Berufe
 
 Für die Berufsausübung freiberuflich Tätiger und solcher Gewerbetreibender, die ihren Beruf in ähnlicher Art ausüben, sind in den Baugebieten nach den §§ 2 bis 4 Räume, in den Baugebieten nach den §§ 4a bis 9 auch Gebäude zulässig.
 
-
-## § 13a – Ferienwohnungen
+# § 13a – Ferienwohnungen
 
 Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Entgelt vorübergehend zur Unterkunft zur Verfügung gestellt werden und die zur Begründung einer eigenen Häuslichkeit geeignet und bestimmt sind (Ferienwohnungen), gehören unbeschadet des § 10 in der Regel zu den nicht störenden Gewerbebetrieben nach § 2 Absatz 3 Nummer 4 und § 4 Absatz 3 Nummer 2 oder zu den Gewerbebetrieben nach § 4a Absatz 2 Nummer 3, § 5 Absatz 2 Nummer 6, § 6 Absatz 2 Nummer 4, § 6a Absatz 2 Nummer 4 und § 7 Absatz 2 Nummer 3. Abweichend von Satz 1 können Räume nach Satz 1 in den übrigen Fällen insbesondere bei einer baulich untergeordneten Bedeutung gegenüber der in dem Gebäude vorherrschenden Hauptnutzung zu den Betrieben des Beherbergungsgewerbes nach § 4 Absatz 3 Nummer 1, § 4a Absatz 2 Nummer 2, § 5 Absatz 2 Nummer 5, § 6 Absatz 2 Nummer 3, § 6a Absatz 2 Nummer 3 und § 7 Absatz 2 Nummer 2 oder zu den kleinen Betrieben des Beherbergungsgewerbes nach § 3 Absatz 3 Nummer 1 gehören.
 
-
-## § 14 – Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen
+# § 14 – Nebenanlagen; Anlagen zur Nutzung solarer Strahlungsenergie und Kraft-Wärme-Kopplungsanlagen
 
 (1) Außer den in den §§ 2 bis 13 genannten Anlagen sind auch untergeordnete Nebenanlagen und Einrichtungen zulässig, die dem Nutzungszweck der in dem Baugebiet gelegenen Grundstücke oder des Baugebiets selbst dienen und die seiner Eigenart nicht widersprechen. Soweit nicht bereits in den Baugebieten nach dieser Verordnung Einrichtungen und Anlagen für die Tierhaltung, einschließlich der Kleintiererhaltungszucht, zulässig sind, gehören zu den untergeordneten Nebenanlagen und Einrichtungen im Sinne des Satzes 1 auch solche für die Kleintierhaltung. Im Bebauungsplan kann die Zulässigkeit der Nebenanlagen und Einrichtungen eingeschränkt oder ausgeschlossen werden.
 
@@ -403,8 +383,7 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 (3) Soweit baulich untergeordnete Anlagen zur Nutzung solarer Strahlungsenergie in, an oder auf Dach- und Außenwandflächen oder Kraft-Wärme-Kopplungsanlagen innerhalb von Gebäuden nicht bereits nach den §§ 2 bis 13 zulässig sind, gelten sie auch dann als Anlagen im Sinne des Absatzes 1 Satz 1, wenn die erzeugte Energie vollständig oder überwiegend in das öffentliche Netz eingespeist wird.
 
-
-## § 15 – Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen
+# § 15 – Allgemeine Voraussetzungen für die Zulässigkeit baulicher und sonstiger Anlagen
 
 (1) Die in den §§ 2 bis 14 aufgeführten baulichen und sonstigen Anlagen sind im Einzelfall unzulässig, wenn sie nach Anzahl, Lage, Umfang oder Zweckbestimmung der Eigenart des Baugebiets widersprechen. Sie sind auch unzulässig, wenn von ihnen Belästigungen oder Störungen ausgehen können, die nach der Eigenart des Baugebiets im Baugebiet selbst oder in dessen Umgebung unzumutbar sind, oder wenn sie solchen Belästigungen oder Störungen ausgesetzt werden.
 
@@ -412,8 +391,7 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 (3) Die Zulässigkeit der Anlagen in den Baugebieten ist nicht allein nach den verfahrensrechtlichen Einordnungen des Bundes-Immissionsschutzgesetzes und der auf seiner Grundlage erlassenen Verordnungen zu beurteilen.
 
-
-## § 16 – Bestimmung des Maßes der baulichen Nutzung
+# § 16 – Bestimmung des Maßes der baulichen Nutzung
 
 (1) Wird im Flächennutzungsplan das allgemeine Maß der baulichen Nutzung dargestellt, genügt die Angabe der Geschossflächenzahl, der Baumassenzahl oder der Höhe baulicher Anlagen.
 
@@ -439,8 +417,7 @@ Räume oder Gebäude, die einem ständig wechselnden Kreis von Gästen gegen Ent
 
 (6) Im Bebauungsplan können nach Art und Umfang bestimmte Ausnahmen von dem festgesetzten Maß der baulichen Nutzung vorgesehen werden.
 
-
-## § 17 – Obergrenzen für die Bestimmung des Maßes der baulichen Nutzung
+# § 17 – Obergrenzen für die Bestimmung des Maßes der baulichen Nutzung
 
 (1) Bei der Bestimmung des Maßes der baulichen Nutzung nach § 16 dürfen, auch wenn eine Geschossflächenzahl oder eine Baumassenzahl nicht dargestellt oder festgesetzt wird, folgende Obergrenzen nicht überschritten werden:  
   
@@ -592,15 +569,13 @@ Wochenendhausgebieten
 
 (2) Die Obergrenzen des Absatzes 1 können aus städtebaulichen Gründen überschritten werden, wenn die Überschreitung durch Umstände ausgeglichen ist oder durch Maßnahmen ausgeglichen wird, durch die sichergestellt ist, dass die allgemeinen Anforderungen an gesunde Wohn- und Arbeitsverhältnisse nicht beeinträchtigt werden und nachteilige Auswirkungen auf die Umwelt vermieden werden. Dies gilt nicht für Wochenendhausgebiete und Ferienhausgebiete.
 
-
-## § 18 – Höhe baulicher Anlagen
+# § 18 – Höhe baulicher Anlagen
 
 (1) Bei Festsetzung der Höhe baulicher Anlagen sind die erforderlichen Bezugspunkte zu bestimmen.
 
 (2) Ist die Höhe baulicher Anlagen als zwingend festgesetzt (§ 16 Absatz 4 Satz 2), können geringfügige Abweichungen zugelassen werden.
 
-
-## § 19 – Grundflächenzahl, zulässige Grundfläche
+# § 19 – Grundflächenzahl, zulässige Grundfläche
 
 (1) Die Grundflächenzahl gibt an, wieviel Quadratmeter Grundfläche je Quadratmeter Grundstücksfläche im Sinne des Absatzes 3 zulässig sind.
 
@@ -622,8 +597,7 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 2. wenn die Einhaltung der Grenzen zu einer wesentlichen Erschwerung der zweckentsprechenden Grundstücksnutzung führen würde.
 
-
-## § 20 – Vollgeschosse, Geschossflächenzahl, Geschossfläche
+# § 20 – Vollgeschosse, Geschossflächenzahl, Geschossfläche
 
 (1) Als Vollgeschosse gelten Geschosse, die nach landesrechtlichen Vorschriften Vollgeschosse sind oder auf ihre Zahl angerechnet werden.
 
@@ -633,8 +607,7 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 (4) Bei der Ermittlung der Geschossfläche bleiben Nebenanlagen im Sinne des § 14, Balkone, Loggien, Terrassen sowie bauliche Anlagen, soweit sie nach Landesrecht in den Abstandsflächen (seitlicher Grenzabstand und sonstige Abstandsflächen) zulässig sind oder zugelassen werden können, unberücksichtigt.
 
-
-## § 21 – Baumassenzahl, Baumasse
+# § 21 – Baumassenzahl, Baumasse
 
 (1) Die Baumassenzahl gibt an, wieviel Kubikmeter Baumasse je Quadratmeter Grundstücksfläche im Sinne des § 19 Absatz 3 zulässig sind.
 
@@ -644,8 +617,7 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 (4) Ist im Bebauungsplan die Höhe baulicher Anlagen oder die Baumassenzahl nicht festgesetzt, darf bei Gebäuden, die Geschosse von mehr als 3,50 m Höhe haben, eine Baumassenzahl, die das Dreieinhalbfache der zulässigen Geschossflächenzahl beträgt, nicht überschritten werden.
 
-
-## § 21a – Stellplätze, Garagen und Gemeinschaftsanlagen
+# § 21a – Stellplätze, Garagen und Gemeinschaftsanlagen
 
 (1) Garagengeschosse oder ihre Baumasse sind in sonst anders genutzten Gebäuden auf die Zahl der zulässigen Vollgeschosse oder auf die zulässige Baumasse nicht anzurechnen, wenn der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.
 
@@ -667,8 +639,7 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 (5) Die zulässige Geschossfläche oder die zulässige Baumasse ist um die Flächen oder Baumassen notwendiger Garagen, die unter der Geländeoberfläche hergestellt werden, insoweit zu erhöhen, als der Bebauungsplan dies festsetzt oder als Ausnahme vorsieht.
 
-
-## § 22 – Bauweise
+# § 22 – Bauweise
 
 (1) Im Bebauungsplan kann die Bauweise als offene oder geschlossene Bauweise festgesetzt werden.
 
@@ -678,8 +649,7 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 (4) Im Bebauungsplan kann eine von Absatz 1 abweichende Bauweise festgesetzt werden. Dabei kann auch festgesetzt werden, inwieweit an die vorderen, rückwärtigen und seitlichen Grundstücksgrenzen herangebaut werden darf oder muss.
 
-
-## § 23 – Überbaubare Grundstücksfläche
+# § 23 – Überbaubare Grundstücksfläche
 
 (1) Die überbaubaren Grundstücksflächen können durch die Festsetzung von Baulinien, Baugrenzen oder Bebauungstiefen bestimmt werden. § 16 Absatz 5 ist entsprechend anzuwenden.
 
@@ -691,45 +661,36 @@ mitzurechnen. Die zulässige Grundfläche darf durch die Grundflächen der in Sa
 
 (5) Wenn im Bebauungsplan nichts anderes festgesetzt ist, können auf den nicht überbaubaren Grundstücksflächen Nebenanlagen im Sinne des § 14 zugelassen werden. Das Gleiche gilt für bauliche Anlagen, soweit sie nach Landesrecht in den Abstandsflächen zulässig sind oder zugelassen werden können.
 
+# § 24 – (weggefallen)
 
-## § 24 – (weggefallen)
-
-
-## § 25 – Fortführung eingeleiteter Verfahren
+# § 25 – Fortführung eingeleiteter Verfahren
 
 Für Bauleitpläne, deren Aufstellung oder Änderung bereits eingeleitet ist, sind die dieser Verordnung entsprechenden bisherigen Vorschriften weiterhin anzuwenden, wenn die Pläne bei dem Inkrafttreten dieser Verordnung bereits ausgelegt sind.
 
-
-## § 25a – Überleitungsvorschriften aus Anlaß der zweiten Änderungsverordnung
+# § 25a – Überleitungsvorschriften aus Anlaß der zweiten Änderungsverordnung
 
 (1) Für Bauleitpläne, deren Aufstellung oder Änderung bereits eingeleitet ist, gilt diese Verordnung in ihrer bis zum Inkrafttreten der Zweiten Verordnung zur Änderung dieser Verordnung vom 15. September 1977 (BGBl. I S. 1757) gültigen Fassung, wenn die Pläne bei Inkrafttreten der zweiten Änderungsverordnung nach § 2a Absatz 6 des Bundesbaugesetzes oder § 2 Absatz 6 des Bundesbaugesetzes in der bis zum 1. Januar 1977 geltenden Fassung ausgelegt sind.
 
 (2) Von der Geltung der Vorschriften der zweiten Änderungsverordnung über gesonderte Festsetzungen für übereinanderliegende Geschosse und Ebenen sowie sonstige Teile baulicher Anlagen sind solche Bebauungspläne ausgenommen, auf die § 9 Absatz 3 des Bundesbaugesetzes in der ab 1. Januar 1977 geltenden Fassung nach Maßgabe des Artikels 3 § 1 Absatz 3 des Gesetzes zur Änderung des Bundesbaugesetzes vom 18. August 1976 (BGBl. I S. 2221) keine Anwendung findet. Auf diese Bebauungspläne finden die Vorschriften dieser Verordnung über gesonderte Festsetzungen für übereinanderliegende Geschosse und Ebenen und sonstige Teile baulicher Anlagen in der bis zum Inkrafttreten der zweiten Änderungsverordnung gültigen Fassung weiterhin Anwendung.
 
-
-## § 25b – Überleitungsvorschrift aus Anlass der dritten Änderungsverordnung
+# § 25b – Überleitungsvorschrift aus Anlass der dritten Änderungsverordnung
 
 (1) Ist der Entwurf eines Bebauungsplans vor dem Inkrafttreten der dritten Änderungsverordnung nach § 2a Absatz 6 des Bundesbaugesetzes öffentlich ausgelegt worden, ist auf ihn § 11 Absatz 3 Satz 3 in der bis zum Inkrafttreten der dritten Änderungsverordnung geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bebauungsplans erneut einzuleiten, bleibt unberührt.
 
 (2) Auf Bebauungspläne, auf die § 11 Absatz 3 in der Fassung der Bekanntmachung vom 15. September 1977 Anwendung findet, ist § 11 Absatz 3 Satz 4 entsprechend anzuwenden.
 
-
-## § 25c – Überleitungsvorschrift aus Anlass der vierten Änderungsverordnung
+# § 25c – Überleitungsvorschrift aus Anlass der vierten Änderungsverordnung
 
 Ist der Entwurf eines Bauleitplans vor dem 27. Januar 1990 nach § 3 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 26. Januar 1990 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
-
-## § 25d – Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
+# § 25d – Überleitungsvorschrift aus Anlass des Gesetzes zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts
 
 Ist der Entwurf eines Bauleitplans vor dem 20. September 2013 nach § 3 Absatz 2 des Baugesetzbuchs öffentlich ausgelegt worden, ist auf ihn diese Verordnung in der bis zum 20. September 2013 geltenden Fassung anzuwenden. Das Recht der Gemeinde, das Verfahren zur Aufstellung des Bauleitplans erneut einzuleiten, bleibt unberührt.
 
+# § 26 – (Berlin-Klausel)
 
-## § 26 – (Berlin-Klausel)
-
-
-## § 26a – Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
+# § 26a – Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
 
 Soweit in dieser Verordnung auf Vorschriften verwiesen wird, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet keine Anwendung finden, sind die entsprechenden Vorschriften der Deutschen Demokratischen Republik anzuwenden. Bestehen solche Vorschriften nicht oder würde ihre Anwendung dem Sinn der Verweisung widersprechen, gelten die Vorschriften, auf die verwiesen wird, entsprechend.
 
-
-## § 27 – (Inkrafttreten)
+# § 27 – (Inkrafttreten)

@@ -1,10 +1,7 @@
-# [MORVorschrÄndG] Verordnung zur Änderung und Aufhebung marktordnungsrechtlicher Vorschriften
-
-Ausfertigungsdatum: 19.11.1997
-
+% Verordnung zur Änderung und Aufhebung marktordnungsrechtlicher Vorschriften
+% Ausfertigungsdatum: 19.11.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Forsten verordnet
 
@@ -14,8 +11,7 @@ auf Grund des § 31 Abs. 3 des Gesetzes zur Durchführung der Gemeinsamen Markto
 \-  
 auf Grund des § 6 Abs. 1 Nr. 2, 6, 7, des § 13 Abs. 1 Satz 1, der §§ 15 und 16, des § 17 Abs. 2 Satz 3, Abs. 3 und Abs. 4 Satz 3 und des § 31 Abs. 2 Satz 1 und 2, jeweils auch in Verbindung mit § 6 Abs. 4 Satz 1, des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen, jeweils auch in Verbindung mit Artikel 94 des Gesetzes vom 2. August 1994 (BGBl. I S. 2018), im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft:
 
-
-## § 1
+# § 1
 
 Es werden aufgehoben:
 
@@ -25,12 +21,10 @@ Es werden aufgehoben:
 
 3. die Ölsaatenstützungsverordnung vom 18. März 1992 (BGBl. I S. 532), geändert durch Verordnung vom 30. Juli 1992 (BGBl. I S. 1476).
 
-
-## § 2
+# § 2
 
 Auf Sachverhalte, die vor dem 28. November 1997 entstanden sind, sind die in § 1 genannten Verordnungen weiter anzuwenden.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

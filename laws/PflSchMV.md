@@ -1,10 +1,7 @@
-# [PflSchMV] Verordnung über Zulassungs- und Genehmigungsverfahren für Pflanzenschutzmittel   (Pflanzenschutzmittelverordnung - PflSchMV)
-
-Ausfertigungsdatum: 15.01.2013
-
+% Verordnung über Zulassungs- und Genehmigungsverfahren für Pflanzenschutzmittel   (Pflanzenschutzmittelverordnung - PflSchMV)
+% Ausfertigungsdatum: 15.01.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz verordnet auf Grund
 
@@ -17,8 +14,7 @@ des § 17 Absatz 5, des § 40 Absatz 1 Nummer 2 bis 4 und des § 42 Absatz 5 des
 –  
 des § 64 Absatz 2 des Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S. 148, 1281), im Einvernehmen mit den Bundesministerien für Wirtschaft und Technologie und Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1 – Antrag auf Zulassung eines Pflanzenschutzmittels
+# § 1 – Antrag auf Zulassung eines Pflanzenschutzmittels
 
 (1) Das Antragsformular für die Beantragung der
 
@@ -36,8 +32,7 @@ ist elektronisch über den vom Bundesamt für Verbraucherschutz und Lebensmittel
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit lässt auf Antrag die Übermittlung der dem Antragsformular nach Absatz 1 beizufügenden Unterlagen auch in schriftlicher Form zu, wenn der Antragsteller keine Möglichkeit hat, die Unterlagen in der vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit vorgegebenen elektronischen Form einzureichen.
 
-
-## § 2 – Untersuchungen
+# § 2 – Untersuchungen
 
 (1) Die Untersuchungen, die zur Prüfung der Wirksamkeit eines Pflanzenschutzmittels durchzuführen sind, müssen die Anforderungen der Verordnung (EU) Nr. 545/2011 der Kommission vom 10. Juni 2011 zur Durchführung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates hinsichtlich der Datenanforderungen für Pflanzenschutzmittel (ABl. L 155 vom 11.6.2011, S. 67) in der jeweils geltenden Fassung unter Einhaltung der Grundsätze der Guten Experimentellen Praxis erfüllen. Der Antragsteller hat die Einhaltung dieser Grundsätze dadurch sicherzustellen, dass die Versuche von einer amtlichen oder einer nach § 8 amtlich anerkannten Versuchseinrichtung erstellt werden. Die Versuchsanstellung und ihre Durchführung müssen dem Stand der wissenschaftlichen Erkenntnisse und der Technik entsprechen.
 
@@ -55,8 +50,7 @@ vorzulegen.
 
 (5) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übermittelt den zuständigen Behörden der Wasserwirtschaftsverwaltung, der Umweltverwaltung und der Gesundheitsverwaltung, des Verbraucherschutzes sowie den Betreibern öffentlicher Wasserversorgungsanlagen auf Anforderung die Angaben über Analysemethoden zur Bestimmung von Rückständen eines nach der Verordnung (EG) Nr. 1107/2009 zugelassenen Pflanzenschutzmittels.
 
-
-## § 3 – Antrag auf Ausweitung des Geltungsbereichs von Zulassungen auf geringfügige Verwendungen nach Artikel 51 der Verordnung (EG) Nr. 1107/2009
+# § 3 – Antrag auf Ausweitung des Geltungsbereichs von Zulassungen auf geringfügige Verwendungen nach Artikel 51 der Verordnung (EG) Nr. 1107/2009
 
 (1) Das Antragsformular für den Antrag auf Ausweitung der Zulassung auf geringfügige Verwendungen nach Artikel 51 Absatz 1 oder Absatz 7 der Verordnung (EG) Nr. 1107/2009 ist elektronisch über den vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit hierfür eröffneten Zugang nach einem von dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Bundesanzeiger bekannt gegebenen Muster einzureichen.
 
@@ -74,8 +68,7 @@ Soweit es für die Prüfung des Antrags erforderlich ist, kann das Bundesamt fü
 
 (5) Sofern der Antragsteller Unterlagen nach Absatz 4 nicht vorlegt, hat er schriftlich hinreichend zu begründen, weshalb die Unterlagen für die Prüfung der Zulassungsvoraussetzungen des Pflanzenschutzmittels nicht erforderlich sind.
 
-
-## § 4 – Antrag auf Genehmigung der Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind
+# § 4 – Antrag auf Genehmigung der Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind
 
 (1) Der Antrag nach § 17 Absatz 2 des Pflanzenschutzgesetzes ist bei dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit elektronisch oder schriftlich nach einem vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Bundesanzeiger bekannt gemachten Muster zu stellen.
 
@@ -83,8 +76,7 @@ Soweit es für die Prüfung des Antrags erforderlich ist, kann das Bundesamt fü
 
 (3) Soweit es für die Prüfung des Antrags erforderlich ist, kann das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit auf Angaben und Unterlagen zurückgreifen, die bei der Zulassung des Pflanzenschutzmittels verwendet worden sind.
 
-
-## § 5 – Antrag auf Genehmigung für den Parallelhandel nach Artikel 52 der Verordnung (EG) Nr. 1107/2009 und § 46 des Pflanzenschutzgesetzes
+# § 5 – Antrag auf Genehmigung für den Parallelhandel nach Artikel 52 der Verordnung (EG) Nr. 1107/2009 und § 46 des Pflanzenschutzgesetzes
 
 (1) Der Antrag auf Genehmigung für den Parallelhandel nach Artikel 52 der Verordnung (EG) Nr. 1107/2009 ist beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit elektronisch oder schriftlich mit den Angaben nach Artikel 52 Absatz 4 der Verordnung (EG) Nr. 1107/2009 zu stellen. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann für den Antrag ein Muster im Bundesanzeiger bekannt geben; soweit ein Muster bekannt gegeben ist, ist dieses zu verwenden.
 
@@ -108,22 +100,19 @@ Soweit es für die Prüfung des Antrags erforderlich ist, kann das Bundesamt fü
 
 8. Beistoffe fehlen, die zum Schutz Dritter Anwendung finden.
 
-
-## § 6 – Genehmigung für das innergemeinschaftliche Verbringen von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des Pflanzenschutzgesetzes
+# § 6 – Genehmigung für das innergemeinschaftliche Verbringen von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des Pflanzenschutzgesetzes
 
 (1) Der Antrag auf Genehmigung für das innergemeinschaftliche Verbringen von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des Pflanzenschutzgesetzes ist beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit elektronisch oder schriftlich zu stellen. Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit kann für den Antrag ein Muster im Bundesanzeiger bekannt geben; soweit ein Muster bekannt gegeben ist, ist dieses zu verwenden.
 
 (2) Für die Genehmigung des innergemeinschaftlichen Verbringens von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des Pflanzenschutzgesetzes gilt § 5 Absatz 3 entsprechend.
 
-
-## § 7 – Genehmigung von Zusatzstoffen und Mitteilung über das Inverkehrbringen von Pflanzenstärkungsmitteln
+# § 7 – Genehmigung von Zusatzstoffen und Mitteilung über das Inverkehrbringen von Pflanzenstärkungsmitteln
 
 (1) Der Antrag auf Genehmigung eines Zusatzstoffes nach § 42 des Pflanzenschutzgesetzes ist bei dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit in einfacher Ausfertigung nach einem von dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Bundesanzeiger bekannt gemachten Muster schriftlich oder elektronisch in dem vom Bundesamt vorgegebenen Format zu stellen.
 
 (2) Für die Mitteilung der Formulierung und beabsichtigten Kennzeichnung eines Pflanzenstärkungsmittels nach § 45 des Pflanzenschutzgesetzes gilt Absatz 1 entsprechend.
 
-
-## § 8 – Versuchseinrichtung; amtliche Anerkennung
+# § 8 – Versuchseinrichtung; amtliche Anerkennung
 
 (1) Versuchseinrichtung im Sinne dieser Verordnung ist eine amtliche oder amtlich anerkannte Einrichtung mit organisatorisch selbständiger, eigener sachlicher und personeller Ausstattung zum Zweck der Durchführung von Versuchen zur Ermittlung der Wirksamkeit von Pflanzenschutzmitteln.
 
@@ -167,32 +156,26 @@ Der Antragsteller hat das Vorliegen der Voraussetzungen nach Satz 2 durch geeign
 
 (8) Liegen die Voraussetzungen der Anerkennung ganz oder teilweise nicht mehr vor, so soll die Anerkennung widerrufen werden, wenn vom Inhaber der Anerkennung der Mangel nicht innerhalb einer von der zuständigen Behörde festgesetzten Frist behoben worden ist. Im Übrigen bleiben die Verwaltungsverfahrensgesetze der Länder unberührt.
 
-
-## § 9 – Meldung von Inlandsabsatz und Export
+# § 9 – Meldung von Inlandsabsatz und Export
 
 (1) Die Meldung nach § 64 Absatz 1 des Pflanzenschutzgesetzes muss außer den dort genannten Angaben den Namen und die Anschrift des Meldepflichtigen sowie die Zulassungsnummern oder im Falle eines parallelgehandelten Pflanzenschutzmittels die Parallelhandelsnummern der Pflanzenschutzmittel enthalten.
 
 (2) Die Meldung ist in einfacher Ausfertigung nach einem von dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Bundesanzeiger bekannt gegebenen Muster zu machen.
 
-
-## § 10 – Übergangsvorschrift
+# § 10 – Übergangsvorschrift
 
 Die Verpflichtung zur elektronischen Antragstellung nach § 1 Absatz 1 und § 3 Absatz 1 gilt für alle Anträge, die ab dem 31. Januar 2014 beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit eingehen.
 
+# § 11 – Änderung von Vorschriften
 
-## § 11 – Änderung von Vorschriften
-
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 8 Absatz 6)
+# Anlage – (zu § 8 Absatz 6)
 
 (Fundstelle: BGBl. I 2013, 78)

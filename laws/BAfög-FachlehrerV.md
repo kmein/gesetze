@@ -1,15 +1,11 @@
-# [BAfög-FachlehrerV] Verordnung über die Ausbildungsförderung für den Besuch von Instituten zur Ausbildung von Fachlehrern und Sportlehrern  (BAfög-FachlehrerV)
-
-Ausfertigungsdatum: 20.10.1983
-
+% Verordnung über die Ausbildungsförderung für den Besuch von Instituten zur Ausbildung von Fachlehrern und Sportlehrern  (BAfög-FachlehrerV)
+% Ausfertigungsdatum: 20.10.1983
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Ausbildungsstätten
+# § 1 – Ausbildungsstätten
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch
 
@@ -27,22 +23,18 @@ Auf Grund des § 2 Abs. 3 Nr. 1 des Bundesausbildungsförderungsgesetzes in der 
 
 (2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung in einer öffentlichen oder in einer durch die zuständige Landesbehörde staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird oder wenn die zuständige Landesbehörde anerkennt, daß der Besuch der Einrichtung dem Besuch der in Absatz 1 bezeichneten Einrichtungen gleichwertig ist.
 
-
-## § 2 – Förderungsrechtliche Stellung der Auszubildenden
+# § 2 – Förderungsrechtliche Stellung der Auszubildenden
 
 Die Auszubildenden der in § 1 Abs. 1 Nr. 2 genannten Ausbildungsstätten in den Fächern "Handarbeit" und "Hauswirtschaft" erhalten Ausbildungsförderung wie Auszubildende von Fachschulklassen, deren Besuch eine abgeschlossene Berufsausbildung voraussetzt (§ 13 Abs. 1 Nr. 1 BAföG). Im übrigen erhalten die nach dieser Verordnung zu fördernden Auszubildenden Ausbildungsförderung wie Schüler an Berufsfachschulen.
 
-
-## § 3 – Berlin-Klausel
+# § 3 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1983 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Bildung und Wissenschaft

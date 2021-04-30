@@ -1,33 +1,25 @@
-# [UStBMG] Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer Rechtsvorschriften an den EG-Binnenmarkt  (Umsatzsteuer-Binnenmarktgesetz)
-
-Ausfertigungsdatum: 25.08.1992
-
+% Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer Rechtsvorschriften an den EG-Binnenmarkt  (Umsatzsteuer-Binnenmarktgesetz)
+% Ausfertigungsdatum: 25.08.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
+# Art 1 bis 8 – ----
 
-## Art 1 bis 8 – ----
-
-
-## Art 9 – Übergangsregelung
+# Art 9 – Übergangsregelung
 
 Auf Ansprüche aus Steuerschuldverhältnissen, die nach den in den Artikeln 5 bis 8 bezeichneten Gesetzen und Verordnungen bis zum 31. Dezember 1992 entstanden sind, finden noch die Vorschriften dieser Gesetze und Verordnungen Anwendung.
 
-
-## Art 10
-
-\-
-
-
-## Art 11
+# Art 10
 
 \-
 
+# Art 11
 
-## Art 12 – Inkrafttreten
+\-
+
+# Art 12 – Inkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am 1. Januar 1993 in Kraft.
 

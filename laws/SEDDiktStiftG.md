@@ -1,15 +1,11 @@
-# [SEDDiktStiftG] Gesetz über die Errichtung einer Stiftung zur Aufarbeitung der SED-Diktatur
-
-Ausfertigungsdatum: 05.06.1998
-
+% Gesetz über die Errichtung einer Stiftung zur Aufarbeitung der SED-Diktatur
+% Ausfertigungsdatum: 05.06.1998
  
-
-## § 1 – Rechtsform der Stiftung
+# § 1 – Rechtsform der Stiftung
 
 Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird mit Sitz in Berlin eine rechtsfähige Stiftung des öffentlichen Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 (1) Zweck der Stiftung ist es, in Zusammenarbeit mit anderen Einrichtungen auf dem Gebiet der Aufarbeitung der SED-Diktatur, Beiträge zur umfassenden Aufarbeitung von Ursachen, Geschichte und Folgen der Diktatur in der sowjetischen Besatzungszone in Deutschland und in der DDR zu leisten und zu unterstützen, die Erinnerung an das geschehene Unrecht und die Opfer wachzuhalten sowie den antitotalitären Konsens in der Gesellschaft, die Demokratie und die innere Einheit Deutschlands zu fördern und zu festigen.
 
@@ -37,8 +33,7 @@ Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird mit Sitz in Be
 
 4. die Ausgestaltung von Gedenktagen, die an die deutsche Teilung, an Opposition und Widerstand und an die Opfer der Diktatur in der sowjetischen Besatzungszone und in der DDR erinnern.
 
-
-## § 3 – Stiftungsvermögen
+# § 3 – Stiftungsvermögen
 
 (1) Das Stiftungsvermögen bilden diejenigen unbeweglichen und beweglichen Vermögensgegenstände, die die Bundesrepublik Deutschland für Zwecke der Stiftung erwirbt.
 
@@ -48,13 +43,11 @@ Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird mit Sitz in Be
 
 (4) Erträge aus dem Stiftungsvermögen und sonstige Einnahmen sind nur im Sinne des Stiftungszweckes zu verwenden.
 
-
-## § 4 – Satzung
+# § 4 – Satzung
 
 Die Stiftung gibt sich im Benehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde eine Satzung, die vom Stiftungsrat mit einer Mehrheit von zwei Dritteln der Stimmen beschlossen wird. Das gleiche gilt für Änderungen der Satzung.
 
-
-## § 5 – Organe der Stiftung
+# § 5 – Organe der Stiftung
 
 Organe der Stiftung sind
 
@@ -64,8 +57,7 @@ Organe der Stiftung sind
 
 Zur Beratung bei der Erfüllung ihrer Aufgaben kann die Stiftung Fachbeiräte berufen.
 
-
-## § 6 – Stiftungsrat
+# § 6 – Stiftungsrat
 
 (1) Der Stiftungsrat setzt sich wie folgt zusammen: Der Deutsche Bundestag wählt nach der zum Zeitpunkt der Wahl bestehenden Zahl seiner Fraktionen Mitglieder in den Stiftungsrat, wobei jede Fraktion im Deutschen Bundestag ein Mitglied vorschlagen kann. Darüber hinaus kann jede zum Zeitpunkt der Wahl bestehende Fraktion aus dem Kreis der Personen, die in Fragen der Aufarbeitung der SED-Diktatur besonders engagiert und qualifiziert sind, eine Person vorschlagen, die vom Deutschen Bundestag gewählt wird. Die Bundesregierung entsendet so viele Mitglieder in den Stiftungsrat, wie zum Zeitpunkt der Wahl Fraktionen im Deutschen Bundestag bestehen. Ein weiteres Mitglied wird vom Land Berlin entsandt. Für jedes Mitglied ist ein persönlicher Stellvertreter nach dem für dieses Mitglied vorgesehenen Verfahren zu bestellen. Die Mitglieder werden für die Dauer von fünf Jahren bestellt. Wiederholte Bestellung ist zulässig.
 
@@ -79,8 +71,7 @@ Zur Beratung bei der Erfüllung ihrer Aufgaben kann die Stiftung Fachbeiräte be
 
 (6) Die Mitglieder des Vorstandes sind berechtigt, an den Sitzungen des Stiftungsrates mit beratender Stimme teilzunehmen.
 
-
-## § 7 – Vorstand
+# § 7 – Vorstand
 
 (1) Der Vorstand besteht aus mindestens drei, höchstens fünf Mitgliedern. Sie werden vom Stiftungsrat mit der Mehrheit seiner Stimmen für die Dauer von fünf Jahren bestellt.
 
@@ -88,13 +79,11 @@ Zur Beratung bei der Erfüllung ihrer Aufgaben kann die Stiftung Fachbeiräte be
 
 (3) Das Nähere regelt die Satzung.
 
-
-## § 8 – Neben- und ehrenamtliche Tätigkeit
+# § 8 – Neben- und ehrenamtliche Tätigkeit
 
 Die Mitglieder des Stiftungsrates, des Vorstandes und gegebenenfalls der Fachbeiräte sind, soweit sie nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
-
-## § 9 – Aufsicht, Haushalt, Rechnungsprüfung, Rechts- und Amtshilfe
+# § 9 – Aufsicht, Haushalt, Rechnungsprüfung, Rechts- und Amtshilfe
 
 (1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und Medien zuständigen obersten Bundesbehörde.
 
@@ -102,8 +91,7 @@ Die Mitglieder des Stiftungsrates, des Vorstandes und gegebenenfalls der Fachbei
 
 (3) Der Stiftung ist Rechts- und Amtshilfe zu leisten. Gebühren und Auslagen werden nicht erstattet.
 
-
-## § 10 – Beschäftigte
+# § 10 – Beschäftigte
 
 (1) Die Geschäfte der Stiftung werden in der Regel durch Arbeitnehmer wahrgenommen.
 
@@ -111,17 +99,14 @@ Die Mitglieder des Stiftungsrates, des Vorstandes und gegebenenfalls der Fachbei
 
 (3) Der Stiftung kann durch Satzungsregelung das Recht, Beamte zu beschäftigen, verliehen werden.
 
-
-## § 11 – Gebühren
+# § 11 – Gebühren
 
 Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer Bestimmung der Satzung Gebühren für die Benutzung von Stiftungseinrichtungen erheben.
 
-
-## § 12 – Dienstsiegel
+# § 12 – Dienstsiegel
 
 Die Stiftung führt ein Dienstsiegel.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

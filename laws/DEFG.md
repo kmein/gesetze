@@ -1,34 +1,27 @@
-# [DEFG] Gesetz über die Errichtung eines Fonds "Deutsche Einheit"
-
-Ausfertigungsdatum: 25.06.1990
-
+% Gesetz über die Errichtung eines Fonds "Deutsche Einheit"
+% Ausfertigungsdatum: 25.06.1990
  
-
-## § 1 – Errichtung des Fonds
+# § 1 – Errichtung des Fonds
 
 Es wird ein Fonds "Deutsche Einheit" als Sondervermögen des Bundes errichtet.
 
-
-## § 2 – Zweck des Fonds, Neuregelung der Bund-Länder-Finanzbeziehungen ab 1995
+# § 2 – Zweck des Fonds, Neuregelung der Bund-Länder-Finanzbeziehungen ab 1995
 
 (1) Der Fonds dient der Erfüllung der Verpflichtungen der Bundesrepublik Deutschland aus Artikel 28 des Staatsvertrags mit der Deutschen Demokratischen Republik vom 18. Mai 1990 und der Leistung weiterer Hilfen an die Deutsche Demokratische Republik. Der Fonds dient auch der Leistung von Hilfen an die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen. Die Hilfen werden in den Jahren 1990 bis 1994 gewährt und betragen insgesamt 160,705 Milliarden DM. Davon können im Jahre 1990 Leistungen in Höhe von 22 Milliarden DM, im Jahre 1991 in Höhe von 35 Milliarden DM, im Jahre 1992 in Höhe von 33,9 Milliarden DM, im Jahre 1993 in Höhe von 35,205 Milliarden DM und im Jahre 1994 in Höhe von 34,6 Milliarden DM erbracht werden. Die jährlichen Leistungen des Fonds werden ab 1. Januar 1991 als besondere Unterstützung den vorgenannten Ländern zur Deckung ihres allgemeinen Finanzbedarfs gewährt und auf diese Länder im Verhältnis ihrer Einwohnerzahl am 30. Juni des jeweils vorhergehenden Jahres ohne Berücksichtigung der Einwohnerzahl des Teils des Landes Berlin, in dem das Grundgesetz bereits vor dem 3. Oktober 1990 galt, verteilt. Die Länder leiten 40 vom Hundert der ihnen zufließenden Fondsleistungen nach näherer Maßgaben der Landesgesetzgebung an ihre Gemeinden (Gemeindeverbände) weiter.
 
 (2) Mit Wirkung ab 1. Januar 1995 sind die Finanzbeziehungen zwischen Bund und Ländern (insbesondere Länderfinanzausgleich und Bundesergänzungszuweisungen) neu zu regeln.
 
-
-## § 3 – Stellung im Rechtsverkehr, Verwaltung, Beirat
+# § 3 – Stellung im Rechtsverkehr, Verwaltung, Beirat
 
 Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Fonds ist der Sitz der Bundesregierung. Der Bundesminister der Finanzen verwaltet das Sondervermögen. Es wird ein aus vier Mitgliedern bestehender Beirat gebildet, in dem Bund und Länder gleichberechtigt vertreten sind.
 
-
-## § 4 – Vermögenstrennung, Bundeshaftung
+# § 4 – Vermögenstrennung, Bundeshaftung
 
 (1) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten getrennt zu halten.
 
 (2) Für die Verbindlichkeiten des Fonds haftet der Bund.
 
-
-## § 5 – Finanzierung, Kreditermächtigungen, Verwaltung der Kredite des Fonds
+# § 5 – Finanzierung, Kreditermächtigungen, Verwaltung der Kredite des Fonds
 
 (1) Der Gesamtbetrag der Kreditermächtigungen für den Fonds im Zeitraum 1990 bis 1994 darf 95 Milliarden DM nicht überschreiten. Der Unterschiedsbetrag zu dem Gesamtleistungsrahmen nach § 2 Abs. 1 wird durch Zuweisungen aus dem Bundeshaushalt gedeckt. Von diesen Zuweisungen werden in 1993 10,5 Milliarden DM und in 1994 12,9 Milliarden DM aus dem Aufkommen der von Bundesfinanzbehörden verwalteten Umsatzsteuer (Einfuhrumsatzsteuer) vor dessen weiterer Verteilung gemeinsam von Bund und Ländern im Verhältnis ihrer für diese Jahre festgelegten Anteile an der Umsatzsteuer nach § 1 Abs. 1 des Finanzausgleichsgesetzes finanziert. Von den Zuweisungen nach Satz 2 werden außerdem im Jahr 1993 2,075 Milliarden DM und im Jahr 1994 5,35 Milliarden DM von den Ländern Baden-Württemberg, Bayern, Berlin, Bremen, Hamburg, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und Schleswig-Holstein im Verhältnis ihrer Beiträge nach § 1 Abs. 2 Satz 2 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern finanziert und in Monatsbeträgen mit den Einfuhrumsatzsteuerzahlungen des Bundes nach § 14 Abs. 2 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern vorläufig verrechnet. Zur Erbringung einer Finanzierungsbeteiligung der Gemeinden an den nach Satz 4 zusätzlich von den Ländern aufzubringenden Leistungen für die Jahre 1993 und 1994 gilt § 6 Abs. 2a des Gemeindefinanzreformgesetzes entsprechend.
 
@@ -46,8 +39,7 @@ Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftl
 
 (7) Die Schulden des Fonds werden nach den für die Verwaltung der allgemeinen Bundesschuld jeweils geltenden Grundsätzen verwaltet.
 
-
-## § 6 – Bundeszuschüsse
+# § 6 – Bundeszuschüsse
 
 (1) Der Fonds erhält bis zum 31. Dezember 2004 Zuschüsse aus dem Bundeshaushalt zur Abdeckung seiner Schuldendienstverpflichtungen.
 
@@ -63,13 +55,11 @@ Der Fonds ist nicht rechtsfähig. Er kann unter seinem Namen im rechtsgeschäftl
 
 (6) Die Erstattungen der Länder nach Absatz 5 vermindern sich in den Jahren 1998 um 932.596.391,30 Euro, 1999 um 854.880.025,36 Euro, 2000 um 777.163.659,42 Euro, 2001 um 932.596.391,30 Euro, 2002 um 1.317.190.144,34 Euro, 2003 um 1.294.591.043,19 Euro und 2004 um 1.431.361.621,41 Euro.
 
-
-## § 6a – Eingliederung der Verbindlichkeiten des Fonds in Bundesschuld
+# § 6a – Eingliederung der Verbindlichkeiten des Fonds in Bundesschuld
 
 Der Bund übernimmt ab 1. Januar 2005 als Mitschuldner die Verbindlichkeiten des Fonds; im Innenverhältnis zu dem Fonds ist der Bund alleiniger Schuldner.
 
-
-## § 6b – Abrechnung nach Ablauf des Jahres 2019
+# § 6b – Abrechnung nach Ablauf des Jahres 2019
 
 (1) Die Länder leisten einen Ausgleich an den Bund, wenn der nach Maßgabe des Absatzes 3 ermittelte Betrag für die Schulden des Fonds am 31. Dezember 2019 den Referenzbetrag von 6.544.536.079,31 Euro überschreitet. Der Ausgleich der Länder wird auf 53,3 vom Hundert des den Referenzbetrag übersteigenden Betrags festgelegt. Satz 1 gilt nicht für das in Artikel 3 des Einigungsvertrages genannte Gebiet.
 
@@ -91,29 +81,24 @@ Der Bund übernimmt ab 1. Januar 2005 als Mitschuldner die Verbindlichkeiten des
 
 Die Ermittlung des Betrages wird den Ländern jährlich vom Bundesministerium der Finanzen mitgeteilt.
 
-
-## § 7 – Wirtschaftsplan
+# § 7 – Wirtschaftsplan
 
 Alle Einnahmen und Ausgaben des Fonds werden ab 1. Januar 1991 für jedes Rechnungsjahr in einem Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Bei der Aufstellung der Wirtschaftspläne wirkt der Beirat mit.
 
-
-## § 8 – Jahresrechnung
+# § 8 – Jahresrechnung
 
 (1) Der Bundesminister der Finanzen stellt am Schluß eines jeden Rechnungsjahres die Jahresrechnung für den Fonds auf und fügt sie als Anhang der Haushaltsrechnung des Bundes bei.
 
 (2) Die Jahresrechnung muß in übersichtlicher Weise den Bestand des Sondervermögens einschließlich der Forderungen und Verbindlichkeiten erkennen lassen sowie die Einnahmen und Ausgaben nachweisen.
 
-
-## § 9 – Verwaltungskosten
+# § 9 – Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
-
-## § 10 – Gleichstellung mit Bundesbehörden
+# § 10 – Gleichstellung mit Bundesbehörden
 
 Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund, die Länder, die Gemeinden (Gemeindeverbände) und Körperschaften des öffentlichen Rechts zu entrichten, finden die allgemein für Bundesbehörden geltenden Vorschriften Anwendung.
 
-
-## § 11 – Auflösung des Fonds
+# § 11 – Auflösung des Fonds
 
 Mit Ablauf des Jahres 2019 wird der Fonds aufgelöst. Die Verbindlichkeiten und das Vermögen des Fonds gehen auf den Bund über.

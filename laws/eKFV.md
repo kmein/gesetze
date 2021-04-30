@@ -1,10 +1,7 @@
-# [eKFV] Verordnung über die Teilnahme von Elektrokleinstfahrzeugen am Straßenverkehr   (Elektrokleinstfahrzeuge-Verordnung - eKFV)
-
-Ausfertigungsdatum: 06.06.2019
-
+% Verordnung über die Teilnahme von Elektrokleinstfahrzeugen am Straßenverkehr   (Elektrokleinstfahrzeuge-Verordnung - eKFV)
+% Ausfertigungsdatum: 06.06.2019
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Elektrokleinstfahrzeuge im Sinne dieser Verordnung sind Kraftfahrzeuge mit elektrischem Antrieb und einer bauartbedingten Höchstgeschwindigkeit von nicht weniger als 6 km/h und nicht mehr als 20 km/h, die folgende Merkmale aufweisen:
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 06.06.2019
 
 (3) Elektrokleinstfahrzeuge im Sinne der Absätze 1 und 2 dürfen nur nach Maßgabe der folgenden Vorschriften auf öffentlichen Straßen verwendet werden.
 
-
-## § 2 – Anforderungen an das Inbetriebsetzen
+# § 2 – Anforderungen an das Inbetriebsetzen
 
 (1) Ein Elektrokleinstfahrzeug darf auf öffentlichen Straßen nur in Betrieb gesetzt werden, wenn
 
@@ -63,13 +59,11 @@ Die in Satz 1 bezeichneten Erlaubnisse werden erteilt, wenn das Fahrzeug die Anf
 
 (4) Der Halter darf die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen Straßen nicht anordnen oder zulassen, wenn das Elektrokleinstfahrzeug die Voraussetzungen nach Absatz 1 nicht erfüllt oder die Betriebserlaubnis nach Absatz 3 Satz 2 in Verbindung mit § 19 Absatz 2 Satz 2 der Straßenverkehrs-Zulassungs-Ordnung erloschen ist.
 
-
-## § 3 – Berechtigung zum Führen
+# § 3 – Berechtigung zum Führen
 
 Zum Führen eines Elektrokleinstfahrzeugs sind Personen berechtigt, die das 14. Lebensjahr vollendet haben.
 
-
-## § 4 – Anforderungen an die Verzögerungseinrichtung
+# § 4 – Anforderungen an die Verzögerungseinrichtung
 
 (1) Ein Elektrokleinstfahrzeug muss mit zwei voneinander unabhängigen Bremsen im Sinne des § 65 Absatz 1 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet sein, die
 
@@ -83,8 +77,7 @@ Zum Führen eines Elektrokleinstfahrzeugs sind Personen berechtigt, die das 14. 
 
 (2) Ein drei- oder vierrädriges Elektrokleinstfahrzeug muss mit einer fest angebrachten Einrichtung ausgerüstet sein, die das Elektrokleinstfahrzeug festzustellen vermag.
 
-
-## § 5 – Anforderungen an die lichttechnischen Einrichtungen
+# § 5 – Anforderungen an die lichttechnischen Einrichtungen
 
 (1) Ein Elektrokleinstfahrzeug muss mit lichttechnischen Einrichtungen ausgerüstet sein, die den Anforderungen des § 67 Absatz 1 Satz 3 und 5, Absatz 2 Satz 2 bis 7, Absatz 3, Absatz 4 Satz 1 und 4, Absatz 6 Satz 3 der Straßenverkehrs-Zulassungs-Ordnung entsprechen und in einer amtlich genehmigten Bauart gemäß § 22a Absatz 1 Nummer 22 der Straßenverkehrs-Zulassungs-Ordnung ausgeführt sind, soweit in den nachfolgenden Bestimmungen nichts Abweichendes geregelt ist. Die lichttechnischen Einrichtungen dürfen abnehmbar sein. Als lichttechnische Einrichtungen gelten auch Leuchtstoffe und rückstrahlende Mittel. Schlussleuchte und Rückstrahler dürfen in einem Gerät verbaut sein. Schlussleuchten dürfen zusätzlich mit einer Bremslichtfunktion für rotes Licht mit einer Lichtstärke und Lichtverteilung der Bremslichtfunktion entsprechend der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) ausgerüstet sein.
 
@@ -102,13 +95,11 @@ Zum Führen eines Elektrokleinstfahrzeugs sind Personen berechtigt, die das 14. 
 
 4. darf bei den hinteren Fahrtrichtungsanzeigern die minimale Anbauhöhe 150 mm betragen, wenn der Vertikalwinkel der geometrischen Sichtbarkeit mindestens 25 Grad über der Horizontalen beträgt.
 
-
-## § 6 – Anforderungen an die Einrichtung für Schallzeichen
+# § 6 – Anforderungen an die Einrichtung für Schallzeichen
 
 Elektrokleinstfahrzeuge müssen mit mindestens einer helltönenden Glocke, die den Anforderungen des § 64a der Straßenverkehrs-Zulassungs-Ordnung entspricht, ausgerüstet sein. Es dürfen auch andere Einrichtungen für Schallzeichen angebracht sein, die der Regelung Nr. 28 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Vorschriften für die Genehmigung der Vorrichtungen für Schallzeichen und der Kraftfahrzeuge hinsichtlich ihrer Schallzeichen (ABl. L 323 vom 6.12.2011, S. 33) – Teil II, für Fahrzeugklasse L3 mit einer Leistung von nicht mehr als 7 kW, sowie dem Anhang II der delegierten Verordnung (EU) Nr. 3/2014 der Kommission vom 24. Oktober 2013 zur Ergänzung der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an die funktionale Sicherheit von Fahrzeugen für die Genehmigung von zwei-oder dreirädrigen und vierrädrigen Fahrzeugen entsprechen.
 
-
-## § 7 – Sonstige Sicherheitsanforderungen
+# § 7 – Sonstige Sicherheitsanforderungen
 
 Elektrokleinstfahrzeuge müssen
 
@@ -130,18 +121,15 @@ Elektrokleinstfahrzeuge müssen
 
 9. so beschaffen sein, dass vorhandene Standflächen aufgrund ihrer rutschhemmenden Oberfläche ausreichend Halt bieten.
 
-
-## § 8 – Personenbeförderung und Anhängerbetrieb
+# § 8 – Personenbeförderung und Anhängerbetrieb
 
 Die Personenbeförderung sowie der Anhängerbetrieb sind für Elektrokleinstfahrzeuge nicht gestattet.
 
-
-## § 9 – Anwendung der Straßenverkehrs-Ordnung
+# § 9 – Anwendung der Straßenverkehrs-Ordnung
 
 Wer ein Elektrokleinstfahrzeug im Straßenverkehr führt, unterliegt den Vorschriften der Straßenverkehrs-Ordnung nach Maßgabe der nachfolgenden §§ 10 bis 13.
 
-
-## § 10 – Zulässige Verkehrsflächen
+# § 10 – Zulässige Verkehrsflächen
 
 (1) Innerhalb geschlossener Ortschaften dürfen Elektrokleinstfahrzeuge nur baulich angelegte Radwege, darunter auch gemeinsame Geh- und Radwege (Zeichen 240 der Anlage 2 zur Straßenverkehrs-Ordnung) und die dem Radverkehr zugeteilte Verkehrsfläche getrennter Rad- und Gehwege (Zeichen 241 der Anlage 2 zur Straßenverkehrs-Ordnung), sowie Radfahrstreifen (Zeichen 237 in Verbindung mit Zeichen 295 der Anlage 2 zur Straßenverkehrs-Ordnung) und Fahrradstraßen (Zeichen 244.1 der Anlage 2 zur Straßenverkehrs-Ordnung) befahren. Wenn solche nicht vorhanden sind, darf auf Fahrbahnen oder in verkehrsberuhigten Bereichen (Zeichen 325.1 der Anlage 3 zur Straßenverkehrs-Ordnung) gefahren werden. Anlage 3 laufende Nummer 22 Nummer 2 der Straßenverkehrs-Ordnung findet keine Anwendung.
 
@@ -152,15 +140,14 @@ Wer ein Elektrokleinstfahrzeug im Straßenverkehr führt, unterliegt den Vorschr
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j0756-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0756-1_0010.jpg) |
 |           „Elektrokleinstfahrzeuge frei“           |
 
   
   
 bekannt gegeben werden.
 
-
-## § 11 – Allgemeine Verhaltensregeln
+# § 11 – Allgemeine Verhaltensregeln
 
 (1) Wer ein Elektrokleinstfahrzeug führt, muss einzeln hintereinander fahren, darf sich nicht an fahrende Fahrzeuge anhängen und nicht freihändig fahren.
 
@@ -172,8 +159,7 @@ bekannt gegeben werden.
 
 (5) Für das Abstellen von Elektrokleinstfahrzeugen gelten die für Fahrräder geltenden Parkvorschriften entsprechend.
 
-
-## § 12 – Besonderheiten bei angeordneten Verkehrsverboten nach der Straßenverkehrs-Ordnung
+# § 12 – Besonderheiten bei angeordneten Verkehrsverboten nach der Straßenverkehrs-Ordnung
 
 (1) Ist ein Verbot für Fahrzeuge aller Art (Zeichen 250 der Anlage 2 zur Straßenverkehrs-Ordnung) angeordnet, so dürfen Elektrokleinstfahrzeuge dort geschoben werden.
 
@@ -181,13 +167,11 @@ bekannt gegeben werden.
 
 (3) Ist ein Verbot für den Radverkehr (Zeichen 254 der Anlage 2 zur Straßenverkehrs-Ordnung) angeordnet, so gilt dies auch für Elektrokleinstfahrzeuge.
 
-
-## § 13 – Lichtzeichen
+# § 13 – Lichtzeichen
 
 Elektrokleinstfahrzeuge unterfallen der Lichtzeichenregelung des § 37 Absatz 2 Nummer 5 und 6 der Straßenverkehrs-Ordnung. Dabei kommt das Sinnbild „Radverkehr“ zur Anwendung.
 
-
-## § 14 – Ordnungswidrigkeiten
+# § 14 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -209,8 +193,7 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des Straßenverkehrsgesetzes h
 
 9. entgegen § 11 Absatz 4 Satz 3 einen Fußgänger behindert oder gefährdet.
 
-
-## § 15 – Übergangsbestimmungen
+# § 15 – Übergangsbestimmungen
 
 (1) Genehmigungen, die bis zum Außerkrafttreten der Mobilitätshilfenverordnung vom 16. Juli 2009 (BGBl. I S. 2097) erteilt wurden, bleiben gültig. Genehmigungen auf Basis der außer Kraft gesetzten Mobilitätshilfenverordnung dürfen nicht geändert werden.
 
@@ -220,8 +203,7 @@ Ordnungswidrig im Sinne des § 24 Absatz 1 Satz 1 des Straßenverkehrsgesetzes h
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur überprüft die vorliegende Verordnung hinsichtlich ihrer Wirksamkeit, Zielsetzung und Auswirkungen auf die Verkehrssicherheit, basierend insbesondere auf den Ergebnissen einer wissenschaftlichen Begleitung. Auf der Grundlage dieser Evaluierung wird das Bundesministerium für Verkehr und digitale Infrastruktur gegebenenfalls bis zum 1. September 2023 einen Vorschlag für die Änderung dieser Verordnung vorlegen.
 
-
-## Anlage – (zu § 7 Nummer 1)Prüfanforderungen und Anforderungen an die Fahrdynamik
+# Anlage – (zu § 7 Nummer 1)Prüfanforderungen und Anforderungen an die Fahrdynamik
 
 (Fundstelle: BGBl. I 2019, 761 - 763)
 
@@ -280,7 +262,7 @@ Die Messung ist in mindestens fünf aufeinanderfolgenden Prüfungen zu wiederhol
 2.2.4  
 Mit der nachfolgenden Formel wird die erreichte Durchschnittsverzögerung berechnet. Die Verzögerung des Fahrzeugs wird in m/s² durch eine Dezimalzahl mit einer Nachkommastelle ausgedrückt.
 
-![](../normengrafiken/bgbl1_2019/j0756-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0756-1_0020.jpg)
 
 2.2.5  
 Zur Überprüfung der Mindestverzögerung bei Ausfall einer Bremseinrichtung wird:
@@ -312,7 +294,7 @@ Eine Vertiefung zur Fahrebene mit den Maßen von mindestens 100 cm x 100 cm x 5 
 
 |                                                      |
 |:----------------------------------------------------:|
-|  ![](../normengrafiken/bgbl1_2019/j0756-1_0030.jpg)  |
+|  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0756-1_0030.jpg)  |
 | Bild 1: Vertiefung (rechts) mit Ausfahrrampe (links) |
 
 2.3.4.2  
@@ -329,7 +311,7 @@ Eine Ab- und Auffahrstufe mit 2 cm Höhendifferenz zur Fahrebene (Größe 100 cm
 
 |                                                      |
 |:----------------------------------------------------:|
-|  ![](../normengrafiken/bgbl1_2019/j0756-1_0040.jpg)  |
+|  ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0756-1_0040.jpg)  |
 | Bild 2: Ab- und Auffahrstufe (von rechts nach links) |
 
 2.3.5.2  
@@ -346,7 +328,7 @@ Eine Wegstrecke, auf der die Fahrebene in Fahrtrichtung linksseitig auf einer L�
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j0756-1_0050.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0756-1_0050.jpg) |
 |            Bild 3: Einseitige Absenkung            |
 
 2.3.6.2  
@@ -363,7 +345,7 @@ Eine Bordsteinkante mit Profil wie in Bild 4 dargestellt und einem Höhenuntersc
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2019/j0756-1_0060.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2019/j0756-1_0060.jpg) |
 |              Bild 4: Bordsteinprofil               |
 
 2.3.7.2  

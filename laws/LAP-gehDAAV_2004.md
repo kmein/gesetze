@@ -1,15 +1,11 @@
-# [LAP-gehDAAV 2004] Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Auswärtigen Dienst
-
-Ausfertigungsdatum: 08.07.2004
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen Auswärtigen Dienst
+% Ausfertigungsdatum: 08.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2671) verordnet das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Kapitel 1
 
@@ -211,8 +207,7 @@ Schwerbehinderte Menschen
 
 Inkrafttreten, Außerkrafttreten
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des gehobenen Auswärtigen Dienstes umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn.
 
@@ -238,20 +233,17 @@ Konsulin/Konsul.</td></tr></tbody></table>
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
-
-## § 2 – Ziel und Inhalt der Ausbildung
+# § 2 – Ziel und Inhalt der Ausbildung
 
 (1) Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat bei der Erfüllung ihrer Aufgaben vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung für die freiheitliche demokratische Grundordnung hingewiesen. Ihre Ausbildung führt zur Berufsbefähigung. Sie vermittelt ihnen die wissenschaftlichen und berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die sie zur Erfüllung der Aufgaben in ihrer Laufbahn benötigen. Bedeutung und Auswirkungen des europäischen Einigungsprozesses werden berücksichtigt und europaspezifische Kenntnisse vermittelt. Auch die allgemeinen beruflichen Fähigkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen Überprüfen des eigenen Handelns, zum selbständigen und wirtschaftlichen Handeln sowie soziale und interkulturelle Kompetenz sind zu fördern.
 
 (2) Die Beamtinnen und Beamten werden befähigt, sich eigenständig weiterzubilden. Sie sind zum Selbststudium verpflichtet.
 
-
-## § 3 – Einstellungsbehörde
+# § 3 – Einstellungsbehörde
 
 Einstellungsbehörde ist das Auswärtige Amt. Ihm obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung und die Begleitung sowie die Unterstützung der Anwärterinnen und Anwärter; es trifft die Entscheidungen über Verkürzung und Verlängerung des Vorbereitungsdienstes und die Aufstiegsausbildung. Das Auswärtige Amt ist die für die beamtenrechtlichen Entscheidungen zuständige Dienstbehörde.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -269,8 +261,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung seiner Aufgaben erheblichen Bedarf sieht, als weitere Ersatzsprachen für Französisch zulassen.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -298,8 +289,7 @@ b) eine Ablichtung des Schwerbehindertenausweises oder des Bescheides über die 
 
 c) eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -337,8 +327,7 @@ Die Vertretungen der übrigen Ausschussmitglieder werden von der Leiterin oder d
 
 (10) Im Falle einer erfolglosen Teilnahme am mündlichen Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig. In begründeten Einzelfällen kann der Auswahlausschuss eine frühere oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Staatssekretärin oder der Staatssekretär des Auswärtigen Amts entscheidet nach dem Ergebnis des Auswahlverfahrens und unter Berücksichtigung des Bedarfs über die Einstellung der Bewerberinnen und Bewerber.
 
@@ -356,15 +345,13 @@ Das Auswärtige Amt kann die Beibringung weiterer Unterlagen verlangen, die für
 
 (3) Die Bewerberinnen und Bewerber sowie gegebenenfalls ihre Ehepartnerinnen, Ehepartner, Lebenspartnerinnen oder Lebenspartner und Kinder haben ihre gesundheitliche Eignung gemäß § 4 Nummer 6 durch ein Gesundheitszeugnis des Gesundheitsdienstes des Auswärtigen Amts nachzuweisen, durch den oder in dessen Auftrag die Untersuchung durchgeführt wird. Die Kosten der Untersuchung trägt das Auswärtige Amt.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Konsulatssekretäranwärterinnen und Bewerber zu Konsulatssekretäranwärtern ernannt. Sie unterstehen der Dienstaufsicht des Auswärtigen Amts.
 
 (2) Bei der Gewährung von Urlaub sind Ausbildungsbelange zu berücksichtigen. Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 9 – Dauer des Vorbereitungsdienstes
+# § 9 – Dauer des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert drei Jahre.
 
@@ -388,8 +375,7 @@ unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die zielgerec
 
 (6) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 38 Abs. 2.
 
-
-## § 10 – Gliederung des Vorbereitungsdienstes
+# § 10 – Gliederung des Vorbereitungsdienstes
 
 (1) Fachstudien und berufspraktische Studienzeiten dauern jeweils 18 Monate, bilden eine Einheit und bauen aufeinander auf. Berufspraktische Studienzeiten bestehen aus Praktika und praxisbezogenen Lehrveranstaltungen.
 
@@ -412,13 +398,11 @@ Die Dauer des Hauptstudiums II kann zu Lasten des Hauptstudiums I um bis zu eine
 
 (4) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-
-## § 11 – Fachhochschule des Bundes für öffentliche Verwaltung
+# § 11 – Fachhochschule des Bundes für öffentliche Verwaltung
 
 Die Fachstudien werden an der Fachhochschule des Bundes für öffentliche Verwaltung, Fachbereich Auswärtige Angelegenheiten, durchgeführt. Mit der Durchführung des Hauptstudiums I kann eine andere geeignete Fachhochschule beauftragt werden.
 
-
-## § 12 – Grundsätze der Fachstudien
+# § 12 – Grundsätze der Fachstudien
 
 (1) Die Lehrveranstaltungen werden nach wissenschaftlichen Erkenntnissen und Methoden praxisbezogen und anwendungsorientiert unter Mitarbeit und Mitgestaltung der Anwärterinnen und Anwärter durchgeführt.
 
@@ -426,8 +410,7 @@ Die Fachstudien werden an der Fachhochschule des Bundes für öffentliche Verwal
 
 (3) Der Studienplan bestimmt die Lernziele der Studienabschnitte sowie - getrennt nach Studienabschnitten - die Lernziele der Studienfächer, die ihnen und ihren Intensitätsstufen entsprechenden Lerninhalte, die Stundenzahlen und die Art der Leistungsnachweise. Auf der Grundlage des Studienplans werden Lehrveranstaltungspläne erstellt. Der Studienplan für das Hauptstudium I wird im Einvernehmen mit der nach § 11 Satz 2 beauftragten Fachhochschule erstellt.
 
-
-## § 13 – Grundstudium
+# § 13 – Grundstudium
 
 (1) Das Grundstudium umfasst die für die Laufbahnen des gehobenen Dienstes allgemein geeigneten Ausbildungsinhalte. Es vermittelt den Anwärterinnen und Anwärtern im Rahmen einer fachübergreifenden beruflichen Grundbildung das Verständnis für die grundlegenden Wert- und Strukturentscheidungen des Grundgesetzes für eine freiheitliche demokratische Staats- und Gesellschaftsordnung und für die sozialen, gesellschaftlichen, wirtschaftlichen und rechtlichen Bezüge sowie Kenntnisse, Fähigkeiten und Fertigkeiten zur Analyse von Arbeitsaufgaben, zur Auswahl und Anwendung von Arbeitsmethoden und -mitteln und zur innerbehördlichen und fachübergreifenden Zusammenarbeit. Das Grundstudium soll die Fähigkeit zu adressatengerechtem Verhalten fördern und bereitet auch auf das nachfolgende Praktikum vor.
 
@@ -447,8 +430,7 @@ Die Fachstudien werden an der Fachhochschule des Bundes für öffentliche Verwal
 
 7. laufbahntypische Bereiche der Aufgabenerfüllung.
 
-
-## § 14 – Hauptstudium
+# § 14 – Hauptstudium
 
 (1) Das Hauptstudium vermittelt den Anwärterinnen und Anwärtern gründliche Fachkenntnisse und die Fähigkeit, methodisch und selbständig auf wissenschaftlicher Grundlage zu arbeiten. Es baut ergänzend und vertiefend auf den Lerninhalten des Grundstudiums und der Praktika auf.
 
@@ -456,20 +438,17 @@ Die Fachstudien werden an der Fachhochschule des Bundes für öffentliche Verwal
 
 (3) Im Hauptstudium II werden im Grundstudium (§ 13 Abs. 2) oder im Hauptstudium I behandelte Lerninhalte der Studiengebiete ergänzt, erweitert und vertieft. Im Hauptstudium II können auch studiengebietsübergreifende Lehrveranstaltungen durchgeführt werden.
 
-
-## § 15 – Ziel der berufspraktischen Studienzeiten
+# § 15 – Ziel der berufspraktischen Studienzeiten
 
 Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anwärter berufliche Kenntnisse und Erfahrungen als Grundlage für die Fachstudien, vertiefen die in den Fachstudien erworbenen wissenschaftlichen Kenntnisse und lernen, sie in der Praxis anzuwenden. Für die berufspraktischen Studienzeiten sind die Ausbildungsrichtlinien des Auswärtigen Amts zu berücksichtigen.
 
-
-## § 16 – Praktika
+# § 16 – Praktika
 
 (1) In den Praktika werden die Anwärterinnen und Anwärter in Schwerpunktbereichen der Laufbahn des gehobenen Auswärtigen Dienstes mit den wesentlichen Aufgaben des Auswärtigen Dienstes vertraut gemacht. Anhand praktischer Fälle werden sie besonders in der Anwendung von Rechts- und Verwaltungsvorschriften und in den Arbeitstechniken ausgebildet. Je nach ihrem Ausbildungsstand und den organisatorischen Möglichkeiten sollen die Anwärterinnen und Anwärter einzelne Geschäftsvorgänge, die typisch für Aufgaben ihrer Laufbahn sind, selbständig bearbeiten, an dienstlichen Veranstaltungen und internen Fortbildungsveranstaltungen, die ihrer Ausbildung förderlich sind, teilnehmen und Gelegenheit erhalten, sich im Vortrag und in der Verhandlungsführung zu üben.
 
 (2) Tätigkeiten, die nicht dem Ziel der Ausbildung entsprechen, dürfen den Anwärterinnen und Anwärtern nicht übertragen werden.
 
-
-## § 17 – Durchführung der Praktika
+# § 17 – Durchführung der Praktika
 
 (1) Das Auswärtige Amt ist verantwortlich für die Gestaltung, Durchführung und Überwachung der Praktika. Der Fachbereich Auswärtige Angelegenheiten der Fachhochschule des Bundes für öffentliche Verwaltung wird beteiligt.
 
@@ -477,8 +456,7 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 (3) Das Praktikum II wird bei einer Auslandsvertretung durchgeführt. In ihm werden die Anwärterinnen und Anwärter mit den besonderen Belangen des Auswärtigen Dienstes vertraut gemacht und zu selbständiger und eigenverantwortlicher Arbeit angeleitet, insbesondere in den Studienfächern, die im Grundstudium und im Hauptstudium I gelehrt werden. Neben der praktischen Anwendung zivil- und verwaltungsrechtlicher Vorschriften soll den Anwärterinnen und Anwärtern auch die Bedeutung bürgernaher Verwaltung vermittelt werden.
 
-
-## § 18 – Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
+# § 18 – Ausbildungsleitung, Ausbilderinnen und Ausbilder während der Praktika
 
 (1) Jede Stelle, der Anwärterinnen und Anwärter zur Ausbildung zugewiesen werden, bestellt eine Beamtin oder einen Beamten als Ausbildungsleitung, die für die ordnungsgemäße Durchführung des Praktikums verantwortlich ist; außerdem bestellt sie für die einzelnen Ausbildungsabschnitte Ausbilderinnen und Ausbilder und bestimmt die Vertretung der Ausbildungsleitung. Mit der Ausbildung darf nur betraut werden, wer über die erforderlichen Fähigkeiten und Kenntnisse verfügt und nach seiner Persönlichkeit hierzu geeignet ist.
 
@@ -488,8 +466,7 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 (4) Vor Beginn der Praktika erstellt die Ausbildungsleitung für jede Anwärterin und jeden Anwärter einen Ausbildungsplan, aus dem sich die Sachgebiete ergeben, in denen sie oder er ausgebildet wird; die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
-## § 19 – Praxisbezogene Lehrveranstaltungen
+# § 19 – Praxisbezogene Lehrveranstaltungen
 
 (1) Die praxisbezogenen Lehrveranstaltungen betragen in der Regel 280 Stunden und haben zum Ziel, die in den Fachstudien und in den Praktika gewonnenen Kenntnisse in enger Beziehung zur Praxis zu vertiefen. Die Lehrveranstaltungen und der praktische Einsatz am Arbeitsplatz werden aufeinander abgestimmt, und die Lernziele und Lerninhalte, die Stundenzahlen und die Art der Leistungsnachweise werden festgelegt.
 
@@ -507,8 +484,7 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 6. Behandlung der Gleichstellungsthematik.
 
-
-## § 20 – Leistungsnachweise während der Fachstudien
+# § 20 – Leistungsnachweise während der Fachstudien
 
 (1) Während der Fachstudien haben die Anwärterinnen und Anwärter Leistungsnachweise zu erbringen. Leistungsnachweise können sein:
 
@@ -546,8 +522,7 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 (8) Bei Verhinderung, Rücktritt, Säumnis, Täuschungshandlungen und Ordnungsverstößen sind die §§ 32 und 33 entsprechend anzuwenden. Über die Folgen entscheidet die Stelle, die die Aufgabe des Leistungsnachweises bestimmt hat.
 
-
-## § 21 – Bewertungen während der berufspraktischen Studienzeiten
+# § 21 – Bewertungen während der berufspraktischen Studienzeiten
 
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und Anwärter während der Praktika wird für jedes Ausbildungsgebiet, dem Anwärterinnen und Anwärter nach dem Ausbildungsplan mindestens für einen Monat zugewiesen werden, eine schriftliche Bewertung nach § 34 abgegeben.
 
@@ -557,8 +532,7 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 (4) Zum Abschluss der berufspraktischen Studienzeiten erstellt das Auswärtige Amt ein zusammenfassendes Zeugnis, das die Bewertungen nach den Absätzen 1 und 2 aufführt. Die Durchschnittspunktzahl wird festgestellt, indem die Summe der Rangpunkte durch die Anzahl der bewerteten Ausbildungsabschnitte und der Leistungsnachweise geteilt wird. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung.
 
-
-## § 22 – Erste Zwischenprüfung
+# § 22 – Erste Zwischenprüfung
 
 (1) Zum Abschluss des Grundstudiums haben die Anwärterinnen und Anwärter in einer Zwischenprüfung nachzuweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
@@ -578,8 +552,7 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 (9) § 37 Abs. 2 gilt entsprechend.
 
-
-## § 23 – Zweite Zwischenprüfung
+# § 23 – Zweite Zwischenprüfung
 
 (1) Während des Hauptstudiums II wird eine zweite Zwischenprüfung als Fremdsprachenprüfung abgelegt. In ihr haben die Anwärterinnen und Anwärter nachzuweisen, dass sie den praxisbezogenen Anforderungen in der englischen und französischen Sprache gerecht werden. Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil.
 
@@ -605,13 +578,11 @@ Während der berufspraktischen Studienzeiten erwerben die Anwärterinnen und Anw
 
 (8) § 37 Abs. 2 gilt entsprechend.
 
-
-## § 24 – Prüfungsamt
+# § 24 – Prüfungsamt
 
 Dem beim Auswärtigen Amt eingerichteten Prüfungsamt obliegt die Durchführung der zweiten Zwischenprüfung und der Laufbahnprüfung; es trägt Sorge für die Entwicklung und gleichmäßige Anwendung der Bewertungsmaßstäbe und vollzieht die Entscheidungen der Prüfungskommission.
 
-
-## § 25 – Prüfungskommission
+# § 25 – Prüfungskommission
 
 (1) Die Laufbahnprüfung wird vor einer Prüfungskommission abgelegt; für die schriftliche und mündliche Prüfung können gesonderte Prüfungskommissionen eingerichtet werden. Es können mehrere, auch fachspezifische Prüfungskommissionen eingerichtet werden, wenn die Zahl der zu prüfenden Anwärterinnen und Anwärter und die Zeitplanung zum fristgemäßen Abschluss der Prüfungen oder fachliche Gesichtspunkte in Bezug auf die Bewertung der schriftlichen Prüfungsarbeiten es erfordern; die gleichmäßige Anwendung der Bewertungsmaßstäbe muss gewährleistet sein. Die Vorsitzenden, sonstigen Mitglieder und Ersatzmitglieder bestellt das Prüfungsamt; die Spitzenorganisationen der Gewerkschaften und Berufsverbände des öffentlichen Dienstes können Mitglieder vorschlagen. Die Mitglieder und Ersatzmitglieder werden für die Dauer von höchstens drei Jahren bestellt. Die Wiederbestellung ist zulässig.
 
@@ -631,8 +602,7 @@ Falls erforderlich, können auch Richterinnen oder Richter und Angestellte als B
 
 (5) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder, darunter die oder der Vorsitzende, anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 26 – Ziel und Inhalt der Laufbahnprüfung
+# § 26 – Ziel und Inhalt der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung ist festzustellen, ob die Anwärterinnen und Anwärter für die vorgesehene Laufbahn befähigt sind.
 
@@ -644,8 +614,7 @@ Falls erforderlich, können auch Richterinnen oder Richter und Angestellte als B
 
 (5) Die Prüfung ist nicht öffentlich. Ausnahmen bestimmt die Prüfungskommission (§ 25). § 6 Abs. 7 gilt entsprechend.
 
-
-## § 27 – Prüfungsort, Prüfungstermin
+# § 27 – Prüfungsort, Prüfungstermin
 
 (1) Das Prüfungsamt setzt in Abstimmung mit dem Fachbereich Auswärtige Angelegenheiten der Fachhochschule des Bundes für öffentliche Verwaltung den Zeitpunkt der Ausgabe der Diplomarbeit sowie Ort und Zeit der schriftlichen und der mündlichen Prüfung fest.
 
@@ -653,8 +622,7 @@ Falls erforderlich, können auch Richterinnen oder Richter und Angestellte als B
 
 (3) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern den Zeitpunkt der Ausgabe der Diplomarbeit sowie Ort und Zeit der schriftlichen und der mündlichen Prüfung rechtzeitig mit.
 
-
-## § 28 – Diplomarbeit
+# § 28 – Diplomarbeit
 
 (1) Die Diplomarbeit ist eine Prüfungsarbeit. Sie soll die Fähigkeit zur selbständigen Bearbeitung eines Problems aus den Inhalten der Ausbildung nach wissenschaftlichen Methoden innerhalb einer vorgegebenen Zeit erkennen lassen.
 
@@ -672,8 +640,7 @@ Die Anwärterinnen und Anwärter können gegenüber der oder dem Vorschlagsberec
 
 (4) Die Diplomarbeit ist von zwei Prüfenden unabhängig voneinander zu bewerten. Erstprüferin oder Erstprüfer ist, wer das Thema der Diplomarbeit vorgeschlagen hat. Das Prüfungsamt bestimmt die Zweitprüferin oder den Zweitprüfer. Für die Bewertung ist § 34 entsprechend anzuwenden. Weichen die Bewertungen einer Diplomarbeit um nicht mehr als drei Rangpunkte voneinander ab, wird der Durchschnitt gebildet. Bei größeren Abweichungen gibt das Prüfungsamt die Diplomarbeit an die beiden Prüfenden zur Einigung zurück. Beträgt die Abweichung nach erfolgtem Einigungsversuch nicht mehr als drei Rangpunkte, wird der Durchschnitt gebildet; bei größeren Abweichungen bestimmt das Prüfungsamt eine Drittprüferin oder einen Drittprüfer. Die abschließende Rangpunktzahl setzt das Prüfungsamt durch Bildung der Durchschnittspunktzahl der drei Bewertungen fest.
 
-
-## § 29 – Schriftliche Prüfung
+# § 29 – Schriftliche Prüfung
 
 (1) Die Prüfungsaufgaben bestimmt das Prüfungsamt; der Fachbereich Auswärtige Angelegenheiten der Fachhochschule des Bundes für öffentliche Verwaltung wird bei der Erarbeitung beteiligt. Die Aufgaben der vier schriftlichen Arbeiten sind aus folgenden Prüfungsfächern auszuwählen, von denen das Fach gemäß Nummer 1 zwingend ist:
 
@@ -709,15 +676,13 @@ Die Anwärterinnen und Anwärter können gegenüber der oder dem Vorschlagsberec
 
 (8) Erscheinen Anwärterinnen und Anwärter verspätet zu einer Aufsichtsarbeit und wird nicht nach § 32 verfahren, gilt die versäumte Zeit als Bearbeitungszeit.
 
-
-## § 30 – Zulassung zur mündlichen Prüfung
+# § 30 – Zulassung zur mündlichen Prüfung
 
 (1) Das Prüfungsamt lässt Anwärterinnen und Anwärter zur mündlichen Prüfung zu, wenn wenigstens drei schriftliche Aufsichtsarbeiten mindestens mit der Note "ausreichend" bewertet worden sind. Andernfalls ist die Prüfung nicht bestanden.
 
 (2) Das Prüfungsamt teilt den Anwärterinnen und Anwärtern die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit. Dabei teilt es den zugelassenen Anwärterinnen und Anwärtern auch die von ihnen in den einzelnen schriftlichen Aufsichtsarbeiten erzielten Rangpunkte mit, wenn sie dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.
 
-
-## § 31 – Mündliche Prüfung
+# § 31 – Mündliche Prüfung
 
 (1) Die mündliche Prüfung richtet sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte aus. Die Prüfungskommission wählt aus den Gebieten der schriftlichen Prüfung (§ 29 Abs. 1) entsprechend aus.
 
@@ -729,8 +694,7 @@ Die Anwärterinnen und Anwärter können gegenüber der oder dem Vorschlagsberec
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die die Mitglieder der Prüfungskommission unterschreiben.
 
-
-## § 32 – Verhinderung, Rücktritt, Säumnis
+# § 32 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umstände an der Ablegung der Prüfung oder von Teilen der Prüfung verhindert ist, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines ärztlichen Zeugnisses nachzuweisen.
 
@@ -740,8 +704,7 @@ Die Anwärterinnen und Anwärter können gegenüber der oder dem Vorschlagsberec
 
 (4) Versäumen Anwärterinnen oder Anwärter die schriftliche oder die mündliche Prüfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet das Prüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann, mit "ungenügend" (Rangpunkt 0) bewertet oder die gesamte Prüfung für nicht bestanden erklärt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 33 – Täuschung, Ordnungsverstoß
+# § 33 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen oder Anwärtern, die bei einer Diplomarbeit, einer schriftlichen Prüfungsarbeit oder in der mündlichen Prüfung eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer Entscheidung des Prüfungsamtes oder der Prüfungskommission nach Absatz 2 über die weitere Fortsetzung der Prüfung gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -751,8 +714,7 @@ Die Anwärterinnen und Anwärter können gegenüber der oder dem Vorschlagsberec
 
 (4) Betroffene sind vor der Entscheidung nach den Absätzen 2 und 3 zu hören.
 
-
-## § 34 – Bewertung von Prüfungsleistungen
+# § 34 – Bewertung von Prüfungsleistungen
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
 
@@ -793,8 +755,7 @@ Durchschnittspunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zw
 
 (5) Wenn nach der Art des Leistungsnachweises oder der Prüfungsarbeit die Bewertung nach Absatz 2 nicht durchführbar ist, werden den Grundsätzen der Absätze 3 und 4 entsprechend für den unteren Rangpunkt jeder Note typische Anforderungen festgelegt. Von diesen Anforderungen aus wird die Erteilung des der Leistung entsprechenden Rangpunktes begründet. Für die Bewertung mündlicher Leistungen gelten diese Grundsätze sinngemäß.
 
-
-## § 35 – Gesamtergebnis
+# § 35 – Gesamtergebnis
 
 (1) Im Anschluss an die mündliche Prüfung setzt die Prüfungskommission die Abschlussnote fest. Dabei werden berücksichtigt:
 
@@ -818,8 +779,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (3) Im Anschluss an die Beratung der Prüfungskommission teilt die oder der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz mündlich erläutert.
 
-
-## § 36 – Zeugnis
+# § 36 – Zeugnis
 
 (1) Das Prüfungsamt erteilt den Anwärterinnen und Anwärtern, die die Prüfung bestanden haben, ein Prüfungszeugnis, das mindestens die Abschlussnote sowie die nach § 35 Abs. 1 Satz 2 errechnete Durchschnittspunktzahl enthält. Ist die Prüfung nicht bestanden, gibt das Prüfungsamt dies den Anwärterinnen und Anwärtern schriftlich bekannt. Das Zeugnis nach Satz 1 und die Bekanntgabe nach Satz 2 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Prüfungszeugnisses wird zu den Personalakten genommen. Das Beamtenverhältnis auf Widerruf endet mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Prüfungsergebnisses.
 
@@ -827,15 +787,13 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden durch das Prüfungsamt berichtigt. Unrichtige Prüfungszeugnisse sind zurückzugeben. In den Fällen des § 33 Abs. 3 Satz 1 ist das Prüfungszeugnis zurückzugeben.
 
-
-## § 37 – Prüfungsakten, Einsichtnahme
+# § 37 – Prüfungsakten, Einsichtnahme
 
 (1) Jeweils eine Ausfertigung der Zeugnisse über die Zwischenprüfungen, die Hauptstudien, die berufspraktischen Studienzeiten, der Niederschriften über die Zwischenprüfungen und die Laufbahnprüfung sowie des Laufbahnprüfungszeugnisses ist mit den schriftlichen Aufsichtsarbeiten der Zwischenprüfungen und der Laufbahnprüfung sowie der Diplomarbeit zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Auswärtigen Amt mindestens fünf Jahre aufbewahrt.
 
 (2) Die Anwärterinnen und Anwärter können nach Abschluss der Laufbahnprüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 38 – Wiederholung
+# § 38 – Wiederholung
 
 (1) Die Anwärterinnen und Anwärter, die die Prüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen; das Auswärtige Amt kann in begründeten Fällen eine zweite Wiederholung der Prüfung zulassen. Prüfungen sind vollständig zu wiederholen.
 
@@ -843,8 +801,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (3) Ist die Diplomarbeit mindestens mit fünf Rangpunkten bewertet worden, sind lediglich die schriftliche und die mündliche Prüfung vollständig zu wiederholen. Sind nur in der Diplomarbeit keine fünf Rangpunkte erreicht worden, ist allein die Diplomarbeit zu wiederholen.
 
-
-## § 39 – Allgemeine Aufstiegsregelungen
+# § 39 – Allgemeine Aufstiegsregelungen
 
 (1) Beamtinnen und Beamte des mittleren nichttechnischen Auswärtigen Dienstes können von Vorgesetzten für die Zulassung zum Aufstieg in die Laufbahn des gehobenen Auswärtigen Dienstes vorgeschlagen werden oder sich bewerben. Ihre Eignung, die an den Anforderungen der künftigen Laufbahn gemessen wird, wird in einem Auswahlverfahren überprüft. Das zuständige Personalreferat prüft, ob die formalen, in diesem Kapitel genannten Voraussetzungen für die Teilnahme am Auswahlverfahren zum Ausbildungs- oder Praxisaufstieg vorliegen. Auf die Durchführung des beim Auswärtigen Amt stattfindenden Auswahlverfahrens ist § 6 entsprechend anzuwenden, sofern in den folgenden Vorschriften nicht andere Regelungen getroffen werden.
 
@@ -860,8 +817,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (4) Für die Zulassung zum Aufstieg ist § 7 Abs. 1 entsprechend anzuwenden. Nach der bestandenen Laufbahnprüfung oder der Feststellung der Befähigung für die höhere Laufbahn wird den Beamtinnen und Beamten im Rahmen der besetzbaren Planstellen ein Amt der Laufbahn des gehobenen Dienstes verliehen. Bis dahin verbleiben sie in ihrer bisherigen Rechtsstellung. Aufstiegsbeamtinnen und Aufstiegsbeamte, die die Befähigung für die Laufbahn des gehobenen Dienstes endgültig nicht erwerben, verbleiben in ihrer bisherigen Laufbahn.
 
-
-## § 40 – Ausbildungsaufstieg
+# § 40 – Ausbildungsaufstieg
 
 (1) Zum Ausbildungsaufstieg in die Laufbahn des gehobenen Auswärtigen Dienstes können Beamtinnen und Beamte des mittleren nichttechnischen Auswärtigen Dienstes zugelassen werden, die
 
@@ -875,8 +831,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (3) Die zum Aufstieg zugelassenen Bewerberinnen und Bewerber nehmen an dem für die Laufbahn des gehobenen Auswärtigen Dienstes eingerichteten Vorbereitungsdienst teil. Der Vorbereitungsdienst schließt mit der Laufbahnprüfung ab. Die Vorschriften der Kapitel 1 und 2 sind entsprechend anzuwenden, soweit nicht in Kapitel 3 anderweitige Regelungen getroffen wurden.
 
-
-## § 41 – Praxisaufstieg
+# § 41 – Praxisaufstieg
 
 (1) Zum Praxisaufstieg in die Laufbahn des gehobenen Auswärtigen Dienstes können Beamtinnen und Beamte der Laufbahn des mittleren nichttechnischen Auswärtigen Dienstes zugelassen werden, die zu Beginn der Einführung das 45. Lebensjahr vollendet und das 58. Lebensjahr noch nicht vollendet haben.
 
@@ -890,8 +845,7 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (6) Die Feststellung über die Befähigung für die Laufbahn des gehobenen Auswärtigen Dienstes trifft die Prüfungskommission in einem Vorstellungstermin. § 25 ist entsprechend anzuwenden, wobei von § 25 Abs. 3 Halbsatz 2 abgewichen werden kann. Die Prüfungskommission hat bei der Feststellung die während der Einführungszeit erbrachten Leistungsnachweise einschließlich einer eingehenden Beurteilung der Leistungen während dieser Zeit zu berücksichtigen. Reicht das Ergebnis des Vorstellungstermins nicht aus, kann die Prüfungskommission bestimmen, in welcher Form der weitere Nachweis des erfolgreichen Abschlusses der Einführung geführt werden soll. Die Prüfungskommission kann die Anfertigung von Ausarbeitungen verlangen. Das Feststellungsverfahren kann nach Ablauf von mindestens sechs Monaten einmal wiederholt werden. Für diesen Fall ist die Einführungszeit entsprechend zu verlängern.
 
-
-## § 42 – Schwerbehinderte Menschen
+# § 42 – Schwerbehinderte Menschen
 
 (1) Geeignete schwerbehinderte Menschen sind bei der Besetzung freier Arbeitsplätze vorrangig zu berücksichtigen, sofern sie - mit Ausnahme der durch ihre Behinderung eingeschränkten Eignung - über die gleiche Qualifikation verfügen. Von schwerbehinderten Menschen darf bei der Einstellung nur das Mindestmaß körperlicher Eignung verlangt werden. Hinsichtlich der sonstigen Eignung, insbesondere der beruflichen Kenntnisse und Fähigkeiten, gilt uneingeschränkt das Leistungsprinzip im Wettbewerb mit anderen nichtbehinderten Bewerberinnen und Bewerbern. Schwerbehinderte Menschen sind grundsätzlich zu Auswahlverfahren zuzulassen, es sei denn, dass sie nach den vorgelegten Unterlagen für eine Verwendung offensichtlich nicht geeignet erscheinen.
 
@@ -901,12 +855,10 @@ Soweit die abschließend errechnete Durchschnittspunktzahl 5 oder mehr beträgt,
 
 (4) Entscheidungen über Prüfungserleichterungen trifft das Prüfungsamt.
 
-
-## § 43 – Übergangsregelung
+# § 43 – Übergangsregelung
 
 Anwärterinnen und Anwärter sowie Aufstiegsbeamtinnen und Aufstiegsbeamte, die bereits vor dem 15. Juli 2004 ihren Vorbereitungsdienst oder die Einführung aufgenommen haben, führen diese nach bisherigem Recht zu Ende.
 
-
-## § 44 – Inkrafttreten, Außerkrafttreten
+# § 44 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

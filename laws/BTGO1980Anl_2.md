@@ -1,10 +1,7 @@
-# [BTGO1980Anl 2] Registrierung von Verbänden und deren Vertreter (Anlage 2 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
-
-Ausfertigungsdatum: 25.06.1980
-
+% Registrierung von Verbänden und deren Vertreter (Anlage 2 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
+% Ausfertigungsdatum: 25.06.1980
  
-
-## Registrierung von Verbänden und deren Vertreter
+# Registrierung von Verbänden und deren Vertreter
 
 (1) Der Präsident des Bundestages führt eine öffentliche Liste, in der alle Verbände, die Interessen gegenüber dem Bundestag oder der Bundesregierung vertreten, eingetragen werden.
 

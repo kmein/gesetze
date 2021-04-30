@@ -1,10 +1,7 @@
-# [Münz5DMBek 1976-07] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Grimmelshausen-Gedenkmünze)
-
-Ausfertigungsdatum: 14.07.1976
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Grimmelshausen-Gedenkmünze)
+% Ausfertigungsdatum: 14.07.1976
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 300. Wiederkehr des Todestages von Hans Jacob Christoph von Grimmelshausen eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte im Bayerischen Hauptmünzamt München, die Auflage beträgt 8 Millionen Stück.
 
@@ -46,13 +43,11 @@ Zwischen Ende und Anfang der Randschrift sind zwei kleine stilisierte Masken ein
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

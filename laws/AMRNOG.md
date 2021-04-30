@@ -1,10 +1,7 @@
-# [AMRNOG] Gesetz zur Neuordnung des Arzneimittelrechts
-
-Ausfertigungsdatum: 24.08.1976
-
+% Gesetz zur Neuordnung des Arzneimittelrechts
+% Ausfertigungsdatum: 24.08.1976
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Artikel 1
 
@@ -70,12 +67,10 @@ Inkrafttreten
 
  
 
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 3
+# § 3
 
 \-

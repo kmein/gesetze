@@ -1,15 +1,11 @@
-# [GesBergV] Bergverordnung zum gesundheitlichen Schutz der Beschäftigten  (Gesundheitsschutz-Bergverordnung - GesBergV)
-
-Ausfertigungsdatum: 31.07.1991
-
+% Bergverordnung zum gesundheitlichen Schutz der Beschäftigten  (Gesundheitsschutz-Bergverordnung - GesBergV)
+% Ausfertigungsdatum: 31.07.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 65 Nr. 3, des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und e, Nr. 5 und 6, des § 67 Nr. 1 und 8 sowie des § 68 Abs. 2 Nr. 1 und 3 und Abs. 3 Nr. 1 und 3, auch in Verbindung mit § 126 Abs. 1 Satz 1 und Abs. 3 und den §§ 128 und 129 Abs. 1, sowie des § 176 Abs. 3 Satz 3 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310) verordnet der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung und für den Bereich der Küstengewässer im Einvernehmen mit dem Bundesminister für Verkehr:
 
-
-## § 1 – Räumliche und sachliche Anwendung
+# § 1 – Räumliche und sachliche Anwendung
 
 Diese Verordnung ist anzuwenden für gesundheitliche Eignungsuntersuchungen sowie Vorsorge- und Schutzmaßnahmen
 
@@ -21,8 +17,7 @@ Diese Verordnung ist anzuwenden für gesundheitliche Eignungsuntersuchungen sowi
 
 4. in Anlagen zur Lagerung, Sicherstellung und Endlagerung radioaktiver Stoffe nach § 126 Absatz 3 des Bundesberggesetzes.
 
-
-## § 2 – Eignungsuntersuchungen
+# § 2 – Eignungsuntersuchungen
 
 (1) Der Unternehmer hat sicherzustellen, dass folgende Personen bei Tätigkeiten in Betrieben nach § 1 nur beschäftigt werden, soweit nach dem Ergebnis ärztlicher Eignungsuntersuchungen gesundheitliche Bedenken gegen die Art der vorgesehenen Tätigkeiten nicht bestehen und dem Unternehmer hierüber eine ärztliche Bescheinigung mit Angabe einer Eignungsgruppe nach Anlage 1 vorliegt:
 
@@ -54,15 +49,13 @@ Die Trocken- und Effektivtemperatur bestimmt sich nach § 2 der Klima-Bergverord
 
 (4) Eignungsuntersuchungen, die auf Grund anderer Rechtsvorschriften durchgeführt werden und nach Art, Umfang, Häufigkeit und Aufzeichnungen den Anforderungen dieser Verordnung entsprechen, stehen Eignungsuntersuchungen im Sinne des Absatzes 1 gleich.
 
-
-## § 3 – Fristen für die Erst- und Nachuntersuchungen
+# § 3 – Fristen für die Erst- und Nachuntersuchungen
 
 (1) Die Erstuntersuchungen müssen vor Beginn der Tätigkeit vorgenommen werden. Sie dürfen nicht länger als drei Monate, vom Beginn der Tätigkeit an gerechnet, zurückliegen. Personen, die nach vorherigen Tätigkeiten nach § 2 Absatz 1 Satz 1 derartige Tätigkeiten wieder aufnehmen, dürfen ohne erneute Erstuntersuchung beschäftigt werden, wenn die Unterbrechung nicht länger als drei Monate gedauert hat und die frühere Tätigkeit mit der vorgesehenen vergleichbar ist.
 
 (2) Nachuntersuchungen sind jeweils innerhalb von sechs Wochen vor Ablauf der in Anlage 2 und bei Tätigkeiten im Anwendungsbereich der Offshore-Bergverordnung der in § 16 Absatz 1 Satz 2 der Offshore-Bergverordnung festgelegten Fristen durchzuführen. Hält der die Untersuchung durchführende Arzt kürzere Fristen, insbesondere auf Grund von Erkrankungen, auf Grund von gesundheitlichen Vorbelastungen oder auf Grund altersbedingter Gesundheitsbeeinträchtigungen der zu untersuchenden Person für geboten, treten diese an die Stelle der Fristen nach Anlage 2 oder § 16 Absatz 1 Satz 2 der Offshore-Bergverordnung. Ist eine Person innerhalb von sechs Monaten nach dieser Verordnung oder nach anderen Rechtsvorschriften mehr als einmal einer Nachuntersuchung zu unterziehen und beträgt die jeweilige Nachuntersuchungsfrist ein Jahr oder mehr, können die Nachuntersuchungen an einem Termin vorgenommen werden.
 
-
-## § 4 – Arbeitsmedizinische Vorsorge
+# § 4 – Arbeitsmedizinische Vorsorge
 
 (1) Der Unternehmer hat Personen, die nach vorherigen Tätigkeiten nach § 2 Absatz 1 Satz 1 Nummer 1 im Steinkohlenbergbau mit anderen Tätigkeiten über Tage innerhalb des Unternehmens beschäftigt werden oder aus dem Beschäftigungsverhältnis ausscheiden, eine nachgehende Vorsorge in Zeitabständen von längstens fünf Jahren ab dem Zeitpunkt der Beendigung der Tätigkeit oder Beschäftigung dann anzubieten, wenn
 
@@ -78,8 +71,7 @@ Die Organisation der nachgehenden Vorsorge nach Satz 1 kann mit Zustimmung des B
 
 (3) Die ärztliche Überwachung beruflich exponierter Personen nach dem Strahlenschutzgesetz vom 27. Juni 2017 (BGBl. I S. 1966), das durch Artikel 2 des Gesetzes vom 27. Juni 2017 (BGBl. I S. 1966) geändert worden ist, und der Strahlenschutzverordnung vom 29. November 2018 (BGBl. I S. 2034, 2036) in der jeweils geltenden Fassung bleibt unberührt.
 
-
-## § 5 – Durchführung der Untersuchungen
+# § 5 – Durchführung der Untersuchungen
 
 (1) Der Unternehmer hat die Eignungsuntersuchungen zu veranlassen sowie die nachgehende Vorsorge nach § 4 Absatz 1 anzubieten, soweit Letzteres nicht von den Trägern der gesetzlichen Unfallversicherung übernommen wird, und die verursachten Aufwendungen zu tragen.
 
@@ -105,8 +97,7 @@ Ergibt sich im Einzelfall, dass ein ärztliches Urteil über die Eignung einer P
 
 (4) Die ärztliche Bescheinigung über die Eignungsuntersuchung für den Unternehmer ist auf der Grundlage von Anlage 4 auszustellen.
 
-
-## § 6 – Mitteilung, Aufzeichnung, Aufbewahrung
+# § 6 – Mitteilung, Aufzeichnung, Aufbewahrung
 
 (1) Der Unternehmer und im Falle des § 4 Absatz 1 Satz 2 der Träger der gesetzlichen Unfallversicherung hat fortlaufend dafür zu sorgen, dass die Ärzte, die die Eignungsuntersuchungen und die nachgehende Vorsorge nach § 4 Absatz 1 Satz 1 durchführen,
 
@@ -120,8 +111,7 @@ Die Aufzeichnungen dürfen mit Hilfe der automatisierten Datenverarbeitung vorge
 
 (2) Der Unternehmer hat dafür zu sorgen, dass die Ärzte, die die Eignungsuntersuchungen durchführen, die Aufzeichnungen nach Absatz 1 Satz 1 Nummer 3 mindestens zehn Jahre nach der letzten Eignungsuntersuchung aufbewahren. Bei Eignungsuntersuchungen für Tätigkeiten im untertägigen Steinkohlenbergbau sowie in anderen untertägigen Betrieben, in denen fibrogene Grubenstäube auftreten können, sowie bei der nachgehenden Vorsorge nach § 4 Absatz 1 Satz 1 hat er sicherzustellen, dass die Aufzeichnungen nach Absatz 1 Satz 1 Nummer 3 mindestens 40 Jahre nach der letzten nachgehenden Vorsorge und höchstens bis zum 31. Dezember des 40. Jahres nach der letzten Exposition gegenüber fibrogenen Grubenstäuben oder höchstens bis zehn Jahre nach dem Tod der beschäftigten Person aufbewahrt werden. Die Aufzeichnungen sind so aufzubewahren, dass Unbefugte keinen Zugang zu ihnen haben. Unbefugten Dritten dürfen sie nicht offenbart werden. Die Verpflichtung des Unternehmers nach Satz 2 gilt im Hinblick auf Aufzeichnungen über die nachgehende Vorsorge nach § 4 Absatz 1 Satz 1 als erfüllt, wenn die Aufzeichnungen von einem Träger der gesetzlichen Unfallversicherung zum Zweck der gesundheitlichen Überwachung und Verbesserung des Gesundheitsschutzes aufbewahrt werden. Nach Ablauf der in Satz 1 oder Satz 2 bestimmten Fristen sind die Aufzeichnungen zu vernichten.
 
-
-## § 7 – Tätigkeiten mit Gefahrstoffen
+# § 7 – Tätigkeiten mit Gefahrstoffen
 
 (1) Bei Tätigkeiten mit Gefahrstoffen im Sinne der Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643, 1644) in der jeweils geltenden Fassung sind neben den Vorschriften der Allgemeinen Bundesbergverordnung vom 23. Oktober 1995 (BGBl. I S. 1466) in der jeweils geltenden Fassung auch die Vorschriften der Gefahrstoffverordnung in der jeweils geltenden Fassung anzuwenden, soweit diese Verordnung keine abweichenden Regelungen enthält.
 
@@ -135,15 +125,13 @@ Die Aufzeichnungen dürfen mit Hilfe der automatisierten Datenverarbeitung vorge
 
 Die Verpflichtung zur Minimierung von Gefährdungen nach § 7 Absatz 4 Satz 2 der Gefahrstoffverordnung, die insbesondere Maßnahmen zur Konditionierung von Stoffen und Gemischen erforderlich machen kann, sowie die Verpflichtungen zur Einhaltung von Arbeitsplatzgrenzwerten und zur Berücksichtigung von Beurteilungsmaßstäben für Gefahrstoffe nach den Vorgaben der Gefahrstoffverordnung bleiben unberührt.
 
-
-## § 8 – Ermittlung der persönlichen Belastung durch fibrogene Grubenstäube
+# § 8 – Ermittlung der persönlichen Belastung durch fibrogene Grubenstäube
 
 (1) Für jede Person, die in untertägigen Betrieben beschäftigt wird, hat der Unternehmer auf Grund von Staubmessungen die persönliche Belastung durch fibrogene Grubenstäube für einen Beurteilungszeitraum von zwei Jahren nach Anlage 6 Nr. 1 und 2 zu ermitteln. Wird eine Person in einer Arbeitsschicht in mehreren Betriebspunkten beschäftigt und die Staubbelastung nicht personenbezogen über die gesamte Zeit der Arbeitsschicht gemessen, ist der persönliche Staubbelastungswert als Summe der anteiligen Belastungswerte nach Anlage 6 Nr. 3 zu ermitteln.
 
 (2) Staubgemische, die neben fibrogenen Grubenstäuben Anteile an anhydrit- oder zementhaltigen Baustoffen enthalten, sind wie fibrogene Grubenstäube zu bewerten, sofern sich dadurch die Gefährdung nicht erhöht.
 
-
-## § 9 – Zulässige persönliche Staubbelastungswerte
+# § 9 – Zulässige persönliche Staubbelastungswerte
 
 (1) Der Unternehmer hat sicherzustellen, daß innerhalb eines Beurteilungszeitraumes von zwei Jahren für Personen
 
@@ -159,15 +147,13 @@ auf der Grundlage von 220 Arbeitsschichten im Jahr nicht überschritten wird. Di
 
 (4) Bei Belastung durch fibrogene Grubenstäube bei Tätigkeiten in Betrieben des Steinkohlenbergbaus sind im Hinblick auf diese Belastung ab dem 24. Oktober 2019 ergänzend die Vorgaben der Gefahrstoffverordnung zu beachten, soweit sich hieraus ein höheres Schutzniveau ergibt.
 
-
-## § 10 – Einstufung der Betriebspunkte
+# § 10 – Einstufung der Betriebspunkte
 
 (1) Der Unternehmer hat die Betriebspunkte den in Anlage 7 festgelegten Staubbelastungsstufen zuzuordnen.
 
 (2) In Betriebspunkten, in denen Staubkonzentrationen oberhalb der für die Staubbelastungsstufe 3 geltenden Konzentrationswerte ermittelt werden, dürfen Personen nicht beschäftigt werden. Werden Staubkonzentrationen ab der für die Staubbelastungsstufe 3 zulässigen Werte gemessen, hat der Unternehmer der zuständigen Behörde unverzüglich die Messergebnisse sowie die vorgesehenen technischen und organisatorischen Maßnahmen zur Verringerung der Staubbelastung anzuzeigen.
 
-
-## § 11 – Staubmessungen
+# § 11 – Staubmessungen
 
 (1) Der Unternehmer hat in den Betriebspunkten regelmäßig arbeitsschichtbezogene Staubmessungen auf der Grundlage eines von ihm aufzustellenden Planes durchzuführen. In dem Plan sind insbesondere festzulegen:
 
@@ -201,8 +187,7 @@ Die Verpflichtung nach den Sätzen 1 und 2 sowie Absatz 4 entfällt, wenn Staubm
 
 (5) (weggefallen)
 
-
-## § 12 – Überwachung der staubexponierten Personen
+# § 12 – Überwachung der staubexponierten Personen
 
 (1) Für jede beschäftigte Person hat der Unternehmer
 
@@ -214,23 +199,19 @@ Die Verpflichtung nach den Sätzen 1 und 2 sowie Absatz 4 entfällt, wenn Staubm
 
 (2) Der Unternehmer hat durch technische und organisatorische Maßnahmen darauf hinzuwirken, daß Überschreitungen der auf den Monat bezogenen zulässigen persönlichen Staubbelastungswerte so gering wie möglich gehalten werden. Überschreitungen der zulässigen persönlichen Staubbelastungswerte nach Ablauf eines Kontrollzeitraumes von einem Jahr sind möglichst kurzfristig auszugleichen. Ein Ausgleich außerhalb des Beurteilungszeitraumes nach § 9 Absatz 1 Satz 1 von zwei Jahren ist unzulässig.
 
-
-## § 13 – Maßnahmen bei Belastung durch fibrogene Grubenstäube
+# § 13 – Maßnahmen bei Belastung durch fibrogene Grubenstäube
 
 Bei Belastung durch fibrogene Grubenstäube sind die Vorgaben der Gefahrstoffverordnung zu beachten. Zur Ermittlung von Art und Ausmaß der Belastung durch fibrogene Grubenstäube hat der Unternehmer in untertägigen Betrieben mindestens einmal jährlich Staubmessungen oder Probenahmen durchzuführen. Einzelheiten zum Zeitpunkt und der Durchführung der Staubmessungen und Probenahmen hat der Unternehmer in einem Plan festzulegen. Probenahmen und Messungen darf er nur von Personen durchführen lassen, die nach einem von ihm aufzustellenden Plan theoretisch und praktisch unterwiesen worden sind. Für den Inhalt der Pläne nach den Sätzen 1 und 2 ist § 11 Absatz 1 Satz 2 und Absatz 3 Satz 2 entsprechend anzuwenden.
 
-
-## § 14 – Unterrichtung
+# § 14 – Unterrichtung
 
 Der Unternehmer hat allen in seinem Betrieb tätigen Personen die Vorschriften dieser Verordnung zur Kenntnis zu bringen, soweit sie davon betroffen sind.
 
-
-## § 15 – Übertragung von Pflichten
+# § 15 – Übertragung von Pflichten
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen übertragen. Wurde für eine Tätigkeit eine verantwortliche Person nach den §§ 58 bis 60 des Bundesberggesetzes bestellt, so kann insbesondere auch die Verpflichtung nach § 5 Absatz 1 Satz 1 auf die verantwortliche Person übertragen werden.
 
-
-## § 16 – Behördliche Ausnahmen
+# § 16 – Behördliche Ausnahmen
 
 Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des Unternehmers Ausnahmen von den Vorschriften der §§ 7 bis 13 zulassen, wenn die Anwendung der Vorschriften im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Der Unternehmer hat der zuständigen Behörde im Antrag darzulegen:
 
@@ -242,8 +223,7 @@ Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des U
 
 4. die geplanten Maßnahmen zur Gewährleistung des Gesundheitsschutzes und der Sicherheit der betroffenen Beschäftigten einschließlich der Maßnahmen zur Verringerung oder Vermeidung einer Exposition der Beschäftigten.
 
-
-## § 17 – Ordnungswidrigkeiten
+# § 17 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 145 Absatz 3 Nummer 1 des Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -269,8 +249,7 @@ Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des U
 
 5. entgegen § 11 Absatz 2 Satz 1, auch in Verbindung mit Satz 2, oder § 13 Satz 2 eine dort genannte Messung oder Probenahme nicht, nicht richtig oder nicht rechtzeitig durchführt.
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Bescheinigungen über Eignungsuntersuchungen, die bis zum 23. Oktober 2017 auf Grund der bis zu diesem Tage geltenden Fassung der Verordnung ausgestellt wurden, können unter Beachtung der Fristen nach § 3 Absatz 1 und 2 als Nachweis für die Eignung nach § 2 Absatz 1 weiter verwendet werden.
 
@@ -278,13 +257,11 @@ Die zuständige Behörde kann auf schriftlichen oder elektronischen Antrag des U
 
 (3) Wurde für den Umgang mit Gefahrstoffen oder sonstigen Stoffen unter Tage bis zum 23. Oktober 2017 auf Grund von § 4 Absatz 1 Nummer 2 in der bis zu diesem Tag geltenden Fassung dieser Verordnung eine allgemeine Zulassung erteilt, so ist § 7 für den Umgang mit diesen Stoffen erst ab dem 24. Oktober 2019 anzuwenden, sofern die allgemeine Zulassung nicht vorher abläuft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Absatz 1)Einteilung der Eignungsgruppen
+# Anlage 1 – (zu § 2 Absatz 1)Einteilung der Eignungsgruppen
 
 (Fundstelle: BGBl. I 2017, 3589)
 
@@ -295,13 +272,11 @@ Der Bundesrat hat zugestimmt.
 
 1
 
-2. Die Eignungsgruppen 1, 2 und 4 umfassen bei Tätigkeiten unter Tage auch die folgenden Untergruppen. Die Untergruppen 1.1 bis 1.3 und 2.1 und 2.2 sind nur im untertägigen Steinkohlenbergbau, die Untergruppen 4.1 bis 4.5 sind im untertägigen Steinkohlenbergbau sowie bis zum 24. Oktober 2019 im untertägigen Nichtsteinkohlenbergbau festzustellen, soweit dies zur Kennzeichnung von Staublungenveränderungen erforderlich ist. Die Feststellung der Untergruppen dient als Grundlage für die Feststellung der Rechtsfolgen nach § 9 Absatz 1 und 2 durch den Arzt. Auf der Bescheinigung über die Eignungsuntersuchung für den Unternehmer nach Anlage 4 werden nur die Eignungsgruppen 1 bis 4 sowie die Rechtsfolgen nach § 9 Absatz 1 und 2 und nicht die Untergruppen angegeben.  
-  
+2. Die Eignungsgruppen 1, 2 und 4 umfassen bei Tätigkeiten unter Tage auch die folgenden Untergruppen. Die Untergruppen 1.1 bis 1.3 und 2.1 und 2.2 sind nur im untertägigen Steinkohlenbergbau, die Untergruppen 4.1 bis 4.5 sind im untertägigen Steinkohlenbergbau sowie bis zum 24. Oktober 2019 im untertägigen Nichtsteinkohlenbergbau festzustellen, soweit dies zur Kennzeichnung von Staublungenveränderungen erforderlich ist. Die Feststellung der Untergruppen dient als Grundlage für die Feststellung der Rechtsfolgen nach § 9 Absatz 1 und 2 durch den Arzt. Auf der Bescheinigung über die Eignungsuntersuchung für den Unternehmer nach Anlage 4 werden nur die Eignungsgruppen 1 bis 4 sowie die Rechtsfolgen nach § 9 Absatz 1 und 2 und nicht die Untergruppen angegeben.   
 
 Eignungsgruppen – Untergruppen
 
-
-## Anlage 2 – (zu § 3 Absatz 2)Fristen für Nachuntersuchungen
+# Anlage 2 – (zu § 3 Absatz 2)Fristen für Nachuntersuchungen
 
 (Fundstelle: BGBl. I 2017, 3590)
 
@@ -440,8 +415,7 @@ unverzüglich
 
 Die Frist nach Nummer 1.4 ist ohne Angabe der Eignungs-Untergruppen 4.1 bis 4.5 in der Bescheinigung nach Anlage 4 zu vermerken.
 
-
-## Anlage 3 – (zu § 5 Absatz 3)Untersuchungsrahmen für Eignungsuntersuchungen
+# Anlage 3 – (zu § 5 Absatz 3)Untersuchungsrahmen für Eignungsuntersuchungen
 
 (Fundstelle: BGBl. I 2017, 3591)
 
@@ -548,8 +522,7 @@ Der Untersuchungsrahmen nach den Nummern 1.1 bis 1.5 ist auch anzuwenden, soweit
 
 Für Nachuntersuchungen gilt der Untersuchungsrahmen wie für Erstuntersuchungen, wobei in Abhängigkeit von der Tätigkeit, dem Ergebnis der Erstuntersuchung sowie der Anamnese im Rahmen der Nachuntersuchung nach ärztlichem Urteil von einzelnen Untersuchungsinhalten abgewichen werden kann und insbesondere Blut- und Urinanalysen nur dann erneut durchzuführen sind, wenn sich hierfür aus der Erstuntersuchung oder der Anamnese im Rahmen der Nachuntersuchung nach ärztlichem Urteil ein Bedarf ergibt.
 
-
-## Anlage 4 – (zu § 5 Absatz 4)Ärztliche Bescheinigung über Erst- und Nachuntersuchungen
+# Anlage 4 – (zu § 5 Absatz 4)Ärztliche Bescheinigung über Erst- und Nachuntersuchungen
 
 (Fundstelle: BGBl. I 2017, 3592)
 
@@ -616,11 +589,9 @@ Beurteilung nach anderen Rechtsvorschriften
 
 Bemerkungen (insbesondere Frist nach Anlage 2 Nummer 1.4 sowie kürzere Fristen nach § 3 Absatz 2 Satz 2; bei Tätigkeiten im untertägigen Steinkohlenbergbau gegebenenfalls Angaben zu zulässigen Staubbelastungswerte nach § 9 Absatz 1 Satz 1).
 
+# Anlage 5 – (weggefallen)
 
-## Anlage 5 – (weggefallen)
-
-
-## Anlage 6 – (zu § 5)  Ermittlung der persönlichen Staubbelastungswerte nach § 5 Abs. 1
+# Anlage 6 – (zu § 5)  Ermittlung der persönlichen Staubbelastungswerte nach § 5 Abs. 1
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 1764)
 
@@ -778,8 +749,7 @@ Bei der Ermittlung persönlicher Staubbelastungswerte nach § 5 Abs. 1 Satz 2 is
 
 Für den Fall, daß die Zeitanteile der Aufenthaltsdauer in den einzelnen Einstufungsbereichen in etwa gleich sind, ist der arithmetische Mittelwert zu bilden; für den Fall, daß die Zeitanteile der Aufenthaltsdauer in den einzelnen Einstufungsbereichen mehr als +- 10 Minuten voneinander abweichen, ist eine Wichtung nach Zeitanteilen vorzunehmen.
 
-
-## Anlage 7 – (zu § 7)  Zuordnung der Betriebspunkte zu Staubbelastungsstufen nach § 7 Abs. 1
+# Anlage 7 – (zu § 7)  Zuordnung der Betriebspunkte zu Staubbelastungsstufen nach § 7 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765
 
@@ -822,8 +792,7 @@ Quarzfeinstaubes - C(tief)q(tief) 1 - (k = 1,0) mg/cbm
   
 Für die Zuordnung ist die Konzentration des quarzhaltigen Feinstaubes bei einem Quarzanteil in dem Feinstaubgemisch von kleiner oder gleich 5/k Massen-%, die Konzentration des Quarzfeinstaubes bei einem Quarzanteil in dem Feinstaubgemisch von größer 5/k Massen-% maßgebend. In den Fällen der Anlage 6 Nr. 2.2 oder 2.3 sind die Konzentrationswerte für den Quarzfeinstaub mit dem Faktor 0,7 oder 0,3 umzurechnen.
 
-
-## Anlage 8 – (zu § 8)  Höchstzulässige zeitliche Abstände für Wiederholungsmessungen nach § 8 Abs. 2 Satz 2
+# Anlage 8 – (zu § 8)  Höchstzulässige zeitliche Abstände für Wiederholungsmessungen nach § 8 Abs. 2 Satz 2
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1765;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -883,8 +852,7 @@ bei Verwendung von kontinuierlich den Staub messenden Einrichtungen; dies gilt n
 6  
 in zeitlichen Abständen von drei Jahren in Betriebspunkten nach Nummer 3, wenn der Unternehmer jeweils halbjährlich ermittelt und dokumentiert, dass aufgrund der betrieblichen Rahmenbedingungen die Staubsituation unverändert geblieben ist.
 
-
-## Anlage 9 – (zu § 9)  Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1 Satz 1 Nr. 2
+# Anlage 9 – (zu § 9)  Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1 Satz 1 Nr. 2
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1766
 

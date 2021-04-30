@@ -1,30 +1,23 @@
-# [MedFAngAusbV] Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten
-
-Ausfertigungsdatum: 26.04.2006
-
+% Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten
+% Ausfertigungsdatum: 26.04.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) und in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Medizinischer Fachangestellter/Medizinische Fachangestellte wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -126,23 +119,19 @@ Umgang mit Arzneimitteln, Sera und Impfstoffen sowie Heil- und Hilfsmitteln;
 
 10. Handeln bei Not- und Zwischenfällen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten, Kenntnisse und Fähigkeiten (Ausbildungsberufsbild) sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Schriftlicher Ausbildungsnachweis
+# § 7 – Schriftlicher Ausbildungsnachweis
 
 Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -160,8 +149,7 @@ Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihn
 
 5. Untersuchungen und Behandlungen vorbereiten.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -249,18 +237,15 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">20 Prozent.</td>
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens zwei Prüfungsbereichen mindestens ausreichende Prüfungsleistungen erbracht sind. Werden die Prüfungsleistungen in einem Prüfungsbereich mit ungenügend bewertet, ist die Prüfung nicht bestanden.
 
-
-## § 10 – Fortsetzung der Berufsausbildung
+# § 10 – Fortsetzung der Berufsausbildung
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
-
-## Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten- Sachliche Gliederung -
+# Anlage 1 – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten- Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1100 - 1105)
 
@@ -304,8 +289,7 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 (§ 4 Nr. 9)</td><td style="text-align: center;"><dl><dt>a)</dt><dd>über Ziele von Gesundheitsvorsorge und Früherkennung von Krankheiten im Zusammenhang mit gesundheitlichen Versorgungsstrukturen informieren</dd><dt>b)</dt><dd>Patienten und Patientinnen zu einer gesunden Lebensweise motivieren</dd><dt>c)</dt><dd>Ursachen und Entstehung von Gesundheitsstörungen und die dazugehörigen Präventionsmaßnahmen erläutern</dd><dt>d)</dt><dd>Patienten und Patientinnen zur Inanspruchnahme von Früherkennungsmaßnahmen motivieren</dd><dt>e)</dt><dd>über Möglichkeiten der aktiven und passiven Immunisierung informieren; Impfpass führen; beim Impfmanagement mitwirken</dd><dt>f)</dt><dd>Patienten und Patientinnen zur Inanspruchnahme von Impfmaßnahmen motivieren</dd><dt>g)</dt><dd>Ziele und Möglichkeiten der medizinischen Rehabilitation unter Berücksichtigung der gesetzlichen Vorgaben erläutern; bei Beantragung von Rehabilitationsmaßnahmen mitwirken</dd><dt>h)</dt><dd>über Selbsthilfegruppen und ihre Aufgaben informieren</dd></dl></td></tr><tr class="even"><td>10</td><td style="text-align: center;">Handeln bei Not- und Zwischenfällen<br />
 (§ 4 Nr. 10)</td><td style="text-align: center;"><dl><dt>a)</dt><dd>Maßnahmen zur Vermeidung von Not- und Zwischenfällen ergreifen</dd><dt>b)</dt><dd>Verhaltensregeln bei Notfällen im Ausbildungsbetrieb einhalten</dd><dt>c)</dt><dd>bedrohliche Zustände, insbesondere Schock, Atem- und Herzstillstand, Bewusstlosigkeit, starke Blutungen und Allergien, erkennen und Sofortmaßnahmen veranlassen</dd><dt>d)</dt><dd>Erste-Hilfe-Maßnahmen durchführen</dd><dt>e)</dt><dd>bei Not- und Zwischenfällen assistieren</dd><dt>f)</dt><dd>Notfallausstattung kontrollieren und auffüllen; Geräte handhaben, warten und pflegen</dd></dl></td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten  - Zeitliche Gliederung -
+# Anlage 2 – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten  - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1106 - 1108)
 

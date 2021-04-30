@@ -1,35 +1,27 @@
-# [EuRHiCHEÜbkErgVtrG] Gesetz zu dem Vertrag vom 13. November 1969 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung
-
-Ausfertigungsdatum: 20.08.1975
-
+% Gesetz zu dem Vertrag vom 13. November 1969 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung
+% Ausfertigungsdatum: 20.08.1975
  
-
-## Art 1
+# Art 1
 
 Dem in Bonn am 13. November 1969 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 \-
 
-
-## Art 3
+# Art 3
 
 Das Grundrecht der Freiheit der Person (Artikel 2 Abs. 2 des Grundgesetzes) wird nach Maßgabe des Artikels V des Vertrags eingeschränkt.
 
-
-## Art 4
+# Art 4
 
 Rechtshilfeersuchen schweizerischer Behörden, denen eine Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre, werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
-
-## Art 5
+# Art 5
 
 Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne des Artikels IX des Vertrags nur insoweit befugt, als sie nach innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen können.
 
-
-## Art 6
+# Art 6
 
 (1) Ordnungswidrig handelt, wer in der Schweiz vorsätzlich oder fahrlässig eine Zuwiderhandlung im Straßenverkehr begeht, die dort mit Strafe, Geldbuße oder einer sonstigen Sanktion bedroht ist und die unter Berücksichtigung der am Begehungsort geltenden Verkehrsregeln nach deutschem Recht als Ordnungswidrigkeit zu beurteilen wäre, wenn sie im Geltungsbereich dieses Gesetzes begangen worden wäre. Die Verfolgung ist jedoch nur zulässig, wenn
 
@@ -43,13 +35,11 @@ b) im Geltungsbereich dieses Gesetzes seinen gewöhnlichen Aufenthalt hat und
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
-## Art 7
+# Art 7
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 8
+# Art 8
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 6 am Tage nach seiner Verkündung in Kraft. Die Artikel 2 bis 6 treten zusammen mit dem Vertrag in Kraft.
 

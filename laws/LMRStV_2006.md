@@ -1,10 +1,7 @@
-# [LMRStV 2006] Verordnung zur Durchsetzung lebensmittelrechtlicher Rechtsakte der Europäischen Gemeinschaft  (Lebensmittelrechtliche Straf- und Bußgeldverordnung)
-
-Ausfertigungsdatum: 19.09.2006
-
+% Verordnung zur Durchsetzung lebensmittelrechtlicher Rechtsakte der Europäischen Gemeinschaft  (Lebensmittelrechtliche Straf- und Bußgeldverordnung)
+% Ausfertigungsdatum: 19.09.2006
  
-
-## § 1 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
+# § 1 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 999/2001 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 19.09.2006
 
 2. entgegen Anhang V Nummer 11.3 Satz 1 in Verbindung mit Satz 2 Buchstabe a oder b ein Kontrollsystem für die Entfernung der Wirbelsäule nicht oder nicht richtig einrichtet.
 
-
-## § 2 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 852/2004
+# § 2 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 852/2004
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Verordnung (EG) Nr. 852/2004 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -51,8 +47,7 @@ d) Nummer 5 einen Transportbehälter oder einen Container nicht, nicht richtig o
 
 8. entgegen Artikel 4 Absatz 2 in Verbindung mit Anhang II Kapitel IX Nummer 2 oder 8 einen Rohstoff, eine Zutat oder einen dort genannten Stoff nicht richtig lagert.
 
-
-## § 3 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 853/2004
+# § 3 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 853/2004
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 853/2004 verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang III
 
@@ -76,8 +71,7 @@ f) Kapitel IX Nummer 3 Satz 1 Kammmuscheln für den menschlichen Verzehr in den 
 
 4. Abschnitt VIII Kapitel III Teil D Nummer 1 in Verbindung mit Nummer 2 nicht sicherstellt, dass ein Rohstoff oder ein Enderzeugnis einer dort genannten Gefrierbehandlung unterzogen wird,
 
-4a.  
-Abschnitt VIII Kapitel IV Teil B Nummer 1 Satz 1
+4a. Abschnitt VIII Kapitel IV Teil B Nummer 1 Satz 1
 
 a) Buchstabe a nicht sicherstellt, dass ein Rohstoff von einem dort genannten Betrieb oder Fischereifahrzeug stammt, oder
 
@@ -133,8 +127,7 @@ b) Nummer 5 Satz 1 eine Information nicht, nicht richtig oder nicht rechtzeitig 
 
 c) Nummer 6 Satz 1 den amtlichen Tierarzt nicht oder nicht rechtzeitig in Kenntnis setzt,
 
-1a.  
-entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang II Abschnitt IV Nummer 2 nicht dafür sorgt, dass der zuständigen Behörde eine dort genannte Information zur Verfügung gestellt wird,
+1a. entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang II Abschnitt IV Nummer 2 nicht dafür sorgt, dass der zuständigen Behörde eine dort genannte Information zur Verfügung gestellt wird,
 
 2. entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang III Abschnitt I
 
@@ -272,25 +265,21 @@ e) Kapitel II Teil III Nummer 7 Satz 2 Flüssigei vor der Verarbeitung länger a
 
 2. entgegen Artikel 5 Absatz 3, auch in Verbindung mit Artikel 5 Nummer 2 Satz 1 in Verbindung mit Anhang I Abschnitt I Kapitel III Nummer 2 bis 5 und 7 der Verordnung (EG) Nr. 854/2004, ein Genusstauglichkeitskennzeichen entfernt.
 
-
-## § 4 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 854/2004
+# § 4 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 854/2004
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach Artikel 8 in Verbindung mit Anhang IV Kapitel II Nummer 2 Satz 1 der Verordnung (EG) Nr. 854/2004 zuwiderhandelt.
 
-
-## § 5 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2073/2005
+# § 5 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2073/2005
 
 (1) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 7 Absatz 3 der Verordnung (EG) Nr. 2073/2005 eine Partie Separatorenfleisch verwendet.
 
 (2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 7 Absatz 1 Unterabsatz 1 in Verbindung mit Absatz 2 Satz 1 der Verordnung (EG) Nr. 2073/2005 ein Erzeugnis oder eine Partie Lebensmittel nicht oder nicht rechtzeitig vom Markt nimmt oder nicht oder nicht rechtzeitig zurückruft.
 
-
-## § 6 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2074/2005
+# § 6 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2074/2005
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Anhang II Abschnitt I Kapitel II Nummer 1 Satz 3 in Verbindung mit Satz 4 oder Nummer 2 Satz 1 der Verordnung (EG) Nr. 2074/2005 Fisch oder Fischfilets nicht, nicht richtig oder nicht rechtzeitig einer Sichtkontrolle unterzieht.
 
-
-## § 7 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 124/2009
+# § 7 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 124/2009
 
 Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG) Nr. 124/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -298,30 +287,25 @@ Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und Futtermittelg
 
 2. entgegen Artikel 1 Absatz 1 Unterabsatz 3 ein Lebensmittel mit einem anderen Lebensmittel vermischt.
 
-
-## § 8 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 669/2009
+# § 8 – Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 669/2009
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 6 Unterabsatz 2 der Verordnung (EG) Nr. 669/2009 als Lebensmittelunternehmer oder als sein Vertreter das dort genannte Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 9 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 931/2011
+# § 9 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 931/2011
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 1 in Verbindung mit Absatz 3 Unterabsatz 2 Satz 1 der Verordnung (EU) Nr. 931/2011 nicht sicherstellt, dass der zuständigen Behörde eine dort genannte Information zur Verfügung gestellt wird.
 
-
-## § 10 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 208/2013
+# § 10 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 208/2013
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 3 Absatz 4 der Durchführungsverordnung (EU) Nr. 208/2013 der zuständigen Behörde eine dort genannte Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung stellt.
 
-
-## § 11 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 609/2013
+# § 11 – Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 609/2013
 
 (1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 in Verbindung mit Artikel 10 Absatz 1 der Verordnung (EU) Nr. 609/2013 Säuglingsanfangsnahrung oder Folgenahrung in Verkehr bringt, die einer dort genannten Anforderung an die Kennzeichnung oder Aufmachung nicht entspricht.
 
 (2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 2 der Verordnung (EU) Nr. 609/2013 ein Lebensmittel in einer anderen als der dort genannten Form im Einzelhandel vertreibt.
 
-
-## § 12 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 884/2014
+# § 12 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 884/2014
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die Durchführungsverordnung (EU) Nr. 884/2014 verstößt, indem er als Lebensmittelunternehmer oder als sein Vertreter vorsätzlich oder fahrlässig
 
@@ -329,25 +313,21 @@ Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel
 
 2. entgegen Artikel 7 Absatz 4 Satz 1 in Verbindung mit Satz 2 die zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig informiert.
 
-
-## § 13 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 885/2014
+# § 13 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 885/2014
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 7 Absatz 2 der Durchführungsverordnung (EU) Nr. 885/2014 das dort genannte Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 14 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/175
+# § 14 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/175
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 7 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2015/175 als Lebensmittelunternehmer oder als sein Vertreter das dort genannte Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 15 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/943
+# § 15 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/943
 
 (1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 2 der Durchführungsverordnung (EU) 2015/943 ein dort genanntes Lebensmittel einführt.
 
 (2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und Futtermittelgesetzbuches ordnungswidrig.
 
-
-## § 16 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/1375
+# § 16 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/1375
 
 (1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 13 Absatz 1 der Durchführungsverordnung (EU) 2015/1375 Fleisch einführt.
 
@@ -355,26 +335,21 @@ Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel
 
 (3) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 2 Absatz 3 Unterabsatz 1 der Durchführungsverordnung (EU) 2015/1375 einen Schlachtkörper zerlegt.
 
-
-## § 17 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2016/6
+# § 17 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2016/6
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 9 Absatz 2 Satz 2 der Durchführungsverordnung (EU) 2016/6 als Lebensmittelunternehmer oder als sein Vertreter ein dort genanntes Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 18 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2017/186
+# § 18 – Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2017/186
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 7 Absatz 2 der Durchführungsverordnung (EU) 2017/186 das dort genannte Dokument nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
-
-## § 19 – Verweisungen auf Vorschriften der Europäischen Gemeinschaft
+# § 19 – Verweisungen auf Vorschriften der Europäischen Gemeinschaft
 
 Verweisungen in dieser Verordnung auf Rechtsakte der Europäischen Gemeinschaft beziehen sich auf die in der Anlage jeweils angegebene Fassung.
 
+# § 20 – (Inkrafttreten; Außerkrafttreten)
 
-## § 20 – (Inkrafttreten; Außerkrafttreten)
-
-
-## Anlage – (zu § 19)Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+# Anlage – (zu § 19)Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
 
 (Fundstelle: BGBl. I 2017, 1177 – 1178)
 

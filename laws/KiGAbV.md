@@ -1,15 +1,11 @@
-# [KiGAbV] Verordnung über den automatisierten Abruf von Kindergelddaten durch die Bezügestellen des öffentlichen Dienstes  (Kindergelddaten-Abrufverordnung - KiGAbV)
-
-Ausfertigungsdatum: 24.04.2018
-
+% Verordnung über den automatisierten Abruf von Kindergelddaten durch die Bezügestellen des öffentlichen Dienstes  (Kindergelddaten-Abrufverordnung - KiGAbV)
+% Ausfertigungsdatum: 24.04.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 68 Absatz 4 Satz 2 des Einkommensteuergesetzes, der durch Artikel 1 Nummer 1 des Gesetzes vom 8. Dezember 2016 (BGBl. I S. 2835) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für den automatisierten Abruf von Daten, die
 
@@ -19,8 +15,7 @@ Diese Verordnung gilt für den automatisierten Abruf von Daten, die
 
 durch Bezügestellen des öffentlichen Dienstes (§ 40 Absatz 7 in Verbindung mit Absatz 6 des Bundesbesoldungsgesetzes).
 
-
-## § 2 – Abrufberechtigung
+# § 2 – Abrufberechtigung
 
 (1) Die Erteilung einer Abrufberechtigung kommt in Betracht für Personen als Beschäftigte der in § 1 genannten Bezügestellen, sofern Bestandteile der Bezüge davon abhängen, dass
 
@@ -34,8 +29,7 @@ durch Bezügestellen des öffentlichen Dienstes (§ 40 Absatz 7 in Verbindung mi
 
 (4) Unzulässig ist ein Abruf von Kindergelddaten für die Entscheidung über die Bewilligung oder Ablehnung von Beihilfe nach der Bundesbeihilfeverordnung oder für die Festsetzung von Beihilfe nach entsprechenden Vorschriften der Länder.
 
-
-## § 3 – Verfahren des Datenabrufs
+# § 3 – Verfahren des Datenabrufs
 
 (1) Personen, denen eine Abrufberechtigung nach § 2 Absatz 1 erteilt worden ist, haben sich bei der Familienkasse der Bundesagentur für Arbeit einmalig zu registrieren und bei jedem Datenabruf gegenüber der Familienkasse zu authentisieren. Ein Datenabruf erfolgt nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung. Das Bundesministerium der Finanzen gibt den amtlich vorgeschriebenen Datensatz im Bundessteuerblatt bekannt.
 
@@ -59,13 +53,11 @@ Die Familienkasse der Bundesagentur für Arbeit stellt den ergänzten Datensatz 
 
 (4) Die technischen Maßnahmen und organisatorischen Einrichtungen für den Datenabruf stellt jede am automatisierten Abrufverfahren beteiligte Stelle für ihren Bereich bereit.
 
-
-## § 4 – Prüfungs- und Dokumentationspflichten
+# § 4 – Prüfungs- und Dokumentationspflichten
 
 Zur Wahrung des Steuergeheimnisses und zur Sicherstellung von Datenschutz und Datensicherheit beim Abrufverfahren sind § 2 Absatz 1, § 5 Absatz 1 und die §§ 6 bis 8 der Steuerdaten-Abrufverordnung vom 13. Oktober 2005 (BGBl. I S. 3021), die durch Artikel 3 der Verordnung vom 12. Juli 2017 (BGBl. I S. 2360) geändert worden ist, in der jeweils geltenden Fassung entsprechend anzuwenden.
 
-
-## § 5 – Mitteilungspflichten
+# § 5 – Mitteilungspflichten
 
 Die am automatisierten Abrufverfahren beteiligte Stelle informiert die zuständige Familienkasse der Bundesagentur für Arbeit, wenn
 
@@ -73,7 +65,6 @@ Die am automatisierten Abrufverfahren beteiligte Stelle informiert die zuständi
 
 2. ein Dienst- oder Arbeitsverhältnis neu begründet wird und auf Grund dieses Dienst- oder Arbeitsverhältnisses ein Anspruch auf kindergeldabhängige Leistungen des Besoldungs- oder Tarifrechts entsteht.
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2018 in Kraft. § 3 Absatz 5 tritt am 25. Mai 2018 außer Kraft.

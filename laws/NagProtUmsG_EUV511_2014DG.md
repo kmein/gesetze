@@ -1,10 +1,7 @@
-# [NagProtUmsG/EUV511/2014DG] Gesetz zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014
-
-Ausfertigungsdatum: 25.11.2015
-
+% Gesetz zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014
+% Ausfertigungsdatum: 25.11.2015
  
-
-## § 1 – Aufgaben und Befugnisse
+# § 1 – Aufgaben und Befugnisse
 
 (1) Der zuständigen Behörde nach § 6 Absatz 1 obliegt die Durchführung dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, der Verordnung (EU) Nr. 511/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über Maßnahmen für die Nutzer zur Einhaltung der Vorschriften des Protokolls von Nagoya über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile in der Union (ABl. L 150 vom 20.5.2014, S. 59) sowie der Durchführungsrechtsakte, die auf Grund von Artikel 5 Absatz 5, Artikel 7 Absatz 6 und Artikel 8 Absatz 7 der Verordnung (EU) Nr. 511/2014 erlassen werden.
 
@@ -24,8 +21,7 @@ Die zur Auskunft verpflichteten Nutzer haben die beauftragten Personen bei der D
 
 (5) Geschäfts- und Betriebsgeheimnisse sind vertraulich zu behandeln.
 
-
-## § 2 – Anordnungen und Abhilfemaßnahmen
+# § 2 – Anordnungen und Abhilfemaßnahmen
 
 (1) Die zuständige Behörde trifft die erforderlichen Anordnungen zur Beseitigung von Verstößen gegen die in § 1 Absatz 1 bezeichneten Rechtsakte.
 
@@ -35,8 +31,7 @@ Die zur Auskunft verpflichteten Nutzer haben die beauftragten Personen bei der D
 
 (4) Bei der Beschlagnahme von Tieren sind die allgemeinen Vorschriften zum Arten- und Tierschutz zu beachten.
 
-
-## § 3 – Ermächtigung zum Erlass von Rechtsverordnungen
+# § 3 – Ermächtigung zum Erlass von Rechtsverordnungen
 
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit dem Bundesministerium für Gesundheit, dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Bildung und Forschung und dem Bundesministerium für Wirtschaft und Energie Einzelheiten des Vollzugs näher zu regeln, soweit dies zur Durchführung der Verordnung (EU) Nr. 511/2014 sowie der Durchführungsrechtsakte, die auf Grund von Artikel 5 Absatz 5, Artikel 7 Absatz 6 und Artikel 8 Absatz 7 der Verordnung (EU) Nr. 511/2014 erlassen werden, erforderlich ist. Es kann dabei insbesondere regeln:
 
@@ -46,8 +41,7 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 3. die Einzelheiten der Erklärungspflicht nach Artikel 7 Absatz 2 der Verordnung (EU) Nr. 511/2014.
 
-
-## § 4 – Bußgeldvorschriften
+# § 4 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -73,13 +67,11 @@ Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird erm�
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Naturschutz.
 
-
-## § 5 – Einziehung
+# § 5 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 4 begangen worden, so können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 6 – Zuständigkeiten
+# § 6 – Zuständigkeiten
 
 (1) Zuständige Behörde im Sinne dieses Gesetzes und des Artikels 6 Absatz 1 der Verordnung (EU) Nr. 511/2014 ist das Bundesamt für Naturschutz. Es ist insbesondere für den Vollzug des Artikels 5 Absatz 2 und 4, der Artikel 7, 9 Absatz 1, 3, 4 und 6, der Artikel 10 und 12 der Verordnung (EU) Nr. 511/2014 sowie für den Vollzug der auf Grund der Verordnung (EU) Nr. 511/2014 erlassenen Durchführungsrechtsakte zuständig. Es ist zugleich zuständige nationale Behörde im Sinne von Artikel 13 Absatz 2 des Nagoya-Protokolls vom 29. Oktober 2010 (BGBl. 2015 II S. 1481, 1483). Es ist weiterhin zuständig für die Verwertung der nach § 2 Absatz 3 eingezogenen genetischen Ressourcen.
 
@@ -89,7 +81,6 @@ Ist eine Ordnungswidrigkeit nach § 4 begangen worden, so können Gegenstände, 
 
 (4) Nationale Anlaufstelle gemäß Artikel 13 Absatz 1 des Nagoya-Protokolls ist das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit. Es ist insbesondere zuständig für die Berichtspflicht nach Artikel 16 der Verordnung (EU) Nr. 511/2014.
 
-
-## § 7 – Aufwendungen
+# § 7 – Aufwendungen
 
 Die bei der Erfüllung von Auskunfts- und Mitwirkungspflichten im Rahmen der Kontrollen, der Erklärungspflichten sowie der Aufnahmeverfahren in das Sammlungsregister nach Artikel 5 der Verordnung (EU) Nr. 511/2014 entstehenden eigenen Aufwendungen sind nicht zu erstatten.

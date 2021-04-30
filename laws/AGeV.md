@@ -1,10 +1,7 @@
-# [AGeV] Verordnung über bestimmte alkoholhaltige Getränke  (Alkoholhaltige Getränke-Verordnung - AGeV)
-
-Ausfertigungsdatum: 29.01.1998
-
+% Verordnung über bestimmte alkoholhaltige Getränke  (Alkoholhaltige Getränke-Verordnung - AGeV)
+% Ausfertigungsdatum: 29.01.1998
  
-
-## § 1 – Weinbrand oder Brandy
+# § 1 – Weinbrand oder Brandy
 
 (1) Bei der gewerbsmäßigen Herstellung von Weinbrand oder Brandy im Sinne des Anhangs II Nummer 5 der Verordnung (EG) Nr. 110/2008 des Europäischen Parlaments und des Rates vom 15. Januar 2008 zur Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen und zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. L 39 vom 13.2.2008, S. 16) dürfen im Einklang mit Anhang II Nummer 5 Buchstabe d Satz 2 der Verordnung (EG) Nr. 110/2008 zur Abrundung der Geschmacks- und Geruchsmerkmale Auszüge verwendet werden. Diese Auszüge werden
 
@@ -18,8 +15,7 @@ wobei das zur Herstellung verwendete Weindestillat zu weniger als 94,8 Volumenpr
 
 (3) Weinbrand oder Brandy, bei dem andere als nach Absatz 1 Satz 2 in Verbindung mit Absatz 2 zulässige Stoffe verwendet worden sind, darf gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-
-## § 2 – Deutscher Weinbrand
+# § 2 – Deutscher Weinbrand
 
 Eine Spirituose im Sinne des Anhangs II Nr. 5 der Verordnung (EG) Nr. 110/2008 darf unter der Verkehrsbezeichnung "Deutscher Weinbrand" gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
@@ -41,13 +37,11 @@ Eine Spirituose im Sinne des Anhangs II Nr. 5 der Verordnung (EG) Nr. 110/2008 d
 
 9. das Behältnis mit einer nach dem Verfahren der §§ 4 und 5 erteilten Prüfungsnummer versehen ist, die von der jeweils nach Landesrecht zuständigen Stelle (zuständige Stelle) vergeben wird.
 
-
-## § 3 – Hinweise auf das Alter
+# § 3 – Hinweise auf das Alter
 
 Es ist verboten, Weinbrand oder Brandy mit Hinweisen auf das Alter in den Verkehr zu bringen oder bei diesem Erzeugnis mit solchen Hinweisen zu werben, wenn das Erzeugnis oder das zu seiner Herstellung verwendete Destillat weniger als zwölf Monate in Eichenholzfässern gereift ist. Satz 1 gilt entsprechend für Deutschen Weinbrand.
 
-
-## § 4 – Antrag auf Erteilung einer Prüfungsnummer
+# § 4 – Antrag auf Erteilung einer Prüfungsnummer
 
 (1) Eine Prüfungsnummer (§ 5 Abs. 3 Satz 2) kann beantragen, wer Deutschen Weinbrand gemäß § 2 herstellt oder abfüllt oder in wessen Auftrag er hergestellt oder abgefüllt wird. Der Antrag ist der zuständigen Stelle auf einem Formblatt einzureichen, das die in Anlage 1 aufgeführten Angaben enthält. Dem Antrag ist unentgeltlich eine Probe von drei Flaschen beizufügen. Die zuständige Stelle kann, soweit die Probe von drei Flaschen zur Beurteilung des Deutschen Weinbrands nicht ausreicht, weitere unentgeltliche Proben anfordern oder entnehmen lassen. Der Antrag ist mit einer fortlaufenden Nummer zu versehen (Antragsnummer). Die fortlaufende Zählung der Antragsnummern endet mit dem Kalenderjahr. Auf Antrag kann die zuständige Behörde von der fortlaufenden Zählung der Antragsnummern absehen, wenn hierfür ein dringendes Bedürfnis nachgewiesen wird und eine einwandfreie Kontrolle gewährleistet ist.
 
@@ -59,8 +53,7 @@ Es ist verboten, Weinbrand oder Brandy mit Hinweisen auf das Alter in den Verkeh
 
 (5) Die Prüfungsnummer gilt für ein Jahr. Erfährt der Deutsche Weinbrand vor Ablauf dieser Frist eine wesentliche Änderung seiner Qualität oder Geschmacksprägung, so bedarf es erneut der Zuteilung einer Prüfungsnummer.
 
-
-## § 5 – Prüfungsverfahren
+# § 5 – Prüfungsverfahren
 
 (1) Mit dem Antrag auf Erteilung einer Prüfungsnummer ist unbeschadet des § 4 Abs. 2 von dem abgefüllten Erzeugnis ein Untersuchungsbefund einer von der zuständigen Stelle zugelassenen Untersuchungseinrichtung vorzulegen, sofern die zuständige Stelle nicht selbst den Untersuchungsbefund erstellt. Der Untersuchungsbefund muß folgende Angaben enthalten:
 
@@ -96,20 +89,17 @@ Auf Antrag können einem Betrieb mehrere Betriebsnummern zugeteilt werden. Der P
 
 (5) Ein Doppel des Untersuchungsbefundes nach Absatz 1 ist von der Einrichtung, die die Untersuchung durchgeführt hat, fünf Jahre nach seiner Erstellung aufzubewahren.
 
-
-## § 6 – Angabe der Prüfungsnummer
+# § 6 – Angabe der Prüfungsnummer
 
 (1) Der Prüfungsnummer ist die Angabe "Amtliche Prüfungsnummer" voranzustellen. An Stelle dieser Angabe kann die Kurzform "A.P.Nr." gebraucht werden.
 
 (2) Die Prüfungsnummer und die Angabe nach Absatz 1 sind auf den zur Abgabe an den Verbraucher bestimmten Behältnissen oder auf einem mit ihnen verbundenen Etikett an gut sichtbarer Stelle, deutlich lesbar und unverwischbar anzubringen. Dem Verbraucher nach Satz 1 stehen Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie Deutschen Weinbrand zum Verbrauch innerhalb ihrer Betriebsstätte beziehen, gleich.
 
-
-## § 7 – (weggefallen)
+# § 7 – (weggefallen)
 
 \-
 
-
-## § 8 – Zuckerung von bestimmten Spirituosen
+# § 8 – Zuckerung von bestimmten Spirituosen
 
 (1) Bei der gewerbsmäßigen Herstellung von
 
@@ -127,8 +117,7 @@ dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen Stoffe hinau
 
 (3) In Absatz 1 genannte Spirituosen, die entgegen Absatz 1 mit anderen als den dort genannten Zuckerarten oder mit Zuckerarten über die festgesetzte Höchstmenge hinaus hergestellt worden sind oder bei deren Herstellung entgegen Absatz 2 Zucker verwendet worden ist, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-
-## § 9 – Spirituosen mit geographischen Angaben
+# § 9 – Spirituosen mit geographischen Angaben
 
 (1) Die in Anlage 4 aufgeführten Spirituosen dürfen gewerbsmäßig unter den dort in Spalte 2 aufgeführten Verkehrsbezeichnungen nur in den Verkehr gebracht werden, wenn sie zusätzlich zu den für ihre Produktkategorie in Anhang II der Verordnung (EG) Nr. 110/2008 genannten Anforderungen die in Spalte 3 festgesetzten Voraussetzungen erfüllen.
 
@@ -136,8 +125,7 @@ dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen Stoffe hinau
 
 (3) Soweit ein Obstbrand im Sinne des Anhangs II Nummer 9 der Verordnung (EG) Nr. 110/2008 oder ein Geist im Sinne des Anhangs II Nummer 17 der Verordnung (EG) Nr. 110/2008 in einer Region oder in einem Ort hergestellt wird, die oder der zu einem in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 genannten Gebiet gehört, darf der Name dieser Region oder dieses Ortes ergänzend zur Verkehrsbezeichnung nach Anhang II Nummer 9 Buchstabe f oder g oder Nummer 17 der Verordnung (EG) Nr. 110/2008 verwendet werden, wenn zusätzlich zu den Anforderungen an die Produktkategorie nach Anhang II der Verordnung (EG) Nr. 110/2008 der Obstbrand oder Geist in der jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt ist, die aus der jeweiligen Region oder dem jeweiligen Ort stammen, und den in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 festgesetzten Mindestalkoholgehalt aufweist.
 
-
-## § 9a – Korn oder Kornbrand
+# § 9a – Korn oder Kornbrand
 
 (1) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG) Nr. 110/2008 darf unter der in Anhang III Nr. 3 der Verordnung (EG) Nr. 110/2008 aufgeführten Verkehrsbezeichnung „Korn“ oder „Kornbrand“ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
@@ -187,8 +175,7 @@ beträgt und
 
 4. die in Anlage 4 Spalte 3 jeweils festgelegten Voraussetzungen eingehalten sind.
 
-
-## § 10 – Begriffsbestimmungen
+# § 10 – Begriffsbestimmungen
 
 (1) Weinähnliche Getränke sind alkoholhaltige Getränke, die durch teilweise oder vollständige alkoholische Gärung aus Fruchtsaft, Fruchtmark, jeweils auch in konzentrierter Form, oder Maische von frischen oder mit Kälte haltbar gemachten Früchten, auch in Mischung miteinander, oder aus frischen oder mit Kälte haltbar gemachten Rhabarberstängeln, aus Malzauszügen oder aus Honig sowie im Übrigen nach Maßgabe der Verkehrsauffassung hergestellt werden.
 
@@ -206,15 +193,13 @@ beträgt und
 
 (8) In den Absätzen 1 bis 4 bezeichnete Getränke, bei denen nach Absatz 5 nicht zulässige Erzeugnisse des Weinbaus verwendet worden sind, dürfen gewerbsmäßig nicht in den Verkehr gebracht werden.
 
-
-## § 11 – Kennzeichnung
+# § 11 – Kennzeichnung
 
 (1) Die in § 10 Abs. 1 bis 4 und 7 bezeichneten Getränke dürfen als "...Wein" nur in solchen Wortverbindungen in den Verkehr gebracht werden, die die in § 10 Abs. 1 aufgeführten Ausgangsstoffe kennzeichnen, aus denen sie hergestellt sind. Bei der Verwendung von aus Früchten herrührenden Zutaten sind die Namen der Früchte anzugeben. An Stelle der Namen der Früchte können auch andere entsprechende Bezeichnungen wie insbesondere Gattungsbezeichnungen verwendet werden. Bei den in § 10 Abs. 2 oder 3 genannten Getränken ist die Verwendung nicht aus der Gärung stammender Kohlensäure in Verbindung mit der Bezeichnung des Lebensmittels kenntlich zu machen. Diese Angabe kann entfallen, wenn auf der Fertigpackung ein Verzeichnis der Zutaten im Sinne der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der jeweils geltenden Fassung angegeben ist. Anhang VII Teil II Nummer 1 Unterabsatz 6 der Verordnung (EU) Nr. 1308/2013 bleibt unberührt.
 
 (2) Soweit die in § 10 Absatz 3 bezeichneten Getränke die Anforderungen nach Absatz 1 erfüllen, dürfen sie als „…-Schaumwein“ in der in Artikel 69 Absatz 1 der Verordnung (EG) Nr. 607/2009 der Kommission vom 14. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2009 des Rates hinsichtlich der geschützten Ursprungsbezeichnungen und geografischen Angaben, der traditionellen Begriffe sowie der Kennzeichnung und Aufmachung bestimmter Weinbauerzeugnisse (ABl. L 193 vom 24.7.2009, S. 60) in der jeweils geltenden Fassung bezeichneten Aufmachung in Verkehr gebracht werden.
 
-
-## § 12 – Straftaten
+# § 12 – Straftaten
 
 Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft,
 
@@ -232,13 +217,11 @@ gewerbsmäßig in den Verkehr bringt oder
 
 2. wer entgegen § 3 Satz 1, auch in Verbindung mit § 3 Satz 2, Weinbrand, Brandy oder Deutschen Weinbrand mit Hinweisen auf das Alter gewerbsmäßig in den Verkehr bringt oder gewerbsmäßig mit solchen Hinweisen wirbt.
 
-
-## § 13 – Ordnungswidrigkeiten
+# § 13 – Ordnungswidrigkeiten
 
 Ordnungswidrig nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches handelt, wer eine in § 12 bezeichnete Handlung fahrlässig begeht.
 
-
-## § 14 – Übergangsbestimmungen
+# § 14 – Übergangsbestimmungen
 
 (1) Bis zum 1. Januar 2005 dürfen Spirituosen im Sinne des § 2, die den Vorschriften dieser Verordnung nicht entsprechen, nach den bis zum 14. Juli 2003 geltenden Vorschriften hergestellt, gekennzeichnet und bis zum Abbau der Vorräte in den Verkehr gebracht werden.
 
@@ -246,13 +229,11 @@ Ordnungswidrig nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 
 
 (3) Abweichend von § 9 Absatz 3 dürfen Spirituosen bis zum 31. Dezember 2012 nach den bis zum Ablauf des 31. März 2011 geltenden Vorschriften gekennzeichnet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
-
-## § 15 – (Inkrafttreten)
+# § 15 – (Inkrafttreten)
 
 \-
 
-
-## Anlage 1 – (zu § 4 Abs. 1)Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
+# Anlage 1 – (zu § 4 Abs. 1)Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1260)
 
@@ -302,8 +283,7 @@ Ordnungswidrig nach § 60 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 
     .................................      .................................
     (Ort, Datum)                           (Unterschrift des Antragstellers) 
 
-
-## Anlage 2 – (zu § 5 Abs. 2)  Bewertungsschema für Deutschen Weinbrand
+# Anlage 2 – (zu § 5 Abs. 2)  Bewertungsschema für Deutschen Weinbrand
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1261)
 
@@ -484,8 +464,7 @@ c) Mindestpunktzahl und Qualitätszahl
 
 Die Mindestpunktzahl für jedes einzelne Prüfmerkmal ist 1,50. Die durch drei geteilte Summe der für Geruch, Geschmack und Harmonie erteilten Punkte ergibt die Qualitätszahl. Die Qualitätszahl muss für Deutschen Weinbrand mindestens 1,50 betragen.
 
-
-## Anlage 3 – (zu § 5 Abs. 3 Nr. 1)  Abkürzungen der Bundesländer
+# Anlage 3 – (zu § 5 Abs. 3 Nr. 1)  Abkürzungen der Bundesländer
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
@@ -502,8 +481,7 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 | Hessen:                 | HE-, | Schleswig-Holstein:  | SH-, |
 | Mecklenburg-Vorpommern: | MV-, | Thüringen:           | TH-. |
 
-
-## Anlage 4 – (zu § 9 und § 9a Abs. 2)Spirituosen mit geographischen Angaben
+# Anlage 4 – (zu § 9 und § 9a Abs. 2)Spirituosen mit geographischen Angaben
 
 ( Fundstelle des Originaltextes: BGBl. I 2003, 1263;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )

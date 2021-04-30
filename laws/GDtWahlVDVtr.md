@@ -1,10 +1,7 @@
-# [GDtWahlVDVtr] Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
-
-Ausfertigungsdatum: 03.08.1990
-
+% Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
+% Ausfertigungsdatum: 03.08.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
   
   
@@ -19,8 +16,7 @@ in dem Wunsch, daß die bevorstehende Wahl als gesamtdeutsche Wahl aufgrund eine
 in dem Bewußtsein, daß hierbei Änderungen und Anpassungen des Bundeswahlgesetzes erforderlich sind,  
 sind übereingekommen, einen Vertrag über die Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages mit den nachfolgenden Bestimmungen zu schließen:
 
-
-## Art 1
+# Art 1
 
 (1) Für die erste gesamtdeutsche Wahl wird der Geltungsbereich des Bundeswahlgesetzes der Bundesrepublik Deutschland in der Fassung der Bekanntmachung vom 1. September 1975 (BGBl. I S. 2325), zuletzt geändert durch Gesetz vom 11. Juni 1990 (BGBl. I S. 1015), und des Wahlprüfungsgesetzes vom 12. März 1951 (BGBl. I S. 166), zuletzt geändert durch Artikel 3 des Gesetzes vom 24. Juni 1975 (BGBl. I S. 1593), auf das Gebiet der Länder Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie auf das Gebiet von Berlin (Ost) erstreckt. Das Bundeswahlgesetz gilt mit den in der Anlage bezeichneten Änderungen und Maßgaben.
 
@@ -28,54 +24,44 @@ sind übereingekommen, einen Vertrag über die Vorbereitung und Durchführung de
 
 (3) Politische Vereinigungen im Sinne des Gesetzes über die Wahlen zur Volkskammer der Deutschen Demokratischen Republik am 18. März 1990 vom 20. Februar 1990 (GBl. I S. 60) werden den Parteien im Sinne des § 2 Abs. 1 des Parteiengesetzes der Bundesrepublik Deutschland gleichgestellt.
 
-
-## Art 2
+# Art 2
 
 Die zur Durchführung des Bundeswahlgesetzes erlassene Bundeswahlordnung in der Fassung der Bekanntmachung vom 7. Dezember 1989 (BGBl. 1990 I S. 1, 142), zuletzt geändert durch Verordnung vom 25. Juni 1990 (BGBl. I S. 1199), sowie die Bundeswahlgeräteverordnung vom 3. September 1975 (BGBl. I S. 2459), zuletzt geändert durch Artikel 2 der Verordnung vom 15. November 1989 (BGBl. I S. 1981), gelten auch für die Länder Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie für Berlin (Ost). Der Bundesminister des Innern nimmt die mit Rücksicht auf die in Artikel 1 getroffene Regelung notwendigen Änderungen vor und erläßt im Benehmen mit dem Minister des Innern der Deutschen Demokratischen Republik erforderlichenfalls Anpassungsvorschriften für die Länder Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie für Berlin (Ost).
 
-
-## Art 3
+# Art 3
 
 Für die Vorbereitung und Durchführung der Wahl wird Berlin als ein Land behandelt.
 
-
-## Art 4
+# Art 4
 
 Die Zuständigkeit des Bundeswahlleiters und des Bundeswahlausschusses nach den Vorschriften des Bundeswahlgesetzes und der Bundeswahlordnung erstreckt sich auch auf das Gebiet der Länder Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie auf Berlin (Ost). Der Bundeswahlleiter beruft zwei zusätzliche Mitglieder mit Wohnsitz in der Deutschen Demokratischen Republik in den Bundeswahlausschuß.
 
-
-## Art 5
+# Art 5
 
 Die Parteien genießen bei der Wahlvorbereitung volle Betätigungsfreiheit im Rahmen der Gesetze, soweit sie nicht vom Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes im Gebiet der Bundesrepublik Deutschland für verfassungswidrig erklärt oder gemäß § 21 des Parteiengesetzes der Deutschen Demokratischen Republik vom 21. Februar 1990 (GBl. I S. 66), geändert durch Gesetz vom 31. Mai 1990 (GBl. I S. 275), vor dem Inkrafttreten dieses Vertrages vom Großen Senat des Obersten Gerichts im Gebiet der Deutschen Demokratischen Republik verboten worden sind.
 
-
-## Art 6
+# Art 6
 
 Die im bisherigen Geltungsbereich des Bundeswahlgesetzes bereits vorgenommenen Wahlvorbereitungshandlungen, insbesondere die Aufstellung der Bewerber, bleiben unberührt, soweit nicht die Regelung des Artikels 3 eine Neuvornahme erfordert.
 
-
-## Art 7
+# Art 7
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin (West) ausgedehnt.
 
-
-## Art 8
+# Art 8
 
 Dieser Vertrag einschließlich der Anlage tritt an dem Tag in Kraft, an dem die Regierungen der Vertragsparteien einander mitgeteilt haben, daß die erforderlichen verfassungsrechtlichen und sonstigen innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 
+# Schlußformel
 
-## Schlußformel
-
-Geschehen in Berlin am 3. August 1990 in zwei Urschriften in deutscher Sprache.  
-
+Geschehen in Berlin am 3. August 1990 in zwei Urschriften in deutscher Sprache. 
 |                            |                                 |
 |:--------------------------:|:-------------------------------:|
 |          Für die           |             Für die             |
 | Bundesrepublik Deutschland | Deutsche Demokratische Republik |
 |          Schäuble          |         Günther Krause          |
 
-
-## Anlage
+# Anlage
 
 Fundstelle des Originaltextes: BGBl. II 1990, 824 - 825  
 
@@ -194,8 +180,7 @@ In Berlin richtet sich die Reihenfolge der Landeslisten von Parteien, die im Deu
 
 10. § 49a wird in den Ländern Mecklenburg-Vorpommern, Brandenburg, Sachsen-Anhalt, Sachsen und Thüringen sowie in Berlin (Ost) mit der Maßgabe angewendet, daß Ordnungsstrafen im Sinne des Gesetzes zur Bekämpfung von Ordnungswidrigkeiten vom 12. Januar 1968 (GBl. S. 101), zuletzt geändert durch Gesetz vom 29. Juli 1990 (GBl. I S. 526) in Höhe bis zu 100.000 Deutsche Mark verhängt werden können.
 
-
-## Anhang
+# Anhang
 
 Fundstelle des Originaltextes: BGBl. II 1990, 826 - 830
 

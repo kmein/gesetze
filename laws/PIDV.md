@@ -1,15 +1,11 @@
-# [PIDV] Verordnung zur Regelung der Präimplantationsdiagnostik  (Präimplantationsdiagnostikverordnung - PIDV)
-
-Ausfertigungsdatum: 21.02.2013
-
+% Verordnung zur Regelung der Präimplantationsdiagnostik  (Präimplantationsdiagnostikverordnung - PIDV)
+% Ausfertigungsdatum: 21.02.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3a Absatz 3 Satz 3 des Embryonenschutzgesetzes, der durch Artikel 1 Nummer 1 des Gesetzes vom 21. November 2011 (BGBl. I S. 2228) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Anforderungen an
 
@@ -25,8 +21,7 @@ Diese Verordnung regelt die Anforderungen an
 
 6. die Dokumentation nach § 3a Absatz 3 Satz 3 Nummer 4 des Embryonenschutzgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -40,8 +35,7 @@ a) einem in vitro erzeugten Embryo entnommen worden sind und die Fähigkeit besi
 
 b) sich selbst oder deren Tochterzellen sich unter geeigneten Bedingungen zu Zellen unterschiedlicher Spezialisierung, jedoch nicht zu einem Individuum zu entwickeln vermögen.
 
-
-## § 3 – Voraussetzungen für die Zulassung von Zentren
+# § 3 – Voraussetzungen für die Zulassung von Zentren
 
 (1) Die Präimplantationsdiagnostik darf nur in einem Zentrum durchgeführt werden, das
 
@@ -103,8 +97,7 @@ Ein Anspruch auf Zulassung besteht nicht. Bei notwendiger Auswahl zwischen mehre
 
 (6) Die zuständige Behörde hat der Zentralstelle nach § 9 die Zulassung als Zentrum für Präimplantationsdiagnostik sowie deren Verlängerung mitzuteilen; eine Mitteilung hat auch für den Fall der Rücknahme oder des Widerrufs der Zulassung zu erfolgen.
 
-
-## § 4 – Ethikkommissionen für Präimplantationsdiagnostik
+# § 4 – Ethikkommissionen für Präimplantationsdiagnostik
 
 (1) Die Länder richten für die für die Durchführung der Präimplantationsdiagnostik zugelassenen Zentren unabhängige interdisziplinär zusammengesetzte Ethikkommissionen für Präimplantationsdiagnostik (Ethikkommissionen) ein. Dabei können die Länder auch gemeinsame Ethikkommissionen einrichten. Die Ethikkommissionen setzen sich aus vier Sachverständigen der Fachrichtung Medizin, jeweils einem oder einer Sachverständigen der Fachrichtungen Ethik und Recht sowie jeweils einem Vertreter der für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe behinderter Menschen auf Landesebene maßgeblichen Organisationen zusammen. Bei der Zusammensetzung der Ethikkommission hat die berufende Stelle Frauen und Männer mit dem Ziel ihrer gleichberechtigten Teilhabe zu berücksichtigen.
 
@@ -114,8 +107,7 @@ Ein Anspruch auf Zulassung besteht nicht. Bei notwendiger Auswahl zwischen mehre
 
 (4) Das Nähere zur Zusammensetzung, zu internen Verfahrensregelungen, zur Berufung der Mitglieder der Ethikkommissionen und zur Finanzierung der Ethikkommissionen wird durch Landesrecht bestimmt. Die Dauer der Berufung der Mitglieder der Ethikkommissionen ist zu befristen.
 
-
-## § 5 – Antrag auf Durchführung einer Präimplantationsdiagnostik
+# § 5 – Antrag auf Durchführung einer Präimplantationsdiagnostik
 
 (1) Die Ethikkommission wird zur Prüfung und Bewertung nach § 3a Absatz 3 Satz 1 Nummer 2 des Embryonenschutzgesetzes nur auf schriftlichen Antrag der Frau, von der die Eizelle stammt (Antragsberechtigte), tätig.
 
@@ -133,8 +125,7 @@ Ein Anspruch auf Zulassung besteht nicht. Bei notwendiger Auswahl zwischen mehre
 
 6. Angaben darüber, ob hinsichtlich des zur Bewertung vorgelegten Sachverhaltes bereits die Entscheidung einer anderen Ethikkommission für Präimplantationsdiagnostik vorliegt, und, sofern eine solche Entscheidung vorliegt, eine Abschrift dieser Entscheidung.
 
-
-## § 6 – Prüfung des Antrags auf Durchführung einer Präimplantationsdiagnostik
+# § 6 – Prüfung des Antrags auf Durchführung einer Präimplantationsdiagnostik
 
 (1) Die Ethikkommission übermittelt der Antragsberechtigten innerhalb einer Frist von drei Monaten nach Vorliegen der nach § 5 Absatz 2 erforderlichen Angaben und vollständigen Unterlagen ihre schriftliche Entscheidung über den Antrag auf Durchführung einer Präimplantationsdiagnostik.
 
@@ -154,8 +145,7 @@ Die Ethikkommissionen sind verpflichtet, in den Fällen von Satz 1 Nummer 2 und 
 
 (4) Die Ethikkommissionen haben den Antrag auf Durchführung einer Präimplantationsdiagnostik zustimmend zu bewerten, wenn sie nach Prüfung der in § 5 Absatz 2 genannten Angaben und Unterlagen unter Berücksichtigung der im konkreten Einzelfall maßgeblichen psychischen, sozialen und ethischen Gesichtspunkte zu dem Ergebnis kommen, dass die in § 3a Absatz 2 des Embryonenschutzgesetzes genannten Voraussetzungen erfüllt sind. Sie treffen ihre Entscheidung mit einer Mehrheit von zwei Dritteln der stimmberechtigten Mitglieder.
 
-
-## § 7 – Umgang der Ethikkommissionen mit Daten
+# § 7 – Umgang der Ethikkommissionen mit Daten
 
 (1) Die Ethikkommissionen dürfen mit Einwilligung der Antragsberechtigten und soweit personenbezogene Daten des Mannes, von dem die Samenzelle stammt, Gegenstand des Antrags sind, auch mit dessen Einwilligung nach § 8 Absatz 1 die in § 5 Absatz 2 genannten personenbezogenen Daten zu dem dort genannten Zweck verarbeiten.
 
@@ -165,8 +155,7 @@ Die Ethikkommissionen sind verpflichtet, in den Fällen von Satz 1 Nummer 2 und 
 
 (4) Die Ethikkommissionen stellen sicher, dass die Angaben und Unterlagen nach § 5 Absatz 2 sowie alle für die Entscheidung der Ethikkommission maßgeblichen Dokumente nach der Entscheidung über den Antrag 30 Jahre aufbewahrt werden. Nach Ablauf der in Satz 1 genannten Frist sind die Angaben und Unterlagen unverzüglich zu löschen. Die Angaben und Unterlagen sind vor Ablauf der in Satz 1 genannten Frist unverzüglich zu löschen, wenn der Antrag nach § 5 Absatz 1 zurückgenommen wird.
 
-
-## § 8 – Datenerhebung, -verarbeitung und -nutzung
+# § 8 – Datenerhebung, -verarbeitung und -nutzung
 
 (1) Das zugelassene Zentrum für Präimplantationsdiagnostik holt die schriftliche Einwilligung der Antragsberechtigten für die Verarbeitung personenbezogener Daten, die für die Durchführung der Präimplantationsdiagnostik und für das Verfahren vor der Ethikkommission erforderlich sind, ein. Zuvor klärt das zugelassene Zentrum für Präimplantationsdiagnostik die Antragsberechtigte umfassend über die nach Satz 1 vorgesehene Verarbeitung personenbezogener Daten sowohl durch die zugelassenen Zentren für Präimplantationsdiagnostik selbst als auch durch die Ethikkommissionen auf. Die Sätze 1 und 2 gelten auch für die Einwilligung des Mannes, von dem die Samenzelle stammt, sofern seine personenbezogenen Daten für die Durchführung der Präimplantationsdiagnostik und im Verfahren vor der Ethikkommission erforderlich sind.
 
@@ -184,8 +173,7 @@ Die Ethikkommissionen sind verpflichtet, in den Fällen von Satz 1 Nummer 2 und 
 
 (4) Für die Datenübermittlung nach Absatz 2 ist ein von der Zentralstelle erstelltes Formblatt zu verwenden. Das Formblatt kann auch elektronisch zur Verfügung gestellt und genutzt werden.
 
-
-## § 9 – Zentralstelle
+# § 9 – Zentralstelle
 
 (1) Beim Paul-Ehrlich-Institut wird eine Zentralstelle eingerichtet, der die Dokumentation der nach § 8 Absatz 2 gemeldeten Daten obliegt.
 
@@ -193,12 +181,10 @@ Die Ethikkommissionen sind verpflichtet, in den Fällen von Satz 1 Nummer 2 und 
 
 (3) Die Zentralstelle ist verpflichtet, die ihr gemeldeten und dokumentierten Angaben auf Anforderung dem Bundesministerium für Gesundheit zu übermitteln, damit es den Bericht der Bundesregierung über die Erfahrungen mit der Präimplantationsdiagnostik erstellen kann.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2014 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

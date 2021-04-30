@@ -1,10 +1,7 @@
-# [KVG] Gesetz über das Vermögen der Gemeinden, Städte und Landkreise  (Kommunalvermögensgesetz - KVG)
-
-Ausfertigungsdatum: 06.07.1990
-
+% Gesetz über das Vermögen der Gemeinden, Städte und Landkreise  (Kommunalvermögensgesetz - KVG)
+% Ausfertigungsdatum: 06.07.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf der Grundlage
 
@@ -19,13 +16,11 @@ des Gesetzes zur Privatisierung und Reorganisation des volkseigenen Vermögens (
 
 wird folgendes Gesetz erlassen:
 
-
-## § 1 – Kommunales Vermögen
+# § 1 – Kommunales Vermögen
 
 Volkseigenes Vermögen, das kommunalen Aufgaben und kommunalen Dienstleistungen dient, wird den Gemeinden, Städten und Landkreisen kostenlos übertragen. Ausgenommen sind Wohnheime öffentlicher Bildungseinrichtungen.
 
-
-## § 2 – Vermögen der Gemeinden und Städte
+# § 2 – Vermögen der Gemeinden und Städte
 
 (1) In das Vermögen der Gemeinden und Städte gehen über
 
@@ -41,8 +36,7 @@ e) alle sonstigen Rechte und Forderungen, die den ehemaligen Gemeinden und Städ
 
 (2) Betriebe, Einrichtungen, Immobilien, Grundstücke und Bodenflächen aus der Rechtsträgerschaft aufgelöster oder aufzulösender staatlicher Dienststellen gehen in das Eigentum der Gemeinden und Städte über, sofern sie nicht zur Erfüllung der Aufgaben der Republik oder der Länder benötigt werden und dazu Beschlüsse des Ministerrates der DDR oder der Landesregierungen gefaßt werden.
 
-
-## § 3 – Vermögen der Landkreise
+# § 3 – Vermögen der Landkreise
 
 In das Vermögen der Landkreise gehen über
 
@@ -56,22 +50,19 @@ d) alle volkseigenen Immobilien, einschließlich der gewerblichen Zwecken dienen
 
 e) alle sonstigen Rechte und Forderungen, die den Kreisen sowie deren nachgeordneten Betrieben und Einrichtungen zustanden, sofern sie nicht in das Vermögen der Gemeinden und Städte übergehen.
 
-
-## § 4 – Sonderregelungen
+# § 4 – Sonderregelungen
 
 (1) Die auf der Grundlage des Beschlusses des Präsidiums des Ministerrates vom 9. Februar 1972 und damit im Zusammenhang stehender Regelungen in Volkseigentum überführten Betriebe und Einrichtungen, die kommunalen Aufgaben und Dienstleistungen dienen, sind nicht in das Vermögen der Gemeinden, Städte und Landkreise zu übertragen, wenn durch die ehemaligen privaten Gesellschafter oder Inhaber oder deren Erben ein entsprechender Übernahmeantrag gestellt wurde.
 
 (2) Sofern Betriebe und Einrichtungen, die nach den Grundsätzen dieses Gesetzes in kommunales Eigentum überführt werden müssen, bereits in Kapitalgesellschaften umgewandelt worden sind, gehen die entsprechenden ehemals volkseigenen Anteile in das Eigentum der Gemeinden und Städte über. Soweit die Summe der Beteiligungen der Gemeinden, Städte und Landkreise 49 vom Hundert des Kapitals einer Kapitalgesellschaft für die Versorgung mit leitungsgebundenen Energien überschreiten würde, werden diese Beteiligungen anteilig auf diesen Anteil gekürzt.
 
-
-## § 5 – Nutzung des kommunalen Vermögens
+# § 5 – Nutzung des kommunalen Vermögens
 
 (1) Über kommunales Vermögen kann im Rahmen der Gesetze uneingeschränkt verfügt werden. Die Nutzung des kommunalen Vermögens hat grundsätzlich so zu erfolgen, daß seine rentable Verwertung, ein wirksamer kommunaler Einfluß und die Finanzkontrolle durch die Kommunen gesichert sowie der öffentliche Zweck beachtet werden. In den Gemeinden, Städten und Kreisen sind Konzeptionen zu erarbeiten, wie übernommene Betriebe, die nicht in Übereinstimmung mit diesen Grundsätzen geführt werden können oder die Leistungsfähigkeit der Kommunen überschreiten, unter Sicherung des Vermögens der Kommunen privatisiert werden.
 
 (2) Kommunale Betriebe und Einrichtungen können auf der Grundlage der §§ 57 bis 62 des Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise in der DDR als Eigengesellschaften oder Eigenbetriebe geführt werden. Gemeinden, Städte und Kreise können kommunale Betriebe in Form rechtlich selbständiger Unternehmen auch als Beteiligungs- oder Gemeinnützige Gesellschaften organisieren. Kommunales Eigentum kann in kommunale Verwaltungsgemeinschaften, Zweckverbände oder Kreisverbände eingebracht werden.
 
-
-## § 6 – Kommunale Betriebe und Einrichtungen
+# § 6 – Kommunale Betriebe und Einrichtungen
 
 (1) Volkseigene Betriebe und Einrichtungen, die zur Erfüllung der kommunalen Selbstverwaltungsaufgaben gemäß §§ 2 und 72 des Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise in der DDR benötigt werden, sind in der Regel
 
@@ -98,33 +89,27 @@ Betriebe der Urproduktion und darauf aufgebaute Verarbeitungsbetriebe, z.B. Milc
 \-  
 sonstige Betriebe und Einrichtungen, wie Gaststätten, Lagerhäuser, Messehallen u.a.
 
-
-## § 7
-
-\-
-
-
-## § 8
+# § 7
 
 \-
 
+# § 8
 
-## § 9 – Übergangsbestimmung
+\-
+
+# § 9 – Übergangsbestimmung
 
 Bis zur Länderbildung nehmen die Regierungsbevollmächtigten für die Bezirke die Befugnisse aus § 2 Absatz 2 und § 8 Absatz 2 wahr.
 
-
-## § 10 – Schlußbestimmung
+# § 10 – Schlußbestimmung
 
 Dieses Gesetz tritt am Tage seiner Veröffentlichung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III  (BGBl. II 1990, 889, 1199)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III  (BGBl. II 1990, 889, 1199)
 
 Abschnitt III  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:  

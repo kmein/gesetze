@@ -1,10 +1,7 @@
-# [MittelweserG] Gesetz über den Grunderwerb für die Kanalisierung der Mittelweser
-
-Ausfertigungsdatum: 08.03.1936
-
+% Gesetz über den Grunderwerb für die Kanalisierung der Mittelweser
+% Ausfertigungsdatum: 08.03.1936
  
-
-## § 1
+# § 1
 
 (1) Für die beim Ausbau der Mittelweser von Minden bis Bremen herzustellenden Schleusenkanäle samt Nebenanlagen sowie zur Beschaffung von Entschädigungsland für landwirtschaftliche Betriebe kann das Reich das Grundeigentum und Rechte am Grundeigentum gegen angemessene Entschädigung entziehen oder beschränken.
 
@@ -14,39 +11,33 @@ Ausfertigungsdatum: 08.03.1936
 
 § 1 Abs. 3 Kursivdruck u. Abs. 3 früherer Satz 2: Vgl. KRG Nr. 45 ABl. S. 256 (Aufhebung der Erbhofgesetze)
 
-
-## § 2
+# § 2
 
 (1) Das preußische Enteignungsgesetz vom 11. Juni 1874 (Preuß. Gesetzsamml. S. 221) und das preußische Gesetz über ein vereinfachtes Enteignungsverfahren vom 26. Juli 1922 (Preuß. Gesetzsamml. S. 211) finden Anwendung, soweit die Vorschriften dieses Gesetzes nichts anderes bestimmen.
 
 (2) Die endgültige Entscheidung über die Art der Durchführung und den Umfang der Enteignung der Flächen für die Schleusenkanäle und ihre Nebenanlagen sowie über die Zulässigkeit der Inanspruchnahme von fremden Grundstücken zur Ausführung von Vorarbeiten trifft der Bundesminister für Verkehr, Bau und Stadtentwicklung nach Anhörung der zuständigen Landesbehörden.
 
-
-## § 3
+# § 3
 
 Die Entschädigung für entzogenes oder beschränktes Grundeigentum wird in Land gewährt, soweit geeignetes Land für diesen Zweck zur Verfügung steht und eine Entschädigung in Land tunlich erscheint.
 
-
-## § 4
+# § 4
 
 (weggefallen)
 
-
-## § 5
+# § 5
 
 (1) Das Reich legt als Träger des Unternehmens der Enteignungsbehörde einen Landentschädigungsplan vor, der die zur Entschädigung in Land bestimmten Grundstücke sowie Vorschläge für ihre Zuteilung und Herrichtung für den landwirtschaftlichen Betrieb enthält.
 
 (2) Den Landentschädigungsplan stellt der Preußische Kulturamtsvorsteher nach Anhörung der Beteiligten und des Landesbauernführers auf.
 
-
-## § 6
+# § 6
 
 Der Kulturamtsvorsteher hat zur Durchführung seiner Aufgaben die ihm im preußischen Umlegungsverfahren zustehenden amtlichen Befugnisse. Er ist zur Beurkundung von Rechtsgeschäften, die der Durchführung des Unternehmens dienen, mit Ausnahme der Auflassung befugt. Die von ihm vorgenommenen Beurkundungen stehen gerichtlichen Urkunden gleich, wenn sie in der für die Gerichte vorgeschriebenen Form und unter Bezugnahme auf diese Bestimmung aufgenommen werden.
 
 § 6 Kursivdruck: Vgl. § 155 Flurbereinigungsgesetz 7815-1
 
-
-## § 7
+# § 7
 
 (1) Auszüge aus dem Landentschädigungsplan nebst Beilagen sind in den durch die Enteignung betroffenen Gemeinden zwei Wochen lang von der Enteignungsbehörde zur Einsicht der Beteiligten auszulegen.
 
@@ -56,8 +47,7 @@ Der Kulturamtsvorsteher hat zur Durchführung seiner Aufgaben die ihm im preußi
 
 (4) Die Bekanntmachung hat die Stelle zu bezeichnen, bei der die Einwendungen schriftlich einzureichen oder mündlich zu Protokoll zu geben sind.
 
-
-## § 8
+# § 8
 
 (1) Nach Ablauf der Frist entscheidet die Enteignungsbehörde nach vorheriger mündlicher Verhandlung über die Einwendungen und stellt den Landentschädigungsplan fest.
 
@@ -65,37 +55,31 @@ Der Kulturamtsvorsteher hat zur Durchführung seiner Aufgaben die ihm im preußi
 
 (3) Der Kulturamtsvorsteher kann die Entschädigungsberechtigten schon vor Zustellung des Landentschädigungsplans in den Besitz des Entschädigungslands vorläufig einweisen. Wird durch den festgestellten Landentschädigungsplan die der vorläufigen Besitzeinweisung zugrunde gelegte Landentschädigung geändert, so ist den Entschädigungsberechtigten der hierdurch entstehende Schaden angemessen zu ersetzen. Die Entschädigung wird von der Enteignungsbehörde festgesetzt, gegen deren Entscheidungen den Beteiligten der Rechtsweg nach den Bestimmungen des § 30 des preußischen Enteignungsgesetzes offensteht.
 
-
-## § 9
+# § 9
 
 In der Entscheidung über die Entschädigung legt die Enteignungsbehörde, soweit eine Landentschädigung vorgesehen ist, der Feststellung der Enteignungsentschädigung (§§ 24ff. des preußischen Enteignungsgesetzes) den festgestellten Landentschädigungsplan zugrunde und entscheidet, ob und gegebenenfalls in welcher Höhe neben der Landentschädigung eine zusätzliche Entschädigung in Geld zu gewähren ist.
 
-
-## § 10
+# § 10
 
 Den Beteiligten bleibt der nach § 30 des preußischen Enteignungsgesetzes vorgesehene Rechtsweg offen. Im Rechtsweg kann, und zwar unter Berücksichtigung der etwa gewährten Landentschädigung, nur über eine Entschädigung in Geld entschieden werden. Bei der Bemessung der Geldentschädigung sind die Gerichte in der Bewertung der Landentschädigung frei.
 
-
-## § 11
+# § 11
 
 Die Enteignung der Grundstücke und der Rechte an Grundstücken wird auf Antrag des Unternehmers von der Enteignungsbehörde ausgesprochen, sobald die Entscheidung über die Entschädigung den zu Enteignenden zugestellt ist und die in ihr festgestellten Geldentschädigungen gezahlt oder hinterlegt sind.
 
-
-## § 12
+# § 12
 
 (1) § 45 Abs. 2 des preußischen Enteignungsgesetzes gilt auch für die Landentschädigung. Von dem Übergang der Rechte Dritter auf das Entschädigungsland sind jedoch Erbbaurechte, Dienstbarkeiten und solche Reallasten ausgeschlossen, die nicht auf eine Geldleistung gerichtet sind. Ein Altenteil geht, wenn in dem Beschluß nichts anderes bestimmt ist, auf das Entschädigungsland über.
 
 (2) Die Enteignungsbehörde ersucht das Grundbuchamt um Eintragung der aus dem Landentschädigungsplan ersichtlichen Rechtsänderungen.
 
-
-## § 13
+# § 13
 
 (1) Geschäfte und Verhandlungen, die der Durchführung der Landbeschaffung und der Landentschädigung nach Maßgabe dieses Gesetzes dienen, sind von allen Steuern und Gebühren des Reichs, der Länder, der Gemeinden und der Gemeindeverbände befreit. Die Befreiung gilt nicht für die Grunderwerbsteuer (einschließlich Zuschläge), für die Wertzuwachssteuer und für die Verfolgung von Ansprüchen im ordentlichen Rechtsweg.
 
 (2) Die Steuer- und Gebührenfreiheit kann durch die zuständige Behörde ohne weitere Nachprüfung zugestanden werden, wenn der Kulturamtsvorsteher versichert, daß die betreffende Rechtshandlung dem in Absatz 1 genannten Zweck dient.
 
-
-## § 14
+# § 14
 
 (1) Dem Umlegungsverfahren unterliegen die Grundstücke innerhalb der in § 1 Abs. 2 angegebenen Begrenzung insoweit, als ihre Einbeziehung zur Aufbringung des durch den Schleusenkanal und seine Nebenanlagen eintretenden Flächenverlusts und zur Erzielung einer wirtschaftlich zweckmäßigen Planung erforderlich ist. Der Flächenverlust ist von den Verfahrensteilnehmern in einem für jeden Teilnehmer wirtschaftlich tragbaren Maß aufzubringen.
 
@@ -103,24 +87,20 @@ Die Enteignung der Grundstücke und der Rechte an Grundstücken wird auf Antrag 
 
 § 14 Abs. 1 Kursivdruck: Vgl. § 155 Flurbereinigungsgesetz 7815-1
 
-
-## § 15
+# § 15
 
 Die beteiligten Grundeigentümer müssen auch eine Veränderung der bisherigen Art ihres Wirtschaftsbetriebs dulden. Ist für die Veränderung ein Gebäude umzubauen oder neu zu errichten, so gelten die Kosten als Folgeeinrichtungskosten (§ 16).
 
-
-## § 16
+# § 16
 
 Sämtliche durch das Umlegungsverfahren entstehenden Kosten einschließlich der Neben- und Folgeeinrichtungskosten hat der Unternehmer zu tragen, soweit die Umlegung in dem in § 1 Abs. 2 bezeichneten Gebiet erfolgt (§ 14 Abs. 1). Artikel 2 § 2, Artikel 3 des preußischen Gesetzes vom 21. April 1934 (Preuß. Gesetzsamml. S. 253) zur Abänderung der Umlegungsordnung vom 21. September 1920 (Preuß. Gesetzsamml. S. 453) finden keine Anwendung.
 
 § 16 Kursivdruck: Vgl. § 155 Flurbereinigungsgesetz 7815-1
 
-
-## § 17
+# § 17
 
 Dieses Gesetz findet auch auf die zur Zeit des Inkrafttretens eingeleiteten Enteignungen Anwendung.
 
-
-## § 18
+# § 18
 
 (weggefallen)

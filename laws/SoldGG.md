@@ -1,10 +1,7 @@
-# [SoldGG] Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten  (Soldatinnen- und Soldaten-Gleichbehandlungsgesetz - SoldGG)
-
-Ausfertigungsdatum: 14.08.2006
-
+% Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten  (Soldatinnen- und Soldaten-Gleichbehandlungsgesetz - SoldGG)
+% Ausfertigungsdatum: 14.08.2006
  
-
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 (1) Ziel des Gesetzes ist es, Benachteiligungen aus Gründen der Rasse, der ethnischen Herkunft, der Religion, der Weltanschauung oder der sexuellen Identität für den Dienst als Soldatin oder Soldat zu verhindern oder zu beseitigen.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (3) Alle Soldatinnen und Soldaten, insbesondere solche mit Vorgesetzten- und Führungsaufgaben, sind in ihrem Aufgabenbereich aufgefordert, an der Verwirklichung dieser Ziele mitzuwirken. Dies gilt auch für den Dienstherrn sowie für Personen und Gremien, die Beteiligungsrechte wahrnehmen, insbesondere für Gleichstellungsbeauftragte und deren Stellvertreterinnen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz findet Anwendung auf
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 14.08.2006
 
 (2) Die Geltung sonstiger Benachteiligungsverbote oder Gebote der Gleichbehandlung wird durch dieses Gesetz nicht berührt. Dies gilt auch für öffentlich-rechtliche Vorschriften, die dem Schutz bestimmter Personengruppen dienen.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 (1) Eine unmittelbare Benachteiligung liegt vor, wenn eine Person wegen eines in § 1 Abs. 1 genannten Grundes eine weniger günstige Behandlung erfährt, als eine andere Person in einer vergleichbaren Situation erfährt, erfahren hat oder erfahren würde.
 
@@ -38,18 +33,15 @@ Ausfertigungsdatum: 14.08.2006
 
 (5) Die Anweisung zur Benachteiligung einer Person aus einem in § 1 Abs. 1 genannten Grund gilt als Benachteiligung. Eine solche Anweisung liegt in Bezug auf § 2 Abs. 1 Nr. 1 bis 3 insbesondere vor, wenn jemand eine Person zu einem Verhalten bestimmt, das eine der in § 6 genannten Personen wegen eines in § 1 Abs. 1 genannten Grundes benachteiligt oder benachteiligen kann.
 
-
-## § 4 – Unterschiedliche Behandlung wegen mehrerer Gründe
+# § 4 – Unterschiedliche Behandlung wegen mehrerer Gründe
 
 Erfolgt eine unterschiedliche Behandlung wegen mehrerer der in § 1 Abs. 1 genannten Gründe, so kann diese unterschiedliche Behandlung gemäß § 8 nur gerechtfertigt werden, wenn sich die Rechtfertigung auf alle diese Gründe erstreckt, derentwegen die unterschiedliche Behandlung erfolgt.
 
-
-## § 5 – Positive Maßnahmen
+# § 5 – Positive Maßnahmen
 
 Ungeachtet des § 8 ist eine unterschiedliche Behandlung auch zulässig, wenn durch geeignete und angemessene Maßnahmen tatsächliche Nachteile wegen eines in § 1 Abs. 1 genannten Grundes verhindert oder ausgeglichen werden sollen.
 
-
-## § 6 – Persönlicher Anwendungsbereich
+# § 6 – Persönlicher Anwendungsbereich
 
 Dieses Gesetz dient dem Schutz von
 
@@ -57,25 +49,21 @@ Dieses Gesetz dient dem Schutz von
 
 2. Personen, die zu einer Einberufung zum Wehrdienst nach Maßgabe des Wehrpflichtgesetzes heranstehen oder die sich um die Begründung eines Wehrdienstverhältnisses auf Grund freiwilliger Verpflichtung bewerben.
 
-
-## § 7 – Benachteiligungsverbot
+# § 7 – Benachteiligungsverbot
 
 (1) Die in § 6 genannten Personen dürfen nicht wegen eines in § 1 Abs. 1 genannten Grundes benachteiligt werden. Dies gilt auch, wenn die Soldatin oder der Soldat, die oder der die Benachteiligung begeht, das Vorliegen eines in § 1 Abs. 1 genannten Grundes bei der Benachteiligung nur annimmt.
 
 (2) Jede Belästigung, sexuelle Belästigung und Anweisung zu einer solchen Handlungsweise ist eine Verletzung dienstlicher Pflichten und Soldatinnen und Soldaten untersagt.
 
-
-## § 8 – Zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen
+# § 8 – Zulässige unterschiedliche Behandlung wegen beruflicher Anforderungen
 
 Eine unterschiedliche Behandlung wegen eines in § 1 Abs. 1 genannten Grundes ist zulässig, wenn dieser Grund wegen der Art der dienstlichen Tätigkeit oder der Bedingungen ihrer Ausübung eine wesentliche und entscheidende berufliche Anforderung darstellt, sofern der Zweck rechtmäßig und die Anforderung angemessen ist.
 
-
-## § 9 – Personalwerbung; Dienstpostenbekanntgabe
+# § 9 – Personalwerbung; Dienstpostenbekanntgabe
 
 Anzeigen der Personalwerbung sowie Dienstposten für Soldatinnen und Soldaten dürfen nicht unter Verstoß gegen § 7 Abs. 1 bekannt gegeben werden.
 
-
-## § 10 – Maßnahmen und Pflichten des Dienstherrn
+# § 10 – Maßnahmen und Pflichten des Dienstherrn
 
 (1) Der Dienstherr ist verpflichtet, die erforderlichen Maßnahmen zum Schutz vor Benachteiligungen wegen eines in § 1 Abs. 1 genannten Grundes und zum Schutz vor den in § 1 Abs. 2 genannten Handlungen zu treffen. Dieser Schutz umfasst auch vorbeugende Maßnahmen.
 
@@ -87,15 +75,13 @@ Anzeigen der Personalwerbung sowie Dienstposten für Soldatinnen und Soldaten d�
 
 (5) Die Vorschriften dieses Gesetzes sowie die Vorschriften des Abschnitts 6 des Allgemeinen Gleichbehandlungsgesetzes sind in den Dienststellen und Truppenteilen der Streitkräfte bekannt zu machen. Die Bekanntmachung kann durch Aushang oder Auslegung an geeigneter Stelle oder durch den Einsatz der in den Dienststellen und Truppenteilen üblichen Informations- und Kommunikationstechnik erfolgen.
 
-
-## § 11 – Beschwerderecht
+# § 11 – Beschwerderecht
 
 (1) Soldatinnen und Soldaten, die sich von Dienststellen der Bundeswehr, von Vorgesetzten oder von Kameradinnen oder Kameraden wegen eines in § 1 Abs. 1 oder 2 genannten Grundes benachteiligt fühlen, können sich beschweren. Das Nähere regelt die Wehrbeschwerdeordnung.
 
 (2) Die in § 6 Nr. 2 genannten Personen können sich wegen einer in § 1 Abs. 1 oder 2 genannten Benachteiligung bei der für ihre Einberufung oder Bewerbung zuständigen Stelle der Bundeswehr beschweren. Diese hat die Beschwerde zu prüfen und das Ergebnis der beschwerdeführenden Person mitzuteilen.
 
-
-## § 12 – Entschädigung und Schadensersatz
+# § 12 – Entschädigung und Schadensersatz
 
 (1) Bei einem Verstoß gegen das Benachteiligungsverbot ist der Dienstherr verpflichtet, den hierdurch entstandenen Schaden zu ersetzen. Dies gilt nicht, wenn der Dienstherr die Pflichtverletzung nicht zu vertreten hat.
 
@@ -107,8 +93,7 @@ Anzeigen der Personalwerbung sowie Dienstposten für Soldatinnen und Soldaten d�
 
 (5) Ein Verstoß des Dienstherrn gegen das Benachteiligungsverbot des § 7 begründet keinen Anspruch auf Begründung eines Dienstverhältnisses, auf eine Maßnahme der Ausbildung oder einen beruflichen Aufstieg, es sei denn, ein solcher ergibt sich aus einem anderen Rechtsgrund.
 
-
-## § 13 – Maßregelungsverbot
+# § 13 – Maßregelungsverbot
 
 (1) Der Dienstherr darf eine in § 6 genannte Person nicht wegen der Inanspruchnahme von Rechten nach diesem Abschnitt oder wegen der Weigerung, eine gegen diesen Abschnitt verstoßende Weisung auszuführen, benachteiligen. Gleiches gilt für Personen, die eine in § 6 genannte Person hierbei unterstützen oder als Zeuginnen oder Zeugen aussagen.
 
@@ -116,8 +101,7 @@ Anzeigen der Personalwerbung sowie Dienstposten für Soldatinnen und Soldaten d�
 
 (3) § 15 gilt entsprechend.
 
-
-## § 14 – Mitgliedschaft in Vereinigungen
+# § 14 – Mitgliedschaft in Vereinigungen
 
 (1) Die Vorschriften dieses Abschnitts gelten entsprechend für die Mitgliedschaft oder die Mitwirkung in
 
@@ -129,13 +113,11 @@ sowie deren jeweiligen Zusammenschlüssen.
 
 (2) Wenn die Ablehnung einen Verstoß gegen das Benachteiligungsverbot des § 7 Abs. 1 darstellt, besteht ein Anspruch auf Mitgliedschaft oder Mitwirkung in den in Absatz 1 genannten Vereinigungen.
 
-
-## § 15 – Beweislast
+# § 15 – Beweislast
 
 Wenn im Streitfall die eine Partei Indizien beweist, die eine Benachteiligung wegen eines in § 1 Abs. 1 und 2 Satz 1 genannten Grundes vermuten lassen, trägt die andere Partei die Beweislast dafür, dass kein Verstoß gegen die Bestimmungen zum Schutz vor Benachteiligung vorgelegen hat.
 
-
-## § 16 – Unterstützung durch Antidiskriminierungsverbände
+# § 16 – Unterstützung durch Antidiskriminierungsverbände
 
 (1) Antidiskriminierungsverbände sind Personenzusammenschlüsse, die nicht gewerbsmäßig und nicht nur vorübergehend entsprechend ihrer Satzung die besonderen Interessen der in § 6 genannten Personen im Rahmen einer Benachteiligung nach § 1 Abs. 1 oder 2 wahrnehmen. Die Befugnisse nach den Absätzen 2 bis 4 stehen ihnen zu, wenn sie mindestens 75 Mitglieder haben oder einen Zusammenschluss aus mindestens sieben Verbänden bilden.
 
@@ -145,24 +127,20 @@ Wenn im Streitfall die eine Partei Indizien beweist, die eine Benachteiligung we
 
 (4) Besondere Klagerechte und Vertretungsbefugnisse von Verbänden zu Gunsten von behinderten Menschen bleiben unberührt.
 
-
-## § 17 – Antidiskriminierungsstelle des Bundes
+# § 17 – Antidiskriminierungsstelle des Bundes
 
 Abschnitt 6 des Allgemeinen Gleichbehandlungsgesetzes über die Antidiskriminierungsstelle des Bundes findet im Rahmen dieses Gesetzes Anwendung.
 
-
-## § 18 – Schwerbehinderte Soldatinnen und Soldaten
+# § 18 – Schwerbehinderte Soldatinnen und Soldaten
 
 (1) Schwerbehinderte Soldatinnen und Soldaten dürfen bei einer Maßnahme, insbesondere beim beruflichen Aufstieg oder bei einem Befehl, nicht wegen ihrer Behinderung benachteiligt werden. Eine unterschiedliche Behandlung wegen der Behinderung ist jedoch zulässig, soweit eine Maßnahme die Art der von der schwerbehinderten Soldatin oder dem schwerbehinderten Soldaten auszuübenden Tätigkeit zum Gegenstand hat und eine bestimmte körperliche Funktion, geistige Fähigkeit oder seelische Gesundheit wesentliche und entscheidende berufliche Anforderung für diese Tätigkeit ist. Wenn im Streitfall die schwerbehinderte Soldatin oder der schwerbehinderte Soldat Indizien beweist, die eine Benachteiligung wegen der Behinderung vermuten lassen, trägt der Dienstherr die Beweislast dafür, dass nicht auf die Behinderung bezogene, sachliche Gründe eine unterschiedliche Behandlung rechtfertigen oder eine bestimmte körperliche Funktion, geistige Fähigkeit oder seelische Gesundheit wesentliche und entscheidende berufliche Anforderung für diese Tätigkeit ist.
 
 (2) Wird gegen das in Absatz 1 geregelte Benachteiligungsverbot beim beruflichen Aufstieg verstoßen, können hierdurch benachteiligte schwerbehinderte Soldatinnen oder Soldaten eine angemessene Entschädigung in Geld verlangen; ein Anspruch auf den beruflichen Aufstieg besteht nicht. Ein Anspruch auf Entschädigung muss innerhalb von zwei Monaten, nachdem die schwerbehinderte Soldatin oder der schwerbehinderte Soldat von dem Nichtzustandekommen des beruflichen Aufstiegs Kenntnis erhalten hat, geltend gemacht werden.
 
-
-## § 19 – Unabdingbarkeit
+# § 19 – Unabdingbarkeit
 
 Von den Vorschriften dieses Gesetzes kann nicht zu Ungunsten der Soldatinnen und Soldaten abgewichen werden.
 
-
-## § 20 – Übergangsvorschrift
+# § 20 – Übergangsvorschrift
 
 Erfolgen Benachteiligungen in Form sexueller Belästigungen nach dem Beschäftigtenschutzgesetz vor dem 18. August 2006, ist das zu diesem Zeitpunkt geltende Recht anzuwenden.

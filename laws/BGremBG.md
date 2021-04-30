@@ -1,20 +1,15 @@
-# [BGremBG] Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien  (Bundesgremienbesetzungsgesetz - BGremBG)
-
-Ausfertigungsdatum: 24.04.2015
-
+% Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien  (Bundesgremienbesetzungsgesetz - BGremBG)
+% Ausfertigungsdatum: 24.04.2015
  
-
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 Ziel des Gesetzes ist die paritätische Vertretung von Frauen und Männern in Gremien, soweit der Bund Mitglieder für diese bestimmen kann.
 
-
-## § 2 – Geltungsbereich
+# § 2 – Geltungsbereich
 
 Dieses Gesetz gilt für alle Gremien nach § 3 Nummer 1 und 2, für die der Bund Mitglieder bestimmen kann. Es gilt nicht für die Ernennung der Mitglieder der Bundesregierung, nicht für die Gerichtsbarkeit und nicht für Gremienmitglieder, die in Ausübung gesetzlich verbürgter Unabhängigkeit bestimmt werden.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind:
 
@@ -36,8 +31,7 @@ e) die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne R
 
 4. durch den Bund zu bestimmende Mitglieder: Mitglieder, die der Bund in ein Aufsichts- oder wesentliches Gremium unmittelbar und rechtsverbindlich wählen, berufen, entsenden oder für ein solches Gremium vorschlagen kann; ein Mitglied ist nicht durch den Bund bestimmt, wenn ein Dritter gegenüber dem Bund ein Vorschlagsrecht für die Mitgliedschaft hat und von diesem Recht Gebrauch macht.
 
-
-## § 4 – Vorgaben für Aufsichtsgremien
+# § 4 – Vorgaben für Aufsichtsgremien
 
 (1) In einem Aufsichtsgremium müssen ab dem 1. Januar 2016 mindestens 30 Prozent der durch den Bund zu bestimmenden Mitglieder Frauen und mindestens 30 Prozent Männer sein. Der Mindestanteil ist bei erforderlich werdenden Neuwahlen, Berufungen und Entsendungen zur Besetzung einzelner oder mehrerer Sitze zu beachten und sukzessive zu steigern. Bestehende Mandate können bis zu ihrem vorgesehenen Ende wahrgenommen werden. Stehen dem Bund insgesamt höchstens zwei Gremiensitze zu, sind die Sätze 1 bis 3 nicht anzuwenden. Bestimmen mehrere Institutionen des Bundes nach § 3 Nummer 3 Mitglieder eines Gremiums, ist die Gesamtzahl der zu bestimmenden Mitglieder maßgeblich. Bei den Berechnungen ist zur nächsten vollen Personenzahl aufzurunden.
 
@@ -45,8 +39,7 @@ e) die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne R
 
 (3) Bei einer Unterschreitung der Vorgaben nach den Absätzen 1 und 2 ist das Bundesministerium für Familie, Senioren, Frauen und Jugend unverzüglich zu unterrichten; die Unterschreitung ist zu begründen.
 
-
-## § 5 – Vorgaben für wesentliche Gremien
+# § 5 – Vorgaben für wesentliche Gremien
 
 (1) Die Institutionen des Bundes nach § 3 Nummer 3 haben ein Gremium als wesentlich zu bestimmen, wenn es besondere tatsächliche, wissenschaftliche oder zukunftsrelevante Bedeutung hat.
 
@@ -54,8 +47,7 @@ e) die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne R
 
 (3) § 4 Absatz 1 Satz 3 bis 6 und Absatz 2 Satz 2 gilt entsprechend.
 
-
-## § 6 – Statistik, Verordnungsermächtigung
+# § 6 – Statistik, Verordnungsermächtigung
 
 (1) Die Institutionen des Bundes nach § 3 Nummer 3 veröffentlichen auf ihrer Internetseite eine Aufstellung über ihre Aufsichts- und wesentlichen Gremien sowie über die Anzahl der in diesen jeweils durch den Bund zu bestimmenden Mitglieder. Die Veröffentlichung erfolgt erstmals bis zum 30. Juni 2015. Die Aufstellung nach Satz 1 ist regelmäßig zu aktualisieren.
 
@@ -65,8 +57,7 @@ e) die bundesunmittelbaren juristischen Personen des öffentlichen Rechts ohne R
 
 (4) Die Bundesregierung regelt durch Rechtsverordnung ohne Zustimmung des Bundesrates die einzelnen Vorgaben für die Mitteilung der statistischen Daten nach Absatz 2 Satz 3.
 
-
-## § 7 – Bericht
+# § 7 – Bericht
 
 (1) Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre eine Zusammenstellung und Auswertung der Gremienbesetzungen durch den Bund vor.
 

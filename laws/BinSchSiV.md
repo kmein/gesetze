@@ -1,16 +1,12 @@
-# [BinSchSiV] Verordnung zur Sicherstellung des Binnenschiffsverkehrs  (BinSchSiV)
-
-Ausfertigungsdatum: 20.01.1981
-
+% Verordnung zur Sicherstellung des Binnenschiffsverkehrs  (BinSchSiV)
+% Ausfertigungsdatum: 20.01.1981
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Nr. 1 und 2 und Abs. 2 Nr. 2, der §§ 3 und 5 Abs. 1 Satz 1, des § 19 Abs. 8 und des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082) verordnet die Bundesregierung mit Zustimmung des Bundesrates,  
 auf Grund des § 5 Abs. 1 Satz 2 dieses Gesetzes die Bundesregierung:
 
-
-## § 1 – Meldepflicht
+# § 1 – Meldepflicht
 
 (1) Binnenschiffe, die in einem Binnenschiffsregister der Bundesrepublik Deutschland eingetragen sind, mehr als 15 t Wasserverdrängung oder, soweit sie der Güterbeförderung dienen, mehr als 15 t Tragfähigkeit haben und auf den Bundeswasserstraßen verwendet werden, sind zu melden. Dies gilt nicht für Binnenschiffe, die
 
@@ -24,8 +20,7 @@ auf Grund des § 5 Abs. 1 Satz 2 dieses Gesetzes die Bundesregierung:
 
 (3) Die Meldung ist an die Generaldirektion Wasserstraßen und Schifffahrt zu richten. Sie kann bei jedem Wasserstraßen- und Schifffahrtsamt erstattet werden.
 
-
-## § 2 – Meldeverfahren
+# § 2 – Meldeverfahren
 
 (1) Die Meldung ist für jedes Binnenschiff schriftlich, mündlich oder fernmündlich mit folgenden Angaben zu erstatten:
 
@@ -47,8 +42,7 @@ auf Grund des § 5 Abs. 1 Satz 2 dieses Gesetzes die Bundesregierung:
 
 2. regelmäßig oder unter bestimmten Voraussetzungen weitere Meldungen zu erstatten.
 
-
-## § 3 – Ermächtigung
+# § 3 – Ermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung
 
@@ -58,8 +52,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 3. den Inhalt der Meldungen (§ 2 Abs. 1) einzuschränken oder, soweit dies wegen des weiteren Einsatzes der Binnenschiffe erforderlich ist, zu erweitern.
 
-
-## § 4 – Sonstige Meldungen
+# § 4 – Sonstige Meldungen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann einzelne Personen und Personenvereinigungen sowie Einrichtungen, die Zwecken der Binnenschiffahrt auf den Bundeswasserstraßen dienen, insbesondere Transportzentralen, verpflichten, ihr regelmäßig oder unter bestimmten Voraussetzungen Meldungen über den von diesen bewirtschafteten oder erfaßten Schiffsraum nach Art, Größe, Einsatz und Standort zu erstatten.
 
@@ -69,8 +62,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 2. den Zustand und die Leistungsfähigkeit der Hafen- und Umschlaganlagen und -einrichtungen.
 
-
-## § 5 – Erlaubnispflicht
+# § 5 – Erlaubnispflicht
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann zur Sicherstellung des lebenswichtigen Verkehrs anordnen, daß bestimmte, in ihrem Bezirk beginnende Fahrten der Binnenschiffe, die der Meldepflicht nach § 1 unterliegen, der Erlaubnis bedürfen. Die Anordnung darf nur ergehen, wenn dies auf Grund der Verkehrslage, insbesondere bei einem Mangel an Binnenschiffen dringend geboten ist.
 
@@ -80,8 +72,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 2. zur Erfüllung einer auf Gesetz, Rechtsverordnung oder behördlicher Verfügung beruhenden Verpflichtung.
 
-
-## § 6 – Erteilung, Rücknahme und Widerruf der Erlaubnis
+# § 6 – Erteilung, Rücknahme und Widerruf der Erlaubnis
 
 (1) Die Erlaubnis wird erteilt, wenn lebenswichtige Interessen nicht entgegenstehen.
 
@@ -93,13 +84,11 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (5) Zuständig für die Erteilung, die Rücknahme und den Widerruf der Erlaubnis ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-
-## § 7 – Zulassung von Binnenschiffen in Sonderfällen
+# § 7 – Zulassung von Binnenschiffen in Sonderfällen
 
 Die Generaldirektion Wasserstraßen und Schifffahrt kann ein Binnenschiff, das nicht zum Verkehr zugelassen ist, insbesondere, weil es kein Schiffsattest besitzt, befristet zum Verkehr zulassen, wenn der Einsatz für Zwecke der Verteidigung dringend geboten ist und durch die Verwendung des Schiffes eine unzumutbare Gefahr für die an Bord befindlichen Personen und für die Schiffahrt nicht besteht.
 
-
-## § 8 – Maßnahmen für den Umschlag
+# § 8 – Maßnahmen für den Umschlag
 
 (1) Der Eigentümer oder Besitzer von Umschlaganlagen in einem Hafen oder einer Umschlagstelle kann verpflichtet werden, beim Güterumschlag eine bestimmte Reihenfolge einzuhalten und in bestimmten Fristen zu laden und zu löschen.
 
@@ -107,13 +96,11 @@ Die Generaldirektion Wasserstraßen und Schifffahrt kann ein Binnenschiff, das n
 
 (3) Zuständig für die Verpflichtungen nach den Absätzen 1 und 2 ist die Hafenbehörde oder, soweit eine solche nicht besteht, die Hafenaufsichtsbehörde. Besteht auch keine Hafenaufsichtsbehörde, ist die untere Verwaltungsbehörde zuständig.
 
-
-## § 9 – Ausnahmen
+# § 9 – Ausnahmen
 
 Diese Verordnung findet mit Ausnahme des § 7 keine Anwendung auf Binnenschiffe, die im Eigentum des Bundes, der Länder, der Gemeinden und der Gemeindeverbände stehen. Dies gilt auch hinsichtlich der für sie auf Grund des Bundesleistungsgesetzes oder eines Vertrages zum Gebrauch in Anspruch genommenen Binnenschiffe.
 
-
-## § 10 – Zuwiderhandlungen
+# § 10 – Zuwiderhandlungen
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -143,8 +130,7 @@ begeht eine Zuwiderhandlung im Sinne des § 26 Nr. 1 des Verkehrssicherstellungs
 
 (2) Zuständige Verwaltungsbehörde im Sinne des § 29 Nr. 2 des Verkehrssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1 Buchstabe b, soweit § 4 Abs. 2 anzuwenden ist, und Nummer 5 die Landesbehörde, die den Verwaltungsakt erlassen hat, im Übrigen die Generaldirektion Wasserstraßen und Schifffahrt.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 

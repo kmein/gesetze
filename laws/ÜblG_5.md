@@ -1,10 +1,7 @@
-# [ÜblG 5] Gesetz zur Überleitung von Lasten und Deckungsmitteln vom Saarland auf den Bund  (Fünftes Überleitungsgesetz)
-
-Ausfertigungsdatum: 30.06.1959
-
+% Gesetz zur Überleitung von Lasten und Deckungsmitteln vom Saarland auf den Bund  (Fünftes Überleitungsgesetz)
+% Ausfertigungsdatum: 30.06.1959
  
-
-## § 1 – Geltung des Ersten Überleitungsgesetzes im Saarland
+# § 1 – Geltung des Ersten Überleitungsgesetzes im Saarland
 
 Das Erste Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund (Erstes Überleitungsgesetz) in der Fassung der Bekanntmachung vom 28. April 1955 (Bundesgesetzbl. I S. 193) tritt im Saarland am 1. Januar 1960 mit den nachstehenden Änderungen in Kraft:
 
@@ -74,8 +71,7 @@ Ab 1. April 1969 fällt die Leistung von Pauschbeträgen weg.
 
 § 17 Nr. 2 Kursivdruck: § 15 SVAnpG aufgeh. durch Art. 3 § 13 Nr. 1 G v. 21.12.1967 I 1259 mWv 1.1.1968, § 5 KnVAnpG neugeregelt durch KnVNG 822-8; KnVAnpG aufgeh. durch Art. 4 § 26 G v. 28.7.1969 I 974 mWv 1.8.1969; KnVNG aufgeh. durch Art. 83 Nr. 6 G v. 18.12.1989 I 2261 mWv 1.1.1992
 
-
-## § 2 – Geltung des Zweiten Überleitungsgesetzes im Saarland
+# § 2 – Geltung des Zweiten Überleitungsgesetzes im Saarland
 
 (1) Von dem Zweiten Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund (Zweites Überleitungsgesetz) vom 21. August 1951 (Bundesgesetzbl. I S. 774) treten im Saarland § 1 Abs. 2 und 3, §§ 3 bis 6 und 9 bis 11 mit Wirkung vom 1. Januar 1960 in Kraft.
 
@@ -83,13 +79,11 @@ Ab 1. April 1969 fällt die Leistung von Pauschbeträgen weg.
 
 (3) Der Bund übernimmt die Zahlungen der Versorgungsbezüge für die Beamten der früheren staatlichen Bergbetriebsverwaltung im Saarland ab 1. Januar 1960.
 
-
-## § 3 – Aufwendungen für ehemalige Kriegsgefangene und Heimkehrer
+# § 3 – Aufwendungen für ehemalige Kriegsgefangene und Heimkehrer
 
 Der Bund übernimmt mit Wirkung vom 1. Januar 1960 die Aufwendungen auf Grund des saarländischen Kriegsgefangenenentschädigungsgesetzes vom 9. Juli 1956 (Amtsblatt des Saarlandes S. 1017) nach Maßgabe des § 45 des Kriegsgefangenenentschädigungsgesetzes in der Fassung der Bekanntmachung vom 8. Dezember 1956 (Bundesgesetzbl. I S. 908) und die Aufwendungen auf Grund des saarländischen Heimkehrergesetzes vom 9. Juli 1956 (Amtsblatt des Saarlandes S. 1013) in der Fassung des saarländischen Gesetzes zur Einführung des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung im Saarland vom 18. Juni 1958 (Amtsblatt des Saarlandes S. 1249), soweit sie nicht im Rahmen der Kriegsfolgenhilfe abgegolten werden.
 
-
-## § 4 – Einnahmen aus Finanzmonopolen und Steuern
+# § 4 – Einnahmen aus Finanzmonopolen und Steuern
 
 (1) Mit Wirkung vom Ablauf der Übergangszeit nach Artikel 3 des Saarvertrages vom 27. Oktober 1956 (Bundesgesetzbl. II S. 1587) an stehen dem Bund die im Saarland anfallenden Erträge der Finanzmonopole und das Aufkommen der folgenden Steuern zu, soweit sie im Saarland erhoben werden:
 
@@ -107,15 +101,13 @@ Der Bund übernimmt mit Wirkung vom 1. Januar 1960 die Aufwendungen auf Grund de
 
 (2) Das Gesetz über den Vertrag zwischen der Bundesrepublik Deutschland und der französischen Republik zur Regelung der Saarfrage vom 22. Dezember 1956 (Bundesgesetzbl. II S. 1587) bleibt unberührt.
 
-
-## § 5 – Sonstige Einnahmen und Ausgaben
+# § 5 – Sonstige Einnahmen und Ausgaben
 
 (1) Die Regelung des § 10 Nr. 1 des Gesetzes über die Eingliederung des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011) gilt auch für die Zeit vom Ende der Übergangszeit nach Artikel 3 des Saarvertrages bis zum 31. Dezember 1959, soweit nicht in diesem Gesetz oder in anderen Bundesgesetzen ein anderer Zeitpunkt für den Übergang von Einnahmen oder Ausgaben auf den Bund vorgesehen wird. Ausgaben auf Grund des Truppen- oder Finanzvertrages gelten ab Ende der Übergangszeit zu Lasten des Bundes.
 
 (2) Soweit das Saarland auf Grund anderer Gesetze verpflichtet ist, bestimmte Lasten bis zum Ende der Übergangszeit nach Artikel 3 des Saarvertrages zu tragen, gilt Absatz 1 entsprechend.
 
-
-## § 6 – Entschädigungslast nach dem Bundesentschädigungsgesetz
+# § 6 – Entschädigungslast nach dem Bundesentschädigungsgesetz
 
 (1) Die Regelung des § 3 Nr. 10 des saarländischen Gesetzes zur Einführung des Bundesentschädigungsgesetzes - BEG - vom 6. Februar 1959 (Amtsblatt des Saarlandes S. 759) gilt auch für die Zeit vom Ende der Übergangszeit nach Artikel 3 des Saarvertrages bis zum 31. Dezember 1960.
 
@@ -123,13 +115,11 @@ Der Bund übernimmt mit Wirkung vom 1. Januar 1960 die Aufwendungen auf Grund de
 
 (3) Die Regelung des § 172 des Bundesentschädigungsgesetzes in der Fassung vom 29. Juni 1956 (Bundesgesetzbl. I S. 562) tritt im Saarland mit Wirkung vom 1. Januar 1961 in Kraft; mit Wirkung von diesem Zeitpunkt an wird in § 172 Abs. 1 hinter dem Wort "Rheinland-Pfalz" das Wort "Saarland" eingefügt.
 
-
-## § 7 – Versorgungslasten nach Artikel 3 der Anlage 1 zum Saarvertrag
+# § 7 – Versorgungslasten nach Artikel 3 der Anlage 1 zum Saarvertrag
 
 Der Bund erstattet dem Saarland mit Wirkung vom 1. Januar 1960 an die Ruhegehälter der nach Artikel 3 Abs. 1 der Anlage 1 zum Saarvertrag auf ihren Antrag in den Ruhestand versetzten Beamten bis zum Ende des Monats, in dem sie die gesetzliche Altersgrenze erreichen, längstens bis zum Ende des Monats, in dem sie sterben; das gilt auch für die entsprechenden Versorgungsbezüge der auf Antrag ausgeschiedenen, unter Artikel 3 Abs. 3 der Anlage 1 zum Saarvertrag fallenden Angestellten und Arbeiter.
 
-
-## § 8 – Übergangsbestimmungen
+# § 8 – Übergangsbestimmungen
 
 (1) Soweit nach diesem Gesetz Einnahmen vom Saarland auf den Bund übergehen, stehen die von dem jeweils in Betracht kommenden Stichtag ab eingehenden Einnahmen dem Bund zu; die vor dem Stichtag eingehenden Einnahmen verbleiben dem Saarland. Die auf den Bund vom Stichtag ab übergehenden Ausgaben sind für Rechnung des Bundes zu leisten, soweit sie vom Saarland bis zum Stichtag noch nicht geleistet worden sind.
 
@@ -145,8 +135,7 @@ Der Bund erstattet dem Saarland mit Wirkung vom 1. Januar 1960 an die Ruhegehäl
 
 (7) Die Saarländische Tabak- und Zündwarenregie wird durch das Saarland abgewickelt. Einnahmen der Regie, die nach ihrer Aufhebung fällig werden, stehen dem Saarland zu. Ausgaben, die zur Abwicklung von Verpflichtungen der Regie zu leisten sind, trägt das Saarland.
 
-
-## § 9 – Finanzausgleich
+# § 9 – Finanzausgleich
 
 (1) Für die Zeit vom Ablauf der Übergangszeit nach Artikel 3 des Saarvertrages bis zum 31. Dezember 1959 gewährt der Bund dem Saarland eine Finanzhilfe zum Ausgleich des durch den Übergang der in § 4 aufgeführten Einnahmen auf den Bund entstehenden Einnahmeausfalls.
 
@@ -156,22 +145,18 @@ Der Bund erstattet dem Saarland mit Wirkung vom 1. Januar 1960 an die Ruhegehäl
 
 (4) Das Gesetz über den Finanzausgleich unter den Ländern vom Rechnungsjahr 1958 an (Länderfinanzausgleichsgesetz 1958) vom 5. März 1959 (Bundesgesetzbl. I S. 73) ist erstmals für das Rechnungsjahr 1961 auf das Saarland anzuwenden.
 
-
-## § 10 – Geltung von Vorschriften des Dritten und Vierten Überleitungsgesetzes im Saarland
+# § 10 – Geltung von Vorschriften des Dritten und Vierten Überleitungsgesetzes im Saarland
 
 § 1 Abs. 1 des Gesetzes über die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) und § 5 des Gesetzes zur Regelung finanzieller Beziehungen zwischen dem Bund und den Ländern (Viertes Überleitungsgesetz) vom 27. April 1955 (Bundesgesetzbl. I S. 189) treten im Saarland mit dem Ablauf der Übergangszeit nach Artikel 3 des Saarvertrages in Kraft.
 
-
-## § 11 – Auskunftspflicht
+# § 11 – Auskunftspflicht
 
 Die zuständigen Behörden des Bundes und des Saarlandes sind verpflichtet, sich gegenseitig die zur Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen und auf Verlangen die sachliche Richtigkeit der Auskünfte von der obersten Rechnungsprüfungsbehörde bestätigen zu lassen.
 
-
-## § 12 – Geltung in Berlin
+# § 12 – Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

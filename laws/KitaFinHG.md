@@ -1,10 +1,7 @@
-# [KitaFinHG] Gesetz über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder
-
-Ausfertigungsdatum: 10.12.2008
-
+% Gesetz über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder
+% Ausfertigungsdatum: 10.12.2008
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Das Bundessondervermögen „Kinderbetreuungsausbau“ gewährt den Ländern in den Jahren 2008 bis 2013 nach Artikel 104b des Grundgesetzes Finanzhilfen für Investitionen der Länder, Gemeinden und Gemeindeverbände zu Tageseinrichtungen und zur Tagespflege für Kinder unter drei Jahren. Die Finanzhilfen des Bundes betragen insgesamt bis zu 2,15 Milliarden Euro und sind in abfallenden Jahresbeträgen zu gestalten.
 
@@ -12,13 +9,11 @@ Ausfertigungsdatum: 10.12.2008
 
 (3) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen im Wege der Anteilsfinanzierung nach Artikel 104b des Grundgesetzes durch den Bund gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
-
-## § 2 – Überprüfung der Mittelverwendung
+# § 2 – Überprüfung der Mittelverwendung
 
 Die Verwendung der Mittel wird jährlich überprüft. Zu diesem Zweck berichten die Länder dem Bund jeweils über die neu eingerichteten und gesicherten Plätze und übersenden Übersichten über die zweckentsprechende Inanspruchnahme und Verwendung der Bundesmittel sowie über Anzahl und Art der geförderten Maßnahmen.
 
-
-## § 3 – Verwaltungsvereinbarung
+# § 3 – Verwaltungsvereinbarung
 
 (1) Die Einzelheiten der Durchführung des Investitionsprogramms werden in einer Verwaltungsvereinbarung mit den Ländern geregelt, die das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen mit den Ländern schließt.
 
@@ -34,8 +29,7 @@ Die Verwendung der Mittel wird jährlich überprüft. Zu diesem Zweck berichten 
 
 5. die Bewirtschaftung und Abrechnung der Finanzhilfen einschließlich der Überprüfung ihrer Verwendung und der Rückforderung von Mitteln.
 
-
-## § 4 – Mittelabruf; Nachweis der Mittelverwendung; Abschlussbericht
+# § 4 – Mittelabruf; Nachweis der Mittelverwendung; Abschlussbericht
 
 (1) Investitionen im Rahmen von 92,5 Prozent des den Ländern entsprechend Artikel 2 der Verwaltungsvereinbarung „Kinderbetreuungsfinanzierung“ 2008 – 2013 jeweils zugeteilten Gesamtbetrages sind bis zum 31. Dezember 2013 abzuschließen; die Mittel hierfür können bis zum 30. Juni 2014 abgerufen werden. Investitionen im Rahmen von 7,5 Prozent des den Ländern entsprechend Artikel 2 der Verwaltungsvereinbarung Investitionsprogramm „Kinderbetreuungsfinanzierung“ 2008 – 2013 jeweils zugeteilten Gesamtbetrages sind bis zum 31. Dezember 2014 abzuschließen; die Mittel können bis zum 31. März 2015 abgerufen werden.
 
@@ -51,8 +45,7 @@ Die Verwendung der Mittel wird jährlich überprüft. Zu diesem Zweck berichten 
 
 (4) Nach Prüfung des Verwendungsnachweises der verausgabten Finanzhilfen haben die Länder dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den in Absatz 3 genannten Nummern bis zum 28. Februar 2016 einen zusammenfassenden Abschlussbericht vorzulegen.
 
-
-## § 5 – Zweck der Finanzhilfen
+# § 5 – Zweck der Finanzhilfen
 
 (1) In den Jahren 2013 und 2014 gewährt der Bund aus dem Bundessondervermögen „Kinderbetreuungsausbau“ Ländern und Gemeinden nach Artikel 104b Absatz 2 des Grundgesetzes Finanzhilfen für Investitionen in Tageseinrichtungen und zur Kindertagespflege für Kinder unter drei Jahren. Gefördert werden Investitionsvorhaben, die der Schaffung zusätzlicher Betreuungsplätze dienen und die ab dem 1. Juli 2012 begonnen wurden.
 
@@ -62,8 +55,7 @@ Die Verwendung der Mittel wird jährlich überprüft. Zu diesem Zweck berichten 
 
 (4) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen im Wege der Anteilsfinanzierung nach Artikel 104b des Grundgesetzes durch den Bund gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
-
-## § 6 – Höhe und Aufteilung der Programmkosten
+# § 6 – Höhe und Aufteilung der Programmkosten
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 580,5 Millionen Euro werden gemäß Artikel 104b Absatz 2 Satz 3 des Grundgesetzes im Zeitablauf mit fallenden Jahresbeträgen entsprechend der Anzahl der Kinder unter drei Jahren wie folgt bereitgestellt:  
   
@@ -218,8 +210,7 @@ Auf Grund der Regelungen in § 7 können sich die Verfügungsrahmen ändern.
 
 (2) Der Bundesanteil ist bis zu 90 Prozent der zuwendungsfähigen Kosten für Investitionen zulässig.
 
-
-## § 7 – Anpassung der Verfügungsrahmen
+# § 7 – Anpassung der Verfügungsrahmen
 
 (1) Die Bundesmittel nach § 6 Absatz 1 stehen Ländern zur Verfügung, die bis zum 31. Dezember 2012 mindestens 95 Prozent der ihnen nach Kapitel 1 im Rahmen des Investitionsprogramms „Kinderbetreuungsfinanzierung“ 2008–2013 zur Verfügung gestellten Bundesmittel durch Bewilligung gebunden haben. Etwaige spätere Rückforderungen sind unschädlich. Besteht in einem Land keine Bindung der Bundesmittel im Sinne von Satz 1, fließen die für dieses Land in § 6 Absatz 1 vorgesehenen Bundesmittel im Verhältnis der Zahl der Kinder unter drei Jahren den anderen Ländern zu.
 
@@ -243,8 +234,7 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (4) Übersteigt der Mittelabruf eines Landes den nach § 6 Absatz 1 für das Jahr 2013 bereitgestellten Verfügungsrahmen, so verringert sich der Verfügungsrahmen für das Jahr 2014 entsprechend.
 
-
-## § 8 – Verfahren und Durchführung
+# § 8 – Verfahren und Durchführung
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach dem Haushaltsrecht der Länder. Bei der Weiterreichung von Bundesmitteln durch die Länder an Dritte gelten die Bestimmungen dieses Kapitels sinngemäß.
 
@@ -252,8 +242,7 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (3) Die Länder sind ermächtigt, die zuständigen Bundeskassen zur Auszahlung der Mittel an die zuständigen Landeskassen anzuweisen, sobald die Bundesmittel zur Begleichung fälliger Zahlungen durch den Träger des Investitionsvorhabens benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Empfänger weiter und verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
-
-## § 9 – Qualifiziertes Monitoring; Berichtspflichten
+# § 9 – Qualifiziertes Monitoring; Berichtspflichten
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zum 31. März 2013, 30. Juni 2013, 31. Dezember 2013, 31. März 2014, 30. Juni 2014, 31. Dezember 2014 und 31. März 2015 über die Anzahl der bewilligten und der neu eingerichteten zusätzlichen Betreuungsplätze in Tageseinrichtungen und in der Kindertagespflege sowie über die hierfür aufgewendeten Bundes- und Landesmittel, getrennt nach Landesmitteln, kommunalen Mitteln und sonstigen Mitteln.
 
@@ -267,20 +256,17 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 § 9 Abs. 1 Kursivdruck: IdF d. Art. 1 Nr. 3 Buchst. a G v. 12.12.2013 I 4118 mWv 31.12.2013 (vor der Angabe "31. März 2014" wurde abweichend von der Änderungsanweisung ein Komma ergänzt)
 
-
-## § 10 – Rückforderung von Bundesmitteln
+# § 10 – Rückforderung von Bundesmitteln
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn die geförderten Maßnahmen ihrer Art nach nicht den in § 5 Absatz 1 und 2 festgelegten Zweckbindungen entsprechen, wenn sie vor dem in § 5 Absatz 1 genannten Stichtag begonnen wurden oder zu viele Mittel abgerufen wurden. Eine Rückzahlung erfolgt auch, sofern die Mittel nicht innerhalb des Förderzeitraums verbraucht wurden. Nach den Sätzen 1 und 2 zurückzuzahlende Beträge sind nach Absatz 2 zu verzinsen und dem Bund zu erstatten.
 
 (2) Werden Mittel entgegen § 8 Absatz 3 zu früh angewiesen, so kann der Bund für die Zeit von der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen verlangen. Der Zinssatz bemisst sich nach dem jeweiligen Zinssatz für Kredite des Bundes zur Deckung von Ausgaben zur Zeit der Fristüberschreitung.
 
-
-## § 11 – Grundvereinbarung
+# § 11 – Grundvereinbarung
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den Ländern über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes vom 19. September 1986 (Ministerialblatt des Bundesministers der Finanzen und des Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.
 
-
-## § 12 – Zweck der Finanzhilfen
+# § 12 – Zweck der Finanzhilfen
 
 (1) In den Jahren 2015 bis 2018 gewährt der Bund aus dem Bundessondervermögen „Kinderbetreuungsausbau“ Ländern und Gemeinden nach Artikel 104b des Grundgesetzes Finanzhilfen für Investitionen in Tageseinrichtungen und zur Kindertagespflege für Kinder unter drei Jahren. Investitionen sind Neubau-, Ausbau-, Umbau-, Sanierungs-, Renovierungs- und Ausstattungsinvestitionen. Die Ausführungsbestimmungen zur Ausgestaltung von Ausstattungsinvestitionen obliegen den Ländern.
 
@@ -290,8 +276,7 @@ Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den 
 
 (4) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen im Wege der Anteilsfinanzierung nach Artikel 104b des Grundgesetzes durch den Bund gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
-
-## § 13 – Höhe und Aufteilung der Programmkosten
+# § 13 – Höhe und Aufteilung der Programmkosten
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 550 Millionen Euro werden entsprechend der Anzahl der Kinder unter drei Jahren wie folgt bereitgestellt:
 
@@ -302,8 +287,7 @@ Die diesbezüglichen Jahresbeträge gemäß § 4a Absatz 2 des Kinderbetreuungsf
 
 (2) Der Bundesanteil ist bis zu 90 Prozent der zuwendungsfähigen Kosten für Investitionen zulässig.
 
-
-## § 14 – Gemeinschaftsfinanzierung
+# § 14 – Gemeinschaftsfinanzierung
 
 (1) Bundesmittel, die nicht zu 100 Prozent des gesamten Verfügungsrahmens des Landes bis zum Stichtag 30. Juni 2017 bewilligt sind, fließen in Höhe der Differenz zu den tatsächlich bewilligten Mitteln und im Verhältnis der Zahl der Kinder unter drei Jahren den Ländern zu, die die zur Verfügung gestellten Mitteln vollständig bewilligt haben. Mittel, die den Ländern nach dem 30. Juni 2017 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 31. Dezember 2017 bewilligt werden.
 
@@ -317,8 +301,7 @@ Die diesbezüglichen Jahresbeträge gemäß § 4a Absatz 2 des Kinderbetreuungsf
 
 Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer entsprechenden Kürzung der nach § 13 Absatz 1 dem Land zur Verfügung stehenden Bundesmittel; der Verfügungsrahmen der Länder, die die nach Satz 2 erforderlichen Anteile nachgewiesen haben, erhöht sich im Verhältnis der Zahl der Kinder unter drei Jahren.
 
-
-## § 15 – Verfahren und Durchführung
+# § 15 – Verfahren und Durchführung
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach dem Haushaltsrecht der Länder. Bei der Weiterreichung von Bundesmitteln durch die Länder an Dritte gelten die Bestimmungen dieses Kapitels sinngemäß.
 
@@ -326,8 +309,7 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (3) Die Länder sind ermächtigt, die zuständigen Bundeskassen zur Auszahlung der Mittel an die zuständigen Landeskassen anzuweisen, sobald die Bundesmittel zur Begleichung fälliger Zahlungen durch den Träger des Investitionsvorhabens benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Empfänger weiter und verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
-
-## § 16 – Qualifiziertes Monitoring, Abschlussbericht
+# § 16 – Qualifiziertes Monitoring, Abschlussbericht
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den Stichtagen 30. Juni 2015, 31. Dezember 2015, 30. Juni 2017 und 30. Juni 2019 über die Anzahl der bewilligten und der neu eingerichteten zusätzlichen Betreuungsplätze in Kindertageseinrichtungen und in der Kindertagespflege sowie die hierfür aufgewendeten Bundes- und Landesmittel, getrennt nach Landesmitteln, kommunalen Mitteln und sonstigen Mitteln. Hierfür legen sie Listen über die mit diesem Investitionsprogramm geförderten Projekte vor.
 
@@ -341,20 +323,17 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (6) Die Länder unterrichten das Bundesministerium für Familie, Senioren, Frauen und Jugend bis zum 30. Juni 2020 in Form eines zusammenfassenden vorläufigen Abschlussberichts, der zum Stichtag 1. März 2020 die Gesamtzahl der im Land zur Verfügung stehenden Plätze für Kinder unter drei Jahren enthält. Nach Prüfung des Verwendungsnachweises der verausgabten Finanzhilfen ist bis zum 30. Juni 2021 ein zusammenfassender Abschlussbericht, der zum Stichtag 1. März 2021 die Gesamtzahl der für Kinder unter drei Jahren im Land zur Verfügung stehenden Plätze enthält, vorzulegen.
 
-
-## § 17 – Rückforderung von Bundesmitteln
+# § 17 – Rückforderung von Bundesmitteln
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn die geförderten Maßnahmen ihrer Art nach nicht den in § 12 Absatz 1 bis 3 festgelegten Zweckbindungen entsprechen, wenn sie vor dem in § 12 Absatz 2 genannten Stichtag begonnen wurden oder zu viele Mittel abgerufen wurden. Eine Rückzahlung erfolgt auch, sofern die Mittel nicht innerhalb des Förderzeitraums verbraucht wurden. Nach den Sätzen 1 und 2 zurückzuzahlende Beträge sind nach Absatz 2 zu verzinsen und dem Bund zu erstatten.
 
 (2) Werden Mittel entgegen § 8 Absatz 3 zu früh angewiesen, so kann der Bund für die Zeit von der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen verlangen. Der Zinssatz bemisst sich nach dem jeweiligen Zinssatz für Kredite des Bundes zur Deckung von Ausgaben zur Zeit der Fristüberschreitung.
 
-
-## § 18 – Grundvereinbarung
+# § 18 – Grundvereinbarung
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den Ländern über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes vom 19. September 1986 (Ministerialblatt des Bundesministers der Finanzen und des Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.
 
-
-## § 19 – Zweck der Finanzhilfen
+# § 19 – Zweck der Finanzhilfen
 
 (1) In den Jahren 2017 bis 2020 gewährt der Bund den Ländern und Gemeinden aus dem Bundessondervermögen „Kinderbetreuungsausbau“ nach Artikel 104b des Grundgesetzes Finanzhilfen für Investitionen in Tageseinrichtungen und zur Kindertagespflege für Kinder von der Geburt bis zum Schuleintritt. Investitionen sind Neubau-, Ausbau-, Umbau-, Sanierungs-, Renovierungs- und Ausstattungsinvestitionen. Die Ausführungsbestimmungen zur Ausgestaltung von Ausstattungsinvestitionen obliegen den Ländern.
 
@@ -366,8 +345,7 @@ Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den 
 
 (5) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen im Wege der Anteilsfinanzierung nach Artikel 104b des Grundgesetzes durch den Bund gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
-
-## § 20 – Höhe und Aufteilung der Programmkosten
+# § 20 – Höhe und Aufteilung der Programmkosten
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 1 126 Millionen Euro werden entsprechend der Anzahl der Kinder unter sechs Jahren wie folgt bereitgestellt:
 
@@ -378,8 +356,7 @@ Die Mittel, die dem Bundessondervermögen gemäß § 4a Absatz 3 des Kinderbetre
 
 (2) Die Bundesförderung kann für eine Einzelmaßnahme bis zu 90 Prozent der zuwendungsfähigen Kosten für Investitionen betragen.
 
-
-## § 21 – Gemeinschaftsfinanzierung
+# § 21 – Gemeinschaftsfinanzierung
 
 (1) Bundesmittel, die nicht zu 100 Prozent des gesamten Verfügungsrahmens des Landes bis zum Stichtag 31. Dezember 2020 bewilligt sind, fließen in Höhe der Differenz zu den tatsächlich bewilligten Mitteln und im Verhältnis der Zahl der Kinder unter sechs Jahren den Ländern zu, die die zur Verfügung gestellten Mittel vollständig bewilligt haben. Mittel, die den Ländern nach dem 31. Dezember 2020 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 30. Juni 2021 bewilligt werden.
 
@@ -393,8 +370,7 @@ Die Mittel, die dem Bundessondervermögen gemäß § 4a Absatz 3 des Kinderbetre
 
 Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer entsprechenden Kürzung der nach § 20 Absatz 1 dem Land zur Verfügung stehenden Bundesmittel; der Verfügungsrahmen der Länder, die die nach Satz 2 erforderlichen Anteile nachgewiesen haben, erhöht sich im Verhältnis der Zahl der Kinder unter sechs Jahren.
 
-
-## § 22 – Verfahren und Durchführung
+# § 22 – Verfahren und Durchführung
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach dem Haushaltsrecht der Länder. Bei der Weiterreichung von Bundesmitteln durch die Länder an Dritte gelten die Bestimmungen dieses Kapitels sinngemäß.
 
@@ -402,8 +378,7 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (3) Die Länder sind ermächtigt, die zuständigen Bundeskassen zur Auszahlung der Mittel an die zuständigen Landeskassen anzuweisen, sobald die Bundesmittel zur Begleichung fälliger Zahlungen durch den Träger des Investitionsvorhabens benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Empfänger weiter und verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
-
-## § 23 – Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht
+# § 23 – Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu den Stichtagen 31. Dezember 2019, 31. Dezember 2020, 31. Dezember 2021 und 30. Juni 2023 über die Anzahl der bewilligten und zusätzlich geschaffenen Betreuungsplätze in Kindertageseinrichtungen und in der Kindertagespflege, differenziert nach Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt, sowie über die hierfür jeweils aufgewendeten Bundes- und Landesmittel, getrennt nach Landesmitteln, kommunalen Mitteln und sonstigen Mitteln. Hierfür legen sie Listen über die mit diesem Investitionsprogramm geförderten Projekte vor.
 
@@ -415,20 +390,17 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (5) Die Länder unterrichten das Bundesministerium für Familie, Senioren, Frauen und Jugend nach Prüfung des Verwendungsnachweises der verausgabten Finanzhilfen bis zum 31. Oktober 2025 in Form eines zusammenfassenden Abschlussberichts. Der Abschlussbericht enthält zum Stichtag 30. Juni 2023 die Gesamtzahl der im Land bewilligten und zusätzlich geschaffenen Betreuungsplätze, differenziert nach Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt.
 
-
-## § 24 – Rückforderung von Bundesmitteln; Zinsen
+# § 24 – Rückforderung von Bundesmitteln; Zinsen
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn die geförderten Maßnahmen ihrer Art nach nicht den in § 19 Absatz 1 und 2 festgelegten Zweckbindungen entsprechen, wenn sie vor dem in § 19 Absatz 2 genannten Stichtag begonnen wurden oder wenn zu viele Mittel abgerufen wurden. Eine Rückzahlung erfolgt auch, sofern die Mittel nicht innerhalb des Förderzeitraums verbraucht wurden. Nach den Sätzen 1 und 2 zurückzuzahlende Beträge sind nach Absatz 2 zu verzinsen und dem Bund zu erstatten.
 
 (2) Werden Mittel entgegen § 22 Absatz 3 zu früh angewiesen, so kann der Bund für die Zeit von der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen verlangen. Der Zinssatz bemisst sich nach dem jeweiligen Zinssatz für Kredite des Bundes zur Deckung von Ausgaben zur Zeit der Fristüberschreitung.
 
-
-## § 25 – Grundvereinbarung
+# § 25 – Grundvereinbarung
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den Ländern über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes vom 19. September 1986 (Ministerialblatt des Bundesministers der Finanzen und des Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.
 
-
-## § 26 – Zweck der Finanzhilfen
+# § 26 – Zweck der Finanzhilfen
 
 (1) In den Jahren 2020 und 2021 gewährt der Bund den Ländern und Gemeinden im Rahmen des Konjunktur- und Krisenbewältigungspakets zur Bewältigung der Folgen der Corona-Pandemie Finanzhilfen nach Artikel 104b des Grundgesetzes aus dem Bundessondervermögen „Kinderbetreuungsausbau“. Die Finanzhilfen sind für Investitionen in Tageseinrichtungen und zur Kindertagespflege für Kinder von der Geburt bis zum Schuleintritt einzusetzen. Investitionen sind Neubau-, Ausbau-, Umbau-, Sanierungs-, Renovierungs- und Ausstattungsinvestitionen. Die Ausführungsbestimmungen zur Ausgestaltung von Ausstattungsinvestitionen obliegen den Ländern.
 
@@ -440,8 +412,7 @@ Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den 
 
 (5) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen im Wege der Anteilsfinanzierung nach Artikel 104b des Grundgesetzes durch den Bund gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
-
-## § 27 – Höhe und Aufteilung der Programmkosten
+# § 27 – Höhe und Aufteilung der Programmkosten
 
 (1) Die Mittel des Bundessondervermögens in Höhe von 1 000 Millionen Euro werden entsprechend der Anzahl der Kinder unter sechs Jahren wie folgt bereitgestellt:  
   
@@ -453,8 +424,7 @@ Die Mittel, die dem Bundessondervermögen gemäß § 4a Absatz 4 des Kinderbetre
 
 (2) Die Bundesförderung kann für eine Einzelmaßnahme bis zu 90 Prozent der zuwendungsfähigen Kosten für Investitionen betragen.
 
-
-## § 28 – Gemeinschaftsfinanzierung
+# § 28 – Gemeinschaftsfinanzierung
 
 (1) Bundesmittel, die nicht zu 100 Prozent des gesamten Verfügungsrahmens des Landes bis zum Stichtag 30. Juni 2021 bewilligt sind, fließen in Höhe der Differenz zu den tatsächlich bewilligten Mitteln und im Verhältnis der Zahl der Kinder unter sechs Jahren den Ländern zu, die die zur Verfügung gestellten Mittel vollständig bewilligt haben. Eine Umverteilung findet ab einem Volumen von 65 000 Euro statt. Mittel, die den Ländern nach dem 30. Juni 2021 im Rahmen der Umverteilung bereitgestellt werden, müssen vollständig bis zum 31. Oktober 2021 bewilligt werden.
 
@@ -468,8 +438,7 @@ Die Mittel, die dem Bundessondervermögen gemäß § 4a Absatz 4 des Kinderbetre
 
 Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer entsprechenden Kürzung der nach § 27 Absatz 1 dem Land zur Verfügung stehenden Bundesmittel; der Verfügungsrahmen der Länder, die die nach Satz 2 erforderlichen Anteile nachgewiesen haben, erhöht sich im Verhältnis der Zahl der Kinder unter sechs Jahren.
 
-
-## § 29 – Verfahren und Durchführung
+# § 29 – Verfahren und Durchführung
 
 (1) Den Ländern obliegen die Regelung und Durchführung des Verfahrens zur Verwendung der Finanzhilfen. Die Bewirtschaftung richtet sich nach dem Haushaltsrecht der Länder. Mögliche Verfahrensvereinfachungen im Vergaberecht und bei Ausschreibungen zur Beschleunigung von Investitionsvorhaben sind zu berücksichtigen. Die Länder sind gefordert, entsprechende Vereinfachungen umzusetzen. Bei der Weiterreichung von Bundesmitteln durch die Länder an Dritte gelten die Bestimmungen dieses Kapitels sinngemäß.
 
@@ -477,8 +446,7 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (3) Die Länder sind ermächtigt, die zuständigen Bundeskassen zur Auszahlung der Mittel an die zuständigen Landeskassen anzuweisen, sobald die Bundesmittel zur Begleichung fälliger Zahlungen durch den Träger des Investitionsvorhabens benötigt werden. Die Länder leiten die Finanzhilfen des Bundes unverzüglich an die Empfänger weiter und verpflichten diese, auf die Bundesförderung angemessen hinzuweisen.
 
-
-## § 30 – Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht
+# § 30 – Qualifiziertes Monitoring; Berichtspflichten; Abschlussbericht
 
 (1) Die Länder berichten dem Bundesministerium für Familie, Senioren, Frauen und Jugend zum Stichtag 31. Dezember 2020 über die im Land getroffenen Regelungen zur Durchführung des Verfahrens und Verwendung der Finanzhilfen und übermitteln entsprechende (Förder-)Richtlinien.
 
@@ -492,14 +460,12 @@ Eine Unterschreitung des Anteils der nachzuweisenden Mittel führt zu einer ents
 
 (6) Die Länder unterrichten das Bundesministerium für Familie, Senioren, Frauen und Jugend nach Prüfung des Verwendungsnachweises der verausgabten Finanzhilfen bis zum 30. Juni 2024 in Form eines zusammenfassenden Abschlussberichts. Der Abschlussbericht enthält zum Stichtag 30. Juni 2022 die Gesamtzahl der im Land zur Verfügung stehenden Betreuungsplätze und die Zahl der mit den Finanzhilfen im Land zusätzlich geschaffenen Betreuungsplätze, differenziert nach neuen und gesicherten Plätzen für Kinder unter drei Jahren und Plätzen für Kinder ab drei Jahren bis zum Schuleintritt.
 
-
-## § 31 – Rückforderung von Bundesmitteln; Zinsen
+# § 31 – Rückforderung von Bundesmitteln; Zinsen
 
 (1) Die Länder haben die Finanzhilfen zurückzuzahlen, wenn die geförderten Maßnahmen ihrer Art nach nicht den in § 26 Absatz 1 und 2 festgelegten Zweckbindungen entsprechen, wenn sie vor dem in § 26 Absatz 2 genannten Stichtag begonnen wurden oder wenn zu viele Mittel abgerufen wurden. Eine Rückzahlung hat auch zu erfolgen, sofern die Mittel nicht innerhalb des Förderzeitraums verbraucht wurden. Nach den Sätzen 1 und 2 zurückzuzahlende Beträge sind nach Absatz 2 zu verzinsen und dem Bund zu erstatten.
 
 (2) Werden Mittel entgegen § 29 Absatz 3 zu früh angewiesen, so kann der Bund für die Zeit von der Auszahlung bis zur zweckentsprechenden Verwendung Zinsen verlangen. Der Zinssatz bemisst sich nach dem jeweiligen Zinssatz für Kredite des Bundes zur Deckung von Ausgaben zur Zeit der Fristüberschreitung.
 
-
-## § 32 – Grundvereinbarung
+# § 32 – Grundvereinbarung
 
 Im Übrigen sind die Regelungen der Grundvereinbarung zwischen dem Bund und den Ländern über die Gewährung von Finanzhilfen des Bundes an die Länder nach Artikel 104a Absatz 4 des Grundgesetzes vom 19. September 1986 (Ministerialblatt des Bundesministers der Finanzen und des Bundesministers für Wirtschaft 1986, S. 238) entsprechend anzuwenden.

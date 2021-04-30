@@ -1,15 +1,11 @@
-# [StAuskV] Verordnung zur Durchführung von § 89 Abs. 2 der Abgabenordnung  (Steuer-Auskunftsverordnung - StAuskV)
-
-Ausfertigungsdatum: 30.11.2007
-
+% Verordnung zur Durchführung von § 89 Abs. 2 der Abgabenordnung  (Steuer-Auskunftsverordnung - StAuskV)
+% Ausfertigungsdatum: 30.11.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 89 Abs. 2 Satz 4 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866, 2003 I S. 61), der zuletzt durch Artikel 10 Nr. 9 des Gesetzes vom 13. Dezember 2006 (BGBl. I S. 2878) geändert worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Form und Inhalt des Antrags auf Erteilung einer verbindlichen Auskunft
+# § 1 – Form und Inhalt des Antrags auf Erteilung einer verbindlichen Auskunft
 
 (1) Der Antrag auf Erteilung einer verbindlichen Auskunft ist schriftlich oder elektronisch bei der nach § 89 Absatz 2 Satz 2 oder Satz 3 der Abgabenordnung zuständigen Finanzbehörde zu stellen. Der Antrag hat Folgendes zu enthalten:
 
@@ -75,8 +71,7 @@ In den Fällen des Absatzes 2 Satz 1 Nummer 2 wird für die Bestimmung der Zust�
 
 (4) Soll der dem Antrag zugrunde liegende Sachverhalt durch eine Person, Personenvereinigung oder Vermögensmasse verwirklicht werden, die im Zeitpunkt der Antragstellung noch nicht existiert, kann der Antrag auf Erteilung einer verbindlichen Auskunft auch durch einen Dritten gestellt werden, sofern er ebenfalls ein eigenes berechtigtes Interesse an der Auskunftserteilung darlegen kann. In diesem Fall sind die in Absatz 1 Nr. 1 und 3 genannten Angaben auch hinsichtlich der Person, Personenvereinigung oder Vermögensmasse zu machen, die den der Auskunft zugrunde liegenden Sachverhalt verwirklichen soll.
 
-
-## § 2 – Bindung einer verbindlichen Auskunft
+# § 2 – Bindung einer verbindlichen Auskunft
 
 (1) Die von der nach § 89 Abs. 2 Satz 2 und 3 der Abgabenordnung zuständigen Finanzbehörde erteilte verbindliche Auskunft ist für die Besteuerung des Antragstellers oder in den Fällen des § 1 Absatz 4 für die Besteuerung der Person, Personenvereinigung oder Vermögensmasse, die den Sachverhalt verwirklicht hat, bindend, wenn der später verwirklichte Sachverhalt von dem der Auskunft zugrunde gelegten Sachverhalt nicht oder nur unwesentlich abweicht. Die verbindliche Auskunft ist nicht bindend, wenn sie zuungunsten des Steuerpflichtigen dem geltenden Recht widerspricht.
 
@@ -86,12 +81,10 @@ In den Fällen des Absatzes 2 Satz 1 Nummer 2 wird für die Bestimmung der Zust�
 
 (4) Unbeschadet der §§ 129 bis 131 der Abgabenordnung kann eine verbindliche Auskunft mit Wirkung für die Zukunft aufgehoben oder geändert werden, wenn sich herausstellt, dass die erteilte Auskunft unrichtig war.
 
-
-## § 3 – Anwendungsvorschrift
+# § 3 – Anwendungsvorschrift
 
 § 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli 2017 geltenden Fassung sind erstmals auf Anträge auf Erteilung einer verbindlichen Auskunft anzuwenden, die nach dem 1. September 2017 bei der zuständigen Finanzbehörde eingegangen sind.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

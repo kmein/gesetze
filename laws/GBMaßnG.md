@@ -1,10 +1,7 @@
-# [GBMaßnG] Gesetz über Maßnahmen auf dem Gebiete des Grundbuchwesens
-
-Ausfertigungsdatum: 20.12.1963
-
+% Gesetz über Maßnahmen auf dem Gebiete des Grundbuchwesens
+% Ausfertigungsdatum: 20.12.1963
  
-
-## § 1
+# § 1
 
 Der Antrag, bei einer Hypothek einen Umstellungsbetrag, der sich auf mehr als eine Deutsche Mark für je zehn Reichsmark beläuft, in das Grundbuch einzutragen, kann nach dem Ende des Jahres 1964 nur noch gestellt werden, wenn
 
@@ -12,8 +9,7 @@ a) ein Verfahren nach § 6 der Vierzigsten Durchführungsverordnung zum Umstellu
 
 b) die Voraussetzungen, unter denen die Umstellung der Hypothek sich nach § 2 Nr. 4 der Vierzigsten Durchführungsverordnung zum Umstellungsgesetz richtet, vorliegen und seit dem Ende des Jahres, in dem sie eingetreten sind, nicht mehr als drei Jahre verstrichen sind.
 
-
-## § 2
+# § 2
 
 (1) Weist das Grundbuchamt einen Antrag des in § 1 bezeichneten Inhalts zurück, so ist die Beschwerde nach den Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit zulässig. Auf den zur Zustellung bestimmten Ausfertigungen der Verfügung, durch die der Antrag zurückgewiesen wird, soll vermerkt werden, welcher Rechtsbehelf gegen die Verfügung gegeben ist und bei welcher Behörde, in welcher Form und binnen welcher Frist er einzulegen ist.
 
@@ -25,8 +21,7 @@ b) die Voraussetzungen, unter denen die Umstellung der Hypothek sich nach § 2 N
 
 (5) Weist das Beschwerdegericht nach dem Inkrafttreten dieses Gesetzes eine vor diesem Zeitpunkt erhobene Beschwerde der in Absatz 4 bezeichneten Art zurück, so findet die Rechtsbeschwerde statt; Absatz 1 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 3
+# § 3
 
 Nach dem Ende des Jahres 1965 darf bei einer Hypothek ein Umstellungsbetrag, der sich auf mehr als eine Deutsche Mark für je zehn Reichsmark beläuft, in das Grundbuch nur eingetragen werden, wenn
 
@@ -34,8 +29,7 @@ a) zur Zeit der Eintragung bei der Hypothek ein Umstellungsschutzvermerk eingetr
 
 b) ein nach § 1 Buchstabe b zulässiger Eintragungsantrag gestellt worden ist.
 
-
-## § 4
+# § 4
 
 (1) Ein Umstellungsschutzvermerk wird von Amts wegen eingetragen, wenn ein Eintragungsantrag des in § 1 bezeichneten Inhalts vor dem 1. November 1965 nicht erledigt wird. Ist in einem Verfahren über einen Antrag des in § 1 bezeichneten Inhalts oder in einem vor dem Ende des Jahres 1964 eingeleiteten Umstellungsverfahren ein Rechtsmittel oder ein Antrag auf Wiedereinsetzung in den vorigen Stand anhängig und wird über das Rechtsmittel oder den Antrag vor dem 1. November 1965 nicht entschieden, so hat das Gericht das Grundbuchamt um die Eintragung eines Umstellungsschutzvermerkes für den Fall zu ersuchen, daß ein solcher Vermerk bei der Hypothek noch nicht eingetragen ist.
 
@@ -59,8 +53,7 @@ Ein Antrag auf Eintragung eines Umstellungsschutzvermerkes darf nicht aus dem Gr
 
 (7) Nach dem Ende des Jahres 1965 darf ein Umstellungsschutzvermerk nur noch auf Grund des Absatzes 2 Satz 1 Buchstabe c eingetragen werden.
 
-
-## § 5
+# § 5
 
 (1) Der Umstellungsschutzvermerk wird von Amts wegen im Grundbuch gelöscht, wenn
 
@@ -76,20 +69,17 @@ jedoch in den Fällen der Buchstaben b und c nicht, wenn der Umstellungsschutzve
 
 (3) Ist der Umstellungsschutzvermerk auf Antrag eingetragen worden, so wird er auch auf Antrag dessen gelöscht, der seine Eintragung beantragt hat.
 
-
-## § 6
+# § 6
 
 Zur Eintragung oder Löschung des Umstellungsschutzvermerkes bei einer Hypothek, über die ein Brief erteilt ist, bedarf es nicht der Vorlegung des Briefs. Die Eintragung und die Löschung werden auf dem Brief nicht vermerkt.
 
-
-## § 7
+# § 7
 
 (1) Darf gemäß § 3 der dort bezeichnete Umstellungsbetrag nicht mehr eingetragen werden, so besteht die Hypothek nur in Höhe eines Umstellungsbetrags, der sich auf eine Deutsche Mark für je zehn Reichsmark beläuft.
 
 (2) Die durch die Hypothek gesicherte persönliche Forderung wird durch die Vorschrift des Absatzes 1 nicht berührt.
 
-
-## § 8
+# § 8
 
 (1) Ist bei der Hypothek ein Umstellungsschutzvermerk nicht eingetragen, so gelten nach dem Ende des Jahres 1965 für die Berichtigung des Grundbuchs durch Eintragung eines Umstellungsbetrags, der sich auf eine Deutsche Mark für je zehn Reichsmark beläuft, die besonderen Vorschriften der Absätze 2 bis 8.
 
@@ -109,15 +99,13 @@ Zur Eintragung oder Löschung des Umstellungsschutzvermerkes bei einer Hypothek,
 
 (9) Hat der Gläubiger oder der Eigentümer der Berichtigung des Grundbuchs widersprochen, so kann der Antragsberechtigte von ihm verlangen, die Berichtigung des Grundbuchs durch Eintragung des Umstellungsbetrags oder die Eintragung eines Umstellungsschutzvermerkes auf Grund des § 4 Abs. 2 Satz 1 Buchstabe c zu erwirken.
 
-
-## § 9
+# § 9
 
 (1) Die Zulässigkeit eines Umstellungsverfahrens wird durch die Vorschriften des § 7 Abs. 1 nicht berührt. § 7 Abs. 1 gilt jedoch auch dann, wenn in einem Umstellungsverfahren entschieden worden ist oder entschieden wird, daß der Umstellungsbetrag sich auf mehr als eine Deutsche Mark für je zehn Reichsmark beläuft.
 
 (2) § 7 Abs. 1 gilt nicht als eine Umstellungsvorschrift im Sinne des Lastenausgleichsgesetzes.
 
-
-## § 10
+# § 10
 
 (1) Hat die dem Gläubiger zustehende Hypothek sich auf Grund des § 7 Abs. 1 vermindert, so kann der Gläubiger verlangen, daß der Eigentümer ihm in Höhe der Verminderung eine weitere Hypothek an nächstbereiter Rangstelle bestellt. Ist ein anderer als derjenige, der bei Eintritt der Verminderung der Hypothek Eigentümer gewesen ist, Eigentümer des Grundstücks, so kann jedoch der Anspruch nur geltend gemacht werden
 
@@ -127,79 +115,65 @@ b) im Falle des Erwerbes durch Einzelrechtsnachfolge mittels Rechtsgeschäfts, w
 
 (2) Der Gläubiger hat dem Eigentümer die Auslagen zu erstatten, die mit der Bestellung der weiteren Hypothek verbunden sind.
 
-
-## § 11
+# § 11
 
 Die Vorschriften dieses Abschnitts sind auf Grundschulden und Rentenschulden sowie auf Pfandrechte an Bahneinheiten und auf Schiffshypotheken entsprechend anzuwenden, jedoch gilt § 8 Abs. 3 für Schiffshypotheken nicht.
 
-
-## § 12
+# § 12
 
 Die Vorschriften dieses Abschnitts sind auf Reallasten entsprechend anzuwenden. Im übrigen gelten auch für Reallasten die §§ 5 und 6 der Vierzigsten Durchführungsverordnung zum Umstellungsgesetz.
 
-
-## § 13
+# § 13
 
 (1) Für die Eintragung des Umstellungsbetrags wird die Hälfte der in Nummer 14130 des Kostenverzeichnisses zum Gerichts- und Notarkostengesetz bestimmten Gebühr erhoben. Geschäftswert ist der Umstellungsbetrag. Wird die Berichtigung von Amts wegen vorgenommen oder hätte sie auch von Amts wegen vorgenommen werden können, so ist nur der Eigentümer Kostenschuldner.
 
 (2) Die Eintragung und die Löschung des Umstellungsschutzvermerkes sind kostenfrei.
 
-
-## § 14
+# § 14
 
 (1) Der Antrag, den Übergang einer eingetragenen Umstellungsgrundschuld auf den Eigentümer in das Grundbuch einzutragen, kann nur bis zum Ende des Jahres 1964 gestellt werden. Das gleiche gilt für den Antrag, eine nicht eingetragene Umstellungsgrundschuld, die auf den Eigentümer übergegangen ist, für den Eigentümer in das Grundbuch einzutragen.
 
 (2) In den Fällen des Absatzes 1 gelten die Vorschriften in § 2 sinngemäß.
 
-
-## § 15
+# § 15
 
 Ist der Übergang einer eingetragenen Umstellungsgrundschuld auf den Eigentümer im Grundbuch nicht eingetragen und ist die Eintragung bis zum Ende des Jahres 1964 nicht beantragt worden oder eine Verfügung, durch die der Eintragungsantrag zurückgewiesen ist, rechtskräftig geworden, so erlischt die Umstellungsgrundschuld, soweit sie nicht vorher erloschen ist. Die Umstellungsgrundschuld kann von Amts wegen im Grundbuch gelöscht werden. Die Löschung der Umstellungsgrundschuld ist kostenfrei.
 
-
-## § 16
+# § 16
 
 Eine im Grundbuch nicht eingetragene Umstellungsgrundschuld, die auf den Eigentümer übergegangen ist, erlischt, wenn der in § 14 Abs. 1 Satz 2 bezeichnete Antrag nicht bis zum Ende des Jahres 1964 gestellt worden ist oder eine Verfügung, durch die der Antrag zurückgewiesen ist, rechtskräftig geworden ist.
 
-
-## § 17
+# § 17
 
 Ein durch Rangrücktritt der Umstellungsgrundschuld dem vortretenden Recht eingeräumter Rang geht nicht dadurch verloren, daß die Umstellungsgrundschuld erlischt.
 
-
-## § 18
+# § 18
 
 (1) Wird die Löschung einer umgestellten Hypothek oder Grundschuld beantragt, deren Geldbetrag 3 000 Euro nicht übersteigt, so bedürfen die erforderlichen Erklärungen und Nachweise nicht der Form des § 29 der Grundbuchordnung. Bei dem Nachweis einer Erbfolge oder des Bestehens einer fortgesetzten Gütergemeinschaft kann das Grundbuchamt von den in § 35 Abs. 1 und 2 der Grundbuchordnung genannten Beweismitteln absehen und sich mit anderen Beweismitteln, für welche die Form des § 29 der Grundbuchordnung nicht erforderlich ist, begnügen, wenn die Beschaffung des Erbscheins, des Europäischen Nachlasszeugnisses oder des Zeugnisses nach § 1507 des Bürgerlichen Gesetzbuches nur mit unverhältnismäßigem Aufwand an Kosten oder Mühe möglich ist; der Antragsteller kann auch zur Versicherung an Eides Statt zugelassen werden.
 
 (2) Bei Berechnung des Geldbetrags der Hypothek oder Grundschuld ist von dem im Grundbuch eingetragenen Umstellungsbetrag auszugehen. Ist der Umstellungsbetrag nicht eingetragen und liegen die Voraussetzungen vor, unter denen eine Berichtigung des Grundbuchs durch Eintragung eines Umstellungsbetrags, der sich auf eine Deutsche Mark für je zehn Reichsmark beläuft, zulässig ist, so ist von diesem Umstellungsbetrag auszugehen; liegen diese Voraussetzungen nicht vor, so ist von einem Umstellungsbetrag auszugehen, der sich auf eine Deutsche Mark für je eine Reichsmark beläuft.
 
-
-## § 19
+# § 19
 
 Die Vorschriften des § 18 gelten sinngemäß für eine umgestellte Rentenschuld oder Reallast, deren Jahresleistung 15 Euro nicht übersteigt.
 
-
-## § 20
+# § 20
 
 Die Vorschriften des § 18 gelten für eine umgestellte Schiffshypothek, deren Geldbetrag 3.000 Euro nicht übersteigt, entsprechend mit der Maßgabe, daß statt auf den § 29 und den § 35 Abs. 1 und 2 der Grundbuchordnung auf die §§ 37 und 41 der Schiffsregisterordnung vom 26. Mai 1951 (Bundesgesetzbl. I S. 360) verwiesen wird.
 
-
-## § 21
+# § 21
 
 \-
 
-
-## § 22
+# § 22
 
 Nach dem Ende des Jahres 1964 darf eine Abgeltungshypothek (§ 8 der Verordnung zur Durchführung der Verordnung über die Aufhebung der Gebäudeentschuldungssteuer vom 31. Juli 1942 - Reichsgesetzbl. I S. 503) nicht mehr in das Grundbuch eingetragen werden.
 
-
-## § 23
+# § 23
 
 Abgeltungslasten (§ 2 Abs. 2 der Verordnung über die Aufhebung der Gebäudeentschuldungssteuer vom 31. Juli 1942 - Reichsgesetzbl. I S. 501) erlöschen mit dem Ende des Jahres 1964, soweit sie nicht vorher erloschen sind.
 
-
-## § 24
+# § 24
 
 (1) Ist eine Abgeltungshypothek im Grundbuch eingetragen, so kann das Grundbuchamt nach dem Ende des Jahres 1964, jedoch frühestens drei Jahre nach der Eintragung der Abgeltungshypothek in das Grundbuch, den Gläubiger auffordern, binnen einer Frist von drei Monaten bei dem Grundbuchamt eine schriftliche Erklärung einzureichen, ob eine Forderung aus dem Abgeltungsdarlehen noch besteht; in der Aufforderung ist auf die Rechtsfolge ihrer Nichtbeachtung hinzuweisen. Auf einen vor Ablauf der Frist eingegangenen Antrag des Gläubigers kann das Grundbuchamt die Frist auf bestimmte Zeit verlängern. Die Frist beginnt mit der Zustellung der Aufforderung an den, der als Gläubiger der Abgeltungshypothek eingetragen ist.
 
@@ -213,13 +187,11 @@ Abgeltungslasten (§ 2 Abs. 2 der Verordnung über die Aufhebung der Gebäudeent
 
 (6) Die Vorschriften der Grundbuchordnung über die Löschung gegenstandsloser Eintragungen bleiben unberührt.
 
-
-## § 25
+# § 25
 
 Die Forderung aus dem Abgeltungsdarlehen wird nicht dadurch berührt, daß die Abgeltungslast oder die Abgeltungshypothek nach den Vorschriften dieses Abschnitts erlischt.
 
-
-## § 26
+# § 26
 
 (1) Einem Antrag des Berechtigten auf Erteilung eines neuen Hypothekenbriefs ist außer in den Fällen des § 67 der Grundbuchordnung auch stattzugeben, wenn der Brief durch Kriegseinwirkung oder im Zusammenhang mit besatzungsrechtlichen oder besatzungshoheitlichen Enteignungen von Banken oder Versicherungen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet vernichtet worden oder abhanden gekommen und sein Verbleib seitdem nicht bekanntgeworden ist. § 68 der Grundbuchordnung gilt auch hier. Die Erteilung des neuen Briefs ist kostenfrei.
 
@@ -229,69 +201,56 @@ Die Forderung aus dem Abgeltungsdarlehen wird nicht dadurch berührt, daß die A
 
 (4) Die Vorschriften der Absätze 1 bis 3 gelten für Grundschuld- und Rentenschuldbriefe sinngemäß.
 
-
-## § 26a – Eintragungen im Zusammenhang mit der Einführung des Euro
+# § 26a – Eintragungen im Zusammenhang mit der Einführung des Euro
 
 (1) Für die Eintragung der Umstellung im Grundbuch eingetragener Rechte und sonstiger Vermerke auf Euro, deren Geldbetrag in der Währung eines Staates bezeichnet ist, der an der einheitlichen europäischen Währung teilnimmt, genügt in der Zeit vom 1. Januar 1999 bis zum 31. Dezember 2001 der Antrag des Grundstückseigentümers oder des Gläubigers oder Inhabers des sonstigen Rechts oder Vermerks, dem die Zustimmung des anderen Teils beizufügen ist; der Antrag und die Zustimmung bedürfen nicht der in § 29 der Grundbuchordnung vorgesehenen Form. Nach dem in Satz 1 bezeichneten Zeitraum kann das Grundbuchamt die Umstellung von Amts wegen bei der nächsten anstehenden Eintragung im Grundbuchblatt vornehmen. Es hat die Umstellung einzutragen, wenn sie vom Eigentümer oder vom eingetragenen Gläubiger oder Inhaber des Rechts oder Vermerks beantragt wird. Das gleiche gilt, wenn bei dem Recht oder Vermerk eine Eintragung mit Ausnahme der Löschung vorzunehmen ist oder das Recht oder der Vermerk auf ein anderes Grundbuchblatt übertragen wird und die Umstellung beantragt wird. In den Fällen der Sätze 2 bis 4 bedarf es nicht der Vorlage eines für das Recht erteilten Briefs; die Eintragung wird auf dem Brief nicht vermerkt, es sei denn, der Vermerk wird ausdrücklich beantragt.
 
 (2) Die vorstehenden Vorschriften gelten für die dort genannten Eintragungen in das Schiffsregister, das Schiffsbauregister und das Register für Pfandrechte an Luftfahrzeugen sinngemäß.
 
-
-## § 27
-
-\-
-
-
-## § 28 – (weggefallen)
+# § 27
 
 \-
 
-
-## § 29
-
-\-
-
-
-## § 30
+# § 28 – (weggefallen)
 
 \-
 
+# § 29
 
-## § 31 – (weggefallen)
+\-
 
+# § 30
 
-## § 32
+\-
+
+# § 31 – (weggefallen)
+
+# § 32
 
 Soweit nach landesrechtlichen Vorschriften für die dem Grundbuchamt obliegenden Verrichtungen andere Behörden als die Amtsgerichte zuständig sind, bleiben die Bestimmungen, wonach die Abänderung einer Entscheidung des Grundbuchamts zunächst bei dem Amtsgericht nachzusuchen ist, unberührt.
 
-
-## § 33
+# § 33
 
 \-
 
-
-## § 34
+# § 34
 
 (1) (Änderungsvorschrift)
 
 (2) (weggefallen)
 
-
-## § 35
+# § 35
 
 Die Vorschriften des Ersten, des Zweiten, des Dritten und des Vierten Abschnitts gelten nicht im Saarland.
 
-
-## § 36
+# § 36
 
 (weggefallen)
 
-
-## § 36a
+# § 36a
 
 In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gelten nur die §§ 18 bis 20 und 22 bis 26a, § 18 Abs. 2 Satz 2 jedoch mit der Maßgabe, daß an die Stelle eines Umrechnungsbetrages von einer Deutschen Mark zu zehn Reichsmark der Umrechnungssatz von einer Deutschen Mark zu zwei Reichsmark oder Mark der Deutschen Demokratischen Republik tritt, und die §§ 22 bis 25 mit der Maßgabe, daß das Jahr 1964 durch das Jahr 1995 ersetzt wird. Die Verjährung am 9. Juli 1995 noch nicht verjährter Forderungen aus Abgeltungsdarlehen (§ 25) ist gehemmt. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Finanzen das Datum festzulegen, zu dem die Hemmung nach Satz 2 endet.
 
-
-## § 37
+# § 37
 
 Dieses Gesetz tritt mit dem Beginn des zweiten Kalendermonats nach der Verkündung in Kraft, jedoch § 21 Nr. 4 mit Wirkung vom Inkrafttreten des Lastenausgleichsgesetzes (§ 375).

@@ -1,10 +1,7 @@
-# [PfZLpV] Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Pferden
-
-Ausfertigungsdatum: 27.10.1992
-
+% Verordnung über die Leistungsprüfungen und die Zuchtwertfeststellung bei Pferden
+% Ausfertigungsdatum: 27.10.1992
  
-
-## § 1
+# § 1
 
 (1) Zur Zuchtwertfeststellung bei einem Pferd werden je nach der Zuchtrichtung mindestens der Zuchtwertteil Reitleistung, Rennleistung, Fahrleistung oder Zugleistung in Leistungsprüfungen nach der Anlage festgestellt sowie die äußere Erscheinung in Abhängigkeit vom Zuchtziel und unter besonderer Berücksichtigung des Bewegungsablaufs beurteilt. Unter Berücksichtigung der Merkmale Charakter, Temperament, allgemeines Leistungsvermögen und Leistungsbereitschaft umfassen mindestens, soweit jeweils im Zuchtziel vorgesehen,
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 27.10.1992
 
 (2) Der Zuchtwert wird nach allgemein anerkannten und wissenschaftlich gesicherten Methoden festgestellt. Dabei sind Leistungsunterschiede, die nicht genetisch bedingt sind, soweit wie möglich auszuschalten. Werden Leistungsmerkmale in einem Index zusammengefaßt, so werden sie nach ihrer sich aus dem Zuchtprogramm ergebenden Bedeutung gewichtet; dabei wird der Index auf einen Mittelwert von 100 und eine Standardabweichung von 20 standardisiert.
 
-
-## § 2
+# § 2
 
 (1) Werden Leistungsprüfungen zur Feststellung des Zuchtwertes von Pferden als pferdesportliche Veranstaltungen durchgeführt, dürfen Pferde, die ihren Ursprung im Inland haben oder in einem inländischen Zuchtbuch eingetragen sind, nicht besser gestellt werden als Pferde aus anderen Mitgliedstaaten. Hiervon ausgenommen sind
 
@@ -33,13 +29,11 @@ Ausfertigungsdatum: 27.10.1992
 
 (3) Die zuständigen Behörden melden dem Bundesministerium für Ernährung und Landwirtschaft jährlich bis zum 31. Dezember die geplanten Veranstaltungen, die nach Absatz 1 Satz 2 durchgeführt werden sollen.
 
-
-## § 3
+# § 3
 
 (Inkrafttreten, Außerkrafttreten)
 
-
-## Anlage – (zu § 1 Abs. 1)
+# Anlage – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 2001, 191 - 192
 

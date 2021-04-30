@@ -1,13 +1,9 @@
-# [GrStG] Grundsteuergesetz  (GrStG)
-
-Ausfertigungsdatum: 07.08.1973
-
+% Grundsteuergesetz  (GrStG)
+% Ausfertigungsdatum: 07.08.1973
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Heberecht
+# § 1 – Heberecht
 
 (1) Die Gemeinde bestimmt, ob von dem in ihrem Gebiet liegenden Grundbesitz Grundsteuer zu erheben ist.
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 07.08.1973
 
 (3) Für den in gemeindefreien Gebieten liegenden Grundbesitz bestimmt die Landesregierung durch Rechtsverordnung, wer die nach diesem Gesetz den Gemeinden zustehenden Befugnisse ausübt.
 
-
-## § 2 – Steuergegenstand
+# § 2 – Steuergegenstand
 
 Steuergegenstand ist der inländische Grundbesitz im Sinne des Bewertungsgesetzes:
 
@@ -24,15 +19,13 @@ Steuergegenstand ist der inländische Grundbesitz im Sinne des Bewertungsgesetze
 
 2. die Grundstücke (§§ 243, 244 des Bewertungsgesetzes); diesen stehen die in § 218 Satz 3 des Bewertungsgesetzes bezeichneten Betriebsgrundstücke gleich.
 
-
-## § 3 – Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
+# § 3 – Steuerbefreiung für Grundbesitz bestimmter Rechtsträger
 
 (1) Von der Grundsteuer sind befreit
 
 1. Grundbesitz, der von einer inländischen juristischen Person des öffentlichen Rechts für einen öffentlichen Dienst oder Gebrauch benutzt wird. Ausgenommen ist der Grundbesitz, der von Berufsvertretungen und Berufsverbänden sowie von Kassenärztlichen Vereinigungen und Kassenärztlichen Bundesvereinigungen benutzt wird;
 
-1a.  
-(weggefallen)
+1a. (weggefallen)
 
 2. Grundbesitz, der vom Bundeseisenbahnvermögen für Verwaltungszwecke benutzt wird;
 
@@ -59,8 +52,7 @@ Der Grundbesitz muß ausschließlich demjenigen, der ihn für die begünstigten 
 (+++ § 3 Abs. 1 Nr. 1a F. 1994-09-14: Zur Anwendung vgl. § 38 Satz 3 F. ab 1994-09-14 +++)  
 (+++ § 3 Abs. 1 Nr. 5 und 6 F. 1993-09-13: Zur erstmaligen Anwendung vgl. § 38 Satz 2 F. 1993-09-13 +++)
 
-
-## § 4 – Sonstige Steuerbefreiungen
+# § 4 – Sonstige Steuerbefreiungen
 
 Soweit sich nicht bereits eine Befreiung nach § 3 ergibt, sind von der Grundsteuer befreit
 
@@ -80,8 +72,7 @@ c) die fließenden Gewässer und die ihren Abfluß regelnden Sammelbecken, sowei
 
 6. Grundbesitz, der für die Zwecke eines Krankenhauses benutzt wird, wenn das Krankenhaus in dem Kalenderjahr, das dem Veranlagungszeitpunkt (§ 13 Abs. 1) vorangeht, die Voraussetzungen des § 67 Abs. 1 oder 2 der Abgabenordnung erfüllt hat. Der Grundbesitz muß ausschließlich demjenigen, der ihn benutzt, oder einer juristischen Person des öffentlichen Rechts zuzurechnen sein.
 
-
-## § 5 – Zu Wohnzwecken benutzter Grundbesitz
+# § 5 – Zu Wohnzwecken benutzter Grundbesitz
 
 (1) Dient Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4) benutzt wird, zugleich Wohnzwecken, gilt die Befreiung nur für
 
@@ -95,8 +86,7 @@ c) die fließenden Gewässer und die ihren Abfluß regelnden Sammelbecken, sowei
 
 (2) Wohnungen sind stets steuerpflichtig, auch wenn die Voraussetzungen des Absatzes 1 vorliegen.
 
-
-## § 6 – Land- und forstwirtschaftlich genutzter Grundbesitz
+# § 6 – Land- und forstwirtschaftlich genutzter Grundbesitz
 
 Wird Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4) benutzt wird, zugleich land- und forstwirtschaftlich genutzt, so gilt die Befreiung nur für
 
@@ -106,56 +96,47 @@ Wird Grundbesitz, der für steuerbegünstigte Zwecke (§§ 3 und 4) benutzt wird
 
 3. Grundbesitz, der unter § 4 Nr. 1 bis 4 fällt.
 
-
-## § 7 – Unmittelbare Benutzung für einen steuerbegünstigten Zweck
+# § 7 – Unmittelbare Benutzung für einen steuerbegünstigten Zweck
 
 Die Befreiung nach den §§ 3 und 4 tritt nur ein, wenn der Steuergegenstand für den steuerbegünstigten Zweck unmittelbar benutzt wird. Unmittelbare Benutzung liegt vor, sobald der Steuergegenstand für den steuerbegünstigten Zweck hergerichtet wird.
 
-
-## § 8 – Teilweise Benutzung für einen steuerbegünstigten Zweck
+# § 8 – Teilweise Benutzung für einen steuerbegünstigten Zweck
 
 (1) Wird ein räumlich abgegrenzter Teil des Steuergegenstandes für steuerbegünstigte Zwecke (§§ 3 und 4) benutzt, so ist nur dieser Teil des Steuergegenstandes steuerfrei.
 
 (2) Dient der Steuergegenstand oder ein Teil des Steuergegenstandes (Absatz 1) sowohl steuerbegünstigten Zwecken (§§ 3 und 4) als auch anderen Zwecken, ohne daß eine räumliche Abgrenzung für die verschiedenen Zwecke möglich ist, so ist der Steuergegenstand oder der Teil des Steuergegenstandes nur befreit, wenn die steuerbegünstigten Zwecke überwiegen.
 
-
-## § 9 – Stichtag für die Festsetzung der Grundsteuer, Entstehung der Steuer
+# § 9 – Stichtag für die Festsetzung der Grundsteuer, Entstehung der Steuer
 
 (1) Die Grundsteuer wird nach den Verhältnissen zu Beginn des Kalenderjahres festgesetzt.
 
 (2) Die Steuer entsteht mit dem Beginn des Kalenderjahres, für das die Steuer festzusetzen ist.
 
-
-## § 10 – Steuerschuldner
+# § 10 – Steuerschuldner
 
 (1) Schuldner der Grundsteuer ist derjenige, dem der Steuergegenstand bei der Feststellung des Grundsteuerwerts zugerechnet ist.
 
 (2) Ist der Steuergegenstand mehreren Personen zugerechnet, so sind sie Gesamtschuldner.
 
-
-## § 11 – Persönliche Haftung
+# § 11 – Persönliche Haftung
 
 (1) Neben dem Steuerschuldner haften der Nießbraucher des Steuergegenstandes und derjenige, dem ein dem Nießbrauch ähnliches Recht zusteht.
 
 (2) Wird ein Steuergegenstand ganz oder zu einem Teil einer anderen Person übereignet, so haftet der Erwerber neben dem früheren Eigentümer für die auf den Steuergegenstand oder Teil des Steuergegenstandes entfallende Grundsteuer, die für die Zeit seit dem Beginn des letzten vor der Übereignung liegenden Kalenderjahres zu entrichten ist. Das gilt nicht für Erwerbe aus einer Insolvenzmasse und für Erwerbe im Vollstreckungsverfahren.
 
-
-## § 12 – Dingliche Haftung
+# § 12 – Dingliche Haftung
 
 Die Grundsteuer ruht auf dem Steuergegenstand als öffentliche Last.
 
-
-## § 13 – Steuermesszahl und Steuermessbetrag
+# § 13 – Steuermesszahl und Steuermessbetrag
 
 Bei der Berechnung der Grundsteuer ist von einem Steuermessbetrag auszugehen. Dieser ist durch Anwendung eines Promillesatzes (Steuermesszahl) auf den Grundsteuerwert oder seinen steuerpflichtigen Teil zu ermitteln, der nach dem Bewertungsgesetz im Veranlagungszeitpunkt (§ 16 Absatz 1, § 17 Absatz 3, § 18 Absatz 3) für den Steuergegenstand maßgebend ist.
 
-
-## § 14 – Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
+# § 14 – Steuermeßzahl für Betriebe der Land- und Forstwirtschaft
 
 Für Betriebe der Land- und Forstwirtschaft beträgt die Steuermeßzahl 0,55 Promille.
 
-
-## § 15 – Steuermesszahl für Grundstücke
+# § 15 – Steuermesszahl für Grundstücke
 
 (1) Die Steuermesszahl beträgt
 
@@ -187,8 +168,7 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (5) Die Steuermesszahl nach Absatz 1 Nummer 2 wird für bebaute Grundstücke um 10 Prozent ermäßigt, wenn sich auf dem Grundstück Gebäude befinden, die Baudenkmäler im Sinne des jeweiligen Landesdenkmalschutzgesetzes sind. Stehen auf einem Grundstück nur ein Teil der Gebäude oder nur Teile eines Gebäudes im Sinne des jeweiligen Landesdenkmalschutzgesetzes unter Denkmalschutz, so ist die Ermäßigung der Steuermesszahl entsprechend anteilig zu gewähren.
 
-
-## § 16 – Hauptveranlagung
+# § 16 – Hauptveranlagung
 
 (1) Die Steuermeßbeträge werden auf den Hauptfeststellungszeitpunkt (§ 221 Absatz 2 des Bewertungsgesetzes) allgemein festgesetzt (Hauptveranlagung). Dieser Zeitpunkt ist der Hauptveranlagungszeitpunkt.
 
@@ -196,8 +176,7 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (3) Ist die Festsetzungsfrist (§ 169 der Abgabenordnung) bereits abgelaufen, so kann die Hauptveranlagung unter Zugrundelegung der Verhältnisse vom Hauptveranlagungszeitpunkt mit Wirkung für einen späteren Veranlagungszeitpunkt vorgenommen werden, für den diese Frist noch nicht abgelaufen ist.
 
-
-## § 17 – Neuveranlagung
+# § 17 – Neuveranlagung
 
 (1) Wird eine Wertfortschreibung (§ 222 Absatz 1 des Bewertungsgesetzes) oder eine Artfortschreibung oder Zurechnungsfortschreibung (§ 222 Absatz 2 des Bewertungsgesetzes) durchgeführt, so wird der Steuermeßbetrag auf den Fortschreibungszeitpunkt neu festgesetzt (Neuveranlagung).
 
@@ -217,8 +196,7 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (4) Treten die Voraussetzungen für eine Neuveranlagung während des Zeitraums zwischen dem Hauptveranlagungszeitpunkt und dem Zeitpunkt des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die Neuveranlagung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge vorgenommen.
 
-
-## § 18 – Nachveranlagung
+# § 18 – Nachveranlagung
 
 (1) Wird eine Nachfeststellung (§ 223 Absatz 1 des Bewertungsgesetzes) durchgeführt, so wird der Steuermeßbetrag auf den Nachfeststellungszeitpunkt nachträglich festgesetzt (Nachveranlagung).
 
@@ -232,15 +210,13 @@ Der Abschlag auf die Steuermesszahl nach Satz 1 wird auf Antrag für jeden Erheb
 
 (4) Treten die Voraussetzungen für eine Nachveranlagung während des Zeitraums zwischen dem Hauptveranlagungszeitpunkt und dem Zeitpunkt des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die Nachveranlagung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge vorgenommen.
 
-
-## § 19 – Anzeigepflicht
+# § 19 – Anzeigepflicht
 
 (1) Jede Änderung in der Nutzung oder in den Eigentumsverhältnissen eines ganz oder teilweise von der Grundsteuer befreiten Steuergegenstandes hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach Eintritt der Änderung bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermeßbetrags zuständig ist.
 
 (2) Den Wegfall der Voraussetzungen für die ermäßigte Steuermesszahl nach § 15 Absatz 4 hat derjenige anzuzeigen, der nach § 10 als Steuerschuldner in Betracht kommt. Die Anzeige ist innerhalb von drei Monaten nach dem Wegfall der Voraussetzungen bei dem Finanzamt zu erstatten, das für die Festsetzung des Steuermessbetrags zuständig ist.
 
-
-## § 20 – Aufhebung des Steuermeßbetrags
+# § 20 – Aufhebung des Steuermeßbetrags
 
 (1) Der Steuermeßbetrag wird aufgehoben,
 
@@ -262,13 +238,11 @@ b) der Steuermeßbetrag fehlerhaft festgesetzt worden ist.
 
 (3) Treten die Voraussetzungen für eine Aufhebung während des Zeitraums zwischen dem Hauptveranlagungszeitpunkt und dem Zeitpunkt des Wirksamwerdens der Steuermeßbeträge (§ 16 Abs. 2) ein, so wird die Aufhebung auf den Zeitpunkt des Wirksamwerdens der Steuermeßbeträge vorgenommen.
 
-
-## § 21 – Änderung von Steuermeßbescheiden
+# § 21 – Änderung von Steuermeßbescheiden
 
 Bescheide über die Neuveranlagung oder die Nachveranlagung von Steuermeßbeträgen können schon vor dem maßgebenden Veranlagungszeitpunkt erteilt werden. Sie sind zu ändern oder aufzuheben, wenn sich bis zu diesem Zeitpunkt Änderungen ergeben, die zu einer abweichenden Festsetzung führen.
 
-
-## § 22 – Zerlegung des Steuermessbetrags
+# § 22 – Zerlegung des Steuermessbetrags
 
 (1) Erstreckt sich der Steuergegenstand über mehrere Gemeinden, so ist der Steuermessbetrag vorbehaltlich des § 24 anteilig in die auf die einzelnen Gemeinden entfallenden Anteile zu zerlegen (Zerlegungsanteile).
 
@@ -278,20 +252,17 @@ Bescheide über die Neuveranlagung oder die Nachveranlagung von Steuermeßbeträ
 
 (4) Entfällt auf eine Gemeinde ein Zerlegungsanteil von weniger als 25 Euro, so ist dieser Anteil der Gemeinde zuzuweisen, der nach Absatz 2 oder 3 der größte Zerlegungsanteil zusteht.
 
-
-## § 23 – Zerlegungsstichtag
+# § 23 – Zerlegungsstichtag
 
 (1) Der Zerlegung des Steuermeßbetrags werden die Verhältnisse in dem Feststellungszeitpunkt zugrunde gelegt, auf den der für die Festsetzung des Steuermeßbetrags maßgebende Grundsteuerwert festgestellt worden ist.
 
 (2) Ändern sich die Grundlagen für die Zerlegung, ohne daß der Grundsteuerwert fortgeschrieben oder nachträglich festgestellt wird, so sind die Zerlegungsanteile nach dem Stand vom 1. Januar des folgenden Jahres neu zu ermitteln, wenn wenigstens bei einer Gemeinde der neue Anteil um mehr als ein Zehntel, mindestens aber um zehn Euro von ihrem bisherigen Anteil abweicht.
 
-
-## § 24 – Ersatz der Zerlegung durch Steuerausgleich
+# § 24 – Ersatz der Zerlegung durch Steuerausgleich
 
 Die Landesregierung kann durch Rechtsverordnung bestimmen, daß bei Betrieben der Land- und Forstwirtschaft, die sich über mehrere Gemeinden erstrecken, aus Vereinfachungsgründen an Stelle der Zerlegung ein Steuerausgleich stattfindet. Beim Steuerausgleich wird der gesamte Steuermeßbetrag der Gemeinde zugeteilt, in der der wertvollste Teil des Steuergegenstandes liegt (Sitzgemeinde); an dem Steueraufkommen der Sitzgemeinde werden die übrigen Gemeinden beteiligt. Die Beteiligung soll annähernd zu dem Ergebnis führen, das bei einer Zerlegung einträte.
 
-
-## § 25 – Festsetzung des Hebesatzes
+# § 25 – Festsetzung des Hebesatzes
 
 (1) Die Gemeinde bestimmt, mit welchem Hundertsatz des Steuermeßbetrags oder des Zerlegungsanteils die Grundsteuer zu erheben ist (Hebesatz).
 
@@ -307,13 +278,11 @@ Die Landesregierung kann durch Rechtsverordnung bestimmen, daß bei Betrieben de
 
 Wird das Gebiet von Gemeinden geändert, so kann die Landesregierung oder die von ihr bestimmte Stelle für die von der Änderung betroffenen Gebietsteile auf eine bestimmte Zeit verschiedene Hebesätze zulassen.
 
-
-## § 26 – Koppelungsvorschriften und Höchsthebesätze
+# § 26 – Koppelungsvorschriften und Höchsthebesätze
 
 In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land- und Forstwirtschaft, für die Grundsteuer der Grundstücke und für die Gewerbesteuer zueinander stehen müssen, welche Höchstsätze nicht überschritten werden dürfen und inwieweit mit Genehmigung der Gemeindeaufsichtsbehörde Ausnahmen zugelassen werden können, bleibt einer landesrechtlichen Regelung vorbehalten.
 
-
-## § 27 – Festsetzung der Grundsteuer
+# § 27 – Festsetzung der Grundsteuer
 
 (1) Die Grundsteuer wird für das Kalenderjahr festgesetzt. Ist der Hebesatz für mehr als ein Kalenderjahr festgesetzt, kann auch die jährlich zu erhebende Grundsteuer für die einzelnen Kalenderjahre dieses Zeitraums festgesetzt werden.
 
@@ -321,8 +290,7 @@ In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land
 
 (3) Für diejenigen Steuerschuldner, die für das Kalenderjahr die gleiche Grundsteuer wie im Vorjahr zu entrichten haben, kann die Grundsteuer durch öffentliche Bekanntmachung festgesetzt werden. Für die Steuerschuldner treten mit dem Tage der öffentlichen Bekanntmachung die gleichen Rechtswirkungen ein, wie wenn ihnen an diesem Tage ein schriftlicher Steuerbescheid zugegangen wäre.
 
-
-## § 28 – Fälligkeit
+# § 28 – Fälligkeit
 
 (1) Die Grundsteuer wird zu je einem Viertel ihres Jahresbetrags am 15. Februar, 15. Mai, 15. August und 15. November fällig.
 
@@ -334,13 +302,11 @@ In welchem Verhältnis die Hebesätze für die Grundsteuer der Betriebe der Land
 
 (3) Auf Antrag des Steuerschuldners kann die Grundsteuer abweichend vom Absatz 1 oder Absatz 2 Nr. 2 am 1. Juli in einem Jahresbetrag entrichtet werden. Der Antrag muß spätestens bis zum 30. September des vorangehenden Kalenderjahres gestellt werden. Die beantragte Zahlungsweise bleibt so lange maßgebend, bis ihre Änderung beantragt wird; die Änderung muß spätestens bis zum 30. September des vorangehenden Jahres beantragt werden.
 
-
-## § 29 – Vorauszahlungen
+# § 29 – Vorauszahlungen
 
 Der Steuerschuldner hat bis zur Bekanntgabe eines neuen Steuerbescheids zu den bisherigen Fälligkeitstagen Vorauszahlungen unter Zugrundelegung der zuletzt festgesetzten Jahressteuer zu entrichten.
 
-
-## § 30 – Abrechnung über die Vorauszahlungen
+# § 30 – Abrechnung über die Vorauszahlungen
 
 (1) Ist die Summe der Vorauszahlungen, die bis zur Bekanntgabe des neuen Steuerbescheids zu entrichten waren (§ 29), kleiner als die Steuer, die sich nach dem bekanntgegebenen Steuerbescheid für die vorausgegangenen Fälligkeitstage ergibt (§ 28), so ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu entrichten, bleibt unberührt.
 
@@ -348,13 +314,11 @@ Der Steuerschuldner hat bis zur Bekanntgabe eines neuen Steuerbescheids zu den b
 
 (3) Die Absätze 1 und 2 gelten entsprechend, wenn der Steuerbescheid aufgehoben oder geändert wird.
 
-
-## § 31 – Nachentrichtung der Steuer
+# § 31 – Nachentrichtung der Steuer
 
 Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlungen nach § 29 zu entrichten, so hat er die Steuer, die sich nach dem bekanntgegebenen Steuerbescheid für die vorangegangenen Fälligkeitstage ergibt (§ 28), innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten.
 
-
-## § 32 – Erlaß für Kulturgut und Grünanlagen
+# § 32 – Erlaß für Kulturgut und Grünanlagen
 
 (1) Die Grundsteuer ist zu erlassen
 
@@ -364,8 +328,7 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 (2) Ist der Rohertrag für Grundbesitz, in dessen Gebäuden Gegenstände von wissenschaftlicher, künstlerischer oder geschichtlicher Bedeutung, insbesondere Sammlungen oder Bibliotheken, dem Zweck der Forschung oder Volksbildung nutzbar gemacht sind, durch die Benutzung zu den genannten Zwecken nachhaltig gemindert, so ist von der Grundsteuer der Hundertsatz zu erlassen, um den der Rohertrag gemindert ist. Das gilt nur, wenn die wissenschaftliche, künstlerische oder geschichtliche Bedeutung der untergebrachten Gegenstände durch die Landesregierung oder die von ihr beauftragte Stelle anerkannt ist.
 
-
-## § 33 – Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft
+# § 33 – Erlass wegen wesentlicher Reinertragsminderung bei Betrieben der Land- und Forstwirtschaft
 
 (1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei Betrieben der Land- und Forstwirtschaft der tatsächliche Reinertrag des Steuergegenstandes um mehr als 50 Prozent gemindert ist und der Steuerschuldner die Minderung des tatsächlichen Reinertrags nicht zu vertreten hat. Beträgt die vom Steuerschuldner nicht zu vertretende Minderung des tatsächlichen Reinertrags 100 Prozent, ist die Grundsteuer abweichend von Satz 1 in Höhe von 50 Prozent zu erlassen. Der tatsächliche Reinertrag eines Betriebs der Land- und Forstwirtschaft ermittelt sich nach den Grundsätzen des § 236 Absatz 3 Satz 1 und 2 des Bewertungsgesetzes für ein Wirtschaftsjahr. Er gilt als in dem Erlasszeitraum bezogen, in dem das für den Betrieb der Land- und Forstwirtschaft maßgebliche Wirtschaftsjahr endet.
 
@@ -373,8 +336,7 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 (3) Eine Ertragsminderung ist kein Erlassgrund, wenn sie für den Erlasszeitraum durch Fortschreibung des Grundsteuerwerts berücksichtigt werden kann oder bei rechtzeitiger Stellung des Antrags auf Fortschreibung hätte berücksichtigt werden können.
 
-
-## § 34 – Erlass wegen wesentlicher Ertragsminderung bei bebauten Grundstücken
+# § 34 – Erlass wegen wesentlicher Ertragsminderung bei bebauten Grundstücken
 
 (1) Die Grundsteuer wird in Höhe von 25 Prozent erlassen, wenn bei bebauten Grundstücken der normale Rohertrag des Steuergegenstandes um mehr als 50 Prozent gemindert ist und der Steuerschuldner die Minderung des normalen Rohertrags nicht zu vertreten hat. Beträgt die vom Steuerschuldner nicht zu vertretende Minderung des normalen Rohertrags 100 Prozent, ist die Grundsteuer abweichend von Satz 1 in Höhe von 50 Prozent zu erlassen. Normaler Rohertrag ist bei bebauten Grundstücken die nach den Verhältnissen zu Beginn des Erlasszeitraums geschätzte übliche Jahresmiete. Die übliche Jahresmiete ist in Anlehnung an die Miete zu ermitteln, die für Räume gleicher oder ähnlicher Art, Lage und Ausstattung regelmäßig gezahlt wird. Betriebskosten sind nicht einzubeziehen.
 
@@ -384,8 +346,7 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 (4) Eine Ertragsminderung ist kein Erlassgrund, wenn sie für den Erlasszeitraum durch Fortschreibung des Grundsteuerwerts berücksichtigt werden kann oder bei rechtzeitiger Stellung des Antrags auf Fortschreibung hätte berücksichtigt werden können.
 
-
-## § 35 – Verfahren
+# § 35 – Verfahren
 
 (1) Der Erlaß wird jeweils nach Ablauf eines Kalenderjahres für die Grundsteuer ausgesprochen, die für das Kalenderjahr festgesetzt worden ist (Erlaßzeitraum). Maßgebend für die Entscheidung über den Erlaß sind die Verhältnisse des Erlaßzeitraums.
 
@@ -393,8 +354,7 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 (3) In den Fällen des § 32 bedarf es keiner jährlichen Wiederholung des Antrags. Der Steuerschuldner ist verpflichtet, eine Änderung der maßgeblichen Verhältnisse der Gemeinde binnen drei Monaten nach Eintritt der Änderung anzuzeigen.
 
-
-## § 36 – Sondervorschriften für die Hauptveranlagung 2025
+# § 36 – Sondervorschriften für die Hauptveranlagung 2025
 
 (1) Auf den 1. Januar 2025 findet eine Hauptveranlagung der Grundsteuermessbeträge statt (Hauptveranlagung 2025).
 
@@ -402,14 +362,12 @@ Hatte der Steuerschuldner bis zur Bekanntgabe der Jahressteuer keine Vorauszahlu
 
 (3) Bescheide über die Hauptveranlagung können schon vor dem Hauptveranlagungszeitpunkt erteilt werden. § 21 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 37 – Anwendung des Gesetzes
+# § 37 – Anwendung des Gesetzes
 
 (1) Diese Fassung des Gesetzes gilt erstmals für die Grundsteuer des Kalenderjahres 2025.
 
 (2) Für die Grundsteuer bis einschließlich zum Kalenderjahr 2024 findet das Grundsteuergesetz in der Fassung vom 7. August 1973 (BGBl. I S. 965), das zuletzt durch Artikel 38 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, weiter Anwendung.
 
-
-## § 38 – Bekanntmachung
+# § 38 – Bekanntmachung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung bekannt zu machen.

@@ -1,10 +1,7 @@
-# [VWGmbHÜG] Gesetz über die Überführung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschränkter Haftung in private Hand
-
-Ausfertigungsdatum: 21.07.1960
-
+% Gesetz über die Überführung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschränkter Haftung in private Hand
+% Ausfertigungsdatum: 21.07.1960
  
-
-## § 1 – Umwandlung in eine Aktiengesellschaft
+# § 1 – Umwandlung in eine Aktiengesellschaft
 
 (1) Die Volkswagenwerk Gesellschaft mit beschränkter Haftung ist unverzüglich in eine Aktiengesellschaft umzuwandeln.
 
@@ -14,11 +11,9 @@ Ausfertigungsdatum: 21.07.1960
 
 (4) Im übrigen finden auf die Umwandlung der Gesellschaft die §§ 269 bis 276 des Aktiengesetzes Anwendung.
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3 – Vertretung bei der Stimmrechtsausübung
+# § 3 – Vertretung bei der Stimmrechtsausübung
 
 (1) Niemand darf das Stimmrecht im eigenen Namen für Aktien ausüben, die ihm nicht gehören. Wer das Stimmrecht für Aktien ausübt, die ihm nicht gehören, bedarf, sofern er nicht gesetzlicher Vertreter des Aktionärs ist, einer Vollmacht des Aktionärs in Textform. Die Vollmacht gilt nur jeweils für die nächste Hauptversammlung.
 
@@ -30,8 +25,7 @@ Ausfertigungsdatum: 21.07.1960
 
 (5) (weggefallen)
 
-
-## § 4 – Verfassung der Gesellschaft
+# § 4 – Verfassung der Gesellschaft
 
 (1)
 
@@ -39,15 +33,12 @@ Ausfertigungsdatum: 21.07.1960
 
 (3) Beschlüsse der Hauptversammlung, für die nach dem Aktiengesetz eine Mehrheit erforderlich ist, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt, bedürfen einer Mehrheit von mehr als vier Fünftel des bei der Beschlußfassung vertretenen Grundkapitals der Gesellschaft.
 
+# §§ 5 bis 12 – ----
 
-## §§ 5 bis 12 – ----
-
-
-## § 13 – Berlin-Klausel
+# § 13 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

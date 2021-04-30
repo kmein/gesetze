@@ -1,15 +1,11 @@
-# [WerkeRegV] Verordnung über das Register anonymer und pseudonymer Werke  (WerkeRegV)
-
-Ausfertigungsdatum: 18.12.1965
-
+% Verordnung über das Register anonymer und pseudonymer Werke  (WerkeRegV)
+% Ausfertigungsdatum: 18.12.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl. I S. 1273) wird verordnet:
 
-
-## § 1 – Form des Antrags
+# § 1 – Form des Antrags
 
 (1) Der Antrag auf Eintragung in das Register anonymer und pseudonymer Werke nach § 66 Abs. 2 Nr. 2 des Uhrheberrechtsgesetzes ist schriftlich beim Patentamt einzureichen.
 
@@ -21,23 +17,19 @@ Auf Grund des § 138 Abs. 5 des Urheberrechtsgesetzes vom 9. September 1965 (Bun
 
 3. der Zeitpunkt und die Form der ersten Veröffentlichung des Werkes.
 
-
-## § 2 – Inhalt der Eintragung
+# § 2 – Inhalt der Eintragung
 
 In das Register anonymer und pseudonymer Werke sind die laufende Nummer der Eintragung, der Tag, an dem der Antrag beim Patentamt eingegangen ist, sowie die in § 1 Abs. 2 bezeichneten Angaben einzutragen.
 
-
-## § 3 – Alphabetisches Register
+# § 3 – Alphabetisches Register
 
 Zum Register anonymer und pseudonymer Werke wird je ein alphabetisches Register der eingetragenen Urhebernamen einschließlich der Decknamen sowie der eingetragenen Titel oder sonstigen Bezeichnungen der Werke geführt.
 
-
-## § 4 – Eintragungsschein
+# § 4 – Eintragungsschein
 
 Dem Antragsteller ist auf Verlangen eine Bescheinigung über die Eintragung auszustellen.
 
-
-## § 5 – Kosten
+# § 5 – Kosten
 
 (1) Für das Verfahren zur Eintragung eines anonym oder unter Pseudonym veröffentlichten Werkes in das Register werden folgende Gebühren erhoben:  
 
@@ -77,12 +69,10 @@ ab dem elften Werk je
 
 (3) (weggefallen)
 
-
-## § 6
+# § 6
 
 In Angelegenheiten, die bei Inkrafttreten von Änderungen dieser Verordnung anhängig sind, bestimmen sich die Kosten weiterhin nach den bisherigen Vorschriften.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1966 in Kraft.

@@ -1,10 +1,7 @@
-# [AMVV] Verordnung über die Verschreibungspflicht von Arzneimitteln  (Arzneimittelverschreibungsverordnung - AMVV)
-
-Ausfertigungsdatum: 21.12.2005
-
+% Verordnung über die Verschreibungspflicht von Arzneimitteln  (Arzneimittelverschreibungsverordnung - AMVV)
+% Ausfertigungsdatum: 21.12.2005
  
-
-## § 1
+# § 1
 
 Arzneimittel,
 
@@ -18,8 +15,7 @@ Arzneimittel,
 
 dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder tierärztlichen Verschreibung abgegeben werden (verschreibungspflichtige Arzneimittel), soweit in den nachfolgenden Vorschriften nichts anderes bestimmt ist.
 
-
-## § 2
+# § 2
 
 (1) Die Verschreibung muss enthalten:
 
@@ -31,15 +27,13 @@ dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder tierärztliche
 
 4. Bezeichnung des Fertigarzneimittels oder des Wirkstoffes einschließlich der Stärke,
 
-4a.  
-bei einem Arzneimittel, das in der Apotheke hergestellt werden soll, die Zusammensetzung nach Art und Menge oder die Bezeichnung des Fertigarzneimittels, von dem eine Teilmenge abgegeben werden soll, sowie eine Gebrauchsanweisung; einer Gebrauchsanweisung bedarf es nicht, wenn das Arzneimittel unmittelbar an die verschreibende Person abgegeben wird;
+4a. bei einem Arzneimittel, das in der Apotheke hergestellt werden soll, die Zusammensetzung nach Art und Menge oder die Bezeichnung des Fertigarzneimittels, von dem eine Teilmenge abgegeben werden soll, sowie eine Gebrauchsanweisung; einer Gebrauchsanweisung bedarf es nicht, wenn das Arzneimittel unmittelbar an die verschreibende Person abgegeben wird;
 
 5. Darreichungsform, sofern dazu die Bezeichnung nach Nummer 4 oder Nummer 4a nicht eindeutig ist,
 
 6. abzugebende Menge des verschriebenen Arzneimittels,
 
-6a.  
-sofern das Arzneimittel zur wiederholten Abgabe auf dieselbe Verschreibung bestimmt sein soll, einen Vermerk mit der Anzahl der Wiederholungen,
+6a. sofern das Arzneimittel zur wiederholten Abgabe auf dieselbe Verschreibung bestimmt sein soll, einen Vermerk mit der Anzahl der Wiederholungen,
 
 7. die Dosierung; dies gilt nicht, wenn dem Patienten ein Medikationsplan, der das verschriebene Arzneimittel umfasst, oder eine entsprechende schriftliche Dosierungsanweisung einer verschreibenden Person vorliegt und wenn die verschreibende Person dies in der Verschreibung kenntlich gemacht hat oder wenn das verschriebene Arzneimittel unmittelbar an die verschreibende Person abgegeben wird,
 
@@ -99,13 +93,11 @@ b) die verschreibende Person es für medizinisch erforderlich hält; in diesem F
 
 (8) Ist die Verschreibung für ein Krankenhaus bestimmt, kann sie auch ausschließlich mit Hilfe eines Telefaxgerätes übermittelt werden.
 
-
-## § 3
+# § 3
 
 Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfertigungen (Original und Durchschrift) zu erstellen. Das Original und die Durchschrift ist dem pharmazeutischen Unternehmer zu übermitteln. Dieser hat auf Original und Durchschrift die fortlaufenden Nummern der abgegebenen Packungen nach § 47a Abs. 2 Satz 1 des Arzneimittelgesetzes und das Datum der Abgabe einzutragen und die Durchschrift mit dem Arzneimittel der Einrichtung im Sinne des § 13 des Schwangerschaftskonfliktgesetzes zuzustellen. Die Originale verbleiben bei dem pharmazeutischen Unternehmer. Dieser hat die Originale zeitlich geordnet fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen. Die verschreibende Person hat auf der Durchschrift der Verschreibung das Datum des Erhalts und der Anwendung des Arzneimittels sowie die Zuordnung zu den konkreten Patientenakten in anonymisierter Form zu vermerken. Sie hat die Durchschriften zeitlich geordnet fünf Jahre aufzubewahren und der zuständigen Behörde auf Verlangen zur Einsichtnahme vorzulegen. Für Verschreibungen in elektronischer Form gelten die Sätze 1 bis 7 entsprechend.
 
-
-## § 3a
+# § 3a
 
 (1) Eine Verschreibung von Arzneimitteln, welche die Wirkstoffe Lenalidomid, Pomalidomid oder Thalidomid enthalten, darf nur auf einem nummerierten zweiteiligen amtlichen Vordruck (Original und Durchschrift) des Bundesinstituts für Arzneimittel und Medizinprodukte erfolgen. Die Vordrucke nach Satz 1 sind ausschließlich zur Verschreibung der in Satz 1 genannten Arzneimittel bestimmt.
 
@@ -127,15 +119,13 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 (7) Apotheken übermitteln dem Bundesinstitut für Arzneimittel und Medizinprodukte wöchentlich die Durchschriften der Vordrucke nach Absatz 1 Satz 1.
 
-
-## § 3b
+# § 3b
 
 (1) Die Höchstmenge der Verschreibungen von oral anzuwendenden Arzneimitteln, die die Wirkstoffe Acitretin, Alitretinoin oder Isotretinoin enthalten, darf für Frauen im gebärfähigen Alter je Verschreibung den Bedarf für 30 Tage nicht übersteigen.
 
 (2) Verschreibungen von Arzneimitteln nach Absatz 1 sind für Frauen im gebärfähigen Alter bis zu sechs Tagen nach dem Tag ihrer Ausstellung gültig.
 
-
-## § 4
+# § 4
 
 (1) Erlaubt die Anwendung eines verschreibungspflichtigen Arzneimittels keinen Aufschub, kann die verschreibende Person den Apotheker in geeigneter Weise, insbesondere fernmündlich, über die Verschreibung und deren Inhalt unterrichten. Der Apotheker hat sich über die Identität der verschreibenden Person Gewissheit zu verschaffen. Die verschreibende Person hat dem Apotheker die Verschreibung in schriftlicher oder elektronischer Form unverzüglich nachzureichen.
 
@@ -143,35 +133,27 @@ Die Verschreibung eines Arzneimittels im Sinne des § 2 Abs. 3 ist in zwei Ausfe
 
 (3) Die wiederholte Abgabe eines zur Anwendung bei Menschen bestimmten verschreibungspflichtigen Arzneimittels auf dieselbe Verschreibung bedarf der Anordnung der verschreibenden Person. Die verschreibende Person kann eine Verschreibung ausstellen, nach der eine nach der Erstabgabe sich bis zu dreimal wiederholende Abgabe erlaubt ist. Die Verschreibungen sind als Verschreibungen zur wiederholten Abgabe zu kennzeichnen. Bei der wiederholten Abgabe auf dieselbe Verschreibung ist das verschriebene Arzneimittel jeweils in derselben Packungsgröße abzugeben, die die verschreibende Person für die erstmalige Abgabe auf der Verschreibung angegeben hat. Die wiederholte Abgabe eines zur Anwendung bei Tieren bestimmten verschreibungspflichtigen Arzneimittels auf dieselbe Verschreibung über die verschriebene Menge hinaus ist unzulässig.
 
-
-## § 5
+# § 5
 
 Von der Verschreibungspflicht sind Arzneimittel ausgenommen, die aus den in der Anlage 1 zu dieser Verordnung genannten Stoffen und Zubereitungen aus Stoffen nach einer homöopathischen Verfahrenstechnik, insbesondere nach den Regeln des Homöopathischen Arzneibuches hergestellt sind oder die aus Mischungen solcher Stoffe oder Zubereitungen aus Stoffen bestehen, wenn die Endkonzentration dieser Arzneimittel im Fertigprodukt die vierte Dezimalpotenz nicht übersteigt. Diese Arzneimittel dürfen auch mit nicht verschreibungspflichtigen Stoffen und Zubereitungen aus Stoffen gemischt werden.
 
-
-## § 6
+# § 6
 
 Von der Verschreibungspflicht nach § 48 Abs. 1 Satz 1 Nr. 2 des Arzneimittelgesetzes sind Arzneimittel ausgenommen, die weder ein in Anlage 2 aufgeführter Stoff, dessen Zubereitung oder Salz sind, noch einen solchen Stoff, eine solche Zubereitung oder ein solches Salz enthalten.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – (weggefallen)
+# § 8 – (weggefallen)
 
 \-
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
+# Anlage 1 – (zu § 1 Nr. 1 und § 5)Stoffe und Zubereitungen nach § 1 Nr. 1
 
-## Anlage 1 – (zu § 1 Nr. 1 und § 5)Stoffe und Zubereitungen nach § 1 Nr. 1
-
-Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und Zubereitungen.  
-Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch Arzneimittel, die die jeweiligen Salze der nachfolgend aufgeführten Stoffe enthalten oder denen diese zugesetzt sind.  
-Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
+Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe und Zubereitungen. Verschreibungspflichtig sind, sofern im Einzelfall nicht anders geregelt, auch Arzneimittel, die die jeweiligen Salze der nachfolgend aufgeführten Stoffe enthalten oder denen diese zugesetzt sind. Unter äußerem Gebrauch im Sinne dieser Übersicht ist die Anwendung auf Haut, Haaren oder Nägeln zu verstehen.
 
 Abacavir  
 Abamectin  
@@ -3060,8 +3042,7 @@ Zubereitungen aus Stoffen in pasten-, salben-, gelartiger oder ähnlicher Bescha
   
 Zuclopenthixol und seine Ester
 
-
-## Anlage 2 – (zu § 6)Stoffe nach § 6
+# Anlage 2 – (zu § 6)Stoffe nach § 6
 
 Die Anlage enthält unter grundsätzlicher Verwendung der INN-Nomenklatur eine alphabetisch geordnete Auflistung der Stoffe.
 

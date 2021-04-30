@@ -1,10 +1,7 @@
-# [AgrarMSV] Verordnung zur Weiterentwicklung der Marktstruktur im Agrarbereich  (Agrarmarktstrukturverordnung - AgrarMSV)
-
-Ausfertigungsdatum: 15.11.2013
-
+% Verordnung zur Weiterentwicklung der Marktstruktur im Agrarbereich  (Agrarmarktstrukturverordnung - AgrarMSV)
+% Ausfertigungsdatum: 15.11.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz verordnet auf Grund
 
@@ -14,11 +11,9 @@ des § 2 Absatz 3, des § 4 Absatz 1, im Falle des § 4 Absatz 1 Nummer 1 auch i
 –  
 des § 9 Absatz 1 Nummer 2, auch in Verbindung mit § 9 Absatz 2 Satz 2, des Agrarmarktstrukturgesetzes vom 20. April 2013 (BGBl. I S. 917):
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Erzeugnisbereiche
+# § 1 – Erzeugnisbereiche
 
 (1) Die Bereiche von Agrarerzeugnissen, für die jeweils Agrarorganisationen anerkannt werden können (Erzeugnisbereiche), sind
 
@@ -32,8 +27,7 @@ des § 9 Absatz 1 Nummer 2, auch in Verbindung mit § 9 Absatz 2 Satz 2, des Agr
 
 (4) Für Erzeugnisbereiche außerhalb des Absatzes 1, für die eine Anerkennung von Agrarorganisationen nach anderen Vorschriften vorgesehen ist, gilt diese Verordnung nicht.
 
-
-## § 2 – Grundsatz der Anerkennung
+# § 2 – Grundsatz der Anerkennung
 
 (1) Eine Agrarorganisation ist auf ihren Antrag hin anzuerkennen, wenn sie
 
@@ -55,8 +49,7 @@ nicht als von ihrer Anerkennung umfasst bezeichnen oder einen entsprechenden Ein
 
 (4) Die Wahrnehmung der Rechte und Pflichten, die einer Agrarorganisation durch das Agrarorganisationenrecht zugewiesen sind, obliegt den Personen, die auf Grund der Satzung der Agrarorganisation zur Vertretung derselben im Rechtsverkehr bestellt sind.
 
-
-## § 3 – Allgemeine Anerkennungsvoraussetzungen
+# § 3 – Allgemeine Anerkennungsvoraussetzungen
 
 Eine Agrarorganisation muss
 
@@ -107,8 +100,7 @@ zur Einrichtung von Zweigstellen
 
 enthält.
 
-
-## § 4 – Anerkennungsverfahren
+# § 4 – Anerkennungsverfahren
 
 (1) Der Antrag einer Agrarorganisation auf Anerkennung ist bei der zuständigen Stelle schriftlich zu stellen. Dem Antrag sind
 
@@ -130,8 +122,7 @@ beizufügen. Soweit eine nicht in einem amtlichen Register eintragungsfähige Pe
 
 (5) Ist eine Anerkennung aufgehoben worden oder in sonstiger Weise weggefallen, kann die Agrarorganisation frühestens ein Jahr ab dem Wirksamwerden des Wegfalls erneut anerkannt werden. Die zuständige Stelle kann in Fällen besonderer Härte die Frist nach Satz 1 verkürzen.
 
-
-## § 5 – Wegfall der Anerkennung
+# § 5 – Wegfall der Anerkennung
 
 (1) Die Anerkennung ist zurückzunehmen, wenn eine Anerkennungsvoraussetzung nicht gegeben war. Sie ist zu widerrufen, wenn nachträglich eine Anerkennungsvoraussetzung nicht mehr erfüllt wird. Anstelle der Rücknahme oder des Widerrufs kann die zuständige Stelle das Ruhen der Anerkennung anordnen, wenn Tatsachen die Annahme rechtfertigen, dass der Grund für die Rücknahme oder den Widerruf innerhalb einer angemessenen Frist beseitigt werden wird.
 
@@ -155,20 +146,17 @@ Soweit anderweitiges Fachrecht betroffen ist, hat die erforderliche Anhörung de
 
 (5) Auf die Anerkennung kann jederzeit schriftlich gegenüber der zuständigen Stelle verzichtet werden. Der Verzicht ist durch Bescheid festzustellen und wird mit dieser Feststellung wirksam.
 
-
-## § 6 – Verstoß gegen Kartellrecht
+# § 6 – Verstoß gegen Kartellrecht
 
 Leitet die zuständige Kartellbehörde ein Verfahren wegen Verstoßes einer anerkannten Agrarorganisation gegen eine kartellrechtliche Bestimmung ein, unterrichtet sie die zuständige Stelle davon und kann von dieser für das Verfahren erforderliche Angaben und Unterlagen anfordern. Trifft die zuständige Kartellbehörde in dem Verfahren eine Entscheidung gegenüber der Agrarorganisation, hat sie die Entscheidung der zuständigen Stelle nachrichtlich zu übermitteln. Nach Rechtskraft oder rechtskräftiger Aufhebung der Entscheidung gilt Satz 2 entsprechend.
 
-
-## § 7 – Agrarorganisationenregister
+# § 7 – Agrarorganisationenregister
 
 (1) Zuständige Stelle für die Führung des Agrarorganisationenregisters ist abweichend von § 6 Absatz 1 des Agrarmarktstrukturgesetzes die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt).
 
 (2) Die in § 6 Absatz 1 des Agrarmarktstrukturgesetzes genannten Stellen übermitteln der Bundesanstalt zum Ablauf jedes Vierteljahres eines Kalenderjahres die in § 6 Absatz 1 und 3 Satz 1 des Agrarmarktstrukturgesetzes genannten Daten in einer elektronisch verarbeitungsfähigen Form und getrennt nach den einzelnen Agrarorganisationen. Die Bundesanstalt kann im Bundesanzeiger für die Übermittlung Anforderungen an das Datenformat und die Datenfelder bekannt machen.
 
-
-## § 8 – Ziele
+# § 8 – Ziele
 
 Jede Erzeugerorganisation hat mindestens eines der folgenden Ziele ganz oder teilweise zu verfolgen:
 
@@ -178,8 +166,7 @@ Jede Erzeugerorganisation hat mindestens eines der folgenden Ziele ganz oder tei
 
 3. Verringerung der Produktionskosten und Stabilisierung der Erzeugerpreise.
 
-
-## § 9 – Mitgliedschaft
+# § 9 – Mitgliedschaft
 
 (1) Mitglied in einer Erzeugerorganisation kann nur sein, wer
 
@@ -201,8 +188,7 @@ Satz 1 Nummer 2 gilt nicht im Erzeugnisbereich Milch und Milcherzeugnisse.
 
 (4) Die Erzeugerorganisation hat der zuständigen Stelle bis zum 31. Januar eines jeden Jahres eine Liste mit den Angaben nach § 4 Absatz 1 Nummer 2 zu übermitteln, bezogen auf die Mitglieder zum 31. Dezember. Aus der Liste müssen die Änderungen gegenüber dem Vorjahr hervorgehen.
 
-
-## § 10 – Mindestmitgliederzahl; Andienungspflicht; Reichweite der Anerkennung
+# § 10 – Mindestmitgliederzahl; Andienungspflicht; Reichweite der Anerkennung
 
 (1) Die Mindestmitgliederzahl einer Erzeugerorganisation beträgt fünf Mitglieder.
 
@@ -214,15 +200,13 @@ Satz 1 Nummer 2 gilt nicht im Erzeugnisbereich Milch und Milcherzeugnisse.
 
 (5) Die Anerkennung erstreckt sich nur auf Agrarur- und Agrarverarbeitungserzeugnisse im Sinne des § 9 Absatz 1.
 
-
-## § 10a – Übertragung von Tätigkeiten an Dritte
+# § 10a – Übertragung von Tätigkeiten an Dritte
 
 Eine Erzeugerorganisation kann nach Maßgabe des Unionsrechts Tätigkeiten an Dritte übertragen. Das nach Satz 1 maßgebliche Unionsrecht gilt für Nicht-Anhang-I-Erzeugnisse im Sinne des § 2 Absatz 2 Nummer 2 des Agrarmarktstrukturgesetzesentsprechend.
 
 § 10a Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Agrarmarkstrukturgesetzes" durch "Agrarmarktstrukturgesetzes" ersetzt
 
-
-## § 11 – Vereinigungen
+# § 11 – Vereinigungen
 
 (1) Jede Vereinigung hat mindestens eines der in § 8 genannten Ziele ganz oder teilweise zu verfolgen.
 
@@ -230,8 +214,7 @@ Eine Erzeugerorganisation kann nach Maßgabe des Unionsrechts Tätigkeiten an Dr
 
 (3) Die Mindestmitgliederzahl einer Vereinigung beträgt zwei Mitglieder.
 
-
-## § 12 – Ziele
+# § 12 – Ziele
 
 (1) Ein Branchenverband dient dazu, das Verständnis der in einem Erzeugnisbereich tätigen Wirtschaftsbeteiligten füreinander zu fördern und gemeinsame Interessen zur Förderung des Erzeugnisbereichs zu verfolgen.
 
@@ -259,8 +242,7 @@ a) zur Erreichung der mit der Tätigkeit des Branchenverbandes verfolgten Ziele 
 
 b) das ordnungsgemäße Funktionieren der gemeinsamen Organisation der Agrarmärkte gefährden.
 
-
-## § 13 – Mitgliedschaft
+# § 13 – Mitgliedschaft
 
 (1) Ein Branchenverband für einen Erzeugnisbereich muss mindestens aus Vertretern
 
@@ -278,13 +260,11 @@ bestehen.
 
 Beschränkt sich der Branchenverband in seiner Satzung auf den Teil eines Erzeugnisbereichs und stellt dieser Teil einen eigenständigen Markt dar, bezieht sich der wesentliche Anteil im Sinne des Satzes 1 Nummer 2 auf diesen Teil des Erzeugnisbereichs.
 
-
-## § 13a – Antragsberechtigung
+# § 13a – Antragsberechtigung
 
 Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröffnet ist, Vorschriften einer Agrarorganisation für allgemeinverbindlich zu erklären, ist antragsberechtigt im Sinne des § 4a Absatz 3 Nummer 1 des Agrarmarktstrukturgesetzes eine anerkannte Agrarorganisation, die nach Maßgabe des Artikels 164 Absatz 1 in Verbindung mit Absatz 2 und 3 der Verordnung (EU) Nr. 1308/2013 repräsentativ für die Erzeugung, Vermarktung oder Verarbeitung eines Erzeugnisses in einem räumlichen Bereich ist.
 
-
-## § 13b – Antragsverfahren und Anhörung
+# § 13b – Antragsverfahren und Anhörung
 
 (1) Der Antrag der anerkannten Agrarorganisation muss enthalten:
 
@@ -306,8 +286,7 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 
 (3) Liegt der räumliche Bereich, für den die Allgemeinverbindlichkeit gelten soll, nur innerhalb eines Landes, gilt Absatz 2 für die Landesregierung oder die oberste Landesbehörde, der die Befugnis zum Erlass der Rechtsverordnung nach § 4a Absatz 6 Satz 2 des Agrarmarktstrukturgesetzes übertragen wurde, entsprechend.
 
-
-## § 13c – Vorzeitige Aufhebung
+# § 13c – Vorzeitige Aufhebung
 
 (1) Die Agrarorganisation hat dem Bundesministerium oder im Falle des § 13b Absatz 3 der danach zuständigen Behörde des Landes unverzüglich jede für die Erfüllung der Anordnungsvoraussetzungen nach § 4a Absatz 1 und 2 des Agrarmarktstrukturgesetzes maßgebliche Änderung schriftlich oder elektronisch mitzuteilen.
 
@@ -321,8 +300,7 @@ Soweit nach dieser Verordnung für einen Erzeugnisbereich die Möglichkeit eröf
 
 Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffenen erfolgen.
 
-
-## § 14 – Einhaltung der Voraussetzungen bei Vertragsverhandlungen
+# § 14 – Einhaltung der Voraussetzungen bei Vertragsverhandlungen
 
 (1) Teilt eine anerkannte Erzeugerorganisation gegenüber der zuständigen Stelle nach Maßgabe des Unionsrechts Erzeugnismengen, auf die sich Vertragsverhandlungen erstrecken, mit, ist der Mitteilung eine Erklärung darüber beizufügen, dass die besonderen Voraussetzungen des Unionsrechts für die Abgabe einer solchen Mitteilung erfüllt sind. Die Erklärung hat insbesondere Aussagen zu den in Satz 1 bezeichneten Voraussetzungen, die die Mitgliedschaft der Erzeuger in einer anderen Erzeugerorganisation und die Andienungspflichten der Erzeuger auf Grund der Mitgliedschaft in einer Genossenschaft betreffen, zu enthalten. Die Bundesanstalt kann im Bundesanzeiger Muster für die in Satz 1 genannten Mitteilungen einschließlich der zugehörigen Erklärungen bekanntgeben.
 
@@ -330,8 +308,7 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 (3) Die Absätze 1 und 2 sind auf anerkannte Vereinigungen entsprechend anzuwenden.
 
-
-## § 14a – Mitteilungen der Kartellbehörden und Länder über Vertragsverhandlungen
+# § 14a – Mitteilungen der Kartellbehörden und Länder über Vertragsverhandlungen
 
 (1) Leitet die zuständige Kartellbehörde nach den besonderen Vorschriften des Unionsrechts über Vertragsverhandlungen ein Verfahren ein, gilt § 6 Satz 1 entsprechend. Ergeht in dem Verfahren eine Entscheidung, gilt § 6 Satz 2 und 3 entsprechend.
 
@@ -339,8 +316,7 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 (3) Die Länder teilen der Bundesanstalt in elektronisch weiterverarbeitbarer Form die Angaben, deren Übermittlung an die Kommission das Unionsrecht bei Vertragsverhandlungen anerkannter Erzeugerorganisationen und anerkannter Vereinigungen vorschreibt, bis zum 1. März eines jeden Jahres mit.
 
-
-## § 14b – Branchenvereinbarungen; anerkannte Organisationen
+# § 14b – Branchenvereinbarungen; anerkannte Organisationen
 
 (1) Ein Zuckerunternehmen hat der zuständigen Stelle des Landes, in dem sich der Hauptsitz des Unternehmens befindet, bis zum 28. Februar des laufenden, in Artikel 6 Buchstabe f der Verordnung (EU) Nr. 1308/2013 festgesetzten Wirtschaftsjahres die von ihm für das folgende Wirtschaftsjahr abgeschlossenen Branchenvereinbarungen zu übermitteln. Eine Branchenvereinbarung wird wirksam, wenn die zuständige Stelle des Landes nicht binnen einer Frist von vier Wochen nach vollständiger Übermittlung der Branchenvereinbarung auf Grund einer Kontrolle nach der Verordnung (EWG) Nr. 1516/74 der Kommission vom 18. Juni 1974 betreffend die von den Mitgliedstaaten, insbesondere über die zwischen Zuckerherstellern und Zuckerrübenverkäufern abgeschlossenen Verträge, auszuübende Kontrolle (ABl. L 163 vom 19.6.1974, S. 21) der Branchenvereinbarung widerspricht.
 
@@ -348,8 +324,7 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 (3) Die Länder teilen dem Bundesministerium bis zum 15. Juni des jeweiligen Jahres in elektronisch weiterverarbeitbarer Form das Ergebnis der Kontrolle nach der Verordnung (EWG) Nr. 1516/74 mit.
 
-
-## § 15 – Doppelmitgliedschaft in Erzeugerorganisationen bei Verhandlungen über Rohmilchverträge
+# § 15 – Doppelmitgliedschaft in Erzeugerorganisationen bei Verhandlungen über Rohmilchverträge
 
 (1) Im Hinblick auf Verhandlungen über Rohmilchverträge im Sinne des Artikels 149 der Verordnung (EU) Nr. 1308/2013 kann einer anerkannten Erzeugerorganisation im Erzeugnisbereich Milch und Milcherzeugnisse auch ein Landwirt, der zugleich Mitglied einer oder mehrerer anderer anerkannter Erzeugerorganisationen in diesem Erzeugnisbereich ist, nach Maßgabe des Absatzes 2 angehören.
 
@@ -357,8 +332,7 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 (2) Der betreffende Landwirt muss über einen Betrieb mit zwei oder mehr Betriebsstätten, die in mindestens zwei unterschiedlichen geografischen Gebieten liegen, verfügen. Soweit eine oder mehrere Betriebsstätten in einem anderen geografischen Gebiet liegen, darf der Landwirt für diese Betriebsstätten einer anderen Erzeugerorganisation angehören. Unterschiedliche geografische Gebiete liegen vor, wenn die betroffenen Erzeugerorganisationen unterschiedliche räumliche Bereiche abdecken.
 
-
-## § 15a – Vereinbarungen und Beschlüsse über die Planung der Erzeugung
+# § 15a – Vereinbarungen und Beschlüsse über die Planung der Erzeugung
 
 (1) Die in Artikel 4 Absatz 1 und 2 der Durchführungsverordnung (EU) 2016/559 der Kommission vom 11. April 2016 zur Genehmigung von Vereinbarungen und Beschlüssen über die Planung der Erzeugung im Sektor Milch und Milcherzeugnisse (ABl. L 96 vom 12.4.2016, S. 20) in ihrer jeweils geltenden Fassung, auch in Verbindung mit Artikel 1 der Delegierten Verordnung (EU) 2016/558 der Kommission vom 11. April 2016 zur Genehmigung von Vereinbarungen und Beschlüssen von Genossenschaften und anderen Formen von Erzeugerorganisationen im Sektor Milch und Milcherzeugnisse über die Planung der Erzeugung (ABl. L 96 vom 12.4.2016, S. 18) in ihrer jeweils geltenden Fassung, genannten Mitteilungen sind unverzüglich gegenüber der Bundesanstalt vorzunehmen.
 
@@ -368,35 +342,29 @@ Eine Aufhebung nach Satz 1 Nummer 2 oder 3 darf nur nach Anhörung der Betroffen
 
 (4) Die Bundesanstalt überprüft die übermittelten Vereinbarungen und Beschlüsse, ob diese das ordnungsgemäße Funktionieren des Binnenmarktes nicht untergraben und darauf abzielen, den Milchsektor zu stabilisieren. Die Bundesanstalt unterrichtet den Mitteilenden darüber, wenn diese Anforderungen durch die Vereinbarung oder den Beschluss nicht eingehalten werden. Der Mitteilende ist verpflichtet, unverzüglich sicherzustellen, dass die Anforderungen eingehalten werden, insbesondere, dass die Vereinbarung oder der Beschluss unverzüglich entsprechend geändert wird. Für die geänderte Vereinbarung oder den geänderten Beschluss gelten Absatz 1 und Satz 1 und 2 entsprechend.
 
-
-## § 15b – Allgemeinverbindlichkeit
+# § 15b – Allgemeinverbindlichkeit
 
 Der Abschnitt 3a ist für den Erzeugnisbereich Milch und Milcherzeugnisse anzuwenden.
 
-
-## § 16 – Mitteilungen
+# § 16 – Mitteilungen
 
 (1) Die Länder teilen der Bundesanstalt in elektronisch weiterverarbeitbarer Form zusammen mit der Mitteilung nach § 21 Absatz 1 die in Artikel 1 der Durchführungsverordnung (EU) Nr. 511/2012 der Kommission vom 15. Juni 2012 über Mitteilungen in Bezug auf Erzeugerorganisationen und Branchenverbände sowie Vertragsverhandlungen und -beziehungen gemäß der Verordnung (EG) Nr. 1234/2007 des Rates im Sektor Milch und Milcherzeugnisse (ABl. L 156 vom 16.6.2012, S. 39) in ihrer jeweils geltenden Fassung genannten Angaben mit, soweit sie nicht bereits von § 21 Absatz 1 erfasst werden.
 
 (2) Ergibt sich aus einer Mitteilung nach Artikel 2 Absatz 1 der Durchführungsverordnung (EU) Nr. 511/2012, dass die Vertragsverhandlungen mehr als einen Mitgliedstaat betreffen, übermittelt die zuständige Stelle die Informationen im Sinne des Artikels 3 Absatz 2 der Durchführungsverordnung (EU) Nr. 511/2012 der Bundesanstalt und nachrichtlich der zuständigen Kartellbehörde.
 
-
-## § 17 – Anforderungen an die Erzeugung
+# § 17 – Anforderungen an die Erzeugung
 
 Abweichend von § 10 Absatz 5 dürfen im Erzeugnisbereich landwirtschaftlicher Ethylalkohol bei der Herstellung von Rohalkohol oder von unmittelbar aus Rohstoffen produziertem landwirtschaftlichen Ethylalkohol 49 Prozent der jährlich für die Herstellung erforderlichen Rohstoffe nicht von dem Hersteller erzeugte Rohstoffe sein. Ist der Hersteller eine Erzeugerorganisation, die die Rohstoffe ihrer Mitglieder verarbeitet, bezieht sich Satz 1 auf die Rohstoffe ihrer Mitglieder.
 
-
-## § 18 – Aufbewahrungspflicht
+# § 18 – Aufbewahrungspflicht
 
 Jede anerkannte Agrarorganisation hat sämtliche Unterlagen, die mit ihrer Tätigkeit verbunden sind, vier Jahre vom Ende des Kalenderjahres an, auf das sich die Unterlagen beziehen, mit der Sorgfalt eines ordentlichen Kaufmanns aufzubewahren, soweit nicht nach anderen Vorschriften längere Aufbewahrungspflichten bestehen.
 
-
-## § 19 – Überwachung der Anerkennungsvoraussetzungen
+# § 19 – Überwachung der Anerkennungsvoraussetzungen
 
 Jede zuständige Stelle hat jährlich auf der Grundlage einer Risikoanalyse mindestens 3 Prozent der in ihren Zuständigkeitsbereich fallenden anerkannten Agrarorganisationen auf die Einhaltung der Anerkennungsvoraussetzungen zu kontrollieren.
 
-
-## § 20 – Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten
+# § 20 – Überwachungsbefugnisse; Duldungs- und Mitwirkungspflichten
 
 (1) Von der zuständigen Stelle beauftragte Personen und die in ihrer Begleitung befindlichen Beschäftigten des Bundesministeriums, der Bundesanstalt, der Länder, der Europäischen Union sowie anderer Mitgliedstaaten der Europäischen Union dürfen, soweit es zur Durchführung des Agrarorganisationenrechts einschließlich seiner Überwachung erforderlich ist,
 
@@ -418,8 +386,7 @@ Jede zuständige Stelle hat jährlich auf der Grundlage einer Risikoanalyse mind
 
 (3) Wer zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 21 – Mitteilungen
+# § 21 – Mitteilungen
 
 (1) Die Länder teilen der Bundesanstalt bis zum 10. März eines jeden Jahres in elektronisch weiterverarbeitbarer Form folgende auf das Vorjahr bezogene Angaben mit:
 
@@ -447,13 +414,11 @@ In den Fällen des Satzes 1 Nummer 3 und 4 ist der Mitteilung eine Zusammenfassu
 
 (3) Soweit Angaben, die im Rahmen dieser Verordnung der Bundesanstalt vorliegen, der Europäischen Union zu übermitteln sind, teilt die Bundesanstalt die Angaben entsprechend dem Unionsrecht der Europäischen Union mit.
 
-
-## § 21a – Nicht anerkannte Erzeugerorganisationen
+# § 21a – Nicht anerkannte Erzeugerorganisationen
 
 Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten die §§ 18 und 20 entsprechend.
 
-
-## § 22 – Ordnungswidrigkeiten
+# § 22 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 2 Buchstabe a des Agrarmarktstrukturgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -477,8 +442,7 @@ Soweit das Unionsrecht nicht anerkannte Erzeugerorganisationen erfasst, gelten d
 
 (4) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 3 des Agrarmarktstrukturgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 4 Absatz 1 oder 2 der Durchführungsverordnung (EU) 2016/559 der Kommission vom 11. April 2016 zur Genehmigung von Vereinbarungen und Beschlüssen über die Planung der Erzeugung im Sektor Milch und Milcherzeugnisse (ABl. L 96 vom 12.4.2016, S. 20), auch in Verbindung mit Artikel 1 der Delegierten Verordnung (EU) 2016/558 der Kommission vom 11. April 2016 zur Genehmigung von Vereinbarungen und Beschlüssen von Genossenschaften und anderen Formen von Erzeugerorganisationen im Sektor Milch und Milcherzeugnisse über die Planung der Erzeugung (ABl. L 96 vom 12.4.2016, S. 18), eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-
-## § 23 – Übergangsbestimmungen
+# § 23 – Übergangsbestimmungen
 
 (1) Agrarorganisationen, die
 
@@ -498,23 +462,19 @@ gelten als weiterhin anerkannt.
 
 nicht alle Anerkennungsvoraussetzungen nach dem Agrarmarktstrukturgesetz und dieser Verordnung, hat sie diese Voraussetzungen vorbehaltlich des Satzes 4 bis zum 29. Mai 2015 zu erfüllen. Werden diese Voraussetzungen bis zu dem genannten Zeitpunkt nicht erfüllt, erlischt die Anerkennung der betroffenen Agrarorganisation. Die zuständige Behörde stellt das Erlöschen durch Bescheid fest. § 5 Absatz 3 Satz 2 bis 4 und Absatz 4 gilt mit der Maßgabe entsprechend, dass an die Stelle der in § 5 Absatz 3 Satz 1 genannten Frist der in Satz 1 genannte Zeitpunkt tritt. Satz 1 ist auf die Anerkennungsvoraussetzungen des § 3 Nummer 4 Buchstabe b Doppelbuchstabe ff und des § 9 Absatz 3 Satz 1 nicht anzuwenden.
 
-
-## § 24 – Anwendungsbestimmungen
+# § 24 – Anwendungsbestimmungen
 
 § 14b ist erst ab dem 1. Oktober 2017 anzuwenden.
 
-
-## § 25 – Inkrafttreten
+# § 25 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1 Absatz 1)Ergänzungen von Erzeugnisbereichen und weitere Erzeugnisbereiche
+# Anlage – (zu § 1 Absatz 1)Ergänzungen von Erzeugnisbereichen und weitere Erzeugnisbereiche
 
 (Fundstelle: BGBl. I 2013, 4006 - 4007; bzgl. einzelner Änderungen vgl. Fußnote)
 

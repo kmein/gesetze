@@ -1,10 +1,7 @@
-# [Münz5EuroBek 2019-10-08] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Gemäßigte Zone“)
-
-Ausfertigungsdatum: 08.10.2019
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Gemäßigte Zone“)
+% Ausfertigungsdatum: 08.10.2019
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 5-Euro-Sammlermünze „Gemäßigte Zone“ mit einem grünfarbenen Kunststoffring prägen zu lassen. Die Münze ist die dritte Ausgabe einer fünfteiligen Serie „Klimazonen der Erde“, in der von 2017 bis 2021 jeweils eine Ausgabe pro Jahr erscheint.
 
@@ -22,12 +19,10 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf der Bildseite stammt von dem Künstler Peter Lasch aus Berlin. Die Wertseite, die für alle Münzen der Serie verwendet wird, wurde von der Künstlerin Stefanie Radtke aus Leipzig gestaltet.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2019, 1543)

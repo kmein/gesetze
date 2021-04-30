@@ -1,15 +1,11 @@
-# [StromNZV] Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen  (Stromnetzzugangsverordnung - StromNZV)
-
-Ausfertigungsdatum: 25.07.2005
-
+% Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen  (Stromnetzzugangsverordnung - StromNZV)
+% Ausfertigungsdatum: 25.07.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr. 1 und 2 in Verbindung mit Satz 2 Nr. 1, 2 und 3 sowie Satz 3, Satz 1 Nr. 1 auch in Verbindung mit § 21b Abs. 3 Satz 1 und 3, und des § 29 Abs. 3 des Energiewirtschaftsgesetzes vom 7. Juli 2005 (BGBl. I S. 1970) verordnet die Bundesregierung:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |      |                                                                     |
 |:-----|:--------------------------------------------------------------------|
@@ -89,13 +85,11 @@ Auf Grund des § 21b Abs. 3 Satz 1 in Verbindung mit Satz 3, des § 24 Satz 1 Nr
 | § 30 | Übergangsregelungen  |
 | § 31 | Inkrafttreten        |
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Bedingungen für Einspeisungen von elektrischer Energie in Einspeisestellen der Elektrizitätsversorgungsnetze und die damit verbundene zeitgleiche Entnahme von elektrischer Energie an räumlich davon entfernt liegenden Entnahmestellen der Elektrizitätsversorgungsnetze. Die Regelungen der Verordnung sind abschließend im Sinne des § 111 Abs. 2 Nr. 2 des Energiewirtschaftsgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bedeutet
 
@@ -139,8 +133,7 @@ diejenige Energie, die zum Ausgleich von Leistungsungleichgewichten in der jewei
 
 die betriebsbezogene Beeinflussung von zu einem Versorgungssystem gehörigen Einheiten zur Einhaltung des gewollten Energieaustausches der jeweiligen Regelzonen mit den übrigen Verbundnetzen bei gleichzeitiger, integraler Stützung der Frequenz;
 
-10a.  
-Stromgebotszone
+10a. Stromgebotszone
 
 das größte geografische Gebiet, in dem Marktteilnehmer ohne Kapazitätsvergabe Energie austauschen können;
 
@@ -160,20 +153,17 @@ eine Reihe viertelstündlich ermittelter Zählerstände;
 
 der Netzpunkt, an dem der Energiefluss zähltechnisch erfasst wird.
 
-
-## § 3 – Grundlagen des Netzzugangs
+# § 3 – Grundlagen des Netzzugangs
 
 (1) Netznutzungsvertrag oder Lieferantenrahmenvertrag vermitteln den Zugang zum gesamten Elektrizitätsversorgungsnetz. Der Anspruch auf Netznutzung wird begrenzt durch die jeweiligen Kapazitäten der Elektrizitätsversorgungsnetze. Betreiber von Elektrizitätsversorgungsnetzen werden durch Netznutzungs- und Lieferantenrahmenverträge nicht gehindert, Änderungen an der Ausgestaltung ihrer Netze vorzunehmen. Die §§ 14 und 17 bleiben unberührt.
 
 (2) Die Netznutzung durch die Letztverbraucher und Lieferanten setzt voraus, dass der Bilanzkreis in ein nach § 26 vertraglich begründetes Bilanzkreissystem einbezogen ist.
 
-
-## § 3a – Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone
+# § 3a – Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone
 
 Die Betreiber von Übertragungsnetzen sind verpflichtet, Handelstransaktionen innerhalb des Gebiets der Bundesrepublik Deutschland ohne Kapazitätsvergabe in der Weise zu ermöglichen, dass das Gebiet der Bundesrepublik Deutschland eine einheitliche Stromgebotszone bildet. Sie dürfen insbesondere nicht einseitig eine Kapazitätsvergabe einführen, die zu einer einseitigen Aufteilung der einheitlichen deutschen Stromgebotszone führen würde. Sobald für einen Betreiber von Übertragungsnetzen erkennbar wird, dass die Erfüllung der Pflicht nach Satz 1 und die Einhaltung des Verbots nach Satz 2 unmöglich zu werden droht, hat er dies der Bundesnetzagentur unverzüglich in Textform anzuzeigen. § 20 Absatz 2 des Energiewirtschaftsgesetzes bleibt unberührt.
 
-
-## § 4 – Bilanzkreise
+# § 4 – Bilanzkreise
 
 (1) Innerhalb einer Regelzone sind von einem oder mehreren Netznutzern Bilanzkreise zu bilden. Bilanzkreise müssen aus mindestens einer Einspeise- oder einer Entnahmestelle bestehen. Abweichend davon können Bilanzkreise auch für Geschäfte, die nicht die Belieferung von Letztverbrauchern zum Gegenstand haben, gebildet werden. Die Zuordnung eines Bilanzkreises als Unterbilanzkreis zu einem anderen Bilanzkreis ist zulässig. Die Salden eines Bilanzkreises können mit Zustimmung der betroffenen Bilanzkreisverantwortlichen bei der Abrechnung einem anderen Bilanzkreis zugeordnet werden, wobei auch dieser Bilanzkreis die Funktion eines Unterbilanzkreises haben kann.
 
@@ -183,8 +173,7 @@ Die Betreiber von Übertragungsnetzen sind verpflichtet, Handelstransaktionen in
 
 (4) Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, dem Bilanzkreisverantwortlichen und anderen Betreibern von Elektrizitätsversorgungsnetzen die zur Abrechnung und Verminderung der Bilanzkreisabweichungen erforderlichen Daten in elektronischer Form unverzüglich zu übermitteln. Bilanzkreisverantwortliche haben die ihnen übermittelten Daten rechtzeitig zu prüfen, insbesondere im Hinblick auf die Verwendung für die Bilanzkreisabrechnung, und Einwände gegen die Vollständigkeit oder Richtigkeit unverzüglich dem zuständigen Betreiber von Elektrizitätsversorgungsnetzen in elektronischer Form mitzuteilen.
 
-
-## § 5 – Grundsätze der Fahrplanabwicklung und untertäglicher Handel
+# § 5 – Grundsätze der Fahrplanabwicklung und untertäglicher Handel
 
 (1) Die Abwicklung von Lieferungen elektrischer Energie zwischen Bilanzkreisen erfolgt auf Grundlage von Fahrplänen. Betreiber von Übertragungsnetzen sind berechtigt, Bilanzkreisverantwortliche dazu zu verpflichten, ihnen Fahrpläne gemäß den nach § 27 Abs. 1 Nr. 16 von der Regulierungsbehörde festgelegten Regelungen mitzuteilen. Fahrpläne für den Zeitraum des folgenden Tages bis zum nächsten Werktag sind den Betreibern von Übertragungsnetzen bis spätestens 14.30 Uhr mitzuteilen, sofern die Betreiber von Übertragungsnetzen nicht die Mitteilung zu einem späteren Zeitpunkt zugelassen haben oder die Regulierungsbehörde nach § 27 Abs. 1 Nr. 16 eine abweichende Regelung getroffen hat. Rechtzeitig im Sinne der Absätze 2 bis 4 dem Betreiber von Übertragungsnetzen mitgeteilte Fahrpläne und Fahrplanänderungen sind von diesem der Bilanzierung des jeweiligen Bilanzkreises und der Regelzone zu Grunde zu legen, es sei denn, Netzengpässe wurden nach § 15 Abs. 4 veröffentlicht und begründet. Die Fahrpläne müssen vollständig sein, eine ausgeglichene Bilanz des Bilanzkreises und damit eine ausgeglichene Bilanz der jeweiligen Regelzone ermöglichen.
 
@@ -194,8 +183,7 @@ Die Betreiber von Übertragungsnetzen sind verpflichtet, Handelstransaktionen in
 
 (4) Das durch ungeplante Kraftwerksausfälle entstehende Ungleichgewicht zwischen Einspeisungen und Entnahmen ist vom Betreiber von Übertragungsnetzen für vier Viertelstunden einschließlich der Viertelstunde, in der der Ausfall aufgetreten ist, auszugleichen. Für die Zeit nach Ablauf dieser vier Viertelstunden ist der Bilanzkreisverantwortliche zum Ausgleich der ausgefallenen Leistung verpflichtet. Hierzu kann er abweichend von Absatz 2 Satz 1 seine Fahrpläne mit einer Vorlaufzeit von 15 Minuten zum Beginn einer jeden Viertelstunde ändern. Der Betreiber von Übertragungsnetzen kann nach der Fahrplanänderung vom Bilanzkreisverantwortlichen einen Nachweis darüber verlangen, dass ein ungeplanter Kraftwerksausfall vorliegt.
 
-
-## § 6 – Grundsätze der Beschaffung von Regelenergie
+# § 6 – Grundsätze der Beschaffung von Regelenergie
 
 (1) Die Betreiber von Übertragungsnetzen sind verpflichtet, die jeweilige Regelenergieart im Rahmen einer gemeinsamen regelzonenübergreifenden anonymisierten Ausschreibung über eine Internetplattform zu beschaffen.
 
@@ -211,41 +199,35 @@ Die Betreiber von Übertragungsnetzen sind verpflichtet, Handelstransaktionen in
 
 (+++ § 6 Abs. 1: Zur Anwendung vgl. § 30 Abs. 2 +++)
 
-
-## § 7 – Erbringung von Regelenergie
+# § 7 – Erbringung von Regelenergie
 
 Die Regelenergiearten Primärregelung, Sekundärregelung und Minutenreserve sowie sonstige beschaffte und eingesetzte Regelenergieprodukte sind entsprechend den Ausschreibungsergebnissen auf Grundlage der Angebotskurven beginnend mit dem jeweils günstigsten Angebot von den jeweiligen Betreibern von Übertragungsnetzen einzusetzen. Bei Netzeinschränkungen kann von den Angebotskurven abgewichen werden, wenn die Netzeinschränkungen begründet dargelegt werden können.
 
-
-## § 8 – Abrechnung von Regelenergie
+# § 8 – Abrechnung von Regelenergie
 
 (1) Betreiber von Übertragungsnetzen müssen die Kosten für Primärregelleistung und -arbeit, für die Vorhaltung von Sekundärregelleistung und Minutenreserveleistung sowie weiterer beschaffter und eingesetzter Regelenergieprodukte als eigenständige Systemdienstleistungen den Nutzern der Übertragungsnetze in Rechnung stellen, soweit nicht die Regulierungsbehörde durch Festlegung nach § 27 Absatz 1 Nummer 21a die Kosten für denjenigen Teil der Vorhaltung von Regelenergie aus Sekundärregelleistung und Minutenreserveleistung, der durch das Verhalten der Bilanzkreisverantwortlichen in ihrer Gesamtheit verursacht wird, zur Abrechnung über die Ausgleichsenergie bestimmt. Bei der Ermittlung der Kosten kann eine pauschalisierende Betrachtung zu Grunde gelegt werden. Für jedes Angebot, das zum Zuge kommt, bemisst sich die zu zahlende Vergütung nach dem im jeweiligen Angebot geforderten Preis, soweit nicht die Regulierungsbehörde durch Festlegung nach § 27 Absatz 1 Nummer 3b das Verfahren zur Vergütung der Regelenergie durch ein Einheitspreisverfahren regelt.
 
 (2) Die einzelnen Betreiber von Übertragungsnetzen sind verpflichtet, innerhalb ihrer jeweiligen Regelzone auf 15-Minutenbasis die Mehr- und Mindereinspeisungen aller Bilanzkreise zu saldieren. Sie haben die Kosten und Erlöse für den Abruf von Sekundärregelarbeit und Minutenreservearbeit sowie im Fall einer nach § 27 Absatz 1 Nummer 21a getroffenen Festlegung auch die Kosten für die Vorhaltung von Regelenergie aus Sekundärregelleistung und Minutenreserveleistung im festgelegten Umfang als Ausgleichsenergie den Bilanzkreisverantwortlichen auf Grundlage einer viertelstündlichen Abrechnung in Rechnung zu stellen. Die Preise, die je Viertelstunde ermittelt werden, müssen für Bilanzkreisüberspeisungen und Bilanzkreisunterspeisungen identisch sein. Die Abrechnung des Betreibers von Übertragungsnetzen gegenüber den Bilanzkreisverantwortlichen soll den gesamten Abrechnungszeitraum vollständig umfassen. Die Abrechnung hat spätestens zwei Monate nach dem jeweiligen Abrechnungsmonat zu erfolgen. Die Frist kann auf Antrag des Betreibers von Übertragungsnetzen von der Regulierungsbehörde verlängert werden.
 
-
-## § 9 – Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie
+# § 9 – Transparenz der Ausschreibung, Beschaffung und Inanspruchnahme von Regelenergie
 
 (1) Betreiber von Übertragungsnetzen sind verpflichtet, die Ausschreibungsergebnisse in einem einheitlichen Format getrennt nach Primärregelung, Sekundärregelung und Minutenreserve sowie der sonstigen Regelenergieprodukte der Regulierungsbehörde auf Anforderung unverzüglich zur Verfügung zu stellen sowie nach Ablauf von zwei Wochen auf ihrer Internetseite in anonymisierter Form zu veröffentlichen und dort für drei Jahre verfügbar zu halten. Hierbei ist insbesondere der Preis des Grenzanbieters zu veröffentlichen.
 
 (2) Die Betreiber von Übertragungsnetzen haben auf ihrer gemeinsamen Internetplattform für jede Ausschreibung eine gemeinsame Angebotskurve zu veröffentlichen.
 
-
-## § 10 – Verlustenergie
+# § 10 – Verlustenergie
 
 (1) Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, Verlustenergie in einem marktorientierten, transparenten und diskriminierungsfreien Verfahren zu beschaffen. Dabei sind Ausschreibungsverfahren durchzuführen, soweit nicht wesentliche Gründe entgegenstehen. Ein wesentlicher Grund kann insbesondere dann vorliegen, wenn die Kosten der Ausschreibungsverfahren in einem unangemessenen Verhältnis zu deren Nutzen stehen. Von der Verpflichtung nach Satz 2 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100.000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
 (2) Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, einen Bilanzkreis zu führen, der ausschließlich den Ausgleich von Verlustenergie umfasst. Von der Verpflichtung nach Satz 1 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100.000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
-
-## § 11 – Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz
+# § 11 – Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz
 
 Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, einen Bilanzkreis zu führen, der ausschließlich Energien, die nach dem Erneuerbare-Energien-Gesetz mit einer Einspeisevergütung vergütet werden, von Einspeisern im Netzgebiet zur Durchleitung an den Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz der Betreiber von Übertragungsnetzen aufweist. Von der Verpflichtung nach Satz 1 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100 000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
 (+++ § 11: Zur Anwendung vgl. § 30 Abs. 1 +++)
 
-
-## § 12 – Standardisierte Lastprofile; Zählerstandsgangmessung
+# § 12 – Standardisierte Lastprofile; Zählerstandsgangmessung
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen haben im Niederspannungsnetz für die Abwicklung der Stromlieferung an Letztverbraucher mit einer jährlichen Entnahme von bis zu 100 000 Kilowattstunden vereinfachte Methoden (standardisierte Lastprofile) anzuwenden, soweit nicht nach Maßgabe des Messstellenbetriebsgesetzes eine Übermittlung von Last- oder Zählerstandsgängen erfolgt.
 
@@ -271,8 +253,7 @@ Die Verbrauchsgrenzen für die Anwendung von standardisierten Lastprofilen sind 
 
 (5) Die Anwendung standardisierter Lastprofile an einem Netzanschlusspunkt ist nicht zulässig, wenn hinter dem Netzanschlusspunkt sowohl Verbrauch als auch Erzeugung stattfinden, dabei der erzeugte Strom nicht vollständig in das Netz eingespeist wird und die zugehörige Messstelle mit einem intelligenten Messsystem nach dem Messstellenbetriebsgesetz ausgestattet ist.
 
-
-## § 13 – Jahresmehr- und Jahresmindermengen
+# § 13 – Jahresmehr- und Jahresmindermengen
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet, für jeden Lastprofilkunden des Lieferanten eine Prognose über den Jahresverbrauch festzulegen, die in der Regel auf dem Vorjahresverbrauch basiert. Die Prognose ist dem Lieferanten oder Netznutzer mitzuteilen. Dieser kann unplausiblen Prognosen widersprechen und dem Betreiber des Elektrizitätsverteilernetzes eine eigene Prognose unterbreiten. Kommt keine Einigung zustande, legt der Betreiber von Elektrizitätsverteilernetzen die Prognose über den Jahresverbrauch fest. In begründeten Ausnahmefällen kann die Jahresverbrauchsprognose vom Lieferanten und dem Betreiber von Elektrizitätsverteilernetzen gemeinsam auch unterjährig angepasst werden.
 
@@ -280,8 +261,7 @@ Die Verbrauchsgrenzen für die Anwendung von standardisierten Lastprofilen sind 
 
 (3) Unterschreitet die Summe der in einem Zeitraum ermittelten elektrischen Arbeit die Summe der Arbeit, die den bilanzierten Lastprofilen zu Grunde gelegt wurde (ungewollte Mehrmenge), so vergütet der Netzbetreiber dem Lieferanten oder dem Kunden diese Differenzmenge. Überschreitet die Summe der in einem Zeitraum ermittelten elektrischen Arbeit die Summe der Arbeit, die den bilanzierten Lastprofilen zu Grunde gelegt wurde (ungewollte Mindermenge), stellt der Netzbetreiber die Differenzmenge dem Lieferanten oder dem Kunden in Rechnung. Die Abrechnung der Jahresmehr- und Jahresmindermengen erfolgt nach Ablauf des jeweiligen Abrechnungsjahres zwischen Lieferanten und Netzbetreiber oder zwischen Kunden und Netzbetreiber. Der Betreiber von Elektrizitätsverteilernetzen berechnet für Jahresmehr- und Jahresmindermengen auf Grundlage der monatlichen Marktpreise einen einheitlichen Preis. Dieser Preis ist auf der jeweiligen Internetseite des Betreibers von Elektrizitätsverteilernetzen zu veröffentlichen.
 
-
-## § 14 – Lieferantenwechsel
+# § 14 – Lieferantenwechsel
 
 (1) Die Netzbetreiber sind verpflichtet, für die Durchführung des Lieferantenwechsels für Letztverbraucher sowie für die Zuordnung von Einspeiseanlagen zu Händlern und Bilanzkreisen bundesweit einheitliche, massengeschäftstaugliche Verfahren anzuwenden. Für den elektronischen Datenaustausch mit den Netznutzern ist ein einheitliches Datenformat zu verwenden. Die Netzbetreiber sind verpflichtet, die elektronische Übermittlung und Bearbeitung von Kundendaten in massengeschäftstauglicher Weise zu organisieren, sodass die Kundendaten in vollständig automatisierter Weise übermittelt und bearbeitet werden können. Die Verbände der Netznutzer sind an der Entwicklung der Verfahren und Formate für den Datenaustausch angemessen zu beteiligen.
 
@@ -303,8 +283,7 @@ Wenn der neue Lieferant keine der in Satz 2 aufgeführten Datenkombinationen vol
 
 (4) Betreiber von Elektrizitätsversorgungsnetzen dürfen den Lieferantenwechsel nicht von anderen Bedingungen als den in den Absätzen 1 bis 3 genannten abhängig machen. § 27 Abs. 1 Nr. 17 bleibt unberührt.
 
-
-## § 15 – Engpassmanagement
+# § 15 – Engpassmanagement
 
 (1) Betreiber von Übertragungsnetzen haben im Rahmen des wirtschaftlich Zumutbaren das Entstehen von Engpässen in ihren Netzen und an den Kuppelstellen zu benachbarten Netzen mit Hilfe von netzbezogenen und marktbezogenen Maßnahmen zu verhindern, die auch die Zusammenarbeit der Betreiber von Übertragungsnetzen einschließen kann.
 
@@ -322,15 +301,13 @@ Wenn der neue Lieferant keine der in Satz 2 aufgeführten Datenkombinationen vol
 
 (5) Die Absätze 1 bis 4 gelten auch für Betreiber von Elektrizitätsverteilernetzen.
 
-
-## § 16 – Allgemeine Zusammenarbeitspflichten
+# § 16 – Allgemeine Zusammenarbeitspflichten
 
 (1) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, gemeinsam mit den anderen Netzbetreibern einheitliche Bedingungen des Netzzugangs zu schaffen, um die Transaktionskosten des Zugangs zum gesamten Elektrizitätsversorgungsnetz so gering wie möglich zu halten.
 
 (2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, untereinander die zur effizienten Organisation des Netzzugangs erforderlichen Verträge abzuschließen und die notwendigen Daten unverzüglich auszutauschen.
 
-
-## § 17 – Veröffentlichungspflichten der Betreiber von Elektrizitätsversorgungsnetzen
+# § 17 – Veröffentlichungspflichten der Betreiber von Elektrizitätsversorgungsnetzen
 
 (1) Betreiber von Übertragungsnetzen sind verpflichtet, folgende netzrelevanten Daten unverzüglich und in geeigneter Weise, zumindest auf ihrer Internetseite, zu veröffentlichen und zwei Jahre verfügbar zu halten:
 
@@ -366,38 +343,29 @@ Wenn der neue Lieferant keine der in Satz 2 aufgeführten Datenkombinationen vol
 
 7. die Mengen und Preise der Verlustenergie.
 
-
-## § 18 – Messung
+# § 18 – Messung
 
 Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034) in der jeweils geltenden Fassung.
 
+# § 18a – (weggefallen)
 
-## § 18a – (weggefallen)
+# § 18b – (weggefallen)
 
+# § 19 – (weggefallen)
 
-## § 18b – (weggefallen)
+# § 20 – (weggefallen)
 
+# § 21 – (weggefallen)
 
-## § 19 – (weggefallen)
+# § 22 – (weggefallen)
 
-
-## § 20 – (weggefallen)
-
-
-## § 21 – (weggefallen)
-
-
-## § 22 – (weggefallen)
-
-
-## § 23 – Vertragliche Ausgestaltung des Netzzugangs
+# § 23 – Vertragliche Ausgestaltung des Netzzugangs
 
 (1) Der Netzzugangsberechtigte fordert spätestens durch Anmeldung der ersten Kundenentnahmestelle zur Netznutzung ein verbindliches Angebot zum Abschluss eines Lieferantenrahmenvertrages oder Netznutzungsvertrages beim Betreiber eines Elektrizitätsversorgungsnetzes an. Dieser ist verpflichtet, innerhalb einer Frist von sieben Arbeitstagen nach Eingang der Anforderung ein vollständiges und bindendes Angebot abzugeben.
 
 (2) Die Betreiber von Elektrizitätsversorgungsnetzen sind berechtigt, die von ihnen geschlossenen Verträge aus wichtigem Grund fristlos zu kündigen. Sie können in begründeten Fällen vom Netznutzer eine Sicherheitsleistung verlangen.
 
-
-## § 24 – Netznutzungsvertrag
+# § 24 – Netznutzungsvertrag
 
 (1) Netznutzer haben einen Anspruch auf Abschluss eines Netznutzungsvertrages. Wird der Netznutzungsvertrag von einem Lieferanten abgeschlossen, so darf der Betreiber von Elektrizitätsversorgungsnetzen den Netzzugang nicht von dem gleichzeitigen Abschluss eines Netznutzungsvertrages zwischen ihm und dem Letztverbraucher abhängig machen.
 
@@ -421,8 +389,7 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes vom 29
 
 9. Kündigungsrechte.
 
-
-## § 25 – Lieferantenrahmenvertrag
+# § 25 – Lieferantenrahmenvertrag
 
 (1) Lieferanten haben gegen die Netzbetreiber einen Anspruch auf Abschluss eines Lieferantenrahmenvertrages über die Abwicklung der Belieferung ihrer Kunden mit elektrischer Energie.
 
@@ -450,13 +417,11 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes vom 29
 
 11. Kündigungsrechte.
 
-
-## § 25a – Haftung bei Störungen der Netznutzung
+# § 25a – Haftung bei Störungen der Netznutzung
 
 § 18 der Niederspannungsanschlussverordnung gilt entsprechend.
 
-
-## § 26 – Bilanzkreisvertrag
+# § 26 – Bilanzkreisvertrag
 
 (1) Zwischen dem Bilanzkreisverantwortlichen und dem Betreiber von Übertragungsnetzen muss ein Vertrag über die Führung, Abwicklung und Abrechnung von Bilanzkreisen (Bilanzkreisvertrag) geschlossen werden.
 
@@ -478,8 +443,7 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes vom 29
 
 (3) (weggefallen)
 
-
-## § 26a – Erbringung von Regelleistung durch Letztverbraucher
+# § 26a – Erbringung von Regelleistung durch Letztverbraucher
 
 (1) Lieferanten, Bilanzkreisverantwortliche und Betreiber von Übertragungsnetzen stellen sicher, dass einem Letztverbraucher mit Zählerstandsgangmessung oder viertelstündiger registrierender Lastgangmessung auf sein Verlangen hin die Erbringung von Minutenreserve oder Sekundärregelung über einen anderen Bilanzkreis gegen angemessenes Entgelt ermöglicht wird. Hierzu sind Regelungen über den Austausch der erforderlichen Informationen zwischen den Beteiligten sowie die Bilanzierung der Energiemengen zu treffen. Der Lieferant kann die Erbringung von Minutenreserve und Sekundärregelung über einen anderen Bilanzkreis nach Satz 1 mit ausdrücklicher Zustimmung des Letztverbrauchers vertraglich ausschließen.
 
@@ -487,8 +451,7 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes vom 29
 
 (3) Die Anforderungen nach Absatz 1 gelten bei Neuverträgen ab dem 30. Juli 2016, im Übrigen ab dem 1. Januar 2018.
 
-
-## § 27 – Festlegungen der Regulierungsbehörde
+# § 27 – Festlegungen der Regulierungsbehörde
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die Regulierungsbehörde unter Beachtung der Anforderungen eines sicheren Netzbetriebs Entscheidungen durch Festlegungen nach § 29 Abs. 1 des Energiewirtschaftsgesetzes treffen
 
@@ -498,11 +461,9 @@ Die Messung erfolgt nach den Bestimmungen des Messstellenbetriebsgesetzes vom 29
 
 3. zum Einsatz von Regelenergie;
 
-3a.  
-zur Bildung einer einheitlichen Regelzone;
+3a. zur Bildung einer einheitlichen Regelzone;
 
-3b.  
-zum Verfahren der Vergütung für Angebote von Regelenergieprodukten nach § 8 Absatz 1 Satz 3; dabei kann sie insbesondere festlegen, dass Regelarbeitspreise und Regelleistungspreise in einem Einheitspreisverfahren bestimmt werden;
+3b. zum Verfahren der Vergütung für Angebote von Regelenergieprodukten nach § 8 Absatz 1 Satz 3; dabei kann sie insbesondere festlegen, dass Regelarbeitspreise und Regelleistungspreise in einem Einheitspreisverfahren bestimmt werden;
 
 4. zu Kriterien für missbräuchliche Über- oder Unterspeisung von Bilanzkreisen und deren Abrechnung;
 
@@ -540,8 +501,7 @@ zum Verfahren der Vergütung für Angebote von Regelenergieprodukten nach § 8 A
 
 21. zu Preisbildungsmechanismen für Ausgleichsenergiepreise nach § 8 Absatz 2; dabei kann sie insbesondere von den Grundsätzen der Kostenverrechnung, von der Symmetrie der Ausgleichsenergiepreise für Bilanzkreisunterspeisung und Bilanzkreisüberspeisung sowie von den Fristen für die Bilanzkreisabrechnung abweichen;
 
-21a.  
-zu den Kriterien, nach denen die Ausgleichsenergie nach § 8 Absatz 1 und 2 durch die Betreiber der Übertragungsnetze abzurechnen ist; dabei kann sie insbesondere festlegen, wie derjenige Teil der Vorhaltung von Regelenergie aus Sekundärregelleistung und Minutenreserveleistung, der dem Verhalten der Bilanzkreisverantwortlichen in ihrer Gesamtheit zuzurechnen ist, von den Betreibern der Übertragungsnetze zu bestimmen und im Rahmen der Bilanzkreisabrechnung abzurechnen ist;
+21a. zu den Kriterien, nach denen die Ausgleichsenergie nach § 8 Absatz 1 und 2 durch die Betreiber der Übertragungsnetze abzurechnen ist; dabei kann sie insbesondere festlegen, wie derjenige Teil der Vorhaltung von Regelenergie aus Sekundärregelleistung und Minutenreserveleistung, der dem Verhalten der Bilanzkreisverantwortlichen in ihrer Gesamtheit zuzurechnen ist, von den Betreibern der Übertragungsnetze zu bestimmen und im Rahmen der Bilanzkreisabrechnung abzurechnen ist;
 
 22. zu Verfahren und zur Handhabung und Abwicklung der Bilanzierung, Messung und Abrechnung auf Basis von Zählerstandsgängen,
 
@@ -571,8 +531,7 @@ f) zu Übergangsbestimmungen.
 
 (4) Die Regulierungsbehörde kann Entscheidungen nach den Absätzen 1 bis 3 in ihrem Amtsblatt öffentlich bekannt machen.
 
-
-## § 28 – Standardangebote
+# § 28 – Standardangebote
 
 (1) Zur Verwirklichung eines effizienten Netzzugangs und der in § 1 Abs. 1 des Energiewirtschaftsgesetzes genannten Zwecke kann die Regulierungsbehörde weitere Festlegungen gegenüber Betreibern von Elektrizitätsversorgungsnetzen zur Vereinheitlichung der Vertragspflichten aus den in den §§ 23 bis 26 genannten Verträgen treffen. Die Regulierungsbehörde kann Betreiber von Elektrizitätsversorgungsnetzen auffordern, ihr innerhalb einer von der Regulierungsbehörde bestimmten, angemessenen Frist einen Vorschlag für ein Standardangebot für Verträge nach den §§ 23 bis 26 vorzulegen. Sie kann in dieser Aufforderung Vorgaben für die Ausgestaltung einzelner Bedingungen machen. Das Standardangebot muss so umfassend sein, dass es von den einzelnen Nachfragern ohne weitere Verhandlungen angenommen werden kann.
 
@@ -584,26 +543,22 @@ f) zu Übergangsbestimmungen.
 
 (5) Für Änderungen des Standardangebotes nach § 29 Abs. 2 des Energiewirtschaftsgesetzes gelten die Absätze 1 bis 4 entsprechend.
 
-
-## § 29 – Ordnungswidrigkeiten
+# § 29 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe a des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 65 Abs. 2 des Energiewirtschaftsgesetzes in Verbindung mit § 17 Abs. 1 oder 2 zuwiderhandelt.
 
 (2) Ordnungswidrig im Sinne des § 95 Abs. 1 Nr. 5 Buchstabe b des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 27 Abs. 1 Nr. 1, 3, 7, 9, 15, 16, 17 oder 18 oder § 28 Abs. 1 Satz 2 zuwiderhandelt.
 
-
-## § 30 – Übergangsregelungen
+# § 30 – Übergangsregelungen
 
 (1) § 11 ist erst ab dem 1. Oktober 2005 anzuwenden.
 
 (2) § 6 Abs. 1 ist für Minutenreserve erst ab dem 1. Januar 2006 und für die Primär- und Sekundärregelenergie erst ab dem 1. Juli 2006 anzuwenden.
 
-
-## § 31 – Inkrafttreten
+# § 31 – Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,27 +1,21 @@
-# [WpPGebV] Verordnung über die Erhebung von Gebühren nach dem Wertpapierprospektgesetz  (Wertpapierprospektgebührenverordnung - WpPGebV)
-
-Ausfertigungsdatum: 29.06.2005
-
+% Verordnung über die Erhebung von Gebühren nach dem Wertpapierprospektgesetz  (Wertpapierprospektgebührenverordnung - WpPGebV)
+% Ausfertigungsdatum: 29.06.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 28 Abs. 2 Satz 1 und 2 des Wertpapierprospektgesetzes vom 22. Juni 2005 (BGBl. I S. 1698) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und § 1 Nr. 7 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, § 1 Nr. 7 eingefügt durch Artikel 7 Nr. 3 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht erhebt für individuell zurechenbare öffentliche Leistungen nach dem Wertpapierprospektgesetz und nach Rechtsakten der Europäischen Union Gebühren nach dieser Verordnung; Auslagen werden nicht gesondert erhoben. Im Übrigen gilt das Bundesgebührengesetz.
 
-
-## § 2 – Gebühren
+# § 2 – Gebühren
 
 (1) Die gebührenpflichtigen individuell zurechenbaren öffentlichen Leistungen und die Gebührensätze bestimmen sich vorbehaltlich der Regelungen in § 3 nach dem anliegenden Gebührenverzeichnis.
 
 (2) Ein Prospekt im Sinne des Gebührenverzeichnisses ist ein Prospekt für ein Wertpapier. Bei einer drucktechnischen Zusammenfassung mehrerer Prospekte in einem Dokument fällt die Gebühr für jeden einzelnen Prospekt an. Die Sätze 1 und 2 gelten für Wertpapier-Informationsblätter sowie für Nachträge, Wertpapierbeschreibungen in Verbindung mit Zusammenfassungen, endgültige Bedingungen und das endgültige Emissionsvolumen entsprechend. Ein Registrierungsformular, einschließlich eines einheitlichen Registrierungsformulars im Sinne des Gebührenverzeichnisses, ist ein Registrierungsformular für einen Emittenten. Satz 2 gilt für den Fall der drucktechnischen Zusammenfassung mehrerer Registrierungsformulare in einem Dokument entsprechend.
 
-
-## § 3 – Gebührenerhebung in besonderen Fällen
+# § 3 – Gebührenerhebung in besonderen Fällen
 
 (1) (weggefallen)
 
@@ -29,13 +23,11 @@ Die Bundesanstalt für Finanzdienstleistungsaufsicht erhebt für individuell zur
 
 (3) (weggefallen)
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
-
-## Anlage – (zu § 2)Gebührenverzeichnis
+# Anlage – (zu § 2)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2019, 1012 - 1014)
 

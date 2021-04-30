@@ -1,20 +1,15 @@
-# [GrAbfertCESVtrG] Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr
-
-Ausfertigungsdatum: 10.01.1996
-
+% Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr
+% Ausfertigungsdatum: 10.01.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Furth im Wald am 19. Mai 1995 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung des Bundesrates die Rechtsverordnungen zu erlassen, die zur Durchführung der Vereinbarungen nach Artikel 1 Abs. 3 des Vertrags über
 
@@ -24,8 +19,7 @@ b) die Strecken, auf denen die Bediensteten beider Vertragsparteien in den Verke
 
 erforderlich sind.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

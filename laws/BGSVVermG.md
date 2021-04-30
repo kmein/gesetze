@@ -1,17 +1,13 @@
-# [BGSVVermG] Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet
-
-Ausfertigungsdatum: 20.12.1991
-
+% Gesetz zur Regelung von Vermögensfragen der Sozialversicherung im Beitrittsgebiet
+% Ausfertigungsdatum: 20.12.1991
  
-
-## § 1
+# § 1
 
 (1) Das Vermögen nach Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 § 3 Abs. 1 des Einigungsvertrages (Gesamthandsvermögen) wird nach den folgenden Vorschriften aufgeteilt.
 
 (2) Zum Gesamthandsvermögen im Sinne des Absatzes 1 gehört auch das Vermögen der Sozialversicherung Wismut und des Gesundheitswesens Wismut, insbesondere die Grundstücke und Gebäude, die am 30. Juni 1990 in deren Eigentum standen und die nicht aufgrund besatzungsrechtlicher Maßnahmen in das Eigentum der Sowjetischen Aktiengesellschaft Wismut gelangt sind. Diese Grundstücke und Gebäude sind nicht als der Sowjetisch-Deutschen Aktiengesellschaft Wismut sachlich zugeordnet anzusehen.
 
-
-## § 2 – Eigentumsaufteilung
+# § 2 – Eigentumsaufteilung
 
 (1) Grundstücke und Gebäude aus dem Gesamthandsvermögen sind durch Bescheid auf den Träger der Sozialversicherung oder den Verband der Sozialversicherungsträger zu übertragen, der die Eigentumsübertragung beantragt hat und der sie für die Erfüllung seiner gesetzlich vorgeschriebenen oder zugelassenen Aufgaben benötigt. In dem Bescheid soll der Erwerbspreis (§ 6) festgelegt werden. Der Eigentumsübergang ist hierdurch nicht bedingt.
 
@@ -27,18 +23,15 @@ Ausfertigungsdatum: 20.12.1991
 
 (7) Für Streitigkeiten nach den vorstehenden Absätzen ist der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit gegeben. Das Landessozialgericht Berlin entscheidet im ersten Rechtszug. Absatz 6 Satz 4 gilt entsprechend.
 
-
-## § 3 – Klärung der Eigentumsverhältnisse, Mitwirkungspflichten der Überleitungsanstalt Sozialversicherung
+# § 3 – Klärung der Eigentumsverhältnisse, Mitwirkungspflichten der Überleitungsanstalt Sozialversicherung
 
 Die Überleitungsanstalt Sozialversicherung hat bei den Grundstücken und Gebäuden, bei denen nicht auszuschließen ist, daß sie zum Gesamthandsvermögen oder zum Vermögen des Gesundheitswesens Wismut nach § 1 Abs. 2 gehören, eine Klärung der Eigentumsverhältnisse herbeizuführen.
 
-
-## § 4 – Rechte früherer Eigentümer
+# § 4 – Rechte früherer Eigentümer
 
 Grundstücke und Gebäude, die nach Maßgabe von § 2 übertragen werden, unterliegen der Rückübertragung nach Maßgabe des Vermögensgesetzes, wenn sie Gegenstand von Maßnahmen im Sinne des § 1 Vermögensgesetz waren. Das Investitionsvorranggesetz ist anzuwenden.
 
-
-## § 5 – Verwaltung und Nutzung
+# § 5 – Verwaltung und Nutzung
 
 (1) Die Antragsteller nach § 2 Abs. 2 haben die beantragten Grundstücke und Gebäude vom Zeitpunkt der Antragstellung an zu verwalten und die Erhaltungs- und Bewirtschaftungskosten seit diesem Zeitpunkt zu übernehmen. Sie erhalten die Nutzungen, die ab demselben Zeitpunkt aus den in Satz 1 bezeichneten Grundstücken und Gebäuden gezogen werden. Wird der Antrag bestandskräftig abgelehnt, geht die Verwaltung ab diesem Zeitpunkt auf das Land über, in dessen Gebiet sich das Grundstück oder Gebäude ganz oder überwiegend befindet. Ist bei mehreren Antragstellern ein Antragsteller der Nutzer, so geht die Verwaltung auf diesen über; anderenfalls hat die Überleitungsanstalt Sozialversicherung die Verwaltung sicherzustellen.
 
@@ -52,13 +45,11 @@ Grundstücke und Gebäude, die nach Maßgabe von § 2 übertragen werden, unterl
 
 (6) Wird ein Grundstück oder Gebäude auf einen Träger der Sozialversicherung oder einen Verband der Sozialversicherungsträger übertragen, so finden die §§ 994 bis 996 des Bürgerlichen Gesetzbuchs im Verhältnis zu einem anderen Träger der Sozialversicherung oder Verband der Sozialversicherungsträger keine Anwendung.
 
-
-## § 6 – Erwerbspreis
+# § 6 – Erwerbspreis
 
 Die Sozialversicherungsträger oder ihre Verbände haben den Verkehrswert des erworbenen Grundstücks oder Gebäudes, wie er, bezogen auf den 1. Januar 1991, ermittelt wird, unter Abzug der Grundpfandrechte auf ein Sonderkonto bei der Überleitungsanstalt Sozialversicherung als Erwerbspreis zu zahlen. Soweit der Eigentumsübergang ein Grundstück oder Gebäude aus dem Gesundheitswesen Wismut nach § 1 Abs. 2 betrifft, ist der Erwerbspreis auf ein weiteres, von der Überleitungsanstalt Sozialversicherung einzurichtendes Sonderkonto zu zahlen. Die Auslagen für die Ermittlung des Verkehrswertes hat der Erwerber zu tragen.
 
-
-## § 7 – Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut
+# § 7 – Eigentumsübergang an beweglichen Sachen und datenschutzrechtliche Vorschriften zur Nutzung der Archive des Gesundheitswesens Wismut
 
 (1) Das Eigentum an beweglichen Sachen aus dem Gesamthandsvermögen und aus dem Vermögen des Gesundheitswesens Wismut nach § 1 Abs. 2 geht, soweit es sich nicht um Akten, Dateien oder Archive handelt, mit den Grundstücken oder Gebäuden, auf oder in denen sie sich gewöhnlich befinden, auf den neuen Eigentümer über. Ihr Wert ist bei der Ermittlung des Verkehrswertes der Grundstücke oder Gebäude mit zu berücksichtigen. Akten, Dateien oder Archive gehen auf den Sozialversicherungsträger über, soweit er sie zur Erfüllung seiner Aufgaben benötigt; im übrigen hat die Überleitungsanstalt Sozialversicherung die Löschung der Daten sicherzustellen. § 2 Abs. 6 und 7 sowie § 5 gelten entsprechend.
 
@@ -102,8 +93,7 @@ c) das öffentliche Interesse an der Forschungsarbeit das schutzwidrige Interess
 
 (10) Soweit Datenbestände durch Verwaltungsakt des Bundesamtes für Soziale Sicherung den gewerblichen Berufsgenossenschaften zugewiesen worden sind, dürfen darin enthaltene Sozialdaten von den gewerblichen Berufsgenossenschaften an die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin, das Bundesamt für Strahlenschutz und an andere wissenschaftliche Forschung betreibende öffentliche oder private Stellen unter den Voraussetzungen des Absatzes 4 Satz 1 Nr. 2 und des Absatzes 5 übermittelt werden. Insoweit gelten die Absätze 6 bis 9. Vor einer Entscheidung über eine Übermittlung an Dritte haben sich die gewerblichen Berufsgenossenschaften mit der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin über die Erforderlichkeit der Übermittlung ins Benehmen zu setzen. Dieser Absatz gilt als andere Rechtsvorschrift im Sinne des § 67b Absatz 1 des Zehnten Buches Sozialgesetzbuch.
 
-
-## § 8 – Forderungen und sonstige Rechte
+# § 8 – Forderungen und sonstige Rechte
 
 (1) Forderungen, die aufgrund einer öffentlich-rechtlichen Vorschrift entstanden sind, gehen auf den Sozialversicherungsträger über, der für die Erbringung der entsprechenden Leistung zuständig ist.
 
@@ -117,22 +107,19 @@ c) das öffentliche Interesse an der Forschungsarbeit das schutzwidrige Interess
 
 (6) Für die Feststellung im Streitverfahren gilt § 2 Abs. 6 und 7 entsprechend.
 
-
-## § 9 – Verbindlichkeiten
+# § 9 – Verbindlichkeiten
 
 (1) Für Verbindlichkeiten, die zu dem in Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 § 3 Abs. 1 des Einigungsvertrages bezeichneten Vermögen gehören, haften die Sozialversicherungsträger als Gesamtschuldner. Sie können nur gegenüber der Überleitungsanstalt Sozialversicherung geltend gemacht werden, die sie aus dem Sonderkonto für das Gesamthandsvermögen zu erfüllen hat.
 
 (2) Der Überleitungsanstalt Sozialversicherung sind von den Spitzenverbänden der Sozialversicherungsträger für die Gesamthänder die Mittel, die zur Erfüllung von Verbindlichkeiten des Gesamthandsvermögens zu erbringen oder erbracht worden sind, entsprechend ihrem Anteil am Gesamthandsvermögen zur Verfügung zu stellen. Entsprechendes gilt für die Verbindlichkeiten des Gesundheitswesens Wismut nach § 1 Abs. 2 für die Länder Sachsen und Thüringen.
 
-
-## § 10
+# § 10
 
 (1) Der Erlös aus dem Gesamthandsvermögen steht jedem der drei Zweige der Sozialversicherung zu einem Drittel zu. Die Aufteilung des jeweiligen Drittels auf die Gesamthänder erfolgt durch die Spitzenverbände der Sozialversicherungsträger des betroffenen Zweiges der Sozialversicherung, die die Entscheidung unmittelbar nach Erhalt des Erlöses zu treffen haben. Die Aufteilung soll sich für den Bereich der Krankenversicherung nach dem gewichteten Durchschnitt der Mitglieder für das Jahr 1991, für den Bereich der Unfallversicherung nach Anlage I Kapitel VIII Sachgebiet I Abschnitt III Nr. 1 Buchstabe c Abs. 8 Nr. 2 Doppelbuchstaben aa bis dd des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1212) und für den Bereich der Rentenversicherung nach der Anzahl der Versicherten am 1. Januar 1991 richten.
 
 (2) Muß ein Grundstück oder Gebäude, das auf einen Träger der Sozialversicherung oder einen Verband übertragen worden ist, herausgegeben werden, weil es im Eigentum eines Dritten steht oder Rückübertragungsansprüche eines Dritten bestehen, so haben die Spitzenverbände der Sozialversicherungsträger für die Gesamthänder dem Träger oder Verband einen gemäß § 6 gezahlten Erwerbspreis entsprechend der Aufteilung nach Absatz 1 zu erstatten.
 
-
-## § 11 – Vertretungsbefugnis
+# § 11 – Vertretungsbefugnis
 
 (1) Der Geschäftsführer der Überleitungsanstalt Sozialversicherung oder eine von ihm zu ermächtigende Person sind bis zu einer Übertragung gemäß § 2 oder der Feststellung eines Rechtsübergangs nach den §§ 7 oder 8 berechtigt, die Eigentümer des Gesamthandsvermögens oder des Vermögens des Gesundheitswesens Wismut im Sinne des § 1 zu vertreten, soweit sie
 
@@ -144,8 +131,7 @@ c) das öffentliche Interesse an der Forschungsarbeit das schutzwidrige Interess
 
 (2) Verträge nach § 2 Abs. 4, die die Überleitungsanstalt Sozialversicherung vor dem Inkrafttreten dieses Gesetzes abgeschlossen hat, gelten als genehmigt, wenn die Verträge im Benehmen mit den Spitzenverbänden abgeschlossen worden sind.
 
-
-## § 12 – Feststellung des Eigentumsübergangs
+# § 12 – Feststellung des Eigentumsübergangs
 
 (1) Für die Feststellung, wer in welchem Umfang unbewegliches Vermögen gemäß Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 § 3 Abs. 2 des Einigungsvertrages erhalten hat, gilt § 2 Abs. 6 entsprechend.
 
@@ -159,14 +145,12 @@ c) das öffentliche Interesse an der Forschungsarbeit das schutzwidrige Interess
 
 (3) Ein Grundstück oder Gebäude, für das am 8. Mai 1945 eine Landesversicherungsanstalt - Abteilung Krankenversicherung - als Eigentümerin im Grundbuch eingetragen war oder für das sich deren Eigentum auf sonstige Weise nachweisen läßt, wird Eigentum des Landes, in dem das Grundstück oder Gebäude ganz oder überwiegend belegen ist. Wenn der örtlich zuständige Medizinische Dienst das Grundstück oder Gebäude zu seiner Aufgabenerfüllung benötigt, ist es vom Land auf diesen unentgeltlich zu übertragen.
 
-
-## § 13 – Auflösung der Sonderkonten
+# § 13 – Auflösung der Sonderkonten
 
 (1) Nach Begleichung der Verbindlichkeiten und Einziehung der Forderungen ist das Sonderkonto für das Gesamthandsvermögen aufzulösen, indem der Saldo zu jeweils einem Drittel auf die drei Zweige der Sozialversicherung aufgeteilt wird. § 10 Abs. 1 gilt entsprechend.
 
 (2) Der Saldo aus dem Sonderkonto für das Immobiliarvermögen aus dem Gesundheitswesen Wismut ist auf die Länder Sachsen und Thüringen zu gleichen Teilen zu übertragen.
 
-
-## § 14 – Nachfolge
+# § 14 – Nachfolge
 
 Befugnisse und bei deren Auflösung noch nicht erledigte Aufgaben der Überleitungsanstalt Sozialversicherung und deren Geschäftsführers gehen auf den Präsidenten des Bundesamtes für Soziale Sicherung über.

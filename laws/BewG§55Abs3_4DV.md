@@ -1,15 +1,11 @@
-# [BewG§55Abs3/4DV] Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes
-
-Ausfertigungsdatum: 27.07.1967
-
+% Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes
+% Ausfertigungsdatum: 27.07.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 55 Abs. 3 und 4 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 (1) Für die Holzarten Fichte, Kiefer und Pappel werden für die in Absatz 3 bestimmten Bewertungsgebiete Normalwerte festgesetzt. Der Holzart Kiefer ist die Lärche, der Holzart Fichte sind die Weymouthskiefer und alle übrigen Nadelholzarten gleichzusetzen. Die Normalwerte sind vorbehaltlich des Absatzes 2 und des § 2 Abs. 2 und 3 aus der Anlage 1 zu entnehmen.
 
@@ -17,8 +13,7 @@ Auf Grund des § 55 Abs. 3 und 4 und des § 123 Abs. 1 des Bewertungsgesetzes in
 
 (3) Die Zusammensetzung der Bewertungsgebiete nach Finanzamtsbezirken und Gemeinden ergibt sich aus der Anlage 2.
 
-
-## § 2
+# § 2
 
 (1) Die in der Anlage 1 festgesetzten Normalwerte gelten bei der Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche 30 ha übersteigt.
 
@@ -213,23 +208,19 @@ Die so berechneten Normalwerte werden auf Null DM festgesetzt, wenn sie geringer
 
 (3) Für die Bewertung forstwirtschaftlicher Nutzungen, deren Gesamtfläche 2 ha nicht übersteigt, werden die Normalwerte auf Null DM festgesetzt.
 
-
-## § 3
+# § 3
 
 Die Hundertsätze für die Anteile der einzelnen Alters- oder Vorratsklassen an den Normalwerten werden einheitlich für alle Bewertungsgebiete in der aus Anlage 3 zu ersehenden Höhe festgesetzt.
 
-
-## § 4
+# § 4
 
 Die in dieser Verordnung genannten Beträge in Deutscher Mark gelten nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
-
-## § 5
+# § 5
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)  Normalwerte
+# Anlage 1 – (zu § 1 Abs. 1)  Normalwerte
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 806 - 814)
 
@@ -249,8 +240,7 @@ der Holzart Kiefer:
   
 die Lärche, nicht jedoch die Weymouthskiefer.
 
-2. Die Bewertungsgebiete sind durch Zahlen gekennzeichnet, deren erste oder erste und zweite Ziffern das Land und deren nächstfolgende Ziffer die Oberfinanzdirektion erkennen lassen.  
-  
+2. Die Bewertungsgebiete sind durch Zahlen gekennzeichnet, deren erste oder erste und zweite Ziffern das Land und deren nächstfolgende Ziffer die Oberfinanzdirektion erkennen lassen.   
 
 Den Ziffern entsprechen:  
   
@@ -8050,8 +8040,7 @@ III,00
 
 274
 
-
-## Anlage 2 – (zu § 1 Abs. 3)  Bewertungsgebiete  Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
+# Anlage 2 – (zu § 1 Abs. 3)  Bewertungsgebiete  Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
 
 (Fundstelle: BGBl. I 1967, 815 - 835)
 
@@ -12917,8 +12906,7 @@ Bewertungsgebiet 10101 besteht aus allen Finanzamtsbezirken des Landes Bremen
 
 Bewertungsgebiet 11101 besteht aus allen Finanzamtsbezirken des Landes Berlin
 
-
-## Anlage 3 – (zu § 3)
+# Anlage 3 – (zu § 3)
 
 (Fundstelle: BGBl. I 1967, 836)
 

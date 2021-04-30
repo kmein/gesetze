@@ -1,20 +1,15 @@
-# [FinStabDEV] Verordnung zur Durchführung von Datenerhebungen durch die Deutsche Bundesbank zur Erfüllung der Aufgaben nach dem Finanzstabilitätsgesetz  (Finanzstabilitätsdatenerhebungsverordnung - FinStabDEV)
-
-Ausfertigungsdatum: 28.01.2021
-
+% Verordnung zur Durchführung von Datenerhebungen durch die Deutsche Bundesbank zur Erfüllung der Aufgaben nach dem Finanzstabilitätsgesetz  (Finanzstabilitätsdatenerhebungsverordnung - FinStabDEV)
+% Ausfertigungsdatum: 28.01.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 2 des Finanzstabilitätsgesetzes vom 28. November 2012 (BGBl. I S. 2369) verordnet das Bundesministerium der Finanzen im Einvernehmen mit der Deutschen Bundesbank:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für die Anforderung von Daten von finanziellen Kapitalgesellschaften im Sinne von Anhang A Kapitel 2 Nummer 2.32 bis 2.67 der Verordnung (EG) Nr. 2223/96 des Rates vom 25. Juni 1996 zum Europäischen System Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler Ebene in der Europäischen Gemeinschaft (ABl. L 310 vom 30.11.1996, S. 1), die zuletzt durch die Verordnung (EU) Nr. 517/2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, mit Sitz im Inland durch die Deutsche Bundesbank. Die nach dieser Verordnung zu erhebenden Daten dienen der Wahrung der Finanzstabilität, indem mit ihnen insbesondere die für die Finanzstabilität maßgeblichen Sachverhalte analysiert und Gefahren identifiziert werden. Damit unterstützt die Erhebung dieser Daten die Erfüllung der Aufgaben der Deutschen Bundesbank nach dem Finanzstabilitätsgesetz, insbesondere der in § 1 Absatz 1 des Finanzstabilitätsgesetzes aufgeführten Aufgaben.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
 
@@ -134,8 +129,7 @@ c) zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr
 
 39. Restschuldversicherung: eine Versicherung, die der Absicherung mindestens eines Darlehensnehmers oder seiner Hinterbliebenen für den Fall des Todes, der Krankheit, der Arbeitslosigkeit, der Arbeitsunfähigkeit oder sonstiger Umstände, die zu einem Leistungsausfall des Darlehensnehmers führen können, dient, und bei der die Versicherungsleistung ganz oder teilweise auf die Erfüllung der Ansprüche aus dem Darlehensvertrag gerichtet ist.
 
-
-## § 3 – Datenanforderung durch die Deutsche Bundesbank
+# § 3 – Datenanforderung durch die Deutsche Bundesbank
 
 (1) Die Deutsche Bundesbank kann nach Maßgabe des § 6 des Finanzstabilitätsgesetzes in Verbindung mit dieser Verordnung Daten von Mitteilungspflichtigen anfordern. Diese Datenanforderung kann sich nur auf solche Datenattribute beziehen, die in § 4 Absatz 1 ausdrücklich benannt sind. Die Erhebung personenbezogener Daten im Sinne von Artikel 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) kann nicht auf diese Verordnung gestützt werden.
 
@@ -143,8 +137,7 @@ c) zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr
 
 (3) Die Anforderung der Daten bei den Mitteilungspflichtigen kann eine einmalige oder eine wiederkehrende Datenanforderung durch die Deutsche Bundesbank vorsehen. Im Falle einer einmaligen Datenanforderung bestimmt die Deutsche Bundesbank den Stichtag, bezogen auf den die Daten zu melden sind, und den Zeitpunkt, bis zu welchem sie zu übermitteln sind. Im Falle einer wiederkehrenden Anforderung der Daten von Mitteilungspflichtigen bestimmt die Deutsche Bundesbank in welchen Abständen und bis zu welchen Stichtagen die Daten zu übermitteln sind. Die Anforderung einer Übermittlung von Daten in monatlichen Abständen muss durch außergewöhnliche Umstände gerechtfertigt sein. Außergewöhnliche Umstände liegen insbesondere dann vor, wenn eine Störung der Funktionsfähigkeit des inländischen Finanzsystems oder einer Gefährdung der Finanzstabilität im Inland droht. Sind im Fall einer wiederkehrenden Anforderung Daten bereits bezogen auf einen Stichtag in der Vergangenheit gemeldet worden, ist keine Aktualisierung der bereits übermittelten Daten zum nächsten Meldestichtag erforderlich.
 
-
-## § 4 – Daten über Wohnimmobilienfinanzierungen
+# § 4 – Daten über Wohnimmobilienfinanzierungen
 
 (1) Zur Wahrung der Finanzstabilität sowie zur Identifizierung und Analyse möglicher Risiken für die Finanzstabilität aus Wohnimmobilienfinanzierungen kann die Deutsche Bundesbank gemäß § 6 Absatz 1 des Finanzstabilitätsgesetzes in Verbindung mit § 3 Absatz 1 die folgenden Datenattribute mit Bezug zu Wohnimmobilienfinanzierungen anfordern, sofern Darlehensnehmer eine oder mehrere natürliche Personen sind:
 
@@ -194,8 +187,7 @@ c) zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr
 
 (5) Die Übermittlung der Daten, die in Absatz 1 benannt sind, kann nur von solchen Mitteilungspflichtigen angefordert werden, die gewerbliche Darlehensgeber sind. Die Deutsche Bundesbank kann insbesondere auch für die in § 2 Absatz 2 Nummer 1 aufgezählten Gruppen von mitteilungspflichtigen gewerblichen Darlehensgeber differenzierte Meldevorgaben vorsehen.
 
-
-## § 5 – Form und Format der Datenübermittlung
+# § 5 – Form und Format der Datenübermittlung
 
 (1) Die Mitteilungspflichtigen haben die Daten gemäß der Anforderung der Deutschen Bundesbank zu übermitteln. Sind von der Deutschen Bundesbank mit der Datenanforderung Schemata zur Übermittlung der Daten veröffentlicht worden, sind diese von den Mitteilungspflichtigen zu verwenden.
 
@@ -203,8 +195,7 @@ c) zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr
 
 (3) Die Übermittlung der Daten erfolgt elektronisch unter Nutzung der von der Deutschen Bundesbank angebotenen elektronischen Übermittlungswege. Zur weiteren Erläuterung der zu übermittelnden Daten sowie der Form und des Formats der Datenübermittlung kann die Deutsche Bundesbank Richtlinien und Rundschreiben veröffentlichen.
 
-
-## § 6 – Zeitliche Vorgaben
+# § 6 – Zeitliche Vorgaben
 
 (1) Die Mitteilungspflichtigen übermitteln Daten entsprechend der angeforderten Meldefrequenz zu den folgenden Meldestichtagen:
 
@@ -222,8 +213,7 @@ c) zum erwarteten Verlust im Sinne von Artikel 5 Nummer 3 der Verordnung (EU) Nr
 
 (4) In der Anforderung zur einmaligen Übermittlung von Daten und für die erstmalige Übermittlung von Daten im Rahmen einer fortlaufenden Datenanforderung hat die Deutsche Bundesbank eine angemessene Frist vorzusehen. Bei einer regelmäßigen Datenanforderung kann die erstmalige Datenübermittlung frühestens 18 Monate nach Bekanntgabe der entsprechenden Anforderung vorgesehen werden.
 
-
-## § 7 – Befugnis zur Überprüfung
+# § 7 – Befugnis zur Überprüfung
 
 (1) Die Deutsche Bundesbank ist befugt, auch ohne besonderen Anlass, die Richtigkeit und Qualität der übermittelten Daten zu überprüfen. Die Befugnis nach Satz 1 umfasst auch das Recht, für Zwecke einer Plausibilitätsprüfung von den Mitteilungspflichtigen
 
@@ -243,7 +233,6 @@ Mitteilungspflichtige haben Maßnahmen nach den Sätzen 1 und 2 zu dulden und An
 
 (3) Die Überprüfung nach Absatz 1 ist von der Deutschen Bundesbank so zu gestalten, dass sie nicht zur Identifizierung oder Identifizierbarkeit der Person eines Darlehensnehmers oder anderer natürlicher Personen führt. § 3 Absatz 1 gilt entsprechend. Die Mitteilungspflichtigen haben die Deutsche Bundesbank bei der Einhaltung dieser Vorgabe durch geeignete Maßnahmen zu unterstützen. Hierauf weist die Deutsche Bundesbank die Mitteilungspflichtigen vor einer Überprüfung hin.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

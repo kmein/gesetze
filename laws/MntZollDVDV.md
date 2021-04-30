@@ -1,12 +1,7 @@
-# [MntZollDVDV] Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes  (MntZollDVDV)
-
-Ausfertigungsdatum: 15.05.2017
-
+% Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes  (MntZollDVDV)
+% Ausfertigungsdatum: 15.05.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -26,23 +21,21 @@ Ausfertigungsdatum: 15.05.2017
 
  
 
+ 
 
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Die Ausbildung und Prüfung nach dieser Verordnung ist der Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes.
 
-
-## § 2 – Ziele der Ausbildung
+# § 2 – Ziele der Ausbildung
 
 Die Ausbildung vermittelt das fachtheoretische Wissen und die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im mittleren nichttechnischen Zolldienst des Bundes erforderlich sind. Sie soll die Auszubildenden zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen Raum und im internationalen, insbesondere europäischen Raum. Die Auszubildenden sollen Kompetenzen entwickeln, um den sich ständig wandelnden Herausforderungen an die Zollverwaltung gerecht zu werden. Die Auszubildenden sollen befähigt werden, sich eigenverantwortlich weiterzubilden.
 
-
-## § 3 – Dauer der Ausbildung
+# § 3 – Dauer der Ausbildung
 
 Der Vorbereitungsdienst dauert in der Regel zwei Jahre. Über eine Verkürzung oder Verlängerung des Vorbereitungsdienstes entscheiden die Einstellungsbehörden im Benehmen mit den Ausbildungsbehörden und der Generalzolldirektion.
 
-
-## § 4 – Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht
+# § 4 – Einstellungsbehörden, Ausbildungsbehörden, Dienstaufsicht
 
 (1) Einstellungsbehörden sind die Behörden der Zollverwaltung, die vom Bundesministerium der Finanzen oder von der von ihm bestimmten Behörde als solche bestimmt worden sind. Sie sind für alle beamtenrechtlichen Entscheidungen zuständig, soweit diese Entscheidungen durch diese Verordnung nicht anderen Behörden übertragen werden.
 
@@ -50,8 +43,7 @@ Der Vorbereitungsdienst dauert in der Regel zwei Jahre. Über eine Verkürzung o
 
 (3) Dienstvorgesetzte oder Dienstvorgesetzter der Auszubildenden ist die Leiterin oder der Leiter der Einstellungsbehörde. Daneben unterstehen die Auszubildenden auch der Dienstaufsicht der Leiterin oder des Leiters der Ausbildungsbehörde, in deren oder dessen Zuständigkeitsbereich sie sich zum jeweiligen Abschnitt der Ausbildung befinden.
 
-
-## § 5 – Nachteilsausgleich im Auswahlverfahren, bei Leistungstests und Prüfungen
+# § 5 – Nachteilsausgleich im Auswahlverfahren, bei Leistungstests und Prüfungen
 
 (1) Menschen mit Behinderung und Menschen mit einer vorübergehenden Beeinträchtigung wird auf ihren Antrag im Auswahlverfahren, bei Leistungstests sowie in allen Teilen der Laufbahnprüfung ein angemessener Nachteilsausgleich gewährt. Hierauf sind sie durch die Einstellungsbehörden oder das Prüfungsamt rechtzeitig hinzuweisen.
 
@@ -63,8 +55,7 @@ Der Vorbereitungsdienst dauert in der Regel zwei Jahre. Über eine Verkürzung o
 
 (5) Nach Einstellung in den Vorbereitungsdienst und mit Zustimmung der betroffenen Person teilt die Einstellungsbehörde die im Auswahlverfahren gewährten Nachteilsausgleiche dem Prüfungsamt mit.
 
-
-## § 6 – Bewertung der Leistungen
+# § 6 – Bewertung der Leistungen
 
 (1) Die Leistungen der Auszubildenden werden wie folgt bewertet:
 
@@ -220,8 +211,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (5) Durchschnittsrangpunktzahlen werden, soweit nichts anderes bestimmt ist, auf zwei Nachkommastellen ohne Auf- und Abrundung berechnet.
 
-
-## § 7 – Fernbleiben und Rücktritt von Leistungstests und Prüfungen
+# § 7 – Fernbleiben und Rücktritt von Leistungstests und Prüfungen
 
 (1) Bei ungenehmigtem Fernbleiben oder Rücktritt von einem Leistungstest, von einer Prüfung, einem Prüfungsteil oder einer Klausur in der Prüfung gilt der Leistungstest, die Prüfung, der Prüfungsteil oder die Klausur als mit null Rangpunkten bewertet.
 
@@ -229,8 +219,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die für die Entscheidung über die Genehmigung des Fernbleibens oder des Rücktritts zuständige Stelle bestimmt, ob und inwieweit bereits absolvierte Leistungstests, Prüfungsteile oder Klausuren in Prüfungen gewertet werden und zu welchem Zeitpunkt sie nachgeholt werden. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 8 – Täuschung und Ordnungsverstoß
+# § 8 – Täuschung und Ordnungsverstoß
 
 (1) Auszubildenden, die bei einem Leistungstest, bei einer Klausur in einer Prüfung oder bei der mündlichen Abschlussprüfung täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung des Leistungstestes, der Klausur oder der mündlichen Abschlussprüfung unter dem Vorbehalt einer abweichenden Entscheidung der zuständigen Stelle gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme am Leistungstest, an der Klausur, an der mündlichen Abschlussprüfung oder an der Prüfung insgesamt ausgeschlossen werden.
 
@@ -250,13 +239,11 @@ Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
 (5) Die Einleitung disziplinarrechtlicher Maßnahmen bleibt unberührt.
 
-
-## § 9 – Erholungsurlaub
+# § 9 – Erholungsurlaub
 
 Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gewährt und auf den Vorbereitungsdienst angerechnet.
 
-
-## § 10 – Zulassung zum Auswahlverfahren
+# § 10 – Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Besonders wichtig sind kognitive Fähigkeiten, Teamfähigkeit, Kommunikationsfähigkeit und Leistungsmotivation. Die Einstellungsbehörde kündigt das Auswahlverfahren durch Ausschreibung an.
 
@@ -266,8 +253,7 @@ Erholungsurlaub wird in der Regel während der berufspraktischen Ausbildung gew�
 
 (4) Wer zum Auswahlverfahren nicht zugelassen wird oder erfolglos daran teilgenommen hat, erhält eine Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten; elektronisch übermittelte Bewerbungsunterlagen sind zu löschen.
 
-
-## § 11 – Auswahlkommission
+# § 11 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Einstellungsbehörde eine Auswahlkommission ein. Bei Bedarf kann sie mehrere Auswahlkommissionen einrichten. In diesem Fall ist sicherzustellen, dass in allen Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
@@ -285,8 +271,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (5) Die Stimmen der Mitglieder der Auswahlkommission haben gleiches Gewicht. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 12 – Auswahlverfahren
+# § 12 – Auswahlverfahren
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Einzelne Abschnitte des Auswahlverfahrens können unterstützt durch Informationstechnik durchgeführt werden. Bewertungsentscheidungen dürfen nicht ausschließlich auf eine automatisierte Auswertung gestützt werden. Die Gesamtverantwortung für die Auswahl bleibt bei der Auswahlkommission.
 
@@ -294,8 +279,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Eine Täuschung, ein Täuschungsversuch oder die Beihilfe zu einer Täuschung oder einem Täuschungsversuch während des Auswahlverfahrens führen zum Ausschluss der Bewerberin oder des Bewerbers vom Auswahlverfahren. Vor der Entscheidung über den Ausschluss wird die Bewerberin oder der Bewerber angehört.
 
-
-## § 13 – Schriftlicher Teil des Auswahlverfahrens
+# § 13 – Schriftlicher Teil des Auswahlverfahrens
 
 (1) Der schriftliche Teil des Auswahlverfahrens ist ein Leistungstest mit mehreren Abschnitten. In diesen Abschnitten werden folgende Kompetenzbereiche geprüft:
 
@@ -323,8 +307,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (7) Für die Bewerberinnen und Bewerber, die bestanden haben, legt die Auswahlkommission anhand der erzielten Ergebnisse eine Rangfolge fest.
 
-
-## § 14 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+# § 14 – Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil des Auswahlverfahrens bestanden hat.
 
@@ -332,8 +315,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Schwerbehinderte und diesen gleichgestellte behinderte Menschen, die am schriftlichen Teil des Auswahlverfahrens teilgenommen haben, werden immer zum mündlichen Teil zugelassen. Ihnen ist im mündlichen Teil Gelegenheit zu geben, die Auswahlkommission von der Eignung zu überzeugen, soweit diese Eignung im schriftlichen Verfahren noch nicht festgestellt werden konnte.
 
-
-## § 15 – Mündlicher Teil des Auswahlverfahrens
+# § 15 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Der mündliche Teil des Auswahlverfahrens besteht aus bis zu vier Simulationsübungen und einem strukturierten Interview. Er dient dazu, die Eignung der Bewerberinnen und Bewerber in verschiedenen persönlichen und sozialen Kompetenzbereichen zu ermitteln.
 
@@ -355,8 +337,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 2. im Falle des Absatzes 7 Satz 1 in jedem Kompetenzbereich die erforderliche Mindestpunktzahl erreicht hat.
 
-
-## § 16 – Gesamtergebnis des Auswahlverfahrens
+# § 16 – Gesamtergebnis des Auswahlverfahrens
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber das Gesamtergebnis des Auswahlverfahrens. In das Gesamtergebnis gehen das Ergebnis des schriftlichen Teils mit 40 Prozent und das Ergebnis des mündlichen Teils mit 60 Prozent ein.
 
@@ -378,8 +359,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 3. die Auswahlkommission festgestellt hat, dass sie von der Eignung der Bewerberin oder des Bewerbers überzeugt ist.
 
-
-## § 17 – Einstellung
+# § 17 – Einstellung
 
 (1) In den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes kann eingestellt werden, wer erfolgreich am Auswahlverfahren teilgenommen hat und nach ärztlichem Gutachten die gesundheitlichen Anforderungen an den Zolldienst erfüllt.
 
@@ -387,8 +367,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Die Einstellungsbehörde veranlasst für die zur Einstellung vorgesehenen Bewerberinnen und Bewerber eine ärztliche Einstellungsuntersuchung. Die Kosten der Untersuchung trägt die Einstellungsbehörde.
 
-
-## § 18 – Aufbau der Ausbildung
+# § 18 – Aufbau der Ausbildung
 
 (1) Die Ausbildung gliedert sich in folgende Abschnitte:
 
@@ -402,15 +381,13 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (4) Für die fachtheoretische Ausbildung und für die praxisbezogenen Lehrveranstaltungen während der berufspraktischen Ausbildung werden die Auszubildenden von den Ausbildungsbehörden an die Generalzolldirektion abgeordnet. Die Praktika werden bei der Ausbildungsbehörde durchgeführt.
 
-
-## § 19 – Lehrplan und Ausbildungsrahmenplan
+# § 19 – Lehrplan und Ausbildungsrahmenplan
 
 (1) Für die fachtheoretische Ausbildung erstellt die Generalzolldirektion einen Lehrplan, in dem der Ausbildungsverlauf im Einzelnen einschließlich der Dauer und Aufteilung der einzelnen Abschnitte und der entsprechenden Zeitrichtwerte geregelt ist.
 
 (2) Für die berufspraktische Ausbildung erstellt die Generalzolldirektion einen Ausbildungsrahmenplan, in dem der Ausbildungsverlauf im Einzelnen einschließlich der Dauer und Aufteilung der einzelnen Abschnitte und der entsprechenden Zeitrichtwerte geregelt ist.
 
-
-## § 20 – Ausbildungsleitung, Ausbildende
+# § 20 – Ausbildungsleitung, Ausbildende
 
 (1) Die Ausbildungsbehörde bestellt jeweils mindestens eine Beamtin oder einen Beamten des gehobenen Dienstes als Ausbildungsleitung und als Vertretung der Ausbildungsleitung.
 
@@ -418,8 +395,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Die Ausbildenden informieren die Ausbildungsleitung regelmäßig über den Stand der Ausbildung. Den Ausbildenden dürfen nicht mehr Auszubildende zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie sind angemessen von anderen Dienstgeschäften zu entlasten.
 
-
-## § 21 – Ausbildungsakte
+# § 21 – Ausbildungsakte
 
 (1) Die Ausbildungsbehörde führt für jede Auszubildende und jeden Auszubildenden eine Ausbildungsakte.
 
@@ -437,8 +413,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 6. eine Ausfertigung des Zeugnisses über die berufspraktische Ausbildung (§ 31 Absatz 3).
 
-
-## § 22 – Leistungstests
+# § 22 – Leistungstests
 
 (1) Während der Ausbildung werden Leistungstests durchgeführt.
 
@@ -458,8 +433,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (5) Alle Leistungstests sollen bis spätestens einen Monat vor Beginn der schriftlichen Abschlussprüfung erbracht worden sein. Ist ein Leistungstest nicht bis spätestens einen Tag vor der schriftlichen Abschlussprüfung erbracht worden, gilt er als mit null Rangpunkten bewertet.
 
-
-## § 23 – Klausuren
+# § 23 – Klausuren
 
 (1) Bei jeder Klausur werden die Hilfsmittel, die benutzt werden dürfen, angegeben.
 
@@ -467,15 +441,13 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (3) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu versehen. Die Übersicht mit der Zuordnung der Kennziffern und Namen ist geheim zu halten. Die Übersicht darf den Prüfenden erst nach der endgültigen Bewertung der Klausur bekannt gegeben werden.
 
-
-## § 24 – Prüfende
+# § 24 – Prüfende
 
 (1) Die Leistungstests werden von Lehrkräften oder sonstigen mit Lehraufgaben betrauten Angehörigen der Generalzolldirektion bewertet.
 
 (2) Die Prüfenden sind in ihren Bewertungen unabhängig und nicht weisungsgebunden.
 
-
-## § 25 – Inhalt der fachtheoretischen Ausbildung
+# § 25 – Inhalt der fachtheoretischen Ausbildung
 
 (1) Die Ausbildungsgebiete der fachtheoretischen Ausbildung sind:
 
@@ -503,8 +475,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (4) Der Abschlusslehrgang umfasst mindestens 450 Lehrveranstaltungsstunden. Er baut ergänzend und vertiefend auf den Lehrinhalten des Einführungslehrgangs und auf den in der berufspraktischen Ausbildung vermittelten Kenntnissen auf.
 
-
-## § 26 – Inhalt der berufspraktischen Ausbildung
+# § 26 – Inhalt der berufspraktischen Ausbildung
 
 (1) Während der berufspraktischen Ausbildung sollen die Auszubildenden berufliche Kenntnisse und Erfahrungen als Grundlage für die fachtheoretische Ausbildung erwerben sowie die erworbenen theoretischen Kenntnisse vertiefen und lernen, diese Kenntnisse in der Praxis anzuwenden. Zu einzelnen Ausbildungsgebieten werden praxisbezogene Lehrveranstaltungen durchgeführt.
 
@@ -518,8 +489,7 @@ Anstelle von höchstens einer Beamtin oder einem Beamten des gehobenen Dienstes 
 
 (4) Tätigkeiten, die nicht dem Zweck des Vorbereitungsdienstes entsprechen, dürfen den Auszubildenden nicht übertragen werden.
 
-
-## § 27 – Leistungstests während des Einführungslehrgangs
+# § 27 – Leistungstests während des Einführungslehrgangs
 
 (1) Im Einführungslehrgang schreibt jede und jeder Auszubildende vier Klausuren. Je eine Klausur wird geschrieben
 
@@ -535,8 +505,7 @@ Die Ausbildungsgebiete nach § 25 Absatz 1 Nummer 4 bis 7 können bei der Aufgab
 
 (2) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
-
-## § 28 – Leistungstests während des Abschlusslehrgangs
+# § 28 – Leistungstests während des Abschlusslehrgangs
 
 (1) Im Abschlusslehrgang schreibt jede und jeder Auszubildende vier Klausuren. Je eine Klausur wird geschrieben
 
@@ -550,8 +519,7 @@ Die Ausbildungsgebiete nach § 25 Absatz 1 Nummer 4 bis 7 können bei der Aufgab
 
 (2) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
-
-## § 29 – Schriftliche Bestätigungen für Leistungstests während des Einführungs- und des Abschlusslehrgangs
+# § 29 – Schriftliche Bestätigungen für Leistungstests während des Einführungs- und des Abschlusslehrgangs
 
 (1) Über das Ergebnis jedes Leistungstestes während des Einführungs- und des Abschlusslehrgangs erstellt die Generalzolldirektion eine schriftliche Bestätigung. In der Bestätigung sind anzugeben:
 
@@ -567,8 +535,7 @@ Die Ergebnisse der Leistungstests desselben Ausbildungsabschnitts können in ein
 
 (2) Die Ausbildungsbehörde erhält eine Ausfertigung der Bestätigung.
 
-
-## § 30 – Zeugnis über die fachtheoretische Ausbildung
+# § 30 – Zeugnis über die fachtheoretische Ausbildung
 
 (1) Nach Beendigung des Abschlusslehrgangs ermittelt die Generalzolldirektion die Durchschnittsrangpunktzahl der fachtheoretischen Ausbildung. Bei der Ermittlung werden alle Leistungstests gleich gewichtet.
 
@@ -578,8 +545,7 @@ Die Ergebnisse der Leistungstests desselben Ausbildungsabschnitts können in ein
 
 2. die Durchschnittsrangpunktzahl der fachtheoretischen Ausbildung.
 
-
-## § 31 – Leistungstests während der berufspraktischen Ausbildung, schriftliche Bewertungen, Zeugnis über die berufspraktische Ausbildung
+# § 31 – Leistungstests während der berufspraktischen Ausbildung, schriftliche Bewertungen, Zeugnis über die berufspraktische Ausbildung
 
 (1) Während der praxisbezogenen Lehrveranstaltungen werden vier Leistungstests durchgeführt. Die Form der Leistungstests wird im Ausbildungsrahmenplan festgelegt.
 
@@ -595,8 +561,7 @@ Die Ergebnisse der Leistungstests desselben Ausbildungsabschnitts können in ein
 
 Die Durchschnittsrangpunktzahl der berufspraktischen Ausbildung ist das arithmetische Mittel der Einzelbewertungen der Leistungstests und der schriftlichen Bewertungen.
 
-
-## § 32 – Laufbahnprüfung
+# § 32 – Laufbahnprüfung
 
 Die Laufbahnprüfung besteht aus:
 
@@ -608,8 +573,7 @@ Die Laufbahnprüfung besteht aus:
 
 4. der Abschlussprüfung.
 
-
-## § 33 – Prüfungsamt
+# § 33 – Prüfungsamt
 
 (1) Das bei der Generalzolldirektion eingerichtete Prüfungsamt ist insbesondere zuständig für
 
@@ -625,8 +589,7 @@ Die Laufbahnprüfung besteht aus:
 
 (2) Das Prüfungsamt ist Widerspruchsbehörde für alle Entscheidungen in Prüfungsangelegenheiten.
 
-
-## § 34 – Prüfungsakte, Einsichtnahme
+# § 34 – Prüfungsakte, Einsichtnahme
 
 (1) Zu jeder und jedem Auszubildenden wird eine Prüfungsakte geführt. In die Prüfungsakte aufzunehmen sind:
 
@@ -654,8 +617,7 @@ Die Laufbahnprüfung besteht aus:
 
 (+++ § 34 Abs. 3: Zur Anwendung vgl. § 37 Abs. 5 +++)
 
-
-## § 35 – Prüfungskommissionen
+# § 35 – Prüfungskommissionen
 
 (1) Das Prüfungsamt richtet für die Bewertung der Zwischenprüfung, der schriftlichen Abschlussprüfung und der mündlichen Abschlussprüfung Prüfungskommissionen ein und bestellt hierfür Mitglieder und Ersatzmitglieder. Es können auch jeweils mehrere Prüfungskommissionen eingerichtet werden. Die Spitzenorganisationen der Gewerkschaften und der Berufsverbände des öffentlichen Dienstes können Mitglieder für die Prüfungskommissionen der Abschlussprüfung vorschlagen.
 
@@ -685,8 +647,7 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 (6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens drei Viertel ihrer Mitglieder anwesend sind. Im Falle des Absatzes 5 Satz 2 Nummer 2 ist die Prüfungskommission nur beschlussfähig, wenn mindestens ein weibliches Mitglied anwesend ist. Eine Prüfungskommission entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig. Beratungen der Prüfungskommissionen sind nicht öffentlich.
 
-
-## § 36 – Prüfungsgrundsätze
+# § 36 – Prüfungsgrundsätze
 
 (1) Das Prüfungsamt
 
@@ -702,8 +663,7 @@ Absatz 4 Satz 2 bis 5 gilt mit den Maßgaben entsprechend, dass
 
 (3) Jede Klausur wird von zwei Mitgliedern der Prüfungskommission unabhängig voneinander bewertet. Das Prüfungsamt bestimmt die Erstprüfende oder den Erstprüfenden sowie die Zweitprüfende oder den Zweitprüfenden. Die oder der Zweitprüfende kann Kenntnis von den Korrekturanmerkungen und der Bewertung der oder des Erstprüfenden haben. Weichen die Bewertungen voneinander ab, entscheidet die oder der Vorsitzende der Prüfungskommission.
 
-
-## § 37 – Zwischenprüfung
+# § 37 – Zwischenprüfung
 
 (1) In der Zwischenprüfung sollen die Auszubildenden nachweisen, dass sie den Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
@@ -729,8 +689,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 (5) Die oder der Auszubildende darf nach Abschluss der Zwischenprüfung Einsicht in den sie oder ihn betreffenden Teil der Prüfungsakte nehmen. Für die Einsichtnahme gilt § 34 Absatz 3 entsprechend.
 
-
-## § 38 – Bescheid, Zwischenprüfungszeugnis
+# § 38 – Bescheid, Zwischenprüfungszeugnis
 
 (1) Die Auszubildenden erhalten vom Prüfungsamt über das Ergebnis der Zwischenprüfung einen Bescheid über das Bestehen oder Nichtbestehen der Zwischenprüfung und ein Zwischenprüfungszeugnis.
 
@@ -742,8 +701,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 (3) Der Bescheid über die Zwischenprüfung ist mit einer Rechtsbehelfsbelehrung zu versehen. Eine Ausfertigung des Bescheides wird der Einstellungsbehörde für die Personalakte übermittelt.
 
-
-## § 39 – Abschlussprüfung
+# § 39 – Abschlussprüfung
 
 (1) In der Abschlussprüfung sollen die Auszubildenden nachweisen, dass sie gründliche Fachkenntnisse erworben haben und für die vorgesehene Laufbahn befähigt sind.
 
@@ -751,8 +709,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 (3) Die schriftliche Abschlussprüfung soll spätestens zwei Wochen vor Beginn der mündlichen Prüfung abgeschlossen sein. Die mündliche Prüfung ist bis zum Ende des Vorbereitungsdienstes abzuschließen.
 
-
-## § 40 – Schriftliche Abschlussprüfung
+# § 40 – Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung ist zugelassen, wer die berufspraktische Ausbildung und den Abschlusslehrgang absolviert hat.
 
@@ -776,8 +733,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten, die in den vier Klausuren erzielt worden sind.
 
-
-## § 41 – Zulassung zur mündlichen Abschlussprüfung
+# § 41 – Zulassung zur mündlichen Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die schriftliche Abschlussprüfung bestanden hat.
 
@@ -787,8 +743,7 @@ Die Durchschnittsrangpunktzahl ist das arithmetische Mittel aus den Rangpunkten,
 
 (4) Eine Ausfertigung der jeweiligen Entscheidung wird der Einstellungsbehörde für die Personalakte übermittelt.
 
-
-## § 42 – Mündliche Abschlussprüfung
+# § 42 – Mündliche Abschlussprüfung
 
 (1) Die Prüfungsfragen für die mündliche Abschlussprüfung sind den Ausbildungsgebieten nach § 25 Absatz 1 Nummer 2 bis 9 zu entnehmen. Die Ausbildungsgebiete werden dabei nach Maßgabe des § 40 Absatz 2 zusammen geprüft. Die Fachprüferinnen oder Fachprüfer der genannten Ausbildungsgebiete wählen die Fragen aus.
 
@@ -814,8 +769,7 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (7) Über den Ablauf der mündlichen Abschlussprüfung wird ein Protokoll angefertigt. Das Protokoll ist von allen Mitgliedern der Prüfungskommission zu unterschreiben.
 
-
-## § 43 – Bestehen der Laufbahnprüfung, Abschlussnote
+# § 43 – Bestehen der Laufbahnprüfung, Abschlussnote
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die Abschlussnote fest. Bei der Berechnung der Rangpunktzahl der Laufbahnprüfung werden die einzelnen Ergebnisse wie folgt gewichtet:
 
@@ -833,8 +787,7 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (3) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Festsetzung der Abschlussnote kaufmännisch auf eine ganze Zahl gerundet.
 
-
-## § 44 – Abschlusszeugnis
+# § 44 – Abschlusszeugnis
 
 (1) Die Auszubildenden erhalten vom Prüfungsamt einen Bescheid über das Bestehen oder Nichtbestehen der Laufbahnprüfung und ein Abschlusszeugnis.
 
@@ -860,8 +813,7 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (5) Offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung des Prüfungsergebnisses werden durch das Prüfungsamt berichtigt. Offensichtlich unrichtige Abschlusszeugnisse hat die oder der Auszubildende zurückzugeben.
 
-
-## § 45 – Wiederholung von Prüfungen
+# § 45 – Wiederholung von Prüfungen
 
 (1) Auszubildende, die die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung nicht bestanden haben oder deren Prüfung als nicht bestanden gilt, können die Prüfung einmal wiederholen. Ist die Wiederholung der Prüfung erfolglos, ist die Ausbildung beendet. Das Bundesministerium der Finanzen oder die von ihm bestimmte Behörde kann in begründeten Fällen eine zweite Wiederholung zulassen. Die Zwischenprüfung oder die schriftliche oder mündliche Abschlussprüfung ist jeweils vollständig zu wiederholen.
 
@@ -873,8 +825,7 @@ Die Teilnahmerechte der Gleichstellungsbeauftragten sowie der Personalvertretung
 
 (5) Bestandene Prüfungen können nicht wiederholt werden.
 
-
-## § 46 – Übergangsvorschriften
+# § 46 – Übergangsvorschriften
 
 (1) Für Auszubildende, die bis zum Inkrafttreten dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahnen, Ausbildung und Prüfung für den mittleren Zolldienst des Bundes vom 20. Juli 2001 (BGBl. I S. 1682), die zuletzt durch Artikel 3 Absatz 11 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden mit der Maßgabe, dass
 

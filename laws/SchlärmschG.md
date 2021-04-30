@@ -1,15 +1,11 @@
-# [SchlärmschG] Gesetz zum Verbot des Betriebs lauter Güterwagen  (Schienenlärmschutzgesetz - SchlärmschG)
-
-Ausfertigungsdatum: 20.07.2017
-
+% Gesetz zum Verbot des Betriebs lauter Güterwagen  (Schienenlärmschutzgesetz - SchlärmschG)
+% Ausfertigungsdatum: 20.07.2017
  
-
-## § 1 – Anwendungsbereich des Gesetzes
+# § 1 – Anwendungsbereich des Gesetzes
 
 Dieses Gesetz findet Anwendung auf laute Güterwagen, die auf der regelspurigen öffentlichen Eisenbahninfrastruktur in Deutschland zum Einsatz kommen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) „Lauter Güterwagen“ im Sinne dieses Gesetzes ist ein Güterwagen, der bei der Inbetriebnahme nicht den Anforderungen der Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems „Fahrzeuge – Lärm“ sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses 2011/229/EU (ABl. L 356 vom 12.12.2014, S. 421) oder des Beschlusses 2011/229/EU der Kommission vom 4. April 2011 über die Technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem „Fahrzeuge – Lärm“ des konventionellen transeuropäischen Bahnsystems (ABl. L 99 vom 13.4.2011, S. 1) entsprochen hat.
 
@@ -23,8 +19,7 @@ Dieses Gesetz findet Anwendung auf laute Güterwagen, die auf der regelspurigen 
 
 Bei der Berechnung werden lediglich Fahrzeuge nach Anlage 2 Beiblatt 1 Kategorie 10 Zeile 5, 8, 18 oder 21 der Verkehrslärmschutzverordnung vom 12. Juni 1990 (BGBl. I S. 1036), die zuletzt durch Artikel 1 der Verordnung vom 18. Dezember 2014 (BGBl. I S. 2269) geändert worden ist, berücksichtigt.
 
-
-## § 3 – Verbot lauter Güterwagen
+# § 3 – Verbot lauter Güterwagen
 
 (1) Mit Beginn des Netzfahrplans 2020/2021 am 13. Dezember 2020 ist das Fahren oder Fahrenlassen von Güterzügen, in die laute Güterwagen eingestellt sind, auf dem deutschen Schienennetz verboten.
 
@@ -36,8 +31,7 @@ Bei der Berechnung werden lediglich Fahrzeuge nach Anlage 2 Beiblatt 1 Kategorie
 
 (3) Ein Personenzug, in den ein oder mehrere laute Güterwagen eingestellt sind, ist einem Güterzug gleichgestellt, in den ein oder mehrere laute Güterwagen eingestellt sind.
 
-
-## § 4 – Ausnahmen vom Verbot
+# § 4 – Ausnahmen vom Verbot
 
 Abweichend von § 3 ist der Betrieb lauter Güterwagen zulässig,
 
@@ -55,8 +49,7 @@ d) Topografie oder
 
 e) Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen.
 
-
-## § 5 – Befreiungen vom Verbot
+# § 5 – Befreiungen vom Verbot
 
 (1) Auf Antrag eines Zugangsberechtigten oder eines Halters von Eisenbahnfahrzeugen kann die zuständige Behörde Befreiungen von dem Verbot nach § 3 für den Betrieb einzelner Güterwagen erteilen,
 
@@ -70,8 +63,7 @@ e) Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen.
 
 (3) In den Fällen des Absatzes 1 Nummer 3 ist die Befreiung unbefristet zu erteilen. Sie erlischt, wenn der Güterwagen nicht mehr ausschließlich für einen der beiden in Absatz 1 Nummer 3 genannten Zwecke vorgehalten wird.
 
-
-## § 6 – Berechnung der Schallemission und Schallimmission
+# § 6 – Berechnung der Schallemission und Schallimmission
 
 (1) Bei der Ermittlung des fiktiven Schallleistungspegels wird unterstellt, dass der Zug mit der für Güterwagen dieser Bauart zulässigen Höchstgeschwindigkeit fährt. Liegt die zulässige Streckenhöchstgeschwindigkeit unter der bauartbedingten Höchstgeschwindigkeit, so ist die zulässige Streckenhöchstgeschwindigkeit für die Berechnung des fiktiven Schallleistungspegels heranzuziehen. Für die Vergleichsrechnung sind die Fahrbahneigenschaften gemäß Anlage 2 der Verkehrslärmschutzverordnung zugrunde zu legen.
 
@@ -79,8 +71,7 @@ e) Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen.
 
 (3) Ein Güterzug, der mindestens einen lauten Güterwagen umfasst, geht in die Berechnung als vollständig aus lauten Güterwagen bestehender Zug ein. Bei der Berechnung eines lauten Güterzugs sind ausschließlich Güterwagen nach Anlage 2 Beiblatt 1 Kategorie 10 Zeile 2 oder 15 Verkehrslärmschutzverordnung zu berücksichtigen.
 
-
-## § 7 – Pflichten der Betreiber der Schienenwege und der Zugangsberechtigten
+# § 7 – Pflichten der Betreiber der Schienenwege und der Zugangsberechtigten
 
 (1) Die Ausnahmen gemäß § 4 gelten ausschließlich für den Gelegenheitsverkehr. Dabei darf die Schienenwegkapazität für laute Güterzüge frühestens fünf Arbeitstage vor der beabsichtigten Trassennutzung an den Zugangsberechtigten vergeben werden. Bei der Trassenkonstruktion zu berücksichtigen ist die Kapazität, die bis fünf Arbeitstage vor der beabsichtigten Trassennutzung nicht für andere Trassen in Anspruch genommen wurde.
 
@@ -90,8 +81,7 @@ e) Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen.
 
 (4) Güterzüge, in die auch laute Güterwagen eingestellt sind, für die keine Befreiung erteilt wurde, dürfen nur mit dem durch den Betreiber der Schienenwege gemäß Absatz 2 Satz 1 vorgegebenen Geschwindigkeitsprofil gefahren werden. Die Zugangsberechtigten müssen dem Triebfahrzeugführer die Geschwindigkeitsprofile vor Beginn der Fahrt zugänglich machen.
 
-
-## § 8 – Auskunftspflichten für Betreiber der Schienenwege und für Zugangsberechtigte
+# § 8 – Auskunftspflichten für Betreiber der Schienenwege und für Zugangsberechtigte
 
 (1) Die Zugangsberechtigten sind verpflichtet, dem Betreiber der Schienenwege bei der Beantragung von Schienenwegkapazität sowohl zum Netzfahrplan als auch im Gelegenheitsverkehr mitzuteilen, ob laute Güterwagen in den Zug eingestellt werden. Liegt für die lauten Güterwagen eine Befreiung nach § 5 vor, ist die Befreiung bei der Antragstellung anzugeben und vor der Nutzung der Schienenwegkapazität dem Betreiber der Schienenwege nachzuweisen.
 
@@ -107,13 +97,11 @@ e) Abstand zwischen Schienenweg und schutzbedürftigen Nutzungen.
 
 (4) Die Betreiber der Schienenwege und die Zugangsberechtigten sind verpflichtet, die in Absatz 2 Satz 1 genannten Daten nach Durchführung der Zugfahrt auf der zugewiesenen Trasse für mindestens zwölf Monate bereitzuhalten.
 
-
-## § 9 – Zuständige Behörden
+# § 9 – Zuständige Behörden
 
 Zuständige Behörde für die Durchführung und Überwachung dieses Gesetzes auf den Schienenwegen der Eisenbahnen des Bundes ist das Eisenbahn-Bundesamt. Auf anderen Schienenwegen nimmt die nach Landesrecht zuständige Behörde diese Aufgabe wahr. Die Zuständigkeit der Regulierungsbehörde bleibt unberührt.
 
-
-## § 10 – Überwachung durch die zuständigen Behörden
+# § 10 – Überwachung durch die zuständigen Behörden
 
 (1) Die zuständigen Behörden überwachen, dass das Verbot nach § 3 eingehalten wird. Sie prüfen für mehrere Streckenabschnitte im Streckennetz des Betreibers der Schienenwege und für ein ausgewähltes Datum für die Tag- und Nachtzeit, anhand von Wagenlisten und Fahrplanunterlagen, ob Güterwagen zum Einsatz gekommen sind, die nach diesem Gesetz nicht zum Betrieb zugelassen sind oder die bei einer Fahrt mit der im Fahrplan festgelegten Geschwindigkeit den maximal zulässigen Schallleistungspegel nicht einhalten. Bei der Festlegung der Streckenabschnitte, auf denen die Schallemissionswerte überprüft werden, sind die Hauptabfuhrstrecken zu berücksichtigen. Die Prüfung kann auch nachträglich erfolgen.
 
@@ -123,8 +111,7 @@ Zuständige Behörde für die Durchführung und Überwachung dieses Gesetzes auf
 
 (4) Die zuständigen Behörden veröffentlichen die Ergebnisse ihrer Überprüfung jährlich.
 
-
-## § 11 – Maßnahmen bei Verstößen
+# § 11 – Maßnahmen bei Verstößen
 
 (1) Stellt die zuständige Behörde fest, dass für einen bestimmten Streckenabschnitt wiederholt gegen das Verbot nach § 3 Absatz 1 Satz 1 oder gegen die Verpflichtungen nach § 7 Absatz 2 Satz 1, Absatz 3 oder 4, oder nach § 8 Absatz 1, 2 Satz 1 und 4 und Absatz 3 verstoßen wurde, so kann sie dem Betreiber der Schienenwege und dem Zugangsberechtigten für diesen Streckenabschnitt folgende Maßnahmen auferlegen:
 
@@ -136,13 +123,11 @@ Dem Betreiber der Schienenwege kann sie unter den in Satz 1 genannten Voraussetz
 
 (2) Soweit der Zugang zu Schienenwegen betroffen ist, setzen sich die zuständigen Behörden vor dem Erlass von Maßnahmen mit der zuständigen Regulierungsbehörde ins Benehmen.
 
-
-## § 12 – Zwangsgeld
+# § 12 – Zwangsgeld
 
 Die nach diesem Gesetz zuständige Behörde kann ihre Anordnungen nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
 
-
-## § 13 – Bußgeldvorschriften
+# § 13 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -164,7 +149,6 @@ Die nach diesem Gesetz zuständige Behörde kann ihre Anordnungen nach den für 
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist für Schienenwege der Eisenbahnen des Bundes das Eisenbahn-Bundesamt.
 
-
-## § 14 – Abweichungsfestigkeit
+# § 14 – Abweichungsfestigkeit
 
 Von den in den § 10 getroffenen Regelungen des Verwaltungsverfahrens darf durch Landesrecht nicht abgewichen werden.

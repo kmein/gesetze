@@ -1,15 +1,11 @@
-# [FinAusglG1970DV 2] Zweite Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen Bund und Ländern im Ausgleichsjahr 1970
-
-Ausfertigungsdatum: 24.04.1973
-
+% Zweite Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen Bund und Ländern im Ausgleichsjahr 1970
+% Ausfertigungsdatum: 24.04.1973
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern vom 28. August 1969 (Bundesgesetzbl. I S. 1432), zuletzt geändert durch das Zweite Gesetz zur Änderung des Gesetzes über den Finanzausgleich zwischen Bund und Ländern vom 27. Oktober 1972 (Bundesgesetzbl. I S. 2049), wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 1970
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 1970
 
 Für das Ausgleichsjahr 1970 werden als Länderanteile an der Umsatzsteuer festgestellt:  
 
@@ -27,8 +23,7 @@ Für das Ausgleichsjahr 1970 werden als Länderanteile an der Umsatzsteuer festg
 | für das Saarland        |   289.911.000 DM, |
 | für Schleswig-Holstein  |   649.841.000 DM. |
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 1970
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 1970
 
 Für das Ausgleichsjahr 1970 werden festgestellt:  
 
@@ -80,8 +75,7 @@ an Schleswig-Holstein
 
 199.091.000 DM.
 
-
-## § 3
+# § 3
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1 und den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern mit dem Inkrafttreten dieser Verordnung fällig:  
 
@@ -141,17 +135,14 @@ Saarland
 
 7.102.000 DM.
 
-
-## § 4 – Berlin-Klausel
+# § 4 – Berlin-Klausel
 
 Diese Verordnung gilt nach Maßgabe des § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 19 des Gesetzes über den Finanzausgleich zwischen Bund und Ländern auch im Land Berlin.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen

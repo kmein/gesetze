@@ -1,33 +1,25 @@
-# [EGStGB] Einführungsgesetz zum Strafgesetzbuch  (EGStGB)
-
-Ausfertigungsdatum: 02.03.1974
-
+% Einführungsgesetz zum Strafgesetzbuch  (EGStGB)
+% Ausfertigungsdatum: 02.03.1974
  
+# Übersicht
 
-## Übersicht
-
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 – Geltung des Allgemeinen Teils
+# Art 1 – Geltung des Allgemeinen Teils
 
 (1) Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches gelten für das bei seinem Inkrafttreten bestehende und das zukünftige Bundesrecht, soweit das Gesetz nichts anderes bestimmt.
 
 (2) Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches gelten auch für das bei seinem Inkrafttreten bestehende und das zukünftige Landesrecht. Sie gelten nicht, soweit das Bundesrecht besondere Vorschriften des Landesrechts zuläßt und das Landesrecht derartige Vorschriften enthält.
 
+# Art 1a – (weggefallen)
 
-## Art 1a – (weggefallen)
-
-
-## Art 1b – Anwendbarkeit der Vorschriften des internationalen Strafrechts
+# Art 1b – Anwendbarkeit der Vorschriften des internationalen Strafrechts
 
 Soweit das deutsche Strafrecht auf im Ausland begangene Taten Anwendung findet und unterschiedliches Strafrecht im Geltungsbereich dieses Gesetzes gilt, finden diejenigen Vorschriften Anwendung, die an dem Ort gelten, an welchem der Täter seine Lebensgrundlage hat.
 
-
-## Art 2 – Vorbehalte für das Landesrecht
+# Art 2 – Vorbehalte für das Landesrecht
 
 Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches lassen Vorschriften des Landesrechts unberührt, die bei einzelnen landesrechtlichen Straftatbeständen
 
@@ -35,8 +27,7 @@ Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches lassen Vorschriften
 
 2. unter besonderen Voraussetzungen Straflosigkeit vorsehen.
 
-
-## Art 3 – Zulässige Rechtsfolgen bei Straftaten nach Landesrecht
+# Art 3 – Zulässige Rechtsfolgen bei Straftaten nach Landesrecht
 
 (1) Vorschriften des Landesrechts dürfen bei Straftaten keine anderen Rechtsfolgen vorsehen als
 
@@ -52,8 +43,7 @@ Die Vorschriften des Allgemeinen Teils des Strafgesetzbuches lassen Vorschriften
 
 androhen.
 
-
-## Art 4 – Verhältnis des Besonderen Teils zum Bundes- und Landesrecht
+# Art 4 – Verhältnis des Besonderen Teils zum Bundes- und Landesrecht
 
 (1) Die Vorschriften des Besonderen Teils des Strafgesetzbuches lassen die Strafvorschriften des Bundesrechts unberührt, soweit sie nicht durch dieses Gesetz aufgehoben oder geändert werden.
 
@@ -77,20 +67,17 @@ a) die unbedeutend erscheinen, nicht strafbar ist oder nicht verfolgt wird, oder
 
 b) die geringfügig erscheinen, nur auf Antrag oder nur dann verfolgt wird, wenn die Strafverfolgungsbehörde wegen des besonderen öffentlichen Interesses an der Strafverfolgung ein Einschreiten von Amts wegen für geboten hält.
 
-
-## Art 5 – Bezeichnung der Rechtsnachteile
+# Art 5 – Bezeichnung der Rechtsnachteile
 
 In Vorschriften des Bundes- und des Landesrechts dürfen Rechtsnachteile, die nicht bei Straftaten angedroht werden, nicht als Freiheitsstrafe, Haftstrafe, Ordnungsstrafe oder Geldstrafe bezeichnet werden.
 
-
-## Art 6 – Mindest- und Höchstmaß von Ordnungs- und Zwangsmitteln
+# Art 6 – Mindest- und Höchstmaß von Ordnungs- und Zwangsmitteln
 
 (1) Droht das Bundesgesetz Ordnungsgeld oder Zwangsgeld an, ohne dessen Mindest- oder Höchstmaß zu bestimmen, so beträgt das Mindestmaß fünf, das Höchstmaß tausend Euro. Droht das Landesgesetz Ordnungsgeld an, so gilt Satz 1 entsprechend.
 
 (2) Droht das Gesetz Ordnungshaft an, ohne das Mindest- oder Höchstmaß zu bestimmen, so beträgt das Mindestmaß einen Tag, das Höchstmaß sechs Wochen. Die Ordnungshaft wird in diesem Fall nach Tagen bemessen.
 
-
-## Art 7 – Zahlungserleichterungen bei Ordnungsgeld
+# Art 7 – Zahlungserleichterungen bei Ordnungsgeld
 
 (1) Ist dem Betroffenen nach seinen wirtschaftlichen Verhältnissen nicht zuzumuten, das Ordnungsgeld sofort zu zahlen, so wird ihm eine Zahlungsfrist bewilligt oder gestattet, das Ordnungsgeld in bestimmten Teilbeträgen zu zahlen. Dabei kann angeordnet werden, daß die Vergünstigung, das Ordnungsgeld in bestimmten Teilbeträgen zu zahlen, entfällt, wenn der Betroffene einen Teilbetrag nicht rechtzeitig zahlt.
 
@@ -100,15 +87,13 @@ In Vorschriften des Bundes- und des Landesrechts dürfen Rechtsnachteile, die ni
 
 (4) Über Einwendungen gegen Anordnungen nach den Absätzen 2 und 3 entscheidet die Stelle, die das Ordnungsgeld festgesetzt hat, wenn einer anderen Stelle die Vollstreckung obliegt.
 
-
-## Art 8 – Nachträgliche Entscheidungen über die Ordnungshaft
+# Art 8 – Nachträgliche Entscheidungen über die Ordnungshaft
 
 (1) Kann das Ordnungsgeld nicht beigetrieben werden und ist die Festsetzung der für diesen Fall vorgesehenen Ordnungshaft unterblieben, so wandelt das Gericht das Ordnungsgeld nachträglich in Ordnungshaft um. Das Gericht entscheidet nach Anhörung der Beteiligten durch Beschluß.
 
 (2) Das Gericht ordnet an, daß die Vollstreckung der Ordnungshaft, die an Stelle eines uneinbringlichen Ordnungsgeldes festgesetzt worden ist, unterbleibt, wenn die Vollstreckung für den Betroffenen eine unbillige Härte wäre.
 
-
-## Art 9 – Verjährung von Ordnungsmitteln
+# Art 9 – Verjährung von Ordnungsmitteln
 
 (1) Die Verjährung schließt die Festsetzung von Ordnungsgeld und Ordnungshaft aus. Die Verjährungsfrist beträgt, soweit das Gesetz nichts anderes bestimmt, zwei Jahre. Die Verjährung beginnt, sobald die Handlung beendet ist. Die Verjährung ruht, solange nach dem Gesetz das Verfahren zur Festsetzung des Ordnungsgeldes nicht begonnen oder nicht fortgesetzt werden kann.
 
@@ -120,20 +105,17 @@ In Vorschriften des Bundes- und des Landesrechts dürfen Rechtsnachteile, die ni
 
 3. eine Zahlungserleichterung bewilligt ist.
 
-
-## Art 10 – Geltungsbereich
+# Art 10 – Geltungsbereich
 
 (1) Die Vorschriften dieses Abschnitts gelten für die Strafvorschriften des Bundesrechts, soweit sie nicht durch Gesetz besonders geändert werden.
 
 (2) Die Vorschriften gelten nicht für die Strafdrohungen des Wehrstrafgesetzes und des Zivildienstgesetzes.
 
-
-## Art 11 – Freiheitsstrafdrohungen
+# Art 11 – Freiheitsstrafdrohungen
 
 Droht das Gesetz Freiheitsstrafe mit einem besonderen Mindestmaß an, das einen Monat oder weniger beträgt, so entfällt die Androhung dieses Mindestmaßes.
 
-
-## Art 12 – Geldstrafdrohungen
+# Art 12 – Geldstrafdrohungen
 
 (1) Droht das Gesetz neben Freiheitsstrafe ohne besonderes Mindestmaß wahlweise keine Geldstrafe an, so tritt neben die Freiheitsstrafe die wahlweise Androhung der Geldstrafe. Dies gilt auch, wenn die Androhung des besonderen Mindestmaßes der Freiheitsstrafe nach Artikel 11 entfällt.
 
@@ -143,45 +125,36 @@ Droht das Gesetz Freiheitsstrafe mit einem besonderen Mindestmaß an, das einen 
 
 (4) Droht das Gesetz Freiheitsstrafe bis zu sechs Monaten an, so beträgt das Höchstmaß einer wahlweise angedrohten Geldstrafe einhundertachtzig Tagessätze. Dies gilt auch, wenn sich die wahlweise Androhung der Geldstrafe aus Absatz 1 ergibt.
 
-
-## Art 13
+# Art 13
 
 (weggefallen)
 
-
-## Art 14 bis 17 – ----
+# Art 14 bis 17 – ----
 
 Artikel 14  
 Polizeiaufsicht  
-Soweit Vorschriften die Polizeiaufsicht zulassen, treten sie außer Kraft.  
-  
+Soweit Vorschriften die Polizeiaufsicht zulassen, treten sie außer Kraft.   
 Artikel 15  
 Verfall  
-Soweit Vorschriften außerhalb des Allgemeinen Teils des Strafgesetzbuches den Verfall eines Gegenstandes oder eines ihm entsprechenden Wertersatzes wegen einer Straftat oder einer rechtswidrigen Tat vorschreiben oder zulassen, treten sie außer Kraft.  
-  
+Soweit Vorschriften außerhalb des Allgemeinen Teils des Strafgesetzbuches den Verfall eines Gegenstandes oder eines ihm entsprechenden Wertersatzes wegen einer Straftat oder einer rechtswidrigen Tat vorschreiben oder zulassen, treten sie außer Kraft.   
 Artikel 16  
 Rücknahme des Strafantrages  
-Soweit Vorschriften außerhalb des Allgemeinen Teils des Strafgesetzbuches die Rücknahme des Strafantrages regeln, treten sie außer Kraft.  
-  
+Soweit Vorschriften außerhalb des Allgemeinen Teils des Strafgesetzbuches die Rücknahme des Strafantrages regeln, treten sie außer Kraft.   
 Artikel 17  
 Buße zugunsten des Verletzten  
 Soweit Vorschriften bestimmen, daß zugunsten des Verletzten einer Straftat auf eine Buße erkannt werden kann, treten sie außer Kraft.
 
+# Art 18 bis 287 – ----
 
-## Art 18 bis 287 – ----
-
-
-## Art 288 – Geltungsbereich
+# Art 288 – Geltungsbereich
 
 Die Vorschriften dieses Abschnitts gelten für die Strafvorschriften des Landesrechts, soweit sie durch ein Landesgesetz nicht besonders geändert werden.
 
-
-## Art 289 – Allgemeine Anpassung
+# Art 289 – Allgemeine Anpassung
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie Rechtsfolgen androhen, die nach Artikel 3 nicht zulässig sind.
 
-
-## Art 290 – Geldstrafdrohungen
+# Art 290 – Geldstrafdrohungen
 
 (1) Auf Geldstrafe kann auch dann erkannt werden, wenn das Gesetz neben Freiheitsstrafe wahlweise keine Geldstrafe androht.
 
@@ -189,8 +162,7 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie Rechtsfolgen androhen, die n
 
 (3) Vorschriften sind nicht mehr anzuwenden, soweit sie Geldstrafe neben Freiheitsstrafe vorschreiben oder zulassen.
 
-
-## Art 291 – Rücknahme des Strafantrages, Buße zugunsten des Verletzten
+# Art 291 – Rücknahme des Strafantrages, Buße zugunsten des Verletzten
 
 Vorschriften sind nicht mehr anzuwenden, soweit sie
 
@@ -198,15 +170,13 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie
 
 2. bestimmen, daß zugunsten des Verletzten einer Straftat auf eine Buße erkannt werden kann.
 
-
-## Art 292 – Nicht mehr anwendbare Straf- und Bußgeldtatbestände
+# Art 292 – Nicht mehr anwendbare Straf- und Bußgeldtatbestände
 
 (1) Straf- und Bußgeldvorschriften des Landesrechts, die eine im Strafgesetzbuch abschließend geregelte Materie zum Gegenstand haben, sind nicht mehr anzuwenden, soweit sie nicht nach Artikel 4 Abs. 3 bis 5 unberührt bleiben.
 
 (2) u. (3) (Aufhebungsvorschriften)
 
-
-## Art 293 – Abwendung der Vollstreckung der Ersatzfreiheitsstrafe und Erbringung von Arbeitsleistungen
+# Art 293 – Abwendung der Vollstreckung der Ersatzfreiheitsstrafe und Erbringung von Arbeitsleistungen
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Regelungen zu treffen, wonach die Vollstreckungsbehörde dem Verurteilten gestatten kann, die Vollstreckung einer Ersatzfreiheitsstrafe nach § 43 des Strafgesetzbuches durch freie Arbeit abzuwenden. Soweit der Verurteilte die freie Arbeit geleistet hat, ist die Ersatzfreiheitsstrafe erledigt. Die Arbeit muß unentgeltlich sein; sie darf nicht erwerbswirtschaftlichen Zwecken dienen. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -214,25 +184,21 @@ Vorschriften sind nicht mehr anzuwenden, soweit sie
 
 (3) Absatz 2 gilt entsprechend für freie Arbeit, die aufgrund einer Anordnung im Gnadenwege ausgeübt wird sowie für gemeinnützige Leistungen und Arbeitsleistungen nach § 56b Abs. 2 Satz 1 Nr. 3 des Strafgesetzbuches, § 153a Abs. 1 Satz 1 Nr. 3 der Strafprozeßordnung, § 10 Abs. 1 Satz 3 Nr. 4 und § 15 Abs. 1 Satz 1 Nr. 3 des Jugendgerichtsgesetzes und § 98 Abs. 1 Satz 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten oder aufgrund einer vom Gesetz vorgesehenen entsprechenden Anwendung der genannten Vorschriften.
 
-
-## Art 294 – Gerichtshilfe
+# Art 294 – Gerichtshilfe
 
 Die Gerichtshilfe (§ 160 Abs. 3 Satz 2 der Strafprozeßordnung) gehört zum Geschäftsbereich der Landesjustizverwaltungen. Die Landesregierung kann durch Rechtsverordnung eine andere Behörde aus dem Bereich der Sozialverwaltung bestimmen.
 
-
-## Art 295 – Aufsichtsstellen bei Führungsaufsicht
+# Art 295 – Aufsichtsstellen bei Führungsaufsicht
 
 (1) Die Aufsichtsstellen (§ 68a des Strafgesetzbuches) gehören zum Geschäftsbereich der Landesjustizverwaltungen.
 
 (2) Die Aufgaben der Aufsichtsstelle werden von Beamten des höheren Dienstes, von staatlich anerkannten Sozialarbeitern oder Sozialpädagogen oder von Beamten des gehobenen Dienstes wahrgenommen. Der Leiter der Aufsichtsstelle muß die Befähigung zum Richteramt besitzen oder ein Beamter des höheren Dienstes sein. Die Leitung der Aufsichtsstelle kann auch einem Richter übertragen werden.
 
-
-## Art 296 – Einfuhr von Zeitungen und Zeitschriften
+# Art 296 – Einfuhr von Zeitungen und Zeitschriften
 
 § 86 Abs. 1 des Strafgesetzbuches ist nicht anzuwenden auf Zeitungen und Zeitschriften, die außerhalb des räumlichen Geltungsbereiches dieses Gesetzes in ständiger, regelmäßiger Folge erscheinen und dort allgemein und öffentlich vertrieben werden.
 
-
-## Art 297 – Verbot der Prostitution
+# Art 297 – Verbot der Prostitution
 
 (1) Die Landesregierung kann zum Schutz der Jugend oder des öffentlichen Anstandes
 
@@ -248,15 +214,13 @@ durch Rechtsverordnung verbieten, der Prostitution nachzugehen. Sie kann das Ver
 
 (3) Wohnungsbeschränkungen auf bestimmte Straßen oder Häuserblocks zum Zwecke der Ausübung der Prostitution (Kasernierungen) sind verboten.
 
-
-## Art 298 – Mindestmaß der Freiheitsstrafe
+# Art 298 – Mindestmaß der Freiheitsstrafe
 
 (1) Eine Freiheitsstrafe unter einem Monat darf auch wegen solcher Taten nicht verhängt werden, die vor dem 1. Januar 1975 begangen worden sind.
 
 (2) Hätte das Gericht nach bisherigem Recht eine Freiheitsstrafe unter einem Monat verhängt, so erkennt es auf eine Geldstrafe bis zu dreißig Tagessätzen.
 
-
-## Art 299 – Geldstrafe
+# Art 299 – Geldstrafe
 
 (1) Die Vorschriften des neuen Rechts über die Geldstrafe (§§ 40 bis 43 des Strafgesetzbuches) gelten auch für die vor dem 1. Januar 1975 begangenen Taten, soweit die Absätze 2 und 3 nichts anderes bestimmen.
 
@@ -264,47 +228,39 @@ durch Rechtsverordnung verbieten, der Prostitution nachzugehen. Sie kann das Ver
 
 (3) Neben Freiheitsstrafe darf eine Geldstrafe nach § 41 des Strafgesetzbuches nur verhängt werden, wenn auch nach bisherigem Recht eine Geldstrafe neben Freiheitsstrafe vorgeschrieben oder zugelassen war.
 
-
-## Art 300 – Übertretungen
+# Art 300 – Übertretungen
 
 (1) Auf die vor dem 1. Januar 1975 begangenen Taten, die nach bisherigem Recht Übertretungen waren und nach neuem Recht Vergehen sind, ist das neue Recht mit der Beschränkung anzuwenden, daß sich die Voraussetzungen der Strafbarkeit und das Höchstmaß der Freiheitsstrafe nach bisherigem Recht bestimmen. Artikel 298, 299 sind anzuwenden.
 
 (2) Die vor dem 1. Januar 1975 begangenen Taten, die nach bisherigem Recht Übertretungen waren, bleiben bei der Anwendung des § 48 Abs. 1 des Strafgesetzbuches außer Betracht.
 
-
-## Art 301
+# Art 301
 
 \-
 
-
-## Art 302 – Anrechnung des Maßregelvollzugs auf die Strafe
+# Art 302 – Anrechnung des Maßregelvollzugs auf die Strafe
 
 Ist vor dem 1. Januar 1975 die Unterbringung in einer Heil- oder Pflegeanstalt oder in einer Trinkerheilanstalt oder einer Entziehungsanstalt nach § 456b Satz 2 der Strafprozeßordnung in der bisherigen Fassung vor der Freiheitsstrafe vollzogen worden, so wird die Zeit des Vollzuges der Maßregel auf die Strafe angerechnet.
 
-
-## Art 303 – Führungsaufsicht
+# Art 303 – Führungsaufsicht
 
 (1) Wegen einer Tat, die vor dem 1. Januar 1975 begangen worden ist, darf Führungsaufsicht nach § 68 Abs. 1 des Strafgesetzbuches nicht angeordnet werden.
 
 (2) Nach Verbüßung einer Freiheitsstrafe wegen einer Tat, die vor dem 1. Januar 1975 begangen worden ist, tritt Führungsaufsicht nach § 68f des Strafgesetzbuches nicht ein.
 
-
-## Art 304 – Polizeiaufsicht
+# Art 304 – Polizeiaufsicht
 
 Ist vor dem 1. Januar 1975 auf Zulässigkeit von Polizeiaufsicht erkannt worden, so verliert dieser Ausspruch seine Wirkung. Ist im Zentralregister bei einer Verurteilung die Zulässigkeit von Polizeiaufsicht eingetragen worden, so ist die Eintragung insoweit zu tilgen.
 
-
-## Art 305 – Berufsverbot
+# Art 305 – Berufsverbot
 
 Neben der Strafe, die wegen einer vor dem 1. Januar 1975 begangenen Tat verhängt wird, ordnet das Gericht das Berufsverbot nur an, wenn außer den Voraussetzungen des § 70 des Strafgesetzbuches auch die Voraussetzungen der Untersagung der Berufsausübung oder der Betriebsführung nach bisherigem Recht vorliegen. Das Berufsverbot darf in diesem Fall nicht für immer angeordnet werden.
 
-
-## Art 306 – Selbständige Anordnung von Maßregeln
+# Art 306 – Selbständige Anordnung von Maßregeln
 
 Die Vorschriften des neuen Rechts über die selbständige Anordnung von Maßregeln der Besserung und Sicherung (§ 71 des Strafgesetzbuches) gelten auch für Taten, die vor dem 1. Januar 1975 begangen worden sind. Dies gilt nicht, wenn die Maßregel nach den Artikeln 301 und 305 auch neben der Strafe nicht angeordnet werden darf.
 
-
-## Art 307 – Verfall
+# Art 307 – Verfall
 
 (1) Für die Anordnung des Verfalls wegen einer Tat, die vor dem 1. Januar 1975 begangen worden ist und über die nach diesem Zeitpunkt entschieden wird, gelten die Vorschriften des neuen Rechts
 
@@ -316,8 +272,7 @@ Die Vorschriften des neuen Rechts über die selbständige Anordnung von Maßrege
 
 (3) Absatz 1 Nr. 1 gilt nicht, soweit das bisherige Recht für den Betroffenen günstiger ist.
 
-
-## Art 308 – Strafantrag, Ermächtigung, Strafverlangen
+# Art 308 – Strafantrag, Ermächtigung, Strafverlangen
 
 (1) Die Vorschriften des neuen Rechts über Strafantrag, Ermächtigung und Strafverlangen (§§ 77 bis 77e, 194 des Strafgesetzbuches) gelten auch für Taten, die vor dem 1. Januar 1975 begangen worden sind, soweit die Absätze 2 bis 5 nichts anderes bestimmen.
 
@@ -329,8 +284,7 @@ Die Vorschriften des neuen Rechts über die selbständige Anordnung von Maßrege
 
 (5) Ist die Tat erst durch die Vorschriften des neuen Rechts nur auf Antrag verfolgbar, so endet die Antragsfrist frühestens am 31. März 1975.
 
-
-## Art 309 – Verfolgungs- und Vollstreckungsverjährung
+# Art 309 – Verfolgungs- und Vollstreckungsverjährung
 
 (1) Die Vorschriften des neuen Rechts über die Verfolgungs- und Vollstreckungsverjährung (§§ 78 bis 79b des Strafgesetzbuches, §§ 31 bis 34 des Gesetzes über Ordnungswidrigkeiten) gelten auch für Taten, die vor dem 1. Januar 1975 begangen worden sind, soweit die Absätze 2 bis 4 nichts anderes bestimmen.
 
@@ -342,13 +296,11 @@ Die Vorschriften des neuen Rechts über die selbständige Anordnung von Maßrege
 
 (5) Bei der Berechnung der Verjährungsfrist nach § 1 Abs. 1 Satz 1 des Gesetzes über die Berechnung strafrechtlicher Verjährungsfristen vom 13. April 1965 (Bundesgesetzbl. I S. 315), geändert durch das Erste Gesetz zur Reform des Strafrechts vom 25. Juni 1969 (Bundesgesetzbl. I S. 645), ist § 78 Abs. 4 des Strafgesetzbuches entsprechend anzuwenden.
 
-
-## Art 310 – Bekanntgabe der Verurteilung
+# Art 310 – Bekanntgabe der Verurteilung
 
 Die Vorschriften des neuen Rechts über die gerichtliche Anordnung, daß eine Verurteilung öffentlich bekanntgemacht wird, gelten auch für Taten, die vor dem 1. Januar 1975 begangen worden sind.
 
-
-## Art 311 – Verletzung von Privatgeheimnissen durch Amtsträger und besonders Verpflichtete
+# Art 311 – Verletzung von Privatgeheimnissen durch Amtsträger und besonders Verpflichtete
 
 (1) Soweit das Offenbaren oder Verwerten eines fremden Geheimnisses, namentlich eines Betriebs- oder Geschäftsgeheimnisses, durch Personen, die nach neuem Recht für den öffentlichen Dienst besonders verpflichtet werden sollen, nach bisherigem Recht mit Strafe oder Geldbuße bedroht war, gelten
 
@@ -360,8 +312,7 @@ sofern die Strafvorschriften des neuen Rechts allein deswegen nicht anwendbar si
 
 (2) In den Fällen des Absatzes 1 Nr. 1 gelten die Vorschriften des neuen Rechts (§ 203 Abs. 2, 5, § 204 des Strafgesetzbuches), soweit sie im übrigen für den Täter günstiger sind.
 
-
-## Art 312 – Gerichtsverfassung und Strafverfahren
+# Art 312 – Gerichtsverfassung und Strafverfahren
 
 (1) Soweit sich auf Grund der Vorschriften dieses Gesetzes die sachliche Zuständigkeit der Gerichte ändert, gilt dies für gerichtlich anhängige Strafsachen nur dann, wenn das Hauptverfahren noch nicht eröffnet ist oder das Revisionsgericht das Urteil aufhebt und die Sache nach § 354 Abs. 2 der Strafprozeßordnung zurückverweist.
 
@@ -383,8 +334,7 @@ tritt.
 
 (5) Das Revisionsgericht kann auch in einem Beschluß nach § 349 Abs. 2 der Strafprozeßordnung nach den Absätzen 3 und 4 verfahren, wenn es die Revision im übrigen einstimmig für offensichtlich unbegründet erachtet.
 
-
-## Art 313 – Noch nicht vollstreckte Strafen
+# Art 313 – Noch nicht vollstreckte Strafen
 
 (1) Rechtskräftig verhängte Strafen wegen solcher Taten, die nach neuem Recht nicht mehr strafbar und auch nicht mit Geldbuße bedroht sind, werden mit Inkrafttreten des neuen Rechts erlassen, soweit sie noch nicht vollstreckt sind. Der Straferlaß erstreckt sich auf Nebenstrafen und Nebenfolgen mit Ausnahme der Einziehung und Unbrauchbarmachung, Maßregeln der Besserung und Sicherung, Erziehungsmaßregeln und Zuchtmittel nach dem Jugendgerichtsgesetz sowie auf rückständige Bußen und Kosten, auch wenn die Strafe bei Inkrafttreten des neuen Rechts bereits vollstreckt war.
 
@@ -400,8 +350,7 @@ tritt.
 
 (5) Bei Zweifeln über die sich aus den Absätzen 1 und 2 ergebenden Rechtsfolgen und für die richterlichen Entscheidungen nach den Absätzen 3 und 4 gelten die §§ 458 und 462 der Strafprozeßordnung sinngemäß.
 
-
-## Art 314 – Überleitung der Vollstreckung
+# Art 314 – Überleitung der Vollstreckung
 
 (1) Eine vor dem 1. Januar 1975 verhängte und noch nicht oder erst zum Teil vollzogene Unterbringung in einer Heil- oder Pflegeanstalt wird als Unterbringung in einem psychiatrischen Krankenhaus, eine Unterbringung in einer Trinkerheilanstalt oder einer Entziehungsanstalt als Unterbringung in einer Entziehungsanstalt vollzogen.
 
@@ -413,8 +362,7 @@ tritt.
 
 (5) Ist vor dem 1. Januar 1975 neben der Strafe auf Unterbringung in einer Heil- oder Pflegeanstalt oder auf Unterbringung in einer Trinkerheilanstalt oder einer Entziehungsanstalt erkannt worden, so ist § 67 Abs. 1 bis 3 des Strafgesetzbuches mit der Maßgabe anzuwenden, daß die begonnene Vollstreckung der Freiheitsstrafe nach diesem Zeitpunkt noch drei Monate fortgesetzt werden kann.
 
-
-## Art 315 – Geltung des Strafrechts für in der Deutschen Demokratischen Republik begangene Taten
+# Art 315 – Geltung des Strafrechts für in der Deutschen Demokratischen Republik begangene Taten
 
 (1) Auf vor dem Wirksamwerden des Beitritts in der Deutschen Demokratischen Republik begangene Taten findet § 2 des Strafgesetzbuches mit der Maßgabe Anwendung, daß das Gericht von Strafe absieht, wenn nach dem zur Zeit der Tat geltenden Recht der Deutschen Demokratischen Republik weder eine Freiheitsstrafe noch eine Verurteilung auf Bewährung noch eine Geldstrafe verwirkt gewesen wäre.
 
@@ -424,8 +372,7 @@ tritt.
 
 (4) Die Absätze 1 bis 3 finden keine Anwendung, soweit für die Tat das Strafrecht der Bundesrepublik Deutschland schon vor dem Wirksamwerden des Beitritts gegolten hat.
 
-
-## Art 315a – Vollstreckungs- und Verfolgungsverjährung für in der Deutschen Demokratischen Republik verfolgte und abgeurteilte Taten; Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
+# Art 315a – Vollstreckungs- und Verfolgungsverjährung für in der Deutschen Demokratischen Republik verfolgte und abgeurteilte Taten; Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
 
 (1) Soweit die Verjährung der Verfolgung oder der Vollstreckung nach dem Recht der Deutschen Demokratischen Republik bis zum Wirksamwerden des Beitritts nicht eingetreten war, bleibt es dabei. Dies gilt auch, soweit für die Tat vor dem Wirksamwerden des Beitritts auch das Strafrecht der Bundesrepublik Deutschland gegolten hat. Die Verfolgungsverjährung gilt als am Tag des Wirksamwerdens des Beitritts unterbrochen; § 78c Abs. 3 des Strafgesetzbuches bleibt unberührt.
 
@@ -439,49 +386,41 @@ tritt.
 
 (+++ Art. 315a Abs. 2 u. 3: Zur Anwendung vgl. Art. 2 G v. 27.9.1993 I 1657 F. ab 27.9.1993 +++)
 
-
-## Art 315b – Strafantrag bei in der Deutschen Demokratischen Republik begangenen Taten
+# Art 315b – Strafantrag bei in der Deutschen Demokratischen Republik begangenen Taten
 
 Die Vorschriften des Strafgesetzbuches über den Strafantrag gelten auch für die vor dem Wirksamwerden des Beitritts in der Deutschen Demokratischen Republik begangenen Taten. War nach dem Recht der Deutschen Demokratischen Republik zur Verfolgung ein Antrag erforderlich, so bleibt es dabei. Ein vor dem Wirksamwerden des Beitritts gestellter Antrag bleibt wirksam. War am Tag des Wirksamwerdens des Beitritts das Recht, einen Strafantrag zu stellen, nach dem bisherigen Recht der Deutschen Demokratischen Republik bereits erloschen, so bleibt es dabei. Ist die Tat nach den Vorschriften der Bundesrepublik Deutschland nur auf Antrag verfolgbar, so endet die Antragsfrist frühestens am 31. Dezember 1990.
 
-
-## Art 315c – Anpassung der Strafdrohungen
+# Art 315c – Anpassung der Strafdrohungen
 
 Soweit Straftatbestände der Deutschen Demokratischen Republik fortgelten, treten an die Stelle der bisherigen Strafdrohungen die im Strafgesetzbuch vorgesehenen Strafdrohungen der Freiheitsstrafe und der Geldstrafe. Die übrigen Strafdrohungen entfallen. Die Geldstrafe darf nach Art und Höhe der Tagessätze insgesamt das Höchstmaß der bisher angedrohten Geldstrafe nicht übersteigen. Es dürfen höchstens dreihundertsechzig Tagessätze verhängt werden.
 
-
-## Art 316 – Übergangsvorschrift zum Neunten Strafrechtsänderungsgesetz
+# Art 316 – Übergangsvorschrift zum Neunten Strafrechtsänderungsgesetz
 
 (1) § 66 Abs. 2 und § 67 Abs. 1 des Strafgesetzbuches in der Fassung des Artikels 1 des Neunten Strafrechtsänderungsgesetzes vom 4. August 1969 (BGBl. I S. 1065) gelten auch für früher begangene Taten und früher verhängte Strafen, wenn die Verfolgung und Vollstreckung beim Inkrafttreten des Neunten Strafrechtsänderungsgesetzes am 6. August 1969 noch nicht verjährt waren.
 
 (2) § 1 des Gesetzes über die Berechnung strafrechtlicher Verjährungsfristen vom 13. April 1965 (BGBl. I S. 315) bleibt unberührt.
 
-
-## Art 316a – Übergangsvorschrift zum Sechzehnten Strafrechtsänderungsgesetz
+# Art 316a – Übergangsvorschrift zum Sechzehnten Strafrechtsänderungsgesetz
 
 (1) § 78 Abs. 2 des Strafgesetzbuches in der Fassung des Artikels 1 des Sechzehnten Strafrechtsänderungsgesetzes vom 16. Juli 1979 (BGBl. I S. 1046) gilt auch für früher begangene Taten, wenn die Verfolgung beim Inkrafttreten des Sechzehnten Strafrechtsänderungsgesetzes am 22. Juli 1979 noch nicht verjährt war.
 
 (2) § 1 des Gesetzes über die Berechnung strafrechtlicher Verjährungsfristen vom 13. April 1965 (BGBl. I S. 315) bleibt unberührt.
 
-
-## Art 316b – Übergangsvorschrift zum Dreiundzwanzigsten Strafrechtsänderungsgesetz
+# Art 316b – Übergangsvorschrift zum Dreiundzwanzigsten Strafrechtsänderungsgesetz
 
 (1) § 67 Abs. 4 und § 67d Abs. 5 des Strafgesetzbuchs finden keine Anwendung auf Unterbringungen, die vor dem 1. Mai 1986 angeordnet worden sind; für die Anrechnung der Zeit des Vollzugs der Maßregel auf die Strafe gilt das bisherige Recht.
 
 (2) Ist jemand vor dem 1. Mai 1986 zu mehreren lebenslangen Freiheitsstrafen oder zu lebenslanger und zeitiger Freiheitsstrafe verurteilt worden, so ist § 460 der Strafprozeßordnung sinngemäß anzuwenden, wenn nach neuem Recht auf eine lebenslange Freiheitsstrafe als Gesamtstrafe erkannt worden wäre.
 
-
-## Art 316c – Übergangsvorschrift zum Dreißigsten Strafrechtsänderungsgesetz
+# Art 316c – Übergangsvorschrift zum Dreißigsten Strafrechtsänderungsgesetz
 
 § 78b Abs. 1 des Strafgesetzbuches in der Fassung des Artikels 1 des Dreißigsten Strafrechtsänderungsgesetzes vom 23. Juni 1994 (BGBl. I S. 1310) gilt auch für vor dem Inkrafttreten des Dreißigsten Strafrechtsänderungsgesetzes am 30. Juni 1994 begangene Taten, es sei denn, dass deren Verfolgung zu diesem Zeitpunkt bereits verjährt ist.
 
-
-## Art 316d – Übergangsvorschrift zum Dreiundvierzigsten Strafrechtsänderungsgesetz
+# Art 316d – Übergangsvorschrift zum Dreiundvierzigsten Strafrechtsänderungsgesetz
 
 § 46b des Strafgesetzbuches und § 31 des Betäubungsmittelgesetzes in der Fassung des Artikels 2 des Dreiundvierzigsten Strafrechtsänderungsgesetzes vom 29. Juli 2009 (BGBl. I S. 2288) sind nicht auf Verfahren anzuwenden, in denen vor dem 1. September 2009 die Eröffnung des Hauptverfahrens beschlossen worden ist.
 
-
-## Art 316e – Übergangsvorschrift zum Gesetz zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen
+# Art 316e – Übergangsvorschrift zum Gesetz zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen
 
 (1) Die Vorschriften über die Sicherungsverwahrung in der Fassung des Gesetzes zur Neuordnung des Rechts der Sicherungsverwahrung und zu begleitenden Regelungen vom 22. Dezember 2010 (BGBl. I S. 2300) sind nur anzuwenden, wenn die Tat oder mindestens eine der Taten, wegen deren Begehung die Sicherungsverwahrung angeordnet oder vorbehalten werden soll, nach dem 31. Dezember 2010 begangen worden ist. In allen anderen Fällen ist das bisherige Recht anzuwenden, soweit in den Absätzen 2 und 3 sowie in Artikel 316f Absatz 2 und 3 nichts anderes bestimmt ist.
 
@@ -491,8 +430,7 @@ Soweit Straftatbestände der Deutschen Demokratischen Republik fortgelten, trete
 
 (4) § 1 des Therapieunterbringungsgesetzes vom 22. Dezember 2010 (BGBl. I S. 2300, 2305) ist unter den dortigen sonstigen Voraussetzungen auch dann anzuwenden, wenn der Betroffene noch nicht in Sicherungsverwahrung untergebracht, gegen ihn aber bereits Sicherungsverwahrung im ersten Rechtszug angeordnet war und aufgrund einer vor dem 4. Mai 2011 ergangenen Revisionsentscheidung festgestellt wurde, dass die Sicherungsverwahrung ausschließlich deshalb nicht rechtskräftig angeordnet werden konnte, weil ein zu berücksichtigendes Verbot rückwirkender Verschärfungen im Recht der Sicherungsverwahrung dem entgegenstand, ohne dass es dabei auf den Grad der Gefährlichkeit des Betroffenen für die Allgemeinheit angekommen wäre.
 
-
-## Art 316f – Übergangsvorschrift zum Gesetz zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung
+# Art 316f – Übergangsvorschrift zum Gesetz zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung
 
 (1) Die bisherigen Vorschriften über die Sicherungsverwahrung sind in der ab dem 1. Juni 2013 geltenden Fassung anzuwenden, wenn die Tat oder mindestens eine der Taten, wegen deren Begehung die Sicherungsverwahrung angeordnet oder vorbehalten werden soll (Anlasstat), nach dem 31. Mai 2013 begangen worden ist.
 
@@ -500,25 +438,21 @@ Soweit Straftatbestände der Deutschen Demokratischen Republik fortgelten, trete
 
 (3) Die durch die Artikel 1, 2 Nummer 1 Buchstabe c Doppelbuchstabe cc und Nummer 4 sowie die Artikel 3 bis 6 des Gesetzes zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung vom 5. Dezember 2012 (BGBl. I S. 2425) geänderten Vorschriften sind auch auf die in Absatz 2 Satz 1 genannten Fälle anzuwenden, § 67c Absatz 1 Satz 1 Nummer 2 des Strafgesetzbuches jedoch nur dann, wenn nach dem 31. Mai 2013 keine ausreichende Betreuung im Sinne des § 66c des Strafgesetzbuches angeboten worden ist. Die Frist des § 119a Absatz 3 des Strafvollzugsgesetzes für die erste Entscheidung von Amts wegen beginnt am 1. Juni 2013 zu laufen, wenn die Freiheitsstrafe zu diesem Zeitpunkt bereits vollzogen wird.
 
-
-## Art 316g – Übergangsvorschrift zum Gesetz zur Verbesserung des Schutzes der sexuellen Selbstbestimmung
+# Art 316g – Übergangsvorschrift zum Gesetz zur Verbesserung des Schutzes der sexuellen Selbstbestimmung
 
 Als Straftat im Sinne von § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der Fassung des Gesetzes zur Verbesserung des Schutzes der sexuellen Selbstbestimmung vom 4. November 2016 (BGBl. I S. 2460) gilt auch eine Straftat nach § 179 Absatz 1 bis 4 des Strafgesetzbuches in der bis zum 9. November 2016 geltenden Fassung.
 
-
-## Art 316h – Übergangsvorschrift zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
+# Art 316h – Übergangsvorschrift zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
 
 Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tatertrages wegen einer Tat, die vor dem 1. Juli 2017 begangen worden ist, nach diesem Zeitpunkt entschieden, sind abweichend von § 2 Absatz 5 des Strafgesetzbuches die §§ 73 bis 73c, 75 Absatz 1 und 3 sowie die §§ 73d, 73e, 76, 76a, 76b und 78 Absatz 1 Satz 2 des Strafgesetzbuches in der Fassung des Gesetzes zur Reform der strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) anzuwenden. Die Vorschriften des Gesetzes zur Reform der strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) sind nicht in Verfahren anzuwenden, in denen bis zum 1. Juli 2017 bereits eine Entscheidung über die Anordnung des Verfalls oder des Verfalls von Wertersatz ergangen ist.
 
 Art. 316h Satz 1: Nach Maßgabe der Entscheidungsformel mit dem GG (100-1) vereinbar gem. BVerfGE v. 10.2.2021 - 2 BvL 8/19 -
 
-
-## Art 316i – Übergangsvorschrift zum Dreiundfünfzigsten Gesetz zur Änderung des Strafgesetzbuches – Ausweitung des Maßregelrechts bei extremistischen Straftätern
+# Art 316i – Übergangsvorschrift zum Dreiundfünfzigsten Gesetz zur Änderung des Strafgesetzbuches – Ausweitung des Maßregelrechts bei extremistischen Straftätern
 
 § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der Fassung des Dreiundfünfzigsten Gesetzes zur Änderung des Strafgesetzbuches vom 11. Juni 2017 (BGBl. I S. 1612), auch in Verbindung mit § 66 Absatz 3 Satz 2, § 66a Absatz 1 Nummer 1 und § 66b Satz 1 Nummer 1 des Strafgesetzbuches, ist nur anzuwenden, wenn die letzte Anlasstat nach dem 30. Juni 2017 begangen worden ist; in allen anderen Fällen ist das bisherige Recht anzuwenden. Soweit in anderen als den in Satz 1 genannten Vorschriften auf § 66 Absatz 3 Satz 1 des Strafgesetzbuches verwiesen wird, ist § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der Fassung des Dreiundfünfzigsten Gesetzes zur Änderung des Strafgesetzbuches vom 11. Juni 2017 (BGBl. I S. 1612) anwendbar. Artikel 316g bleibt unberührt.
 
-
-## Art 316j – Übergangsvorschrift zum Jahressteuergesetz 2020
+# Art 316j – Übergangsvorschrift zum Jahressteuergesetz 2020
 
 Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tatertrages wegen einer Tat, die vor dem 29. Dezember 2020 begangen worden ist, nach diesem Zeitpunkt entschieden, so ist abweichend von § 2 Absatz 5 des Strafgesetzbuches § 73e Absatz 1 Satz 2 des Strafgesetzbuches in der am 29. Dezember 2020 geltenden Fassung anzuwenden, wenn
 
@@ -528,50 +462,41 @@ Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes des Tate
 
 3. das Erlöschen im Sinne von § 73e Absatz 1 Satz 2 des Strafgesetzbuches nach dem 29. Dezember 2020 eingetreten ist.
 
-
-## Art 316k – Übergangsvorschrift zum Gesetz zur Verbesserung der strafrechtlichen Bekämpfung des Geldwäschegesetzes
+# Art 316k – Übergangsvorschrift zum Gesetz zur Verbesserung der strafrechtlichen Bekämpfung des Geldwäschegesetzes
 
 Für die Einziehung von Gegenständen, die nach dem 17. März 2021 sichergestellt worden sind, gilt abweichend von § 2 Absatz 5 des Strafgesetzbuches § 76a Absatz 4 des Strafgesetzbuches in der ab dem 18. März 2021 geltenden Fassung; in allen anderen Fällen gilt das bisherige Recht.
 
-
-## Art 317 – Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
+# Art 317 – Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
 
 (1) Die bei Inkrafttreten des neuen Rechts schwebenden Verfahren wegen einer Zuwiderhandlung, die nach neuem Recht nur noch mit Geldbuße bedroht ist, werden in der Lage, in der sie sich befinden, nach den Vorschriften des Gesetzes über Ordnungswidrigkeiten fortgesetzt, soweit nichts anderes bestimmt ist. Hat das Gericht wegen einer solchen Zuwiderhandlung bereits das Hauptverfahren eröffnet oder einen Strafbefehl oder eine Strafverfügung erlassen, so bleibt die Staatsanwaltschaft für die Verfolgung auch im Bußgeldverfahren zuständig. § 72 des Gesetzes über Ordnungswidrigkeiten ist in diesem Fall nicht anzuwenden.
 
 (2) Die §§ 79, 80 des Gesetzes über Ordnungswidrigkeiten gelten nicht, wenn das Urteil vor Inkrafttreten des neuen Rechts wegen einer Zuwiderhandlung ergangen ist, die nach neuem Recht nur noch mit Geldbuße bedroht ist; in diesen Fällen gelten die §§ 313 und 334 der Strafprozeßordnung in der bisherigen Fassung fort. Ist das Revisionsgericht der Auffassung, daß ein solches Urteil allein wegen des neuen Rechts dem Gesetz nicht entspricht, so berichtigt es den Schuldspruch und wandelt eine Verurteilung zu einer Geldstrafe in eine solche zu einer entsprechenden Geldbuße um. Das Revisionsgericht kann auch in einem Beschluß nach § 349 Abs. 2 der Strafprozeßordnung so verfahren, wenn es die Revision im übrigen einstimmig für offensichtlich unbegründet erachtet. Hebt das Revisionsgericht das angefochtene Urteil auf, so kann es abweichend von § 354 Abs. 2 der Strafprozeßordnung die Sache an das Gericht, dessen Urteil aufgehoben wird, zurückverweisen.
 
-
-## Art 318 – Zuwiderhandlungen nach den Gesetzen auf dem Gebiet der Sozialversicherung
+# Art 318 – Zuwiderhandlungen nach den Gesetzen auf dem Gebiet der Sozialversicherung
 
 (1) Auf die vor dem 1. Januar 1975 begangenen Zuwiderhandlungen nach den Gesetzen auf dem Gebiet der Sozialversicherung, die nach bisherigem Recht mit Ordnungsstrafe bedroht waren und nach neuem Recht Ordnungswidrigkeiten sind, ist das neue Recht mit der Beschränkung anzuwenden, daß sich das Höchstmaß der Geldbuße nach dem Höchstmaß der bisherigen Ordnungsstrafe bestimmt.
 
 (2) Ist jedoch vor dem 1. Januar 1975 wegen einer der in Absatz 1 bezeichneten Zuwiderhandlungen ein Ordnungsstrafbescheid erlassen worden, so ist in dem weiteren Verfahren das bisherige Recht anzuwenden.
 
-
-## Art 319 – Anwendung des bisherigen Kostenrechts
+# Art 319 – Anwendung des bisherigen Kostenrechts
 
 In Straf- und Bußgeldsachen werden Gebühren nach dem bisherigen Recht erhoben, wenn die über die Kosten ergangene Entscheidung vor dem 1. Januar 1975 rechtskräftig geworden ist.
 
-
-## Art 320
+# Art 320
 
 (weggefallen)
 
+# Art 321 – (weggefallen)
 
-## Art 321 – (weggefallen)
-
-
-## Art 322 – Verweisungen
+# Art 322 – Verweisungen
 
 Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die durch dieses Gesetz geändert werden, treten an deren Stelle die geänderten Vorschriften.
 
-
-## Art 323
+# Art 323
 
 \-
 
-
-## Art 324 – Sonderregelung für Berlin
+# Art 324 – Sonderregelung für Berlin
 
 (1) Artikel 18 II Nr. 3, soweit diese Nummer sich auf § 5 Nr. 5 bezieht, Artikel 19 Nr. 5 Buchstabe b, Nr. 6 bis 9, 12, 34 bis 41, 207, soweit diese Nummer sich auf die §§ 84 bis 87, 89 und 109 bis 109k bezieht, Artikel 21 Nr. 24 Buchstabe b, Artikel 26 Nr. 52 und 53, Artikel 27, 28, 31, 34, 35, 70, 147, 152 bis 159, 181, 287 Nr. 44, 52, 56, 77 und 81 und Artikel 326 Abs. 5 Nr. 7 bis 9 sind im Land Berlin nicht anzuwenden. Artikel 230 ist in Berlin erst anzuwenden, wenn das durch ihn geänderte Gesetz vom Land Berlin übernommen ist.
 
@@ -586,18 +511,15 @@ Soweit in anderen Vorschriften auf Vorschriften verwiesen wird, die durch dieses
 1. Nummer 2 ist in folgender Fassung anzuwenden:
 
   
-"2.  
-der Gefährdung des demokratischen Rechtsstaates in den Fällen der §§ 85, 86, 87 bis 90, 90a Abs. 3 und des § 90b des Strafgesetzbuches,
+"2. der Gefährdung des demokratischen Rechtsstaates in den Fällen der §§ 85, 86, 87 bis 90, 90a Abs. 3 und des § 90b des Strafgesetzbuches,
 
 2. Nummer 3 ist nicht anzuwenden.
 
-
-## Art 325
+# Art 325
 
 (weggefallen)
 
-
-## Art 326 – Inkrafttreten, Übergangsfassungen
+# Art 326 – Inkrafttreten, Übergangsfassungen
 
 (1) Dieses Gesetz tritt am 1. Januar 1975 in Kraft, soweit nichts anderes bestimmt ist.
 
@@ -611,8 +533,7 @@ der Gefährdung des demokratischen Rechtsstaates in den Fällen der §§ 85, 86,
 
 (6) (gegenstandslos)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III(BGBl. II 1990, 889, 957)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III(BGBl. II 1990, 889, 957)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

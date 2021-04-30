@@ -1,15 +1,11 @@
-# [EKFG] Gesetz zur Errichtung eines Sondervermögens „Energie- und Klimafonds“  (EKFG)
-
-Ausfertigungsdatum: 08.12.2010
-
+% Gesetz zur Errichtung eines Sondervermögens „Energie- und Klimafonds“  (EKFG)
+% Ausfertigungsdatum: 08.12.2010
  
-
-## § 1 – Errichtung des Sondervermögens
+# § 1 – Errichtung des Sondervermögens
 
 Es wird zum 1. Januar 2011 ein Sondervermögen des Bundes mit der Bezeichnung „Energie- und Klimafonds“ errichtet.
 
-
-## § 2 – Zweck des Sondervermögens
+# § 2 – Zweck des Sondervermögens
 
 (1) Das Sondervermögen ermöglicht zusätzliche Programmausgaben zur Förderung einer umweltschonenden, zuverlässigen und bezahlbaren Energieversorgung sowie zum Klimaschutz. Aus dem Sondervermögen können insbesondere Maßnahmen in folgenden Bereichen finanziert werden:
 
@@ -38,15 +34,13 @@ Zudem können aus dem Sondervermögen ab 2013 Zuschüsse an stromintensive Unter
 
 (2) Maßnahmen im Sinne des Absatzes 1 Satz 1 sind zusätzlich, wenn sie nicht bereits im Bundeshaushalt oder in der Finanzplanung des Bundes berücksichtigt sind.
 
-
-## § 3 – Stellung im Rechtsverkehr
+# § 3 – Stellung im Rechtsverkehr
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Sondervermögens ist der Sitz der Bundesregierung. Das Bundesministerium der Finanzen verwaltet das Sondervermögen. Es kann sich hierzu einer anderen Bundesbehörde oder eines Dritten bedienen.
 
 (2) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten getrennt zu halten.
 
-
-## § 4 – Einnahmen des Sondervermögens und Ermächtigungen
+# § 4 – Einnahmen des Sondervermögens und Ermächtigungen
 
 (1) Dem Sondervermögen fließen folgende Einnahmen zu:
 
@@ -66,38 +60,31 @@ Zudem können aus dem Sondervermögen ab 2013 Zuschüsse an stromintensive Unter
 
 (4) Eine Kreditaufnahme des Sondervermögens am Kreditmarkt ist nicht zulässig. Vom Wirtschaftsplanjahr 2012 an kann das Sondervermögen zum Ausgleich eines Finanzierungsdefizits unter den Voraussetzungen des § 37 Absatz 1 der Bundeshaushaltsordnung ein verzinsliches, spätestens im übernächsten Jahr vollständig zurückzuzahlendes Liquiditätsdarlehen aus dem Bundeshaushalt bis zur Höhe von 10 Prozent des Gesamtvolumens des Wirtschaftsplans des laufenden Jahres erhalten. Die Summe aller Darlehensverbindlichkeiten darf zu keinem Zeitpunkt höher sein als 20 Prozent des Gesamtvolumens des Wirtschaftsplans des laufenden Jahres.
 
-
-## § 5 – Rücklagen
+# § 5 – Rücklagen
 
 Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks Rücklagen bilden.
 
-
-## § 6 – Wirtschaftsplan und Haushaltsrecht
+# § 6 – Wirtschaftsplan und Haushaltsrecht
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden in einem jährlichen Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Er bestimmt sich für 2011 nach der Anlage zu diesem Gesetz und wird in den Folgejahren mit dem Haushaltsgesetz festgestellt. Im Übrigen ist § 113 der Bundeshaushaltsordnung anzuwenden.
 
-
-## § 7 – Rechnungslegung
+# § 7 – Rechnungslegung
 
 Das Bundesministerium der Finanzen stellt für das Sondervermögen am Schluss eines jeden Rechnungsjahres die Haushaltsrechnung (Rechnung über die Einnahmen und Ausgaben nach der Bundeshaushaltsordnung) sowie die Vermögensrechnung (Bilanz und Gewinn- und Verlustrechnung nach den Vorschriften des Handelsgesetzbuchs) auf. Die Rechnungen sind als Übersichten der Haushaltsrechnung des Bundes beizufügen.
 
-
-## § 8 – Berichtspflichten
+# § 8 – Berichtspflichten
 
 Die Bundesregierung berichtet dem Haushaltsausschuss des Deutschen Bundestages jährlich bis zum 31. März über die zweckentsprechende Verwendung der im Vorjahr verausgabten Mittel.
 
-
-## § 9 – Verwaltungskosten
+# § 9 – Verwaltungskosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 6 Satz 3)Wirtschaftsplan des Energie- und Klimafonds
+# Anlage – (zu § 6 Satz 3)Wirtschaftsplan des Energie- und Klimafonds
 
 (Fundstelle: BGBl. I 2010, 1809 - 1813)
 
@@ -134,8 +121,7 @@ Am 28. September 2010 hat die Bundesregierung ihr langfristig angelegtes Energie
 
  
 
-Ab dem Jahr 2011 werden auf der Grundlage des Energiekonzeptes zusätzliche Mittel aus Förderbeiträgen der Betreibergesellschaften der deutschen Kernkraftwerke und aus den in § 4 Absatz 1 Nummer 3 des Gesetzes zur Errichtung eines Sondervermögens „Energie- und Klimafonds“ genannten Mehrerlösen aus der Versteigerung der Berechtigungen zur Emission von Treibhausgasen bereitgestellt.  
-Zur Umsetzung der Zweckbestimmung des „Energie- und Klimafonds“ wird ein jährlicher Wirtschaftsplan aufgestellt. Im Jahr 2011 fließen dem Sondervermögen Einnahmen in Höhe von 300 Mio. € zu.
+Ab dem Jahr 2011 werden auf der Grundlage des Energiekonzeptes zusätzliche Mittel aus Förderbeiträgen der Betreibergesellschaften der deutschen Kernkraftwerke und aus den in § 4 Absatz 1 Nummer 3 des Gesetzes zur Errichtung eines Sondervermögens „Energie- und Klimafonds“ genannten Mehrerlösen aus der Versteigerung der Berechtigungen zur Emission von Treibhausgasen bereitgestellt. Zur Umsetzung der Zweckbestimmung des „Energie- und Klimafonds“ wird ein jährlicher Wirtschaftsplan aufgestellt. Im Jahr 2011 fließen dem Sondervermögen Einnahmen in Höhe von 300 Mio. € zu.
 
  
 

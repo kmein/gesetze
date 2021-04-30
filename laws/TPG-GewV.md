@@ -1,37 +1,29 @@
-# [TPG-GewV] Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von Geweben und deren Übertragung nach dem Transplantationsgesetz    (TPG-Gewebeverordnung - TPG-GewV)
-
-Ausfertigungsdatum: 26.03.2008
-
+% Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von Geweben und deren Übertragung nach dem Transplantationsgesetz    (TPG-Gewebeverordnung - TPG-GewV)
+% Ausfertigungsdatum: 26.03.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 16a Satz 1 und 2 des Transplantationsgesetzes in der Fassung der Bekanntmachung vom 4. September 2007 (BGBl. I S. 2206) verordnet das Bundesministerium für Gesundheit nach Anhörung der Bundesärztekammer und weiterer Sachverständiger:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung findet Anwendung auf Gewebeeinrichtungen im Sinne des § 1a Nr. 8 des Transplantationsgesetzes, die Gewebe im Sinne des § 1a Nr. 4 des Transplantationsgesetzes entnehmen (Entnahmeeinrichtung) oder die die für Gewebespender erforderlichen Laboruntersuchungen in einem Untersuchungslabor nach § 8e des Transplantationsgesetzes durchführen oder durchführen lassen. Sie gilt ferner für Einrichtungen der medizinischen Versorgung, die Gewebe im Sinne des § 1a Nr. 4 des Transplantationsgesetzes übertragen.
 
-
-## § 2 – Anforderungen an die Entnahme von Geweben
+# § 2 – Anforderungen an die Entnahme von Geweben
 
 Zur Einhaltung der Anforderungen an die Entnahme von Geweben nach § 8d Abs. 1 Satz 2 Nr. 1 des Transplantationsgesetzes ist die Entnahmeeinrichtung insbesondere verpflichtet, sicherzustellen, dass die Art und Weise der Entnahme hinsichtlich der Art der gespendeten Gewebe geeignet ist und die für ihre Verwendung erforderlichen biologischen und physikalischen Eigenschaften erhalten bleiben.
 
-
-## § 3 – Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders
+# § 3 – Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders
 
 (1) Die ärztliche Beurteilung zur medizinischen Eignung des toten Spenders nach § 8d Abs. 1 Satz 2 Nr. 2 des Transplantationsgesetzes beruht auf der Risikobewertung in Bezug auf die jeweilige Verwendung und der Art des Gewebes. Dabei sind die in Anlage 1 Nr. 1 genannten Anforderungen zu beachten. Der Spender ist von der Spende auszuschließen, wenn einer der in Anlage 1 Nr. 2 genannten Ausschlussgründe erfüllt ist, sofern nicht im Einzellfall aus medizinischen Gründen und aufgrund einer Risikobewertung durch einen Arzt hiervon abgewichen wird.
 
 (2) Für die ärztliche Beurteilung des lebenden Spenders von Gewebe mit Ausnahme von Keimzellen gilt Absatz 1 entsprechend mit der Maßgabe, dass die in Anlage 2 genannten Anforderungen zu beachten sind.
 
-
-## § 4 – Anforderungen an Laboruntersuchungen und Untersuchungsverfahren
+# § 4 – Anforderungen an Laboruntersuchungen und Untersuchungsverfahren
 
 Bei den für Gewebespender erforderlichen Laboruntersuchungen im Sinne des § 8d Abs. 1 Satz 2 Nr. 3 des Transplantationsgesetzes hat die Entnahmeeinrichtung mindestens die in Anlage 3 Nr. 1 genannten Laboruntersuchungen für Gewebespender mit Ausnahme von Keimzellen in einem Untersuchungslabor durchzuführen oder durchführen zu lassen. Bei den Untersuchungen, mit Ausnahme der Spende von Keimzellen, sind die in Anlage 3 Nr. 2 festgelegten Anforderungen einzuhalten.
 
-
-## § 5 – Anforderungen an Spenderakte und Entnahmebericht
+# § 5 – Anforderungen an Spenderakte und Entnahmebericht
 
 (1) Die Entnahmeeinrichtung legt vor der Entnahme oder Untersuchung eine Spenderakte an, in der ausschließlich folgende Angaben dokumentiert werden:
 
@@ -67,15 +59,13 @@ Die gesamte Spenderakte ist von einem Arzt zu unterzeichnen.
 
 Im Entnahmebericht ist zu dokumentieren, dass die Gewebe für die Aufbereitung, Be- oder Verarbeitung, Konservierung oder Aufbewahrung im Sinne des § 8d Abs. 1 Satz 2 Nr. 4 des Transplantationsgesetzes freigegeben sind.
 
-
-## § 6 – Voraussetzungen für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung
+# § 6 – Voraussetzungen für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung
 
 (1) Für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung ist es erforderlich, dass nach ärztlicher Beurteilung die Verwendung medizinisch indiziert und der gesundheitliche Schutz der Empfängerin und des Kindes gewährleistet sind. Für die erforderlichen Laboruntersuchungen und Untersuchungsverfahren gilt § 4 mit der Maßgabe der in Anlage 4 Nr. 1 und 3 festgelegten Anforderungen entsprechend. Die §§ 2 und 5 finden Anwendung. Werden Samenzellen nicht in einer Entnahmeeinrichtung gewonnen, sind Name und Anschrift der Gewebeeinrichtung, welche die Samenzellen erhalten soll, sowie Angaben über die Spenderidentität und Tag und Uhrzeit der Gewinnung im Entnahmebericht nach § 5 Abs. 2 zu dokumentieren.
 
 (2) Für die heterologe Verwendung von Samenzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung ist es über die Anforderungen des Absatzes 1 hinaus erforderlich, dass der Spender nach ärztlicher Beurteilung aufgrund seines Alters, seines Gesundheitszustandes und seiner Anamnese für die Samenspende geeignet ist und durch die Verwendung der gespendeten Samenzellen bedingte Gesundheitsrisiken für andere ausgeschlossen sind. Die Angaben des Spenders sind mittels eines Fragebogens sowie einer anschließenden persönlichen Befragung des Spenders durch den Arzt zu erheben. Für die erforderlichen Laboruntersuchungen und Untersuchungsverfahren gilt § 4 mit der Maßgabe der in Anlage 4 Nr. 2 und 3 festgelegten Anforderungen entsprechend.
 
-
-## § 7 – Dokumentation von übertragenen Geweben durch Einrichtungen der medizinischen Versorgung
+# § 7 – Dokumentation von übertragenen Geweben durch Einrichtungen der medizinischen Versorgung
 
 Die Einrichtungen der medizinischen Versorgung haben zur Erfüllung ihrer Verpflichtung nach § 13a des Transplantationsgesetzes dafür zu sorgen, dass jedes übertragene Gewebe mit folgenden Angaben dokumentiert wird:
 
@@ -91,8 +81,7 @@ Die Einrichtungen der medizinischen Versorgung haben zur Erfüllung ihrer Verpfl
 
 6. dem Einheitlichen Europäischen Code nach § 4 Absatz 30a des Arzneimittelgesetzes, sofern vorhanden.
 
-
-## § 8 – Meldung schwerwiegender Zwischenfälle durch Einrichtungen der medizinischen Versorgung
+# § 8 – Meldung schwerwiegender Zwischenfälle durch Einrichtungen der medizinischen Versorgung
 
 (1) Die Einrichtungen der medizinischen Versorgung errichten und unterhalten ein Verfahren zur Erfüllung ihrer Verpflichtung nach § 13b des Transplantationsgesetzes, mit dem sichergestellt wird, dass jeder schwerwiegende Zwischenfall, der auf die Entnahme, Untersuchung, Aufbereitung, Be- oder Verarbeitung, Konservierung, Aufbewahrung oder Abgabe einschließlich des Transports des verwendeten Gewebes zurückgeführt werden kann, unverzüglich nach dessen Feststellung dokumentiert und der Gewebeeinrichtung, von der sie das Gewebe erhalten haben, unverzüglich gemeldet wird.
 
@@ -102,8 +91,7 @@ Die Einrichtungen der medizinischen Versorgung haben zur Erfüllung ihrer Verpfl
 
 2. Art und Umfang des festgestellten Qualitäts- oder Sicherheitsmangels, der im Zusammenhang mit einem schwerwiegenden Zwischenfall bei der Entnahme, Untersuchung, Aufbereitung, Be- oder Verarbeitung, Konservierung, Aufbewahrung oder Abgabe des betroffenen Gewebes stehen kann.
 
-
-## § 9 – Meldung schwerwiegender unerwünschter Reaktionen durch Einrichtungen der medizinischen Versorgung
+# § 9 – Meldung schwerwiegender unerwünschter Reaktionen durch Einrichtungen der medizinischen Versorgung
 
 (1) Die Einrichtungen der medizinischen Versorgung errichten und unterhalten ein Verfahren zur Erfüllung ihrer Verpflichtung nach § 13b des Transplantationsgesetzes, mit dem sichergestellt wird, dass jede schwerwiegende unerwünschte Reaktion, die bei oder nach der Übertragung des Gewebes beobachtet worden ist und mit der Qualität und Sicherheit des Gewebes in Zusammenhang stehen kann, unverzüglich nach deren Feststellung dokumentiert und der Gewebeeinrichtung, von der sie das Gewebe erhalten haben, unverzüglich gemeldet wird.
 
@@ -115,18 +103,15 @@ Die Einrichtungen der medizinischen Versorgung haben zur Erfüllung ihrer Verpfl
 
 3. Art der beobachteten schwerwiegenden unerwünschten Reaktion.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des toten Spenders nach § 3 Abs. 1
+# Anlage 1 – Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des toten Spenders nach § 3 Abs. 1
 
 ( Fundstelle: BGBl. I 2008, 515 - 516 )
 
@@ -210,8 +195,7 @@ Kinder unter 18 Monaten von Müttern mit HIV-, Hepatitis-C- oder HTLV-Infektion 
 
 cc) Kinder von Müttern mit HIV-, Hepatitis-C- oder HTLV-Infektion oder dem Risiko einer solchen Infektion, die während der vorangegangenen zwölf Monate nicht von der Mutter gestillt wurden und deren Untersuchungsergebnisse, körperliche Untersuchungen und die Sichtung der medizinischen Unterlagen keinen Hinweis auf eine HIV-, Hepatitis-C- oder HTLV-Infektion ergeben, können als Spender zugelassen werden.
 
-
-## Anlage 2 – Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2
+# Anlage 2 – Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2
 
 1. Spenderevaluierung (bei Gewebe zur Übertragung auf andere)
 
@@ -253,8 +237,7 @@ Schwangerschaft (ausgenommen bei Spenderinnen von Amnionmembran);
 bb)  
 Stillen.
 
-
-## Anlage 3 – Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4
+# Anlage 3 – Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4
 
 ( Fundstelle: BGBl. I 2008, 518 - 519)
 
@@ -313,8 +296,7 @@ g) Bei der Entnahme von Knochenmark sind die Blutproben innerhalb von 30 Tagen v
 
 h) Handelt es sich bei dem Spender um ein Neugeborenes, kann der biologische Spendertest an der Mutter des Spenders vorgenommen werden, um unnötige Eingriffe am Neugeborenen zu vermeiden.
 
-
-## Anlage 4 – Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6
+# Anlage 4 – Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6
 
 ( Fundstelle: BGBl. I 2008, 520)
 

@@ -1,15 +1,11 @@
-# [SozSichAbkROMG] Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik Deutschland und Rumänien über Soziale Sicherheit
-
-Ausfertigungsdatum: 06.03.2006
-
+% Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik Deutschland und Rumänien über Soziale Sicherheit
+% Ausfertigungsdatum: 06.03.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Folgenden in Bukarest am 8. April 2005 unterzeichneten zwischenstaatlichen Übereinkünften wird zugestimmt:
 
@@ -19,8 +15,7 @@ Folgenden in Bukarest am 8. April 2005 unterzeichneten zwischenstaatlichen Über
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens sowie Änderungen der in Artikel 1 Nr. 2 genannten Durchführungsvereinbarung in Kraft zu setzen. Im Übrigen wird die Bundesregierung ermächtigt, die zur Durchführung des Abkommens erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -34,8 +29,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 5. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

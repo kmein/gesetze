@@ -1,15 +1,11 @@
-# [FlUStatV] Verordnung über die Durchführung einer Statistik über die Schlachttier- und Fleischuntersuchung  (Fleischuntersuchungsstatistik-Verordnung - FlUStatV)
-
-Ausfertigungsdatum: 28.09.2006
-
+% Verordnung über die Durchführung einer Statistik über die Schlachttier- und Fleischuntersuchung  (Fleischuntersuchungsstatistik-Verordnung - FlUStatV)
+% Ausfertigungsdatum: 28.09.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 66 Abs. 2 des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26. April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Erhebungsmerkmale, Berichtszeitraum, Periodizität
+# § 1 – Erhebungsmerkmale, Berichtszeitraum, Periodizität
 
 Die nach § 66 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches zu führende Statistik erfasst
 
@@ -35,20 +31,17 @@ b) Anordnungen nach Artikel 138 Absatz 2 Buchstabe k der Verordnung (EU) 2017/62
 
 Die Statistik wird für die Jahre 2007 und 2008 jeweils für das Kalenderjahr, danach jeweils für die Kalenderhalbjahre durchgeführt.
 
-
-## § 2 – Übermittlung der Erhebungskataloge
+# § 2 – Übermittlung der Erhebungskataloge
 
 Das Statistische Bundesamt stellt den für die Durchführung der in § 1 Satz 1 genannten Untersuchungen und Kontrollen zuständigen Behörden mindestens zwei Monate vor Beginn des jeweiligen Zeitraums nach § 1 Satz 2 einen Katalog der nach § 1 Satz 1 zu übermittelnden Angaben (Erhebungskatalog) zur Verfügung. Der Erhebungskatalog wird für die Jahre 2007 und 2008 in Papierform und elektronisch, danach nur elektronisch zur Verfügung gestellt.
 
-
-## § 3 – Auskunftspflichtige, ergänzende Angaben, Form der Übermittlung an das Statistische Bundesamt
+# § 3 – Auskunftspflichtige, ergänzende Angaben, Form der Übermittlung an das Statistische Bundesamt
 
 (1) Die für die in § 1 Satz 1 genannten Untersuchungen und Kontrollen zuständigen Behörden übermitteln dem Statistischen Bundesamt unter Angabe ihrer Bezeichnung sowie der Anschrift der zuständigen Arbeitseinheit einschließlich ihrer Telekommunikationsanschlussnummer und Adresse für elektronische Post die Angaben zum Erhebungskatalog für die Zeiträume nach § 1 Satz 2 spätestens sechs Wochen nach deren jeweiligem Ablauf. Das Statistische Bundesamt löscht die behördenbezogenen Angaben spätestens zehn Jahre nach Abschluss der Erhebung.
 
 (2) Die Übermittlung nach Absatz 1 erfolgt für die Zeiträume nach 2008 ausschließlich elektronisch. Das Statistische Bundesamt kann die Datensatzformate, die technischen Übermittlungsformate und die Übermittlungsverfahren festlegen.
 
-
-## § 4 – Aufbereitung der Ergebnisse
+# § 4 – Aufbereitung der Ergebnisse
 
 (1) Das Statistische Bundesamt bereitet die Ergebnisse der Statistik, auch nach Ländern gegliedert, auf und veröffentlicht sie.
 
@@ -60,10 +53,8 @@ Das Statistische Bundesamt stellt den für die Durchführung der in § 1 Satz 1 
 
 übermittelt. Das Bundesministerium für Ernährung und Landwirtschaft darf die ihm nach Absatz 2 Nummer 1 übermittelten Daten an das Bundesinstitut für Risikobewertung zur Erstellung von wissenschaftlichen Ausarbeitungen, Gutachten und Stellungnahmen im Rahmen der Risikobewertung übermitteln.
 
+# § 5 – (Inkrafttreten)
 
-## § 5 – (Inkrafttreten)
-
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

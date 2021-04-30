@@ -1,30 +1,23 @@
-# [BArchKostV] Verordnung über Kosten beim Bundesarchiv  (Bundesarchiv-Kostenverordnung - BArchKostV)
-
-Ausfertigungsdatum: 29.09.1997
-
+% Verordnung über Kosten beim Bundesarchiv  (Bundesarchiv-Kostenverordnung - BArchKostV)
+% Ausfertigungsdatum: 29.09.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Satz 1 Nr. 2 des Bundesarchivgesetzes vom 6. Januar 1988 (BGBl. I S. 62) verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Für die Benutzung von Archivgut beim Bundesarchiv werden Gebühren und Auslagen nach dieser Verordnung erhoben.
 
-
-## § 2 – Gebühren und Auslagen
+# § 2 – Gebühren und Auslagen
 
 Die Gebühren und Auslagen bestimmen sich nach dem anliegenden Gebühren- und Auslagenverzeichnis.
 
-
-## § 3 – Pflichten des Gebührenschuldners
+# § 3 – Pflichten des Gebührenschuldners
 
 Auf Verlangen des Bundesarchivs hat der Benutzer die für die Gebührenfestsetzung nötigen Angaben zu machen.
 
-
-## § 4 – Sachliche Gebührenfreiheit, Gebührenbefreiung
+# § 4 – Sachliche Gebührenfreiheit, Gebührenbefreiung
 
 (1) Gebühren werden nicht erhoben für mündliche und einfache schriftliche Auskünfte.
 
@@ -36,16 +29,13 @@ Auf Verlangen des Bundesarchivs hat der Benutzer die für die Gebührenfestsetzu
 
 (3) Auf die Gebühr nach Nummer 4.11 des Gebühren- und Auslagenverzeichnisses kann das Bundesarchiv bei einer Auflage bis zu 500 Exemplaren verzichten.
 
+# § 5 – (weggefallen)
 
-## § 5 – (weggefallen)
-
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 2)Gebühren- und Auslagenverzeichnis
+# Anlage – (zu § 2)Gebühren- und Auslagenverzeichnis
 
 (Fundstelle: BGBl. I 2000, 1496 - 1499)  
 bzgl. der einzelnen Änderungen vgl. Fußnote

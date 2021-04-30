@@ -1,15 +1,11 @@
-# [BuchPrG] Gesetz über die Preisbindung für Bücher  (Buchpreisbindungsgesetz)
-
-Ausfertigungsdatum: 02.09.2002
-
+% Gesetz über die Preisbindung für Bücher  (Buchpreisbindungsgesetz)
+% Ausfertigungsdatum: 02.09.2002
  
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Das Gesetz dient dem Schutz des Kulturgutes Buch. Die Festsetzung verbindlicher Preise beim Verkauf an Letztabnehmer sichert den Erhalt eines breiten Buchangebots. Das Gesetz gewährleistet zugleich, dass dieses Angebot für eine breite Öffentlichkeit zugänglich ist, indem es die Existenz einer großen Zahl von Verkaufsstellen fördert.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Bücher im Sinne dieses Gesetzes sind auch
 
@@ -25,16 +21,13 @@ Das Gesetz dient dem Schutz des Kulturgutes Buch. Die Festsetzung verbindlicher 
 
 (3) Letztabnehmer im Sinne dieses Gesetzes ist, wer Bücher zu anderen Zwecken als dem Weiterverkauf erwirbt.
 
-
-## § 3 – Preisbindung
+# § 3 – Preisbindung
 
 Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verkauft, muss den nach § 5 festgesetzten Preis einhalten. Dies gilt nicht für den Verkauf gebrauchter Bücher.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## § 5 – Preisfestsetzung
+# § 5 – Preisfestsetzung
 
 (1) Wer Bücher für den Verkauf an Letztabnehmer in Deutschland verlegt oder importiert, ist verpflichtet, einen Preis einschließlich Umsatzsteuer (Endpreis) für die Ausgabe eines Buches für den Verkauf an Letztabnehmer in Deutschland festzusetzen und in geeigneter Weise zu veröffentlichen. Entsprechendes gilt für Änderungen des Endpreises.
 
@@ -58,8 +51,7 @@ Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verk
 
 (5) Die Festsetzung unterschiedlicher Endpreise für einen bestimmten Titel durch einen Verleger oder Importeur oder deren Lizenznehmer ist zulässig, wenn dies sachlich gerechtfertigt ist.
 
-
-## § 6 – Vertrieb
+# § 6 – Vertrieb
 
 (1) Verlage müssen bei der Festsetzung ihrer Verkaufspreise und sonstigen Verkaufskonditionen gegenüber Händlern den von kleineren Buchhandlungen erbrachten Beitrag zur flächendeckenden Versorgung mit Büchern sowie ihren buchhändlerischen Service angemessen berücksichtigen. Sie dürfen ihre Rabatte nicht allein an dem mit einem Händler erzielten Umsatz ausrichten.
 
@@ -67,8 +59,7 @@ Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in Deutschland verk
 
 (3) Verlage dürfen für Zwischenbuchhändler keine höheren Preise oder schlechteren Konditionen festsetzen als für Letztverkäufer, die sie direkt beliefern.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) § 3 gilt nicht beim Verkauf von Büchern
 
@@ -149,15 +140,13 @@ Soweit Schulbücher von den Schulen im Rahmen eigener Budgets angeschafft werden
 
 4. andere handelsübliche Nebenleistungen erbringt.
 
-
-## § 8 – Dauer der Preisbindung
+# § 8 – Dauer der Preisbindung
 
 (1) Verleger und Importeure sind berechtigt, durch Veröffentlichung in geeigneter Weise die Preisbindung für Buchausgaben aufzuheben, deren erstes Erscheinen länger als 18 Monate zurückliegt.
 
 (2) Bei Büchern, die in einem Abstand von weniger als 18 Monaten wiederkehrend erscheinen oder deren Inhalt mit dem Erreichen eines bestimmten Datums oder Ereignisses erheblich an Wert verliert, ist eine Beendigung der Preisbindung durch den Verleger oder Importeur ohne Beachtung der Frist gemäß Absatz 1 nach Ablauf eines angemessenen Zeitraums seit Erscheinen möglich.
 
-
-## § 9 – Schadensersatz- und Unterlassungsansprüche
+# § 9 – Schadensersatz- und Unterlassungsansprüche
 
 (1) Wer den Vorschriften dieses Gesetzes zuwiderhandelt, kann auf Unterlassung in Anspruch genommen werden. Wer vorsätzlich oder fahrlässig handelt, ist zum Ersatz des durch die Zuwiderhandlung entstandenen Schadens verpflichtet.
 
@@ -175,8 +164,7 @@ Die Einrichtungen nach Satz 1 Nr. 4 können den Anspruch auf Unterlassung nur ge
 
 (3) Für das Verfahren gelten bei den Anspruchsberechtigten nach Absatz 2 Nr. 1 bis 3 die Vorschriften des Gesetzes gegen den unlauteren Wettbewerb und bei Einrichtungen nach Absatz 2 Nr. 4 die Vorschriften des Unterlassungsklagegesetzes.
 
-
-## § 10 – Bucheinsicht
+# § 10 – Bucheinsicht
 
 (1) Sofern der begründete Verdacht vorliegt, dass ein Unternehmen gegen § 3 verstoßen hat, kann ein Gewerbetreibender, der ebenfalls Bücher vertreibt, verlangen, dass dieses Unternehmen einem von Berufs wegen zur Verschwiegenheit verpflichteten Angehörigen der wirtschafts- oder steuerberatenden Berufe Einblick in seine Bücher und Geschäftsunterlagen gewährt. Der Bericht des Buchprüfers darf sich ausschließlich auf die ihm bekannt gewordenen Verstöße gegen die Vorschriften dieses Gesetzes beziehen.
 

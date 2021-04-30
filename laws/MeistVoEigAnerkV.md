@@ -1,15 +1,11 @@
-# [MeistVoEigAnerkV] Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern der volkseigenen Industrie als Voraussetzung für die Eintragung in die Handwerksrolle
-
-Ausfertigungsdatum: 06.12.1991
-
+% Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern der volkseigenen Industrie als Voraussetzung für die Eintragung in die Handwerksrolle
+% Ausfertigungsdatum: 06.12.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1) in Verbindung mit Anlage I Kapitel V Sachgebiet B Abschnitt III Nr. 1 Buchstabe n des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 999) verordnet der Bundesminister für Wirtschaft:
 
-
-## § 1
+# § 1
 
 Ausbildungsabschlüsse zum Meister der volkseigenen Industrie, die bis zum 31. Dezember 1991 erlangt werden, werden für ein Handwerk, dessen Arbeitsgebiet nach Maßgabe der Anlage dem jeweiligen Fachgebiet des Ausbildungsabschlusses entspricht, als Voraussetzung für die Eintragung in die Handwerksrolle anerkannt, wenn der Inhaber des Ausbildungsabschlusses
 
@@ -19,18 +15,15 @@ Ausbildungsabschlüsse zum Meister der volkseigenen Industrie, die bis zum 31. D
 
 3. nach dem 31. Dezember 1981 Lehrlinge in einem Beruf ausgebildet hat, dessen Fachgebiet dem zu betreibenden Handwerk entspricht.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1)Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
+# Anlage – (zu § 1)Ausbildungsabschlüsse von Meistern der volkseigenen Industrie, die einem Handwerk der Anlage A der Handwerksordnung entsprechen
 
 ( Fundstelle: BGBl. I 1991, 2163 - 2168 )
 

@@ -1,15 +1,11 @@
-# [PflegeVG] Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit  (Pflege-Versicherungsgesetz - PflegeVG)
-
-Ausfertigungsdatum: 26.05.1994
-
+% Gesetz zur sozialen Absicherung des Risikos der Pflegebedürftigkeit  (Pflege-Versicherungsgesetz - PflegeVG)
+% Ausfertigungsdatum: 26.05.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 

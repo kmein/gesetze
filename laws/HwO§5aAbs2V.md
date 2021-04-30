@@ -1,10 +1,7 @@
-# [HwO§5aAbs2V] Verordnung über den automatisierten Datenabruf der Handwerkskammern nach § 5a Abs. 2 der Handwerksordnung
-
-Ausfertigungsdatum: 22.06.2004
-
+% Verordnung über den automatisierten Datenabruf der Handwerkskammern nach § 5a Abs. 2 der Handwerksordnung
+% Ausfertigungsdatum: 22.06.2004
  
-
-## § 1 – Anlass und Zweck des Abrufverfahrens
+# § 1 – Anlass und Zweck des Abrufverfahrens
 
 (1) Eine Handwerkskammer darf bei anderen Handwerkskammern im automatisierten Verfahren Daten abrufen, soweit dies erforderlich ist, um
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 22.06.2004
 
 (2) Die abrufende Handwerkskammer darf zur Durchführung des Abrufes Familienname, Geburtsname und Vornamen sowie Geburtsdatum des Betriebsleiters und das Datum der Übernahme der Betriebsleitung übermitteln.
 
-
-## § 2 – Art der zu übermittelnden Daten
+# § 2 – Art der zu übermittelnden Daten
 
 Folgende personenbezogene Daten der Kammerzugehörigen dürfen durch Abruf im automatisierten Verfahren übermittelt werden, wenn der Betriebsleiter in dem Bezirk der übermittelnden Handwerkskammer eingetragen ist:
 
@@ -33,8 +29,7 @@ Folgende personenbezogene Daten der Kammerzugehörigen dürfen durch Abruf im au
 
 7. weitere Betriebsstätten und Zweigniederlassungen, für die derselbe Betriebsleiter zuständig ist.
 
-
-## § 3 – Technisch-organisatorische Maßnahmen und Protokollierung
+# § 3 – Technisch-organisatorische Maßnahmen und Protokollierung
 
 (1) Das automatisierte Abrufverfahren darf nur eingerichtet werden, wenn die beteiligten Stellen
 

@@ -1,15 +1,11 @@
-# [DKfAG] Dienstrechtliches Kriegsfolgen-Abschlußgesetz  (DKfAG)
-
-Ausfertigungsdatum: 20.09.1994
-
+% Dienstrechtliches Kriegsfolgen-Abschlußgesetz  (DKfAG)
+% Ausfertigungsdatum: 20.09.1994
  
-
-## § 1
+# § 1
 
 \-
 
-
-## § 2 – Regelung zur Besitzstandswahrung, Nachversicherung
+# § 2 – Regelung zur Besitzstandswahrung, Nachversicherung
 
 (1) Nach dem Inkrafttreten dieses Gesetzes können Ansprüche nach den in § 1 aufgeführten Rechtsvorschriften nicht mehr geltend gemacht werden; für die Regelung und Abwicklung der Ansprüche, die bis zu diesem Zeitpunkt entstanden sind, gilt folgendes:
 

@@ -1,36 +1,29 @@
-# [SchSiHafV] Verordnung über die Schutz- und Sicherheitshäfen, die Häfen der Deutschen Marine und der Bundespolizei der Bundesrepublik Deutschland an Seeschifffahrtsstraßen  (Schutz- und Sicherheitshafenverordnung - SchSiHafV)
-
-Ausfertigungsdatum: 06.01.2017
-
+% Verordnung über die Schutz- und Sicherheitshäfen, die Häfen der Deutschen Marine und der Bundespolizei der Bundesrepublik Deutschland an Seeschifffahrtsstraßen  (Schutz- und Sicherheitshafenverordnung - SchSiHafV)
+% Ausfertigungsdatum: 06.01.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), § 46 Satz 1 geändert durch Artikel 522 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S. 315), der zuletzt durch Artikel 23 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257, 1728) geändert worden ist, verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Dieser Teil gilt für den Bereich der Schutz- und Sicherheitshäfen mit ihren Wasserflächen und Hafenanlagen, die in Abschnitt 7 bezeichnet sind.
 
 (2) Die Schutz- und Sicherheitshäfen sind dazu bestimmt, Wasserfahrzeugen bei widrigen Verhältnissen, insbesondere Sturm, Seegang, Hochwasser oder Eis, als Zuflucht zu dienen.
 
-
-## § 2 – Verantwortung der Fahrzeugführer
+# § 2 – Verantwortung der Fahrzeugführer
 
 (1) Die Fahrzeugführer oder ihre Vertreter haben sicherzustellen, dass diese Verordnung auf ihren Fahrzeugen befolgt wird.
 
 (2) Jeder Fahrzeugführer hat die zuständige Hafenbehörde, außerhalb der Dienstzeiten die örtliche Polizei, unverzüglich über Schiffsunfälle, schwere Unfälle an Bord oder der Gefahr solcher Unfälle, von Fahruntüchtigkeit der Fahrzeuge oder von Beschädigung der Hafenanlagen zu unterrichten. § 37 Absatz 2 Nummer 2 der Seeschifffahrtsstraßen-Ordnung bleibt unberührt.
 
-
-## § 3 – Anweisungen und Anordnungen
+# § 3 – Anweisungen und Anordnungen
 
 (1) Die schifffahrtspolizeilichen Anweisungen der zuständigen Hafenbehörde und der Vollzugsorgane sind zu befolgen.
 
 (2) Die Hafenbehörde kann aus besonderem Anlass zur Abwehr von Gefahren für die Sicherheit und Ordnung im Schutz- und Sicherheitshafen die erforderlichen Anordnungen treffen.
 
-
-## § 4 – Betreten der Fahrzeuge durch Personen in dienstlichem Auftrag
+# § 4 – Betreten der Fahrzeuge durch Personen in dienstlichem Auftrag
 
 (1) Die Bediensteten der Hafenbehörden und der Vollzugsorgane sind befugt,
 
@@ -44,13 +37,11 @@ Der Fahrzeugführer ist verpflichtet, die Maßnahmen nach Satz 1 zu dulden und d
 
 (2) Die Fahrzeugführer haben auf Anforderung einen sicheren Landgang zum Betreten ihrer Fahrzeuge auszubringen oder ein Boot zum Übersetzen zur Verfügung zu stellen.
 
-
-## § 5 – Verhalten im Hafengebiet
+# § 5 – Verhalten im Hafengebiet
 
 Niemand darf im Hafengebiet einen anderen gefährden, schädigen oder mehr als nach den Umständen unvermeidbar behindern oder belästigen.
 
-
-## § 6 – Erlaubnis zum Einlaufen
+# § 6 – Erlaubnis zum Einlaufen
 
 (1) Im Falle eines Fahrzeugs, das
 
@@ -66,8 +57,7 @@ darf der Fahrzeugführer in einen Hafen nur einlaufen oder eine Anlegestelle ben
 
 (2) Tritt einer der in Absatz 1 Nummer 1 und 2 genannten Umstände erst im Hafen ein, so hat der Fahrzeugführer die Hafenbehörde unverzüglich darüber zu unterrichten. Kommt der Fahrzeugführer einer Aufforderung, das Fahrzeug zu verholen, nicht unverzüglich nach, so kann die Hafenbehörde das Fahrzeug auf Kosten des Pflichtigen verholen lassen. Das gilt auch für den Fall, dass ein in Absatz 1 bezeichnetes Fahrzeug ohne Erlaubnis in den Hafen eingelaufen ist.
 
-
-## § 7 – An- und Abmeldung der Fahrzeuge
+# § 7 – An- und Abmeldung der Fahrzeuge
 
 (1) Der Fahrzeugführer hat sein Fahrzeug nach der Ankunft unverzüglich bei der Hafenbehörde anzumelden und rechtzeitig vor Verlassen des Hafens abzumelden.
 
@@ -75,13 +65,11 @@ darf der Fahrzeugführer in einen Hafen nur einlaufen oder eine Anlegestelle ben
 
 (+++ § 7 Abs. 2: Zur Nichtanwendung vgl. § 27 Abs. 3 (F 2017-01-06) +++)
 
-
-## § 8 – Loswerfen bei Gefahr im Verzuge
+# § 8 – Loswerfen bei Gefahr im Verzuge
 
 Wird bei Gefahr im Verzuge ein Fahrzeug ohne Zustimmung des Fahrzeugführers losgeworfen oder verholt, so hat derjenige, der für das Loswerfen und Verholen verantwortlich ist, den Fahrzeugführer oder die Hafenbehörde unverzüglich, nachdem das Fahrzeug wieder festgemacht ist, zu unterrichten.
 
-
-## § 9 – Anweisung der Liegeplätze
+# § 9 – Anweisung der Liegeplätze
 
 (1) Liegeplätze werden von der Hafenbehörde zugewiesen. Es besteht kein Anspruch auf Zuweisung eines bestimmten Liegeplatzes für ein Fahrzeug. Zugewiesene Liegeplätze dürfen vorbehaltlich des § 8 nicht ohne Anweisung gewechselt werden.
 
@@ -91,18 +79,15 @@ Wird bei Gefahr im Verzuge ein Fahrzeug ohne Zustimmung des Fahrzeugführers los
 
 (+++ § 9 Abs. 3: Zur Nichtanwendung vgl. § 27 Abs. 7 (F 2017-01-06) +++)
 
-
-## § 10 – Ankern
+# § 10 – Ankern
 
 Das Ankern in einem Schutz- und Sicherheitshafen ist verboten. Satz 1 gilt nicht, soweit das Ankern durch die zuständige Hafenbehörde erlaubt ist, oder im Fall einer unmittelbar drohenden Gefahr.
 
-
-## § 11 – Auflegen von Fahrzeugen
+# § 11 – Auflegen von Fahrzeugen
 
 Es ist verboten, ein Fahrzeug im Hafenbereich aufzulegen.
 
-
-## § 12 – Festmachen von Fahrzeugen
+# § 12 – Festmachen von Fahrzeugen
 
 (1) Der Fahrzeugführer darf sein Fahrzeug nur nach Maßgabe der Absätze 2 und 3 festmachen.
 
@@ -110,8 +95,7 @@ Es ist verboten, ein Fahrzeug im Hafenbereich aufzulegen.
 
 (3) Bei vorhandenen Landpollern sind diese zu benutzen.
 
-
-## § 13 – Maschinenprobe
+# § 13 – Maschinenprobe
 
 (1) Der Fahrzeugführer darf auf seinem festgemachten Fahrzeug die Schiffsschraube nur in Gang setzen
 
@@ -123,8 +107,7 @@ Es ist verboten, ein Fahrzeug im Hafenbereich aufzulegen.
 
 (2) § 33 Absatz 4 der Seeschifffahrtsstraßen-Ordnung bleibt unberührt.
 
-
-## § 14 – Vorsichtsmaßnahmen auf Fahrzeugen
+# § 14 – Vorsichtsmaßnahmen auf Fahrzeugen
 
 (1) Der Fahrzeugführer hat dafür zu sorgen, dass
 
@@ -136,20 +119,17 @@ Satz 1 gilt nicht für Fender oder Anker.
 
 (2) Radargeräte sind vom Fahrzeugführer nach dem Anlegen unverzüglich auszuschalten.
 
-
-## § 15 – Reinhaltung des Hafens
+# § 15 – Reinhaltung des Hafens
 
 (1) Der Fahrzeugführer hat dafür zu sorgen, dass der Hafen nach Maßgabe der Sätze 2 bis 5 reingehalten wird. Die Verunreinigung des Hafens ist verboten. Feste Stoffe aller Art und flüssige wassergefährdende Stoffe, wie Chemikalien, Mineral- und Teeröle sowie deren Produkte, Brennstoffe, Gifte sowie mit wassergefährdenden Stoffen versetzte Bilgen-, Ballast- und Tankwaschwasser dürfen nicht in das Hafengewässer eingebracht werden. Schiffsabfälle dürfen, in bordüblichen Mengen, an den von der Hafenbehörde gekennzeichneten Hafenauffangeinrichtungen entsorgt werden. Flüssige wassergefährdende Stoffe jeglicher Art sind einem ortsansässigen Entsorger zuzuführen.
 
 (2) Gelangen wassergefährdende Stoffe in das Hafengewässer, das Gewässerbett oder auf das Ufer, so haben der Betreiber der Umschlaganlage, der Fahrzeugführer und der Obhutspflichtige unverzüglich die Hafenbehörde, außerhalb der Dienstzeiten die Polizei, zu unterrichten. Unbeschadet von Sofortmaßnahmen, die von ihnen selbst durchzuführen sind, haben die in Satz 1 bezeichneten Personen nach Weisung der zuständigen Behörden die ausgetretenen Stoffe zu entfernen.
 
-
-## § 16 – Verkehrsstörende Einrichtungen
+# § 16 – Verkehrsstörende Einrichtungen
 
 Der Fahrzeugführer darf keine Lichtquellen, Werbeanlagen, große Tafeln oder Schilder sowie sonstige Einrichtungen, die den Hafenbetrieb, den Hafenverkehr oder die durchgehende Schifffahrt stören können, an seinem Fahrzeug anbringen oder anbringen lassen.
 
-
-## § 17 – Landgänge
+# § 17 – Landgänge
 
 (1) Der Fahrzeugführer hat Landgänge nach Maßgabe der Absätze 2 bis 4 zu betreiben.
 
@@ -159,13 +139,11 @@ Der Fahrzeugführer darf keine Lichtquellen, Werbeanlagen, große Tafeln oder Sc
 
 (4) Landgänge sind bei Dunkelheit ausreichend zu beleuchten. Die Beleuchtung ist so abzublenden, dass der Verkehr nicht durch Verwechslungen oder Blendungen gestört werden kann.
 
-
-## § 18 – Laden und Löschen
+# § 18 – Laden und Löschen
 
 Das Laden und Löschen sowie das Anlanden von Personen im Hafen ist verboten. Satz 1 gilt nicht für die Versorgung der Besatzung eines Fahrzeugs mit Lebensmitteln oder Wasser sowie das Bunkern von Treibstoff nach Maßgabe des § 25, soweit dies für die Weiterfahrt des Fahrzeugs erforderlich ist und die Hafenbehörde zugestimmt hat.
 
-
-## § 19 – Benutzung von Anlegebrücken
+# § 19 – Benutzung von Anlegebrücken
 
 (1) Anlegebrücken dürfen nur nach Maßgabe der Absätze 2 und 3 benutzt werden.
 
@@ -173,20 +151,17 @@ Das Laden und Löschen sowie das Anlanden von Personen im Hafen ist verboten. Sa
 
 (3) Der Benutzer hat die durch ihn verursachten Verunreinigungen der Anlegebrücke zu entfernen oder entfernen zu lassen.
 
-
-## § 20 – Verhalten von Landfahrzeugen im Hafen
+# § 20 – Verhalten von Landfahrzeugen im Hafen
 
 (1) Landfahrzeuge aller Art dürfen im Hafengebiet nur mit Erlaubnis der Hafenbehörde und nur nach Maßgabe des Absatzes 2 abgestellt werden.
 
 (2) Beim Abstellen von Landfahrzeugen und schweren Gütern ist von der Kaikante ein Abstand bis hinter die Pollerlinie, mindestens jedoch von zwei Metern zu halten.
 
-
-## § 21 – Benutzung der Rettungsgeräte
+# § 21 – Benutzung der Rettungsgeräte
 
 Für die Öffentlichkeit bestimmte Rettungsgeräte dürfen nicht entfernt oder missbräuchlich benutzt werden.
 
-
-## § 22 – Bemannung und Bewachung der Fahrzeuge
+# § 22 – Bemannung und Bewachung der Fahrzeuge
 
 (1) Der Fahrzeugführer darf einen Liegeplatz nur dann wechseln, wenn das Fahrzeug so ausreichend bemannt ist, dass es manövrierfähig ist.
 
@@ -200,8 +175,7 @@ Für die Öffentlichkeit bestimmte Rettungsgeräte dürfen nicht entfernt oder m
 
 (+++ § 22 Abs. 5: Zur Nichtanwendung vgl. § 26 Abs. 4, § 28 Abs. 4 und § 29 Abs. 4 (F 2017-01-06) +++)
 
-
-## § 23 – Sicherheitsvorschriften
+# § 23 – Sicherheitsvorschriften
 
 (1) An allen Plätzen, wo Explosivstoffe und Gegenstände mit Explosivstoffen, brennbare Gase, entzündbare Flüssigkeiten, entzündbare feste Stoffe, selbstentzündliche Stoffe, entzündend wirkende Stoffe, organische Peroxide oder sonstige feuergefährlichen Stoffe und Gegenstände gelagert oder – ausnahmsweise – geladen oder gelöscht werden, ist es verboten ein offenes Feuer zu entfachen oder unterhalten. Unbeschadet des Absatzes 2 gilt Satz 1 nicht, soweit die zuständige Hafenbehörde eine Erlaubnis erteilt hat.
 
@@ -211,8 +185,7 @@ Für die Öffentlichkeit bestimmte Rettungsgeräte dürfen nicht entfernt oder m
 
 (4) Für die Klassifizierung der gefährlichen Güter ist die Gefahrgutverordnung See in der jeweils geltenden Fassung anzuwenden.
 
-
-## § 24 – Sondervorschriften für Fahrzeuge mit feuergefährlicher Ladung
+# § 24 – Sondervorschriften für Fahrzeuge mit feuergefährlicher Ladung
 
 (1) Ein Fahrzeug, das mit in § 23 bezeichneten Gütern beladen ist, soll so festgemacht werden, dass der Bug in Richtung zur Ausfahrt liegt. Bei Dunkelheit oder stark unsichtigem Wetter darf der Fahrzeugführer eines Fahrzeugs im Sinne des Satzes 1 dieses nur mit Erlaubnis der Hafenbehörde oder bei Gefahr im Verzuge unter Beachtung der erforderlichen Vorsichtsmaßnahmen verholen.
 
@@ -220,8 +193,7 @@ Für die Öffentlichkeit bestimmte Rettungsgeräte dürfen nicht entfernt oder m
 
 (3) Der Fahrzeugführer eines in Absatz 1 genannten Fahrzeugs hat dieses ständig verholbereit zu halten.
 
-
-## § 25 – Übernahme flüssiger Treibstoffe
+# § 25 – Übernahme flüssiger Treibstoffe
 
 (1) Der Fahrzeugführer darf flüssige Treibstoffe nur nach Maßgabe der Absätze 2 bis 9 übernehmen oder abgeben.
 
@@ -241,28 +213,21 @@ Für die Öffentlichkeit bestimmte Rettungsgeräte dürfen nicht entfernt oder m
 
 (9) Von den an der Treibstoffübernahme beteiligten Fahrzeugen ist ein Sicherheitsabstand zu halten. Der Abstand soll mindestens 5 m, bei fließenden Gewässern in Längsrichtung mindestens 10 m betragen.
 
+# § 26 – (weggefallen)
 
-## § 26 – (weggefallen)
+# § 27 – (weggefallen)
 
+# § 28 – (weggefallen)
 
-## § 27 – (weggefallen)
+# § 29 – (weggefallen)
 
+# § 30 – (weggefallen)
 
-## § 28 – (weggefallen)
-
-
-## § 29 – (weggefallen)
-
-
-## § 30 – (weggefallen)
-
-
-## § 31 – Geltungsbereich
+# § 31 – Geltungsbereich
 
 Dieser Teil gilt für die Häfen der Deutschen Marine und der Bundespolizei mit ihren Wasserflächen und Hafenanlagen, die in den nachstehenden Vorschriften benannt sind.
 
-
-## § 32 – Häfen Eckernförde, Kiel, Flensburg-Mürwik, Neustadt, Warnemünde, Parow, Bremerhaven
+# § 32 – Häfen Eckernförde, Kiel, Flensburg-Mürwik, Neustadt, Warnemünde, Parow, Bremerhaven
 
 (1) Die Häfen Eckernförde, Kiel, Flensburg-Mürwik, Neustadt, Warnemünde, Parow und Bremerhaven der Deutschen Marine und der Hafen Neustadt sowie die Teilbereiche im Hafen Warnemünde der Bundespolizei werden seeseitig begrenzt:
 
@@ -332,8 +297,7 @@ durch keine Begrenzungen.
 
 (4) Die Hafenbehörde des Hafen Parow ist der Kasernenkommandant und wird vertreten durch den militärischen Hafenmeister/Leiter Bootshafen. Dieser ist an Werktagen auf dem UKW-Kanal 16/11 Rufname „Navel Port Parow“ in der Zeit von 7.00 Uhr bis 16.00 Uhr unter dem Rufzeichen DHJ82 empfangsbereit. Er ist auch unter der Telefonnummer +49 03831-682250 oder -682240 erreichbar.
 
-
-## § 33 – Allgemeines
+# § 33 – Allgemeines
 
 (1) Das Hafengebiet umfasst den gesamten Neuen Vorhafen, die Seeschleuse und erstreckt sich weiter in südliche Richtung bis an die Grenze des militärischen Hafenbereichs, die im Abstand von 100 m parallel zu den Binnenhäuptern der Seeschleuse verläuft. Die erfassten Wasser- und Landflächen sind Teil des militärischen Sicherheitsbereiches der Marineanlage Heppenser Groden, Wilhelmshaven.
 
@@ -345,8 +309,7 @@ durch keine Begrenzungen.
 
 (5) Die Verkehrsregelung beim Ein- und Auslaufen in die beziehungsweise aus der Seeschleuse wird von den Schleusenbediensteten des Wasserstraßen- und Schifffahrtsamtes Wilhelmshaven durchgeführt.
 
-
-## § 34 – Benutzungsbestimmungen für den Neuen Vorhafen
+# § 34 – Benutzungsbestimmungen für den Neuen Vorhafen
 
 (1) Das Befahren des Neuen Vorhafens außerhalb eines Korridors bis 100 m beiderseits der Richtfeuerlinie von der Hafeneinfahrt bis zu den Schleusenkammern durch ein nichtmilitärisches Fahrzeug ist verboten.
 
@@ -364,8 +327,7 @@ durch keine Begrenzungen.
 
 (8) Sportfahrzeuge dürfen andere Fahrzeuge nicht behindern. Treten Wartezeiten zum Schleusen ein, müssen Kapitäne von Sportfahrzeugen diese an den von der Hafenbehörde festgelegten, rot gekennzeichneten Liegeplätzen (Festmacherdalben) anlegen. Außer zum Festmachen dürfen die Fahrzeuge nicht verlassen werden.
 
-
-## § 35 – Benutzerbestimmungen für die Seeschleuse
+# § 35 – Benutzerbestimmungen für die Seeschleuse
 
 (1) Die Schleusenbetriebszeiten werden vom Wasserstraßen- und Schifffahrtsamt Wilhelmshaven öffentlich bekannt gegeben.
 
@@ -379,8 +341,7 @@ durch keine Begrenzungen.
 
 (6) Die Festmacherleinen müssen während des Schleusungsvorganges bordseitig ununterbrochen bewacht werden. Sie dürfen erst losgeworfen werden, wenn die Ausfahrt freigegeben ist oder Schleusenbedienstete hierzu auffordern.
 
-
-## § 36 – Signale
+# § 36 – Signale
 
 (1) Als Vorhafensperrsignal werden zwei feste rote Lichter übereinander verwendet. Das Vorhafensperrsignal wird auf dem Signalturm auf der Westmole gezeigt. Mit dem Zeigen des Vorhafensperrsignals ist das Einlaufen in den Neuen Vorhafen verboten.
 
@@ -392,8 +353,7 @@ durch keine Begrenzungen.
 
 3. Einfahrt frei (zwei feste grüne Lichter und zusätzlich ein festes weißes Licht über dem linken grünen Licht).
 
-
-## § 37 – Verbote im Hafenbereich
+# § 37 – Verbote im Hafenbereich
 
 (1) Im Hafenbereich verboten sind
 
@@ -407,8 +367,7 @@ durch keine Begrenzungen.
 
 (2) Der Gebrauch von Ortungsgeräten und Funksendeanlagen ist nur zum Zwecke der Navigation oder nach besonderer Genehmigung der Hafenbehörde zulässig.
 
-
-## § 38 – Gültigkeit anderer Vorschriften
+# § 38 – Gültigkeit anderer Vorschriften
 
 Soweit diese Verordnung nichts Abweichendes bestimmt, bleibt die Geltung anderer Rechtsvorschriften,
 
@@ -426,23 +385,19 @@ der Schifffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen A
 
 in den jeweils geltenden Fassungen, unberührt.
 
-
-## § 39 – Ausnahmen für den öffentlichen Dienst
+# § 39 – Ausnahmen für den öffentlichen Dienst
 
 Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
-
-## § 40 – Ausnahmen für die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“
+# § 40 – Ausnahmen für die „Deutsche Gesellschaft zur Rettung Schiffbrüchiger“
 
 Die Fahrzeuge der „Deutschen Gesellschaft zur Rettung Schiffbrüchiger“ sind von den Verboten dieser Verordnung ausgenommen, soweit dies zur Wahrnehmung ihrer Rettungsaufgaben im Einzelfall unumgänglich ist.
 
-
-## § 41 – Ausnahmen in besonderen Fällen
+# § 41 – Ausnahmen in besonderen Fällen
 
 Die zuständigen Hafenbehörden können Ausnahmen von den Vorschriften dieser Verordnung zulassen.
 
-
-## § 42 – Ordnungswidrigkeiten
+# § 42 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -530,7 +485,6 @@ Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengese
 
 42. entgegen § 37 Absatz 1 badet, taucht, surft, Jetski fährt oder Feuerwerkskörper abbrennt.
 
-
-## § 43 – Inkrafttreten, Außerkrafttreten
+# § 43 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig treten die Schutz- und Sicherheitshafenverordnung vom 28. August 1987 (BAnz. S. 13 013, 13 541), die zuletzt durch § 1 der Verordnung vom 22. Mai 2008 (BAnz. S. 2257) geändert worden ist, und die Hafenordnung Borkum vom 7. März 1991 (BAnz. S. 2713), die durch Artikel 1 der Verordnung vom 17. Juli 1997 (BAnz. S. 9698) geändert worden ist, außer Kraft.

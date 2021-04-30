@@ -1,22 +1,17 @@
-# [Corona-ArbSchV] SARS-CoV-2-Arbeitsschutzverordnung  (Corona-ArbSchV)
-
-Ausfertigungsdatum: 21.01.2021
-
+% SARS-CoV-2-Arbeitsschutzverordnung  (Corona-ArbSchV)
+% Ausfertigungsdatum: 21.01.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Nummer 1 Buchstabe b des Gesetzes vom 22. Dezember 2020 (BGBl. I S. 3334) eingefügt worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Ziel und Anwendungsbereich
+# § 1 – Ziel und Anwendungsbereich
 
 (1) Diese Verordnung dient dem Ziel, das Risiko einer Infektion mit dem Coronavirus SARS-CoV-2 bei der Arbeit zu minimieren und Sicherheit und Gesundheit der Beschäftigten zu schützen.
 
 (2) Die Arbeitsschutzverordnungen gemäß § 18 Absatz 1 und 2 des Arbeitsschutzgesetzes und abweichende Vorschriften der Länder zum Infektionsschutz, insbesondere im Zusammenhang mit der Betreuung von Kindern sowie weitergehende Vorschriften der Länder und die SARS-CoV-2-Arbeitsschutzregel bleiben unberührt.
 
-
-## § 2 – Maßnahmen zur Kontaktreduktion im Betrieb
+# § 2 – Maßnahmen zur Kontaktreduktion im Betrieb
 
 (1) Der Arbeitgeber hat gemäß der §§ 5 und 6 des Arbeitsschutzgesetzes die Gefährdungsbeurteilung hinsichtlich zusätzlich erforderlicher Maßnahmen des betrieblichen Infektionsschutzes unter Berücksichtigung der SARS-CoV-2-Arbeitsschutzregel zu überprüfen und zu aktualisieren.
 
@@ -36,8 +31,7 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 
 (5) In Betrieben mit mehr als zehn Beschäftigten sind die Beschäftigten in möglichst kleine Arbeitsgruppen einzuteilen. Personenkontakte zwischen den einzelnen Arbeitsgruppen im Betriebsablauf sowie Änderungen dieser Einteilung sind auf das betriebsnotwendige Minimum zu reduzieren. Zeitversetztes Arbeiten ist zu ermöglichen, soweit die betrieblichen Gegebenheiten dies zulassen.
 
-
-## § 3 – Betriebliche Hygienekonzepte
+# § 3 – Betriebliche Hygienekonzepte
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung nach § 2 Absatz 1 und unter Berücksichtigung der SARS-CoV-2-Arbeitsschutzregel in einem Hygienekonzept die erforderlichen Maßnahmen zum betrieblichen Infektionsschutz festzulegen und umzusetzen. Zur weiteren Orientierung über geeignete Maßnahmen nach Satz 1 können insbesondere die branchenbezogenen Handlungshilfen der Unfallversicherungsträger herangezogen werden.
 
@@ -45,8 +39,7 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 
 (3) Das betriebliche Hygienekonzept ist in der Arbeitsstätte den Beschäftigten in geeigneter Weise zugänglich zu machen.
 
-
-## § 4 – Mund-Nase-Schutz, Atemschutz
+# § 4 – Mund-Nase-Schutz, Atemschutz
 
 (1) Der Arbeitgeber hat medizinische Gesichtsmasken (Mund-Nase-Schutz) zur Verfügung zu stellen, wenn
 
@@ -68,20 +61,17 @@ Auf Grund des § 18 Absatz 3 des Arbeitsschutzgesetzes, der durch Artikel 1 Numm
 
 (3) Abweichend von den Absätzen 1 und 1a kann der Arbeitgeber andere ebenso wirksame Maßnahmen treffen.
 
-
-## § 5 – Tests in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2
+# § 5 – Tests in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2
 
 (1) Zur Minderung des betrieblichen SARS-CoV-2-Infektionsrisikos hat der Arbeitgeber Beschäftigten, soweit diese nicht ausschließlich in ihrer Wohnung arbeiten, mindestens zweimal pro Kalenderwoche einen Test in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2 anzubieten.
 
 (2) Nachweise über die Beschaffung von Tests nach Absatz 1 oder Vereinbarungen mit Dritten über die Testung der Beschäftigten sind vom Arbeitgeber bis zum 30. Juni 2021 aufzubewahren.
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am fünften Tag nach der Verkündung in Kraft; sie tritt am Tag der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes, spätestens jedoch mit Ablauf des 30. Juni 2021 außer Kraft.
 
-
-## Anlage – Einsetzbare Atemschutzmasken
+# Anlage – Einsetzbare Atemschutzmasken
 
 (Fundstelle: BAnz AT 22.01.2021 V1)
 

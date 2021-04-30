@@ -1,40 +1,31 @@
-# [TNGebV] Telekommunikations-Nummerngebührenverordnung  (TNGebV)
-
-Ausfertigungsdatum: 16.08.1999
-
+% Telekommunikations-Nummerngebührenverordnung  (TNGebV)
+% Ausfertigungsdatum: 16.08.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Abs. 3 des Telekommunikationsgesetzes vom 25. Juli 1996 (BGBl. I S. 1120) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und den Organisationserlassen vom 17. Dezember 1997 (BGBl. 1998 I S. 68) und vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium der Finanzen und dem Bundesministerium der Justiz:
 
-
-## § 1 – Erheben von Gebühren
+# § 1 – Erheben von Gebühren
 
 Die für individuell zurechenbare öffentliche Leistungen im Zusammenhang mit Entscheidungen über die Zuteilung von Nummern nach dem Telekommunikationsgesetz zu erhebenden Gebühren bestimmen sich nach dem Gebührenverzeichnis in der Anlage. Daneben werden Auslagen nach § 23 Absatz 6 des Bundesgebührengesetzes gesondert erhoben.
 
-
-## § 2 – Gebührenerstattung nach Widerruf von Zuteilungen unter Vorbehalt
+# § 2 – Gebührenerstattung nach Widerruf von Zuteilungen unter Vorbehalt
 
 Wird eine Zuteilung von Rufnummernblöcken, die nach den Zuteilungsregeln unter Vorbehalt zugeteilt worden sind, widerrufen, nachdem die Rufnummernblöcke als frei gemeldet worden sind, werden die für die Zuteilung erhobenen Gebühren erstattet, soweit dies unter Berücksichtigung des mit der Nummernzuteilung verbundenen Verwaltungsaufwands, der Gültigkeitsdauer der Nummernzuteilung und des damit verbundenen wirtschaftlichen Nutzens angemessen ist.
 
-
-## § 3 – Gebühren in besonderen Fällen
+# § 3 – Gebühren in besonderen Fällen
 
 Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die Ablehnung des Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung sowie im Falle der Zurücknahme eines Antrags auf Vornahme einer individuell zurechenbaren öffentlichen Leistung nach § 1 werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
-
-## § 3a – Anwendungsbestimmung
+# § 3a – Anwendungsbestimmung
 
 Gebühren nach Nummer A.2 des Gebührenverzeichnisses werden erhoben, soweit ein Antrag auf Bestätigung und Berichtigung einer Zuteilung aus Anlass einer Rechtsnachfolge bei der Bundesnetzagentur nach dem 1. Januar 2009 gestellt worden ist. Gebühren nach Nummer C.1 des Gebührenverzeichnisses werden erhoben, soweit ein Antrag auf Zuteilung einer europaeinheitlichen Rufnummer für harmonisierte Dienste von sozialem Wert bei der Bundesnetzagentur nach dem 1. Januar 2009 gestellt worden ist.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 1996 in Kraft.
 
-
-## Anlage – (zu § 1)Gebührenverzeichnis
+# Anlage – (zu § 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2013, 3896 - 3898;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

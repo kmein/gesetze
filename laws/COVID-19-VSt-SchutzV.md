@@ -1,20 +1,15 @@
-# [COVID-19-VSt-SchutzV] Verordnung zum Ausgleich COVID-19 bedingter finanzieller Belastungen der Zahnärztinnen und Zahnärzte, der Heilmittelerbringer und der Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen  (COVID-19-Versorgungsstrukturen-Schutzverordnung - COVID-19-VSt-SchutzV)
-
-Ausfertigungsdatum: 30.04.2020
-
+% Verordnung zum Ausgleich COVID-19 bedingter finanzieller Belastungen der Zahnärztinnen und Zahnärzte, der Heilmittelerbringer und der Einrichtungen des Müttergenesungswerks oder gleichartigen Einrichtungen  (COVID-19-Versorgungsstrukturen-Schutzverordnung - COVID-19-VSt-SchutzV)
+% Ausfertigungsdatum: 30.04.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Absatz 2 Nummer 4 und 7 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 4 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – (weggefallen)
+# § 1 – (weggefallen)
 
  
 
-
-## § 2 – Ausgleichszahlungen an Heilmittelerbringer
+# § 2 – Ausgleichszahlungen an Heilmittelerbringer
 
 (1) Nach § 124 Absatz 2 in Verbindung mit Absatz 1 des Fünften Buches Sozialgesetzbuch zugelassene Leistungserbringer erhalten für den Zeitraum vom 1. April 2020 bis zum 30. Juni 2020 auf Antrag eine Ausgleichszahlung für die Ausfälle der Einnahmen, die ihnen aufgrund eines Behandlungsrückgangs infolge der COVID-19-Epidemie entstehen, sofern die Zulassung des Leistungserbringers zum Zeitpunkt der Antragstellung nach Absatz 3 besteht.
 
@@ -44,15 +39,12 @@ Eine Anrechnung finanzieller Hilfen aufgrund anderer Anspruchsgrundlagen erfolgt
 
 (8) Die Arbeitsgemeinschaften übermitteln dem Bundesministerium für Gesundheit bis zum 31. August 2020 eine anonymisierte Aufstellung der an die Leistungserbringer angewiesenen Ausgleichszahlungen.
 
-
-## § 3 – Einrichtungen des Müttergenesungswerks oder gleichartige Einrichtungen
+# § 3 – Einrichtungen des Müttergenesungswerks oder gleichartige Einrichtungen
 
 Vorsorge- und Rehabilitationseinrichtungen, die nach § 111d Absatz 1 des Fünften Buches Sozialgesetzbuch Ausgleichszahlungen aus der Liquiditätsreserve des Gesundheitsfonds für Ausfälle der Einnahmen erhalten, die seit dem 16. März 2020 dadurch entstehen, dass Betten nicht so belegt werden können, wie es vor dem Auftreten der COVID-19-Epidemie geplant war, sind auch solche Einrichtungen, mit denen ein Versorgungsvertrag nach § 111a Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch besteht.
 
+# § 4 – (wegefallen)
 
-## § 4 – (wegefallen)
-
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.

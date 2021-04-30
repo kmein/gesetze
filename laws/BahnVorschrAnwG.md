@@ -1,15 +1,11 @@
-# [BahnVorschrAnwG] Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
-
-Ausfertigungsdatum: 26.09.1934
-
+% Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten
+% Ausfertigungsdatum: 26.09.1934
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird.
 
-
-## Einziger Paragraph
+# Einziger Paragraph
 
 (1) Erstreckt sich ein Bahnunternehmen des öffentlichen Verkehrs über das Gebiet mehrerer Länder und unterliegt es in mindestens einem dieser Länder Vorschriften über die Behandlung der einem Bahnunternehmen gewidmeten Grundstücke und sonstiger Vermögensgegenstände als Einheit (Bahneinheit), so können die beteiligten Landesregierungen im gegenseitigen Einvernehmen durch Rechtsverordnung bestimmen, daß die Vorschriften eines Landes für das ganze Unternehmen gelten.
 

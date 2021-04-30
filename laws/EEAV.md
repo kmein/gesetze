@@ -1,15 +1,11 @@
-# [EEAV] Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung  (Erneuerbare-Energien-Ausführungsverordnung - EEAV)
-
-Ausfertigungsdatum: 22.02.2010
-
+% Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung  (Erneuerbare-Energien-Ausführungsverordnung - EEAV)
+% Ausfertigungsdatum: 22.02.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 64 Absatz 3 Nummer 7 des Erneuerbare-Energien-Gesetzes vom 25. Oktober 2008 (BGBl. I S. 2074) in Verbindung mit § 11 Nummer 1 bis 3 der Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus vom 17. Juli 2009 (BGBl. I S. 2101) verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Vermarktung an Spotmärkten
+# § 1 – Vermarktung an Spotmärkten
 
 (1) Am vortägigen Spotmarkt einer Strombörse ist über eine marktgekoppelte Auktion mit stündlichen Handelsprodukten für jede Stunde des Folgetages die gemäß aktueller Prognose vorhergesagte stündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes zu vergütenden Stroms vollständig zu veräußern. Verkaufsangebote nach Satz 1 sind preisunabhängig einzustellen.
 
@@ -21,8 +17,7 @@ Auf Grund des § 64 Absatz 3 Nummer 7 des Erneuerbare-Energien-Gesetzes vom 25. 
 
 (5) Eine gemeinsame Vermarktung nach § 2 Absatz 1 Satz 1 der Erneuerbare-Energien-Verordnung schließt die Möglichkeit ein, Vermarktungstätigkeiten auf einen anderen Übertragungsnetzbetreiber im Rahmen eines Dienstleistungsverhältnisses zu übertragen.
 
-
-## § 2 – Transparenz der Vermarktungstätigkeiten
+# § 2 – Transparenz der Vermarktungstätigkeiten
 
 Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu den Daten nach der Anlage 1 Nummer 3 des Erneuerbare-Energien-Gesetzes auf einer gemeinsamen Internetseite in einheitlichem Format in nicht personenbezogener Form zu veröffentlichen:
 
@@ -40,8 +35,7 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 
 7. die Angaben nach § 72 Absatz 1 Nummer 1 Buchstabe c des Erneuerbare-Energien-Gesetzes; sie sind für jeden Kalendermonat bis zum Ablauf des zehnten Werktags des Folgemonats zu veröffentlichen.
 
-
-## § 3 – Transparenz der Einnahmen und Ausgaben
+# § 3 – Transparenz der Einnahmen und Ausgaben
 
 (1) Die Übertragungsnetzbetreiber müssen die kalendermonatlichen und kalenderjährlichen Einnahmen und Ausgaben jeweils aufgeschlüsselt nach den einzelnen in § 3 der Erneuerbare-Energien-Verordnung und in § 6 dieser Verordnung aufgeführten Einnahmen- und Ausgabenpositionen auf einer gemeinsamen Internetseite in einheitlichem Format und in nicht personenbezogener Form veröffentlichen. Einnahmen und Ausgaben, die aus der Vermarktung des Stroms resultieren, sind aufzuschlüsseln nach den Spotmarktprodukten nach § 1, über die der Strom vermarktet wurde. Ferner sind die Liquiditätsreserve nach § 3 Absatz 8 der Erneuerbare-Energien-Verordnung und Einnahmen und Ausgaben, die nach § 3 Absatz 11 der Erneuerbare-Energien-Verordnung abzugrenzen sind, gesondert auszuweisen.
 
@@ -49,8 +43,7 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 
 (3) Die einzelnen Einnahmen- und Ausgabenpositionen nach Absatz 1 sind ihrer Art nach abstrakt zu erläutern. Wenn Sondereffekte aufgetreten sind, die einen bedeutenden Einfluss auf die Einnahmen oder Ausgaben haben, sind diese konkret zu erläutern.
 
-
-## § 4 – Mitteilungspflichten
+# § 4 – Mitteilungspflichten
 
 (1) Die Übertragungsnetzbetreiber müssen der Bundesnetzagentur die Einnahmen und Ausgaben des Vorjahres jeweils aufgeschlüsselt nach den einzelnen in § 3 der Erneuerbare-Energien-Verordnung und in § 6 aufgeführten Einnahmen- und Ausgabenpositionen übermitteln.
 
@@ -60,8 +53,7 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 
 (4) Die Übertragungsnetzbetreiber sind verpflichtet, die nach den Absätzen 1 und 3 mitzuteilenden Daten einschließlich der zu ihrer Überprüfung notwendigen Daten elektronisch zu übermitteln. Soweit die Bundesnetzagentur Formularvorlagen bereitstellt, sind sie verpflichtet, die Daten in dieser Form zu übermitteln. Die Angaben müssen einen sachkundigen Dritten in die Lage versetzen, ohne weitere Informationen die Ermittlung vollständig nachzuvollziehen.
 
-
-## § 5 – Gesonderte Buchführung und Rechnungslegung sowie Führung gesonderter Bankkonten
+# § 5 – Gesonderte Buchführung und Rechnungslegung sowie Führung gesonderter Bankkonten
 
 (1) Die Übertragungsnetzbetreiber sind jeweils verpflichtet, ein separates Bankkonto für die Aufgaben nach der Erneuerbare-Energien-Verordnung und für die Aufgaben nach der vorliegenden Verordnung zu führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach § 3 der Erneuerbare-Energien-Verordnung und § 6 der vorliegenden Verordnung sind über dieses Bankkonto abzuwickeln. Die Einnahmen und Ausgaben im Sinne von Satz 2, die bis zu der Einrichtung des separaten Bankkontos anfallen, sind nach der Einrichtung unverzüglich valutagerecht auf das Konto zu überführen.
 
@@ -69,8 +61,7 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 
 (3) Die Kontoauszüge und die Daten der gesonderten Buchführung und Rechnungslegung sind der Bundesnetzagentur auf Anforderung vorzulegen. § 4 Absatz 4 gilt entsprechend.
 
-
-## § 6 – Einnahmen und Ausgaben im Sinne der EEG-Umlage
+# § 6 – Einnahmen und Ausgaben im Sinne der EEG-Umlage
 
 (1) Als Ausgaben im Sinne von § 3 Absatz 4 der Erneuerbare-Energien-Verordnung gelten auch folgende Positionen, soweit sie zur Erfüllung der Aufgaben nach der Erneuerbare-Energien-Verordnung und dieser Verordnung erforderlich sind:
 
@@ -98,8 +89,7 @@ Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten ergänzend zu d
 
 (4) (weggefallen)
 
-
-## § 7 – Anreize zur bestmöglichen Vermarktung
+# § 7 – Anreize zur bestmöglichen Vermarktung
 
 (1) Um Anreize zu schaffen, den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten Strom bestmöglich zu vermarkten, werden je Kalenderjahr (Anreizjahr) die spezifischen beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers mit einem Vergleichswert verglichen.
 
@@ -127,8 +117,7 @@ K<sub>UT</sub> ∙ (P<sub>UT</sub> - P<sub>VT</sub>) + VK<sub>UT</sub> ∙ (P<su
 
 (7) Die Vereinnahmung des Bonus erfolgt in zwölf gleichmäßig verteilten Monatsraten. Sie beginnt zum Anfang des übernächsten Jahres bezogen auf das Anreizjahr.
 
-
-## § 8 – Preislimitierung in Ausnahmefällen
+# § 8 – Preislimitierung in Ausnahmefällen
 
 (1) Der Übertragungsnetzbetreiber kann nach Maßgabe der folgenden Absätze für diejenigen Stunden des folgenden Tages, für die im Fall von negativen Preisen an einer der Strombörsen ein Aufruf zur zweiten Auktion ergeht, von der Verpflichtung abweichen, die vollständige gemäß aktueller Prognose vorhergesagte stündliche Einspeisung zu preisunabhängigen Geboten an den Spotmärkten dieser Strombörsen nach § 1 Absatz 1 zu veräußern. Der Übertragungsnetzbetreiber hat der Bundesnetzagentur die konkreten Stunden, in denen er von der Befugnis nach Satz 1 Gebrauch macht, unverzüglich anzuzeigen. Die Sätze 1 und 2 sind entsprechend anzuwenden auf diejenigen Stunden des Folgetages, für die aufgrund einer partiellen Entkopplung grenzüberschreitend gekoppelter Marktgebiete von der Strombörse zu einer Anpassung der Gebote aufgerufen wird.
 
@@ -150,10 +139,8 @@ K<sub>UT</sub> ∙ (P<sub>UT</sub> - P<sub>VT</sub>) + VK<sub>UT</sub> ∙ (P<su
 
 (5) Die durch die in Absatz 4 genannten Maßnahmen entstehenden Kosten gelten als Kosten für den untertägigen Ausgleich im Sinne von § 3 Absatz 4 Nummer 6 der Erneuerbare-Energien-Verordnung. Sie können nur dann in die EEG-Umlage einkalkuliert werden, wenn die in den vorstehenden Absätzen enthaltenen Vorschriften oder die in Aufsichtsmaßnahmen der Bundesnetzagentur enthalten Maßgaben eingehalten wurden.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Für die bis zum 31. April 2015 nach § 1 vermarkteten Strommengen können die Übertragungsnetzbetreiber die nach § 2 Nummer 1, 4 und 5 zu veröffentlichenden Daten erst zum 1. Mai 2015 veröffentlichen. Bis dahin sind die Vermarktungstätigkeiten insoweit nach § 2 Nummer 1 bis 3 der Ausgleichsmechanismus-Ausführungsverordnung in der am 31. Januar 2015 geltenden Fassung zu veröffentlichen.
 
-
-## §§ 10 bis 13 – (weggefallen)
+# §§ 10 bis 13 – (weggefallen)

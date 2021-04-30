@@ -1,30 +1,23 @@
-# [SeilAusbV] Verordnung über die Berufsausbildung zum Seiler und zur Seilerin    (Seiler-Ausbildungsverordnung - SeilAusbV)
-
-Ausfertigungsdatum: 22.05.2008
-
+% Verordnung über die Berufsausbildung zum Seiler und zur Seilerin    (Seiler-Ausbildungsverordnung - SeilAusbV)
+% Ausfertigungsdatum: 22.05.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Seiler/Seilerin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe Nummer 29, Seiler, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und die Ausbildung in einen der Schwerpunkte Seilherstellung, Seilkonfektion oder Netzkonfektion.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -78,8 +71,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 8. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -87,8 +79,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen Gelegenheit während der Ausbildungszeit zu geben. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -124,8 +115,7 @@ kann.
 
 3. Die Prüfungszeit beträgt insgesamt fünf Stunden. Innerhalb dieser Zeit soll das situative Fachgespräch in höchstens fünfzehn Minuten sowie die Bearbeitung der schriftlichen Aufgabenstellungen in einer Stunde durchgeführt werden.
 
-
-## § 7 – Gesellenprüfung
+# § 7 – Gesellenprüfung
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -159,8 +149,7 @@ g) Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisator
 
 h) die für das schwerpunktspezifische Produkt relevanten fachlichen Hintergründe aufzeigen
 
-kann.  
-Im Schwerpunkt Seilherstellung soll der Prüfling zusätzlich nachweisen, dass er
+kann. Im Schwerpunkt Seilherstellung soll der Prüfling zusätzlich nachweisen, dass er
 
 a) Fertigungsverfahren, Seilkonstruktion und Material festlegen,
 
@@ -168,8 +157,7 @@ b) Konstruktionsberechnungen durchführen sowie
 
 c) Nachbehandlungen ausführen
 
-kann.  
-Im Schwerpunkt Seilkonfektion soll der Prüfling zusätzlich nachweisen, dass er
+kann. Im Schwerpunkt Seilkonfektion soll der Prüfling zusätzlich nachweisen, dass er
 
 a) Anschlagmittel, Anschlagart und Beschläge festlegen,
 
@@ -179,8 +167,7 @@ c) Verbindungstechniken ausführen und
 
 d) Seile und Beschläge zu Anschlagmitteln verarbeiten
 
-kann.  
-Im Schwerpunkt Netzkonfektion soll der Prüfling zusätzlich nachweisen, dass er
+kann. Im Schwerpunkt Netzkonfektion soll der Prüfling zusätzlich nachweisen, dass er
 
 a) Netzkonstruktion und Material festlegen,
 
@@ -290,15 +277,12 @@ bewertet worden sind.
 
 (9) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen die Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 8 – Bestehende Berufsausbildungsverhältnisse
+# § 8 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Seiler/zur Seilerin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Seiler/zur Seilerin

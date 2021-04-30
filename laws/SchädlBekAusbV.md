@@ -1,30 +1,23 @@
-# [SchädlBekAusbV] Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
-
-Ausfertigungsdatum: 15.07.2004
-
+% Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
+% Ausfertigungsdatum: 15.07.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung und dem Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Schädlingsbekämpfer/Schädlingsbekämpferin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -58,23 +51,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 15. Qualitätssichernde Maßnahmen.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 3 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -84,8 +73,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (4) Im schriftlichen Teil der Zwischenprüfung soll der Prüfling in höchstens 90 Minuten praxisbezogene Aufgaben lösen, die sich auf physikalische und biotechnische Verfahren in den Bereichen Gesundheits- und Vorratsschutz sowie Holz- und Bautenschutz beziehen. Dabei soll der Prüfling zeigen, dass er Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz einbeziehen und berufsspezifische Rechtsvorschriften und Normen beachten kann.
 
-
-## § 9 – Abschlussprüfung
+# § 9 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -159,13 +147,11 @@ Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (8) Die Prüfung ist bestanden, wenn jeweils im praktischen und im schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung in mindestens drei der vier Prüfungsbereiche mindestens ausreichende Leistungen erbracht sind. Werden die Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin
 
 (Fundstelle BGBl. I 2004, 1641 - 1644)
 

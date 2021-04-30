@@ -1,15 +1,11 @@
-# [EdelstGrMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Edelsteingraveur-Handwerk  (Edelsteingraveurmeisterverordnung - EdelstGrMstrV)
-
-Ausfertigungsdatum: 10.08.1992
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Edelsteingraveur-Handwerk  (Edelsteingraveurmeisterverordnung - EdelstGrMstrV)
+% Ausfertigungsdatum: 10.08.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, verordnet der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Edelsteingraveur-Handwerk sind folgende Tätigkeiten zuzurechnen:  
 Entwurf, Gestaltung, Anfertigung, Bearbeitung und Restaurierung von Schmuck sowie anderen Gegenständen aus Edelsteinen, synthetischen Steinen und künstlichen Produkten.
@@ -68,8 +64,7 @@ Entwurf, Gestaltung, Anfertigung, Bearbeitung und Restaurierung von Schmuck sowi
 
 26. Instandhalten der Betriebseinrichtungen, insbesondere der berufsbezogenen Werkzeuge, Geräte und Maschinen.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -77,8 +72,7 @@ Entwurf, Gestaltung, Anfertigung, Bearbeitung und Restaurierung von Schmuck sowi
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten zu entwerfen und anzufertigen:
 
@@ -96,8 +90,7 @@ Entwurf, Gestaltung, Anfertigung, Bearbeitung und Restaurierung von Schmuck sowi
 
 (3) Die Werkzeichnung, die kolorierte Zeichnung, die Kalkulation sowie der Arbeitsbericht sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind zwei der nachstehend genannten Arbeiten auszuführen:
 
@@ -115,8 +108,7 @@ Entwurf, Gestaltung, Anfertigung, Bearbeitung und Restaurierung von Schmuck sowi
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden sechs Prüfungsfächern nachzuweisen:
 
@@ -206,18 +198,15 @@ g) organische Substanzen.
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 5.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. November 1992 in Kraft.
 

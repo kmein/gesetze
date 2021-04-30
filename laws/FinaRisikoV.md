@@ -1,10 +1,7 @@
-# [FinaRisikoV] Verordnung zur Einreichung von Finanz- und Risikotragfähigkeitsinformationen nach dem Kreditwesengesetz  (Finanz- und Risikotragfähigkeitsinformationenverordnung - FinaRisikoV)
-
-Ausfertigungsdatum: 06.12.2013
-
+% Verordnung zur Einreichung von Finanz- und Risikotragfähigkeitsinformationen nach dem Kreditwesengesetz  (Finanz- und Risikotragfähigkeitsinformationenverordnung - FinaRisikoV)
+% Ausfertigungsdatum: 06.12.2013
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -23,13 +20,11 @@ Ausfertigungsdatum: 06.12.2013
   
   
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für alle Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes sowie für übergeordnete Unternehmen im Sinne des § 10a Absatz 1 Satz 2, 4 bis 8 und Absatz 2, jeweils auch in Verbindung mit Absatz 3, des Kreditwesengesetzes.
 
-
-## § 2 – Art und Umfang der Finanzinformationen und der ergänzenden Informationen
+# § 2 – Art und Umfang der Finanzinformationen und der ergänzenden Informationen
 
 (1) Die Finanzinformationen im Sinne des § 25 Absatz 1 und 2 des Kreditwesengesetzes bestehen aus:
 
@@ -45,8 +40,7 @@ Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinforma
 
 (2) Finanzdienstleistungsinstitute, die die Drittstaateneinlagenvermittlung im Sinne des § 1 Absatz 1a Satz 2 Nummer 5 des Kreditwesengesetzes oder das Sortengeschäft im Sinne des § 1 Absatz 1a Satz 2 Nummer 7 des Kreditwesengesetzes erbringen, haben darüber hinaus ergänzende Informationen nach § 7 einzureichen. Dies gilt auch für Finanzdienstleistungsinstitute, die die Abschlussvermittlung im Sinne des § 1 Absatz 1a Satz 2 Nummer 2 des Kreditwesengesetzes, die Finanzportfolioverwaltung im Sinne des § 1 Absatz 1a Satz 2 Nummer 3 des Kreditwesengesetzes oder die Anlageverwaltung im Sinne des § 1 Absatz 1a Satz 2 Nummer 11 des Kreditwesengesetzes erbringen und die nicht befugt sind, sich bei der Erbringung von Finanzdienstleistungen Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung handeln.
 
-
-## § 3 – Termin und Verfahren zur Einreichung
+# § 3 – Termin und Verfahren zur Einreichung
 
 (1) Der Berichtszeitraum für die Finanzinformationen und die ergänzenden Informationen umfasst ein Quartal. Abweichend davon umfasst der Berichtszeitraum im Falle des § 4 Absatz 2 Satz 1 einen Kalendermonat. Meldestichtag ist jeweils der letzte Kalendertag des Berichtszeitraums.
 
@@ -56,8 +50,7 @@ Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinforma
 
 (4) Die ergänzenden Informationen gemäß § 7 Absatz 1 und 2 sind der zuständigen Hauptverwaltung der Deutschen Bundesbank formlos einzureichen.
 
-
-## § 4 – Finanzinformationen von Kreditinstituten
+# § 4 – Finanzinformationen von Kreditinstituten
 
 (1) Kreditinstitute mit Ausnahme von Wertpapierhandelsbanken im Sinne des § 1 Absatz 3d Satz 5 des Kreditwesengesetzes haben die folgenden Finanzinformationen einzureichen und hierfür die folgenden Formulare aus den Anlagen der Verordnung zu verwenden:
 
@@ -79,8 +72,7 @@ Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinforma
 
 (6) Kreditinstitute, die Teil einer Institutsgruppe, einer Finanzholding-Gruppe oder einer gemischten Finanzholding-Gruppe sind, sind von der Pflicht, Finanzinformationen nach Absatz 1 Nummer 2 einzureichen, befreit, wenn diese Finanzinformationen auf zusammengefasster Basis durch das übergeordnete Unternehmen der Gruppe unter Verwendung des Formulars Planangaben für die Gewinn- und Verlustrechnung – QGVP (Anlage 7) eingereicht werden. Die Befreiung nach Satz 1 gilt entsprechend, wenn das übergeordnete Unternehmen der Gruppe Finanzinformationen nach § 2 Absatz 1 Nummer 2 auf Basis internationaler Rechnungslegungsstandards erstellt und die Bundesanstalt diese Finanzinformationen für die jeweilige Gruppe auf sonstige Weise in gleichwertiger Form erhält. Die Entscheidung über die Gleichwertigkeit trifft die Bundesanstalt.
 
-
-## § 5 – Finanzinformationen von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken
+# § 5 – Finanzinformationen von Finanzdienstleistungsinstituten und Wertpapierhandelsbanken
 
 (1) Finanzdienstleistungsinstitute und Wertpapierhandelsbanken haben die folgenden Finanzinformationen einzureichen und hierfür die folgenden Formulare aus den Anlagen der Verordnung zu verwenden:
 
@@ -90,8 +82,7 @@ Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinforma
 
 (2) Finanzdienstleistungsinstitute, die entweder über die Drittstaateneinlagenvermittlung oder über das Sortengeschäft hinaus keine weiteren nach dem Kreditwesengesetz erlaubnispflichtigen Geschäfte betreiben, sind von der Pflicht, Finanzinformationen nach Absatz 1 einzureichen, befreit.
 
-
-## § 6 – Finanzinformationen auf zusammengefasster Basis
+# § 6 – Finanzinformationen auf zusammengefasster Basis
 
 (1) Übergeordnete Unternehmen haben auf zusammengefasster Basis das Formular Sonstige Angaben – QSA (Anlage 13) einzureichen.
 
@@ -107,8 +98,7 @@ Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Finanzinforma
 
 (+++ § 6: Zur Anwendung vgl. § 8 Abs. 1 F v. 6.12.2013 u. § 13 Abs. 1 +++)
 
-
-## § 7 – Ergänzende Informationen von Finanzdienstleistungsinstituten
+# § 7 – Ergänzende Informationen von Finanzdienstleistungsinstituten
 
 (1) Finanzdienstleistungsinstitute, die die Drittstaateneinlagenvermittlung erbringen, haben ergänzend zu den Finanzinformationen nach Staaten geordnet folgende Informationen einzureichen:
 
@@ -138,15 +128,13 @@ Sorten im Sinne des Satzes 1 sind ausländische Banknoten und Münzen, die geset
 
 (3) Finanzdienstleistungsinstitute nach § 2 Absatz 2 Satz 2 haben ergänzend zu den Finanzinformationen Angaben zu ihrer Eigenmittel-Kosten-Relation sowie ihrer Kapitalquote unter Verwendung des Formulars Meldung der Eigenmittel – EKRQU (Anlage 13a) einzureichen.
 
-
-## § 8 – Art und Umfang der Risikotragfähigkeitsinformationen
+# § 8 – Art und Umfang der Risikotragfähigkeitsinformationen
 
 (1) Die Risikotragfähigkeitsinformationen im Sinne des § 25 Absatz 1 und 2 des Kreditwesengesetzes bestehen aus den Angaben zur Konzeption der Risikotragfähigkeitssteuerung, zum Risikodeckungspotential, zu den Risiken und den Verfahren zu ihrer Ermittlung, Steuerung und Überwachung sowie aus den Angaben zur Kapitalplanung und zum Liquiditätsmanagement gemäß den Formularen in den Anlagen 14 bis 26. Nähere Bestimmungen zu Art und Umfang der jeweils einzureichenden Risikotragfähigkeitsinformationen ergeben sich aus den §§ 10 und 11.
 
 (2) Mit den Formularen werden Pflichtangaben und freiwillige Angaben erhoben, die auf Informationen beruhen, welche den Kreditinstituten und übergeordneten Unternehmen bereits vorliegen. Die Ausgestaltung der Verfahren zur Ermittlung und Sicherstellung der Risikotragfähigkeit durch die Kreditinstitute und übergeordneten Unternehmen wird durch die Risikotragfähigkeitsinformationen gemäß den Anlagen 14 bis 26 nicht berührt.
 
-
-## § 9 – Turnus, Frist und Verfahren zur Einreichung der Risikotragfähigkeitsinformationen
+# § 9 – Turnus, Frist und Verfahren zur Einreichung der Risikotragfähigkeitsinformationen
 
 (1) Nach § 25 Absatz 1 Satz 2 und Absatz 2 Satz 2 des Kreditwesengesetzes haben Kreditinstitute und übergeordnete Unternehmen einmal jährlich Risikotragfähigkeitsinformationen einzureichen. Hat die Bundesanstalt nach § 12 für ein Kreditinstitut oder eine Gruppe eine erhöhte Meldefrequenz angeordnet, so ist der in der Anordnung bestimmte Meldeturnus einschlägig.
 
@@ -154,8 +142,7 @@ Sorten im Sinne des Satzes 1 sind ausländische Banknoten und Münzen, die geset
 
 (3) Die Risikotragfähigkeitsinformationen sind der Deutschen Bundesbank elektronisch zu übermitteln. Die Deutsche Bundesbank veröffentlicht auf ihrer Internetseite die zu verwendenden Datenformate und den Übertragungsweg.
 
-
-## § 10 – Risikotragfähigkeitsinformationen von Kreditinstituten
+# § 10 – Risikotragfähigkeitsinformationen von Kreditinstituten
 
 (1) Kreditinstitute haben die Angaben gemäß § 8 Absatz 1 zu melden und hierfür die Formulare aus den Anlagen 14 und 17 bis 26 dieser Verordnung zu verwenden.
 
@@ -163,102 +150,85 @@ Sorten im Sinne des Satzes 1 sind ausländische Banknoten und Münzen, die geset
 
 (3) Kreditinstitute, die nach § 2a Absatz 2 des Kreditwesengesetzes für das Management von Risiken mit Ausnahme des Liquiditätsrisikos von den Anforderungen an eine ordnungsgemäße Geschäftsorganisation gemäß § 25a Absatz 1 des Kreditwesengesetzes freigestellt sind, sind von der Pflicht, Risikotragfähigkeitsinformationen nach Absatz 1 einzureichen, befreit. Satz 1 gilt entsprechend für Kreditinstitute, für die eine solche Freistellung gemäß § 2a Absatz 5 des Kreditwesengesetzes als gewährt gilt.
 
-
-## § 11 – Risikotragfähigkeitsinformationen auf zusammengefasster Ebene
+# § 11 – Risikotragfähigkeitsinformationen auf zusammengefasster Ebene
 
 (1) Übergeordnete Unternehmen einer Gruppe, zu der mindestens ein Kreditinstitut mit Sitz im Inland gehört, haben die Risikotragfähigkeitsinformationen der Gruppe auf zusammengefasster Ebene gemäß § 8 Absatz 1 einzureichen und hierfür die Formulare aus den Anlagen 14 bis 26 dieser Verordnung zu verwenden.
 
 (2) Gehören zu einer Gruppe keine inländischen Kreditinstitute, die weder Wertpapierhandelsbank noch Kreditinstitut im Sinne des § 53b oder § 53c Absatz 1 Nummer 2 des Kreditwesengesetzes sind, so ist das übergeordnete Unternehmen von der Pflicht, Risikotragfähigkeitsinformationen nach Absatz 1 einzureichen, befreit.
 
-
-## § 12 – Kreditinstitute und Gruppen mit erhöhter Meldefrequenz
+# § 12 – Kreditinstitute und Gruppen mit erhöhter Meldefrequenz
 
 Die Bundesanstalt kann für ein Kreditinstitut oder eine Gruppe im Einzelfall eine erhöhte Meldefrequenz anordnen, soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
+# § 13 – (weggefallen)
 
-## § 13 – (weggefallen)
-
-
-## Anlage 1 – (zu § 4 Abs 1 Nummer 1)GVKI
+# Anlage 1 – (zu § 4 Abs 1 Nummer 1)GVKI
 
 (Fundstelle: BGBl. I 2013, 4213 - 4214)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 4 Absatz 1 Nummer 2) GVKIP
+# Anlage 2 – (zu § 4 Absatz 1 Nummer 2) GVKIP
 
 (Fundstelle: BGBl. I 2013, 4215 - 4216)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 4 Absatz 1 Nummer 3)SAKI
+# Anlage 3 – (zu § 4 Absatz 1 Nummer 3)SAKI
 
 (Fundstelle: BGBl. I 2020, 1891 – 1892)
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 4 – (zu § 5 Absatz 1 Nummer 1)GVFDI
+# Anlage 4 – (zu § 5 Absatz 1 Nummer 1)GVFDI
 
 (Fundstelle: BGBl. I 2013, 4219 - 4220)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 5 – (zu § 5 Absatz 1 Nummer 2)STFDI
+# Anlage 5 – (zu § 5 Absatz 1 Nummer 2)STFDI
 
 (Fundstelle: BGBl. I 2013, 4221 - 4222)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 6 – (zu § 6 Absatz 2 Nummer 1)QGV
+# Anlage 6 – (zu § 6 Absatz 2 Nummer 1)QGV
 
 (Fundstelle: BGBl. I 2013, 4223 - 4224; bzgl. einzelner Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0060.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 7 – (zu § 4 Absatz 6 Satz 1)QGVP
+# Anlage 7 – (zu § 4 Absatz 6 Satz 1)QGVP
 
 (Fundstelle: BGBl. I 2013, 4225 - 4226; bzgl. einzelner Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0070.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 8 – (zu § 6 Absatz 2 Nummer 2)QV 1
+# Anlage 8 – (zu § 6 Absatz 2 Nummer 2)QV 1
 
 (Fundstelle: BGBl. I 2013, 4227 - 4228; bzgl. einzelner Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 9 – (zu § 6 Absatz 2 Nummer 3)QV 2
+# Anlage 9 – (zu § 6 Absatz 2 Nummer 3)QV 2
 
 (Fundstelle: BGBl. I 2013, 4229 - 4230; bzgl. einzelner Änderungen vgl. Fußnote)
 
 <a href="../normengrafiken/bgbl1_2013/j4209_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
+# Anlage 10 – (weggefallen)
 
-## Anlage 10 – (weggefallen)
+# Anlage 11 – (weggefallen)
 
+# Anlage 12 – (weggefallen)
 
-## Anlage 11 – (weggefallen)
-
-
-## Anlage 12 – (weggefallen)
-
-
-## Anlage 13 – (zu § 6 Absatz 1)QSA
+# Anlage 13 – (zu § 6 Absatz 1)QSA
 
 (Fundstelle: BGBl. I 2020, 1893)
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 13a – (zu § zu § 7 Absatz 3)EKRQU
+# Anlage 13a – (zu § zu § 7 Absatz 3)EKRQU
 
 (Fundstelle: BGBl. I 2018, 1088 – 1089)
 
@@ -594,15 +564,13 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
   
 
-
-## Anlage 14
+# Anlage 14
 
 (Fundstelle: BGBl. I 2020, 1894)
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 15
+# Anlage 15
 
 (Fundstelle: BGBl. I 2020, 1895 – 1896)
 
@@ -610,22 +578,19 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 16 – (zu § 11 Absatz 1)
+# Anlage 16 – (zu § 11 Absatz 1)
 
 (Fundstelle: BGBl. I 2014, 2343)
 
 <a href="../normengrafiken/bgbl1_2014/j2336-1_0040.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 17 – (zu § 10 Absatz 1 und § 11 Absatz 1)
+# Anlage 17 – (zu § 10 Absatz 1 und § 11 Absatz 1)
 
 (Fundstelle: BGBl. I 2014, 2344)
 
 <a href="../normengrafiken/bgbl1_2014/j2336-1_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 18
+# Anlage 18
 
 (Fundstelle: BGBl. I 2020, 1897 – 1898)
 
@@ -633,8 +598,7 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0050.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 19
+# Anlage 19
 
 (Fundstelle: BGBl. I 2020, 1899 – 1901)
 
@@ -644,8 +608,7 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0080.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 20
+# Anlage 20
 
 (Fundstelle: BGBl. I 2020, 1902 – 1904)
 
@@ -655,8 +618,7 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0110.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 21
+# Anlage 21
 
 (Fundstelle: BGBl. I 2020, 1905 – 1907)
 
@@ -666,8 +628,7 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0140.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 22
+# Anlage 22
 
 (Fundstelle: BGBl. I 2020, 1908 – 1909)
 
@@ -675,8 +636,7 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0160.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 23
+# Anlage 23
 
 (Fundstelle: BGBl. I 2020, 1910 – 1917)
 
@@ -698,15 +658,13 @@ Berechnung der Quoten auf Basis des Art. 95 Abs. 2 Buchst. b CRR.
 
 Anlage 23 Nr. 6 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "identifziert" abweichend vom Bundesgesetzblatt korrekt in "identifiziert" berichtigt
 
-
-## Anlage 24
+# Anlage 24
 
 (Fundstelle: BGBl. I 2020, 1918)
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0250.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 25
+# Anlage 25
 
 (Fundstelle: BGBl. I 2020, 1919 – 1925)
 
@@ -724,8 +682,7 @@ Anlage 23 Nr. 6 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurd
 
 <a href="../normengrafiken/bgbl1_2020/j1890-1_0320.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 26
+# Anlage 26
 
 (Fundstelle: BGBl. I 2020, 1926 – 1930)
 

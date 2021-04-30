@@ -1,10 +1,7 @@
-# [KAGG/GewOErgG] Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung
-
-Ausfertigungsdatum: 28.07.1969
-
+% Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung
+% Ausfertigungsdatum: 28.07.1969
  
-
-## § 1
+# § 1
 
 (1) Kapitalgesellschaften, die beim Inkrafttreten dieses Gesetzes die in § 1 Abs. 1 und § 23 des Gesetzes über Kapitalgesellschaften aufgeführten Geschäfte mit der Abweichung betreiben, daß das eingelegte Geld zum Erwerb aller oder mehr als der Hälfte der Anteile an einer Kapitalgesellschaft, deren Geschäft auf den Erwerb von Grundstücken nach dem Grundsatz der Risikomischung ausgerichtet ist (Grundstücksgesellschaft), sowie zur Gewährung von Darlehen an diese verwendet wird, sind Kreditinstitute und werden wie Kapitalanlagegesellschaften beaufsichtigt. § 48 Abs. 2 des Gesetzes über Kapitalanlagegesellschaft gilt sinngemäß.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 28.07.1969
 § 1 Abs. 1 Satz 2 Kursivdruck: Jetzt § 51 KAGG 4120-4  
 § 1 Abs. 3 Kursivdruck: Jetzt § 51 KAGG 4120-4
 
-
-## § 2
+# § 2
 
 (1) Die Übertragung des Vermögens der Grundstücksgesellschaft auf das Kreditinstitut bedarf eines Beschlusses der Hauptversammlung (Gesellschafter) der Grundstücksgesellschaft. Dem Beschluß müssen alle Aktionäre (Gesellschafter) zustimmen. Die Zustimmung der Aktionäre, die in der Hauptversammlung (Gesellschafterversammlung) nicht erschienen und nicht vertreten waren, muß gerichtlich oder notariell beurkundet werden. Ist die Grundstücksgesellschaft eine Gesellschaft mit beschränkter Haftung, so kann der Beschluß nur in einer Gesellschafterversammlung gefaßt werden; er muß gerichtlich oder notariell beurkundet werden.
 
@@ -29,20 +25,17 @@ Ausfertigungsdatum: 28.07.1969
 
 § 2 Abs. 1 Kursivdruck: Gerichtliche Beurkundung weggefallen, vgl. § 56 Abs. 4 iVm Abs. 1 G v. 28.8.1969 I 1513
 
-
-## § 3
+# § 3
 
 Geschäfte, die der Anpassung der Rechtsverhältnisse einer Kapitalgesellschaft an die in § 1 Abs. 2 Satz 2 genannten Vorschriften dienen, einschließlich der Berichtigung der öffentlichen Bücher, sind von den in der Kostenordnung bestimmten Gebühren befreit.
 
-
-## § 4
+# § 4
 
 (1) Aufwendungen in Geld für den Erwerb von Anteilscheinen, die von Kapitalgesellschaften im Sinne des § 1 ausgegeben werden, gelten als Sparbeiträge im Sinne des Spar-Prämiengesetzes.
 
 (2) Absatz 1 ist auf Aufwendungen, die nach dem 31. Oktober 1969 gemacht werden, anzuwenden.
 
-
-## § 5
+# § 5
 
 (1) Wird das Vermögen einer Grundstücksgesellschaft nach den Vorschriften des § 2 übertragen, so gelten die Absätze 2 bis 7.
 

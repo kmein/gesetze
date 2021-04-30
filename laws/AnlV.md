@@ -1,10 +1,7 @@
-# [AnlV] Verordnung über die Anlage des Sicherungsvermögens von Pensionskassen, Sterbekassen und kleinen Versicherungsunternehmen  (Anlageverordnung - AnlV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die Anlage des Sicherungsvermögens von Pensionskassen, Sterbekassen und kleinen Versicherungsunternehmen  (Anlageverordnung - AnlV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium der Finanzen verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 217 Satz 1 Nummer 6 in Verbindung mit Satz 3 und 4, auch in Verbindung mi
 –  
 des § 235 Absatz 1 Satz 1 Nummer 10 in Verbindung mit Absatz 2 Satz 2 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434):
 
-
-## § 1 – Anwendungsbereich, Anlagegrundsätze und Anlagemanagement
+# § 1 – Anwendungsbereich, Anlagegrundsätze und Anlagemanagement
 
 (1) Diese Verordnung gilt für die Anlage des Sicherungsvermögens von
 
@@ -33,8 +29,7 @@ des § 235 Absatz 1 Satz 1 Nummer 10 in Verbindung mit Absatz 2 Satz 2 des Versi
 
 (5) Nähere Vorgaben zu den Vorschriften dieser Verordnung und die Darlegungs- und Anzeigepflichten der in Absatz 1 genannten Versicherungsunternehmen bestimmt die Aufsichtsbehörde.
 
-
-## § 2 – Anlageformen
+# § 2 – Anlageformen
 
 (1) Das Sicherungsvermögen kann angelegt werden in
 
@@ -190,8 +185,7 @@ Als Anlagen gelten auch laufende Guthaben.
 
 3. bei Unternehmen, auf die das Versicherungsunternehmen oder seine Konzernunternehmen im Sinne des § 18 des Aktiengesetzes ihren Geschäftsbetrieb ganz oder teilweise im Wege der Ausgliederung (§ 7 Nummer 2 des Versicherungsaufsichtsgesetzes) von Funktionen übertragen haben oder die in unmittelbarem Zusammenhang mit dem Betrieb von Versicherungsgeschäften stehende Tätigkeiten für das Versicherungsunternehmen oder seine Konzernunternehmen im Sinne des § 18 des Aktiengesetzes ausführen, wenn bei diesen Unternehmen der Umfang des Geschäftsbetriebes wesentlich vom Gegenstand der Ausgliederung von Funktionen oder der Dienstleistungstätigkeit bestimmt wird.
 
-
-## § 3 – Mischung
+# § 3 – Mischung
 
 (1) Direkte und indirekte Anlagen nach § 2 Absatz 1 Nummer 2 Buchstabe a und Nummer 8 sowie Anlagen bei Schuldnern mit Sitz in Staaten außerhalb des EWR, bei denen nicht sichergestellt ist, dass sich das Vorrecht des § 315 des Versicherungsaufsichtsgesetzes auf sie erstreckt, sind auf ein vorsichtiges Maß zu beschränken.
 
@@ -213,8 +207,7 @@ Als Anlagen gelten auch laufende Guthaben.
 
 (6) Die Aufsichtsbehörde kann die direkten und indirekten Anlagen nach § 2 Absatz 1 Nummer 2 Buchstabe a, Nummer 9, 12, 13 und die Anlagen, die den Quoten des Absatzes 2 Nummer 2 und 3 unterliegen, bis auf 10 Prozent des Sicherungsvermögens herabsetzen, wenn es zur Wahrung der Belange der Versicherten erforderlich ist. Die gleiche Befugnis steht der Aufsichtsbehörde im Falle des § 135 Absatz 1 erste Alternative des Versicherungsaufsichtsgesetzes zu.
 
-
-## § 4 – Streuung
+# § 4 – Streuung
 
 (1) Vorbehaltlich des Absatzes 2 dürfen alle auf ein und denselben Schuldner entfallenden Anlagen 5 Prozent des Sicherungsvermögens nicht übersteigen. Auf diese Quote und auf die Quoten nach den Absätzen 2, 3 und 4 sind die Anlagen der zehn größten Schuldner in einem offenen Investmentvermögen nach § 2 Absatz 1 Nummer 15 bis 17 anzurechnen. Hat ein Schuldner gegenüber dem Versicherungsunternehmen für Verbindlichkeiten eines Dritten die volle Gewährleistung übernommen, so ist auch diese Gewährleistungsverbindlichkeit auf die Quote nach Satz 1 anzurechnen. Anlagen in Anteilen oder Aktien an einem offenen Investmentvermögen nach § 2 Absatz 1 Nummer 15, 16 und 17 gelten nicht als Anlagen bei ein und demselben Schuldner, wenn das Investmentvermögen in sich ausreichend gestreut ist.
 
@@ -236,8 +229,7 @@ Als Anlagen gelten auch laufende Guthaben.
 
 (6) Anlagen einer Pensionskasse in einem Trägerunternehmen im Sinne des § 7 Absatz 1 Satz 2 Nummer 2 des Betriebsrentengesetzes und in dessen Konzernunternehmen dürfen 5 Prozent des gesamten Vermögens nicht überschreiten. Wird eine Pensionskasse von mehr als zwei Unternehmen getragen, sind Anlagen in diesen Unternehmen auf insgesamt 15 Prozent des gesamten Vermögens begrenzt; Satz 1 bleibt unberührt.
 
-
-## § 5 – Kongruenz
+# § 5 – Kongruenz
 
 Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in der Anlage zu dieser Verordnung in Vermögenswerten anzulegen, die auf dieselbe Währung lauten, in der die Versicherungen erfüllt werden müssen. Dabei gelten
 
@@ -247,8 +239,7 @@ Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in der Anlage zu d
 
 3. nicht in einen organisierten Markt einbezogene Aktien und Anteile als in der Währung des Landes angelegt, in dem der Aussteller der Wertpapiere oder Anteile seinen Sitz hat.
 
-
-## § 6 – Übergangsvorschriften
+# § 6 – Übergangsvorschriften
 
 (1) Anlagen, die bis zum 30. Juni 2010 getätigt worden sind und seitdem auf Grund des § 6 Absatz 1 der Anlageverordnung vom 20. Dezember 2001 (BGBl. I S. 3913) in der Fassung der Verordnung vom 3. März 2015 (BGBl. I S. 188) im Sicherungsvermögen gehalten wurden, können bis zu ihrer Fälligkeit im Sicherungsvermögen verbleiben.
 
@@ -258,13 +249,11 @@ Das Sicherungsvermögen ist nach Maßgabe der Kongruenzregeln in der Anlage zu d
 
 (4) Anlagen des Sicherungsvermögens, die zum Zeitpunkt, ab dem das Vereinigte Königreich Großbritannien und Nordirland nicht mehr Mitgliedstaat der Europäischen Union ist und auch nicht wie ein solcher zu behandeln ist, die Voraussetzungen der jeweiligen Anlageform nach § 2 Absatz 1 deswegen nicht mehr erfüllen, weil das Vereinigte Königreich Großbritannien und Nordirland nicht länger Staat des EWR ist, können weiterhin der jeweiligen Anlageform nach § 2 Absatz 1 zugeordnet werden.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 5 Satz 1)
+# Anlage – (zu § 5 Satz 1)
 
 1. Ist die Deckung eines Versicherungsvertrages in einer bestimmten Währung ausgedrückt, so gelten die Verpflichtungen als in dieser Währung bestehend.
 

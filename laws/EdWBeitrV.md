@@ -1,15 +1,11 @@
-# [EdWBeitrV] Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau  (EdW-Beitragsverordnung - EdWBeitrV)
-
-Ausfertigungsdatum: 19.08.1999
-
+% Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau  (EdW-Beitragsverordnung - EdWBeitrV)
+% Ausfertigungsdatum: 19.08.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 8 Abs. 3 Satz 1 und 2 des Einlagensicherungs- und Anlegerentschädigungsgesetzes vom 16. Juli 1998 (BGBl. I S. 1842) verordnet das Bundesministerium der Finanzen nach Anhörung der Entschädigungseinrichtung für Institute nach § 6 Abs. 1 Satz 2 Nr. 3 des Einlagensicherungs- und Anlegerentschädigungsgesetzes bei der Kreditanstalt für Wiederaufbau:
 
-
-## § 1 – Jahresbeitrag
+# § 1 – Jahresbeitrag
 
 (1) Institute, die der Entschädigungseinrichtung nach § 6 Absatz 1 Satz 1 des Anlegerentschädigungsgesetzes bei der Kreditanstalt für Wiederaufbau (Entschädigungseinrichtung) zugeordnet sind, haben an die Entschädigungseinrichtung spätestens jeweils am 30. September Jahresbeiträge zu leisten. Die Höhe des Jahresbeitrags eines Instituts bemisst sich nach den §§ 2 bis 2d, beträgt aber höchstens 10 Prozent des Jahresüberschusses zuzüglich des Aufwandes der auf Grund einer Gewinngemeinschaft, eines Gewinnabführungs- oder eines Teilgewinnabführungsvertrags abgeführten Gewinne und abzüglich des Ertrages aus einer Verlustübernahme. Die Bildung, Auflösung und Inanspruchnahme von Rückstellungen der Institute für Beitragsverpflichtungen nach dem Anlegerentschädigungsgesetz wird bei der Ermittlung des Jahresüberschusses nach Satz 2 nicht berücksichtigt. Institute, die in der Rechtsform des Einzelkaufmanns, der offenen Handelsgesellschaft oder der Kommanditgesellschaft tätig sind, können ihren Jahresüberschuss nach Satz 2 um ein fiktives Geschäftsführergehalt vermindern, welches auf die Höhe des Jahresüberschusses begrenzt ist. Die Institute haben die Bildung, Auflösung und Inanspruchnahme von Rückstellungen für Beitragsverpflichtungen und die Verminderung des Jahresüberschusses durch ein fiktives Geschäftsführergehalt gegenüber der Entschädigungseinrichtung unter Vorlage des festgestellten Jahresabschlusses im Einzelnen betragsmäßig anzuzeigen.
 
@@ -21,8 +17,7 @@ Auf Grund des § 8 Abs. 3 Satz 1 und 2 des Einlagensicherungs- und Anlegerentsch
 
 (+++ § 1: Zur Anwendung vgl. § 7d +++)
 
-
-## § 2 – Berechnung des Jahresbeitrags
+# § 2 – Berechnung des Jahresbeitrags
 
 (1) Der Jahresbeitrag berechnet sich aus den beitragsrelevanten Erträgen nach Absatz 2, multipliziert mit dem jeweiligen Beitragssatz des Instituts nach den §§ 2a und 2b.
 
@@ -60,8 +55,7 @@ Für Erträge, die unter mehrere Ermäßigungstatbestände des Satzes 4 fallen, 
 
 (+++ § 2: Zur Anwendung vgl. § 7c Abs. 4 +++)
 
-
-## § 2a – Höhe des Beitragssatzes
+# § 2a – Höhe des Beitragssatzes
 
 (1) Der Beitragssatz beträgt
 
@@ -91,8 +85,7 @@ die eidesstattliche Versicherung ist von allen Mitgliedern des zur Vertretung de
 
 (+++ § 2a: Zur Anwendung vgl. § 7d +++)
 
-
-## § 2b – Abweichende Zuordnung zu Beitragsgruppen
+# § 2b – Abweichende Zuordnung zu Beitragsgruppen
 
 Auf Antrag kann die Entschädigungseinrichtung in folgenden Fällen eine abweichende Zuordnung zu den Beitragsgruppen nach § 2a Absatz 1 vornehmen:
 
@@ -104,8 +97,7 @@ Das Institut muss einen Antrag nach Satz 1 spätestens am 1. Juli des jeweiligen
 
 (+++ § 2b: Zur Anwendung vgl. § 7c Abs. 4 +++)
 
-
-## § 2c – Erhöhung des Jahresbeitrags
+# § 2c – Erhöhung des Jahresbeitrags
 
 (1) Der Jahresbeitrag erhöht sich um einen Zuschlag von 20 Prozent, wenn das Institut während des letzten maßgeblichen Geschäftsjahres mindestens 10 000 grundsätzlich entschädigungsberechtigte Gläubiger im Sinne des § 3 Absatz 1 und 2 des Anlegerentschädigungsgesetzes hatte und es sich bei diesen Gläubigern um entschädigungsberechtigte Endkunden handelt, mit denen oder für die es in dem jeweiligen Geschäftsjahr Wertpapiergeschäfte im Sinne des § 1 Absatz 2 des Anlegerentschädigungsgesetzes getätigt hat (Kundenstrukturzuschlag). Bei Instituten mit weniger als 10 000, aber mindestens 5 000 derartigen Gläubigern beträgt der Kundenstrukturzuschlag 15 Prozent des Jahresbeitrags. Bei Instituten mit weniger als 5 000, aber mindestens 1 000 derartigen Gläubigern beträgt der Kundenstrukturzuschlag 10 Prozent des Jahresbeitrags. Für die Angabe und den Nachweis der Gläubigerzahlen gilt § 2 Absatz 4 Satz 5 und Absatz 5 mit der Maßgabe entsprechend, dass bei einer Schätzung der Gläubigerzahlen der Kundenstrukturzuschlag mindestens 10 Prozent beträgt und dass kein Verspätungszuschlag erhoben wird, wenn ausschließlich die Angabe oder der Nachweis der Gläubigerzahlen fehlt.
 
@@ -113,8 +105,7 @@ Das Institut muss einen Antrag nach Satz 1 spätestens am 1. Juli des jeweiligen
 
 (+++ § 2c: Zur Anwendung vgl. § 7d +++)
 
-
-## § 2d – Ermäßigung des Jahresbeitrags
+# § 2d – Ermäßigung des Jahresbeitrags
 
 (1) Der Jahresbeitrag ermäßigt sich vorbehaltlich des Absatzes 3 um einen Abschlag von 15 Prozent für eine bestehende Vertrauensschadenversicherung (Versicherungsabschlag). Die Versicherung muss folgende Bedingungen erfüllen:
 
@@ -150,8 +141,7 @@ Die Versicherungsbedingungen können auch vorsehen, dass die Versicherungsleistu
 
 (+++ § 2d: Zur Anwendung vgl. § 7c Abs. 4 +++)
 
-
-## § 3 – Einmalige Zahlung
+# § 3 – Einmalige Zahlung
 
 (1) Institute, die der Entschädigungseinrichtung nach dem 18. Juli 2013 neu zugeordnet werden, haben zusätzlich zum Jahresbeitrag eine einmalige Zahlung zu leisten. Die Höhe der einmaligen Zahlung entspricht dem nach den §§ 1 bis 2d und 4 ermittelten Jahresbeitrag. Bei Instituten, die keinen Jahresbeitrag zu leisten haben, gilt der Mindestbeitrag nach § 4 als einmalige Zahlung.
 
@@ -159,8 +149,7 @@ Die Versicherungsbedingungen können auch vorsehen, dass die Versicherungsleistu
 
 (3) Die einmalige Zahlung wird zusammen mit dem ersten Jahresbeitrag erhoben. Sie wird mit Bekanntgabe des Bescheides über die einmalige Zahlung fällig.
 
-
-## § 4 – Mindestbeitrag der einmaligen Zahlung
+# § 4 – Mindestbeitrag der einmaligen Zahlung
 
 (1) Der Mindestbeitrag der einmaligen Zahlung beträgt
 
@@ -178,8 +167,7 @@ Bei Festsetzung des Mindestbeitrags der einmaligen Zahlung wird vermutet, dass d
 
 (+++ § 4: Zur Anwendung vgl. § 7d +++)
 
-
-## § 5 – Sonderbeiträge, Sonderzahlungen und Belastungsobergrenze
+# § 5 – Sonderbeiträge, Sonderzahlungen und Belastungsobergrenze
 
 (1) Die Höhe eines Sonderbeitrags oder einer Sonderzahlung nach § 8 Absatz 3 bis 7 des Anlegerentschädigungsgesetzes beträgt für jedes zugeordnete Institut mindestens 1 050 Euro. Für Institute, die befugt sind, sich bei der Erbringung ihrer Dienstleistung Eigentum oder Besitz an Geldern oder Wertpapieren ihrer Kunden zu verschaffen, beträgt die Höhe mindestens 2 100 Euro. § 2a Absatz 2 und § 2b gelten entsprechend.
 
@@ -209,15 +197,13 @@ Kommt ein Institut der Aufforderung innerhalb dieser Frist nicht nach, ist die B
 
 (+++ § 5: Zur Anwendung vgl. § 7d +++)
 
-
-## § 5a – Erhebung von Sonderbeiträgen in Teilbeträgen
+# § 5a – Erhebung von Sonderbeiträgen in Teilbeträgen
 
 (1) Bei der Entscheidung über die Erhebung von Sonderbeiträgen in Teilbeträgen nach § 8 Absatz 3 Satz 2 des Anlegerentschädigungsgesetzes hat die Entschädigungseinrichtung die voraussichtliche Dauer des Entschädigungsverfahrens, insbesondere auf Grund der Anzahl der Anleger und der Komplexität des Entschädigungsverfahrens sowie gegebenenfalls eines Insolvenzverfahrens, den voraussichtlichen Umfang der Gesamtentschädigung im Sinne des § 8 Absatz 4 Satz 3 und 4 des Anlegerentschädigungsgesetzes, die finanzielle Situation der beitragspflichtigen Institute und die voraussichtlich für den Entschädigungsfall zur Verfügung stehenden anderen Mittel zu berücksichtigen. Ungeachtet der Befugnis der Entschädigungseinrichtung, in einem Abrechnungsjahr Sonderbeiträge und Sonderzahlungen zu erheben, sollen Sonderbeiträge in Teilbeträgen mindestens im Abstand eines Jahres erhoben werden. Die Sonderbeitragspflicht besteht für alle Unternehmen, die der Entschädigungseinrichtung zu Beginn des Abrechnungsjahres, in dem ein Teilbetrag erhoben wird, zugeordnet waren. Die Höhe des von einem Institut zu tragenden Sonderbeitrags ist für jeden Teilbetrag gesondert nach § 8 Absatz 7 des Anlegerentschädigungsgesetzes zu bestimmen.
 
 (2) Die Entschädigungseinrichtung hat die Institute vor Erhebung des ersten Teilbetrags über die beabsichtigte Vorgehensweise der Beitragserhebung zu informieren. Die Information soll den von der Entschädigungseinrichtung festgestellten Mittelbedarf, die voraussichtliche Höhe der von den Instituten insgesamt zu erhebenden Teilbeträge und die beabsichtigten Zeitpunkte für die Beitragserhebung umfassen.
 
-
-## § 5b – Befreiung von der Pflicht zur Leistung von Sonderbeiträgen und Sonderzahlungen
+# § 5b – Befreiung von der Pflicht zur Leistung von Sonderbeiträgen und Sonderzahlungen
 
 (1) Eine vollständige oder teilweise Befreiung von der Pflicht zur Leistung eines Sonderbeitrags oder einer Sonderzahlung nach § 8 Absatz 7 Satz 8 des Anlegerentschädigungsgesetzes erfolgt nur auf Antrag des betroffenen Instituts. Das Institut muss die Befreiung innerhalb der für die Anfechtung des jeweiligen Sonderbeitrags- oder Sonderzahlungsbescheids maßgeblichen Widerspruchsfrist beantragen und die Bestätigung eines Wirtschaftsprüfers oder einer Wirtschaftsprüfungsgesellschaft vorlegen, dass durch die Gesamtheit der an die Entschädigungseinrichtung im jeweiligen Abrechnungsjahr zu leistenden Zahlungen Gefahr für die Erfüllung der Verpflichtungen gegenüber seinen Gläubigern bestehen würde und die Voraussetzungen für die Anordnung von Maßnahmen nach § 46 Absatz 1 Satz 1 des Kreditwesengesetzes gegeben wären. Die Bestätigung nach Satz 2 kann innerhalb von zwei Monaten, nachdem der jeweilige Sonderbeitrags- oder Sonderzahlungsbescheid dem Institut bekannt gegeben worden ist, nachgereicht werden.
 
@@ -225,13 +211,11 @@ Kommt ein Institut der Aufforderung innerhalb dieser Frist nicht nach, ist die B
 
 (+++ § 5b: Zur Anwendung vgl. § 7c Abs. 4 +++)
 
-
-## § 5c – Verzugszinsen
+# § 5c – Verzugszinsen
 
 Ist bis zum Ablauf von 30 Tagen nach dem Fälligkeitstermin der Jahresbeitrag, der Sonderbeitrag, die Sonderzahlung, die einmalige Zahlung oder der Mindestbeitrag nach § 4 nicht entrichtet worden, erhebt die Entschädigungseinrichtung Verzugszinsen, sofern die Verzugszinsen 50 Euro übersteigen. Ergänzend sind die Vorschriften des Bürgerlichen Gesetzbuchs zum Schuldnerverzug entsprechend anzuwenden.
 
-
-## § 6 – Bestätigung durch Prüfer
+# § 6 – Bestätigung durch Prüfer
 
 Bei Instituten, deren Bilanzsumme im letzten Geschäftsjahr 150 Millionen Euro nicht übersteigt, können die Bestätigungen nach § 2 Absatz 2 Satz 5 und Absatz 4, § 2a Absatz 2 Satz 3, § 2b Satz 2 sowie § 2c Absatz 1 Satz 4 und § 5b auch durch vereidigte Buchprüfer oder Buchprüfungsgesellschaften vorgenommen werden. Diese Bestätigungen können auch von einem Steuerberater erteilt werden, wenn
 
@@ -241,8 +225,7 @@ Bei Instituten, deren Bilanzsumme im letzten Geschäftsjahr 150 Millionen Euro n
 
 (+++ § 6: Zur Anwendung vgl. § 7d +++)
 
-
-## § 7 – Übergangsvorschriften
+# § 7 – Übergangsvorschriften
 
 (1) In den Jahren 1999 und 2000 können 90 Prozent der Bruttoerträge aus Finanzgeschäften bei der Ermittlung gemäß § 2 Abs. 2 ohne Nachweis unberücksichtigt bleiben.
 
@@ -262,8 +245,7 @@ Bei Instituten, deren Bilanzsumme im letzten Geschäftsjahr 150 Millionen Euro n
 
 (9) Bei Instituten, die der Entschädigungseinrichtung vor dem 26. August 2009 zugeordnet worden sind, wird die einmalige Zahlung weiter nach den §§ 3 und 4 dieser Verordnung in der bis zum 25. August 2009 geltenden Fassung erhoben.
 
-
-## § 7a – Übergangsvorschriften zur Fünften Verordnung zur Änderung der EdW-Beitragsverordnung
+# § 7a – Übergangsvorschriften zur Fünften Verordnung zur Änderung der EdW-Beitragsverordnung
 
 (1) Auf Institute, die der Entschädigungseinrichtung vor Ablauf des 18. Juli 2013 zugeordnet worden sind, sind die §§ 3 und 4 in der bis zum 18. Juli 2013 geltenden Fassung weiter anzuwenden.
 
@@ -271,13 +253,11 @@ Bei Instituten, deren Bilanzsumme im letzten Geschäftsjahr 150 Millionen Euro n
 
 (3) Die §§ 1 bis 5, 5b und 6 in der ab dem 19. Juli 2013 geltenden Fassung sind erstmals auf das am 30. September 2013 endende Abrechnungsjahr anzuwenden. In den Fällen, in denen in diesen Vorschriften der 1. Juli als Stichtag genannt ist, wird dieser für das am 30. September 2013 endende Abrechnungsjahr durch den Stichtag 16. August 2013 ersetzt. In den Fällen, in denen in der Verordnung der 15. August als Stichtag genannt ist, wird dieser für das am 30. September 2013 endende Abrechnungsjahr durch den Stichtag 30. August 2013 ersetzt.
 
-
-## § 7b – Subdelegation
+# § 7b – Subdelegation
 
 Die Befugnis zum Erlass von Änderungen dieser Verordnung durch Rechtsverordnung wird gemäß § 8 Absatz 9 Satz 3 des Anlegerentschädigungsgesetzes auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
-
-## § 7c – Übergangsvorschriften zur sechsten Verordnung zur Änderung der EdW-Beitragsverordnung
+# § 7c – Übergangsvorschriften zur sechsten Verordnung zur Änderung der EdW-Beitragsverordnung
 
 (1) Institute, die vor dem 22. Juli 2014 Zuführungen zu Sonderposten gemäß den §§ 340g und 340e Absatz 4 des Handelsgesetzbuchs vorgenommen haben, haben dies der Entschädigungseinrichtung bis zum 12. August 2014 mit dem für das Abrechnungsjahr vom 1. Oktober 2012 bis zum 30. September 2013 maßgeblichen festgestellten Jahresabschluss im Einzelnen betragsmäßig anzuzeigen. § 2 Absatz 4 gilt entsprechend.
 
@@ -287,17 +267,14 @@ Die Befugnis zum Erlass von Änderungen dieser Verordnung durch Rechtsverordnung
 
 (4) Die §§ 2, 2a, 2b, 2c, 2d, 5 und 5b in der ab dem 22. Juli 2014 geltenden Fassung sind erstmals auf das am 30. September 2014 endende Abrechnungsjahr anzuwenden.
 
-
-## § 7d – Übergangsvorschriften zur Siebten Verordnung zur Änderung der EdW-Beitragsverordnung
+# § 7d – Übergangsvorschriften zur Siebten Verordnung zur Änderung der EdW-Beitragsverordnung
 
 Die §§ 1, 2a, 2c, 4, 5 und 6 in der ab dem 8. Dezember 2016 geltenden Fassung sind erstmals auf das am 30. September 2017 endende Abrechnungsjahr anzuwenden.
 
-
-## § 7e – Übergangsvorschriften zur Achten Verordnung zur Änderung der EdW-Beitragsverordnung
+# § 7e – Übergangsvorschriften zur Achten Verordnung zur Änderung der EdW-Beitragsverordnung
 
 Die §§ 1, 2 und 2a in der ab dem 31. August 2018 geltenden Fassung sind erstmals auf das am 30. September 2018 endende Abrechnungsjahr anzuwenden.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

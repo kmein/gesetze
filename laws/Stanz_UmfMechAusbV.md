@@ -1,25 +1,19 @@
-# [Stanz/UmfMechAusbV] Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin
-
-Ausfertigungsdatum: 02.04.2013
-
+% Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin
+% Ausfertigungsdatum: 02.04.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit Absatz 4 und § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Stanz- und Umformmechaniker und Stanz- und Umformmechanikerin wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 3 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -56,8 +50,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 4 – Durchführung der Berufsausbildung
+# § 4 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 5 bis 7 nachzuweisen.
 
@@ -65,13 +58,11 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 5 – Abschlussprüfung
+# § 5 – Abschlussprüfung
 
 Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
-
-## § 6 – Teil 1 der Abschlussprüfung
+# § 6 – Teil 1 der Abschlussprüfung
 
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -95,8 +86,7 @@ d) Prüfmittel anzuwenden;
 
 3. die Prüfungszeit beträgt für das Prüfungsstück sechs Stunden und für die schriftlich zu bearbeitenden Aufgaben 60 Minuten.
 
-
-## § 7 – Teil 2 der Abschlussprüfung
+# § 7 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -180,8 +170,7 @@ f) Qualitätsmerkmale auszuwerten und Ursachen für Qualitätsabweichungen fests
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelungen
+# § 8 – Gewichtungs- und Bestehensregelungen
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -221,17 +210,14 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche Produktionstechnik, Produktionssysteme oder Wirtschafts- und Sozialkunde durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Anrechnungsregelung
+# § 9 – Anrechnungsregelung
 
 Die erfolgreich abgeschlossene Berufsausbildung zur Fachkraft für Metalltechnik in der Fachrichtung Umform- und Drahttechnik kann unter Berücksichtigung der hierbei erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten im Umfang von zwei Jahren auf die Dauer einer Berufsausbildung nach dieser Verordnung angerechnet werden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin
+# Anlage – (zu § 3 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin
 
 (Fundstelle: BGBl. I 2013, 644 - 647)

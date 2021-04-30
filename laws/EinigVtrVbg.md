@@ -1,10 +1,7 @@
-# [EinigVtrVbg] Vereinbarung zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag -
-
-Ausfertigungsdatum: 18.09.1990
-
+% Vereinbarung zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag -
+% Ausfertigungsdatum: 18.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
   
   
@@ -21,8 +18,7 @@ in dem Bestreben, die Durchführung und Auslegung des am 31. August 1990 in Berl
 in Ausfüllung des Artikels 9 Abs. 3 des Einigungsvertrags -  
 sind übereingekommen, eine Vereinbarung mit den nachfolgenden Bestimmungen zu schließen:
 
-
-## Art 1
+# Art 1
 
 Zu der Frage der weiteren Vorgehensweise hinsichtlich der vom ehemaligen Staatssicherheitsdienst der Deutschen Demokratischen Republik gewonnenen personenbezogenen Informationen stellen die Regierungen der beiden Vertragsparteien übereinstimmend fest:
 
@@ -55,13 +51,11 @@ geschaffen wird.
 
 9. Die Regierungen der beiden Vertragsparteien gehen davon aus, daß die Gesetzgebungsarbeit zur endgültigen Regelung dieser Materie unverzüglich nach dem 3. Oktober 1990 aufgenommen wird. Dabei soll das Volkskammergesetz in Verbindung mit dem Einigungsvertrag als Grundlage dienen.
 
-
-## Art 2
+# Art 2
 
 Die vertragschließenden Seiten geben ihrer Absicht Ausdruck, gemäß Beschluß der Volkskammer der Deutschen Demokratischen Republik vom 14. April 1990 für eine gerechte Entschädigung materieller Verluste der Opfer des NS-Regimes einzutreten. In der Kontinuität der Politik der Bundesrepublik Deutschland ist die Bundesregierung bereit, mit der Claims Conference Vereinbarungen über eine zusätzliche Fondslösung zu treffen, um Härteleistungen an die Verfolgten vorzusehen, die nach den gesetzlichen Vorschriften der Bundesrepublik Deutschland bisher keine oder nur geringfügige Entschädigungen erhalten haben.
 
-
-## Art 3
+# Art 3
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend.
 
@@ -391,8 +385,7 @@ Die Durchführungsbestimmung und die Verordnungen treten mit Wirksamwerden des B
 bb)  
 Sie bleiben bis zum Erlaß anderweitiger landesrechtlicher Regelungen in Kraft, längstens jedoch bis zum 30. Juni 1991.
 
-
-## Art 4
+# Art 4
 
 Der am 31. August 1990 in Berlin unterzeichnete Vertrag über die Herstellung der Einheit Deutschlands (Einigungsvertrag) wird wie folgt geändert:
 
@@ -449,8 +442,7 @@ b) Mit Wirksamwerden des Beitritts tritt § 81 außer Kraft.
 
 10. In Anlage II Kapitel III Sachgebiet A Abschnitt I wird Nummer 8 wie folgt gefaßt:
 
-"8.  
-Durchführungsbestimmung zum Richtergesetz - Ordnung zur Wahl und Berufung ehrenamtlicher Richter - vom 1. September 1990 (GBl. I Nr. 62 S. ...)".
+"8. Durchführungsbestimmung zum Richtergesetz - Ordnung zur Wahl und Berufung ehrenamtlicher Richter - vom 1. September 1990 (GBl. I Nr. 62 S. ...)".
 
 Die bisherige Nr. 9 entfällt. Die bisherigen Nummern 10 und 11 werden Nummern 9 und 10,
 
@@ -523,8 +515,7 @@ Unterhaltssicherungsverordnung vom 19. Mai 1988 (GBl. I Nr. 11 S. 129), geänder
 
 21. In Anlage II Kapitel XIII Sachgebiet B Abschnitt III Nr. 2 werden im einleitenden Satz nach der Klammer die Worte ", geändert durch die Anordnung Nr. 2 vom 31. August 1990 (GBl. I Nr. 60 S. 1478)" angefügt.
 
-
-## Art 5
+# Art 5
 
 Der am 31. August 1990 in Berlin unterzeichnete Vertrag über die Herstellung der Einheit Deutschlands (Einigungsvertrag) wird wie folgt berichtigt:
 
@@ -586,18 +577,15 @@ Dieses Gesetz ist mit Wirkung vom 1. Juli 1990 anzuwenden, die Bestimmungen des 
 "a)  
 Die Gebühren richten sich nach der Anordnung vom 4. September 1990 über die Erhöhung der Hör-, Rundfunk- und Fernseh-Rundfunkgebühren (GBl. I Nr. 59 S. 1449)."
 
-
-## Art 6
+# Art 6
 
 Bei Zweifeln oder Unstimmigkeiten über den Inhalt des Vertrags oder seiner Anlagen ist diese Vereinbarung maßgebend.
 
-
-## Art 7
+# Art 7
 
 Diese Vereinbarung tritt gleichzeitig mit dem am 31. August 1990 unterzeichneten Vertrag in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Bonn, den 18. September 1990
 

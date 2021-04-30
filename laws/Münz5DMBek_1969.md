@@ -1,10 +1,7 @@
-# [Münz5DMBek 1969] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Fontane-Gedenkmünze)
-
-Ausfertigungsdatum: 04.11.1969
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Fontane-Gedenkmünze)
+% Ausfertigungsdatum: 04.11.1969
  
-
-## ----
+# ----
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist zur Erinnerung an den Dichter und Schriftsteller Theodor Fontane, geboren am 30. Dezember 1819, gestorben am 20. September 1898, eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die am 17. November 1969 in den Verkehr gebracht wird.
 
@@ -22,13 +19,11 @@ Ausfertigungsdatum: 04.11.1969
 
 (8) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

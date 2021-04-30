@@ -1,15 +1,11 @@
-# [DIVIIntRegV] Verordnung zur Aufrechterhaltung und Sicherung intensivmedizinischer Krankenhauskapazitäten  (DIVI IntensivRegister-Verordnung)
-
-Ausfertigungsdatum: 08.04.2020
-
+% Verordnung zur Aufrechterhaltung und Sicherung intensivmedizinischer Krankenhauskapazitäten  (DIVI IntensivRegister-Verordnung)
+% Ausfertigungsdatum: 08.04.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Absatz 2 Nummer 7 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 4 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Verpflichtung zur Registrierung und Übermittlung intensivmedizinischer Behandlungskapazitäten
+# § 1 – Verpflichtung zur Registrierung und Übermittlung intensivmedizinischer Behandlungskapazitäten
 
 (1) Alle zugelassenen Krankenhäuser, die im Rahmen ihres Versorgungsauftrags oder aufgrund einer Genehmigung der für die Krankenhausplanung zuständigen Landesbehörde nach § 21 Absatz 5 Satz 1 des Krankenhausfinanzierungsgesetzes intensivmedizinische Behandlungskapazitäten vorhalten, sind verpflichtet, sich bis zum 16. April 2020 auf der Internetseite www.intensivregister.de in dem DIVI IntensivRegister der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI IntensivRegister) zu registrieren und die für die Kapazitätsermittlung erforderlichen Angaben zur Anzahl der verfügbaren intensivmedizinischen Behandlungskapazitäten nach Absatz 2 und die Angaben nach Absatz 3 täglich bis 12:00 Uhr an das DIVI IntensivRegister zu übermitteln. Die Angaben können sowohl über die Weboberfläche des DIVI IntensivRegisters oder in maschinenlesbarer Form aus anderen IT-Systemen übermittelt werden.
 
@@ -39,17 +35,14 @@ Darüber hinaus übermitteln die Krankenhäuser eine Einschätzung der maximalen
 
 (4) Das Robert Koch-Institut kann im Einvernehmen mit dem Bundesministerium für Gesundheit das Nähere über die einheitliche technische Aufbereitung der Angaben nach den Absätzen 2 und 3, die Anforderungen an die Qualifikation der die Angaben übermittelnden Personen und die Festlegung der Krankenhausbereiche bestimmen, für die die Angaben zu übermitteln sind.
 
-
-## § 2 – Nachweispflichten
+# § 2 – Nachweispflichten
 
 Die Krankenhäuser weisen mit der wöchentlichen Meldung nach § 21 Absatz 2 Satz 3 des Krankenhausfinanzierungsgesetzes an die für die Krankenhausplanung zuständige Landesbehörde einmalig die Registrierung in dem DIVI IntensivRegister und mit jeder wöchentlichen Meldung die tägliche Übermittlung der Angaben nach § 1 Absatz 2 und 3 in dem DIVI IntensivRegister nach.
 
-
-## § 3 – Sanktion
+# § 3 – Sanktion
 
 Für jeden Tag, an dem ein Krankenhaus die Pflichten nach § 1 nicht, nicht vollständig oder nicht fristgerecht erfüllt, kürzt die für die Krankenhausplanung zuständige Landesbehörde die Höhe der tagesbezogenen Pauschale nach § 21 Absatz 3 des Krankenhausfinanzierungsgesetzes um 10 Prozent. Die für die Krankenhausplanung zuständige Landesbehörde hat die Erfüllung der Pflichten nach § 1 in geeigneter Weise zu überprüfen. Das Robert Koch-Institut übermittelt an die jeweils für die Krankenhausplanung zuständige Landesbehörde einmal wöchentlich eine nach Krankenhäusern differenzierte Übersicht über die Tage, an denen die Pflichten nach § 1 vollständig und fristgerecht erfüllt wurden.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.

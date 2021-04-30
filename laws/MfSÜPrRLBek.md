@@ -1,10 +1,7 @@
-# [MfSÜPrRLBek] Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
-
-Ausfertigungsdatum: 13.12.1991
-
+% Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik
+% Ausfertigungsdatum: 13.12.1991
  
-
-## ----
+# ----
 
 Gemäß § 44c des Abgeordnetengesetzes werden die folgenden Richtlinien erlassen:
 
@@ -36,7 +33,6 @@ Der Vorsitzende des 1. Ausschusses unterrichtet den Präsidenten des Deutschen B
 
 6. Die Feststellung des 1. Ausschusses über ein Mitglied des Bundestages wird unter Angabe der wesentlichen Gründe als Bundestagsdrucksache veröffentlicht. In die Bundestagsdrucksache ist auf Verlangen eine Erklärung des betroffenen Mitgliedes des Bundestages in angemessenem Umfang aufzunehmen.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Präsidentin des Deutschen Bundestages

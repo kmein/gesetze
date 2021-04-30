@@ -1,10 +1,7 @@
-# [FeV] Verordnung über die Zulassung von Personen zum Straßenverkehr  (Fahrerlaubnis-Verordnung - FeV)
-
-Ausfertigungsdatum: 13.12.2010
-
+% Verordnung über die Zulassung von Personen zum Straßenverkehr  (Fahrerlaubnis-Verordnung - FeV)
+% Ausfertigungsdatum: 13.12.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund des
 
@@ -14,16 +11,13 @@ Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 –  
 § 6 Absatz 1 Nummer 1 Buchstabe f in Verbindung mit Absatz 2a des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 2a durch Artikel 2 Nummer 4 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958) geändert worden ist, gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Grundregel der Zulassung
+# § 1 – Grundregel der Zulassung
 
 Zum Verkehr auf öffentlichen Straßen ist jeder zugelassen, soweit nicht für die Zulassung zu einzelnen Verkehrsarten eine Erlaubnis vorgeschrieben ist.
 
-
-## § 2 – Eingeschränkte Zulassung
+# § 2 – Eingeschränkte Zulassung
 
 (1) Wer sich infolge körperlicher oder geistiger Beeinträchtigungen nicht sicher im Verkehr bewegen kann, darf am Verkehr nur teilnehmen, wenn Vorsorge getroffen ist, dass er andere nicht gefährdet. Die Pflicht zur Vorsorge, namentlich durch das Anbringen geeigneter Einrichtungen an Fahrzeugen, durch den Ersatz fehlender Gliedmaßen mittels künstlicher Glieder, durch Begleitung oder durch das Tragen von Abzeichen oder Kennzeichen, obliegt dem Verkehrsteilnehmer selbst oder einem für ihn Verantwortlichen.
 
@@ -31,25 +25,21 @@ Zum Verkehr auf öffentlichen Straßen ist jeder zugelassen, soweit nicht für d
 
 (3) Andere Verkehrsteilnehmer dürfen die in Absatz 2 genannten Kennzeichen im Straßenverkehr nicht verwenden.
 
-
-## § 3 – Einschränkung und Entziehung der Zulassung
+# § 3 – Einschränkung und Entziehung der Zulassung
 
 (1) Erweist sich jemand als ungeeignet oder nur noch bedingt geeignet zum Führen von Fahrzeugen oder Tieren, hat die Fahrerlaubnisbehörde ihm das Führen zu untersagen, zu beschränken oder die erforderlichen Auflagen anzuordnen. Nach der Untersagung, auf öffentlichen Straßen ein Mofa nach § 4 Absatz 1 Satz 2 Nummer 1 oder ein Kraftfahrzeug nach § 4 Absatz 1 Satz 2 Nummer 1b zu führen, ist die Prüfbescheinigung nach § 5 Absatz 4 Satz 1 unverzüglich der entscheidenden Behörde abzuliefern oder bei Beschränkungen oder Auflagen zur Eintragung vorzulegen. Die Verpflichtung zur Ablieferung oder Vorlage der Prüfbescheinigung besteht auch, wenn die Entscheidung angefochten worden ist, die zuständige Behörde jedoch die sofortige Vollziehung ihrer Verfügung angeordnet hat.
 
 (2) Rechtfertigen Tatsachen die Annahme, dass der Führer eines Fahrzeugs oder Tieres zum Führen ungeeignet oder nur noch bedingt geeignet ist, finden die Vorschriften der §§ 11 bis 14 entsprechend Anwendung.
 
-
-## § 4 – Erlaubnispflicht und Ausweispflicht für das Führen von Kraftfahrzeugen
+# § 4 – Erlaubnispflicht und Ausweispflicht für das Führen von Kraftfahrzeugen
 
 (1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt, bedarf der Fahrerlaubnis. Ausgenommen sind
 
 1. einspurige Fahrräder mit Hilfsmotor – auch ohne Tretkurbeln –, wenn ihre Bauart Gewähr dafür bietet, dass die Höchstgeschwindigkeit auf ebener Bahn nicht mehr als 25 km/h beträgt (Mofas); besondere Sitze für die Mitnahme von Kindern unter sieben Jahren dürfen jedoch angebracht sein,
 
-1a.  
-Elektrokleinstfahrzeuge nach § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung,
+1a. Elektrokleinstfahrzeuge nach § 1 Absatz 1 der Elektrokleinstfahrzeuge-Verordnung,
 
-1b.  
-zweirädrige Kraftfahrzeuge der Klasse L1e-B und dreirädrige Kraftfahrzeuge der Klassen L2e-P und L2e-U nach Artikel 4 Absatz 2 Buchstabe a und b der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 52) oder nicht EU-typgenehmigte Fahrzeuge mit den jeweils gleichen technischen Eigenschaften, wenn ihre Bauart Gewähr dafür bietet, dass die Höchstgeschwindigkeit auf ebener Bahn auf höchstens 25 km/h beschränkt ist,
+1b. zweirädrige Kraftfahrzeuge der Klasse L1e-B und dreirädrige Kraftfahrzeuge der Klassen L2e-P und L2e-U nach Artikel 4 Absatz 2 Buchstabe a und b der Verordnung (EU) Nr. 168/2013 des Europäischen Parlaments und des Rates vom 15. Januar 2013 über die Genehmigung und Marktüberwachung von zwei- oder dreirädrigen und vierrädrigen Fahrzeugen (ABl. L 60 vom 2.3.2013, S. 52) oder nicht EU-typgenehmigte Fahrzeuge mit den jeweils gleichen technischen Eigenschaften, wenn ihre Bauart Gewähr dafür bietet, dass die Höchstgeschwindigkeit auf ebener Bahn auf höchstens 25 km/h beschränkt ist,
 
 2. motorisierte Krankenfahrstühle (einsitzige, nach der Bauart zum Gebrauch durch körperlich behinderte Personen bestimmte Kraftfahrzeuge mit Elektroantrieb, einer Leermasse von nicht mehr als 300 kg einschließlich Batterien jedoch ohne Fahrer, einer zulässigen Gesamtmasse von nicht mehr als 500 kg, einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 15 km/h und einer Breite über alles von maximal 110 cm),
 
@@ -59,8 +49,7 @@ zweirädrige Kraftfahrzeuge der Klasse L1e-B und dreirädrige Kraftfahrzeuge der
 
 (3) Abweichend von Absatz 2 Satz 1 kann die Fahrerlaubnis auch durch eine andere Bescheinigung als den Führerschein nachgewiesen werden, soweit dies ausdrücklich bestimmt oder zugelassen ist. Absatz 2 Satz 2 gilt für eine Bescheinigung im Sinne des Satzes 1 entsprechend.
 
-
-## § 5 – Sonderbestimmungen für das Führen von Mofas und geschwindigkeitsbeschränkten Kraftfahrzeugen
+# § 5 – Sonderbestimmungen für das Führen von Mofas und geschwindigkeitsbeschränkten Kraftfahrzeugen
 
 (1) Wer auf öffentlichen Straßen ein Mofa (§ 4 Absatz 1 Satz 2 Nummer 1) oder ein Kraftfahrzeug, das den Bestimmungen des § 4 Absatz 1 Satz 2 Nummer 1b entspricht, führt, muss in einer Prüfung nachgewiesen haben, dass er
 
@@ -78,8 +67,7 @@ Die Prüfung muss nicht ablegen, wer eine Fahrerlaubnis nach § 4 oder eine zum 
 
 (5) Wer die Prüfung noch nicht abgelegt hat, darf ein Mofa nach § 4 Absatz 1 Satz 2 Nummer 1 oder ein Kraftfahrzeug nach § 4 Absatz 1 Satz 2 Nummer 1b auf öffentlichen Straßen führen, wenn er von einem zur Ausbildung berechtigten Fahrlehrer beaufsichtigt wird; der Fahrlehrer gilt als Führer des Fahrzeugs.
 
-
-## § 6 – Einteilung der Fahrerlaubnisklassen
+# § 6 – Einteilung der Fahrerlaubnisklassen
 
 (1) Die Fahrerlaubnis wird in folgenden Klassen erteilt:
 
@@ -276,8 +264,7 @@ Satz 1 gilt für die Fahrerlaubnis der Klassen C1E, C und CE entsprechend.
 
 (7) (weggefallen)
 
-
-## § 6a – Fahrerlaubnis der Klasse B mit der Schlüsselzahl 96
+# § 6a – Fahrerlaubnis der Klasse B mit der Schlüsselzahl 96
 
 (1) Die Fahrerlaubnis der Klasse B kann mit der Schlüsselzahl 96 erteilt werden für Fahrzeugkombinationen bestehend aus einem Kraftfahrzeug der Klasse B und einem Anhänger mit einer zulässigen Gesamtmasse von mehr als 750 kg, sofern die zulässige Gesamtmasse der Fahrzeugkombination 3 500 kg überschreitet, aber 4 250 kg nicht übersteigt. Die Schlüsselzahl 96 darf nur zugeteilt werden, wenn der Bewerber bereits die Fahrerlaubnis der Klasse B besitzt oder die Voraussetzungen für deren Erteilung erfüllt hat; in diesem Fall darf die Schlüsselzahl 96 frühestens mit der Fahrerlaubnis für die Klasse B zugeteilt werden.
 
@@ -287,8 +274,7 @@ Satz 1 gilt für die Fahrerlaubnis der Klassen C1E, C und CE entsprechend.
 
 (4) Beim Antrag auf Eintragung der Schlüsselzahl 96 in die Klasse B ist vor deren Eintragung der Nachweis einer Fahrerschulung nach dem Muster nach Anlage 7a beizubringen.
 
-
-## § 6b – Fahrerlaubnis der Klasse B mit der Schlüsselzahl 196
+# § 6b – Fahrerlaubnis der Klasse B mit der Schlüsselzahl 196
 
 (1) Die Fahrerlaubnis der Klasse B kann mit der Schlüsselzahl 196 erteilt werden für Krafträder(auch mit Beiwagen) mit einem Hubraum von bis zu 125 cm³, einer Motorleistung von nicht mehr als 11 kW, bei denen das Verhältnis der Leistung zum Gewicht 0,1 kW/kg nicht übersteigt. Die Schlüsselzahl 196 darf nur zugeteilt werden, wenn der Teilnehmer bereits seit mindestens fünf Jahren die Fahrerlaubnis der Klasse B besitzt. Die Regelungen der Anlage 3 bleiben unberührt. Die Berechtigung nach Satz 1 gilt nur im Inland.
 
@@ -302,8 +288,7 @@ Satz 1 gilt für die Fahrerlaubnis der Klassen C1E, C und CE entsprechend.
 
 (6) Die Auswirkungen der Absätze 1 bis 5 werden von der Bundesanstalt für Straßenwesen evaluiert. Mit der Evaluierung wird insbesondere die Wirkung im Hinblick auf die Verkehrssicherheit untersucht. Die Bundesanstalt für Straßenwesen legt das Ergebnis der Evaluierung bis zum 1. Juli 2022 dem Bundesministerium für Verkehr und digitale Infrastruktur vor. Für Zwecke der Evaluation dürfen personenbezogene Daten der Teilnehmer nach Maßgabe des Bundesdatenschutzgesetzes erhoben und verwendet werden. Die Daten sind spätestens am 31. Dezember 2023 zu löschen oder so zu anonymisieren oder zu pseudonymisieren, dass ein Personenbezug nicht mehr hergestellt werden kann.
 
-
-## § 7 – Ordentlicher Wohnsitz im Inland
+# § 7 – Ordentlicher Wohnsitz im Inland
 
 (1) Eine Fahrerlaubnis darf nur erteilt werden, wenn der Bewerber seinen ordentlichen Wohnsitz in der Bundesrepublik Deutschland hat. Dies wird angenommen, wenn der Bewerber wegen persönlicher und beruflicher Bindungen oder – bei fehlenden beruflichen Bindungen – wegen persönlicher Bindungen, die enge Beziehungen zwischen ihm und dem Wohnort erkennen lassen, gewöhnlich, das heißt während mindestens 185 Tagen im Jahr, im Inland wohnt. Ein Bewerber, dessen persönliche Bindungen im Inland liegen, der sich aber aus beruflichen Gründen in einem oder mehreren anderen Staaten aufhält, hat seinen ordentlichen Wohnsitz im Sinne dieser Vorschrift im Inland, sofern er regelmäßig hierhin zurückkehrt. Die Voraussetzung entfällt, wenn sich der Bewerber zur Ausführung eines Auftrags von bestimmter Dauer in einem solchen Staat aufhält.
 
@@ -311,13 +296,11 @@ Satz 1 gilt für die Fahrerlaubnis der Klassen C1E, C und CE entsprechend.
 
 (3) Bewerber, die bislang ihren ordentlichen Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hatten und die sich ausschließlich wegen des Besuchs einer Hochschule oder Schule im Inland aufhalten, begründen keinen ordentlichen Wohnsitz im Inland. Ihnen wird die Fahrerlaubnis erteilt, wenn die Dauer des Aufenthalts mindestens sechs Monate beträgt.
 
-
-## § 8 – Ausschluss des Vorbesitzes einer Fahrerlaubnis der beantragten Klasse
+# § 8 – Ausschluss des Vorbesitzes einer Fahrerlaubnis der beantragten Klasse
 
 Eine Fahrerlaubnis der beantragten Klasse darf nur erteilt werden, wenn der Bewerber keine in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilte Fahrerlaubnis (EU- oder EWR-Fahrerlaubnis) dieser Klasse besitzt.
 
-
-## § 9 – Voraussetzung des Vorbesitzes einer Fahrerlaubnis anderer Klassen
+# § 9 – Voraussetzung des Vorbesitzes einer Fahrerlaubnis anderer Klassen
 
 (1) Eine Fahrerlaubnis der Klassen C1, C, D1 oder D darf nur erteilt werden, wenn der Bewerber bereits die Fahrerlaubnis der Klasse B besitzt oder die Voraussetzungen für deren Erteilung erfüllt hat; in diesem Fall darf die Fahrerlaubnis für die höhere Klasse frühestens mit der Fahrerlaubnis der Klasse B erteilt werden.
 
@@ -325,8 +308,7 @@ Eine Fahrerlaubnis der beantragten Klasse darf nur erteilt werden, wenn der Bewe
 
 (3) Absatz 1 gilt auch im Fall des § 69a Absatz 2 des Strafgesetzbuches.
 
-
-## § 10 – Mindestalter
+# § 10 – Mindestalter
 
 (1) Das für die Erteilung einer Fahrerlaubnis maßgebliche Mindestalter bestimmt sich nach der folgenden Tabelle:  
   
@@ -352,8 +334,7 @@ b) eines motorisierten Krankenfahrstuhls nach § 4 Absatz 1 Satz 2 Nummer 2 mit 
 
 (4) Wird ein Kind unter sieben Jahren auf einem Mofa nach § 4 Absatz 1 Satz 2 Nummer 1 oder auf einem Kleinkraftrad nach § 4 Absatz 1 Satz 2 Nummer 1b mitgenommen, muss der Fahrzeugführer mindestens 16 Jahre alt sein.
 
-
-## § 11 – Eignung
+# § 11 – Eignung
 
 (1) Bewerber um eine Fahrerlaubnis müssen die hierfür notwendigen körperlichen und geistigen Anforderungen erfüllen. Die Anforderungen sind insbesondere nicht erfüllt, wenn eine Erkrankung oder ein Mangel nach Anlage 4 oder 5 vorliegt, wodurch die Eignung oder die bedingte Eignung zum Führen von Kraftfahrzeugen ausgeschlossen wird. Außerdem dürfen die Bewerber nicht erheblich oder nicht wiederholt gegen verkehrsrechtliche Vorschriften oder Strafgesetze verstoßen haben, sodass dadurch die Eignung ausgeschlossen wird. Bewerber um die Fahrerlaubnis der Klasse D oder D1 und der Fahrerlaubnis zur Fahrgastbeförderung gemäß § 48 müssen auch die Gewähr dafür bieten, dass sie der besonderen Verantwortung bei der Beförderung von Fahrgästen gerecht werden. Der Bewerber hat diese durch die Vorlage eines Führungszeugnisses nach § 30 Absatz 5 Satz 1 des Bundeszentralregistergesetzes nachzuweisen.
 
@@ -435,8 +416,7 @@ Wurde die Beibringung eines Gutachtens einer amtlich anerkannten Begutachtungsst
 
 enthalten. Sie ist vom Seminarleiter und vom Seminarteilnehmer unter Angabe des Ausstellungsdatums zu unterschreiben. Die Ausstellung der Teilnahmebescheinigung ist vom Kursleiter zu verweigern, wenn der Teilnehmer nicht an allen Sitzungen des Kurses teilgenommen oder die Anfertigung von Kursaufgaben verweigert hat.
 
-
-## § 12 – Sehvermögen
+# § 12 – Sehvermögen
 
 (1) Zum Führen von Kraftfahrzeugen sind die in der Anlage 6 genannten Anforderungen an das Sehvermögen zu erfüllen.
 
@@ -454,8 +434,7 @@ enthalten. Sie ist vom Seminarleiter und vom Seminarteilnehmer unter Angabe des 
 
 (8) Werden Tatsachen bekannt, die Bedenken begründen, dass der Fahrerlaubnisbewerber die Anforderungen an das Sehvermögen nach Anlage 6 nicht erfüllt oder dass andere Beeinträchtigungen des Sehvermögens bestehen, die die Eignung zum Führen von Kraftfahrzeugen beeinträchtigen, kann die Fahrerlaubnisbehörde zur Vorbereitung der Entscheidung über die Erteilung oder Verlängerung der Fahrerlaubnis oder über die Anordnung von Beschränkungen oder Auflagen die Beibringung eines augenärztlichen Gutachtens anordnen. § 11 Absatz 5 bis 8 gilt entsprechend, § 11 Absatz 6 Satz 4 jedoch mit der Maßgabe, dass nur solche Unterlagen übersandt werden dürfen, die für die Beurteilung, ob Beeinträchtigungen des Sehvermögens bestehen, die die Eignung zum Führen von Kraftfahrzeugen beeinträchtigen, erforderlich sind.
 
-
-## § 13 – Klärung von Eignungszweifeln bei Alkoholproblematik
+# § 13 – Klärung von Eignungszweifeln bei Alkoholproblematik
 
 Zur Vorbereitung von Entscheidungen über die Erteilung oder Verlängerung der Fahrerlaubnis oder über die Anordnung von Beschränkungen oder Auflagen ordnet die Fahrerlaubnisbehörde an, dass
 
@@ -475,8 +454,7 @@ e) sonst zu klären ist, ob Alkoholmissbrauch oder Alkoholabhängigkeit nicht me
 
 Im Falle des Satzes 1 Nummer 2 Buchstabe b sind Zuwiderhandlungen, die ausschließlich gegen § 24c des Straßenverkehrsgesetzes begangen worden sind, nicht zu berücksichtigen.
 
-
-## § 14 – Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
+# § 14 – Klärung von Eignungszweifeln im Hinblick auf Betäubungsmittel und Arzneimittel
 
 (1) Zur Vorbereitung von Entscheidungen über die Erteilung oder die Verlängerung der Fahrerlaubnis oder über die Anordnung von Beschränkungen oder Auflagen ordnet die Fahrerlaubnisbehörde an, dass ein ärztliches Gutachten (§ 11 Absatz 2 Satz 3) beizubringen ist, wenn Tatsachen die Annahme begründen, dass
 
@@ -496,8 +474,7 @@ vorliegt. Die Beibringung eines ärztlichen Gutachtens kann angeordnet werden, w
 
 3. wiederholt Zuwiderhandlungen im Straßenverkehr nach § 24a des Straßenverkehrsgesetzes begangen wurden. § 13 Nummer 2 Buchstabe b bleibt unberührt.
 
-
-## § 15 – Fahrerlaubnisprüfung
+# § 15 – Fahrerlaubnisprüfung
 
 (1) Der Bewerber um eine Fahrerlaubnis hat seine Befähigung in einer theoretischen und einer praktischen Prüfung nachzuweisen.
 
@@ -515,8 +492,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 (5) Die Prüfungen werden von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr abgenommen.
 
-
-## § 16 – Theoretische Prüfung
+# § 16 – Theoretische Prüfung
 
 (1) In der theoretischen Prüfung hat der Bewerber nachzuweisen, dass er
 
@@ -530,8 +506,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 (3) Der Sachverständige oder Prüfer bestimmt die Zeit und den Ort der theoretischen Prüfung. Sie darf frühestens drei Monate vor Erreichen des Mindestalters abgenommen werden. Der Sachverständige oder Prüfer hat sich vor der Prüfung durch Einsicht in den Personalausweis oder Reisepass oder in ein sonstiges Ausweisdokument von der Identität des Bewerbers zu überzeugen. Bestehen Zweifel an der Identität, darf die Prüfung nicht durchgeführt werden. Der Fahrerlaubnisbehörde ist davon Mitteilung zu machen. Der Bewerber hat vor der Prüfung dem Sachverständigen oder Prüfer einen Ausbildungsnachweis nach dem aus Anlage 3 der Durchführungsverordnung zum Fahrlehrergesetz ersichtlichen Muster vorzulegen; ersatzweise kann die Bestätigung, dass die vorgeschriebenen Ausbildungsinhalte absolviert wurden und der Abschluss der Ausbildung festgestellt ist, auch elektronisch unter Angabe des Datums des Abschlusses der Ausbildung durch den Inhaber der Fahrschule oder die zur Leitung des Ausbildungsbetriebes bestellte Person gegenüber der Technischen Prüfstelle erfolgen. Der Abschluss der Ausbildung darf nicht länger als zwei Jahre zurückliegen. Ergibt sich dies nicht aus dem Ausbildungsnachweis oder der elektronischen Bestätigung, darf die Prüfung nicht durchgeführt werden.
 
-
-## § 17 – Praktische Prüfung
+# § 17 – Praktische Prüfung
 
 (1) In der praktischen Prüfung hat der Bewerber nachzuweisen, dass er über die zur sicheren Führung eines Kraftfahrzeugs, gegebenenfalls mit Anhänger, im Verkehr erforderlichen technischen Kenntnisse und über ausreichende Kenntnisse einer umweltbewussten und energiesparenden Fahrweise verfügt sowie zu ihrer praktischen Anwendung fähig ist. Bewerber um eine Fahrerlaubnis der Klassen D, D1, DE oder D1E müssen darüber hinaus ausreichende Fahrfertigkeiten nachweisen. Der Bewerber hat ein der Anlage 7 entsprechendes Prüfungsfahrzeug für die Klasse bereitzustellen, für die er seine Befähigung nachweisen will. Darüber hinaus hat er die für die Durchführung der Prüfung notwendigen Materialien bereitzustellen. Die praktische Prüfung darf erst nach Bestehen der theoretischen Prüfung und frühestens einen Monat vor Erreichen des Mindestalters abgenommen werden. Die praktische Prüfung für die Erweiterung der Klasse A1 auf die Klasse A2 oder der Klasse A2 auf die Klasse A darf frühestens einen Monat vor Ablauf der Frist von zwei Jahren nach Erteilung der Fahrerlaubnis der Klasse A1 oder A2 oder bei Erreichen des in § 10 Absatz 1 genannten Mindestalters abgenommen werden.
 
@@ -545,8 +520,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 (6) (weggefallen)
 
-
-## § 17a – Beschränkung auf Fahrzeuge mit Automatikgetriebe
+# § 17a – Beschränkung auf Fahrzeuge mit Automatikgetriebe
 
 (1) Wird die Prüfungsfahrt auf einem Kraftfahrzeug mit Automatikgetriebe durchgeführt, ist die Fahrerlaubnis auf das Führen von Kraftfahrzeugen mit Automatikgetriebe zu beschränken. Dies gilt nicht bei den Fahrerlaubnissen der Klassen AM und T sowie bei den Klassen BE, C1, C1E, C, CE, D1, D1E, D und DE, wenn der Bewerber bereits Inhaber einer auf einem Kraftfahrzeug mit Schaltgetriebe erworbenen Fahrerlaubnis der Klasse B, BE, C1, C1E, C, CE, D1, D1E, D oder DE ist.
 
@@ -562,8 +536,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 2. im Fall der Klassen A1, A2 und A über einen von Hand zu bedienenden Kupplungshebel verfügt, den der Fahrer jeweils beim Anfahren oder beim Anhalten des Fahrzeuges sowie beim Gangwechsel bedienen muss.
 
-
-## § 18 – Gemeinsame Vorschriften für die theoretische und die praktische Prüfung
+# § 18 – Gemeinsame Vorschriften für die theoretische und die praktische Prüfung
 
 (1) Bei Täuschungshandlungen gilt die Prüfung als nicht bestanden. Eine nicht bestandene Prüfung darf nicht vor Ablauf eines angemessenen Zeitraums (in der Regel nicht weniger als zwei Wochen, bei einem Täuschungsversuch mindestens sechs Wochen) wiederholt werden.
 
@@ -571,8 +544,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 (3) Stellt der Sachverständige oder Prüfer Tatsachen fest, die bei ihm Zweifel über die körperliche oder geistige Eignung des Bewerbers begründen, hat er der Fahrerlaubnisbehörde Mitteilung zu machen und den Bewerber hierüber zu unterrichten.
 
-
-## § 19 – Schulung in Erster Hilfe
+# § 19 – Schulung in Erster Hilfe
 
 (1) Bewerber um eine Fahrerlaubnis müssen an einer Schulung in Erster Hilfe teilnehmen, die mindestens neun Unterrichtseinheiten zu je 45 Minuten umfasst. Die Schulung soll dem Antragsteller durch theoretischen Unterricht und durch praktische Übungen gründliches Wissen und praktisches Können in der Ersten Hilfe vermitteln.
 
@@ -588,8 +560,7 @@ ist (Aufstieg). Die Vorschriften über die Ausbildung sind nicht anzuwenden. Sat
 
 vorlegt.
 
-
-## § 20 – Neuerteilung einer Fahrerlaubnis
+# § 20 – Neuerteilung einer Fahrerlaubnis
 
 (1) Für die Neuerteilung einer Fahrerlaubnis nach vorangegangener Entziehung oder nach vorangegangenem Verzicht gelten die Vorschriften für die Ersterteilung. § 15 findet vorbehaltlich des Absatzes 2 keine Anwendung.
 
@@ -605,8 +576,7 @@ vorlegt.
 
 bei der nach Landesrecht zuständigen Behörde beantragt werden.
 
-
-## § 21 – Antrag auf Erteilung einer Fahrerlaubnis
+# § 21 – Antrag auf Erteilung einer Fahrerlaubnis
 
 (1) Der Antrag auf Erteilung einer Fahrerlaubnis ist bei der nach Landesrecht zuständigen Behörde oder Stelle oder der Fahrerlaubnisbehörde schriftlich oder in elektronischer Form zu stellen. Der Bewerber hat auf Verlangen dieser Behörden oder Stellen persönlich zu erscheinen. Der Bewerber hat folgende Daten mitzuteilen und auf Verlangen nachzuweisen:
 
@@ -634,8 +604,7 @@ Die Fahrerlaubnisbehörde kann Ausnahmen von der in Satz 1 Nummer 2 vorgeschrieb
 
 (4) Die Erteilung einer Fahrerlaubnis kann frühestens sechs Monate vor Erreichen des für die jeweilige Fahrerlaubnisklasse nach § 10 vorgeschriebenen Mindestalters bei der nach Landesrecht zuständigen Behörde beantragt werden.
 
-
-## § 22 – Verfahren bei der Behörde und der Technischen Prüfstelle
+# § 22 – Verfahren bei der Behörde und der Technischen Prüfstelle
 
 (1) Die nach Landesrecht zuständige Behörde oder Stelle und die Fahrerlaubnisbehörde können durch Einholung von Auskünften aus dem Melderegister die Richtigkeit und Vollständigkeit der vom Bewerber mitgeteilten Daten überprüfen.
 
@@ -657,8 +626,7 @@ Die Fahrerlaubnisbehörde kann Ausnahmen von der in Satz 1 Nummer 2 vorgeschrieb
 
 3. in den Fällen, in denen keine theoretische Prüfung erforderlich ist, die praktische Prüfung nicht innerhalb von zwölf Monaten nach Eingang des Prüfauftrags bestanden ist.
 
-
-## § 22a – Abweichendes Verfahren bei Elektronischem Prüfauftrag und Vorläufigem Nachweis der Fahrerlaubnis
+# § 22a – Abweichendes Verfahren bei Elektronischem Prüfauftrag und Vorläufigem Nachweis der Fahrerlaubnis
 
 (1) Abweichend von § 22 Absatz 4 Satz 1 kann die Fahrerlaubnisbehörde mit Zustimmung der zuständigen obersten Landesbehörde von dem Übersenden eines vorbereiteten Führerscheines an die zuständige Technische Prüfstelle für den Kraftfahrzeugverkehr nach Maßgabe der folgenden Vorschriften absehen. Soweit nachstehend nichts anderes bestimmt ist, bleiben die allgemeinen Vorschriften unberührt.
 
@@ -698,15 +666,13 @@ Die Fahrerlaubnisbehörde kann Ausnahmen von der in Satz 1 Nummer 2 vorgeschrieb
 
 (7) Der Vorläufige Nachweis der Fahrerlaubnis gilt als Nachweis im Sinne des § 4 Absatz 3 Satz 1 und nur im Inland; er ist bis zur Aushändigung des Führerscheines, längstens für drei Monate ab dem Tag seiner Aushändigung, gültig.
 
-
-## § 23 – Geltungsdauer der Fahrerlaubnis, Beschränkungen und Auflagen
+# § 23 – Geltungsdauer der Fahrerlaubnis, Beschränkungen und Auflagen
 
 (1) Die Fahrerlaubnis der Klassen AM, A1, A2, A, B, BE, L und T wird unbefristet erteilt. Die Fahrerlaubnis der Klassen C1, C1E, C, CE, D1, D1E, D und DE wird längstens für fünf Jahre erteilt. Grundlage für die Bemessung der Geltungsdauer ist das Datum des Tages, an dem die Fahrerlaubnisbehörde den Auftrag zur Herstellung des Führerscheins erteilt.
 
 (2) Ist der Bewerber nur bedingt zum Führen von Kraftfahrzeugen geeignet, kann die Fahrerlaubnisbehörde die Fahrerlaubnis soweit wie notwendig beschränken oder unter den erforderlichen Auflagen erteilen. Die Beschränkung kann sich insbesondere auf eine bestimmte Fahrzeugart oder ein bestimmtes Fahrzeug mit besonderen Einrichtungen erstrecken.
 
-
-## § 24 – Verlängerung von Fahrerlaubnissen
+# § 24 – Verlängerung von Fahrerlaubnissen
 
 (1) Die Geltungsdauer der Fahrerlaubnis der Klassen C, C1, CE, C1E, D, D1, DE und D1E wird auf Antrag des Inhabers jeweils um die in § 23 Absatz 1 Satz 2 angegebenen Zeiträume verlängert, wenn
 
@@ -722,8 +688,7 @@ Grundlage der Bemessung der Geltungsdauer der verlängerten Fahrerlaubnis ist da
 
 (4) Die Verlängerung einer Fahrerlaubnis kann frühestens sechs Monate vor Ablauf ihrer Geltungsdauer bei der nach Landesrecht zuständigen Behörde beantragt werden.
 
-
-## § 24a – Gültigkeit von Führerscheinen
+# § 24a – Gültigkeit von Führerscheinen
 
 (1) Die Gültigkeit der ab dem 19. Januar 2013 ausgestellten Führerscheine ist auf 15 Jahre befristet. Die Vorschriften des § 23 Absatz 1 bleiben unberührt.
 
@@ -733,8 +698,7 @@ Grundlage der Bemessung der Geltungsdauer der verlängerten Fahrerlaubnis ist da
 
 (4) Die Gültigkeit eines Führerscheins, der ab dem 1. Januar 1999 als Kartenführerschein ausgestellt worden ist, kann durch die nach Landesrecht zuständige Behörde durch die Anbringung eines mit einer bestimmten Frist versehenen Gültigkeitsaufklebers mit Sicherheitsdesign der Bundesdruckerei nachträglich befristet werden, soweit der Antragsteller dies zusammen mit der Erteilung eines neuen Führerscheins beantragt und zum Zeitpunkt der Antragstellung keine Gründe gegen die sofortige Ausstellung eines neuen Führerscheins bestehen. Ein nach Satz 1 befristeter Führerschein dient nur im Inland als Nachweis der Fahrberechtigung. Er verliert seine Gültigkeit mit Zustellung des neuen Führerscheins, Ablauf der Frist oder wenn der Gültigkeitsaufkleber entfernt oder beschädigt wurde.
 
-
-## § 25 – Ausfertigung des Führerscheins
+# § 25 – Ausfertigung des Führerscheins
 
 (1) Der Führerschein wird nach Muster 1 der Anlage 8 ausgefertigt. Er darf nur ausgestellt werden, wenn der Antragsteller
 
@@ -754,15 +718,13 @@ Grundlage der Bemessung der Geltungsdauer der verlängerten Fahrerlaubnis ist da
 
 (5) Bei der Aushändigung eines neuen Führerscheins ist der bisherige Führerschein einzuziehen oder ungültig zu machen. Auf Wunsch des Inhabers der Fahrerlaubnis kann dieser den bisherigen Führerschein behalten. Hierzu ist der Führerschein durch die nach Landesrecht zuständige Behörde sichtbar und dauerhaft zu entwerten. Im Falle der Vorlage eines nach dem 1. Januar 1999 als Kartenführerschein ausgestellten Führerscheins ist der Führerschein durch eine Lochung in der unteren rechten Ecke der Vorderseite zu entwerten. Er verliert mit Aushändigung des neuen Führerscheins seine Gültigkeit. Wird der bisherige Führerschein nach Aushändigung des neuen wieder aufgefunden, ist er unverzüglich der zuständigen Fahrerlaubnisbehörde abzuliefern.
 
-
-## § 25a – Antrag auf Ausstellung eines Internationalen Führerscheins
+# § 25a – Antrag auf Ausstellung eines Internationalen Führerscheins
 
 (1) Kraftfahrzeugführer erhalten auf Antrag den Internationalen Führerschein, wenn sie das 18. Lebensjahr vollendet haben und die nach § 6 Absatz 1 für das Führen des Fahrzeugs erforderliche EU- oder EWR-Fahrerlaubnis nach einem ab dem 1. Januar 1999 zu verwendenden Muster oder eine ausländische Erlaubnis zum Führen von Kraftfahrzeugen gemäß § 29 nachweisen. § 29 Absatz 2 Satz 2 ist entsprechend anzuwenden. Ein internationaler Führerschein nach § 25b Absatz 3 darf nur ausgestellt werden, wenn der Inhaber seinen ordentlichen Wohnsitz im Inland oder in einem Staat hat, der keine Vertragspartei des Übereinkommens über den Straßenverkehr vom 8. November 1968 ist.
 
 (2) Dem Antrag sind ein Lichtbild, das den Bestimmungen der Passverordnung entspricht, und der Führerschein beizufügen.
 
-
-## § 25b – Ausstellung des Internationalen Führerscheins
+# § 25b – Ausstellung des Internationalen Führerscheins
 
 (1) Internationale Führerscheine müssen nach den Anlagen 8c und 8d in deutscher Sprache mit lateinischen Druck- oder Schriftzeichen ausgestellt werden.
 
@@ -776,8 +738,7 @@ Grundlage der Bemessung der Geltungsdauer der verlängerten Fahrerlaubnis ist da
 
 (4) Die Gültigkeitsdauer Internationaler Führerscheine nach Anlage 8c beträgt ein Jahr, solcher nach Anlage 8d drei Jahre, jeweils vom Zeitpunkt ihrer Ausstellung. Die Gültigkeitsdauer darf nicht über die Gültigkeitsdauer des nationalen Führerscheins hinausgehen; dessen Nummer muss auf dem Internationalen Führerschein vermerkt sein.
 
-
-## § 26 – Dienstfahrerlaubnis
+# § 26 – Dienstfahrerlaubnis
 
 (1) Die von den Dienststellen der Bundeswehr, der Bundespolizei und der Polizei (§ 73 Absatz 4) erteilten Fahrerlaubnisse berechtigen nur zum Führen von Dienstfahrzeugen (Dienstfahrerlaubnisse). Bei Erteilung der Dienstfahrerlaubnis darf auf die Vorlage des Führungszeugnisses nach § 11 Absatz 1 Satz 5 verzichtet werden. Über die Dienstfahrerlaubnis der Bundeswehr wird ein Führerschein nach Muster 2 der Anlage 8, über die der Bundespolizei und der Polizei ein Führerschein nach Muster 3 der Anlage 8 ausgefertigt (Dienstführerschein). Die Dienstfahrerlaubnis der Bundeswehr wird in den aus Muster 2 der Anlage 8 ersichtlichen Klassen erteilt. Der Umfang der Berechtigung zum Führen von Dienstfahrzeugen der Bundeswehr ergibt sich aus Anlage 10, wenn die Dienstfahrerlaubnis der Bundeswehr bis zum Ablauf des 18. Januar 2013 erteilt worden ist. Wenn die Dienstfahrerlaubnis der Bundeswehr ab dem 19. Januar 2013 erteilt worden ist, ergibt sich der Umfang der Berechtigung zum Führen von Dienstfahrzeugen der Bundeswehr aus § 6. Der Dienstführerschein der Bundeswehr ist nur in Verbindung mit dem Dienstausweis gültig.
 
@@ -785,8 +746,7 @@ Grundlage der Bemessung der Geltungsdauer der verlängerten Fahrerlaubnis ist da
 
 (3) Bei der erstmaligen Beendigung des Dienstverhältnisses nach der Erteilung oder Neuerteilung der betreffenden Klasse der Dienstfahrerlaubnis ist dem Inhaber auf Antrag zu bescheinigen, für welche Klasse von Kraftfahrzeugen ihm die Erlaubnis erteilt war.
 
-
-## § 27 – Verhältnis von allgemeiner Fahrerlaubnis und Dienstfahrerlaubnis
+# § 27 – Verhältnis von allgemeiner Fahrerlaubnis und Dienstfahrerlaubnis
 
 (1) Beantragt der Inhaber einer Dienstfahrerlaubnis während der Dauer des Dienstverhältnisses die Erteilung einer allgemeinen Fahrerlaubnis, sind folgende Vorschriften nicht anzuwenden:
 
@@ -810,8 +770,7 @@ Dasselbe gilt bei Vorlage einer Bescheinigung nach § 26 Absatz 3. Die Klasse de
 
 (4) Die Dienstfahrerlaubnis erlischt mit der Entziehung der allgemeinen Fahrerlaubnis.
 
-
-## § 28 – Anerkennung von Fahrerlaubnissen aus Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 28 – Anerkennung von Fahrerlaubnissen aus Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Inhaber einer gültigen EU- oder EWR-Fahrerlaubnis, die ihren ordentlichen Wohnsitz im Sinne des § 7 Absatz 1 oder 2 in der Bundesrepublik Deutschland haben, dürfen – vorbehaltlich der Einschränkungen nach den Absätzen 2 bis 4 – im Umfang ihrer Berechtigung Kraftfahrzeuge im Inland führen. Auflagen zur ausländischen Fahrerlaubnis sind auch im Inland zu beachten. Auf die Fahrerlaubnisse finden die Vorschriften dieser Verordnung Anwendung, soweit nichts anderes bestimmt ist.
 
@@ -843,8 +802,7 @@ In den Fällen des Satzes 1 kann die Behörde einen feststellenden Verwaltungsak
 
 (5) Das Recht, von einer EU- oder EWR-Fahrerlaubnis nach einer der in Absatz 4 Nummer 3 und 4 genannten Entscheidungen im Inland Gebrauch zu machen, wird auf Antrag erteilt, wenn die Gründe für die Entziehung oder die Sperre nicht mehr bestehen. Absatz 4 Satz 3 sowie § 20 Absatz 1 und 3 gelten entsprechend.
 
-
-## § 29 – Ausländische Fahrerlaubnisse
+# § 29 – Ausländische Fahrerlaubnisse
 
 (1) Inhaber einer ausländischen Fahrerlaubnis dürfen im Umfang ihrer Berechtigung im Inland Kraftfahrzeuge führen, wenn sie hier keinen ordentlichen Wohnsitz nach § 7 haben. Für die Berechtigung zum Führen von Fahrzeugen der Klassen AM, L und T gilt § 6 Absatz 3 entsprechend. Begründet der Inhaber einer in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilten Fahrerlaubnis einen ordentlichen Wohnsitz im Inland, richtet sich seine weitere Berechtigung zum Führen von Kraftfahrzeugen nach § 28. Begründet der Inhaber einer in einem anderen Staat erteilten Fahrerlaubnis einen ordentlichen Wohnsitz im Inland, besteht die Berechtigung noch sechs Monate. Die Fahrerlaubnisbehörde kann die Frist auf Antrag bis zu sechs Monate verlängern, wenn der Antragsteller glaubhaft macht, dass er seinen ordentlichen Wohnsitz nicht länger als zwölf Monate im Inland haben wird. Auflagen zur ausländischen Fahrerlaubnis sind auch im Inland zu beachten.
 
@@ -854,13 +812,11 @@ In den Fällen des Satzes 1 kann die Behörde einen feststellenden Verwaltungsak
 
 1. die lediglich im Besitz eines Lernführerscheins oder eines anderen vorläufig ausgestellten Führerscheins sind,
 
-1a.  
-die das nach § 10 Absatz 1 für die Erteilung einer Fahrerlaubnis vorgeschriebene Mindestalter noch nicht erreicht haben und deren Fahrerlaubnis nicht von einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilt worden ist,
+1a. die das nach § 10 Absatz 1 für die Erteilung einer Fahrerlaubnis vorgeschriebene Mindestalter noch nicht erreicht haben und deren Fahrerlaubnis nicht von einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erteilt worden ist,
 
 2. die zum Zeitpunkt der Erteilung der ausländischen Erlaubnis zum Führen von Kraftfahrzeugen eines Staates, der nicht ein Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, ihren ordentlichen Wohnsitz im Inland hatten,
 
-2a.  
-die ausweislich des EU- oder EWR-Führerscheins oder vom Ausstellungsmitgliedstaat der Europäischen Union oder des Vertragsstaates des Europäischen Wirtschaftsraums herrührender unbestreitbarer Informationen zum Zeitpunkt der Erteilung ihren ordentlichen Wohnsitz im Inland hatten, es sei denn, dass sie als Studierende oder Schüler im Sinne des § 7 Absatz 2 die Fahrerlaubnis während eines mindestens sechsmonatigen Aufenthalts erworben haben,
+2a. die ausweislich des EU- oder EWR-Führerscheins oder vom Ausstellungsmitgliedstaat der Europäischen Union oder des Vertragsstaates des Europäischen Wirtschaftsraums herrührender unbestreitbarer Informationen zum Zeitpunkt der Erteilung ihren ordentlichen Wohnsitz im Inland hatten, es sei denn, dass sie als Studierende oder Schüler im Sinne des § 7 Absatz 2 die Fahrerlaubnis während eines mindestens sechsmonatigen Aufenthalts erworben haben,
 
 3. denen die Fahrerlaubnis im Inland vorläufig oder rechtskräftig von einem Gericht oder sofort vollziehbar oder bestandskräftig von einer Verwaltungsbehörde entzogen worden ist, denen die Fahrerlaubnis bestandskräftig versagt worden ist oder denen die Fahrerlaubnis nur deshalb nicht entzogen worden ist, weil sie zwischenzeitlich auf die Fahrerlaubnis verzichtet haben,
 
@@ -872,8 +828,7 @@ In den Fällen des Satzes 1 kann die Behörde einen feststellenden Verwaltungsak
 
 (4) Das Recht, von einer ausländischen Fahrerlaubnis nach einer der in Absatz 3 Nummer 3 und 4 genannten Entscheidungen im Inland Gebrauch zu machen, wird auf Antrag erteilt, wenn die Gründe für die Entziehung nicht mehr bestehen.
 
-
-## § 29a – Fahrerlaubnisse von in Deutschland stationierten Angehörigen der Streitkräfte der Vereinigten Staaten von Amerika und Kanadas
+# § 29a – Fahrerlaubnisse von in Deutschland stationierten Angehörigen der Streitkräfte der Vereinigten Staaten von Amerika und Kanadas
 
 In Deutschland stationierte Mitglieder der Streitkräfte der Vereinigten Staaten von Amerika oder Kanadas oder des zivilen Gefolges dieser Streitkräfte und deren jeweilige Angehörige sind berechtigt, mit einem im Entsendestaat ausgestellten Führerschein zum Führen privater Kraftfahrzeuge in dem Entsendestaat solche Fahrzeuge im Bundesgebiet zu führen, wenn sie
 
@@ -883,8 +838,7 @@ In Deutschland stationierte Mitglieder der Streitkräfte der Vereinigten Staaten
 
 Die Bescheinigung ist beim Führen von Kraftfahrzeugen mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen. Eine Verlängerung der Bescheinigung durch die Truppenbehörden bleibt unberührt.
 
-
-## § 30 – Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 30 – Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Beantragt der Inhaber einer EU- oder EWR-Fahrerlaubnis, die zum Führen von Kraftfahrzeugen im Inland berechtigt oder berechtigt hat, die Erteilung einer Fahrerlaubnis für die entsprechende Klasse von Kraftfahrzeugen, sind folgende Vorschriften nicht anzuwenden:
 
@@ -908,15 +862,13 @@ Für die Berechtigung zum Führen von Fahrzeugen der Klassen AM, L und T gilt §
 
 (5) Absatz 3 gilt nicht für entsandte Mitglieder fremder diplomatischer Missionen im Sinne des Artikels 1 Buchstabe b des Wiener Übereinkommens vom 18. April 1961 über diplomatische Beziehungen (BGBl. 1964 II S. 957) in der jeweils geltenden Fassung und entsandte Mitglieder berufskonsularischer Vertretungen im Sinne des Artikels 1 Absatz 1 Buchstabe g des Wiener Übereinkommens vom 24. April 1963 über konsularische Beziehungen (BGBl. 1969 II S. 1585) in der jeweils geltenden Fassung sowie die zu ihrem Haushalt gehörenden Familienmitglieder.
 
-
-## § 30a – Weitergeltung einer deutschen Fahrerlaubnis und Rücktausch von Führerscheinen
+# § 30a – Weitergeltung einer deutschen Fahrerlaubnis und Rücktausch von Führerscheinen
 
 (1) Wird ein auf Grund einer deutschen Fahrerlaubnis ausgestellter Führerschein in einen Führerschein eines anderen Staates umgetauscht, bleibt die Fahrerlaubnis unverändert bestehen. Bei einem Rücktausch in einen deutschen Führerschein sind in diesem die noch gültigen Fahrerlaubnisklassen unverändert zu dokumentieren.
 
 (2) Der Führerschein ist nur gegen Abgabe des ausländischen Führerscheins auszuhändigen. Die nach Landesrecht zuständige Behörde (Fahrerlaubnisbehörde) sendet den Führerschein unter Angabe der Gründe über das Kraftfahrt-Bundesamt an die Behörde zurück, die sie jeweils ausgestellt hatte, sofern es sich um einen EU- oder EWR-Führerschein handelt oder wenn mit dem betreffenden Staat eine entsprechende Vereinbarung besteht. In den anderen Fällen nimmt sie den Führerschein in Verwahrung. Er darf nur gegen Abgabe des auf seiner Grundlage ausgestellten inländischen Führerscheins wieder ausgehändigt werden. In begründeten Fällen kann die Fahrerlaubnisbehörde davon absehen, den ausländischen Führerschein in Verwahrung zu nehmen oder ihn an die ausländische Stelle zurückzuschicken. Verwahrte Führerscheine können nach drei Jahren vernichtet werden.
 
-
-## § 31 – Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Staat außerhalb des Abkommens über den Europäischen Wirtschaftsraum
+# § 31 – Erteilung einer Fahrerlaubnis an Inhaber einer Fahrerlaubnis aus einem Staat außerhalb des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Beantragt der Inhaber einer Fahrerlaubnis, die in einem in Anlage 11 aufgeführten Staat und in einer in der Anlage 11 aufgeführten Klasse erteilt worden ist und die zum Führen von Kraftfahrzeugen im Inland berechtigt oder dazu berechtigt hat, die Erteilung einer Fahrerlaubnis für die entsprechende Klasse von Kraftfahrzeugen, sind folgende Vorschriften nicht anzuwenden:
 
@@ -942,27 +894,23 @@ Für die Berechtigung zum Führen von Fahrzeugen der Klassen AM, L und T gilt §
 
 (5) Absatz 1 gilt auch für den in § 30 Absatz 5 genannten Personenkreis, sofern Gegenseitigkeit besteht. Der Vermerk nach Absatz 4 Satz 1 ist einzutragen. Absatz 4 Satz 2 bis 7 findet keine Anwendung.
 
-
-## § 32 – Ausnahmen von der Probezeit
+# § 32 – Ausnahmen von der Probezeit
 
 Ausgenommen von den Regelungen über die Probezeit nach § 2a des Straßenverkehrsgesetzes sind Fahrerlaubnisse der Klassen AM, L und T. Bei erstmaliger Erweiterung einer Fahrerlaubnis der Klassen AM, L oder T auf eine der anderen Klassen ist die Fahrerlaubnis der Klasse, auf die erweitert wird, auf Probe zu erteilen.
 
-
-## § 33 – Berechnung der Probezeit bei Inhabern von Dienstfahrerlaubnissen und Fahrerlaubnissen aus Staaten außerhalb des Abkommens über den Europäischen Wirtschaftsraum
+# § 33 – Berechnung der Probezeit bei Inhabern von Dienstfahrerlaubnissen und Fahrerlaubnissen aus Staaten außerhalb des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Bei erstmaliger Erteilung einer allgemeinen Fahrerlaubnis an den Inhaber einer Dienstfahrerlaubnis ist die Zeit seit deren Erwerb auf die Probezeit anzurechnen. Hatte die Dienststelle vor Ablauf der Probezeit den Dienstführerschein nach § 26 Absatz 2 eingezogen, beginnt mit der Erteilung einer allgemeinen Fahrerlaubnis eine neue Probezeit, jedoch nur im Umfang der Restdauer der vorherigen Probezeit.
 
 (2) Begründet der Inhaber einer Fahrerlaubnis aus einem Staat außerhalb des Europäischen Wirtschaftsraums seinen ordentlichen Wohnsitz im Inland und wird ihm die deutsche Fahrerlaubnis nach § 31 erteilt, wird bei der Berechnung der Probezeit der Zeitraum nicht berücksichtigt, in welchem er im Inland zum Führen von Kraftfahrzeugen nicht berechtigt war.
 
-
-## § 34 – Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe und Anordnung des Aufbauseminars
+# § 34 – Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe und Anordnung des Aufbauseminars
 
 (1) Die Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe erfolgt nach Anlage 12.
 
 (2) Die Anordnung der Teilnahme an einem Aufbauseminar nach § 2a Absatz 2 des Straßenverkehrsgesetzes erfolgt schriftlich unter Angabe der Verkehrszuwiderhandlungen, die zu der Anordnung geführt haben; dabei ist eine angemessene Frist zu setzen. Die schriftliche Anordnung ist bei der Anmeldung zu einem Aufbauseminar dem Kursleiter vorzulegen.
 
-
-## § 35 – Aufbauseminare
+# § 35 – Aufbauseminare
 
 (1) Das Aufbauseminar ist in Gruppen mit mindestens sechs und höchstens zwölf Teilnehmern durchzuführen. Es besteht aus einem Kurs mit vier Sitzungen von jeweils 135 Minuten Dauer in einem Zeitraum von zwei bis vier Wochen; jedoch darf an einem Tag nicht mehr als eine Sitzung stattfinden. Zusätzlich ist zwischen der ersten und der zweiten Sitzung eine Fahrprobe durchzuführen, die der Beobachtung des Fahrverhaltens des Seminarteilnehmers dient. Die Fahrprobe soll in Gruppen mit drei Teilnehmern durchgeführt werden, wobei die reine Fahrzeit jedes Teilnehmers 30 Minuten nicht unterschreiten darf. Dabei ist ein Fahrzeug zu verwenden, das – mit Ausnahme der Anzahl der Türen – den Anforderungen des Abschnitts 2.2 der Anlage 7 entspricht. Jeder Teilnehmer an der Fahrprobe soll möglichst ein Fahrzeug der Klasse führen, mit dem vor allem die zur Anordnung der Teilnahme an dem Aufbauseminar führenden Verkehrszuwiderhandlungen begangen worden sind.
 
@@ -970,8 +918,7 @@ Ausgenommen von den Regelungen über die Probezeit nach § 2a des Straßenverkeh
 
 (3) Für die Durchführung von Einzelseminaren nach § 2b Absatz 1 des Straßenverkehrsgesetzes gelten die Absätze 1 und 2 mit der Maßgabe, dass die Gespräche in vier Sitzungen von jeweils 60 Minuten Dauer durchzuführen sind.
 
-
-## § 36 – Besondere Aufbauseminare nach § 2b Absatz 2 Satz 2 des Straßenverkehrsgesetzes
+# § 36 – Besondere Aufbauseminare nach § 2b Absatz 2 Satz 2 des Straßenverkehrsgesetzes
 
 (1) Inhaber von Fahrerlaubnissen auf Probe, die wegen Zuwiderhandlungen nach § 315c Absatz 1 Nummer 1 Buchstabe a, den §§ 316, 323a des Strafgesetzbuches oder den §§ 24a, 24c des Straßenverkehrsgesetzes an einem Aufbauseminar teilzunehmen haben, sind, auch wenn sie noch andere Verkehrszuwiderhandlungen begangen haben, einem besonderen Aufbauseminar zuzuweisen.
 
@@ -1001,8 +948,7 @@ Außerdem dürfen keine Tatsachen vorliegen, die Bedenken gegen die Zuverlässig
 
 (7) Die Aufsicht obliegt den nach Absatz 6 Satz 1 für die Anerkennung zuständigen Behörden oder Stellen; diese können sich hierbei geeigneter Personen oder Stellen bedienen.
 
-
-## § 37 – Teilnahmebescheinigung
+# § 37 – Teilnahmebescheinigung
 
 (1) Über die Teilnahme an einem Aufbauseminar nach § 35 oder § 36 ist vom Seminarleiter eine Bescheinigung zur Vorlage bei der Fahrerlaubnisbehörde auszustellen. Die Bescheinigung muss
 
@@ -1018,30 +964,25 @@ enthalten. Sie ist vom Seminarleiter und vom Seminarteilnehmer unter Angabe des 
 
 (3) Die für die Durchführung von Aufbauseminaren erhobenen personenbezogenen Daten dürfen nur für diesen Zweck verarbeitet und genutzt werden und sind sechs Monate nach Abschluss der jeweiligen Seminare mit Ausnahme der Daten zu löschen, die für Maßnahmen der Qualitätssicherung oder Aufsicht erforderlich sind. Diese Daten sind zu sperren und spätestens bis zum Ablauf des fünften des auf den Abschluss der jeweiligen Seminare folgenden Jahres zu löschen.
 
-
-## § 38 – Verkehrspsychologische Beratung
+# § 38 – Verkehrspsychologische Beratung
 
 In der verkehrspsychologischen Beratung soll der Inhaber der Fahrerlaubnis veranlasst werden, Mängel in seiner Einstellung zum Straßenverkehr und im verkehrssicheren Verhalten zu erkennen und die Bereitschaft zu entwickeln, diese Mängel abzubauen. Die Beratung findet in Form eines Einzelgesprächs statt; sie kann durch eine Fahrprobe ergänzt werden, wenn der Berater dies für erforderlich hält. Der Berater soll die Ursachen der Mängel aufklären und Wege zu ihrer Beseitigung aufzeigen. Das Ergebnis der Beratung ist nur für den Betroffenen bestimmt und nur diesem mitzuteilen. Der Betroffene erhält jedoch eine Bescheinigung über die Teilnahme zur Vorlage bei der Fahrerlaubnisbehörde; diese Bescheinigung muss eine Bezugnahme auf die Bestätigung nach § 71 Absatz 2 enthalten.
 
-
-## § 39 – Anordnung der Teilnahme an einem Aufbauseminar und weiterer Maßnahmen bei Inhabern einer Dienstfahrerlaubnis
+# § 39 – Anordnung der Teilnahme an einem Aufbauseminar und weiterer Maßnahmen bei Inhabern einer Dienstfahrerlaubnis
 
 Bei Inhabern von Dienstfahrerlaubnissen, die keine allgemeine Fahrerlaubnis besitzen, sind für die Anordnung von Maßnahmen nach § 2a Absatz 2, 3 bis 5 des Straßenverkehrsgesetzes innerhalb der Probezeit die in § 26 Absatz 1 genannten Dienststellen zuständig. Die Zuständigkeit bestimmt der zuständige Fachminister, soweit sie nicht landesrechtlich geregelt wird. Besitzen die Betroffenen daneben eine allgemeine Fahrerlaubnis, ausgenommen die Klassen AM, L und T, treffen die Anordnungen ausschließlich die nach Landesrecht zuständigen Verwaltungsbehörden.
 
-
-## § 40 – Bezeichnung und Bewertung nach dem Fahreignungs-Bewertungssystem
+# § 40 – Bezeichnung und Bewertung nach dem Fahreignungs-Bewertungssystem
 
 Dem Fahreignungs-Bewertungssystem sind die in Anlage 13 bezeichneten Zuwiderhandlungen mit der dort jeweils festgelegten Bewertung zu Grunde zu legen.
 
-
-## § 41 – Maßnahmen der nach Landesrecht zuständigen Behörde
+# § 41 – Maßnahmen der nach Landesrecht zuständigen Behörde
 
 (1) Die Ermahnung des Inhabers einer Fahrerlaubnis nach § 4 Absatz 5 Satz 1 Nummer 1 des Straßenverkehrsgesetzes, seine Verwarnung nach § 4 Absatz 5 Satz 1 Nummer 2 des Straßenverkehrsgesetzes und der jeweils gleichzeitige Hinweis auf die freiwillige Teilnahme an einem Fahreignungsseminar erfolgen schriftlich unter Angabe der begangenen Verkehrszuwiderhandlungen.
 
 (2) Die Anordnung eines Verkehrsunterrichts nach § 48 der Straßenverkehrs-Ordnung bleibt unberührt.
 
-
-## § 42 – Fahreignungsseminar
+# § 42 – Fahreignungsseminar
 
 (1) Das Fahreignungsseminar besteht aus einer verkehrspädagogischen und aus einer verkehrspsychologischen Teilmaßnahme. Die Teilmaßnahmen sind durch gegenseitige Information der jeweiligen Seminarleiter aufeinander abzustimmen.
 
@@ -1125,8 +1066,7 @@ und
 
 (9) Mit Sitzung 2 der verkehrspsychologischen Teilmaßnahme darf frühestens nach Ablauf von drei Wochen nach Abschluss von Sitzung 1 begonnen werden.
 
-
-## § 43 – Überwachung der Fahreignungsseminare nach § 42 und der Einweisungslehrgänge nach § 46 Absatz 2 Satz 1 Nummer 4 des Fahrlehrergesetzes
+# § 43 – Überwachung der Fahreignungsseminare nach § 42 und der Einweisungslehrgänge nach § 46 Absatz 2 Satz 1 Nummer 4 des Fahrlehrergesetzes
 
 (1) Die nach Landesrecht zuständige Behörde hat die Durchführung der Fahreignungsseminare auf die Einhaltung von folgenden Kriterien zu prüfen:
 
@@ -1207,8 +1147,7 @@ e) die Anwesenheit der Teilnehmer bei allen Kursen.
 
 Die nach Landesrecht zuständige Behörde kann die Einhaltung weiterer gesetzlicher Bestimmungen in die Überwachung einbeziehen.
 
-
-## § 43a – Anforderungen an Qualitätssicherungssysteme für das Fahreignungsseminar
+# § 43a – Anforderungen an Qualitätssicherungssysteme für das Fahreignungsseminar
 
 Macht die nach Landesrecht zuständige Behörde von der Möglichkeit der Qualitätssicherungssysteme nach § 4a Absatz 8 Satz 6 des Straßenverkehrsgesetzes oder § 51 Absatz 6 des Fahrlehrergesetzes Gebrauch, hat sie ein Qualitätssicherungssystem für die verkehrspsychologische Teilmaßnahme anzuerkennen oder ein Qualitätssicherungssystem für die verkehrspädagogische Teilmaßnahme zu genehmigen, wenn
 
@@ -1244,8 +1183,7 @@ c) institutionalisierter fachlicher Austausch oder
 
 d) eine der den vorgenannten Maßnahmen gleichwertige Maßnahme.
 
-
-## § 44 – Teilnahmebescheinigung
+# § 44 – Teilnahmebescheinigung
 
 (1) Nach Abschluss des Fahreignungsseminars ist vom Seminarleiter der abschließenden Teilmaßnahme eine Bescheinigung nach dem Muster der Anlage 18 zur Vorlage bei der nach Landesrecht zuständigen Behörde auszustellen. Die Bescheinigung ist von den Seminarleitern beider Teilmaßnahmen und vom Seminarteilnehmer unter Angabe des Ausstellungsdatums zu unterschreiben.
 
@@ -1257,11 +1195,9 @@ d) eine der den vorgenannten Maßnahmen gleichwertige Maßnahme.
 
 3. den Lehrstoff und Lernstoff nicht aktiv mitgestaltet.
 
+# § 45 – (weggefallen)
 
-## § 45 – (weggefallen)
-
-
-## § 46 – Entziehung, Beschränkung, Auflagen
+# § 46 – Entziehung, Beschränkung, Auflagen
 
 (1) Erweist sich der Inhaber einer Fahrerlaubnis als ungeeignet zum Führen von Kraftfahrzeugen, hat ihm die Fahrerlaubnisbehörde die Fahrerlaubnis zu entziehen. Dies gilt insbesondere, wenn Erkrankungen oder Mängel nach den Anlagen 4, 5 oder 6 vorliegen oder erheblich oder wiederholt gegen verkehrsrechtliche Vorschriften oder Strafgesetze verstoßen wurde und dadurch die Eignung zum Führen von Kraftfahrzeugen ausgeschlossen ist.
 
@@ -1275,8 +1211,7 @@ d) eine der den vorgenannten Maßnahmen gleichwertige Maßnahme.
 
 (6) Mit der Entziehung erlischt die Fahrerlaubnis. Bei einer ausländischen Fahrerlaubnis erlischt das Recht zum Führen von Kraftfahrzeugen im Inland.
 
-
-## § 47 – Verfahrensregelungen
+# § 47 – Verfahrensregelungen
 
 (1) Nach der Entziehung sind von einer deutschen Behörde ausgestellte nationale und internationale Führerscheine unverzüglich der entscheidenden Behörde abzuliefern oder bei Beschränkungen oder Auflagen zur Eintragung vorzulegen. Die Verpflichtung zur Ablieferung oder Vorlage des Führerscheins besteht auch, wenn die Entscheidung angefochten worden ist, die zuständige Behörde jedoch die sofortige Vollziehung ihrer Verfügung angeordnet hat.
 
@@ -1284,8 +1219,7 @@ d) eine der den vorgenannten Maßnahmen gleichwertige Maßnahme.
 
 (3) Ist dem Betroffenen nach § 31 eine deutsche Fahrerlaubnis erteilt worden, ist er aber noch im Besitz des ausländischen Führerscheins, ist auf diesem die Entziehung oder die Feststellung der fehlenden Fahrberechtigung zu vermerken. Der Betroffene ist verpflichtet, der Fahrerlaubnisbehörde den Führerschein zur Eintragung vorzulegen.
 
-
-## § 48 – Fahrerlaubnis zur Fahrgastbeförderung
+# § 48 – Fahrerlaubnis zur Fahrgastbeförderung
 
 (1) Einer zusätzlichen Erlaubnis (Fahrerlaubnis zur Fahrgastbeförderung) bedarf, wer einen Krankenkraftwagen führt, wenn in dem Fahrzeug entgeltlich oder geschäftsmäßig Fahrgäste befördert werden, oder wer ein Kraftfahrzeug führt, wenn in dem Fahrzeug Fahrgäste befördert werden und für diese Beförderung eine Genehmigung nach dem Personenbeförderungsgesetz erforderlich ist.
 
@@ -1307,8 +1241,7 @@ d) eine der den vorgenannten Maßnahmen gleichwertige Maßnahme.
 
 2. das 21. Lebensjahr – bei Beschränkung der Fahrerlaubnis auf Krankenkraftwagen das 19. Lebensjahr – vollendet hat,
 
-2a.  
-durch Vorlage eines nach Maßgabe des § 30 Absatz 5 Satz 1 des Bundeszentralregistergesetzes ausgestellten Führungszeugnisses und durch eine auf Kosten des Antragstellers eingeholte aktuelle Auskunft aus dem Fahreignungsregister nachweist, dass er die Gewähr dafür bietet, dass er der besonderen Verantwortung bei der Beförderung von Fahrgästen gerecht wird,
+2a. durch Vorlage eines nach Maßgabe des § 30 Absatz 5 Satz 1 des Bundeszentralregistergesetzes ausgestellten Führungszeugnisses und durch eine auf Kosten des Antragstellers eingeholte aktuelle Auskunft aus dem Fahreignungsregister nachweist, dass er die Gewähr dafür bietet, dass er der besonderen Verantwortung bei der Beförderung von Fahrgästen gerecht wird,
 
 3. seine geistige und körperliche Eignung gemäß § 11 Absatz 9 in Verbindung mit Anlage 5 nachweist,
 
@@ -1338,8 +1271,7 @@ durch Vorlage eines nach Maßgabe des § 30 Absatz 5 Satz 1 des Bundeszentralreg
 
 (10) Die Erlaubnis ist von der Fahrerlaubnisbehörde zu entziehen, wenn eine der aus Absatz 4 ersichtlichen Voraussetzungen fehlt. Die Erlaubnis erlischt mit der Entziehung sowie mit der Entziehung der in Absatz 4 Nummer 1 genannten Fahrerlaubnis. § 47 Absatz 1 ist entsprechend anzuwenden.
 
-
-## § 48a – Voraussetzungen
+# § 48a – Voraussetzungen
 
 (1) Im Falle des § 10 Absatz 1 laufende Nummer 5 Buchstabe b Doppelbuchstabe aa findet § 11 Absatz 3 Satz 1 Nummer 2 keine Anwendung. § 74 Absatz 2 findet entsprechend Anwendung.
 
@@ -1391,13 +1323,11 @@ Eine Wirkung im Sinne des Satzes 1 Nummer 2 liegt vor, wenn eine in der Anlage z
 
 (7) Mit Erreichen des Mindestalters nach § 10 Absatz 1 Nummer 5 Buchstabe a händigt die Fahrerlaubnisbehörde dem Fahrerlaubnisinhaber auf Antrag einen Führerschein nach Muster 1 der Anlage 8 aus.
 
-
-## § 48b – Evaluation
+# § 48b – Evaluation
 
 Die für Zwecke der Evaluation erhobenen personenbezogene Daten der teilnehmenden Fahranfänger und Begleiter sind spätestens am 31. Dezember 2015 zu löschen oder so zu anonymisieren oder zu pseudonymisieren, dass ein Personenbezug nicht mehr hergestellt werden kann.
 
-
-## § 49 – Speicherung der Daten im Zentralen Fahrerlaubnisregister
+# § 49 – Speicherung der Daten im Zentralen Fahrerlaubnisregister
 
 (1) Im Zentralen Fahrerlaubnisregister sind nach § 50 Absatz 1 des Straßenverkehrsgesetzes folgende Daten zu speichern:
 
@@ -1439,8 +1369,7 @@ Die für Zwecke der Evaluation erhobenen personenbezogene Daten der teilnehmende
 
 (2) Bei Dienstfahrerlaubnissen der Bundeswehr werden nur die in Absatz 1 Nummer 1 genannten Daten, die Klasse der erteilten Fahrerlaubnis, der Tag des Beginns und Ablaufs der Probezeit und die Fahrerlaubnisnummer gespeichert.
 
-
-## § 50 – Übermittlung der Daten vom Kraftfahrt-Bundesamt an die Fahrerlaubnisbehörden nach § 2c des Straßenverkehrsgesetzes
+# § 50 – Übermittlung der Daten vom Kraftfahrt-Bundesamt an die Fahrerlaubnisbehörden nach § 2c des Straßenverkehrsgesetzes
 
 Das Kraftfahrt-Bundesamt unterrichtet die zuständige Fahrerlaubnisbehörde von Amts wegen, wenn über den Inhaber einer Fahrerlaubnis auf Probe Entscheidungen in das Fahreignungsregister eingetragen werden, die zu Anordnungen nach § 2a Absatz 2, 4 und 5 des Straßenverkehrsgesetzes führen können. Hierzu übermittelt es folgende Daten:
 
@@ -1460,8 +1389,7 @@ f) die Gültigkeit des Führerscheins,
 
 2. aus dem Fahreignungsregister den Inhalt der Eintragungen über die innerhalb der Probezeit begangenen Straftaten und Ordnungswidrigkeiten.
 
-
-## § 51 – Übermittlung von Daten aus dem Zentralen Fahrerlaubnisregister nach den §§ 52 und 55 des Straßenverkehrsgesetzes
+# § 51 – Übermittlung von Daten aus dem Zentralen Fahrerlaubnisregister nach den §§ 52 und 55 des Straßenverkehrsgesetzes
 
 (1) Übermittelt werden dürfen
 
@@ -1524,8 +1452,7 @@ c) die Behörde, die die Fahrerlaubnisakte im Sinne des § 61 Absatz 1 Satz 3 de
 
 (2) Die Daten dürfen gemäß Absatz 1 Nummer 4 in das Ausland für Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs den Straßenverkehrsbehörden, für die Verfolgung von Zuwiderhandlungen gegen Rechtsvorschriften auf dem Gebiet des Straßenverkehrs oder für die Verfolgung von Straftaten den Polizei- und Justizbehörden unmittelbar übermittelt werden, wenn nicht der Empfängerstaat mitgeteilt hat, dass andere Behörden zuständig sind.
 
-
-## § 52 – Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Inland nach § 53 des Straßenverkehrsgesetzes
+# § 52 – Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Inland nach § 53 des Straßenverkehrsgesetzes
 
 (1) Zur Übermittlung aus dem Zentralen Fahrerlaubnisregister dürfen durch Abruf im automatisierten Verfahren
 
@@ -1610,8 +1537,7 @@ die Fahrerlaubnisnummer,
 
 4. die Polizeibehörden der Länder.
 
-
-## § 53 – Automatisiertes Anfrage- und Auskunftsverfahren beim Zentralen Fahrerlaubnisregister nach § 54 des Straßenverkehrsgesetzes
+# § 53 – Automatisiertes Anfrage- und Auskunftsverfahren beim Zentralen Fahrerlaubnisregister nach § 54 des Straßenverkehrsgesetzes
 
 (1) Übermittelt werden dürfen nur die Daten nach § 51 unter den dort genannten Voraussetzungen.
 
@@ -1621,8 +1547,7 @@ die Fahrerlaubnisnummer,
 
 (4) Die übermittelnde Stelle hat sicherzustellen, dass die Aufzeichnungen nach § 54 Satz 2 des Straßenverkehrsgesetzes selbsttätig vorgenommen werden und die Übermittlung bei nicht ordnungsgemäßer Aufzeichnung unterbrochen wird.
 
-
-## § 54 – Sicherung gegen Missbrauch
+# § 54 – Sicherung gegen Missbrauch
 
 (1) Die übermittelnde Stelle darf den Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister nach § 53 des Straßenverkehrsgesetzes nur zulassen, wenn dessen Durchführung unter Verwendung
 
@@ -1636,28 +1561,21 @@ erfolgt. Nutzer im Sinne des Satzes 1 Nummer 1 kann eine natürliche Person oder
 
 (3) Die übermittelnde Stelle hat sicherzustellen, dass die Aufzeichnungen nach § 53 Absatz 3 des Straßenverkehrsgesetzes über die Abrufe selbsttätig vorgenommen werden und dass der Abruf bei nicht ordnungsgemäßer Aufzeichnung unterbrochen wird. Der Aufzeichnung unterliegen auch versuchte Abrufe, die unter Verwendung von fehlerhaften Kennungen mehr als einmal vorgenommen wurden. Satz 1 gilt entsprechend für die weiteren Aufzeichnungen nach § 53 Absatz 4 des Straßenverkehrsgesetzes.
 
-
-## § 55 – Aufzeichnung der Abrufe
+# § 55 – Aufzeichnung der Abrufe
 
 (1) Der Anlass des Abrufs ist unter Verwendung folgender Schlüsselzeichen zu übermitteln:
 
-A.  
-Überwachung des Straßenverkehrs
+A. Überwachung des Straßenverkehrs
 
-B.  
-Grenzkontrollen
+B. Grenzkontrollen
 
-C.  
-Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs, soweit sie die Berechtigung zum Führen von Kraftfahrzeugen betreffen
+C. Verwaltungsmaßnahmen auf dem Gebiet des Straßenverkehrs, soweit sie die Berechtigung zum Führen von Kraftfahrzeugen betreffen
 
-D.  
-Ermittlungsverfahren wegen Straftaten
+D. Ermittlungsverfahren wegen Straftaten
 
-E.  
-Ermittlungsverfahren wegen Verkehrsordnungswidrigkeiten
+E. Ermittlungsverfahren wegen Verkehrsordnungswidrigkeiten
 
-F.  
-Sonstige Anlässe.
+F. Sonstige Anlässe.
 
 Bei Verwendung der Schlüsselzeichen D, E und F ist ein auf den bestimmten Anlass bezogenes Aktenzeichen oder eine Tagebuchnummer zusätzlich zu übermitteln, falls dies beim Abruf angegeben werden kann. Ansonsten ist jeweils in Kurzform bei der Verwendung des Schlüsselzeichens D oder E die Art der Straftat oder der Verkehrsordnungswidrigkeit oder bei Verwendung des Schlüsselzeichens F die Art der Maßnahme oder des Ereignisses zu bezeichnen.
 
@@ -1669,8 +1587,7 @@ Bei Verwendung der Schlüsselzeichen D, E und F ist ein auf den bestimmten Anlas
 
 (3) Für die nach § 53 Absatz 4 des Straßenverkehrsgesetzes vorgeschriebenen weiteren Aufzeichnungen ist § 53 Absatz 3 Satz 2 und 3 des Straßenverkehrsgesetzes entsprechend anzuwenden.
 
-
-## § 56 – Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Ausland nach § 56 des Straßenverkehrsgesetzes
+# § 56 – Abruf im automatisierten Verfahren aus dem Zentralen Fahrerlaubnisregister durch Stellen im Ausland nach § 56 des Straßenverkehrsgesetzes
 
 (1) Zur Übermittlung aus dem Zentralen Fahrerlaubnisregister dürfen durch Abruf im automatisierten Verfahren
 
@@ -1682,8 +1599,7 @@ bereitgehalten werden.
 
 (2) § 51 Absatz 2 (Empfänger der Daten), § 52 Absatz 2 (für den Abruf zu verwendende Daten), § 54 (Sicherung gegen Missbrauch) und § 55 (Aufzeichnung der Abrufe) sind entsprechend anzuwenden.
 
-
-## § 57 – Speicherung der Daten in den örtlichen Fahrerlaubnisregistern
+# § 57 – Speicherung der Daten in den örtlichen Fahrerlaubnisregistern
 
 Über Fahrerlaubnisinhaber sowie über Personen, denen ein Verbot erteilt wurde, ein Fahrzeug zu führen, sind im örtlichen Fahrerlaubnisregister nach § 50 des Straßenverkehrsgesetzes folgende Daten zu speichern:
 
@@ -1739,8 +1655,7 @@ bereitgehalten werden.
 
 26. der Tag und die Art von Maßnahmen bei Inhabern einer Fahrerlaubnis auf Probe, die gesetzte Frist, die Teilnahme an einem Aufbauseminar, die Art des Seminars, der Tag seiner Beendigung, der Tag der Ausstellung der Teilnahmebescheinigung sowie die Teilnahme an einer verkehrspsychologischen Beratung und der Tag der Ausstellung der Teilnahmebescheinigung.
 
-
-## § 58 – Übermittlung von Daten aus den örtlichen Fahrerlaubnisregistern
+# § 58 – Übermittlung von Daten aus den örtlichen Fahrerlaubnisregistern
 
 (1) Für die Verfolgung von Straftaten, zur Vollstreckung und zum Vollzug von Strafen dürfen im Rahmen des § 52 Absatz 1 Nummer 1 des Straßenverkehrsgesetzes nur die nach § 57 Nummer 1 bis 10 und 12 bis 15 gespeicherten Daten übermittelt werden.
 
@@ -1762,8 +1677,7 @@ dürfen die Fahrerlaubnisbehörden einander im Rahmen des § 52 Absatz 1 Nummer 
 
 (5) Die Daten nach den Absätzen 1, 2 und 4 dürfen für die dort genannten Zwecke aus dem örtlichen Fahrerlaubnisregister im automatisierten Verfahren abgerufen werden. § 52 Absatz 2, 3 und 5, §§ 53, 54 und 55 Absatz 1 bis 3 sind entsprechend anzuwenden.
 
-
-## § 59 – Speicherung von Daten im Fahreignungsregister
+# § 59 – Speicherung von Daten im Fahreignungsregister
 
 (1) Im Fahreignungsregister sind im Rahmen von § 28 Absatz 3 des Straßenverkehrsgesetzes folgende Daten zu speichern:
 
@@ -1827,8 +1741,7 @@ und die entsprechende Kennziffer,
 
 (4) Enthält eine Entscheidung wegen einer Ordnungswidrigkeit sowohl registerpflichtige als auch nicht registerpflichtige Teile, werden in Fällen der Tateinheit (§ 19 des Gesetzes über Ordnungswidrigkeiten) nur die registerpflichtigen Taten sowie die Folgen mit dem Hinweis eingetragen, dass sich die Geldbuße auch auf nicht registerpflichtige Taten bezieht. In Fällen der Tatmehrheit (§ 20 des Gesetzes über Ordnungswidrigkeiten) sind nur die registerpflichtigen Teile einzutragen.
 
-
-## § 60 – Übermittlung von Daten nach § 30 des Straßenverkehrsgesetzes
+# § 60 – Übermittlung von Daten nach § 30 des Straßenverkehrsgesetzes
 
 (1) Für Maßnahmen wegen Straftaten oder Ordnungswidrigkeiten werden gemäß § 30 Absatz 1 Nummer 1 und 2 des Straßenverkehrsgesetzes die auf Grund des § 28 Absatz 3 Nummer 1 bis 3 des Straßenverkehrsgesetzes nach § 59 Absatz 1 dieser Verordnung gespeicherten Daten und – soweit Kenntnis über den Besitz von Fahrerlaubnissen und Führerscheinen sowie über die Berechtigung zum Führen von Kraftfahrzeugen erforderlich ist – die auf Grund des § 28 Absatz 3 Nummer 1 bis 9 des Straßenverkehrsgesetzes nach § 59 Absatz 1 dieser Verordnung gespeicherten Daten übermittelt.
 
@@ -1874,8 +1787,7 @@ werden gemäß § 30 Absatz 2 des Straßenverkehrsgesetzes die auf Grund des § 
 
 unmittelbar übermittelt, wenn nicht der Empfängerstaat mitgeteilt hat, dass andere Behörden zuständig sind.
 
-
-## § 61 – Abruf im automatisierten Verfahren nach § 30a des Straßenverkehrsgesetzes
+# § 61 – Abruf im automatisierten Verfahren nach § 30a des Straßenverkehrsgesetzes
 
 (1) Zur Übermittlung nach § 30a Absatz 1 und 3 des Straßenverkehrsgesetzes durch Abruf im automatisierten Verfahren dürfen folgende Daten bereitgehalten werden:
 
@@ -1945,22 +1857,19 @@ e) die Angaben über die Fahrerlaubnis nach § 59 Absatz 1 Nummer 8,
 
 (7) Im Rahmen von § 30 Absatz 7 des Straßenverkehrsgesetzes dürfen die in § 30a Absatz 5 des Straßenverkehrsgesetzes genannten Daten aus dem Fahreignungsregister durch Abruf im automatisierten Verfahren den in § 60 Absatz 6 genannten Stellen in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum übermittelt werden.
 
-
-## § 62 – Automatisiertes Anfrage- und Auskunftsverfahren nach § 30b des Straßenverkehrsgesetzes
+# § 62 – Automatisiertes Anfrage- und Auskunftsverfahren nach § 30b des Straßenverkehrsgesetzes
 
 (1) Die Übermittlung der Daten nach § 60 ist auch in einem automatisierten Anfrage- und Auskunftsverfahren zulässig.
 
 (2) § 53 ist anzuwenden.
 
-
-## § 63 – Vorzeitige Tilgung
+# § 63 – Vorzeitige Tilgung
 
 (1) Wurde die Fahrerlaubnis durch eine Fahrerlaubnisbehörde ausschließlich wegen körperlicher oder geistiger Mängel oder wegen fehlender Befähigung entzogen oder aus den gleichen Gründen versagt, ist die Eintragung mit dem Tag der Erteilung der neuen Fahrerlaubnis zu tilgen.
 
 (2) Eintragungen von gerichtlichen Entscheidungen über die vorläufige Entziehung der Fahrerlaubnis, von anfechtbaren Entscheidungen der Fahrerlaubnisbehörden sowie von Maßnahmen nach § 94 der Strafprozessordnung sind zu tilgen, wenn die betreffenden Entscheidungen aufgehoben wurden.
 
-
-## § 64 – Identitätsnachweis
+# § 64 – Identitätsnachweis
 
 (1) Als Identitätsnachweis bei Auskünften nach § 30 Absatz 8 oder § 58 des Straßenverkehrsgesetzes werden anerkannt
 
@@ -1976,13 +1885,11 @@ e) die Angaben über die Fahrerlaubnis nach § 59 Absatz 1 Nummer 8,
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 65 – Ärztliche Gutachter
+# § 65 – Ärztliche Gutachter
 
 Der Facharzt hat seine verkehrsmedizinische Qualifikation (§ 11 Absatz 2 Satz 3 Nummer 1), die sich aus den maßgeblichen landesrechtlichen Vorschriften ergibt, auf Verlangen der Fahrerlaubnisbehörde nachzuweisen. Der Nachweis erfolgt durch die Vorlage eines Zeugnisses der zuständigen Ärztekammer. Abweichend von Satz 1 und 2 reicht auch eine mindestens einjährige Zugehörigkeit zu einer Begutachtungsstelle für Fahreignung (Anlage 14) aus.
 
-
-## § 66 – Träger von Begutachtungsstellen für Fahreignung
+# § 66 – Träger von Begutachtungsstellen für Fahreignung
 
 (1) Träger von Begutachtungsstellen für Fahreignung und ihre Begutachtungsstellen bedürfen der amtlichen Anerkennung durch die nach Landesrecht zuständige Behörde.
 
@@ -2000,8 +1907,7 @@ Der Facharzt hat seine verkehrsmedizinische Qualifikation (§ 11 Absatz 2 Satz 3
 
 (8) Widerspruch und Anfechtungsklage gegen eine Anordnung nach Absatz 5 oder 6 haben keine aufschiebende Wirkung.
 
-
-## § 67 – Sehteststelle
+# § 67 – Sehteststelle
 
 (1) Sehteststellen bedürfen – unbeschadet der Absätze 4 und 5 – der amtlichen Anerkennung durch die zuständige oberste Landesbehörde oder durch die von ihr bestimmte oder nach Landesrecht zuständige Stelle.
 
@@ -2025,8 +1931,7 @@ Der Facharzt hat seine verkehrsmedizinische Qualifikation (§ 11 Absatz 2 Satz 3
 
 als amtlich anerkannte Sehteststelle. Absatz 4 ist anzuwenden.
 
-
-## § 68 – Stellen für die Schulung in Erster Hilfe
+# § 68 – Stellen für die Schulung in Erster Hilfe
 
 (1) Stellen, die Schulungen in Erster Hilfe für den Erwerb einer Fahrerlaubnis durchführen, bedürfen der amtlichen Anerkennung durch die für das Fahrerlaubniswesen oder das Gesundheitswesen zuständige oberste Landesbehörde oder durch die von ihr bestimmte oder nach Landesrecht zuständige Stelle. Einer Anerkennung nach Satz 1 bedarf es nicht für Stellen, die ein Unfallversicherungsträger nach einer von ihm nach § 15 Absatz 1, auch in Verbindung mit Absatz 1a, des Siebten Buches Sozialgesetzbuch erlassenen Unfallverhütungsvorschrift über Grundsätze der Prävention für die Ausbildung zur Ersten Hilfe ermächtigt hat und vom Unfallversicherungsträger öffentlich bekannt gemacht sind. Schulungen einer der in Satz 2 genannten Ausbildungsstellen können für die Zwecke dieser Verordnung durch die oberste Landesbehörde oder die von ihr bestimmte oder nach Landesrecht zuständige Stelle für ihren jeweiligen Zuständigkeitsbereich untersagt werden, wenn die Ausbildungsstelle wiederholt die Pflichten aus der durch den Träger der Unfallversicherung erteilten Ermächtigung verletzt hat. Die zuständige Behörde gibt die in Satz 1 genannten Stellen öffentlich bekannt.
 
@@ -2040,8 +1945,7 @@ Die nach Absatz 1 zuständige oberste Landesbehörde oder die von ihr bestimmte 
 
 (3) Die Unfallversicherungsträger und die nach Absatz 2 Satz 7 Aufsicht führenden Stellen unterrichten sich gegenseitig über Untersagungen nach Absatz 1 Satz 3 sowie Rücknahmen und Widerrufe nach Absatz 2 Satz 4 und 5.
 
-
-## § 69 – Stellen zur Durchführung der Fahrerlaubnisprüfung
+# § 69 – Stellen zur Durchführung der Fahrerlaubnisprüfung
 
 (1) Die Durchführung der Fahrerlaubnisprüfung obliegt den amtlich anerkannten Sachverständigen oder Prüfern für den Kraftfahrzeugverkehr bei den Technischen Prüfstellen für den Kraftfahrzeugverkehr nach dem Kraftfahrsachverständigengesetz im Sinne der §§ 10 und 14 des Kraftfahrsachverständigengesetzes sowie den amtlich anerkannten Prüfern und Sachverständigen im Sinne des § 16 des Kraftfahrsachverständigengesetzes.
 
@@ -2049,8 +1953,7 @@ Die nach Absatz 1 zuständige oberste Landesbehörde oder die von ihr bestimmte 
 
 (3) Die für die Durchführung der Fahrerlaubnisprüfung erhobenen personenbezogenen Daten sind nach Ablauf des fünften Kalenderjahres nach Erledigung des Prüfauftrags zu löschen.
 
-
-## § 70 – Träger von Kursen zur Wiederherstellung der Kraftfahreignung
+# § 70 – Träger von Kursen zur Wiederherstellung der Kraftfahreignung
 
 (1) Träger, die Kurse zur Wiederherstellung der Kraftfahreignung von alkohol- oder drogenauffälligen Kraftfahrern durchführen, werden von der nach Landesrecht zuständigen Behörde für den Zweck des § 11 Absatz 10 anerkannt. In die Kurse dürfen nur Personen aufgenommen werden, die den Anforderungen des § 11 Absatz 10 entsprechen und nicht Inhaber einer Fahrerlaubnis sind.
 
@@ -2066,8 +1969,7 @@ Die nach Absatz 1 zuständige oberste Landesbehörde oder die von ihr bestimmte 
 
 (7) § 66 Absatz 7 und 8 gilt entsprechend.
 
-
-## § 71 – Verkehrspsychologische Beratung
+# § 71 – Verkehrspsychologische Beratung
 
 (1) Für die Durchführung der verkehrspsychologischen Beratung nach § 2a Absatz 7 des Straßenverkehrsgesetzes gelten die Personen im Sinne dieser Vorschrift als amtlich anerkannt, die eine Bestätigung nach Absatz 2 der Sektion Verkehrspsychologie im Berufsverband Deutscher Psychologinnen und Psychologen e. V. besitzen.
 
@@ -2103,8 +2005,7 @@ d) Nachweis der Teilnahme an einer Fortbildungsveranstaltung oder Praxisberatung
 
 (5) Zuständig für die Rücknahme und den Widerruf der Anerkennung der verkehrspsychologischen Berater ist die zuständige oberste Landesbehörde oder die von ihr bestimmte oder die nach Landesrecht zuständige Stelle. Diese führt auch die Aufsicht über die verkehrspsychologischen Berater; sie kann sich hierbei geeigneter Personen oder Stellen bedienen.
 
-
-## § 71a – Träger von unabhängigen Stellen für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten
+# § 71a – Träger von unabhängigen Stellen für die Bestätigung der Eignung von eingesetzten psychologischen Testverfahren und -geräten
 
 (1) Die Eignung von psychologischen Testverfahren und -geräten, die Träger von Begutachtungsstellen für die Feststellung der Fahreignung sowie Ärzte mit der Gebietsbezeichnung „Arbeitsmedizin“ oder der Zusatzbezeichnung „Betriebsmedizin“ zur Erstellung von Gutachten nach Anlage 5 einsetzen, muss von Trägern unabhängiger Stellen bestätigt werden. Die Träger unabhängiger Stellen haben die Eignung der eingesetzten psychologischen Testverfahren und -geräte nach dem allgemein anerkannten Stand der Wissenschaft und nach Maßgabe der vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen Obersten Landesbehörden erlassenen „Richtlinie zur Bestätigung der Eignung der Testverfahren und -geräte und der Eignung der Kurse zur Wiederherstellung der Kraftfahreignung“ vom 31. März 2017 (VkBl. S. 227 ff.), die zuletzt durch Verlautbarung vom 10. Februar 2020 (VkBl. S. 164) geändert worden ist, zu prüfen.
 
@@ -2132,13 +2033,11 @@ d) Nachweis der Teilnahme an einer Fortbildungsveranstaltung oder Praxisberatung
 
 (9) Widerspruch und Anfechtungsklage gegen eine Anordnung nach den Absätzen 6 oder 7 haben keine aufschiebende Wirkung.
 
-
-## § 71b – Träger von unabhängigen Stellen für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung
+# § 71b – Träger von unabhängigen Stellen für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung
 
 Die Eignung von Kursen, die Träger von Kursen zur Wiederherstellung der Kraftfahreignung durchführen, muss von Trägern unabhängiger Stellen bestätigt werden. Für Träger von unabhängigen Stellen für die Bestätigung der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung gelten die Vorschriften des § 71a entsprechend, die Absätze 3 und 5 jedoch mit der Maßgabe, dass sich die Voraussetzungen der Anerkennung nach Anlage 15a richten.
 
-
-## § 72 – Begutachtung
+# § 72 – Begutachtung
 
 (1) Die
 
@@ -2168,8 +2067,7 @@ müssen sich hinsichtlich der Erfüllung der jeweiligen für sie geltenden fachl
 
 (3) Das unter Berücksichtigung der Stellungnahme einer der unter Absatz 1 genannten Stellen gefertigte Gutachten der Bundesanstalt für Straßenwesen mit den Ergebnissen der Begutachtungen wird diesen Stellen sowie den für die amtliche Anerkennung oder für die Aufsicht der nach Landesrecht zuständigen Behörden übersandt.
 
-
-## § 73 – Zuständigkeiten
+# § 73 – Zuständigkeiten
 
 (1) Diese Verordnung wird, soweit nicht die obersten Landesbehörden oder die höheren Verwaltungsbehörden zuständig sind oder diese Verordnung etwas anderes bestimmt, von den nach Landesrecht zuständigen unteren Verwaltungsbehörden oder den Behörden, denen durch Landesrecht die Aufgaben der unteren Verwaltungsbehörde zugewiesen werden (Fahrerlaubnisbehörden), ausgeführt. Die zuständigen obersten Landesbehörden und die höheren Verwaltungsbehörden können diesen Behörden Weisungen auch für den Einzelfall erteilen.
 
@@ -2179,8 +2077,7 @@ müssen sich hinsichtlich der Erfüllung der jeweiligen für sie geltenden fachl
 
 (4) Die Zuständigkeiten der Verwaltungsbehörden, der höheren Verwaltungsbehörden und der obersten Landesbehörden werden für die Dienstbereiche der Bundeswehr, der Bundespolizei und der Polizei durch deren Dienststellen nach Bestimmung der Fachministerien wahrgenommen.
 
-
-## § 74 – Ausnahmen
+# § 74 – Ausnahmen
 
 (1) Die nach Landesrecht zuständigen Behörden können in bestimmten Einzelfällen oder allgemein für bestimmte einzelne Antragsteller Ausnahmen von den Vorschriften dieser Verordnung genehmigen.
 
@@ -2200,8 +2097,7 @@ Der Vordruck weist auf der Vorderseite eine fortlaufende Vordrucknummerierung au
 
 (5) Die Bundeswehr, die Polizei, die Bundespolizei, die Feuerwehr und die anderen Einheiten und Einrichtungen des Katastrophenschutzes sowie der Zolldienst sind von den Vorschriften dieser Verordnung befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist.
 
-
-## § 75 – Ordnungswidrigkeiten
+# § 75 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -2231,16 +2127,13 @@ Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vors
 
 13. entgegen § 48a Absatz 3 Satz 2 die Prüfungsbescheinigung nicht mitführt oder aushändigt.
 
-
-## § 76 – Übergangsrecht
+# § 76 – Übergangsrecht
 
 Zu den nachstehend bezeichneten Vorschriften gelten folgende Bestimmungen:
 
- 1.  
-(weggefallen)
+ 1. (weggefallen)
 
- 2.  
-§ 4 Absatz 1 Nummer 2 (Krankenfahrstühle)
+ 2. § 4 Absatz 1 Nummer 2 (Krankenfahrstühle)
 
 Inhaber einer Prüfbescheinigung für Krankenfahrstühle nach § 5 Absatz 4 dieser Verordnung in der bis zum 1. September 2002 geltenden Fassung sind berechtigt, motorisierte Krankenfahrstühle mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 10 km/h nach § 4 Absatz 1 Satz 2 Nummer 2 dieser Verordnung in der bis zum 1. September 2002 geltenden Fassung und nach § 76 Nummer 2 dieser Verordnung in der bis zum 1. September 2002 geltenden Fassung zu führen. Wer einen motorisierten Krankenfahrstuhl mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 10 km/h nach § 4 Absatz 1 Satz 2 Nummer 2 dieser Verordnung in der bis zum 1. September 2002 geltenden Fassung führt, der bis zum 1. September 2002 erstmals in den Verkehr gekommen ist, bedarf keiner Fahrerlaubnis oder Prüfbescheinigung nach § 5 Absatz 4 dieser Verordnung in der bis zum 1. September 2002 geltenden Fassung.
 
@@ -2252,8 +2145,7 @@ gilt nicht für Führer der in § 4 Absatz 1 Satz 2 Nummer 1 und 1b bezeichneten
 
 Zur Ausbildung ist auch ein Fahrlehrer berechtigt, der eine Fahrlehrerlaubnis der bisherigen Klasse 3 oder eine ihr entsprechende Fahrlehrerlaubnis besitzt, diese vor dem 1. Oktober 1985 erworben und vor dem 1. Oktober 1987 an einem mindestens zweitägigen, vom Deutschen Verkehrssicherheitsrat durchgeführten Einführungslehrgang teilgenommen hat.
 
- 5.  
-§ 5 Absatz 4 und Anlagen 1 und 2 (Prüfbescheinigung für Mofas/Krankenfahrstühle)
+ 5. § 5 Absatz 4 und Anlagen 1 und 2 (Prüfbescheinigung für Mofas/Krankenfahrstühle)
 
 Prüfbescheinigungen für Mofas und Krankenfahrstühle, die nach den bis zum 1. September 2002 vorgeschriebenen Mustern ausgefertigt worden sind, bleiben gültig. Prüfbescheinigungen für Mofas, die nach den bis zum 31. Dezember 2016 vorgeschriebenen Mustern ausgefertigt worden sind, bleiben gültig.
 
@@ -2265,8 +2157,7 @@ a) Krafträder mit einem Hubraum von nicht mehr als 50 cm³ und einer durch die 
 
 b) Krafträder mit einem Hubraum von nicht mehr als 125 cm³ und einer Nennleistung von nicht mehr als 11 kW, wenn sie bis zum 18. Januar 2013 erstmals in den Verkehr gekommen sind.
 
-6a.  
-§ 6 Absatz 1 zu Klasse A2
+6a. § 6 Absatz 1 zu Klasse A2
 
 Inhaber einer ab dem 19. Januar 2013 bis zum Ablauf des 27. Dezember 2016 erteilten Berechtigung zum Führen von Krafträdern (auch mit Beiwagen) mit einer Motorleistung von nicht mehr als 35 kW, bei denen das Verhältnis der Leistung zum Gewicht 0,2 kW/kg nicht übersteigt, sind im Inland auch zum Führen von Krafträdern berechtigt, deren Leistung von über 70 kW Motorleistung abgeleitet ist.
 
@@ -2280,8 +2171,7 @@ b) nach Ablauf von zwei Jahren nach der Erteilung Kraftfahrzeuge der Klasse A
 
 führen
 
- 8.  
-§ 6 Absatz 1 zu Klasse AM
+ 8. § 6 Absatz 1 zu Klasse AM
 
 Als zweirädrige Kleinkrafträder und Fahrräder mit Hilfsmotor gelten auch
 
@@ -2295,13 +2185,11 @@ a) Fahrzeuge mit einem Hubraum von mehr als 50 cm³, wenn sie vor dem 1. Septemb
 
 b) Fahrzeuge mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h, wenn sie vor dem 1. Januar 1957 erstmals in den Verkehr gekommen sind und das Gewicht des betriebsfähigen Fahrzeugs mit dem Hilfsmotor, jedoch ohne Werkzeug und ohne den Inhalt des Kraftstoffbehälters – bei Fahrzeugen, die für die Beförderung von Lasten eingerichtet sind, auch ohne Gepäckträger – 33 kg nicht übersteigt; diese Gewichtsgrenze gilt nicht bei zweisitzigen Fahrzeugen (Tandems) und Fahrzeugen mit drei Rädern.
 
-8a.  
-§ 6 Absatz 1 zu Klasse AM:
+8a. § 6 Absatz 1 zu Klasse AM:
 
 Inhaber einer Fahrerlaubnis der Klasse AM, die bis zum Ablauf des 23. August 2017 erteilt wurde, sind auch berechtigt, vierrädrige Kraftfahrzeuge der Klasse L6e mit CI-Motor mit einem Hubraum von mehr als 500 cm³ und dreirädrige Kleinkrafträder mit einer Leermasse von mehr als 270 kg und zweirädrige Kleinkrafträder mit Beiwagen zu führen.
 
-8b.  
-§ 6 Absatz 1 zu Klasse C1:
+8b. § 6 Absatz 1 zu Klasse C1:
 
 Inhaber einer Fahrerlaubnis der Klasse C1, die bis zum Ablauf des 18. Januar 2013 erteilt wurde, sind auch berechtigt, Kraftfahrzeuge zu führen, die
 
@@ -2319,8 +2207,7 @@ b) zur Beförderung von höchstens acht Personen, den Fahrzeugführer ausgenomme
 
 Hinter Kraftfahrzeugen dieser Klasse darf ein Anhänger mit einer zulässigen Gesamtmasse von höchstens 750 kg mitgeführt werden. Nicht gestattet ist das Führen von Kraftfahrzeugen der Klassen AM, A1, A2 und A.
 
-8c.  
-§ 6 Absatz 1 zu Klasse C:
+8c. § 6 Absatz 1 zu Klasse C:
 
 Inhaber einer Fahrerlaubnis der Klasse C, die bis zum Ablauf des 18. Januar 2013 erteilt wurde, sind auch berechtigt, Kraftfahrzeuge zu führen, die
 
@@ -2338,8 +2225,7 @@ b) die zur Beförderung von nicht mehr als acht Personen, den Fahrzeugführer au
 
 Hinter Kraftfahrzeugen dieser Klasse darf ein Anhänger mit einer zulässigen Gesamtmasse von höchstens 750 kg mitgeführt werden. Nicht gestattet ist das Führen von Kraftfahrzeugen der Klassen AM, A1, A2 und A.
 
-8d.  
-§ 6 Absatz 1 zu Klasse D1:
+8d. § 6 Absatz 1 zu Klasse D1:
 
 Inhaber einer Fahrerlaubnis der Klasse D1, die bis zum Ablauf des 18. Januar 2013 erteilt wurde, sind auch berechtigt, Kraftfahrzeuge zu führen, die zur Beförderung von mehr als acht, aber nicht mehr als 16 Personen, den Fahrzeugführer ausgenommen, ausgelegt und gebaut sind.
 
@@ -2353,29 +2239,25 @@ b) deren Länge nicht mehr als 8 m beträgt.
 
 Hinter Kraftfahrzeugen dieser Klasse darf ein Anhänger mit einer zulässigen Gesamtmasse von höchstens 750 kg mitgeführt werden. Nicht gestattet ist das Führen von Kraftfahrzeugen der Klassen AM, A1, A2 und A.
 
-8e.  
-§ 6 Absatz 3 zu Klasse CE:
+8e. § 6 Absatz 3 zu Klasse CE:
 
 Inhaber einer Fahrerlaubnis der Klasse CE, die bis zum Ablauf des 18. Januar 2013 erteilt wurde, sind auch berechtigt, Kraftfahrzeuge der Klasse D1E zu führen, sofern sie zum Führen von Kraftfahrzeugen der Klasse D1 berechtigt sind.
 
 Inhaber einer Fahrerlaubnis der Klasse CE, die ab dem 19. Januar 2013 bis zum Ablauf des 27. Dezember 2016 erteilt wurde, sind auch berechtigt, im Inland Kraftfahrzeuge der Klasse D1E zu führen, sofern sie zum Führen von Kraftfahrzeugen der Klasse D1 berechtigt sind.
 
-8f.  
-§ 6 Absatz 3 zu Klasse D1E:
+8f. § 6 Absatz 3 zu Klasse D1E:
 
 Inhaber einer Fahrerlaubnis der Klasse D1E, die bis zum Ablauf des 18. Januar 2013 erteilt wurde, sind auch berechtigt, Kraftfahrzeuge der Klasse C1E zu führen, sofern sie zum Führen von Kraftfahrzeugen der Klasse C1 berechtigt sind.
 
 Inhaber einer Fahrerlaubnis der Klasse D1E, die ab dem 19. Januar 2013 bis zum Ablauf des 27. Dezember 2016 erteilt wurde, sind auch berechtigt, im Inland Kraftfahrzeuge der Klasse C1E zu führen, sofern sie zum Führen von Kraftfahrzeugen der Klasse C1 berechtigt sind.
 
-8g.  
-§ 6 Absatz 3 zu Klasse DE:
+8g. § 6 Absatz 3 zu Klasse DE:
 
 Inhaber einer Fahrerlaubnis der Klasse DE, die bis zum Ablauf des 18. Januar 2013 erteilt wurde, sind auch berechtigt, Kraftfahrzeuge der Klasse C1E zu führen, sofern sie zum Führen von Kraftfahrzeugen der Klasse C1 berechtigt sind.
 
 Inhaber einer Fahrerlaubnis der Klasse DE, die ab dem 19. Januar 2013 bis zum Ablauf des 27. Dezember 2016 erteilt wurde, sind auch berechtigt, im Inland Kraftfahrzeuge der Klasse C1E zu führen, sofern sie zum Führen von Kraftfahrzeugen der Klasse C1 berechtigt sind.
 
- 9.  
-§ 11 Absatz 9, § 12 Absatz 6, §§ 23, 24, 48 und Anlage 5 und 6 (ärztliche Wiederholungsuntersuchungen und Sehvermögen bei Inhabern von Fahrerlaubnissen alten Rechts)
+ 9. § 11 Absatz 9, § 12 Absatz 6, §§ 23, 24, 48 und Anlage 5 und 6 (ärztliche Wiederholungsuntersuchungen und Sehvermögen bei Inhabern von Fahrerlaubnissen alten Rechts)
 
 Inhaber einer Fahrerlaubnis der Klasse 3 oder einer ihr entsprechenden Fahrerlaubnis, die bis zum 31. Dezember 1998 erteilt worden ist, brauchen sich, soweit sie keine in Klasse CE fallenden Fahrzeugkombinationen führen, keinen ärztlichen Untersuchungen zu unterziehen. Bei einer Umstellung ihrer Fahrerlaubnis werden die Klassen C1 und C1E nicht befristet. Zusätzlich wird die Klasse CE mit Beschränkung auf bisher in Klasse 3 fallende Züge zugeteilt. Die Fahrerlaubnis dieser Klasse wird bis zu dem Tag befristet, an dem der Inhaber das 50. Lebensjahr vollendet. Für die Verlängerung der Fahrerlaubnis nach Ablauf der Geltungsdauer ist § 24 entsprechend anzuwenden. Fahrerlaubnisinhaber, die bis zum 31. Dezember 1998 das 50. Lebensjahr vollenden, müssen bei der Umstellung der Fahrerlaubnis für den Erhalt der beschränkten Klasse CE ihre Eignung nach Maßgabe von § 11 Absatz 9 und § 12 Absatz 6 in Verbindung mit den Anlagen 5 und 6 nachweisen. Wird die bis zum 31. Dezember 1998 erteilte Fahrerlaubnis nicht umgestellt, darf der Inhaber ab Vollendung des 50. Lebensjahres keine in Klasse CE fallende Fahrzeugkombinationen mehr führen. Für die Erteilung einer Fahrerlaubnis dieser Klasse ist anschließend § 24 Absatz 2 entsprechend anzuwenden. Für Fahrerlaubnisinhaber, die bis zum 31. Dezember 1999 das 50. Lebensjahr vollendet haben, tritt Satz 7 am 1. Januar 2001 in Kraft. Bei der Umstellung einer bis zum 31. Dezember 1998 erteilten Fahrerlaubnis der Klasse 2 oder einer entsprechenden Fahrerlaubnis wird die Fahrerlaubnis der Klassen C und CE bis zu dem Tag befristet, an dem der Inhaber das 50. Lebensjahr vollendet. Für die Verlängerung der Fahrerlaubnis und die Erteilung nach Ablauf der Geltungsdauer ist § 24 entsprechend anzuwenden. Fahrerlaubnisinhaber, die bis zum 31. Dezember 1998 das 50. Lebensjahr vollenden, müssen bei der Umstellung der Fahrerlaubnis ihre Eignung nach Maßgabe von § 11 Absatz 9 und § 12 Absatz 6 in Verbindung mit den Anlagen 5 und 6 nachweisen. Wird die bis zum 31. Dezember 1998 erteilte Fahrerlaubnis nicht umgestellt, darf der Inhaber ab Vollendung des 50. Lebensjahres keine Fahrzeuge oder Fahrzeugkombinationen der Klassen C oder CE mehr führen, § 6 Absatz 3 Nummer 6 bleibt unberührt. Für die Erteilung einer Fahrerlaubnis dieser Klassen ist anschließend § 24 Absatz 2 entsprechend anzuwenden. Für Fahrerlaubnisinhaber, die bis zum 31. Dezember 1999 das 50. Lebensjahr vollendet haben, tritt Satz 13 am 1. Januar 2001 in Kraft. Bescheinigungen über die ärztliche Untersuchung oder Zeugnisse über die augenärztliche Untersuchung des Sehvermögens, die nach den bis zum Ablauf des 14. Juni 2007 vorgeschriebenen Mustern ausgefertigt worden sind, bleiben zwei Jahre gültig. Bescheinigungen über die ärztliche Untersuchung oder Zeugnisse über die augenärztliche Untersuchung des Sehvermögens, die den Mustern der Anlagen 5 und 6 in der bis zum Ablauf des 14. Juni 2007 geltenden Fassung entsprechen, dürfen bis zum 1. September 2007 weiter ausgefertigt werden.
 
@@ -2399,17 +2281,14 @@ Wird die beantragte Fahrerlaubnis nicht bis zum Ablauf des 18. Januar 2013 ertei
 
 Auf Antrag wird eine bis zum Ablauf des 18. Januar 2013 erfolgte Beschränkung der Fahrerlaubnis der Klassen BE, C1, C1E, C, CE, D1, D1E, D und DE auf Fahrzeuge ohne Schaltgetriebe aufgehoben, sofern der Inhaber die Fahrerlaubnis der Klasse B auf einem Fahrzeug mit Schaltgetriebe erworben hat.
 
-11a.  
-§ 19 (Weitergeltung von Bescheinigungen über Erste Hilfe)
+11a. § 19 (Weitergeltung von Bescheinigungen über Erste Hilfe)
 
 Bescheinigungen über die Teilnahme an einer Ausbildung in Erster Hilfe gelten unbefristet bei einem Antrag auf Erteilung einer Fahrerlaubnis als Nachweis im Sinne des § 21 Absatz 3 Nummer 5.
 
-11b.  
-§§ 20 und 24 Absatz 2 (Neuerteilung der Fahrerlaubnis nach Entziehung einer oder Verzicht auf eine Fahrerlaubnis, erneute Erteilung einer auf Grund des Ablaufs der Geltungsdauer erloschenen Fahrerlaubnis)  
+11b. §§ 20 und 24 Absatz 2 (Neuerteilung der Fahrerlaubnis nach Entziehung einer oder Verzicht auf eine Fahrerlaubnis, erneute Erteilung einer auf Grund des Ablaufs der Geltungsdauer erloschenen Fahrerlaubnis)  
 Personen, denen eine Fahrerlaubnis entzogen worden ist oder die einen Verzicht auf ihre Fahrerlaubnis erklärt haben, wird im Rahmen der Neuerteilung nach § 20 vorbehaltlich der Bestimmungen des Satzes 4 sowie der Nummer 9 die Fahrerlaubnis im Umfang der Anlage 3 erteilt. Personen, deren Fahrerlaubnis auf Grund des Ablaufs der Geltungsdauer erloschen ist, wird im Rahmen der Neuerteilung nach § 24 Absatz 2 vorbehaltlich der Bestimmungen des Satzes 4 sowie der Nummer 9 die Fahrerlaubnis im Umfang der Anlage 3 erneut erteilt. Wurde vor dem 1. Januar 2015 eine Fahrerlaubnis neu erteilt, wird auf Antrag vorbehaltlich der Bestimmungen des Satzes 4 sowie der Nummer 9 die Fahrerlaubnis im Umfang der Anlage 3 erteilt. Die Fahrerlaubnisbehörde ordnet eine Fahrerlaubnisprüfung an, wenn Tatsachen vorliegen, die die Annahme rechtfertigen, dass der Bewerber die nach § 16 Absatz 1 und § 17 Absatz 1 erforderlichen Kenntnisse und Fähigkeiten nicht mehr besitzt.
 
-11c.  
-§ 22 (Verfahren bei der Behörde und der Technischen Prüfstelle)
+11c. § 22 (Verfahren bei der Behörde und der Technischen Prüfstelle)
 
 Sofern Führerscheine bis zum Ablauf des 18. Januar 2013 ausgestellt worden sind, können diese auch ab dem 19. Januar 2013 ausgehändigt werden, sofern die Fahrerlaubnis bis zum Ablauf des 18. Januar 2013 erworben wurde.
 
@@ -2417,16 +2296,13 @@ Sofern Führerscheine bis zum Ablauf des 18. Januar 2013 ausgestellt worden sind
 
 Sind die Daten des Betreffenden noch nicht im Zentralen Fahrerlaubnisregister gespeichert, können die Auskünfte nach § 22 Absatz 2 Satz 2 und § 25 Absatz 4 Satz 1 aus den örtlichen Fahrerlaubnisregistern eingeholt werden.
 
-12a.  
-§ 22 Absatz 4 Satz 7 und Anlage 8a (Vorläufiger Nachweis der Fahrerlaubnis)
+12a. § 22 Absatz 4 Satz 7 und Anlage 8a (Vorläufiger Nachweis der Fahrerlaubnis)
 
 Ein Vorläufiger Nachweis der Fahrerlaubnis darf bis zum 1. April 2016 nach dem bis zum Ablauf des 20. Oktober 2015 geltenden Muster ausgestellt werden.
 
-12b.  
-§ 22a Absatz 2 Nummer 4, auch in Verbindung mit § 48a Absatz 3, ist erst ab dem 1. April 2016 anzuwenden.
+12b. § 22a Absatz 2 Nummer 4, auch in Verbindung mit § 48a Absatz 3, ist erst ab dem 1. April 2016 anzuwenden.
 
-12c.  
-§ 23 Absatz 1 (Geltungsdauer der Fahrerlaubnis)
+12c. § 23 Absatz 1 (Geltungsdauer der Fahrerlaubnis)
 
 Die Geltungsdauer einer Fahrerlaubnis der Klassen C1 und C1E, die ab dem 1. Januar 1999 und bis zum Ablauf des 27. Dezember 2016 erteilt wurde, endet mit Vollendung des 50. Lebensjahres des Inhabers.
 
@@ -2434,8 +2310,7 @@ Die Geltungsdauer einer Fahrerlaubnis der Klassen C1 und C1E, die ab dem 1. Janu
 
 Führerscheine, die nach den bis zum 1. Mai 2015 vorgeschriebenen Mustern oder nach den Vorschriften der Deutschen Demokratischen Republik, auch solche der Nationalen Volksarmee, ausgefertigt worden sind, bleiben gültig. Bis zum 18. Januar 2013 erteilte Fahrerlaubnisse zur Fahrgastbeförderung in Kraftomnibussen, Taxen, Mietwagen, Krankenkraftwagen oder Personenkraftwagen, mit denen Ausflugsfahrten oder Ferienziel-Reisen (§ 48 Personenbeförderungsgesetz) durchgeführt werden und entsprechende Führerscheine bleiben bis zum Ablauf ihrer bisherigen Befristung gültig. Die Regelung in Nummer 9 bleibt unberührt.
 
-13a.  
-§ 29 (Ausländische Fahrerlaubnisse)
+13a. § 29 (Ausländische Fahrerlaubnisse)
 
 Ein Internationaler Führerschein, der bis zum 31. Dezember 2010 nach Artikel 41 und Anhang 7 des Übereinkommens über den Straßenverkehr vom 8. November 1968 in der bis zum 31. Dezember 2010 geltenden Fassung im Ausland ausgestellt wurde, berechtigt im Rahmen seiner Gültigkeitsdauer zum Führen von Kraftfahrzeugen im Inland.
 
@@ -2463,23 +2338,19 @@ Ausnahmegenehmigungen dürfen bis zum Ablauf des 31. Dezember 2015 auf dem bis z
 
 20. Bescheinigungen, die nach § 1 Absatz 2 der Dritten Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung vom 22. April 2013 (BGBl. I S. 940) ausgestellt worden sind, gelten noch bis zum Ablauf ihrer Geltungsdauer fort. Mit Erreichen des Mindestalters nach § 10 Absatz 1 Satz 1 Nummer 1 der Fahrerlaubnis-Verordnung händigt die Fahrerlaubnisbehörde dem Fahrerlaubnisinhaber auf Antrag einen Führerschein nach Anlage 8 Muster 1 der Fahrerlaubnis-Verordnung aus. In Ländern, die von der Ermächtigung nach § 6 Absatz 5a des Straßenverkehrsgesetzes Gebrauch gemacht haben, findet die Dritte Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung keine Anwendung mehr.
 
-
-## § 77 – Verweis auf technische Regelwerke
+# § 77 – Verweis auf technische Regelwerke
 
 Soweit in dieser Verordnung auf DIN-, EN- oder ISO/IEC-Normen Bezug genommen wird, sind diese im Beuth Verlag GmbH, 10772 Berlin, erschienen. Sie sind beim Deutschen Patentamt archivmäßig gesichert niedergelegt.
 
-
-## § 78 – Inkrafttreten
+# § 78 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Fahrerlaubnis-Verordnung vom 18. August 1998 (BGBl. I S. 2214), die zuletzt durch Artikel 3 der Verordnung vom 5. August 2009 (BGBl. I S. 2631) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 5 Absatz 2)Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h nach § 5 Absatz 2 durch Fahrlehrer
+# Anlage 1 – (zu § 5 Absatz 2)Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h nach § 5 Absatz 2 durch Fahrlehrer
 
 (Fundstelle: BGBl. I 2010, 2015;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2562,8 +2433,7 @@ Ausweichen.
 2.6  
 Die Übungen sind außerhalb öffentlicher Straßen oder auf verkehrsarmen Flächen durchzuführen.
 
-
-## Anlage 2 – (zu § 5 Absatz 2 und 4)Ausbildungs- und Prüfbescheinigungen für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h
+# Anlage 2 – (zu § 5 Absatz 2 und 4)Ausbildungs- und Prüfbescheinigungen für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h
 
 (Fundstelle: BGBl. I 2010, 2016 - 2017; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -2578,8 +2448,7 @@ Farbe: dunkelgrau; Breite 140 mm, Höhe 105 mm, einmal faltbar auf Format DIN A7
 
  
 
-
-## Anlage 3 – (zu § 6 Absatz 6)Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
+# Anlage 3 – (zu § 6 Absatz 6)Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
 
 (Fundstelle: BGBl. I 2013, 39 - 45;  
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -2733,8 +2602,7 @@ gemäß Anlage 9<a href="#f779446_02" class="FnR">2</a></sup></th></tr></thead><
 
 C. (weggefallen)
 
-
-## Anlage 4 – (zu den §§ 11, 13 und 14)Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
+# Anlage 4 – (zu den §§ 11, 13 und 14)Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
 
 (Fundstelle: BGBl. I 2010, 2023 - 2029;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2747,8 +2615,7 @@ Vorbemerkung
 
 3. Die nachstehend vorgenommenen Bewertungen gelten für den Regelfall. Kompensationen durch besondere menschliche Veranlagung, durch Gewöhnung, durch besondere Einstellung oder durch besondere Verhaltenssteuerungen und -umstellungen sind möglich. Ergeben sich im Einzelfall in dieser Hinsicht Zweifel, kann eine medizinisch-psychologische Begutachtung angezeigt sein.
 
-
-## Anlage 4a – (zu § 11 Absatz 5)Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
+# Anlage 4a – (zu § 11 Absatz 5)Grundsätze für die Durchführung der Untersuchungen und die Erstellung der Gutachten
 
 (Fundstelle: BGBl. I 2014, 357 - 358; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -2821,8 +2688,7 @@ einem Arzt/Toxikologen in einem für forensisch-toxikologische Zwecke akkreditie
 
 durchgeführt wurde.
 
-
-## Anlage 5
+# Anlage 5
 
 (Fundstelle: BGBl. I 2010, 2030 - 2033;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2862,8 +2728,7 @@ von Bewerbern um die Verlängerung einer Fahrerlaubnis zur Fahrgastbeförderung 
 
 <a href="../normengrafiken/bgbl1_2010/j1980-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 6 – (zu den §§ 12, 48 Absatz 4 und 5)Anforderungen an das Sehvermögen
+# Anlage 6 – (zu den §§ 12, 48 Absatz 4 und 5)Anforderungen an das Sehvermögen
 
 (Fundstelle: BGBl. I 2010, 2034 - 2044;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3101,8 +2966,7 @@ Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des Arztes, ggf.
 | Wohnort: ..........                |
 | Straße/Hausnummer: ..........      |
 
-3. Untersuchungsbefund vom..........  
-  
+3. Untersuchungsbefund vom..........   
 
 |                                                    |
 |:---------------------------------------------------|
@@ -3242,8 +3106,7 @@ Die Identität des Untersuchten wurde geprüft.
 <table style="border: none;"><colgroup><col style="width: 33%" /><col style="width: 22%" /><col style="width: 44%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">.......... , den</td><td style="text-align: left;"> </td><td style="text-align: center;">..........<br />
 Stempel und Unterschrift des Augenarztes</td></tr></tbody></table>
 
-
-## Anlage 7 – (zu § 16 Absatz 2, § 17 Absatz 2 und 3)Fahrerlaubnisprüfung
+# Anlage 7 – (zu § 16 Absatz 2, § 17 Absatz 2 und 3)Fahrerlaubnisprüfung
 
 (Fundstelle: BGBl. I 2013, 46 - 57;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3917,8 +3780,7 @@ Der Sachverständige oder Prüfer unterrichtet den Bewerber am Ende der Prüfung
 2.7  
 (weggefallen)
 
-
-## Anlage 7a – (§ 6a Absatz 3 und 4)Fahrerschulung ab 17 Jahre
+# Anlage 7a – (§ 6a Absatz 3 und 4)Fahrerschulung ab 17 Jahre
 
 1. Allgemeines
 
@@ -4054,8 +3916,7 @@ Für die erfolgreiche Teilnahme an der Fahrerschulung hat der Teilnehmer währen
 Teilnahmebescheinigung  
 zur Vorlage bei der Fahrerlaubnisbehörde
 
-
-## Anlage 7b – (zu § 6b Absatz 3 und 4)Fahrerschulung für das Führen von Krafträdern der Klasse A1
+# Anlage 7b – (zu § 6b Absatz 3 und 4)Fahrerschulung für das Führen von Krafträdern der Klasse A1
 
 (Fundstelle: BGBl. I 2019, 2938 – 2939)
 
@@ -4078,8 +3939,7 @@ Die Fahrerschulung hat in einer Fahrschule zu erfolgen, deren Inhaber im Besitz 
 3.1  
 Theoretischer Schulungsstoff
 
-Der Umfang der ausschließlich klassenspezifischen theoretischen Schulung beträgt mindestens vier Unterrichtseinheiten. Der theoretische Schulungsstoff umfasst mindestens die Inhalte der Anlage 2.1 der Fahrschüler-Ausbildungsordnung.  
-
+Der Umfang der ausschließlich klassenspezifischen theoretischen Schulung beträgt mindestens vier Unterrichtseinheiten. Der theoretische Schulungsstoff umfasst mindestens die Inhalte der Anlage 2.1 der Fahrschüler-Ausbildungsordnung. 
 3.2  
 Praktischer Übungsstoff
 
@@ -4101,8 +3961,7 @@ Für die erfolgreiche Teilnahme an der Fahrerschulung hat der Teilnehmer währen
 Teilnahmebescheinigung  
 zur Vorlage bei der Fahrerlaubnisbehörde
 
-
-## Anlage 8 – (zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3)Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung
+# Anlage 8 – (zu § 25 Absatz 1, § 26 Absatz 1, § 48 Absatz 3)Allgemeiner Führerschein, Dienstführerschein, Führerschein zur Fahrgastbeförderung
 
 (Fundstelle: BGBl. I 2010, 2057 - 2062;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4132,14 +3991,11 @@ c) Folgende Daten zum Inhaber des Führerscheins und zu seiner Fahrerlaubnis ent
 
 3. Geburtsdatum und -ort
 
-4a.  
-Ausstellungsdatum gemäß § 24a
+4a. Ausstellungsdatum gemäß § 24a
 
-4b.  
-Datum des Ablaufs der Gültigkeit
+4b. Datum des Ablaufs der Gültigkeit
 
-4c.  
-Name der Ausstellungsbehörde
+4c. Name der Ausstellungsbehörde
 
 5. Nummer des Führerscheins, die sich aus dem Behördenschlüssel der Fahrerlaubnisbehörde, einer von dieser fortlaufend zu vergebenden Fahrerlaubnisnummer sowie einer Prüfziffer und der Nummer der Ausfertigung des Dokuments zusammensetzt.
 
@@ -4172,17 +4028,17 @@ b) Die Erläuterungen zum Inhalt der Felder 1 bis 4c, 5 sowie 10 bis 12.
 
 3. Muster des Führerscheins (Muster 1)
 
-![](../normengrafiken/bgbl1_2014/j0348-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j0348-1_0010.jpg)
 
-![](../normengrafiken/bgbl1_2014/j0348-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j0348-1_0020.jpg)
 
-Vorderseite![](../normengrafiken/bgbl1_2017/j3232-1_0010.jpg)  
+Vorderseite![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j3232-1_0010.jpg)  
   
-Rückseite![](../normengrafiken/bgbl1_2017/j3232-1_0020.jpg)
+Rückseite![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j3232-1_0020.jpg)
 
-![](../normengrafiken/bgbl1_2013/j0035-1_0010.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0035-1_0010.jpg "Abbildung")
 
-![](../normengrafiken/bgbl1_2013/j0035-1_0020.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0035-1_0020.jpg "Abbildung")
 
  
 
@@ -4190,8 +4046,7 @@ Rückseite![](../normengrafiken/bgbl1_2017/j3232-1_0020.jpg)
 
 2. Geringfügige Abweichungen vom vorgeschriebenen Muster sind zulässig, soweit Besonderheiten des Verfahrens, insbesondere der Einsatz maschineller Datenverarbeitung, dies erfordern.
 
-
-## Anlage 8a – (zu § 22 Absatz 4 Satz 7)
+# Anlage 8a – (zu § 22 Absatz 4 Satz 7)
 
 (Fundstelle: BGBl. I 2015, 1679 — 1680)
 
@@ -4223,8 +4078,7 @@ Nichtzutreffendes ist zu streichen.
 <span id="FnA1-F791268_03"></span><a href="#FnR.FnA1-F791268_03" class="Footnote">**</a>  
 Nicht erteilte Klassen sind durch einen Strich entwertet.
 
-
-## Anlage 8b – (zu § 48a)
+# Anlage 8b – (zu § 48a)
 
 (Fundstelle: BGBl. I 2015, 1681 — 1682)
 
@@ -4262,8 +4116,7 @@ Namentlich benannte Personen
 |      |         |              |
 |      |         |              |
 
-
-## Anlage 8c – (zu § 25b Absatz 2)Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
+# Anlage 8c – (zu § 25b Absatz 2)Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
 
 (Fundstelle: BGBl. I 2010, 2064 - 2083;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4323,8 +4176,7 @@ Darüber hinaus kann die Fahrerlaubnisbehörde weitere Beschränkungen, die sich
 
 <a href="../normengrafiken/bgbl1_2010/j1980_0221.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 8d – (zu § 25b Absatz 3)Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968
+# Anlage 8d – (zu § 25b Absatz 3)Muster eines Internationalen Führerscheins nach dem Übereinkommen über den Straßenverkehr vom 8. November 1968
 
 (Fundstelle: BGBl. I 2010, 2084 - 2089;  
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -4409,8 +4261,7 @@ Darüber hinaus kann die Fahrerlaubnisbehörde weitere Beschränkungen, die sich
 
 <a href="../normengrafiken/bgbl1_2010/j2279_0021.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 8e – (zu § 24a Absatz 2 Satz 1)Umtausch vor dem 19. Januar 2013 ausgestellter Führerscheine
+# Anlage 8e – (zu § 24a Absatz 2 Satz 1)Umtausch vor dem 19. Januar 2013 ausgestellter Führerscheine
 
 (Fundstelle: BGBl. I 2019, 222  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4426,8 +4277,7 @@ II) Führerscheine, die ab 1. Januar 1999 ausgestellt worden sind:<span id="FnR.
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Ausstellungsjahr</th><th style="text-align: left;">Tag, bis zu dem der<br />
 Führerschein umgetauscht sein muss</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">1999 bis 2001</td><td style="text-align: left;">19. Januar 2026</td></tr><tr class="even"><td style="text-align: left;">2002 bis 2004</td><td style="text-align: left;">19. Januar 2027</td></tr><tr class="odd"><td style="text-align: left;">2005 bis 2007</td><td style="text-align: left;">19. Januar 2028</td></tr><tr class="even"><td style="text-align: left;">2008</td><td style="text-align: left;">19. Januar 2029</td></tr><tr class="odd"><td style="text-align: left;">2009</td><td style="text-align: left;">19. Januar 2030</td></tr><tr class="even"><td style="text-align: left;">2010</td><td style="text-align: left;">19. Januar 2031</td></tr><tr class="odd"><td style="text-align: left;">2011</td><td style="text-align: left;">19. Januar 2032</td></tr><tr class="even"><td style="text-align: left;">2012 bis 18. Januar 2013</td><td style="text-align: left;">19. Januar 2033</td></tr></tbody></table>
 
-
-## Anlage 9 – (zu § 25 Absatz 3)Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
+# Anlage 9 – (zu § 25 Absatz 3)Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
 
 (Fundstelle: BGBl. I 2013, 60 - 63;  
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -4436,8 +4286,7 @@ Beschränkungen, Auflagen und Zusatzangaben sind in Form von Schlüsselzahlen in
 
 I. Schlüsselzahlen der Europäischen Union
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Schlüsselzahl
 
@@ -5169,8 +5018,7 @@ Nur Fahrzeuge, die den in Klammern angegebenen Spezifikationen entsprechen, bei 
 
  
 
-Beschränkung der Klasse CE auf Grund der aus der bisherigen Klasse 3 resultierenden Berechtigung zum Führen von dreiachsigen Zügen mit Zugfahrzeug der Klasse C1 und mehr als 12 000 kg Gesamtmasse und von Zügen mit Zugfahrzeug der Klasse C1 und zulassungsfreien Anhängern, wobei die Gesamtmasse mehr als 12 000 kg betragen kann und von dreiachsigen Zügen aus einem Zugfahrzeug der Klasse C1 und einem Anhänger, bei denen die zulässige Gesamtmasse des Anhängers die Leermasse des Zugfahrzeugs übersteigt (nicht durch C1E abgedeckter Teil). Die vorgenannten Berechtigungen gelten nicht für Sattelzüge mit einer zulässigen Gesamtmasse von mehr als 7,5 t.  
-Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen.
+Beschränkung der Klasse CE auf Grund der aus der bisherigen Klasse 3 resultierenden Berechtigung zum Führen von dreiachsigen Zügen mit Zugfahrzeug der Klasse C1 und mehr als 12 000 kg Gesamtmasse und von Zügen mit Zugfahrzeug der Klasse C1 und zulassungsfreien Anhängern, wobei die Gesamtmasse mehr als 12 000 kg betragen kann und von dreiachsigen Zügen aus einem Zugfahrzeug der Klasse C1 und einem Anhänger, bei denen die zulässige Gesamtmasse des Anhängers die Leermasse des Zugfahrzeugs übersteigt (nicht durch C1E abgedeckter Teil). Die vorgenannten Berechtigungen gelten nicht für Sattelzüge mit einer zulässigen Gesamtmasse von mehr als 7,5 t. Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen.
 
 122
 
@@ -5269,8 +5117,7 @@ Die Schlüsselzahlen 01.03, 44.05 bis 44.07 und 51 dürfen nur bei der Umstellun
 
 Ia. Äquivalenz für entfallene Schlüsselzahlen der Europäischen Union
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Entfallene Schlüsselzahl
 
@@ -5545,9 +5392,7 @@ Bis zur Vollendung des 24. Lebensjahres nur
 
 3. bei Fahrten zur Personenbeförderung im Linienverkehr nach den §§ 42 und 43 Personenbeförderungsgesetz bei Linienlängen von bis zu 50 Kilometern oder bei Fahrten ohne Fahrgäste.
 
-Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet und die Berufsausbildung abgeschlossen hat.  
-Die Auflage nach Nummer 2 entfällt, wenn der Fahrerlaubnisinhaber die Berufsausbildung abgeschlossen hat.  
-Die Auflage nach Nummer 3 entfällt, wenn der Fahrerlaubnisinhaber das 20. Lebensjahr vollendet hat.
+Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet und die Berufsausbildung abgeschlossen hat. Die Auflage nach Nummer 2 entfällt, wenn der Fahrerlaubnisinhaber die Berufsausbildung abgeschlossen hat. Die Auflage nach Nummer 3 entfällt, wenn der Fahrerlaubnisinhaber das 20. Lebensjahr vollendet hat.
 
 18
 
@@ -5625,8 +5470,7 @@ Die Schlüsselzahl 182 darf nur bei der Umstellung von Fahrerlaubnissen, die bis
 
 IIa. Entfallene nationale Schlüsselzahlen
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Entfallene Schlüsselzahl
 
@@ -5646,8 +5490,7 @@ sind und
 
 2. der Inhaber der Fahrerlaubnis an einer zusätzlichen Fahrzeugeinweisung teilgenommen hat.
 
-
-## Anlage 10 – (zu den §§ 26 und 27)Dienstfahrerlaubnisse der Bundeswehr
+# Anlage 10 – (zu den §§ 26 und 27)Dienstfahrerlaubnisse der Bundeswehr
 
  
 
@@ -5679,8 +5522,7 @@ Amtliche Anmerkung: Bei Verzicht auf die Klasse A2 wird die Schlüsselzahl 79.05
 <span id="FnA1-f806403_05"></span><a href="#FnR.FnA1-f806403_05" class="Footnote">2</a>  
 Amtliche Anmerkung: Erfolgt die Zuteilung der Klasse T nur auf Antrag, wird diese nur in der Land- oder Forstwirtschaft tätigen Personen zugeteilt.
 
-
-## Anlage 11 – (zu § 31)Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis
+# Anlage 11 – (zu § 31)Staatenliste zu den Sonderbestimmungen für Inhaber einer ausländischen Fahrerlaubnis
 
 (Fundstelle: BGBl. I 2010, 2095 - 2097;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6377,8 +6219,7 @@ nein
 
 nein
 
-
-## Anlage 12 – (zu § 34)Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
+# Anlage 12 – (zu § 34)Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen der Fahrerlaubnis auf Probe (§ 2a des Straßenverkehrsgesetzes)
 
 (Fundstelle: BGBl. I 2010, 2098 - 2099;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -6475,8 +6316,7 @@ Kennzeichenmissbrauch (§ 22)
 
 soweit nicht in Abschnitt A aufgeführt.
 
-
-## Anlage 13 – (zu § 40)Bezeichnung und Bewertung der im Rahmen des Fahreignungs-Bewertungssystems zu berücksichtigenden Straftaten und Ordnungswidrigkeiten
+# Anlage 13 – (zu § 40)Bezeichnung und Bewertung der im Rahmen des Fahreignungs-Bewertungssystems zu berücksichtigenden Straftaten und Ordnungswidrigkeiten
 
 (Fundstelle BGBl. I 2014, 363 – 367;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
@@ -6558,8 +6398,7 @@ ADR i. V. m. § 37 Absatz 1 Nummer 6 Buchstabe o GGVSEB</td></tr></tbody></table
 
 .
 
-
-## Anlage 14 – (zu § 66 Absatz 2)Voraussetzungen für die amtliche Anerkennung als Träger von Begutachtungsstellen für Fahreignung
+# Anlage 14 – (zu § 66 Absatz 2)Voraussetzungen für die amtliche Anerkennung als Träger von Begutachtungsstellen für Fahreignung
 
 (Fundstelle: BGBl. I 2014, 368 – 369; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -6617,8 +6456,7 @@ cc) Hospitation an einem vollständigen Kurs zur Wiederherstellung der Kraftfahr
 
 (3) (weggefallen)
 
-
-## Anlage 14a – (zu § 71a Absatz 3)  Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Eignung der eingesetzten psychologischen Testverfahren und -geräte und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
+# Anlage 14a – (zu § 71a Absatz 3)  Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Eignung der eingesetzten psychologischen Testverfahren und -geräte und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
 
 (Fundstelle: BGBl. I 2017, 3238)
 
@@ -6648,8 +6486,7 @@ a) eine mindestens zweijährige Erfahrung in der Anwendung psychologischer, insb
 
 b) Veröffentlichungen zu einschlägigen Themen in wissenschaftlichen Fachzeitschriften oder Fachbüchern.
 
-
-## Anlage 15 – (zu § 70 Absatz 2)Voraussetzungen für die amtliche Anerkennung als Träger von Kursen zur Wiederherstellung der Kraftfahreignung
+# Anlage 15 – (zu § 70 Absatz 2)Voraussetzungen für die amtliche Anerkennung als Träger von Kursen zur Wiederherstellung der Kraftfahreignung
 
 (Fundstelle: BGBl. I 2014, 370 – 371; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -6691,8 +6528,7 @@ nachweisen,
 
 (3) Die Wirksamkeit von Kursen zur Wiederherstellung der Kraftfahreignung muss spätestens nach 6 Jahren in einem nach dem Stand der Wissenschaft durchgeführten Bewertungsverfahren (Evaluation) nachgewiesen werden. Die Kurse zur Wiederherstellung der Kraftfahreignung sind nach ihrer ersten Evaluation regelmäßig, spätestens alle 10 Jahren erneut zu evaluieren.
 
-
-## Anlage 15a – (zu § 71b) Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Geeignetheit von Kursen zur Wiederherstellung der Kraftfahreignung und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
+# Anlage 15a – (zu § 71b) Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Geeignetheit von Kursen zur Wiederherstellung der Kraftfahreignung und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
 
 (Fundstelle: BGBl. I 2017, 3239)
 
@@ -6722,8 +6558,7 @@ a) eine mindestens zweijährige Erfahrung in der Anwendung psychologischer Inter
 
 b) Veröffentlichungen zu einschlägigen Themen in Fachzeitschriften oder Fachbüchern.
 
-
-## Anlage 16 – (zu § 42 Absatz 2)Rahmenlehrplan für die Durchführung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars
+# Anlage 16 – (zu § 42 Absatz 2)Rahmenlehrplan für die Durchführung der verkehrspädagogischen Teilmaßnahme des Fahreignungsseminars
 
 (Fundstelle: BGBl. I 2013, 3930 - 3932)
 
@@ -6796,8 +6631,7 @@ beobachtung“</td></tr></tbody></table>
 
  
 
-
-## Anlage 17 – (zu § 43a Nummer 3 Buchstabe a)Inhalte der Prüfung im Rahmen der Qualitätssicherung der Fahreignungsseminare und Einweisungslehrgänge
+# Anlage 17 – (zu § 43a Nummer 3 Buchstabe a)Inhalte der Prüfung im Rahmen der Qualitätssicherung der Fahreignungsseminare und Einweisungslehrgänge
 
 (Fundstelle: BGBl. I 2014, 372; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -6904,8 +6738,7 @@ Bestätigung der Anwesenheit der Teilnehmer bei allen Kursen
 
 5. Einhaltung der Verfahren und Maßnahmen des Qualitätssicherungssystems
 
-
-## Anlage 18 – (zu § 44 Absatz 1) Format DIN A5 oder in Fällen des 1-seitigen Ausdrucks DIN A4
+# Anlage 18 – (zu § 44 Absatz 1) Format DIN A5 oder in Fällen des 1-seitigen Ausdrucks DIN A4
 
 (Fundstelle: BGBl. I 2014, 373,  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

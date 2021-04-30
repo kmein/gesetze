@@ -1,10 +1,7 @@
-# [BVetrDBAnO 1985] Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich der Deutschen Bundesbahn
-
-Ausfertigungsdatum: 21.03.1985
-
+% Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich der Deutschen Bundesbahn
+% Ausfertigungsdatum: 21.03.1985
  
-
-## I.
+# I.
 
 Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27. Februar 1985 (BGBl. I S. 479) ordnen wir an:
 
@@ -14,12 +11,10 @@ Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der Bekannt
 
 Wir behalten uns im Einzelfall die gerichtliche Vertretung der Deutschen Bundesbahn in den Fällen der Nummer 1 Satz 1 und der Nummer 2 dieser Allgemeinen Anordnung vor.
 
-
-## II.
+# II.
 
 Diese Anordnung tritt am 1. Mai 1985 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Deutsche Bundesbahn

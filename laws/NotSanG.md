@@ -1,17 +1,13 @@
-# [NotSanG] Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters   (Notfallsanitätergesetz - NotSanG)
-
-Ausfertigungsdatum: 22.05.2013
-
+% Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters   (Notfallsanitätergesetz - NotSanG)
+% Ausfertigungsdatum: 22.05.2013
  
-
-## § 1 – Führen der Berufsbezeichnung
+# § 1 – Führen der Berufsbezeichnung
 
 (1) Wer die Berufsbezeichnung „Notfallsanitäterin“ oder „Notfallsanitäter“ führen will, bedarf der Erlaubnis.
 
 (2) Notfallsanitäterinnen und Notfallsanitäter, die Staatsangehörige eines Vertragsstaats des Europäischen Wirtschaftsraums sind, führen die Berufsbezeichnung nach Absatz 1 im Geltungsbereich dieses Gesetzes ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und gelegentliche Dienstleistung im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union im Geltungsbereich dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 2 – Voraussetzungen für die Erteilung der Erlaubnis
+# § 2 – Voraussetzungen für die Erteilung der Erlaubnis
 
 (1) Die Erlaubnis, die Berufsbezeichnung „Notfallsanitäterin“ oder „Notfallsanitäter“ zu führen, ist auf Antrag zu erteilen, wenn die antragstellende Person
 
@@ -47,8 +43,7 @@ Themenbereiche oder Bereiche der praktischen Ausbildung unterscheiden sich wesen
 
 (8) Die Bundesregierung überprüft die Regelung zu den Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von drei Jahren dem Deutschen Bundestag.
 
-
-## § 2a – Eigenverantwortliche Durchführung heilkundlicher Maßnahmen durch Notfallsanitäterinnen und Notfallsanitäter
+# § 2a – Eigenverantwortliche Durchführung heilkundlicher Maßnahmen durch Notfallsanitäterinnen und Notfallsanitäter
 
 Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum Beginn einer weiteren ärztlichen, auch teleärztlichen, Versorgung dürfen Notfallsanitäterinnen und Notfallsanitäter heilkundliche Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver Art, dann eigenverantwortlich durchführen, wenn
 
@@ -56,8 +51,7 @@ Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum Beginn einer w
 
 2. die Maßnahmen jeweils erforderlich sind, um Lebensgefahr oder wesentliche Folgeschäden von der Patientin oder dem Patienten abzuwenden.
 
-
-## § 3 – Unterrichtungspflichten
+# § 3 – Unterrichtungspflichten
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des Notfallsanitäters ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten die zuständigen Behörden der Länder Auskünfte von den zuständigen Behörden der Aufnahmemitgliedstaaten, die sich auf die Ausübung des Berufs des Notfallsanitäters auswirken könnten, so prüfen sie die Richtigkeit der Sachverhalte, befinden über Art und Umfang der durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind.
 
@@ -65,8 +59,7 @@ Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum Beginn einer w
 
 (3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Absatz 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur Weiterleitung an die Kommission.
 
-
-## § 3a – Vorwarnmechanismus
+# § 3a – Vorwarnmechanismus
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz über
 
@@ -98,8 +91,7 @@ Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage nach Eint
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung (EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das Verfahren zur Ausstellung des Europäischen Berufsausweises und die Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S. 27) in der jeweils geltenden Fassung zu beachten.
 
-
-## § 4 – Ausbildungsziel
+# § 4 – Ausbildungsziel
 
 (1) Die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter soll entsprechend dem allgemein anerkannten Stand rettungsdienstlicher, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse fachliche, personale, soziale und methodische Kompetenzen zur eigenverantwortlichen Durchführung und teamorientierten Mitwirkung insbesondere bei der notfallmedizinischen Versorgung und dem Transport von Patientinnen und Patienten vermitteln. Dabei sind die unterschiedlichen situativen Einsatzbedingungen zu berücksichtigen. Die Ausbildung soll die Notfallsanitäterinnen und Notfallsanitäter außerdem in die Lage versetzen, die Lebenssituation und die jeweilige Lebensphase der Erkrankten und Verletzten und sonstigen Beteiligten sowie deren Selbständigkeit und Selbstbestimmung in ihr Handeln mit einzubeziehen.
 
@@ -137,8 +129,7 @@ c) eigenständiges Durchführen von heilkundlichen Maßnahmen, die vom Ärztlich
 
 3. mit anderen Berufsgruppen und Menschen am Einsatzort, beim Transport und bei der Übergabe unter angemessener Berücksichtigung der Gesamtlage vom individual-medizinischen Einzelfall bis zum Großschadens- und Katastrophenfall patientenorientiert zusammenzuarbeiten.
 
-
-## § 5 – Dauer und Struktur der Ausbildung
+# § 5 – Dauer und Struktur der Ausbildung
 
 (1) Die Ausbildung für Notfallsanitäterinnen und Notfallsanitäter dauert unabhängig vom Zeitpunkt der staatlichen Prüfung in Vollzeitform drei Jahre, in Teilzeitform höchstens fünf Jahre. Sie besteht aus theoretischem und praktischem Unterricht und einer praktischen Ausbildung. Die Ausbildung schließt mit einer staatlichen Prüfung ab.
 
@@ -146,8 +137,7 @@ c) eigenständiges Durchführen von heilkundlichen Maßnahmen, die vom Ärztlich
 
 (3) Die Gesamtverantwortung für die Organisation und Koordination des theoretischen und praktischen Unterrichts und der praktischen Ausbildung entsprechend dem Ausbildungsziel trägt die Schule. Die Schule unterstützt die praktische Ausbildung durch Praxisbegleitung. Die Praxisanleitung ist durch die Einrichtungen nach Absatz 2 Satz 3 sicherzustellen.
 
-
-## § 6 – Staatliche Anerkennung von Schulen; Genehmigung von Lehrrettungswachen
+# § 6 – Staatliche Anerkennung von Schulen; Genehmigung von Lehrrettungswachen
 
 (1) Die staatliche Anerkennung der Schulen nach § 5 Absatz 2 Satz 1 und die Genehmigung von Lehrrettungswachen nach § 5 Absatz 2 Satz 3 erfolgt durch die zuständige Behörde.
 
@@ -165,8 +155,7 @@ c) eigenständiges Durchführen von heilkundlichen Maßnahmen, die vom Ärztlich
 
 (3) Die Landesregierungen können durch Rechtsverordnung Regelungen zur Beschränkung der Hochschulausbildung nach Absatz 2 Satz 1 Nummer 1 und 2 auf bestimmte Hochschularten und Studiengänge treffen.
 
-
-## § 7 – Ausbildung an der Hochschule im Rahmen von Modellvorhaben
+# § 7 – Ausbildung an der Hochschule im Rahmen von Modellvorhaben
 
 (1) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung des Berufs des Notfallsanitäters im akademischen Bereich unter Berücksichtigung der berufsfeldspezifischen Anforderungen sowie moderner berufspädagogischer Erkenntnisse dienen sollen, können die Länder den Unterricht abweichend von § 5 Absatz 2 Satz 1 an Hochschulen stattfinden lassen. Abweichungen von der Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter sind jedoch nur zulässig, soweit sie den theoretischen und praktischen Unterricht in § 1 Absatz 1 Satz 1 sowie die Anlage 1 der Verordnung betreffen. Im Übrigen gilt die Verordnung unverändert mit der Maßgabe, dass an die Stelle der Schule die Hochschule tritt.
 
@@ -178,8 +167,7 @@ c) eigenständiges Durchführen von heilkundlichen Maßnahmen, die vom Ärztlich
 
 (5) Die Länder übermitteln dem Bundesministerium für Gesundheit die Ergebnisse der Auswertung.
 
-
-## § 8 – Voraussetzungen für den Zugang zur Ausbildung
+# § 8 – Voraussetzungen für den Zugang zur Ausbildung
 
 Voraussetzung für den Zugang zu einer Ausbildung nach diesem Gesetz ist,
 
@@ -197,13 +185,11 @@ eine nach einem Hauptschulabschluss oder einer gleichwertigen Schulbildung erfol
 
 b) im Rahmen eines Modellvorhabens an einer Hochschule (§ 7) der Nachweis der Hochschulzugangsberechtigung.
 
-
-## § 9 – Anrechnung gleichwertiger Ausbildungen
+# § 9 – Anrechnung gleichwertiger Ausbildungen
 
 Die zuständige Behörde kann auf Antrag eine andere erfolgreich abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer einer Ausbildung nach § 5 Absatz 1 Satz 1 oder § 7 anrechnen. Das Erreichen des Ausbildungsziels darf durch die Anrechnung nicht gefährdet werden.
 
-
-## § 10 – Anrechnung von Fehlzeiten
+# § 10 – Anrechnung von Fehlzeiten
 
 (1) Auf die Dauer einer Ausbildung nach § 5 Absatz 1 Satz 1 werden angerechnet:
 
@@ -225,8 +211,7 @@ nach Maßgabe der nach § 11 erlassenen Ausbildungs- und Prüfungsverordnung fü
 
 (4) Die Absätze 1 und 2 gelten entsprechend für Ausbildungen nach § 7.
 
-
-## § 11 – Verordnungsermächtigung
+# § 11 – Verordnungsermächtigung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen mit dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs- und Prüfungsverordnung nach Maßgabe des § 4 die Mindestanforderungen an die Ausbildung für Notfallsanitäterinnen und Notfallsanitäter nach § 5 und die weitere Ausbildung nach § 32 Absatz 2, das Nähere über die staatliche Prüfung und Ergänzungsprüfung sowie das Nähere über die Urkunden für die Erlaubnis nach § 1 Absatz 1 zu regeln.
 
@@ -246,8 +231,7 @@ nach Maßgabe der nach § 11 erlassenen Ausbildungs- und Prüfungsverordnung fü
 
 (3) Abweichungen durch Landesrecht von den Regelungen des Verwaltungsverfahrens in der auf der Grundlage der Absätze 1 und 2 erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 12 – Ausbildungsvertrag
+# § 12 – Ausbildungsvertrag
 
 (1) Zwischen dem Ausbildungsträger und der Schülerin oder dem Schüler ist ein schriftlicher Ausbildungsvertrag nach Maßgabe der Vorschriften dieses Abschnitts zu schließen.
 
@@ -275,8 +259,7 @@ nach Maßgabe der nach § 11 erlassenen Ausbildungs- und Prüfungsverordnung fü
 
 (4) Änderungen des Ausbildungsvertrages bedürfen der Schriftform.
 
-
-## § 13 – Pflichten des Ausbildungsträgers
+# § 13 – Pflichten des Ausbildungsträgers
 
 (1) Der Ausbildungsträger ist verpflichtet,
 
@@ -286,8 +269,7 @@ nach Maßgabe der nach § 11 erlassenen Ausbildungs- und Prüfungsverordnung fü
 
 (2) Den Schülerinnen und Schülern dürfen nur Aufgaben übertragen werden, die dem Ausbildungszweck und dem Ausbildungsstand entsprechen; die übertragenen Aufgaben sollen den physischen und psychischen Kräften der Schülerinnen und Schüler angemessen sein. Während der praktischen Ausbildung an einer genehmigten Lehrrettungswache können die Schülerinnen und Schüler auch zu regulären, dienstplanmäßigen Einsatzdiensten herangezogen werden, wenn die Teilnahme am Einsatzdienst dem Zweck der Ausbildung dient und sich der Ausbildungsträger nach einer Überprüfung ihrer Kompetenz vergewissert hat, dass die Schülerin oder der Schüler dazu in der Lage ist.
 
-
-## § 14 – Pflichten der Schülerin oder des Schülers
+# § 14 – Pflichten der Schülerin oder des Schülers
 
 Die Schülerin oder der Schüler hat sich zu bemühen, die in § 4 genannten Kompetenzen zu erwerben, die erforderlich sind, um das Ausbildungsziel zu erreichen. Sie oder er ist insbesondere verpflichtet,
 
@@ -297,8 +279,7 @@ Die Schülerin oder der Schüler hat sich zu bemühen, die in § 4 genannten Kom
 
 3. die für Beschäftigte in Einrichtungen nach § 5 Absatz 2 Satz 3 geltenden Bestimmungen über die Schweigepflicht einzuhalten und über Betriebsgeheimnisse Stillschweigen zu wahren.
 
-
-## § 15 – Ausbildungsvergütung
+# § 15 – Ausbildungsvergütung
 
 (1) Der Ausbildungsträger hat der Schülerin oder dem Schüler eine angemessene Ausbildungsvergütung zu gewähren.
 
@@ -306,20 +287,17 @@ Die Schülerin oder der Schüler hat sich zu bemühen, die in § 4 genannten Kom
 
 (3) Eine über die vereinbarte regelmäßige tägliche oder wöchentliche Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise zulässig und besonders zu vergüten.
 
-
-## § 16 – Probezeit
+# § 16 – Probezeit
 
 Das Ausbildungsverhältnis beginnt mit der Probezeit. Die Probezeit beträgt vier Monate.
 
-
-## § 17 – Ende des Ausbildungsverhältnisses
+# § 17 – Ende des Ausbildungsverhältnisses
 
 (1) Das Ausbildungsverhältnis endet mit Ablauf der Ausbildungszeit.
 
 (2) Besteht die Schülerin oder der Schüler die staatliche Prüfung nicht oder kann sie oder er ohne eigenes Verschulden die staatliche Prüfung nicht vor Ablauf der Ausbildung ablegen, so verlängert sich das Ausbildungsverhältnis auf ihren oder seinen schriftlichen Antrag beim Ausbildungsträger bis zur nächstmöglichen Wiederholungsprüfung, höchstens jedoch um ein Jahr.
 
-
-## § 18 – Kündigung des Ausbildungsverhältnisses
+# § 18 – Kündigung des Ausbildungsverhältnisses
 
 (1) Während der Probezeit kann das Ausbildungsverhältnis von jedem Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist gekündigt werden.
 
@@ -337,13 +315,11 @@ b) wenn ein sonstiger wichtiger Grund vorliegt, sowie
 
 (4) Eine Kündigung aus einem wichtigen Grund ist unwirksam, wenn die ihr zugrunde liegenden Tatsachen der kündigungsberechtigten Person länger als 14 Tage bekannt sind. Ist ein vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen Beendigung der Lauf dieser Frist gehemmt.
 
-
-## § 19 – Beschäftigung im Anschluss an das Ausbildungsverhältnis
+# § 19 – Beschäftigung im Anschluss an das Ausbildungsverhältnis
 
 Wird die Schülerin oder der Schüler im Anschluss an das Ausbildungsverhältnis beschäftigt, ohne dass hierüber ausdrücklich etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
-
-## § 20 – Nichtigkeit von Vereinbarungen
+# § 20 – Nichtigkeit von Vereinbarungen
 
 (1) Eine Vereinbarung, die zu Ungunsten der Schülerin oder des Schülers von den übrigen Vorschriften dieses Abschnitts abweicht, ist nichtig.
 
@@ -359,8 +335,7 @@ Wird die Schülerin oder der Schüler im Anschluss an das Ausbildungsverhältnis
 
 4. die Festsetzung der Höhe eines Schadensersatzes in Pauschalbeträgen.
 
-
-## § 21 – Ausschluss der Geltung von Vorschriften dieses Abschnitts
+# § 21 – Ausschluss der Geltung von Vorschriften dieses Abschnitts
 
 Die Vorschriften dieses Abschnitts finden keine Anwendung auf Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die
 
@@ -368,8 +343,7 @@ Die Vorschriften dieses Abschnitts finden keine Anwendung auf Ausbildungsteilneh
 
 2. in einem öffentlich-rechtlichen Dienst- und Treueverhältnis als Beamte auf Widerruf stehen.
 
-
-## § 22 – Dienstleistungserbringende Personen
+# § 22 – Dienstleistungserbringende Personen
 
 (1) Staatsangehörige eines Vertragsstaats des Europäischen Wirtschaftsraums, die zur Ausübung des Berufs des Notfallsanitäters in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des § 2 Absatz 4 entsprechenden Ausbildungsnachweises berechtigt sind und
 
@@ -385,8 +359,7 @@ dürfen als dienstleistungserbringende Personen im Sinne des Artikels 57 des Ver
 
 (4) § 1 Absatz 2 Satz 3 gilt entsprechend.
 
-
-## § 23 – Meldung der dienstleistungserbringenden Person an die zuständige Behörde
+# § 23 – Meldung der dienstleistungserbringenden Person an die zuständige Behörde
 
 (1) Wer beabsichtigt, im Sinne des § 22 Absatz 1 Dienstleistungen zu erbringen, hat dies der zuständigen Behörde vorher schriftlich zu melden. Die Meldung ist einmal jährlich zu erneuern, wenn die dienstleistungserbringende Person beabsichtigt, während des betreffenden Jahres vorübergehend und gelegentlich Dienstleistungen im Geltungsbereich dieses Gesetzes zu erbringen.
 
@@ -400,8 +373,7 @@ dürfen als dienstleistungserbringende Personen im Sinne des Artikels 57 des Ver
 
 Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutschen Sprache müssen vorhanden sein.
 
-
-## § 24 – Prüfen der Angaben durch die zuständige Behörde
+# § 24 – Prüfen der Angaben durch die zuständige Behörde
 
 (1) Die zuständige Behörde prüft im Fall der erstmaligen Dienstleistungserbringung den nach § 23 Absatz 2 Satz 1 vorgelegten Berufsqualifikationsnachweis.
 
@@ -409,8 +381,7 @@ Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der deutsche
 
 (3) Der Ausgleich der fehlenden Kenntnisse und Fertigkeiten erfolgt durch eine Eignungsprüfung.
 
-
-## § 25 – Bescheinigungen der zuständigen Behörde
+# § 25 – Bescheinigungen der zuständigen Behörde
 
 Einer oder einem Staatsangehörigen eines Vertragsstaats des Europäischen Wirtschaftsraums, die oder der im Geltungsbereich dieses Gesetzes den Beruf des Notfallsanitäters auf Grund einer Erlaubnis nach § 1 Absatz 1 ausübt, ist auf Antrag für Zwecke der Dienstleistungserbringung in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums eine Bescheinigung darüber auszustellen, dass sie oder er
 
@@ -420,8 +391,7 @@ Einer oder einem Staatsangehörigen eines Vertragsstaats des Europäischen Wirts
 
 § 1 Absatz 2 Satz 3 gilt entsprechend.
 
-
-## § 26 – Verwaltungszusammenarbeit, Unterrichtungspflichten
+# § 26 – Verwaltungszusammenarbeit, Unterrichtungspflichten
 
 (1) Wird gegen die Pflichten nach § 22 Absatz 2 verstoßen, so hat die zuständige Behörde unverzüglich die zuständige Behörde des Niederlassungsmitgliedstaats dieser dienstleistungserbringenden Person hierüber zu unterrichten.
 
@@ -433,8 +403,7 @@ Einer oder einem Staatsangehörigen eines Vertragsstaats des Europäischen Wirts
 
 2. Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen.
 
-
-## § 27 – Aufgaben der jeweils zuständigen Behörden
+# § 27 – Aufgaben der jeweils zuständigen Behörden
 
 (1) Die Entscheidungen, ob die Erlaubnis erteilt wird, die Berufsbezeichnung „Notfallsanitäterin“ oder „Notfallsanitäter“ zu führen (§ 2 Absatz 1), trifft die zuständige Behörde des Landes, in dem die antragstellende Person die Prüfung abgelegt hat.
 
@@ -448,8 +417,7 @@ Einer oder einem Staatsangehörigen eines Vertragsstaats des Europäischen Wirts
 
 (6) Die Länder bestimmen die zur Durchführung dieses Gesetzes zuständigen Behörden.
 
-
-## § 28 – Bußgeldvorschriften
+# § 28 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -461,18 +429,15 @@ führt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-
-## § 29 – Nichtanwendung des Berufsbildungsgesetzes
+# § 29 – Nichtanwendung des Berufsbildungsgesetzes
 
 Für die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter findet das Berufsbildungsgesetz keine Anwendung.
 
-
-## § 30 – Weiterführen der alten Erlaubnis zur Führung der Berufsbezeichnung
+# § 30 – Weiterführen der alten Erlaubnis zur Führung der Berufsbezeichnung
 
 Rettungsassistentinnen und Rettungsassistenten, die eine Erlaubnis nach dem Rettungsassistentengesetz besitzen, dürfen die Berufsbezeichnung weiterhin führen. Die Berufsbezeichnung „Rettungsassistentin“ oder „Rettungsassistent“ darf jedoch nur unter den Voraussetzungen des Satzes 1 geführt werden.
 
-
-## § 31 – Weitergeltung staatlicher Anerkennungen von Schulen
+# § 31 – Weitergeltung staatlicher Anerkennungen von Schulen
 
 (1) Schulen entsprechend § 5 Absatz 2 Satz 1, die vor Inkrafttreten dieses Gesetzes auf Grund des Rettungsassistentengesetzes staatlich anerkannt worden sind, gelten weiterhin als staatlich anerkannt nach § 6, wenn die Anerkennung nicht zurückgenommen wird.
 
@@ -488,8 +453,7 @@ Rettungsassistentinnen und Rettungsassistenten, die eine Erlaubnis nach dem Rett
 
 4. an einer Weiterbildung zur Leitung einer staatlich anerkannten Rettungsassistentenschule oder Lehrkraft teilnehmen und diese innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes abschließen.
 
-
-## § 32 – Übergangsvorschriften
+# § 32 – Übergangsvorschriften
 
 (1) Eine Ausbildung zur Rettungsassistentin oder zum Rettungsassistenten, die vor Außerkrafttreten des Rettungsassistentengesetzes vom 10. Juli 1989 (BGBl. I S. 1384), das zuletzt durch Artikel 19 des Gesetzes vom 2. Dezember 2007 (BGBl. I S. 2686) geändert worden ist, begonnen worden ist, wird nach den Vorschriften des Rettungsassistentengesetzes abgeschlossen. Nach Abschluss der Ausbildung erhält die antragstellende Person, wenn die Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 vorliegen, die Erlaubnis, die Berufsbezeichnung „Rettungsassistentin“ oder „Rettungsassistent“ zu führen.
 

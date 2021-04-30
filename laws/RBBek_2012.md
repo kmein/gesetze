@@ -1,10 +1,7 @@
-# [RBBek 2012] Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2012
-
-Ausfertigungsdatum: 20.10.2011
-
+% Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2012
+% Ausfertigungsdatum: 20.10.2011
  
-
-## ----
+# ----
 
 Nach § 20 Absatz 5 Satz 3 des Zweiten Buches Sozialgesetzbuch – Grundsicherung für Arbeitsuchende – in der Fassung der Bekanntmachung vom 13. Mai 2011 (BGBl. I S. 850) wird hiermit Folgendes bekannt gemacht:
 
@@ -24,7 +21,6 @@ Als Regelbedarfe nach § 20 Absatz 2 bis 4 sowie nach § 23 Nummer 1 des Zweiten
 
 7. für Leistungsberechtigte im 15. Lebensjahr monatlich 287 Euro (§ 23 Nummer 1 dritte Alternative in Verbindung mit § 77 Absatz 4 Nummer 4 SGB II).
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

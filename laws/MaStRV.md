@@ -1,12 +1,7 @@
-# [MaStRV] Verordnung über das zentrale elektronische Verzeichnis energiewirtschaftlicher Daten  (Marktstammdatenregisterverordnung - MaStRV)
-
-Ausfertigungsdatum: 10.04.2017
-
+% Verordnung über das zentrale elektronische Verzeichnis energiewirtschaftlicher Daten  (Marktstammdatenregisterverordnung - MaStRV)
+% Ausfertigungsdatum: 10.04.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -28,13 +23,13 @@ Ausfertigungsdatum: 10.04.2017
 
  
 
+ 
 
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung dient der Ausgestaltung des Marktstammdatenregisters nach § 111e des Energiewirtschaftsgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinn dieser Verordnung ist
 
@@ -82,8 +77,7 @@ f) Stromverbrauchseinheit,
 
 16. „Webportal“ die elektronische Plattform des Marktstammdatenregisters im Internet.
 
-
-## § 3 – Registrierung von Marktakteuren
+# § 3 – Registrierung von Marktakteuren
 
 (1) Folgende Marktakteure müssen sich nach Absatz 2 im Marktstammdatenregister registrieren:
 
@@ -113,8 +107,7 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 
 (+++ § 3 Abs. 2: Zur Anwendung vgl. § 25 Abs. 2 Satz 2 +++)
 
-
-## § 4 – Registrierung von Behörden
+# § 4 – Registrierung von Behörden
 
 (1) Folgende Behörden müssen sich im Marktstammdatenregister registrieren:
 
@@ -128,8 +121,7 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 
 (2) Behörden, die nicht zur Registrierung verpflichtet sind, können sich im Marktstammdatenregister freiwillig registrieren.
 
-
-## § 5 – Registrierung von Einheiten und von EEG- und KWK-Anlagen
+# § 5 – Registrierung von Einheiten und von EEG- und KWK-Anlagen
 
 (1) Betreiber müssen ihre Einheiten, ihre EEG- und KWK-Anlagen bei deren Inbetriebnahme im Marktstammdatenregister registrieren. Einheiten von Solaranlagen, die von demselben Betreiber am selben Standort gleichzeitig in Betrieb genommen werden, sind summarisch als eine Einheit zu registrieren; § 38b Absatz 2 Satz 1 des Erneuerbare-Energien-Gesetzes ist entsprechend anzuwenden.
 
@@ -137,8 +129,7 @@ Ein Marktakteur, der in mehr als einer der in Satz 1 genannten Marktfunktionen a
 
 1. bei Stromerzeugungseinheiten, Stromspeichern sowie EEG- und KWK-Anlagen, wenn sie weder unmittelbar noch mittelbar an ein Stromnetz angeschlossen sind oder an ein Stromnetz angeschlossen werden sollen,
 
-1a.  
-bei Gaserzeugungseinheiten und Gasspeichern, wenn sie weder unmittelbar noch mittelbar an ein Gasnetz angeschlossen sind oder an ein Gasnetz angeschlossen werden sollen,
+1a. bei Gaserzeugungseinheiten und Gasspeichern, wenn sie weder unmittelbar noch mittelbar an ein Gasnetz angeschlossen sind oder an ein Gasnetz angeschlossen werden sollen,
 
 2. bei Stromverbrauchseinheiten, die nicht an das Hoch- oder Höchstspannungsnetz angeschlossen sind,
 
@@ -156,13 +147,11 @@ bei Gaserzeugungseinheiten und Gasspeichern, wenn sie weder unmittelbar noch mit
 
 (+++ § 5 Abs. 2: Zur Anwendung vgl. § 25 Abs. 2 Satz 2 +++)
 
-
-## § 6 – Erforderliche Daten zur Registrierung
+# § 6 – Erforderliche Daten zur Registrierung
 
 Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlage zu dieser Verordnung erforderlich sind.
 
-
-## § 7 – Registrierung von Änderungen
+# § 7 – Registrierung von Änderungen
 
 (1) Änderungen, die die im Marktstammdatenregister eingetragenen Daten betreffen, muss der Verantwortliche innerhalb eines Monats nach ihrem Eintritt im Marktstammdatenregister registrieren.
 
@@ -170,8 +159,7 @@ Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlag
 
 (+++ § 7 Abs. 1: Zur Nichtanwendung vgl. § 18 Abs. 5 +++)
 
-
-## § 8 – Registrierungsverfahren
+# § 8 – Registrierungsverfahren
 
 (1) Für die Registrierungen muss das Webportal genutzt werden. Ein Marktakteur, der eine natürliche Person ist und der sich nach § 3 Absatz 1 Nummer 1 zu registrieren hat, darf dem Marktstammdatenregister Daten und andere Informationen auch schriftlich übermitteln; hierzu erstellt die Bundesnetzagentur Formulare, die sie den Marktakteuren auf Anforderung bereitzustellen hat und die von den Marktakteuren zu verwenden sind.
 
@@ -183,8 +171,7 @@ Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlag
 
 (+++ § 8 Abs. 1 Satz 1: Zur Anwendung vgl. § 25 Abs. 1 +++)
 
-
-## § 9 – Verarbeitung von Daten
+# § 9 – Verarbeitung von Daten
 
 (1) Die Bundesnetzagentur verarbeitet Daten einschließlich personenbezogener Daten, soweit dies zur Registerführung erforderlich ist.
 
@@ -196,8 +183,7 @@ Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlag
 
 (5) Vor der Löschung von Daten hat die Bundesnetzagentur dem Bundesarchiv eine Kopie des vollständigen Datenbestandes zur Übernahme anzubieten. Die Bundesnetzagentur kann dem Bundesarchiv stattdessen regelmäßig eine Ausfertigung der zur Datensicherung hergestellten Kopien anbieten. Das Anbietungs- und Abgabeverfahren erfolgt nach § 5 Absatz 3 Satz 5 des Bundesarchivgesetzes.
 
-
-## § 10 – Überprüfung und Änderung der gespeicherten Daten
+# § 10 – Überprüfung und Änderung der gespeicherten Daten
 
 (1) Die Bundesnetzagentur kann die gespeicherten Daten jederzeit im Rahmen der Registerführung überprüfen. Hierzu kann sie die im Marktstammdatenregister eingetragenen Daten mit den Daten abgleichen, die
 
@@ -221,8 +207,7 @@ Bei jeder Registrierung müssen die Daten eingetragen werden, die nach der Anlag
 
 (+++ § 10 Abs. 2: Zur Anwendung vgl. § 13 Abs. 2 +++)
 
-
-## § 11 – Übernahme von Daten
+# § 11 – Übernahme von Daten
 
 Die Bundesnetzagentur übernimmt vorhandene Daten zu Anlagen, die vor dem 1. Juli 2017 in Betrieb genommen wurden, in das Marktstammdatenregister. Sie kann dafür Daten in das Register übernehmen, die ihr aufgrund folgender Bestimmungen zu den dort genannten Zwecken übermittelt worden sind:
 
@@ -238,11 +223,9 @@ Die Bundesnetzagentur übernimmt vorhandene Daten zu Anlagen, die vor dem 1. Jul
 
 6. von Betreibern von Anlagen zur Erzeugung von Strom aus Biogas nach § 33i Absatz 1 Nummer 3 Buchstabe a des Erneuerbare-Energien-Gesetzes in der am 31. Juli 2014 geltenden Fassung.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Überprüfung gespeicherter Daten durch die Netzbetreiber
+# § 13 – Überprüfung gespeicherter Daten durch die Netzbetreiber
 
 (1) Die Bundesnetzagentur kann die Netzbetreiber auffordern, die im Marktstammdatenregister eingetragenen Daten von Einheiten, EEG- und KWK-Anlagen, die unmittelbar oder mittelbar an ihr Netz angeschlossen sind, und Daten der Betreiber dieser Einheiten und Anlagen zu prüfen. Insbesondere soll sie die Netzbetreiber zur Überprüfung der Daten, die in der Anlage entsprechend gekennzeichnet sind, auffordern, die
 
@@ -258,8 +241,7 @@ Die Bundesnetzagentur übernimmt vorhandene Daten zu Anlagen, die vor dem 1. Jul
 
 (5) (weggefallen)
 
-
-## § 14 – Daten zu technischen Lokationen
+# § 14 – Daten zu technischen Lokationen
 
 (1) Netzbetreiber fassen Einheiten, die miteinander verbunden sind (Konfigurationen), zu folgenden technischen Lokationen zusammen:
 
@@ -275,8 +257,7 @@ Die Bundesnetzagentur übernimmt vorhandene Daten zu Anlagen, die vor dem 1. Jul
 
 (3) Die Bundesnetzagentur weist jeder technischen Lokation eine eindeutige Nummer zu.
 
-
-## § 15 – Öffentliche Zugänglichkeit der Daten
+# § 15 – Öffentliche Zugänglichkeit der Daten
 
 (1) Die im Marktstammdatenregister gespeicherten Daten werden wie folgt veröffentlicht:
 
@@ -294,8 +275,7 @@ Betreiber von mehreren Stromerzeugungseinheiten dürfen aus Vertraulichkeitsgrü
 
 (2) Die Bundesnetzagentur kann von einer Veröffentlichung der Daten zu registrierten Zulassungen absehen, wenn dies für eine effiziente Durchführung von Ausschreibungen nach dem Erneuerbare-Energien-Gesetz, dem Windenergie-auf-See-Gesetz oder dem Kraft-Wärme-Kopplungsgesetz erforderlich ist.
 
-
-## § 16 – Verwendung der Daten durch Behörden; Weitergabe an Dritte
+# § 16 – Verwendung der Daten durch Behörden; Weitergabe an Dritte
 
 (1) Behörden sollen die ihnen zugänglichen Daten des Registers verwenden, soweit sie diese Daten zur Erfüllung ihrer jeweiligen Aufgaben benötigen.
 
@@ -331,8 +311,7 @@ Die Bundesnetzagentur muss jeden Zugang, den sie nach Satz 1 eröffnet, im Inter
 
 § 16 Abs. 3 Satz 1 Eingangssatz Kursivdruck: IdF d. Art. 1 Nr. 14 Buchst. d V v. 15.11.2018 I 1891 mWv 21.11.2018 (bezeichnet als Abs. 3 Satz 1; an Stelle der Wörter "personenbezogenen Daten und Daten, die nach der Anlage zu dieser Verordnung als vertraulich eingestuft sind" wurden aufgrund offensichtlicher Unrichtigkeit die Wörter "personenbezogenen Daten oder zu Daten, die nach der Anlage zu dieser Verordnung als vertraulich eingestuft sind" durch die Wörter "Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten" ersetzt)
 
-
-## § 17 – Verwendung der Daten durch Netzbetreiber und andere Marktakteure
+# § 17 – Verwendung der Daten durch Netzbetreiber und andere Marktakteure
 
 (1) Die Bundesnetzagentur gewährt Netzbetreibern Zugang zu Daten, die nach § 15 Absatz 1 nicht veröffentlicht werden, einschließlich personenbezogener Daten, soweit
 
@@ -346,8 +325,7 @@ Datenzugang nach Satz 1 ist entsprechend den zuständigen Übertragungsnetzbetre
 
 (3) Netzbetreiber müssen Daten, zu denen ihnen Zugang nach Absatz 1 oder nach § 13 gewährt wurde, unverzüglich löschen, sobald sie die Daten nicht mehr zur Erfüllung ihrer gesetzlichen Aufgaben sowie zur Überprüfung nach § 13 Absatz 1 benötigen. Die Löschpflicht ist entsprechend auf die zuständigen Übertragungsnetzbetreiber und die zuständigen Marktgebietsverantwortlichen anzuwenden.
 
-
-## § 18 – Zusätzliche Meldepflichten
+# § 18 – Zusätzliche Meldepflichten
 
 (1) Betreiber von EEG-Anlagen, für die erstmals die Flexibilitätsprämie nach § 50b des Erneuerbare-Energien-Gesetzes in Anspruch genommen werden soll, müssen die geplante Inanspruchnahme im Marktstammdatenregister eintragen. Die Eintragung darf frühestens drei Monate vor der geplanten Inanspruchnahme der Flexibilitätsprämie erfolgen. Diese Frist ist abweichend von § 7 Absatz 1 auch anzuwenden auf die Registrierung einer Erhöhung der installierten Leistung der Anlage, wenn die Leistung zur Inanspruchnahme der Flexibilitätsprämie erhöht wird.
 
@@ -367,8 +345,7 @@ Der Netzbetreiber muss der Bundesnetzagentur die Nutzung der Kapazität unverzü
 
 (6) Betreiber von Wasserkraftanlagen müssen vorgenommene Ertüchtigungen im Sinne von § 40 Absatz 2 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Anlage zu dieser Verordnung innerhalb eines Monats nach der Inbetriebnahme der ertüchtigten Anlage eintragen.
 
-
-## § 19 – Veröffentlichungen
+# § 19 – Veröffentlichungen
 
 (1) Die Bundesnetzagentur veröffentlicht auf einer von ihr betriebenen Internetseite:
 
@@ -396,8 +373,7 @@ b) die anzulegenden Werte, die sich jeweils nach Maßgabe von § 49 des Erneuerb
 
 (2) Zur Umsetzung des § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes hat die Bundesnetzagentur die Stilllegungen nach § 18 Absatz 3 gesondert auf ihrer Internetseite zu veröffentlichen, soweit der Nutzung der freigewordenen Kapazität nicht widersprochen wurde. Dabei veröffentlicht sie auch die Höhe der installierten Leistung der jeweiligen Anlage, die für den Nachweis nach § 100 Absatz 3 Satz 3 des Erneuerbare-Energien-Gesetzes herangezogen werden kann. Die Veröffentlichung muss aktualisiert werden, sobald eine Stilllegung eingetragen worden ist oder ein Netzbetreiber die geplante Nutzung der Kapazität im Sinn des § 18 Absatz 4 angezeigt hat.
 
-
-## § 20 – Nutzungsbestimmungen
+# § 20 – Nutzungsbestimmungen
 
 (1) Die Bundesnetzagentur kann im Rahmen dieser Verordnung durch Allgemeinverfügung weitere konkretisierende Bedingungen und Spezifikationen zur Nutzung des Marktstammdatenregisters erlassen. Insbesondere kann sie Formulare, Formatvorgaben und Registrierungsverfahren verbindlich vorgeben.
 
@@ -405,8 +381,7 @@ b) die anzulegenden Werte, die sich jeweils nach Maßgabe von § 49 des Erneuerb
 
 (3) Die Bundesnetzagentur kann für die Datenübermittlungen nach dieser Verordnung ein bestimmtes Format und ein etabliertes, dem Schutzbedarf angemessenes Verschlüsselungsverfahren vorgeben. Das Verschlüsselungsverfahren muss den Vorgaben des Bundesamtes für Sicherheit in der Informationstechnik entsprechen.
 
-
-## § 21 – Ordnungswidrigkeiten
+# § 21 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinn des § 95 Absatz 1 Nummer 5 Buchstabe d des Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -414,8 +389,7 @@ Ordnungswidrig im Sinn des § 95 Absatz 1 Nummer 5 Buchstabe d des Energiewirtsc
 
 2. einer vollziehbaren Anordnung nach § 10 Absatz 3 zuwiderhandelt.
 
-
-## § 22 – Festlegungen
+# § 22 – Festlegungen
 
 Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaftsgesetzes unter Beachtung der Zwecke des § 111e Absatz 1 des Energiewirtschaftsgesetzes treffen über:
 
@@ -433,8 +407,7 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 
 7. Maßgaben für die Prüfung der Daten durch die Netzbetreiber nach § 13 und über Daten, die abweichend von der Spalte Netzbetreiberprüfung in den Tabellen der Anlage zu dieser Verordnung geprüft oder nicht mehr geprüft werden müssen.
 
-
-## § 23 – Fälligkeit von Ansprüchen auf Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz
+# § 23 – Fälligkeit von Ansprüchen auf Zahlungen nach dem Erneuerbare-Energien-Gesetz und dem Kraft-Wärme-Kopplungsgesetz
 
 (1) Ansprüche auf Zahlungen von Marktprämien, Einspeisevergütungen und Flexibilitätsprämien nach dem Erneuerbare-Energien-Gesetz sowie Ansprüche auf Zahlungen nach dem Kraft-Wärme-Kopplungsgesetz werden erst fällig, wenn die Betreiber die Einheiten registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Betriebs nach ihrer Modernisierung registriert haben. Dies gilt entsprechend für Abschlagszahlungen auf diese Zahlungen.
 
@@ -442,13 +415,11 @@ Die Bundesnetzagentur kann Festlegungen nach § 29 Absatz 1 des Energiewirtschaf
 
 (+++ § 23: Zur Anwendung vgl. § 25 Abs. 7 +++)
 
-
-## § 24 – Berichterstattung
+# § 24 – Berichterstattung
 
 Die Bundesregierung berichtet dem Bundestag im Monitoring-Prozess „Energie der Zukunft“ jährlich über Erfahrungen mit dem Marktstammdatenregister und seiner Entwicklung.
 
-
-## § 25 – Übergangsbestimmungen
+# § 25 – Übergangsbestimmungen
 
 (1) Die Bundesnetzagentur gibt den Start des Webportals zum Marktstammdatenregister auf ihrer Internetseite und im Amtsblatt der Bundesnetzagentur bekannt. § 8 Absatz 1 Satz 1 ist erst ab diesem Zeitpunkt anzuwenden.
 
@@ -488,8 +459,7 @@ Für Registrierungen nach den Nummern 1 und 2 sind die Fristen gemäß § 3 Absa
 
 (6) § 23 Absatz 1 ist auf Einheiten, die vor dem 1. Februar 2019 in Betrieb genommen wurden, bis zum Ablauf von 24 Monaten nach dem Start des Webportals nicht und danach mit der Maßgabe anzuwenden, dass die Ansprüche nicht fällig werden, solange die Betreiber die Einheiten nicht registriert haben oder, bei KWK-Anlagen, die Wiederaufnahme des Dauerbetriebs nach ihrer Modernisierung nicht registriert haben und der Netzbetreiber Kenntnis von der Nichtregistrierung erlangt hat oder erlangt haben müsste.
 
-
-## Anlage – Im Marktstammregister zu erfassende Daten
+# Anlage – Im Marktstammregister zu erfassende Daten
 
 (Fundstelle: BGBl. I 2018, 1895 - 1904;)  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

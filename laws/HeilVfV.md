@@ -1,12 +1,7 @@
-# [HeilVfV] Verordnung über die Durchführung von Heilverfahren nach § 33 des Beamtenversorgungsgesetzes  (Heilverfahrensverordnung - HeilVfV)
-
-Ausfertigungsdatum: 09.11.2020
-
+% Verordnung über die Durchführung von Heilverfahren nach § 33 des Beamtenversorgungsgesetzes  (Heilverfahrensverordnung - HeilVfV)
+% Ausfertigungsdatum: 09.11.2020
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -26,8 +21,9 @@ Ausfertigungsdatum: 09.11.2020
 
  
 
+ 
 
-## § 1 – Persönlicher Geltungsbereich
+# § 1 – Persönlicher Geltungsbereich
 
 Diese Verordnung gilt für die durch einen Dienstunfall nach § 31 des Beamtenversorgungsgesetzes verletzten
 
@@ -37,15 +33,13 @@ Diese Verordnung gilt für die durch einen Dienstunfall nach § 31 des Beamtenve
 
 Für die Richterinnen und Richter im Bundesdienst gilt diese Verordnung nach § 46 des Deutschen Richtergesetzes entsprechend.
 
-
-## § 2 – Rechtsanspruch
+# § 2 – Rechtsanspruch
 
 (1) Eine durch einen Dienstunfall verletzte Person hat Anspruch auf Durchführung eines Heilverfahrens mit dem Ziel, die Folgen des Dienstunfalls zu beseitigen oder zu lindern und eine möglichst rasche Rehabilitation zu erreichen.
 
 (2) Der Anspruch auf Durchführung des Heilverfahrens wird dadurch erfüllt, dass der verletzten Person die wirtschaftlich angemessenen Aufwendungen für notwendige Maßnahmen des Heilverfahrens erstattet werden, soweit nicht der Dienstherr das Heilverfahren selbst durchführt.
 
-
-## § 3 – Notwendigkeit und Angemessenheit
+# § 3 – Notwendigkeit und Angemessenheit
 
 (1) Notwendig sind die von einer Ärztin oder einem Arzt, einer Zahnärztin oder einem Zahnarzt, einer Psychotherapeutin oder einem Psychotherapeuten, einer Heilpraktikerin oder einem Heilpraktiker durchgeführten oder verordneten Maßnahmen, die erforderlich sind, um die Folgen des Dienstunfalls zu beseitigen oder zu lindern. § 6 Absatz 2 der Bundesbeihilfeverordnung gilt entsprechend.
 
@@ -58,8 +52,7 @@ Für die Richterinnen und Richter im Bundesdienst gilt diese Verordnung nach § 
 (+++ § 3 Abs. 3: Zur Geltung vgl. § 11 Abs. 5 S 4 +++)  
 (+++ § 3 Abs. 3: Zur Geltung vgl. § 12 Abs. 5 +++)
 
-
-## § 4 – Durchgangsärztliche und besondere unfallmedizinische Behandlung
+# § 4 – Durchgangsärztliche und besondere unfallmedizinische Behandlung
 
 (1) Ist auf Grund einer Verletzung mit einer vorübergehenden Dienstunfähigkeit über den Unfalltag hinaus oder mit einer Behandlungsbedürftigkeit zu rechnen, so hat sich die verletzte Person von einer Durchgangsärztin oder einem Durchgangsarzt untersuchen und behandeln zu lassen. Dabei hat die verletzte Person die freie Wahl unter den am Unfall-, Dienst- oder Wohnort niedergelassenen oder an einem dortigen Krankenhaus tätigen Durchgangsärztinnen und Durchgangsärzten.
 
@@ -75,8 +68,7 @@ Für die Richterinnen und Richter im Bundesdienst gilt diese Verordnung nach § 
 
 (3) Sofern wegen der Art und Schwere der Verletzung eine besondere unfallmedizinische Behandlung erforderlich ist, hat die Dienstunfallfürsorgestelle dafür Sorge zu tragen, dass die verletzte Person in einem Krankenhaus im Sinne des § 34 Absatz 2 des Siebten Buches Sozialgesetzbuch behandelt wird.
 
-
-## § 5 – Gutachten
+# § 5 – Gutachten
 
 Sofern nach dieser Verordnung ein ärztliches Gutachten oder ein Gutachten zur Feststellung eines ursächlichen Zusammenhangs eingeholt wird, beauftragt die Dienstunfallfürsorgestelle
 
@@ -88,8 +80,7 @@ Sofern nach dieser Verordnung ein ärztliches Gutachten oder ein Gutachten zur F
 
 Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz 2 sowie bei Begutachtungen, die im Ausland erfolgen müssen.
 
-
-## § 6 – Erstattungsfähige Aufwendungen
+# § 6 – Erstattungsfähige Aufwendungen
 
 (1) Erstattungsfähig sind Aufwendungen für
 
@@ -125,8 +116,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 (5) Zur Vermeidung unbilliger Härten kann die Dienstunfallfürsorgestelle mit vorheriger Zustimmung des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen von dieser Verordnung abweichen.
 
-
-## § 7 – Erstattungsfähige Aufwendungen bei Traumatisierung
+# § 7 – Erstattungsfähige Aufwendungen bei Traumatisierung
 
 (1) Nach einem traumatischen Ereignis, das von der verletzten Person nach § 45 des Beamtenversorgungsgesetzes angezeigt worden ist, werden zur psychischen Stabilisierung nach vorheriger Zustimmung der Dienstunfallfürsorgestelle die Aufwendungen für bis zu fünf Sitzungen in Gruppen- oder Einzeltherapie erstattet. Satz 1 gilt auch, wenn das Verfahren zur Feststellung, ob ein Dienstunfall vorliegt, noch andauert. Für eine Therapie, die auf Veranlassung der Durchgangsärztin oder des Durchgangsarztes erfolgt, gilt die Zustimmung nach Satz 1 als erteilt.
 
@@ -150,8 +140,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 7. Psychotherapeutinnen oder Psychotherapeuten nach § 1 Absatz 1 Satz 1 des Psychotherapeutengesetzes in der jeweils geltenden Fassung.
 
-
-## § 8 – Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
+# § 8 – Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
 (1) Aufwendungen für die dienstunfallbedingte Versorgung mit Hilfsmitteln, mit Geräten zur Selbstbehandlung und Selbstkontrolle sowie mit Körperersatzstücken nach Anlage 11 der Bundesbeihilfeverordnung werden erstattet, wenn eine ärztliche Verordnung vorliegt. Zu den Aufwendungen zählt auch die Miete von Hilfsmitteln, Geräten zur Selbstbehandlung und Selbstkontrolle sowie von Körperersatzstücken, soweit die Miete nicht höher ist als die Anschaffungskosten. Übersteigen die Anschaffungskosten 1 000 Euro, so werden die Aufwendungen nur erstattet, wenn
 
@@ -173,8 +162,7 @@ Die Einschränkungen nach Satz 1 gelten nicht in Fällen des § 10 Absatz 1 Satz
 
 (4) Ist dienstunfallbedingt die Haltung eines Blindenhundes oder die Mitnahme einer Begleitperson erforderlich, so wird für nachgewiesene Aufwendungen ein Erstattungsbetrag von bis zu 200 Euro monatlich gezahlt.
 
-
-## § 9 – Krankenhausleistungen und Rehabilitationsmaßnahmen
+# § 9 – Krankenhausleistungen und Rehabilitationsmaßnahmen
 
 (1) Erstattungsfähig sind die dienstunfallbedingten Aufwendungen für
 
@@ -200,8 +188,7 @@ b) in einem Einbettzimmer, wenn dies auf Grund besonderer dienstlicher oder medi
 
 (4) Die Dienstunfallfürsorgestelle weist die verletzte Person vor Beginn einer stationären Krankenhausbehandlung oder einer stationären Rehabilitationsmaßnahme darauf hin, dass die Aufwendungen, die die nach Absatz 1 Nummer 1 bis 4 erstattungsfähigen Aufwendungen übersteigen, grundsätzlich nicht erstattet werden.
 
-
-## § 10 – Pflege
+# § 10 – Pflege
 
 (1) Die Kosten für eine notwendige Pflege werden erstattet, wenn die verletzte Person infolge des Dienstunfalls mindestens dem Pflegegrad 2 im Sinne des § 15 Absatz 3 Satz 4 Nummer 2 des Elften Buches Sozialgesetzbuch zugeordnet worden ist. Die Dienstunfallfürsorgestelle hat bei einer geeigneten Stelle ein Gutachten über die dienstunfallbedingte Pflegebedürftigkeit und über die Zuordnung zu einem Pflegegrad nach § 15 Absatz 1 bis 5 des Elften Buches Sozialgesetzbuch einzuholen.
 
@@ -222,8 +209,7 @@ b) in einem Einbettzimmer, wenn dies auf Grund besonderer dienstlicher oder medi
 (+++ § 10 Abs. 1 S 2: Zur Nichtgeltung vgl. § 5 S 2 +++)  
 (+++ § 10: Zur Anwendung vgl. § 19 Abs. 6 BwHFV +++)
 
-
-## § 11 – Haushaltshilfe
+# § 11 – Haushaltshilfe
 
 (1) Eine Haushaltshilfe ist notwendig, solange und soweit der verletzten Person die Weiterführung des Haushalts nicht möglich ist wegen
 
@@ -255,8 +241,7 @@ Einer alleinstehenden verletzten Person werden Aufwendungen für eine Haushaltsh
 
 (5) Der Dienstunfallfürsorgestelle ist eine fachärztliche Bescheinigung über die Notwendigkeit und den zeitlichen Umfang der Haushaltshilfe vorzulegen. Die Aufwendungen für eine Haushaltshilfe sind pro Stunde bis zur Höhe von 0,32 Prozent der sich aus § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen Bezugsgröße, aufgerundet auf volle Euro, erstattungsfähig. Aufwendungen für notwendige Fahrten der Haushaltshilfe werden in sinngemäßer Anwendung des § 12 Absatz 1 Satz 1 erstattet. § 3 Absatz 3 gilt entsprechend.
 
-
-## § 12 – Fahrten
+# § 12 – Fahrten
 
 (1) Aufwendungen der verletzten Person für notwendige Hin- und Rückfahrten aus Anlass der Heilbehandlung werden wie folgt erstattet:
 
@@ -296,13 +281,11 @@ Angehörige im Sinne von Satz 1 Nummer 4 sind:
 
 (5) § 3 Absatz 3 gilt entsprechend.
 
-
-## § 13 – Erhöhter Kleider- und Wäscheverschleiß
+# § 13 – Erhöhter Kleider- und Wäscheverschleiß
 
 Aufwendungen, die infolge eines dienstunfallbedingt erhöhten Kleider- und Wäscheverschleißes entstehen, werden von Amts wegen mit einem monatlichen Pauschbetrag in entsprechender Anwendung des § 15 des Bundesversorgungsgesetzes in Verbindung mit der Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes erstattet. Die Entscheidung trifft die Dienstunfallfürsorgestelle auf Grund einer fachärztlichen Bescheinigung, die auch Aussagen zur Dauer des Zustands beinhaltet. Die in Sonderfällen den Pauschbetrag nachweislich übersteigenden Aufwendungen werden jeweils für das abgelaufene Kalenderjahr auf Antrag erstattet.
 
-
-## § 14 – Kraftfahrzeughilfe
+# § 14 – Kraftfahrzeughilfe
 
 Kraftfahrzeughilfe wird gewährt, wenn
 
@@ -312,15 +295,13 @@ Kraftfahrzeughilfe wird gewährt, wenn
 
 § 40 Absatz 2, 3 und 5 des Siebten Buches Sozialgesetzbuch in Verbindung mit der Kraftfahrzeughilfe-Verordnung gilt entsprechend. Die §§ 6 und 8 der Kraftfahrzeughilfe-Verordnung gelten nicht.
 
-
-## § 15 – Dienstunfallbedingte Wohnumfeldanpassung
+# § 15 – Dienstunfallbedingte Wohnumfeldanpassung
 
 (1) Die Aufwendungen für eine bedarfsgerechte Anpassung wie Ausstattung, Umbau oder Ausbau der bisher genutzten Wohnung sowie die Aufwendungen für den Umzug in eine bedarfsgerechte Wohnung werden nach Maßgabe des § 41 Absatz 4 des Siebten Buches Sozialgesetzbuch erstattet, wenn die Maßnahme infolge des Dienstunfalls nicht nur vorübergehend erforderlich ist.
 
 (2) Die Aufwendungen für Maßnahmen nach Absatz 1 werden nur erstattet, wenn die Dienstunfallfürsorgestelle die Erstattung vorher zugesagt hat. Bei Maßnahmen ab 5 000 Euro hat die verletzte Person zwei Vergleichsangebote beizubringen.
 
-
-## § 16 – Überführung und Bestattung
+# § 16 – Überführung und Bestattung
 
 (1) Ist die verletzte Person an den Folgen des Dienstunfalls verstorben, so werden erstattet die Aufwendungen für
 
@@ -330,8 +311,7 @@ Kraftfahrzeughilfe wird gewährt, wenn
 
 (2) Auf den Erstattungsbetrag nach Absatz 1 Nummer 2 ist ein Sterbegeld nach § 18 Absatz 1 und 2 des Beamtenversorgungsgesetzes mit 40 Prozent seines Bruttobetrages anzurechnen.
 
-
-## § 17 – Erstattungsverfahren
+# § 17 – Erstattungsverfahren
 
 (1) Soweit nichts anderes bestimmt ist, werden Aufwendungen nur erstattet, wenn die verletzte Person dies bei der Dienstunfallfürsorgestelle schriftlich oder elektronisch beantragt und die Aufwendungen nachweist. Satz 1 gilt entsprechend für Hinterbliebene, wenn die verletzte Person an den Folgen des Dienstunfalls verstorben ist.
 
@@ -341,8 +321,7 @@ Kraftfahrzeughilfe wird gewährt, wenn
 
 (4) In Fällen, in denen sich die Anerkennung eines Dienstunfalls aus Gründen verzögert, die die verletzte Person nicht zu vertreten hat, können die Aufwendungen zunächst unter Vorbehalt erstattet werden. Dies gilt auch während anhängiger Verfahren auf Anerkennung eines Dienstunfalls. Wird nachträglich festgestellt, dass kein Dienstunfall vorliegt, ist der Erstattungsbetrag zurückzuzahlen.
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Hinsichtlich der Erstattung von Aufwendungen, die vor dem Inkrafttreten dieser Verordnung entstanden sind, ist die Heilverfahrensverordnung vom 25. April 1979 (BGBl. I S. 502) in der bis zum 13. November 2020 geltenden Fassung weiter anzuwenden. Entstanden im Sinne von Satz 1 sind Aufwendungen für
 

@@ -1,10 +1,7 @@
-# [ESMFinG] Gesetz zur finanziellen Beteiligung am Europäischen Stabilitätsmechanismus  (ESM-Finanzierungsgesetz - ESMFinG)
-
-Ausfertigungsdatum: 13.09.2012
-
+% Gesetz zur finanziellen Beteiligung am Europäischen Stabilitätsmechanismus  (ESM-Finanzierungsgesetz - ESMFinG)
+% Ausfertigungsdatum: 13.09.2012
  
-
-## § 1 – Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität
+# § 1 – Übernahme des deutschen Anteils am Stammkapital des Europäischen Stabilitätsmechanismus; Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität
 
 (1) Zur Erfüllung der Verpflichtungen aus dem Beitritt zum Europäischen Stabilitätsmechanismus beteiligt sich die Bundesrepublik Deutschland am Gesamtbetrag des einzuzahlenden Kapitals des Europäischen Stabilitätsmechanismus in Höhe von 80 Milliarden Euro mit einem Betrag in Höhe von 21,71712 Milliarden Euro sowie am Gesamtbetrag des abrufbaren Kapitals des Europäischen Stabilitätsmechanismus in Höhe von 620 Milliarden Euro mit einem Betrag in Höhe von 168,30768 Milliarden Euro.
 
@@ -20,20 +17,17 @@ Ausfertigungsdatum: 13.09.2012
 
 (3) Die Bundesregierung wird ermächtigt, durch ihren Vertreter im Gouverneursrat einem Beschluss nach Artikel 10 Absatz 1 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus zur Veränderung des konsolidierten Darlehensvolumens von Europäischem Stabilitätsmechanismus und Europäischer Finanzstabilisierungsfazilität im Sinne des Artikels 39 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus insoweit zuzustimmen, als Finanzmittel, die für die Durchführung der von der Europäischen Finanzstabilisierungsfazilität bis zum 30. März 2012 zugesagten Notmaßnahmen erforderlich sind, bis zu einer Höhe von 200 Milliarden Euro bei der Berechnung des konsolidierten Darlehensvolumens im Sinne des Artikels 39 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus nicht in Abzug gebracht werden.
 
-
-## § 2 – Gewährung von Stabilitätshilfen durch den Europäischen Stabilitätsmechanismus
+# § 2 – Gewährung von Stabilitätshilfen durch den Europäischen Stabilitätsmechanismus
 
 Der Europäische Stabilitätsmechanismus ist berechtigt, unter den im Vertrag zur Einrichtung des Europäischen Stabilitätsmechanismus genannten Voraussetzungen und entsprechend dem dort geregelten Verfahren einer Vertragspartei des Europäischen Stabilitätsmechanismus Stabilitätshilfen zu gewähren, wenn dies unabdingbar ist, um die Finanzstabilität der Währungsunion insgesamt und seiner Mitgliedstaaten zu wahren. Dem Europäischen Stabilitätsmechanismus zur Verfügung stehende Instrumente der Stabilitätshilfe sind vorsorgliche Finanzhilfen, Finanzhilfen zur Rekapitalisierung von Finanzinstituten einer Vertragspartei, Darlehen sowie der Ankauf von Anleihen einer Vertragspartei auf dem Primär- oder Sekundärmarkt. Finanzhilfen zur Rekapitalisierung von Finanzinstituten können einer Vertragspartei oder auf deren Antrag direkt Finanzinstituten dieser Vertragspartei gewährt werden.
 
-
-## § 3 – Haushalts- und Stabilitätsverantwortung
+# § 3 – Haushalts- und Stabilitätsverantwortung
 
 (1) Der Deutsche Bundestag nimmt in Angelegenheiten des Europäischen Stabilitätsmechanismus seine Verantwortung für den Haushalt und für den Bestand und die Fortentwicklung der Stabilität der Wirtschafts- und Währungsunion insbesondere nach Maßgabe der folgenden Bestimmungen wahr.
 
 (2) Der Deutsche Bundestag berät und beschließt über Vorlagen nach diesem Gesetz in angemessener Frist. Dabei berücksichtigt er die für die Beschlussfassung auf der Ebene des Euro-Währungsgebietes maßgeblichen Fristvorgaben.
 
-
-## § 4 – Parlamentsvorbehalt für Entscheidungen im Europäischen Stabilitätsmechanismus
+# § 4 – Parlamentsvorbehalt für Entscheidungen im Europäischen Stabilitätsmechanismus
 
 (1) In Angelegenheiten des Europäischen Stabilitätsmechanismus, die die haushaltspolitische Gesamtverantwortung des Deutschen Bundestages betreffen, wird diese vom Plenum des Deutschen Bundestages wahrgenommen. Die haushaltspolitische Gesamtverantwortung ist insbesondere betroffen
 
@@ -49,8 +43,7 @@ Der Europäische Stabilitätsmechanismus ist berechtigt, unter den im Vertrag zu
 
 (3) Werden gemäß Artikel 5 Absatz 6 Buchstabe m des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus Aufgaben des Gouverneursrates auf das Direktorium übertragen, gelten die §§ 3 bis 6 entsprechend.
 
-
-## § 5 – Beteiligung des Haushaltsausschusses des Deutschen Bundestages
+# § 5 – Beteiligung des Haushaltsausschusses des Deutschen Bundestages
 
 (1) In allen sonstigen die Haushaltsverantwortung des Deutschen Bundestages berührenden Angelegenheiten des Europäischen Stabilitätsmechanismus, in denen eine Entscheidung des Plenums gemäß § 4 nicht vorgesehen ist, wird der Haushaltsausschuss des Deutschen Bundestages beteiligt. Der Haushaltsausschuss überwacht die Vorbereitung und Durchführung der Vereinbarungen über Stabilitätshilfen.
 
@@ -76,8 +69,7 @@ Die Bundesregierung darf in diesen Fällen einem Beschlussvorschlag in Angelegen
 
 (6) Ein Antrag oder eine Vorlage der Bundesregierung gilt als dem Haushaltsausschuss überwiesen im Sinne der Geschäftsordnung des Bundestages. § 70 der Geschäftsordnung gilt entsprechend, wobei das Verlangen eines Viertels der Mitglieder des Haushaltsausschusses von mindestens zwei Fraktionen im Ausschuss unterstützt werden muss.
 
-
-## § 6 – Beteiligung durch ein Sondergremium
+# § 6 – Beteiligung durch ein Sondergremium
 
 (1) Soweit ein Aufkauf von Staatsanleihen auf dem Sekundärmarkt nach Artikel 18 des Vertrags zur Einrichtung des Europäischen Stabilitätsmechanismus geplant ist, kann die Bundesregierung die besondere Vertraulichkeit der Angelegenheit geltend machen. Die besondere Vertraulichkeit liegt vor, sofern bereits die Tatsache der Beratung oder Beschlussfassung geheim gehalten werden muss, um den Erfolg der Maßnahme nicht zu vereiteln. Die Annahme der besonderen Vertraulichkeit ist von der Bundesregierung zu begründen.
 
@@ -87,8 +79,7 @@ Die Bundesregierung darf in diesen Fällen einem Beschlussvorschlag in Angelegen
 
 (4) Das Sondergremium berichtet dem Deutschen Bundestag über Inhalt und Ergebnis seiner Beratungen, sobald die Gründe für die besondere Vertraulichkeit entfallen sind.
 
-
-## § 7 – Unterrichtung durch die Bundesregierung
+# § 7 – Unterrichtung durch die Bundesregierung
 
 (1) Die Bundesregierung hat den Deutschen Bundestag und den Bundesrat in Angelegenheiten dieses Gesetzes umfassend, zum frühestmöglichen Zeitpunkt, fortlaufend und in der Regel schriftlich zu unterrichten. Sie hat dem Deutschen Bundestag in Angelegenheiten, die seine Kompetenzen betreffen, Gelegenheit zur Stellungnahme zu geben und seine Stellungnahmen zu berücksichtigen.
 
@@ -110,7 +101,6 @@ Die Bundesregierung darf in diesen Fällen einem Beschlussvorschlag in Angelegen
 
 (10) Die Rechte des Deutschen Bundestages aus dem Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union und die Rechte des Bundesrates aus dem Gesetz über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der Europäischen Union bleiben unberührt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

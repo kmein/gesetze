@@ -1,20 +1,15 @@
-# [LuftVGBV] Verordnung über die Beleihung juristischer Personen des privaten Rechts gemäß § 30a des Luftverkehrsgesetzes  (LuftVG-Beleihungsverordnung - LuftVGBV)
-
-Ausfertigungsdatum: 15.09.2019
-
+% Verordnung über die Beleihung juristischer Personen des privaten Rechts gemäß § 30a des Luftverkehrsgesetzes  (LuftVG-Beleihungsverordnung - LuftVGBV)
+% Ausfertigungsdatum: 15.09.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30a Absatz 1 Satz 1 des Luftverkehrsgesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 28. Juni 2016 (BGBl. I S. 1548) eingefügt worden ist, verordnet das Bundesministerium der Verteidigung:
 
-
-## § 1 – Beleihung
+# § 1 – Beleihung
 
 Die Beleihung juristischer Personen des privaten Rechts mit der Wahrnehmung der in § 30a Absatz 1 Satz 1 des Luftverkehrsgesetzes angeführten Aufgaben erfolgt durch Verwaltungsakt des Luftfahrtamtes der Bundeswehr.
 
-
-## § 2 – Voraussetzungen der Beleihung
+# § 2 – Voraussetzungen der Beleihung
 
 (1) Beliehen werden kann eine juristische Person des privaten Rechts nur, wenn
 
@@ -24,8 +19,7 @@ Die Beleihung juristischer Personen des privaten Rechts mit der Wahrnehmung der 
 
 (2) Näheres zu den Voraussetzungen der Beleihung regelt das Luftfahrtamt der Bundeswehr in Verwaltungsvorschriften.
 
-
-## § 3 – Gegenstand der Beleihung
+# § 3 – Gegenstand der Beleihung
 
 (1) Der Gegenstand der Beleihung unterscheidet sich danach,
 
@@ -67,8 +61,7 @@ Die Beleihung juristischer Personen des privaten Rechts mit der Wahrnehmung der 
 
 (7) Die Beleihung von Ausbildungseinrichtungen, die nach den DEMAR genehmigt sind, kann die Durchführung der Ausbildung von erlaubnispflichtigem Personal, die Durchführung von Prüfungen und die Bescheinigung dieser Ausbildung oder dieser Prüfungen umfassen.
 
-
-## § 4 – Widerruf der Beleihung
+# § 4 – Widerruf der Beleihung
 
 Die Beleihung ist zu widerrufen, wenn
 
@@ -76,12 +69,10 @@ Die Beleihung ist zu widerrufen, wenn
 
 2. die Bundeswehr entscheidet, die Aufgaben, die Gegenstand der Beleihung sind, zukünftig selbst wahrzunehmen.
 
-
-## § 5 – Höchstbetrag für den Rückgriff bei der beliehenen juristischen Person des privaten Rechts
+# § 5 – Höchstbetrag für den Rückgriff bei der beliehenen juristischen Person des privaten Rechts
 
 Wird die Bundesrepublik Deutschland von einem Dritten wegen eines Schadens in Anspruch genommen, den eine beliehene juristische Person des privaten Rechts durch vorsätzliches oder grob fahrlässiges Handeln verursacht hat, so beträgt der Höchstbetrag, bis zu dem die Bundesrepublik Deutschland nach § 31e Satz 2 des Luftverkehrsgesetzes bei der beliehenen juristischen Person des privaten Rechts Rückgriff nehmen kann, 767 Millionen Euro.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

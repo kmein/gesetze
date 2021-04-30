@@ -1,10 +1,7 @@
-# [BTGO1980Anl 7] Richtlinien für die Befragung der Bundesregierung (Anlage 7 der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
-
-Ausfertigungsdatum: 12.11.1990
-
+% Richtlinien für die Befragung der Bundesregierung (Anlage 7 der Geschäftsordnung des Deutschen Bundestages, BGBl. I 1980, 1237)
+% Ausfertigungsdatum: 12.11.1990
  
-
-## Richtlinien für die Befragung der Bundesregierung
+# Richtlinien für die Befragung der Bundesregierung
 
 1. Eine Befragung der Bundesregierung findet in Sitzungswochen mittwochs um 13.00 Uhr statt. Die Befragung dauert in der Regel 60 Minuten. Der Präsident kann die Befragung um bis zu 15 Minuten verlängern. Die Fragestunde verkürzt sich um die Verlängerungszeit.
 

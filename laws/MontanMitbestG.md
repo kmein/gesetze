@@ -1,10 +1,7 @@
-# [MontanMitbestG] Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie
-
-Ausfertigungsdatum: 21.05.1951
-
+% Gesetz über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie
+% Ausfertigungsdatum: 21.05.1951
  
-
-## § 1
+# § 1
 
 (1) Die Arbeitnehmer haben ein Mitbestimmungsrecht in den Aufsichtsräten und in den zur gesetzlichen Vertretung berufenen Organen nach Maßgabe dieses Gesetzes in
 
@@ -28,20 +25,17 @@ Satz 2 Nr. 2 gilt entsprechend für die weitere Verschmelzung sowie für den wei
 
 (4) Ist ein Unternehmen, dessen Aufsichtsrat nach § 4 oder § 9 zusammenzusetzen ist, herrschendes Unternehmen eines Konzerns (§ 18 Abs. 1 des Aktiengesetzes) und ist für diesen Konzern ein Konzernbetriebsrat errichtet, so gelten für die Anwendung der §§ 4, 6 und 9 auf das herrschende Unternehmen die Arbeitnehmer der Konzernunternehmen als Arbeitnehmer des herrschenden Unternehmens und die in Konzernunternehmen vertretenen Gewerkschaften als im herrschenden Unternehmen vertreten. Liegen die Voraussetzungen des Satzes 1 vor, so tritt für die Anwendung der §§ 6 und 11 auf das herrschende Unternehmen der Konzernbetriebsrat an die Stelle der Betriebsräte.
 
-
-## § 2
+# § 2
 
 Auf die in § 1 bezeichneten Unternehmen finden die Vorschriften des Aktiengesetzes, des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung, der Berggesetze und des Betriebsverfassungsrechts insoweit keine Anwendung, als sie den Vorschriften dieses Gesetzes widersprechen.
 
-
-## § 3
+# § 3
 
 (1) Betreibt eine Gesellschaft mit beschränkter Haftung ein Unternehmen im Sinne des § 1, so ist nach Maßgabe dieses Gesetzes ein Aufsichtsrat zu bilden.
 
 (2) Auf den Aufsichtsrat, seine Rechte und Pflichten finden die Vorschriften des Aktienrechts sinngemäß Anwendung.
 
-
-## § 4
+# § 4
 
 (1) Der Aufsichtsrat besteht aus elf Mitgliedern. Er setzt sich zusammen aus
 
@@ -63,18 +57,15 @@ d) an dem Unternehmen wirtschaftlich wesentlich interessiert sein.
 
 (3) Alle Aufsichtsratsmitglieder haben die gleichen Rechte und Pflichten. Sie sind an Aufträge und Weisungen nicht gebunden.
 
-
-## § 5
+# § 5
 
 Die in § 4 Abs. 1 Buchstabe a bezeichneten Mitglieder des Aufsichtsrats werden durch das nach Gesetz, Satzung oder Gesellschaftsvertrag zur Wahl von Aufsichtsratsmitgliedern berufene Organ (Wahlorgan) nach Maßgabe der Satzung oder des Gesellschaftsvertrags gewählt oder entsandt.
 
-
-## § 5a
+# § 5a
 
 Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des Aufsichtsrates eines in § 1 genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein.
 
-
-## § 6
+# § 6
 
 (1) Unter den in § 4 Abs. 1 Buchstabe b bezeichneten Mitgliedern des Aufsichtsrats müssen sich zwei Arbeitnehmer befinden, die in einem Betrieb des Unternehmens beschäftigt sind. Diese Mitglieder werden durch die Betriebsräte der Betriebe des Unternehmens in geheimer Wahl gewählt und dem Wahlorgan nach Beratung mit den in den Betrieben des Unternehmens vertretenen Gewerkschaften und deren Spitzenorganisationen vorgeschlagen.
 
@@ -90,13 +81,11 @@ Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des Aufsichtsrat
 
 (7) Das Wahlorgan ist an die Vorschläge der Betriebsräte gebunden.
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8
+# § 8
 
 (1) Das in § 4 Abs. 1 Buchstabe c bezeichnete weitere Mitglied des Aufsichtsrats wird durch das Wahlorgan auf Vorschlag der übrigen Aufsichtsratsmitglieder gewählt. Der Vorschlag wird durch diese Aufsichtsratsmitglieder mit Mehrheit aller Stimmen beschlossen. Er bedarf jedoch der Zustimmung von mindestens je drei Mitgliedern, die nach § 5 und die nach § 6 gewählt sind.
 
@@ -106,20 +95,17 @@ Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des Aufsichtsrat
 
 (4) Wird die in Absatz 2 vorgesehene Anzahl von Mitgliedern des Vermittlungsausschusses nicht gewählt oder bleiben Mitglieder des Vermittlungsausschusses trotz rechtzeitiger Einladung ohne genügende Entschuldigung einer Sitzung fern, so kann der Vermittlungsausschuß tätig werden, wenn wenigstens zwei Mitglieder mitwirken.
 
-
-## § 9
+# § 9
 
 (1) Bei Gesellschaften mit einem Nennkapital von mehr als zehn Millionen Euro kann durch Satzung oder Gesellschaftsvertrag bestimmt werden, daß der Aufsichtsrat aus fünfzehn Mitgliedern besteht. Die Vorschriften der §§ 4 bis 8 finden sinngemäß Anwendung mit der Maßgabe, daß die Zahl der gemäß § 6 Abs. 1 und 2 zu wählenden Arbeitnehmer und die Zahl der in § 6 Abs. 3 bezeichneten Vertreter der Arbeitnehmer je drei beträgt.
 
 (2) Bei Gesellschaften mit einem Nennkapital von mehr als fünfundzwanzig Millionen Euro kann durch Satzung oder Gesellschaftsvertrag bestimmt werden, daß der Aufsichtsrat aus einundzwanzig Mitgliedern besteht. Die Vorschriften der §§ 4 bis 8 finden sinngemäß Anwendung mit der Maßgabe, daß die Zahl der in § 4 Abs. 1 Buchstaben a und b bezeichneten weiteren Mitglieder je zwei, die Zahl der gemäß § 6 Abs. 1 und 2 zu wählenden Arbeitnehmer und die Zahl der in § 6 Abs. 3 bezeichneten Vertreter der Arbeitnehmer je vier beträgt.
 
-
-## § 10
+# § 10
 
 Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der Mitglieder, aus denen er nach diesem Gesetz oder der Satzung insgesamt zu bestehen hat, an der Beschlußfassung teilnimmt. § 108 Abs. 2 Satz 4 des Aktiengesetzes findet Anwendung.
 
-
-## § 11
+# § 11
 
 (1) Auf die in § 5 bezeichneten Mitglieder des Aufsichtsrats findet § 103 des Aktiengesetzes Anwendung.
 
@@ -127,20 +113,17 @@ Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der Mitglieder
 
 (3) Eine Abberufung des in § 8 bezeichneten Mitglieds des Aufsichtsrats kann auf Antrag von mindestens drei Aufsichtsratsmitgliedern durch das Gericht aus wichtigem Grund erfolgen.
 
-
-## § 12
+# § 12
 
 Die Bestellung der Mitglieder des zur gesetzlichen Vertretung berufenen Organs und der Widerruf ihrer Bestellung erfolgen nach Maßgabe des § 76 Abs. 3 und des § 84 des Aktiengesetzes durch den Aufsichtsrat.
 
-
-## § 13
+# § 13
 
 (1) Als gleichberechtigtes Mitglied des zur gesetzlichen Vertretung berufenen Organs wird ein Arbeitsdirektor bestellt. Der Arbeitsdirektor kann nicht gegen die Stimmen der Mehrheit der nach § 6 gewählten Aufsichtsratsmitglieder bestellt werden. Das gleiche gilt für den Widerruf der Bestellung.
 
 (2) Der Arbeitsdirektor hat wie die übrigen Mitglieder des zur gesetzlichen Vertretung berufenen Organs seine Aufgaben im engsten Einvernehmen mit dem Gesamtorgan auszuüben. Das Nähere bestimmt die Geschäftsordnung.
 
-
-## § 14
+# § 14
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung Vorschriften zu erlassen über
 

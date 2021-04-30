@@ -1,10 +1,7 @@
-# [GFG] Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen  (Graduiertenförderungsgesetz - GFG)
-
-Ausfertigungsdatum: 02.09.1971
-
+% Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den Hochschulen  (Graduiertenförderungsgesetz - GFG)
+% Ausfertigungsdatum: 02.09.1971
  
-
-## § 1 – Zweck der Förderung
+# § 1 – Zweck der Förderung
 
 (1) Zur Förderung des wissenschaftlichen, vornehmlich des Hochschullehrernachwuchses, werden nach Maßgabe dieses Gesetzes Stipendien gewährt.
 
@@ -14,27 +11,23 @@ Ausfertigungsdatum: 02.09.1971
 
 (4) Die vom Bund finanzierte Promotionsförderung der Hochbegabtenförderungswerke bleibt durch die Bestimmungen dieses Gesetzes unberührt.
 
-
-## § 2 – Förderung der Promotion
+# § 2 – Förderung der Promotion
 
 (1) Wer ein Hochschulstudium abgeschlossen hat, das die Zulassung zur Promotion ermöglicht, kann zur Vorbereitung auf die Promotion ein Stipendium erhalten, wenn sein wissenschaftliches Vorhaben einen wichtigen Beitrag zur Forschung erwarten läßt und seine Studien- und Prüfungsleistungen eine besondere Befähigung zu wissenschaftlicher Arbeit erkennen lassen. Die Promotion muß durch eine im Geltungsbereich dieses Gesetzes gelegene Hochschule erfolgen.
 
 (2) Solange und soweit die Zulassung zur Promotion ein abgeschlossenes Hochschulstudium nicht voraussetzt, kann nach Maßgabe des Absatzes 1 auch gefördert werden, wer sein Hochschulstudium nicht abgeschlossen hat und als Studienabschluß lediglich die Promotion anstrebt. Das gleiche gilt, wenn von dem Erfordernis des abgeschlossenen Hochschulstudiums Befreiung erteilt worden ist oder eine Studienordnung einen Abschluß nicht vorsieht. Die Förderung beginnt in diesen Fällen ein halbes Jahr vor Ablauf der in der Promotionsordnung vorgeschriebenen Studiendauer.
 
-
-## § 3 – Förderung eines weiteren Studiums
+# § 3 – Förderung eines weiteren Studiums
 
 Wer ein Hochschulstudium abgeschlossen hat, das die Zulassung zur Promotion ermöglicht, kann zur Teilnahme an einem weiteren Studium, das der Vertiefung oder Ergänzung seines bisherigen Studiums insbesondere durch verstärkte Beteiligung an der Forschung dient, ein Stipendium erhalten, wenn seine Studien- und Prüfungsleistungen eine besondere Befähigung zu wissenschaftlicher Arbeit erkennen lassen. Das weitere Studium muß an einer im Geltungsbereich dieses Gesetzes gelegenen Hochschule eingerichtet worden sein.
 
-
-## § 4 – Auswahl der Bewerber
+# § 4 – Auswahl der Bewerber
 
 (1) Ein Anspruch auf Gewährung eines Stipendiums besteht nicht. Übersteigt die Zahl der Bewerber, die die Voraussetzungen für eine Förderung erfüllen, die Zahl der Stipendien, so ist zwischen den Bewerbern nach dem Grad ihrer Befähigung zu wissenschaftlicher Arbeit und, sofern eine Promotion gefördert wird, auch nach der Bedeutung des in Aussicht genommenen Vorhabens auszuwählen.
 
 (2) Bewerber, deren wissenschaftliche Vorhaben auf die Forschungsplanung der Hochschule oder der Fachbereiche abgestimmt sind, können vorrangig gefördert werden.
 
-
-## § 5 – Staatsangehörigkeit
+# § 5 – Staatsangehörigkeit
 
 Stipendien können erhalten
 
@@ -44,18 +37,15 @@ Stipendien können erhalten
 
 3. Ausländer, die ihren gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes haben und als Asylberechtigte nach § 28 des Ausländergesetzes vom 28. April 1965 (Bundesgesetzbl. I S. 353), zuletzt geändert durch Artikel 3 des Gesetzes zur Änderung des Arbeitsförderungsgesetzes und des Arbeitnehmerüberlassungsgesetzes vom 25. Juni 1975 (Bundesgesetzbl. I S. 1542), anerkannt sind.
 
-
-## § 6 – Stellung des Stipendiaten zur Hochschule
+# § 6 – Stellung des Stipendiaten zur Hochschule
 
 Der Stipendiat muß Student an einer im Geltungsbereich dieses Gesetzes gelegenen Hochschule sein. Er kann seinen für die Promotion zu erbringenden wissenschaftlichen Beitrag auch im Ausland leisten.
 
-
-## § 7 – Art der Förderung
+# § 7 – Art der Förderung
 
 Die Stipendien werden als Darlehen, Zuschläge für Sach- und Reisekosten werden als Zuschüsse gewährt. Sie sind Zuwendungen im Sinne des Haushaltsrechts. Der Verwendungsnachweis beschränkt sich auf die in diesem Gesetz und auf Grund dieses Gesetzes vorgesehenen Leistungsnachweise.
 
-
-## § 7a – Darlehensbedingungen
+# § 7a – Darlehensbedingungen
 
 (1) Das Darlehen ist nicht zu verzinsen.
 
@@ -94,8 +84,7 @@ Die Beträge nach Satz 2 mindern sich um das Einkommen des Ehegatten und des Kin
 
 (5) Die Beträge nach Absatz 4 Satz 1 und Satz 2 Nr. 1 werden um 50 vom Hundert erhöht, wenn und solange der Stipendiat Darlehen nach dem Bundesausbildungsförderungsgesetz oder den in § 59 Abs. 2 Nr. 2 und Abs. 3 des Bundesausbildungsförderungsgesetzes bezeichneten Vorschriften zu tilgen hat, Absatz 4 Satz 3 bis 5 gilt entsprechend.
 
-
-## § 7b – Rückzahlungspflicht
+# § 7b – Rückzahlungspflicht
 
 Haben die Voraussetzungen für die Leistung der Graduiertenförderung an keinem Tag des Kalendermonats vorgelegen, für den sie gezahlt worden ist, ist insoweit der Bewilligungsbescheid aufzuheben und der Förderungsbetrag zu erstatten, als
 
@@ -107,8 +96,7 @@ Haben die Voraussetzungen für die Leistung der Graduiertenförderung an keinem 
 
 4. Tatsachen erkennen lassen, daß der Stipendiat sich nicht in erforderlichem und in zumutbarem Maße um die Verwirklichung des Zwecks der Gewährung bemüht.
 
-
-## § 8 – Dauer der Förderung
+# § 8 – Dauer der Förderung
 
 (1) Das Stipendium wird zunächst für einen Zeitraum bis zu einem Jahr gewährt. Vor Ablauf des Bewilligungszeitraums ist festzustellen, ob eine weitere Förderung gerechtfertigt ist. Die Förderung endet im Regelfall nach zwei Jahren (Regelförderungsdauer).
 
@@ -124,8 +112,7 @@ a) mit Ablauf des Monats der mündlichen Doktorprüfung oder des Abschlusses des
 
 b) mit Ablauf des Monats, in dem der Stipendiat eine entgeltliche berufliche Tätigkeit aufnimmt.
 
-
-## § 9 – Nebentätigkeit
+# § 9 – Nebentätigkeit
 
 (1) Übt der Stipendiat neben der Vorbereitung auf die Promotion oder der Teilnahme an dem weiteren Studium eine Tätigkeit aus, die seine Arbeitskraft ganz oder zum Teil in Anspruch nimmt, so ist eine Förderung nach diesem Gesetz ausgeschlossen.
 
@@ -137,8 +124,7 @@ b) mit Ablauf des Monats, in dem der Stipendiat eine entgeltliche berufliche Tä
 
 Der Stipendiat ist zur Übernahme einer dieser Tätigkeiten nicht verpflichtet.
 
-
-## § 10 – Pfändungsschutz
+# § 10 – Pfändungsschutz
 
 (1) Der Anspruch auf Auszahlung des Stipendienbetrages kann nicht gepfändet, verpfändet oder abgetreten werden.
 
@@ -146,13 +132,11 @@ Der Stipendiat ist zur Übernahme einer dieser Tätigkeiten nicht verpflichtet.
 
 (3) Für die Pfändung von Bargeld gilt § 811 Nr. 8 der Zivilprozeßordnung.
 
-
-## § 11 – Zuständigkeit
+# § 11 – Zuständigkeit
 
 Die Vergabe der Stipendien und die Verteilung der Förderungsmittel auf die Fachbereiche oder Fachrichtungen obliegen als staatliche Angelegenheiten den Hochschulen. Die Feststellung, ob die Förderungsvoraussetzungen im Einzelfall zutreffen, trifft die Hochschule. Die Hochschulen unterliegen bei der Erfüllung von Aufgaben nach diesem Gesetz den Weisungen der zuständigen obersten Landesbehörde. Die Zuständigkeiten für das Vergabeverfahren innerhalb der Hochschulen werden durch die Länder geregelt. Sie gewährleisten, daß eine nach den näheren Bestimmungen des Landesrechts von den Hochschulen gebildete zentrale Kommission für die Förderung des wissenschaftlichen Nachwuchses sowie die Fachbereiche bzw. Fakultäten am Vergabeverfahren angemessen beteiligt sind.
 
-
-## § 12 – Verordnungsermächtigung
+# § 12 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu erlassen über
 
@@ -176,8 +160,7 @@ Die Vergabe der Stipendien und die Verteilung der Förderungsmittel auf die Fach
 
 (3) In einer Rechtsverordnung gemäß Absatz 1 kann die Ermächtigung zum Erlaß von Vorschriften über die Vergabe der Stipendien auf die Landesregierungen übertragen werden; in diesem Fall können die Landesregierungen die Ermächtigung mit dem Vorbehalt der Genehmigung durch die zuständige oberste Landesbehörde auf die Hochschulen übertragen.
 
-
-## § 13 – Finanzierung und Verteilung
+# § 13 – Finanzierung und Verteilung
 
 (1) In den Jahren 1971 bis 1979 trägt der Bund 75 vom Hundert und tragen die Länder 25 vom Hundert, in den Jahren 1980 und 1981 trägt der Bund 65 vom Hundert und tragen die Länder 35 vom Hundert der durch die Ausführung dieses Gesetzes entstehenden Ausgaben, jedoch begrenzt auf die in den Haushaltsplänen von Bund und Ländern für diesen Zweck bereitgestellten Mittel.
 
@@ -185,8 +168,7 @@ Die Vergabe der Stipendien und die Verteilung der Förderungsmittel auf die Fach
 
 (3) Die Verteilung der Förderungsmittel auf die Hochschulen ist Aufgabe der Länder. Um eine den Zielen dieses Gesetzes entsprechende Verteilung der Förderungsmittel innerhalb der Hochschule sicherzustellen, kann der Bund im Einvernehmen mit dem Land diesem oder das Land der Hochschule bis zu 50 vom Hundert der auf das Land bzw. die Hochschule entfallenden Mittel mit der Maßgabe zuweisen, daß sie Bewerbern bestimmter Fachbereiche oder Fachrichtungen vorzubehalten sind.
 
-
-## § 14 – Auftragsverwaltung
+# § 14 – Auftragsverwaltung
 
 (1) Das Gesetz wird von den Ländern im Auftrage des Bundes ausgeführt.
 
@@ -208,22 +190,18 @@ d) für Sachkosten und Reisekosten im Inland,
 
 4. die bei der Beendigung der Förderung erreichte Förderungsdauer sowie Zahl und Ergebnisse der Doktorprüfungen.
 
-
-## § 14a – Darlehensverwaltung
+# § 14a – Darlehensverwaltung
 
 Die nach diesem Gesetz geleisteten Darlehen werden durch das Bundesverwaltungsamt verwaltet und eingezogen.
 
-
-## § 15 – Übergangsvorschrift
+# § 15 – Übergangsvorschrift
 
 Für Stipendien, die vor dem 1. Januar 1976 gewährt worden sind, gilt bis zum Ende des Bewilligungszeitraumes dieses Gesetz in der bis zum 31. Dezember 1975 geltenden Fassung fort.
 
-
-## § 16 – Berlin-Klausel
+# § 16 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

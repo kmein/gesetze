@@ -1,20 +1,15 @@
-# [See-ArbZNV] Verordnung betreffend die Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise in der Seeschifffahrt   (See-Arbeitszeitnachweisverordnung - See-ArbZNV)
-
-Ausfertigungsdatum: 25.07.2013
-
+% Verordnung betreffend die Übersicht über die Arbeitsorganisation und die Arbeitszeitnachweise in der Seeschifffahrt   (See-Arbeitszeitnachweisverordnung - See-ArbZNV)
+% Ausfertigungsdatum: 25.07.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 55 Satz 1 Nummer 1 und 2 in Verbindung mit Satz 2 des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868) verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Übersicht über die Arbeitsorganisation an Bord und die Arbeitszeitnachweise der Besatzungsmitglieder auf Kauffahrteischiffen, die die Bundesflagge führen, sind nach Maßgabe dieser Verordnung zu führen.
 
-
-## § 2 – Übersicht über die Arbeitsorganisation
+# § 2 – Übersicht über die Arbeitsorganisation
 
 (1) Die Übersicht über die Arbeitsorganisation an Bord nach § 50 Absatz 1 Satz 1 des Seearbeitsgesetzes ist nach dem Muster der Anlage 1 zu führen. Die Übersicht ist vom Kapitän zu unterschreiben, bevor sie nach § 50 Absatz 1 Satz 2 des Seearbeitsgesetzes an dem leicht zugänglichen Ort ausgehängt wird.
 
@@ -34,8 +29,7 @@ Beruht im Falle des Satzes 1 Nummer 2 Buchstabe b die Abweichung auf einer Veror
 
 (3) Auf Fischereifahrzeugen ist die Übersicht derart zu führen, dass der Kapitän die Wachdienste der Besatzungsmitglieder auf See und im Hafen insoweit einzutragen hat, als diese nach einem wiederkehrenden regelmäßigen Rhythmus eingeteilt sind.
 
-
-## § 3 – Arbeitszeitnachweise
+# § 3 – Arbeitszeitnachweise
 
 (1) Die Arbeitszeitnachweise nach § 50 Absatz 2 des Seearbeitsgesetzes sind nach dem Muster der Anlage 2 jeweils für einen Monat zu führen. Die Arbeitszeitnachweise können in elektronischer Form geführt werden, wenn dabei die Anforderungen nach Satz 1 und nach Absatz 2 bis 4 eingehalten werden.
 
@@ -45,13 +39,11 @@ Beruht im Falle des Satzes 1 Nummer 2 Buchstabe b die Abweichung auf einer Veror
 
 (4) Dem Besatzungsmitglied ist eine Kopie seines nach Absatz 3 unterzeichneten Arbeitszeitnachweises unverzüglich auszuhändigen oder elektronisch zu übermitteln.
 
-
-## § 4 – Sprachenvorschrift
+# § 4 – Sprachenvorschrift
 
 Die Übersicht über die Arbeitsorganisation nach § 2 sowie die Arbeitszeitnachweise nach § 3 sind in deutscher und englischer Sprache und in den weiteren Arbeitssprachen des Schiffes zu führen.
 
-
-## § 5 – Aufbewahrung
+# § 5 – Aufbewahrung
 
 (1) Solange das Schiff die Bundesflagge führt, hat der Reeder sicherzustellen, dass
 
@@ -63,18 +55,15 @@ mindestens drei Jahre an Bord des Schiffes aufbewahrt werden. Wird das Schiff vo
 
 (2) Bei Schiffen in der nationalen Fahrt können die Übersichten über die Arbeitsorganisation und die Arbeitszeitnachweise abweichend von Absatz 1 Satz 1 am Sitz der Reederei so aufbewahrt werden, dass die Berufsgenossenschaft für Transport und Verkehrswirtschaft während der üblichen Geschäftszeiten Einsicht nehmen kann.
 
-
-## § 6 – Ordnungswidrigkeiten
+# § 6 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 145 Absatz 1 Nummer 18 des Seearbeitsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Absatz 1 Satz 1 nicht sicherstellt, dass die Übersichten über die Arbeitsorganisation und die Arbeitszeitnachweise mindestens drei Jahre aufbewahrt werden.
 
-
-## § 7 – Inkrafttreten, Außerkrafttreten
+# § 7 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2013 in Kraft. Gleichzeitig tritt die See-Arbeitszeitnachweisverordnung vom 5. Juli 2002 (BGBl. I S. 2571) außer Kraft.
 
-
-## Anlage 1 – (zu § 2 Absatz 1)Standardmuster für die Übersicht über die Arbeitsorganisation an Bord
+# Anlage 1 – (zu § 2 Absatz 1)Standardmuster für die Übersicht über die Arbeitsorganisation an Bord
 
 (Fundstelle: BGBl. I 2013, 2797)
 
@@ -102,8 +91,7 @@ Nichtzutreffendes streichen.
 <span id="FnA1-f782027_05"></span><a href="#FnR.FnA1-f782027_05" class="Footnote">4</a>  
 Für das Wachpersonal können unter der Rubrik „Bemerkungen“ Angaben zu der voraussichtlich für außerplanmäßige Dienste abzuleistenden Stundenzahl eingetragen werden; diese Stunden sind in die Rubrik zur Angabe der täglichen Gesamtarbeitszeit aufzunehmen.
 
-
-## Anlage 2 – (zu § 3 Absatz 1)Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Besatzungsmitgliedern
+# Anlage 2 – (zu § 3 Absatz 1)Standardmuster für die Übersicht über die Arbeitszeiten und Ruhezeiten von Besatzungsmitgliedern
 
 (Fundstelle: BGBl. I 2013, 2798 - 2799)
 
@@ -125,8 +113,7 @@ Wachdienst<span id="FnR.FnA1-f782027_07"></span><a href="#FnA1-f782027_07" class
 
 Übersicht über die Arbeits-/Ruhezeiten<span id="FnR.FnA1-f782027_08"></span><a href="#FnA1-f782027_08" class="FnR">3</a></sup>
 
-Bitte kennzeichnen Sie die Arbeits- oder Ruhezeiten ggf. mit einem „X“ oder verwenden Sie eine durchgehende Pfeillinie.  
-  
+Bitte kennzeichnen Sie die Arbeits- oder Ruhezeiten ggf. mit einem „X“ oder verwenden Sie eine durchgehende Pfeillinie.   
 
 Für dieses Schiff gelten die nachstehenden Rechts- und Verwaltungsvorschriften  
 über die Begrenzung der Arbeitszeiten oder Mindestruhezeiten:   §§ 42 bis 55 Seearbeitsgesetz\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

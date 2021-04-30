@@ -1,10 +1,7 @@
-# [BioNachGebV] Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach der Biomassestrom-Nachhaltigkeitsverordnung und der Biokraftstoff-Nachhaltigkeitsverordnung  (Biomassestrom- sowie Biokraftstoff-Nachhaltigkeitsgebührenverordnung - BioNachGebV)
-
-Ausfertigungsdatum: 07.02.2012
-
+% Verordnung über Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach der Biomassestrom-Nachhaltigkeitsverordnung und der Biokraftstoff-Nachhaltigkeitsverordnung  (Biomassestrom- sowie Biokraftstoff-Nachhaltigkeitsgebührenverordnung - BioNachGebV)
+% Ausfertigungsdatum: 07.02.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -16,8 +13,7 @@ das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium fü
 
 jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 
-
-## § 1 – Erhebung von Gebühren
+# § 1 – Erhebung von Gebühren
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung erhebt nach dieser Verordnung Gebühren zur Deckung des Verwaltungsaufwands für Amtshandlungen
 
@@ -35,13 +31,11 @@ jeweils in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 
 (4) Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich aus dem Gebührenverzeichnis der Anlage zu dieser Verordnung.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 1 Absatz 4)Gebührenverzeichnis
+# Anlage – (zu § 1 Absatz 4)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 266)  
   

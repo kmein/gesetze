@@ -1,20 +1,15 @@
-# [KOVVfG] Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung
-
-Ausfertigungsdatum: 02.05.1955
-
+% Gesetz über das Verwaltungsverfahren der Kriegsopferversorgung
+% Ausfertigungsdatum: 02.05.1955
  
-
-## § 1
+# § 1
 
 Das Gesetz findet Anwendung bei der Ausführung des Bundesversorgungsgesetzes und anderer Gesetze, die dieses Gesetz für anwendbar erklären, soweit die Leistungen von den im Gesetz über die Errichtung der Verwaltungsbehörden der Kriegsopferversorgung vom 12. März 1951 (Bundesgesetzblatt I S. 169), zuletzt geändert durch das Vierte Gesetz zur Anpassung der Leistungen des Bundesversorgungsgesetzes vom 24. Juli 1972 (Bundesgesetzblatt I S. 1284), genannten Verwaltungsbehörden und Stellen gewährt werden.
 
-
-## § 2
+# § 2
 
 Die Versorgungsämter sind für alle Versorgungsangelegenheiten zuständig, soweit durch Gesetz nichts anderes bestimmt ist. Das Bundesministerium für Arbeit und Soziales kann mit Zustimmung des Bundesrates durch Rechtsverordnung für bestimmte Versorgungsangelegenheiten die Zuständigkeit der Landesversorgungsämter oder der obersten Landesbehörden oder der in § 2 des Gesetzes über die Errichtung der Verwaltungsbehörden der Kriegsopferversorgung vom 12. März 1951 (Bundesgesetzbl. I S. 169), zuletzt geändert durch das Vierte Gesetz zur Anpassung der Leistungen des Bundesversorgungsgesetzes vom 24. Juli 1972 (Bundesgesetzbl. I S. 1284), genannten Stellen begründen. Die für die Kriegsopferversorgung zuständigen obersten Landesbehörden können sich selbst oder den Landesversorgungsämtern die Zustimmung zu Entscheidungen über bestimmte Versorgungsangelegenheiten vorbehalten.
 
-
-## § 3
+# § 3
 
 (1) Örtlich zuständig ist die Verwaltungsbehörde, in deren Bezirk der Antragsteller oder Berechtigte seinen Wohnsitz oder gewöhnlichen Aufenthalt hat.
 
@@ -26,80 +21,65 @@ Die Versorgungsämter sind für alle Versorgungsangelegenheiten zuständig, sowe
 
 (5) Die Zuständigkeit der Verwaltungsbehörden für Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Geltungsbereichs des Grundgesetzes haben, regelt das Bundesministerium für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
-## § 4
+# § 4
 
 (1)
 
 (2) Wird der Wohnsitz oder gewöhnliche Aufenthalt von einem Ort außerhalb des Geltungsbereichs des Grundgesetzes in dessen Geltungsbereich verlegt, so bleibt für die Festsetzung von Art, Höhe, Beginn und Ende von Versorgungsleistungen sowie für die Feststellung einer Überzahlung für die Zeit vor dem Wechsel des Wohnsitzes oder gewöhnlichen Aufenthalts die bisherige Zuständigkeit bestehen.
 
-
-## § 5
+# § 5
 
 \-
 
-
-## § 6
+# § 6
 
 Die Anträge in Versorgungsangelegenheiten sind bei dem Versorgungsamt zu stellen, auch wenn für die Entscheidung das Landesversorgungsamt zuständig ist.
 
-
-## § 7
+# § 7
 
 \-
 
+# §§ 8 bis 11 – (weggefallen)
 
-## §§ 8 bis 11 – (weggefallen)
-
-
-## § 12
+# § 12
 
 (1)
 
 (2) Mit Einverständnis oder auf Wunsch des Antragstellers oder Versorgungsberechtigten kann die Verwaltungsbehörde von öffentlichen, freien gemeinnützigen und privaten Krankenanstalten sowie Krankenanstalten öffentlich-rechtlicher Körperschaften und Trägern der Sozialversicherung Krankenpapiere, Aufzeichnungen, Krankengeschichten, Sektions- und Untersuchungsbefunde sowie Röntgenbilder zur Einsicht beiziehen. Die Verwaltungsbehörde hat für die Wahrung des ärztlichen Berufsgeheimnisses Sorge zu tragen. Unter denselben Voraussetzungen kann die Verwaltungsbehörde von privaten Ärzten, die den Antragsteller oder Versorgungsberechtigten behandeln oder behandelt haben, Auskünfte einholen und Untersuchungsunterlagen zur Einsicht beziehen.
 
-
-## § 13
+# § 13
 
 (1) Die Verwaltungsbehörde ist befugt, von den Auskunftspersonen die eidesstattliche Versicherung zu verlangen, daß sie nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen haben. In gleicher Weise kann von den Sachverständigen die eidesstattliche Versicherung verlangt werden, daß sie das Gutachten unparteiisch und nach bestem Wissen erstattet haben.
 
 (2) Ist die Anhörung vor den zuständigen Verwaltungsbehörden mit Schwierigkeiten verbunden, namentlich wegen der Entfernung des Aufenthaltsorts der zu hörenden Personen vom Sitz der Verwaltungsbehörde, so kann eine andere Verwaltungsbehörde und, wenn die Anhörung vor dieser ebenfalls Schwierigkeiten unterläge, eine andere Behörde um die Erledigung ersucht werden. Dasselbe gilt bei Gefahr im Verzug.
 
-
-## § 14
+# § 14
 
 \-
 
-
-## § 15
+# § 15
 
 Die Angaben des Antragstellers, die sich auf die mit der Schädigung im Zusammenhang stehenden Tatsachen beziehen, sind, wenn Unterlagen nicht vorhanden oder nicht zu beschaffen oder ohne Verschulden des Antragstellers oder seiner Hinterbliebenen verlorengegangen sind, der Entscheidung zugrunde zu legen, soweit sie nach den Umständen des Falles glaubhaft erscheinen. Die Verwaltungsbehörde kann in besonderen Fällen von dem Antragsteller die eidesstattliche Versicherung verlangen, daß er bei seinen Angaben nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe.
 
-
-## § 16
+# § 16
 
 \-
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18
+# § 18
 
 Verweigert der Antragsteller das Einverständnis nach § 12 Abs. 2, die Abgabe der eidesstattlichen Versicherung nach § 15, so darf über den Antrag erst entschieden werden, wenn der Antragsteller vorher schriftlich darauf hingewiesen worden ist, daß sein Verhalten nachteilige Folgen für ihn haben kann.
 
-
-## § 19
+# § 19
 
 (weggefallen)
 
+# §§ 20 u. 21 – (weggefallen)
 
-## §§ 20 u. 21 – (weggefallen)
-
-
-## § 22
+# § 22
 
 (1) Abschließende Mitteilungen der Verwaltungsbehörden in der Versorgungssache ergehen durch schriftlichen Bescheid.
 
@@ -111,40 +91,31 @@ Verweigert der Antragsteller das Einverständnis nach § 12 Abs. 2, die Abgabe d
 
 (5) Ist in einem Bescheid nach § 60a Abs. 1 Satz 2 des Bundesversorgungsgesetzes die endgültige Feststellung der einkommensabhängigen Leistungen vorbehalten worden, so ist für die endgültige Feststellung die vorher getroffene Feststellung der Berechnungsgrundlagen nicht bindend.
 
+# §§ 23 bis 26 – (weggefallen)
 
-## §§ 23 bis 26 – (weggefallen)
+# §§ 27 u. 28 – (weggefallen)
 
-
-## §§ 27 u. 28 – (weggefallen)
-
-
-## § 29
+# § 29
 
 (weggefallen)
 
-
-## § 30
+# § 30
 
 \-
 
-
-## § 31
+# § 31
 
 (1)
 
 (2) Freien gemeinnützigen und privaten Krankenanstalten sowie privaten Ärzten werden die ihnen nach § 12 Abs. 2 entstandenen notwendigen baren Auslagen erstattet.
 
+# §§ 32 bis 34 – (weggefallen)
 
-## §§ 32 bis 34 – (weggefallen)
+# §§ 35 u. 36 – (weggefallen)
 
+# §§ 37 bis 39 – (weggefallen)
 
-## §§ 35 u. 36 – (weggefallen)
-
-
-## §§ 37 bis 39 – (weggefallen)
-
-
-## § 40
+# § 40
 
 (1) (weggefallen)
 
@@ -152,43 +123,35 @@ Verweigert der Antragsteller das Einverständnis nach § 12 Abs. 2, die Abgabe d
 
 (3) (weggefallen)
 
-
-## § 41
+# § 41
 
 (1) (weggefallen)
 
 (2) (weggefallen)
 
+# §§ 42 bis 44 – (weggefallen)
 
-## §§ 42 bis 44 – (weggefallen)
+# §§ 45 u. 46 – (weggefallen)
 
-
-## §§ 45 u. 46 – (weggefallen)
-
-
-## § 47
+# § 47
 
 \-
 
-
-## § 48
+# § 48
 
 Die Entscheidung über die Rückzahlung einer Kapitalabfindung ist auch für das Verfahren auf Befriedigung aus einer für den Rückzahlungsanspruch bestellten Sicherungshypothek bindend.
 
-
-## § 49
+# § 49
 
 \-
 
-
-## § 50
+# § 50
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigung erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
 (2) § 42 gilt auch für Entscheidungen des Einspruchsausschusses beim Landesversorgungsamt Berlin.
 
-
-## § 51
+# § 51
 
 (1) Dieses Gesetz tritt am 1. April 1955 in Kraft.
 
@@ -198,7 +161,6 @@ Die Entscheidung über die Rückzahlung einer Kapitalabfindung ist auch für das
 
 (4) Soweit in anderen gesetzlichen und sonstigen Bestimmungen auf die aufgehobenen Vorschriften verwiesen ist, treten die entsprechenden Vorschriften dieses Gesetzes an ihre Stelle.
 
-
-## § 52
+# § 52
 
 In den am Tage des Inkrafttretens dieses Gesetzes anhängigen Sachen sind für das weitere Verfahren die Vorschriften dieses Gesetzes maßgebend.

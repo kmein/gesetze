@@ -1,15 +1,11 @@
-# [RPflG] Rechtspflegergesetz  (RPflG)
-
-Ausfertigungsdatum: 05.11.1969
-
+% Rechtspflegergesetz  (RPflG)
+% Ausfertigungsdatum: 05.11.1969
  
-
-## § 1 – Allgemeine Stellung des Rechtspflegers
+# § 1 – Allgemeine Stellung des Rechtspflegers
 
 Der Rechtspfleger nimmt die ihm durch dieses Gesetz übertragenen Aufgaben der Rechtspflege wahr.
 
-
-## § 2 – Voraussetzungen für die Tätigkeit als Rechtspfleger
+# § 2 – Voraussetzungen für die Tätigkeit als Rechtspfleger
 
 (1) Mit den Aufgaben eines Rechtspflegers kann ein Beamter des Justizdienstes betraut werden, der einen Vorbereitungsdienst von drei Jahren abgeleistet und die Rechtspflegerprüfung bestanden hat. Der Vorbereitungsdienst vermittelt in einem Studiengang einer Fachhochschule oder in einem gleichstehenden Studiengang dem Beamten die wissenschaftlichen Erkenntnisse und Methoden sowie die berufspraktischen Fähigkeiten und Kenntnisse, die zur Erfüllung der Aufgaben eines Rechtspflegers erforderlich sind. Der Vorbereitungsdienst besteht aus Fachstudien von mindestens achtzehnmonatiger Dauer und berufspraktischen Studienzeiten. Die berufspraktischen Studienzeiten umfassen die Ausbildung in den Schwerpunktbereichen der Aufgaben eines Rechtspflegers; die praktische Ausbildung darf die Dauer von einem Jahr nicht unterschreiten.
 
@@ -25,8 +21,7 @@ Der Rechtspfleger nimmt die ihm durch dieses Gesetz übertragenen Aufgaben der R
 
 (7) Das Berufsqualifikationsfeststellungsgesetz ist nicht anzuwenden.
 
-
-## § 3 – Übertragene Geschäfte
+# § 3 – Übertragene Geschäfte
 
 Dem Rechtspfleger werden folgende Geschäfte übertragen:
 
@@ -102,8 +97,7 @@ b) (weggefallen)
 
 c) der Staatsanwaltschaft im Strafverfahren und der Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln.
 
-
-## § 4 – Umfang der Übertragung
+# § 4 – Umfang der Übertragung
 
 (1) Der Rechtspfleger trifft alle Maßnahmen, die zur Erledigung der ihm übertragenen Geschäfte erforderlich sind.
 
@@ -123,8 +117,7 @@ handelt.
 
 (3) Hält der Rechtspfleger Maßnahmen für geboten, zu denen er nach Absatz 2 Nummer 1 und 2 nicht befugt ist, so legt er deswegen die Sache dem Richter zur Entscheidung vor.
 
-
-## § 5 – Vorlage an den Richter
+# § 5 – Vorlage an den Richter
 
 (1) Der Rechtspfleger hat ihm übertragene Geschäfte dem Richter vorzulegen, wenn
 
@@ -136,18 +129,15 @@ handelt.
 
 (3) Die vorgelegten Sachen bearbeitet der Richter, solange er es für erforderlich hält. Er kann die Sachen dem Rechtspfleger zurückgeben. Gibt der Richter eine Sache an den Rechtspfleger zurück, so ist dieser an eine von dem Richter mitgeteilte Rechtsauffassung gebunden.
 
-
-## § 6 – Bearbeitung übertragener Sachen durch den Richter
+# § 6 – Bearbeitung übertragener Sachen durch den Richter
 
 Steht ein übertragenes Geschäft mit einem vom Richter wahrzunehmenden Geschäft in einem so engen Zusammenhang, dass eine getrennte Bearbeitung nicht sachdienlich wäre, so soll der Richter die gesamte Angelegenheit bearbeiten.
 
-
-## § 7 – Bestimmung des zuständigen Organs der Rechtspflege
+# § 7 – Bestimmung des zuständigen Organs der Rechtspflege
 
 Bei Streit oder Ungewissheit darüber, ob ein Geschäft von dem Richter oder dem Rechtspfleger zu bearbeiten ist, entscheidet der Richter über die Zuständigkeit durch Beschluss. Der Beschluss ist unanfechtbar.
 
-
-## § 8 – Gültigkeit von Geschäften
+# § 8 – Gültigkeit von Geschäften
 
 (1) Hat der Richter ein Geschäft wahrgenommen, das dem Rechtspfleger übertragen ist, so wird die Wirksamkeit des Geschäfts hierdurch nicht berührt.
 
@@ -159,18 +149,15 @@ Bei Streit oder Ungewissheit darüber, ob ein Geschäft von dem Richter oder dem
 
 (5) Hat der Rechtspfleger ein Geschäft des Urkundsbeamten der Geschäftsstelle wahrgenommen, so wird die Wirksamkeit des Geschäfts hierdurch nicht berührt.
 
-
-## § 9 – Weisungsfreiheit des Rechtspflegers
+# § 9 – Weisungsfreiheit des Rechtspflegers
 
 Der Rechtspfleger ist sachlich unabhängig und nur an Recht und Gesetz gebunden.
 
-
-## § 10 – Ausschließung und Ablehnung des Rechtspflegers
+# § 10 – Ausschließung und Ablehnung des Rechtspflegers
 
 Für die Ausschließung und Ablehnung des Rechtspflegers sind die für den Richter geltenden Vorschriften entsprechend anzuwenden. Über die Ablehnung des Rechtspflegers entscheidet der Richter.
 
-
-## § 11 – Rechtsbehelfe
+# § 11 – Rechtsbehelfe
 
 (1) Gegen die Entscheidungen des Rechtspflegers ist das Rechtsmittel gegeben, das nach den allgemeinen verfahrensrechtlichen Vorschriften zulässig ist.
 
@@ -180,18 +167,15 @@ Für die Ausschließung und Ablehnung des Rechtspflegers sind die für den Richt
 
 (4) Das Erinnerungsverfahren ist gerichtsgebührenfrei.
 
-
-## § 12 – Bezeichnung des Rechtspflegers
+# § 12 – Bezeichnung des Rechtspflegers
 
 Im Schriftverkehr und bei der Aufnahme von Urkunden in übertragenen Angelegenheiten hat der Rechtspfleger seiner Unterschrift das Wort „Rechtspfleger“ beizufügen.
 
-
-## § 13 – Ausschluss des Anwaltszwangs
+# § 13 – Ausschluss des Anwaltszwangs
 
 § 78 Absatz 1 der Zivilprozessordnung und § 114 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sind auf Verfahren vor dem Rechtspfleger nicht anzuwenden.
 
-
-## § 14 – Kindschafts- und Adoptionssachen
+# § 14 – Kindschafts- und Adoptionssachen
 
 (1) Von den dem Familiengericht übertragenen Angelegenheiten in Kindschafts- und Adoptionssachen sowie den entsprechenden Lebenspartnerschaftssachen bleiben dem Richter vorbehalten:
 
@@ -233,8 +217,7 @@ b) eines gesetzlichen Vertreters zu der Sorgeerklärung eines beschränkt gesch�
 
 (2) Die Maßnahmen und Anordnungen nach den §§ 10 bis 15, 20, 21, 32 bis 35, 38, 40, 41, 44 und 47 des Internationalen Familienrechtsverfahrensgesetzes vom 26. Januar 2005 (BGBl. I S. 162), soweit diese dem Familiengericht obliegen, bleiben dem Richter vorbehalten.
 
-
-## § 15 – Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
+# § 15 – Betreuungssachen und betreuungsgerichtliche Zuweisungssachen
 
 (1) Von den Angelegenheiten, die dem Betreuungsgericht übertragen sind, bleiben dem Richter vorbehalten:
 
@@ -262,8 +245,7 @@ Satz 1 Nummer 1 bis 3 findet keine Anwendung, wenn die genannten Verrichtungen n
 
 (2) Die Maßnahmen und Anordnungen nach den §§ 6 bis 12 des Erwachsenenschutzübereinkommens-Ausführungsgesetzes vom 17. März 2007 (BGBl. I S. 314) bleiben dem Richter vorbehalten.
 
-
-## § 16 – Nachlass- und Teilungssachen; Europäisches Nachlasszeugnis
+# § 16 – Nachlass- und Teilungssachen; Europäisches Nachlasszeugnis
 
 (1) In Nachlass- und Teilungssachen bleiben dem Richter vorbehalten
 
@@ -293,8 +275,7 @@ Satz 1 Nummer 1 bis 3 findet keine Anwendung, wenn die genannten Verrichtungen n
 
 Der Rechtspfleger ist an die ihm mitgeteilte Auffassung des Richters gebunden.
 
-
-## § 17 – Registersachen und unternehmensrechtliche Verfahren
+# § 17 – Registersachen und unternehmensrechtliche Verfahren
 
 In Handels-, Genossenschafts- und Partnerschaftsregistersachen sowie in unternehmens-rechtlichen Verfahren nach dem Buch 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bleiben dem Richter vorbehalten
 
@@ -326,8 +307,7 @@ e) (weggefallen)
 
 geregelten Geschäfte.
 
-
-## § 18 – Insolvenzverfahren
+# § 18 – Insolvenzverfahren
 
 (1) In Verfahren nach der Insolvenzordnung bleiben dem Richter vorbehalten:
 
@@ -347,8 +327,7 @@ geregelten Geschäfte.
 
 (4) Ein Beamter auf Probe darf im ersten Jahr nach seiner Ernennung Geschäfte des Rechtspflegers in Insolvenzsachen nicht wahrnehmen. Rechtspfleger in Insolvenzsachen sollen über belegbare Kenntnisse des Insolvenzrechts und Grundkenntnisse des Handels- und Gesellschaftsrechts und der für das Insolvenzverfahren notwendigen Teile des Arbeits-, Sozial- und Steuerrechts und des Rechnungswesens verfügen. Einem Rechtspfleger, dessen Kenntnisse auf diesen Gebieten nicht belegt sind, dürfen die Aufgaben eines Rechtspflegers in Insolvenzsachen nur zugewiesen werden, wenn der Erwerb der Kenntnisse alsbald zu erwarten ist.
 
-
-## § 19 – Aufhebung von Richtervorbehalten
+# § 19 – Aufhebung von Richtervorbehalten
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die in den vorstehenden Vorschriften bestimmten Richtervorbehalte ganz oder teilweise aufzuheben, soweit sie folgende Angelegenheiten betreffen:
 
@@ -370,8 +349,7 @@ Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen
 
 (3) Soweit von der Ermächtigung nach Absatz 1 Nummer 1 hinsichtlich der Auswahl und Bestellung eines Betreuers Gebrauch gemacht wird, sind die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit über die Bestellung eines Betreuers auch für die Anordnung einer Betreuung und Festlegung des Aufgabenkreises des Betreuers nach § 1896 des Bürgerlichen Gesetzbuchs anzuwenden.
 
-
-## § 19a – Verfahren nach dem internationalen Insolvenzrecht
+# § 19a – Verfahren nach dem internationalen Insolvenzrecht
 
 (1) In Verfahren nach der Verordnung (EG) Nr. 1346/2000 des Rates vom 29. Mai 2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S. 1) und nach Artikel 102 des Einführungsgesetzes zur Insolvenzordnung bleiben dem Richter vorbehalten:
 
@@ -403,8 +381,7 @@ Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen
 
 6. die Zuständigkeit für das Gruppen-Koordinationsverfahren nach Kapitel V Abschnitt 2 der Verordnung (EU) 2015/848.
 
-
-## § 19b – Schifffahrtsrechtliches Verteilungsverfahren
+# § 19b – Schifffahrtsrechtliches Verteilungsverfahren
 
 (1) Im Verfahren nach der Schifffahrtsrechtlichen Verteilungsordnung bleiben dem Richter vorbehalten:
 
@@ -420,8 +397,7 @@ Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen
 
 (2) Der Richter kann sich das Verteilungsverfahren ganz oder teilweise vorbehalten, wenn er dies für geboten erachtet. Hält er den Vorbehalt nicht mehr für erforderlich, kann er das Verfahren dem Rechtspfleger übertragen. Auch nach der Übertragung kann er das Verfahren wieder an sich ziehen, wenn und solange er dies für erforderlich hält.
 
-
-## § 20 – Bürgerliche Rechtsstreitigkeiten
+# § 20 – Bürgerliche Rechtsstreitigkeiten
 
 (1) Folgende Geschäfte im Verfahren nach der Zivilprozessordnung werden dem Rechtspfleger übertragen:
 
@@ -443,8 +419,7 @@ c) die Änderung und die Aufhebung der Bewilligung der Prozesskostenhilfe nach d
 
 6. im Verfahren über die grenzüberschreitende Prozesskostenhilfe innerhalb der Europäischen Union die in § 1077 der Zivilprozessordnung bezeichneten Maßnahmen sowie die dem Vollstreckungsgericht nach § 1078 der Zivilprozessordnung obliegenden Entscheidungen; wird Prozesskostenhilfe für eine Rechtsverfolgung oder Rechtsverteidigung beantragt, die eine richterliche Handlung erfordert, bleibt die Entscheidung nach § 1078 der Zivilprozessordnung dem Richter vorbehalten;
 
-6a.  
-die Entscheidungen nach § 22 Absatz 3 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898);
+6a. die Entscheidungen nach § 22 Absatz 3 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898);
 
 7. das Europäische Mahnverfahren im Sinne des Abschnitts 5 des Elften Buchs der Zivilprozessordnung einschließlich der Abgabe an das für das streitige Verfahren als zuständig bezeichnete Gericht, auch soweit das Europäische Mahnverfahren maschinell bearbeitet wird; jedoch bleiben die Überprüfung des Europäischen Zahlungsbefehls und das Streitverfahren dem Richter vorbehalten;
 
@@ -466,8 +441,7 @@ die Entscheidungen nach § 22 Absatz 3 des Auslandsunterhaltsgesetzes vom 23. Ma
 
 16. die Pfändung von Forderungen sowie die Anordnung der Pfändung von eingetragenen Schiffen oder Schiffsbauwerken aus einem Arrestbefehl, soweit der Arrestbefehl nicht zugleich den Pfändungsbeschluss oder die Anordnung der Pfändung enthält;
 
-16a.  
-die Anordnung, dass die Sache versteigert und der Erlös hinterlegt werde, nach § 21 des Anerkennungs- und Vollstreckungsausführungsgesetzes vom 19. Februar 2001 (BGBl. I S. 288, 436), nach § 51 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898), nach § 17 des Internationalen Erbrechtsverfahrensgesetzes und § 17 des Internationalen Güterrechtsverfahrensgesetzes;
+16a. die Anordnung, dass die Sache versteigert und der Erlös hinterlegt werde, nach § 21 des Anerkennungs- und Vollstreckungsausführungsgesetzes vom 19. Februar 2001 (BGBl. I S. 288, 436), nach § 51 des Auslandsunterhaltsgesetzes vom 23. Mai 2011 (BGBl. I S. 898), nach § 17 des Internationalen Erbrechtsverfahrensgesetzes und § 17 des Internationalen Güterrechtsverfahrensgesetzes;
 
 17. die Geschäfte im Zwangsvollstreckungsverfahren nach dem Achten Buch der Zivilprozessordnung, soweit sie von dem Vollstreckungsgericht, einem von diesem ersuchten Gericht oder in den Fällen der §§ 848, 854, 855 der Zivilprozessordnung von einem anderen Amtsgericht oder dem Verteilungsgericht (§ 873 der Zivilprozessordnung) zu erledigen sind. Jedoch bleiben dem Richter die Entscheidungen nach § 766 sowie Artikel 34 Absatz 1 Buchstabe b und Absatz 2 der Verordnung (EU) Nr. 655/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Einführung eines Verfahrens für einen Europäischen Beschluss zur vorläufigen Kontenpfändung im Hinblick auf die Erleichterung der grenzüberschreitenden Eintreibung von Forderungen in Zivil- und Handelssachen (ABl. L 189 vom 27.6.2014, S. 59) der Zivilprozessordnung vorbehalten.
 
@@ -475,8 +449,7 @@ die Anordnung, dass die Sache versteigert und der Erlös hinterlegt werde, nach 
 
 (3) Die Landesregierungen können die Ermächtigung nach Absatz 2 auf die Landesjustizverwaltungen übertragen.
 
-
-## § 21 – Festsetzungsverfahren
+# § 21 – Festsetzungsverfahren
 
 Folgende Geschäfte im Festsetzungsverfahren werden dem Rechtspfleger übertragen:
 
@@ -486,13 +459,11 @@ Folgende Geschäfte im Festsetzungsverfahren werden dem Rechtspfleger übertrage
 
 3. die Festsetzung der Gerichtskosten nach den Gesetzen und Verordnungen zur Ausführung von Verträgen mit ausländischen Staaten über die Rechtshilfe sowie die Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen.
 
-
-## § 22 – Gerichtliche Geschäfte in Straf- und Bußgeldverfahren
+# § 22 – Gerichtliche Geschäfte in Straf- und Bußgeldverfahren
 
 Von den gerichtlichen Geschäften in Straf- und Bußgeldverfahren wird dem Rechtspfleger die Entscheidung über Feststellungsanträge nach § 52 Absatz 2 und § 53 Absatz 3 des Rechtsanwaltsvergütungsgesetzes übertragen.
 
-
-## § 23 – Verfahren vor dem Patentgericht
+# § 23 – Verfahren vor dem Patentgericht
 
 (1) Im Verfahren vor dem Patentgericht werden dem Rechtspfleger die folgenden Geschäfte übertragen:
 
@@ -524,8 +495,7 @@ Von den gerichtlichen Geschäften in Straf- und Bußgeldverfahren wird dem Recht
 
 (2) Gegen die Entscheidungen des Rechtspflegers nach Absatz 1 ist die Erinnerung zulässig. Sie ist binnen einer Frist von zwei Wochen einzulegen. § 11 Absatz 1 und 2 Satz 1 ist nicht anzuwenden.
 
-
-## § 24 – Aufnahme von Erklärungen
+# § 24 – Aufnahme von Erklärungen
 
 (1) Folgende Geschäfte der Geschäftsstelle werden dem Rechtspfleger übertragen:
 
@@ -547,8 +517,7 @@ b) der Revision in Strafsachen;
 
 (3) § 5 ist nicht anzuwenden.
 
-
-## § 24a – Beratungshilfe
+# § 24a – Beratungshilfe
 
 (1) Folgende Geschäfte werden dem Rechtspfleger übertragen:
 
@@ -558,15 +527,13 @@ b) der Revision in Strafsachen;
 
 (2) § 11 Absatz 2 Satz 1 bis 4 und Absatz 3 ist nicht anzuwenden.
 
-
-## § 24b – Amtshilfe
+# § 24b – Amtshilfe
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Geschäfte der Amtshilfe dem Rechtspfleger zu übertragen.
 
 (2) Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
-
-## § 25 – Sonstige Geschäfte auf dem Gebiet der Familiensachen
+# § 25 – Sonstige Geschäfte auf dem Gebiet der Familiensachen
 
 Folgende weitere Geschäfte in Familiensachen einschließlich der entsprechenden Lebenspartnerschaftssachen werden dem Rechtspfleger übertragen:
 
@@ -590,30 +557,25 @@ c) die Entscheidung über die Stundung einer Ausgleichsforderung und Übertragun
 
 4. in Verfahren nach dem EU-Gewaltschutzverfahrensgesetz vom 5. Dezember 2014 (BGBl. I S. 1964) die Ausstellung von Bescheinigungen nach Artikel 5 Absatz 1 und Artikel 14 Absatz 1 der Verordnung (EU) Nr. 606/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die gegenseitige Anerkennung von Schutzmaßnahmen in Zivilsachen (ABl. L 181 vom 29.6.2013, S. 4) sowie deren Berichtigung und Aufhebung gemäß Artikel 9 Absatz 1 der Verordnung (EU) Nr. 606/2013.
 
-
-## § 25a – Verfahrenskostenhilfe
+# § 25a – Verfahrenskostenhilfe
 
 In Verfahren über die Verfahrenskostenhilfe werden dem Rechtspfleger die dem § 20 Absatz 1 Nummer 4 und 5 entsprechenden Geschäfte übertragen. § 20 Absatz 2 und 3 gilt entsprechend.
 
-
-## § 26 – Verhältnis des Rechtspflegers zum Urkundsbeamten der Geschäftsstelle
+# § 26 – Verhältnis des Rechtspflegers zum Urkundsbeamten der Geschäftsstelle
 
 Die Zuständigkeit des Urkundsbeamten der Geschäftsstelle nach Maßgabe der gesetzlichen Vorschriften bleibt unberührt, soweit sich nicht aus § 20 Satz 1 Nummer 12 (zu den §§ 726ff. der Zivilprozessordnung), aus § 21 Nummer 1 (Festsetzungsverfahren) und aus § 24 (Aufnahme von Erklärungen) etwas anderes ergibt.
 
-
-## § 27 – Pflicht zur Wahrnehmung sonstiger Dienstgeschäfte
+# § 27 – Pflicht zur Wahrnehmung sonstiger Dienstgeschäfte
 
 (1) Durch die Beschäftigung eines Beamten als Rechtspfleger wird seine Pflicht, andere Dienstgeschäfte einschließlich der Geschäfte des Urkundsbeamten der Geschäftsstelle wahrzunehmen, nicht berührt.
 
 (2) Die Vorschriften dieses Gesetzes sind auf die sonstigen Dienstgeschäfte eines mit den Aufgaben des Rechtspflegers betrauten Beamten nicht anzuwenden.
 
-
-## § 28 – Zuständiger Richter
+# § 28 – Zuständiger Richter
 
 Soweit mit Angelegenheiten, die dem Rechtspfleger zur selbständigen Wahrnehmung übertragen sind, nach diesem Gesetz der Richter befasst wird, ist hierfür das nach den allgemeinen Verfahrensvorschriften zu bestimmende Gericht in der für die jeweilige Amtshandlung vorgeschriebenen Besetzung zuständig.
 
-
-## § 29 – Geschäfte im internationalen Rechtsverkehr
+# § 29 – Geschäfte im internationalen Rechtsverkehr
 
 Dem Rechtspfleger werden folgende Aufgaben übertragen:
 
@@ -623,11 +585,9 @@ Dem Rechtspfleger werden folgende Aufgaben übertragen:
 
 3. die Entgegennahme von Anträgen nach § 42 Absatz 1 und die Entscheidung über Anträge nach § 5 Absatz 2 des Internationalen Familienrechtsverfahrensgesetzes vom 26. Januar 2005 (BGBl. I S. 162).
 
+# § 30 – (weggefallen)
 
-## § 30 – (weggefallen)
-
-
-## § 31 – Geschäfte der Staatsanwaltschaft im Strafverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln
+# § 31 – Geschäfte der Staatsanwaltschaft im Strafverfahren und Vollstreckung in Straf- und Bußgeldsachen sowie von Ordnungs- und Zwangsmitteln
 
 (1) Von den Geschäften der Staatsanwaltschaft im Strafverfahren werden dem Rechtspfleger übertragen:
 
@@ -667,13 +627,11 @@ Dem Rechtspfleger werden folgende Aufgaben übertragen:
 
 (7) Unberührt bleiben ferner bundes- und landesrechtliche Vorschriften, welche die Vollstreckung von Vermögensstrafen im Verwaltungszwangsverfahren regeln.
 
-
-## § 32 – Nicht anzuwendende Vorschriften
+# § 32 – Nicht anzuwendende Vorschriften
 
 Auf die nach den §§ 29 und 31 dem Rechtspfleger übertragenen Geschäfte sind die §§ 5 bis 11 nicht anzuwenden.
 
-
-## § 33 – Regelung für die Übergangszeit; Befähigung zum Amt des Bezirksnotars
+# § 33 – Regelung für die Übergangszeit; Befähigung zum Amt des Bezirksnotars
 
 (1) Justizbeamte, die die Voraussetzungen des § 2 nicht erfüllen, können mit den Aufgaben eines Rechtspflegers betraut werden, wenn sie vor dem 1. September 1976 nach den jeweils geltenden Vorschriften die Prüfung für den gehobenen Justizdienst bestanden haben oder, soweit sie eine Prüfung nicht abgelegt haben, vor dem 1. Juli 1970 nicht nur zeitweilig als Rechtspfleger tätig waren.
 
@@ -687,13 +645,11 @@ Auf die nach den §§ 29 und 31 dem Rechtspfleger übertragenen Geschäfte sind 
 
 3. der Erlass einer Maßregel in Bezug auf eine Untersuchung des Gesundheitszustandes, auf eine Heilbehandlung oder einen ärztlichen Eingriff nach § 1908i Absatz 1 Satz 1 und § 1915 Absatz 1 jeweils in Verbindung mit § 1846 des Bürgerlichen Gesetzbuchs.
 
-
-## § 33a – Übergangsregelung für die Jugendstrafvollstreckung
+# § 33a – Übergangsregelung für die Jugendstrafvollstreckung
 
 Bis zum Inkrafttreten der auf Grund der Ermächtigung nach § 31 Absatz 5 zu erlassenden Rechtsverordnung gelten die Bestimmungen über die Entlastung des Jugendrichters in Strafvollstreckungsgeschäften weiter.
 
-
-## § 34 – Wahrnehmung von Rechtspflegeraufgaben durch Bereichsrechtspfleger
+# § 34 – Wahrnehmung von Rechtspflegeraufgaben durch Bereichsrechtspfleger
 
 (1) Mit Ablauf des 31. Dezember 1996 ist die Maßgabe zu diesem Gesetz in Anlage I Kapitel III Sachgebiet A Abschnitt III Nummer 3 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 889) nicht mehr anzuwenden.
 
@@ -701,8 +657,7 @@ Bis zum Inkrafttreten der auf Grund der Ermächtigung nach § 31 Absatz 5 zu erl
 
 (3) Bereichsrechtspfleger können auch nach dem 31. Dezember 1996 auf weiteren Sachgebieten mit Rechtspflegeraufgaben betraut werden, wenn sie auf Grund von Fortbildungsmaßnahmen zur Erledigung von Aufgaben auf diesen Sachgebieten geeignet sind. Dies gilt entsprechend für Beschäftigte, die bis zu diesem Zeitpunkt nur an Fortbildungsmaßnahmen für die Aufgaben der Justizverwaltung, die von Beamten des gehobenen Dienstes wahrgenommen werden, erfolgreich teilgenommen haben.
 
-
-## § 34a – Ausbildung von Bereichsrechtspflegern zu Rechtspflegern
+# § 34a – Ausbildung von Bereichsrechtspflegern zu Rechtspflegern
 
 (1) Bereichsrechtspfleger, die an für sie bestimmten Lehrgängen einer Fachhochschule teilgenommen und diese Ausbildung mit einer Prüfung erfolgreich abgeschlossen haben, erwerben die Stellung eines Rechtspflegers und dürfen mit allen Rechtspflegeraufgaben betraut werden. Die Lehrgänge dauern insgesamt achtzehn Monate und vermitteln den Teilnehmern die wissenschaftlichen Erkenntnisse und Methoden sowie die berufspraktischen Fähigkeiten und Kenntnisse, die zur Erfüllung der Aufgaben eines Rechtspflegers erforderlich sind.
 
@@ -712,13 +667,11 @@ Bis zum Inkrafttreten der auf Grund der Ermächtigung nach § 31 Absatz 5 zu erl
 
 (4) Das Nähere regelt das Landesrecht.
 
-
-## § 35 – (weggefallen)
+# § 35 – (weggefallen)
 
 \-
 
-
-## § 35a – Ratschreiber und Beschlussfertiger in Baden-Württemberg
+# § 35a – Ratschreiber und Beschlussfertiger in Baden-Württemberg
 
 (1) Ratschreiber mit Befähigung zum gehobenen Verwaltungs- oder Justizdienst, die bis 31. Dezember 2017 das Amt im Sinne des § 32 des Landesgesetzes über die freiwillige Gerichtsbarkeit mindestens drei Jahre nicht nur zeitweilig ausgeübt haben, dürfen als Beamte im Landesdienst die Aufgaben eines Rechtspflegers in Grundbuchsachen wahrnehmen. Das Land stellt die fachliche Qualifikation durch geeignete Fortbildungsmaßnahmen sicher.
 
@@ -726,18 +679,15 @@ Bis zum Inkrafttreten der auf Grund der Ermächtigung nach § 31 Absatz 5 zu erl
 
 (3) Das Nähere regelt das Landesrecht.
 
-
-## § 36 – (weggefallen)
+# § 36 – (weggefallen)
 
 \-
 
-
-## § 36a – Vorbehalt für die Freie und Hansestadt Hamburg
+# § 36a – Vorbehalt für die Freie und Hansestadt Hamburg
 
 In der Freien und Hansestadt Hamburg gilt § 24 Absatz 2 mit der Maßgabe, dass der Rechtspfleger die dort bezeichneten Anträge und Erklärungen nur dann aufnehmen soll, wenn dies wegen des Zusammenhangs mit einem von ihm wahrzunehmenden Geschäft, wegen rechtlicher Schwierigkeiten oder aus sonstigen Gründen geboten ist.
 
-
-## § 36b – Übertragung von Rechtspflegeraufgaben auf den Urkundsbeamten der Geschäftsstelle
+# § 36b – Übertragung von Rechtspflegeraufgaben auf den Urkundsbeamten der Geschäftsstelle
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung folgende nach diesem Gesetz vom Rechtspfleger wahrzunehmende Geschäfte ganz oder teilweise dem Urkundsbeamten der Geschäftsstelle zu übertragen:
 
@@ -759,13 +709,11 @@ Die Landesregierungen können die Ermächtigung auf die Landesjustizverwaltungen
 
 (4) Bei der Wahrnehmung von Geschäften nach Absatz 1 Satz 1 Nummer 5 entscheidet über Einwendungen gegen Maßnahmen des Urkundsbeamten der Geschäftsstelle der Rechtspfleger, an dessen Stelle der Urkundsbeamte tätig geworden ist. Er kann dem Urkundsbeamten Weisungen erteilen. Die Befugnisse des Behördenleiters aus den §§ 145, 146 des Gerichtsverfassungsgesetzes bleiben unberührt.
 
-
-## § 37 – Rechtspflegergeschäfte nach Landesrecht
+# § 37 – Rechtspflegergeschäfte nach Landesrecht
 
 Die Länder können Aufgaben, die den Gerichten durch landesrechtliche Vorschriften zugewiesen sind, auf den Rechtspfleger übertragen.
 
-
-## § 38 – Aufhebung und Änderung von Vorschriften
+# § 38 – Aufhebung und Änderung von Vorschriften
 
 (1) (Aufhebung von Vorschriften)
 
@@ -773,10 +721,8 @@ Die Länder können Aufgaben, die den Gerichten durch landesrechtliche Vorschrif
 
 (3) (weggefallen)
 
-
-## § 39 – Überleitungsvorschrift
+# § 39 – Überleitungsvorschrift
 
 Für die Anfechtung von Entscheidungen des Rechtspflegers gelten die §§ 11 und 23 Absatz 2 in der vor dem 1. Oktober 1998 geltenden Fassung, wenn die anzufechtende Entscheidung vor diesem Datum verkündet oder, wenn eine Verkündung nicht stattgefunden hat, der Geschäftsstelle übergeben worden ist.
 
-
-## § 40 – (Inkrafttreten)
+# § 40 – (Inkrafttreten)

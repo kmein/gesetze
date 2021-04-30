@@ -1,10 +1,7 @@
-# [KäseV] Käseverordnung
-
-Ausfertigungsdatum: 24.06.1965
-
+% Käseverordnung
+% Ausfertigungsdatum: 24.06.1965
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Käse sind frische oder in verschiedenen Graden der Reife befindliche Erzeugnisse, die aus dickgelegter Käsereimilch hergestellt sind.
 
@@ -40,13 +37,11 @@ Buttermilcherzeugnissen dürfen keine Bindemittel zugesetzt sein. Die Milch kann
 
 (5) Beigegebene Lebensmittel im Sinne dieser Verordnung sind Lebensmittel, die bei der Herstellung von Käsezubereitungen und Schmelzkäsezubereitungen zur Erzielung einer besonderen Geschmacksrichtung, ohne einen Milchbestandteil zu ersetzen, zugesetzt werden, ausgenommen die in § 3 Abs. 1 oder in § 4 Abs. 1 genannten Stoffe sowie Milch und Milcherzeugnisse. Im Falle der Herstellung von Käsezubereitungen aus Speisequark sind die in § 3 Abs. 1 Nr. 2 Buchstabe b genannten Stoffe beigegebene Lebensmittel.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten nur für das gewerbsmäßige Herstellen und Inverkehrbringen von Käse und Erzeugnissen aus Käse. Dem gewerbsmäßigen Herstellen oder Inverkehrbringen im Sinne dieser Verordnung steht es gleich, wenn Käse oder Erzeugnisse aus Käse für Mitglieder von Genossenschaften oder ähnlichen Einrichtungen oder in Einrichtungen zur Gemeinschaftsverpflegung hergestellt oder abgegeben werden.
 
-
-## § 3 – Anforderungen an die Herstellung von Käse
+# § 3 – Anforderungen an die Herstellung von Käse
 
 (1) Bei der Herstellung von Käse, ausgenommen Molkenkäse, dürfen außer Käsereimilch (§ 1 Abs. 2) und vorbehaltlich des § 23 nur verwendet werden
 
@@ -101,15 +96,13 @@ e) die zur Lösung oder Emulgierung von Beta-Carotin (E 160a) erforderliche Meng
 
 (4) (weggefallen)
 
-
-## § 4 – Anforderungen an die Herstellung von Erzeugnissen aus Käse
+# § 4 – Anforderungen an die Herstellung von Erzeugnissen aus Käse
 
 (1) Bei der Herstellung von Erzeugnissen aus Käse dürfen außer den in den Begriffsbestimmungen für diese Erzeugnisse in § 1 Abs. 4 jeweils genannten Erzeugnissen und vorbehaltlich des § 23 nur verwendet werden
 
 1. die in § 3 Abs. 1 Nr. 2 genannten Stoffe;
 
-2\. u. 3.  
-(weggefallen)
+2\. u. 3. (weggefallen)
 
 4. bei Käsezubereitungen
 
@@ -129,8 +122,7 @@ b) in technologisch notwendigem Umfang Inulin.
 
 (4) Käsezubereitungen aus Frischkäse, die unter Verwendung von Früchten, Fruchterzeugnissen, Gemüse oder Gemüseerzeugnissen hergestellt werden, dürfen abweichend von Absatz 3 bis zu 30 v. H. des Gesamtgewichts des Fertigerzeugnisses an diesen Lebensmitteln enthalten.
 
-
-## § 5 – Fettgehaltsstufen
+# § 5 – Fettgehaltsstufen
 
 Käse und Erzeugnisse aus Käse dürfen nach ihrem Fettgehalt in der Trockenmasse nur in den folgenden Fettgehaltsstufen in den Verkehr gebracht werden:  
 
@@ -192,8 +184,7 @@ weniger als
 
 10%.
 
-
-## § 6 – Käsegruppen
+# § 6 – Käsegruppen
 
 (1) Käse wird nach dem Wassergehalt in der fettfreien Käsemasse in folgende Käsegruppen eingeteilt:  
 
@@ -216,8 +207,7 @@ weniger als
 
 (2) Standardsorten mit Ausnahme von Schichtkäse und der Standardsorten bei Sauermilchkäse werden abweichend von Absatz 1 nach dem Mindestgehalt an Trockenmasse in Käsegruppen nach Anlage 1 eingeteilt.
 
-
-## § 7 – Standardsorten
+# § 7 – Standardsorten
 
 (1) Käse darf unter der Bezeichnung einer Standardsorte der Anlage 1 nur in den Verkehr gebracht werden, wenn er den Vorschriften der Anlage 1 über die Herstellung und Beschaffenheit der Standardsorte und in seinen sonstigen Eigenschaften dem Sortentyp der Standardsorte entspricht.
 
@@ -229,8 +219,7 @@ weniger als
 
 (3) Andere Käse als Standardsorten dürfen nicht mit einer Angabe in den Verkehr gebracht werden, die auf eine Standardsorte hinweist. Frischkäse mit weniger als 40% Fett in der Trockenmasse darf nicht mit einem Hinweis auf Sahne oder Rahm in den Verkehr gebracht werden.
 
-
-## § 8 – Geographische Herkunftsbezeichnungen
+# § 8 – Geographische Herkunftsbezeichnungen
 
 Käse darf unter einer der in Anlage 1b Spalte 1 aufgeführten geographischen Herkunftsbezeichnungen nur in den Verkehr gebracht werden, wenn er
 
@@ -238,11 +227,9 @@ Käse darf unter einer der in Anlage 1b Spalte 1 aufgeführten geographischen He
 
 2. den jeweiligen in Anlage 1b Spalte 3 bis 6 aufgeführten Anforderungen an die Herstellung und Beschaffenheit entspricht.
 
+# §§ 9 und 10 – (weggefallen)
 
-## §§ 9 und 10 – (weggefallen)
-
-
-## § 11 – Güteklasse, Markenkäse, Güteprüfungen für inländischen Markenkäse
+# § 11 – Güteklasse, Markenkäse, Güteprüfungen für inländischen Markenkäse
 
 (1) Im Inland hergestellter Käse darf nach Maßgabe der Absätze 2 bis 10 unter der Gütebezeichnung "Markenkäse" in den Verkehr gebracht werden.
 
@@ -287,8 +274,7 @@ Fundstelle: BGBl. I 2004, 1704)
 
 (12) (weggefallen)
 
-
-## § 11a – Markenkäse aus anderen Mitgliedstaaten
+# § 11a – Markenkäse aus anderen Mitgliedstaaten
 
 (1) Käse, der in einem anderen Mitgliedstaat der Europäischen Union hergestellt ist, darf im Geltungsbereich dieser Verordnung unter der Bezeichnung "Markenkäse", auch in Verbindung mit einem Hinweis auf das Herstellungsland, nur in den Verkehr gebracht werden, wenn der Käse den Anforderungen des § 11 Abs. 10 entspricht.
 
@@ -296,18 +282,15 @@ Fundstelle: BGBl. I 2004, 1704)
 
 (3) § 11 Abs. 11 findet Anwendung.
 
-
-## § 12 – Trockenmasse
+# § 12 – Trockenmasse
 
 Schmelzkäse und Schmelzkäsezubereitungen dürfen unbeschadet der sonstigen Anforderungen nur in den Verkehr gebracht werden, wenn sie den in Anlage 2 für die einzelnen Fettgehaltsstufen festgelegten Gehalt an Trockenmasse aufweisen.
 
-
-## § 13 – Kochkäse
+# § 13 – Kochkäse
 
 Anstelle der Bezeichnung "Schmelzkäse" darf die Bezeichnung "Kochkäse" verwendet werden, wenn zur Herstellung nur Sauermilchquark oder Labquark, auch unter Zusatz von Schnittkäse (ohne Rinde oder Haut) bis zu acht Gewichtshundertteilen, bezogen auf das Fertigerzeugnis, und an anderen Milcherzeugnissen nur Sahne (Rahm), Butter oder Butterschmalz verwendet worden sind.
 
-
-## § 14 – Allgemeine Vorschriften
+# § 14 – Allgemeine Vorschriften
 
 (1) Käse und Erzeugnisse aus Käse dürfen nur in den Verkehr gebracht werden, wenn sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichungsverordnung sowie § 9 der Zusatzstoff-Zulassungsverordnung ist anzuwenden.
 
@@ -370,15 +353,13 @@ c) bei Käsezubereitungen aus Frischkäse ferner das Mindesthaltbarkeitsdatum na
 
 Dies gilt nicht für Käse und Erzeugnisse aus Käse, die unverpackt zum unmittelbaren Verzehr an Ort und Stelle abgegeben werden.
 
-
-## § 15 – Zusätzliche Kennzeichnung bei Käse
+# § 15 – Zusätzliche Kennzeichnung bei Käse
 
 (1) Bei Käse muß die Kennzeichnung ferner enthalten
 
 1. die Bezeichnung der Fettgehaltsstufe (§ 5) oder statt dessen des Fettgehalts in der Trockenmasse mit der Angabe "...% Fett i.Tr." oder, wenn der Käse aus nicht im Fettgehalt eingestellter Käsereimilch hergestellt wird, mit der Angabe "mindestens ...% Fett i.Tr.", ausgenommen bei Sauermilchkäse (Anlage 1 Abschnitt B); bei der Feststellung der Trockenmasse bleibt der Zusatz der Trennmittel (§ 3 Abs. 1 Nr. 3) außer Ansatz,
 
-1a.  
-bei Frischkäse, die nicht unter der Bezeichnung einer Standardsorte der Anlage 1 in den Verkehr gebracht werden und mehr als 82 Gewichtshundertteile Wasser aufweisen, den Hinweis "Wassergehalt mehr als 82%",
+1a. bei Frischkäse, die nicht unter der Bezeichnung einer Standardsorte der Anlage 1 in den Verkehr gebracht werden und mehr als 82 Gewichtshundertteile Wasser aufweisen, den Hinweis "Wassergehalt mehr als 82%",
 
 (2) Wird Käse in geriebenem Zustand in den Verkehr gebracht, muß statt der Angabe der Verkehrsbezeichnung nach § 14 Abs. 2 Nr. 1 Buchstabe a die Bezeichnung "geriebener Käse" mit dem Zusatz "hergestellt aus ..." oder, sofern nur eine Käsesorte verwandt wird, die Bezeichnung der Käsesorte mit dem Zusatz "gerieben" angegeben werden. Werden mehrere Käsesorten in geriebenem Zustand vermischt in den Verkehr gebracht, ist anstelle der Angabe nach Absatz 1 Nr. 1 der Fettgehalt in der Trockenmasse des Gesamterzeugnisses anzugeben.
 
@@ -390,8 +371,7 @@ bei Frischkäse, die nicht unter der Bezeichnung einer Standardsorte der Anlage 
 
 (6) Wird bei einem Käse oder Erzeugnis aus Käse der Laktosegehalt verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose nur erfolgen, soweit der Laktosegehalt nach Maßgabe der nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches in seiner jeweils geltenden Fassung für die Feststellung von Laktose veröffentlichten Prüfungsmethode unter 0,1 Gramm je 100 Gramm des Fertigerzeugnisses liegt und die Kennzeichnung die Angabe „Laktosegehalt: unter 0,1 g/100 g“ oder eine inhaltsgleiche Angabe enthält.
 
-
-## § 16 – Zusätzliche Kennzeichnung bei Erzeugnissen aus Käse
+# § 16 – Zusätzliche Kennzeichnung bei Erzeugnissen aus Käse
 
 (1) Bei Erzeugnissen aus Käse muß die Kennzeichnung ferner enthalten
 
@@ -407,18 +387,15 @@ bei Frischkäse, die nicht unter der Bezeichnung einer Standardsorte der Anlage 
 
 (3) (weggefallen)
 
-
-## § 17 – Besondere Hinweise auf Standardsorten bei Erzeugnissen aus Käse
+# § 17 – Besondere Hinweise auf Standardsorten bei Erzeugnissen aus Käse
 
 (1) Erzeugnisse aus Käse dürfen in der Kennzeichnung einen besonderen Hinweis auf eine Standardsorte oder auf einen anderen Käse enthalten.
 
 (2) Erzeugnisse aus Käse im Sinne des § 1 Abs. 4 Nr. 1 bis 3 dürfen ferner in der Kennzeichnung einen besonderen Hinweis auf eine Standardsorte nur enthalten, wenn sie den Fettgehalt in der Trockenmasse aufweisen, der für die angegebene Standardsorte festgelegt ist. Die Kennzeichnung bei Schmelzkäse darf einen Hinweis auf eine Standardsorte, für die ein Fettgehalt in der Trockenmasse von 45% oder mehr festgelegt ist, auch dann enthalten, wenn der Fettgehalt in der Trockenmasse des Schmelzkäses um bis zu 2,5% niedriger ist als bei der angegebenen Standardsorte.
 
+# §§ 18 und 19 – (weggefallen)
 
-## §§ 18 und 19 – (weggefallen)
-
-
-## § 20 – Herstellung von Labaustauschstoffen
+# § 20 – Herstellung von Labaustauschstoffen
 
 (1) Wer einen Labaustauschstoff herstellen will, bedarf hierzu der Genehmigung der zuständigen Behörde. Labaustauschstoffe im Sinne dieser Verordnung sind Zubereitungen von Enzymen mikrobiellen Ursprungs, die dazu bestimmt sind, anstelle von Lab zur Dicklegung von Milch bei der Käseherstellung verwendet zu werden.
 
@@ -468,8 +445,7 @@ entwicklungsfähigen Mikroorganismen und
 
 (6) Räume, Einrichtungen und Geräte, die der Herstellung von Labaustauschstoffen dienen und insbesondere mit zu ihrer Herstellung verwendeten Mikroorganismen unmittelbar oder mittelbar in Berührung kommen, müssen nach jeder Benutzung, mindestens jedoch einmal täglich, gründlich gereinigt und desinfiziert werden.
 
-
-## § 21 – Verbringen von Labaustauschstoffen in den Geltungsbereich der Verordnung
+# § 21 – Verbringen von Labaustauschstoffen in den Geltungsbereich der Verordnung
 
 (1) Wer Labaustauschstoffe in den Geltungsbereich dieser Verordnung verbringen will, hat dies der für den Ort der Zollabfertigung zuständigen Behörde zuvor anzumelden und nach dem Muster der Anlage 5 nachzuweisen, daß die Labaustauschstoffe den Anforderungen nach § 20 Abs. 5 genügen. Die zuständige Behörde hat zu prüfen, ob der Nachweis als ausreichend anzusehen ist; das Ergebnis der Prüfung ist dem Anzeigenden mitzuteilen.
 
@@ -487,8 +463,7 @@ Im Falle der Nummer 3 gelten die Anforderungen nach § 20 Abs. 5 Nr. 1 als erfü
 
 (3) Die Ausstellung der Bescheinigung nach Absatz 2 Satz 1 Nr. 4 darf im Zeitpunkt der zollamtlichen Abfertigung nicht länger als einen Monat zurückliegen. Die Bescheinigung ist von der zuständigen Behörde des Versandlandes auszustellen. Die Bescheinigung muß in deutscher Sprache abgefaßt sein und in dreifacher Ausfertigung vorgelegt werden; die Urschrift wie auch die erste und zweite Mehrausfertigung sind als solche zu kennzeichnen. Eine Mehrausfertigung der Bescheinigung ist von der Zollstelle auf Kosten des Verfügungsberechtigten der nach Absatz 1 zuständigen Behörde zuzuleiten.
 
-
-## § 22 – Abgabe und Kennzeichnung von Lab-Pepsin-Zubereitungen und Labaustauschstoffen
+# § 22 – Abgabe und Kennzeichnung von Lab-Pepsin-Zubereitungen und Labaustauschstoffen
 
 Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in Packungen oder Behältnissen in den Verkehr gebracht werden. Auf den Packungen oder Behältnissen ist an einer in die Augen fallenden Stelle deutlich sichtbar und in leicht lesbarer Schrift in deutscher Sprache anzugeben
 
@@ -506,16 +481,13 @@ Lab-Pepsin-Zubereitungen und Labaustauschstoffe dürfen nur in Packungen oder Be
 
 7. bei Lab-Pepsin-Zubereitungen der Anteil an Chymosin.
 
-
-## § 23 – Zulassung von Zusatzstoffen
+# § 23 – Zulassung von Zusatzstoffen
 
 Als Zusatz beim Herstellen und Behandeln von Käse und Erzeugnissen aus Käse wird zur äußerlichen Anwendung frisch entwickelter Rauch aus naturbelassenen Hölzern und Zweigen, Heidekraut und Nadelholzsamenständen, auch unter Verwendung von Gewürzen, zugelassen. Der durchschnittliche Gehalt so geräucherter Erzeugnisse oder der unter Verwendung geräucherter Lebensmittel hergestellten Erzeugnisse an Benzo(a)pyren darf ein Mikrogramm pro Kilogramm (1 myg/kg) nicht überschreiten. Beim gewerbsmäßigen Herstellen und Behandeln von Käse, der dazu bestimmt ist, in den Verkehr gebracht zu werden, und von Erzeugnissen aus Käse mit dem gleichen Bestimmungszweck dürfen Zusatzstoffe nach Satz 1 über die in Satz 2 festgesetzte Höchstmenge hinaus nicht verwendet werden. Die Zusatzstoff-Zulassungsverordnung bleibt unberührt.
 
+# §§ 24 bis 26 – (weggefallen)
 
-## §§ 24 bis 26 – (weggefallen)
-
-
-## § 27 – Befugnisse der Länder
+# § 27 – Befugnisse der Länder
 
 Die Länder bleiben befugt, Vorschriften zu erlassen
 
@@ -525,8 +497,7 @@ Die Länder bleiben befugt, Vorschriften zu erlassen
 
 3. über Qualitätsprüfungen von Käse, soweit für diese nicht Prüfungen nach § 11 vorgesehen sind.
 
-
-## § 28 – Ausländische Käse und ausländische Erzeugnisse aus Käse
+# § 28 – Ausländische Käse und ausländische Erzeugnisse aus Käse
 
 (1) Außerhalb des Geltungsbereichs dieser Verordnung hergestellte Käse und Erzeugnisse aus Käse (ausländische Käse und Erzeugnisse aus Käse), die nicht den Vorschriften dieser Verordnung entsprechen, dürfen vorbehaltlich des Absatzes 3 in den Verkehr gebracht werden, wenn sie nach den Rechtsvorschriften des Herstellungslandes hergestellt und dort verkehrsfähig sind.
 
@@ -536,8 +507,7 @@ Die Länder bleiben befugt, Vorschriften zu erlassen
 
 (4) (weggefallen)
 
-
-## § 29 – Besondere Zubereitungen
+# § 29 – Besondere Zubereitungen
 
 Die Vorschriften dieser Verordnung finden keine Anwendung auf
 
@@ -545,8 +515,7 @@ Die Vorschriften dieser Verordnung finden keine Anwendung auf
 
 2. Zubereitungen aus Frischkäse, die in Griechenland unter Verwendung von Öl und sonstigen typischen Zusätzen, insbesondere Gurken, hergestellt werden oder solchen griechischen Erzeugnissen nach Herstellungsweise und Zusammensetzung entsprechen.
 
-
-## § 30 – Straftaten und Ordnungswidrigkeiten
+# § 30 – Straftaten und Ordnungswidrigkeiten
 
 (1) (weggefallen)
 
@@ -582,8 +551,7 @@ gewerbsmäßig in den Verkehr bringt.
 
 2. entgegen § 21 Abs. 2 Labaustauschstoffe in den Geltungsbereich dieser Verordnung verbringt.
 
-
-## § 31 – Ordnungswidrigkeiten
+# § 31 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 2 des Milch- und Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -615,8 +583,7 @@ nicht zugelassene Stoffe verwendet, sofern die Herstellung gewerbsmäßig erfolg
 
 8. entgegen § 7 Abs. 3 Satz 2 Frischkäse mit weniger als 40% Fett in der Trockenmasse mit einem Hinweis auf Sahne oder Rahm,
 
-8a.  
-entgegen § 8 Käse unter einer in Anlage 1b Spalte 1 aufgeführten geographischen Herkunftsbezeichnung,
+8a. entgegen § 8 Käse unter einer in Anlage 1b Spalte 1 aufgeführten geographischen Herkunftsbezeichnung,
 
 9. a) entgegen § 11 Abs. 2 Satz 1 oder Abs. 3 Käse ohne die erforderliche Genehmigung oder
 
@@ -634,8 +601,7 @@ gewerbsmäßig in den Verkehr bringt.
 
 (3) Ordnungswidrig im Sinne des § 30 Abs. 1 Nr. 9 des Milch- und Fettgesetzes handelt, wer vorsätzlich oder fahrlässig Käse mit dem Gütezeichen nach § 11 Abs. 11 in den Verkehr bringt, ohne hierzu berechtigt zu sein.
 
-
-## § 31a – Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
+# § 31a – Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
 
 (1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen entgegenstehen aus
 
@@ -647,25 +613,21 @@ gewerbsmäßig in den Verkehr bringt.
 
 (3) Soweit in dieser Verordnung auf die Lebensmittel-Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
-
-## § 32
+# § 32
 
 (Inkrafttreten)
 
-
-## Anlage 1 – (zu § 7)Standardsorten
+# Anlage 1 – (zu § 7)Standardsorten
 
 (Inhalt: nicht darstellbare Tabellen,  
 Fundstelle des Originaltextes BGBl. I 1986, 423 - 427;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 1a – (weggefallen)
+# Anlage 1a – (weggefallen)
 
 \-
 
-
-## Anlage 1b – (zu § 8)Geographische Herkunftsbezeichnung
+# Anlage 1b – (zu § 8)Geographische Herkunftsbezeichnung
 
 (Fundstelle: BGBl. I 1993, 2443 - 2444)
 
@@ -774,8 +736,7 @@ Odenwälder Frühstückskäse
 
 Landkreise Odenwaldkreis und Bergstraße
 
-Die Herstellung erfolgt ausschließlich aus Käsereimilch, die im Herstellungsgebiet gewonnen und pasteurisiert wird.  
-  
+Die Herstellung erfolgt ausschließlich aus Käsereimilch, die im Herstellungsgebiet gewonnen und pasteurisiert wird.   
 Reifung nur mit Gelb- oder Rotschmierbakterien (B.Linens)
 
 14 Tage
@@ -866,8 +827,7 @@ Lochung:
   
 zahlreich, in Schlitz- oder Gerstenkornform, die gleichmäßig über die gesamte Schnittfläche verteilt ist.
 
-
-## Anlage 2 – (zu § 12)  Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
+# Anlage 2 – (zu § 12)  Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1705)
 
@@ -895,13 +855,11 @@ zahlreich, in Schlitz- oder Gerstenkornform, die gleichmäßig über die gesamte
 
 Die Mindestgehalte an Trockenmasse gelten nicht für Schmelzkäse und Schmelzkäsezubereitungen aus Frischkäse.
 
-
-## Anlage 3 – (weggefallen)
+# Anlage 3 – (weggefallen)
 
 \-
 
-
-## Anlage 4 – (zu § 11 Abs. 9)  Bestimmungen über die Durchführung von Käseprüfungen
+# Anlage 4 – (zu § 11 Abs. 9)  Bestimmungen über die Durchführung von Käseprüfungen
 
 Fundstelle des Originaltextes: BGBl. I 1986, 431
 
@@ -912,9 +870,7 @@ Fundstelle des Originaltextes: BGBl. I 1986, 431
   
 Artikel 1
 
-(1) Die Überwachungsstelle bestimmt die Anzahl der Proben für die einzelnen Prüfungen, ihre Verpackung und den Tag der Prüfung.  
-(2) Die Überwachungsstelle bestimmt den Leiter der Käseprüfung und die Sachverständigen, die in Sachverständigengruppen nach Artikel 2 Abs. 1 die Beurteilung der Proben vornehmen.  
-(3) Markenkäse sind nach näherer Bestimmung der Überwachungsstelle monatlich zu prüfen.
+(1) Die Überwachungsstelle bestimmt die Anzahl der Proben für die einzelnen Prüfungen, ihre Verpackung und den Tag der Prüfung. (2) Die Überwachungsstelle bestimmt den Leiter der Käseprüfung und die Sachverständigen, die in Sachverständigengruppen nach Artikel 2 Abs. 1 die Beurteilung der Proben vornehmen. (3) Markenkäse sind nach näherer Bestimmung der Überwachungsstelle monatlich zu prüfen.
 
   
   
@@ -923,11 +879,7 @@ Artikel 1
   
 Artikel 2
 
-(1) Die Proben müssen bei Prüfungen ohne Kenntnis ihrer Herkunft durch Sachverständigengruppen beurteilt werden. Jede Gruppe muß aus vier Sachverständigen bestehen, von denen je zwei die Untergruppen A und B bilden. Die Untergruppe B beginnt die Beurteilung der Proben bei der letzten von der Untergruppe A zu prüfenden Probe, sofern der Leiter der Prüfung (Artikel 1 Abs. 2) nicht eine andere Reihenfolge bestimmt. Der Leiter der Prüfung soll besondere Sachverständige an der Prüfung beteiligen, die insbesondere bei Beurteilungen nach Absatz 3 und bei Nachbeurteilungen nach Absatz 4 mitzuwirken haben.  
-(2) Wird Käse für eine der in Artikel 3 Abs. 1 genannten Eigenschaften mit weniger als 4 Punkten bewertet, so müssen die Abweichungen angegeben werden.  
-(3) Neigen die beiden Sachverständigen einer Untergruppe bei der Bewertung einer Käseprobe übereinstimmend der Auffassung zu, daß die Probe auch niedriger bewertet werden kann, so kann dies durch ein Minuszeichen (-) bei der jeweiligen Eigenschaft im Sinne des Artikels 3 Abs. 1 zum Ausdruck gebracht werden. Weichen bei einer Probe die Bewertungen der Sachverständigen einer Untergruppe um einen oder mehrere Punkte voneinander ab, so nimmt der besondere Sachverständige (Absatz 1 Satz 4) oder der Leiter der Prüfung unter Hinzuziehung der Sachverständigen der Untergruppe die Bewertung vor.  
-(4) Wird eine Käseprobe von den Untergruppen A und B für eine oder mehrere der in Artikel 3 genannten Eigenschaften unterschiedlich beurteilt, so muß sie durch die vier Sachverständigen nachbewertet werden. Bei Stimmengleichheit entscheidet der besondere Sachverständige oder der Leiter der Prüfung darüber, welche der beiden Bewertungen gilt.  
-(5) Eine Nachbeurteilung nach Absatz 4 entfällt, wenn zwischen den Beurteilungsergebnissen der beiden Untergruppen eine Abweichung von nur einem Punkt besteht und wenn von den beiden Untergruppen nur eine Untergruppe ihr Beurteilungsergebnis mit einem Minuszeichen versehen hat und durch dieses Minuszeichen das hiermit versehene Ergebnis dem Ergebnis der anderen Untergruppe angenähert wird. Als Bewertung gilt die geringere Zahl an Punkten. Minuszeichen bleiben unberücksichtigt, wenn sie zur Abwertung der Güteklasse Markenkäse führen. Eine Nachbeurteilung der Probe entfällt, wenn sie in den einzelnen Eigenschaften von den beiden Untergruppen mit 4 und 5 Punkten bewertet worden ist. Es wird nur das Ergebnis mit der niedrigeren Punktzahl mitgeteilt.
+(1) Die Proben müssen bei Prüfungen ohne Kenntnis ihrer Herkunft durch Sachverständigengruppen beurteilt werden. Jede Gruppe muß aus vier Sachverständigen bestehen, von denen je zwei die Untergruppen A und B bilden. Die Untergruppe B beginnt die Beurteilung der Proben bei der letzten von der Untergruppe A zu prüfenden Probe, sofern der Leiter der Prüfung (Artikel 1 Abs. 2) nicht eine andere Reihenfolge bestimmt. Der Leiter der Prüfung soll besondere Sachverständige an der Prüfung beteiligen, die insbesondere bei Beurteilungen nach Absatz 3 und bei Nachbeurteilungen nach Absatz 4 mitzuwirken haben. (2) Wird Käse für eine der in Artikel 3 Abs. 1 genannten Eigenschaften mit weniger als 4 Punkten bewertet, so müssen die Abweichungen angegeben werden. (3) Neigen die beiden Sachverständigen einer Untergruppe bei der Bewertung einer Käseprobe übereinstimmend der Auffassung zu, daß die Probe auch niedriger bewertet werden kann, so kann dies durch ein Minuszeichen (-) bei der jeweiligen Eigenschaft im Sinne des Artikels 3 Abs. 1 zum Ausdruck gebracht werden. Weichen bei einer Probe die Bewertungen der Sachverständigen einer Untergruppe um einen oder mehrere Punkte voneinander ab, so nimmt der besondere Sachverständige (Absatz 1 Satz 4) oder der Leiter der Prüfung unter Hinzuziehung der Sachverständigen der Untergruppe die Bewertung vor. (4) Wird eine Käseprobe von den Untergruppen A und B für eine oder mehrere der in Artikel 3 genannten Eigenschaften unterschiedlich beurteilt, so muß sie durch die vier Sachverständigen nachbewertet werden. Bei Stimmengleichheit entscheidet der besondere Sachverständige oder der Leiter der Prüfung darüber, welche der beiden Bewertungen gilt. (5) Eine Nachbeurteilung nach Absatz 4 entfällt, wenn zwischen den Beurteilungsergebnissen der beiden Untergruppen eine Abweichung von nur einem Punkt besteht und wenn von den beiden Untergruppen nur eine Untergruppe ihr Beurteilungsergebnis mit einem Minuszeichen versehen hat und durch dieses Minuszeichen das hiermit versehene Ergebnis dem Ergebnis der anderen Untergruppe angenähert wird. Als Bewertung gilt die geringere Zahl an Punkten. Minuszeichen bleiben unberücksichtigt, wenn sie zur Abwertung der Güteklasse Markenkäse führen. Eine Nachbeurteilung der Probe entfällt, wenn sie in den einzelnen Eigenschaften von den beiden Untergruppen mit 4 und 5 Punkten bewertet worden ist. Es wird nur das Ergebnis mit der niedrigeren Punktzahl mitgeteilt.
 
   
   
@@ -959,9 +911,7 @@ Frischkäse und dessen Standardsorten sowie Frischkäsezubereitungen sind nach f
 
   
   
-(2) Käse, die ohne Rinde in den Verkehr gebracht werden dürfen, sind bei Fehlen der Rinde in der Eigenschaft "Aussehen-Äußeres" mit der Höchstzahl an Punkten zu bewerten, sofern das Äußere keinen Befall mit Schimmel oder andere Abweichungen aufweist.  
-(3) Standardsorten sind für die in Absatz 1 aufgeführten Eigenschaften mit der Höchstzahl an Punkten zu bewerten, wenn sie den in Anlage 1 Spalte 8 genannten Eigenschaften entsprechen.  
-(4) Für Abweichungen sind je nach Schwere ein oder mehrere Punkte abzuziehen.
+(2) Käse, die ohne Rinde in den Verkehr gebracht werden dürfen, sind bei Fehlen der Rinde in der Eigenschaft "Aussehen-Äußeres" mit der Höchstzahl an Punkten zu bewerten, sofern das Äußere keinen Befall mit Schimmel oder andere Abweichungen aufweist. (3) Standardsorten sind für die in Absatz 1 aufgeführten Eigenschaften mit der Höchstzahl an Punkten zu bewerten, wenn sie den in Anlage 1 Spalte 8 genannten Eigenschaften entsprechen. (4) Für Abweichungen sind je nach Schwere ein oder mehrere Punkte abzuziehen.
 
   
   
@@ -972,8 +922,7 @@ Artikel 4
 
 Die Artikel 1 und 2 gelten nicht für die Standardsorte Emmentaler. Jeder zu prüfende Käselaib dieser Standardsorte muß am Tage der Güteprüfung mindestens 75 Tage alt sein.
 
-
-## Anlage 5 – (zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1)Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21 *)
+# Anlage 5 – (zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1)Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21 *)
 
 Fundstelle des Originaltextes: BGBl. I 1986, 432-433
 
@@ -1022,8 +971,7 @@ Fundstelle des Originaltextes: BGBl. I 1986, 432-433
            (Ort)                 (Datum)             (Unterschrift des
                                                      Nachweisführenden) 
 
-
-## Anlage 6 – (zu § 21 Abs. 2 S 1 Nr. 4)Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
+# Anlage 6 – (zu § 21 Abs. 2 S 1 Nr. 4)Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
 
 Fundstelle des Originaltextes: BGBl. I 1986, 433 - 434
 

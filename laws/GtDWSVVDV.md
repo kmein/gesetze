@@ -1,18 +1,13 @@
-# [GtDWSVVDV] Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes  (GtDWSVVDV)
-
-Ausfertigungsdatum: 14.12.2012
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes  (GtDWSVVDV)
+% Ausfertigungsdatum: 14.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 Der Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes ist,
 
@@ -20,8 +15,7 @@ Der Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der 
 
 2. ansonsten ein für die Laufbahnaufgaben geeignetes Bachelorstudium an einer kooperierenden Hochschule mit zwei berufspraktischen Studienzeiten (Studium).
 
-
-## § 2 – Ziele und Schwerpunkte des Vorbereitungsdienstes
+# § 2 – Ziele und Schwerpunkte des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst vermittelt Kenntnisse und Fähigkeiten, die für eine vielseitige Verwendung im gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes erforderlich sind. Die Anwärterinnen und Anwärter werden praxisorientiert mit den Aufgaben der Wasserstraßen- und Schifffahrtsverwaltung des Bundes vertraut gemacht und lernen, technische, wirtschaftliche und verwaltungsspezifische Zusammenhänge zu erkennen und das ihnen vermittelte Wissen entsprechend den technischen und wirtschaftlichen Erfordernissen anzuwenden. Darüber hinaus erlernen sie die erforderlichen rechtlichen Grundlagen sowie die Grundlagen der Volks- und Betriebswirtschaft, des Managements und der Mitarbeiterführung.
 
@@ -35,8 +29,7 @@ Der Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der 
 
 (3) Die Anwärterinnen und Anwärter sind zum Selbststudium verpflichtet.
 
-
-## § 3 – Einstellungsbehörde, Auswahlverfahren
+# § 3 – Einstellungsbehörde, Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die oberste Dienstbehörde oder eine von ihr beauftragte Behörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
@@ -58,8 +51,7 @@ Soweit möglich, werden Frauen und Männer bei der Besetzung der Auswahlkommissi
 
 (6) Die Auswahlkommission bewertet die Ergebnisse des Auswahlverfahrens und legt für jedes Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und Bewerber fest. Sind mehrere Auswahlkommissionen für eine Fachrichtung eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber dieser Fachrichtung festgelegt.
 
-
-## § 4 – Erholungsurlaub
+# § 4 – Erholungsurlaub
 
 Erholungsurlaub wird gewährt
 
@@ -67,8 +59,7 @@ Erholungsurlaub wird gewährt
 
 2. im Studium in der Regel nur während der berufspraktischen Studienzeiten.
 
-
-## § 5 – Nachteilsausgleich
+# § 5 – Nachteilsausgleich
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen werden im Auswahlverfahren, bei den Praxisarbeiten sowie in der schriftlichen und mündlichen Abschlussprüfung angemessene Erleichterungen gewährt. Hierauf sind sie durch die Einstellungsbehörde hinzuweisen. Art und Umfang der Erleichterungen sind mit ihnen und der Schwerbehindertenvertretung rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
@@ -76,8 +67,7 @@ Erholungsurlaub wird gewährt
 
 (3) Bei Prüfungen durch eine kooperierende Hochschule sind die Absätze 1 und 2 insoweit entsprechend anzuwenden, als sie den Bestimmungen der Hochschule nicht widersprechen.
 
-
-## § 6 – Bewertung der Leistungen
+# § 6 – Bewertung der Leistungen
 
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt bewertet:  
   
@@ -183,15 +173,13 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Durchschnittsrangpunktzahlen werden auf zwei Nachkommastellen ohne Auf- oder Abrundung berechnet.
 
-
-## § 7 – Allgemeines
+# § 7 – Allgemeines
 
 (1) Die berufspraktische Ausbildung umfasst Praktika und Lehrveranstaltungen. Während der berufspraktischen Ausbildung erwerben die Anwärterinnen und Anwärter die für die Erfüllung der Aufgaben im gehobenen technischen Verwaltungsdienst in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes erforderlichen Fachkenntnisse und Fähigkeiten, die über die nach § 1 Nummer 1 nachgewiesenen Kenntnisse hinausgehen. Sie lernen, ihre theoretischen Kenntnisse in der Praxis anzuwenden.
 
 (2) Für die Gestaltung, Durchführung und Überwachung der berufspraktischen Ausbildung ist die Einstellungsbehörde verantwortlich. Die berufspraktische Ausbildung findet in Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung einschließlich ihrer Schulungseinrichtungen statt. Einzelne Praktika können auch bei anderen Behörden oder Unternehmen im In- oder Ausland oder bei über- oder zwischenstaatlichen Einrichtungen absolviert werden. Die berufspraktische Ausbildung kann durch Exkursionen ergänzt werden.
 
-
-## § 8 – Ausbildungsleitung, Ausbildende
+# § 8 – Ausbildungsleitung, Ausbildende
 
 (1) Mit Ausbildungsaufgaben darf nur betraut werden, wer über die erforderlichen Kenntnisse und Fähigkeiten verfügt und nach seiner Persönlichkeit geeignet ist.
 
@@ -199,15 +187,13 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Den Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die Ausbildenden haben die Ausbildungsleiterin oder den Ausbildungsleiter regelmäßig über den erreichten Ausbildungsstand zu informieren.
 
-
-## § 9 – Ausbildungsrahmenplan, Ausbildungsplan
+# § 9 – Ausbildungsrahmenplan, Ausbildungsplan
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Stelle erstellt einen Ausbildungsrahmenplan, der die Lerninhalte, die Lernziele sowie die Dauer der Lehrveranstaltungen und der Ausbildungsabschnitte bestimmt.
 
 (2) Auf der Grundlage des Ausbildungsrahmenplans erstellt die Ausbildungsleiterin oder der Ausbildungsleiter für jede Anwärterin und jeden Anwärter einen individuellen Ausbildungsplan für die gesamte Ausbildung, in dem die Ausbildungsstellen sowie die Dauer und die Abfolge der einzelnen Ausbildungsabschnitte enthalten sind, und gibt ihn der Anwärterin oder dem Anwärter bekannt.
 
-
-## § 10 – Beurteilung
+# § 10 – Beurteilung
 
 (1) Von den Ausbildungsstellen, denen die Anwärterinnen und Anwärter für mindestens einen Monat zugewiesen werden, erhalten diese unverzüglich nach Abschluss einer Ausbildungseinheit eine Beurteilung.
 
@@ -215,8 +201,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die Beurteilung ist mit der Anwärterin oder dem Anwärter zu besprechen.
 
-
-## § 11 – Praxisarbeiten während der berufspraktischen Ausbildung
+# § 11 – Praxisarbeiten während der berufspraktischen Ausbildung
 
 (1) Während der berufspraktischen Ausbildung sind mindestens zwei schriftliche Praxisarbeiten anzufertigen. Jede Praxisarbeit ist mindestens eine Woche vorher anzukündigen.
 
@@ -224,15 +209,13 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Gru
 
 (3) Die §§ 23 und 24 sind entsprechend anzuwenden mit der Maßgabe, dass über die Folgen ausschließlich das Prüfungsamt entscheidet.
 
-
-## § 12 – Zeugnis, Ausbildungsrangpunktzahl
+# § 12 – Zeugnis, Ausbildungsrangpunktzahl
 
 (1) Über den Erfolg der berufspraktischen Ausbildung erstellt die Ausbildungsleiterin oder der Ausbildungsleiter ein zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der Praxisarbeiten und der dienstlichen Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl (Ausbildungsrangpunktzahl) aufzuführen sind. Die Anwärterin oder der Anwärter erhält spätestens einen Monat vor Beginn der Abschlussprüfung von der Einstellungsbehörde eine Ausfertigung des Zeugnisses.
 
 (2) Wer eine Ausbildungsrangpunktzahl von weniger als 5 erreicht hat, kann Teile der berufspraktischen Ausbildung einschließlich der Praxisarbeiten einmal wiederholen. Welche Teile zu wiederholen sind, entscheidet das Prüfungsamt. Der Vorbereitungsdienst wird entsprechend verlängert. Ist auch die Wiederholung erfolglos, ist der Vorbereitungsdienst beendet.
 
-
-## § 13 – Dauer und Aufbau des Studiums
+# § 13 – Dauer und Aufbau des Studiums
 
 Das Studium umfasst ein Bachelorstudium sowie zwei berufspraktische Studienzeiten, die in der Regel in Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung einschließlich ihrer Schulungseinrichtungen absolviert werden. Das Studium gliedert sich wie folgt:  
   
@@ -278,8 +261,7 @@ in den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 insgesamt 6 Monate  
 während der vorlesungsfreien Zeiten des Bachelorstudiums und nach Abschluss des Bachelorstudiums
 
-
-## § 14 – Studium
+# § 14 – Studium
 
 (1) Die im Studium zu vermittelnden Kenntnisse und Fähigkeiten orientieren sich an den Anforderungen der Fachrichtungen des gehobenen technischen Verwaltungsdienstes in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes. Die Einstellungsbehörde wählt einen geeigneten Bachelorstudiengang aus und legt diesen als Teil des Vorbereitungsdienstes fest.
 
@@ -287,8 +269,7 @@ während der vorlesungsfreien Zeiten des Bachelorstudiums und nach Abschluss des
 
 (3) Die Einstellungsbehörde weist die Anwärterinnen und Anwärter für das Bachelorstudium der Hochschule zu.
 
-
-## § 15 – Berufspraktische Studienzeiten
+# § 15 – Berufspraktische Studienzeiten
 
 (1) Die berufspraktische Studienzeit I wird zu Beginn des Vorbereitungsdienstes als Kombination von Praktikum und Lehrveranstaltung durchgeführt. Sie dient dazu, den Anwärterinnen und Anwärtern einen Überblick über die Aufgaben der Wasserstraßen- und Schifffahrtsverwaltung des Bundes zu geben.
 
@@ -296,22 +277,19 @@ während der vorlesungsfreien Zeiten des Bachelorstudiums und nach Abschluss des
 
 (3) Die §§ 7 und 8 gelten entsprechend.
 
-
-## § 16 – Praxisarbeit
+# § 16 – Praxisarbeit
 
 (1) Während der berufspraktischen Studienzeit II ist eine schriftliche Praxisarbeit anzufertigen. Die Praxisarbeit ist mindestens eine Woche vorher anzukündigen.
 
 (2) § 11 Absatz 2 und 3 gilt entsprechend.
 
-
-## § 17 – Zeugnis, Praxisrangpunktzahl
+# § 17 – Zeugnis, Praxisrangpunktzahl
 
 (1) Über den Erfolg der berufspraktischen Studienzeiten erstellt die Ausbildungsleiterin oder der Ausbildungsleiter ein zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der Praxisarbeit und der dienstlichen Bewertungen sowie die sich daraus ergebende Durchschnittsrangpunktzahl (Praxisrangpunktzahl) aufzuführen sind. Die Anwärterin oder der Anwärter erhält spätestens einen Monat vor Beginn der Abschlussprüfung eine Ausfertigung des Zeugnisses.
 
 (2) § 12 Absatz 2 gilt entsprechend.
 
-
-## § 18 – Laufbahnprüfung
+# § 18 – Laufbahnprüfung
 
 (1) In der Laufbahnprüfung haben die Anwärterinnen und Anwärter nachzuweisen, dass sie die erforderlichen Fachkenntnisse erworben haben und fähig sind, die Aufgaben in der Laufbahn des gehobenen technischen Verwaltungsdienstes in der Wasserstraßen- und Schifffahrtsverwaltung des Bundes selbstständig zu erfüllen.
 
@@ -321,13 +299,11 @@ während der vorlesungsfreien Zeiten des Bachelorstudiums und nach Abschluss des
 
 (4) Die Einstellungsbehörde teilt dem Prüfungsamt spätestens zwei Monate vor Beendigung des Vorbereitungsdienstes mit, welche Anwärterinnen und Anwärter in welcher Fachrichtung voraussichtlich zur Prüfung zugelassen werden. Sie berichtet dem Prüfungsamt mindestens einen Monat vor Beendigung des Vorbereitungsdienstes über den Ausbildungsstand der Anwärterinnen und Anwärter, beantragt deren Zulassung zur Laufbahnprüfung und leitet dem Prüfungsamt die Personalakten und die Ausbildungsakten zu.
 
-
-## § 19 – Prüfungsamt
+# § 19 – Prüfungsamt
 
 Für die Organisation und Durchführung der schriftlichen und mündlichen Abschlussprüfungen richtet die oberste Dienstbehörde ein Prüfungsamt ein. Sie kann diese Aufgaben auch ganz oder teilweise auf andere Behörden übertragen.
 
-
-## § 20 – Prüfungskommission
+# § 20 – Prüfungskommission
 
 (1) Das Prüfungsamt richtet für jede Fachrichtung nach § 2 Absatz 2 eine Prüfungskommission ein und bestellt deren Mitglieder und Ersatzmitglieder. Bei Bedarf können mehrere Prüfungskommissionen eingerichtet werden. In diesem Fall stellt das Prüfungsamt sicher, dass alle Prüfungskommissionen die gleichen Bewertungsmaßstäbe anlegen.
 
@@ -351,8 +327,7 @@ Mindestens zwei Mitglieder einer Prüfungskommission müssen der jeweiligen Fach
 
 (6) Die Mitglieder der Prüfungskommission sind bei ihrer Prüfungstätigkeit unabhängig und nicht weisungsgebunden.
 
-
-## § 21 – Schriftliche Abschlussprüfung
+# § 21 – Schriftliche Abschlussprüfung
 
 (1) Zur schriftlichen Abschlussprüfung wird zugelassen, wer eine Ausbildungsrangpunktzahl (§ 12) von mindestens 5 erreicht hat.
 
@@ -396,8 +371,7 @@ Die Prüfungsvorschläge und -aufgaben sind bis zum Beginn der jeweiligen Prüfu
 
 (8) Die schriftliche Abschlussprüfung ist bestanden, wenn mindestens zwei Klausuren mit mindestens fünf Rangpunkten bewertet worden sind. Das Prüfungsamt teilt den Anwärterinnen und Anwärtern auf Antrag mit, wie viele Rangpunkte sie in ihren Klausuren erreicht haben.
 
-
-## § 22 – Mündliche Abschlussprüfung
+# § 22 – Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird vom Prüfungsamt zugelassen, wer
 
@@ -421,8 +395,7 @@ Eine Nichtzulassung muss der Anwärterin oder dem Anwärter schriftlich mitgetei
 
 (8) Die mündliche Abschlussprüfung soll innerhalb der regulären Dauer des Vorbereitungsdienstes abgeschlossen werden.
 
-
-## § 23 – Fernbleiben, Rücktritt
+# § 23 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von der schriftlichen oder mündlichen Abschlussprüfung oder einem Prüfungsteil ohne Genehmigung des Prüfungsamtes gilt diese Prüfung oder der Prüfungsteil als nicht bestanden.
 
@@ -430,8 +403,7 @@ Eine Nichtzulassung muss der Anwärterin oder dem Anwärter schriftlich mitgetei
 
 (3) Das Prüfungsamt bestimmt, wann die Prüfung oder der Prüfungsteil nachgeholt wird; es entscheidet, ob und inwieweit die bereits abgegebenen Arbeiten gewertet werden.
 
-
-## § 24 – Täuschung, Ordnungsverstoß
+# § 24 – Täuschung, Ordnungsverstoß
 
 (1) Anwärterinnen und Anwärtern, die bei der schriftlichen oder mündlichen Abschlussprüfung oder bei einem Prüfungsteil täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung oder des Prüfungsteils unter dem Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Abschlussprüfung ausgeschlossen werden.
 
@@ -443,8 +415,7 @@ Eine Nichtzulassung muss der Anwärterin oder dem Anwärter schriftlich mitgetei
 
 (5) Die Betroffenen sind vor den Entscheidungen nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 25 – Wiederholung von Prüfungen
+# § 25 – Wiederholung von Prüfungen
 
 (1) Wer die Bachelorprüfung oder Teile der Bachelorprüfung nicht bestanden hat, kann sie nach näherer Maßgabe der Vorschriften der kooperierenden Hochschule wiederholen. Der Vorbereitungsdienst wird entsprechend verlängert. Wenn die Bachelorprüfung nach näherer Maßgabe der Vorschriften der kooperierenden Hochschule endgültig nicht bestanden worden ist, ist der Vorbereitungsdienst beendet.
 
@@ -458,8 +429,7 @@ Eine Nichtzulassung muss der Anwärterin oder dem Anwärter schriftlich mitgetei
 
 (6) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 26 – Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung
+# § 26 – Bestehen der Laufbahnprüfung, Rangpunktzahl der Laufbahnprüfung
 
 (1) Die Laufbahnprüfung ist bestanden, wenn die Rangpunktzahl der Laufbahnprüfung mindestens 5 beträgt. Die Rangpunktzahl der Laufbahnprüfung wird im Anschluss an die mündliche Prüfung von der Prüfungskommission errechnet. Dabei sind die erreichten Rangpunktzahlen wie folgt zu gewichten:
 
@@ -518,8 +488,7 @@ Für die Berücksichtigung der Abschlussnote nach Satz 3 Nummer 2 Buchstabe b wi
 
 (2) Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung zur Ermittlung der Abschlussnote bei einem Nachkommawert ab 50 aufgerundet und bei einem kleineren Nachkommawert abgerundet.
 
-
-## § 27 – Abschlusszeugnis
+# § 27 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis.
 
@@ -531,8 +500,7 @@ Für die Berücksichtigung der Abschlussnote nach Satz 3 Nummer 2 Buchstabe b wi
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung und eine Bescheinigung über die erbrachten Leistungen. Aus der Bescheinigung geht hervor, wie lange die Ausbildung dauerte, welche Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
 
-
-## § 28 – Prüfungsakten, Einsichtnahme
+# § 28 – Prüfungsakten, Einsichtnahme
 
 (1) Zu den Prüfungsakten zu nehmen sind:
 
@@ -548,12 +516,10 @@ Die Prüfungsakten sind beim Prüfungsamt mindestens fünf und höchstens zehn J
 
 (2) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakten nehmen. Die Einsichtnahme ist in der jeweiligen Akte zu vermerken.
 
-
-## § 29 – Übergangsvorschrift
+# § 29 – Übergangsvorschrift
 
 Für Anwärterinnen und Anwärter, die den Vorbereitungsdienst vor dem Inkrafttreten dieser Verordnung begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes vom 25. Mai 2003 (BGBl. I S. 750), die zuletzt durch Artikel 3 Absatz 35 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
 
-
-## § 30 – Inkrafttreten, Außerkrafttreten
+# § 30 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Verwaltungsdienst in der Wasser- und Schifffahrtsverwaltung des Bundes vom 25. Mai 2003 (BGBl. I S. 750), die zuletzt durch Artikel 3 Absatz 35 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.

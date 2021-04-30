@@ -1,10 +1,7 @@
-# [VersorgAusglAnglFaktorBek 2007] Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
-
-Ausfertigungsdatum: 14.06.2007
-
+% Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
+% Ausfertigungsdatum: 14.06.2007
  
-
-## ----
+# ----
 
 Auf Grund des § 3 Abs. 2 Nr. 1 Buchstabe a Satz 4 des Versorgungsausgleichs-Überleitungsgesetzes vom 25. Juli 1991 (BGBl. I S. 1606, 1702), der zuletzt durch Artikel 246 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, wird bekannt gemacht:
 
@@ -34,7 +31,6 @@ Die Angleichungsfaktoren zur Ermittlung des Wertes von angleichungsdynamischen A
 |           1,0013053            |   vom 1. Juli 2002 bis 30. Juni 2003   |
 |           1,0000000            |   vom 1. Juli 2003 bis 30. Juni 2007   |
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

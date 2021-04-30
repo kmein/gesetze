@@ -1,15 +1,11 @@
-# [BaubetrV 1980] Verordnung über die Betriebe des Baugewerbes, in denen die ganzjährige Beschäftigung zu fördern ist  (Baubetriebe-Verordnung)
-
-Ausfertigungsdatum: 28.10.1980
-
+% Verordnung über die Betriebe des Baugewerbes, in denen die ganzjährige Beschäftigung zu fördern ist  (Baubetriebe-Verordnung)
+% Ausfertigungsdatum: 28.10.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 76 Abs. 2 des Arbeitsförderungsgesetzes vom 25. Juni 1969 (BGBl. I S. 582), der durch Artikel 1 Nr. 23 des Gesetzes vom 23. Juli 1979 (BGBl. I S. 1189) geändert worden ist, wird - nach Anhörung der Bundesanstalt für Arbeit gemäß § 234 Abs. 2 des Arbeitsförderungsgesetzes und der Tarifvertragsparteien des Baugewerbes gemäß § 76 Abs. 2 Satz 4 des Arbeitsförderungsgesetzes - verordnet:
 
-
-## § 1 – Zugelassene Betriebe
+# § 1 – Zugelassene Betriebe
 
 (1) Die ganzjährige Beschäftigung im Baugewerbe ist durch das Saison-Kurzarbeitergeld in Betrieben und Betriebsabteilungen zu fördern, die gewerblich überwiegend Bauleistungen (§ 101 Absatz 2 des Dritten Buches Sozialgesetzbuch) erbringen.
 
@@ -19,8 +15,7 @@ Auf Grund des § 76 Abs. 2 des Arbeitsförderungsgesetzes vom 25. Juni 1969 (BGB
 
 2. Aptierungs- und Drainierungsarbeiten, wie zum Beispiel das Entwässern von Grundstücken und urbar zu machenden Bodenflächen, einschließlich der Grabenräumungs- und Faschinierungsarbeiten, des Verlegens von Drainagerohrleitungen sowie des Herstellens von Vorflut- und Schleusenanlagen;
 
-2a.  
-Asbestsanierungsarbeiten an Bauwerken und Bauwerksteilen;
+2a. Asbestsanierungsarbeiten an Bauwerken und Bauwerksteilen;
 
 3. Bautrocknungsarbeiten, das sind Arbeiten, die unter Einwirkung auf das Gefüge des Mauerwerks der Entfeuchtung dienen, auch unter Verwendung von Kunststoffen oder chemischen Mitteln sowie durch Einbau von Kondensatoren;
 
@@ -46,8 +41,7 @@ Asbestsanierungsarbeiten an Bauwerken und Bauwerksteilen;
 
 14. Fliesen-, Platten- und Mosaik-Ansetz- und Verlegearbeiten;
 
-14a.  
-Fugarbeiten an Bauwerken, insbesondere Verfugung von Verblendmauerwerk und von Anschlüssen zwischen Einbauteilen und Mauerwerk sowie dauerelastische und dauerplastische Verfugungen aller Art;
+14a. Fugarbeiten an Bauwerken, insbesondere Verfugung von Verblendmauerwerk und von Anschlüssen zwischen Einbauteilen und Mauerwerk sowie dauerelastische und dauerplastische Verfugungen aller Art;
 
 15. Glasstahlbetonarbeiten sowie Vermauern und Verlegen von Glasbausteinen;
 
@@ -97,8 +91,7 @@ Fugarbeiten an Bauwerken, insbesondere Verfugung von Verblendmauerwerk und von A
 
 38. Vermieten von Baumaschinen mit Bedienungspersonal, wenn die Baumaschinen mit Bedienungspersonal zur Erbringung baulicher Leistungen eingesetzt werden;
 
-38a.  
-Wärmedämmverbundsystemarbeiten;
+38a. Wärmedämmverbundsystemarbeiten;
 
 39. Wasserwerksbauarbeiten, Wasserhaltungsarbeiten, Wasserbauarbeiten (zum Beispiel Wasserstraßenbau, Wasserbeckenbau, Schleusenanlagenbau);
 
@@ -132,8 +125,7 @@ Wärmedämmverbundsystemarbeiten;
 
 (5) Betriebe und Betriebsabteilungen im Sinne des Absatzes 1 sind von einer Förderung der ganzjährigen Beschäftigung durch das Saison-Kurzarbeitergeld ausgeschlossen, wenn sie zu einer abgrenzbaren und nennenswerten Gruppe gehören, bei denen eine Einbeziehung nach den Absätzen 2 bis 4 in der Schlechtwetterzeit nicht zu einer Belebung der wirtschaftlichen Tätigkeit oder zu einer Stabilisierung der Beschäftigungsverhältnisse der von saisonbedingten Arbeitsausfällen betroffenen Arbeitnehmer führt.
 
-
-## § 2 – Ausgeschlossene Betriebe
+# § 2 – Ausgeschlossene Betriebe
 
 Nicht als förderfähige Betriebe im Sinne des § 1 Abs. 1 anzusehen sind Betriebe
 
@@ -165,17 +157,14 @@ Nicht als förderfähige Betriebe im Sinne des § 1 Abs. 1 anzusehen sind Betrie
 
 14. und Betriebe, die Betonentladegeräte gewerblich zur Verfügung stellen.
 
-
-## § 3
+# § 3
 
 (weggefallen)
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 1980 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

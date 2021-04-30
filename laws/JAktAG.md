@@ -1,15 +1,11 @@
-# [JAktAG] Gesetz zur Aufbewahrung und Speicherung von Akten der Gerichte und Staatsanwaltschaften nach Beendigung des Verfahrens  (Justizaktenaufbewahrungsgesetz - JAktAG)
-
-Ausfertigungsdatum: 22.03.2005
-
+% Gesetz zur Aufbewahrung und Speicherung von Akten der Gerichte und Staatsanwaltschaften nach Beendigung des Verfahrens  (Justizaktenaufbewahrungsgesetz - JAktAG)
+% Ausfertigungsdatum: 22.03.2005
  
-
-## § 1 – Aufbewahrung und Speicherung von Akten
+# § 1 – Aufbewahrung und Speicherung von Akten
 
 Akten der Gerichte und der Staatsanwaltschaften, die für das Verfahren nicht mehr erforderlich sind, dürfen nach Beendigung des Verfahrens nur so lange aufbewahrt oder gespeichert werden, wie schutzwürdige Interessen der Verfahrensbeteiligten oder sonstiger Personen oder öffentliche Interessen dies erfordern. Dasselbe gilt für Aktenregister, Namens- und sonstige Verzeichnisse sowie Karteien, auch wenn diese elektronisch geführt werden. Aufbewahrungs- und Speicherungsregelungen in anderen Rechtsvorschriften sowie die Anbietungs- und Übergabepflichten nach den Vorschriften der Archivgesetze des Bundes und der Länder bleiben unberührt.
 
-
-## § 2 – Verordnungsermächtigung
+# § 2 – Verordnungsermächtigung
 
 (1) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Aufbewahrung und Speicherung nach § 1 Satz 1 und 2 und die hierbei zu beachtenden allgemeinen Aufbewahrungs- und Speicherungsfristen. Die Bundesregierung kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates übertragen auf das Bundesministerium für Arbeit und Soziales für die Arbeits- und die Sozialgerichtsbarkeit und auf das Bundesministerium der Justiz und für Verbraucherschutz für die übrigen Gerichtsbarkeiten sowie für die Staatsanwaltschaften.
 

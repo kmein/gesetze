@@ -1,25 +1,19 @@
-# [FriseurAusbV 2008] Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
-
-Ausfertigungsdatum: 21.05.2008
-
+% Verordnung über die Berufsausbildung zum Friseur/zur Friseurin
+% Ausfertigungsdatum: 21.05.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 14. September 1998 (BGBl. I S. 3074, 2006 I S. 2095), der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 26 der Handwerksordnung, der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 23. März 2005 (BGBl. I S. 931) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Friseur/Friseurin wird nach § 25 Abs. 1 Satz 1 der Handwerksordnung zur Ausbildung für das Gewerbe Nr. 38, Friseure, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in
 
@@ -27,8 +21,7 @@ Die Berufsausbildung gliedert sich in
 
 2. eine im Ausbildungsvertrag festzulegende Wahlqualifikationseinheit der Auswahlliste gemäß § 4 Abs. 2 Abschnitt B.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine vom Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -119,8 +112,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 4. Umweltschutz.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in der Prüfung nach den §§ 6, 7 und 8 nachzuweisen.
 
@@ -128,15 +120,13 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Gesellenprüfung
+# § 6 – Gesellenprüfung
 
 (1) Die Gesellenprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Qualifikationen, die bereits Gegenstand von Teil 1 waren, in Teil 2 nur soweit einbezogen werden, als es für die Festlegung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 mit 25 Prozent, Teil 2 mit 75 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Gesellenprüfung
+# § 7 – Teil 1 der Gesellenprüfung
 
 (1) Teil 1 der Gesellenprüfung soll Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -176,8 +166,7 @@ b) Ausführen einer klassischen Friseurarbeit am Herren einschließlich Föhnen.
 
 5. Die Arbeitsaufgabe einschließlich des situativen Fachgespräches und der schriftlichen Aufgabenstellungen ist mit 70 Prozent und das Prüfungsstück mit 30 Prozent zu gewichten.
 
-
-## § 8 – Teil 2 der Gesellenprüfung
+# § 8 – Teil 2 der Gesellenprüfung
 
 (1) Teil 2 der Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -267,8 +256,7 @@ kann.
 
 3. Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelung
+# § 9 – Gewichtungs- und Bestehensregelung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
   
@@ -297,15 +285,12 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche aus Teil 2, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
-
-## § 10 – Bestehende Berufsausbildungsverhältnisse
+# § 10 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin

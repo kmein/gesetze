@@ -1,20 +1,15 @@
-# [MalerLackAusbV] Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe
-
-Ausfertigungsdatum: 03.07.2003
-
+% Verordnung über die Berufsausbildung im Maler- und Lackierergewerbe
+% Ausfertigungsdatum: 03.07.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), von dem Absatz 1 durch Artikel 135 Nr. 3 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe im Rahmen einer Stufenausbildung
 
 Der Ausbildungsberuf Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin sowie der darauf aufbauende Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin werden gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nr. 13, Maler und Lackierer, der Anlage A der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Stufenausbildung im Maler- und Lackierergewerbe dauert insgesamt 36 Monate.
 
@@ -34,15 +29,13 @@ gewählt werden.
 
 (5) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
+# § 3 – Berufsfeldbreite Grundbildung und Zielsetzung der Berufsausbildung
 
 (1) Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 10 bis 15 nachzuweisen.
 
-
-## § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
+# § 4 – Berufsausbildung in überbetrieblichen Ausbildungsstätten
 
 Die Berufsausbildung ist entsprechend dem Ausbildungsrahmenplan (Anlagen 1 und 2) während einer Dauer von acht Wochen wie folgt in überbetrieblichen Ausbildungsstätten zu ergänzen und zu vertiefen, sofern dies nicht im Ausbildungsbetrieb erfolgen kann:
 
@@ -58,8 +51,7 @@ b) aus der Anlage 2 der Fachrichtung B Kirchenmalerei und Denkmalpflege die lauf
 
 c) aus der Anlage 2 der Fachrichtung C Bauten- und Korrosionsschutz die laufenden Nummern 3, 5 und 6.
 
-
-## § 5 – Ausbildungsberufsbild Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin
+# § 5 – Ausbildungsberufsbild Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -89,8 +81,7 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 13. Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 6 – Ausbildungsberufsbild Maler und Lackierer/Malerin und Lackiererin
+# § 6 – Ausbildungsberufsbild Maler und Lackierer/Malerin und Lackiererin
 
 Gegenstand der Berufsausbildung in den Fachrichtungen sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -168,23 +159,19 @@ l) Herstellen von Kommunikationsmitteln für Sicherheits- und Leitfunktionen,
 
 m) Durchführen von qualitätssichernden Maßnahmen.
 
-
-## § 7 – Ausbildungsrahmenpläne
+# § 7 – Ausbildungsrahmenpläne
 
 Die in § 5 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage 1 für die berufliche Grundbildung und für die berufliche Fachbildung und die in § 6 genannten Fertigkeiten und Kenntnisse nach der in der Anlage 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von den Ausbildungsrahmenplänen innerhalb der beruflichen Grundbildung und innerhalb der beruflichen Fachbildung abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 8 – Ausbildungsplan
+# § 8 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 9 – Berichtsheft
+# § 9 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 10 – Zwischenprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
+# § 10 – Zwischenprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
 
 (1) Während der Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin ist zur Ermittlung des Ausbildungsstandes eine Zwischenprüfung durchzuführen. Sie soll am Ende des ersten Ausbildungsjahres stattfinden.
 
@@ -194,14 +181,12 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (4) Hierbei soll der Prüfling zeigen, dass er die Arbeitsaufgabe planen, notwendige Werkstoffe und Werkzeuge festlegen, den Arbeitsplatz einrichten, den Unfallschutz, den Gesundheitsschutz bei der Arbeit und den Umweltschutz beachten kann.
 
-
-## § 11 – Abschlussprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
+# § 11 – Abschlussprüfung für den Ausbildungsberuf Bauten- und Objekt- beschichter/Bauten- und Objektbeschichterin
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1 in den Abschnitten I und II aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 14 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens zehn Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht:  
-Beschichten, Bekleiden, Applizieren und in Stand setzen eines Objektes.  
-Dabei soll der Prüfling zeigen, dass er den Arbeitsablauf unter Beachtung gestalterischer, wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+Beschichten, Bekleiden, Applizieren und in Stand setzen eines Objektes. Dabei soll der Prüfling zeigen, dass er den Arbeitsablauf unter Beachtung gestalterischer, wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
 
 (3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Oberflächentechnik, Instandsetzung sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Oberflächentechnik und Instandsetzung sind insbesondere fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen.
 
@@ -237,21 +222,18 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht sind. Weiterhin sind in zwei der Prüfungsbereiche mindestens ausreichende Leistungen zu erbringen. Werden Prüfungsleistungen in einem der Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 12 – Zwischenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin
+# § 12 – Zwischenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin nach § 6 Nr. 1 bis 3 dieser Verordnung gilt die Abschlussprüfung im Ausbildungsberuf Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin als Zwischenprüfung im Sinne des § 39 der Handwerksordnung. Die inhaltlichen Anforderungen der Zwischenprüfung nach Absatz 1 ergeben sich aus § 11 Abs. 1 bis 4 dieser Verordnung.
 
-
-## § 13 – Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Gestaltung und Instandhaltung
+# § 13 – Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Gestaltung und Instandhaltung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 20 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Gestalten und Bearbeiten eines Objektes unter Anwendung von Beschichtungs-, Bekleidungs-, Applikations- und Instandhaltungstechniken.  
-Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+Gestalten und Bearbeiten eines Objektes unter Anwendung von Beschichtungs-, Bekleidungs-, Applikations- und Instandhaltungstechniken. Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
 
 (3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Gestaltung, Instandhaltung und Bautenschutz sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Gestaltung sowie Instandhaltung und Bautenschutz sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk-, Hilfs-, Beschichtungsstoffen und Bauteilen planen sowie Werkzeuge, Geräte, Maschinen und Anlagen zuordnen, Herstellerangaben beachten und qualitätssichernde Maßnahmen einbeziehen kann.
 
@@ -289,14 +271,12 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 11, so hat er den Abschluss Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin erreicht. Die Anforderungen nach § 11 gelten dann als erfüllt, wenn in dieser Prüfung in Teil A sowie in einem der fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 14 – Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Kirchenmalerei und Denkmalpflege
+# § 14 – Gesellenprüfung für den Ausbildungsberuf Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Kirchenmalerei und Denkmalpflege
 
 (1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (2) Der Prüfling soll in Teil A der Prüfung in insgesamt höchstens 24 Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren und innerhalb dieser Zeit in insgesamt höchstens 15 Minuten hierüber ein Fachgespräch führen. Für die Arbeitsaufgabe kommt insbesondere in Betracht:  
-Instandsetzen und Gestalten eines Objektes unter Anwendung von historischen und gestalterischen Arbeitstechniken einschließlich Reproduktion nach historischen Vorlagen.  
-Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
+Instandsetzen und Gestalten eines Objektes unter Anwendung von historischen und gestalterischen Arbeitstechniken einschließlich Reproduktion nach historischen Vorlagen. Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe unter Beachtung wirtschaftlicher, technischer und organisatorischer Vorgaben selbständig und kundenorientiert planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren sowie Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz durchführen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann. Das Ergebnis der Arbeitsaufgabe ist mit 85 Prozent und das Fachgespräch ist mit 15 Prozent zu gewichten.
 
 (3) Der Prüfling soll in Teil B der Prüfung in den nachfolgend genannten Prüfungsbereichen Gestaltung, Instandsetzung und Reproduktion sowie Wirtschafts- und Sozialkunde schriftlich geprüft werden. In den Prüfungsbereichen Gestaltung sowie Instandsetzung und Reproduktion sind fachliche Probleme mit verknüpften informationstechnischen, technologischen und mathematischen Kenntnissen zu analysieren, zu bewerten und zu lösen. Dabei soll der Prüfling zeigen, dass er die Arbeitssicherheits-, Gesundheitsschutz- und Umweltschutzbestimmungen berücksichtigen, die Verwendung von Werk-, Hilfs-, Beschichtungsstoffen und Bauteilen planen sowie Werkzeuge, Geräte, Maschinen und Anlagen zuordnen, Herstellerangaben beachten und qualitätssichernde Maßnahmen einbeziehen kann.
 
@@ -334,8 +314,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 11, so hat er den Abschluss Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin erreicht. Die Anforderungen nach § 11 gelten dann als erfüllt, wenn in dieser Prüfung in Teil A sowie in einem der fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 15 – Gesellenprüfung für die Berufsausbildung Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Bauten- und Korrosionsschutz
+# § 15 – Gesellenprüfung für die Berufsausbildung Maler und Lackierer/Malerin und Lackiererin in der Fachrichtung Bauten- und Korrosionsschutz
 
 (1) Die Gesellenprüfung erstreckt sich auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -383,8 +362,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (8) Hat der Prüfling die Prüfung nach Absatz 7 nicht bestanden, erfüllt er in dieser Prüfung jedoch die Anforderungen nach § 11, so hat er den Abschluss Bauten- und Objektbeschichter/Bauten- und Objektbeschichterin erreicht. Die Anforderungen nach § 11 gelten dann als erfüllt, wenn in dieser Prüfung in Teil A sowie in einem der fachbezogenen Prüfungsbereiche in Teil B (Absatz 3 Nr. 1 und 2) jeweils mindestens eine ausreichende Leistung erbracht wurde. Außerdem darf in keinem der fachbezogenen Prüfungsbereiche eine ungenügende Leistung erbracht worden sein.
 
-
-## § 16 – Übergangsregelung
+# § 16 – Übergangsregelung
 
 (1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
@@ -392,13 +370,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (3) Auf Berufsausbildungsverhältnisse, die in der Zeit vom 1. August 2003 bis zum 31. Juli 2004 beginnen, sind die Vorschriften der in § 17 Satz 2 genannten Verordnung weiter anzuwenden, wenn für die Ausbildung in diesen Ausbildungsberufen nach Landesrecht der Besuch eines schulischen Berufsgrundbildungsjahres vorgesehen ist.
 
-
-## § 17 – Inkrafttreten, Außerkrafttreten
+# § 17 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
-
-## Anlage 1 – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin
+# Anlage 1 – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Bauten- und Objektbeschichter/zur Bauten- und Objektbeschichterin
 
 (Fundstelle: BGBl. I 2003, 1071 - 1076)  
 
@@ -829,8 +805,7 @@ d) Arbeits- und Zwischenergebnisse kontrollieren, bewerten und dokumentieren
 \*)  
 Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.
 
-
-## Anlage 2 – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin
+# Anlage 2 – (zu § 7)  Ausbildungsrahmenplan für die Berufsausbildung zum Maler und Lackierer/zur Malerin und Lackiererin
 
 (Fundstelle: BGBl. I 2003, 1077 - 1082)  
 

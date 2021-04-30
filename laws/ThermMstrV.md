@@ -1,15 +1,11 @@
-# [ThermMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Thermometermacher-Handwerk  (Thermometermachermeisterverordnung - ThermMstrV)
-
-Ausfertigungsdatum: 20.06.1989
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Thermometermacher-Handwerk  (Thermometermachermeisterverordnung - ThermMstrV)
+% Ausfertigungsdatum: 20.06.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Thermometermacher-Handwerk sind folgende Tätigkeiten zuzurechnen:  
 Entwurf, Konstruktion und Herstellung von Thermometern und ähnlichen Meßgeräten aus verschiedenen Gläsern sowie aus glasverwandten und anderen Werkstoffen.
@@ -52,8 +48,7 @@ Entwurf, Konstruktion und Herstellung von Thermometern und ähnlichen Meßgerät
 
 18. Warten und Instandhalten der berufsbezogenen Maschinen, Werkzeuge und Geräte.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -61,8 +56,7 @@ Entwurf, Konstruktion und Herstellung von Thermometern und ähnlichen Meßgerät
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit sind zwei der nachstehend genannten Arbeiten anzufertigen, entweder nach Nummer 1 bis 4 oder nach Nummer 5 bis 7:
 
@@ -88,8 +82,7 @@ b) ein Maximum-Thermometer, Nennmeßbereich von - 30 bis 50 Grad C, Skalenwert 0
 
 (3) Die maßstabsgerechte Zeichnung und die Kalkulation sind bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind drei der nachstehend genannten Arbeiten auszuführen, entweder nach Nummer 1 bis 6 oder nach Nummer 7 bis 10:
 
@@ -115,8 +108,7 @@ b) ein Maximum-Thermometer, Nennmeßbereich von - 30 bis 50 Grad C, Skalenwert 0
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) Im Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -172,29 +164,24 @@ Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Fak
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr. 3 und 4.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Berlin-Klausel
+# § 8 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft

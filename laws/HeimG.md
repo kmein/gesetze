@@ -1,10 +1,7 @@
-# [HeimG] Heimgesetz  (HeimG)
-
-Ausfertigungsdatum: 07.08.1974
-
+% Heimgesetz  (HeimG)
+% Ausfertigungsdatum: 07.08.1974
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |       |                                                  |
 |:------|:-------------------------------------------------|
@@ -36,8 +33,7 @@ Ausfertigungsdatum: 07.08.1974
 | § 25a | Erprobungsregelungen                             |
 | § 26  | Übergangsvorschriften                            |
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Heime. Heime im Sinne dieses Gesetzes sind Einrichtungen, die dem Zweck dienen, ältere Menschen oder pflegebedürftige oder behinderte Volljährige aufzunehmen, ihnen Wohnraum zu überlassen sowie Betreuung und Verpflegung zur Verfügung zu stellen oder vorzuhalten, und die in ihrem Bestand von Wechsel und Zahl der Bewohnerinnen und Bewohner unabhängig sind und entgeltlich betrieben werden.
 
@@ -51,8 +47,7 @@ Ausfertigungsdatum: 07.08.1974
 
 (6) Dieses Gesetz gilt nicht für Krankenhäuser im Sinne des § 2 Nr. 1 des Krankenhausfinanzierungsgesetzes. In Einrichtungen zur Rehabilitation gilt dieses Gesetz für die Teile, die die Voraussetzungen des Absatzes 1 erfüllen. Dieses Gesetz gilt nicht für Internate der Berufsbildungs- und Berufsförderungswerke.
 
-
-## § 2 – Zweck des Gesetzes
+# § 2 – Zweck des Gesetzes
 
 (1) Zweck des Gesetzes ist es,
 
@@ -72,8 +67,7 @@ Ausfertigungsdatum: 07.08.1974
 
 (2) Die Selbständigkeit der Träger in Zielsetzung und Durchführung ihrer Aufgaben bleibt unberührt.
 
-
-## § 3 – Leistungen des Heims, Rechtsverordnungen
+# § 3 – Leistungen des Heims, Rechtsverordnungen
 
 (1) Die Heime sind verpflichtet, ihre Leistungen nach dem jeweils allgemein anerkannten Stand fachlicher Erkenntnisse zu erbringen.
 
@@ -83,8 +77,7 @@ Ausfertigungsdatum: 07.08.1974
 
 2. für die Eignung der Leitung des Heims (Leitung) und der Beschäftigten.
 
-
-## § 4 – Beratung
+# § 4 – Beratung
 
 Die zuständigen Behörden informieren und beraten
 
@@ -94,13 +87,11 @@ Die zuständigen Behörden informieren und beraten
 
 3. auf Antrag Personen und Träger, die die Schaffung von Heimen im Sinne des § 1 anstreben oder derartige Heime betreiben, bei der Planung und dem Betrieb der Heime.
 
-
-## §§ 5 bis 9 – (weggefallen)
+# §§ 5 bis 9 – (weggefallen)
 
 \-
 
-
-## § 10 – Mitwirkung der Bewohnerinnen und Bewohner
+# § 10 – Mitwirkung der Bewohnerinnen und Bewohner
 
 (1) Die Bewohnerinnen und Bewohner wirken durch einen Heimbeirat in Angelegenheiten des Heimbetriebs wie Unterkunft, Betreuung, Aufenthaltsbedingungen, Heimordnung, Verpflegung und Freizeitgestaltung mit. Die Mitwirkung bezieht sich auch auf die Sicherung einer angemessenen Qualität der Betreuung im Heim und auf die Leistungs-, Vergütungs-, Qualitäts- und Prüfungsvereinbarungen nach § 7 Abs. 4 und 5. Sie ist auf die Verwaltung sowie die Geschäfts- und Wirtschaftsführung des Heims zu erstrecken, wenn Leistungen im Sinne des § 14 Abs. 2 Nr. 3 erbracht worden sind. Der Heimbeirat kann bei der Wahrnehmung seiner Aufgaben und Rechte fach- und sachkundige Personen seines Vertrauens hinzuziehen. Diese sind zur Verschwiegenheit verpflichtet.
 
@@ -112,8 +103,7 @@ Die zuständigen Behörden informieren und beraten
 
 (5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend erlässt im Einvernehmen mit dem Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung des Bundesrates Regelungen über die Wahl des Heimbeirats und die Bestellung des Heimfürsprechers sowie über Art, Umfang und Form ihrer Mitwirkung. In der Rechtsverordnung ist vorzusehen, dass auch Angehörige und sonstige Vertrauenspersonen der Bewohnerinnen und Bewohner, von der zuständigen Behörde vorgeschlagene Personen sowie Mitglieder der örtlichen Seniorenvertretungen und Mitglieder von örtlichen Behindertenorganisationen in angemessenem Umfang in den Heimbeirat gewählt werden können.
 
-
-## § 11 – Anforderungen an den Betrieb eines Heims
+# § 11 – Anforderungen an den Betrieb eines Heims
 
 (1) Ein Heim darf nur betrieben werden, wenn der Träger und die Leitung
 
@@ -157,8 +147,7 @@ Die zuständigen Behörden informieren und beraten
 
 (4) Bestehen Zweifel daran, dass die Anforderungen an den Betrieb eines Heims erfüllt sind, ist die zuständige Behörde berechtigt und verpflichtet, die notwendigen Maßnahmen zur Aufklärung zu ergreifen.
 
-
-## § 12 – Anzeige
+# § 12 – Anzeige
 
 (1) Wer den Betrieb eines Heims aufnehmen will, hat darzulegen, dass er die Anforderungen nach § 11 Abs. 1 bis 3 erfüllt. Zu diesem Zweck hat er seine Absicht spätestens drei Monate vor der vorgesehenen Inbetriebnahme der zuständigen Behörde anzuzeigen. Die Anzeige muss insbesondere folgende weitere Angaben enthalten:
 
@@ -194,8 +183,7 @@ Die zuständigen Behörden informieren und beraten
 
 (4) Wer den Betrieb eines Heims ganz oder teilweise einzustellen oder wer die Vertragsbedingungen wesentlich zu ändern beabsichtigt, hat dies unverzüglich der zuständigen Behörde gemäß Satz 2 anzuzeigen. Mit der Anzeige sind Angaben über die nachgewiesene Unterkunft und Betreuung der Bewohnerinnen und Bewohner und die geplante ordnungsgemäße Abwicklung der Vertragsverhältnisse mit den Bewohnerinnen und Bewohnern zu verbinden.
 
-
-## § 13 – Aufzeichnungs- und Aufbewahrungspflicht
+# § 13 – Aufzeichnungs- und Aufbewahrungspflicht
 
 (1) Der Träger hat nach den Grundsätzen einer ordnungsgemäßen Buch- und Aktenführung Aufzeichnungen über den Betrieb zu machen und die Qualitätssicherungsmaßnahmen und deren Ergebnisse so zu dokumentieren, dass sich aus ihnen der ordnungsgemäße Betrieb des Heims ergibt. Insbesondere muss ersichtlich werden:
 
@@ -227,8 +215,7 @@ Betreibt der Träger mehr als ein Heim, sind für jedes Heim gesonderte Aufzeich
 
 (4) Weitergehende Pflichten des Trägers eines Heims nach anderen Vorschriften oder aufgrund von Pflegesatzvereinbarungen oder Vereinbarungen nach § 75 Abs. 3 des Zwölften Buches Sozialgesetzbuch bleiben unberührt.
 
-
-## § 14 – Leistungen an Träger und Beschäftigte
+# § 14 – Leistungen an Träger und Beschäftigte
 
 (1) Dem Träger ist es untersagt, sich von oder zugunsten von Bewohnerinnen und Bewohnern oder den Bewerberinnen und Bewerbern um einen Heimplatz Geld- oder geldwerte Leistungen über das nach § 5 vereinbarte Entgelt hinaus versprechen oder gewähren zu lassen.
 
@@ -254,8 +241,7 @@ Betreibt der Träger mehr als ein Heim, sind für jedes Heim gesonderte Aufzeich
 
 (8) (weggefallen)
 
-
-## § 15 – Überwachung
+# § 15 – Überwachung
 
 (1) Die Heime werden von den zuständigen Behörden durch wiederkehrende oder anlassbezogene Prüfungen überwacht. Die Prüfungen können jederzeit angemeldet oder unangemeldet erfolgen. Prüfungen zur Nachtzeit sind nur zulässig, wenn und soweit das Überwachungsziel zu anderen Zeiten nicht erreicht werden kann. Die Heime werden daraufhin überprüft, ob sie die Anforderungen an den Betrieb eines Heims nach diesem Gesetz erfüllen. Der Träger, die Leitung und die Pflegedienstleitung haben den zuständigen Behörden die für die Durchführung dieses Gesetzes und der aufgrund dieses Gesetzes erlassenen Rechtsverordnungen erforderlichen mündlichen und schriftlichen Auskünfte auf Verlangen und unentgeltlich zu erteilen. Die Aufzeichnungen nach § 13 Abs. 1 hat der Träger am Ort des Heims zur Prüfung vorzuhalten. Für die Unterlagen nach § 13 Abs. 1 Nr. 1 gilt dies nur für angemeldete Prüfungen.
 
@@ -289,8 +275,7 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (9) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 16 – Beratung bei Mängeln
+# § 16 – Beratung bei Mängeln
 
 (1) Sind in einem Heim Mängel festgestellt worden, so soll die zuständige Behörde zunächst den Träger über die Möglichkeiten zur Abstellung der Mängel beraten. Das Gleiche gilt, wenn nach einer Anzeige gemäß § 12 vor der Aufnahme des Heimbetriebs Mängel festgestellt werden.
 
@@ -298,8 +283,7 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (3) Ist den Bewohnerinnen und den Bewohnern aufgrund der festgestellten Mängel eine Fortsetzung des Heimvertrags nicht zuzumuten, soll die zuständige Behörde sie dabei unterstützen, eine angemessene anderweitige Unterkunft und Betreuung zu zumutbaren Bedingungen zu finden.
 
-
-## § 17 – Anordnungen
+# § 17 – Anordnungen
 
 (1) Werden festgestellte Mängel nicht abgestellt, so können gegenüber den Trägern Anordnungen erlassen werden, die zur Beseitigung einer eingetretenen oder Abwendung einer drohenden Beeinträchtigung oder Gefährdung des Wohls der Bewohnerinnen und Bewohner, zur Sicherung der Einhaltung der dem Träger gegenüber den Bewohnerinnen und Bewohnern obliegenden Pflichten oder zur Vermeidung einer Unangemessenheit zwischen dem Entgelt und der Leistung des Heims erforderlich sind. Das Gleiche gilt, wenn Mängel nach einer Anzeige gemäß § 12 vor Aufnahme des Heimbetriebs festgestellt werden.
 
@@ -307,15 +291,13 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (3) Wenn Anordnungen gegenüber zugelassenen Pflegeheimen eine Erhöhung der nach dem Elften Buch Sozialgesetzbuch vereinbarten oder festgesetzten Entgelte zur Folge haben können, ist Einvernehmen mit den betroffenen Pflegesatzparteien anzustreben. Für Anordnungen nach Satz 1 gilt für die Pflegesatzparteien Absatz 2 Satz 3 und 4 entsprechend.
 
-
-## § 18 – Beschäftigungsverbot, kommissarische Heimleitung
+# § 18 – Beschäftigungsverbot, kommissarische Heimleitung
 
 (1) Dem Träger kann die weitere Beschäftigung der Leitung, eines Beschäftigten oder einer sonstigen Mitarbeiterin oder eines sonstigen Mitarbeiters ganz oder für bestimmte Funktionen oder Tätigkeiten untersagt werden, wenn Tatsachen die Annahme rechtfertigen, dass sie die für ihre Tätigkeit erforderliche Eignung nicht besitzen.
 
 (2) Hat die zuständige Behörde ein Beschäftigungsverbot nach Absatz 1 ausgesprochen und der Träger keine neue geeignete Leitung eingesetzt, so kann die zuständige Behörde, um den Heimbetrieb aufrechtzuerhalten, auf Kosten des Trägers eine kommissarische Leitung für eine begrenzte Zeit einsetzen, wenn ihre Befugnisse nach den §§ 15 bis 17 nicht ausreichen und die Voraussetzungen für die Untersagung des Heimbetriebs vorliegen. Ihre Tätigkeit endet, wenn der Träger mit Zustimmung der zuständigen Behörde eine geeignete Heimleitung bestimmt; spätestens jedoch nach einem Jahr. Die kommissarische Leitung übernimmt die Rechte und Pflichten der bisherigen Leitung.
 
-
-## § 19 – Untersagung
+# § 19 – Untersagung
 
 (1) Der Betrieb eines Heims ist zu untersagen, wenn die Anforderungen des § 11 nicht erfüllt sind und Anordnungen nicht ausreichen.
 
@@ -331,8 +313,7 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (3) Vor Aufnahme des Heimbetriebs ist eine Untersagung nur zulässig, wenn neben einem Untersagungsgrund nach Absatz 1 oder Absatz 2 die Anzeigepflicht nach § 12 Abs. 1 Satz 1 besteht. Kann der Untersagungsgrund beseitigt werden, ist nur eine vorläufige Untersagung der Betriebsaufnahme zulässig. Widerspruch und Anfechtungsklage gegen eine vorläufige Untersagung haben keine aufschiebende Wirkung. Die vorläufige Untersagung wird mit der schriftlichen Erklärung der zuständigen Behörde unwirksam, dass die Voraussetzungen für die Untersagung entfallen sind.
 
-
-## § 20 – Zusammenarbeit, Arbeitsgemeinschaften
+# § 20 – Zusammenarbeit, Arbeitsgemeinschaften
 
 (1) Bei der Wahrnehmung ihrer Aufgaben zum Schutz der Interessen und Bedürfnisse der Bewohnerinnen und Bewohner und zur Sicherung einer angemessenen Qualität des Wohnens und der Betreuung in den Heimen sowie zur Sicherung einer angemessenen Qualität der Überwachung sind die für die Ausführung nach diesem Gesetz zuständigen Behörden und die Pflegekassen, deren Landesverbände, der Medizinische Dienst der Krankenversicherung und die zuständigen Träger der Sozialhilfe verpflichtet, eng zusammenzuarbeiten. Im Rahmen der engen Zusammenarbeit sollen die in Satz 1 genannten Beteiligten sich gegenseitig informieren, ihre Prüftätigkeit koordinieren sowie Einvernehmen über Maßnahmen zur Qualitätssicherung und zur Abstellung von Mängeln anstreben.
 
@@ -348,8 +329,7 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (7) Besteht im Bereich der zuständigen Behörde eine Arbeitsgemeinschaft im Sinne von § 4 Abs. 2 des Zwölften Buches Sozialgesetzbuch, so sind im Rahmen dieser Arbeitsgemeinschaft auch Fragen der bedarfsgerechten Planung zur Erhaltung und Schaffung der in § 1 genannten Heime in partnerschaftlicher Zusammenarbeit zu beraten.
 
-
-## § 21 – Ordnungswidrigkeiten
+# § 21 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -373,8 +353,7 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes 2 mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 22 – Berichte
+# § 22 – Berichte
 
 (1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend berichtet den gesetzgebenden Körperschaften des Bundes alle vier Jahre, erstmals im Jahre 2004, über die Situation der Heime und die Betreuung der Bewohnerinnen und Bewohner.
 
@@ -382,8 +361,7 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (3) Die zuständigen Behörden sind verpflichtet, alle zwei Jahre einen Tätigkeitsbericht zu erstellen. Dieser Bericht ist zu veröffentlichen.
 
-
-## § 23 – Zuständigkeit und Durchführung des Gesetzes
+# § 23 – Zuständigkeit und Durchführung des Gesetzes
 
 (1) Die Landesregierungen bestimmen die für die Durchführung dieses Gesetzes zuständigen Behörden.
 
@@ -391,25 +369,21 @@ Der Träger hat diese Maßnahmen zu dulden. Es steht der zuständigen Behörde f
 
 (3) Die Landesregierungen haben sicherzustellen, dass die Aufgabenwahrnehmung durch die zuständigen Behörden nicht durch Interessenkollisionen gefährdet oder beeinträchtigt wird.
 
-
-## § 24 – Anwendbarkeit der Gewerbeordnung
+# § 24 – Anwendbarkeit der Gewerbeordnung
 
 Auf die den Vorschriften dieses Gesetzes unterliegenden Heime, die gewerblich betrieben werden, finden die Vorschriften der Gewerbeordnung Anwendung, soweit nicht dieses Gesetz besondere Bestimmungen enthält.
 
-
-## § 25 – Fortgeltung von Rechtsverordnungen
+# § 25 – Fortgeltung von Rechtsverordnungen
 
 Rechtsverordnungen, die vor Inkrafttreten dieses Gesetzes auf Grund des § 38 Satz 1 Nr. 10 und Sätze 2 bis 4 der Gewerbeordnung erlassen worden sind, gelten bis zu ihrer Aufhebung durch die Rechtsverordnungen nach den §§ 3 und 13 fort, soweit sie nicht den Vorschriften dieses Gesetzes widersprechen.
 
-
-## § 25a – Erprobungsregelungen
+# § 25a – Erprobungsregelungen
 
 (1) Die zuständige Behörde kann ausnahmsweise auf Antrag den Träger von den Anforderungen des § 10, wenn die Mitwirkung in anderer Weise gesichert ist oder die Konzeption sie nicht erforderlich macht, oder von den Anforderungen der nach § 3 Abs. 2 erlassenen Rechtsverordnungen teilweise befreien, wenn dies im Sinne der Erprobung neuer Betreuungs- oder Wohnformen dringend geboten erscheint und hierdurch der Zweck des Gesetzes nach § 2 Abs. 1 nicht gefährdet wird.
 
 (2) Die Entscheidung der zuständigen Behörde ergeht durch förmlichen Bescheid und ist auf höchstens vier Jahre zu befristen. Die Rechte zur Überwachung nach den §§ 15, 17, 18 und 19 bleiben durch die Ausnahmegenehmigung unberührt.
 
-
-## § 26 – Übergangsvorschriften
+# § 26 – Übergangsvorschriften
 
 (1) Rechte und Pflichten aufgrund von Heimverträgen, die vor dem Inkrafttreten dieses Gesetzes geschlossen worden sind, richten sich vom Zeitpunkt des Inkrafttretens des Gesetzes an nach dem neuen Recht.
 
@@ -417,8 +391,7 @@ Rechtsverordnungen, die vor Inkrafttreten dieses Gesetzes auf Grund des § 38 Sa
 
 (3) Ansprüche der Bewohnerinnen und Bewohner sowie deren Rechtsnachfolger aus Heimverträgen wegen fehlender Wirksamkeit von Entgelterhöhungen nach § 4c des Heimgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung können gegen den Träger nur innerhalb von drei Jahren nach Inkrafttreten dieses Gesetzes geltend gemacht werden.
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III  (BGBl. II 1990, 889, 1096)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III  (BGBl. II 1990, 889, 1096)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 ...

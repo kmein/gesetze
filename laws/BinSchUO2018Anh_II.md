@@ -1,12 +1,7 @@
-# [BinSchUO2018Anh II] Nationale Sonderbestimmungen(Anhang II der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
-
-Ausfertigungsdatum: 21.09.2018
-
+% Nationale Sonderbestimmungen(Anhang II der Binnenschiffsuntersuchungsordnung BGBl I 2018, 1398)
+% Ausfertigungsdatum: 21.09.2018
  
-
-## Inhaltsverzeichnis
-
- 
+# Inhaltsverzeichnis
 
  
 
@@ -78,8 +73,9 @@ Ausfertigungsdatum: 21.09.2018
 
  
 
+ 
 
-## § 1.01 – Begriffsbestimmungen
+# § 1.01 – Begriffsbestimmungen
 
 In diesem Anhang gelten als:
 
@@ -123,8 +119,7 @@ a) Statt „Schiffsattest“, „Unionszeugnis“ und „Binnenschiffszeugnis“
 
 b) Statt „„Länge in der Wasserlinie“ oder „L<sub>WL</sub>“ die in der Ebene der größten Einsenkung des Schiffes gemessene größte Länge des Schiffskörpers in m“ gilt „„Länge (L<sub>WL</sub>)“ die in der Ebene der größten Einsenkung gemessene Länge des Fährkörpers ohne Berücksichtigung der Landeklappen“.
 
-
-## § 1.02 – Allgemeines
+# § 1.02 – Allgemeines
 
 1. Für Fähren sind der ES-TRIN sowie die Anhänge III bis VIII mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
@@ -245,8 +240,7 @@ Artikel 13.03, wobei ein Feuerlöscher ausreicht.
 
 e) Die Untersuchungskommission kann für alle Kahnfähren und Kahnseilfähren insbesondere zur Berücksichtigung besonderer örtlicher oder baulicher Gegebenheiten zusätzliche Anforderungen stellen.
 
-
-## § 1.03 – Fährzeugnis
+# § 1.03 – Fährzeugnis
 
 1. Die Ergebnisse aus den Stabilitäts- und Festigkeitsberechnungen sind im Fährzeugnis einzutragen und an Bord der Fähre an auffallender Stelle deutlich sichtbar anzubringen.
 
@@ -256,13 +250,11 @@ e) Die Untersuchungskommission kann für alle Kahnfähren und Kahnseilfähren in
 
 4. Wird die Fähre auch zum sonstigen Schiffsverkehr verwendet, insbesondere zum Wechseln der Fährstelle, zur Fahrt zu oder von einer Werft, ist dies im Fährzeugnis einzutragen. Dabei ist die Beförderung von Personen oder Gütern verboten.
 
-
-## § 1.04 – Kennzeichnung der Fähren
+# § 1.04 – Kennzeichnung der Fähren
 
 An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 cm hohes „F“ mit heller Farbe auf dunklem Grund oder mit dunkler Farbe auf hellem Grund deutlich sichtbar angebracht sein.
 
-
-## § 2.01 – Fährkörper
+# § 2.01 – Fährkörper
 
 1. An beiden Enden des Fährkörpers muss je ein Kollisionsschott vorhanden sein.
 
@@ -274,8 +266,7 @@ An allen Fähren muss als Kennzeichen auf beiden Längsseiten ein mindestens 30 
 
 5. Kahnfähren und Kahnseilfähren müssen mit Luftkästen oder anderen Auftriebskörpern versehen sein. Luftkästen müssen zur Durchführung von Dichtigkeitsprüfungen mit einem Schraubverschluss versehen sein.
 
-
-## § 2.02 – Nachweis der Intakt- und Leckstabilität
+# § 2.02 – Nachweis der Intakt- und Leckstabilität
 
 1. Der Antragsteller hat den Nachweis der hinreichenden Intaktstabilität durch eine Berechnung nach Artikel 19.03 Nummer 1 bis 6 ES-TRIN in Verbindung mit Anhang III §§ 1.02, 7.03 oder 10.08 in Abhängigkeit von der zu befahrenden Wasserstraße zu erbringen.
 
@@ -373,18 +364,15 @@ b) Leckstabilität;
 
 ein rechnerischer Nachweis, wobei bei voller Beladung und Flutung der Fähre ein Reserveauftrieb von 100 Newton je Person und eine stabile aufrechte Schwimmlage verbleiben muss, bei der die verbleibende metazentrische Höhe GM<sub>R</sub> 0,10 m nicht unterschritten werden darf.
 
-
-## § 2.03 – Einsenkungsmarken
+# § 2.03 – Einsenkungsmarken
 
 Artikel 4.04 ES-TRIN ist anzuwenden; jedoch müssen mindestens zwei Einsenkungsmarkenpaare auf je einem Drittel der Länge vorhanden sein.
 
-
-## § 2.04 – Festigkeit des Wagendecks
+# § 2.04 – Festigkeit des Wagendecks
 
 Bei Wagenfähren muss ein Festigkeitsnachweis für die Belastung des Wagendecks mit den zulässigen Landfahrzeugen, die sich aus den Stabilitätsberechnungen ergeben, erbracht werden.
 
-
-## § 2.05 – Rettungsmittel
+# § 2.05 – Rettungsmittel
 
 1. Einzelrettungsmittel nach Artikel 19.09 Nummer 4 ES-TRIN können durch Sammelrettungsmittel nach Artikel 19.09 Nummer 5 ES-TRIN in Verbindung mit Artikel 19.09 Nummer 7 bis 9 ES-TRIN ersetzt werden.
 
@@ -394,15 +382,13 @@ Bei Wagenfähren muss ein Festigkeitsnachweis für die Belastung des Wagendecks 
 
 4. Die Untersuchungskommission kann bei Fähren von der Erfüllung der Nummer 3 in den Fällen nach Artikel 19.15 Nummer 5 und 6 ES-TRIN absehen, dabei gelten die Landeklappen als vergleichbare Einrichtungen zu Plattformen, wenn diese die darin beschriebenen Anforderungen und Bestimmungen erfüllen.
 
-
-## § 2.06 – Anker
+# § 2.06 – Anker
 
 1. Fähren, die mindestens zwei voneinander unabhängige in jeder Richtung voll wirksame Antriebe haben, brauchen mit nur einem Anker ausgerüstet zu sein.
 
 2. Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann seil- und kettengebundene Fähren sowie Kahnfähren auf den Wasserstraßen der Zone 4 von dem Erfordernis einer Ankerausrüstung befreien, wenn die Leichtigkeit und Sicherheit des Verkehrs gewährleistet ist.
 
-
-## § 2.07 – Zusätzliche Ausrüstung
+# § 2.07 – Zusätzliche Ausrüstung
 
 1. Die bordseitigen, dem Zu- und Abgang dienenden Öffnungen von Personen- und Wagenfähren müssen abweichend von Artikel 19.06 Nummer 10 Buchstabe a und b ES-TRIN durch feste oder flexible Absperrvorrichtungen wie folgt gesichert sein:
 
@@ -438,15 +424,13 @@ Landeklappen können als Absperrvorrichtungen genutzt werden, wenn sie im hochge
 
 2. Kahnfähren und Kahnseilfähren müssen mit einem Paar Riemen oder vergleichbaren Vortriebsmitteln ausgerüstet sein. Ein Hilfsantrieb zur Beherrschung besonderer Betriebslagen ist vorzuhalten.
 
-
-## § 2.08 – Landeklappen
+# § 2.08 – Landeklappen
 
 1. Die Festigkeit von Landeklappen muss ihrem Einsatzzweck entsprechen.
 
 2. Die Landeklappen sind seitlich mit geeigneten Absturzsicherungen zu versehen.
 
-
-## § 3.01 – Begriffsbestimmungen
+# § 3.01 – Begriffsbestimmungen
 
 Abweichend von § 1.01 gelten für dieses Kapitel folgende Begriffsbestimmungen:
 
@@ -462,8 +446,7 @@ Abweichend von § 1.01 gelten für dieses Kapitel folgende Begriffsbestimmungen:
 
 6. „Ablegereife“ der Zustand, bei dessen Erreichen das Seil oder die Kette außer Betrieb genommen werden muss, insbesondere wegen Verschleiß, Längung, Risse, Korrosion oder Brüchen.
 
-
-## § 3.02 – Nachweis der Intaktstabilität für Gierseilfähren
+# § 3.02 – Nachweis der Intaktstabilität für Gierseilfähren
 
 1. Ergänzend zu § 2.02 muss sich der Nachweis ausreichender Intaktstabilität für Gierseilfähren auf Berechnungen für Neigungen der Gierseilfähre nach Oberstrom und nach Unterstrom erstrecken.
 
@@ -478,14 +461,14 @@ c) einer seitlichen Anströmung und
 d) eines Restwasserstandes auf dem Boden des Fährkörpers nach Nummer 8
 
 einen Winkel von 5° nicht überschreitet. Gierseilfähren mit Hilfsantrieb sind mit halbgefüllten Brennstofftanks zu rechnen. Der Nachweis ist in Form einer grafischen Hebelarmbilanz zu erbringen. Dabei sind für mindestens drei angenommene Beladungszustände nach Nummer 4 und mindestens drei Fließgeschwindigkeiten nach Nummer 6 die krängenden Hebelarme in Metern nach der Formel  
-![](../normengrafiken/bgbl1_2018/j1398-1_0010-01.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0010-01.jpg)
 
 und die aufrichtenden Hebelarme in Metern nach der Formel
 
 h<sub>a</sub> = (µ · MF + MG) · sin<sub>φ</sub> – Δh<sub>q</sub>
 
 zu ermitteln. Bei Gierseilfähren, deren Gierseil auf der Sohle des Flussbettes verlegt ist (Grundseilfähren), lautet die Formel für die krängenden Hebelarme in Metern  
-![](../normengrafiken/bgbl1_2018/j1398-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0020.jpg)
 
 In diesen Formeln bedeutet:
 
@@ -532,7 +515,7 @@ der Krängungswinkel der Gierseilfähre und
 die direkte Verminderung der Stabilitätshebelarme durch Queranströmung in Metern (m).
 
 3. Der Nachweis ausreichender Intaktstabilität bei Neigungen nach Unterstrom ist erbracht, wenn die Krängung der Gierseilfähre unter Berücksichtigung der Beladungszustände und der krängenden Einflüsse nach Nummer 2 Satz 1 einen Winkel φ<sub>zul</sub>, der sich aus der Formel  
-![](../normengrafiken/bgbl1_2018/j1398-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0030.jpg)
 
 ergibt, nicht überschreitet. In dieser Formel bedeutet:
 
@@ -549,7 +532,7 @@ B
 die Breite der Gierseilfähre in Höhe des Decks an der Stelle, wo das Maß H angenommen wurde, in Metern (m).
 
 Der Grenzwinkel darf 10° nicht überschreiten. Der Nachweis ist in Form eines grafischen Vergleichs der sich einstellenden Endneigungswinkel mit dem Grenzwinkel für mindestens drei Beladungszustände nach Nummer 4 und mindestens 3 Fließgeschwindigkeiten nach Nummer 6 zu erbringen. Dabei sind die Endneigungswinkel nach der Formel  
-![](../normengrafiken/bgbl1_2018/j1398-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0040.jpg)
 
 zu errechnen. In dieser Formel bedeutet:
 
@@ -563,10 +546,10 @@ h<sub>a</sub>
 der aufrichtende Hebelarm in Metern (m).
 
 Die krängenden Hebelarme in Metern sind dabei nach der Formel  
-![](../normengrafiken/bgbl1_2018/j1398-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0050.jpg)
 
 und die aufrichtenden Hebelarme nach der Formel  
-![](../normengrafiken/bgbl1_2018/j1398-1_0060.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2018/j1398-1_0060.jpg)
 
 zu berechnen. Die Definition der einzelnen Summanden und Faktoren entspricht der Definition in Nummer 2; für W<sub>q</sub> ist jedoch nur der Wert für 0° Neigung einzusetzen.
 
@@ -663,8 +646,7 @@ jeweils bei Niedrigwasserstand, Mittelwasserstand und Hochwasserstand.
 
 10. Während der Fahrt und bei Be- und Entladen der Fähre darf der höchstzulässige Krängungswinkel nach § 3.02 Nummer 3 nicht überschritten und der Restfreibord nach § 3.02 Nummer 7 nicht unterschritten werden, wobei beim Be- und Entladevorgang die Fähre freischwimmend zu betrachten ist, es sei denn, das Fährgefäß wird beim Abstützen auf der Rampe durch eine kraftschlüssige Verbindung in einer festen Lage gehalten.
 
-
-## § 3.03 – Einsenkungsmarken
+# § 3.03 – Einsenkungsmarken
 
 1. Die Vorschrift des Artikels 4.04 ES-TRIN ist nicht anzuwenden.
 
@@ -672,8 +654,7 @@ jeweils bei Niedrigwasserstand, Mittelwasserstand und Hochwasserstand.
 
 3. Die Einsenkungsmarken müssen in der senkrechten Querschnittsebene angebracht sein, die durch den gemittelten Schwerpunkt der Wasserlinienflächen in den Schwimmebenen bei Niedrigwasserstand, Mittelwasserstand und Hochwasserstand verläuft.
 
-
-## § 3.04 – Berechnung und Konstruktion der Seil- und Kettenanlagen
+# § 3.04 – Berechnung und Konstruktion der Seil- und Kettenanlagen
 
 1. Seil- und Kettenanlagen von seil- und kettengebundenen Fähren umfassen im Wesentlichen Seile und Ketten einschließlich der zugehörigen Abspannmasten und Verankerungen.
 
@@ -681,8 +662,7 @@ jeweils bei Niedrigwasserstand, Mittelwasserstand und Hochwasserstand.
 
 3. Der Antragsteller hat den Nachweis der ausreichenden Festigkeitsbestimmung für Seil- und Kettenanlagen durch eine Berechnung zu erbringen. Die Berechnung und Konstruktion der Seil- und Kettenanlagen ist in Anlage 1 und 2 dieses Anhangs geregelt.
 
-
-## § 3.05 – Prüfung
+# § 3.05 – Prüfung
 
 Seil- und Kettenanlagen sind
 
@@ -694,8 +674,7 @@ Seil- und Kettenanlagen sind
 
 von einem Sachverständigen daraufhin zu prüfen, ob die Anlage den Anforderungen dieses Kapitels entspricht. Über die Prüfung ist ein vom Sachverständigen unterzeichnetes Abnahmeprotokoll nach Muster 5 des Anhangs V auszustellen, aus dem das Datum der Prüfung und die Gültigkeitsdauer ersichtlich sind. Eine Kopie hiervon ist der Untersuchungskommission vom Sachverständigen vorzulegen.
 
-
-## § 3.06 – Prüfbedingungen und Prüfinhalte
+# § 3.06 – Prüfbedingungen und Prüfinhalte
 
 Die Seil- und Kettenanlagen sind wie folgt zu prüfen:
 
@@ -715,8 +694,7 @@ Die Seil- und Kettenanlagen sind wie folgt zu prüfen:
 
 8. Bei Hochseilanlagen ist für eine Sichtkontrolle von Mast zu Mast an beiden Masten je eine Markierung anzubringen, die als Kontrollpunkt dient um den Durchhang des Tragseils zu kontrollieren und insbesondere nach größeren Temperaturveränderungen auf das im Fährzeugnis festgelegte Maß zu korrigieren.
 
-
-## § 3.07 – Bescheinigung
+# § 3.07 – Bescheinigung
 
 1. Die Übereinstimmung jeder Seil- und Kettenanlage mit den Anforderungen dieses Kapitels ist im Fährzeugnis zu bescheinigen.
 
@@ -724,8 +702,7 @@ Die Seil- und Kettenanlagen sind wie folgt zu prüfen:
 
 3. Die Gültigkeitsdauer der Bescheinigung beträgt höchstens fünf Jahre. Einer Erneuerung muss eine neue Prüfung nach § 3.05 vorausgehen. Ausnahmsweise kann die Untersuchungskommission auf begründeten Antrag des Eigners oder seines Bevollmächtigten die Gültigkeit der Bescheinigung um höchstens drei Monate verlängern, ohne dass eine Prüfung nach § 3.05 vorausgehen muss. Diese Verlängerung ist im Fährzeugnis einzutragen.
 
-
-## § 4.01 – Übergangsbestimmungen für Fähren, die schon in Betrieb sind
+# § 4.01 – Übergangsbestimmungen für Fähren, die schon in Betrieb sind
 
 Fähren, die den Vorschriften der Kapitel 1 bis 3 nicht entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle bedeuten
 
@@ -742,8 +719,7 @@ Die Vorschrift muss bei der Erteilung oder der nächsten Erneuerung der Gültigk
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§§ und<br />
 Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">2.01 Nr. 4</td><td style="text-align: left;">Fährdecks</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td></tr><tr class="even"><td style="text-align: left;">2.02</td><td style="text-align: left;">Nachweis Intakt- und Leckstabilität</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td></tr><tr class="odd"><td style="text-align: left;">2.07 Nr. 1</td><td style="text-align: left;">Anforderungen an Absperrvorrichtungen</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr><tr class="even"><td style="text-align: left;">3.02</td><td style="text-align: left;">Nachweis Intaktstabilität für Gierseilfähren</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2049</td></tr><tr class="odd"><td style="text-align: left;">3.04 Nr. 3</td><td style="text-align: left;">Nachweis der ausreichenden Festigkeit durch Berechnung</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses nach dem 30. Dezember 2029</td></tr><tr class="even"><td style="text-align: left;">3.05</td><td style="text-align: left;">Prüfung</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr><tr class="odd"><td style="text-align: left;">3.06</td><td style="text-align: left;">Prüfbedingungen</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr><tr class="even"><td style="text-align: left;">3.07</td><td style="text-align: left;">Bescheinigung</td><td style="text-align: left;">N.E.U., spätestens bei Erneuerung des Fährzeugnisses</td></tr></tbody></table>
 
-
-## § 5.01 – Allgemeines
+# § 5.01 – Allgemeines
 
 1. Für Barkassen sind der ES-TRIN und der Anhang III mit den sich aus den nachfolgenden Vorschriften ergebenden Maßgaben anzuwenden.
 
@@ -757,8 +733,7 @@ b) die zu diesem Zeitpunkt nicht zur Beförderung von Fahrgästen zugelassen war
 
 4. Das Fahrtgebiet ist in der Fahrtauglichkeitsbescheinigung einzutragen.
 
-
-## § 5.02 – Schiffskörper
+# § 5.02 – Schiffskörper
 
 1. Bei einer Barkasse muss der wasserdichte Innenboden der Plicht oberhalb der Ebene der größten Einsenkung liegen. Es muss ein Entwässerungssystem vorhanden sein, durch das eingedrungenes Wasser nach außenbords abfließen oder befördert werden kann.
 
@@ -768,8 +743,7 @@ b) die zu diesem Zeitpunkt nicht zur Beförderung von Fahrgästen zugelassen war
 
 4. Bei einer Barkasse, die nicht zur Beförderung von Fahrgästen zugelassen wird, brauchen die Anforderungen der Nummern 1 und 3 sowie der §§ 5.03 bis 5.05 nicht erfüllt zu sein.
 
-
-## § 5.03 – Stabilität
+# § 5.03 – Stabilität
 
 1. Eine Personenbarkasse,
 
@@ -793,20 +767,17 @@ Der rechnerische Nachweis der Schwimmfähigkeit im Leckfall muss für alle Perso
 
 2. Personenbarkassen müssen einen rechnerischen Nachweis der Intaktstabilität erbringen.
 
-
-## § 5.04 – Höchstzulässige Zahl der Fahrgäste
+# § 5.04 – Höchstzulässige Zahl der Fahrgäste
 
 1. Die sich aus der freien Decksfläche ergebende höchstzulässige Zahl der Fahrgäste ist bei Personenbarkassen nach Artikel 19.05 Nummer 2 Buchstabe b ES-TRIN in Verbindung mit Anhang III § 1.02 Buchstabe a, §§ 7.04 und 10.08 Nummer 2 in Abhängigkeit von der zu befahrenden Wasserstraße zu ermitteln.
 
 2. Die Untersuchungskommission kann mit der Festlegung der höchstzulässigen Zahl der Fahrgäste zusätzliche Auflagen, insbesondere im Hinblick auf Fahrtgrenzen, Wetterbedingungen und zeitliche Grenzen, verbinden. Diese Auflagen sind in die Fahrtauglichkeitsbescheinigung einzutragen.
 
-
-## § 5.05 – Freibord und Sicherheitsabstand
+# § 5.05 – Freibord und Sicherheitsabstand
 
 Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Überprüfung des Sicherheitsabstandes und für die Festsetzung der Ebene der größten Einsenkung Artikel 19.03 Nummer 3 ES-TRIN in Verbindung mit Anhang III § 1.02 Buchstabe a, §§ 7.03 und 10.05 in Abhängigkeit von der zu befahrenden Wasserstraße sinngemäß anzuwenden.
 
-
-## § 5.06 – Rettungsmittel
+# § 5.06 – Rettungsmittel
 
 1. Mindestens ein Rettungsring nach Artikel 13.08 Nummer 1 ES-TRIN muss mit einer mindestens 30 m langen, schwimmfähigen Leine von 8 bis 11 mm Durchmesser versehen sein.
 
@@ -816,8 +787,7 @@ Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Übe
 
 4. Hat eine Barkasse festüberdachte Räume, so müssen mindestens 30 vom Hundert der Rettungswesten in der offenen Plicht griffbereit gelagert sein.
 
-
-## § 5.07 – Anker
+# § 5.07 – Anker
 
 1. Barkassen müssen mit einem Buganker ausgerüstet sein.
 
@@ -825,15 +795,13 @@ Bei einer Personenbarkasse ist für die Berechnung des Freibordes, für die Übe
 
 3. Die Ankerkette muss mindestens 45 m lang sein.
 
-
-## § 5.08 – Ausrüstung
+# § 5.08 – Ausrüstung
 
 1. Ausrüstungsgegenstände nach Artikel 13.02 Nummer 2 Buchstabe b Doppelbuchstabe bb bis ee ES-TRIN (Behälter) und nach Artikel 13.02 Nummer 3 Buchstabe d ES-TRIN (Landsteg) braucht eine Barkasse nicht an Bord zu haben.
 
 2. Als Einrichtung zur Brandbekämpfung müssen insgesamt zwei tragbare Feuerlöscher, die den Anforderungen des Artikels 13.03 Nummer 2 ES-TRIN genügen, im Steuerstand und an einer anderen leicht zugänglichen Stelle vorhanden sein.
 
-
-## § 6.01 – Übergangsbestimmungen für Barkassen, die schon in Betrieb sind
+# § 6.01 – Übergangsbestimmungen für Barkassen, die schon in Betrieb sind
 
 Barkassen, die den Vorschriften des Kapitels 5 nicht entsprechen, müssen den in nachstehender Tabelle aufgeführten Übergangsbestimmungen angepasst werden. In der Tabelle bedeuten
 
@@ -845,8 +813,7 @@ Die Vorschrift gilt nicht für Barkassen, die schon in Betrieb sind, es sei denn
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 12%" /><col style="width: 38%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th style="text-align: left;">§§ und<br />
 Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;">Frist oder Bemerkungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">5.01 Nr. 1</td><td style="text-align: left;">Allgemeines</td><td style="text-align: left;">E.U.</td></tr></tbody></table>
 
-
-## § 7.01 – Allgemeine Bestimmungen
+# § 7.01 – Allgemeine Bestimmungen
 
 1. Auf der Wasserstraße nach Anhang I Zone 1, auf der Wasserstraße Rhein nach Anhang I Zone 3 und auf der Wasserstraße Oder nach Anhang I Zone 4 sind Fahrgastboote nicht zugelassen.
 
@@ -859,8 +826,7 @@ Nummer</th><th style="text-align: left;">Inhalt</th><th style="text-align: left;
 (+++ § 7.01 Nr. 3 u. 4: Zur Nichtanwendung vgl. § 32 Satz 2 BinSchUO 2018 +++)  
 (+++ § 7.01 Nr. 3 u. 4: Zur Anwendung vgl. § 33 Abs. 2 Satz 1 BinSchUO 2018 +++)
 
-
-## § 7.02 – Anforderungen an Fahrgastboote in Zone 2
+# § 7.02 – Anforderungen an Fahrgastboote in Zone 2
 
 Für die Wasserstraßen nach Anhang I Zone 2 zugelassene Fahrgastboote unterliegen folgenden Anforderungen an Ausrüstung und Betrieb:
 
@@ -902,8 +868,7 @@ g) Rettungswesten nach Artikel 13.08 Nummer 2 ES-TRIN für insgesamt 100 Prozent
 
 (+++ § 7.02 Nr. 6: Zur Nichtanwendung vgl. § 7.04 Satz 1 Nr. 1 +++)
 
-
-## § 7.03 – Anforderungen an Fahrgastboote in Zone 3 oder 4
+# § 7.03 – Anforderungen an Fahrgastboote in Zone 3 oder 4
 
 Für die Wasserstraßen nach Anhang I Zone 3 oder 4 zugelassene Fahrgastboote unterliegen folgenden Anforderungen an Ausrüstung und Betrieb:
 
@@ -937,8 +902,7 @@ d) Rettungswesten nach Artikel 13.08 Nummer 2 ES-TRIN für insgesamt 100 Prozent
 
 (+++ § 7.03 Nr. 5: Zur Anwendung vgl. § 7.04 Satz 1 Nr. 1 +++)
 
-
-## § 7.04 – Anforderungen an Fahrgastboote mit Segeln
+# § 7.04 – Anforderungen an Fahrgastboote mit Segeln
 
 Fahrgastboote nach den §§ 7.02 und 7.03, die gebaut und eingerichtet sind, um hauptsächlich durch Segel fortbewegt zu werden, unterliegen zusätzlich folgenden Anforderungen an Ausrüstung und Betrieb:
 
@@ -952,18 +916,15 @@ Fahrgastboote nach den §§ 7.02 und 7.03, die gebaut und eingerichtet sind, um 
 
 Die Prüfbescheinigung nach Satz 1 Nummer 2 und die Reffvorschrift nach Satz 1 Nummer 3 sind der Generaldirektion Wasserstraßen und Schifffahrt vor der erstmaligen Inbetriebnahme des Fahrgastbootes vorzulegen.
 
-
-## § 7.05 – Sicherheit am Arbeitsplatz
+# § 7.05 – Sicherheit am Arbeitsplatz
 
 Soweit die Vorschriften dieses Kapitels nicht entgegenstehen, gelten die Artikel 14.01 bis 14.06, 14.08, 14.09, 14.11 und 14.13 ES-TRIN entsprechend. Weitergehende arbeitsschutzrechtliche Vorschriften bleiben unberührt.
 
-
-## § 7.06 – Übergangs- und Sonderbestimmungen
+# § 7.06 – Übergangs- und Sonderbestimmungen
 
 Die §§ 7.02 und 7.04 gelten bis zum Ablauf des 6. Oktober 2033 nicht für Fahrzeuge für die Boddengewässer, die gebaut und eingerichtet sind, um auch durch Segel fortbewegt zu werden (Zeesboote), die schon in Betrieb sind. Auf diese Zeesboote ist die Binnenschiffsuntersuchungsordnung in der bis zum 6. Oktober 2018 geltenden Fassung anzuwenden.
 
-
-## § 8.01 – Abweichungen hinsichtlich Zulassung
+# § 8.01 – Abweichungen hinsichtlich Zulassung
 
 Für Fahrgastboote sind die jeweiligen Vorschriften mit den folgenden Maßgaben anzuwenden:
 
@@ -973,24 +934,20 @@ Für Fahrgastboote sind die jeweiligen Vorschriften mit den folgenden Maßgaben 
 
 3. Auf der Grundlage dieses Abnahmeprotokolls erteilt die Generaldirektion Wasserstraßen und Schifffahrt eine Fahrtauglichkeitsbescheinigung nach Maßgabe des § 11 dieser Verordnung. Der zuständigen Berufsgenossenschaft ist vor der Erteilung der Fahrtauglichkeitsbescheinigung die Gelegenheit zur Stellungnahme zu geben, damit diese ihre Aufgabe nach § 4 Absatz 4 Satz 2 dieser Verordnung wahrnehmen kann.
 
-
-## Anlage 1 – Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang II § 3.04
+# Anlage 1 – Berechnungsgrundlagen für Hochseilanlagen der Gierfähren auf Wasserstraßen zu Anhang II § 3.04
 
 (Fundstelle: BGBl. I 2018, 1438 - 1448)
 
 Anlage 1 Anlage A Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Emittlung" durch das Wort "Ermittlung" ersetzt
 
-
-## Anlage A – zur Anlage 1 des Anhangs IIErmittlung der Seilkräfte
+# Anlage A – zur Anlage 1 des Anhangs IIErmittlung der Seilkräfte
 
 (Fundstelle: BGBl. I 2018, 1449 - 1454)
 
-
-## Anlage B – zur Anlage 1 des Anhangs IIQuerwiderstandsbeiwert
+# Anlage B – zur Anlage 1 des Anhangs IIQuerwiderstandsbeiwert
 
 (Fundstelle: BGBl. I 2018, 1455 - 1457)
 
-
-## Anlage 2 – Berechnungsgrundlagen für Gierfähren, die nicht an einer Hochseilanlage befestigt sind, sowie für Querseilfähren (Kahnseilfähren, Seilfähren und Kettenfähren) zu Anhang II § 3.04
+# Anlage 2 – Berechnungsgrundlagen für Gierfähren, die nicht an einer Hochseilanlage befestigt sind, sowie für Querseilfähren (Kahnseilfähren, Seilfähren und Kettenfähren) zu Anhang II § 3.04
 
 (Fundstelle: BGBl. I 2018, 1458)

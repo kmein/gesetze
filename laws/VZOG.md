@@ -1,10 +1,7 @@
-# [VZOG] Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen  (Vermögenszuordnungsgesetz - VZOG)
-
-Ausfertigungsdatum: 22.03.1991
-
+% Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen  (Vermögenszuordnungsgesetz - VZOG)
+% Ausfertigungsdatum: 22.03.1991
  
-
-## § 1 – Zuständigkeit
+# § 1 – Zuständigkeit
 
 (1) Zur Feststellung, wer in welchem Umfang nach den Artikeln 21 und 22 des Einigungsvertrages, nach diesen Vorschriften in Verbindung mit dem Kommunalvermögensgesetz vom 6. Juli 1990 (GBl. I Nr. 42 S. 660), das nach Anlage II Kapitel IV Abschnitt III Nr. 2 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1199) fortgilt, nach dem Treuhandgesetz vom 17. Juni 1990 (GBl. I Nr. 33 S. 300), das nach Artikel 25 des Einigungsvertrages fortgilt, seinen Durchführungsverordnungen und den zur Ausführung dieser Vorschriften ergehenden Bestimmungen sowie nach dem Wohnungsgenossenschafts-Vermögensgesetz und § 1a Abs. 4 kraft Gesetzes übertragene Vermögensgegenstände erhalten hat, ist vorbehaltlich der Regelung des § 4 zuständig
 
@@ -34,8 +31,7 @@ d) nach Artikel 21 Abs. 1 Satz 2 und Artikel 22 Abs. 1 Satz 2 des Einigungsvertr
 
 (7) Eine Entscheidung nach diesem Gesetz kann nicht wegen eines Verstoßes gegen die Bestimmungen über die Zuständigkeit angefochten werden.
 
-
-## § 1a – Begriff des Vermögens
+# § 1a – Begriff des Vermögens
 
 (1) Vermögensgegenstände im Sinne dieses Gesetzes sind bebaute und unbebaute Grundstücke sowie rechtlich selbständige Gebäude und Baulichkeiten (Grundstücke und Gebäude), Nutzungsrechte und dingliche Rechte an Grundstücken und Gebäuden, bewegliche Sachen, gewerbliche Schutzrechte sowie Unternehmen. Dazu gehören ferner Verbindlichkeiten, Ansprüche sowie Rechte und Pflichten aus Schuldverhältnissen, soweit sie Gegenstand der Zuteilung nach den in § 1 bezeichneten Vorschriften sind.
 
@@ -47,8 +43,7 @@ d) nach Artikel 21 Abs. 1 Satz 2 und Artikel 22 Abs. 1 Satz 2 des Einigungsvertr
 
 § 1a: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 11.3.1997 I 1340 (2 BvF 2/95)
 
-
-## § 1b – Abwicklung von Entschädigungsvereinbarungen
+# § 1b – Abwicklung von Entschädigungsvereinbarungen
 
 (1) Vermögenswerte, die Gegenstand der in § 1 Abs. 8 Buchstabe b des Vermögensgesetzes genannten Vereinbarungen sind, sind, wenn dieser nicht etwas anderes bestimmt, dem Bund (Entschädigungsfonds) zuzuordnen, wenn die in den Vereinbarungen bestimmten Zahlungen geleistet sind. Ist das Grundstück im Grundbuch als Eigentum des Volkes ausgewiesen, gelten die in § 1 genannten Zuordnungsvorschriften.
 
@@ -58,8 +53,7 @@ d) nach Artikel 21 Abs. 1 Satz 2 und Artikel 22 Abs. 1 Satz 2 des Einigungsvertr
 
 (4) Die Befugnisse nach § 11c des Vermögensgesetzes bleiben unberührt, solange ein Zuordnungsbescheid nicht bestandskräftig geworden und dies dem Grundbuchamt angezeigt ist.
 
-
-## § 1c – Rückabwicklung zuordnungswidriger Veräußerungen
+# § 1c – Rückabwicklung zuordnungswidriger Veräußerungen
 
 (1) Sind bei der Privatisierung von Treuhandunternehmen im Wege des Anteilsverkaufs mit dem Unternehmen Vermögenswerte auf den Erwerber übergegangen, die im Zeitpunkt der Anteilsveräußerung
 
@@ -83,8 +77,7 @@ ist der Vermögenswert dem aus diesen Vorschriften Berechtigten auf Antrag zuzuo
 
 (4) Die vorstehenden Absätze gelten für die Anwendung des Gesetzes über Vermögensfragen der Sozialversicherung im Beitrittsgebiet und § 3 der Bestimmungen zur Abwicklung des Trägers der Sozialversicherung in Anlage I Kapitel VIII Sachgebiet F Abschnitt II Nr. 1 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 889, 1042) in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885) entsprechend.
 
-
-## § 2 – Verfahren
+# § 2 – Verfahren
 
 (1) Über den Vermögensübergang, die Vermögensübertragung oder in den Fällen des § 1 Abs. 2 erläßt die zuständige Stelle nach Anhörung aller neben dem Antragsteller sonst in Betracht kommenden Berechtigten einen Bescheid, der allen Verfahrensbeteiligten nach Maßgabe des Absatzes 5 zuzustellen ist. Der Bescheid kann auch nach Veräußerung des Vermögenswerts ergehen. In diesem Fall ist der Erwerber, bei einem Unternehmen dessen gesetzlicher Vertreter, anzuhören. Der Bescheid kann die ausdrückliche Feststellung enthalten, daß ein Erwerb des zugeordneten Vermögensgegenstandes durch eine Person, die nicht Begünstigte der Zuordnung sein kann, unwirksam ist. Er ergeht ansonsten vorbehaltlich des Eigentums, der Rechtsinhaberschaft oder sonstiger privater Rechte Dritter oder im einzelnen bezeichneter Beteiligter an dem Vermögensgegenstand. Bei vorheriger Einigung der Beteiligten, die, ohne Rechte anderer Zuordnungsberechtigter zu verletzen, auch von den in § 1 genannten Bestimmungen abweichen darf, ergeht ein dieser Absprache entsprechender Bescheid. In diesen Fällen wird der Bescheid sofort bestandskräftig, wenn nicht der Widerruf innerhalb einer in dem Bescheid zu bestimmenden Frist, die höchstens einen Monat betragen darf, vorbehalten wird.
 
@@ -118,8 +111,7 @@ Auf Antrag des Berechtigten sind aus den ihm zukommenden Flächen in dem Zuordnu
 
 (7) Für Zuordnungsbescheide nach diesem Gesetz findet § 3a des Verwaltungsverfahrensgesetzes keine Anwendung.
 
-
-## § 3 – Grundbuchvollzug
+# § 3 – Grundbuchvollzug
 
 (1) Ist Gegenstand des Bescheides ein Grundstück oder Gebäude oder ein Recht an einem Grundstück oder Gebäude, so ersucht die zuständige Stelle das Grundbuchamt um Eintragung der insoweit in dem Bescheid getroffenen Feststellungen, sobald der Bescheid bestandskräftig geworden ist. Sind einer Person, die als Eigentümer im Grundbuch eingetragen ist, gemäß § 2 Abs. 1 Satz 5 ihre Rechte vorbehalten worden, ersucht die Behörde um Eintragung eines Widerspruchs gegen die Richtigkeit des Grundbuchs; um Eintragung des Zuordnungsbegünstigten als Eigentümer ersucht die Behörde erst, wenn die Eintragung bewilligt oder die fehlende Berechtigung der eingetragenen Person durch rechtskräftiges Urteil festgestellt worden ist. In den Fällen des § 2 Abs. 2 Satz 2 soll das Ersuchen dem Grundbuchamt erst zugeleitet werden, wenn das neu gebildete Grundstück vermessen ist; die Übereinstimmung des Vermessungsergebnisses mit dem Plan ist von der nach § 1 zuständigen Behörde zu bestätigen. In den Fällen des § 2 Abs. 2a bis 2c dient bis zur Berichtigung des Liegenschaftskatasters der Zuordnungsplan als amtliches Verzeichnis der Grundstücke (§ 2 Abs. 2 der Grundbuchordnung). In diesem Fall kann das Grundbuchamt schon vor der Berichtigung des Liegenschaftskatasters um Berichtigung des Grundbuchs ersucht werden.
 
@@ -127,8 +119,7 @@ Auf Antrag des Berechtigten sind aus den ihm zukommenden Flächen in dem Zuordnu
 
 (3) Gebühren für die Grundbuchberichtigung oder die Eintragung im Grundbuch auf Grund eines Ersuchens nach Absatz 1 werden nicht erhoben. Dies gilt auch für die Eintragung desjenigen, der das Grundstück oder Gebäude von dem in dem Zuordnungsbescheid ausgewiesenen Berechtigten erwirbt, sofern der Erwerber eine juristische Person des öffentlichen Rechts oder eine juristische Person des Privatrechts ist, deren Anteile mehrheitlich einer juristischen Person des öffentlichen Rechts gehören.
 
-
-## § 4 – Grundvermögen von Kapitalgesellschaften
+# § 4 – Grundvermögen von Kapitalgesellschaften
 
 (1) Der Präsident der Treuhandanstalt oder eine von ihm zu ermächtigende Person kann durch Bescheid feststellen, welcher Kapitalgesellschaft, deren sämtliche Anteile sich unmittelbar oder mittelbar in der Hand der Treuhandanstalt befinden oder befunden haben, ein Grundstück oder Gebäude nach § 11 Abs. 2, § 23 des Treuhandgesetzes oder nach § 2 der Fünften Durchführungsverordnung zum Treuhandgesetz vom 12. September 1990 (GBl. I Nr. 60 S. 1466), die nach Anlage II Kapitel IV Abschnitt I Nr. 11 des Einigungsvertrages vom 31. August 1990 und der Vereinbarung vom 18. September 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1241) fortgilt, in welchem Umfang übertragen ist. In den Fällen des § 2 der Fünften Durchführungsverordnung zum Treuhandgesetz muß der Bescheid die in deren § 4 Abs. 1 Satz 2 aufgeführten Angaben enthalten.
 
@@ -136,15 +127,13 @@ Auf Antrag des Berechtigten sind aus den ihm zukommenden Flächen in dem Zuordnu
 
 (3) § 1 Abs. 6, § 2 Abs. 1 und 2 bis 6, § 3 Abs. 1 Satz 2 und Abs. 2 bis 4 gelten sinngemäß.
 
-
-## § 5 – Schiffe, Schiffsbauwerke und Straßen
+# § 5 – Schiffe, Schiffsbauwerke und Straßen
 
 (1) Die Bestimmungen des § 3 Abs. 1 Satz 1, Abs. 2 bis 4 und des § 4 gelten entsprechend für im Schiffsregister eingetragene Schiffe und im Schiffsbauregister eingetragene Schiffsbauwerke.
 
 (2) Die in Anlage I Kapitel XI Sachgebiet F Abschnitt III Nr. 1 Buchstabe b des Einigungsvertrages vom 31. August 1990 (BGBl. II S. 889, 1111) zum Bundesfernstraßengesetz vorgesehene Maßgabe bleibt unberührt. Wenn Eigentum an anderen öffentlichen Straßen auf öffentliche Körperschaften übergegangen ist, wird der Übergang des Eigentums entsprechend der Maßgabe b zum Bundesfernstraßengesetz festgestellt; dies gilt nicht, soweit der Präsident der Treuhandanstalt nach § 1 Abs. 1 Satz 1 Nr. 1 zuständig ist. Zuständig für die Stellung des Antrags auf Berichtigung des Grundbuchs ist in den Fällen des Satzes 2 der jeweilige Träger der Straßenbaulast.
 
-
-## § 6 – Rechtsweg
+# § 6 – Rechtsweg
 
 (1) Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben. Die Berufung gegen ein Urteil und die Beschwerde gegen eine andere Entscheidung des Verwaltungsgerichts sind ausgeschlossen. Das gilt nicht für die Beschwerde gegen die Nichtzulassung der Revision nach § 135 in Verbindung mit § 133 der Verwaltungsgerichtsordnung und die Beschwerde gegen Beschlüsse über den Rechtsweg nach § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen die Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
 
@@ -152,8 +141,7 @@ Auf Antrag des Berechtigten sind aus den ihm zukommenden Flächen in dem Zuordnu
 
 (3) Gerichtskosten werden in Verfahren nach diesem Gesetz nicht erhoben. Der Gegenstandswert beträgt unabhängig von der Zahl und dem Wert der jeweils betroffenen Vermögensgegenstände 5.000 Euro.
 
-
-## § 7 – Durchführungsvorschriften
+# § 7 – Durchführungsvorschriften
 
 (1) Das Vermögensgesetz sowie Leitungsrechte und die Führung von Leitungen für Ver- und Entsorgungsleitungen, die nicht zugeordnet werden können, bleiben unberührt. Bestehende Leitungen, die nicht zugeordnet sind, sind vorbehaltlich abweichender Bestimmungen in dem Grundbuchbereinigungsgesetz oder dem in Artikel 233 § 3 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Gesetz für die Dauer ihrer derzeitigen Nutzung einschließlich Betrieb und Unterhaltung zu dulden; § 1023 des Bürgerlichen Gesetzbuchs gilt sinngemäß; abweichende Vereinbarungen sind zulässig.
 
@@ -167,8 +155,7 @@ Auf Antrag des Berechtigten sind aus den ihm zukommenden Flächen in dem Zuordnu
 
 (6) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung die Zuständigkeiten des Präsidenten der Treuhandanstalt und die Zuständigkeiten eines Oberfinanzpräsidenten ganz oder teilweise auf eine andere Behörde des Bundes zu übertragen.
 
-
-## § 8 – Verfügungsbefugnis
+# § 8 – Verfügungsbefugnis
 
 (1) Zur Verfügung über Grundstücke und Gebäude, die im Grundbuch oder Bestandsblatt noch als Eigentum des Volkes eingetragen sind, sind unabhängig von der Richtigkeit dieser Eintragung befugt:
 
@@ -198,20 +185,17 @@ b) eine öffentliche oder öffentlich beglaubigte Urkunde hierüber dem Grundbuc
 
 (5) Die verfügende Stelle kann im Falle des Absatzes 4 Satz 2 anstelle der Auskehrung des Erlöses oder des Wertes das Eigentum an dem Grundstück, Grundstücksteil oder Gebäude oder an einem Ersatzgrundstück verschaffen. Beabsichtigt die verfügende Stelle nach Satz 1 vorzugehen, wird auf Antrag der verfügenden Stelle das Eigentum durch Zuordnungsbescheid (§ 2) der zuständigen Behörde (§ 1) auf den Berechtigten (Absatz 4 Satz 2) übertragen. Sätze 1 und 2 finden keine Anwendung auf den in § 1 Abs. 6 des Wohnungsgenossenschafts-Vermögensgesetzes bezeichneten Grund und Boden; insoweit gilt das in jener Vorschrift vorgesehene Verfahren.
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
-
-## § 10 – Kommunale Vorhaben
+# § 10 – Kommunale Vorhaben
 
 (1) Auf Antrag überträgt der Präsident der Treuhandanstalt der Kommune durch Zuordnungsbescheid Einrichtungen, Grundstücke und Gebäude, die nach Maßgabe der Artikel 21 und 22 des Einigungsvertrages Selbstverwaltungsaufgaben dienen, wenn sie im Eigentum von Unternehmen stehen, deren sämtliche Anteile sich unmittelbar oder mittelbar in der Hand der Treuhandanstalt befinden. Im Falle der Übertragung nach Satz 1 sind die Eröffnungsbilanz des Treuhandunternehmens und die Gesamtbilanz der Treuhandanstalt in entsprechender Anwendung des § 36 des D-Markbilanzgesetzes zu berichtigen. Die Treuhandanstalt haftet auf Grund von Maßnahmen nach Satz 1 über die Vorschriften des Abschnitts 3 des D-Markbilanzgesetzes hinaus nicht. Satz 1 gilt nicht für Einrichtungen, Grundstücke und Gebäude, die der gewerblichen Nutzung zugeführt oder in eine Unternehmenseinheit einbezogen wurden und nicht ohne erhebliche Beeinträchtigung des Unternehmens übertragen werden können (betriebsnotwendige Einrichtungen, Grundstücke oder Gebäude) oder wenn die Kommune einen Anspruch nach § 4 Abs. 2 des Kommunalvermögensgesetzes auf Übertragung von Anteilen an dem Unternehmen hat. Mit der Übertragung tritt die Kommune in alle in bezug auf die Einrichtung, das Grundstück oder das Gebäude jeweils bestehenden Rechtsverhältnisse ein.
 
 (2) Wurden Vermögenswerte nach Absatz 1 auf Dritte übertragen, ist der Kommune der Erlös auszukehren. Weitergehende Ansprüche bestehen nicht.
 
-
-## § 11 – Umfang der Rückübertragung von Vermögenswerten
+# § 11 – Umfang der Rückübertragung von Vermögenswerten
 
 (1) Eine Rückübertragung von Vermögensgegenständen nach Artikel 21 Abs. 3 Halbsatz 1 und Artikel 22 Abs. 1 Satz 7 in Verbindung mit Artikel 21 Abs. 3 Halbsatz 1 des Einigungsvertrages (Restitution) kann unbeschadet der weiteren Voraussetzungen der Artikel 21 und 22 von dem jeweiligen Eigentümer oder Verfügungsberechtigten beansprucht werden. Die Rückübertragung eines Vermögenswertes wird nicht allein dadurch ausgeschlossen, daß dieser gemäß § 11 Abs. 2 des Treuhandgesetzes in das Eigentum einer Kapitalgesellschaft, deren sämtliche Aktien oder Geschäftsanteile sich noch in der Hand der Treuhandanstalt befinden, übergegangen ist. Die Rückübertragung ist ausgeschlossen, wenn
 
@@ -231,8 +215,7 @@ b) eine öffentliche oder öffentlich beglaubigte Urkunde hierüber dem Grundbuc
 
 § 11: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 11.3.1997 I 1340 (2 BvF 2/95)
 
-
-## § 12 – Erlaubte Maßnahmen
+# § 12 – Erlaubte Maßnahmen
 
 (1) Soweit ein Vermögensgegenstand der Restitution unterliegt oder unterliegen kann, die nicht nach § 11 Abs. 1 Nr. 1 bis 3 und 5 ausgeschlossen ist, ist eine Verfügung, eine Bebauung oder eine längerfristige Vermietung oder Verpachtung zulässig, wenn sie zur Durchführung einer erlaubten Maßnahme dient. Erlaubt sind Maßnahmen, wenn sie
 
@@ -256,8 +239,7 @@ e) Umsetzung eines festgestellten öffentlichen Planungsvorhabens und
 
 (4) Ist ein Antrag nach Absatz 3 gestellt, darf die Maßnahme erst nach dessen Ablehnung durchgeführt werden. Die Stellung des Antrags hat der Antragsteller dem Verfügungsberechtigten, bis zu dessen Feststellung dem Verfügungsbefugten, mitzuteilen.
 
-
-## § 13 – Geldausgleich bei Ausschluß der Rückübertragung
+# § 13 – Geldausgleich bei Ausschluß der Rückübertragung
 
 (1) Derjenige, dessen Anspruch nach § 11 Abs. 1 Nr. 3 ausgeschlossen ist oder entsprechend den darin enthaltenen Grundsätzen vor dem Inkrafttreten dieser Vorschrift bestandskräftig verneint worden ist, kann von dem durch Zuordnungsbescheid festgestellten unmittelbaren oder mittelbaren Eigentümer des Unternehmens Zahlung eines Geldausgleichs nach Maßgabe des in § 9 Abs. 3 des Vermögensgesetzes genannten Gesetzes verlangen, sofern die Voraussetzung für den Ausschluß nicht bis zum Ablauf des 29. September 1990 entstanden sind.
 
@@ -265,46 +247,38 @@ e) Umsetzung eines festgestellten öffentlichen Planungsvorhabens und
 
 (3) Über Ansprüche nach dieser Vorschrift entscheidet die nach § 1 zuständige Stelle, in deren Bezirk der Vermögenswert liegt, durch Bescheid nach § 2. Unbeschadet des § 2 Abs. 1 Satz 2 sind Vergleiche zulässig. § 11 Abs. 2 Satz 6 gilt entsprechend.
 
+# §§ 14 und 15 – ----
 
-## §§ 14 und 15 – ----
-
-
-## § 16 – Vorrangiger Übergang von Reichsvermögen
+# § 16 – Vorrangiger Übergang von Reichsvermögen
 
 Ein Eigentumserwerb nach Artikel 21 Abs. 3 Halbsatz 2 und Artikel 22 Abs. 1 Satz 7 in Verbindung mit Artikel 21 Abs. 3 Halbsatz 2 des Einigungsvertrages gilt unter den Voraussetzungen des § 11 Abs. 1 als nicht erfolgt. Maßnahmen nach § 12 können von der Stelle durchgeführt werden, der der Vermögensgegenstand ohne den Übergang auf den Bund zufiele. § 11 Abs. 2 und die §§ 13 und 14 gelten für einen Eigentumsübergang nach jenen Vorschriften sinngemäß.
 
-
-## § 17 – Anwendung dieses Gesetzes
+# § 17 – Anwendung dieses Gesetzes
 
 Dieses Gesetz gilt für Eigentumsübergänge oder eine Übertragung des Eigentums nach Maßgabe der Artikel 26, 27 und 36 Abs. 1 des Einigungsvertrages und der nachfolgenden Vorschriften entsprechend. Hierbei kann, soweit durch Bundesgesetz nicht ein anderes bestimmt wird, Eigentum auch auf juristische Personen übertragen werden, die aus einem der darin genannten Sondervermögen hervorgegangen sind.
 
-
-## § 18 – Vorschriften für das Sondervermögen Deutsche Reichsbahn
+# § 18 – Vorschriften für das Sondervermögen Deutsche Reichsbahn
 
 (1) Unbeschadet des Vermögensübergangs auf das Sondervermögen im übrigen ist Artikel 26 Abs. 1 Satz 2 des Einigungsvertrages mit der Maßgabe anzuwenden, daß die dort genannten Vermögensgegenstände durch Zuordnungsbescheid gemäß § 2 auf das Sondervermögen Deutsche Reichsbahn oder aus ihm durch Gesetz gebildete Sondervermögen oder juristische Personen zu übertragen sind. Die Widmung für einen anderen Zweck ist, auch wenn ihr von seiten des Sondervermögens oder seiner Rechtsvorgänger zugestimmt wurde, nur beachtlich, wenn der Abgang nicht den Grundsätzen einer unter den Bedingungen der früheren Deutschen Demokratischen Republik ordnungsgemäßen Eisenbahnwirtschaft widersprochen hat. Die Übertragung erfolgt nur auf Antrag des Sondervermögens; dieser kann bis zum Ablauf des 30. Juni 1994 gestellt werden. Soweit auf Grund dieser Vorschriften über einen Eigentumsübergang auf das Sondervermögen rechtskräftig entschieden worden ist, bleibt es hierbei.
 
 (2) Artikel 26 Abs. 1 Satz 3 des Einigungsvertrages ist nicht mehr anzuwenden. Die Ämter zur Regelung offener Vermögensfragen geben von Amts wegen bei ihnen durch das Sondervermögen eingereichte Anmeldungen an den für das Land jeweils zuständigen Oberfinanzpräsidenten ab, der sie an die zuständige Stelle weiterleitet. Sie gelten als Antrag nach Absatz 1 Satz 3.
 
-
-## § 19 – Vorschriften für das Sondervermögen Deutsche Bundespost
+# § 19 – Vorschriften für das Sondervermögen Deutsche Bundespost
 
 (1) Unbeschadet des Vermögensübergangs auf das Sondervermögen im übrigen ist Artikel 27 Abs. 1 Satz 5 mit der Maßgabe anzuwenden, daß die dort genannten Vermögensgegenstände durch Zuordnungsbescheid gemäß § 2 auf das Sondervermögen Deutsche Bundespost oder daraus durch Gesetz gebildete juristische Personen zu übertragen sind. Die Widmung für einen anderen Zweck ist, auch wenn ihr von seiten des Postvermögens oder seiner Rechtsvorgänger zugestimmt wurde, nur beachtlich, wenn der Abgang nicht den Grundsätzen einer unter den Bedingungen der früheren Deutschen Demokratischen Republik ordnungsgemäßen postalischen Wirtschaft widersprochen hat. Die Entscheidung erfolgt nur auf Antrag des Sondervermögens; dieser kann bis zum Ablauf des 30. Juni 1994 gestellt werden. Soweit auf Grund dieser Vorschriften über einen Eigentumsübergang auf das Sondervermögen rechtskräftig entschieden worden ist, bleibt es hierbei.
 
 (2) Artikel 27 Abs. 1 Satz 6 des Einigungsvertrages ist nicht mehr anzuwenden. Die Ämter zur Regelung offener Vermögensfragen geben vom Amts wegen bei ihnen durch das Sondervermögen eingereichte Anmeldungen an den für das Land jeweils zuständigen Oberfinanzpräsidenten ab, der sie an die zuständige Stelle weiterleitet. Sie gelten als Antrag nach Absatz 1 Satz 3.
 
-
-## § 20 – Vorschriften für den Rundfunk und das Fernsehen der früheren DDR
+# § 20 – Vorschriften für den Rundfunk und das Fernsehen der früheren DDR
 
 Vermögensgegenstände und -werte, die nach Artikel 36 Abs. 1 des Einigungsvertrages nicht dem Sondervermögen Deutsche Bundespost zugeordnet sind, stehen den Ländern des in Artikel 3 des Einigungsvertrages genannten Gebietes zur gesamten Hand zu. Artikel 36 Abs. 6 des Einigungsvertrages bleibt im übrigen unberührt. Die Länder können beantragen, daß Vermögensgegenstände und -werte nach dem Ergebnis einer Einigung der beteiligten Stellen durch Zuordnungsbescheid unmittelbar oder nach erfolgter Zuordnung an die Länder einer einzelnen Anstalt oder einem der in Satz 1 genannten Länder zugeordnet werden. Für den Fall einer einvernehmlichen Zuordnung an eine einzelne Landesrundfunkanstalt ist deren vorherige Zustimmung erforderlich.
 
-
-## § 21 – Verhältnis zu anderen Vorschriften
+# § 21 – Verhältnis zu anderen Vorschriften
 
 (1) § 11 Abs. 2 Satz 2 des Treuhandgesetzes und die Bestimmungen der Fünften Durchführungsverordnung zum Treuhandgesetz bleiben unberührt.
 
 (2) Artikel 21 Abs. 3 und Artikel 22 Abs. 1 Satz 7 in Verbindung mit Artikel 21 Abs. 3 des Einigungsvertrages und die Vorschriften des Abschnitts 3 gelten für das in den Artikeln 26, 27 und 36 des Einigungsvertrages genannte Vermögen entsprechend.
 
-
-## § 22 – Überleitungsvorschrift
+# § 22 – Überleitungsvorschrift
 
 Auf vor dem 7. Februar 2002 noch nicht bestandskräftig abgeschlossene Verfahren nach den §§ 9 und 15 ist dieses Gesetz in seiner bis zu diesem Zeitpunkt geltenden Fassung anzuwenden.\*

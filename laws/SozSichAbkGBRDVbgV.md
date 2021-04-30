@@ -1,15 +1,11 @@
-# [SozSichAbkGBRDVbgV] Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit
-
-Ausfertigungsdatum: 15.12.1967
-
+% Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit
+% Ausfertigungsdatum: 15.12.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 5 Buchstabe a) des Gesetzes vom 15. September 1965 (Bundesgesetzbl. II S. 1273) zu der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs. (1) Nr. 1 Buchstabe g) der Vereinbarung wird die
 
@@ -25,13 +21,11 @@ bestimmt.
 
 § 1 Kursivdruck: Vgl. § 243 AFG
 
-
-## § 2
+# § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 6 Satz 2 des Gesetzes vom 15. September 1965 auch im Lande Berlin.
 
-
-## § 3
+# § 3
 
 (1) Diese Verordnung tritt rückwirkend zum 1. März 1967 in Kraft.
 
@@ -39,7 +33,6 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar
 
 (3)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Arbeit und Sozialordnung

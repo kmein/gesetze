@@ -1,15 +1,11 @@
-# [UBGG] Gesetz über Unternehmensbeteiligungsgesellschaften  (UBGG)
-
-Ausfertigungsdatum: 17.12.1986
-
+% Gesetz über Unternehmensbeteiligungsgesellschaften  (UBGG)
+% Ausfertigungsdatum: 17.12.1986
  
-
-## § 1 – Gegenstand und Zweck des Gesetzes
+# § 1 – Gegenstand und Zweck des Gesetzes
 
 Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von Unternehmensbeteiligungsgesellschaften.
 
-
-## § 1a – Begriffsbestimmungen
+# § 1a – Begriffsbestimmungen
 
 (1) Unternehmensbeteiligungsgesellschaften sind die von der zuständigen Behörde als Unternehmensbeteiligungsgesellschaften anerkannten Gesellschaften.
 
@@ -21,8 +17,7 @@ Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von Unternehmensbeteilig
 
 (5) Bilanzsumme ist die Bilanzsumme, die sich aus der letzten geprüften Bilanz ergibt.
 
-
-## § 2 – Anforderungen an Rechtsform, Unternehmensgegenstand, Sitz und Kapital
+# § 2 – Anforderungen an Rechtsform, Unternehmensgegenstand, Sitz und Kapital
 
 (1) Soweit sich aus den Vorschriften des Kapitalanlagegesetzbuchs nichts anderes ergibt, darf eine Unternehmensbeteiligungsgesellschaft in der Rechtsform der Aktiengesellschaft, der Gesellschaft mit beschränkter Haftung, der Kommanditgesellschaft und der Kommanditgesellschaft auf Aktien oder in einer nach dem Recht eines anderen Mitgliedstaates der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum vergleichbaren Rechtsform betrieben werden.
 
@@ -32,8 +27,7 @@ Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von Unternehmensbeteilig
 
 (4) Das Grund- oder Stammkapital der Unternehmensbeteiligungsgesellschaft muß mindestens eine Million Euro betragen. Die Einlagen müssen voll geleistet sein.
 
-
-## § 3 – Zulässige Geschäfte
+# § 3 – Zulässige Geschäfte
 
 (1) Die Unternehmensbeteiligungsgesellschaft darf außer den in § 2 Abs. 2 bezeichneten Geschäften nur die in den folgenden Absätzen bezeichneten Geschäfte betreiben.
 
@@ -47,8 +41,7 @@ Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von Unternehmensbeteilig
 
 (6) Sonstige Geschäfte darf die Unternehmensbeteiligungsgesellschaft nur tätigen, wenn sie mit ihrem Unternehmensgegenstand zusammenhängen.
 
-
-## § 4 – Anlagegrenzen
+# § 4 – Anlagegrenzen
 
 (1) Die Unternehmensbeteiligungsgesellschaft darf Unternehmensbeteiligungen an einem Unternehmen nur erwerben, soweit zum Zeitpunkt des Erwerbs ihre Anschaffungskosten zusammen mit dem Buchwert der von der Unternehmensbeteiligungsgesellschaft an diesem Unternehmen bereits gehaltenen Unternehmensbeteiligungen 30 vom Hundert der Bilanzsumme der Unternehmensbeteiligungsgesellschaft nicht übersteigen. Unternehmensbeteiligungen an Konzernunternehmen im Sinne des § 18 des Aktiengesetzes gelten als Unternehmensbeteiligungen an demselben Unternehmen. Die Unternehmensbeteiligungsgesellschaft ist in den ersten drei Jahren seit ihrer Anerkennung als Unternehmensbeteiligungsgesellschaft von der Einschränkung des Satzes 1 befreit.
 
@@ -64,20 +57,17 @@ Dieses Gesetz regelt die Tätigkeit und Beaufsichtigung von Unternehmensbeteilig
 
 (7) Darlehen dürfen einem Unternehmen nur bis zur Höhe der dreifachen Anschaffungskosten der an dem Unternehmen gehaltenen Unternehmensbeteiligungen gewährt werden und zusammen mit dem Buchwert der Unternehmensbeteiligungen an diesem Unternehmen 30 vom Hundert der Bilanzsumme der Unternehmensbeteiligungsgesellschaft nicht übersteigen; Absatz 1 Satz 2 ist anzuwenden. Der Gesamtbetrag der den Unternehmen gewährten Darlehen darf zum Zeitpunkt der Darlehensgewährung 30 vom Hundert der Bilanzsumme der Unternehmensbeteiligungsgesellschaft nicht übersteigen.
 
-
-## § 5 – Unzulässige Geschäfte
+# § 5 – Unzulässige Geschäfte
 
 (1) Die Unternehmensbeteiligungsgesellschaft darf keine Unternehmensbeteiligungen an Unternehmen halten, die Mutterunternehmen oder Schwesterunternehmen der Unternehmensbeteiligungsgesellschaft sind.
 
 (2) Die Unternehmensbeteiligungsgesellschaft darf keine Beteiligungen als stiller Gesellschafter an der Unternehmensbeteiligungsgesellschaft gewähren. Satz 1 ist nicht auf typische stille Beteiligungen von Gesellschaftern anzuwenden, die gleichzeitig an der Unternehmensbeteiligungsgesellschaft beteiligt sind.
 
-
-## § 6 – Verletzung der Vorschriften über den Geschäftskreis
+# § 6 – Verletzung der Vorschriften über den Geschäftskreis
 
 Ein Verstoß gegen die §§ 3 bis 5 berührt die Wirksamkeit des Rechtsgeschäfts nicht.
 
-
-## § 7 – Anteilstruktur, Mitteilungspflichten
+# § 7 – Anteilstruktur, Mitteilungspflichten
 
 (1) Eine offene Unternehmensbeteiligungsgesellschaft darf spätestens fünf Jahre nach ihrer Anerkennung kein Tochterunternehmen mehr sein. Ein Anteilinhaber darf nach Ablauf dieser Frist nicht mehr maßgeblich beteiligt sein. Maßgeblich beteiligt ist, wer bei einer Unternehmensbeteiligungsgesellschaft unmittelbar oder über ein kontrolliertes Unternehmen mehr als 40 vom Hundert des Kapitals hält oder wem unmittelbar oder über ein kontrolliertes Unternehmen mehr als 40 vom Hundert der Stimmrechte der Unternehmensbeteiligungsgesellschaft zustehen. § 34 Absatz 1 und 3 des Wertpapierhandelsgesetzes gilt für die Berechnung des Stimmrechtsanteils entsprechend, für die Berechnung des Kapitalanteils mit der Maßgabe entsprechend, daß an die Stelle der Stimmrechte die Kapitalanteile treten.
 
@@ -91,8 +81,7 @@ Ein Verstoß gegen die §§ 3 bis 5 berührt die Wirksamkeit des Rechtsgeschäft
 
 (6) Eine integrierte Unternehmensbeteiligungsgesellschaft darf ihre Geschäfte abweichend von den Vorschriften der Absätze 1 bis 5 nur betreiben, wenn sie die Anlagegrenzen des § 4 Abs. 4 beachtet.
 
-
-## § 8 – Jahresabschluß, Lagebericht und Abschlußprüfung
+# § 8 – Jahresabschluß, Lagebericht und Abschlußprüfung
 
 (1) Auf inländische Unternehmensbeteiligungsgesellschaften, auf die §§ 148 und 158 des Kapitalanlagegesetzbuchs nicht anzuwenden sind, die kleine Kapitalgesellschaften im Sinne des § 267 Abs. 1 des Handelsgesetzbuchs sind und die nicht die Voraussetzungen des § 267 Abs. 3 Satz 2 des Handelsgesetzbuchs erfüllen, sind die für mittelgroße Kapitalgesellschaften (§ 267 Abs. 2 des Handelsgesetzbuchs) geltenden Vorschriften des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs anzuwenden.
 
@@ -100,14 +89,11 @@ Ein Verstoß gegen die §§ 3 bis 5 berührt die Wirksamkeit des Rechtsgeschäft
 
 (3) Die Prüfung des Jahresabschlusses und des Lageberichts durch den Abschlußprüfer hat sich auch auf die Einhaltung der Vorschriften dieses Gesetzes zu erstrecken. Das Ergebnis dieser Prüfung hat der Abschlußprüfer in den Bestätigungsvermerk zum Jahresabschluß aufzunehmen.
 
+# §§ 9 bis 11 – (weggefallen)
 
-## §§ 9 bis 11 – (weggefallen)
+# §§ 12 und 13 – (weggefallen)
 
-
-## §§ 12 und 13 – (weggefallen)
-
-
-## § 14 – Zuständigkeit
+# § 14 – Zuständigkeit
 
 (1) Die Aufgaben der Behörde nach den Vorschriften dieses Gesetzes werden von den zuständigen obersten Landesbehörden wahrgenommen. Die zuständige oberste Landesbehörde bestimmt sich
 
@@ -121,8 +107,7 @@ Ein Verstoß gegen die §§ 3 bis 5 berührt die Wirksamkeit des Rechtsgeschäft
 
 (3) Es kann ein Zwangsgeld bis zu 250 000 Euro festgesetzt werden.
 
-
-## § 15 – Anerkennung
+# § 15 – Anerkennung
 
 (1) Unternehmensbeteiligungsgesellschaften bedürfen der Anerkennung durch die zuständige Behörde.
 
@@ -142,13 +127,11 @@ b) die Registrierung nach § 44 Absatz 1 des Kapitalanlagegesetzbuchs.
 
 Eine EU-Unternehmensbeteiligungsgesellschaft hat dem Antrag anstelle der in Satz 2 Nummer 2 und 3 genannten Dokumente vergleichbare Dokumente nach dem geltenden Recht ihres Herkunftsmitgliedstaates beizufügen. Sofern die die EU-Unternehmensbeteiligungsgesellschaft verwaltende Verwaltungsgesellschaft nach den von ihrem Herkunftsmitgliedstaat zur Umsetzung der Richtlinie 2011/61/EU des Europäischen Parlaments und des Rates vom 8. Juni 2011 über die Verwalter alternativer Investmentfonds und zur Änderung der Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1) erlassenen Rechtsvorschriften erlaubnis- oder registrierungspflichtig ist, hat sie zusätzlich dem Antrag einen Nachweis beizufügen, dass die Verwaltungsgesellschaft bei der zuständigen Behörde ihres Herkunftsmitgliedstaates registriert ist oder sie eine Erlaubnis hat. Die EU-Unternehmensbeteiligungsgesellschaft hat die Dokumente in deutscher Sprache oder in einer in internationalen Finanzkreisen üblichen Sprache einzureichen.
 
-
-## § 15a – Mitteilung der zuständigen Landesbehörden an die Bundesanstalt
+# § 15a – Mitteilung der zuständigen Landesbehörden an die Bundesanstalt
 
 Die zuständige oberste Landesbehörde übermittelt der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) jährlich eine Liste aller von ihr anerkannten Unternehmensbeteiligungsgesellschaften.
 
-
-## § 16 – Voraussetzungen der Anerkennung, Erlöschen
+# § 16 – Voraussetzungen der Anerkennung, Erlöschen
 
 (1) Eine Gesellschaft ist als Unternehmensbeteiligungsgesellschaft anzuerkennen, wenn
 
@@ -166,8 +149,7 @@ Die zuständige oberste Landesbehörde übermittelt der Bundesanstalt für Finan
 
 (3) Die Anerkennung verliert ihre Wirkung nur durch Rücknahme, Widerruf oder Verzicht.
 
-
-## § 17 – Widerruf
+# § 17 – Widerruf
 
 Die Behörde kann die Anerkennung außer nach den Vorschriften des Verwaltungsverfahrensgesetzes widerrufen, wenn
 
@@ -179,13 +161,11 @@ Die Behörde kann die Anerkennung außer nach den Vorschriften des Verwaltungsve
 
 4. die offene Unternehmensbeteiligungsgesellschaft gegen § 7 Abs. 1 verstößt.
 
-
-## § 18 – Verzicht
+# § 18 – Verzicht
 
 Die Unternehmensbeteiligungsgesellschaft kann auf die Anerkennung nur verzichten, indem sie den Unternehmensgegenstand (§ 2 Abs. 2 Satz 1) ändert oder in der Satzung oder in dem Gesellschaftsvertrag bestimmt, daß sie ihre Geschäfte nicht nach Maßgabe dieses Gesetzes betreibt. Die Anerkennung verliert ihre Wirksamkeit von dem Tag an, an dem die Änderung der Satzung oder des Gesellschaftsvertrags in das Handelsregister eingetragen wird.
 
-
-## § 19 – Erneuter Antrag auf Anerkennung
+# § 19 – Erneuter Antrag auf Anerkennung
 
 (1) Wird die Anerkennung als Unternehmensbeteiligungsgesellschaft zurückgenommen oder widerrufen oder verzichtet die Unternehmensbeteiligungsgesellschaft auf die Anerkennung, so kann die Gesellschaft einen erneuten Antrag frühestens drei Jahre nach dem Wirksamwerden des Verzichts, der Rücknahme oder des Widerrufs stellen.
 
@@ -193,15 +173,13 @@ Die Unternehmensbeteiligungsgesellschaft kann auf die Anerkennung nur verzichten
 
 (3) (weggefallen)
 
-
-## § 20 – Schutz der Bezeichnung "Unternehmensbeteiligungsgesellschaft"
+# § 20 – Schutz der Bezeichnung "Unternehmensbeteiligungsgesellschaft"
 
 (1) Die Bezeichnung "Unternehmensbeteiligungsgesellschaft" darf in der Firma, als Zusatz zur Firma, zur Bezeichnung des Geschäftszwecks oder zu Werbezwecken nur von anerkannten Unternehmensbeteiligungsgesellschaften geführt werden.
 
 (2) Die Bezeichnung "Unternehmensbeteiligungsgesellschaft" darf als Firma oder als Zusatz zur Firma in das Handelsregister nur eingetragen werden, wenn dem Registergericht die Anerkennung als Unternehmensbeteiligungsgesellschaft nachgewiesen ist.
 
-
-## § 21 – Anzeige-, Vorlage- und Duldungspflichten
+# § 21 – Anzeige-, Vorlage- und Duldungspflichten
 
 (1) Die Unternehmensbeteiligungsgesellschaft hat der Behörde unverzüglich
 
@@ -213,8 +191,7 @@ Eine EU-Unternehmensbeteiligungsgesellschaft hat die Dokumente in deutscher Spra
 
 (2) Während der üblichen Arbeitszeit ist den Bediensteten der Behörde, soweit dies zur Wahrnehmung ihrer Aufgaben nach diesem Gesetz erforderlich ist, das Betreten der Grundstücke und Geschäftsräume der Unternehmensbeteiligungsgesellschaft zu gestatten. Die Betroffenen haben Maßnahmen nach Satz 1 zu dulden.
 
-
-## § 21a – Befugnisse der Aufsichtsbehörde, Verschwiegenheitspflicht
+# § 21a – Befugnisse der Aufsichtsbehörde, Verschwiegenheitspflicht
 
 (1) Die Behörde kann von der Unternehmensbeteiligungsgesellschaft und deren Aktionären oder Gesellschaftern Auskünfte und die Vorlage von Urkunden verlangen, soweit dies zur Überwachung der Einhaltung der in § 7 geregelten Pflichten erforderlich ist. Die Befugnisse nach Satz 1 bestehen auch gegenüber Personen und Unternehmen, deren Kapitalanteile nach § 7 Abs. 1 Satz 4 zuzurechnen sind.
 
@@ -228,27 +205,23 @@ Eine EU-Unternehmensbeteiligungsgesellschaft hat die Dokumente in deutscher Spra
 
 soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen. Für die bei diesen Stellen beschäftigten Personen gilt die Verschwiegenheitspflicht nach Satz 1 entsprechend. Befindet sich die Stelle in einem anderen Staat, so dürfen die Tatsachen nur dann weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht unterliegen. Die in Satz 3 Nr. 3 genannten Stellen, die direkt oder indirekt Informationen von zuständigen Stellen anderer Staaten erhalten, dürfen diese nur mit ausdrücklicher Zustimmung der übermittelnden Stellen weiter übermitteln. Im übrigen sind die Vorschriften des § 9 Absatz 5 des Kreditwesengesetzes entsprechend anzuwenden.
 
-
-## § 22 – Mitteilungen und Bekanntmachungen
+# § 22 – Mitteilungen und Bekanntmachungen
 
 (1) Die Behörde teilt dem Registergericht die Anerkennung als Unternehmensbeteiligungsgesellschaft und den nicht mehr anfechtbaren Verlust der Anerkennung mit.
 
 (2) Die Behörde macht die Anerkennung, die unanfechtbar gewordene Rücknahme oder den unanfechtbar gewordenen Widerruf der Anerkennung und den Verzicht auf die Anerkennung auf Kosten der Unternehmensbeteiligungsgesellschaft im Bundesanzeiger bekannt.
 
-
-## § 23 – Mitteilungspflichten der Aktionäre und Gesellschafter bei Anerkennung als Unternehmensbeteiligungsgesellschaft
+# § 23 – Mitteilungspflichten der Aktionäre und Gesellschafter bei Anerkennung als Unternehmensbeteiligungsgesellschaft
 
 (1) Wer im Zeitpunkt der Anerkennung einer offenen Unternehmensbeteiligungsgesellschaft ein Mutterunternehmen dieser Unternehmensbeteiligungsgesellschaft ist oder eine maßgebliche Beteiligung an ihr hält, hat spätestens zwei Monate nach der Bekanntmachung der Anerkennung im Bundesanzeiger der Unternehmensbeteiligungsgesellschaft und der Behörde die Mitteilung nach § 7 Abs. 2 Satz 1 oder 3 zu machen. § 7 Abs. 3 und § 21a Abs. 1 gelten entsprechend.
 
 (2) Die Verpflichtung nach Absatz 1 gilt für Unternehmensbeteiligungsgesellschaften im Sinne des § 25 Abs. 2 Satz 1 und 2 mit der Maßgabe, daß für die Berechnung der Frist an die Stelle der Anerkennung als Unternehmensbeteiligungsgesellschaft die Eintragung der Satzungsänderung tritt.
 
-
-## § 24 – Gesellschafterdarlehen
+# § 24 – Gesellschafterdarlehen
 
 Hat die Unternehmensbeteiligungsgesellschaft oder ein an ihr beteiligter Gesellschafter einem Unternehmen, an dem die Unternehmensbeteiligungsgesellschaft beteiligt ist, ein Darlehen gewährt oder eine andere einer Darlehensgewährung wirtschaftlich entsprechende Rechtshandlung vorgenommen, ist § 39 Abs. 1 Nr. 5 der Insolvenzordnung nicht anzuwenden.
 
-
-## § 25 – Übergangsvorschriften für am 1. April 1998 anerkannte Unternehmensbeteiligungsgesellschaften
+# § 25 – Übergangsvorschriften für am 1. April 1998 anerkannte Unternehmensbeteiligungsgesellschaften
 
 (1) Dieses Gesetz ist in der vor dem Inkrafttreten des Artikels 7 des Dritten Finanzmarktförderungsgesetzes geltenden Fassung bis zum 31. Dezember 2002 auf Gesellschaften anzuwenden, die bei Inkrafttreten des Artikels 7 des Dritten Finanzmarktförderungsgesetzes bereits als Unternehmensbeteiligungsgesellschaften anerkannt sind.
 
@@ -256,8 +229,7 @@ Hat die Unternehmensbeteiligungsgesellschaft oder ein an ihr beteiligter Gesells
 
 (3) Ist am 1. Januar 2003 die Änderung der Satzung nach Absatz 2 Satz 1 nicht im Handelsregister eingetragen, verliert eine Unternehmensbeteiligungsgesellschaft im Sinne des Absatzes 1 ihre Ankerkennung als Unternehmensbeteiligungsgesellschaft. Die Behörde macht den Verlust der Anerkennung auf Kosten der Gesellschaft im Bundesanzeiger bekannt.
 
-
-## § 26 – Übergangsvorschriften
+# § 26 – Übergangsvorschriften
 
 (1) Zum Zeitpunkt des Inkrafttretens des Artikels 9 des Zweiten Finanzmarktförderungsgesetzes anerkannte Unternehmensbeteiligungsgesellschaften sind abweichend von § 9 Abs. 1 Satz 1 verpflichtet, innerhalb von zwölf Jahren mindestens sieben Zehntel der Aktien der Unternehmensbeteiligungsgesellschaft öffentlich zum Erwerb anzubieten. In diesen Fällen ist § 17 Abs. 1 Nr. 1, Abs. 2 Nr. 1 mit der Maßgabe anzuwenden, daß an die Stelle einer Frist von zehn Jahren eine Frist von zwölf Jahren tritt.
 
@@ -265,13 +237,11 @@ Hat die Unternehmensbeteiligungsgesellschaft oder ein an ihr beteiligter Gesells
 
 (3) Bei Anteilen, welche die Unternehmensbeteiligungsgesellschaft zum Zeitpunkt des Inkrafttretens des Artikels 9 des Zweiten Finanzmarktförderungsgesetzes an Unternehmen hält, ist § 25 mit der Maßgabe anzuwenden, daß eine Zurechnung bis zum Ablauf von zwölf Jahren nach der Anerkennung der Unternehmensbeteiligungsgesellschaft nicht erfolgt; dies gilt nicht bei Anteilen, bei denen die Frist nach § 25 in der vor dem Inkrafttreten des Artikels 9 des Zweiten Finanzmarktförderungsgesetzes geltenden Fassung bereits abgelaufen war.
 
-
-## § 26a – Übergangsvorschrift für den Nachweis nach § 15 Absatz 2 Nummer 4
+# § 26a – Übergangsvorschrift für den Nachweis nach § 15 Absatz 2 Nummer 4
 
 Eine Unternehmensbeteiligungsgesellschaft, die vor dem 22. Juli 2013 als Unternehmensbeteiligungsgesellschaft nach Maßgabe dieses Gesetzes anerkannt ist und deren AIF-Kapitalverwaltungsgesellschaft nach den Vorschriften des Kapitalanlagegesetzbuchs erlaubnis- oder registrierungspflichtig ist, muss spätestens bis zum 21. Januar 2015 der zuständigen Behörde einen Nachweis nach § 15 Absatz 2 Nummer 4 vorlegen.
 
-
-## § 27 – Bußgeldvorschriften
+# § 27 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -287,17 +257,14 @@ Eine Unternehmensbeteiligungsgesellschaft, die vor dem 22. Juli 2013 als Unterne
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 2 mit einer Geldbuße bis zu hundertfünfzigtausend Euro, in den Fällen des Absatzes 1 Nr. 3 bis 5 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## §§ 28 bis 31 – ----
+# §§ 28 bis 31 – ----
 
 (Änderungsvorschriften)
 
-
-## § 32
+# § 32
 
 (gegenstandlos)
 
-
-## § 33
+# § 33
 
 (Inkrafttreten)

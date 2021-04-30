@@ -1,15 +1,11 @@
-# [VersMeldeV] Versicherungs-Meldeverordnung  (VersMeldeV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Versicherungs-Meldeverordnung  (VersMeldeV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Absatz 1 Satz 1 Nummer 7 in Verbindung mit Satz 2 und 4 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der Finanzen nach Anhörung des Versicherungsbeirats:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Die Regelungen dieser Verordnung gelten für
 
@@ -17,8 +13,7 @@ Die Regelungen dieser Verordnung gelten für
 
 2. beteiligte Versicherungsunternehmen, Versicherungs-Holdinggesellschaften und gemischte Finanzholdinggesellschaften, die der Bundesanstalt als zuständiger Gruppenaufsichtsbehörde nach Artikel 372 der Delegierten Verordnung (EU) 2015/35 zur regelmäßigen Berichterstattung auf Gruppenebene verpflichtet sind.
 
-
-## § 2 – Art und Weise der Datenübermittlung
+# § 2 – Art und Weise der Datenübermittlung
 
 (1) Die in § 1 Nummer 1 genannten Unternehmen müssen die Daten nach Artikel 304 Absatz 1 und Artikel 314 der Delegierten Verordnung (EU) 2015/35 in elektronischer Form an die Bundesanstalt übermitteln. Bei der Übermittlung sind die in Artikel 300 Absatz 2 und Artikel 312 Absatz 1 Buchstabe a bis d der Delegierten Verordnung (EU) 2015/35 festgelegten Fristen zu beachten.
 
@@ -30,15 +25,13 @@ Die Regelungen dieser Verordnung gelten für
 
 (5) Die Unternehmen haben die ordnungsgemäße Datenübermittlung durch Berücksichtigung der am MVP-Portal hinterlegten Informationen und Hinweise sicherzustellen.
 
-
-## § 3 – Datenformate
+# § 3 – Datenformate
 
 (1) Die Bundesanstalt veröffentlicht auf ihrer Internetseite die für eine elektronische Dateneinreichung jeweils zu verwendenden Datenformate, insbesondere soweit narrative Berichte zu übermitteln sind.
 
 (2) Die quantitativen Informationen nach Artikel 304 Absatz 1 Buchstabe d und Artikel 372 Absatz 1 in Verbindung mit Artikel 304 Absatz 1 Buchstabe d der Delegierten Verordnung (EU) 2015/35 (quantitative Vorlagen) sind auf Basis der von der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung auf ihrer Internetseite veröffentlichten aktuellen XBRL-Taxonomie einzureichen.
 
-
-## § 4 – Datenqualität und Vollständigkeit der Übermittlung
+# § 4 – Datenqualität und Vollständigkeit der Übermittlung
 
 (1) Quantitative Vorlagen müssen der Bundesanstalt in Form eines vollständigen Datensatzes übermittelt werden. Dies gilt auch, wenn eine erneute Übermittlung notwendig wird, weil einzelne Daten inhaltlich korrigiert werden müssen.
 
@@ -60,8 +53,7 @@ Ein Datensatz gilt auch als vollständig, wenn ausschließlich Angaben fehlen, d
 
 Berichte, für die gleiche Vorlagefristen gelten, können einzeln oder zusammen übermittelt werden.
 
-
-## § 5 – Unternehmenskennung
+# § 5 – Unternehmenskennung
 
 (1) Bei der Übermittlung quantitativer Informationen haben sich die Unternehmen gegenüber der Bundesanstalt durch eine Kennziffer für die juristische Person zu identifizieren.
 
@@ -69,8 +61,7 @@ Berichte, für die gleiche Vorlagefristen gelten, können einzeln oder zusammen 
 
 (3) Die in § 1 Nummer 2 genannten Unternehmen müssen bei der Gruppenberichterstattung an die Bundesanstalt für juristische Personen, die der Gruppe angehören, eine Kennziffer im Sinne des Absatzes 1 verwenden. Die Unternehmen haben dafür Sorge zu tragen, dass die betroffenen juristischen Personen über eine solche Kennziffer verfügen und sie auf Dauer verwenden dürfen.
 
-
-## § 6 – Zurückweisung von Daten
+# § 6 – Zurückweisung von Daten
 
 Die Bundesanstalt weist Datensätze zurück, die
 
@@ -82,21 +73,18 @@ Die Bundesanstalt weist Datensätze zurück, die
 
 Zurückgewiesene Datensätze gelten als nicht eingegangen. Die Zurückweisungsnachricht im Fall des Satzes 1 Nummer 1 und die Nachricht über das negative Validierungsergebnis im Fall des Satzes 1 Nummer 2 und 3 sind beim MVP-Portal abrufbar.
 
-
-## § 7 – Berichtspflichten nach der Verordnung (EU) 1374/2014
+# § 7 – Berichtspflichten nach der Verordnung (EU) 1374/2014
 
 (1) Benutzen Unternehmen den Meldeweg über die Bundesanstalt zur Erfüllung ihrer Berichtspflichten nach der Verordnung (EU) Nr. 1374/2014, gelten die Anforderungen nach § 2 Absatz 3 bis 5, § 3 Absatz 2, § 4 Absatz 1 und 2, § 5 Absatz 1 und 2 sowie § 6 Satz 1 entsprechend.
 
 (2) Die betroffenen Unternehmen haben die vorgeschriebenen Meldevordrucke zu verwenden, auf die sie über das Internet bei der Deutschen Bundesbank Zugriff haben. Korrekturmeldungen sind bei der Bundesanstalt einzureichen.
 
-
-## § 8 – Übergangsvorschrift
+# § 8 – Übergangsvorschrift
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für die Berichterstattung über das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
 (2) Abweichend von § 2 Absatz 1 und 2 gelten für die Berichterstattung nach Artikel 304 Absatz 1 und Artikel 372 der Delegierten Verordnung (EU) 2015/35 bis einschließlich 2019 in Bezug auf die einzuhaltenden Fristen die Übergangsregelungen nach § 344 des Versicherungsaufsichtsgesetzes.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,22 +1,17 @@
-# [MindZV] Verordnung über die Mindestbeitragsrückerstattung in der Lebensversicherung  (Mindestzuführungsverordnung - MindZV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die Mindestbeitragsrückerstattung in der Lebensversicherung  (Mindestzuführungsverordnung - MindZV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 145 Absatz 1 bis 3 in Verbindung mit Absatz 5 Satz 2, auch in Verbindung mit § 212 Absatz 1, § 219 Absatz 1 und § 234 Absatz 1 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434), verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für Lebensversicherungsunternehmen mit Ausnahme derjenigen Pensionskassen, die gemäß § 233 Absatz 1 oder 2 des Versicherungsaufsichtsgesetzes reguliert sind und mit Genehmigung der Aufsichtsbehörde nach Maßgabe des § 211 Absatz 2 Nummer 2 des Versicherungsvertragsgesetzes von § 153 des Versicherungsvertragsgesetzes abweichende Bestimmungen getroffen haben.
 
 (2) Für Sterbekassen und gemäß § 233 Absatz 1 oder 2 des Versicherungsaufsichtsgesetzes regulierte Pensionskassen, die nicht mit Genehmigung der Aufsichtsbehörde nach Maßgabe des § 211 Absatz 2 Nummer 2 des Versicherungsvertragsgesetzes von § 153 des Versicherungsvertragsgesetzes abweichende Bestimmungen getroffen haben, gelten die §§ 2 bis 9 und 13 bis 15 nicht; darüber hinaus finden für diese Unternehmen die §§ 11 und 12 nur Anwendung, sofern sie nicht mit Genehmigung der Aufsichtsbehörde den Sicherungsbedarf aus den Versicherungsverträgen mit Zinsgarantie gemäß § 139 Absatz 4 des Versicherungsaufsichtsgesetzes nach einem abweichenden Verfahren berechnen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung bezeichnet:
 
@@ -40,8 +35,7 @@ a) bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen: die nicht
 
 b) bei Pensionskassen: die nicht unter Nummer 2 Buchstabe b fallenden Lebensversicherungsverträge.
 
-
-## § 3 – Anzurechnende Kapitalerträge
+# § 3 – Anzurechnende Kapitalerträge
 
 (1) Die anzurechnenden Kapitalerträge, die auf die überschussberechtigten Versicherungsverträge des Alt- und des Neubestands entfallen, ergeben sich jeweils aus dem mit der Differenz der Erträge und der Aufwendungen aus den gesamten Kapitalanlagen (Betrag in Formblatt 200 Seite 1 Zeile 12 Spalte 04 der Versicherungsberichterstattungs-Verordnung), ohne die der Lebensversicherung für Rechnung und Risiko der Versicherungsnehmer zuzuordnenden Erträge und Aufwendungen, vervielfachten Wert gemäß Absatz 3.
 
@@ -89,8 +83,7 @@ b) 50 Prozent der Mindestzuführung in Abhängigkeit von den Kapitalerträgen na
 
 Lebensversicherungsunternehmen, die einen extern finanzierten Rückstellungsteil führen, erläutern der Aufsichtsbehörde spätestens sieben Monate nach Ende des Geschäftsjahres seine Veränderung im Geschäftsjahr.
 
-
-## § 4 – Mindestzuführung zur Rückstellung für Beitragsrückerstattung bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen
+# § 4 – Mindestzuführung zur Rückstellung für Beitragsrückerstattung bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur Rückstellung für Beitragsrückerstattung müssen die überschussberechtigten Versicherungsverträge angemessen beteiligt werden
 
@@ -104,8 +97,7 @@ Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung wird berech
 
 (2) Von der Summe der gemäß § 6 Absatz 1, §§ 7 und 8 ermittelten Beträge werden, getrennt für Alt- und Neubestand, die auf die überschussberechtigten Versicherungsverträge entfallende Direktgutschrift (Summe der Beträge in Formblatt 200 Seite 2 Zeile 25 Spalte 03, Seite 3 Zeile 11 Spalte 03 und Seite 3 Zeile 13 Spalte 03 der Versicherungsberichterstattungs-Verordnung) einschließlich der auf die überschussberechtigten Versicherungsverträge entfallenden Schlusszahlungen auf Grund der Beteiligung an den Bewertungsreserven, soweit diese Schlusszahlungen in Form einer Direktgutschrift ausgeschüttet werden, abgezogen. Ergibt sich rechnerisch eine negative Mindestzuführung zur Rückstellung für Beitragsrückerstattung, wird sie durch Null ersetzt.
 
-
-## § 5 – Mindestzuführung zur Rückstellung für Beitragsrückerstattung bei Pensionskassen
+# § 5 – Mindestzuführung zur Rückstellung für Beitragsrückerstattung bei Pensionskassen
 
 (1) Zur Sicherstellung einer ausreichenden Mindestzuführung zur Rückstellung für Beitragsrückerstattung müssen die überschussberechtigten Versicherungsverträge angemessen beteiligt werden am Kapitalanlageergebnis, am Risikoergebnis und am übrigen Ergebnis ohne die auf die überschussberechtigten Versicherungsverträge entfallenden Schlusszahlungen auf Grund der Beteiligung an den Bewertungsreserven, soweit diese Schlusszahlungen in Form einer Direktgutschrift ausgeschüttet werden. Die einzelnen Ergebnisse ergeben sich anteilig aus den Erträgen und Aufwendungen, die in den folgenden Beträgen berücksichtigt sind:
 
@@ -121,25 +113,21 @@ Pensionskassen haben die genauen Beträge des Kapitalanlageergebnisses, des Risi
 
 (2) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung für die überschussberechtigten Versicherungsverträge ergibt sich aus dem nach § 4 Absatz 2 für diese Versicherungsverträge, getrennt für Alt- und Neubestand ermittelten Saldo durch Abzug des Betrages, der zur Beitragssenkung oder zur Finanzierung von Versicherungsleistungen an Beitrags statt verwendet wird, sofern in der Satzung eine entsprechende Verwendung vor Feststellung der Zuführung zur Rückstellung für Beitragsrückerstattung festgelegt ist. Der Betrag, der zur Beitragssenkung oder zur Finanzierung von Versicherungsleistungen an Beitrags statt verwendet wird, ist im Rahmen des versicherungsmathematischen Gutachtens gemäß § 17 der Versicherungsberichterstattungs-Verordnung herzuleiten. Ergibt sich rechnerisch eine negative Mindestzuführung zur Rückstellung für Beitragsrückerstattung, wird diese durch Null ersetzt.
 
-
-## § 6 – Kapitalanlageergebnis
+# § 6 – Kapitalanlageergebnis
 
 (1) Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen für die überschussberechtigten Versicherungsverträge beträgt 90 Prozent der nach § 3 Absatz 1 anzurechnenden Kapitalerträge abzüglich der rechnungsmäßigen Zinsen ohne eine Verminderung des extern finanzierten Rückstellungsteils nach § 3 Absatz 7 Satz 5 und ohne die anteilig auf die überschussberechtigten Versicherungsverträge entfallenden Zinsen auf die Pensionsrückstellungen (bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen Differenz der Beträge in Nachweisung 219 Seite 1 Zeile 18 Spalte 03 T und Zeile 12 Spalte 03 T der Versicherungsberichterstattungs-Verordnung sowie Differenz der Beträge in Nachweisung 219 Seite 1 Zeile 18 Spalte 02 T und Zeile 12 Spalte 02 T der Versicherungsberichterstattungs-Verordnung, bei Pensionskassen Summe der entsprechenden Teilbeträge in Formblatt 200 Seite 2 Zeile 24 Spalte 03 und Seite 3 Zeile 10 Spalte 03 abzüglich der entsprechenden Teilbeträge in Formblatt 200 Seite 6 Zeile 12 Spalte 03 der Versicherungsberichterstattungs-Verordnung). Die anzurechnenden Kapitalerträge werden dabei für Alt- und Neubestand getrennt ermittelt. Pensionskassen haben die jeweiligen Beträge im Rahmen des in § 5 Absatz 1 genannten Gutachtens herzuleiten. Ist vertraglich vereinbart, dass die Versicherungsnehmer an den anzurechnenden Kapitalerträgen zu mehr als 90 Prozent beteiligt werden, ist die Mindestzuführung entsprechend zu erhöhen. Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen, werden sie durch Null ersetzt, wenn die nach § 3 Absatz 1 anzurechnenden Kapitalerträge höher ausfallen als die rechnungsmäßigen Zinsen ohne die anteilig auf die überschussberechtigten Versicherungsverträge entfallenden Zinsen auf die Pensionsrückstellungen. Andernfalls beträgt die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit von den Kapitalerträgen 100 Prozent der nach § 3 Absatz 1 anzurechnenden Kapitalerträge abzüglich der rechnungsmäßigen Zinsen ohne die anteilig auf die überschussberechtigten Versicherungsverträge entfallenden Zinsen auf die Pensionsrückstellungen.
 
 (2) Die Mindestzuführung zu einem gemäß § 140 Absatz 4 des Versicherungsaufsichtsgesetzes gebildeten kollektiven Teil der Rückstellung für Beitragsrückerstattung beträgt 90 Prozent der nach § 3 Absatz 6 anzurechnenden Kapitalerträge abzüglich der rechnerisch negativen Beträge, die nach Aufsummierung der Beträge nach Absatz 1 Satz 6 sowie den §§ 7 und 8 für den Neu- und den Altbestand verbleiben. Ergibt sich ein rechnerisch negativer Betrag für die Mindestzuführung zum kollektiven Teil der Rückstellung für Beitragsrückerstattung, wird er durch Null ersetzt.
 
-
-## § 7 – Risikoergebnis
+# § 7 – Risikoergebnis
 
 Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom Risikoergebnis für die überschussberechtigten Versicherungsverträge beträgt 90 Prozent des auf überschussberechtigte Versicherungsverträge entfallenden Risikoergebnisses gemäß § 4 Absatz 1 bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen und gemäß § 5 Absatz 1 bei Pensionskassen. Alt- und Neubestand werden dabei getrennt betrachtet (in der in § 4 Absatz 1 genannten Nachweisung der Versicherungsberichterstattungs-Verordnung jeweils Spalte 03 und 02). Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom Risikoergebnis, werden sie durch Null ersetzt.
 
-
-## § 8 – Übriges Ergebnis
+# § 8 – Übriges Ergebnis
 
 Die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom übrigen Ergebnis für die überschussberechtigten Versicherungsverträge beträgt 50 Prozent des auf überschussberechtigte Versicherungsverträge entfallenden übrigen Ergebnisses gemäß § 4 Absatz 1 bei Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen und gemäß § 5 Absatz 1 bei Pensionskassen. Alt- und Neubestand werden dabei getrennt betrachtet (in der in § 4 Absatz 1 genannten Nachweisung der Versicherungsberichterstattungs-Verordnung jeweils Spalte 03 und 02). Ergeben sich rechnerisch negative Beträge für die Mindestzuführung zur Rückstellung für Beitragsrückerstattung in Abhängigkeit vom übrigen Ergebnis, werden sie durch Null ersetzt.
 
-
-## § 9 – Reduzierung der Mindestzuführung
+# § 9 – Reduzierung der Mindestzuführung
 
 (1) Die Mindestzuführung kann mit Zustimmung der Aufsichtsbehörde in Ausnahmefällen reduziert werden
 
@@ -176,20 +164,17 @@ Das Risikoergebnis und das übrige Ergebnis sind dabei durch Null zu ersetzen, w
 
 (3) Soweit der Betrag, um den die Mindestzuführung reduziert werden kann, dem Alt- oder Neubestand oder einem kollektiven Teil der Rückstellung für Beitragsrückerstattung ganz oder teilweise zugeordnet werden kann, verringert sich die Mindestzuführung für den Alt- oder Neubestand oder zum kollektiven Teil der Rückstellung für Beitragsrückerstattung um den zugeordneten Teilbetrag. Soweit der genannte Betrag nicht zugeordnet werden kann, verringert sich die Mindestzuführung für den Alt- und Neubestand und zum kollektiven Teil der Rückstellung für Beitragsrückerstattung entsprechend dem jeweiligen Anteil an der gesamten Mindestzuführung. Die Verpflichtung des Unternehmens zur Aufstellung eines Zuführungsplans bleibt hiervon grundsätzlich unberührt.
 
-
-## § 10 – Festverzinsliche Anlagen und Zinsabsicherungsgeschäfte
+# § 10 – Festverzinsliche Anlagen und Zinsabsicherungsgeschäfte
 
 (1) Als festverzinsliche Anlagen und Zinsabsicherungsgeschäfte gemäß § 139 Absatz 3 des Versicherungsaufsichtsgesetzes gelten alle Kapitalanlagen gemäß den Aktivposten C.II.2, C.II.4 und C.III.2 bis C.III.5 des Formblatts 1 der Versicherungsunternehmens-Rechnungslegungsverordnung.
 
 (2) Von den Kapitalanlagen gemäß Aktivposten C.III.1 des Formblatts 1 der Versicherungsunternehmens-Rechnungslegungsverordnung werden diejenigen festverzinslichen Anlagen und Zinsabsicherungsgeschäfte berücksichtigt, die bei einer Aufgliederung der in diesen Kapitalanlagen enthaltenen Einzelpositionen entsprechend der Berichterstattung an die Aufsichtsbehörde über die Vermögensanlagen den in Absatz 1 genannten Kapitalanlagen zuzuordnen wären.
 
-
-## § 11 – Maßgeblicher Euro-Zinsswapsatz
+# § 11 – Maßgeblicher Euro-Zinsswapsatz
 
 Bei der Ermittlung des Sicherungsbedarfs aus den Versicherungsverträgen mit Zinsgarantie gemäß § 139 des Versicherungsaufsichtsgesetzes ist als Bezugszins der von der Deutschen Bundesbank gemäß § 7 der Rückstellungsabzinsungsverordnung veröffentlichte Null-Kupon-Euro-Zinsswapsatz mit einer Laufzeit von zehn Jahren am Ende desjenigen Monats zugrunde zu legen, der dem Zeitpunkt der Ermittlung der Bewertungsreserven vorangeht.
 
-
-## § 12 – Methode zur Bewertung der Zinssatzverpflichtung eines Versicherungsvertrags
+# § 12 – Methode zur Bewertung der Zinssatzverpflichtung eines Versicherungsvertrags
 
 Zu jedem Ermittlungszeitpunkt ist der nach § 11 bestimmte Bezugszins mit dem höchsten in den nächsten 15 Jahren für einen Vertrag maßgeblichen Rechnungszins zu vergleichen. Ist der Bezugszins kleiner als der höchste maßgebliche Rechnungszins, ist die Zinssatzverpflichtung zu bewerten, indem
 
@@ -199,8 +184,7 @@ Zu jedem Ermittlungszeitpunkt ist der nach § 11 bestimmte Bezugszins mit dem h�
 
 zugrunde gelegt wird. Im Übrigen sind dieselben Berechnungs- und Bewertungsansätze wie bei der Deckungsrückstellung anzuwenden.
 
-
-## § 13 – Höchstbetrag des ungebundenen Teils der Rückstellung für Beitragsrückerstattung
+# § 13 – Höchstbetrag des ungebundenen Teils der Rückstellung für Beitragsrückerstattung
 
 Die Summe aus dem ungebundenen Teil der Rückstellung für Beitragsrückerstattung im Sinne des § 28 Absatz 8 Nummer 2 Buchstabe h der Versicherungsunternehmens-Rechnungslegungsverordnung und einem etwaigen bereits über das Folgejahr hinaus festgelegten Teil der Rückstellung für Beitragsrückerstattung darf nicht höher sein als folgender als Formel dargestellter Betrag:
 
@@ -224,13 +208,11 @@ der Durchschnitt der Nettoverzinsungen der Kapitalanlagen der letzten drei Gesch
 
 Die Nettoverzinsung ist das Nettoergebnis aus Kapitalanlagen (Formblatt 3 der Versicherungsunternehmens-Rechnungslegungsverordnung, Ertragsposten I.3 abzüglich Aufwandsposten I.10, jedoch ohne die auf die Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungspolicen entfallenden Beträge), bezogen auf den mittleren Kapitalanlagenbestand des abgelaufenen Geschäftsjahres (Formblatt 1 der Versicherungsunternehmens-Rechnungslegungsverordnung, arithmetisches Mittel des Aktivpostens C am Bilanzstichtag des Geschäftsjahres und des Vorjahres).
 
-
-## § 14 – Anzeigepflicht
+# § 14 – Anzeigepflicht
 
 Wird der Höchstbetrag des ungebundenen Teils der Rückstellung für Beitragsrückerstattung gemäß § 13 überschritten, hat das Versicherungsunternehmen unverzüglich nach Aufstellung des Jahresabschlusses die Aufsichtsbehörde darüber zu unterrichten.
 
-
-## § 15 – Veröffentlichungspflicht
+# § 15 – Veröffentlichungspflicht
 
 (1) Lebensversicherungsunternehmen mit Ausnahme der Pensionskassen haben die in der Anlage 1 genannten Informationen spätestens neun Monate nach Ende des Geschäftsjahres in der dort vorgeschriebenen Form elektronisch zu veröffentlichen. Die Informationen sind in deutscher Sprache abzufassen; vorbehaltlich des Absatzes 3 sind zusätzliche Inhalte unzulässig.
 
@@ -238,20 +220,17 @@ Wird der Höchstbetrag des ungebundenen Teils der Rückstellung für Beitragsrü
 
 (3) Macht das Lebensversicherungsunternehmen von der Regelung des § 3 Absatz 7 Gebrauch, ergänzt es in der Veröffentlichung nach Absatz 1 Angaben zur Entwicklung des extern finanzierten Rückstellungsteils unter Verwendung des Musters aus Anlage 2.
 
-
-## § 16 – Übergangsvorschrift
+# § 16 – Übergangsvorschrift
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
 (2) Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist die Mindestzuführungsverordnung vom 4. April 2008 (BGBl. I S. 690), die durch Artikel 1 Nummer 11 der Verordnung vom 16. Dezember 2015 (BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. Dezember 2015 geltenden Fassung anzuwenden.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 15 Absatz 1)
+# Anlage 1 – (zu § 15 Absatz 1)
 
 (Fundstelle: BGBl. I 2016, 837)
 
@@ -276,8 +255,7 @@ Aufgliederung der Beteiligung der Versicherten an den Erträgen:
 <span id="FnA1-F793633_01"></span><a href="#FnR.FnA1-F793633_01" class="Footnote">*</a>  
 Die Ertragsquellen sind die anzurechnenden Kapitalerträge, das Risikoergebnis (soweit positiv) und das übrige Ergebnis (soweit positiv) im Sinne der §§ 6 bis 8 der Mindestzuführungsverordnung für den überschussberechtigten Versicherungsbestand. Der Eintrag „–“ bedeutet, dass die betreffende Ertragsquelle mit einem Verlust abgeschlossen hat.
 
-
-## Anlage 2 – (zu § 15 Absatz 3)
+# Anlage 2 – (zu § 15 Absatz 3)
 
 (Fundstelle: BGBl. I 2020, 1688)
 

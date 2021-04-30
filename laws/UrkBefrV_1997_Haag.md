@@ -1,15 +1,11 @@
-# [UrkBefrV 1997 Haag] Verordnung über die Ausstellung der Apostille nach Artikel 3 des Haager Übereinkommens vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
-
-Ausfertigungsdatum: 09.12.1997
-
+% Verordnung über die Ausstellung der Apostille nach Artikel 3 des Haager Übereinkommens vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
+% Ausfertigungsdatum: 09.12.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 2 des Gesetzes vom 21. Juni 1965 zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation (BGBl. 1965 II S. 875), der durch Artikel 7 des Gesetzes vom 23. Juni 1970 (BGBl. I S. 805) geändert worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung:
 
-
-## § 1
+# § 1
 
 Die Apostille nach Artikel 3 Abs. 1 des Haager Übereinkommens vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation stellen aus
 
@@ -17,8 +13,7 @@ Die Apostille nach Artikel 3 Abs. 1 des Haager Übereinkommens vom 5. Oktober 19
 
 2. der Präsident des Deutschen Patentamts für die vom Bundespatentgericht oder vom Deutschen Patentamt aufgenommenen öffentlichen Urkunden.
 
-
-## § 2
+# § 2
 
 Die Gebühr für die Ausstellung der Apostille und für die Prüfung gemäß Artikel 7 Abs. 2 des Übereinkommens beträgt je 25 Euro. Im übrigen gilt für die Kostenerhebung
 
@@ -28,7 +23,6 @@ Die Gebühr für die Ausstellung der Apostille und für die Prüfung gemäß Art
 
 in der jeweils geltenden Fassung.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

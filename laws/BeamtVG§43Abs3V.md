@@ -1,15 +1,11 @@
-# [BeamtVG§43Abs3V] Verordnung über die einmalige Unfallentschädigung nach § 43 Abs. 3 des Beamtenversorgungsgesetzes
-
-Ausfertigungsdatum: 24.06.1977
-
+% Verordnung über die einmalige Unfallentschädigung nach § 43 Abs. 3 des Beamtenversorgungsgesetzes
+% Ausfertigungsdatum: 24.06.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Abs. 3 Satz 2 und 3 des Beamtenversorgungsgesetzes vom 24. August 1976 (BGBl. I S. 2485) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Flugdienst
+# § 1 – Flugdienst
 
 (1) Flugdienst im Sinne des § 43 Abs. 3 Satz 1 Nr. 1 des Beamtenversorgungsgesetzes ist jeder Aufenthalt, der an Bord eines Luftfahrzeuges zur Durchführung eines Flugauftrages oder eines sonstigen dienstlichen Auftrages vom Beginn des Starts bis zur Beendigung der Landung erforderlich ist.
 
@@ -29,8 +25,7 @@ b) der Betrieb im Stand vom Anlassen des Triebwerkes bis zum Stillstand des Trie
 
 4. im Luftrettungsdienst oder in der Ausbildung dazu Dienstverrichtungen im Gefahrenbereich der Rotoren eines Drehflüglers oder beim Abseilen oder Aufseilen an einem Drehflügler.
 
-
-## § 2 – Besonders gefährdetes fliegendes Personal
+# § 2 – Besonders gefährdetes fliegendes Personal
 
 (1) Beamte, die
 
@@ -50,8 +45,7 @@ sind Angehörige des besonders gefährdeten fliegenden Personals.
 
 (2) Für Beamte, die auf Grund eines dienstlich erteilten Auftrages in einem Luftfahrzeug des Bundes, eines Landes oder der verbündeten Streitkräfte mitfliegen, gilt Absatz 1 sinngemäß.
 
-
-## § 3 – Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
+# § 3 – Besonders gefährlicher Auftrag, Flug- oder Betriebszustand
 
 (1) Ein besonders gefährlicher Auftrag (§ 2 Abs. 1 Nr. 5) liegt vor bei vorgeschriebenen Flügen
 
@@ -85,8 +79,7 @@ sind Angehörige des besonders gefährdeten fliegenden Personals.
 
 3. wenn das Luftfahrzeug steuerungsunfähig ist.
 
-
-## § 4 – Helm- und Schwimmtaucher
+# § 4 – Helm- und Schwimmtaucher
 
 (1) Beamte, die zu Unterwasserarbeiten mit einem Helmtauchgerät ausgebildet, in Übung gehalten oder eingesetzt werden, sind Helmtaucher. Beamte, die zu Unterwasserarbeiten mit einem Leichttauchgerät ausgebildet, in Übung gehalten oder eingesetzt werden, sind Schwimmtaucher.
 
@@ -96,8 +89,7 @@ sind Angehörige des besonders gefährdeten fliegenden Personals.
 
 2. des Schwimmtauchers vom Aufsetzen bis zum Absetzen der Schwimmaske.
 
-
-## § 5 – Beamte im Bergrettungsdienst
+# § 5 – Beamte im Bergrettungsdienst
 
 (1) Beamte, die
 
@@ -113,8 +105,7 @@ sind während der Dienstverrichtung nach Absatz 2 Beamte im Bergrettungsdienst.
 
 (2) Bergrettungsdienst ist jede Dienstverrichtung, die beim Einsatz oder bei der Ausbildung zur Bergnothilfe ausgeübt wird, und zwar im Felsklettern ab Schwierigkeitsgrad III, im Eisgehen ab Schwierigkeitsgrad II oder unter sonstigen Bedingungen, mit denen eine besondere Lebensgefahr verbunden ist. Ausbildung sind auch alle Dienstverrichtungen im Sinne des Satzes 1, die notwendig sind, um den Beamten für die Bergnothilfe in Übung zu halten.
 
-
-## § 6 – Munitionsuntersuchungspersonal
+# § 6 – Munitionsuntersuchungspersonal
 
 (1) Beamte, die zur Untersuchung von Munition dienstlich eingesetzt, und Beamte, die dabei als Hilfskräfte tätig sind, gehören während des dienstlichen Umgangs mit Munition (Absatz 3) zum besonders gefährdeten Munitionsuntersuchungspersonal.
 
@@ -122,29 +113,24 @@ sind während der Dienstverrichtung nach Absatz 2 Beamte im Bergrettungsdienst.
 
 (3) Dienstlicher Umgang mit Munition ist das dienstlich angeordnete Untersuchen (Prüfen und Feststellen des Zustandes) von Munition, deren Zustand zweifelhaft oder deren Herkunft unbekannt ist. Dazu gehören alle Dienstverrichtungen, die mit der Untersuchung im Zusammenhang stehen, insbesondere das Suchen, Markieren, Freilegen, Befördern, Zerlegen und Vernichten sowie das Entfernen, Auswechseln und Hinzufügen von Teilen.
 
-
-## § 7 – Angehörige von Verbänden für besondere polizeiliche Einsätze
+# § 7 – Angehörige von Verbänden für besondere polizeiliche Einsätze
 
 (1) Polizeivollzugsbeamte, die in den zur Bekämpfung schwerer Gewaltkriminalität gebildeten Verbänden der Bundespolizei und entsprechenden Polizeiverbänden der Länder dienstlich eingesetzt oder ausgebildet werden, sind Angehörige von Verbänden für besondere polizeiliche Einsätze. Entsprechendes gilt für andere Beamte, die gemeinsam mit den in Satz 1 bezeichneten Beamten oder wie diese besonders zur Bekämpfung schwerer Gewaltkriminalität eingesetzt oder ausgebildet werden.
 
 (2) Besonders gefährlich ist eine Diensthandlung, die beim besonderen polizeilichen Einsatz zur Bekämpfung schwerer Gewaltkriminalität oder in einer Sonderausbildung dazu vorgenommen wird und nach der Art des Einsatzes oder der Sonderausbildung über die im Polizeidienst übliche Gefährdung hinausgeht.
 
-
-## § 8 – Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
+# § 8 – Einsatz beim Ein- oder Aushängen von Außenlasten bei einem Drehflügelflugzeug
 
 Beamte, die unter einem schwebenden Drehflügelflugzeug Außenlasten an diesem Flugzeug ein- oder aushängen oder die Verbindung einer Steuerleitung zwischen Flugzeug und Außenlast herstellen oder lösen, befinden sich im Einsatz im Sinne des § 43 Abs. 3 Satz 1 Nr. 6 des Beamtenversorgungsgesetzes. Der Einsatz umfaßt auch die Ausbildung und Erprobung.
 
-
-## § 9 – Andere Angehörige des öffentlichen Dienstes
+# § 9 – Andere Angehörige des öffentlichen Dienstes
 
 Für Angestellte und Arbeiter, zu deren Dienstobliegenheiten Tätigkeiten der in § 43 Abs. 3 Satz 1 Nr. 1 bis 6 des Beamtenversorgungsgesetzes bezeichneten Art gehören, gelten die §§ 1 bis 8 entsprechend.
 
-
-## § 10 – Berlin-Klausel
+# § 10 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 108 Satz 2 des Beamtenversorgungsgesetzes auch im Land Berlin.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 1977 in Kraft.

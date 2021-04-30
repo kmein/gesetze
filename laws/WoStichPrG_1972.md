@@ -1,25 +1,19 @@
-# [WoStichPrG 1972] Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiete des Wohnungswesens und des Städtebaus  (Wohnungsstichprobengesetz 1972)
-
-Ausfertigungsdatum: 07.12.1971
-
+% Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiete des Wohnungswesens und des Städtebaus  (Wohnungsstichprobengesetz 1972)
+% Ausfertigungsdatum: 07.12.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1
+# § 1
 
 Im Geltungsbereich dieses Gesetzes wird eine repräsentative Bundesstatistik auf dem Gebiete des Wohnungswesens und des Städtebaus (Wohnungsstichprobe) über die Gebäude und Wohnungen, ihre Lage im Gemeindegebiet, über die Wohnungsversorgung, die Wohnparteien und deren Miet- und Einkommensverhältnisse sowie den Wohnungsbedarf nach den Verhältnissen im April 1972 durchgeführt.
 
-
-## § 2
+# § 2
 
 Die Wohnungsstichprobe erstreckt sich im Bundesdurchschnitt auf höchstens 1 vom Hundert der Gebäude mit Wohnraum.
 
-
-## § 3
+# § 3
 
 In der Wohnungsstichprobe sind zu erfassen:
 
@@ -43,15 +37,13 @@ d) beabsichtigter Wohnungswechsel und Gründe, Wohnabsichten, Art und Umfang der
 
 e) bei Untermietern Größe und Einrichtung der Räume und Höhe der Miete.
 
-
-## § 4
+# § 4
 
 (1) Auskunftspflichtig sind alle Haushaltsvorstände und die im Haushalt lebenden Volljährigen, die im April 1972 bei der Erhebung nach dem Gesetz über die Durchführung einer Repräsentativstatistik der Bevölkerung und des Erwerbslebens (Mikrozensus) vom 21. Dezember 1962 (Bundesgesetzbl. I S. 767), geändert durch Gesetz vom 28. Dezember 1968 (Bundesgesetzbl. I S. 1456), befragt werden. Auskunftspflichtig sind ferner die Wohnungsinhaber, die Grundstückseigentümer, die Eigentümer oder Verwalter von Gebäuden oder deren Vertreter und die Gemeinden.
 
 (2) Die Auskünfte werden durch mündliche Befragung eingeholt. Wohnt der Gebäudeeigentümer, sein Vertreter oder deren Beauftragter nicht im ausgewählten Gebäude oder wird die Gemeinde befragt, können die Auskünfte schriftlich eingeholt werden.
 
-
-## § 5
+# § 5
 
 Die Gemeinden mit 10.000 und mehr Einwohnern - soweit sie von der Stichprobe erfaßt werden - haben auszufüllen
 
@@ -59,12 +51,10 @@ Die Gemeinden mit 10.000 und mehr Einwohnern - soweit sie von der Stichprobe erf
 
 2. einen Grundstücksbogen mit Angaben über Größe und Abgrenzung der städtebaulich maßgebenden Grundstücksfläche, Zustand und Lage der in der Stichprobe zu erfassenden Gebäude auf dem Grundstück, die Freiflächen sowie die Größe, Aufteilung und Nutzung der Geschoßflächen von allen auf dem ausgewählten Grundstück vorhandenen Baulichkeiten. Soweit zur Ausfüllung des Grundstücksbogens eine Begehung der Grundstücke erforderlich ist, werden die Feststellungen durch Beauftragte der Gemeinden getroffen. Im Einvernehmen mit den Gemeinden können auch Beauftragte der Statistischen Landesämter die Begehung durchführen. Den mit der Begehung Beauftragten ist das Betreten der Grundstücke zu gestatten; das Grundrecht aus Artikel 13 des Grundgesetzes wird insoweit eingeschränkt.
 
-
-## § 6
+# § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 7
+# § 7
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

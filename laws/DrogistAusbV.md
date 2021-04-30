@@ -1,25 +1,19 @@
-# [DrogistAusbV] Verordnung über die Berufsausbildung zum Drogist/zur Drogistin
-
-Ausfertigungsdatum: 30.06.1992
-
+% Verordnung über die Berufsausbildung zum Drogist/zur Drogistin
+% Ausfertigungsdatum: 30.06.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, verordnet der Bundesminister für Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufs
+# § 1 – Staatliche Anerkennung des Ausbildungsberufs
 
 Der Ausbildungsberuf Drogist/Drogistin wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -119,25 +113,21 @@ c) Pflanzenschutz- und Pflanzenstärkungsmittel,
 
 d) Mittel zur Schädlingsbekämpfung.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach den in den Anlagen 1 und 2 enthaltenen Anleitungen zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Bei der Vermittlung der Fertigkeiten und Kenntnisse nach § 3 kann zwischen der Nummer 10, Foto oder der Nummer 11, chemisch-technische Waren, Pflanzenschutz, gewählt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Rechtsverordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstands ist eine Zwischenprüfung durchzuführen. Sie soll in der Mitte des zweiten Ausbildungsjahres stattfinden.
 
@@ -153,8 +143,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (4) Die in Absatz 3 genannte Prüfungsdauer kann insbesondere unterschritten werden, soweit die schriftliche Prüfung in programmierter Form durchgeführt wird.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage 1 aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -192,23 +181,19 @@ In 90 Minuten soll der Prüfling praxisbezogene Aufgaben oder Fälle aus der Ber
 
 (8) Zum Bestehen der Abschlußprüfung müssen im Gesamtergebnis sowie im Prüfungsfach Ware und Verkauf und in einem weiteren der in Absatz 3 Nr. 1 bis 3 genannten Prüfungsfächer mindestens ausreichende Prüfungsleistungen erbracht werden. Werden die Prüfungsleistungen in einem Prüfungsfach mit "ungenügend" bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Aufhebung von Vorschriften
+# § 9 – Aufhebung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Drogist/Drogistin sind vorbehaltlich des § 10 nicht mehr anzuwenden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren während des ersten Ausbildungsjahres die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
-
-## Anlage 1 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur Drogistin- Sachliche Gliederung -
+# Anlage 1 – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur Drogistin- Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 1200 - 1212;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1423,8 +1408,7 @@ c)
 
 Kunden über Eigenschaften, Wirkung, Anwendung und Aufbewahrung der Produkte beraten, sowie über mögliche Gefährdungen der Gesundheit und der Umwelt informieren
 
-
-## Anlage 2 – (zu § 3)  Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin  - Zeitliche Gliederung -
+# Anlage 2 – (zu § 3)  Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin  - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 1213 - 1215)
 

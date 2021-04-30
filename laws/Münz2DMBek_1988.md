@@ -1,10 +1,7 @@
-# [Münz2DMBek 1988] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
-
-Ausfertigungsdatum: 17.05.1988
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
+% Ausfertigungsdatum: 17.05.1988
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung hat die Bundesregierung beschlossen, zum 40jährigen Bestehen der Deutschen Mark ab 1988 eine 2 DM-Umlaufmünze mit dem Bildnis des ehemaligen Bundeskanzlers und langjährigen Bundesministers für Wirtschaft, Professor Dr. Ludwig Erhard, prägen zu lassen. Die Höhe der Auflage richtet sich nach den Bedürfnissen des Zahlungsverkehrs. Mit der Ausgabe wird am 20. Juni 1988 begonnen.
 
@@ -38,18 +35,16 @@ versehen. Zwischen jedem der Worte ist ein Ornament, am Schluß der Inschrift si
 
 (7) Der Entwurf der Bildseite stammt von Franz Müller, München.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
   
 (Fundstelle: BGBl. I 1988, 631)
 
   
   
-![](../normengrafiken/bgbl1_1988/j0631_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1988/j0631_0010.jpg)  
   

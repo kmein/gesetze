@@ -1,12 +1,7 @@
-# [USG] Gesetz über die Leistungen zur Sicherung des Unterhalts von Reservistendienst Leistenden  (Unterhaltssicherungsgesetz - USG)
-
-Ausfertigungsdatum: 04.08.2019
-
+% Gesetz über die Leistungen zur Sicherung des Unterhalts von Reservistendienst Leistenden  (Unterhaltssicherungsgesetz - USG)
+% Ausfertigungsdatum: 04.08.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -30,8 +25,9 @@ Ausfertigungsdatum: 04.08.2019
 
  
 
+ 
 
-## § 1 – Anwendungsbereich, Begriffsbestimmung
+# § 1 – Anwendungsbereich, Begriffsbestimmung
 
 (1) Dieses Gesetz gilt für Reservistendienst Leistende. Reservistendienst Leistende sind Personen, die Wehrdienst nach dem Vierten Abschnitt des Soldatengesetzes leisten. Teilnehmerinnen oder Teilnehmer an dienstlichen Veranstaltungen nach § 81 des Soldatengesetzes sind keine Reservistendienst Leistenden im Sinne dieses Gesetzes.
 
@@ -47,18 +43,15 @@ Ausfertigungsdatum: 04.08.2019
 
 (4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17 nicht anzuwenden.
 
-
-## § 2 – Teilzeit
+# § 2 – Teilzeit
 
 Bei Teilzeitbeschäftigung nach § 30a Absatz 1 des Soldatengesetzes werden Leistungen nach den §§ 5 bis 9, 11 und 14 anteilig gewährt. Die Leistungen nach den §§ 12 bis 17 und 23 Absatz 2 werden anteilig zur vollen Dienstzeit am jeweiligen Tag gewährt. Die Tage nach den §§ 12 und 13 werden bei Teilzeit anteilig gezählt.
 
-
-## § 3 – Härteausgleich
+# § 3 – Härteausgleich
 
 Wenn die Durchführung der Vorschriften dieses Gesetzes im Einzelfall zu einer offenbar nicht beabsichtigten Härte führen würde, kann im Einvernehmen mit dem Bundesministerium der Verteidigung ein Ausgleich für jeden Wehrdiensttag gewährt werden.
 
-
-## § 4 – Ruhen der Leistungen
+# § 4 – Ruhen der Leistungen
 
 Die Leistungen nach diesem Gesetz ruhen
 
@@ -68,8 +61,7 @@ Die Leistungen nach diesem Gesetz ruhen
 
 3. während eines eigenmächtigen Fernbleibens von der Truppe oder der Dienststelle.
 
-
-## § 5 – Leistungen an Arbeitnehmerinnen und Arbeitnehmer
+# § 5 – Leistungen an Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Arbeitnehmerinnen und Arbeitnehmern, die Reservistendienst leisten, wird der Verdienstausfall in Höhe des um die gesetzlichen Abzüge verminderten Arbeitsentgelts (§ 14 des Vierten Buches Sozialgesetzbuch) ersetzt.
 
@@ -77,18 +69,15 @@ Die Leistungen nach diesem Gesetz ruhen
 
 (3) Die Leistungen nach den Absätzen 1 und 2 betragen je Tag der Dienstleistung höchstens 301 Euro.
 
-
-## § 6 – Leistungen an Selbständige
+# § 6 – Leistungen an Selbständige
 
 Reservistendienst Leistende, die Inhaberinnen oder Inhaber eines Betriebs der Land- und Forstwirtschaft oder eines Gewerbebetriebs sind oder die eine selbständige Arbeit ausüben, erhalten für die ihnen infolge der Dienstleistung entgehenden Einkünfte für jeden Tag der Dienstleistung eine Entschädigung in Höhe von einem Dreihundertsechzigstel der Summe der sich aus dem letzten Einkommensteuerbescheid ergebenden Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des Einkommensteuergesetzes, höchstens jedoch 430 Euro je Tag der Dienstleistung. Für die Erhaltung der Betriebsstätte erhalten Reservistendienst Leistende zusätzlich für jeden Tag der Dienstleistung pauschal 0,15 Dreihundertsechzigstel der Summe der nach Satz 1 ermittelten Einkünfte.
 
-
-## § 7 – Zusammentreffen mehrerer Leistungen
+# § 7 – Zusammentreffen mehrerer Leistungen
 
 Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70 Prozent des nicht ausgeschöpften Höchstbetrags nach § 6 Satz 1 gewährt.
 
-
-## § 8 – Mindestleistung
+# § 8 – Mindestleistung
 
 (1) Reservistendienst Leistende erhalten nach ihrer Wahl statt der Leistungen nach den §§ 5 und 6 für jeden Tag der Dienstleistung einen Tagessatz, dessen Höhe sich aus der Tabelle in Anlage 1 ergibt. Der Tagessatz wird in Anlehnung an die regelmäßigen Anpassungen der entsprechenden Grundgehälter und des Familienzuschlags nach § 14 Absatz 1 des Bundesbesoldungsgesetzes angepasst. Das Bundesministerium der Verteidigung regelt den jeweils geltenden Tagessatz durch Rechtsverordnung ohne Zustimmung des Bundesrates.
 
@@ -98,8 +87,7 @@ Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70 Prozent des
 
 2. Ruhegehälter nach § 15 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 47 Absatz 1 Satz 2 und 3 des Soldatenversorgungsgesetzes, die der oder dem Reservistendienst Leistenden weitergewährt werden.
 
-
-## § 9 – Leistungen für Versorgungsempfänger
+# § 9 – Leistungen für Versorgungsempfänger
 
 Reservistendienst leistende Versorgungsempfängerinnen und Versorgungsempfänger erhalten mindestens den Unterschiedsbetrag zwischen
 
@@ -107,25 +95,21 @@ Reservistendienst leistende Versorgungsempfängerinnen und Versorgungsempfänger
 
 2. den ruhegehaltfähigen Dienstbezügen nach der Endstufe der Besoldungsgruppe, aus der das Ruhegehalt berechnet ist, gemindert um den Betrag, der als Lohnsteuer, Solidaritätszuschlag und Kirchensteuer von den Dienstbezügen abzuziehen wäre.
 
-
-## § 10 – Kaufkraftausgleich
+# § 10 – Kaufkraftausgleich
 
 Die Leistungen nach den §§ 11 sowie 15 bis 19 unterliegen dem Kaufkraftausgleich in entsprechender Anwendung von § 55 des Bundesbesoldungsgesetzes, wenn auch die Besoldung der an demselben Dienstort stationierten Berufssoldatinnen und Berufssoldaten sowie Soldatinnen auf Zeit und Soldaten auf Zeit dem Kaufkraftausgleich unterliegt.
 
-
-## § 11 – Prämie
+# § 11 – Prämie
 
 Reservistendienst Leistende erhalten für jeden Tag Reservistendienst eine Prämie nach Spalte 2 der Tabelle in Anlage 2.
 
-
-## § 12 – Zuschlag für längeren Dienst
+# § 12 – Zuschlag für längeren Dienst
 
 Reservistendienst Leistende erhalten einen Zuschlag von 70 Euro pro Tag ab dem 15. Tag Reservistendienst im Kalenderjahr, höchstens jedoch 700 Euro im Kalenderjahr. Die Leistung ist ausgeschlossen, soweit eine Verpflichtungsvereinbarung nach § 13 abgeschlossen ist.
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 13 – Zuschlag für die Verpflichtung zu längerem Dienst
+# § 13 – Zuschlag für die Verpflichtung zu längerem Dienst
 
 Reservistendienst Leistende, die sich vor dem ersten Tag eines Reservistendienstes auf Grund eines entsprechenden Angebots verpflichtet haben, in einem Kalenderjahr mindestens 33 Tage Reservistendienst zu leisten, erhalten nach Erfüllung der Verpflichtung einen Zuschlag von 35 Euro je Tag, höchstens jedoch 1 470 Euro je Kalenderjahr. Eine Verpflichtung ist nur wirksam, wenn
 
@@ -135,15 +119,13 @@ Reservistendienst Leistende, die sich vor dem ersten Tag eines Reservistendienst
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 14 – Dienstgeld
+# § 14 – Dienstgeld
 
 Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, einem Sonntag und einem gesetzlichen Feiertag sowie für eine eintägige Dienstleistung an einem Freitag eine zweite Prämie nach Spalte 2 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst geleistet wird, wird die zweite Prämie nicht gewährt.
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 15 – Zuschlag für herausgehobene Funktionen
+# § 15 – Zuschlag für herausgehobene Funktionen
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag für die Dauer der Wahrnehmung einer herausgehobenen Funktion unter den gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Stellenzulage im Sinne des § 42 Absatz 1 und 3 des Bundesbesoldungsgesetzes zusteht.
 
@@ -151,8 +133,7 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 16 – Zuschlag für besondere Erschwernisse
+# § 16 – Zuschlag für besondere Erschwernisse
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag zur Abgeltung besonderer Erschwernisse, sofern sie Aufgaben unter den gleichen Voraussetzungen wahrnehmen, unter denen Besoldungsempfängerinnen und Besoldungsempfängern eine Erschwerniszulage nach § 47 des Bundesbesoldungsgesetzes zusteht.
 
@@ -160,8 +141,7 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 17 – Zuschlag für besondere zeitliche Belastungen
+# § 17 – Zuschlag für besondere zeitliche Belastungen
 
 (1) Reservistendienst Leistende erhalten einen Zuschlag für jede Dienstleistung, für die Besoldungsempfängerinnen und Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen Umfang nach den §§ 50 bis 50b des Bundesbesoldungsgesetzes und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
 
@@ -169,41 +149,35 @@ Reservistendienst Leistende erhalten für Dienstleistungen an einem Samstag, ein
 
 (+++ §§ 12 bis 17: Zur Nichtanwendung vgl. § 1 Abs. 4 +++)
 
-
-## § 18 – Auslandsverwendungszuschlag
+# § 18 – Auslandsverwendungszuschlag
 
 (1) Reservistendienst Leistende, die an einer besonderen Verwendung im Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes teilnehmen, erhalten einen Auslandsverwendungszuschlag unter den gleichen Voraussetzungen, in der gleichen Höhe und in dem gleichen Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56 Absatz 3 Satz 1 und 2 des Bundesbesoldungsgesetzes und die dazu erlassene Rechtsverordnung gelten entsprechend.
 
 (2) Reservistendienst Leistende, die während einer besonderen Auslandsverwendung wegen Verschleppung, Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu vertreten haben, dem Einflussbereich des Dienstherrn entzogen sind, wird für diesen Zeitraum die höchste Stufe des Auslandsverwendungszuschlags gewährt.
 
-
-## § 19 – Auslandszuschlag
+# § 19 – Auslandszuschlag
 
 (1) Reservistendienst Leistende erhalten einen Zuschlag, wenn Berufssoldatinnen und Berufssoldaten sowie Soldatinnen auf Zeit und Soldaten auf Zeit an diesem Dienstort Auslandsdienstbezüge oder Auslandstrennungsgeld erhalten. Satz 1 gilt nicht bei Anspruch auf den Auslandsverwendungszuschlag nach § 18.
 
 (2) Die Höhe des Zuschlags bemisst sich nach Spalte 3 der Tabelle in Anlage 2.
 
-
-## § 20 – Unterkunft
+# § 20 – Unterkunft
 
 (1) Reservistendienst Leistenden, die auf Grund dienstlicher Anordnung verpflichtet sind, in einer Gemeinschaftsunterkunft zu wohnen, wird die Unterkunft unentgeltlich bereitgestellt.
 
 (2) Reservistendienst Leistenden werden die notwendigen Kosten für die Fahrten zur Unterkunft und zurück erstattet. Näheres bestimmt das Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
-
-## § 21 – Dienstkleidung und Ausrüstung
+# § 21 – Dienstkleidung und Ausrüstung
 
 Reservistendienst Leistenden werden die Dienstkleidung und die Ausrüstung unentgeltlich bereitgestellt. Reservistendienst Leistende, die auf dienstliche Anordnung im Dienst eigene Zivilkleidung tragen, erhalten für deren Abnutzung eine angemessene Entschädigung. Die Höhe der Entschädigung bestimmt das Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
-
-## § 22 – Heilfürsorge
+# § 22 – Heilfürsorge
 
 (1) Reservistendienst Leistende haben Anspruch auf Heilfürsorge in Form der unentgeltlichen truppenärztlichen Versorgung. § 69a des Bundesbesoldungsgesetzes gilt entsprechend.
 
 (2) Reservistendienst Leistenden mit festgesetzter Dienstzeit von bis zu sechs Monaten wird zahnärztliche Versorgung nur bei akuter Behandlungsbedürftigkeit und zur Wiederherstellung der Dienstfähigkeit gewährt, es sei denn, es handelt sich um die Behandlung der Folgen einer Wehrdienstbeschädigung.
 
-
-## § 23 – Verpflegung, Verpflegungsgeld
+# § 23 – Verpflegung, Verpflegungsgeld
 
 (1) Reservistendienst Leistende, die für die Dauer eines auswärtigen Dienstgeschäftes außerhalb von Dienstreisen auf Grund dienstlicher Anordnung verpflichtet sind, an einer Gemeinschaftsverpflegung teilzunehmen, wird die Verpflegung unentgeltlich bereitgestellt.
 
@@ -219,25 +193,21 @@ Reservistendienst Leistenden werden die Dienstkleidung und die Ausrüstung unent
 
 (5) Bei dienstlichem Aufenthalt im Ausland unterliegt das nach Absatz 2 auszuzahlende Verpflegungsgeld dem Kaufkraftausgleich nach § 10.
 
-
-## § 24 – Zuständigkeit
+# § 24 – Zuständigkeit
 
 Für die Durchführung dieses Gesetzes mit Ausnahme von Kapitel 2 Abschnitt 3 ist das Bundesamt zuständig.
 
-
-## § 25 – Antrag
+# § 25 – Antrag
 
 (1) Die Leistungen nach den §§ 5 bis 9, 14 und 19 werden auf Antrag gewährt.
 
 (2) Das Antragsrecht endet mit Ablauf des sechsten Monats nach Beendigung des geleisteten Reservistendienstes.
 
-
-## § 26 – Leistungsberechnung
+# § 26 – Leistungsberechnung
 
 Bemisst sich der Anspruch auf Leistungen nach Tagen, wird der Monat mit 30 Tagen berechnet.
 
-
-## § 27 – Auskunfts- und Mitteilungspflichten
+# § 27 – Auskunfts- und Mitteilungspflichten
 
 (1) Reservistendienst Leistende, die Leistungen nach § 8 Absatz 1 Satz 1 beantragen, haben Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz 2 Satz 2, auch in Verbindung mit Absatz 11, des Arbeitsplatzschutzgesetzes sowie Ruhegehälter nach § 15 Absatz 1 des Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags nach § 47 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes anzugeben, die sie für die Zeit des Reservistendienstes erhalten.
 
@@ -251,8 +221,7 @@ Bemisst sich der Anspruch auf Leistungen nach Tagen, wird der Monat mit 30 Tagen
 
 (6) Die für die Aufforderung zum Dienstantritt, die Einberufung, die Heranziehung oder die Entlassung von Reservistendienst Leistenden zuständige Stelle übermittelt dem Bundesamt auf Ersuchen unverzüglich die Tatsachen, deren Kenntnis für die Berechnung der Leistungen nach diesem Gesetz erforderlich ist.
 
-
-## § 28 – Folgen fehlender Mitwirkung
+# § 28 – Folgen fehlender Mitwirkung
 
 (1) Kommt eine Antragstellerin oder ein Antragsteller oder eine Leistungsempfängerin oder ein Leistungsempfänger einer Mitwirkungspflicht nach § 27 Absatz 1 oder 2 dieses Gesetzes oder nach § 27 Absatz 2 des Verwaltungsverfahrensgesetzes nicht nach und wird hierdurch die Aufklärung des Sachverhalts erheblich erschwert, so kann die Leistung ohne weitere Ermittlungen, bis die Mitwirkung nachgeholt wird, versagt oder entzogen werden. Dies gilt entsprechend, wenn die Aufklärung des Sachverhalts in anderer Weise absichtlich erheblich erschwert wird.
 
@@ -260,13 +229,11 @@ Bemisst sich der Anspruch auf Leistungen nach Tagen, wird der Monat mit 30 Tagen
 
 (3) Wird die Mitwirkung nachgeholt und liegen die Leistungsvoraussetzungen vor, kann die Leistung nachträglich gewährt werden.
 
-
-## § 29 – Vertretung der Bundesrepublik Deutschland
+# § 29 – Vertretung der Bundesrepublik Deutschland
 
 Die Bundesministerin der Verteidigung oder der Bundesminister der Verteidigung kann die Vertretung der Bundesrepublik Deutschland in Rechtsstreitigkeiten nach diesem Gesetz durch allgemeine Anordnung übertragen. Die Anordnung ist im Bundesgesetzblatt zu veröffentlichen.
 
-
-## § 30 – Bußgeldvorschriften
+# § 30 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -280,14 +247,12 @@ Die Bundesministerin der Verteidigung oder der Bundesminister der Verteidigung k
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für das Personalmanagement der Bundeswehr.
 
-
-## Anlage 1 – (zu § 8)Mindestleistung
+# Anlage 1 – (zu § 8)Mindestleistung
 
 (Fundstelle: BGBl. I 2019, 1184)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 2 – (zu den §§ 11, 14 und 19)Prämie, Dienstgeld, Auslandszuschlag
+# Anlage 2 – (zu den §§ 11, 14 und 19)Prämie, Dienstgeld, Auslandszuschlag
 
 (Fundstelle: BGBl. I 2019, 1185)

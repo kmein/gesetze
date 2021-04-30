@@ -1,17 +1,13 @@
-# [BTÄO] Bundes-Tierärzteordnung
-
-Ausfertigungsdatum: 17.05.1965
-
+% Bundes-Tierärzteordnung
+% Ausfertigungsdatum: 17.05.1965
  
-
-## § 1
+# § 1
 
 (1) Der Tierarzt ist berufen, Leiden und Krankheiten der Tiere zu verhüten, zu lindern und zu heilen, zur Erhaltung und Entwicklung eines leistungsfähigen Tierbestandes beizutragen, den Menschen vor Gefahren und Schädigungen durch Tierkrankheiten sowie durch Lebensmittel und Erzeugnisse tierischer Herkunft zu schützen und auf eine Steigerung der Güte von Lebensmitteln tierischer Herkunft hinzuwirken.
 
 (2) Der tierärztliche Beruf ist kein Gewerbe; er ist seiner Natur nach ein freier Beruf.
 
-
-## § 2
+# § 2
 
 (1) Wer im Geltungsbereich dieses Gesetzes den tierärztlichen Beruf ausüben will, bedarf der Approbation als Tierarzt.
 
@@ -21,13 +17,11 @@ Ausfertigungsdatum: 17.05.1965
 
 (4) Für die Ausübung des tierärztlichen Berufs in Grenzgebieten durch im Inland nicht niedergelassene Tierärzte gelten die hierfür abgeschlossenen zwischenstaatlichen Verträge.
 
-
-## § 3
+# § 3
 
 Die Berufsbezeichnung "Tierarzt" oder "Tierärztin" darf nur führen, wer als Tierarzt approbiert oder nach § 2 Abs. 2, 3 oder 4 zur vorübergehenden Ausübung des tierärztlichen Berufs befugt ist.
 
-
-## § 4
+# § 4
 
 (1) Die Approbation als Tierarzt ist auf Antrag zu erteilen, wenn der Antragsteller
 
@@ -143,8 +137,7 @@ c) ob mit dem Ausbildungsnachweis im Hoheitsgebiet des Ausstellungsmitgliedstaat
 
 Die Nachweise nach Satz 1 Nr. 3 und 4 dürfen bei ihrer Vorlage nicht älter als drei Monate sein. Die Vorlage der Bescheinigung nach Satz 1 Nummer 5 soll nur verlangt werden, wenn Zweifel an der Richtigkeit des Befähigungs- oder Ausbildungsnachweises nach Satz 1 Nummer 2, insbesondere im Hinblick auf die in der Anlage aufgeführte Bezeichnung des Nachweises oder die aufgeführte ausstellende Stelle, bestehen, die ohne unverhältnismäßigen Aufwand nicht anders als durch die Vorlage dieser Bescheinigung ausgeräumt werden können. Haben die zuständigen Behörden berechtigte Zweifel an der Authentizität der in dem jeweiligen Herkunftsmitgliedstaat ausgestellten Bescheinigungen und Ausbildungsnachweise, können sie von den zuständigen Behörden des Herkunftsmitgliedstaats eine Bestätigung der Authentizität dieser Bescheinigungen und Nachweise sowie eine Bestätigung darüber verlangen, dass der Antragsteller die Mindestanforderungen der Ausbildung erfüllt, die in Artikel 38 der Richtlinie 2005/36/EG verlangt werden.
 
-
-## § 5
+# § 5
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft regelt mit Zustimmung des Bundesrates in einer Verordnung zur Approbation von Tierärztinnen und Tierärzten unter Berücksichtigung von Artikel 38 der Richtlinie 2005/36/EG die Mindestanforderungen an die Ausbildung sowie das Nähere über die Prüfungen und die Approbation. In der Rechtsverordnung sind
 
@@ -174,22 +167,19 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln. Das Bundesminis
 
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des Verwaltungsverfahrens mit Ausnahme der Fristenregelung in § 4 Absatz 3c durch Landesrecht sind ausgeschlossen.
 
-
-## § 6
+# § 6
 
 (1) Die Approbation ist zurückzunehmen, wenn bei ihrer Erteilung die Tierärztliche Prüfung nicht bestanden oder die Ausbildung nach § 4 Abs. 1a Satz 1, Abs. 2 oder 3, die Ausbildung im Fall des § 15 Abs. 4 oder die nach § 15a nachzuweisende Ausbildung nicht abgeschlossen war.
 
 (2) Die Approbation ist zu widerrufen, wenn nachträglich eine der Voraussetzungen nach § 4 Abs. 1 Nr. 2 weggefallen ist.
 
-
-## § 7
+# § 7
 
 (1) Die Approbation kann zurückgenommen werden, wenn bei ihrer Erteilung eine der Voraussetzungen nach § 4 Absatz 1 Nummer 2 oder 3 oder die Voraussetzung für die Bescheinigung nach § 15a nicht vorgelegen hat. Eine nach § 4 Abs. 2 oder 3 erteilte Approbation kann zurückgenommen werden, wenn die Gleichwertigkeit des Ausbildungsstandes nicht gegeben war.
 
 (2) Die Approbation kann widerrufen werden, wenn nachträglich eine der Voraussetzungen nach § 4 Abs. 1 Nr. 3 weggefallen ist.
 
-
-## § 8
+# § 8
 
 (1) Das Ruhen der Approbation kann angeordnet werden, wenn
 
@@ -207,25 +197,21 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates zu regeln. Das Bundesminis
 
 (4) Die zuständige Behörde kann zulassen, daß die Praxis eines Tierarztes, dessen Approbation ruht, für einen von ihr zu bestimmenden Zeitraum durch einen anderen Tierarzt weitergeführt werden kann.
 
-
-## § 9
+# § 9
 
 \-
 
-
-## § 9a
+# § 9a
 
 (1) Bei einer Person, deren Approbation oder Bestallung wegen Fehlens oder späteren Wegfalls einer der Voraussetzungen des § 4 Abs. 1 Nr. 2 oder 3 zurückgenommen oder widerrufen worden ist oder die gemäß § 10 auf die Approbation verzichtet hat und die einen Antrag auf Wiedererteilung der Approbation gestellt hat, kann die Entscheidung über diesen Antrag zurückgestellt und zunächst eine Erlaubnis zur Ausübung des tierärztlichen Berufs bis zu einer Dauer von zwei Jahren erteilt werden.
 
 (2) Die Erlaubnis wird nur widerruflich und befristet erteilt; sie kann auf bestimmte Tätigkeiten und Beschäftigungsstellen beschränkt werden. Personen, denen die Erlaubnis erteilt worden ist, haben im übrigen die Rechte und Pflichten eines Tierarztes.
 
-
-## § 10
+# § 10
 
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer Bedingung erklärt wird, ist unwirksam.
 
-
-## § 11
+# § 11
 
 (1) Eine Erlaubnis zur vorübergehenden Ausübung des tierärztlichen Berufs nach § 2 Abs. 2 kann auf Antrag Personen erteilt werden, die eine abgeschlossene Ausbildung für den tierärztlichen Beruf nachweisen. Satz 1 gilt nicht für Staatsangehörige eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die einen Ausbildungsnachweis in einem dieser Staaten erworben haben oder einen gleichwertigen Ausbildungsnachweis im Sinne des § 4 Absatz 1a Satz 3 vorlegen. § 9a bleibt unberührt.
 
@@ -247,8 +233,7 @@ c) im Besitz einer Einbürgerungszusicherung ist, der Einbürgerung jedoch Hinde
 
 (4) Personen, denen eine Erlaubnis zur vorübergehenden Ausübung des tierärztlichen Berufs erteilt worden ist, haben im übrigen die Rechte und Pflichten eines Tierarztes
 
-
-## § 11a
+# § 11a
 
 (1) Staatsangehörige eines Mitgliedstaats der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die zur Ausübung des tierärztlichen Berufs in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen tierärztlichen Ausbildung oder auf Grund eines in der Anlage zu § 4 Abs. 1a Satz 1 oder in § 4 Abs. 1a Satz 2 oder Satz 3 oder in § 15a genannten tierärztlichen Ausbildungsnachweises berechtigt sind, dürfen als Dienstleistungserbringer im Sinne der Vorschriften des Vertrages über die Arbeitsweise der Europäischen Union vorübergehend und gelegentlich den tierärztlichen Beruf im Geltungsbereich dieses Gesetzes ausüben, wenn sie zur Ausübung des tierärztlichen Berufs rechtmäßig in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, niedergelassen sind. Der vorübergehende und gelegentliche Charakter der Erbringung von Dienstleistungen wird im Einzelfall beurteilt, insbesondere anhand der Dauer, der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der Dienstleistungserbringung. Eine Berechtigung nach Satz 1 besteht nicht, wenn die Voraussetzungen einer Rücknahme, eines Widerrufs oder einer Ruhensanordnung, die sich auf die Tatbestände nach § 4 Abs. 1 Nr. 2 oder Nr. 3 beziehen, vorliegen, eine entsprechende Maßnahme mangels deutscher Berufszulassung jedoch nicht erlassen werden kann.
 
@@ -288,8 +273,7 @@ die Bescheinigungen dürfen bei ihrer Vorlage nicht älter als zwölf Monate sei
 
 Eine Untersagung nach Nummer 4 erlischt mit Zugang der Meldung nach Absatz 2 Satz 1 bis 4 bei der zuständigen Behörde.
 
-
-## § 12
+# § 12
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Entgelte für tierärztliche Leistungen einschließlich der Preise und Preisspannen für vom Tierarzt angewandte Arzneimittel in einer Gebührenordnung zu regeln. Dabei ist den berechtigten Interessen der Tierärzte und der zur Zahlung der Entgelte Verpflichteten Rechnung zu tragen. Die Vorschriften der Deutschen Arzneitaxe sind zu berücksichtigen.
 
@@ -297,8 +281,7 @@ Eine Untersagung nach Nummer 4 erlischt mit Zugang der Meldung nach Absatz 2 Sat
 
 (3) (weggefallen)
 
-
-## § 13
+# § 13
 
 (1) Die Approbation erteilt in den Fällen des § 4 Abs. 1 die zuständige Behörde des Landes, in dem der Antragsteller die Tierärztliche Prüfung oder in den Fällen des § 15 Abs. 6 die Tierärztliche Hauptprüfung abgelegt hat.
 
@@ -318,8 +301,7 @@ Eine Untersagung nach Nummer 4 erlischt mit Zugang der Meldung nach Absatz 2 Sat
 
 (8) Soweit die in Deutschland zuständigen Stellen Informationen nach Anhang VII Nummer 1 Buchstabe d der Richtlinie 2005/36/EG an die zuständigen Behörden des Aufnahmemitgliedstaats zu übermitteln haben, hat dies binnen zwei Monaten zu erfolgen.
 
-
-## § 13a
+# § 13a
 
 (1) Die zuständige Behörde unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen Union oder der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder der Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, über den Widerruf, die Rücknahme und das Ruhen einer Approbation oder einer Erlaubnis nach § 11 Absatz 1a sowie über sonstige Verbote oder Beschränkungen der tierärztlichen Berufstätigkeit, sofern die jeweilige behördliche Maßnahme oder gerichtliche Entscheidung vollziehbar oder unanfechtbar ist.
 
@@ -351,18 +333,15 @@ Im Falle des Satzes 1 Nummer 3 gilt Absatz 3 entsprechend.
 
 (6) Die zuständige Behörde löscht die Angaben nach den Absätzen 2 und 5 Nummer 3 nach Maßgabe des Artikels 56a Absatz 7 der Richtlinie 2005/36/EG.
 
-
-## § 13b
+# § 13b
 
 Staatsangehörige eines Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, die die Erteilung einer Approbation nach § 4 oder § 15a oder einer Erlaubnis zur vorübergehenden Ausübung des tierärztlichen Berufs nach § 11 Absatz 1a beantragen oder die erstmalige oder erneute Meldung nach § 11a abgeben wollen, können die jeweils erforderlichen Unterlagen und Nachweise auch elektronisch an die zuständige Behörde oder, soweit die Länder hierfür gemeinsame oder einheitliche Stellen eingerichtet haben, an diese übermitteln. Hat die zuständige Behörde begründete Zweifel an der Authentizität einer elektronisch eingereichten Unterlage oder eines elektronisch eingereichten Nachweises, kann sie, soweit sie dies für erforderlich erachtet, die Übermittlung beglaubigter Kopien verlangen.
 
-
-## § 14
+# § 14
 
 Wer den tierärztlichen Beruf ausübt, solange durch vollziehbare Verfügung das Ruhen der Approbation angeordnet ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 15
+# § 15
 
 (1) Eine Approbation oder Bestallung, die am 1. Juni 1975 im Geltungsbereich dieses Gesetzes zur Ausübung des tierärztlichen Berufs berechtigt, und eine Approbation, die nach § 1 der Tierärzteordnung für das Saarland vom 5. Dezember 1947 (Amtsblatt des Saarlandes 1948 S. 196) erteilt worden ist, gelten als Approbation im Sinne dieses Gesetzes.
 
@@ -376,8 +355,7 @@ Wer den tierärztlichen Beruf ausübt, solange durch vollziehbare Verfügung das
 
 (6) Studierende der Veterinärmedizin, die nach dem Wirksamwerden des Beitritts ein vorher begonnenes Studium der Veterinärmedizin an Universitäten des in Artikel 3 des Einigungsvertrages genannten Gebietes fortsetzen, schließen die Ausbildung nach den dort bis zum Wirksamwerden des Beitritts geltenden Vorschriften ab. Der erfolgreiche Abschluß der Ausbildung steht dem Abschluß des Studiums der Veterinärmedizin durch die bestandene Tierärztliche Prüfung nach § 4 Abs. 1 Nr. 4 gleich. Für Studierende, die das Studium der Veterinärmedizin nach dem Wirksamwerden des Beitritts aufnehmen, gelten die Vorschriften der Approbationsordnung für Tierärzte vom Beginn dieses Studiums an.
 
-
-## § 15a
+# § 15a
 
 (1) Antragstellern, die die Voraussetzungen des § 4 Absatz 1 Nummer 2, 3 und 5 erfüllen und eine Approbation als Tierarzt auf Grund der Vorlage eines vor den in der Anlage zu § 4 Abs. 1a Satz 1 aufgeführten Stichtagen ausgestellten tierärztlichen Ausbildungsnachweises eines der übrigen Mitgliedstaaten der Europäischen Union oder eines vor dem 1. Januar 1993 ausgestellten tierärztlichen Ausbildungsnachweises eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, beantragen und dieser nicht allen Mindestanforderungen der tierärztlichen Ausbildung nach Artikel 38 der Richtlinie 2005/36/EG genügt, ist die Approbation als Tierarzt zu erteilen, sofern der zuständigen Behörde eine Bescheinigung des Herkunftsmitgliedstaats vorgelegt wird, aus der sich ergibt, dass der Antragsteller während der letzten fünf Jahre vor Ausstellung der Bescheinigung mindestens drei Jahre ununterbrochen tatsächlich und rechtmäßig den tierärztlichen Beruf ausgeübt hat.
 
@@ -393,8 +371,7 @@ ist die Approbation als Tierarzt zu erteilen, wenn die zuständigen Behörden di
 
 (3) Bei den Staatsangehörigen der Mitgliedstaaten, deren Ausbildungsnachweise von der früheren Sowjetunion verliehen wurden und die Aufnahme des Berufs des Tierarztes gestatten oder aus denen hervorgeht, dass die Ausbildung im Falle Estlands vor dem 20. August 1991 aufgenommen wurde, ist die Approbation als Tierarzt zu erteilen, wenn die zuständigen Behörden dieses Mitgliedstaats bescheinigen, dass diese Ausbildungsnachweise hinsichtlich der Aufnahme und Ausübung des Berufs des Tierarztes in ihrem Hoheitsgebiet die gleiche Rechtsgültigkeit haben wie die von ihnen verliehenen Ausbildungsnachweise und eine von der gleichen Behörde ausgestellte Bescheinigung darüber vorgelegt wird, dass der Antragsteller in den fünf Jahren vor Ausstellung der Bescheinigung mindestens drei Jahre ununterbrochen tatsächlich und rechtmäßig den tierärztlichen Beruf in ihrem Hoheitsgebiet ausgeübt hat. Bei den Staatsangehörigen der Mitgliedstaaten, deren Ausbildungsnachweise von Estland vor dem 1. Mai 2004 verliehen wurden und die Aufnahme des Berufs des Tierarztes gestatten oder aus denen hervorgeht, dass die Ausbildung in Estland vor dem 1. Mai 2004 aufgenommen wurde, ist die Approbation als Tierarzt zu erteilen, wenn ihnen eine Bescheinigung darüber beigefügt ist, dass der Antragsteller in den sieben Jahren vor Ausstellung der Bescheinigung mindestens fünf Jahre ununterbrochen tatsächlich und rechtmäßig den tierärztlichen Beruf in Estland ausgeübt hat.
 
-
-## § 15b
+# § 15b
 
 (1) Abweichend von § 2 Absatz 1 und 2 genehmigt die zuständige Behörde Antragstellern, die Staatsangehörige eines anderen Mitgliedstaates der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Vertragsstaates sind, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, das Ausüben bestimmter tierärztlicher Tätigkeiten, die Teile einer tierärztlichen Berufstätigkeit im Inland umfassen. Die Genehmigung darf nur erteilt werden, wenn
 
@@ -428,8 +405,7 @@ Eine Genehmigung nach Satz 1 darf nicht erteilt werden, wenn dem Antragsteller e
 
 (8) § 4 Absatz 1c, die §§ 10, 13a und 13b gelten entsprechend.
 
-
-## § 15c
+# § 15c
 
 (1) Abweichend von § 11a Absatz 1 Satz 1 genehmigt die zuständige Behörde auf Antrag das Ausüben bestimmter tierärztlicher Tätigkeiten, die Teile einer tierärztlichen Berufstätigkeit im Inland umfassen und zur vorübergehenden und gelegentlichen Erbringung von Dienstleistungen im Inland ausgeübt werden, wenn der Antragsteller zur Ausübung dieser tierärztlichen Tätigkeiten rechtmäßig in einem der übrigen Mitgliedstaaten der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben, niedergelassen ist.
 
@@ -443,8 +419,7 @@ Eine Genehmigung nach Satz 1 darf nicht erteilt werden, wenn dem Antragsteller e
 
 (4) § 13 Absatz 4 Satz 1 bis 3 und § 15b Absatz 7 Satz 4 gelten entsprechend.
 
-
-## § 16
+# § 16
 
 Die Vorschriften dieses Gesetzes gelten mit Ausnahme des § 2 Absatz 3, § 4 Absatz 3, § 11 Absatz 1 Satz 2, der §§ 11a, 13a, 15b und 15c entsprechend
 
@@ -454,13 +429,11 @@ Die Vorschriften dieses Gesetzes gelten mit Ausnahme des § 2 Absatz 3, § 4 Abs
 
 Bei Antragstellern nach Nummer 2 ist an Stelle des in § 4 Absatz 6 Nummer 1 genannten Staatsangehörigkeitsnachweises ein Identitätsnachweis vorzulegen.
 
-
-## § 16a
+# § 16a
 
 Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des § 17 keine Anwendung.
 
-
-## Anlage – (zu § 4 Absatz 1a Satz 1, 2 und 3 und Absatz 6 Satz 3) Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder der Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
+# Anlage – (zu § 4 Absatz 1a Satz 1, 2 und 3 und Absatz 6 Satz 3) Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder der Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
 
 (Fundstelle: BGBl. I 2017, 823 - 826)
 

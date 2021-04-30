@@ -1,10 +1,7 @@
-# [StVZOAusnV 52] Zweiundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung  (52. Ausnahmeverordnung zur StVZO)
-
-Ausfertigungsdatum: 13.08.1996
-
+% Zweiundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung  (52. Ausnahmeverordnung zur StVZO)
+% Ausfertigungsdatum: 13.08.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,8 +13,7 @@ des § 6 Abs. 1 Nr. 3 Buchstabe d, Nr. 5a und Abs. 2a in Verbindung mit Abs. 3 d
 
 nach Anhörung der zuständigen obersten Landesbehörden:
 
-
-## § 1
+# § 1
 
 Abweichend von § 47 Abs. 3 Nr. 4 der Straßenverkehrs-Zulassungs-Ordnung gelten Kraftfahrzeuge auch dann als schadstoffarm im Sinne der Richtlinie 70/220/EWG in der Fassung der Richtlinie 93/59/EWG des Rates vom 28. Juni 1993 (ABl. EG Nr. L 186 S. 21), wenn sie vor dem
 
@@ -43,7 +39,6 @@ c) durch ein Teilegutachten nach § 19 Abs. 3 Nr. 4 der Straßenverkehrs-Zulassu
 
 5. alle für die Nachrüstung mit dem Abgasreinigungssystem erforderlichen Teile ordnungsgemäß eingebaut sind und die einwandfreie Funktion des Abgasreinigungssystems von einer für die Durchführung der Abgasuntersuchung nach § 47a der Straßenverkehrs-Zulassungs-Ordnung in Verbindung mit Anlage VIIIa Nr. 3.1.2 oder 3.2 anerkannten Kraftfahrzeugwerkstatt, sofern diese die Nachrüstung selbst durchgeführt hat oder durch einen amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder durch einen Kraftfahrzeugsachverständigen oder Angestellten nach Abschnitt 7.4a der Anlage VIII bestätigt worden ist.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

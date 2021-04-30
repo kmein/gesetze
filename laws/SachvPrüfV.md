@@ -1,15 +1,11 @@
-# [SachvPrüfV] Verordnung über die Prüfung des Jahresabschlusses und des Lageberichts von Versicherungsunternehmen durch einen unabhängigen Sachverständigen  (Sachverständigenprüfverordnung - SachvPrüfV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über die Prüfung des Jahresabschlusses und des Lageberichts von Versicherungsunternehmen durch einen unabhängigen Sachverständigen  (Sachverständigenprüfverordnung - SachvPrüfV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Satz 2, 4 und 5 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der Finanzen nach Anhörung des Versicherungsbeirats im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Anwendungsbereich, Prüfungszeitraum
+# § 1 – Anwendungsbereich, Prüfungszeitraum
 
 (1) Versicherungsunternehmen, die der Bundesaufsicht unterliegen und auf die § 341k des Handelsgesetzbuchs nicht anzuwenden ist (§ 61 der Versicherungsunternehmens-Rechnungslegungsverordnung) haben ihren Jahresabschluss und ihren Lagebericht durch einen unabhängigen Sachverständigen nach den Vorschriften dieser Verordnung prüfen zu lassen. Dies gilt nicht für Versicherungsvereine auf Gegenseitigkeit, die nach § 5 des Versicherungsaufsichtsgesetzes von der laufenden Aufsicht freigestellt sind.
 
@@ -17,8 +13,7 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Satz 2, 4 und 5 d
 
 (3) Soweit ein Versicherungsunternehmen im Sinne von Absatz 1 Satz 1 mindestens zum Abschluss jedes dritten Geschäftsjahres freiwillig seinen Jahresabschluss und seinen Lagebericht unter Beachtung der Vorschriften des § 341k des Handelsgesetzbuchs und der Vorschriften der Prüfungsberichteverordnung prüfen lässt, entfällt eine Sachverständigenprüfung nach der vorliegenden Verordnung. Für die Vorlage dieses Prüfungsberichts gilt § 7 entsprechend. Die Befugnis der Aufsichtsbehörde nach Absatz 2 Satz 1, eine Prüfung nach den Vorschriften dieser Verordnung auch in kürzeren Abständen zu verlangen, bleibt unberührt.
 
-
-## § 2 – Gegenstand und Umfang der Prüfung
+# § 2 – Gegenstand und Umfang der Prüfung
 
 (1) In die Prüfung des Jahresabschlusses ist die Buchführung einzubeziehen. Die Prüfung des Jahresabschlusses hat sich darauf zu erstrecken, ob die gesetzlichen Vorschriften und sie ergänzende Bestimmungen des Gesellschaftsvertrags oder der Satzung beachtet worden sind. Der Jahresabschluss ist darauf zu prüfen, ob er unter Beachtung der Grundsätze ordnungsgemäßer Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermittelt.
 
@@ -26,8 +21,7 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Satz 2, 4 und 5 d
 
 (3) Die Prüfung hat sich auf die Geschäftsjahre zu beziehen, die seit dem Geschäftsjahr vergangen sind, zu dessen Abschluss zuletzt eine Prüfung vorgenommen wurde.
 
-
-## § 3 – Unabhängiger Sachverständiger
+# § 3 – Unabhängiger Sachverständiger
 
 (1) Sachverständiger kann jede natürliche Person sein, die über die zur Durchführung der Prüfung erforderlichen rechtlichen, kaufmännischen und versicherungsmathematischen Kenntnisse verfügt. Eine juristische Person kann Sachverständiger sein, wenn von deren gesetzlichen Vertretern mindestens eine natürliche Person die nach Satz 1 erforderlichen Kenntnisse hat. In diesem Fall ist der Prüfungsvermerk nach § 6 von dieser natürlichen Person abzugeben und zu unterzeichnen.
 
@@ -37,8 +31,7 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Satz 2, 4 und 5 d
 
 (4) Die Bestellung und die Abberufung des Sachverständigen erfolgt durch die oberste Vertretung des Versicherungsunternehmens. Sofern das Versicherungsunternehmen über einen Aufsichtsrat verfügt, wird der Sachverständige von diesem bestellt und abberufen.
 
-
-## § 4 – Allgemeiner Teil des Prüfungsberichts
+# § 4 – Allgemeiner Teil des Prüfungsberichts
 
 (1) Der Sachverständige hat über das Ergebnis der Prüfung schriftlich zu berichten. In dem allgemeinen Teil des Prüfungsberichts ist im Rahmen der Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen des Versicherungsunternehmens insbesondere zu berichten über
 
@@ -60,8 +53,7 @@ Auf Grund des § 39 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Satz 2, 4 und 5 d
 
 (4) Hat der Sachverständige einen Fachkundigen zur Prüfung hinzugezogen, so hat er diesen in dem Bericht namentlich zu nennen.
 
-
-## § 5 – Besonderer Teil des Prüfungsberichts
+# § 5 – Besonderer Teil des Prüfungsberichts
 
 (1) Die einzelnen Posten der Bilanz und Gewinn-und-Verlust-Rechnung sind im besonderen Teil des Prüfungsberichts zu erläutern. Die Erläuterung hat auch die Entwicklung der wesentlichen Posten und Unterposten der Bilanz zu enthalten. Die jeweiligen Bewertungsmethoden und deren Veränderungen im Prüfungszeitraum sind darzustellen. Soweit im Anhang zu dem Jahresabschluss Zeitwerte der Kapitalanlagen angegeben werden, ist auf die Bewertungsreserven in den Kapitalanlagen je Bilanzposten hinzuweisen.
 
@@ -85,8 +77,7 @@ In der Stellungnahme ist insbesondere auf die Angemessenheit der Rückstellungen
 
 (6) Bei Sterbekassen sowie bei Krankenversicherungsunternehmen ist zusätzlich auf die Bilanzstruktur im Vergleich zum letzten Abschlussstichtag, zu dem eine Berechnung der Deckungsrückstellung vorgenommen wurde, einzugehen. Hierbei sind wesentliche Änderungen zu erläutern.
 
-
-## § 6 – Prüfungsvermerk
+# § 6 – Prüfungsvermerk
 
 (1) Bestehen nach dem abschließenden Ergebnis der Prüfung keine Einwendungen, so hat der Sachverständige folgenden Prüfungsvermerk zu erteilen:  
 „Der Jahresabschluss vermittelt unter Beachtung der Grundsätze ordnungsgemäßer Buchführung ein den tatsächlichen Verhältnissen des Unternehmens entsprechendes Bild der Vermögens-, Finanz- und Ertragslage. Der Lagebericht vermittelt eine zutreffende Vorstellung von der Lage des Unternehmens.“
@@ -95,15 +86,13 @@ In der Stellungnahme ist insbesondere auf die Angemessenheit der Rückstellungen
 
 (3) Der Sachverständige hat den Prüfungsvermerk im Prüfungsbericht mit Angabe von Ort und Tag zu unterzeichnen.
 
-
-## § 7 – Vorlagefrist
+# § 7 – Vorlagefrist
 
 Der Vorstand hat den Bericht des Sachverständigen unverzüglich nach Erhalt, spätestens acht Monate nach Schluss des letzten Geschäftsjahres im Prüfungszeitraum, in doppelter Ausfertigung der Aufsichtsbehörde vorzulegen.
 
 (+++ § 7: Zur Anwendung vgl. § 1 Abs. 3 +++)
 
-
-## § 8 – Übergangsvorschriften
+# § 8 – Übergangsvorschriften
 
 (1) Die Vorschriften dieser Verordnung sind erstmals für das Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt.
 
@@ -111,7 +100,6 @@ Der Vorstand hat den Bericht des Sachverständigen unverzüglich nach Erhalt, sp
 
 (3) Für das Geschäftsjahr, das vor dem 1. Januar 2016 begonnen hat, ist die Sachverständigenprüfverordnung vom 19. April 2002 (BGBl. I S. 1456, 1573), die durch Artikel 1 Nummer 7 der Verordnung vom 16. Dezember 2015 (BGBl. I S. 2345) aufgehoben worden ist, in der bis zum 31. Dezember 2015 geltenden Fassung anzuwenden.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

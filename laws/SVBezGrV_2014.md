@@ -1,10 +1,7 @@
-# [SVBezGrV 2014] Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2014  (Sozialversicherungs-Rechengrößenverordnung 2014)
-
-Ausfertigungsdatum: 02.12.2013
-
+% Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2014  (Sozialversicherungs-Rechengrößenverordnung 2014)
+% Ausfertigungsdatum: 02.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -21,8 +18,7 @@ des § 17 Absatz 2 Satz 1 in Verbindung mit § 18 des Vierten Buches Sozialgeset
 
 verordnet das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Durchschnittsentgelt in der Rentenversicherung
+# § 1 – Durchschnittsentgelt in der Rentenversicherung
 
 (1) Das Durchschnittsentgelt für das Jahr 2012 beträgt 33 002 Euro.
 
@@ -30,15 +26,13 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 (3) Die Anlage 1 zum Sechsten Buch Sozialgesetzbuch wird entsprechend ergänzt.
 
-
-## § 2 – Bezugsgröße in der Sozialversicherung
+# § 2 – Bezugsgröße in der Sozialversicherung
 
 (1) Die Bezugsgröße im Sinne des § 18 Absatz 1 des Vierten Buches Sozialgesetzbuch beträgt im Jahr 2014 jährlich 33 180 Euro und monatlich 2 765 Euro.
 
 (2) Die Bezugsgröße (Ost) im Sinne des § 18 Absatz 2 des Vierten Buches Sozialgesetzbuch beträgt im Jahr 2014 jährlich 28 140 Euro und monatlich 2 345 Euro.
 
-
-## § 3 – Beitragsbemessungsgrenzen in der Rentenversicherung
+# § 3 – Beitragsbemessungsgrenzen in der Rentenversicherung
 
 (1) Die Beitragsbemessungsgrenzen betragen im Jahr 2014
 
@@ -56,15 +50,13 @@ Die Anlage 2 zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1. 
 
 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird für den Zeitraum „1. 1. 2014 – 31. 12. 2014“ um die Jahresbeträge ergänzt.
 
-
-## § 4 – Jahresarbeitsentgeltgrenze in der Krankenversicherung
+# § 4 – Jahresarbeitsentgeltgrenze in der Krankenversicherung
 
 (1) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6 des Fünften Buches Sozialgesetzbuch für das Jahr 2014 beträgt 53 550 Euro.
 
 (2) Die Jahresarbeitsentgeltgrenze nach § 6 Absatz 7 des Fünften Buches Sozialgesetzbuch für das Jahr 2014 beträgt 48 600 Euro.
 
-
-## § 5 – Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+# § 5 – Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:  
   
@@ -72,12 +64,10 @@ Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt ergänzt:
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Jahr</th><th style="text-align: center;">Umrechnungswert</th><th style="text-align: center;">vorläufiger<br />
 Umrechnungswert</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">„2012</td><td style="text-align: center;">1,1785</td><td style="text-align: center;"> </td></tr><tr class="even"><td style="text-align: center;">2014</td><td style="text-align: center;"> </td><td style="text-align: center;">1,1873”.</td></tr></tbody></table>
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

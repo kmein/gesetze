@@ -1,10 +1,7 @@
-# [SpruchG] Gesetz über das gesellschaftsrechtliche Spruchverfahren  (Spruchverfahrensgesetz - SpruchG)
-
-Ausfertigungsdatum: 12.06.2003
-
+% Gesetz über das gesellschaftsrechtliche Spruchverfahren  (Spruchverfahrensgesetz - SpruchG)
+% Ausfertigungsdatum: 12.06.2003
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die Bestimmung
 
@@ -20,8 +17,7 @@ Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die Bestimmung
 
 6. der Zuzahlung an Mitglieder bei der Gründung einer Europäischen Genossenschaft (§ 7 des SCE-Ausführungsgesetzes).
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 (1) Zuständig ist das Landgericht, in dessen Bezirk der Rechtsträger, dessen Anteilsinhaber antragsberechtigt sind, seinen Sitz hat. Sind nach Satz 1 mehrere Landgerichte zuständig oder sind bei verschiedenen Landgerichten Spruchverfahren nach Satz 1 anhängig, die in einem sachlichen Zusammenhang stehen, so ist § 2 Abs. 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden. Besteht Streit oder Ungewissheit über das zuständige Gericht nach Satz 2, so ist § 5 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 
@@ -45,8 +41,7 @@ Dieses Gesetz ist anzuwenden auf das gerichtliche Verfahren für die Bestimmung
 
 Im Einverständnis der Beteiligten kann der Vorsitzende auch im Übrigen an Stelle der Kammer entscheiden.
 
-
-## § 3 – Antragsberechtigung
+# § 3 – Antragsberechtigung
 
 Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
@@ -62,8 +57,7 @@ Antragsberechtigt für Verfahren nach § 1 ist in den Fällen
 
 In den Fällen der Nummern 1, 3, 4 und 5 ist die Antragsberechtigung nur gegeben, wenn der Antragsteller zum Zeitpunkt der Antragstellung Anteilsinhaber ist. Die Stellung als Aktionär ist dem Gericht ausschließlich durch Urkunden nachzuweisen.
 
-
-## § 4 – Antragsfrist und Antragsbegründung
+# § 4 – Antragsfrist und Antragsbegründung
 
 (1) Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1 kann nur binnen drei Monaten seit dem Tag gestellt werden, an dem in den Fällen
 
@@ -95,8 +89,7 @@ bekannt gemacht worden ist. Die Frist wird in den Fällen des § 2 Abs. 1 Satz 2
 
 Aus der Antragsbegründung soll sich außerdem die Zahl der von dem Antragsteller gehaltenen Anteile ergeben.
 
-
-## § 5 – Antragsgegner
+# § 5 – Antragsgegner
 
 Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1 ist in den Fällen
 
@@ -114,8 +107,7 @@ Der Antrag auf gerichtliche Entscheidung in einem Verfahren nach § 1 ist in den
 
 zu richten.
 
-
-## § 6 – Gemeinsamer Vertreter
+# § 6 – Gemeinsamer Vertreter
 
 (1) Das Gericht hat den Antragsberechtigten, die nicht selbst Antragsteller sind, zur Wahrung ihrer Rechte frühzeitig einen gemeinsamen Vertreter zu bestellen; dieser hat die Stellung eines gesetzlichen Vertreters. Werden die Festsetzung des angemessenen Ausgleichs und die Festsetzung der angemessenen Abfindung beantragt, so hat es für jeden Antrag einen gemeinsamen Vertreter zu bestellen, wenn aufgrund der konkreten Umstände davon auszugehen ist, dass die Wahrung der Rechte aller betroffenen Antragsberechtigten durch einen einzigen gemeinsamen Vertreter nicht sichergestellt ist. Die Bestellung eines gemeinsamen Vertreters kann vollständig unterbleiben, wenn die Wahrung der Rechte der Antragsberechtigten auf andere Weise sichergestellt ist. Das Gericht hat die Bestellung des gemeinsamen Vertreters im Bundesanzeiger bekannt zu machen. Wenn in den Fällen des § 1 Nr. 1 bis 3 die Satzung der Gesellschaft, deren außenstehende oder ausgeschiedene Aktionäre antragsberechtigt sind, oder in den Fällen des § 1 Nr. 4 der Gesellschaftsvertrag, der Partnerschaftsvertrag, die Satzung oder das Statut des übertragenden oder formwechselnden Rechtsträgers noch andere Blätter oder elektronische Informationsmedien für die öffentlichen Bekanntmachungen bestimmt hatte, so hat es die Bestellung auch dort bekannt zu machen.
 
@@ -123,23 +115,19 @@ zu richten.
 
 (3) Der gemeinsame Vertreter kann das Verfahren auch nach Rücknahme eines Antrags fortführen. Er steht in diesem Falle einem Antragsteller gleich.
 
-
-## § 6a – Gemeinsamer Vertreter bei Gründung einer SE
+# § 6a – Gemeinsamer Vertreter bei Gründung einer SE
 
 Wird bei der Gründung einer SE durch Verschmelzung oder bei der Gründung einer Holding-SE nach dem Verfahren der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE) (ABl. EG Nr. L 294 S. 1) gemäß den Vorschriften des SE-Ausführungsgesetzes ein Antrag auf Bestimmung einer Zuzahlung oder Barabfindung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer sich verschmelzenden oder die Gründung einer SE anstrebenden Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
-
-## § 6b – Gemeinsamer Vertreter bei Gründung einer Europäischen Genossenschaft
+# § 6b – Gemeinsamer Vertreter bei Gründung einer Europäischen Genossenschaft
 
 Wird bei der Gründung einer Europäischen Genossenschaft durch Verschmelzung nach dem Verfahren der Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1) nach den Vorschriften des SCE-Ausführungsgesetzes ein Antrag auf Bestimmung einer baren Zuzahlung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Mitglieder einer sich verschmelzenden Genossenschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
-
-## § 6c – Gemeinsamer Vertreter bei grenzüberschreitender Verschmelzung
+# § 6c – Gemeinsamer Vertreter bei grenzüberschreitender Verschmelzung
 
 Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgesetzes) gemäß § 122h oder § 122i des Umwandlungsgesetzes ein Antrag auf Bestimmung einer Zuzahlung oder Barabfindung gestellt, bestellt das Gericht auf Antrag eines oder mehrerer Anteilsinhaber einer beteiligten Gesellschaft, die selbst nicht antragsberechtigt sind, zur Wahrung ihrer Interessen einen gemeinsamen Vertreter, der am Spruchverfahren beteiligt ist. § 6 Abs. 1 Satz 4 und Abs. 2 gilt entsprechend.
 
-
-## § 7 – Vorbereitung der mündlichen Verhandlung
+# § 7 – Vorbereitung der mündlichen Verhandlung
 
 (1) Das Gericht stellt dem Antragsgegner und dem gemeinsamen Vertreter die Anträge der Antragsteller unverzüglich zu.
 
@@ -157,8 +145,7 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (8) Für die Durchsetzung der Verpflichtung des Antragsgegners nach Absatz 3 und 7 ist § 35 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
 
-
-## § 8 – Mündliche Verhandlung
+# § 8 – Mündliche Verhandlung
 
 (1) Das Gericht soll aufgrund mündlicher Verhandlung entscheiden. Sie soll so früh wie möglich stattfinden.
 
@@ -166,8 +153,7 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (3) Die §§ 138 und 139 sowie für die Durchführung der mündlichen Verhandlung § 279 Abs. 2 und 3 und § 283 der Zivilprozessordnung gelten entsprechend.
 
-
-## § 9 – Verfahrensförderungspflicht
+# § 9 – Verfahrensförderungspflicht
 
 (1) Jeder Beteiligte hat in der mündlichen Verhandlung und bei deren schriftlicher Vorbereitung seine Anträge sowie sein weiteres Vorbringen so zeitig vorzubringen, wie es nach der Verfahrenslage einer sorgfältigen und auf Förderung des Verfahrens bedachten Verfahrensführung entspricht.
 
@@ -175,8 +161,7 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (3) Rügen, welche die Zulässigkeit der Anträge betreffen, hat der Antragsgegner innerhalb der ihm nach § 7 Abs. 2 gesetzten Frist geltend zu machen.
 
-
-## § 10 – Verletzung der Verfahrensförderungspflicht
+# § 10 – Verletzung der Verfahrensförderungspflicht
 
 (1) Stellungnahmen oder Einwendungen, die erst nach Ablauf einer hierfür gesetzten Frist (§ 7 Abs. 2 Satz 3, Abs. 4) vorgebracht werden, sind nur zuzulassen, wenn nach der freien Überzeugung des Gerichts ihre Zulassung die Erledigung des Rechtsstreits nicht verzögern würde oder wenn der Beteiligte die Verspätung entschuldigt.
 
@@ -186,8 +171,7 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (4) Verspätete Rügen, die die Zulässigkeit der Anträge betreffen und nicht von Amts wegen zu berücksichtigen sind, sind nur zuzulassen, wenn der Beteiligte die Verspätung genügend entschuldigt.
 
-
-## § 11 – Gerichtliche Entscheidung; Gütliche Einigung
+# § 11 – Gerichtliche Entscheidung; Gütliche Einigung
 
 (1) Das Gericht entscheidet durch einen mit Gründen versehenen Beschluss.
 
@@ -197,20 +181,17 @@ Wird bei einer grenzüberschreitenden Verschmelzung (§ 122a des Umwandlungsgese
 
 (4) Ein gerichtlicher Vergleich kann auch dadurch geschlossen werden, dass die Beteiligten einen schriftlichen Vergleichsvorschlag des Gerichts durch Schriftsatz gegenüber dem Gericht annehmen. Das Gericht stellt das Zustandekommen und den Inhalt eines nach Satz 1 geschlossenen Vergleichs durch Beschluss fest. § 164 der Zivilprozessordnung gilt entsprechend. Der Beschluss ist den Beteiligten zuzustellen.
 
-
-## § 12 – Beschwerde
+# § 12 – Beschwerde
 
 (1) Gegen die Entscheidung nach § 11 findet die Beschwerde statt. Die Beschwerde kann nur durch Einreichung einer von einem Rechtsanwalt unterzeichneten Beschwerdeschrift eingelegt werden.
 
 (2) Die Landesregierung kann die Entscheidung über die Beschwerde durch Rechtsverordnung für die Bezirke mehrerer Oberlandesgerichte einem der Oberlandesgerichte oder dem Obersten Landesgericht übertragen, wenn dies zur Sicherung einer einheitlichen Rechtsprechung dient. Die Landesregierung kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
-
-## § 13 – Wirkung der Entscheidung
+# § 13 – Wirkung der Entscheidung
 
 Die Entscheidung wird erst mit der Rechtskraft wirksam. Sie wirkt für und gegen alle, einschließlich derjenigen Anteilsinhaber, die bereits gegen die ursprünglich angebotene Barabfindung oder sonstige Abfindung aus dem betroffenen Rechtsträger ausgeschieden sind.
 
-
-## § 14 – Bekanntmachung der Entscheidung
+# § 14 – Bekanntmachung der Entscheidung
 
 Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne Gründe nach Maßgabe des § 6 Abs. 1 Satz 4 und 5 in den Fällen
 
@@ -228,20 +209,17 @@ Die rechtskräftige Entscheidung in einem Verfahren nach § 1 ist ohne Gründe n
 
 bekannt zu machen.
 
-
-## § 15 – Kosten
+# § 15 – Kosten
 
 (1) Die Gerichtskosten können ganz oder zum Teil den Antragstellern auferlegt werden, wenn dies der Billigkeit entspricht.
 
 (2) Das Gericht ordnet an, dass die Kosten der Antragsteller, die zur zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz oder zum Teil vom Antragsgegner zu erstatten sind, wenn dies unter Berücksichtigung des Ausgangs des Verfahrens der Billigkeit entspricht.
 
-
-## § 16 – Zuständigkeit bei Leistungsklage
+# § 16 – Zuständigkeit bei Leistungsklage
 
 Für Klagen auf Leistung des Ausgleichs, der Zuzahlung oder der Abfindung, die im Spruchverfahren bestimmt worden sind, ist das Gericht des ersten Rechtszuges und der gleiche Spruchkörper ausschließlich zuständig, der gemäß § 2 mit dem Verfahren zuletzt inhaltlich befasst war.
 
-
-## § 17 – Allgemeine Bestimmungen; Übergangsvorschrift
+# § 17 – Allgemeine Bestimmungen; Übergangsvorschrift
 
 (1) Sofern in diesem Gesetz nichts anderes bestimmt ist, finden auf das Verfahren die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit Anwendung.
 

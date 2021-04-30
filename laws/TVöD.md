@@ -1,5 +1,3 @@
-# [TVöD] Tarifvertrag für den öffentlichen Dienst  (TVöD)
-
-Ausfertigungsdatum: 13.09.2005
-
+% Tarifvertrag für den öffentlichen Dienst  (TVöD)
+% Ausfertigungsdatum: 13.09.2005
  

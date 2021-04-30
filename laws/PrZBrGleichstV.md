@@ -1,15 +1,11 @@
-# [PrZBrGleichstV] Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschulen für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
-
-Ausfertigungsdatum: 21.07.1980
-
+% Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschulen für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen
+% Ausfertigungsdatum: 21.07.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Abs. 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und unter Berücksichtigung des § 28 des Gesetzes vom 7. September 1976 (BGBl. I S. 2658), wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Gleichstellung von Prüfungszeugnissen
+# § 1 – Gleichstellung von Prüfungszeugnissen
 
 Die bis zum 31. Dezember 1991 von den Berufsfachschulen für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen erteilten Prüfungszeugnisse über erfolgreich abgelegte Abschlußprüfungen werden mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen nach Maßgabe der nachstehenden Aufstellung gleichgestellt:  
 
@@ -20,23 +16,19 @@ Die bis zum 31. Dezember 1991 von den Berufsfachschulen für Bürokaufleute, Bü
 | Abschlußprüfung als Bürogehilfin                        | Bürogehilfin                                  |
 | Abschlußprüfung als Teilezurichter                      | Teilezurichter                                |
 
-
-## § 2 – Berlin-Klausel
+# § 2 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

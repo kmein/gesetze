@@ -1,46 +1,37 @@
-# [TzBfG] Gesetz über Teilzeitarbeit und befristete Arbeitsverträge  (Teilzeit- und Befristungsgesetz - TzBfG)
-
-Ausfertigungsdatum: 21.12.2000
-
+% Gesetz über Teilzeitarbeit und befristete Arbeitsverträge  (Teilzeit- und Befristungsgesetz - TzBfG)
+% Ausfertigungsdatum: 21.12.2000
  
-
-## § 1 – Zielsetzung
+# § 1 – Zielsetzung
 
 Ziel des Gesetzes ist, Teilzeitarbeit zu fördern, die Voraussetzungen für die Zulässigkeit befristeter Arbeitsverträge festzulegen und die Diskriminierung von teilzeitbeschäftigten und befristet beschäftigten Arbeitnehmern zu verhindern.
 
-
-## § 2 – Begriff des teilzeitbeschäftigten Arbeitnehmers
+# § 2 – Begriff des teilzeitbeschäftigten Arbeitnehmers
 
 (1) Teilzeitbeschäftigt ist ein Arbeitnehmer, dessen regelmäßige Wochenarbeitszeit kürzer ist als die eines vergleichbaren vollzeitbeschäftigten Arbeitnehmers. Ist eine regelmäßige Wochenarbeitszeit nicht vereinbart, so ist ein Arbeitnehmer teilzeitbeschäftigt, wenn seine regelmäßige Arbeitszeit im Durchschnitt eines bis zu einem Jahr reichenden Beschäftigungszeitraums unter der eines vergleichbaren vollzeitbeschäftigten Arbeitnehmers liegt. Vergleichbar ist ein vollzeitbeschäftigter Arbeitnehmer des Betriebes mit derselben Art des Arbeitsverhältnisses und der gleichen oder einer ähnlichen Tätigkeit. Gibt es im Betrieb keinen vergleichbaren vollzeitbeschäftigten Arbeitnehmer, so ist der vergleichbare vollzeitbeschäftigte Arbeitnehmer auf Grund des anwendbaren Tarifvertrages zu bestimmen; in allen anderen Fällen ist darauf abzustellen, wer im jeweiligen Wirtschaftszweig üblicherweise als vergleichbarer vollzeitbeschäftigter Arbeitnehmer anzusehen ist.
 
 (2) Teilzeitbeschäftigt ist auch ein Arbeitnehmer, der eine geringfügige Beschäftigung nach § 8 Abs. 1 Nr. 1 des Vierten Buches Sozialgesetzbuch ausübt.
 
-
-## § 3 – Begriff des befristet beschäftigten Arbeitnehmers
+# § 3 – Begriff des befristet beschäftigten Arbeitnehmers
 
 (1) Befristet beschäftigt ist ein Arbeitnehmer mit einem auf bestimmte Zeit geschlossenen Arbeitsvertrag. Ein auf bestimmte Zeit geschlossener Arbeitsvertrag (befristeter Arbeitsvertrag) liegt vor, wenn seine Dauer kalendermäßig bestimmt ist (kalendermäßig befristeter Arbeitsvertrag) oder sich aus Art, Zweck oder Beschaffenheit der Arbeitsleistung ergibt (zweckbefristeter Arbeitsvertrag).
 
 (2) Vergleichbar ist ein unbefristet beschäftigter Arbeitnehmer des Betriebes mit der gleichen oder einer ähnlichen Tätigkeit. Gibt es im Betrieb keinen vergleichbaren unbefristet beschäftigten Arbeitnehmer, so ist der vergleichbare unbefristet beschäftigte Arbeitnehmer auf Grund des anwendbaren Tarifvertrages zu bestimmen; in allen anderen Fällen ist darauf abzustellen, wer im jeweiligen Wirtschaftszweig üblicherweise als vergleichbarer unbefristet beschäftigter Arbeitnehmer anzusehen ist.
 
-
-## § 4 – Verbot der Diskriminierung
+# § 4 – Verbot der Diskriminierung
 
 (1) Ein teilzeitbeschäftigter Arbeitnehmer darf wegen der Teilzeitarbeit nicht schlechter behandelt werden als ein vergleichbarer vollzeitbeschäftigter Arbeitnehmer, es sei denn, dass sachliche Gründe eine unterschiedliche Behandlung rechtfertigen. Einem teilzeitbeschäftigten Arbeitnehmer ist Arbeitsentgelt oder eine andere teilbare geldwerte Leistung mindestens in dem Umfang zu gewähren, der dem Anteil seiner Arbeitszeit an der Arbeitszeit eines vergleichbaren vollzeitbeschäftigten Arbeitnehmers entspricht.
 
 (2) Ein befristet beschäftigter Arbeitnehmer darf wegen der Befristung des Arbeitsvertrages nicht schlechter behandelt werden, als ein vergleichbarer unbefristet beschäftigter Arbeitnehmer, es sei denn, dass sachliche Gründe eine unterschiedliche Behandlung rechtfertigen. Einem befristet beschäftigten Arbeitnehmer ist Arbeitsentgelt oder eine andere teilbare geldwerte Leistung, die für einen bestimmten Bemessungszeitraum gewährt wird, mindestens in dem Umfang zu gewähren, der dem Anteil seiner Beschäftigungsdauer am Bemessungszeitraum entspricht. Sind bestimmte Beschäftigungsbedingungen von der Dauer des Bestehens des Arbeitsverhältnisses in demselben Betrieb oder Unternehmen abhängig, so sind für befristet beschäftigte Arbeitnehmer dieselben Zeiten zu berücksichtigen wie für unbefristet beschäftigte Arbeitnehmer, es sei denn, dass eine unterschiedliche Berücksichtigung aus sachlichen Gründen gerechtfertigt ist.
 
-
-## § 5 – Benachteiligungsverbot
+# § 5 – Benachteiligungsverbot
 
 Der Arbeitgeber darf einen Arbeitnehmer nicht wegen der Inanspruchnahme von Rechten nach diesem Gesetz benachteiligen.
 
-
-## § 6 – Förderung von Teilzeitarbeit
+# § 6 – Förderung von Teilzeitarbeit
 
 Der Arbeitgeber hat den Arbeitnehmern, auch in leitenden Positionen, Teilzeitarbeit nach Maßgabe dieses Gesetzes zu ermöglichen.
 
-
-## § 7 – Ausschreibung; Erörterung; Information über freie Arbeitsplätze
+# § 7 – Ausschreibung; Erörterung; Information über freie Arbeitsplätze
 
 (1) Der Arbeitgeber hat einen Arbeitsplatz, den er öffentlich oder innerhalb des Betriebes ausschreibt, auch als Teilzeitarbeitsplatz auszuschreiben, wenn sich der Arbeitsplatz hierfür eignet.
 
@@ -50,8 +41,7 @@ Der Arbeitgeber hat den Arbeitnehmern, auch in leitenden Positionen, Teilzeitarb
 
 (4) Der Arbeitgeber hat die Arbeitnehmervertretung über angezeigte Arbeitszeitwünsche nach Absatz 2 sowie über Teilzeitarbeit im Betrieb und Unternehmen zu informieren, insbesondere über vorhandene oder geplante Teilzeitarbeitsplätze und über die Umwandlung von Teilzeitarbeitsplätzen in Vollzeitarbeitsplätze oder umgekehrt. Der Arbeitnehmervertretung sind auf Verlangen die erforderlichen Unterlagen zur Verfügung zu stellen; § 92 des Betriebsverfassungsgesetzes bleibt unberührt.
 
-
-## § 8 – Zeitlich nicht begrenzte Verringerung der Arbeitszeit
+# § 8 – Zeitlich nicht begrenzte Verringerung der Arbeitszeit
 
 (1) Ein Arbeitnehmer, dessen Arbeitsverhältnis länger als sechs Monate bestanden hat, kann verlangen, dass seine vertraglich vereinbarte Arbeitszeit verringert wird.
 
@@ -69,8 +59,7 @@ Der Arbeitgeber hat den Arbeitnehmern, auch in leitenden Positionen, Teilzeitarb
 
 (+++ § 8: zur Anwendung vgl. § 9a Abs. 3 +++)
 
-
-## § 9 – Verlängerung der Arbeitszeit
+# § 9 – Verlängerung der Arbeitszeit
 
 Der Arbeitgeber hat einen teilzeitbeschäftigten Arbeitnehmer, der ihm in Textform den Wunsch nach einer Verlängerung seiner vertraglich vereinbarten Arbeitszeit angezeigt hat, bei der Besetzung eines Arbeitsplatzes bevorzugt zu berücksichtigen, es sei denn, dass
 
@@ -86,8 +75,7 @@ Ein freier zu besetzender Arbeitsplatz liegt vor, wenn der Arbeitgeber die Organ
 
 (+++ § 9: zur Nichtanwendung vgl. § 9a Abs. 4 +++)
 
-
-## § 9a – Zeitlich begrenzte Verringerung der Arbeitszeit
+# § 9a – Zeitlich begrenzte Verringerung der Arbeitszeit
 
 (1) Ein Arbeitnehmer, dessen Arbeitsverhältnis länger als sechs Monate bestanden hat, kann verlangen, dass seine vertraglich vereinbarte Arbeitszeit für einen im Voraus zu bestimmenden Zeitraum verringert wird. Der begehrte Zeitraum muss mindestens ein Jahr und darf höchstens fünf Jahre betragen. Der Arbeitnehmer hat nur dann einen Anspruch auf zeitlich begrenzte Verringerung der Arbeitszeit, wenn der Arbeitgeber in der Regel mehr als 45 Arbeitnehmer beschäftigt.
 
@@ -127,18 +115,15 @@ andere Arbeitnehmer ihre Arbeitszeit nach Absatz 1 verringert haben.
 
 (7) Bei der Anzahl der Arbeitnehmer nach Absatz 1 Satz 3 und Absatz 2 sind Personen in Berufsbildung nicht zu berücksichtigen.
 
-
-## § 10 – Aus- und Weiterbildung
+# § 10 – Aus- und Weiterbildung
 
 Der Arbeitgeber hat Sorge zu tragen, dass auch teilzeitbeschäftigte Arbeitnehmer an Aus- und Weiterbildungsmaßnahmen zur Förderung der beruflichen Entwicklung und Mobilität teilnehmen können, es sei denn, dass dringende betriebliche Gründe oder Aus- und Weiterbildungswünsche anderer teilzeit- oder vollzeitbeschäftigter Arbeitnehmer entgegenstehen.
 
-
-## § 11 – Kündigungsverbot
+# § 11 – Kündigungsverbot
 
 Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines Arbeitnehmers, von einem Vollzeit- in ein Teilzeitarbeitsverhältnis oder umgekehrt zu wechseln, ist unwirksam. Das Recht zur Kündigung des Arbeitsverhältnisses aus anderen Gründen bleibt unberührt.
 
-
-## § 12 – Arbeit auf Abruf
+# § 12 – Arbeit auf Abruf
 
 (1) Arbeitgeber und Arbeitnehmer können vereinbaren, dass der Arbeitnehmer seine Arbeitsleistung entsprechend dem Arbeitsanfall zu erbringen hat (Arbeit auf Abruf). Die Vereinbarung muss eine bestimmte Dauer der wöchentlichen und täglichen Arbeitszeit festlegen. Wenn die Dauer der wöchentlichen Arbeitszeit nicht festgelegt ist, gilt eine Arbeitszeit von 20 Stunden als vereinbart. Wenn die Dauer der täglichen Arbeitszeit nicht festgelegt ist, hat der Arbeitgeber die Arbeitsleistung des Arbeitnehmers jeweils für mindestens drei aufeinander folgende Stunden in Anspruch zu nehmen.
 
@@ -152,8 +137,7 @@ Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines Arbeitnehme
 
 (6) Durch Tarifvertrag kann von den Absätzen 1 und 3 auch zuungunsten des Arbeitnehmers abgewichen werden, wenn der Tarifvertrag Regelungen über die tägliche und wöchentliche Arbeitszeit und die Vorankündigungsfrist vorsieht. Im Geltungsbereich eines solchen Tarifvertrages können nicht tarifgebundene Arbeitgeber und Arbeitnehmer die Anwendung der tariflichen Regelungen über die Arbeit auf Abruf vereinbaren.
 
-
-## § 13 – Arbeitsplatzteilung
+# § 13 – Arbeitsplatzteilung
 
 (1) Arbeitgeber und Arbeitnehmer können vereinbaren, dass mehrere Arbeitnehmer sich die Arbeitszeit an einem Arbeitsplatz teilen (Arbeitsplatzteilung). Ist einer dieser Arbeitnehmer an der Arbeitsleistung verhindert, sind die anderen Arbeitnehmer zur Vertretung verpflichtet, wenn sie der Vertretung im Einzelfall zugestimmt haben. Eine Pflicht zur Vertretung besteht auch, wenn der Arbeitsvertrag bei Vorliegen dringender betrieblicher Gründe eine Vertretung vorsieht und diese im Einzelfall zumutbar ist.
 
@@ -163,8 +147,7 @@ Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines Arbeitnehme
 
 (4) Durch Tarifvertrag kann von den Absätzen 1 und 3 auch zuungunsten des Arbeitnehmers abgewichen werden, wenn der Tarifvertrag Regelungen über die Vertretung der Arbeitnehmer enthält. Im Geltungsbereich eines solchen Tarifvertrages können nicht tarifgebundene Arbeitgeber und Arbeitnehmer die Anwendung der tariflichen Regelungen über die Arbeitsplatzteilung vereinbaren.
 
-
-## § 14 – Zulässigkeit der Befristung
+# § 14 – Zulässigkeit der Befristung
 
 (1) Die Befristung eines Arbeitsvertrages ist zulässig, wenn sie durch einen sachlichen Grund gerechtfertigt ist. Ein sachlicher Grund liegt insbesondere vor, wenn
 
@@ -194,8 +177,7 @@ Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines Arbeitnehme
 
 § 14 Abs. 2 Satz 2: Nach Maßgabe der Entscheidungsformel mit GG (100-1) vereinbar gem. BVerfGE v. 6.6.2018 I 882 - 1 BvL 7/14, 1 BvR 1375/14 -
 
-
-## § 15 – Ende des befristeten Arbeitsvertrages
+# § 15 – Ende des befristeten Arbeitsvertrages
 
 (1) Ein kalendermäßig befristeter Arbeitsvertrag endet mit Ablauf der vereinbarten Zeit.
 
@@ -207,44 +189,36 @@ Die Kündigung eines Arbeitsverhältnisses wegen der Weigerung eines Arbeitnehme
 
 (5) Wird das Arbeitsverhältnis nach Ablauf der Zeit, für die es eingegangen ist, oder nach Zweckerreichung mit Wissen des Arbeitgebers fortgesetzt, so gilt es als auf unbestimmte Zeit verlängert, wenn der Arbeitgeber nicht unverzüglich widerspricht oder dem Arbeitnehmer die Zweckerreichung nicht unverzüglich mitteilt.
 
-
-## § 16 – Folgen unwirksamer Befristung
+# § 16 – Folgen unwirksamer Befristung
 
 Ist die Befristung rechtsunwirksam, so gilt der befristete Arbeitsvertrag als auf unbestimmte Zeit geschlossen; er kann vom Arbeitgeber frühestens zum vereinbarten Ende ordentlich gekündigt werden, sofern nicht nach § 15 Abs. 3 die ordentliche Kündigung zu einem früheren Zeitpunkt möglich ist. Ist die Befristung nur wegen des Mangels der Schriftform unwirksam, kann der Arbeitsvertrag auch vor dem vereinbarten Ende ordentlich gekündigt werden.
 
-
-## § 17 – Anrufung des Arbeitsgerichts
+# § 17 – Anrufung des Arbeitsgerichts
 
 Will der Arbeitnehmer geltend machen, dass die Befristung eines Arbeitsvertrages rechtsunwirksam ist, so muss er innerhalb von drei Wochen nach dem vereinbarten Ende des befristeten Arbeitsvertrages Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis auf Grund der Befristung nicht beendet ist. Die §§ 5 bis 7 des Kündigungsschutzgesetzes gelten entsprechend. Wird das Arbeitsverhältnis nach dem vereinbarten Ende fortgesetzt, so beginnt die Frist nach Satz 1 mit dem Zugang der schriftlichen Erklärung des Arbeitgebers, dass das Arbeitsverhältnis auf Grund der Befristung beendet sei.
 
-
-## § 18 – Information über unbefristete Arbeitsplätze
+# § 18 – Information über unbefristete Arbeitsplätze
 
 Der Arbeitgeber hat die befristet beschäftigten Arbeitnehmer über entsprechende unbefristete Arbeitsplätze zu informieren, die besetzt werden sollen. Die Information kann durch allgemeine Bekanntgabe an geeigneter, den Arbeitnehmern zugänglicher Stelle im Betrieb und Unternehmen erfolgen.
 
-
-## § 19 – Aus- und Weiterbildung
+# § 19 – Aus- und Weiterbildung
 
 Der Arbeitgeber hat Sorge zu tragen, dass auch befristet beschäftigte Arbeitnehmer an angemessenen Aus- und Weiterbildungsmaßnahmen zur Förderung der beruflichen Entwicklung und Mobilität teilnehmen können, es sei denn, dass dringende betriebliche Gründe oder Aus- und Weiterbildungswünsche anderer Arbeitnehmer entgegenstehen.
 
-
-## § 20 – Information der Arbeitnehmervertretung
+# § 20 – Information der Arbeitnehmervertretung
 
 Der Arbeitgeber hat die Arbeitnehmervertretung über die Anzahl der befristet beschäftigten Arbeitnehmer und ihren Anteil an der Gesamtbelegschaft des Betriebes und des Unternehmens zu informieren.
 
-
-## § 21 – Auflösend bedingte Arbeitsverträge
+# § 21 – Auflösend bedingte Arbeitsverträge
 
 Wird der Arbeitsvertrag unter einer auflösenden Bedingung geschlossen, gelten § 4 Abs. 2, § 5, § 14 Abs. 1 und 4, § 15 Abs. 2, 3 und 5 sowie die §§ 16 bis 20 entsprechend.
 
-
-## § 22 – Abweichende Vereinbarungen
+# § 22 – Abweichende Vereinbarungen
 
 (1) Außer in den Fällen des § 9a Absatz 6, § 12 Absatz 6, § 13 Absatz 4 und § 14 Absatz 2 Satz 3 und 4 kann von den Vorschriften dieses Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.
 
 (2) Enthält ein Tarifvertrag für den öffentlichen Dienst Bestimmungen im Sinne des § 8 Absatz 4 Satz 3 und 4, auch in Verbindung mit § 9a Absatz 2, des § 9a Absatz 6, § 12 Absatz 6, § 13 Absatz 4, § 14 Absatz 2 Satz 3 und 4 oder § 15 Absatz 3, so gelten diese Bestimmungen auch zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern außerhalb des öffentlichen Dienstes, wenn die Anwendung der für den öffentlichen Dienst geltenden tarifvertraglichen Bestimmungen zwischen ihnen vereinbart ist und die Arbeitgeber die Kosten des Betriebes überwiegend mit Zuwendungen im Sinne des Haushaltsrechts decken.
 
-
-## § 23 – Besondere gesetzliche Regelungen
+# § 23 – Besondere gesetzliche Regelungen
 
 Besondere Regelungen über Teilzeitarbeit und über die Befristung von Arbeitsverträgen nach anderen gesetzlichen Vorschriften bleiben unberührt.

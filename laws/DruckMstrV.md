@@ -1,15 +1,11 @@
-# [DruckMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Drucker-(Buchdrucker-)Handwerk  (Druckermeisterverordnung - DruckMstrV)
-
-Ausfertigungsdatum: 16.08.1984
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Drucker-(Buchdrucker-)Handwerk  (Druckermeisterverordnung - DruckMstrV)
+% Ausfertigungsdatum: 16.08.1984
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Drucker-(Buchdrucker-)Handwerk sind folgende Tätigkeiten zuzurechnen:  
 Herstellung von Druck-Erzeugnissen, insbesondere Anfertigung von Druckformen und Drucken sowie Weiterverarbeitung von Drucken, in handwerksüblichen Verfahren.
@@ -160,8 +156,7 @@ c) Kenntnisse über persönliche Schutzausrüstung,
 
 d) Kenntnisse über Arbeitsplatzgestaltung.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -169,8 +164,7 @@ d) Kenntnisse über Arbeitsplatzgestaltung.
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit kommt insbesondere nachstehende Arbeit in Betracht:  
 Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten DIN A4 Text und Bilder, davon zwei Seiten mehrfarbig und zwei Seiten einfarbig.
@@ -178,8 +172,7 @@ Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten 
 (2) Mit der Meisterprüfungsarbeit sind abzuliefern:  
 15 Fortdruckbogen von jeder Farbe, 15 Fortdruckbogen vom Zusammendruck, Andruckskala, Standbogen und, soweit erforderlich, Platten oder Montagen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind drei der nachstehenden Arbeiten, davon in jedem Fall die nach den Nummern 1 und 2, auszuführen:
 
@@ -193,8 +186,7 @@ Anfertigen eines Druck-Erzeugnisses im Format DIN A2, bestehend aus vier Seiten 
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -270,29 +262,24 @@ Kostenermittlung mit allen für die Preisbildung wesentlichen Faktoren einschlie
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind jeweils ausreichende Leistungen in den Prüfungsfächern nach Absatz 1 Nr. 1, 2, 3 und 5.
 
-
-## § 6
+# § 6
 
 \-
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Berlin-Klausel
+# § 8 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 128 der Handwerksordnung auch im Land Berlin.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1985 in Kraft.
 
 (2) Die auf Grund des § 122 der Handwerksordnung weiter anzuwendenden Vorschriften sind, soweit sie Gegenstände dieser Verordnung regeln, nicht mehr anzuwenden.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft

@@ -1,15 +1,11 @@
-# [AusbEignMedPharmV] Verordnung über die fachliche Eignung für die Berufsausbildung der Medizinischen, Zahnmedizinischen und Tiermedizinischen Fachangestellten sowie der Pharmazeutisch-kaufmännischen Angestellten
-
-Ausfertigungsdatum: 07.03.2007
-
+% Verordnung über die fachliche Eignung für die Berufsausbildung der Medizinischen, Zahnmedizinischen und Tiermedizinischen Fachangestellten sowie der Pharmazeutisch-kaufmännischen Angestellten
+% Ausfertigungsdatum: 07.03.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 30 Abs. 4 Nr. 3 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Gesundheit nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1
+# § 1
 
 Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten besitzt für den Ausbildungsberuf
 
@@ -21,7 +17,6 @@ Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten, Kenntnis
 
 4. Pharmazeutisch-kaufmännischer Angestellter/Pharmazeutisch-kaufmännische Angestellte, wer als Apotheker oder als Apothekerin approbiert ist.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt mit Wirkung vom 1. April 2005 in Kraft.

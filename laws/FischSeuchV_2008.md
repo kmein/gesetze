@@ -1,13 +1,9 @@
-# [FischSeuchV 2008] Fischseuchenverordnung
-
-Ausfertigungsdatum: 24.11.2008
-
+% Fischseuchenverordnung
+% Ausfertigungsdatum: 24.11.2008
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung dient der Bekämpfung von Seuchen, die bei Fischen auftreten.
 
@@ -23,8 +19,7 @@ Ausfertigungsdatum: 24.11.2008
 
 2. eine eigene Abwasseraufbereitungsanlage vorhanden ist, die das Risiko der Übertragung von Seuchenerregern in natürliche Gewässer dem Stand der Technik entsprechend vermeidet.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -56,8 +51,7 @@ den Ausbruch einer der in Anlage 1 Spalte 1 genannten Seuchen befürchten lässt
 
 Für die Untersuchung auf die in Anlage 1 Spalte 1 genannten Seuchen gelten die Verfahren, die die Europäische Kommission auf Grund des Artikels 57 Buchstabe b der Richtlinie 2006/88/EG des Rates vom 24. Oktober 2006 mit Gesundheits- und Hygienevorschriften für Tiere in Aquakultur und Aquakulturerzeugnisse und zur Verhütung und Bekämpfung bestimmter Wassertierkrankheiten (ABl. EU Nr. L 328 S. 14, 2007 Nr. L 140 S. 59) erlassen und die das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) im Bundesanzeiger bekannt gemacht hat.
 
-
-## § 3 – Genehmigungspflicht
+# § 3 – Genehmigungspflicht
 
 Wer in einem
 
@@ -69,8 +63,7 @@ Wer in einem
 
 Fische hält, verbringt oder abgibt oder tote Fische oder Teile davon verbringt, abgibt oder verwertet, bedarf der Genehmigung durch die zuständige Behörde. Satz 1 gilt nicht, soweit die Tätigkeit in einem Aquakulturbetrieb der Registrierung nach § 6 bedarf.
 
-
-## § 4 – Genehmigung
+# § 4 – Genehmigung
 
 (1) Die zuständige Behörde erteilt die Genehmigung auf Antrag, soweit
 
@@ -88,13 +81,11 @@ b) die sonstigen Pflichten nach den §§ 7 und 8 erfüllt werden sowie
 
 (4) Sind die Voraussetzungen für die Genehmigung des Betriebes nachträglich entfallen, so kann die zuständige Behörde an Stelle eines Widerrufes das Ruhen der Genehmigung anordnen, wenn zu erwarten ist, dass die Voraussetzungen für die Genehmigung alsbald wieder eingehalten werden. Diese Anordnung ist aufzuheben, wenn der Betreiber nachweist, dass die Voraussetzungen für die Genehmigung wieder vorliegen. Im Übrigen bleiben die Vorschriften der Verwaltungsverfahrensgesetze der Länder über Rücknahme und Widerruf unberührt.
 
-
-## § 5 – Genehmigungsantrag
+# § 5 – Genehmigungsantrag
 
 In dem Antrag auf Genehmigung sind die Angaben zu machen und ihm sind die Unterlagen beizufügen, aus denen hervorgeht, dass die Genehmigungsvoraussetzungen erfüllt sind. Insbesondere sind anzugeben Name und Anschrift des Betreibers, die Lage und Größe der Anlage, Teichzahl, Wasserversorgung, Zuflussmenge, die gehaltenen Tierarten und ihre Verwendung sowie die Darlegung, mit welchen Maßnahmen die Verschleppung von Seuchen verhindert wird. Im Falle eines Betriebes im Sinne des § 3 Nr. 2 oder 3 sind darüber hinaus Angaben zur Behandlung der Abwässer zu machen.
 
-
-## § 6 – Registrierung
+# § 6 – Registrierung
 
 (1) Wer in
 
@@ -110,8 +101,7 @@ eine in § 3 genannte Tätigkeit ausübt, bedarf der Registrierung.
 
 (3) Die zuständige Behörde erfasst die angezeigten Betriebe unter Erteilung einer Registriernummer in einem Register. Für die Zusammensetzung der Registriernummer gilt § 4 Abs. 2 Satz 1 entsprechend.
 
-
-## § 7 – Untersuchungen, Mitteilungspflicht
+# § 7 – Untersuchungen, Mitteilungspflicht
 
 (1) Wer eine genehmigungspflichtige Tätigkeit nach § 3 ausübt, hat die in der Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für die jeweils in Anlage 1 Spalte 1 genannten Seuchen empfänglich sind, nach Maßgabe des Anhangs III Teil B der Richtlinie 2006/88/EG in geeigneter Weise untersuchen zu lassen. Soweit eine Laboruntersuchung hierfür erforderlich ist, ist diese von einer von der zuständigen Behörde benannten Untersuchungseinrichtung durchzuführen.
 
@@ -121,8 +111,7 @@ eine in § 3 genannte Tätigkeit ausübt, bedarf der Registrierung.
 
 (4) Die Absätze 1 bis 3 lassen die Befugnis der Länder unberührt, unter Beachtung der Vorschriften der Richtlinie 2006/88/EG eigene Vorschriften zu erlassen, die das Nähere der Untersuchungen nach Absatz 1 einschließlich der Sachkunde derjenigen Personen, die die Untersuchungen durchführen, regeln.
 
-
-## § 8 – Buchführung
+# § 8 – Buchführung
 
 (1) Der Betreiber
 
@@ -152,22 +141,19 @@ Buch zu führen.
 
 (3) Die zuständige Behörde kann die Führung eines Buches nach Absatz 1 für andere als dort aufgeführte Betriebe anordnen, sofern das Risiko einer Infektion mit übertragbaren Seuchen in diesen Betrieben besteht oder von diesen ausgeht.
 
-
-## § 9 – Überwachung
+# § 9 – Überwachung
 
 (1) Die zuständige Behörde führt unter Beachtung der Artikel 9 und 10 der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen) (ABl. L 95 vom 7.4.2017, S. 1; L 137 vom 24.5.2017, S. 40; L 48 vom 21.2.2018, S. 44; L 322 vom 18.12.2018, S. 85) in der jeweils geltenden Fassung in Betrieben, in denen eine genehmigungspflichtige Tätigkeit nach § 3 ausgeübt wird, Untersuchungen nach Maßgabe der in Anhang III Teil B Spalte 5 der Richtlinie 2006/88/EG genannten Häufigkeit auf die in Spalte 4 genannte Überwachungsart durch. Dabei ist nach Maßgabe des Anhangs III Teil B Spalte 3 der Richtlinie 2006/88/EG das von dem Betrieb ausgehende Risiko in Bezug auf die Einschleppung und die Übertragung von Seuchenerregern zu berücksichtigen.
 
 (2) Die zuständige Behörde kann, soweit es aus Gründen der Seuchenbekämpfung erforderlich ist, für Fische aus Aquakultur bestimmter Betriebe eine amtstierärztliche Untersuchung einschließlich der Entnahme von Probenmaterial anordnen.
 
-
-## § 10 – Schutzgebiet
+# § 10 – Schutzgebiet
 
 (1) Die zuständige Behörde kann unter den Voraussetzungen des Artikels 50 der Richtlinie 2006/88/EG ein Gebiet zum Schutzgebiet erklären, soweit dieses frei von einer oder mehreren der in Anlage 1 Spalte 1 Nr. 2 aufgeführten Seuchen ist. Sie teilt dem Bundesministerium die Schutzgebiete mit. Die Mitteilung enthält die in Anhang II der Richtlinie 2006/88/EG festgelegten Angaben entsprechend den Vorgaben der Entscheidung 2008/392/EG der Kommission vom 30. April 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Einrichtung einer Website für Informationen über Aquakulturbetriebe und genehmigte Verarbeitungsbetriebe (ABl. EU Nr. L 138 S. 12).
 
 (2) Das Bundesministerium macht die Schutzgebiete im Bundesanzeiger bekannt.
 
-
-## § 11 – Impfverbot
+# § 11 – Impfverbot
 
 (1) Impfungen gegen die in Anlage 1 Spalte 1 Nr. 1 aufgeführten Seuchen (exotische Seuchen) sind verboten. Dies gilt nicht, soweit die Europäische Kommission Impfungen nach Artikel 42 oder Artikel 47 der Richtlinie 2006/88/EG genehmigt und das Bundesministerium dies im Bundesanzeiger bekannt gemacht hat.
 
@@ -175,15 +161,13 @@ Buch zu führen.
 
 (3) Abweichend von Absatz 1 Satz 1 und Absatz 2 kann die zuständige Behörde Impfungen für wissenschaftliche Studien zum Zwecke der Entwicklung und Testung von Impfstoffen genehmigen.
 
-
-## § 12 – Inverkehrbringen
+# § 12 – Inverkehrbringen
 
 (1) Fische aus Aquakultur oder ihre Erzeugnisse dürfen vorbehaltlich der §§ 13 bis 16 nur in den Verkehr gebracht werden, soweit sie die Fische am Bestimmungsort im Hinblick auf die in Anlage 1 Spalte 1 aufgeführten Seuchen nicht gefährden.
 
 (2) Die zuständige Behörde kann das Inverkehrbringen von Fischen aus Aquakultur oder ihren Erzeugnissen, die die Anforderungen des Absatzes 1 nicht erfüllen, zu wissenschaftlichen Zwecken genehmigen.
 
-
-## § 13 – Tiergesundheitsbescheinigung
+# § 13 – Tiergesundheitsbescheinigung
 
 (1) Fische aus Aquakultur dürfen zum Zwecke der Zucht, Haltung und Hälterung, des Besatzes oder der weiteren Verarbeitung für den menschlichen Verzehr in
 
@@ -199,8 +183,7 @@ nur verbracht werden, wenn sie von einer Tiergesundheitsbescheinigung nach dem M
 
 2. Weichtiere und Krebstiere, die zum Zwecke der weiteren Verarbeitung für den menschlichen Verzehr unverarbeitet oder als Verarbeitungserzeugnis verbracht werden.
 
-
-## § 14 – Inverkehrbringen für die weitere Haltung oder den Besatz
+# § 14 – Inverkehrbringen für die weitere Haltung oder den Besatz
 
 (1) Fische aus Aquakultur dürfen zum Zwecke der weiteren Haltung oder des Besatzes nur in den Verkehr gebracht werden, soweit sie
 
@@ -216,8 +199,7 @@ nur verbracht werden, wenn sie von einer Tiergesundheitsbescheinigung nach dem M
 
 (4) Die zuständige Behörde kann anordnen, dass Fische aus Aquakultur in freie Gewässer oder in Angelteiche nur verbracht werden dürfen, soweit sie aus einem Schutzgebiet stammen, das frei von den in Anlage 1 Spalte 1 Nummer 2 aufgeführten Seuchen ist.
 
-
-## § 15 – Inverkehrbringen zur Weiterverarbeitung
+# § 15 – Inverkehrbringen zur Weiterverarbeitung
 
 Die in Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für eine der in Anlage 1 Spalte 1 Nummer 2 jeweils aufgeführten Seuchen empfänglich sind, und ihre Erzeugnisse dürfen zur Weiterverarbeitung in Schutzgebiete, die frei von diesen Seuchen sind, nur in den Verkehr gebracht werden, soweit
 
@@ -229,18 +211,15 @@ Die in Anlage 1 Spalte 3 bezeichneten Fische aus Aquakultur, die für eine der i
 
 4. Weichtiere oder Krebstiere unverarbeitet oder als Verarbeitungserzeugnisse versandt werden.
 
-
-## § 16 – Inverkehrbringen wildlebender Fische
+# § 16 – Inverkehrbringen wildlebender Fische
 
 Die in Anlage 1 Spalte 3 bezeichneten empfänglichen Arten wildlebender Fische, die nicht aus einem Schutzgebiet stammen, das von einer in Anlage 1 Spalte 1 Nummer 2 jeweils aufgeführten Seuche frei ist, dürfen in Aquakulturbetriebe oder Weichtierzuchtgebiete in Schutzgebieten, die frei von dieser Seuche sind, nur in den Verkehr gebracht werden, soweit sie vor dem Inverkehrbringen in einer geeigneten Station unter Überwachung der zuständigen Behörde für einen ausreichend langen Zeitraum in Quarantäne gehalten worden sind.
 
-
-## § 17 – Inverkehrbringen von Fischen zu Zierzwecken
+# § 17 – Inverkehrbringen von Fischen zu Zierzwecken
 
 Fische zu Zierzwecken dürfen nur in den Verkehr gebracht werden, soweit sie andere Fische im Hinblick auf Seuchen nicht gefährden.
 
-
-## § 18 – Transport
+# § 18 – Transport
 
 (1) Fische aus Aquakultur dürfen nur in Fahrzeugen oder Behältnissen transportiert werden, die
 
@@ -260,8 +239,7 @@ im Hinblick auf Seuchen nicht gefährdet werden. Er darf anfallende Flüssigkeit
 
 (3) Wer Fische aus Aquakultur transportiert, hat sicherzustellen, dass Fahrzeuge oder Behältnisse, in denen Fische aus Aquakultur transportiert worden sind, sowie Geräte, die zum Fang, Verladen, Entladen oder Umladen verwendet worden sind, mit Ausnahme großer Fanggeräte der Fluss- und Seenfischerei, vor erneuter Benutzung gereinigt und desinfiziert werden. Anfallende Flüssigkeiten dürfen nicht unmittelbar in Gewässer eingeleitet werden.
 
-
-## § 19 – Schutzmaßregeln vor amtlicher Feststellung einer exotischen Seuche
+# § 19 – Schutzmaßregeln vor amtlicher Feststellung einer exotischen Seuche
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs einer exotischen Seuche in einem Aquakulturbetrieb gilt vor der amtlichen Feststellung Folgendes:
 
@@ -293,8 +271,7 @@ im Hinblick auf Seuchen nicht gefährdet werden. Er darf anfallende Flüssigkeit
 
 (5) Die zuständige Behörde kann die Maßnahmen nach den Absätzen 1 bis 4 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
-
-## § 20 – Schutzmaßregeln nach amtlicher Feststellung einer exotischen Seuche
+# § 20 – Schutzmaßregeln nach amtlicher Feststellung einer exotischen Seuche
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs einer exotischen Seuche in einem Aquakulturbetrieb amtlich festgestellt, so unterliegt der Aquakulturbetrieb nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -316,8 +293,7 @@ im Hinblick auf Seuchen nicht gefährdet werden. Er darf anfallende Flüssigkeit
 
 (3) § 19 Abs. 3 gilt entsprechend.
 
-
-## § 21 – Sperrgebiet, Überwachungsgebiet nach amtlicher Feststellung einer exotischen Seuche
+# § 21 – Sperrgebiet, Überwachungsgebiet nach amtlicher Feststellung einer exotischen Seuche
 
 (1) Ist der Ausbruch einer exotischen Seuche in einem Aquakulturbetrieb amtlich festgestellt, so legt die zuständige Behörde in Abhängigkeit von der Übertragbarkeit der Seuche sowie der geographischen Gegebenheiten, insbesondere des Wassereinzugsgebietes, ein Gebiet, das für die Vermeidung der Verschleppung der exotischen Seuche angemessen groß ist, um den betroffenen Aquakulturbetrieb als Sperrgebiet fest. Die in dem Sperrgebiet gelegenen Betriebe
 
@@ -329,8 +305,7 @@ Wer Fische aus Aquakultur aus einem in dem Sperrgebiet gelegenen Betrieb verbrin
 
 (2) Die zuständige Behörde legt ferner ein Gebiet außerhalb des Sperrgebietes nach Absatz 1, das für die Vermeidung der Verschleppung der exotischen Seuche angemessen groß ist, als Überwachungsgebiet fest. Die zuständige Behörde kann in dem Überwachungsgebiet über die Untersuchungen nach § 7 Abs. 1 hinaus zusätzliche Untersuchungen durchführen.
 
-
-## § 22 – Schutzmaßregeln nach amtlicher Feststellung des Ausbruchs oder Verdacht des Ausbruchs einer nicht exotischen Seuche in einem Aquakulturbetrieb
+# § 22 – Schutzmaßregeln nach amtlicher Feststellung des Ausbruchs oder Verdacht des Ausbruchs einer nicht exotischen Seuche in einem Aquakulturbetrieb
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs einer nicht exotischen Seuche in einem Aquakulturbetrieb amtlich festgestellt, so gilt Folgendes:
 
@@ -354,8 +329,7 @@ Wer Fische aus Aquakultur aus einem in dem Sperrgebiet gelegenen Betrieb verbrin
 
 (3) Die zuständige Behörde kann die Maßnahmen nach den Absätzen 1 und 2 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
-
-## § 23 – Schutzmaßregeln bei Ansteckungsverdacht für eine nicht exotische Seuche
+# § 23 – Schutzmaßregeln bei Ansteckungsverdacht für eine nicht exotische Seuche
 
 (1) Ist in einem Aquakulturbetrieb der Ausbruch oder der Verdacht des Ausbruchs einer nicht exotischen Seuche amtlich festgestellt, so stellt die zuständige Behörde epidemiologische Nachforschungen im Sinne des § 19 Abs. 3 an und ordnet für Aquakulturbetriebe,
 
@@ -367,8 +341,7 @@ die behördliche Beobachtung an. § 19 Abs. 2 Satz 2 gilt entsprechend. Die zust
 
 (2) Die zuständige Behörde kann die Maßnahmen nach Absatz 1 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
-
-## § 24 – Schutzmaßregeln nach amtlicher Feststellung des Verdachts des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet
+# § 24 – Schutzmaßregeln nach amtlicher Feststellung des Verdachts des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet
 
 (1) Ist der Verdacht des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet amtlich festgestellt, so gilt Folgendes:
 
@@ -382,8 +355,7 @@ die behördliche Beobachtung an. § 19 Abs. 2 Satz 2 gilt entsprechend. Die zust
 
 (2) § 22 Abs. 2 gilt entsprechend.
 
-
-## § 25 – Schutzmaßregeln nach amtlicher Feststellung des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet
+# § 25 – Schutzmaßregeln nach amtlicher Feststellung des Ausbruchs einer nicht exotischen Seuche in einem Schutzgebiet
 
 Ist eine nicht exotische Seuche in einem Schutzgebiet amtlich festgestellt, so unterliegt das Schutzgebiet nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -391,8 +363,7 @@ Ist eine nicht exotische Seuche in einem Schutzgebiet amtlich festgestellt, so u
 
 2. § 22 ist entsprechend anzuwenden.
 
-
-## § 26 – Schutzmaßregeln bei Ansteckungsverdacht für eine nicht exotische Seuche ausgehend von einem Schutzgebiet
+# § 26 – Schutzmaßregeln bei Ansteckungsverdacht für eine nicht exotische Seuche ausgehend von einem Schutzgebiet
 
 (1) Ist in einem Schutzgebiet der Verdacht des Ausbruchs oder der Ausbruch einer nicht exotischen Seuche amtlich festgestellt, so stellt die zuständige Behörde epidemiologische Nachforschungen gemäß § 19 Abs. 3 an und ordnet für Aquakulturbetriebe,
 
@@ -404,13 +375,11 @@ die behördliche Beobachtung an; § 19 Abs. 2 gilt entsprechend. Die zuständige
 
 (2) Die zuständige Behörde kann die Maßnahmen nach Absatz 1 auch für die in § 6 Abs. 1 genannten Betriebe anordnen.
 
-
-## § 27 – Sperrgebiet, Überwachungsgebiet nach amtlicher Feststellung einer nicht exotischen Seuche
+# § 27 – Sperrgebiet, Überwachungsgebiet nach amtlicher Feststellung einer nicht exotischen Seuche
 
 Ist der Ausbruch einer nicht exotischen Seuche in einem Aquakulturbetrieb amtlich festgestellt, legt die zuständige Behörde in Abhängigkeit von der Übertragbarkeit der Seuche sowie den geographischen Gegebenheiten, insbesondere des Wassereinzugsgebietes, ein Gebiet, das für die Vermeidung der Verschleppung der nicht exotischen Seuche angemessen groß ist, um den betroffenen Aquakulturbetrieb als Sperrgebiet und außerhalb des Sperrgebietes als Überwachungsgebiet fest. Für das Sperrgebiet gilt § 21 Abs. 1 Satz 2 und 3, für das Überwachungsgebiet § 21 Abs. 2 Satz 2 entsprechend.
 
-
-## § 28 – Aufhebung der Schutzmaßregeln
+# § 28 – Aufhebung der Schutzmaßregeln
 
 (1) Angeordnete Schutzmaßregeln nach den §§ 19 bis 27 sind aufzuheben, soweit die Seuche erloschen ist oder der Verdacht des Ausbruchs der Seuche beseitigt ist oder sich als unbegründet erwiesen hat.
 
@@ -426,8 +395,7 @@ Ist der Ausbruch einer nicht exotischen Seuche in einem Aquakulturbetrieb amtlic
 
 (5) Nach Aufhebung der Schutzmaßregeln wegen einer in Anlage 1 Spalte 1 Nummer 1 aufgeführten exotischen Seuche kann die zuständige Behörde den Wiederbesatz eines Aquakulturbetriebes von dem Ergebnis der Untersuchung nach § 20 Abs. 2 Satz 1 abhängig machen.
 
-
-## § 29 – Ordnungswidrigkeiten
+# § 29 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -461,8 +429,7 @@ Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundhe
 
 15. entgegen § 20 Absatz 1 Nummer 1 einen Fisch nicht, nicht richtig oder nicht rechtzeitig beseitigt und nicht, nicht richtig oder nicht rechtzeitig beseitigen lässt.
 
-
-## § 30 – Übergangsbestimmungen
+# § 30 – Übergangsbestimmungen
 
 (1) Aquakulturbetriebe, die zum Zeitpunkt des Inkrafttretens dieser Verordnung nach § 2 Abs. 1 der Fischseuchenverordnung in der Fassung der Bekanntmachung vom 20. Dezember 2005 (BGBl. I S. 3563) angezeigt sind, gelten,
 
@@ -474,13 +441,11 @@ Die vorläufige Genehmigung erlischt, wenn nicht innerhalb von sechs Monaten nac
 
 (2) Die nach § 13 oder § 14 der Fischseuchenverordnung in der Fassung der Bekanntmachung vom 20. Dezember 2005 (BGBl. I S. 3563) zugelassenen Gebiete oder Betriebe gelten als Schutzgebiete nach § 10.
 
-
-## Anlage 1 – (zu den §§ 2, 7, 10, 11, 12, 14, 15, 16, 20, 28)Liste der Seuchen
+# Anlage 1 – (zu den §§ 2, 7, 10, 11, 12, 14, 15, 16, 20, 28)Liste der Seuchen
 
 (Fundstelle: BGBl. I 2014, 1559 - 1560)
 
-
-## Anlage 2 – (zu § 13)
+# Anlage 2 – (zu § 13)
 
 (Fundstelle: BGBl. I 2008, 2325)
 

@@ -1,13 +1,9 @@
-# [AgrarMSG] Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich  (Agrarmarktstrukturgesetz - AgrarMSG)
-
-Ausfertigungsdatum: 20.04.2013
-
+% Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich  (Agrarmarktstrukturgesetz - AgrarMSG)
+% Ausfertigungsdatum: 20.04.2013
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt
 
@@ -43,8 +39,7 @@ soweit sich deren Tätigkeit auf Agrarerzeugnisse bezieht (Agrarorganisationen),
 
 soweit eine Erstreckung von Vorschriften dieses Gesetzes sachlich gerechtfertigt oder unionsrechtlich zwingend ist.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Ein Agrarerzeugnis im Sinne dieses Gesetzes ist
 
@@ -62,15 +57,13 @@ soweit das jeweilige Erzeugnis in Anhang I des Vertrages über die Arbeitsweise 
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, dieses Gesetz auf Erzeugnisse im Sinne des Absatzes 2 Nummer 2 für anwendbar zu erklären, soweit im Hinblick auf die Förderung der landwirtschaftlichen Erzeugung ein Bedürfnis für die Anerkennung von Agrarorganisationen für derartige Erzeugnisse besteht.
 
-
-## § 3 – Zuständigkeit
+# § 3 – Zuständigkeit
 
 (1) Zuständig für die Durchführung dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und des in § 1 Absatz 2, auch in Verbindung mit den Absätzen 3 und 4, genannten Unionsrechts (Agrarorganisationenrecht) ist die nach Landesrecht zuständige Stelle (zuständige Stelle), soweit nicht in diesem Gesetz oder in auf Grund dieses Gesetzes erlassenen Rechtsverordnungen etwas anderes bestimmt ist.
 
 (2) Die örtliche Zuständigkeit bestimmt sich nach dem Hauptsitz der Agrarorganisation.
 
-
-## § 4 – Voraussetzungen und Verfahren der Anerkennung
+# § 4 – Voraussetzungen und Verfahren der Anerkennung
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
@@ -120,8 +113,7 @@ zu regeln und
 
 (3) Eine Agrarorganisation, die nicht anerkannt ist, darf sich nicht als anerkannte Agrarorganisation bezeichnen. Auf nicht anerkannte Agrarorganisationen ist das allgemeine Recht anzuwenden.
 
-
-## § 4a – Allgemeinverbindlichkeit
+# § 4a – Allgemeinverbindlichkeit
 
 (1) Soweit das Unionsrecht den Mitgliedstaaten die Möglichkeit eröffnet, dass Vereinbarungen, Beschlüsse oder aufeinander abgestimmte Verhaltensweisen einer anerkannten Agrarorganisation (Vorschriften) für dieser Agrarorganisation nicht angehörende Einzelunternehmen oder Gruppierungen (Nichtmitglieder) für verbindlich erklärt werden können (Allgemeinverbindlichkeit), wird das Bundesministerium ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach Maßgabe der Absätze 2 und 3 und einer Rechtsverordnung auf Grund des Absatzes 4 die Allgemeinverbindlichkeit ganz oder teilweise anzuordnen.
 
@@ -157,8 +149,7 @@ Die Einbeziehung eines Erzeugnisbereichs nach Satz 1 Nummer 1 darf nur erfolgen,
 
 (6) Bezieht sich eine nach dem Unionsrecht ermöglichte Erklärung der Allgemeinverbindlichkeit auf einen räumlichen Bereich in dem Gebiet nur eines Landes, ist anstelle des Bundesministeriums die Landesregierung zuständig, eine Rechtsverordnung nach Absatz 1 zu erlassen, wobei in Absatz 3 Nummer 1 anstelle des Bundesministeriums die nach Landesrecht zuständige Stelle tritt. Die Landesregierung kann die Ermächtigung auf oberste Landesbehörden übertragen.
 
-
-## § 5 – Kartellbestimmungen
+# § 5 – Kartellbestimmungen
 
 (1) Für Tätigkeiten, die eine Agrarorganisation in dem von ihrer Anerkennung umfassten Bereich vornimmt und die dem Agrarorganisationenrecht entsprechen, gilt § 1 des Gesetzes gegen Wettbewerbsbeschränkungen nicht. Im Übrigen bleiben die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen unberührt.
 
@@ -170,8 +161,7 @@ Die Einbeziehung eines Erzeugnisbereichs nach Satz 1 Nummer 1 darf nur erfolgen,
 
 3. soweit das Unionsrecht für bestimmte Agrarorganisationen besondere Kartellbestimmungen vorsieht, die zur Durchführung dieser Bestimmungen erforderlichen Anforderungen sowie das Verfahren zu regeln.
 
-
-## § 5a – Vereinbarungen und Beschlüsse während schwerer Ungleichgewichte auf den Märkten
+# § 5a – Vereinbarungen und Beschlüsse während schwerer Ungleichgewichte auf den Märkten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, soweit dies während schwerer Ungleichgewichte auf den Märkten zur Durchführung von Rechtsakten der Europäischen Union über die Nichtanwendung des Artikels 101 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union auf Vereinbarungen und Beschlüsse von landwirtschaftlichen Erzeugerbetrieben, anerkannten Agrarorganisationen oder sonstigen Vereinigungen erforderlich ist, Vorschriften über das Verfahren sowie den Inhalt, Gegenstand und geografischen Anwendungsbereich der Vereinbarungen und Beschlüsse zu erlassen, soweit die genannten Rechtsakte bestimmt, bestimmbar oder begrenzt sind. Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) ist für die Durchführung zuständig. In Rechtsverordnungen nach Satz 1 kann vorgesehen werden, dass Anordnungen und Maßnahmen der Bundesanstalt des Benehmens oder des Einvernehmens des Bundeskartellamts bedürfen.
 
@@ -185,8 +175,7 @@ werden, soweit es zur Beseitigung des schweren Ungleichgewichts auf den Märkten
 
 (3) Soweit ein Rechtsakt der Europäischen Union die Nichtanwendung von Artikel 101 Absatz 1 des Vertrags über die Arbeitsweise der Europäischen Union auf Vereinbarungen und Beschlüsse im Sinne des Absatzes 1 Satz 1 anordnet, gilt das Verbot des § 1 des Gesetzes gegen Wettbewerbsbeschränkungen für solche Vereinbarungen und Beschlüsse nicht. Rechtsverordnungen nach Absatz 1, auch in Verbindung mit Absatz 2, können auch für die Durchführung des Satzes 1 erlassen werden. In Rechtsverordnungen nach Satz 2 können auch Pflichten zur Mitteilung der Vereinbarungen und Beschlüsse an die zuständige Behörde vorgesehen werden.
 
-
-## § 6 – Agrarorganisationenregister
+# § 6 – Agrarorganisationenregister
 
 (1) Jede zuständige Stelle führt für die Agrarorganisationen, für deren Anerkennung sie zuständig ist, ein Register zum Zweck der Information der Öffentlichkeit (Agrarorganisationenregister), das für die jeweilige Agrarorganisation
 
@@ -214,8 +203,7 @@ enthält.
 
 3. an der Veröffentlichung der Daten ein öffentliches Interesse besteht.
 
-
-## § 6a – Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern
+# § 6a – Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur Durchführung unionsrechtlicher Bestimmungen über die Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern Vorschriften über
 
@@ -233,8 +221,7 @@ zu erlassen.
 
 2. den Erfordernissen eines möglichst geringen Verfahrens- und Überwachungsaufwandes auszurichten.
 
-
-## § 7 – Überwachung; Mitteilungen; Veröffentlichung
+# § 7 – Überwachung; Mitteilungen; Veröffentlichung
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die Vorschriften zu erlassen, die zur Überwachung der Einhaltung des Agrarorganisationenrechts oder zur Erfüllung von Mitteilungspflichten gegenüber Organen der Europäischen Union erforderlich sind. Insbesondere können Mitteilungs-, Aufzeichnungs-, Aufbewahrungs-, Auskunfts- und sonstige Unterstützungspflichten sowie Pflichten zur Duldung des Betretens und der Besichtigung von Geschäftsräumen und Betriebsstätten, zur Vornahme von Proben sowie zur Einsichtnahme und zum Kopieren von Geschäftsunterlagen vorgeschrieben werden.
 
@@ -242,8 +229,7 @@ zu erlassen.
 
 (3) Soweit es sich bei der zuständigen Stelle um eine Stelle des Bundes handelt, kann diese Stelle nicht personenbezogene Daten zu statistischen oder wissenschaftlichen Zwecken unter Einhaltung der Anforderungen des Schutzes von Geschäftsgeheimnissen und eines funktionierenden Wettbewerbs veröffentlichen.
 
-
-## § 8 – Bußgeldvorschriften
+# § 8 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -265,8 +251,7 @@ oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwi
 
 (3) Das Bundesministerium wird ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der Europäischen Union erforderlich ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nummer 3 geahndet werden können.
 
-
-## § 9 – Rechtsverordnungen in besonderen Fällen
+# § 9 – Rechtsverordnungen in besonderen Fällen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
@@ -286,12 +271,10 @@ auf die Landesregierungen übertragen werden. Die Landesregierungen können die 
 
 (4) Rechtsverordnungen nach diesem Gesetz können auch ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Durchführung des Unionsrechts erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird.
 
-
-## § 10 – Verkündung von Rechtsverordnungen
+# § 10 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 11 – Übergangsbestimmung
+# § 11 – Übergangsbestimmung
 
 Anerkennungen von Agrarorganisationen, die auf Grund der bis zum 24. April 2013 geltenden Vorschriften erteilt worden sind, bleiben bestehen, soweit nicht auf Grund einer Rechtsverordnung nach diesem Gesetz etwas anderes bestimmt ist.

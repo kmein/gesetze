@@ -1,10 +1,7 @@
-# [TierSchTrV] Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates    (Tierschutztransportverordnung - TierSchTrV)
-
-Ausfertigungsdatum: 11.02.2009
-
+% Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates    (Tierschutztransportverordnung - TierSchTrV)
+% Ausfertigungsdatum: 11.02.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -22,23 +19,19 @@ das Bundesministerium der Finanzen auf Grund des § 14 Abs. 2 Satz 1 in Verbindu
 
 jeweils in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes nach Anhörung der Tierschutzkommission:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung dient dem Schutz von Tieren beim Transport, insbesondere der Durchführung der Verordnung (EG) Nr. 1/2005 des Rates vom 22. Dezember 2004 über den Schutz von Tieren beim Transport und damit zusammenhängenden Vorgängen sowie zur Änderung der Richtlinien 64/432/EWG und 93/119/EG und der Verordnung (EG) Nr. 1255/97 (ABl. EU 2005 Nr. L 3 S. 1; 2006 Nr. L 113 S. 26).
 
 (2) Diese Verordnung gilt, ausgenommen die §§ 7 und 8, nicht für Transporte im Sinne des Artikels 1 Abs. 5 der Verordnung (EG) Nr. 1/2005.
 
-
-## § 2 – Zulassungsnummer
+# § 2 – Zulassungsnummer
 
 Die Zulassungsnummer im Sinne des Artikels 13 Abs. 2 der Verordnung (EG) Nr. 1/2005 ist zwölfstellig und wird aus der für die Sitzgemeinde des Transportunternehmers vorgesehenen amtlichen Schlüsselnummer des vom Statistischen Bundesamt herausgegebenen Gemeindeschlüsselverzeichnisses sowie einer vierstelligen Betriebsnummer gebildet.
 
-
-## § 3 – Ausnahmen für Straßentransportmittel
+# § 3 – Ausnahmen für Straßentransportmittel
 
 Bei innerstaatlichen Beförderungen von Tieren im Sinne des Artikels 18 Abs. 4 der Verordnung (EG) Nr. 1/2005 dürfen Straßentransportmittel verwendet werden, die abweichend von
 
@@ -50,8 +43,7 @@ Bei innerstaatlichen Beförderungen von Tieren im Sinne des Artikels 18 Abs. 4 d
 
 verfügen. § 10 bleibt unberührt.
 
-
-## § 4 – Befähigungsnachweis
+# § 4 – Befähigungsnachweis
 
 (1) Der Befähigungsnachweis nach Artikel 17 Abs. 2 der Verordnung (EG) Nr. 1/2005 wird außer in den dort genannten Fällen von der zuständigen Behörde auf Antrag auch dann erteilt, wenn
 
@@ -67,8 +59,7 @@ nachgewiesen wird.
 
 (3) Der Befähigungsnachweis ist zu widerrufen, wenn dessen Inhaber wiederholt oder grob gegen Vorschriften der Verordnung (EG) Nr. 1/2005 oder dieser Verordnung verstoßen hat und Tatsachen die Annahme rechtfertigen, dass dies auch weiterhin geschieht.
 
-
-## § 5 – Schienentransport
+# § 5 – Schienentransport
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften zum Schienentransport haben der Transportunternehmer im Sinne des Artikels 2 Buchstabe x der Verordnung (EG) Nr. 1/2005 (Transportunternehmer) und der Organisator im Sinne des Artikels 2 Buchstabe q der Verordnung (EG) Nr. 1/2005 (Organisator) bei innerstaatlichen Schienentransporten sicherzustellen, dass
 
@@ -78,8 +69,7 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 Satz 1 Nr. 2 gilt nicht, soweit die Tiere im Transportmittel in Einzelboxen untergebracht werden. Fohlen und Halfter ungewohnte Tiere müssen nicht angebunden werden.
 
-
-## § 6 – Besondere Anforderungen an Behältnisse
+# § 6 – Besondere Anforderungen an Behältnisse
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften zum Transport in Behältnissen hat der Absender bei innerstaatlichen Transporten sicherzustellen, dass
 
@@ -89,8 +79,7 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 Übernimmt der Transportunternehmer oder der Organisator das Verladen der Tiere in die Behältnisse, so hat er die Einhaltung der Anforderungen des Satzes 1 sicherzustellen. Satz 1 Nr. 1 gilt nicht im Falle des Lufttransports und der mit diesem im Zusammenhang stehenden Landtransporte.
 
-
-## § 7 – Pflichten des Absenders
+# § 7 – Pflichten des Absenders
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften zum Transport von Tieren in Behältnissen sowie den Anforderungen nach § 6 dürfen Tiere, ausgenommen landwirtschaftliche Nutztiere, innerstaatlich nur versandt werden, wenn sich der Absender von der Richtigkeit der Empfängeranschrift überzeugt hat. Auf dem Behältnis müssen die zustellfähigen Anschriften des Absenders und Empfängers angegeben sein. Der Absender muss den Empfänger vor der Absendung über die Absendezeit und die voraussichtliche Ankunftszeit, den Bestimmungsort sowie über die Versandart unterrichten.
 
@@ -106,8 +95,7 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 (5) Der Absender hat sicherzustellen, dass bei Nichtabnahme einer Sendung der etwa notwendige Rücktransport spätestens mit Ablauf des Freitags oder vor Feiertagen abgeschlossen werden kann.
 
-
-## § 8 – Nachnahmeversand
+# § 8 – Nachnahmeversand
 
 (1) Der Absender darf Tiere mit Nachnahme nur versenden, soweit sie schriftlich bestellt worden sind und der Empfänger dem Absender schriftlich zugesichert hat, dass die Tiere sofort nach ihrem Eintreffen angenommen werden. Haben Absender und Empfänger eine Erlaubnis nach § 11 des Tierschutzgesetzes oder handeln sie gewerbsmäßig mit landwirtschaftlichen Nutztieren, so kann der Empfänger diese schriftliche Zusicherung für einen Zeitraum von jeweils höchstens zwölf Monaten im Voraus erteilen. Die Bestellung bedarf dann nicht der Schriftform.
 
@@ -119,8 +107,7 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 § 8 Abs. 2 Kursivdruck: IdF d. Art. 7 Nr. 2 V v. 12.12.2013 I 4145 mWv 18.12.2013 (ersetzt wurden abweichend von der Änderungsanweisung die Wörter "Europäischen Gemeinschaft" anstelle von "Europäische Gemeinschaft" durch die Wörter "Europäischen Union" anstelle von "Europäische Union")
 
-
-## § 9 – Raumbedarf und Pflege
+# § 9 – Raumbedarf und Pflege
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften hat derjenige, der Einhufer oder Tiere der Gattung Rind, Schaf, Ziege oder Schwein, soweit sie Haustiere sind, (Nutztiere) befördert, bei innerstaatlichen Transporten die Vorgaben der Anlage 2 an die Abtrennung der Tiere einzuhalten. Abweichend von Satz 1 kann die Gruppengröße bei Rindern und Schweinen mit einem Lebendgewicht von jeweils über 70 Kilogramm um bis zu 20 vom Hundert überschritten werden, soweit Tiere zusammen befördert werden, die mindestens sieben Tage vor Beginn des Transports am Ort der Versendung als Gruppe gehalten worden sind.
 
@@ -128,8 +115,7 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 (3) Geschlechtsreife männliche Rinder dürfen in Gruppen nur befördert werden, wenn die lichte Raumhöhe bei Straßentransporten auf höchstens 50 Zentimeter über dem Widerrist des höchsten Tieres begrenzt ist.
 
-
-## § 10 – Begrenzung von Transporten
+# § 10 – Begrenzung von Transporten
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften dürfen Nutztiere im Rahmen innerstaatlicher Transporte zu einem Schlachtbetrieb nicht länger als acht Stunden befördert werden. Dies gilt nicht, soweit die Transportdauer aus unvorhersehbaren Umständen überschritten wird.
 
@@ -145,8 +131,7 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 (4) Kälber im Alter von weniger als 14 Tagen dürfen vorbehaltlich des Artikels 1 Abs. 2 der Verordnung (EG) Nr. 1/2005 innerstaatlich nicht befördert werden.
 
-
-## § 11 – Eintagsküken
+# § 11 – Eintagsküken
 
 Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften hat der Absender bei innerstaatlichen Transporten von Eintagsküken sicherzustellen, dass
 
@@ -154,15 +139,13 @@ Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche V
 
 2. in dem Bereich, in dem sich die Tiere während des Transports aufhalten, eine Temperatur von 25 bis 30 Grad C herrscht.
 
-
-## § 12 – Meeressäugetiere und Vögel
+# § 12 – Meeressäugetiere und Vögel
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften müssen Meeressäugetiere bei innerstaatlichen Transporten von einer sachkundigen Person betreut werden. Behältnisse, in denen Meeressäugetiere befördert werden, dürfen nicht gestapelt werden.
 
 (2) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften dürfen andere Vögel als Hausgeflügel und Stubenvögel bei innerstaatlichen Transporten nur in abgedunkelten Behältnissen befördert werden. Den Tieren muss jedoch so viel Licht zur Verfügung stehen, dass sie sich orientieren und Futter sowie Wasser aufnehmen können.
 
-
-## § 13 – Wechselwarme Wirbeltiere und wirbellose Tiere
+# § 13 – Wechselwarme Wirbeltiere und wirbellose Tiere
 
 (1) Zusätzlich zu den gemeinschaftsrechtlichen Vorschriften oder unionsrechtliche Vorschriften
 
@@ -174,37 +157,31 @@ Abweichend von Satz 1 Nr. 2 dürfen Aale auch in ausreichend feuchter Verpackung
 
 (2) Krustentiere dürfen innerstaatlich nur im Wasser oder vorübergehend auf feuchter Unterlage transportiert werden.
 
-
-## § 14 – Ausfuhr über bestimmte Überwachungsstellen
+# § 14 – Ausfuhr über bestimmte Überwachungsstellen
 
 (1) Die Ausfuhr von Tieren ist nur über Zollstellen mit zugeordneten Grenzkontrollstellen oder sonstigen Ausgangsstellen zulässig, die das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt gemacht hat. Das Bundesministerium der Finanzen kann die Erteilung des Einvernehmens auf die Generalzolldirektion übertragen.
 
 (2) Der Ausführer von Tieren hat der Grenzkontrollstelle oder sonstigen Ausgangsstelle die voraussichtliche Ankunft des Transports unter Angabe von Art und Anzahl der Tiere mindestens einen Werktag vorher anzuzeigen. Die zuständige Behörde kann Ausnahmen zulassen, soweit Belange des Tierschutzes nicht entgegenstehen.
 
-
-## § 15 – Anzeige der Ankunft
+# § 15 – Anzeige der Ankunft
 
 (1) Wer Tiere im Rahmen einer wirtschaftlichen Tätigkeit aus einem Drittland empfängt, hat der für den Bestimmungsort zuständigen Behörde die voraussichtliche Ankunftszeit unter Angabe der Art und der Zahl der Tiere mindestens einen Werktag vorher anzuzeigen. Die Anzeigepflicht nach Satz 1 gilt nicht für Tiere, deren Ankunft nach der Binnenmarkt-Tierseuchenschutzverordnung anzuzeigen ist.
 
 (2) Der Einführer von Tieren hat der Grenzkontrollstelle die voraussichtliche Ankunft des Transports unter Angabe von Art und Anzahl der Tiere mindestens einen Werktag vorher anzuzeigen. Die zuständige Behörde kann Ausnahmen zulassen. Die Anzeigepflicht nach Satz 1 gilt nicht für Tiere, deren Ankunft nach der Binnenmarkt-Tierseuchenschutzverordnung anzuzeigen ist.
 
-
-## § 16 – Einfuhr über bestimmte Überwachungsstellen
+# § 16 – Einfuhr über bestimmte Überwachungsstellen
 
 Die Einfuhr von Tieren im Rahmen einer wirtschaftlichen Tätigkeit ist nur über Zollstellen mit zugeordneten Grenzkontrollstellen zulässig, die das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger bekannt gemacht hat. Das Bundesministerium der Finanzen kann die Erteilung des Einvernehmens auf die Generalzolldirektion übertragen.
 
-
-## § 17 – Einfuhrdokument
+# § 17 – Einfuhrdokument
 
 Bei der Einfuhr von Kälbern oder Schweinen muss der Transport von einer Bescheinigung der zuständigen Behörde des Herkunftslandes begleitet sein, in der bestätigt wird, dass die Tiere jeweils mindestens entsprechend den tierschutzrechtlichen Bestimmungen der Europäischen Union gehalten worden sind.
 
-
-## § 18 – Anforderungen an die Einfuhr
+# § 18 – Anforderungen an die Einfuhr
 
 Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen Einfuhrdokumente nach § 17 mitgeführt werden und die zuständige Behörde in einer Untersuchung nach § 19 festgestellt hat, dass die Bestimmungen der Verordnung (EG) Nr. 1/2005 und dieser Verordnung eingehalten sind.
 
-
-## § 19 – Einfuhruntersuchung
+# § 19 – Einfuhruntersuchung
 
 (1) Bei der Einfuhr und der Durchfuhr prüft die zuständige Behörde bei der Grenzkontrollstelle durch Besichtigung der Tiere und der Transportmittel sowie durch Dokumentenprüfung und Nämlichkeitskontrolle, ob die tierschutzrechtlichen Bestimmungen eingehalten sind. Die Nämlichkeitskontrolle wird nach Maßgabe der Anlage 3 durchgeführt.
 
@@ -212,8 +189,7 @@ Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen Einfuhrdokumen
 
 (3) Artikel 21 der Verordnung (EG) Nr. 1/2005 bleibt unberührt.
 
-
-## § 20 – Befugnisse der Behörde
+# § 20 – Befugnisse der Behörde
 
 (1) Transporte können jederzeit angehalten und kontrolliert werden.
 
@@ -231,8 +207,7 @@ Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen Einfuhrdokumen
 
 (5) Die Artikel 23, 24 Abs. 1 und Artikel 26 der Verordnung (EG) Nr. 1/2005 bleiben unberührt.
 
-
-## § 21 – Ordnungswidrigkeiten
+# § 21 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe a des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -340,28 +315,23 @@ Die Einfuhr von Tieren ist nur zulässig, wenn die erforderlichen Einfuhrdokumen
 
 35. als Transportunternehmer entgegen Anhang I Kapitel V Nr. 1.5 ein Tier nicht oder nicht rechtzeitig entlädt.
 
-
-## § 22 – Unterrichtung
+# § 22 – Unterrichtung
 
 Die Länder übermitteln dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zum Zweck der Weiterleitung an die Europäische Kommission bis zum 1. Juni des folgenden Jahres einen Bericht über die nach Artikel 27 Abs. 1 der Verordnung (EG) Nr. 1/2005 in der jeweils geltenden Fassung durchgeführten Kontrollen, zusammen mit einer Analyse der wichtigsten festgestellten Mängel und einem Plan für ihre Behebung.
 
-
-## § 23
+# § 23
 
 \-
 
-
-## § 24 – Inkrafttreten
+# § 24 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 6)
+# Anlage 1 – (zu § 6)
 
 (Fundstelle: BGBl. I 2009, 382 - 383)
 
@@ -400,8 +370,7 @@ Andere Kaninchen
 Lebendgewicht  
 bis zu kg je Tier
 
-
-## Anlage 2 – (zu § 9 Abs. 1 und 2)Abtrennung und Raumbedarf
+# Anlage 2 – (zu § 9 Abs. 1 und 2)Abtrennung und Raumbedarf
 
 (Fundstelle: BGBl. I 2009, 384 - 385)
 
@@ -453,5 +422,4 @@ Flächenbedarf
 Lebendgewicht  
 bis zu kg je Tier
 
-
-## Anlage 3 – (zu § 19 Abs. 1)Durchführung der Nämlichkeitskontrolle bei Tieren
+# Anlage 3 – (zu § 19 Abs. 1)Durchführung der Nämlichkeitskontrolle bei Tieren

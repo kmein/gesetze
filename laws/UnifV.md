@@ -1,25 +1,19 @@
-# [UnifV] Verordnung über die Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses  (Uniformverordnung - UnifV)
-
-Ausfertigungsdatum: 25.04.2008
-
+% Verordnung über die Berechtigung zum Tragen der Uniform außerhalb eines Wehrdienstverhältnisses  (Uniformverordnung - UnifV)
+% Ausfertigungsdatum: 25.04.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4a Satz 2 in Verbindung mit § 93 Abs. 2 Nr. 2 des Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005 (BGBl. I S. 1482) verordnet das Bundesministerium der Verteidigung:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Früheren Soldatinnen und früheren Soldaten kann für die in § 3 genannten Anlässe das Tragen der Uniform außerhalb eines Wehrdienstes genehmigt werden.
 
-
-## § 2 – Begriffsbestimmung
+# § 2 – Begriffsbestimmung
 
 Uniform ist die Uniform der Soldatinnen und Soldaten der Bundeswehr mit den Abzeichen des Dienstgrads, den zu führen die frühere Soldatin oder der frühere Soldat berechtigt ist.
 
-
-## § 3 – Anlässe
+# § 3 – Anlässe
 
 Das Tragen der Uniform kann genehmigt werden für
 
@@ -35,8 +29,7 @@ Das Tragen der Uniform kann genehmigt werden für
 
 6. Reisen zu dienstlichen Veranstaltungen nach § 81 des Soldatengesetzes einschließlich der Rückreisen.
 
-
-## § 4 – Ausschlusstatbestände
+# § 4 – Ausschlusstatbestände
 
 Eine Genehmigung darf nicht erteilt werden für
 
@@ -44,8 +37,7 @@ Eine Genehmigung darf nicht erteilt werden für
 
 2. Anlässe, bei denen auch Soldatinnen und Soldaten der Bundeswehr die Uniform nicht tragen dürfen.
 
-
-## § 5 – Antrag, Zuständigkeiten
+# § 5 – Antrag, Zuständigkeiten
 
 (1) Die Genehmigung für die in § 3 Nr. 1 bis 5 genannten Anlässe wird auf Antrag erteilt. In den Fällen des § 3 Nr. 6 erfolgt die Genehmigung von Amts wegen.
 
@@ -61,8 +53,7 @@ Eine Genehmigung darf nicht erteilt werden für
 
 (4) In den Fällen des § 3 Nr. 6 entscheidet die für die Zuziehung im Einzelfall zuständige Stelle.
 
-
-## § 6 – Genehmigung
+# § 6 – Genehmigung
 
 (1) Die Genehmigung bedarf der Schriftform. Im Falle des § 3 Nr. 6 kann die Genehmigung mit der Entscheidung über die Zuziehung zu der dienstlichen Veranstaltung verbunden werden. Erfolgt die Zuziehung ausnahmsweise nur mündlich, kann die Genehmigung ebenfalls mündlich erteilt werden.
 
@@ -72,12 +63,10 @@ Eine Genehmigung darf nicht erteilt werden für
 
 (4) Der Genehmigungsbescheid ist mitzuführen, während die Uniform getragen wird. Er ist auf Verlangen der Polizei oder der Feldjäger vorzuzeigen. Ist im Fall des § 3 Nr. 6 die Genehmigung gemäß Absatz 1 Satz 3 ausnahmsweise nur mündlich erteilt worden, sind die Angaben zur Erreichbarkeit der genehmigenden Stelle bereitzuhalten.
 
-
-## § 7 – Widerruf der Genehmigung
+# § 7 – Widerruf der Genehmigung
 
 Die Genehmigung kann jederzeit widerrufen werden. Sie ist zu widerrufen, wenn zu befürchten ist, dass durch das Auftreten der früheren Soldatin oder des früheren Soldaten in Uniform das Ansehen der Bundeswehr in der Öffentlichkeit beeinträchtigt oder die Trageberechtigung missbraucht wird.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

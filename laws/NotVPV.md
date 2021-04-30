@@ -1,17 +1,11 @@
-# [NotVPV] Verordnung über das Notarverzeichnis und die besonderen elektronischen Notarpostfächer  (Notarverzeichnis- und -postfachverordnung - NotVPV)
-
-Ausfertigungsdatum: 04.03.2019
-
+% Verordnung über das Notarverzeichnis und die besonderen elektronischen Notarpostfächer  (Notarverzeichnis- und -postfachverordnung - NotVPV)
+% Ausfertigungsdatum: 04.03.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n Absatz 5 der Bundesnotarordnung, die durch Artikel 1 Nummer 15 des Gesetzes vom 1. Juni 2017 (BGBl. I S. 1396) eingefügt worden sind, verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -21,8 +15,9 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
  
 
+ 
 
-## § 1 – Eintragung von Amtspersonen
+# § 1 – Eintragung von Amtspersonen
 
 (1) In das Notarverzeichnis sind Personen einzutragen, die bestellt sind zum
 
@@ -44,8 +39,7 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 (3) Die von den Absätzen 1 und 2 erfassten Personen sind nur einmal als Amtspersonen einzutragen.
 
-
-## § 2 – Angaben zu den Amtspersonen
+# § 2 – Angaben zu den Amtspersonen
 
 (1) Zu jeder Amtsperson sind alle amtlichen Tätigkeiten einzutragen, die diese ausübt oder ausgeübt hat.
 
@@ -59,8 +53,7 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 (+++ § 2 Abs. 2 bis 4: Zur Geltung vgl. § 5 Satz 2 +++)
 
-
-## § 3 – Angaben zu den amtlichen Tätigkeiten
+# § 3 – Angaben zu den amtlichen Tätigkeiten
 
 (1) Zu jeder amtlichen Tätigkeit einer Amtsperson sind folgende Angaben einzutragen:
 
@@ -90,18 +83,15 @@ Auf Grund des § 78m Absatz 1 Satz 1 in Verbindung mit Absatz 2 und des § 78n A
 
 (+++ § 3 Abs. 1 Nr. 2 u. 3: Zur Geltung vgl. § 5 Satz 2 +++)
 
-
-## § 4 – Frühere Amtspersonen
+# § 4 – Frühere Amtspersonen
 
 Zu früheren Amtspersonen, die nach § 1 Absatz 2 eingetragen sind, werden nur die Angaben nach § 78l Absatz 3 Satz 1 Nummer 2, 3 und 5 der Bundesnotarordnung sowie die Angaben nach § 2 Absatz 1 bis 4 und § 3 Absatz 1 Nummer 1 bis 3 und Absatz 4 dieser Verordnung eingetragen.
 
-
-## § 5 – Notarvertreter
+# § 5 – Notarvertreter
 
 Die Bestellung eines Notarvertreters ist bei derjenigen amtlichen Tätigkeit einzutragen, auf die sich die Bestellung bezieht. § 2 Absatz 2 bis 4 und § 3 Absatz 1 Nummer 2 und 3 gelten entsprechend.
 
-
-## § 6 – Eintragungen
+# § 6 – Eintragungen
 
 (1) Die Notarkammern nehmen die ihnen obliegenden Eintragungen in das Notarverzeichnis unverzüglich vor, nachdem sie von den einzutragenden Inhalten Kenntnis erhalten haben. Die Bundesnotarkammer stellt ihnen hierfür eine Webanwendung zur Verfügung.
 
@@ -115,20 +105,17 @@ Die Bestellung eines Notarvertreters ist bei derjenigen amtlichen Tätigkeit ein
 
 (+++ § 6 Abs. 1 Satz 2 u. Abs. 2 bis 4: Zur Geltung vgl. § 7 Satz 2 +++)
 
-
-## § 7 – Berichtigungen
+# § 7 – Berichtigungen
 
 Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvollständig sind, hat sie diese unverzüglich zu berichtigen oder zu vervollständigen. Für Berichtigungen oder Vervollständigungen der Notarkammern und Aufsichtsbehörden gilt § 6 Absatz 1 Satz 2 und Absatz 2 bis 4 entsprechend. Hat die eintragende Stelle Zweifel an der Richtigkeit oder Vollständigkeit der Eintragungen, hat sie hierzu Auskünfte einzuholen.
 
-
-## § 8 – Löschungen
+# § 8 – Löschungen
 
 (1) Wird ein besonderes elektronisches Notarpostfach gelöscht (§ 20), so löscht die Bundesnotarkammer dessen Bezeichnung unverzüglich aus dem Notarverzeichnis.
 
 (2) Wird das Ende einer amtlichen Tätigkeit in das Notarverzeichnis eingetragen, löscht die Bundesnotarkammer unverzüglich die zu dieser Tätigkeit gehörenden Angaben nach § 3 Absatz 1 Nummer 4 und 5 und Absatz 2. Endet mit dem Ende der amtlichen Tätigkeit die Bestellung als Amtsperson, löscht die Bundesnotarkammer unverzüglich auch die Angaben nach § 2 Absatz 5.
 
-
-## § 9 – Einsichtnahme
+# § 9 – Einsichtnahme
 
 (1) Die Einsichtnahme in das Notarverzeichnis ist ausschließlich über das Internet möglich. Sie muss kostenfrei und ohne vorherige Registrierung möglich sein.
 
@@ -138,8 +125,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (4) Die Angaben zu einem Notarvertreter sind nur einsehbar, wenn und solange dieser für eine Amtsperson bestellt ist, die rechtlich an der Wahrnehmung ihres Amtes gehindert ist.
 
-
-## § 10 – Suchfunktion
+# § 10 – Suchfunktion
 
 (1) Die Bundesnotarkammer hat die Einsichtnahme in das Notarverzeichnis über Funktionen zur Suche der in § 1 Absatz 1 Nummer 1 bis 3 genannten Amtspersonen (Notarsuche) und zur Suche von Urkunden (Urkundensuche) zu gewährleisten. Die Notarsuche soll es ermöglichen, die in § 1 Absatz 1 Nummer 1 bis 3 genannten Amtspersonen anhand der in Absatz 2 genannten Angaben zu ermitteln. Die Urkundensuche soll es ermöglichen, den Verwahrort einer Urkunde, deren Verwahrung den in § 1 Absatz 1 genannten Amtspersonen oder einer anderen zuständigen Stelle obliegt, anhand der in Absatz 2 genannten Angaben zu den Amtspersonen, die die Beurkundung vorgenommen haben, zu ermitteln.
 
@@ -157,8 +143,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (4) Die Nutzung der Suchfunktion kann von der Eingabe eines auf der Internetseite angegebenen Sicherheitscodes abhängig gemacht werden.
 
-
-## § 11 – Einsehbarkeit und Datensicherheit
+# § 11 – Einsehbarkeit und Datensicherheit
 
 (1) Die Bundesnotarkammer hat durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Maßnahmen
 
@@ -170,8 +155,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Stellt die Bundesnotarkammer Notarkammern oder Amtspersonen für von diesen vorzunehmende Eintragungen oder Mitteilungen Webanwendungen zur Verfügung, so hat sie dafür Sorge zu tragen, dass auf diese nur durch ein sicheres Verfahren mit mindestens zwei voneinander unabhängigen Sicherungsmitteln zugegriffen werden kann.
 
-
-## § 12 – Besonderes elektronisches Notarpostfach
+# § 12 – Besonderes elektronisches Notarpostfach
 
 (1) Das besondere elektronische Notarpostfach dient der elektronischen Kommunikation der Postfachinhaber mit den Gerichten auf einem sicheren Übermittlungsweg. Zudem dient es der Kommunikation der Postfachinhaber untereinander.
 
@@ -179,8 +163,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Die Bundesnotarkammer hat den Inhabern eines besonderen elektronischen Notarpostfachs die elektronische Suche nach allen Stellen und Personen zu ermöglichen, die über das Postfach erreichbar sind. Die Bundesnotarkammer hat zudem die Daten, die eine Suche im Sinne des Satzes 1 ermöglichen, auch den Gerichten zugänglich zu machen. Sie kann diese Daten auch anderen Personen und Stellen zugänglich machen, mit denen sie nach Absatz 2 eine Kommunikation ermöglicht.
 
-
-## § 13 – Führung der Postfächer
+# § 13 – Führung der Postfächer
 
 (1) Die Bundesnotarkammer hat die besonderen elektronischen Notarpostfächer auf der Grundlage des Protokollstandards „Online Services Computer Interface – OSCI“ oder eines künftig an dessen Stelle tretenden Standards zu betreiben. Die Bundesnotarkammer hat fortlaufend zu gewährleisten, dass die Postfachinhaber über das Postfach sicher elektronisch kommunizieren können.
 
@@ -188,8 +171,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Die Bundesnotarkammer hat zu gewährleisten, dass der Empfänger eines elektronischen Dokuments, das aus dem besonderen elektronischen Notarpostfach ohne qualifizierte elektronische Signatur auf einem sicheren Übermittlungsweg versandt wurde, feststellen kann, ob die Nachricht von dem Postfachinhaber selbst versandt wurde.
 
-
-## § 14 – Einrichtung und Aktivierung eines Postfachs
+# § 14 – Einrichtung und Aktivierung eines Postfachs
 
 (1) Die Bundesnotarkammer richtet für jede ausgeübte amtliche Tätigkeit eines Notars oder Notariatsverwalters ein besonderes elektronisches Notarpostfach ein. Sie gewährleistet, dass das Postfach unverzüglich nach Eintragung der amtlichen Tätigkeit in das Notarverzeichnis zur Aktivierung bereitsteht und nicht vor dem Beginn der amtlichen Tätigkeit aktiviert werden kann.
 
@@ -197,8 +179,7 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Die Bundesnotarkammer hat zu gewährleisten, dass die Aktivierung des besonderen elektronischen Notarpostfachs nur möglich ist, wenn der Inhaber des zur Aktivierung verwendeten Zertifikats mit demjenigen, für den das Postfach eingerichtet ist, identisch ist.
 
-
-## § 15 – Weitere Zugangsberechtigungen zum Postfach
+# § 15 – Weitere Zugangsberechtigungen zum Postfach
 
 (1) Der Postfachinhaber kann anderen Personen unterschiedlich weit reichende Zugangsberechtigungen zu seinem besonderen elektronischen Notarpostfach erteilen. Er kann diesen Personen auch die Befugnis einräumen, weitere Zugangsberechtigungen zu seinem Postfach zu erteilen.
 
@@ -206,20 +187,17 @@ Stellt die eintragende Stelle fest, dass ihre Eintragungen unrichtig oder unvoll
 
 (3) Zugangsberechtigungen und Befugnisse nach den Absätzen 1 und 2 können von dem Postfachinhaber oder den von ihm dazu ermächtigten Personen jederzeit geändert oder widerrufen werden.
 
-
-## § 16 – Zugang zum Postfach
+# § 16 – Zugang zum Postfach
 
 (1) Die Anmeldung am besonderen elektronischen Notarpostfach erfolgt mit mindestens zwei voneinander unabhängigen Sicherungsmitteln. Zugangsdaten, die einzelnen Personen allein zugewiesen sind, dürfen anderen Personen nicht bekanntgegeben werden. Bei einem Versand nicht-qualifiziert elektronisch signierter Dokumente auf einem sicheren Übermittlungsweg muss der Postfachinhaber mittels eines Authentisierungszertifikats im Sinne des § 14 Absatz 2 an seinem Postfach angemeldet sein.
 
 (2) Hat die angemeldete Person die Nutzung des besonderen elektronischen Notarpostfachs beendet, hat sie sich abzumelden. Die Bundesnotarkammer hat für den Fall, dass das Postfach nach erfolgter Anmeldung für eine bestimmte Zeitdauer nicht genutzt wird, eine automatische Abmeldung der Person durch das System vorzusehen. Bei der Bemessung der Zeitdauer sind die Belange des Datenschutzes gegen den Aufwand für die erneute Anmeldung abzuwägen.
 
-
-## § 17 – Automatisches Löschen von Nachrichten
+# § 17 – Automatisches Löschen von Nachrichten
 
 Nachrichten dürfen frühestens 120 Tage nach ihrem Eingang automatisch gelöscht werden.
 
-
-## § 18 – Sperrung des Postfachs
+# § 18 – Sperrung des Postfachs
 
 (1) Wird das Ende einer amtlichen Tätigkeit in das Notarverzeichnis eingetragen, sperrt die Bundesnotarkammer unverzüglich das zugehörige besondere elektronische Notarpostfach. Die Sperrung wird erst mit dem Beginn des Tages wirksam, der auf das Ende der amtlichen Tätigkeit folgt.
 
@@ -231,24 +209,20 @@ Nachrichten dürfen frühestens 120 Tage nach ihrem Eingang automatisch gelösch
 
 (5) Die Sperrung eines Postfachs ist unverzüglich aufzuheben, wenn der Grund für die Sperrung nicht bestanden hat oder entfallen ist.
 
-
-## § 19 – Vorläufige Amtsenthebung
+# § 19 – Vorläufige Amtsenthebung
 
 (1) Wird die vorläufige Amtsenthebung einer Amtsperson in das Notarverzeichnis eingetragen, hebt die Bundesnotarkammer unverzüglich die Zugangsberechtigung der Amtsperson zu ihrem besonderen elektronischen Notarpostfach auf. § 18 Absatz 5 gilt sinngemäß.
 
 (2) Weitere Zugangsberechtigungen und Befugnisse im Sinne des § 15 Absatz 1 und 2 bleiben von der Aufhebung der Zugangsberechtigung nach Absatz 1 unberührt. § 15 Absatz 3 gilt im Fall des Absatzes 1 für den Postfachinhaber nicht mehr. Dieser kann jedoch verlangen, dass die Bundesnotarkammer sein besonderes elektronisches Notarpostfach unverzüglich sperrt.
 
-
-## § 20 – Löschung des Postfachs
+# § 20 – Löschung des Postfachs
 
 Gesperrte besondere elektronische Notarpostfächer werden einschließlich der darin gespeicherten Nachrichten sechs Monate nach dem Ende der amtlichen Tätigkeit gelöscht.
 
-
-## § 21 – Inkrafttreten
+# § 21 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

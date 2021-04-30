@@ -1,22 +1,17 @@
-# [KWMV] Verordnung über Meldepflichten für bestimmte Kriegswaffen  (Kriegswaffenmeldeverordnung - KWMV)
-
-Ausfertigungsdatum: 24.01.1995
-
+% Verordnung über Meldepflichten für bestimmte Kriegswaffen  (Kriegswaffenmeldeverordnung - KWMV)
+% Ausfertigungsdatum: 24.01.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12a Abs. 1 Satz 1 des Gesetzes über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), der durch Artikel 2 des Gesetzes vom 9. August 1994 (BGBl. I S. 2068) eingefügt worden ist, verordnet die Bundesregierung, und auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet das Bundesministerium für Wirtschaft:
 
-
-## § 1 – Allgemeine Meldepflichten
+# § 1 – Allgemeine Meldepflichten
 
 (1) Unternehmen, die nach § 2 dieser Rechtsverordnung meldepflichtige Kriegswaffen gemäß § 3 Abs. 3 in Verbindung mit Abs. 1 oder 2 des Gesetzes über die Kontrolle von Kriegswaffen in das Bundesgebiet einführen oder aus dem Bundesgebiet ausführen, haben dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) schriftlich Anzahl, Kriegswaffennummer, Typenbezeichnung, Datum der Ein- oder Ausfuhr sowie bei der Einfuhr den Verwendungszweck und bei der Ausfuhr den Verwendungszweck und das Bestimmungsland zu melden.
 
 (2) Die Meldungen sind spätestens bis zum Ablauf der sechsten Woche eines Kalenderjahres für das vorangegangene Kalenderjahr, erstmals für das Jahr 1994, zu erstatten.
 
-
-## § 2 – Meldepflichtige Kriegswaffen
+# § 2 – Meldepflichtige Kriegswaffen
 
 (1) Kriegswaffen der folgenden Kategorien unterliegen der Meldepflicht:
 
@@ -36,8 +31,7 @@ Auf Grund des § 12a Abs. 1 Satz 1 des Gesetzes über die Kontrolle von Kriegswa
 
 (2) Der Meldepflicht unterliegen auch nicht zusammengebaute oder zerlegte Kriegswaffen nach Absatz 1. Werden Kriegswaffenteile nach und nach ein- oder ausgeführt, unterliegt die Gesamtwaffe der Meldepflicht, wenn das letzte Teil ein- oder ausgeführt wird.
 
-
-## § 3 – Meldepflichten nach § 7 des Ausführungsgesetzes zum Übereinkommen über das Verbot des Einsatzes, der Lagerung, der Herstellung und der Weitergabe von Antipersonenminen und über deren Vernichtung vom 3. Dezember 1997
+# § 3 – Meldepflichten nach § 7 des Ausführungsgesetzes zum Übereinkommen über das Verbot des Einsatzes, der Lagerung, der Herstellung und der Weitergabe von Antipersonenminen und über deren Vernichtung vom 3. Dezember 1997
 
 (1) Unternehmen oder Privatpersonen, die Antipersonenminen im Sinne von Absatz 2 in ihrem Eigentum oder Besitz haben oder in sonstiger Weise die tatsächliche Gewalt über sie ausüben, haben dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) Meldungen abzugeben über
 
@@ -57,22 +51,18 @@ Auf Grund des § 12a Abs. 1 Satz 1 des Gesetzes über die Kontrolle von Kriegswa
 
 (4) § 2 Abs. 2 Satz 1 dieser Verordnung gilt entsprechend.
 
-
-## § 4 – Ordnungswidrigkeiten
+# § 4 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 22b Abs. 1 Nr. 3a des Gesetzes über die Kontrolle von Kriegswaffen handelt, wer vorsätzlich oder fahrlässig entgegen § 1 eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
-
-## § 5 – Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
+# § 5 – Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 4 wird auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [BKOrgErl 1994] Organisationserlaß des Bundeskanzlers
-
-Ausfertigungsdatum: 17.11.1994
-
+% Organisationserlaß des Bundeskanzlers
+% Ausfertigungsdatum: 17.11.1994
  
-
-## ----
+# ----
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom 17. November 1994 bekannt, der mit Wirkung vom 17. November 1994 in Kraft tritt:  
 "Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit Wirkung vom 17. November 1994 an:

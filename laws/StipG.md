@@ -1,15 +1,11 @@
-# [StipG] Gesetz zur Schaffung eines nationalen Stipendienprogramms  (Stipendienprogramm-Gesetz - StipG)
-
-Ausfertigungsdatum: 21.07.2010
-
+% Gesetz zur Schaffung eines nationalen Stipendienprogramms  (Stipendienprogramm-Gesetz - StipG)
+% Ausfertigungsdatum: 21.07.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Fördergrundsatz
+# § 1 – Fördergrundsatz
 
 (1) An staatlichen oder staatlich anerkannten Hochschulen in Deutschland, mit Ausnahme der Hochschulen in Trägerschaft des Bundes, werden zur Förderung begabter Studierender, die hervorragende Leistungen in Studium oder Beruf erwarten lassen oder bereits erbracht haben, nach Maßgabe dieses Gesetzes Stipendien vergeben.
 
@@ -17,8 +13,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Die Befugnis der Länder, begabte Studierende auf Grund von Landesrecht zu fördern, sowie besondere Förderungsmaßnahmen für bestimmte Fachgebiete oder Personengruppen bleiben unberührt. Die von der Bundesregierung finanzierte Förderung begabter Studierender durch die Begabtenförderungswerke, durch den Deutschen Akademischen Austauschdienst und durch die Stiftung Begabtenförderung berufliche Bildung bleibt unberührt.
 
-
-## § 2 – Bewerbung, Auswahl und regelmäßige Eignungs- und Leistungsprüfung
+# § 2 – Bewerbung, Auswahl und regelmäßige Eignungs- und Leistungsprüfung
 
 (1) Die Stipendien werden nach Durchführung eines Auswahlverfahrens durch die Hochschulen auf Antrag des Bewerbers vergeben, wenn die Hochschule ein entsprechendes Auswahlverfahren ausgeschrieben hat. Bewerben kann sich, wer
 
@@ -38,20 +33,17 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (4) Nach Landesrecht staatlich anerkannte Hochschulen werden mit den Aufgaben der Auswahl und Stipendienvergabe nach diesem Gesetz beliehen. Die Beliehene untersteht der Aufsicht der zuständigen obersten Landesbehörde. Die Beleihung endet mit dem Verlust der staatlichen Anerkennung.
 
-
-## § 3 – Auswahlkriterien
+# § 3 – Auswahlkriterien
 
 Die Stipendien werden nach Begabung und Leistung vergeben. Neben den bisher erbrachten Leistungen und dem bisherigen persönlichen Werdegang sollen auch gesellschaftliches Engagement, die Bereitschaft, Verantwortung zu übernehmen oder besondere soziale, familiäre oder persönliche Umstände berücksichtigt werden, die sich beispielsweise aus der familiären Herkunft oder einem Migrationshintergrund ergeben.
 
-
-## § 4 – Ausschluss von Doppelförderung
+# § 4 – Ausschluss von Doppelförderung
 
 (1) Ein Stipendium nach diesem Gesetz wird nicht vergeben, wenn der oder die Studierende eine begabungs- und leistungsabhängige materielle Förderung durch eine der in § 1 Absatz 3 genannten Maßnahmen oder Einrichtungen oder durch eine sonstige inländische oder ausländische Einrichtung erhält. Dies gilt nicht, wenn die Summe dieser Förderung je Semester, für das die Förderung bewilligt wurde, einen Monatsdurchschnitt von 30 Euro unterschreitet.
 
 (2) Um Doppelförderungen zu vermeiden, führt das Bundesministerium für Bildung und Forschung Stichproben durch. Zu diesem Zweck kann das Bundesministerium für Bildung und Forschung bei den Hochschulen Name, Vorname, Geburtsdatum, Adresse und Hochschulort der Personen erheben, die ein Stipendium nach diesem Gesetz erhalten; es kann diese Daten speichern und mit den Daten der in § 1 Absatz 3 Satz 2 genannten und sonstigen in- und ausländischen Einrichtungen abgleichen. Die Hochschulen sind zur Übermittlung der Daten verpflichtet. Die erhobenen Daten sind nach der Durchführung der Stichprobe zu vernichten.
 
-
-## § 5 – Umfang der Förderung
+# § 5 – Umfang der Förderung
 
 (1) Die Höhe des Stipendiums beträgt monatlich 300 Euro. Ein höheres Stipendium kann vergeben werden, wenn der nach § 11 Absatz 2 eingeworbene Anteil an privaten Mitteln höher als 150 Euro ist.
 
@@ -59,8 +51,7 @@ Die Stipendien werden nach Begabung und Leistung vergeben. Neben den bisher erbr
 
 (3) Das Stipendium bleibt vorbehaltlich des Satzes 2 bis zur Höhe von 300 Euro als Einkommen bei Sozialleistungen unberücksichtigt. § 14 des Wohngeldgesetzes und § 21 des Wohnraumförderungsgesetzes sowie entsprechende landesrechtliche Vorschriften bleiben unberührt.
 
-
-## § 6 – Bewilligung und Förderungsdauer
+# § 6 – Bewilligung und Förderungsdauer
 
 (1) Die Entscheidung über den Antrag erfolgt schriftlich oder elektronisch. Die Bewilligung eines Stipendiums umfasst die Entscheidung über den Bewilligungszeitraum, die Höhe des Stipendiums sowie die Förderungsdauer. Der Bewilligungszeitraum soll mindestens zwei Semester betragen. Die Förderungshöchstdauer richtet sich nach der Regelstudienzeit im jeweiligen Studiengang.
 
@@ -70,15 +61,13 @@ Die Stipendien werden nach Begabung und Leistung vergeben. Neben den bisher erbr
 
 (4) Das Stipendium wird auch während der vorlesungsfreien Zeit und, abweichend von Absatz 3, während eines fachrichtungsbezogenen Auslandsaufenthalts gezahlt.
 
-
-## § 7 – Verlängerung der Förderungshöchstdauer; Beurlaubung
+# § 7 – Verlängerung der Förderungshöchstdauer; Beurlaubung
 
 (1) Verlängert sich die Studiendauer aus schwerwiegenden Gründen, wie zum Beispiel einer Behinderung, einer Schwangerschaft, der Pflege und Erziehung eines Kindes oder eines fachrichtungsbezogenen Auslandsaufenthalts, so kann die Förderungshöchstdauer auf Antrag verlängert werden.
 
 (2) Während der Zeit einer Beurlaubung vom Studium wird das Stipendium nicht gezahlt. Bei Wiederaufnahme des Studiums im Anschluss an die Beurlaubung wird der Bewilligungszeitraum des Stipendiums auf Anzeige des Stipendiaten oder der Stipendiatin angepasst.
 
-
-## § 8 – Beendigung
+# § 8 – Beendigung
 
 Das Stipendium endet mit Ablauf des Monats, in dem der Stipendiat oder die Stipendiatin
 
@@ -92,13 +81,11 @@ Das Stipendium endet mit Ablauf des Monats, in dem der Stipendiat oder die Stipe
 
 Wechselt der Stipendiat oder die Stipendiatin während des Bewilligungszeitraums die Hochschule, endet das Stipendium mit Ablauf des Semesters, für welches das Stipendium nach § 6 Absatz 3 oder 4 fortgezahlt wird.
 
-
-## § 9 – Widerruf
+# § 9 – Widerruf
 
 Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger Frist zum Ende eines Kalendermonats widerrufen werden, wenn der Stipendiat oder die Stipendiatin der Pflicht nach § 10 Absatz 2 und 3 nicht nachgekommen ist oder entgegen § 4 Absatz 2 eine weitere Förderung erhält oder die Hochschule bei der Prüfung feststellt, dass die Eignungs- und Leistungsvoraussetzungen für das Stipendium nicht mehr fortbestehen. Ein rückwirkender Widerruf der Bewilligung ist insbesondere im Fall der Doppelförderung möglich.
 
-
-## § 10 – Mitwirkungspflichten
+# § 10 – Mitwirkungspflichten
 
 (1) Die Bewerberinnen und Bewerber haben die für das Auswahlverfahren notwendigen Mitwirkungspflichten zu erfüllen, insbesondere die zur Prüfung der Eignungs- und Leistungsvoraussetzungen erforderlichen Auskünfte zu erteilen und Nachweise zu erbringen.
 
@@ -106,8 +93,7 @@ Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger Frist zum End
 
 (3) Die Stipendiatinnen und Stipendiaten haben während des Förderzeitraums die von der Hochschule festzulegenden Eignungs- und Leistungsnachweise vorzulegen.
 
-
-## § 11 – Aufbringung der Mittel
+# § 11 – Aufbringung der Mittel
 
 (1) Die Stipendien werden aus von den Hochschulen eingeworbenen privaten Mitteln und aus öffentlichen Mitteln finanziert.
 
@@ -117,15 +103,13 @@ Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger Frist zum End
 
 (4) Ein Stipendium nach diesem Gesetz können höchstens 8 Prozent der Studierenden einer Hochschule erhalten. Die Erreichung dieser Höchstgrenze erfolgt schrittweise.
 
-
-## § 12 – Beirat
+# § 12 – Beirat
 
 (1) Das Bundesministerium für Bildung und Forschung richtet einen Beirat ein. Dieser berät das Bundesministerium durch Stellungnahmen bei der Anwendung dieses Gesetzes und Prüfung der Weiterentwicklung der gesetzlichen Regelung der Stipendien.
 
 (2) Das Bundesministerium für Bildung und Forschung beruft Vertreter der an der Ausführung des Gesetzes beteiligten Landesbehörden, des deutschen Studentenwerkes e. V., der Hochschulen, der Studierenden, der privaten Mittelgeber und der Wissenschaft, der Arbeitgeber sowie der Arbeitnehmer für jeweils vier Jahre in den Beirat.
 
-
-## § 13 – Statistik
+# § 13 – Statistik
 
 (1) Über die Förderung nach diesem Gesetz wird eine Bundesstatistik geführt.
 
@@ -139,8 +123,7 @@ Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger Frist zum End
 
 (4) Für die Durchführung der Statistik besteht Auskunftspflicht. Auskunftspflichtig sind die Hochschulen.
 
-
-## § 14 – Verordnungsermächtigung
+# § 14 – Verordnungsermächtigung
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrats Vorschriften zu erlassen über
 
@@ -166,12 +149,10 @@ Die Bewilligung des Stipendiums soll mit mindestens sechswöchiger Frist zum End
 
 (2) Das Bundesministerium für Bildung und Forschung wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen ohne Zustimmung des Bundesrates die Einzelheiten zur Erreichung der Höchstgrenze nach § 11 Absatz 4 in einer Rechtsverordnung festzulegen.
 
-
-## § 15 – Evaluation
+# § 15 – Evaluation
 
 Auf der Grundlage der Statistik nach § 13 prüft die Bundesregierung nach Ablauf von vier Jahren, ob an allen Hochschulstandorten ausreichend private Mittel eingeworben werden können oder ob Ausgleichsmaßnahmen zu ergreifen sind. Über das Ergebnis ist dem Deutschen Bundestag und dem Bundesrat zu berichten.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. August 2010 in Kraft.

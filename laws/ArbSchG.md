@@ -1,10 +1,7 @@
-# [ArbSchG] Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Arbeit  (Arbeitsschutzgesetz - ArbSchG)
-
-Ausfertigungsdatum: 07.08.1996
-
+% Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesserung der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Arbeit  (Arbeitsschutzgesetz - ArbSchG)
+% Ausfertigungsdatum: 07.08.1996
  
-
-## § 1 – Zielsetzung und Anwendungsbereich
+# § 1 – Zielsetzung und Anwendungsbereich
 
 (1) Dieses Gesetz dient dazu, Sicherheit und Gesundheitsschutz der Beschäftigten bei der Arbeit durch Maßnahmen des Arbeitsschutzes zu sichern und zu verbessern. Es gilt in allen Tätigkeitsbereichen und findet im Rahmen der Vorgaben des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 (BGBl. 1994 II S. 1799) auch in der ausschließlichen Wirtschaftszone Anwendung.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 07.08.1996
 
 (4) Bei öffentlich-rechtlichen Religionsgemeinschaften treten an die Stelle der Betriebs- oder Personalräte die Mitarbeitervertretungen entsprechend dem kirchlichen Recht.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Maßnahmen des Arbeitsschutzes im Sinne dieses Gesetzes sind Maßnahmen zur Verhütung von Unfällen bei der Arbeit und arbeitsbedingten Gesundheitsgefahren einschließlich Maßnahmen der menschengerechten Gestaltung der Arbeit.
 
@@ -41,8 +37,7 @@ Ausfertigungsdatum: 07.08.1996
 
 (5) Als Betriebe im Sinne dieses Gesetzes gelten für den Bereich des öffentlichen Dienstes die Dienststellen. Dienststellen sind die einzelnen Behörden, Verwaltungsstellen und Betriebe der Verwaltungen des Bundes, der Länder, der Gemeinden und der sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die Gerichte des Bundes und der Länder sowie die entsprechenden Einrichtungen der Streitkräfte.
 
-
-## § 3 – Grundpflichten des Arbeitgebers
+# § 3 – Grundpflichten des Arbeitgebers
 
 (1) Der Arbeitgeber ist verpflichtet, die erforderlichen Maßnahmen des Arbeitsschutzes unter Berücksichtigung der Umstände zu treffen, die Sicherheit und Gesundheit der Beschäftigten bei der Arbeit beeinflussen. Er hat die Maßnahmen auf ihre Wirksamkeit zu überprüfen und erforderlichenfalls sich ändernden Gegebenheiten anzupassen. Dabei hat er eine Verbesserung von Sicherheit und Gesundheitsschutz der Beschäftigten anzustreben.
 
@@ -54,8 +49,7 @@ Ausfertigungsdatum: 07.08.1996
 
 (3) Kosten für Maßnahmen nach diesem Gesetz darf der Arbeitgeber nicht den Beschäftigten auferlegen.
 
-
-## § 4 – Allgemeine Grundsätze
+# § 4 – Allgemeine Grundsätze
 
 Der Arbeitgeber hat bei Maßnahmen des Arbeitsschutzes von folgenden allgemeinen Grundsätzen auszugehen:
 
@@ -75,8 +69,7 @@ Der Arbeitgeber hat bei Maßnahmen des Arbeitsschutzes von folgenden allgemeinen
 
 8. mittelbar oder unmittelbar geschlechtsspezifisch wirkende Regelungen sind nur zulässig, wenn dies aus biologischen Gründen zwingend geboten ist.
 
-
-## § 5 – Beurteilung der Arbeitsbedingungen
+# § 5 – Beurteilung der Arbeitsbedingungen
 
 (1) Der Arbeitgeber hat durch eine Beurteilung der für die Beschäftigten mit ihrer Arbeit verbundenen Gefährdung zu ermitteln, welche Maßnahmen des Arbeitsschutzes erforderlich sind.
 
@@ -96,27 +89,23 @@ Der Arbeitgeber hat bei Maßnahmen des Arbeitsschutzes von folgenden allgemeinen
 
 6. psychische Belastungen bei der Arbeit.
 
-
-## § 6 – Dokumentation
+# § 6 – Dokumentation
 
 (1) Der Arbeitgeber muß über die je nach Art der Tätigkeiten und der Zahl der Beschäftigten erforderlichen Unterlagen verfügen, aus denen das Ergebnis der Gefährdungsbeurteilung, die von ihm festgelegten Maßnahmen des Arbeitsschutzes und das Ergebnis ihrer Überprüfung ersichtlich sind. Bei gleichartiger Gefährdungssituation ist es ausreichend, wenn die Unterlagen zusammengefaßte Angaben enthalten.
 
 (2) Unfälle in seinem Betrieb, bei denen ein Beschäftigter getötet oder so verletzt wird, daß er stirbt oder für mehr als drei Tage völlig oder teilweise arbeits- oder dienstunfähig wird, hat der Arbeitgeber zu erfassen.
 
-
-## § 7 – Übertragung von Aufgaben
+# § 7 – Übertragung von Aufgaben
 
 Bei der Übertragung von Aufgaben auf Beschäftigte hat der Arbeitgeber je nach Art der Tätigkeiten zu berücksichtigen, ob die Beschäftigten befähigt sind, die für die Sicherheit und den Gesundheitsschutz bei der Aufgabenerfüllung zu beachtenden Bestimmungen und Maßnahmen einzuhalten.
 
-
-## § 8 – Zusammenarbeit mehrerer Arbeitgeber
+# § 8 – Zusammenarbeit mehrerer Arbeitgeber
 
 (1) Werden Beschäftigte mehrerer Arbeitgeber an einem Arbeitsplatz tätig, sind die Arbeitgeber verpflichtet, bei der Durchführung der Sicherheits- und Gesundheitsschutzbestimmungen zusammenzuarbeiten. Soweit dies für die Sicherheit und den Gesundheitsschutz der Beschäftigten bei der Arbeit erforderlich ist, haben die Arbeitgeber je nach Art der Tätigkeiten insbesondere sich gegenseitig und ihre Beschäftigten über die mit den Arbeiten verbundenen Gefahren für Sicherheit und Gesundheit der Beschäftigten zu unterrichten und Maßnahmen zur Verhütung dieser Gefahren abzustimmen.
 
 (2) Der Arbeitgeber muß sich je nach Art der Tätigkeit vergewissern, daß die Beschäftigten anderer Arbeitgeber, die in seinem Betrieb tätig werden, hinsichtlich der Gefahren für ihre Sicherheit und Gesundheit während ihrer Tätigkeit in seinem Betrieb angemessene Anweisungen erhalten haben.
 
-
-## § 9 – Besondere Gefahren
+# § 9 – Besondere Gefahren
 
 (1) Der Arbeitgeber hat Maßnahmen zu treffen, damit nur Beschäftigte Zugang zu besonders gefährlichen Arbeitsbereichen haben, die zuvor geeignete Anweisungen erhalten haben.
 
@@ -124,27 +113,23 @@ Bei der Übertragung von Aufgaben auf Beschäftigte hat der Arbeitgeber je nach 
 
 (3) Der Arbeitgeber hat Maßnahmen zu treffen, die es den Beschäftigten bei unmittelbarer erheblicher Gefahr ermöglichen, sich durch sofortiges Verlassen der Arbeitsplätze in Sicherheit zu bringen. Den Beschäftigten dürfen hierdurch keine Nachteile entstehen. Hält die unmittelbare erhebliche Gefahr an, darf der Arbeitgeber die Beschäftigten nur in besonders begründeten Ausnahmefällen auffordern, ihre Tätigkeit wieder aufzunehmen. Gesetzliche Pflichten der Beschäftigten zur Abwehr von Gefahren für die öffentliche Sicherheit sowie die §§ 7 und 11 des Soldatengesetzes bleiben unberührt.
 
-
-## § 10 – Erste Hilfe und sonstige Notfallmaßnahmen
+# § 10 – Erste Hilfe und sonstige Notfallmaßnahmen
 
 (1) Der Arbeitgeber hat entsprechend der Art der Arbeitsstätte und der Tätigkeiten sowie der Zahl der Beschäftigten die Maßnahmen zu treffen, die zur Ersten Hilfe, Brandbekämpfung und Evakuierung der Beschäftigten erforderlich sind. Dabei hat er der Anwesenheit anderer Personen Rechnung zu tragen. Er hat auch dafür zu sorgen, daß im Notfall die erforderlichen Verbindungen zu außerbetrieblichen Stellen, insbesondere in den Bereichen der Ersten Hilfe, der medizinischen Notversorgung, der Bergung und der Brandbekämpfung eingerichtet sind.
 
 (2) Der Arbeitgeber hat diejenigen Beschäftigten zu benennen, die Aufgaben der Ersten Hilfe, Brandbekämpfung und Evakuierung der Beschäftigten übernehmen. Anzahl, Ausbildung und Ausrüstung der nach Satz 1 benannten Beschäftigten müssen in einem angemessenen Verhältnis zur Zahl der Beschäftigten und zu den bestehenden besonderen Gefahren stehen. Vor der Benennung hat der Arbeitgeber den Betriebs- oder Personalrat zu hören. Weitergehende Beteiligungsrechte bleiben unberührt. Der Arbeitgeber kann die in Satz 1 genannten Aufgaben auch selbst wahrnehmen, wenn er über die nach Satz 2 erforderliche Ausbildung und Ausrüstung verfügt.
 
-
-## § 11 – Arbeitsmedizinische Vorsorge
+# § 11 – Arbeitsmedizinische Vorsorge
 
 Der Arbeitgeber hat den Beschäftigten auf ihren Wunsch unbeschadet der Pflichten aus anderen Rechtsvorschriften zu ermöglichen, sich je nach den Gefahren für ihre Sicherheit und Gesundheit bei der Arbeit regelmäßig arbeitsmedizinisch untersuchen zu lassen, es sei denn, auf Grund der Beurteilung der Arbeitsbedingungen und der getroffenen Schutzmaßnahmen ist nicht mit einem Gesundheitsschaden zu rechnen.
 
-
-## § 12 – Unterweisung
+# § 12 – Unterweisung
 
 (1) Der Arbeitgeber hat die Beschäftigten über Sicherheit und Gesundheitsschutz bei der Arbeit während ihrer Arbeitszeit ausreichend und angemessen zu unterweisen. Die Unterweisung umfaßt Anweisungen und Erläuterungen, die eigens auf den Arbeitsplatz oder den Aufgabenbereich der Beschäftigten ausgerichtet sind. Die Unterweisung muß bei der Einstellung, bei Veränderungen im Aufgabenbereich, der Einführung neuer Arbeitsmittel oder einer neuen Technologie vor Aufnahme der Tätigkeit der Beschäftigten erfolgen. Die Unterweisung muß an die Gefährdungsentwicklung angepaßt sein und erforderlichenfalls regelmäßig wiederholt werden.
 
 (2) Bei einer Arbeitnehmerüberlassung trifft die Pflicht zur Unterweisung nach Absatz 1 den Entleiher. Er hat die Unterweisung unter Berücksichtigung der Qualifikation und der Erfahrung der Personen, die ihm zur Arbeitsleistung überlassen werden, vorzunehmen. Die sonstigen Arbeitsschutzpflichten des Verleihers bleiben unberührt.
 
-
-## § 13 – Verantwortliche Personen
+# § 13 – Verantwortliche Personen
 
 (1) Verantwortlich für die Erfüllung der sich aus diesem Abschnitt ergebenden Pflichten sind neben dem Arbeitgeber
 
@@ -160,36 +145,31 @@ Der Arbeitgeber hat den Beschäftigten auf ihren Wunsch unbeschadet der Pflichte
 
 (2) Der Arbeitgeber kann zuverlässige und fachkundige Personen schriftlich damit beauftragen, ihm obliegende Aufgaben nach diesem Gesetz in eigener Verantwortung wahrzunehmen.
 
-
-## § 14 – Unterrichtung und Anhörung der Beschäftigten des öffentlichen Dienstes
+# § 14 – Unterrichtung und Anhörung der Beschäftigten des öffentlichen Dienstes
 
 (1) Die Beschäftigten des öffentlichen Dienstes sind vor Beginn der Beschäftigung und bei Veränderungen in ihren Arbeitsbereichen über Gefahren für Sicherheit und Gesundheit, denen sie bei der Arbeit ausgesetzt sein können, sowie über die Maßnahmen und Einrichtungen zur Verhütung dieser Gefahren und die nach § 10 Abs. 2 getroffenen Maßnahmen zu unterrichten.
 
 (2) Soweit in Betrieben des öffentlichen Dienstes keine Vertretung der Beschäftigten besteht, hat der Arbeitgeber die Beschäftigten zu allen Maßnahmen zu hören, die Auswirkungen auf Sicherheit und Gesundheit der Beschäftigten haben können.
 
-
-## § 15 – Pflichten der Beschäftigten
+# § 15 – Pflichten der Beschäftigten
 
 (1) Die Beschäftigten sind verpflichtet, nach ihren Möglichkeiten sowie gemäß der Unterweisung und Weisung des Arbeitgebers für ihre Sicherheit und Gesundheit bei der Arbeit Sorge zu tragen. Entsprechend Satz 1 haben die Beschäftigten auch für die Sicherheit und Gesundheit der Personen zu sorgen, die von ihren Handlungen oder Unterlassungen bei der Arbeit betroffen sind.
 
 (2) Im Rahmen des Absatzes 1 haben die Beschäftigten insbesondere Maschinen, Geräte, Werkzeuge, Arbeitsstoffe, Transportmittel und sonstige Arbeitsmittel sowie Schutzvorrichtungen und die ihnen zur Verfügung gestellte persönliche Schutzausrüstung bestimmungsgemäß zu verwenden.
 
-
-## § 16 – Besondere Unterstützungspflichten
+# § 16 – Besondere Unterstützungspflichten
 
 (1) Die Beschäftigten haben dem Arbeitgeber oder dem zuständigen Vorgesetzten jede von ihnen festgestellte unmittelbare erhebliche Gefahr für die Sicherheit und Gesundheit sowie jeden an den Schutzsystemen festgestellten Defekt unverzüglich zu melden.
 
 (2) Die Beschäftigten haben gemeinsam mit dem Betriebsarzt und der Fachkraft für Arbeitssicherheit den Arbeitgeber darin zu unterstützen, die Sicherheit und den Gesundheitsschutz der Beschäftigten bei der Arbeit zu gewährleisten und seine Pflichten entsprechend den behördlichen Auflagen zu erfüllen. Unbeschadet ihrer Pflicht nach Absatz 1 sollen die Beschäftigten von ihnen festgestellte Gefahren für Sicherheit und Gesundheit und Mängel an den Schutzsystemen auch der Fachkraft für Arbeitssicherheit, dem Betriebsarzt oder dem Sicherheitsbeauftragten nach § 22 des Siebten Buches Sozialgesetzbuch mitteilen.
 
-
-## § 17 – Rechte der Beschäftigten
+# § 17 – Rechte der Beschäftigten
 
 (1) Die Beschäftigten sind berechtigt, dem Arbeitgeber Vorschläge zu allen Fragen der Sicherheit und des Gesundheitsschutzes bei der Arbeit zu machen. Für Beamtinnen und Beamte des Bundes ist § 125 des Bundesbeamtengesetzes anzuwenden. Entsprechendes Landesrecht bleibt unberührt.
 
 (2) Sind Beschäftigte auf Grund konkreter Anhaltspunkte der Auffassung, daß die vom Arbeitgeber getroffenen Maßnahmen und bereitgestellten Mittel nicht ausreichen, um die Sicherheit und den Gesundheitsschutz bei der Arbeit zu gewährleisten, und hilft der Arbeitgeber darauf gerichteten Beschwerden von Beschäftigten nicht ab, können sich diese an die zuständige Behörde wenden. Hierdurch dürfen den Beschäftigten keine Nachteile entstehen. Die in Absatz 1 Satz 2 und 3 genannten Vorschriften sowie die Vorschriften der Wehrbeschwerdeordnung und des Gesetzes über den Wehrbeauftragten des Deutschen Bundestages bleiben unberührt.
 
-
-## § 18 – Verordnungsermächtigungen
+# § 18 – Verordnungsermächtigungen
 
 (1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, welche Maßnahmen der Arbeitgeber und die sonstigen verantwortlichen Personen zu treffen haben und wie sich die Beschäftigten zu verhalten haben, um ihre jeweiligen Pflichten, die sich aus diesem Gesetz ergeben, zu erfüllen. In diesen Rechtsverordnungen kann auch bestimmt werden, daß bestimmte Vorschriften des Gesetzes zum Schutz anderer als in § 2 Abs. 2 genannter Personen anzuwenden sind.
 
@@ -201,8 +181,7 @@ Der Arbeitgeber hat den Beschäftigten auf ihren Wunsch unbeschadet der Pflichte
 
 3. daß bestimmte, besonders gefährliche Betriebsanlagen einschließlich der Arbeits- und Fertigungsverfahren vor Inbetriebnahme, in regelmäßigen Abständen oder auf behördliche Anordnung fachkundig geprüft werden müssen,
 
-3a.  
-dass für bestimmte Beschäftigte angemessene Unterkünfte bereitzustellen sind, wenn dies aus Gründen der Sicherheit, zum Schutz der Gesundheit oder aus Gründen der menschengerechten Gestaltung der Arbeit erforderlich ist und welche Anforderungen dabei zu erfüllen sind,
+3a. dass für bestimmte Beschäftigte angemessene Unterkünfte bereitzustellen sind, wenn dies aus Gründen der Sicherheit, zum Schutz der Gesundheit oder aus Gründen der menschengerechten Gestaltung der Arbeit erforderlich ist und welche Anforderungen dabei zu erfüllen sind,
 
 4. daß Beschäftigte, bevor sie eine bestimmte gefährdende Tätigkeit aufnehmen oder fortsetzen oder nachdem sie sie beendet haben, arbeitsmedizinisch zu untersuchen sind und welche besonderen Pflichten der Arzt dabei zu beachten hat,
 
@@ -210,20 +189,17 @@ dass für bestimmte Beschäftigte angemessene Unterkünfte bereitzustellen sind,
 
 (3) In epidemischen Lagen von nationaler Tragweite nach § 5 Absatz 1 des Infektionsschutzgesetzes kann das Bundesministerium für Arbeit und Soziales ohne Zustimmung des Bundesrates spezielle Rechtsverordnungen nach Absatz 1 für einen befristeten Zeitraum erlassen.
 
-
-## § 19 – Rechtsakte der Europäischen Gemeinschaften und zwischenstaatliche Vereinbarungen
+# § 19 – Rechtsakte der Europäischen Gemeinschaften und zwischenstaatliche Vereinbarungen
 
 Rechtsverordnungen nach § 18 können auch erlassen werden, soweit dies zur Durchführung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften oder von Beschlüssen internationaler Organisationen oder von zwischenstaatlichen Vereinbarungen, die Sachbereiche dieses Gesetzes betreffen, erforderlich ist, insbesondere um Arbeitsschutzpflichten für andere als in § 2 Abs. 3 genannte Personen zu regeln.
 
-
-## § 20 – Regelungen für den öffentlichen Dienst
+# § 20 – Regelungen für den öffentlichen Dienst
 
 (1) Für die Beamten der Länder, Gemeinden und sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts regelt das Landesrecht, ob und inwieweit die nach § 18 erlassenen Rechtsverordnungen gelten.
 
 (2) Für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes, insbesondere bei der Bundeswehr, der Polizei, den Zivil- und Katastrophenschutzdiensten, dem Zoll oder den Nachrichtendiensten, können das Bundeskanzleramt, das Bundesministerium des Innern, für Bau und Heimat, das Bundesministerium für Verkehr und digitale Infrastruktur, das Bundesministerium der Verteidigung oder das Bundesministerium der Finanzen, soweit sie hierfür jeweils zuständig sind, durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, daß Vorschriften dieses Gesetzes ganz oder zum Teil nicht anzuwenden sind, soweit öffentliche Belange dies zwingend erfordern, insbesondere zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit. Rechtsverordnungen nach Satz 1 werden im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und, soweit nicht das Bundesministerium des Innern, für Bau und Heimat selbst ermächtigt ist, im Einvernehmen mit diesem Ministerium erlassen. In den Rechtsverordnungen ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz bei der Arbeit unter Berücksichtigung der Ziele dieses Gesetzes auf andere Weise gewährleistet werden. Für Tätigkeiten im öffentlichen Dienst der Länder, Gemeinden und sonstigen landesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts können den Sätzen 1 und 3 entsprechende Regelungen durch Landesrecht getroffen werden.
 
-
-## § 20a – Gemeinsame deutsche Arbeitsschutzstrategie
+# § 20a – Gemeinsame deutsche Arbeitsschutzstrategie
 
 (1) Nach den Bestimmungen dieses Abschnitts entwickeln Bund, Länder und Unfallversicherungsträger im Interesse eines wirksamen Arbeitsschutzes eine gemeinsame deutsche Arbeitsschutzstrategie und gewährleisten ihre Umsetzung und Fortschreibung. Mit der Wahrnehmung der ihnen gesetzlich zugewiesenen Aufgaben zur Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren sowie zur menschengerechten Gestaltung der Arbeit tragen Bund, Länder und Unfallversicherungsträger dazu bei, die Ziele der gemeinsamen deutschen Arbeitsschutzstrategie zu erreichen.
 
@@ -239,8 +215,7 @@ Rechtsverordnungen nach § 18 können auch erlassen werden, soweit dies zur Durc
 
 5. die Herstellung eines verständlichen, überschaubaren und abgestimmten Vorschriften- und Regelwerks.
 
-
-## § 20b – Nationale Arbeitsschutzkonferenz
+# § 20b – Nationale Arbeitsschutzkonferenz
 
 (1) Die Aufgabe der Entwicklung, Steuerung und Fortschreibung der gemeinsamen deutschen Arbeitsschutzstrategie nach § 20a Abs. 1 Satz 1 wird von der Nationalen Arbeitsschutzkonferenz wahrgenommen. Sie setzt sich aus jeweils drei stimmberechtigten Vertretern von Bund, Ländern und den Unfallversicherungsträgern zusammen und bestimmt für jede Gruppe drei Stellvertreter. Außerdem entsenden die Spitzenorganisationen der Arbeitgeber und Arbeitnehmer für die Behandlung von Angelegenheiten nach § 20a Abs. 2 Nr. 1 bis 3 und 5 jeweils bis zu drei Vertreter in die Nationale Arbeitsschutzkonferenz; sie nehmen mit beratender Stimme an den Sitzungen teil. Die Nationale Arbeitsschutzkonferenz gibt sich eine Geschäftsordnung; darin werden insbesondere die Arbeitsweise und das Beschlussverfahren festgelegt. Die Geschäftsordnung muss einstimmig angenommen werden.
 
@@ -252,8 +227,7 @@ Rechtsverordnungen nach § 18 können auch erlassen werden, soweit dies zur Durc
 
 (5) Die Geschäfte der Nationalen Arbeitsschutzkonferenz und des Arbeitsschutzforums führt die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin. Einzelheiten zu Arbeitsweise und Verfahren werden in der Geschäftsordnung der Nationalen Arbeitsschutzkonferenz festgelegt.
 
-
-## § 21 – Zuständige Behörden, Zusammenwirken mit den Trägern der gesetzlichen Unfallversicherung
+# § 21 – Zuständige Behörden, Zusammenwirken mit den Trägern der gesetzlichen Unfallversicherung
 
 (1) Die Überwachung des Arbeitsschutzes nach diesem Gesetz ist staatliche Aufgabe. Die zuständigen Behörden haben die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu überwachen und die Arbeitgeber bei der Erfüllung ihrer Pflichten zu beraten. Bei der Überwachung haben die zuständigen Behörden bei der Auswahl von Betrieben Art und Umfang des betrieblichen Gefährdungspotenzials zu berücksichtigen.
 
@@ -275,8 +249,7 @@ Die zuständigen Landesbehörden vereinbaren mit den Unfallversicherungsträgern
 
 (5) Soweit nachfolgend nichts anderes bestimmt ist, ist zuständige Behörde für die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen in den Betrieben und Verwaltungen des Bundes die Zentralstelle für Arbeitsschutz beim Bundesministerium des Innern, für Bau und Heimat. Im Auftrag der Zentralstelle handelt, soweit nichts anderes bestimmt ist, die Unfallversicherung Bund und Bahn, die insoweit der Aufsicht des Bundesministeriums des Innern, für Bau und Heimat unterliegt; Aufwendungen werden nicht erstattet. Im öffentlichen Dienst im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur führt die Unfallversicherung Bund und Bahn, soweit die Eisenbahn-Unfallkasse bis zum 31. Dezember 2014 Träger der Unfallversicherung war, dieses Gesetz durch. Für Betriebe und Verwaltungen in den Geschäftsbereichen des Bundesministeriums der Verteidigung und des Auswärtigen Amtes hinsichtlich seiner Auslandsvertretungen führt das jeweilige Bundesministerium, soweit es jeweils zuständig ist, oder die von ihm jeweils bestimmte Stelle dieses Gesetz durch. Im Geschäftsbereich des Bundesministeriums der Finanzen führt die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation dieses Gesetz durch, soweit der Geschäftsbereich des ehemaligen Bundesministeriums für Post und Telekommunikation betroffen ist. Die Sätze 1 bis 4 gelten auch für Betriebe und Verwaltungen, die zur Bundesverwaltung gehören, für die aber eine Berufsgenossenschaft Träger der Unfallversicherung ist. Die zuständigen Bundesministerien können mit den Berufsgenossenschaften für diese Betriebe und Verwaltungen vereinbaren, daß das Gesetz von den Berufsgenossenschaften durchgeführt wird; Aufwendungen werden nicht erstattet.
 
-
-## § 22 – Befugnisse der zuständigen Behörden
+# § 22 – Befugnisse der zuständigen Behörden
 
 (1) Die zuständige Behörde kann vom Arbeitgeber oder von den verantwortlichen Personen die zur Durchführung ihrer Überwachungsaufgabe erforderlichen Auskünfte und die Überlassung von entsprechenden Unterlagen verlangen. Werden Beschäftigte mehrerer Arbeitgeber an einem Arbeitsplatz tätig, kann die zuständige Behörde von den Arbeitgebern oder von den verantwortlichen Personen verlangen, dass das Ergebnis der Abstimmung über die zu treffenden Maßnahmen nach § 8 Absatz 1 schriftlich vorgelegt wird. Die auskunftspflichtige Person kann die Auskunft auf solche Fragen oder die Vorlage derjenigen Unterlagen verweigern, deren Beantwortung oder Vorlage sie selbst oder einen ihrer in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr der Verfolgung wegen einer Straftat oder Ordnungswidrigkeit aussetzen würde. Die auskunftspflichtige Person ist darauf hinzuweisen.
 
@@ -290,8 +263,7 @@ Die zuständigen Landesbehörden vereinbaren mit den Unfallversicherungsträgern
 
 Die zuständige Behörde hat, wenn nicht Gefahr im Verzug ist, zur Ausführung der Anordnung eine angemessene Frist zu setzen. Wird eine Anordnung nach Satz 1 nicht innerhalb einer gesetzten Frist oder eine für sofort vollziehbar erklärte Anordnung nicht sofort ausgeführt, kann die zuständige Behörde die von der Anordnung betroffene Arbeit oder die Verwendung oder den Betrieb der von der Anordnung betroffenen Arbeitsmittel untersagen. Maßnahmen der zuständigen Behörde im Bereich des öffentlichen Dienstes, die den Dienstbetrieb wesentlich beeinträchtigen, sollen im Einvernehmen mit der obersten Bundes- oder Landesbehörde oder dem Hauptverwaltungsbeamten der Gemeinde getroffen werden.
 
-
-## § 23 – Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht, Bundesfachstelle
+# § 23 – Betriebliche Daten, Zusammenarbeit mit anderen Behörden, Jahresbericht, Bundesfachstelle
 
 (1) Der Arbeitgeber hat der zuständigen Behörde zu einem von ihr bestimmten Zeitpunkt Mitteilungen über
 
@@ -331,8 +303,7 @@ unterrichten sie die für die Verfolgung und Ahndung der Verstöße nach den Num
 
 (5) Bei der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin wird eine Bundesfachstelle für Sicherheit und Gesundheit bei der Arbeit eingerichtet. Sie hat die Aufgabe, die Jahresberichte der Länder einschließlich der Besichtigungsquote nach § 21 Absatz 1a auszuwerten und die Ergebnisse für den statistischen Bericht über den Stand von Sicherheit und Gesundheit bei der Arbeit und über das Unfall- und Berufskrankheitengeschehen in der Bundesrepublik Deutschland nach § 25 Absatz 1 des Siebten Buches Sozialgesetzbuch zusammenzufassen. Das Bundesministerium für Arbeit und Soziales kann die Arbeitsweise und das Verfahren der Bundesfachstelle für Sicherheit und Gesundheit bei der Arbeit im Errichtungserlass der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin festlegen.
 
-
-## § 24 – Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
+# § 24 – Ermächtigung zum Erlaß von allgemeinen Verwaltungsvorschriften
 
 Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften erlassen insbesondere
 
@@ -342,8 +313,7 @@ Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvo
 
 3. über die Angaben, die die zuständigen obersten Landesbehörden dem Bundesministerium für Arbeit und Soziales für den Unfallverhütungsbericht nach § 25 Abs. 2 des Siebten Buches Sozialgesetzbuch bis zu einem bestimmten Zeitpunkt mitzuteilen haben.
 
-
-## § 24a – Ausschuss für Sicherheit und Gesundheit bei der Arbeit
+# § 24a – Ausschuss für Sicherheit und Gesundheit bei der Arbeit
 
 (1) Beim Bundesministerium für Arbeit und Soziales wird ein Ausschuss für Sicherheit und Gesundheit bei der Arbeit gebildet, in dem geeignete Personen vonseiten der öffentlichen und privaten Arbeitgeber, der Gewerkschaften, der Landesbehörden, der gesetzlichen Unfallversicherung und weitere geeignete Personen, insbesondere aus der Wissenschaft, vertreten sein sollen. Dem Ausschuss sollen nicht mehr als 15 Mitglieder angehören. Für jedes Mitglied ist ein stellvertretendes Mitglied zu benennen. Die Mitgliedschaft im Ausschuss ist ehrenamtlich. Ein Mitglied oder ein stellvertretendes Mitglied aus den anderen Ausschüssen beim Bundesministerium für Arbeit und Soziales nach § 18 Absatz 2 Nummer 5 soll dauerhaft als Gast im Ausschuss für Sicherheit und Gesundheit bei der Arbeit vertreten sein.
 
@@ -367,8 +337,7 @@ Das Arbeitsprogramm des Ausschusses für Sicherheit und Gesundheit bei der Arbei
 
 (6) Die Geschäfte des Ausschusses für Sicherheit und Gesundheit bei der Arbeit führt die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin.
 
-
-## § 25 – Bußgeldvorschriften
+# § 25 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -382,8 +351,7 @@ zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe b mit einer Geldbuße bis zu fünftausend Euro, in den Fällen des Absatzes 1 Nr. 2 Buchstabe a mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
-## § 26 – Strafvorschriften
+# § 26 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 

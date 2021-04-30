@@ -1,15 +1,11 @@
-# [LMHV] Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln  (Lebensmittelhygiene-Verordnung - LMHV)
-
-Ausfertigungsdatum: 08.08.2007
-
+% Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln  (Lebensmittelhygiene-Verordnung - LMHV)
+% Ausfertigungsdatum: 08.08.2007
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung dient der Regelung spezifischer lebensmittelhygienischer Fragen sowie der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet der Lebensmittelhygiene.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -27,18 +23,15 @@ Diese Verordnung dient der Regelung spezifischer lebensmittelhygienischer Fragen
 
 entsprechend.
 
-
-## § 3 – Allgemeine Hygieneanforderungen
+# § 3 – Allgemeine Hygieneanforderungen
 
 Lebensmittel dürfen nur so hergestellt, behandelt oder in den Verkehr gebracht werden, dass sie bei Beachtung der im Verkehr erforderlichen Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt sind. Mit lebenden Tieren nach § 4 Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches darf nur so umgegangen werden, dass von ihnen zu gewinnende Lebensmittel bei Beachtung der im Verkehr erforderlichen Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt sind.
 
-
-## § 3a – Verwendung von Trinkwasser
+# § 3a – Verwendung von Trinkwasser
 
 Soweit die Vorschriften der Verordnung (EG) Nr. 852/2004 oder der Verordnung (EG) Nr. 853/2004 die Verwendung von Trinkwasser oder von Wasser, das den Trinkwassernormen entspricht, vorsehen, werden die Mindestanforderungen der Richtlinie 98/83/EG des Rates vom 3. November 1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl. L 330 vom 5.12.1998, S. 32), die zuletzt durch die Richtlinie (EU) 2015/1787 (ABl. L 260 vom 7.10.2015, S. 6) geändert worden ist, durch die Trinkwasserverordnung bestimmt.
 
-
-## § 4 – Schulung
+# § 4 – Schulung
 
 (1) Leicht verderbliche Lebensmittel dürfen nur von Personen hergestellt, behandelt oder in den Verkehr gebracht werden, die auf Grund einer Schulung nach Anhang II Kapitel XII Nummer 1 der Verordnung (EG) Nr. 852/2004 über ihrer jeweiligen Tätigkeit entsprechende Fachkenntnisse auf den in Anlage 1 genannten Sachgebieten verfügen. Die Fachkenntnisse nach Satz 1 sind auf Verlangen der zuständigen Behörde nachzuweisen. Satz 1 gilt nicht, soweit ausschließlich verpackte Lebensmittel gewogen, gemessen, gestempelt, bedruckt oder in den Verkehr gebracht werden. Satz 1 gilt nicht für die Primärproduktion und die Abgabe kleiner Mengen von Primärerzeugnissen nach § 5.
 
@@ -48,8 +41,7 @@ Soweit die Vorschriften der Verordnung (EG) Nr. 852/2004 oder der Verordnung (EG
 
 2. über nach Absatz 1 erforderliche Fachkenntnisse verfügen.
 
-
-## § 5 – Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse
+# § 5 – Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse
 
 (1) Wer kleine Mengen der in Absatz 2 genannten Primärerzeugnisse direkt an Verbraucher oder an örtliche Betriebe des Einzelhandels zur unmittelbaren Abgabe an Verbraucher abgibt, hat bei deren Herstellung und Behandlung unbeschadet der Anforderungen der Tierische Lebensmittel-Hygieneverordnung die Anforderungen der Anlage 2 einzuhalten. Örtliche Betriebe des Einzelhandels sind im Falle von Absatz 2 Nummer 2 Betriebe des Einzelhandels, die im Umkreis von nicht mehr als 100 Kilometern vom Wohnort des Jägers oder dem Erlegeort des Wildes gelegen sind.
 
@@ -65,21 +57,17 @@ b) bei Abgabe an Betriebe des Einzelhandels Mengen, die der für den jeweiligen 
 
 3. Eiern: Eier aus eigener Erzeugung von Betrieben mit weniger als 350 Legehennen.
 
-
-## § 6 – Herstellung bestimmter traditioneller Lebensmittel
+# § 6 – Herstellung bestimmter traditioneller Lebensmittel
 
 Für Lebensmittelunternehmer, die ein in Anlage 3 Spalte 1 genanntes Lebensmittel herstellen, gelten die in Anlage 3 Spalte 2 jeweils bezeichneten Anforderungen des Anhangs II der Verordnung (EG) Nr. 852/2004 nicht hinsichtlich der in Anlage 3 Spalte 3 jeweils bezeichneten Räume oder Geräte und Ausrüstungen.
 
-
-## § 6a – Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
+# § 6a – Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
 
 Für Lebensmittelunternehmer, die in Betrieben der Alm- oder Alpwirtschaft Hart- oder Schnittkäse mit einer Reifungszeit von jeweils mehr als 60 Tagen herstellen, gelten die in Anlage 3a Spalte 2 jeweils bezeichneten Anforderungen der Verordnung (EG) Nr. 852/2004 nicht, soweit die in Anlage 3a Spalte 3 jeweils bezeichneten Anforderungen erfüllt werden.
 
+# § 7 – (weggefallen)
 
-## § 7 – (weggefallen)
-
-
-## § 8 – Hygienische Anforderungen an die Beförderung von Rohzucker in Seeschiffen
+# § 8 – Hygienische Anforderungen an die Beförderung von Rohzucker in Seeschiffen
 
 (1) Rohzucker, der nach Raffination als Lebensmittel verwendet werden soll, darf abweichend von Anhang II Kapitel IV Nummer 4 der Verordnung (EG) Nr. 852/2004 als Massengut in Seeschiffen in nicht ausschließlich für die Beförderung von Lebensmitteln bestimmten Behältern befördert werden, wenn hinsichtlich der Behälter folgende Anforderungen eingehalten werden:
 
@@ -95,8 +83,7 @@ Für Lebensmittelunternehmer, die in Betrieben der Alm- oder Alpwirtschaft Hart-
 
 (5) Die in den Absätzen 2 und 3 vorgeschriebenen Nachweise sind der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 9 – Zulassung zur Ausfuhr
+# § 9 – Zulassung zur Ausfuhr
 
 (1) Soweit ein Drittland die Einfuhr von Lebensmitteln von einer besonderen Zulassung abhängig macht, erteilt die zuständige Behörde im Rahmen der Durchführung des Artikels 12 Absatz 1 der Verordnung (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit (ABl. EG Nr. L 31 S. 1) auf Antrag Betrieben, die Lebensmittel herstellen, be- oder verarbeiten, eine Zulassung zur Ausfuhr.
 
@@ -104,8 +91,7 @@ Für Lebensmittelunternehmer, die in Betrieben der Alm- oder Alpwirtschaft Hart-
 
 (3) Die Zulassung nach Absatz 1 kann unter Vergabe einer Zulassungsnummer erteilt werden. Sie kann unter dem Vorbehalt erteilt werden, dass die Zulassung widerrufen werden kann, wenn der Betrieb die Anforderungen nach Absatz 2 nicht erfüllt. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf unberührt.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig
 
@@ -127,8 +113,7 @@ Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmitte
 
 9. entgegen § 8 Absatz 5 einen dort genannten Nachweis nicht, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
 
 (Fundstelle: BGBl. I 2016, 1473)
 
@@ -154,8 +139,7 @@ Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmitte
 
 10. Reinigung und Desinfektion
 
-
-## Anlage 2 – (zu § 5 Absatz 1 Satz 1)Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
+# Anlage 2 – (zu § 5 Absatz 1 Satz 1)Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
 
 (Fundstelle: BGBl. I 2016, 1474)
 
@@ -195,12 +179,10 @@ b) Personen, die mit Primärerzeugnissen umgehen, ein hohes Maß an persönliche
 
 c) Personen mit infizierten Wunden, Hautinfektionen oder Geschwüren nicht mit Primärerzeugnissen umgehen, wenn nicht ausgeschlossen werden kann, dass Primärerzeugnisse direkt oder indirekt kontaminiert werden können.
 
-
-## Anlage 3 – (zu § 6)Traditionelle Lebensmittel
+# Anlage 3 – (zu § 6)Traditionelle Lebensmittel
 
 (Fundstelle: BGBl. I 2016, 1475 — 1476)
 
-
-## Anlage 3a – (zu § 6a)Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
+# Anlage 3a – (zu § 6a)Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
 
 (Fundstelle: BGBl. I 2016, 1477)

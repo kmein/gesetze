@@ -1,37 +1,29 @@
-# [GVIDVDV] Verordnung über den Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes  (GVIDVDV)
-
-Ausfertigungsdatum: 08.12.2012
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes  (GVIDVDV)
+% Ausfertigungsdatum: 08.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium des Innern:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Diplomstudium
+# § 1 – Diplomstudium
 
 (1) Als fachspezifischer Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes wird ein Vorbereitungsdienst für den Verwaltungsinformatikdienst eingerichtet.
 
 (2) Der Diplomstudiengang „Verwaltungsinformatik“ an der Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule) ist der Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes.
 
-
-## § 2 – Ziele des Studiums
+# § 2 – Ziele des Studiums
 
 Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen Verwaltungsinformatikdienst des Bundes erforderlich sind. Es soll die Studierenden zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat sowie zur Zusammenarbeit im föderalen und europäischen Raum befähigen.
 
-
-## § 3 – Dienstbehörden
+# § 3 – Dienstbehörden
 
 (1) Einstellungsbehörden sind Einrichtungen der Bundesverwaltung, institutionelle Zuwendungsempfänger des Bundes und die Fachhochschule.
 
 (2) Die Studierenden unterstehen neben der Dienstaufsicht der Leitung der jeweiligen Einstellungsbehörde auch der Dienstaufsicht der Präsidentin oder des Präsidenten der Fachhochschule.
 
-
-## § 4 – Auswahlverfahren
+# § 4 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil.
 
@@ -39,8 +31,7 @@ Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis die wisse
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder daran erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung.
 
-
-## § 5 – Auswahlkommission
+# § 5 – Auswahlkommission
 
 (1) Das Auswahlverfahren wird von einer Auswahlkommission der Einstellungsbehörde durchgeführt. Teile des Auswahlverfahrens können ausgegliedert werden; die Gesamtverantwortung bleibt jedoch bei der Auswahlkommission. Bei Bedarf kann die Einstellungsbehörde mehrere Auswahlkommissionen einrichten; in diesem Fall hat sie sicherzustellen, dass alle Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe anlegen.
 
@@ -58,13 +49,11 @@ Mitglieder der Auswahlkommission können auch Tarifbeschäftigte sein, die über
 
 (4) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag.
 
-
-## § 6 – Urlaub
+# § 6 – Urlaub
 
 Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochschule und während der berufspraktischen Studien (Praktika) die Einstellungsbehörde.
 
-
-## § 7 – Dauer und Aufbau des Studiums
+# § 7 – Dauer und Aufbau des Studiums
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst 24 Monate Fachstudien an der Fachhochschule und zwölf Monate Praktika.
 
@@ -86,8 +75,7 @@ Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochsc
 
 (3) Den Studienverlauf im Einzelnen und die Inhalte der Module legt die Fachhochschule in einem Modulhandbuch fest.
 
-
-## § 8 – Fachstudien
+# § 8 – Fachstudien
 
 (1) Die Inhalte der Fachstudien werden in interdisziplinären Modulen vermittelt, die folgenden Modulgruppen zugeordnet sind:
 
@@ -109,8 +97,7 @@ Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochsc
 
 (2) Die Module sind Gegenstand eines systematischen Qualitätsmanagements und werden regelmäßig evaluiert.
 
-
-## § 9 – Praktika
+# § 9 – Praktika
 
 (1) Die Einstellungsbehörde bestimmt und überwacht die Gestaltung und die Organisation der Praktika. Sie erstellt für jede Studierende und jeden Studierenden einen Ausbildungsplan.
 
@@ -120,13 +107,11 @@ Die Zeiten des Erholungsurlaubs bestimmt während der Fachstudien die Fachhochsc
 
 (4) Die Ausbildungsleitung erstellt unter Beteiligung der Ausbildenden für jeden Praktikumsteil eine Beurteilung einschließlich einer Bewertung nach § 19 und bespricht sie mit der oder dem Studierenden.
 
-
-## § 10 – Laufbahnprüfung
+# § 10 – Laufbahnprüfung
 
 Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der Zwischenprüfung, den Modulprüfungen und der Diplomarbeit.
 
-
-## § 11 – Zuständigkeiten, Prüfungserleichterungen
+# § 11 – Zuständigkeiten, Prüfungserleichterungen
 
 (1) Gestaltung, Organisation und Durchführung der Prüfungen obliegen
 
@@ -136,8 +121,7 @@ Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der Zwischenprüfun
 
 (2) Studierenden mit vorübergehenden Beeinträchtigungen, die nicht in den Anwendungsbereich des Neunten Buches Sozialgesetzbuch fallen, gewährt das jeweils zuständige Prüfungsamt angemessene Erleichterungen. Die Erleichterungen dürfen jedoch nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
-
-## § 12 – Prüfende
+# § 12 – Prüfende
 
 (1) Für die Bewertung der Prüfungen bestellt das jeweils zuständige Prüfungsamt Prüfende. Die Prüfenden sind in dieser Funktion unabhängig und nicht weisungsgebunden.
 
@@ -157,8 +141,7 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 (5) Prüfende können auch Tarifbeschäftigte sein, die über entsprechende Kenntnisse verfügen.
 
-
-## § 13 – Zwischenprüfung
+# § 13 – Zwischenprüfung
 
 (1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen. In der Zwischenprüfung haben die Studierenden nachzuweisen, dass sie einen Kenntnisstand erreicht haben, der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
@@ -168,8 +151,7 @@ Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit ausgegeben wor
 
 (4) Das Prüfungsamt am Zentralbereich stellt den Studierenden über das Ergebnis der bestandenen Zwischenprüfung ein Zeugnis aus, das die Rangpunkte der einzelnen Klausuren sowie die Durchschnittsrangpunktzahl enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom Prüfungsamt am Zentralbereich einen schriftlichen Bescheid, aus dem das Ergebnis der Zwischenprüfung und die absolvierten Module hervorgehen. § 26 Absatz 3 gilt entsprechend.
 
-
-## § 14 – Modulprüfungen
+# § 14 – Modulprüfungen
 
 (1) In jedem Modul des Hauptstudiums ist eine Modulprüfung abzulegen.
 
@@ -189,8 +171,7 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 
 (5) Die Nachholung des letzten Prüfungsteils kann als mündliche Prüfung durchgeführt werden. In diesem Fall ist ein Protokoll über den Prüfungsverlauf anzufertigen und die erreichte Note im Protokoll zu begründen.
 
-
-## § 15 – Klausuren
+# § 15 – Klausuren
 
 (1) Eine Klausur ist eine unter Aufsicht anzufertigende, schriftliche Ausarbeitung. Die Bearbeitungszeit für eine Klausur beträgt mindestens 120 und höchstens 240 Minuten.
 
@@ -198,8 +179,7 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 
 (3) Die Klausuren werden anstelle des Namens mit einer Kennziffer versehen. Dafür erstellt das Prüfungsamt eine Übersicht, in der die Kennziffern den Namen der Studierenden zugeordnet sind. Die Übersicht ist geheim zu halten und darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren bekannt gegeben werden.
 
-
-## § 16 – Diplomarbeit
+# § 16 – Diplomarbeit
 
 (1) Die Diplomarbeit besteht aus einer schriftlichen Ausarbeitung, einer Präsentation und einer Disputation.
 
@@ -213,8 +193,7 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 
 3. die Bewertung der Disputation mit 15 Prozent.
 
-
-## § 17 – Schriftliche Ausarbeitung
+# § 17 – Schriftliche Ausarbeitung
 
 (1) Mit der schriftlichen Ausarbeitung sollen die Studierenden nachweisen, dass sie fähig sind, innerhalb einer vorgegebenen Frist eine für die Studienziele relevante Problemstellung mit wissenschaftlichen Methoden selbständig und fundiert zu bearbeiten.
 
@@ -226,8 +205,7 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 
 (5) Die schriftliche Ausarbeitung soll innerhalb von zehn Wochen nach Abgabe bewertet werden.
 
-
-## § 18 – Präsentation und Disputation
+# § 18 – Präsentation und Disputation
 
 (1) Zur Präsentation und zur Disputation wird zugelassen, wer in der schriftlichen Ausarbeitung mindestens fünf Rangpunkte erreicht hat.
 
@@ -241,8 +219,7 @@ Der letzte Prüfungsteil muss eine Klausur sein, die nach Abschluss des Moduls d
 
 (6) Die Präsentation und Disputation sind bestanden, wenn jeder Prüfungsteil mit mindestens fünf Rangpunkten bewertet worden ist.
 
-
-## § 19 – Bewertung der Prüfungsleistungen
+# § 19 – Bewertung der Prüfungsleistungen
 
 (1) Die Prüfungsleistungen werden, soweit sich aus § 20 nichts anderes ergibt, wie folgt bewertet:  
   
@@ -339,8 +316,7 @@ ungenügend
 
 (4) Durchschnittsrangpunktzahlen werden auf zwei Dezimalstellen ohne Rundung berechnet.
 
-
-## § 20 – Multiple-Choice-Aufgaben
+# § 20 – Multiple-Choice-Aufgaben
 
 (1) Multiple-Choice-Aufgaben können entweder als Einfach-Auswahlaufgaben (1 aus n) oder als Mehrfach-Auswahlaufgaben (x aus n) gestellt werden.
 
@@ -373,8 +349,7 @@ Mindestpunktzahl bis … Prozent</th><th style="text-align: center;">Rangpunkte<
 
 (7) Multiple-Choice-Aufgaben können elektronisch gestellt, beantwortet und ausgewertet werden. Die Integrität der Daten und die automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
-
-## § 21 – Fernbleiben, Rücktritt
+# § 21 – Fernbleiben, Rücktritt
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem Prüfungsteil ohne Genehmigung des Prüfungsamtes gilt die Prüfung oder der Prüfungsteil als nicht bestanden und wird mit null Rangunkten bewertet.
 
@@ -392,8 +367,7 @@ Mindestpunktzahl bis … Prozent</th><th style="text-align: center;">Rangpunkte<
 
 § 21 Abs. 1 Kursivdruck: Müsste richtig "Rangpunkten" lauten.
 
-
-## § 22 – Täuschung, Ordnungsverstoß
+# § 22 – Täuschung, Ordnungsverstoß
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen, soll die vorläufige Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des jeweils zuständigen Prüfungsamtes oder der Prüfungskommission gestattet werden. Bei einem erheblichen Verstoß können sie von der weiteren Teilnahme an der Prüfung ausgeschlossen werden.
 
@@ -405,8 +379,7 @@ Mindestpunktzahl bis … Prozent</th><th style="text-align: center;">Rangpunkte<
 
 (5) Die Betroffenen sind vor einer Entscheidung nach den Absätzen 2 bis 4 anzuhören.
 
-
-## § 23 – Wiederholung von Prüfungen
+# § 23 – Wiederholung von Prüfungen
 
 (1) Eine nicht bestandene Modulprüfung kann innerhalb von drei Monaten nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Die Wiederholung wird in der Regel als mündliche Prüfung von mindestens 30 und höchstens 40 Minuten Dauer durchgeführt.
 
@@ -418,8 +391,7 @@ Mindestpunktzahl bis … Prozent</th><th style="text-align: center;">Rangpunkte<
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
-
-## § 24 – Bestehen der Laufbahnprüfung, Abschlussnote
+# § 24 – Bestehen der Laufbahnprüfung, Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn
 
@@ -443,8 +415,7 @@ Mindestpunktzahl bis … Prozent</th><th style="text-align: center;">Rangpunkte<
 
 Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung für die Ermittlung der Abschlussnote bei Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten abgerundet. § 19 Absatz 1 ist anzuwenden.
 
-
-## § 25 – Abschlusszeugnis
+# § 25 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis und eine Urkunde über die Verleihung des Diplomgrades „Diplom-Verwaltungswirtin – Schwerpunkt Verwaltungsinformatik (FH)“ oder „Diplom-Verwaltungswirt – Schwerpunkt Verwaltungsinformatik (FH)“. Auf Antrag stellt die Fachhochschule einen Nachweis über die Abschlussnote als Dezimalzahl nach dem Muster in der Anlage aus.
 
@@ -458,8 +429,7 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung sowie eine Bescheinigung über die erbrachten Studienleistungen, aus der das Ergebnis der Zwischenprüfung, die absolvierten Module und deren Bewertung hervorgehen.
 
-
-## § 26 – Prüfungsakte, Einsichtnahme
+# § 26 – Prüfungsakte, Einsichtnahme
 
 (1) Zur Prüfungsakte zu nehmen sind:
 
@@ -483,12 +453,10 @@ Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der Laufbahnprüfung 
 
 (3) Nach Zustellung des Abschlusszeugnisses oder des Bescheids über die nicht bestandene Laufbahnprüfung können die Betroffenen auf Antrag Einsicht in ihre Prüfungsakte nehmen. Die Einsichtnahme ist in der Akte zu vermerken.
 
-
-## § 27 – Inkrafttreten
+# § 27 – Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. August 2012 in Kraft.
 
-
-## Anlage – (zu § 25 Absatz 1 Satz 2)Noten als Dezimalzahlen
+# Anlage – (zu § 25 Absatz 1 Satz 2)Noten als Dezimalzahlen
 
 (Fundstelle: BGBl. I 2012, 2629)

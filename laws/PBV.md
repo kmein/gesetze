@@ -1,15 +1,11 @@
-# [PBV] Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen  (Pflege-Buchführungsverordnung - PBV)
-
-Ausfertigungsdatum: 22.11.1995
-
+% Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen  (Pflege-Buchführungsverordnung - PBV)
+% Ausfertigungsdatum: 22.11.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches Sozialgesetzbuch - Soziale Pflegeversicherung - vom 26. Mai 1994 (BGBl. I S. 1014) verordnet die Bundesregierung und auf Grund des durch Artikel 1 Nr. 8 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2355) eingefügten und durch Artikel 1 Nr. 7 Buchstabe a des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1377) geänderten § 330 Abs. 1 des Handelsgesetzbuchs verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |      |                                           |
 |:-----|:------------------------------------------|
@@ -35,8 +31,7 @@ Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches Sozialgesetzbuch - Soz
 | Anlage 5  | Kostenstellenrahmen für die Kosten- und Leistungsrechnung (Muster) |
 | Anlage 6  | Kostenträgerübersicht (Muster)                                     |
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen richten sich nach dieser Verordnung, unabhängig davon, ob die Pflegeeinrichtung Kaufmann im Sinne des Handelsgesetzbuchs ist, und unabhängig von der Rechtsform der Pflegeeinrichtung. Rechnungs-, Buchführungs- und Aufzeichnungspflichten nach anderen Vorschriften bleiben unberührt.
 
@@ -48,20 +43,17 @@ Auf Grund des § 83 Abs. 1 Satz 1 Nr. 3 des Elften Buches Sozialgesetzbuch - Soz
 
 mit denen ein Versorgungsvertrag nach dem Elften Buch Sozialgesetzbuch besteht (zugelassene Pflegeeinrichtungen). Erbringt eine zugelassene Pflegeeinrichtung neben Leistungen nach dem Elften Buch Sozialgesetzbuch andere Sozialleistungen im Sinne des Ersten Buches Sozialgesetzbuch (gemischte Einrichtung), so sind ihre Rechnungs- und Buchführungspflichten nach dieser Verordnung auf die Leistungen beschränkt, für die sie nach dem Elften Buch Sozialgesetzbuch als Pflegeeinrichtung zugelassen ist.
 
-
-## § 2 – Geschäftsjahr
+# § 2 – Geschäftsjahr
 
 Das Geschäftsjahr ist das Kalenderjahr.
 
-
-## § 3 – Buchführung, Inventar
+# § 3 – Buchführung, Inventar
 
 (1) Die Pflegeeinrichtungen führen ihre Bücher nach den Regeln der kaufmännischen doppelten Buchführung. Für Buchführung und Inventar gelten die §§ 238 bis 241 des Handelsgesetzbuchs.
 
 (2) Die Konten sind nach dem Kontenrahmen der Anlage 4 einzurichten. Bei Verwendung eines hiervon abweichenden Kontenplanes hat die Pflegeeinrichtung durch ein ordnungsmäßiges Überleitungsverfahren die Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
 
-
-## § 4 – Jahresabschluß
+# § 4 – Jahresabschluß
 
 (1) Der Jahresabschluß der Pflegeeinrichtung besteht aus:
 
@@ -84,8 +76,7 @@ Der Jahresabschluß ist innerhalb von sechs Monaten nach Ablauf des Geschäftsja
 (+++ § 4: Zur Anwendung vgl. § 11 Abs. 3 F. ab 17.7.2015 +++)  
 (+++ § 4 Abs. 1: Zur Anwendung vgl. § 11 Abs. 4 F. 21.12.2016 +++)
 
-
-## § 5 – Einzelvorschriften zur Bilanz
+# § 5 – Einzelvorschriften zur Bilanz
 
 (1) Vermögensgegenstände des Anlagevermögens, deren Nutzung zeitlich begrenzt ist, sind in der Bilanz höchstens zu den Anschaffungs- oder Herstellungskosten, vermindert um Abschreibungen, anzusetzen. Kann eine zugelassene Pflegeeinrichtung, die erstmals nach den Grundsätzen dieser Verordnung eine Bewertung des Anlagevermögens vornimmt, zum Stichtag der Eröffnungsbilanz die tatsächlichen Anschaffungs- oder Herstellungskosten nicht ohne unvertretbaren Aufwand ermitteln, so sind den Preisverhältnissen des vermutlichen Anschaffungs- oder Herstellungszeitpunkts entsprechende Erfahrungswerte als Anschaffungs- oder Herstellungskosten anzusetzen. Vermögensgegenstände des Anlagevermögens, die bei Pflegeheimen am 1. Januar 1997, bei Pflegediensten am 1. Januar 1998 bis auf einen Erinnerungsposten abgeschrieben sind, können mit diesem Restbuchwert angesetzt werden.
 
@@ -97,13 +88,11 @@ Der Jahresabschluß ist innerhalb von sechs Monaten nach Ablauf des Geschäftsja
 
 (5) In Höhe der Abschreibungen auf die aus Eigenmitteln des Trägers der Pflegeeinrichtung vor Beginn der Förderung beschafften Vermögensgegenstände des Anlagevermögens, für die ein Ausgleich für die Abnutzung in der Zeit ab Beginn der Förderung verlangt werden kann, ist in der Bilanz auf der Aktivseite ein "Ausgleichsposten für Eigenmittelförderung" zu bilden.
 
-
-## § 6 – Aufbewahrung und Vorlegung von Unterlagen
+# § 6 – Aufbewahrung und Vorlegung von Unterlagen
 
 Für die Aufbewahrung von Unterlagen, die Aufbewahrungsfristen und die Vorlegung von Unterlagen gelten die §§ 257 und 261 des Handelsgesetzbuchs.
 
-
-## § 7 – Kosten- und Leistungsrechnung
+# § 7 – Kosten- und Leistungsrechnung
 
 Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und Leistungsrechnung zu führen, die eine betriebsinterne Steuerung sowie eine Beurteilung der Wirtschaftlichkeit und Leistungsfähigkeit ermöglicht. Die Kosten- und Leistungsrechnung muß die Ermittlung und Abgrenzung der Kosten der jeweiligen Betriebszweige sowie die Erstellung der Leistungsnachweise nach den Vorschriften des Achten Kapitels des Elften Buches Sozialgesetzbuch ermöglichen. Dazu gehören folgende Mindestanforderungen:
 
@@ -117,8 +106,7 @@ Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und Leistungsrechnung zu
 
 5. Bei Einrichtungen nach § 4 Abs. 2 oder 3 muß eine verursachungsgerechte Abgrenzung der Kosten und Erträge mit anteiliger Zuordnung auf die verschiedenen Einrichtungen erfolgen; § 4 Abs. 3 Nr. 2 Satz 2 gilt entsprechend.
 
-
-## § 8 – Wahlrecht für Kapitalgesellschaften
+# § 8 – Wahlrecht für Kapitalgesellschaften
 
 (1) Pflegeeinrichtungen, die Kapitalgesellschaften im Sinne des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs sind, brauchen auch für Zwecke des Handelsrechts bei der Aufstellung, Feststellung und Offenlegung ihres Jahresabschlusses nach dem Handelsgesetzbuch die Gliederungsvorschriften der §§ 266 und 275 des Handelsgesetzbuchs nicht anzuwenden. Nehmen die Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 in Anspruch, so haben sie bei der Aufstellung, Feststellung und Offenlegung die Bilanz nach Anlage 1, die Gewinn- und Verlustrechnung nach Anlage 2 und den Anlagennachweis nach Anlage 3a zu gliedern. Nehmen die Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 nicht in Anspruch, haben sie außerhalb des handelsrechtlichen Jahresabschlusses zusätzlich gesonderte Dokumente bestehend aus den in Satz 2 näher bezeichneten Unterlagen zu erstellen. Die im Anlagennachweis vorgeschriebenen Angaben sind auch für den Posten "Immaterielle Vermögensgegenstände" und jeweils für die Posten des Finanzanlagevermögens zu machen.
 
@@ -126,8 +114,7 @@ Die zugelassenen Pflegeeinrichtungen haben eine Kosten- und Leistungsrechnung zu
 
 (+++ § 8: Zur Anwendung vgl. § 11 Abs. 3 F. ab 17.7.2015 +++)
 
-
-## § 9 – Befreiungen
+# § 9 – Befreiungen
 
 (1) Von den Vorschriften dieser Verordnung sind befreit:
 
@@ -151,8 +138,7 @@ Absatz 1 Satz 2 gilt entsprechend. Über eine Befreiung und ihre Versagung entsc
 
 (3) Pflegeeinrichtungen, die nach Absatz 1 oder 2 von den Vorschriften dieser Verordnung befreit sind, haben eine vereinfachte Einnahmen- und Ausgabenrechnung zu führen, die den Grundsätzen ordnungsmäßiger Buchführung entspricht; als Mindestanforderung gelten die in § 259 Abs. 1 des Bürgerlichen Gesetzbuchs aufgeführten Rechenschaftspflichten entsprechend. Die Auskunfts- und Nachweispflichten der Pflegeeinrichtungen nach dem Siebten und Achten Kapitel des Elften Buches Sozialgesetzbuch bleiben unberührt.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 334 Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats einer Pflegeeinrichtung, die Kapitalgesellschaft ist, bei der Aufstellung oder Feststellung des Jahresabschlusses
 
@@ -170,8 +156,7 @@ gliedert oder
 
 (+++ § 10: Zur Anwendung vgl. § 11 Abs. 3 F. ab 17.7.2015 +++)
 
-
-## § 11 – Inkrafttreten und Übergangsvorschriften
+# § 11 – Inkrafttreten und Übergangsvorschriften
 
 (1) Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
@@ -183,13 +168,11 @@ gliedert oder
 
 (5) Die Nummern 1 bis 3 der Gliederung der Gewinn- und Verlustrechnung (Anlage 2), der Kontenrahmen für die Buchführung (Anlage 4) sowie die Anlagen 5 und 6 in der Fassung der Zweiten Verordnung zur Änderung von Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf Jahresabschlüsse für nach dem 31. Dezember 2016 beginnende Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – Gliederung der Bilanz*)
+# Anlage 1 – Gliederung der Bilanz*)
 
 (Fundstelle: BGBl. I 1995, 1532 - 1534;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -388,8 +371,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (+++ Anlage 1: Zur Anwendung vgl. § 11 Abs. 3 F. ab 17.7.2015 +++)
 
-
-## Anlage 2 – Gliederung der Gewinn- und Verlustrechnung
+# Anlage 2 – Gliederung der Gewinn- und Verlustrechnung
 
 (Fundstelle: BGBl. I 1995, 1535 - 1536;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -475,22 +457,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (+++ Anlage 2: Zur Anwendung vgl. § 11 Abs. 3 F. ab 17.7.2015 u. § 11 Abs. 4 u. 5 F. 21.12.2016 +++)
 
-
-## Anlage 3a – Anlagennachweis
+# Anlage 3a – Anlagennachweis
 
 (Inhalt: nicht darstellbare Tabelle,  
 Fundstelle: BGBl. I 1995, 1537;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 3b – Nachweis der Förderungen nach Landesrecht (Fördernachweis)
+# Anlage 3b – Nachweis der Förderungen nach Landesrecht (Fördernachweis)
 
 (Inhalt: nicht darstellbare Tabelle,  
 Fundstelle: BGBl. I 1995, 1538;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 4 – Kontenrahmen für die Buchführung (Kontenklasse 0-8)
+# Anlage 4 – Kontenrahmen für die Buchführung (Kontenklasse 0-8)
 
 (Fundstelle: BGBl. I 1995, 1539 - 1546;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3518,8 +3497,7 @@ Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
 (+++ Anlage 4: Zur Anwendung vgl. § 11 Abs. 7 F. ab 25.5.2009 u. § 11 Abs. 5 F. 21.12.2016 +++)
 
-
-## Anlage 5 – Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung
+# Anlage 5 – Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung
 
 (Fundstelle: BGBl. I 1995, 1547;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3744,8 +3722,7 @@ freibleibend
 
 (+++ Anlage 5: Zur Anwendung vgl. § 11 Abs. 5 F. 21.12.2016 +++)
 
-
-## Anlage 6 – Muster, Kostenträgerübersicht
+# Anlage 6 – Muster, Kostenträgerübersicht
 
 (Fundstelle: BGBl. I 1995, 1548;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -1,18 +1,13 @@
-# [SchuTSEV] Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden    (Sicherheitsfunk-Schutzverordnung - SchuTSEV)
-
-Ausfertigungsdatum: 13.05.2009
-
+% Verordnung zum Schutz von öffentlichen Telekommunikationsnetzen und Sende- und Empfangsfunkanlagen, die in definierten Frequenzbereichen zu Sicherheitszwecken betrieben werden    (Sicherheitsfunk-Schutzverordnung - SchuTSEV)
+% Ausfertigungsdatum: 13.05.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 3 des Gesetzes über die elektromagnetische Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S. 220) verordnet die Bundesregierung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Durchführung besonderer Maßnahmen der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur) zum Schutz von
 
@@ -22,8 +17,7 @@ Diese Verordnung regelt die Durchführung besonderer Maßnahmen der Bundesnetzag
 
 vor elektromagnetischen Störungen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung
 
@@ -33,8 +27,7 @@ Im Sinne dieser Verordnung
 
 3. sind „Störaussendungen“ von einem leitungsgeführten elektrischen Nutzsignal verursachte elektromagnetische Energieanteile, die den Leiter durch Induktion, Influenz oder Strahlungskopplung unerwünscht verlassen und den Funkverkehr störend beeinträchtigen können.
 
-
-## § 3 – Schutz von zu Sicherheitszwecken betriebenen Sende- und Empfangsfunkanlagen
+# § 3 – Schutz von zu Sicherheitszwecken betriebenen Sende- und Empfangsfunkanlagen
 
 (1) Störaussendungen aus leitergebundenen Telekommunikationsanlagen und -netzen dürfen in den zu schützenden Frequenzbereichen nach Anlage 1 die Grenzwerte der Störfeldstärke nach Anlage 2 nicht überschreiten. Die Störfeldstärken werden nach der Messvorschrift nach Anlage 3 ermittelt.
 
@@ -52,13 +45,11 @@ Im Sinne dieser Verordnung
 
 (3) Unbeschadet der Anforderungen nach Absatz 1 kann die Bundesnetzagentur im Falle von Sende- und Empfangsfunkanlagen, für die aus Gründen der öffentlichen Sicherheit ein besonderer Schutz notwendig ist, im Benehmen mit den für die jeweiligen Sende- und Empfangsfunkanlagen zuständigen Bundesbehörden messtechnische Untersuchungen durchführen.
 
-
-## § 4 – Schutz öffentlicher Telekommunikationsnetze
+# § 4 – Schutz öffentlicher Telekommunikationsnetze
 
 Im Falle von elektromagnetischen Störungen öffentlicher Telekommunikationsnetze durch leitergebundene Telekommunikationsanlagen und -netze kann die Bundesnetzagentur für die störenden Anlagen und Netze die Einhaltung der Grenzwerte für die Störfeldstärke nach Anlage 2 anordnen. § 3 Abs. 1 Satz 2 gilt entsprechend.
 
-
-## § 5 – Schutz von Flugfunk-Frequenzen
+# § 5 – Schutz von Flugfunk-Frequenzen
 
 (1) Leitergebundene Übertragungen analoger Signale (Rundfunksignale) sind in den Frequenzbereichen
 
@@ -74,19 +65,15 @@ einzustellen.
 
 (4) Stellt die Bundesnetzagentur durch Messungen fest, dass die leitungsgebundenen Übertragungsnetze die Voraussetzungen des Absatzes 2 einhalten, kann sie im Einvernehmen mit dem Bundesamt für Informationsmanagement und Informationstechnik der Bundeswehr die Grenzwertverschärfung nach Anlage 2 Nr. 7 aufheben.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+# Anlage 1 – (zu § 3 Abs. 1)Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
 
-## Anlage 1 – (zu § 3 Abs. 1)Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
+# Anlage 2 – (zu § 3 Abs. 1)Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
 
-
-## Anlage 2 – (zu § 3 Abs. 1)Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
-
-
-## Anlage 3 – (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
+# Anlage 3 – (zu § 3 Abs. 1)Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
 
 1  
 Allgemeine Einführung
@@ -241,7 +228,7 @@ Verläuft der zu messende Teil des TK-Netzes oberhalb der Messantenne, so ist di
 
   
   
-![](../normengrafiken/bgbl1_2009/j1060-1_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j1060-1_0030.jpg)  
   
 
 |     |         |                                                                                                               |
@@ -434,7 +421,7 @@ Befinden sich Antenne und TK-Netz auf gleicher Bezugsebene, so ist zur Bestimmun
 
   
   
-![](../normengrafiken/bgbl1_2009/j1060-1_0060.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j1060-1_0060.jpg)  
   
 
 Bild 2: Höhenscan der Antenne
@@ -699,7 +686,7 @@ der korrigierte Störfeldstärkepegel in dB(µV/m), der mit dem zutreffenden Gre
 
 Für den Fall, dass aufgrund von hohen Umgebungsfeldstärken der Nachweis der Einhaltung der in Anlage 2 genannten Grenzwerte dieser Verordnung praktisch nicht möglich ist, kann der Grenzwert für den zulässigen asymmetrischen Störstrom als „sekundärer“ Grenzwert herangezogen werden.
 
-![](../normengrafiken/bgbl1_2009/j1060-1_0080.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j1060-1_0080.jpg)
 
 <a href="../normengrafiken/bgbl1_2009/j1060-1_0090.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
@@ -720,8 +707,7 @@ U<sub>mess</sub> = U<sub>Anzeige</sub> – ΔU
 A.3.1  
 Messunsicherheit bei Feldstärkemessungen
 
-Die Beiträge der einzelnen Komponenten des Messsystems zur Gesamt-Messunsicherheit können Tabelle A.3.1 entnommen werden. Sie wurden nach den in EN 55016-4-2 beschriebenen Grundsätzen ermittelt.  
-  
+Die Beiträge der einzelnen Komponenten des Messsystems zur Gesamt-Messunsicherheit können Tabelle A.3.1 entnommen werden. Sie wurden nach den in EN 55016-4-2 beschriebenen Grundsätzen ermittelt.   
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">Tabelle A.3.1<br />
 Einflussgrößen bei der Bestimmung Messunsicherheit<br />
@@ -847,14 +833,13 @@ Die überhöhte Messwertanzeige wird korrigiert, indem der mit Hilfe des im Bild
 
  
 
-Der so korrigierte Pegelwert der Messwertanzeige ist als Messergebnis im Messprotokoll festzuhalten.  
-  
+Der so korrigierte Pegelwert der Messwertanzeige ist als Messergebnis im Messprotokoll festzuhalten.   
 
 <table width="100%" style="border: none;"><colgroup><col style="width: 100%" /></colgroup><tbody><tr class="odd"><td style="text-align: center;">Bild A.4.1<br />
 Bestimmung der Amplitude des Störsignals<br />
 mittels des Amplitudenverhältnisses dund des Faktorsi</td></tr></tbody></table>
 
-![](../normengrafiken/bgbl1_2009/j1060-1_0110.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2009/j1060-1_0110.jpg)
 
 Legende:
 

@@ -1,15 +1,11 @@
-# [BVG§31Abs5DV] Verordnung zur Durchführung des § 31 Abs. 4 des Bundesversorgungsgesetzes
-
-Ausfertigungsdatum: 17.04.1961
-
+% Verordnung zur Durchführung des § 31 Abs. 4 des Bundesversorgungsgesetzes
+% Ausfertigungsdatum: 17.04.1961
  
-
-## § 1
+# § 1
 
 Schwerstbeschädigtenzulage erhalten Beschädigte, deren Schädigungsfolgen allein auf Grund der Beurteilung nach § 30 Abs. 1 des Bundesversorgungsgesetzes mit einem Grad der Schädigungsfolgen von 100 zu beurteilen sind, wenn die anerkannten Schädigungsfolgen nach den nachstehenden Vorschriften mit wenigstens 130 Punkten zu bewerten sind oder wenn sie Anspruch auf Pflegezulage mindestens nach Stufe III haben.
 
-
-## § 2
+# § 2
 
 (1) Bei der Punktbewertung ist von der Höhe des Grades der Schädigungsfolgen auszugehen, die die einzelnen anerkannten Schädigungsfolgen bedingen. Dabei ist jedoch nur die Höhe des Grades der Schädigungsfolgen maßgebend, die sich allein auf Grund der Beurteilung nach § 30 Abs. 1 des Bundesversorgungsgesetzes ergibt.
 
@@ -21,8 +17,7 @@ Schwerstbeschädigtenzulage erhalten Beschädigte, deren Schädigungsfolgen alle
 
 (5) Die Bewertung erfolgt entsprechend dem Grad der Schädigungsfolgen jeweils in ganzen Punkten; bei Schädigungsfolgen, die einen Grad der Schädigungsfolgen von weniger als 45, aber mindestens 25 bedingen, erfolgt die Bewertung jeweils in halben Punkten. Ergeben zwei oder mehrere Schädigungsfolgen mit einem Grad der Schädigungsfolgen von mindestens 45 zusammen mindestens 140 Punkte, erfolgt die Bewertung in ganzen Punkten bei Schädigungsfolgen mit einem Grad der Schädigungsfolgen von weniger als 45, mindestens aber 25. Die einzelnen Ergebnisse sind zusammenzuzählen; dabei ist § 30 Abs. 1 Satz 2 des Bundesversorgungsgesetzes entsprechend anzuwenden.
 
-
-## § 3
+# § 3
 
 (1) Die nach § 2 ermittelte Punktzahl ist,  
 
@@ -42,13 +37,11 @@ zu erhöhen. Das gilt, mit Ausnahme der Nummer 6, nur, wenn die zusammentreffend
 
 (2) Innere Organsysteme im Sinne des Absatzes 1 sind Atmung, Herz-Kreislauf, Verdauung, Harnapparat, Geschlechtsapparat, Blut einschließlich blutbildendem Gewebe und Immunsystem, die innere Sekretion sowie das Gehirn in seiner gesamten Funktion (ohne Aufteilung in Funktionsbereiche).
 
-
-## § 4
+# § 4
 
 Ist für die Zuerkennung der Schwerstbeschädigtenzulage der Anspruch auf Pflegezulage von Bedeutung, bleibt eine Höherstufung der Pflegezulage außer Betracht, wenn sie wegen besonderer wirtschaftlicher Mehraufwendungen und Zusammentreffens mit einer nicht schädigungsbedingten Gesundheitsstörung vorgenommen worden ist.
 
-
-## § 5
+# § 5
 
 (1) Schwerstbeschädigtenzulage wird  
 
@@ -78,12 +71,10 @@ erbracht.
   
 erbracht.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7
+# § 7
 
 (weggefallen)

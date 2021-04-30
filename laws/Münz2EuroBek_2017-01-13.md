@@ -1,10 +1,7 @@
-# [Münz2EuroBek 2017-01-13] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Rheinland-Pfalz“)
-
-Ausfertigungsdatum: 13.01.2017
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Rheinland-Pfalz“)
+% Ausfertigungsdatum: 13.01.2017
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-Gedenkmünze „Rheinland-Pfalz“ im Rahmen einer Serie „Bundesländer“ prägen zu lassen.
 
@@ -18,12 +15,10 @@ Die für den Umlauf bestimmte Auflage der Münze beträgt 30 Millionen Stück.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von dem Künstler Frantisek Chochola aus Hamburg.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2017, 135)

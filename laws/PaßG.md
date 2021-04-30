@@ -1,10 +1,7 @@
-# [PaßG] Paßgesetz  (PaßG)
-
-Ausfertigungsdatum: 19.04.1986
-
+% Paßgesetz  (PaßG)
+% Ausfertigungsdatum: 19.04.1986
  
-
-## § 1 – Passpflicht
+# § 1 – Passpflicht
 
 (1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die aus dem Geltungsbereich dieses Gesetzes aus- oder in ihn einreisen, sind verpflichtet, einen gültigen Pass mitzuführen und sich damit über ihre Person auszuweisen. Der Passpflicht wird durch Vorlage eines Passes der Bundesrepublik Deutschland im Sinne des Absatzes 2 genügt.
 
@@ -38,8 +35,7 @@ wenn diese nicht Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sin
 
 (5) Das Bundesministerium des Innern, für Bau und Heimat bestimmt den Passhersteller sowie den Lieferanten von Geräten zur Aufnahme und elektronischen Erfassung von Lichtbildern, sofern diese durch die Passbehörde gefertigt werden, und von Fingerabdrücken und macht deren Namen im Bundesanzeiger bekannt. Dies gilt nicht für Geräte zur Aufnahme und elektronischen Erfassung von Lichtbildern, die im Rahmen einer Antragstellung beim Auswärtigen Amt gefertigt werden.
 
-
-## § 2 – Befreiung von der Paßpflicht
+# § 2 – Befreiung von der Paßpflicht
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -49,13 +45,11 @@ wenn diese nicht Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sin
 
 (2) Die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden können in Einzelfällen, insbesondere aus humanitären Gründen, Ausnahmen von der Paßpflicht zulassen.
 
-
-## § 3 – Grenzübertritt
+# § 3 – Grenzübertritt
 
 Das Überschreiten der Auslandsgrenze ist nur an zugelassenen Grenzübergangsstellen und innerhalb der festgesetzten Verkehrsstunden zulässig, sofern nicht auf Grund anderer Rechtsvorschriften oder zwischenstaatlicher Vereinbarungen Ausnahmen zugelassen sind.
 
-
-## § 4 – Paßmuster
+# § 4 – Paßmuster
 
 (1) Pässe sind nach einheitlichen Mustern auszustellen; sie erhalten eine Seriennummer. Der Pass enthält neben dem Lichtbild des Passinhabers, seiner Unterschrift, der Angabe der ausstellenden Behörde, dem Tag der Ausstellung und dem letzten Tag der Gültigkeitsdauer ausschließlich folgende Angaben über seine Person:
 
@@ -113,8 +107,7 @@ e) "PD" für Diplomatenpass und vorläufigen Diplomatenpass,
 
 9. die Gültigkeitsdauer des Passes,
 
-9a.  
-Versionsnummer des Passmusters,
+9a. Versionsnummer des Passmusters,
 
 10. die Prüfziffern und
 
@@ -130,8 +123,7 @@ Versionsnummer des Passmusters,
 
 (6) Die Muster der amtlichen Pässe, die Anforderungen an das Lichtbild sowie die nähere Bestimmung der in § 1 Abs. 4 Satz 2 genannten Personen bestimmt das Bundesministerium des Innern, für Bau und Heimat im Benehmen mit dem Auswärtigen Amt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf. In die amtlichen Pässe können Angaben über das Dienstverhältnis des Passinhabers aufgenommen werden. Die Rechtsverordnung kann auch von diesem Gesetz abweichende Bestimmungen über Gültigkeitsdauer, Ausstellung, Einziehung, Sicherstellung und Pflichten des Inhabers enthalten.
 
-
-## § 5 – Gültigkeitsdauer
+# § 5 – Gültigkeitsdauer
 
 (1) Der Reisepass, der Dienstpass und der Diplomatenpass sind zehn Jahre gültig. Bei Personen, die das 24. Lebensjahr noch nicht vollendet haben, sowie im Fall des § 1 Abs. 3 sind sie sechs Jahre gültig.
 
@@ -145,8 +137,7 @@ Versionsnummer des Passmusters,
 
 (6) § 7 Abs. 2 bleibt unberührt.
 
-
-## § 6 – Ausstellung eines Passes
+# § 6 – Ausstellung eines Passes
 
 (1) Der Pass wird auf Antrag ausgestellt. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung. Im Antragsverfahren nachzureichende Erklärungen können im Wege der Datenübertragung abgegeben werden. Der Passbewerber und sein gesetzlicher Vertreter können sich bei der Stellung des Antrags nicht durch einen Bevollmächtigten vertreten lassen. Dies gilt nicht für einen handlungs- oder einwilligungsunfähigen Passbewerber, wenn eine für diesen Fall erteilte, öffentlich beglaubigte oder beurkundete Vollmacht vorliegt. Für Minderjährige und für Personen, die geschäftsunfähig sind und sich nicht nach Satz 5 durch einen Bevollmächtigten vertreten lassen, kann nur derjenige den Antrag stellen, der als Sorgeberechtigter ihren Aufenthalt zu bestimmen hat. Der Passbewerber und sein gesetzlicher oder bevollmächtigter Vertreter sollen persönlich erscheinen. Ist der Passbewerber am persönlichen Erscheinen gehindert, kann nur ein vorläufiger Reisepass beantragt werden.
 
@@ -162,8 +153,7 @@ Versionsnummer des Passmusters,
 
 (5) Die Absätze 1 bis 4 gelten auch für die Ausstellung von ausschließlich als Paßersatz bestimmten amtlichen Ausweisen, sofern in den für sie geltenden Rechtsvorschriften nichts anderes bestimmt ist.
 
-
-## § 6a – Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung
+# § 6a – Form und Verfahren der Passdatenerfassung, -prüfung und -übermittlung; Verordnungsermächtigung
 
 (1) Die Datenübermittlung von den Passbehörden an den Passhersteller zum Zweck der Passherstellung, insbesondere die Übermittlung sämtlicher Passantragsdaten, erfolgt durch Datenübertragung. Die Datenübertragung kann auch über Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der übermittelnden Stelle gewährleisten; im Fall der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
@@ -187,8 +177,7 @@ Versionsnummer des Passmusters,
 
 Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 2 zusätzlich im Benehmen mit dem Bundesministerium für Wirtschaft und Energie.
 
-
-## § 7 – Paßversagung
+# § 7 – Paßversagung
 
 (1) Der Paß ist zu versagen, wenn bestimmte Tatsachen die Annahme begründen, daß der Paßbewerber
 
@@ -222,18 +211,15 @@ Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Auswärtigen Amt, Rec
 
 (5) (weggefallen)
 
-
-## § 8 – Paßentziehung
+# § 8 – Paßentziehung
 
 Ein Paß oder ein ausschließlich als Paßersatz bestimmter amtlicher Ausweis kann dem Inhaber entzogen werden, wenn Tatsachen bekanntwerden, die nach § 7 Abs. 1 die Paßversagung rechtfertigen würden.
 
-
-## § 9 – Speicherung von paßrechtlichen Maßnahmen
+# § 9 – Speicherung von paßrechtlichen Maßnahmen
 
 Anordnungen nach § 7 Abs. 1 oder 2 oder § 8 dürfen im polizeilichen Grenzfahndungsbestand gespeichert werden.
 
-
-## § 10 – Untersagung der Ausreise
+# § 10 – Untersagung der Ausreise
 
 (1) Die für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden haben einem Deutschen, dem nach § 7 Abs. 1 ein Paß versagt oder nach § 8 ein Paß entzogen worden ist oder gegen den eine Anordnung nach § 6 Abs. 7 des Personalausweisgesetzes ergangen ist, die Ausreise in das Ausland zu untersagen. Sie können einem Deutschen die Ausreise in das Ausland untersagen, wenn Tatsachen die Annahme rechtfertigen, daß bei ihm die Voraussetzungen nach § 7 Abs. 1 vorliegen oder wenn er keinen zum Grenzübertritt gültigen Paß oder Paßersatz mitführt. Sie können einem Deutschen die Ausreise in das Ausland auch untersagen, wenn Tatsachen die Annahme rechtfertigen, daß der Geltungsbereich oder die Gültigkeitsdauer seines Passes nach § 7 Abs. 2 Satz 1 zu beschränken ist.
 
@@ -241,8 +227,7 @@ Anordnungen nach § 7 Abs. 1 oder 2 oder § 8 dürfen im polizeilichen Grenzfahn
 
 (3) Die Einreise in den Geltungsbereich dieses Gesetzes darf einem Deutschen nicht versagt werden.
 
-
-## § 11 – Ungültigkeit
+# § 11 – Ungültigkeit
 
 (1) Ein Paß oder Paßersatz ist ungültig, wenn
 
@@ -264,8 +249,7 @@ b) rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung interna
 
 (3) Störungen der Funktionsfähigkeit des elektronischen Speichermediums berühren nicht die Gültigkeit des Passes.
 
-
-## § 12 – Einziehung
+# § 12 – Einziehung
 
 (1) Ein nach § 11 ungültiger Paß oder Paßersatz kann eingezogen werden. Die Einziehung ist schriftlich zu bestätigen.
 
@@ -273,8 +257,7 @@ b) rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung interna
 
 (3) Von der Einziehung kann abgesehen werden, wenn der Mangel, der sie rechtfertigt, geheilt oder fortgefallen ist.
 
-
-## § 13 – Sicherstellung
+# § 13 – Sicherstellung
 
 (1) Ein Paß oder ein ausschließlich als Paßersatz bestimmter amtlicher Ausweis kann sichergestellt werden, wenn
 
@@ -288,13 +271,11 @@ b) rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung interna
 
 (3) (weggefallen)
 
-
-## § 14 – Sofortige Vollziehung
+# § 14 – Sofortige Vollziehung
 
 Widerspruch und Anfechtungsklage gegen die Beschränkung des Geltungsbereiches oder der Gültigkeitsdauer des Passes (§ 7 Absatz 2), gegen die Passentziehung (§ 8), gegen die Untersagung der Ausreise (§ 10) und gegen die Sicherstellung des Passes (§ 13) haben keine aufschiebende Wirkung.
 
-
-## § 15 – Pflichten des Inhabers
+# § 15 – Pflichten des Inhabers
 
 Der Inhaber eines Passes ist verpflichtet, der Paßbehörde unverzüglich
 
@@ -308,8 +289,7 @@ Der Inhaber eines Passes ist verpflichtet, der Paßbehörde unverzüglich
 
 5. anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkräfte oder einen vergleichbaren bewaffneten Verband eines ausländischen Staates, dessen Staatsangehörigkeit er besitzt, eingetreten ist.
 
-
-## § 16 – Datenschutzrechtliche Bestimmungen
+# § 16 – Datenschutzrechtliche Bestimmungen
 
 (1) Die Seriennummer und die Prüfziffern dürfen keine Daten über die Person des Paßinhabers oder Hinweise auf solche Daten enthalten. Jeder Paß erhält eine neue Seriennummer.
 
@@ -335,13 +315,11 @@ c) ob der Pass für ungültig erklärt oder abhandengekommen ist.
 
 (7) Der Passhersteller hat öffentlichen Stellen auf deren Verlangen die ausstellende Behörde mitzuteilen.
 
-
-## § 16a – Identitätsüberprüfung anhand biometrischer Daten
+# § 16a – Identitätsüberprüfung anhand biometrischer Daten
 
 Die im Chip des Passes gespeicherten Daten dürfen nur zum Zweck der Überprüfung der Echtheit des Dokumentes oder der Identität des Passinhabers und nur nach Maßgabe der Sätze 2 und 3 ausgelesen und verwendet werden. Soweit die Polizeivollzugsbehörden, die Zollverwaltung sowie die Pass-, Personalausweis- und Meldebehörden die Echtheit des Passes oder die Identität des Inhabers überprüfen dürfen, sind sie befugt, die auf dem elektronischen Speichermedium des Passes gespeicherten biometrischen und sonstigen Daten auszulesen, die benötigten biometrischen Daten beim Passinhaber zu erheben und die biometrischen Daten miteinander zu vergleichen. Die nach Satz 2 erhobenen Daten sind unverzüglich nach Beendigung der Prüfung der Echtheit des Passes oder der Identität des Inhabers zu löschen.
 
-
-## § 17 – Automatischer Abruf aus Dateien und automatische Speicherung im öffentlichen Bereich
+# § 17 – Automatischer Abruf aus Dateien und automatische Speicherung im öffentlichen Bereich
 
 (1) Behörden und sonstige öffentliche Stellen dürfen den Paß nicht zum automatischen Abruf personenbezogener Daten verwenden. Abweichend von Satz 1 dürfen die Polizeibehörden und -dienststellen des Bundes und der Länder, die Steuerfahndungsstellen der Länder und die Behörden der Zollverwaltung den Pass im Rahmen ihrer Aufgaben und Befugnisse zum automatisierten Abruf personenbezogener Daten verwenden, die für die Zwecke
 
@@ -355,8 +333,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (2) Personenbezogene Daten dürfen, soweit gesetzlich nichts anderes bestimmt ist, beim automatischen Lesen des Passes nicht in Dateien gespeichert werden; dies gilt auch für Abrufe aus dem polizeilichen Fahndungsbestand, die zu einer Feststellung geführt haben.
 
-
-## § 18 – Verwendung im nichtöffentlichen Bereich
+# § 18 – Verwendung im nichtöffentlichen Bereich
 
 (1) Der Paß oder ein Paßersatz können auch im nichtöffentlichen Bereich als Ausweis- und Legitimationspapier benutzt werden.
 
@@ -366,8 +343,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der maschinenlesbaren Zone des Passes elektronisch nur auslesen und verarbeiten, soweit sie auf Grund internationaler Abkommen oder Einreisebestimmungen zur Mitwirkung an Kontrolltätigkeiten im internationalen Reiseverkehr und zur Übermittlung personenbezogener Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen werden. Die Daten sind unverzüglich zu löschen, wenn sie für die Erfüllung dieser Pflichten nicht mehr erforderlich sind.
 
-
-## § 19 – Zuständigkeit
+# § 19 – Zuständigkeit
 
 (1) Für Paßangelegenheiten im Geltungsbereich dieses Gesetzes sind die von den Ländern bestimmten Behörden zuständig (Paßbehörden). Die Ausstellung ausschließlich als Paßersatz bestimmter amtlicher Ausweise mit kurzer Gültigkeitsdauer obliegt den für die polizeiliche Kontrolle des grenzüberschreitenden Verkehrs zuständigen Behörden und Dienststellen.
 
@@ -381,8 +357,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (6) Für die Sicherstellung sind die Paßbehörden und die zur Feststellung von Personalien ermächtigten Behörden und Beamten zuständig.
 
-
-## § 20 – Gebühren und Auslagen, Verordnungsermächtigung
+# § 20 – Gebühren und Auslagen, Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben die Passbehörden Gebühren und Auslagen nach den Absätzen 2 und 3.
 
@@ -392,8 +367,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22 Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den Auslandsvertretungen der Bundesrepublik Deutschland für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann bis zu 300 Prozent der Gebühren betragen.
 
-
-## § 21 – Paßregister
+# § 21 – Paßregister
 
 (1) Die Paßbehörden führen Paßregister.
 
@@ -443,8 +417,7 @@ im polizeilichen Fahndungstatbestand geführt werden. Über Abrufe, die zu keine
 
 (5) Die zuständige Passbehörde führt den Nachweis über Pässe, für die sie eine Ermächtigung gemäß § 19 Abs. 4 Satz 2 erteilt hat.
 
-
-## § 22 – Verarbeitung und Nutzung der Daten im Paßregister
+# § 22 – Verarbeitung und Nutzung der Daten im Paßregister
 
 (1) Die Paßbehörden dürfen personenbezogene Daten nur nach Maßgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben, verarbeiten oder nutzen.
 
@@ -466,8 +439,7 @@ Hinsichtlich der Daten, die auch im Melderegister enthalten sind, finden außerd
 
 (6) Stellt eine nicht zuständige Passbehörde nach § 19 Abs. 4 einen Pass aus, so hat sie der zuständigen Passbehörde den Familiennamen, die Vornamen, den Tag und Ort der Geburt, die ausstellende Passbehörde, das Ausstellungsdatum, die Gültigkeitsdauer und die Seriennummer des Passes zu übermitteln.
 
-
-## § 22a – Datenübertragung und automatisierter Abruf von Lichtbildern
+# § 22a – Datenübertragung und automatisierter Abruf von Lichtbildern
 
 (1) In den Fällen des § 22 Abs. 2 kann die Übermittlung auch durch Datenübertragung erfolgen. § 6a Abs. 1 Satz 3 gilt entsprechend.
 
@@ -493,15 +465,13 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 § 22 Abs. 3 Satz 5 gilt entsprechend.
 
-
-## § 23 – Weisungsbefugnis
+# § 23 – Weisungsbefugnis
 
 (1) Die Bundesregierung kann Einzelweisungen zur Ausführung dieses Gesetzes und der hierzu erlassenen Rechtsverordnungen erteilen, wenn die innere oder äußere Sicherheit oder sonstige erhebliche Belange der Bundesrepublik Deutschland es erfordern.
 
 (2) (weggefallen)
 
-
-## § 24 – Straftaten
+# § 24 – Straftaten
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer als Deutscher im Sinne des Artikels 116 Abs. 1 des Grundgesetzes
 
@@ -511,8 +481,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (2) Der Versuch ist strafbar.
 
-
-## § 25 – Ordnungswidrigkeiten
+# § 25 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer fahrlässig eine der in § 24 Abs. 1 Nr. 1 bezeichneten Handlungen begeht.
 
@@ -540,8 +509,7 @@ zuständigen Behörden das Lichtbild sowie die Unterschrift der antragstellenden
 
 (6) In den Fällen des Absatzes 2 Nummer 2 und 4 kann die Tat auch dann geahndet werden, wenn sie im Ausland begangen wird.
 
-
-## § 26 – Bußgeldbehörden
+# § 26 – Bußgeldbehörden
 
 Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind
 
@@ -549,13 +517,11 @@ Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungs
 
 2. die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörden, soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
 
-
-## § 27 – Allgemeine Verwaltungsvorschriften
+# § 27 – Allgemeine Verwaltungsvorschriften
 
 Das Auswärtige Amt erlässt im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat allgemeine Verwaltungsvorschriften über das Ausstellen amtlicher Pässe.
 
-
-## § 28 – Übergangsregelungen
+# § 28 – Übergangsregelungen
 
 (1) Als Pass im Sinne dieses Gesetzes gelten auch Kinderreisepässe, die vor dem 1. November 2007 auf Grund einer Rechtsverordnung nach § 2 Abs. 1 Nr. 2 als Passersatz ausgestellt worden sind, wenn diese maschinenlesbar und mit einem digitalen Lichtbild versehen sind. Abweichend von § 1 Abs. 3 ist der Besitz eines Kinderreisepasses im Sinne des Satzes 1 neben einem Reisepass zulässig, soweit der Reisepass vor Inkrafttreten dieses Gesetzes ausgestellt wurde.
 

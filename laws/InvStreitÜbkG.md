@@ -1,20 +1,15 @@
-# [InvStreitÜbkG] Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten
-
-Ausfertigungsdatum: 25.02.1969
-
+% Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten
+% Ausfertigungsdatum: 25.02.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Washington am 27. Januar 1966 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Die auf Grund des Übereinkommens ergangenen Schiedssprüche (Artikel 53 Abs. 2 des Übereinkommens) sind vollstreckbar, wenn die Zulässigkeit der Zwangsvollstreckung aus dem Schiedsspruch gerichtlich festgestellt worden ist. Hat ein Verfahren nach Artikel 50 des Übereinkommens stattgefunden, so ist festzustellen, daß die Zwangsvollstreckung aus dem Schiedsspruch in Verbindung mit der Entscheidung über die Auslegung des Schiedsspruches zulässig ist.
 
@@ -28,18 +23,15 @@ Dem in Washington am 27. Januar 1966 von der Bundesrepublik Deutschland unterzei
 
 (6) (weggefallen)
 
-
-## Art 3
+# Art 3
 
 Wird die Zwangsvollstreckung des Schiedsspruches ausgesetzt (Artikel 50 Abs. 2 Satz 3, Artikel 51 Abs. 4, Artikel 52 Abs. 5 des Übereinkommens), so ist auf Antrag des Schuldners das Verfahren, in dem die Zulässigkeit der Zwangsvollstreckung festgestellt wird, auszusetzen oder die Zwangsvollstreckung einstweilen einzustellen. Endet die Aussetzung der Vollstreckung des Schiedsspruches, so wird das Verfahren, in dem die Zulässigkeit der Zwangsvollstreckung festgestellt wird, auf Antrag fortgesetzt; das Vollstreckungsgericht entscheidet auf Antrag des Gläubigers über die Fortsetzung des Zwangsvollstreckungsverfahrens.
 
-
-## Art 4
+# Art 4
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt.
 
-
-## Art 5
+# Art 5
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -1,20 +1,15 @@
-# [JurAusbRefG] Gesetz zur Reform der Juristenausbildung
-
-Ausfertigungsdatum: 11.07.2002
-
+% Gesetz zur Reform der Juristenausbildung
+% Ausfertigungsdatum: 11.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 und 2 – ----
+# Art 1 und 2 – ----
 
 \-
 
-
-## Art 3 – Übergangsvorschriften
+# Art 3 – Übergangsvorschriften
 
 (1) Für Studierende, die vor Inkrafttreten dieses Gesetzes das Studium aufgenommen haben und sich bis zum 1. Juli 2006 zur ersten Staatsprüfung gemeldet haben, finden die bis zum Inkrafttreten dieses Gesetzes geltenden Vorschriften des Deutschen Richtergesetzes zum Studium und zur ersten Staatsprüfung Anwendung. Das Landesrecht kann den Studierenden freistellen, sich nach neuem Recht prüfen zu lassen.
 
@@ -22,7 +17,6 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) § 6 Abs. 2 des Deutschen Richtergesetzes gilt entsprechend.
 
-
-## Art 4 – Inkrafttreten
+# Art 4 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 2003 in Kraft.

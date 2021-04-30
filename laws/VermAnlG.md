@@ -1,13 +1,9 @@
-# [VermAnlG] Gesetz über Vermögensanlagen  (Vermögensanlagengesetz - VermAnlG)
-
-Ausfertigungsdatum: 06.12.2011
-
+% Gesetz über Vermögensanlagen  (Vermögensanlagengesetz - VermAnlG)
+% Ausfertigungsdatum: 06.12.2011
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich und Begriffsbestimmungen
+# § 1 – Anwendungsbereich und Begriffsbestimmungen
 
 (1) Dieses Gesetz ist auf Vermögensanlagen anzuwenden, die im Inland öffentlich angeboten werden.
 
@@ -31,15 +27,13 @@ sofern die Annahme der Gelder nicht als Einlagengeschäft im Sinne des § 1 Absa
 
 (3) Emittent im Sinne dieses Gesetzes ist die Person oder die Gesellschaft, deren Vermögensanlagen auf Grund eines öffentlichen Angebots im Inland ausgegeben sind.
 
-
-## § 2 – Ausnahmen für einzelne Arten von Vermögensanlagen
+# § 2 – Ausnahmen für einzelne Arten von Vermögensanlagen
 
 (1) Die §§ 5a bis 26 mit Ausnahme von § 18 Absatz 2 und 3 sowie § 19 Absatz 1 Nummer 3 und 4 dieses Gesetzes sind nicht anzuwenden auf
 
 1. Anteile an einer Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes, wenn für den Vertrieb der Anteile keine erfolgsabhängige Vergütung gezahlt wird,
 
-1a.  
-Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3, 4 und 7, deren Emittent eine Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes ist und die ausschließlich den Mitgliedern der Genossenschaft angeboten werden, wenn für den Vertrieb der Vermögensanlagen keine erfolgsabhängige Vergütung gezahlt wird,
+1a. Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3, 4 und 7, deren Emittent eine Genossenschaft im Sinne des § 1 des Genossenschaftsgesetzes ist und die ausschließlich den Mitgliedern der Genossenschaft angeboten werden, wenn für den Vertrieb der Vermögensanlagen keine erfolgsabhängige Vergütung gezahlt wird,
 
 2. Vermögensanlagen, die von Versicherungsunternehmen oder Pensionsfonds im Sinne der §§ 1 und 236 des Versicherungsaufsichtsgesetzes emittiert werden,
 
@@ -75,8 +69,7 @@ e) von einer Gesellschaft oder juristischen Person mit Sitz in einem Mitgliedsta
 
 (2) In den Angeboten nach Absatz 1 Nummer 1a und 3 ist darauf hinzuweisen, dass eine Prospektpflicht nicht besteht. Bei Angeboten nach Absatz 1 Nummer 1a hat der Vorstand der Genossenschaft dafür zu sorgen, dass den Mitgliedern der Genossenschaft vor Vertragsschluss die wesentlichen Informationen über die Vermögensanlage zur Verfügung gestellt werden.
 
-
-## § 2a – Befreiungen für Schwarmfinanzierungen
+# § 2a – Befreiungen für Schwarmfinanzierungen
 
 (1) Die §§ 5a, 6 bis 11a, 12 Absatz 1, § 14 Absatz 1 Satz 1 und Absatz 3 Satz 1, die §§ 15a, 17, 18 Absatz 1 Nummer 2 bis 6, § 19 Absatz 1 Nummer 2, die §§ 20, 21, 23 Absatz 2 Nummer 2 und 4, § 24 Absatz 5 bis 8 und § 25 sind nicht anzuwenden auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 bis 5 und 7, wenn der Verkaufspreis sämtlicher in einem Zeitraum von zwölf Monaten angebotenen Vermögensanlagen desselben Emittenten 6 Millionen Euro nicht übersteigt; nicht verkaufte oder vollständig getilgte Vermögensanlagen werden nicht angerechnet.
 
@@ -100,8 +93,7 @@ Die in Satz 1 genannten Beträge gelten nicht für einen Anleger, der eine Kapit
 
 2. der Emittent mit dem Unternehmen, das die Internet-Dienstleistungsplattform betreibt, gemäß § 15 des Aktiengesetzes verbunden ist.
 
-
-## § 2b – Befreiungen für soziale Projekte
+# § 2b – Befreiungen für soziale Projekte
 
 (1) Auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 und 4 sind die §§ 5a, 6 bis 11a, 12 Absatz 1, § 14 Absatz 1 Satz 1 und Absatz 3 Satz 1, die §§ 15a, 17, 18 Absatz 1 Nummer 2 bis 6, § 19 Absatz 1 Nummer 2, die §§ 20, 21, 23 Absatz 2 Nummer 2 und 4, § 24 Absatz 5 bis 8 und § 25 nicht anzuwenden, wenn
 
@@ -125,8 +117,7 @@ b) der marktüblichen Emissionsrendite für Anlagen am Kapitalmarkt in Hypotheke
 
 § 267a Absatz 1 Satz 2 und 3 des Handelsgesetzbuchs ist entsprechend anzuwenden.
 
-
-## § 2c – Befreiungen für gemeinnützige Projekte und Religionsgemeinschaften
+# § 2c – Befreiungen für gemeinnützige Projekte und Religionsgemeinschaften
 
 (1) Auf Vermögensanlagen im Sinne von § 1 Absatz 2 Nummer 3 und 4 sind die §§ 5a, 6 bis 11a, 12 Absatz 1, die §§ 13 bis 15a, 17, 18 Absatz 1 Nummer 2 bis 7, § 19 Absatz 1 Nummer 2, die §§ 20 bis 22, 23 Absatz 2 Nummer 2 und 4, § 24 Absatz 5 bis 8 und § 25 nicht anzuwenden, wenn
 
@@ -148,8 +139,7 @@ b) der marktüblichen Emissionsrendite für Anlagen am Kapitalmarkt in Hypotheke
 
 2. inländischen Kirchen oder Religionsgemeinschaften, die in der Rechtsform einer Körperschaft des öffentlichen Rechts verfasst sind und auf Grund des Artikels 140 des Grundgesetzes in Verbindung mit Artikel 137 Absatz 6 der Weimarer Reichsverfassung vom 11. August 1919 (RGBl. S. 1383) Steuern erheben oder am Steueraufkommen der steuererhebenden kirchlichen Körperschaften teilhaben.
 
-
-## § 2d – Widerrufsrecht
+# § 2d – Widerrufsrecht
 
 (1) Der Anleger ist an seine Willenserklärung, die auf den Abschluss eines Vertrags über eine Vermögensanlage im Sinne der §§ 2a bis 2c gerichtet ist, nicht mehr gebunden, wenn er sie fristgerecht in Textform widerrufen hat. Zur Fristwahrung genügt die rechtzeitige Absendung des Widerrufs.
 
@@ -161,13 +151,11 @@ b) der marktüblichen Emissionsrendite für Anlagen am Kapitalmarkt in Hypotheke
 
 (5) Von den Vorschriften dieses Paragraphen darf nicht zum Nachteil des Anlegers abgewichen werden.
 
-
-## § 3 – Aufsicht, Anordnungsbefugnis
+# § 3 – Aufsicht, Anordnungsbefugnis
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt) übt die Aufsicht über das Angebot von Vermögensanlagen nach den Vorschriften dieses Gesetzes aus. Die Bundesanstalt ist befugt, im Rahmen der Aufsicht alle Anordnungen zu treffen, die erforderlich und geeignet sind, um das Angebot von Vermögensanlagen mit diesem Gesetz und den auf Grund dieses Gesetzes erlassenen Bestimmungen im Einklang zu erhalten.
 
-
-## § 4 – Verschwiegenheitspflicht
+# § 4 – Verschwiegenheitspflicht
 
 (1) Die bei der Bundesanstalt Beschäftigten und die nach § 4 Absatz 3 des Finanzdienstleistungsaufsichtsgesetzes beauftragten Personen dürfen die ihnen bei ihrer Tätigkeit bekannt gewordenen Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse sowie personenbezogene Daten, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. Dies gilt auch für andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an
 
@@ -183,8 +171,7 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 2. von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht über direkt von der Europäischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der Europäischen Zentralbank und den nationalen zuständigen Behörden und den nationalen benannten Behörden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen Zentralbank geheim sind.
 
-
-## § 5 – Bekanntgabe und Zustellung
+# § 5 – Bekanntgabe und Zustellung
 
 (1) Verfügungen, die gegenüber einer Person mit Wohnsitz im Ausland oder einem Unternehmen mit Sitz im Ausland ergehen, hat die Bundesanstalt derjenigen Person bekannt zu geben, die als Bevollmächtigte benannt wurde. Ist keine bevollmächtigte Person mit Sitz im Inland benannt, erfolgt die Bekanntgabe durch öffentliche Bekanntmachung im Bundesanzeiger.
 
@@ -192,25 +179,21 @@ soweit diese Stellen die Informationen zur Erfüllung ihrer Aufgaben benötigen.
 
 (3) Ein Emittent von Vermögensanlagen mit Sitz im Ausland hat der Bundesanstalt eine bevollmächtigte Person mit Sitz im Inland zu benennen, an die Bekanntgaben nach Absatz 1 und Zustellungen nach Absatz 2 erfolgen können. Die Benennung hat gleichzeitig mit der Einreichung des Verkaufsprospekts zur Billigung nach § 8 zu erfolgen.
 
-
-## § 5a – Laufzeit von Vermögensanlagen
+# § 5a – Laufzeit von Vermögensanlagen
 
 Vermögensanlagen müssen eine Laufzeit von mindestens 24 Monaten ab dem Zeitpunkt des erstmaligen Erwerbs und eine ordentliche Kündigungsfrist von mindestens sechs Monaten vorsehen. Bei Vermögensanlagen nach § 1 Absatz 2 Nummer 1 und 2 ist eine Kündigung nur zum Schluss eines Geschäftsjahres zulässig, sofern der Gesellschaftsvertrag oder die Anlagebedingungen nichts Abweichendes vorsehen.
 
-
-## § 5b – Nicht zugelassene Vermögensanlagen
+# § 5b – Nicht zugelassene Vermögensanlagen
 
 Vermögensanlagen, die eine Nachschusspflicht vorsehen, sind zum öffentlichen Angebot oder Vertrieb im Inland nicht zugelassen.
 
-
-## § 6 – Pflicht zur Veröffentlichung eines Verkaufsprospekts
+# § 6 – Pflicht zur Veröffentlichung eines Verkaufsprospekts
 
 Ein Anbieter, der im Inland Vermögensanlagen öffentlich anbietet, muss einen Verkaufsprospekt nach diesem Gesetz veröffentlichen, sofern nicht bereits nach anderen Vorschriften eine Prospektpflicht besteht oder ein gültiger Verkaufsprospekt nach den Vorschriften dieses Gesetzes bereits veröffentlicht worden ist.
 
 (+++ § 6: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 7 – Inhalt des Verkaufsprospekts; Verordnungsermächtigung
+# § 7 – Inhalt des Verkaufsprospekts; Verordnungsermächtigung
 
 (1) Der Verkaufsprospekt muss alle tatsächlichen und rechtlichen Angaben enthalten, die notwendig sind, um dem Publikum eine zutreffende Beurteilung des Emittenten der Vermögensanlagen und der Vermögensanlagen selbst einschließlich der Anlegergruppe, auf die die Vermögensanlage abzielt, zu ermöglichen. Bestehen die Vermögensanlagen aus Anteilen an einem Treuhandvermögen und besteht dieses ganz oder teilweise aus einem Anteil an einer Gesellschaft, so muss der Verkaufsprospekt auch die entsprechenden Angaben zu dieser Gesellschaft enthalten.
 
@@ -222,8 +205,7 @@ Ein Anbieter, der im Inland Vermögensanlagen öffentlich anbietet, muss einen V
 
 2. die Beschreibung der angebotenen Vermögensanlagen und ihre Hauptmerkmale sowie die verfolgten Anlageziele der Vermögensanlage einschließlich der finanziellen Ziele und der Anlagepolitik,
 
-2a.  
-die erforderlichen Angaben zu der Anlegergruppe, auf die die Vermögensanlage abzielt, vor allem im Hinblick auf den Anlagehorizont des Anlegers und zu möglichen Verlusten, die sich aus der Anlage ergeben können,
+2a. die erforderlichen Angaben zu der Anlegergruppe, auf die die Vermögensanlage abzielt, vor allem im Hinblick auf den Anlagehorizont des Anlegers und zu möglichen Verlusten, die sich aus der Anlage ergeben können,
 
 3. die erforderlichen Angaben über die Gesellschaft im Sinne des Absatzes 1 Satz 2,
 
@@ -241,8 +223,7 @@ In der Rechtsverordnung nach Satz 1 können auch Ausnahmen bestimmt werden, in d
 
 (+++ § 7: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 8 – Billigung des Verkaufsprospekts
+# § 8 – Billigung des Verkaufsprospekts
 
 (1) Ein Verkaufsprospekt darf vor seiner Billigung nicht veröffentlicht werden. Die Bundesanstalt entscheidet über die Billigung nach Abschluss einer Vollständigkeitsprüfung des Verkaufsprospekts einschließlich einer Prüfung der Kohärenz und Verständlichkeit seines Inhalts. Bei der Prüfung der Kohärenz prüft die Bundesanstalt insbesondere, ob für das laufende und das folgende Geschäftsjahr die Vermögens-, Finanz- und Ertragslage des Emittenten, die Geschäftsaussichten sowie ihre Auswirkungen auf die Fähigkeit des Emittenten, seinen Verpflichtungen gegenüber dem Anleger nachzukommen, im Verkaufsprospekt widerspruchsfrei dargestellt werden.
 
@@ -252,13 +233,11 @@ In der Rechtsverordnung nach Satz 1 können auch Ausnahmen bestimmt werden, in d
 
 (+++ § 8: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 8a – Gültigkeit des Verkaufsprospekts
+# § 8a – Gültigkeit des Verkaufsprospekts
 
 Ein Verkaufsprospekt ist nach seiner Billigung zwölf Monate lang für öffentliche Angebote gültig, sofern er um die nach § 11 erforderlichen Nachträge ergänzt wird.
 
-
-## § 9 – Frist und Form der Veröffentlichung
+# § 9 – Frist und Form der Veröffentlichung
 
 (1) Der Verkaufsprospekt muss mindestens einen Werktag vor dem öffentlichen Angebot nach Maßgabe des Absatzes 2 Satz 1 und 2 veröffentlicht werden.
 
@@ -272,15 +251,13 @@ Werden Vermögensanlagen über ein elektronisches Informationsverbreitungssystem
 
 (+++ § 9: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 10 – Mitteilung der Beendigung des öffentlichen Angebots und der vollständigen Tilgung
+# § 10 – Mitteilung der Beendigung des öffentlichen Angebots und der vollständigen Tilgung
 
 (1) Der Anbieter hat der Bundesanstalt die Beendigung des öffentlichen Angebots sowie die vollständige Tilgung der Vermögensanlage unter Angabe des jeweiligen Datums, der konkreten Bezeichnung der Vermögensanlage und des Emittenten unverzüglich schriftlich oder elektronisch mitzuteilen. Die vollständige Tilgung der Vermögensanlage ist erfolgt, wenn die Hauptforderung sowie alle Nebenleistungen gezahlt sind.
 
 (2) Bis zum Eingang der betreffenden Mitteilung nach Absatz 1 Satz 1 bei der Bundesanstalt gilt das öffentliche Angebot oder die Tilgung der Vermögensanlage als fortdauernd. Unterlässt der Anbieter die Mitteilung nach Absatz 1 Satz 1, gilt das öffentliche Angebot im Hinblick auf die Pflichten nach den §§ 11 und 11a mit dem Ablauf der Gültigkeit des Verkaufsprospekts als beendet.
 
-
-## § 11 – Veröffentlichung ergänzender Angaben
+# § 11 – Veröffentlichung ergänzender Angaben
 
 (1) Jeder wichtige neue Umstand oder jede wesentliche Unrichtigkeit in Bezug auf die im Verkaufsprospekt enthaltenen Angaben, die die Beurteilung der Vermögensanlagen oder des Emittenten beeinflussen könnten und die nach der Billigung des Prospekts und während der Dauer des öffentlichen Angebots auftreten oder festgestellt werden, ist in einem Nachtrag zum Verkaufsprospekt gemäß Satz 5 zu veröffentlichen. Ein wichtiger neuer Umstand im Sinne von Satz 1 ist insbesondere
 
@@ -298,8 +275,7 @@ Der Anbieter hat den Nachtrag vor seiner Veröffentlichung bei der Bundesanstalt
 
 (+++ § 11: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 11a – Veröffentlichungspflichten nach Beendigung des öffentlichen Angebots; Verordnungsermächtigung
+# § 11a – Veröffentlichungspflichten nach Beendigung des öffentlichen Angebots; Verordnungsermächtigung
 
 (1) Der Emittent einer Vermögensanlage ist nach Beendigung des öffentlichen Angebots einer Vermögensanlage verpflichtet, jede Tatsache, die sich auf ihn oder die von ihm emittierte Vermögensanlage unmittelbar bezieht und nicht öffentlich bekannt ist, unverzüglich gemäß Absatz 3 Satz 1 zu veröffentlichen, wenn sie geeignet ist, die Fähigkeit des Emittenten zur Erfüllung seiner Verpflichtungen gegenüber dem Anleger erheblich zu beeinträchtigen. Die Verpflichtung entfällt mit der vollständigen Tilgung der Vermögensanlage.
 
@@ -315,8 +291,7 @@ Der Anbieter hat den Nachtrag vor seiner Veröffentlichung bei der Bundesanstalt
 
 Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
-
-## § 12 – Werbung für Vermögensanlagen
+# § 12 – Werbung für Vermögensanlagen
 
 (1) Der Anbieter hat dafür zu sorgen, dass in Werbung für öffentlich angebotene Vermögensanlagen, in der auf die wesentlichen Merkmale der Vermögensanlage hingewiesen wird, ein Hinweis auf den Verkaufsprospekt und dessen Veröffentlichung aufgenommen wird.
 
@@ -334,8 +309,7 @@ Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung
 
 (+++ § 12: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 13 – Vermögensanlagen-Informationsblatt
+# § 13 – Vermögensanlagen-Informationsblatt
 
 (1) Ein Anbieter, der im Inland Vermögensanlagen öffentlich anbietet, muss vor dem Beginn des öffentlichen Angebots neben dem Verkaufsprospekt oder im Fall der §§ 2a und 2b ein Vermögensanlagen-Informationsblatt erstellen und bei der Bundesanstalt hinterlegen, sofern für die Vermögensanlagen kein Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des Rates vom 26. November 2014 über Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L 358 vom 13.12.2014, S. 50), die durch die Verordnung (EU) 2016/2340 (ABl. L 354 vom 23.12.2016, S. 35) geändert worden ist, veröffentlicht werden muss.
 
@@ -393,15 +367,13 @@ einschätzen und mit den Merkmalen anderer Finanzinstrumente bestmöglich vergle
 
 (+++ § 13: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 13a – Frist und Form der Veröffentlichung eines Vermögensanlagen-Informationsblatts
+# § 13a – Frist und Form der Veröffentlichung eines Vermögensanlagen-Informationsblatts
 
 (1) Das hinterlegte Vermögensanlagen-Informationsblatt muss mindestens einen Werktag vor dem öffentlichen Angebot auf der Internetseite des Anbieters veröffentlicht und bei den im Verkaufsprospekt angegebenen Stellen zur kostenlosen Ausgabe bereitgehalten werden. Die aktuelle Fassung des Vermögensanlagen-Informationsblatts muss für die Dauer des öffentlichen Angebots nach Satz 1 zugänglich sein und bereitgehalten werden.
 
 (2) Ist die Erstellung eines Verkaufsprospekts nach § 2a oder § 2b entbehrlich, muss das Vermögensanlagen-Informationsblatt entsprechend den Vorgaben des Absatzes 1 auf der Internetseite der Internet-Dienstleistungsplattform und des Anbieters ohne Zugriffsbeschränkungen für jedermann zugänglich sein.
 
-
-## § 14 – Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts
+# § 14 – Hinterlegung des Verkaufsprospekts und des Vermögensanlagen-Informationsblatts
 
 (1) Der Anbieter muss den für die Vermögensanlagen zu erstellenden Verkaufsprospekt vor dessen Veröffentlichung der Bundesanstalt als Hinterlegungsstelle übermitteln. Zeitgleich mit der Hinterlegung nach Satz 1 hat der Anbieter zudem das nach § 13 erstellte Vermögensanlagen-Informationsblatt bei der Bundesanstalt zu hinterlegen.
 
@@ -411,8 +383,7 @@ einschätzen und mit den Merkmalen anderer Finanzinstrumente bestmöglich vergle
 
 (+++ § 14: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 15 – Anlegerinformation
+# § 15 – Anlegerinformation
 
 (1) Der Anbieter hat einem Anleger oder einem am Erwerb einer Vermögensanlage Interessierten auf dessen Verlangen während der Dauer des öffentlichen Angebots nach § 11 Satz 1 jederzeit den Verkaufsprospekt und eine aktuelle Fassung des nach § 13 erstellten Vermögensanlagen-Informationsblatts in Textform, auf Verlangen in Papierform zu übermitteln. Der Emittent hat einem Anleger oder einem am Erwerb einer Vermögensanlage Interessierten auf dessen Verlangen jederzeit den letzten veröffentlichten Jahresabschluss und Lagebericht in Textform, auf Verlangen in Papierform, zu übermitteln. Auf Antrag einer Person, die in Bezug auf Vermögensanlagen Anlageberatung, Anlage- oder Abschlussvermittlung erbringt oder Vermögensanlagen verkauft, hat der Anbieter dieser Person das nach § 13 erstellte Vermögensanlagen-Informationsblatt in Textform zu übermitteln.
 
@@ -432,13 +403,11 @@ einschätzen und mit den Merkmalen anderer Finanzinstrumente bestmöglich vergle
 
 (+++ § 15: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 15a – Zusätzliche Angaben
+# § 15a – Zusätzliche Angaben
 
 Ist bei der Bundesanstalt ein Verkaufsprospekt zur Billigung eingereicht worden, kann sie vom Anbieter die Aufnahme zusätzlicher Angaben in den Prospekt verlangen, wenn dies zum Schutz des Publikums geboten erscheint.
 
-
-## § 16 – Untersagung von Werbung
+# § 16 – Untersagung von Werbung
 
 (1) Um Missständen bei der Werbung für Vermögensanlagen zu begegnen, kann die Bundesanstalt Emittenten und Anbietern bestimmte Arten der Werbung untersagen. Ein Missstand liegt insbesondere vor, wenn
 
@@ -458,8 +427,7 @@ Ist bei der Bundesanstalt ein Verkaufsprospekt zur Billigung eingereicht worden,
 
 (+++ § 16: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 17 – Untersagung der Veröffentlichung
+# § 17 – Untersagung der Veröffentlichung
 
 (1) Die Bundesanstalt untersagt die Veröffentlichung des Verkaufsprospekts, wenn er nicht die Angaben enthält, die nach § 7 Absatz 1 und 2, auch in Verbindung mit der nach § 7 Absatz 3 zu erlassenden Rechtsverordnung, erforderlich sind, oder wenn diese Angaben nicht kohärent oder nicht verständlich sind.
 
@@ -469,15 +437,13 @@ Ist bei der Bundesanstalt ein Verkaufsprospekt zur Billigung eingereicht worden,
 
 (+++ § 17: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 18 – Untersagung des öffentlichen Angebots
+# § 18 – Untersagung des öffentlichen Angebots
 
 (1) Die Bundesanstalt untersagt das öffentliche Angebot von Vermögensanlagen, wenn sie Anhaltspunkte dafür hat, dass
 
 1. die Vermögensanlagen entgegen § 5a Satz 1 eine kürzere Laufzeit als 24 Monate oder eine kürzere Kündigungsfrist als sechs Monate oder entgegen § 5b eine Nachschusspflicht vorsehen,
 
-1a.  
-die Vermögensanlagen entgegen § 2a Absatz 5 von einem Emittenten ausgegeben werden, der auf das Unternehmen, das die vermittelnde Internet-Dienstleistungsplattform betreibt, unmittelbar oder mittelbar maßgeblichen Einfluss ausüben kann,
+1a. die Vermögensanlagen entgegen § 2a Absatz 5 von einem Emittenten ausgegeben werden, der auf das Unternehmen, das die vermittelnde Internet-Dienstleistungsplattform betreibt, unmittelbar oder mittelbar maßgeblichen Einfluss ausüben kann,
 
 2. der Anbieter entgegen § 6 keinen Verkaufsprospekt veröffentlicht hat oder dieser nach § 8a nicht mehr gültig ist,
 
@@ -497,8 +463,7 @@ die Vermögensanlagen entgegen § 2a Absatz 5 von einem Emittenten ausgegeben we
 
 (+++ § 18: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 19 – Auskünfte des Anbieters
+# § 19 – Auskünfte des Anbieters
 
 (1) Die Bundesanstalt kann von einem Emittenten oder Anbieter Auskünfte, die Vorlage von Unterlagen und die Überlassung von Kopien verlangen, um
 
@@ -520,8 +485,7 @@ Die Befugnis nach Satz 1 besteht auch gegenüber einem mit dem Emittenten oder d
 
 (+++ § 19: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 20 – Haftung bei fehlerhaftem Verkaufsprospekt
+# § 20 – Haftung bei fehlerhaftem Verkaufsprospekt
 
 (1) Sind für die Beurteilung der Vermögensanlagen wesentliche Angaben in einem Verkaufsprospekt unrichtig oder unvollständig, kann der Erwerber der Vermögensanlagen von denjenigen, die für den Verkaufsprospekt die Verantwortung übernommen haben, und denjenigen, von denen der Erlass des Verkaufsprospekts ausgeht, als Gesamtschuldnern die Übernahme der Vermögensanlagen gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis der Vermögensanlagen nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft nach Veröffentlichung des Verkaufsprospekts und während der Dauer des öffentlichen Angebots nach § 11, spätestens jedoch innerhalb von zwei Jahren nach dem ersten öffentlichen Angebot der Vermögensanlagen im Inland, abgeschlossen wurde. Auf den Erwerb von Vermögensanlagen desselben Emittenten, die von den in Satz 1 genannten Vermögensanlagen nicht nach Ausstattungsmerkmalen oder in sonstiger Weise unterschieden werden können, ist Satz 1 entsprechend anzuwenden.
 
@@ -543,8 +507,7 @@ Die Befugnis nach Satz 1 besteht auch gegenüber einem mit dem Emittenten oder d
 
 (+++ § 20: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 21 – Haftung bei fehlendem Verkaufsprospekt
+# § 21 – Haftung bei fehlendem Verkaufsprospekt
 
 (1) Der Erwerber von Vermögensanlagen kann, wenn ein Verkaufsprospekt entgegen § 6 nicht veröffentlicht wurde, von dem Emittenten der Vermögensanlagen und dem Anbieter als Gesamtschuldnern die Übernahme der Vermögensanlagen gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor Veröffentlichung eines Verkaufsprospekts und innerhalb von zwei Jahren nach dem ersten öffentlichen Angebot der Vermögensanlagen im Inland abgeschlossen wurde. Auf den Erwerb von Vermögensanlagen desselben Emittenten, die von den in Satz 1 genannten Vermögensanlagen nicht nach Ausstattungsmerkmalen oder in sonstiger Weise unterschieden werden können, ist Satz 1 entsprechend anzuwenden.
 
@@ -558,8 +521,7 @@ Die Befugnis nach Satz 1 besteht auch gegenüber einem mit dem Emittenten oder d
 
 (+++ § 21: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 22 – Haftung bei unrichtigem oder fehlendem Vermögensanlagen-Informationsblatt
+# § 22 – Haftung bei unrichtigem oder fehlendem Vermögensanlagen-Informationsblatt
 
 (1) Wer Vermögensanlagen auf Grund von Angaben in einem Vermögensanlagen-Informationsblatt erworben hat, kann von dem Anbieter die Übernahme der Vermögensanlagen gegen Erstattung des Erwerbspreises, soweit dieser den ersten Erwerbspreis der Vermögensanlagen nicht überschreitet, und der mit dem Erwerb verbundenen üblichen Kosten verlangen, wenn
 
@@ -599,8 +561,7 @@ Absatz 2 gilt entsprechend.
 
 (+++ § 22: Zur Nichtanwendung vgl. § 2 +++)
 
-
-## § 23 – Erstellung und Bekanntmachung von Jahresberichten
+# § 23 – Erstellung und Bekanntmachung von Jahresberichten
 
 (1) Ein Emittent von Vermögensanlagen, der nicht verpflichtet ist, nach den Vorschriften des Handelsgesetzbuchs einen Jahresabschluss offenzulegen, hat für den Schluss eines jeden Geschäftsjahres einen Jahresbericht zu erstellen und spätestens sechs Monate nach Ablauf des Geschäftsjahres beim Betreiber des Bundesanzeigers elektronisch einzureichen sowie den Anlegern auf Anforderung zur Verfügung zu stellen.
 
@@ -623,8 +584,7 @@ Absatz 2 gilt entsprechend.
 (+++ § 23: Zur Anwendung vgl. § 32 Abs. 10 (2. Textfassung) +++)  
 (+++ § 23: Zur Anwendung vgl. § 32 Abs. 16 F. 12.8.2020 +++)
 
-
-## § 24 – Inhalt von Jahresabschlüssen und Lageberichten
+# § 24 – Inhalt von Jahresabschlüssen und Lageberichten
 
 (1) Alle Emittenten von Vermögensanlagen mit Sitz im Inland haben für den Jahresabschluss die Bestimmungen des Ersten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs und für den Lagebericht die Bestimmungen des § 289 des Handelsgesetzbuchs einzuhalten sowie dem Jahresabschluss und dem Lagebericht Erklärungen nach § 264 Absatz 2 Satz 3 und § 289 Absatz 1 Satz 5 des Handelsgesetzbuchs beizufügen; Emittenten von Vermögensanlagen haben den Jahresabschluss um eine Kapitalflussrechnung zu erweitern; dies gilt nicht für Emittenten, die die Einstufung als klein im Sinne des § 267 des Handelsgesetzbuchs erfüllen. § 264 Absatz 1 Satz 4 Halbsatz 1, Absatz 3, 4 und § 264b des Handelsgesetzbuchs sind nicht anzuwenden. Der Lagebericht hat zusätzlich die folgenden Angaben zu enthalten:
 
@@ -652,8 +612,7 @@ Für den letzten Jahresabschluss und Lagebericht des Emittenten von Vermögensan
 (+++ § 24: Zur erstmaligen Anwendung vgl. § 32 Abs. 3 +++)  
 (+++ § 23: Zur Anwendung vgl. § 32 Abs. 16 F. 12.8.2020 +++)
 
-
-## § 25 – Prüfung und Bestätigung des Abschlussprüfers
+# § 25 – Prüfung und Bestätigung des Abschlussprüfers
 
 (1) Der Jahresabschluss und der Lagebericht des inländischen Emittenten von Vermögensanlagen und des Emittenten von Vermögensanlagen mit Sitz außerhalb der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum sind durch einen Abschlussprüfer nach Maßgabe der Bestimmungen des Dritten Unterabschnitts des Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs zu prüfen. Der Jahresabschluss und der Lagebericht müssen mit dem Bestätigungsvermerk oder einem Vermerk über die Versagung der Bestätigung versehen sein. Der Jahresabschluss und der Lagebericht von Emittenten von Vermögensanlagen mit Sitz in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum sind durch einen Abschlussprüfer nach den gleichwertigen dort jeweils für Kapitalgesellschaften geltenden Prüfungsvorschriften zu prüfen.
 
@@ -672,8 +631,7 @@ Für den letzten Jahresabschluss und Lagebericht des Emittenten von Vermögensan
 (+++ § 25: Zur Nichtanwendung vgl. § 2 +++)  
 (+++ § 25: Zur erstmaligen Anwendung vgl. § 32 Abs. 3 +++)
 
-
-## § 26 – Verkürzung der handelsrechtlichen Offenlegungsfrist
+# § 26 – Verkürzung der handelsrechtlichen Offenlegungsfrist
 
 (1) Ist der Emittent der Vermögensanlagen nach den Vorschriften des Handelsgesetzbuchs zur Offenlegung des Jahresabschlusses verpflichtet, tritt an die Stelle des Ablaufs des zwölften Monats des dem Abschlussstichtag nachfolgenden Geschäftsjahres im Sinne des § 325 Absatz 1a des Handelsgesetzbuchs der Ablauf des sechsten Monats.
 
@@ -683,13 +641,11 @@ Für den letzten Jahresabschluss und Lagebericht des Emittenten von Vermögensan
 (+++ § 26: Zur erstmaligen Anwendung vgl. § 32 Abs. 3 +++)  
 (+++ § 26: Zur Anwendung vgl. § 32 Abs. 10 (2. Textfassung) +++)
 
-
-## § 26a – Sofortiger Vollzug
+# § 26a – Sofortiger Vollzug
 
 Widerspruch und Anfechtungsklage gegen Maßnahmen der Bundesanstalt nach den §§ 15a bis 19 haben keine aufschiebende Wirkung.
 
-
-## § 26b – Bekanntmachung von Maßnahmen
+# § 26b – Bekanntmachung von Maßnahmen
 
 (1) Die Bundesanstalt macht sofort vollziehbare Maßnahmen, die sie nach den §§ 15a bis 19 getroffen hat, auf ihrer Internetseite öffentlich bekannt, soweit dies bei Abwägung der betroffenen Interessen zur Beseitigung oder Verhinderung von Missständen geboten ist. Bei nicht bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese Maßnahme ist noch nicht bestandskräftig.“ Wurde gegen die Maßnahme ein Rechtsmittel eingelegt, sind der Stand und der Ausgang des Rechtsmittelverfahrens bekannt zu machen.
 
@@ -711,8 +667,7 @@ so kann die Bundesanstalt diesen Umstand auf ihrer Internetseite öffentlich bek
 
 (4) Die Bekanntmachung nach den Absätzen 1 und 2 darf nur diejenigen personenbezogenen Daten enthalten, die zur Identifizierung des Anbieters oder Emittenten erforderlich sind. Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen.
 
-
-## § 26c – Bekanntmachung von Bußgeldentscheidungen
+# § 26c – Bekanntmachung von Bußgeldentscheidungen
 
 (1) Die Bundesanstalt macht Bußgeldentscheidungen nach § 29 unverzüglich nach Rechtskraft auf ihrer Internetseite bekannt, wenn dies unter Abwägung der betroffenen Interessen zur Beseitigung oder Verhinderung von Missständen geboten ist. Die Bundesanstalt sieht von einer Veröffentlichung insbesondere dann ab, wenn eine Bekanntmachung auf Grund der geringfügigen Bedeutung des der Bußgeldentscheidung zugrunde liegenden Verstoßes unverhältnismäßig wäre.
 
@@ -722,15 +677,13 @@ so kann die Bundesanstalt diesen Umstand auf ihrer Internetseite öffentlich bek
 
 (4) Die Bekanntmachung ist spätestens nach fünf Jahren zu löschen.
 
-
-## § 27 – Gebühren und Auslagen
+# § 27 – Gebühren und Auslagen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf Grundlage dieses Gesetzes erlassenen Rechtsverordnungen kann die Bundesanstalt Gebühren und Auslagen erheben.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände und die Gebührensätze näher zu bestimmen und dabei feste Sätze und Rahmensätze vorzusehen. Das Bundesministerium der Finanzen kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
-
-## § 28 – Strafvorschriften
+# § 28 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -740,18 +693,15 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
 eine Versicherung nicht richtig abgibt.
 
-
-## § 29 – Allgemeine Bußgeldvorschriften
+# § 29 – Allgemeine Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
 1. entgegen § 2a Absatz 5 Satz 1 eine Vermögensanlage öffentlich anbietet,
 
-1a.  
-entgegen § 5b eine dort genannte Vermögensanlage anbietet,
+1a. entgegen § 5b eine dort genannte Vermögensanlage anbietet,
 
-1b.  
-entgegen § 6 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 3 Satz 1 einen Verkaufsprospekt nicht, nicht richtig oder nicht vollständig veröffentlicht,
+1b. entgegen § 6 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 3 Satz 1 einen Verkaufsprospekt nicht, nicht richtig oder nicht vollständig veröffentlicht,
 
 2. entgegen § 8 Absatz 1 Satz 1 einen Verkaufsprospekt veröffentlicht,
 
@@ -759,8 +709,7 @@ entgegen § 6 in Verbindung mit einer Rechtsverordnung nach § 7 Absatz 3 Satz 1
 
 4. entgegen § 9 Absatz 2 Satz 3 oder § 10 Absatz 1 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
-4a.  
-entgegen § 11a Absatz 1 Satz 1 eine Tatsache nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht,
+4a. entgegen § 11a Absatz 1 Satz 1 eine Tatsache nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig veröffentlicht,
 
 5. entgegen § 12 Absatz 1, 2 oder Absatz 3 nicht dafür sorgt, dass ein Hinweis aufgenommen wird,
 
@@ -784,8 +733,7 @@ entgegen § 11a Absatz 1 Satz 1 eine Tatsache nicht, nicht richtig, nicht vollst
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt.
 
-
-## § 30 – Bußgeldvorschriften zur Rechnungslegung
+# § 30 – Bußgeldvorschriften zur Rechnungslegung
 
 (1) Ordnungswidrig handelt, wer einer Vorschrift des § 24 Absatz 1 Satz 1 in Verbindung mit
 
@@ -801,8 +749,7 @@ zuwiderhandelt.
 
 (+++ § 30: Zur Anwendung vgl. § 32 Abs. 10 (2. Textfassung) +++)
 
-
-## § 31 – Ordnungsgeldvorschriften
+# § 31 – Ordnungsgeldvorschriften
 
 (1) Die Ordnungsgeldvorschriften der §§ 335 bis 335b des Handelsgesetzbuchs sind auch auf die Verletzung von Pflichten des vertretungsberechtigten Organs des Emittenten von Vermögensanlagen sowie auch auf den Emittenten von Vermögensanlagen selbst entsprechend anzuwenden, und zwar auch dann, wenn es sich bei diesem nicht um eine Kapitalgesellschaft oder eine Gesellschaft im Sinne des § 264a des Handelsgesetzbuchs handelt; der Höchstbetrag des § 335 Absatz 1a des Handelsgesetzbuchs ist unabhängig davon anzuwenden, ob die Gesellschaft kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist. An die Stelle der Pflichten nach § 335 Absatz 1 Satz 1 Nummer 1 und 2 des Handelsgesetzbuchs treten im Falle der Erstellung eines Jahresberichts die Pflichten nach § 23 Absatz 1 und 3 dieses Gesetzes. Offenlegung im Sinne des § 325 Absatz 1 des Handelsgesetzbuchs sind die Einreichung und Bekanntmachung des Jahresberichts gemäß § 23 Absatz 1 und 3 dieses Gesetzes.
 
@@ -824,8 +771,7 @@ Abweichend von Satz 1 übermittelt die Bundesanstalt bei Vermögensanlagen, für
 
 (+++ § 31: Zur Anwendung vgl. § 32 Abs. 10 (2. Textfassung) +++)
 
-
-## § 32 – Übergangsvorschriften
+# § 32 – Übergangsvorschriften
 
 (1) Auf Verkaufsprospekte, die vor dem 1. Juni 2012 bei der Bundesanstalt zur Gestattung ihrer Veröffentlichung nach § 8i Absatz 2 Satz 1 des Verkaufsprospektgesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2701), das zuletzt durch Artikel 8 des Gesetzes vom 16. Juli 2007 (BGBl. I S. 1330) geändert worden ist, eingereicht wurden, ist das Verkaufsprospektgesetz in der bis zum 31. Mai 2012 geltenden Fassung weiterhin anzuwenden.
 

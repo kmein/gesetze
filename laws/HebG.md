@@ -1,12 +1,7 @@
-# [HebG] Gesetz über das Studium und den Beruf von Hebammen  (Hebammengesetz - HebG)
-
-Ausfertigungsdatum: 22.11.2019
-
+% Gesetz über das Studium und den Beruf von Hebammen  (Hebammengesetz - HebG)
+% Ausfertigungsdatum: 22.11.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -80,13 +75,13 @@ Ausfertigungsdatum: 22.11.2019
 
  
 
+ 
 
-## § 1 – Hebammenberuf
+# § 1 – Hebammenberuf
 
 Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung, Betreuung und Beobachtung von Frauen während der Schwangerschaft, bei der Geburt, während des Wochenbetts und während der Stillzeit, die selbständige Leitung von physiologischen Geburten sowie die Untersuchung, Pflege und Überwachung von Neugeborenen und Säuglingen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Mitgliedstaat im Sinne dieses Gesetzes ist ein Mitgliedstaat der Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten außer der Bundesrepublik Deutschland.
 
@@ -102,15 +97,13 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 (7) Hochschule im Sinne dieses Gesetzes ist eine staatliche oder staatlich anerkannte Hochschule oder eine staatliche oder staatlich anerkannte Berufsakademie, die einen Bachelorabschluss verleiht, der dem von Hochschulen verliehenen Bachelorabschluss gleichgestellt ist.
 
-
-## § 3 – Berufsbezeichnung
+# § 3 – Berufsbezeichnung
 
 (1) Den Hebammenberuf darf nur ausüben, wer die Berufsbezeichnung „Hebamme“ führen darf.
 
 (2) Die Berufsbezeichnung „Hebamme“ gilt für alle Berufsangehörigen.
 
-
-## § 4 – Geburtshilfe als vorbehaltene Tätigkeiten
+# § 4 – Geburtshilfe als vorbehaltene Tätigkeiten
 
 (1) Zur Leistung von Geburtshilfe sind außer Ärztinnen und Ärzten nur Personen mit einer Erlaubnis nach diesem Gesetz berechtigt. Dies gilt nicht für Notfälle.
 
@@ -124,8 +117,7 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 (3) Ärztinnen und Ärzte sind verpflichtet, dafür Sorge zu tragen, dass bei einer Geburt eine Hebamme zugezogen wird.
 
-
-## § 5 – Erlaubnis zum Führen der Berufsbezeichnung
+# § 5 – Erlaubnis zum Führen der Berufsbezeichnung
 
 (1) Wer die Berufsbezeichnung „Hebamme“ führen will, bedarf der Erlaubnis.
 
@@ -139,8 +131,7 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 4. über die Kenntnisse der deutschen Sprache verfügt, die für die Ausübung des Berufs erforderlich sind.
 
-
-## § 6 – Rücknahme der Erlaubnis
+# § 6 – Rücknahme der Erlaubnis
 
 (1) Die Erlaubnis ist zurückzunehmen, wenn bei ihrer Erteilung die Voraussetzung des § 5 Absatz 2 Nummer 1 oder Nummer 2 nicht vorgelegen hat.
 
@@ -148,8 +139,7 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 (3) Im Übrigen bleiben die dem § 48 des Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen Vorschriften unberührt.
 
-
-## § 7 – Widerruf der Erlaubnis
+# § 7 – Widerruf der Erlaubnis
 
 (1) Die Erlaubnis ist zu widerrufen, wenn nachträglich
 
@@ -159,8 +149,7 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 (2) Im Übrigen bleiben die dem § 49 des Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen Vorschriften unberührt.
 
-
-## § 8 – Ruhen der Erlaubnis
+# § 8 – Ruhen der Erlaubnis
 
 (1) Das Ruhen der Erlaubnis kann angeordnet werden, wenn
 
@@ -174,8 +163,7 @@ Der Hebammenberuf umfasst insbesondere die selbständige und umfassende Beratung
 
 (2) Die Anordnung des Ruhens der Erlaubnis ist aufzuheben, sobald die Voraussetzung für die Anordnung nicht mehr vorliegt.
 
-
-## § 9 – Studienziel
+# § 9 – Studienziel
 
 (1) Das Hebammenstudium vermittelt die fachlichen und personalen Kompetenzen, die für die selbständige und umfassende Hebammentätigkeit im stationären sowie im ambulanten Bereich erforderlich sind. Die Vermittlung erfolgt auf wissenschaftlicher Grundlage und nach wissenschaftlicher Methodik. Lebenslanges Lernen wird dabei als ein Prozess der eigenen beruflichen Biographie verstanden und die fortlaufende persönliche und fachliche Weiterentwicklung als notwendig anerkannt.
 
@@ -233,8 +221,7 @@ q) die angewendeten Maßnahmen, den Schwangerschaftsverlauf, die Geburt und das 
 
 3. interprofessionell mit anderen Berufsgruppen fachlich zu kommunizieren und effektiv zusammenzuarbeiten und bei der Zusammenarbeit individuelle, multidisziplinäre und berufsübergreifende Lösungen vor allem für regelwidrige Schwangerschafts-, Geburts- und Wochenbettverläufe zu entwickeln und teamorientiert umzusetzen.
 
-
-## § 10 – Zugangsvoraussetzungen
+# § 10 – Zugangsvoraussetzungen
 
 (1) Das Hebammenstudium darf nur absolvieren, wer
 
@@ -272,8 +259,7 @@ in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gle
 
 (2) Die Länder können den Zugang zum Hebammenstudium von weiteren Voraussetzungen abhängig machen.
 
-
-## § 11 – Dauer und Struktur des Studiums
+# § 11 – Dauer und Struktur des Studiums
 
 (1) Das Hebammenstudium dauert in Vollzeit mindestens sechs Semester und höchstens acht Semester.
 
@@ -283,8 +269,7 @@ in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gle
 
 (4) Den Inhalt der für die Erteilung der Erlaubnis maßgeblichen Bestandteile des Hebammenstudiums regelt die Studien- und Prüfungsverordnung nach § 71.
 
-
-## § 12 – Akkreditierung von Studiengängen
+# § 12 – Akkreditierung von Studiengängen
 
 (1) Das einem Studiengang zugrunde liegende Konzept wird durch die zuständige Landesbehörde in einem Akkreditierungsverfahren überprüft.
 
@@ -292,8 +277,7 @@ in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gle
 
 (3) Wesentliche Änderungen des Konzeptes nach Abschluss des Akkreditierungsverfahrens werden durch die zuständige Landesbehörde überprüft.
 
-
-## § 13 – Praxiseinsätze
+# § 13 – Praxiseinsätze
 
 (1) Der berufspraktische Teil umfasst Praxiseinsätze
 
@@ -307,102 +291,87 @@ Praxiseinsätze nach Satz 1 Nummer 2 können auch in weiteren zur berufspraktisc
 
 (3) Welche Krankenhäuser, freiberuflichen Hebammen, ambulanten hebammengeleiteten Einrichtungen oder weiteren Einrichtungen für die Durchführung von Praxiseinsätzen im Hebammenstudium geeignet sind, bestimmt sich nach den jeweiligen landesrechtlichen Regelungen.
 
-
-## § 14 – Praxisanleitung
+# § 14 – Praxisanleitung
 
 Die praxisanleitende Person führt die Studierenden schrittweise an die Wahrnehmung der im Hebammenberuf anfallenden Aufgaben heran und begleitet die Studierenden während ihres Lernprozesses im jeweiligen Praxiseinsatz. Sie ist während des jeweiligen Praxiseinsatzes Ansprechpartnerin für die verantwortliche Praxiseinrichtung und für die jeweilige Hochschule.
 
-
-## § 15 – Die verantwortliche Praxiseinrichtung
+# § 15 – Die verantwortliche Praxiseinrichtung
 
 (1) Eine Praxiseinrichtung übernimmt die Verantwortung für die Durchführung des berufspraktischen Teils gegenüber der studierenden Person (verantwortliche Praxiseinrichtung). Sie schließt mit der studierenden Person für die Dauer des Studiums einen Vertrag nach Abschnitt 2 dieses Teils.
 
 (2) Verantwortliche Praxiseinrichtung im Sinne von Absatz 1 kann nur ein Krankenhaus nach § 13 Absatz 1 Satz 1 Nummer 1 sein.
 
-
-## § 16 – Durchführung des berufspraktischen Teils; Praxisplan
+# § 16 – Durchführung des berufspraktischen Teils; Praxisplan
 
 (1) Der berufspraktische Teil wird auf der Grundlage eines Praxisplans durchgeführt, der von der verantwortlichen Praxiseinrichtung für jede studierende Person zu erstellen ist. In dem Praxisplan sind die Praxiseinsätze zeitlich und sachlich so zu gliedern, dass das Studienziel erreicht werden kann. Die Vorgaben der Studien- und Prüfungsverordnung nach § 71 sind zu berücksichtigen.
 
 (2) Die verantwortliche Praxiseinrichtung hat sicherzustellen, dass alle Praxiseinsätze auf der Grundlage des Praxisplans durchgeführt werden können. Dazu hat die verantwortliche Praxiseinrichtung Vereinbarungen abzuschließen mit den anderen Krankenhäusern, freiberuflichen Hebammen oder ambulanten hebammengeleiteten Einrichtungen, in oder bei denen die studierende Person Praxiseinsätze absolviert.
 
-
-## § 17 – Praxisbegleitung
+# § 17 – Praxisbegleitung
 
 (1) Die Hochschule unterstützt die berufspraktische Ausbildung der Studierenden, indem sie eine Praxisbegleitung in angemessenem Umfang gewährleistet.
 
 (2) Die Praxisbegleitung betreut und beurteilt die Studierenden während ihrer Praxiseinsätze fachlich und unterstützt die Praxisanleitung.
 
-
-## § 18 – Nachweis- und Begründungspflicht
+# § 18 – Nachweis- und Begründungspflicht
 
 (1) Die ambulanten hebammengeleiteten Einrichtungen und freiberuflichen Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 legen der jeweiligen verantwortlichen Praxiseinrichtung rechtzeitig vor den Verhandlungen nach § 17a Absatz 3 des Krankenhausfinanzierungsgesetzes Nachweise und Begründungen für im Vereinbarungszeitraum geplante erstmalige Weiterqualifizierungen zur praxisanleitenden Person vor.
 
 (2) Das Nähere, insbesondere zum Zeitpunkt der Vorlage nach Absatz 1, wird in den Vereinbarungen nach § 16 Absatz 2 Satz 2 festgelegt.
 
-
-## § 19 – Hochschule; theoretische und praktische Lehrveranstaltungen
+# § 19 – Hochschule; theoretische und praktische Lehrveranstaltungen
 
 (1) Der hochschulische Studienteil findet an einer Hochschule statt. Er umfasst theoretische und praktische Lehrveranstaltungen.
 
 (2) Die theoretischen und praktischen Lehrveranstaltungen erfolgen auf der Grundlage eines modularen Curriculums, das von der Hochschule zu erstellen ist.
 
-
-## § 20 – Qualifikation der Lehrenden und der Studiengangsleitung
+# § 20 – Qualifikation der Lehrenden und der Studiengangsleitung
 
 (1) Die theoretischen und praktischen Lehrveranstaltungen an den Hochschulen dürfen nur von Lehrenden durchgeführt werden, die mindestens den akademischen Grad erlangt haben, der mit Abschluss des Hebammenstudiums verliehen wird.
 
 (2) Leiterin oder Leiter des Studiengangs an der Hochschule darf nur sein, wer zusätzlich zur Voraussetzung nach Absatz 1 selbst über die Erlaubnis nach § 5 oder die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung verfügt.
 
-
-## § 21 – Durchführung des Studiums; Kooperationsvereinbarungen
+# § 21 – Durchführung des Studiums; Kooperationsvereinbarungen
 
 (1) Die berufspraktischen Einsätze und die theoretischen und praktischen Lehrveranstaltungen erfolgen inhaltlich und zeitlich eng miteinander verzahnt und aufeinander abgestimmt.
 
 (2) Die Hochschule schließt Kooperationsvereinbarungen mit den verantwortlichen Praxiseinrichtungen, um die Durchführung des Studiums sicherzustellen.
 
-
-## § 22 – Gesamtverantwortung
+# § 22 – Gesamtverantwortung
 
 (1) Die Hochschule trägt die Gesamtverantwortung für die Koordination der theoretischen und praktischen Lehrveranstaltungen mit den berufspraktischen Praxiseinsätzen.
 
 (2) Die Hochschule prüft, ob der Praxisplan für den berufspraktischen Teil den Anforderungen des modularen Curriculums entspricht. Ist dies nicht der Fall, ist die verantwortliche Praxiseinrichtung verpflichtet, den Praxisplan so anzupassen, dass der Praxisplan dem modularen Curriculum entspricht.
 
-
-## § 23 – Abschluss des Studiums
+# § 23 – Abschluss des Studiums
 
 Das Hebammenstudium schließt mit der Verleihung des akademischen Grades durch die Hochschule ab.
 
-
-## § 24 – Staatliche Prüfung
+# § 24 – Staatliche Prüfung
 
 (1) Die hochschulische Prüfung umfasst die staatliche Prüfung, deren Bestehen Voraussetzung für die Erteilung der Erlaubnis nach § 5 ist.
 
 (2) Mit der staatlichen Prüfung wird überprüft, ob die studierende Person das Studienziel erreicht hat.
 
-
-## § 25 – Durchführung der staatlichen Prüfung
+# § 25 – Durchführung der staatlichen Prüfung
 
 (1) Die staatliche Prüfung wird in den im akkreditierten Konzept des Studiengangs in Vollzeit vorgesehenen letzten beiden Studiensemestern nach Maßgabe der Studien- und Prüfungsverordnung nach § 71 durchgeführt.
 
 (2) Die Hochschule legt mit Zustimmung der zuständigen Landesbehörde die Module des Studiengangs fest, mit denen das Erreichen des Studienziels im Rahmen der staatlichen Prüfung überprüft wird.
 
-
-## § 26 – Vorsitz
+# § 26 – Vorsitz
 
 (1) Die Prüfung nach § 24 Absatz 2 wird unter dem gemeinsamen Vorsitz von Hochschule und zuständiger Landesbehörde durchgeführt.
 
 (2) Die zuständige Landesbehörde kann die Hochschule beauftragen, den Vorsitz auch für die zuständige Landesbehörde wahrzunehmen.
 
-
-## § 27 – Vertrag zur akademischen Hebammenausbildung; Schriftformerfordernis
+# § 27 – Vertrag zur akademischen Hebammenausbildung; Schriftformerfordernis
 
 (1) Zwischen dem Inhaber oder Träger der verantwortlichen Praxiseinrichtung und der studierenden Person ist ein Vertrag zur akademischen Hebammenausbildung nach den Vorschriften dieses Abschnitts zu schließen.
 
 (2) Der Abschluss und jedes Rechtsgeschäft zur Änderung des Vertrages zur akademischen Hebammenausbildung bedürfen der Schriftform. Die schriftliche Form kann nicht durch die elektronische Form ersetzt werden.
 
-
-## § 28 – Inhalt des Vertrages
+# § 28 – Inhalt des Vertrages
 
 (1) Der Vertrag zur akademischen Hebammenausbildung muss mindestens folgende Regelungen enthalten:
 
@@ -434,23 +403,19 @@ Das Hebammenstudium schließt mit der Verleihung des akademischen Grades durch d
 
 8. ein in allgemeiner Form gehaltener Hinweis auf die Rechte als Arbeitnehmerin oder Arbeitnehmer nach § 5 des Betriebsverfassungsgesetzes oder nach § 4 des Bundespersonalvertretungsgesetzes.
 
-
-## § 29 – Wirksamkeit des Vertrages
+# § 29 – Wirksamkeit des Vertrages
 
 Der Vertrag zur akademischen Hebammenausbildung wird erst wirksam, wenn die studierende Person der verantwortlichen Praxiseinrichtung eine schriftliche Studienplatzzusage einer Hochschule, mit der die verantwortliche Praxiseinrichtung eine Kooperationsvereinbarung nach § 21 Absatz 2 abgeschlossen hat, vorlegt.
 
-
-## § 30 – Vertragsschluss bei Minderjährigen
+# § 30 – Vertragsschluss bei Minderjährigen
 
 Der Vertrag zur akademischen Hebammenausbildung ist bei Minderjährigen gemeinsam von dem Minderjährigen und deren gesetzlichen Vertretern zu schließen. Eine Vertragsurkunde ist der studierenden Person und deren gesetzlichen Vertretern auszuhändigen.
 
-
-## § 31 – Anwendbares Recht
+# § 31 – Anwendbares Recht
 
 Auf den Vertrag zur akademischen Hebammenausbildung sind, soweit sich aus seinem Wesen und Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für Arbeitsverhältnisse geltenden Rechtsvorschriften und Rechtsgrundsätze anzuwenden.
 
-
-## § 32 – Pflichten der verantwortlichen Praxiseinrichtung
+# § 32 – Pflichten der verantwortlichen Praxiseinrichtung
 
 (1) Die verantwortliche Praxiseinrichtung ist insbesondere verpflichtet,
 
@@ -468,8 +433,7 @@ Auf den Vertrag zur akademischen Hebammenausbildung sind, soweit sich aus seinem
 
 (2) Der studierenden Person dürfen nur Aufgaben übertragen werden, die dem Zweck des Studiums und dem Bildungs- und Praxisstand der studierenden Person entsprechen. Die übertragenen Aufgaben müssen den physischen und psychischen Kräften der studierenden Person angemessen sein.
 
-
-## § 33 – Pflichten der Studierenden
+# § 33 – Pflichten der Studierenden
 
 (1) Die studierende Person hat sich zu bemühen, die in § 9 genannten Kompetenzen zu erwerben, die erforderlich sind, um das Studienziel zu erreichen.
 
@@ -485,34 +449,29 @@ Auf den Vertrag zur akademischen Hebammenausbildung sind, soweit sich aus seinem
 
 5. die Rechte der zu betreuenden Frauen und Familien zu achten.
 
-
-## § 34 – Vergütung
+# § 34 – Vergütung
 
 (1) Die verantwortliche Praxiseinrichtung hat der studierenden Person vom Beginn des Studiums bis zum Ende des Vertragsverhältnisses eine angemessene monatliche Vergütung zu zahlen.
 
 (2) Sachbezüge können in Höhe der Werte, die durch Rechtsverordnung nach § 17 Absatz 1 Satz 1 Nummer 4 des Vierten Buches Sozialgesetzbuch bestimmt sind, angerechnet werden. Der Wert der Sachbezüge darf 75 Prozent der Bruttovergütung nicht überschreiten. Die Anrechnung von Sachbezügen ist nur zulässig, soweit dies im Vertrag zur akademischen Hebammenausbildung vereinbart ist. Kann die studierende Person aus berechtigtem Grund Sachbezüge nicht abnehmen, so sind diese nach den Sachbezugswerten abzugelten.
 
-
-## § 35 – Überstunden
+# § 35 – Überstunden
 
 Eine über die vereinbarte regelmäßige tägliche oder wöchentliche Ausbildungszeit hinausgehende Beschäftigung ist nur ausnahmsweise zulässig. Sie ist gesondert zu vergüten oder in Freizeit auszugleichen.
 
-
-## § 36 – Probezeit
+# § 36 – Probezeit
 
 (1) Die ersten sechs Monate ab Beginn des Studiums sind die Probezeit.
 
 (2) Die Dauer der Probezeit kann davon abweichen, sofern sich aus tarifvertraglichen Regelungen eine andere Dauer ergibt.
 
-
-## § 37 – Ende des Vertragsverhältnisses
+# § 37 – Ende des Vertragsverhältnisses
 
 (1) Das Vertragsverhältnis endet mit Ablauf des letzten im akkreditierten Konzept des Studiengangs festgelegten Semesters. Der Zeitpunkt der Beendigung ist unabhängig vom Zeitpunkt der staatlichen Prüfung.
 
 (2) Besteht die studierende Person die staatliche Prüfung nicht oder kann die staatliche Prüfung ohne eigenes Verschulden nicht vor Ablauf des letzten Studiensemesters abgelegt werden, so verlängert sich das Vertragsverhältnis auf schriftlichen Antrag gegenüber der verantwortlichen Praxiseinrichtung bis zur nächstmöglichen Wiederholungsprüfung, höchstens jedoch um ein Jahr.
 
-
-## § 38 – Beendigung durch Kündigung
+# § 38 – Beendigung durch Kündigung
 
 (1) Während der Probezeit kann das Vertragsverhältnis von jedem Vertragspartner jederzeit ohne Einhaltung einer Kündigungsfrist gekündigt werden.
 
@@ -522,8 +481,7 @@ Eine über die vereinbarte regelmäßige tägliche oder wöchentliche Ausbildung
 
 2. von der studierenden Person mit einer Kündigungsfrist von vier Wochen zum Monatsende.
 
-
-## § 39 – Wirksamkeit der Kündigung
+# § 39 – Wirksamkeit der Kündigung
 
 (1) Die Kündigung hat schriftlich zu erfolgen.
 
@@ -533,13 +491,11 @@ Eine über die vereinbarte regelmäßige tägliche oder wöchentliche Ausbildung
 
 (4) Eine Kündigung aus wichtigem Grund ist unwirksam, wenn die ihr zugrunde liegenden Tatsachen der kündigungsberechtigten Person länger als zwei Wochen bekannt sind. Ist ein vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle eingeleitet, so wird bis zu dessen Beendigung der Lauf der Frist nach Satz 1 gehemmt.
 
-
-## § 40 – Beschäftigung im Anschluss an das Vertragsverhältnis
+# § 40 – Beschäftigung im Anschluss an das Vertragsverhältnis
 
 Wird die studierende Person im Anschluss an das erfolgreich absolvierte Studium als Hebamme beschäftigt, ohne dass hierüber ausdrücklich etwas vereinbart worden ist, so gilt ein Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
-
-## § 41 – Nichtigkeit von Vereinbarungen
+# § 41 – Nichtigkeit von Vereinbarungen
 
 (1) Eine Vereinbarung, die zu Ungunsten der studierenden Person von den §§ 27 bis 40 abweicht, ist nichtig.
 
@@ -555,13 +511,11 @@ Wird die studierende Person im Anschluss an das erfolgreich absolvierte Studium 
 
 4. die Festsetzung der Höhe eines Schadensersatzes in Pauschalbeträgen.
 
-
-## § 42 – Ausschluss der Geltung von Vorschriften dieses Abschnitts
+# § 42 – Ausschluss der Geltung von Vorschriften dieses Abschnitts
 
 Die §§ 27 bis 41 sind nicht anzuwenden auf Studierende, die Diakonissen, Diakonieschwestern oder Mitglieder geistlicher Gemeinschaften sind.
 
-
-## § 43 – Erlaubnis für Personen mit einer außerhalb des Geltungsbereichs dieses Gesetzes absolvierten Ausbildung
+# § 43 – Erlaubnis für Personen mit einer außerhalb des Geltungsbereichs dieses Gesetzes absolvierten Ausbildung
 
 (1) Beantragt eine Person, die außerhalb des Geltungsbereichs dieses Gesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach § 5, ist die Voraussetzung nach § 5 Absatz 2 Nummer 1 nach den Maßgaben dieses Teils vor den Voraussetzungen nach § 5 Absatz 2 Nummer 2 bis 4 zu prüfen.
 
@@ -571,20 +525,17 @@ Die §§ 27 bis 41 sind nicht anzuwenden auf Studierende, die Diakonissen, Diako
 
 2. nach Abschnitt 3 dieses Teils anerkannt wird.
 
-
-## § 44 – Bescheid über die Feststellung der Berufsqualifikation
+# § 44 – Bescheid über die Feststellung der Berufsqualifikation
 
 Auf Antrag ist der antragstellenden Person ein gesonderter Bescheid über die Feststellung der Gleichwertigkeit ihrer Berufsqualifikation zu erteilen.
 
-
-## § 45 – Gemeinsame Einrichtung; Berufsqualifikationsfeststellungsgesetz
+# § 45 – Gemeinsame Einrichtung; Berufsqualifikationsfeststellungsgesetz
 
 (1) Die Länder können vereinbaren, dass die Aufgaben nach diesem Teil von einem anderen Land oder einer gemeinsamen Einrichtung wahrgenommen werden.
 
 (2) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des § 17 des Berufsqualifikationsfeststellungsgesetzes keine Anwendung.
 
-
-## § 46 – Automatisch anerkannte Berufsqualifikationen
+# § 46 – Automatisch anerkannte Berufsqualifikationen
 
 (1) Eine Berufsqualifikation wird automatisch anerkannt, wenn die antragstellende Person
 
@@ -604,8 +555,7 @@ c) eine in Vollzeit mindestens 18-monatige Hebammenausbildung, die aus mindesten
 
 (3) Zum Nachweis der einjährigen Berufserfahrung nach Absatz 1 Nummer 3 Buchstabe c ist eine von der zuständigen Stelle des Herkunftsstaates der antragstellenden Person ausgestellte Bescheinigung vorzulegen, die bescheinigt, dass die betreffende Person nach Erhalt des Ausbildungsnachweises ein Jahr lang in zufriedenstellender Weise alle mit dem Beruf einer Hebamme verbundenen Tätigkeiten in einem Krankenhaus oder in einer Einrichtung des Gesundheitswesens, die im Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
 
-
-## § 47 – Automatische Anerkennung bei erworbenen Rechten
+# § 47 – Automatische Anerkennung bei erworbenen Rechten
 
 (1) Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -653,8 +603,7 @@ mindestens das im Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG in der jeweils
 
 cc) die antragstellende Person durch einen im Anhang V Nummer 5.2.2 der Richtlinie 2005/36/EG in der jeweils geltenden Fassung aufgeführten Ausbildungsnachweis nachweist, dass sie vor Beginn der Hebammenausbildung eine Ausbildung zur Krankenschwester oder zum Krankenpfleger, die für die allgemeine Pflege verantwortlich sind, abgeschlossen hat.
 
-
-## § 48 – Automatische Anerkennung bei in den Gebieten der früheren Tschechoslowakei, der früheren Sowjetunion, dem früheren Jugoslawien erworbenen Rechten
+# § 48 – Automatische Anerkennung bei in den Gebieten der früheren Tschechoslowakei, der früheren Sowjetunion, dem früheren Jugoslawien erworbenen Rechten
 
 Eine Berufsqualifikation wird automatisch anerkannt, wenn die antragstellende Person
 
@@ -676,8 +625,7 @@ f) eine Ausbildung bescheinigt, welche im Fall Sloweniens vor dem 25. Juni 1991 
 
 3. eine Bescheinigung der zuständigen Behörde des jeweiligen Mitgliedstaates vorlegt, dass der vorgelegte Ausbildungsnachweis hinsichtlich der Aufnahme und Ausübung des Hebammenberufs in ihrem Hoheitsgebiet die gleiche Rechtsgültigkeit hat wie der von ihnen verliehene Ausbildungsnachweis.
 
-
-## § 49 – Automatische Anerkennung bei in Polen erworbenen Rechten
+# § 49 – Automatische Anerkennung bei in Polen erworbenen Rechten
 
 Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -687,8 +635,7 @@ Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
 3. die antragstellende Person ein Bakkalaureat-Diplom beifügt, das auf der Grundlage eines Aufstiegsfortbildungsprogramms, das in den in Artikel 43 Absatz 4 Buchstabe b Ziffer i und Ziffer ii der Richtlinie 2005/36/EG genannten Gesetzen enthalten ist, erworben worden ist.
 
-
-## § 50 – Automatische Anerkennung bei in Rumänien erworbenen Rechten
+# § 50 – Automatische Anerkennung bei in Rumänien erworbenen Rechten
 
 Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -698,8 +645,7 @@ Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
 3. die antragstellende Person eine Bescheinigung beifügt, dass sie die Tätigkeiten einer Hebamme in den sieben Jahren vor Ausstellung der Bescheinigung mindestens fünf Jahre ohne Unterbrechung in Rumänien tatsächlich und rechtmäßig ausgeübt hat.
 
-
-## § 51 – Ausschluss der automatischen Anerkennung bei in Kroatien erworbenen Rechten
+# § 51 – Ausschluss der automatischen Anerkennung bei in Kroatien erworbenen Rechten
 
 Eine Berufsqualifikation wird nicht automatisch anerkannt, da die antragstellende Person keine Rechte für die Tätigkeit als Hebamme erworben hat, hinsichtlich der Ausbildungsnachweise mit den folgenden kroatischen Bezeichnungen, wenn die Nachweise in Kroatien vor dem 1. Juli 2013 erworben worden sind:
 
@@ -715,18 +661,15 @@ Eine Berufsqualifikation wird nicht automatisch anerkannt, da die antragstellend
 
 6. primalja.
 
-
-## § 52 – Bekanntmachung
+# § 52 – Bekanntmachung
 
 Das Bundesministerium für Gesundheit macht die jeweils aktuelle Fassung des Anhangs V Nummer 5.5.2 der Richtlinie 2005/36/EG im Bundesanzeiger bekannt.
 
-
-## § 53 – Europäischer Berufsausweis
+# § 53 – Europäischer Berufsausweis
 
 Für den Fall einer Einführung eines Europäischen Berufsausweises für den Hebammenberuf gelten die Regelungen über die Anerkennung von Berufsqualifikationen dieses Teils entsprechend.
 
-
-## § 54 – Anerkennung von weiteren Berufsqualifikationen; Gleichwertigkeit
+# § 54 – Anerkennung von weiteren Berufsqualifikationen; Gleichwertigkeit
 
 (1) Eine Berufsqualifikation, die nicht nach Abschnitt 2 dieses Teils automatisch anerkannt wird, wird anerkannt, wenn
 
@@ -740,8 +683,7 @@ Für den Fall einer Einführung eines Europäischen Berufsausweises für den Heb
 
 2. wesentliche Unterschiede vollständig durch den Nachweis von Kenntnissen, Fähigkeiten und Kompetenzen nach § 56 ausgeglichen werden.
 
-
-## § 55 – Wesentliche Unterschiede
+# § 55 – Wesentliche Unterschiede
 
 (1) Die Berufsqualifikation der antragstellenden Person unterscheidet sich wesentlich, wenn
 
@@ -751,8 +693,7 @@ Für den Fall einer Einführung eines Europäischen Berufsausweises für den Heb
 
 (2) Die inhaltlichen wesentlichen Abweichungen nach Absatz 1 Nummer 1 und 2 müssen sich auf Themenbereiche oder berufspraktische Bestandteile beziehen, deren Kenntnisse, Fähigkeiten und Kompetenzen eine wesentliche Voraussetzung für die Ausübung des Hebammenberufs im Geltungsbereich dieses Gesetzes sind.
 
-
-## § 56 – Ausgleich wesentlicher Unterschiede durch Berufserfahrung oder lebenslanges Lernen
+# § 56 – Ausgleich wesentlicher Unterschiede durch Berufserfahrung oder lebenslanges Lernen
 
 (1) Wesentliche Unterschiede nach § 55 können ganz oder teilweise ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen, welche die antragstellende Person erworben hat
 
@@ -764,15 +705,13 @@ Die nach Satz 1 Nummer 2 erworbenen Kenntnisse, Fähigkeiten und Kompetenzen wer
 
 (2) Nicht entscheidend ist, in welchem Staat die Kenntnisse, Fähigkeiten und Kompetenzen erworben worden sind.
 
-
-## § 57 – Anpassungsmaßnahmen
+# § 57 – Anpassungsmaßnahmen
 
 (1) Ist die Berufsqualifikation der antragstellenden Person nicht mit der in diesem Gesetz geregelten Berufsqualifikation gleichwertig, ist für eine Anerkennung eine Anpassungsmaßnahme nach § 58 oder § 59 durchzuführen.
 
 (2) Dies gilt auch für den Fall, dass die Gleichwertigkeit der Berufsqualifikation der antragstellenden Person nur mit unangemessenem zeitlichen oder sachlichen Aufwand festgestellt werden kann, weil die erforderlichen Unterlagen und Nachweise aus Gründen, die die antragstellende Person nicht zu vertreten hat, nicht vorgelegt werden können.
 
-
-## § 58 – Eignungsprüfung oder Anpassungslehrgang
+# § 58 – Eignungsprüfung oder Anpassungslehrgang
 
 (1) Die antragstellende Person hat als Anpassungsmaßnahme eine Eignungsprüfung, die sich auf die festgestellten wesentlichen Unterschiede erstreckt, oder einen höchstens dreijährigen Anpassungslehrgang zu absolvieren, wenn sie
 
@@ -820,8 +759,7 @@ c) zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften des He
 
 3. einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe c, d oder e der Richtlinie 2005/36/EG genannten Niveau entspricht, so kann die antragstellende Person zwischen der Eignungsprüfung und der Teilnahme an einem Anpassungslehrgang wählen.
 
-
-## § 59 – Kenntnisprüfung oder Anpassungslehrgang
+# § 59 – Kenntnisprüfung oder Anpassungslehrgang
 
 (1) Wenn die antragstellende Person eine Berufsqualifikation vorlegt, die in einem Drittstaat, der kein gleichgestellter Staat ist, erworben worden ist und nicht bereits in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat anerkannt worden ist, hat sie folgende Maßnahme als Anpassungsmaßnahme zu absolvieren:
 
@@ -831,8 +769,7 @@ c) zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften des He
 
 (2) Die antragstellende Person kann zwischen der Kenntnisprüfung und dem Anpassungslehrgang wählen.
 
-
-## § 60 – Dienstleistungserbringende Personen
+# § 60 – Dienstleistungserbringende Personen
 
 (1) Eine Staatsangehörige oder ein Staatsangehöriger eines Mitgliedstaates, eines Vertragsstaates oder eines gleichgestellten Staates, darf als dienstleistungserbringende Person im Rahmen vorübergehender und gelegentlicher Dienstleistungen im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union (konsolidierte Fassung) (ABl. C 326 vom 26.10.2012, S. 47) den Hebammenberuf im Geltungsbereich dieses Gesetzes ausüben, wenn sie oder er
 
@@ -856,8 +793,7 @@ b) einer außerhalb des Geltungsbereichs dieses Gesetzes erworbenen Berufsqualif
 
 (4) Der vorübergehende und gelegentliche Charakter der Dienstleistungserbringung wird im Einzelfall beurteilt. In die Beurteilung sind Dauer, Häufigkeit, regelmäßige Wiederkehr und Kontinuität der Dienstleistung einzubeziehen.
 
-
-## § 61 – Meldung der Dienstleistungserbringung
+# § 61 – Meldung der Dienstleistungserbringung
 
 (1) Wer beabsichtigt, als dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes den Hebammenberuf auszuüben, ist verpflichtet, dies der in Deutschland zuständigen Behörde vor Dienstleistungserbringung schriftlich zu melden.
 
@@ -883,8 +819,7 @@ c) keine Vorstrafen der dienstleistungserbringenden Person vorliegen,
 
 (5) Erbringt die dienstleistungserbringende Person in einem Dringlichkeitsfall oder in einem Notfall die Dienstleistung, ohne dass es ihr vorher möglich ist, dies der zuständigen Behörde rechtzeitig zu melden, so hat sie die Meldung unverzüglich nach der Dienstleistungserbringung nachzuholen.
 
-
-## § 62 – Meldung wesentlicher Änderungen
+# § 62 – Meldung wesentlicher Änderungen
 
 (1) Die dienstleistungserbringende Person ist verpflichtet, der zuständigen Behörde unverzüglich zu melden
 
@@ -900,8 +835,7 @@ c) keine Vorstrafen der dienstleistungserbringenden Person vorliegen,
 
 (2) Mit der Meldung hat die dienstleistungserbringende Person der zuständigen Behörde die entsprechenden Nachweise, Bescheinigungen oder Erklärungen vorzulegen.
 
-
-## § 63 – Bescheinigung der zuständigen Behörde
+# § 63 – Bescheinigung der zuständigen Behörde
 
 (1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines gleichgestellten Staates den Hebammenberuf in Deutschland aufgrund einer Erlaubnis nach § 5 aus, so stellt ihnen die zuständige Behörde auf Antrag eine Bescheinigung aus, damit sie die Möglichkeit haben, in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder einem gleichgestellten Staat ihren Beruf als dienstleistungserbringende Person im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union vorübergehend und gelegentlich auszuüben.
 
@@ -913,8 +847,7 @@ c) keine Vorstrafen der dienstleistungserbringenden Person vorliegen,
 
 3. dass die antragstellende Person über die berufliche Qualifikation verfügt, die für die Ausübung des Hebammenberufs erforderlich ist.
 
-
-## § 64 – Zuständige Behörde
+# § 64 – Zuständige Behörde
 
 (1) Die Länder bestimmen die zur Durchführung dieses Gesetzes zuständigen Behörden.
 
@@ -924,8 +857,7 @@ c) keine Vorstrafen der dienstleistungserbringenden Person vorliegen,
 
 (4) Die Aufgaben nach Teil 5 Abschnitt 1 nimmt die zuständige Behörde des Landes wahr, in dem die Dienstleistung erbracht werden soll oder erbracht worden ist. Die Aufgaben nach Teil 5 Abschnitt 2 nimmt die zuständige Behörde des Landes wahr, in dem die antragstellende Person den Beruf der Hebamme ausübt.
 
-
-## § 65 – Unterrichtungs- und Überprüfungspflichten
+# § 65 – Unterrichtungs- und Überprüfungspflichten
 
 (1) Die zuständige Behörde des Landes, in dem eine Person den Hebammenberuf ausübt oder zuletzt ausgeübt hat, unterrichtet die zuständigen Behörden des Herkunftsstaates, wenn
 
@@ -957,8 +889,7 @@ Das Bundesministerium für Gesundheit unterrichtet die anderen Mitgliedstaaten, 
 
 (4) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit statistische Aufstellungen über die getroffenen Entscheidungen, die die Europäische Kommission für den nach Artikel 60 Absatz 1 der Richtlinie 2005/36/EG erforderlichen Bericht benötigt. Das Bundesministerium für Gesundheit leitet die ihm übermittelten statistischen Aufstellungen an die Europäische Kommission weiter.
 
-
-## § 66 – Warnmitteilung durch die zuständige Behörde
+# § 66 – Warnmitteilung durch die zuständige Behörde
 
 (1) Die zuständige Behörde eines Landes übermittelt den zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der anderen gleichgestellten Staaten eine Warnmitteilung, wenn eine der folgenden Entscheidungen getroffen worden ist:
 
@@ -990,8 +921,7 @@ Das Bundesministerium für Gesundheit unterrichtet die anderen Mitgliedstaaten, 
 
 (5) Gleichzeitig mit der Warnmitteilung unterrichtet die Behörde, die die Warnmitteilung getätigt hat, die betroffene Person schriftlich über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die Behörde, die die Warnmitteilung getätigt hat, die Warnmitteilung um einen entsprechenden Hinweis.
 
-
-## § 67 – Unterrichtung über Änderungen
+# § 67 – Unterrichtung über Änderungen
 
 (1) Die zuständige Behörde, die die Warnmitteilung getätigt hat, unterrichtet die zuständigen Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten über
 
@@ -1001,13 +931,11 @@ Das Bundesministerium für Gesundheit unterrichtet die anderen Mitgliedstaaten, 
 
 (2) Für die Unterrichtung ist das Binnenmarkt-Informationssystem zu verwenden.
 
-
-## § 68 – Löschung einer Warnmitteilung
+# § 68 – Löschung einer Warnmitteilung
 
 Die zuständige Behörde, die die Warnmitteilung getätigt hat, löscht die Warnmitteilung im Binnenmarkt-Informationssystem unverzüglich, spätestens jedoch drei Tage nach Aufhebung der in § 66 Absatz 1 genannten Entscheidung.
 
-
-## § 69 – Unterrichtung über gefälschte Berufsqualifikationsnachweise
+# § 69 – Unterrichtung über gefälschte Berufsqualifikationsnachweise
 
 (1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag auf Erteilung der Erlaubnis nach § 5 gefälschte Berufsqualifikationsnachweise vorgelegt hat, unterrichtet die zuständige Behörde die zuständigen Stellen der Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten Staaten über
 
@@ -1025,8 +953,7 @@ c) Geburtsort und
 
 (3) Gleichzeitig mit der Unterrichtung über die Fälschung unterrichtet die Behörde, die die Unterrichtung über die Fälschung vorgenommen hat, die betroffene Person schriftlich über die Unterrichtung über die Fälschung und deren Inhalt. Der Unterrichtung hat sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die Unterrichtung über die Fälschung eingelegt, so ergänzt die Stelle, die die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung über die Fälschung um einen entsprechenden Hinweis.
 
-
-## § 70 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
+# § 70 – Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich dieses Gesetzes den Hebammenberuf aus oder führt die Berufsbezeichnung „Hebamme“, ohne dass die Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige Behörde unverzüglich die zuständige Behörde des Staates, in dem die dienstleistungserbringende Person niedergelassen ist, über den Verstoß.
 
@@ -1044,8 +971,7 @@ c) Geburtsort und
 
 3. Informationen darüber, ob berufsbezogene disziplinarische oder strafrechtliche Sanktionen vorliegen.
 
-
-## § 71 – Ermächtigung zum Erlass einer Studien- und Prüfungsverordnung
+# § 71 – Ermächtigung zum Erlass einer Studien- und Prüfungsverordnung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer Studien- und Prüfungsverordnung, die der Zustimmung des Bundesrates bedarf, Folgendes zu regeln:
 
@@ -1071,8 +997,7 @@ e) das Verfahren bei der Ausstellung eines Europäischen Berufsausweises nach §
 
 (2) Abweichungen durch Landesrecht von den Regelungen des Verwaltungsverfahrens in der auf der Grundlage der nach Absatz 1 erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1 können die Länder Abweichungen von den durch Rechtsverordnung im Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen vorsehen.
 
-
-## § 72 – Bußgeldvorschriften
+# § 72 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
@@ -1082,51 +1007,43 @@ e) das Verfahren bei der Ausstellung eines Europäischen Berufsausweises nach §
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-
-## § 73 – Fortgelten der Erlaubnis zum Führen der Berufsbezeichnung
+# § 73 – Fortgelten der Erlaubnis zum Führen der Berufsbezeichnung
 
 Eine Erlaubnis zum Führen der Berufsbezeichnung nach dem Hebammengesetz in der bis zum 31. Dezember 2019 geltenden Fassung bleibt durch dieses Gesetz unberührt. Sie gilt als Erlaubnis nach § 5. Dies gilt auch für eine Erlaubnis, die vor Wirksamwerden des Beitritts nach den Vorschriften der Deutschen Demokratischen Republik erteilt wurde.
 
-
-## § 74 – Übergangsvorschriften für Entbindungspfleger
+# § 74 – Übergangsvorschriften für Entbindungspfleger
 
 (1) Die außerhalb dieses Gesetzes für „Hebammen“ bestehenden Rechtsvorschriften sind auch auf „Entbindungspfleger“ anzuwenden.
 
 (2) Entbindungspfleger haben auf Antrag Anspruch auf Erteilung einer Erlaubnis nach § 5 mit der Berufsbezeichnung „Hebamme“. In der Erlaubnis ist auf die ihr zugrunde liegende Berufsqualifikation sowie das Datum der ursprünglichen Erteilung der Erlaubnis zum Führen der Berufsbezeichnung hinzuweisen.
 
-
-## § 75 – Kooperation von Hochschulen mit Hebammenschulen
+# § 75 – Kooperation von Hochschulen mit Hebammenschulen
 
 (1) Hochschulen können bis zum 31. Dezember 2030 die praktischen Lehrveranstaltungen des Studiums und die Praxisbegleitung von Hebammenschulen durchführen lassen.
 
 (2) Die Hochschule schließt über die Zusammenarbeit nach Absatz 1 eine Kooperationsvereinbarung mit der Hebammenschule. Die Hochschule trägt die Verantwortung dafür, dass das Studienziel gemäß § 9 erreicht wird.
 
-
-## § 76 – Anwendung von Vorschriften über die fachschulische Ausbildung und die Ausbildung in der Form von Modellvorhaben
+# § 76 – Anwendung von Vorschriften über die fachschulische Ausbildung und die Ausbildung in der Form von Modellvorhaben
 
 Nach Maßgabe der §§ 77 und 78 kann die Ausbildung zur Hebamme oder zum Entbindungspfleger auch nach dem 31. Dezember 2019 auf der Grundlage der Vorschriften des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung und der auf dieser Grundlage ergangenen Rechtsverordnung fortgesetzt oder begonnen werden.
 
-
-## § 77 – Abschluss begonnener fachschulischer Ausbildungen
+# § 77 – Abschluss begonnener fachschulischer Ausbildungen
 
 (1) Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 begonnen wurde, kann bis zum 31. Dezember 2027 auf der Grundlage der Vorschriften des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung abgeschlossen werden. Wer die Ausbildung erfolgreich abgeschlossen hat und die weiteren Voraussetzungen des § 2 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung erfüllt, erhält auf Antrag die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung. Diese Erlaubnis gilt als Erlaubnis nach § 5.
 
 (2) Für die Finanzierung der Ausbildung nach Absatz 1 Satz 1 gilt § 17a des Krankenhausfinanzierungsgesetzes in der bis zum 31. Dezember 2019 geltenden Fassung.
 
-
-## § 77a – Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen
+# § 77a – Übergangsvorschrift für die Anerkennung ausländischer Berufsqualifikationen
 
 (1) Die Entscheidung über einen Antrag auf Anerkennung einer außerhalb dieses Gesetzes erworbenen Berufsqualifikation kann bis zum 31. Dezember 2024 auf der Grundlage der Vorschriften des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung getroffen werden.
 
 (2) Absatz 1 gilt nicht für Entscheidungen über einen Antrag auf Anerkennung einer Berufsqualifikation, soweit die Berufsqualifikation nach Teil 4 Abschnitt 2 dieses Gesetzes die Voraussetzungen für die automatische Anerkennung erfüllt.
 
-
-## § 78 – Abschluss begonnener Ausbildungen in Form von Modellvorhaben
+# § 78 – Abschluss begonnener Ausbildungen in Form von Modellvorhaben
 
 Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die vor dem 31. Dezember 2022 auf der Grundlage des § 6 Absatz 3 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung in Form von Modellvorhaben begonnen wurde, kann bis zum 31. Dezember 2027 auf der Grundlage der Vorschriften des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung abgeschlossen werden. Wer die Ausbildung erfolgreich abgeschlossen hat und die weiteren Voraussetzungen des § 2 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung erfüllt, erhält die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung. Diese Erlaubnis gilt als Erlaubnis nach § 5.
 
-
-## § 79 – Weitergeltung der staatlichen Anerkennung von Hebammenschulen
+# § 79 – Weitergeltung der staatlichen Anerkennung von Hebammenschulen
 
 Hebammenschulen, die am 31. Dezember 2019 nach den Vorschriften des Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung staatlich anerkannt sind und deren Anerkennung nicht aufgehoben wird, gelten weiterhin als staatlich anerkannt
 
@@ -1134,8 +1051,7 @@ Hebammenschulen, die am 31. Dezember 2019 nach den Vorschriften des Hebammengese
 
 2. für die Durchführung der praktischen Lehrveranstaltungen und der Praxisbegleitung im Rahmen von Kooperationen mit Hochschulen nach § 75 bis zum 31. Dezember 2030.
 
-
-## § 80 – Evaluierung
+# § 80 – Evaluierung
 
 (1) Das Bundesministerium für Gesundheit evaluiert bis zum 31. Dezember 2035 auf wissenschaftlicher Grundlage die Wirkungen dieses Gesetzes. Die Evaluierung soll sich insbesondere auf die Umsetzung der vollständigen Akademisierung der Hebammenausbildung beziehen. Dies umfasst beispielsweise die Einrichtung von dualen Studiengängen und die Entwicklung der Zahl der Hebammenstudierenden. Gegenstand der Evaluierung ist insbesondere auch, wie die Länder ihren Gestaltungsspielraum bei den Anforderungen an die Qualifikation der Lehrenden und der Studiengangsleitungen genutzt haben.
 

@@ -1,10 +1,7 @@
-# [FZulGAnwBek] Bekanntmachung über die Anwendbarkeit des Forschungszulagengesetzes
-
-Ausfertigungsdatum: 01.07.2020
-
+% Bekanntmachung über die Anwendbarkeit des Forschungszulagengesetzes
+% Ausfertigungsdatum: 01.07.2020
  
-
-## ----
+# ----
 
 Nach § 16 Absatz 3 des Forschungszulagengesetzes vom 14. Dezember 2019 (BGBl. I S. 2763), das durch Artikel 8 des Gesetzes vom 29. Juni 2020 (BGBl. I S. 1512) geändert worden ist, wird hiermit folgender Beschluss der Europäischen Kommission vom 26. Juni 2020 bekannt gegeben:
 
@@ -12,7 +9,6 @@ Die Freistellung der nationalen Beihilferegelung (Forschungszulagengesetz), für
 
 Die weitere Anwendbarkeit der AGVO auf dieses Gesetz oder der Tag des Wegfalls der Freistellungsvoraussetzungen werden im Bundesgesetzblatt bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium der Finanzen

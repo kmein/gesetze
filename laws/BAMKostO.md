@@ -1,25 +1,19 @@
-# [BAMKostO] Kostenverordnung für Nutzleistungen der Bundesanstalt für Materialforschung und -prüfung
-
-Ausfertigungsdatum: 17.12.1970
-
+% Kostenverordnung für Nutzleistungen der Bundesanstalt für Materialforschung und -prüfung
+% Ausfertigungsdatum: 17.12.1970
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 28 Abs. 2 und 3 des Gesetzes über explosionsgefährliche Stoffe (Sprengstoffgesetz) vom 25. August 1969 (Bundesgesetzbl. I S. 1358) wird verordnet.
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Bundesanstalt für Materialprüfung (Bundesanstalt) erhebt für ihre Nutzleistungen Gebühren und Auslagen nach dieser Kostenverordnung.
 
-
-## § 1a – Gebühr in besonderen Fällen
+# § 1a – Gebühr in besonderen Fällen
 
 Gebühren werden auch für Nutzleistungen erhoben, die begonnen, aber nicht zu Ende geführt worden sind, wenn die Gründe von demjenigen zu vertreten sind, der die Nutzleistung veranlaßt hat.
 
-
-## § 2 – Berechnung der Gebühren
+# § 2 – Berechnung der Gebühren
 
 (1) Die Gebühr wird auf der Grundlage der in der Anlage zu dieser Kostenverordnung für die einzelnen Organisationseinheiten aufgeführten Stundensätze nach Zeitaufwand berechnet. Die Stundensätze enthalten alle in der jeweiligen Organisationseinheit anfallenden Kosten.
 
@@ -27,8 +21,7 @@ Gebühren werden auch für Nutzleistungen erhoben, die begonnen, aber nicht zu E
 
 (3) Die Gebühr kann im Einzelfall erhöht (§ 6) oder ermäßigt werden (§ 7).
 
-
-## § 3 – Gebühr nach Zeitaufwand, Reise- und Wartezeiten
+# § 3 – Gebühr nach Zeitaufwand, Reise- und Wartezeiten
 
 (1) Beim Zeitaufwand werden folgende Tätigkeiten erfaßt:
 
@@ -46,33 +39,27 @@ Gebühren werden auch für Nutzleistungen erhoben, die begonnen, aber nicht zu E
 
 (5) Zum Zeitaufwand gehören auch die durch den jeweiligen Antrag verursachten Reisezeiten, die in der üblichen Arbeitszeit liegen, sowie die Wartezeiten, sofern sie vom Antragsteller verursacht worden sind.
 
-
-## § 4 – Sonderaufwendungen
+# § 4 – Sonderaufwendungen
 
 Erfordert die Nutzleistung außergewöhnliche Aufwendungen für Material, Energie, besondere Prüfanlagen, Meß- und Hilfseinrichtungen oder andere Vorkehrungen oder Hilfsmittel oder verursacht die Nutzleistung sonstige überdurchschnittliche Kosten, so sind diese Sonderaufwendungen entsprechend den Selbstkosten zu berechnen.
 
-
-## § 5 – Überlassung von Anlagen und Geräten auf Zeit
+# § 5 – Überlassung von Anlagen und Geräten auf Zeit
 
 Die Überlassung von Anlagen und Geräten auf Zeit ist entsprechend den Selbstkosten zu berechnen.
 
-
-## § 6 – Beschleunigt erbrachte Nutzleistungen
+# § 6 – Beschleunigt erbrachte Nutzleistungen
 
 Wird eine Nutzleistung wegen besonderer Dringlichkeit auf Antrag außer der Reihe der laufenden Arbeiten erbracht, so kann ein Zuschlag von höchstens 100 vom Hundert der nach den §§ 3 bis 5 errechneten Gebühr erhoben werden.
 
-
-## § 7 – Ermäßigung der Gebühr
+# § 7 – Ermäßigung der Gebühr
 
 Ergibt die Berücksichtigung des wirtschaftlichen Wertes der Nutzleistung für den Antragsteller im Einzelfall, daß die nach den §§ 3 bis 5 errechnete Gebühr unverhältnismäßig hoch ist, so kann sie um einen angemessenen Betrag ermäßigt werden.
 
-
-## § 8
+# § 8
 
 (weggefallen)
 
-
-## § 9 – Auslagen
+# § 9 – Auslagen
 
 Als Auslagen sind zu erstatten:
 
@@ -84,8 +71,7 @@ Als Auslagen sind zu erstatten:
 
 4. Aufwendungen für Lieferungen und Leistungen Dritter.
 
-
-## § 10 – Gebührenschuldner
+# § 10 – Gebührenschuldner
 
 (1) Zur Zahlung der Gebühren ist verpflichtet,
 
@@ -97,8 +83,7 @@ Als Auslagen sind zu erstatten:
 
 (2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
-
-## § 11 – Festsetzung der Gebühren, Fälligkeit und Vorschuss
+# § 11 – Festsetzung der Gebühren, Fälligkeit und Vorschuss
 
 (1) Die Gebühren werden durch schriftlichen Bescheid festgesetzt. Aus dem Bescheid muss mindestens hervorgehen:
 
@@ -118,38 +103,31 @@ Als Auslagen sind zu erstatten:
 
 (4) Die Aushändigung eines Gutachtens oder die Bekanntgabe der Prüfungsergebnisse kann zurückgestellt werden, bis die durch die Nutzleistung erwachsenen Gebühren bezahlt sind.
 
-
-## § 12 – Stundung, Niederschlagung und Erlaß
+# § 12 – Stundung, Niederschlagung und Erlaß
 
 Auf die Stundung, die Niederschlagung und den Erlaß von Forderungen der Bundesanstalt auf Zahlung von Gebühren nach dieser Kostenordnung sind die Vorschriften der Bundeshaushaltsordnung entsprechend anzuwenden.
 
+# §§ 13 und 14 – (weggefallen)
 
-## §§ 13 und 14 – (weggefallen)
-
-
-## § 15 – Erstattung
+# § 15 – Erstattung
 
 (1) Überzahlte oder zu Unrecht erhobene Gebühren sind unverzüglich zu erstatten, zu Unrecht erhobene Gebühren jedoch nur, soweit eine Gebührenfestsetzung noch nicht unanfechtbar geworden ist; nach diesem Zeitpunkt können zu Unrecht erhobene Gebühren nur aus Billigkeitsgründen erstattet werden.
 
 (2) Der Erstattungsanspruch erlischt durch Verjährung, wenn er nicht bis zum Ablauf des dritten Kalenderjahrs geltend gemacht wird, das auf die Entstehung des Anspruchs folgt; die Verjährung beginnt jedoch nicht vor der Unanfechtbarkeit der Gebührenfestsetzung.
 
-
-## § 16
+# § 16
 
 (aufgehoben)
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft. Gleichzeitig tritt die Anstaltssatzung der Bundesanstalt für Materialprüfung in Berlin über die Gebühren für die amtliche Materialprüfung (GaM) vom 8. Februar 1961 (Bundesanzeiger Nr. 35 vom 18. Februar 1961), zuletzt geändert durch die Zweite Änderung der Anstaltssatzung der Bundesanstalt für Materialprüfung über die Gebühren für die amtliche Materialprüfung (GaM) vom 1. Juni 1968, genehmigt am 19. Juli 1968 (Bundesanzeiger Nr. 140 vom 31. Juli 1968), außer Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – (zu § 2)
+# Anlage – (zu § 2)
 
 (Fundstelle: BGBl. I 2018, 373)
 

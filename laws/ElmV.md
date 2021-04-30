@@ -1,17 +1,13 @@
-# [ElmV] Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung von Lebensmitteln  (Extraktionslösungsmittelverordnung - ElmV)
-
-Ausfertigungsdatum: 08.11.1991
-
+% Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung von Lebensmitteln  (Extraktionslösungsmittelverordnung - ElmV)
+% Ausfertigungsdatum: 08.11.1991
  
-
-## § 1 – Begriffsbestimmung und Anwendungsbereich
+# § 1 – Begriffsbestimmung und Anwendungsbereich
 
 (1) Extraktionslösungsmittel im Sinne dieser Verordnung sind Stoffe, die bei der Herstellung von Lebensmitteln zur Extraktion verwendet und aus dem Enderzeugnis wieder entfernt werden, die jedoch unbeabsichtigte, aber technisch unvermeidbare Rückstände oder Umwandlungsprodukte in den Lebensmitteln hinterlassen können.
 
 (2) Diese Verordnung gilt nicht für die Herstellung von Lebensmittelzusatzstoffen, Vitaminen und sonstigen Stoffen, die Lebensmitteln zu ernährungsphysiologischen Zwecken zugesetzt werden.
 
-
-## § 2 – Zugelassene Stoffe
+# § 2 – Zugelassene Stoffe
 
 (1) Stoffe im Sinne des Artikels 3 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) in der jeweils geltenden Fassung, die als Extraktionslösungsmittel verwendet werden, werden den Lebensmittelzusatzstoffen gleichgestellt.
 
@@ -31,18 +27,15 @@ zur allgemeinen Verwendung unter Einhaltung der nach redlichem Herstellerbrauch 
 
 (3) Ferner dürfen Wasser, Ethanol und andere Lebensmittel, die Lösungsmitteleigenschaften haben, als Extraktionslösungsmittel verwendet werden.
 
-
-## § 3 – Höchstmengen
+# § 3 – Höchstmengen
 
 Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als Extraktionslösungsmittel bei dem gewerbsmäßigen Herstellen von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, nur so verwendet werden, dass ihre Restgehalte in den Lebensmitteln die dort festgesetzten Höchstmengen nicht überschreiten.
 
-
-## § 4 – Reinheitsanforderungen
+# § 4 – Reinheitsanforderungen
 
 Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als Extraktionslösungsmittel bei dem gewerbsmäßigen Herstellen von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, nur verwendet werden, wenn sie den Reinheitsanforderungen gemäß Anlage 4 entsprechen. Das Gleiche gilt für Ethanol.
 
-
-## § 5 – Kennzeichnung
+# § 5 – Kennzeichnung
 
 (1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel bestimmt sind, gewerbsmäßig nur in den Verkehr gebracht werden, wenn angegeben sind:
 
@@ -60,8 +53,7 @@ Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als Extraktionslösungsm
 
 (3) Die Kennzeichnungsvorschriften der Gefahrstoffverordnung bleiben unberührt.
 
-
-## § 6 – Straftaten und Ordnungswidrigkeiten
+# § 6 – Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer entgegen § 3 oder § 4 Satz 1 Stoffe als Extraktionslösungsmittel verwendet.
 
@@ -73,11 +65,9 @@ Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als Extraktionslösungsm
 
 2. entgegen § 5 Absatz 1 in Verbindung mit Absatz 2 Satz 1 Stoffe als Extraktionslösungsmittel in den Verkehr bringt, die nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet sind.
 
+# § 7 – (Inkrafttreten)
 
-## § 7 – (Inkrafttreten)
-
-
-## Anlage 1 – (zu § 2 Absatz 2 Nummer 1 Buchstabe c)Allgemein verwendbare Extraktionslösungsmittel
+# Anlage 1 – (zu § 2 Absatz 2 Nummer 1 Buchstabe c)Allgemein verwendbare Extraktionslösungsmittel
 
 (Fundstelle: BGBl. I 2018, 369)
 
@@ -93,18 +83,15 @@ Aceton; darf nicht bei der Raffinierung von Oliventresteröl verwendet werden
 
 Distickstoffmonoxid
 
-
-## Anlage 2 – (zu § 2 Absatz 2 Nummer 2 und § 3)Beschränkt verwendbare Extraktionslösungsmittel
+# Anlage 2 – (zu § 2 Absatz 2 Nummer 2 und § 3)Beschränkt verwendbare Extraktionslösungsmittel
 
 (Fundstelle: BGBl. I 2018, 370)
 
-
-## Anlage 3 – (zu § 2 Absatz 2 Nummer 3 und § 3)Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
+# Anlage 3 – (zu § 2 Absatz 2 Nummer 3 und § 3)Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
 
 (Fundstelle: BGBl. I 2018, 371)
 
-Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1 und Absatz 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.  
-  
+Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1 und Absatz 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.   
 
 Stoff
 
@@ -185,8 +172,7 @@ Cyclohexan
 <span id="FnA1-F801547_11"></span><a href="#FnR.FnA1-F801547_11" class="Footnote">1</a>  
 Die gleichzeitige Verwendung von Hexan und Ethylmethylketon ist nicht zulässig.
 
-
-## Anlage 4 – (zu § 4 Satz 1 und 2)Reinheitskriterien für Extraktionslösungsmittel
+# Anlage 4 – (zu § 4 Satz 1 und 2)Reinheitskriterien für Extraktionslösungsmittel
 
 (Fundstelle: BGBl. I 2018, 372)
 

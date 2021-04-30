@@ -1,16 +1,12 @@
-# [MariMedV] Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen   (Maritime-Medizin-Verordnung - MariMedV)
-
-Ausfertigungsdatum: 14.08.2014
-
+% Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen   (Maritime-Medizin-Verordnung - MariMedV)
+% Ausfertigungsdatum: 14.08.2014
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
   
   
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -26,8 +22,7 @@ Diese Verordnung regelt
 
 Der Anwendungsbereich der Verordnung erstreckt sich auch auf Sachverhalte an Land, soweit diese einen unmittelbaren Bezug zu den in Satz 1 Nummer 1 bis 5 aufgeführten Bereichen aufweisen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind
 
@@ -39,20 +34,17 @@ Im Sinne dieser Verordnung sind
 
 4. der seeärztliche Dienst: eine mit Ärzten ausgestattete Arbeitseinheit der Berufsgenossenschaft, die schifffahrtsmedizinische Aufgaben wahrnimmt.
 
-
-## § 3 – Anforderungen an die Seediensttauglichkeit
+# § 3 – Anforderungen an die Seediensttauglichkeit
 
 Die nach § 11, auch in Verbindung mit § 3 Absatz 4 Satz 2 bis 4, des Seearbeitsgesetzes erforderliche Seediensttauglichkeit liegt vor, wenn die zu untersuchende Person die für den Dienstzweig, in dem sie tätig werden will, in der Anlage 1 vorgesehenen gesundheitlichen Anforderungen erfüllt.
 
-
-## § 4 – Durchführung der Seediensttauglichkeitsuntersuchung
+# § 4 – Durchführung der Seediensttauglichkeitsuntersuchung
 
 (1) Der zugelassene Arzt hat die Seediensttauglichkeitsuntersuchung in seinen Untersuchungsräumen und für jede untersuchte Person einzeln nach den Anforderungen der Anlage 2 durchzuführen. Die zu untersuchende Person ist über ihren Gesundheitszustand und über frühere Krankheiten zu befragen.
 
 (2) Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes kann zu einer Untersuchung einen anderen Arzt hinzuziehen oder eine Ergänzungsuntersuchung veranlassen, sofern dies für die Beurteilung der Seediensttauglichkeit erforderlich ist. Die abschließende Beurteilung obliegt dem zugelassenen Arzt oder dem Arzt des seeärztlichen Dienstes.
 
-
-## § 5 – Seediensttauglichkeitszeugnis
+# § 5 – Seediensttauglichkeitszeugnis
 
 (1) Stellt der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes die Seediensttauglichkeit fest, hat er
 
@@ -66,8 +58,7 @@ Die untersuchte Person hat das Seediensttauglichkeitszeugnis zu unterschreiben.
 
 (2) Das Seediensttauglichkeitszeugnis ist von seinem Inhaber nach Maßgabe der Sätze 2 und 3 im Original an Bord mitzuführen. Der Inhaber des Seediensttauglichkeitszeugnisses hat dieses dem Kapitän bei Dienstantritt an Bord zur Verwahrung auszuhändigen. Der Kapitän hat das Seediensttauglichkeitszeugnis während der Dauer der Tätigkeit des Inhabers des Seediensttauglichkeitszeugnisses auf dem Schiff zu verwahren und diesem bei Beendigung dessen Tätigkeit wieder auszuhändigen.
 
-
-## § 6 – Einschränkungen der Seediensttauglichkeit
+# § 6 – Einschränkungen der Seediensttauglichkeit
 
 Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat Einschränkungen der Seediensttauglichkeit, insbesondere hinsichtlich bestimmter Tätigkeiten oder bestimmter Fahrtgebiete oder der Dauer der Tätigkeit an Bord, in das Seediensttauglichkeitszeugnis einzutragen, soweit dies aufgrund des Ergebnisses der Untersuchung erforderlich ist. Ferner können bei Vorliegen der Voraussetzungen des Satzes 1 Auflagen für die Tätigkeit an Bord in dem Seediensttauglichkeitszeugnis vermerkt werden, insbesondere hinsichtlich
 
@@ -75,13 +66,11 @@ Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat Einschränkun
 
 2. des Tragens oder Verwendens von Brillen, Kontaktlinsen, Hörgeräten oder anderen Hilfsmitteln und des Mitführens von Ersatzgeräten für die Hilfsmittel.
 
-
-## § 7 – Ablehnung der Seediensttauglichkeit
+# § 7 – Ablehnung der Seediensttauglichkeit
 
 Ist die untersuchte Person seedienstuntauglich, stellt der zugelassene Arzt eine Bescheinigung über das Nichterteilen des Seediensttauglichkeitszeugnisses aus und händigt die Bescheinigung der untersuchten Person aus oder übermittelt ihr diese.
 
-
-## § 8 – Widerspruchsausschuss
+# § 8 – Widerspruchsausschuss
 
 (1) Für den nach § 15 Absatz 2 des Seearbeitsgesetzes zu bildenden Widerspruchsausschuss sollen die Verbände der Reeder und der Seeleute bei der Berufsgenossenschaft Vorschlagslisten mit Namen fachkundiger Personen für die Berufung als Beisitzer aus den in Absatz 2 Satz 1 aufgeführten Berufsgruppen einreichen. Die Berufsgenossenschaft wählt nach Maßgabe des Absatzes 2 Satz 1 geeignete Personen aus den Listen aus und beruft die ausgewählten Personen zu Mitgliedern des Widerspruchsausschusses für die Dauer von vier Jahren. Jeder Beisitzer muss zum Zeitpunkt des Vorschlages das 25. Lebensjahr vollendet haben und mindestens insgesamt drei Jahre in einem Dienstzweig seiner Berufsgruppe tätig sein oder gewesen sein.
 
@@ -107,8 +96,7 @@ Der Vorsitzende zieht den Beisitzer aus der Berufsgruppe des Widerspruchsführer
 
 (6) Die Mitglieder des Widerspruchsausschusses sind zur Verschwiegenheit über die in Ausübung des Amtes zur Kenntnis gelangten persönlichen Verhältnisse des Widerspruchsführers verpflichtet.
 
-
-## § 9 – Zulassung von Ärzten
+# § 9 – Zulassung von Ärzten
 
 (1) Die notwendigen fachlichen Kenntnisse für die Zulassung nach § 16 des Seearbeitsgesetzes liegen vor, wenn der Arzt
 
@@ -132,8 +120,7 @@ Der Vorsitzende zieht den Beisitzer aus der Berufsgruppe des Widerspruchsführer
 
 (5) Die Berufsgenossenschaft veröffentlicht eine Liste der von ihr zugelassenen Ärzte mit den in § 16 Absatz 1 Satz 4 des Seearbeitsgesetzes genannten Daten für jeden Arzt auf ihrer Internetseite.
 
-
-## § 10 – Verlängerung der Zulassung
+# § 10 – Verlängerung der Zulassung
 
 (1) Die Zulassung wird auf Antrag jeweils um drei Jahre verlängert, wenn die Voraussetzungen des § 9 Absatz 1 Nummer 1, 2, 6 und Absatz 2 weiter vorliegen und der zugelassene Arzt nachweist, dass er seit der Zulassung oder der letzten Verlängerung der Zulassung
 
@@ -145,8 +132,7 @@ Regelmäßige Seediensttauglichkeitsuntersuchungen im Sinne des Satzes 1 Nummer 
 
 (2) Wurde ein Arzt nach § 16 Absatz 2 Satz 1 des Seearbeitsgesetzes erstmalig zugelassen und beantragt er eine Verlängerung der Zulassung, gilt Absatz 1 mit der Maßgabe, dass 100 Seediensttauglichkeitsuntersuchungen innerhalb eines Jahres seit der Zulassung durchzuführen waren.
 
-
-## § 11 – Dokumentationspflichten
+# § 11 – Dokumentationspflichten
 
 (1) Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes hat die für die Feststellung der Seediensttauglichkeit maßgeblichen Ergebnisse der Seediensttauglichkeitsuntersuchung aufzuzeichnen und die in § 19 Absatz 6 Satz 2 und 3 des Seearbeitsgesetzes vorgesehenen Daten unverzüglich in das Seediensttauglichkeitsverzeichnis zu übermitteln. Die Vorschrift des § 630f des Bürgerlichen Gesetzbuchs bleibt unberührt.
 
@@ -154,8 +140,7 @@ Regelmäßige Seediensttauglichkeitsuntersuchungen im Sinne des Satzes 1 Nummer 
 
 (3) Ärztliche Aufzeichnungen über Seediensttauglichkeitsuntersuchungen sind für die Dauer von zehn Jahren nach Abschluss der Untersuchungen aufzubewahren, soweit nicht nach anderen Vorschriften längere Aufbewahrungsfristen für Teile der Aufzeichnungen bestehen. Nach Beendigung der Zulassung hat der Arzt seine ärztlichen Aufzeichnungen und Untersuchungsbefunde aufzubewahren oder dafür Sorge zu tragen, dass sie in gehörige Obhut gegeben werden, sowie sicherzustellen, dass der seeärztliche Dienst zum Zwecke des § 13 Absatz 1 des Seearbeitsgesetzes Einsicht in die Unterlagen nehmen kann; Satz 1 gilt entsprechend.
 
-
-## § 12 – Zugang zum Seediensttauglichkeitsverzeichnis
+# § 12 – Zugang zum Seediensttauglichkeitsverzeichnis
 
 (1) Zur Übermittlung von Daten aus dem Seediensttauglichkeitsverzeichnis dürfen durch Abruf im automatisierten Verfahren die nach § 19 Absatz 3 des Seearbeitsgesetzes gespeicherten Daten bereitgehalten werden.
 
@@ -171,8 +156,7 @@ erfolgt. Nutzer im Sinne des Satzes 1 Nummer 1 kann eine natürliche Person oder
 
 (4) Die übermittelnde Stelle hat durch ein selbsttätiges Verfahren zu gewährleisten, dass keine Abrufe erfolgen können, sobald die Kennung nach Absatz 3 Satz 1 Nummer 1 oder das Passwort mehr als dreimal hintereinander unrichtig übermittelt wurde. Die abrufende Stelle hat Maßnahmen zum Schutz gegen unberechtigte Nutzungen des Abrufsystems zu treffen.
 
-
-## § 13 – Anforderungen an die Seediensttauglichkeit von Kanalsteurern
+# § 13 – Anforderungen an die Seediensttauglichkeit von Kanalsteurern
 
 (1) Die nach § 11 in Verbindung mit § 3 Absatz 4 Satz 3 des Seearbeitsgesetzes für einen Kanalsteurer auf dem Nord-Ostsee-Kanal erforderliche Seediensttauglichkeit liegt vor, wenn er
 
@@ -186,15 +170,13 @@ erfüllt.
 
 (3) Abweichend von § 6 und der Anlage 1 Nummer 6.2 darf bei einem Kanalsteurer die Seediensttauglichkeit nur hinsichtlich der Dauer und des Fahrtgebietes eingeschränkt sein.
 
-
-## § 14 – Betriebseigene Kontrollen
+# § 14 – Betriebseigene Kontrollen
 
 (1) Der Reeder hat dafür zu sorgen, dass im Rahmen der betriebseigenen Kontrolle der medizinischen Ausstattung nach § 109 Absatz 3 Satz 2 des Seearbeitsgesetzes die mitwirkende öffentliche Apotheke die notwendige Ergänzung und Einsortierung der medizinischen Ausstattung mit Arzneimitteln, Medizinprodukten und Hilfsmitteln an Bord des Schiffes vornimmt. Dies gilt nicht, wenn das Schiff in einem ausländischen Hafen liegt oder wenn kein Apothekenschrank vorgeschrieben ist.
 
 (2) Soweit Arzneimittel im Ausland beschafft werden, hat dies unter Mitwirkung der in § 109 Absatz 3 Satz 2 des Seearbeitsgesetzes genannten Apotheke zu erfolgen.
 
-
-## § 15 – Verpflichtung zur Teilnahme an medizinischen Wiederholungslehrgängen
+# § 15 – Verpflichtung zur Teilnahme an medizinischen Wiederholungslehrgängen
 
 (1) Kapitäne und nach § 109 Absatz 1 Satz 2 des Seearbeitsgesetzes beauftragte Schiffsoffiziere, die an Bord von
 
@@ -208,8 +190,7 @@ tätig sind, müssen sich alle fünf Jahre durch die Teilnahme an einem von der 
 
 (2) Kapitäne und nach § 109 Absatz 1 Satz 2 des Seearbeitsgesetzes beauftragte Schiffsoffiziere, die an Bord von Schiffen tätig sind, die nicht die Anforderungen des Absatzes 1 erfüllen, müssen sich alle fünf Jahre durch die Teilnahme an einem Lehrgang mit einer Dauer von 16 Unterrichtsstunden (kleiner Lehrgang) fortbilden.
 
-
-## § 16 – Zulassung von Lehrgängen
+# § 16 – Zulassung von Lehrgängen
 
 (1) Ein Lehrgang wird von der Berufsgenossenschaft auf Antrag zugelassen, wenn
 
@@ -235,8 +216,7 @@ tätig sind, müssen sich alle fünf Jahre durch die Teilnahme an einem von der 
 
 erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über die notwendigen fachlichen Kenntnisse, die erforderliche Unabhängigkeit oder Zuverlässigkeit verfügt. Im Übrigen bleiben die §§ 48 und 49 des Verwaltungsverfahrensgesetzes unberührt.
 
-
-## § 17 – Überwachung der Anbieter
+# § 17 – Überwachung der Anbieter
 
 (1) Anbieter unterliegen der Überwachung der Berufsgenossenschaft. Zu diesem Zweck sind die Mitarbeiter der Berufsgenossenschaft insbesondere befugt, bei Anbietern
 
@@ -256,8 +236,7 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über
 
 (4) Zum Zweck der Überprüfung der Vermittlung der geforderten Lerninhalte durch den Anbieter ist die Berufsgenossenschaft berechtigt, stichprobenartig die Lehrgangsteilnehmer am Ende eines Lehrgangs anhand anonymisierter Fragebögen zu befragen.
 
-
-## § 18 – Inhalt und Durchführung der Lehrgänge
+# § 18 – Inhalt und Durchführung der Lehrgänge
 
 (1) Der theoretische Teil des Lehrgangs ist durch eine Ärztin oder einen Arzt durchzuführen. Der praktische Teil kann abweichend von Satz 1 entsprechend der Anlage 4 auch von Gesundheits- und Krankenpflegerinnen und Gesundheits- und Krankenpflegern, von Pflegefachfrauen und Pflegefachmännern, von Rettungsassistentinnen und Rettungsassistenten oder von Notfallsanitäterinnen und Notfallsanitätern übernommen werden. Der praktische Teil des Lehrgangs umfasst praktische Übungen in Gruppen, Demonstrationen von medizinischen Ausrüstungsgegenständen und Fallbeispiele.
 
@@ -269,8 +248,7 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über
 
 (5) Nach Abschluss des Lehrgangs händigt der Anbieter jedem Teilnehmer eine Teilnahmebescheinigung aus.
 
-
-## § 19 – Registrierung von Schiffsärzten
+# § 19 – Registrierung von Schiffsärzten
 
 (1) Der Reeder hat dafür zu sorgen, dass auf seinem Schiff nur solche Besatzungsmitglieder als Schiffsärzte eingesetzt werden, die hierfür von der Berufsgenossenschaft registriert worden sind.
 
@@ -296,18 +274,15 @@ erwirkt hat. Die Zulassung ist zu widerrufen, wenn der Anbieter nicht mehr über
 
 erwirkt hat. Die Registrierung ist zu widerrufen, wenn die Voraussetzungen nach Absatz 2 nicht mehr vorliegen.
 
-
-## § 20 – Muster
+# § 20 – Muster
 
 Für die nach dieser Verordnung vorgesehenen Zeugnisse, Bescheinigungen oder Vordrucke macht die Berufsgenossenschaft die Muster im Verkehrsblatt oder im Bundesanzeiger bekannt.
 
-
-## § 21 – Übergangsregelung für vorläufig zugelassene Ärzte
+# § 21 – Übergangsregelung für vorläufig zugelassene Ärzte
 
 Ein Arzt, der nach § 153 Satz 1 des Seearbeitsgesetzes vorläufig zugelassen ist, bedarf abweichend von § 9 Absatz 1 Satz 1 Nummer 1 für die Zulassung nicht der Anerkennung als Facharzt, wenn der Arzt seit dem 1. Januar 2010 mindestens 300 Seediensttauglichkeitsuntersuchungen durchgeführt und während seiner Tätigkeit an mindestens einem Fortbildungsseminar des seeärztlichen Dienstes teilgenommen hat.
 
-
-## § 22 – Übergangsregelung für Lehrgänge
+# § 22 – Übergangsregelung für Lehrgänge
 
 Lehrgänge, die am 21. August 2014 nach bisherigen Rechtsvorschriften anerkannt waren, gelten vorläufig als nach § 16 Absatz 1 zugelassen. Die vorläufige Zulassung erlischt,
 
@@ -315,8 +290,7 @@ Lehrgänge, die am 21. August 2014 nach bisherigen Rechtsvorschriften anerkannt 
 
 2. im Falle rechtzeitiger Antragstellung mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
 
-
-## Anlage 1 – (zu § 3 und § 13 Absatz 1 Nummer 1 und Absatz 3)Anforderungen an die Seediensttauglichkeit
+# Anlage 1 – (zu § 3 und § 13 Absatz 1 Nummer 1 und Absatz 3)Anforderungen an die Seediensttauglichkeit
 
 (Fundstelle: BGBl. I 2014, 1389 - 1416)
 
@@ -615,8 +589,7 @@ Voraussetzungen, unter denen die zu untersuchende Person die Anforderungen für 
 
 Diese Spalte ist bei der Beurteilung der Seediensttauglichkeit heranzuziehen, wenn die zu untersuchende Person die Kriterien aus Spalte 3 oder 4 nicht erfüllt.
 
-Bei einigen Krankheiten sind eine oder mehrere Spalten entweder nicht relevant oder es handelt sich nicht um eine geeignete Beurteilungskategorie. Dieser Sachverhalt wird mit dem Begriff „nicht zutreffend“ gekennzeichnet.  
-  
+Bei einigen Krankheiten sind eine oder mehrere Spalten entweder nicht relevant oder es handelt sich nicht um eine geeignete Beurteilungskategorie. Dieser Sachverhalt wird mit dem Begriff „nicht zutreffend“ gekennzeichnet.   
 
 Einschränkungen hinsichtlich der Seediensttauglichkeit:
 
@@ -696,8 +669,7 @@ Tuberkulose der Atmungsorgane
 Ansteckung anderer, Rezidiv
 
 T – Bei positivem Screening-Befund oder aus der Anamnese bekannt, bis zur Klärung  
-Bei vorliegender Infektion, bis eine ausreichende Therapie etabliert ist und bestätigt wird, dass keine Ansteckungsgefahr besteht.  
-P – Rezidiv oder schwere bleibende Schäden
+Bei vorliegender Infektion, bis eine ausreichende Therapie etabliert ist und bestätigt wird, dass keine Ansteckungsgefahr besteht. P – Rezidiv oder schwere bleibende Schäden
 
 nicht zutreffend
 
@@ -728,8 +700,7 @@ Nach vollständiger Gesundung
 
 B16–19
 
-Hepatitis B, C etc.  
-Übertragbar durch Kontakt mit Blut oder anderen Körperflüssigkeiten. Möglichkeit einer dauerhaften Leberschädigung und Leberkrebs
+Hepatitis B, C etc. Übertragbar durch Kontakt mit Blut oder anderen Körperflüssigkeiten. Möglichkeit einer dauerhaften Leberschädigung und Leberkrebs
 
 T – Bis Gelbsucht abgeklungen ist und die Leberwerte (im Blut) wieder im Normbereich sind  
 P – Bleibender Leberschaden mit Symptomen, die das sichere Arbeiten auf See beeinträchtigen oder wahrscheinlich zu Komplikationen führen
@@ -1683,8 +1654,7 @@ Beurteilung des Einzelfalls auf der Grundlage der Schwere der Symptome im Liegen
 
 K50, 51, 57, 58, 90
 
-Nichtinfektiöse Enteritis, Colitis, Morbus Crohn, Divertikulitis etc.  
-(Körperliche) Beeinträchtigungen und Schmerzen
+Nichtinfektiöse Enteritis, Colitis, Morbus Crohn, Divertikulitis etc. (Körperliche) Beeinträchtigungen und Schmerzen
 
 T – Bis untersucht und behandelt  
 P – Bei schweren Verläufen oder Rezidiven
@@ -2036,8 +2006,7 @@ Zur Beurteilung können Empfehlungen für ähnliche Krankheitsbilder genutzt wer
 Bemerkungen:
 
 \*  
-Rezidiv-Raten: Dort, wo in Bezug auf die Rezidiv-Wahrscheinlichkeit die Begriffe sehr gering, gering und mäßig gewählt werden. Es handelt sich im Wesentlichen um klinische Beurteilungen, aber für einige Erkrankungen stehen quantitative Nachweise für die Rezidiv-Wahrscheinlichkeit zur Verfügung. Wenn solche Daten zur Verfügung stehen, wie z. B. für Anfallsleiden oder kardiale Erkrankungen, können weitere Untersuchungen erforderlich sein, um die individuelle Rezidiv-Wahrscheinlichkeit zu bestimmen.  
-  
+Rezidiv-Raten: Dort, wo in Bezug auf die Rezidiv-Wahrscheinlichkeit die Begriffe sehr gering, gering und mäßig gewählt werden. Es handelt sich im Wesentlichen um klinische Beurteilungen, aber für einige Erkrankungen stehen quantitative Nachweise für die Rezidiv-Wahrscheinlichkeit zur Verfügung. Wenn solche Daten zur Verfügung stehen, wie z. B. für Anfallsleiden oder kardiale Erkrankungen, können weitere Untersuchungen erforderlich sein, um die individuelle Rezidiv-Wahrscheinlichkeit zu bestimmen.   
 
 Quantifizierte Rezidiv-Niveaus entsprechen folgenden Werten:
 
@@ -2123,16 +2092,14 @@ Anlage 1 Buchst. G40-41 Zeile 2 Spalte 4 Kursivdruck: Aufgrund offensichtlicher 
 Anlage 1 Buchst. H00-59 Spalte 2 Kursivdruck:Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Makulophatien" durch "Makulopathie" ersetzt  
 Anlage 1 Buchst. I20-25 Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Herzkranheiten" durch "Herzkrankheiten" ersetzt
 
-
-## Anlage 2 – (zu § 4 Absatz 1)Durchführung der Seediensttauglichkeitsuntersuchungen
+# Anlage 2 – (zu § 4 Absatz 1)Durchführung der Seediensttauglichkeitsuntersuchungen
 
 (Fundstelle: BGBl. I 2014, 1417 - 1420)
 
 1. Befragung nach dem Gesundheitszustand  
   
 
-Vor der Durchführung der Seediensttauglichkeitsuntersuchung füllt die zu untersuchende Person einen Fragebogen über ihren Gesundheitszustand und über frühere Krankheiten aus und unterschreibt ihn (§ 4 Absatz 1 Satz 2). Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes berücksichtigt die bei dieser Befragung gewonnen Erkenntnisse bei der Beurteilung der Seediensttauglichkeit.  
-  
+Vor der Durchführung der Seediensttauglichkeitsuntersuchung füllt die zu untersuchende Person einen Fragebogen über ihren Gesundheitszustand und über frühere Krankheiten aus und unterschreibt ihn (§ 4 Absatz 1 Satz 2). Der zugelassene Arzt oder der Arzt des seeärztlichen Dienstes berücksichtigt die bei dieser Befragung gewonnen Erkenntnisse bei der Beurteilung der Seediensttauglichkeit.   
 
 Bei einer zu untersuchenden Person, die ihr 18. Lebensjahr noch nicht vollendet hat (Jugendlicher), muss der Fragebogen
 
@@ -2145,11 +2112,9 @@ Bei einer zu untersuchenden Person, die ihr 18. Lebensjahr noch nicht vollendet 
 2. Umfang der Untersuchung  
   
 
-Der Umfang der Seediensttauglichkeitsuntersuchung ergibt sich aus der nachfolgenden Tabelle.  
-  
+Der Umfang der Seediensttauglichkeitsuntersuchung ergibt sich aus der nachfolgenden Tabelle.   
 
-Bei bekannter Schwangerschaft hat der untersuchende Arzt die Schwangere auf das für sie und das Kind bestehende besondere Risiko einer Tätigkeit an Bord eines Seeschiffes hinzuweisen.  
-  
+Bei bekannter Schwangerschaft hat der untersuchende Arzt die Schwangere auf das für sie und das Kind bestehende besondere Risiko einer Tätigkeit an Bord eines Seeschiffes hinzuweisen.   
 
 I.
 
@@ -2273,8 +2238,7 @@ Seedienstuntauglich (P – „Permanent“): Voraussichtlich dauernd, das heißt
 Anlage 2 Nr. 2 Tabelle Ziff. I Zeile 2 Spalte 1 und Spalte 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Anameseerhebung" durch "Anamneseerhebung" ersetzt  
 Anlage 2 Nr. 3.2 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Trichomasie" durch "Trichromasie" ersetzt
 
-
-## Anlage 3 – (zu § 5 Absatz 1 Nummer 2 und § 9 Absatz 4)Muster der Zulassungsstempel
+# Anlage 3 – (zu § 5 Absatz 1 Nummer 2 und § 9 Absatz 4)Muster der Zulassungsstempel
 
 (Fundstelle: BGBl. I 2014, 1421)
 
@@ -2286,7 +2250,7 @@ Der Zulassungsstempel ist für jeden Arzt mit einer ihm zugeordneten fortlaufend
 
 |                                                    |
 |:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2014/j1383-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j1383-1_0010.jpg) |
 
 b) Zulassungsstempel für Seediensttauglichkeitszeugnisse, die durch zugelassene Ärzte erteilt werden
 
@@ -2294,10 +2258,9 @@ Der Zulassungsstempel ist für jeden zugelassenen Arzt mit einer fortlaufenden i
 
 |                                                    |
 |:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2014/j1383-1_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2014/j1383-1_0020.jpg) |
 
-
-## Anlage 4 – (zu § 16 Absatz 1 Nummer 1 und § 18 Absatz 1)Inhalte der medizinischen Wiederholungslehrgänge
+# Anlage 4 – (zu § 16 Absatz 1 Nummer 1 und § 18 Absatz 1)Inhalte der medizinischen Wiederholungslehrgänge
 
 (Fundstelle: BGBl. I 2014, 1422 - 1429)
 
@@ -2305,7 +2268,6 @@ Die Lehrinhalte verschiedener Abschnitte können zusammengefasst werden (z. B. R
 
 Anlage 4 Tabelle (Sofortmaßnahmen bei Unfällen und Krankheiten) Zeile 32 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Ektroponieren" durch das Wort "Ektropionieren" ersetzt
 
-
-## Anlage 5 – (zu § 16 Absatz 1 Nummer 4)Anforderungen an Schulungsräume und medizinische Ausstattung zur Durchführung medizinischer Wiederholungslehrgänge
+# Anlage 5 – (zu § 16 Absatz 1 Nummer 4)Anforderungen an Schulungsräume und medizinische Ausstattung zur Durchführung medizinischer Wiederholungslehrgänge
 
 (Fundstelle: BGBl. I 2014, 1430 - 1431)

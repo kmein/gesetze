@@ -1,18 +1,13 @@
-# [SHKAMAusbV] Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik   (Sanitär-, Heizungs- und Klimatechnikanlagenmechanikerausbildungsverordnung - SHKAMAusbV)
-
-Ausfertigungsdatum: 28.04.2016
-
+% Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik   (Sanitär-, Heizungs- und Klimatechnikanlagenmechanikerausbildungsverordnung - SHKAMAusbV)
+% Ausfertigungsdatum: 28.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 des Berufsbildungsgesetzes, der zuletzt durch Artikel 436 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, und auf Grund des § 25 Absatz 1 Satz 1 der Handwerksordnung, der zuletzt durch Artikel 283 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Anlagenmechanikers für Sanitär-, Heizungs- und Klimatechnik und der Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik wird staatlich anerkannt nach
 
@@ -20,20 +15,17 @@ Der Ausbildungsberuf des Anlagenmechanikers für Sanitär-, Heizungs- und Klimat
 
 2. § 25 der Handwerksordnung zur Ausbildung für das Gewerbe nach Anlage A Nummer 24 Installateur und Heizungsbauer der Handwerksordnung.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert dreieinhalb Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -107,20 +99,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere als die in Satz 1 genannten Einsatzgebiete sind zulässig, wenn in ihnen die Fertigkeiten, Kenntnisse und Fähigkeiten nach den Absätzen 2 und 3 vermittelt werden können.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkte
+# § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkte
 
 (1) Durch die Abschluss- oder Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -128,8 +117,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (3) Teil 1 soll vor dem Ende des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
-
-## § 8 – Inhalt von Teil 1
+# § 8 – Inhalt von Teil 1
 
 Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -137,8 +125,7 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereich Versorgungstechnik
+# § 9 – Prüfungsbereich Versorgungstechnik
 
 (1) Teil 1 der Abschluss- oder Gesellenprüfung findet im Prüfungsbereich Versorgungstechnik statt.
 
@@ -160,8 +147,7 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 (5) Die Prüfungszeit beträgt insgesamt sieben Stunden. Das situative Fachgespräch dauert höchstens 10 Minuten. Auf die schriftliche Bearbeitung der Aufgaben entfallen 60 Minuten.
 
-
-## § 10 – Inhalt von Teil 2
+# § 10 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
@@ -171,8 +157,7 @@ Teil 1 der Abschluss- oder Gesellenprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschluss- oder Gesellenprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschluss- oder Gesellenprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 11 – Prüfungsbereiche von Teil 2
+# § 11 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -184,8 +169,7 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereich
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 12 – Prüfungsbereich Kundenauftrag
+# § 12 – Prüfungsbereich Kundenauftrag
 
 (1) Im Prüfungsbereich Kundenauftrag soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -207,8 +191,7 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereich
 
 (4) Die Prüfungszeit beträgt insgesamt 15 Stunden. Das situative Fachgespräch dauert höchstens 20 Minuten.
 
-
-## § 13 – Prüfungsbereich Arbeitsplanung
+# § 13 – Prüfungsbereich Arbeitsplanung
 
 (1) Im Prüfungsbereich Arbeitsplanung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -226,8 +209,7 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereich
 
 (4) Die Prüfungszeit beträgt 150 Minuten.
 
-
-## § 14 – Prüfungsbereich Systemanalyse und Instandhaltung
+# § 14 – Prüfungsbereich Systemanalyse und Instandhaltung
 
 (1) Im Prüfungsbereich Systemanalyse und Instandhaltung soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -243,8 +225,7 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereich
 
 (4) Die Prüfungszeit beträgt 90 Minuten.
 
-
-## § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -252,8 +233,7 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereich
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
+# § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschluss- oder Gesellenprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -297,17 +277,14 @@ Teil 2 der Abschluss- oder Gesellenprüfung findet in folgenden Prüfungsbereich
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 17 – Bestehende Berufsausbildungsverhältnisse
+# § 17 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren und der oder die Auszubildende noch nicht die Zwischenprüfung absolviert hat.
 
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2016 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik/zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik vom 24. Juni 2003 (BGBl. I S. 1012, 1439), die durch Artikel 1 der Verordnung vom 29. Juli 2003 (BGBl. I S. 1543) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik
 
 (Fundstelle: BGBl. I 2016, 1029 - 1038)

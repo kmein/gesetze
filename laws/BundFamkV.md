@@ -1,22 +1,17 @@
-# [BundFamkV] Verordnung zur Einrichtung einer Bundesfamilienkasse  (Bundesfamilienkassenverordnung - BundFamkV)
-
-Ausfertigungsdatum: 13.12.2005
-
+% Verordnung zur Einrichtung einer Bundesfamilienkasse  (Bundesfamilienkassenverordnung - BundFamkV)
+% Ausfertigungsdatum: 13.12.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Abs. 1 Nr. 11 Satz 5 in Verbindung mit Satz 6 des Finanzverwaltungsgesetzes vom 30. August 1971 (BGBl. I S. 1426, 1427), von denen Satz 5 und 6 durch Artikel 6 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2552) eingefügt worden sind, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Einrichtung, Zuständigkeit
+# § 1 – Einrichtung, Zuständigkeit
 
 (1) Zur Wahrnehmung der Aufgaben einer Familienkasse im Sinne des § 72 Abs. 1 Satz 2 des Einkommensteuergesetzes wird beim Bundesamt für zentrale Dienste und offene Vermögensfragen eine Bundesfamilienkasse eingerichtet.
 
 (2) Der Bundesfamilienkasse obliegt die Festsetzung und Auszahlung von Kindergeld an die in § 72 Abs. 1 Nr. 1 bis 3 des Einkommensteuergesetzes bezeichneten Angehörigen der Bundesfinanzverwaltung. Der Bundesfamilienkasse können weitere Aufgaben übertragen werden.
 
-
-## § 2 – Aufgabenübertragung
+# § 2 – Aufgabenübertragung
 
 (1) Für
 
@@ -32,7 +27,6 @@ soweit ihr die Aufgaben durch den Verwaltungsträger der Familienkasse übertrag
 
 (4) Mit dem Bundesamt für Finanzen bereits vor dem 31. Dezember 2005 geschlossene Vereinbarungen zur Aufgabenübertragung gehen zum 1. Januar 2006 auf die Bundesfamilienkasse beim Bundesamt für zentrale Dienste und offene Vermögensfragen über.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am 1. Januar 2006 in Kraft.

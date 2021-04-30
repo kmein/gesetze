@@ -1,10 +1,7 @@
-# [BMinGSBRAnO] Anordnung zur Übertragung beamtenrechtlicher Befugnisse auf die Einrichtungen im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
-
-Ausfertigungsdatum: 09.09.2003
-
+% Anordnung zur Übertragung beamtenrechtlicher Befugnisse auf die Einrichtungen im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung
+% Ausfertigungsdatum: 09.09.2003
  
-
-## I.
+# I.
 
 Das Bundesministerium für Gesundheit und Soziale Sicherung überträgt auf  
 das Bundessozialgericht,  
@@ -19,12 +16,10 @@ das Robert Koch-Institut
 
 2. die Befugnis, nach § 126 Abs. 3 Nr. 2 des Beamtenrechtsrahmengesetzes in beamtenrechtlichen Streitigkeiten der Beamtinnen und Beamten bis einschließlich Besoldungsgruppe A 15 der Bundesbesoldungsordnung A (Anlage I des Bundesbesoldungsgesetzes) Widerspruchsbescheide zu erlassen.
 
-
-## II.
+# II.
 
 Diese Anordnung tritt mit Wirkung vom 18. Juli 2003 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Die Bundesministerin für Gesundheit und Soziale Sicherung

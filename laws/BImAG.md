@@ -1,17 +1,13 @@
-# [BImAG] Gesetz über die Bundesanstalt für Immobilienaufgaben  (BImAG)
-
-Ausfertigungsdatum: 09.12.2004
-
+% Gesetz über die Bundesanstalt für Immobilienaufgaben  (BImAG)
+% Ausfertigungsdatum: 09.12.2004
  
-
-## § 1 – Errichtung, Zweck, Sitz
+# § 1 – Errichtung, Zweck, Sitz
 
 (1) Im Geschäftsbereich des Bundesministeriums der Finanzen wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts zum 1. Januar 2005 errichtet. Sie trägt die Bezeichnung "Bundesanstalt für Immobilienaufgaben" (BImA). Die Bundesanstalt nimmt die ihr vom Bund übertragenen liegenschaftsbezogenen sowie sonstigen Aufgaben eigenverantwortlich wahr. Hierzu gehört insbesondere die Verwaltung von Liegenschaften, die von Dienststellen der Bundesverwaltung zur Erfüllung ihrer Aufgaben genutzt werden (Dienstliegenschaften). Die Bundesanstalt hat das Ziel, eine einheitliche Verwaltung des Liegenschaftsvermögens des Bundes nach kaufmännischen Grundsätzen vorzunehmen und nicht betriebsnotwendiges Vermögen wirtschaftlich zu veräußern. Die Abführung an den Bundeshaushalt erfolgt auf der Grundlage des Wirtschaftsplanes.
 
 (2) Die Bundesanstalt hat ihren Sitz in Bonn. Sie hat das Recht, Außenstellen als Haupt- oder Nebenstellen einzurichten.
 
-
-## § 2 – Aufgaben, Vermögen, Zielsetzung
+# § 2 – Aufgaben, Vermögen, Zielsetzung
 
 (1) Auf die Bundesanstalt gehen die Aufgaben über, die am 31. Dezember 2004 den Bundesvermögensämtern, den Bundesforstämtern und den Bundesvermögensabteilungen der Oberfinanzdirektionen übertragen sind. Dazu gehören neben den sonst übertragenen Aufgaben insbesondere die Deckung des Grundstücks- und Raumbedarfs für Bundeszwecke und die Wohnungsfürsorge des Bundes sowie die Verwaltung und Verwertung von Grundstücken, die nicht für Verwaltungszwecke des Bundes oder im Rahmen des Gemeingebrauchs im Aufgabenbereich des Bundes benötigt werden (Allgemeines Grundvermögen) und die forstlichen Dienstleistungen einschließlich forstlicher Bewirtschaftung und naturschutzfachlicher Betreuung des Liegenschaftsvermögens des Bundes. Soweit derartige Aufgaben anderen Bundesbehörden oder Gesellschaften des Bundes übertragen sind, verbleibt es bei deren Zuständigkeit.
 
@@ -27,15 +23,13 @@ Ausfertigungsdatum: 09.12.2004
 
 (7) Das Bundesministerium der Finanzen kann der Bundesanstalt weitere Aufgaben übertragen und diese wieder entziehen. Andere Bundesministerien können der Bundesanstalt durch öffentlich-rechtlichen Vertrag weitere Aufgaben übertragen.
 
-
-## § 3 – Aufsicht
+# § 3 – Aufsicht
 
 (1) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen.
 
 (2) Soweit die Bundesanstalt Aufgaben aus dem Geschäftsbereich eines anderen Bundesministeriums erledigt, übt dieses die Rechts- und Fachaufsicht aus. Fachliche Weisungen mit wesentlichen finanziellen oder organisatorischen Auswirkungen auf die Bundesanstalt ergehen im Einvernehmen mit dem Bundesministerium der Finanzen.
 
-
-## § 4 – Organe, Satzung
+# § 4 – Organe, Satzung
 
 (1) Die Bundesanstalt wird von einem Vorstand geleitet und vertreten. Er besteht aus der Sprecherin oder dem Sprecher und bis zu zwei weiteren Mitgliedern. Aufgaben und Befugnisse des Vorstandes bestimmen dieses Gesetz und die Satzung. Die Sprecherin oder der Sprecher führt die Amtsbezeichnung "Sprecherin des Vorstandes der Bundesanstalt für Immobilienaufgaben" oder "Sprecher des Vorstandes der Bundesanstalt für Immobilienaufgaben"; die übrigen Mitglieder führen die Amtsbezeichnung "Mitglied des Vorstandes der Bundesanstalt für Immobilienaufgaben".
 
@@ -55,8 +49,7 @@ Ausfertigungsdatum: 09.12.2004
 
 Die Satzung wird im Bundesanzeiger veröffentlicht.
 
-
-## § 5 – Rechtsstellung der Vorstandsmitglieder
+# § 5 – Rechtsstellung der Vorstandsmitglieder
 
 (1) Die Mitglieder des Vorstandes werden für die Dauer von bis zu fünf Jahren berufen. Verlängerungen sind zulässig. Die Mitglieder des Vorstandes sollen in einem öffentlich-rechtlichen Amtsverhältnis gemäß den Bestimmungen der Absätze 2 bis 7 stehen.
 
@@ -77,8 +70,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (7) Die Absätze 5 und 6 gelten für Richterinnen und Richter und für Berufssoldatinnen und Berufssoldaten entsprechend.
 
-
-## § 6 – Finanzierung
+# § 6 – Finanzierung
 
 (1) Die Anstalt deckt ihren Aufwand für die ihr nach § 2 übertragenen Aufgaben aus den Erträgen der Verwaltung und Verwertung des ihr übertragenen Bundesvermögens und aus vereinbarten Erstattungen. Die Bundesanstalt kann in ihrer Eröffnungsbilanz und in den folgenden Jahresabschlüssen Rücklagen bilden. Mit Feststellung des Jahresabschlusses durch das Bundesministerium der Finanzen ist über die Verwendung des Bilanzgewinnes zu beschließen. Einzelheiten regelt die Satzung.
 
@@ -86,8 +78,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (3) Ein Insolvenzverfahren über das Vermögen der Bundesanstalt findet nicht statt. § 12 Abs. 2 der Insolvenzordnung ist entsprechend in der Weise anzuwenden, dass sich die Ansprüche der Arbeitnehmer gegen den Bund richten.
 
-
-## § 7 – Wirtschaftsplan
+# § 7 – Wirtschaftsplan
 
 (1) Der Vorstand stellt vor Beginn des Geschäftsjahres einen Wirtschaftsplan auf, der
 
@@ -104,8 +95,7 @@ umfasst. In den Wirtschaftsplan können Mittel zur Bildung von Rücklagen einges
 
 (2) Der Wirtschaftsplan bedarf der Genehmigung des Bundesministeriums der Finanzen. Übersichten über die Einnahmen und Ausgaben und ein Stellenplan sind dem Haushaltsplan des Bundes als Anlagen beizufügen.
 
-
-## § 8 – Buchung, Jahresabschluss
+# § 8 – Buchung, Jahresabschluss
 
 (1) Die Bundesanstalt bucht nach den Regeln der kaufmännischen Buchführung.
 
@@ -113,13 +103,11 @@ umfasst. In den Wirtschaftsplan können Mittel zur Bildung von Rücklagen einges
 
 (3) Die Bundesanstalt stellt für jedes Geschäftsjahr einen Jahresabschluss, einen Lagebericht nach handelsrechtlichen Grundsätzen sowie eine Liquiditätsrechnung auf und legt sie dem Bundesministerium der Finanzen zur abschließenden Festsetzung der Abführungen an den Bundeshaushalt und zur Entlastung des Vorstandes vor. Näheres regeln die Satzung und die vom Bundesministerium der Finanzen zu erlassenden Wirtschaftsführungsbestimmungen. § 109 Abs. 2 Satz 2 bis 4 der Bundeshaushaltsordnung ist anzuwenden.
 
-
-## § 9 – Prüfungsrecht des Bundesrechnungshofes
+# § 9 – Prüfungsrecht des Bundesrechnungshofes
 
 Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der Bundeshaushaltsordnung.
 
-
-## § 10 – Anwendung des Haushaltsrechts
+# § 10 – Anwendung des Haushaltsrechts
 
 (1) Die §§ 7, 9, 24 der Bundeshaushaltsordnung sowie die Vorschriften des Teils III der Bundeshaushaltsordnung gelten entsprechend mit Ausnahme der §§ 38 und 45 sowie der Bestimmungen, die eine Buchung nach Einnahmen und Ausgaben voraussetzen. Hinsichtlich der nach § 2 Abs. 2 und 3 übertragenen Grundstücke bleiben die §§ 63 und 64 der Bundeshaushaltsordnung unberührt.
 
@@ -127,8 +115,7 @@ Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der Bundeshaushalts
 
 (3) Das Bundesministerium der Finanzen sowie andere Bundesministerien, die der Bundesanstalt Aufgaben übertragen, können die Bundesanstalt ermächtigen, Teile des Bundeshaushaltes zu bewirtschaften. Insoweit gelten die Vorschriften der Bundeshaushaltsordnung einschließlich der dazu ergangenen Verwaltungsvorschriften in der jeweils geltenden Fassung.
 
-
-## § 11 – Beamtinnen und Beamte
+# § 11 – Beamtinnen und Beamte
 
 (1) Der Bundesanstalt wird das Recht verliehen, Beamtinnen und Beamte zu haben. Die Übernahme von Beamtinnen und Beamten anderer Dienstherren ist nur mit Zustimmung des Bundesministeriums der Finanzen zulässig. Neue Beamtenverhältnisse darf die Bundesanstalt nicht begründen.
 
@@ -138,25 +125,21 @@ Für das Prüfungsrecht des Bundesrechnungshofes gilt § 111 der Bundeshaushalts
 
 (4) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums der Finanzen ihre Befugnisse und Zuständigkeiten einschließlich der Entscheidung über Rechtsbehelfe auf den Gebieten der Besoldung, Beihilfe, Reise- und Umzugskosten sowie Trennungsgeld und die automatisierte Verarbeitung personenbezogener Daten ganz oder teilweise gegen Erstattung der Verwaltungskosten auf Behörden der Bundesfinanzverwaltung übertragen. Die Übertragung ist im Bundesgesetzblatt zu veröffentlichen.
 
-
-## § 12 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
+# § 12 – Arbeitnehmerinnen und Arbeitnehmer, Auszubildende
 
 (1) Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 (2) Angestellte können auch oberhalb der höchsten tarifvertraglichen Vergütungsgruppe in einem außertariflichen Angestelltenverhältnis beschäftigt werden, soweit dies für die Durchführung der Aufgaben erforderlich ist. Satz 1 gilt für die sonstige Gewährung von übertariflichen und außertariflichen Leistungen entsprechend.
 
-
-## § 13 – Auflösung von Organisationseinheiten der Bundesvermögensverwaltung
+# § 13 – Auflösung von Organisationseinheiten der Bundesvermögensverwaltung
 
 Die Bundesvermögensämter, die Bundesforstämter und die Bundesvermögensabteilungen der Oberfinanzdirektionen als Organisationseinheiten der Bundesvermögensverwaltung sind mit Ablauf des 31. Dezember 2004 aufgelöst.
 
-
-## § 14 – Überleitung von Verfahren
+# § 14 – Überleitung von Verfahren
 
 Bei den in § 13 genannten Organisationseinheiten am 31. Dezember 2004 anhängige Verwaltungsverfahren werden von der Bundesanstalt fortgeführt. Die Bundesanstalt handelt als zuständige Stelle des Bundes und vertritt ihn auch vor Gericht.
 
-
-## § 15 – Übergangsregelung Personalvertretung
+# § 15 – Übergangsregelung Personalvertretung
 
 (1) Die erstmaligen Wahlen zur Personalvertretung nach dem Bundespersonalvertretungsgesetz in der Bundesanstalt finden innerhalb von fünf Monaten nach deren Errichtung statt.
 
@@ -166,8 +149,7 @@ Bei den in § 13 genannten Organisationseinheiten am 31. Dezember 2004 anhängig
 
 (4) Die am 31. Dezember 2004 bestehenden Dienstvereinbarungen für den Bereich der Bundesvermögensverwaltung gelten bis zu einer Neuregelung für die Bundesanstalt fort, längstens aber für die Dauer von 18 Monaten.
 
-
-## § 16 – Übergangsregelung Schwerbehindertenvertretung
+# § 16 – Übergangsregelung Schwerbehindertenvertretung
 
 (1) Die erstmaligen Wahlen zur Schwerbehindertenvertretung nach dem Neunten Buch Sozialgesetzbuch finden in der Bundesanstalt spätestens fünf Monate nach deren Errichtung statt.
 
@@ -175,22 +157,19 @@ Bei den in § 13 genannten Organisationseinheiten am 31. Dezember 2004 anhängig
 
 (3) Die Vorsitzende oder der Vorsitzende der Übergangsschwerbehindertenvertretung bestellt unverzüglich den Wahlvorstand für die erstmaligen Wahlen nach Absatz 1.
 
-
-## § 17 – Übergangsregelung Gleichstellungsbeauftragte
+# § 17 – Übergangsregelung Gleichstellungsbeauftragte
 
 (1) Die Wahl der Gleichstellungsbeauftragten erfolgt nach den Regelungen der Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin in Dienststellen des Bundes. Die Bestellung muss danach innerhalb von vier Monaten nach Errichtung der Bundesanstalt abgeschlossen sein.
 
 (2) Die für die Bundesvermögensverwaltung bestellten Gleichstellungsbeauftragten bestimmen zeitnah nach der Errichtung der Bundesanstalt mit einfacher Mehrheit aus dem Kreis der nach § 18 auf die Bundesanstalt übergeleiteten ehemaligen Gleichstellungsbeauftragten aus jedem der ehemaligen neun Bereiche der Oberfinanzdirektionen mit Bundesvermögensabteilung eine Gleichstellungsbeauftragte. Diese und die Gleichstellungsbeauftragte des Bundesministeriums der Finanzen nehmen bis zur Neuwahl das Übergangsmandat wahr. Sie entscheiden mit einfacher Mehrheit. Soweit im Bereich der Oberfinanzdirektionen mit Bundesvermögensabteilung keine Gleichstellungsbeauftragte auf die Bundesanstalt übergeleitet wird, nimmt die am Tag vor der Gründung der Bundesanstalt zuständige Gleichstellungsbeauftragte das Übergangsmandat wahr.
 
-
-## § 18 – Überleitung von Beschäftigten
+# § 18 – Überleitung von Beschäftigten
 
 (1) Die Beamtinnen und Beamten der in § 13 genannten Organisationseinheiten sind mit Wirkung vom 1. Januar 2005 Beamtinnen und Beamte der Bundesanstalt. § 136 Abs. 1 Satz 1 des Bundesbeamtengesetzes findet entsprechend Anwendung. Die ersten Amtsinhaber nach Artikel 2 Nr. 1 Buchstabe b erhalten ihre Bezüge aus der Besoldungsgruppe B 3, die ersten Amtsinhaber nach Artikel 2 Nr. 3 dieses Gesetzes erhalten ihre Bezüge aus der Besoldungsgruppe B 6. Satz 3 gilt nur, soweit die Amtsinhaber bisher ein entsprechendes Amt innehatten.
 
 (2) Die bei den in § 13 genannten Organisationseinheiten beschäftigten Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden sind mit Wirkung vom 1. Januar 2005 in den Dienst der Bundesanstalt übernommen. Die Bundesanstalt tritt unbeschadet des § 12 Abs. 1 in die Rechte und Pflichten der im Zeitpunkt der Übernahme bestehenden Arbeits- und Ausbildungsverhältnisse ein.
 
-
-## § 19 – Verteilung der Versorgungslasten
+# § 19 – Verteilung der Versorgungslasten
 
 (1) Der Bund erbringt die Versorgungs- und Beihilfeleistungen für die ehemaligen Beamtinnen und Beamten der Bundesvermögensverwaltung.
 

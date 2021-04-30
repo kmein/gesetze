@@ -1,5 +1,3 @@
-# [WTOÜbk] Übereinkommen zur Errichtung der Welthandelsorganisation (WTO)
-
-Ausfertigungsdatum: 15.04.1994
-
+% Übereinkommen zur Errichtung der Welthandelsorganisation (WTO)
+% Ausfertigungsdatum: 15.04.1994
  

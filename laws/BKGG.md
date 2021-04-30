@@ -1,10 +1,7 @@
-# [BKGG] Bundeskindergeldgesetz  (BKGG)
-
-Ausfertigungsdatum: 11.10.1995
-
+% Bundeskindergeldgesetz  (BKGG)
+% Ausfertigungsdatum: 11.10.1995
  
-
-## § 1 – Anspruchsberechtigte
+# § 1 – Anspruchsberechtigte
 
 (1) Kindergeld nach diesem Gesetz für seine Kinder erhält, wer nach § 1 Absatz 1 und 2 des Einkommensteuergesetzes nicht unbeschränkt steuerpflichtig ist und auch nicht nach § 1 Absatz 3 des Einkommensteuergesetzes als unbeschränkt steuerpflichtig behandelt wird und
 
@@ -48,8 +45,7 @@ Abweichend von Satz 1 Nummer 3 erste Alternative erhält ein minderjähriger nic
 
 (+++ § 1 Abs. 2 Satz 3: Zur Anwendung vgl. § 20 Abs. 4 F. 2006-07-19 +++)
 
-
-## § 2 – Kinder
+# § 2 – Kinder
 
 (1) Als Kinder werden auch berücksichtigt
 
@@ -98,8 +94,7 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 (+++ § 2 Abs. 3: Zur Anwendung vgl. § 20 Abs. 4 F. 2006-07-19 u. § 20 Abs. 9 F. 2013-06-26 +++)  
 (+++ § 2 Abs. 2 Satz 1 Nr. 2 Buchst. d: Zur Anwendung vgl. § 20 Abs. 5 Satz 5 F. 2014-07-25 +++)
 
-
-## § 3 – Zusammentreffen mehrerer Ansprüche
+# § 3 – Zusammentreffen mehrerer Ansprüche
 
 (1) Für jedes Kind werden nur einer Person Kindergeld, Kinderzuschlag und Leistungen für Bildung und Teilhabe gewährt.
 
@@ -107,8 +102,7 @@ für einen der Dauer dieser Dienste oder der Tätigkeit entsprechenden Zeitraum,
 
 (3) Ist das Kind nicht in den Haushalt einer der Personen aufgenommen, die die Anspruchsvoraussetzungen erfüllen, wird das Kindergeld derjenigen Person gewährt, die dem Kind eine Unterhaltsrente zahlt. Zahlen mehrere anspruchsberechtigte Personen dem Kind Unterhaltsrenten, wird das Kindergeld derjenigen Person gewährt, die dem Kind laufend die höchste Unterhaltsrente zahlt. Werden gleich hohe Unterhaltsrenten gezahlt oder zahlt keiner der Berechtigten dem Kind Unterhalt, so bestimmen die Berechtigten untereinander, wer das Kindergeld erhalten soll. Wird eine Bestimmung nicht getroffen, so gilt Absatz 2 Satz 3 und 4 entsprechend.
 
-
-## § 4 – Andere Leistungen für Kinder
+# § 4 – Andere Leistungen für Kinder
 
 (1) Kindergeld wird nicht für ein Kind gewährt, für das eine der folgenden Leistungen zu zahlen ist oder bei entsprechender Antragstellung zu zahlen wäre:
 
@@ -122,8 +116,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 (2) Ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 der Bruttobetrag der anderen Leistung niedriger als das Kindergeld nach § 6, wird Kindergeld in Höhe des Unterschiedsbetrages gezahlt. Ein Unterschiedsbetrag unter 5 Euro wird nicht geleistet.
 
-
-## § 5 – Beginn und Ende des Anspruchs
+# § 5 – Beginn und Ende des Anspruchs
 
 (1) Das Kindergeld, der Kinderzuschlag und die Leistungen für Bildung und Teilhabe werden vom Beginn des Monats an gewährt, in dem die Anspruchsvoraussetzungen erfüllt sind; sie werden bis zum Ende des Monats gewährt, in dem die Anspruchsvoraussetzungen wegfallen.
 
@@ -131,8 +124,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 (3) Der Kinderzuschlag wird nicht für Zeiten vor der Antragstellung gewährt. § 28 des Zehnten Buches Sozialgesetzbuch gilt mit der Maßgabe, dass der Antrag unverzüglich nach Ablauf des Monats, in dem die Ablehnung oder Erstattung der anderen Leistungen bindend geworden ist, nachzuholen ist.
 
-
-## § 6 – Höhe des Kindergeldes
+# § 6 – Höhe des Kindergeldes
 
 (1) Das Kindergeld beträgt monatlich für das erste und zweite Kind jeweils 219 Euro, für das dritte Kind 225 Euro und für das vierte und jedes weitere Kind jeweils 250 Euro.
 
@@ -140,8 +132,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 (3) Darüber hinaus wird für jedes Kind, für das für den Monat Mai 2021 ein Anspruch auf Kindergeld besteht, für den Monat Mai 2021 ein Einmalbetrag in Höhe von 150 Euro gezahlt. Ein Anspruch in Höhe des Einmalbetrags von 150 Euro für das Kalenderjahr 2021 besteht auch für ein Kind, für das nicht für den Monat Mai 2021, jedoch für mindestens einen anderen Kalendermonat im Kalenderjahr 2021 ein Anspruch auf Kindergeld besteht.
 
-
-## § 6a – Kinderzuschlag
+# § 6a – Kinderzuschlag
 
 (1) Personen erhalten für in ihrem Haushalt lebende unverheiratete oder nicht verpartnerte Kinder, die noch nicht das 25. Lebensjahr vollendet haben, einen Kinderzuschlag, wenn
 
@@ -173,8 +164,7 @@ Steht ein Berechtigter in einem Versicherungspflichtverhältnis zur Bundesagentu
 
 (8) Für die Ermittlung des monatlich zu berücksichtigenden Einkommens ist der Durchschnitt des Einkommens aus den sechs Monaten vor Beginn des Bewilligungszeitraums maßgeblich. Bei Personen, die den selbst genutzten Wohnraum mieten, sind als monatliche Bedarfe für Unterkunft und Heizung die laufenden Bedarfe für den ersten Monat des Bewilligungszeitraums zugrunde zu legen. Bei Personen, die an dem selbst genutzten Wohnraum Eigentum haben, sind als monatliche Bedarfe für Unterkunft und Heizung die Bedarfe aus den durchschnittlichen Monatswerten des Kalenderjahres vor Beginn des Bewilligungszeitraums zugrunde zu legen. Liegen die entsprechenden Monatswerte für den Wohnraum nicht vor, soll abweichend von Satz 3 ein Durchschnitt aus den letzten vorliegenden Monatswerten für den Wohnraum zugrunde gelegt werden, nicht jedoch aus mehr als zwölf Monatswerten. Im Übrigen sind die tatsächlichen und rechtlichen Verhältnisse zu Beginn des Bewilligungszeitraums maßgeblich.
 
-
-## § 6b – Leistungen für Bildung und Teilhabe
+# § 6b – Leistungen für Bildung und Teilhabe
 
 (1) Personen erhalten Leistungen für Bildung und Teilhabe für ein Kind, wenn sie für dieses Kind nach diesem Gesetz oder nach dem X. Abschnitt des Einkommensteuergesetzes Anspruch auf Kindergeld oder Anspruch auf andere Leistungen im Sinne von § 4 haben und wenn
 
@@ -190,8 +180,7 @@ Satz 1 gilt entsprechend, wenn das Kind, nicht jedoch die berechtigte Person zu 
 
 (3) Für die Erbringung der Leistungen für Bildung und Teilhabe gelten die §§ 29, 30 und 40 Absatz 6 des Zweiten Buches Sozialgesetzbuch entsprechend.
 
-
-## § 7 – Zuständigkeit
+# § 7 – Zuständigkeit
 
 (1) Die Bundesagentur für Arbeit (Bundesagentur) führt dieses Gesetz nach fachlichen Weisungen des Bundesministeriums für Familie, Senioren, Frauen und Jugend durch.
 
@@ -199,18 +188,15 @@ Satz 1 gilt entsprechend, wenn das Kind, nicht jedoch die berechtigte Person zu 
 
 (3) Abweichend von Absatz 1 führen die Länder § 6b als eigene Angelegenheit aus.
 
-
-## § 7a – Datenübermittlung
+# § 7a – Datenübermittlung
 
 Die Träger der Leistungen nach § 6b und die Träger der Grundsicherung für Arbeitsuchende teilen sich alle Tatsachen mit, die für die Erbringung und Abrechnung der Leistungen nach § 6b dieses Gesetzes und § 28 des Zweiten Buches Sozialgesetzbuch erforderlich sind.
 
-
-## § 7b – Automatisiertes Abrufverfahren
+# § 7b – Automatisiertes Abrufverfahren
 
 Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Absatz 6 Satz 2 des Einkommensteuergesetzes Gebrauch und erlässt eine Rechtsverordnung zur Durchführung von automatisierten Abrufen nach § 68 Absatz 6 Satz 1 des Einkommensteuergesetzes, so ist die Rechtsverordnung im Geltungsbereich dieses Gesetzes entsprechend anzuwenden.
 
-
-## § 8 – Aufbringung der Mittel
+# § 8 – Aufbringung der Mittel
 
 (1) Die Aufwendungen der Bundesagentur für die Durchführung dieses Gesetzes trägt der Bund.
 
@@ -220,8 +206,7 @@ Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Abs
 
 (4) Abweichend von den Absätzen 1 bis 3 tragen die Länder die Ausgaben für die Leistungen nach § 6b und ihre Durchführung.
 
-
-## § 9 – Antrag
+# § 9 – Antrag
 
 (1) Das Kindergeld und der Kinderzuschlag sind schriftlich zu beantragen. Der Antrag soll bei der nach § 13 zuständigen Familienkasse gestellt werden. Den Antrag kann außer dem Berechtigten auch stellen, wer ein berechtigtes Interesse an der Leistung des Kindergeldes hat.
 
@@ -229,8 +214,7 @@ Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Abs
 
 (3) Die Leistungen für Bildung und Teilhabe sind bei der zuständigen Stelle zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 10 – Auskunftspflicht
+# § 10 – Auskunftspflicht
 
 (1) § 60 Absatz 1 des Ersten Buches Sozialgesetzbuch gilt auch für die bei dem Antragsteller oder Berechtigten berücksichtigten Kinder, für den nicht dauernd getrennt lebenden Ehegatten des Antragstellers oder Berechtigten und für die sonstigen Personen, bei denen die bezeichneten Kinder berücksichtigt werden. § 60 Absatz 4 des Zweiten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -238,8 +222,7 @@ Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Abs
 
 (3) Die Familienkassen können den nach Absatz 2 Verpflichteten eine angemessene Frist zur Erfüllung der Pflicht setzen.
 
-
-## § 11 – Gewährung des Kindergeldes und des Kinderzuschlags
+# § 11 – Gewährung des Kindergeldes und des Kinderzuschlags
 
 (1) Das Kindergeld und der Kinderzuschlag werden monatlich gewährt.
 
@@ -257,13 +240,11 @@ Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Abs
 
 2. die vorläufige Zahlungseinstellung nach § 331 mit der Maßgabe, dass die Familienkasse auch zur teilweisen Zahlungseinstellung berechtigt ist, wenn sie von Tatsachen Kenntnis erhält, die zu einem geringeren Leistungsanspruch führen.
 
-
-## § 12 – Aufrechnung
+# § 12 – Aufrechnung
 
 § 51 des Ersten Buches Sozialgesetzbuch gilt für die Aufrechnung eines Anspruchs auf Erstattung von Kindergeld und Kinderzuschlag gegen einen späteren Anspruch auf Kindergeld und Kinderzuschlag eines oder einer mit dem Erstattungspflichtigen in Haushaltsgemeinschaft lebenden Berechtigten entsprechend, soweit es sich um laufendes Kindergeld oder laufenden Kinderzuschlag für ein Kind handelt, das bei beiden berücksichtigt werden konnte.
 
-
-## § 13 – Zuständige Stelle
+# § 13 – Zuständige Stelle
 
 (1) Für die Entgegennahme des Antrages und die Entscheidungen über den Anspruch ist die Familienkasse (§ 7 Absatz 2) zuständig, in deren Bezirk der Berechtigte seinen Wohnsitz hat. Hat der Berechtigte keinen Wohnsitz im Geltungsbereich dieses Gesetzes, ist die Familienkasse zuständig, in deren Bezirk er seinen gewöhnlichen Aufenthalt hat. Hat der Berechtigte im Geltungsbereich dieses Gesetzes weder einen Wohnsitz noch einen gewöhnlichen Aufenthalt, ist die Familienkasse zuständig, in deren Bezirk er erwerbstätig ist. In den übrigen Fällen ist die Familienkasse Bayern Nord zuständig.
 
@@ -273,18 +254,15 @@ Macht das Bundesministerium der Finanzen von seiner Ermächtigung nach § 68 Abs
 
 (4) Für die Leistungen nach § 6b bestimmen abweichend von den Absätzen 1 und 2 die Landesregierungen oder die von ihnen beauftragten Stellen die für die Durchführung zuständigen Behörden.
 
-
-## § 14 – Bescheid
+# § 14 – Bescheid
 
 Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für Bildung und Teilhabe abgelehnt, ist ein Bescheid zu erteilen. Das Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder Leistungen für Bildung und Teilhabe entzogen werden.
 
-
-## § 15 – Rechtsweg
+# § 15 – Rechtsweg
 
 Für Streitigkeiten nach diesem Gesetz sind die Gerichte der Sozialgerichtsbarkeit zuständig.
 
-
-## § 16 – Ordnungswidrigkeiten
+# § 16 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
@@ -300,18 +278,15 @@ Für Streitigkeiten nach diesem Gesetz sind die Gerichte der Sozialgerichtsbarke
 
 (4) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten sind die nach § 409 der Abgabenordnung bei Steuerordnungswidrigkeiten wegen des Kindergeldes nach dem X. Abschnitt des Einkommensteuergesetzes zuständigen Verwaltungsbehörden.
 
-
-## § 17 – Recht der Europäischen Gemeinschaft
+# § 17 – Recht der Europäischen Gemeinschaft
 
 Soweit in diesem Gesetz Ansprüche Deutschen vorbehalten sind, haben Angehörige der anderen Mitgliedstaaten der Europäischen Union, Flüchtlinge und Staatenlose nach Maßgabe des Vertrages zur Gründung der Europäischen Gemeinschaft und der auf seiner Grundlage erlassenen Verordnungen die gleichen Rechte. Auch im Übrigen bleiben die Bestimmungen der genannten Verordnungen unberührt.
 
-
-## § 18 – Anwendung des Sozialgesetzbuches
+# § 18 – Anwendung des Sozialgesetzbuches
 
 Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der Ausführung das Sozialgesetzbuch anzuwenden.
 
-
-## § 19 – Übergangsvorschriften
+# § 19 – Übergangsvorschriften
 
 (1) Ist für die Nachzahlung und Rückforderung von Kindergeld und Zuschlag zum Kindergeld für Berechtigte mit geringem Einkommen der Anspruch eines Jahres vor 1996 maßgeblich, finden die §§ 10, 11 und 11a in der bis zum 31. Dezember 1995 geltenden Fassung Anwendung.
 
@@ -319,8 +294,7 @@ Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der Ausführu
 
 (3) Wird Kinderzuschlag vor dem 1. Juli 2019 bewilligt, finden die Regelungen des Bundeskindergeldgesetzes in der bis zum 30. Juni 2019 geltenden Fassung weiter Anwendung, mit Ausnahme der Regelung zum monatlichen Höchstbetrag des Kinderzuschlags nach § 20 Absatz 3.
 
-
-## § 20 – Anwendungsvorschrift
+# § 20 – Anwendungsvorschrift
 
 (1) § 1 Absatz 3 in der am 19. Dezember 2006 geltenden Fassung ist in Fällen, in denen eine Entscheidung über den Anspruch auf Kindergeld für Monate in dem Zeitraum zwischen dem 1. Januar 1994 und dem 18. Dezember 2006 noch nicht bestandskräftig geworden ist, anzuwenden, wenn dies für den Antragsteller günstiger ist. In diesem Fall werden die Aufenthaltsgenehmigungen nach dem Ausländergesetz den Aufenthaltstiteln nach dem Aufenthaltsgesetz entsprechend den Fortgeltungsregelungen in § 101 des Aufenthaltsgesetzes gleichgestellt.
 
@@ -354,12 +328,10 @@ Soweit dieses Gesetz keine ausdrückliche Regelung trifft, ist bei der Ausführu
 
 (13) § 1 Absatz 3 Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 34 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem letzten Tag des sechsten auf die Verkündung des Fachkräfteeinwanderungsgesetzes folgenden Kalendermonats beginnen. § 1 Absatz 3 Satz 1 Nummer 5 in der Fassung des Artikels 34 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31. Dezember 2019 beginnen.
 
-
-## § 21 – Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld
+# § 21 – Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld
 
 In Fällen, in denen die Entscheidung über die Höhe des Kindergeldanspruchs für Monate in dem Zeitraum zwischen dem 1. Januar 1983 und dem 31. Dezember 1995 noch nicht bestandskräftig geworden ist, kommt eine von den §§ 10 und 11 in der jeweils geltenden Fassung abweichende Bewilligung von Kindergeld nur in Betracht, wenn die Einkommensteuer formell bestandskräftig und hinsichtlich der Höhe der Kinderfreibeträge nicht vorläufig festgesetzt sowie das Existenzminimum des Kindes nicht unter der Maßgabe des § 53 des Einkommensteuergesetzes steuerfrei belassen worden ist. Dies ist vom Kindergeldberechtigten durch eine Bescheinigung des zuständigen Finanzamtes nachzuweisen. Nach Vorlage dieser Bescheinigung hat die Familienkasse den vom Finanzamt ermittelten Unterschiedsbetrag zwischen der festgesetzten Einkommensteuer und der Einkommensteuer, die nach § 53 Satz 6 des Einkommensteuergesetzes festzusetzen gewesen wäre, wenn die Voraussetzungen nach § 53 Satz 1 und 2 des Einkommensteuergesetzes vorgelegen hätten, als zusätzliches Kindergeld zu zahlen.
 
-
-## § 22 – Bericht der Bundesregierung
+# § 22 – Bericht der Bundesregierung
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2023 einen Bericht über die Auswirkungen des § 6a (Kinderzuschlag) und insbesondere über die Auswirkungen der erweiterten Zugangsmöglichkeit zum Kinderzuschlag nach § 6a Absatz 1a sowie über die gegebenenfalls notwendige Weiterentwicklung dieser Vorschrift vor.

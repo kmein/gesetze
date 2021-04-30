@@ -1,12 +1,7 @@
-# [BKAG] Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten  (Bundeskriminalamtgesetz - BKAG)
-
-Ausfertigungsdatum: 01.06.2017
-
+% Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten  (Bundeskriminalamtgesetz - BKAG)
+% Ausfertigungsdatum: 01.06.2017
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -72,8 +67,9 @@ Ausfertigungsdatum: 01.06.2017
 
  
 
+ 
 
-## § 1 – Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten
+# § 1 – Zentrale Einrichtungen zur Zusammenarbeit in kriminalpolizeilichen Angelegenheiten
 
 (1) Der Bund unterhält ein Bundeskriminalamt zur Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten.
 
@@ -81,8 +77,7 @@ Ausfertigungsdatum: 01.06.2017
 
 (3) Die Verfolgung sowie die Verhütung von Straftaten und die Aufgaben der sonstigen Gefahrenabwehr bleiben Sache der Länder, soweit gesetzlich nichts anderes bestimmt ist.
 
-
-## § 2 – Zentralstelle
+# § 2 – Zentralstelle
 
 (1) Das Bundeskriminalamt unterstützt als Zentralstelle für das polizeiliche Auskunfts- und Nachrichtenwesen und für die Kriminalpolizei die Polizeien des Bundes und der Länder bei der Verhütung und Verfolgung von Straftaten mit länderübergreifender, internationaler oder erheblicher Bedeutung.
 
@@ -126,8 +121,7 @@ Die Verarbeitung von personenbezogenen Daten in den Fällen von Satz 1 Nummer 3 
 
 (7) Das Bundeskriminalamt erstattet erkennungsdienstliche und kriminaltechnische Gutachten für Strafverfahren auf Anforderungen von Polizeidienststellen, Staatsanwaltschaften und Gerichten.
 
-
-## § 3 – Internationale Zusammenarbeit
+# § 3 – Internationale Zusammenarbeit
 
 (1) Das Bundeskriminalamt ist Nationales Zentralbüro der Bundesrepublik Deutschland für die Internationale Kriminalpolizeiliche Organisation und nationale Stelle für Europol nach § 1 des Europol-Gesetzes.
 
@@ -149,8 +143,7 @@ Die abweichenden Vereinbarungen nach Satz 2 Nummer 4 sollen vorsehen, dass das B
 
 (5) Bei regional abgrenzbaren Fallgestaltungen können die Polizeien des Bundes und der Länder zur Wahrnehmung ihrer Aufgaben abweichend von Absatz 3 Satz 1 im Einvernehmen mit dem Bundeskriminalamt den erforderlichen Dienstverkehr mit den zuständigen Behörden anderer Staaten und für die Verhütung oder Verfolgung von Straftaten zuständigen zwischen- und überstaatlichen Stellen führen.
 
-
-## § 4 – Strafverfolgung
+# § 4 – Strafverfolgung
 
 (1) Das Bundeskriminalamt nimmt die polizeilichen Aufgaben auf dem Gebiet der Strafverfolgung wahr
 
@@ -194,8 +187,7 @@ Satz 1 Nummer 1 und 3 gilt entsprechend für die Fahndung nach Verurteilten zum 
 
 (4) In den Fällen der Absätze 1 und 2 kann das Bundeskriminalamt den zuständigen Landeskriminalämtern Weisungen für die Zusammenarbeit geben. Die oberste Landesbehörde ist unverzüglich zu benachrichtigen.
 
-
-## § 5 – Abwehr von Gefahren des internationalen Terrorismus
+# § 5 – Abwehr von Gefahren des internationalen Terrorismus
 
 (1) Das Bundeskriminalamt kann die Aufgabe der Abwehr von Gefahren des internationalen Terrorismus in Fällen wahrnehmen, in denen
 
@@ -217,8 +209,7 @@ und durch die Art ihrer Begehung oder ihre Auswirkungen einen Staat oder eine in
 
 (2) Die Befugnisse der Länder und anderer Polizeibehörden des Bundes bleiben unberührt. Die zuständigen obersten Landesbehörden und, soweit zuständig, anderen Polizeibehörden des Bundes sind unverzüglich zu benachrichtigen, wenn das Bundeskriminalamt die Aufgabe nach Absatz 1 wahrnimmt. Die Aufgabenwahrnehmung erfolgt in gegenseitigem Benehmen. Stellt das Bundeskriminalamt bei der Aufgabenwahrnehmung nach Absatz 1 Satz 1 Nummer 2 die Zuständigkeit einer Landespolizeibehörde fest, so gibt es diese Aufgabe an diese Polizeibehörde ab, wenn nicht ein Fall des Absatzes 1 Satz 1 Nummer 1 oder Nummer 3 vorliegt.
 
-
-## § 6 – Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes
+# § 6 – Schutz von Mitgliedern der Verfassungsorgane und der Leitung des Bundeskriminalamtes
 
 (1) Unbeschadet der Rechte des Präsidenten des Deutschen Bundestages und der Zuständigkeit der Bundespolizei und der Polizeien der Länder obliegt dem Bundeskriminalamt
 
@@ -238,8 +229,7 @@ In den Fällen des Satzes 1 Nummer 1 Buchstabe a, c und d kann der erforderliche
 
 (2) Sollen Beamtinnen und Beamte des Bundeskriminalamtes und der Polizei eines Landes in den Fällen des Absatzes 1 zugleich eingesetzt werden, so entscheidet darüber das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit der obersten Landesbehörde.
 
-
-## § 7 – Zeugenschutz
+# § 7 – Zeugenschutz
 
 (1) In den Fällen des § 4 Absatz 1 und 2 Satz 1 obliegt dem Bundeskriminalamt der Schutz von Personen, deren Aussage zur Erforschung der Wahrheit von Bedeutung ist oder war. Entsprechendes gilt für deren Angehörige und sonstige ihnen nahestehende Personen. Das Bundeskriminalamt unterrichtet die zuständigen Landeskriminalämter unverzüglich von der Übernahme des Zeugenschutzes.
 
@@ -247,15 +237,13 @@ In den Fällen des Satzes 1 Nummer 1 Buchstabe a, c und d kann der erforderliche
 
 (3) In Einzelfällen können Zeugenschutzmaßnahmen im Einvernehmen zwischen dem Bundeskriminalamt und einem Landeskriminalamt durch Polizeibeamtinnen und Polizeibeamte dieses Landes durchgeführt werden. Die Verpflichtung anderer Polizeibehörden, die zur Abwehr von Gefahren erforderlichen unaufschiebbaren Maßnahmen zu treffen, bleibt unberührt.
 
-
-## § 8 – Sicherung des Bundeskriminalamtes, behördlicher Eigenschutz
+# § 8 – Sicherung des Bundeskriminalamtes, behördlicher Eigenschutz
 
 (1) Dem Bundeskriminalamt obliegt die Sicherung seiner behördlichen Liegenschaften, sonstigen Einrichtungen und eigenen Veranstaltungen gegen Gefahren, welche die Erfüllung seiner Aufgaben beeinträchtigen. Die Sicherung beschränkt sich auf die in Satz 1 bezeichneten Liegenschaften und Einrichtungen sowie auf die Grundstücke, auf denen diese Liegenschaften und Einrichtungen untergebracht sind oder Veranstaltungen stattfinden.
 
 (2) Dem Bundeskriminalamt obliegt die Sicherung seines Dienstbetriebs gegen Gefahren, die von Personen ausgehen, die für das Bundeskriminalamt tätig werden sollen.
 
-
-## § 9 – Allgemeine Datenerhebung durch und Datenübermittlung an das Bundeskriminalamt
+# § 9 – Allgemeine Datenerhebung durch und Datenübermittlung an das Bundeskriminalamt
 
 (1) Das Bundeskriminalamt kann, soweit dies zur Erfüllung seiner Aufgabe als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 erforderlich ist, personenbezogene Daten zur Ergänzung vorhandener Sachverhalte oder sonst zu Zwecken der Auswertung mittels Auskünften oder Anfragen bei öffentlichen oder nichtöffentlichen Stellen erheben. Das Bundeskriminalamt kann unter den Voraussetzungen des Satzes 1 auch Daten erheben
 
@@ -277,8 +265,7 @@ In anhängigen Strafverfahren steht dem Bundeskriminalamt diese Befugnis nur im 
 
 (+++ § 9 Abs. 2 u. 3: Zur Anwendung vgl. § 39 Abs. 3 +++)
 
-
-## § 10 – Bestandsdatenauskunft
+# § 10 – Bestandsdatenauskunft
 
 (1) Zur Erfüllung der Aufgabe als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 darf nach Maßgabe der nachfolgenden Vorschriften Auskunft verlangt werden von demjenigen, der geschäftsmäßig
 
@@ -328,8 +315,7 @@ b) ein Auskunftsersuchen einer ausländischen Polizeibehörde im Rahmen des poli
 
 § 10 Abs. 1 Satz 1 u. Abs. 2 idF d. G v. 1.7.2017 I 1354: Nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar.
 
-
-## § 10a – Erhebung von Nutzerdaten zur Identifizierung
+# § 10a – Erhebung von Nutzerdaten zur Identifizierung
 
 (1) Das Bundeskriminalamt darf im Rahmen seiner Aufgaben als Zentralstelle nach § 2 Absatz 2 Nummer 1 und Absatz 6 von demjenigen, der geschäftsmäßig eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt, Auskunft über die nach § 15 Absatz 1 Satz 2 Nummer 1 des Telemediengesetzes erhobenen Daten (§ 15c Absatz 1 des Telemediengesetzes) verlangen, sofern im Einzelfall
 
@@ -347,8 +333,7 @@ b) ein Auskunftsersuchen einer ausländischen Polizeibehörde im Rahmen des poli
 
 (4) Das Bundeskriminalamt hat den Verpflichteten für ihm erteilte Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung bemisst sich nach § 23 und Anlage 3 des Justizvergütungs- und -entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
 
-
-## § 11 – Aufzeichnung eingehender Telefonanrufe
+# § 11 – Aufzeichnung eingehender Telefonanrufe
 
 Das Bundeskriminalamt kann Telefonanrufe aufzeichnen, die über Rufnummern eingehen, die der Öffentlichkeit bekannt gegeben wurden
 
@@ -358,8 +343,7 @@ Das Bundeskriminalamt kann Telefonanrufe aufzeichnen, die über Rufnummern einge
 
 soweit dies zur Erfüllung seiner Aufgaben erforderlich ist. Die Aufzeichnungen sind sofort und spurenlos zu löschen, sobald sie nicht mehr zur Aufgabenerfüllung erforderlich sind, spätestens jedoch nach 30 Tagen, es sei denn, sie werden im Einzelfall zur Erfüllung der Aufgaben nach den §§ 4 bis 6 benötigt.
 
-
-## § 12 – Zweckbindung, Grundsatz der hypothetischen Datenneuerhebung
+# § 12 – Zweckbindung, Grundsatz der hypothetischen Datenneuerhebung
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten, die es selbst erhoben hat, weiterverarbeiten
 
@@ -401,8 +385,7 @@ Personenbezogene Daten, die durch Herstellung von Lichtbildern oder Bildaufzeich
 
 (+++ § 12 Abs. 2 bis 5: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 13 – Informationssystem des Bundeskriminalamtes
+# § 13 – Informationssystem des Bundeskriminalamtes
 
 (1) Das Bundeskriminalamt betreibt ein Informationssystem zur Erfüllung seiner Aufgaben nach den §§ 2 bis 8.
 
@@ -420,8 +403,7 @@ Personenbezogene Daten, die durch Herstellung von Lichtbildern oder Bildaufzeich
 
 (3) Mit seinem Informationssystem nimmt das Bundeskriminalamt nach Maßgabe der §§ 29 und 30 am polizeilichen Informationsverbund nach § 29 teil.
 
-
-## § 14 – Kennzeichnung
+# § 14 – Kennzeichnung
 
 (1) Bei der Speicherung im Informationssystem sind personenbezogene Daten wie folgt zu kennzeichnen:
 
@@ -445,8 +427,7 @@ Die Kennzeichnung nach Satz 1 Nummer 1 kann auch durch Angabe der Rechtsgrundlag
 
 (+++ § 14: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 15 – Regelung von Zugriffsberechtigungen
+# § 15 – Regelung von Zugriffsberechtigungen
 
 (1) Das Bundeskriminalamt hat bei der Erteilung von Zugriffsberechtigungen der Nutzer des Informationssystems sicherzustellen, dass
 
@@ -462,8 +443,7 @@ Die Kennzeichnung nach Satz 1 Nummer 1 kann auch durch Angabe der Rechtsgrundlag
 
 (+++ § 15: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 16 – Datenweiterverarbeitung im Informationssystem
+# § 16 – Datenweiterverarbeitung im Informationssystem
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten nach Maßgabe des § 12 im Informationssystem weiterverarbeiten, soweit dies zur Erfüllung seiner Aufgaben erforderlich ist und soweit dieses Gesetz keine zusätzlichen besonderen Voraussetzungen vorsieht.
 
@@ -493,8 +473,7 @@ b) um eine erhebliche Gefahr abzuwehren.
 
 (+++ § 16 Abs. 1, 2, 5 u. 6: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 17 – Projektbezogene gemeinsame Dateien
+# § 17 – Projektbezogene gemeinsame Dateien
 
 (1) Das Bundeskriminalamt kann für die Dauer einer befristeten projektbezogenen Zusammenarbeit mit den Verfassungsschutzbehörden des Bundes und der Länder, dem Militärischen Abschirmdienst, dem Bundesnachrichtendienst, Polizeibehörden des Bundes und der Länder und dem Zollkriminalamt eine gemeinsame Datei errichten. Die projektbezogene Zusammenarbeit bezweckt nach Maßgabe der Aufgaben und Befugnisse der in Satz 1 genannten Behörden den Austausch und die gemeinsame Auswertung von polizeilichen oder nachrichtendienstlichen Erkenntnissen zu
 
@@ -538,8 +517,7 @@ Personenbezogene Daten zu Straftaten nach Satz 2 dürfen unter Einsatz der gemei
 
 Das Bundeskriminalamt hat im Einvernehmen mit den an der projektbezogenen Zusammenarbeit teilnehmenden Behörden deren jeweilige Organisationseinheiten zu bestimmen, die zur Eingabe und zum Abruf befugt sind. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor den Festlegungen anzuhören. Ist im Hinblick auf die Dringlichkeit der Aufgabenerfüllung eine Mitwirkung der in den Sätzen 1 und 3 genannten Stellen nicht möglich, so kann das Bundeskriminalamt eine Sofortanordnung treffen. Das Bundeskriminalamt unterrichtet gleichzeitig unter Vorlage der Sofortanordnung das Bundesministerium des Innern, für Bau und Heimat. Das Verfahren nach den Sätzen 1 und 3 ist unverzüglich nachzuholen.
 
-
-## § 18 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
+# § 18 – Daten zu Verurteilten, Beschuldigten, Tatverdächtigen und sonstigen Anlasspersonen
 
 (1) Das Bundeskriminalamt kann zur Erfüllung seiner Aufgaben nach § 2 Absatz 1 bis 3 personenbezogene Daten weiterverarbeiten von
 
@@ -578,8 +556,7 @@ e) die Tatvorwürfe durch Angabe der gesetzlichen Vorschriften und die nähere B
 (+++ § 18 Abs. 1, 2, 4 u. 5: Zur Anwendung vgl. § 29 Abs. 4 +++)  
 (+++ § 18 Abs. 5: Zur Anwendung vgl. § 16 Abs. 5 +++)
 
-
-## § 19 – Daten zu anderen Personen
+# § 19 – Daten zu anderen Personen
 
 (1) Soweit dies zur Verhütung oder zur Vorsorge für die künftige Verfolgung einer Straftat mit erheblicher Bedeutung erforderlich ist, kann das Bundeskriminalamt zur Erfüllung seiner Aufgaben nach § 2 Absatz 1 bis 3 personenbezogene Daten von Personen weiterverarbeiten, bei denen tatsächliche Anhaltspunkte dafür vorliegen, dass
 
@@ -605,8 +582,7 @@ Entsprechendes gilt, soweit es sonst zur Erfüllung seiner Aufgaben erforderlich
 
 (+++ § 19 Abs. 1 u. 2: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 20 – Verordnungsermächtigung
+# § 20 – Verordnungsermächtigung
 
 Das Bundesministerium des Innern, für Bau und Heimat bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Art und den Umfang der Daten, die nach den §§ 16, 18 und 19 weiterverarbeitet werden dürfen. In der Rechtsverordnung nach Satz 1 bestimmt es insbesondere
 
@@ -627,8 +603,7 @@ Das Bundesministerium des Innern, für Bau und Heimat bestimmt durch Rechtsveror
 (+++ § 20: Inkraft gem. Art. 13 Abs. 2 G. v. 1.6.2017 I, 1354 mWv 9.6.2017 +++)  
 (+++ § 20: Zur Anwendung vgl. § 29 Abs. 4 +++)
 
-
-## § 21 – Weiterverarbeitung für die wissenschaftliche Forschung
+# § 21 – Weiterverarbeitung für die wissenschaftliche Forschung
 
 (1) Das Bundeskriminalamt kann im Rahmen seiner Aufgaben bei ihm vorhandene personenbezogene Daten, wenn dies für bestimmte wissenschaftliche Forschungsarbeiten erforderlich ist, weiterverarbeiten, soweit eine Verwendung anonymisierter Daten zu diesem Zweck nicht möglich ist und das öffentliche Interesse an der Forschungsarbeit das schutzwürdige Interesse der betroffenen Person erheblich überwiegt. Eine solche Weiterverarbeitung von personenbezogenen Daten, die aus in § 12 Absatz 3 genannten Maßnahmen erlangt wurden, ist ausgeschlossen.
 
@@ -656,15 +631,13 @@ Eine Übermittlung von personenbezogenen Daten im Sinne des Absatzes 1 Satz 2 is
 
 (+++ § 21 Abs. 1 Satz 2 u. Abs. 2 Satz 2: Zur Anwendung vgl. § 22 Abs. 1 +++)
 
-
-## § 22 – Weiterverarbeitung von Daten zur Aus- und Fortbildung, zu statistischen Zwecken und zur Vorgangsverwaltung
+# § 22 – Weiterverarbeitung von Daten zur Aus- und Fortbildung, zu statistischen Zwecken und zur Vorgangsverwaltung
 
 (1) Das Bundeskriminalamt kann bei ihm vorhandene personenbezogene Daten zur polizeilichen Aus- und Fortbildung oder zu statistischen Zwecken weiterverarbeiten, soweit eine Weiterverarbeitung anonymisierter Daten zu diesem Zweck nicht möglich ist. Entsprechendes gilt für die Übermittlung an die Landeskriminalämter zu kriminalstatistischen Zwecken. Die Daten sind zum frühestmöglichen Zeitpunkt zu anonymisieren. § 21 Absatz 1 Satz 2 und Absatz 2 Satz 2 gilt entsprechend.
 
 (2) Das Bundeskriminalamt kann, wenn dies zur Vorgangsverwaltung oder zur befristeten Dokumentation polizeilichen Handelns erforderlich ist, personenbezogene Daten ausschließlich zu diesem Zweck weiterverarbeiten.
 
-
-## § 23 – Elektronische Aktenführung
+# § 23 – Elektronische Aktenführung
 
 (1) Die Akten des Bundeskriminalamtes sollen elektronisch geführt werden.
 
@@ -672,8 +645,7 @@ Eine Übermittlung von personenbezogenen Daten im Sinne des Absatzes 1 Satz 2 is
 
 (3) Die Vorschriften über die elektronische Aktenführung im Strafverfahren bleiben unberührt.
 
-
-## § 24 – Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren
+# § 24 – Speicherung von DNA-Identifizierungsmustern zur Erkennung von DNA-Trugspuren
 
 (1) Das Bundeskriminalamt kann von seinen Mitarbeiterinnen und Mitarbeitern, die Umgang mit Spurenmaterial haben oder die Bereiche in seinen Liegenschaften und Einrichtungen betreten müssen, in denen mit Spurenmaterial umgegangen oder dieses gelagert wird,
 
@@ -689,8 +661,7 @@ um zur Erkennung von DNA-Trugspuren festzustellen, ob an Spurenmaterial festgest
 
 (3) Die nach den Absätzen 1 und 2 erhobenen Daten sind zu pseudonymisieren und darüber hinaus im Informationssystem des Bundeskriminalamtes gesondert zu speichern. Eine Verwendung dieser Daten zu anderen als den in den Absätzen 1 und 2 genannten Zwecken ist unzulässig. Die DNA-Identifizierungsmuster sind zu löschen, wenn sie für die genannten Zwecke nicht mehr erforderlich sind. Die Löschung hat spätestens drei Jahre nach dem letzten Umgang der betreffenden Person mit Spurenmaterial oder dem letzten Zutritt zu einem in Absatz 1 Satz 1 genannten Bereich zu erfolgen. Betroffene Personen sind schriftlich über den Zweck und die Weiterverarbeitung sowie die Löschung der erhobenen Daten zu informieren.
 
-
-## § 25 – Datenübermittlung im innerstaatlichen Bereich
+# § 25 – Datenübermittlung im innerstaatlichen Bereich
 
 (1) Das Bundeskriminalamt kann unter Beachtung des § 12 Absatz 2 bis 4 an andere Polizeien des Bundes und an Polizeien der Länder personenbezogene Daten übermitteln, soweit dies zur Erfüllung seiner Aufgaben oder der des Empfängers erforderlich ist.
 
@@ -726,8 +697,7 @@ und Zwecke des Strafverfahrens nicht entgegenstehen.
 
 (+++ § 25 Abs. 4 Satz 2: Zur Anwendung vgl. § 27 Abs. 7 +++)
 
-
-## § 26 – Datenübermittlung an Mitgliedstaaten der Europäischen Union
+# § 26 – Datenübermittlung an Mitgliedstaaten der Europäischen Union
 
 (1) § 25 gilt entsprechend für die Übermittlung von personenbezogenen Daten an
 
@@ -739,8 +709,7 @@ Die Verantwortung für die Zulässigkeit der Datenübermittlung trägt das Bunde
 
 (2) Absatz 1 findet auch Anwendung auf die Übermittlung von personenbezogenen Daten an Polizeibehörden oder sonstige für die Verhütung und Verfolgung von Straftaten zuständige öffentliche Stellen von Staaten, welche die Bestimmungen des Schengen-Besitzstandes aufgrund eines Assoziierungsübereinkommens mit der Europäischen Union über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstandes anwenden.
 
-
-## § 27 – Datenübermittlung im internationalen Bereich
+# § 27 – Datenübermittlung im internationalen Bereich
 
 (1) Das Bundeskriminalamt kann unter Beachtung des § 12 Absatz 2 bis 4 und unter Beachtung der §§ 78 bis 80 des Bundesdatenschutzgesetzes an Polizei- und Justizbehörden sowie an sonstige für die Verhütung oder Verfolgung von Straftaten zuständige öffentliche Stellen in anderen als den in § 26 Absatz 1 genannten Staaten (Drittstaaten) und an andere als die in § 26 Absatz 1 genannten zwischen- und überstaatlichen Stellen, die mit Aufgaben der Verhütung oder Verfolgung von Straftaten befasst sind, personenbezogene Daten übermitteln, soweit dies erforderlich ist
 
@@ -780,8 +749,7 @@ Wird das Abrufverfahren für einen längeren Zeitraum als drei Monate eingericht
 
 Entsprechendes gilt, wenn tatsächliche Anhaltspunkte dafür vorliegen, dass Straftaten von erheblicher Bedeutung begangen werden sollen.
 
-
-## § 28 – Übermittlungsverbote und Verweigerungsgründe
+# § 28 – Übermittlungsverbote und Verweigerungsgründe
 
 (1) Die Übermittlung nach den Vorschriften dieses Gesetzes unterbleibt, wenn
 
@@ -803,8 +771,7 @@ Satz 1 Nummer 1 gilt nicht für Übermittlungen an die Staatsanwaltschaften.
 
 (3) Das Bundeskriminalamt führt für den polizeilichen Informationsaustausch und Rechtshilfeverkehr eine fortlaufend aktualisierte Aufstellung über die Einhaltung der elementaren rechtsstaatlichen Grundsätze und Menschenrechtsstandards sowie das Datenschutzniveau in den jeweiligen Drittstaaten, die die speziellen Erfordernisse des polizeilichen Informationsaustauschs berücksichtigt. Hierbei berücksichtigt es insbesondere die jeweils aktuellen Erkenntnisse der Bundesregierung und maßgeblich, ob ein Angemessenheitsbeschluss der Europäischen Kommission nach Artikel 36 der Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (ABl. L 119 vom 4.5.2016, S. 89) vorliegt.
 
-
-## § 29 – Polizeilicher Informationsverbund, Verordnungsermächtigung
+# § 29 – Polizeilicher Informationsverbund, Verordnungsermächtigung
 
 (1) Das Bundeskriminalamt ist im Rahmen seiner Aufgabe nach § 2 Absatz 3 Zentralstelle für den polizeilichen Informationsverbund zwischen Bund und Ländern. Es stellt zu diesem Zweck ein einheitliches Verbundsystem zur Verfügung.
 
@@ -844,8 +811,7 @@ Die am polizeilichen Informationsverbund teilnehmenden Stellen haben das Recht, 
 
 (+++ § 29 Abs. 5: Zur Anwendung vgl. § 17 Abs. 3 +++)
 
-
-## § 30 – Verbundrelevanz
+# § 30 – Verbundrelevanz
 
 (1) Die am polizeilichen Informationsverbund teilnehmenden Stellen verarbeiten im polizeilichen Informationsverbund ausschließlich
 
@@ -861,8 +827,7 @@ b) zu Zwecken der Fahndung nach Personen und Sachen, soweit das Bundeskriminalam
 
 (2) Die am polizeilichen Informationsverbund teilnehmenden Stellen legen unter Beteiligung der jeweils zuständigen obersten Bundes- oder Landesbehörden Kriterien fest, die bestimmen, welche Straftaten nach allgemeiner kriminalistischer Erfahrung die Voraussetzungen nach Absatz 1 Nummer 1 erfüllen. Die Kriterien können sich an den unterschiedlichen kriminalistischen Phänomenbereichen orientieren. Die Kriterien sind in angemessenen Abständen und, soweit erforderlich, zu aktualisieren. Die Festlegung und Aktualisierung dieser Kriterien erfolgen im Benehmen mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
 
-
-## § 31 – Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund
+# § 31 – Datenschutzrechtliche Verantwortung im polizeilichen Informationsverbund
 
 (1) Das Bundeskriminalamt hat als Zentralstelle für den polizeilichen Informationsverbund die Einhaltung der Regelungen zur Zusammenarbeit und zur Führung des Verbundsystems zu überwachen.
 
@@ -872,8 +837,7 @@ b) zu Zwecken der Fahndung nach Personen und Sachen, soweit das Bundeskriminalam
 
 (+++ § 31: Zur Anwendung vgl. § 17 Abs. 3 +++)
 
-
-## § 32 – Unterrichtung der Zentralstelle
+# § 32 – Unterrichtung der Zentralstelle
 
 (1) Die Landeskriminalämter übermitteln dem Bundeskriminalamt nach Maßgabe der Rechtsverordnung nach § 20 die zur Erfüllung seiner Aufgaben als Zentralstelle erforderlichen Informationen. Die Verpflichtung der Landeskriminalämter nach Satz 1 kann im Benehmen mit dem Bundeskriminalamt auch von anderen Polizeibehörden des Landes erfüllt werden. Das Bundeskriminalamt legt im Benehmen mit den Landeskriminalämtern Einzelheiten der Informationsübermittlung fest.
 
@@ -897,8 +861,7 @@ sowie
 
 (5) Die Verantwortlichkeit für die Zulässigkeit der Übermittlung nach den Absätzen 1 bis 3 trägt die übermittelnde Stelle.
 
-
-## § 33 – Ausschreibungen bei der Zusammenarbeit im internationalen Bereich
+# § 33 – Ausschreibungen bei der Zusammenarbeit im internationalen Bereich
 
 (1) Das Bundeskriminalamt kann auf ein der Verfolgung von Straftaten oder der Strafvollstreckung dienendes Ersuchen einer zuständigen Behörde eines ausländischen Staates oder eines internationalen Strafgerichtshofes, der durch einen für die Bundesrepublik Deutschland verbindlichen Rechtsakt errichtet wurde,
 
@@ -940,8 +903,7 @@ sowie
 
 Die Absätze 5 und 6 gelten entsprechend. Die Innenministerien und Senatsinnenverwaltungen der Länder sind unverzüglich zu unterrichten.
 
-
-## § 34 – Einsatz technischer Mittel zur Eigensicherung
+# § 34 – Einsatz technischer Mittel zur Eigensicherung
 
 (1) Werden vom Bundeskriminalamt beauftragte Personen im Rahmen der Befugnisse des Bundeskriminalamtes aus Gründen der Strafverfolgung tätig, dürfen, soweit dies zur Abwehr von Gefahren für deren Leib, Leben oder Freiheit unerlässlich ist, ohne Wissen der betroffenen Personen im Beisein oder in unmittelbarem zeitlichem Zusammenhang mit dem Einsatz der vom Bundeskriminalamt beauftragten Person das innerhalb oder außerhalb einer Wohnung nicht öffentlich gesprochene Wort mit technischen Mitteln abgehört und aufgezeichnet und Lichtbilder und Bildaufzeichnungen hergestellt werden.
 
@@ -955,22 +917,19 @@ Die Absätze 5 und 6 gelten entsprechend. Die Innenministerien und Senatsinnenve
 
 (+++ § 34: Zur Anwendung vgl. § 45 Abs. 6 +++)
 
-
-## § 35 – Unterstützung der Polizeibehörden der Länder bei der Strafverfolgung
+# § 35 – Unterstützung der Polizeibehörden der Länder bei der Strafverfolgung
 
 (1) Zur Unterstützung von Strafverfolgungsmaßnahmen kann das Bundeskriminalamt Bedienstete zu den Polizeibehörden in den Ländern entsenden, wenn die zuständige Landesbehörde darum ersucht oder wenn dies den Ermittlungen dienlich sein kann. Die Zuständigkeit der Polizeibehörden in den Ländern bleibt unberührt.
 
 (2) Die oberste Landesbehörde ist unverzüglich zu benachrichtigen.
 
-
-## § 36 – Koordinierung bei der Strafverfolgung
+# § 36 – Koordinierung bei der Strafverfolgung
 
 (1) Berührt eine Straftat den Bereich mehrerer Länder oder besteht ein Zusammenhang mit einer anderen Straftat in einem anderen Land und ist angezeigt, dass die polizeilichen Aufgaben auf dem Gebiet der Strafverfolgung einheitlich wahrgenommen werden, so unterrichtet das Bundeskriminalamt die obersten Landesbehörden und die Generalstaatsanwaltschaften, in deren Bezirken ein Gerichtsstand begründet ist. Das Bundeskriminalamt weist im Einvernehmen mit einer Generalstaatsanwaltschaft und einer obersten Landesbehörde eines Landes diesem Land die polizeilichen Aufgaben auf dem Gebiet der Strafverfolgung mit der Maßgabe zu, diese Aufgaben insgesamt wahrzunehmen.
 
 (2) Zuständig für die Durchführung der einem Land nach Absatz 1 übertragenen Aufgaben ist das Landeskriminalamt. Die oberste Landesbehörde kann an Stelle des Landeskriminalamtes eine andere Polizeibehörde im Land für zuständig erklären.
 
-
-## § 37 – Amtshandlungen, Unterstützungspflichten der Länder
+# § 37 – Amtshandlungen, Unterstützungspflichten der Länder
 
 (1) Vollzugsbeamtinnen und Vollzugsbeamte des Bundes und der Länder können in den Fällen des § 4 Absatz 1 und 2 und des § 36 Absatz 1 im Geltungsbereich dieses Gesetzes Amtshandlungen vornehmen. Sie sind insoweit Ermittlungspersonen der zuständigen Staatsanwaltschaft, wenn sie mindestens vier Jahre dem Polizeivollzugsdienst angehören. Sie unterrichten die örtlichen Polizeidienststellen rechtzeitig über Ermittlungen in deren Zuständigkeitsbereich, sofern nicht schwerwiegende Gründe entgegenstehen. Zu den Ermittlungshandlungen sollen, soweit es zweckmäßig ist, Beamtinnen und Beamte der örtlich zuständigen Polizeidienststellen hinzugezogen werden.
 
@@ -980,15 +939,13 @@ Die Absätze 5 und 6 gelten entsprechend. Die Innenministerien und Senatsinnenve
 
 (4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des Bundeskriminalamtes können im Zuständigkeitsbereich eines Landes tätig werden, wenn das jeweilige Landesrecht es vorsieht.
 
-
-## § 38 – Allgemeine Befugnisse
+# § 38 – Allgemeine Befugnisse
 
 (1) Das Bundeskriminalamt kann zur Erfüllung seiner Aufgabe nach § 5 Absatz 1 Satz 1 die notwendigen Maßnahmen treffen, um eine Gefahr abzuwehren, soweit nicht dieses Gesetz die Befugnisse des Bundeskriminalamtes besonders regelt. Die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
 (2) Gefahr im Sinne dieses Abschnitts ist eine im Einzelfall bestehende Gefahr für die öffentliche Sicherheit im Zusammenhang mit Straftaten nach § 5 Absatz 1 Satz 2.
 
-
-## § 39 – Erhebung personenbezogener Daten
+# § 39 – Erhebung personenbezogener Daten
 
 (1) Das Bundeskriminalamt kann, sofern in diesem Abschnitt nichts anderes bestimmt ist, personenbezogene Daten erheben, soweit dies zur Erfüllung der ihm nach § 5 Absatz 1 obliegenden Aufgabe erforderlich ist.
 
@@ -1008,8 +965,7 @@ und die Verhütung dieser Straftaten auf andere Weise aussichtslos oder wesentli
 
 (3) § 9 Absatz 2 und 3 gilt entsprechend.
 
-
-## § 40 – Bestandsdatenauskunft
+# § 40 – Bestandsdatenauskunft
 
 (1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), sofern
 
@@ -1037,11 +993,9 @@ und die zu erhebenden Daten zur Verhütung dieser Straftat erforderlich sind.
 
 (8) Das Bundeskriminalamt hat den Verpflichteten für ihm erteilte Auskünfte eine Entschädigung zu gewähren. Der Umfang der Entschädigung bemisst sich nach § 23 und Anlage 3 des Justizvergütungs- und -entschädigungsgesetzes; die Vorschriften über die Verjährung in § 2 Absatz 1 und 4 des Justizvergütungs- und -entschädigungsgesetzes finden entsprechend Anwendung.
 
-§ 40 Abs. 1 idF d. G v. 1.7.2017 I 1354: Soweit § 40 Abs. 2 nicht auf § 39 Absatz 2 Nummer 2 verweist nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar.  
-§ 40 Abs. 2 idF d. G v. 1.7.2017 I 1354: Nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar.
+§ 40 Abs. 1 idF d. G v. 1.7.2017 I 1354: Soweit § 40 Abs. 2 nicht auf § 39 Absatz 2 Nummer 2 verweist nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar. § 40 Abs. 2 idF d. G v. 1.7.2017 I 1354: Nach Maßgabe der Gründe mit Art. 2 Abs. 1 iVm. Art. 1 Abs. 1 u. Art. 10 Abs. 1 GG unvereinbar gem. Nr. 1 Buchst. g BVerfGE v. 27.5.2020 I 1931 - 1 BvR 1873/13 u.a. - . Gem. Nr. 2 dieser BVerfGE bleiben die für mit dem Grundgesetz unvereinbar erklärten Vorschriften bis zu einer Neuregelung, längstens jedoch bis zum 31.12.2021, weiter anwendbar.
 
-
-## § 41 – Befragung und Auskunftspflicht
+# § 41 – Befragung und Auskunftspflicht
 
 (1) Das Bundeskriminalamt kann eine Person befragen, wenn Tatsachen die Annahme rechtfertigen, dass die Person sachdienliche Angaben für die Erfüllung der dem Bundeskriminalamt nach § 5 Absatz 1 Satz 1 obliegenden Aufgabe machen kann. Zum Zwecke der Befragung kann die Person angehalten werden. Auf Verlangen hat die Person mitgeführte Ausweispapiere zur Prüfung auszuhändigen.
 
@@ -1051,8 +1005,7 @@ und die zu erhebenden Daten zur Verhütung dieser Straftat erforderlich sind.
 
 (4) § 136a der Strafprozessordnung gilt entsprechend. § 12 des Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
 
-
-## § 42 – Identitätsfeststellung und Prüfung von Berechtigungsscheinen
+# § 42 – Identitätsfeststellung und Prüfung von Berechtigungsscheinen
 
 (1) Wenn Tatsachen die Annahme rechtfertigen, dass eine Straftat nach § 5 Absatz 1 Satz 2 begangen werden soll, kann das Bundeskriminalamt entsprechend § 23 Absatz 3 Satz 1, 2, 4 und 5 des Bundespolizeigesetzes die Identität einer Person feststellen,
 
@@ -1068,15 +1021,13 @@ b) sich dort Personen ohne erforderlichen Aufenthaltstitel treffen oder
 
 (2) Das Bundeskriminalamt kann, soweit es zur Erfüllung der ihm nach § 5 Absatz 1 Satz 1 obliegenden Aufgabe erforderlich ist, verlangen, dass Berechtigungsscheine, Bescheinigungen, Nachweise oder sonstige Urkunden zur Prüfung ausgehändigt werden, wenn die betroffene Person aufgrund einer Rechtsvorschrift verpflichtet ist, diese Urkunden mitzuführen.
 
-
-## § 43 – Erkennungsdienstliche Maßnahmen
+# § 43 – Erkennungsdienstliche Maßnahmen
 
 (1) Ist eine nach § 42 Absatz 1 zulässige Identitätsfeststellung auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten möglich, kann das Bundeskriminalamt erkennungsdienstliche Maßnahmen entsprechend § 24 Absatz 3 des Bundespolizeigesetzes vornehmen.
 
 (2) Ist die Identität festgestellt, sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten, es sei denn, ihre weitere Aufbewahrung ist nach anderen Rechtsvorschriften zulässig. Sind die Unterlagen an andere Stellen übermittelt worden, sind diese über die erfolgte Vernichtung zu unterrichten.
 
-
-## § 44 – Vorladung
+# § 44 – Vorladung
 
 (1) Das Bundeskriminalamt kann eine Person schriftlich oder mündlich vorladen, wenn
 
@@ -1086,8 +1037,7 @@ b) sich dort Personen ohne erforderlichen Aufenthaltstitel treffen oder
 
 (2) § 25 Absatz 2 bis 4 des Bundespolizeigesetzes gilt entsprechend.
 
-
-## § 45 – Besondere Mittel der Datenerhebung
+# § 45 – Besondere Mittel der Datenerhebung
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten mit den besonderen Mitteln nach Absatz 2 erheben über
 
@@ -1165,8 +1115,7 @@ Soweit es für den Aufbau und die Aufrechterhaltung der Legende eines Verdeckten
 
 (+++ § 45 Abs. 4, 5, 7 u. 8: Zur Anwendung vgl. § 64 Abs. 4 +++)
 
-
-## § 46 – Besondere Bestimmungen über den Einsatz technischer Mittel in oder aus Wohnungen
+# § 46 – Besondere Bestimmungen über den Einsatz technischer Mittel in oder aus Wohnungen
 
 (1) Das Bundeskriminalamt kann zur Abwehr einer dringenden Gefahr für den Bestand oder die Sicherheit des Bundes oder eines Landes oder für Leib, Leben oder Freiheit einer Person oder Sachen von bedeutendem Wert, deren Erhaltung im öffentlichen Interesse geboten ist, durch den verdeckten Einsatz technischer Mittel in oder aus Wohnungen
 
@@ -1220,8 +1169,7 @@ Die Anordnung ist auf höchstens einen Monat zu befristen. Eine Verlängerung um
 
 (8) Bei Gefahr im Verzug kann die Präsidentin oder der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung im Benehmen mit der oder dem Datenschutzbeauftragten des Bundeskriminalamtes über die Verwertung der Erkenntnisse entscheiden. Bei der Sichtung der erhobenen Daten kann sie oder er sich der technischen Unterstützung von zwei weiteren Bediensteten des Bundeskriminalamtes bedienen, von denen einer die Befähigung zum Richteramt haben muss. Die Bediensteten des Bundeskriminalamtes sind zur Verschwiegenheit über die ihnen bekannt werdenden Erkenntnisse, die nicht verwertet werden dürfen, verpflichtet. Die gerichtliche Entscheidung nach Absatz 7 ist unverzüglich nachzuholen.
 
-
-## § 47 – Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle
+# § 47 – Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten, insbesondere die Personalien einer Person und das amtliche Kennzeichen eines von ihr benutzten oder eingesetzten Kraftfahrzeugs oder die Identifizierungsnummer oder äußere Kennzeichnung eines von ihr eingesetzten Wasserfahrzeugs, Luftfahrzeugs oder Containers, in Fahndungssystemen zur polizeilichen Beobachtung oder gezielten Kontrolle speichern, damit andere Polizeibehörden
 
@@ -1247,8 +1195,7 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 (+++ § 47 Abs. 3 bis 5: Zur Anwendung vgl. § 65 Abs. 2 +++)
 
-
-## § 48 – Rasterfahndung
+# § 48 – Rasterfahndung
 
 (1) Das Bundeskriminalamt kann von öffentlichen oder nichtöffentlichen Stellen die Übermittlung von personenbezogenen Daten von bestimmten Personengruppen zum Zwecke des automatisierten Abgleichs mit anderen Datenbeständen verlangen, soweit dies zur Abwehr einer Gefahr für den Bestand oder die Sicherheit des Bundes oder eines Landes oder für Leib, Leben oder Freiheit einer Person oder Sachen von bedeutendem Wert, deren Erhalt im öffentlichen Interesse geboten ist, erforderlich ist; eine solche Gefahr liegt in der Regel auch dann vor, wenn konkrete Vorbereitungshandlungen die Annahme rechtfertigen, dass eine Straftat nach § 5 Absatz 1 Satz 2 begangen werden soll. Vom Bundesamt für Verfassungsschutz und von den Verfassungsschutzbehörden der Länder, dem Militärischen Abschirmdienst sowie dem Bundesnachrichtendienst kann die Übermittlung nach Satz 1 nicht verlangt werden.
 
@@ -1258,8 +1205,7 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 (4) Die Maßnahme darf nur auf Antrag der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung durch das Gericht angeordnet werden.
 
-
-## § 49 – Verdeckter Eingriff in informationstechnische Systeme
+# § 49 – Verdeckter Eingriff in informationstechnische Systeme
 
 (1) Das Bundeskriminalamt darf ohne Wissen der betroffenen Person mit technischen Mitteln in von der betroffenen Person genutzte informationstechnische Systeme eingreifen und aus ihnen Daten erheben, wenn bestimmte Tatsachen die Annahme rechtfertigen, dass eine Gefahr vorliegt für
 
@@ -1317,8 +1263,7 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 
 (+++ § 49 Abs. 2: Zur Anwendung vgl. § 51 Abs. 2 +++)
 
-
-## § 50 – Postbeschlagnahme
+# § 50 – Postbeschlagnahme
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person Postsendungen und Telegramme beschlagnahmen, die sich im Gewahrsam von Personen oder Unternehmen befinden, die geschäftsmäßig Post- oder Telekommunikationsdienste erbringen oder daran mitwirken und die an eine Person gerichtet sind,
 
@@ -1366,8 +1311,7 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 
 (8) Liegen tatsächliche Anhaltspunkte für die Annahme vor, dass durch die Maßnahme allein Erkenntnisse aus dem Kernbereich privater Lebensgestaltung erlangt würden, ist die Maßnahme unzulässig. Erkenntnisse aus dem Kernbereich privater Lebensgestaltung dürfen nicht verwertet werden.
 
-
-## § 51 – Überwachung der Telekommunikation
+# § 51 – Überwachung der Telekommunikation
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person die Telekommunikation einer Person überwachen und aufzeichnen,
 
@@ -1430,8 +1374,7 @@ Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um
 (+++ § 51 Abs. 3 bis 6: Zur Anwendung vgl. § 52 Abs. 3 +++)  
 (+++ § 51 Abs. 3 u. 5 Satz 1 u. 5: Zur Anwendung vgl. § 53 Abs. 3 +++)
 
-
-## § 52 – Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
+# § 52 – Erhebung von Telekommunikationsverkehrsdaten und Nutzungsdaten
 
 (1) Das Bundeskriminalamt kann ohne Wissen der betroffenen Person Verkehrsdaten (§ 96 Absatz 1 des Telekommunikationsgesetzes) erheben zu
 
@@ -1451,8 +1394,7 @@ wenn die Abwehr der Gefahr oder Verhütung der Straftaten auf andere Weise aussi
 
 (3) § 51 Absatz 3 bis 6 gilt entsprechend mit der Maßgabe, dass an die Stelle der Präsidentin oder des Präsidenten des Bundeskriminalamtes oder ihrer oder seiner Vertretung die zuständige Abteilungsleitung oder deren Vertretung tritt. Abweichend von § 51 Absatz 4 Nummer 2 und Absatz 5 Satz 1 Nummer 2 genügt eine räumlich und zeitlich hinreichende Bezeichnung der Telekommunikation, sofern anderenfalls die Erreichung des Zwecks der Maßnahme aussichtslos oder wesentlich erschwert wäre.
 
-
-## § 53 – Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten
+# § 53 – Identifizierung und Lokalisierung von Mobilfunkkarten und -endgeräten
 
 (1) Das Bundeskriminalamt kann unter den Voraussetzungen des § 51 Absatz 1 durch technische Mittel ermitteln:
 
@@ -1466,13 +1408,11 @@ wenn die Abwehr der Gefahr oder Verhütung der Straftaten auf andere Weise aussi
 
 (4) Aufgrund der Anordnung einer Maßnahme nach Absatz 1 Nummer 2 hat jeder, der Telekommunikationsdienste erbringt oder daran mitwirkt, dem Bundeskriminalamt die für die Ermittlung des Standortes des Mobilfunkendgeräts erforderliche Geräte- und Kartennummer unverzüglich mitzuteilen.
 
-
-## § 54 – Platzverweisung
+# § 54 – Platzverweisung
 
 Das Bundeskriminalamt kann zur Abwehr einer Gefahr eine Person vorübergehend von einem Ort verweisen oder ihr vorübergehend das Betreten eines Ortes verbieten.
 
-
-## § 55 – Aufenthaltsvorgabe und Kontaktverbot
+# § 55 – Aufenthaltsvorgabe und Kontaktverbot
 
 (1) Das Bundeskriminalamt kann zur Abwehr einer Gefahr oder zur Verhütung von Straftaten nach § 5 Absatz 1 Satz 2 einer Person untersagen, sich ohne Erlaubnis des Bundeskriminalamtes von ihrem Wohn- oder Aufenthaltsort oder aus einem bestimmten Bereich zu entfernen oder sich an bestimmten Orten aufzuhalten (Aufenthaltsvorgabe), wenn
 
@@ -1514,8 +1454,7 @@ b) im Falle des Kontaktverbots nach Absatz 2 der Personen oder Gruppe, mit denen
 
 (7) Die Vorschriften des Versammlungsrechts bleiben unberührt.
 
-
-## § 56 – Elektronische Aufenthaltsüberwachung
+# § 56 – Elektronische Aufenthaltsüberwachung
 
 (1) Das Bundeskriminalamt kann eine Person dazu verpflichten, ein technisches Mittel, mit dem der Aufenthaltsort dieser Person elektronisch überwacht werden kann, ständig in betriebsbereitem Zustand am Körper bei sich zu führen und dessen Funktionsfähigkeit nicht zu beeinträchtigen, wenn
 
@@ -1583,8 +1522,7 @@ Zur Einhaltung der Zweckbindung nach Satz 3 hat die Verarbeitung der Daten autom
 
 (8) Die Anordnung ist auf höchstens drei Monate zu befristen. Eine Verlängerung um jeweils nicht mehr als drei Monate ist möglich, soweit die Anordnungsvoraussetzungen fortbestehen. Liegen die Voraussetzungen der Anordnung nicht mehr vor, ist die Maßnahme unverzüglich zu beenden.
 
-
-## § 57 – Gewahrsam
+# § 57 – Gewahrsam
 
 (1) Das Bundeskriminalamt kann eine Person in Gewahrsam nehmen, wenn dies unerlässlich ist,
 
@@ -1594,8 +1532,7 @@ Zur Einhaltung der Zweckbindung nach Satz 3 hat die Verarbeitung der Daten autom
 
 (2) § 40 Absatz 1 und 2 sowie die §§ 41 und 42 Absatz 1 Satz 1, 3 und Absatz 2 des Bundespolizeigesetzes gelten entsprechend mit der Maßgabe, dass an die Stelle der dort genannten Freiheitsentziehungen die Maßnahme nach Absatz 1 tritt.
 
-
-## § 58 – Durchsuchung von Personen
+# § 58 – Durchsuchung von Personen
 
 (1) Das Bundeskriminalamt kann eine Person durchsuchen, wenn
 
@@ -1615,8 +1552,7 @@ und die Durchsuchung aufgrund von auf die zu durchsuchende Person bezogenen Anha
 
 (3) § 43 Absatz 4 und 5 des Bundespolizeigesetzes gilt entsprechend.
 
-
-## § 59 – Durchsuchung von Sachen
+# § 59 – Durchsuchung von Sachen
 
 (1) Das Bundeskriminalamt kann eine Sache durchsuchen, wenn
 
@@ -1636,8 +1572,7 @@ und die Durchsuchung aufgrund von auf die Sache bezogenen Anhaltspunkten erforde
 
 (2) § 44 Absatz 4 des Bundespolizeigesetzes gilt entsprechend.
 
-
-## § 60 – Sicherstellung
+# § 60 – Sicherstellung
 
 (1) Das Bundeskriminalamt kann eine Sache sicherstellen,
 
@@ -1655,8 +1590,7 @@ d) sich oder einem anderen die Flucht zu ermöglichen oder zu erleichtern.
 
 (2) Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend.
 
-
-## § 61 – Betreten und Durchsuchen von Wohnungen
+# § 61 – Betreten und Durchsuchen von Wohnungen
 
 (1) Das Bundeskriminalamt kann eine Wohnung ohne Einwilligung des Inhabers betreten und durchsuchen, wenn
 
@@ -1676,8 +1610,7 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 (5) § 46 des Bundespolizeigesetzes gilt entsprechend.
 
-
-## § 62 – Schutz zeugnisverweigerungsberechtigter Personen
+# § 62 – Schutz zeugnisverweigerungsberechtigter Personen
 
 (1) Maßnahmen nach diesem Abschnitt, die sich gegen eine in § 53 Absatz 1 Satz 1 Nummer 1, 2, 3 oder Nummer 4 der Strafprozessordnung genannte Person richten und voraussichtlich Erkenntnisse erbringen würden, über die diese Person das Zeugnis verweigern dürfte, sind unzulässig. § 41 Absatz 3 bleibt unberührt. Dennoch erlangte Erkenntnisse dürfen nicht verwertet werden. Aufzeichnungen hierüber sind unverzüglich zu löschen. Die Tatsache ihrer Erlangung und Löschung ist zu dokumentieren. Die Sätze 3 bis 5 gelten entsprechend, wenn durch eine Maßnahme, die sich nicht gegen eine in § 53 Absatz 1 Satz 1 Nummer 1, 2, 3 oder Nummer 4 der Strafprozessordnung genannte Person richtet, von einer dort genannten Person Erkenntnisse erlangt werden, über die sie das Zeugnis verweigern dürfte. Für Personen nach § 53 Absatz 1 Satz 1 Nummer 3 der Strafprozessordnung gelten die Sätze 1 bis 6 nur, soweit es sich um Rechtsanwälte oder Kammerrechtsbeistände handelt.
 
@@ -1687,8 +1620,7 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 
 (4) Die Absätze 1 bis 3 gelten nicht, sofern Tatsachen die Annahme rechtfertigen, dass die zeugnisverweigerungsberechtigte Person für die Gefahr verantwortlich ist.
 
-
-## § 63 – Allgemeine Befugnisse
+# § 63 – Allgemeine Befugnisse
 
 (1) Zur Erfüllung seiner Aufgaben nach § 6 kann das Bundeskriminalamt die notwendigen Maßnahmen treffen, um eine im Einzelfall bestehende Gefahr für die öffentliche Sicherheit abzuwehren, soweit nicht dieses Gesetz die Befugnisse des Bundeskriminalamtes besonders regelt. Die zur Erfüllung der Aufgaben nach § 6 geregelten Befugnisse gelten in Bezug auf Personen nur, wenn Anhaltspunkte dafür vorliegen, dass von ihnen Gefährdungen für die zu schützende Person ausgehen können. Die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
@@ -1721,8 +1653,7 @@ Die Wohnung umfasst die Wohn- und Nebenräume, Arbeits-, Betriebs- und Geschäft
 (+++ § § 63 Abs. 2 u. 4 bis 8: Zur Anwendung vgl. § 66 Abs. 1 +++)  
 (+++ § 63 Abs. 2, 4 bis 6 u. 8: Zur Anwendung vgl. § 67 +++)
 
-
-## § 63a – Bestandsdatenauskunft
+# § 63a – Bestandsdatenauskunft
 
 (1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), soweit die zu erhebenden Daten im Einzelfall erforderlich sind
 
@@ -1752,8 +1683,7 @@ Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhan
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 
-
-## § 64 – Besondere Mittel der Datenerhebung
+# § 64 – Besondere Mittel der Datenerhebung
 
 (1) Das Bundeskriminalamt kann personenbezogene Daten mit den besonderen Mitteln nach Absatz 2 erheben über
 
@@ -1793,8 +1723,7 @@ dürfen nur auf Antrag der Leitung der für den Personenschutz zuständigen Abte
 
 (+++ § 64: Zur Anwendung vgl. § 66 Abs. 1 +++)
 
-
-## § 65 – Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle
+# § 65 – Ausschreibung zur polizeilichen Beobachtung oder gezielten Kontrolle
 
 (1) Das Bundeskriminalamt kann eine Ausschreibung zur polizeilichen Beobachtung oder eine Ausschreibung zur gezielten Kontrolle vornehmen, wenn
 
@@ -1808,15 +1737,13 @@ und dies zur Verhütung der Straftaten erforderlich ist.
 
 (2) § 47 Absatz 3 bis 5 gilt entsprechend.
 
-
-## § 66 – Befugnisse
+# § 66 – Befugnisse
 
 (1) Zur Erfüllung seiner Aufgabe nach § 7 kann das Bundeskriminalamt, soweit nicht dieses Gesetz oder das Zeugenschutz-Harmonisierungsgesetz die Befugnisse besonders regelt, die erforderlichen Maßnahmen treffen, um eine im Einzelfall bestehende Gefahr für Leib, Leben, Gesundheit, Freiheit der Willensentschließung und -betätigung oder wesentliche Vermögenswerte der in § 7 genannten Personen abzuwehren. Die Maßnahmen können auch nach rechtskräftigem Abschluss des Strafverfahrens, in dem die Aussage erfolgt ist, fortgeführt werden; für den Fall, dass noch die Strafvollstreckung betrieben wird, sind die Maßnahmen im Einvernehmen mit der Strafvollstreckungsbehörde und im Falle fortdauernder Inhaftierung auch im Einvernehmen mit der Justizvollzugsbehörde durchzuführen. § 63 Absatz 2 und 4 bis 8 und § 64 sowie die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
 (2) Von Maßnahmen des Bundeskriminalamtes, die nach Absatz 1 getroffen werden, sind die zuständigen Landeskriminalämter und die für die Strafverfolgung zuständige Staatsanwaltschaft unverzüglich zu unterrichten. Nach Erhebung der öffentlichen Klage ist das Gericht unverzüglich zu unterrichten, ob das Bundeskriminalamt Maßnahmen nach Absatz 1 durchführt. Sollen die Maßnahmen eingestellt werden, ist die Staatsanwaltschaft zu unterrichten.
 
-
-## § 66a – Bestandsdatenauskunft
+# § 66a – Bestandsdatenauskunft
 
 (1) Das Bundeskriminalamt darf von demjenigen, der geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt, Auskunft über die nach den §§ 95 und 111 des Telekommunikationsgesetzes erhobenen Daten verlangen (§ 113 Absatz 1 Satz 1 des Telekommunikationsgesetzes), soweit die zu erhebenden Daten im Einzelfall erforderlich sind
 
@@ -1846,49 +1773,41 @@ Absatz 3 Satz 2 bleibt unberührt. Die Auskunft nach den Absätzen 1 und 2 anhan
 
 (5) § 10 Absatz 5 bis 7 gilt entsprechend.
 
-
-## § 67 – Befugnisse zur Sicherung des Bundeskriminalamtes
+# § 67 – Befugnisse zur Sicherung des Bundeskriminalamtes
 
 Das Bundeskriminalamt kann zur Erfüllung seiner Aufgabe nach § 8 Absatz 1 die erforderlichen Maßnahmen treffen, um Gefahren für seine behördlichen Liegenschaften, sonstigen Einrichtungen und Veranstaltungen abzuwehren. § 63 Absatz 2, 4 bis 6 und 8 sowie die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
-
-## § 68 – Sicherheitsüberprüfung
+# § 68 – Sicherheitsüberprüfung
 
 Für Personen, die für das Bundeskriminalamt tätig werden sollen, ist eine einfache Sicherheitsüberprüfung nach dem Sicherheitsüberprüfungsgesetz durchzuführen. § 8 Absatz 2 Nummer 2 des Sicherheitsüberprüfungsgesetzes gilt entsprechend.
 
-
-## § 69 – Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+# § 69 – Aufgaben und Befugnisse der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit führt, unbeschadet ihrer oder seiner in § 14 des Bundesdatenschutzgesetzes genannten Aufgaben, auch im Hinblick auf die Datenverarbeitung im Informationssystem nach § 13 und im Informationsverbund nach § 29 Kontrollen bezüglich der Datenverarbeitung bei Maßnahmen nach Abschnitt 5, nach § 34 oder nach § 64 und von Übermittlungen nach § 27 mindestens alle zwei Jahre durch. Sie oder er kontrolliert darüber hinaus mindestens alle zwei Jahre, dass Zugriffe auf personenbezogene Daten im Informationssystem und, im Rahmen ihrer oder seiner Zuständigkeit, im Informationsverbund nur innerhalb der Zugriffsberechtigungen nach § 15 Absatz 1 erfolgen.
 
 (2) Sofern die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit Verstöße nach § 16 Absatz 2 des Bundesdatenschutzgesetzes beanstandet hat, kann sie oder er geeignete Maßnahmen anordnen, wenn dies zur Beseitigung eines erheblichen Verstoßes gegen datenschutzrechtliche Vorschriften erforderlich ist.
 
-
-## § 70 – Benennung der oder des Datenschutzbeauftragten des Bundeskriminalamtes
+# § 70 – Benennung der oder des Datenschutzbeauftragten des Bundeskriminalamtes
 
 Unbeschadet des § 5 Absatz 1 des Bundesdatenschutzgesetzes benennt das Bundeskriminalamt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat schriftlich eine oder einen Beauftragten für den Datenschutz (Datenschutzbeauftragte oder Datenschutzbeauftragter des Bundeskriminalamtes). Die Abberufung kann nur in entsprechender Anwendung des § 626 des Bürgerlichen Gesetzbuchs erfolgen. Über die Abberufung ist ferner das Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat herzustellen.
 
-
-## § 71 – Aufgaben der oder des Datenschutzbeauftragten des Bundeskriminalamtes
+# § 71 – Aufgaben der oder des Datenschutzbeauftragten des Bundeskriminalamtes
 
 (1) Unbeschadet seiner in § 7 des Bundesdatenschutzgesetzes genannten Aufgaben arbeitet die oder der Datenschutzbeauftragte des Bundeskriminalamtes mit den Datenschutzbeauftragten der Landeskriminalämter, der Bundespolizei und des Zollkriminalamts zusammen. Diese Zusammenarbeit umfasst insbesondere den Informations- und Erfahrungsaustausch über Fragen zur Datenverarbeitung grundsätzlicher Art.
 
 (2) Die Tätigkeit der oder des Datenschutzbeauftragten des Bundeskriminalamtes erstreckt sich auch auf personenbezogene Daten, die einem Berufs- oder besonderen Amtsgeheimnis, insbesondere dem Steuergeheimnis nach § 30 der Abgabenordnung, unterliegen.
 
-
-## § 72 – Stellung der oder des Datenschutzbeauftragten des Bundeskriminalamtes und Zusammenarbeit mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+# § 72 – Stellung der oder des Datenschutzbeauftragten des Bundeskriminalamtes und Zusammenarbeit mit der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 
 (1) Die oder der Datenschutzbeauftragte des Bundeskriminalamtes ist der Leitung des Bundeskriminalamtes unmittelbar zu unterstellen.
 
 (2) Zur Erfüllung ihrer oder seiner Aufgabe kann sich die oder der Datenschutzbeauftragte des Bundeskriminalamtes in Zweifelsfällen an die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit wenden, nachdem sie oder er das Benehmen mit der Leitung des Bundeskriminalamtes hergestellt hat; bei Unstimmigkeiten zwischen der oder dem Datenschutzbeauftragten des Bundeskriminalamtes und der Leitung des Bundeskriminalamtes entscheidet das Bundesministerium des Innern, für Bau und Heimat.
 
-
-## § 73 – Datenschutzrechtliche Verantwortung der Verbindungsbeamtinnen und Verbindungsbeamten des Bundeskriminalamtes
+# § 73 – Datenschutzrechtliche Verantwortung der Verbindungsbeamtinnen und Verbindungsbeamten des Bundeskriminalamtes
 
 Die datenschutzrechtliche Verantwortung für die Tätigkeit der an deutsche Auslandsvertretungen abgeordneten Verbindungsbeamtinnen und Verbindungsbeamten des Bundeskriminalamtes verbleibt beim Bundeskriminalamt.
 
-
-## § 74 – Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen
+# § 74 – Benachrichtigung bei verdeckten und eingriffsintensiven Maßnahmen
 
 (1) Über eine Maßnahme nach den §§ 34, 45 bis 53 und 64 sind zu benachrichtigen im Falle
 
@@ -1932,13 +1851,11 @@ Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige Belange 
 
 (3) Erfolgt die nach Absatz 2 zurückgestellte Benachrichtigung nicht binnen zwölf Monaten nach Beendigung der Maßnahme, bedarf die weitere Zurückstellung der gerichtlichen Zustimmung. Im Falle der §§ 46 und 49 beträgt die Frist sechs Monate. Das Gericht bestimmt die Dauer der weiteren Zurückstellung, im Falle der §§ 46 und 49 jedoch nicht länger als sechs Monate. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf Jahre nach Beendigung der Maßnahme kann mit gerichtlicher Zustimmung endgültig von der Benachrichtigung abgesehen werden, wenn die Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender Wahrscheinlichkeit auch in Zukunft nicht eintreten werden, eine weitere Verwendung der Daten gegen den Betroffenen ausgeschlossen ist und die Daten gelöscht wurden. Sind mehrere Maßnahmen in einem engen zeitlichen Zusammenhang durchgeführt worden, beginnt die in Satz 1 genannte Frist mit der Beendigung der letzten Maßnahme.
 
-
-## § 75 – Benachrichtigung über die Speicherung personenbezogener Daten von Kindern
+# § 75 – Benachrichtigung über die Speicherung personenbezogener Daten von Kindern
 
 Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigten erhoben worden sind, gespeichert, sind die Sorgeberechtigten zu benachrichtigen, sobald die Aufgabenerfüllung hierdurch nicht mehr gefährdet wird. Von der Benachrichtigung kann abgesehen werden, solange zu besorgen ist, dass die Benachrichtigung zu erheblichen Nachteilen für das Kind führt. Im Rahmen des polizeilichen Informationsverbundes obliegt diese Verpflichtung der dateneingebenden Stelle.
 
-
-## § 76 – Nachträgliche Benachrichtigung über Ausschreibungen zur polizeilichen Beobachtung im Schengener Informationssystem
+# § 76 – Nachträgliche Benachrichtigung über Ausschreibungen zur polizeilichen Beobachtung im Schengener Informationssystem
 
 (1) Ist eine Ausschreibung zur polizeilichen Beobachtung nach Artikel 36 Absatz 1 des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom 7.8.2007, S. 63) durch eine Stelle der Bundesrepublik Deutschland in das Schengener Informationssystem eingegeben worden, hat das Bundeskriminalamt im Einvernehmen mit der Stelle, die die Ausschreibung veranlasst hat, die betroffene Person nach Beendigung der Ausschreibung über diese Ausschreibung zu benachrichtigen, soweit die Benachrichtigung nicht aufgrund anderer besonderer gesetzlicher Bestimmungen vorgesehen ist.
 
@@ -1948,8 +1865,7 @@ Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigt
 
 (4) Im Falle einer Ausschreibung nach § 17 Absatz 3 des Bundesverfassungsschutzgesetzes erfolgt die Benachrichtigung abweichend von Absatz 1 durch die Stelle, die die Ausschreibung veranlasst hat, nach Beendigung der Ausschreibung, sobald eine Gefährdung des Zwecks der Ausschreibung ausgeschlossen werden kann.
 
-
-## § 77 – Aussonderungsprüffrist; Mitteilung von Löschungsverpflichtungen
+# § 77 – Aussonderungsprüffrist; Mitteilung von Löschungsverpflichtungen
 
 (1) Das Bundeskriminalamt prüft nach § 75 des Bundesdatenschutzgesetzes bei der Einzelfallbearbeitung und nach festgesetzten Fristen, ob gespeicherte personenbezogene Daten zu berichtigen oder zu löschen sind. Die Aussonderungsprüffristen nach § 75 Absatz 4 des Bundesdatenschutzgesetzes dürfen bei im Informationssystem des Bundeskriminalamtes verarbeiteten personenbezogenen Daten bei Erwachsenen zehn Jahre, bei Jugendlichen fünf Jahre und bei Kindern zwei Jahre nicht überschreiten, wobei nach Zweck der Speicherung sowie Art und Schwere des Sachverhalts zu unterscheiden ist. Die Beachtung der Aussonderungsprüffristen ist durch geeignete technische Maßnahmen zu gewährleisten.
 
@@ -1965,8 +1881,7 @@ Werden personenbezogene Daten von Kindern, die ohne Kenntnis der Sorgeberechtigt
 
 (+++ § 77 Abs. 4 u. 5: Zur Anwendung vgl. § 78 Abs. 5 +++)
 
-
-## § 78 – Berichtigung personenbezogener Daten sowie die Einschränkung der Verarbeitung in Akten sowie Vernichtung von Akten
+# § 78 – Berichtigung personenbezogener Daten sowie die Einschränkung der Verarbeitung in Akten sowie Vernichtung von Akten
 
 (1) Stellt das Bundeskriminalamt die Unrichtigkeit personenbezogener Daten in Akten fest, ist die in § 75 Absatz 1 des Bundesdatenschutzgesetzes genannte Berichtigungspflicht dadurch zu erfüllen, dass dies in der Akte vermerkt oder auf sonstige Weise festgehalten wird. Bestreitet die betroffene Person die Richtigkeit sie betreffender personenbezogener Daten und lässt sich weder die Richtigkeit noch die Unrichtigkeit feststellen, sind die Daten entsprechend zu kennzeichnen, um eine Verarbeitungseinschränkung nach § 58 Absatz 1 Satz 2 des Bundesdatenschutzgesetzes zu ermöglichen.
 
@@ -1990,8 +1905,7 @@ In diesen Fällen ist die Verarbeitung der Daten einzuschränken und sind die Un
 
 (5) § 75 Absatz 4 des Bundesdatenschutzgesetzes sowie § 77 Absatz 4 und 5 gelten entsprechend.
 
-
-## § 79 – Löschung von durch Maßnahmen zur Abwehr von Gefahren des internationalen Terrorismus oder vergleichbaren Maßnahmen erlangten personenbezogenen Daten
+# § 79 – Löschung von durch Maßnahmen zur Abwehr von Gefahren des internationalen Terrorismus oder vergleichbaren Maßnahmen erlangten personenbezogenen Daten
 
 (1) Sind die durch eine in Abschnitt 5 genannte Maßnahme oder durch Maßnahmen nach § 34 oder § 64 erlangten personenbezogenen Daten, die nicht dem Kernbereich privater Lebensgestaltung zuzuordnen sind, zur Erfüllung des der Maßnahme zugrunde liegenden Zwecks und für eine etwaige gerichtliche Überprüfung der Maßnahme nicht mehr erforderlich, sind sie unverzüglich zu löschen, soweit keine Weiterverarbeitung der Daten nach den Vorschriften des Abschnitts 2 Unterabschnitt 2 erfolgt. Die Tatsache der Löschung ist zu dokumentieren. Die Dokumentation darf ausschließlich für Zwecke der Datenschutzkontrolle verwendet werden. Sie ist sechs Monate nach der Benachrichtigung nach § 74 oder sechs Monate nach Erteilung der gerichtlichen Zustimmung über das endgültige Absehen von der Benachrichtigung zu löschen. Ist die Datenschutzkontrolle nach § 69 Absatz 1 noch nicht beendet, ist die Dokumentation bis zu ihrem Abschluss aufzubewahren.
 
@@ -2001,8 +1915,7 @@ In diesen Fällen ist die Verarbeitung der Daten einzuschränken und sind die Un
 
 2. durch Maßnahmen erlangt wurden, die den Maßnahmen nach § 34, Abschnitt 5 oder § 64 entsprechen.
 
-
-## § 80 – Verzeichnis von Verarbeitungstätigkeiten
+# § 80 – Verzeichnis von Verarbeitungstätigkeiten
 
 (1) Das Bundeskriminalamt nimmt in das Verzeichnis nach § 70 des Bundesdatenschutzgesetzes Angaben auf zu
 
@@ -2024,8 +1937,7 @@ In diesen Fällen ist die Verarbeitung der Daten einzuschränken und sind die Un
 
 (6) Das Bundeskriminalamt stellt das Verzeichnis und dessen Aktualisierungen der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zur Verfügung.
 
-
-## § 81 – Protokollierung
+# § 81 – Protokollierung
 
 (1) Die Protokollierung nach § 76 des Bundesdatenschutzgesetzes erfolgt zu Verarbeitungsvorgängen im Informationssystem ergänzend zu den dort genannten Anforderungen in einer Weise, dass die Protokolle
 
@@ -2040,8 +1952,7 @@ In diesen Fällen ist die Verarbeitung der Daten einzuschränken und sind die Un
 (+++ § 81 Abs. 2: Zur Anwendung vgl. § 17 Abs. 3 +++)  
 (+++ § 81 Abs. 2: Zur Anwendung vgl. § 25 Abs. 7 +++)
 
-
-## § 82 – Protokollierung bei verdeckten und eingriffsintensiven Maßnahmen
+# § 82 – Protokollierung bei verdeckten und eingriffsintensiven Maßnahmen
 
 (1) Bei der Erhebung von Daten nach den §§ 34, 45 bis 53 und 64 sind zu protokollieren:
 
@@ -2105,13 +2016,11 @@ b) im Falle, dass Überwachung mit einem Eingriff in von der betroffenen Person 
 
 (4) Die Protokolldaten dürfen nur verwendet werden für Zwecke der Benachrichtigung nach § 74 und um der betroffenen Person oder einer dazu befugten öffentlichen Stelle die Prüfung zu ermöglichen, ob die Maßnahmen rechtmäßig durchgeführt worden sind. Sie sind bis zum Abschluss der Kontrolle nach § 69 Absatz 1 aufzubewahren und sodann automatisiert zu löschen, es sei denn, dass sie für den in Satz 1 genannten Zweck noch erforderlich sind.
 
-
-## § 83 – Benachrichtigung der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bei Verletzungen des Schutzes personenbezogener Daten
+# § 83 – Benachrichtigung der oder des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit bei Verletzungen des Schutzes personenbezogener Daten
 
 Bei einer Verletzung des Schutzes personenbezogener Daten sind die teilnehmenden Behörden im Rahmen des polizeilichen Informationsverbunds entsprechend § 65 Absatz 6 des Bundesdatenschutzgesetzes zu benachrichtigen, wenn von ihnen eingegebene Daten betroffen sind.
 
-
-## § 84 – Rechte der betroffenen Person
+# § 84 – Rechte der betroffenen Person
 
 (1) Über die in den §§ 57 und 58 des Bundesdatenschutzgesetzes enthaltenen Rechte der betroffenen Person hinaus gilt für die Verarbeitung im polizeilichen Informationsverbund die Besonderheit, dass bei Daten, die im polizeilichen Informationsverbund verarbeitet werden, das Bundeskriminalamt die Auskunft nach § 57 des Bundesdatenschutzgesetzes im Einvernehmen mit der Stelle, die die datenschutzrechtliche Verantwortung nach § 31 Absatz 2 trägt, erteilt. Erteilt ein Landeskriminalamt Auskunft aus seinem Landessystem, kann es hiermit einen Hinweis auf einen vom Land in den polizeilichen Informationsverbund eingegebenen Datensatz verbinden. Bei der Berichtigung, Löschung und Verarbeitungseinschränkung personenbezogener Daten findet Satz 1 entsprechende Anwendung bei Daten, die im polizeilichen Informationsverbund verarbeitet werden.
 
@@ -2119,13 +2028,11 @@ Bei einer Verletzung des Schutzes personenbezogener Daten sind die teilnehmenden
 
 (+++ § 84 Abs. 1 Satz 1 u. 2: Zur Anwendung vgl. § 17 Abs. 3 +++)
 
-
-## § 85 – Ausübung der Betroffenenrechte im polizeilichen Informationsverbund sowie bei projektbezogenen gemeinsamen Dateien
+# § 85 – Ausübung der Betroffenenrechte im polizeilichen Informationsverbund sowie bei projektbezogenen gemeinsamen Dateien
 
 Sind die Daten der betroffenen Person beim Bundeskriminalamt automatisiert in der Weise gespeichert, dass mehrere Stellen speicherungsberechtigt sind, und ist die betroffene Person nicht in der Lage festzustellen, welche Stelle die Daten gespeichert hat, so kann sie sich zur Geltendmachung ihrer Rechte an jede dieser Stellen wenden. Diese ist verpflichtet, das Vorbringen der betroffenen Person an die Stelle, die die Daten gespeichert hat, weiterzuleiten. Die betroffene Person ist über die Weiterleitung und jene Stelle zu unterrichten. Das Bundeskriminalamt kann statt der betroffenen Person die oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit unterrichten. Das weitere Verfahren richtet sich nach § 57 Absatz 7 Satz 3 und 6 des Bundesdatenschutzgesetzes.
 
-
-## § 86 – Schadensersatz im polizeilichen Informationsverbund
+# § 86 – Schadensersatz im polizeilichen Informationsverbund
 
 (1) Bei der Datenverarbeitung im polizeilichen Informationsverbund gilt das Bundeskriminalamt gegenüber einer betroffenen Person als allein Verantwortlicher im Sinne von § 83 Absatz 1 des Bundesdatenschutzgesetzes. § 83 Absatz 3 des Bundesdatenschutzgesetzes ist nicht anzuwenden.
 
@@ -2133,8 +2040,7 @@ Sind die Daten der betroffenen Person beim Bundeskriminalamt automatisiert in de
 
 (+++ § 86: Zur Anwendung vgl. § 17 Abs. 3 +++)
 
-
-## § 87 – Strafvorschriften
+# § 87 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -2144,18 +2050,15 @@ Sind die Daten der betroffenen Person beim Bundeskriminalamt automatisiert in de
 
 (2) Die Tat wird nur auf Antrag des Bundeskriminalamtes verfolgt.
 
-
-## § 88 – Berichtspflicht gegenüber dem Deutschen Bundestag
+# § 88 – Berichtspflicht gegenüber dem Deutschen Bundestag
 
 Das Bundeskriminalamt berichtet dem Bundesministerium des Innern, für Bau und Heimat alle zwei Jahre, erstmals bis zum 1. Oktober 2019, über die Ausübung seiner in Abschnitt 5 und in den §§ 34 und 64 genannten Befugnisse sowie über Übermittlungen nach § 27. In dieser Unterrichtung wird insbesondere dargestellt, in welchem Umfang von welchen Befugnissen aus Anlass welcher Art von Verdachtslagen Gebrauch gemacht wurde und inwieweit die betroffenen Personen hierüber benachrichtigt wurden. Das Bundesministerium des Innern, für Bau und Heimat leitet diese Unterrichtung der Bundesregierung und dem Deutschen Bundestag innerhalb von zwei Monaten zu. Der Deutsche Bundestag macht die Unterrichtung öffentlich zugänglich.
 
-
-## § 89 – Einschränkung von Grundrechten
+# § 89 – Einschränkung von Grundrechten
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Absatz 2 Satz 2 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes), der Freizügigkeit (Artikel 11 Absatz 1 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 90 – Gerichtliche Zuständigkeit, Verfahren
+# § 90 – Gerichtliche Zuständigkeit, Verfahren
 
 (1) Für Maßnahmen nach den §§ 10, 33, 34, Abschnitt 5 und § 64 sowie für gerichtliche Entscheidungen nach § 74 gelten, soweit nichts anderes bestimmt ist, die nachstehenden Regelungen.
 
@@ -2163,8 +2066,7 @@ Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Absatz 2 Satz 1 des 
 
 (3) Bei Entscheidungen über die Verwertbarkeit oder Löschung von Erkenntnissen, die bei Maßnahmen nach den §§ 34, 45, 46, 49, 51 und 64 erhoben worden sind, kann das Gericht sachkundige Bedienstete des Bundeskriminalamtes zur Berücksichtigung von ermittlungsspezifischem Fachverstand anhören. Bei der Sichtung der erhobenen Daten kann sich das Gericht der technischen Unterstützung des Bundeskriminalamtes bedienen. Die Bediensteten des Bundeskriminalamtes sind zur Verschwiegenheit über ihnen bekannt werdende Erkenntnisse, deren Löschung das Gericht anordnet, verpflichtet.
 
-
-## § 91 – Übergangsvorschrift
+# § 91 – Übergangsvorschrift
 
 Abweichend von § 14 Absatz 2 ist eine Weiterverarbeitung oder Übermittlung personenbezogener Daten auch zulässig nach den Bestimmungen der für die Daten am 24. Mai 2018 jeweils geltenden Errichtungsanordnung nach § 34 des Bundeskriminalamtgesetzes in der bis zum 24. Mai 2018 geltenden Fassung.
 

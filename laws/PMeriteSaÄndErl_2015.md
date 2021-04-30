@@ -1,10 +1,7 @@
-# [PMeriteSaÄndErl 2015] Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste
-
-Ausfertigungsdatum: 20.04.2015
-
+% Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste
+% Ausfertigungsdatum: 20.04.2015
  
-
-## ----
+# ----
 
 Das Ordenskapitel des Ordens Pour le mérite für Wissenschaften und Künste hat am 1. Juni 2014 Änderungen der Satzung des Ordens beschlossen.
 
@@ -12,7 +9,6 @@ Nach Artikel 6 Absatz 1 des Erlasses über die Genehmigung der Stiftung und Verl
 
 Die Neufassung der Satzung wird vom Bundesministerium des Innern im Bundesanzeiger veröffentlicht.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundespräsident

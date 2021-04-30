@@ -1,20 +1,15 @@
-# [SeelotAusbNOKIV] Verordnung über die lotsenspezifische Grundausbildung zum Seelotsenanwärter im Seelotsrevier Nord-Ostsee-Kanal I  (NOK I Seelotsen-Grundausbildungs-Verordnung)
-
-Ausfertigungsdatum: 26.01.2009
-
+% Verordnung über die lotsenspezifische Grundausbildung zum Seelotsenanwärter im Seelotsrevier Nord-Ostsee-Kanal I  (NOK I Seelotsen-Grundausbildungs-Verordnung)
+% Ausfertigungsdatum: 26.01.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 3 des Seelotsgesetzes in der Fassung der Bekanntmachung vom 13. September 1984 (BGBl. I S. 1213), der durch Artikel 1 Nr. 2 des Gesetzes vom 28. Juli 2008 (BGBl. I S. 1507) neu gefasst worden ist, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für das Seelotsrevier Nord-Ostsee-Kanal I.
 
-
-## § 2 – Grundausbildung
+# § 2 – Grundausbildung
 
 (1) Für Bewerber zum Seelotsenanwärter nach § 9 Abs. 1 und 2 des Seelotsgesetzes, die die Voraussetzung der zweijährigen Seefahrtzeit nach § 9 Abs. 2 Nr. 2 des Seelotsgesetzes nicht erfüllen, kann diese durch eine praxisorientierte Grundausbildung in der Lotsenbrüderschaft Nord-Ostsee-Kanal I ersetzt werden, wenn eine Genehmigung der Aufsichtsbehörde vorliegt.
 
@@ -28,8 +23,7 @@ Diese Verordnung gilt für das Seelotsrevier Nord-Ostsee-Kanal I.
 
 (4) Zuständige Aufsichtsbehörde ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
-
-## § 3 – Ausbildungsrahmenplan
+# § 3 – Ausbildungsrahmenplan
 
 (1) Die Bundeslotsenkammer erstellt für die Grundausbildung einen Ausbildungsrahmenplan, der der Genehmigung durch das Bundesministerium für Verkehr und digitale Infrastruktur bedarf.
 
@@ -45,8 +39,7 @@ Diese Verordnung gilt für das Seelotsrevier Nord-Ostsee-Kanal I.
 
 (3) Der Ausbildungsrahmenplan ist im Bedarfsfall, insbesondere bei technischen oder wissenschaftlichen Entwicklungen auf dem Gebiet der Schifffahrtskunde, zu aktualisieren und dem Bundesministerium für Verkehr und digitale Infrastruktur zur erneuten Genehmigung vorzulegen. Die Genehmigung kann widerrufen werden, wenn die erforderlichen Anpassungen nicht vorgenommen werden.
 
-
-## § 4 – Zulassung der Bewerber
+# § 4 – Zulassung der Bewerber
 
 (1) Die Zulassung der Bewerber zu der Grundausbildung erfolgt durch die Aufsichtsbehörde im Benehmen mit der Lotsenbrüderschaft nach Maßgabe des § 8 Abs. 2 des Seelotsgesetzes.
 
@@ -62,8 +55,7 @@ Die Lotsenbrüderschaft legt der Aufsichtsbehörde die Bewerbungen vor und hat d
 
 (3) Die Bewerber um Zulassung zur Grundausbildung müssen das Vorliegen der Voraussetzungen nach § 9 Abs. 1 und 2 Nr. 1, 3 und 4 des Seelotsgesetzes nachweisen. Dabei darf zum Zeitpunkt der Bekanntgabe der Ausschreibung der Erwerb des Befähigungszeugnisses nach § 9 Abs. 2 Nr. 1 des Seelotsgesetzes nicht länger als drei Jahre zurückliegen.
 
-
-## § 5 – Durchführung der Grundausbildung
+# § 5 – Durchführung der Grundausbildung
 
 (1) Die Durchführung der Grundausbildung erfolgt durch die Lotsenbrüderschaft, die einen Ausbildungsplan erstellt. Dieser entspricht den Anforderungen des Ausbildungsrahmenplans und bedarf der Genehmigung durch die Bundeslotsenkammer.
 
@@ -81,8 +73,7 @@ Die Lotsenbrüderschaft legt der Aufsichtsbehörde die Bewerbungen vor und hat d
 
 (4) Die Teilnehmer der Grundausbildung erhalten von der Aufsichtsbehörde mit Beginn der Ausbildung einen Ausweis im Sinne des § 16 Abs. 1 der Seelotsenausbildungs- und Ausweisordnung mit dem Zusatz „Grundausbildung“.
 
-
-## § 6 – Prüfung
+# § 6 – Prüfung
 
 (1) Die Grundausbildung schließt mit einer praktischen Prüfung durch die Lotsenbrüderschaft ab.
 
@@ -96,8 +87,7 @@ Die Lotsenbrüderschaft legt der Aufsichtsbehörde die Bewerbungen vor und hat d
 
 (3) Die Lotsenbrüderschaft legt vor Abschluss der Grundausbildung den Prüfungstermin fest und lädt die Mitglieder des Prüfungsausschusses und die zur Prüfung zugelassenen Teilnehmer der Grundausbildung ein.
 
-
-## § 7 – Prüfungsverfahren
+# § 7 – Prüfungsverfahren
 
 (1) Die Prüfung wird von einem Prüfungsausschuss abgenommen, der aus dem Ältermann, dem Ausbilder und zwei ausbildenden Fahrlotsen besteht. Ein oder mehrere Vertreter der Aufsichtsbehörde können als Beobachter an der Prüfung teilnehmen. Die Lotsenbrüderschaft bestellt die Mitglieder des Prüfungsausschusses.
 
@@ -111,24 +101,20 @@ Die Lotsenbrüderschaft legt der Aufsichtsbehörde die Bewerbungen vor und hat d
 
 (6) Tritt der Teilnehmer zum Prüfungstermin nicht an, muss er gegenüber dem Prüfungsausschuss innerhalb von fünf Tagen den Nachweis führen, dass er an der Teilnahme durch Krankheit oder einen anderen wichtigen Grund, den er nicht zu vertreten hat, gehindert war. Anderenfalls stellt der Prüfungsausschuss das endgültige Nichtbestehen der Prüfung fest.
 
-
-## § 8 – Befugnisse der Aufsichtsbehörden
+# § 8 – Befugnisse der Aufsichtsbehörden
 
 (1) Die Aufsichtsbehörde kann jederzeit Auskunft über den Stand der Ausbildung verlangen, am Ausbildungsverfahren und an den Prüfungen teilnehmen.
 
 (2) Weicht die Ausbildung vom Ausbildungsrahmenplan ab oder ist das Prüfungsverfahren fehlerhaft, kann die Aufsichtsbehörde die ordnungsgemäße Durchführung oder Wiederholung einzelner Ausbildungsabschnitte oder der Prüfung verlangen; § 7 Abs. 5 ist insoweit nicht anzuwenden.
 
-
-## § 9 – Zulassung zum Seelotsenanwärter
+# § 9 – Zulassung zum Seelotsenanwärter
 
 (1) Nach erfolgreicher Teilnahme an der Abschlussprüfung lässt die Aufsichtsbehörde den Teilnehmer zum nächstmöglichen Zeitpunkt bei der Lotsenbrüderschaft als Seelotsenanwärter zu, sofern im Zeitpunkt der Zulassung keine Anhaltspunkte dafür vorliegen, dass er die Voraussetzungen nach § 9 Abs. 1 und 2 Nr. 1, 3 und 4 des Seelotsgesetzes nicht mehr erfüllt.
 
 (2) Einem nach dieser Verordnung zugelassenen Seelotsenanwärter kann die Grundausbildung bei dieser Lotsenbrüderschaft nicht als Seefahrtzeit angerechnet werden, um die Voraussetzungen nach § 9 Abs. 2 Nr. 2 des Seelotsgesetzes für die Bewerbung bei einer anderen Lotsenbrüderschaft zu erfüllen.
 
+# § 10 – Kosten der Grundausbildung
 
-## § 10 – Kosten der Grundausbildung
-
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [KaseinV] Verordnung über Kaseine und Kaseinate für die menschliche Ernährung  (Kasein-Verordnung - KaseinV)
-
-Ausfertigungsdatum: 16.12.2016
-
+% Verordnung über Kaseine und Kaseinate für die menschliche Ernährung  (Kasein-Verordnung - KaseinV)
+% Ausfertigungsdatum: 16.12.2016
  
-
-## § 1 – Anwendungsbereich und Begriffsbestimmungen
+# § 1 – Anwendungsbereich und Begriffsbestimmungen
 
 (1) Diese Verordnung gilt für Kaseine und Kaseinate, die für die menschliche Ernährung bestimmt sind, und für Mischungen daraus.
 
@@ -16,15 +13,13 @@ Ausfertigungsdatum: 16.12.2016
 
 3. „Nährkaseinat“: ein Milcherzeugnis, das durch die Behandlung von Nährkasein oder von Koagulat von Nährkasein mit neutralisierenden Stoffen und anschließender Trocknung gewonnen wird.
 
-
-## § 2 – Anforderungen
+# § 2 – Anforderungen
 
 (1) Säure-Nährkasein, Labnährkasein und Nährkaseinat dürfen unter diesen Bezeichnungen nur in Verkehr gebracht werden, wenn sie den Vorschriften dieser Verordnung und den Anforderungen gemäß Anhang I und Anhang II der Richtlinie (EU) 2015/2203 des Europäischen Parlaments und des Rates vom 25. November 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Kaseine und Kaseinate für die menschliche Ernährung und zur Aufhebung der Richtlinie 83/417/EWG des Rates (ABl. L 314 vom 1.12.2015, S. 1) entsprechen.
 
 (2) Kaseine und Kaseinate dürfen nur dann für die Herstellung von Lebensmitteln verwendet werden, wenn sie den Anforderungen gemäß Anhang I Abschnitt I Buchstabe b und c, Abschnitt II Buchstabe b und c und Anhang II Buchstabe b und c der Richtlinie (EU) 2015/2203 entsprechen.
 
-
-## § 3 – Kennzeichnung
+# § 3 – Kennzeichnung
 
 (1) Kaseine und Kaseinate dürfen nur in Verkehr gebracht werden, wenn auf den Verpackungen, Behältnissen oder Etiketten gut sichtbar, deutlich lesbar und unverwischbar Folgendes angegeben ist:
 
@@ -58,7 +53,6 @@ der Proteingehalt;
 
 (4) Wird der in Anhang I Nummer I Buchstabe a Nummer 2, Anhang I Nummer II Buchstabe a Nummer 2 und Anhang II Buchstabe a Nummer 2 der Richtlinie (EU) 2015/2203 jeweils festgelegte Mindestmilchproteingehalt bei Säure-Nährkaseinen, Labnährkaseinen oder Nährkaseinaten überschritten, so kann dies unbeschadet anderer Bestimmungen des Unionsrecht entsprechend auf den Verpackungen, Behältnissen oder Etiketten der Kaseine und Kaseinate angegeben werden.
 
-
-## § 4 – Straftaten
+# § 4 – Straftaten
 
 Nach § 58 Absatz 1 Nummer 18, Absatz 4 bis 6 des Lebensmittel- und Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 2 Absatz 2 Kasein oder Kaseinat verwendet.

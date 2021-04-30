@@ -1,15 +1,11 @@
-# [ElekMeistPrV 2004] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik
-
-Ausfertigungsdatum: 30.11.2004
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik
+% Ausfertigungsdatum: 30.11.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhören des Ständigen Ausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch berufliche Fortbildung zum Geprüften Industriemeister/zur Geprüften Industriemeisterin - Fachrichtung Elektrotechnik erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen.
 
@@ -29,8 +25,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik.
 
-
-## § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum Geprüften Industriemeister/ zur Geprüften Industriemeisterin - Fachrichtung Elektrotechnik umfasst:
 
@@ -50,8 +45,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Im Prüfungsteil nach Absatz 3 Nr. 1 ist schriftlich in Form von anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen, im Prüfungsteil nach Absatz 3 Nr. 2 ist schriftlich in Form von funktionsfeldbezogenen und die Handlungsbereiche integrierenden Situationsaufgaben und mündlich in Form eines situationsbezogenen Fachgesprächs gemäß § 5 zu prüfen.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen" ist zuzulassen, wer Folgendes nachweist:
 
@@ -71,8 +65,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (4) Abweichend von den in den Absätzen 1 und 2 Nr. 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, berufspraktische Qualifikationen erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Fachrichtungsübergreifende Basisqualifikationen
+# § 4 – Fachrichtungsübergreifende Basisqualifikationen
 
 (1) Im Prüfungsteil "Fachrichtungsübergreifende Basisqualifikationen" ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -156,8 +149,7 @@ Auf Grund des § 46 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil "Handlungsspezifische Qualifikationen" umfasst die Handlungsbereiche "Technik", "Organisation" sowie "Führung und Personal", die den betrieblichen Funktionsfeldern "Betriebserhaltung Produktion", "Betriebserhaltung Infrastruktur" und "Fertigung und Montage" zuzuordnen sind. Die Handlungsbereiche werden durch die in Absatz 2 Nr. 1 bis 3 genannten Qualifikationsschwerpunkte beschrieben. Es werden drei funktionsfeldbezogene und die Handlungsbereiche integrierende Situationsaufgaben nach den Absätzen 3 bis 5 unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen gestellt. Zwei der Situationsaufgaben sind schriftlich zu lösen, eine Situationsaufgabe ist Gegenstand des situationsbezogenen Fachgespräches nach Absatz 6. Die Situationsaufgaben sind so zu gestalten, dass alle Qualifikationsschwerpunkte der Handlungsbereiche mindestens einmal thematisiert werden. Die Prüfungsdauer der schriftlichen Situationsaufgaben beträgt jeweils mindestens vier Stunden, insgesamt jedoch nicht mehr als zehn Stunden.
 
@@ -313,15 +305,13 @@ d) kontinuierliches Umsetzen der Qualitätsmanagementziele durch Planen, Sichern
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Bestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 4 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen. Eine Befreiung von der Prüfung im situationsbezogenen Fachgespräch nach § 5 Absatz 6 ist nicht zulässig.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -339,8 +329,7 @@ Bei der Bewertung der Leistungen in den schriftlichen Situationsaufgaben und in 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -374,8 +363,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -389,8 +377,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -398,22 +385,19 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 Begonnene Prüfungsverfahren können bis zum Ablauf des 28. Februar 2007 nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die zuständige Stelle die Wiederholungsprüfung auch gemäß dieser Verordnung durchführen; § 8 Abs. 2 findet in diesem Fall keine Anwendung. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 28. Februar 2005 die Anwendung der bisherigen Vorschriften beantragt werden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/ Geprüfte Industriemeisterin – Fachrichtung Elektrotechnik vom 11. Oktober 1982 (BGBl. I S. 1401), zuletzt geändert durch Artikel 1 Nr. 5 und Artikel 2 der Verordnung vom 15. April 1999 (BGBl. I S. 711), außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2261 – 2262)
 
@@ -422,8 +406,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2263)
 

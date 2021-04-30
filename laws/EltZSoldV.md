@@ -1,10 +1,7 @@
-# [EltZSoldV] Verordnung über die Elternzeit für Soldatinnen und Soldaten  (Elternzeitverordnung für Soldatinnen und Soldaten - EltZSoldV)
-
-Ausfertigungsdatum: 04.12.1990
-
+% Verordnung über die Elternzeit für Soldatinnen und Soldaten  (Elternzeitverordnung für Soldatinnen und Soldaten - EltZSoldV)
+% Ausfertigungsdatum: 04.12.1990
  
-
-## § 1 – Beginn und Ende des Anspruchs
+# § 1 – Beginn und Ende des Anspruchs
 
 (1) Soldatinnen und Soldaten haben nach Maßgabe des § 15 Absatz 1 oder 1a des Bundeselterngeld- und Elternzeitgesetzes Anspruch auf Elternzeit unter Wegfall der Geld- und Sachbezüge mit Ausnahme der unentgeltlichen truppenärztlichen Versorgung und ohne Leistungen nach dem Unterhaltssicherungsgesetz.
 
@@ -18,8 +15,7 @@ Ausfertigungsdatum: 04.12.1990
 
 (6) Die von der Bundeswehr erteilte Elternzeit endet ferner mit der Beendigung des Wehrdienstverhältnisses.
 
-
-## § 2 – Antrag
+# § 2 – Antrag
 
 (1) Die Elternzeit soll, wenn sie unmittelbar nach der Geburt des Kindes oder nach Ablauf der Mutterschutzfrist (§ 5 Abs. 1 Satz 1 der Mutterschutzverordnung für Soldatinnen) beginnen soll, sechs Wochen, andernfalls acht Wochen vor Beginn schriftlich oder elektronisch beantragt werden. Dabei ist anzugeben, für welche Zeiträume innerhalb von zwei Jahren Elternzeit beantragt wird. Nimmt die Mutter die Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen auf den Zweijahreszeitraum nach Satz 2 angerechnet. Nimmt die Mutter die Elternzeit im Anschluss an einen auf die Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für Soldatinnen und die Zeit des Erholungsurlaubs auf den Zweijahreszeitraum nach Satz 2 angerechnet.
 
@@ -27,8 +23,7 @@ Ausfertigungsdatum: 04.12.1990
 
 (3) Die Soldatin oder der Soldat hat eine Änderung der Anspruchsberechtigung der oder dem nächsten Disziplinarvorgesetzten unverzüglich mitzuteilen.
 
-
-## § 3 – Verfahren
+# § 3 – Verfahren
 
 (1) Die Elternzeit erteilt das Bundesministerium der Verteidigung oder eine von ihm beauftragte Stelle.
 
@@ -36,37 +31,30 @@ Ausfertigungsdatum: 04.12.1990
 
 (3) Mit Zustimmung des Bundesministeriums der Verteidigung oder einer von ihm beauftragten Stelle kann auf bereits bewilligte Elternzeit verzichtet werden.
 
-
-## § 4 – Nicht volle Erwerbstätigkeit
+# § 4 – Nicht volle Erwerbstätigkeit
 
 Während der Elternzeit darf die Soldatin oder der Soldat mit Zustimmung des Bundesministeriums der Verteidigung oder der von ihm beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des Soldatenverhältnisses ausüben, wenn die Teilzeitbeschäftigung den Umfang von 30 Stunden in der Woche nicht überschreitet.
 
-
-## § 5 – (weggefallen)
-
-\-
-
-
-## § 6 – (weggefallen)
+# § 5 – (weggefallen)
 
 \-
 
+# § 6 – (weggefallen)
 
-## § 7
+\-
+
+# § 7
 
 Die Vorschriften dieser Verordnung sind nur in den Fällen anzuwenden, in denen das Kind nach Inkrafttreten dieser Verordnung geboren wird.
 
-
-## § 7a
+# § 7a
 
 Für die vor dem 1. Januar 2004 geborenen Kinder oder für die vor diesem Zeitpunkt mit dem Ziel der Adoption aufgenommenen Kinder sind die Vorschriften dieser Verordnung in der bis zum 31. Dezember 2003 geltenden Fassung weiter anzuwenden.
 
-
-## § 8
+# § 8
 
 (Aufhebung anderer Vorschriften)
 
-
-## § 9 – (Inkrafttreten)
+# § 9 – (Inkrafttreten)
 
 \-

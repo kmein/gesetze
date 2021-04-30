@@ -1,17 +1,11 @@
-# [BEHG] Gesetz über einen nationalen Zertifikatehandel für Brennstoffemissionen  (Brennstoffemissionshandelsgesetz - BEHG)
-
-Ausfertigungsdatum: 12.12.2019
-
+% Gesetz über einen nationalen Zertifikatehandel für Brennstoffemissionen  (Brennstoffemissionshandelsgesetz - BEHG)
+% Ausfertigungsdatum: 12.12.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -43,13 +37,13 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
  
 
+ 
 
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Zertifikaten für Emissionen aus Brennstoffen zu schaffen und für eine Bepreisung dieser Emissionen zu sorgen, soweit diese Emissionen nicht vom EU-Emissionshandel erfasst sind, um damit zur Erreichung der nationalen Klimaschutzziele, einschließlich des langfristigen Ziels der Treibhausgasneutralität bis 2050, und zur Erreichung der Minderungsziele nach der EU-Klimaschutzverordnung sowie zur Verbesserung der Energieeffizienz beizutragen. Zweck des nationalen Emissionshandelssystems ist die Bepreisung fossiler Treibhausgasemissionen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Emission von Treibhausgasen aus den in Anlage 1 genannten Brennstoffen, die gemäß Absatz 2 in Verkehr gebracht werden.
 
@@ -59,8 +53,7 @@ Zweck dieses Gesetzes ist es, die Grundlagen für den Handel mit Zertifikaten f�
 
 (+++ § 2 Abs. 3: Zur Geltung vgl. § 17 Abs. 2 +++)
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist oder sind:
 
@@ -104,8 +97,7 @@ die in § 3 Nummer 16 des Treibhausgas-Emissionshandelsgesetzes aufgeführten Tr
 
 das Energiesteuergesetz vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 3 des Gesetzes vom 22. Juni 2019 (BGBl. I S. 856, 908) geändert worden ist.
 
-
-## § 4 – Jährliche Emissionsmengen
+# § 4 – Jährliche Emissionsmengen
 
 (1) Für jedes Kalenderjahr innerhalb einer Handelsperiode wird eine Menge an Brennstoffemissionen in Deutschland festgelegt, welche hinsichtlich der Brennstoffemissionen die Einhaltung der Minderungsverpflichtung der Bundesrepublik Deutschland nach Artikel 4 Absatz 1 in Verbindung mit Anhang 1 der EU-Klimaschutzverordnung gewährleistet (jährliche Emissionsmenge). Die jährliche Emissionsmenge wird aus den jährlichen Emissionszuweisungen für die Bundesrepublik Deutschland nach Artikel 4 Absatz 3 der EU-Klimaschutzverordnung, multipliziert mit dem prozentualen Anteil der nicht vom EU-Emissionshandel erfassten Brennstoffemissionen an den nicht vom EU-Emissionshandel erfassten gesamten Treibhausgasemissionen in Deutschland im Durchschnitt des fünften bis dritten Jahres vor Beginn der jeweiligen Handelsperiode, gebildet.
 
@@ -117,8 +109,7 @@ das Energiesteuergesetz vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007)
 
 (5) Die zuständige Behörde bestimmt die jährliche Erhöhungsmenge nach den Vorgaben des Absatzes 3 sowie nach den Vorgaben der Rechtsverordnung nach Absatz 4 und macht diese im Bundesanzeiger bekannt.
 
-
-## § 5 – Flexibilisierungsinstrumente nach der EU-Klimaschutzverordnung
+# § 5 – Flexibilisierungsinstrumente nach der EU-Klimaschutzverordnung
 
 (1) Soweit während der Einführungsphase nach § 10 Absatz 2 Satz 1 und 2 und für die Dauer der Anwendung eines Preiskorridors die jährliche Emissionsmenge nach § 4 Absatz 1 und 3 für ein Kalenderjahr innerhalb der Handelsperiode überschritten wird und die Jahresmengen der EU-Klimaschutzverordnung nicht eingehalten werden, wird der darüber hinausgehende Bedarf an Emissionszertifikaten durch Nutzung von Flexibilisierungsmöglichkeiten nach der EU-Klimaschutzverordnung, einschließlich des Zukaufs einer entsprechenden Menge an Emissionszuweisungen aus anderen Mitgliedstaaten, gedeckt.
 
@@ -130,8 +121,7 @@ das Energiesteuergesetz vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007)
 
 3. der tatsächlichen Schnittmenge, die sich nach § 4 Absatz 3 ergibt.
 
-
-## § 6 – Überwachungsplan, vereinfachter Überwachungsplan
+# § 6 – Überwachungsplan, vereinfachter Überwachungsplan
 
 (1) Der Verantwortliche ist verpflichtet, bei der zuständigen Behörde für jede Handelsperiode einen Überwachungsplan für die Ermittlung von Brennstoffemissionen und die Berichterstattung nach § 7 Absatz 1 einzureichen. Soweit der Verantwortliche die Brennstoffemissionen ausschließlich unter Anwendung von Standardemissionsfaktoren für die in Verkehr gebrachten Brennstoffe ermittelt, ist es ausreichend, wenn der Verantwortliche einen vereinfachten Überwachungsplan einreicht. Der Überwachungsplan und der vereinfachte Überwachungsplan bedürfen einer Genehmigung der zuständigen Behörde.
 
@@ -155,8 +145,7 @@ Für den angepassten Überwachungsplan nach Satz 1 gelten die Absätze 1 bis 3 e
 
 2. Einzelheiten zur Methodik der Berichterstattung über Brennstoffemissionen der Verantwortlichen.
 
-
-## § 7 – Ermittlung und Bericht über Brennstoffemissionen
+# § 7 – Ermittlung und Bericht über Brennstoffemissionen
 
 (1) Der Verantwortliche hat die Brennstoffemissionen für die in einem Kalenderjahr in Verkehr gebrachten Brennstoffe auf Grundlage des Überwachungsplans zu ermitteln und der zuständigen Behörde bis zum 31. Juli des Folgejahres über die Brennstoffemissionen zu berichten.
 
@@ -178,13 +167,11 @@ Für den angepassten Überwachungsplan nach Satz 1 gelten die Absätze 1 bis 3 e
 
 (5) Doppelbelastungen infolge des Einsatzes von Brennstoffen in einer dem EU-Emissionshandel unterliegenden Anlage sind möglichst vorab zu vermeiden. Die Bundesregierung wird bis zum 31. Dezember 2020 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Anforderungen und Verfahren festlegen, wie der Verantwortliche insbesondere im Falle einer Direktlieferung von Brennstoffen an ein Unternehmen und deren Einsatzes in einer dem EU-Emissionshandel unterliegenden Anlage eine entsprechende Menge an Brennstoffemissionen von den nach Absatz 1 zu berichtenden Brennstoffemissionen abziehen kann, soweit durch den Emissionsbericht nach § 5 des Treibhausgas-Emissionshandelsgesetzes der Einsatz dieser Brennstoffe nachgewiesen ist.
 
-
-## § 8 – Abgabe von Emissionszertifikaten
+# § 8 – Abgabe von Emissionszertifikaten
 
 Der Verantwortliche hat jährlich bis zum 30. September an die zuständige Behörde eine Anzahl von Emissionszertifikaten abzugeben, die der nach § 7 berichteten Gesamtmenge an Brennstoffemissionen im vorangegangenen Kalenderjahr entspricht.
 
-
-## § 9 – Emissionszertifikate
+# § 9 – Emissionszertifikate
 
 (1) Auf den Emissionszertifikaten ist die Zuordnung zu einer Handelsperiode sowie zu einem Kalenderjahr innerhalb dieser Handelsperiode erkennbar. Die Emissionszertifikate für Brennstoffemissionen sind ab dem ersten Jahr der jeweiligen Handelsperiode gültig. Abweichend von den Sätzen 1 und 2 sind Emissionszertifikate, die während der Einführungsphase nach § 10 Absatz 2 Satz 2 veräußert werden, nur für das auf dem Emissionszertifikat erkennbare Kalenderjahr für die Abdeckung der Brennstoffemissionen dieses Kalenderjahres oder des Vorjahres gültig. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für die Dauer der Anwendung des Preiskorridors nach § 10 Absatz 2 Satz 4 die Gültigkeit der Emissionszertifikate abweichend von Satz 2 zu beschränken. Der Inhaber von Emissionszertifikaten kann jederzeit auf sie verzichten und ihre Löschung verlangen.
 
@@ -192,8 +179,7 @@ Der Verantwortliche hat jährlich bis zum 30. September an die zuständige Behö
 
 (3) Soweit für jemanden ein Emissionszertifikat auf seinem Konto im nationalen Emissionshandelsregister eingetragen ist, gilt der Inhalt des Emissionshandelsregisters als richtig. Dies gilt nicht, wenn die Unrichtigkeit dem Empfänger von Emissionszertifikaten bei der Übertragung im Zeitpunkt der Eintragung auf dem Konto bekannt ist.
 
-
-## § 10 – Veräußerung von Emissionszertifikaten
+# § 10 – Veräußerung von Emissionszertifikaten
 
 (1) Die nach § 4 Absatz 1 und 3 festgelegte Menge an Emissionszertifikaten sowie der zusätzliche Bedarf, der sich in der Einführungsphase nach Absatz 2 ergeben kann, werden durch die zuständige Behörde veräußert. Die Emissionszertifikate werden zum Festpreis verkauft und ab 2026 versteigert. Im Falle der Versteigerung wird die in einem Kalenderjahr zur Verfügung stehende Versteigerungsmenge in regelmäßigen Abständen in gleichen Teilmengen angeboten. Die zuständige Behörde stellt sicher, dass die Versteigerungstermine nach Absatz 3 spätestens zwei Monate im Voraus bekannt gemacht werden.
 
@@ -221,8 +207,7 @@ Im Falle des Verkaufs zum Festpreis kann in der Rechtsverordnung die Beauftragun
 
 (4) Die Erlöse aus der Veräußerung stehen dem Bund zu. Die Kosten, die dem Bund durch die Wahrnehmung der ihm im Rahmen dieses Gesetzes zugewiesenen Aufgaben, einschließlich der gemäß § 11 entstehenden Ausgaben, entstehen und nicht durch Gebühren nach § 16 gedeckt sind, werden aus den Erlösen nach Satz 1 gedeckt, mit Ausnahme der Kosten nach § 5.
 
-
-## § 11 – Ausgleich indirekter Belastungen
+# § 11 – Ausgleich indirekter Belastungen
 
 (1) Entsteht durch die Einführung des Brennstoffemissionshandels nach diesem Gesetz eine unzumutbare Härte für ein betroffenes Unternehmen und ein mit diesem verbundenes Unternehmen, das mit seinem Kapital aus handels- oder gesellschaftsrechtlichem Rechtsgrund für die Risiken des Geschäftsbetriebes des betroffenen Unternehmens einstehen muss, gewährt die zuständige Behörde auf Antrag eine finanzielle Kompensation in der zur Vermeidung der unzumutbaren Härte erforderlichen Höhe. Dies gilt nicht für Verantwortliche im Sinne des § 3 Nummer 3. Von einer unzumutbaren Härte ist in der Regel nicht auszugehen, sofern die Brennstoffkosten eines Unternehmens, auch unter Berücksichtigung der durch die Einführung des Brennstoffemissionshandels verursachten direkten und indirekten zusätzlichen Kosten, nicht mehr als 20 Prozent der betriebswirtschaftlichen Gesamtkosten ausmachen oder wenn der Anteil der Zusatzkosten durch die Einführung des Brennstoffemissionshandels an der Bruttowertschöpfung nicht mehr als 20 Prozent beträgt. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -236,8 +221,7 @@ Im Falle des Verkaufs zum Festpreis kann in der Rechtsverordnung die Beauftragun
 
 (+++ § 11 Abs. 1 und 2: Tritt am ersten Tag des Monats in Kraft, der auf den Tag folgt, an dem die Europäische Kommission die zu § 11 Absatz 1 und 2 erforderliche beihilferechtliche Genehmigung erteilt hat, frühestens jedoch am Tag nach der Verkündung dieses Gesetzes gem. § 24 Abs. 2 Satz 1 +++)
 
-
-## § 12 – Nationales Emissionshandelsregister
+# § 12 – Nationales Emissionshandelsregister
 
 (1) Die zuständige Behörde führt ein nationales Emissionshandelsregister in der Form einer elektronischen Datenbank. Das Emissionshandelsregister enthält Konten für Emissionszertifikate und weist Verfügungsbeschränkungen aus. Es enthält ein Verzeichnis der berichteten und geprüften Brennstoffemissionen der Verantwortlichen. Bei der Einrichtung und beim Betrieb des Emissionshandelsregisters sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen.
 
@@ -249,15 +233,13 @@ Im Falle des Verkaufs zum Festpreis kann in der Rechtsverordnung die Beauftragun
 
 (5) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Einzelheiten zur Einrichtung, zum Betrieb und zur Führung des Emissionshandelsregisters zu regeln.
 
-
-## § 13 – Zuständigkeiten
+# § 13 – Zuständigkeiten
 
 (1) Zuständige Behörde ist das Umweltbundesamt.
 
 (2) Ist für Streitigkeiten nach diesem Gesetz der Verwaltungsrechtsweg gegeben, ist für Klagen, die sich gegen eine Handlung oder Unterlassung des Umweltbundesamtes richten, das Verwaltungsgericht örtlich zuständig, in dessen Bezirk die Deutsche Emissionshandelsstelle im Umweltbundesamt ihren Sitz hat.
 
-
-## § 14 – Überwachung, Datenübermittlung
+# § 14 – Überwachung, Datenübermittlung
 
 (1) Die zuständige Behörde hat die Durchführung dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen zu überwachen.
 
@@ -275,8 +257,7 @@ Im Rahmen der Pflichten nach Satz 1 haben die Verantwortlichen Arbeitskräfte so
 
 (4) Im Rahmen der Überprüfung der von Verantwortlichen nach § 7 übermittelten Daten durch die zuständige Behörde übermittelt die Generalzolldirektion auf Ersuchen der zuständigen Behörde die im Rahmen des Besteuerungsverfahrens nach dem Energiesteuergesetz gemachten Angaben der Verantwortlichen, soweit diese Daten und Angaben für die Prüfung der Emissionsberichterstattung dieser Verantwortlichen von Bedeutung sind. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Einzelheiten zur Datenübermittlung zu regeln, insbesondere das Nähere über den Umfang und die Form der erforderlichen Daten, die Festlegungen zur Auskunftsfrequenz und zur Bearbeitungsfrist, die Anforderung an das Verfahren zur Datenübermittlung einschließlich der Art und Weise der Übermittlung der Daten. Im Falle eines automatisierten Abrufverfahrens oder eines automatisierten Anfrage- und Auskunftsverfahrens haben die beteiligten Stellen zu gewährleisten, dass dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit und Integrität der Daten gewährleisten; im Falle der Nutzung allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik entsprechende Verschlüsselungsverfahren anzuwenden.
 
-
-## § 15 – Prüfstellen
+# § 15 – Prüfstellen
 
 (1) Zur Prüfung von Emissionsberichten nach § 7 Absatz 1 sind berechtigt:
 
@@ -290,39 +271,33 @@ Die Prüfstelle nimmt die ihr zugewiesenen Aufgaben nur im öffentlichen Interes
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, weiteren sachverständigen Stellen oder Berufsgruppen die Berechtigung zur Prüfung von Emissionsberichten nach Absatz 1 zu erteilen. In der Rechtsverordnung kann diese Berechtigung von einer vorherigen Bekanntgabe durch die zuständige Behörde abhängig gemacht werden; in diesem Falle regelt die Verordnung auch Voraussetzungen und das Verfahren der Zulassungsprüfung sowie die Voraussetzungen und das Verfahren der Bekanntgabe von Prüfstellen.
 
-
-## § 16 – Gebühren für individuell zurechenbare öffentliche Leistungen
+# § 16 – Gebühren für individuell zurechenbare öffentliche Leistungen
 
 (1) Für die Eröffnung eines Personen- oder Händlerkontos im nationalen Emissionshandelsregister erhebt die zuständige Behörde von dem Kontoinhaber eine Gebühr von 170 Euro, für die Verwaltung eines Personen- oder Händlerkontos eine Gebühr von 600 Euro pro Handelsperiode sowie für die Umfirmierung eines Kontos oder für die Änderung eines Kontobevollmächtigten eine Gebühr von jeweils 60 Euro.
 
 (2) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz vollständig oder teilweise zurückgewiesen, beträgt die Gebühr entsprechend dem entstandenen Verwaltungsaufwand 50 bis 4 000 Euro. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird der Widerspruch nach Beginn der sachlichen Bearbeitung jedoch vor deren Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25 Prozent.
 
-
-## § 17 – Elektronische Kommunikation
+# § 17 – Elektronische Kommunikation
 
 (1) Die zuständige Behörde kann für Überwachungspläne, Berichte und Anträge, für die Bekanntgabe von Entscheidungen und für die sonstige Kommunikation die Verwendung der Schriftform oder der elektronischen Form vorschreiben. Wird die elektronische Form vorgeschrieben, kann die zuständige Behörde eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente vorschreiben. Die zuständige Behörde kann auch vorschreiben, dass Verantwortliche oder Prüfstellen zur Erstellung von Überwachungsplänen oder Berichten oder zur Stellung von Anträgen nur die auf ihrer Internetseite zur Verfügung gestellten elektronischen Formularvorlagen zu benutzen und die ausgefüllten Formularvorlagen in elektronischer Form sowie unter Verwendung einer qualifizierten Signatur zu übermitteln haben. Wenn die Benutzung elektronischer Formatvorlagen vorgeschrieben ist, ist die Übermittlung zusätzlicher Dokumente als Ergänzung der Formatvorlagen unter Beachtung der Formvorschriften des Satzes 3 möglich. Anordnungen nach den Sätzen 1 bis 3 werden im Bundesanzeiger bekannt gemacht.
 
 (2) Für Verfahren für Maßnahmen im Sinne von § 2 Absatz 3 gilt Absatz 1 entsprechend.
 
-
-## § 18 – Änderung der Identität oder Rechtsform des Verantwortlichen
+# § 18 – Änderung der Identität oder Rechtsform des Verantwortlichen
 
 (1) Ändert sich die Identität oder die Rechtsform eines Verantwortlichen, so hat der neue Verantwortliche dies unverzüglich nach der Änderung der zuständigen Behörde anzuzeigen. Der neue Verantwortliche übernimmt die noch nicht erfüllten Pflichten des ursprünglichen Verantwortlichen nach den §§ 6 bis 8.
 
 (2) Wird über das Vermögen eines Verantwortlichen das Insolvenzverfahren eröffnet, hat der Insolvenzverwalter die zuständige Behörde unverzüglich darüber zu unterrichten. Alle Verpflichtungen des Verantwortlichen aus diesem Gesetz bestehen während des Insolvenzverfahrens fort. Der Insolvenzverwalter teilt der zuständigen Behörde die natürlichen Personen mit, die während des Insolvenzverfahrens berechtigt sind, Übertragungen nach § 9 Absatz 2 vorzunehmen. Die Sätze 1 bis 3 gelten entsprechend für den vorläufigen Insolvenzverwalter mit Verfügungsbefugnis über das Vermögen des Verantwortlichen sowie für den Verantwortlichen als eigenverwaltenden Schuldner.
 
-
-## § 19 – Ausschluss der aufschiebenden Wirkung
+# § 19 – Ausschluss der aufschiebenden Wirkung
 
 Widerspruch und Anfechtungsklage gegen Entscheidungen nach § 6 Absatz 2 Satz 3, § 20 Satz 1 oder § 21 Absatz 2 Satz 1 haben keine aufschiebende Wirkung.
 
-
-## § 20 – Durchsetzung der Berichtspflicht
+# § 20 – Durchsetzung der Berichtspflicht
 
 Kommt ein Verantwortlicher nach Ende der Einführungsphase nach § 10 Absatz 2 Satz 1 und 2 seiner Berichtspflicht nach § 7 Absatz 1 nicht nach, so verfügt die zuständige Behörde die Sperrung seines Kontos im nationalen Emissionshandelsregister. Die Sperrung ist aufzuheben, sobald der Verantwortliche der zuständigen Behörde einen Emissionsbericht vorlegt und die zuständige Behörde diesen Bericht als den Anforderungen nach § 7 genügend anerkennt oder eine Schätzung der Emissionen nach § 21 Absatz 2 Satz 1 erfolgt.
 
-
-## § 21 – Durchsetzung der Abgabepflicht
+# § 21 – Durchsetzung der Abgabepflicht
 
 (1) Kommt ein Verantwortlicher seiner Abgabepflicht nach § 8 nicht nach, so setzt die zuständige Behörde für jede Tonne Kohlendioxidäquivalent, für die der Verantwortliche kein Emissionszertifikat abgegeben hat, eine Zahlungspflicht fest. Die Höhe der Zahlungspflicht entspricht
 
@@ -336,8 +311,7 @@ Von einem Leistungsbescheid nach Satz 1 kann abgesehen werden, wenn der Verantwo
 
 (3) Der Verantwortliche bleibt ungeachtet geleisteter Zahlungen nach Absatz 1 verpflichtet, die fehlenden Emissionszertifikate bis zum 30. September des Jahres abzugeben, das dem Verstoß gegen die Abgabe- oder Berichtspflicht folgt; sind die Brennstoffemissionen nach Absatz 2 geschätzt worden, so sind die Emissionszertifikate nach Maßgabe der erfolgten Schätzung abzugeben.
 
-
-## § 22 – Bußgeldvorschriften
+# § 22 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 7 Absatz 1 einen Bericht nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet.
 
@@ -355,15 +329,13 @@ Von einem Leistungsbescheid nach Satz 1 kann abgesehen werden, wenn der Verantwo
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer Geldbuße bis zu fünfhunderttausend Euro und in den Fällen der Absätze 2 und 3 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
-
-## § 23 – Erfahrungsbericht
+# § 23 – Erfahrungsbericht
 
 (1) Die Bundesregierung evaluiert dieses Gesetz und legt dem Bundestag bis zum 30. November 2022 sowie bis zum 30. November 2024 und dann alle vier Jahre einen Erfahrungsbericht vor. In dem Bericht berichtet sie insbesondere über den Stand der Implementierung und die Wirksamkeit des nationalen Emissionshandelssystems, über Auswirkungen der Festpreise und Preiskorridore nach § 10 Absatz 2 und macht auf dieser Basis erforderlichenfalls Vorschläge für gesetzliche Änderungen zur Anpassung und Fortentwicklung des Emissionshandelssystems. Dabei berücksichtigt sie die jährlichen Klimaschutzberichte nach § 10 des Bundes-Klimaschutzgesetzes. Die Möglichkeit zur gesetzlichen Anpassung der Festpreise und Preiskorridore bleibt unberührt. Sofern die Bundesregierung auf Grundlage des bis zum 30. November 2024 vorzulegenden Berichts eine Fortführung des Preiskorridors bei der Versteigerung für sinnvoll und erforderlich erachtet, macht sie im Jahr 2025 einen Vorschlag für die rechtliche Umsetzung.
 
 (2) Das Umweltbundesamt unterstützt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bei der Erstellung des Erfahrungsberichts. Die betroffenen Bundesministerien werden durch das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit frühzeitig beteiligt und unterstützen das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bei der Erarbeitung des Erfahrungsberichts.
 
-
-## § 24 – Inkrafttreten
+# § 24 – Inkrafttreten
 
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft.
 
@@ -375,8 +347,7 @@ Von einem Leistungsbescheid nach Satz 1 kann abgesehen werden, wenn der Verantwo
 
 Der Tag des Inkrafttretens ist vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## Anlage 1 – (zu § 2 Absatz 1)Brennstoffe
+# Anlage 1 – (zu § 2 Absatz 1)Brennstoffe
 
 (Fundstelle: BGBl. I 2019, 2736)
 
@@ -410,8 +381,7 @@ Als Brennstoffe im Sinne dieses Gesetzes gelten mit Ausnahme von Torf und Waren 
 
 Satz 2 gilt nicht für Waren, die sich in einem Steueraussetzungsverfahren nach den Vorschriften des Alkoholsteuergesetzes befinden.
 
-
-## Anlage 2 – (zu § 7 Absatz 2)Brennstoffe für die Emissionsberichterstattung in den Jahren 2021 und 2022
+# Anlage 2 – (zu § 7 Absatz 2)Brennstoffe für die Emissionsberichterstattung in den Jahren 2021 und 2022
 
 (Fundstelle: BGBl. I 2019, 2737)
 

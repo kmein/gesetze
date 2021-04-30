@@ -1,15 +1,11 @@
-# [FinDPrV] Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft
-
-Ausfertigungsdatum: 09.02.2012
-
+% Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft
+% Ausfertigungsdatum: 09.02.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Fortbildungsabschlüsse
+# § 1 – Fortbildungsabschlüsse
 
 Diese Verordnung regelt die Prüfungen zu den anerkannten Fortbildungsabschlüssen
 
@@ -17,8 +13,7 @@ Diese Verordnung regelt die Prüfungen zu den anerkannten Fortbildungsabschlüss
 
 2. Geprüfter Fachwirt für Finanzberatung und Geprüfte Fachwirtin für Finanzberatung.
 
-
-## § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Fachberater für Finanzdienstleistungen und zur Geprüften Fachberaterin für Finanzdienstleistungen nach den §§ 3 bis 7 sowie 16 und 17 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -38,8 +33,7 @@ Diese Verordnung regelt die Prüfungen zu den anerkannten Fortbildungsabschlüss
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachberater für Finanzdienstleistungen“ oder „Geprüfte Fachberaterin für Finanzdienstleistungen“.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -55,8 +49,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Gliederung und Durchführung der Prüfung
+# § 4 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -78,8 +71,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 5 – Inhalt der Prüfung
+# § 5 – Inhalt der Prüfung
 
 (1) Im Handlungsbereich „Organisation und Steuerung der eigenen Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden, unter Beachtung der rechtlichen, volkswirtschaftlichen und betriebswirtschaftlichen Rahmenbedingungen die Gesamtsituation der Kundengruppen in ihren wirtschaftlichen Auswirkungen erfassen und bedarfsgerechte Ziele formulieren sowie die eigenen Vertriebsaktivitäten zielgruppengerecht steuern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -125,15 +117,13 @@ nachweist.
 
 4. Kunden bei der Umsetzung von Maßnahmen der Risikoabsicherung begleiten und die Kundensituation regelmäßig und anlassbezogen überprüfen.
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 3 und § 8 Absatz 4 Satz 1 entsprechend. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -143,8 +133,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen schriftlichen Prüfungsleistungen und in der mündlichen Teilprüfung mindestens 50 Punkte erreicht worden sind.
 
@@ -156,8 +145,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -171,8 +159,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 10 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Fachwirt für Finanzberatung und zur Geprüften Fachwirtin für Finanzberatung nach den §§ 9 bis 17 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -208,8 +195,7 @@ e) Kunden bei der Umsetzung seiner Entscheidungen begleiten sowie regelmäßiges
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zulassungsvoraussetzungen
+# § 11 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -227,8 +213,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Gliederung und Durchführung der Prüfung
+# § 12 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -270,8 +255,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inhalte im Prüfungsteil A (Privatkunden)
+# § 13 – Inhalte im Prüfungsteil A (Privatkunden)
 
 (1) Im Handlungsbereich „Organisation und Steuerung der eigenen Vertriebsaktivitäten“ sollen die Kompetenzen nachgewiesen werden, unter Beachtung der rechtlichen, volkswirtschaftlichen und betriebswirtschaftlichen Rahmenbedingungen die Gesamtsituation der Kundengruppen in ihren wirtschaftlichen Auswirkungen erfassen und bedarfsgerechte Ziele formulieren sowie die eigenen Vertriebsaktivitäten zielgruppengerecht steuern zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -319,8 +303,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Inhalte im Prüfungsteil B (Geschäftskunden)
+# § 14 – Inhalte im Prüfungsteil B (Geschäftskunden)
 
 (1) Im Handlungsbereich „Unternehmens- und Personalführung“ sollen die Kompetenzen nachgewiesen werden, Unternehmensstrategien auszugestalten und unternehmerische Handlungsschritte abzuleiten. Weiterhin soll nachgewiesen werden, Mitarbeiter und Mitarbeiterinnen sowie Auszubildende zielorientiert zu führen und zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -376,15 +359,13 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 15 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 16 und 17 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 16 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder § 17 Absatz 4 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Bewerten der Prüfungsleistungen
+# § 16 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -394,8 +375,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Bestehen der Prüfung, Gesamtnote
+# § 17 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in allen schriftlichen und mündlichen Teilprüfungen mindestens 50 Punkte erreicht worden sind.
 
@@ -407,8 +387,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Zeugnisse
+# § 18 – Zeugnisse
 
 (1) Wer die Prüfung nach § 17 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 3 Teil A und B.
 
@@ -422,15 +401,13 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 19 – Ausbildereignung
+# § 19 – Ausbildereignung
 
 Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 20 – Wiederholung der Prüfung
+# § 20 – Wiederholung der Prüfung
 
 (1) Jede nicht bestandene Prüfung und jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -438,8 +415,7 @@ Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil der Prüfu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 21 – Übergangsvorschriften
+# § 21 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Fachberater für Finanzdienstleistungen (IHK) und zur Fachberaterin für Finanzdienstleistungen (IHK) können bis zum 31. Dezember 2014, die zum Fachwirt für Finanzberatung (IHK) und zur Fachwirtin für Finanzberatung (IHK) können bis zum 31. Dezember 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung zum Fachberater für Finanzdienstleistungen (IHK) und zur Fachberaterin für Finanzdienstleistungen (IHK) bis zum Ablauf des 30. Juni 2013 und zur Prüfung zum Fachwirt für Finanzberatung (IHK) und zur Fachwirtin für Finanzberatung (IHK) bis zum Ablauf des 30. Juni 2014 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -447,15 +423,13 @@ Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil der Prüfu
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 22 – Inkrafttreten
+# § 22 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7, 8, 16 und 17)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7, 8, 16 und 17)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2357 – 2358)
 
@@ -464,8 +438,7 @@ Diese Verordnung tritt am 1. August 2012 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2358)
 
@@ -504,8 +477,7 @@ Alle Angaben des Teils A sowie zusätzlich:
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 3 – (zu § 18)Zeugnisinhalte
+# Anlage 3 – (zu § 18)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2359)
 

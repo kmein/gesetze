@@ -1,10 +1,7 @@
-# [SteinkohleFinG] Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018  (Steinkohlefinanzierungsgesetz)
-
-Ausfertigungsdatum: 20.12.2007
-
+% Gesetz zur Finanzierung der Beendigung des subventionierten Steinkohlenbergbaus zum Jahr 2018  (Steinkohlefinanzierungsgesetz)
+% Ausfertigungsdatum: 20.12.2007
  
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 (1) Die subventionierte Förderung der Steinkohle in Deutschland wird zum Ende des Jahres 2018 beendet.
 
@@ -20,8 +17,7 @@ d) des sozialverträglichen Anpassungsprozesses für ältere Arbeitnehmer des de
 
 (3) Ansprüche auf Zuschusszahlungen werden durch dieses Gesetz nicht begründet.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes ist
 
@@ -29,8 +25,7 @@ Im Sinne dieses Gesetzes ist
 
 2. Drittlandskohle die außerhalb des Bereichs der Europäischen Union gewonnene Steinkohle.
 
-
-## § 3 – Finanzplafonds
+# § 3 – Finanzplafonds
 
 (1) Zur Finanzierung des Absatzes deutscher Steinkohle für den Einsatz in Kraftwerken und zur Stahlerzeugung im Hochofenprozess im Geltungsbereich dieses Gesetzes bis zum Jahr 2018 sowie von Aufwendungen der Bergbauunternehmen infolge dauerhafter Stilllegungen werden den Bergbauunternehmen aus Mitteln des Bundeshaushalts für die Jahre 2009 bis 2019 folgende Finanzplafonds zur Verfügung gestellt:  
 2009 insgesamt bis zu 1 699 000 000 Euro,  
@@ -53,8 +48,7 @@ Im Sinne dieses Gesetzes ist
 
 (5) Näheres bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien.
 
-
-## § 4 – Verpflichtungen der Bergbauunternehmen nach Beendigung des subventionierten Steinkohlenbergbaus
+# § 4 – Verpflichtungen der Bergbauunternehmen nach Beendigung des subventionierten Steinkohlenbergbaus
 
 (1) Für die ab dem Zeitpunkt der Beendigung des subventionierten Steinkohlenbergbaus weiter bestehenden Verpflichtungen, die nicht von der RAG-Stiftung getragen werden, werden den Bergbauunternehmen aus Mitteln des Bundeshaushalts bis zu 1 658 400 000 Euro zur Verfügung gestellt. Diese Mittel können frühestens für das Jahr gewährt werden, das auf die Beendigung des subventionierten Steinkohlenbergbaus folgt.
 
@@ -62,15 +56,13 @@ Im Sinne dieses Gesetzes ist
 
 (3) Für die ab dem Zeitpunkt der Beendigung des subventionierten Steinkohlenbergbaus weiter bestehenden Verpflichtungen der Bergbauunternehmen, die von der RAG-Stiftung getragen werden, können aus Mitteln des Bundeshaushalts Beträge in Höhe von einem Drittel dieser Verpflichtungen geleistet werden, wenn das Vermögen der RAG-Stiftung zur Erfüllung der Verpflichtungen nicht ausreicht.
 
-
-## § 5 – Anpassungsgeld
+# § 5 – Anpassungsgeld
 
 (1) Zur sozialverträglichen Beendigung des subventionierten Steinkohlenbergbaus kann aus Mitteln des Bundeshaushalts Arbeitnehmerinnen und Arbeitnehmern im Steinkohlenbergbau, die unter Tage beschäftigt und mindestens 50 Jahre alt oder über Tage beschäftigt und mindestens 57 Jahre alt sind und aus Anlass einer Stilllegungs- oder Rationalisierungsmaßnahme bis zum 31. Dezember 2022 ihren Arbeitsplatz verlieren, vom Tag nach der Beendigung des Arbeitsverhältnisses für längstens fünf Jahre Anpassungsgeld als Überbrückungshilfe bis zur Anspruchsberechtigung auf Leistungen der knappschaftlichen Rentenversicherung gewährt werden. Näheres bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien. Die aus dem Bundeshaushalt für das Anpassungsgeld zur Verfügung gestellten Mittel dürfen zwei Drittel der Anpassungsgeldleistungen nicht überschreiten.
 
 (2) Das Bundesamt entscheidet über die Gewährung eines Zuschusses nach Absatz 1 im Rahmen der dafür zur Verfügung stehenden haushaltsmäßigen Ermächtigungen.
 
-
-## § 6 – Melde-, Aufbewahrungs- und Auskunftspflichten
+# § 6 – Melde-, Aufbewahrungs- und Auskunftspflichten
 
 (1) Die Bergbauunternehmer, die Betreiber von Kraftwerken und von Anlagen zur Stahlerzeugung im Hochofenprozess sowie die Lieferanten von für den Einsatz in Kraftwerken und zur Stahlerzeugung im Hochofenprozess bestimmter Steinkohle haben dem Bundesamt auf Verlangen die Auskunft zu erteilen und die Unterlagen vorzulegen, die erforderlich sind, um das Vorliegen der Zuschussvoraussetzungen zu prüfen und die Zuschüsse nach § 3 zu berechnen.
 
@@ -84,8 +76,7 @@ Im Sinne dieses Gesetzes ist
 
 (6) Weigert sich ein Unternehmen, eine Auskunft zu erteilen oder entsprechende Unterlagen vorzulegen, kann das Bundesamt die erforderliche Festsetzung im Wege der Schätzung treffen.
 
-
-## § 7 – Bußgeldvorschriften
+# § 7 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -101,7 +92,6 @@ Im Sinne dieses Gesetzes ist
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

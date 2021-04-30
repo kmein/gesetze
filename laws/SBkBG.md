@@ -1,10 +1,7 @@
-# [SBkBG] Gesetz über die Staatsbank Berlin
-
-Ausfertigungsdatum: 29.06.1990
-
+% Gesetz über die Staatsbank Berlin
+% Ausfertigungsdatum: 29.06.1990
  
-
-## § 1
+# § 1
 
 (1) Die Staatsbank Berlin (nachfolgend Bank genannt) ist Körperschaft des öffentlichen Rechts und juristische Person.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 29.06.1990
 
 (5) Die Bank ist Rechtsnachfolger der Staatsbank der Deutschen Demokratischen Republik. Die Bank tritt in die per 30.6.1990 bestehenden Verträge der Staatsbank der Deutschen Demokratischen Republik gegenüber Dritten ein.
 
-
-## § 1a
+# § 1a
 
 (1) Forderungen der Staatsbank der Deutschen Demokratischen Republik, die nach dem Beschluß des Ministerrates Nr. 17/15/90 vom 8. März 1990 in Verbindung mit dem notariellen Einbringungsvertrag vom 21. Juni 1990 zwischen der Staatsbank der deutschen Demokratischen Republik und der im Handelsregister des Amtsgerichts Charlottenburg unter HRB 34165 eingetragenen Deutschen Kreditbank Aktiengesellschaft auf die Deutsche Kreditbank Aktiengesellschaft übertragen werden sollten, sind mit Wirkung vom 1. April 1990 auf die Deutsche Kreditbank Aktiengesellschaft übergegangen.
 
@@ -29,8 +25,7 @@ Ausfertigungsdatum: 29.06.1990
 
 (5) Die vorstehenden Vorschriften sind nicht anzuwenden, soweit über den Übergang der Forderung vor dem 1. Januar 1998 ein rechtskräftiges Urteil ergangen oder eine wirksame Vereinbarung mit dem Schuldner geschlossen worden ist.
 
-
-## § 2
+# § 2
 
 (1) Der Bank obliegt insbesondere:
 
@@ -50,8 +45,7 @@ die Verwaltung und Abwicklung der bis zur Währungsumstellung eingegangenen Anla
 
 3. die Mitwirkung bei der Finanzierung von öffentlichen Förderungsmaßnahmen zur strukturpolitischen Entwicklung der Wirtschaft, der Verbesserung der Infrastruktur, des Umweltschutzes, des sozialen Wohnungsbaus und anderer Förderungsprogramme auf dem Gebiet der Deutschen Demokratischen Republik;
 
-4.  
-5.
+4. 5.
 
 6. die Durchführung von Aufgaben des Zahlungs- und Verrechnungsverkehrs von Geld- und Kreditinstituten, insbesondere des Sparkassensektors,
 
@@ -59,20 +53,17 @@ ungeachtet der Vertragsfreiheit der Geschäftspartner.
 
 (2) Zur Erfüllung der Aufgaben kann die Bank alle üblichen Bankgeschäfte durchführen, insbesondere Depositen unterhalten, sich auf Geld- und Kapitalmärkten refinanzieren und Wertpapiergeschäfte durchführen. Zur Beschaffung der erforderlichen Mittel für die Durchführung ihrer Aufgaben kann die Bank Schuldverschreibungen ausgeben und Darlehen aufnehmen. Die Bank kann sich an anderen Geld- und Kreditinstituten und wirtschaftlichen Unternehmen beteiligen. Sie ist zur Anlage von Mündelgeld geeignet.
 
-
-## § 3
+# § 3
 
 Die Geschäfte der Bank sind nach kaufmännischen Grundsätzen zu führen. Die Erzielung von Gewinn ist nicht Hauptzweck des Geschäftsbetriebes.
 
-
-## § 4
+# § 4
 
 (1) Organe der Bank sind der Vorstand und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe regelt, soweit das Gesetz nichts anderes bestimmt, die Satzung.
 
-
-## § 5
+# § 5
 
 (1) Der Vorstand führt die Geschäfte der Bank.
 
@@ -80,8 +71,7 @@ Die Geschäfte der Bank sind nach kaufmännischen Grundsätzen zu führen. Die E
 
 (3) Der Vorstand besteht aus dem Vorsitzenden, dem stellvertretenden Vorsitzenden und weiteren ordentlichen und stellvertretenden Mitgliedern. Die Vorstandsmitglieder werden vom Verwaltungsrat für höchstens 5 Jahre bestellt. Eine wiederholte Bestellung bzw. vorzeitige Abberufung ist zulässig.
 
-
-## § 6
+# § 6
 
 (1) Der Verwaltungsrat beschließt die Richtlinien für die Geschäftspolitik der Bank und überwacht ihre Geschäftsführung.
 
@@ -99,20 +89,17 @@ Die Geschäfte der Bank sind nach kaufmännischen Grundsätzen zu führen. Die E
 
 (4) Der Verwaltungsrat faßt, soweit nichts anderes bestimmt ist, seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, wobei jedes Mitglied 1 Stimme hat. Bei Stimmengleichheit entscheidet die Stimme des Vorsitzenden. Zur Beschlußfähigkeit ist die Anwesenheit von mindestens der Hälfte der Mitglieder erforderlich. Die Satzung kann eine Beschlußfassung im Wege der schriftlichen Abstimmung oder auf eine andere geeignete Art und Weise zulassen.
 
-
-## § 7
+# § 7
 
 \-
 
-
-## § 8
+# § 8
 
 (1) Die Satzung der Bank wird vom Vorstand aufgestellt, vom Verwaltungsrat beschlossen und bedarf der Bestätigung durch den Ministerrat.
 
 (2) Änderungen der Satzung können vom Verwaltungsrat mit einer Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens jedoch der Hälfte aller Mitglieder beschlossen werden. Sie bedürfen der Bestätigung durch den Ministerrat.
 
-
-## § 9
+# § 9
 
 (1) Das Geschäftsjahr ist das Kalenderjahr.
 
@@ -122,25 +109,21 @@ Die Geschäfte der Bank sind nach kaufmännischen Grundsätzen zu führen. Die E
 
 (4) Der Verwaltungsrat entscheidet über die Genehmigung des Jahresabschlusses innerhalb der ersten 6 Monate nach Abschluß eines Geschäftsjahres.
 
-
-## § 10
+# § 10
 
 (1) Über die Bildung von Rückstellungen entscheidet der Verwaltungsrat auf Vorschlag des Vorstandes.
 
 (2) Über die Bildung von Rücklagen aus dem Jahresüberschuß und die weitere Gewinnverwendung entscheidet der Minister der Finanzen auf Vorschlag des Verwaltungsrates.
 
-
-## § 11
+# § 11
 
 Die Vorschriften über die Eintragung in das Handelsregister gelten nicht für die Bank.
 
-
-## § 12
+# § 12
 
 Der Minister der Finanzen nimmt die Staatsaufsicht über die Bank bei der Durchführung der ihr mit diesem Gesetz übertragenen Aufgaben in Übereinstimmung mit den Regelungen des Staatsvertrages über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Deutschen Demokratischen Republik und der Bundesrepublik Deutschland wahr.
 
-
-## § 13
+# § 13
 
 (1) Der Minister der Finanzen kann zur Ausführung des Artikels 23 Abs. 7 des Einigungsvertrages durch Rechtsverordnung, die der Zustimmung des Bundesministers der Finanzen bedarf, das Vermögen der Bank als Ganzes ohne Abwicklung im Wege der Gesamtrechtsnachfolge auf ein öffentlich-rechtliches Kreditinstitut in der Bundesrepublik Deutschland oder einen anderen Rechtsträger (Rechtsträger) oder Teile des Vermögens der Bank, jeweils als Gesamtheit, ggf. ohne Abwicklung auf einen oder mehrere Rechtsträger übertragen. Bei Teilübertragungen sind in der Verordnung oder in einer ihren Bestandteil bildenden Anlage die jeweils auf jeden übernehmenden Rechtsträger übergehenden Gegenstände und Verbindlichkeiten zu bezeichnen. Werden nach der Verordnung Gegenstände oder Verbindlichkeiten von einer Übertragung nicht erfaßt, so ist dieser Teil des Vermögens abzuwickeln.
 
@@ -148,17 +131,14 @@ Der Minister der Finanzen nimmt die Staatsaufsicht über die Bank bei der Durchf
 
 (3) Die Übertragung wird am Ende des Tages nach der Verkündung der Verordnung im Gesetzblatt der Deutschen Demokratischen Republik wirksam. Das Vermögen der Bank geht einschließlich der Verbindlichkeiten, ggf. nach Maßgabe der in der Verordnung oder in ihrer Anlage festgelegten Aufteilung, auf den oder die in der Verordnung bezeichneten Rechtsträger über. § 613a des Bürgerlichen Gesetzbuches gilt nicht. Bei einer Übertragung des gesamten Vermögens erlischt die Bank. Auf Grund der Übertragung werden keine Steuern erhoben.
 
-
-## § 13a
+# § 13a
 
 Nach Herstellung der Einheit Deutschlands tritt § 13 außer Kraft; die Zuständigkeiten gemäß § 6 Abs. 2 Nr. 1, 2 und 3, §§ 8, 10 Abs. 2 und § 12 gehen auf den Bundesminister der Finanzen über.
 
-
-## § 14
+# § 14
 
 Dieses Gesetz tritt am 1. Juli 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Das vorstehende, von der Volkskammer der Deutschen Demokratischen Republik am neunundzwanzigsten Juni neunzehnhundertneunzig beschlossene Gesetz wird hiermit verkündet.

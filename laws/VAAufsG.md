@@ -1,15 +1,11 @@
-# [VAAufsG] Gesetz über die Beaufsichtigung der Versorgungsanstalt der deutschen Bühnen und der Versorgungsanstalt der deutschen Kulturorchester  (VAAufsG)
-
-Ausfertigungsdatum: 17.08.2017
-
+% Gesetz über die Beaufsichtigung der Versorgungsanstalt der deutschen Bühnen und der Versorgungsanstalt der deutschen Kulturorchester  (VAAufsG)
+% Ausfertigungsdatum: 17.08.2017
  
-
-## § 1
+# § 1
 
 Das Bundesministerium für Arbeit und Soziales führt die Rechts- und Versicherungsaufsicht über die Versorgungsanstalt der deutschen Bühnen und die Versorgungsanstalt der deutschen Kulturorchester. Die Aufsicht wird im Wege der Organleihe von den nach Landesrecht zuständigen Behörden des Freistaates Bayern ausgeübt.
 
-
-## § 2
+# § 2
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die Anstalten folgende Vorschriften des bayerischen Rechts entsprechend:
 
@@ -19,8 +15,7 @@ Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten für die Anstalten f
 
 An die Stelle des Verwaltungsausschusses tritt der Arbeitsausschuss, an die Stelle einer Veröffentlichung im Bayerischen Staatsanzeiger tritt die Veröffentlichung im Bundesanzeiger.
 
-
-## § 3
+# § 3
 
 (1) Die Artikel 1, 3 Absatz 1 Satz 1 und 2 und Absatz 6 und die Artikel 7, 20, 22 Absatz 1 sowie die Artikel 24, 25 und 27 des Bayerischen Gesetzes über das öffentliche Versorgungswesen sind nicht anzuwenden.
 
@@ -30,14 +25,12 @@ An die Stelle des Verwaltungsausschusses tritt der Arbeitsausschuss, an die Stel
 
 (4) § 8 der Bayerischen Verordnung zur Durchführung des Gesetzes über das öffentliche Versorgungswesen ist mit der Maßgabe anzuwenden, dass der Sicherheitsrücklage unter der Voraussetzung des zweiten Satzes ein sich ergebender Überschuss zuzuführen ist. Die Aufsichtsbehörde kann Ausnahmen zulassen.
 
-
-## § 4
+# § 4
 
 (1) Der Verwaltungsrat wird zu gleichen Teilen mit Vertretern der Arbeitgeber und der Versicherten einschließlich der Ruhegeldempfänger besetzt. Ihre Zahl bestimmt die Satzung. Im Verwaltungsrat sollen alle Gruppen von Arbeitgebern und Versicherten einschließlich der Ruhegeldempfänger angemessen vertreten sein. Die Mitglieder des Verwaltungsrats und ihre Stellvertreter werden vom Deutschen Bühnenverein und den die Versicherten vertretenden Gewerkschaften nach Maßgabe der Satzung benannt und vom Vorsitzenden des Vorstands der Bayerischen Versorgungskammer bestätigt.
 
 (2) Artikel 3 Absatz 2 des Bayerischen Gesetzes über das öffentliche Versorgungswesen ist mit der Maßgabe anzuwenden, dass der Vorsitz durch den Vorsitzenden des Vorstands der Bayerischen Versorgungskammer, der stellvertretende Vorsitz durch das für den Versicherungsbetrieb zuständige Vorstandsmitglied der Bayerischen Versorgungskammer wahrgenommen wird. Der siebte Teil des Verwaltungsverfahrensgesetzes ist entsprechend anwendbar. Artikel 4 Absatz 1 des Bayerischen Gesetzes über das öffentliche Versorgungswesen ist mit der Maßgabe anzuwenden, dass der Verwaltungsrat auch über Angelegenheiten nach dessen Nummern 9 und 10 beschließt.
 
-
-## § 5
+# § 5
 
 Die Rechnungslegung für vor dem 1. Januar 2021 endende Geschäftsjahre erfolgt nach der am 31. Dezember 2020 geltenden Fassung dieses Gesetzes.

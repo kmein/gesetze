@@ -1,15 +1,11 @@
-# [AKNV] Verordnung über die Bescheinigung über die Meldung als Asylsuchender  (Ankunftsnachweisverordnung - AKNV)
-
-Ausfertigungsdatum: 05.02.2016
-
+% Verordnung über die Bescheinigung über die Meldung als Asylsuchender  (Ankunftsnachweisverordnung - AKNV)
+% Ausfertigungsdatum: 05.02.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 88 Absatz 2 des Asylgesetzes, der zuletzt durch Artikel 1 Nummer 5 des Gesetzes vom 2. Februar 2016 (BGBl. I S. 130) geändert worden ist, verordnet das Bundesministerium des Innern:
 
-
-## § 1 – Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+# § 1 – Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
 Die Aufnahmeeinrichtung, auf die der Ausländer verteilt worden ist, und die dieser Aufnahmeeinrichtung zugeordnete Außenstelle des Bundesamtes für Migration und Flüchtlinge (ausstellende Behörden) haben das Folgende dem Stand der Technik entsprechend zu gewährleisten:
 
@@ -21,13 +17,11 @@ Die Aufnahmeeinrichtung, auf die der Ausländer verteilt worden ist, und die die
 
 Die Einhaltung des Stands der Technik wird vermutet, wenn nach den in Anlage 1 genannten Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik in der jeweils geltenden Fassung verfahren wurde, die im Bundesanzeiger bekannt gemacht worden ist.
 
-
-## § 2 – Dokumentationspflichten
+# § 2 – Dokumentationspflichten
 
 Die Liste der Seriennummern der Bescheinigungen (AKN-Nummern) und die Blanko-Ankunftsnachweise sind getrennt voneinander und sicher zu verwahren; die bereits vergebenen AKN-Nummern sind zu dokumentieren.
 
-
-## § 3 – Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten
+# § 3 – Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten
 
 (1) Bei der Ausstellung des Ankunftsnachweises ist ein aktuelles Lichtbild in der Größe von 45 Millimeter x 35 Millimeter im Hochformat und ohne Rand zu verwenden. Das Lichtbild muss den Vorgaben der Anlage 2 Abschnitt 2 zu entsprechen. Es ist durch die ausstellende Behörde zu fertigen, soweit im Ausländerzentralregister kein den Anforderungen dieser Verordnung entsprechendes aktuelles Lichtbild hinterlegt ist.
 
@@ -37,27 +31,23 @@ Die Liste der Seriennummern der Bescheinigungen (AKN-Nummern) und die Blanko-Ank
 
 (4) Das Bundesverwaltungsamt stellt die Ergebnisse der Auswertung und auf Verlangen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, für Bau und Heimat, dem Bundesamt für Sicherheit in der Informationstechnik, dem Bundesamt für Migration und Flüchtlinge und dem Bundeskriminalamt zur Verfügung.
 
-
-## § 4 – Ausstellung des Ankunftsnachweises
+# § 4 – Ausstellung des Ankunftsnachweises
 
 (1) Die ausstellende Behörde prüft, ob die für den Ankunftsnachweis nach Anlage 4 erforderlichen Daten vollständig und zutreffend erhoben wurden und überträgt diese unter Beachtung der formalen Anforderungen der Anlage 2 Abschnitt 1 auf den Ankunftsnachweis. Die ausstellenden Behörden haben technische und organisatorische Maßnahmen zu treffen, die gewährleisten, dass keine falschen oder anderweitig fehlerhaften Daten weiterverarbeitet werden.
 
 (2) Auf Seite 4 des Ankunftsnachweises ist anzugeben, ob die Angaben zur Person auf eigenen Angaben des Asylsuchenden beruhen.
 
-
-## § 5 – Muster für den Ankunftsnachweis
+# § 5 – Muster für den Ankunftsnachweis
 
 Der Ankunftsnachweis ist ausschließlich nach dem in Anlage 4 abgedruckten Muster auszustellen.
 
-
-## § 6 – Aushändigung des Ankunftsnachweises
+# § 6 – Aushändigung des Ankunftsnachweises
 
 (1) Der Ankunftsnachweis ist dem Asylsuchenden erst nach Unterschriftsleistung auszuhändigen, es sei denn, die Unterschriftsleistung ist im Einzelfall nicht erforderlich.
 
 (2) Bei der Übergabe ist der Asylsuchende in geeigneter Art und Weise über die Funktion und die Bedeutung des Ankunftsnachweises zu informieren. Insbesondere ist darauf hinzuweisen, dass der Ankunftsnachweis kein Reisedokument ist und der Asylsuchende mit diesem Dokument der Pass- und Ausweispflicht im Bundesgebiet nicht genügt und das Dokument nicht zum Grenzübertritt berechtigt.
 
-
-## § 7 – Änderung der Anschrift, Verlängerung
+# § 7 – Änderung der Anschrift, Verlängerung
 
 (1) Der Verlängerungsvermerk ist auf Seite 4 des Ankunftsnachweises einzutragen.
 
@@ -65,18 +55,15 @@ Der Ankunftsnachweis ist ausschließlich nach dem in Anlage 4 abgedruckten Muste
 
 (3) Die Vermerke zur Änderung der Anschrift und zur Verlängerung sind vom Mitarbeiter der zuständigen Behörde zu unterzeichnen und mit dem Behördensiegel zu versehen.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am 6. Februar 2016 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1)Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
+# Anlage 1 – (zu § 1)Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
 
 (Fundstelle: BGBl. I 2016, 164)
 
@@ -86,8 +73,7 @@ Der Bundesrat hat zugestimmt.
 
 3. BSI TR-03121 – Biometrics for Public Sector Applications
 
-
-## Anlage 2 – (zu § 3 Absatz 1 und § 4 Absatz 1)Formale Anforderungen an variable Einträge
+# Anlage 2 – (zu § 3 Absatz 1 und § 4 Absatz 1)Formale Anforderungen an variable Einträge
 
 (Fundstelle: BGBl. I 2016, 165 - 169)
 
@@ -161,8 +147,7 @@ Barcode DataMatrix (ISO/IEC 16022)
 
 Anlage 2 Abschn. 1 Tabelle Zeile 15 Spalte 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Austeller" durch "Aussteller" ersetzt
 
-
-## Anlage 3 – (zu § 3 Absatz 2)Übersicht über die zu zertifizierenden Systemkomponenten
+# Anlage 3 – (zu § 3 Absatz 2)Übersicht über die zu zertifizierenden Systemkomponenten
 
 (Fundstelle: BGBl. I 2016, 170)
 
@@ -174,15 +159,14 @@ Verpflichtung für die ausstellende Behörde</td></tr><tr class="odd"><td style=
 Verpflichtung für die ausstellende Behörde</td></tr><tr class="even"><td style="text-align: center;">4</td><td style="text-align: left;">Software zur Erfassung und Qualitätssicherung der Fingerabdruckdaten</td><td style="text-align: left;">Verpflichtung für die Anbieter dieser Geräte<br />
 Verpflichtung für die ausstellende Behörde</td></tr></tbody></table>
 
-
-## Anlage 4 – (zu § 5)Muster des Ankunftsnachweises
+# Anlage 4 – (zu § 5)Muster des Ankunftsnachweises
 
 (Fundstelle: BGBl. I 2016, 171)
 
 Innenseite
 
-![](../normengrafiken/bgbl1_2016/j0162-1_0130.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0162-1_0130.jpg)
 
 Außenseite
 
-![](../normengrafiken/bgbl1_2016/j0162-1_0140.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j0162-1_0140.jpg)

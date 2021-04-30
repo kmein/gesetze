@@ -1,10 +1,7 @@
-# [BVwAAufgÜAnO 1969] Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
-
-Ausfertigungsdatum: 21.02.1969
-
+% Anordnung über die Übertragung von Aufgaben auf das Bundesverwaltungsamt
+% Ausfertigungsdatum: 21.02.1969
  
-
-## I.
+# I.
 
 Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S. 829) übernimmt das Bundesverwaltungsamt als beauftragte Behörde vom Auswärtigen Amt die Bearbeitung folgender Verwaltungsaufgaben:
 
@@ -14,17 +11,14 @@ Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des Bundesverwaltung
 
 3. Beglaubigungen, sofern die Vorbeglaubigungen durch mittlere oder obere Landesbehörden oder durch Industrie- und Handelskammern vorgenommen worden sind.
 
-
-## II.
+# II.
 
 Das Bundesverwaltungsamt untersteht in den übertragenen Angelegenheiten gemäß § 8 des Gesetzes über die Errichtung des Bundesverwaltungsamtes den fachlichen Weisungen des Auswärtigen Amtes.
 
-
-## III.
+# III.
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des Innern und tritt am 1. Juni 1969 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister des Auswärtigen

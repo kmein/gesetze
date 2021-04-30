@@ -1,10 +1,7 @@
-# [LTV] Verordnung über die Tarifordnung für die Seelotsreviere  (Lotstarifverordnung - LTV)
-
-Ausfertigungsdatum: 26.01.2009
-
+% Verordnung über die Tarifordnung für die Seelotsreviere  (Lotstarifverordnung - LTV)
+% Ausfertigungsdatum: 26.01.2009
  
-
-## § 1
+# § 1
 
 (1) Für Wasserfahrzeuge, die ein Seelotsrevier befahren, sind Lotsabgaben nach der Anlage 1 zu entrichten. Satz 1 gilt nicht für
 
@@ -71,8 +68,7 @@ Die vorstehenden Ermäßigungen können nicht nebeneinander geltend gemacht werd
 
 (4) Die Lotsabgaben werden erhöht im Seelotsrevier Wismar/Rostock/Stralsund um 15 vom Hundert für Schiffe mit gasförmiger oder flüssiger Ladung einschließlich Tanker in Ballast sowie für Schiffe mit feuergefährlicher oder explosiver Gesamtladung, die einen Seelotsen annehmen.
 
-
-## § 2
+# § 2
 
 (1) Für die Leistungen der Seelotsen sind Lotsgelder (Beratungsgeld, Wartegeld und Auslagen) nach der Anlage 2 zu entrichten.
 
@@ -116,13 +112,11 @@ Die vorstehenden Ermäßigungen können nicht nebeneinander geltend gemacht werd
 
 (5) Das Beratungsgeld wird erhöht im Seelotsrevier Wismar/Rostock/Stralsund um 15 vom Hundert für Schiffe mit gasförmiger oder flüssiger Ladung einschließlich Tanker in Ballast sowie für Schiffe mit feuergefährlicher oder explosiver Gesamtladung.
 
-
-## § 3
+# § 3
 
 Zur Zahlung der Lotsabgaben und der Lotsgelder sind neben dem Eigentümer des Wasserfahrzeuges diejenigen Personen verpflichtet, die das Befahren des Reviers und die Inanspruchnahme der Leistungen der Seelotsen im eigenen oder fremden Namen veranlasst haben. Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
-
-## § 4
+# § 4
 
 (1) Die Zahlungspflicht entsteht bei den Lotsabgaben mit Befahren des Reviers, bei den Lotsgeldern mit der Anforderung des Seelotsen.
 
@@ -130,8 +124,7 @@ Zur Zahlung der Lotsabgaben und der Lotsgelder sind neben dem Eigentümer des Wa
 
 (3) Besteht ein Zahlungsrückstand kann das Befahren des Reviers und die Tätigkeit der Seelotsen von der Zahlung eines angemessenen Vorschusses oder von einer angemessenen Sicherheitsleistung abhängig gemacht werden.
 
-
-## § 5
+# § 5
 
 (1) Der Anspruch auf Zahlung der Lotsabgaben und der Lotsgelder verjährt nach drei Jahren. Die Verjährung beginnt mit Ablauf des Kalenderjahres, in dem der Anspruch fällig geworden ist.
 
@@ -143,8 +136,7 @@ Zur Zahlung der Lotsabgaben und der Lotsgelder sind neben dem Eigentümer des Wa
 
 (5) Wird eine Entscheidung über die zu entrichtenden Lotsabgaben und Lotsgelder angefochten, so erlöschen Ansprüche aus ihr nicht vor Ablauf von sechs Monaten, nachdem die Entscheidung unanfechtbar geworden ist oder das Verfahren sich auf andere Weise erledigt hat.
 
-
-## § 6
+# § 6
 
 (1) Für die Berechnung der Lotsabgaben und Lotsgelder ist für ein Seeschiff der Internationale Schiffsmessbrief (1969) und für ein Binnenschiff der amtliche Eichschein vorzulegen. Können der Schiffsmessbrief oder der Eichschein nicht vorgelegt werden, wird
 
@@ -174,15 +166,13 @@ von einem von der Generaldirektion Wasserstraßen und Schifffahrt bestimmten Sac
 
 (3) Zahlungen sind in Euro zu leisten. Bruchteile eines Euro werden unter 0,50 € nach unten abgerundet und ab 0,50 € nach oben aufgerundet.
 
-
-## § 7
+# § 7
 
 (1) Die Lotsabgaben und Lotsgelder werden von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und eingezogen. Diese kann Dritte mit der Entgegennahme der Zahlungen beauftragen.
 
 (2) Die Generaldirektion Wasserstraßen und Schifffahrt kann von der Zahlung der Lotsabgaben aus Gründen des öffentlichen Interesses ganz oder teilweise befreien.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Verzeichnis und Tabelle der Lotsabgaben
+# Anlage 1 – (zu § 1 Absatz 1)Verzeichnis und Tabelle der Lotsabgaben
 
 (Fundstelle: BGBl. I 2009, 100 - 110;  
 bzgl. einzelner Änderungen vgl. Fußnote)
@@ -621,8 +611,7 @@ des Höchstbetrages nach Abschnitt B Teil I.
 
  
 
-
-## Anlage 2
+# Anlage 2
 
 (Fundstelle: BGBl. I 2009, 111 - 122;  
 bzgl. einzelner Änderungen vgl. Fußnote)

@@ -1,10 +1,7 @@
-# [VRG] Gesetz zur Förderung von Vorruhestandsleistungen  (Vorruhestandsgesetz - VRG)
-
-Ausfertigungsdatum: 13.04.1984
-
+% Gesetz zur Förderung von Vorruhestandsleistungen  (Vorruhestandsgesetz - VRG)
+% Ausfertigungsdatum: 13.04.1984
  
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Die Bundesanstalt für Arbeit (Bundesanstalt) gewährt Arbeitgebern Zuschüsse zu den Aufwendungen für Vorruhestandsleistungen an Arbeitnehmer, die das 58. Lebensjahr vollendet und ihre Erwerbstätigkeit beendet haben.
 
@@ -15,8 +12,7 @@ im Jahr 1986 für Arbeitnehmer, die vor dem Jahr 1929 geboren sind,
 im Jahr 1987 für Arbeitnehmer, die vor dem Jahr 1930 geboren sind,  
 im Jahr 1988 für Arbeitnehmer, die vor dem Jahr 1931 geboren sind.
 
-
-## § 2 – Anspruchsvoraussetzungen
+# § 2 – Anspruchsvoraussetzungen
 
 (1) Der Anspruch auf den Zuschuß setzt voraus, daß
 
@@ -48,8 +44,7 @@ c) einen Auszubildenden beschäftigt, sofern der Arbeitgeber in der Regel aussch
 
 (4) Der Anspruch auf den Zuschuß besteht nicht, wenn der ausgeschiedene Arbeitnehmer Anpassungsgeld für entlassene Arbeitnehmer des Bergbaus erhält.
 
-
-## § 3 – Höhe des Zuschusses zu den Vorruhestandsleistungen
+# § 3 – Höhe des Zuschusses zu den Vorruhestandsleistungen
 
 (1) Der Zuschuß beträgt 35 vom Hundert der Aufwendungen für
 
@@ -65,13 +60,11 @@ c) einen Auszubildenden beschäftigt, sofern der Arbeitgeber in der Regel aussch
 
 (5) Der Zuschuß beträgt abweichend von Absatz 1 34 vom Hundert, wenn der Anspruch auf Vorruhestandsleistungen für den Fall der Zahlungseinstellung durch den Arbeitgeber nicht auf Grund tarifvertraglicher Vereinbarung gesichert ist.
 
-
-## § 4 – Dynamisierung des Zuschusses
+# § 4 – Dynamisierung des Zuschusses
 
 Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils nach Ablauf eines Jahres seit Beginn der Zahlung des Vorruhestandsgeldes nach Maßgabe der Veränderung der Bruttolohn- und -gehaltssumme je durchschnittlich beschäftigten Arbeitnehmer, die der Feststellung des aktuellen Rentenwerts nach dem Sechsten Buch Sozialgesetzbuch zugrunde liegt. Der Zuschuß wird höchstens um den Vomhundertsatz angehoben, um den der Arbeitgeber das Vorruhestandsgeld erhöht hat.
 
-
-## § 5 – Erlöschen und Unterbrechung des Anspruchs
+# § 5 – Erlöschen und Unterbrechung des Anspruchs
 
 (1) Der Anspruch auf den Zuschuß erlischt
 
@@ -81,8 +74,7 @@ Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils nach Abla
 
 (2) Der Anspruch auf den Zuschuß besteht nicht, solange der Arbeitgeber auf dem freigemachten oder durch Umsetzung freigewordenen Arbeitsplatz keinen Arbeitnehmer mehr beschäftigt, der bei Beginn der Beschäftigung eine der in § 2 Abs. 1 Nr. 5 Buchstabe a bis c genannten Voraussetzungen erfüllt hat. Dies gilt nicht, wenn der Arbeitgeber den Arbeitsplatz mit einem Arbeitnehmer, der eine der in § 2 Abs. 1 Nr. 5 Buchstabe a bis c genannten Voraussetzungen erfüllt, innerhalb von drei Monaten wiederbesetzt oder der Arbeitgeber insgesamt für zwei Jahre die Voraussetzungen für den Anspruch auf einen Zuschuß zu den Aufwendungen für Vorruhestandsleistungen an den Arbeitnehmer erfüllt hat.
 
-
-## § 6 – Nebentätigkeit
+# § 6 – Nebentätigkeit
 
 (1) Der Anspruch auf den Zuschuß
 
@@ -96,8 +88,7 @@ Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils nach Abla
 
 (4) Ruht oder erlischt nach Absatz 1 der Anspruch auf den Zuschuß, entfällt der Anspruch auf Vorruhestandsgeld in Höhe des wegfallenden Zuschusses.
 
-
-## § 7 – Schutzvorschriften
+# § 7 – Schutzvorschriften
 
 (1) Die Tatsache, daß ein Arbeitnehmer nach Vollendung des 58. Lebensjahres gegenüber seinem Arbeitgeber zur Inanspruchnahme von Vorruhestandsgeld berechtigt ist, ist nicht als ein die Kündigung des Arbeitsverhältnisses durch den Arbeitgeber bedingender Grund im Sinne des § 1 Abs. 2 Satz 1 des Kündigungsschutzgesetzes anzusehen; sie kann auch nicht bei der sozialen Auswahl nach § 1 Abs. 3 Satz 1 des Kündigungsschutzgesetzes zum Nachteil des Arbeitnehmers berücksichtigt werden.
 
@@ -105,15 +96,13 @@ Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils nach Abla
 
 (3) Der Anspruch auf Vorruhestandsgeld kann wie der Anspruch auf Arbeitseinkommen gepfändet, verpfändet oder übertragen werden.
 
-
-## § 8 – Ausgleichskassen, gemeinsame Einrichtungen
+# § 8 – Ausgleichskassen, gemeinsame Einrichtungen
 
 (1) Werden die Vorruhestandsleistungen auf Grund eines Tarifvertrags von einer Ausgleichskasse der Arbeitgeber erbracht oder werden die Vorruhestandsleistungen der Arbeitgeber auf Grund eines Tarifvertrags von einer Ausgleichskasse der Arbeitgeber erstattet, so gewährt die Bundesanstalt auf Antrag der Tarifvertragsparteien den Zuschuß der Ausgleichskasse.
 
 (2) Für gemeinsame Einrichtungen der Tarifvertragsparteien gilt Absatz 1 entsprechend.
 
-
-## § 9 – Insolvenzsicherung
+# § 9 – Insolvenzsicherung
 
 (1) Soweit der Arbeitgeber seine Verpflichtung zur Zahlung von Vorruhestandsgeld nicht erfüllt und der Arbeitnehmer auf Grund tarifvertraglicher Vereinbarungen für den Fall der Zahlungseinstellung durch den Arbeitgeber nicht geschützt ist, gewährt die Bundesanstalt Vorruhestandsgeld wie ein Arbeitgeber, wenn
 
@@ -131,8 +120,7 @@ Vorruhestandsgeld nach Satz 1 ist auch zu gewähren, soweit die Durchsetzung des
 
 (4) Die §§ 141k und 141l des Arbeitsförderungsgesetzes gelten entsprechend.
 
-
-## § 10 – Mitwirkungspflichten des Arbeitnehmers, Erstattungspflicht des Arbeitnehmers
+# § 10 – Mitwirkungspflichten des Arbeitnehmers, Erstattungspflicht des Arbeitnehmers
 
 (1) Der Arbeitnehmer hat Änderungen der ihn betreffenden Verhältnisse, die für den Zuschuß erheblich sind, dem Arbeitgeber unverzüglich mitzuteilen.
 
@@ -142,8 +130,7 @@ Vorruhestandsgeld nach Satz 1 ist auch zu gewähren, soweit die Durchsetzung des
 
 2. der Mitteilungspflicht nach Absatz 1 nicht nachgekommen ist.
 
-
-## § 11 – Verfahren
+# § 11 – Verfahren
 
 (1) Der Zuschuß zu den Vorruhestandsleistungen und das Vorruhestandsgeld nach § 9 Abs. 1 werden auf Antrag gewährt. Der Antrag ist schriftlich beim zuständigen Arbeitsamt zu stellen.
 
@@ -151,8 +138,7 @@ Vorruhestandsgeld nach Satz 1 ist auch zu gewähren, soweit die Durchsetzung des
 
 (3) Die Bundesanstalt bestimmt durch Anordnung das Nähere über das Verfahren; sie kann hierin auch die Beteiligung der Verwaltungsausschüsse vorsehen. § 191 Abs. 3 und 4 des Arbeitsförderungsgesetzes gilt entsprechend. Unter den Voraussetzungen des § 191 Abs. 5 des Arbeitsförderungsgesetzes kann der Bundesminister für Arbeit und Sozialordnung anstelle der in Satz 1 vorgesehenen Anordnung der Bundesanstalt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das Nähere über das Verfahren bestimmen.
 
-
-## § 12 – Steuerliche Regelungen
+# § 12 – Steuerliche Regelungen
 
 (1) Bei der Anwendung des § 28 des Berlinförderungsgesetzes gilt der Bezug von Vorruhestandsgeld als Arbeitslohn aus einem gegenwärtigen Dienstverhältnis, wenn im Zeitpunkt der Zahlung
 
@@ -164,8 +150,7 @@ Vorruhestandsgeld nach Satz 1 ist auch zu gewähren, soweit die Durchsetzung des
 
 (3) Einrichtungen im Sinne des § 8 sind, soweit sie die in dieser Vorschrift bezeichneten Aufgaben erfüllen, von der Körperschaftsteuer, Gewerbesteuer und Vermögensteuer befreit.
 
-
-## § 13 – Bußgeldvorschriften
+# § 13 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 60 Abs. 1 Nr. 2 des Ersten Buches Sozialgesetzbuch eine Änderung in den Verhältnissen, die für den Anspruch auf den Zuschuß zu den Aufwendungen für Vorruhestandsleistungen oder für den Anspruch auf Vorruhestandsgeld nach § 9 Abs. 1 erheblich sind, dem Arbeitsamt nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend Deutsche Mark geahndet werden.
 
@@ -175,12 +160,10 @@ Vorruhestandsgeld nach Satz 1 ist auch zu gewähren, soweit die Durchsetzung des
 
 (4) Die notwendigen Auslagen trägt abweichend von § 105 Abs. 2 des Gesetzes über Ordnungswidrigkeiten die zuständige Verwaltungsbehörde; diese ist auch ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über Ordnungswidrigkeiten.
 
-
-## § 14 – Befristung der Regelung
+# § 14 – Befristung der Regelung
 
 Für die Zeit ab 1. Januar 1989 ist dieses Gesetz nur noch anzuwenden, wenn die Voraussetzungen für den Anspruch erstmals vor diesem Zeitpunkt vorgelegen haben.
 
-
-## § 15 – Berlin-Klausel
+# § 15 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.

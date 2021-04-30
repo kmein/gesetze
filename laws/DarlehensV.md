@@ -1,10 +1,7 @@
-# [DarlehensV] Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen  (DarlehensV)
-
-Ausfertigungsdatum: 09.07.1980
-
+% Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen  (DarlehensV)
+% Ausfertigungsdatum: 09.07.1980
  
-
-## § 1 – Reihenfolge der Tilgung
+# § 1 – Reihenfolge der Tilgung
 
 (1) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht ausreichen, werden zunächst auf das Darlehen, dann auf die Kosten und zuletzt auf die Zinsen angerechnet.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 09.07.1980
 
 (3) Vorzeitige Rückzahlungen sind zunächst auf bereits fällig gewordene Beträge anzurechnen. Die Tilgungsreihenfolge nach Satz 1 und den Absätzen 1 und 2 kann nicht abbedungen werden.
 
-
-## § 2 – Geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten
+# § 2 – Geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten
 
 Ein im Sinne des § 18 Absatz 12 Satz 3 des Gesetzes nur geringfügiger Verstoß gegen die Zahlungs- und Mitwirkungspflichten ist insbesondere anzunehmen, wenn im gesamten Rückzahlungszeitraum
 
@@ -23,8 +19,7 @@ Ein im Sinne des § 18 Absatz 12 Satz 3 des Gesetzes nur geringfügiger Verstoß
 
 3. sämtliche Zahlungsverpflichtungen einschließlich Kosten- und Zinsforderungen beglichen wurden und höchstens für die Dauer von 150 Tagen nach § 18 Absatz 2 Satz 2 und 3 des Gesetzes Zinsen wegen Überschreitung des Zahlungstermins angefallen sind.
 
-
-## § 3 – Nachweise für die Freistellung von der Rückzahlungsverpflichtung
+# § 3 – Nachweise für die Freistellung von der Rückzahlungsverpflichtung
 
 (1) Die für eine Freistellung nach § 18a Absatz 1 des Gesetzes maßgebliche Höhe ihres Einkommens können Darlehensnehmende insbesondere nachweisen durch die Vorlage von
 
@@ -40,13 +35,11 @@ Liegt im Fall von Einkommen aus selbständiger Erwerbstätigkeit kein Einkommens
 
 (3) Soweit eine Vorlage von Unterlagen nicht möglich ist, haben Darlehensnehmende das Vorliegen der für die Feststellung der Voraussetzungen erheblichen Tatsachen des § 18a Absatz 1 des Gesetzes an Eides statt zu versichern.
 
-
-## § 5 – Freistellung von der Rückzahlungsverpflichtung
+# § 5 – Freistellung von der Rückzahlungsverpflichtung
 
 \-
 
-
-## § 6 – Vorzeitige Rückzahlung
+# § 6 – Vorzeitige Rückzahlung
 
 (1) Über den Antrag auf Gewährung eines Nachlasses wegen vorzeitiger Rückzahlung der verbleibenden Darlehensschuld entscheidet das Bundesverwaltungsamt nach Maßgabe der folgenden Absätze und der Anlage.
 
@@ -60,13 +53,11 @@ Für die Bemessung des Nachlasses bleibt der Teil des geleisteten Zahlungsbetrag
 
 (3) Wird die gesamte verbleibende Darlehensschuld nicht in einer Summe abgelöst, so ist der Nachlass nur für die Ablösung von mindestens 500 Euro zu gewähren. Reichen vorzeitig zurückgezahlte Beträge nicht zur Ablösung der vollen verbleibenden Darlehensschuld aus, sind sie auf die zuletzt fällig werdenden Rückzahlungsraten anzurechnen. Die verbleibende Darlehensschuld verringert sich um den vorzeitig geleisteten Zahlungsbetrag sowie den im Gegenzug gewährten Nachlass nach Maßgabe des § 18 Absatz 13 des Gesetzes.
 
-
-## § 7 – Vergleiche, Veränderungen von Ansprüchen
+# § 7 – Vergleiche, Veränderungen von Ansprüchen
 
 Der Abschluß von Vergleichen sowie die Stundung, Niederschlagung und der Erlaß von Ansprüchen richten sich nach den §§ 58 und 59 der Bundeshaushaltsordnung.
 
-
-## § 8 – Zahlungsrückstand
+# § 8 – Zahlungsrückstand
 
 (1) Nach dem Zahlungstermin werden gesondert erhoben:
 
@@ -76,8 +67,7 @@ Der Abschluß von Vergleichen sowie die Stundung, Niederschlagung und der Erlaß
 
 (2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem Darlehensnehmer ein Bescheid nach § 10 zugegangen ist. Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen nicht zugegangen ist.
 
-
-## § 9 – Datenermittlung
+# § 9 – Datenermittlung
 
 (1) Die Ämter für Ausbildungsförderung stellen nach Ablauf eines jeden Kalenderjahres bis zum 31. März dem Bundesverwaltungsamt die für die Zinsberechnung und den Darlehenseinzug erforderlichen Daten über
 
@@ -97,8 +87,7 @@ auch für die elektronische Datenverarbeitung geeigneten, maschinell lesbaren Da
 
 (6) (Aufgehoben)
 
-
-## § 10 – Rückzahlungsbescheid
+# § 10 – Rückzahlungsbescheid
 
 (1) Unbeschadet der nach § 18 Absatz 4 bis 6 des Gesetzes eintretenden Fälligkeit der Rückzahlungsraten erteilt das Bundesverwaltungsamt den Darlehensnehmenden jeweils einen Rückzahlungsbescheid.
 
@@ -108,15 +97,13 @@ auch für die elektronische Datenverarbeitung geeigneten, maschinell lesbaren Da
 
 2. die Höhe der monatlichen oder vierteljährlichen Raten.
 
-
-## § 11 – Rückzahlungsbedingungen
+# § 11 – Rückzahlungsbedingungen
 
 (1) Die Rückzahlungsraten sind bei monatlicher Zahlungsweise jeweils am Ende des Monats, bei vierteljährlicher Zahlungsweise jeweils am Ende des dritten Monats in einer Summe zu leisten.
 
 (2) Der Rückzahlungsbetrag wird im Auftrag des Bundesverwaltungsamtes von der zuständigen Bundeskasse im Lastschrifteinzugsverfahren von einem laufenden Konto des Darlehensnehmers eingezogen. Kann diesem die Einrichtung eines solchen Kontos nicht zugemutet werden, ist die unbare Zahlung auf ein vom Bundesverwaltungsamt bestimmtes Konto der Bundeskasse zuzulassen. Die Zahlung gilt mit Eingang des Rückzahlungsbetrages bei der Bundeskasse als geleistet.
 
-
-## § 12 – Mitteilungspflichten
+# § 12 – Mitteilungspflichten
 
 (1) Der Darlehensnehmer ist verpflichtet,
 
@@ -132,25 +119,21 @@ dem Bundesverwaltungsamt unverzüglich schriftlich oder elektronisch mitzuteilen
 
 (2) Kommt der Darlehensnehmer seinen Mitteilungspflichten nach Absatz 1 Nr. 1 nicht nach und muß seine Anschrift deshalb ermittelt werden, so hat er für die Ermittlung, sofern nicht höhere Kosten nachgewiesen werden, pauschal 25 Euro zu zahlen. Anschriftenermittlungskosten sollen nicht erhoben werden, wenn der Darlehensnehmer seine Mitteilungspflichten nach Bekanntgabe des Bescheides nach § 18 Absatz 9 des Gesetzes und nach § 10 verletzt und das Darlehenskonto des Darlehensnehmers im Zeitpunkt der Notwendigkeit der Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Absatz 1 Nummer 2 gilt entsprechend.
 
-
-## § 13 – Aufteilung der eingezogenen Beträge
+# § 13 – Aufteilung der eingezogenen Beträge
 
 (1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge und Zinsen (Darlehens- und Zahlungsrückstandszinsen) sowie über die Aufteilung nach Maßgabe des § 56 Absatz 2 des Gesetzes zu übermitteln. Es hat zum Ende des jeweiligen Kalenderjahres jedem Land eine Abschlagszahlung in Höhe des ihm voraussichtlich zustehenden Betrages zu leisten und bis zum 30. Juni des laufenden Jahres den Restbetrag abzuführen, der ihm nach § 56 Absatz 2 Satz 4 zusteht.
 
 (2) Kostenerstattungen nach § 8 Absatz 1 Nummer 2 und § 12 Absatz 2 sowie Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
 
-
-## § 13a – Übergangsvorschrift
+# § 13a – Übergangsvorschrift
 
 Bis zum Ablauf des 31. März 2020 sind die §§ 6 und 8 und die Anlage in der am 31. August 2019 geltenden Fassung weiter anzuwenden.
 
-
-## § 14 – Ordnungswidrigkeiten
+# § 14 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 3 des Bundesausbildungsförderungsgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 12 Absatz 1 Nummer 4 eine Mitteilung nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig macht.
 
-
-## Anlage – (zu § 6 Absatz 1)
+# Anlage – (zu § 6 Absatz 1)
 
 (Fundstelle : BGBl. I 2019, 1097 – 1098)
 

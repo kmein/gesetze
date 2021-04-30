@@ -1,10 +1,7 @@
-# [AVV] Verordnung über das Europäische Abfallverzeichnis  (Abfallverzeichnis-Verordnung - AVV)
-
-Ausfertigungsdatum: 10.12.2001
-
+% Verordnung über das Europäische Abfallverzeichnis  (Abfallverzeichnis-Verordnung - AVV)
+% Ausfertigungsdatum: 10.12.2001
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für
 
@@ -12,8 +9,7 @@ Diese Verordnung gilt für
 
 2. die Einstufung von Abfällen nach ihrer Gefährlichkeit.
 
-
-## § 2 – Abfallbezeichnung
+# § 2 – Abfallbezeichnung
 
 (1) Soweit Abfälle nach anderen Rechtsvorschriften zu bezeichnen sind, sind die Bezeichnungen nach der Anlage (Abfallverzeichnis) zu dieser Verordnung (sechsstelliger Abfallschlüssel und Abfallbezeichnung) zu verwenden.
 
@@ -21,8 +17,7 @@ Diese Verordnung gilt für
 
 (3) Die zuständigen Behörden können die Anordnungen treffen, die zur Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und -bezeichnungen nach der Anlage zu dieser Verordnung erforderlich sind.
 
-
-## § 3 – Gefährlichkeit von Abfällen
+# § 3 – Gefährlichkeit von Abfällen
 
 (1) Die Abfallarten im Abfallverzeichnis, deren Abfallschlüssel mit einem Sternchen (\*) versehen sind, sind gefährlich im Sinne des § 48 des Kreislaufwirtschaftsgesetzes.
 
@@ -30,8 +25,7 @@ Diese Verordnung gilt für
 
 (3) Die zuständige Behörde kann im Einzelfall oder aufgrund neuer Erkenntnisse für Abfälle eine von Absatz 1 abweichende Einstufung vornehmen, wenn der Abfallbesitzer nachweist, dass der im Abfallverzeichnis als gefährlich aufgeführte Abfall keine der in Anhang III der Richtlinie 2008/98/EG genannten Eigenschaften (Gefährlichkeitskriterien) aufweist. Die zuständige Behörde kann im Einzelfall oder aufgrund neuer Erkenntnisse Abfälle als gefährlich einstufen, wenn ein im Abfallverzeichnis als nicht gefährlich aufgeführter Abfall eines oder mehrere der vorgenannten Gefährlichkeitskriterien aufweist. Die Länder haben solche Einstufungen mit allen erforderlichen Informationen, insbesondere den gefährlichen Stoffen, deren Gehalt und deren relevanten Eigenschaften, unverzüglich an das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zu melden.
 
-
-## Anlage – (zu § 2 Abs. 1)Abfallverzeichnis
+# Anlage – (zu § 2 Abs. 1)Abfallverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3380 - 3406;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

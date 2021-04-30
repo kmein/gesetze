@@ -1,10 +1,7 @@
-# [SGB92018§§160Abs3ua/WMVO§39Abs4Bek] Bekanntmachung über die Anpassung der Ausgleichsabgabe (§ 160 Absatz 3 des Neunten Buches Sozialgesetzbuch [SGB IX]), der Eigenbeteiligung für die unentgeltliche Beförderung (§ 228 Absatz 2 Satz 2 SGB IX), der übernahmefähigen Kinderbetreuungskosten (§ 74 Absatz 3 Satz 3 SGB IX) und der Finanzierung der Werkstatträte Deutschland (§ 39 Absatz 4 Satz 1 der Werkstättenmitwirkungsverordnung)
-
-Ausfertigungsdatum: 19.11.2020
-
+% Bekanntmachung über die Anpassung der Ausgleichsabgabe (§ 160 Absatz 3 des Neunten Buches Sozialgesetzbuch [SGB IX]), der Eigenbeteiligung für die unentgeltliche Beförderung (§ 228 Absatz 2 Satz 2 SGB IX), der übernahmefähigen Kinderbetreuungskosten (§ 74 Absatz 3 Satz 3 SGB IX) und der Finanzierung der Werkstatträte Deutschland (§ 39 Absatz 4 Satz 1 der Werkstättenmitwirkungsverordnung)
+% Ausfertigungsdatum: 19.11.2020
  
-
-## ----
+# ----
 
  
 
@@ -24,7 +21,6 @@ Die neuen Sätze gelten für Arbeitsplätze, die ab dem 1. Januar 2021 unbesetzt
 
 4. Gemäß § 39 Absatz 4 Satz 1 der Werkstätten-Mitwirkungsverordnung in Verbindung mit § 160 Absatz 3 SGB IX beträgt der Überweisungsbetrag an die Interessenvertretung der Werkstatträte auf Bundesebene an dem 1. Januar 2021 1,81 Euro.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium für Arbeit und Soziales

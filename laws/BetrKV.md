@@ -1,10 +1,7 @@
-# [BetrKV] Verordnung über die Aufstellung von Betriebskosten  (Betriebskostenverordnung - BetrKV)
-
-Ausfertigungsdatum: 25.11.2003
-
+% Verordnung über die Aufstellung von Betriebskosten  (Betriebskostenverordnung - BetrKV)
+% Ausfertigungsdatum: 25.11.2003
  
-
-## § 1 – Betriebskosten
+# § 1 – Betriebskosten
 
 (1) Betriebskosten sind die Kosten, die dem Eigentümer oder Erbbauberechtigten durch das Eigentum oder Erbbaurecht am Grundstück oder durch den bestimmungsmäßigen Gebrauch des Gebäudes, der Nebengebäude, Anlagen, Einrichtungen und des Grundstücks laufend entstehen. Sach- und Arbeitsleistungen des Eigentümers oder Erbbauberechtigten dürfen mit dem Betrag angesetzt werden, der für eine gleichwertige Leistung eines Dritten, insbesondere eines Unternehmers, angesetzt werden könnte; die Umsatzsteuer des Dritten darf nicht angesetzt werden.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 25.11.2003
 
 2. die Kosten, die während der Nutzungsdauer zur Erhaltung des bestimmungsmäßigen Gebrauchs aufgewendet werden müssen, um die durch Abnutzung, Alterung und Witterungseinwirkung entstehenden baulichen oder sonstigen Mängel ordnungsgemäß zu beseitigen (Instandhaltungs- und Instandsetzungskosten).
 
-
-## § 2 – Aufstellung der Betriebskosten
+# § 2 – Aufstellung der Betriebskosten
 
 Betriebskosten im Sinne von § 1 sind:
 

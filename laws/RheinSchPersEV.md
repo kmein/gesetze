@@ -1,10 +1,7 @@
-# [RheinSchPersEV] Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein  (Rheinschiffspersonaleinführungsverordnung - RheinSchPersEV)
-
-Ausfertigungsdatum: 16.12.2011
-
+% Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein  (Rheinschiffspersonaleinführungsverordnung - RheinSchPersEV)
+% Ausfertigungsdatum: 16.12.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen auf Grund
 
@@ -17,8 +14,7 @@ des § 3 Absatz 1 Nummer 1, 2, 2a, 5 und 8 in Verbindung mit Absatz 6, hinsichtl
 \-  
 des § 4 Absatz 2 Satz 1 des Binnenschifffahrtsaufgabengesetzes in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), von denen § 4 Absatz 2 Satz 1 des Binnenschifffahrtsaufgabengesetzes durch Artikel 313 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## Art 1 – Inkraftsetzen von Beschlüssen der Zentralkommission für die Rheinschifffahrt
+# Art 1 – Inkraftsetzen von Beschlüssen der Zentralkommission für die Rheinschifffahrt
 
 Folgende von der Zentralkommission für die Rheinschifffahrt (ZKR) in Straßburg gefassten Beschlüsse werden hiermit auf dem Rhein in Kraft gesetzt:
 
@@ -83,15 +79,13 @@ Folgende von der Zentralkommission für die Rheinschifffahrt (ZKR) in Straßburg
   
 Die Beschlüsse werden als Anlagen 1 bis 15 zu dieser Verordnung veröffentlicht.
 
-
-## Art 2 – Ausnahmen von der Schifferpatentpflicht
+# Art 2 – Ausnahmen von der Schifferpatentpflicht
 
 (1) Zur Führung von Fahrzeugen der Streitkräfte ist ein Rheinpatent nicht erforderlich.
 
 (2) Zur Führung von Fahrzeugen im Sinne des § 6.02 Nummer 5 der Schiffspersonalverordnung-Rhein ist ein Schifferpatent gemäß Schiffspersonalverordnung-Rhein nicht erforderlich.
 
-
-## Art 3 – Zuständige Behörden
+# Art 3 – Zuständige Behörden
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, zur Umsetzung einer Anordnung vorübergehender Art der Zentralkommission für die Rheinschifffahrt nach § 1.02 der Schiffspersonalverordnung-Rhein durch Rechtsverordnung in dringenden Fällen oder zu Versuchszwecken eine von der Schiffspersonalverordnung-Rhein abweichende Regelung vorübergehend bis zur Dauer von drei Jahren zu treffen.
 
@@ -151,15 +145,13 @@ sind das Wasserstraßen- und Schifffahrtsamt Duisburg-Rhein und das Wasserstraß
 
 (20) Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das Bundesministerium für Verkehr und digitale Infrastruktur. Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über bestandene Prüfungen zum Erwerb des Radarpatentes gelten als anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der Schiffspersonalverordnung-Rhein.
 
-
-## Art 4 – Zuständigkeit für ärztliche Zeugnisse
+# Art 4 – Zuständigkeit für ärztliche Zeugnisse
 
 (1) Ärztliche Zeugnisse im Sinne des § 3.03 Nummer 1 Satz 2 Buchstabe a, der §§ 3.04, 3.07 Nummer 2, des § 7.01 Nummer 3 Buchstabe a, des § 7.02 Nummer 3 Buchstabe a, des § 7.03 Nummer 2 Buchstabe a, des § 7.04 Nummer 1 Buchstabe c, des § 7.09 Nummer 2 Buchstabe c und des § 7.23 Nummer 1 Satz 1 der Schiffspersonalverordnung-Rhein müssen von einer Ärztin oder einem Arzt, die oder der von der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ermächtigt worden ist, von einer Ärztin oder einem Arzt des betriebsärztlichen Dienstes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, des Hafenärztlichen Dienstes oder der Verwaltung eines Landes ausgestellt sein.
 
 (2) Ein ärztliches Zeugnis, das von der zuständigen Stelle eines anderen Mitgliedstaates der Mannheimer Akte (BGBl. 1969 II S. 597, 598) nach Maßgabe der Bestimmungen der Schiffspersonalverordnung-Rhein ausgestellt worden ist, steht dem Zeugnis nach Absatz 1 gleich.
 
-
-## Art 5 – Pflichten
+# Art 5 – Pflichten
 
 (1) Der Eigentümer, der Ausrüster und der Schiffsführer haben dafür zu sorgen, dass
 
@@ -201,8 +193,7 @@ sind das Wasserstraßen- und Schifffahrtsamt Duisburg-Rhein und das Wasserstraß
 
 2. das Bordbuch nach § 3.13 Nummer 1 Satz 2 der Schiffspersonalverordnung-Rhein in Verbindung mit der Anleitung zur Führung des Bordbuches in Anlage A1 Nummer 2 der Schiffspersonalverordnung-Rhein richtig, vollständig und rechtzeitig geführt wird,
 
-2a.  
-das anerkannte Bordbuch nach § 3.13 Nummer 1 Satz 6 der Schiffspersonalverordnung-Rhein richtig, vollständig und rechtzeitig in einer der Amtssprachen der Zentralkommission für die Rheinschifffahrt geführt wird,
+2a. das anerkannte Bordbuch nach § 3.13 Nummer 1 Satz 6 der Schiffspersonalverordnung-Rhein richtig, vollständig und rechtzeitig in einer der Amtssprachen der Zentralkommission für die Rheinschifffahrt geführt wird,
 
 3. das ungültig gezeichnete Bordbuch und die Aufzeichnungen der Fahrtenschreiber nach § 3.13 Nummer 3 und 5 Satz 2 der Schiffspersonalverordnung-Rhein noch sechs Monate nach der letzten Eintragung oder Aufzeichnung an Bord aufbewahrt werden,
 
@@ -250,8 +241,7 @@ das anerkannte Bordbuch nach § 3.13 Nummer 1 Satz 6 der Schiffspersonalverordnu
 
 (8) Der Inhaber eines Radarpatentes hat gemäß § 8.05 Nummer 4 Satz 3 der Schiffspersonalverordnung-Rhein ein unbrauchbar gewordenes oder wieder aufgefundenes Radarpatent unverzüglich bei der ausstellenden Behörde abzuliefern oder es ihr zur Entwertung vorzulegen.
 
-
-## Art 6 – Ordnungswidrigkeiten
+# Art 6 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Schiffsführer, Eigentümer oder Ausrüster
 
@@ -309,15 +299,13 @@ das anerkannte Bordbuch nach § 3.13 Nummer 1 Satz 6 der Schiffspersonalverordnu
 
 (6) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig als Radarpatentinhaber entgegen Artikel 5 Absatz 8 ein Radarpatent nicht oder nicht rechtzeitig abliefert und ihr nicht oder nicht rechtzeitig zur Entwertung vorlegt.
 
-
-## Art 7 – Radarpatent für die Führer von Fähren
+# Art 7 – Radarpatent für die Führer von Fähren
 
 (1) Die Prüfung für die Führer von Fähren beschränkt sich im praktischen Teil unter Berücksichtigung der jeweiligen örtlichen Verhältnisse auf Prüfungsinhalte, die der Bewerber zum Führen derjenigen Fähren beherrschen muss, für die er das Radarpatent beantragt. Wird die praktische Prüfung nicht an einem Radarsimulator durchgeführt, bestimmt die Prüfungskommission einen geeigneten Prüfungsort. Wird ein Radarpatent für Fähren erweitert, kann die Prüfungskommission unter Berücksichtigung des jeweiligen Fährgefäßes und der örtlichen Verhältnisse der Fährstrecke bei der Prüfung Befreiungen und Erleichterungen gewähren oder von einer Prüfung ganz absehen.
 
 (2) Das Radarpatent nach § 6.03 Nummer 1 der Schiffspersonalverordnung-Rhein schließt das Radarpatent zum Führen von Fähren nach § 6.03 Nummer 2 der Schiffspersonalverordnung-Rhein ein.
 
-
-## Art 8 – Aufhebung von Rechtsvorschriften
+# Art 8 – Aufhebung von Rechtsvorschriften
 
 Es werden aufgehoben:
 
@@ -359,24 +347,20 @@ Es werden aufgehoben:
 
 10. § 1 Absatz 2, § 2 Absatz 1 Nummer 2, Absatz 3 Nummer 2, Nummer II.1 des Anhangs 1, soweit die vorübergehende Regelung zu § 1.01 Buchstabe aa der Rheinschifffahrtspolizeiverordnung betroffen ist, und Nummer II.4 des Anhangs 1, soweit die vorübergehende Regelung zu § 4.06 Nummer 1 betroffen ist, der Fünfunddreißigsten Verordnung zur vorübergehenden Abweichung von der Rheinschifffahrtspolizeiverordnung vom 14. Januar 2011 (VkBl. 2011 S. 60), die durch Artikel 2 der Verordnung vom 24. Februar 2011 (VkBl. 2011 S. 240) geändert worden ist.
 
+# Art 9 bis 17 – ----
 
-## Art 9 bis 17 – ----
-
-
-## Art 18 – Inkrafttreten, Außerkrafttreten
+# Art 18 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung und die in Artikel 1 genannten Beschlüsse treten am Tag nach der Verkündung in Kraft.
 
 (2) Die in Artikel 1 unter den Nummern 4 und 5 genannten Beschlüsse treten am 30. September 2014 außer Kraft.
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 3 - 105)
 
 Text siehe: RheinSchPersV
 
-
-## Anlage 2 bis 15 – ----
+# Anlage 2 bis 15 – ----
 
 (Fundstelle: BGBl. II 2011, Anlageband zu Nr. 33, S. 106 - 142)

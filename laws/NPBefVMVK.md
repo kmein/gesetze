@@ -1,15 +1,11 @@
-# [NPBefVMVK] Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern  (Befahrensregelungsverordnung Küstenbereich Mecklenburg-Vorpommern - NPBefVMVK)
-
-Ausfertigungsdatum: 24.06.1997
-
+% Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern  (Befahrensregelungsverordnung Küstenbereich Mecklenburg-Vorpommern - NPBefVMVK)
+% Ausfertigungsdatum: 24.06.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1
+# § 1
 
 (1) Zum Schutz der Tier- und Pflanzenwelt wird das Befahren der Bundeswasserstraßen mit Wasserfahrzeugen, Sportfahrzeugen oder Wassersportgeräten und der Betrieb von ferngesteuerten Schiffsmodellen in dem
 
@@ -23,15 +19,13 @@ nach dieser Verordnung geregelt.
 
 (2) Die Grenzen der Nationalparke nach Absatz 1 Nr. 1 und 2 und des Biosphärenreservats "Südost-Rügen" nach Absatz 1 Nr. 3 auf den Bundeswasserstraßen mit den Schutzzonen I und II, die durch diese Gebiete führenden Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom 15. April 1987 (BGBl. I S. 1266), die zuletzt durch Artikel 3 der Verordnung vom 7. Dezember 1994 (BGBl. I S. 3744) geändert worden ist, in der jeweils geltenden Fassung, die sonst von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und bekanntgemachten Wasserflächen oder die direkten, nicht durch Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von den Häfen oder, soweit darstellbar, den genehmigten Anlegestellen oder genehmigten Liegeplätzen sowie die in dieser Verordnung genannten besonderen Schutzgebiete der Boddengewässer (§ 4) sind aus den amtlichen Seekarten des Bundesamtes für Seeschiffahrt und Hydrographie in ihrer jeweils gültigen Fassung ersichtlich. Die amtlichen Seekarten können bei den Wasserstraßen- und Schifffahrtsämtern des Bundes für den Küstenbereich von Mecklenburg-Vorpommern während der Dienstzeiten eingesehen und von den Vertriebs- und Auslieferungsstellen des Bundesamtes für Seeschiffahrt und Hydrographie, Bernhard-Nocht-Straße 78, 20359 Hamburg, bezogen werden. Kartenausschnitte über die Nationalparke und das Biosphärenreservat "Südost-Rügen" mit den Schutzzonen I und II und den darin liegenden besonderen Schutzgebieten (§ 4) sind aus der Anlage I zu ersehen.
 
-
-## § 2
+# § 2
 
 (1) Das Befahren der Bundeswasserstraßen in den Nationalparken und den Schutzzonen I und II des Biosphärenreservats "Südost-Rügen" mit den in § 1 Abs. 1 genannten Fahrzeugen oder Wassersportgeräten ist unter Beachtung der für die Verkehrsteilnehmer in Absatz 2 festgelegten Verhaltensgrundsätze gestattet, soweit dies in den §§ 3 bis 6 nicht untersagt oder soweit bei Untersagung eine Befreiung nach § 7 gewährt worden ist.
 
 (2) Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen in den Nationalparken und den Schutzzonen I und II des Biosphärenreservats "Südost-Rügen" so zu verhalten, daß die Tier- und Pflanzenwelt nicht geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, gestört wird.
 
-
-## § 3
+# § 3
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II der Nationalparke oder des Biosphärenreservats "Südost-Rügen" mit Luftkissenfahrzeugen oder Wassermotorrädern im Sinne des § 2 Abs. 1 Nr. 21 der Seeschiffahrtsstraßen-Ordnung zu befahren oder auf ihnen Wasserskisport oder Parasailing zu betreiben. Die Generaldirektion Wasserstraßen und Schifffahrt kann auf Antrag des Landes Mecklenburg-Vorpommern den Betrieb von weiteren Wassersportgeräten verbieten, soweit dies zur Erreichung des Schutzzweckes dieser Verordnung notwendig ist. Der Betrieb von ferngesteuerten Schiffsmodellen ist in den Schutzzonen I sowie in den in § 4 besonders ausgewiesenen Schutzgebieten der Schutzzonen II nicht gestattet.
 
@@ -39,30 +33,25 @@ nach dieser Verordnung geregelt.
 
 (3) Führer von Fahrzeugen im Sinne des § 1 Abs. 1, die durch Maschinenkraft angetrieben werden, dürfen auf den Bundeswasserstraßen in den Schutzzonen I und II der Nationalparke oder des Biosphärenreservats "Südost-Rügen" auf den durch Sichtzeichen begrenzten oder gekennzeichneten Fahrwassern im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung eine Geschwindigkeit von 12 kn\*) durch das Wasser und außerhalb dieser Fahrwasser eine Geschwindigkeit von 8 kn durch das Wasser nicht überschreiten, soweit in dieser Verordnung nicht anderes bestimmt ist. Mit diesen Fahrzeugen darf auf den Bundeswasserstraßen in dem Nationalpark "Vorpommersche Boddenlandschaft" nördlich der Tonnen 5 und 6 des Hiddensee Fahrwassers und nördlich der Tonnen 10 und 11 des Stralsunder Nordfahrwassers eine Geschwindigkeit von 16 kn nicht überschritten werden. Die Zulässigkeit der Festlegung von Geschwindigkeitsbegrenzungen nach der Seeschiffahrtsstraßen-Ordnung bleibt unberührt.
 
-(4) Für Fahrzeuge, die vor Erlaß dieser Verordnung mit Genehmigung des Landes Mecklenburg-Vorpommern im Fährverkehr auf den Boddengewässern des Nationalparks "Vorpommersche Boddenlandschaft" eingesetzt worden sind, gelten bei der Durchführung dieses Fährverkehrs die Geschwindigkeitsregelungen nach Absatz 3 für das Befahren der genannten Boddengewässer nicht. Dies gilt auch für Ersatzfahrzeuge. Eine Geschwindigkeit von 23 kn durch das Wasser darf mit diesen Fahrzeugen nicht überschritten werden.  
-----------  
+(4) Für Fahrzeuge, die vor Erlaß dieser Verordnung mit Genehmigung des Landes Mecklenburg-Vorpommern im Fährverkehr auf den Boddengewässern des Nationalparks "Vorpommersche Boddenlandschaft" eingesetzt worden sind, gelten bei der Durchführung dieses Fährverkehrs die Geschwindigkeitsregelungen nach Absatz 3 für das Befahren der genannten Boddengewässer nicht. Dies gilt auch für Ersatzfahrzeuge. Eine Geschwindigkeit von 23 kn durch das Wasser darf mit diesen Fahrzeugen nicht überschritten werden. ----------  
 
 \*) kn = Knoten, 1 Knoten = 1,852 km/h.
 
-
-## § 4 – Nationalpark "Vorpommersche Boddenlandschaft"
+# § 4 – Nationalpark "Vorpommersche Boddenlandschaft"
 
 (1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II auf den in den Kartenausschnitten der Anlage I Kartenblatt 1 bis 4 rot und grün gekennzeichneten und in der Anlage II näher bezeichneten Wasserflächen des Nationalparks "Vorpommersche Boddenlandschaft" außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und bekanntgemachten Wasserflächen oder der direkten, nicht durch Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von den Häfen oder genehmigten Anlegestellen oder genehmigten Liegeplätzen mit Fahrzeugen im Sinne des § 1 Abs. 1 zu befahren, die durch Maschinenkraft angetrieben werden.
 
 (2) Führer von Fahrzeugen im Sinne des § 1 Abs. 1, die nicht durch Maschinenkraft angetrieben werden, dürfen die Bundeswasserstraßen in den Schutzzonen I und II auf den in den Kartenausschnitten der Anlage I Kartenblatt 1 bis 4 rot gekennzeichneten und in der Anlage II näher bezeichneten Wasserflächen des Nationalparks "Vorpommersche Boddenlandschaft" außerhalb der in Absatz 1 genannten Fahrwasser, sonstigen Wasserflächen oder Zufahrtswege nicht befahren.
 
-
-## § 5 – Nationalpark "Jasmund"
+# § 5 – Nationalpark "Jasmund"
 
 Es ist untersagt, die Bundeswasserstraßen in dem Nationalpark "Jasmund" außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und bekanntgemachten Wasserflächen oder der direkten, nicht durch Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von den Häfen oder genehmigten Anlegestellen oder genehmigten Liegeplätzen innerhalb der Schutzzone I zu befahren.
 
-
-## § 6 – Biosphärenreservat "Südost-Rügen"
+# § 6 – Biosphärenreservat "Südost-Rügen"
 
 Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II des Biosphärenreservats "Südost-Rügen" außerhalb der Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung oder der sonst von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und bekanntgemachten Wasserflächen oder der direkten, nicht durch Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von den Häfen oder genehmigten Anlegestellen oder genehmigten Liegeplätzen zu befahren. Führer von Fahrzeugen im Sinne des § 1 Abs. 1, die nicht durch Maschinenkraft angetrieben werden, dürfen jedoch außerhalb der in Satz 1 genannten Fahrwasser, Wasserflächen oder Zufahrtswege die Bundeswasserstraßen der Having, der Kaming und des Zickersees befahren, wenn sie einen Mindestabstand von 100 m zum Ufer einhalten. Abweichend von den Sätzen 1 und 2 dürfen Führer von Sportfahrzeugen in Höhe der Einfahrt zum Zickersee vom betonnten Fahrwasser aus in nördlicher oder südlicher Richtung die jeweilige Wasserfläche auf einer Länge bis zu 200 m entlang des Westufers unter Einhaltung eines Mindestabstands von 100 m zum Ufer befahren.
 
-
-## § 7
+# § 7
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt kann Befreiungen von den §§ 3 bis 6 gewähren, wenn
 
@@ -74,8 +63,7 @@ Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II des Biosp
 
 (2) Eine Befreiung nach Absatz 1 Nr. 1 darf nur gewährt werden, wenn dies mit dem Schutzzweck der Verordnung vereinbar ist. Vor einer Befreiung nach Absatz 1 Nr. 1 und 2 ist der zuständigen Dienststelle des Landes Mecklenburg-Vorpommern Gelegenheit zur Stellungnahme zu geben.
 
-
-## § 8
+# § 8
 
 (1) Die §§ 4 bis 6 gelten nicht für
 
@@ -93,8 +81,7 @@ Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II des Biosp
 
 (2) § 3 Abs. 3 gilt nicht für Wasserfahrzeuge nach Absatz 1 Nr. 1, 3 und 6.
 
-
-## § 9
+# § 9
 
 Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -112,13 +99,11 @@ Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des Bundeswasserstraßengesetzes 
 
 7. einer mit einer Befreiung nach § 7 Abs. 1 verbundenen vollziehbaren Auflage zuwiderhandelt.
 
-
-## § 10
+# § 10
 
 Diese Verordnung tritt am 10. Juli 1997 in Kraft. Gleichzeitig treten für den Bereich der Bundeswasserstraßen § 6 Abs. 1 Nr. 18, Abs. 2, § 7 Abs. 1 Nr. 3, § 8 der in § 1 Abs. 1 Nr. 1 genannten Verordnung, § 6 Abs. 1 Nr. 14, § 8 der in § 1 Abs. 1 Nr. 2 genannten Verordnung und § 6 Abs. 4 Nr. 12, § 8 der in § 1 Abs. 1 Nr. 3 genannten Verordnung außer Kraft.
 
-
-## Anlage I – (zu § 1 Abs. 2)
+# Anlage I – (zu § 1 Abs. 2)
 
 (Inhalt: Nicht darstellbare topographische Karten,  
 Fundstelle: BGBl. I 1997, S. 1545 - 1551)
@@ -195,8 +180,7 @@ Biosphärenreservat Südost-Rügen
 
 1:80.000
 
-
-## Anlage II – (zu § 4 Abs. 1 und 2)  Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
+# Anlage II – (zu § 4 Abs. 1 und 2)  Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 

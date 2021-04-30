@@ -1,10 +1,7 @@
-# [WiSiG 1965] Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft sowie des Geld- und Kapitalverkehrs  (Wirtschaftssicherstellungsgesetz)
-
-Ausfertigungsdatum: 24.08.1965
-
+% Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft sowie des Geld- und Kapitalverkehrs  (Wirtschaftssicherstellungsgesetz)
+% Ausfertigungsdatum: 24.08.1965
  
-
-## § 1 – Maßnahmen zur Sicherstellung
+# § 1 – Maßnahmen zur Sicherstellung
 
 (1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung und der Streitkräfte erforderliche Versorgung mit Gütern und Leistungen sicherzustellen, können durch Rechtsverordnung Vorschriften erlassen werden über
 
@@ -36,8 +33,7 @@ Waren der gewerblichen Wirtschaft im Sinne des Satzes 1 sind auch Rohtabak, Taba
 
 2. die vorübergehende Schließung von Kreditinstituten und Wertpapierbörsen.
 
-
-## § 2 – Voraussetzungen und Grenzen der Sicherstellung
+# § 2 – Voraussetzungen und Grenzen der Sicherstellung
 
 (1) Rechtsverordnungen nach § 1 dürfen nur nach Maßgabe des Artikels 80a des Grundgesetzes angewandt werden.
 
@@ -49,13 +45,11 @@ Waren der gewerblichen Wirtschaft im Sinne des Satzes 1 sind auch Rohtabak, Taba
 
 (3) Die Rechtsverordnungen sind auf das unerläßliche Maß zu beschränken. Sie sind inhaltlich so zu gestalten, daß in die Freiheit der wirtschaftlichen Betätigung so wenig wie möglich eingegriffen und die Leistungsfähigkeit der Gesamtwirtschaft möglichst wenig beeinträchtigt wird.
 
-
-## § 3 – Buchführungs- und Meldepflichten
+# § 3 – Buchführungs- und Meldepflichten
 
 Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken Buchführungs- und Meldepflichten hinsichtlich der Güter und Leistungen, über die nach § 1 Vorschriften erlassen werden können, sowie hinsichtlich der Leistungsfähigkeit von Betrieben der gewerblichen Wirtschaft begründet werden.
 
-
-## § 4 – Vorratshaltung
+# § 4 – Vorratshaltung
 
 (1) Durch Rechtsverordnung können für Betriebe der gewerblichen Wirtschaft Vorschriften über die Lagerung und Vorratshaltung der in § 1 Abs. 1 bezeichneten Waren und Erzeugnisse erlassen werden, soweit dies erforderlich ist, um eine ausreichende Versorgung im Verteidigungsfall sicherzustellen. § 2 Abs. 3 ist anzuwenden.
 
@@ -65,8 +59,7 @@ Durch Rechtsverordnungen können zu den in § 1 genannten Zwecken Buchführungs-
 
 (4) Wirtschaftsgüter, bei denen nach Absatz 3 ein Bewertungsabschlag vorgenommen worden ist, sind bei der Feststellung des Einheitswertes des gewerblichen Betriebs mit dem für die Vermögensbesteuerung maßgebenden Wert, vermindert um den nach Absatz 3 vorgenommenen Bewertungsabschlag, anzusetzen.
 
-
-## § 5 – Rechtsverordnungen
+# § 5 – Rechtsverordnungen
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die Bundesregierung. Die Bundesregierung kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates, soweit der Geld- und Kapitalverkehr betroffen ist, auf das Bundesministerium der Finanzen, im übrigen auf das Bundesministerium für Wirtschaft und Energie übertragen.
 
@@ -80,15 +73,13 @@ auf die Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der
 
 übertragen; das Bundesministerium der Finanzen kann die Befugnis nach Satz 1 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der Befugnis, übertragen.
 
-
-## § 6 – Zustimmungsbedürftigkeit der Rechtsverordnungen
+# § 6 – Zustimmungsbedürftigkeit der Rechtsverordnungen
 
 (1) Rechtsverordnungen der Bundesregierung, des Bundesministeriums für Wirtschaft und Energie und des Bundesministeriums der Finanzen nach § 1 bedürfen nicht der Zustimmung des Bundesrates, wenn ihre Geltung auf längstens sechs Monate befristet wird. Eine Verlängerung der Geltungsdauer ist nur mit Zustimmung des Bundesrates möglich.
 
 (2) Nach Eintritt der Voraussetzung des § 2 Abs. 1 bedürfen Rechtsverordnungen nach den §§ 1, 3 und 4 nicht der Zustimmung des Bundesrates.
 
-
-## § 7 – Geltungsdauer der Rechtsverordnungen
+# § 7 – Geltungsdauer der Rechtsverordnungen
 
 (1) Befristete Rechtsverordnungen nach den §§ 1, 3 und 4, die bei Eintritt der Voraussetzung des § 2 Abs. 1 in Kraft sind, gelten unbefristet weiter.
 
@@ -96,8 +87,7 @@ auf die Landesregierungen, auch mit der Ermächtigung zur Weiterübertragung der
 
 (3) Rechtsverordnungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA), der Landesregierungen oder der von diesen ermächtigten Stellen, die auf Grund einer Rechtsverordnung nach § 5 Abs. 2 Satz 2 erlassen werden, treten spätestens mit dieser Rechtsverordnung außer Kraft.
 
-
-## § 8 – Ausführung des Gesetzes
+# § 8 – Ausführung des Gesetzes
 
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 werden von den Ländern einschließlich der Gemeinden und Gemeindeverbände im Auftrag des Bundes ausgeführt. Die Rechtsverordnungen können vorsehen, daß sie in bundeseigener Verwaltung ausgeführt werden, soweit dies für Zwecke des § 1 erforderlich ist.
 
@@ -117,13 +107,11 @@ wahrgenommen werden.
 
 (6) In Rechtsverordnungen nach den §§ 1, 3 und 4 kann die Zuständigkeit zur Ausführung dieser Verordnungen geregelt und dabei bestimmt werden, daß für die Aufgaben zur Ausführung dieser Verordnungen besondere Stellen einzurichten sind.
 
-
-## § 9 – Verfügungen
+# § 9 – Verfügungen
 
 Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für Wirtschaft und Energie und des Bundesministeriums der Finanzen können vorsehen, daß das Bundesministerium für Wirtschaft und Energie oder das Bundesministerium der Finanzen zu ihrer Ausführung Verfügungen erläßt, wenn sich der zu erforschende Sachverhalt oder die Auswirkungen der zu regelnden Angelegenheit auf mehr als ein Land erstrecken und der Zweck der Rechtsverordnungen mittels einer Weisung nach Artikel 85 Abs. 3 des Grundgesetzes und durch Verfügung der Landesbehörden nicht oder nicht rechtzeitig erreicht werden kann.
 
-
-## § 10 – Mitwirkung von Vereinigungen
+# § 10 – Mitwirkung von Vereinigungen
 
 (1) In Rechtsverordnungen nach den §§ 1, 3 und 4 kann bestimmt werden, daß
 
@@ -135,18 +123,15 @@ Die Rechtsverordnungen der Bundesregierung, des Bundesministeriums für Wirtscha
 
 (3)
 
-
-## § 11 – Vorbereitung des Vollzugs
+# § 11 – Vorbereitung des Vollzugs
 
 Der Bund, die Länder, die Gemeinden und Gemeindeverbände haben die personellen, organisatorischen und materiellen Voraussetzungen zur Durchführung der Maßnahmen zu schaffen, die für die in § 1 bezeichneten Zwecke erforderlich sind.
 
-
-## § 12 – Rechtsmittelbeschränkung
+# § 12 – Rechtsmittelbeschränkung
 
 In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem Gesetz oder einer auf diesem Gesetz beruhenden Rechtsverordnung sind die Berufung gegen ein Urteil und die Beschwerde gegen eine andere Entscheidung des Gerichts ausgeschlossen, wenn die Voraussetzung des § 2 Abs. 1 vorliegt. Dies gilt nicht, wenn das Urteil oder die andere Entscheidung des Verwaltungsgerichts vor Eintritt der Voraussetzung des § 2 Abs. 1 verkündet oder zugestellt worden ist.
 
-
-## § 13 – Kosten
+# § 13 – Kosten
 
 (1) Der Bund trägt die Kosten der Maßnahmen, die den Ländern, Gemeinden und Gemeindeverbänden durch dieses Gesetz, durch die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und allgemeinen Verwaltungsvorschriften und durch Weisungen der zuständigen Bundesbehörden für Zwecke des § 1 vorgeschrieben werden; persönliche und sächliche Verwaltungskosten werden nicht übernommen. Die Kosten einer Enteignung zugunsten eines Landes, einer Gemeinde oder eines Gemeindeverbandes sind vom Bund nicht zu erstatten.
 
@@ -154,8 +139,7 @@ In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem Gesetz 
 
 (3) Auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit ihnen zusammenhängenden Einnahmen sind die Vorschriften über das Haushaltsrecht des Bundes anzuwenden. Die für die Durchführung des Haushalts verantwortlichen Bundesbehörden können ihre Befugnisse auf die zuständigen obersten Landesbehörden übertragen und zulassen, daß auf die für Rechnung des Bundes zu leistenden Ausgaben und die mit ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften über die Kassen- und Buchführung der zuständigen Landes- und Gemeindebehörden angewendet werden.
 
-
-## § 14 – Auskünfte
+# § 14 – Auskünfte
 
 (1) Zur Durchführung der Rechtsverordnungen auf Grund dieses Gesetzes haben alle natürlichen und juristischen Personen und nichtrechtsfähigen Personenvereinigungen den zuständigen Behörden auf Verlangen die erforderlichen Auskünfte zu erteilen.
 
@@ -167,8 +151,7 @@ In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem Gesetz 
 
 (5) Die nach den Absätzen 1 bis 3 erlangten Kenntnisse und Unterlagen dürfen nicht für ein Besteuerungsverfahren, ein Strafverfahren wegen einer Steuerstraftat oder ein Bußgeldverfahren wegen einer Steuerordnungswidrigkeit verwendet werden. Die Vorschriften der §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten insoweit nicht.
 
-
-## § 15 – Entschädigung
+# § 15 – Entschädigung
 
 (1) Stellt eine Maßnahme auf Grund dieses Gesetzes oder einer nach diesem Gesetz erlassenen Rechtsverordnung eine Enteignung dar, ist eine Entschädigung in Geld zu leisten. Die Entschädigung bemißt sich nach dem für eine vergleichbare Leistung im Wirtschaftsverkehr üblichen Entgelt. Fehlt es an einer vergleichbaren Leistung oder ist ein übliches Entgelt nicht zu ermitteln, ist die Entschädigung unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bemessen.
 
@@ -176,8 +159,7 @@ In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem Gesetz 
 
 (3) Auf die Festsetzung einer Entschädigung und die Verjährung eines Anspruchs nach Absatz 1 sind die §§ 34, 49 bis 63 und 65 des Bundesleistungsgesetzes entsprechend anzuwenden. Dabei treten an die Stelle der Anforderungsbehörden die Behörden, welche die Maßnahmen im Sinne des Absatzes 1 angeordnet haben.
 
-
-## § 16 – Härteausgleich
+# § 16 – Härteausgleich
 
 (1) Wird durch eine Maßnahme auf Grund dieses Gesetzes oder einer nach diesem Gesetz erlassenen Rechtsverordnung dem Betroffenen ein Vermögensnachteil zugefügt, der nicht nach § 15 abzugelten ist, ist eine Entschädigung in Geld zu gewähren, wenn und soweit dies zur Abwendung oder zum Ausgleich unbilliger Härten geboten erscheint.
 
@@ -185,8 +167,7 @@ In einem verwaltungsgerichtlichen Verfahren über Maßnahmen nach diesem Gesetz 
 
 (3) § 15 Abs. 3 ist entsprechend anzuwenden.
 
-
-## § 17 – Zustellungen
+# § 17 – Zustellungen
 
 Für Zustellungen durch die Verwaltungsbehörde gelten die Vorschriften des Verwaltungszustellungsgesetzes mit folgender Maßgabe:
 
@@ -194,13 +175,11 @@ Für Zustellungen durch die Verwaltungsbehörde gelten die Vorschriften des Verw
 
 2. Zustellungen an Führer von Seeschiffen, Binnenschiffen und Luftfahrzeugen können auch durch Funkspruch vorgenommen werden. Eine Ausfertigung der Verfügung ist gleichzeitig dem Eigentümer oder Besitzer zu übermitteln.
 
-
-## § 18 – Zuwiderhandlung gegen Sicherstellungsmaßnahmen
+# § 18 – Zuwiderhandlung gegen Sicherstellungsmaßnahmen
 
 Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund der §§ 1, 3 oder 4 erlassenen Rechtsverordnung oder gegen eine auf Grund einer solchen Rechtsverordnung ergangene vollziehbare Verfügung verstößt, begeht eine Zuwiderhandlung im Sinne des Wirtschaftsstrafgesetzes 1954, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Vorschrift verweist.
 
-
-## § 19 – Verletzung der Auskunftspflicht
+# § 19 – Verletzung der Auskunftspflicht
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 14
 
@@ -210,13 +189,11 @@ Wer vorsätzlich oder fahrlässig gegen eine Vorschrift einer auf Grund der §§
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Deutsche Mark geahndet werden.
 
-
-## § 20
+# § 20
 
 \-
 
-
-## § 21 – Zuständige Verwaltungsbehörde
+# § 21 – Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist
 
@@ -232,17 +209,14 @@ a) soweit Bundesbehörden zur Durchführung zuständig sind und der Geld- und Ka
 
 b) soweit Landesbehörden zur Durchführung zuständig sind, die zuständige oberste Landesbehörde oder die in der Rechtsverordnung bestimmte Behörde.
 
-
-## § 22
+# § 22
 
 \-
 
-
-## § 23 – Einschränkung der Grundrechte
+# § 23 – Einschränkung der Grundrechte
 
 Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird nach Maßgabe dieses Gesetzes eingeschränkt.
 
-
-## § 24 – Inkrafttreten
+# § 24 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Juli 1965 in Kraft.

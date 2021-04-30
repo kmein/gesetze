@@ -1,10 +1,7 @@
-# [UrhG§127aAbs3Bek] Bekanntmachung nach § 127a Abs. 3 des Urheberrechtsgesetzes
-
-Ausfertigungsdatum: 19.09.2005
-
+% Bekanntmachung nach § 127a Abs. 3 des Urheberrechtsgesetzes
+% Ausfertigungsdatum: 19.09.2005
  
-
-## ----
+# ----
 
 Die in Brüssel am 26. März 2003 geschlossene Vereinbarung in Form eines Briefwechsels zwischen dem Vereinigten Königreich Großbritannien und Nordirland im Namen der Insel Man und der Europäischen Gemeinschaft über die Ausdehnung des Rechtsschutzes für Datenbanken gemäß Kapitel III der Richtlinie 96/9/EG auf die Insel Man (ABl. EU Nr. L 89 S. 11) ist nach ihrem Artikel 3 am
 
@@ -17,13 +14,11 @@ Die in Brüssel am 26. März 2003 geschlossene Vereinbarung in Form eines Briefw
 
 in Kraft getreten; sie wird nach § 127a Abs. 3 des Urheberrechtsgesetzes vom 9. September 1965 (BGBl. I S. 1273), der durch Artikel 7 Nr. 9 des Gesetzes vom 22. Juli 1997 (BGBl. I S. 1870) eingefügt worden ist, durch Veröffentlichung des Antwortschreibens der Europäischen Gemeinschaft nachstehend bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Bundesministerium der Justiz
 
-
-## ----
+# ----
 
 Herr ...,  
 ich beehre mich, den Empfang Ihres heutigen Schreibens zu bestätigen, das wie folgt lautet:
@@ -61,14 +56,12 @@ b) natürliche Personen, die ihren gewöhnlichen Aufenthalt im Hoheitsgebiet der
 
 c) Gesellschaften oder Unternehmen, die entsprechend den Rechtsvorschriften der Insel Man oder eines Mitgliedstaats der Europäischen Union gegründet wurden und ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung im Hoheitsgebiet einer relevanten Partei haben.
 
-Falls diese in Absatz 1 Buchstabe c) genannten Gesellschaften oder Unternehmen jedoch lediglich ihren satzungsmäßigen Sitz im Hoheitsgebiet einer relevanten Partei haben, so muss ihre Tätigkeit eine tatsächliche ständige Verbindung zu der Wirtschaft einer relevanten Partei aufweisen.  
-  
+Falls diese in Absatz 1 Buchstabe c) genannten Gesellschaften oder Unternehmen jedoch lediglich ihren satzungsmäßigen Sitz im Hoheitsgebiet einer relevanten Partei haben, so muss ihre Tätigkeit eine tatsächliche ständige Verbindung zu der Wirtschaft einer relevanten Partei aufweisen.   
 
 Artikel 2
 
   
-Die Schutzdauer für Datenbanken bestimmt sich nach Artikel 10 der Richtlinie 96/9/EG.  
-  
+Die Schutzdauer für Datenbanken bestimmt sich nach Artikel 10 der Richtlinie 96/9/EG.   
 
 |     |           |     |
 |:---:|:---------:|:---:|
@@ -78,7 +71,4 @@ Die Schutzdauer für Datenbanken bestimmt sich nach Artikel 10 der Richtlinie 96
 Diese Vereinbarung tritt am 1. November 2003 in Kraft.
 
 Ich wäre Ihnen verbunden, wenn Sie die Zustimmung der Europäischen Gemeinschaft zu der vorstehend aufgeführten Vereinbarung bestätigen würden; ich schlage ferner vor, dass dieses Schreiben und Ihr Antwortschreiben eine Vereinbarung zwischen unseren beiden Behörden bilden."  
-Ich beehre mich, Ihnen zu bestätigen, dass die Europäische Gemeinschaft den obigen Ausführungen zustimmt und dass Ihrem Vorschlag gemäß Ihr Schreiben zusammen mit diesem Antwortschreiben eine Vereinbarung bilden.  
-Genehmigen Sie, Herr ..., den Ausdruck meiner ausgezeichneten Hochachtung.  
-Geschehen zu Brüssel am 26. März 2003.  
-Für die Europäische Gemeinschaft
+Ich beehre mich, Ihnen zu bestätigen, dass die Europäische Gemeinschaft den obigen Ausführungen zustimmt und dass Ihrem Vorschlag gemäß Ihr Schreiben zusammen mit diesem Antwortschreiben eine Vereinbarung bilden. Genehmigen Sie, Herr ..., den Ausdruck meiner ausgezeichneten Hochachtung. Geschehen zu Brüssel am 26. März 2003. Für die Europäische Gemeinschaft

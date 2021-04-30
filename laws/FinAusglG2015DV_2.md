@@ -1,15 +1,11 @@
-# [FinAusglG2015DV 2] Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2015
-
-Ausfertigungsdatum: 05.02.2018
-
+% Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2015
+% Ausfertigungsdatum: 05.02.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 12 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2015
+# § 1 – Feststellung der Länderanteile an der Umsatzsteuer im Ausgleichsjahr 2015
 
 Für das Ausgleichsjahr 2015 werden als Länderanteile an der Umsatzsteuer festgestellt:
 
@@ -32,8 +28,7 @@ Für das Ausgleichsjahr 2015 werden als Länderanteile an der Umsatzsteuer festg
 | für Schleswig-Holstein     |  3 183 473 194,13 Euro |
 | für Thüringen              | 3 854 188 590,16 Euro. |
 
-
-## § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2015
+# § 2 – Abrechnung des Finanzausgleichs unter den Ländern im Ausgleichsjahr 2015
 
 Für das Ausgleichsjahr 2015 wird der Finanzausgleich unter den Ländern wie folgt festgestellt:
 
@@ -63,8 +58,7 @@ Für das Ausgleichsjahr 2015 wird der Finanzausgleich unter den Ländern wie fol
 | an Schleswig-Holstein     |   249 383 566,03 Euro |
 | an Thüringen              |  585 136 499,95 Euro. |
 
-
-## § 3 – Abschlusszahlungen für 2015
+# § 3 – Abschlusszahlungen für 2015
 
 Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Länderanteilen an der Umsatzsteuer nach § 1, den vorläufig gezahlten und den endgültig festgestellten Ausgleichsbeiträgen und Ausgleichszuweisungen nach § 2 werden nach § 15 des Finanzausgleichsgesetzes mit dem Inkrafttreten dieser Verordnung fällig:
 
@@ -94,12 +88,10 @@ Zum Ausgleich der Unterschiede zwischen den vorläufig gezahlten und den endgül
 | an Schleswig-Holstein     |  2 103 910,32 Euro |
 | an Thüringen              | 4 649 804,91 Euro. |
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am siebenten Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2015 vom 27. März 2015 (BGBl. I S. 365) außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

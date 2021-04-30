@@ -1,25 +1,19 @@
-# [VerfGlasAusbV] Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
-
-Ausfertigungsdatum: 19.06.2000
-
+% Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
+% Ausfertigungsdatum: 19.06.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288), verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verfahrensmechaniker Glastechnik/Verfahrensmechanikerin Glastechnik wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -63,25 +57,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 20. Vertiefungsphase.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, dass der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -103,8 +93,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 6. Elektrotechnik.
 
-
-## § 8 – Abschlussprüfung
+# § 8 – Abschlussprüfung
 
 (1) Die Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -117,8 +106,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 3. Durchführen einer Arbeit zur Sicherung der Produktqualität.
 
 Für die praktische Aufgabe 4 kommt insbesondere in Betracht:  
-Durchführen einer Arbeit aus einem der Bereiche Glasveredlung und -weiterverarbeitung, Elektrotechnik, Metallbearbeitung oder Automatisierungstechnik.  
-Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe selbständig planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen sowie die relevanten fachlichen Hintergründe seiner Arbeit und seine Vorgehensweise aufzeigen kann.
+Durchführen einer Arbeit aus einem der Bereiche Glasveredlung und -weiterverarbeitung, Elektrotechnik, Metallbearbeitung oder Automatisierungstechnik. Dabei soll der Prüfling zeigen, dass er die Arbeitsabläufe selbständig planen, Arbeitszusammenhänge erkennen, Arbeitsergebnisse kontrollieren und dokumentieren, Maßnahmen zur Sicherheit und zum Gesundheitsschutz bei der Arbeit sowie zum Umweltschutz ergreifen sowie die relevanten fachlichen Hintergründe seiner Arbeit und seine Vorgehensweise aufzeigen kann.
 
 (3) Der Prüfling soll im schriftlichen Teil der Prüfung in den nachfolgend genannten Prüfungsbereichen Glasherstellung und -weiterverarbeitung, Technische Kommunikation sowie Wirtschafts- und Sozialkunde geprüft werden. In den Prüfungsbereichen Glasherstellung und -weiterverarbeitung sowie Technische Kommunikation sind insbesondere durch Verknüpfung informationstechnischer, technologischer und mathematischer Fragestellungen fachliche Probleme zu analysieren, zu bewerten und geeignete Lösungswege darzustellen. Es kommen Aufgaben, die sich auf praxisbezogene Fälle beziehen sollen, insbesondere aus folgenden Gebieten in Betracht:
 
@@ -182,18 +170,15 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung sowie innerhalb des schriftlichen Teils der Prüfung im Prüfungsbereich Glasherstellung und -weiterverarbeitung mindestens ausreichende Leistungen erbracht wurden.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
-
-## Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
+# Anlage – (zu § 4)  Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik
 
 (Fundstelle: BGBl. I 2000, 867 - 871)
 

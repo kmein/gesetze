@@ -1,10 +1,7 @@
-# [PrüfbV] Verordnung über die Prüfung der Jahresabschlüsse der Kreditinstitute und Finanzdienstleistungsinstitute sowie über die darüber zu erstellenden Berichte  (Prüfungsberichtsverordnung - PrüfbV)
-
-Ausfertigungsdatum: 11.06.2015
-
+% Verordnung über die Prüfung der Jahresabschlüsse der Kreditinstitute und Finanzdienstleistungsinstitute sowie über die darüber zu erstellenden Berichte  (Prüfungsberichtsverordnung - PrüfbV)
+% Ausfertigungsdatum: 11.06.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet auf Grund
 
@@ -14,8 +11,7 @@ des § 68 Absatz 8 des Kapitalanlagegesetzbuchs vom 4. Juli 2013 (BGBl. I S. 198
 –  
 des § 29 Absatz 4 des Kreditwesengesetzes, der durch Artikel 2 Nummer 34 Buchstabe b des Gesetzes vom 27. Juni 2013 (BGBl. I S. 1862) geändert worden ist, in Verbindung mit § 1 Nummer 5 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 6 der Verordnung vom 30. Januar 2014 (BGBl. I S. 322) geändert worden ist, sowie in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Anhörung der Deutschen Bundesbank:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -117,8 +113,7 @@ des § 29 Absatz 4 des Kreditwesengesetzes, der durch Artikel 2 Nummer 34 Buchst
 
 (6) (weggefallen)
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt
 
@@ -128,8 +123,7 @@ Diese Verordnung regelt
 
 Für Wohnungsunternehmen mit Spareinrichtung regelt diese Verordnung zusätzlich Gegenstand und Zeitpunkt der Prüfung nach § 51a Absatz 8 des Kreditwesengesetzes.
 
-
-## § 2 – Berichtszeitraum
+# § 2 – Berichtszeitraum
 
 (1) Der Zeitraum, auf den sich die Prüfung erstreckt (Berichtszeitraum), ist in der Regel das am Stichtag des Jahresabschlusses (Bilanzstichtag) endende Geschäftsjahr (Berichtsjahr). Bei vom Geschäftsjahr abweichenden Berichtszeiträumen muss sich die Prüfung mindestens auf das Geschäftsjahr erstrecken, das am Bilanzstichtag endet.
 
@@ -137,13 +131,11 @@ Für Wohnungsunternehmen mit Spareinrichtung regelt diese Verordnung zusätzlich
 
 (3) Bestandsbezogene Angaben im Prüfungsbericht haben sich, soweit sich aus dieser Verordnung nichts anderes ergibt, auf den Bilanzstichtag zu beziehen.
 
-
-## § 3 – Risikoorientierung und Wesentlichkeit
+# § 3 – Risikoorientierung und Wesentlichkeit
 
 Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit ist Rechnung zu tragen. Dabei sind insbesondere die Größe des Instituts, der Geschäftsumfang sowie die Komplexität und der Risikogehalt der betriebenen Geschäfte zu berücksichtigen.
 
-
-## § 4 – Art und Umfang der Berichterstattung
+# § 4 – Art und Umfang der Berichterstattung
 
 (1) Der Umfang der Berichterstattung hat, vorbehaltlich der nachfolgenden Bestimmungen, der Bedeutung und dem Risikogehalt der dargestellten Vorgänge zu entsprechen.
 
@@ -159,18 +151,15 @@ Den Grundsätzen der risikoorientierten Prüfung und der Wesentlichkeit ist Rech
 
 (7) Im Prüfungsbericht ist darzulegen, wie die bei der letzten Prüfung festgestellten Mängel beseitigt oder welche Maßnahmen zu ihrer Beseitigung eingeleitet worden sind.
 
-
-## § 5 – Form und Frist der Berichterstattung
+# § 5 – Form und Frist der Berichterstattung
 
 Jeder Prüfungsbericht und jeder Teilprüfungsbericht ist unverzüglich nach Fertigstellung bei der zuständigen Hauptverwaltung der Deutschen Bundesbank in einfacher Ausfertigung sowie bei der Bundesanstalt in zweifacher Ausfertigung in Papierform einzureichen. Zusätzlich ist jeweils eine elektronische Fassung des Berichts einzureichen. Die Bundesanstalt kann nach Anhörung der Deutschen Bundesbank Vorgaben machen, in welchem Dateiformat und auf welchem Einreichungsweg die elektronische Fassung bei ihr einzureichen ist. Bei Prüfungsberichten, die nur auf Anforderung bei der Bundesanstalt einzureichen sind, bestimmt diese in ihrer Anforderung die Zahl der Ausfertigungen und deren Form.
 
-
-## § 6 – Anlagen
+# § 6 – Anlagen
 
 Soweit erläuternde Darstellungen zu den in dieser Verordnung geforderten Angaben erstellt werden, können diese zum Zweck der Verbesserung der Lesbarkeit in Form von Anlagen zum Prüfungsbericht vorgelegt werden, wenn im Prüfungsbericht selbst eine hinreichende Beurteilung erfolgt und die Berichterstattung in Anlagen den Prüfungsbericht nicht unübersichtlich macht.
 
-
-## § 7 – Zusammenfassende Schlussbemerkung
+# § 7 – Zusammenfassende Schlussbemerkung
 
 (1) In einer zusammenfassenden Schlussbemerkung ist, soweit dies nicht bereits im Rahmen der dem Bericht vorangestellten Ausführungen nach § 321 Absatz 1 Satz 2 des Handelsgesetzbuchs erfolgt ist, zu allen wichtigen Fragen so Stellung zu nehmen, dass aus ihr selbst ein Gesamturteil gewonnen werden kann über
 
@@ -190,15 +179,13 @@ Hinsichtlich der wirtschaftlichen Lage des Instituts ist insbesondere auf die ge
 
 (4) Bei Instituten, die das Finanzierungsleasing betreiben (§ 1 Absatz 1a Nummer 10 des Kreditwesengesetzes), ist dazu Stellung zu nehmen, ob der Berechnung des Substanzwertes nachvollziehbare und plausible Angaben und Annahmen zugrunde liegen.
 
-
-## § 8 – Berichtsturnus; Unterzeichnung
+# § 8 – Berichtsturnus; Unterzeichnung
 
 (1) Soweit der Prüfer nach dieser Verordnung verpflichtet ist, nur über Änderungen zu berichten, hat der Prüfer in angemessenen Abständen über die Darstellung der Änderungen hinausgehend vollständig zu berichten.
 
 (2) Der Prüfungsbericht ist unter Angabe von Ort und Datum zu unterzeichnen.
 
-
-## § 9 – Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
+# § 9 – Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen
 
 (1) Es ist zu berichten über die Ausschöpfung und Überschreitung der Erlaubnis zum Betreiben von Bankgeschäften und der Erbringung von Finanzdienstleistungen sowie über die Erfüllung damit verbundener Auflagen im Berichtszeitraum.
 
@@ -228,8 +215,7 @@ Hinsichtlich der wirtschaftlichen Lage des Instituts ist insbesondere auf die ge
 
 (5) Der Abschlussprüfer hat darüber zu berichten, ob die Anordnungen der Bundesanstalt nach § 6 Absatz 1 Satz 3 des Wertpapierhandelsgesetzes eingehalten werden.
 
-
-## § 10 – Zweigniederlassungen
+# § 10 – Zweigniederlassungen
 
 Der Abschlussprüfer hat über die wesentlichen ausländischen Zweigniederlassungen des Instituts zu berichten. Dabei ist für diese Zweigniederlassungen Folgendes zu beurteilen:
 
@@ -241,8 +227,7 @@ Der Abschlussprüfer hat über die wesentlichen ausländischen Zweigniederlassun
 
 (+++ § 10: Zur Anwendung vgl. § 30 Abs. 1 +++)
 
-
-## § 11 – Angemessenheit und Wirksamkeit des Risikomanagements und Ordnungsmäßigkeit der Geschäftsorganisation
+# § 11 – Angemessenheit und Wirksamkeit des Risikomanagements und Ordnungsmäßigkeit der Geschäftsorganisation
 
 (1) Der Abschlussprüfer hat die Angemessenheit und Wirksamkeit des Risikomanagements gemäß § 25a Absatz 1 Satz 3 des Kreditwesengesetzes sowie die weiteren Anforderungen an die Ordnungsmäßigkeit der Geschäftsorganisation gemäß § 25a Absatz 1 Satz 6 Nummer 1 des Kreditwesengesetzes unter Berücksichtigung der Komplexität und des Risikogehaltes der betriebenen Geschäfte zu beurteilen. Dabei ist insbesondere auf Adressenausfallrisiken und Marktpreisrisiken einschließlich der Zinsänderungsrisiken des Anlagebuchs, der Liquiditätsrisiken und operationellen Risiken sowie den damit verbundenen Risikokonzentrationen gesondert einzugehen. Betreibt das Institut algorithmischen Handel im Sinne des BaFin-Rundschreibens 6/2013 (BA) – Anforderungen an Systeme und Kontrollen für den Algorithmushandel von Instituten – vom 18. Dezember 2013, veröffentlicht auf der Internetseite der Bundesanstalt, hat der Abschlussprüfer auch darüber zu berichten, ob diese Anforderungen vom Institut erfüllt werden.
 
@@ -268,8 +253,7 @@ Der Abschlussprüfer hat über die wesentlichen ausländischen Zweigniederlassun
 
 (+++ § 11: Zur Anwendung vgl. § 46 Abs. 1 Satz 2 +++)
 
-
-## § 12 – Vergütungssysteme
+# § 12 – Vergütungssysteme
 
 (1) Der Abschlussprüfer hat darüber zu berichten, ob sich das Institut als bedeutendes Institut im Sinne der Institutsvergütungsverordnung eingestuft hat oder eingestuft wurde. Dabei ist gegebenenfalls auch auf die Risikoanalyse einzugehen, die zur Einstufung als nicht bedeutendes Institut geführt hat.
 
@@ -306,8 +290,7 @@ b) die festgelegte Obergrenze für das Verhältnis zwischen variabler und fixer 
 (+++ § 12: Zur Anwendung vgl. § 30 Abs. 1 +++)  
 (+++ § 12 Abs 2, 3: Zur Anwendung vgl. § 63 Abs. 1 Satz 1 +++)
 
-
-## § 13 – IT-Systeme
+# § 13 – IT-Systeme
 
 (1) Der Abschlussprüfer hat im Rahmen der Beurteilung nach § 11 Absatz 2 Nummer 5 und 6 insbesondere darzustellen und zu beurteilen, ob die organisatorischen, personellen und technischen Vorkehrungen zur Sicherstellung der Integrität, Vertraulichkeit, Authentizität und Verfügbarkeit der bankaufsichtlich relevanten Daten angemessen sind und wirksam umgesetzt werden. Insbesondere ist einzugehen auf
 
@@ -325,8 +308,7 @@ b) die festgelegte Obergrenze für das Verhältnis zwischen variabler und fixer 
 
 (+++ § 13: Zur Anwendung vgl. § 30 Abs. 1 u. § 63 Abs. 2 Eingangssatz +++)
 
-
-## § 14 – Zinsänderungsrisiken im Anlagebuch
+# § 14 – Zinsänderungsrisiken im Anlagebuch
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung der Auswirkungen einer nach § 25a Absatz 2 Satz 1 des Kreditwesengesetzes vorgegebenen plötzlichen und unerwarteten Zinsänderung sowie zur Handhabung der Meldepflicht gemäß den Positionen 378 bis 430 der Anlagen 12 und 13 der Finanz- und Risikotragfähigkeitsinformationenverordnung angemessen sind. Dabei ist insbesondere auf Änderungen gegenüber dem letzten Berichtszeitraum einzugehen.
 
@@ -336,8 +318,7 @@ b) die festgelegte Obergrenze für das Verhältnis zwischen variabler und fixer 
 
 (+++ § 14: Zur Anwendung vgl. § 63 Abs. 2 Eingangssatz +++)
 
-
-## § 14a – Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
+# § 14a – Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012
 
 (1) Der Abschlussprüfer hat die Verfahren zur Ermittlung aller OTC-Derivate-Kontrakte, die der Pflicht zum Clearing durch eine zentrale Gegenpartei unterliegen, und die Einhaltung der Clearingpflicht gemäß Artikel 4 Absatz 1, 2 und 3 Unterabsatz 2 sowie Artikel 4a der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S. 1), auch in Verbindung mit einer aufgrund des § 31 Satz 1 des Wertpapierhandelsgesetzes erlassenen Rechtsverordnung, zu beurteilen. Unterliegen gruppeninterne Transaktionen der Ausnahme des Artikels 4 Absatz 2 der Verordnung (EU) Nr. 648/2012, so sind die organisatorischen Maßnahmen zur Einhaltung der damit verbundenen Voraussetzungen zu beurteilen.
 
@@ -361,8 +342,7 @@ b) die festgelegte Obergrenze für das Verhältnis zwischen variabler und fixer 
 
 (6) Sofern die Erfüllung der in den Absätzen 1 bis 5 genannten Pflichten oder Prozesse durch das Institut vertraglich auf eine dritte Person oder ein anderes Unternehmen übertragen worden ist, hat der Abschlussprüfer hierüber zu berichten.
 
-
-## § 15 – Sanierungsplanung
+# § 15 – Sanierungsplanung
 
 (1) Im Rahmen der Prüfung nach § 29 Absatz 1 Satz 7 des Kreditwesengesetzes ist zu beurteilen, ob der Sanierungsplan die Voraussetzungen nach § 12 Absatz 1 sowie nach § 13 Absatz 1 bis 4 des Sanierungs- und Abwicklungsgesetzes erfüllt. Der Prüfer hat die wesentlichen für die Sanierungsplanung relevanten Aspekte auf sachliche Richtigkeit und Angemessenheit zu prüfen. Der Prüfer hat dabei gegebenenfalls festgelegte vereinfachte Anforderungen nach § 19 des Sanierungs- und Abwicklungsgesetzes zu berücksichtigen. Soweit der Sanierungsplan Annahmen, Wertungen oder Schlussfolgerungen enthält, sind diese auf ihre Plausibilität und Nachvollziehbarkeit zu prüfen. Insbesondere hat der Prüfer zu beurteilen:
 
@@ -384,29 +364,25 @@ b) die festgelegte Obergrenze für das Verhältnis zwischen variabler und fixer 
 
 (+++ § 15: Zur Anwendung vgl. § 63 Abs. 1 Satz 1, Abs. 2 Eingangssatz, Abs. 3 +++)
 
-
-## § 16 – Vorgaben für das Handelsbuch
+# § 16 – Vorgaben für das Handelsbuch
 
 Es ist zu beurteilen, ob das Institut im Berichtszeitraum die Vorgaben nach den Artikeln 102 bis 104 und 106 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1), insbesondere für die Zurechnung von Positionen zum Handelsbuch und für die Führung des Handelsbuchs, erfüllte.
 
 (+++ § 16: Zur Anwendung vgl. § 63 Abs. 3 +++)
 
-
-## § 17 – Ausnahme für Handelsbuchtätigkeiten von geringem Umfang
+# § 17 – Ausnahme für Handelsbuchtätigkeiten von geringem Umfang
 
 Sofern das Institut im Berichtszeitraum von der Ausnahme für Handelsbuchtätigkeiten von geringem Umfang Gebrauch gemacht hat, ist zu beurteilen, ob die Aufbau- und Ablauforganisation des Instituts die Feststellung eventueller Überschreitungen der Grenzen nach Artikel 94 Absatz 1 der Verordnung (EU) Nr. 575/2013 gewährleistet und ob die Grenzen im Berichtszeitraum eingehalten wurden. Überschreitungen der Grenzen sind in dem Bericht gegliedert nach der Höhe des Betrags und der Dauer sowie des Prozentsatzes der Überschreitung anzugeben.
 
 (+++ § 17: Zur Anwendung vgl. § 63 Abs. 1 Satz 1, Abs. 2 Eingangssatz, Abs. 3 +++)
 
-
-## § 18 – Ermittlung der Eigenmittel
+# § 18 – Ermittlung der Eigenmittel
 
 Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung des harten Kernkapitals, des zusätzlichen Kernkapitals und des Ergänzungskapitals im Rahmen der bankaufsichtlichen Meldungen angemessen sind. Dabei sind wesentliche Verfahrensänderungen während des Berichtszeitraums darzustellen.
 
 (+++ § 18: Zur Anwendung vgl. § 63 Abs. 3 +++)
 
-
-## § 19 – Eigenmittel
+# § 19 – Eigenmittel
 
 (1) Darzustellen sind die Höhe und die Zusammensetzung der Eigenmittel des Instituts nach Artikel 72 der Verordnung (EU) Nr. 575/2013 nach dem Stand bei Geschäftsschluss am Bilanzstichtag und unter der Annahme der Feststellung des geprüften Abschlusses, bei Zweigstellen im Sinne des § 53 Absatz 1 des Kreditwesengesetzes unter Berücksichtigung der Besonderheiten des § 53 Absatz 2 Nummer 4 des Kreditwesengesetzes. Die bei anderen Instituten, Finanzunternehmen, Erstversicherungsunternehmen und Rückversicherungsunternehmen aufgenommenen oder gehaltenen Eigenmittelbestände sind unter namentlicher Nennung dieser Unternehmen besonders zu kennzeichnen.
 
@@ -422,8 +398,7 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 
 (+++ § 19: Zur Anwendung vgl. § 30 Abs. 1 u. § 63 Abs. 3 +++)
 
-
-## § 20 – Kapitalpuffer
+# § 20 – Kapitalpuffer
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung der kombinierten Kapitalpuffer-Anforderung gemäß § 10i Absatz 1 des Kreditwesengesetzes angemessen sind. Dabei sind wesentliche Verfahrensänderungen während des Berichtszeitraums darzustellen.
 
@@ -431,8 +406,7 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 
 (+++ § 20: Zur Anwendung vgl. § 30 Abs. 1 u. § 63 Abs. 1 Satz 1, Abs. 2 Eingangssatz, Abs. 3 +++)
 
-
-## § 21 – Kapitalquoten
+# § 21 – Kapitalquoten
 
 (1) Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung der Kapitalquoten nach Artikel 92 Absatz 1 der Verordnung (EU) Nr. 575/2013 angemessen sind.
 
@@ -441,15 +415,13 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 (+++ § 21: Zur Anwendung vgl. § 30 Abs. 1, § 63 Abs. 3 +++)  
 (+++ § 21 Abs. 2: Zur Anwendung vgl. § 63 Abs. 1 Satz 1, Abs. 2 Eingangssatz +++)
 
-
-## § 22 – Solvabilitätskennzahl bei Wohnungsunternehmen mit Spareinrichtung
+# § 22 – Solvabilitätskennzahl bei Wohnungsunternehmen mit Spareinrichtung
 
 (1) Für Wohnungsunternehmen mit Spareinrichtung ist zu beurteilen, ob die vom Wohnungsunternehmen mit Spareinrichtung getroffenen Vorkehrungen zur ordnungsgemäßen Ermittlung der Solvabilitätskennzahl nach § 2 Absatz 4 der Wohnungsunternehmen-Solvabilitätsverordnung angemessen sind. Dabei ist insbesondere auf Änderungen gegenüber dem letzten Berichtszeitraum einzugehen.
 
 (2) Für Wohnungsunternehmen mit Spareinrichtung ist die Ermittlung der Solvabilitätskennzahl zum Bilanzstichtag gegliedert nach den jeweiligen Anrechnungsbeträgen darzustellen. Die Entwicklung der Eigenkapitalquote ist darzustellen.
 
-
-## § 23 – Liquiditätslage
+# § 23 – Liquiditätslage
 
 (1) Die Liquiditätslage und die Liquiditätssteuerung sind zu beurteilen. Über Maßnahmen zur Verbesserung der Liquiditätslage ist zu berichten.
 
@@ -458,20 +430,17 @@ Es ist zu beurteilen, ob die vom Institut getroffenen Vorkehrungen zur ordnungsg
 (+++ § 23: Zur Anwendung vgl. § 30 Abs. 2 +++)  
 (+++ § 23 Abs. 2: Zur Anwendung vgl. § 63 Abs. 3 +++)
 
-
-## § 24 – Offenlegungsanforderungen
+# § 24 – Offenlegungsanforderungen
 
 Der Prüfer hat die Angemessenheit der Prozesse zur Ermittlung und Offenlegung der Informationen nach Teil 8 der Verordnung (EU) Nr. 575/2013 und § 26a des Kreditwesengesetzes zu beurteilen. Im Prüfungsbericht ist darauf einzugehen, ob das Institut die in Teil 8 der Verordnung (EU) Nr. 575/2013 und § 26a des Kreditwesengesetzes geforderten Offenlegungspflichten erfüllt hat.
 
 (+++ § 24: Zur Anwendung vgl. § 63 Abs. 1 Satz 1, Abs. 2 Eingangssatz, Abs. 3 +++)
 
-
-## § 25 – Anzeigewesen
+# § 25 – Anzeigewesen
 
 Die Organisation des Anzeige- und Meldewesens ist zu beurteilen. Die Vorkehrungen des Instituts für die Sicherstellung der Vollständigkeit und Richtigkeit der Anzeigen und Meldungen sind zu beurteilen, festgestellte wesentliche Verstöße sind aufzuführen.
 
-
-## § 26 – Zeitpunkt der Prüfung und Berichtszeitraum
+# § 26 – Zeitpunkt der Prüfung und Berichtszeitraum
 
 (1) Die Prüfung der Vorkehrungen der Institute zur Verhinderung von Geldwäsche und der Terrorismusfinanzierung sowie sonstiger strafbarer Handlungen findet einmal jährlich statt. Der Prüfer legt den Beginn der Prüfung und den Berichtszeitraum vorbehaltlich der nachfolgenden Bestimmungen nach pflichtgemäßem Ermessen fest.
 
@@ -491,8 +460,7 @@ sowie
 
 2. Institute, die ausschließlich das Finanzierungsleasing nach § 1 Absatz 1a Satz 2 Nummer 10 des Kreditwesengesetzes betreiben.
 
-
-## § 27 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen
+# § 27 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen
 
 (1) Der Prüfer hat im Prüfungsbericht die Vorkehrungen darzustellen, die das verpflichtete Institut im Berichtszeitraum zur Verhinderung von Geldwäsche und von Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen getroffen hat. Die Ausführungen des Prüfers müssen sich auf sämtliche im Erfassungsbogen nach Anlage 5 aufgeführte Pflichten erstrecken.
 
@@ -546,8 +514,7 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 (10) Die Vorschrift zum Prüfintervall nach § 26 Absatz 4 bleibt durch die vorstehenden Absätze unberührt.
 
-
-## § 28 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
+# § 28 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Kreditinstitut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom 9.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L 94 vom 30.3.2012, S. 22) geändert worden ist, entsprechen. Dabei ist zu beurteilen, ob die folgenden Bestimmungen eingehalten werden:
 
@@ -561,8 +528,7 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 (3) Sofern das Kreditinstitut das Treffen interner Vorkehrungen vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert hat, hat der Abschlussprüfer hierüber zu berichten.
 
-
-## § 29 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
+# § 29 – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Kreditinstitut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) Nr. 260/2012 entsprechen. Dabei ist zu beurteilen, ob
 
@@ -576,8 +542,7 @@ c) deren Anzahl in Drittstaaten und von diesen Zweigstellen, Zweigniederlassunge
 
 (3) Sofern das Kreditinstitut die Durchführung interner Vorkehrungen vertraglich auf eine dritte Person oder ein anderes Unternehmen ausgelagert hat, hat der Abschlussprüfer hierüber zu berichten.
 
-
-## § 29a – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
+# § 29a – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Institut getroffenen internen Vorkehrungen den Anforderungen der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1) entsprechen. Dabei ist zu beurteilen, ob
 
@@ -593,8 +558,7 @@ eingehalten werden.
 
 (+++ § 29a: Zur Anwendung vgl. § 71 Abs. 2 +++)
 
-
-## § 29b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
+# § 29b – Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
 
 (1) Bei Kreditinstituten hat der Abschlussprüfer zu beurteilen, ob die von dem Kreditinstitut getroffenen internen Vorkehrungen den Anforderungen des Zahlungskontengesetzes entsprechen. Die Beurteilung umfasst die Einhaltung der Bestimmungen zu
 
@@ -618,8 +582,7 @@ b) die Einhaltung der Regelungen zur Zulässigkeit sowie zur Form und Frist von 
 
 (+++ § 29b: Zur Anwendung vgl. § 71 Abs. 3 +++)
 
-
-## § 30 – Ausnahmen für gruppenangehörige Institute
+# § 30 – Ausnahmen für gruppenangehörige Institute
 
 (1) Auf gruppenangehörige Unternehmen von Institutsgruppen und Finanzholding-Gruppen, die die Bundesanstalt gemäß § 2a Absatz 2 des Kreditwesengesetzes freigestellt hat, sind nach Maßgabe der Freistellung die Vorschriften des § 10 betreffend das interne Kontrollverfahren, der §§ 12, 13, 19, 20, 21 sowie des § 31 Absatz 1 Satz 3 und des § 34 Absatz 3 dieser Verordnung nicht anwendbar.
 
@@ -627,8 +590,7 @@ b) die Einhaltung der Regelungen zur Zulässigkeit sowie zur Form und Frist von 
 
 (3) Der Abschlussprüfer hat darüber zu berichten, ob die Voraussetzungen gemäß § 2a des Kreditwesengesetzes vorliegen.
 
-
-## § 31 – Berichterstattung über das Kreditgeschäft und das Verbriefungsgeschäft
+# § 31 – Berichterstattung über das Kreditgeschäft und das Verbriefungsgeschäft
 
 (1) Es sind die wesentlichen strukturellen Merkmale und Risiken des Kreditgeschäfts nach § 19 des Kreditwesengesetzes darzustellen und zu beurteilen. Dabei ist auch auf die Finanzinstrumente einzugehen, die das Institut für eigene Rechnung handelt. Auf wesentliche Besonderheiten ist hinzuweisen. Dabei ist auch zu beurteilen, ob die Artikel 387 bis 403 der Verordnung (EU) Nr. 575/2013 sowie die Artikel 5 bis 9, 18 bis 26, 27 Absatz 1 und 4 und Artikel 43 Absatz 5 und 6 der Verordnung (EU) 2017/2402 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 zur Festlegung eines allgemeinen Rahmens für Verbriefungen und zur Schaffung eines spezifischen Rahmens für einfache, transparente und standardisierte Verbriefung und zur Änderung der Richtlinien 2009/65/EG, 2009/138/EG, 2011/61/EU und der Verordnungen (EG) Nr. 1060/2009 und (EU) Nr. 648/2012 (ABl. L 347 vom 28.12.2017, S. 35) eingehalten werden. Zudem ist über die Einhaltung des § 15 des Kreditwesengesetzes betreffend Organkredite zu berichten.
 
@@ -643,15 +605,13 @@ b) die Einhaltung der Regelungen zur Zulässigkeit sowie zur Form und Frist von 
 (+++ § 31: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)  
 (+++ § 31 Abs. 1 Satz 3: Zur Anwendung vgl. § 30 Abs. 1 +++)
 
-
-## § 32 – Länderrisiko
+# § 32 – Länderrisiko
 
 Der Umfang der von dem Institut eingegangenen Länderrisiken insgesamt sowie die Methode zu ihrer Steuerung und Überwachung sind zu beurteilen. Insbesondere ist zu beurteilen, ob die Einschätzung der Länderrisiken auf der Grundlage von geeigneten Analysen erfolgt.
 
 (+++ § 32: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)
 
-
-## § 33 – Organkredite
+# § 33 – Organkredite
 
 (1) Sämtliche Organkredite nach § 15 des Kreditwesengesetzes sind in die Auswahl der zu prüfenden Kredite einzubeziehen.
 
@@ -669,8 +629,7 @@ Der Umfang der von dem Institut eingegangenen Länderrisiken insgesamt sowie die
 
 (+++ § 33: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)
 
-
-## § 34 – Bemerkenswerte Kredite
+# § 34 – Bemerkenswerte Kredite
 
 (1) Bemerkenswerte Kredite sind nach Risikogruppen gegliedert einzeln zu besprechen und in einem Gesamtverzeichnis unter Angabe der Fundstelle aufzuführen. Die Werthaltigkeit dieser Kredite ist nach Maßgabe des § 35 zu beurteilen. Wenn Kreditnehmer nach Artikel 4 Absatz 1 Nummer 39 der Verordnung (EU) Nr. 575/2013 zusammenzufassen sind, so ist die Gesamtheit der Kredite dieser Kreditnehmer zugrunde zu legen.
 
@@ -691,8 +650,7 @@ Der Umfang der von dem Institut eingegangenen Länderrisiken insgesamt sowie die
 (+++ § 34: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)  
 (+++ § 34 Abs. 3: Zur Anwendung vgl. § 30 Abs. 1 +++)
 
-
-## § 35 – Beurteilung der Werthaltigkeit von Krediten
+# § 35 – Beurteilung der Werthaltigkeit von Krediten
 
 (1) Bei der Beurteilung der Werthaltigkeit der Kredite im Sinne des § 34 Absatz 2 Nummer 1 ist auch zu beurteilen, ob die gebildete Risikovorsorge angemessen ist.
 
@@ -702,15 +660,13 @@ Der Umfang der von dem Institut eingegangenen Länderrisiken insgesamt sowie die
 
 (+++ § 35: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)
 
-
-## § 36 – Einhaltung der Offenlegungsvorschriften des § 18 des Kreditwesengesetzes
+# § 36 – Einhaltung der Offenlegungsvorschriften des § 18 des Kreditwesengesetzes
 
 Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des Kreditwesengesetzes beachtet wurde. Der Abschlussprüfer hat die Angemessenheit der institutsspezifischen Verfahren zu beurteilen.
 
 (+++ § 36: Zur Anwendung vgl. § 63 Abs. 1 Satz 2, Abs. 2 Eingangssatz +++)
 
-
-## § 37 – Sorgfaltspflichten für institutionelle Anleger in Bezug auf Verbriefungspositionen
+# § 37 – Sorgfaltspflichten für institutionelle Anleger in Bezug auf Verbriefungspositionen
 
 (1) Bei der Beurteilung, ob die Anforderungen für Verbriefungspositionen erfüllt sind, sind auch die von einem Institut implementierten schriftlich fixierten Verfahren darzustellen, die das Institut zur Erfüllung der in Artikel 5 der Verordnung (EU) 2017/2402 genannten Sorgfaltspflichten in Bezug auf die Verbriefungspositionen verwendet, die von ihm im Handelsbuch und im Anlagebuch gehalten werden.
 
@@ -718,8 +674,7 @@ Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des Kreditwese
 
 (+++ § 37: Zur Anwendung vgl. § 63 Abs. 1 Satz 1 u. 2, Abs. 2 Eingangssatz +++)
 
-
-## § 38 – Geschäftliche Entwicklung im Berichtsjahr
+# § 38 – Geschäftliche Entwicklung im Berichtsjahr
 
 (1) Die geschäftliche Entwicklung des Instituts ist unter Gegenüberstellung der für sie kennzeichnenden Zahlen des Berichtsjahres und des Vorjahres darzustellen und zu erläutern.
 
@@ -727,8 +682,7 @@ Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des Kreditwese
 
 (3) Bei Kreditinstituten, die einem genossenschaftlichen oder einem wohnungswirtschaftlichen Prüfungsverband angeschlossen sind oder von der Prüfungsstelle eines Sparkassen- und Giroverbandes geprüft werden, sind bei der Darstellung und Beurteilung der Vermögens-, Liquiditäts- und Ertragslage zum Vergleich auch Kennziffern für die Gesamtheit der Kreditinstitute oder von Gruppen vergleichbarer Kreditinstitute des betreffenden Prüfungsverbandes oder des Bereiches der betreffenden Prüfungsstelle (Durchschnittskennziffern) heranzuziehen.
 
-
-## § 39 – Entwicklung der Vermögenslage
+# § 39 – Entwicklung der Vermögenslage
 
 (1) Die Entwicklung der Vermögenslage des Instituts ist zu beurteilen. Besonderheiten, die für die Beurteilung der Vermögenslage von Bedeutung sind, insbesondere Art und Umfang bilanzunwirksamer Ansprüche und Verpflichtungen, sind hervorzuheben.
 
@@ -740,8 +694,7 @@ Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des Kreditwese
 
 3. alle abgegebenen Patronatserklärungen; dazu ist der Inhalt dieser Erklärungen darzustellen und ihre Rechtsverbindlichkeit zu beurteilen.
 
-
-## § 40 – Entwicklung der Ertragslage
+# § 40 – Entwicklung der Ertragslage
 
 (1) Die Entwicklung der Ertragslage des Instituts ist zu beurteilen.
 
@@ -749,15 +702,13 @@ Bei Kreditinstituten ist zu prüfen, ob im Berichtszeitraum § 18 des Kreditwese
 
 (3) Mögliche Auswirkungen von Risiken auf die Entwicklung der Ertragslage sind darzustellen; dies gilt insbesondere für Zinsänderungsrisiken.
 
-
-## § 41 – Risikolage und Risikovorsorge
+# § 41 – Risikolage und Risikovorsorge
 
 (1) Die Risikolage des Instituts ist zu beurteilen.
 
 (2) Das Verfahren zur Ermittlung der Risikovorsorge ist darzustellen und zu beurteilen. Art, Umfang und Entwicklung der Risikovorsorge sind zu erläutern und die Angemessenheit der Risikovorsorge ist zu beurteilen. Ist für den Zeitraum nach dem Bilanzstichtag neuer Risikovorsorgebedarf bekannt geworden, so ist hierüber zu berichten.
 
-
-## § 42 – Erläuterungen
+# § 42 – Erläuterungen
 
 (1) Die Bilanzposten, die Angaben unter dem Bilanzstrich und die Posten der Gewinn- und Verlustrechnung sind unter Berücksichtigung des Grundsatzes der Wesentlichkeit des jeweiligen Postens zu erläutern und mit den Vorjahreszahlen zu vergleichen.
 
@@ -771,20 +722,17 @@ Zu den Verbindlichkeiten aus Bürgschaften und Gewährleistungsverträgen ist di
 
 Die Rücknahmeverpflichtungen aus unechten Pensionsgeschäften sind nach der Art der in Pension gegebenen Gegenstände und nach Fristen zu gliedern.
 
-
-## § 43 – Regelungsbereich
+# § 43 – Regelungsbereich
 
 (1) Dieser Abschnitt ist auf übergeordnete und nachgeordnete Unternehmen einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe nach § 10a Absatz 1 Satz 1 des Kreditwesengesetzes, auf Finanzkonglomerate nach § 1 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes sowie auf den Konzernprüfungsbericht anzuwenden.
 
 (2) Dieser Abschnitt ist außerdem auf Tochterunternehmen nach Artikel 22 der Verordnung (EU) Nr. 575/2013 anzuwenden. Ist das Institut gruppenangehöriges Unternehmen einer Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe, für deren Beaufsichtigung auf zusammengefasster Basis die Bundesanstalt zuständig ist, hat der Abschlussprüfer die Zusammenfassung lediglich im Prüfungsbericht des obersten inländischen übergeordneten Unternehmens zu beurteilen.
 
-
-## § 44 – Ort der Berichterstattung
+# § 44 – Ort der Berichterstattung
 
 Die Berichterstattung nach diesem Abschnitt kann statt im Prüfungsbericht des übergeordneten Unternehmens der Institutsgruppe, der Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe im Konzernprüfungsbericht erfolgen, wenn beide Berichte für den Berichtszeitraum oder die Berichtszeiträume von demselben Abschlussprüfer erstellt werden.
 
-
-## § 45 – In die aufsichtliche Zusammenfassung einzubeziehende Unternehmen
+# § 45 – In die aufsichtliche Zusammenfassung einzubeziehende Unternehmen
 
 (1) Die in die Zusammenfassung nach § 10a des Kreditwesengesetzes einbezogenen Unternehmen sind darzustellen. Für jedes Unternehmen ist die Unternehmensart zu nennen und anzugeben, ob eine Pflicht zur Einbeziehung des Unternehmens in die Zusammenfassung besteht.
 
@@ -792,15 +740,13 @@ Die Berichterstattung nach diesem Abschnitt kann statt im Prüfungsbericht des �
 
 (3) Sofern wesentliche Abweichungen zwischen dem Konsolidierungskreis für den Konzernabschluss und der Zusammenfassung nach § 10a des Kreditwesengesetzes bestehen, sind diese zu erläutern.
 
-
-## § 46 – Berichterstattung bei aufsichtsrechtlichen Gruppen
+# § 46 – Berichterstattung bei aufsichtsrechtlichen Gruppen
 
 (1) Der Bericht über die Prüfung muss Ausführungen enthalten, die einen Überblick über die Lage der Gruppe und deren Risikostruktur vermitteln. § 11 ist nach Maßgabe des § 25a Absatz 3 des Kreditwesengesetzes entsprechend anzuwenden.
 
 (2) Es ist darüber zu berichten, mit welchen Vorkehrungen die Gruppe die Anforderungen des Artikels 11 in Verbindung mit Teil 4 der Verordnung (EU) Nr. 575/2013 und des § 13c des Kreditwesengesetzes einhält. Diese Berichterstattung umfasst auch die Einhaltung der Meldepflichten gemäß Artikel 11 in Verbindung mit Artikel 394 der Verordnung (EU) Nr. 575/2013 und die Einhaltung der Anzeigevorschrift gemäß § 13c Absatz 1 Satz 1 des Kreditwesengesetzes.
 
-
-## § 47 – Zusammengefasste Eigenmittel
+# § 47 – Zusammengefasste Eigenmittel
 
 (1) Bei übergeordneten Unternehmen sind die Höhe und Zusammensetzung der Eigenmittel der Gruppe nach § 10a des Kreditwesengesetzes nach dem Stand bei Geschäftsschluss am Bilanzstichtag des übergeordneten Instituts darzustellen. Die Besonderheiten der Bestandteile der Eigenmittel der wesentlichen nachgeordneten Unternehmen sind in der Höhe darzustellen, in der sie in die Zusammenfassung eingehen; dabei ist bei den Kapitalverhältnissen ausländischer Tochterunternehmen auf wesentliche Besonderheiten einzugehen, insbesondere auf Bestandteile, bei denen Zweifel darüber bestehen, ob sie den nach Artikel 72 der Verordnung (EU) Nr. 575/2013 anerkannten Bestandteilen entsprechen. Die §§ 18 bis 23 gelten entsprechend.
 
@@ -810,8 +756,7 @@ Die Berichterstattung nach diesem Abschnitt kann statt im Prüfungsbericht des �
 
 (+++ § 47: Zur Anwendung vgl. § 71 Abs. 5 +++)
 
-
-## § 48 – Zusätzliche Angaben
+# § 48 – Zusätzliche Angaben
 
 Vorbehaltlich der §§ 46 und 47 ist bei übergeordneten Unternehmen einer Institutsgruppe, Finanzholding-Gruppe, gemischten Finanzholding-Gruppe sowie bei nachgeordneten Unternehmen, die die Bundesanstalt jeweils gemäß § 2a Absatz 2 des Kreditwesengesetzes freigestellt hat, im Bericht über die Prüfung des übergeordneten Unternehmens zusätzlich einzugehen auf:
 
@@ -821,8 +766,7 @@ Vorbehaltlich der §§ 46 und 47 ist bei übergeordneten Unternehmen einer Insti
 
 3. Übertragungen von Eigenmitteln oder Rückzahlungen von Verbindlichkeiten zu Gunsten des übergeordneten Unternehmens, sofern die Bundesanstalt dieses gemäß § 2a Absatz 2 des Kreditwesengesetzes freigestellt hat.
 
-
-## § 49 – Mindestangaben im Konzernprüfungsbericht
+# § 49 – Mindestangaben im Konzernprüfungsbericht
 
 (1) Unabhängig von der Ausübung des Wahlrechts nach § 44 gelten für den Konzernprüfungsbericht die nachfolgenden Absätze sowie die §§ 2 bis 9, 45 Absatz 1 und 2 sowie § 48 Nummer 1 und 2 entsprechend.
 
@@ -832,20 +776,17 @@ Vorbehaltlich der §§ 46 und 47 ist bei übergeordneten Unternehmen einer Insti
 
 (4) Auf die Ausführungen im Prüfungsbericht eines einzelnen konzernangehörigen Instituts kann verwiesen werden, wenn die Lage des Konzerns durch dieses ganz überwiegend bestimmt wird und der Gegenstand des Verweises im Konzernprüfungsbericht selbst hinreichend dargestellt ist.
 
-
-## § 50 – Ergänzende Vorschriften für Unternehmen eines Finanzkonglomerats (§§ 17, 18 und 23 des Finanzkonglomerate-Aufsichtsgesetzes)
+# § 50 – Ergänzende Vorschriften für Unternehmen eines Finanzkonglomerats (§§ 17, 18 und 23 des Finanzkonglomerate-Aufsichtsgesetzes)
 
 (1) Bei übergeordneten Unternehmen eines Finanzkonglomerats im Sinne des § 12 des Finanzkonglomerate-Aufsichtsgesetzes ist darzustellen, ob die Berechnung der Eigenmittel und der Solvabilität des Finanzkonglomerats § 18 des Finanzkonglomerate-Aufsichtsgesetzes entspricht, und darüber zu berichten, ob das Unternehmen die Meldepflicht nach § 17 Absatz 2 des Finanzkonglomerate-Aufsichtsgesetzes eingehalten hat.
 
 (2) Es ist darüber zu berichten, mit welchen Vorkehrungen das übergeordnete Unternehmen die Anforderungen der §§ 23 und 25 des Finanzkonglomerate-Aufsichtsgesetzes einhält. Diese Berichterstattung umfasst auch die Einhaltung der Anzeigevorschriften gemäß § 23 Absatz 1 und 3 Satz 6 des Finanzkonglomerate-Aufsichtsgesetzes.
 
-
-## § 51 – Grundsätze der Prüfung und Darstellung pfandbriefrechtlicher Aspekte
+# § 51 – Grundsätze der Prüfung und Darstellung pfandbriefrechtlicher Aspekte
 
 Bei Pfandbriefbanken ist § 3 Satz 1 mit der Maßgabe anzuwenden, dass stets jeder der in § 1 Absatz 3 des Pfandbriefgesetzes bezeichneten Gattungen Rechnung zu tragen ist. Dabei sind § 3 Satz 2 und § 4 Absatz 1 entsprechend anzuwenden.
 
-
-## § 52 – Prüfung und Darstellung der organisatorischen Anforderungen des Pfandbriefgesetzes
+# § 52 – Prüfung und Darstellung der organisatorischen Anforderungen des Pfandbriefgesetzes
 
 (1) Bei Pfandbriefbanken ist die Einhaltung der folgenden Anforderungen zu beurteilen:
 
@@ -869,11 +810,9 @@ Die zur Einhaltung der Anforderungen nach Satz 1 eingesetzten Verfahren und Syst
 
 3. bei den Pfandbriefbanken, die Flugzeugpfandbriefe ausgeben: die Vorschriften des § 26d des Pfandbriefgesetzes sowie der Anforderungen der Flugzeugbeleihungswertermittlungsverordnung, insbesondere des § 12 Absatz 1 der Flugzeugbeleihungswertermittlungsverordnung.
 
+# § 53 – (weggefallen)
 
-## § 53 – (weggefallen)
-
-
-## § 54 – Organisation und Auflagen
+# § 54 – Organisation und Auflagen
 
 (1) Im Rahmen der Berichterstattung gemäß den §§ 9 und 11 sind die Besonderheiten des Bausparkassengeschäfts hervorzuheben. Dabei ist auch einzugehen auf:
 
@@ -887,15 +826,13 @@ Die zur Einhaltung der Anforderungen nach Satz 1 eingesetzten Verfahren und Syst
 
 (3) In die Berichterstattung gemäß § 25 sind die bausparkassenrechtlichen Meldungen und Anzeigen einzubeziehen.
 
-
-## § 55 – Angaben zum Kreditgeschäft von Bausparkassen
+# § 55 – Angaben zum Kreditgeschäft von Bausparkassen
 
 (1) Die Beurteilung gemäß § 54 umfasst auch die Sicherung der Darlehensforderungen und die Angemessenheit der Beleihungswertermittlung.
 
 (2) Die Baudarlehen sind nach ihrer Inanspruchnahme am Ende des Berichtsjahres nach der Aufgliederung in Anlage 2 Position 1 Nummer 7 zu gliedern. Dabei sind mehrere Baudarlehen an einen Kreditnehmer zusammenzufassen. Für jede Größenklasse sind die Anzahl der Darlehen, der Gesamtbetrag der Darlehen und deren prozentualer Anteil am Gesamtbestand der Baudarlehen anzugeben. Hierbei ist nach Bauspardarlehen, Vor- und Zwischenfinanzierungskrediten sowie nach sonstigen Baudarlehen zu gliedern.
 
-
-## § 56 – Angaben zur geschäftlichen Entwicklung von Bausparkassen
+# § 56 – Angaben zur geschäftlichen Entwicklung von Bausparkassen
 
 Im Rahmen der Berichterstattung nach § 38 ist die geschäftliche Entwicklung der Bausparkasse auch anhand geeigneter bausparspezifischer Kennzahlen zur Vermögens- und Ertragslage sowie zum Kollektivgeschäft darzustellen. Anzugeben und zu beurteilen
 
@@ -907,20 +844,17 @@ Im Rahmen der Berichterstattung nach § 38 ist die geschäftliche Entwicklung de
 
 4. sind Anzahl und Bausparsumme der nicht oder nicht voll eingelösten und bisher nicht stornierten Verträge.
 
-
-## § 57 – Angaben zur Liquiditätslage von Bausparkassen
+# § 57 – Angaben zur Liquiditätslage von Bausparkassen
 
 Das Volumen und die Verwendung der aufgenommenen Fremdmittel am Geld- und Kapitalmarkt sind darzustellen.
 
-
-## § 58 – Einsatz von Derivaten
+# § 58 – Einsatz von Derivaten
 
 (1) Werden derivative Sicherungsgeschäfte vorgenommen, so ist vom Prüfer zu erläutern und zu beurteilen, ob die Geschäfte ausschließlich der Begrenzung von Risiken aus zulässigen Geschäften dienen und ob sie geeignet sind, den jeweiligen Sicherungszweck zu erreichen.
 
 (2) Werden vom Institut derivative Sicherungsinstrumente eingesetzt, so ist vom Prüfer zu beurteilen, ob dies im Risikomanagement angemessen berücksichtigt ist.
 
-
-## § 59 – Angaben zur Ertragslage von Bausparkassen
+# § 59 – Angaben zur Ertragslage von Bausparkassen
 
 Das Zinsergebnis ist jeweils im Vergleich zum Vorjahr darzustellen und wie folgt aufzugliedern:
 
@@ -934,8 +868,7 @@ Das Zinsergebnis ist jeweils im Vergleich zum Vorjahr darzustellen und wie folgt
 
 Die Berechnung ist vereinfachend auf der Basis durchschnittlicher Bestände und durchschnittlicher Zinssätze vorzunehmen. Über das Vorhandensein und die Handhabung von Zinsanpassungsklauseln bei den Vor- und Zwischenfinanzierungskrediten ist zu berichten.
 
-
-## § 60 – Darstellung des Kollektivgeschäfts sowie der Vor- und Zwischenfinanzierung bei Bausparkassen
+# § 60 – Darstellung des Kollektivgeschäfts sowie der Vor- und Zwischenfinanzierung bei Bausparkassen
 
 (1) Über das Zuteilungsverfahren und die Zuteilungssituation ist anhand geeigneter Kennzahlen zu berichten. Hierbei ist gegebenenfalls auf Veränderungen gegenüber den letzten Geschäftsjahren einzugehen. Es ist über den Umfang und den Grund der Einbeziehung außerkollektiver Mittel in die Zuteilungsmasse zu berichten. Wenn Tilgungsstreckungsdarlehen gewährt wurden, so sind insoweit gesonderte Angaben zur Einbeziehung außerkollektiver Mittel zu machen.
 
@@ -957,13 +890,11 @@ Die Berechnung ist vereinfachend auf der Basis durchschnittlicher Bestände und 
 
 Bei Darlehen nach § 1 Absatz 1 und 2 der Bausparkassen-Verordnung ist darzustellen, ob die tatsächliche Dauer der Kreditinanspruchnahme bei abgelösten sowie bei laufenden Darlehen die als voraussichtlich angenommenen Laufzeiten wesentlich überschritten hat (§ 1 Absatz 3 der Bausparkassen-Verordnung).
 
-
-## § 61 – Eigenmittel gemäß Artikel 97 Absatz 1 der Verordnung (EU) Nr. 575/2013
+# § 61 – Eigenmittel gemäß Artikel 97 Absatz 1 der Verordnung (EU) Nr. 575/2013
 
 Bei Finanzportfolioverwaltern und Abschlussvermittlern, die nicht befugt sind, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten handeln, ist darzustellen, ob Artikel 97 Absatz 1 der Verordnung (EU) Nr. 575/2013 im Berichtszeitraum sowie am Bilanzstichtag eingehalten wurde. Über die Inanspruchnahme der Ausnahmeregelung des § 2 Absatz 8a in Verbindung mit § 64h Absatz 7 des Kreditwesengesetzes und über die Einhaltung der diesbezüglichen Voraussetzung ist zu berichten.
 
-
-## § 62 – Vorschriften für einzelne Finanzdienstleistungsinstitute
+# § 62 – Vorschriften für einzelne Finanzdienstleistungsinstitute
 
 (1) Bei Finanzdienstleistungsinstituten ohne Befugnis, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, ist zu beurteilen, ob nach den mit den Kunden bestehenden vertraglichen Vereinbarungen sowie den von den Kunden erteilten Vollmachten dem Finanzdienstleistungsinstitut nicht das Recht zusteht, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen. Der Prüfer hat zu beurteilen, ob eine ausreichende Überwachung durch das interne Kontrollsystem sicherstellt, dass das Institut seinen Kunden zuzuordnende Gelder oder Wertpapiere tatsächlich nicht in Eigentum oder Besitz nimmt.
 
@@ -983,8 +914,7 @@ Bei Finanzportfolioverwaltern und Abschlussvermittlern, die nicht befugt sind, s
 
 2. ein bilanziell überschuldetes Institut eine positive Fortführungsprognose nur unter Heranziehung des Substanzwertes stellen kann.
 
-
-## § 63 – Ausnahmeregelung
+# § 63 – Ausnahmeregelung
 
 (1) § 12 Absatz 2 und 3, §§ 15, 17, 20, 21 Absatz 2 sowie §§ 24 und 37 sind nicht anzuwenden auf Finanzdienstleistungsinstitute, die nicht befugt sind, sich Eigentum oder Besitz an Geldern oder Wertpapieren von Kunden zu verschaffen, und die nicht auf eigene Rechnung mit Finanzinstrumenten handeln. Die §§ 31 bis 37 sind entsprechend anzuwenden mit der Maßgabe, dass über Art und Umfang der Kredite und die Einhaltung der Vorschriften über das Meldewesen zu berichten ist.
 
@@ -998,29 +928,25 @@ Bei Finanzportfolioverwaltern und Abschlussvermittlern, die nicht befugt sind, s
 
 (3) Auf Finanzdienstleistungsinstitute, die das Factoring im Sinne des § 1 Absatz 1a Satz 2 Nummer 9 des Kreditwesengesetzes oder das Finanzierungsleasing im Sinne des § 1 Absatz 1a Satz 2 Nummer 10 des Kreditwesengesetzes betreiben, finden die §§ 15 bis 21, 23 Absatz 2 und § 24 keine Anwendung.
 
-
-## § 64 – Angaben bei Instituten, die das Factoring betreiben
+# § 64 – Angaben bei Instituten, die das Factoring betreiben
 
 Bei Kreditinstituten, die das Factoring im Sinne des § 1 Absatz 1a Satz 2 Nummer 9 des Kreditwesengesetzes betreiben, ist über die Konzentration auf eine oder wenige Anschlussfirmen oder Branchen zu berichten.
 
 (+++ § 64: Zur Anwendung vgl. § 62 Abs. 6 +++)
 
-
-## § 65 – Angaben bei Instituten, die das Finanzierungsleasing betreiben
+# § 65 – Angaben bei Instituten, die das Finanzierungsleasing betreiben
 
 Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1 Absatz 1a Satz 2 Nummer 10 des Kreditwesengesetzes betreiben, sind die Zusammensetzung der Leasinggüter, Vertragstypen, Abschreibungsmethoden, Abgrenzung von Mietsonderzahlungen, Veräußerungsverluste und Vorsorgen anzugeben.
 
 (+++ § 65: Zur Anwendung vgl. § 62 Abs. 6 +++)
 
-
-## § 66 – Prüfungsgegenstand
+# § 66 – Prüfungsgegenstand
 
 (1) Bei Instituten, die das Depotgeschäft oder das eingeschränkte Verwahrgeschäft betreiben, ohne Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 10 des Wertpapierhandelsgesetzes zu sein, hat der Prüfer die Einhaltung der Vorschriften des Depotgesetzes sowie der Bestimmungen des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes einmal jährlich zu prüfen (Depotprüfung).
 
 (2) Der Abschlussprüfer kann von einer Depotprüfung absehen, wenn sämtliche Depotverhältnisse beendet sind. Die Depotverhältnisse sind beendet, wenn die Wertpapiere an die Kunden zurückgegeben, in deren Auftrag an Dritte ausgeliefert oder die Depotverhältnisse mit Zustimmung der Kunden auf ein anderes Kreditinstitut übertragen worden sind.
 
-
-## § 67 – Zeitpunkt der Prüfung und Berichtszeitraum
+# § 67 – Zeitpunkt der Prüfung und Berichtszeitraum
 
 (1) Die Prüfung findet einmal jährlich statt. Der Prüfer legt den Beginn der Prüfung und den Berichtszeitraum vorbehaltlich der nachfolgenden Bestimmungen nach pflichtgemäßem Ermessen fest.
 
@@ -1028,8 +954,7 @@ Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1 Absatz 1a S
 
 (3) Die Prüfung muss spätestens 15 Monate nach dem Anfang des für sie maßgeblichen Berichtszeitraums begonnen worden sein.
 
-
-## § 68 – Besondere Anforderungen an den Depotprüfungsbericht
+# § 68 – Besondere Anforderungen an den Depotprüfungsbericht
 
 (1) Der Depotprüfungsbericht muss Angaben enthalten zur Ordnungsmäßigkeit der Verwahrung und Verwaltung von Wertpapieren für andere, des Verwahrungsbuchs, der Verfügungen über Wertpapiere von Kunden und der Ermächtigungen sowie zur Beachtung des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes.
 
@@ -1037,8 +962,7 @@ Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1 Absatz 1a S
 
 (3) In einer zusammenfassenden Schlussbemerkung ist zum geprüften Depotgeschäft sowie zur Einhaltung der Bestimmungen des § 67a Absatz 3, des § 67b, jeweils auch in Verbindung mit § 125 Absatz 1, 2 und 5 und des § 135 des Aktiengesetzes zu beurteilen, ob das geprüfte Geschäft ordnungsgemäß betrieben und die geprüften Aufgaben ordnungsgemäß erfüllt wurden. Zusammenfassend ist darzulegen, welche wesentlichen Beanstandungen sich auf Grund der Prüfung ergeben haben.
 
-
-## § 69 – Prüfung von Verwahrstellen im Sinne des Kapitalanlagegesetzbuchs
+# § 69 – Prüfung von Verwahrstellen im Sinne des Kapitalanlagegesetzbuchs
 
 (1) Ist ein Kreditinstitut oder eine Zweigniederlassung eines Kreditinstituts als Verwahrstelle nach § 68 Absatz 3 in Verbindung mit Absatz 2 des Kapitalanlagegesetzbuchs tätig, so ist über das Ergebnis der Prüfung dieser Tätigkeit in einem gesonderten Abschnitt zu berichten.
 
@@ -1046,13 +970,11 @@ Bei Kreditinstituten, die das Finanzierungsleasing im Sinne des § 1 Absatz 1a S
 
 (3) Über wesentliche Vorkommnisse, insbesondere bei der Ausgabe und Rücknahme von Anteilen eines Investmentvermögens, bei aufgetretenen Interessenkollisionen gemäß § 70 des Kapitalanlagegesetzbuchs, bei der Ausübung der Kontrollfunktion gemäß § 76 des Kapitalanlagegesetzbuchs und bei der Belastung der Investmentvermögen mit Vergütungen und Aufwendungsersatz gemäß § 79 des Kapitalanlagegesetzbuchs ist zu berichten. Sofern durch Anleger gegenüber der Verwahrstelle oder durch die Verwahrstelle gegenüber einer Kapitalverwaltungsgesellschaft Ansprüche nach § 78 des Kapitalanlagegesetzbuchs geltend gemacht wurden, ist auch hierüber zu berichten.
 
-
-## § 70 – Datenübersicht
+# § 70 – Datenübersicht
 
 Die auf das jeweilige Institut anwendbaren Formblätter in den Anlagen 1 bis 4 sind auszufüllen und dem Prüfungsbericht beizufügen. Die Formblätter in den Anlagen 1 bis 3 sind um die entsprechenden Vorjahresdaten zu ergänzen.
 
-
-## § 71 – Erstmalige Anwendung; Übergangsbestimmung
+# § 71 – Erstmalige Anwendung; Übergangsbestimmung
 
 (1) Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung anzuwenden, die das nach dem 31. Dezember 2014 beginnende Geschäftsjahr betrifft. Für vor dem 1. Januar 2015 beginnende Geschäftsjahre findet die Prüfungsberichtsverordnung vom 23. November 2009 (BGBl. I S. 3793), die zuletzt durch Artikel 4 der Verordnung vom 20. September 2013 (BGBl. I S. 3672) geändert worden ist, weiterhin Anwendung.
 
@@ -1066,13 +988,11 @@ Die auf das jeweilige Institut anwendbaren Formblätter in den Anlagen 1 bis 4 s
 
 (6) Die §§ 26, 27 und Anlage 5 in der ab dem 24. Januar 2018 geltenden Fassung sind erstmals auf einen Berichtszeitraum der Prüfung anzuwenden, der am 26. September 2017 oder später endet, es sei denn, der Prüfungsbericht ist bereits vor dem 24. Januar 2018 bei der Bundesanstalt eingereicht worden.
 
-
-## § 72 – Inkrafttreten, Außerkrafttreten
+# § 72 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Prüfungsberichtsverordnung vom 23. November 2009 (BGBl. I S. 3793), die zuletzt durch Artikel 4 der Verordnung vom 20. September 2013 (BGBl. I S. 3672) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 70)SON01
+# Anlage 1 – (zu § 70)SON01
 
 (Fundstelle: BGBl. I 2015, 948 - 952)
 
@@ -1082,16 +1002,14 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 (+++ Anlage 1 Tabelle Position 7 Nr. 1: Zur Anwendung vgl. § 71 Abs. 4 +++)  
 Anlage 1 Tabelle Position 7 Nr. 6 Buchst. a Eingangssatz Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "enthaltenenen" durch "enthaltenen" ersetzt
 
-
-## Anlage 2 – (zu § 70)SON02
+# Anlage 2 – (zu § 70)SON02
 
 (Fundstelle: BGBl. I 2015, 953 - 957)
 
 Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro (EUR);  
 Prozentangaben sind mit einer Nachkommastelle anzugeben.
 
-
-## Anlage 3 – (zu § 70)SON04
+# Anlage 3 – (zu § 70)SON04
 
 (Fundstelle: BGBl. I 2015, 959 - 960; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -1100,15 +1018,13 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 
 (+++ Anlage 3 Tabelle Position 5 Nr. 1: Zur Anwendung vgl. § 71 Abs. 4 +++)
 
-
-## Anlage 4 – (zu § 70)SON05
+# Anlage 4 – (zu § 70)SON05
 
 (Fundstelle: BGBl. I 2015, 961; bzgl. einzelner Änderungen vgl. Fußnote)
 
 Institut:
 
-
-## Anlage 5 – (zu § 27)
+# Anlage 5 – (zu § 27)
 
 (Fundstelle: BGBl. I 2018, 137 - 139)
 
@@ -1120,8 +1036,7 @@ Prüfungsstichtag:
 
 Prüfungsleiter vor Ort:
 
-B.  
-Klassifizierung von Prüfungsfeststellungen
+B. Klassifizierung von Prüfungsfeststellungen
 
 Für die Klassifizierung von Prüfungsfeststellungen ist der Prüfungsleiter vor Ort verantwortlich.
 

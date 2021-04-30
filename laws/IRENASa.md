@@ -1,5 +1,3 @@
-# [IRENASa] Satzung der Internationalen Organisation für erneuerbare Energien
-
-Ausfertigungsdatum: 26.01.2009
-
+% Satzung der Internationalen Organisation für erneuerbare Energien
+% Ausfertigungsdatum: 26.01.2009
  

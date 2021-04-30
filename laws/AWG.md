@@ -1,13 +1,9 @@
-# [AWG] Außenwirtschaftsgesetz  (AWG)
-
-Ausfertigungsdatum: 06.06.2013
-
+% Außenwirtschaftsgesetz  (AWG)
+% Ausfertigungsdatum: 06.06.2013
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 (1) Der Güter-, Dienstleistungs-, Kapital-, Zahlungs- und sonstige Wirtschaftsverkehr mit dem Ausland sowie der Verkehr mit Auslandswerten und Gold zwischen Inländern (Außenwirtschaftsverkehr) ist grundsätzlich frei. Er unterliegt den Einschränkungen, die dieses Gesetz enthält oder die durch Rechtsverordnung auf Grund dieses Gesetzes vorgeschrieben werden.
 
@@ -19,8 +15,7 @@ Ausfertigungsdatum: 06.06.2013
 
 3. Rechtsvorschriften der Organe zwischenstaatlicher Einrichtungen, denen die Bundesrepublik Deutschland Hoheitsrechte übertragen hat.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für dieses Gesetz und die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen gelten die Begriffsbestimmungen der Absätze 2 bis 25, soweit in diesem Gesetz oder einer solchen Rechtsverordnung nichts anderes bestimmt ist.
 
@@ -152,8 +147,7 @@ Inländische Wertpapiere sind Wertpapiere, die ein Inländer oder, vor dem 9. Ma
 
 (25) Zollgebiet der Europäischen Union ist das Zollgebiet der Union nach Artikel 4 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90; L 267 vom 30.9.2016, S. 2), die zuletzt durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54) geändert worden ist in der jeweils geltenden Fassung.
 
-
-## § 3 – Zweigniederlassungen und Betriebsstätten
+# § 3 – Zweigniederlassungen und Betriebsstätten
 
 (1) Inländische Zweigniederlassungen und Betriebsstätten von Ausländern und ausländische Zweigniederlassungen und Betriebsstätten von Inländern gelten als rechtlich selbständig. Mehrere inländische Zweigniederlassungen und Betriebsstätten desselben Ausländers gelten als eine inländische Zweigniederlassung oder Betriebsstätte.
 
@@ -169,8 +163,7 @@ Inländische Wertpapiere sind Wertpapiere, die ein Inländer oder, vor dem 9. Ma
 
 4. Zweigniederlassungen und Betriebsstätten abweichend von § 2 Absatz 18 und 19 nicht als Unionsansässige oder Unionsfremde gelten.
 
-
-## § 4 – Beschränkungen und Handlungspflichten zum Schutz der öffentlichen Sicherheit und der auswärtigen Interessen
+# § 4 – Beschränkungen und Handlungspflichten zum Schutz der öffentlichen Sicherheit und der auswärtigen Interessen
 
 (1) Im Außenwirtschaftsverkehr können durch Rechtsverordnung Rechtsgeschäfte und Handlungen beschränkt oder Handlungspflichten angeordnet werden, um
 
@@ -182,8 +175,7 @@ Inländische Wertpapiere sind Wertpapiere, die ein Inländer oder, vor dem 9. Ma
 
 4. die öffentliche Ordnung oder Sicherheit der Bundesrepublik Deutschland oder eines anderen Mitgliedstaates der Europäischen Union zu gewährleisten,
 
-4a.  
-die öffentliche Ordnung oder Sicherheit in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne von Artikel 8 der Verordnung (EU) 2019/452 des Europäischen Parlaments und des Rates vom 19. März 2019 zur Schaffung eines Rahmens für die Überprüfung ausländischer Direktinvestitionen in der Union (ABl. L 79 I vom 21.3.2019, S. 1) zu gewährleisten oder
+4a. die öffentliche Ordnung oder Sicherheit in Bezug auf Projekte oder Programme von Unionsinteresse im Sinne von Artikel 8 der Verordnung (EU) 2019/452 des Europäischen Parlaments und des Rates vom 19. März 2019 zur Schaffung eines Rahmens für die Überprüfung ausländischer Direktinvestitionen in der Union (ABl. L 79 I vom 21.3.2019, S. 1) zu gewährleisten oder
 
 5. einer Gefährdung der Deckung des lebenswichtigen Bedarfs im Inland oder in Teilen des Inlands entgegenzuwirken und dadurch im Einklang mit Artikel 36 des Vertrags über die Arbeitsweise der Europäischen Union die Gesundheit und das Leben von Menschen zu schützen.
 
@@ -203,8 +195,7 @@ die öffentliche Ordnung oder Sicherheit in Bezug auf Projekte oder Programme vo
 
 (+++ § 4: Zur Anwendung vgl. § 31 Satz 1 +++)
 
-
-## § 5 – Gegenstand von Beschränkungen
+# § 5 – Gegenstand von Beschränkungen
 
 (1) Beschränkungen oder Handlungspflichten nach § 4 Absatz 1 können insbesondere angeordnet werden für Rechtsgeschäfte oder Handlungen in Bezug auf
 
@@ -228,8 +219,7 @@ Satz 1 gilt insbesondere dann, wenn infolge des Erwerbs die sicherheitspolitisch
 
 (+++ § 5: Zur Anwendung vgl. § 31 Satz 1 +++)
 
-
-## § 6 – Einzeleingriff
+# § 6 – Einzeleingriff
 
 (1) Im Außenwirtschaftsverkehr können auch durch Verwaltungsakt Rechtsgeschäfte oder Handlungen beschränkt oder Handlungspflichten angeordnet werden, um eine im Einzelfall bestehende Gefahr für die in § 4 Absatz 1, auch in Verbindung mit Absatz 2, genannten Rechtsgüter abzuwenden. Insbesondere können
 
@@ -245,8 +235,7 @@ beschränkt werden.
 
 (3) § 4 Absatz 3 und 4 und § 5 Absatz 5 gelten entsprechend.
 
-
-## § 7 – Einzeleingriff im Seeverkehr außerhalb des deutschen Küstenmeeres
+# § 7 – Einzeleingriff im Seeverkehr außerhalb des deutschen Küstenmeeres
 
 (1) Um eine im Einzelfall bestehende Gefahr für die in § 4 Absatz 1 genannten Rechtsgüter abzuwenden, welche seewärts der Grenze des deutschen Küstenmeeres durch die Beförderung von Gütern an Bord eines die Bundesflagge führenden Seeschiffes verursacht wird, können nach § 6 Absatz 1 insbesondere notwendige Maßnahmen zur Lenkung, Beschleunigung und Beschränkung der Beförderung der Güter sowie des Umschlags und der Entladung der Güter angeordnet werden.
 
@@ -266,8 +255,7 @@ beschränkt werden.
 
 (5) § 4 Absatz 3 und 4, § 5 Absatz 5 und § 6 Absatz 2 gelten entsprechend.
 
-
-## § 8 – Erteilung von Genehmigungen
+# § 8 – Erteilung von Genehmigungen
 
 (1) Bedürfen Rechtsgeschäfte oder Handlungen nach einer Vorschrift dieses Gesetzes oder einer Rechtsverordnung auf Grund dieses Gesetzes einer Genehmigung, so ist die Genehmigung zu erteilen, wenn zu erwarten ist, dass die Vornahme des Rechtsgeschäfts oder der Handlung den Zweck der Vorschrift nicht oder nur unwesentlich gefährdet. In anderen Fällen kann die Genehmigung erteilt werden, wenn das volkswirtschaftliche Interesse an der Vornahme des Rechtsgeschäfts oder der Handlung die damit verbundene Beeinträchtigung des in der Ermächtigung angegebenen Zwecks überwiegt.
 
@@ -279,18 +267,15 @@ beschränkt werden.
 
 (5) Der Antragsteller hat bei der Beantragung einer Genehmigung nach Absatz 1 Satz 1 oder einer Bescheinigung nach Absatz 2 Satz 2 vollständige und richtige Angaben zu machen oder zu benutzen.
 
-
-## § 9 – Erteilung von Zertifikaten
+# § 9 – Erteilung von Zertifikaten
 
 Durch Rechtsverordnung auf Grund dieses Gesetzes kann die Erteilung von Zertifikaten vorgesehen werden, soweit dies zur Zertifizierung nach Artikel 9 der Richtlinie 2009/43/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 zur Vereinfachung der Bedingungen für die innergemeinschaftliche Verbringung von Verteidigungsgütern (ABl. L 146 vom 10.6.2009, S. 1) erforderlich ist. § 8 Absatz 5 gilt entsprechend.
 
-
-## § 10 – Deutsche Bundesbank
+# § 10 – Deutsche Bundesbank
 
 Beschränkungen nach einer Vorschrift dieses Gesetzes oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung oder vollziehbaren Anordnung gelten nicht für Rechtsgeschäfte und Handlungen, welche die Deutsche Bundesbank in ihrem Geschäftskreis vornimmt oder welche ihr gegenüber vorgenommen werden.
 
-
-## § 11 – Verfahrens- und Meldevorschriften
+# § 11 – Verfahrens- und Meldevorschriften
 
 (1) Durch Rechtsverordnung können Verfahrensvorschriften erlassen werden
 
@@ -322,8 +307,7 @@ c) der Rechtsakte der Europäischen Union auf Grund der in den Buchstaben a und 
 
 (5) Die §§ 9, 15 und 16 des Bundesstatistikgesetzes sind in den Fällen der Absätze 2 und 3 entsprechend anzuwenden.
 
-
-## § 12 – Erlass von Rechtsverordnungen
+# § 12 – Erlass von Rechtsverordnungen
 
 (1) Rechtsverordnungen nach diesem Gesetz erlässt die Bundesregierung. Rechtsverordnungen nach § 4 Absatz 2 erlässt abweichend von Satz 1 das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium der Finanzen.
 
@@ -335,8 +319,7 @@ c) der Rechtsakte der Europäischen Union auf Grund der in den Buchstaben a und 
 
 (5) Absatz 4 ist nicht anzuwenden auf Rechtsverordnungen, durch welche die Bundesregierung oder das Bundesministerium für Wirtschaft und Energie gemäß § 4 Absatz 2 Beschränkungen des Güter-, Kapital- oder Zahlungsverkehrs mit dem Ausland angeordnet oder aufgehoben hat.
 
-
-## § 13 – Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen
+# § 13 – Zuständigkeiten für den Erlass von Verwaltungsakten und für die Entgegennahme von Meldungen
 
 (1) Für den Erlass von Verwaltungsakten und die Entgegennahme von Meldungen auf Grund dieses Gesetzes und der nach diesem Gesetz erlassenen Rechtsverordnungen sowie auf Grund von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zuständig, soweit in diesem Gesetz oder auf Grund einer nach diesem Gesetz erlassenen Rechtsverordnung nichts anderes bestimmt ist.
 
@@ -372,15 +355,13 @@ e) für die Wahrnehmung der Aufgaben und Befugnisse der Kontaktstelle im Sinne d
 
 (+++ § 13: Zur Anwendung vgl. § 31 Satz 1 +++)
 
-
-## § 14 – Verwaltungsakte
+# § 14 – Verwaltungsakte
 
 (1) Verwaltungsakte nach diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung können mit Nebenbestimmungen versehen werden. Die Verwaltungsakte sind nicht übertragbar, wenn in ihnen nicht etwas anderes bestimmt wird.
 
 (2) Widerspruch und Anfechtungsklage haben keine aufschiebende Wirkung.
 
-
-## § 14a – Fristen für Beschränkungen und Handlungspflichten beim Erwerb inländischer Unternehmen
+# § 14a – Fristen für Beschränkungen und Handlungspflichten beim Erwerb inländischer Unternehmen
 
 (1) Beschränkungen oder Handlungspflichten in Bezug auf den Erwerb inländischer Unternehmen nach § 4 Absatz 1 Nummer 4 oder 4a in Verbindung mit § 5 Absatz 2 oder § 4 Absatz 1 Nummer 1 in Verbindung mit § 5 Absatz 3 dürfen nur angeordnet werden, wenn das Bundesministerium für Wirtschaft und Energie
 
@@ -416,8 +397,7 @@ Im Fall des Satzes 1 Nummer 1 beginnt die Frist im Zeitpunkt der Bekanntgabe der
 
 (+++ § 14a: Zur Anwendung vgl. § 30 Satz 1 u. § 31 Satz 1 +++)
 
-
-## § 15 – Rechtsunwirksamkeit
+# § 15 – Rechtsunwirksamkeit
 
 (1) Ein Rechtsgeschäft, das ohne die erforderliche Genehmigung vorgenommen wird, ist unwirksam. Es wird vom Zeitpunkt seiner Vornahme an wirksam, wenn es nachträglich genehmigt wird oder das Genehmigungserfordernis nachträglich entfällt. Durch die Rückwirkung werden Rechte Dritter, die vor der Genehmigung an dem Gegenstand des Rechtsgeschäfts begründet worden sind, nicht berührt.
 
@@ -445,15 +425,13 @@ Das Bundesministerium für Wirtschaft und Energie kann anordnen, dass über Satz
 
 (+++ § 15: Zur Anwendung vgl. § 31 Satz 1 +++)
 
-
-## § 16 – Urteil und Zwangsvollstreckung
+# § 16 – Urteil und Zwangsvollstreckung
 
 (1) Ist zu einer Leistung des Schuldners eine Genehmigung erforderlich, so kann ein Urteil vor Erteilung der Genehmigung nur dann ergehen, wenn in die Urteilsformel ein Vorbehalt aufgenommen wird, dass die Leistung oder Zwangsvollstreckung erst erfolgen darf, wenn die Genehmigung erteilt ist. Entsprechendes gilt für andere Vollstreckungstitel, wenn die Vollstreckung nur auf Grund einer vollstreckbaren Ausfertigung des Titels durchgeführt werden kann. Arreste und einstweilige Verfügungen, die lediglich der Sicherung des zugrunde liegenden Anspruchs dienen, können ohne Vorbehalt ergehen.
 
 (2) Ist zu einer Leistung des Schuldners eine Genehmigung erforderlich, so ist eine Zwangsvollstreckung nur zulässig, wenn und soweit die Genehmigung erteilt ist. Soweit Vermögenswerte nur mit Genehmigung erworben oder veräußert werden dürfen, gilt dies auch für den Erwerb und die Veräußerung im Wege der Zwangsvollstreckung.
 
-
-## § 17 – Strafvorschriften
+# § 17 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren wird bestraft, wer einer Rechtsverordnung nach § 4 Absatz 1, die der Durchführung
 
@@ -479,8 +457,7 @@ beschlossenen wirtschaftlichen Sanktionsmaßnahme dient, oder einer vollziehbare
 
 (7) Die Absätze 1 bis 6 gelten, unabhängig vom Recht des Tatorts, auch für Taten, die im Ausland begangen werden, wenn der Täter Deutscher ist.
 
-
-## § 18 – Strafvorschriften
+# § 18 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe von drei Monaten bis zu fünf Jahren wird bestraft, wer
 
@@ -600,8 +577,7 @@ Soweit die in Satz 1 genannten Vorschriften auf den Anhang II zur Verordnung (EU
 
 2. von einer dadurch angeordneten Beschränkung zum Zeitpunkt der Tat keine Kenntnis hat.
 
-
-## § 19 – Bußgeldvorschriften
+# § 19 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in
 
@@ -651,8 +627,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (6) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1, 3 Nummer 1 Buchstabe a und des Absatzes 4 Satz 1 Nummer 1 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
-## § 20 – Einziehung
+# § 20 – Einziehung
 
 (1) Ist eine Straftat nach § 17 oder § 18 oder eine Ordnungswidrigkeit nach § 19 begangen worden, so können folgende Gegenstände eingezogen werden:
 
@@ -664,8 +639,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (3) (weggefallen)
 
-
-## § 21 – Aufgaben und Befugnisse der Zollbehörden
+# § 21 – Aufgaben und Befugnisse der Zollbehörden
 
 (1) Die Staatsanwaltschaft kann bei Straftaten und Ordnungswidrigkeiten nach den §§ 17 und 18, mit Ausnahme von § 18 Absatz 1b und 2 Nummer 8, sowie nach § 19, mit Ausnahme von § 19 Absatz 1 Nummer 2, dieses Gesetzes oder nach § 19 Absatz 1 bis 3, § 20 Absatz 1 und 2, § 20a Absatz 1 bis 3, jeweils auch in Verbindung mit § 21, oder nach § 22a Absatz 1 Nummer 4, 5 und 7 des Gesetzes über die Kontrolle von Kriegswaffen Ermittlungen nach § 161 Absatz 1 Satz 1 der Strafprozessordnung auch durch die Hauptzollämter oder die Zollfahndungsämter vornehmen lassen. Die Verwaltungsbehörde im Sinne des § 22 Absatz 3 Satz 1 kann in den Fällen des Satzes 1 Ermittlungen auch durch ein anderes Hauptzollamt oder die Zollfahndungsämter vornehmen lassen.
 
@@ -675,8 +649,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (4) In den Fällen der Absätze 1 und 2 können die Hauptzollämter und Zollfahndungsämter sowie deren Beamte im Bußgeldverfahren Beschlagnahmen, Durchsuchungen und Untersuchungen vornehmen sowie sonstige Maßnahmen nach den für Ermittlungspersonen der Staatsanwaltschaft geltenden Vorschriften der Strafprozessordnung ergreifen. Unter den Voraussetzungen des § 111p Absatz 2 Satz 2 der Strafprozessordnung können auch die Hauptzollämter die Notveräußerung anordnen.
 
-
-## § 22 – Straf- und Bußgeldverfahren
+# § 22 – Straf- und Bußgeldverfahren
 
 (1) Soweit für Straftaten nach den §§ 17 und 18 das Amtsgericht sachlich zuständig ist, liegt die örtliche Zuständigkeit bei dem Amtsgericht, in dessen Bezirk das örtlich zuständige Landgericht seinen Sitz hat. Die Landesregierung kann durch Rechtsverordnung die örtliche Zuständigkeit des Amtsgerichts abweichend regeln, soweit dies mit Rücksicht auf die Wirtschafts- oder Verkehrsverhältnisse, den Aufbau der Verwaltung oder andere örtliche Bedürfnisse zweckmäßig erscheint. Die Landesregierung kann diese Ermächtigung auf die Landesjustizverwaltung übertragen.
 
@@ -686,8 +659,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (4) Die Verfolgung als Ordnungswidrigkeit unterbleibt in den Fällen der fahrlässigen Begehung eines Verstoßes im Sinne des § 19 Absatz 3 bis 5, wenn der Verstoß im Wege der Eigenkontrolle aufgedeckt und der zuständigen Behörde angezeigt wurde sowie angemessene Maßnahmen zur Verhinderung eines Verstoßes aus gleichem Grund getroffen werden. Eine Anzeige nach Satz 1 gilt als freiwillig, wenn die zuständige Behörde hinsichtlich des Verstoßes noch keine Ermittlungen aufgenommen hat. Im Übrigen bleibt § 47 des Gesetzes über Ordnungswidrigkeiten unberührt.
 
-
-## § 23 – Allgemeine Auskunftspflicht
+# § 23 – Allgemeine Auskunftspflicht
 
 (1) Das Hauptzollamt, die Deutsche Bundesbank, das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) und die Bundesanstalt für Landwirtschaft und Ernährung können Auskünfte verlangen, die erforderlich sind, um die Einhaltung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen und Anordnungen sowie von Rechtsakten des Rates oder der Kommission der Europäischen Union im Bereich des Außenwirtschaftsrechts zu überwachen. Zu diesem Zweck können sie verlangen, dass ihnen die geschäftlichen Unterlagen vorgelegt werden.
 
@@ -707,8 +679,7 @@ genannten Vorschriften ermächtigen, soweit eine Rechtsverordnung nach Satz 2 f�
 
 (7) Das Hauptzollamt, das den Verwaltungsakt erlassen hat, ist auch für die Entscheidung über den Widerspruch zuständig.
 
-
-## § 24 – Übermittlung von Informationen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+# § 24 – Übermittlung von Informationen durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) darf die Informationen, einschließlich personenbezogener Daten, die ihm bei der Erfüllung seiner Aufgaben
 
@@ -724,8 +695,7 @@ bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, s
 
 (3) Die Empfänger dürfen die nach den Absätzen 1 und 2 übermittelten Informationen, einschließlich personenbezogener Daten, nur für die Zwecke verwenden, für die sie übermittelt wurden oder soweit es zur Verfolgung von Straftaten oder Ordnungswidrigkeiten nach diesem Gesetz oder einer Rechtsverordnung nach diesem Gesetz oder nach dem Gesetz über die Kontrolle von Kriegswaffen erforderlich ist.
 
-
-## § 25 – Automatisiertes Abrufverfahren
+# § 25 – Automatisiertes Abrufverfahren
 
 (1) Das Zollkriminalamt ist berechtigt, Informationen, einschließlich personenbezogener Daten, die nach § 24 Absatz 1 und 2 übermittelt werden dürfen, im Einzelfall in einem automatisierten Verfahren abzurufen, soweit dies für die Zwecke des § 24 Absatz 1 oder zur Verhütung von Straftaten oder zur Verfolgung von Straftaten oder Ordnungswidrigkeiten erforderlich ist.
 
@@ -737,8 +707,7 @@ bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, s
 
 (5) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Es hat zu gewährleisten, dass die Übermittlung personenbezogener Daten zumindest durch geeignete Stichprobenverfahren festgestellt und überprüft werden kann.
 
-
-## § 26 – Übermittlung personenbezogener Daten aus Strafverfahren
+# § 26 – Übermittlung personenbezogener Daten aus Strafverfahren
 
 (1) In Strafverfahren wegen Verstoßes gegen dieses Gesetz oder gegen eine Rechtsverordnung auf Grund dieses Gesetzes oder gegen das Gesetz über die Kontrolle von Kriegswaffen dürfen Gerichte und Staatsanwaltschaften obersten Bundesbehörden personenbezogene Daten zur Verfolgung der Zwecke des § 4 Absatz 1 und 2 übermitteln.
 
@@ -750,8 +719,7 @@ bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, s
 
 2. der Untersuchungszweck des Strafverfahrens nicht gefährdet werden kann.
 
-
-## § 27 – Überwachung des Fracht-, Post- und Reiseverkehrs
+# § 27 – Überwachung des Fracht-, Post- und Reiseverkehrs
 
 (1) Waren, die ausgeführt, verbracht, eingeführt oder durchgeführt werden, sind auf Verlangen vorzuzeigen. Sie können einer Beschau und einer Untersuchung unterworfen werden.
 
@@ -771,8 +739,7 @@ bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, s
 
 über die Ausfuhr, Einfuhr, Verbringung und Durchfuhr. Das Bundesministerium des Innern, für Bau und Heimat bestimmt die Behörden der Bundespolizei, die für die Überwachung der Ausfuhr von Waffen und Sprengstoff zuständig sind; Satz 1 bleibt unberührt.
 
-
-## § 28 – Kosten
+# § 28 – Kosten
 
 (1) Die Zollbehörden können bei der Durchführung der Vorschriften dieses Gesetzes oder der zu diesem Gesetz erlassenen Rechtsverordnungen über die Ausfuhr, Verbringung, Einfuhr oder Durchfuhr sowie der Rechtsakte der Europäischen Union im Bereich des Außenwirtschaftsverkehrs Kosten (Gebühren und Auslagen) erheben für
 
@@ -784,17 +751,14 @@ bekannt geworden sind, an andere öffentliche Stellen des Bundes übermitteln, s
 
 (2) In den Fällen des Absatzes 1 gelten für die Bemessung der Kosten und für das Verfahren zu ihrer Erhebung die Vorschriften über Kosten, die auf Grund des § 178 der Abgabenordnung erhoben werden.
 
-
-## § 29 – Verkündung von Rechtsverordnungen
+# § 29 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 30 – Übergangsbestimmungen
+# § 30 – Übergangsbestimmungen
 
 § 14a ist erstmals auf Unternehmenserwerbe anzuwenden, von denen das Bundesministerium für Wirtschaft und Energie nach dem 17. Juli 2020 Kenntnis erlangt. Für vor dem in Satz 1 genannten Tag bekannt gewordene Unternehmenserwerbe sind die §§ 55, 57, 58, 59, 61 und 62 der Außenwirtschaftsverordnung in der am 16. Juli 2020 geltenden Fassung weiter anzuwenden.
 
-
-## § 31 – Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze
+# § 31 – Evaluierung der Änderungen durch das Erste Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze
 
 Das Bundesministerium für Wirtschaft und Energie bewertet unter Beteiligung des Auswärtigen Amts, des Bundesministeriums der Verteidigung, des Bundesministeriums des Innern, für Bau und Heimat und des Bundesministeriums der Finanzen die Anwendung der §§ 4, 5, 13, 14a und 15 in der Fassung des Ersten Gesetzes zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze vom 10. Juli 2020 (BGBl. I S. 1636) im Hinblick auf die Wirksamkeit der Regelungen und den mit dem Vollzug der Regelungen verbundenen Aufwand für Unternehmen und Verwaltung. Der Evaluierungszeitraum beginnt mit dem 18. Juli 2020 und beträgt 24 Monate.

@@ -1,15 +1,11 @@
-# [AgrarAusbStEignV] Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice
-
-Ausfertigungsdatum: 13.07.2005
-
+% Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice
+% Ausfertigungsdatum: 13.07.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
+# § 1 – Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Abs. 1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein, der nach Art und Umfang der Produktion und der Dienstleistungen sowie nach seinem Bewirtschaftungszustand die Voraussetzungen dafür bietet, dass den Auszubildenden die in der Verordnung über die Berufsausbildung zur Fachkraft Agrarservice vom 23. Juli 2009 (BGBl. I S. 2157) in der jeweils geltenden Fassung geforderten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) vermittelt werden können. Eine kontinuierliche Anleitung muss gewährleistet sein.
 
@@ -27,12 +23,10 @@ Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. 
 
 (8) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren eröffnet worden ist.
 
-
-## § 2 – Ausnahmeregelungen
+# § 2 – Ausnahmeregelungen
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten nicht im vollen Umfang vermittelt werden können, gilt als geeignet, wenn sichergestellt ist, dass diese durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen anerkannten Ausbildungsstätte oder in Form überbetrieblicher Ausbildung vermittelt werden können.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.

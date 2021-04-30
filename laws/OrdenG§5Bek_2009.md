@@ -1,10 +1,7 @@
-# [OrdenG§5Bek 2009] Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- und Tragegenehmigungen für bestimmte Orden und Ehrenzeichen
-
-Ausfertigungsdatum: 06.05.2009
-
+% Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- und Tragegenehmigungen für bestimmte Orden und Ehrenzeichen
+% Ausfertigungsdatum: 06.05.2009
  
-
-## ----
+# ----
 
 1. Die nach § 5 des Gesetzes über Titel, Orden und Ehrenzeichen erforderliche Genehmigung zur Annahme von Orden und Ehrenzeichen wird in folgenden Fällen mit dem Zeitpunkt der Aushändigung der Auszeichnung erteilt:
 
@@ -18,7 +15,6 @@ c) für Orden und Ehrenzeichen, die an abberufene Diplomaten im Rahmen der Gegen
 
 3. Diese Bekanntmachung tritt am 7. Mai 2009 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundespräsident

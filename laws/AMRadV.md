@@ -1,10 +1,7 @@
-# [AMRadV] Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel  (AMRadV)
-
-Ausfertigungsdatum: 28.01.1987
-
+% Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel  (AMRadV)
+% Ausfertigungsdatum: 28.01.1987
  
-
-## § 1 – Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
+# § 1 – Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
 
 (1) Das Verkehrsverbot des § 7 Abs. 1 des Arzneimittelgesetzes gilt nicht für Arzneimittel, bei deren Herstellung Elektronen-, Gamma- oder Röntgenstrahlen für messtechnische Zwecke verwendet worden sind, wenn
 
@@ -52,8 +49,7 @@ Einer Zulassung nach Satz 1 Nr. 4 bedarf es nicht für
 
 sofern bei ihrer Herstellung Elektronen-, Gamma- oder Röntgenstrahlen zur Verminderung der Keimzahl oder zur Inaktivierung von Blutbestandteilen oder zur Modifizierung von Bestandteilen verwendet worden sind.
 
-
-## § 2 – Verkehrsfähigkeit radioaktiver Arzneimittel
+# § 2 – Verkehrsfähigkeit radioaktiver Arzneimittel
 
 (1) Das Verkehrsverbot des § 7 Abs. 1 des Arzneimittelgesetzes gilt nicht für radioaktive Arzneimittel, die
 
@@ -81,8 +77,7 @@ sowie für radioaktive Arzneimittel, die in einer Krankenhausapotheke oder krank
 
 (2) Die Vorschriften des Vierten Abschnittes des Arzneimittelgesetzes über die Zulassung finden entsprechende Anwendung auf radioaktive Arzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 des Arzneimittelgesetzes, keine Fertigarzneimittel und zur Anwendung bei Menschen bestimmt sind. Die Ausnahmevorschriften des § 21 Abs. 2 Nr. 1, 3 und 4 des Arzneimittelgesetzes finden keine Anwendung. Satz 1 findet keine Anwendung auf Arzneimittel nach Absatz 1 Satz 2 und 3.
 
-
-## § 3 – Kennzeichnung, Packungsbeilage, Fachinformation
+# § 3 – Kennzeichnung, Packungsbeilage, Fachinformation
 
 Radioaktive Arzneimittel im Sinne des § 4 Abs. 8 des Arzneimittelgesetzes dürfen im Geltungsbereich dieser Verordnung nur in den Verkehr gebracht werden, wenn
 
@@ -94,32 +89,26 @@ Radioaktive Arzneimittel im Sinne des § 4 Abs. 8 des Arzneimittelgesetzes dürf
 
 4. im Fall von für klinische Prüfungen vorgesehenen radioaktiven Arzneimitteln die Vorschriften der §§ 5 und 6 der GCP-Verordnung vom 9. August 2004 (BGBl. I S. 2081) entsprechend angewandt wurden.
 
-
-## § 4 – Verhältnis zum Strahlenschutzgesetz
+# § 4 – Verhältnis zum Strahlenschutzgesetz
 
 Die Vorschriften des Strahlenschutzgesetzes und der darauf gestützten Rechtsverordnungen bleiben unberührt.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3 Nr. 1 Satz 1, Nr. 2 oder 4 ein radioaktives Arzneimittel in den Verkehr bringt.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Arzneimittel, die sich am 30. Dezember 2006 im Verkehr befinden und den Vorschriften des § 3 unterliegen, müssen zwei Jahre nach der ersten auf den 31. Dezember 2006 folgenden Verlängerung der Zulassung oder, soweit sie keiner Verlängerung bedürfen, am 1. Januar 2009 vom pharmazeutischen Unternehmer entsprechend den Vorschriften des § 3 in den Verkehr gebracht werden. Bis zu den jeweiligen Zeitpunkten nach Satz 1 dürfen Arzneimittel vom pharmazeutischen Unternehmer, nach diesen Zeitpunkten weiter von Groß- und Einzelhändlern mit einer Kennzeichnung, Packungsbeilage und Fachinformation in den Verkehr gebracht werden, die den bis zum 30. Dezember 2006 geltenden Vorschriften entspricht.
 
-
-## § 6a – (weggefallen)
-
-\-
-
-
-## § 7 – (weggefallen)
+# § 6a – (weggefallen)
 
 \-
 
+# § 7 – (weggefallen)
 
-## § 8 – (Inkrafttreten)
+\-
+
+# § 8 – (Inkrafttreten)
 
 \-

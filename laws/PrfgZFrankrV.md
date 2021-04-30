@@ -1,35 +1,27 @@
-# [PrfgZFrankrV] Verordnung zur Gleichstellung französischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
-
-Ausfertigungsdatum: 16.06.1977
-
+% Verordnung zur Gleichstellung französischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen
+% Ausfertigungsdatum: 16.06.1977
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 43 Abs. 2 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und unter Berücksichtigung des § 28 des Gesetzes vom 7. September 1976 (BGBl. I S. 2658) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Gleichstellung von Prüfungszeugnissen
+# § 1 – Gleichstellung von Prüfungszeugnissen
 
 Französische Prüfungszeugnisse werden den Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen nach Maßgabe der in der Anlage enthaltenen Aufstellung gleichgestellt.
 
-
-## § 2 – Berlin-Klausel
+# § 2 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 112 des Berufsbildungsgesetzes auch im Land Berlin.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – Aufstellung der gleichgestellten Prüfungszeugnisse
+# Anlage – Aufstellung der gleichgestellten Prüfungszeugnisse
 
 (Fundstelle: BGBl. I 1985, 1760 - 1761;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -42,8 +34,7 @@ option A: taille<br />
 option B: travaux marbriers</dd></dl></td><td><dl><dt>15.</dt><dd>Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin</dd></dl></td></tr><tr class="odd"><td><dl><dt>16.</dt><dd>Certificat d'aptitude professionnelle boulanger</dd></dl></td><td><dl><dt>16.</dt><dd>Bäcker/Bäckerin</dd></dl></td></tr><tr class="even"><td><dl><dt>17.</dt><dd>Certificat d'aptitude professionnelle patissier-confiseurchocolatier-glacier</dd></dl></td><td><dl><dt>17.</dt><dd>Konditor/Konditorin</dd></dl></td></tr><tr class="odd"><td><dl><dt>18.</dt><dd>Diplome de maintenance aeronautique option: cellule, moteur, electricite</dd></dl></td><td><dl><dt>18.</dt><dd>Fluggerätmechaniker/ Fluggerätmechanikerin</dd></dl></td></tr><tr class="even"><td><dl><dt>19.</dt><dd>Certificat d'aptitude professionnelle mecanicien de cellules d'aeronefs</dd></dl></td><td><dl><dt>19.</dt><dd>Fluggerätbauer/ Fluggerätbauerin</dd></dl></td></tr><tr class="odd"><td><dl><dt>20.</dt><dd>Brevet d'etudes professionnelles conducteur d'appareil option B:<br />
 traitement et epuration des eaux</dd></dl></td><td><dl><dt>20.</dt><dd>Ver- und Entsorger/ Ver- und Entsorgerin</dd></dl></td></tr><tr class="even"><td><dl><dt>21.</dt><dd>Baccalaureat professionnel des industries chimiques et de procedes</dd></dl></td><td><dl><dt>21.</dt><dd>Chemikant/Chemikantin</dd></dl></td></tr><tr class="odd"><td><dl><dt>22.</dt><dd>Certificat d'aptitude professionnelle assurance</dd></dl></td><td><dl><dt>22.</dt><dd>Versicherungskaufmann/ Versicherungskauffrau</dd></dl></td></tr></tbody></table>
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

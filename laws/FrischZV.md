@@ -1,15 +1,11 @@
-# [FrischZV] Verordnung über das Verbot der Verwendung bestimmter Stoffe zur Herstellung von Arzneimitteln  (Frischzellen-Verordnung)
-
-Ausfertigungsdatum: 04.03.1997
-
+% Verordnung über das Verbot der Verwendung bestimmter Stoffe zur Herstellung von Arzneimitteln  (Frischzellen-Verordnung)
+% Ausfertigungsdatum: 04.03.1997
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 19. Oktober 1994 (BGBl. I S. 3018) verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Verbot der Verwendung von Frischzellen
+# § 1 – Verbot der Verwendung von Frischzellen
 
 (1) Es ist verboten, bei der Herstellung von Arzneimitteln, die zur Injektion oder Infusion bestimmt sind, Frischzellen zu verwenden.
 
@@ -23,8 +19,7 @@ Auf Grund des § 6 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vo
 
 § 1 Abs. 1: Nach Maßgabe der Entscheidungsformel nichtig gem. BVerfGE v. 16.2.2000 I 199 - 1 BvR 420/97 -
 
-
-## § 2 – Straf- und Bußgeldvorschriften
+# § 2 – Straf- und Bußgeldvorschriften
 
 (1) Nach § 95 Abs. 1 Nr. 2, Abs. 2 bis 4 des Arzneimittelgesetzes wird bestraft, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 2 Arzneimittel in den Verkehr bringt.
 
@@ -34,12 +29,10 @@ Auf Grund des § 6 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vo
 
 § 2 Abs. 2: Nach Maßgabe der Entscheidungsformel nichtig gem. BVerfGE v. 16.2.2000 I 199 - 1 BvR 420/97 -
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

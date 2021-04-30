@@ -1,27 +1,21 @@
-# [FoVHgV] Verordnung über Herkunftsgebiete für forstliches Vermehrungsgut  (Forstvermehrungsgut-Herkunftsgebietsverordnung - FoVHgV)
-
-Ausfertigungsdatum: 07.10.1994
-
+% Verordnung über Herkunftsgebiete für forstliches Vermehrungsgut  (Forstvermehrungsgut-Herkunftsgebietsverordnung - FoVHgV)
+% Ausfertigungsdatum: 07.10.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Abs. 2 Nr. 2 und des § 10 Abs. 3 des Gesetzes über forstliches Saat- und Pflanzgut in der Fassung der Bekanntmachung vom 26. Juli 1979 (BGBl. I S. 1242) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Bestimmung und Bezeichnung von Herkunftsgebieten
+# § 1 – Bestimmung und Bezeichnung von Herkunftsgebieten
 
 (1) Als Grundlage für die Abgrenzung von Herkunftsgebieten werden ökologische Grundeinheiten in der als Anlage 1 dieser Verordnung beigefügten "Übersicht über ökologische Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete" bestimmt und bezeichnet. Sie sind in der als Anlage 2 dieser Verordnung beigefügten "Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete" dargestellt.
 
 (2) Für die in § 2 Nr. 1 in Verbindung mit der Anlage des Forstvermehrungsgutgesetzes aufgeführten Baumarten werden Herkunftsgebiete in der als Anlage 3 dieser Verordnung beigefügten "Übersicht über forstliche Herkunftsgebiete" auf der Grundlage von ökologischen Grundeinheiten und gegebenenfalls nach der Höhenlage als Höhenstufen bestimmt und bezeichnet. Sie sind mit Ausnahme des Herkunftsgebietes der Gattung Populus (Pappel) in den als Anlage 4 dieser Verordnung beigefügten "Karten über forstliche Herkunftsgebiete" dargestellt.
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
-
-## § 3 – Übergangsvorschriften
+# § 3 – Übergangsvorschriften
 
 (1) Ausgewähltes Vermehrungsgut, das vor Inkrafttreten dieser Verordnung gewonnen wurde, ist mit dem Herkunftsgebiet zum Zeitpunkt der Gewinnung des Vermehrungsguts erweitert um den Zusatz "früheres Herkunftsgebiet" zu kennzeichnen. Dieses Vermehrungsgut darf noch bis zum 31. Dezember 2004, bei den Baumarten Picea abies (L.) Karst., Fichte, und Pinus sylvestris L., Kiefer, darüber hinaus noch bis zum 31. Dezember 2009, vertrieben werden.
 
@@ -35,31 +29,26 @@ Anträge können nur bis zum 31. Dezember 1995 gestellt werden.
 
 (3) (weggefallen)
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 (Inhalt: nicht darstellbare Übersicht über ökologische Grundeinheiten  
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578)
 
-
-## Anlage 2 – (zu § 1 Abs. 1 Forstsaat-Herkunftsgebietsverordnung)
+# Anlage 2 – (zu § 1 Abs. 1 Forstsaat-Herkunftsgebietsverordnung)
 
 (Inhalt: nicht darstellbare Karte,  
 Karte über ökologische Grundeinheiten zur Abgrenzung forstlicher Herkunftsgebiete  
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578)
 
-
-## Anlage 3 – (zu § 1 Abs. 2)  Übersicht über forstliche Herkunftsgebiete
+# Anlage 3 – (zu § 1 Abs. 2)  Übersicht über forstliche Herkunftsgebiete
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 8 v. 27.2.2003 I 238, S. 3 - 13
 
@@ -1515,8 +1504,7 @@ West- und Süddeutsches Bergland sowie Alpen und Alpenvorland
 
 7, 8, 12, 20-24, 29-35, 38-46
 
-
-## Anlage 4 – (zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung)  Karte über forstliche Herkunftsgebiete
+# Anlage 4 – (zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung)  Karte über forstliche Herkunftsgebiete
 
 (Inhalt: nicht darstellbare Karten,  
 Karte über forstliche Herkunftsgebiete - Weißtanne,  
@@ -1535,7 +1523,6 @@ Karte über forstliche Herkunftsgebiete - Stieleiche,
 Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-
-## Anlage 5
+# Anlage 5
 
 (weggefallen)

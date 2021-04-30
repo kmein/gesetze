@@ -1,20 +1,15 @@
-# [ZVFV] Verordnung über Formulare für die Zwangsvollstreckung  (Zwangsvollstreckungsformular-Verordnung - ZVFV)
-
-Ausfertigungsdatum: 23.08.2012
-
+% Verordnung über Formulare für die Zwangsvollstreckung  (Zwangsvollstreckungsformular-Verordnung - ZVFV)
+% Ausfertigungsdatum: 23.08.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 758a Absatz 6 und des § 829 Absatz 4 der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781) verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Formular für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
+# § 1 – Formular für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 
 Für den Antrag nach § 758a Absatz 1 der Zivilprozessordnung wird das in der Anlage 1 bestimmte Formular eingeführt.
 
-
-## § 2 – Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses
+# § 2 – Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses
 
 Für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses nach § 829 der Zivilprozessordnung werden folgende Formulare eingeführt:
 
@@ -24,8 +19,7 @@ Für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses nach �
 
 Soweit die Forderung durch einen Beschluss bereits gepfändet worden ist, ist für den Antrag auf Überweisung dieser Forderung die Nutzung der Formulare nicht verbindlich.
 
-
-## § 3 – Zulässige Abweichungen; Einreichung des Antrags
+# § 3 – Zulässige Abweichungen; Einreichung des Antrags
 
 (1) Inhaltliche Abweichungen von den Formularen sind nicht zulässig. Anpassungen, die auf der Änderung von Rechtsvorschriften beruhen, sind zulässig.
 
@@ -41,28 +35,23 @@ Soweit die Forderung durch einen Beschluss bereits gepfändet worden ist, ist f�
 
 (4) Es reicht aus, wenn der Antragsteller nur die Seiten des Formulars, auf denen sich Angaben des Antragstellers befinden, bei dem Gericht einreicht. Die nicht eingereichten Formularseiten sind auch in diesem Fall Teil des Antrags.
 
-
-## § 4 – Formulare in elektronischer Form
+# § 4 – Formulare in elektronischer Form
 
 Die Länder dürfen Anpassungen von den in den Anlagen bestimmten Formularen zulassen, die es, ohne den Inhalt zu verändern oder dessen Verständnis zu erschweren, ermöglichen, die Formulare in elektronischer Form auszufüllen und dem Gericht als strukturierten Datensatz zu übermitteln. Für die elektronische Übermittlung sind die in den Formularen enthaltenen Angaben in das XML-Format zu übertragen. Die Länder können dazu durch Verwaltungsvereinbarung eine gemeinsame zentrale Koordinierungsstelle einrichten.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## § 5 – Verbindlichkeit
+# § 5 – Verbindlichkeit
 
 Vom 1. März 2013 an sind die gemäß den §§ 1 und 2 eingeführten Formulare verbindlich zu nutzen.
 
-
-## § 6 – Übergangsregelung
+# § 6 – Übergangsregelung
 
 Für Anträge, die bis zum 1. November 2014 gestellt werden, können die bis zum 24. Juni 2014 bestimmten Formulare für den Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses weiter genutzt werden. Für Anträge, die bis zum 1. Juni 2015 gestellt werden, kann das bis zum 24. Juni 2014 bestimmte Formular für den Antrag auf Erlass einer richterlichen Durchsuchungsanordnung weiter genutzt werden.
 
-
-## Anlage 1 – (zu § 1)Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
+# Anlage 1 – (zu § 1)Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
 
 (Fundstelle: BGBl. I 2014, 755 - 758)
 
@@ -72,8 +61,7 @@ Für Anträge, die bis zum 1. November 2014 gestellt werden, können die bis zum
 
 <a href="../normengrafiken/bgbl1_2014/j0754-1_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 2 Nummer 2)Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses insbesondere wegen gewöhnlicher Geldforderungen
+# Anlage 2 – (zu § 2 Nummer 2)Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses insbesondere wegen gewöhnlicher Geldforderungen
 
 (Fundstelle: BGBl. I 2014, 759 - 768)
 
@@ -95,8 +83,7 @@ Für Anträge, die bis zum 1. November 2014 gestellt werden, können die bis zum
 
 <a href="../normengrafiken/bgbl1_2014/j0754-1_0120.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 2 Nummer 1)Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses wegen Unterhaltsforderungen
+# Anlage 3 – (zu § 2 Nummer 1)Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses wegen Unterhaltsforderungen
 
 (Fundstelle: BGBl. I 2014, 769 - 779)
 

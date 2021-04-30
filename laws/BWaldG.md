@@ -1,10 +1,7 @@
-# [BWaldG] Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft  (Bundeswaldgesetz)
-
-Ausfertigungsdatum: 02.05.1975
-
+% Gesetz zur Erhaltung des Waldes und zur Förderung der Forstwirtschaft  (Bundeswaldgesetz)
+% Ausfertigungsdatum: 02.05.1975
  
-
-## § 1 – Gesetzeszweck
+# § 1 – Gesetzeszweck
 
 Zweck dieses Gesetzes ist insbesondere,
 
@@ -14,8 +11,7 @@ Zweck dieses Gesetzes ist insbesondere,
 
 3. einen Ausgleich zwischen dem Interesse der Allgemeinheit und den Belangen der Waldbesitzer herbeizuführen.
 
-
-## § 2 – Wald
+# § 2 – Wald
 
 (1) Wald im Sinne dieses Gesetzes ist jede mit Forstpflanzen bestockte Grundfläche. Als Wald gelten auch kahlgeschlagene oder verlichtete Grundflächen, Waldwege, Waldeinteilungs- und Sicherungsstreifen, Waldblößen und Lichtungen, Waldwiesen, Wildäsungsplätze, Holzlagerplätze sowie weitere mit dem Wald verbundene und ihm dienende Flächen.
 
@@ -31,8 +27,7 @@ Zweck dieses Gesetzes ist insbesondere,
 
 (3) Die Länder können andere Grundflächen dem Wald zurechnen und Weihnachtsbaum- und Schmuckreisigkulturen sowie zum Wohnbereich gehörende Parkanlagen vom Waldbegriff ausnehmen.
 
-
-## § 3 – Waldeigentumsarten
+# § 3 – Waldeigentumsarten
 
 (1) Staatswald im Sinne dieses Gesetzes ist Wald, der im Alleineigentum des Bundes, eines Landes oder einer Anstalt oder Stiftung des öffentlichen Rechts steht, sowie Wald im Miteigentum eines Landes, soweit er nach landesrechtlichen Vorschriften als Staatswald angesehen wird.
 
@@ -40,21 +35,17 @@ Zweck dieses Gesetzes ist insbesondere,
 
 (3) Privatwald im Sinne dieses Gesetzes ist Wald, der weder Staatswald noch Körperschaftswald ist.
 
-
-## § 4 – Waldbesitzer
+# § 4 – Waldbesitzer
 
 Waldbesitzer im Sinne dieses Gesetzes sind der Waldeigentümer und der Nutzungsberechtigte, sofern dieser unmittelbarer Besitzer des Waldes ist.
 
-
-## § 5 – Vorschriften für die Landesgesetzgebung
+# § 5 – Vorschriften für die Landesgesetzgebung
 
 Die Vorschriften dieses Kapitels sind Rahmenvorschriften für die Landesgesetzgebung. Die Länder sollen innerhalb von zwei Jahren nach dem Inkrafttreten dieses Gesetzes den Bestimmungen dieses Kapitels entsprechende Vorschriften einschließlich geeigneter Entschädigungsregelungen erlassen oder bestehende Vorschriften anpassen.
 
+# §§ 6 und 7 – (weggefallen)
 
-## §§ 6 und 7 – (weggefallen)
-
-
-## § 8 – Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von Trägern öffentlicher Vorhaben
+# § 8 – Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von Trägern öffentlicher Vorhaben
 
 Die Träger öffentlicher Vorhaben haben bei Planungen und Maßnahmen, die eine Inanspruchnahme von Waldflächen vorsehen oder die in ihren Auswirkungen Waldflächen betreffen können,
 
@@ -62,8 +53,7 @@ Die Träger öffentlicher Vorhaben haben bei Planungen und Maßnahmen, die eine 
 
 2. die für die Forstwirtschaft zuständigen Behörden bereits bei der Vorbereitung der Planungen und Maßnahmen zu unterrichten und anzuhören, soweit nicht nach diesem Gesetz und sonstigen Vorschriften eine andere Form der Beteiligung vorgeschrieben ist.
 
-
-## § 9 – Erhaltung des Waldes
+# § 9 – Erhaltung des Waldes
 
 (1) Wald darf nur mit Genehmigung der nach Landesrecht zuständigen Behörde gerodet und in eine andere Nutzungsart umgewandelt werden (Umwandlung). Bei der Entscheidung über einen Umwandlungsantrag sind die Rechte, Pflichten und wirtschaftlichen Interessen des Waldbesitzers sowie die Belange der Allgemeinheit gegeneinander und untereinander abzuwägen. Die Genehmigung soll versagt werden, wenn die Erhaltung des Waldes überwiegend im öffentlichen Interesse liegt, insbesondere wenn der Wald für die Leistungsfähigkeit des Naturhaushalts, die forstwirtschaftliche Erzeugung oder die Erholung der Bevölkerung von wesentlicher Bedeutung ist.
 
@@ -75,8 +65,7 @@ Die Träger öffentlicher Vorhaben haben bei Planungen und Maßnahmen, die eine 
 
 2. weiteren Einschränkungen unterworfen oder, insbesondere bei Schutz- und Erholungswald, untersagt wird.
 
-
-## § 10 – Erstaufforstung
+# § 10 – Erstaufforstung
 
 (1) Die Erstaufforstung von Flächen bedarf der Genehmigung der nach Landesrecht zuständigen Behörde. Die Genehmigung darf nur versagt werden, wenn Erfordernisse der Raumordnung und Landesplanung der Aufforstung entgegenstehen und ihnen nicht durch Auflagen entsprochen werden kann. § 9 Abs. 1 Satz 2 gilt entsprechend.
 
@@ -86,8 +75,7 @@ Die Träger öffentlicher Vorhaben haben bei Planungen und Maßnahmen, die eine 
 
 2. weiteren Einschränkungen unterworfen oder auch untersagt wird.
 
-
-## § 11 – Bewirtschaftung des Waldes
+# § 11 – Bewirtschaftung des Waldes
 
 (1) Der Wald soll im Rahmen seiner Zweckbestimmung ordnungsgemäß und nachhaltig bewirtschaftet werden. Durch Landesgesetz ist mindestens die Verpflichtung für alle Waldbesitzer zu regeln, kahlgeschlagene Waldflächen oder verlichtete Waldbestände in angemessener Frist
 
@@ -105,8 +93,7 @@ falls nicht die Umwandlung in eine andere Nutzungsart genehmigt worden oder sons
 
 angemessen berücksichtigt werden.
 
-
-## § 12 – Schutzwald
+# § 12 – Schutzwald
 
 (1) Wald kann zu Schutzwald erklärt werden, wenn es zur Abwehr oder Verhütung von Gefahren, erheblichen Nachteilen oder erheblichen Belästigungen für die Allgemeinheit notwendig ist, bestimmte forstliche Maßnahmen durchzuführen oder zu unterlassen. Die Erklärung zu Schutzwald kommt insbesondere in Betracht zum Schutz gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes vom 15. März 1974 (Bundesgesetzbl. I S. 721), Erosion durch Wasser und Wind, Austrocknung, schädliches Abfließen von Niederschlagswasser und Lawinen. § 10 des Bundesfernstraßengesetzes und § 51 Absatz 1 Satz 1 Nummer 3 des Wasserhaushaltsgesetzes bleiben unberührt.
 
@@ -116,8 +103,7 @@ angemessen berücksichtigt werden.
 
 (4) Das Nähere regeln die Länder. Sie können durch weitergehende Vorschriften den Waldbesitzer verpflichten, bestimmte Maßnahmen im Schutzwald zu unterlassen oder durchzuführen.
 
-
-## § 13 – Erholungswald
+# § 13 – Erholungswald
 
 (1) Wald kann zu Erholungswald erklärt werden, wenn es das Wohl der Allgemeinheit erfordert, Waldflächen für Zwecke der Erholung zu schützen, zu pflegen oder zu gestalten.
 
@@ -131,25 +117,21 @@ angemessen berücksichtigt werden.
 
 4. das Verhalten der Waldbesucher.
 
-
-## § 14 – Betreten des Waldes
+# § 14 – Betreten des Waldes
 
 (1) Das Betreten des Waldes zum Zwecke der Erholung ist gestattet. Das Radfahren, das Fahren mit Krankenfahrstühlen und das Reiten im Walde ist nur auf Straßen und Wegen gestattet. Die Benutzung geschieht auf eigene Gefahr. Dies gilt insbesondere für waldtypische Gefahren.
 
 (2) Die Länder regeln die Einzelheiten. Sie können das Betreten des Waldes aus wichtigem Grund, insbesondere des Forstschutzes, der Wald- oder Wildbewirtschaftung, zum Schutz der Waldbesucher oder zur Vermeidung erheblicher Schäden oder zur Wahrung anderer schutzwürdiger Interessen des Waldbesitzers, einschränken und andere Benutzungsarten ganz oder teilweise dem Betreten gleichstellen.
 
-
-## § 15 – Arten der forstwirtschaftlichen Zusammenschlüsse
+# § 15 – Arten der forstwirtschaftlichen Zusammenschlüsse
 
 Forstwirtschaftliche Zusammenschlüsse im Sinne dieses Gesetzes sind anerkannte Forstbetriebsgemeinschaften (Abschnitt II), Forstbetriebsverbände (Abschnitt III) und anerkannte Forstwirtschaftliche Vereinigungen (Abschnitt IV).
 
-
-## § 16 – Begriff
+# § 16 – Begriff
 
 Forstbetriebsgemeinschaften sind privatrechtliche Zusammenschlüsse von Grundbesitzern, die den Zweck verfolgen, die Bewirtschaftung der angeschlossenen Waldflächen und der zur Aufforstung bestimmten Grundstücke (Grundstücke) zu verbessern, insbesondere die Nachteile geringer Flächengröße, ungünstiger Flächengestalt, der Besitzzersplitterung, der Gemengelage, des unzureichenden Waldaufschlusses oder anderer Strukturmängel zu überwinden.
 
-
-## § 17 – Aufgaben der Forstbetriebsgemeinschaft
+# § 17 – Aufgaben der Forstbetriebsgemeinschaft
 
 Die Forstbetriebsgemeinschaft muß mindestens eine der folgenden Maßnahmen zur Aufgabe haben:
 
@@ -165,8 +147,7 @@ Die Forstbetriebsgemeinschaft muß mindestens eine der folgenden Maßnahmen zur 
 
 6. Beschaffung und Einsatz von Maschinen und Geräten für mehrere der unter den Nummern 2 bis 5 zusammengefaßten Maßnahmen.
 
-
-## § 18 – Anerkennung
+# § 18 – Anerkennung
 
 (1) Eine Forstbetriebsgemeinschaft wird von der nach Landesrecht zuständigen Behörde auf Antrag anerkannt, wenn sie folgende Voraussetzungen erfüllt:
 
@@ -202,25 +183,21 @@ b) die Organe, ihre Aufgaben und die Art der Beschlußfassung. Dabei muß bestim
 
 (3) Gehören einer Forstbetriebsgemeinschaft Gemeinschaftsforsten an, so kann sie anerkannt werden, wenn sie weniger als sieben Mitglieder umfaßt.
 
-
-## § 19 – Verleihung der Rechtsfähigkeit an Vereine
+# § 19 – Verleihung der Rechtsfähigkeit an Vereine
 
 Hat der forstwirtschaftliche Zusammenschluß die Rechtsform des rechtsfähigen Vereins mit wirtschaftlichem Geschäftsbetrieb gewählt, so kann ihm durch die für die Anerkennung zuständige Behörde gleichzeitig mit der Anerkennung die Rechtsfähigkeit nach § 22 des Bürgerlichen Gesetzbuchs verliehen werden.
 
-
-## § 20 – Widerruf der Anerkennung
+# § 20 – Widerruf der Anerkennung
 
 Die nach Landesrecht zuständige Behörde kann die Anerkennung widerrufen, wenn eine Anerkennungsvoraussetzung nicht mehr vorliegt oder wenn die Forstbetriebsgemeinschaft ihre Aufgabe während eines längeren Zeitraumes nicht oder unzulänglich erfüllt hat.
 
-
-## § 21 – Begriff und Aufgabe
+# § 21 – Begriff und Aufgabe
 
 (1) Forstbetriebsverbände sind Zusammenschlüsse von Grundstückseigentümern in der Form von Körperschaften des öffentlichen Rechts, die den in § 16 bezeichneten Zweck verfolgen.
 
 (2) Für die Aufgabe gilt § 17 entsprechend. Sie kann nicht auf die gemeinschaftliche Durchführung einheitlicher Betriebspläne erstreckt werden.
 
-
-## § 22 – Voraussetzungen für die Bildung eines Forstbetriebsverbandes
+# § 22 – Voraussetzungen für die Bildung eines Forstbetriebsverbandes
 
 (1) Ein Forstbetriebsverband kann nur für forstwirtschaftlich besonders ungünstig strukturierte Gebiete gebildet werden.
 
@@ -238,8 +215,7 @@ Die nach Landesrecht zuständige Behörde kann die Anerkennung widerrufen, wenn 
 
 (4) Grundstücke, die besonderen öffentlichen Zwecken dienen oder zu dienen bestimmt sind, können nur mit Einwilligung der Nutzungsberechtigten in einen Forstbetriebsverband einbezogen werden.
 
-
-## § 23 – Bildung eines Forstbetriebsverbands
+# § 23 – Bildung eines Forstbetriebsverbands
 
 (1) Zur Bildung eines Forstbetriebsverbandes hält die nach Landesrecht zuständige Behörde eine einleitende Versammlung ab, stellt einen Satzungsentwurf und ein vorläufiges Verzeichnis der beteiligten Grundstücke und ihrer Eigentümer auf und beruft die Gründungsversammlung ein.
 
@@ -249,15 +225,13 @@ Die nach Landesrecht zuständige Behörde kann die Anerkennung widerrufen, wenn 
 
 (4) Die Landesregierungen werden ermächtigt, Einzelheiten des Gründungsverfahrens, der Genehmigung und Bekanntmachung der Satzung durch Rechtsverordnung zu regeln. Die Landesregierungen können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
-
-## § 24 – Mitgliedschaft
+# § 24 – Mitgliedschaft
 
 (1) Mitglieder eines Forstbetriebsverbands sind die Eigentümer der beteiligten Grundstücke. Ist ein anderer als der Eigentümer Nutzungsberechtigter, so kann er für die Dauer seines Nutzungsrechts mit Einverständnis des Eigentümers dessen Rechte und Pflichten übernehmen. Die Übernahme der Rechte und Pflichten ist ebenso wie das Einverständnis des Eigentümers schriftlich gegenüber dem Forstbetriebsverband zu erklären.
 
 (2) Die Satzung kann den Beitritt weiterer Mitglieder zulassen.
 
-
-## § 25 – Satzung
+# § 25 – Satzung
 
 (1) Die Satzung wird von den Mitgliedern mit der in § 22 Abs. 2 Nr. 3 bezeichneten Mehrheit beschlossen.
 
@@ -281,13 +255,11 @@ Die nach Landesrecht zuständige Behörde kann die Anerkennung widerrufen, wenn 
 
 (3) Die Vorschriften des § 18 Abs. 1 Nr. 3 Buchstabe e und Absatz 2 gelten entsprechend.
 
-
-## § 26 – Organe des Forstbetriebsverbands
+# § 26 – Organe des Forstbetriebsverbands
 
 Organe des Forstbetriebsverbandes sind die Verbandsversammlung, der Vorstand und, sofern es die Satzung vorsieht, der Verbandsausschuß.
 
-
-## § 27 – Aufgaben der Verbandsversammlung
+# § 27 – Aufgaben der Verbandsversammlung
 
 Die Verbandsversammlung wählt den Vorstand und dessen Vorsitzenden. Sie beschließt über
 
@@ -305,8 +277,7 @@ Die Verbandsversammlung wählt den Vorstand und dessen Vorsitzenden. Sie beschli
 
 7. die ihr in der Satzung zugewiesenen Angelegenheiten.
 
-
-## § 28 – Vorsitz in der Verbandsversammlung, Einberufung und Stimmenverhältnis
+# § 28 – Vorsitz in der Verbandsversammlung, Einberufung und Stimmenverhältnis
 
 (1) Den Vorsitz in der Verbandsversammlung führt der Vorsitzende des Vorstands.
 
@@ -314,41 +285,35 @@ Die Verbandsversammlung wählt den Vorstand und dessen Vorsitzenden. Sie beschli
 
 (3) Das Stimmrecht der Mitglieder ist nach der Größe ihrer Grundstücke in der Satzung festzulegen. Jedes Mitglied hat mindestens eine Stimme. Kein Mitglied darf mehr als zwei Fünftel der Gesamtstimmen haben. Die Verbandsversammlung beschließt mit Mehrheit der abgegebenen Stimmen, soweit in diesem Gesetz oder in der Satzung nichts anderes bestimmt ist.
 
-
-## § 29 – Vorstand
+# § 29 – Vorstand
 
 (1) Der Vorstand des Forstbetriebsverbands besteht aus dem Vorsitzenden und mindestens zwei weiteren Mitgliedern.
 
 (2) Der Vorstand führt die Geschäfte des Verbands. Er vertritt ihn gerichtlich und außergerichtlich.
 
-
-## § 30 – Verbandsausschuß
+# § 30 – Verbandsausschuß
 
 In der Satzung kann bestimmt werden, daß ein Verbandsausschuß gebildet wird. Diesem können in der Satzung unbeschadet des § 27 Angelegenheiten von geringerer Bedeutung zur Beschlußfassung zugewiesen werden. Ferner kann bestimmt werden, daß der Verbandsausschuß bei bestimmten Verwaltungsaufgaben des Vorstands mitwirkt.
 
-
-## § 31 – Änderung der Satzung
+# § 31 – Änderung der Satzung
 
 (1) Über eine Änderung der Satzung beschließt die Verbandsversammlung mit einer Mehrheit von mindestens zwei Dritteln der Stimmen aller Mitglieder.
 
 (2) Die Satzungsänderung bedarf der Genehmigung der nach Landesrecht zuständigen Behörde. Die Änderung wird mit ihrer öffentlichen Bekanntmachung wirksam.
 
-
-## § 32 – Ausscheiden von Grundstücken
+# § 32 – Ausscheiden von Grundstücken
 
 (1) Grundstücke, deren forstwirtschaftliche Nutzung oder Bestimmung sich auf Grund einer Rechtsvorschrift oder einer behördlichen Anordnung oder Erlaubnis endgültig ändert, scheiden aus dem Verbandswald mit der Beendigung der Umwandlung aus.
 
 (2) Im übrigen bedarf das Ausscheiden eines Grundstücks aus dem Verbandswald der Genehmigung der nach Landesrecht zuständigen Behörde. Die Genehmigung darf nur erteilt werden, wenn ein wichtiger Grund vorliegt. Sie ist zu versagen, wenn das Ausscheiden die Durchführung der Aufgabe des Forstbetriebsverbands gefährden würde. Für die in § 22 Abs. 4 bezeichneten Grundstücke ist die Genehmigung zu erteilen, wenn die Nutzungsberechtigten es verlangen.
 
-
-## § 33 – Umlage, Beiträge
+# § 33 – Umlage, Beiträge
 
 (1) Der Forstbetriebsverband erhebt von den Mitgliedern eine Umlage, soweit seine sonstigen Einnahmen nicht ausreichen, um seinen Finanzbedarf zu decken. Die Umlage soll regelmäßig nach der Größe der zum Forstbetriebsverband gehörenden Grundstücke bemessen werden. Ein anderer Maßstab kann zugrunde gelegt werden, wenn dies angemessen ist.
 
 (2) Der Forstbetriebsverband kann von den Mitgliedern für bestimmte Zwecke oder Leistungen Beiträge erheben.
 
-
-## § 34 – Aufsicht
+# § 34 – Aufsicht
 
 (1) Der Forstbetriebsverband unterliegt der Aufsicht der nach Landesrecht zuständigen Behörde. Er bedarf der Genehmigung der Aufsichtsbehörde
 
@@ -358,20 +323,17 @@ In der Satzung kann bestimmt werden, daß ein Verbandsausschuß gebildet wird. D
 
 (2) Im übrigen bestimmt sich die Aufsicht über den Forstbetriebsverband nach Landesrecht. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die Befugnisse der Aufsichtsbehörde im einzelnen zu regeln; sie können diese Ermächtigungen auf oberste Landesbehörden übertragen.
 
-
-## § 35 – Verbandsverzeichnis
+# § 35 – Verbandsverzeichnis
 
 Der Forstbetriebsverband führt ein Verzeichnis der beteiligten Grundstücke, der Eigentümer und ihrer Stimmrechte. Die Landesregierungen werden ermächtigt, durch Rechtsverordnung Näheres über die Anlegung und Führung des Verbandsverzeichnisses zu bestimmen. Die Landesregierungen können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
-
-## § 36 – Auflösung des Forstbetriebsverbandes
+# § 36 – Auflösung des Forstbetriebsverbandes
 
 (1) Die Verbandsversammlung kann mit einer Mehrheit von mindestens drei Vierteln der Stimmen aller Mitglieder die Auflösung des Forstbetriebsverbands beschließen.
 
 (2) Der Beschluß bedarf der Genehmigung der nach Landesrecht zuständigen Behörde.
 
-
-## § 37 – Begriff und Aufgabe
+# § 37 – Begriff und Aufgabe
 
 (1) Forstwirtschaftliche Vereinigungen sind privatrechtliche Zusammenschlüsse von  
 anerkannten Forstbetriebsgemeinschaften,  
@@ -391,8 +353,7 @@ zu dem ausschließlichen Zweck, auf die Anpassung der forstwirtschaftlichen Erze
 
 5. Beschaffung und Einsatz von Maschinen und Geräten.
 
-
-## § 38 – Anerkennung
+# § 38 – Anerkennung
 
 (1) Eine Forstwirtschaftliche Vereinigung wird durch die nach Landesrecht zuständige Behörde auf Antrag anerkannt, wenn sie folgende Voraussetzungen erfüllt:
 
@@ -412,8 +373,7 @@ b) die Finanzierung der Aufgabe;
 
 (3) Die §§ 19 und 20 gelten entsprechend.
 
-
-## § 39 – Sonstige Zusammenschlüsse in der Forstwirtschaft
+# § 39 – Sonstige Zusammenschlüsse in der Forstwirtschaft
 
 (1) Die nach der Verordnung über die Bildung wirtschaftlicher Zusammenschlüsse in der Forstwirtschaft vom 7. Mai 1943 (Reichsgesetzbl. I S. 298) gebildeten Forstverbände stehen den Forstbetriebsverbänden gleich, soweit deren Zweck sich nicht ganz oder überwiegend auf die Einstellung von Personal beschränkt.
 
@@ -423,8 +383,7 @@ b) die Finanzierung der Aufgabe;
 
 (4) Im übrigen bleiben die landesrechtlichen Vorschriften über Zusammenschlüsse in der Forstwirtschaft unberührt.
 
-
-## § 40 – Befreiung von Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
+# § 40 – Befreiung von Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
 
 (1) § 1 des Gesetzes gegen Wettbewerbsbeschränkungen findet keine Anwendung auf Beschlüsse von Vereinigungen forstwirtschaftlicher Erzeugerbetriebe, von anerkannten Forstbetriebsgemeinschaften, von Forstbetriebsverbänden und von forstwirtschaftlichen Vereinigungen, soweit sie die forstwirtschaftliche Erzeugung und den Absatz von Forsterzeugnissen betreffen. Das gleiche gilt für die nach Landesrecht gebildeten öffentlich-rechtlichen Waldwirtschaftsgenossenschaften und ähnliche Zusammenschlüsse in der Forstwirtschaft, sofern sie einen wesentlichen Wettbewerb auf dem Holzmarkt bestehen lassen.
 
@@ -434,8 +393,7 @@ b) die Finanzierung der Aufgabe;
 
 (4) Als Vereinigungen forstwirtschaftlicher Erzeugerbetriebe sind Waldwirtschaftsgemeinschaften, Waldwirtschaftsgenossenschaften, Forstverbände, Eigentumsgenossenschaften und ähnliche Vereinigungen anzusehen, deren Wirkungskreis nicht wesentlich über das Gebiet einer Gemarkung oder einer Gemeinde hinausgeht und die zur gemeinschaftlichen Durchführung forstbetrieblicher Maßnahmen gebildet werden oder gebildet worden sind.
 
-
-## § 41 – Förderung
+# § 41 – Förderung
 
 (1) Die Forstwirtschaft soll wegen der Nutz-, Schutz- und Erholungsfunktionen des Waldes nach § 1 öffentlich gefördert werden.
 
@@ -451,8 +409,7 @@ b) die Finanzierung der Aufgabe;
 
 2. Inhaber land- oder forstwirtschaftlicher Betriebe oder Grundbesitzer, soweit ihre forstlichen Vorhaben nicht über forstwirtschaftliche Zusammenschlüsse gefördert werden.
 
-
-## § 41a – Walderhebungen
+# § 41a – Walderhebungen
 
 (1) Zur Erfüllung der Aufgaben dieses Gesetzes sowie zur Durchführung von Rechtsakten der Europäischen Union oder völkerrechtlich verbindlicher Vereinbarungen im Anwendungsbereich dieses Gesetzes ist vorbehaltlich des Absatzes 3 alle zehn Jahre eine auf das gesamte Bundesgebiet bezogene forstliche Großrauminventur auf Stichprobenbasis (Bundeswaldinventur) durchzuführen. Sie soll einen Gesamtüberblick über die großräumigen Waldverhältnisse und forstlichen Produktionsmöglichkeiten liefern. Die hierzu erforderlichen Messungen und Beschreibungen des Waldzustandes (Grunddaten) sind nach einem einheitlichen Verfahren vorzunehmen. Dabei ist auf die Verwertbarkeit der Grunddaten auch im Rahmen der Beobachtung nach § 6 Bundesnaturschutzgesetz zu achten.
 
@@ -474,27 +431,23 @@ b) die Finanzierung der Aufgabe;
 
 erhoben werden können und dabei nähere Vorschriften über den Zeitpunkt, die anzuwendenden Verfahren und die zu ermittelnden Grunddaten erlassen. Im Falle einer Rechtsverordnung nach Satz 1 gilt Absatz 2 entsprechend.
 
-
-## § 42 – Auskunftspflicht
+# § 42 – Auskunftspflicht
 
 (1) Natürliche und juristische Personen und nicht rechtsfähige Personenvereinigungen haben den zuständigen Behörden auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der den Behörden durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben erforderlich sind.
 
 (2) Der Auskunftspflichtige kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 43 – Verletzung der Auskunftspflicht
+# § 43 – Verletzung der Auskunftspflicht
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 42 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
-
-## § 44 – Allgemeine Verwaltungsvorschriften
+# § 44 – Allgemeine Verwaltungsvorschriften
 
 Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit Zustimmung des Bundesrates die zur Durchführung der §§ 15 bis 40 und 41a erforderlichen allgemeinen Verwaltungsvorschriften.
 
-
-## § 45 – Anwendung des Gesetzes in besonderen Fällen
+# § 45 – Anwendung des Gesetzes in besonderen Fällen
 
 (1) Auf Flächen, die Zwecken
 
@@ -512,8 +465,7 @@ dienen, sind die nach den §§ 6, 7 und 9 bis 13 dieses Gesetzes erlassenen Land
 
 (4) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
-
-## § 46 – Weitere Vorschriften in besonderen Fällen
+# § 46 – Weitere Vorschriften in besonderen Fällen
 
 (1) Für Beschlüsse und Vereinbarungen über die der Holzvermarktung nicht zuzurechnenden forstwirtschaftlichen Maßnahmen von nichtstaatlichen oder staatlichen Trägern oder von deren Kooperationen, soweit auf diese Beschlüsse und Vereinbarungen die Regelungen des Gesetzes gegen Wettbewerbsbeschränkungen anzuwenden sind, gelten die Voraussetzungen für eine Freistellung im Sinne des § 2 des Gesetzes gegen Wettbewerbsbeschränkungen als erfüllt. Maßnahmen im Sinne des Satzes 1 umfassen die Bereiche der Planung und Ausführung waldbaulicher Maßnahmen, der Markierung, der Ernte und der Bereitstellung des Rohholzes bis einschließlich seiner Registrierung.
 
@@ -521,13 +473,11 @@ dienen, sind die nach den §§ 6, 7 und 9 bis 13 dieses Gesetzes erlassenen Land
 
 (3) Das Bundesministerium für Ernährung und Landwirtschaft hat dem Deutschen Bundestag im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie bis spätestens 31. Dezember 2022 und danach jeweils im Abstand von drei Jahren zu berichten, ob und inwieweit die Regelungen in den Absätzen 1 und 2 weiterhin erforderlich sind, um ein flächendeckendes Angebot forstlicher Dienstleistungen zu angemessenen Bedingungen und den diskriminierungsfreien Zugang zu diesen Dienstleistungen für alle Waldbesitzer sicherzustellen. Die Berichte sollen, unter besonderer Berücksichtigung der zu fördernden Entwicklung der Forstbetriebsgemeinschaften, Vorschläge für gegebenenfalls notwendige Anpassungen der Regelungen enthalten.
 
-
-## § 47
+# § 47
 
 (weggefallen)
 
-
-## § 48 – Inkrafttreten, Aufhebung von Vorschriften
+# § 48 – Inkrafttreten, Aufhebung von Vorschriften
 
 (1) Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 

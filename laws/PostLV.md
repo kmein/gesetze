@@ -1,15 +1,11 @@
-# [PostLV] Verordnung über die Laufbahnen der Beamtinnen und Beamten im Geltungsbereich des Postpersonalrechtsgesetzes  (Postlaufbahnverordnung - PostLV)
-
-Ausfertigungsdatum: 12.01.2012
-
+% Verordnung über die Laufbahnen der Beamtinnen und Beamten im Geltungsbereich des Postpersonalrechtsgesetzes  (Postlaufbahnverordnung - PostLV)
+% Ausfertigungsdatum: 12.01.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des Postpersonalrechtsgesetzes, der zuletzt durch Artikel 15 Absatz 104 Nummer 3 Buchstabe b Doppelbuchstabe aa des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern nach Anhörung der Vorstände der Deutschen Telekom AG, der Deutschen Post AG und der Deutschen Postbank AG:
 
-
-## § 1 – Geltungsbereich, Grundsätze
+# § 1 – Geltungsbereich, Grundsätze
 
 (1) Für Beamtinnen und Beamte, die bei einem Postnachfolgeunternehmen beschäftigt sind, gelten die Vorschriften der Bundeslaufbahnverordnung, soweit in dieser Verordnung nichts anderes bestimmt ist.
 
@@ -25,8 +21,7 @@ Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des Postpersonalrechtsgesetzes, der 
 
 2. während einer Zuweisung nach § 4 Absatz 4 des Postpersonalrechtsgesetzes.
 
-
-## § 2 – Gestaltung der Laufbahnen
+# § 2 – Gestaltung der Laufbahnen
 
 (1) In den Laufbahngruppen des einfachen, mittleren, gehobenen und höheren Dienstes treten an die Stelle der Laufbahnen nach § 6 Absatz 2 der Bundeslaufbahnverordnung die folgenden Laufbahnen:
 
@@ -36,27 +31,23 @@ Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 des Postpersonalrechtsgesetzes, der 
 
 (2) Die zu den Laufbahnen gehörenden Ämter sowie die dazugehörigen Amtsbezeichnungen ergeben sich aus Anlage 1.
 
-
-## § 3 – Qualifizierung bei Laufbahnwechsel
+# § 3 – Qualifizierung bei Laufbahnwechsel
 
 Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche Qualifizierung kann auch durch Wahrnehmung entsprechender beruflicher Tätigkeiten während einer Beurlaubung oder Zuweisung nach § 1 Absatz 5 erworben werden.
 
-
-## § 4 – Zulassung zu einer höheren Laufbahn bei Besitz der erforderlichen Hochschulausbildung
+# § 4 – Zulassung zu einer höheren Laufbahn bei Besitz der erforderlichen Hochschulausbildung
 
 (1) Beamtinnen und Beamte, die die für eine höhere Laufbahn erforderliche Hochschulausbildung besitzen, können abweichend von § 24 der Bundeslaufbahnverordnung für die höhere Laufbahn zugelassen werden, wenn sie bei einem Postnachfolgeunternehmen erfolgreich an einem allgemeinen Auswahlverfahren für Nachwuchskräfte mit Hochschulabschluss teilgenommen und ein Traineeprogramm absolviert haben.
 
 (2) Die Teilnahme an einem Traineeprogramm bei einem Postnachfolgeunternehmen gilt als hauptberufliche Tätigkeit im Sinne des § 17 Absatz 4 und 5 des Bundesbeamtengesetzes, die geeignet ist, die Befähigung für die Laufbahnen des gehobenen und höheren Dienstes zu vermitteln.
 
-
-## § 5 – Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
+# § 5 – Ausnahmen für besonders leistungsstarke Beamtinnen und Beamte
 
 (1) § 27 der Bundeslaufbahnverordnung ist mit der Maßgabe anzuwenden, dass die oberste Dienstbehörde auch Arbeitsplätze bei inländischen Konzernunternehmen als geeignete Arbeitsposten zulassen kann.
 
 (2) Soweit betriebliche oder personalwirtschaftliche Gründe es erfordern, kann die oberste Dienstbehörde von § 27 Absatz 1 der Bundeslaufbahnverordnung abweichende, geringere persönliche Voraussetzungen festlegen. Als Mindestvoraussetzungen sind eine Dienstzeit von 20 Jahren sowie die erfolgreiche Teilnahme an einem Auswahlverfahren zu fordern.
 
-
-## § 6 – Beurteilung und Beförderung
+# § 6 – Beurteilung und Beförderung
 
 (1) In den Fällen des § 1 Absatz 5 ist Maßstab für die regelmäßige Laufbahnentwicklung das Fortkommen der Beamtinnen und Beamten derselben Laufbahn und Laufbahngruppe mit der gleichen Eignung, Befähigung und fachlichen Leistung, die bei dem jeweiligen Postnachfolgeunternehmen hauptamtlich beschäftigt sind.
 
@@ -66,13 +57,11 @@ Die nach § 42 Absatz 2 der Bundeslaufbahnverordnung erforderliche Qualifizierun
 
 (4) Von der Bekanntgabe eines Notenspiegels nach § 50 Absatz 4 der Bundeslaufbahnverordnung kann mit Zustimmung der obersten Dienstbehörde abgesehen werden.
 
-
-## § 7 – Fachspezifische Qualifizierungen für den Aufstieg
+# § 7 – Fachspezifische Qualifizierungen für den Aufstieg
 
 Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium der Finanzen die Dauer und die Inhalte der fachtheoretischen Ausbildung abweichend von § 38 Absatz 2 der Bundeslaufbahnverordnung festlegen, wenn die Anforderungen der Laufbahnen dies rechtfertigen.
 
-
-## § 8 – Überleitungs- und Übergangsvorschriften
+# § 8 – Überleitungs- und Übergangsvorschriften
 
 (1) Beamtinnen und Beamte, die sich bei Inkrafttreten dieser Verordnung in Laufbahnen des Post- und Fernmeldedienstes befinden, besitzen die Befähigung für die entsprechende Laufbahn nach § 2 Absatz 1 und gehören fortan dieser Laufbahn an. Welche Laufbahnen einander entsprechen, ist in Anlage 2 festgelegt.
 
@@ -94,8 +83,7 @@ Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium der Fi
 
 (7) Eine Beurlaubung nach § 13 Absatz 1 der Sonderurlaubsverordnung, die vor dem 6. Juni 2015 erfolgt ist und deren Zeit ruhegehaltfähig ist, steht einer Beurlaubung nach § 1 Absatz 5 Nummer 1 gleich.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -109,8 +97,7 @@ Die oberste Dienstbehörde kann im Einvernehmen mit dem Bundesministerium der Fi
 
 3. die Verordnung über die Laufbahnen, Ausbildung und Prüfung für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und Beamten vom 21. Juni 2004 (BGBl. I S. 1287), die durch § 56 Absatz 42 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist.
 
-
-## Anlage 1 – (zu § 2 Absatz 2)
+# Anlage 1 – (zu § 2 Absatz 2)
 
 (Fundstelle: BGBl. I 2012, 93 - 94)
 
@@ -334,7 +321,6 @@ Eingangsamt des gehobenen technischen Postverwaltungsdienstes (sofern mit Bachel
 <span id="FnA1-f776036_07"></span><a href="#FnR.FnA1-f776036_07" class="Footnote">7)</a>  
 Eingangsamt des höheren nichttechnischen und des höheren technischen Postverwaltungsdienstes.
 
-
-## Anlage 2 – (zu § 8 Absatz 1 und 3)Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
+# Anlage 2 – (zu § 8 Absatz 1 und 3)Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
 
 (Fundstelle: BGBl. I 2012, 95)

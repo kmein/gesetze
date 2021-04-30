@@ -1,15 +1,11 @@
-# [VersorgLErstV] Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet  (Versorgungslast-Erstattungsverordnung)
-
-Ausfertigungsdatum: 19.12.1991
-
+% Verordnung über die pauschale Erstattung der Aufwendungen der Träger der Rentenversicherung aufgrund der Übernahme der Versorgungslast für frühere Beamte und vergleichbare Personengruppen im Beitrittsgebiet  (Versorgungslast-Erstattungsverordnung)
+% Ausfertigungsdatum: 19.12.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 292a des Sechsten Buches Sozialgesetzbuch, der durch Artikel 1 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden ist, verordnet der Bundesminister für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesminister des Innern und dem Bundesminister der Finanzen:
 
-
-## § 1 – Grundsätze
+# § 1 – Grundsätze
 
 (1) Der Bund erstattet den Trägern der gesetzlichen Rentenversicherung bei Renten, die nach den Vorschriften des Beitrittsgebietes berechnet worden sind, die Aufwendungen für die Berücksichtigung von Zeiten, für die bei Renten, die nach den Vorschriften des Sechsten Buches Sozialgesetzbuch berechnet werden, eine Nachversicherung als durchgeführt gilt. Die Erstattung erfolgt durch Zahlung pauschaler Erstattungsbeträge.
 
@@ -17,13 +13,11 @@ Auf Grund des § 292a des Sechsten Buches Sozialgesetzbuch, der durch Artikel 1 
 
 (3) Für die Folgezeit werden die pauschalen Erstattungsbeträge nach Maßgabe des § 3 vom Bundesamt für Soziale Sicherung festgesetzt.
 
-
-## § 2 – Pauschaler Erstattungsbetrag für das erste Halbjahr 1992
+# § 2 – Pauschaler Erstattungsbetrag für das erste Halbjahr 1992
 
 Der pauschale Erstattungsbetrag beträgt für das erste Halbjahr 1992 98 Millionen DM.
 
-
-## § 3 – Pauschale Erstattungsbeträge für die Folgezeit
+# § 3 – Pauschale Erstattungsbeträge für die Folgezeit
 
 (1) In der Folgezeit verändert sich der pauschale Erstattungsbetrag halbjährlich
 
@@ -62,26 +56,22 @@ Rentenanpassungen und Versorgungsanpassungen, die sich nicht auf das gesamte Kal
 
 bekanntgeworden sind; Veränderungen, die ihm später bekannt werden, sind erst bei der Festsetzung des Erstattungsbetrages für das nächste Halbjahr zu berücksichtigen. Das Bundesamt für Soziale Sicherung kann die pauschalen Erstattungsbeträge auf volle 500 Euro aufrunden.
 
-
-## § 4 – Fälligkeit der pauschalen Erstattungsbeträge
+# § 4 – Fälligkeit der pauschalen Erstattungsbeträge
 
 (1) Die pauschalen Erstattungsbeträge für das jeweilige Halbjahr sind jeweils an den Auszahlungstagen der Rentenleistungen in das Inland der Renten für die Monate April und Oktober fällig.
 
 (2) Das Bundesamt für Soziale Sicherung zahlt den auf die allgemeine Rentenversicherung entfallenden Erstattungsbetrag an die Deutsche Rentenversicherung Bund und den auf die knappschaftliche Rentenversicherung entfallenden Anteil an die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der knappschaftlichen Rentenversicherung aus.
 
-
-## § 5 – Aufteilung der pauschalen Erstattungsbeträge
+# § 5 – Aufteilung der pauschalen Erstattungsbeträge
 
 (1) Die Aufteilung der pauschalen Erstattungsbeträge auf die Rentenversicherung der Arbeiter und der Angestellten sowie die knappschaftliche Rentenversicherung erfolgt in dem Verhältnis, in dem die Rentenversicherung der Arbeiter und der Angestellten sowie die knappschaftliche Rentenversicherung im Jahre 1990 Erstattungszahlungen aus den in § 3 Abs. 1 Satz 1 Nr. 1 Buchstabe a genannten Nachversicherungen erhalten haben. Danach entfallen auf die Träger der allgemeinen Rentenversicherung 94,72 vom Hundert und auf den Träger der knappschaftlichen Rentenversicherung 5,28 vom Hundert des Erstattungsbetrages.
 
 (2) Der auf die allgemeine Rentenversicherung entfallende Erstattungsbetrag wird buchhalterisch auf die Träger der allgemeinen Rentenversicherung entsprechend ihrem Anteil an den Beitragseinnahmen aufgeteilt. Diese Aufteilung führt die Deutsche Rentenversicherung Bund durch.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

@@ -1,15 +1,11 @@
-# [ZustVV] Verordnung zur Einführung von Vordrucken für die Zustellung im gerichtlichen Verfahren  (Zustellungsvordruckverordnung - ZustVV)
-
-Ausfertigungsdatum: 12.02.2002
-
+% Verordnung zur Einführung von Vordrucken für die Zustellung im gerichtlichen Verfahren  (Zustellungsvordruckverordnung - ZustVV)
+% Ausfertigungsdatum: 12.02.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 24a des Gesetzes betreffend die Einführung der Zivilprozessordnung, der durch Artikel 5 Abs. 2a Nr. 1 des Gesetzes vom 26. November 2001 (BGBl. I S. 3138) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Vordrucke
+# § 1 – Vordrucke
 
 Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
@@ -21,8 +17,7 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
 4. der in Anlage 4 bestimmte Vordruck für die schriftliche Mitteilung über die Zustellung durch Niederlegung nach § 181 Abs. 1 Satz 2 der Zivilprozessordnung (Benachrichtigung).
 
-
-## § 2 – Zulässige Abweichungen
+# § 2 – Zulässige Abweichungen
 
 (1) Für den Vordruck nach § 1 Nr. 1 (Zustellungsurkunde) kann abweichend von dem in Anlage 1 bestimmten Muster einfarbiges gelbes Papier verwendet werden. In diesem Fall sind die im Muster in weißer Farbe hervorgehobenen Ankreuz- und Ausfüllfelder durch Umrandung oder in anderer Weise kenntlich zu machen.
 
@@ -36,44 +31,37 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
 
 3. Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt der Vordrucke zu verändern oder das Verständnis der Vordrucke zu erschweren, ermöglichen, technische Einrichtungen der üblichen Briefbeförderung für das Zustellungsverfahren zu nutzen.
 
-
-## § 3 – Überleitungsvorschrift
+# § 3 – Überleitungsvorschrift
 
 Der Vordruck nach Anlage 1 zu § 1 Nr. 1 in der bis zum 30. April 2004 geltenden Fassung kann bis zum 31. Dezember 2004 weiterverwendet werden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Nr. 1)  Zustellungsurkunde
+# Anlage 1 – (zu § 1 Nr. 1)  Zustellungsurkunde
 
 (Fundstelle: BGBl. I 2004, 620 u. 621)
 
 <a href="../normengrafiken/bgbl1_2004/j0619_0010.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 2 – (zu § 1 Nr. 2)  Innerer Umschlag
+# Anlage 2 – (zu § 1 Nr. 2)  Innerer Umschlag
 
 (Fundstelle: BGBl. I 2002, 674)
 
 <a href="../normengrafiken/bgbl1_2002/j0671_0020.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 3 – (zu § 1 Nr. 3)  Äußerer Umschlag/Auftrag
+# Anlage 3 – (zu § 1 Nr. 3)  Äußerer Umschlag/Auftrag
 
 (Fundstelle: BGBl. I 2002, 675)
 
 <a href="../normengrafiken/bgbl1_2002/j0671_0030.pdf" class="jurextern" title="PDF-Dokument wird in eigenem Fenster geöffnet">PDF-Dokument wird in eigenem Fenster angezeigt</a>
 
-
-## Anlage 4 – (zu § 1 Nr. 4)  Benachrichtigung
+# Anlage 4 – (zu § 1 Nr. 4)  Benachrichtigung
 
 (Fundstelle: BGBl. I 2002, 676)
 

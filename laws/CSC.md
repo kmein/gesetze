@@ -1,5 +1,3 @@
-# [CSC] Internationales Übereinkommen über sichere Container
-
-Ausfertigungsdatum: 02.12.1972
-
+% Internationales Übereinkommen über sichere Container
+% Ausfertigungsdatum: 02.12.1972
  

@@ -1,10 +1,7 @@
-# [GenTG] Gesetz zur Regelung der Gentechnik  (Gentechnikgesetz - GenTG)
-
-Ausfertigungsdatum: 20.06.1990
-
+% Gesetz zur Regelung der Gentechnik  (Gentechnikgesetz - GenTG)
+% Ausfertigungsdatum: 20.06.1990
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil
 
@@ -276,8 +273,7 @@ Siebter Teil
 
 Anwendbarkeit der Vorschriften für die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist,
 
@@ -287,8 +283,7 @@ Zweck dieses Gesetzes ist,
 
 3. den rechtlichen Rahmen für die Erforschung, Entwicklung, Nutzung und Förderung der wissenschaftlichen, technischen und wirtschaftlichen Möglichkeiten der Gentechnik zu schaffen.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für
 
@@ -308,8 +303,7 @@ Zweck dieses Gesetzes ist,
 
 (4) Dieses Gesetz lässt weitergehende Anforderungen an das Inverkehrbringen von Produkten nach anderen Rechtsvorschriften unberührt.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -317,8 +311,7 @@ Im Sinne dieses Gesetzes sind
 
 jede biologische Einheit, die fähig ist, sich zu vermehren oder genetisches Material zu übertragen, einschließlich Mikroorganismen,
 
-1a.  
-Mikroorganismen
+1a. Mikroorganismen
 
 Viren, Viroide, Bakterien, Pilze, mikroskopisch-kleine ein- oder mehrzellige Algen, Flechten, andere eukaryotische Einzeller oder mikroskopisch-kleine tierische Mehrzeller sowie tierische und pflanzliche Zellkulturen,
 
@@ -332,8 +325,7 @@ b) die Vermehrung, Lagerung, Zerstörung oder Entsorgung sowie der innerbetriebl
 
 ein Organismus, mit Ausnahme des Menschen, dessen genetisches Material in einer Weise verändert worden ist, wie sie unter natürlichen Bedingungen durch Kreuzen oder natürliche Rekombination nicht vorkommt; ein gentechnisch veränderter Organismus ist auch ein Organismus, der durch Kreuzung oder natürliche Rekombination zwischen gentechnisch veränderten Organismen oder mit einem oder mehreren gentechnisch veränderten Organismen oder durch andere Arten der Vermehrung eines gentechnisch veränderten Organismus entstanden ist, sofern das genetische Material des Organismus Eigenschaften aufweist, die auf gentechnische Arbeiten zurückzuführen sind,
 
-3a.  
-Verfahren der Veränderung genetischen Materials in diesem Sinne sind insbesondere
+3a. Verfahren der Veränderung genetischen Materials in diesem Sinne sind insbesondere
 
 a) Nukleinsäure-Rekombinationstechniken, bei denen durch die Einbringung von Nukleinsäuremolekülen, die außerhalb eines Organismus erzeugt wurden, in Viren, Viroide, bakterielle Plasmide oder andere Vektorsysteme neue Kombinationen von genetischem Material gebildet werden und diese in einen Wirtsorganismus eingebracht werden, in dem sie unter natürlichen Bedingungen nicht vorkommen,
 
@@ -341,8 +333,7 @@ b) Verfahren, bei denen in einen Organismus direkt Erbgut eingebracht wird, welc
 
 c) Zellfusionen oder Hybridisierungsverfahren, bei denen lebende Zellen mit neuen Kombinationen von genetischem Material, das unter natürlichen Bedingungen nicht darin vorkommt, durch die Verschmelzung zweier oder mehrerer Zellen mit Hilfe von Methoden gebildet werden, die unter natürlichen Bedingungen nicht vorkommen,
 
-3b.  
-nicht als Verfahren der Veränderung genetischen Materials gelten
+3b. nicht als Verfahren der Veränderung genetischen Materials gelten
 
 a) In-vitro-Befruchtung,
 
@@ -360,8 +351,7 @@ b) Zellfusion (einschließlich Protoplastenfusion) von Pflanzenzellen von Organi
 
 es sei denn, es werden gentechnisch veränderte Organismen als Spender oder Empfänger verwendet,
 
-3c.  
-sofern es sich nicht um ein Vorhaben der Freisetzung oder des Inverkehrbringens handelt und sofern keine gentechnisch veränderten Organismen als Spender oder Empfänger verwendet werden, gelten darüber hinaus nicht als Verfahren der Veränderung genetischen Materials
+3c. sofern es sich nicht um ein Vorhaben der Freisetzung oder des Inverkehrbringens handelt und sofern keine gentechnisch veränderten Organismen als Spender oder Empfänger verwendet werden, gelten darüber hinaus nicht als Verfahren der Veränderung genetischen Materials
 
 a) Zellfusion (einschließlich Protoplastenfusion) prokaryotischer Arten, die genetisches Material über bekannte physiologische Prozesse austauschen,
 
@@ -397,13 +387,11 @@ b) die Bereitstellung für Dritte, die Abgabe sowie das Verbringen in den Geltun
 
 nicht als Inverkehrbringen,
 
-6a.  
-Umgang mit gentechnisch veränderten Organismen
+6a. Umgang mit gentechnisch veränderten Organismen
 
 Anwendung, Vermehrung, Anbau, Lagerung, Beförderung und Beseitigung sowie Verbrauch und sonstige Verwendung und Handhabung von zum Inverkehrbringen zugelassenen Produkten, die gentechnisch veränderte Organismen enthalten oder daraus bestehen,
 
-6b.  
-Risikomanagement
+6b. Risikomanagement
 
 der von der Risikobewertung unterschiedene Prozess der Abwägung von Alternativen bei der Vermeidung oder Beherrschung von Risiken,
 
@@ -435,15 +423,13 @@ die Verwendung von Empfängerorganismen und Vektoren mit bestimmten gefahrenmind
 
 ein biologischer Träger, der Nukleinsäure-Segmente in eine neue Zelle einführt.
 
-13a.  
-Bewirtschafter
+13a. Bewirtschafter
 
 eine juristische oder natürliche Person oder eine nichtrechtsfähige Personenvereinigung, die die Verfügungsgewalt und tatsächliche Sachherrschaft über eine Fläche zum Anbau von gentechnisch veränderten Organismen besitzt.
 
 14. Den Beschäftigten gemäß § 2 Abs. 2 des Arbeitsschutzgesetzes stehen Schüler, Studenten und sonstige Personen, die gentechnische Arbeiten durchführen, gleich.
 
-
-## § 4 – Kommission für die Biologische Sicherheit
+# § 4 – Kommission für die Biologische Sicherheit
 
 (1) Unter der Bezeichnung „Zentrale Kommission für die Biologische Sicherheit“ (Kommission) wird bei der zuständigen Bundesoberbehörde eine Sachverständigenkommission eingerichtet. Die Kommission setzt sich zusammen aus:
 
@@ -461,18 +447,15 @@ Für jedes Mitglied der Kommission ist aus demselben Bereich ein stellvertretend
 
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die Berufung und das Verfahren der Kommission, die Heranziehung externer Sachverständiger sowie die Zusammenarbeit der Kommission mit den für den Vollzug des Gesetzes zuständigen Behörden zu regeln. Durch Rechtsverordnung mit Zustimmung des Bundesrates kann auch bestimmt werden, daß die Berufungsentscheidung gemäß Absatz 2 im Benehmen mit den Landesregierungen zu treffen ist.
 
-
-## § 5 – Aufgaben der Kommission
+# § 5 – Aufgaben der Kommission
 
 Die Kommission prüft und bewertet sicherheitsrelevante Fragen nach den Vorschriften dieses Gesetzes, gibt hierzu Empfehlungen und berät die Bundesregierung und die Länder in sicherheitsrelevanten Fragen zur Gentechnik. Bei ihren Empfehlungen soll die Kommission auch den Stand der internationalen Entwicklung auf dem Gebiet der gentechnischen Sicherheit angemessen berücksichtigen. Die Kommission veröffentlicht allgemeine Stellungnahmen zu häufig durchgeführten gentechnischen Arbeiten mit den jeweils zugrunde liegenden Kriterien der Vergleichbarkeit im Bundesanzeiger. Soweit die allgemeinen Stellungnahmen Fragen des Arbeitsschutzes zum Gegenstand haben, ist zuvor der Ausschuss für biologische Arbeitsstoffe nach § 19 der Biostoffverordnung anzuhören.
 
-
-## § 5a – (weggefallen)
+# § 5a – (weggefallen)
 
 \-
 
-
-## § 6 – Allgemeine Sorgfalts- und Aufzeichnungspflichten, Gefahrenvorsorge
+# § 6 – Allgemeine Sorgfalts- und Aufzeichnungspflichten, Gefahrenvorsorge
 
 (1) Wer gentechnische Anlagen errichtet oder betreibt, gentechnische Arbeiten durchführt, gentechnisch veränderte Organismen freisetzt oder Produkte, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, als Betreiber in Verkehr bringt, hat die damit verbundenen Risiken für die in § 1 Nr. 1 genannten Rechtsgüter vorher umfassend zu bewerten (Risikobewertung) und diese Risikobewertung und die Sicherheitsmaßnahmen in regelmäßigen Abständen zu prüfen und, wenn es nach dem Prüfungsergebnis erforderlich ist, zu überarbeiten, jedoch unverzüglich, wenn
 
@@ -488,8 +471,7 @@ Bei der Risikobewertung durch die zuständige Bundesoberbehörde ist eine Verwen
 
 (4) Wer gentechnische Arbeiten oder Freisetzungen durchführt, ist verpflichtet, Projektleiter sowie Beauftragte oder Ausschüsse für Biologische Sicherheit zu bestellen.
 
-
-## § 7 – Sicherheitsstufen, Sicherheitsmaßnahmen
+# § 7 – Sicherheitsstufen, Sicherheitsmaßnahmen
 
 (1) Gentechnische Arbeiten werden in vier Sicherheitsstufen eingeteilt:
 
@@ -507,8 +489,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der Kommission durch Rechts
 
 (2) Bei der Durchführung gentechnischer Arbeiten sind bestimmte Sicherheitsmaßnahmen zu beachten. Die Bundesregierung regelt nach Anhörung der Kommission durch Rechtsverordnung mit Zustimmung des Bundesrates die für die unterschiedlichen Sicherheitsstufen nach dem Stand der Wissenschaft und Technik erforderlichen Sicherheitsmaßnahmen für den Labor- und Produktionsbereich, für Tierhaltungsräume und Gewächshäuser sowie die Anforderungen an die Auswahl und die Sicherheitsbewertung der bei gentechnischen Arbeiten verwendeten Empfängerorganismen und Vektoren.
 
-
-## § 8 – Genehmigung, Anzeige und Anmeldung von gentechnischen Anlagen und erstmaligen gentechnischen Arbeiten
+# § 8 – Genehmigung, Anzeige und Anmeldung von gentechnischen Anlagen und erstmaligen gentechnischen Arbeiten
 
 (1) Gentechnische Arbeiten dürfen nur in gentechnischen Anlagen durchgeführt werden. Die Errichtung und der Betrieb gentechnischer Anlagen, in denen gentechnische Arbeiten der Sicherheitsstufe 3 oder 4 durchgeführt werden sollen, bedürfen der Genehmigung (Anlagengenehmigung). Die Genehmigung berechtigt zur Durchführung der im Genehmigungsbescheid genannten gentechnischen Arbeiten.
 
@@ -522,8 +503,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der Kommission durch Rechts
 
 (4) Die wesentliche Änderung der Lage, der Beschaffenheit oder des Betriebs einer gentechnischen Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 3 oder 4 durchgeführt werden sollen, bedarf einer Anlagengenehmigung. Für wesentliche Änderungen der Lage, der Beschaffenheit oder des Betriebs einer gentechnischen Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 1 oder 2 durchgeführt werden sollen, gilt Absatz 2 entsprechend.
 
-
-## § 9 – Weitere gentechnische Arbeiten
+# § 9 – Weitere gentechnische Arbeiten
 
 (1) Weitere gentechnische Arbeiten der Sicherheitsstufe 1 können ohne Anzeige durchgeführt werden.
 
@@ -539,8 +519,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der Kommission durch Rechts
 
 (6) Weitere gentechnische Arbeiten auf Veranlassung der zuständigen Behörde zur Entwicklung der für die Probenuntersuchung erforderlichen Nachweismethoden oder zur Untersuchung einer Probe im Rahmen der Überwachung nach § 25 können abweichend von Absatz 2 durchgeführt werden.
 
-
-## § 10 – Genehmigungsverfahren
+# § 10 – Genehmigungsverfahren
 
 (1) Das Genehmigungsverfahren setzt einen schriftlichen Antrag voraus.
 
@@ -566,8 +545,7 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der Kommission durch Rechts
 
 1. eine Beschreibung der vorgesehenen gentechnischen Arbeiten nach Maßgabe des Absatzes 2 Satz 2 Nr. 5,
 
-1a.  
-eine Beschreibung der verfügbaren Techniken zur Erfassung, Identifizierung und Überwachung des gentechnisch veränderten Organismus,
+1a. eine Beschreibung der verfügbaren Techniken zur Erfassung, Identifizierung und Überwachung des gentechnisch veränderten Organismus,
 
 2. eine Erklärung des Projektleiters, ob und gegebenenfalls wie sich die Angaben nach Absatz 2 Satz 2 Nr. 1 bis 3 geändert haben,
 
@@ -587,8 +565,7 @@ eine Beschreibung der verfügbaren Techniken zur Erfassung, Identifizierung und 
 
 (8) Vor Erhebung einer verwaltungsgerichtlichen Klage findet bei einer Entscheidung über den Antrag auf Genehmigung der Errichtung und des Betriebs einer gentechnischen Anlage ein Vorverfahren nicht statt, sofern ein Anhörungsverfahren nach § 18 durchgeführt wurde.
 
-
-## § 11 – Genehmigungsvoraussetzungen
+# § 11 – Genehmigungsvoraussetzungen
 
 (1) Die Genehmigung zur Errichtung und zum Betrieb einer gentechnischen Anlage ist zu erteilen, wenn
 
@@ -608,8 +585,7 @@ eine Beschreibung der verfügbaren Techniken zur Erfassung, Identifizierung und 
 
 (3) Die Genehmigung nach § 9 Abs. 2 Satz 2 oder Abs. 3 ist zu erteilen, wenn die Voraussetzungen nach Absatz 1 Nr. 1 bis 5 für die Durchführung der vorgesehenen weiteren gentechnischen Arbeiten vorliegen.
 
-
-## § 12 – Anzeige- und Anmeldeverfahren
+# § 12 – Anzeige- und Anmeldeverfahren
 
 (1) Anzeige und Anmeldung bedürfen der Schriftform.
 
@@ -649,13 +625,11 @@ Bei Anmeldung einer Anlage, in der gentechnische Arbeiten der Sicherheitsstufe 2
 
 (7) Die zuständige Behörde kann die Durchführung der angezeigten oder angemeldeten gentechnischen Arbeiten untersagen, wenn die in § 11 Abs. 1 Nr. 1 bis 5 genannten Anforderungen nicht oder nicht mehr eingehalten werden oder Belange des Arbeitsschutzes entgegenstehen. Die Entscheidung bedarf der Schriftform.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Freisetzung und Inverkehrbringen
+# § 14 – Freisetzung und Inverkehrbringen
 
 (1) Einer Genehmigung der zuständigen Bundesoberbehörde bedarf, wer
 
@@ -697,8 +671,7 @@ soweit mit der Freisetzung von Organismen im Hinblick auf die Voraussetzungen na
 
 (5) Der Genehmigung des Inverkehrbringens durch die zuständige Bundesoberbehörde stehen Genehmigungen gleich, die von Behörden anderer Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum nach deren Vorschriften zur Umsetzung der Richtlinie 2001/18/EG erteilt worden sind. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die Bekanntgabe von nach Satz 1 gleichgestellten Genehmigungen zu erlassen.
 
-
-## § 15 – Zulassungsantrag bei Freisetzung und Inverkehrbringen
+# § 15 – Zulassungsantrag bei Freisetzung und Inverkehrbringen
 
 (1) Dem Antrag auf Genehmigung einer Freisetzung sind die zur Prüfung erforderlichen Unterlagen beizufügen. Die Unterlagen müssen außer den in § 10 Abs. 2 Satz 2 Nr. 2 und 3 beschriebenen insbesondere folgende Angaben enthalten:
 
@@ -710,8 +683,7 @@ soweit mit der Freisetzung von Organismen im Hinblick auf die Voraussetzungen na
 
 4. eine Risikobewertung nach § 6 Abs. 1 und eine Darlegung der vorgesehenen Sicherheitsvorkehrungen,
 
-4a.  
-einen Plan zur Ermittlung der Auswirkung des freizusetzenden Organismus auf die menschliche Gesundheit und die Umwelt,
+4a. einen Plan zur Ermittlung der Auswirkung des freizusetzenden Organismus auf die menschliche Gesundheit und die Umwelt,
 
 5. eine Beschreibung der geplanten Überwachungsmaßnahmen sowie Angaben über entstehende Reststoffe und ihre Behandlung sowie über Notfallpläne,
 
@@ -727,15 +699,13 @@ einen Plan zur Ermittlung der Auswirkung des freizusetzenden Organismus auf die 
 
 3. eine Beschreibung der zu erwartenden Verwendungsarten und der geplanten räumlichen Verbreitung,
 
-3a.  
-Angaben zur beantragten Geltungsdauer der Genehmigung,
+3a. Angaben zur beantragten Geltungsdauer der Genehmigung,
 
 4. eine Risikobewertung nach § 6 Abs. 1 einschließlich einer Darlegung der möglichen schädlichen Auswirkungen,
 
 5. eine Beschreibung der geplanten Maßnahmen zur Kontrolle des weiteren Verhaltens oder der Qualität des in Verkehr zu bringenden Produkts, der entstehenden Reststoffe und ihrer Behandlung sowie der Notfallpläne,
 
-5a.  
-einen Beobachtungsplan unter Berücksichtigung der Beobachtungspflicht nach § 16c einschließlich der Angaben zu dessen Laufzeit,
+5a. einen Beobachtungsplan unter Berücksichtigung der Beobachtungspflicht nach § 16c einschließlich der Angaben zu dessen Laufzeit,
 
 6. eine Beschreibung von besonderen Bedingungen für den Umgang mit dem in Verkehr zu bringenden Produkt und einen Vorschlag für seine Kennzeichnung und Verpackung,
 
@@ -751,8 +721,7 @@ einen Beobachtungsplan unter Berücksichtigung der Beobachtungspflicht nach § 1
 
 Hält der Antragsteller auf Grund der ihm vorliegenden Erkenntnisse eine Änderung des bisherigen Genehmigungsinhalts, insbesondere hinsichtlich des Beobachtungsplans oder der Geltungsdauer der Genehmigung, für erforderlich, hat er in dem Antrag darauf hinzuweisen.
 
-
-## § 16 – Genehmigung bei Freisetzung und Inverkehrbringen
+# § 16 – Genehmigung bei Freisetzung und Inverkehrbringen
 
 (1) Die Genehmigung für eine Freisetzung ist zu erteilen, wenn
 
@@ -776,8 +745,7 @@ Hält der Antragsteller auf Grund der ihm vorliegenden Erkenntnisse eine Änderu
 
 (7) Vor Erhebung einer verwaltungsgerichtlichen Klage findet bei einer Entscheidung über den Antrag auf Genehmigung einer Freisetzung ein Vorverfahren nicht statt, sofern ein Anhörungsverfahren nach § 18 durchgeführt wurde.
 
-
-## § 16a – Standortregister
+# § 16a – Standortregister
 
 (1) Zum Zweck der Überwachung etwaiger Auswirkungen von gentechnisch veränderten Organismen auf die in § 1 Nr. 1 und 2 genannten Rechtsgüter und Belange sowie zum Zweck der Information der Öffentlichkeit werden die nach Absatz 2 mitzuteilenden Angaben über Freisetzungen gentechnisch veränderter Organismen und die nach Absatz 3 mitzuteilenden Angaben über den Anbau gentechnisch veränderter Organismen in einem Bundesregister erfasst. Das Register wird von der zuständigen Bundesoberbehörde geführt und erfasst die nach Absatz 2 oder Absatz 3 gemeldeten Angaben für das gesamte Bundesgebiet. Das Register muss nach Maßgabe des Absatzes 4 allgemein zugänglich sein.
 
@@ -825,8 +793,7 @@ Auskünfte aus dem allgemein zugänglichen Teil des Registers werden im Wege des
 
 (8) (weggefallen)
 
-
-## § 16b – Umgang mit in Verkehr gebrachten Produkten
+# § 16b – Umgang mit in Verkehr gebrachten Produkten
 
 (1) Wer zum Inverkehrbringen zugelassene Produkte, die gentechnisch veränderte Organismen enthalten oder daraus bestehen, anbaut, weiterverarbeitet, soweit es sich um Tiere handelt, hält, oder diese erwerbswirtschaftlich, gewerbsmäßig oder in vergleichbarer Weise in den Verkehr bringt, hat Vorsorge dafür zu treffen, dass die in § 1 Nr. 1 und 2 genannten Rechtsgüter und Belange durch die Übertragung von Eigenschaften eines Organismus, die auf gentechnischen Arbeiten beruhen, durch die Beimischung oder durch sonstige Einträge von gentechnisch veränderten Organismen nicht wesentlich beeinträchtigt werden. Er muss diese Pflicht hinsichtlich der in § 1 Nr. 2 genannten Belange gegenüber einem anderen insoweit nicht beachten, als dieser durch schriftliche Vereinbarung mit ihm auf seinen Schutz verzichtet oder ihm auf Anfrage die für seinen Schutz erforderlichen Auskünfte nicht innerhalb eines Monats erteilt hat und die Pflicht im jeweiligen Einzelfall ausschließlich dem Schutz des anderen dient. In der schriftlichen Vereinbarung oder der Anfrage ist der andere über die Rechtsfolgen der Vereinbarung oder die Nichterteilung der Auskünfte aufzuklären und darauf hinzuweisen, dass er zu schützende Rechte Dritter zu beachten hat. Die zulässige Abweichung von den Vorgaben der guten fachlichen Praxis sind der zuständigen Behörde rechtzeitig vor der Aussaat oder Pflanzung anzuzeigen.
 
@@ -856,8 +823,7 @@ der zuständigen Bundesoberbehörde spätestens einen Monat vor dem Anbau unter 
 
 (6) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Grundsätze der guten fachlichen Praxis im Sinne des Absatzes 3, einschließlich des Informationsaustauschs mit Nachbarn und Behörden, die Eignung von Person und Ausstattung nach Absatz 4 und die inhaltliche Gestaltung der Produktinformation nach Absatz 5 näher zu bestimmen.
 
-
-## § 16c – Beobachtung
+# § 16c – Beobachtung
 
 (1) Wer als Betreiber Produkte, die aus gentechnisch veränderten Organismen bestehen oder solche enthalten, in Verkehr bringt, hat diese auch danach nach Maßgabe der Genehmigung zu beobachten, um mögliche Auswirkungen auf die in § 1 Nr. 1 genannten Rechtsgüter zu ermitteln.
 
@@ -869,8 +835,7 @@ der zuständigen Bundesoberbehörde spätestens einen Monat vor dem Anbau unter 
 
 (3) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates die allgemeinen Grundsätze der Beobachtung von gentechnisch veränderten Organismen durch den Betreiber in einer Rechtsverordnung zu regeln, insbesondere hinsichtlich der Festlegung der Mindeststandards der Beobachtung, der Einbeziehung Dritter sowie der Einbeziehung bundesbehördlicher Beobachtungstätigkeiten.
 
-
-## § 16d – Entscheidung der Behörde bei Inverkehrbringen
+# § 16d – Entscheidung der Behörde bei Inverkehrbringen
 
 (1) Die zuständige Bundesoberbehörde entscheidet im Rahmen der Genehmigung des Inverkehrbringens eines Produkts, das gentechnisch veränderte Organismen enthält oder aus solchen besteht, über
 
@@ -890,13 +855,11 @@ der zuständigen Bundesoberbehörde spätestens einen Monat vor dem Anbau unter 
 
 (3) Die zuständige Bundesoberbehörde kann, soweit dies zur Abwehr nach dem Stand der Wissenschaft im Verhältnis zum Zweck des Inverkehrbringens unvertretbarer schädlicher Einwirkungen auf die in § 1 Nr. 1 bezeichneten Rechtsgüter erforderlich ist, die nach Absatz 1 Satz 1 Nr. 5 getroffene Entscheidung nachträglich ändern, soweit dies zur Anpassung der Beobachtungsmethoden, der Probenahme- oder Analyseverfahren an den Stand von Wissenschaft oder zur Berücksichtigung von erst im Verlauf der Beobachtung gewonnenen Erkenntnissen erforderlich ist. Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 
-
-## § 16e – Ausnahmen für nicht kennzeichnungspflichtiges Saatgut
+# § 16e – Ausnahmen für nicht kennzeichnungspflichtiges Saatgut
 
 Die §§ 16a und 16b sind nicht auf Saatgut anzuwenden, sofern das Saatgut auf Grund eines in Rechtsakten der Europäischen Union und deren Umsetzung durch § 17b Abs. 1 Satz 2 festgelegten Schwellenwertes nicht mit einem Hinweis auf die gentechnische Veränderung gekennzeichnet werden muss oder, soweit es in den Verkehr gebracht werden würde, gekennzeichnet werden müsste.
 
-
-## § 17 – Verwendung von Unterlagen
+# § 17 – Verwendung von Unterlagen
 
 (1) Unterlagen nach § 10 Abs. 2 Satz 2 Nr. 5, Abs. 3 Satz 2 Nr. 4, auch in Verbindung mit § 12 Abs. 2, nach § 12 Abs. 2a Satz 2 Nr. 1 und 4, § 15 Abs. 1 Satz 2 Nr. 2 und 4, Abs. 3 Satz 2 Nr. 2, 4 und 5 sind nicht erforderlich, soweit der zuständigen Behörde ausreichende Kenntnisse vorliegen. Der Betreiber kann insoweit auch auf Unterlagen Bezug nehmen, die er oder ein Dritter in einem vorangegangenen Verfahren vorgelegt hat, es sei denn, es handelt sich um vertrauliche Unterlagen des Dritten und dieser hat seine Zustimmung zur Verwendung nicht erteilt. Stammen Erkenntnisse, die Tierversuche voraussetzen, aus Unterlagen eines Dritten, so teilt die zuständige Behörde diesem und dem Anmelder oder Antragsteller mit, welche Unterlagen des Dritten sie zugunsten des Anmelders oder Antragstellers zu verwenden beabsichtigt, sowie jeweils Namen und Anschrift des anderen. Sind Tierversuche nicht Voraussetzung, so bedarf es zur Verwendung von vertraulichen Unterlagen eines Dritten dessen schriftlicher Zustimmung. Die Sätze 3 und 4 gelten nicht, wenn die Anmeldung oder Genehmigung länger als zehn Jahre zurückliegt.
 
@@ -906,8 +869,7 @@ Die §§ 16a und 16b sind nicht auf Saatgut anzuwenden, sofern das Saatgut auf G
 
 (4) Sind von mehreren Anmeldern oder Antragstellern gleichzeitig inhaltlich gleiche Unterlagen bei einer zuständigen Behörde vorzulegen, die Tierversuche voraussetzen, so teilt die zuständige Behörde den Anmeldern oder Antragstellern, die ihr bekannt sind, mit, welche Unterlagen von ihnen gemeinsam vorzulegen sind, sowie jeweils Namen und Anschrift der anderen Beteiligten. Die zuständige Behörde gibt den beteiligten Anmeldern oder Antragstellern Gelegenheit, sich innerhalb einer von ihr zu bestimmenden Frist zu einigen, wer die Unterlagen vorlegt. Kommt eine Einigung nicht zustande, so entscheidet die zuständige Behörde und unterrichtet hiervon unverzüglich alle Beteiligten. Diese sind, sofern sie ihre Anmeldung oder ihren Antrag nicht zurücknehmen oder sonst die Voraussetzungen ihrer Anmeldepflicht oder ihres Antrags entfallen, verpflichtet, demjenigen, der die Unterlagen vorgelegt hat, die anteiligen Aufwendungen für die Erstellung zu erstatten; sie haften als Gesamtschuldner.
 
-
-## § 17a – Vertraulichkeit von Angaben
+# § 17a – Vertraulichkeit von Angaben
 
 (1) Angaben, die ein Betriebs- oder Geschäftsgeheimnis darstellen, sind vom Betreiber als vertraulich zu kennzeichnen. Er hat begründet darzulegen, daß eine Verbreitung der Betriebs- und Geschäftsgeheimnisse ihm betrieblich oder geschäftlich schaden könnte. Hält die zuständige Behörde die Kennzeichnung für unberechtigt, so hat sie vor der Entscheidung, welche Informationen vertraulich zu behandeln sind, den Antragsteller zu hören und diesen über ihre Entscheidung zu unterrichten. Personenbezogene Daten stehen Betriebs- und Geschäftsgeheimnissen gleich und müssen vertraulich behandelt werden.
 
@@ -919,8 +881,7 @@ Die §§ 16a und 16b sind nicht auf Saatgut anzuwenden, sofern das Saatgut auf G
 
 3. Ort der gentechnischen Anlage oder Freisetzung und der Freisetzungszweck,
 
-3a.  
-beabsichtigte Verwendung,
+3a. beabsichtigte Verwendung,
 
 4. Sicherheitsstufe und Sicherheitsmaßnahmen,
 
@@ -932,8 +893,7 @@ beabsichtigte Verwendung,
 
 (4) Zieht der Anmelder oder Antragsteller die Anmeldung oder den Antrag auf Genehmigung zurück, so haben die zuständigen Behörden die Vertraulichkeit zu wahren.
 
-
-## § 17b – Kennzeichnung
+# § 17b – Kennzeichnung
 
 (1) Produkte, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen und in Verkehr gebracht werden, sind auf einem Etikett oder in einem Begleitdokument entsprechend den auf Grund des § 30 Abs. 2 Nr. 14 erlassenen Vorschriften über die Kennzeichnung mit dem Hinweis "Dieses Produkt enthält genetisch veränderte Organismen" zu kennzeichnen. Die Bundesregierung kann zur Umsetzung eines nach Artikel 21 Abs. 2 Satz 2 in Verbindung mit Artikel 30 Abs. 2 der Richtlinie 2001/18/EG festgelegten Schwellenwertes für die Kennzeichnung durch Rechtsverordnung mit Zustimmung des Bundesrates solche Produkte von der Kennzeichnungspflicht ausnehmen, bei denen zufällige oder technisch nicht zu vermeidende Anteile von gentechnisch veränderten Organismen nicht ausgeschlossen werden können.
 
@@ -941,8 +901,7 @@ beabsichtigte Verwendung,
 
 (3) Die Vorschriften für die Kennzeichnung und Verpackung von Produkten, die für das Inverkehrbringen genehmigte gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, gelten nicht für Produkte, die für eine unmittelbare Verarbeitung vorgesehen sind und deren Anteil an genehmigten gentechnisch veränderten Organismen nicht höher als 0,9 Prozent liegt, sofern dieser Anteil zufällig oder technisch nicht zu vermeiden ist. Die Bundesregierung kann einen nach Artikel 21 Abs. 3 in Verbindung mit Artikel 30 Abs. 2 der Richtlinie 2001/18/EG festgelegten niedrigeren Schwellenwert durch Rechtsverordnung mit Zustimmung des Bundesrates festsetzen.
 
-
-## § 18 – Anhörungsverfahren
+# § 18 – Anhörungsverfahren
 
 (1) Vor der Entscheidung über die Errichtung und den Betrieb einer gentechnischen Anlage, in der gentechnische Arbeiten der Sicherheitsstufen 3 oder 4 zu gewerblichen Zwecken durchgeführt werden sollen, hat die zuständige Behörde ein Anhörungsverfahren durchzuführen. Für die Genehmigung gentechnischer Anlagen, in denen gentechnische Arbeiten der Sicherheitsstufe 2 zu gewerblichen Zwecken durchgeführt werden sollen, ist ein Anhörungsverfahren durchzuführen, wenn ein Genehmigungsverfahren nach § 10 des Bundes-Immissionsschutzgesetzes erforderlich wäre. Im Falle des § 8 Abs. 4 entfällt ein Anhörungsverfahren, wenn nicht zu besorgen ist, daß durch die Änderung zusätzliche oder andere Gefahren für die in § 1 Nr. 1 bezeichneten Rechtsgüter zu erwarten sind.
 
@@ -950,20 +909,17 @@ beabsichtigte Verwendung,
 
 (3) Das Anhörungsverfahren regelt die Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates. Das Verfahren muß den Anforderungen des § 10 Abs. 3 bis 8 des Bundes-Immissionsschutzgesetzes entsprechen. Bei Verfahren nach Absatz 2 gilt § 10 Abs. 4 Nr. 3 und Abs. 6 des Bundes-Immissionsschutzgesetzes nicht; Einwendungen gegen das Vorhaben können schriftlich oder zur Niederschrift innerhalb eines Monats nach Ablauf der Auslegungsfrist bei der Genehmigungsbehörde oder bei der Stelle erhoben und begründet werden, bei der Antrag und Unterlagen zur Einsicht ausgelegt sind.
 
-
-## § 19 – Nebenbestimmungen, nachträgliche Auflagen
+# § 19 – Nebenbestimmungen, nachträgliche Auflagen
 
 Die zuständige Behörde kann ihre Entscheidung mit Nebenbestimmungen versehen, soweit dies erforderlich ist, um die Genehmigungsvoraussetzungen sicherzustellen. Durch Auflagen können insbesondere bestimmte Verfahrensabläufe oder Sicherheitsvorkehrungen oder eine bestimmte Beschaffenheit oder Ausstattung der gentechnischen Anlage angeordnet werden. Die nachträgliche Aufnahme von Nebenbestimmungen oder Auflagen ist unter den Voraussetzungen von Satz 1 zulässig.
 
-
-## § 20 – Einstweilige Einstellung
+# § 20 – Einstweilige Einstellung
 
 (1) Sind die Voraussetzungen für die Fortführung des Betriebs der gentechnischen Anlage, der gentechnischen Arbeit oder der Freisetzung nachträglich entfallen, so kann anstelle einer Rücknahme oder eines Widerrufs der Genehmigung nach den Vorschriften der Verwaltungsverfahrensgesetze die einstweilige Einstellung der Tätigkeit angeordnet werden, bis der Betreiber nachweist, daß die Voraussetzungen wieder vorliegen.
 
 (2) Besteht nach Erteilung einer Genehmigung des Inverkehrbringens, auch einer nach § 14 Abs. 5 gleichgestellten, auf Grund neuer oder zusätzlicher Informationen, die Auswirkungen auf die Risikobewertung haben, oder auf Grund einer Neubewertung der vorliegenden Informationen auf der Grundlage neuer oder zusätzlicher wissenschaftlicher Erkenntnisse ein berechtigter Grund zu der Annahme, dass der gentechnisch veränderte Organismus eine Gefahr für die menschliche Gesundheit oder die Umwelt darstellt, so kann die zuständige Bundesoberbehörde bis zur Entscheidung oder bis zu einem Beschluss der Europäischen Gemeinschaften oder der Europäischen Union nach Artikel 23 in Verbindung mit Artikel 30 Abs. 2 der Richtlinie 2001/18/EG das Ruhen der Genehmigung ganz oder teilweise anordnen.
 
-
-## § 21 – Mitteilungspflichten
+# § 21 – Mitteilungspflichten
 
 (1) Der Betreiber hat jede Änderung in der Beauftragung des Projektleiters, des Beauftragten für die Biologische Sicherheit oder eines Mitgliedes des Ausschusses für die Biologische Sicherheit der für eine Anmeldung, die Erteilung der Genehmigung und der für die Überwachung zuständigen Behörde vorher mitzuteilen. Bei einer unvorhergesehenen Änderung hat die Mitteilung unverzüglich zu erfolgen. Mit der Mitteilung ist die erforderliche Sachkunde nachzuweisen.
 
@@ -987,8 +943,7 @@ Die zuständige Behörde kann ihre Entscheidung mit Nebenbestimmungen versehen, 
 
 (6) Eine Mitteilung nach den Absätzen 5 und 5a darf nicht zur strafrechtlichen Verfolgung des Mitteilenden oder für ein Verfahren nach dem Gesetz über Ordnungswidrigkeiten gegen den Mitteilenden verwendet werden.
 
-
-## § 22 – Andere behördliche Entscheidungen
+# § 22 – Andere behördliche Entscheidungen
 
 (1) Die Anlagengenehmigung schließt andere die gentechnische Anlage betreffende behördliche Entscheidungen ein, insbesondere öffentlich-rechtliche Genehmigungen, Zulassungen, Verleihungen, Erlaubnisse und Bewilligungen, mit Ausnahme von behördlichen Entscheidungen auf Grund atomrechtlicher Vorschriften.
 
@@ -996,13 +951,11 @@ Die zuständige Behörde kann ihre Entscheidung mit Nebenbestimmungen versehen, 
 
 (3) § 35 des Bundesnaturschutzgesetzes bleibt unberührt.
 
-
-## § 23 – Ausschluß von privatrechtlichen Abwehransprüchen
+# § 23 – Ausschluß von privatrechtlichen Abwehransprüchen
 
 Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche zur Abwehr benachteiligender Einwirkungen von einem Grundstück auf ein benachbartes Grundstück kann nicht die Einstellung des Betriebs der gentechnischen Anlage, der gentechnischen Arbeiten oder die Beendigung einer Freisetzung verlangt werden, deren Genehmigung unanfechtbar ist und für die ein Anhörungsverfahren nach § 18 durchgeführt wurde; es können nur Vorkehrungen verlangt werden, die die benachteiligenden Wirkungen ausschließen. Soweit solche Vorkehrungen nach dem Stand der Technik nicht durchführbar oder wirtschaftlich nicht vertretbar sind, kann lediglich Schadensersatz verlangt werden.
 
-
-## § 24 – Gebühren, Auslagen und Aufwendungen
+# § 24 – Gebühren, Auslagen und Aufwendungen
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsvorschriften sind Gebühren und Auslagen zu erheben. Von der Zahlung von Gebühren und Auslagen sind außer den in § 8 Absatz 1 und 2 des Bundesgebührengesetzes bezeichneten Rechtsträgern die als gemeinnützig anerkannten Forschungseinrichtungen befreit.
 
@@ -1012,8 +965,7 @@ Auf Grund privatrechtlicher, nicht auf besonderen Titeln beruhender Ansprüche z
 
 (4) Die bei der Erfüllung von Auskunfts- und Duldungspflichten im Rahmen von Anmelde- und Genehmigungsverfahren und Überwachung entstehenden eigenen Aufwendungen des Betreibers sind nicht zu erstatten.
 
-
-## § 25 – Überwachung, Auskunfts-, Duldungspflichten
+# § 25 – Überwachung, Auskunfts-, Duldungspflichten
 
 (1) Die zuständigen Behörden haben die Durchführung dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union im Anwendungsbereich dieses Gesetzes und der darauf beruhenden behördlichen Anordnungen und Verfügungen zu überwachen.
 
@@ -1037,8 +989,7 @@ Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung 
 
 (7) Abweichend von Absatz 1 haben Behörden, die gesetzlich vorgeschriebene Prüfungen mit zum Inverkehrbringen zugelassenen gentechnisch veränderten Pflanzen durchführen oder durchführen lassen, selbst für die Einhaltung der Vorschriften dieses Gesetzes, der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie der unmittelbar geltenden Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union im Anwendungsbereich dieses Gesetzes zu sorgen. Für die Gemeinden und Gemeindeverbände gilt dies nur, soweit ihnen durch Landesrecht diese Aufgabe übertragen worden ist.
 
-
-## § 26 – Behördliche Anordnungen
+# § 26 – Behördliche Anordnungen
 
 (1) Die zuständige Behörde kann im Einzelfall die Anordnungen treffen, die zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße gegen dieses Gesetz, gegen die auf Grund dieses Gesetzes erlassenen Rechtsverordnungen oder gegen unmittelbar geltende Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union im Anwendungsbereich dieses Gesetzes notwendig sind. Sie kann insbesondere den Betrieb einer gentechnischen Anlage oder gentechnische Arbeiten ganz oder teilweise untersagen, wenn
 
@@ -1058,8 +1009,7 @@ Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung 
 
 (5) Die zuständige Behörde hat ein Inverkehrbringen zu untersagen, wenn die erforderliche Genehmigung nicht vorliegt. Sie hat ein Inverkehrbringen bis zur Entscheidung oder bis zu einem Beschluss der Europäischen Gemeinschaften oder der Europäischen Union nach Artikel 23 in Verbindung mit Artikel 30 Abs. 2 der Richtlinie 2001/18/EG vorläufig zu untersagen, soweit das Ruhen der Genehmigung angeordnet worden ist. Sie kann das Inverkehrbringen bis zu dieser Entscheidung oder bis zu diesem Beschluss vorläufig ganz oder teilweise untersagen, wenn der hinreichende Verdacht besteht, dass die Voraussetzungen für das Inverkehrbringen nicht vorliegen. Die zuständige Behörde sieht von Anordnungen nach Satz 1 ab, wenn das Produkt, das nicht zum Inverkehrbringen zugelassene gentechnisch veränderte Organismen enthält, zur unmittelbaren Verarbeitung vorgesehen und sichergestellt ist, dass das Produkt weder in unverarbeitetem noch in verarbeitetem Zustand in Lebensmittel oder Futtermittel gelangt, die gentechnisch veränderten Organismen nach der Verarbeitung zerstört sind und keine schädlichen Auswirkungen auf die in § 1 Nr. 1 genannten Rechtsgüter eintreten.
 
-
-## § 27 – Erlöschen der Genehmigung, Unwirksamwerden der Anmeldung
+# § 27 – Erlöschen der Genehmigung, Unwirksamwerden der Anmeldung
 
 (1) Die Genehmigung erlischt, wenn
 
@@ -1079,8 +1029,7 @@ Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung 
 
 (5) (weggefallen)
 
-
-## § 28 – Informationsweitergabe
+# § 28 – Informationsweitergabe
 
 (1) Die zuständigen Behörden unterrichten die zuständige Bundesoberbehörde unverzüglich über
 
@@ -1092,8 +1041,7 @@ Zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung 
 
 (2) Die zuständige Bundesoberbehörde gibt ihre Erkenntnisse, soweit sie für den Gesetzesvollzug von Bedeutung sein können, den zuständigen Behörden bekannt.
 
-
-## § 28a – Unterrichtung der Öffentlichkeit
+# § 28a – Unterrichtung der Öffentlichkeit
 
 (1) Die zuständige Behörde soll die Öffentlichkeit über Anordnungen nach § 26 unterrichten, sofern diese unanfechtbar geworden sind oder deren sofortige Vollziehung angeordnet worden ist, einschließlich der angeordneten Vorsichtsmaßnahmen. Personenbezogene Daten dürfen nur veröffentlicht werden, soweit dies zur Gefahrenabwehr erforderlich ist.
 
@@ -1119,15 +1067,13 @@ Vor der Entscheidung über die Veröffentlichung sind in den Fällen des Satzes 
 
 (4) Stellen sich die von der Behörde an die Öffentlichkeit gegebenen Informationen im Nachhinein als falsch oder die zu Grunde liegenden Umstände als unrichtig wiedergegeben heraus, so informiert die Behörde die Öffentlichkeit hierüber in der gleichen Art und Weise, in der sie die betreffenden Informationen zuvor bekannt gegeben hat.
 
-
-## § 28b – Methodensammlung
+# § 28b – Methodensammlung
 
 (1) Die zuständige Bundesoberbehörde veröffentlicht im Benehmen mit den lebens- und futtermittelrechtlichen Vorschriften zuständigen Behörden eine amtliche Sammlung von Verfahren zur Probenahme und Untersuchung von Proben, die im Rahmen der Überwachung von gentechnischen Arbeiten, gentechnischen Anlagen, Freisetzungen von gentechnisch veränderten Organismen und dem Inverkehrbringen durchgeführt oder angewendet werden.
 
 (2) Die Verfahren werden unter Mitwirkung von Sachkundigen aus den Bereichen der Überwachung, der Wissenschaft und der beteiligten Wirtschaft festgelegt. Die Sammlung ist laufend auf dem neuesten Stand zu halten.
 
-
-## § 29 – Auswertung und Bereitstellung von Daten
+# § 29 – Auswertung und Bereitstellung von Daten
 
 (1) Die zuständige Bundesoberbehörde hat Daten gemäß § 28, die im Zusammenhang mit der Errichtung und dem Betrieb gentechnischer Anlagen, der Durchführung gentechnischer Arbeiten, mit Freisetzungen oder mit einem Inverkehrbringen von ihr erhoben oder ihr übermittelt worden sind, zum Zweck der Beobachtung, Sammlung und Auswertung von Sachverhalten, die Auswirkungen auf die in § 1 Nr. 1 und 2 genannten Rechtsgüter und Belange haben können, zu verarbeiten. Sie kann Daten über Stellungnahmen der Kommission zur Sicherheitseinstufung und zu Sicherheitsmaßnahmen gentechnischer Arbeiten sowie über die von den zuständigen Behörden getroffenen Entscheidungen an die zuständige Behörden zur Verwendung im Rahmen von Anmelde- und Genehmigungsverfahren übermitteln. Die Empfänger dürfen die übermittelten Daten nur zu dem Zweck verwenden, zu dem sie übermittelt worden sind.
 
@@ -1139,8 +1085,7 @@ Vor der Entscheidung über die Veröffentlichung sind in den Fällen des Satzes 
 
 (4) Art und Umfang der Daten regelt das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
-## § 30 – Erlaß von Rechtsverordnungen und Verwaltungsvorschriften
+# § 30 – Erlaß von Rechtsverordnungen und Verwaltungsvorschriften
 
 (1) Die Bundesregierung bestimmt nach Anhörung der Kommission durch Rechtsverordnung mit Zustimmung des Bundesrates zur Erreichung der in § 1 Nr. 1 genannten Zwecke die Verantwortlichkeit sowie die erforderliche Sachkunde des Projektleiters, insbesondere im Hinblick auf die Notwendigkeit und den Umfang von nachzuweisenden Kenntnissen in klassischer und molekularer Genetik, von praktischen Erfahrungen im Umgang mit Mikroorganismen und die erforderlichen Kenntnisse einschließlich der arbeitsschutzrechtlichen Bestimmungen über das Arbeiten in einer gentechnischen Anlage.
 
@@ -1188,8 +1133,7 @@ c) die zuständige Behörde entscheidet, wenn Feststellungen des Arztes für unz
 
 d) die in die Aufzeichnung aufzunehmenden Daten den Trägern der gesetzlichen Unfallversicherung oder einer von ihnen beauftragten Stelle zum Zweck der Ermittlung arbeitsbedingter Gesundheitsgefahren oder Berufskrankheiten übermittelt werden;
 
-9a.  
-bei welchen Tätigkeiten Beschäftigten nachgehende Untersuchungen ermöglicht werden müssen;
+9a. bei welchen Tätigkeiten Beschäftigten nachgehende Untersuchungen ermöglicht werden müssen;
 
 10. dass der Arbeitgeber dem Betriebs- oder Personalrat Vorgänge mitzuteilen hat, die dieser erfahren muß, um seine Aufgaben erfüllen zu können;
 
@@ -1221,13 +1165,11 @@ c) die zuständige Behörde diese Angaben der zuständigen Bundesoberbehörde zu
 
 (5) Die Bundesregierung kann nach Anhörung der Kommission mit Zustimmung des Bundesrates zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine Verwaltungsvorschriften erlassen.
 
-
-## § 31 – Zuständige Behörde und zuständige Bundesoberbehörde
+# § 31 – Zuständige Behörde und zuständige Bundesoberbehörde
 
 Die zur Ausführung dieses Gesetzes zuständigen Behörden bestimmt die nach Landesrecht zuständige Stelle, mangels einer solchen Bestimmung die Landesregierung; diese kann die Ermächtigung weiter übertragen. Zuständige Bundesoberbehörde ist das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit.
 
-
-## § 32 – Haftung
+# § 32 – Haftung
 
 (1) Wird infolge von Eigenschaften eines Organismus, die auf gentechnischen Arbeiten beruhen, jemand getötet, sein Körper oder seine Gesundheit verletzt oder eine Sache beschädigt, so ist der Betreiber verpflichtet, den daraus entstehenden Schaden zu ersetzen.
 
@@ -1245,20 +1187,17 @@ Die zur Ausführung dieses Gesetzes zuständigen Behörden bestimmt die nach Lan
 
 (8) Auf die Verjährung finden die für unerlaubte Handlungen geltenden Vorschriften des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 
-
-## § 33 – Haftungshöchstbetrag
+# § 33 – Haftungshöchstbetrag
 
 Sind infolge von Eigenschaften eines Organismus, die auf gentechnischen Arbeiten beruhen, Schäden verursacht worden, so haftet der Betreiber im Falle des § 32 den Geschädigten bis zu einem Höchstbetrag von 85 Millionen Euro. Übersteigen die mehreren auf Grund desselben Schadensereignisses zu leistenden Entschädigungen den in Satz 1 bezeichneten Höchstbetrag, so verringern sich die einzelnen Entschädigungen in dem Verhältnis, in dem ihr Gesamtbetrag zu dem Höchstbetrag steht.
 
-
-## § 34 – Ursachenvermutung
+# § 34 – Ursachenvermutung
 
 (1) Ist der Schaden durch gentechnisch veränderte Organismen verursacht worden, so wird vermutet, daß er durch Eigenschaften dieser Organismen verursacht wurde, die auf gentechnischen Arbeiten beruhen.
 
 (2) Die Vermutung ist entkräftet, wenn es wahrscheinlich ist, daß der Schaden auf anderen Eigenschaften dieser Organismen beruht.
 
-
-## § 35 – Auskunftsansprüche des Geschädigten
+# § 35 – Auskunftsansprüche des Geschädigten
 
 (1) Liegen Tatsachen vor, die die Annahme begründen, daß ein Personen- oder Sachschaden auf gentechnischen Arbeiten eines Betreibers beruht, so ist dieser verpflichtet, auf Verlangen des Geschädigten über die Art und den Ablauf der in der gentechnischen Anlage durchgeführten oder einer Freisetzung zugrundeliegenden gentechnischen Arbeiten Auskunft zu erteilen, soweit dies zur Feststellung, ob ein Anspruch nach § 32 besteht, erforderlich ist. Die §§ 259 bis 261 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
 
@@ -1266,8 +1205,7 @@ Sind infolge von Eigenschaften eines Organismus, die auf gentechnischen Arbeiten
 
 (3) Die Ansprüche nach den Absätzen 1 und 2 bestehen insoweit nicht, als die Vorgänge auf Grund gesetzlicher Vorschriften geheimzuhalten sind oder die Geheimhaltung einem überwiegenden Interesse des Betreibers oder eines Dritten entspricht.
 
-
-## § 36 – Deckungsvorsorge
+# § 36 – Deckungsvorsorge
 
 (1) Die Bundesregierung bestimmt in einer Rechtsverordnung mit Zustimmung des Bundesrates, dass derjenige, der eine gentechnische Anlage betreibt, in der gentechnische Arbeiten der Sicherheitsstufen 2 bis 4 durchgeführt werden sollen, oder der Freisetzungen vornimmt, verpflichtet ist, zur Deckung der Schäden Vorsorge zu treffen, die durch Eigenschaften eines Organismus, die auf gentechnischen Arbeiten beruhen, verursacht werden (Deckungsvorsorge). Der Umfang der Deckungsvorsorge für eine gentechnische Anlage hat Art und Umfang der in der Anlage durchgeführten Arbeiten zu berücksichtigen; dies gilt für Freisetzungen entsprechend. Die Rechtsverordnung muss auch nähere Vorschriften über die Befugnisse bei der Überwachung der Deckungsvorsorge enthalten. Nach Erlass der Rechtsverordnung gemäß Satz 1 kann das Bundesministerium der Justiz und für Verbraucherschutz durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Bildung und Forschung, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit sowie dem Bundesministerium für Gesundheit die Höhe der Deckungsvorsorge unter Beachtung der auf dem Versicherungsmarkt angebotenen Höchstbeträge neu festsetzen.
 
@@ -1287,8 +1225,7 @@ In der Rechtsverordnung nach Absatz 1 können auch andere Arten der Deckungsvors
 
 3. juristische Personen des öffentlichen Rechts.
 
-
-## § 36a – Ansprüche bei Nutzungsbeeinträchtigungen
+# § 36a – Ansprüche bei Nutzungsbeeinträchtigungen
 
 (1) Die Übertragung von Eigenschaften eines Organismus, die auf gentechnischen Arbeiten beruhen, oder sonstige Einträge von gentechnisch veränderten Organismen stellen eine wesentliche Beeinträchtigung im Sinne von § 906 des Bürgerlichen Gesetzbuchs dar, wenn entgegen der Absicht des Nutzungsberechtigten wegen der Übertragung oder des sonstigen Eintrags Erzeugnisse insbesondere
 
@@ -1304,8 +1241,7 @@ In der Rechtsverordnung nach Absatz 1 können auch andere Arten der Deckungsvors
 
 (4) Kommen nach den tatsächlichen Umständen des Einzelfalls mehrere Nachbarn als Verursacher in Betracht und lässt es sich nicht ermitteln, wer von ihnen die Beeinträchtigung durch seine Handlung verursacht hat, so ist jeder für die Beeinträchtigung verantwortlich. Dies gilt nicht, wenn jeder nur einen Teil der Beeinträchtigung verursacht hat und eine Aufteilung des Ausgleichs auf die Verursacher gemäß § 287 der Zivilprozessordnung möglich ist.
 
-
-## § 37 – Haftung nach anderen Rechtsvorschriften
+# § 37 – Haftung nach anderen Rechtsvorschriften
 
 (1) Wird infolge der Anwendung eines zum Gebrauch bei Menschen bestimmten Arzneimittels, das im Geltungsbereich des Arzneimittelgesetzes an den Verbraucher abgegeben wurde und der Pflicht zur Zulassung unterliegt oder durch Rechtsverordnung von der Zulassung befreit worden ist, jemand getötet oder an Körper oder Gesundheit verletzt, so sind die §§ 32 bis 36 nicht anzuwenden.
 
@@ -1313,15 +1249,13 @@ In der Rechtsverordnung nach Absatz 1 können auch andere Arten der Deckungsvors
 
 (3) Eine Haftung auf Grund anderer Vorschriften bleibt unberührt.
 
-
-## § 38 – Bußgeldvorschriften
+# § 38 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 6 Abs. 1 Satz 1 in Verbindung mit einer Rechtsverordnung nach § 30 Abs. 2 Nr. 15 eine Risikobewertung für eine weitere gentechnische Arbeit der Sicherheitsstufe 1 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig durchführt,
 
-1a.  
-entgegen § 6 Abs. 3 Satz 1 Aufzeichnungen nicht führt,
+1a. entgegen § 6 Abs. 3 Satz 1 Aufzeichnungen nicht führt,
 
 2. entgegen § 8 Abs. 1 Satz 1 gentechnische Arbeiten durchführt,
 
@@ -1333,16 +1267,13 @@ entgegen § 6 Abs. 3 Satz 1 Aufzeichnungen nicht führt,
 
 6. entgegen § 9 Abs. 2 Satz 1 eine Anzeige nicht, nicht richtig oder nicht rechtzeitig erstattet,
 
-6a.  
-ohne Genehmigung nach § 9 Abs. 3 weitere gentechnische Arbeiten durchführt,
+6a. ohne Genehmigung nach § 9 Abs. 3 weitere gentechnische Arbeiten durchführt,
 
-6b.  
-entgegen § 9 Abs. 4 weitere gentechnische Arbeiten durchführt,
+6b. entgegen § 9 Abs. 4 weitere gentechnische Arbeiten durchführt,
 
 7. ohne Genehmigung nach § 14 Abs. 1 Satz 1 Nr. 2 oder 3 Produkte, die gentechnisch veränderte Organismen enthalten oder aus solchen bestehen, in den Verkehr bringt,
 
-7a.  
-wer entgegen § 16c Abs. 1 ein Produkt nicht oder nicht richtig beobachtet,
+7a. wer entgegen § 16c Abs. 1 ein Produkt nicht oder nicht richtig beobachtet,
 
 8. einer vollziehbaren Auflage nach § 16d Abs. 3 Satz 1 oder § 19 Satz 2 oder einer vollziehbaren Anordnung nach § 26 zuwiderhandelt,
 
@@ -1352,8 +1283,7 @@ wer entgegen § 16c Abs. 1 ein Produkt nicht oder nicht richtig beobachtet,
 
 11. einer in § 16 Abs. 5a oder § 25 Abs. 3 Satz 3 genannten Verpflichtung zuwiderhandelt,
 
-11a.  
-entgegen § 25 Abs. 6 die Risikobewertung nicht oder nicht rechtzeitig vorlegt oder
+11a. entgegen § 25 Abs. 6 die Risikobewertung nicht oder nicht rechtzeitig vorlegt oder
 
 12. einer Rechtsverordnung nach § 2 Abs. 2 Satz 3, auch in Verbindung mit Abs. 2a Satz 2, § 6 Abs. 3 Satz 2, § 7 Abs. 2 Satz 2 oder § 30 Abs. 2 Nr. 1 bis 14 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
@@ -1361,8 +1291,7 @@ entgegen § 25 Abs. 6 die Risikobewertung nicht oder nicht rechtzeitig vorlegt o
 
 (3) Soweit dieses Gesetz von Bundesbehörden ausgeführt wird, ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die nach Landesrecht zuständige Behörde.
 
-
-## § 39 – Strafvorschriften
+# § 39 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach § 36 Abs. 1 Satz 1 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Strafvorschrift verweist.
 
@@ -1382,13 +1311,11 @@ entgegen § 25 Abs. 6 die Risikobewertung nicht oder nicht rechtzeitig vorlegt o
 
 (7) Wer in den Fällen des Absatzes 3 fahrlässig handelt und die Gefahr fahrlässig verursacht, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
-
-## § 40
+# § 40
 
 (weggefallen)
 
-
-## § 41 – Übergangsregelung
+# § 41 – Übergangsregelung
 
 (1) Für gentechnische Arbeiten, die bei Inkrafttreten der Vorschriften dieses Gesetzes über Anmeldungen und Genehmigungspflichten in einem nach den "Richtlinien zum Schutz vor Gefahren durch in-vitro neukombinierte Nukleinsäuren" (Gen-Richtlinien) registrierten Genlabor durchgeführt werden durften und die nach den Vorschriften dieses Gesetzes nur in genehmigten oder angemeldeten gentechnischen Anlagen durchgeführt werden dürfen, angemeldet werden müssen oder einer Genehmigung bedürfen, gilt die Anmeldung als erfolgt oder die Genehmigung als erteilt; für gentechnische Arbeiten in solchen Anlagen ist § 9 anwendbar.
 
@@ -1418,12 +1345,10 @@ entgegen § 25 Abs. 6 die Risikobewertung nicht oder nicht rechtzeitig vorlegt o
 
 bis zum 1. Oktober 2006 ohne Anhörung der Kommission nach § 4 oder eines Ausschusses nach den §§ 5 und 5a einmal geändert werden.
 
-
-## § 41a
+# § 41a
 
 (weggefallen)
 
-
-## § 42 – Anwendbarkeit der Vorschriften für die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+# § 42 – Anwendbarkeit der Vorschriften für die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 
 Bei Inkrafttreten des Abkommens über den Europäischen Wirtschaftsraum gelten die Vorschriften, die eine Beteiligung der Mitgliedstaaten der Europäischen Union vorsehen, auch für die Beteiligung der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum ab dem 1. Januar 1995.

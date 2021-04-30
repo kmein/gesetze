@@ -1,15 +1,11 @@
-# [BewG§39DV 3] Dritte Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
-
-Ausfertigungsdatum: 07.12.1967
-
+% Dritte Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes
+% Ausfertigungsdatum: 07.12.1967
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 39 Abs. 1 und des § 123 Abs. 1 des Bewertungsgesetzes in der Fassung vom 10. Dezember 1965 (Bundesgesetzbl. I S. 1861) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1
+# § 1
 
 Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszahlen festgesetzt. Sie sind für die gärtnerische Nutzung
 
@@ -21,18 +17,15 @@ Für die Hauptbewertungsstützpunkte werden auf den 1. Januar 1964 Vergleichszah
 
 zu entnehmen. Die Anlage 1 enthält Vorbemerkungen zu den Anlagen 2, 3 und 4.
 
-
-## § 2
+# § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 8 des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965 (Bundesgesetzbl. I S. 851) auch im Land Berlin.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 1)  Hauptbewertungsstützpunkte der gärtnerischen Nutzung
+# Anlage 1 – (zu § 1)  Hauptbewertungsstützpunkte der gärtnerischen Nutzung
 
 (Fundstelle: BGBl. I 1967, 1199)
 
@@ -186,8 +179,7 @@ Berlin
 Beispiel:  
 Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den ersten Hauptbewertungsstützpunkt des gärtnerischen Nutzungsteils Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 
-
-## Anlage 2 – (zu § 1 Nr. 1)  Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
+# Anlage 2 – (zu § 1 Nr. 1)  Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
 
 (Fundstelle: BGBl. I 1967, 1200 - 1201)
 
@@ -257,8 +249,7 @@ Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den ersten Hauptbe
 | G 111.02 | Berlin-Mariendorf           | Berlin-Tempelhof             |                 494                 | Blumen- und Zierpflanzenbau               |
 | G 111.03 | Berlin-Britz                | Berlin-Neukölln-Süd          |                 416                 | Blumen- und Zierpflanzenbau               |
 
-
-## Anlage 3 – (zu § 1 Nr. 2)  Nutzungsteil Obstbau
+# Anlage 3 – (zu § 1 Nr. 2)  Nutzungsteil Obstbau
 
 (Fundstelle: BGBl. I 1967, 1202)
 
@@ -290,8 +281,7 @@ Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den ersten Hauptbe
 | 81.02    | Frohnhofen                  | Aschaffenburg          |               38                |
 | 91.01    | Hamburg-Neuenfelde          | Hamburg-Dammtor        |               51                |
 
-
-## Anlage 4 – (zu § 1 Nr. 3)  Nutzungsteil Baumschulen
+# Anlage 4 – (zu § 1 Nr. 3)  Nutzungsteil Baumschulen
 
 (Fundstelle: BGBl. I 1967, 1203)
 

@@ -1,15 +1,11 @@
-# [SolingenV] Verordnung zum Schutz des Namens Solingen  (Solingenverordnung - SolingenV)
-
-Ausfertigungsdatum: 16.12.1994
-
+% Verordnung zum Schutz des Namens Solingen  (Solingenverordnung - SolingenV)
+% Ausfertigungsdatum: 16.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 137 des Markengesetzes vom 25. Oktober 1994 (BGBl. I S. 3082) verordnet das Bundesministerium der Justiz im Einvernehmen mit den Bundesministerien für Wirtschaft, für Ernährung, Landwirtschaft und Forsten und für Gesundheit:
 
-
-## § 1 – Grundsatz
+# § 1 – Grundsatz
 
 Der Name Solingen darf im geschäftlichen Verkehr nur für solche Schneidwaren benutzt werden, die
 
@@ -17,13 +13,11 @@ Der Name Solingen darf im geschäftlichen Verkehr nur für solche Schneidwaren b
 
 2. nach Rohstoff und Bearbeitung geeignet sind, ihren arteigenen Verwendungszweck zu erfüllen.
 
-
-## § 2 – Herkunftsgebiet
+# § 2 – Herkunftsgebiet
 
 Das Solinger Industriegebiet umfaßt das Gebiet der kreisfreien Stadt Solingen und das Gebiet der im Kreis Mettmann gelegenen Stadt Haan.
 
-
-## § 3 – Begriff der Schneidwaren
+# § 3 – Begriff der Schneidwaren
 
 Schneidwaren im Sinne des § 1 sind insbesondere:
 
@@ -43,12 +37,10 @@ Schneidwaren im Sinne des § 1 sind insbesondere:
 
 8. blanke Waffen aller Art.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

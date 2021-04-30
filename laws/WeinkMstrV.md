@@ -1,15 +1,11 @@
-# [WeinkMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Weinküfer-Handwerk  (Weinküfermeisterverordnung - WeinkMstrV)
-
-Ausfertigungsdatum: 16.10.1995
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Weinküfer-Handwerk  (Weinküfermeisterverordnung - WeinkMstrV)
+% Ausfertigungsdatum: 16.10.1995
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2256) geändert worden ist, in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 17. November 1994 (BGBl. I S. 3667) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Weinküfer-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -83,8 +79,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 31. Pflegen und Warten der Kellereimaschinen.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -92,8 +87,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit ist eine der nachstehend genannten Arbeiten anzufertigen:
 
@@ -107,8 +101,7 @@ dabei sollte das Volumen jeweils zwischen 200 und 5.000 Liter liegen.
 
 (3) Der Bericht nach Absatz 2 ist bei der Bewertung der Meisterprüfungsarbeit zu berücksichtigen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind vier der nachstehend genannten Arbeiten auszuführen:
 
@@ -134,8 +127,7 @@ dabei sollte das Volumen jeweils zwischen 200 und 5.000 Liter liegen.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -189,18 +181,15 @@ Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Fak
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 (1) Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 

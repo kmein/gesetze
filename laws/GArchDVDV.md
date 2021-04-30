@@ -1,12 +1,7 @@
-# [GArchDVDV] Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes  (GArchDVDV)
-
-Ausfertigungsdatum: 23.04.2019
-
+% Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes  (GArchDVDV)
+% Ausfertigungsdatum: 23.04.2019
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -38,8 +33,9 @@ Ausfertigungsdatum: 23.04.2019
 
  
 
+ 
 
-## § 1 – Ziele des Vorbereitungsdienstes
+# § 1 – Ziele des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst vermittelt die wissenschaftlichen Methoden und Kenntnisse, die für die Erfüllung der Aufgaben im gehobenen Archivdienst des Bundes erforderlich sind. Diese Aufgaben umfassen insbesondere
 
@@ -67,8 +63,7 @@ Ausfertigungsdatum: 23.04.2019
 
 (4) Die Anwärterinnen und Anwärter sollen durch den Vorbereitungsdienst befähigt werden, sich eigenständig weiterzubilden, um den sich ständig wandelnden Herausforderungen des gehobenen Archivdienstes gerecht zu werden.
 
-
-## § 2 – Einstellungsbehörden, Ausbildungsstellen und Dienstaufsicht
+# § 2 – Einstellungsbehörden, Ausbildungsstellen und Dienstaufsicht
 
 (1) Einstellungsbehörden sind
 
@@ -98,8 +93,7 @@ Sie sind insbesondere für die Organisation und Durchführung der Praktika und d
 
 2. während der Ausbildung an der Archivschule Marburg – Hochschule für Archivwissenschaft (Archivschule Marburg) der Dienstaufsicht der Archivschule Marburg.
 
-
-## § 3 – Nachteilsausgleich
+# § 3 – Nachteilsausgleich
 
 (1) Die Einstellungsbehörde gewährt Menschen mit Beeinträchtigungen, die die Umsetzung der nachzuweisenden Kenntnisse einschränken, im Auswahlverfahren sowie bei den Studien- und Prüfungsleistungen auf Antrag einen angemessenen Nachteilsausgleich. Die Einstellungsbehörde hat Menschen mit solchen Beeinträchtigungen rechtzeitig auf diese Vorschrift hinzuweisen.
 
@@ -109,8 +103,7 @@ Sie sind insbesondere für die Organisation und Durchführung der Praktika und d
 
 (4) Gewährte Nachteilsausgleiche sind zu dokumentieren.
 
-
-## § 4 – Bewertung von Leistungen
+# § 4 – Bewertung von Leistungen
 
 (1) Leistungen werden wie folgt bewertet:  
   
@@ -194,8 +187,7 @@ bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in abse
 
 (3) Werden die Bewertungen mehrerer Prüfungsleistungen zu einer Bewertung zusammengefasst, so wird als Bewertung eine Rangpunktzahl berechnet. Rangpunktzahlen werden kaufmännisch auf eine ganze Zahl gerundet, soweit nicht etwas Abweichendes geregelt ist.
 
-
-## § 5 – Einstellungsvoraussetzungen
+# § 5 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -205,8 +197,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 3. über Grundkenntnisse der lateinischen oder der französischen Sprache verfügt.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens, in dem die Eignung und Befähigung der Bewerberinnen und Bewerber für den Vorbereitungsdienst festgestellt wird. Insbesondere wird festgestellt, ob die Bewerberinnen und Bewerber über das Allgemein- und Fachwissen, die Sprachkenntnisse, die kognitiven, methodischen und sozialen Fähigkeiten, die charakterlichen Merkmale und die Leistungsmotivation verfügen, das oder die für die Erfüllung der Aufgaben im gehobenen Archivdienst erforderlich ist oder sind.
 
@@ -214,8 +205,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder erfolglos daran teilgenommen hat, erhält eine schriftliche Mitteilung über die Ablehnung. Die Bewerbungsunterlagen werden vernichtet oder endgültig gelöscht.
 
-
-## § 7 – Auswahlkommission
+# § 7 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet die Ausbildungsstelle eine Auswahlkommission ein. Teile des Auswahlverfahrens können ausgegliedert werden. Auch bei einer Ausgliederung bleibt die Gesamtverantwortung bei der Auswahlkommission.
 
@@ -233,8 +223,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 (5) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig.
 
-
-## § 8 – Bestandteile des Auswahlverfahrens
+# § 8 – Bestandteile des Auswahlverfahrens
 
 Das Auswahlverfahren besteht aus
 
@@ -242,8 +231,7 @@ Das Auswahlverfahren besteht aus
 
 2. einem mündlichen Teil.
 
-
-## § 9 – Schriftlicher Teil des Auswahlverfahrens
+# § 9 – Schriftlicher Teil des Auswahlverfahrens
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden drei Leistungstests durchgeführt.
 
@@ -257,8 +245,7 @@ Das Auswahlverfahren besteht aus
 
 (3) Jeder Leistungstest wird gesondert bewertet.
 
-
-## § 10 – Mündlicher Teil des Auswahlverfahrens
+# § 10 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Der mündliche Teil des Auswahlverfahrens dient auch der Feststellung der persönlichen Eignung der Bewerberin oder des Bewerbers, insbesondere hinsichtlich des Auftretens, des Kommunikationsverhaltens und der Belastbarkeit.
 
@@ -276,8 +263,7 @@ Das Auswahlverfahren besteht aus
 
 (6) Der Bewerberin oder dem Bewerber ist Gelegenheit für Fragen zum angestrebten Beruf und zum Fortgang des Bewerbungsverfahrens zu geben. Diese Fragen werden bei der Bewertung nicht berücksichtigt.
 
-
-## § 11 – Gesamtergebnis des Auswahlverfahrens, Bestehen und Rangfolge
+# § 11 – Gesamtergebnis des Auswahlverfahrens, Bestehen und Rangfolge
 
 (1) Die Auswahlkommission stellt für jede Bewerberin und jeden Bewerber das Gesamtergebnis fest.
 
@@ -297,8 +283,7 @@ Das Gesamtergebnis wird auf zwei Nachkommastellen ohne Rundung berechnet.
 
 (4) Anhand des Gesamtergebnisses des Auswahlverfahrens legt die Auswahlkommission die für die Einstellung maßgebliche Rangfolge der geeigneten Bewerberinnen und Bewerber fest.
 
-
-## § 12 – Dauer und Gliederung des Vorbereitungsdienstes
+# § 12 – Dauer und Gliederung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst dauert drei Jahre. Er besteht aus folgenden Ausbildungsphasen:  
   
@@ -374,15 +359,13 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (2) Für die Fachstudien werden die Anwärterinnen und Anwärter an die jeweilige Hochschule abgeordnet. Das Fachstudium I kann auch an einer anderen Hochschule absolviert werden, die ein dreimonatiges Verwaltungsgrundstudium anbietet.
 
-
-## § 13 – Fachstudien
+# § 13 – Fachstudien
 
 (1) Ziel des Fachstudiums I ist es, den Anwärterinnen und Anwärtern insbesondere die erforderlichen Kenntnisse auf dem Gebiet des allgemeinen Verwaltungshandelns zu vermitteln. Die Einzelheiten ergeben sich aus dem Modulhandbuch für das Verwaltungsgrundstudium in Laufbahnen des gehobenen technischen Dienstes in der Landesverwaltung und der Kommunalverwaltung der Hochschule Mayen von März 2018 in der jeweils geltenden Fassung, das auf der Website der Hochschule veröffentlicht ist.
 
 (2) Ziel des Fachstudiums II ist es, den Anwärterinnen und Anwärtern insbesondere die erforderlichen Kenntnisse aus den Bereichen Archivwissenschaft, Archivrecht und Geschichtswissenschaft sowie die Kenntnisse über die historischen Hilfswissenschaften zu vermitteln, die zur Erfüllung archivfachlicher Querschnittsaufgaben erforderlich sind. Die Einzelheiten ergeben sich aus der Studienordnung für die Fachstudien an der Archivschule Marburg – Hochschule für Archivwissenschaft – im Rahmen der Ausbildung des gehobenen Archivdienstes vom 4. August 2017 (Staatsanzeiger für das Land Hessen S. 771).
 
-
-## § 14 – Prüfungsleistungen in den Fachstudien
+# § 14 – Prüfungsleistungen in den Fachstudien
 
 (1) In den Fachstudien sind Prüfungsleistungen zu erbringen.
 
@@ -390,8 +373,7 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (3) Die Prüfung, die während des Fachstudiums II als Zwischenprüfung an der Archivschule Marburg zu erbringen ist, richtet sich nach den §§ 11 bis 16 der Ausbildungs- und Prüfungsordnung für den Laufbahnzweig Archivdienst im gehobenen allgemeinen Verwaltungsdienst in Hessen vom 24. November 2016 (Staatsanzeiger für das Land Hessen S. 1619).
 
-
-## § 15 – Ausbildungsleitung sowie Ausbilderinnen und Ausbilder in den Praktika
+# § 15 – Ausbildungsleitung sowie Ausbilderinnen und Ausbilder in den Praktika
 
 (1) Die Ausbildungsstelle bestellt eine Angehörige oder einen Angehörigen des höheren Archivdienstes zur Ausbildungsleiterin oder zum Ausbildungsleiter sowie eine Vertreterin oder einen Vertreter, die oder der auch dem gehobenen Dienst angehören kann. Die Ausbildungsleitung hat die Aufgabe,
 
@@ -415,8 +397,7 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (3) Soweit erforderlich werden die Ausbildungsleitung sowie die Ausbilderinnen und Ausbilder von anderen Dienstgeschäften entlastet.
 
-
-## § 16 – Praktika
+# § 16 – Praktika
 
 (1) In den Praktika werden anhand praktischer Fälle vermittelt:
 
@@ -446,15 +427,13 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 2. die Ausbildungsleitung im Einvernehmen mit der jeweiligen Einrichtung Ausbilderinnen und Ausbilder dieser Einrichtung zur Wahrnehmung der Aufgaben nach § 15 Absatz 2 Satz 2 bestellt.
 
-
-## § 17 – Lehrveranstaltungen in den Praktika
+# § 17 – Lehrveranstaltungen in den Praktika
 
 (1) In den Praktika werden Lehrveranstaltungen durchgeführt, die je nach Ausbildungsphase auf die Fachstudien vorbereiten oder der Vertiefung der in den Fachstudien und in den Praktika erworbenen Kenntnisse und Fähigkeiten dienen.
 
 (2) Die Ausbildungsstelle stimmt die Lehrveranstaltungen und den praktischen Einsatz am Arbeitsplatz aufeinander ab.
 
-
-## § 18 – Bewertung der Praktika
+# § 18 – Bewertung der Praktika
 
 (1) Am Ende jedes Praktikums bewerten die Ausbilderinnen und Ausbilder die Leistungen und den Ausbildungsstand der Anwärterinnen und Anwärter schriftlich. Wird ein Praktikum zu mehr als der Hälfte der Dauer in einer anderen Einrichtung durchgeführt, so wird es durch die Ausbilderin oder den Ausbilder der jeweiligen Einrichtung im Benehmen mit der Ausbildungsleiterin oder dem Ausbildungsleiter der Einstellungsbehörde nach § 4 bewertet.
 
@@ -462,15 +441,13 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (3) Im Praktikum IV erstellt die Ausbildungsstelle vor der Laufbahnprüfung ein zusammenfassendes Zeugnis, das die Rangpunkte für jedes Praktikum und die Rangpunktzahl für die Praktika enthält. Die Rangpunktzahl ist das arithmetische Mittel aus den Bewertungen aller Praktika. Die Anwärterinnen und Anwärter erhalten ein Exemplar des Zeugnisses.
 
-
-## § 19 – Prüfungsamt
+# § 19 – Prüfungsamt
 
 (1) Die oder der Beauftragte der Bundesregierung für Kultur und Medien richtet ein Prüfungsamt ein.
 
 (2) Vertreterinnen und Vertreter des Prüfungsamtes können jederzeit an der Laufbahnprüfung teilnehmen.
 
-
-## § 20 – Prüfungskommission
+# § 20 – Prüfungskommission
 
 (1) Die oder der Beauftragte der Bundesregierung für Kultur und Medien richtet bei der Einstellungsbehörde eine Prüfungskommission ein. Die Prüfungskommission führt die Laufbahnprüfung durch und bewertet die erbrachten Leistungen.
 
@@ -490,8 +467,7 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (6) Die Prüfungskommission ist beschlussfähig, wenn die oder der Vorsitzende sowie mindestens drei weitere Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 21 – Zweck und Bestandteile der Laufbahnprüfung
+# § 21 – Zweck und Bestandteile der Laufbahnprüfung
 
 (1) In der Laufbahnprüfung weisen die Anwärterinnen und Anwärter nach, dass sie
 
@@ -505,8 +481,7 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 2. einer mündlichen Prüfung.
 
-
-## § 22 – Prüfungsorte und Prüfungstermine
+# § 22 – Prüfungsorte und Prüfungstermine
 
 (1) Die Laufbahnprüfung wird in der zweiten Hälfte des Praktikums IV absolviert.
 
@@ -514,8 +489,7 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (3) Über die festgesetzten Orte und Termine informiert die Ausbildungsstelle rechtzeitig das Prüfungsamt sowie die Anwärterinnen und Anwärter.
 
-
-## § 23 – Schriftliche Prüfung
+# § 23 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus
 
@@ -527,8 +501,7 @@ Bundesarchiv, die oder der Bundesbeauftragte oder Geheimes Staatsarchiv – Preu
 
 (3) Die Prüfungskommission teilt die Aufgabenstellung für die archivarische Abschlussarbeit und die Prüfungsaufgaben für die Klausur dem Prüfungsamt mit. Im Übrigen sind sie geheim zu halten.
 
-
-## § 24 – Archivarische Abschlussarbeit
+# § 24 – Archivarische Abschlussarbeit
 
 (1) Das Thema der archivarischen Abschlussarbeit soll im Zusammenhang mit den Archivbeständen der Ausbildungsstelle stehen. Mögliche Aufgaben können sein:
 
@@ -552,8 +525,7 @@ Die Erklärung ist von der Anwärterin oder dem Anwärter zu unterschreiben.
 
 (5) Wird eine archivarische Abschlussarbeit nicht, nicht rechtzeitig oder nicht formgemäß abgegeben, so gilt sie als mit null Rangpunkten bewertet.
 
-
-## § 25 – Klausur
+# § 25 – Klausur
 
 (1) Die Prüfungsaufgaben für die Klausur können folgende Fachgebiete betreffen:
 
@@ -589,8 +561,7 @@ Das Protokoll ist von der oder dem Aufsichtführenden zu unterschreiben.
 
 (5) Wird eine Klausur nicht oder nicht rechtzeitig abgegeben, so gilt sie als mit null Rangpunkten bewertet.
 
-
-## § 26 – Bewertung
+# § 26 – Bewertung
 
 (1) Die archivarische Abschlussarbeit und die Klausur werden jeweils von zwei Prüferinnen oder Prüfern bewertet.
 
@@ -600,8 +571,7 @@ Das Protokoll ist von der oder dem Aufsichtführenden zu unterschreiben.
 
 (4) Weichen die beiden Bewertungen voneinander ab, entscheidet die Prüfungskommission.
 
-
-## § 27 – Aufgaben und Durchführung
+# § 27 – Aufgaben und Durchführung
 
 (1) Die Aufgaben für die mündliche Prüfung werden von der Prüfungskommission gestellt. Sie müssen vier der in § 25 Absatz 1 genannten Fachgebiete umfassen. Den Anwärterinnen und Anwärtern eines Jahrgangs werden gleichwertige Aufgaben gestellt. Die Aufgaben sind bis zur Prüfung geheim zu halten.
 
@@ -611,8 +581,7 @@ Das Protokoll ist von der oder dem Aufsichtführenden zu unterschreiben.
 
 (4) Über die mündliche Prüfung wird ein Protokoll angefertigt. Das Protokoll ist von den Mitgliedern der Prüfungskommission zu unterschreiben.
 
-
-## § 28 – Bewertung und Rangpunktzahl für die mündliche Prüfung
+# § 28 – Bewertung und Rangpunktzahl für die mündliche Prüfung
 
 (1) Die Prüfungskommission bewertet die Leistungen gesondert für jedes der vier geprüften Fachgebiete.
 
@@ -620,8 +589,7 @@ Das Protokoll ist von der oder dem Aufsichtführenden zu unterschreiben.
 
 (3) Die Rangpunktzahl für die mündliche Prüfung ist das arithmetische Mittel aus den Bewertungen für die vier Fachgebiete.
 
-
-## § 29 – Verhinderung, Rücktritt und Säumnis
+# § 29 – Verhinderung, Rücktritt und Säumnis
 
 (1) Ist eine Anwärterin oder ein Anwärter durch eine Erkrankung oder durch sonstige nicht zu vertretende Umstände gehindert, die Laufbahnprüfung ganz oder teilweise abzulegen, so hat sie oder er dies unverzüglich der Einstellungsbehörde glaubhaft zu machen. Eine Erkrankung ist durch Vorlage eines ärztlichen Attests nachzuweisen. Auf Verlangen der Einstellungsbehörde hat die Anwärterin oder der Anwärter ein amtsärztliches Attest vorzulegen oder das Attest einer Ärztin oder eines Arztes, die oder der von der Einstellungsbehörde beauftragt worden ist.
 
@@ -645,8 +613,7 @@ Das Protokoll ist von der oder dem Aufsichtführenden zu unterschreiben.
 
 (6) Wird die gesamte Laufbahnprüfung für nicht bestanden erklärt und kann sie nicht mehr wiederholt werden, so erhält die Anwärterin oder der Anwärter einen Bescheid über das endgültige Nichtbestehen. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
-
-## § 30 – Täuschung und Ordnungsverstoß
+# § 30 – Täuschung und Ordnungsverstoß
 
 (1) Eine Anwärterin oder ein Anwärter, die oder der bei der Laufbahnprüfung täuscht, eine Täuschung versucht, an einer Täuschung oder an einem Täuschungsversuch mitwirkt oder sonst gegen die Ordnung verstößt, soll die Prüfung unter dem Vorbehalt einer abweichenden Entscheidung der Einstellungsbehörde fortsetzen dürfen. Bei einem erheblichen Ordnungsverstoß kann die Anwärterin oder der Anwärter von der Prüfung ausgeschlossen werden.
 
@@ -664,8 +631,7 @@ Die oder der Vorsitzende der Prüfungskommission informiert das Prüfungsamt üb
 
 (4) Vor einer Entscheidung nach Absatz 2 oder Absatz 3 ist die Anwärterin  oder der Anwärter anzuhören.
 
-
-## § 31 – Abschließende Rangpunktzahl, Bestehen der Laufbahnprüfung und Gesamtnote
+# § 31 – Abschließende Rangpunktzahl, Bestehen der Laufbahnprüfung und Gesamtnote
 
 (1) Im Anschluss an die mündliche Prüfung wird die abschließende Rangpunktzahl berechnet.
 
@@ -693,8 +659,7 @@ Die abschließende Rangpunktzahl wird auf zwei Nachkommastellen ohne Rundung ber
 
 (6) Im Anschluss an die Festsetzung der Gesamtnote teilt die oder der Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die erreichten Rangpunkte, Rangpunktzahlen und Noten mit und erläutert auf Wunsch die Bewertung kurz mündlich.
 
-
-## § 32 – Abschlusszeugnis
+# § 32 – Abschlusszeugnis
 
 (1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein Abschlusszeugnis.
 
@@ -706,8 +671,7 @@ Die abschließende Rangpunktzahl wird auf zwei Nachkommastellen ohne Rundung ber
 
 (5) Ein unrichtiges Abschlusszeugnis ist dem Prüfungsamt zurückzugeben. Zurückzugeben ist das Abschlusszeugnis auch, wenn die Laufbahnprüfung nachträglich infolge einer Täuschung für nicht bestanden erklärt wird.
 
-
-## § 33 – Bescheid bei Nichtbestehen der Laufbahnprüfung
+# § 33 – Bescheid bei Nichtbestehen der Laufbahnprüfung
 
 (1) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt einen schriftlichen Bescheid. Dieser Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.
 
@@ -719,15 +683,13 @@ Die abschließende Rangpunktzahl wird auf zwei Nachkommastellen ohne Rundung ber
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Prüfungsergebnisse werden beim Bescheid nach Absatz 1 durch das Prüfungsamt berichtigt. Beim Bescheid über die endgültig nichtbestandene Laufbahnprüfung werden sie von der Einstellungsbehörde berichtigt.
 
-
-## § 34 – Wiederholung
+# § 34 – Wiederholung
 
 (1) Die Einstellungsbehörde bestimmt im Benehmen mit der Ausbildungsleitung, innerhalb welcher Frist Anwärterinnen und Anwärter, die die Laufbahnprüfung nicht bestanden haben, die Prüfung einmalig wiederholen können. Die Wiederholungsfrist soll mindestens drei und höchstens zwölf Monate betragen.
 
 (2) Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verlängert.
 
-
-## § 35 – Prüfungsakte und Einsichtnahme
+# § 35 – Prüfungsakte und Einsichtnahme
 
 (1) Die Ausbildungsstelle führt zu jeder Anwärterin und jedem Anwärter eine Prüfungsakte.
 
@@ -755,7 +717,6 @@ Die abschließende Rangpunktzahl wird auf zwei Nachkommastellen ohne Rundung ber
 
 (4) Die Anwärterin oder der Anwärter kann nach jeder Prüfung, sobald ihr die Bewertungen aller Prüfungsteile mitgeteilt worden ist, Einsicht in ihre Prüfungsakte nehmen.
 
-
-## § 36 – Übergangsregelung
+# § 36 – Übergangsregelung
 
 Für Anwärterinnen und Anwärter, die vor dem 1. Mai 2019 mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes vom 18. Dezember 2015 (BGBl. I S. 2478), die durch Artikel 1 der Verordnung vom 19. Juni 2017 (BGBl. I S. 1896) geändert worden ist, weiter anzuwenden.

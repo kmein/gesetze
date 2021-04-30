@@ -1,22 +1,17 @@
-# [WoBerichtsG] Wohnungslosenberichterstattungsgesetz  (WoBerichtsG)
-
-Ausfertigungsdatum: 04.03.2020
-
+% Wohnungslosenberichterstattungsgesetz  (WoBerichtsG)
+% Ausfertigungsdatum: 04.03.2020
  
-
-## § 1 – Zweck der Erhebung; Durchführung
+# § 1 – Zweck der Erhebung; Durchführung
 
 (1) Zur Verbesserung der Armuts- und Reichtumsberichterstattung des Bundes sowie der Informationsgrundlage für politisches Handeln wird eine Erhebung über Personen, die wohnungslos sind, als Bundesstatistik durchgeführt.
 
 (2) Die Statistik wird zentral vom Statistischen Bundesamt durchgeführt.
 
-
-## § 2 – Periodizität und Berichtszeitpunkt
+# § 2 – Periodizität und Berichtszeitpunkt
 
 Die Erhebung wird jährlich als Bestandserhebung zum Stichtag 31. Januar, erstmals für das Jahr 2022, durchgeführt.
 
-
-## § 3 – Begriffsbestimmung; Umfang der Erhebung
+# § 3 – Begriffsbestimmung; Umfang der Erhebung
 
 (1) Wohnungslosigkeit besteht, wenn
 
@@ -26,8 +21,7 @@ Die Erhebung wird jährlich als Bestandserhebung zum Stichtag 31. Januar, erstma
 
 (2) Für die Statistik werden Daten erhoben über Personen, denen aufgrund von Maßnahmen der Gemeinden und Gemeindeverbände oder mit Kostenerstattung durch andere Träger von Sozialleistungen zum Stichtag wegen Wohnungslosigkeit Räume zu Wohnzwecken überlassen oder Übernachtungsgelegenheiten zur Verfügung gestellt worden sind.
 
-
-## § 4 – Erhebungsmerkmale
+# § 4 – Erhebungsmerkmale
 
 Erhebungsmerkmale für jede wohnungslose Person sind:
 
@@ -67,8 +61,7 @@ e) sonstiger Stellen,
 
 9. Gemeinde nach Gemeindeschlüssel, in der Räume zu Wohnzwecken überlassen oder Übernachtungsgelegenheiten zur Verfügung gestellt werden.
 
-
-## § 5 – Hilfsmerkmale
+# § 5 – Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
@@ -76,8 +69,7 @@ Hilfsmerkmale sind:
 
 2. Name und Kontaktdaten der Personen, die bei der auskunftspflichtigen Stelle als Ansprechpartner für Rückfragen zur Verfügung stehen.
 
-
-## § 6 – Auskunftspflicht
+# § 6 – Auskunftspflicht
 
 (1) Für die Erhebung besteht Auskunftspflicht. Die Auskunftserteilung zu den Angaben nach § 5 Nummer 2 ist freiwillig. Auskunftspflichtig sind:
 
@@ -89,8 +81,7 @@ Hilfsmerkmale sind:
 
 (3) Träger von Sozialleistungen, die für Maßnahmen nach § 3 Absatz 2 die Kosten erstatten, übermitteln auskunftspflichtigen Stellen nach Absatz 1 Satz 3 Nummer 1 auf deren Ersuchen die für die Erfüllung der Zwecke dieses Gesetzes erforderlichen Angaben.
 
-
-## § 7 – Datenübermittlung; Veröffentlichung
+# § 7 – Datenübermittlung; Veröffentlichung
 
 (1) Die in sich schlüssigen und nach einheitlichen Standards formatierten Datensätze zu den Erhebungs- und Hilfsmerkmalen nach den §§ 4 und 5 sind von den auskunftspflichtigen Stellen nach § 6 Absatz 1 innerhalb von 30 Arbeitstagen nach dem Stichtag an das Statistische Bundesamt zu übermitteln.
 
@@ -108,8 +99,7 @@ b) die Einzeldatensätze für Sonderaufbereitungen auf regionaler Ebene für das
 
 (4) Die Ergebnisse der Erhebung dürfen bis zur Ebene der Gemeinden sowie, im Falle der Stadtstaaten, bis zur Bezirks- oder Stadtteilebene veröffentlicht werden.
 
-
-## § 8 – Ergänzende Berichterstattung
+# § 8 – Ergänzende Berichterstattung
 
 (1) Die Bundesregierung stellt durch geeignete Maßnahmen, insbesondere im Rahmen der Ressortforschung im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales, sicher, dass Informationen und Analysen über Umfang und Struktur der Formen von Wohnungslosigkeit gewonnen werden, die über den Umfang der Erhebung nach § 3 Absatz 2 hinausgehen.
 
@@ -123,7 +113,6 @@ b) die Einzeldatensätze für Sonderaufbereitungen auf regionaler Ebene für das
 
 (4) Unter Beteiligung der Wissenschaft und von Fachverbänden wird in dem ersten Bericht nach Absatz 2 die Machbarkeit der Berichterstattung über weitere Formen von Wohnungslosigkeit geprüft, die über Absatz 3 hinausgehen. Soweit der Aufwand vertretbar ist, erfolgt eine Erweiterung des Berichts nach Absatz 2 auf möglichst viele Formen von Wohnungslosigkeit.
 
-
-## § 9 – Bericht über eine mögliche Erweiterung der Erhebung nach § 3 Absatz 2
+# § 9 – Bericht über eine mögliche Erweiterung der Erhebung nach § 3 Absatz 2
 
 In dem dritten Bericht nach § 8 Absatz 2 wird auf Grundlage der Erkenntnisse aus der Durchführung der Erhebung nach § 3 Absatz 2 sowie der ergänzenden Berichterstattung nach § 8 geprüft, unter welchen Bedingungen eine Erweiterung des Umfangs der Erhebung nach § 3 Absatz 2 erfolgen kann.

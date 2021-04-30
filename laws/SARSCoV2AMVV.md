@@ -1,15 +1,11 @@
-# [SARSCoV2AMVV] Verordnung über Abweichungen von den Vorschriften des Fünften Buches Sozialgesetzbuch, des Apothekengesetzes, der Apothekenbetriebsordnung, der Arzneimittelpreisverordnung, des Betäubungsmittelgesetzes und der Betäubungsmittel-Verschreibungsverordnung infolge der SARS-CoV-2-Epidemie  (SARS-CoV-2-Arzneimittelversorgungsverordnung)
-
-Ausfertigungsdatum: 20.04.2020
-
+% Verordnung über Abweichungen von den Vorschriften des Fünften Buches Sozialgesetzbuch, des Apothekengesetzes, der Apothekenbetriebsordnung, der Arzneimittelpreisverordnung, des Betäubungsmittelgesetzes und der Betäubungsmittel-Verschreibungsverordnung infolge der SARS-CoV-2-Epidemie  (SARS-CoV-2-Arzneimittelversorgungsverordnung)
+% Ausfertigungsdatum: 20.04.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b, c, e und f und Nummer 7 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 4 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Ausnahmen vom Fünften Buch Sozialgesetzbuch
+# § 1 – Ausnahmen vom Fünften Buch Sozialgesetzbuch
 
 (1) Abweichend von § 35c Absatz 2 Satz 3 zweiter Halbsatz des Fünften Buches Sozialgesetzbuch kann der Gemeinsame Bundesausschuss bei klinischen Studien zur zulassungsüberschreitenden Anwendung von Arzneimitteln zur Behandlung von COVID-19-Erkrankungen nur innerhalb von fünf Werktagen nach Eingang der Mitteilung widersprechen.
 
@@ -31,18 +27,15 @@ Im Fall der Verschreibung von Substitutionsmitteln nach § 5 Absatz 6 der Betäu
 
 (5) Abweichend von § 129 Absatz 5c Satz 1 bis 5 des Fünften Buches Sozialgesetzbuch gilt in den Fällen, in denen ein Wirkstoff zu dem nach § 129 Absatz 5c Satz 1 bis 5 des Fünften Buches Sozialgesetzbuch vereinbarten oder festgesetzten Preis nicht verfügbar ist, § 129 Absatz 5c Satz 6 bis 12 des Fünften Buches Sozialgesetzbuch entsprechend.
 
-
-## § 2 – Ausnahmen vom Apothekengesetz und von der Apothekenbetriebsordnung
+# § 2 – Ausnahmen vom Apothekengesetz und von der Apothekenbetriebsordnung
 
 Soweit dies zur Sicherstellung der Versorgung der Bevölkerung mit Arzneimitteln, einschließlich Betäubungsmitteln nach Anlage III des Betäubungsmittelgesetzes, mit Medizinprodukten und weiteren apothekenüblichen Waren erforderlich ist, können die zuständigen Behörden im Einzelfall ein Abweichen von den Vorschriften des Apothekengesetzes zur Apothekenleitung und zur Abgabe von Arzneimitteln im Rahmen des Entlassmanagements sowie von den Vorschriften der Apothekenbetriebsordnung zur Apothekenleitung, zum Personaleinsatz, zur Beaufsichtigung des Personals, zu den Räumlichkeiten, zur Prüfung von Ausgangsstoffen und Behältnissen, zur Qualität der Ausgangsstoffe und Behältnisse, zur Herstellung und Prüfung von Arzneimitteln, zum Erwerb von Arzneimitteln durch Apotheken, zum Botendienst und zur Dokumentation gestatten.
 
-
-## § 3 – Weitere Ausnahmen von der Apothekenbetriebsordnung
+# § 3 – Weitere Ausnahmen von der Apothekenbetriebsordnung
 
 Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a der Apothekenbetriebsordnung dürfen Apotheken, wenn das auf der Grundlage der ärztlichen Verordnung abzugebende Arzneimittel nicht vorrätig oder lieferbar ist, dieses nach Maßgabe des § 1 Absatz 3 durch ein anderes Arzneimittel ersetzen.
 
-
-## § 4 – Ergänzungen der Arzneimittelpreisverordnung
+# § 4 – Ergänzungen der Arzneimittelpreisverordnung
 
 (1) (weggefallen)
 
@@ -50,13 +43,11 @@ Abweichend von § 17 Absatz 5 Satz 1 und 2 und Absatz 5a der Apothekenbetriebsor
 
 (3) Bei der Abgabe von Teilmengen aus einer Arzneimittelpackung können Apotheken bei der ersten Abgabe die in § 3 Absatz 1 Satz 1 genannten Zuschläge erheben. Bei der Abgabe weiterer Teilmengen aus derselben Packung an andere Patienten können Apotheken abweichend von den Zuschlägen in § 3 Absatz 1 Satz 1 jeweils nur den Zuschlag von 5,80 Euro erheben.
 
-
-## § 5 – Ausnahmen vom Betäubungsmittelgesetz
+# § 5 – Ausnahmen vom Betäubungsmittelgesetz
 
 Einer Erlaubnis nach § 3 des Betäubungsmittelgesetzes bedarf auch nicht, wer im Rahmen des Betriebs einer öffentlichen Apotheke oder einer Krankenhausapotheke zur Sicherstellung des nicht aufschiebbaren Betäubungsmittelbedarfs für die Behandlung von Patienten in Anlage III des Betäubungsmittelgesetzes bezeichnete Betäubungsmittel an eine öffentliche Apotheke oder eine Krankenhausapotheke abgibt.
 
-
-## § 6 – Ausnahmen von der Betäubungsmittel-Verschreibungsverordnung
+# § 6 – Ausnahmen von der Betäubungsmittel-Verschreibungsverordnung
 
 (1) Zur Sicherstellung der Substitutionsbehandlung von opioidabhängigen Patienten, denen ein Substitutionsmittel verschrieben, verabreicht oder zum unmittelbaren Verbrauch überlassen wird, darf der substituierende Arzt
 
@@ -78,8 +69,7 @@ Einer Erlaubnis nach § 3 des Betäubungsmittelgesetzes bedarf auch nicht, wer i
 
 (3) Abweichend von § 8 Absatz 3 Satz 1 der Betäubungsmittel-Verschreibungsverordnung dürfen zur Sicherstellung der Versorgung mit Betäubungsmitteln Betäubungsmittelrezepte auch außerhalb von Vertretungsfällen übertragen werden.
 
-
-## § 7 – Auskunftspflicht, Verkaufs- und Verpflichtungsverbot
+# § 7 – Auskunftspflicht, Verkaufs- und Verpflichtungsverbot
 
 (1) Hersteller und Vertreiber von versorgungsrelevanten Produkten des medizinischen Bedarfs sind verpflichtet, dem Bundesministerium für Gesundheit oder einer von diesem benannten Stelle auf Verlangen Auskunft über die Bestände, den Lagerort, die Produktion, den Vertrieb und die Preise zu erteilen.
 
@@ -87,8 +77,7 @@ Einer Erlaubnis nach § 3 des Betäubungsmittelgesetzes bedarf auch nicht, wer i
 
 (3) Versorgungsrelevante Produkte des medizinischen Bedarfs sind Arzneimittel, ihre Wirk-, Ausgangs- und Hilfsstoffe, Medizinprodukte, Labordiagnostika, Hilfsmittel, Gegenstände der persönlichen Schutzausrüstung, Produkte zur Desinfektion und deren Einzelkomponenten, für die das Bundesministerium für Gesundheit festgestellt hat, dass sie für die bedarfsgerechte Versorgung der Bevölkerung in der epidemischen Lage von nationaler Tragweite von wesentlicher Bedeutung sind. Die Feststellung ist im Bundesanzeiger bekannt zu machen.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -98,8 +87,7 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 3. entgegen § 7 Absatz 2 Satz 3 einen Aufschlag erhebt.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt vorbehaltlich des Absatzes 2 nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.
 

@@ -1,10 +1,7 @@
-# [VSchwKrSchV] Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit
-
-Ausfertigungsdatum: 04.03.1994
-
+% Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit
+% Ausfertigungsdatum: 04.03.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -156,8 +153,7 @@ Ordnungswidrigkeiten
 
 § 15
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung liegen vor:
 
@@ -171,15 +167,13 @@ nach dem Anhang der Entscheidung 2000/428/EG der Kommission vom 4. Juli 2000 zur
 
 2. Verdacht des Ausbruchs der Vesikulären Schweinekrankheit, wenn das Ergebnis der klinischen Untersuchung oder der serologischen Untersuchung nach dem Anhang der Entscheidung 2000/428/EG den Ausbruch der Vesikulären Schweinekrankheit befürchten lässt.
 
-
-## § 2 – Impfverbot
+# § 2 – Impfverbot
 
 (1) Impfungen gegen die Vesikuläre Schweinekrankheit sowie Heilversuche an seuchenkranken oder verdächtigen Tieren sind verboten.
 
 (2) Die zuständige Behörde kann im Einzelfall Ausnahmen von Absatz 1 für wissenschaftliche Versuche genehmigen.
 
-
-## § 3 – Untersuchungen, Maßregeln beim Einstellen
+# § 3 – Untersuchungen, Maßregeln beim Einstellen
 
 Die zuständige Behörde kann, wenn es aus Gründen der Seuchenbekämpfung erforderlich ist, anordnen,
 
@@ -193,8 +187,7 @@ b) eine Absonderung oder
 
 c) eine behördliche Beobachtung.
 
-
-## § 4 – Schutzmaßregeln vor amtlicher Feststellung
+# § 4 – Schutzmaßregeln vor amtlicher Feststellung
 
 (1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Vesikulären Schweinekrankheit in einem Betrieb oder an einem sonstigen Standort gilt vor der amtlichen Feststellung Folgendes:
 
@@ -210,13 +203,11 @@ c) eine behördliche Beobachtung.
 
 (2) Die zuständige Behörde kann die Maßregeln nach Absatz 1 für benachbarte Betriebe oder sonstige Standorte mit Schweinehaltung anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist.
 
-
-## § 5 – Öffentliche Bekanntmachung
+# § 5 – Öffentliche Bekanntmachung
 
 Die zuständige Behörde macht den Ausbruch der Vesikulären Schweinekrankheit öffentlich bekannt.
 
-
-## § 6 – Sperre des Betriebes oder sonstigen Standortes
+# § 6 – Sperre des Betriebes oder sonstigen Standortes
 
 (1) Ist der Ausbruch oder der Verdacht des Ausbruchs der Vesikulären Schweinekrankheit amtlich festgestellt, so unterliegt der Betrieb oder sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
 
@@ -242,20 +233,17 @@ Die zuständige Behörde macht den Ausbruch der Vesikulären Schweinekrankheit �
 
 (2) Die zuständige Behörde kann die Maßregeln nach Absatz 1 für benachbarte Betriebe oder sonstige Standorte mit Schweinehaltung anordnen, wenn dies aus Gründen der Seuchenbekämpfung erforderlich ist.
 
-
-## § 7 – Tötung und unschädliche Beseitigung
+# § 7 – Tötung und unschädliche Beseitigung
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem Betrieb oder an einem sonstigen Standort amtlich festgestellt, so ordnet die zuständige Behörde die sofortige Tötung und unschädliche Beseitigung sämtlicher Schweine an.
 
 (2) Ist der Verdacht des Ausbruchs der Vesikulären Schweinekrankheit in einem Betrieb oder an einem sonstigen Standort amtlich festgestellt, so kann die zuständige Behörde die sofortige Tötung und unschädliche Beseitigung sämtlicher Schweine anordnen.
 
-
-## § 8 – Ausnahmen
+# § 8 – Ausnahmen
 
 Bei Betrieben mit gesonderten Betriebseinheiten kann die zuständige Behörde für nicht betroffene Betriebseinheiten eines von der Seuche betroffenen Betriebes Ausnahmen von § 7 Abs. 1 genehmigen, sofern nach dem Gutachten des beamteten Tierarztes die betreffenden Betriebseinheiten auf Grund ihrer Struktur, ihres Umfangs und ihrer Funktion in Bezug auf die Haltung einschließlich der Fütterung so vollständig gesondert sind, dass eine Ausbreitung des Seuchenerregers auf sie nicht anzunehmen ist.
 
-
-## § 9 – Sperrbezirk
+# § 9 – Sperrbezirk
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem Betrieb oder an einem sonstigen Standort amtlich festgestellt, so legt die zuständige Behörde das Gebiet um den befallenen Betrieb oder sonstigen Standort mit einem Radius von mindestens drei Kilometern als Sperrbezirk fest. Hierbei berücksichtigt sie Strukturen des Handels und der örtlichen Schweinehaltung, das Vorhandensein von Schlachtstätten, natürliche Grenzen sowie Überwachungsmöglichkeiten.
 
@@ -301,8 +289,7 @@ Für das Verbringen gilt Absatz 2 Nr. 3 Satz 2, 3 und 4 entsprechend.
 
 (4) Wer in einem Sperrbezirk Schweine hält, hat dies unter Angabe der Nutzungsart und des Standortes der Tiere sowie der Größe des Bestandes unverzüglich der zuständigen Behörde anzuzeigen. In einem Sperrbezirk hat der Besitzer seinen Schweinebestand nach näherer Anweisung der zuständigen Behörde auf Vesikuläre Schweinekrankheit untersuchen zu lassen.
 
-
-## § 10 – Beobachtungsgebiet
+# § 10 – Beobachtungsgebiet
 
 (1) Ist der Ausbruch der Vesikulären Schweinekrankheit in einem Betrieb oder an einem sonstigen Standort amtlich festgestellt, so legt die zuständige Behörde um den Sperrbezirk ein Beobachtungsgebiet fest. Der Radius von Sperrbezirk und Beobachtungsgebiet zusammen beträgt mindestens zehn Kilometer. Hierbei berücksichtigt sie die mögliche Weiterverbreitung des Erregers, Strukturen des Handels und der örtlichen Schweinehaltung, das Vorhandensein von Schlachtstätten, natürliche Grenzen sowie Überwachungsmöglichkeiten. Die Festlegung eines Beobachtungsgebietes kann entfallen, wenn der Radius des Sperrbezirks mindestens zehn Kilometer beträgt.
 
@@ -324,8 +311,7 @@ Bei Schlachtschweinen ist die serologische Untersuchung nach Satz 1 Buchstabe b 
 
 (3) § 9 Abs. 4 Satz 1 gilt entsprechend.
 
-
-## § 11 – Schutzmaßregeln bei Ansteckungsverdacht
+# § 11 – Schutzmaßregeln bei Ansteckungsverdacht
 
 (1) Ist in einem Betrieb oder an einem sonstigen Standort der Verdacht des Ausbruchs oder der Ausbruch der Vesikulären Schweinekrankheit amtlich festgestellt, so stellt die zuständige Behörde epizootiologische Nachforschungen an und ordnet für die Betriebe oder sonstigen Standorte,
 
@@ -339,15 +325,13 @@ worden sein kann, die behördliche Beobachtung an. Die zuständige Behörde kann
 
 (3) Bei Betrieben mit gesonderten Betriebseinheiten kann die zuständige Behörde nicht betroffene Betriebseinheiten von der behördlichen Beobachtung ausnehmen, sofern diese nach dem Gutachten des beamteten Tierarztes auf Grund ihrer Struktur, ihres Umfangs und ihrer Funktion in Bezug auf die Haltung einschließlich der Fütterung so vollständig gesondert sind, dass eine Ausbreitung des Seuchenerregers auf sie nicht anzunehmen ist.
 
-
-## § 12 – Desinfektion
+# § 12 – Desinfektion
 
 (1) Nach Tötung und unschädlicher Beseitigung der seuchenkranken oder verdächtigen Schweine muss der Besitzer die Schweineställe und sonstigen Standorte sowie sämtliche Gegenstände, die Träger des Seuchenerregers sein können, unverzüglich nach näherer Anweisung des beamteten Tierarztes reinigen und desinfizieren. In den Ställen oder sonstigen Standorten muss der Besitzer unverzüglich nach Tötung und unschädlicher Beseitigung der in Satz 1 bezeichneten Tiere eine Schadnagerbekämpfung durchführen.
 
 (2) Der Besitzer muss Dung von Schweinen an einen für Schweine unzugänglichen Ort packen, mit einem geeigneten Desinfektionsmittel übergießen und mindestens drei Wochen lagern. Flüssige Stallabgänge muss er nach näherer Anweisung des beamteten Tierarztes desinfizieren. Futter und Einstreu, die Träger des Seuchenerregers sein können, muss er verbrennen oder zusammen mit dem Dung behandeln.
 
-
-## § 13 – Schutzmaßregeln auf Tierausstellungen, auf dem Transport und in Schlachtstätten
+# § 13 – Schutzmaßregeln auf Tierausstellungen, auf dem Transport und in Schlachtstätten
 
 (1) Wird bei Schweinen, die sich auf Tiermärkten, Tierausstellungen oder Veranstaltungen ähnlicher Art oder auf dem Transport befinden, der Ausbruch oder der Verdacht des Ausbruchs der Vesikulären Schweinekrankheit amtlich festgestellt oder liegt Ansteckungsverdacht vor, so kann die zuständige Behörde die Maßregeln nach den §§ 4 bis 12 und 14 sinngemäß anordnen.
 
@@ -365,8 +349,7 @@ an;
 
 3. dürfen Schweine innerhalb von 24 Stunden nach Abschluss der Desinfektion nach Nummer 1 Buchstabe b nicht in die Schlachtstätte verbracht werden.
 
-
-## § 14 – Aufhebung von Schutzmaßregeln
+# § 14 – Aufhebung von Schutzmaßregeln
 
 (1) Die zuständige Behörde hebt angeordnete Schutzmaßregeln auf, wenn die Vesikuläre Schweinekrankheit erloschen ist oder der Verdacht auf Vesikuläre Schweinekrankheit beseitigt ist oder sich als unbegründet erwiesen hat.
 
@@ -382,8 +365,7 @@ b) im Falle des § 8 die Schweine der betroffenen Betriebseinheit verendet oder 
 
 (3) Der Verdacht auf Vesikuläre Schweinekrankheit gilt als beseitigt, wenn die seuchenverdächtigen Schweine verendet oder getötet und unschädlich beseitigt worden sind und bei den übrigen Schweinen des Betriebes oder des sonstigen Standortes eine frühestens 28 Tage nach der Beseitigung der seuchenverdächtigen Tiere durchgeführte repräsentative serologische Stichprobenuntersuchung auf Vesikuläre Schweinekrankheit nach dem Anhang der Entscheidung 2000/428/EG keine Anzeichen ergeben hat, die auf Vesikuläre Schweinekrankheit hinweisen.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 

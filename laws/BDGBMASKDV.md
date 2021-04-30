@@ -1,15 +1,11 @@
-# [BDGBMASKDV] Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales  (BDGBMASKDV)
-
-Ausfertigungsdatum: 13.07.2006
-
+% Verordnung zur Durchführung des Bundesdisziplinargesetzes bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales  (BDGBMASKDV)
+% Ausfertigungsdatum: 13.07.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 83 Abs. 1 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510) in Verbindung mit § 1 Abs. 1 und 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1 – Übertragung von Befugnissen als oberste Dienstbehörde
+# § 1 – Übertragung von Befugnissen als oberste Dienstbehörde
 
 Das Bundesministerium für Arbeit und Soziales überträgt seine Befugnisse als oberste Dienstbehörde im Sinne des Bundesdisziplinargesetzes (§ 83 Absatz 1 Satz 1 des Bundesdisziplinargesetzes) der Beamtinnen und Beamten
 
@@ -27,8 +23,7 @@ Das Bundesministerium für Arbeit und Soziales überträgt seine Befugnisse als 
 
 7. der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation mit Ausnahme der Direktorin oder des Direktors und der übrigen Mitglieder der Geschäftsführung auf den Vorstand der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, der diese Befugnisse auf die Direktorin oder den Direktor oder ein weiteres Mitglied der Geschäftsführung weiter übertragen kann.
 
-
-## § 2 – Dienstvorgesetzte
+# § 2 – Dienstvorgesetzte
 
 Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
@@ -90,8 +85,7 @@ a) für die Direktorin oder den Direktor und die übrigen Mitglieder der Geschä
 
 b) für die übrigen Beamtinnen und Beamten die Direktorin oder der Direktor.
 
-
-## § 3 – Höhere Dienstvorgesetzte
+# § 3 – Höhere Dienstvorgesetzte
 
 Höhere Dienstvorgesetzte im Sinne des Bundesdisziplinargesetzes sind
 
@@ -155,7 +149,6 @@ a) für die Direktorin oder den Direktor und für die übrigen Mitglieder der Ge
 
 b) für die übrigen Beamtinnen und Beamten der Vorstand.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 20. Juli 2006 in Kraft.

@@ -1,10 +1,7 @@
-# [Münz5DMBek 1982-11] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Johann Wolfgang von Goethe)
-
-Ausfertigungsdatum: 05.11.1982
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Johann Wolfgang von Goethe)
+% Ausfertigungsdatum: 05.11.1982
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß der 150. Wiederkehr des Todestages von Johann Wolfgang von Goethe eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt im Bayerischen Hauptmünzamt München.
 
@@ -41,13 +38,11 @@ Ausfertigungsdatum: 05.11.1982
 
 (11) Dies wird namens der Bundesregierung bekanntgemacht.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Finanzen
 
-
-## Abbildung der Münze
+# Abbildung der Münze
 
 (Inhalt: nicht darstellbare Abbildung)  
 

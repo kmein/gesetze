@@ -1,22 +1,17 @@
-# [FGO] Finanzgerichtsordnung  (FGO)
-
-Ausfertigungsdatum: 06.10.1965
-
+% Finanzgerichtsordnung  (FGO)
+% Ausfertigungsdatum: 06.10.1965
  
-
-## § 1
+# § 1
 
 Die Finanzgerichtsbarkeit wird durch unabhängige, von den Verwaltungsbehörden getrennte, besondere Verwaltungsgerichte ausgeübt.
 
-
-## § 2
+# § 2
 
 Gerichte der Finanzgerichtsbarkeit sind  
 in den Ländern die Finanzgerichte als obere Landesgerichte,  
 im Bund der Bundesfinanzhof mit dem Sitz in München.
 
-
-## § 3
+# § 3
 
 (1) Durch Gesetz werden angeordnet
 
@@ -34,13 +29,11 @@ im Bund der Bundesfinanzhof mit dem Sitz in München.
 
 (2) Mehrere Länder können die Errichtung eines gemeinsamen Finanzgerichts oder gemeinsamer Senate eines Finanzgerichts oder die Ausdehnung von Gerichtsbezirken über die Landesgrenzen hinaus, auch für einzelne Sachgebiete, vereinbaren.
 
-
-## § 4
+# § 4
 
 Für die Gerichte der Finanzgerichtsbarkeit gelten die Vorschriften des Zweiten Titels des Gerichtsverfassungsgesetzes entsprechend.
 
-
-## § 5
+# § 5
 
 (1) Das Finanzgericht besteht aus dem Präsidenten, den Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl. Von der Ernennung eines Vorsitzenden Richters kann abgesehen werden, wenn bei einem Gericht nur ein Senat besteht.
 
@@ -50,8 +43,7 @@ Für die Gerichte der Finanzgerichtsbarkeit gelten die Vorschriften des Zweiten 
 
 (4) Die Länder können durch Gesetz die Mitwirkung von zwei ehrenamtlichen Richtern an den Entscheidungen des Einzelrichters vorsehen. Absatz 3 Satz 2 bleibt unberührt.
 
-
-## § 6
+# § 6
 
 (1) Der Senat kann den Rechtsstreit einem seiner Mitglieder als Einzelrichter zur Entscheidung übertragen, wenn
 
@@ -65,11 +57,9 @@ Für die Gerichte der Finanzgerichtsbarkeit gelten die Vorschriften des Zweiten 
 
 (4) Beschlüsse nach den Absätzen 1 und 3 sind unanfechtbar. Auf eine unterlassene Übertragung kann die Revision nicht gestützt werden.
 
+# §§ 7 bis 9 – (weggefallen)
 
-## §§ 7 bis 9 – (weggefallen)
-
-
-## § 10
+# § 10
 
 (1) Der Bundesfinanzhof besteht aus dem Präsidenten und aus den Vorsitzenden Richtern und weiteren Richtern in erforderlicher Anzahl.
 
@@ -79,8 +69,7 @@ Für die Gerichte der Finanzgerichtsbarkeit gelten die Vorschriften des Zweiten 
 
  
 
-
-## § 11
+# § 11
 
 (1) Bei dem Bundesfinanzhof wird ein Großer Senat gebildet.
 
@@ -96,40 +85,33 @@ Für die Gerichte der Finanzgerichtsbarkeit gelten die Vorschriften des Zweiten 
 
 (7) Der Große Senat entscheidet nur über die Rechtsfrage. Er kann ohne mündliche Verhandlung entscheiden. Seine Entscheidung ist in der vorliegenden Sache für den erkennenden Senat bindend.
 
-
-## § 12
+# § 12
 
 Bei jedem Gericht wird eine Geschäftsstelle eingerichtet. Sie wird mit der erforderlichen Anzahl von Urkundsbeamten besetzt.
 
-
-## § 13
+# § 13
 
 Alle Gerichte und Verwaltungsbehörden leisten den Gerichten der Finanzgerichtsbarkeit Rechts- und Amtshilfe.
 
-
-## § 14
+# § 14
 
 (1) Die Richter werden auf Lebenszeit ernannt, soweit nicht in § 15 Abweichendes bestimmt ist.
 
 (2) Die Richter des Bundesfinanzhofs müssen das 35. Lebensjahr vollendet haben.
 
-
-## § 15
+# § 15
 
 Bei den Finanzgerichten können Richter auf Probe oder Richter kraft Auftrags verwendet werden.
 
-
-## § 16
+# § 16
 
 Der ehrenamtliche Richter wirkt bei der mündlichen Verhandlung und der Urteilsfindung mit gleichen Rechten wie der Richter mit.
 
-
-## § 17
+# § 17
 
 Der ehrenamtliche Richter muss Deutscher sein. Er soll das 25. Lebensjahr vollendet und seinen Wohnsitz oder seine gewerbliche oder berufliche Niederlassung innerhalb des Gerichtsbezirks haben.
 
-
-## § 18
+# § 18
 
 (1) Vom Amt des ehrenamtlichen Richters sind ausgeschlossen
 
@@ -141,8 +123,7 @@ Der ehrenamtliche Richter muss Deutscher sein. Er soll das 25. Lebensjahr vollen
 
 (2) Personen, die in Vermögensverfall geraten sind, sollen nicht zu ehrenamtlichen Richtern berufen werden.
 
-
-## § 19
+# § 19
 
 Zum ehrenamtlichen Richter können nicht berufen werden
 
@@ -156,8 +137,7 @@ Zum ehrenamtlichen Richter können nicht berufen werden
 
 5. Rechtsanwälte, Notare, Patentanwälte, Steuerberater, Vorstandsmitglieder von Steuerberatungsgesellschaften, die nicht Steuerberater sind, ferner Steuerbevollmächtigte, Wirtschaftsprüfer, vereidigte Buchprüfer und Personen, die fremde Rechtsangelegenheiten geschäftsmäßig besorgen.
 
-
-## § 20
+# § 20
 
 (1) Die Berufung zum Amt des ehrenamtlichen Richters dürfen ablehnen
 
@@ -175,8 +155,7 @@ Zum ehrenamtlichen Richter können nicht berufen werden
 
 (2) In besonderen Härtefällen kann außerdem auf Antrag von der Übernahme des Amtes befreit werden.
 
-
-## § 21
+# § 21
 
 (1) Ein ehrenamtlicher Richter ist von seinem Amt zu entbinden, wenn er
 
@@ -198,13 +177,11 @@ Zum ehrenamtlichen Richter können nicht berufen werden
 
 (5) Auf Antrag des ehrenamtlichen Richters ist die Entscheidung nach Absatz 3 aufzuheben, wenn Anklage nach § 18 Nr. 2 erhoben war und der Angeschuldigte rechtskräftig außer Verfolgung gesetzt oder freigesprochen worden ist.
 
-
-## § 22
+# § 22
 
 Die ehrenamtlichen Richter werden für jedes Finanzgericht auf fünf Jahre durch einen Wahlausschuss nach Vorschlagslisten (§ 25) gewählt.
 
-
-## § 23
+# § 23
 
 (1) Bei jedem Finanzgericht wird ein Ausschuss zur Wahl der ehrenamtlichen Richter bestellt.
 
@@ -212,59 +189,49 @@ Die ehrenamtlichen Richter werden für jedes Finanzgericht auf fünf Jahre durch
 
 (3) Der Ausschuss ist beschlussfähig, wenn wenigstens der Vorsitzende, ein Vertreter der Finanzverwaltung und drei Vertrauensleute anwesend sind.
 
-
-## § 24
+# § 24
 
 Die für jedes Finanzgericht erforderliche Anzahl von ehrenamtlichen Richtern wird durch den Präsidenten so bestimmt, dass voraussichtlich jeder zu höchstens zwölf ordentlichen Sitzungstagen im Jahre herangezogen wird.
 
-
-## § 25
+# § 25
 
 Die Vorschlagsliste der ehrenamtlichen Richter wird in jedem fünften Jahr durch den Präsidenten des Finanzgerichts aufgestellt. Er soll zuvor die Berufsvertretungen hören. In die Vorschlagsliste soll die doppelte Anzahl der nach § 24 zu wählenden ehrenamtlichen Richter aufgenommen werden.
 
-
-## § 26
+# § 26
 
 (1) Der Ausschuss wählt aus den Vorschlagslisten mit einer Mehrheit von mindestens zwei Dritteln der Stimmen die erforderliche Anzahl von ehrenamtlichen Richtern.
 
 (2) Bis zur Neuwahl bleiben die bisherigen ehrenamtlichen Richter im Amt.
 
-
-## § 27
+# § 27
 
 (1) Das Präsidium des Finanzgerichts bestimmt vor Beginn des Geschäftsjahrs durch Aufstellung einer Liste die Reihenfolge, in der die ehrenamtlichen Richter heranzuziehen sind. Für jeden Senat ist eine Liste aufzustellen, die mindestens zwölf Namen enthalten muss.
 
 (2) Für die Heranziehung von Vertretern bei unvorhergesehener Verhinderung kann eine Hilfsliste ehrenamtlicher Richter aufgestellt werden, die am Gerichtssitz oder in seiner Nähe wohnen.
 
-
-## § 28
+# § 28
 
 (weggefallen)
 
-
-## § 29
+# § 29
 
 Der ehrenamtliche Richter und der Vertrauensmann (§ 23) erhalten eine Entschädigung nach dem Justizvergütungs- und -entschädigungsgesetz.
 
-
-## § 30
+# § 30
 
 (1) Gegen einen ehrenamtlichen Richter, der sich ohne genügende Entschuldigung zu einer Sitzung nicht rechtzeitig einfindet oder der sich seinen Pflichten auf andere Weise entzieht, kann ein Ordnungsgeld festgesetzt werden. Zugleich können ihm die durch sein Verhalten verursachten Kosten auferlegt werden.
 
 (2) Die Entscheidung trifft der Vorsitzende. Er kann sie bei nachträglicher Entschuldigung ganz oder zum Teil aufheben.
 
-
-## § 31
+# § 31
 
 Der Präsident des Gerichts übt die Dienstaufsicht über die Richter, Beamten, Angestellten und Arbeiter aus.
 
-
-## § 32
+# § 32
 
 Dem Gericht dürfen keine Verwaltungsgeschäfte außerhalb der Gerichtsverwaltung übertragen werden.
 
-
-## § 33
+# § 33
 
 (1) Der Finanzrechtsweg ist gegeben
 
@@ -280,18 +247,15 @@ Dem Gericht dürfen keine Verwaltungsgeschäfte außerhalb der Gerichtsverwaltun
 
 (3) Die Vorschriften dieses Gesetzes finden auf das Straf- und Bußgeldverfahren keine Anwendung.
 
-
-## § 34
+# § 34
 
 (weggefallen)
 
-
-## § 35
+# § 35
 
 Das Finanzgericht entscheidet im ersten Rechtszug über alle Streitigkeiten, für die der Finanzrechtsweg gegeben ist.
 
-
-## § 36
+# § 36
 
 Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
@@ -299,13 +263,11 @@ Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
 2. der Beschwerde gegen andere Entscheidungen des Finanzgerichts, des Vorsitzenden oder des Berichterstatters.
 
-
-## § 37
+# § 37
 
 (weggefallen)
 
-
-## § 38
+# § 38
 
 (1) Örtlich zuständig ist das Finanzgericht, in dessen Bezirk die Behörde, gegen welche die Klage gerichtet ist, ihren Sitz hat.
 
@@ -315,8 +277,7 @@ Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
 (3) Befindet sich der Sitz einer Finanzbehörde außerhalb ihres Bezirks, so richtet sich die örtliche Zuständigkeit abweichend von Absatz 1 nach der Lage des Bezirks.
 
-
-## § 39
+# § 39
 
 (1) Das zuständige Finanzgericht wird durch den Bundesfinanzhof bestimmt,
 
@@ -332,8 +293,7 @@ Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
 (2) Jeder am Rechtsstreit Beteiligte und jedes mit dem Rechtsstreit befasste Finanzgericht kann den Bundesfinanzhof anrufen. Dieser kann ohne mündliche Verhandlung entscheiden.
 
-
-## § 40
+# § 40
 
 (1) Durch Klage kann die Aufhebung, in den Fällen des § 100 Abs. 2 auch die Änderung eines Verwaltungsakts (Anfechtungsklage) sowie die Verurteilung zum Erlass eines abgelehnten oder unterlassenen Verwaltungsakts (Verpflichtungsklage) oder zu einer anderen Leistung begehrt werden.
 
@@ -341,32 +301,27 @@ Der Bundesfinanzhof entscheidet über das Rechtsmittel
 
 (3) Verwaltet eine Finanzbehörde des Bundes oder eines Landes eine Abgabe ganz oder teilweise für andere Abgabenberechtigte, so können diese in den Fällen Klage erheben, in denen der Bund oder das Land die Abgabe oder einen Teil der Abgabe unmittelbar oder mittelbar schulden würde.
 
-
-## § 41
+# § 41
 
 (1) Durch Klage kann die Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses oder der Nichtigkeit eines Verwaltungsakts begehrt werden, wenn der Kläger ein berechtigtes Interesse an der baldigen Feststellung hat (Feststellungsklage).
 
 (2) Die Feststellung kann nicht begehrt werden, soweit der Kläger seine Rechte durch Gestaltungs- oder Leistungsklage verfolgen kann oder hätte verfolgen können. Dies gilt nicht, wenn die Feststellung der Nichtigkeit eines Verwaltungsakts begehrt wird.
 
-
-## § 42
+# § 42
 
 Auf Grund der Abgabenordnung erlassene Änderungs- und Folgebescheide können nicht in weiterem Umfang angegriffen werden, als sie in dem außergerichtlichen Vorverfahren angefochten werden können.
 
-
-## § 43
+# § 43
 
 Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werden, wenn sie sich gegen denselben Beklagten richten, im Zusammenhang stehen und dasselbe Gericht zuständig ist.
 
-
-## § 44
+# § 44
 
 (1) In den Fällen, in denen ein außergerichtlicher Rechtsbehelf gegeben ist, ist die Klage vorbehaltlich der §§ 45 und 46 nur zulässig, wenn das Vorverfahren über den außergerichtlichen Rechtsbehelf ganz oder zum Teil erfolglos geblieben ist.
 
 (2) Gegenstand der Anfechtungsklage nach einem Vorverfahren ist der ursprüngliche Verwaltungsakt in der Gestalt, die er durch die Entscheidung über den außergerichtlichen Rechtsbehelf gefunden hat.
 
-
-## § 45
+# § 45
 
 (1) Die Klage ist ohne Vorverfahren zulässig, wenn die Behörde, die über den außergerichtlichen Rechtsbehelf zu entscheiden hat, innerhalb eines Monats nach Zustellung der Klageschrift dem Gericht gegenüber zustimmt. Hat von mehreren Berechtigten einer einen außergerichtlichen Rechtsbehelf eingelegt, ein anderer unmittelbar Klage erhoben, ist zunächst über den außergerichtlichen Rechtsbehelf zu entscheiden.
 
@@ -376,15 +331,13 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (4) Die Klage ist außerdem ohne Vorverfahren zulässig, wenn die Rechtswidrigkeit der Anordnung eines dinglichen Arrests geltend gemacht wird.\*
 
-
-## § 46
+# § 46
 
 (1) Ist über einen außergerichtlichen Rechtsbehelf ohne Mitteilung eines zureichenden Grundes in angemessener Frist sachlich nicht entschieden worden, so ist die Klage abweichend von § 44 ohne vorherigen Abschluss des Vorverfahrens zulässig. Die Klage kann nicht vor Ablauf von sechs Monaten seit Einlegung des außergerichtlichen Rechtsbehelfs erhoben werden, es sei denn, dass wegen besonderer Umstände des Falles eine kürzere Frist geboten ist. Das Gericht kann das Verfahren bis zum Ablauf einer von ihm bestimmten Frist, die verlängert werden kann, aussetzen; wird dem außergerichtlichen Rechtsbehelf innerhalb dieser Frist stattgegeben oder der beantragte Verwaltungsakt innerhalb dieser Frist erlassen, so ist der Rechtsstreit in der Hauptsache als erledigt anzusehen.
 
 (2) Absatz 1 Satz 2 und 3 gilt für die Fälle sinngemäß, in denen geltend gemacht wird, dass eine der in § 348 Nr. 3 und 4 der Abgabenordnung genannten Stellen über einen Antrag auf Vornahme eines Verwaltungsakts ohne Mitteilung eines zureichenden Grundes in angemessener Frist sachlich nicht entschieden hat.
 
-
-## § 47
+# § 47
 
 (1) Die Frist für die Erhebung der Anfechtungsklage beträgt einen Monat; sie beginnt mit der Bekanntgabe der Entscheidung über den außergerichtlichen Rechtsbehelf, in den Fällen des § 45 und in den Fällen, in denen ein außergerichtlicher Rechtsbehelf nicht gegeben ist, mit der Bekanntgabe des Verwaltungsakts. Dies gilt für die Verpflichtungsklage sinngemäß, wenn der Antrag auf Vornahme des Verwaltungsakts abgelehnt worden ist.
 
@@ -392,8 +345,7 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (3) Absatz 2 gilt sinngemäß bei einer Klage, die sich gegen die Feststellung von Besteuerungsgrundlagen oder gegen die Festsetzung eines Steuermessbetrags richtet, wenn sie bei der Stelle angebracht wird, die zur Erteilung des Steuerbescheids zuständig ist.
 
-
-## § 48
+# § 48
 
 (1) Gegen Bescheide über die einheitliche und gesonderte Feststellung von Besteuerungsgrundlagen können Klage erheben:
 
@@ -409,13 +361,11 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (2) Klagebefugt im Sinne des Absatzes 1 Nr. 1 ist der gemeinsame Empfangsbevollmächtigte im Sinne des § 183 Abs. 1 Satz 1 der Abgabenordnung oder des § 6 Abs. 1 Satz 1 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung vom 19. Dezember 1986 (BGBl. I S. 2663). Haben die Feststellungsbeteiligten keinen gemeinsamen Empfangsbevollmächtigten bestellt, ist klagebefugt im Sinne des Absatzes 1 Nr. 1 der nach § 183 Abs. 1 Satz 2 der Abgabenordnung fingierte oder der nach § 183 Abs. 1 Satz 3 bis 5 der Abgabenordnung oder nach § 6 Abs. 1 Satz 3 bis 5 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 der Abgabenordnung von der Finanzbehörde bestimmte Empfangsbevollmächtigte; dies gilt nicht für Feststellungsbeteiligte, die gegenüber der Finanzbehörde der Klagebefugnis des Empfangsbevollmächtigten widersprechen. Die Sätze 1 und 2 sind nur anwendbar, wenn die Beteiligten spätestens bei Erlass der Einspruchsentscheidung über die Klagebefugnis des Empfangsbevollmächtigten belehrt worden sind.
 
-
-## § 49
+# § 49
 
 (weggefallen)
 
-
-## § 50
+# § 50
 
 (1) Auf die Erhebung der Klage kann nach Erlass des Verwaltungsakts verzichtet werden. Der Verzicht kann auch bei Abgabe einer Steueranmeldung ausgesprochen werden, wenn er auf den Fall beschränkt wird, dass die Steuer nicht abweichend von der Steueranmeldung festgesetzt wird. Eine trotz des Verzichts erhobene Klage ist unzulässig.
 
@@ -423,8 +373,7 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (2) Der Verzicht ist gegenüber der zuständigen Behörde schriftlich oder zu Protokoll zu erklären; er darf keine weiteren Erklärungen enthalten. Wird nachträglich die Unwirksamkeit des Verzichts geltend gemacht, so gilt § 56 Abs. 3 sinngemäß.
 
-
-## § 51
+# § 51
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten §§ 41 bis 49 der Zivilprozessordnung sinngemäß. Gerichtspersonen können auch abgelehnt werden, wenn von ihrer Mitwirkung die Verletzung eines Geschäfts- oder Betriebsgeheimnisses oder Schaden für die geschäftliche Tätigkeit eines Beteiligten zu besorgen ist.
 
@@ -432,8 +381,7 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (3) Besorgnis der Befangenheit nach § 42 der Zivilprozessordnung ist stets dann begründet, wenn der Richter oder ehrenamtliche Richter der Vertretung einer Körperschaft angehört oder angehört hat, deren Interessen durch das Verfahren berührt werden.
 
-
-## § 52
+# § 52
 
 (1) §§ 169, 171b bis 197 des Gerichtsverfassungsgesetzes über die Öffentlichkeit, Sitzungspolizei, Gerichtssprache, Beratung und Abstimmung gelten sinngemäß.
 
@@ -441,8 +389,7 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (3) Bei der Abstimmung und Beratung dürfen auch die zu ihrer steuerrechtlichen Ausbildung beschäftigten Personen zugegen sein, soweit sie die Befähigung zum Richteramt besitzen und soweit der Vorsitzende ihre Anwesenheit gestattet.
 
-
-## § 52a
+# § 52a
 
 (1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Beteiligten sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze 2 bis 6 als elektronische Dokumente bei Gericht eingereicht werden.
 
@@ -466,8 +413,7 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt dieser Form die Aufzeichnung als elektronisches Dokument, wenn die verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen und das Dokument mit einer qualifizierten elektronischen Signatur versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches Dokument, in welches das handschriftlich unterzeichnete Schriftstück gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
 
-
-## § 52b
+# § 52b
 
 (1) Die Prozessakten können elektronisch geführt werden. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung den Zeitpunkt, von dem an die Prozessakten elektronisch geführt werden. In der Rechtsverordnung sind die organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung und Verwahrung der elektronischen Akten festzulegen. Die Landesregierungen können die Ermächtigung auf die für die Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren die Prozessakten elektronisch zu führen sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
 
@@ -489,15 +435,13 @@ Mehrere Klagebegehren können vom Kläger in einer Klage zusammen verfolgt werde
 
 (6) Werden die Prozessakten elektronisch geführt, sind in Papierform vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu übertragen. Es ist sicherzustellen, dass das elektronische Dokument mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem Übertragungsnachweis zu versehen, der das bei der Übertragung angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung dokumentiert. Wird ein von den verantwortenden Personen handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen, ist der Übertragungsnachweis mit einer qualifizierten elektronischen Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht rückgabepflichtig sind.
 
-
-## § 52c – Formulare; Verordnungsermächtigung
+# § 52c – Formulare; Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des Bundesrates elektronische Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln sind. Die Formulare sind auf einer in der Rechtsverordnung zu bestimmenden Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine Identifikation des Formularverwenders abweichend von § 52a Absatz 3 auch durch Nutzung des elektronischen Identitätsnachweises nach § 18 des Personalausweisgesetzes, § 12 des eID-Karte-Gesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 (+++ Hinweis: Die Änderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 (Verschiebung d. Inkrafttretens zum 1.11.2020) durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 mWv 26.11.2019 ist nicht ausführbar, da Art. 5 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)
 
-
-## § 53
+# § 53
 
 (1) Anordnungen und Entscheidungen, durch die eine Frist in Lauf gesetzt wird, sowie Terminbestimmungen und Ladungen sind den Beteiligten zuzustellen, bei Verkündung jedoch nur, wenn es ausdrücklich vorgeschrieben ist.
 
@@ -505,22 +449,19 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (3) Wer seinen Wohnsitz oder seinen Sitz nicht im Geltungsbereich dieses Gesetzes hat, hat auf Verlangen einen Zustellungsbevollmächtigten zu bestellen. Geschieht dies nicht, so gilt eine Sendung mit der Aufgabe zur Post als zugestellt, selbst wenn sie als unbestellbar zurückkommt.
 
-
-## § 54
+# § 54
 
 (1) Der Lauf einer Frist beginnt, soweit nichts anderes bestimmt ist, mit der Bekanntgabe des Verwaltungsakts oder der Entscheidung oder mit dem Zeitpunkt, an dem die Bekanntgabe als bewirkt gilt.
 
 (2) Für die Fristen gelten die Vorschriften der §§ 222, 224 Abs. 2 und 3, §§ 225 und 226 der Zivilprozessordnung.
 
-
-## § 55
+# § 55
 
 (1) Die Frist für einen Rechtsbehelf beginnt nur zu laufen, wenn der Beteiligte über den Rechtsbehelf, die Behörde oder das Gericht, bei denen der Rechtsbehelf anzubringen ist, den Sitz und die einzuhaltende Frist schriftlich oder elektronisch belehrt worden ist.
 
 (2) Ist die Belehrung unterblieben oder unrichtig erteilt, so ist die Einlegung des Rechtsbehelfs nur innerhalb eines Jahres seit Bekanntgabe im Sinne des § 54 Abs. 1 zulässig, es sei denn, dass die Einlegung vor Ablauf der Jahresfrist infolge höherer Gewalt unmöglich war oder eine schriftliche oder elektronische Belehrung dahin erfolgt ist, dass ein Rechtsbehelf nicht gegeben sei. § 56 Abs. 2 gilt für den Fall höherer Gewalt sinngemäß.
 
-
-## § 56
+# § 56
 
 (1) Wenn jemand ohne Verschulden verhindert war, eine gesetzliche Frist einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen Stand zu gewähren.
 
@@ -532,8 +473,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz kann durch Rechtsver
 
 (5) Die Wiedereinsetzung ist unanfechtbar.
 
-
-## § 57
+# § 57
 
 Beteiligte am Verfahren sind
 
@@ -545,8 +485,7 @@ Beteiligte am Verfahren sind
 
 4. die Behörde, die dem Verfahren beigetreten ist (§ 122 Abs. 2).
 
-
-## § 58
+# § 58
 
 (1) Fähig zur Vornahme von Verfahrenshandlungen sind
 
@@ -558,13 +497,11 @@ Beteiligte am Verfahren sind
 
 (3) Betrifft ein Einwilligungsvorbehalt nach § 1903 des Bürgerlichen Gesetzbuchs den Gegenstand des Verfahrens, so ist ein geschäftsfähiger Betreuter nur insoweit zur Vornahme von Verfahrenshandlungen fähig, als er nach den Vorschriften des bürgerlichen Rechts ohne Einwilligung des Betreuers handeln kann oder durch Vorschriften des öffentlichen Rechts als handlungsfähig anerkannt ist.
 
-
-## § 59
+# § 59
 
 Die Vorschriften der §§ 59 bis 63 der Zivilprozessordnung über die Streitgenossenschaft sind sinngemäß anzuwenden.
 
-
-## § 60
+# § 60
 
 (1) Das Finanzgericht kann von Amts wegen oder auf Antrag andere beiladen, deren rechtliche Interessen nach den Steuergesetzen durch die Entscheidung berührt werden, insbesondere solche, die nach den Steuergesetzen neben dem Steuerpflichtigen haften. Vor der Beiladung ist der Steuerpflichtige zu hören, wenn er am Verfahren beteiligt ist.
 
@@ -578,18 +515,15 @@ Die Vorschriften der §§ 59 bis 63 der Zivilprozessordnung über die Streitgeno
 
 (6) Der Beigeladene kann innerhalb der Anträge eines als Kläger oder Beklagter Beteiligten selbständig Angriffs- und Verteidigungsmittel geltend machen und alle Verfahrenshandlungen wirksam vornehmen. Abweichende Sachanträge kann er nur stellen, wenn eine notwendige Beiladung vorliegt.
 
-
-## § 60a
+# § 60a
 
 Kommt nach § 60 Abs. 3 die Beiladung von mehr als 50 Personen in Betracht, kann das Gericht durch Beschluss anordnen, dass nur solche Personen beigeladen werden, die dies innerhalb einer bestimmten Frist beantragen. Der Beschluss ist unanfechtbar. Er ist im Bundesanzeiger bekannt zu machen. Er muss außerdem in Tageszeitungen veröffentlicht werden, die in dem Bereich verbreitet sind, in dem sich die Entscheidung voraussichtlich auswirken wird. Die Bekanntmachung kann zusätzlich in einem von dem Gericht für Bekanntmachungen bestimmten Informations- und Kommunikationssystem erfolgen. Die Frist muss mindestens drei Monate seit Veröffentlichung im Bundesanzeiger betragen. In der Veröffentlichung in Tageszeitungen ist mitzuteilen, an welchem Tage die Frist abläuft. Für die Wiedereinsetzung in den vorigen Stand wegen Versäumung der Frist gilt § 56 entsprechend. Das Gericht soll Personen, die von der Entscheidung erkennbar in besonderem Maße betroffen werden, auch ohne Antrag beiladen.
 
-
-## § 61
+# § 61
 
 (weggefallen)
 
-
-## § 62
+# § 62
 
 (1) Die Beteiligten können vor dem Finanzgericht den Rechtsstreit selbst führen.
 
@@ -621,13 +555,11 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (7) In der Verhandlung können die Beteiligten mit Beiständen erscheinen. Beistand kann sein, wer in Verfahren, in denen die Beteiligten den Rechtsstreit selbst führen können, als Bevollmächtigter zur Vertretung in der Verhandlung befugt ist. Das Gericht kann andere Personen als Beistand zulassen, wenn dies sachdienlich ist und hierfür nach den Umständen des Einzelfalls ein Bedürfnis besteht. Absatz 3 Satz 1 und 3 und Absatz 5 gelten entsprechend. Das von dem Beistand Vorgetragene gelten als von dem Beteiligten vorgebracht, soweit es nicht von diesem sofort widerrufen oder berichtigt wird.
 
-
-## § 62a – (weggefallen)
+# § 62a – (weggefallen)
 
 \-
 
-
-## § 63
+# § 63
 
 (1) Die Klage ist gegen die Behörde zu richten,
 
@@ -645,27 +577,23 @@ Bevollmächtigte, die keine natürlichen Personen sind, handeln durch ihre Organ
 
 (3) Hat eine Behörde, die auf Grund gesetzlicher Vorschrift berechtigt ist, für die zuständige Behörde zu handeln, den ursprünglichen Verwaltungsakt erlassen oder den beantragten Verwaltungsakt oder die andere Leistung unterlassen oder abgelehnt, so ist die Klage gegen die zuständige Behörde zu richten.
 
-
-## § 64
+# § 64
 
 (1) Die Klage ist bei dem Gericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu erheben.
 
 (2) Der Klage sollen Abschriften für die übrigen Beteiligten beigefügt werden; § 77 Abs. 2 gilt sinngemäß.
 
-
-## § 65
+# § 65
 
 (1) Die Klage muss den Kläger, den Beklagten, den Gegenstand des Klagebegehrens, bei Anfechtungsklagen auch den Verwaltungsakt und die Entscheidung über den außergerichtlichen Rechtsbehelf bezeichnen. Sie soll einen bestimmten Antrag enthalten. Die zur Begründung dienenden Tatsachen und Beweismittel sollen angegeben werden. Der Klage soll eine Abschrift des angefochtenen Verwaltungsakts und der Einspruchsentscheidung beigefügt werden.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der Vorsitzende oder der nach § 21g des Gerichtsverfassungsgesetzes zuständige Berufsrichter (Berichterstatter) den Kläger zu der erforderlichen Ergänzung innerhalb einer bestimmten Frist aufzufordern. Er kann dem Kläger für die Ergänzung eine Frist mit ausschließender Wirkung setzen, wenn es an einem der in Absatz 1 Satz 1 genannten Erfordernisse fehlt. Für die Wiedereinsetzung in den vorigen Stand wegen Versäumung der Frist gilt § 56 entsprechend.
 
-
-## § 66
+# § 66
 
 Durch Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst mit Zustellung der Klage rechtshängig.
 
-
-## § 67
+# § 67
 
 (1) Eine Änderung der Klage ist zulässig, wenn die übrigen Beteiligten einwilligen oder das Gericht die Änderung für sachdienlich hält; § 68 bleibt unberührt.
 
@@ -673,8 +601,7 @@ Durch Erhebung der Klage wird die Streitsache rechtshängig. In Verfahren nach d
 
 (3) Die Entscheidung, dass eine Änderung der Klage nicht vorliegt oder zuzulassen ist, ist nicht selbständig anfechtbar.
 
-
-## § 68
+# § 68
 
 Wird der angefochtene Verwaltungsakt nach Bekanntgabe der Einspruchsentscheidung geändert oder ersetzt, so wird der neue Verwaltungsakt Gegenstand des Verfahrens. Ein Einspruch gegen den neuen Verwaltungsakt ist insoweit ausgeschlossen. Die Finanzbehörde hat dem Gericht, bei dem das Verfahren anhängig ist, eine Abschrift des neuen Verwaltungsakts zu übermitteln. Satz 1 gilt entsprechend, wenn
 
@@ -682,8 +609,7 @@ Wird der angefochtene Verwaltungsakt nach Bekanntgabe der Einspruchsentscheidung
 
 2. ein Verwaltungsakt an die Stelle eines angefochtenen unwirksamen Verwaltungsakts tritt.
 
-
-## § 69
+# § 69
 
 (1) Durch Erhebung der Klage wird die Vollziehung des angefochtenen Verwaltungsakts vorbehaltlich des Absatzes 5 nicht gehemmt, insbesondere die Erhebung einer Abgabe nicht aufgehalten. Entsprechendes gilt bei Anfechtung von Grundlagenbescheiden für die darauf beruhenden Folgebescheide.
 
@@ -703,20 +629,17 @@ Wird der angefochtene Verwaltungsakt nach Bekanntgabe der Einspruchsentscheidung
 
 (7) Lehnt die Behörde die Aussetzung der Vollziehung ab, kann das Gericht nur nach den Absätzen 3 und 5 Satz 3 angerufen werden.
 
-
-## § 70
+# § 70
 
 Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend § 17a Abs. 2 und 3 des Gerichtsverfassungsgesetzes sind unanfechtbar.
 
-
-## § 71
+# § 71
 
 (1) Die Klageschrift ist dem Beklagten von Amts wegen zuzustellen. Zugleich mit der Zustellung der Klage ist der Beklagte aufzufordern, sich schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle zu äußern. Hierfür kann eine Frist gesetzt werden.
 
 (2) Die beteiligte Finanzbehörde hat die den Streitfall betreffenden Akten nach Empfang der Klageschrift an das Gericht zu übermitteln.
 
-
-## § 72
+# § 72
 
 (1) Der Kläger kann seine Klage bis zur Rechtskraft des Urteils zurücknehmen. Nach Schluss der mündlichen Verhandlung, bei Verzicht auf die mündliche Verhandlung und nach Ergehen eines Gerichtsbescheides ist die Rücknahme nur mit Einwilligung des Beklagten möglich. Die Einwilligung gilt als erteilt, wenn der Klagerücknahme nicht innerhalb von zwei Wochen seit Zustellung des die Rücknahme enthaltenden Schriftsatzes widersprochen wird; das Gericht hat auf diese Folge hinzuweisen.
 
@@ -724,25 +647,21 @@ Für die sachliche und örtliche Zuständigkeit gelten die §§ 17 bis 17b des G
 
 (2) Die Rücknahme hat bei Klagen, deren Erhebung an eine Frist gebunden ist, den Verlust der Klage zur Folge. Wird die Klage zurückgenommen, so stellt das Gericht das Verfahren durch Beschluss ein. Wird nachträglich die Unwirksamkeit der Klagerücknahme geltend gemacht, so gilt § 56 Abs. 3 sinngemäß.
 
-
-## § 73
+# § 73
 
 (1) Das Gericht kann durch Beschluss mehrere bei ihm anhängige Verfahren zu gemeinsamer Verhandlung und Entscheidung verbinden und wieder trennen. Es kann anordnen, dass mehrere in einem Verfahren zusammengefasste Klagegegenstände in getrennten Verfahren verhandelt und entschieden werden.
 
 (2) Ist die Klage von jemandem erhoben, der wegen dieses Klagegegenstands nach § 60 Abs. 3 zu einem anderen Verfahren beizuladen wäre, so wird die notwendige Beiladung des Klägers dadurch ersetzt, dass die beiden Verfahren zu gemeinsamer Verhandlung und einheitlicher Entscheidung verbunden werden.
 
-
-## § 74
+# § 74
 
 Das Gericht kann, wenn die Entscheidung des Rechtsstreits ganz oder zum Teil von dem Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Rechtsstreits bildet oder von einer Verwaltungsbehörde festzustellen ist, anordnen, dass die Verhandlung bis zur Erledigung des anderen Rechtsstreits oder bis zur Entscheidung der Verwaltungsbehörde auszusetzen sei.
 
-
-## § 75
+# § 75
 
 Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Besteuerung auf Antrag oder, wenn der Inhalt der Klageschrift dazu Anlass gibt, von Amts wegen mitzuteilen.
 
-
-## § 76
+# § 76
 
 (1) Das Gericht erforscht den Sachverhalt von Amts wegen. Die Beteiligten sind dabei heranzuziehen. Sie haben ihre Erklärungen über tatsächliche Umstände vollständig und der Wahrheit gemäß abzugeben und sich auf Anforderung des Gerichts zu den von den anderen Beteiligten vorgebrachten Tatsachen zu erklären. § 90 Abs. 2, § 93 Abs. 3 Satz 2, § 97, §§ 99, 100 der Abgabenordnung gelten sinngemäß. Das Gericht ist an das Vorbringen und an die Beweisanträge der Beteiligten nicht gebunden.
 
@@ -752,20 +671,17 @@ Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Bes
 
 (4) Die Verpflichtung der Finanzbehörde zur Ermittlung des Sachverhalts (§§ 88, 89 Abs. 1 der Abgabenordnung) wird durch das finanzgerichtliche Verfahren nicht berührt.
 
-
-## § 77
+# § 77
 
 (1) Die Beteiligten sollen zur Vorbereitung der mündlichen Verhandlung Schriftsätze einreichen. Hierzu kann der Vorsitzende sie unter Fristsetzung auffordern. Den Schriftsätzen sollen Abschriften für die übrigen Beteiligten beigefügt werden. Die Schriftsätze sind den Beteiligten von Amts wegen zu übermitteln.
 
 (2) Den Schriftsätzen sind die Urkunden oder elektronischen Dokumente, auf die Bezug genommen wird, in Abschrift ganz oder im Auszug beizufügen. Sind die Urkunden dem Gegner bereits bekannt oder sehr umfangreich, so genügt die genaue Bezeichnung mit dem Anerbieten, Einsicht bei Gericht zu gewähren.
 
-
-## § 77a
+# § 77a
 
 (weggefallen)
 
-
-## § 78
+# § 78
 
 (1) Die Beteiligten können die Gerichtsakte und die dem Gericht vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen.
 
@@ -775,8 +691,7 @@ Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Bes
 
 (4) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die Arbeiten zu ihrer Vorbereitung, ferner die Dokumente, die Abstimmungen oder Ordnungsstrafen des Gerichts betreffen, werden weder vorgelegt noch abschriftlich mitgeteilt.
 
-
-## § 79
+# § 79
 
 (1) Der Vorsitzende oder der Berichterstatter hat schon vor der mündlichen Verhandlung alle Anordnungen zu treffen, die notwendig sind, um den Rechtsstreit möglichst in einer mündlichen Verhandlung zu erledigen. Er kann insbesondere
 
@@ -796,8 +711,7 @@ Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Bes
 
 (3) Der Vorsitzende oder der Berichterstatter kann einzelne Beweise erheben. Dies darf nur insoweit geschehen, als es zur Vereinfachung der Verhandlung vor dem Gericht sachdienlich und von vornherein anzunehmen ist, dass das Gericht das Beweisergebnis auch ohne unmittelbaren Eindruck von dem Verlauf der Beweisaufnahme sachgemäß zu würdigen vermag.
 
-
-## § 79a
+# § 79a
 
 (1) Der Vorsitzende entscheidet, wenn die Entscheidung im vorbereitenden Verfahren ergeht,
 
@@ -819,8 +733,7 @@ Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Bes
 
 (4) Ist ein Berichterstatter bestellt, so entscheidet dieser anstelle des Vorsitzenden.
 
-
-## § 79b
+# § 79b
 
 (1) Der Vorsitzende oder der Berichterstatter kann dem Kläger eine Frist setzen zur Angabe der Tatsachen, durch deren Berücksichtigung oder Nichtberücksichtigung im Verwaltungsverfahren er sich beschwert fühlt. Die Fristsetzung nach Satz 1 kann mit der Fristsetzung nach § 65 Abs. 2 Satz 2 verbunden werden.
 
@@ -840,8 +753,7 @@ Den Beteiligten sind, soweit es noch nicht geschehen ist, die Unterlagen der Bes
 
 Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 1 gilt nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne Mitwirkung des Beteiligten zu ermitteln.
 
-
-## § 80
+# § 80
 
 (1) Das Gericht kann das persönliche Erscheinen eines Beteiligten anordnen. Für den Fall des Ausbleibens kann es Ordnungsgeld wie gegen einen im Vernehmungstermin nicht erschienenen Zeugen androhen. Bei schuldhaftem Ausbleiben setzt das Gericht durch Beschluss das angedrohte Ordnungsgeld fest. Androhung und Festsetzung des Ordnungsgelds können wiederholt werden.
 
@@ -849,37 +761,31 @@ Der Entschuldigungsgrund ist auf Verlangen des Gerichts glaubhaft zu machen. Sat
 
 (3) Das Gericht kann einer beteiligten öffentlich-rechtlichen Körperschaft oder Behörde aufgeben, zur mündlichen Verhandlung einen Beamten oder Angestellten zu entsenden, der mit einem schriftlichen Nachweis über die Vertretungsbefugnis versehen und über die Sach- und Rechtslage ausreichend unterrichtet ist.
 
-
-## § 81
+# § 81
 
 (1) Das Gericht erhebt Beweis in der mündlichen Verhandlung. Es kann insbesondere Augenschein einnehmen, Zeugen, Sachverständige und Beteiligte vernehmen und Urkunden heranziehen.
 
 (2) Das Gericht kann in geeigneten Fällen schon vor der mündlichen Verhandlung durch eines seiner Mitglieder als beauftragten Richter Beweis erheben lassen oder durch Bezeichnung der einzelnen Beweisfragen ein anderes Gericht um die Beweisaufnahme ersuchen.
 
-
-## § 82
+# § 82
 
 Soweit §§ 83 bis 89 nicht abweichende Vorschriften enthalten, sind auf die Beweisaufnahme §§ 358 bis 371, 372 bis 377, 380 bis 382, 386 bis 414 und 450 bis 494 der Zivilprozessordnung sinngemäß anzuwenden.
 
-
-## § 83
+# § 83
 
 Die Beteiligten werden von allen Beweisterminen benachrichtigt und können der Beweisaufnahme beiwohnen. Sie können an Zeugen und Sachverständige sachdienliche Fragen richten. Wird eine Frage beanstandet, so entscheidet das Gericht.
 
-
-## § 84
+# § 84
 
 (1) Für das Recht zur Verweigerung des Zeugnisses und die Pflicht zur Belehrung über das Zeugnisverweigerungsrecht gelten die §§ 101 bis 103 der Abgabenordnung sinngemäß.
 
 (2) Wer als Angehöriger zur Verweigerung des Zeugnisses berechtigt ist, kann die Ableistung des Eides verweigern.
 
-
-## § 85
+# § 85
 
 Zeugen, die nicht aus dem Gedächtnis aussagen können, haben Dokumente und Geschäftsbücher, die ihnen zur Verfügung stehen, einzusehen und, soweit nötig, Aufzeichnungen daraus zu entnehmen. Die Vorschriften der § 97, §§ 99, 100, 104 der Abgabenordnung gelten sinngemäß.
 
-
-## § 86
+# § 86
 
 (1) Behörden sind zur Vorlage von Urkunden und Akten, zur Übermittlung elektronischer Dokumente und zu Auskünften verpflichtet, soweit nicht durch das Steuergeheimnis (§ 30 der Abgabenordnung) geschützte Verhältnisse Dritter unbefugt offenbart werden.
 
@@ -887,30 +793,25 @@ Zeugen, die nicht aus dem Gedächtnis aussagen können, haben Dokumente und Gesc
 
 (3) Auf Antrag eines Beteiligten stellt der Bundesfinanzhof in den Fällen der Absätze 1 und 2 ohne mündliche Verhandlung durch Beschluss fest, ob die Verweigerung der Vorlage der Urkunden oder Akten, der Übermittlung elektronischer Dokumente oder die Verweigerung der Erteilung von Auskünften rechtmäßig ist. Der Antrag ist bei dem für die Hauptsache zuständigen Gericht zu stellen. Auf Aufforderung des Bundesfinanzhofs hat die oberste Aufsichtsbehörde die verweigerten Dokumente oder Akten vorzulegen oder zu übermitteln oder ihm die verweigerten Auskünfte zu erteilen. Sie ist zu diesem Verfahren beizuladen. Das Verfahren unterliegt den Vorschriften des materiellen Geheimschutzes. Können diese nicht eingehalten werden oder macht die zuständige oberste Aufsichtsbehörde geltend, dass besondere Gründe der Geheimhaltung oder des Geheimschutzes einer Übergabe oder Übermittlung der Dokumente oder der Akten an den Bundesfinanzhof entgegenstehen, wird die Vorlage nach Satz 3 dadurch bewirkt, dass die Dokumente oder Akten dem Bundesfinanzhof in von der obersten Aufsichtsbehörde bestimmten Räumlichkeiten zur Verfügung gestellt werden. Für die nach Satz 3 vorgelegten oder übermittelten Dokumente oder Akten und für die gemäß Satz 6 geltend gemachten besonderen Gründe gilt § 78 nicht. Die Mitglieder des Bundesfinanzhofs sind zur Geheimhaltung verpflichtet; die Entscheidungsgründe dürfen Art und Inhalt der geheim gehaltenen Dokumente oder Akten und Auskünfte nicht erkennen lassen. Für das nichtrichterliche Personal gelten die Regelungen des personellen Geheimschutzes.
 
-
-## § 87
+# § 87
 
 Wenn von Behörden, von Verbänden und Vertretungen von Betriebs- oder Berufszweigen, von geschäftlichen oder gewerblichen Unternehmungen, Gesellschaften oder Anstalten Zeugnis begehrt wird, ist das Ersuchen, falls nicht bestimmte Personen als Zeugen in Betracht kommen, an den Vorstand oder an die Geschäfts- oder Betriebsleitung zu richten.
 
-
-## § 88
+# § 88
 
 Die Beteiligten können Sachverständige auch ablehnen, wenn von deren Heranziehung eine Verletzung eines Geschäfts- oder Betriebsgeheimnisses oder Schaden für ihre geschäftliche Tätigkeit zu befürchten ist.
 
-
-## § 89
+# § 89
 
 Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und elektronischen Dokumenten gelten § 380 der Zivilprozessordnung und § 255 der Abgabenordnung sinngemäß.
 
-
-## § 90
+# § 90
 
 (1) Das Gericht entscheidet, soweit nichts anderes bestimmt ist, auf Grund mündlicher Verhandlung. Entscheidungen des Gerichts, die nicht Urteile sind, können ohne mündliche Verhandlung ergehen.
 
 (2) Mit Einverständnis der Beteiligten kann das Gericht ohne mündliche Verhandlung entscheiden.
 
-
-## § 90a
+# § 90a
 
 (1) Das Gericht kann in geeigneten Fällen ohne mündliche Verhandlung durch Gerichtsbescheid entscheiden.
 
@@ -920,8 +821,7 @@ Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und e
 
 (4) Wird mündliche Verhandlung beantragt, kann das Gericht in dem Urteil von einer weiteren Darstellung des Tatbestands und der Entscheidungsgründe absehen, soweit es der Begründung des Gerichtsbescheides folgt und dies in seiner Entscheidung feststellt.
 
-
-## § 91
+# § 91
 
 (1) Sobald der Termin zur mündlichen Verhandlung bestimmt ist, sind die Beteiligten mit einer Ladungsfrist von mindestens zwei Wochen, beim Bundesfinanzhof von mindestens vier Wochen, zu laden. In dringenden Fällen kann der Vorsitzende die Frist abkürzen.
 
@@ -931,8 +831,7 @@ Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und e
 
 (4) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
 
-
-## § 91a
+# § 91a
 
 (1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und Beiständen auf Antrag oder von Amts wegen gestatten, sich während einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
 
@@ -942,8 +841,7 @@ Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und e
 
 (4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§ 79 Absatz 1 Satz 2 Nummer 1).
 
-
-## § 92
+# § 92
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung.
 
@@ -951,8 +849,7 @@ Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und e
 
 (3) Hierauf erhalten die Beteiligten das Wort, um ihre Anträge zu stellen und zu begründen.
 
-
-## § 93
+# § 93
 
 (1) Der Vorsitzende hat die Streitsache mit den Beteiligten tatsächlich und rechtlich zu erörtern.
 
@@ -960,50 +857,41 @@ Für die Erzwingung einer gesetzlich vorgeschriebenen Vorlage von Urkunden und e
 
 (3) Nach Erörterung der Streitsache erklärt der Vorsitzende die mündliche Verhandlung für geschlossen. Das Gericht kann die Wiedereröffnung beschließen.
 
+# § 93a – (weggefallen)
 
-## § 93a – (weggefallen)
-
-
-## § 94
+# § 94
 
 Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozessordnung entsprechend.
 
-
-## § 94a
+# § 94a
 
 Das Gericht kann sein Verfahren nach billigem Ermessen bestimmen, wenn der Streitwert bei einer Klage, die eine Geldleistung oder einen hierauf gerichteten Verwaltungsakt betrifft, fünfhundert Euro nicht übersteigt. Auf Antrag eines Beteiligten muß mündlich verhandelt werden. Das Gericht entscheidet über die Klage durch Urteil; § 76 über den Untersuchungsgrundsatz und § 79a Abs. 2, § 90a über den Gerichtsbescheid bleiben unberührt.
 
-
-## § 95
+# § 95
 
 Über die Klage wird, soweit nichts anderes bestimmt ist, durch Urteil entschieden.
 
-
-## § 96
+# § 96
 
 (1) Das Gericht entscheidet nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen Überzeugung; die §§ 158, 160, 162 der Abgabenordnung gelten sinngemäß. Das Gericht darf über das Klagebegehren nicht hinausgehen, ist aber an die Fassung der Anträge nicht gebunden. In dem Urteil sind die Gründe anzugeben, die für die richterliche Überzeugung leitend gewesen sind.
 
 (2) Das Urteil darf nur auf Tatsachen und Beweisergebnisse gestützt werden, zu denen die Beteiligten sich äußern konnten.
 
-
-## § 97
+# § 97
 
 Über die Zulässigkeit der Klage kann durch Zwischenurteil vorab entschieden werden.
 
-
-## § 98
+# § 98
 
 Ist nur ein Teil des Streitgegenstands zur Entscheidung reif, so kann das Gericht ein Teilurteil erlassen.
 
-
-## § 99
+# § 99
 
 (1) Ist bei einer Leistungsklage oder einer Anfechtungsklage gegen einen Verwaltungsakt ein Anspruch nach Grund und Betrag strittig, so kann das Gericht durch Zwischenurteil über den Grund vorab entscheiden.
 
 (2) Das Gericht kann durch Zwischenurteil über eine entscheidungserhebliche Sach- oder Rechtsfrage vorab entscheiden, wenn dies sachdienlich ist und nicht der Kläger oder der Beklagte widerspricht.
 
-
-## § 100
+# § 100
 
 (1) Soweit ein angefochtener Verwaltungsakt rechtswidrig und der Kläger dadurch in seinen Rechten verletzt ist, hebt das Gericht den Verwaltungsakt und die etwaige Entscheidung über den außergerichtlichen Rechtsbehelf auf; die Finanzbehörde ist an die rechtliche Beurteilung gebunden, die der Aufhebung zugrunde liegt, an die tatsächliche so weit, als nicht neu bekannt werdende Tatsachen und Beweismittel eine andere Beurteilung rechtfertigen. Ist der Verwaltungsakt schon vollzogen, so kann das Gericht auf Antrag auch aussprechen, dass und wie die Finanzbehörde die Vollziehung rückgängig zu machen hat. Dieser Ausspruch ist nur zulässig, wenn die Behörde dazu in der Lage und diese Frage spruchreif ist. Hat sich der Verwaltungsakt vorher durch Zurücknahme oder anders erledigt, so spricht das Gericht auf Antrag durch Urteil aus, dass der Verwaltungsakt rechtswidrig gewesen ist, wenn der Kläger ein berechtigtes Interesse an dieser Feststellung hat.
 
@@ -1015,23 +903,19 @@ Ist nur ein Teil des Streitgegenstands zur Entscheidung reif, so kann das Gerich
 
 (+++ § 100: Zur Nichtanwendung vgl. Art. 97 § 13 Satz 2 AOEG 1977 +++)
 
-
-## § 101
+# § 101
 
 Soweit die Ablehnung oder Unterlassung eines Verwaltungsakts rechtswidrig und der Kläger dadurch in seinen Rechten verletzt ist, spricht das Gericht die Verpflichtung der Finanzbehörde aus, den begehrten Verwaltungsakt zu erlassen, wenn die Sache spruchreif ist. Andernfalls spricht es die Verpflichtung aus, den Kläger unter Beachtung der Rechtsauffassung des Gerichts zu bescheiden.
 
-
-## § 102
+# § 102
 
 Soweit die Finanzbehörde ermächtigt ist, nach ihrem Ermessen zu handeln oder zu entscheiden, prüft das Gericht auch, ob der Verwaltungsakt oder die Ablehnung oder Unterlassung des Verwaltungsakts rechtswidrig ist, weil die gesetzlichen Grenzen des Ermessens überschritten sind oder von dem Ermessen in einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch gemacht ist. Die Finanzbehörde kann ihre Ermessenserwägungen hinsichtlich des Verwaltungsaktes bis zum Abschluss der Tatsacheninstanz eines finanzgerichtlichen Verfahrens ergänzen.
 
-
-## § 103
+# § 103
 
 Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern gefällt werden, die an der dem Urteil zugrunde liegenden Verhandlung teilgenommen haben.
 
-
-## § 104
+# § 104
 
 (1) Das Urteil wird, wenn eine mündliche Verhandlung stattgefunden hat, in der Regel in dem Termin, in dem die mündliche Verhandlung geschlossen wird, verkündet, in besonderen Fällen in einem sofort anzuberaumenden Termin, der nicht über zwei Wochen hinaus angesetzt werden soll. Das Urteil wird durch Verlesung der Formel verkündet; es ist den Beteiligten zuzustellen.
 
@@ -1039,8 +923,7 @@ Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern gefällt werden
 
 (3) Entscheidet das Gericht ohne mündliche Verhandlung, so wird die Verkündung durch Zustellung an die Beteiligten ersetzt.
 
-
-## § 105
+# § 105
 
 (1) Das Urteil ergeht im Namen des Volkes. Es ist schriftlich abzufassen und von den Richtern, die bei der Entscheidung mitgewirkt haben, zu unterzeichnen. Ist ein Richter verhindert, seine Unterschrift beizufügen, so wird dies mit dem Hinderungsgrund vom Vorsitzenden oder, wenn er verhindert ist, vom dienstältesten beisitzenden Richter unter dem Urteil vermerkt. Der Unterschrift der ehrenamtlichen Richter bedarf es nicht.
 
@@ -1066,34 +949,29 @@ Das Urteil kann nur von den Richtern und ehrenamtlichen Richtern gefällt werden
 
 (6) Der Urkundsbeamte der Geschäftsstelle hat auf dem Urteil den Tag der Zustellung und im Fall des § 104 Abs. 1 Satz 1 den Tag der Verkündung zu vermerken und diesen Vermerk zu unterschreiben. Werden die Akten elektronisch geführt, hat der Urkundsbeamte der Geschäftsstelle den Vermerk in einem gesonderten Dokument festzuhalten. Das Dokument ist mit dem Urteil untrennbar zu verbinden.
 
-
-## § 106
+# § 106
 
 Die §§ 104 und 105 gelten für Gerichtsbescheide sinngemäß.
 
-
-## § 107
+# § 107
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten im Urteil sind jederzeit vom Gericht zu berichtigen.
 
 (2) Über die Berichtigung kann ohne mündliche Verhandlung entschieden werden. Der Berichtigungsbeschluss wird auf dem Urteil und den Ausfertigungen vermerkt. Ist das Urteil elektronisch abgefasst, ist auch der Beschluss elektronisch abzufassen und mit dem Urteil untrennbar zu verbinden.
 
-
-## § 108
+# § 108
 
 (1) Enthält der Tatbestand des Urteils andere Unrichtigkeiten oder Unklarheiten, so kann die Berichtigung binnen zwei Wochen nach Zustellung des Urteils beantragt werden.
 
 (2) Das Gericht entscheidet ohne Beweisaufnahme durch Beschluss. Der Beschluss ist unanfechtbar. Bei der Entscheidung wirken nur die Richter mit, die beim Urteil mitgewirkt haben. Ist ein Richter verhindert, so gibt bei Stimmengleichheit die Stimme des Vorsitzenden den Ausschlag. Der Berichtigungsbeschluss wird auf dem Urteil und den Ausfertigungen vermerkt. Ist das Urteil elektronisch abgefasst, ist auch der Beschluss elektronisch abzufassen und mit dem Urteil untrennbar zu verbinden.
 
-
-## § 109
+# § 109
 
 (1) Wenn ein nach dem Tatbestand von einem Beteiligten gestellter Antrag oder die Kostenfolge bei der Entscheidung ganz oder zum Teil übergangen ist, so ist auf Antrag das Urteil durch nachträgliche Entscheidung zu ergänzen.
 
 (2) Die Entscheidung muss binnen zwei Wochen nach Zustellung des Urteils beantragt werden. Die mündliche Verhandlung hat nur den nicht erledigten Teil des Rechtsstreits zum Gegenstand. Von der Durchführung einer mündlichen Verhandlung kann abgesehen werden, wenn mit der Ergänzung des Urteils nur über einen Nebenanspruch oder über die Kosten entschieden werden soll und wenn die Bedeutung der Sache keine mündliche Verhandlung erfordert.
 
-
-## § 110
+# § 110
 
 (1) Rechtskräftige Urteile binden, soweit über den Streitgegenstand entschieden worden ist,
 
@@ -1107,18 +985,15 @@ Die gegen eine Finanzbehörde ergangenen Urteile wirken auch gegenüber der öff
 
 (2) Die Vorschriften der Abgabenordnung und anderer Steuergesetze über die Rücknahme, Widerruf, Aufhebung und Änderung von Verwaltungsakten sowie über die Nachforderung von Steuern bleiben unberührt, soweit sich aus Absatz 1 Satz 1 nichts anderes ergibt.
 
+# §§ 111 und 112 – (weggefallen)
 
-## §§ 111 und 112 – (weggefallen)
-
-
-## § 113
+# § 113
 
 (1) Für Beschlüsse gelten § 96 Abs. 1 Satz 1 und 2, § 105 Abs. 2 Nr. 6, §§ 107 bis 109 sinngemäß.
 
 (2) Beschlüsse sind zu begründen, wenn sie durch Rechtsmittel angefochten werden können oder über einen Rechtsbehelf entscheiden. Beschlüsse über die Aussetzung der Vollziehung (§ 69 Abs. 3 und 5) und über einstweilige Anordnungen (§ 114 Abs. 1), Beschlüsse nach Erledigung des Rechtsstreits in der Hauptsache (§ 138) sowie Beschlüsse, in denen ein Antrag auf Bewilligung von Prozesskostenhilfe zurückgewiesen wird (§ 142), sind stets zu begründen. Beschlüsse, die über ein Rechtsmittel entscheiden, bedürfen keiner weiteren Begründung, soweit das Gericht das Rechtsmittel aus den Gründen der angefochtenen Entscheidung als unbegründet zurückweist.
 
-
-## § 114
+# § 114
 
 (1) Auf Antrag kann das Gericht, auch schon vor Klageerhebung, eine einstweilige Anordnung in Bezug auf den Streitgegenstand treffen, wenn die Gefahr besteht, dass durch eine Veränderung des bestehenden Zustands die Verwirklichung eines Rechts des Antragstellers vereitelt oder wesentlich erschwert werden könnte. Einstweilige Anordnungen sind auch zur Regelung eines vorläufigen Zustands in Bezug auf ein streitiges Rechtsverhältnis zulässig, wenn diese Regelung, vor allem bei dauernden Rechtsverhältnissen, um wesentliche Nachteile abzuwenden oder drohende Gewalt zu verhindern oder aus anderen Gründen nötig erscheint.
 
@@ -1130,8 +1005,7 @@ Die gegen eine Finanzbehörde ergangenen Urteile wirken auch gegenüber der öff
 
 (5) Die Vorschriften der Absätze 1 bis 3 gelten nicht für die Fälle des § 69.
 
-
-## § 115
+# § 115
 
 (1) Gegen das Urteil des Finanzgerichts (§ 36 Nr. 1) steht den Beteiligten die Revision an den Bundesfinanzhof zu, wenn das Finanzgericht oder auf Beschwerde gegen die Nichtzulassung der Bundesfinanzhof sie zugelassen hat.
 
@@ -1145,8 +1019,7 @@ Die gegen eine Finanzbehörde ergangenen Urteile wirken auch gegenüber der öff
 
 (3) Der Bundesfinanzhof ist an die Zulassung gebunden.
 
-
-## § 116
+# § 116
 
 (1) Die Nichtzulassung der Revision kann durch Beschwerde angefochten werden.
 
@@ -1162,13 +1035,11 @@ Die gegen eine Finanzbehörde ergangenen Urteile wirken auch gegenüber der öff
 
 (7) Wird der Beschwerde gegen die Nichtzulassung der Revision stattgegeben, so wird das Beschwerdeverfahren als Revisionsverfahren fortgesetzt, wenn nicht der Bundesfinanzhof das angefochtene Urteil nach Absatz 6 aufhebt; der Einlegung einer Revision durch den Beschwerdeführer bedarf es nicht. Mit der Zustellung der Entscheidung beginnt für den Beschwerdeführer die Revisionsbegründungsfrist, für die übrigen Beteiligten die Revisions- und die Revisionsbegründungsfrist. Auf Satz 1 und 2 ist in dem Beschluss hinzuweisen.
 
-
-## § 117
+# § 117
 
 (weggefallen)
 
-
-## § 118
+# § 118
 
 (1) Die Revision kann nur darauf gestützt werden, dass das angefochtene Urteil auf der Verletzung von Bundesrecht beruhe. Soweit im Fall des § 33 Abs. 1 Nr. 4 die Vorschriften dieses Unterabschnitts durch Landesgesetz für anwendbar erklärt werden, kann die Revision auch darauf gestützt werden, dass das angefochtene Urteil auf der Verletzung von Landesrecht beruhe.
 
@@ -1176,8 +1047,7 @@ Die gegen eine Finanzbehörde ergangenen Urteile wirken auch gegenüber der öff
 
 (3) Wird die Revision auf Verfahrensmängel gestützt und liegt nicht zugleich eine der Voraussetzungen des § 115 Abs. 2 Nr. 1 und 2 vor, so ist nur über die geltend gemachten Verfahrensmängel zu entscheiden. Im Übrigen ist der Bundesfinanzhof an die geltend gemachten Revisionsgründe nicht gebunden.
 
-
-## § 119
+# § 119
 
 Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend anzusehen, wenn
 
@@ -1193,8 +1063,7 @@ Ein Urteil ist stets als auf der Verletzung von Bundesrecht beruhend anzusehen, 
 
 6. die Entscheidung nicht mit Gründen versehen ist.
 
-
-## § 120
+# § 120
 
 (1) Die Revision ist bei dem Bundesfinanzhof innerhalb eines Monats nach Zustellung des vollständigen Urteils schriftlich einzulegen. Die Revision muss das angefochtene Urteil bezeichnen. Eine Ausfertigung oder Abschrift des Urteils soll beigefügt werden, sofern dies nicht schon nach § 116 Abs. 2 Satz 3 geschehen ist. Satz 3 gilt nicht im Falle der elektronischen Revisionseinlegung.
 
@@ -1210,41 +1079,35 @@ a) die bestimmte Bezeichnung der Umstände, aus denen sich die Rechtsverletzung 
 
 b) soweit die Revision darauf gestützt wird, dass das Gesetz in Bezug auf das Verfahren verletzt sei, die Bezeichnung der Tatsachen, die den Mangel ergeben.
 
-
-## § 121
+# § 121
 
 Für das Revisionsverfahren gelten die Vorschriften über das Verfahren im ersten Rechtszug und die Vorschriften über Urteile und andere Entscheidungen entsprechend, soweit sich aus den Vorschriften über die Revision nichts anderes ergibt. § 79a über die Entscheidung durch den vorbereitenden Richter und § 94a über das Verfahren nach billigem Ermessen sind nicht anzuwenden. Erklärungen und Beweismittel, die das Finanzgericht nach § 79b zu Recht zurückgewiesen hat, bleiben auch im Revisionsverfahren ausgeschlossen.
 
-
-## § 122
+# § 122
 
 (1) Beteiligter am Verfahren über die Revision ist, wer am Verfahren über die Klage beteiligt war.
 
 (2) Betrifft das Verfahren eine auf Bundesrecht beruhende Abgabe oder eine Rechtsstreitigkeit über Bundesrecht, so kann das Bundesministerium der Finanzen dem Verfahren beitreten. Betrifft das Verfahren eine von den Landesfinanzbehörden verwaltete Abgabe oder eine Rechtsstreitigkeit über Landesrecht, so steht dieses Recht auch der zuständigen obersten Landesbehörde zu. Der Senat kann die zuständigen Stellen zum Beitritt auffordern. Mit ihrem Beitritt erlangt die Behörde die Rechtsstellung eines Beteiligten.
 
-
-## § 123
+# § 123
 
 (1) Klageänderungen und Beiladungen sind im Revisionsverfahren unzulässig. Das gilt nicht für Beiladungen nach § 60 Abs. 3 Satz 1.
 
 (2) Ein im Revisionsverfahren nach § 60 Abs. 3 Satz 1 Beigeladener kann Verfahrensmängel nur innerhalb von zwei Monaten nach Zustellung des Beiladungsbeschlusses rügen. Die Frist kann auf einen vor ihrem Ablauf gestellten Antrag von dem Vorsitzenden verlängert werden.
 
-
-## § 124
+# § 124
 
 (1) Der Bundesfinanzhof prüft, ob die Revision statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet worden ist. Mangelt es an einem dieser Erfordernisse, so ist die Revision unzulässig.
 
 (2) Der Beurteilung der Revision unterliegen auch diejenigen Entscheidungen, die dem Endurteil vorausgegangen sind, sofern sie nicht nach den Vorschriften dieses Gesetzes unanfechtbar sind.
 
-
-## § 125
+# § 125
 
 (1) Die Revision kann bis zur Rechtskraft des Urteils zurückgenommen werden. Nach Schluss der mündlichen Verhandlung, bei Verzicht auf die mündliche Verhandlung und nach Ergehen eines Gerichtsbescheides ist die Rücknahme nur mit Einwilligung des Revisionsbeklagten möglich.
 
 (2) Die Zurücknahme bewirkt den Verlust des eingelegten Rechtsmittels.
 
-
-## § 126
+# § 126
 
 (1) Ist die Revision unzulässig, so verwirft der Bundesfinanzhof sie durch Beschluss.
 
@@ -1264,18 +1127,15 @@ Der Bundesfinanzhof verweist den Rechtsstreit zurück, wenn der in dem Revisions
 
 (6) Die Entscheidung über die Revision bedarf keiner Begründung, soweit der Bundesfinanzhof Rügen von Verfahrensmängeln nicht für durchgreifend erachtet. Das gilt nicht für Rügen nach § 119 und, wenn mit der Revision ausschließlich Verfahrensmängel geltend gemacht werden, für Rügen, auf denen die Zulassung der Revision beruht.
 
-
-## § 126a
+# § 126a
 
 Der Bundesfinanzhof kann über die Revision in der Besetzung von fünf Richtern durch Beschluss entscheiden, wenn er einstimmig die Revision für unbegründet und eine mündliche Verhandlung nicht für erforderlich hält. Die Beteiligten sind vorher zu hören. Der Beschluss soll eine kurze Begründung enthalten; dabei sind die Voraussetzungen dieses Verfahrens festzustellen. § 126 Abs. 6 gilt entsprechend.
 
-
-## § 127
+# § 127
 
 Ist während des Revisionsverfahrens ein neuer oder geänderter Verwaltungsakt Gegenstand des Verfahrens geworden (§§ 68, 123 Satz 2), so kann der Bundesfinanzhof das angefochtene Urteil aufheben und die Sache zur anderweitigen Verhandlung und Entscheidung an das Finanzgericht zurückverweisen.
 
-
-## § 128
+# § 128
 
 (1) Gegen die Entscheidungen des Finanzgerichts, des Vorsitzenden oder des Berichterstatters, die nicht Urteile oder Gerichtsbescheide sind, steht den Beteiligten und den sonst von der Entscheidung Betroffenen die Beschwerde an den Bundesfinanzhof zu, soweit nicht in diesem Gesetz etwas anderes bestimmt ist.
 
@@ -1285,41 +1145,35 @@ Ist während des Revisionsverfahrens ein neuer oder geänderter Verwaltungsakt G
 
 (4) In Streitigkeiten über Kosten ist die Beschwerde nicht gegeben. Das gilt nicht für die Beschwerde gegen die Nichtzulassung der Revision.
 
-
-## § 129
+# § 129
 
 (1) Die Beschwerde ist beim Finanzgericht schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle innerhalb von zwei Wochen nach Bekanntgabe der Entscheidung einzulegen.
 
 (2) Die Beschwerdefrist ist auch gewahrt, wenn die Beschwerde innerhalb der Frist beim Bundesfinanzhof eingeht.
 
-
-## § 130
+# § 130
 
 (1) Hält das Finanzgericht, der Vorsitzende oder der Berichterstatter, dessen Entscheidung angefochten wird, die Beschwerde für begründet, so ist ihr abzuhelfen; sonst ist sie unverzüglich dem Bundesfinanzhof vorzulegen.
 
 (2) Das Finanzgericht soll die Beteiligten von der Vorlage der Beschwerde in Kenntnis setzen.
 
-
-## § 131
+# § 131
 
 (1) Die Beschwerde hat nur dann aufschiebende Wirkung, wenn sie die Festsetzung eines Ordnungs- oder Zwangsmittels zum Gegenstand hat. Das Finanzgericht, der Vorsitzende oder der Berichterstatter, dessen Entscheidung angefochten wird, kann auch sonst bestimmen, dass die Vollziehung der angefochtenen Entscheidung einstweilen auszusetzen ist.
 
 (2) Die §§ 178 und 181 Abs. 2 des Gerichtsverfassungsgesetzes bleiben unberührt.
 
-
-## § 132
+# § 132
 
 Über die Beschwerde entscheidet der Bundesfinanzhof durch Beschluss.
 
-
-## § 133
+# § 133
 
 (1) Gegen die Entscheidung des beauftragten oder ersuchten Richters oder des Urkundsbeamten kann innerhalb von zwei Wochen nach Bekanntgabe die Entscheidung des Finanzgerichts beantragt werden. Der Antrag ist schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle des Gerichts zu stellen. Die §§ 129 bis 131 gelten sinngemäß.
 
 (2) Im Verfahren vor dem Bundesfinanzhof gilt Absatz 1 für Entscheidungen des beauftragten oder ersuchten Richters oder des Urkundsbeamten der Geschäftsstelle sinngemäß.
 
-
-## § 133a
+# § 133a
 
 (1) Auf die Rüge eines durch eine gerichtliche Entscheidung beschwerten Beteiligten ist das Verfahren fortzuführen, wenn
 
@@ -1339,13 +1193,11 @@ Gegen eine der Endentscheidung vorausgehende Entscheidung findet die Rüge nicht
 
 (6) § 131 Abs. 1 Satz 2 ist entsprechend anzuwenden.
 
-
-## § 134
+# § 134
 
 Ein rechtskräftig beendetes Verfahren kann nach den Vorschriften des Vierten Buchs der Zivilprozessordnung wiederaufgenommen werden.
 
-
-## § 135
+# § 135
 
 (1) Der unterliegende Beteiligte trägt die Kosten des Verfahrens.
 
@@ -1357,8 +1209,7 @@ Ein rechtskräftig beendetes Verfahren kann nach den Vorschriften des Vierten Bu
 
 (5) Besteht der kostenpflichtige Teil aus mehreren Personen, so haften diese nach Kopfteilen. Bei erheblicher Verschiedenheit ihrer Beteiligung kann nach Ermessen des Gerichts die Beteiligung zum Maßstab genommen werden.
 
-
-## § 136
+# § 136
 
 (1) Wenn ein Beteiligter teils obsiegt, teils unterliegt, so sind die Kosten gegeneinander aufzuheben oder verhältnismäßig zu teilen. Sind die Kosten gegeneinander aufgehoben, so fallen die Gerichtskosten jedem Teil zur Hälfte zur Last. Einem Beteiligten können die Kosten ganz auferlegt werden, wenn der andere nur zu einem geringen Teil unterlegen ist.
 
@@ -1366,13 +1217,11 @@ Ein rechtskräftig beendetes Verfahren kann nach den Vorschriften des Vierten Bu
 
 (3) Kosten, die durch einen Antrag auf Wiedereinsetzung in den vorigen Stand entstehen, fallen dem Antragsteller zur Last.
 
-
-## § 137
+# § 137
 
 Einem Beteiligten können die Kosten ganz oder teilweise auch dann auferlegt werden, wenn er obsiegt hat, die Entscheidung aber auf Tatsachen beruht, die er früher hätte geltend machen oder beweisen können und sollen. Kosten, die durch Verschulden eines Beteiligten entstanden sind, können diesem auferlegt werden. Berücksichtigt das Gericht nach § 76 Abs. 3 Erklärungen und Beweismittel, die im Einspruchsverfahren nach § 364b der Abgabenordnung rechtmäßig zurückgewiesen wurden, sind dem Kläger insoweit die Kosten aufzuerlegen.
 
-
-## § 138
+# § 138
 
 (1) Ist der Rechtsstreit in der Hauptsache erledigt, so entscheidet das Gericht nach billigem Ermessen über die Kosten des Verfahrens durch Beschluss; der bisherige Sach- und Streitstand ist zu berücksichtigen.
 
@@ -1380,8 +1229,7 @@ Einem Beteiligten können die Kosten ganz oder teilweise auch dann auferlegt wer
 
 (3) Der Rechtsstreit ist auch in der Hauptsache erledigt, wenn der Beklagte der Erledigungserklärung des Klägers nicht innerhalb von zwei Wochen seit Zustellung des die Erledigungserklärung enthaltenden Schriftsatzes widerspricht und er vom Gericht auf diese Folge hingewiesen worden ist.
 
-
-## § 139
+# § 139
 
 (1) Kosten sind die Gerichtskosten (Gebühren und Auslagen) und die zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Aufwendungen der Beteiligten einschließlich der Kosten des Vorverfahrens.
 
@@ -1391,11 +1239,9 @@ Einem Beteiligten können die Kosten ganz oder teilweise auch dann auferlegt wer
 
 (4) Die außergerichtlichen Kosten des Beigeladenen sind nur erstattungsfähig, wenn das Gericht sie aus Billigkeit der unterliegenden Partei oder der Staatskasse auferlegt.
 
+# §§ 140 und 141 – (weggefallen)
 
-## §§ 140 und 141 – (weggefallen)
-
-
-## § 142
+# § 142
 
 (1) Die Vorschriften der Zivilprozessordnung über die Prozesskostenhilfe gelten sinngemäß.
 
@@ -1413,28 +1259,23 @@ Einem Beteiligten können die Kosten ganz oder teilweise auch dann auferlegt wer
 
 (8) Durch Landesgesetz kann bestimmt werden, dass die Absätze 3 bis 7 für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
-
-## § 143
+# § 143
 
 (1) Das Gericht hat im Urteil oder, wenn das Verfahren in anderer Weise beendet worden ist, durch Beschluss über die Kosten zu entscheiden.
 
 (2) Wird eine Sache vom Bundesfinanzhof an das Finanzgericht zurückverwiesen, so kann diesem die Entscheidung über die Kosten des Verfahrens übertragen werden.
 
-
-## § 144
+# § 144
 
 Ist ein Rechtsbehelf seinem vollen Umfang nach zurückgenommen worden, so wird über die Kosten des Verfahrens nur entschieden, wenn ein Beteiligter Kostenerstattung beantragt.
 
-
-## § 145
+# § 145
 
 Die Anfechtung der Entscheidung über die Kosten ist unzulässig, wenn nicht gegen die Entscheidung in der Hauptsache ein Rechtsmittel eingelegt wird.
 
+# §§ 146 bis 148 – (weggefallen)
 
-## §§ 146 bis 148 – (weggefallen)
-
-
-## § 149
+# § 149
 
 (1) Die den Beteiligten zu erstattenden Aufwendungen werden auf Antrag von dem Urkundsbeamten des Gerichts des ersten Rechtszugs festgesetzt.
 
@@ -1444,13 +1285,11 @@ Die Anfechtung der Entscheidung über die Kosten ist unzulässig, wenn nicht geg
 
 (4) Über die Erinnerung entscheidet das Gericht durch Beschluss.
 
-
-## § 150
+# § 150
 
 Soll zugunsten des Bundes, eines Landes, eines Gemeindeverbands, einer Gemeinde oder einer Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts als Abgabenberechtigte vollstreckt werden, so richtet sich die Vollstreckung nach den Bestimmungen der Abgabenordnung, soweit nicht durch Gesetz etwas anderes bestimmt ist. Vollstreckungsbehörden sind die Finanzämter und Hauptzollämter. Für die Vollstreckung gilt § 69 sinngemäß.
 
-
-## § 151
+# § 151
 
 (1) Soll gegen den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, eine Körperschaft, eine Anstalt oder Stiftung des öffentlichen Rechts vollstreckt werden, so gilt für die Zwangsvollstreckung das Achte Buch der Zivilprozessordnung sinngemäß; § 150 bleibt unberührt. Vollstreckungsgericht ist das Finanzgericht.
 
@@ -1466,8 +1305,7 @@ Soll zugunsten des Bundes, eines Landes, eines Gemeindeverbands, einer Gemeinde 
 
 (4) Für die Vollstreckung können den Beteiligten auf ihren Antrag Ausfertigungen des Urteils ohne Tatbestand und ohne Entscheidungsgründe erteilt werden, deren Zustellung in den Wirkungen der Zustellung eines vollständigen Urteils gleichsteht.
 
-
-## § 152
+# § 152
 
 (1) Soll im Fall des § 151 wegen einer Geldforderung vollstreckt werden, so verfügt das Vollstreckungsgericht auf Antrag des Gläubigers die Vollstreckung. Es bestimmt die vorzunehmenden Vollstreckungsmaßnahmen und ersucht die zuständigen Stellen um deren Vornahme. Die ersuchte Stelle ist verpflichtet, dem Ersuchen nach den für sie geltenden Vollstreckungsvorschriften nachzukommen.
 
@@ -1479,56 +1317,45 @@ Soll zugunsten des Bundes, eines Landes, eines Gemeindeverbands, einer Gemeinde 
 
 (5) Der Ankündigung der Vollstreckung und der Einhaltung einer Wartefrist bedarf es nicht, wenn es sich um den Vollzug einer einstweiligen Anordnung handelt.
 
-
-## § 153
+# § 153
 
 In den Fällen der §§ 150, 152 Abs. 1 bis 3 bedarf es einer Vollstreckungsklausel nicht.
 
-
-## § 154
+# § 154
 
 Kommt die Finanzbehörde in den Fällen des § 100 Abs. 1 Satz 2 und der §§ 101 und 114 der ihr im Urteil oder in der einstweiligen Anordnung auferlegten Verpflichtung nicht nach, so kann das Gericht des ersten Rechtszugs auf Antrag unter Fristsetzung gegen sie ein Zwangsgeld bis eintausend Euro durch Beschluß androhen, nach fruchtlosem Fristablauf festsetzen und von Amts wegen vollstrecken. Das Zwangsgeld kann wiederholt angedroht, festgesetzt und vollstreckt werden.
 
-
-## § 155
+# § 155
 
 Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält, sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen Unterschiede der beiden Verfahrensarten es nicht ausschließen, die Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß anzuwenden; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
 
-
-## § 156
+# § 156
 
 § 6 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-
-## § 157
+# § 157
 
 Hat das Verfassungsgericht eines Landes die Nichtigkeit von Landesrecht festgestellt oder Vorschriften des Landesrechts für nichtig erklärt, so bleiben vorbehaltlich einer besonderen gesetzlichen Regelung durch das Land die nicht mehr anfechtbaren Entscheidungen der Gerichte der Finanzgerichtsbarkeit, die auf der für nichtig erklärten Norm beruhen, unberührt. Die Vollstreckung aus einer solchen Entscheidung ist unzulässig. § 767 der Zivilprozessordnung gilt sinngemäß.
 
-
-## § 158
+# § 158
 
 Die eidliche Vernehmung eines Auskunftspflichtigen nach § 94 der Abgabenordnung oder die Beeidigung eines Sachverständigen nach § 96 Abs. 7 Satz 5 der Abgabenordnung durch das Finanzgericht findet vor dem dafür im Geschäftsverteilungsplan bestimmten Richter statt. Über die Rechtmäßigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung entscheidet das Finanzgericht durch Beschluss.
 
-
-## § 159
+# § 159
 
 § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-
-## § 160
+# § 160
 
 Soweit der Finanzrechtsweg auf Grund des § 33 Abs. 1 Nr. 4 eröffnet wird, können die Beteiligung am Verfahren und die Beiladung durch Gesetz abweichend von den Vorschriften dieses Gesetzes geregelt werden.
 
-
-## § 161
+# § 161
 
 (Aufhebung von Vorschriften)
 
+# §§ 162 bis 183 – (weggefallen)
 
-## §§ 162 bis 183 – (weggefallen)
-
-
-## § 184
+# § 184
 
 (1) (Inkrafttreten)
 

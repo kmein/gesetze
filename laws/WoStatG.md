@@ -1,15 +1,11 @@
-# [WoStatG] Gesetz über gebäude- und wohnungsstatistische Erhebungen  (Wohnungsstatistikgesetz - WoStatG)
-
-Ausfertigungsdatum: 18.03.1993
-
+% Gesetz über gebäude- und wohnungsstatistische Erhebungen  (Wohnungsstatistikgesetz - WoStatG)
+% Ausfertigungsdatum: 18.03.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anordnung als Bundesstatistik, Erhebungsart
+# § 1 – Anordnung als Bundesstatistik, Erhebungsart
 
 Über Gebäude und Wohnungen sowie die Wohnsituation der Haushalte werden nach Maßgabe dieses Gesetzes folgende Bundesstatistiken durchgeführt:
 
@@ -17,8 +13,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 2. eine Gebäude- und Wohnungsstichprobe im gesamten Bundesgebiet auf repräsentativer Grundlage mit einem Auswahlsatz von 1 vom Hundert der Wohnungen.
 
-
-## § 2 – Erhebungseinheiten und Stichprobenauswahl
+# § 2 – Erhebungseinheiten und Stichprobenauswahl
 
 (1) Erhebungseinheiten für die Erhebung nach § 1 Nr. 1 sind Gebäude mit Wohnraum und bewohnte Unterkünfte sowie Wohnungen.
 
@@ -26,15 +21,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Aus den Gebäuden mit Wohnraum und den bewohnten Unterkünften werden Auswahlbezirke gebildet, deren Größe sich nach der Zahl der Wohnungen und Personen richtet. Aus diesen wird eine Zufallsauswahl getroffen. In den ausgewählten Bezirken werden alle Erhebungseinheiten erfaßt.
 
-
-## § 3 – Berichtszeitpunkt
+# § 3 – Berichtszeitpunkt
 
 (1) Die Erhebung nach § 1 Nr. 1 wird nach dem Stand vom 30. September 1995 durchgeführt. Mit der Erhebung kann bis zu sechs Monaten vor dem Erhebungsstichtag begonnen werden.
 
 (2) Die Erhebung nach § 1 Nr. 2 wird nach dem Stand vom 30. September 1993 durchgeführt.
 
-
-## § 4 – Erhebungsmerkmale
+# § 4 – Erhebungsmerkmale
 
 (1) Erhebungsmerkmale der Erhebung nach § 1 Nr. 1 sind
 
@@ -80,8 +73,7 @@ b) für jedes Haushaltsmitglied Höhe des monatlichen Nettoeinkommens nach Einko
 
 c) Zahl der Umzüge in den letzten zehn Jahren; Jahr und Anlaß des Einzugs; Wohnverhältnisse in der vorherigen Wohnung sowie Lage der vorherigen zur jetzigen Wohnung; Zeitpunkt und Anlaß der erstmaligen Gewährung sowie Betrag des derzeitigen monatlichen Wohngeldes; Erwerbsabsichten von selbstgenutztem Wohneigentum im Geltungsbereich dieses Gesetzes mit Art des Objekts.
 
-
-## § 5 – Hilfsmerkmale
+# § 5 – Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
@@ -93,8 +85,7 @@ Hilfsmerkmale sind:
 
 4. Telefonnummer der für Rückfragen zur Verfügung stehenden Personen.
 
-
-## § 6 – Erhebungsstellen
+# § 6 – Erhebungsstellen
 
 (1) Zur Durchführung der Erhebung nach § 1 Nr. 1 werden Erhebungsstellen eingerichtet. Sie sind räumlich, organisatorisch und personell von anderen Verwaltungsstellen zu trennen. Nach § 16 Abs. 5 des Bundesstatistikgesetzes von anderen Verwaltungsstellen getrennte Statistikstellen dürfen die Aufgaben der Erhebungsstellen wahrnehmen. Es ist sicherzustellen, daß die Angaben in den Erhebungsvordrucken nicht für andere Aufgaben verwendet werden.
 
@@ -104,8 +95,7 @@ Hilfsmerkmale sind:
 
 (4) Erhebungsstellen für die Erhebung nach § 1 Nr. 2 sind die statistischen Ämter der Länder. Sie dürfen zur Bildung von Auswahlbezirken für die Erhebung nach § 1 Nr. 2 aus dem Bevölkerungsregister Statistik die Zahl der Haushalte und Personen, gegliedert nach Gemeinde, Straße und Hausnummer, verarbeiten und nutzen.
 
-
-## § 7 – Erhebungsbeauftragte
+# § 7 – Erhebungsbeauftragte
 
 (1) Für die Erhebungen nach § 1 können ehrenamtliche Erhebungsbeauftragte eingesetzt werden. Sie sind von den Erhebungsstellen auszuwählen und zu bestellen. Sie dürfen nicht in der unmittelbaren Nähe ihrer Wohnung eingesetzt werden (Nachbarschaft). Die Erhebungsbeauftragten sind berechtigt, in die Erhebungsvordrucke die Angaben nach § 5, die Zahl und das Leerstehen der Wohnungen im Gebäude sowie die Nutzung durch Angehörige ausländischer Streitkräfte, diplomatischer oder berufskonsularischer Vertretungen selbst einzutragen. Sie sind außerdem berechtigt, bei der Erhebung nach § 1 Nr. 2 die Zahl der Haushalte in der Wohnung und die Personen im Haushalt selbst einzutragen. Dies gilt auch für weitere Eintragungen in die Erhebungsvordrucke, soweit die Auskunftspflichtigen einverstanden sind. § 14 des Bundesstatistikgesetzes bleibt unberührt.
 
@@ -117,8 +107,7 @@ Hilfsmerkmale sind:
 
 (5) Soweit zur Vorbereitung und Durchführung der Erhebungen nach § 1 Maßnahmen gemäß § 6 Bundesstatistikgesetz durchgeführt werden, können ebenfalls Erhebungsbeauftragte eingesetzt werden. Absätze 1 und 4 gelten entsprechend.
 
-
-## § 8 – Datenübermittlung an die Erhebungsstellen
+# § 8 – Datenübermittlung an die Erhebungsstellen
 
 (1) Die für die Grundsteuer zuständigen Stellen der Gemeinden oder die für die Gebäudebrandversicherung zuständigen juristischen Personen des öffentlichen Rechts sowie die für die Führung des Grundbuchs zuständigen Stellen teilen den Erhebungsstellen auf Anforderung Vor- und Familiennamen oder Bezeichnung sowie Anschrift der Eigentümer, Erbbauberechtigten, Verwalter, Verfügungs- oder Nutzungsberechtigten der in die Erhebung einbezogenen Grundstücke, Gebäude und Wohnungen sowie Gemeinde, Straße, Hausnummer der Erhebungseinheiten mit.
 
@@ -128,8 +117,7 @@ Hilfsmerkmale sind:
 
 (4) Die nach den Absätzen 1 bis 3 an die Erhebungsstellen übermittelten Datenträger sind an die statistischen Ämter der Länder weiterzuleiten und dort zum frühestmöglichen Zeitpunkt, spätestens jedoch zwei Jahre nach dem in § 3 Abs. 1 genannten Zeitraum zu löschen.
 
-
-## § 9 – Auskunftspflicht
+# § 9 – Auskunftspflicht
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht.
 
@@ -147,8 +135,7 @@ Hilfsmerkmale sind:
 
 (4) Die Angaben zu § 4 Abs. 2 Nr. 1 Buchstabe d, Nr. 3 Buchstabe c und § 5 Nr. 4 sind freiwillig.
 
-
-## § 10 – Art der Auskunftserteilung
+# § 10 – Art der Auskunftserteilung
 
 (1) Die in den Erhebungsvordrucken enthaltenen Fragen können mündlich gegenüber dem Erhebungsbeauftragten oder schriftlich beantwortet werden. Die Angaben zu den Merkmalen nach § 5 Nr. 1 bis 3, die Zahl der Haushalte in der Wohnung und die Zahl der Personen im Haushalt sind auf Verlangen der Erhebungsbeauftragten mündlich mitzuteilen.
 
@@ -160,19 +147,16 @@ Hilfsmerkmale sind:
 
 Bei Abgabe in verschlossenem Umschlag sind Name und Anschrift auf dem Umschlag anzugeben.
 
-
-## § 11 – Verwendung von Merkmalen
+# § 11 – Verwendung von Merkmalen
 
 (1) Für ausschließlich statistische Zwecke dürfen den zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände Einzelangaben aus der Erhebung nach § 1 Nr. 1 mit Ausnahme der Hilfsmerkmale nach § 5 Nr. 1, 3 und 4 für ihren Zuständigkeitsbereich übermittelt werden, soweit die sonstigen Voraussetzungen nach § 16 Abs. 5 des Bundesstatistikgesetzes gegebenen sind. Die Übermittlung der Hilfsmerkmale nach § 5 Nr. 2 erfolgt zur Bildung kleinräumiger Gliederungssysteme (Blockseiten oder vergleichbare Gebietseinheiten mit mindestens drei Gebäuden). Sie sind zum frühestmöglichen Zeitpunkt, spätestens jedoch vier Jahre nach dem in § 3 Abs. 1 genannten Zeitpunkt zu löschen.
 
 (2) Als Grundlage für Gebäude-, Wohnungs- und Bevölkerungsstichproben, die als Bundesstatistik durchgeführt werden, dürfen die statistischen Ämter des Bundes und der Länder die Art des Gebäudes, Zahl der Geschosse und Wohnungen, gegliedert nach Gemeinde, Straße, Hausnummer, zur Ermittlung von Auswahlbezirken im Geltungsbereich dieses Gesetzes nutzen. Der Gesamtumfang der nach mathematischem Zufallsverfahren zu ziehenden Stichproben wird auf 20 vom Hundert der Auswahlbezirke begrenzt; die Merkmale der Stichproben sind gesondert aufzubewahren. Sie sind unverzüglich nach Zweckerfüllung zu löschen, spätestens zu dem Zeitpunkt, zu dem entsprechende Auswahlgrundlagen aus einer künftigen Zählung zur Verfügung stehen. Die Merkmale für die nicht benötigten 80 vom Hundert der Auswahlbezirke sind unverzüglich nach Festlegung der Auswahlbezirke nach Satz 1, spätestens jedoch vier Jahre nach dem in § 3 Abs. 1 genannten Zeitpunkt, zu löschen.
 
-
-## § 12 – Zusatz- oder Sonderaufbereitungen
+# § 12 – Zusatz- oder Sonderaufbereitungen
 
 Zusatz- oder Sonderaufbereitungen für Bundeszwecke werden in den Fällen vom Statistischen Bundesamt durchgeführt, in denen sie nicht von den statistischen Ämtern der Länder innerhalb einer angemessenen Frist selbst vorgenommen werden können.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

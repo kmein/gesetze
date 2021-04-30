@@ -1,15 +1,11 @@
-# [BEGTPG] Gesetz über die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
-
-Ausfertigungsdatum: 07.07.2005
-
+% Gesetz über die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
+% Ausfertigungsdatum: 07.07.2005
  
-
-## § 1 – Rechtsform, Name
+# § 1 – Rechtsform, Name
 
 Die auf der Grundlage des Zehnten Teils des Telekommunikationsgesetzes vom 25. Juli 1996 (BGBl. I S. 1120), das zuletzt durch Artikel 4 Abs. 73 des Gesetzes vom 5. Mai 2004 (BGBl. I S. 718) geändert worden ist, errichtete "Regulierungsbehörde für Telekommunikation und Post" wird in "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen" (Bundesnetzagentur) umbenannt. Sie ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie mit Sitz in Bonn.
 
-
-## § 2 – Tätigkeiten, Aufgabendurchführung
+# § 2 – Tätigkeiten, Aufgabendurchführung
 
 (1) Die Bundesnetzagentur ist auf den Gebieten
 
@@ -27,8 +23,7 @@ tätig.
 
 (3) Die Bundesnetzagentur muss über eine personelle und sachliche Ausstattung verfügen, die der Bedeutung des Eisenbahnsektors in Deutschland entspricht.
 
-
-## § 3 – Organe
+# § 3 – Organe
 
 (1) Die Bundesnetzagentur wird von einem Präsidenten oder einer Präsidentin geleitet. Der Präsident oder die Präsidentin vertritt die Bundesnetzagentur gerichtlich und außergerichtlich und regelt die Verteilung und den Gang ihrer Geschäfte durch eine Geschäftsordnung; diese bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und Energie im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur. Bestimmungen in anderen Rechtsvorschriften über die Bildung von Beschlusskammern bleiben unberührt.
 
@@ -38,8 +33,7 @@ tätig.
 
 (4) Die Ernennung des Präsidenten oder der Präsidentin und der zwei Vizepräsidenten oder Vizepräsidentinnen erfolgt durch den Bundespräsidenten oder die Bundespräsidentin.
 
-
-## § 4 – Öffentlich-rechtliche Amtsverhältnisse
+# § 4 – Öffentlich-rechtliche Amtsverhältnisse
 
 (1) Der Präsident oder die Präsidentin der Bundesnetzagentur steht in einem öffentlich-rechtlichen Amtsverhältnis zum Bund, das auf fünf Jahre befristet ist; eine einmalige Verlängerung ist zulässig.
 
@@ -62,8 +56,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (8) Die Absätze 1 bis 7 gelten entsprechend für die beiden Vizepräsidenten oder Vizepräsidentinnen mit der Maßgabe, dass die Benennung eines Vizepräsidenten oder einer Vizepräsidentin in der Regel nach Ablauf der halben Amtszeit des anderen Vizepräsidenten oder der anderen Vizepräsidentin erfolgen sollte.
 
-
-## § 5 – Beirat
+# § 5 – Beirat
 
 (1) Die Bundesnetzagentur hat einen Beirat, der aus jeweils 16 Mitgliedern des Deutschen Bundestages und 16 Vertretern oder Vertreterinnen des Bundesrates besteht; die Vertreter oder Vertreterinnen des Bundesrates müssen Mitglied einer Landesregierung sein oder diese politisch vertreten. Die Mitglieder des Beirates und die stellvertretenden Mitglieder werden jeweils auf Vorschlag des Deutschen Bundestages und des Bundesrates von der Bundesregierung berufen.
 
@@ -75,8 +68,7 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (5) Die Absätze 1 bis 4 gelten für die stellvertretenden Mitglieder entsprechend.
 
-
-## § 6 – Geschäftsordnung, Vorsitz, Sitzungen des Beirates
+# § 6 – Geschäftsordnung, Vorsitz, Sitzungen des Beirates
 
 (1) Der Beirat gibt sich eine Geschäftsordnung, die der Genehmigung des Bundesministeriums für Wirtschaft und Energie im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur bedarf.
 
@@ -94,18 +86,15 @@ Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
 (8) Die Mitglieder oder die sie vertretenden Personen erhalten Ersatz von Reisekosten und ein angemessenes Sitzungsgeld, das das Bundesministerium für Wirtschaft und Energie im Benehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur festsetzt.
 
-
-## § 7 – Aufgaben des Beirates
+# § 7 – Aufgaben des Beirates
 
 Der Beirat hat die ihm durch Gesetz oder auf Grund eines Gesetzes zugewiesenen Aufgaben.
 
-
-## § 8 – Länderausschuss
+# § 8 – Länderausschuss
 
 Bei der Bundesnetzagentur wird ein Länderausschuss gebildet, der sich aus Vertretern der für die Wahrnehmung der Aufgaben nach § 54 des Energiewirtschaftsgesetzes zuständigen Landesregulierungsbehörden zusammensetzt. Jede Landesregulierungsbehörde kann jeweils einen Vertreter in den Länderausschuss entsenden.
 
-
-## § 9 – Geschäftsordnung, Vorsitz, Sitzungen des Länderausschusses
+# § 9 – Geschäftsordnung, Vorsitz, Sitzungen des Länderausschusses
 
 (1) Der Länderausschuss gibt sich eine Geschäftsordnung.
 
@@ -121,12 +110,10 @@ Bei der Bundesnetzagentur wird ein Länderausschuss gebildet, der sich aus Vertr
 
 (7) Der Präsident oder die Präsidentin der Bundesnetzagentur und seine oder ihre Beauftragten können an den Sitzungen teilnehmen. Sie müssen jederzeit gehört werden. Der Länderausschuss kann die Anwesenheit des Präsidenten oder der Präsidentin der Bundesnetzagentur, im Verhinderungsfall einer stellvertretenden Person verlangen.
 
-
-## § 10 – Aufgaben des Länderausschusses
+# § 10 – Aufgaben des Länderausschusses
 
 Der Länderausschuss hat die ihm durch Gesetz oder auf Grund eines Gesetzes zugewiesenen Aufgaben.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 Die Aufgaben des Beirates werden bis zu seiner Bildung nach § 5 durch den Beirat nach § 118 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), das zuletzt durch Artikel 6 Nr. 8 des Gesetzes vom 14. März 2005 (BGBl. I S. 721) geändert worden ist, wahrgenommen.

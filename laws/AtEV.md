@@ -1,10 +1,7 @@
-# [AtEV] Verordnung über Anforderungen und Verfahren zur Entsorgung radioaktiver Abfälle  (Atomrechtliche Entsorgungsverordnung - AtEV)
-
-Ausfertigungsdatum: 29.11.2018
-
+% Verordnung über Anforderungen und Verfahren zur Entsorgung radioaktiver Abfälle  (Atomrechtliche Entsorgungsverordnung - AtEV)
+% Ausfertigungsdatum: 29.11.2018
  
-
-## § 1 – Anfall und Verbleib
+# § 1 – Anfall und Verbleib
 
 (1) Wer eine Tätigkeit nach § 5, § 6, § 7, § 9 oder § 9b des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3 des Strahlenschutzgesetzes plant oder ausübt, ist verpflichtet,
 
@@ -23,8 +20,7 @@ b) den Anfall radioaktiver Abfälle seit dem letzten Stichtag und den Bestand zu
 (+++ § 1 Abs. 3 Satz 2 und 3: Zur Anwendung vgl. § 2 Abs. 4 +++)  
 (+++ § 1 Abs. 3: Zur Anwendung vgl. § 3 Abs. 2 Satz 3, § 3 Abs. 3 Satz 2 und § 4 Abs. 5 +++)
 
-
-## § 2 – Pflicht zur Erfassung
+# § 2 – Pflicht zur Erfassung
 
 (1) Wer eine Tätigkeit nach § 5, § 6, § 7, § 9 oder § 9b des Atomgesetzes oder nach § 12 Absatz 1 Nummer 1, Nummer 2 oder Nummer 3 des Strahlenschutzgesetzes ausübt, ist verpflichtet,
 
@@ -40,8 +36,7 @@ Bei Änderungen sind die erfassten Angaben zu aktualisieren. Besitzt ein anderer
 
 (4) § 1 Absatz 3 Satz 2 und 3 gilt entsprechend.
 
-
-## § 3 – Behandlung und Verpackung
+# § 3 – Behandlung und Verpackung
 
 (1) Die zuständige Behörde oder eine von ihr bestimmte Stelle kann die Art der Behandlung und Verpackung radioaktiver Abfälle vor deren Ablieferung entsprechend den jeweiligen Anforderungen der Einrichtung, an die abzuliefern ist, anordnen und einen Nachweis über die Einhaltung dieser Anordnung verlangen. Der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes legt alle sicherheitstechnischen Anforderungen an Abfallgebinde, die für die Endlagerung bestimmt sind, sowie die Vorgaben für die Behandlung der darin enthaltenen Abfälle fest und stellt die Endlagerfähigkeit der nach diesen Anforderungen und Vorgaben hergestellten Abfallgebinde fest.
 
@@ -51,8 +46,7 @@ Bei Änderungen sind die erfassten Angaben zu aktualisieren. Besitzt ein anderer
 
 (4) Anforderungen auf der Grundlage des Gefahrgutbeförderungsgesetzes bleiben unberührt.
 
-
-## § 4 – Pflichten bei Abgabe und Empfang
+# § 4 – Pflichten bei Abgabe und Empfang
 
 (1) Wer radioaktive Abfälle abgibt, ist verpflichtet, vorher eine schriftliche Erklärung des Empfängers über dessen Annahmebereitschaft einzuholen. Er hat dem Empfänger dabei die erfassten Angaben nach § 2 Absatz 1 zu überlassen, sofern entsprechend vorhanden, in elektronischer Form nach § 2 Absatz 2 Satz 1.
 
@@ -70,8 +64,7 @@ Bei Änderungen sind die erfassten Angaben zu aktualisieren. Besitzt ein anderer
 
 (5) § 1 Absatz 3 gilt entsprechend.
 
-
-## § 5 – Ablieferungspflicht
+# § 5 – Ablieferungspflicht
 
 (1) Radioaktive Abfälle sind an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle abzuliefern, wenn sie entstanden sind
 
@@ -105,8 +98,7 @@ es sei denn, diese Abfälle sind nach Absatz 1 Nummer 5 an eine Anlage des Bunde
 
 (6) Die Landessammelstelle führt die bei ihr zwischengelagerten radioaktiven Abfälle grundsätzlich an eine Anlage des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle ab.
 
-
-## § 6 – Ausnahmen von der Ablieferungspflicht
+# § 6 – Ausnahmen von der Ablieferungspflicht
 
 (1) Die Ablieferungspflicht nach § 5 bezieht sich nicht auf radioaktive Abfälle, deren anderweitige Beseitigung oder Abgabe im Einzelfall oder für einzelne Abfallarten im Einvernehmen mit der für den Empfänger der radioaktiven Abfälle zuständigen Behörde angeordnet oder genehmigt worden ist. Die Ablieferungspflicht nach § 5 ruht, solange
 
@@ -122,37 +114,31 @@ es sei denn, diese Abfälle sind nach Absatz 1 Nummer 5 an eine Anlage des Bunde
 
 In den Fällen des § 5 Absatz 3 und 4 darf diese Genehmigung nur erteilt werden, wenn ein Bedürfnis für die anderweitige Beseitigung oder Zwischenlagerung besteht.
 
-
-## § 7 – Zwischenlagerung
+# § 7 – Zwischenlagerung
 
 (1) Bis zur Inbetriebnahme von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle sind die nach § 5 Absatz 1 oder 2 abzuliefernden radioaktiven Abfälle vom Ablieferungspflichtigen zwischenzulagern. Die Zwischenlagerung kann auch von mehreren Ablieferungspflichtigen gemeinsam oder durch Dritte erfolgen. § 2 des Entsorgungsübergangsgesetzes bleibt unberührt.
 
 (2) Nach Inbetriebnahme von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle werden die zwischengelagerten radioaktiven Abfälle von dem Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes abgerufen.
 
-
-## § 8 – Umgehungsverbot
+# § 8 – Umgehungsverbot
 
 Niemand darf sich den Pflichten dieser Verordnung dadurch entziehen, dass er radioaktive Abfälle aus zulassungsbedürftigen Tätigkeiten ohne Zulassung unter Inanspruchnahme der Regelung des § 5 Absatz 1 der Strahlenschutzverordnung durch Verdünnung oder Aufteilung in Freigrenzenmengen beseitigt, beseitigen lässt oder die Beseitigung dieser radioaktiven Abfälle ermöglicht. § 34 der Strahlenschutzverordnung bleibt unberührt.
 
-
-## § 9 – Strahlenschutzvorschriften
+# § 9 – Strahlenschutzvorschriften
 
 Der Strahlenschutzverantwortliche hat dafür zu sorgen, dass die in § 1 Absatz 1 und 2 Satz 2, § 2 Absatz 1 und 2 Satz 1, Absatz 3 und 4, § 3 Absatz 2 und 3, § 4 Absatz 1 bis 3, § 5 Absatz 1 bis 5, § 7 Absatz 1 Satz 1 sowie § 8 Satz 1 vorgesehenen Schutzvorschriften eingehalten werden. Für den Strahlenschutzbeauftragten gilt Satz 1 entsprechend. Die §§ 69 bis 75 des Strahlenschutzgesetzes bleiben unberührt.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 46 Absatz 1 Nummer 4 des Atomgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 9 Satz 1, auch in Verbindung mit Satz 2, nicht dafür sorgt, dass eine dort genannte Vorschrift eingehalten wird.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Verwaltungsakte, die auf Grund der §§ 72 bis 79 einschließlich der Anlage X der Strahlenschutzverordnung in der bis zum 31. Dezember 2018 geltenden Fassung erlassen wurden, gelten als solche nach dieser Verordnung fort.
 
 (2) Soweit nach § 2 zu erfassende Angaben zum Zeitpunkt des Inkrafttretens dieser Verordnung nicht elektronisch vorliegen, sind sie bis zum 31. Dezember 2026 in elektronische Buchführungssysteme zu überführen.
 
-
-## Anlage – Kategorisierung, Buchführung und Transportmeldung radioaktiver Abfälle mit vernachlässigbarer Wärmeentwicklung sowie bereitzustellende Daten über bestrahlte Brennelemente und radioaktive Abfälle aus der Wiederaufarbeitung
+# Anlage – Kategorisierung, Buchführung und Transportmeldung radioaktiver Abfälle mit vernachlässigbarer Wärmeentwicklung sowie bereitzustellende Daten über bestrahlte Brennelemente und radioaktive Abfälle aus der Wiederaufarbeitung
 
 (Fundstelle: BGBl. I 2018, 2176 - 2186)
 
@@ -255,14 +241,12 @@ Amtl. Anm.: 000002 steht für die eindeutige Nummer bezogen auf KWG.
 3. Kennzeichnung von Behältern (Behälternummer)  
   
 
-Behälter, in denen radioaktive Abfälle zur Sammlung, Verarbeitung oder zum Transport verpackt werden, sind mit einer innerhalb der Anlage unverwechselbaren und dauerhaften Identnummer, zum Beispiel der Herstellernummer oder einer individuell festgelegten Nummer, zu versehen. Endlagerbehälter sind spätestens vor Abgabe an das Endlager mit der Abfallgebindenummer und der Prüfzeugnisnummer des Endlagerbehälters zu kennzeichnen.  
-  
+Behälter, in denen radioaktive Abfälle zur Sammlung, Verarbeitung oder zum Transport verpackt werden, sind mit einer innerhalb der Anlage unverwechselbaren und dauerhaften Identnummer, zum Beispiel der Herstellernummer oder einer individuell festgelegten Nummer, zu versehen. Endlagerbehälter sind spätestens vor Abgabe an das Endlager mit der Abfallgebindenummer und der Prüfzeugnisnummer des Endlagerbehälters zu kennzeichnen.   
 
 4. Datenerfassung  
   
 
-Ist in der nachfolgenden Tabelle ein Kreuz eingetragen, so ist die Angabe für die jeweils vorliegende Abfallart, sofern zutreffend, zu erfassen.  
-  
+Ist in der nachfolgenden Tabelle ein Kreuz eingetragen, so ist die Angabe für die jeweils vorliegende Abfallart, sofern zutreffend, zu erfassen.   
 
 Tabelle 2  
 Vorgaben zur systematischen Datenerfassung  
@@ -692,8 +676,7 @@ Behandlungsverfahren<br />
   
   
 
-Anzugeben ist das für den physikalischen oder chemischen Zustand des zu benennenden Abfalls relevante Verfahren oder die Kombination von Verfahren, sofern dies nicht schon bei dem bereits erfassten Vorgänger angegeben worden ist.  
-  
+Anzugeben ist das für den physikalischen oder chemischen Zustand des zu benennenden Abfalls relevante Verfahren oder die Kombination von Verfahren, sofern dies nicht schon bei dem bereits erfassten Vorgänger angegeben worden ist.   
 
 Die Transportmeldung nach § 4 Absatz 2 hat folgende Angaben zu enthalten:
 

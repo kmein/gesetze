@@ -1,10 +1,7 @@
-# [SGZDVertrAnO] Allgemeine Anordnung über die Vertretung der Bundesrepublik Deutschland vor den Gerichten der Sozialgerichtsbarkeit im Bereich des Zivildienstes
-
-Ausfertigungsdatum: 14.12.1982
-
+% Allgemeine Anordnung über die Vertretung der Bundesrepublik Deutschland vor den Gerichten der Sozialgerichtsbarkeit im Bereich des Zivildienstes
+% Ausfertigungsdatum: 14.12.1982
  
-
-## § 1
+# § 1
 
 Auf Grund des § 51 Abs. 3 Nr. 3 Zivildienstgesetz in der Fassung der Bekanntmachung vom 9. August 1973 (BGBl. I S. 1015), zuletzt geändert durch die Zweite Zuständigkeitsanpassungs-Verordnung vom 1. April 1982 (BGBl. I S. 418), übertrage ich die Vertretung der Bundesrepublik Deutschland bei Streitigkeiten in Angelegenheiten
 
@@ -19,12 +16,10 @@ des Ausgleichs für Zivildienstbeschädigungen (§ 50 ZDG)
 
 auf das Bundesamt für den Zivildienst, Sibille-Hartmann-Straße 2 - 6, 5000 Köln 51.
 
-
-## § 2
+# § 2
 
 Diese Anordnung tritt am Tage nach der Veröffentlichung im Bundesgesetzblatt in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie und Gesundheit

@@ -1,15 +1,11 @@
-# [EWIVAG] Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung  (EWIV-Ausführungsgesetz)
-
-Ausfertigungsdatum: 14.04.1988
-
+% Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung  (EWIV-Ausführungsgesetz)
+% Ausfertigungsdatum: 14.04.1988
  
-
-## § 1 – Anzuwendende Vorschriften
+# § 1 – Anzuwendende Vorschriften
 
 Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 über die Schaffung einer Europäischen wirtschaftlichen Interessenvereinigung (EWIV) - ABl. EG Nr. L 199 S. 1 - (Verordnung) gilt, sind auf eine Europäische wirtschaftliche Interessenvereinigung (EWIV) mit Sitz im Geltungsbereich dieses Gesetzes (Vereinigung) die folgenden Vorschriften, im übrigen entsprechend die für eine offene Handelsgesellschaft geltenden Vorschriften anzuwenden; die Vereinigung gilt als Handelsgesellschaft im Sinne des Handelsgesetzbuchs.
 
-
-## § 2 – Anmeldung zum Handelsregister
+# § 2 – Anmeldung zum Handelsregister
 
 (1) Die Vereinigung ist bei dem Gericht, in dessen Bezirk sie ihren im Gründungsvertrag genannten Sitz hat, zur Eintragung in das Handelsregister anzumelden.
 
@@ -45,8 +41,7 @@ Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 über 
 
 (4) Die Verpflichtung zur Anmeldung weiterer Tatsachen auf Grund des § 1 bleibt unberührt.
 
-
-## § 3 – Besonderheiten der Handelsregisteranmeldung
+# § 3 – Besonderheiten der Handelsregisteranmeldung
 
 (1) Die Anmeldungen zur Eintragung in das Handelsregister sind von den Geschäftsführern oder den Abwicklern vorzunehmen. Die Anmeldung zur Eintragung einer Vereinigung ist durch sämtliche Geschäftsführer, die Anmeldung zur Eintragung des Schlusses der Abwicklung durch sämtliche Abwickler zu bewirken.
 
@@ -56,15 +51,13 @@ Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 über 
 
 (4) Absatz 3 gilt auch für neu bestellte Geschäftsführer.
 
-
-## § 4 – Bekanntmachungen
+# § 4 – Bekanntmachungen
 
 (1) Das Gericht hat einen Verlegungsplan nach Artikel 14 Abs. 1 der Verordnung sowie die Abtretung der gesamten oder eines Teils der Beteiligung an der Vereinigung durch ein Mitglied nach Artikel 22 Abs. 1 der Verordnung gemäß § 10 des Handelsgesetzbuchs durch einen Hinweis auf die Einreichung der Urkunden beim Handelsregister bekanntzumachen.
 
 (2) Das Gericht hat die nach Artikel 11 der Verordnung im Amtsblatt der Europäischen Gemeinschaften zu veröffentlichenden Angaben binnen eines Monats nach der Bekanntmachung nach § 10 des Handelsgesetzbuchs dem Amt für amtliche Veröffentlichungen der Europäischen Gemeinschaften mitzuteilen.
 
-
-## § 5 – Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer
+# § 5 – Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer
 
 (1) Die Geschäftsführer haben bei ihrer Geschäftsführung die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden. Über vertrauliche Angaben und Geheimnisse der Vereinigung, namentlich Betriebs- und Geschäftsgeheimnisse, die ihnen durch ihre Tätigkeit bekanntgeworden sind, haben sie Stillschweigen zu bewahren.
 
@@ -72,50 +65,41 @@ Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 über 
 
 (3) Die Ansprüche aus Absatz 2 verjähren in fünf Jahren.
 
-
-## § 6 – Aufstellung des Jahresabschlusses
+# § 6 – Aufstellung des Jahresabschlusses
 
 Die Geschäftsführer sind verpflichtet, für die ordnungsmäßige Buchführung der Vereinigung zu sorgen und den Jahresabschluß aufzustellen.
 
-
-## § 7 – Entlassung der Geschäftsführer
+# § 7 – Entlassung der Geschäftsführer
 
 Sind die Bedingungen für die Entlassung der Geschäftsführer nicht gemäß Artikel 19 Abs. 3 der Verordnung festgelegt, so ist die Bestellung der Geschäftsführer zu jeder Zeit widerruflich, unbeschadet der Entschädigungsansprüche aus bestehenden Verträgen.
 
-
-## § 8 – Ausscheiden eines Mitglieds
+# § 8 – Ausscheiden eines Mitglieds
 
 Ein Mitglied scheidet außer aus den Gründen nach Artikel 28 Abs. 1 Satz 1 der Verordnung aus der Vereinigung aus, wenn über sein Vermögen das Insolvenzverfahren eröffnet wird.
 
-
-## § 9
+# § 9
 
 (weggefallen)
 
-
-## § 10 – Abwicklung der Vereinigung
+# § 10 – Abwicklung der Vereinigung
 
 (1) In den Fällen der Auflösung der Vereinigung außer im Fall des Insolvenzverfahrens über das Vermögen der Vereinigung erfolgt die Abwicklung durch die Geschäftsführer, wenn sie nicht durch den Gründungsvertrag oder durch Beschluß der Mitglieder der Vereinigung anderen Personen übertragen ist.
 
 (2) Auf die Auswahl der Abwickler ist Artikel 19 Abs. 1 Satz 2 der Verordnung, auf die Anmeldung zur Eintragung in das Handelsregister § 3 Abs. 3 entsprechend anzuwenden.
 
-
-## § 11 – Eröffnung des Insolvenzverfahrens
+# § 11 – Eröffnung des Insolvenzverfahrens
 
 Den Antrag auf Eröffnung des Insolvenzverfahrens können auch die Geschäftsführer stellen. Im Fall des § 15a Abs. 1 Satz 2 der Insolvenzordnung sind die Geschäftsführer und die Abwickler verpflichtet, diesen Antrag zu stellen.
 
-
-## § 12 – Zwangsgelder
+# § 12 – Zwangsgelder
 
 Geschäftsführer oder Abwickler, die Artikel 25 der Verordnung nicht befolgen, sind hierzu vom Registergericht durch Festsetzung von Zwangsgeld anzuhalten; § 14 des Handelsgesetzbuchs bleibt unberührt. Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 
-
-## § 13 – Falsche Angaben
+# § 13 – Falsche Angaben
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer als Geschäftsführer in der nach § 3 Abs. 3 Satz 1, auch in Verbindung mit Absatz 5, abzugebenden Versicherung oder als Abwickler in der nach § 3 Abs. 3 Satz 1 in Verbindung mit § 10 Abs. 2 zweiter Halbsatz abzugebenden Versicherung falsche Angaben macht.
 
-
-## § 14 – Verletzung der Geheimhaltungspflicht
+# § 14 – Verletzung der Geheimhaltungspflicht
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein Geheimnis der Vereinigung, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als Geschäftsführer oder Abwickler bekanntgeworden ist, unbefugt offenbart.
 
@@ -123,22 +107,18 @@ Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer al
 
 (3) Die Tat wird nur auf Antrag der Vereinigung verfolgt. Antragsberechtigt sind von den Mitgliedern bestellte besondere Vertreter.
 
-
-## § 15 – (weggefallen)
-
-\-
-
-
-## § 16
+# § 15 – (weggefallen)
 
 \-
 
+# § 16
 
-## § 17 – Berlin-Klausel
+\-
+
+# § 17 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1989 in Kraft.

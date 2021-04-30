@@ -1,5 +1,3 @@
-# [PostPakAbk1984SchlProt] Schlußprotokoll zum Postpaketabkommen
-
-Ausfertigungsdatum: 27.07.1984
-
+% Schlußprotokoll zum Postpaketabkommen
+% Ausfertigungsdatum: 27.07.1984
  

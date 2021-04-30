@@ -1,10 +1,7 @@
-# [HdlDlStatG] Gesetz über die Statistik im Handels- und Dienstleistungsbereich  (Handels- und Dienstleistungsstatistikgesetz - HdlDlStatG)
-
-Ausfertigungsdatum: 22.02.2021
-
+% Gesetz über die Statistik im Handels- und Dienstleistungsbereich  (Handels- und Dienstleistungsstatistikgesetz - HdlDlStatG)
+% Ausfertigungsdatum: 22.02.2021
  
-
-## § 1 – Zweck der Statistik, Anordnung als Bundesstatistik
+# § 1 – Zweck der Statistik, Anordnung als Bundesstatistik
 
 (1) Die in diesem Gesetz geregelten statistische Erhebungen dienen
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 22.02.2021
 
 (2) Die statistischen Erhebungen werden als Bundesstatistik durchgeführt.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -31,8 +27,7 @@ Im Sinne dieses Gesetzes sind
 
 6. "Geschäftsfelder" fachliche Einheiten entsprechend Abschnitt III Buchstabe D des Anhangs zur Verordnung (EWG) Nr. 696/93, in der jeweils geltenden Fassung, jedoch innerhalb rechtlicher Einheiten.
 
-
-## § 3 – Erhebungseinheiten, Erhebungsbereiche
+# § 3 – Erhebungseinheiten, Erhebungsbereiche
 
 (1) Erhebungseinheiten sind rechtliche Einheiten, sofern es sich um Marktproduzenten handelt.
 
@@ -90,8 +85,7 @@ l) Abschnitt S, Abteilung 95 – Reparatur von Datenverarbeitungsgeräten und Ge
 
 m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönlichen Dienstleistungen.
 
-
-## § 4 – Periodizität und Berichtszeitraum bei konjunkturstatistischen Erhebungen
+# § 4 – Periodizität und Berichtszeitraum bei konjunkturstatistischen Erhebungen
 
 (1) Die konjunkturstatistischen Erhebungen werden monatlich durchgeführt.
 
@@ -99,8 +93,7 @@ m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönli
 
 (3) Erster Berichtsmonat für die Erhebungen ist der Januar 2021.
 
-
-## § 5 – Art und Umfang der konjunkturstatistischen Erhebungen
+# § 5 – Art und Umfang der konjunkturstatistischen Erhebungen
 
 (1) Die konjunkturstatistischen Erhebungen werden als Stichprobenerhebungen durchgeführt. Die Erhebungseinheiten werden nach mathematisch-statistischen Verfahren ausgewählt.
 
@@ -108,8 +101,7 @@ m) Abschnitt S, Abteilung 96 – Erbringung von sonstigen überwiegend persönli
 
 (3) Maßgebend für die Auswahl der einzubeziehenden Erhebungseinheiten sind die Daten, die im Statistikregister nach § 13 Absatz 1 des Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.
 
-
-## § 6 – Erhebungsmerkmale für konjunkturstatistische Erhebungen
+# § 6 – Erhebungsmerkmale für konjunkturstatistische Erhebungen
 
 (1) Erhebungsmerkmale für konjunkturstatistische Erhebungen sind:
 
@@ -131,8 +123,7 @@ Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro
 
 Absatz 1 Satz 2 und 3 gilt entsprechend. Erzielen Erhebungseinheiten erstmals einen Jahresumsatz von 250 Millionen Euro, werden einmalig die Angaben nach Satz 1 gegliedert nach Geschäftsfeldern gemäß Absatz 1 Satz 2 und 3 erhoben. Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen und die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bereits nach § 3 Absatz 1 Nummer 1 des Handelsstatistikgesetzes oder nach § 3 Absatz 2 des Dienstleistungskonjunkturstatistikgesetzes auskunftspflichtig sind, werden ausschließlich die Angaben nach Absatz 1 Satz 1 Nummer 1 und 2 gegliedert nach Geschäftsfeldern gemäß Absatz 1 Satz 2 und 3 erhoben.
 
-
-## § 7 – Periodizität und Berichtszeitraum bei strukturstatistischen Erhebungen
+# § 7 – Periodizität und Berichtszeitraum bei strukturstatistischen Erhebungen
 
 (1) Die strukturstatistischen Erhebungen werden jährlich durchgeführt.
 
@@ -140,8 +131,7 @@ Absatz 1 Satz 2 und 3 gilt entsprechend. Erzielen Erhebungseinheiten erstmals ei
 
 (3) Erstes Berichtsjahr für die Erhebungen ist das Jahr 2021.
 
-
-## § 8 – Art und Umfang der strukturstatistischen Erhebungen
+# § 8 – Art und Umfang der strukturstatistischen Erhebungen
 
 (1) Die strukturstatistischen Erhebungen werden als Stichprobenerhebungen durchgeführt. Die Erhebungseinheiten werden nach mathematisch-statistischen Verfahren ausgewählt.
 
@@ -149,8 +139,7 @@ Absatz 1 Satz 2 und 3 gilt entsprechend. Erzielen Erhebungseinheiten erstmals ei
 
 (3) Maßgebend für die Auswahl der einzubeziehenden Erhebungseinheiten sind die Daten, die im Statistikregister nach § 13 Absatz 1 des Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.
 
-
-## § 9 – Erhebungsmerkmale für strukturstatistische Erhebungen
+# § 9 – Erhebungsmerkmale für strukturstatistische Erhebungen
 
 (1) Erhebungsmerkmale für die strukturstatistischen Erhebungen sind:
 
@@ -238,8 +227,7 @@ c) des Abschnitts M, Gruppe 70.2 – Public-Relations- und Unternehmensberatung.
 
 (5) Die Angaben nach Absatz 1 Nummer 3 Buchstabe d werden nur für Erhebungseinheiten der Wirtschaftszweige der Abschnitte G und I erfasst. Die Angaben nach Absatz 1 Nummer 3 Buchstabe e werden nur für Erhebungseinheiten des Abschnitts G erfasst.
 
-
-## § 10 – Hilfsmerkmale
+# § 10 – Hilfsmerkmale
 
 Hilfsmerkmale sind:
 
@@ -249,8 +237,7 @@ Hilfsmerkmale sind:
 
 3. für die konjunkturstatistischen Erhebungen, mit Ausnahme der Erhebungseinheiten der Wirtschaftszweige der Abteilung 47 in Abschnitt G und des Abschnitts I, zusätzlich Steuernummer der Erhebungseinheit und des Organträgers der Erhebungseinheit, bei Änderungen auch die bisherige Steuernummer.
 
-
-## § 11 – Auskunftspflicht
+# § 11 – Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig sind die Inhaber und Inhaberinnen oder Leiter und Leiterinnen der Erhebungseinheiten. Die Auskunftserteilung zu den Angaben nach § 10 Nummer 2 ist freiwillig.
 
@@ -266,13 +253,11 @@ Hilfsmerkmale sind:
 
 3. einer tätigen Beteiligung.
 
-
-## § 12 – Nutzung von Angaben der Krankenhausstatistik-Verordnung
+# § 12 – Nutzung von Angaben der Krankenhausstatistik-Verordnung
 
 Soweit Erhebungsmerkmale nach § 9 Absatz 1 für Erhebungseinheiten aus der Gruppe 86.1 – Krankenhäuser – bereits auf Grund der Erhebung nach der Krankenhausstatistik-Verordnung vorliegen, entfällt die Pflicht der Erhebungseinheiten zur Übermittlung dieser Angaben. Stattdessen sind die bereits im Rahmen der Krankenhausstatistik-Verordnung gemachten Einzelangaben für Zwecke der strukturstatistischen Erhebungen zu nutzen. Für alle anderen Erhebungsmerkmale, die nicht bereits auf Grund der Erhebung im Rahmen der Krankenhausstatistik-Verordnung vorliegen, besteht die Auskunftspflicht der Erhebungseinheiten fort.
 
-
-## § 13 – Nutzung der Daten für Zwecke der Preisstatistik
+# § 13 – Nutzung der Daten für Zwecke der Preisstatistik
 
 (1) Die Erhebungsmerkmale nach § 9 Absatz 1 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a und Nummer 3 Buchstabe a und c dürfen verwendet werden für die Auswahl von Erhebungseinheiten für die Statistik der Erzeugerpreise für Dienstleistungen nach § 2 Nummer 2 bis 4 des Gesetzes über die Preisstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 720-9, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 10. Dezember 2019 (BGBl. I S. 2117) geändert worden ist.
 
@@ -288,18 +273,15 @@ b) die Statistik der Einzelhandelspreise, Werk- und Dienstleistungspreise, Verke
 
 Für die in Satz 1 Nummer 2 Buchstabe b genannte Statistik dürfen zusätzlich die Erhebungsmerkmale nach § 9 Absatz 1 Nummer 1 Buchstabe b und Nummer 3 Buchstabe c verwendet werden.
 
-
-## § 14 – Übermittlungsregelung
+# § 14 – Übermittlungsregelung
 
 Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen den obersten Bundes- und Landesbehörden für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung Tabellen mit statistischen Ergebnissen übermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Für die Regelung von Einzelfällen dürfen keine Tabellen übermittelt werden.
 
-
-## § 15 – Durchführung
+# § 15 – Durchführung
 
 Die Angaben zu den konjunktur- und strukturstatistischen Erhebungen im Wirtschaftszweig 46 werden vom Statistischen Bundesamt erhoben und aufbereitet.
 
-
-## § 16 – Übergangsregelung
+# § 16 – Übergangsregelung
 
 (1) Die Pflicht zur Auskunftserteilung bei den Erhebungsmerkmalen in der Gliederung nach Geschäftsfeldern gemäß § 6 Absatz 1 Satz 2 und 3 entsteht erst im Jahr 2022.
 

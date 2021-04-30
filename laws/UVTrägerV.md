@@ -1,5 +1,3 @@
-# [UVTrägerV] Verordnung über Träger der Unfallversicherung
-
-Ausfertigungsdatum: 17.05.1929
-
+% Verordnung über Träger der Unfallversicherung
+% Ausfertigungsdatum: 17.05.1929
  

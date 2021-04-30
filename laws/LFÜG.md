@@ -1,10 +1,7 @@
-# [LFÜG] Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
-
-Ausfertigungsdatum: 01.09.2005
-
+% Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
+% Ausfertigungsdatum: 01.09.2005
  
-
-## § 1 – Weitere Anwendung von Vorschriften
+# § 1 – Weitere Anwendung von Vorschriften
 
 (1) Solange noch nicht auf Grund der Ermächtigungen des Lebensmittel- und Futtermittelgesetzbuches neue Regelungen getroffen worden sind, sind, auch soweit dies zur Vermeidung von Strafbarkeitslücken und Lücken in der Bußgeldbewehrung erforderlich ist,
 
@@ -46,8 +43,7 @@ in der bis zum 6. September 2005 geltenden Fassung hinsichtlich der Verfolgung v
 
 (+++ § 1 Abs. 1 Satz 2: Zur Anwendung vgl. § 37b FuttMV 1981 +++)
 
-
-## § 2 – Geltung von Vorschriften
+# § 2 – Geltung von Vorschriften
 
 (1) § 6 Abs. 1 Nr. 2, § 8 Abs. 1 Nr. 2, § 9 Abs. 1, § 10 Abs. 1 Nr. 3, § 28 Abs. 2, § 33 Abs. 2 und § 34 Abs. 2 des Lebensmittel- und Futtermittelgesetzbuches gelten auch für Regelungen in Rechtsverordnungen, die auf Grund des § 9 Abs. 1 Nr. 1, § 12 Abs. 1 oder 2 Nr. 1, 2, soweit dort auf § 11 Abs. 2 Nr. 1 und auf Ionenaustauscher verwiesen wird, Nr. 3 oder 4, des § 13 Abs. 2, des § 14 Abs. 2 Nr. 1 Buchstabe a, des § 15 Abs. 3 Nr. 1 Buchstabe a, des § 26 Abs. 1 Nr. 2 oder 3, dieser in Verbindung mit § 32 Abs. 1 Nr. 1 bis 3 und 5, des § 31 Abs. 2, des § 32 Abs. 1 Nr. 1 bis 3, 5 und 6 des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), das zuletzt durch Artikel 5 des Gesetzes vom 13. Mai 2004 (BGBl. I S. 934) geändert worden ist, in der bis zum 6. September 2005 geltenden Fassung erlassen worden sind.
 
@@ -69,13 +65,11 @@ jeweils in der bis zum 6. September 2005 geltenden Fassung erlassen worden sind.
 
 erlassen worden sind.
 
-
-## § 3 – Anpassung von Vorschriften
+# § 3 – Anpassung von Vorschriften
 
 \-
 
-
-## § 4 – Verweisungen
+# § 4 – Verweisungen
 
 (1) Soweit in bundesrechtlichen Vorschriften außerhalb dieses Gesetzes, die am 7. September 2005 bestehen, auf nachfolgend in Spalte 1 genannte Vorschriften des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), zuletzt geändert durch Artikel 5 des Gesetzes vom 13. Mai 2004 (BGBl. I S. 934), in der bis zum 6. September 2005 geltenden Fassung verwiesen wird, gilt dieser Verweis als Verweis auf die nachfolgend in Spalte 2 jeweils genannte Vorschrift des Lebensmittel- und Futtermittelgesetzbuches, soweit sich aus Absatz 5 oder aus § 3 nichts anderes ergibt:  
 
@@ -129,7 +123,6 @@ erlassen worden sind.
 
 (6) Soweit in Rechtsverordnungen, die am 7. September 2005 bestehen, auf im Futtermittelgesetz in der Fassung der Bekanntmachung vom 25. August 2000 (BGBl. I S. 1358), zuletzt geändert durch Artikel 1 des Gesetzes vom 21. Juli 2004 (BGBl. I S. 1756), in der bis zum 6. September 2005 geltenden Fassung enthaltene Begriffsbestimmungen verwiesen wird oder solche Begriffsbestimmungen verwendet werden, sind diese bis zum Erlass anderweitiger Begriffsbestimmungen in diesen Rechtsverordnungen auf Grund der Ermächtigungen des Lebensmittel- und Futtermittelgesetzbuches weiter anzuwenden.
 
-
-## § 5 – Ermächtigung
+# § 5 – Ermächtigung
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Verweise in bundesrechtlichen Vorschriften auf andere als in § 1 Abs. 4 genannte Vorschriften des Lebensmittel- und Bedarfsgegenständegesetzes in der Fassung der Bekanntmachung vom 9. September 1997 (BGBl. I S. 2296), zuletzt geändert durch Artikel 5 des Gesetzes vom 13. Mai 2004 (BGBl. I S. 934), in der bis zum 6. September 2005 geltenden Fassung durch Verweise auf inhaltsgleiche Vorschriften des Lebensmittel- und Futtermittelgesetzbuches zu ersetzen.

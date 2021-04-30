@@ -1,15 +1,11 @@
-# [LAP-hDEUKV] Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Dienst bei der Eisenbahn-Unfallkasse
-
-Ausfertigungsdatum: 12.03.2002
-
+% Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Dienst bei der Eisenbahn-Unfallkasse
+% Ausfertigungsdatum: 12.03.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit § 2 Abs. 4 und § 27 Abs. 1 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 8. März 1990 (BGBl. I S. 449, 863), von denen § 2 Abs. 4 durch Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I S. 706) neu gefasst und § 27 Abs. 1 durch Artikel 1 Nr. 10 der Verordnung vom 15. April 1999 (BGBl. I S. 706) geändert worden ist, verordnet der Vorstand der Eisenbahn-Unfallkasse im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |      |                                                    |
 |:-----|:---------------------------------------------------|
@@ -33,8 +29,7 @@ Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Be
 | § 18 | Aufstieg für besondere Verwendungen                |
 | § 19 | Inkrafttreten                                      |
 
-
-## § 1 – Laufbahnämter
+# § 1 – Laufbahnämter
 
 (1) Die Laufbahn des höheren technischen Dienstes bei der Eisenbahn-Unfallkasse umfasst den Vorbereitungsdienst, die Probezeit und alle Ämter dieser Laufbahn.
 
@@ -92,18 +87,15 @@ Leitende Technische Verwaltungsdirektorin/Leitender Technischer Verwaltungsdirek
 
 (4) Die Beamtinnen und Beamten des höheren technischen Dienstes bei der Eisenbahn-Unfallkasse sind in der Regel als Aufsichtspersonen in den Bereichen Prävention und Gesundheitsschutz tätig.
 
-
-## § 2 – Ziel des Vorbereitungsdienstes
+# § 2 – Ziel des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst vermittelt den Technischen Verwaltungsreferendarinnen und Technischen Verwaltungsreferendaren auf der Grundlage des vorher abgeleisteten Studiums an einer technischen Hochschule die wissenschaftlichen Erkenntnisse und Methoden sowie die berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die zur Erfüllung der Aufgaben in der Laufbahn des höheren technischen Dienstes bei der Eisenbahn-Unfallkasse erforderlich sind.
 
-
-## § 3 – Einstellungsbehörde
+# § 3 – Einstellungsbehörde
 
 Einstellungsbehörde ist die Eisenbahn-Unfallkasse. Ihr obliegen die Bedarfsermittlung, die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung, die Beaufsichtigung sowie die Betreuung der Technischen Verwaltungsreferendarinnen und Technischen Verwaltungsreferendare.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -113,8 +105,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 3. die in den §§ 4 und 5 der Prüfungsordnung des Bundesverbandes der Unfallversicherungsträger der öffentlichen Hand e.V. (BAGUV) für Aufsichtspersonen nach § 18 des Siebten Buches Sozialgesetzbuch (Prüfungsordnung) vom 15. Mai 1997 (EUK-Dialog Nr. 1/98 vom 13. März 1998, S. 109 ff.) geforderte Vorbildung nachweisen kann.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -134,8 +125,7 @@ a) des Schwerbehindertenausweises oder des Bescheides über die Gleichstellung a
 
 b) des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 Abs. 4 des Soldatenversorgungsgesetzes.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren durch Vorstellungsgespräche festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.
 
@@ -147,22 +137,19 @@ b) des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 A
 
 (5) Die Auswahlkommission bewertet die Ergebnisse der Vorstellungsgespräche. Für jedes Auswahlverfahren wird schriftlich eine Rangfolge der geeigneten Bewerberinnen und Bewerber festgelegt. Die Mitglieder der Auswahlkommission sind unabhängig und an Weisungen nicht gebunden.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 (1) Die Eisenbahn-Unfallkasse entscheidet nach dem Ergebnis des Auswahlverfahrens über die Einstellung von Bewerberinnen und Bewerbern.
 
 (2) Vor der Einstellung haben die Bewerberinnen und Bewerber Ausfertigungen der Personenstandsurkunden (Geburtsurkunde, gegebenenfalls Eheurkunde sowie Geburtsurkunden der Kinder), ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur unmittelbaren Vorlage bei der Einstellungsbehörde sowie eine Erklärung über das Vorliegen geordneter wirtschaftlicher Verhältnisse nachzureichen. Eine amtsärztliche Einstellungsuntersuchung wird durch die Eisenbahn-Unfallkasse veranlasst.
 
-
-## § 8 – Rechtsstellung während des Vorbereitungsdienstes
+# § 8 – Rechtsstellung während des Vorbereitungsdienstes
 
 (1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverhältnis auf Widerruf - Bewerberinnen zu Technischen Verwaltungsreferendarinnen und Bewerber zu Technischen Verwaltungsreferendaren ernannt. Die Referendarinnen und Referendare unterstehen der Dienstaufsicht der Einstellungsbehörde.
 
 (2) Urlaub wird auf den Vorbereitungsdienst angerechnet.
 
-
-## § 9 – Verlängerung des Vorbereitungsdienstes
+# § 9 – Verlängerung des Vorbereitungsdienstes
 
 (1) Wird die Ausbildung wegen Krankheit oder aus anderen zwingenden Gründen unterbrochen, können Ausbildungsabschnitte verkürzt und Abweichungen vom Ausbildungsplan zugelassen werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu ermöglichen.
 
@@ -172,44 +159,37 @@ b) des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach § 10 A
 
 (4) Bei Nichtbestehen der Laufbahnprüfung richtet sich die Verlängerung des Vorbereitungsdienstes nach § 19 der Prüfungsordnung vom 15. Mai 1997.
 
-
-## § 10 – Schwerbehinderte Menschen
+# § 10 – Schwerbehinderte Menschen
 
 (1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für die Erbringung von Leistungsnachweisen und für die Teilnahme an Prüfungen die ihrer Behinderung angemessenen Erleichterungen gewährt. Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu gewährenden Erleichterungen sind mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung rechtzeitig, sofern dies zeitlich möglich ist, zu erörtern. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden. Die Sätze 1 bis 4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 
 (2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.
 
-
-## § 11 – Ausbildungsmaßnahmen
+# § 11 – Ausbildungsmaßnahmen
 
 Für die Durchführung der Ausbildungsmaßnahmen (fachbezogene Ausbildung, Praxisausbildung, Ausbildungsplan, Bewertungen) gelten die Regelungen der Prüfungsordnung vom 15. Mai 1997.
 
-
-## § 12 – Laufbahnprüfung
+# § 12 – Laufbahnprüfung
 
 (1) Die nach Abschnitt III der Prüfungsordnung vom 15. Mai 1997 abzulegende Prüfung wird als Laufbahnprüfung anerkannt. Einer besonderen Zuerkennung der Befähigung bedarf es nicht.
 
 (2) Der Prüfungsausschuss nach § 8 der Prüfungsordnung von 15. Mai 1997 erteilt den Referendarinnen und Referendaren über das Ergebnis der bestandenen Prüfung ein Prüfungszeugnis. Ist die Prüfung nicht bestanden, erteilt die oder der Vorsitzende des Prüfungsausschusses hierüber einen schriftlichen Bescheid. Abschriften dieser Unterlagen sind zu den Personalakten zu nehmen.
 
-
-## § 13 – Prüfungsakten, Einsichtnahme
+# § 13 – Prüfungsakten, Einsichtnahme
 
 (1) Die Niederschriften über den Ablauf der mündlichen und schriftlichen Prüfung und die Feststellung des Gesamtergebnisses sind mit den schriftlichen Prüfungsarbeiten zu den Prüfungsakten zu nehmen. Die Prüfungsakten sind mindestens zehn Jahre aufzubewahren.
 
 (2) Die Referendarinnen und Referendare können Einsicht in die von ihnen gefertigten Prüfungsarbeiten einschließlich ihrer Bewertung nehmen.
 
-
-## § 14 – Rechtsstellung nach bestandener Prüfung, Probezeit
+# § 14 – Rechtsstellung nach bestandener Prüfung, Probezeit
 
 Nach bestandener Prüfung werden - unter Berufung in das Beamtenverhältnis auf Probe - Referendarinnen zu Technischen Verwaltungsrätinnen zur Anstellung (z. A.) und Referendare zu Technischen Verwaltungsräten zur Anstellung (z. A.) ernannt.
 
-
-## § 15 – Gleichwertige Befähigung
+# § 15 – Gleichwertige Befähigung
 
 Die Befähigung für die Laufbahn des höheren technischen Dienstes bei der Eisenbahn-Unfallkasse wird auch Bewerberinnen und Bewerbern zuerkannt, die außerhalb des Vorbereitungsdienstes eine Ausbildung als Aufsichtsperson gemäß § 18 des Siebten Buches Sozialgesetzbuch abgeschlossen haben und insbesondere die Vorbildungsvoraussetzung nach § 4 Nummer 2 besitzen. Diese Bewerberinnen und Bewerber werden direkt - unter Berufung in das Beamtenverhältnis auf Probe - zu Technischen Verwaltungsrätinnen zur Anstellung (z. A.) oder zu Technischen Verwaltungsräten zur Anstellung (z. A.) ernannt. Sie gelten als Regellaufbahnbewerberinnen und Regellaufbahnbewerber.
 
-
-## § 16 – Allgemeine Regelungen über den Aufstieg
+# § 16 – Allgemeine Regelungen über den Aufstieg
 
 (1) Über die Zulassung zum Aufstieg in den höheren technischen Dienst bei der Eisenbahn-Unfallkasse entscheidet der Vorstand der Eisenbahn-Unfallkasse. Vorschläge von geeigneten Beamtinnen und Beamten sind von den jeweiligen Abteilungsleiterinnen oder Abteilungsleitern an die Geschäftsführung zu richten. Beamtinnen und Beamte können sich auch selbst um Zulassung zum Aufstieg auf dem Dienstweg bewerben.
 
@@ -219,8 +199,7 @@ Die Befähigung für die Laufbahn des höheren technischen Dienstes bei der Eise
 
 (4) Ein Amt der Laufbahn des höheren Dienstes darf den Beamtinnen und Beamten erst verliehen werden, wenn sie sich in den Aufgaben der höheren Laufbahn bewährt haben. Für die Übertragung des ersten Beförderungsamtes der neuen Laufbahn darf die Bewährungszeit nach Erwerb der Laufbahnbefähigung ein Jahr nicht unterschreiten.
 
-
-## § 17 – Regelaufstieg
+# § 17 – Regelaufstieg
 
 (1) Beamtinnen und Beamte des gehobenen technischen Dienstes können zum Aufstieg in den höheren technischen Dienst bei der Eisenbahn-Unfallkasse gemäß § 33 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, zugelassen werden, wenn sie
 
@@ -234,8 +213,7 @@ Die Befähigung für die Laufbahn des höheren technischen Dienstes bei der Eise
 
 (3) Soweit Beamtinnen oder Beamte während ihrer bisherigen Tätigkeit schon hinreichende Kenntnisse erworben haben, wie sie für die neue Laufbahn gefordert werden, kann die Einführungszeit um höchstens ein Jahr verkürzt werden.
 
-
-## § 18 – Aufstieg für besondere Verwendungen
+# § 18 – Aufstieg für besondere Verwendungen
 
 (1) Beamtinnen und Beamte des gehobenen technischen Dienstes können zum Aufstieg in den höheren technischen Dienst gemäß § 33a der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459, 2761), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist, zugelassen werden, wenn sie
 
@@ -249,7 +227,6 @@ Die Befähigung für die Laufbahn des höheren technischen Dienstes bei der Eise
 
 (3) Soweit Beamtinnen oder Beamte während ihrer bisherigen Tätigkeit schon hinreichende Kenntnisse erworben haben, wie sie für die neue Laufbahn gefordert werden, kann die Einführungszeit um höchstens sechs Monate verkürzt werden.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

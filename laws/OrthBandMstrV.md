@@ -1,15 +1,11 @@
-# [OrthBandMstrV] Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orthopädiemechaniker- und Bandagisten-Handwerk  (Orthopädiemechaniker- und Bandagistenmeisterverordnung - OrthBandMstrV)
-
-Ausfertigungsdatum: 26.04.1994
-
+% Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Orthopädiemechaniker- und Bandagisten-Handwerk  (Orthopädiemechaniker- und Bandagistenmeisterverordnung - OrthBandMstrV)
+% Ausfertigungsdatum: 26.04.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch Artikel 24 Nr. 1 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
-
-## § 1 – Berufsbild
+# § 1 – Berufsbild
 
 (1) Dem Orthopädiemechaniker- und Bandagisten-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
@@ -87,8 +83,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 30. Instandhalten der berufsbezogenen Werkzeuge, Geräte, Maschinen und Anlagen.
 
-
-## § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
+# § 2 – Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
 
 (1) In Teil I sind eine Meisterprüfungsarbeit anzufertigen und eine Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt werden.
 
@@ -96,8 +91,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils ausreichende Leistungen in der Meisterprüfungsarbeit und in der Arbeitsprobe.
 
-
-## § 3 – Meisterprüfungsarbeit
+# § 3 – Meisterprüfungsarbeit
 
 (1) Als Meisterprüfungsarbeit ist aus jedem der nachstehend genannten Bereiche eine Arbeit anzufertigen:
 
@@ -137,8 +131,7 @@ g) eine Orthese zur Fixation der Halswirbelsäule.
 
 (3) Die fertigen Arbeiten sind dem Prüfungsausschuß am Patienten vorzuführen.
 
-
-## § 4 – Arbeitsprobe
+# § 4 – Arbeitsprobe
 
 (1) Als Arbeitsprobe sind vier der nachstehend genannten Arbeiten, davon in jedem Fall eine nach Nummer 7 oder 8, auszuführen:
 
@@ -160,8 +153,7 @@ g) eine Orthese zur Fixation der Halswirbelsäule.
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur unzureichend nachgewiesen werden konnten.
 
-
-## § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
+# § 5 – Prüfung der fachtheoretischen Kenntnisse (Teil II)
 
 (1) In Teil II sind Kenntnisse in den folgenden fünf Prüfungsfächern nachzuweisen:
 
@@ -225,17 +217,14 @@ Kostenermittlung unter Einbeziehung aller für die Preisbildung wesentlichen Fak
 
 (5) Mindestvoraussetzung für das Bestehen des Teils II sind ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 3.
 
-
-## § 6 – Übergangsvorschrift
+# § 6 – Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 7 – Weitere Anforderungen
+# § 7 – Weitere Anforderungen
 
 Die weiteren Anforderungen in der Meisterprüfung bestimmen sich nach der Verordnung über gemeinsame Anforderungen in der Meisterprüfung im Handwerk vom 12. Dezember 1972 (BGBl. I S. 2381) in der jeweils geltenden Fassung.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1994 in Kraft.

@@ -1,15 +1,11 @@
-# [SatDSiV] Verordnung zum Satellitendatensicherheitsgesetz  (Satellitendatensicherheitsverordnung - SatDSiV)
-
-Ausfertigungsdatum: 26.03.2008
-
+% Verordnung zum Satellitendatensicherheitsgesetz  (Satellitendatensicherheitsverordnung - SatDSiV)
+% Ausfertigungsdatum: 26.03.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 2 des Satellitendatensicherheitsgesetzes vom 23. November 2007 (BGBl. I S. 2590) und auf Grund des § 17 Abs. 3 Satz 1 des Satellitendatensicherheitsgesetzes im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium des Innern und dem Bundesministerium der Verteidigung verordnet das Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Daten mit besonders hohem Informationsgehalt
+# § 1 – Daten mit besonders hohem Informationsgehalt
 
 (1) Ein Sensor eines Erdfernerkundungssystems ist alleine oder in Kombination mit einem oder mehreren Sensoren technisch in der Lage, Daten mit besonders hohem Informationsgehalt zu erzeugen, wenn in mindestens einer Raumrichtung eine geometrische Auflösung von 2,5 Metern oder weniger erzeugt werden kann.
 
@@ -21,8 +17,7 @@ Auf Grund des § 2 Abs. 2 des Satellitendatensicherheitsgesetzes vom 23. Novembe
 
 3. die Zahl der Spektralkanäle 49 übersteigt (super- und hyperspektrale Sensoren) und in mindestens einer Raumrichtung eine geometrische Auflösung von 10 Metern oder weniger erzeugt werden kann.
 
-
-## § 2 – Sensitive Anfragen
+# § 2 – Sensitive Anfragen
 
 (1) Eine Anfrage der Bundesrepublik Deutschland nach § 21 des Satellitendatensicherheitsgesetzes oder einer deutschen militärischen oder nachrichtendienstlichen Behörde ist nicht sensitiv.
 
@@ -48,13 +43,11 @@ oder
 
 (3) Der Prüfablauf zur Bestimmung sensitiver Anfragen nach Absatz 1 und 2 ist in Anlage 5 als Abfolge der Entscheidungsschritte in einem Flussdiagramm dargestellt.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Die Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2 Abs. 2 Nr. 1)Bodenstationsnegativliste
+# Anlage 1 – (zu § 2 Abs. 2 Nr. 1)Bodenstationsnegativliste
 
 Staatsgebiet Armenien  
 Staatsgebiet Aserbaidschan  
@@ -78,15 +71,13 @@ Staatsgebiet Turkmenistan
 Staatsgebiet Usbekistan  
 Staatsgebiet Weißrussland
 
-
-## Anlage 2 – (zu § 2 Abs. 2 Nr. 2)Gebietspositivliste
+# Anlage 2 – (zu § 2 Abs. 2 Nr. 2)Gebietspositivliste
 
 Antarktischer Kontinent und angrenzende Meere (alle Gebiete südlich von –60° geographischer Breite)
 
 Nordpolarer Teil der Arktis (alle Gebiete nördlich von 84° geographischer Breite)
 
-
-## Anlage 3 – (zu § 2 Absatz 2 Nummer 2 Buchstabe a)Gebietsnegativliste
+# Anlage 3 – (zu § 2 Absatz 2 Nummer 2 Buchstabe a)Gebietsnegativliste
 
 (Fundstelle: BGBl. I 2013, 1314)
 
@@ -142,8 +133,7 @@ Staatsgebiet Zentralafrikanische Republik
 
 Staatsgebiet Zypern
 
-
-## Anlage 4 – (zu § 2 Abs. 2 Nr. 2 Buchstabe b)Empfängerpositivliste
+# Anlage 4 – (zu § 2 Abs. 2 Nr. 2 Buchstabe b)Empfängerpositivliste
 
 1. Sicherheitsbehörden (militärische, nachrichtendienstliche, polizeiliche) der NATO, der Europäischen Union oder eines ihrer Mitgliedstaaten auf nationaler Ebene.
 
@@ -159,7 +149,6 @@ c) die zusichern, die Datenanfrage innerhalb des Auftrags der jeweiligen Sicherh
 
 d) bei denen dem Datenanbieter keine tatsächlichen Anhaltspunkte für begangene oder bevorstehende Verstöße gegen ihre Zusicherung nach Buchstabe c vorliegen.
 
+# Anlage 5 – (zu § 2 Abs. 1 und 2)Übersicht über den Prüfablauf
 
-## Anlage 5 – (zu § 2 Abs. 1 und 2)Übersicht über den Prüfablauf
-
-![](../normengrafiken/bgbl1_2008/j0508-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2008/j0508-1_0010.jpg)

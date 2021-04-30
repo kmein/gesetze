@@ -1,24 +1,19 @@
-# [BetrPrämDurchfV] Verordnung zur Durchführung der einheitlichen Betriebsprämie  (Betriebsprämiendurchführungsverordnung - BetrPrämDurchfV)
-
-Ausfertigungsdatum: 03.12.2004
-
+% Verordnung zur Durchführung der einheitlichen Betriebsprämie  (Betriebsprämiendurchführungsverordnung - BetrPrämDurchfV)
+% Ausfertigungsdatum: 03.12.2004
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union über die Betriebsprämienregelung und des Betriebsprämiendurchführungsgesetzes.
 
 (+++ § 1: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F. 2010-05-07 +++)
 
-
-## § 2 – Regionaler Durchschnitt
+# § 2 – Regionaler Durchschnitt
 
 Für die Anwendung des Anhangs IX Abschnitt B der Verordnung (EG) Nr. 73/2009 mit gemeinsamen Regeln für Direktzahlungen im Rahmen der gemeinsamen Agrarpolitik und mit bestimmten Stützungsregelungen für Inhaber landwirtschaftlicher Betriebe und zur Änderung der Verordnungen (EG) Nr. 1290/2005, (EG) Nr. 247/2006, (EG) Nr. 378/2007 sowie zur Aufhebung der Verordnung (EG) Nr. 1782/2003 (ABl. L 30 vom 31.01.2009, S. 16) in der jeweils geltenden Fassung ist der regionale Durchschnitt des Werts der Zahlungsansprüche der jeweiligen Region gleich dem regionalen Zielwert nach § 6 Absatz 1 des Betriebsprämiendurchführungsgesetzes.
 
 (+++ § 2: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 3 – Verfügbarkeit der beihilfefähigen Fläche, landwirtschaftliche Mindesttätigkeit
+# § 3 – Verfügbarkeit der beihilfefähigen Fläche, landwirtschaftliche Mindesttätigkeit
 
 (1) Die im Sammelantrag nach § 7 der InVeKoS-Verordnung für die Betriebsprämie angemeldeten beihilfefähigen Flächen müssen dem Betriebsinhaber an dem sich aus § 7 Absatz 1 der InVeKoS-Verordnung ergebenden letzten Tag für die Einreichung des Sammelantrags in dem Kalenderjahr, für das die Betriebsprämie beantragt wird, zur Verfügung stehen.
 
@@ -26,40 +21,33 @@ Für die Anwendung des Anhangs IX Abschnitt B der Verordnung (EG) Nr. 73/2009 mi
 
 (+++ § 3: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 3a – Niederwald mit Kurzumtrieb
+# § 3a – Niederwald mit Kurzumtrieb
 
 Die Liste der für Niederwald mit Kurzumtrieb bei der Betriebsprämie geeigneten Arten und deren maximale Erntezyklen wird von der Bundesanstalt für Landwirtschaft und Ernährung im Bundesanzeiger bekannt gemacht.
 
 (+++ § 3a: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 3b – (weggefallen)
+# § 3b – (weggefallen)
 
 (+++ § 3b: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## §§ 4 bis 9a – (weggefallen)
+# §§ 4 bis 9a – (weggefallen)
 
 (+++ § Abschn. 2 (§§ 4 bis 9a): Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
+# §§ 10 und 11 – (weggefallen)
 
-## §§ 10 und 11 – (weggefallen)
-
-
-## § 12 – Flächenbezogene Beträge für Dauergrünland und sonstige beihilfefähige Flächen
+# § 12 – Flächenbezogene Beträge für Dauergrünland und sonstige beihilfefähige Flächen
 
 (1) Für die Anwendung der §§ 14 bis 18 entspricht der flächenbezogene Betrag je Hektar für Dauergrünland dem Betrag, der in der jeweiligen Region im Sinne des § 2 Abs. 2 des Betriebsprämiendurchführungsgesetzes im Jahr 2005 nach § 5 Abs. 3 Satz 1 Nr. 2 des Betriebsprämiendurchführungsgesetzes oder auf Grund einer Rechtsverordnung nach § 5 Abs. 3 Satz 2 des Betriebsprämiendurchführungsgesetzes für beihilfefähige Flächen, die am 15. Mai 2003 als Dauergrünland genutzt wurden, angewendet wurde.
 
 (2) Für die Anwendung der §§ 14 bis 18 entspricht der flächenbezogene Betrag je Hektar für sonstige beihilfefähige Flächen dem Betrag, der in der jeweiligen Region im Sinne des § 2 Abs. 2 des Betriebsprämiendurchführungsgesetzes im Jahr 2005 nach § 5 Abs. 3 Satz 1 Nr. 2 des Betriebsprämiendurchführungsgesetzes oder auf Grund einer Rechtsverordnung nach § 5 Abs. 3 Satz 2 des Betriebsprämiendurchführungsgesetzes für sonstige beihilfefähige Flächen angewendet wurde.
 
-
-## § 13 – (weggefallen)
+# § 13 – (weggefallen)
 
 (+++ § 13: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 14 – Übertragung verpachteter Flächen im Falle des Artikels 20 der Verordnung (EG) Nr. 1120/2009
+# § 14 – Übertragung verpachteter Flächen im Falle des Artikels 20 der Verordnung (EG) Nr. 1120/2009
 
 (1) In Fällen der Übertragung eines verpachteten Betriebes oder Betriebsteiles im Sinne des Artikels 20 der Verordnung (EG) Nr. 1120/2009 wird bei der Ermittlung des Referenzbetrages nur dann ein betriebsindividueller Betrag zugrunde gelegt, wenn Gegenstand der Übertragung nicht ausschließlich Flächen sind. Ein betriebsindividueller Betrag wird nur in dem Umfang zugrunde gelegt, in dem Prämienansprüche, Lieferrechte oder Produktionsquoten im Rahmen der Verpachtung des Betriebes oder Betriebsteiles an den in Artikel 20 Absatz 1 der Verordnung (EG) Nr. 1120/2009 bezeichneten Dritten mit übertragen worden sind. Ein betriebsindividueller Zuckergrundbetrag wird nur in dem Umfang zugrunde gelegt, in dem der in Artikel 20 der Verordnung (EG) Nr. 1120/2009 genannte Dritte mit der Pachtsache das Recht erhalten hat, Verträge im Sinne des § 5a Abs. 2 Satz 1 oder 2 des Betriebsprämiendurchführungsgesetzes abzuschließen (Zuckerrübenlieferrecht). Ein Stärkekartoffelerhöhungsbetrag wird nur in dem Umfang zugrunde gelegt, in dem der in Artikel 20 der Verordnung (EG) Nr. 1120/2009 genannte Dritte mit der Pachtsache das Recht erhalten hat, Verträge im Sinne des § 5b Absatz 1 Satz 1 des Betriebsprämiendurchführungsgesetzes abzuschließen (Stärkekartoffellieferrecht).
 
@@ -115,13 +103,11 @@ Die Zahl der Zahlungsansprüche ergibt sich, indem die beihilfefähige Hektarzah
 
 (+++ § 14: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F. 2010-05-07 +++)
 
-
-## § 15 – (weggefallen)
+# § 15 – (weggefallen)
 
 (+++ § 15: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 16 – Pacht oder Kauf eines Betriebes oder Betriebsteiles im Falle des Artikels 22 der Verordnung (EG) Nr. 1120/2009
+# § 16 – Pacht oder Kauf eines Betriebes oder Betriebsteiles im Falle des Artikels 22 der Verordnung (EG) Nr. 1120/2009
 
 (1) In Fällen der Pacht oder des Kaufs eines Betriebes oder Betriebsteiles im Sinne des Artikels 22 der Verordnung (EG) Nr. 1120/2009 wird bei der Ermittlung des Referenzbetrages nur dann ein betriebsindividueller Betrag zugrunde gelegt, wenn Gegenstand des Pacht- oder Kaufvertrages nicht ausschließlich Flächen sind. Ein betriebsindividueller Betrag wird nur in dem Umfang zugrunde gelegt, in dem Prämienansprüche, Lieferrechte, Zuckerrübenlieferrechte oder Produktionsquoten im Rahmen des Verkaufs oder der Verpachtung des Betriebes oder Betriebsteiles mit übertragen worden sind. § 14 Abs. 2 gilt entsprechend.
 
@@ -155,28 +141,23 @@ als Teil des Referenzbetrages ein gesonderter Betrag entsprechend § 5 Abs. 4b d
 
 (+++ § 16: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F. 2010-05-07 +++)
 
-
-## §§ 17 und 18 – (weggefallen)
+# §§ 17 und 18 – (weggefallen)
 
 (+++ §§ 17 bis 19: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
+# §§ 18a bis 18c – (weggefallen)
 
-## §§ 18a bis 18c – (weggefallen)
-
-
-## § 19 – (weggefallen)
+# § 19 – (weggefallen)
 
 (+++ § 17 bis 19: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 20 – Zuständige Verwaltungsbehörde
+# § 20 – Zuständige Verwaltungsbehörde
 
 Verwaltungsbehörde im Sinne des Marktorganisationsgesetzes und des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist soweit im Rahmen dieser Verordnung die in § 1 genannten Rechtsakte, das Marktorganisationsgesetz und diese Verordnung von den Ländern durchgeführt werden, vorbehaltlich einer Regelung nach § 38 Absatz 3 Satz 4 des Marktorganisationsgesetzes die zuständige oberste Landesbehörde.
 
 (+++ § 20: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)
 
-
-## § 21 – Übergangsregelung
+# § 21 – Übergangsregelung
 
 Die mit der Verordnung vom 7. Mai 2010 aufgehobenen, ersetzten oder geänderten Vorschriften dieser Verordnung sind
 
@@ -186,10 +167,8 @@ Die mit der Verordnung vom 7. Mai 2010 aufgehobenen, ersetzten oder geänderten 
 
 in der am 10. Mai 2010 geltenden Fassung weiter anzuwenden.
 
+# § 22 – (Inkrafttreten)
 
-## § 22 – (Inkrafttreten)
-
-
-## Anlage 1 bis 3 – (weggefallen)
+# Anlage 1 bis 3 – (weggefallen)
 
 (+++ Anlage 1 bis 3: Zur Weiteranwendung in der am 10.5.2010 geltenden Fassung vgl. § 21 F 2010-05-07 +++)

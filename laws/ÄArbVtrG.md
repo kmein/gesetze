@@ -1,15 +1,11 @@
-# [ÄArbVtrG] Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung
-
-Ausfertigungsdatum: 15.05.1986
-
+% Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung
+% Ausfertigungsdatum: 15.05.1986
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## § 1 – Befristung von Arbeitsverträgen
+# § 1 – Befristung von Arbeitsverträgen
 
 (1) Ein die Befristung eines Arbeitsvertrags mit einem Arzt rechtfertigender sachlicher Grund liegt vor, wenn die Beschäftigung des Arztes seiner zeitlich und inhaltlich strukturierten Weiterbildung zum Facharzt oder dem Erwerb einer Anerkennung für einen Schwerpunkt oder dem Erwerb einer Zusatzbezeichnung, eines Fachkundenachweises oder einer Bescheinigung über eine fakultative Weiterbildung dient.
 
@@ -35,12 +31,10 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 (7) Die Absätze 1 bis 6 gelten auch für die Beschäftigung eines Psychotherapeuten im Rahmen einer zeitlich und inhaltlich strukturierten Weiterbildung zum Fachpsychotherapeuten.
 
-
-## § 2 – Berlin-Klausel
+# § 2 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

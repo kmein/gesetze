@@ -1,17 +1,13 @@
-# [StVO] Straßenverkehrs-Ordnung  (StVO)
-
-Ausfertigungsdatum: 06.03.2013
-
+% Straßenverkehrs-Ordnung  (StVO)
+% Ausfertigungsdatum: 06.03.2013
  
-
-## § 1 – Grundregeln
+# § 1 – Grundregeln
 
 (1) Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksicht.
 
 (2) Wer am Verkehr teilnimmt hat sich so zu verhalten, dass kein Anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird.
 
-
-## § 2 – Straßenbenutzung durch Fahrzeuge
+# § 2 – Straßenbenutzung durch Fahrzeuge
 
 (1) Fahrzeuge müssen die Fahrbahnen benutzen, von zwei Fahrbahnen die rechte. Seitenstreifen sind nicht Bestandteil der Fahrbahn.
 
@@ -55,8 +51,7 @@ Wer ein kennzeichnungspflichtiges Fahrzeug mit gefährlichen Gütern führt, mus
 
 (5) Kinder bis zum vollendeten achten Lebensjahr müssen, Kinder bis zum vollendeten zehnten Lebensjahr dürfen mit Fahrrädern Gehwege benutzen. Ist ein baulich von der Fahrbahn getrennter Radweg vorhanden, so dürfen abweichend von Satz 1 Kinder bis zum vollendeten achten Lebensjahr auch diesen Radweg benutzen. Soweit ein Kind bis zum vollendeten achten Lebensjahr von einer geeigneten Aufsichtsperson begleitet wird, darf diese Aufsichtsperson für die Dauer der Begleitung den Gehweg ebenfalls mit dem Fahrrad benutzen; eine Aufsichtsperson ist insbesondere geeignet, wenn diese mindestens 16 Jahre alt ist. Auf zu Fuß Gehende ist besondere Rücksicht zu nehmen. Der Fußgängerverkehr darf weder gefährdet noch behindert werden. Soweit erforderlich, muss die Geschwindigkeit an den Fußgängerverkehr angepasst werden. Wird vor dem Überqueren einer Fahrbahn ein Gehweg benutzt, müssen die Kinder und die diese begleitende Aufsichtsperson absteigen.
 
-
-## § 3 – Geschwindigkeit
+# § 3 – Geschwindigkeit
 
 (1) Wer ein Fahrzeug führt, darf nur so schnell fahren, dass das Fahrzeug ständig beherrscht wird. Die Geschwindigkeit ist insbesondere den Straßen-, Verkehrs-, Sicht- und Wetterverhältnissen sowie den persönlichen Fähigkeiten und den Eigenschaften von Fahrzeug und Ladung anzupassen. Beträgt die Sichtweite durch Nebel, Schneefall oder Regen weniger als 50 m, darf nicht schneller als 50 km/h gefahren werden, wenn nicht eine geringere Geschwindigkeit geboten ist. Es darf nur so schnell gefahren werden, dass innerhalb der übersehbaren Strecke gehalten werden kann. Auf Fahrbahnen, die so schmal sind, dass dort entgegenkommende Fahrzeuge gefährdet werden könnten, muss jedoch so langsam gefahren werden, dass mindestens innerhalb der Hälfte der übersehbaren Strecke gehalten werden kann.
 
@@ -105,8 +100,7 @@ Diese Geschwindigkeitsbeschränkung gilt nicht auf Autobahnen (Zeichen 330.1) so
 
 (4) Die zulässige Höchstgeschwindigkeit beträgt für Kraftfahrzeuge mit Schneeketten auch unter günstigsten Umständen 50 km/h.
 
-
-## § 4 – Abstand
+# § 4 – Abstand
 
 (1) Der Abstand zu einem vorausfahrenden Fahrzeug muss in der Regel so groß sein, dass auch dann hinter diesem gehalten werden kann, wenn es plötzlich gebremst wird. Wer vorausfährt, darf nicht ohne zwingenden Grund stark bremsen.
 
@@ -120,8 +114,7 @@ Diese Geschwindigkeitsbeschränkung gilt nicht auf Autobahnen (Zeichen 330.1) so
 
 (3) Wer einen Lastkraftwagen mit einer zulässigen Gesamtmasse über 3,5 t oder einen Kraftomnibus führt, muss auf Autobahnen, wenn die Geschwindigkeit mehr als 50 km/h beträgt, zu vorausfahrenden Fahrzeugen einen Mindestabstand von 50 m einhalten.
 
-
-## § 5 – Überholen
+# § 5 – Überholen
 
 (1) Es ist links zu überholen.
 
@@ -147,13 +140,11 @@ Diese Geschwindigkeitsbeschränkung gilt nicht auf Autobahnen (Zeichen 330.1) so
 
 (8) Ist ausreichender Raum vorhanden, dürfen Rad Fahrende und Mofa Fahrende die Fahrzeuge, die auf dem rechten Fahrstreifen warten, mit mäßiger Geschwindigkeit und besonderer Vorsicht rechts überholen.
 
-
-## § 6 – Vorbeifahren
+# § 6 – Vorbeifahren
 
 Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder einem haltenden Fahrzeug links vorbeifahren will, muss entgegenkommende Fahrzeuge durchfahren lassen. Satz 1 gilt nicht, wenn der Vorrang durch Verkehrszeichen (Zeichen 208, 308) anders geregelt ist. Muss ausgeschert werden, ist auf den nachfolgenden Verkehr zu achten und das Ausscheren sowie das Wiedereinordnen – wie beim Überholen – anzukündigen.
 
-
-## § 7 – Benutzung von Fahrstreifen durch Kraftfahrzeuge
+# § 7 – Benutzung von Fahrstreifen durch Kraftfahrzeuge
 
 (1) Auf Fahrbahnen mit mehreren Fahrstreifen für eine Richtung dürfen Kraftfahrzeuge von dem Gebot möglichst weit rechts zu fahren (§ 2 Absatz 2) abweichen, wenn die Verkehrsdichte das rechtfertigt. Fahrstreifen ist der Teil einer Fahrbahn, den ein mehrspuriges Fahrzeug zum ungehinderten Fahren im Verlauf der Fahrbahn benötigt.
 
@@ -173,8 +164,7 @@ Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder einem halt
 
 (5) In allen Fällen darf ein Fahrstreifen nur gewechselt werden, wenn eine Gefährdung anderer Verkehrsteilnehmer ausgeschlossen ist. Jeder Fahrstreifenwechsel ist rechtzeitig und deutlich anzukündigen; dabei sind die Fahrtrichtungsanzeiger zu benutzen.
 
-
-## § 7a – Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen
+# § 7a – Abgehende Fahrstreifen, Einfädelungs- und Ausfädelungsstreifen
 
 (1) Gehen Fahrstreifen, insbesondere auf Autobahnen und Kraftfahrstraßen, von der durchgehenden Fahrbahn ab, darf beim Abbiegen vom Beginn einer breiten Leitlinie (Zeichen 340) rechts von dieser schneller als auf der durchgehenden Fahrbahn gefahren werden.
 
@@ -182,8 +172,7 @@ Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder einem halt
 
 (3) Auf Ausfädelungsstreifen darf nicht schneller gefahren werden als auf den durchgehenden Fahrstreifen. Stockt oder steht der Verkehr auf den durchgehenden Fahrstreifen, darf auf dem Ausfädelungsstreifen mit mäßiger Geschwindigkeit und besonderer Vorsicht überholt werden.
 
-
-## § 8 – Vorfahrt
+# § 8 – Vorfahrt
 
 (1) An Kreuzungen und Einmündungen hat die Vorfahrt, wer von rechts kommt. Das gilt nicht,
 
@@ -195,8 +184,7 @@ Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder einem halt
 
 (2) Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten, insbesondere durch mäßige Geschwindigkeit, erkennen lassen, dass gewartet wird. Es darf nur weitergefahren werden, wenn übersehen werden kann, dass wer die Vorfahrt hat, weder gefährdet noch wesentlich behindert wird. Kann das nicht übersehen werden, weil die Straßenstelle unübersichtlich ist, so darf sich vorsichtig in die Kreuzung oder Einmündung hineingetastet werden, bis die Übersicht gegeben ist. Wer die Vorfahrt hat, darf auch beim Abbiegen in die andere Straße nicht wesentlich durch den Wartepflichtigen behindert werden.
 
-
-## § 9 – Abbiegen, Wenden und Rückwärtsfahren
+# § 9 – Abbiegen, Wenden und Rückwärtsfahren
 
 (1) Wer abbiegen will, muss dies rechtzeitig und deutlich ankündigen; dabei sind die Fahrtrichtungsanzeiger zu benutzen. Wer nach rechts abbiegen will, hat sein Fahrzeug möglichst weit rechts, wer nach links abbiegen will, bis zur Mitte, auf Fahrbahnen für eine Richtung möglichst weit links, einzuordnen, und zwar rechtzeitig. Wer nach links abbiegen will, darf sich auf längs verlegten Schienen nur einordnen, wenn kein Schienenfahrzeug behindert wird. Vor dem Einordnen und nochmals vor dem Abbiegen ist auf den nachfolgenden Verkehr zu achten; vor dem Abbiegen ist es dann nicht nötig, wenn eine Gefährdung nachfolgenden Verkehrs ausgeschlossen ist.
 
@@ -210,13 +198,11 @@ Wer an einer Fahrbahnverengung, einem Hindernis auf der Fahrbahn oder einem halt
 
 (6) Wer ein Kraftfahrzeug mit einer zulässigen Gesamtmasse über 3,5 t innerorts führt, muss beim Rechtsabbiegen mit Schrittgeschwindigkeit fahren, wenn auf oder neben der Fahrbahn mit geradeaus fahrendem Radverkehr oder im unmittelbaren Bereich des Einbiegens mit die Fahrbahn überquerendem Fußgängerverkehr zu rechnen ist.
 
-
-## § 10 – Einfahren und Anfahren
+# § 10 – Einfahren und Anfahren
 
 Wer aus einem Grundstück, aus einer Fußgängerzone (Zeichen 242.1 und 242.2), aus einem verkehrsberuhigten Bereich (Zeichen 325.1 und 325.2) auf die Straße oder von anderen Straßenteilen oder über einen abgesenkten Bordstein hinweg auf die Fahrbahn einfahren oder vom Fahrbahnrand anfahren will, hat sich dabei so zu verhalten, dass eine Gefährdung anderer Verkehrsteilnehmer ausgeschlossen ist; erforderlichenfalls muss man sich einweisen lassen. Die Absicht einzufahren oder anzufahren ist rechtzeitig und deutlich anzukündigen; dabei sind die Fahrtrichtungsanzeiger zu benutzen. Dort, wo eine Klarstellung notwendig ist, kann Zeichen 205 stehen.
 
-
-## § 11 – Besondere Verkehrslagen
+# § 11 – Besondere Verkehrslagen
 
 (1) Stockt der Verkehr, darf trotz Vorfahrt oder grünem Lichtzeichen nicht in die Kreuzung oder Einmündung eingefahren werden, wenn auf ihr gewartet werden müsste.
 
@@ -224,8 +210,7 @@ Wer aus einem Grundstück, aus einer Fußgängerzone (Zeichen 242.1 und 242.2), 
 
 (3) Auch wer sonst nach den Verkehrsregeln weiterfahren darf oder anderweitig Vorrang hat, muss darauf verzichten, wenn die Verkehrslage es erfordert; auf einen Verzicht darf man nur vertrauen, wenn man sich mit dem oder der Verzichtenden verständigt hat.
 
-
-## § 12 – Halten und Parken
+# § 12 – Halten und Parken
 
 (1) Das Halten ist unzulässig
 
@@ -275,8 +260,7 @@ das regelmäßige Parken in der Zeit von 22.00 bis 06.00 Uhr sowie an Sonn- und 
 
 (6) Es ist platzsparend zu parken; das gilt in der Regel auch für das Halten.
 
-
-## § 13 – Einrichtungen zur Überwachung der Parkzeit
+# § 13 – Einrichtungen zur Überwachung der Parkzeit
 
 (1) An Parkuhren darf nur während des Laufens der Uhr, an Parkscheinautomaten nur mit einem Parkschein, der am oder im Fahrzeug von außen gut lesbar angebracht sein muss, für die Dauer der zulässigen Parkzeit gehalten werden. Ist eine Parkuhr oder ein Parkscheinautomat nicht funktionsfähig, darf nur bis zur angegebenen Höchstparkdauer geparkt werden. In diesem Fall ist die Parkscheibe zu verwenden (Absatz 2 Satz 1 Nummer 2). Die Parkzeitregelungen können auf bestimmte Stunden oder Tage beschränkt sein.
 
@@ -298,20 +282,17 @@ Sind in einem eingeschränkten Haltverbot für eine Zone oder einer Parkraumbewi
 
 (5) Wer ein elektrisch betriebenes Fahrzeug im Sinne des Elektromobilitätsgesetzes oder ein Carsharingfahrzeug im Sinne des Carsharinggesetzes und der entsprechenden Länderregelungen führt, muss Einrichtungen und Vorrichtungen zur Überwachung der Parkzeit nicht betätigen, soweit dies durch bevorrechtigende Zusatzzeichen zu Zeichen 290.1, 314, 314.1 oder 315 angeordnet ist. Sind im Geltungsbereich einer Anordnung im Sinne des Satzes 1 Parkuhren oder Parkscheinautomaten aufgestellt, gelten deren Anordnungen. Im Übrigen bleiben die Vorschriften über die Halt- und Parkverbote unberührt.
 
-
-## § 14 – Sorgfaltspflichten beim Ein- und Aussteigen
+# § 14 – Sorgfaltspflichten beim Ein- und Aussteigen
 
 (1) Wer ein- oder aussteigt, muss sich so verhalten, dass eine Gefährdung anderer am Verkehr Teilnehmenden ausgeschlossen ist.
 
 (2) Wer ein Fahrzeug führt, muss die nötigen Maßnahmen treffen, um Unfälle oder Verkehrsstörungen zu vermeiden, wenn das Fahrzeug verlassen wird. Kraftfahrzeuge sind auch gegen unbefugte Benutzung zu sichern.
 
-
-## § 15 – Liegenbleiben von Fahrzeugen
+# § 15 – Liegenbleiben von Fahrzeugen
 
 Bleibt ein mehrspuriges Fahrzeug an einer Stelle liegen, an der es nicht rechtzeitig als stehendes Hindernis erkannt werden kann, ist sofort Warnblinklicht einzuschalten. Danach ist mindestens ein auffällig warnendes Zeichen gut sichtbar in ausreichender Entfernung aufzustellen, und zwar bei schnellem Verkehr in etwa 100 m Entfernung; vorgeschriebene Sicherungsmittel, wie Warndreiecke, sind zu verwenden. Darüber hinaus gelten die Vorschriften über die Beleuchtung haltender Fahrzeuge.
 
-
-## § 15a – Abschleppen von Fahrzeugen
+# § 15a – Abschleppen von Fahrzeugen
 
 (1) Beim Abschleppen eines auf der Autobahn liegen gebliebenen Fahrzeugs ist die Autobahn (Zeichen 330.1) bei der nächsten Ausfahrt zu verlassen.
 
@@ -321,8 +302,7 @@ Bleibt ein mehrspuriges Fahrzeug an einer Stelle liegen, an der es nicht rechtze
 
 (4) Krafträder dürfen nicht abgeschleppt werden.
 
-
-## § 16 – Warnzeichen
+# § 16 – Warnzeichen
 
 (1) Schall- und Leuchtzeichen darf nur geben,
 
@@ -336,8 +316,7 @@ Bleibt ein mehrspuriges Fahrzeug an einer Stelle liegen, an der es nicht rechtze
 
 (4) Keine Schallzeichen im Sinne der Absätze 1 und 3 sind akustische Fahrzeugwarnsysteme im Sinne der Artikel 3 Satz 2 Nummer 22, Artikel 8 und Anhang VIII der Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 über den Geräuschpegel von Kraftfahrzeugen und von Austauschschalldämpferanlagen sowie zur Änderung der Richtlinie 2007/46/EG und zur Aufhebung der Richtlinie 70/157/EWG (ABl. L 158 vom 27.5.2014, S. 131) in der jeweils geltenden Fassung.
 
-
-## § 17 – Beleuchtung
+# § 17 – Beleuchtung
 
 (1) Während der Dämmerung, bei Dunkelheit oder wenn die Sichtverhältnisse es sonst erfordern, sind die vorgeschriebenen Beleuchtungseinrichtungen zu benutzen. Die Beleuchtungseinrichtungen dürfen nicht verdeckt oder verschmutzt sein.
 
@@ -355,8 +334,7 @@ Bleibt ein mehrspuriges Fahrzeug an einer Stelle liegen, an der es nicht rechtze
 
 (6) Suchscheinwerfer dürfen nur kurz und nicht zum Beleuchten der Fahrbahn benutzt werden.
 
-
-## § 18 – Autobahnen und Kraftfahrstraßen
+# § 18 – Autobahnen und Kraftfahrstraßen
 
 (1) Autobahnen (Zeichen 330.1) und Kraftfahrstraßen (Zeichen 331.1) dürfen nur mit Kraftfahrzeugen benutzt werden, deren durch die Bauart bestimmte Höchstgeschwindigkeit mehr als 60 km/h beträgt; werden Anhänger mitgeführt, gilt das Gleiche auch für diese. Fahrzeug und Ladung dürfen zusammen nicht höher als 4 m und nicht breiter als 2,55 m sein. Kühlfahrzeuge dürfen nicht breiter als 2,60 m sein.
 
@@ -422,8 +400,7 @@ g) für nicht in Mitgliedstaaten der Europäischen Union oder in Vertragsstaaten
 
 (11) Lastkraftwagen mit einer zulässigen Gesamtmasse über 7,5 t, einschließlich ihrer Anhänger, sowie Zugmaschinen dürfen, wenn die Sichtweite durch erheblichen Schneefall oder Regen auf 50 m oder weniger eingeschränkt ist, sowie bei Schneeglätte oder Glatteis den äußerst linken Fahrstreifen nicht benutzen.
 
-
-## § 19 – Bahnübergänge
+# § 19 – Bahnübergänge
 
 (1) Schienenfahrzeuge haben Vorrang
 
@@ -457,8 +434,7 @@ Hat das rote Blinklicht oder das rote Lichtzeichen die Form eines Pfeils, hat nu
 
 (6) Die Scheinwerfer wartender Kraftfahrzeuge dürfen niemanden blenden.
 
-
-## § 20 – Öffentliche Verkehrsmittel und Schulbusse
+# § 20 – Öffentliche Verkehrsmittel und Schulbusse
 
 (1) An Omnibussen des Linienverkehrs, an Straßenbahnen und an gekennzeichneten Schulbussen, die an Haltestellen (Zeichen 224) halten, darf, auch im Gegenverkehr, nur vorsichtig vorbeigefahren werden.
 
@@ -472,8 +448,7 @@ Hat das rote Blinklicht oder das rote Lichtzeichen die Form eines Pfeils, hat nu
 
 (6) Personen, die öffentliche Verkehrsmittel benutzen wollen, müssen sie auf den Gehwegen, den Seitenstreifen oder einer Haltestelleninsel, sonst am Rand der Fahrbahn erwarten.
 
-
-## § 21 – Personenbeförderung
+# § 21 – Personenbeförderung
 
 (1) In Kraftfahrzeugen dürfen nicht mehr Personen befördert werden, als mit Sicherheitsgurten ausgerüstete Sitzplätze vorhanden sind. Abweichend von Satz 1 dürfen in Kraftfahrzeugen, für die Sicherheitsgurte nicht für alle Sitzplätze vorgeschrieben sind, so viele Personen befördert werden, wie Sitzplätze vorhanden sind. Die Sätze 1 und 2 gelten nicht in Kraftomnibussen, bei denen die Beförderung stehender Fahrgäste zugelassen ist. Es ist verboten, Personen mitzunehmen
 
@@ -503,8 +478,7 @@ auf Rücksitzen die Verpflichtung zur Sicherung von Kindern mit amtlich genehmig
 
 (3) Auf Fahrrädern dürfen Personen von mindestens 16 Jahre alten Personen nur mitgenommen werden, wenn die Fahrräder auch zur Personenbeförderung gebaut und eingerichtet sind. Kinder bis zum vollendeten siebten Lebensjahr dürfen auf Fahrrädern von mindestens 16 Jahre alten Personen mitgenommen werden, wenn für die Kinder besondere Sitze vorhanden sind und durch Radverkleidungen oder gleich wirksame Vorrichtungen dafür gesorgt ist, dass die Füße der Kinder nicht in die Speichen geraten können. Hinter Fahrrädern dürfen in Anhängern, die zur Beförderung von Kindern eingerichtet sind, bis zu zwei Kinder bis zum vollendeten siebten Lebensjahr von mindestens 16 Jahre alten Personen mitgenommen werden. Die Begrenzung auf das vollendete siebte Lebensjahr gilt nicht für die Beförderung eines behinderten Kindes.
 
-
-## § 21a – Sicherheitsgurte, Rollstuhl-Rückhaltesysteme, Rollstuhlnutzer-Rückhaltesysteme, Schutzhelme
+# § 21a – Sicherheitsgurte, Rollstuhl-Rückhaltesysteme, Rollstuhlnutzer-Rückhaltesysteme, Schutzhelme
 
 (1) Vorgeschriebene Sicherheitsgurte müssen während der Fahrt angelegt sein; dies gilt ebenfalls für vorgeschriebene Rollstuhl-Rückhaltesysteme und vorgeschriebene Rollstuhlnutzer-Rückhaltesysteme. Das gilt nicht für
 
@@ -522,8 +496,7 @@ auf Rücksitzen die Verpflichtung zur Sicherung von Kindern mit amtlich genehmig
 
 (2) Wer Krafträder oder offene drei- oder mehrrädrige Kraftfahrzeuge mit einer bauartbedingten Höchstgeschwindigkeit von über 20 km/h führt sowie auf oder in ihnen mitfährt, muss während der Fahrt einen geeigneten Schutzhelm tragen. Dies gilt nicht, wenn vorgeschriebene Sicherheitsgurte angelegt sind.
 
-
-## § 22 – Ladung
+# § 22 – Ladung
 
 (1) Die Ladung einschließlich Geräte zur Ladungssicherung sowie Ladeeinrichtungen sind so zu verstauen und zu sichern, dass sie selbst bei Vollbremsung oder plötzlicher Ausweichbewegung nicht verrutschen, umfallen, hin- und herrollen, herabfallen oder vermeidbaren Lärm erzeugen können. Dabei sind die anerkannten Regeln der Technik zu beachten.
 
@@ -543,8 +516,7 @@ Diese Sicherungsmittel dürfen nicht höher als 1,50 m über der Fahrbahn angebr
 
 (5) Ragt die Ladung seitlich mehr als 40 cm über die Fahrzeugleuchten, bei Kraftfahrzeugen über den äußeren Rand der Lichtaustrittsflächen der Begrenzungs- oder Schlussleuchten hinaus, so ist sie, wenn nötig (§ 17 Absatz 1), kenntlich zu machen, und zwar seitlich höchstens 40 cm von ihrem Rand und höchstens 1,50 m über der Fahrbahn nach vorn durch eine Leuchte mit weißem, nach hinten durch eine mit rotem Licht. Einzelne Stangen oder Pfähle, waagerecht liegende Platten und andere schlecht erkennbare Gegenstände dürfen seitlich nicht herausragen.
 
-
-## § 23 – Sonstige Pflichten von Fahrzeugführenden
+# § 23 – Sonstige Pflichten von Fahrzeugführenden
 
 (1) Wer ein Fahrzeug führt, ist dafür verantwortlich, dass seine Sicht und das Gehör nicht durch die Besetzung, Tiere, die Ladung, Geräte oder den Zustand des Fahrzeugs beeinträchtigt werden. Wer ein Fahrzeug führt, hat zudem dafür zu sorgen, dass das Fahrzeug, der Zug, das Gespann sowie die Ladung und die Besetzung vorschriftsmäßig sind und dass die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung nicht leidet. Ferner ist dafür zu sorgen, dass die vorgeschriebenen Kennzeichen stets gut lesbar sind. Vorgeschriebene Beleuchtungseinrichtungen müssen an Kraftfahrzeugen und ihren Anhängern auch am Tage vorhanden und betriebsbereit sein.
 
@@ -584,15 +556,13 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 (+++ § 23 Abs. 1a: Zur Anwendung vgl. § 52 Abs. 4 +++)
 
-
-## § 24 – Besondere Fortbewegungsmittel
+# § 24 – Besondere Fortbewegungsmittel
 
 (1) Schiebe- und Greifreifenrollstühle, Rodelschlitten, Kinderwagen, Roller, Kinderfahrräder, Inline-Skates, Rollschuhe und ähnliche nicht motorbetriebene Fortbewegungsmittel sind nicht Fahrzeuge im Sinne der Verordnung. Für den Verkehr mit diesen Fortbewegungsmitteln gelten die Vorschriften für den Fußgängerverkehr entsprechend.
 
 (2) Mit Krankenfahrstühlen oder mit anderen als in Absatz 1 genannten Rollstühlen darf dort, wo Fußgängerverkehr zulässig ist, gefahren werden, jedoch nur mit Schrittgeschwindigkeit.
 
-
-## § 25 – Fußgänger
+# § 25 – Fußgänger
 
 (1) Wer zu Fuß geht, muss die Gehwege benutzen. Auf der Fahrbahn darf nur gegangen werden, wenn die Straße weder einen Gehweg noch einen Seitenstreifen hat. Wird die Fahrbahn benutzt, muss innerhalb geschlossener Ortschaften am rechten oder linken Fahrbahnrand gegangen werden; außerhalb geschlossener Ortschaften muss am linken Fahrbahnrand gegangen werden, wenn das zumutbar ist. Bei Dunkelheit, bei schlechter Sicht oder wenn die Verkehrslage es erfordert, muss einzeln hintereinander gegangen werden.
 
@@ -604,8 +574,7 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 (5) Gleisanlagen, die nicht zugleich dem sonstigen öffentlichen Straßenverkehr dienen, dürfen nur an den dafür vorgesehenen Stellen betreten werden.
 
-
-## § 26 – Fußgängerüberwege
+# § 26 – Fußgängerüberwege
 
 (1) An Fußgängerüberwegen haben Fahrzeuge mit Ausnahme von Schienenfahrzeugen den zu Fuß Gehenden sowie Fahrenden von Krankenfahrstühlen oder Rollstühlen, welche den Überweg erkennbar benutzen wollen, das Überqueren der Fahrbahn zu ermöglichen. Dann dürfen sie nur mit mäßiger Geschwindigkeit heranfahren; wenn nötig, müssen sie warten.
 
@@ -615,8 +584,7 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 (4) Führt die Markierung über einen Radweg oder einen anderen Straßenteil, gelten diese Vorschriften entsprechend.
 
-
-## § 27 – Verbände
+# § 27 – Verbände
 
 (1) Für geschlossene Verbände gelten die für den gesamten Fahrverkehr einheitlich bestehenden Verkehrsregeln und Anordnungen sinngemäß.Mehr als 15 Rad Fahrende dürfen einen geschlossenen Verband bilden. Dann dürfen sie zu zweit nebeneinander auf der Fahrbahn fahren. Kinder- und Jugendgruppen zu Fuß müssen, soweit möglich, die Gehwege benutzen.
 
@@ -630,8 +598,7 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 (6) Auf Brücken darf nicht im Gleichschritt marschiert werden.
 
-
-## § 28 – Tiere
+# § 28 – Tiere
 
 (1) Haus- und Stalltiere, die den Verkehr gefährden können, sind von der Straße fernzuhalten. Sie sind dort nur zugelassen, wenn sie von geeigneten Personen begleitet sind, die ausreichend auf sie einwirken können. Es ist verboten, Tiere von Kraftfahrzeugen aus zu führen. Von Fahrrädern aus dürfen nur Hunde geführt werden.
 
@@ -641,8 +608,7 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 2. beim Führen auch nur eines Großtieres oder von Vieh eine nicht blendende Leuchte mit weißem Licht, die auf der linken Seite nach vorn und hinten gut sichtbar mitzuführen ist.
 
-
-## § 29 – Übermäßige Straßenbenutzung
+# § 29 – Übermäßige Straßenbenutzung
 
 (1) (weggefallen)
 
@@ -650,8 +616,7 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 (3) Einer Erlaubnis bedarf der Verkehr mit Fahrzeugen und Zügen, deren Abmessungen, Achslasten oder Gesamtmassen die gesetzlich allgemein zugelassenen Grenzen tatsächlich überschreiten. Das gilt auch für den Verkehr mit Fahrzeugen, deren Bauart den Fahrzeugführenden kein ausreichendes Sichtfeld lässt.
 
-
-## § 30 – Umweltschutz, Sonn- und Feiertagsfahrverbot
+# § 30 – Umweltschutz, Sonn- und Feiertagsfahrverbot
 
 (1) Bei der Benutzung von Fahrzeugen sind unnötiger Lärm und vermeidbare Abgasbelästigungen verboten. Es ist insbesondere verboten, Fahrzeugmotoren unnötig laufen zu lassen und Fahrzeugtüren übermäßig laut zu schließen. Unnützes Hin- und Herfahren ist innerhalb geschlossener Ortschaften verboten, wenn Andere dadurch belästigt werden.
 
@@ -661,8 +626,7 @@ Das fahrzeugseitige automatische Abschalten des Motors im Verbrennungsbetrieb od
 
 1. kombinierten Güterverkehr Schiene-Straße vom Versender bis zum nächstgelegenen geeigneten Verladebahnhof oder vom nächstgelegenen geeigneten Entladebahnhof bis zum Empfänger, jedoch nur bis zu einer Entfernung von 200 km,
 
-1a.  
-kombinierten Güterverkehr Hafen-Straße zwischen Belade- oder Entladestelle und einem innerhalb eines Umkreises von höchstens 150 Kilometern gelegenen Hafen (An- oder Abfuhr),
+1a. kombinierten Güterverkehr Hafen-Straße zwischen Belade- oder Entladestelle und einem innerhalb eines Umkreises von höchstens 150 Kilometern gelegenen Hafen (An- oder Abfuhr),
 
 2. die Beförderung von
 
@@ -697,8 +661,7 @@ Reformationstag (31. Oktober) in Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpo
 Allerheiligen (1. November), jedoch nur in Baden-Württemberg, Bayern, Nordrhein-Westfalen, Rheinland-Pfalz und im Saarland;  
 1. und 2. Weihnachtstag.
 
-
-## § 31 – Sport und Spiel
+# § 31 – Sport und Spiel
 
 (1) Sport und Spiel auf der Fahrbahn, den Seitenstreifen und auf Radwegen sind nicht erlaubt. Satz 1 gilt nicht, soweit dies durch ein die zugelassene Sportart oder Spielart kennzeichnendes Zusatzzeichen angezeigt ist.
 
@@ -706,20 +669,18 @@ Allerheiligen (1. November), jedoch nur in Baden-Württemberg, Bayern, Nordrhein
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2013/j0367-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0010.jpg) |
 
   
 wird das Inline-Skaten und Rollschuhfahren zugelassen. Das Zusatzzeichen kann auch allein angeordnet sein. Wer sich dort mit Inline-Skates oder Rollschuhen fortbewegt, hat sich mit äußerster Vorsicht und unter besonderer Rücksichtnahme auf den übrigen Verkehr am rechten Rand in Fahrtrichtung zu bewegen und Fahrzeugen das Überholen zu ermöglichen.
 
-
-## § 32 – Verkehrshindernisse
+# § 32 – Verkehrshindernisse
 
 (1) Es ist verboten, die Straße zu beschmutzen oder zu benetzen oder Gegenstände auf Straßen zu bringen oder dort liegen zu lassen, wenn dadurch der Verkehr gefährdet oder erschwert werden kann. Wer für solche verkehrswidrigen Zustände verantwortlich ist, hat diese unverzüglich zu beseitigen und diese bis dahin ausreichend kenntlich zu machen. Verkehrshindernisse sind, wenn nötig (§ 17 Absatz 1), mit eigener Lichtquelle zu beleuchten oder durch andere zugelassene lichttechnische Einrichtungen kenntlich zu machen.
 
 (2) Sensen, Mähmesser oder ähnlich gefährliche Geräte sind wirksam zu verkleiden.
 
-
-## § 33 – Verkehrsbeeinträchtigungen
+# § 33 – Verkehrsbeeinträchtigungen
 
 (1) Verboten ist
 
@@ -735,8 +696,7 @@ wenn dadurch am Verkehr Teilnehmende in einer den Verkehr gefährdenden oder ers
 
 (3) Ausgenommen von den Verboten des Absatzes 1 Satz 1 Nummer 3 und des Absatzes 2 Satz 2 sind in der Hinweisbeschilderung für Nebenbetriebe an den Bundesautobahnen und für Autohöfe die Hinweise auf Dienstleistungen, die unmittelbar den Belangen der am Verkehr Teilnehmenden auf den Bundesautobahnen dienen.
 
-
-## § 34 – Unfall
+# § 34 – Unfall
 
 (1) Nach einem Verkehrsunfall hat, wer daran beteiligt ist,
 
@@ -764,8 +724,7 @@ b) eine nach den Umständen angemessene Zeit zu warten und am Unfallort den eige
 
 (3) Unfallspuren dürfen nicht beseitigt werden, bevor die notwendigen Feststellungen getroffen worden sind.
 
-
-## § 35 – Sonderrechte
+# § 35 – Sonderrechte
 
 (1) Von den Vorschriften dieser Verordnung sind die Bundeswehr, die Bundespolizei, die Feuerwehr, der Katastrophenschutz, die Polizei und der Zolldienst befreit, soweit das zur Erfüllung hoheitlicher Aufgaben dringend geboten ist.
 
@@ -795,18 +754,15 @@ b) eine nach den Umständen angemessene Zeit zu warten und am Unfallort den eige
 
 (9) Wer ohne Beifahrer ein Einsatzfahrzeug der Behörden und Organisationen mit Sicherheitsaufgaben (BOS) führt und zur Nutzung des BOS-Funks berechtigt ist, darf unbeschadet der Absätze 1 und 5a abweichend von § 23 Absatz 1a ein Funkgerät oder das Handteil eines Funkgerätes aufnehmen und halten.
 
-
-## § 36 – Zeichen und Weisungen der Polizeibeamten
+# § 36 – Zeichen und Weisungen der Polizeibeamten
 
 (1) Die Zeichen und Weisungen der Polizeibeamten sind zu befolgen. Sie gehen allen anderen Anordnungen und sonstigen Regeln vor, entbinden den Verkehrsteilnehmer jedoch nicht von seiner Sorgfaltspflicht.
 
 (2) An Kreuzungen ordnet an:
 
-1. Seitliches Ausstrecken eines Armes oder beider Arme quer zur Fahrtrichtung: „Halt vor der Kreuzung“.  
-  
+1. Seitliches Ausstrecken eines Armes oder beider Arme quer zur Fahrtrichtung: „Halt vor der Kreuzung“.   
 
-Der Querverkehr ist freigegeben.  
-  
+Der Querverkehr ist freigegeben.   
 
 Wird dieses Zeichen gegeben, gilt es fort, solange in der gleichen Richtung gewinkt oder nur die Grundstellung beibehalten wird. Der freigegebene Verkehr kann nach den Regeln des § 9 abbiegen, nach links jedoch nur, wenn er Schienenfahrzeuge dadurch nicht behindert.
 
@@ -824,8 +780,7 @@ für Verkehrsteilnehmer in der Kreuzung: „Kreuzung räumen“.
 
 (5) Polizeibeamte dürfen Verkehrsteilnehmer zur Verkehrskontrolle einschließlich der Kontrolle der Verkehrstüchtigkeit und zu Verkehrserhebungen anhalten. Das Zeichen zum Anhalten kann auch durch geeignete technische Einrichtungen am Einsatzfahrzeug, eine Winkerkelle oder eine rote Leuchte gegeben werden. Mit diesen Zeichen kann auch ein vorausfahrender Verkehrsteilnehmer angehalten werden. Die Verkehrsteilnehmer haben die Anweisungen der Polizeibeamten zu befolgen.
 
-
-## § 37 – Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
+# § 37 – Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil
 
 (1) Lichtzeichen gehen Vorrangregeln und Vorrang regelnden Verkehrszeichen vor. Wer ein Fahrzeug führt, darf bis zu 10 m vor einem Lichtzeichen nicht halten, wenn es dadurch verdeckt wird.
 
@@ -834,38 +789,30 @@ für Verkehrsteilnehmer in der Kreuzung: „Kreuzung räumen“.
 1. An Kreuzungen bedeuten:  
   
 
-Grün: „Der Verkehr ist freigegeben“.  
-  
+Grün: „Der Verkehr ist freigegeben“.   
 
-Er kann nach den Regeln des § 9 abbiegen, nach links jedoch nur, wenn er Schienenfahrzeuge dadurch nicht behindert.  
-  
+Er kann nach den Regeln des § 9 abbiegen, nach links jedoch nur, wenn er Schienenfahrzeuge dadurch nicht behindert.   
 
-Grüner Pfeil: „Nur in Richtung des Pfeils ist der Verkehr freigegeben“.  
-  
+Grüner Pfeil: „Nur in Richtung des Pfeils ist der Verkehr freigegeben“.   
 
-Ein grüner Pfeil links hinter der Kreuzung zeigt an, dass der Gegenverkehr durch Rotlicht angehalten ist und dass, wer links abbiegt, die Kreuzung in Richtung des grünen Pfeils ungehindert befahren und räumen kann.  
-  
+Ein grüner Pfeil links hinter der Kreuzung zeigt an, dass der Gegenverkehr durch Rotlicht angehalten ist und dass, wer links abbiegt, die Kreuzung in Richtung des grünen Pfeils ungehindert befahren und räumen kann.   
 
-Gelb ordnet an: „Vor der Kreuzung auf das nächste Zeichen warten“.  
-  
+Gelb ordnet an: „Vor der Kreuzung auf das nächste Zeichen warten“.   
 
-Keines dieser Zeichen entbindet von der Sorgfaltspflicht.  
-  
+Keines dieser Zeichen entbindet von der Sorgfaltspflicht.   
 
-Rot ordnet an: „Halt vor der Kreuzung“.  
-  
+Rot ordnet an: „Halt vor der Kreuzung“.   
 
 Nach dem Anhalten ist das Abbiegen nach rechts auch bei Rot erlaubt, wenn rechts neben dem Lichtzeichen Rot ein Schild mit grünem Pfeil auf schwarzem Grund (Grünpfeil) angebracht ist. Durch das Zeichen
 
 |                                                    |
 |:---------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2020/j0814-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j0814-1_0010.jpg) |
 | wird der Grünpfeil auf den Radverkehr beschränkt.  |
 
 Wer ein Fahrzeug führt, darf nur aus dem rechten Fahrstreifen abbiegen. Soweit der Radverkehr die Lichtzeichen für den Fahrverkehr zu beachten hat, dürfen Rad Fahrende auch aus einem am rechten Fahrbahnrand befindlichen Radfahrstreifen oder aus straßenbegleitenden, nicht abgesetzten, baulich angelegten Radwegen abbiegen. Dabei muss man sich so verhalten, dass eine Behinderung oder Gefährdung anderer Verkehrsteilnehmer, insbesondere des Fußgänger- und Fahrzeugverkehrs der freigegebenen Verkehrsrichtung, ausgeschlossen ist.
 
-Schwarzer Pfeil auf Rot ordnet das Halten, schwarzer Pfeil auf Gelb das Warten nur für die angegebene Richtung an.  
-  
+Schwarzer Pfeil auf Rot ordnet das Halten, schwarzer Pfeil auf Gelb das Warten nur für die angegebene Richtung an.   
 
 Ein einfeldiger Signalgeber mit Grünpfeil zeigt an, dass bei Rot für die Geradeaus-Richtung nach rechts abgebogen werden darf.
 
@@ -879,16 +826,13 @@ Ein einfeldiger Signalgeber mit Grünpfeil zeigt an, dass bei Rot für die Gerad
 
 6. Wer ein Rad fährt, hat die Lichtzeichen für den Fahrverkehr zu beachten. Davon abweichend sind auf Radverkehrsführungen die besonderen Lichtzeichen für den Radverkehr zu beachten. An Lichtzeichenanlagen mit Radverkehrsführungen ohne besondere Lichtzeichen für Rad Fahrende müssen Rad Fahrende bis zum 31. Dezember 2016 weiterhin die Lichtzeichen für zu Fuß Gehende beachten, soweit eine Radfahrerfurt an eine Fußgängerfurt grenzt.
 
-(3) Dauerlichtzeichen über einem Fahrstreifen sperren ihn oder geben ihn zum Befahren frei.  
-  
+(3) Dauerlichtzeichen über einem Fahrstreifen sperren ihn oder geben ihn zum Befahren frei.   
 Rote gekreuzte Schrägbalken ordnen an:  
   
-„Der Fahrstreifen darf nicht benutzt werden“.  
-  
+„Der Fahrstreifen darf nicht benutzt werden“.   
 Ein grüner, nach unten gerichteter Pfeil bedeutet:  
   
-„Der Verkehr auf dem Fahrstreifen ist freigegeben“.  
-  
+„Der Verkehr auf dem Fahrstreifen ist freigegeben“.   
 Ein gelb blinkender, schräg nach unten gerichteter Pfeil ordnet an:  
   
 „Fahrstreifen in Pfeilrichtung wechseln“.
@@ -897,22 +841,18 @@ Ein gelb blinkender, schräg nach unten gerichteter Pfeil ordnet an:
 
 (5) Wer ein Fahrzeug führt, darf auf Fahrstreifen mit Dauerlichtzeichen nicht halten.
 
+# § 38 – Blaues Blinklicht und gelbes Blinklicht
 
-## § 38 – Blaues Blinklicht und gelbes Blinklicht
-
-(1) Blaues Blinklicht zusammen mit dem Einsatzhorn darf nur verwendet werden, wenn höchste Eile geboten ist, um Menschenleben zu retten oder schwere gesundheitliche Schäden abzuwenden, eine Gefahr für die öffentliche Sicherheit oder Ordnung abzuwenden, flüchtige Personen zu verfolgen oder bedeutende Sachwerte zu erhalten.  
-  
+(1) Blaues Blinklicht zusammen mit dem Einsatzhorn darf nur verwendet werden, wenn höchste Eile geboten ist, um Menschenleben zu retten oder schwere gesundheitliche Schäden abzuwenden, eine Gefahr für die öffentliche Sicherheit oder Ordnung abzuwenden, flüchtige Personen zu verfolgen oder bedeutende Sachwerte zu erhalten.   
 Es ordnet an:  
   
-„Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen“.  
-  
+„Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen“.   
 
 (2) Blaues Blinklicht allein darf nur von den damit ausgerüsteten Fahrzeugen und nur zur Warnung an Unfall- oder sonstigen Einsatzstellen, bei Einsatzfahrten oder bei der Begleitung von Fahrzeugen oder von geschlossenen Verbänden verwendet werden.
 
 (3) Gelbes Blinklicht warnt vor Gefahren. Es kann ortsfest oder von Fahrzeugen aus verwendet werden. Die Verwendung von Fahrzeugen aus ist nur zulässig, um vor Arbeits- oder Unfallstellen, vor ungewöhnlich langsam fahrenden Fahrzeugen oder vor Fahrzeugen mit ungewöhnlicher Breite oder Länge oder mit ungewöhnlich breiter oder langer Ladung zu warnen.
 
-
-## § 39 – Verkehrszeichen
+# § 39 – Verkehrszeichen
 
 (1) Angesichts der allen Verkehrsteilnehmern obliegenden Verpflichtung, die allgemeinen und besonderen Verhaltensvorschriften dieser Verordnung eigenverantwortlich zu beachten, werden örtliche Anordnungen durch Verkehrszeichen nur dort getroffen, wo dies auf Grund der besonderen Umstände zwingend geboten ist.
 
@@ -964,11 +904,11 @@ Elektrokleinstfahrzeuge-Verordnung (eKFV)</td></tr><tr class="odd"><td style="te
 
 |                                                    |                                                    |                                                    |
 |:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2013/j0367-1_0170.jpg) | ![](../normengrafiken/bgbl1_2013/j0367-1_0180.jpg) | ![](../normengrafiken/bgbl1_2013/j0367-1_0190.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0170.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0180.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0190.jpg) |
 |               Schnee- oder Eisglätte               |                    Steinschlag                     |                  Splitt, Schotter                  |
-| ![](../normengrafiken/bgbl1_2013/j0367-1_0200.jpg) | ![](../normengrafiken/bgbl1_2013/j0367-1_0210.jpg) | ![](../normengrafiken/bgbl1_2013/j0367-1_0220.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0200.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0210.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0220.jpg) |
 |                 Bewegliche Brücke                  |                        Ufer                        |                  Fußgängerüberweg                  |
-| ![](../normengrafiken/bgbl1_2013/j0367-1_0230.jpg) | ![](../normengrafiken/bgbl1_2013/j0367-1_0240.jpg) | ![](../normengrafiken/bgbl1_2013/j0367-1_0250.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0230.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0240.jpg) | ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0250.jpg) |
 |                 Amphibienwanderung                 |           Unzureichendes Lichtraumprofil           |                    Flugbetrieb                     |
 
 (9) Die in den Anlagen 1 bis 4 abgebildeten Verkehrszeichen und Verkehrseinrichtungen können auch mit den im Verkehrszeichenkatalog dargestellten Varianten angeordnet sein. Der Verkehrszeichenkatalog wird vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt veröffentlicht.
@@ -977,7 +917,7 @@ Elektrokleinstfahrzeuge-Verordnung (eKFV)</td></tr><tr class="odd"><td style="te
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2015/j1573-1_0020.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1573-1_0020.jpg) |
 
 als Inhalt eines Zusatzzeichens angeordnet sein. Zur Unterstützung einer Parkflächenvorhaltung für elektrisch betriebene Fahrzeuge kann das Sinnbild zusätzlich auf der Parkfläche aufgebracht sein. Elektrisch betriebene Fahrzeuge sind die nach § 9a Absatz 2 und 4, jeweils auch in Verbindung mit Absatz 5, der Fahrzeug-Zulassungsverordnung gekennzeichneten Fahrzeuge.
 
@@ -985,18 +925,17 @@ als Inhalt eines Zusatzzeichens angeordnet sein. Zur Unterstützung einer Parkfl
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2020/j0814-1_0060.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j0814-1_0060.jpg) |
 |                     Carsharing                     |
 
 als Inhalt eines Zusatzzeichens zu Zeichen 314 oder 315 angeordnet sein. Carsharingfahrzeuge sind Fahrzeuge im Sinne des § 2 Nummer 1 und des § 4 Absatz 1 und 2 des Carsharinggesetzes, in denen die Plakette
 
 |                                                                             |
 |:---------------------------------------------------------------------------:|
-|             ![](../normengrafiken/bgbl1_2020/j0814-1_0070.jpg)              |
+|             ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2020/j0814-1_0070.jpg)              |
 | deutlich sichtbar auf der Innenseite der Windschutzscheibe anzubringen ist. |
 
-
-## § 40 – Gefahrzeichen
+# § 40 – Gefahrzeichen
 
 (1) Gefahrzeichen mahnen zu erhöhter Aufmerksamkeit, insbesondere zur Verringerung der Geschwindigkeit im Hinblick auf eine Gefahrsituation (§ 3 Absatz 1).
 
@@ -1004,7 +943,7 @@ als Inhalt eines Zusatzzeichens zu Zeichen 314 oder 315 angeordnet sein. Carshar
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2013/j0367-1_0260.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0260.jpg) |
 
 (3) Innerhalb geschlossener Ortschaften stehen sie im Allgemeinen kurz vor der Gefahrstelle.
 
@@ -1012,7 +951,7 @@ als Inhalt eines Zusatzzeichens zu Zeichen 314 oder 315 angeordnet sein. Carshar
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2013/j0367-1_0270.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2013/j0367-1_0270.jpg) |
 
 kann die Länge der Gefahrstrecke angeben.
 
@@ -1022,15 +961,13 @@ kann die Länge der Gefahrstrecke angeben.
 
 (7) Besondere Gefahrzeichen vor Übergängen von Schienenbahnen mit Vorrang ergeben sich aus der Anlage 1 Abschnitt 2.
 
-
-## § 41 – Vorschriftzeichen
+# § 41 – Vorschriftzeichen
 
 (1) Wer am Verkehr teilnimmt, hat die durch Vorschriftzeichen nach Anlage 2 angeordneten Ge- oder Verbote zu befolgen.
 
 (2) Vorschriftzeichen stehen vorbehaltlich des Satzes 2 dort, wo oder von wo an die Anordnung zu befolgen ist. Soweit die Zeichen aus Gründen der Leichtigkeit oder der Sicherheit des Verkehrs in einer bestimmten Entfernung zum Beginn der Befolgungspflicht stehen, ist die Entfernung zu dem maßgeblichen Ort auf einem Zusatzzeichen angegeben. Andere Zusatzzeichen enthalten nur allgemeine Beschränkungen der Gebote oder Verbote oder allgemeine Ausnahmen von ihnen. Die besonderen Zusatzzeichen zu den Zeichen 283, 286, 277, 290.1 und 290.2 können etwas anderes bestimmen, zum Beispiel den Geltungsbereich erweitern.
 
-
-## § 42 – Richtzeichen
+# § 42 – Richtzeichen
 
 (1) Richtzeichen geben besondere Hinweise zur Erleichterung des Verkehrs. Sie können auch Ge- oder Verbote enthalten.
 
@@ -1038,8 +975,7 @@ kann die Länge der Gefahrstrecke angeben.
 
 (3) Richtzeichen stehen vorbehaltlich des Satzes 2 dort, wo oder von wo an die Anordnung zu befolgen ist. Soweit die Zeichen aus Gründen der Leichtigkeit oder der Sicherheit des Verkehrs in einer bestimmten Entfernung zum Beginn der Befolgungspflicht stehen, ist die Entfernung zu dem maßgeblichen Ort auf einem Zusatzzeichen angegeben.
 
-
-## § 43 – Verkehrseinrichtungen
+# § 43 – Verkehrseinrichtungen
 
 (1) Verkehrseinrichtungen sind Schranken, Sperrpfosten, Absperrgeräte sowie Leiteinrichtungen, die bis auf Leitpfosten, Leitschwellen und Leitborde rot-weiß gestreift sind. Leitschwellen und Leitborde haben die Funktion einer vorübergehend gültigen Markierung und sind gelb. Verkehrseinrichtungen sind außerdem Absperrgeländer, Parkuhren, Parkscheinautomaten, Blinklicht- und Lichtzeichenanlagen sowie Verkehrsbeeinflussungsanlagen. § 39 Absatz 1 gilt entsprechend.
 
@@ -1049,8 +985,7 @@ kann die Länge der Gefahrstrecke angeben.
 
 (4) Zur Kennzeichnung nach § 17 Absatz 4 Satz 2 und 3 von Fahrzeugen und Anhängern, die innerhalb geschlossener Ortschaften auf der Fahrbahn halten, können amtlich geprüfte Park-Warntafeln verwendet werden.
 
-
-## § 44 – Sachliche Zuständigkeit
+# § 44 – Sachliche Zuständigkeit
 
 (1) Zuständig zur Ausführung dieser Verordnung sind, soweit nichts anderes bestimmt ist, die Straßenverkehrsbehörden. Nach Maßgabe des Landesrechts kann die Zuständigkeit der obersten Landesbehörden und der höheren Verwaltungsbehörden im Einzelfall oder allgemein auf eine andere Stelle übertragen werden.
 
@@ -1064,8 +999,7 @@ kann die Länge der Gefahrstrecke angeben.
 
 (5) Soweit keine Vereinbarungen oder keine Sonderregelungen für ausländische Streitkräfte bestehen, erteilen die höheren Verwaltungsbehörden oder die nach Landesrecht bestimmten Stellen die Erlaubnis für übermäßige Benutzung der Straße durch die Bundeswehr oder durch die Truppen der nichtdeutschen Vertragsstaaten des Nordatlantikpaktes oder der Mitgliedstaaten der Europäischen Union ausgenommen Deutschland; sie erteilen auch die Erlaubnis für die übermäßige Benutzung der Straße durch die Bundespolizei, die Polizei und den Katastrophenschutz.
 
-
-## § 44a – Besondere sachliche Zuständigkeit des Fernstraßen-Bundesamtes
+# § 44a – Besondere sachliche Zuständigkeit des Fernstraßen-Bundesamtes
 
 (1) Zuständig für den Erlass von verkehrsrechtlichen Anordnungen nach dieser Verordnung für die mit Zeichen 330.1 und 330.2 gekennzeichneten Autobahnen in der Baulast des Bundes ist das Fernstraßen-Bundesamt. Die Zuständigkeit der Polizei bleibt unberührt. Abweichend von § 44 Absatz 3 erteilt das Fernstraßen-Bundesamt die Erlaubnis nach § 29 Absatz 2, wenn die Veranstaltung ausschließlich auf den mit Zeichen 330.1 und 330.2 gekennzeichneten Autobahnen in der Baulast des Bundes stattfindet. § 46 Absatz 2a bleibt unberührt. Das Fernstraßen-Bundesamt ist Straßenverkehrsbehörde ausschließlich im Rahmen seiner Zuständigkeit nach dieser Verordnung.
 
@@ -1075,8 +1009,7 @@ kann die Länge der Gefahrstrecke angeben.
 
 (+++ § 44a: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 45 – Verkehrszeichen und Verkehrseinrichtungen
+# § 45 – Verkehrszeichen und Verkehrseinrichtungen
 
 (1) Die Straßenverkehrsbehörden können die Benutzung bestimmter Straßen oder Straßenstrecken aus Gründen der Sicherheit oder Ordnung des Verkehrs beschränken oder verbieten und den Verkehr umleiten. Das gleiche Recht haben sie
 
@@ -1102,11 +1035,9 @@ kann die Länge der Gefahrstrecke angeben.
 
 4. in Landschaftsgebieten und Ortsteilen, die überwiegend der Erholung dienen,
 
-4a.  
-hinsichtlich örtlich begrenzter Maßnahmen aus Gründen des Arten- oder Biotopschutzes,
+4a. hinsichtlich örtlich begrenzter Maßnahmen aus Gründen des Arten- oder Biotopschutzes,
 
-4b.  
-hinsichtlich örtlich und zeitlich begrenzter Maßnahmen zum Schutz kultureller Veranstaltungen, die außerhalb des Straßenraums stattfinden und durch den Straßenverkehr, insbesondere durch den von diesem ausgehenden Lärm, erheblich beeinträchtigt werden,
+4b. hinsichtlich örtlich und zeitlich begrenzter Maßnahmen zum Schutz kultureller Veranstaltungen, die außerhalb des Straßenraums stattfinden und durch den Straßenverkehr, insbesondere durch den von diesem ausgehenden Lärm, erheblich beeinträchtigt werden,
 
 5. in der Nähe von Krankenhäusern und Pflegeanstalten sowie
 
@@ -1120,8 +1051,7 @@ wenn dadurch anders nicht vermeidbare Belästigungen durch den Fahrzeugverkehr v
 
 2. im Zusammenhang mit der Kennzeichnung von Parkmöglichkeiten für schwerbehinderte Menschen mit außergewöhnlicher Gehbehinderung, beidseitiger Amelie oder Phokomelie oder mit vergleichbaren Funktionseinschränkungen sowie für blinde Menschen,
 
-2a.  
-im Zusammenhang mit der Kennzeichnung von Parkmöglichkeiten für Bewohner städtischer Quartiere mit erheblichem Parkraummangel durch vollständige oder zeitlich beschränkte Reservierung des Parkraums für die Berechtigten oder durch Anordnung der Freistellung von angeordneten Parkraumbewirtschaftungsmaßnahmen,
+2a. im Zusammenhang mit der Kennzeichnung von Parkmöglichkeiten für Bewohner städtischer Quartiere mit erheblichem Parkraummangel durch vollständige oder zeitlich beschränkte Reservierung des Parkraums für die Berechtigten oder durch Anordnung der Freistellung von angeordneten Parkraumbewirtschaftungsmaßnahmen,
 
 3. zur Kennzeichnung von Fußgängerbereichen und verkehrsberuhigten Bereichen,
 
@@ -1187,8 +1117,7 @@ Satz 3 gilt ferner nicht für Beschränkungen oder Verbote des fließenden Verke
 
 (+++ § 45 Abs. 11: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 46 – Ausnahmegenehmigung und Erlaubnis
+# § 46 – Ausnahmegenehmigung und Erlaubnis
 
 (1) Die Straßenverkehrsbehörden können in bestimmten Einzelfällen oder allgemein für bestimmte Antragsteller Ausnahmen genehmigen
 
@@ -1200,22 +1129,17 @@ Satz 3 gilt ferner nicht für Beschränkungen oder Verbote des fließenden Verke
 
 4. vom Verbot des Parkens vor oder gegenüber von Grundstücksein- und -ausfahrten (§ 12 Absatz 3 Nummer 3);
 
-4a.  
-von der Vorschrift, an Parkuhren nur während des Laufens der Uhr, an Parkscheinautomaten nur mit einem Parkschein zu halten (§ 13 Absatz 1);
+4a. von der Vorschrift, an Parkuhren nur während des Laufens der Uhr, an Parkscheinautomaten nur mit einem Parkschein zu halten (§ 13 Absatz 1);
 
-4b.  
-von der Vorschrift, im Bereich eines Zonenhaltverbots (Zeichen 290.1 und 290.2) nur während der dort vorgeschriebenen Zeit zu parken (§ 13 Absatz 2);
+4b. von der Vorschrift, im Bereich eines Zonenhaltverbots (Zeichen 290.1 und 290.2) nur während der dort vorgeschriebenen Zeit zu parken (§ 13 Absatz 2);
 
-4c.  
-von den Vorschriften über das Abschleppen von Fahrzeugen (§ 15a);
+4c. von den Vorschriften über das Abschleppen von Fahrzeugen (§ 15a);
 
 5. von den Vorschriften über Höhe, Länge und Breite von Fahrzeug und Ladung (§ 18 Absatz 1 Satz 2, § 22 Absatz 2 bis 4);
 
-5a.  
-von dem Verbot der unzulässigen Mitnahme von Personen (§ 21);
+5a. von dem Verbot der unzulässigen Mitnahme von Personen (§ 21);
 
-5b.  
-von den Vorschriften über das Anlegen von Sicherheitsgurten und das Tragen von Schutzhelmen (§ 21a);
+5b. von den Vorschriften über das Anlegen von Sicherheitsgurten und das Tragen von Schutzhelmen (§ 21a);
 
 6. vom Verbot, Tiere von Kraftfahrzeugen und andere Tiere als Hunde von Fahrrädern aus zu führen (§ 28 Absatz 1 Satz 3 und 4);
 
@@ -1265,8 +1189,7 @@ im Benehmen mit dem Fernstraßen-Bundesamt entschieden. Das Fernstraßen-Bundesa
 
 (+++ § 46 Abs. 1 Satz 1 Nr. 2 u. Abs. 2a: Zur Anwendung vgl. § 52 Abs. 5 +++)
 
-
-## § 47 – Örtliche Zuständigkeit
+# § 47 – Örtliche Zuständigkeit
 
 (1) Die Erlaubnisse nach § 29 Absatz 2 und nach § 30 Absatz 2 erteilt für eine Veranstaltung, die im Ausland beginnt, die nach § 44 Absatz 3 sachlich zuständige Behörde, in deren Gebiet die Grenzübergangsstelle liegt. Diese Behörde ist auch zuständig, wenn sonst erlaubnis- und genehmigungspflichtiger Verkehr im Ausland beginnt. Die Erlaubnis nach § 29 Absatz 3 erteilt die Straßenverkehrsbehörde, in deren Bezirk der erlaubnispflichtige Verkehr beginnt, oder die Straßenverkehrsbehörde, in deren Bezirk das den Transport durchführende Unternehmen seinen Sitz oder eine Zweigniederlassung, bei der eine Pflicht zur Eintragung in das Handels-, Genossenschafts- oder Partnerschaftsregister besteht, hat. Befindet sich der Sitz im Ausland, so ist die Behörde zuständig, in deren Bezirk erstmalig von der Erlaubnis Gebrauch gemacht wird.
 
@@ -1290,13 +1213,11 @@ im Benehmen mit dem Fernstraßen-Bundesamt entschieden. Das Fernstraßen-Bundesa
 
 (3) Die Erlaubnisse für die übermäßige Benutzung der Straße durch die Bundeswehr, die in § 35 Absatz 5 genannten Truppen, die Bundespolizei, die Polizei und den Katastrophenschutz erteilen die höhere Verwaltungsbehörde oder die nach Landesrecht bestimmte Stelle, in deren Bezirk der erlaubnispflichtige Verkehr beginnt.
 
-
-## § 48 – Verkehrsunterricht
+# § 48 – Verkehrsunterricht
 
 Wer Verkehrsvorschriften nicht beachtet, ist auf Vorladung der Straßenverkehrsbehörde oder der von ihr beauftragten Beamten verpflichtet, an einem Unterricht über das Verhalten im Straßenverkehr teilzunehmen.
 
-
-## § 49 – Ordnungswidrigkeiten
+# § 49 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 24 des Straßenverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig gegen eine Vorschrift über
 
@@ -1314,8 +1235,7 @@ Wer Verkehrsvorschriften nicht beachtet, ist auf Vorladung der Straßenverkehrsb
 
 7. das Benutzen linker Fahrstreifen nach § 7 Absatz 3a Satz 1, auch in Verbindung mit Satz 2, Absatz 3b, Absatz 3c Satz 3 oder den Fahrstreifenwechsel nach § 7 Absatz 5,
 
-7a.  
-das Verhalten auf Ausfädelungsstreifen nach § 7a Absatz 3,
+7a. das Verhalten auf Ausfädelungsstreifen nach § 7a Absatz 3,
 
 8. die Vorfahrt nach § 8,
 
@@ -1333,8 +1253,7 @@ das Verhalten auf Ausfädelungsstreifen nach § 7a Absatz 3,
 
 15. das Liegenbleiben von Fahrzeugen nach § 15,
 
-15a.  
-das Abschleppen nach § 15a,
+15a. das Abschleppen nach § 15a,
 
 16. die Abgabe von Warnzeichen nach § 16,
 
@@ -1350,8 +1269,7 @@ b) an und vor Haltestellen von öffentlichen Verkehrsmitteln und Schulbussen nac
 
 20. die Personenbeförderung nach § 21 Absatz 1 Satz 1 oder 4, Absatz 1a Satz 1, auch in Verbindung mit Satz 2 Nummer 2, Absatz 2 Satz 1, 4 oder 6 oder Absatz 3 Satz 1 bis 3,
 
-20a.  
-das Anlegen von Sicherheitsgurten, Rollstuhl-Rückhaltesystemen oder Rollstuhlnutzer-Rückhaltesystemen nach § 21a Absatz 1 Satz 1 oder das Tragen von Schutzhelmen nach § 21a Absatz 2 Satz 1,
+20a. das Anlegen von Sicherheitsgurten, Rollstuhl-Rückhaltesystemen oder Rollstuhlnutzer-Rückhaltesystemen nach § 21a Absatz 1 Satz 1 oder das Tragen von Schutzhelmen nach § 21a Absatz 2 Satz 1,
 
 21. die Ladung nach § 22,
 
@@ -1383,8 +1301,7 @@ verstößt.
 
 1. als Führer eines geschlossenen Verbandes entgegen § 27 Absatz 5 nicht dafür sorgt, dass die für geschlossene Verbände geltenden Vorschriften befolgt werden,
 
-1a.  
-entgegen § 27 Absatz 2 einen geschlossenen Verband unterbricht,
+1a. entgegen § 27 Absatz 2 einen geschlossenen Verband unterbricht,
 
 2. als Führer einer Kinder- oder Jugendgruppe entgegen § 27 Absatz 1 Satz 4 diese nicht den Gehweg benutzen lässt,
 
@@ -1418,8 +1335,7 @@ entgegen § 27 Absatz 2 einen geschlossenen Verband unterbricht,
 
 1. dem Verbot des § 35 Absatz 6 Satz 1, 2 oder 3 über die Reinigung von Gehwegen zuwiderhandelt,
 
-1a.  
-entgegen § 35 Absatz 6 Satz 4 keine auffällige Warnkleidung trägt,
+1a. entgegen § 35 Absatz 6 Satz 4 keine auffällige Warnkleidung trägt,
 
 2. entgegen § 35 Absatz 8 Sonderrechte ausübt, ohne die öffentliche Sicherheit und Ordnung gebührend zu berücksichtigen,
 
@@ -1433,23 +1349,19 @@ entgegen § 35 Absatz 6 Satz 4 keine auffällige Warnkleidung trägt,
 
 7. entgegen § 50 auf der Insel Helgoland ein Kraftfahrzeug führt oder mit einem Fahrrad fährt.
 
-
-## § 50 – Sonderregelung für die Insel Helgoland
+# § 50 – Sonderregelung für die Insel Helgoland
 
 Auf der Insel Helgoland sind der Verkehr mit Kraftfahrzeugen und das Radfahren verboten.
 
-
-## § 51 – Besondere Kostenregelung
+# § 51 – Besondere Kostenregelung
 
 Die Kosten der Zeichen 386.1, 386.2 und 386.3 trägt abweichend von § 5b Absatz 1 des Straßenverkehrsgesetzes derjenige, der die Aufstellung dieses Zeichens beantragt.
 
-
-## § 51a – Überleitung
+# § 51a – Überleitung
 
 Der Bund, vertreten durch das Bundesministerium für Verkehr und digitale Infrastruktur und das Fernstraßen-Bundesamt, tritt im Rahmen seiner Zuständigkeit nach dieser Verordnung in vor dem 1. Januar 2021 eingeleitete Verwaltungsverfahren ein. Er tritt mit Wirkung zum 1. Januar 2021 im Rahmen seiner Zuständigkeit nach dieser Verordnung in die Rechte und Pflichten aus den zu diesem Zeitpunkt bestehenden verkehrsrechtlichen Anordnungen ein, die von den zuständigen Straßenverkehrsbehörden der Länder bis zum 31. Dezember 2020 im eigenen Namen im Rahmen der Wahrnehmung von straßenverkehrsrechtlichen Aufgaben erlassen wurden. Gleiches gilt für Vereinbarungen oder Stellungnahmen zum künftigen Handeln, wenn die straßenverkehrsrechtlichen Vorschriften beachtet wurden.
 
-
-## § 52 – Übergangs- und Anwendungsbestimmungen
+# § 52 – Übergangs- und Anwendungsbestimmungen
 
 (1) Mit Ablauf des 31. Dezember 2026 sind nicht mehr anzuwenden:
 
@@ -1477,8 +1389,7 @@ Im Falle des Satzes 1 Nummer 2 maßgeblich ist das am Reifen angegebene Herstell
 
 (5) § 44a sowie die Änderungen des § 45 Absatz 11, § 46 Absatz 1 Satz 1 Nummer 2 und Absatz 2a durch die Verordnung zur Änderung der Straßenverkehrs-Ordnung und der Vierundfünfzigsten Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften vom 18. Dezember 2020 (BGBl. I S. 3047) sind erst ab dem 1. Januar 2021 anzuwenden.
 
-
-## § 53 – Inkrafttreten, Außerkrafttreten
+# § 53 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. April 2013 in Kraft.
 
@@ -1494,31 +1405,26 @@ Im Falle des Satzes 1 Nummer 2 maßgeblich ist das am Reifen angegebene Herstell
 
 5. Bereits angeordnete Zeichen 311, die im oberen Teil weiß sind, wenn die Ortschaft, auf die hingewiesen wird, zu derselben Gemeinde wie die zuvor durchfahrene Ortschaft gehört, bleiben weiterhin gültig.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 40 Absatz 6 und 7)Allgemeine und Besondere Gefahrzeichen
+# Anlage 1 – (zu § 40 Absatz 6 und 7)Allgemeine und Besondere Gefahrzeichen
 
 (Fundstelle: BGBl. I 2013, 390 - 393)
 
-
-## Anlage 2 – (zu § 41 Absatz 1)Vorschriftzeichen
+# Anlage 2 – (zu § 41 Absatz 1)Vorschriftzeichen
 
 (Fundstelle: BGBl. I 2013, 394 - 410;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
-
-## Anlage 3 – (zu § 42 Absatz 2)Richtzeichen
+# Anlage 3 – (zu § 42 Absatz 2)Richtzeichen
 
 (Fundstelle: BGBl. I 2013, 411 - 424;  
 bzgl. der einzelnen Änderungen vgl. Fußnoten)
 
 (+++ Anlage 3 Nr. 22 Nr. 2: Zur Nichtanwendung vgl. § 10 Abs. 1 eKFV +++)
 
-
-## Anlage 4 – (zu § 43 Absatz 3)Verkehrseinrichtungen
+# Anlage 4 – (zu § 43 Absatz 3)Verkehrseinrichtungen
 
 (Fundstelle: BGBl. I 2013, 425 - 427)

@@ -1,59 +1,47 @@
-# [FStrAbG] Gesetz über den Ausbau der Bundesfernstraßen  (Fernstraßenausbaugesetz - FStrAbG)
-
-Ausfertigungsdatum: 30.06.1971
-
+% Gesetz über den Ausbau der Bundesfernstraßen  (Fernstraßenausbaugesetz - FStrAbG)
+% Ausfertigungsdatum: 30.06.1971
  
-
-## § 1
+# § 1
 
 (1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan für die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage beigefügt ist.
 
 (2) Die in den Bedarfsplan aufgenommenen Bau- und Ausbauvorhaben entsprechen den Zielsetzungen des § 1 Abs. 1 des Bundesfernstraßengesetzes. Die Feststellung des Bedarfs ist für die Linienbestimmung nach § 16 des Bundesfernstraßengesetzes und für die Planfeststellung nach § 17 des Bundesfernstraßengesetzes verbindlich.
 
-
-## § 2
+# § 2
 
 Der Ausbau erfolgt nach Stufen, die im Bedarfsplan bezeichnet sind, und nach Maßgabe der zur Verfügung stehenden Mittel.
 
-
-## § 3
+# § 3
 
 Einzelne Verbesserungsmaßnahmen bleiben unberührt; sie sind auf die Maßnahmen abzustimmen, die auf Grund des Bedarfsplanes ausgeführt werden sollen.
 
-
-## § 4
+# § 4
 
 Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für Verkehr und digitale Infrastruktur, ob der Bedarfsplan der Verkehrsentwicklung anzupassen ist; in die Prüfung sind die bei der Bedarfsplanung berührten Belange, insbesondere die der Raumordnung, des Umweltschutzes und des Städtebaus, einzubeziehen. Die Anpassung geschieht durch Gesetz.
 
-
-## § 5
+# § 5
 
 (1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das Bundesministerium für Verkehr und digitale Infrastruktur Fünfjahrespläne auf. Sie bilden den Rahmen für die Aufstellung der Straßenbaupläne nach Artikel 3 des Straßenbaufinanzierungsgesetzes.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft bleibt unberührt.
 
-
-## § 6
+# § 6
 
 Die Straßenbaupläne können im Einzelfall auch Maßnahmen enthalten, die nicht dem Bedarfsplan entsprechen, soweit dies wegen eines unvorhergesehenen höheren oder geringeren Verkehrsbedarfs, insbesondere auf Grund einer Änderung der Verkehrsstruktur, erforderlich ist.
 
-
-## § 7
+# § 7
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur berichtet dem Deutschen Bundestag jährlich über den Fortgang des Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
 
-
-## § 8
+# § 8
 
 Auf laufende und fest disponierte Vorhaben sind die Rechtsvorschriften über Vorhaben des Vordringlichen Bedarfs anzuwenden.
 
-
-## § 9
+# § 9
 
 (Inkrafttreten)
 
-
-## Anlage – (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen
+# Anlage – (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen
 
 (Fundstelle: BGBl. I 2016, 3354 — 3411)
 

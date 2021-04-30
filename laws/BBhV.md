@@ -1,23 +1,17 @@
-# [BBhV] Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen  (Bundesbeihilfeverordnung - BBhV)
-
-Ausfertigungsdatum: 13.02.2009
-
+% Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen  (Bundesbeihilfeverordnung - BBhV)
+% Ausfertigungsdatum: 13.02.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 80 Abs. 4 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) verordnet das Bundesministerium des Innern im Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der Finanzen, dem Bundesministerium der Verteidigung und dem Bundesministerium für Gesundheit:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Regelungsgegenstand
+# § 1 – Regelungsgegenstand
 
 Diese Verordnung regelt die Einzelheiten der Gewährung von Beihilfe nach § 80 Absatz 6 des Bundesbeamtengesetzes.
 
-
-## § 2 – Beihilfeberechtigte Personen
+# § 2 – Beihilfeberechtigte Personen
 
 (1) Soweit nicht die Absätze 2 bis 5 etwas Anderes bestimmen, ist beihilfeberechtigt, wer im Zeitpunkt der Leistungserbringung
 
@@ -43,13 +37,11 @@ ist.
 
 (5) Nicht beihilfeberechtigt nach dieser Verordnung sind diejenigen Beamtinnen und Beamten, die A-Mitglieder der Postbeamtenkrankenkasse sind, soweit die Satzung für beihilfefähige Aufwendungen dieser Mitglieder Sachleistungen vorsieht und diese nicht durch einen Höchstbetrag begrenzt sind.
 
-
-## § 3 – Beamtinnen und Beamte im Ausland
+# § 3 – Beamtinnen und Beamte im Ausland
 
 Beihilfeberechtigt nach § 2 Abs. 1 Nr. 1 sind auch diejenigen Beamtinnen und Beamten, die ihren dienstlichen Wohnsitz im Ausland haben oder in das Ausland abgeordnet sind.
 
-
-## § 4 – Berücksichtigungsfähige Personen
+# § 4 – Berücksichtigungsfähige Personen
 
 (1) Ehegattinnen, Ehegatten, Lebenspartnerinnen und Lebenspartner beihilfeberechtigter Personen sind berücksichtigungsfähig.
 
@@ -63,8 +55,7 @@ Befinden sich Kinder nach Vollendung des 25. Lebensjahres noch in Schul- oder Be
 
 (3) Angehörige beihilfeberechtigter Waisen sind nicht berücksichtigungsfähig.
 
-
-## § 5 – Konkurrenzen
+# § 5 – Konkurrenzen
 
 (1) Die Beihilfeberechtigung aus einem Dienstverhältnis oder ein Anspruch auf Leistungen der Krankenfürsorge in entsprechender Anwendung der Beihilferegelungen für Beamtinnen und Beamte schließt
 
@@ -100,8 +91,7 @@ vor. Keine im Wesentlichen vergleichbare Regelung stellt der bei teilzeitbeschä
 
 (6) Ein Kind wird bei der beihilfeberechtigten Person berücksichtigt, die den Familienzuschlag für das Kind erhält. Beihilfeberechtigt im Sinne von Satz 1 sind auch Personen, die einen Anspruch auf Beihilfe haben, der in seinem Umfang dem Anspruch nach dieser Verordnung im Wesentlichen vergleichbar ist, unabhängig von der jeweiligen Anspruchsgrundlage. Familienzuschlag für das Kind im Sinne von Satz 1 sind die Leistungen nach den §§ 39, 40 und 53 des Bundesbesoldungsgesetzes oder vergleichbare Leistungen, die im Hinblick auf das Kind gewährt werden. Die Sätze 1 und 2 gelten nicht für Personen, die Anspruch auf Heilfürsorge oder auf truppenärztliche Versorgung haben.
 
-
-## § 6 – Beihilfefähigkeit von Aufwendungen
+# § 6 – Beihilfefähigkeit von Aufwendungen
 
 (1) Aufwendungen sind beihilfefähig, wenn zum Zeitpunkt des Entstehens der Aufwendungen
 
@@ -125,13 +115,11 @@ Die Aufwendungen gelten als zu dem Zeitpunkt entstanden, zu dem die sie begründ
 
 (8) Sofern im Einzelfall die Ablehnung der Beihilfe eine besondere Härte darstellen würde, kann die oberste Dienstbehörde mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat eine Beihilfe zur Milderung der Härte gewähren. Die Entscheidung ist besonders zu begründen und zu dokumentieren.
 
-
-## § 7 – Verweisungen auf das Sozialgesetzbuch
+# § 7 – Verweisungen auf das Sozialgesetzbuch
 
 Soweit sich Inhalt und Ausgestaltung von Leistungen, zu denen Beihilfe gewährt wird, an Vorschriften des Fünften Buches Sozialgesetzbuch anlehnen, setzt die Beihilfefähigkeit der Aufwendungen voraus, dass für die Leistungen einschließlich der Arzneimittel nach dem allgemein anerkannten Stand der medizinischen Erkenntnisse der diagnostische oder therapeutische Nutzen, die medizinische Notwendigkeit und die Wirtschaftlichkeit nachgewiesen sind sowie insbesondere ein Arzneimittel zweckmäßig ist und keine andere, wirtschaftlichere Behandlungsmöglichkeit mit vergleichbarem diagnostischen oder therapeutischen Nutzen verfügbar ist. Wird in dieser Verordnung auf Vorschriften des Fünften Buches Sozialgesetzbuch verwiesen, die ihrerseits auf Richtlinien des Gemeinsamen Bundesausschusses nach § 91 des Fünften Buches Sozialgesetzbuch, Entscheidungen oder Vereinbarungen der Spitzenverbände der gesetzlichen Krankenkassen oder Satzungsbestimmungen von gesetzlichen Krankenkassen verweisen oder Bezug nehmen, hat sich die Rechtsanwendung unter Berücksichtigung des Fürsorgegrundsatzes nach § 78 des Bundesbeamtengesetzes an den in diesen Normen oder Entscheidungen niedergelegten Grundsätzen zu orientieren. Dies gilt insbesondere für die §§ 22 und 27 Abs. 1 Satz 2, §§ 30 und 40 Abs. 1, § 41 Abs. 1, § 43 Abs. 1 und § 50 Abs. 1 Satz 4. Im Übrigen gelten die Vorschriften des Sozialgesetzbuches, auf die diese Verordnung verweist, entsprechend, soweit die grundsätzlichen Unterschiede zwischen Beihilfe- und Sozialversicherungsrecht dies nicht ausschließen.
 
-
-## § 8 – Ausschluss der Beihilfefähigkeit
+# § 8 – Ausschluss der Beihilfefähigkeit
 
 (1) Nicht beihilfefähig sind Aufwendungen
 
@@ -179,8 +167,7 @@ Satz 3 gilt nicht für
 
 (5) Die Absätze 3 und 4 gelten nicht für Leistungen nach dem Zwölften Buch Sozialgesetzbuch, wenn Ansprüche auf den Sozialhilfeträger übergeleitet worden sind.
 
-
-## § 9 – Anrechnung von Leistungen
+# § 9 – Anrechnung von Leistungen
 
 (1) Soweit Aufwendungen auf Grund von Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen von dritter Seite getragen oder erstattet werden, sind sie vor Berechnung der Beihilfe von den beihilfefähigen Aufwendungen abzuziehen. Dies gilt nicht für Leistungen an beihilfeberechtigte Personen, die dem Gemeinsamen Krankheitsfürsorgesystem der Organe der Europäischen Union angehören. Unterhaltsansprüche von beihilfeberechtigten Personen gelten nicht als Ansprüche auf Kostenerstattung.
 
@@ -198,8 +185,7 @@ Satz 3 gilt nicht für
 
 (4) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, kann von der Anrechnung eines Leistungsanteils nach Absatz 3 Satz 1 bis 3 abgesehen werden, wenn die zustehenden Leistungen wegen Gefahr für Leib und Leben nicht in Anspruch genommen werden konnten oder wegen der besonderen Verhältnisse im Ausland tatsächlich nicht zu erlangen waren.
 
-
-## § 10 – Beihilfeanspruch
+# § 10 – Beihilfeanspruch
 
 (1) Auf Beihilfe besteht ein Rechtsanspruch. Der Anspruch kann nicht abgetreten und grundsätzlich nicht verpfändet oder gepfändet werden. Die Pfändung wegen einer Forderung auf Grund einer beihilfefähigen Leistung der Forderungsgläubigerin oder des Forderungsgläubigers ist insoweit zulässig, als die Beihilfe noch nicht ausgezahlt ist.
 
@@ -211,8 +197,7 @@ Satz 3 gilt nicht für
 
 3. ein Konto einer oder eines durch Erbschein oder durch eine andere öffentliche oder öffentlich beglaubigte Urkunde ausgewiesenen Erbin oder Erben.
 
-
-## § 11 – Aufwendungen im Ausland
+# § 11 – Aufwendungen im Ausland
 
 (1) Aufwendungen für Leistungen in einem Mitgliedstaat der Europäischen Union sind wie im Inland entstandene Aufwendungen zu behandeln. § 6 Absatz 3 Satz 1 bis 3 ist in diesen Fällen nicht anzuwenden. Aufwendungen für Leistungen außerhalb der Europäischen Union sind beihilfefähig bis zu der Höhe, in der sie im Inland entstanden und beihilfefähig wären.
 
@@ -232,23 +217,19 @@ Eine Anerkennung nach Satz 1 Nummer 5 kommt ausnahmsweise in Betracht, wenn ein 
 
 (3) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen, die während eines nicht dienstlich bedingten Aufenthaltes außerhalb des Gastlandes und außerhalb der Europäischen Union im Ausland entstehen, nur insoweit und bis zu der Höhe beihilfefähig, wie sie im Gastland oder im Inland entstanden und beihilfefähig wären. Dies gilt nicht in den Fällen des § 31 Abs. 5.
 
-
-## § 12 – Ärztliche Leistungen
+# § 12 – Ärztliche Leistungen
 
 Aufwendungen für ambulante ärztliche Untersuchungen und Behandlungen sind nach Maßgabe des § 6 in Krankheitsfällen grundsätzlich beihilfefähig. Die Vorschriften des Kapitels 4 bleiben unberührt. Aufwendungen für Dienstunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
-
-## § 13 – Leistungen von Heilpraktikerinnen und Heilpraktikern
+# § 13 – Leistungen von Heilpraktikerinnen und Heilpraktikern
 
 Aufwendungen für Leistungen von Heilpraktikerinnen und Heilpraktikern sind nach Maßgabe des § 6 Absatz 3 Satz 4 und nach § 22 Absatz 6 beihilfefähig.
 
-
-## § 14 – Zahnärztliche Leistungen
+# § 14 – Zahnärztliche Leistungen
 
 Aufwendungen für ambulante zahnärztliche und kieferorthopädische Untersuchungen und Behandlungen sind nach Maßgabe des § 6 grundsätzlich beihilfefähig. Für Zahnersatz und implantologische Leistungen kann der Festsetzungsstelle vor Aufnahme der Behandlung ein Heil- und Kostenplan vorgelegt werden. Die Kosten des Heil- und Kostenplanes gehören zu den beihilfefähigen Aufwendungen. Aufwendungen für Dienstunfähigkeitsbescheinigungen für den Dienstherrn der beihilfeberechtigten Person trägt die Festsetzungsstelle.
 
-
-## § 15 – Implantologische Leistungen
+# § 15 – Implantologische Leistungen
 
 (1) Aufwendungen für implantologische Leistungen nach Abschnitt K der Anlage 1 zur Gebührenordnung für Zahnärzte und alle damit in Zusammenhang stehenden weiteren Aufwendungen nach der Anlage zur Gebührenordnung für Ärzte und der Anlage 1 zur Gebührenordnung für Zahnärzte sind beihilfefähig bei
 
@@ -280,8 +261,7 @@ Im Fall des Satzes 1 Nummer 5 sind die Aufwendungen für höchstens vier Implant
 
 (3) Die Aufwendungen für Suprakonstruktionen auf Implantaten sind im Rahmen des § 16 stets beihilfefähig.
 
-
-## § 15a – Kieferorthopädische Leistungen
+# § 15a – Kieferorthopädische Leistungen
 
 (1) Aufwendungen für kieferorthopädische Leistungen sind beihilfefähig, wenn
 
@@ -337,8 +317,7 @@ d) verletzungsbedingter Kieferfehlstellungen.
 
 Die Frühbehandlung nach Satz 1 Nummer 4 soll nicht vor Vollendung des dritten Lebensjahres begonnen und innerhalb von sechs Kalenderquartalen abgeschlossen werden; eine reguläre kieferorthopädische Behandlung kann sich anschließen, wenn die zweite Phase des Zahnwechsels vorliegt. Aufwendungen für den Einsatz individuell gefertigter Behandlungsgeräte sind neben den Aufwendungen für eine Behandlung nach Satz 1 Nummer 4 oder Nummer 5 gesondert beihilfefähig.
 
-
-## § 15b – Funktionsanalytische und funktionstherapeutische Leistungen
+# § 15b – Funktionsanalytische und funktionstherapeutische Leistungen
 
 (1) Aufwendungen für funktionsanalytische und funktionstherapeutische Leistungen sind nur beihilfefähig, wenn eine der folgenden Indikationen vorliegt:
 
@@ -356,15 +335,13 @@ Eine Gebisssanierung ist umfangreich, wenn in einem Kiefer mindestens acht Seite
 
 (2) Die beihilfeberechtigte Person hat der Festsetzungsstelle eine Kopie der zahnärztlichen Dokumentation nach Nummer 8000 der Anlage 1 zur Gebührenordnung für Zahnärzte vorzulegen.
 
-
-## § 16 – Auslagen, Material- und Laborkosten
+# § 16 – Auslagen, Material- und Laborkosten
 
 (1) Gesondert berechenbare Aufwendungen für Auslagen, Material- und Laborkosten nach § 4 Abs. 3 und § 9 der Gebührenordnung für Zahnärzte, die bei einer zahnärztlichen Behandlung nach den Nummern 2130 bis 2320, 5000 bis 5340, 7080 bis 7100 und 9000 bis 9170 der Anlage 1 zur Gebührenordnung für Zahnärzte entstanden sind, sind zu 60 Prozent beihilfefähig. Dies gilt nicht bei Indikationen nach § 15 Absatz 1 Satz 1 Nummer 1 bis 4.
 
 (2) Wenn der auf die in Absatz 1 genannten Aufwendungen entfallende Anteil nicht nachgewiesen ist, sind 40 Prozent des Gesamtrechnungsbetrages anzusetzen.
 
-
-## § 17 – Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf
+# § 17 – Zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf
 
 (1) Aufwendungen für zahnärztliche Leistungen für Beamtinnen und Beamte auf Widerruf und Personen, die bei ihnen berücksichtigungsfähig sind, sind beihilfefähig, soweit sie nicht in Absatz 2 ausgenommen sind.
 
@@ -380,8 +357,7 @@ Eine Gebisssanierung ist umfangreich, wenn in einem Kiefer mindestens acht Seite
 
 Aufwendungen nach Satz 1 sind ausnahmsweise beihilfefähig, wenn sie auf einem Unfall während des Vorbereitungsdienstes beruhen oder wenn die beihilfeberechtigte Person zuvor mindestens drei Jahre ununterbrochen im öffentlichen Dienst beschäftigt gewesen ist.
 
-
-## § 18 – Psychotherapie, psychosomatische Grundversorgung, psychotherapeutische Akutbehandlung
+# § 18 – Psychotherapie, psychosomatische Grundversorgung, psychotherapeutische Akutbehandlung
 
 (1) Aufwendungen für Leistungen der Psychotherapie in den Behandlungsformen psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie sowie für Leistungen der psychosomatischen Grundversorgung sind nach Maßgabe der Absätze 3 und 4 sowie der §§ 18a bis 21 beihilfefähig.
 
@@ -395,8 +371,7 @@ Aufwendungen nach Satz 1 sind ausnahmsweise beihilfefähig, wenn sie auf einem U
 
 2. Leistungen nach Abschnitt 1 der Anlage 3.
 
-
-## § 18a – Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie
+# § 18a – Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren, Verhaltenstherapie und Systemische Therapie
 
 (1) Aufwendungen für Leistungen der Psychotherapie sind beihilfefähig bei
 
@@ -456,8 +431,7 @@ Bei telekommunikationsgestützter Therapie sind bis zu 15 Sitzungen beihilfefäh
 
 (7) Aufwendungen für eine Eye-Movement-Desensitization-and-Reprocessing-Behandlung sind nur bei Personen, die das 18. Lebensjahr vollendet haben, mit posttraumatischen Belastungsstörungen im Rahmen eines umfassenden Behandlungskonzepts der Verhaltenstherapie, der tiefenpsychologisch fundierten Psychotherapie oder analytischen Psychotherapie beihilfefähig.
 
-
-## § 19 – Psychoanalytisch begründete Verfahren
+# § 19 – Psychoanalytisch begründete Verfahren
 
 (1) Aufwendungen für psychoanalytisch begründete Verfahren mit ihren beiden Behandlungsformen, der tiefenpsychologisch fundierten Psychotherapie und der analytischen Psychotherapie (Nummern 860 bis 865 der Anlage zur Gebührenordnung für Ärzte), sind je Krankheitsfall in folgendem Umfang beihilfefähig:
 
@@ -505,8 +479,7 @@ Bei einer Kombination von Einzel- und Gruppenbehandlung richtet sich die Beihilf
 
 (6) Aufwendungen für katathymes Bilderleben sind nur im Rahmen eines übergeordneten tiefenpsychologischen Therapiekonzepts beihilfefähig.
 
-
-## § 20 – Verhaltenstherapie
+# § 20 – Verhaltenstherapie
 
 (1) Aufwendungen für eine Verhaltenstherapie (Nummern 870 und 871 der Anlage zur Gebührenordnung für Ärzte) sind je Krankheitsfall in folgendem Umfang beihilfefähig:
 
@@ -520,8 +493,7 @@ behandlung</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"
 
 (3) Aufwendungen für eine Rational-Emotive Therapie sind nur im Rahmen eines umfassenden verhaltenstherapeutischen Behandlungskonzepts beihilfefähig.
 
-
-## § 20a – Systemische Therapie
+# § 20a – Systemische Therapie
 
 (1) Aufwendungen für eine Systemische Therapie sind je Krankheitsfall für Personen, die das 18. Lebensjahr vollendet haben, in folgendem Umfang, auch im Mehrpersonensetting, beihilfefähig:
 
@@ -532,8 +504,7 @@ behandlung</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"
 
 (2) § 19 Absatz 3 gilt entsprechend.
 
-
-## § 21 – Psychosomatische Grundversorgung
+# § 21 – Psychosomatische Grundversorgung
 
 (1) Die psychosomatische Grundversorgung im Sinne dieser Verordnung umfasst
 
@@ -553,8 +524,7 @@ Aufwendungen für Leistungen nach Satz 1 Nummer 1 sind nicht beihilfefähig, wen
 
 (3) Aufwendungen für eine bis zu sechs Monate dauernde ambulante psychosomatische Nachsorge nach einer stationären psychosomatischen Behandlung sind bis zu der Höhe der Vergütung, die von den gesetzlichen Krankenkassen oder den Rentenversicherungsträgern zu tragen ist, beihilfefähig.
 
-
-## § 22 – Arznei- und Verbandmittel, Medizinprodukte
+# § 22 – Arznei- und Verbandmittel, Medizinprodukte
 
 (1) Beihilfefähig sind Aufwendungen für ärztlich oder zahnärztlich nach Art und Umfang schriftlich verordnete oder während einer Behandlung verbrauchte
 
@@ -642,15 +612,13 @@ e) als mild wirkendes Arzneimittel,
 
 (6) Die Absätze 1 bis 4 gelten entsprechend für Aufwendungen für Arznei- und Verbandmittel, Teststreifen und Medizinprodukte, die eine Heilpraktikerin oder ein Heilpraktiker während einer Behandlung verbraucht hat.
 
-
-## § 23 – Heilmittel
+# § 23 – Heilmittel
 
 (1) Aufwendungen für ärztlich oder zahnärztlich verordnete Heilmittel und bei der Anwendung der Heilmittel verbrauchte Stoffe sind nach Maßgabe der Anlagen 9 und 10 beihilfefähig.
 
 (2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, beurteilt sich die Angemessenheit der Aufwendungen für ärztlich oder zahnärztlich verordnete Heilmittel anstelle der in Anlage 9 genannten Höchstbeträge nach den ortsüblichen Gebühren unter Berücksichtigung der besonderen Verhältnisse im Ausland. Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, die die Höchstbeträge nach Anlage 9 übersteigen, höchstens jedoch um 10 Euro. Diese Minderung gilt nicht für Personen, die das 18. Lebensjahr noch nicht vollendet haben.
 
-
-## § 24 – Komplextherapie, integrierte Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen
+# § 24 – Komplextherapie, integrierte Versorgung und Leistungen psychiatrischer und psychosomatischer Institutsambulanzen
 
 (1) Aufwendungen für Leistungen, die in Form von ambulanten, voll- oder teilstationären Komplextherapien erbracht und pauschal berechnet werden, sind abweichend von § 6 Absatz 3 Satz 1 und 2 und § 23 Absatz 1 in angemessener Höhe beihilfefähig. Komplextherapie ist eine aus verschiedenen, sich ergänzenden Teilen zusammengesetzte Therapie spezifischer Krankheitsbilder und wird von einem interdisziplinären Team erbracht.
 
@@ -672,8 +640,7 @@ c) eine stationäre Rehabilitationsmaßnahme im Sinne von § 35 Absatz 1 Satz 1
 
 2. erforderlich sind, um den stationären Aufenthalt zu verkürzen oder die anschließende ambulante ärztliche Behandlung zu sichern.
 
-
-## § 25 – Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
+# § 25 – Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
 (1) Aufwendungen für ärztlich verordnete Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle sowie Körperersatzstücke sind beihilfefähig, wenn sie im Einzelfall erforderlich sind, um den Erfolg der Krankenbehandlung zu sichern, einer drohenden Behinderung vorzubeugen oder eine Behinderung auszugleichen. Beihilfefähig sind vorbehaltlich des Absatzes 4 Aufwendungen für Anschaffung, Reparatur, Ersatz, Betrieb, Unterweisung in den Gebrauch und Unterhaltung der in Anlage 11 genannten Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle und Körperersatzstücke unter den dort genannten Voraussetzungen. Aufwendungen für den Ersatz eines unbrauchbar gewordenen Gegenstandes im Sinne von Satz 1 sind nach Ablauf von sechs Monaten seit Anschaffung beihilfefähig, wenn eine erneute ärztliche Verordnung vorliegt.
 
@@ -699,8 +666,7 @@ d) in Anlage 12 genannt sind, und
 
 (6) Beihilfefähig sind auch Aufwendungen für Hilfsmittel, die eine dritte Person durch einen Sicherheitsmechanismus vor Nadelstichverletzungen schützen, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person selbst nicht zur Anwendung des Hilfsmittels in der Lage ist und es hierfür einer Tätigkeit der dritten Person bedarf, bei der die Gefahr einer Infektion durch Stichverletzungen, insbesondere durch Blutentnahmen und Injektionen, besteht oder angenommen werden kann.
 
-
-## § 26 – Behandlung in zugelassenen Krankenhäusern
+# § 26 – Behandlung in zugelassenen Krankenhäusern
 
 (1) Aufwendungen für Behandlungen in zugelassenen Krankenhäusern nach § 108 des Fünften Buches Sozialgesetzbuch sind beihilfefähig, soweit sie entstanden sind für
 
@@ -724,8 +690,7 @@ c) anderer im Zusammenhang mit Leistungen nach den Buchstaben a und b erbrachter
 
 (3) Aufwendungen für eine stationsäquivalente psychiatrische Behandlung nach § 115d des Fünften Buches Sozialgesetzbuch sind beihilfefähig.
 
-
-## § 26a – Behandlung in nicht zugelassenen Krankenhäusern
+# § 26a – Behandlung in nicht zugelassenen Krankenhäusern
 
 (1) Aufwendungen für Behandlungen in Krankenhäusern, die die Voraussetzungen des § 107 Absatz 1 des Fünften Buches Sozialgesetzbuch erfüllen, aber nicht nach § 108 des Fünften Buches Sozialgesetzbuch zugelassen sind, sind wie folgt beihilfefähig:
 
@@ -767,8 +732,7 @@ maßgebend ist die jeweils geltende, auf der Internetseite des Instituts für da
 
 (6) Bei Personen, die nach § 3 beihilfeberechtigt sind oder die bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind für Unterkunft und Verpflegung in ausländischen Krankenhäusern unter Berücksichtigung der besonderen Verhältnisse am Behandlungsort die entstandenen Aufwendungen abzüglich eines Betrages von 14,50 Euro täglich beihilfefähig, sofern die Unterbringung derjenigen in einem Zweibettzimmer im Inland nach § 26 Absatz 1 Nummer 5 Buchstabe b entspricht. Satz 1 gilt nicht, wenn aus medizinischen Gründen eine andere Unterbringung notwendig ist. Beihilfefähig sind auch Aufwendungen, die für den Einsatz von Unternehmen entstehen, die bei der Abrechnung von im Ausland erbrachten stationären Leistungen tätig werden.
 
-
-## § 27 – Häusliche Krankenpflege, Kurzzeitpflege bei fehlender Pflegebedürftigkeit
+# § 27 – Häusliche Krankenpflege, Kurzzeitpflege bei fehlender Pflegebedürftigkeit
 
 (1) Beihilfefähig sind Aufwendungen für häusliche Krankenpflege, soweit sie angemessen und nach ärztlicher Bescheinigung erforderlich sind und die Pflege
 
@@ -816,8 +780,7 @@ insbesondere nach einem Krankenhausaufenthalt, nach einer ambulanten Operation o
 
 (6) Beihilfefähig sind auch Aufwendungen für die Versorgung chronischer und schwer heilender Wunden in spezialisierten Einrichtungen.
 
-
-## § 28 – Familien- und Haushaltshilfe
+# § 28 – Familien- und Haushaltshilfe
 
 (1) Die Aufwendungen für eine Familien- und Haushaltshilfe sind pro Stunde in Höhe von 0,32 Prozent der sich aus § 18 des Vierten Buches Sozialgesetzbuch ergebenden monatlichen Bezugsgröße, aufgerundet auf volle Euro, beihilfefähig, wenn
 
@@ -843,8 +806,7 @@ insbesondere unmittelbar nach einem Krankenhausaufenthalt, unmittelbar nach eine
 
 (5) Aufwendungen für notwendige Fahrtkosten sind in Höhe der Reisekostenvergütung nach den §§ 3, 4 und 5 Absatz 1 des Bundesreisekostengesetzes beihilfefähig.
 
-
-## § 29 – Familien- und Haushaltshilfe im Ausland
+# § 29 – Familien- und Haushaltshilfe im Ausland
 
 (1) Aufwendungen beihilfeberechtigter Personen nach § 3 für eine Familien- und Haushaltshilfe sind auch dann beihilfefähig, wenn
 
@@ -858,13 +820,11 @@ insbesondere unmittelbar nach einem Krankenhausaufenthalt, unmittelbar nach eine
 
 (3) Werden statt der Inanspruchnahme einer Familien- und Haushaltshilfe berücksichtigungsfähige Personen, die das vierte Lebensjahr noch nicht vollendet haben, beim Verlassen des Dienstortes mitgenommen, sind die hierfür notwendigen Fahrtkosten beihilfefähig. Übernehmen die Ehegattin, der Ehegatte, die Lebenspartnerin, der Lebenspartner, die Eltern oder die Kinder des die Familien- und Haushaltshilfe in Anspruch Nehmenden die Führung des Haushalts, sind die damit verbundenen Fahrtkosten bis zur Höhe der andernfalls für eine Familien- und Haushaltshilfe anfallenden Aufwendungen beihilfefähig.
 
-
-## § 30 – Soziotherapie
+# § 30 – Soziotherapie
 
 Aufwendungen für Soziotherapie sind beihilfefähig, wenn die beihilfeberechtigte oder berücksichtigungsfähige Person wegen einer schweren psychischen Erkrankung nicht in der Lage ist, ärztliche oder ärztlich verordnete Leistungen selbständig in Anspruch zu nehmen, und durch die Soziotherapie eine Krankenhausbehandlung vermieden oder verkürzt wird. Dies gilt auch, wenn die Krankenhausbehandlung geboten, aber nicht durchführbar ist. Inhalt und Ausgestaltung der Soziotherapie richten sich nach § 37a des Fünften Buches Sozialgesetzbuch.
 
-
-## § 30a – Neuropsychologische Therapie
+# § 30a – Neuropsychologische Therapie
 
 (1) Aufwendungen für ambulante neuropsychologische Therapie sind beihilfefähig, wenn sie
 
@@ -928,8 +888,7 @@ einheiten</td></tr></tbody></table>
 
 Bei einer Kombination von Einzel- und Gruppenbehandlung ist die gesamte Behandlung nach Satz 1 Nummer 2 beihilfefähig.
 
-
-## § 31 – Fahrtkosten
+# § 31 – Fahrtkosten
 
 (1) Beihilfefähig sind Aufwendungen für ärztlich verordnete Fahrten
 
@@ -995,8 +954,7 @@ Kosten nach Satz 1 Nummer 4 sind ausnahmsweise beihilfefähig, wenn zwingende me
 
 Die Hin- und Rückfahrt gelten als eine Fahrt.
 
-
-## § 32 – Unterkunftskosten
+# § 32 – Unterkunftskosten
 
 (1) Aufwendungen für die Unterkunft anlässlich notwendiger auswärtiger ambulanter ärztlicher, zahnärztlicher oder psychotherapeutischer Leistungen sind bis 150 Prozent des Betrags nach § 7 Absatz 1 Satz 1 des Bundesreisekostengesetzes beihilfefähig. Ist eine Begleitperson medizinisch erforderlich, sind Aufwendungen für deren Unterkunft in gleicher Höhe beihilfefähig.
 
@@ -1004,8 +962,7 @@ Die Hin- und Rückfahrt gelten als eine Fahrt.
 
 (3) Aufwendungen nach den Absätzen 1 und 2 sind bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, auch dann beihilfefähig, wenn sie außerhalb des Gastlandes erbracht werden. Aufwendungen für eine Unterkunft im Ausland sind bis zur Höhe von 150 Prozent des Auslandsübernachtungsgelds (§ 3 Absatz 1 der Auslandsreisekostenverordnung) beihilfefähig.
 
-
-## § 33 – Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten
+# § 33 – Lebensbedrohliche oder regelmäßig tödlich verlaufende Krankheiten
 
 Beihilfefähig sind Aufwendungen für medizinische Leistungen anlässlich einer lebensbedrohlichen Erkrankung, anlässlich einer im Regelfall tödlich verlaufenden Erkrankung oder anlässlich einer Erkrankung, die diesen beiden Arten von Erkrankungen wertungsmäßig vergleichbar ist, wenn
 
@@ -1015,8 +972,7 @@ Beihilfefähig sind Aufwendungen für medizinische Leistungen anlässlich einer 
 
 Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit der obersten Dienstbehörde. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat herzustellen.
 
-
-## § 34 – Anschlussheil- und Suchtbehandlungen
+# § 34 – Anschlussheil- und Suchtbehandlungen
 
 (1) Aufwendungen für ärztlich verordnete Anschlussheilbehandlungen, die als medizinische Rehabilitationsmaßnahmen in Rehabilitationseinrichtungen, mit denen ein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 oder § 111c des Fünften Buches Sozialgesetzbuch besteht, durchgeführt werden, sind beihilfefähig. Eine Anschlussheilbehandlung im Sinne des Satzes 1 liegt vor, wenn sich die Rehabilitationsmaßnahme an einen Krankenhausaufenthalt zur Behandlung einer schwerwiegenden Erkrankung anschließt oder im Zusammenhang mit einer Krankenhausbehandlung steht. Satz 1 gilt auch für Anschlussheilbehandlungen, wenn diese nach einer ambulanten Operation, Strahlen- oder Chemotherapie notwendig sind.
 
@@ -1038,8 +994,7 @@ Die Festsetzungsstelle entscheidet in Fällen des Satzes 1 im Einvernehmen mit d
 
 (6) Werden unter den Voraussetzungen des Absatzes 3 Rehabilitationsmaßnahmen nach Absatz 1 oder Absatz 2 in Rehabilitationseinrichtungen durchgeführt, mit denen kein Versorgungsvertrag nach § 111 Absatz 2 Satz 1 des Fünften Buches Sozialgesetzbuch besteht, sind Aufwendungen nur entsprechend den §§ 12, 13, 18, 22 bis 25, 26a und § 35 Absatz 2 Satz 2 Nummer 2 bis 4 beihilfefähig.
 
-
-## § 35 – Rehabilitationsmaßnahmen
+# § 35 – Rehabilitationsmaßnahmen
 
 (1) Beihilfefähig sind Aufwendungen für
 
@@ -1091,8 +1046,7 @@ Aufwendungen für eine Begleitperson sind nur beihilfefähig, wenn die medizinis
 
 (3) Ist bei einer stationären Rehabilitationsmaßnahme die Anwesenheit einer Begleitperson aus medizinischen Gründen notwendig, eine Mitaufnahme in der stationären Rehabilitationseinrichtung jedoch nicht möglich, sind Aufwendungen für Unterbringung und Verpflegung der Begleitperson außerhalb der Rehabilitationseinrichtung bis zur Höhe der Kosten nach Absatz 2 Satz 2 Nummer 5 Buchstabe b beihilfefähig.
 
-
-## § 36 – Voraussetzungen für Rehabilitationsmaßnahmen
+# § 36 – Voraussetzungen für Rehabilitationsmaßnahmen
 
 (1) Aufwendungen für Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nummer 1, 2 und 4 sind nur beihilfefähig, wenn die Festsetzungsstelle auf Antrag die Beihilfefähigkeit vor Beginn der Rehabilitationsmaßnahme anerkannt hat. Sie hat hierzu ein Gutachten einer Amtsärztin, eines Amtsarztes, einer von ihr beauftragten Ärztin oder eines von ihr beauftragten Arztes einzuholen, das Aussagen darüber enthält, dass
 
@@ -1112,8 +1066,7 @@ Für die Anerkennung von Rehabilitationsmaßnahmen nach § 35 Absatz 1 Satz 1 Nu
 
 (3) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind Aufwendungen für eine Rehabilitationsmaßnahme im Sinne des § 35 Absatz 1 Satz 1 Nummer 1 in einer ausländischen Einrichtung außerhalb der Europäischen Union auch beihilfefähig, wenn vor Beginn der Maßnahme die oder der von der Festsetzungsstelle beauftragte Ärztin oder Arzt die Einrichtung für geeignet erklärt hat und die stationäre Rehabilitationsmaßnahme nicht in einem Staat der Europäischen Union durchgeführt werden kann. Dem Antrag auf Anerkennung der Beihilfefähigkeit sind Unterlagen über die in Aussicht genommene Einrichtung beizufügen. Wird eine Rehabilitationsmaßnahme nach § 35 Absatz 1 Satz 1 Nummer 1 bis 4 in einem Staat der Europäischen Union durchgeführt, sind die Beförderungskosten zwischen dem Auslandsdienstort und dem Behandlungsort beihilfefähig, wenn die An- und Abreise nicht mit einer Heimaturlaubsreise oder einer anderen amtlich bezahlten Reise verbunden werden kann. Dies gilt auch, wenn eine Rehabilitationsmaßnahme auf Grund der in § 9 Abs. 1 erwähnten Rechtsvorschriften oder arbeitsvertraglichen Vereinbarungen gewährt wird, soweit der Kostenträger Fahrtkosten für die Abreise vom und die Anreise zum Auslandsdienstort nicht übernimmt und die Festsetzungsstelle die Beihilfefähigkeit der Fahrtkosten vorher dem Grunde nach anerkannt hat.
 
-
-## § 37 – Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen
+# § 37 – Pflegeberatung, Anspruch auf Beihilfe für Pflegeleistungen
 
 (1) Der Bund beteiligt sich an den personenbezogenen Kosten der Träger für eine Pflegeberatung nach § 7a des Elften Buches Sozialgesetzbuch, wenn
 
@@ -1129,8 +1082,7 @@ Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des B
 
 (2) Beihilfeberechtigte und berücksichtigungsfähige Personen erhalten Beihilfe zu Pflegeleistungen nach Maßgabe der §§ 38 bis 38g und der §§ 39 bis 39b, wenn sie pflegebedürftig im Sinne der §§ 14 und 15 des Elften Buches Sozialgesetzbuch sind.
 
-
-## § 38 – Anspruchsberechtigte bei Pflegeleistungen
+# § 38 – Anspruchsberechtigte bei Pflegeleistungen
 
 Aufwendungen für Pflegeleistungen sind nur beihilfefähig bei beihilfeberechtigten oder berücksichtigungsfähigen Personen
 
@@ -1138,8 +1090,7 @@ Aufwendungen für Pflegeleistungen sind nur beihilfefähig bei beihilfeberechtig
 
 2. des Pflegegrades 1 nach § 39b.
 
-
-## § 38a – Häusliche Pflege
+# § 38a – Häusliche Pflege
 
 (1) Aufwendungen für häusliche Pflege entsprechend § 36 Absatz 1 und 2 des Elften Buches Sozialgesetzbuch in Form von körperbezogenen Pflegemaßnahmen, pflegerischen Betreuungsmaßnahmen und Hilfen bei der Haushaltsführung sind in Höhe der in § 36 Absatz 3 des Elften Buches Sozialgesetzbuch genannten Beträge beihilfefähig. Voraussetzung ist, dass die häusliche Pflege durch geeignete Pflegekräfte erbracht wird, die in einem Vertragsverhältnis zur Pflegekasse oder zu einer ambulanten Pflegeeinrichtung stehen, mit der die jeweilige Pflegekasse einen Versorgungsvertrag abgeschlossen hat. Satz 1 ist nicht anwendbar, wenn Aufwendungen wegen desselben Sachverhalts für eine häusliche Krankenpflege nach § 27 beihilfefähig sind. § 36 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -1165,8 +1116,7 @@ Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Begin
 
 (6) Beihilfefähig sind auch Aufwendungen für Beratungsbesuche im Sinne des § 37 Absatz 3 des Elften Buches Sozialgesetzbuch, sofern für den jeweiligen Beratungsbesuch Anspruch auf Zahlung eines Zuschusses durch die private oder soziale Pflegeversicherung besteht. § 37 Absatz 4 Satz 1 des Elften Buches Sozialgesetzbuch bleibt unberührt. Der Umfang der beihilfefähigen Aufwendungen bestimmt sich entsprechend § 37 Absatz 3 des Elften Buches Sozialgesetzbuch. § 37 Absatz 6 des Elften Buches Sozialgesetzbuch gilt entsprechend.
 
-
-## § 38b – Kombinationsleistungen
+# § 38b – Kombinationsleistungen
 
 (1) Erfolgt die häusliche Pflegehilfe nach § 38a Absatz 1 nur teilweise durch eine geeignete Pflegekraft, die die Voraussetzungen nach § 38a Absatz 1 Satz 2 erfüllt, wird neben der Beihilfe anteilige Pauschalbeihilfe nach § 38a Absatz 3 gewährt. Die Pauschalbeihilfe wird um den Prozentsatz vermindert, zu dem Beihilfe nach § 38a Absatz 1 gewährt wird.
 
@@ -1180,13 +1130,11 @@ Die Höhe der fortgewährten Pauschalbeihilfe beträgt die Hälfte der vor Begin
 
 (3) Pflegebedürftige Personen in vollstationären Einrichtungen der Hilfe für behinderte Menschen erhalten ungeminderte Pauschalbeihilfe anteilig für die Tage, an denen sie sich in häuslicher Pflege befinden.
 
-
-## § 38c – Häusliche Pflege bei Verhinderung der Pflegeperson
+# § 38c – Häusliche Pflege bei Verhinderung der Pflegeperson
 
 Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründen an der häuslichen Pflege gehindert, so sind Aufwendungen für eine notwendige Ersatzpflege entsprechend § 39 des Elften Buches Sozialgesetzbuch beihilfefähig. Voraussetzung ist, dass die Pflegeperson die pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person vor der erstmaligen Verhinderung mindestens sechs Monate in ihrer häuslichen Umgebung gepflegt hat.
 
-
-## § 38d – Teilstationäre Pflege
+# § 38d – Teilstationäre Pflege
 
 (1) Aufwendungen für teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege sind entsprechend § 41 Absatz 2 des Elften Buches Sozialgesetzbuch beihilfefähig, wenn
 
@@ -1198,18 +1146,15 @@ Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus anderen Gründe
 
 (3) Aufwendungen für Leistungen der teilstationären Pflege sind neben den Aufwendungen nach § 38a Absatz 1 oder 3 oder nach § 38b beihilfefähig.
 
-
-## § 38e – Kurzzeitpflege
+# § 38e – Kurzzeitpflege
 
 Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden und reicht auch teilstationäre Pflege nicht aus, sind Aufwendungen für Kurzzeitpflege entsprechend § 42 des Elften Buches Sozialgesetzbuch beihilfefähig.
 
-
-## § 38f – Ambulant betreute Wohngruppen
+# § 38f – Ambulant betreute Wohngruppen
 
 Entstehen Aufwendungen nach § 38a Absatz 1, 2 oder 3 oder nach § 38b in ambulant betreuten Wohngruppen und sind auch die Voraussetzungen nach § 38a Absatz 1 des Elften Buches Sozialgesetzbuch erfüllt, wird eine weitere Beihilfe entsprechend § 38a Absatz 1 des Elften Buches Sozialgesetzbuch zum jeweiligen Bemessungssatz gewährt. Daneben sind Aufwendungen im Rahmen der Anschubfinanzierung zur Gründung ambulant betreuter Wohngruppen entsprechend § 45e des Elften Buches Sozialgesetzbuch beihilfefähig.
 
-
-## § 38g – Pflegehilfsmittel und Maßnahmen zur Verbesserung des Wohnumfeldes
+# § 38g – Pflegehilfsmittel und Maßnahmen zur Verbesserung des Wohnumfeldes
 
 Beihilfefähig sind Aufwendungen für
 
@@ -1219,8 +1164,7 @@ Beihilfefähig sind Aufwendungen für
 
 Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn auch ein Anspruch auf anteilige Zuschüsse für die jeweiligen Leistungen gegen die private oder soziale Pflegeversicherung besteht.Bei privater Pflegeversicherung ist derjenige Betrag dem Grunde nach beihilfefähig, der für die Berechnung der anteiligen Versicherungsleistungen zugrunde gelegt worden ist.
 
-
-## § 38h – Leistungen zur sozialen Sicherung der Pflegeperson
+# § 38h – Leistungen zur sozialen Sicherung der Pflegeperson
 
 (1) Auf Antrag der Pflegeperson sind beihilfefähig
 
@@ -1236,8 +1180,7 @@ Die Aufwendungen nach Satz 1 sind nur beihilfefähig, wenn auch ein Anspruch auf
 
 (3) Die Leistungen nach den Absätzen 1 und 2 werden in der Höhe gewährt, die dem Bemessungssatz der beihilfeberechtigten oder berücksichtigungsfähigen Person entspricht.
 
-
-## § 39 – Vollstationäre Pflege
+# § 39 – Vollstationäre Pflege
 
 (1) Aufwendungen für vollstationäre Pflege in einer zugelassenen Pflegeeinrichtung im Sinne des § 72 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch oder in einer vergleichbaren Pflegeeinrichtung sind beihilfefähig, wenn häusliche oder teilstationäre Pflege nicht möglich ist oder wegen der Besonderheit des Einzelfalls nicht in Betracht kommt. Beihilfefähig sind:
 
@@ -1281,13 +1224,11 @@ Die Einnahmen sind jährlich nachzuweisen. Macht die beihilfeberechtigte Person 
 
 (6) Absatz 2 gilt nicht für Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch.
 
-
-## § 39a – Einrichtungen der Behindertenhilfe
+# § 39a – Einrichtungen der Behindertenhilfe
 
 Aufwendungen für Pflege, Betreuung und für Leistungen der medizinischen Behandlungspflege in einer vollstationären Einrichtung im Sinne des § 71 Absatz 4 Nummer 1 des Elften Buches Sozialgesetzbuch, in der die Teilhabe am Arbeitsleben, an Bildung oder die soziale Teilhabe, die schulische Ausbildung oder die Erziehung behinderter Menschen im Vordergrund des Einrichtungszwecks stehen, sind entsprechend § 43a des Elften Buches Sozialgesetzbuch beihilfefähig. Satz 1 gilt auch für pflegebedürftige Personen in Räumlichkeiten im Sinne des § 71 Absatz 4 Nummer 3 des Elften Buches Sozialgesetzbuch, in denen Leistungen der Eingliederungshilfe für Menschen mit Behinderungen nach Teil 2 des Neunten Buches Sozialgesetzbuch erbracht werden.
 
-
-## § 39b – Aufwendungen bei Pflegegrad 1
+# § 39b – Aufwendungen bei Pflegegrad 1
 
 Für pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Personen des Pflegegrades 1 sind Aufwendungen beihilfefähig für:
 
@@ -1307,8 +1248,7 @@ Für pflegebedürftige beihilfeberechtigte oder berücksichtigungsfähige Person
 
 Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absatz 1 und an den Leistungen zur sozialen Sicherung der Pflegepersonen nach § 38h Absatz 1 und Absatz 2 Nummer 2.
 
-
-## § 40 – Palliativversorgung
+# § 40 – Palliativversorgung
 
 (1) Aufwendungen für spezialisierte ambulante Palliativversorgung sind beihilfefähig, wenn wegen einer nicht heilbaren, fortschreitenden und weit fortgeschrittenen Erkrankung bei einer zugleich begrenzten Lebenserwartung eine besonders aufwändige Versorgung notwendig ist. § 37b Abs. 1 Satz 3 und 4 sowie § 37b Abs. 2 und 3 des Fünften Buches Sozialgesetzbuch gelten entsprechend.
 
@@ -1316,15 +1256,13 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 (3) Der Bund beteiligt sich an den personenbezogenen Kosten ambulanter Hospizdienste für erbrachte Sterbebegleitung einschließlich palliativpflegerischer Beratung bei beihilfeberechtigten und berücksichtigungsfähigen Personen. Voraussetzung einer Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und den für die Wahrnehmung der Interessen der ambulanten Hospizdienste maßgeblichen Spitzenorganisationen. Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern, für Bau und Heimat bekanntgegeben.
 
-
-## § 40a – Gesundheitliche Versorgungsplanung für die letzte Lebensphase
+# § 40a – Gesundheitliche Versorgungsplanung für die letzte Lebensphase
 
 (1) Beihilfefähig sind entsprechend § 132g des Fünften Buches Sozialgesetzbuch Aufwendungen für eine gesundheitliche Versorgungsplanung für die letzte Lebensphase in zugelassenen Pflegeeinrichtungen im Sinne des § 43 des Elften Buches Sozialgesetzbuch und in Einrichtungen der Eingliederungshilfe für behinderte Menschen.
 
 (2) Die Höhe der beihilfefähigen Aufwendungen richtet sich nach § 15 insbesondere Absatz 5 der Vereinbarung zwischen dem GKV-Spitzenverband und den Trägern vollstationärer Pflegeeinrichtungen und Einrichtungen der Eingliederungshilfe für Menschen mit Behinderung vom 13. Dezember 2017<span id="FnR.FnA1-F814092_01"></span><a href="#FnA1-F814092_01" class="FnR">1</a></sup> in Verbindung mit den Vergütungsvereinbarungen der jeweiligen Träger der Einrichtungen mit den Landesverbänden der Krankenkassen und den Verbänden der Ersatzkassen.
 
-
-## § 41 – Früherkennungsuntersuchungen und Vorsorgemaßnahmen
+# § 41 – Früherkennungsuntersuchungen und Vorsorgemaßnahmen
 
 (1) Aufwendungen für Leistungen zur ärztlichen Früherkennung und Vorsorge im ärztlichen Bereich sind beihilfefähig. Die §§ 20i, 25, 25a und 26 des Fünften Buches Sozialgesetzbuch gelten entsprechend. Daneben sind die in Anlage 13 aufgeführten Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen beihilfefähig.
 
@@ -1350,8 +1288,7 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 (7) § 31 Abs. 5 in Verbindung mit § 49 Absatz 4 Nummer 3 gilt entsprechend.
 
-
-## § 42 – Schwangerschaft und Geburt
+# § 42 – Schwangerschaft und Geburt
 
 (1) Bei einer Schwangerschaft und in Geburtsfällen sind neben den Leistungen nach Kapitel 2 beihilfefähig Aufwendungen für
 
@@ -1365,8 +1302,7 @@ Daneben beteiligt sich der Bund an den Kosten der Pflegeberatung nach § 37 Absa
 
 (2) Bei Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind in Geburtsfällen zusätzlich die vor Aufnahme in ein Krankenhaus am Entbindungsort entstehenden Kosten der Unterkunft beihilfefähig. § 32 Abs. 3 Satz 2 gilt entsprechend. Dies gilt nicht für die Unterkunft im Haushalt des Ehegatten, der Lebenspartnerin, der Eltern oder der Kinder der Schwangeren.
 
-
-## § 43 – Künstliche Befruchtung
+# § 43 – Künstliche Befruchtung
 
 (1) Aufwendungen für eine künstliche Befruchtung einschließlich der Arzneimittel, die im Zusammenhang damit verordnet werden, sind beihilfefähig, wenn
 
@@ -1515,8 +1451,7 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 (7) Aufwendungen für Maßnahmen, die über die künstliche Befruchtung hinausgehen, insbesondere die Kryokonservierung von Samenzellen, imprägnierten Eizellen oder noch nicht transferierten Embryonen, sind außer in den Fällen des Satzes 2 nicht beihilfefähig. Aufwendungen für eine Kryokonservierung sind beihilfefähig, wenn die Kryokonservierung unmittelbar durch eine Krankheit bedingt ist und die oberste Dienstbehörde der Beihilfefähigkeit der entsprechenden Aufwendungen zugestimmt hat. Die oberste Dienstbehörde hat vor ihrer Zustimmung das Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat herzustellen.
 
-
-## § 43a – Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch
+# § 43a – Sterilisation, Empfängnisregelung und Schwangerschaftsabbruch
 
 (1) Aufwendungen für eine durch eine Ärztin oder einen Arzt vorgenommene Sterilisation sind beihilfefähig, wenn die Sterilisation wegen einer Krankheit notwendig ist.
 
@@ -1524,15 +1459,13 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 (3) Für einen nicht rechtswidrigen Schwangerschaftsabbruch sind Aufwendungen nach den §§ 12, 22, 26, 28, 29, 31 und 32 beihilfefähig. Daneben sind auch Aufwendungen für die ärztliche Beratung über die Erhaltung der Schwangerschaft und die ärztliche Untersuchung und Begutachtung zur Feststellung der Voraussetzungen eines nicht rechtswidrigen Schwangerschaftsabbruchs beihilfefähig.
 
-
-## § 44 – Überführungskosten
+# § 44 – Überführungskosten
 
 (1) Ist eine beihilfeberechtigte Person während einer Dienstreise, Abordnung, Zuweisung oder vor einem dienstlich bedingten Umzug außerhalb des Ortes ihrer Hauptwohnung nach § 22 Absatz 1 des Bundesmeldegesetzes verstorben, so sind die Kosten der Überführung beihilfefähig.
 
 (2) Für Personen, die nach § 3 beihilfeberechtigt oder bei einer nach § 3 beihilfeberechtigten Person berücksichtigungsfähig sind, sind die Kosten der Überführung in das Inland bis zum Beisetzungsort beihilfefähig. Liegt der Beisetzungsort nicht im Inland, so sind Aufwendungen bis zur Höhe der Überführungskosten, die für eine Überführung in das Inland entstanden wären, beihilfefähig.
 
-
-## § 45 – Erste Hilfe, Entseuchung, Kommunikationshilfe
+# § 45 – Erste Hilfe, Entseuchung, Kommunikationshilfe
 
 (1) Beihilfefähig sind die Aufwendungen für Erste Hilfe und für eine behördlich angeordnete Entseuchung sowie für die dabei verbrauchten Stoffe.
 
@@ -1542,8 +1475,7 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 2. im Einzelfall der Informationsfluss zwischen Leistungserbringerin oder Leistungserbringer und den beihilfeberechtigten oder berücksichtigungsfähigen Personen nur so gewährleistet werden kann.
 
-
-## § 45a – Organspende und andere Spenden
+# § 45a – Organspende und andere Spenden
 
 (1) Beihilfefähig sind Aufwendungen bei postmortalen Organspenden für die Vermittlung, Entnahme, Versorgung, Organisation der Bereitstellung und für den Transport des Organs zur Transplantation, sofern es sich bei den Organempfängerinnen oder Organempfängern um beihilfeberechtigte oder berücksichtigungsfähige Personen handelt. Die Höhe der Aufwendungen nach Satz 1 richtet sich nach den Entgelten, die die Vertragsparteien nach § 11 Absatz 2 des Transplantationsgesetzes vereinbart haben. Das Bundesministerium des Innern, für Bau und Heimat gibt folgende Pauschalen durch Rundschreiben bekannt:
 
@@ -1563,8 +1495,7 @@ Sofern eine Indikation sowohl für eine In-vitro-Fertilisation als auch für ein
 
 (3) Aufwendungen für die Registrierung beihilfeberechtigter und berücksichtigungsfähiger Personen für die Suche nach einer nicht verwandten Blutstammzellspenderin oder einem nicht verwandten Blutstammzellspender im Zentralen Knochenmarkspender-Register sind beihilfefähig.
 
-
-## § 45b – Klinisches Krebsregister
+# § 45b – Klinisches Krebsregister
 
 (1) Der Bund beteiligt sich an den personenbezogenen Kosten der Krebsregistrierung beihilfeberechtigter und berücksichtigungsfähiger Personen unmittelbar gegenüber dem klinischen Krebsregister für
 
@@ -1576,8 +1507,7 @@ Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und 
 
 (2) Der von der Festsetzungsstelle zu zahlende Betrag wird durch Rundschreiben des Bundesministeriums des Innern, für Bau und Heimat bekanntgegeben.
 
-
-## § 46 – Bemessung der Beihilfe
+# § 46 – Bemessung der Beihilfe
 
 (1) Beihilfe wird als prozentualer Anteil (Bemessungssatz) der beihilfefähigen Aufwendungen gewährt. Maßgeblich ist der Bemessungssatz im Zeitpunkt der Leistungserbringung. In Pflegefällen können, soweit dies in dieser Verordnung ausdrücklich vorgesehen ist, auch Pauschalen gezahlt werden.
 
@@ -1595,8 +1525,7 @@ Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und 
 
 (4) Für Personen, die nach § 28 Abs. 2 des Elften Buches Sozialgesetzbuch Leistungen der Pflegeversicherung grundsätzlich zur Hälfte erhalten, beträgt der Bemessungssatz bezüglich dieser Aufwendungen 50 Prozent.
 
-
-## § 47 – Abweichender Bemessungssatz
+# § 47 – Abweichender Bemessungssatz
 
 (1) Die oberste Dienstbehörde oder eine von ihr bestimmte Behörde kann im Hinblick auf die Fürsorgepflicht nach § 78 des Bundesbeamtengesetzes den Bemessungssatz für Aufwendungen anlässlich einer Dienstbeschädigung angemessen erhöhen, soweit nicht bereits Ansprüche nach dem Beamtenversorgungsgesetz bestehen.
 
@@ -1616,8 +1545,7 @@ Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und 
 
 (9) Das Bundesministerium des Innern, für Bau und Heimat kann für Gruppen von beihilfeberechtigten Personen Abweichungen von den §§ 46 und 47 festlegen, wenn ihnen bis zum Entstehen eines Beihilfeanspruchs nach dieser Verordnung ein Anspruch auf Beihilfe nach Landesrecht zustand und die Änderung der Anspruchsgrundlage auf einer bundesgesetzlichen Regelung beruht. Die Abweichungen sollen so festgelegt werden, dass wirtschaftliche Nachteile, die sich aus unterschiedlichen Regelungen über den Bemessungssatz ergeben, ausgeglichen werden. Die Festlegung bedarf des Einvernehmens des Bundesministeriums der Finanzen und des Ressorts, das nach der Geschäftsverteilung der Bundesregierung für die Belange der betroffenen beihilfeberechtigten Personen zuständig ist.
 
-
-## § 48 – Begrenzung der Beihilfe
+# § 48 – Begrenzung der Beihilfe
 
 (1) Die Beihilfe darf zusammen mit den Leistungen, die aus demselben Anlass aus einer Krankenversicherung, aus einer Pflegeversicherung, auf Grund anderer Rechtsvorschriften oder auf Grund arbeitsvertraglicher Vereinbarungen gewährt werden, die dem Grunde nach beihilfefähigen Aufwendungen nicht übersteigen. Leistungen aus Krankentagegeld-, Krankenhaustagegeld-, Pflegetagegeld-, Pflegezusatz-, Pflegerenten- und Pflegerentenzusatzversicherungen bleiben unberücksichtigt, soweit sie nicht der Befreiung von der Versicherungspflicht nach § 22 des Elften Buches Sozialgesetzbuch dienen. Ebenfalls unberücksichtigt bleibt das Sterbegeld nach § 18 Absatz 2 Nummer 2 des Beamtenversorgungsgesetzes. Dem Grunde nach beihilfefähig sind die Aufwendungen, für die im Einzelfall eine Beihilfe zu gewähren ist, in tatsächlicher Höhe. Die Aufwendungen nach den §§ 35 bis 39b werden jeweils getrennt, die übrigen Aufwendungen zusammen abgerechnet. Dabei ist der Summe der Aufwendungen, die mit dem Antrag geltend gemacht werden und die dem Grunde nach beihilfefähig sind, die Gesamtsumme der hierauf entfallenden Leistungen gegenüberzustellen.
 
@@ -1629,8 +1557,7 @@ Voraussetzung der Kostenbeteiligung ist eine Vereinbarung zwischen dem Bund und 
 
 Satz 1 Nummer 2 gilt nicht für Erstattungen aus einer Kranken- oder Pflegeversicherung nach einem Prozentsatz.
 
-
-## § 49 – Eigenbehalte
+# § 49 – Eigenbehalte
 
 (1) Die beihilfefähigen Aufwendungen mindern sich um 10 Prozent der Kosten, mindestens um 5 und höchstens um 10 Euro, jedoch jeweils nicht um mehr als die tatsächlichen Kosten bei
 
@@ -1684,8 +1611,7 @@ b) deren Apothekeneinkaufspreis einschließlich Umsatzsteuer mindestens 30 Proze
 
 9. Arzneimittel nach § 22, wenn auf Grund eines Arzneimittelrückrufs oder einer von der zuständigen Behörde vorgenommenen Einschränkung der Verwendbarkeit eines Arzneimittels erneut ein Arzneimittel verordnet werden musste.
 
-
-## § 50 – Belastungsgrenzen
+# § 50 – Belastungsgrenzen
 
 (1) Auf Antrag sind nach Überschreiten der Belastungsgrenze nach Satz 5
 
@@ -1714,8 +1640,7 @@ Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf d
 
 (3) Werden die Kosten der Unterbringung in einem Heim oder einer ähnlichen Einrichtung von einem Träger der Sozialhilfe oder der Kriegsopferfürsorge getragen, ist für die Berechnung der Belastungsgrenze der nach Maßgabe des Regelbedarfs-Ermittlungsgesetzes zu ermittelnde Regelsatz anzuwenden.
 
-
-## § 51 – Bewilligungsverfahren
+# § 51 – Bewilligungsverfahren
 
 (1) Über die Notwendigkeit und die wirtschaftliche Angemessenheit von Aufwendungen nach § 6 entscheidet die Festsetzungsstelle. Die beihilfeberechtigte Person ist zur Mitwirkung verpflichtet. § 60 Absatz 1 Satz 1, die §§ 62 und 65 bis 67 des Ersten Buches Sozialgesetzbuch sind entsprechend anzuwenden. Die Festsetzungsstelle kann auf eigene Kosten ein Sachverständigengutachten einholen. Ist für die Erstellung des Gutachtens die Mitwirkung der oder des Betroffenen nicht erforderlich, sind die nötigen Gesundheitsdaten vor der Übermittlung so zu pseudonymisieren, dass die Gutachterin oder der Gutachter einen Personenbezug nicht herstellen kann.
 
@@ -1739,8 +1664,7 @@ Ein Antrag muss spätestens bis zum Ablauf des Jahres gestellt werden, das auf d
 
 (9) Die Festsetzungsstelle kann auf Antrag der beihilfeberechtigten Person Abschlagszahlungen leisten.
 
-
-## § 51a – Zahlung an Dritte
+# § 51a – Zahlung an Dritte
 
 (1) Die Festsetzungsstelle kann die Beihilfe auf Antrag der beihilfeberechtigten Person an Dritte auszahlen.
 
@@ -1754,8 +1678,7 @@ Die Festsetzungsstelle hat abrechnungsrelevante Klärungen mit dem Krankenhaus o
 
 (3) Besteht die Möglichkeit eines elektronischen Datenaustauschs zwischen den Dritten und der Festsetzungsstelle, ist die Beihilfe auf Antrag der beihilfeberechtigten Person direkt an die Leistungserbringer oder von diesen beauftragten Abrechnungsstellen auszuzahlen, wenn die beihilfeberechtigte und die berücksichtigungsfähige Person ihre Einwilligung in die Datenverarbeitung erteilt oder ihre Einwilligung in die Entbindung von der Schweigepflicht der Leistungserbringer erteilt hat. Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 52 – Zuordnung von Aufwendungen
+# § 52 – Zuordnung von Aufwendungen
 
 Beihilfefähige Aufwendungen werden zugeordnet:
 
@@ -1767,25 +1690,21 @@ Beihilfefähige Aufwendungen werden zugeordnet:
 
 4. in Geburtsfällen einschließlich der Aufwendungen des Krankenhauses für das gesunde Neugeborene der Mutter.
 
-
-## § 53 – (weggefallen)
+# § 53 – (weggefallen)
 
 \-
 
-
-## § 54 – Antragsfrist
+# § 54 – Antragsfrist
 
 (1) Beihilfe wird nur gewährt, wenn sie innerhalb eines Jahres nach Rechnungsdatum beantragt wird. Für den Beginn der Frist ist bei Pflegeleistungen der letzte Tag des Monats maßgebend, in dem die Pflege erbracht wurde. Hat ein Sozialhilfeträger oder im Bereich der Pflege der Träger der Kriegsopferfürsorge vorgeleistet, beginnt die Frist mit dem Ersten des Monats, der auf den Monat folgt, in dem der Sozialhilfeträger oder der Träger der Kriegsopferfürsorge die Aufwendungen bezahlt hat. Die Frist beginnt in Fällen des § 45a Absatz 2 Satz 2 und 3 mit Ablauf des Jahres, in dem die Transplantation oder gegebenenfalls der Versuch einer Transplantation erfolgte.
 
 (2) Die Frist ist auch gewahrt, wenn der Antrag von beihilfeberechtigten Personen nach § 3 innerhalb der Frist nach Absatz 1 bei der zuständigen Beschäftigungsstelle im Ausland eingereicht wird.
 
-
-## § 55 – Geheimhaltungspflicht
+# § 55 – Geheimhaltungspflicht
 
 Die bei der Bearbeitung des Beihilfeantrags bekannt gewordenen personenbezogenen Daten sind geheim zu halten.
 
-
-## § 56 – Festsetzungsstellen
+# § 56 – Festsetzungsstellen
 
 (1) Festsetzungsstellen sind
 
@@ -1799,11 +1718,9 @@ Die bei der Bearbeitung des Beihilfeantrags bekannt gewordenen personenbezogenen
 
 (3) Die Festsetzungsstellen haben die Abschläge für Arzneimittel nach dem Gesetz über Rabatte für Arzneimittel geltend zu machen.
 
+# § 57 – (weggefallen)
 
-## § 57 – (weggefallen)
-
-
-## § 58 – Übergangsvorschriften
+# § 58 – Übergangsvorschriften
 
 (1) Die Anpassung des Betrages nach § 6 Absatz 2 Satz 1 auf Grund der Sätze 6 und 7 des § 6 Absatz 2 erfolgt erstmals für die Beantragung der Beihilfe im Jahr 2024.
 
@@ -1813,13 +1730,11 @@ Die bei der Bearbeitung des Beihilfeantrags bekannt gewordenen personenbezogenen
 
 (4) Die Berücksichtigungsfähigkeit von Kindern, die sich in Schul- oder Berufsausbildung befinden und deren Schul- oder Berufsabschluss sich im Jahr 2020 durch die COVID-19-Pandemie verzögert, verlängert sich um den Zeitraum der Verzögerung.
 
-
-## § 59 – Inkrafttreten
+# § 59 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 6 Absatz 2)Ausgeschlossene und teilweise ausgeschlossene Untersuchungen und Behandlungen
+# Anlage 1 – (zu § 6 Absatz 2)Ausgeschlossene und teilweise ausgeschlossene Untersuchungen und Behandlungen
 
 (Fundstelle: BGBl. I 2012, 1944 - 1946;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2070,8 +1985,7 @@ Aufwendungen sind nur beihilfefähig, wenn die Implantation die einzige Möglich
 
 Aufwendungen für visusverbessernde Maßnahmen sind nur dann beihilfefähig, wenn die Festsetzungsstelle den Maßnahmen vor Aufnahme der Behandlung zugestimmt hat.
 
-
-## Anlage 2 – (zu § 6 Absatz 3 Satz 4)Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
+# Anlage 2 – (zu § 6 Absatz 3 Satz 4)Höchstbeträge für die Angemessenheit der Aufwendungen für Heilpraktikerleistungen
 
 (Fundstelle: BGBl. I 2012, 1947 - 1952;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2079,8 +1993,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
   
 
-
-## Anlage 3 – (zu den §§ 18 bis 21)Ambulant durchgeführte psychotherapeutische Behandlungen und Maßnahmen der psychosomatischen Grundversorgung
+# Anlage 3 – (zu den §§ 18 bis 21)Ambulant durchgeführte psychotherapeutische Behandlungen und Maßnahmen der psychosomatischen Grundversorgung
 
 (Fundstelle: BGBl. I 2020, 2726 - 2728)
 
@@ -2250,8 +2163,7 @@ a) die Voraussetzungen nach Abschnitt 3 oder 4 erfüllen und
 
 b) Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
 
-
-## Anlage 4 – (zu § 22 Absatz 1)Beihilfefähige Medizinprodukte
+# Anlage 4 – (zu § 22 Absatz 1)Beihilfefähige Medizinprodukte
 
 (Fundstelle: BGBl. I 2020, 2729 - 2737)
 
@@ -3722,8 +3634,7 @@ Z-HYALIN
 
 Zur Unterstützung intraokularer Eingriffe am vorderen Augenabschnitt bei Kataraktoperationen.
 
-
-## Anlage 5 – (zu § 22 Absatz 2 Nummer 1)Arzneimittel, die überwiegend der Erhöhung der Lebensqualität dienen
+# Anlage 5 – (zu § 22 Absatz 2 Nummer 1)Arzneimittel, die überwiegend der Erhöhung der Lebensqualität dienen
 
 (Fundstelle: BGBl. I 2020, 2738 - 2740
 
@@ -3787,8 +3698,7 @@ alle generischen Triamcinolon-Fertigarzneimittel</td></tr></tbody></table>
 Vistabel<br />
 Bocouture Vial</td></tr></tbody></table>
 
-
-## Anlage 6 – (zu § 22 Absatz 2 Nummer 3 Buchstabe c)Beihilfefähigkeit nicht verschreibungspflichtiger Arzneimittel
+# Anlage 6 – (zu § 22 Absatz 2 Nummer 3 Buchstabe c)Beihilfefähigkeit nicht verschreibungspflichtiger Arzneimittel
 
 (Fundstelle: BGBl. I 2012, 1964 - 1967;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3909,11 +3819,9 @@ apothekenpflichtige nicht verschreibungspflichtige Arzneimittel, die im Rahmen d
 
 Bei den in Satz 1 genannten schwerwiegenden Erkrankungen sind Aufwendungen für anthroposophische und homöopathische Arzneimittel dann beihilfefähig, wenn die Anwendung als Therapiestandard in der jeweiligen Therapierichtung angezeigt ist.
 
+# Anlage 7 – (weggefallen)
 
-## Anlage 7 – (weggefallen)
-
-
-## Anlage 8 – (zu § 22 Absatz 4)Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähige Arzneimittel
+# Anlage 8 – (zu § 22 Absatz 4)Von der Beihilfefähigkeit ausgeschlossene oder beschränkt beihilfefähige Arzneimittel
 
 (Fundstelle: BGBl. I 2012, 1991 - 1992;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3999,8 +3907,7 @@ b) längerfristig, sofern der Therapieversuch nach Buchstabe a erfolgreich verla
 
 10. Saftzubereitungen sind für Erwachsene nur beihilfefähig in Ausnahmefällen; die Gründe müssen dabei in der Person liegen.
 
-
-## Anlage 9 – (zu § 23 Absatz 1)Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
+# Anlage 9 – (zu § 23 Absatz 1)Höchstbeträge für beihilfefähige Aufwendungen für Heilmittel
 
 (Fundstelle: BGBl. I 2018, 1247 - 1254;)
 
@@ -5543,8 +5450,7 @@ k) Hilfsmittelversorgung,
 
 l) interdisziplinäre Absprachen.
 
-
-## Anlage 10 – (zu § 23 Absatz 1 und § 24 Absatz 1)Leistungserbringerinnen und Leistungserbringer für Heilmittel
+# Anlage 10 – (zu § 23 Absatz 1 und § 24 Absatz 1)Leistungserbringerinnen und Leistungserbringer für Heilmittel
 
 (Fundstelle: BGBl. I 2018, 1255;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5611,8 +5517,7 @@ b) Oecotrophologin oder Oecotrophologe,
 
 c) Ernährungswissenschaftlerin oder Ernährungswissenschaftler.
 
-
-## Anlage 11 – (zu § 25 Absatz 1 und 4)Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
+# Anlage 11 – (zu § 25 Absatz 1 und 4)Beihilfefähige Aufwendungen für Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle, Körperersatzstücke
 
 (Fundstelle: BGBl. I 2012, 2001 - 2009;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6554,8 +6459,7 @@ b) Verbandlinsen oder -schalen nach nicht beihilfefähigen Eingriffen,
 
 c) Okklusionslinsen und -schalen als Amblyopietherapeutikum.
 
-
-## Anlage 12 – (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle
+# Anlage 12 – (zu § 25 Absatz 1, 2 und 4)Nicht beihilfefähige Hilfsmittel, Geräte zur Selbstbehandlung und Selbstkontrolle
 
 (Fundstelle: BGBl. I 2012, 2010 - 2012;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6901,8 +6805,7 @@ Zahnpflegemittel
 26.2  
 Zweirad für Behinderte.
 
-
-## Anlage 13 – (zu § 41 Absatz 1 Satz 3)Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen
+# Anlage 13 – (zu § 41 Absatz 1 Satz 3)Nach § 41 Absatz 1 Satz 3 beihilfefähige Früherkennungsuntersuchungen, Vorsorgemaßnahmen und Schutzimpfungen
 
 (Fundstelle: BGBl. I 2015, 885;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6910,8 +6813,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
   
 
-
-## Anlage 14 – (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko
+# Anlage 14 – (zu § 41 Absatz 3)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Brust- oder Eierstockkrebsrisiko
 
 (Fundstelle: BGBl. I 2018, 1256 - 1257;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7045,8 +6947,7 @@ v) Würzburg
 
 Institut für Humangenetik der Universität Würzburg
 
-
-## Anlage 14a – (zu § 41 Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
+# Anlage 14a – (zu § 41 Absatz 4)Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
 
 (Fundstelle: BGBl. I 2020, 2741 - 2742; 2021 I 343)
 
@@ -7148,11 +7049,9 @@ p) Wuppertal
 
 HELIOS Universitätsklinikum Wuppertal
 
+# Anlage 15 – (weggefallen)
 
-## Anlage 15 – (weggefallen)
-
-
-## Anlage 16 – (zu § 51a Absatz 2)
+# Anlage 16 – (zu § 51a Absatz 2)
 
 (Fundstelle: BGBl. I 2018, 1261 — 1262;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

@@ -1,27 +1,21 @@
-# [BRAO§206DV] Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung
-
-Ausfertigungsdatum: 18.07.2002
-
+% Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung
+% Ausfertigungsdatum: 18.07.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 206 Abs. 1 Satz 2 der Bundesrechtsanwaltsordnung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 303-8, veröffentlichten bereinigten Fassung, der zuletzt durch Artikel 2 des Gesetzes vom 9. März 2000 (BGBl. I S. 182) geändert worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1
+# § 1
 
 (1) § 206 Abs. 1 Satz 1 der Bundesrechtsanwaltsordnung ist auf die in der Anlage 1 zu dieser Verordnung aufgeführten Berufsangehörigen der dort bezeichneten Staaten und Gebiete anzuwenden.
 
 (2) § 206 Abs. 2 Satz 1 der Bundesrechtsanwaltsordnung ist auf die in der Anlage 2 zu dieser Verordnung aufgeführten Berufsangehörigen der dort bezeichneten Staaten anzuwenden.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 1 Absatz 1)Anwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
+# Anlage 1 – (zu § 1 Absatz 1)Anwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
 
 (Fundstelle: BGBl. I 2009, 1387 u. 1388  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -34,8 +28,7 @@ Advocate and Solicitor</td></tr><tr class="even"><td style="text-align: left;">�
 Attorney</td></tr><tr class="odd"><td style="text-align: left;">– in Neuseeland:</td><td style="text-align: left;">Barrister, Solicitor</td></tr><tr class="even"><td style="text-align: left;">– in Nigeria:</td><td style="text-align: left;">Legal Practitioner</td></tr><tr class="odd"><td style="text-align: left;">– in Pakistan:</td><td style="text-align: left;">Wakeel, Advocate</td></tr><tr class="even"><td style="text-align: left;">– in Panama:</td><td style="text-align: left;">Abogado</td></tr><tr class="odd"><td style="text-align: left;">– in Peru:</td><td style="text-align: left;">Abogado</td></tr><tr class="even"><td style="text-align: left;">– in den Philippinen:</td><td style="text-align: left;">Attorney</td></tr><tr class="odd"><td style="text-align: left;">– in der Russischen Föderation:</td><td style="text-align: left;">Advokat</td></tr><tr class="even"><td style="text-align: left;">– in Singapur:</td><td style="text-align: left;">Advocate and Solicitor</td></tr><tr class="odd"><td style="text-align: left;">– in Sri Lanka:</td><td style="text-align: left;">Attorney at law</td></tr><tr class="even"><td style="text-align: left;">– in Südafrika:</td><td style="text-align: left;">Attorney, Prokureur, Advocate,<br />
 Advokaat</td></tr><tr class="odd"><td style="text-align: left;">– in Thailand:</td><td style="text-align: left;">Tanaaykwaam</td></tr><tr class="even"><td style="text-align: left;">– in der Türkei:</td><td style="text-align: left;">Avukat</td></tr><tr class="odd"><td style="text-align: left;">– in Tunesien:</td><td style="text-align: left;">Avocat</td></tr><tr class="even"><td style="text-align: left;">– in der Ukraine:</td><td style="text-align: left;">Advokat</td></tr><tr class="odd"><td style="text-align: left;">– in Uruguay:</td><td style="text-align: left;">Abogado</td></tr><tr class="even"><td style="text-align: left;">– in Venezuela:</td><td style="text-align: left;">Abogado</td></tr><tr class="odd"><td style="text-align: left;">– im Vereinigten Königreich:</td><td style="text-align: left;">Advocate, Barrister, Solicitor</td></tr><tr class="even"><td style="text-align: left;">– in den Vereinigten Staaten von Amerika:</td><td style="text-align: left;">Attorney at law</td></tr></tbody></table>
 
-
-## Anlage 2 – (zu § 1 Abs. 2)Anwaltsberufe in anderen Staaten
+# Anlage 2 – (zu § 1 Abs. 2)Anwaltsberufe in anderen Staaten
 
 (Fundstelle: BGBl. I 2005, 1453  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

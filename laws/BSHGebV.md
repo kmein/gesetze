@@ -1,15 +1,11 @@
-# [BSHGebV] Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen des Bundesamtes für Seeschifffahrt und Hydrographie  (BSH-Gebührenverordnung - BSHGebV)
-
-Ausfertigungsdatum: 06.07.2018
-
+% Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen des Bundesamtes für Seeschifffahrt und Hydrographie  (BSH-Gebührenverordnung - BSHGebV)
+% Ausfertigungsdatum: 06.07.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 1 und 4 Satz 1 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach dieser Verordnung auf den folgenden Gebieten:
 
@@ -35,8 +31,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für individuell zurec
 
 11. Raumordnungsrecht in der deutschen ausschließlichen Wirtschaftszone.
 
-
-## § 2 – Gebühren und Auslagen
+# § 2 – Gebühren und Auslagen
 
 (1) Für gebührenfähige Leistungen im Zuständigkeitsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur werden die im Gebührenverzeichnis bestimmten Gebühren und Auslagen erhoben, sofern nicht im Gebührenverzeichnis eine Gebühren- oder Auslagenermäßigung oder eine Gebühren- oder Auslagenbefreiung bestimmt ist.
 
@@ -44,8 +39,7 @@ Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für individuell zurec
 
 (3) Die im Gebührenverzeichnis aufgeführten Gebührentatbestände umfassen jeweils auch die Gebühr für die Gebührenfestsetzung.
 
-
-## § 3 – Gebührenbemessung
+# § 3 – Gebührenbemessung
 
 (1) Werden Gebühren nach der Schiffsgröße erhoben, so sind die im amtlichen Schiffsmessbrief ausgewiesene Bruttoraumzahl (BRZ) oder ausgewiesenen Bruttoregistertonnen (BRT) zugrunde zu legen.
 
@@ -55,27 +49,23 @@ Das Bundesamt für Seeschifffahrt und Hydrographie erhebt für individuell zurec
 
 (4) Die Gebühr nach Nummer 3001 des Gebührenverzeichnisses wird auf volle Euro abgerundet.
 
-
-## § 4 – Übergangsregelung
+# § 4 – Übergangsregelung
 
 (1) Auf Verfahren, die den Übergangsregelungen nach § 17 Absatz 1 bis 4 der Seeanlagenverordnung vom 23. Januar 1997 (BGBl. I S. 57) in der bis zum 1. Januar 2017 geltenden Fassung unterliegen, sind die Gebührennummern 6051 und 6052 der Anlage zu § 1 Absatz 2 der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Dezember 2001 (BGBl. I S. 4081) in der bis zum 25. Juli 2012 geltenden Fassung weiter anzuwenden.
 
 (2) Auf Verfahren, auf die nach der Übergangsbestimmung des § 77 Absatz 1 des Windenergie-auf-See-Gesetzes oder nach der Übergangsvorschrift des § 18 des Seeanlagengesetzes vom 13. Oktober 2016 (BGBl. I S. 2258, 2348) weiterhin die Seeanlagenverordnung anzuwenden ist, ist die Gebührenverordnung für Amtshandlungen des Bundesamtes für Seeschifffahrt und Hydrographie vom 20. Juli 2012 (BGBl. I S. 1642) in der bis zum 17. Juli 2018 geltenden Fassung anzuwenden.
 
-
-## § 5 – Inkrafttreten, Außerkrafttreten
+# § 5 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die BSH-Gebührenverordnung vom 20. Juli 2012 (BGBl. I S. 1642), die zuletzt durch Artikel 6 der Verordnung vom 25. September 2015 (BGBl. I S. 1664) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 2 Absatz 1)Gebührenverzeichnis
+# Anlage – (zu § 2 Absatz 1)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2018, 1170 - 1177)
 
 (+++ Anlage laufende Nr. 9005 Spalte 3: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Prüfllabore" durch "Prüflabore" ersetzt +++)
 
-
-## Anhang – (zu Nummer 4011 der Anlage)Katalog der Geräte, die der Bordprüfung unterliegen
+# Anhang – (zu Nummer 4011 der Anlage)Katalog der Geräte, die der Bordprüfung unterliegen
 
 (Fundstelle: BGBl. I 2018, 1178)
 

@@ -1,10 +1,7 @@
-# [StStatG] Gesetz über Steuerstatistiken  (StStatG)
-
-Ausfertigungsdatum: 11.10.1995
-
+% Gesetz über Steuerstatistiken  (StStatG)
+% Ausfertigungsdatum: 11.10.1995
  
-
-## § 1 – Anordnung als Bundesstatistik
+# § 1 – Anordnung als Bundesstatistik
 
 (1) Zur Beurteilung von Struktur und Wirkungsweise der Steuern und ihrer wirtschaftlichen und sozialen Bedeutung werden Bundesstatistiken über
 
@@ -38,8 +35,7 @@ durchgeführt.
 
 (4) Das Statistische Bundesamt und die statistischen Ämter der Länder führen zur Verteilung des nach § 1 des Finanzausgleichsgesetzes festgesetzten Anteils der Gemeinden am Aufkommen der Umsatzsteuer auf die Gemeinden Berechnungen nach § 5a des Gemeindefinanzreformgesetzes durch.
 
-
-## § 2 – Erhebungsmerkmale und Periodizität
+# § 2 – Erhebungsmerkmale und Periodizität
 
 (1) Für die Umsatzsteuerstatistik werden jährlich folgende Erhebungsmerkmale erfasst:
 
@@ -139,8 +135,7 @@ Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes erlassene Erbsc
 
 2. Sitz (Gemeinde), Rechtsform, Organschaft, Wirtschaftszweig, Zahl der im Bereich Forschung und Entwicklung Beschäftigten des Anspruchsberechtigten.
 
-
-## § 2a – Statistische Aufbereitung von Daten aus der Einkommensbesteuerung
+# § 2a – Statistische Aufbereitung von Daten aus der Einkommensbesteuerung
 
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Lohn- und Einkommensteuer jährlich an das Bundesministerium der Finanzen. Die statistische Aufbereitung dieser Daten wird für die Veranlagungsjahre 2001 bis 2011 dem Statistischen Bundesamt übertragen.
 
@@ -150,15 +145,13 @@ Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes erlassene Erbsc
 
 (4) Abweichend von dem in Absatz 3 genannten Übermittlungsweg dürfen die statistischen Ämter von Bund und Ländern im Auftrag der obersten Finanzbehörden von Bund und Ländern die Daten mittels sicheren Datentransfers auch direkt an von diesen beauftragte Forschungseinrichtungen weitergeben.
 
-
-## § 2b – Statistische Aufbereitung von Daten aus der Körperschaft- und Gewerbesteuer
+# § 2b – Statistische Aufbereitung von Daten aus der Körperschaft- und Gewerbesteuer
 
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Körperschaft- und Gewerbesteuer jährlich an das Bundesministerium der Finanzen. Die statistische Aufbereitung der Daten zur Körperschaftsteuer für die Veranlagungsjahre 2004 bis 2012 sowie zur Gewerbesteuer für die Veranlagungsjahre 2004 bis 2009 wird dem Statistischen Bundesamt übertragen.
 
 (2) § 2a Absatz 3 und 4 ist entsprechend anzuwenden.
 
-
-## § 2c – Zusammenführung von Einzelangaben
+# § 2c – Zusammenführung von Einzelangaben
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen die ihnen nach § 2b übermittelten Einzelangaben miteinander und mit den ihnen nach § 2a übermittelten Einzelangaben, soweit sie sich auf Einzelunternehmen, Personengesellschaften und Gemeinschaften beziehen, zu den in § 2a Abs. 3 Satz 1 genannten Zwecken sowie für wissenschaftliche Analysen zusammenführen.
 
@@ -166,11 +159,9 @@ Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes erlassene Erbsc
 
 (3) § 7a Absatz 3 und 4 ist entsprechend anzuwenden.
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Kindergeldstatistik
+# § 4 – Kindergeldstatistik
 
 (1) Das Bundeszentralamt für Steuern erstellt aus den im Zusammenhang mit der Festsetzung des steuerlichen Kindergeldes bei den Familienkassen anfallenden Daten Geschäftsstatistiken über Kindergeldberechtigte und deren Kinder. Die Ergebnisse dieser Statistiken werden den für den Familienleistungsausgleich zuständigen obersten Behörden des Bundes und der Länder zur Verfügung gestellt.
 
@@ -188,8 +179,7 @@ Die nach § 28a des Erbschaftsteuer- und Schenkungsteuergesetzes erlassene Erbsc
 
 (4) Die Finanzbehörden der Länder melden halbjährlich in Fällen, in denen ein Arbeitgeber Kindergeldbeträge von der angemeldeten Lohnsteuer in Abzug gebracht hat, dem Bundeszentralamt für Steuern dessen Namen, Anschrift, Steuernummer, Identifikationsmerkmale nach § 139a der Abgabenordnung und die Höhe der bei den Lohnsteueranmeldungen abgesetzten Kindergeldbeträge.
 
-
-## § 5 – Hilfsmerkmale
+# § 5 – Hilfsmerkmale
 
 Als Hilfsmerkmale werden erfasst:
 
@@ -211,15 +201,13 @@ Als Hilfsmerkmale werden erfasst:
 
 Die Finanzamt- und Steuernummern, die Registernummer, die Postleitzahl und der Ort des Registergerichts sowie die Identifikationsmerkmale nach § 139a Absatz 1 der Abgabenordnung dürfen vom Statistischen Bundesamt und den statistischen Ämtern der Länder gespeichert werden.
 
-
-## § 6 – Auskunftspflicht
+# § 6 – Auskunftspflicht
 
 (1) Für die Statistiken nach diesem Gesetz besteht Auskunftspflicht. Auskunftspflichtig sind die Finanzbehörden der Länder und die zentrale Stelle.
 
 (2) Für die Statistik nach § 1 Absatz 1 Nummer 2 und die Aufgaben nach § 1 Absatz 2 übermitteln die Finanzbehörden der Länder den statistischen Ämtern der Länder die elektronischen Lohnsteuerbescheinigungen und den amtlichen Gemeindeschlüssel. Dieser wird nach dem Wohnsitz im Sinn des § 7 Absatz 2 des Zerlegungsgesetzes ermittelt. Die elektronischen Lohnsteuerbescheinigungen sind zu löschen, sobald sie für die in Satz 1 genannten Zwecke nicht mehr benötigt werden.
 
-
-## § 7 – Einzelangaben
+# § 7 – Einzelangaben
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder haben die Ergebnisse der statistischen Erhebungen unverzüglich zu ermitteln und auf Anforderung zeitgleich dem Bundesministerium der Finanzen und den obersten Finanzbehörden der Länder vollständig zu übermitteln.
 
@@ -265,8 +253,7 @@ sowie für alle später durchgeführten Statistiken, die nach § 1 Abs. 1 Nr. 1 
 
 (8) Für die Zerlegung des Kirchensteueraufkommens der öffentlich-rechtlichen Religionsgesellschaften auf die Diözesen, Landeskirchen und sonstigen regionalen Gliederungen dürfen den öffentlich-rechtlichen Religionsgesellschaften von den statistischen Ämtern der Länder aus der Lohn- und Einkommensteuerstatistik für ihre Steuerschuldner mit Kirchenlohnsteuer die Einzelangaben Kirchenlohnsteuer und Religionszugehörigkeit mit dem amtlichen Gemeindeschlüssel der Wohnsitzgemeinde übermittelt werden.
 
-
-## § 7a – Zusammenführung von Einzelangaben
+# § 7a – Zusammenführung von Einzelangaben
 
 (1) Das Statistische Bundesamt und die statistischen Ämter der Länder dürfen Einzelangaben aus den Statistiken nach § 1 Absatz 1 Nummer 1, 3 und 5 bis 9 miteinander und mit Einzelangaben aus der Einkommensteuerstatistik nach § 1 Abs. 1 Nr. 2, soweit sie sich auf Einzelunternehmen, Personengesellschaften, Gemeinschaften und juristische Personen beziehen, zu den in § 7 Abs. 6 Satz 1 genannten Zwecken sowie für wissenschaftliche Analysen zusammenführen. Die nach Satz 1 zusammengeführten Daten dürfen auch mit Daten aus dem Statistikregister nach § 1 Abs. 1 des Statistikregistergesetzes und mit Daten, die nach dem Verwaltungsdatenverwendungsgesetz übermittelt worden sind, zusammengeführt werden.
 
@@ -278,13 +265,11 @@ sowie für alle später durchgeführten Statistiken, die nach § 1 Abs. 1 Nr. 1 
 
 (4) Abweichend von dem in Absatz 3 genannten Übermittlungsweg dürfen die statistischen Ämter von Bund und Ländern im Auftrag der obersten Finanzbehörden von Bund und Ländern die Daten mittels sicheren Datentransfers auch direkt an von diesen beauftragte Forschungseinrichtungen weitergeben.
 
-
-## § 8 – Ermächtigung
+# § 8 – Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Durchführung von Steuerstatistiken ganz oder teilweise einzustellen oder die Periodizitäten zu verlängern, wenn die Ergebnisse nicht mehr oder nicht mehr in der ursprünglich vorgesehenen Häufigkeit benötigt werden oder wenn tatsächliche Voraussetzungen für eine Steuerstatistik entfallen sind oder sich wesentlich geändert haben oder den in diesem Gesetz vorgesehenen Zeitabstand zwischen zwei aufeinanderfolgenden Erhebungen mit einmaliger Wirkung zu verlängern oder zu verkürzen, wenn der Erkenntniswert der Statistiken hierdurch wesentlich verbessert wird.
 
-
-## § 9 – Statistische Aufbereitung von Daten aus dem Vollzug der Steuergesetze
+# § 9 – Statistische Aufbereitung von Daten aus dem Vollzug der Steuergesetze
 
 (1) Soweit auf dem Gebiet der Verbrauchsteuern sowie der Kraftfahrzeugsteuer und der Versicherungsteuer dem Statistischen Bundesamt nach § 8 des Bundesstatistikgesetzes die statistische Aufbereitung von Angaben aus dem Verwaltungsvollzug übertragen wird, sind die Bundesfinanzbehörden berechtigt, dem Statistischen Bundesamt für diese Zwecke auch Einzelangaben zu übermitteln, die dem Steuergeheimnis nach § 30 der Abgabenordnung unterliegen.
 
@@ -294,7 +279,6 @@ Das Bundesministerium der Finanzen wird ermächtigt, durch Rechtsverordnung mit 
 
 (4) Nach Abschluss der Aufbereitungen nach den Absätzen 1 bis 3 sind die Angaben beim Statistischen Bundesamt und den statistischen Ämtern der Länder zu löschen.
 
-
-## § 10 – Fortgeltung des Steuergeheimnisses
+# § 10 – Fortgeltung des Steuergeheimnisses
 
 Die Pflicht zur Wahrung des Steuergeheimnisses bleibt für Personen, die in den statistischen Ämtern des Bundes und der Länder mit der Durchführung der Steuerstatistiken und den Aufgaben nach § 1 Abs. 2 bis 4 sowie nach § 9 betraut sind, unberührt.

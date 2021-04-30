@@ -1,23 +1,17 @@
-# [ZollKostV] Zollkostenverordnung  (ZollKostV)
-
-Ausfertigungsdatum: 06.09.2009
-
+% Zollkostenverordnung  (ZollKostV)
+% Ausfertigungsdatum: 06.09.2009
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 178 Absatz 3 der Abgabenordnung in der Fassung der Bekanntmachung vom 1. Oktober 2002 (BGBl. I S. 3866; 2003 I S. 61) und des § 112 Absatz 3 des Branntweinmonopolgesetzes, von denen § 112 des Branntweinmonopolgesetzes durch Artikel 7 des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1395) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Regelungsgegenstand
+# § 1 – Regelungsgegenstand
 
 Von den Behörden der Bundeszollverwaltung und den Behörden, denen die Wahrnehmung von Aufgaben der Bundeszollverwaltung übertragen worden ist, werden nach Maßgabe dieser Verordnung Kosten (Gebühren und Auslagen) erhoben.
 
-
-## § 2 – Kostenpflichtige Amtshandlungen
+# § 2 – Kostenpflichtige Amtshandlungen
 
 (1) Kostenpflichtig sind die nachfolgenden Amtshandlungen:
 
@@ -61,8 +55,7 @@ Von den Behörden der Bundeszollverwaltung und den Behörden, denen die Wahrnehm
 
 wenn die jeweilige Dauer der kostenpflichtigen Amtshandlungen oder des kostenpflichtigen Teils der Amtshandlungen eine Viertelstunde nicht übersteigt.
 
-
-## § 3 – Gebührensätze
+# § 3 – Gebührensätze
 
 (1) Die Gebühren für Amtshandlungen nach § 2 Absatz 1 werden als feste Sätze nach dem Zeitaufwand bestimmt, der zu ihrer Durchführung erforderlich ist (Stunden- oder Monatsgebühren).
 
@@ -83,8 +76,7 @@ des einfachen Dienstes</td><td style="text-align: right;">6 517 Euro,</td></tr>
 des mittleren Dienstes</td><td style="text-align: right;">7 356 Euro,</td></tr><tr class="odd"><td style="text-align: left;">3. für Beamtinnen und für Beamte der Laufbahngruppe<br />
 des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr></tbody></table>
 
-
-## § 4 – Gebührenberechnung
+# § 4 – Gebührenberechnung
 
 (1) Die in Form von Stundengebühren zu erhebenden Kosten sind für jede Beamtin und jeden Beamten nach der Dauer ihrer oder seiner Beteiligung an der kostenpflichtigen Amtshandlung nach § 2 Absatz 1 zu berechnen. Mehrere kostenpflichtige Amtshandlungen, die unmittelbar nacheinander durch dieselben Beamtinnen oder dieselben Beamten für dieselben Kostenschuldner vorgenommen werden, gelten für die Berechnung der Kosten als eine Amtshandlung. Unterliegen kostenpflichtige Amtshandlungen für denselben Kostenschuldner verschiedenen Gebührensätzen nach § 3 Absatz 2, so wird die Dauer der nach dem höheren Gebührensatz kostenpflichtigen Amtshandlung auf die nächste Viertelstunde aufgerundet. Die für den restlichen Teil der Gesamtdauer zu erhebenden Gebühren werden nach dem niedrigeren Satz erhoben. Zur kostenpflichtigen Amtshandlung zählen auch Wartezeiten. Für jede angefangene Viertelstunde ist ein Viertel des Stundensatzes zu berechnen.
 
@@ -96,8 +88,7 @@ des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr>
 
 (5) Sofern Tarifbeschäftigte bei kostenpflichtigen Amtshandlungen zur Unterstützung oder Hilfeleistung eingesetzt werden, sind Gebühren in der Höhe der Gebühren für Begleitung und Bewachung nach dem zeitlichen Aufwand zu erheben. Absatz 1 gilt entsprechend.
 
-
-## § 5 – Zusätzliche Kosten
+# § 5 – Zusätzliche Kosten
 
 (1) In den Fällen des § 3 Absatz 2 werden für kostenpflichtige Amtshandlungen außerhalb der festgesetzten Dienststunden zusätzlich zur Monatsgebühr Stundengebühren erhoben. Die Erhebung der Stundengebühren unterbleibt, wenn solche Amtshandlungen nur gelegentlich vorgenommen werden, die Mehrarbeit des Beamten durch Dienstbefreiung ausgeglichen wird und dem Kostenschuldner für die Dauer der Dienstbefreiung kein anderer Beamter zugeteilt wird.
 
@@ -105,8 +96,7 @@ des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr>
 
 (3) Nimmt der Kostenschuldner nicht die volle Diensttätigkeit des ständig zugeteilten Beamten in Anspruch und ist es möglich, den Beamten für andere Verwaltungstätigkeiten zu verwenden, so wird die Monatsgebühr um einen entsprechenden Anteil herabgesetzt.
 
-
-## § 6 – Untersuchung von Waren
+# § 6 – Untersuchung von Waren
 
 (1) Für die Untersuchung von Waren durch die Generalzolldirektion oder durch eine sonstige Dienststelle der Bundeszollverwaltung werden nach Maßgabe des Absatzes 2 Gebühren nach der Anlage 1 zu dieser Verordnung (Gebührentarif für Untersuchungen) erhoben.
 
@@ -130,8 +120,7 @@ des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr>
 
 (4) (weggefallen)
 
-
-## § 7 – Lagerkosten
+# § 7 – Lagerkosten
 
 (1) Für die Lagerung von Nichtunionswaren durch die Zollstelle wird eine Verwahrungsgebühr erhoben. Sie beträgt pro Tag:
 
@@ -151,15 +140,13 @@ des gehobenen Dienstes</td><td style="text-align: right;">8 858 Euro.</td></tr>
 
 (3) Werden die Nichtunionswaren von der Zollstelle einem anderen in Verwahrung gegeben, so werden die hierdurch entstandenen Auslagen erhoben.
 
-
-## § 8 – Schreibauslagen
+# § 8 – Schreibauslagen
 
 (1) Schreibauslagen in zoll- und steuerlichen Angelegenheiten werden für Schriftstücke und Ablichtungen erhoben, die auf Antrag gefertigt werden.
 
 (2) Die Schreibauslagen betragen unabhängig von der Art der Herstellung für die ersten 50 Seiten 0,50 Euro je Seite und für jede weitere Seite 0,15 Euro.
 
-
-## § 9 – Kostenpflichtige Amtshandlungen im Bereich des gewerblichen Rechtsschutzes
+# § 9 – Kostenpflichtige Amtshandlungen im Bereich des gewerblichen Rechtsschutzes
 
 (1) Für folgende Amtshandlungen werden Kosten nach Maßgabe der Anlage 2 zu dieser Verordnung erhoben:
 
@@ -183,47 +170,37 @@ e) § 9 Absatz 2 des Halbleiterschutzgesetzes vom 22. Oktober 1987 (BGBl. I S. 2
 
 (3) Bei Anwendung des Verfahrens nach Artikel 26 der Verordnung (EU) Nr. 608/2013 werden ausschließlich Gebühren für eine Kleinsendung nach Nummer 2 der Anlage 2 zu dieser Verordnung erhoben.
 
-
-## § 10 – Verbundener Kostenbescheid
+# § 10 – Verbundener Kostenbescheid
 
 Die Zollbehörde kann die in einem Monat für einen Kostenschuldner entstandenen Kosten zu einem Kostenbescheid verbinden, soweit der auf die einzelne kostenpflichtige Amtshandlung entfallende Betrag einen Wert von 5 Euro erreicht.
 
-
-## § 11 – Absehen von der Kostenerhebung
+# § 11 – Absehen von der Kostenerhebung
 
 Von der Erhebung der Kosten ist abzusehen, wenn diese im Einzelfall weniger als 5 Euro betragen.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 (1) Für Maßnahmen nach den §§ 2 und 6, die vor dem 1. Dezember 2020 beantragt wurden oder mit deren Durchführung vor dem 1. Dezember 2020 begonnen wurde, sind die Gebührensätze dieser Verordnung in der am 30. November 2020 geltenden Fassung anzuwenden, wenn die Maßnahmen bis zum 1. Dezember 2020 nicht vollständig abgeschlossen wurden.
 
 (2) Für Amtshandlungen nach § 9 Absatz 1, die vor dem 1. Dezember 2020 angeordnet wurden, sind die Gebührensätze dieser Verordnung in der am 30. November 2020 geltenden Fassung anzuwenden.
 
-
-## Anlage 1 – (zu § 6 Absatz 1)Gebührentarif für Untersuchungen
+# Anlage 1 – (zu § 6 Absatz 1)Gebührentarif für Untersuchungen
 
 (Fundstelle: BGBl. I 2009, 3005 - 3013;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)  
   
 
-A.  
-Physikalische und physikochemische Messungen und Untersuchungen
+A. Physikalische und physikochemische Messungen und Untersuchungen
 
-B.  
-Chemische Untersuchungen
+B. Chemische Untersuchungen
 
-C.  
-Untersuchungen nach besonderen zolltariflichen Anmerkungen und anderen Vorschriften
+C. Untersuchungen nach besonderen zolltariflichen Anmerkungen und anderen Vorschriften
 
-D.  
-Untersuchungen von Spinnstoffen und daraus hergestellten Waren
+D. Untersuchungen von Spinnstoffen und daraus hergestellten Waren
 
-E.  
-Alkohole (gemäß den Chemisch-Technischen Bestimmungen der Zollverwaltung (CTB); eingestellt in die Elektronische Vorschriftensammlung der Bundesfinanzverwaltung (E-VSF-V 2601); www.vsf-portal.de)
+E. Alkohole (gemäß den Chemisch-Technischen Bestimmungen der Zollverwaltung (CTB); eingestellt in die Elektronische Vorschriftensammlung der Bundesfinanzverwaltung (E-VSF-V 2601); www.vsf-portal.de)
 
-F.  
-Mineralöl
+F. Mineralöl
 
 Vorbemerkungen
 
@@ -1933,7 +1910,6 @@ Mineralöluntersuchungen, anderweit nicht genannt
 <span id="FnA1-F785384_01"></span><a href="#FnR.FnA1-F785384_01" class="Footnote">*</a>  
 oder nach vergleichbaren Methoden
 
-
-## Anlage 2 – (zu § 9 Absatz 1)Gebührentarif für Maßnahmen im Bereich des gewerblichen Rechtsschutzes
+# Anlage 2 – (zu § 9 Absatz 1)Gebührentarif für Maßnahmen im Bereich des gewerblichen Rechtsschutzes
 
 (Fundstelle: BGBl. I 2014, 508)

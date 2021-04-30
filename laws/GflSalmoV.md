@@ -1,13 +1,9 @@
-# [GflSalmoV] Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn und bei Puten  (Geflügel-Salmonellen-Verordnung - GflSalmoV)
-
-Ausfertigungsdatum: 06.04.2009
-
+% Verordnung zum Schutz gegen bestimmte Salmonelleninfektionen beim Haushuhn und bei Puten  (Geflügel-Salmonellen-Verordnung - GflSalmoV)
+% Ausfertigungsdatum: 06.04.2009
  
+# Inhaltsverzeichnis
 
-## Inhaltsverzeichnis
-
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung sind
 
@@ -31,18 +27,15 @@ ein Betrieb, in dem mindestens 5 000 Hühner erwerbsmäßig zum Zwecke der Flei
 
 ein Betrieb, in dem erwerbsmäßig Eintagsküken erbrütet werden;
 
-5a.  
-Putenzuchtbetrieb:
+5a. Putenzuchtbetrieb:
 
 ein Betrieb, in dem mindestens 250 Puten erwerbsmäßig zu Zucht- oder Vermehrungszwecken gehalten werden;
 
-5b.  
-Putenmastbetrieb:
+5b. Putenmastbetrieb:
 
 ein Betrieb, in dem mindestens 500 Puten erwerbsmäßig zum Zwecke der Fleischgewinnung gehalten werden;
 
-5c.  
-Putenbrüterei:
+5c. Putenbrüterei:
 
 ein Betrieb, in dem erwerbsmäßig Putenküken erbrütet werden;
 
@@ -74,15 +67,13 @@ ein räumlich und lüftungstechnisch abgegrenzter Teil eines Betriebes, in dem H
 
 2. ein Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2, wenn diese durch eine betriebseigene Untersuchung festgestellt worden ist.
 
-
-## § 2 – Hygiene
+# § 2 – Hygiene
 
 (1) Der Besitzer eines Hühnerzuchtbetriebes, eines Hühneraufzuchtbetriebes, eines Legehennenbetriebes, eines Hähnchenmastbetriebes, eines Putenzuchtbetriebes oder eines Putenmastbetriebes hat sicherzustellen, dass hinsichtlich des Betriebes und der baulichen Einrichtungen die Anforderungen der Anlage erfüllt werden.
 
 (2) Futtermittel, die dazu bestimmt sind, an Hühner oder Puten verfüttert zu werden, dürfen nur abgegeben werden, soweit den Futtermitteln eine Bescheinigung beigefügt ist, aus der hervorgeht, dass der Hersteller Untersuchungen auf Salmonellen im Rahmen eines Systems der Gefahrenanalyse und kritischen Kontrollpunkte nach Artikel 6 der Verordnung (EG) Nr. 183/2005 des Europäischen Parlaments und des Rates vom 12. Januar 2005 mit Vorschriften für die Futtermittelhygiene (ABl. L 35 vom 8.2.2005, S. 1) in der jeweils geltenden Fassung durchgeführt hat. Der Hersteller des Futtermittels hat die Ergebnisse der Untersuchungen nach Satz 1 drei Jahre lang, gerechnet vom Tag der Untersuchung, aufzubewahren.
 
-
-## § 3 – Impfung
+# § 3 – Impfung
 
 Die zuständige Behörde kann für einen Betrieb, in dem
 
@@ -94,13 +85,11 @@ Die zuständige Behörde kann für einen Betrieb, in dem
 
 gehalten werden, die Impfung gegen Salmonellen der Kategorie 1 oder 2 anordnen, wenn dies aus Gründen der Tierseuchenbekämpfung erforderlich ist. § 13 bleibt unberührt.
 
-
-## § 4 – Mitteilungspflicht
+# § 4 – Mitteilungspflicht
 
 Der Besitzer eines Hühnerzuchtbetriebes oder einer Hühnerbrüterei hat den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2 oder mit Salmonella Gallinarum Pullorum, der Besitzer eines Aufzuchtbetriebes, eines Legehennenbetriebes, eines Hähnchenmastbetriebes, eines Putenzuchtbetriebes, eines Putenmastbetriebes oder einer Putenbrüterei hat den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder mit Salmonella Gallinarum Pullorum unverzüglich der zuständigen Behörde mitzuteilen.
 
-
-## § 5 – Untersuchungseinrichtung
+# § 5 – Untersuchungseinrichtung
 
 Der Leiter einer Untersuchungseinrichtung hat sicherzustellen, dass eine Untersuchung, die im Auftrage
 
@@ -114,13 +103,11 @@ Der Leiter einer Untersuchungseinrichtung hat sicherzustellen, dass eine Untersu
 
 durchgeführt wird.
 
-
-## § 6 – Ursachenermittlung im Betrieb
+# § 6 – Ursachenermittlung im Betrieb
 
 Der Besitzer eines Hühnerzuchtbetriebes, eines Hühneraufzuchtbetriebes, eines Legehennenbetriebes, eines Hähnchenmastbetriebes, einer Hühnerbrüterei, eines Putenzuchtbetriebes, eines Putenmastbetriebes oder einer Putenbrüterei hat im Falle eines Verdachtes auf eine Infektion mit Salmonellen der Kategorie 1 oder einer Infektion mit Salmonellen der Kategorie 1 unverzüglich Untersuchungen zur Ermittlung der Ursache des Verdachtes oder der Infektion unter Hinzuziehung eines Tierarztes durchzuführen oder durchführen zu lassen. Satz 1 gilt im Falle des Verdachtes auf eine Infektion mit Salmonellen der Kategorie 2 oder einer Infektion mit Salmonellen der Kategorie 2 in einem Hühnerzuchtbetrieb oder in einer Hühnerbrüterei entsprechend.
 
-
-## § 7 – Reinigung und Desinfektion
+# § 7 – Reinigung und Desinfektion
 
 (1) Im Falle eines Verdachtes auf eine Infektion mit Salmonellen der Kategorie 1 oder einer Infektion mit Salmonellen der Kategorie 1 hat der Besitzer eines Hühnerzuchtbetriebes, eines Hühneraufzuchtbetriebes, eines Legehennenbetriebes oder eines Hähnchenmastbetriebes, soweit die Hühner und Eier aus dem betroffenen Betrieb oder der betroffenen Betriebsabteilung entfernt worden sind, die Ställe, die Ausläufe, deren jeweilige Vorräume und Zugänge sowie die Einrichtungen, Geräte und sonstigen Gegenstände, die Träger von Salmonellen sein können, unverzüglich nach dem Stand der Technik zu reinigen und zu desinfizieren oder reinigen und desinfizieren zu lassen. In den Ställen und ihrer unmittelbaren Umgebung hat der Besitzer eine Bekämpfung von Schadnagern, Schadinsekten und Parasiten durchzuführen oder durchführen zu lassen. Der Erfolg der Desinfektion nach Satz 1 ist durch eine bakteriologische Untersuchung von Tupferproben oder Abklatschproben nach dem Stand der Technik nachzuweisen. Die Ergebnisse dieser Untersuchung sind vom Besitzer des betroffenen Betriebes ein Jahr lang, gerechnet vom Tag der Untersuchung, aufzubewahren.
 
@@ -152,8 +139,7 @@ Flüssige Abgänge aus den Geflügelställen oder sonstigen Standorten des Gefl�
 
 2. die Absätze 4 und 5, auch in Verbindung mit Absatz 6, für eine Putenbrüterei.
 
-
-## § 8 – Betriebseigene Kontrollen, sonstige Mitteilungspflichten
+# § 8 – Betriebseigene Kontrollen, sonstige Mitteilungspflichten
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Besitzer eines Hühnerzuchtbetriebes sicherzustellen, dass
 
@@ -211,8 +197,7 @@ bei positiven Befunden spätestens 14 Tage, bei negativen Befunden spätestens d
 
 spätestens 30 Tage nach Abschluss der Impfung mitzuteilen.
 
-
-## § 9 – Maßregeln vor amtlicher Feststellung
+# § 9 – Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 8 Absatz 1 oder 2 Nummer 1 oder 3 den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2, dürfen aus dem betroffenen Betrieb oder, im Falle eines Betriebes mit Betriebsabteilungen, aus der betroffenen Betriebsabteilung Hühner und Eier nicht verbracht werden. Satz 1 gilt nicht, soweit
 
@@ -236,13 +221,11 @@ d) zur unschädlichen Beseitigung
 
 verbracht werden.
 
-
-## § 10 – Amtliche Untersuchung
+# § 10 – Amtliche Untersuchung
 
 Im Falle der Mitteilung des Verdachtes auf eine Infektion mit Salmonellen nach § 4 oder soweit sonstige hinreichende Anhaltspunkte einen Verdacht einer Infektion mit Salmonellen der Kategorie 1 oder 2 begründen, führt die zuständige Behörde eine Untersuchung der betroffenen Herde nach Maßgabe der Nummer 2.2.2.2 Buchstabe a, der Nummern 3.1.3, 3.1.4, 3.2, 3.3 und 3.5 des Anhangs der Verordnung (EU) Nr. 200/2010 durch.
 
-
-## § 11 – Maßregeln nach amtlicher Feststellung
+# § 11 – Maßregeln nach amtlicher Feststellung
 
 (1) Ist in einem Hühnerzuchtbetrieb auf Grund einer Untersuchung nach § 10 eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt worden, dürfen Hühner und Eier aus dem betroffenen Betrieb oder, im Falle eines Betriebes mit Betriebsabteilungen, aus der betroffenen Betriebsabteilung nicht verbracht werden. Satz 1 gilt nicht, soweit
 
@@ -296,8 +279,7 @@ Satz 1 Nummer 1 gilt nicht, soweit die Hühner unverzüglich
 
 verbracht werden.
 
-
-## § 12 – Aufhebung der Schutzmaßregeln
+# § 12 – Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach den §§ 9 und 11 sind nicht mehr anzuwenden, soweit der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2 beseitigt oder die Infektion mit Salmonellen der Kategorie 1 oder 2 erloschen ist.
 
@@ -323,8 +305,7 @@ worden sind.
 
 (3) Der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2 gilt als beseitigt, soweit eine Untersuchung nach § 10 mit negativem Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
-## § 13 – Impfungen
+# § 13 – Impfungen
 
 (1) Der Besitzer eines Hühneraufzuchtbetriebes hat die Küken und Junghennen seines Bestandes gegen Salmonella Enteritidis mit einem für diesen Serotyp zugelassenen Impfstoff zu impfen oder impfen zu lassen. Die §§ 43 und 44 der Tierimpfstoff-Verordnung bleiben unberührt. Über die durchgeführte Impfung und den verwendeten Impfstoff hat der Besitzer unverzüglich Aufzeichnungen zu führen. Diese Aufzeichnungen sind, gerechnet vom Tag der Impfung, mindestens drei Jahre aufzubewahren. Die zuständige Behörde kann Ausnahmen von Satz 1
 
@@ -336,8 +317,7 @@ genehmigen.
 
 (2) Im Falle eines Verdachtes auf eine Infektion mit Salmonella Typhimurium oder einer Infektion mit Salmonella Typhimurium in dem vorhergehenden Aufzuchtdurchgang hat der Besitzer des Hühneraufzuchtbetriebes, soweit die Tiere nicht bereits gegen Salmonella Typhimurium geimpft worden sind, die Küken und Junghennen des betroffenen Betriebes oder der betroffenen Betriebsabteilung gegen Salmonella Typhimurium zu impfen oder impfen zu lassen.
 
-
-## § 14 – Betriebseigene Kontrollen
+# § 14 – Betriebseigene Kontrollen
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Besitzer eines Hühneraufzuchtbetriebes sicherzustellen, dass
 
@@ -359,23 +339,19 @@ Sind im Falle des Satzes 1 Nummer 1 Buchstabe b weniger als 25 Kükenbehältniss
 
 (2) § 8 Absatz 3 und 4 gilt für die Untersuchungen nach Absatz 1 entsprechend.
 
-
-## § 15 – Maßregeln vor amtlicher Feststellung
+# § 15 – Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 14 Absatz 1 Satz 1 den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1, gilt § 9 entsprechend.
 
-
-## § 16 – Amtliche Untersuchung
+# § 16 – Amtliche Untersuchung
 
 Im Falle der Mitteilung des Verdachtes auf eine Infektion mit Salmonellen der Kategorie 1 nach § 4 oder soweit sonstige hinreichende Anhaltspunkte einen Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 begründen, führt die zuständige Behörde eine Untersuchung der betroffenen Herde nach Maßgabe der Nummer 2.1 Satz 3 Buchstabe d und e, der Nummern 2.2, 3.1, 3.2, 3.3, 3.5 und 3.6 des Anhangs der Verordnung (EU) Nr. 517/2011 durch.
 
-
-## § 17 – Maßregeln nach amtlicher Feststellung
+# § 17 – Maßregeln nach amtlicher Feststellung
 
 Ist in einem Hühneraufzuchtbetrieb auf Grund einer Untersuchung nach § 16 eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt worden, gilt § 11 Absatz 1 entsprechend.
 
-
-## § 18 – Aufhebung der Schutzmaßregeln
+# § 18 – Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach § 15 oder § 17 sind nicht mehr anzuwenden, soweit der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 beseitigt oder die Infektion mit Salmonellen der Kategorie 1 erloschen ist.
 
@@ -387,8 +363,7 @@ Ist in einem Hühneraufzuchtbetrieb auf Grund einer Untersuchung nach § 16 eine
 
 (3) Der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 gilt als beseitigt, soweit eine Untersuchung nach § 16 mit negativem Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
-## § 19 – Einstallen von Junghennen
+# § 19 – Einstallen von Junghennen
 
 Der Besitzer eines Legehennenbetriebes darf Junghennen zum Zwecke der Konsumeierproduktion in seinen Betrieb nur einstallen, soweit sie aus einer Herde stammen, die
 
@@ -398,20 +373,17 @@ Der Besitzer eines Legehennenbetriebes darf Junghennen zum Zwecke der Konsumeier
 
 Satz 1 gilt auch für Betriebe, in denen weniger als 350 Legehennen erwerbsmäßig gehalten werden.
 
-
-## § 20 – Betriebseigene Kontrollen
+# § 20 – Betriebseigene Kontrollen
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Besitzer eines Legehennenbetriebes sicherzustellen, dass in den Herden seines Betriebes während der Legephase Proben nach Maßgabe der Nummern 2.1 und 2.2 des Anhangs der Verordnung (EU) Nr. 517/2011 entnommen und diese Proben nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 517/2011 in einer Untersuchungseinrichtung untersucht werden. Eine Probenahme und Untersuchung nach Satz 1 ist nicht erforderlich, soweit eine amtliche Untersuchung nach § 22 durchgeführt wird. Eine Probenahme und Untersuchung nach Satz 1 bedarf es ferner nicht in Legehennenbetrieben, die weniger als 1 000 Legehennen halten, soweit dort Maßnahmen im Rahmen eines betriebseigenen Qualitätssicherungssystems zur Vermeidung der Ein- und Verschleppung von Salmonellen der Kategorie 1 durchgeführt werden. Der Besitzer eines Legehennenbetriebes hat über die nach Satz 1 durchgeführten Maßnahmen Aufzeichnungen zu führen und die Aufzeichnungen drei Jahre lang, gerechnet vom Datum der jeweiligen Aufzeichnung, aufzubewahren.
 
 (2) § 8 Absatz 3 gilt für die Untersuchungen nach Absatz 1 entsprechend.
 
-
-## § 21 – Maßregeln vor amtlicher Feststellung
+# § 21 – Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 20 Absatz 1 Satz 1 den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1, gilt § 9 entsprechend. Satz 1 ist auch auf Betriebe anzuwenden, in denen weniger als 1 000 Legehennen erwerbsmäßig gehalten werden.
 
-
-## § 22 – Amtliche Untersuchung
+# § 22 – Amtliche Untersuchung
 
 Die zuständige Behörde führt, vorbehaltlich des Anhangs II Buchstabe D Nummer 4 der Verordnung (EG) Nr. 2160/2003,
 
@@ -423,8 +395,7 @@ Die zuständige Behörde führt, vorbehaltlich des Anhangs II Buchstabe D Nummer
 
 eine Untersuchung der betroffenen Herde nach Maßgabe der Nummer 2.1 Satz 3 Buchstabe d und e, der Nummern 2.2, 3.1, 3.2, 3.3, 3.5 und 3.6 des Anhangs der Verordnung (EU) Nr. 517/2011 durch.
 
-
-## § 23 – Maßregeln nach amtlicher Feststellung
+# § 23 – Maßregeln nach amtlicher Feststellung
 
 Ist in einem Legehennenbetrieb auf Grund einer Untersuchung nach § 22 eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt worden, dürfen
 
@@ -448,8 +419,7 @@ verbracht werden.
 
 Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer 2.1 Satz 4 des Anhangs der Verordnung (EU) Nr. 517/2011 durchgeführt wird, entsprechend.
 
-
-## § 24 – Aufhebung der Schutzmaßregeln
+# § 24 – Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach § 21 oder § 23 sind nicht mehr anzuwenden, soweit der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 beseitigt oder die Infektion mit Salmonellen der Kategorie 1 erloschen ist.
 
@@ -461,30 +431,25 @@ Satz 1 gilt im Falle einer Untersuchung, die nach Maßgabe der Nummer 2.1 Satz 4
 
 (3) Der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 gilt als beseitigt, soweit eine Untersuchung nach § 22 mit negativem Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
-## § 25 – Betriebseigene Kontrollen
+# § 25 – Betriebseigene Kontrollen
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Besitzer eines Hähnchenmastbetriebes sicherzustellen, dass in den Herden seines Betriebes Proben nach Maßgabe der Nummer 2 des Anhangs der Verordnung (EU) Nr. 200/2012 entnommen und transportiert sowie nach Maßgabe der Nummern 3.1 bis 3.4 des Anhangs der Verordnung (EU) Nr. 200/2012 behandelt und in einer Untersuchungseinrichtung untersucht werden. Eine Probenahme und Untersuchung nach Satz 1 ist nicht erforderlich, soweit eine amtliche Untersuchung nach § 27 durchgeführt wird. Der Besitzer eines Hähnchenmastbetriebes hat über die nach Satz 1 durchgeführten Maßnahmen Aufzeichnungen zu führen und die Aufzeichnungen drei Jahre lang, gerechnet vom Datum der jeweiligen Aufzeichnung, aufzubewahren.
 
 (2) § 8 Absatz 3 gilt für Untersuchungen nach Absatz 1 entsprechend.
 
-
-## § 26 – Maßregeln vor amtlicher Feststellung
+# § 26 – Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 25 Absatz 1 Satz 1 den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1, gilt § 9 Satz 1 und 2 Nummer 1 und 2 entsprechend.
 
-
-## § 27 – Amtliche Untersuchung
+# § 27 – Amtliche Untersuchung
 
 Im Falle der Mitteilung des Verdachtes auf eine Infektion mit Salmonellen der Kategorie 1 nach § 4 oder soweit sonstige hinreichende Anhaltspunkte den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 begründen, führt die zuständige Behörde eine Untersuchung der betroffenen Herde nach Maßgabe der Nummern 2, 3.1, 3.2, 3.3 und 3.5 des Anhangs der Verordnung (EU) Nr. 200/2012 durch.
 
-
-## § 28 – Maßregeln nach amtlicher Feststellung
+# § 28 – Maßregeln nach amtlicher Feststellung
 
 Ist in einem Hähnchenmastbetrieb auf Grund einer Untersuchung nach § 27 eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt worden, gilt § 11 Absatz 1 entsprechend.
 
-
-## § 29 – Aufhebung der Schutzmaßregeln
+# § 29 – Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach § 26 und § 28 sind nicht mehr anzuwenden, soweit der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 beseitigt oder die Infektion mit Salmonellen der Kategorie 1 erloschen ist.
 
@@ -496,8 +461,7 @@ Ist in einem Hähnchenmastbetrieb auf Grund einer Untersuchung nach § 27 eine I
 
 (3) Der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 gilt als beseitigt, soweit eine Untersuchung nach § 27 mit negativem Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
-## § 30 – Betriebseigene Kontrollen
+# § 30 – Betriebseigene Kontrollen
 
 (1) Der Besitzer einer Hühnerbrüterei hat sicherzustellen, dass aus jeder Charge Bruteier einer Zuchtherde mindestens eine Probe je Brüter aus sichtbar verschmutzten Schlupfbrüter-Hordenauskleidungen als Zufallsstichprobe aus fünf verschiedenen Schlupfbrüterhorden genommen wird und dabei gewährleistet ist, dass eine Gesamtfläche von mindestens einem Quadratmeter der Schlupfbrüter-Hordenauskleidung beprobt wird. Die Probe ist nach Maßgabe der Nummern 3.1.1, 3.1.2, 3.2, 3.3 und 3.4 des Anhangs der Verordnung (EU) Nr. 200/2010 in einer Untersuchungseinrichtung auf Salmonellen der Kategorie 1 und 2 zu untersuchen. Für den Fall, dass keine Schlupfbrüter-Hordenauskleidung für die Untersuchung zur Verfügung steht, sind Proben von 25 Gramm herzustellen, für die
 
@@ -511,8 +475,7 @@ werden. Diese Proben sind nach den Nummern 2.1.1, 3.1.1, 3.1.4, 3.2, 3.3 und 3.4
 
 (3) § 8 Absatz 3 Nummer 1 und 3 gilt für die Untersuchungen nach Absatz 1 entsprechend.
 
-
-## § 31 – Maßregeln vor amtlicher Feststellung
+# § 31 – Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 30 Absatz 1 den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1, so dürfen aus der betroffenen Hühnerbrüterei oder, im Falle einer Hühnerbrüterei mit jeweils lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter
 
@@ -528,18 +491,15 @@ verbracht werden. Abweichend von Satz 1 dürfen unbebrütete Eier
 
 verbracht werden. Die Sätze 1 und 2 gelten im Falle des Verdachtes auf eine Infektion mit Salmonellen der Kategorie 2 in einem Hühnerzuchtbetrieb oder in einem Hühneraufzuchtbetrieb mit der Maßgabe entsprechend, dass zusätzlich Eintagsküken in einen Hühnerzuchtbetrieb verbracht werden dürfen, soweit sichergestellt ist, dass die Küken in diesem Betrieb nach § 11 Absatz 2 Nummer 1 Buchstabe a behandelt oder nach § 11 Absatz 2 Nummer 1 Buchstabe b geimpft werden.
 
-
-## § 32 – Amtliche Untersuchung
+# § 32 – Amtliche Untersuchung
 
 Im Falle der Mitteilung des Verdachtes auf eine Infektion mit Salmonellen der Kategorie 1 oder 2 nach § 4 oder, soweit epidemiologische Untersuchungen in einem Hühneraufzuchtbetrieb oder einem Hühnerzuchtbetrieb den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2 oder eine Infektion mit Salmonellen der Kategorie 1 oder 2 begründen, führt die zuständige Behörde eine Untersuchung der betroffenen Hühnerbrüterei oder, bei lüftungstechnisch getrennten Brütern, des betroffenen Brüters nach Maßgabe der Nummer 2.2.2.2 Buchstabe b oder c, der Nummern 3.1, 3.2, 3.3, 3.4 und 3.5 des Anhangs der Verordnung (EU) Nr. 200/2010 durch.
 
-
-## § 33 – Maßregeln nach amtlicher Feststellung
+# § 33 – Maßregeln nach amtlicher Feststellung
 
 Ist in einer Hühnerbrüterei auf Grund einer Untersuchung nach § 32 eine Infektion mit Salmonellen der Kategorie 1 oder 2 amtlich festgestellt worden, gilt § 31 entsprechend.
 
-
-## § 34 – Aufhebung der Schutzmaßregeln
+# § 34 – Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach § 31 oder § 33 sind nicht mehr anzuwenden, soweit der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 oder 2 beseitigt oder die Infektion mit Salmonellen der Kategorie 1 oder 2 erloschen ist.
 
@@ -561,8 +521,7 @@ b) frühestens zwei Wochen nach der Umstallung mit negativem Ergebnis auf Salmon
 
 worden sind.
 
-
-## § 34a – Betriebseigene Kontrollen
+# § 34a – Betriebseigene Kontrollen
 
 (1) Zur Erfüllung seiner Probenahme- und Untersuchungspflicht nach Anhang II Buchstabe B Nummer 1 der Verordnung (EG) Nr. 2160/2003 hat der Besitzer eines
 
@@ -576,8 +535,7 @@ Eine Probenahme und Untersuchung nach Satz 1 ist nicht erforderlich, soweit eine
 
 (3) § 8 Absatz 3 Nummer 1 und 3 gilt für Untersuchungen nach Absatz 1 Satz 1 und Absatz 2 Satz 1 entsprechend.
 
-
-## § 34b – Maßregeln vor amtlicher Feststellung
+# § 34b – Maßregeln vor amtlicher Feststellung
 
 Ergeben die Untersuchungen nach § 34a Absatz 1 Satz 1 oder Absatz 2 Satz 1 den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1, dürfen aus dem betroffenen Betrieb, im Falle eines Betriebes mit Betriebsabteilungen aus der betroffenen Betriebsabteilung, aus der betroffenen Putenbrüterei oder, im Falle einer Putenbrüterei mit lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter
 
@@ -601,13 +559,11 @@ verbracht werden. Abweichend von Satz 1 Nummer 2 dürfen unbebrütete Eier
 
 verbracht werden.
 
-
-## § 34c – Amtliche Untersuchung
+# § 34c – Amtliche Untersuchung
 
 Im Falle der Mitteilung eines Verdachtes auf eine Infektion mit Salmonellen der Kategorie 1 nach § 4 oder soweit sonstige hinreichende Anhaltspunkte den Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 begründen, führt die zuständige Behörde eine Untersuchung der betroffenen Putenherde oder Putenbrüterei, bei lüftungstechnisch getrennten Brütern, des betroffenen Brüters, nach Maßgabe der Nummer 2.1 Buchstabe b und der Nummern 2.2, 3.1 bis 3.3 und 3.5 des Anhangs der Verordnung (EU) Nr. 1190/2012 durch.
 
-
-## § 34d – Maßregeln nach amtlicher Feststellung
+# § 34d – Maßregeln nach amtlicher Feststellung
 
 Ist in einem Putenzuchtbetrieb, einem Putenmastbetrieb oder einer Putenbrüterei auf Grund einer Untersuchung nach § 34c eine Infektion mit Salmonellen der Kategorie 1 amtlich festgestellt worden, dürfen Puten und Eier aus dem betroffenen Betrieb, im Falle eines Betriebes mit Betriebsabteilungen aus der betroffenen Betriebsabteilung, aus der betroffenen Putenbrüterei, oder, im Falle von lüftungstechnisch getrennten Brütern, aus dem betroffenen Brüter, nicht verbracht werden. Satz 1 gilt nicht, soweit
 
@@ -635,8 +591,7 @@ b) als Material der Kategorie 2 gemäß Artikel 9 Buchstabe h der Verordnung (EG
 
 verbracht werden.
 
-
-## § 34e – Aufhebung der Schutzmaßregeln
+# § 34e – Aufhebung der Schutzmaßregeln
 
 (1) Die Maßnahmen nach den §§ 34b und 34d sind nicht mehr anzuwenden, soweit der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 beseitigt oder die Infektion mit Salmonellen der Kategorie 1 erloschen ist.
 
@@ -648,15 +603,13 @@ verbracht werden.
 
 (3) Der Verdacht auf eine Infektion mit Salmonellen der Kategorie 1 gilt als beseitigt, soweit eine Untersuchung nach § 34c mit negativem Ergebnis auf Salmonellen durchgeführt worden ist.
 
-
-## § 35 – Schutzmaßregeln bei Salmonella Gallinarum Pullorum
+# § 35 – Schutzmaßregeln bei Salmonella Gallinarum Pullorum
 
 (1) Die zuständige Behörde kann Maßregeln nach den §§ 8 bis 12 für einen Geflügel haltenden Betrieb anordnen, wenn ein Verdacht auf eine Infektion mit Salmonella Gallinarum Pullorum besteht oder eine Infektion mit Salmonella Gallinarum Pullorum festgestellt worden ist.
 
 (2) Impfungen gegen Salmonella Gallinarum Pullorum sind verboten. Die zuständige Behörde kann im Einzelfall Ausnahmen von Satz 1 zulassen, soweit Belange der Tierseuchenbekämpfung nicht entgegenstehen.
 
-
-## § 36 – Mitteilungen der Länder
+# § 36 – Mitteilungen der Länder
 
 Die zuständige Behörde übermittelt dem Bundesministerium für Ernährung und Landwirtschaft zur Weitergabe an die Europäische Kommission jährlich bis zum 15. Februar des folgenden Jahres die nach der jeweiligen Nummer 4 des Anhangs
 
@@ -670,8 +623,7 @@ Die zuständige Behörde übermittelt dem Bundesministerium für Ernährung und 
 
 erforderlichen Angaben.
 
-
-## § 37 – Ordnungswidrigkeiten
+# § 37 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -721,11 +673,9 @@ Hühner oder Eier verbringt,
 
 2. als Besitzer eines Hühnerzuchtbetriebes oder eines Hühneraufzuchtbetriebes entgegen Anhang II Buchstabe C Nummer 4 Satz 1 einen Vogel der Herde nicht oder nicht unverzüglich nach Vorliegen einer Probenanalyse, mit der Salmonella Enteritidis oder Salmonella Typhimurium, jeweils ausgenommen Impfstämme, festgestellt wird, schlachtet und nicht oder nicht unverzüglich nach Vorliegen einer solchen Probenanalyse vernichtet.
 
+# § 38 – (weggefallen)
 
-## § 38 – (weggefallen)
-
-
-## Anlage – (zu § 2 Absatz 1)Anforderungen an gewerbsmäßige Geflügelhaltungen
+# Anlage – (zu § 2 Absatz 1)Anforderungen an gewerbsmäßige Geflügelhaltungen
 
 (Fundstelle: BGBl. I 2014, 71 - 72)
 

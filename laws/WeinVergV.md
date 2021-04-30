@@ -1,15 +1,11 @@
-# [WeinVergV] Verordnung über die Gewährung von Vergünstigungen für Wein  (Wein-Vergünstigungsverordnung - WeinVergV)
-
-Ausfertigungsdatum: 08.10.1976
-
+% Verordnung über die Gewährung von Vergünstigungen für Wein  (Wein-Vergünstigungsverordnung - WeinVergV)
+% Ausfertigungsdatum: 08.10.1976
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die Gewährung von Beihilfen, Vergütungen und sonstigen Vergünstigungen (Vergünstigungen) im Rahmen der gemeinsamen Marktorganisation für landwirtschaftliche Erzeugnisse hinsichtlich des Weinsektors mit Ausnahme der Vergütungen für die Aufgabe der Produktion und der Leistungen für die Umstrukturierung und die Umstellung von Rebflächen sowie der Leistungen für Ernteversicherungen und die Durchführung von Investitionen.
 
-
-## § 2 – Zuständige Stellen
+# § 2 – Zuständige Stellen
 
 (1) Zuständig für die Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte ist vorbehaltlich des Absatzes 2 die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt).
 
@@ -17,8 +13,7 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 (3) (weggefallen)
 
-
-## § 3 – Anträge, Forderungen
+# § 3 – Anträge, Forderungen
 
 (1) Vergünstigungen nach § 1 werden auf schriftlichen Antrag gewährt.
 
@@ -26,13 +21,11 @@ Die Vorschriften dieser Verordnung gelten für die Durchführung der Rechtsakte 
 
 (3)
 
-
-## § 4 – Muster, Vordrucke
+# § 4 – Muster, Vordrucke
 
 Die jeweils zuständige Stelle kann für Anträge, Verträge, Bescheinigungen, Erklärungen, Mitteilungen und andere Unterlagen, die zur Durchführung dieser Verordnung und der in § 1 genannten Rechtsakte notwendig sind, Muster bekanntgeben oder Vordrucke bereithalten. Soweit Muster bekanntgegeben oder Vordrucke bereitgehalten werden, sind diese zu verwenden. Die elektronische Form ist ausgeschlossen, sofern sie von der zuständigen Stelle nicht ausdrücklich zugelassen wird.
 
-
-## § 5 – Absatzförderung
+# § 5 – Absatzförderung
 
 (1) Vergünstigungen zur Absatzförderung in Mitgliedstaaten nach Artikel 45 Absatz 1 Buchstabe a oder in Drittländern nach Artikel 45 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in Verbindung mit § 3b Absatz 2 Satz 1 des Weingesetzes in der Fassung der Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66), das zuletzt durch Artikel 2 des Gesetzes vom 20. April 2013 (BGBl. I S. 917) geändert worden ist, werden nach Maßgabe der Absätze 2 bis 7 gewährt.
 
@@ -58,28 +51,23 @@ Der Mustervertrag nebst Anhängen kann bei der Bundesanstalt bezogen oder im Int
 
 (7) Mit Abschluss der Maßnahme hat der Empfänger der Vergünstigung der Bundesanstalt unter Verwendung des von der Bundesanstalt vorgegebenen Musters den Abschlussbericht und eine Bewertung der durchgeführten Maßnahme vorzulegen.
 
-
-## § 6 – (weggefallen)
-
-\-
-
-
-## § 7
-
-(weggefallen)
-
-
-## § 8 – (weggefallen)
+# § 6 – (weggefallen)
 
 \-
 
-
-## § 8a
+# § 7
 
 (weggefallen)
 
+# § 8 – (weggefallen)
 
-## § 9 – Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
+\-
+
+# § 8a
+
+(weggefallen)
+
+# § 9 – Duldungs-, Mitwirkungs- und Aufbewahrungspflichten
 
 (1) Zum Zwecke der Überwachung hat der Empfänger der Vergünstigung den Bediensteten der Bundesanstalt im Rahmen ihrer Zuständigkeit nach dieser Verordnung, auch in Begleitung von Prüfungsorganen der Europäischen Gemeinschaft, das Betreten der Geschäfts-, Betriebs- und Lagerräume sowie der Betriebsflächen während der üblichen Geschäfts- und Betriebszeiten zu gestatten, auf Verlangen die in Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke, Datenträger, Karten und sonstige Unterlagen zur Einsicht zur Verfügung zu stellen, Auskunft zu erteilen, die Entnahme von Mustern und Proben ohne Entschädigung zu dulden und die erforderliche Unterstützung zu gewähren. Bei automatisiert geführten Aufzeichnungen sind die in Satz 1 genannten Auskunftspflichtigen verpflichtet, auf ihre Kosten die erforderlichen Ausdrucke zu erstellen, soweit die zuständigen Stellen dies verlangen.
 
@@ -87,17 +75,14 @@ Der Mustervertrag nebst Anhängen kann bei der Bundesanstalt bezogen oder im Int
 
 (3) Wird ein Betrieb ganz oder teilweise während eines Wirtschaftsjahres an einen anderen übertragen, so gelten die Vorschriften der Absätze 1 und 2 auch für den Rechtsnachfolger.
 
-
-## § 10 – (weggefallen)
+# § 10 – (weggefallen)
 
 \-
 
-
-## § 10a
+# § 10a
 
 (weggefallen)
 
-
-## § 11
+# § 11
 
 (Inkrafttreten)

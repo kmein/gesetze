@@ -1,20 +1,15 @@
-# [OSZEVorRV 2016] Verordnung über Vorrechte und Immunitäten der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)
-
-Ausfertigungsdatum: 04.02.2016
-
+% Verordnung über Vorrechte und Immunitäten der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE)
+% Ausfertigungsdatum: 04.02.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 3 Nummer 2 des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen (BGBl. 1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August 1980 (BGBl. 1980 II S. 941) neu gefasst worden ist, verordnet die Bundesregierung:
 
-
-## Art 1
+# Art 1
 
 Der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) werden nach Maßgabe der in Rom am 1. Dezember 1993 vom Rat der Konferenz über Sicherheit und Zusammenarbeit in Europa (KSZE) angenommenen Bestimmungen über die Rechtsfähigkeit der KSZE-Institutionen sowie über Vorrechte und Immunitäten (Bestimmungen) und des nachstehenden Artikels Rechtsfähigkeit sowie Vorrechte und Immunitäten gewährt. Die Bestimmungen werden nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) OSZE-Institutionen im Sinne der Bestimmungen sind
 
@@ -44,14 +39,12 @@ d) weitere Personalangehörige der OSZE-Institutionen und der OSZE-Missionen, so
 
 (6) Die unter Absatz 13 Buchstabe b bis f der Bestimmungen aufgeführten Vorrechte und Immunitäten gelten nicht für Deutsche im Sinne des Grundgesetzes und nicht für Personen, die keine Deutschen im Sinne des Grundgesetzes sind, jedoch ihren ständigen Aufenthalt im Gebiet der Bundesrepublik Deutschland haben.
 
-
-## Art 3 – Inkrafttreten, Außerkrafttreten
+# Art 3 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 (2) Gleichzeitig tritt die Verordnung vom 15. Februar 1996 über Vorrechte und Immunitäten der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) (BGBl. 1996 II S. 226), die durch Artikel 4 Absatz 1 des Gesetzes vom 22. September 2005 (BGBl. I S. 2809) geändert worden ist, außer Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

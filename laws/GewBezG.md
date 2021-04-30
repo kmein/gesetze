@@ -1,10 +1,7 @@
-# [GewBezG] Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken
-
-Ausfertigungsdatum: 28.06.1933
-
+% Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken
+% Ausfertigungsdatum: 28.06.1933
  
-
-## § 1 – Verpflichtung
+# § 1 – Verpflichtung
 
 (1) Frachtstücke oder andere Gegenstände von mindestens 1.000 Kilogramm Rohgewicht, die im Geltungsbereich dieses Gesetzes aufgegeben werden und zur Beförderung zur See oder auf Binnenwasserstraßen bestimmt sind, müssen an sichtbarer Stelle mit einer dauerhaften, deutlichen Angabe ihres Rohgewichtes in Kilogramm versehen sein.
 
@@ -12,13 +9,11 @@ Ausfertigungsdatum: 28.06.1933
 
 (3) Das Gewicht ist durch Wiegen festzustellen; stehen dem besondere Schwierigkeiten entgegen, so ist das Gewicht zu errechnen oder möglichst genau zu schätzen. Die Gewichtsbezeichnung ist spätestens vor der Verladung auf ein Schiff anzubringen. Annähernde Gewichtsangaben sind als solche kenntlich zu machen. Ist der Gegenstand bereits mit einer Gewichtsbezeichnung versehen, so ist der Absender zum Nachwiegen nur dann verpflichtet, wenn die Gewichtsangabe unglaubhaft erscheint.
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3 – Überwachungs- und Zwangsvorschriften
+# § 3 – Überwachungs- und Zwangsvorschriften
 
 (1) Die Aufsicht über die Durchführung dieses Gesetzes liegt den für die Hafen- oder Schiffahrtspolizei zuständigen Behörden ob. Der § 139b Abs. 1, 2 und 4 der Gewerbeordnung findet entsprechende Anwendung.
 
@@ -26,14 +21,12 @@ Ausfertigungsdatum: 28.06.1933
 
 (3)
 
-
-## § 3a – Bußgeldvorschrift
+# § 3a – Bußgeldvorschrift
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen § 1 die vorgeschriebene Gewichtsbezeichnung nicht anbringt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Dieses Gesetz tritt einen Monat nach der Verkündung in Kraft.

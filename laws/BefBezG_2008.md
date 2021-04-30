@@ -1,20 +1,15 @@
-# [BefBezG 2008] Gesetz über befriedete Bezirke für Verfassungsorgane des Bundes
-
-Ausfertigungsdatum: 08.12.2008
-
+% Gesetz über befriedete Bezirke für Verfassungsorgane des Bundes
+% Ausfertigungsdatum: 08.12.2008
  
-
-## § 1 – Befriedete Bezirke
+# § 1 – Befriedete Bezirke
 
 Für den Deutschen Bundestag, den Bundesrat und das Bundesverfassungsgericht werden befriedete Bezirke gebildet. Die Abgrenzung der befriedeten Bezirke ergibt sich aus der Anlage zu diesem Gesetz.
 
-
-## § 2 – Schutz von Verfassungsorganen
+# § 2 – Schutz von Verfassungsorganen
 
 Öffentliche Versammlungen unter freiem Himmel und Aufzüge sind innerhalb der befriedeten Bezirke nach § 1 verboten. Ebenso ist es verboten, zu Versammlungen oder Aufzügen nach Satz 1 aufzufordern.
 
-
-## § 3 – Zulassung von Versammlungen unter freiem Himmel und Aufzügen
+# § 3 – Zulassung von Versammlungen unter freiem Himmel und Aufzügen
 
 (1) Öffentliche Versammlungen unter freiem Himmel und Aufzüge innerhalb der nach § 1 gebildeten befriedeten Bezirke sind zuzulassen, wenn eine Beeinträchtigung der Tätigkeit des Deutschen Bundestages und seiner Fraktionen, des Bundesrates oder des Bundesverfassungsgerichts sowie ihrer Organe und Gremien und eine Behinderung des freien Zugangs zu ihren in dem befriedeten Bezirk gelegenen Gebäuden nicht zu besorgen ist. Davon ist im Falle des Deutschen Bundestages und des Bundesrates in der Regel dann auszugehen, wenn die Versammlung oder der Aufzug an einem Tag durchgeführt werden soll, an dem Sitzungen der in Satz 1 genannten Stellen nicht stattfinden. Die Zulassung kann mit Auflagen verbunden werden.
 
@@ -22,20 +17,17 @@ Für den Deutschen Bundestag, den Bundesrat und das Bundesverfassungsgericht wer
 
 (3) Durch die Zulassung werden die in den Ländern Berlin und Baden-Württemberg jeweils geltenden versammlungsrechtlichen Vorschriften nicht berührt.
 
-
-## § 4 – Bußgeldvorschriften
+# § 4 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer entgegen § 2 an einer öffentlichen Versammlung unter freiem Himmel oder einem Aufzug teilnimmt oder zu einer solchen Versammlung oder zu einem Aufzug auffordert.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
-## § 5 – Einschränkung des Grundrechts der Versammlungsfreiheit
+# § 5 – Einschränkung des Grundrechts der Versammlungsfreiheit
 
 Das Grundrecht der Versammlungsfreiheit (Artikel 8 des Grundgesetzes) wird durch dieses Gesetz eingeschränkt.
 
-
-## Anlage – (zu § 1 Satz 2)
+# Anlage – (zu § 1 Satz 2)
 
 (Fundstelle: BGBl. I 2008, 2368)
 

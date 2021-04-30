@@ -1,10 +1,7 @@
-# [AuslSchuldAbkAG] Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
-
-Ausfertigungsdatum: 24.08.1953
-
+% Gesetz zur Ausführung des Abkommens vom 27. Februar 1953 über deutsche Auslandsschulden
+% Ausfertigungsdatum: 24.08.1953
  
-
-## Gliederung
+# Gliederung
 
 Erster Abschnitt
 
@@ -49,8 +46,7 @@ c) Vollstreckung von Entscheidungen
  
 
    
-I.  
-Vollstreckbarerklärung von Entscheidungen, die nach dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind ........
+I. Vollstreckbarerklärung von Entscheidungen, die nach dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind ........
 
 §§ 13 - 24
 
@@ -93,8 +89,7 @@ b) Goldmarkschulden mit spezifisch ausländischem Charakter
  
 
    
-I.  
-Gemeinsame Bestimmungen .............
+I. Gemeinsame Bestimmungen .............
 
 §§ 52 - 54
 
@@ -194,27 +189,23 @@ Schlußbestimmungen ..........................
 
 §§ 116, 117
 
-
-## § 1
+# § 1
 
 (1) Abkommen im Sinne dieses Gesetzes ist das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden (Bundesgesetzbl. II S. 331).
 
 (2) Die in Artikel 3 des Abkommens enthaltenen Begriffsbestimmungen gelten auch für dieses Gesetz.
 
-
-## § 2
+# § 2
 
 (1) Hat ein Schuldner wegen seiner Schuld einen Regelungsvorschlag gemäß den Bestimmungen der einschlägigen Anlage des Abkommens gemacht oder eine Beitrittserklärung abgegeben und hat der Gläubiger gemäß den Bestimmungen des Abkommens und seiner Anlagen Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen, können sich aber Gläubiger und Schuldner über die Regelungsbedingungen nicht einigen, so kann der Gläubiger in bezug auf die Schuld die Ansprüche und sonstigen Rechte, die ihm nach dem Abkommen und seinen Anlagen zustehen, gegen den Schuldner vor den Gerichten im Geltungsbereich dieses Gesetzes geltend machen, sofern er sein Einverständnis damit erklärt, daß diese Gerichte die Zahlungs- und sonstigen Bedingungen für die Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen festsetzen. Das angerufene Gericht setzt im erkennenden Teil seiner Entscheidung die Zahlungs- und sonstigen Bedingungen für die Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen in dem Umfange fest, in dem dies für die Entscheidung erforderlich ist.
 
 (2) Das Gericht ist im Falle des Absatzes 1 zur Festsetzung der Zahlungs- und sonstigen Bedingungen für die Schuld nicht befugt, soweit für die Entscheidung nach den Bestimmungen des Abkommens und seiner Anlagen eine Schiedsinstanz ausschließlich zuständig ist.
 
-
-## § 3
+# § 3
 
 Hat ein Schuldner es unterlassen, gemäß den Bestimmungen der einschlägigen Anlage des Abkommens einen Regelungsvorschlag zu machen oder eine Beitrittserklärung abzugeben, und hat der Gläubiger gemäß den Bestimmungen des Abkommens und seiner Anlagen Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen, so kann der Gläubiger in bezug auf die Schuld die Ansprüche und sonstigen Rechte, die ihm nach dem Abkommen und seinen Anlagen zustehen, gegen den Schuldner vor den Gerichten im Geltungsbereich dieses Gesetzes geltend machen, sofern er sein Einverständnis damit erklärt, daß diese Gerichte die Zahlungs- und sonstigen Bedingungen für die Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen festsetzen. Das angerufene Gericht setzt im erkennenden Teil seiner Entscheidung die Zahlungs- und sonstigen Bedingungen für die Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen in dem Umfange fest, in dem dies für die Entscheidung erforderlich ist.
 
-
-## § 4
+# § 4
 
 (1) Die §§ 2 und 3 sind nicht anzuwenden, wenn für die Entscheidung über die Ansprüche und Rechte, die der Gläubiger geltend zu machen beabsichtigt, im Zeitpunkt der Geltendmachung nach den Bestimmungen des Vertrages, auf dem die Ansprüche beruhen, ein Gericht in einem Gläubigerstaat oder eine Schiedsinstanz ausschließlich zuständig ist, es sei denn, daß Gläubiger und Schuldner in gegenseitigem Einvernehmen darauf verzichten, sich auf die ausschließliche Zuständigkeit zu berufen, oder daß auf die Klage des Gläubigers der Schuldner vor einem Gericht im Geltungsbereich dieses Gesetzes zur Hauptsache mündlich verhandelt hat, ohne die Unzuständigkeit geltend zu machen.
 
@@ -222,44 +213,37 @@ Hat ein Schuldner es unterlassen, gemäß den Bestimmungen der einschlägigen An
 
 (3) Bei Schulden eines deutschen Handels- oder Industrieschuldners im Sinne der Anlage III des Abkommens, die unmittelbar gegenüber dem Gläubiger bestehen und unter Anlage III des Abkommens fallen, kann der Gläubiger die Ansprüche und Rechte nach den §§ 2 und 3 erst nach Ablauf von 30 Tagen nach der ersten Sitzung des in Nummer 17 der Anlage III vorgesehenen Beratenden Ausschusses geltend machen.
 
-
-## § 5
+# § 5
 
 (1) Macht der Schuldner einer verbrieften Schuld, deren Regelung nach den Bestimmungen der einschlägigen Anlage des Abkommens ein Regelungsangebot voraussetzt, keinen Vorschlag zur Regelung der Schuld gemäß den Bestimmungen der Anlagen I oder II, so können die in der Anlage I des Abkommens erwähnten Vereinigungen von Wertpapierinhabern oder entsprechende Vereinigungen und die in Artikel VIII der Anlage II des Abkommens erwähnten Gläubigervertretungen den Schuldner vor den Gerichten im Geltungsbereich dieses Gesetzes auf Abgabe des Regelungsangebotes in Anspruch nehmen. Das angerufene Gericht setzt im erkennenden Teil seiner Entscheidung die Zahlungs- und sonstigen Bedingungen für die Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen fest. Das Angebot gilt als abgegeben, sobald das Urteil die Rechtskraft erlangt hat.
 
 (2) Absatz 1 gilt nicht, wenn Schuldner die Bundesrepublik Deutschland ist.
 
-
-## § 6
+# § 6
 
 In den Fällen des § 3 und des § 5 ist der Schuldner der Gerichtsbarkeit der Schiedsinstanzen, die in dem Abkommen und seinen Anlagen vorgesehen sind, nicht unterworfen.
 
-
-## § 7
+# § 7
 
 Bei der Festsetzung der Zahlungs- und sonstigen Bedingungen für eine unter Anlage II des Abkommens fallende Schuld hat das Gericht in den Fällen des § 3 und des § 5 die kürzeste Laufzeit festzusetzen, die gemäß den Bestimmungen dieser Anlage für die Regelung der Schuld in Betracht kommt.
 
-
-## § 8
+# § 8
 
 (1) Hat ein Schuldner es unterlassen, gemäß den Bestimmungen der Anlagen I oder II des Abkommens einen Regelungsvorschlag zu machen, so hat er in einem Verfahren nach § 3 oder § 5 keinen Anspruch auf die Vorteile der in Nummer 7 Absatz 1 Buchstabe e der Anlage I oder in Artikel V Abs. 11 der Anlage II des Abkommens enthaltenen Härteklauseln. Dies gilt bei verbrieften Schulden, deren Regelung ein Regelungsangebot voraussetzt, dann nicht, wenn der Schuldner die Abgabe eines Regelungsvorschlags deshalb unterlassen hat, weil eine Vereinigung von Wertpapierinhabern oder eine entsprechende Vereinigung im Sinne der Anlage I oder eine Gläubigervertretung im Sinne der Anlage II des Abkommens nicht vorhanden ist.
 
 (2) Hat ein Schuldner es unterlassen, die in Artikel 14 der Anlage IV des Abkommens vorgesehene Beitrittserklärung abzugeben, so hat er in einem Verfahren nach § 3 keinen Anspruch auf die Vorteile der in Artikel 11 dieser Anlage enthaltenen Härteklausel. Hat der Schuldner die Abgabe der Erklärung lediglich deshalb unterlassen, weil er das Bestehen der Schuld bestritten hat, so verliert er den Anspruch auf die Vorteile der Härteklausel nicht; er kann jedoch, sofern das in Artikel 15 der Anlage IV des Abkommens erwähnte Gericht oder Schiedsgericht das Bestehen der Schuld bejaht, diese Vorteile nur in Anspruch nehmen, wenn er binnen 30 Tagen, gerechnet vom Tage der Zustellung der rechtskräftigen Entscheidung des Gerichts, die Beitrittserklärung abgibt.
 
-
-## § 9
+# § 9
 
 (1) In Rechtsstreitigkeiten der in den §§ 2, 3 und 5 bezeichneten Art gelten für die Kosten die Vorschriften des Artikels 17 Abs. 6 des Abkommens und, soweit diese Vorschriften besondere Bestimmungen nicht enthalten, die Vorschriften der Zivilprozeßordnung.
 
 (2) Die Festsetzung der Zahlungs- und sonstigen Bedingungen für die Schuld in den Fällen der §§ 2 oder 3 bleibt bei der Berechnung des Streitwerts außer Betracht, sofern der Kläger die Festsetzung nicht beantragt hat.
 
-
-## § 10
+# § 10
 
 Ein Gläubiger kann Ansprüche aus einer Verbindlichkeit, die zwar den Erfordernissen der Absätze 1 und 3 des Artikels 4 des Abkommens, nicht aber denen des Absatzes 2 dieser Bestimmung entspricht, im Geltungsbereich dieses Gesetzes gegen eine im Währungsgebiet der Deutschen Mark (Ost) ansässige Person bei dem Gericht geltend machen, in dessen Bezirk sich Vermögen dieser Person befindet; § 23 Satz 2 der Zivilprozeßordnung ist anzuwenden. Zur Befriedigung aus diesem Vermögen ist er nur innerhalb der Grenzen des Abkommens und seiner Anlagen berechtigt. § 9 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz (Öffentlicher Anzeiger für das Vereinigte Wirtschaftsgebiet Nr. 83 vom 13. September 1949) bleibt unberührt.
 
-
-## § 11
+# § 11
 
 (1) Für die in den §§ 2, 3 und 5 bezeichneten Ansprüche sind die Landgerichte ohne Rücksicht auf den Wert des Streitgegenstandes ausschließlich zuständig.
 
@@ -269,8 +253,7 @@ Ein Gläubiger kann Ansprüche aus einer Verbindlichkeit, die zwar den Erfordern
 
 (4) (weggefallen)
 
-
-## § 12
+# § 12
 
 (1) Bis zu dem Zeitpunkt, in dem alle Verpflichtungen aus dem Abkommen und seinen Anlagen erledigt sind, darf ein Schuldner Zahlungen und sonstige Leistungen nicht bewirken, wenn
 
@@ -286,22 +269,19 @@ Ein Gläubiger kann Ansprüche aus einer Verbindlichkeit, die zwar den Erfordern
 
 (4) Durch Absatz 1 wird die Befugnis eines Gläubigers, bei einem Gericht innerhalb des Geltungsbereichs dieses Gesetzes gemäß den Vorschriften der Zivilprozeßordnung zur Wahrung seiner Rechte ein Feststellungsurteil zu erwirken, nicht berührt.
 
-
-## § 13
+# § 13
 
 (1) Entscheidungen der Gerichte eines Gläubigerstaates über eine Schuld, die nach dem Inkrafttreten des Abkommens rechtskräftig geworden sind (Artikel 17 Abs. 3 Buchstabe a (i) des Abkommens), werden auf Antrag des Gläubigers, der Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen hat, durch die Gerichte im Geltungsbereich dieses Gesetzes für vollstreckbar erklärt.
 
 (2) Eine Entscheidung ist in Ansehung der Rechte, die dem Gläubiger in bezug auf die in der Entscheidung festgestellte Schuld zustehen, nur nach Maßgabe der Zahlungs- und sonstigen Bedingungen, die in dem Abkommen und seinen Anlagen vorgesehen sind, für vollstreckbar zu erklären.
 
-
-## § 14
+# § 14
 
 (1) Der Antrag auf Vollstreckbarerklärung ist nur zulässig, wenn der Gläubiger sein Einverständnis damit erklärt, daß die Zahlungs- und sonstigen Bedingungen für die in der Entscheidung festgestellte Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen durch das Gericht festgesetzt werden. Der Erklärung bedarf es nicht, wenn die Schuld bereits gemäß den Bestimmungen des Abkommens und seiner Anlagen geregelt ist.
 
 (2) In den Fällen des § 4 Abs. 3 ist der Antrag auf Vollstreckbarerklärung ferner erst nach Ablauf von 30 Tagen nach der ersten Sitzung des in Nummer 17 der Anlage III des Abkommens vorgesehenen Beratenden Ausschusses zulässig.
 
-
-## § 15
+# § 15
 
 (1) Dem Antrag auf Vollstreckbarerklärung sind beizufügen
 
@@ -313,15 +293,13 @@ Ein Gläubiger kann Ansprüche aus einer Verbindlichkeit, die zwar den Erfordern
 
 (2) Auf Verlangen des Gerichts ist eine Übersetzung der in Absatz 1 bezeichneten Urkunden in die deutsche Sprache beizubringen. Das Gericht kann auch verlangen, daß die Übersetzung von einem diplomatischen oder konsularischen Vertreter der Bundesrepublik Deutschland oder einem beeidigten Dolmetscher als richtig bescheinigt wird.
 
-
-## § 16
+# § 16
 
 (1) Für die Vollstreckbarerklärung ist das Landgericht ausschließlich zuständig, in dessen Bezirk der Schuldner seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das Landgericht, in dessen Bezirk sich Vermögen des Schuldners befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
 (2) Für die Übertragung der Aufgaben, die nach diesem Unterabschnitt den Landgerichten und den Oberlandesgerichten zufallen, gilt § 11 Abs. 3 und 4 entsprechend.
 
-
-## § 17
+# § 17
 
 (1) Auf das Verfahren der Vollstreckbarerklärung sind § 1063 Abs. 1, § 1064 Abs. 2 sowie § 794 Abs. 1 Nr. 4a der Zivilprozeßordnung entsprechend anzuwenden.
 
@@ -333,47 +311,39 @@ Ein Gläubiger kann Ansprüche aus einer Verbindlichkeit, die zwar den Erfordern
 
 (5) Ist für die Festsetzung der Zahlungs- und sonstigen Bedingungen eine Schiedsinstanz nach den Bestimmungen des Abkommens und seiner Anlagen ausschließlich zuständig, so hat das Gericht das Verfahren der Vollstreckbarerklärung bis zur Erledigung des Verfahrens vor der Schiedsinstanz auszusetzen. § 252 der Zivilprozeßordnung ist entsprechend anzuwenden.
 
-
-## § 18
+# § 18
 
 Der Antrag auf Vollstreckbarerklärung ist abzulehnen, wenn der Anerkennung der Entscheidung einer der in Artikel 17 Abs. 4 des Abkommens angeführten Versagungsgründe entgegensteht.
 
-
-## § 19
+# § 19
 
 Bei der Vollstreckbarerklärung nach Maßgabe der Zahlungs- und sonstigen Bedingungen (§ 13 Abs. 2) sind die §§ 7 bis 9 entsprechend anzuwenden.
 
-
-## § 20
+# § 20
 
 In der Vollstreckbarerklärung ist zugleich auszusprechen, daß die in der Entscheidung festgestellte Schuld gemäß den Bestimmungen des Abkommens und seiner Anlagen geregelt ist.
 
-
-## § 21
+# § 21
 
 Hängt die Vollstreckung der Entscheidung nach deren Inhalt von dem Ablauf einer Frist oder von dem Eintritt einer anderen Tatsache ab, so bestimmt sich die Frage, inwieweit die Vollstreckbarerklärung von dem Nachweis besonderer Voraussetzungen abhängig ist, nach dem Recht des Staates, dessen Gericht die Entscheidung erlassen hat. Die danach erforderlichen Nachweise sind, sofern nicht die nachzuweisenden Tatsachen bei dem über den Antrag entscheidenden Gericht offenkundig sind, durch öffentliche oder öffentlich beglaubigte Urkunden zu führen. Kann ein solcher Nachweis nicht erbracht werden, so ist mündliche Verhandlung anzuordnen.
 
-
-## § 22
+# § 22
 
 In dem Verfahren der Vollstreckbarerklärung kann der Schuldner auch die Einwendungen gegen den in der gerichtlichen Entscheidung festgestellten Anspruch geltend machen, die in einem entsprechenden Falle nach deutschem Recht zulässig sind. Ebenso können Einwendungen gegen die Zulässigkeit der Vollstreckungsklausel im Wege der Beschwerde geltend gemacht werden. Der Schuldner ist hierdurch nicht gehindert, solche Einwendungen in dem in den §§ 767, 732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend zu machen.
 
-
-## § 23
+# § 23
 
 (1) Für die Vollstreckbarerklärung von Schiedssprüchen über eine Schuld, die nach dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind (Artikel 17 Abs. 3 Buchstabe a (i) des Abkommens), gelten die §§ 13 bis 16 und 18 bis 20 entsprechend. Im übrigen bleibt § 1061 der Zivilprozeßordnung unberührt.
 
 (2) Der Antrag auf Vollstreckbarerklärung von Entscheidungen der Schiedsinstanzen, die nach den Bestimmungen des Abkommens und seiner Anlagen errichtet sind, kann jedoch nicht aus einem der in Artikel 17 Abs. 4 des Abkommens angeführten Gründe abgelehnt werden. Dies gilt entsprechend, wenn die Entscheidung einer solchen Schiedsinstanz als inländischer Schiedsspruch für vollstreckbar zu erklären ist.
 
-
-## § 24
+# § 24
 
 Für die Berechnung der Gerichts- ... kosten gelten § 30a Abs. 2 des Gerichtskostengesetzes ... sinngemäß.
 
 § 24 Kursivdruck: Später § 37 Abs. 2 GKG (BGBl. III Folge 5) gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935), diese Fassung aufgeh. durch Art. 1 Nr. 32 G v. 20.8.1975 I 2189; vgl. jetzt Abschnitt A Unterabschnitt IV.1 Kostenverzeichnis des GKG
 
-
-## § 25
+# § 25
 
 (1) Die Vollstreckbarerklärung von Entscheidungen der Gerichte eines Gläubigerstaates über eine Schuld, die vor dem Inkrafttreten des Abkommens rechtskräftig geworden sind (Artikel 17 Abs. 3 Buchstabe a (ii) des Abkommens), bestimmt sich nach den §§ 13 bis 22 und 24, soweit sich nicht aus den Absätzen 2 bis 4 etwas anderes ergibt.
 
@@ -383,20 +353,17 @@ Für die Berechnung der Gerichts- ... kosten gelten § 30a Abs. 2 des Gerichtsko
 
 (4) Ist eine Entscheidung über eine Reichsmarkforderung (§ 13 Abs. 3 des Umstellungsgesetzes) nach Maßgabe der Zahlungs- und sonstigen Bedingungen für vollstreckbar zu erklären, so bedarf es eines Umstellungsvermerks nach der Sechzehnten Durchführungsverordnung zum Umstellungsgesetz (Öffentlicher Anzeiger für das Vereinigte Wirtschaftsgebiet Nr. 9 vom 2. Februar 1949) nicht.
 
-
-## § 26
+# § 26
 
 Auf die Vollstreckbarerklärung von Schiedssprüchen über eine Schuld, die vor dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind (Artikel 17 Abs. 3 Buchstabe a (ii) des Abkommens), sind die §§ 13 bis 16, 18 bis 20, 24 und 25 entsprechend anzuwenden. Im übrigen bleibt § 1061 der Zivilprozeßordnung unberührt.
 
-
-## § 27
+# § 27
 
 (1) Die Zwangsvollstreckung aus solchen Entscheidungen deutscher Gerichte, in denen vor dem 8. Mai 1945 eine Schuld rechtskräftig festgestellt worden ist (Artikel 17 Abs. 3 Buchstabe c des Abkommens), findet zugunsten eines Gläubigers, der Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen hat, in Ansehung der Rechte, die ihm in bezug auf die festgestellte Schuld zustehen, nur nach Maßgabe der Zahlungs- und sonstigen Bedingungen statt, die in dem Abkommen und seinen Anlagen vorgesehen sind.
 
 (2) Die Zwangsvollstreckung ist erst zulässig, wenn auf der vollstreckbaren Ausfertigung vermerkt ist, welche Zahlungs- und sonstigen Bedingungen für die Schuld gemäß dem Abkommen und seinen Anlagen gelten (Regelungsvermerk).
 
-
-## § 28
+# § 28
 
 (1) Über die Erteilung des Regelungsvermerks entscheidet auf Antrag des Gläubigers das Landgericht. Die Zuständigkeit bestimmt sich nach § 16.
 
@@ -404,25 +371,21 @@ Auf die Vollstreckbarerklärung von Schiedssprüchen über eine Schuld, die vor 
 
 (3) Sobald in dem Verfahren eine rechtskräftige oder vorläufig vollstreckbare Entscheidung ergangen ist, versieht der Urkundsbeamte der Geschäftsstelle die Urschrift der Entscheidung, in der die Schuld festgestellt ist, und die Ausfertigungen mit dem Regelungsvermerk. Kann der Regelungsvermerk auf der Urschrift nicht angebracht werden, so genügt der Vermerk auf den Ausfertigungen.
 
-
-## § 29
+# § 29
 
 Die §§ 27 und 28 gelten entsprechend für gerichtliche Entscheidungen über eine Schuld, die im Geltungsbereich dieses Gesetzes nach dem 8. Mai 1945, jedoch vor dem Inkrafttreten des Abkommens ergangen sind.
 
-
-## § 30
+# § 30
 
 Auf die Zwangsvollstreckung aus sonstigen inländischen Vollstreckungsmitteln, die vor dem Inkrafttreten des Abkommens über eine Schuld erlassen oder errichtet sind, finden die §§ 27 bis 29 entsprechende Anwendung.
 
-
-## § 31
+# § 31
 
 (1)
 
 (2) Soweit bei der Regelung einer Schuld Zahlungen an die Konversionskasse für deutsche Auslandsschulden (Konversionskasse) gemäß Anlage V des Abkommens unberücksichtigt geblieben sind, gehen mit der Regelung die Ansprüche aus diesen Einzahlungen und den hierauf beruhenden Gutschriften bei der Konversionskasse auf den Bund über.
 
-
-## § 32
+# § 32
 
 (1) Soweit Verpflichtungen des Schuldners einer geregelten Schuld darauf beruhen, daß an die Konversionskasse geleistete Zahlungen gemäß Anlage V des Abkommens bei der Regelung der Schuld unberücksichtigt geblieben sind, hat der Schuldner gegen den Bund einen Anspruch auf Erstattung der Zahlungen, die er zur Erfüllung dieser Verpflichtungen leistet.
 
@@ -430,54 +393,45 @@ Auf die Zwangsvollstreckung aus sonstigen inländischen Vollstreckungsmitteln, d
 
 (3) Falls dem Schuldner bei der Regelung seiner Schuld auf Grund einer Härteklausel der Anlagen des Abkommens ein Nachlaß auf den neuen Kapitalbetrag gewährt worden ist, ist dieser Nachlaß in erster Linie auf den Teil der Schuld anzurechnen, für den der Schuldner keinen Erstattungsanspruch hat.
 
-
-## § 33
+# § 33
 
 Die Erstattung nach § 32 findet statt, sobald der Schuldner jeweils eine Zins- oder Tilgungsleistung erbracht hat, aber nicht vor dem Zeitpunkt, in dem die Verpflichtung des Schuldners nach den für die Schuld bei der Regelung festgesetzten Zahlungsbedingungen jeweils fällig wird. Hat der Schuldner die für die Schuld bei der Regelung festgesetzten Zahlungs- und sonstigen Bedingungen nicht oder nicht rechtzeitig erfüllt und ist aus diesem Grunde eine vorzeitige Fälligkeit eingetreten, so wird diese nur berücksichtigt, wenn der Schuldner die Nichterfüllung nicht zu vertreten hat.
 
-
-## § 34
+# § 34
 
 Sind auf eine verbriefte Anleihe Tilgungszahlungen an die Konversionskasse geleistet worden, die nach Anlage V des Abkommens bei der Regelung unberücksichtigt geblieben sind, so werden, soweit sich nicht feststellen läßt, welche Schuldverschreibungen durch diese Zahlungen getilgt werden sollten, oder sich in diesem Falle nicht feststellen läßt, welche Schuldverschreibungen zu Tilgungszwecken aus solchen Zahlungen angeschafft worden sind, bei der Errechnung des Erstattungsanspruchs diese Zahlungen und die auf den entsprechenden Anleihebetrag entfallenden, dem Kapital zuzuschlagenden Zinsen bis zu einer näheren gesetzlichen Regelung verhältnismäßig berücksichtigt.
 
-
-## § 35
+# § 35
 
 Wird der Bund auf Erstattung in Anspruch genommen, so trifft ihn die Beweislast dafür, daß der Schuldner nach Anlage V des Abkommens durch die Zahlung an die Konversionskasse von seiner Schuld befreit worden ist.
 
-
-## § 36
+# § 36
 
 (1) Der Anspruch auf Erstattung ist ausgeschlossen, wenn der Schuldner dem Bund von der Regelung der Schuld nicht innerhalb eines Jahres, nachdem die Schuld geregelt worden ist, Mitteilung macht.
 
 (2) Der Anspruch auf Erstattung erlischt, soweit ihn der Schuldner nicht jeweils innerhalb von drei Jahren, nachdem er die Leistung erbracht hat, geltend macht.
 
-
-## § 37
+# § 37
 
 (1) Das Bundesministerium der Finanzen bestellt einen Bundesbeauftragten für die Behandlung von Zahlungen an die Konversionskasse (Bundesbeauftragter).
 
 (2) Der Bund wird in den in diesem Unterabschnitt behandelten Angelegenheiten durch den Bundesbeauftragten vertreten.
 
-
-## § 38
+# § 38
 
 Der Bundesbeauftragte entscheidet vorbehaltlich des Rechtsweges (§ 42) über die Erstattungsansprüche. Die Entscheidungen ergehen schriftlich, sollen mit Gründen versehen sein und einen Hinweis auf die Möglichkeit der Beschreitung des Rechtsweges enthalten.
 
-
-## § 39
+# § 39
 
 (1) Der Bundesbeauftragte hat dem Schuldner auf Verlangen Auskunft über alle Umstände zu erteilen, die für die Beurteilung der Frage erheblich sind, ob der Schuldner nach Anlage V des Abkommens durch eine Zahlung an die Konversionskasse von seiner Schuld befreit worden ist. Der Bund kann sich, wenn er auf Erstattung in Anspruch genommen wird, zum Nachteil des Schuldners nicht darauf berufen, daß eine von dem Bundesbeauftragten nach Satz 1 erteilte Auskunft unrichtig gewesen sei.
 
 (2) Teilt der Schuldner dem Bundesbeauftragten einen beabsichtigten Regelungsvorschlag mit und legt er die erforderlichen Unterlagen vor, so hat der Bundesbeauftragte auf Verlangen des Schuldners eine Erklärung darüber abzugeben, ob und in welcher Höhe er eine Erstattungspflicht des Bundes anerkennt. Hat der Bundesbeauftragte die Erstattungspflicht des Bundes anerkannt, so kann der Bund diese insoweit vorbehaltlich der Bestimmungen in den §§ 45 und 46 nicht mehr bestreiten.
 
-
-## § 40
+# § 40
 
 Der Bundesbeauftragte bedient sich bei der Wahrnehmung seiner Aufgaben der Konversionskasse. Sie hat nach seinen Weisungen Ermittlungen anzustellen und Feststellungen zu treffen.
 
-
-## § 41
+# § 41
 
 (1) Gerichte und Behörden haben dem Bundesbeauftragten unentgeltlich Amtshilfe zu leisten.
 
@@ -485,8 +439,7 @@ Der Bundesbeauftragte bedient sich bei der Wahrnehmung seiner Aufgaben der Konve
 
 § 41 Abs. 2 Satz 2 Kursivdruck: Außer Kraft getreten gem. Art. X § 2 Nr. 4 G v. 26.7.1957 I 861
 
-
-## § 42
+# § 42
 
 (1) Für den Anspruch auf Erstattung ist der ordentliche Rechtsweg zulässig. Für den Anspruch ist ohne Rücksicht auf den Wert des Streitgegenstandes das Landgericht Berlin ausschließlich zuständig. § 11 Abs. 1 Satz 2 gilt entsprechend.
 
@@ -494,13 +447,11 @@ Der Bundesbeauftragte bedient sich bei der Wahrnehmung seiner Aufgaben der Konve
 
 (3) Die Klagen nach den Absätzen 1 und 2 sind erst zulässig, wenn der Bundesbeauftragte den Anspruch abgelehnt oder im Falle des § 39 Abs. 2 eine ablehnende Erklärung abgegeben oder innerhalb von 6 Monaten, nachdem bei ihm ein Anspruch auf Erstattung geltend gemacht oder von ihm die Abgabe der Erklärung verlangt worden ist, einen endgültigen Bescheid nicht erteilt hat.
 
-
-## § 43
+# § 43
 
 Der Bundesbeauftragte kann Vorauszahlungen auf einen Erstattungsanspruch in angemessener Höhe gewähren.
 
-
-## § 44
+# § 44
 
 (1) Der Schuldner kann in der Jahresbilanz den Anspruch auf Erstattung von Tilgungsleistungen ohne Rücksicht auf den Zeitpunkt der Fälligkeit in der Höhe ansetzen, in der er insgesamt nach § 32 Abs. 1 vom Bund Erstattung verlangen kann.
 
@@ -508,8 +459,7 @@ Der Bundesbeauftragte kann Vorauszahlungen auf einen Erstattungsanspruch in ange
 
 (3) Soweit für Schuldverschreibungen oder Verpflichtungen aus Schuldurkunden gesetzlich oder vertraglich eine Deckung unterhalten werden muß, kann der Erstattungsanspruch als Deckung benutzt werden.
 
-
-## § 45
+# § 45
 
 (1) Der Bundesbeauftragte kann seine Entscheidung nach § 38, durch die eine Erstattungspflicht anerkannt worden ist, oder sein Anerkenntnis nach § 39 Abs. 2 widerrufen, wenn eine neue Urkunde aufgefunden wird, die eine andere Entscheidung im Erstattungsverfahren herbeigeführt hätte, oder wenn bekannt wird, daß eine solche Urkunde beigezogen werden kann. Der Widerruf gilt als Ablehnung des Anspruchs im Sinne des § 42 Abs. 3.
 
@@ -523,62 +473,51 @@ und daß in diesen Fällen wegen der Straftat eine rechtskräftige Verurteilung 
 
 (3) In den Fällen der Absätze 1 und 2 ist ein Widerruf insoweit unzulässig, als der Schuldner gegenüber dem Gläubiger zur Leistung verpflichtet bleibt und sich von dieser Verpflichtung auch nicht befreien kann.
 
-
-## § 46
+# § 46
 
 Die Entscheidungen des Bundesbeauftragten sind von Amts wegen zu berichtigen, wenn sie Schreibfehler, Rechenfehler oder ähnliche offenbare Unrichtigkeiten enthalten.
 
-
-## § 47
+# § 47
 
 (1) Zahlstelle für die Erstattungen auf Grund dieses Gesetzes ist die Kasse des Landesfinanzamtes Berlin.
 
 (2) Das Bundesministerium der Finanzen kann eine andere Zahlstelle bestimmen.
 
-
-## § 48
+# § 48
 
 Die Verwaltungskosten der Konversionskasse trägt der Bund.
 
-
-## § 49
+# § 49
 
 \-
 
-
-## § 50
+# § 50
 
 Die Konversionskasse unterliegt der Prüfung durch den Bundesrechnungshof.
 
-
-## § 51
+# § 51
 
 Soweit nach Anlage V des Abkommens, nach Ziffer 14 der Anlage I des Abkommens und nach Unteranlage E dieser Anlage der Bund verpflichtet ist, die Verbindlichkeiten der Konversionskasse aus Einzahlungen von Schuldnern im Saargebiet sowie in Österreich, Frankreich, Luxemburg und Belgien zu regeln, sind die §§ 37, 38, 40 bis 42 und 46 bis 50 sinngemäß anzuwenden.
 
-
-## § 52
+# § 52
 
 (1) Trägt eine in Goldmark oder in Reichsmark mit Goldklausel oder mit Goldoption ausgedrückte Schuld spezifisch ausländischen Charakter im Sinne des Artikels V Nr. 3 der Anlage II oder des Artikels 6 der Anlage IV in Verbindung mit Anlage VII des Abkommens und hat der Gläubiger nach den Bestimmungen des Abkommens und seiner Anlagen Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen, so kann er verlangen, daß die Schuld so geregelt wird, wie wenn sie mit Wirkung vom Beginn des 21. Juni 1948 auf den Betrag von einer Deutschen Mark für eine Goldmark oder eine Reichsmark umgestellt worden wäre.
 
 (2) Trägt eine im Ausland ausgegebene und zahlbare Schuldverschreibung, die zu einer Goldmarkanleihe oder mit Goldklausel versehenen Reichsmarkanleihe einer deutschen Gemeinde im Bundesgebiet gehört, spezifisch ausländischen Charakter im Sinne der Unteranlage D zu Anlage I in Verbindung mit Anlage VII des Abkommens, so gilt Absatz 1 sinngemäß.
 
-
-## § 53
+# § 53
 
 Ist eine Schuld der in § 52 bezeichneten Art geregelt, so wird sie, soweit sich aus diesem Gesetz nicht ein anderes ergibt, wie eine Verbindlichkeit behandelt, die mit Wirkung vom Beginn des 21. Juni 1948 im Verhältnis von einer Deutschen Mark zu einer Reichsmark umgestellt ist. Leistungen, die auf eine solche Schuld nach dem Gesetz zur Sicherung von Forderungen für den Lastenausgleich vom 2. September 1948 (WiGBl. S. 87) in der Fassung vom 10. August 1949 (WiGBl. S. 232), den entsprechenden Vorschriften der Länder der französischen Besatzungszone oder des bayerischen Kreises Lindau oder nach dem Gesetz über den Lastenausgleich vom 14. August 1952 (Bundesgesetzbl. I S. 446) bewirkt worden sind, sind zurückzuzahlen; die §§ 133 und 183 des Lastenausgleichsgesetzes sind nicht anzuwenden.
 
-
-## § 54
+# § 54
 
 Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermitteln, haben eine Schuld der in § 52 bezeichneten Art mit dem sich aus der Regelung ergebenden Betrag in die steuerliche Eröffnungsbilanz für den 21. Juni 1948 einzustellen.
 
-
-## § 55
+# § 55
 
 War eine Forderung der in § 52 Abs. 1 bezeichneten Art am 20. Juni 1948 durch eine Hypothek gesichert, die auf einen geringeren Betrag als eine Deutsche Mark für eine Goldmark oder eine Reichsmark umgestellt ist, und hat der Gläubiger Anspruch auf die Vorteile aus dem Abkommen und seinen Anlagen, so hat er zur Wiederherstellung der Sicherung seiner Forderung abweichend von § 53 die in den §§ 56 bis 61 bezeichneten Rechte.
 
-
-## § 56
+# § 56
 
 (1) Ist der Schuldner Eigentümer des belasteten Grundstücks, so kann der Gläubiger verlangen, daß der Schuldner ihm eine neue Hypothek in Deutscher Mark an dem belasteten Grundstück für seine Forderung bestellt. Dabei ist der Kapitalbetrag der neuen Hypothek auf den Nennbetrag des Kapitals der dem Gläubiger am 20 Juni 1948 zustehenden Hypothek zu bemessen; jedoch sind Beträge abzuziehen, um die sich der Kapitalbetrag der dem Gläubiger zustehenden umgestellten Hypothek nach diesem Zeitpunkt bis zur Bestellung der neuen Hypothek vermindert hat. Die Hypothek für die Nebenleistungen hat die rückständigen Zinsen zu umfassen. Mit der Bestellung der neuen Hypothek erlischt die dem Gläubiger zustehende umgestellte Hypothek. Soweit die Forderung nach Bestellung der neuen Hypothek erlischt, erlischt auch diese; dies gilt nicht für den rangbesten Teil der neuen Hypothek, welcher der nach Satz 4 erloschenen umgestellten Hypothek entspricht.
 
@@ -586,8 +525,7 @@ War eine Forderung der in § 52 Abs. 1 bezeichneten Art am 20. Juni 1948 durch e
 
 (3) Absatz 2 gilt entsprechend, wenn der Rang der dem Gläubiger zustehenden umgestellten Hypothek nach dem 20. Juni 1948 geändert worden ist.
 
-
-## § 57
+# § 57
 
 (1) Ist der Schuldner nicht Eigentümer des belasteten Grundstücks und hat derjenige, der beim Inkrafttreten dieses Gesetzes Eigentümer des Grundstücks ist, dieses vor dem 21. Juni 1948 oder nach dem 15. Juli 1952 erworben, so hat der Gläubiger dem Eigentümer gegenüber dieselben Rechte, die er gemäß § 56 gegenüber dem Schuldner hat.
 
@@ -595,8 +533,7 @@ War eine Forderung der in § 52 Abs. 1 bezeichneten Art am 20. Juni 1948 durch e
 
 (3) Soweit der Eigentümer den Gläubiger wegen desjenigen Betrages der neuen Hypothek, der den Betrag der erloschenen umgestellten Hypothek übersteigt, oder wegen der weiteren Hypothek befriedigt, erlischt die Forderung.
 
-
-## § 58
+# § 58
 
 (1) Die in den §§ 56 und 57 bezeichnete neue oder weitere Hypothek hat den Rang, den die dem Gläubiger zustehende umgestellte Hypothek am 21. Juni 1948 hatte.
 
@@ -606,20 +543,17 @@ War eine Forderung der in § 52 Abs. 1 bezeichneten Art am 20. Juni 1948 durch e
 
 (4) Steht ein in Absatz 2 Satz 1 genanntes Recht dem Schuldner der in § 55 bezeichneten Forderung zu, so kann der Gläubiger dieser Forderung von dem Schuldner die Einräumung des Vorranges vor dem Recht auch dann verlangen, wenn die Voraussetzungen des Absatzes 2 Satz 2 nicht vorliegen.
 
-
-## § 59
+# § 59
 
 (1) Die in den §§ 56 und 57 bezeichnete neue oder weitere Hypothek genießt vor einer auf dem Grundstück ruhenden öffentlichen Last für die Hypothekengewinnabgabe ein Vorrecht nach § 113 des Lastenausgleichsgesetzes, soweit die umgestellte Hypothek ein solches genießen würde, wenn sie mit Wirkung vom Beginn des 21. Juni 1948 auf den Betrag von einer Deutschen Mark für eine Reichsmark umgestellt worden wäre. Die umgestellte Hypothek genießt kein Vorrecht vor der öffentlichen Last, wenn die weitere Hypothek ein solches nicht genießt.
 
 (2) Die Rechte, die auf Grund des § 58 Abs. 2 bis 4 nicht hinter die weitere Hypothek zurücktreten oder zurückzutreten haben, genießen ein Vorrecht nach § 113 des Lastenausgleichsgesetzes vor dem Betrage der öffentlichen Last, der dem Betrage gleichkommt, für den die weitere Hypothek das in Absatz 1 genannte Vorrecht genießt.
 
-
-## § 60
+# § 60
 
 Soweit nach den §§ 56 bis 58 eine Rechtsfolge davon abhängt, wann ein Recht erworben worden ist, gilt in den Fällen der Gesamtrechtsnachfolge der Rechtserwerb als in dem Zeitpunkt eingetreten, in dem der Rechtsvorgänger das Recht erworben hat.
 
-
-## § 61
+# § 61
 
 (1) Der Gläubiger hat wegen desjenigen Teilbetrages der in § 55 bezeichneten Forderung, für den er auf Grund der §§ 57 bis 60 eine hypothekarische Sicherung in dem in § 58 Abs. 1 bezeichneten Rang nicht verlangen kann, ein Pfandrecht an denjenigen im Unterabschnitt III bestimmten Entschädigungsansprüchen des Schuldners und des Grundstückseigentümers, welche die Forderung betreffen; dies gilt nicht hinsichtlich des Teilbetrages der in § 55 bezeichneten Forderung, der über den Nennbetrag der dem Gläubiger am 20. Juni 1948 zustehenden Hypothek hinausgeht; das Pfandrecht erlischt, soweit die weitere Hypothek nachträglich den in § 58 Abs. 1 bezeichneten Rang erlangt.
 
@@ -627,13 +561,11 @@ Soweit nach den §§ 56 bis 58 eine Rechtsfolge davon abhängt, wann ein Recht e
 
 (3) Auf das Pfandrecht sind die für das Pfandrecht an Forderungen geltenden Vorschriften des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
-
-## § 62
+# § 62
 
 Die Vorschriften der §§ 55 bis 61 gelten entsprechend, wenn die in § 55 bezeichnete Forderung am 20. Juni 1948 durch eine Grundschuld oder eine Rentenschuld gesichert war.
 
-
-## § 63
+# § 63
 
 (1) Ist ein Schuldner nach den §§ 52 und 53 zu einer höheren Leistung verpflichtet, als sich aus einer Umstellung gemäß Teil II des Umstellungsgesetzes ergibt, so hat er insoweit einen Anspruch auf Entschädigung. Die Vorschriften des § 32 Abs. 2, 3 und des § 36 Abs. 1 gelten entsprechend.
 
@@ -643,49 +575,41 @@ Die Vorschriften der §§ 55 bis 61 gelten entsprechend, wenn die in § 55 bezei
 
 (4) Dem Schuldner steht ein Entschädigungsanspruch nicht zu, soweit der Eigentümer des Grundstücks nach § 64 Abs. 1 Anspruch auf eine Entschädigung hat. Der Entschädigungsanspruch des Eigentümers geht auf den Schuldner über, soweit dieser die höhere Leistung erbringt.
 
-
-## § 64
+# § 64
 
 (1) Der Eigentümer des Grundstücks hat im Falle des § 57 Abs. 1 einen Anspruch auf Entschädigung, soweit auf Grund der neuen oder weiteren Hypothek eine höhere Leistung aus dem Grundstück zu erbringen ist, als im Falle des § 57 Abs. 2 aus dem Grundstück zu erbringen wäre. Der Anspruch wird fällig, wenn der Gläubiger von dem Eigentümer Zahlung verlangt oder ihn sonst auf Grund der Hypothek in Anspruch nimmt oder wenn der Anspruch nach § 63 Abs. 4 Satz 2 auf den Schuldner übergegangen ist, jedoch nicht vor dem in § 63 Abs. 2 Satz 1 bezeichneten Zeitpunkt.
 
 (2) Der Eigentümer ist dem Schuldner gegenüber verpflichtet, die Entschädigung zur Befriedigung des Gläubigers zu verwenden.
 
-
-## § 65
+# § 65
 
 Ist ein Recht auf Grund des § 58 im Range hinter die neue oder weitere Hypothek zurückgetreten und hat der Berechtigte infolge der Rangänderung einen Ausfall bei der Zwangsvollstreckung in das Grundstück erlitten, so hat er einen Anspruch auf Entschädigung. Dies gilt nicht, soweit der Ausfall auch eingetreten wäre, wenn das Recht einem in § 58 Abs. 2 bezeichneten Recht gleichgestellt wäre.
 
-
-## § 66
+# § 66
 
 (1) Der Entschädigungsanspruch nach § 63 vermindert sich um die Beträge, die der Schuldner als Ausgleichsabgaben nach dem Lastenausgleichsgesetz mehr zu zahlen hätte, wenn die Verbindlichkeit nach § 16 des Umstellungsgesetzes zu behandeln wäre.
 
 (2) Die Beträge werden von den für die Veranlagung der Lastenausgleichsabgaben zuständigen Finanzämtern festgestellt. Der darüber zu erteilende Bescheid gilt als Feststellungsbescheid im Sinne der Abgabenordnung.
 
-
-## § 67
+# § 67
 
 Steuerpflichtige, die den Gewinn nach § 4 Abs. 1 oder § 5 des Einkommensteuergesetzes ermitteln, haben den Entschädigungsanspruch im Sinne der §§ 63 und 66 in die steuerliche Eröffnungsbilanz in Deutscher Mark für den 21. Juni 1948 einzustellen, soweit er sich auf die nach § 54 eingestellte Schuld bezieht.
 
-
-## § 68
+# § 68
 
 Der Entschädigungsanspruch nach den §§ 63 bis 65 erlischt, wenn ihn der Entschädigungsberechtigte oder im Falle des § 61 der Gläubiger nicht binnen drei Jahren nach Fälligkeit geltend macht.
 
-
-## § 69
+# § 69
 
 Entschädigungspflichtig ist im Falle des § 63 Abs. 1 das Land, in dem der Schuldner seinen Wohnsitz oder Sitz zu dem Zeitpunkt hat, in dem erstmalig eine Entschädigungsleistung nach § 63 Abs. 2 fällig wird, in den Fällen des § 64 Abs. 1 und des § 65 das Land, in dem das Grundstück belegen ist.
 
-
-## § 70
+# § 70
 
 (1) Rechte, die der Schuldner auf Grund der erhöhten Leistung nach den §§ 52 und 53 gegen Dritte erwirbt, gehen auf das Land über, soweit dieses Entschädigung leistet.
 
 (2) Im Falle des § 65 gehen Rechte des Entschädigungsberechtigten aus einem Schuldverhältnis, das dem Recht an dem Grundstück zugrunde liegt, auf das Land über, soweit dieses Entschädigung leistet.
 
-
-## § 71
+# § 71
 
 (1) Über den Entschädigungsanspruch entscheidet vorbehaltlich des Rechtsweges die Oberfinanzdirektion; sie kann auf den Anspruch Vorauszahlungen in angemessener Höhe gewähren. Zuständig ist im Falle des § 63 die Oberfinanzdirektion, in deren Bezirk der Schuldner seine gewerbliche Niederlassung oder in Ermangelung einer solchen Niederlassung seinen Wohnsitz hat, in den Fällen der §§ 64 und 65 die Oberfinanzdirektion, in deren Bezirk das belastete Grundstück belegen ist. Die Entscheidung ergeht schriftlich und soll mit Gründen versehen sein und einen Hinweis auf die Zulässigkeit des Rechtsweges enthalten.
 
@@ -693,25 +617,21 @@ Entschädigungspflichtig ist im Falle des § 63 Abs. 1 das Land, in dem der Schu
 
 (3) Hat die Oberfinanzdirektion über den Entschädigungsanspruch entschieden, so kann die Klage wegen des Entschädigungsanspruchs nur binnen eines Jahres nach der Zustellung der Entscheidung erhoben werden. Diese Frist ist eine Notfrist im Sinne der Zivilprozeßordnung.
 
-
-## § 72
+# § 72
 
 Der Schuldner einer Schuld der in § 52 bezeichneten Art kann bereits vor Regelung der Schuld die Feststellung begehren, daß ihm bei Regelung der Schuld nach dem Abkommen und seinen Anlagen ein Entschädigungsanspruch nach den §§ 63 und 66 zusteht. § 71 mit Ausnahme des Absatzes 1 Satz 1 Halbsatz 2 gilt entsprechend.
 
-
-## § 73
+# § 73
 
 (1) Soweit im Falle des § 57 Abs. 2 die weitere Hypothek die in § 56 Abs. 2 Satz 2 und 3 bestimmte Höhe nicht erreicht und der Gläubiger wegen des fälligen Unterschiedsbetrages keine Befriedigung erlangen kann, sind dem Schuldner auf Antrag des Gläubigers Vorauszahlungen auf seinen Entschädigungsanspruch zu gewähren.
 
 (2) Soweit dem Schuldner im Falle des Absatzes 1 ein Entschädigungsanspruch nicht zusteht, ist ihm auf Verlangen des Gläubigers der erforderliche Betrag von dem Land, in dem das Grundstück belegen ist, als Darlehen zu gewähren. Über die Gewährung des Darlehens entscheidet die Oberfinanzdirektion, in deren Bezirk das belastete Grundstück belegen ist; sie setzt auch die Darlehensbedingungen fest.
 
-
-## § 74
+# § 74
 
 Soweit die §§ 63 bis 73 auf Vorschriften in den §§ 56 bis 58 Bezug nehmen, gelten sie entsprechend, wenn die in § 55 bezeichnete Forderung am 20. Juni 1948 durch eine Grundschuld oder eine Rentenschuld gesichert war.
 
-
-## § 75
+# § 75
 
 (1) Sicherheiten, und zwar
 
@@ -735,8 +655,7 @@ Ist in dem Regelungsangebot vorgesehen, daß für die Gläubiger, die es annehme
 
 (3) Das gleiche Rangverhältnis zwischen den Rechten der beiden Gläubigergruppen bleibt auch dann bestehen, wenn die Vorschriften des § 76 Abs. 3 Nr. 1 und 2, soweit diese anwendbar sind, nicht erfüllt werden.
 
-
-## § 76
+# § 76
 
 (1) Ist in dem Regelungsangebot des Schuldners eine Änderung der Art oder des Umfangs von Sicherheiten gemäß Artikel V Nr. 12 der Anlage II des Abkommens vorgesehen, sei es durch Entlassung von Pfandgegenständen unter gänzlichem oder teilweisem Austausch von Sicherheiten, sei es durch Entlassung von Pfandgegenständen oder einen solchen Austausch, sei es in sonstiger Weise, und sind zu einer solchen Änderung Willenserklärungen eines Treuhänders oder eines anderen nach den Anleihebedingungen Berechtigten erforderlich, so können die Willenserklärungen durch eine gerichtliche Entscheidung ersetzt werden, sofern die Gläubigervertreter den Gläubigern die Annahme des Regelungsangebotes empfohlen oder auf Grund einer Entscheidung des Schieds- und Vermittlungsausschusses zu empfehlen haben oder die Gläubiger auf Grund einer Entscheidung des Schieds- und Vermittlungsausschusses verpflichtet sind, diese Bedingungen als mit den Bestimmungen des Abkommens in Einklang stehend anzuerkennen.
 
@@ -760,71 +679,59 @@ b) mit dem Ablauf eines Jahres nach dem Tage der ersten Veröffentlichung der Em
 
 (6) Macht ein zur Annahme eines Regelungsangebotes berechtigter Gläubiger von dieser Möglichkeit keinen Gebrauch, so ist er nach Maßgabe des § 12 Abs. 4 befugt, ein Feststellungsurteil zu erwirken.
 
-
-## § 76a
+# § 76a
 
 Durch eine gerichtliche Entscheidung nach § 76 Abs. 1 und 2 können auch Willenserklärungen eines Treuhänders oder eines sonst nach den Anleihebedingungen Berechtigten ersetzt werden, die dazu dienen, die Rechtslage hinsichtlich der Sicherheiten für die Forderungen der Gläubiger, die das Regelungsangebot annehmen, und der Sicherheiten für die Forderungen der Gläubiger, die das Regelungsangebot nicht annehmen, mit den Bestimmungen des § 75 Abs. 2 in Einklang zu bringen.
 
-
-## § 76b
+# § 76b
 
 Sind im Ausland von einem Treuhänder gegen Hinterlegung einer einheitlichen Schuldverschreibung Teilzertifikate oder von einer Hinterlegungsstelle gegen Hinterlegung von Teilschuldverschreibungen Hinterlegungszertifikate ausgegeben worden, so sind die Vorschriften des § 76 Abs. 3 sinngemäß anzuwenden. Als Gläubiger gilt insoweit der berechtigte Inhaber des als rechtsgültig ausstehend anzusehenden Teilzertifikats oder Hinterlegungszertifikats.
 
-
-## § 77
+# § 77
 
 Für das gerichtliche Verfahren gelten die Vorschriften des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit, soweit sich nicht aus den folgenden Vorschriften etwas anderes ergibt.
 
-
-## § 78
+# § 78
 
 (1) An dem Verfahren beteiligt sind nur der Schuldner, der Treuhänder oder ein sonstiger nach den Anleihebedingungen Berechtigter sowie der Bürge und jeder, der sonst aus einer Sicherheit in Anspruch genommen werden kann.
 
 (2) Soweit die Vorschriften des § 76 Abs. 3 Nr. 1 und 2 gelten, steht dem einzelnen Gläubiger das Recht zu, ohne Anspruch auf Erstattung der ihm dadurch entstehenden Kosten in dem gerichtlichen Verfahren mit dem Vorbringen gehört zu werden, daß die in dem Regelungsangebot enthaltenen Bedingungen, soweit sie sich auf Sicherheiten beziehen, mit der Anlage II oder mit Artikel 34 Nr. 12 der Anlage IV des Abkommens nicht in Einklang stehen; eine Entscheidung des Gerichts gemäß § 76 Abs. 1 oder Abs. 2 darf nur ergehen, wenn das Gericht feststellt, daß diese Bedingungen des Regelungsangebotes mit der Anlage II oder mit Artikel 34 Nr. 12 der Anlage IV des Abkommens in Einklang stehen.
 
-
-## § 79
+# § 79
 
 Für die Entscheidungen auf Grund dieses Gesetzes ist das Landgericht, bei dem der Schuldner seinen allgemeinen Gerichtsstand hat, ausschließlich zuständig. § 11 Abs. 3 gilt entsprechend.
 
-
-## § 80
+# § 80
 
 (1) Entscheidungen nach § 76 werden nur auf Antrag des Schuldners erlassen.
 
 (2) Der Schuldner hat in seinem Antrag in den Fällen des § 76 Abs. 1 und des § 76a die Willenserklärungen, deren Abgabe durch die Entscheidung ersetzt werden soll, und im Falle des § 76 Abs. 2 die begehrte gerichtliche Maßnahme bestimmt zu bezeichnen. Er hat seinem Antrage die Anleihebedingungen, eine Ausfertigung des Regelungsangebotes und, falls auf Grund dieses Angebotes ein Vertrag zustande gekommen ist, eine Ausfertigung des Vertrages beizufügen. Soweit die Vorschriften des § 76 Abs. 3 Nr. 1 und 2 gelten, hat er auch Beweisunterlagen dafür beizubringen, daß diese Vorschriften erfüllt sind und daß die in § 82 vorgesehene Bekanntmachung erfolgt ist.
 
-
-## § 81
+# § 81
 
 Der Schuldner hat auf Verlangen des Gerichts alle Unterlagen beizubringen, die es als Voraussetzung für eine Entscheidung nach § 76 für sachdienlich erachtet.
 
-
-## § 82
+# § 82
 
 (1) Das Gericht hat beglaubigte Abschriften des Antrages und aller von dem Schuldner eingereichten Unterlagen den übrigen Beteiligten mit der Aufforderung zuzustellen, sich zu dem Antrag gegenüber dem Gericht innerhalb eines Monats nach Zustellung zu äußern.
 
 (2) Soweit die Vorschriften des § 76 Abs. 3 Nr. 1 und 2 gelten, hat der Schuldner zu veranlassen, daß mindestens 60 Tage vor dem Verhandlungstermin eine Bekanntmachung über den Antrag sowie über Ort und Zeit des Verhandlungstermins in einer allgemein verbreiteten Zeitung des Begebungslandes der Anleihe erfolgt. Diese Bekanntmachung hat kurz die beantragte Entscheidung und außerdem anzugeben, daß jeder Gläubiger, der berechtigt ist, das Regelungsangebot anzunehmen, es jedoch nicht angenommen hat, Einwendungen (§ 78) gegen den Antrag bei dem Gericht vorbringen kann und Anspruch auf Gehör hat.
 
-
-## § 83
+# § 83
 
 (1) Das Gericht hat eine mündliche Verhandlung über den Antrag anzuordnen, zu der die Beteiligten zu laden sind. Die Verhandlung darf, wenn die Beteiligten nicht ausdrücklich einem früheren Verhandlungstermin zugestimmt haben, frühestens einen Monat nach Zustellung der Ladung stattfinden.
 
 (2) Das Gericht prüft alle Voraussetzungen der Entscheidung und alle Einwendungen der einzelnen Gläubiger unabhängig davon, ob die Beteiligten und die Gläubiger im Termin erscheinen.
 
-
-## § 84
+# § 84
 
 Das Gericht hat den Beteiligten das Ergebnis einer Beweisaufnahme mitzuteilen.
 
-
-## § 85
+# § 85
 
 Eine Entscheidung darf frühestens einen Monat nach Mitteilung des Antrages sowie der vom Schuldner eingereichten Unterlagen und des Ergebnisses einer Beweisaufnahme an die Beteiligten ergehen, es sei denn, daß diese auf die Einhaltung dieser Frist ausdrücklich verzichtet haben.
 
-
-## § 86
+# § 86
 
 (1) Gegen die Entscheidung steht den Beteiligten die sofortige Beschwerde zu; über sie entscheidet das Oberlandesgericht.
 
@@ -836,18 +743,15 @@ Eine Entscheidung darf frühestens einen Monat nach Mitteilung des Antrages sowi
 
 (5) Eine weitere Beschwerde findet nicht statt.
 
-
-## § 87
+# § 87
 
 Die gerichtliche Entscheidung nach § 76 wird erst wirksam, nachdem sie allen Beteiligten gegenüber rechtskräftig geworden ist.
 
-
-## § 88
+# § 88
 
 In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich die Frist für Beteiligte, die ihren Sitz oder Wohnsitz im Ausland haben, auf drei Monate.
 
-
-## § 89
+# § 89
 
 (1) Für die Gerichtskosten gelten, soweit nichts anderes bestimmt ist, die Vorschriften der Kostenordnung vom 25. November 1935 (Reichsgesetzbl. I S. 1371).
 
@@ -866,8 +770,7 @@ In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich die Fri
 § 89 Abs. 2 Satz 2 Kursivdruck: Jetzt § 30 Abs. 2 der Kostenordnung gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935) u. § 30 Abs. 2 Satz 1 KostO gem. Art. 4 § 4 Nr. 3 G v. 20.8.1975 I 2189 mWv 15.9.1975  
 § 89 Abs. 3 Kursivdruck: Jetzt § 131 der Kostenordnung gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935); nachfolgende Änderungen s. Fußnote zu § 131 KostO
 
-
-## § 90
+# § 90
 
 (1) Der bei der Bank deutscher Länder bestehende Deutsche Ausschuß für internationale finanzielle Beziehungen nimmt die Aufgaben des Deutschen Ausschusses für Stillhalteschulden im Sinne des Deutschen Kreditabkommens 1952 wahr.
 
@@ -883,8 +786,7 @@ In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich die Fri
 
 § 90 Abs. 1 Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1
 
-
-## § 91
+# § 91
 
 (1) In den Fällen, in denen ein Kreditinstitut gemäß Nummer 3 Absatz 4 des Kreditabkommens verpflichtet ist, seinem ausländischen Bankgläubiger einen eigenen Wechsel oder ein Garantieschreiben seines Kunden zu beschaffen, ist der Kunde auf Verlangen des Kreditinstituts verpflichtet, dem Kreditinstitut nach dessen Wahl zu übergeben:
 
@@ -896,32 +798,27 @@ In den Fällen der §§ 82, 83, 85 und des § 86 Abs. 2 verlängert sich die Fri
 
 (3) Die Verpflichtung des Kunden, den eigenen Wechsel oder das Garantieschreiben mit dem aus Absatz 1 sich ergebenden Inhalt auszustellen und zu übergeben, wird nicht dadurch berührt, daß die Verpflichtung des Kunden gegenüber dem Kreditinstitut auf Grund gesetzlicher Vorschriften auf einen geringeren als denjenigen Betrag herabgesetzt worden ist oder wird, für den das Kreditinstitut dem ausländischen Bankgläubiger gemäß Absatz 1 einen eigenen Wechsel oder ein Garantieschreiben des Kunden zu beschaffen hat. Wird der Kunde aus dem Wechsel oder dem Garantieschreiben wegen eines höheren als desjenigen Betrages in Anspruch genommen, auf den die Verpflichtung des Kunden gegenüber dem Kreditinstitut herabgesetzt worden ist oder wird, so hat das Kreditinstitut insoweit den Kunden schadlos zu halten. Der Kunde kann bei Übergabe des Wechsels oder Garantieschreibens oder später verlangen, daß ihm das Kreditinstitut wegen seiner etwaigen Ansprüche nach Satz 2 Sicherheit leistet.
 
-
-## § 92
+# § 92
 
 (1) Soweit ein Kreditinstitut Sicherheiten, die es von einem Kunden erhalten hat, gemäß Nummer 6 des Kreditabkommens treuhänderisch für einen ausländischen Bankgläubiger zu halten berechtigt ist, geht das Recht an den Sicherheiten auf den ausländischen Bankgläubiger über, sobald das Kreditinstitut die Anzeige an den ausländischen Bankgläubiger absendet, es halte für letzteren treuhänderisch die Sicherheiten.
 
 (2) Soweit der ausländische Bankgläubiger aus den Sicherheiten befriedigt wird, erlischt auch die entsprechende Forderung des Kreditinstituts gegen den Kunden.
 
-
-## § 93
+# § 93
 
 (1) Die Berechtigung eines Kreditinstituts, über eine Sicherheit zu verfügen, wird nicht dadurch berührt, daß es die Sicherheit für einen ausländischen Bankgläubiger treuhänderisch hält, unbeschadet der Pflichten, die ihm gegenüber dem Kunden oder nach dem Kreditabkommen gegenüber dem ausländischen Bankgläubiger obliegen.
 
 (2) Besteht eine Sicherheit in einer Bürgschaft, Garantie oder Kreditversicherung, so wird der Bürge, Garant oder Kreditversicherer frei, soweit er an das Kreditinstitut leistet, es sei denn, daß zur Zeit der Leistung über das Vermögen des Kreditinstituts das Insolvenzverfahren eröffnet worden ist.
 
-
-## § 94
+# § 94
 
 Ist eine Schuld durch Bürgschaft, Garantie, Indossament oder Kreditversicherung gesichert, so wird der Bürge, Garant, Indossant oder Kreditversicherer im Geltungsbereich dieses Gesetzes nicht deshalb von seiner Verpflichtung frei, weil nach Inkrafttreten des Kreditabkommens die Laufzeit der Schuld verlängert, ihre Fälligkeit hinausgerückt oder ihre Form geändert wird.
 
-
-## § 95
+# § 95
 
 Die Aushändigung der in § 91 bezeichneten eigenen Wechsel an ein Kreditinstitut begründet nicht die Verpflichtung zur Entrichtung der Wechselsteuer. Werden die Wechsel von diesem Kreditinstitut in Umlauf gesetzt, so bleiben sie von der Wechselsteuer ausgenommen, wenn sie vorher dem Finanzamt vorgelegt und von ihm mit einem Abdruck seines Dienststempels versehen werden.
 
-
-## § 96
+# § 96
 
 (1) Die durch die Vorbereitung, den Abschluß und die Inkraftsetzung des Kreditabkommens entstehenden oder damit notwendig verbundenen Kosten und Auslagen einschließlich der von den ausländischen Bankenausschüssen für Rechtsberatung oder aus anderem Anlaß vor Abschluß des Kreditabkommens, jedoch nicht vor dem 1. November 1950 und während dessen Laufzeit gemachten sachgemäßen Aufwendungen fallen den deutschen Schuldnern anteilig nach dem Verhältnis ihrer unter das Kreditabkommen fallenden Schulden zur Last.
 
@@ -929,18 +826,15 @@ Die Aushändigung der in § 91 bezeichneten eigenen Wechsel an ein Kreditinstitu
 
 § 96 Abs. 2 Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1
 
-
-## § 97
+# § 97
 
 Für die Entscheidungen des in Nummer 20 des Kreditabkommens vorgesehenen Schiedsausschusses gelten die Vorschriften des Zehnten Buches der Zivilprozeßordnung, mit Ausnahme des § 1054. Dem Antrag, eine Entscheidung des Schiedsausschusses für vollstreckbar zu erklären, ist eine von dem Vorsteher des Büros des Ausschusses vollzogene Ausfertigung beizufügen.
 
-
-## § 98
+# § 98
 
 Die Bestimmungen der §§ 90 bis 97 gelten sinngemäß für Abkommen, die zum Zwecke der Erneuerung oder Verlängerung des Kreditabkommens abgeschlossen werden.
 
-
-## § 99
+# § 99
 
 (1) Eine Schuld, die eine Valutaverpflichtung im Sinne des § 10 des D-Markbilanzgesetzes vom 21. August 1949 (WiGBl. S. 279) darstellt, ist nach ihrer Regelung abweichend von § 47 Abs. 3 Satz 2 des D-Markbilanzgesetzes in der Fassung des § 7 Nr. 7 des D-Markbilanzergänzungsgesetzes vom 28. Dezember 1950 (Bundesgesetzbl. S. 811) spätestens in der Bilanz für das erste Geschäftsjahr, das nach dem 30. Dezember 1955 endet, mit dem Wert anzusetzen, der sich für sie aus dem neuen Kapitalbetrag und unter Zugrundelegung des am Stichtag der Bilanz geltenden Umrechnungskurses der ausländischen Währung ergibt. Ist dieser Umrechnungskurs niedriger als der nach § 10 Abs. 1 des D-Markbilanzgesetzes maßgebende Umrechnungskurs, so kann die Schuld mit einem unter Zugrundelegung des bisher maßgebenden Umrechnungskurses berechneten Wert angesetzt werden. Die Änderung des Wertansatzes gilt handelsrechtlich nicht als eine Berichtigung von Wertansätzen im Sinne von § 47 Abs. 1 und 2 des D-Markbilanzgesetzes.
 
@@ -948,18 +842,15 @@ Die Bestimmungen der §§ 90 bis 97 gelten sinngemäß für Abkommen, die zum Zw
 
 (3) Im übrigen findet eine Berichtigung von Wertansätzen nach §§ 47, 73 bis 75 des D-Markbilanzgesetzes für eine Schuld der in Absatz 1 bezeichneten Art nicht statt.
 
-
-## § 100
+# § 100
 
 Ein aus der Regelung einer Auslandsschuld, die keine Valutaverpflichtung im Sinne des § 10 des D-Markbilanzgesetzes ist, sich ergebender Gewinn unterliegt nicht den Steuern vom Einkommen und Ertrag. Das gilt nicht, soweit dieser Gewinn auf Zinsverpflichtungen entfällt, die nach dem 21. Juni 1948 entstanden sind.
 
-
-## § 101
+# § 101
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Vorschriften durch Rechtsverordnung zu erlassen, nach denen bei im Ausland zahlbaren Zinsen aus Anleihen zur Vermeidung einer Steuererstattung vom Steuerabzug vom Kapitalertrag abgesehen werden kann.
 
-
-## § 102
+# § 102
 
 (1) ... Soweit ein Zweitschuldner im Sinne von § 15 Abs. 8 des Umstellungsgesetzes gegenüber einem Angehörigen der Vereinten Nationen für eine Reichsmarkverbindlichkeit gemäß § 15 Abs. 1 des Umstellungsgesetzes haftbar geblieben ist, die eine Schuld der in § 52 bezeichneten Art ist oder die zur Sicherung einer Schuld dieser Art abgetreten oder verpfändet ist und auf Goldmark oder Reichsmark mit Goldklausel oder Goldoption lautet, bleibt der Zweitschuldner in gleichem Umfang wie bisher haftbar, bis Gläubiger und Erstschuldner sich darüber geeinigt haben, daß die von dem Erstschuldner angebotenen Sicherheiten ausreichen.
 
@@ -967,8 +858,7 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Vorschrifte
 
 (3) Leistungen, die nach § 15 Abs. 7 des Umstellungsgesetzes in der Fassung der Artikel 1 und 2 des Gesetzes Nr. 46 der Alliierten Hohen Kommission zu bewirken waren, gelten als Leistungen nach den Vorschriften der §§ 105 und 106 des Lastenausgleichsgesetzes. Bewirkte Leistungen sind zurückzuzahlen, wenn die zugrunde liegende Schuld die Voraussetzungen des § 52 erfüllt und geregelt worden ist; die §§ 133 und 183 des Lastenausgleichsgesetzes sind nicht anzuwenden.
 
-
-## § 103
+# § 103
 
 (1) Verbindlichkeiten aus Schuldverhältnissen der in § 22 des Umstellungsgesetzes bezeichneten Art, auf die Anlage II des Abkommens anzuwenden ist, sind in die Umstellungsrechnung mit dem sich auf den 1. Januar 1953 ergebenden neuen Kapitalbetrag (Artikel IV in Verbindung mit Artikel V Nr. 1 bis 4 der Anlage II) einzustellen.
 
@@ -982,32 +872,27 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Vorschrifte
 
 (6) Für die Berechnung des vorläufigen Eigenkapitals bleiben die nach Absatz 1 bis 3 einzustellenden Beträge außer Ansatz, soweit sie von den nach den bisherigen Vorschriften einzustellenden Beträgen abweichen. Diese Abweichungen haben keine Rückwirkung auf die Reichsmarkschlußbilanz.
 
-
-## § 104
+# § 104
 
 (1) Für Berliner Altbanken gilt § 103 Abs. 1 bis 4 und Abs. 6 entsprechend. Zur Durchführung des Artikels 14 Abs. 2 des Abkommens ist ein zusätzlicher Passivposten in die Altbankenrechnung einzustellen.
 
 (2) Soweit die Niederlassung eines Geldinstituts mit Sitz außerhalb des Geltungsbereiches dieses Gesetzes gemäß § 3 der Fünfunddreißigsten Durchführungsverordnung zum Umstellungsgesetz als verlagert anerkannt worden ist, ist zur Durchführung des Artikels 14 Abs. 2 des Abkommens ein zusätzlicher Passivposten in die Umstellungsrechnung einzustellen.
 
-
-## § 105
+# § 105
 
 (1) Soweit einem Geldinstitut die Erfüllung der unter Anlage II des Abkommens fallenden Schulden auf andere Weise nicht möglich oder nicht zumutbar ist, wird durch Bundesgesetz Vorsorge getroffen werden, daß dem Geldinstitut die erforderlichen flüssigen Mittel in deutscher Währung an Stelle von Ausgleichsforderungen zur Verfügung gestellt werden.
 
 (2) Soweit durch Bundesgesetz Mittel zum Ankauf von Ausgleichsforderungen bereitgestellt werden, soll sichergestellt werden, daß diese Mittel auch zur Durchführung des Absatzes 1 ausreichen.
 
-
-## § 106
-
-\-
-
-
-## § 107
+# § 106
 
 \-
 
+# § 107
 
-## § 108
+\-
+
+# § 108
 
 (1) Das Bundesministerium für Wirtschaft und Energie erläßt im Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen mit der Bank deutscher Länder die im Hinblick auf die Beschränkungen der Devisenbewirtschaftungsgesetze zur Ausführung des Abkommens erforderlichen Rechtsverordnungen. Sie bedürfen nicht der Zustimmung des Bundesrates.
 
@@ -1018,8 +903,7 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Vorschrifte
 § 108 Abs. 2 erster Kursivdruck: Jetzt Deutsche Bundesbank gem. § 1 BBankG 7620-1  
 § 108 Abs. 2 zweiter Kursivdruck: Jetzt dem Außenwirtschaftsgesetz gem. § 50 Abs. 2 G v. 28.4.1961 I 481
 
-
-## § 108a
+# § 108a
 
 (1) Für die Eintragung der Begründung, Veränderung oder Aufhebung von Hypotheken, Grundschulden oder Rentenschulden in das Grundbuch sowie für gerichtliche oder notarielle Beurkundungen, die diesen Geschäften dienen, wird nur die Hälfte der in der Kostenordnung bestimmten Gebühren erhoben, wenn diese Geschäfte durch die Regelung auf Grund des Abkommens veranlaßt werden oder mit dieser Regelung zusammenhängen. § 26 Abs. 3 der Kostenordnung bleibt unberührt.
 
@@ -1027,13 +911,11 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates Vorschrifte
 
 § 108a Abs. 1 Kursivdruck: Jetzt § 33 der Kostenordnung gem. Art. 11 § 6 G v. 26.7.1957 I 861 (935); nachfolgende Änderungen s. Fußnote § 33 KostO
 
-
-## § 108b
+# § 108b
 
 \-
 
-
-## § 109
+# § 109
 
 Für die Anwendung dieses Gesetzes in Berlin treten
 
@@ -1053,13 +935,11 @@ b) im übrigen der 25. Juni 1948;
 
 6\.
 
-
-## § 110
+# § 110
 
 Die Vorschriften der Artikel V bis VIII des Grundpfandrechtsumstellungsgesetzes bleiben von der Vorschrift des § 53 unberührt.
 
-
-## § 111
+# § 111
 
 Für die Rechtsverhältnisse der neuen oder weiteren Hypothek gelten abweichend von § 53 folgende Vorschriften:
 
@@ -1075,8 +955,7 @@ b) eines Rechtes, das der in Nummer 1 Satz 1 bezeichneten Rangstelle nachgeht un
 
 4. Steht ein Recht, das der in Nummer 1 Satz 1 bezeichneten Rangstelle nachgeht und das derjenige, der beim Inkrafttreten dieses Gesetzes der Berechtigte war, in der Zeit zwischen dem 25. Juni 1948 und dem 15. Juli 1952 erworben hat, dem Schuldner der in § 55 bezeichneten Forderung zu, so kann der Gläubiger dieser Forderung von dem Schuldner die Einräumung des Vorrangs vor dem Recht auch dann verlangen, wenn die Voraussetzungen der Nummer 3 Buchstabe a nicht vorliegen.
 
-
-## § 112
+# § 112
 
 (1) Für die Anwendung des § 59 treten an die Stelle von § 113 des Lastenausgleichsgesetzes dessen § 150 und an die Stelle des § 58 Abs. 2 bis 4 der § 111 Nr. 3 und 4.
 
@@ -1084,8 +963,7 @@ b) eines Rechtes, das der in Nummer 1 Satz 1 bezeichneten Rangstelle nachgeht un
 
 (3) Soweit in diesem Gesetz auf Bestimmungen des D-Markbilanzgesetzes vom 21. August 1949 in der jeweils geltenden Fassung verwiesen wird, sind diese in der am 14. Dezember 2010 geltenden Fassung für Zwecke dieses Gesetzes weiterhin anwendbar, soweit deren Anwendung nicht ohnehin ausgeschlossen wird.
 
-
-## § 113
+# § 113
 
 § 2 Nr. 4 des Grundpfandrechtsumstellungsgesetzes erhält mit Wirkung vom 25. Juni 1948 folgende Fassung:
 
@@ -1094,13 +972,11 @@ a) Hypotheken, Grundschulden und Rentenschulden, die bei Ablauf des 24. Juni 194
 
 b) Hypotheken, Grundschulden und Rentenschulden, die bei Ablauf des 24. Juni 1948 an Angehörige der Vereinten Nationen zur Sicherung einer Schuld der in § 52 des Gesetzes zur Ausführung des Abkommens über deutsche Auslandsschulden bezeichneten Art abgetreten oder verpfändet waren, soweit sie aus einem Geschäft, das der Angehörige der Vereinten Nationen zu finanzieren oder zu refinanzieren beabsichtigte, herrühren und sie oder die Forderungen, zu deren Sicherung sie bestellt sind, auf Goldmark oder Reichsmark mit Goldklausel oder Goldoption lauten."
 
-
-## § 114
+# § 114
 
 Für die Anwendung der §§ 69, 70 und 73 tritt an die Stelle des Landes Berlin der Bund.
 
-
-## § 115
+# § 115
 
 (1) Die auf Grundbesitz in Berlin West entrichtete Baunotabgabe (Gesetz über eine Baunotabgabe vom 21. Juli 1949 - Verordnungsblatt für Groß-Berlin Teil I S. 273 -, Gesetz über die Verlängerung der Baunotabgabe vom 15. Dezember 1950 - Verordnungsblatt für Berlin Teil I S. 559 -, Gesetz über Abgaben in Vorbereitung eines Lastenausgleichs vom 20. Dezember 1951 - Gesetz- und Verordnungsblatt für Berlin S. 1187 -) ist zu erstatten, soweit sie eine Baunotabgabe übersteigt, die zu entrichten wäre, wenn bei Ermittlung des Belastungsgrades für die Baunotabgabe eine Schuld, die nach § 53 Satz 1 zu behandeln ist, außer Ansatz bleibt, und die Baunotabgabe von dem um die Schuld verminderten Einheitswert berechnet wird. Entsprechend sind Verpflichtungsbeträge aus der Baunotabgabe zu ermäßigen. Bereits entrichtete Teilbeträge sind in Höhe der überzahlten Beträge zu erstatten.
 
@@ -1108,12 +984,10 @@ Für die Anwendung der §§ 69, 70 und 73 tritt an die Stelle des Landes Berlin 
 
 (3) Absätze 1 und 2 gelten sinngemäß bei Schulden in ausländischer Währung, wobei diese unter Außerachtlassung der Grundsätze des § 31 Abs. 1 Satz 2 des D-Markbilanzgesetzes nach einem Umrechnungskurs vom 0,30 USA-Dollar für 1 DM West anzusetzen sind.
 
-
-## § 116
+# § 116
 
 Dieses Gesetz gilt nach Maßgabe der §§ 12 Abs. 1 und 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund der in diesem Gesetz enthaltenen Ermächtigungen erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 
-
-## § 117
+# § 117
 
 Das Gesetz tritt mit dem Tage in Kraft, an dem das Abkommen über deutsche Auslandsschulden vom 27. Februar 1953 gemäß seinem Artikel 35 Abs. 2 Satz 1 in Kraft tritt.

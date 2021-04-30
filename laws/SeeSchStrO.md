@@ -1,10 +1,7 @@
-# [SeeSchStrO] Seeschiffahrtsstraßen-Ordnung  (SeeSchStrO)
-
-Ausfertigungsdatum: 03.05.1971
-
+% Seeschiffahrtsstraßen-Ordnung  (SeeSchStrO)
+% Ausfertigungsdatum: 03.05.1971
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -613,8 +610,7 @@ Anlage IV
 
 (aufgehoben)
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Die Verordnung gilt auf den Seeschiffahrtsstraßen mit Ausnahme der Emsmündung, die im Osten durch eine Verbindungslinie zwischen dem Pilsumer Watt (53 Grad 29' 08" N; 07 Grad 01' 52" O), Borkum (53 Grad 34' 06" N; 06 Grad 45' 31" O) und dem Schnittpunkt der Koordinaten 53 Grad 39' 35" N; 06 Grad 35' 00" O begrenzt wird. Seeschiffahrtsstraßen im Sinne dieser Verordnung sind
 
@@ -670,8 +666,7 @@ Darüber hinaus sind Seeschiffahrtsstraßen im Sinne dieser Verordnung die Wasse
 
 (5) Die Wasserflächen und Seegebiete, die vom Geltungsbereich dieser Verordnung (§ 1 Abs. 1 bis 3) erfaßt werden, sind aus der als Anlage III zu dieser Verordnung beigefügten Karte ersichtlich.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für diese Verordnung gelten die Begriffsbestimmungen der Regeln 3, 21 und 32 der Kollisionsverhütungsregeln; im übrigen sind im Sinne dieser Verordnung:
 
@@ -703,8 +698,7 @@ einzelne oder zu mehreren zusammengefaßte schwer erkennbare, teilweise getaucht
 
 die Zusammenstellung von einem oder mehreren schleppenden Maschinenfahrzeugen (Schlepper) und einem oder mehreren dahinter oder daneben geschleppten Anhängen, die keine oder keine betriebsbereite Antriebsanlage besitzen oder in ihrer Manövrierfähigkeit eingeschränkt sind; Motorsportfahrzeuge, die andere Sportfahrzeuge schleppen, gelten nicht als schleppende Maschinenfahrzeuge im Sinne der Kollisionsverhütungsregeln;
 
-7a.  
-Maschinenfahrzeuge mit Schlepperhilfe
+7a. Maschinenfahrzeuge mit Schlepperhilfe
 
 ein manövrierfähiges Maschinenfahrzeug mit betriebsklarer Maschine in Fahrt, das sich eines oder mehrerer Schlepper zur Unterstützung bedient (bugsieren); es gilt als ein allein fahrendes Maschinenfahrzeug im Sinne von Regel 23 Buchstabe a der Kollisionsverhütungsregeln;
 
@@ -720,8 +714,7 @@ Schub- und Schleppverbände, die die für eine Seeschiffahrtsstraße nach § 60 
 
 Fahrzeuge, die die für eine Seeschiffahrtsstraße nach § 60 Abs. 1 bekanntgemachten Abmessungen nach Länge, Breite oder Tiefgang überschreiten;
 
-10a.  
-Hochgeschwindigkeitsfahrzeuge
+10a. Hochgeschwindigkeitsfahrzeuge
 
 Fahrzeuge, die nach dem Code für Hochgeschwindigkeitsfahrzeuge (BAnz. Nr. 21a vom 3. Januar 1996) gebaut sind und entsprechend betrieben werden sowie sonstige Fahrzeuge, die entsprechend dem Code betrieben werden;
 
@@ -791,18 +784,15 @@ Bälle, Kegel, Rhomben und Zylinder;
 
 motorisierte Wassersportgeräte, die als Personal Water Craft wie "Wasserbob", "Wasserscooter", "Jetbike" oder "Jetski" bezeichnet werden, oder sonstige gleichartige Geräte; sie gelten nicht als Fahrzeuge im Sinne dieser Verordnung;
 
-21a.  
-Parasailing
+21a. Parasailing
 
 Drachenfliegen und Fallschirmfliegen hinter einem ziehenden Wasserfahrzeug;
 
-21b.  
-Wassersportanhänge
+21b. Wassersportanhänge
 
 von Wassersportfahrzeugen gezogene aufblasbare Schwimmkörper, auf denen sich Personen befinden;
 
-21c.  
-Kitesurfen
+21c. Kitesurfen
 
 Surfen mit einem von einem Drachen gezogenen Surfbrett;".
 
@@ -844,8 +834,7 @@ die Zeit von Sonnenaufgang bis Sonnenuntergang;
 
 die Zeit von Sonnenuntergang bis Sonnenaufgang.
 
-
-## § 3 – Grundregeln für das Verhalten im Verkehr
+# § 3 – Grundregeln für das Verhalten im Verkehr
 
 (1) Jeder Verkehrsteilnehmer hat sich so zu verhalten, daß die Sicherheit und Leichtigkeit des Verkehrs gewährleistet ist und daß kein Anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird. Er hat insbesondere die Vorsichtsmaßregeln zu beachten, die Seemannsbrauch oder besondere Umstände des Falles erfordern. Der Führer eines mit einer UKW-Sprechfunkanlage ausgerüsteten Fahrzeugs ist verpflichtet, bei der Befolgung der Vorschriften über das Verhalten im Verkehr die von einer Verkehrszentrale aus in deutscher, auf Anforderung in englischer Sprache gegebenen Verkehrsinformationen und -unterstützungen abzuhören und unverzüglich entsprechend den Bedingungen der jeweiligen Verkehrssituation zu berücksichtigen.
 
@@ -857,8 +846,7 @@ die Zeit von Sonnenuntergang bis Sonnenaufgang.
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines Fahrbeschränkungen und Fahrverboten nach § 30 Abs. 1 unterliegenden Fahrzeuges darf in der Dienstzeit während der Fahrt alkoholische Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter der Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen Erholungszeiten an Bord darf der Schiffsführer alkoholische Getränke zu sich nehmen, wenn sichergestellt ist, dass er bei der Übernahme sicherheitsrelevanter Aufgaben nicht mehr unter der Wirkung solcher Getränke steht. Satz 1 gilt für die im Brückendienst eingesetzten Mitglieder der Schiffsbesatzung entsprechend.
 
-
-## § 4 – Verantwortlichkeit
+# § 4 – Verantwortlichkeit
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit Verantwortliche haben die Vorschriften dieser Verordnung über das Verhalten im Verkehr und über die Ausrüstung der Fahrzeuge mit Einrichtungen für das Führen und Zeigen der Sichtzeichen und das Geben von Schallsignalen zu befolgen. Auf Binnenschiffen ist neben dem Fahrzeugführer hierfür auch jedes Mitglied der Besatzung verantwortlich, das vorübergehend selbständig den Kurs und die Geschwindigkeit des Fahrzeugs bestimmt.
 
@@ -870,8 +858,7 @@ die Zeit von Sonnenuntergang bis Sonnenaufgang.
 
 (5) Die Verantwortlichkeit anderer Personen, die sich aus dieser Verordnung oder sonstigen Vorschriften ergibt, bleibt unberührt.
 
-
-## § 5 – Schiffahrtszeichen
+# § 5 – Schiffahrtszeichen
 
 (1) Schiffahrtszeichen im Sinne dieser Verordnung sind Sichtzeichen und Schallsignale, die Gebote, Verbote, Warnungen oder Hinweise enthalten. Die im Geltungsbereich dieser Verordnung verwendeten Schiffahrtszeichen, die Gebote und Verbote enthalten, sind in der Anlage I zu dieser Verordnung abschließend aufgeführt oder in den nach § 60 Abs. 2 erlassenen Rechtsverordnungen enthalten. Produkte aus anderen Mitgliedstaaten der Europäischen Union, die den in der Anlage I geregelten technischen Anforderungen nicht entsprechen, werden einschließlich der im Herstellerland durchgeführten Prüfungen, Zulassungen und Überwachungen als gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau - Sicherheit, Gesundheit und Gebrauchstauglichkeit - gleichermaßen dauerhaft erreicht wird.
 
@@ -879,8 +866,7 @@ die Zeit von Sonnenuntergang bis Sonnenaufgang.
 
 (3) Das Beschädigen oder Beeinträchtigen der Erkennbarkeit der Schiffahrtszeichen ist verboten.
 
-
-## § 6 – Sichtzeichen und Schallsignale der Fahrzeuge
+# § 6 – Sichtzeichen und Schallsignale der Fahrzeuge
 
 (1) Soweit die folgenden Vorschriften nicht etwas Besonderes vorschreiben, haben Fahrzeuge zusätzlich zu den in den Kollisionsverhütungsregeln vorgeschriebenen Sichtzeichen und Schallsignalen solche nur nach Maßgabe der Anlage II für die dort vorgesehenen Zwecke zu führen, zu zeigen oder zu geben. Die in dem Internationalen Signalbuch enthaltenen Sichtzeichen und Schallsignale dürfen nur für die dort vorgesehenen Zwecke verwendet werden. Es dürfen keine Sichtzeichen geführt oder gezeigt sowie Schallsignale gegeben werden, die mit den vorgeschriebenen oder vorgesehenen verwechselt werden können. Die Vorschriften der Allgemeinen Zollordnung und Regel 1 Buchstaben c und e der Kollisionsverhütungsregeln bleiben unberührt.
 
@@ -890,13 +876,11 @@ die Zeit von Sonnenuntergang bis Sonnenaufgang.
 
 (4) Produkte aus anderen Mitgliedstaaten der Europäischen Union, die den in dieser Verordnung geregelten technischen Anforderungen nicht entsprechen, werden einschließlich der im Herstellerland durchgeführten Prüfungen, Zulassungen und Überwachungen als gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau - Sicherheit, Gesundheit und Gebrauchstauglichkeit - gleichermaßen dauerhaft erreicht wird.
 
-
-## § 7 – Fahrzeuge des öffentlichen Dienstes
+# § 7 – Fahrzeuge des öffentlichen Dienstes
 
 Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung dringend geboten ist. Satz 1 gilt für Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger, soweit diese Maßnahmen des Such- und Rettungsdienstes in Seenotfällen nach § 1 Nr. 7 des Seeaufgabengesetzes durchführen, entsprechend.
 
-
-## § 8 – Allgemeines
+# § 8 – Allgemeines
 
 (1) Für die nach dieser Verordnung vorgeschriebenen Sichtzeichen gilt Regel 20 sowie Anlage I der Kollisionsverhütungsregeln entsprechend. Sichtzeichen, die nach dieser Verordnung und den Kollisionsverhütungsregeln von Fahrzeugen geführt werden müssen, sind ständig mitzuführen und während der Zeit, in der sie zu führen sind, fest anzubringen. Es dürfen nur solche Sichtzeichen verwendet werden, die über den ganzen Horizont sichtbar sind; sie sind dort zu führen, wo sie am besten gesehen werden können. Satz 3 gilt nur, soweit diese Verordnung nicht etwas anderes vorschreibt. Für Binnenschiffe, die die seewärtige Grenze einer Wasserfläche der Zone 2 nach Anhang I der Binnenschiffsuntersuchungsordnung nicht überschreiten, gilt abweichend von Satz 1
 
@@ -912,8 +896,7 @@ Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes
 
 (5) (aufgehoben)
 
-
-## § 9 – Verwendung von Positionslaternen und Schallsignalanlagen
+# § 9 – Verwendung von Positionslaternen und Schallsignalanlagen
 
 (1) Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind, dürfen zur Führung der nach dieser Verordnung vorgeschriebenen Lichter und zur Abgabe der nach dieser Verordnung vorgeschriebenen Schallsignale nur solche Positionslaternen und Schallsignalanlagen verwenden, deren Baumuster von einer benannten Stelle im Sinne des Artikels 9 in Verbindung mit Artikel 10 der Richtlinie 96/98/EG des Rates über Schiffsausrüstung vom 20. Dezember 1996 (ABl. EG Nr. L 46 S. 25) zur Verwendung auf Seeschiffahrtsstraßen zugelassen ist. § 5 in Verbindung mit Anlage 1 Abschnitt A.I der Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013, 3023), zuletzt geändert durch Artikel 2 der Verordnung vom 24. Juni 1999 (BGBl. I S. 1462), gilt entsprechend. Die Sätze 1 und 2 gelten nicht für Wasserfahrzeuge im Sinne des § 1 Absatz 1 Nummer 1 der Verordnung über Sportboote und Wassermotorräder.
 
@@ -925,8 +908,7 @@ Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes
 
 (5) Abweichend von Anlage I Abschnitt 2 Buchstabe a der Kollisionsverhütungsregeln brauchen Binnenschiffe, die die seewärtige Grenze einer Wasserfläche der Zone 2 nach Anhang I der Binnenschiffsuntersuchungsordnung nicht überschreiten, das vordere weiße Licht nur mindestens 5 Meter über dem Schiffskörper und das zweite, hintere Licht nur mindestens 3 Meter über dem vorderen Licht zu setzen.
 
-
-## § 10 – Kleine Fahrzeuge
+# § 10 – Kleine Fahrzeuge
 
 (1) (weggefallen)
 
@@ -938,21 +920,17 @@ Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes
 
 (5) Abweichend von Regel 26 Buchstabe c der Kollisionsverhütungsregeln brauchen offene Fischerboote nur ein weißes Rundumlicht im Sinne von Regel 21 Buchstabe e der Kollisionsverhütungsregeln zu führen. Regel 26 Buchstabe b der Kollisionsverhütungsregeln bleibt unberührt.
 
-
-## § 11 – Schallsignale der Binnenschiffe
+# § 11 – Schallsignale der Binnenschiffe
 
 (1) Binnenschiffe, für die keine Besatzung vorgeschrieben ist, müssen die in der Regel 33 der Kollisionsverhütungsregeln vorgeschriebenen Schallsignale nicht geben.
 
 (2) Ein Schubverband im Sinne der Binnenschifffahrtsstraßen-Ordnung gilt als ein Maschinenfahrzeug und muss die für ein Maschinenfahrzeug in Regel 33 der Kollisionsverhütungsregeln vorgeschriebenen Schallsignale geben.
 
+# §§ 12 bis 18 – (weggefallen)
 
-## §§ 12 bis 18 – (weggefallen)
+# §§ 19 und 20 – (weggefallen)
 
-
-## §§ 19 und 20 – (weggefallen)
-
-
-## § 21 – Grundsätze
+# § 21 – Grundsätze
 
 (1) Die Fahrregeln dieses Abschnitts sowie des siebenten Abschnitts gelten unabhängig von den Sichtverhältnissen. Abweichend von den Regeln 11 und 19 der Kollisionsverhütungsregeln gelten die Regel 13 Buchstabe a und c und Regel 14 Buchstabe a und c der Kollisionsverhütungsregeln im Fahrwasser auch dann, wenn die Fahrzeuge einander nicht in Sicht, aber mittels Radar geortet haben.
 
@@ -960,8 +938,7 @@ Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes
 
 (3) Im Fahrwasser müssen die Buganker klar zum sofortigen Fallen sein. Dies gilt nicht für Fahrzeuge von weniger als 20 Metern Länge.
 
-
-## § 22 – Ausnahmen vom Rechtsfahrgebot
+# § 22 – Ausnahmen vom Rechtsfahrgebot
 
 (1) Abweichend vom Gebot, im Fahrwasser gemäß Regel 9 Buchstabe a der Kollisionsverhütungsregeln soweit wie möglich rechts zu fahren, darf innerhalb von nach § 60 Abs. 1 bekanntgemachten Fahrwasserabschnitten von allen oder von einzelnen Fahrzeuggruppen links gefahren werden. Nach § 60 Abs. 1 bekanntgemachte Fahrzeuggruppen haben die einmal gewählte linke Fahrwasserseite beizubehalten.
 
@@ -969,8 +946,7 @@ Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen Dienstes
 
 (3) Auf nach § 60 Abs. 1 bekanntgemachten Wasserflächen außerhalb des Fahrwassers haben sich alle bekanntgemachten Fahrzeuggruppen an der in ihrer Fahrtrichtung rechts vom Fahrwasser liegenden Seite zu halten.
 
-
-## § 23 – Überholen
+# § 23 – Überholen
 
 (1) Grundsätzlich muß links überholt werden. Soweit die Umstände des Falles es erfordern, darf rechts überholt werden.
 
@@ -1000,8 +976,7 @@ Ist das zu überholende Fahrzeug einverstanden, so kann es seine Zustimmung abwe
 
 (5) Außerhalb der Weichengebiete im Nord-Ostsee-Kanal ist das Überholen nur gestattet, wenn die Summe der Verkehrsgruppenzahlen der sich überholenden Fahrzeuge nicht die nach § 60 Abs. 1 bekanntgemachte Zahl überschreitet.
 
-
-## § 24 – Begegnen
+# § 24 – Begegnen
 
 (1) Beim Begegnen auf entgegengesetzten oder fast entgegengesetzten Kursen im Fahrwasser ist nach Steuerbord auszuweichen.
 
@@ -1021,8 +996,7 @@ Liegen die Voraussetzungen für die Absprache über UKW-Sprechfunk nicht vor, so
 
 (4) Außerhalb der Weichengebiete im Nord-Ostsee-Kanal ist das Begegnen nur gestattet, wenn die Summe der Verkehrsgruppenzahlen der sich begegnenden Fahrzeuge nicht die nach § 60 Abs. 1 bekanntgemachte Zahl überschreitet. Einem Fahrzeug der Verkehrsgruppen 4 bis 6 ist auszuweichen.
 
-
-## § 25 – Vorfahrt der Schiffahrt im Fahrwasser
+# § 25 – Vorfahrt der Schiffahrt im Fahrwasser
 
 (1) Die in den nachfolgenden Absätzen enthaltenen Regelungen gelten für Fahrzeuge im Fahrwasser abweichend von der Regel 9 Buchstabe b bis d und den Regeln 15 und 18 Buchstabe a bis c der Kollisionsverhütungsregeln.
 
@@ -1050,8 +1024,7 @@ Das wartepflichtige Fahrzeug muß außerhalb der Engstelle so lange warten, bis 
 
 (6) Ein Fahrzeug, das die Vorfahrt zu gewähren hat, muß rechtzeitig durch sein Fahrverhalten erkennen lassen, daß es warten wird. Es darf nur weiterfahren, wenn es übersehen kann, daß die Schiffahrt nicht beeinträchtigt wird.
 
-
-## § 26 – Fahrgeschwindigkeit
+# § 26 – Fahrgeschwindigkeit
 
 (1) Jedes Fahrzeug, Wassermotorrad und Segelsurfbrett muß unter Beachtung von Regel 6 der Kollisionsverhütungsregeln mit einer sicheren Geschwindigkeit fahren. Fahrzeuge und Wassermotorräder haben ihre Geschwindigkeit rechtzeitig so weit zu vermindern, wie es erforderlich ist, um Gefährdungen durch Sog oder Wellenschlag zu vermeiden, insbesondere beim Vorbeifahren an
 
@@ -1075,8 +1048,7 @@ Das wartepflichtige Fahrzeug muß außerhalb der Engstelle so lange warten, bis 
 
 (5) Segelsurfer und Kitesurfer müssen vor Stellen mit erkennbarem Badebetrieb oder gekennzeichneten Badegebieten im Wasser außerhalb des Fahrwassers einen Abstand von mindestens 50 Metern von der seeseitigen Begrenzung des Badegebietes und gegenüber allen Badenden einhalten. Die Geschwindigkeit ist so anzupassen, dass eine Gefährdung, Schädigung oder Behinderung der Badenden ausgeschlossen ist und Belästigungen auf ein nach den Umständen unvermeidbares Maß reduziert werden.
 
-
-## § 27 – Schleppen und Schieben
+# § 27 – Schleppen und Schieben
 
 (1) Schleppen oder Schieben dürfen nur Fahrzeuge, welche die dafür erforderlichen Einrichtungen besitzen und deren Manövrierfähigkeit beim Schleppen oder Schieben gewährleistet ist.
 
@@ -1084,8 +1056,7 @@ Das wartepflichtige Fahrzeug muß außerhalb der Engstelle so lange warten, bis 
 
 (3) Das Nebeneinanderkoppeln von Fahrzeugen in Fahrt ist auf den nach § 60 Abs. 1 bekanntgemachten Wasserflächen verboten. Im übrigen dürfen Maschinenfahrzeuge mit Ausnahme beim Bugsieren nicht mit eigener Maschinenkraft nebeneinander gekoppelt fahren.
 
-
-## § 28 – Durchfahren von Brücken und Sperrwerken
+# § 28 – Durchfahren von Brücken und Sperrwerken
 
 (1) Vor und unter Brücken ist das Begegnen und Überholen nur gestattet, wenn das Fahrwasser mit Sicherheit hinreichenden Raum für die gleichzeitige Durchfahrt gewährt. Anderenfalls ist die Vorfahrt entsprechend § 25 Abs. 5 zu beachten. Ein wartepflichtiges Fahrzeug muß in ausreichender Entfernung vor der Brücke anhalten. Dabei darf es vorübergehend an Festmachedalben, jedoch nicht an Leitwerken und Abweisedalben festmachen.
 
@@ -1093,8 +1064,7 @@ Das wartepflichtige Fahrzeug muß außerhalb der Engstelle so lange warten, bis 
 
 (3) In Sperrwerken ist es verboten, zu ankern oder Anker, Ketten oder Trossen schleifen zu lassen. Für das Durchfahren von Sperrwerken gelten die vorstehenden Bestimmungen entsprechend.
 
-
-## § 29 – Einlaufen in Schleusen und Auslaufen
+# § 29 – Einlaufen in Schleusen und Auslaufen
 
 (1) Schleusen dürfen nur von Fahrzeugen durchfahren werden, für die die Abmessungen der Schleusen mit Sicherheit ausreichen. Solange die Einfahrt in eine Schleuse nicht freigegeben ist, muß in ausreichender Entfernung vor der Schleuse angehalten werden. Dabei darf ein Fahrzeug vorübergehend an Festmachedalben, jedoch nicht an Leitwerken und Abweisedalben festmachen.
 
@@ -1110,8 +1080,7 @@ Das wartepflichtige Fahrzeug muß außerhalb der Engstelle so lange warten, bis 
 
 (5) Die Fahrzeuge dürfen erst nach dem vollständigen Öffnen der Schleusentore auslaufen. Die Schleusenkammer ist unverzüglich zu verlassen. Bei dem Ablegen sind die Leinen so zu bedienen, daß das Fahrzeug bei Aufnahme einer falschen Fahrtrichtung sofort aufgestoppt werden kann. Die Fahrzeuge haben aus der Schleuse in der Reihenfolge ihres Einlaufens auszulaufen, es sei denn, die beteiligten Fahrzeugführer vereinbaren eine andere Reihenfolge.
 
-
-## § 30 – Fahrbeschränkungen und Fahrverbote
+# § 30 – Fahrbeschränkungen und Fahrverbote
 
 (1) Die Seeschiffahrtsstraßen Jade, Weser, Hunte, Elbe, Nord-Ostsee-Kanal, Kieler Förde und Trave sowie die Wasserflächen der Zufahrten zu den Häfen Wismar, Rostock mit Warnow, Stralsund mit Gellenstrom, Landtief und Osttief und Wolgast dürfen von den nachstehend aufgeführten Fahrzeugen, von denen auf Grund der Art der beförderten Ladung besondere Gefahren für die übrige Schiffahrt ausgehen können, nur unter den in Absatz 2 genannten Voraussetzungen befahren werden:
 
@@ -1141,8 +1110,7 @@ als Massengut befördern,
 
 (3) Unbeschadet des Absatzes 1 können für Fahrzeuge oder Fahrzeuggruppen weitere schiffahrtspolizeiliche Voraussetzungen für das Befahren der Seeschiffahrtsstraßen oder einzelner Wasserflächen nach § 60 Abs. 1 bekanntgemacht werden.
 
-
-## § 31 – Wasserskilaufen, Schleppen von Wassersportanhängen, Wasser- motorradfahren, Kite- und Segelsurfen
+# § 31 – Wasserskilaufen, Schleppen von Wassersportanhängen, Wasser- motorradfahren, Kite- und Segelsurfen
 
 (1) Im Fahrwasser ist das Wasserskilaufen und das Schleppen von Wassersportanhängen sowie das Fahren mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett mit Ausnahme auf den nach § 60 Abs. 1 bekannt gemachten oder durch Sichtzeichen freigegebenen Wasserflächen verboten. Außerhalb des Fahrwassers ist das Wasserskilaufen, und das Schleppen von Wassersportanhängen sowie das Fahren mit einem Wassermotorrad oder einem Segelsurfbrett vorbehaltlich des § 26 Abs. 5 erlaubt; dies gilt nicht auf den nach § 60 Abs. 1 bekanntgemachten Wasserflächen.
 
@@ -1150,8 +1118,7 @@ als Massengut befördern,
 
 (3) Bei Nacht, bei verminderter Sicht und während der nach § 60 Abs. 1 bekannt gemachten Zeiten darf nicht Wasserski gelaufen, Wassersportanhänge geschleppt oder mit einem Wassermotorrad oder einem Kite- und Segelsurfbrett gefahren werden.
 
-
-## § 32 – Ankern
+# § 32 – Ankern
 
 (1) Das Ankern ist im Fahrwasser mit Ausnahme auf den Reeden verboten. Dies gilt nicht für manövrierbehinderte Fahrzeuge nach Regel 3 Buchstabe g Ziffer i und ii der Kollisionsverhütungsregeln. Außerhalb des Fahrwassers ist das Ankern auf folgenden Wasserflächen verboten:
 
@@ -1175,8 +1142,7 @@ als Massengut befördern,
 
 (4) Auf einem in der Nähe des Fahrwassers oder auf einer Reede vor Anker liegenden Fahrzeug oder außergewöhnlichen Schwimmkörper sowie auf Fahrzeugen, für die nach Absatz 3 das Ankerverbot nicht gilt, muß ständig Ankerwache gegangen werden. Das gilt nicht für Fahrzeuge von weniger als 12 Metern Länge auf den nach § 10 Abs. 4 bezeichneten Wasserflächen.
 
-
-## § 33 – Anlegen und Festmachen
+# § 33 – Anlegen und Festmachen
 
 (1) Die Schiffahrt darf durch das Anlegen und Festmachen nicht beeinträchtigt werden. Hat ein Fahrzeug mit dem Manöver des Anlegens begonnen, hat die übrige Schiffahrt diesen Umstand zu berücksichtigen und mit der gebotenen Vorsicht zu navigieren.
 
@@ -1202,13 +1168,11 @@ als Massengut befördern,
 
 3. wenn andere Fahrzeuge oder Anlagen nicht gefährdet werden.
 
-
-## § 34 – Umschlag
+# § 34 – Umschlag
 
 Außerhalb der Häfen und Umschlagstellen ist der Umschlag einschließlich des Bunkerns nur auf den nach § 60 Abs. 1 hierfür bekanntgemachten Reeden und Liegestellen und nur unter Einhaltung der bekanntgemachten Voraussetzungen gestattet.
 
-
-## § 35 – Ankern, Anlegen, Festmachen und Vorbeifahren von und an Fahrzeugen, die bestimmte gefährliche Güter befördern
+# § 35 – Ankern, Anlegen, Festmachen und Vorbeifahren von und an Fahrzeugen, die bestimmte gefährliche Güter befördern
 
 (1) Fahrzeuge, die bestimmte gefährliche Güter (§ 2 Abs. 1 Nr. 16) befördern, dürfen nur auf den nach § 60 Abs. 1 bekanntgemachten Reeden und Liegestellen und nur unter Einhaltung der bekanntgemachten Voraussetzungen ankern oder festmachen.
 
@@ -1220,8 +1184,7 @@ Außerhalb der Häfen und Umschlagstellen ist der Umschlag einschließlich des B
 
 (5) Festgemachte Fahrzeuge, die bestimmte gefährliche Güter befördern, sowie Fahrzeuge, die in deren Nähe liegen, müssen jederzeit sofort verholen können.
 
-
-## § 36 – Umschlag bestimmter gefährlicher Güter
+# § 36 – Umschlag bestimmter gefährlicher Güter
 
 (1) Der Umschlag bestimmter gefährlicher Güter (§ 2 Abs. 1 Nr. 16) ist nur auf den hierfür nach § 60 Abs. 1 bekanntgemachten Reeden und Liegestellen und nur unter Einhaltung der bekanntgemachten Voraussetzungen gestattet. Der Umschlag ist der zuständigen Schiffahrtspolizeibehörde rechtzeitig vorher anzuzeigen.
 
@@ -1233,8 +1196,7 @@ Außerhalb der Häfen und Umschlagstellen ist der Umschlag einschließlich des B
 
 (5) Unberührt bleiben alle sonstigen Vorschriften, die den Umgang mit gefährlichen Gütern betreffen.
 
-
-## § 37 – Verhalten bei Schiffsunfällen und bei Verlust von Gegenständen
+# § 37 – Verhalten bei Schiffsunfällen und bei Verlust von Gegenständen
 
 (1) Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem Fahrwasser zu schaffen, daß die Schiffahrt nicht beeinträchtigt wird. Nach einem Zusammenstoß ist hierzu auch der Führer eines beteiligten schwimmfähig gebliebenen Fahrzeugs verpflichtet.
 
@@ -1260,13 +1222,11 @@ beeinträchtigt oder gefährdet, so ist das zuständige Wasserstraßen- und Schi
 
 4. Geräte mit glühenden oder Funken gebenden Teilen stillgelegt werden.
 
-
-## § 38 – Ausübung der Fischerei und der Jagd
+# § 38 – Ausübung der Fischerei und der Jagd
 
 Auf den nach § 60 Abs. 1 bekanntgemachten Wasserflächen ist das Fischen für bestimmte Arten der Fischerei, Schießen oder Jagen verboten. Für Fahrzeuge der Berufsfischerei gilt das Ankerverbot nicht im Fahrwasser, mit Ausnahme auf den nach Satz 1 bekanntgemachten Wasserflächen.
 
-
-## § 39 – Fahrpläne für Fahrgastschiffe und Fähren
+# § 39 – Fahrpläne für Fahrgastschiffe und Fähren
 
 (1) Fahrgastschiffe und Fähren dürfen die Fahrgastbeförderung nur von Anlegestellen aus durchführen, die nach § 31 Abs. 1 Nr. 2 und Abs. 3 des Bundeswasserstraßengesetzes genehmigt oder rechtmäßig vorhanden sind. Die Vorschriften über Bewilligungen, Erlaubnisse und Genehmigungen für die Einrichtung der Anlegestellen, die Fahrgastschiffahrt und den Fährbetrieb bleiben unberührt.
 
@@ -1276,8 +1236,7 @@ Auf den nach § 60 Abs. 1 bekanntgemachten Wasserflächen ist das Fischen für b
 
 (4) Das Ausbooten von Fahrgästen und das Übersteigen von Fahrgästen von einem Fahrzeug auf ein anderes ist verboten, es sei denn, örtliche Verhältnisse oder besondere Umstände erfordern dies.
 
-
-## § 40 – Mitführen von Unterlagen
+# § 40 – Mitführen von Unterlagen
 
 Der Schiffsführer eines Binnenschiffs hat dafür zu sorgen, dass sich an Bord des Fahrzeugs jeweils ein Abdruck dieser Verordnung und der Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See befinden. Als Abdruck gilt auch eine elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden kann. Die Sätze 1 und 2 gelten nicht für
 
@@ -1285,13 +1244,11 @@ Der Schiffsführer eines Binnenschiffs hat dafür zu sorgen, dass sich an Bord d
 
 2. Schubleichter und andere Fahrzeuge ohne Antriebsmaschine, die nicht über Wohnräume, Steuerhäuser oder Aufenthaltsräume verfügen.
 
-
-## § 41 – Geltungsbereich
+# § 41 – Geltungsbereich
 
 Auf dem Nord-Ostsee-Kanal und seinen Zufahrten gelten die Vorschriften dieses Abschnitts zusätzlich zu den übrigen Vorschriften dieser Verordnung, insbesondere zu den in § 23 Abs. 3 Nr. 3 und Abs. 5, § 24 Abs. 4, § 29 Abs. 2 und § 32 Abs. 1 Nr. 5 enthaltenen Sondervorschriften für den Nord-Ostsee-Kanal.
 
-
-## § 42 – Zulassung
+# § 42 – Zulassung
 
 (1) Der Nord-Ostsee-Kanal darf von Fahrzeugen sowie von Schub- und Schleppverbänden nur befahren werden, wenn
 
@@ -1325,8 +1282,7 @@ Dies gilt für schwimmende Geräte und schwimmende Anlagen entsprechend.
 
 (7) Fahrzeuge dürfen außerhalb der Weichengebiete, öffentlichen Häfen, Umschlags- und sonstigen Liegestellen aus anderen als verkehrsbedingten Gründen nicht liegen.
 
-
-## § 43 – An- und Abmeldung
+# § 43 – An- und Abmeldung
 
 (1) Der Fahrzeugführer oder sein Beauftragter hat die Kanalfahrt umgehend nach dem Einfahren in die Schleusen Brunsbüttel, Kiel-Holtenau oder Gieselau beim zuständigen Wasserstraßen- und Schifffahrtsamt unter Vorlage der nach § 60 Abs. 1 bekanntgemachten Unterlagen anzumelden.
 
@@ -1334,13 +1290,11 @@ Dies gilt für schwimmende Geräte und schwimmende Anlagen entsprechend.
 
 (3) Von den Liegestellen im Achterwehrer Schiffahrtskanal darf nur nach Anmeldung bei der Schleusenaufsicht abgelegt werden; dies gilt nicht für Sportfahrzeuge.
 
-
-## § 44
+# § 44
 
 (aufgehoben)
 
-
-## § 45 – Verkehr in den Zufahrten
+# § 45 – Verkehr in den Zufahrten
 
 Die Zufahrten dürfen nur von Fahrzeugen benutzt werden, die in den Nord-Ostsee-Kanal einlaufen oder ihn verlassen. Dies gilt nicht
 
@@ -1352,8 +1306,7 @@ Die Zufahrten dürfen nur von Fahrzeugen benutzt werden, die in den Nord-Ostsee-
 
 4. für Fahrzeuge der Strom- und Schiffahrtspolizei, Lotsenversetzfahrzeuge und zugelassene Schlepper.
 
-
-## § 46 – Vorfahrt beim Einlaufen in die Schleusen und beim Auslaufen
+# § 46 – Vorfahrt beim Einlaufen in die Schleusen und beim Auslaufen
 
 (1) Die in den nachfolgenden Absätzen enthaltenen Regelungen gelten abweichend von der Regel 9 Buchstabe b bis d und den Regeln 15 und 18 Buchstabe a bis c der Kollisionsverhütungsregeln.
 
@@ -1361,15 +1314,13 @@ Die Zufahrten dürfen nur von Fahrzeugen benutzt werden, die in den Nord-Ostsee-
 
 (3) In Brunsbüttel und in Kiel-Holtenau haben die aus den Neuen Schleusen auslaufenden Fahrzeuge Vorfahrt gegenüber den aus den Alten Schleusen auslaufenden Fahrzeugen.
 
-
-## § 47 – Verbot des Einlaufens in die Schleusen und des Auslaufens
+# § 47 – Verbot des Einlaufens in die Schleusen und des Auslaufens
 
 (1) Bei verminderter Sicht dürfen Fahrzeuge nicht aus den Schleusen nach den Binnenhäfen und in Kiel-Holtenau auch nicht nach dem Schleusenvorhafen auslaufen, solange von dort andere Fahrzeuge in die Schleusen einlaufen.
 
 (2) In Brunsbüttel dürfen Fahrzeuge nicht in den Schleusenvorhafen auslaufen, solange andere Fahrzeuge von der Elbe her in den jeweiligen Schleusenvorhafen einlaufen. Fahrzeuge mit einem bestimmten Tiefgang dürfen bei nach § 60 Abs. 1 bekanntgemachten Wasserständen nicht in die Schleusen einlaufen oder aus ihnen auslaufen.
 
-
-## § 48 – Fahrabstand
+# § 48 – Fahrabstand
 
 (1) Außerhalb der Weichengebiete und Schleusen des Nord-Ostsee-Kanals mit Ausnahme eines Bereiches von 1000 Metern vor und 2000 Metern hinter den Grenzen der Weichengebiete haben Fahrzeuge
 
@@ -1381,8 +1332,7 @@ von einem vorausfahrenden Fahrzeug einzuhalten, es sei denn, daß sie dieses gem
 
 (2) Von und gegenüber Fahrzeugen von weniger als 20 Metern Länge kann der vorgeschriebene Mindestabstand geringer sein.
 
-
-## § 49 – Verhalten vor und in den Weichengebieten
+# § 49 – Verhalten vor und in den Weichengebieten
 
 (1) In die Weichengebiete ist zügig einzulaufen.
 
@@ -1394,8 +1344,7 @@ von einem vorausfahrenden Fahrzeug einzuhalten, es sei denn, daß sie dieses gem
 
 (5) Fahrzeugen ist das Liegen in den Weichengebieten aus anderen als verkehrs- oder wetterbedingten Gründen nur mit Zustimmung der zuständigen Verkehrszentrale gestattet.
 
-
-## § 50 – Fahrregeln für Freifahrer und Schub- und Schleppverbände
+# § 50 – Fahrregeln für Freifahrer und Schub- und Schleppverbände
 
 (1) Freifahrer dürfen bei verminderter Sicht auf dem Nord-Ostsee-Kanal nur fahren, wenn
 
@@ -1417,8 +1366,7 @@ Andernfalls hat das Fahrzeug die Kanalfahrt zu unterbrechen und im nächsten Wei
 
 (4) Schleppverbände haben bei verminderter Sicht und bei Sturm die Kanalfahrt zu unterbrechen und möglichst in einem Weichengebiet festzumachen.
 
-
-## § 51 – Fahrregeln für Sportfahrzeuge
+# § 51 – Fahrregeln für Sportfahrzeuge
 
 (1) Sportfahrzeuge dürfen die Zufahrten und den Nord-Ostsee-Kanal lediglich zur Durchfahrt, nur während der Tagfahrzeiten im Sinne des § 50 Abs. 2 und nicht bei verminderter Sicht benutzen. Dies gilt nicht bei Annahme eines Lotsen oder für das Aufsuchen der für Sportfahrzeuge zugelassenen Liegestellen im Schleusenvorhafen Kiel-Holtenau und im Binnenhafen Brunsbüttel oder das beim Schleusenmeister angemeldete Ausschleusen zur Elbe.
 
@@ -1438,32 +1386,27 @@ Sportfahrzeuge mit Maschinenantrieb dürfen zusätzlich die Segel setzen.
 
 (6) Ein motorbetriebenes Sportfahrzeug darf nur ein Sportfahrzeug schleppen, wobei das geschleppte Sportfahrzeug nur eine Länge von weniger als 15 Metern haben darf. Die Mindestgeschwindigkeit des Schleppverbandes muß 9 Kilometer (4,9 Seemeilen) in der Stunde betragen.
 
-
-## § 52
+# § 52
 
 (aufgehoben)
 
-
-## § 53 – Fahrregeln und Festmachen auf dem Gieselaukanal
+# § 53 – Fahrregeln und Festmachen auf dem Gieselaukanal
 
 (1) Das Befahren des Gieselaukanals ist nur während der Tagfahrzeiten im Sinne des § 50 Abs. 2 gestattet.
 
 (2) Sportfahrzeuge dürfen nur für eine Übernachtung und nur an der südlich der Gieselauschleuse befindlichen Liegestelle festmachen.
 
-
-## § 54
+# § 54
 
 (aufgehoben)
 
-
-## § 55 – Schifffahrtspolizei
+# § 55 – Schifffahrtspolizei
 
 (1) Schifffahrtspolizeibehörden sind die Generaldirektion Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten, für die Seeschifffahrtsstraßen zuständigen Wasserstraßen- und Schifffahrtsämter; sie bedienen sich nach Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die Ausübung der schifffahrtspolizeilichen Vollzugsaufgaben der Wasserschutzpolizei der Küstenländer sowie nach Maßgabe des § 3 Absatz 2 des Seeaufgabengesetzes der Bundespolizei und der Zollverwaltung.
 
 (2) Örtliche Maßnahmen der Schifffahrtspolizei treffen die Wasserstraßen- und Schifffahrtsämter. Wenn sich eine Maßnahme über den Bezirk eines Wasserstraßen- und Schifffahrtsamtes hinaus auswirkt, ist dasjenige Amt zuständig, in dessen Bezirk der zu regelnde Sachverhalt zuerst eintritt. Die Generaldirektion Wasserstraßen und Schifffahrt kann abweichend hiervon die Zuständigkeit für bestimmte schifffahrtspolizeiliche Aufgaben auf einer Seeschifffahrtsstraße einem bestimmten Wasserstraßen- und Schifffahrtsamt übertragen. Ist eine Maßnahme von grundsätzlicher Bedeutung, trifft sie die Generaldirektion Wasserstraßen und Schifffahrt. Schifffahrtspolizeiliche Maßnahmen, die keinen Aufschub dulden, können auch von der Wasserschutzpolizei getroffen werden.
 
-
-## § 55a – Verkehrszentralen
+# § 55a – Verkehrszentralen
 
 Die Verkehrszentralen sind im Rahmen der entsprechend den Erfordernissen des jeweiligen Reviers eingerichteten maritimen Verkehrssicherung für folgende Maßnahmen zuständig:
 
@@ -1475,15 +1418,13 @@ Die Verkehrszentralen sind im Rahmen der entsprechend den Erfordernissen des jew
 
 4. Verkehrslenkung auf dem Nord-Ostsee-Kanal.
 
-
-## § 56 – Schiffahrtspolizeiliche Verfügungen
+# § 56 – Schiffahrtspolizeiliche Verfügungen
 
 (1) Die Schiffahrtspolizeibehörden können zur Erfüllung der Aufgaben nach § 3 des Seeaufgabengesetzes Anordnungen erlassen, die an bestimmte Personen oder an einen bestimmten Personenkreis gerichtet sind und ein Gebot oder Verbot enthalten (Schiffahrtspolizeiliche Verfügungen).
 
 (2) Schiffahrtspolizeiliche Verfügungen gehen den Vorschriften dieser Verordnung und den durch Schiffahrtszeichen getroffenen Anordnungen vor.
 
-
-## § 57 – Schiffahrtspolizeiliche Genehmigungen
+# § 57 – Schiffahrtspolizeiliche Genehmigungen
 
 (1) Einer schiffahrtspolizeilichen Genehmigung des nach § 55 Absatz 2 zuständigen Wasserstraßen- und Schifffahrtsamtes bedürfen
 
@@ -1499,8 +1440,7 @@ Die Verkehrszentralen sind im Rahmen der entsprechend den Erfordernissen des jew
 
 6. wassersportliche Veranstaltungen auf dem Wasser,
 
-6a.  
-Parasailing,
+6a. Parasailing,
 
 7. sonstige Veranstaltungen auf oder an Seeschiffahrtsstraßen, die die Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen oder eine Gefahr für die Meeresumwelt darstellen können.
 
@@ -1516,8 +1456,7 @@ c) die eine Gefahr für die Meeresumwelt verhindern oder beseitigen.
 
 Die Genehmigung wird für eine bestimmte angemessene Frist erteilt.
 
-
-## § 58 – Schiffahrtspolizeiliche Meldungen
+# § 58 – Schiffahrtspolizeiliche Meldungen
 
 (1) Die Führer von Fahrzeugen, Schub- und Schleppverbänden, die die nach § 60 Abs. 1 bekannt gemachten Abmessungen und Größen überschreiten, sowie von Fahrzeugen im Sinne des § 30 Abs. 1 haben der nach § 60 Abs. 1 bekannt gemachten Verkehrszentrale folgende Angaben zu melden:
 
@@ -1555,13 +1494,11 @@ d) Passierzeit des Fahrzeugs;
 
 (3) Sind Schiffe mit AIS ausgerüstet und befinden sich diese in einem nach § 60 Abs. 1 bekannt gemachten Bereich, haben die Schiffsführer die Meldungen nach Absatz 1 Nr. 1 und 2 über AIS abzugeben. Die Meldung des Namens und der Position hat zusätzlich über UKW-Sprechfunk zu erfolgen.
 
-
-## § 59 – Befreiung
+# § 59 – Befreiung
 
 Die Schiffahrtspolizeibehörden können von Vorschriften dieser Verordnung im Einzelfall befreien.
 
-
-## § 60 – Ermächtigung zum Erlaß von schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
+# § 60 – Ermächtigung zum Erlaß von schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, die in den vorstehenden Vorschriften vorgesehenen Bekanntmachungen zu erlassen, wenn und soweit dies zur Abwehr von Gefahren für die Sicherheit und Leichtigkeit des Verkehrs, zur Abwehr von Gefahren für die Meeresumwelt oder zur Verhütung von der Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes erforderlich ist. Die Bekanntmachungen sind im Bundesanzeiger zu veröffentlichen.
 
@@ -1569,21 +1506,17 @@ Die Schiffahrtspolizeibehörden können von Vorschriften dieser Verordnung im Ei
 
 (3) Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt, durch Rechtsverordnung Anordnungen vorübergehender Art mit einer Geltungsdauer von höchstens drei Jahren zu erlassen, die aus besonderen Anlässen für die Sicherheit und Leichtigkeit des Verkehrs auf den Seeschifffahrtsstraßen, zur Abwehr von Gefahren für die Meeresumwelt oder zur Verhütung von der Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes erforderlich werden. Die Rechtsverordnungen können insbesondere veranlasst sein durch Arbeiten in der Wasserstraße, öffentliche Veranstaltungen oder durch die Fahrwasserverhältnisse. Satz 1 ist auch auf Rechtsverordnungen anzuwenden, die notwendig sind, um bis zu einer Änderung dieser Verordnung oder zu Versuchszwecken schifffahrtspolizeiliche Maßnahmen zu treffen.
 
-
-## § 61 – Ordnungswidrigkeiten
+# § 61 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes oder im Sinne des § 7 Abs. 1 des Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 3 Abs. 1 Satz 1 sich nicht so verhält, dass kein Anderer geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar, behindert oder belästigt wird,
 
-1a.  
-entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
+1a. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er infolge körperlicher oder geistiger Mängel oder des Genusses alkoholischer Getränke oder anderer berauschender Mittel in der sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
-1b.  
-entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
+1b. entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt,
 
-1c.  
-entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
+1c. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
 
 2. der Vorschrift des § 4 Abs. 2 über die Beratung der Schiffsführung oder des Absatzes 4 über die Bestimmung des verantwortlichen Fahrzeugführers zuwiderhandelt,
 
@@ -1621,8 +1554,7 @@ entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich nimmt ode
 
 19. einer Vorschrift des § 39 über die Fahrgastschiffahrt oder den Fährbetrieb zuwiderhandelt,
 
-19a.  
-entgegen § 40 Satz 1 als Schiffsführer nicht dafür sorgt, dass sich ein Abdruck der dort genannten Verordnungen an Bord befindet,
+19a. entgegen § 40 Satz 1 als Schiffsführer nicht dafür sorgt, dass sich ein Abdruck der dort genannten Verordnungen an Bord befindet,
 
 20. den Nord-Ostsee-Kanal mit einem Fahrzeug befährt, das die Voraussetzungen nach § 42 Abs. 1 nicht erfüllt,
 
@@ -1666,13 +1598,11 @@ entgegen § 40 Satz 1 als Schiffsführer nicht dafür sorgt, dass sich ein Abdru
 
 (4) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 15 Abs. 1 Nr. 1 des Seeaufgabengesetzes wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen. Dies gilt auch, soweit die Ordnungswidrigkeiten auf einem deutschen Schiff außerhalb der deutschen Hoheitsgewässer begangen werden.
 
-
-## § 62
+# § 62
 
 (Inkrafttreten; Aufhebung von Vorschriften)
 
-
-## Anlage I – Schiffahrtszeichen
+# Anlage I – Schiffahrtszeichen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3228 - 3251;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1907,8 +1837,7 @@ Rasches Läuten der Glocke ... (Abb.)
 Abschnitt I - Sichtzeichen
 
   
-A.  
-Gebots- und Verbotszeichen
+A. Gebots- und Verbotszeichen
 
 A.1  
 Überholverbot
@@ -2469,8 +2398,7 @@ Einfahren verboten:
 ein rotes schnelles Funkellicht.... (Abb.)
 
   
-B.  
-Warnzeichen und Hinweiszeichen
+B. Warnzeichen und Hinweiszeichen
 
 B.1  
 Fährstelle
@@ -3302,8 +3230,7 @@ in die linke Schleusenkammer:
 
 Doppelschläge der Glocke alle 3 Sekunden.... (Abb.)
 
-
-## Anlage II – Sichtzeichen und Schallsignale der Fahrzeuge
+# Anlage II – Sichtzeichen und Schallsignale der Fahrzeuge
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3252 - 3262;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -3865,14 +3792,12 @@ fünf kurze Töne oder mehr. ... (Abb.)
 
 8. (aufgehoben)
 
-
-## Anlage III – Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung  (zu § 1 Abs. 5)
+# Anlage III – Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung  (zu § 1 Abs. 5)
 
 (Inhalt: nicht darstellbare kartographische Karte;  
 Fundstelle: BGBl. I 1998, 3264)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1108)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III  (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  
 1. - 7. ...

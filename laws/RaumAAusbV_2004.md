@@ -1,30 +1,23 @@
-# [RaumAAusbV 2004] Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
-
-Ausfertigungsdatum: 18.05.2004
-
+% Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
+% Ausfertigungsdatum: 18.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Raumausstatter/Raumausstatterin wird gemäß § 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 27, Raumausstatter, der Anlage B Abschnitt 1 der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse unter Berücksichtigung der Schwerpunkte Boden, Polstern, Raumdekoration, Licht-, Sicht- und Sonnenschutzanlagen sowie Wand- und Deckendekoration so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 8 und 9 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -68,23 +61,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 20. Durchführen qualitätssichernder Maßnahmen, Kundenservice.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -92,8 +81,7 @@ Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu
 
 (3) Der Prüfling soll in höchstens zehn Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen und dokumentieren sowie innerhalb dieser Zeit in höchstens 15 Minuten hierüber ein Fachgespräch führen, das aus mehreren Gesprächsphasen bestehen kann. Hierfür kommt insbesondere das Herstellen einer Raumsituation unter Berücksichtigung von Polsterarbeiten, Dekorationsarbeiten, Wand- und Bodenarbeiten in Betracht. Dabei soll der Prüfling zeigen, dass er Arbeitsabläufe planen, Arbeitsmittel festlegen, Skizzen erstellen und nutzen, Arbeitsabläufe dokumentieren, Ergebnisse kontrollieren und beurteilen, Grundsätze der Kundenorientierung sowie Anforderungen des Sicherheits- und Gesundheitsschutzes, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, dass er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Durchführung der Arbeitsaufgabe begründen kann.
 
-
-## § 9 – Gesellenprüfung
+# § 9 – Gesellenprüfung
 
 (1) Die Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -138,23 +126,19 @@ Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 (7) Die Prüfung ist bestanden, wenn im Prüfungsteil A und im Prüfungsteil B jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem dritten Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 9a – Anrechnungsregelung
+# § 9a – Anrechnungsregelung
 
 Auf die Berufsausbildung nach dieser Verordnung können die in dem abgeschlossenen Ausbildungsberuf Polster- und Dekorationsnäher/ Polster- und Dekorationsnäherin erworbenen beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten bis zum vollen Umfang der dort zurückgelegten Ausbildungszeit angerechnet werden; § 8 Abs. 1 und 2 des Berufsbildungsgesetzes bleibt unberührt.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
+# Anlage – (zu § 5)  Ausbildungsrahmenplan für die Berufsausbildung zum Raumausstatter/zur Raumausstatterin
 
 (Fundstelle: BGBl. I 2004, 983 - 991)  
 

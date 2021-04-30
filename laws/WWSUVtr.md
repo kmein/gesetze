@@ -1,10 +1,7 @@
-# [WWSUVtr] Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
-
-Ausfertigungsdatum: 18.05.1990
-
+% Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
+% Ausfertigungsdatum: 18.05.1990
  
-
-## ----
+# ----
 
 Die Hohen Vertragschließenden Seiten -  
 dank der Tatsache, daß in der Deutschen Demokratischen Republik im Herbst 1989 eine friedliche und demokratische Revolution stattgefunden hat,  
@@ -15,8 +12,7 @@ in der Erkenntnis, daß mit der Herstellung der staatlichen Einheit die Entwickl
 in dem Bewußtsein, daß die Regelungen dieses Vertrags die Anwendung des Rechts der Europäischen Gemeinschaften nach Herstellung der staatlichen Einheit gewährleisten sollen -  
 sind übereingekommen, einen Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion mit den nachfolgenden Bestimmungen zu schließen:
 
-
-## Art 1 – Gegenstand des Vertrags
+# Art 1 – Gegenstand des Vertrags
 
 (1) Die Vertragsparteien errichten eine Währungs-, Wirtschafts- und Sozialunion.
 
@@ -26,20 +22,17 @@ sind übereingekommen, einen Vertrag über die Schaffung einer Währungs-, Wirts
 
 (4) Die Sozialunion bildet mit der Währungs- und Wirtschaftsunion eine Einheit. Sie wird insbesondere bestimmt durch eine der Sozialen Marktwirtschaft entsprechende Arbeitsrechtsordnung und ein auf den Prinzipien der Leistungsgerechtigkeit und des sozialen Ausgleichs beruhendes umfassendes System der sozialen Sicherung.
 
-
-## Art 2 – Grundsätze
+# Art 2 – Grundsätze
 
 (1) Die Vertragsparteien bekennen sich zur freiheitlichen, demokratischen, föderativen, rechtsstaatlichen und sozialen Grundordnung. Zur Gewährleistung der in diesem Vertrag oder in Ausführung dieses Vertrags begründeten Rechte garantieren sie insbesondere die Vertragsfreiheit, Gewerbe-, Niederlassungs- und Berufsfreiheit, die Freizügigkeit von Deutschen in dem gesamten Währungsgebiet, die Freiheit, zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen Vereinigungen zu bilden, sowie nach Maßgabe der Anlage IX das Eigentum privater Investoren an Grund und Boden sowie an Produktionsmitteln.
 
 (2) Entgegenstehende Vorschriften der Verfassung der Deutschen Demokratischen Republik über die Grundlagen ihrer bisherigen sozialistischen Gesellschafts- und Staatsordnung werden nicht mehr angewendet.
 
-
-## Art 3 – Rechtsgrundlagen
+# Art 3 – Rechtsgrundlagen
 
 Für die Errichtung der Währungsunion und die Währungsumstellung gelten die in der Anlage I aufgeführten vereinbarten Bestimmungen. Bis zur Errichtung der Währungsunion werden die in der Anlage II bezeichneten Rechtsvorschriften der Bundesrepublik Deutschland auf den Gebieten des Währungs-, Kredit-, Geld- und Münzwesens sowie der Wirtschafts- und Sozialunion in der Deutschen Demokratischen Republik in Kraft gesetzt; danach gelten sie in der jeweiligen Fassung im gesamten Währungsgebiet nach Maßgabe der Anlage II, soweit sich aus diesem Vertrag nichts anderes ergibt. Die Deutsche Bundesbank, das Bundesaufsichtsamt für das Kreditwesen und das Bundesaufsichtsamt für das Versicherungswesen üben die ihnen nach diesem Vertrag und nach diesen Rechtsvorschriften zustehenden Befugnisse im gesamten Geltungsbereich dieses Vertrags aus.
 
-
-## Art 4 – Rechtsanpassung
+# Art 4 – Rechtsanpassung
 
 (1) Für die mit der Errichtung der Währungs-, Wirtschafts- und Sozialunion erforderliche Rechtsanpassung in der Deutschen Demokratischen Republik gelten die in Artikel 2 Absatz 1 niedergelegten Grundsätze und die im Gemeinsamen Protokoll vereinbarten Leitsätze; fortbestehendes Recht ist gemäß diesen Grund- und Leitsätzen auszulegen und anzuwenden. Die Deutsche Demokratische Republik hebt bis zur Errichtung der Währungsunion die in der Anlage III bezeichneten Vorschriften auf oder ändert sie und erläßt die in der Anlage IV bezeichneten neuen Rechtsvorschriften, soweit nicht im Vertrag oder in den Anlagen ein anderer Zeitpunkt festgelegt ist.
 
@@ -47,13 +40,11 @@ Für die Errichtung der Währungsunion und die Währungsumstellung gelten die in
 
 (3) Bei der Übermittlung personenbezogener Informationen gelten die in der Anlage VII enthaltenen Grundsätze.
 
-
-## Art 5 – Amtshilfe
+# Art 5 – Amtshilfe
 
 Die Behörden der Vertragsparteien leisten sich nach Maßgabe des innerstaatlichen Rechts bei der Durchführung dieses Vertrags Amtshilfe. Artikel 32 bleibt unberührt.
 
-
-## Art 6 – Rechtsschutz
+# Art 6 – Rechtsschutz
 
 (1) Wird jemand durch die öffentliche Gewalt in seinen durch diesen Vertrag oder in Ausführung dieses Vertrags gewährleisteten Rechten verletzt, so steht ihm der Rechtsweg zu den Gerichten offen. Soweit eine andere Zuständigkeit nicht begründet ist, ist der ordentliche Rechtsweg gegeben.
 
@@ -63,8 +54,7 @@ Die Behörden der Vertragsparteien leisten sich nach Maßgabe des innerstaatlich
 
 (4) Die Deutsche Demokratische Republik läßt eine freie Schiedsgerichtsbarkeit auf dem Gebiet des Privatrechts zu.
 
-
-## Art 7 – Schiedsgericht
+# Art 7 – Schiedsgericht
 
 (1) Streitigkeiten über die Auslegung oder Anwendung dieses Vertrags einschließlich des Gemeinsamen Protokolls und der Anlagen werden durch die Regierungen der beiden Vertragsparteien im Verhandlungswege beigelegt.
 
@@ -78,18 +68,15 @@ Die Behörden der Vertragsparteien leisten sich nach Maßgabe des innerstaatlich
 
 (6) Die Bestimmungen über die Einberufung und das Verfahren des Schiedsgerichts sind in der Anlage VIII geregelt.
 
-
-## Art 8 – Gemeinsamer Regierungsausschuß
+# Art 8 – Gemeinsamer Regierungsausschuß
 
 Die Vertragsparteien bilden einen Gemeinsamen Regierungsausschuß. Sie werden in diesem Ausschuß Fragen der Durchführung des Vertrags erörtern und - soweit erforderlich - das notwendige Einvernehmen herstellen. Zu den Aufgaben des Ausschusses gehört auch die Beilegung von Streitigkeiten gemäß Artikel 7 Absatz 1.
 
-
-## Art 9 – Vertragsänderungen
+# Art 9 – Vertragsänderungen
 
 Erscheinen Änderungen oder Ergänzungen dieses Vertrags erforderlich, um eines seiner Ziele zu verwirklichen, so werden sie zwischen den Regierungen der Vertragsparteien vereinbart.
 
-
-## Art 10 – Voraussetzungen und Grundsätze
+# Art 10 – Voraussetzungen und Grundsätze
 
 (1) Durch die Errichtung einer Währungsunion zwischen den Vertragsparteien ist die Deutsche Mark Zahlungsmittel, Rechnungseinheit und Wertaufbewahrungsmittel im gesamten Währungsgebiet. Zu diesem Zweck wird die geldpolitische Verantwortung der Deutschen Bundesbank als alleiniger Emissionsbank dieser Währung auf das gesamte Währungsgebiet ausgeweitet. Das Recht zur Ausgabe von Münzen obliegt ausschließlich der Bundesrepublik Deutschland.
 
@@ -126,8 +113,7 @@ Mißbräuchen wird entgegengewirkt.
 
 (7) Die Deutsche Bundesbank übt die ihr nach diesem Vertrag und nach dem Gesetz über die Deutsche Bundesbank zustehenden Befugnisse im gesamten Währungsgebiet aus. Sie errichtet zu diesem Zweck eine Vorläufige Verwaltungsstelle in Berlin mit bis zu fünfzehn Filialen in der Deutschen Demokratischen Republik, wozu die Betriebsstellen der Staatsbank der Deutschen Demokratischen Republik genutzt werden.
 
-
-## Art 11 – Wirtschaftspolitische Grundlagen
+# Art 11 – Wirtschaftspolitische Grundlagen
 
 (1) Die Deutsche Demokratische Republik stellt sicher, daß ihre wirtschafts- und finanzpolitischen Maßnahmen mit der Sozialen Marktwirtschaft in Einklang stehen. Die Maßnahmen werden so getroffen, daß sie im Rahmen der marktwirtschaftlichen Ordnung gleichzeitig zur Stabilität des Preisniveaus, zu einem hohen Beschäftigungsstand und zu außenwirtschaftlichem Gleichgewicht bei stetigem und angemessenem Wirtschaftswachstum beitragen.
 
@@ -137,8 +123,7 @@ Mißbräuchen wird entgegengewirkt.
 
 (4) Die Regierung der Deutschen Demokratischen Republik wird bei Entscheidungen, welche die wirtschaftspolitischen Grundsätze der Absätze 1 und 2 berühren, das Einvernehmen mit der Regierung der Bundesrepublik Deutschland im Rahmen des Gemeinsamen Regierungsausschusses nach Artikel 8 herstellen.
 
-
-## Art 12 – Innerdeutscher Handel
+# Art 12 – Innerdeutscher Handel
 
 (1) Das zwischen den Vertragsparteien vereinbarte Berliner Abkommen vom 20. September 1951 wird im Hinblick auf die Währungs- und Wirtschaftsunion angepaßt. Der dort geregelte Verrechnungsverkehr wird beendet und der Abschlußsaldo des Swing wird ausgeglichen. Bestehende Verpflichtungen werden in Deutscher Mark abgewickelt.
 
@@ -146,8 +131,7 @@ Mißbräuchen wird entgegengewirkt.
 
 (3) Die Vertragsparteien sind bestrebt, so bald wie möglich die Voraussetzungen für einen vollständigen Wegfall der Kontrollen an der innerdeutschen Grenze zu schaffen.
 
-
-## Art 13 – Außenwirtschaft
+# Art 13 – Außenwirtschaft
 
 (1) Bei der Gestaltung des freien Außenwirtschaftsverkehrs trägt die Deutsche Demokratische Republik den Grundsätzen eines freien Welthandels, wie sie insbesondere im Allgemeinen Zoll- und Handelsabkommen (GATT) zum Ausdruck kommen, Rechnung. Die Bundesrepublik Deutschland wird zur weiteren Integration der Wirtschaft der Deutschen Demokratischen Republik in die Weltwirtschaft ihre Erfahrungen umfassend zur Verfügung stellen.
 
@@ -155,13 +139,11 @@ Mißbräuchen wird entgegengewirkt.
 
 (3) Zur Vertretung der außenwirtschaftlichen Interessen arbeiten die Vertragsparteien unter Beachtung der Zuständigkeiten der Europäischen Gemeinschaften eng zusammen.
 
-
-## Art 14 – Strukturanpassung der Unternehmen
+# Art 14 – Strukturanpassung der Unternehmen
 
 Um die notwendige Strukturanpassung der Unternehmen in der Deutschen Demokratischen Republik zu fördern, wird die Regierung der Deutschen Demokratischen Republik im Rahmen der haushaltspolitischen Möglichkeiten während einer Übergangszeit Maßnahmen ergreifen, die eine rasche strukturelle Anpassung der Unternehmen an die neuen Marktbedingungen erleichtern. Über die konkrete Ausgestaltung der Maßnahmen verständigen sich die Regierungen der Vertragsparteien. Ziel ist es, auf der Grundlage der Sozialen Marktwirtschaft die Leistungsfähigkeit der Unternehmen zu stärken und durch die Entfaltung privater Initiative eine breit gefächerte, moderne Wirtschaftsstruktur auch mit möglichst vielen kleinen und mittleren Betrieben in der Deutschen Demokratischen Republik zu erreichen, um so die Grundlage für mehr Wachstum und zukunftssichere Arbeitsplätze zu schaffen.
 
-
-## Art 15 – Agrar- und Ernährungswirtschaft
+# Art 15 – Agrar- und Ernährungswirtschaft
 
 (1) Wegen der zentralen Bedeutung der Regelungen der Europäischen Gemeinschaften für die Agrar- und Ernährungswirtschaft führt die Deutsche Demokratische Republik ein Preisstützungs- und Außenschutzsystem entsprechend dem EG-Marktordnungssystem ein, so daß sich die landwirtschaftlichen Erzeugerpreise in der Deutschen Demokratischen Republik denen in der Bundesrepublik Deutschland angleichen. Die Deutsche Demokratische Republik wird keine Abschöpfungen und Erstattungen gegenüber den Europäischen Gemeinschaften einführen, soweit diese entsprechend verfahren.
 
@@ -171,8 +153,7 @@ Um die notwendige Strukturanpassung der Unternehmen in der Deutschen Demokratisc
 
 (4) Über die konkrete Ausgestaltung der in den Absätzen 2 und 3 genannten Maßnahmen verständigen sich die Regierungen der Vertragsparteien.
 
-
-## Art 16 – Umweltschutz
+# Art 16 – Umweltschutz
 
 (1) Der Schutz von Menschen, Tieren und Pflanzen, Boden, Wasser, Luft, Klima und Landschaft sowie von Kultur- und sonstigen Sachgütern vor schädlichen Umwelteinwirkungen ist besonderes Anliegen beider Vertragsparteien. Sie lassen sich dabei von dem Vorsorge-, Verursacher- und Kooperationsprinzip leiten. Sie streben die schnelle Verwirklichung einer deutschen Umweltunion an.
 
@@ -184,13 +165,11 @@ Um die notwendige Strukturanpassung der Unternehmen in der Deutschen Demokratisc
 
 (5) Die Deutsche Demokratische Republik harmonisiert die Bestimmungen zur staatlichen Förderung von Umweltschutzmaßnahmen mit denen der Bundesrepublik Deutschland.
 
-
-## Art 17 – Grundsätze der Arbeitsrechtsordnung
+# Art 17 – Grundsätze der Arbeitsrechtsordnung
 
 In der Deutschen Demokratischen Republik gelten Koalitionsfreiheit, Tarifautonomie, Arbeitskampfrecht, Betriebsverfassung, Unternehmensmitbestimmung und Kündigungsschutz entsprechend dem Recht der Bundesrepublik Deutschland; näheres ergibt sich aus dem Gemeinsamen Protokoll über die Leitsätze und den Anlagen II und III.
 
-
-## Art 18 – Grundsätze der Sozialversicherung
+# Art 18 – Grundsätze der Sozialversicherung
 
 (1) Die Deutsche Demokratische Republik führt ein gegliedertes System der Sozialversicherung ein, für das folgende Grundsätze gelten:
 
@@ -219,13 +198,11 @@ Lohneinkünfte aus mehreren Arbeitsverhältnissen werden zusammengerechnet. Der 
 
 (5) Die Versicherungspflicht- und die Beitragsbemessungsgrenzen werden nach den Grundsätzen des Sozialversicherungsrechts der Bundesrepublik Deutschland festgelegt.
 
-
-## Art 19 – Arbeitslosenversicherung und Arbeitsförderung
+# Art 19 – Arbeitslosenversicherung und Arbeitsförderung
 
 Die Deutsche Demokratische Republik führt ein System der Arbeitslosenversicherung einschließlich Arbeitsförderung ein, das den Regelungen des Arbeitsförderungsgesetzes der Bundesrepublik Deutschland entspricht. Dabei haben Maßnahmen der aktiven Arbeitsmarktpolitik, wie berufliche Bildung und Umschulung, besondere Bedeutung. Belange der Frauen und Behinderten werden berücksichtigt. In der Übergangsphase wird Besonderheiten in der Deutschen Demokratischen Republik Rechnung getragen. Die Regierungen beider Vertragsparteien werden beim Aufbau der Arbeitslosenversicherung einschließlich Arbeitsförderung eng zusammenarbeiten.
 
-
-## Art 20 – Rentenversicherung
+# Art 20 – Rentenversicherung
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen Maßnahmen ein, um ihr Rentenrecht an das auf dem Grundsatz der Lohn- und Beitragsbezogenheit beruhende Rentenversicherungsrecht der Bundesrepublik Deutschland anzugleichen. Dabei wird in einer Übergangszeit von fünf Jahren für die rentennahen Jahrgänge dem Grundsatz des Vertrauensschutzes Rechnung getragen.
 
@@ -241,8 +218,7 @@ Die Deutsche Demokratische Republik führt ein System der Arbeitslosenversicheru
 
 (7) Personen, die nach dem 18. Mai 1990 ihren gewöhnlichen Aufenthalt aus dem Gebiet der einen Vertragspartei in das Gebiet der anderen Vertragspartei verlegt haben, erhalten von dem bisher zuständigen Rentenversicherungsträger ihre nach den für ihn geltenden Rechtsvorschriften berechnete Rente für die dort zurückgelegten Zeiten.
 
-
-## Art 21 – Krankenversicherung
+# Art 21 – Krankenversicherung
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen Maßnahmen ein, um ihr Krankenversicherungsrecht an das der Bundesrepublik Deutschland anzugleichen.
 
@@ -254,8 +230,7 @@ Die Deutsche Demokratische Republik führt ein System der Arbeitslosenversicheru
 
 (5) Die Investitionen bei stationären und ambulanten Einrichtungen des Gesundheitswesens der Deutschen Demokratischen Republik werden aus Mitteln des Staatshaushalts und nicht aus Beitragsmitteln finanziert.
 
-
-## Art 22 – Gesundheitswesen
+# Art 22 – Gesundheitswesen
 
 (1) Die medizinische Betreuung und der Schutz der Gesundheit der Menschen sind besonderes Anliegen der Vertragsparteien.
 
@@ -263,8 +238,7 @@ Die Deutsche Demokratische Republik führt ein System der Arbeitslosenversicheru
 
 (3) Zum Aufbau der erforderlichen vertraglichen, insbesondere vergütungsrechtlichen Beziehungen zwischen Trägern der Krankenversicherung und den Leistungserbringern wird die Deutsche Demokratische Republik die erforderlichen gesetzlichen Rahmenbedingungen schaffen.
 
-
-## Art 23 – Renten der Unfallversicherung
+# Art 23 – Renten der Unfallversicherung
 
 (1) Die Deutsche Demokratische Republik leitet alle erforderlichen Maßnahmen ein, um ihr Unfallversicherungsrecht an das der Bundesrepublik Deutschland anzugleichen.
 
@@ -274,18 +248,15 @@ Die Deutsche Demokratische Republik führt ein System der Arbeitslosenversicheru
 
 (4) Artikel 20 Absatz 4 und 7 gilt entsprechend.
 
-
-## Art 24 – Sozialhilfe
+# Art 24 – Sozialhilfe
 
 Die Deutsche Demokratische Republik führt ein System der Sozialhilfe ein, das dem Sozialhilfegesetz der Bundesrepublik Deutschland entspricht.
 
-
-## Art 25 – Anschubfinanzierung
+# Art 25 – Anschubfinanzierung
 
 Soweit in einer Übergangszeit in der Arbeitslosenversicherung der Deutschen Demokratischen Republik die Beiträge und in der Rentenversicherung der Deutschen Demokratischen Republik die Beiträge und der Staatszuschuß die Ausgaben für die Leistungen nicht voll abdecken, leistet die Bundesrepublik Deutschland an die Deutsche Demokratische Republik eine vorübergehende Anschubfinanzierung im Rahmen der nach Artikel 28 zugesagten Haushaltshilfe.
 
-
-## Art 26 – Grundsätze für die Finanzpolitik der Deutschen Demokratischen Republik
+# Art 26 – Grundsätze für die Finanzpolitik der Deutschen Demokratischen Republik
 
 (1) Die öffentlichen Haushalte in der Deutschen Demokratischen Republik werden von der jeweiligen Gebietskörperschaft grundsätzlich in eigener Verantwortung unter Beachtung der Erfordernisse des gesamtwirtschaftlichen Gleichgewichts aufgestellt. Ziel ist eine in die marktwirtschaftliche Ordnung eingepaßte Haushaltswirtschaft. Die Haushalte werden in Einnahmen und Ausgaben ausgeglichen. Alle Einnahmen und Ausgaben werden in den jeweiligen Haushaltsplan eingestellt.
 
@@ -323,8 +294,7 @@ Bei den Einnahmen erfordert die Defizitbegrenzung neben Maßnahmen des 2. Abschn
 
 (4) Es wird eine Bestandsaufnahme des volkseigenen Vermögens vorgenommen. Das volkseigene Vermögen ist vorrangig für die Strukturanpassung der Wirtschaft und für die Sanierung des Staatshaushalts in der Deutschen Demokratischen Republik zu nutzen.
 
-
-## Art 27 – Kreditaufnahme und Schulden
+# Art 27 – Kreditaufnahme und Schulden
 
 (1) Die Kreditermächtigungen in den Haushalten der Gebietskörperschaften der Deutschen Demokratischen Republik werden für 1990 auf 10 Milliarden Deutsche Mark und für 1991 auf 14 Milliarden Deutsche Mark begrenzt und im Einvernehmen mit dem Bundesminister der Finanzen der Bundesrepublik Deutschland auf die Ebenen verteilt. Für das Treuhandvermögen wird zur Vorfinanzierung zu erwartender Erlöse aus seiner Verwertung ein Kreditermächtigungsrahmen für 1990 von 7 Milliarden Deutsche Mark und für 1991 von 10 Milliarden Deutsche Mark festgelegt. Der Bundesminister der Finanzen der Bundesrepublik Deutschland kann bei grundlegend veränderten Bedingungen eine Überschreitung der Kreditobergrenzen zulassen.
 
@@ -332,20 +302,17 @@ Bei den Einnahmen erfordert die Defizitbegrenzung neben Maßnahmen des 2. Abschn
 
 (3) Nach dem Beitritt wird die aufgelaufene Verschuldung des Republikhaushalts in dem Umfang an das Treuhandvermögen übertragen, soweit sie durch die zu erwartenden künftigen Erlöse aus der Verwertung des Treuhandvermögens getilgt werden kann. Die danach verbleibende Verschuldung wird je zur Hälfte auf den Bund und die Länder, die sich auf dem Gebiet der Deutschen Demokratischen Republik neu gebildet haben, aufgeteilt. Von den Ländern und Gemeinden aufgenommene Kredite verbleiben bei diesen.
 
-
-## Art 28 – Finanzzuweisungen der Bundesrepublik Deutschland
+# Art 28 – Finanzzuweisungen der Bundesrepublik Deutschland
 
 (1) Die Bundesrepublik Deutschland gewährt der Deutschen Demokratischen Republik zweckgebundene Finanzzuweisungen zum Haushaltsausgleich für das 2. Halbjahr 1990 von 22 Milliarden Deutsche Mark und für 1991 von 35 Milliarden Deutsche Mark. Außerdem werden gemäß Artikel 25 zu Lasten des Bundeshaushalts als Anschubfinanzierung für die Rentenversicherung 750 Millionen Deutsche Mark für das 2. Halbjahr 1990 sowie für die Arbeitslosenversicherung 2 Milliarden Deutsche Mark für das 2. Halbjahr 1990 und 3 Milliarden Deutsche Mark für 1991 gezahlt. Die Zahlungen erfolgen bedarfsgerecht.
 
 (2) Die Vertragsparteien stimmen darin überein, daß die gemäß Artikel 18 des Abkommens vom 17. Dezember 1971 über den Transitverkehr von zivilen Personen und Gütern zwischen der Bundesrepublik Deutschland und Berlin (West) zu zahlende Transitpauschale mit Inkrafttreten dieses Vertrags entfällt. Die Deutsche Demokratische Republik hebt die Vorschriften über die in diesem Abkommen sowie in dem Abkommen vom 31. Oktober 1979 über die Befreiung von Straßenfahrzeugen von Steuern und Gebühren geregelten Gebühren mit Wirkung für die beiden Vertragsparteien auf. In Abänderung der Vereinbarung vom 5. Dezember 1989 vereinbaren die Vertragsparteien, daß ab dem 1. Juli 1990 keine Einzahlungen in den Reise-Devisenfonds mehr geleistet werden. Über die Verwendung eines bei Einführung der Währungsunion noch vorhandenen Betrags der Gegenwertmittel aus dem Reise-Devisenfonds wird zwischen den Finanzministern der Vertragsparteien eine ergänzende Vereinbarung getroffen.
 
-
-## Art 29 – Übergangsregelung im öffentlichen Dienst
+# Art 29 – Übergangsregelung im öffentlichen Dienst
 
 Die Regierung der Deutschen Demokratischen Republik gewährleistet unter Beachtung von Artikel 2 Absatz 1 Satz 1, daß in Tarifverträgen oder sonstigen Regelungen im Bereich der öffentlichen Verwaltung unter Beschränkung neuer dienstrechtlicher Vorschriften auf Übergangsregelungen die allgemeinen wirtschaftlichen und finanziellen Verhältnisse in der Deutschen Demokratischen Republik und die Erfordernisse der Konsolidierung des Haushalts beachtet werden. Das Bundespersonalvertretungsgesetz findet sinngemäß Anwendung.
 
-
-## Art 30 – Zölle und besondere Verbrauchsteuern
+# Art 30 – Zölle und besondere Verbrauchsteuern
 
 (1) Die Deutsche Demokratische Republik übernimmt schrittweise im Einklang mit dem Grundsatz in Artikel 11 Absatz 3 das Zollrecht der Europäischen Gemeinschaften einschließlich des Gemeinsamen Zolltarifs sowie die besonderen Verbrauchsteuern nach Maßgabe der Anlage IV.
 
@@ -357,8 +324,7 @@ Die Regierung der Deutschen Demokratischen Republik gewährleistet unter Beachtu
 
 (5) Die Steuerentlastung für auszuführende Waren wird erst beim Nachweis der Ausfuhr in andere Gebiete als die der beiden Erhebungsgebiete gewährt.
 
-
-## Art 31 – Besitz- und Verkehrsteuern
+# Art 31 – Besitz- und Verkehrsteuern
 
 (1) Die Deutsche Demokratische Republik regelt die Besitz- und Verkehrsteuern nach Maßgabe der Anlage IV.
 
@@ -372,8 +338,7 @@ Die Regierung der Deutschen Demokratischen Republik gewährleistet unter Beachtu
 
 (6) Mitteilungs- und Anzeigepflichten, die sich aus dem Erbschaftsteuer- und Schenkungsteuerrecht der Vertragsparteien ergeben, gelten auch gegenüber den Finanzbehörden der jeweiligen anderen Vertragspartei.
 
-
-## Art 32 – Informationsaustausch
+# Art 32 – Informationsaustausch
 
 (1) Die Vertragsparteien tauschen die Informationen aus, die zur Durchführung ihres Abgaben- und Monopolrechts erforderlich sind. Zuständig für den Informationsaustausch sind die Finanzminister der Vertragsparteien und die von ihnen ermächtigten Behörden. Alle Informationen, die eine Vertragspartei erhalten hat, sind ebenso geheim zu halten wie die aufgrund ihres innerstaatlichen Rechts beschafften Informationen und dürfen nur den Personen oder Behörden (einschließlich der Gerichte und der Verwaltungsbehörden) zugänglich gemacht werden, die mit der Festsetzung oder Erhebung, der Vollstreckung oder Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der unter diesen Abschnitt fallenden Abgaben und Monopole befaßt sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie dürfen die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offenlegen.
 
@@ -388,42 +353,35 @@ Informationen zu erteilen, die nach den Gesetzen oder im üblichen Verwaltungsve
 \-  
 Informationen zu erteilen, die ein Handels-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren preisgeben würden oder deren Erteilung der öffentlichen Ordnung widerspräche.
 
-
-## Art 33 – Konsultationsverfahren
+# Art 33 – Konsultationsverfahren
 
 (1) Die Vertragsparteien werden sich bemühen, bei den Besitz- und Verkehrsteuern eine Doppelbesteuerung durch Verständigung über eine sachgerechte Abgrenzung der Besteuerungsgrundlagen zu vermeiden. Sie werden sich weiter bemühen, Schwierigkeiten oder Zweifel, die sich bei der Auslegung oder Anwendung ihres Rechts der unter diesen Abschnitt fallenden Abgaben und Monopole im Verhältnis zueinander ergeben, im gegenseitigen Einvernehmen zu beseitigen.
 
 (2) Zur Herbeiführung einer Einigung im Sinne des vorstehenden Absatzes können der Bundesminister der Finanzen der Bundesrepublik Deutschland und der Minister der Finanzen der Deutschen Demokratischen Republik unmittelbar miteinander verkehren.
 
-
-## Art 34 – Aufbau der Finanzverwaltung
+# Art 34 – Aufbau der Finanzverwaltung
 
 (1) Die Deutsche Demokratische Republik schafft die Rechtsgrundlagen für eine dreistufige Finanzverwaltung entsprechend dem Gesetz über die Finanzverwaltung der Bundesrepublik Deutschland mit den sich aus diesem Vertrag ergebenden Abweichungen und richtet die Verwaltungen entsprechend ein.
 
 (2) Bis zur Errichtung der Währungs-, Wirtschafts- und Sozialunion werden vorrangig funktionsfähige Steuer- und Zollverwaltungen aufgebaut.
 
-
-## Art 35 – Völkerrechtliche Verträge
+# Art 35 – Völkerrechtliche Verträge
 
 Dieser Vertrag berührt nicht die von der Bundesrepublik Deutschland oder der Deutschen Demokratischen Republik mit dritten Staaten abgeschlossenen völkerrechtlichen Verträge.
 
-
-## Art 36 – Überprüfung des Vertrags
+# Art 36 – Überprüfung des Vertrags
 
 Die Bestimmungen dieses Vertrags werden bei grundlegender Änderung der gegebenen Umstände überprüft.
 
-
-## Art 37 – Berlin-Klausel
+# Art 37 – Berlin-Klausel
 
 Entsprechend dem Viermächte-Abkommen vom 3. September 1971 wird dieser Vertrag in Übereinstimmung mit den festgelegten Verfahren auf Berlin (West) ausgedehnt.
 
-
-## Art 38 – Inkrafttreten
+# Art 38 – Inkrafttreten
 
 Dieser Vertrag einschließlich des Gemeinsamen Protokolls sowie der Anlagen I-IX tritt an dem Tag in Kraft, an dem die Regierungen der Vertragsparteien einander mitgeteilt haben, daß die erforderlichen verfassungsrechtlichen und sonstigen innerstaatlichen Voraussetzungen für das Inkrafttreten erfüllt sind.
 
-
-## Schlußformel
+# Schlußformel
 
  
 
@@ -439,8 +397,7 @@ Theodor Waigel
 
 Walter Romberg
 
-
-## Gemeinsames Protokoll über Leitsätze
+# Gemeinsames Protokoll über Leitsätze
 
 In Ergänzung des Vertrags über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion haben die Hohen Vertragschließenden Seiten folgende Leitsätze vereinbart, die gemäß Artikel 4 Absatz 1 Satz 1 des Vertrags verbindlich sind:  
   
@@ -569,8 +526,7 @@ IV\. Arbeits- und Sozialrecht
   
   
 
-
-## Anlagenverzeichnis
+# Anlagenverzeichnis
 
   
   
@@ -602,16 +558,13 @@ Allgemeine Verfahrensvorschriften für das Schiedsgericht
 Anlage IX:  
 Möglichkeiten des Eigentumserwerbs privater Investoren an Grund und Boden sowie an Produktionsmitteln zur Förderung gewerblicher arbeitsplatzschaffender Investitionen
 
-
-## Anlage I – Bestimmungen über die Währungsunion und über die Währungsumstellung
+# Anlage I – Bestimmungen über die Währungsunion und über die Währungsumstellung
 
 \-
 
+# Anlage II – Von der Deutschen Demokratischen Republik in Kraft zu setzende Rechtsvorschriften
 
-## Anlage II – Von der Deutschen Demokratischen Republik in Kraft zu setzende Rechtsvorschriften
-
-I.  
-Allgemeines
+I. Allgemeines
 
 1. Gemäß Artikel 3 Satz 2 des Vertrags setzt die Deutsche Demokratische Republik bis zum Zeitpunkt seines Inkrafttretens die nachfolgend aufgeführten Gesetze oder Teile von Gesetzen der Bundesrepublik Deutschland in ihrer geltenden Fassung in Kraft und erläßt die erforderlichen Übergangsvorschriften.
 
@@ -703,13 +656,11 @@ IV. Sozialunion
 
 7. Kündigungsschutzgesetz in der Fassung der Bekanntmachung vom 25. August 1969 (BGBl. I S. 1317), zuletzt geändert durch Gesetze vom 13. Juli 1988 (BGBl. I S. 1034 und 1037).
 
-
-## Anlage III – Von der Deutschen Demokratischen Republik aufzuhebende oder zu ändernde Rechtsvorschriften
+# Anlage III – Von der Deutschen Demokratischen Republik aufzuhebende oder zu ändernde Rechtsvorschriften
 
 Die Deutsche Demokratische Republik gewährleistet, daß nachfolgende Rechtsvorschriften nach Maßgabe dieser Anlage bis zum Inkrafttreten des Vertrags aufgehoben oder geändert werden.
 
-I.  
-Währungsunion
+I. Währungsunion
 
 1. Das Gesetz über die Staatsbank der Deutschen Demokratischen Republik vom 19. Dezember 1974 (GBl. I Nr. 62 S. 580), geändert durch das Gesetz zur Änderung des Gesetzes über die Staatsbank der Deutschen Demokratischen Republik vom 6. März 1990 (GBl. I Nr. 16 S. 125) wird mit dem Ziel der Auflösung der Staatsbank als Notenbank einschließlich ihrer Kompetenz bei der Bankaufsicht geändert.
 
@@ -991,13 +942,11 @@ Folgende Rechtsvorschriften werden, soweit sie mit dem Vertrag nicht vereinbar s
 
 13. Verordnung über Leistungen der Sozialfürsorge - Sozialfürsorgeverordnung - vom 23. November 1979 (GBl. I Nr. 43 S. 422), zuletzt geändert durch die 4. Sozialfürsorgeverordnung vom 8. März 1990 (GBl. I Nr. 18 S. 165), im Hinblick auf die spätere Überleitung in das in Artikel 24 des Vertrags vorgesehene Sozialhilfesystem.
 
-
-## Anlage IV – Von der Deutschen Demokratischen Republik neu zu erlassende Rechtsvorschriften
+# Anlage IV – Von der Deutschen Demokratischen Republik neu zu erlassende Rechtsvorschriften
 
 Die Deutsche Demokratische Republik wird zur Durchführung der Währungs-, Wirtschafts- und Sozialunion bis zum Inkrafttreten des Vertrags oder bis zu dem in dieser Anlage genannten anderen Zeitpunkt nach Maßgabe dieser Anlage die nachfolgenden Rechtsvorschriften erlassen:
 
-I.  
-Wirtschaftsunion
+I. Wirtschaftsunion
 
 1. Gesetz über die Aufnahme einer gewerblichen Tätigkeit oder eines freien Berufs durch Personen ohne Wohnsitz, Sitz oder Niederlassung in der Deutschen Demokratischen Republik.
 
@@ -1113,14 +1062,12 @@ IV. Datenschutz
 
 Einführung von Datenschutzregelungen, die den Regelungen des Bundesdatenschutzgesetzes der Bundesrepublik Deutschland entsprechen. Sie sollen nach Möglichkeit mit Wirkung ab 1. Januar 1991 erlassen werden. Bis dahin wird bei der Übermittlung personenbezogener Informationen nach den in der Anlage VII enthaltenen Grundsätzen verfahren.
 
-
-## Anlage V – Von der Bundesrepublik Deutschland zu ändernde Rechtsvorschriften
+# Anlage V – Von der Bundesrepublik Deutschland zu ändernde Rechtsvorschriften
 
 Die Bundesrepublik Deutschland wird zur Durchführung der Währungs-, Wirtschafts- und Sozialunion bis zum Inkrafttreten des Vertrags eine Reihe von Rechtsvorschriften, insbesondere zu den nachfolgend aufgeführten Gesetzen, erlassen:
 
   
-I.  
-Gesetz über die Deutsche Bundesbank in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7620-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 32 des Gesetzes vom 24. April 1986 (BGBl. I S. 560)
+I. Gesetz über die Deutsche Bundesbank in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7620-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 32 des Gesetzes vom 24. April 1986 (BGBl. I S. 560)
 
 Das Gesetz gilt mit folgender Maßgabe:
 
@@ -1209,8 +1156,7 @@ Das Gesetz und die aufgrund dieses Gesetzes erlassenen Rechtsverordnungen gelten
 
 3. Bei den Vorschriften des 4. Abschnittes für Grundstücks-Sondervermögen ist die Deutsche Demokratische Republik den Mitgliedstaaten der Europäischen Gemeinschaften gleichgestellt.
 
-V.  
-Versicherungsaufsichtsgesetz in der Fassung der Bekanntmachung vom 13. Oktober 1983 (BGBl. I S. 1261), zuletzt geändert durch Artikel 6 des Gesetzes vom 19. Dezember 1986 (BGBl. I S. 2595)
+V. Versicherungsaufsichtsgesetz in der Fassung der Bekanntmachung vom 13. Oktober 1983 (BGBl. I S. 1261), zuletzt geändert durch Artikel 6 des Gesetzes vom 19. Dezember 1986 (BGBl. I S. 2595)
 
 Das Gesetz und die aufgrund dieses Gesetzes erlassenen Rechtsverordnungen gelten mit folgender Maßgabe:
 
@@ -1298,8 +1244,7 @@ Das Gesetz und die aufgrund dieses Gesetzes erlassenen Rechtsverordnungen gelten
 
 3. Bei den Vorschriften des 4. Abschnittes für Grundstücks-Sondervermögen ist die Deutsche Demokratische Republik den Mitgliedstaaten der Europäischen Gemeinschaften gleichgestellt.
 
-V.  
-Versicherungsaufsichtsgesetz in der Fassung der Bekanntmachung vom 13. Oktober 1983 (BGBl. I S. 1261), zuletzt geändert durch Artikel 6 des Gesetzes vom 19. Dezember 1986 (BGBl. I S. 2595)
+V. Versicherungsaufsichtsgesetz in der Fassung der Bekanntmachung vom 13. Oktober 1983 (BGBl. I S. 1261), zuletzt geändert durch Artikel 6 des Gesetzes vom 19. Dezember 1986 (BGBl. I S. 2595)
 
 Das Gesetz und die aufgrund dieses Gesetzes erlassenen Rechtsverordnungen gelten mit folgender Maßgabe:
 
@@ -1376,13 +1321,11 @@ stehen die in Nummer 1 Satz 1 und Nummer 3 bezeichneten Personen den Rechtsanwä
 
 5. Die Nummern 1 bis 4 werden in Kraft treten, wenn die Deutsche Demokratische Republik für die in der Bundesrepublik Deutschland zugelassenen Rechtsanwälte und Patentanwälte entsprechende Vorschriften erlassen hat. Der Bundesminister der Justiz gibt den Tag des Inkrafttretens im Bundesgesetzblatt bekannt.
 
-
-## Anlage VI – Regelungen, die in der Deutschen Demokratischen Republik im weiteren Verlauf anzustreben sind
+# Anlage VI – Regelungen, die in der Deutschen Demokratischen Republik im weiteren Verlauf anzustreben sind
 
 Im Verlauf der Errichtung der Währungs-, Wirtschafts- und Sozialunion sind folgende weitere Regelungen in der Deutschen Demokratischen Republik anzustreben:
 
-I.  
-Umweltrecht
+I. Umweltrecht
 
 Die Deutsche Demokratische Republik wird die Voraussetzungen dafür schaffen, daß auf dem Gebiet des Umweltschutzes baldmöglichst dem Recht der Bundesrepublik Deutschland entsprechende Regelungen getroffen werden können:
 
@@ -1408,12 +1351,10 @@ II. Wirtschafts- und Sozialunion
 
 5. Gesetz über Sprecherausschüsse der leitenden Angestellten vom 20. Dezember 1988 (BGBl. I S. 2312, 2316).
 
-
-## Anlage VII – Grundsätze für die Übermittlung personenbezogener Informationen zur Durchführung des Vertrags
+# Anlage VII – Grundsätze für die Übermittlung personenbezogener Informationen zur Durchführung des Vertrags
 
 Bei der Übermittlung personenbezogener Informationen zur Durchführung des Vertrags werden die Vertragsparteien entsprechend Artikel 4 Abs. 3 des Vertrags nach folgenden Grundsätzen verfahren:  
-(1) Der Empfänger darf personenbezogene Informationen nur zu dem durch die übermittelnde Stelle angegebenen Zweck und unter den von ihr vorgeschriebenen Bedingungen nutzen. Eine Verwendung für einen anderen Zweck ist nur zulässig, wenn die übermittelnde Vertragspartei zugestimmt hat und wenn die Verwendung für diesen Zweck nach dem Recht des Empfängers zulässig ist. Die Zustimmung darf nur erteilt werden, wenn die Verwendung für den anderen Zweck auch nach dem Recht der übermittelnden Vertragspartei zulässig wäre.  
-Personenbezogene Informationen dürfen ausschließlich an die für die jeweilige Aufgabe zuständigen Behörden übermittelt werden. Eine Übermittlung an andere Stellen darf nur mit vorheriger Zustimmung der übermittelnden Stelle erfolgen.
+(1) Der Empfänger darf personenbezogene Informationen nur zu dem durch die übermittelnde Stelle angegebenen Zweck und unter den von ihr vorgeschriebenen Bedingungen nutzen. Eine Verwendung für einen anderen Zweck ist nur zulässig, wenn die übermittelnde Vertragspartei zugestimmt hat und wenn die Verwendung für diesen Zweck nach dem Recht des Empfängers zulässig ist. Die Zustimmung darf nur erteilt werden, wenn die Verwendung für den anderen Zweck auch nach dem Recht der übermittelnden Vertragspartei zulässig wäre. Personenbezogene Informationen dürfen ausschließlich an die für die jeweilige Aufgabe zuständigen Behörden übermittelt werden. Eine Übermittlung an andere Stellen darf nur mit vorheriger Zustimmung der übermittelnden Stelle erfolgen.
 
 (2) Die Übermittlung personenbezogener Informationen unterbleibt, soweit Grund zu der Annahme besteht, daß dadurch gegen den Zweck eines innerstaatlichen Gesetzes verstoßen würde oder schutzwürdige Interessen der betroffenen Personen beeinträchtigt würden. Die Übermittlung personenbezogener Informationen unterbleibt insbesondere dann, wenn Grund zu der Annahme besteht, daß die Verwendung der übermittelten Informationen nicht in Einklang mit rechtsstaatlichen Grundsätzen steht oder dem Betroffenen aus der Verwendung der Informationen erhebliche Nachteile erwachsen, die im Widerspruch zu rechtsstaatlichen Grundsätzen stehen.
 
@@ -1427,17 +1368,14 @@ Personenbezogene Informationen dürfen ausschließlich an die für die jeweilige
 
 (7) Im übrigen werden die Grundsätze des Übereinkommens des Europarates über den Schutz des Menschen bei der Verarbeitung personenbezogener Daten vom 28. Januar 1981 beachtet.
 
-
-## Anlage VIII – Allgemeine Verfahrensvorschriften für das Schiedsgericht
+# Anlage VIII – Allgemeine Verfahrensvorschriften für das Schiedsgericht
 
 \-
 
-
-## Anlage IX – Möglichkeiten des Eigentumserwerbs privater Investoren an Grund und Boden sowie an Produktionsmitteln zur Förderung gewerblicher arbeitsplatzschaffender Investitionen
+# Anlage IX – Möglichkeiten des Eigentumserwerbs privater Investoren an Grund und Boden sowie an Produktionsmitteln zur Förderung gewerblicher arbeitsplatzschaffender Investitionen
 
 Die Gewährleistung des Eigentums privater Investoren an Grund und Boden sowie an Produktionsmitteln gemäß Artikel 2 des Vertrags einschließlich der Freiheit, Grund und Boden und sonstige Produktionsmittel zu erwerben, zu nutzen und darüber zu verfügen, erfolgt von seiten der Deutschen Demokratischen Republik während einer Übergangszeit mit folgender Maßgabe:  
-Die bisher fehlende Möglichkeit, in der Deutschen Demokratischen Republik Grundstücke zu Eigentum zu erwerben, ist ein erhebliches Investitionshindernis. Unternehmen brauchen Standorte, an denen sie über Grundstücke und alle Produktionsmittel frei verfügen können. Die Deutsche Demokratische Republik wird dieses Investitionshemmnis für Investitionen aus der Bundesrepublik und dem Ausland auch im Interesse ihrer eigenen Unternehmen beseitigen, um den dringend notwendigen Anstoß zur Modernisierung ihrer Wirtschaft auszulösen.  
-Zur Verwirklichung dieses Zieles wird die Deutsche Demokratische Republik Vorschriften ihrer Rechtsordnung ändern oder außer Kraft setzen, die dem entgegenstehen. Mit Inkrafttreten des Vertrags und der Änderung entgegenstehender Vorschriften wird die Deutsche Demokratische Republik dafür sorgen, daß Eigentum an Grund und Boden auch tatsächlich erworben werden kann. Dazu werden folgende erste Schritte unternommen:
+Die bisher fehlende Möglichkeit, in der Deutschen Demokratischen Republik Grundstücke zu Eigentum zu erwerben, ist ein erhebliches Investitionshindernis. Unternehmen brauchen Standorte, an denen sie über Grundstücke und alle Produktionsmittel frei verfügen können. Die Deutsche Demokratische Republik wird dieses Investitionshemmnis für Investitionen aus der Bundesrepublik und dem Ausland auch im Interesse ihrer eigenen Unternehmen beseitigen, um den dringend notwendigen Anstoß zur Modernisierung ihrer Wirtschaft auszulösen. Zur Verwirklichung dieses Zieles wird die Deutsche Demokratische Republik Vorschriften ihrer Rechtsordnung ändern oder außer Kraft setzen, die dem entgegenstehen. Mit Inkrafttreten des Vertrags und der Änderung entgegenstehender Vorschriften wird die Deutsche Demokratische Republik dafür sorgen, daß Eigentum an Grund und Boden auch tatsächlich erworben werden kann. Dazu werden folgende erste Schritte unternommen:
 
 1. Es werden in ausreichender Zahl und Größe Grundstücke in Gewerbegebieten bereitgestellt, die für Gewerbeansiedlungen und sonstige arbeitsplatzschaffende Investitionen mit entsprechender Nutzungsbindung zu Eigentum erworben werden können. Auf diese Weise wird die Sozial- und Umweltverträglichkeit von Gewerbeansiedlungen gewährleistet. Die Mitwirkung der kommunalen Selbstverwaltungsorgane wird sichergestellt.
 
@@ -1447,8 +1385,7 @@ Zur Verwirklichung dieses Zieles wird die Deutsche Demokratische Republik Vorsch
 
 4. Da es zunächst an einem funktionsfähigen Markt für Grund und Boden und entsprechenden Marktpreisen fehlen wird, kann im Rahmen der Vertragsfreiheit mit den üblichen Klauseln vorgesehen werden, den zunächst vereinbarten Grundstückspreis nach Ablauf einer Übergangsfrist einer Überprüfung und nachträglichen Anpassung zu unterziehen. Dabei müssen Verfügbarkeit und Beleihungsfähigkeit des Grundstücks gesichert, die Übergangszeit kurz und die Kalkulierbarkeit der Belastung für den Erwerber gewährleistet sein.
 
-
-## Protokollerklärungen
+# Protokollerklärungen
 
 Bei Unterzeichnung des Vertrags über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik wurden mit Bezug auf diesen Vertrag folgende Erklärungen abgegeben:
 

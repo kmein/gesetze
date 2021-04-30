@@ -1,15 +1,11 @@
-# [SHV] Verordnung über die Erstattung von Kosten für Familien- und Haushaltshilfen von Soldatinnen und Soldaten mit Familienpflichten bei Auslandseinsätzen  (Soldaten-Haushaltshilfen-Verordnung - SHV)
-
-Ausfertigungsdatum: 28.06.2015
-
+% Verordnung über die Erstattung von Kosten für Familien- und Haushaltshilfen von Soldatinnen und Soldaten mit Familienpflichten bei Auslandseinsätzen  (Soldaten-Haushaltshilfen-Verordnung - SHV)
+% Ausfertigungsdatum: 28.06.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 31 Absatz 8 und des § 93 Absatz 3 Nummer 2 des Soldatengesetzes, von denen § 31 Absatz 8 durch Artikel 5 Nummer 8 des Gesetzes vom 13. Mai 2015 (BGBl. I S. 706) eingefügt und § 93 Absatz 3 Nummer 2 durch Artikel 5 Nummer 18 Buchstabe b desselben Gesetzes neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Finanzen:
 
-
-## § 1 – Erstattungsvoraussetzungen
+# § 1 – Erstattungsvoraussetzungen
 
 (1) Soldatinnen und Soldaten, die Familienpflichten im Sinne des § 4 Absatz 1 des Soldatinnen- und Soldatengleichstellungsgesetzes haben, werden Kosten für eine Familien- und Haushaltshilfe erstattet, soweit diese unmittelbar entstehen durch
 
@@ -33,8 +29,7 @@ Auf Grund des § 31 Absatz 8 und des § 93 Absatz 3 Nummer 2 des Soldatengesetze
 
 (3) Bei Kindern, die das zwölfte Lebensjahr vollendet haben, ist davon auszugehen, dass die Betreuung ohne den Einsatz einer Familien- und Haushaltshilfe sichergestellt werden kann. In Einzelfällen können aus besonderen Gründen Ausnahmen zugelassen werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
 
@@ -74,8 +69,7 @@ b) Personen, die zwar keine Angehörigen sind, zu denen aber ein Vertrauensverh�
 
 wenn sie in der Lage sind, die Betreuungs- oder Pflegeaufgaben zu übernehmen; Personen, die das Sorgerecht für das zu betreuende Kind haben, sind in der Regel nahe Bezugspersonen der Soldatin oder des Soldaten.
 
-
-## § 3 – Antragstellung
+# § 3 – Antragstellung
 
 (1) Die Kosten werden nur auf Antrag erstattet.
 
@@ -83,8 +77,7 @@ wenn sie in der Lage sind, die Betreuungs- oder Pflegeaufgaben zu übernehmen; P
 
 (3) Der Antrag kann auch unmittelbar beim Bundesamt für das Personalmanagement der Bundeswehr gestellt werden. In diesem Fall ist in dem Antrag anzugeben, wer die nächsthöhere Disziplinarvorgesetzte oder der nächsthöhere Disziplinarvorgesetzte ist. Das Bundesamt für das Personalmanagement der Bundeswehr holt dann die Stellungnahme nach Absatz 2 Satz 2 ein.
 
-
-## § 4 – Inhalt des Antrags und erforderliche Nachweise
+# § 4 – Inhalt des Antrags und erforderliche Nachweise
 
 (1) In dem Antrag ist darzulegen, dass
 
@@ -118,24 +111,20 @@ Hat das Kind das zwölfte Lebensjahr vollendet, ist ausführlich zu begründen, 
 
 (5) Auf Antrag können die Kosten monatlich erstattet werden.
 
-
-## § 5 – Antragsfrist
+# § 5 – Antragsfrist
 
 Der Antrag kann nur bis zum Ablauf von sechs Monaten nach Beendigung der Teilnahme an einer der in § 1 Absatz 1 genannten Maßnahmen gestellt werden.
 
-
-## § 6 – Behördliches Verfahren
+# § 6 – Behördliches Verfahren
 
 Über den Antrag entscheidet das Bundesamt für das Personalmanagement der Bundeswehr. Dieses regelt die weiteren Einzelheiten des Verfahrens.
 
-
-## § 7 – Höhe der Kostenerstattung
+# § 7 – Höhe der Kostenerstattung
 
 (1) Die Kosten für eine Familien- und Haushaltshilfe werden bis zu einer Höhe von 50 Euro pro Tag erstattet. Bei Inanspruchnahme eines gewerblichen Dienstleisters werden die Kosten bis zu dem Stundensatz übernommen, den die gesetzlichen Krankenversicherungen erstatten; im Übrigen werden höchstens 10 Euro pro Stunde erstattet.
 
 (2) Wird bereits eine Familien- und Haushaltshilfe in Anspruch genommen, so sind nur die Mehrkosten erstattungsfähig, die durch die Erhöhung der Arbeitszeit wegen der Teilnahme der Soldatin oder des Soldaten an einer der in § 1 Absatz 1 genannten Maßnahmen anfallen.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

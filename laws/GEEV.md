@@ -1,13 +1,9 @@
-# [GEEV] Verordnung zur grenzüberschreitenden Ausschreibung für Strom aus erneuerbaren Energien  (Grenzüberschreitende-Erneuerbare-Energien-Verordnung - GEEV)
-
-Ausfertigungsdatum: 10.08.2017
-
+% Verordnung zur grenzüberschreitenden Ausschreibung für Strom aus erneuerbaren Energien  (Grenzüberschreitende-Erneuerbare-Energien-Verordnung - GEEV)
+% Ausfertigungsdatum: 10.08.2017
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Grenzüberschreitende Ausschreibungen
+# § 1 – Grenzüberschreitende Ausschreibungen
 
 (1) Im Interesse einer besseren regionalen Zusammenarbeit und einer stärkeren Angleichung der Rahmenbedingungen in den europäischen Strommärkten, insbesondere mit den an das Gebiet der Bundesrepublik Deutschland angrenzenden Mitgliedstaaten der Europäischen Union, regelt diese Verordnung die grenzüberschreitende Ausschreibung des Zahlungsanspruchs für Strom aus Solaranlagen und Windenergieanlagen an Land, die sich im Bundesgebiet oder im Staatsgebiet eines anderen Mitgliedstaats der Europäischen Union befinden.
 
@@ -35,8 +31,7 @@ b) für einen oder mehrere andere Mitgliedstaaten der Europäischen Union geöff
 
 3. der Strom physikalisch importiert wird oder einen vergleichbaren Effekt auf den deutschen Strommarkt hat.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Diese Verordnung ist anzuwenden für
 
@@ -52,8 +47,7 @@ b) für einen oder mehrere andere Mitgliedstaaten der Europäischen Union geöff
 
 (4) Die sonstigen nationalen Ausschreibungen für Strom aus Anlagen im Bundesgebiet bleiben unberührt.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinn dieser Verordnung ist
 
@@ -69,8 +63,7 @@ Im Sinn dieser Verordnung ist
 
 6. „Zuschlagswert“ der Gebotswert des Gebots, das in einer Ausschreibung den höchsten Gebotswert aufweist und einen Zuschlag erhalten hat.
 
-
-## § 4 – Ausschreibungen
+# § 4 – Ausschreibungen
 
 (1) Die ausschreibende Stelle führt die nach § 39 in den völkerrechtlichen Vereinbarungen festgelegten Ausschreibungen durch und schreibt zu diesem Zweck die Zahlungsansprüche nach § 27 und deren Höhe für Strom aus Solaranlagen oder Windenergieanlagen an Land mit den vereinbarten Ausschreibungsvolumen und zu den vereinbarten Gebotsterminen aus.
 
@@ -80,8 +73,7 @@ Im Sinn dieser Verordnung ist
 
 (4) Bieter, deren Anlagen außerhalb des Bundesgebiets liegen und denen Gebote, die der Bundesrepublik Deutschland zugeordnet worden sind, zugeteilt worden sind und deren Strom nach dieser Verordnung gefördert werden soll, müssen sich und ihre Anlagen entsprechend den Vorgaben der Marktstammdatenregisterverordnung im Marktstammdatenregister registrieren.
 
-
-## § 5 – Bekanntmachung der Ausschreibungen
+# § 5 – Bekanntmachung der Ausschreibungen
 
 (1) Die ausschreibende Stelle macht die Ausschreibungen frühestens acht Wochen und spätestens fünf Wochen vor dem jeweiligen Gebotstermin auf ihrer Internetseite bekannt. Gemeinsame grenzüberschreitende Ausschreibungen können zusätzlich oder nur durch eine ausländische Stelle auf ihrer Internetseite bekannt gemacht werden, sofern dies in der völkerrechtlichen Vereinbarung festgelegt ist.
 
@@ -119,8 +111,7 @@ Im Sinn dieser Verordnung ist
 
 (3) Die Bekanntmachungen nach Absatz 1 erfolgen ausschließlich im öffentlichen Interesse.
 
-
-## § 6 – Anforderungen an Gebote
+# § 6 – Anforderungen an Gebote
 
 (1) Bei den Ausschreibungen dürfen natürliche Personen, rechtsfähige Personengesellschaften und juristische Personen Gebote abgeben. Bieter aus dem Kooperationsstaat, die nach dem Recht des Kooperationsstaates rechtsfähig sind, dürfen nicht deswegen ausgeschlossen sein, weil sie keiner deutschen Rechtsform entsprechen.
 
@@ -156,8 +147,7 @@ b) die im Kooperationsstaat geplant sind, die Angabe, welche der nach § 5 Absat
 
 7. weitere Angaben, die zur Einhaltung der nach § 39 festgelegten Anforderungen für Gebote erforderlich sind und nach § 5 Absatz 2 Nummer 6 oder Nummer 11 bekannt gemacht worden sind.
 
-
-## § 7 – Ausschreibungsverfahren
+# § 7 – Ausschreibungsverfahren
 
 (1) Die ausschreibende Stelle darf für die Ausschreibungsverfahren Formatvorgaben machen. Gebote müssen diesen Formatvorgaben entsprechen.
 
@@ -169,8 +159,7 @@ b) die im Kooperationsstaat geplant sind, die Angabe, welche der nach § 5 Absat
 
 (5) Die Ausschreibungen können von der ausschreibenden Stelle ganz oder teilweise auf ein elektronisches Verfahren umgestellt werden; dabei kann auch von dem Schriftformerfordernis nach Absatz 3 Satz 2 abgewichen werden. In diesem Fall kann die ausschreibende Stelle insbesondere Vorgaben über die Authentifizierung für die gesicherte Datenübertragung machen. Bei einer Umstellung des Verfahrens nach Satz 1 muss vor dem Gebotstermin bei der Bekanntgabe nach § 5 auf das elektronische Verfahren hingewiesen werden.
 
-
-## § 8 – Sicherheiten
+# § 8 – Sicherheiten
 
 (1) Bieter müssen bei der ausschreibenden Stelle für ihre Gebote bis zum jeweiligen Gebotstermin eine Sicherheit leisten. Durch die Sicherheit werden die jeweiligen Forderungen der Übertragungsnetzbetreiber oder der ausländischen Stelle auf Pönalen oder die Forderungen der ausländischen Stelle auf Pönalen gesichert.
 
@@ -192,8 +181,7 @@ b) die im Kooperationsstaat geplant sind, die Angabe, welche der nach § 5 Absat
 
 (6) Die ausschreibende Stelle verwahrt die Sicherheiten nach Absatz 4 Nummer 2 treuhänderisch zugunsten der Bieter und der Übertragungsnetzbetreiber oder der ausländischen Stelle. Hierzu richtet sie ein Verwahrkonto ein. Die ausschreibende Stelle ist berechtigt, die Sicherheiten einzubehalten, bis die Voraussetzungen für die Erstattung der Sicherheit oder zur Befriedigung des Gläubigers der Forderung nach § 30 vorliegen. Die Sicherheitsleistungen werden nicht verzinst.
 
-
-## § 9 – Erstattungen von Sicherheiten
+# § 9 – Erstattungen von Sicherheiten
 
 Die ausschreibende Stelle gibt unverzüglich die hinterlegten Sicherheiten für ein bestimmtes Gebot zurück, soweit
 
@@ -213,8 +201,7 @@ b) eine Bestätigung nach § 13 der Marktstammdatenverordnung oder eine andere i
 
 Sind nicht mehr als 5 Prozent der Gebotsmenge des bezuschlagten Gebots entwertet worden, erstattet die ausschreibende Stelle die Sicherheit in voller Höhe.
 
-
-## § 10 – Ausschluss von Geboten
+# § 10 – Ausschluss von Geboten
 
 (1) Die ausschreibende Stelle schließt Gebote von dem Zuschlagsverfahren aus, wenn
 
@@ -244,8 +231,7 @@ b) mit den in einem anderen bezuschlagten Gebot in einer vorangegangenen geöffn
 
 Ein Ausschluss von Geboten nach Satz 1 Nummer 1 oder Nummer 2 Buchstabe b ist nicht zulässig, wenn zu einer Solaranlagen oder Windenergieanlage an Land weitere Solaranlagen oder Windenergieanlagen an Land zugebaut werden sollen und hierfür Gebote abgegeben werden.
 
-
-## § 11 – Ausschluss von Bietern
+# § 11 – Ausschluss von Bietern
 
 Die ausschreibende Stelle kann Bieter und deren Gebote von dem Zuschlagsverfahren ausschließen, wenn
 
@@ -257,8 +243,7 @@ b) mit anderen Bietern Absprachen über die Gebotswerte der in dieser oder einer
 
 2. die Gebotsmengen mehrerer Zuschläge eines Bieters aus mindestens zwei vorangegangenen geöffneten, gemeinsamen grenzüberschreitenden oder nationalen Ausschreibungen aufgrund eines Ablaufs der Frist zur Realisierung vollständig entwertet worden sind.
 
-
-## § 12 – Zuschlagsverfahren
+# § 12 – Zuschlagsverfahren
 
 (1) Die ausschreibende Stelle führt das folgende Zuschlagsverfahren durch. Sie öffnet die fristgerecht eingegangenen Gebote nach dem Gebotstermin. Sie sortiert die Gebote
 
@@ -272,8 +257,7 @@ Die ausschreibende Stelle prüft die Zulässigkeit der Gebote nach den §§ 10 u
 
 (3) Die ausschreibende Stelle erfasst für jedes Gebot, für das ein Zuschlag erteilt worden ist, die vom Bieter übermittelten Angaben und Nachweise sowie den Zuschlagswert.
 
-
-## § 13 – Zuordnung der Zuschläge und Sicherheiten
+# § 13 – Zuordnung der Zuschläge und Sicherheiten
 
 (1) Bezuschlagte Gebote in geöffneten nationalen Ausschreibungen sind der Bundesrepublik Deutschland zugeordnet und bezuschlagte Gebote in geöffneten ausländischen Ausschreibungen dem jeweiligen Kooperationsstaat.
 
@@ -285,8 +269,7 @@ Die ausschreibende Stelle prüft die Zulässigkeit der Gebote nach den §§ 10 u
 
 2. zugunsten der ausländischen Stelle nach § 30 Absatz 6 Nummer 2 für bezuschlagte Gebote, die bei einer gemeinsamen grenzüberschreitenden Ausschreibung nach Absatz 1 Satz 1 dem Kooperationsstaat zugeordnet worden sind.
 
-
-## § 14 – Bekanntgabe des Zuschlags und des Zuschlagswerts
+# § 14 – Bekanntgabe des Zuschlags und des Zuschlagswerts
 
 (1) Die ausschreibende Stelle gibt die Zuschläge mit den folgenden Angaben auf ihrer Internetseite bekannt:
 
@@ -310,8 +293,7 @@ c) einer eindeutigen Zuschlagsnummer,
 
 (3) Die ausschreibende Stelle unterrichtet die Bieter, die einen Zuschlag erhalten haben und deren bezuschlagte Gebote der Bundesrepublik Deutschland zugeordnet worden sind, unverzüglich über die Zuschlagserteilung und den Zuschlagswert.
 
-
-## § 15 – Entwertung von Zuschlägen
+# § 15 – Entwertung von Zuschlägen
 
 (1) Die ausschreibende Stelle entwertet einen Zuschlag,
 
@@ -325,23 +307,19 @@ c) einer eindeutigen Zuschlagsnummer,
 
 (2) Wird eine Zahlungsberechtigung nachträglich aufgehoben, wird auch der zugrundliegende Zuschlag entwertet.
 
-
-## § 16 – Höchstwert für Windenergieanlagen an Land
+# § 16 – Höchstwert für Windenergieanlagen an Land
 
 Der Höchstwert für Gebote für Windenergieanlagen an Land entspricht dem nach § 37b des Erneuerbare-Energien-Gesetzes ermittelten Wert.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Änderungen und Erlöschen von Zuschlägen für Windenergieanlagen an Land
+# § 18 – Änderungen und Erlöschen von Zuschlägen für Windenergieanlagen an Land
 
 (1) Für Änderungen der Genehmigungen für Anlagen im Bundesgebiet nach der Erteilung der Zuschläge ist § 36f des Erneuerbare-Energien-Gesetzes anzuwenden.
 
 (2) Der Zuschlag erlischt nach der in § 36e Absatz 1 des Erneuerbare-Energien-Gesetzes festgelegten Frist. Für Windenergieanlagen an Land im Bundesgebiet kann auf Antrag bei der ausschreibenden Stelle die Frist unter den in § 36e Absatz 2 und 3 des Erneuerbare-Energien-Gesetzes genannten Voraussetzungen verlängert werden. Für Windenergieanlagen an Land außerhalb des Bundesgebiets sollen nach § 39 in der völkerrechtlichen Vereinbarung entsprechende Regelungen vorgesehen werden.
 
-
-## § 19 – Besondere Ausschreibungsbestimmungen für Bürgerenergiegesellschaften
+# § 19 – Besondere Ausschreibungsbestimmungen für Bürgerenergiegesellschaften
 
 Die besonderen Ausschreibungsbestimmungen für Bürgerenergiegesellschaften nach § 36g des Erneuerbare-Energien-Gesetzes sind für Bürgerenergiegesellschaften innerhalb und außerhalb des Bundesgebiets im Rahmen von grenzüberschreitenden Ausschreibungen nur anzuwenden, wenn dies nach § 39 in der völkerrechtlichen Vereinbarung ausdrücklich festgelegt wird. In diesem Fall ist
 
@@ -349,18 +327,15 @@ Die besonderen Ausschreibungsbestimmungen für Bürgerenergiegesellschaften nach
 
 2. § 3 Nummer 15 des Erneuerbare-Energien-Gesetzes für Bürgerenergiegesellschaften außerhalb des Bundesgebiets mit der Maßgabe anzuwenden, dass abweichend von § 3 Nummer 15 Buchstabe b des Erneuerbare-Energien-Gesetzes mindestens 51 Prozent der Stimmrechte bei natürlichen Personen liegen müssen, die seit mindestens einem Jahr vor der Gebotsabgabe mit ihrem Hauptwohnsitz in der kreisfreien Stadt, dem Landkreis oder einer sonstigen entsprechenden Gebietskörperschaft im Kooperationsstaat gemeldet sind, in der die geplanten Windenergieanlagen an Land errichtet werden sollen.
 
-
-## § 20 – Anzulegender Wert für Windenergieanlagen an Land
+# § 20 – Anzulegender Wert für Windenergieanlagen an Land
 
 Der anzulegende Wert der Windenergieanlage an Land ist der Zuschlagswert der ihr zugeteilten Gebotsmenge.
 
-
-## § 21 – Dauer des Zahlungsanspruchs für Windenergieanlagen an Land
+# § 21 – Dauer des Zahlungsanspruchs für Windenergieanlagen an Land
 
 Die Dauer des Zahlungsanspruchs für Windenergieanlagen an Land richtet sich nach den §§ 25 und 36i des Erneuerbare-Energien-Gesetzes.
 
-
-## § 22 – Besondere Zuschlagsbedingungen für Solaranlagen
+# § 22 – Besondere Zuschlagsbedingungen für Solaranlagen
 
 (1) Der Höchstwert für Gebote für Solaranlagen richtet sich nach § 37b des Erneuerbare-Energien-Gesetzes.
 
@@ -368,8 +343,7 @@ Die Dauer des Zahlungsanspruchs für Windenergieanlagen an Land richtet sich nac
 
 (3) Der Zuschlag für eine Solaranlage erlischt, soweit die Zahlungsberechtigung nicht spätestens 24 Monate nach der öffentlichen Bekanntgabe des Zuschlags (materielle Ausschlussfrist) beantragt oder der Antrag abgelehnt worden ist. Bis zum Ablauf dieser Frist dürfen Bieter Zuschläge für Solaranlagen ganz oder teilweise durch eine unbedingte und bis zur Einführung eines elektronischen Verfahrens nach § 7 Absatz 5 der Schriftform genügende Rückgabeerklärung gegenüber der ausschreibenden Stelle zurückgeben.
 
-
-## § 23 – Zahlungsberechtigungen für Solaranlagen
+# § 23 – Zahlungsberechtigungen für Solaranlagen
 
 (1) Die ausschreibende Stelle stellt auf Antrag eines Bieters, dem mindestens ein Zuschlag erteilt worden ist, eine Zahlungsberechtigung für Solaranlagen aus.
 
@@ -391,8 +365,7 @@ b) bei Anlagen außerhalb des Bundesgebiets, ob die nach § 5 Absatz 2 Nummer 6 
 
 6. die Angabe des Bieters, dass er Betreiber der Solaranlage ist.
 
-
-## § 24 – Ausstellung von Zahlungsberechtigungen für Solaranlagen
+# § 24 – Ausstellung von Zahlungsberechtigungen für Solaranlagen
 
 (1) Die Zahlungsberechtigung für Solaranlagen darf von der ausschreibenden Stelle nur ausgestellt werden, wenn
 
@@ -438,18 +411,15 @@ Das Ergebnis der Prüfung und die installierte Leistung der Solaranlage sind der
 
 (5) Zum Zweck der Ermittlung der Anlagengröße nach Absatz 1 Nummer 3 ist § 24 Absatz 2 des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden.
 
-
-## § 25 – Anzulegender Wert für Solaranlagen
+# § 25 – Anzulegender Wert für Solaranlagen
 
 Der anzulegende Wert der Solaranlage ist der Zuschlagswert der ihr zugeteilten Gebotsmenge.
 
-
-## § 26 – Dauer des Zahlungsanspruchs für Solaranlagen
+# § 26 – Dauer des Zahlungsanspruchs für Solaranlagen
 
 Die Dauer des Zahlungsanspruchs für Solaranlagen richtet sich nach § 25 des Erneuerbare-EnergienGesetzes.
 
-
-## § 27 – Zahlungsanspruch
+# § 27 – Zahlungsanspruch
 
 (1) Betreiber von Solaranlagen und Windenergieanlagen an Land im Bundesgebiet oder im Staatsgebiet eines Kooperationsstaates mit einem direktem Netzanschluss zum Bundesgebiet, die im Rahmen einer geöffneten nationalen Ausschreibung oder einer gemeinsamen grenzüberschreitenden Ausschreibung einen Zuschlag erhalten haben und deren Zuschläge der Bundesrepublik Deutschland zugeordnet wurden, haben einen Anspruch auf Zahlung der Marktprämie nach Maßgabe des Erneuerbare-Energien-Gesetzes. Für Strom aus Solaranlagen und Windenergieanlagen an Land, deren Strom in ein Netz eingespeist wird, das sich nicht in einer Preiszone mit der Bundesrepublik Deutschland befindet, ist anstelle der Anlage 1 des Erneuerbare-Energien-Gesetzes die Anlage zu dieser Verordnung anzuwenden.
 
@@ -465,8 +435,7 @@ Die Dauer des Zahlungsanspruchs für Solaranlagen richtet sich nach § 25 des Er
 
 (5) Die Betreiber von Solaranlagen und Windenergieanlagen an Land im Staatsgebiet des Kooperationsstaates können über den Zahlungsanspruch auf Marktprämie nach dieser Verordnung hinaus keine weiteren Zahlungsansprüche nach dem Erneuerbare-Energien-Gesetz geltend machen.
 
-
-## § 28 – Überprüfung der Voraussetzungen des Zahlungsanspruchs
+# § 28 – Überprüfung der Voraussetzungen des Zahlungsanspruchs
 
 Die Überprüfung der Voraussetzungen des Zahlungsanspruchs nach § 27 für Betreiber von Solaranlagen und Windenergieanlagen an Land im Staatsgebiet des Kooperationsstaates, die keinen direkten Anschluss an ein Netz im Bundesgebiet haben, erfolgt durch
 
@@ -474,13 +443,11 @@ Die Überprüfung der Voraussetzungen des Zahlungsanspruchs nach § 27 für Betr
 
 2. den Übertragungsnetzbetreiber nach § 27 Absatz 4, sofern hierfür in der völkerrechtlichen Vereinbarung keine ausländische Stelle benannt ist; hierzu kann der Übertragungsnetzbetreiber insbesondere bei Inbetriebnahme der Solaranlage oder Windenergieanlage an Land und während der gesamten Zahlungsdauer mindestens einmal im Jahr eine Prüfung durch einen Wirtschaftsprüfer, eine Wirtschaftsprüfungsgesellschaft, einen vereidigten Buchprüfer oder eine Buchprüfungsgesellschaft durchführen; die Anlagenbetreiber, die ausländische Stelle und der Netzbetreiber, an dessen Netz die Solaranlagen oder Windenergieanlagen an Land im Staatsgebiet des Kooperationsstaates angeschlossen sind, müssen ihm die für die Prüfung und die Auszahlung der Marktprämie erforderlichen Daten zur Verfügung stellen.
 
-
-## § 29 – Ausgleichsmechanismus
+# § 29 – Ausgleichsmechanismus
 
 Für Zahlungen nach § 27, die aufgrund eines Zuschlags oder einer Zahlungsberechtigung nach dieser Verordnung geleistet werden, sind die Bestimmungen zum Ausgleichsmechanismus nach dem Erneuerbare-Energien-Gesetz und der Erneuerbare-Energien-Verordnung und der Erneuerbare-Energien-Ausführungsverordnung anzuwenden, sofern keine Zuordnung des bezuschlagten Gebots zu einem Kooperationsstaat nach § 13 Absatz 1 erfolgt ist. Die Zahlungen aufgrund dieser Verordnung gelten als Zahlungen im Sinne von § 3 Absatz 4 der Erneuerbare-Energien-Verordnung.
 
-
-## § 30 – Pönalen
+# § 30 – Pönalen
 
 (1) Bei Geboten für Windenergieanlagen an Land müssen Bieter eine Pönale leisten,
 
@@ -520,13 +487,11 @@ Für Zahlungen nach § 27, die aufgrund eines Zuschlags oder einer Zahlungsberec
 
 7. die Rücknahme und den Widerruf einer Zahlungsberechtigung, sofern der Solaranlage Gebotsmengen zugeteilt worden sind und der im Gebot angegebene Standort der Solaranlage in der jeweiligen Regelzone des Übertragungsnetzbetreibers liegt.
 
-
-## § 31 – Pflichten der Übertragungsnetzbetreiber
+# § 31 – Pflichten der Übertragungsnetzbetreiber
 
 Die Übertragungsnetzbetreiber müssen Pönalen der Bieter nach dieser Verordnung als Einnahmen nach § 3 Absatz 3 der Erneuerbare-Energien-Verordnung und Zahlungen an die Bieter nach dieser Verordnung als Ausgaben nach § 3 Absatz 4 der Erneuerbare-Energien-Verordnung verbuchen. Sie müssen den Eingang der Pönalen der ausschreibenden Stelle unverzüglich mitteilen.
 
-
-## § 32 – Ausschreibende Stelle und ausländische Stelle
+# § 32 – Ausschreibende Stelle und ausländische Stelle
 
 (1) Die ausschreibende Stelle ist die Bundesnetzagentur, sofern nach § 39 in der völkerrechtlichen Vereinbarung keine andere öffentliche oder private Stelle festgelegt worden ist. In der völkerrechtlichen Vereinbarung kann auch geregelt werden, dass ein Teil der Aufgaben von der ausschreibenden Stelle von einer anderen privaten oder öffentlichen Stelle übernommen werden kann.
 
@@ -536,8 +501,7 @@ Die Übertragungsnetzbetreiber müssen Pönalen der Bieter nach dieser Verordnun
 
 (4) Die ausschreibende Stelle kann einen Zuschlag oder eine Zahlungsberechtigung unter den in den §§ 48 und 49 des Verwaltungsverfahrensgesetzes genannten Voraussetzungen zurücknehmen oder widerrufen.
 
-
-## § 33 – Veröffentlichungen
+# § 33 – Veröffentlichungen
 
 Die ausschreibende Stelle muss auf ihrer Internetseite spätestens zum letzten Kalendertag des auf die öffentliche Bekanntgabe des letzten Zuschlags einer Ausschreibung folgenden Kalendermonats die folgenden Daten veröffentlichen:
 
@@ -549,8 +513,7 @@ Die ausschreibende Stelle muss auf ihrer Internetseite spätestens zum letzten K
 
 4. die Zuschlagsnummern der bezuschlagten Gebote.
 
-
-## § 34 – Mitteilungspflichten
+# § 34 – Mitteilungspflichten
 
 (1) Die ausschreibende Stelle muss unverzüglich nach Abschluss des Zuschlagsverfahrens nach § 12 den Bietern die Gründe für den Ausschluss oder die Nichtbezuschlagung mitteilen, wenn
 
@@ -574,15 +537,13 @@ Die ausschreibende Stelle muss auf ihrer Internetseite spätestens zum letzten K
 
 6. die Rücknahme oder den Widerruf einer Zahlungsberechtigung.
 
-
-## § 35 – Vorgaben und Maßnahmen der ausschreibenden Stelle
+# § 35 – Vorgaben und Maßnahmen der ausschreibenden Stelle
 
 (1) Die Bundesnetzagentur darf im Rahmen ihrer Zuständigkeit durch Allgemeinverfügung unter Beachtung der Regelungen des Erneuerbare-Energien-Gesetzes und des Verwaltungsverfahrensgesetzes nähere Bestimmungen zur Teilnahme an einer Ausschreibung, zur Übermittlung der Angaben nach dieser Verordnung, zur Rückgabe von bezuschlagten Geboten und Zahlungsberechtigungen, zur Hinterlegung der finanziellen Sicherheiten, zum Stellen von Bürgschaften, zum Zuschlagsverfahren und zur Ausstellung von Zahlungsberechtigungen erlassen. Die Allgemeinverfügungen müssen vor jedem Gebotstermin nach § 5 öffentlich bekannt gemacht werden, soweit sie die Gebotsabgabe oder das Zuschlagsverfahren betreffen.
 
 (2) Die ausschreibende Stelle muss bei den Ausschreibungen die erforderlichen technischen und organisatorischen Maßnahmen zur Sicherheit von Datenschutz und Datensicherheit und unter Berücksichtigung der einschlägigen Standards und Empfehlungen des Bundesamtes für Sicherheit in der Informationstechnik treffen.
 
-
-## § 36 – Festlegungen
+# § 36 – Festlegungen
 
 Die Bundesnetzagentur darf im Rahmen dieser Verordnung Festlegungen nach § 88a Absatz 3 Nummer 1 des Erneuerbare-Energien-Gesetzes in Abstimmung mit dem Kooperationsstaat treffen:
 
@@ -594,13 +555,11 @@ Die Bundesnetzagentur darf im Rahmen dieser Verordnung Festlegungen nach § 88a 
 
 4. zu den Anforderungen an die Überprüfung nach § 28 und an die Datenübermittlung nach § 38 Absatz 4.
 
-
-## § 37 – Geöffnete ausländische Ausschreibungen
+# § 37 – Geöffnete ausländische Ausschreibungen
 
 Für Strom aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien darf eine Zahlung nach dem geöffneten Fördersystem eines anderen Staats nur in Anspruch genommen werden, wenn der Zahlungsanspruch durch Zuschlag in einer geöffneten ausländischen oder gemeinsamen grenzüberschreitenden Ausschreibung erteilt und dem Kooperationsstaat zugeordnet worden ist und dies in einer völkerrechtlichen Vereinbarung mit der Bundesrepublik Deutschland entsprechend geregelt ist. Die Zahlung darf nur nach Maßgabe der völkerrechtlichen Vereinbarung und unter Beachtung der Vorgaben des § 5 Absatz 4 Satz 2, Absatz 5 und 6 des Erneuerbare-Energien-Gesetzes erfolgen.
 
-
-## § 38 – Anlagen im Bundesgebiet, die eine Förderung von einem Kooperationsstaat erhalten
+# § 38 – Anlagen im Bundesgebiet, die eine Förderung von einem Kooperationsstaat erhalten
 
 (1) Für Strom aus Solaranlagen oder Windenergieanlagen an Land im Bundesgebiet besteht gegen einen Netzbetreiber kein Anspruch auf eine Zahlung nach dieser Verordnung oder nach dem Erneuerbare-Energien-Gesetz, wenn
 
@@ -622,8 +581,7 @@ Die Voraussetzungen der Zahlungen und deren Finanzierung richten sich nach den B
 
 (+++ § 38: zur Anwendung vgl. § 13 Abs. 2 +++)
 
-
-## § 39 – Inhalt der völkerrechtlichen Vereinbarungen
+# § 39 – Inhalt der völkerrechtlichen Vereinbarungen
 
 (1) Das Bundesministerium für Wirtschaft und Energie kann in einer völkerrechtlichen Vereinbarung mit anderen Mitgliedstaaten der Europäischen Union die Durchführung von grenzüberschreitenden Ausschreibungen vereinbaren und zu diesem Zweck durch diese völkerrechtliche Vereinbarung die Bestimmungen des Erneuerbare-Energien-Gesetzes nach Maßgabe dieser Verordnung auch für Anlagen im Staatsgebiet anderer Mitgliedstaaten der Europäischen Union ganz oder teilweise für anwendbar erklären, wenn die Voraussetzungen für eine grenzüberschreitende Ausschreibung nach § 1 Absatz 3 erfüllt sind.
 
@@ -705,20 +663,17 @@ Die Voraussetzungen der Zahlungen und deren Finanzierung richten sich nach den B
 
 (4) Das Bundesministerium für Wirtschaft und Energie regelt in der völkerrechtlichen Vereinbarung mit dem Kooperationsstaat die finanzielle Aufteilung der Kosten und die Anrechnung des Stroms aus Solaranlagen oder Windenergieanlagen an Land, die aufgrund der jeweiligen grenzüberschreitenden Ausschreibung Zahlungen erhalten, auf die nationalen Gesamtziele nach Artikel 3 Absatz 2 der Richtlinie 2009/28/EG.
 
-
-## § 40 – Datenübermittlung
+# § 40 – Datenübermittlung
 
 (1) Dem Bundesministerium für Wirtschaft und Energie, dem Umweltbundesamt und der für die Ausschreibung zuständigen Stelle im Kooperationsstaat ist auf Verlangen jederzeit Auskunft über sämtliche aufgrund dieser Verordnung gespeicherten Daten einschließlich personenbezogener Daten zu erteilen, soweit dies für die Durchführung dieser Verordnung oder die Erfüllung von Berichtspflichten der Bundesrepublik Deutschland oder des Kooperationsstaates gegenüber den Organen der Europäischen Union erforderlich ist.
 
 (2) Die ausschreibende Stelle darf die aufgrund dieser Verordnung gespeicherten Daten an Netzbetreiber übermitteln, soweit dies für die Abwicklung und Überwachung der Zahlung nach dem Erneuerbare-Energien-Gesetz erforderlich ist.
 
-
-## § 41 – Löschung von Daten
+# § 41 – Löschung von Daten
 
 Die aufgrund dieser Verordnung gespeicherten Daten sind unverzüglich zu löschen, wenn sie für die Wahrnehmung der Aufgaben nach dieser Verordnung nicht mehr erforderlich sind.
 
-
-## § 42 – Rechtsschutz
+# § 42 – Rechtsschutz
 
 (1) Gerichtliche Rechtsbehelfe, die sich unmittelbar gegen eine Ausschreibung oder unmittelbar gegen einen erteilten Zuschlag richten, sind nur mit dem Ziel zulässig, die ausschreibende Stelle zur Erteilung eines Zuschlags zu verpflichten. Rechtsbehelfe nach Satz 1 sind begründet, soweit der Beschwerdeführer im Zuschlagsverfahren ohne den Rechtsverstoß einen Zuschlag erhalten hätte. Die ausschreibende Stelle erteilt bei einem Rechtsbehelf nach Satz 1 über das nach dieser Verordnung bestimmte Ausschreibungsvolumen hinaus einen entsprechenden Zuschlag, soweit das Begehren des Rechtsbehelfsführers Erfolg hat und sobald die gerichtliche Entscheidung formell rechtskräftig ist. Im Übrigen bleibt der gerichtliche Rechtsschutz unberührt.
 
@@ -726,13 +681,11 @@ Die aufgrund dieser Verordnung gespeicherten Daten sind unverzüglich zu lösche
 
 (3) Für alle Rechtsstreitigkeiten gegen eine inländische ausschreibende Stelle oder einen zur Zahlung verpflichteten inländischen Netzbetreiber sind die Gerichte der Bundesrepublik Deutschland ausschließlich zuständig, unabhängig davon, ob sich die Anlagen im Bundesgebiet oder im Staatsgebiet des Kooperationsstaates befinden.
 
-
-## § 43 – Übergangsbestimmungen
+# § 43 – Übergangsbestimmungen
 
 Für Strom aus Solaranlagen, denen eine Zahlungsberechtigung auf der Grundlage eines Zuschlags, der vor dem 16. August 2017 erteilt worden ist, ausgestellt worden ist oder wird, sind die Bestimmungen der am 15. August 2017 geltenden Grenzüberschreitenden-Erneuerbare-Energien-Verordnung anzuwenden.
 
-
-## Anlage – (zu § 27 Absatz 1)Höhe der Marktprämie für Strom aus Solaranlagen und Windenergieanlagen an Land, die Strom in ein Netz außerhalb der Preiszone der Bundesrepublik Deutschland einspeisen
+# Anlage – (zu § 27 Absatz 1)Höhe der Marktprämie für Strom aus Solaranlagen und Windenergieanlagen an Land, die Strom in ein Netz außerhalb der Preiszone der Bundesrepublik Deutschland einspeisen
 
 (Fundstelle: BGBl. I 2017, 3117)
 
@@ -777,8 +730,7 @@ Für jede Stunde eines Kalendermonats wird der durchschnittliche Wert der Stunde
 2.2.2  
 Die Ergebnisse für alle Stunden dieses Kalendermonats werden summiert.
 
-2.2.3.  
-Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Anlage 1 Nummer 3.1 des Erneuerbare-Energien-Gesetzes erzeugten Stroms aus Windenergieanlagen an Land.
+2.2.3. Diese Summe wird dividiert durch die Menge des in dem gesamten Kalendermonat nach der Online-Hochrechnung nach Anlage 1 Nummer 3.1 des Erneuerbare-Energien-Gesetzes erzeugten Stroms aus Windenergieanlagen an Land.
 
 2.3  
 Solare Strahlungsenergie

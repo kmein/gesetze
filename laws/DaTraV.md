@@ -1,15 +1,11 @@
-# [DaTraV] Verordnung zur Umsetzung der Vorschriften über die Datentransparenz  (Datentransparenzverordnung - DaTraV)
-
-Ausfertigungsdatum: 19.06.2020
-
+% Verordnung zur Umsetzung der Vorschriften über die Datentransparenz  (Datentransparenzverordnung - DaTraV)
+% Ausfertigungsdatum: 19.06.2020
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Die Verordnung regelt das Nähere zur Wahrnehmung, Durchführung und Finanzierung der Aufgaben der Datentransparenz nach den §§ 303a bis 303f des Fünften Buches Sozialgesetzbuch.
 
-
-## § 2 – Aufgabenwahrnehmung
+# § 2 – Aufgabenwahrnehmung
 
 (1) Die Aufgaben der Vertrauensstelle nach § 303c des Fünften Buches Sozialgesetzbuch nimmt das Robert Koch-Institut wahr. Die Vertrauensstelle ist räumlich, organisatorisch, technisch und personell vom Forschungsdatenzentrum getrennt.
 
@@ -19,8 +15,7 @@ Die Verordnung regelt das Nähere zur Wahrnehmung, Durchführung und Finanzierun
 
 (4) Die Sicherheit der Daten des Forschungsdatenzentrums nach dem Stand der Technik ist zu gewährleisten. Einem Antragsberechtigten nach § 303e Absatz 1 des Fünften Buches Sozialgesetzbuch, der zugleich auch die Aufgaben des Forschungsdatenzentrums wahrnimmt, werden keine Daten für eine Verarbeitung zu den in § 303e Absatz 2 des Fünften Buches Sozialgesetzbuch genannten Zwecken zugänglich gemacht.
 
-
-## § 3 – Art und Umfang der zu übermittelnden Daten
+# § 3 – Art und Umfang der zu übermittelnden Daten
 
 (1) Die Krankenkassen übermitteln im Rahmen ihrer Verpflichtung nach § 303b Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch für jedes Kalenderjahr (Berichtsjahr) je versicherter Person an den Spitzenverband Bund der Krankenkassen als Datensammelstelle die folgenden Daten:
 
@@ -257,8 +252,7 @@ die Anzahl der geborenen Kinder,
 
 (2) Die Übermittlung der Daten hat bis spätestens zum 1. Oktober des auf das Berichtsjahr folgenden Jahres zu erfolgen, erstmals für das Berichtsjahr 2021 zum 1. Oktober 2022.
 
-
-## § 4 – Datenverarbeitung durch den Spitzenverband Bund der Krankenkassen als Datensammelstelle
+# § 4 – Datenverarbeitung durch den Spitzenverband Bund der Krankenkassen als Datensammelstelle
 
 (1) Der Spitzenverband Bund der Krankenkassen führt die von den Krankenkassen nach § 3 übermittelten Daten in versichertenbezogene Datensätze zusammen.
 
@@ -270,22 +264,19 @@ die Anzahl der geborenen Kinder,
 
 (5) Der Spitzenverband Bund der Krankenkassen übermittelt die nach den Absätzen 1 bis 3 geprüften und korrigierten Daten nach der Pseudonymisierung der Angaben zu den Leistungserbringern nach § 5 Absatz 1 spätestens bis zum 1. Dezember des dem Berichtsjahr folgenden Jahres, erstmals für das Berichtsjahr 2021 zum 1. Dezember 2022, für den in § 303d Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch vorgesehenen Zweck an das Forschungsdatenzentrum.
 
-
-## § 5 – Verfahren der Pseudonymisierung
+# § 5 – Verfahren der Pseudonymisierung
 
 (1) Für die Pseudonymisierung der Angaben zu den Leistungserbringern nach § 303b Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch wählt der Spitzenverband Bund der Krankenkassen ein Verfahren nach dem Stand der Technik, bei dem die den Leistungserbringer identifizierenden Ziffern der Betriebsstättennummer, der lebenslangen Arztnummer und des Institutionskennzeichens durch jeweils ein dauerhaftes Pseudonym ersetzt wird. Die aus den übrigen Ziffern ableitbaren Informationen zu den jeweiligen Leistungserbringern sind im Datensatz gesondert aufzuführen. Dies betrifft bei der Betriebsstättennummer die regionale Zuordnung in Form des Landes- oder Bezirksstellenschlüssels der Kassenärztlichen Vereinigung, bei der lebenslangen Arztnummer die Facharztbezeichnung und beim Institutskennzeichen die Art der Einrichtung oder die Personengruppe sowie die regionale Zuordnung durch Kennzeichnung des Bundeslandes. Das Verfahren der Pseudonymisierung ist regelmäßig auf die Einhaltung des Standes der Technik zu überprüfen.
 
 (2) Für die Erzeugung des Lieferpseudonyms und des daraus abgeleiteten periodenübergreifenden Pseudonyms nach § 303c Absatz 1 des Fünften Buches Sozialgesetzbuch bestimmt die Vertrauensstelle bis zum 1. Juli 2021 schlüsselabhängige Verfahren, die sicherstellen, dass einem Versicherten bundesweit eindeutig und unabhängig von seiner Kassenzugehörigkeit jeweils dasselbe periodenübergreifende Pseudonym zugeordnet wird und die Daten jedes Versicherten für alle Leistungsbereiche über die im Forschungsdatenzentrum vorliegenden Berichtszeiträume hinweg verknüpfbar bleiben. Das Lieferpseudonym ist je Berichtsjahr zu wechseln. Das anzuwendende Verfahren zur Erzeugung und Überführung der Pseudonyme bestimmt die Vertrauensstelle im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik und der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
 
-
-## § 6 – Verfahren in der Vertrauensstelle
+# § 6 – Verfahren in der Vertrauensstelle
 
 (1) Die Vertrauensstelle überführt die ihr vom Spitzenverband Bund der Krankenkassen übermittelten Lieferpseudonyme in permanente periodenübergreifende Pseudonyme nach § 5 Absatz 2.
 
 (2) Die Vertrauensstelle prüft, ob die Überführung in periodenübergreifende Pseudonyme fehlerfrei verlaufen ist, und übermittelt dem Forschungsdatenzentrum über ein sicheres Übermittlungsverfahren die Liste der periodenübergreifenden Pseudonyme nach Absatz 1 mit den dazugehörigen Arbeitsnummern. Danach sind die den periodenübergreifenden Pseudonymen zugrundeliegenden Lieferpseudonyme und Arbeitsnummern sowie die periodenübergreifenden Pseudonyme bei der Vertrauensstelle zu löschen.
 
-
-## § 7 – Antrag zur Datenverarbeitung
+# § 7 – Antrag zur Datenverarbeitung
 
 (1) Anträge an das Forschungsdatenzentrum auf Zugang zu den Daten sind über ein elektronisch bereitzustellendes Antragsverfahren einzureichen. In dem Antrag hat der Antragsteller anzugeben:
 
@@ -313,8 +304,7 @@ die Anzahl der geborenen Kinder,
 
 (4) Das Forschungsdatenzentrum kann zur Optimierung der Abläufe die Reihenfolge der Antragsbearbeitung nach objektiven Kriterien festlegen. Die Kriterien werden spätestens bis zum 31. Dezember 2023 auf der Internetseite des Forschungsdatenzentrums veröffentlicht.
 
-
-## § 8 – Antragserfassung und -prüfung
+# § 8 – Antragserfassung und -prüfung
 
 (1) Das Forschungsdatenzentrum prüft die Anträge zur Datenverarbeitung dahingehend, ob
 
@@ -338,8 +328,7 @@ die Anzahl der geborenen Kinder,
 
 (5) Hat eine Krankenkasse ihre Einwilligung nach § 7 Absatz 2 zu einer krankenkassenbezogenen Auswertung erteilt, trifft das Forschungsdatenzentrum insbesondere durch die Erteilung von Auflagen nach Absatz 3 Satz 2 soweit wie möglich Vorsorge dafür, dass durch diese Auswertungen in Kombination mit weiteren Auswertungen Erkenntnisse über andere Krankenkassen, die keine Einwilligung nach § 7 Absatz 2 zu einer Auswertung erteilt haben, nicht gewonnen werden können.
 
-
-## § 9 – Antragsregister
+# § 9 – Antragsregister
 
 (1) Im öffentlichen Antragsregister nach § 303d Absatz 1 Nummer 6 des Fünften Buches Sozialgesetzbuch ist für jeden Antrag Folgendes anzugeben:
 
@@ -355,8 +344,7 @@ die Anzahl der geborenen Kinder,
 
 (2) Mit Zustimmung der betroffenen Nutzungsberechtigten können weitere Angaben zum Antrag in das Antragsregister aufgenommen werden. Die Angaben nach § 7 Absatz 1 Nummer 5 dürfen nur mit Einwilligung der betroffenen Personen in das Antragsregister aufgenommen werden.
 
-
-## § 10 – Datenbereitstellung
+# § 10 – Datenbereitstellung
 
 (1) Das Forschungsdatenzentrum stellt den Nutzungsberechtigten mit der bewilligenden Entscheidung nach § 8 Absatz 3 die Daten aufbereitet und zusammengefasst zur Verfügung. Die Bereitstellung der Daten kann dadurch erfolgen, dass das Forschungsdatenzentrum
 
@@ -388,8 +376,7 @@ Die pseudonymisierten Einzeldatensätze werden in gesicherter physischer oder vi
 
 2. entgegen der erteilten Auflagen verarbeitet und die Datenschutzaufsichtsbehörde wegen eines solchen Verstoßes eine Maßnahme nach Artikel 58 Absatz 2 Buchstabe b bis j der Verordnung (EU) 2016/679 gegenüber dem Nutzungsberechtigten ergriffen hat.
 
-
-## § 11 – Kostenerstattung und Vorschuss
+# § 11 – Kostenerstattung und Vorschuss
 
 (1) Die Krankenkassen erstatten dem Bundesinstitut für Arzneimittel und Medizinprodukte und dem Robert Koch-Institut die Sach- und Personalkosten, die diesen Stellen durch die Wahrnehmung der Aufgabe der Datentransparenz entstehen. Die Abwicklung der Zahlungen erfolgt über den Spitzenverband Bund der Krankenkassen, der von den Krankenkassen hierfür als beauftragt gilt. Im Umfang des Auftragsverhältnisses handelt der Spitzenverband Bund der Krankenkassen als Vertreter der Krankenkassen. Der Spitzenverband Bund der Krankenkassen ist befugt, die von den Krankenkassen geschuldeten Zahlungen aus eigenen Mitteln vorzustrecken. Die Krankenkassen statten den Spitzenverband Bund der Krankenkassen mit den für die Abwicklung der Zahlungen notwendigen Finanzmitteln aus oder erstatten ihm die nach Satz 4 vorgestreckten Zahlungen.
 
@@ -401,8 +388,7 @@ Die pseudonymisierten Einzeldatensätze werden in gesicherter physischer oder vi
 
 (5) Das Bundesinstitut für Arzneimittel und Medizinprodukte und das Robert Koch-Institut vereinbaren jeweils getrennt voneinander das Nähere zur Umsetzung der Kostenerstattung mit dem Spitzenverband Bund der Krankenkassen.
 
-
-## § 12 – Übergangsregelung
+# § 12 – Übergangsregelung
 
 (1) Abweichend von den §§ 3 und 4 übermittelt der Spitzenverband Bund der Krankenkassen für den in § 303d Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch vorgesehenen Zweck am 1. Dezember 2020 die Daten an das Forschungsdatenzentrum, die ihm übermittelt wurden für die Durchführung des Risikostrukturausgleiches für die Berichtsjahre 2016, 2017 und 2018 nach § 268 Absatz 3 Satz 14 des Fünften Buches Sozialgesetzbuch in der bis zum 31. März 2020 geltenden Fassung in Verbindung mit § 3 Absatz 4 und § 30 Absatz 4 Satz 1 und 2 der Risikostruktur-Ausgleichsverordnung in der bis zum 31. März 2020 geltenden Fassung. Das Forschungsdatenzentrum übernimmt den Datenbestand der Datenaufbereitungsstelle nach § 2 Absatz 2 der Datentransparenzverordnung vom 10. September 2012 und führt ihn mit den nach Satz 1 übermittelten Daten zusammen.
 
@@ -420,7 +406,6 @@ Von der Übermittlung nach Satz 1 ausgenommen sind Daten nach § 3 Absatz 1 Numm
 
 (5) Anträge von Nutzungsberechtigten, die an die Datenaufbereitungsstelle gestellt und noch nicht abschließend bearbeitet wurden, verlieren ihre Gültigkeit und sind beim Forschungsdatenzentrum erneut zu stellen. Hierauf sind die Nutzungsberechtigten, die einen solchen Antrag gestellt haben, hinzuweisen. Eine Gebühr wird für die ungültig gewordenen Anträge nicht erhoben.
 
-
-## § 13 – Evaluation und Weiterentwicklung
+# § 13 – Evaluation und Weiterentwicklung
 
 Das Forschungsdatenzentrum berichtet dem Bundesministerium für Gesundheit alle drei Jahre, erstmals zum 31. Dezember 2023, schriftlich oder elektronisch über die Erfahrungen, die es mit der Wahrnehmung der Aufgaben der Datentransparenz gemacht hat. Der Bericht soll Angaben über die Datenqualität, Erfahrungen mit der Art und mit dem Umfang der von den Krankenkassen übermittelten Daten, die Zusammenarbeit mit der Datensammelstelle und der Vertrauensstelle, mit den Kosten und Gebühren sowie über die Antragsbearbeitung und die Datenbereitstellung, einschließlich einer Statistik über die nachgefragten Datensätze, enthalten. Der Bericht dient als Grundlage für die Weiterentwicklung der Regelungen zur Datentransparenz.

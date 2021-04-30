@@ -1,20 +1,15 @@
-# [VSGZustV] Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz  (Verkehrssicherstellungsgesetz-Zuständigkeitsverordnung - VSGZustV)
-
-Ausfertigungsdatum: 12.08.1992
-
+% Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz  (Verkehrssicherstellungsgesetz-Zuständigkeitsverordnung - VSGZustV)
+% Ausfertigungsdatum: 12.08.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 8 und des § 19 Abs. 7 des Verkehrssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1968 (BGBl. I S. 1082) verordnet der Bundesminister für Verkehr:
 
-
-## § 1 – Übertragung von Befugnissen
+# § 1 – Übertragung von Befugnissen
 
 Die Befugnisse des Bundesministeriums für Verkehr und digitale Infrastruktur, die öffentlichen Eisenbahnen nach § 10 Abs. 1 und 2 des Verkehrssicherstellungsgesetzes und die Eisenbahnen des nichtöffentlichen Verkehrs nach § 10 Abs. 5 des Verkehrssicherstellungsgesetzes zu Leistungen für Zwecke der Verteidigung zu verpflichten und von der Einhaltung der in § 10 Abs. 6 des Verkehrssicherstellungsgesetzes bezeichneten Vorschriften zu befreien, werden auf das Eisenbahn-Bundesamt übertragen.
 
-
-## § 2 – Zuständigkeiten für die Verpflichtung zu Leistungen
+# § 2 – Zuständigkeiten für die Verpflichtung zu Leistungen
 
 (1) Zuständige Behörden sind für die Verpflichtung
 
@@ -52,8 +47,7 @@ die für den Luftverkehr zuständige oberste Landesbehörde oder die von ihr bes
 
 (2) Die Befugnisse der in Absatz 1 Nr. 2 Buchstabe a genannten Behörden kann die oberste Straßenbaubehörde selbst wahrnehmen, wenn die Verpflichtung der Sicherstellung des weiträumigen Verkehrs dient.
 
-
-## § 3 – Zuständigkeiten für die Auferlegung sonstiger Pflichten
+# § 3 – Zuständigkeiten für die Auferlegung sonstiger Pflichten
 
 (1) Zuständige Behörden sind für die Auferlegung von Verwahrungs- und sonstigen Pflichten nach § 13 des Verkehrssicherstellungsgesetzes und von Verpflichtungen zu Verkehrsräumungen, Standort- und Wegeänderungen sowie sonstigen Verpflichtungen nach § 14 des Verkehrssicherstellungsgesetzes, soweit diese betreffen:
 
@@ -115,13 +109,11 @@ die Behörden der allgemeinen Verwaltung auf der Kreisstufe.
 
 (3) Die Zuständigkeit der in Absatz 1 Nr. 6 und 7 genannten Behörden erstreckt sich auch auf die Auferlegung von Verpflichtungen, soweit diese Umschlagsbetriebe betreffen, die zu den Flughäfen und Flugplätzen gehören.
 
-
-## § 4 – Ersatzzuständigkeit
+# § 4 – Ersatzzuständigkeit
 
 Sind die nach dieser Verordnung zuständigen Behörden aus tatsächlichen Gründen nicht in der Lage, ihre Befugnisse auszuüben, so können diese von den übergeordneten Behörden desselben Verwaltungszweiges wahrgenommen werden. Die Befugnisse der zuständigen Behörden können unter den in Satz 1 genannten Voraussetzungen von den unmittelbar nachgeordneten Behörden desselben Verwaltungszweiges wahrgenommen werden, wenn dies zur Abwendung einer unmittelbar drohenden Gefahr notwendig ist und die übergeordneten Behörden nicht rechtzeitig handeln können. Die übergeordnete Behörde ist in diesen Fällen unverzüglich zu unterrichten.
 
-
-## § 5 – Örtliche Zuständigkeit
+# § 5 – Örtliche Zuständigkeit
 
 (1) Örtlich zuständige Behörde ist für Verpflichtungen, die betreffen:
 
@@ -143,14 +135,12 @@ die Behörde, in deren Bezirk sich die Anlagen und Einrichtungen befinden.
 
 (3) Für Verpflichtungen, die Straßenbahnen betreffen, ist abweichend von den Absätzen 1 und 2 die Behörde örtlich zuständig, in deren Bezirk die örtliche Betriebsleitung der Straßenbahn ihren Sitz hat.
 
-
-## § 6 – Inkrafttreten und Außerkrafttreten
+# § 6 – Inkrafttreten und Außerkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft.
 
 (2)
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

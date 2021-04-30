@@ -1,15 +1,11 @@
-# [MStDVDV] Verordnung über den Vorbereitungsdienst für den mittleren Steuerdienst des Bundes  (MStDVDV)
-
-Ausfertigungsdatum: 12.01.2017
-
+% Verordnung über den Vorbereitungsdienst für den mittleren Steuerdienst des Bundes  (MStDVDV)
+% Ausfertigungsdatum: 12.01.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160), von denen Absatz 1 Nummer 2 durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit § 10 Absatz 1 und Anlage 2 der Bundeslaufbahnverordnung, von denen § 10 Absatz 1 durch Artikel 1 Nummer 2 und Anlage 2 durch Artikel 1 Nummer 14 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Vorbereitungsdienst
+# § 1 – Vorbereitungsdienst
 
 (1) Die Ausbildung nach dieser Verordnung ist der Vorbereitungsdienst für den mittleren Steuerdienst des Bundes.
 
@@ -17,13 +13,11 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom
 
 (3) Über eine Verlängerung oder Verkürzung des Vorbereitungsdienstes nach § 15 oder § 16 der Bundeslaufbahnverordnung entscheidet das Bundeszentralamt für Steuern im Benehmen mit der zuständigen Landesfinanzbehörde. Die Verlängerung des Vorbereitungsdienstes kann darauf ausgerichtet werden, dass die Anwärterin oder der Anwärter zusammen mit den später eingestellten Anwärterinnen und Anwärtern die Ausbildung fortsetzen und die Laufbahnprüfung ablegen kann. Wenn Ausbildungsabschnitte ganz oder teilweise wiederholt werden, ersetzen die Rangpunkte, die bei der Wiederholung erreicht werden, die zuvor erreichten.
 
-
-## § 2 – Ziele des Vorbereitungsdienstes
+# § 2 – Ziele des Vorbereitungsdienstes
 
 Die Ausbildung vermittelt das fachtheoretische Wissen sowie die berufspraktischen Kenntnisse und Fähigkeiten, die für die Erfüllung der Aufgaben im mittleren Steuerdienst des Bundes erforderlich sind. Die Anwärterinnen und Anwärter werden insbesondere in den Bereichen der Steuerfestsetzung und Steuererhebung ausgebildet. Sie lernen, ihre Kompetenzen weiterzuentwickeln und selbständig neue Kompetenzen zu erwerben, um den sich ständig wandelnden Herausforderungen im mittleren Steuerdienst des Bundes gerecht zu werden. Den Anwärterinnen und Anwärtern wird die Befähigung zu verantwortlichem Handeln in einem freiheitlichen, demokratischen und sozialen Rechtsstaat vermittelt. Hierzu gehört auch die Fähigkeit zur Zusammenarbeit im föderalen und europäischen Raum.
 
-
-## § 3 – Dienstbehörde, Dienstaufsicht
+# § 3 – Dienstbehörde, Dienstaufsicht
 
 (1) Dienstbehörde ist das Bundeszentralamt für Steuern. Es ist zuständig
 
@@ -37,8 +31,7 @@ Die Ausbildung vermittelt das fachtheoretische Wissen sowie die berufspraktische
 
 (3) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht des Bundeszentralamtes für Steuern. Während der Ausbildung bei den Landesfinanzbehörden unterstehen sie auch deren Dienstaufsicht.
 
-
-## § 4 – Nachteilsausgleich
+# § 4 – Nachteilsausgleich
 
 (1) Menschen mit Behinderung und Menschen mit einer vorübergehenden Beeinträchtigung wird auf Antrag ein angemessener Nachteilsausgleich im Auswahlverfahren sowie bei Leistungstests und bei Prüfungen gewährt. Hierauf sind die Betroffenen rechtzeitig hinzuweisen.
 
@@ -46,8 +39,7 @@ Die Ausbildung vermittelt das fachtheoretische Wissen sowie die berufspraktische
 
 (3) Art und Umfang des Nachteilsausgleichs sind mit den Betroffenen rechtzeitig zu erörtern. Bei schwerbehinderten und diesen gleichgestellten behinderten Menschen erfolgt auch eine Erörterung mit der Schwerbehindertenvertretung, sofern die betroffene Person dem nicht widerspricht. Der Nachteilsausgleich darf nicht dazu führen, dass die Anforderungen herabgesetzt werden. Gewährte Nachteilsausgleiche sind aktenkundig zu machen.
 
-
-## § 5 – Zulassung zum Auswahlverfahren
+# § 5 – Zulassung zum Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet das Bundeszentralamt für Steuern auf der Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind. Besonders wichtig sind schriftlicher und mündlicher Ausdruck, Kommunikationsfähigkeit, kognitive Fähigkeiten und Leistungsmotivation. Das Bundeszentralamt für Steuern kündigt das Auswahlverfahren in einer Ausschreibung an.
 
@@ -57,8 +49,7 @@ Die Ausbildung vermittelt das fachtheoretische Wissen sowie die berufspraktische
 
 (4) Wer nicht zum Auswahlverfahren zugelassen wird oder erfolglos daran teilgenommen hat, erhält eine schriftliche Mitteilung. Die Bewerbungsunterlagen sind auf Wunsch zurückzusenden, ansonsten zu vernichten; elektronisch übermittelte Bewerbungsunterlagen sind zu löschen.
 
-
-## § 6 – Auswahlkommission
+# § 6 – Auswahlkommission
 
 (1) Für die Durchführung des Auswahlverfahrens richtet das Bundeszentralamt für Steuern eine Auswahlkommission ein. Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden. In diesem Fall ist sicherzustellen, dass alle Auswahlkommissionen die gleichen Bewertungs- und Auswahlmaßstäbe anlegen.
 
@@ -76,8 +67,7 @@ Bei der Besetzung der Auswahlkommission werden Frauen und Männer in einem ausge
 
 (5) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig. Die Stimmen der Mitglieder der Auswahlkommission haben das gleiche Gewicht.
 
-
-## § 7 – Auswahlverfahren, Auswahlkonzept, Täuschungen
+# § 7 – Auswahlverfahren, Auswahlkonzept, Täuschungen
 
 (1) Das Auswahlverfahren besteht aus einem schriftlichen und einem mündlichen Teil. Der schriftliche Teil kann mit Unterstützung von Informationstechnik durchgeführt werden.
 
@@ -85,8 +75,7 @@ Bei der Besetzung der Auswahlkommission werden Frauen und Männer in einem ausge
 
 (3) Eine Täuschung, ein Täuschungsversuch oder die Beihilfe zu einem Täuschungsversuch während des Auswahlverfahrens führen zum Ausschluss der Bewerberin oder des Bewerbers vom Auswahlverfahren. Vor der Entscheidung über den Ausschluss wird die Bewerberin oder der Bewerber angehört.
 
-
-## § 8 – Schriftlicher Teil des Auswahlverfahrens
+# § 8 – Schriftlicher Teil des Auswahlverfahrens
 
 (1) Im schriftlichen Teil des Auswahlverfahrens werden insbesondere kognitive Fähigkeiten und Allgemeinwissen geprüft.
 
@@ -106,8 +95,7 @@ Die Dauer des schriftlichen Teils beträgt insgesamt höchstens 240 Minuten.
 
 (5) Für die Bewerberinnen und Bewerber, die bestanden haben, legt die Auswahlkommission anhand des von jeder Bewerberin oder jedem Bewerber erzielten Ergebnisses eine Rangfolge fest.
 
-
-## § 9 – Zulassung zum mündlichen Teil des Auswahlverfahrens
+# § 9 – Zulassung zum mündlichen Teil des Auswahlverfahrens
 
 (1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer den schriftlichen Teil bestanden hat.
 
@@ -115,8 +103,7 @@ Die Dauer des schriftlichen Teils beträgt insgesamt höchstens 240 Minuten.
 
 (3) Schwerbehinderte und diesen gleichgestellte behinderte Menschen, die am schriftlichen Teil teilgenommen haben, werden immer zum mündlichen Teil zugelassen.
 
-
-## § 10 – Mündlicher Teil des Auswahlverfahrens
+# § 10 – Mündlicher Teil des Auswahlverfahrens
 
 (1) Im mündlichen Teil des Auswahlverfahrens werden insbesondere die persönlichen und sozialen Kompetenzen der Bewerberinnen und Bewerber geprüft.
 
@@ -132,20 +119,17 @@ Für jede Bewerberin und jeden Bewerber beträgt die Dauer des mündlichen Teils
 
 (4) In die Bewertung des mündlichen Teils gehen das Einzelgespräch mit 87,5 Prozent und die Diskussionsrunde mit 12,5 Prozent ein. Der mündliche Teil ist bestanden, wenn die Bewerberin oder der Bewerber die erforderliche Mindestgesamtpunktzahl erreicht hat.
 
-
-## § 11 – Gesamtergebnis des Auswahlverfahrens
+# § 11 – Gesamtergebnis des Auswahlverfahrens
 
 (1) Die Auswahlkommission ermittelt für jede Bewerberin und jeden Bewerber das Gesamtergebnis des Auswahlverfahrens. In das Gesamtergebnis gehen das Ergebnis des schriftlichen Teils mit 60 Prozent und das Ergebnis des mündlichen Teils mit 40 Prozent ein.
 
 (2) Anhand der ermittelten Gesamtergebnisse legt die Auswahlkommission eine Rangfolge der Bewerberinnen und Bewerber fest. Sind mehrere Auswahlkommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt. Die festgelegte Rangfolge ist für die Einstellung maßgebend.
 
-
-## § 12 – Ausbildung
+# § 12 – Ausbildung
 
 Für die Ausbildung gelten die §§ 2 bis 10, 12 und 14 bis 16 der Steuerbeamtenausbildungs- und -prüfungsordnung, soweit sie für den mittleren Dienst gelten, entsprechend.
 
-
-## § 13 – Laufbahnprüfung und Prüfungsverfahren
+# § 13 – Laufbahnprüfung und Prüfungsverfahren
 
 (1) Die Laufbahnprüfung der Anwärterinnen und Anwärter wird von der obersten Landesfinanzbehörde oder der von ihr bestimmten Stelle durchgeführt.
 
@@ -155,8 +139,7 @@ Für die Ausbildung gelten die §§ 2 bis 10, 12 und 14 bis 16 der Steuerbeamten
 
 (4) Wer die Laufbahnprüfung nicht besteht, kann sie einmal wiederholen. Die Laufbahnprüfung ist vollständig zu wiederholen. Die Rangpunkte, die bei der Wiederholung der Laufbahnprüfung erreicht werden, ersetzen die zuvor erreichten.
 
-
-## § 14 – Ausbildungsakte
+# § 14 – Ausbildungsakte
 
 (1) Das Bundeszentralamt für Steuern führt für jede Anwärterin und jeden Anwärter eine Ausbildungsakte.
 
@@ -164,12 +147,10 @@ Für die Ausbildung gelten die §§ 2 bis 10, 12 und 14 bis 16 der Steuerbeamten
 
 (3) Nach Beendigung des Vorbereitungsdienstes wird die Ausbildungsakte fünf Jahre aufbewahrt und sodann vernichtet.
 
-
-## § 15 – Übergangsvorschrift
+# § 15 – Übergangsvorschrift
 
 Für Anwärterinnen und Anwärter, die vor dem 27. Januar 2017 mit dem Vorbereitungsdienst begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Steuerdienst des Bundes vom 17. Dezember 2002 (BGBl. I S. 4555), die zuletzt durch § 56 Absatz 33 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist, weiter anzuwenden.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren Steuerdienst des Bundes vom 17. Dezember 2002 (BGBl. I S. 4555), die zuletzt durch § 56 Absatz 33 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist, außer Kraft.

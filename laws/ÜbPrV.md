@@ -1,20 +1,15 @@
-# [ÜbPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin  (Übersetzerprüfungsverordnung - ÜbPrV)
-
-Ausfertigungsdatum: 08.05.2017
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin  (Übersetzerprüfungsverordnung - ÜbPrV)
+% Ausfertigungsdatum: 08.05.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 1 zuletzt durch Artikel 436 Nummer 4 Buchstabe a der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin.
 
-
-## § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -38,8 +33,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer oder Geprüfte Übersetzerin.
 
-
-## § 3 – Voraussetzungen für die Zulassung zur Prüfung
+# § 3 – Voraussetzungen für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer eine der folgenden Voraussetzungen nachweist:
 
@@ -53,8 +47,7 @@ Die Voraussetzungen nach den Nummern 1 und 2 sind in der Regel durch den Nachwei
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit entsprechen und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 (1) Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -88,8 +81,7 @@ Die Voraussetzungen nach den Nummern 1 und 2 sind in der Regel durch den Nachwei
 
 Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse der jeweiligen Zielkultur sind für alle Handlungsbereiche grundlegend.
 
-
-## § 5 – Handlungsbereich „Übersetzen aus der und in die Fremdsprache“
+# § 5 – Handlungsbereich „Übersetzen aus der und in die Fremdsprache“
 
 (1) Im Handlungsbereich „Übersetzen aus der und in die Fremdsprache“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, schwierige Fachtexte aus dem breiten Spektrum der wirtschaftsbezogenen Themen nach § 4 Absatz 2 aus der und in die Fremdsprache zu übersetzen.
 
@@ -111,8 +103,7 @@ Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Handlungsbereich „Texte verfassen und bearbeiten“
+# § 6 – Handlungsbereich „Texte verfassen und bearbeiten“
 
 (1) Im Handlungsbereich „Texte verfassen und bearbeiten“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, inhaltlich und sprachlich anspruchsvolle Texte adressaten- und funktionsgerecht in der Fremdsprache zu verfassen und zu überarbeiten.
 
@@ -130,8 +121,7 @@ Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“
+# § 7 – Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“
 
 (1) Im Handlungsbereich „Mündlich kommunizieren in der Fremdsprache“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, in der Fremdsprache auf hohem sprachlichen Niveau mündlich zu kommunizieren.
 
@@ -147,8 +137,7 @@ Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Handlungsbereich „Aufträge selbstständig planen und abwickeln“
+# § 8 – Handlungsbereich „Aufträge selbstständig planen und abwickeln“
 
 (1) Im Handlungsbereich „Aufträge selbstständig planen und abwickeln“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, Aufträge kunden- und qualitätsorientiert zu planen und abzuwickeln.
 
@@ -166,15 +155,13 @@ Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse d
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Durchführung der Prüfung
+# § 9 – Durchführung der Prüfung
 
 (1) Die Prüfung besteht aus der schriftlichen Prüfung nach § 10 und dem Übersetzungsprojekt mit anschließendem Fachgespräch nach § 11.
 
 (2) Das Übersetzungsprojekt ist innerhalb von zwei Jahren nach Bekanntgabe des Ergebnisses der schriftlichen Prüfung durchzuführen. Bei Überschreiten der Frist ist die schriftliche Prüfung erneut abzulegen.
 
-
-## § 10 – Schriftliche Prüfung
+# § 10 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus drei Aufgabenstellungen. Die zu prüfende Person soll
 
@@ -193,8 +180,7 @@ Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse d
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)  
 (+++ § 10: zur Anwendung vgl. § 12 +++)
 
-
-## § 11 – Übersetzungsprojekt mit anschließendem Fachgespräch
+# § 11 – Übersetzungsprojekt mit anschließendem Fachgespräch
 
 (1) Das Übersetzungsprojekt ist nach erfolgreichem Abschluss der schriftlichen Prüfung durchzuführen.
 
@@ -215,22 +201,19 @@ Interkulturelle Fähigkeiten und Fertigkeiten sowie landeskundliche Kenntnisse d
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)  
 (+++ § 11: zur Anwendung vgl. § 12 +++)
 
-
-## § 12 – Deutsch als Fremdsprache
+# § 12 – Deutsch als Fremdsprache
 
 Die zu prüfende Person, deren Hauptsprache nicht Deutsch ist, ist in Deutsch als Fremdsprache zu prüfen. Die Vorgaben des § 10 und des § 11 sind entsprechend anzuwenden.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 13 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 14 und 15 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 15 Absatz 2 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 14 – Bewerten der Prüfungsleistungen
+# § 14 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -248,8 +231,7 @@ b) die Dokumentation nach § 11 Absatz 3 Nummer 2 und
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 15 – Bestehen der Prüfung, Gesamtnote
+# § 15 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -277,8 +259,7 @@ b) in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 16 – Zeugnisse
+# § 16 – Zeugnisse
 
 (1) Wer die Prüfung nach § 15 Absatz 1 bestanden hat erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -292,8 +273,7 @@ b) in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 17 – Wiederholung der Prüfung
+# § 17 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -307,8 +287,7 @@ b) in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 18 – Übergangsvorschriften
+# § 18 – Übergangsvorschriften
 
 (1) Vor Ablauf des 31. Dezember 2017 angemeldete Prüfungen nach der Verordnung über die Prüfungen zu den anerkannten Abschlüssen Geprüfter Übersetzer/Geprüfte Übersetzerin und Geprüfter Dolmetscher/Geprüfte Dolmetscherin vom 18. Mai 2004 (BGBl. I S. 1004) werden bis zum 30. Juni 2020 nach den bisherigen Vorschriften zu Ende geführt.
 
@@ -316,15 +295,13 @@ b) in der Dokumentation nach § 11 Absatz 3 Nummer 2 sowie
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 19 – Inkrafttreten, Außerkrafttreten
+# § 19 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfungen zu den anerkannten Abschlüssen Geprüfter Übersetzer/Geprüfte Übersetzerin und Geprüfter Dolmetscher/Geprüfte Dolmetscherin vom 18. Mai 2004 (BGBl. I S. 1004) außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 14 und 15)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 14 und 15)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2432 – 2433)
 
@@ -333,8 +310,7 @@ Diese Verordnung tritt am 1. Januar 2018 in Kraft. Gleichzeitig tritt die Verord
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 16)Zeugnisinhalte
+# Anlage 2 – (zu § 16)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2433 - 2434)
 

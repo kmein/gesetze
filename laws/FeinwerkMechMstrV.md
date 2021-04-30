@@ -1,15 +1,11 @@
-# [FeinwerkMechMstrV] Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk  (Feinwerkmechanikermeisterverordnung - FeinwerkMechMstrV)
-
-Ausfertigungsdatum: 05.04.2001
-
+% Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Feinwerkmechaniker-Handwerk  (Feinwerkmechanikermeisterverordnung - FeinwerkMechMstrV)
+% Ausfertigungsdatum: 05.04.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung und Inhalt der Meisterprüfung
+# § 1 – Gliederung und Inhalt der Meisterprüfung
 
 (1) Die Meisterprüfung im Feinwerkmechaniker-Handwerk umfasst folgende selbständige Prüfungsteile:
 
@@ -23,8 +19,7 @@ Auf Grund des § 45 der Handwerksordnung in der Fassung der Bekanntmachung vom 2
 
 (2) Für die Meisterprüfung in Teil I im Feinwerkmechaniker-Handwerk werden die Schwerpunkte Maschinenbau, Werkzeugbau und Feinmechanik gebildet; der Prüfling hat einen dieser Schwerpunkte auszuwählen.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 (1) Durch die Meisterprüfung im Feinwerkmechaniker-Handwerk wird festgestellt, dass der Prüfling befähigt ist, einen Handwerksbetrieb selbständig zu führen, Leitungsaufgaben in den Bereichen Technik, Betriebswirtschaft, Personalführung und -entwicklung wahrzunehmen, die Ausbildung durchzuführen und seine berufliche Handlungskompetenz selbständig umzusetzen und an neue Bedarfslagen in diesen Bereichen anzupassen.
 
@@ -78,8 +73,7 @@ c) Instrumente und Messgeräte herstellen, justieren und instand halten, dabei t
 
 d) Maschinen und Bearbeitungswerkzeuge den jeweiligen Anforderungen und Verwendungszwecken zuordnen.
 
-
-## § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
+# § 3 – Gliederung, Prüfungsdauer und Bestehen des Teils I
 
 (1) Der Teil I der Meisterprüfung umfasst als Prüfungsbereich ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch.
 
@@ -89,8 +83,7 @@ d) Maschinen und Bearbeitungswerkzeuge den jeweiligen Anforderungen und Verwendu
 
 (4) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) In dem von ihm gewählten Schwerpunkt hat der Prüfling ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die konkrete Aufgabenstellung erfolgt durch den Meisterprüfungsausschuss. Die Vorschläge des Prüflings sollen dabei berücksichtigt werden. Vor der Durchführung des Meisterprüfungsprojekts hat der Prüfling den Entwurf, einschließlich einer Zeitplanung, dem Meisterprüfungsausschuss zur Genehmigung vorzulegen.
 
@@ -112,13 +105,11 @@ ein Instrument oder Feingerät oder Komponenten davon, einschließlich steuerung
 
 (4) Die im Meisterprüfungsprojekt erbrachten Prüfungsleistungen der Werkstattzeichnung mit den dazugehörigen Plänen, der Kalkulation und des Arbeitsplans werden mit 40 vom Hundert, das angefertigte Produkt mit 50 vom Hundert und das Prüfprotokoll mit 10 vom Hundert gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Auf der Grundlage der Prüfungsleistungen im Meisterprüfungsprojekt wird ein Fachgespräch geführt. Dabei soll der Prüfling zeigen, dass er die fachlichen Zusammenhänge aufzeigen kann, die dem Meisterprüfungsprojekt zugrunde liegen, den Ablauf des Meisterprüfungsprojekts begründen und mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darstellen kann und dabei in der Lage ist, neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
+# § 6 – Gliederung, Prüfungsdauer und Bestehen des Teils II
 
 (1) Durch die Prüfung in Teil II soll der Prüfling durch Verknüpfung technologischer, ablauf- und verfahrenstechnischer, werkstofftechnischer und mathematischer Kenntnisse nachweisen, dass er Probleme analysieren und bewerten sowie geeignete Lösungswege aufzeigen und dokumentieren kann.
 
@@ -192,19 +183,16 @@ h) Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden beschreib
 
 (+++ § 6 Abs. 5 u. 6: Zur Anwendung vgl. § 8 +++)
 
-
-## § 7 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 7 – Allgemeine Prüfungs-  und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 8 – Übergangsvorschrift
+# § 8 – Übergangsvorschrift
 
 Die Regelungen des § 6 Absatz 5 und 6 gelten nicht für die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren. Diese werden nach den bisherigen Vorschriften zu Ende geführt.
 
-
-## § 9 – Inkrafttreten, Außerkrafttreten
+# § 9 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2001 in Kraft.

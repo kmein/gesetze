@@ -1,17 +1,13 @@
-# [InvZulG 1999] Investitionszulagengesetz 1999  (InvZulG 1999)
-
-Ausfertigungsdatum: 18.08.1997
-
+% Investitionszulagengesetz 1999  (InvZulG 1999)
+% Ausfertigungsdatum: 18.08.1997
  
-
-## § 1 – Anspruchsberechtigter, Fördergebiet
+# § 1 – Anspruchsberechtigter, Fördergebiet
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des Körperschaftsteuergesetzes, die im Fördergebiet begünstigte Investitionen im Sinne der §§ 2 bis 4 vornehmen, haben Anspruch auf eine Investitionszulage, soweit sie nicht nach § 5 Abs. 1 Nr. 1 bis 9 und 11 bis 22 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit sind. Bei Personengesellschaften und Gemeinschaften, die begünstigte Investitionen im Sinne der §§ 2 bis 3a vornehmen, tritt an die Stelle des Steuerpflichtigen die Gesellschaft oder die Gemeinschaft als Anspruchsberechtigte.
 
 (2) Fördergebiet sind die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem Gebietsstand vom 3. Oktober 1990. Bei Investitionen im Sinne der §§ 3 bis 4 gehört zum Fördergebiet nicht der Teil des Landes Berlin, in dem das Grundgesetz vor dem 3. Oktober 1990 gegolten hat.
 
-
-## § 2 – Betriebliche Investitionen
+# § 2 – Betriebliche Investitionen
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung von neuen abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die mindestens fünf Jahre nach ihrer Anschaffung oder Herstellung (Fünfjahreszeitraum)
 
@@ -105,8 +101,7 @@ abschließt. Satz 1 gilt nur bei Investitionen, die nach dem 24. August 1997 beg
 
 4. Übernahme eines Betriebs, der geschlossen worden ist oder geschlossen worden wäre, wenn der Betrieb nicht übernommen worden wäre.
 
-
-## § 3 – Modernisierungsmaßnahmen an Mietwohngebäuden sowie Mietwohnungsneubau im innerörtlichen Bereich
+# § 3 – Modernisierungsmaßnahmen an Mietwohngebäuden sowie Mietwohnungsneubau im innerörtlichen Bereich
 
 (1) Begünstigte Investitionen sind:
 
@@ -148,8 +143,7 @@ abschließt. Investitionen im Sinne des Absatzes 1 Nr. 1 bis 3 sind in dem Zeitp
 
 2. 10 vom Hundert für den Teil der Bemessungsgrundlage, der auf Investitionen im Sinne des Absatzes 1 Nr. 4 entfällt.
 
-
-## § 3a – Erhöhte Investitionszulage für Modernisierungsmaßnahmen an Mietwohngebäuden im innerörtlichen Bereich
+# § 3a – Erhöhte Investitionszulage für Modernisierungsmaßnahmen an Mietwohngebäuden im innerörtlichen Bereich
 
 (1) Begünstigte Investitionen sind:
 
@@ -169,8 +163,7 @@ wenn der Anspruchsberechtigte durch eine Bescheinigung der zuständigen Gemeinde
 
 (5) Die Investitionszulage beträgt 22 vom Hundert der Bemessungsgrundlage.
 
-
-## § 4 – Modernisierungsmaßnahmen an einer eigenen Wohnzwecken dienenden Wohnung im eigenen Haus
+# § 4 – Modernisierungsmaßnahmen an einer eigenen Wohnzwecken dienenden Wohnung im eigenen Haus
 
 (1) Begünstigt sind Herstellungs- und Erhaltungsarbeiten an einer Wohnung im eigenen Haus oder an einer eigenen Eigentumswohnung, wenn
 
@@ -190,8 +183,7 @@ wenn der Anspruchsberechtigte durch eine Bescheinigung der zuständigen Gemeinde
 
 (3) Die Investitionszulage beträgt 15 vom Hundert der Bemessungsgrundlage.
 
-
-## § 5 – Antrag auf Investitionszulage
+# § 5 – Antrag auf Investitionszulage
 
 (1) Ehegatten, die gemeinsam Eigentümer einer Wohnung sind, können die Investitionszulage nach § 4 gemeinsam beantragen, wenn in dem Jahr, für das der Antrag gestellt wird, die Voraussetzungen des § 26 Abs. 1 des Einkommensteuergesetzes vorgelegen haben.
 
@@ -199,13 +191,11 @@ wenn der Anspruchsberechtigte durch eine Bescheinigung der zuständigen Gemeinde
 
 (3) Der Antrag ist nach amtlichem Vordruck zu stellen und vom Anspruchsberechtigten eigenhändig zu unterschreiben. In dem Antrag sind die Investitionen, für die eine Investitionszulage beansprucht wird, so genau zu bezeichnen, dass ihre Feststellung bei einer Nachprüfung möglich ist.
 
-
-## § 5a – Gesonderte Feststellung
+# § 5a – Gesonderte Feststellung
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach § 180 Abs. 1 Nr. 2b der Abgabenordnung gesondert festgestellt, sind die Bemessungsgrundlage und der Vomhundertsatz der Investitionszulage für Wirtschaftsgüter, die zum Anlagevermögen dieses Betriebs gehören, von dem für die gesonderte Feststellung zuständigen Finanzamt gesondert festzustellen. Die für die Feststellung erforderlichen Angaben sind in den Antrag nach § 5 Abs. 3 aufzunehmen.
 
-
-## § 6 – Anwendung der Abgabenordnung, Festsetzung und Auszahlung
+# § 6 – Anwendung der Abgabenordnung, Festsetzung und Auszahlung
 
 (1) Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163 der Abgabenordnung. In öffentlich-rechtlichen Streitigkeiten über die auf Grund dieses Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg, gegen die Versagung von Bescheinigungen ist der Verwaltungsrechtsweg gegeben.
 
@@ -219,23 +209,19 @@ Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach § 180 A
 
 (3) Die Investitionszulage ist innerhalb eines Monats nach Bekanntgabe des Bescheids aus den Einnahmen an Einkommensteuer oder Körperschaftsteuer auszuzahlen.
 
-
-## § 7 – Verzinsung des Rückforderungsanspruchs
+# § 7 – Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder zuungunsten des Anspruchsberechtigten geändert worden, so ist der Rückzahlungsanspruch nach § 238 der Abgabenordnung vom Tag der Auszahlung der Investitionszulage, in den Fällen des § 175 Abs. 1 Satz 1 Nr. 2 der Abgabenordnung vom Tag des Eintritts des rückwirkenden Ereignisses an zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden ist.
 
-
-## § 8 – Verfolgung von Straftaten
+# § 8 – Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach §§ 263 und 264 des Strafgesetzbuchs, die sich auf die Investitionszulage bezieht, sowie der Begünstigung einer Person, die eine solche Straftat begangen hat, gelten die Vorschriften der Abgabenordnung über die Verfolgung von Steuerstraftaten entsprechend.
 
-
-## § 9 – Ertragsteuerliche Behandlung der Investitionszulage
+# § 9 – Ertragsteuerliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des Einkommensteuergesetzes. Sie mindert nicht die steuerlichen Anschaffungs- und Herstellungskosten und nicht die Erhaltungsaufwendungen.
 
-
-## § 10 – Anwendungsbereich
+# § 10 – Anwendungsbereich
 
 (1) (weggefallen)
 
@@ -265,13 +251,11 @@ Die Investitionszulage gehört nicht zu den Einkünften im Sinne des Einkommenst
 
 (11) Nummer 6 der Anlage 1 zu diesem Gesetz in der Fassung des Gesetzes vom 15. Dezember 2003 (BGBl. I S. 2645) ist bei Investitionen anzuwenden, die nach dem 30. Juni 2001 begonnen worden sind.
 
-
-## § 11 – Ermächtigung
+# § 11 – Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum bekannt zu machen.
 
-
-## Anlage 1 – (zu § 2 Abs. 2 Satz 2)
+# Anlage 1 – (zu § 2 Abs. 2 Satz 2)
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3328
 
@@ -291,8 +275,7 @@ Sensible Sektoren sind:
 
 7. Verkehrssektor (Verordnung (EWG) Nr. 1107/70 des Rates vom 4. Juni 1970 über Beihilfen im Eisenbahn-, Straßen- und Binnenschiffsverkehr, ABl. EG Nr. L 130 S. 1, in der Fassung der Verordnung (EG) Nr. 543/97 des Rates vom 17. März 1997, ABl. EG Nr. L 84 S. 6, Mitteilung der Kommission "Leitlinien der Gemeinschaft für staatliche Beihilfen im Seeverkehr", ABl. EU Nr. C 13 S. 3 vom 17. Januar 2004, und Anwendung der Artikel 92 und 93 des EG-Vertrages sowie des Artikels 61 des EWR-Abkommens auf staatliche Beihilfen im Luftverkehr, ABl. EG Nr. C 350 S. 5 vom 10. Dezember 1994).
 
-
-## Anlage 2 – (zu § 2 Abs. 6 Nr. 3 und Abs. 7 Nr. 3)
+# Anlage 2 – (zu § 2 Abs. 6 Nr. 3 und Abs. 7 Nr. 3)
 
 Fundstelle des Originaltexte: BGBl. I 2002, 4041;  
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -307,8 +290,7 @@ Kreisfreie Stadt Görlitz, Landkreis Niederschlesischer Oberlausitzkreis, Landkr
 im Freistaat Thüringen:  
 Landkreis Saale-Orla-Kreis, Landkreis Greiz.
 
-
-## Anlage 3 – (zu § 10 Abs. 3 und 4)
+# Anlage 3 – (zu § 10 Abs. 3 und 4)
 
 Fundstelle des Originaltextes: BGBl. I 4042 - 4043;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

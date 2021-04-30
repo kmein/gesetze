@@ -1,10 +1,7 @@
-# [WZG§4NATOBek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 16.06.1966
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 16.06.1966
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird bekanntgemacht, daß die in der Anlage 1 wiedergegebenen Bezeichnungen
 
@@ -37,21 +34,18 @@ Bekanntmachung vom 1. April 1964
 Bekanntmachung vom 25. Juni 1964  
 (Bundesgesetzbl. I S. 485).
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 1966, 391 - 392)
 
-![](../normengrafiken/bgbl1_1966/j0391_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1966/j0391_0010.jpg)  
   
-![](../normengrafiken/bgbl1_1966/j0392_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1966/j0392_0010.jpg)
 
-
-## Anlage 2
+# Anlage 2
 
 \-

@@ -1,10 +1,7 @@
-# [EinkFachwBAProPPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf-Bachelor Professional in Procurement  (Einkaufsfachwirt-Bachelor Professional in Procurement-Prüfungsverordnung - EinkFachwBAProPPrV)
-
-Ausfertigungsdatum: 18.12.2020
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf-Bachelor Professional in Procurement  (Einkaufsfachwirt-Bachelor Professional in Procurement-Prüfungsverordnung - EinkFachwBAProPPrV)
+% Ausfertigungsdatum: 18.12.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Bildung und Forschung verordnet jeweils nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung auf Grund
 
@@ -14,11 +11,9 @@ des § 53 Absatz 1 in Verbindung mit Absatz 2 und mit den §§ 53a und 53c des B
 –  
 des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung vom 4. Mai 2020 (BGBl. I S. 920):
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
+# § 1 – Ziel der Prüfung zum Erwerb des Fortbildungsabschlusses und dessen Bezeichnung
 
 (1) Mit der erfolgreich abgelegten Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt für Einkauf-Bachelor Professional in Procurement“ und „Geprüfte Fachwirtin für Einkauf-Bachelor Professional in Procurement“ wird die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit auf der zweiten beruflichen Fortbildungsstufe der höherqualifizierenden Berufsbildung nachgewiesen.
 
@@ -50,8 +45,7 @@ des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung 
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Bachelor Professional in Procurement“. Der Abschlussbezeichnung wird die weitere Abschlussbezeichnung „Geprüfter Fachwirt für Einkauf“ oder „Geprüfte Fachwirtin für Einkauf“ vorangestellt.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer die Anforderungen des § 53c des Berufsbildungsgesetzes erfüllt und Folgendes nachweist:
 
@@ -65,8 +59,7 @@ des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung 
 
 (3) Abweichend von Absatz 1 ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -94,8 +87,7 @@ des § 30 Absatz 5 des Berufsbildungsgesetzes in der Fassung der Bekanntmachung 
 
 (7) Im Fachgespräch nach Absatz 4 Satz 2 und 3 soll ausgehend von der Präsentation die Fähigkeit nachgewiesen werden, betriebspraktische Probleme zu analysieren und Lösungsmöglichkeiten unter Beachtung der maßgebenden Einflussfaktoren zu bewerten. Das Fachgespräch soll in der Regel nicht länger als 20 Minuten dauern.
 
-
-## § 4 – Inhalte der Prüfung
+# § 4 – Inhalte der Prüfung
 
 (1) Im Handlungsbereich „Interne und externe Einkaufsbedarfe ermitteln“ soll die Fähigkeit nachgewiesen werden, Methoden der Beschaffungsmarktforschung auch international anzuwenden, zur Bedarfsermittlung unterschiedliche Analyseinstrumente einzusetzen sowie die Daten aufzubereiten und diese den Prozessbeteiligten zu kommunizieren. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -286,13 +278,11 @@ b) Gesundheitsschutz im Betrieb fördern,
 
 c) Unterweisungen und Dokumentation im Arbeits- und Gesundheitsschutz sicherstellen.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 7 Absatz 3 Satz 1 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -310,8 +300,7 @@ Aus den einzelnen Bewertungen des Fachgesprächs und der Präsentation wird als 
 
 2. die Bewertung der Präsentation mit einem Drittel.
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen und der mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -323,8 +312,7 @@ Aus den einzelnen Bewertungen des Fachgesprächs und der Präsentation wird als 
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel der beiden Prüfungsteile zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl ist nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zuzuordnen. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -336,32 +324,27 @@ Aus den einzelnen Bewertungen des Fachgesprächs und der Präsentation wird als 
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
 (2) Wer auf Antrag an einer Wiederholungsprüfung teilnimmt und sich innerhalb von zwei Jahren, gerechnet vom Tage der nicht bestandenen Prüfung an, dazu anmeldet, ist von der schriftlichen Prüfung zu befreien, wenn die dort in einer vorangegangenen Prüfung erbrachte Leistung mindestens ausreichend ist. Der Antrag kann sich auch darauf richten, die bestandene Prüfungsleistung einmal zu wiederholen. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Nach der Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf vom 21. August 2014 (BGBl. I S. 1466), die durch Artikel 75 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen.
 
 (2) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 1 Satz 1 bezeichneten Verordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf vom 21. August 2014 (BGBl. I S. 1466), die durch Artikel 75 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2020, 3067 - 3068)
 
@@ -603,8 +586,7 @@ eine Leistung, die den Anforderungen nicht entspricht und bei der selbst Grundke
 
 6,0
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2020, 3069)
 

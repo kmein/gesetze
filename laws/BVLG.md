@@ -1,15 +1,11 @@
-# [BVLG] Gesetz über die Errichtung eines Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit  (BVL-Gesetz - BVLG)
-
-Ausfertigungsdatum: 06.08.2002
-
+% Gesetz über die Errichtung eines Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit  (BVL-Gesetz - BVLG)
+% Ausfertigungsdatum: 06.08.2002
  
-
-## § 1 – Rechtsform, Name
+# § 1 – Rechtsform, Name
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (Bundesministerium) ist ein "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit" (Bundesamt) als selbständige Bundesoberbehörde errichtet.
 
-
-## § 2 – Tätigkeiten
+# § 2 – Tätigkeiten
 
 (1) Das Bundesamt wird, unbeschadet der Zuständigkeiten sonstiger Einrichtungen des Bundes für Fragen der Gesundheit des Menschen, insbesondere auf folgenden Gebieten tätig:
 
@@ -55,8 +51,7 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 8. Tiergesundheitsgesetzes,
 
-9\. bis 12.  
-(weggefallen),
+9\. bis 12. (weggefallen),
 
 13. Arzneimittelgesetzes, soweit es den Verkehr und die Anwendung von Arzneimitteln betrifft, die zur Anwendung bei Tieren bestimmt sind, und es sich dabei nicht um Tierimpfstoffe handelt,
 
@@ -68,8 +63,7 @@ sowie zur Durchführung von im Anwendungsbereich dieser Gesetze unmittelbar gelt
 
 1. Ausschuss Verbraucherschutz und Lebensmittelsicherheit; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende, grundsätzliche und andere als die Überwachung betreffende Fragen im Bereich des Verbraucherschutzes und der Lebensmittelsicherheit zu behandeln,
 
-1a.  
-Ausschuss für tierische Nebenprodukte; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende grundsätzliche und andere als die Überwachung betreffende Fragen im Bereich der tierischen Nebenprodukte und Folgeprodukte zu behandeln,
+1a. Ausschuss für tierische Nebenprodukte; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende grundsätzliche und andere als die Überwachung betreffende Fragen im Bereich der tierischen Nebenprodukte und Folgeprodukte zu behandeln,
 
 2. Ausschuss Überwachung; dieser Ausschuss hat die Aufgabe, gesetzesübergreifende, grundsätzliche Überwachungsfragen im Bereich des gesundheitlichen Verbraucherschutzes und der Lebensmittelsicherheit sowie im Bereich der tierischen Nebenprodukte und Folgeprodukte zu behandeln.
 
@@ -95,15 +89,13 @@ Jedem der in Satz 1 genannten Ausschüsse gehören an:
 
 (8) Das Bundesamt beteiligt das Bundesinstitut für Risikobewertung (Bundesinstitut) und das Bundesamt für Strahlenschutz jeweils in allen wissenschaftlichen Fragen, die in das Tätigkeitsgebiet des Bundesinstitutes oder des Bundesamtes fallen, im Rahmen der Erledigung seiner Aufgaben.
 
-
-## § 3 – Aufgabendurchführung
+# § 3 – Aufgabendurchführung
 
 (1) Das Bundesamt erledigt im Rahmen der ihm durch § 2 Absatz 1 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes, die dem Bundesamt durch Gesetz oder auf Grund eines Gesetzes zugewiesen sind.
 
 (2) Das Bundesamt erledigt, soweit keine andere Zuständigkeit gesetzlich festgelegt ist, Aufgaben des Bundes in seinem Tätigkeitsbereich, mit deren Durchführung das Bundesamt vom Bundesministerium beauftragt wird.
 
-
-## § 4 – Bekanntmachungen im Bundesanzeiger
+# § 4 – Bekanntmachungen im Bundesanzeiger
 
 In Rechtsverordnungen auf Grund des Lebensmittel- und Futtermittelgesetzbuches, des Milch- und Margarinegesetzes, des Tiergesundheitsgesetzes, des Tierschutzgesetzes, des Tierzuchtgesetzes oder des Pflanzenschutzgesetzes kann vorgesehen werden, dass das Bundesministerium zuständig ist,
 
@@ -113,13 +105,11 @@ In Rechtsverordnungen auf Grund des Lebensmittel- und Futtermittelgesetzbuches, 
 
 In den in Satz 1 bezeichneten Rechtsverordnungen kann die Zuständigkeit des Bundesministeriums ganz oder teilweise auf das Bundesamt übertragen werden.
 
-
-## § 5 – Aufsicht im besonderen Fall
+# § 5 – Aufsicht im besonderen Fall
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bundesministeriums wahrnimmt, untersteht es den fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
-
-## § 6 – Gebühren- und Auslagenerhebung
+# § 6 – Gebühren- und Auslagenerhebung
 
 (1) Für individuell zurechenbare öffentliche Leistungen, insbesondere für Genehmigungen, Eintragungen, Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesamtes werden Gebühren und Auslagen erhoben. Bei der Bemessung der Höhe der Gebühr nach Satz 1 ist auch der mit Mitwirkungshandlungen des Bundesinstituts verbundene Verwaltungsaufwand zu berücksichtigen, soweit die Mitwirkung des Bundesinstituts durch Rechtsvorschrift angeordnet ist oder auf einer Rechtsvorschrift beruht. Spezielle gesetzliche Gebührenregelungen bleiben unberührt.
 
@@ -127,8 +117,7 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass, auch in den Fällen des Absatzes 1 Satz 3, bei der Bemessung der Höhe der Gebühren auch der mit Mitwirkungshandlungen von Bundesoberbehörden oder von bundesunmittelbaren Anstalten des öffentlichen Rechts verbundene Verwaltungsaufwand berücksichtigt werden kann, soweit die jeweilige Mitwirkung durch Rechtsvorschrift angeordnet ist oder auf einer Rechtsvorschrift beruht.
 
-
-## § 7 – Übernahme der Beamtinnen und Beamten und Arbeitnehmerinnen und Arbeitnehmer
+# § 7 – Übernahme der Beamtinnen und Beamten und Arbeitnehmerinnen und Arbeitnehmer
 
 (1) Die beim Bundesinstitut für gesundheitlichen Verbraucherschutz und Veterinärmedizin und der Biologischen Bundesanstalt für Land- und Forstwirtschaft tätigen Beamtinnen und Beamten sind mit dem Inkrafttreten dieses Gesetzes zum Bundesamt versetzt, soweit sie bislang ausschließlich Aufgaben wahrgenommen haben, die künftig vom Bundesamt wahrgenommen werden.
 
@@ -138,7 +127,6 @@ Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als dem des Bu
 
 (4) Die bei der Bundesanstalt für Landwirtschaft und Ernährung tätigen Arbeitnehmerinnen und Arbeitnehmer sind mit dem Inkrafttreten dieses Gesetzes in den Dienst des Bundesamtes übernommen, soweit sie bislang ausschließlich Aufgaben wahrgenommen haben, die künftig vom Bundesamt wahrgenommen werden.
 
-
-## § 8 – (weggefallen)
+# § 8 – (weggefallen)
 
 \-

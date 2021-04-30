@@ -1,15 +1,11 @@
-# [MietPfG] Gesetz über die Pfändung von Miet- und Pachtzinsforderungen wegen Ansprüche aus öffentlichen Grundstückslasten
-
-Ausfertigungsdatum: 09.03.1934
-
+% Gesetz über die Pfändung von Miet- und Pachtzinsforderungen wegen Ansprüche aus öffentlichen Grundstückslasten
+% Ausfertigungsdatum: 09.03.1934
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
-
-## ----
+# ----
 
 (1) Die öffentlichen Lasten eines Grundstücks, die in wiederkehrenden Leistungen bestehen, erstrecken sich nach Maßgabe der folgenden Bestimmungen auf die Miet- und Pachtforderungen.
 

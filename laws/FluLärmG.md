@@ -1,20 +1,15 @@
-# [FluLärmG] Gesetz zum Schutz gegen Fluglärm
-
-Ausfertigungsdatum: 30.03.1971
-
+% Gesetz zum Schutz gegen Fluglärm
+% Ausfertigungsdatum: 30.03.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Zweck und Geltungsbereich
+# § 1 – Zweck und Geltungsbereich
 
 Zweck dieses Gesetzes ist es, in der Umgebung von Flugplätzen bauliche Nutzungsbeschränkungen und baulichen Schallschutz zum Schutz der Allgemeinheit und der Nachbarschaft vor Gefahren, erheblichen Nachteilen und erheblichen Belästigungen durch Fluglärm sicherzustellen.
 
-
-## § 2 – Einrichtung von Lärmschutzbereichen
+# § 2 – Einrichtung von Lärmschutzbereichen
 
 (1) In der Umgebung von Flugplätzen werden Lärmschutzbereiche eingerichtet, die das Gebiet der in dem nachfolgenden Absatz genannten Schutzzonen außerhalb des Flugplatzgeländes umfassen.
 
@@ -240,15 +235,13 @@ Neue oder wesentlich baulich erweiterte Flugplätze im Sinne dieser Vorschrift s
 
 (3) Die Bundesregierung erstattet spätestens im Jahre 2017 und spätestens nach Ablauf von jeweils weiteren zehn Jahren dem Deutschen Bundestag Bericht über die Überprüfung der in Absatz 2 genannten Werte unter Berücksichtigung des Standes der Lärmwirkungsforschung und der Luftfahrttechnik.
 
-
-## § 3 – Ermittlung der Lärmbelastung
+# § 3 – Ermittlung der Lärmbelastung
 
 (1) Der äquivalente Dauerschallpegel L(tief)Aeq Tag für die Tag-Schutzzonen 1 und 2 sowie der äquivalente Dauerschallpegel L(tief)Aeq Nacht und der Maximalpegel L(tief)Amax für die Nacht-Schutzzone werden unter Berücksichtigung von Art und Umfang des voraussehbaren Flugbetriebs nach der Anlage zu diesem Gesetz ermittelt.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 15) durch Rechtsverordnung mit Zustimmung des Bundesrates Art und Umfang der erforderlichen Auskünfte der nach § 11 Verpflichteten und die Berechnungsmethode für die Ermittlung der Lärmbelastung zu regeln.
 
-
-## § 4 – Festsetzung von Lärmschutzbereichen
+# § 4 – Festsetzung von Lärmschutzbereichen
 
 (1) Ein Lärmschutzbereich ist für folgende Flugplätze festzusetzen:
 
@@ -274,8 +267,7 @@ Neue oder wesentlich baulich erweiterte Flugplätze im Sinne dieser Vorschrift s
 
 (8) Wenn der Schutz der Allgemeinheit es erfordert, sollen auch für andere als in Absatz 1 genannte Flugplätze Lärmschutzbereiche festgesetzt werden. Die Absätze 2 bis 7 gelten entsprechend.
 
-
-## § 5 – Bauverbote
+# § 5 – Bauverbote
 
 (1) In einem Lärmschutzbereich dürfen Krankenhäuser, Altenheime, Erholungsheime und ähnliche in gleichem Maße schutzbedürftige Einrichtungen nicht errichtet werden. In den Tag-Schutzzonen des Lärmschutzbereichs gilt Gleiches für Schulen, Kindergärten und ähnliche in gleichem Maße schutzbedürftige Einrichtungen. Die nach Landesrecht zuständige Behörde kann Ausnahmen zulassen, wenn dies zur Versorgung der Bevölkerung mit öffentlichen Einrichtungen oder sonst im öffentlichen Interesse dringend geboten ist.
 
@@ -299,25 +291,21 @@ Satz 1 Nr. 4 gilt nicht für Grundstücke, auf denen die Errichtung von Wohnunge
 
 (4) Absatz 1 Satz 1 und 2 und Absatz 2 gelten nicht für bauliche Anlagen, für die vor der Festsetzung des Lärmschutzbereichs eine Baugenehmigung erteilt worden ist, sowie für nichtgenehmigungsbedürftige bauliche Anlagen, mit deren Errichtung nach Maßgabe des Bauordnungsrechts vor der Festsetzung des Lärmschutzbereichs hätte begonnen werden dürfen.
 
-
-## § 6 – Sonstige Beschränkungen der baulichen Nutzung
+# § 6 – Sonstige Beschränkungen der baulichen Nutzung
 
 Die nach § 5 Abs. 1 Satz 3, Abs. 2 Satz 2 und Abs. 3 zulässigen baulichen Anlagen sowie Wohnungen in der Tag-Schutzzone 2 dürfen nur errichtet werden, sofern sie den nach § 7 festgesetzten Schallschutzanforderungen genügen.
 
-
-## § 7 – Schallschutz
+# § 7 – Schallschutz
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 15) durch Rechtsverordnung mit Zustimmung des Bundesrates Schallschutzanforderungen einschließlich Anforderungen an Belüftungseinrichtungen unter Beachtung des Standes der Schallschutztechnik im Hochbau festzusetzen, denen die baulichen Anlagen zum Schutz ihrer Bewohner vor Fluglärm in dem Fall des § 6 genügen müssen.
 
-
-## § 8 – Entschädigung bei Bauverboten
+# § 8 – Entschädigung bei Bauverboten
 
 (1) Wird durch ein Bauverbot nach § 5 Abs. 1 Satz 1 und 2 oder Absatz 2 Satz 1 die bisher zulässige bauliche Nutzung aufgehoben und tritt dadurch eine nicht nur unwesentliche Wertminderung des Grundstücks ein, so kann der Eigentümer insoweit eine angemessene Entschädigung in Geld verlangen. Der Eigentümer kann ferner eine angemessene Entschädigung in Geld verlangen, soweit durch das Bauverbot Aufwendungen für Vorbereitungen zur baulichen Nutzung des Grundstücks an Wert verlieren, die der Eigentümer im Vertrauen auf den Bestand der bisher zulässigen baulichen Nutzung gemacht hat.
 
 (2) Die Vorschriften des § 93 Abs. 2, 3 und 4, des § 95 Abs. 1, 2 und 4, der §§ 96, 97, 98 und 99 Abs. 1 des Baugesetzbuchs sowie die Vorschriften der §§ 17, 18 Abs. 1, 2 Satz 1, Abs. 3 und der §§ 19 bis 25 des Schutzbereichgesetzes vom 7. Dezember 1956 (Bundesgesetzbl. I S. 899), zuletzt geändert durch Artikel 1 Abs. 6 der Verordnung vom 5. April 2002 (BGBl. I S. 1250), sind sinngemäß anzuwenden.
 
-
-## § 9 – Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen, Entschädigung für Beeinträchtigungen des Außenwohnbereichs
+# § 9 – Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen, Entschädigung für Beeinträchtigungen des Außenwohnbereichs
 
 (1) Dem Eigentümer eines in der Tag-Schutzzone 1 gelegenen Grundstücks, auf dem bei Festsetzung des Lärmschutzbereichs Einrichtungen nach § 5 Abs. 1 Satz 1 und 2 oder Wohnungen errichtet sind oder auf dem die Errichtung von baulichen Anlagen nach § 5 Abs. 4 zulässig ist, werden auf Antrag Aufwendungen für bauliche Schallschutzmaßnahmen nach Maßgabe der Absätze 3 und 4 und des § 10 erstattet. Soweit für einen bestehenden zivilen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 2 der durch Fluglärm hervorgerufene äquivalente Dauerschallpegel L(tief)Aeq Tag bei einem Grundstück den Wert von 70 dB(A) übersteigt, entsteht der Anspruch mit der Festsetzung des Lärmschutzbereichs; ansonsten entsteht der Anspruch mit Beginn des sechsten Jahres nach Festsetzung des Lärmschutzbereichs. Für einen bestehenden militärischen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 4 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 73 dB(A) abzustellen ist. Für einen neuen oder wesentlich baulich erweiterten zivilen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 1 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 65 dB(A) abzustellen ist. Für einen neuen oder wesentlich baulich erweiterten militärischen Flugplatz im Sinne des § 2 Abs. 2 Satz 2 Nr. 3 gilt Satz 2 mit der Maßgabe, dass auf einen Wert von 68 dB(A) abzustellen ist.
 
@@ -333,13 +321,11 @@ Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten Kreise (§ 
 
 (7) An die Stelle des nach den Absätzen 1, 2 und 5 anspruchsberechtigten Grundstückseigentümers tritt der Erbbauberechtigte oder der Wohnungseigentümer, wenn das auf dem Grundstück stehende Gebäude oder Teile des Gebäudes im Eigentum eines Erbbauberechtigten oder eines Wohnungseigentümers stehen. Der Anspruch nach den Absätzen 1, 2 und 5 kann nur innerhalb einer Frist von fünf Jahren nach Entstehung des Anspruchs geltend gemacht werden.
 
-
-## § 10 – Verfahren bei der Erstattung von Aufwendungen
+# § 10 – Verfahren bei der Erstattung von Aufwendungen
 
 Die nach Landesrecht zuständige Behörde setzt nach Anhörung der Beteiligten (Zahlungsempfänger und Zahlungspflichtiger) durch schriftlichen Bescheid fest, in welcher Höhe die Aufwendungen erstattungsfähig sind. Der Bescheid muss eine Rechtsmittelbelehrung enthalten. Er ist den Beteiligten zuzustellen.
 
-
-## § 11 – Auskunft
+# § 11 – Auskunft
 
 (1) Der Halter eines Flugplatzes und die mit der Flugsicherung Beauftragten sind verpflichtet, der nach Landesrecht zuständigen Behörde die zur Ermittlung der Lärmbelastung nach § 3 erforderlichen Auskünfte zu erteilen sowie die erforderlichen Daten, Unterlagen und Pläne vorzulegen.
 
@@ -347,47 +333,39 @@ Die nach Landesrecht zuständige Behörde setzt nach Anhörung der Beteiligten (
 
 (3) Auf die nach Absatz 1 erlangten Kenntnisse und Unterlagen sind §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder der für ihn tätigen Personen handelt.
 
-
-## § 12 – Zahlungspflichtiger
+# § 12 – Zahlungspflichtiger
 
 (1) Zur Zahlung der Entschädigung nach § 8, zur Erstattung der Aufwendungen für bauliche Schallschutzmaßnahmen nach § 9 Abs. 1 und 2 und zur Zahlung der Entschädigung für Beeinträchtigungen des Außenwohnbereichs nach § 9 Abs. 5 ist der Flugplatzhalter verpflichtet.
 
 (2) Soweit die auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland stationierten Streitkräfte Flugplätze im Bundesgebiet benutzen und ein Entsendestaat als Flugplatzhalter zahlungspflichtig ist, steht die Bundesrepublik für die Erfüllung der Zahlungspflicht ein. Rechtsstreitigkeiten wegen der Zahlung einer Entschädigung oder der Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen werden von der Bundesrepublik Deutschland im eigenen Namen für den Entsendestaat geführt, gegen den sich der Anspruch richtet.
 
-
-## § 13 – Sonstige Vorschriften
+# § 13 – Sonstige Vorschriften
 
 (1) Dieses Gesetz regelt in der ab dem 7. Juni 2007 geltenden Fassung für die Umgebung von Flugplätzen mit Wirkung auch für das Genehmigungsverfahren nach § 6 des Luftverkehrsgesetzes sowie das Planfeststellungs- und Plangenehmigungsverfahren nach § 8 des Luftverkehrsgesetzes die Erstattung von Aufwendungen für bauliche Schallschutzmaßnahmen, einschließlich der zugrunde liegenden Schallschutzanforderungen, nach § 9 Abs. 1 bis 4 und die Entschädigung für Beeinträchtigungen des Außenwohnbereichs in der Umgebung neuer und wesentlich baulich erweiterter Flugplätze nach § 9 Abs. 5 und 6. Soweit in einer Genehmigung, Planfeststellung oder Plangenehmigung, die bis zum 6. Juni 2007 erteilt worden ist, weitergehende Regelungen getroffen worden sind, bleiben diese unberührt. Solange die Genehmigung, Planfeststellung oder Plangenehmigung nicht bestandskräftig ist, ist die Vollziehung der weitergehenden Regelungen ausgesetzt.
 
 (2) Vorschriften, die weitergehende Planungsmaßnahmen zulassen, bleiben unberührt.
 
-
-## § 14 – Schutzziele für die Lärmaktionsplanung
+# § 14 – Schutzziele für die Lärmaktionsplanung
 
 Bei der Lärmaktionsplanung nach § 47d des Bundes-Immissionsschutzgesetzes sind für Flugplätze die jeweils anwendbaren Werte des § 2 Abs. 2 des Gesetzes zum Schutz gegen Fluglärm zu beachten.
 
-
-## § 15 – Anhörung beteiligter Kreise
+# § 15 – Anhörung beteiligter Kreise
 
 Soweit Ermächtigungen zum Erlass von Rechtsverordnungen die Anhörung der beteiligten Kreise vorschreiben, ist ein jeweils auszuwählender Kreis von Vertretern der Wissenschaft, der Technik, der Flugplatzhalter, der Luftfahrtunternehmen, der kommunalen Spitzenverbände, der Lärmschutz- und Umweltverbände, der Kommissionen nach § 32b des Luftverkehrsgesetzes und der für die Luftfahrt und den Immissionsschutz zuständigen obersten Landesbehörden zu hören.
 
-
-## § 16 – (weggefallen)
-
-\-
-
-
-## § 17 – (weggefallen)
+# § 16 – (weggefallen)
 
 \-
 
-
-## § 18 – (weggefallen)
+# § 17 – (weggefallen)
 
 \-
 
+# § 18 – (weggefallen)
 
-## Anlage – (zu § 3)
+\-
+
+# Anlage – (zu § 3)
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 2556)
 

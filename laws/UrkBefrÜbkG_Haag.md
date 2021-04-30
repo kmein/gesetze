@@ -1,20 +1,15 @@
-# [UrkBefrÜbkG Haag] Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
-
-Ausfertigungsdatum: 21.06.1965
-
+% Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
+% Ausfertigungsdatum: 21.06.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Den Haag am 5. Oktober 1961 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation wird zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 (1) Die Bundesregierung und die Landesregierungen oder von diesen ermächtigte oberste Bundes- oder Landesbehörden bestimmen in ihrem jeweiligen Geschäftsbereich die Behörden, die für die Ausstellung der Apostille zuständig sind (Artikel 3, 6 und 7 des Übereinkommens). Als zuständige Behörde kann auch der Präsident eines Gerichts bestimmt werden.
 
@@ -24,13 +19,11 @@ Dem in Den Haag am 5. Oktober 1961 von der Bundesrepublik Deutschland unterzeich
 
 (4) Das Übereinkommen ist auch auf Urkunden der Verwaltungsbehörden, die sich unmittelbar auf den Handelsverkehr oder das Zollverfahren beziehen, anzuwenden.
 
-
-## Art 3
+# Art 3
 
 Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die Anwendung dieses Gesetzes feststellt. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1).
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -1,23 +1,17 @@
-# [EComFPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im E-Commerce oder Geprüfte Fachwirtin im E-Commerce  (E-Commerce-Fortbildungsprüfungsverordnung - EComFPrV)
-
-Ausfertigungsdatum: 05.12.2019
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im E-Commerce oder Geprüfte Fachwirtin im E-Commerce  (E-Commerce-Fortbildungsprüfungsverordnung - EComFPrV)
+% Ausfertigungsdatum: 05.12.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 zuletzt durch Artikel 436 Nummer 4 Buchstabe a der Verordnung vom 31. August 2015 (BGBI. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im E-Commerce oder Geprüfte Fachwirtin im E-Commerce.
 
-
-## § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 2 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt im E-Commerce“ oder „Geprüfte Fachwirtin im E-Commerce“ soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -49,8 +43,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (5) Die erfolgreich abgelegte Prüfung nach Absatz 1 führt zum anerkannten Fortbildungsabschluss „Geprüfter Fachwirt im E-Commerce“ oder „Geprüfte Fachwirtin im E-Commerce“.
 
-
-## § 3 – Voraussetzung für die Zulassung zur Prüfung
+# § 3 – Voraussetzung für die Zulassung zur Prüfung
 
 (1) Zur Prüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -66,8 +59,7 @@ Diese Verordnung regelt die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten erworben zu haben, die der beruflichen Handlungsfähigkeit vergleichbar sind und die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Handlungsbereiche
+# § 4 – Handlungsbereiche
 
 Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
@@ -79,8 +71,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 4. Sicherstellen der Kommunikation und Zusammenarbeit mit internen und externen Partnern sowie Führen von internen und externen Partnern nach § 8.
 
-
-## § 5 – Handlungsbereich „Entwickeln von Strategien für den E-Commerce“
+# § 5 – Handlungsbereich „Entwickeln von Strategien für den E-Commerce“
 
 (1) Im Handlungsbereich „Entwickeln von Strategien für den E-Commerce“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Aktivitäten im E-Commerce des Unternehmens strategisch unter Berücksichtigung unterschiedlicher Vertriebswege zu entwickeln. Hierbei sollen Auswirkungen von gesellschaftlichen, technologischen, betriebs- und volkswirtschaftlichen Entwicklungen bewertet werden und aus der Bewertung Schlussfolgerungen und Maßnahmenvorschläge für die Sicherung der Wettbewerbsfähigkeit des Unternehmens abgeleitet werden. Rechtliche Vorschriften, Compliance-Regeln und Aspekte der Nachhaltigkeit sind zu berücksichtigen.
 
@@ -106,8 +97,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 10. Anwenden von Innovationsmanagement.
 
-
-## § 6 – Handlungsbereich „Gestalten von Prozessen im E-Commerce“
+# § 6 – Handlungsbereich „Gestalten von Prozessen im E-Commerce“
 
 (1) Im Handlungsbereich „Gestalten von Prozessen im E-Commerce“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, die Prozesse im E-Commerce unter Berücksichtigung absatzwirtschaftlicher, personeller, logistischer, rechtlicher und technologischer Anforderungen zu entwickeln, umzusetzen und zu kontrollieren. Dabei sollen das Zusammenwirken der Prozesse optimiert, Risiken und Kosten minimiert sowie Vorgaben des Qualitäts- und Umweltmanagements berücksichtigt werden.
 
@@ -123,8 +113,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 5. Gestalten von Prozessen der Vertragsanbahnung und des Vertragsabschlusses.
 
-
-## § 7 – Handlungsbereich „Analysieren und Weiterentwickeln von Prozessen im E-Commerce“
+# § 7 – Handlungsbereich „Analysieren und Weiterentwickeln von Prozessen im E-Commerce“
 
 (1) Im Handlungsbereich „Analysieren und Weiterentwickeln von Prozessen im E-Commerce“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, bestehende Prozesse im E-Commerce in betriebswirtschaftlicher, personeller und technologischer Hinsicht sowie unter Berücksichtigung rechtlicher Vorschriften zu überwachen, zu bewerten und zu optimieren.
 
@@ -142,8 +131,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 6. Bewerten der Analyseergebnisse der Customer Journey über unterschiedliche Werbe- und Vertriebskanäle, Ableiten von Schlussfolgerungen.
 
-
-## § 8 – Handlungsbereich „Sicherstellen der Kommunikation und Zusammenarbeit mit internen und externen Partnern sowie Führen von internen und externen Partnern“
+# § 8 – Handlungsbereich „Sicherstellen der Kommunikation und Zusammenarbeit mit internen und externen Partnern sowie Führen von internen und externen Partnern“
 
 (1) Im Handlungsbereich „Sicherstellen der Kommunikation und Zusammenarbeit mit internen und externen Partnern sowie Führen von internen und externen Partnern“ soll die zu prüfende Person nachweisen, dass sie in der Lage ist, zielorientiert mit Mitarbeitern und Mitarbeiterinnen, Auszubildenden, Geschäftspartnern und Kunden zusammenzuarbeiten. Unter Beachtung betrieblicher, technologischer und gesellschaftlicher sowie soziokultureller Rahmenbedingungen sollen Mitarbeiter und Mitarbeiterinnen, Auszubildende und Projektgruppen geführt, gefördert und motiviert werden. Aspekte des Veränderungs- und Konfliktmanagements sind dabei ebenso zu berücksichtigen wie rechtliche Vorschriften.
 
@@ -165,8 +153,7 @@ Die Prüfung erstreckt sich auf die folgenden Handlungsbereiche:
 
 8. Umsetzen der Vorgaben des Arbeits- und des Gesundheitsschutzes.
 
-
-## § 9 – Bestandteile der Prüfung
+# § 9 – Bestandteile der Prüfung
 
 Die Prüfung besteht aus
 
@@ -174,8 +161,7 @@ Die Prüfung besteht aus
 
 2. einem mündlichen Prüfungsteil nach § 11.
 
-
-## § 10 – Schriftlicher Prüfungsteil
+# § 10 – Schriftlicher Prüfungsteil
 
 (1) Der schriftliche Prüfungsteil wird auf der Grundlage einer Beschreibung einer betrieblichen Situation durchgeführt.
 
@@ -185,8 +171,7 @@ Die Prüfung besteht aus
 
 (4) Die zwei Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein. Sie müssen der zu prüfenden Person eigenständige Lösungen ermöglichen. Die Aufgabenstellungen sind so zu gestalten, dass jeder der Handlungsbereiche nach § 4 insgesamt mindestens einmal situationsbezogen thematisiert wird.
 
-
-## § 11 – Mündlicher Prüfungsteil
+# § 11 – Mündlicher Prüfungsteil
 
 (1) Im mündlichen Prüfungsteil soll die zu prüfende Person nachweisen, dass sie in der Lage ist, angemessen und sachgerecht zu kommunizieren und Fachinhalte zu präsentieren.
 
@@ -200,13 +185,11 @@ Die Prüfung besteht aus
 
 (6) Die Präsentation dauert höchstens zehn Minuten und das Fachgespräch höchstens 20 Minuten.
 
-
-## § 12 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 12 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 13 und 14 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 13 Absatz 2 Satz 2 oder Absatz 3 Satz 1 oder § 14 Absatz 3 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zu Grunde zu legen.
 
-
-## § 13 – Bewerten der Prüfungsleistungen
+# § 13 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -220,8 +203,7 @@ Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von 
 
 Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als zusammengefasste Bewertung das gewichtete arithmetische Mittel berechnet. Dabei werden das Fachgespräch und die Präsentation im Verhältnis 2:1 gewichtet.
 
-
-## § 14 – Bestehen der Prüfung, Gesamtnote
+# § 14 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -237,8 +219,7 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 (3) Für die Bildung einer Gesamtnote ist als Gesamtpunktzahl das arithmetische Mittel aus der zusammengefassten Bewertung für den schriftlichen Prüfungsteil und der zusammengefassten Bewertung für den mündlichen Prüfungsteil zu berechnen. Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerundeten Gesamtpunktzahl wird nach Anlage 1 die Note als Dezimalzahl und die Note in Worten zugeordnet. Die zugeordnete Note ist die Gesamtnote.
 
-
-## § 15 – Zeugnisse
+# § 15 – Zeugnisse
 
 (1) Wer die Prüfung nach § 14 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Anlage 2 Teil A und B.
 
@@ -250,30 +231,25 @@ Aus den einzelnen Bewertungen der Präsentation und des Fachgesprächs wird als 
 
 2. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-
-## § 16 – Wiederholung eines nicht bestandenen Prüfungsteils
+# § 16 – Wiederholung eines nicht bestandenen Prüfungsteils
 
 (1) Ein nicht bestandener schriftlicher oder ein nicht bestandener mündlicher Prüfungsteil kann zweimal wiederholt werden.
 
 (2) Die zu prüfende Person hat die Wiederholung des nicht bestandenen Prüfungsteils bei der zuständigen Stelle zu beantragen. Der Antrag muss innerhalb von zwei Jahren, gerechnet vom Tag des nicht bestandenen Prüfungsteils, gestellt werden.
 
-
-## § 17 – Ausbildereignung
+# § 17 – Ausbildereignung
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, ist vom schriftlichen Prüfungsteil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
-
-## § 18 – Inkrafttreten
+# § 18 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 13 Absatz 1 und § 14 Absatz 3 Satz 3)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu § 13 Absatz 1 und § 14 Absatz 3 Satz 3)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2041 - 2042)
 
-
-## Anlage 2 – (zu § 15 Absatz 1 und 2)Zeugnisinhalte
+# Anlage 2 – (zu § 15 Absatz 1 und 2)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2043)
 

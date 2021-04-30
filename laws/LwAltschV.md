@@ -1,15 +1,11 @@
-# [LwAltschV] Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes  (Landwirtschafts-Altschuldenverordnung - LwAltschV)
-
-Ausfertigungsdatum: 19.11.2004
-
+% Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes  (Landwirtschafts-Altschuldenverordnung - LwAltschV)
+% Ausfertigungsdatum: 19.11.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2004 (BGBl. I S. 1383) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
-
-## § 1 – Angemessenheit der Vergütungen
+# § 1 – Angemessenheit der Vergütungen
 
 (1) Die Angemessenheit der nach § 2 Abs. 5 des Landwirtschafts-Altschuldengesetzes absetzbaren Vergütungen, die ein Gesellschafter einer Personengesellschaft erhält, wird nach den Absätzen 2 bis 4 bestimmt.
 
@@ -19,8 +15,7 @@ Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2
 
 (4) Überlässt ein Gesellschafter der Gesellschaft Wirtschaftsgüter, dürfen höchstens die Vergütungen angesetzt werden, die auch voneinander unabhängige Dritte unter gleichen Umständen miteinander vereinbart hätten. Bei Überlassung von Grundstücken ist höchstens die ortsübliche Pacht anzusetzen.
 
-
-## § 2 – Vorzulegende Unterlagen
+# § 2 – Vorzulegende Unterlagen
 
 (1) Für den Antrag gemäß § 8 Abs. 1 des Landwirtschafts-Altschuldengesetzes einschließlich der nach dessen Absatz 2 beizufügenden Unterlagen sind die im Anhang beigefügten Formulare zu verwenden. Der Antrag mit Anlagen und Bestätigung des Wirtschaftsprüfers (Wirtschaftsprüfer, Wirtschaftsprüfungsgesellschaft, gesetzlicher Prüfungsverband, vereidigter Buchprüfer, Buchprüfungsgesellschaft) ist in zweifacher Ausfertigung einzureichen. Sind mehrere Unternehmen gemeinsam Kreditnehmer im Sinne von § 1 Abs. 2 des Landwirtschafts-Altschuldengesetzes, sind die Unterlagen für jedes Unternehmen gesondert einzureichen. Dabei sind für jedes einbezogene Unternehmen der Unternehmenszweck kurz zu erläutern sowie die wesentlichen betrieblichen Kennzahlen (zum Beispiel bewirtschaftete Fläche, Zahl der Beschäftigten, Tierbestand) anzugeben, soweit diese Angaben der Bank in aktueller Fassung nicht vorliegen.
 
@@ -40,8 +35,7 @@ Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2
 
 (9) Zu den Unterlagen nach § 8 Abs. 2 Nr. 2 bis 4 des Landwirtschafts-Altschuldengesetzes soll der Wirtschaftsprüfer eine Aussage darüber treffen, ob die Angaben plausibel sind. Hierüber soll er eine Bescheinigung erteilen. Aus der Bescheinigung soll hervorgehen, ob und inwieweit der Wirtschaftsprüfer das Unternehmen bei der Erstellung der Unterlagen unterstützt hat und in welchem Umfang er Prüfungshandlungen vorgenommen hat. Bei den Übersichten nach § 8 Abs. 2 Nr. 5 bis 7 des Landwirtschafts-Altschuldengesetzes soll der Wirtschaftsprüfer die Angaben des Antragstellers einer prüferischen Durchsicht unterziehen und hierüber eine Bescheinigung erteilen. Dabei ist insbesondere auf den Gesichtspunkt der Vollständigkeit einzugehen.
 
-
-## § 3 – Allgemeine Grundsätze zur Ermittlung des Ablösebetrages
+# § 3 – Allgemeine Grundsätze zur Ermittlung des Ablösebetrages
 
 (1) Kreditnehmer haben für die Gesamtheit der in die Rangrücktrittsvereinbarung einbezogenen Unternehmen ein Ablöseangebot vorzulegen. Die in der Rangrücktrittsvereinbarung und in den gesonderten Verträgen, mit denen Unternehmen in die Rangrücktrittsvereinbarung der Schuldner einbezogen wurden, hierzu getroffenen Regelungen zur Bedienung der Altschulden sind in entsprechender Weise auch auf die Ermittlung des Ablösebetrages anzuwenden. Sofern in das Ablöseangebot nicht alle Unternehmen einbezogen sind, ist eine Ablösung nur möglich, wenn durch den Antragsteller nachgewiesen wird, dass der Gesamtablösebetrag nicht gemindert wird.
 
@@ -49,8 +43,7 @@ Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2
 
 (3) Der Barwert der zukünftigen Zahlungen auf die Rangrücktrittsvereinbarung setzt sich zusammen aus der Summe des Barwertes der Zahlungen aus Gewinn nach § 4, des Barwertes der Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens nach § 5 und noch ausstehender Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung gemäß § 6.
 
-
-## § 4 – Ermittlung des Barwertes der zukünftigen Zahlungen aus Gewinn
+# § 4 – Ermittlung des Barwertes der zukünftigen Zahlungen aus Gewinn
 
 (1) Für das Geschäftsjahr, das im Jahr 2005 endet, wird die bisherige Bemessungsgrundlage für die Zahlungen auf die Rangrücktrittsvereinbarung gemäß § 14 des Landwirtschafts-Altschuldengesetzes zugrunde gelegt.
 
@@ -70,8 +63,7 @@ Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2
 
 (5) Auf die gemäß Absatz 1 bis 4 ermittelte Bemessungsgrundlage wird der jeweils geltende Abführungssatz (für das Geschäftsjahr, das im Jahr 2005 endet: 20 vom Hundert; für Folgejahre: 55 vom Hundert) angewendet; von dem Abführungsbetrag wird ein Risikoabschlag von 15 vom Hundert vorgenommen.
 
-
-## § 5 – Ermittlung des Barwertes der zukünftigen Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens
+# § 5 – Ermittlung des Barwertes der zukünftigen Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens
 
 (1) Vermögenswerte werden zur Ermittlung des Ablösebetrages auf der Grundlage der entsprechenden Regelungen in der Rangrücktrittsvereinbarung und unter Berücksichtigung von § 4 des Landwirtschafts-Altschuldengesetzes herangezogen.
 
@@ -79,13 +71,11 @@ Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom 25. Juni 2
 
 (3) Bei Anlagegütern, die sich bereits bei Abschluss der Rangrücktrittsvereinbarung im Eigentum des Kreditnehmers befanden, inzwischen jedoch betrieblich nicht mehr benötigt werden und bis zum Zeitpunkt der Antragstellung noch nicht veräußert wurden (Anlagegüter aus Anhang, Anlage 4.1), wird unterstellt, dass sie im Jahr 2006 zum aktuellen Verkehrswert veräußert werden und die hierauf zu leistende Zahlung gemäß Nummer 1 Abs. 5 der Rangrücktrittsvereinbarung zum 31. Dezember 2006 erfolgt.
 
-
-## § 6 – Berücksichtigung noch ausstehender Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung
+# § 6 – Berücksichtigung noch ausstehender Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung
 
 Ausstehende fällige Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung für Geschäftsjahre, die vor dem Jahr 2005 enden, werden ohne Abzinsung dem Ablösebetrag hinzugerechnet. Soweit bei Antragstellung die Abführungsverpflichtung für das Geschäftsjahr, das im Jahr 2004 endet, noch nicht feststeht, ist sie durch den Kreditnehmer zu schätzen. Soweit Stundungsvereinbarungen mit der Gläubigerbank getroffen wurden, ist der Barwert der gestundeten Zahlungen dem Ablösebetrag hinzuzurechnen.
 
-
-## § 7 – Ermittlung des Mindestablösebetrages nach § 7 Abs. 1 Satz 4 des Landwirtschafts-Altschuldengesetzes
+# § 7 – Ermittlung des Mindestablösebetrages nach § 7 Abs. 1 Satz 4 des Landwirtschafts-Altschuldengesetzes
 
 (1) Als entfallende Bankgebühren sind die vertraglich vereinbarten Verwaltungskostenpauschalen anzusetzen.
 
@@ -95,8 +85,7 @@ Ausstehende fällige Zahlungsverpflichtungen aus der Rangrücktrittsvereinbarung
 
 (4) Zusätzlich zum Mindestablösebetrag sind die Zahlungsverpflichtungen aus § 6 zu erfüllen.
 
-
-## § 8 – Barwertberechnung
+# § 8 – Barwertberechnung
 
 Der Barwert der zukünftigen Zahlungen entspricht der Summe der Barwerte der jährlichen Zahlungen für die Jahre 2005 bis einschließlich zum Jahr der vollständigen Tilgung der Altschulden. Dabei wird unterstellt, dass die jährlichen Zahlungen auf die Rangrücktrittsvereinbarung am Ende des Kalenderjahres erfolgen, in dem das abzurechnende Geschäftsjahr endet. Der Barwert der einzelnen jährlichen Zahlung wird nach folgender Formel berechnet:  
   
@@ -105,7 +94,7 @@ Der Barwert der zukünftigen Zahlungen entspricht der Summe der Barwerte der jä
 
  
 
-![ ](../normengrafiken/bgbl1_2004/j2864_0010.jpg)
+![ ](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2004/j2864_0010.jpg)
 
  
 
@@ -157,8 +146,7 @@ Kalenderjahr
 
  
 
-
-## § 9 – Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
+# § 9 – Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
 
 (1) Die Gläubigerbanken haben im Zusammenwirken mit der beauftragten Stelle zu gewährleisten, dass die Prüfung der Angemessenheit des Ablöseangebotes des Kreditnehmers nach einheitlichen Kriterien erfolgt. Wesentlich zur Beurteilung der Angemessenheit des Ablöseangebotes ist, ob unter Berücksichtigung der spezifischen Gegebenheiten des Kreditnehmers die dem Angebot zugrunde liegende Prognose der zukünftigen Ertragsentwicklung im Vergleich zur historischen Ertragsentwicklung und zur Entwicklung vergleichbarer Unternehmen der betreffenden Region realistisch ist. Hält der Kreditnehmer bei mehreren Banken Rangrücktrittsvereinbarungen, haben sich die jeweiligen Gläubigerbanken darüber zu verständigen, welche Bank die Antragsprüfung übernimmt und den Kreditnehmer vor Antragstellung hierüber zu unterrichten. Es ist ausreichend, in diesen Fällen nur einen Antrag an die antragsprüfende Bank zu richten.
 
@@ -170,20 +158,17 @@ Kalenderjahr
 
 (5) Eine abschließende Entscheidung der Gläubigerbank setzt die vorherige Herstellung des Einvernehmens mit der beauftragten Stelle voraus.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
 
-
-## Anhang – (zu § 2 Abs. 1 LwAltschV - Kalenderjahr)
+# Anhang – (zu § 2 Abs. 1 LwAltschV - Kalenderjahr)
 
 (... nicht darstellbare Vordrucke,  
 "Seite 1 bis 5 - Antrag auf Ablösung landwirtschaftlicher Altschulden"  
 Fundstelle: BGBl. I 2004, 2865 - 2869)
 
-
-## Anlage 1
+# Anlage 1
 
 (nicht darstellbare Vordrucke,  
 Fundstelle: BGBl. I 2004, 2870 - 2876)
@@ -197,50 +182,43 @@ Seite 5 - Berücksichtigung besonders gravierender Auswirkungen der Agrarreform 
 Seite 6 - Ermittlung BMG gemäß § 2 Abs. 3 letzter Satz LwAltschV für das Geschäftsjahr 1.1.2005 bis 31.12.2005,  
 Seite 7 - BMG für die Barwertermittlung"
 
-
-## Anlage 2
+# Anlage 2
 
 (... nicht darstellbarer Vordruck,  
 "Investitionsübersicht gemäß § 8 Abs. 2 Nr. 3 LwAltSchG"  
 Fundstelle: BGBl. I 2004, 2877)
 
-
-## Anlage 3
+# Anlage 3
 
 (... nicht darstellbarer Vordruck,  
 "Darstellung der Finanz- und Liquiditätslage per 31.12.2004"  
 Fundstelle: BGBl. I 2004, 2878)
 
-
-## Anlage 4.1
+# Anlage 4.1
 
 (... nicht darstellbarer Vordruck,  
 "Betriebsnotwendige und nicht betriebsnotwendige Vermögenswerte gemäß § 8 Absatz 2 Nr. 5 LwAltschG, deren Verkehrswert im Zeitpunkt der Antragstellung 10.000 Euro überschreitet"  
 Fundstelle: BGBl. I 2004, 2879)
 
-
-## Anlage 4.2
+# Anlage 4.2
 
 (... nicht darstellbarer Vordruck,  
 "Veräußerte Vermögenswerte gemäß § 8 Absatz 2 Nr. 6 LwAltschG, deren Erlös im Einzelnen mehr als 10.000 Euro betragen hat"  
 Fundstelle: BGBl. I 2004, 2880)
 
-
-## Anlage 4.3
+# Anlage 4.3
 
 (... nicht darstellbarer Vordruck,  
 "Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß § 8 Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch vertragliche Vereinbarung mit der Bank erloschen ist"  
 Fundstelle: BGBl. I 2004, 2881)
 
-
-## Anhang – (zu § 2 Abs. 1 LwAltschV - Wirtschaftsjahr)
+# Anhang – (zu § 2 Abs. 1 LwAltschV - Wirtschaftsjahr)
 
 (... nicht darstellbare Vordrucke,  
 "Seite 1 bis 5 - Antrag auf Ablösung landwirtschaftlicher Altschulden"  
 Fundstelle: BGBl. I 2004, 2882 - 2886)
 
-
-## Anlage 1
+# Anlage 1
 
 (... nicht darstellbare Vordrucke,  
 Fundstelle: BGBl. I 2004, 2887 - 2893)
@@ -255,15 +233,13 @@ Seite 5 - Berücksichtigung besonders gravierender Auswirkungen der Agrarreform 
 Seite 6 - Ermittlung BMG gemäß § 2 Abs. 3 letzter Satz LwAltschV für das Geschäftsjahr 1.7.2004 bis 30.6.2005,  
 Seite 7 - BMG für die Barwertermittlung"
 
-
-## Anlage 2
+# Anlage 2
 
 (... nicht darstellbarer Vordruck,  
 "Investitionsübersicht gemäß § 8 Abs. 2 Nr. 3 LwAltSchG"  
 Fundstelle: BGBl. I 2004, 2894)
 
-
-## Anlage 3
+# Anlage 3
 
 (... nicht darstellbarer Vordruck,  
 "Darstellung der Finanz- und Liquiditätslage per 31.12.2004"  
@@ -271,22 +247,19 @@ Fundstelle: BGBl. I 2004, 2895)
 
   
 
-
-## Anlage 4.1
+# Anlage 4.1
 
 (... nicht darstellbarer Vordruck,  
 "Betriebsnotwendige und nicht betriebsnotwendige Vermögenswerte gemäß § 8 Absatz 2 Nr. 5 LwAltschG, deren Verkehrswert im Zeitpunkt der Antragstellung 10.000 Euro überschreitet"  
 Fundstelle: BGBl. I 2004, 2896)
 
-
-## Anlage 4.2
+# Anlage 4.2
 
 (... nicht darstellbarer Vordruck,  
 "Veräußerte Vermögenswerte gemäß § 8 Absatz 2 Nr. 6 LwAltschG, deren Erlös im Einzelnen mehr als 10.000 Euro betragen hat"  
 Fundstelle: BGBl. I 2004, 2897)
 
-
-## Anlage 4.3
+# Anlage 4.3
 
 (... nicht darstellbarer Vordruck,  
 "Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß § 8 Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch vertragliche Vereinbarung mit der Bank erloschen ist"  

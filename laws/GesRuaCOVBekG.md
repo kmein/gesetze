@@ -1,10 +1,7 @@
-# [GesRuaCOVBekG] Gesetz über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie
-
-Ausfertigungsdatum: 27.03.2020
-
+% Gesetz über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie
+% Ausfertigungsdatum: 27.03.2020
  
-
-## § 1 – Aktiengesellschaften; Kommanditgesellschaften auf Aktien; Europäische Gesellschaften (SE); Versicherungsvereine auf Gegenseitigkeit
+# § 1 – Aktiengesellschaften; Kommanditgesellschaften auf Aktien; Europäische Gesellschaften (SE); Versicherungsvereine auf Gegenseitigkeit
 
 (1) Die Entscheidungen über die Teilnahme der Aktionäre an der Hauptversammlung im Wege elektronischer Kommunikation nach § 118 Absatz 1 Satz 2 des Aktiengesetzes (elektronische Teilnahme), die Stimmabgabe im Wege elektronischer Kommunikation nach § 118 Absatz 2 des Aktiengesetzes (Briefwahl), die Teilnahme von Mitgliedern des Aufsichtsrats im Wege der Bild- und Tonübertragung nach § 118 Absatz 3 Satz 2 des Aktiengesetzes und die Zulassung der Bild- und Tonübertragung nach § 118 Absatz 4 des Aktiengesetzes kann der Vorstand der Gesellschaft auch ohne Ermächtigung durch die Satzung oder eine Geschäftsordnung treffen.
 
@@ -34,13 +31,11 @@ Der Vorstand entscheidet nach pflichtgemäßem, freiem Ermessen, wie er Fragen b
 
 (9) Die Absätze 1 und 2, Absatz 3 Satz 1 und 3 sowie die Absätze 4 bis 7 sind entsprechend auf Versicherungsvereine auf Gegenseitigkeit im Sinne des § 171 des Versicherungsaufsichtsgesetzes anzuwenden.
 
-
-## § 2 – Gesellschaften mit beschränkter Haftung
+# § 2 – Gesellschaften mit beschränkter Haftung
 
 Abweichend von § 48 Absatz 2 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung können Beschlüsse der Gesellschafter in Textform oder durch schriftliche Abgabe der Stimmen auch ohne Einverständnis sämtlicher Gesellschafter gefasst werden.
 
-
-## § 3 – Genossenschaften
+# § 3 – Genossenschaften
 
 (1) Abweichend von § 43 Absatz 7 Satz 1 des Genossenschaftsgesetzes können Beschlüsse der Mitglieder auch dann schriftlich oder elektronisch gefasst werden, wenn dies in der Satzung nicht ausdrücklich zugelassen ist. Der Vorstand hat in diesem Fall dafür zu sorgen, dass der Niederschrift gemäß § 47 des Genossenschaftsgesetzes ein Verzeichnis der Mitglieder, die an der Beschlussfassung mitgewirkt haben, beigefügt ist. Bei jedem Mitglied, das an der Beschlussfassung mitgewirkt hat, ist die Art der Stimmabgabe zu vermerken. Die Anfechtung eines Beschlusses der Generalversammlung kann unbeschadet der Regelungen in § 51 Absatz 1 und 2 des Genossenschaftsgesetzes nicht auf Verletzungen des Gesetzes oder der Mitgliederrechte gestützt werden, die auf technische Störungen im Zusammenhang mit der Beschlussfassung nach Satz 1 zurückzuführen sind, es sei denn, der Genossenschaft ist Vorsatz oder grobe Fahrlässigkeit vorzuwerfen.
 
@@ -54,13 +49,11 @@ Abweichend von § 48 Absatz 2 des Gesetzes betreffend die Gesellschaften mit bes
 
 (6) Sitzungen des Vorstands oder des Aufsichtsrats einer Genossenschaft sowie gemeinsame Sitzungen des Vorstands und des Aufsichtsrats können auch ohne Grundlage in der Satzung oder in der Geschäftsordnung im Umlaufverfahren in Textform oder als Telefon- oder Videokonferenz durchgeführt werden.
 
-
-## § 4 – Umwandlungsrecht
+# § 4 – Umwandlungsrecht
 
 Abweichend von § 17 Absatz 2 Satz 4 des Umwandlungsgesetzes genügt es für die Zulässigkeit der Eintragung, wenn die Bilanz auf einen höchstens zwölf Monate vor der Anmeldung liegenden Stichtag aufgestellt worden ist.
 
-
-## § 5 – Vereine, Parteien und Stiftungen
+# § 5 – Vereine, Parteien und Stiftungen
 
 (1) Ein Vorstandsmitglied eines Vereins oder einer Stiftung bleibt auch nach Ablauf seiner Amtszeit bis zu seiner Abberufung oder bis zur Bestellung seines Nachfolgers im Amt.
 
@@ -78,15 +71,13 @@ Abweichend von § 17 Absatz 2 Satz 4 des Umwandlungsgesetzes genügt es für die
 
 (4) Absatz 1 gilt für Vorstandsmitglieder und Vertreter in den sonstigen Organen und Gliederungen der Parteien entsprechend. Absatz 2 Nummer 1 gilt für Mitglieder- und Vertreterversammlungen der Parteien und ihrer Gliederungen sowie ihrer sonstigen Organe entsprechend. Dies gilt nicht für die Beschlussfassung über die Satzung und die Schlussabstimmung bei Wahlen nach § 9 Absatz 4 des Parteiengesetzes. Die Wahrnehmung von Mitgliedschaftsrechten kann der Vorstand auch ohne Ermächtigung in der Satzung im Wege der Briefwahl oder auch zeitlich versetzt als Urnenwahl an verschiedenen Orten zulassen. § 17 Satz 2 des Parteiengesetzes bleibt unberührt.
 
-
-## § 6 – Wohnungseigentümergemeinschaften
+# § 6 – Wohnungseigentümergemeinschaften
 
 (1) Der zuletzt bestellte Verwalter im Sinne des Wohnungseigentumsgesetzes bleibt bis zu seiner Abberufung oder bis zur Bestellung eines neuen Verwalters im Amt.
 
 (2) Der zuletzt von den Wohnungseigentümern beschlossene Wirtschaftsplan gilt bis zum Beschluss eines neuen Wirtschaftsplans fort.
 
-
-## § 7 – Anwendungsbestimmungen
+# § 7 – Anwendungsbestimmungen
 
 (1) § 1 ist auf Hauptversammlungen und Abschlagszahlungen auf den Bilanzgewinn anzuwenden, die im Jahr 2020 und im Jahr 2021 stattfinden.
 
@@ -98,7 +89,6 @@ Abweichend von § 17 Absatz 2 Satz 4 des Umwandlungsgesetzes genügt es für die
 
 (5) § 5 ist nur auf im Jahr 2020 und im Jahr 2021 ablaufende Bestellungen von Vereins- oder Stiftungsvorständen und im Jahr 2020 und im Jahr 2021 stattfindende Mitgliederversammlungen von Vereinen anzuwenden.
 
-
-## § 8 – Verordnungsermächtigung
+# § 8 – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die Geltung der §§ 1 bis 5 gemäß § 7 bis höchstens zum 31. Dezember 2021 zu verlängern, wenn dies aufgrund fortbestehender Auswirkungen der COVID-19-Pandemie in der Bundesrepublik Deutschland geboten erscheint.

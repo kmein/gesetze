@@ -1,10 +1,7 @@
-# [BinSchStrEV] Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung  (BinSchStrEV)
-
-Ausfertigungsdatum: 16.12.2011
-
+% Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung  (BinSchStrEV)
+% Ausfertigungsdatum: 16.12.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -20,15 +17,13 @@ das Bundesministerium für Verkehr, Bau und Stadtentwicklung und das Bundesminis
 –  
 das Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund des § 27 Absatz 1 in Verbindung mit § 24 Absatz 1 und des § 46 Satz 1 Nummer 1 und 3 und Satz 2 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980):
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die in der Anlage enthaltene Binnenschifffahrtsstraßen-Ordnung gilt auf den in Anhang I der Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S. 1398) in der jeweils geltenden Fassung bezeichneten Wasserstraßen des Bundes mit Ausnahme von Rhein, Mosel, Donau, Elbe im Hamburger Hafen, Seeschifffahrtsstraßen sowie mit Ausnahme von Eder- und Diemeltalsperre.
 
 (2) § 1.07 Nummer 1, 2, 3 Satz 1 bis 5, Nummer 4 bis 6, § 1.10 Nummer 1 Buchstabe a, b, c, e, f, h bis l, s, Nummer 2 bis 6, § 1.12 Nummer 3 Satz 1, Nummer 4, §§ 1.14, 1.16, 2.01, 2.03, 4.05 Nummer 1 bis 3, § 4.06 Nummer 1 Satz 1, § 4.07 Nummer 1, 2 und 4 bis 8, § 6.32 Nummer 1 und § 28.01 – soweit die Regelungen zum Ölkontrollbuch und zur Sammlung und Abgabe von Schiffsabfällen betroffen sind – gelten auch für die Fahrt eines Fahrzeugs, das kein Seeschiff ist, auf Wasserstraßen der Zonen 1 und 2 nach Anhang I der Binnenschiffsuntersuchungsordnung.
 
-
-## § 2 – Zuständige Behörden
+# § 2 – Zuständige Behörden
 
 (1) Zuständige Behörde im Sinne der Binnenschifffahrtsstraßen-Ordnung ist die Generaldirektion Wasserstraßen und Schifffahrt als Strom- und Schifffahrtspolizeibehörde. Diese kann die Zuständigkeit hinsichtlich örtlicher Verhältnisse ihren nachgeordneten Stellen übertragen.
 
@@ -36,18 +31,15 @@ das Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund des § 27
 
 (3) Untersuchungskommissionen sind die Untersuchungskommissionen der Generaldirektion Wasserstraßen und Schifffahrt nach § 4 der Binnenschiffsuntersuchungsordnung.
 
-
-## § 3 – Rechtsverordnung mit vorübergehender Geltungsdauer
+# § 3 – Rechtsverordnung mit vorübergehender Geltungsdauer
 
 Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, und § 3 Absatz 4, auch in Verbindung mit Absatz 6, des Binnenschifffahrtsaufgabengesetzes übertragen, durch Rechtsverordnung zu Versuchszwecken oder bis zu einer Änderung eine von der Binnenschifffahrtsstraßen-Ordnung abweichende Regelung bis zur Dauer von drei Jahren zu treffen.
 
-
-## § 4 – Auflagen
+# § 4 – Auflagen
 
 Liegen die Voraussetzungen der §§ 48 oder 49 des Verwaltungsverfahrensgesetzes in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 2 Absatz 1 des Gesetzes vom 14. August 2009 (BGBl. I S. 2827) geändert worden ist, in der jeweils geltenden Fassung vor, kann die zuständige Behörde an Stelle der Rücknahme oder des Widerrufs eine Erlaubnis nach der Binnenschifffahrtsstraßen-Ordnung auch nachträglich befristen oder mit Auflagen versehen.
 
-
-## § 5 – Bewehrung der allgemeinen Vorschriften
+# § 5 – Bewehrung der allgemeinen Vorschriften
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -117,28 +109,21 @@ b) ein Fahrzeug, das zur Beförderung von Fahrgästen bestimmt ist, nicht mehr a
 
 3. entgegen § 1.07 Nummer 4 Satz 2 den dort genannten Nachweis nicht oder nicht rechtzeitig erbringt,
 
-3a.  
-entgegen § 1.07 Nummer 7 Buchstabe a nicht sicherstellt, dass die freie Sicht nicht eingeschränkt ist,
+3a. entgegen § 1.07 Nummer 7 Buchstabe a nicht sicherstellt, dass die freie Sicht nicht eingeschränkt ist,
 
-3b.  
-entgegen § 1.07 Nummer 7 Buchstabe b nicht sicherstellt, dass die Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers nicht gefährdet,
+3b. entgegen § 1.07 Nummer 7 Buchstabe b nicht sicherstellt, dass die Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers nicht gefährdet,
 
-3c.  
-entgegen § 1.07 Nummer 7 Buchstabe c nicht sicherstellt, dass die Stabilität eines Fahrzeugs, das Container befördert, jederzeit gewährleistet ist,
+3c. entgegen § 1.07 Nummer 7 Buchstabe c nicht sicherstellt, dass die Stabilität eines Fahrzeugs, das Container befördert, jederzeit gewährleistet ist,
 
 4. entgegen § 1.08 Nummer 7 Buchstabe a ein Fahrgastschiff führt,
 
-4a.  
-entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe aa nicht sicherstellt, dass Geländer nur unter den dort genannten Voraussetzungen geöffnet oder entfernt werden,
+4a. entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe aa nicht sicherstellt, dass Geländer nur unter den dort genannten Voraussetzungen geöffnet oder entfernt werden,
 
-4b.  
-entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe bb nicht sicherstellt, dass Geländer geschlossen oder gesetzt werden,
+4b. entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe bb nicht sicherstellt, dass Geländer geschlossen oder gesetzt werden,
 
-4c.  
-entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe cc nicht sicherstellt, dass ein Mitglied der Besatzung oder eine Person eine Rettungsweste trägt,
+4c. entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe cc nicht sicherstellt, dass ein Mitglied der Besatzung oder eine Person eine Rettungsweste trägt,
 
-4d.  
-entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe dd nicht sicherstellt, dass Außenbordarbeiten nur unter den dort genannten Voraussetzungen durchgeführt werden,
+4d. entgegen § 1.08 Nummer 7 Buchstabe b Doppelbuchstabe dd nicht sicherstellt, dass Außenbordarbeiten nur unter den dort genannten Voraussetzungen durchgeführt werden,
 
 5. entgegen § 1.09 Nummer 1, auch in Verbindung mit Nummer 5 Satz 1, nicht sicherstellt, dass das Ruder mit einer dort vorgeschriebenen Person besetzt ist,
 
@@ -188,14 +173,11 @@ b) der vorgeschriebene Führer eines Verbandes nicht oder nicht rechtzeitig best
 
 2. entgegen § 1.07 Nummer 8 Buchstabe a die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, das tiefer als bis zur Unterkante der Einsenkungsmarken abgeladen ist,
 
-2a.  
-entgegen § 1.07 Nummer 8 Buchstabe b die Inbetriebnahme eines Fahrzeugs, das zur Beförderung von Fahrgästen bestimmt ist, anordnet oder zulässt,
+2a. entgegen § 1.07 Nummer 8 Buchstabe b die Inbetriebnahme eines Fahrzeugs, das zur Beförderung von Fahrgästen bestimmt ist, anordnet oder zulässt,
 
-2b.  
-entgegen § 1.07 Nummer 8 Buchstabe c die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, dessen Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
+2b. entgegen § 1.07 Nummer 8 Buchstabe c die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, dessen Ladung die Stabilität des Fahrzeugs oder die Festigkeit des Schiffskörpers gefährdet,
 
-2c.  
-entgegen § 1.07 Nummer 8 Buchstabe d die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl der dort genannte Nachweis nicht oder nicht rechtzeitig erbracht werden kann,
+2c. entgegen § 1.07 Nummer 8 Buchstabe d die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl der dort genannte Nachweis nicht oder nicht rechtzeitig erbracht werden kann,
 
 3. entgegen § 1.08 Nummer 8 nicht sicherstellt, dass dort genannte Einzelrettungsmittel vorhanden sind,
 
@@ -211,8 +193,7 @@ b) auf Schifffahrtskanälen oder in Schleusenkanälen außerhalb der Häfen und 
 
 7. entgegen § 20.29 Nummer 3 Buchstabe a Doppelbuchstabe cc die Inbetriebnahme eines Fahrzeugs mit einer Länge von mehr als 110,00 m anordnet oder zulässt, das nicht den Anforderungen nach § 20.02 Nummer 1 Satz 3 Halbsatz 1 entspricht.
 
-
-## § 6 – Bewehrung der Vorschriften über Alkohol
+# § 6 – Bewehrung der Vorschriften über Alkohol
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig entgegen § 1.03 Nummer 4 Satz 2 vorübergehend selbstständig den Kurs oder die Geschwindigkeit eines Fahrzeugs bestimmt, obwohl er eine Menge von 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem-oder Blutalkoholkonzentration führt.
 
@@ -226,8 +207,7 @@ b) auf Schifffahrtskanälen oder in Schleusenkanälen außerhalb der Häfen und 
 
 3. entgegen § 1.03 Nummer 5 in Verbindung mit Nummer 4 Satz 2 und 3 nicht sicherstellt, dass ein Mitglied der Besatzung außerhalb der Bestimmung von Kurs und Geschwindigkeit des Fahrzeugs keine anderen für die sichere Teilnahme des Fahrzeugs am Verkehr notwendigen Tätigkeiten ausübt, wenn es 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt.
 
-
-## § 7 – Bewehrung der Vorschriften über die Abmessungen der Fahrzeuge oder Verbände, die Fahrrinnentiefe, Abladetiefe, zusätzliche Ausrüstung oder erforderliche Sprechverbindung
+# § 7 – Bewehrung der Vorschriften über die Abmessungen der Fahrzeuge oder Verbände, die Fahrrinnentiefe, Abladetiefe, zusätzliche Ausrüstung oder erforderliche Sprechverbindung
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -361,8 +341,7 @@ b) dessen zugelassene Höchstabmessungen nach § 23.02 Nummer 1.1.8 bis 1.1.10 o
 
 29. entgegen § 23.29 Nummer 3 Buchstabe a Doppelbuchstabe bb die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, auf dem in dem in § 23.02 Nummer 1.1.1, 1.1.3, 1.1.11 oder 1.1.17.1 jeweils genannten Fall die dort jeweils angegebene Ausrüstung nicht vorhanden ist.
 
-
-## § 8 – Bewehrung der Vorschriften über die zugelassenen Höchstgeschwindigkeiten oder die geforderten Mindestgeschwindigkeiten
+# § 8 – Bewehrung der Vorschriften über die zugelassenen Höchstgeschwindigkeiten oder die geforderten Mindestgeschwindigkeiten
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -422,8 +401,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 28. entgegen § 27.29 Nummer 1 Buchstabe b nicht sicherstellt, dass das Fahrzeug oder der Verband die geforderte Mindestgeschwindigkeit nach § 27.04 Nummer 3 nicht unterschreitet.
 
-
-## § 9 – Bewehrung der Vorschriften über das Mitführen oder Aushändigen von Urkunden oder Unterlagen
+# § 9 – Bewehrung der Vorschriften über das Mitführen oder Aushändigen von Urkunden oder Unterlagen
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -459,8 +437,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 8. entgegen § 23.29 Nummer 3 Buchstabe b nicht dafür sorgt, dass ein Bescheid über die Befreiung von einem Fahrverbot oder einer Einschränkung nach § 23.27 Nummer 5 Satz 2 an Bord mitgeführt wird.
 
-
-## § 10 – Bewehrung der Vorschriften über die Kennzeichnung der Fahrzeuge oder Ausrüstungsteile
+# § 10 – Bewehrung der Vorschriften über die Kennzeichnung der Fahrzeuge oder Ausrüstungsteile
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -486,8 +463,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 5. entgegen § 2.07 Nummer 1 Buchstabe d die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, dessen Schiffsanker nicht nach § 2.05 Nummer 1, auch in Verbindung mit Nummer 2 Satz 2, oder nicht in der dort vorgeschriebenen Weise gekennzeichnet sind.
 
-
-## § 11 – Bewehrung der Vorschriften über die Bezeichnung der Fahrzeuge, Ausrüstungsteile, Lichter oder Sichtzeichen
+# § 11 – Bewehrung der Vorschriften über die Bezeichnung der Fahrzeuge, Ausrüstungsteile, Lichter oder Sichtzeichen
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -651,8 +627,7 @@ in der jeweils vorgeschriebenen Weise hingewiesen wird,
 
 3. entgegen § 3.34 Nummer 14 Buchstabe c die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, dessen Nachtbezeichnung nicht die nach § 3.02 Nummer 3 Halbsatz 2 vorgeschriebene Tragweite hat.
 
-
-## § 12 – Bewehrung der Vorschriften über Schallzeichen, Sprechfunk oder Navigationsgeräte
+# § 12 – Bewehrung der Vorschriften über Schallzeichen, Sprechfunk oder Navigationsgeräte
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -744,8 +719,7 @@ c) in dem in § 4.07 Nummer 8 genannten Fall nicht mit einer Sprechfunkanlage f�
 
 6. entgegen § 4.07 Nummer 11 Buchstabe b die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl das Inland AIS Gerät den in § 4.07 Nummer 1 Satz 1 oder Nummer 6 Satz 1 jeweils genannten Vorschriften nicht entspricht.
 
-
-## § 13 – Bewehrung der allgemeinen Vorschriften über das Verhalten im Verkehr
+# § 13 – Bewehrung der allgemeinen Vorschriften über das Verhalten im Verkehr
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -789,8 +763,7 @@ l) das in § 6.22a vorgesehene oder auf Grund dieser Vorschrift angeordnete Verb
 
 4. entgegen § 17.29 Nummer 1 Buchstabe b Doppelbuchstabe dd die Vorschrift über die Einfahrt in und die Ausfahrt aus dem Rothenseer Verbindungskanal nach § 17.22 Nummer 4 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
-
-## § 14 – Bewehrung der Vorschriften über das Verhalten von Kleinfahrzeugen im Verkehr oder der Sonderbestimmungen für Kleinfahrzeuge
+# § 14 – Bewehrung der Vorschriften über das Verhalten von Kleinfahrzeugen im Verkehr oder der Sonderbestimmungen für Kleinfahrzeuge
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person entgegen § 6.35 Nummer 1 die in § 6.02 Nummer 1 Satz 1 Buchstabe a, auch in Verbindung mit Satz 3, oder Buchstabe b oder Nummer 3, § 6.02a Nummer 1, 2 oder 3 Satz 1 oder 2, Nummer 4 Satz 1, auch in Verbindung mit Satz 2, Nummer 5 Satz 1 oder 2 oder Nummer 6, jeweils auch in Verbindung mit Nummer 7, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten von Kleinfahrzeugen im Verkehr nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
@@ -802,8 +775,7 @@ l) das in § 6.22a vorgesehene oder auf Grund dieser Vorschrift angeordnete Verb
 
 3. entgegen § 23.29 Nummer 2 Buchstabe d die Sonderbestimmungen für Kleinfahrzeuge nach § 23.24 Nummer 1, 2 oder 4 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden.
 
-
-## § 15 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Begegnen
+# § 15 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Begegnen
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -829,13 +801,11 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 11. entgegen § 25.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über das Verhalten beim Begegnen nach § 25.06 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-
-## § 16 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Kreuzen
+# § 16 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Kreuzen
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person entgegen § 6.35 Nummer 1 die in § 6.03 Nummer 1 oder 3, jeweils auch in Verbindung mit Nummer 2, oder § 6.03a Nummer 1 vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote über das Verhalten beim Kreuzen nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-
-## § 17 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Überholen
+# § 17 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Überholen
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -855,8 +825,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 8. entgegen § 23.29 Nummer 1 Buchstabe b Doppelbuchstabe aa das Verbot zu überholen nach § 23.07 Nummer 1, auch in Verbindung mit Nummer 2 Buchstabe a oder b, nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird.
 
-
-## § 18 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Wenden
+# § 18 – Bewehrung der Vorschriften über das Verhalten oder die Zeichengebung beim Wenden
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -874,8 +843,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 7. entgegen § 21.29 Nummer 1 Buchstabe b Doppelbuchstabe cc die Vorschriften über das Wenden nach § 21.08 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-
-## § 19 – Bewehrung der Vorschriften über das Verhalten von Fähren oder gegenüber Fähren
+# § 19 – Bewehrung der Vorschriften über das Verhalten von Fähren oder gegenüber Fähren
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -885,8 +853,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 3. entgegen § 25.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschriften über das Verhalten gegenüber einer Seilfähre nach § 25.22 Nummer 1 oder 2, auch in Verbindung mit Nummer 3, nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-
-## § 20 – Bewehrung der Vorschriften über das Durchfahren der Brücken, Sperrwerke, Wehre, Schleusenvorhäfen, Schleusen, Schleusenbereiche, Schiffshebewerke oder einzelner Stromstrecken
+# § 20 – Bewehrung der Vorschriften über das Durchfahren der Brücken, Sperrwerke, Wehre, Schleusenvorhäfen, Schleusen, Schleusenbereiche, Schiffshebewerke oder einzelner Stromstrecken
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -930,8 +897,7 @@ vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote
 
 4. entgegen § 17.29 Nummer 2 Buchstabe c das in § 17.18 Nummer 2 Satz 3 vorgesehene Verbot der Einfahrt in die Stromstrecke Magdeburg nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird.
 
-
-## § 21 – Bewehrung der Vorschriften über die Fahrt bei unsichtigem Wetter
+# § 21 – Bewehrung der Vorschriften über die Fahrt bei unsichtigem Wetter
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person entgegen § 6.35 Nummer 1 die in § 6.30 Nummer 1 bis 5, § 6.31 Nummer 1 oder 2, jeweils auch in Verbindung mit Nummer 3 Satz 2, §§ 6.33 oder 6.34 Nummer 1 bis 7, jeweils auch in Verbindung mit Nummer 8 Satz 1, vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote über das Verhalten bei der Fahrt bei unsichtigem Wetter oder der Benutzung von Radar nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
@@ -939,8 +905,7 @@ vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote
 
 (3) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster entgegen § 6.35 Nummer 6 die Radarfahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, das oder der nicht nach § 6.32 Nummer 1 Satz 1 vorschriftsmäßig besetzt ist.
 
-
-## § 22 – Bewehrung der Vorschriften über die Zusammenstellung der Verbände
+# § 22 – Bewehrung der Vorschriften über die Zusammenstellung der Verbände
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -984,8 +949,7 @@ vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote
 
 (2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster entgegen § 6.35 Nummer 5 die Inbetriebnahme eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl die in § 6.21 Nummer 1 bis 3 vorgesehenen Gebote oder Verbote über die Zusammenstellung der Verbände nicht eingehalten werden können.
 
-
-## § 23 – Bewehrung der Vorschriften über das Stillliegen, Ankern oder Festmachen
+# § 23 – Bewehrung der Vorschriften über das Stillliegen, Ankern oder Festmachen
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer, Eigentümer oder Ausrüster entgegen § 7.09 Nummer 2 ein dort genanntes Gebot nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird.
 
@@ -1015,8 +979,7 @@ vorgesehenen oder auf Grund dieser Vorschriften angeordneten Gebote oder Verbote
 
 12. entgegen § 21.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschrift über das Ankern nach § 21.09 Satz 1 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
-
-## § 24 – Bewehrung der besonderen Vorschriften über das Fortbewegen von Schubverbänden oder Schubleichtern oder den Einsatz von Trägerschiffsleichtern
+# § 24 – Bewehrung der besonderen Vorschriften über das Fortbewegen von Schubverbänden oder Schubleichtern oder den Einsatz von Trägerschiffsleichtern
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1070,8 +1033,7 @@ nicht eingehalten wird oder werden oder
 
 2. entgegen § 8.15 Nummer 11 die Fortbewegung eines Schubleichters außerhalb eines Schubverbandes anordnet oder zulässt, obwohl die in § 8.05 vorgesehenen Gebote über die Fortbewegung eines Schubleichters außerhalb eines Schubverbandes nicht eingehalten werden.
 
-
-## § 25 – Bewehrung der besonderen Vorschriften über die Fahrgastschifffahrt
+# § 25 – Bewehrung der besonderen Vorschriften über die Fahrgastschifffahrt
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Unternehmer
 
@@ -1103,8 +1065,7 @@ b) stillliegen lässt, obwohl der Verkehr der Fahrgastschiffe behindert wird,
 
 (4) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster entgegen § 9.07 Nummer 7 die Inbetriebnahme eines Fahrzeugs anordnet oder zulässt, obwohl die Besatzung oder das Personal nicht in ihren Aufgaben nach der Sicherheitsrolle nach § 9.07 Nummer 1 unterwiesen wurde.
 
-
-## § 26 – Bewehrung der Vorschriften über die Schifffahrt bei Hochwasser
+# § 26 – Bewehrung der Vorschriften über die Schifffahrt bei Hochwasser
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -1132,8 +1093,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 12. entgegen § 26.29 Nummer 1 Buchstabe b Doppelbuchstabe aa die Vorschriften über die Schifffahrt bei Hochwasser nach § 26.11 Nummer 1 bis 3 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-
-## § 27 – Bewehrung der Vorschriften über die Schifffahrt bei Eis
+# § 27 – Bewehrung der Vorschriften über die Schifffahrt bei Eis
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -1145,8 +1105,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 4. entgegen § 26.29 Nummer 1 Buchstabe c ohne Freigabe nach § 26.12 Satz 3 die Schifffahrt wieder aufnimmt oder aufnehmen lässt.
 
-
-## § 28 – Bewehrung der Vorschriften über die Nachtschifffahrt
+# § 28 – Bewehrung der Vorschriften über die Nachtschifffahrt
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -1158,8 +1117,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 (3) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Eigentümer oder Ausrüster entgegen § 26.29 Nummer 6 Buchstabe b die Nachtschifffahrt eines Fahrzeugs oder Verbandes anordnet oder zulässt, obwohl es oder er nicht mit einem Radargerät und einem Gerät zur Anzeige der Wendegeschwindigkeit nach § 26.13 Nummer 5 Satz 1 Buchstabe a, auch in Verbindung mit Satz 2, oder mit Scheinwerfern nach § 26.13 Nummer 5 Satz 1 Buchstabe c, auch in Verbindung mit Satz 2, ausgerüstet ist.
 
-
-## § 29 – Bewehrung der Vorschriften über die Benutzung der Schleusen, Bootsschleusen oder Bootsumsetzungsanlagen
+# § 29 – Bewehrung der Vorschriften über die Benutzung der Schleusen, Bootsschleusen oder Bootsumsetzungsanlagen
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer oder nach § 1.03 Nummer 3 für Kurs und Geschwindigkeit verantwortliche Person
 
@@ -1173,8 +1131,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 (2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer entgegen § 12.29 Nummer 2 Buchstabe b Doppelbuchstabe dd die Vorschrift über das Verhalten bei der Benutzung der Schleusen nach § 12.19 Nummer 5 nicht einhält oder nicht sicherstellt, dass diese eingehalten wird.
 
-
-## § 30 – Bewehrung der Vorschriften über Meldepflichten
+# § 30 – Bewehrung der Vorschriften über Meldepflichten
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1190,8 +1147,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 6. entgegen § 22.29 Nummer 2 Buchstabe b Doppelbuchstabe bb die Vorschriften über die Meldepflicht nach § 22.15 Nummer 1 Satz 1, Nummer 2, 3 Satz 1 oder Nummer 4 nicht einhält oder nicht sicherstellt, dass diese eingehalten werden.
 
-
-## § 31 – Bewehrung der Vorschriften über Segelverbote
+# § 31 – Bewehrung der Vorschriften über Segelverbote
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1209,8 +1165,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 7. entgegen § 24.29 Nummer 2 Buchstabe c das in § 24.20 vorgesehene Verbot, zu segeln, nicht beachtet oder nicht sicherstellt, dass dieses beachtet wird.
 
-
-## § 32 – Bewehrung der Vorschriften über besondere Verkehrsregelungen
+# § 32 – Bewehrung der Vorschriften über besondere Verkehrsregelungen
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1220,8 +1175,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 3. entgegen § 26.29 Nummer 2 Buchstabe c die Verkehrsregelungen nach § 26.22 Nummer 1 oder 2 nicht beachtet oder nicht sicherstellt, dass diese beachtet werden.
 
-
-## § 33 – Bewehrung der Vorschriften über den Schutz der Anlagen oder Kanäle
+# § 33 – Bewehrung der Vorschriften über den Schutz der Anlagen oder Kanäle
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1233,8 +1187,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 4. entgegen § 22.29 Nummer 2 Buchstabe a Doppelbuchstabe dd nicht sicherstellt, dass der Bug eines von ihm geführten einzeln fahrenden oder schleppenden Fahrzeugs mit Pontonform der Form nach § 22.26 Nummer 1 Satz 1 entspricht.
 
-
-## § 34 – Bewehrung der Vorschriften über Befahrensverbote
+# § 34 – Bewehrung der Vorschriften über Befahrensverbote
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1262,8 +1215,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 12. entgegen § 26.29 Nummer 2 Buchstabe d das in § 26.27 Nummer 1 Satz 1 oder Nummer 2 Satz 1 jeweils vorgesehene Verbot, die dort jeweils angegebene Binnenschifffahrtsstraße zu befahren, nicht beachtet oder nicht sicherstellt, dass dieses jeweils beachtet wird.
 
-
-## § 35 – Bewehrung der Vorschriften über Verkehrsbeschränkungen
+# § 35 – Bewehrung der Vorschriften über Verkehrsbeschränkungen
 
 Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1279,8 +1231,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 6. entgegen § 23.29 Nummer 2 Buchstabe f die Verkehrsbeschränkungen nach § 23.27 Nummer 3 Satz 1 oder Nummer 4 Satz 1, auch in Verbindung mit Satz 3, nicht beachtet oder nicht sicherstellt, dass diese beachtet werden.
 
-
-## § 36 – Bewehrung der Vorschriften zum Umweltschutz oder über das Bunkern
+# § 36 – Bewehrung der Vorschriften zum Umweltschutz oder über das Bunkern
 
 (1) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig als Schiffsführer
 
@@ -1302,8 +1253,7 @@ Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes
 
 (2) Ordnungswidrig im Sinne des § 7 Absatz 1 des Binnenschifffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift der Binnenschifffahrtsstraßen-Ordnung verstößt, indem er vorsätzlich oder fahrlässig entgegen § 28.04 Nummer 11 ein dort genanntes Gebot nicht einhält oder nicht sicherstellt, dass dieses eingehalten wird.
 
-
-## § 37 – Aufhebung binnenschifffahrtsrechtlicher Vorschriften
+# § 37 – Aufhebung binnenschifffahrtsrechtlicher Vorschriften
 
 Mit Ablauf des 31. Januar 2012 werden aufgehoben:
 
@@ -1345,21 +1295,17 @@ Mit Ablauf des 31. Januar 2012 werden aufgehoben:
 
 19. die Einundachtzigste Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung vom 3. Mai 2011 (VkBl. 2011 S. 418, 491).
 
+# § 38 – Änderung binnenschifffahrtsrechtlicher Vorschriften
 
-## § 38 – Änderung binnenschifffahrtsrechtlicher Vorschriften
+# § 39 – (weggefallen)
 
-
-## § 39 – (weggefallen)
-
-
-## § 40 – Inkrafttreten, Außerkrafttreten
+# § 40 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Februar 2012 in Kraft.
 
 (2) § 39 tritt mit Ablauf des 1. Februar 2014 außer Kraft.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2012, Anlageband zu Nr. 1, S. 3 - 271)
 

@@ -1,20 +1,15 @@
-# [VwVfRÄndG] Gesetz zur Änderung verwaltungsverfahrensrechtlicher Vorschriften
-
-Ausfertigungsdatum: 02.05.1996
-
+% Gesetz zur Änderung verwaltungsverfahrensrechtlicher Vorschriften
+% Ausfertigungsdatum: 02.05.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1 bis 5 – (weggefallen)
+# Art 1 bis 5 – (weggefallen)
 
 \-
 
-
-## Art 6 – Inkrafttreten
+# Art 6 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am 21. Mai 1996 in Kraft.
 

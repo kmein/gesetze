@@ -1,10 +1,7 @@
-# [NordSBrWeinG] Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See
-
-Ausfertigungsdatum: 04.03.1894
-
+% Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See
+% Ausfertigungsdatum: 04.03.1894
  
-
-## § 1
+# § 1
 
 (1) Ordnungswidrig handelt, wer entgegen Artikel 2 oder 3 des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See (Reichsgesetzbl. 1894 S. 427, 435) im Geltungsbereich dieses Vertrages
 
@@ -24,12 +21,10 @@ Alkoholische Getränke im Sinne dieses Gesetzes sind alle durch Destillation erz
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Deutsche Mark geahndet werden.
 
-
-## § 2
+# § 2
 
 Die Bestimmungen der Artikel 2 und 3 des internationalen Vertrages vom 16. November 1887/14. Februar 1893 und des § 1 dieses Gesetzes finden, ohne Rücksicht auf die Nationalität des Schiffes oder Fahrzeugs, auch innerhalb der zur Nordsee gehörigen deutschen Küstengewässer Anwendung.
 
-
-## § 3
+# § 3
 
 Dieses Gesetz tritt gleichzeitig mit dem internationalen Vertrag vom 16. November 1887/14. Februar 1893 in Kraft.

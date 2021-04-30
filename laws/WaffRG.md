@@ -1,12 +1,7 @@
-# [WaffRG] Gesetz über das Nationale Waffenregister  (Waffenregistergesetz - WaffRG)
-
-Ausfertigungsdatum: 17.02.2020
-
+% Gesetz über das Nationale Waffenregister  (Waffenregistergesetz - WaffRG)
+% Ausfertigungsdatum: 17.02.2020
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -46,8 +41,9 @@ Ausfertigungsdatum: 17.02.2020
 
  
 
+ 
 
-## § 1 – Zweck des Waffenregisters
+# § 1 – Zweck des Waffenregisters
 
 (1) Das Nationale Waffenregister dient insbesondere dem Schutz der öffentlichen Sicherheit und Ordnung. Den Waffenbehörden und den um Datenübermittlung ersuchenden öffentlichen Stellen ermöglicht es
 
@@ -61,8 +57,7 @@ Ausfertigungsdatum: 17.02.2020
 
 2. waffenrechtliche Erlaubnisse den Personen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Waffenregister im Sinne dieses Gesetzes ist das Nationale Waffenregister.
 
@@ -130,8 +125,7 @@ k) § 42 Absatz 2 des Waffengesetzes sowie
 
 2. Benennungen nach § 28 Absatz 3 Satz 1 des Waffengesetzes.
 
-
-## § 3 – Registerbehörde
+# § 3 – Registerbehörde
 
 (1) Das Waffenregister wird von der Registerbehörde geführt.
 
@@ -139,8 +133,7 @@ k) § 42 Absatz 2 des Waffengesetzes sowie
 
 (3) Die Registerbehörde verarbeitet die ihr nach diesem Gesetz übermittelten Daten nur nach Maßgabe dieses Gesetzes.
 
-
-## § 4 – Fachliche Leitstelle Nationales Waffenregister
+# § 4 – Fachliche Leitstelle Nationales Waffenregister
 
 (1) Wenn die nach diesem Gesetz zur Datenverarbeitung berechtigten Stellen bei der Erfüllung ihrer Aufgaben durch eine zu diesem Zweck eingerichtete Stelle (Fachliche Leitstelle Nationales Waffenregister) unterstützt werden, übermittelt die Registerbehörde der Fachlichen Leitstelle Nationales Waffenregister in geeigneter Weise die im Waffenregister gespeicherten Daten, soweit dies zur Erfüllung der folgenden Aufgaben erforderlich ist:
 
@@ -150,8 +143,7 @@ k) § 42 Absatz 2 des Waffengesetzes sowie
 
 (2) Die Registerbehörde hat der Fachlichen Leitstelle Nationales Waffenregister auf deren Verlangen nicht-personenbezogene Daten der Waffen und der wesentlichen Teile zu übermitteln, soweit dies zur Sicherstellung der richtigen Erfassung dieser Daten im Waffenregister erforderlich ist.
 
-
-## § 5 – Anlass für die Verarbeitung im Waffenregister
+# § 5 – Anlass für die Verarbeitung im Waffenregister
 
 Die Verarbeitung von Daten im Waffenregister setzt voraus, dass
 
@@ -209,8 +201,7 @@ c) Anordnungen erlässt,
 
 9. die Waffenbehörde eine Anzeigebescheinigung nach § 37h Absatz 1 Nummer 2 des Waffengesetzes erteilt.
 
-
-## § 6 – Grunddaten des Waffenregisters
+# § 6 – Grunddaten des Waffenregisters
 
 (1) Im Waffenregister werden die folgenden Grunddaten gespeichert:
 
@@ -288,8 +279,7 @@ d) eine Person nach § 28 Absatz 3 Satz 1 oder § 28a Absatz 1 Satz 3 Nummer 2 d
 
 3. das Datum, an dem die Waffenbehörde die Daten der Registerbehörde übermittelt hat.
 
-
-## § 7 – Vergabe und Verarbeitung von Ordnungsnummern
+# § 7 – Vergabe und Verarbeitung von Ordnungsnummern
 
 (1) Die Registerbehörde vergibt jeweils Ordnungsnummern für die im Waffenregister gespeicherten Daten. Die Registerbehörde vergibt insbesondere jeweils für
 
@@ -309,8 +299,7 @@ d) eine Person nach § 28 Absatz 3 Satz 1 oder § 28a Absatz 1 Satz 3 Nummer 2 d
 
 (5) Die Inhaber einer Erlaubnis nach § 21 Absatz 1 Satz 1 des Waffengesetzes sind zum Zweck der Erfüllung ihrer Aufgaben nach dem Waffengesetz sowie diesem Gesetz berechtigt, die in Absatz 1 Satz 2 genannten Ordnungsnummern zu verarbeiten.
 
-
-## § 8 – Datenübermittlung der Waffenbehörden an die Registerbehörde
+# § 8 – Datenübermittlung der Waffenbehörden an die Registerbehörde
 
 (1) Tritt ein in § 5 benannter Anlass ein, übermitteln die Waffenbehörden der Registerbehörde unverzüglich die Daten, die zu einer Speicherung, Veränderung oder Löschung von Daten im Waffenregister führen. Ist Anlass der Verarbeitung der Erlass eines belastenden Verwaltungsaktes, sind die Daten erst zu übermitteln, wenn sie mit ordentlichen Rechtsbehelfen nicht mehr angefochten werden können. Wird in den Fällen des § 5 Nummer 4 und 5 Buchstabe a und b die sofortige Vollziehung angeordnet, sind die Daten zu den Verwaltungsakten mit Anordnung der sofortigen Vollziehung zu übermitteln.
 
@@ -332,8 +321,7 @@ d) eine Person nach § 28 Absatz 3 Satz 1 oder § 28a Absatz 1 Satz 3 Nummer 2 d
 
 (4) Sind für in § 6 genannte Daten Ordnungsnummern nach § 7 vergeben worden, haben die Waffenbehörden insoweit jeweils nur diese Ordnungsnummern zu übermitteln.
 
-
-## § 9 – Datenübermittlung der gewerblichen Waffenhersteller und Waffenhändler an die Waffenbehörden
+# § 9 – Datenübermittlung der gewerblichen Waffenhersteller und Waffenhändler an die Waffenbehörden
 
 (1) Die Inhaber einer Erlaubnis nach § 21 Absatz 1 Satz 1 des Waffengesetzes haben zur Erfüllung ihrer elektronischen Anzeigepflichten nach den §§ 37, 37b, 37c Absatz 1 und § 37d des Waffengesetzes das von den Waffenbehörden bereitgestellte automatisierte Fachverfahren zu nutzen. Das automatisierte Fachverfahren übermittelt diese Daten im Auftrag der Waffenbehörden an die Registerbehörde.
 
@@ -343,8 +331,7 @@ d) eine Person nach § 28 Absatz 3 Satz 1 oder § 28a Absatz 1 Satz 3 Nummer 2 d
 
 (4) Auskunftsrechte nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) bleiben unberührt.
 
-
-## § 10 – Zuständigkeit für Richtigkeit und Vollständigkeit der Daten
+# § 10 – Zuständigkeit für Richtigkeit und Vollständigkeit der Daten
 
 (1) Die Waffenbehörden sind für die Richtigkeit und Vollständigkeit der Daten verantwortlich, die diese nach den §§ 8 und 9 an die Registerbehörde übermitteln und von der Registerbehörde verarbeitet werden.
 
@@ -352,13 +339,11 @@ d) eine Person nach § 28 Absatz 3 Satz 1 oder § 28a Absatz 1 Satz 3 Nummer 2 d
 
 (3) Stellt die Registerbehörde fest, dass zu einer Person im Register mehrere Datensätze gespeichert sind, darf sie diese im Benehmen mit den Waffenbehörden zu einem Datensatz zusammenführen.
 
-
-## § 11 – Unterrichtung der Waffenbehörden durch die Registerbehörde
+# § 11 – Unterrichtung der Waffenbehörden durch die Registerbehörde
 
 Verändert eine Waffenbehörde durch eine Datenübermittlung an die Registerbehörde Daten, die im Waffenregister gespeichert sind, unterrichtet die Registerbehörde diejenigen Waffenbehörden, die auch für diese Daten verantwortlich sind.
 
-
-## § 12 – Protokollierungspflicht bei der Speicherung
+# § 12 – Protokollierungspflicht bei der Speicherung
 
 (1) Die Registerbehörde erstellt zu jeder Datenübermittlung nach den §§ 8 und 9 Protokolle. Das Protokoll muss folgende Daten enthalten:
 
@@ -386,8 +371,7 @@ Die Registerbehörde hat zu gewährleisten, dass die Protokolldaten vor einer zw
 
 (+++ § 12 Abs. 2 bis 4: Zur Geltung vgl. § 25 Abs. 2 +++)
 
-
-## § 13 – Öffentliche Stellen, die zum Ersuchen berechtigt sind
+# § 13 – Öffentliche Stellen, die zum Ersuchen berechtigt sind
 
 Richten folgende öffentliche Stellen zu den genannten Datenverarbeitungszwecken ein Übermittlungsersuchen an die Registerbehörde, übermittelt die Registerbehörde die im Waffenregister gespeicherten Daten und die jeweils zu diesen Daten vergebenen Ordnungsnummern:
 
@@ -409,15 +393,13 @@ Richten folgende öffentliche Stellen zu den genannten Datenverarbeitungszwecken
 
 (+++ § 13: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 14 – Form des Übermittlungsersuchens
+# § 14 – Form des Übermittlungsersuchens
 
 Ein Übermittlungsersuchen an die Registerbehörde ist schriftlich oder elektronisch zu stellen.
 
 (+++ § 14: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 15 – Inhalt des Übermittlungsersuchens
+# § 15 – Inhalt des Übermittlungsersuchens
 
 (1) In dem Übermittlungsersuchen sind anzugeben:
 
@@ -457,8 +439,7 @@ b) für den Fall, dass die vollständige Seriennummer nicht vorliegt, ein Bestan
 
 (+++ § 15: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 16 – Datenübermittlung der Registerbehörde an die ersuchende Stelle
+# § 16 – Datenübermittlung der Registerbehörde an die ersuchende Stelle
 
 (1) Voraussetzung der Datenübermittlung von der Registerbehörde an die ersuchende Stelle ist, dass
 
@@ -504,8 +485,7 @@ In jedem Fall von Satz 1 teilt die Registerbehörde der ersuchenden Stelle die B
 
 (+++ § 16: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 17 – Übermittlungsersuchen in besonderen Fällen
+# § 17 – Übermittlungsersuchen in besonderen Fällen
 
 (1) Die Angabe der Anschrift in einem Übermittlungsersuchen ist ausreichend bei einem Ersuchen
 
@@ -537,15 +517,13 @@ oder
 
 (+++ § 17: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 18 – Zulässigkeit der Datenübermittlung
+# § 18 – Zulässigkeit der Datenübermittlung
 
 Die ersuchende Stelle trägt die Verantwortung für die Zulässigkeit des Übermittlungsersuchens. Sie hat den Grund ihres Übermittlungsersuchens aktenkundig zu machen.
 
 (+++ § 18: Zur Anwendung vgl. § 20 Abs. 2 +++)
 
-
-## § 19 – Gruppenauskunft
+# § 19 – Gruppenauskunft
 
 In einem Übermittlungsersuchen kann um die Übermittlung mehrerer Daten ersucht werden, die nicht mit jeweils allen nach § 15 Absatz 2 erforderlichen Angaben bezeichnet sind (Gruppenauskunft), wenn
 
@@ -573,8 +551,7 @@ d) bei einem Ersuchen des Bundesnachrichtendienstes zur Aufgabenerfüllung nach 
 
 4. die Leitung der ersuchenden Stelle oder eine von der Leitung für solche Zustimmungen bestellte Vertretung in leitender Stellung zustimmt, sofern nicht ein Gericht oder eine Staatsanwaltschaft um die Übermittlung ersucht.
 
-
-## § 20 – Datenabruf im automatisierten Verfahren
+# § 20 – Datenabruf im automatisierten Verfahren
 
 (1) Die zum Ersuchen berechtigten Stellen werden von der Registerbehörde auf Antrag zum Datenabruf im automatisierten Verfahren zugelassen, wenn
 
@@ -592,25 +569,21 @@ d) bei einem Ersuchen des Bundesnachrichtendienstes zur Aufgabenerfüllung nach 
 
 (5) Die Registerbehörde unterrichtet die Bundesbeauftragte oder den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit von der Zulassung und gibt dabei an, welche Maßnahme die zugelassene Stelle nach eigener Mitteilung getroffen hat. Hat die Registerbehörde eine öffentliche Stelle eines Landes zugelassen, unterrichtet sie ferner die für die Kontrolle der Einhaltung der Vorschriften zum Schutz personenbezogener Daten zuständige Stelle dieses Landes.
 
-
-## § 21 – Gruppenauskunft auf Abruf im automatisierten Verfahren
+# § 21 – Gruppenauskunft auf Abruf im automatisierten Verfahren
 
 (1) Eine Gruppenauskunft auf Abruf im automatisierten Verfahren ist nur zulässig, wenn eine gegenwärtige Gefahr für Leib, Leben oder Freiheit einer Person nicht anders abgewendet werden kann.
 
 (2) Die ersuchende Stelle hat zu dokumentieren, dass die in Absatz 1 genannten Voraussetzungen vorliegen und diese Dokumentation mindestens zwölf Monate aufzubewahren.
 
-
-## § 22 – Datenübermittlung an die Aufsichtsbehörden
+# § 22 – Datenübermittlung an die Aufsichtsbehörden
 
 Auf Aufsichtsbehörden der Waffenbehörden sind die für die beaufsichtigten Behörden jeweils geltenden Vorschriften dieses Gesetzes entsprechend anzuwenden, soweit dies für die Ausübung ihrer Aufsichtsfunktion erforderlich ist.
 
-
-## § 23 – Unterrichtungspflicht bei Unrichtigkeit der übermittelten Daten
+# § 23 – Unterrichtungspflicht bei Unrichtigkeit der übermittelten Daten
 
 Die Stellen, die berechtigt sind, ein Übermittlungsersuchen an die Registerbehörde zu stellen, haben die Waffenbehörde unverzüglich zu unterrichten, wenn ihnen konkrete Anhaltspunkte für die Unrichtigkeit der ihnen übermittelten Daten vorliegen.
 
-
-## § 24 – Datenübermittlung für statistische Zwecke
+# § 24 – Datenübermittlung für statistische Zwecke
 
 (1) Die Registerbehörde übermittelt auf Antrag anonymisierte Geschäftsstatistiken an folgende Stellen:
 
@@ -628,8 +601,7 @@ Die Geschäftsstatistik ist auf den Zuständigkeitsbereich der ersuchenden Stell
 
 (3) Die Registerbehörde kann auf Antrag Einzelauswertungen an die in Absatz 1 Satz 1 genannten Stellen übermitteln. Absatz 1 Satz 2 gilt entsprechend.
 
-
-## § 25 – Protokollierungspflicht bei der Datenübermittlung
+# § 25 – Protokollierungspflicht bei der Datenübermittlung
 
 (1) Die Registerbehörde erstellt bei Datenübermittlungen an die ersuchenden Stellen Protokolle, aus denen Folgendes hervorgeht:
 
@@ -651,13 +623,11 @@ Im Fall einer Gruppenauskunft sind zusätzlich die im Übermittlungsersuchen ang
 
 (+++ § 25: Zur Anwendung vgl. § 26 Satz 2 +++)
 
-
-## § 26 – Zweckänderung bei der Datenverarbeitung
+# § 26 – Zweckänderung bei der Datenverarbeitung
 
 Die Verarbeitung personenbezogener Daten durch die ersuchende oder abrufende Stelle zu einem anderen Zweck als zu demjenigen, zu dem die Daten übermittelt wurden, ist zulässig, soweit die Daten dieser Stelle auch zu diesem anderen Zwecke hätten übermittelt werden dürfen. § 25 ist entsprechend anzuwenden.
 
-
-## § 27 – Speicherfristen
+# § 27 – Speicherfristen
 
 (1) Die Grunddaten einer Waffe sowie die Daten, die mit diesen Grunddaten verknüpft sind, sind spätestens 30 Jahre nach Vernichtung dieser Waffe zu löschen. Das gilt insbesondere für Daten, welche auf Grund der folgenden Speicheranlässe verarbeitet werden:
 
@@ -683,18 +653,15 @@ b) § 2 Absatz 4 Nummer 2 Buchstabe h bis j: 30 Jahre nach Erteilung,
 
 4. § 5 Nummer 4: ein Jahr nach der Erledigung.
 
-
-## § 28 – Verantwortlichkeiten für die Löschung
+# § 28 – Verantwortlichkeiten für die Löschung
 
 Die zuständige Waffenbehörde ist für die Löschung der im Waffenregister verarbeiteten Daten verantwortlich. Die Registerbehörde hat diese Daten auf Verlangen der zuständigen Waffenbehörde zu löschen. Unzulässig verarbeitete Daten sind von der Registerbehörde im Benehmen mit der zuständigen Waffenbehörde unverzüglich zu löschen.
 
-
-## § 29 – Einschränkung der Verarbeitung
+# § 29 – Einschränkung der Verarbeitung
 
 Die Verarbeitung von Daten, die nach § 27 Absatz 1 Satz 1 spätestens nach Ablauf von 30 Jahren zu löschen sind, wird für eine in § 13 Nummer 1 oder Nummer 5 berechtigte Stelle nach Ablauf von zehn Jahren eingeschränkt.
 
-
-## § 30 – Auskunftsrecht der betroffenen Person
+# § 30 – Auskunftsrecht der betroffenen Person
 
 (1) Die betroffene Person hat bei Geltendmachung des Auskunftsrechts nach Artikel 15 der Verordnung (EU) 2016/679 ihre Identität durch Vorlage einer amtlich beglaubigten Ausweiskopie oder amtlich beglaubigten Unterschrift nachzuweisen. Die Registerbehörde sendet die Ausweiskopie auf Verlangen der betroffenen Person nach Auskunftserteilung an diese zurück. Im Übrigen hat die Registerbehörde die Ausweiskopie spätestens ein Jahr nach Auskunftserteilung zu vernichten.
 
@@ -702,13 +669,11 @@ Die Verarbeitung von Daten, die nach § 27 Absatz 1 Satz 1 spätestens nach Abla
 
 (3) Sind gespeicherte Daten unrichtig oder unvollständig, hat die Registerbehörde die zuständige Waffenbehörde unverzüglich zu unterrichten.
 
-
-## § 31 – Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung
+# § 31 – Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung
 
 Die Pflicht des Verantwortlichen zur Unterrichtung der betroffenen Person nach Artikel 19 Satz 2 der Verordnung (EU) 2016/679 besteht nicht, sofern das Auskunftsrecht der betroffenen Person beschränkt ist.
 
-
-## § 32 – Verordnungsermächtigung
+# § 32 – Verordnungsermächtigung
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, Näheres zu bestimmen:
 
@@ -728,12 +693,10 @@ Die Pflicht des Verantwortlichen zur Unterrichtung der betroffenen Person nach A
 
 (2) Soweit in Rechtsverordnungen auf Grund dieses Gesetzes Form und Verfahren von Datenübermittlungen bestimmt werden, kann auf Bekanntmachungen sachverständiger Stellen verwiesen werden, wenn diese Bekanntmachungen für jede Person zugänglich sind. Wird in einer Rechtsverordnung auf Bekanntmachungen sachverständiger Stellen verwiesen, sind in der Rechtsverordnung das Datum, die Fundstelle und die Bezugsquelle jeder Bekanntmachung anzugeben. Jede Bekanntmachung sachverständiger Stellen, auf die verwiesen wird, ist beim Bundesarchiv niederzulegen; auf die Niederlegung ist in der Rechtsverordnung hinzuweisen.
 
-
-## § 33 – Ausschluss abweichenden Landesrechts
+# § 33 – Ausschluss abweichenden Landesrechts
 
 Von den in diesem Gesetz oder auf Grund dieses Gesetzes getroffenen Regelungen des Verwaltungsverfahrens kann nicht durch Landesrecht abgewichen werden.
 
-
-## § 34 – Übergangsvorschrift
+# § 34 – Übergangsvorschrift
 
 § 25 Absatz 3 ist ab dem 1. Dezember 2020 anzuwenden.

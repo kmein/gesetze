@@ -1,17 +1,13 @@
-# [FMSASatz 2011] Satzung der Bundesanstalt für Finanzmarktstabilisierung
-
-Ausfertigungsdatum: 21.02.2011
-
+% Satzung der Bundesanstalt für Finanzmarktstabilisierung
+% Ausfertigungsdatum: 21.02.2011
  
-
-## § 1 – Rechtsform und Bezeichnung
+# § 1 – Rechtsform und Bezeichnung
 
 (1) Die Bundesanstalt für Finanzmarktstabilisierung ist eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts im Geschäftsbereich des Bundesministeriums der Finanzen. Mit ihrer Trägerschaft ist gemäß § 3a Absatz 1 Satz 6 des Stabilisierungsfondsgesetzes die Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) beliehen.
 
 (2) Die Bundesanstalt für Finanzmarktstabilisierung kann im Geschäftsverkehr als „FMSA“ bezeichnet werden.
 
-
-## § 2 – Aufgaben und Organisation der FMSA; Trägerschaft und Unterstützung durch die Finanzagentur
+# § 2 – Aufgaben und Organisation der FMSA; Trägerschaft und Unterstützung durch die Finanzagentur
 
 (1) Der FMSA obliegen die ihr nach § 8a des Stabilisierungsfondsgesetzes übertragenen Aufgaben, insbesondere:
 
@@ -35,13 +31,11 @@ Bei der Wahrnehmung dieser Aufgaben sind die jeweils geltenden Beteiligungs- und
 
 (6) Die Aufbauorganisation der FMSA sowie deren Änderungen werden mit vorheriger Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
-
-## § 3 – Rechts- und Fachaufsicht
+# § 3 – Rechts- und Fachaufsicht
 
 Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Finanzen. Die Rechts- und Fachaufsicht umfasst auch die Weisungsbefugnis des Bundesministeriums der Finanzen gegenüber der FMSA.
 
-
-## § 4 – Organe
+# § 4 – Organe
 
 (1) Organ der FMSA ist der Leitungsausschuss.
 
@@ -49,8 +43,7 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 (3) Das Bundesministerium der Finanzen kann Wirtschaftsführungsbestimmungen und eine Geschäftsanweisung für den Leitungsausschuss erlassen.
 
-
-## § 5 – Zusammensetzung und Beschlüsse des Leitungsausschusses
+# § 5 – Zusammensetzung und Beschlüsse des Leitungsausschusses
 
 (1) Der Leitungsausschuss besteht aus einem Mitglied. Dieses Mitglied führt den Titel „Leiterin der Bundesanstalt für Finanzmarktstabilisierung“ oder „Leiter der Bundesanstalt für Finanzmarktstabilisierung“ (Leitung).
 
@@ -66,22 +59,19 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 (7) Die Leitung kann sich im Einvernehmen mit dem Bundesministerium der Finanzen eine Geschäftsordnung geben.
 
-
-## § 6 – Rechtsstellung der Leitung
+# § 6 – Rechtsstellung der Leitung
 
 (1) Die Leitung unterliegt dem Weisungsrecht des Bundesministeriums der Finanzen.
 
 (2) Die Leitung kann sich und ihren Stellvertretungen einen Verhaltenskodex geben, welcher der Zustimmung des Bundesministeriums der Finanzen bedarf. Insbesondere dürfen die Leitung und die Stellvertretungen ohne Zustimmung des Bundesministeriums der Finanzen weder auf eigene noch auf fremde Rechnung Geschäfte tätigen, die die Interessen der FMSA oder der Finanzagentur offensichtlich berühren oder aus denen sich der Anschein einer Interessenkollision ergeben könnte. Die jeweils geltenden Compliance-Richtlinien der Finanzagentur unter anderem zur Wertpapiercompliance, zur Verhinderung von Geldwäsche und Terrorismusfinanzierung, zur Korruptionsprävention und Betrugsbekämpfung sind entsprechend einzuhalten.
 
-
-## § 7 – Aufgaben und Zuständigkeiten der Leitung
+# § 7 – Aufgaben und Zuständigkeiten der Leitung
 
 (1) Die Leitung führt die Geschäfte der FMSA und verwaltet deren Vermögen nach den geltenden Gesetzen, insbesondere nach den Maßgaben des Stabilisierungsfondsgesetzes, der Finanzmarktstabilisierungsfonds-Verordnung und nach dieser Satzung.
 
 (2) Die Leitung ist für die ordnungsgemäße Ausführung ihrer Beschlüsse sowie für die der FMSA obliegenden Aufgaben verantwortlich.
 
-
-## § 8 – Vertretung der FMSA
+# § 8 – Vertretung der FMSA
 
 (1) Die Leitung, im Verhinderungsfall eine der Stellvertretungen, vertritt die FMSA gerichtlich und außergerichtlich. Soweit im Rahmen der Aufgaben nach § 2 Absatz 1 eine Entscheidung oder Handlung mit verbindlicher Außenwirkung erfolgt, bedarf diese Entscheidung oder Handlung der Zustimmung der Leitung. Hiervon unberührt sind sonstige Zustimmungs-, Einbeziehungs- oder Entscheidungserfordernisse, insbesondere seitens der Finanzagentur, des Bundesministeriums der Finanzen oder des Lenkungsausschusses.
 
@@ -89,8 +79,7 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 (3) Ist eine Willenserklärung gegenüber der FMSA abzugeben, so genügt die Abgabe gegenüber der Leitung oder einem von der Leitung zur Annahme bevollmächtigten Beschäftigten der FMSA.
 
-
-## § 9 – Personal
+# § 9 – Personal
 
 (1) Die FMSA kann Arbeitnehmerinnen und Arbeitnehmer im Rahmen des vom Bundesministerium der Finanzen genehmigten Stellenplans in Arbeitsverhältnissen beschäftigen. Ab dem 1. Januar 2018 orientieren sich neue Arbeitsverträge oder Änderungsvereinbarungen zu bestehenden Arbeitsverträgen an den jeweils geltenden arbeitsvertraglichen Musterregelungen der Finanzagentur. Im Übrigen wird die jeweils geltende Geschäftsanweisung für die Geschäftsführung der Finanzagentur insbesondere in Bezug auf Zustimmungsvorbehalte des Bundesministeriums der Finanzen bei bestimmten Vertragsabschlüssen oder sonstigen Entscheidungen entsprechend angewendet.
 
@@ -98,8 +87,7 @@ Die FMSA untersteht der Rechts- und Fachaufsicht des Bundesministeriums der Fina
 
 (3) Die Personalausgaben der FMSA sind von der FMSA zu tragen, insbesondere auch die von zugewiesenen Beamtinnen und Beamten sowie zugewiesenen Arbeitnehmerinnen und Arbeitnehmern.
 
-
-## § 10 – Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
+# § 10 – Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
 
 (1) Soweit nicht gesondert per Gesetz oder in dieser Satzung geregelt, gelten außer für Zahlungen, die Buchführung und die Rechnungslegung die §§ 106 bis 110 der Bundeshaushaltsordnung weder unmittelbar noch die §§ 1 bis 87 der Bundeshaushaltsordnung entsprechend im Sinne des § 105 Absatz 1 der Bundeshaushaltsordnung.
 

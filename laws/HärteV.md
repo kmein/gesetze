@@ -1,27 +1,21 @@
-# [HärteV] Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz  (HärteV)
-
-Ausfertigungsdatum: 15.07.1974
-
+% Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz  (HärteV)
+% Ausfertigungsdatum: 15.07.1974
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 14a des Bundesausbildungsförderungsgesetzes vom 26. August 1971 (Bundesgesetzbl. I S. 1409) und des Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes und des Arbeitsförderungsgesetzes vom 14. November 1973 (Bundesgesetzbl. I S. 1637), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Schulgeld, Studiengebühren
+# § 1 – Schulgeld, Studiengebühren
 
 (1) (weggefallen)
 
 (2) Bei dem Besuch von privaten Schulen, denen ein Tagesheim organisatorisch angegliedert ist (Tagesheimschulen), wird Ausbildungsförderung für die neben dem Schulgeld zu entrichtenden Kosten bis zur Höhe von monatlich 77 Euro geleistet. Falls diese Kosten Aufwendungen für die Verpflegung der Schüler umfassen, werden von dem in Satz 1 genannten Betrag 1 Euro je Verpflegungstag abgesetzt.
 
-
-## §§ 2 bis 5 – (weggefallen)
+# §§ 2 bis 5 – (weggefallen)
 
 \-
 
-
-## § 6 – Voraussetzungen der Internatsunterbringung
+# § 6 – Voraussetzungen der Internatsunterbringung
 
 (1) Ausbildungsförderung wird einem Auszubildenden geleistet, dessen Bedarf sich nach § 12 Abs. 2 oder nach § 13 Abs. 1 Nr. 1 in Verbindung mit Absatz 2 Nr. 2 des Gesetzes bemißt, zur Deckung der Kosten der Unterbringung in einem Internat oder einer gleichartigen Einrichtung, soweit sie den nach diesen Bestimmungen des Gesetzes maßgeblichen Bedarfssatz übersteigen.
 
@@ -29,8 +23,7 @@ Auf Grund des § 14a des Bundesausbildungsförderungsgesetzes vom 26. August 197
 
 (3) Als Internat oder einem Internat gleichgestellt gelten nur Wohnheime, die nach landesrechtlichen Vorschriften der Schulaufsicht oder gemäß § 78 des Gesetzes für Jugendwohlfahrt der Aufsicht des Landesjugendamtes unterstehen.
 
-
-## § 7 – Leistung bei Internatsunterbringung
+# § 7 – Leistung bei Internatsunterbringung
 
 (1) Kosten der Unterbringung sind die tatsächlich im Bewilligungszeitraum zu entrichtenden Kosten ohne Schulgeld (Heimkosten).
 
@@ -38,27 +31,22 @@ Auf Grund des § 14a des Bundesausbildungsförderungsgesetzes vom 26. August 197
 
 (3) Heimkosten werden nur berücksichtigt, wenn eine erheblich preisgünstigere Unterbringung in einem zumutbaren Internat (§ 6 Abs. 2 Satz 1) oder Wohnheim (§ 6 Abs. 2 Satz 2) mit im wesentlichen gleichen pädagogischen Leistungen ausgeschlossen ist. Das Amt für Ausbildungsförderung kann die Berücksichtigung der geltend gemachten Aufwendungen nur verweigern, wenn es die Möglichkeit einer erheblich preisgünstigeren Unterbringung bei im wesentlichen gleichen pädagogischen Leistungen nachweist.
 
-
-## §§ 8 und 9 – (weggefallen)
-
-\-
-
-
-## § 10 – (weggefallen)
+# §§ 8 und 9 – (weggefallen)
 
 \-
 
+# § 10 – (weggefallen)
 
-## § 11 – Berlin-Klausel
+\-
+
+# § 11 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 1974 in Kraft.
 
-
-## Anlage – zu § 4
+# Anlage – zu § 4
 
 \-

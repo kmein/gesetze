@@ -1,10 +1,7 @@
-# [NSVerbG] Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrichtungen und der Rechtsverhältnisse an deren Vermögen
-
-Ausfertigungsdatum: 17.03.1965
-
+% Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrichtungen und der Rechtsverhältnisse an deren Vermögen
+% Ausfertigungsdatum: 17.03.1965
  
-
-## § 1 – Dem Gesetz unterliegende Ansprüche
+# § 1 – Dem Gesetz unterliegende Ansprüche
 
 Diesem Gesetz unterliegen die in § 3 Abs. 1 Nr. 4 des Allgemeinen Kriegsfolgengesetzes vom 5. November 1957 (Bundesgesetzbl. I S. 1747) einer gesetzlichen Regelung vorbehaltenen Ansprüche gegen nationalsozialistische Einrichtungen. Nationalsozialistische Einrichtungen im Sinne dieses Gesetzes sind
 
@@ -12,13 +9,11 @@ Diesem Gesetz unterliegen die in § 3 Abs. 1 Nr. 4 des Allgemeinen Kriegsfolgeng
 
 2. sonstige Einrichtungen, deren Vermögen, falls es im Bereich nur einer zur Übertragung von Vermögen auf Grund der Direktive Nr. 50 des Kontrollrats befugten Dienststelle (Übertragungsbehörde) im Geltungsbereich dieses Gesetzes belegen war, von dieser, falls es im Bereich mehrerer Übertragungsbehörden belegen war, von diesen sämtlichen Übertragungsbehörden einheitlich als Vermögen einer nationalsozialistischen Einrichtung behandelt worden ist.
 
-
-## § 2 – Auflösung
+# § 2 – Auflösung
 
 Die Einrichtungen (§ 1) sind aufgelöst.
 
-
-## § 3 – Dem Gesetz nicht unterliegende Ansprüche
+# § 3 – Dem Gesetz nicht unterliegende Ansprüche
 
 (1) Dieses Gesetz ist nicht anzuwenden auf Ansprüche (§ 1), die in Gesetzen der Bundesrepublik Deutschland, ihrer Länder, der Verwaltung des Vereinigten Wirtschaftsgebietes oder in Gesetzen der Besatzungsmächte geregelt sind. Dies gilt insbesondere für Ansprüche, die im Bereich
 
@@ -42,13 +37,11 @@ entstanden sind.
 
 4. Ansprüche auf Ersatz von Verwendungen auf das Grundstück, soweit dessen Wert dadurch erhöht worden ist.
 
-
-## § 4 – Erlöschen von Ansprüchen
+# § 4 – Erlöschen von Ansprüchen
 
 Ansprüche (§ 1) erlöschen, soweit dieses Gesetz nichts anderes bestimmt. Ansprüche, die durch Rechte an Sachen oder an Rechten gesichert sind, gelten jedoch für diese Rechte als fortbestehend.
 
-
-## § 5 – Ansprüche aus der Nachkriegszeit
+# § 5 – Ansprüche aus der Nachkriegszeit
 
 Zu erfüllen sind
 
@@ -58,8 +51,7 @@ Zu erfüllen sind
 
 3. die nach dem 31. Juli 1945 entstandenen Ansprüche (§ 1) auf Zahlung einer Enteignungsentschädigung für im Geltungsbereich dieses Gesetzes belegene Grundstücke und grundstücksgleiche Rechte.
 
-
-## § 6 – Schadensersatzansprüche
+# § 6 – Schadensersatzansprüche
 
 (1) Zu erfüllen sind
 
@@ -73,8 +65,7 @@ sofern nicht wegen des Schadens Ansprüche entstanden sind, die bereits der Rege
 
 (3) Absatz 1 ist ferner nicht anzuwenden, wenn die Verletzung bei der Vorbereitung oder Ausführung einer nationalsozialistischen Gewaltmaßnahme, an der sich der Verletzte beteiligt hatte, oder unmittelbar danach entstanden war.
 
-
-## § 7 – Versorgungsansprüche
+# § 7 – Versorgungsansprüche
 
 (1) Zu erfüllen sind Ansprüche (§ 1) auf Zahlung von Renten, die der Versorgung der Berechtigten dienen, soweit die Leistungen aus diesen Ansprüchen für die Zeit nach dem 31. Dezember 1960 geschuldet werden, wenn der Verpflichtete im Zeitpunkt der Begründung des Anspruchs keine nationalsozialistische Einrichtung im Sinne des Artikels I des Gesetzes Nr. 2 des Kontrollrats war.
 
@@ -82,8 +73,7 @@ sofern nicht wegen des Schadens Ansprüche entstanden sind, die bereits der Rege
 
 (3) Auf die Leistungen nach Absatz 1 sind Leistungen aus einer nach dem 8. Mai 1945 begründeten Altersversorgung, die auf einem Arbeits- oder Dienstverhältnis beruht, anzurechnen, soweit sie 250 Deutsche Mark im Monat übersteigen.
 
-
-## § 8 – Ausgeschlossene Gläubigergruppen
+# § 8 – Ausgeschlossene Gläubigergruppen
 
 (1) Die §§ 6 und 7 finden keine Anwendung auf Ansprüche (§ 1) von Personen, die
 
@@ -97,8 +87,7 @@ sowie von Rechtsnachfolgern und Hinterbliebenen dieser Personen.
 
 (2) § 7 findet ferner keine Anwendung, wenn und soweit die Erfüllung des Anspruchs (§ 1) nur wegen der engen Verbindung des Gläubigers zum Nationalsozialismus von einer Einrichtung (§ 1) übernommen worden ist.
 
-
-## § 9 – Wohnsitzvoraussetzungen
+# § 9 – Wohnsitzvoraussetzungen
 
 (1) Ansprüche der in den §§ 6 und 7 bezeichneten Art sind nur unter der Voraussetzungen zu erfüllen, daß sie am 31. Dezember 1952 oder, falls sie später entstanden sind oder entstehen, im Zeitpunkt ihrer Entstehung zugestanden haben oder zustehen
 
@@ -122,48 +111,39 @@ Die Ansprüche der unter Nummern 3 und 4 fallenden Personen auf Zahlung von Rent
 
 (2) Ansprüche, die zum Gesamtgut einer ehelichen Gütergemeinschaft oder zum gemeinschaftlichen Vermögen einer Erbengemeinschaft gehören, können auch dann geltend gemacht werden, wenn die Voraussetzungen des Absatzes 1 in der Person nur eines der Mitberechtigten gegeben sind.
 
-
-## § 10 – Ansprüche aus Grundstücksübereignungen
+# § 10 – Ansprüche aus Grundstücksübereignungen
 
 Zu erfüllen sind Ansprüche (§ 1) auf Leistung eines Kaufpreises, einer Enteignungsentschädigung oder eines sonstigen Entgelts für im Geltungsbereich dieses Gesetzes belegene Grundstücke, die eine Einrichtung (§ 1) vor dem 1. August 1945 zu Eigentum erworben hat. Ansprüche, die nicht auf Geld oder auf einen Wertausgleich in Geld gerichtet sind, sind nach ihrem Schätzwert in Geld zu erfüllen. Für die Wertermittlung sind die Verhältnisse im Zeitpunkt des Vertragsabschlusses oder der Rechtskraft des Entschädigungsbeschlusses maßgeblich. Die Sätze 1 bis 3 gelten entsprechend für grundstücksgleiche Rechte.
 
-
-## § 11 – Ansprüche aus dinglichen Rechten
+# § 11 – Ansprüche aus dinglichen Rechten
 
 Ansprüche (§ 1) aus dem Eigentum oder anderen Rechten an einer Sache oder an einem Recht mit Ausnahme der in den §§ 987 bis 992 des Bürgerlichen Gesetzbuchs geregelten Ansprüche sind zu erfüllen.
 
-
-## § 12 – Gesetzeskonkurrenz
+# § 12 – Gesetzeskonkurrenz
 
 Ist ein Anspruch (§ 1) nach einer Vorschrift dieses Teils zu erfüllen, so steht dieser Erfüllungsverpflichtung nicht entgegen, daß der Anspruch nach einer anderen Vorschrift dieses Teils nicht oder nur in geringerem Umfang zu erfüllen ist.
 
-
-## § 13 – Zulässigkeit von Aufrechnungen
+# § 13 – Zulässigkeit von Aufrechnungen
 
 Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem Anspruch (§ 1), dessen Erfüllung in diesem Gesetz nicht vorgesehen ist, nicht entgegen.
 
-
-## § 14 – Umstellung von Reichsmarkansprüchen
+# § 14 – Umstellung von Reichsmarkansprüchen
 
 § 14 des Umstellungsgesetzes tritt hinsichtlich der in den §§ 5, 6, 7 und 10 bezeichneten, bisher nicht umgestellten Ansprüche außer Kraft. Das gleiche gilt für die in § 4 Satz 2 bezeichneten, als fortbestehend geltenden Ansprüche.
 
-
-## § 15 – Anspruchsschuldner
+# § 15 – Anspruchsschuldner
 
 Anspruchsschuldner der nach den §§ 5, 6, 7 und 10 zu erfüllenden Ansprüche ist der Bund. Dies gilt nicht, wenn der Gläubiger von einem Dritten Befriedigung für seinen Anspruch verlangen kann.
 
-
-## § 16 – Anmeldung
+# § 16 – Anmeldung
 
 Auf Grund der nach diesem Gesetz zu erfüllenden Ansprüche können Leistungen vom Bund nur verlangt werden, soweit die Ansprüche bei der Anmeldestelle (§ 17) fristgerecht (§ 18) angemeldet worden sind.
 
-
-## § 17 – Anmeldestelle
+# § 17 – Anmeldestelle
 
 Anmeldestelle für die nach diesem Gesetz vom Bund zu erfüllenden Ansprüche ist das Bundesministerium der Finanzen oder eine von ihm zu bestimmende Behörde oder Anstalt seines Geschäftsbereichs.
 
-
-## § 18 – Anmeldefrist, Nachsichtgewährung
+# § 18 – Anmeldefrist, Nachsichtgewährung
 
 (1) Die in den §§ 5, 6, 7 und 10 bezeichneten Ansprüche können nur innerhalb einer Frist von einem Jahr nach Inkrafttreten dieses Gesetzes angemeldet werden. In Abweichung hiervon beginnt die Frist,
 
@@ -179,13 +159,11 @@ Die Frist gilt auch dann als gewahrt, wenn der Anspruch innerhalb der Frist bei 
 
 (3) Ablehnende Entscheidungen der Oberfinanzdirektion München sind nach den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.
 
-
-## § 19 – Klagefrist
+# § 19 – Klagefrist
 
 Lehnt die Anmeldestelle (§ 17) die Erfüllung eines nach § 16 angemeldeten Anspruchs ab, so kann der Anspruch nur innerhalb von sechs Monaten und nur vor dem Gericht geltend gemacht werden, das nach der Natur des Anspruchs zuständig ist. Entsprechendes gilt, wenn die Nachsichtgewährung nach § 18 Abs. 2 verlangt wird. Die Frist ist eine Notfrist im Sinne der Zivilprozeßordnung. Sie beginnt mit Zustellung des Ablehnungsbescheides; § 58 der Verwaltungsgerichtsordnung gilt entsprechend. Die Frist gilt auch dann als gewahrt, wenn der Anspruch bei einem unzuständigen Gericht geltend gemacht wird.
 
-
-## § 20 – Nachversicherung
+# § 20 – Nachversicherung
 
 (1) Personen, die auf Grund des Gesetzes über die versicherungsrechtliche Stellung der im Dienste der Nationalsozialistischen Deutschen Arbeiterpartei Beschäftigten vom 4. März 1943 (Reichsgesetzbl. I S. 131) versicherungsfrei waren, gelten für die Zeiten der Versicherungsfreiheit, die vor dem 1. Januar 1943 liegen und für die nach § 7 des bezeichneten Gesetzes Beiträge für unwirksam erklärt worden sind, als nachversichert. Dies gilt auch für den Fall des Todes, wenn rentenberechtigte Hinterbliebene vorhanden sind.
 
@@ -197,23 +175,19 @@ Lehnt die Anmeldestelle (§ 17) die Erfüllung eines nach § 16 angemeldeten Ans
 
 (5) Die Gewährung von Leistungen richtet sich nach den Vorschriften, die für den nach Absatz 2 zuständigen Versicherungszweig gelten.
 
-
-## § 21 – Beginn des Rentenanspruchs
+# § 21 – Beginn des Rentenanspruchs
 
 Wird erst durch § 20 ein Anspruch auf Rente begründet oder übersteigt die unter Berücksichtigung des § 20 neu festgestellte Rente die bisherige Leistung, so ist im ersten Fall die Rente, im zweiten Fall der höhere Betrag frühestens vom Tag des Inkrafttreten dieses Gesetzes an zu gewähren.
 
-
-## § 22 – Rentenfeststellung
+# § 22 – Rentenfeststellung
 
 Soweit bei Versicherungsfällen vor Inkrafttreten dieses Gesetzes bereits über den Rentenanspruch entschieden ist, ist die Leistung unter Berücksichtigung des § 20 auf Antrag neu festzustellen, wenn dies für den Berechtigten günstiger ist. § 21 findet Anwendung.
 
-
-## § 23 – Erstattungspflicht
+# § 23 – Erstattungspflicht
 
 Den Trägern der gesetzlichen Rentenversicherung werden die Leistungen, die auf die in § 20 Abs. 1 bezeichneten Zeiten entfallen, vom Bund erstattet.
 
-
-## § 23a – Nachversicherung in Sonderfällen
+# § 23a – Nachversicherung in Sonderfällen
 
 (1) Personen, die nach Maßgabe des § 1242b der Reichsversicherungsordnung, des § 18 des Angestelltenversicherungsgesetzes in der bis zum 8. Mai 1945 geltenden Fassung in Verbindung mit § 20 der Verordnung über die Nachversicherung von freiwillig länger dienenden Soldaten der Wehrmacht und Angehörigen des Reichsarbeitsdienstes vom 21. Juli 1939 (Reichsgesetzbl. I S. 1314) bei Ausscheiden aus dem Dienstverhältnis ohne Versorgung in der gesetzlichen Rentenversicherung nachzuversichern gewesen wären, gelten für die zwei Jahre übersteigende Dienstzeit vor dem 1. Januar 1940 in der allgemeinen Rentenversicherung als nachversichert, es sei denn, daß die Nachversicherung für diese Zeit bereits erfolgt ist oder diese Zeit bei der Bemessung einer Versorgung nach beamtenrechtlichen Vorschriften oder Grundsätzen berücksichtigt wird. Dies gilt auch für den Fall des Todes, wenn rentenberechtigte Hinterbliebene vorhanden sind. Änderungen des § 20 der in Satz 1 bezeichneten Verordnung bleiben unberücksichtigt.
 
@@ -223,8 +197,7 @@ Den Trägern der gesetzlichen Rentenversicherung werden die Leistungen, die auf 
 
 (4) § 20 Abs. 4 und §§ 21 bis 23 gelten entsprechend.
 
-
-## § 24 – Vermögensübergang
+# § 24 – Vermögensübergang
 
 (1) Eigentum und sonstige Vermögensrechte einer Einrichtung (§ 1), über die noch nicht verfügt worden ist, werden mit Inkrafttreten dieses Gesetzes Vermögen des Bundes. Dies gilt nicht für Vermögensrechte, über welche die zur Durchführung der Direktive Nr. 50 des Kontrollrats zuständigen Stellen noch verfügen können.
 
@@ -238,18 +211,15 @@ Den Trägern der gesetzlichen Rentenversicherung werden die Leistungen, die auf 
 
 sind Vermögen des Landes.
 
-
-## § 25 – Hypothekengewinnabgabe
+# § 25 – Hypothekengewinnabgabe
 
 Bei Anwendung des § 91 des Lastenausgleichsgesetzes auf Verbindlichkeit einer Einrichtung (§ 1) gilt diese als am 20. Juni 1948 noch bestehend.
 
-
-## § 26 – Umstellung und Hypothekengewinnabgabe in Sonderfällen
+# § 26 – Umstellung und Hypothekengewinnabgabe in Sonderfällen
 
 § 14 des Umstellungsgesetzes tritt hinsichtlich der Ansprüche außer Kraft, die sich gegen eine Einrichtung im Sinne von Artikel I des Gesetzes Nr. 2 des Kontrollrats richten, jedoch deshalb nicht der Regelung dieses Gesetzes unterliegen, weil das Vermögen der Einrichtung nicht einheitlich als Vermögen einer nationalsozialistischen Einrichtung behandelt worden ist (§ 1 Nr. 2). Bei Anwendung der §§ 91 und 92 des Lastenausgleichsgesetzes auf diese Ansprüche gilt die in Satz 1 bezeichnete Einrichtung als am 20. Juni 1948 noch bestehend.
 
-
-## § 27 – Verpflichtungen der Erwerber von Vermögen
+# § 27 – Verpflichtungen der Erwerber von Vermögen
 
 (1) Ist in den Fällen des § 3 Abs. 2 der Erwerber nach dem 20. Juni 1948 Schuldner eines noch nicht umgestellten Anspruchs geworden, tritt insoweit § 14 des Umstellungsgesetzes außer Kraft.
 
@@ -259,37 +229,30 @@ Bei Anwendung des § 91 des Lastenausgleichsgesetzes auf Verbindlichkeit einer E
 
 (4) Bei der Anwendung des § 92 des Lastenausgleichsgesetzes gilt der Erwerber im Sinne des Absatzes 1 von Vermögen einer Einrichtung (§ 1), die ein Unternehmen im Sinne von § 161 Abs. 2 Nrn. 3 und 4 des Lastenausgleichsgesetzes war, mit Wirkung vom 20. Juni 1948 als Schuldner. Ist das Vermögen einer Einrichtung (§ 1) auf mehrere Erwerber übergegangen, so gelten diese insoweit als Schuldner, als nach den für § 92 des Lastenausgleichsgesetzes geltenden Grundsätzen ein Zusammenhang der Schuld mit dem auf den einzelnen Erwerber übergegangenen Grundbesitz anzunehmen sein würde.
 
-
-## § 28 – Außerkrafttreten von Vorschriften des Allgemeinen Kriegsfolgengesetzes
+# § 28 – Außerkrafttreten von Vorschriften des Allgemeinen Kriegsfolgengesetzes
 
 Mit Inkrafttreten dieses Gesetzes findet § 3 Abs. 2 des Allgemeinen Kriegsfolgengesetzes keine Anwendung auf die in dessen § 3 Abs. 1 Nr. 4 bezeichneten Ansprüche.
 
-
-## § 29 – Londoner Schuldenabkommen
+# § 29 – Londoner Schuldenabkommen
 
 Das Abkommen vom 27. Februar 1953 über deutsche Auslandsschulden und die zu seiner Ausführung ergangenen Vorschriften werden durch die Vorschriften dieses Gesetzes nicht berührt.
 
-
-## § 30 – Kosten anhängiger Gerichtsverfahren
+# § 30 – Kosten anhängiger Gerichtsverfahren
 
 Soweit sich ein anhängiger Rechtsstreit durch dieses Gesetz erledigt, trägt jede Partei ihre außergerichtlichen Kosten und die Hälfte der gerichtlichen Auslagen. Gerichtsgebühren werden nicht erhoben.
 
-
-## § 31 – Freistellung von Verwaltungsgebühren
+# § 31 – Freistellung von Verwaltungsgebühren
 
 Meldebehördliche Aufenthalts- und Wohnsitzbescheinigungen für Zwecke dieses Gesetzes sind gebührenfrei auszustellen.
 
-
-## § 32 – Amts- und Rechtshilfe
+# § 32 – Amts- und Rechtshilfe
 
 Die Verwaltungsbehörden und Gerichte, die öffentlich-rechtlichen Körperschaften und Anstalten und die Organisationen der Selbstverwaltung der Wirtschaft haben den mit der Durchführung dieses Gesetzes befaßten Behörden Amts- und Rechtshilfe zu leisten. Für Rechtshilfe der Gerichte gelten die §§ 156 bis 168 des Gerichtsverfassungsgesetzes entsprechend.
 
-
-## § 33 – Geltung in Berlin
+# § 33 – Geltung in Berlin
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin; hierbei tritt in den §§ 25, 26 und 27 Abs. 3 und 4 an die Stelle des 20. Juni 1948 jeweils der 24. Juni 1948.
 
-
-## § 34 – Inkrafttreten
+# § 34 – Inkrafttreten
 
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden dritten Kalendermonats in Kraft mit Ausnahme der §§ 20 bis 23, die am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft treten.

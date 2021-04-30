@@ -1,15 +1,11 @@
-# [AusglZSV] Verordnung über das Prüfungsverfahren zur Anwendung von Antidumpingzollsätzen und Ausgleichszollsätzen
-
-Ausfertigungsdatum: 05.12.1963
-
+% Verordnung über das Prüfungsverfahren zur Anwendung von Antidumpingzollsätzen und Ausgleichszollsätzen
+% Ausfertigungsdatum: 05.12.1963
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21 Abs. 3 Sätze 2 und 3 des Zollgesetzes vom 14. Juni 1961 (Bundesgesetzbl. I S. 737), zuletzt geändert durch das Gesetz zur Änderung des Zollgesetzes vom 4. September 1962 (Bundesgesetzbl. I S. 605), verordnet die Bundesregierung:
 
-
-## § 1 – Prüfungsantrag, Zuständigkeit
+# § 1 – Prüfungsantrag, Zuständigkeit
 
 (1) Die Einleitung des Prüfungsverfahrens kann von Personen beantragt werden, die behaupten, durch das Vorliegen eines Tatbestandes des § 21 Abs. 3 Satz 1 des Zollgesetzes betroffen zu sein. Antragsberechtigt sind auch Wirtschaftsvereinigungen oder Wirtschaftsorganisationen, denen die in Satz 1 genannten Personen angehören.
 
@@ -23,8 +19,7 @@ Auf Grund des § 21 Abs. 3 Sätze 2 und 3 des Zollgesetzes vom 14. Juni 1961 (Bu
 
 Der Antrag soll die Tatsachen und Beweismittel angeben, aus denen sich ergibt, daß die Voraussetzungen für die Anwendung von Antidumpingzollsätzen oder von Ausgleichszollsätzen vorliegen.
 
-
-## § 2 – Angaben bei Dumpingverdacht
+# § 2 – Angaben bei Dumpingverdacht
 
 (1) Macht der Antragsteller geltend, daß die Voraussetzungen für die Anwendung von Antidumpingzollsätzen vorliegen, so soll der Antrag insbesondere enthalten
 
@@ -60,41 +55,34 @@ Der Antrag soll die Tatsachen und Beweismittel angeben, aus denen sich ergibt, d
 
 (7) Zu Absatz 1 Nrn. 4 bis 7 sollen Preise angegeben werden, die zur Zeit der Antragstellung gelten; auch soll die Preisentwicklung in den letzten zwölf Monaten vor der Antragstellung angegeben werden.
 
-
-## § 3 – Angaben bei Verdacht der Gewährung von Prämien oder Subventionen
+# § 3 – Angaben bei Verdacht der Gewährung von Prämien oder Subventionen
 
 Macht der Antragsteller geltend, daß die Voraussetzungen für die Anwendung von Ausgleichszollsätzen vorliegen, so soll der Antrag über die Angaben nach § 2 Abs. 1 Nrn. 1 bis 10 hinaus Angaben darüber enthalten, von wem und in welcher Art und Höhe Prämien oder Subventionen für die Waren gewährt werden, auf die sich das Prüfungsverfahren beziehen soll.
 
-
-## § 4 – Ablehnung des Prüfungsverfahrens
+# § 4 – Ablehnung des Prüfungsverfahrens
 
 Ergeben sich aus dem Antrag auch nach ergänzenden Ermittlungen durch das zuständige Bundesministerium keine hinreichenden Anhaltspunkte dafür, daß die Voraussetzungen für die Anwendung von Antidumpingzollsätzen oder Ausgleichszollsätzen vorliegen, so sieht das zuständige Bundesministerium von der Einleitung des Prüfungsverfahrens ab und teilt dies dem Antragsteller mit.
 
-
-## § 5 – Einleitung des Prüfungsverfahrens
+# § 5 – Einleitung des Prüfungsverfahrens
 
 (1) Bei Vorliegen hinreichender Anhaltspunkte leitet das zuständige Bundesministerium das Prüfungsverfahren ein. Es teilt dies dem Antragsteller mit. Die Einleitung ist auch der Regierung des Ursprungslandes mitzuteilen.
 
 (2) Das zuständige Bundesministerium macht die Einleitung des Prüfungsverfahrens im Bundesanzeiger bekannt. Es veröffentlicht dabei insbesondere die Bezeichnung der Waren, auf die sich das Prüfungsverfahren bezieht, sowie ihr Ursprungsland. Die Bekanntmachung enthält den Hinweis, daß innerhalb einer bestimmten Frist schriftlich sachdienliche Tatsachen oder Nachweise vorgebracht werden können.
 
-
-## § 6 – Sachaufklärung
+# § 6 – Sachaufklärung
 
 Nach Einleitung des Prüfungsverfahrens klärt das zuständige Bundesministerium den Sachverhalt auf. Es zieht dabei den Antragsteller und alle Personen heran, die schriftlich innerhalb der nach § 5 Abs. 2 Satz 3 bestimmten Frist dargelegt haben, daß sie durch das Ergebnis des Prüfungsverfahrens betroffen werden können; das gleiche gilt für Wirtschaftsvereinigungen oder Wirtschaftsorganisationen, wenn die ihnen angehörenden Personen betroffen werden können.
 
-
-## § 7 – Abschluß des Prüfungsverfahrens
+# § 7 – Abschluß des Prüfungsverfahrens
 
 (1) Nach Sachaufklärung schließt das zuständige Bundesministerium das Prüfungsverfahren ab. Das Ergebnis des Prüfungsverfahrens wird dem Antragsteller, den übrigen nach § 6 Satz 2 Beteiligten und der Regierung des Ursprungslandes mitgeteilt.
 
 (2) Das zuständige Bundesministerium macht den Abschluß des Prüfungsverfahrens im Bundesanzeiger bekannt.
 
-
-## § 8 – Geltung in Berlin
+# § 8 – Geltung in Berlin
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit § 99 des Zollgesetzes auch im Land Berlin.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

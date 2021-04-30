@@ -1,34 +1,27 @@
-# [VollstrVergV] Verordnung über die Vergütung für Beamte im Vollstreckungsdienst  (Vollstreckungsvergütungsverordnung - VollstrVergV)
-
-Ausfertigungsdatum: 08.07.1976
-
+% Verordnung über die Vergütung für Beamte im Vollstreckungsdienst  (Vollstreckungsvergütungsverordnung - VollstrVergV)
+% Ausfertigungsdatum: 08.07.1976
  
-
-## § 1
+# § 1
 
 (1) Die im Außendienst beschäftigten Gerichtsvollzieher (planmäßige und hilfsweise beschäftigte Beamte) erhalten als Vergütung einen Anteil an den durch sie vereinnahmten Gebühren.
 
 (2) Die Vergütung beträgt 15 vom Hundert der durch den Beamten für die Erledigung der Aufträge vereinnahmten Gebühren.
 
-
-## § 2
+# § 2
 
 Die Vergütung für die Erledigung eines einzelnen Auftrages darf im Regelfall den Betrag von 59,82 Euro nicht übersteigen. Besteht Anlass, in einer Einzelsache ausnahmsweise mehr als 59,82 Euro zu gewähren, so kann die zuständige Stelle in besonders schwierigen oder zeitraubenden Fällen Ausnahmen zulassen.
 
-
-## § 3
+# § 3
 
 (1) Die im Vollstreckungsdienst der Justiz (in Mecklenburg-Vorpommern und Schleswig-Holstein bei Landesbezirkskassen) tätigen Beamten des mittleren Dienstes sowie die in diesem Dienstzweig hilfsweise beschäftigten Beamten erhalten für die Dauer ihrer Verwendung im Außendienst eine Vergütung.
 
 (2) Die Vergütung beträgt 50 vom Hundert der durch den Beamten für die Erledigung der Aufträge vereinnahmten Gebühren.
 
-
-## § 4
+# § 4
 
 Die Vergütung für die Erledigung eines einzelnen Auftrages darf den Betrag von 19,94 Euro nicht übersteigen. Besteht Anlass, in einer Einzelsache ausnahmsweise mehr als 19,94 Euro zu gewähren, so kann die zuständige Stelle in besonders schwierigen oder zeitraubenden Fällen Ausnahmen zulassen.
 
-
-## § 5
+# § 5
 
 (1) Die im Vollstreckungsdienst der Finanzverwaltung tätigen Beamten des mittleren Dienstes erhalten für die Dauer ihrer Verwendung im Außendienst eine Vergütung.
 
@@ -40,8 +33,7 @@ Die Vergütung für die Erledigung eines einzelnen Auftrages darf den Betrag von
 | 2\. | für jeden weiteren im Monat beigebrachten Betrag bis zu insgesamt weiteren 5.112,92 Euro | 0,5 vom Hundert, |
 | 3\. | für jeden weiteren im Monat über die Nummern 1 und 2 hinaus beigebrachten Betrag         | 0,2 vom Hundert. |
 
-
-## § 6
+# § 6
 
 (1) Die Vergütung für die Erledigung eines einzelnen Auftrages darf den Betrag von 19,94 Euro nicht übersteigen.
 
@@ -49,8 +41,7 @@ Die Vergütung für die Erledigung eines einzelnen Auftrages darf den Betrag von
 
 (3) Besteht Anlass, in einer Einzelsache ausnahmsweise mehr als 19,94 Euro zu gewähren, so kann die zuständige Stelle in besonders schwierigen oder zeitraubenden Fällen Ausnahmen zulassen.
 
-
-## § 7
+# § 7
 
 (1) Die im Vollstreckungsdienst der Gemeinden und der Gemeindeverbände tätigen Beamten erhalten für die Dauer ihrer Verwendung im Außendienst eine Vergütung.
 
@@ -60,13 +51,11 @@ Die Vergütung für die Erledigung eines einzelnen Auftrages darf den Betrag von
 
 2. 0,5 vom Hundert der von dem Vollziehungsbeamten durch Vollstreckungshandlungen beigebrachten Geldbeträge. Hierbei werden auch die vom Vollziehungsbeamten beigebrachten Beträge berücksichtigt, die auf Grund eines Auftrages der Vollstreckungsbehörde zur Abwendung einer Vollstreckungshandlung gezahlt werden.
 
-
-## § 8
+# § 8
 
 Die Vergütung für die Erledigung eines einzelnen Auftrages darf den Betrag von 19,94 Euro nicht übersteigen. Besteht Anlass, in einer Einzelsache ausnahmsweise mehr als 19,94 Euro zu gewähren, so kann die zuständige Stelle in besonders schwierigen oder zeitraubenden Fällen Ausnahmen zulassen.
 
-
-## § 9
+# § 9
 
 (1) Für die einem Gerichtsvollzieher oder einem anderen im Vollstreckungsdienst tätigen Beamten nach dieser Verordnung im Kalenderjahr zustehende Vergütung gelten Höchstbeträge. Der Höchstbetrag beträgt für die Vergütung nach  
 
@@ -87,20 +76,17 @@ Wird der Höchstbetrag der Vergütung überschritten, so verbleiben dem Beamten 
 
 (2) Wird der Beamte nicht für das gesamte Kalenderjahr mit Tätigkeiten beschäftigt, auf Grund derer ihm Vergütung nach diesen Vorschriften zusteht, verringert sich der Höchstbetrag entsprechend; für jeden fehlenden Kalendertag ist ein anteiliger Betrag bei der Vergütung nach Abschnitt I von 6,65 Euro, bei der Vergütung nach Abschnitt III von 5,32 Euro und bei der Vergütung nach Abschnitt II oder Abschnitt IV von 3,99 Euro abzuziehen. Die Dauer des regelmäßigen Erholungsurlaubs und die einer sonst im Interesse des Dienstherrn erfolgten Beurlaubung sowie die Zeit einer Erkrankung sind als Beschäftigungszeit anzusehen.
 
-
-## § 10
+# § 10
 
 Die Höchstbeträge nach § 9 Abs. 1 erhöhen sich um die Hälfte der Beträge nach § 9 Abs. 2 für jeden Kalendertag, für den ein Beamter zu den Dienstgeschäften des eigenen Bezirks die Vertretung eines verhinderten Beamten oder die Verwaltung einer weiteren Stelle oder Hilfsstelle für einen im Vollstreckungsdienst tätigen Beamten übernimmt.
 
-
-## § 11
+# § 11
 
 (1) Mit der Vergütung sind auch die besonderen, für die Vollziehertätigkeit typischen Aufwendungen abgegolten. Typische Aufwendungen sind insbesondere die Aufwendungen bei Nachtdienst.
 
 (2) Die Abgeltung der mit dem Außendienst verbundenen Fahrtkosten und sonstigen Mehraufwendungen richtet sich - soweit hierzu nicht besondere Bestimmungen ergangen sind - nach den allgemeinen reisekostenrechtlichen Vorschriften.
 
-
-## § 12
+# § 12
 
 (1) Die Vergütung des Gerichtsvollziehers gehört in Höhe von 10 vom Hundert des Endgrundgehalts der Besoldungsgruppe, die der Bemessung der Versorgungsbezüge des Beamten zugrunde liegt, zu den ruhegehaltfähigen Dienstbezügen, wenn der Beamte mindestens zehn Jahre ausschließlich im Vollstreckungsaußendienst tätig gewesen ist und beim Eintritt des Versorgungsfalles eine Vergütung nach dieser Verordnung bezieht oder ohne Berücksichtigung einer vorangegangenen Dienstunfähigkeit bezogen hätte. Die Frist gilt bei einem Beamten, dessen Beamtenverhältnis durch Eintritt in den Ruhestand wegen Dienstunfähigkeit oder durch Tod geendet hat, als erfüllt, wenn er bis zum Eintritt in den Ruhestand wegen Erreichens der Altersgrenze zehn Jahre ausschließlich im Vollstreckungsaußendienst hätte tätig sein können.
 
@@ -110,12 +96,10 @@ Die Höchstbeträge nach § 9 Abs. 1 erhöhen sich um die Hälfte der Beträge n
 
 (4) Soweit durch diese Verordnung eine teilweise ruhegehaltfähige Vergütung durch eine nichtruhegehaltfähige Vergütung ersetzt wird, gilt für die bisherigen Empfänger der teilweise ruhegehaltfähigen Vergütung die Vergütung nach dieser Verordnung unter den allgemeinen Voraussetzungen des Absatzes 1 bis zur Höhe des bisher ruhegehaltfähigen Teils als ruhegehaltfähig.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14
+# § 14
 
 (Inkrafttreten)

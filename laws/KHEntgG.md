@@ -1,10 +1,7 @@
-# [KHEntgG] Gesetz über die Entgelte für voll- und teilstationäre Krankenhausleistungen  (Krankenhausentgeltgesetz - KHEntgG)
-
-Ausfertigungsdatum: 23.04.2002
-
+% Gesetz über die Entgelte für voll- und teilstationäre Krankenhausleistungen  (Krankenhausentgeltgesetz - KHEntgG)
+% Ausfertigungsdatum: 23.04.2002
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -126,8 +123,7 @@ Zuständigkeit der Krankenkassen auf Landesebene
 
 Übermittlung und Nutzung von Daten
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die vollstationären und teilstationären Leistungen der DRG-Krankenhäuser werden nach diesem Gesetz und dem Krankenhausfinanzierungsgesetz vergütet.
 
@@ -143,8 +139,7 @@ Zuständigkeit der Krankenkassen auf Landesebene
 
 (3) Die vor- und nachstationäre Behandlung wird für alle Benutzer einheitlich nach § 115a des Fünften Buches Sozialgesetzbuch vergütet. Die ambulante Durchführung von Operationen und sonstiger stationsersetzender Eingriffe wird für die gesetzlich versicherten Patienten nach § 115b des Fünften Buches Sozialgesetzbuch und für sonstige Patienten nach den für sie geltenden Vorschriften, Vereinbarungen oder Tarifen vergütet.
 
-
-## § 2 – Krankenhausleistungen
+# § 2 – Krankenhausleistungen
 
 (1) Krankenhausleistungen nach § 1 Abs. 1 sind insbesondere ärztliche Behandlung, auch durch nicht fest angestellte Ärztinnen und Ärzte, Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, die für die Versorgung im Krankenhaus notwendig sind, sowie Unterkunft und Verpflegung; sie umfassen allgemeine Krankenhausleistungen und Wahlleistungen. Zu den Krankenhausleistungen gehören nicht die Leistungen der Belegärzte (§ 18) sowie der Beleghebammen und -entbindungspfleger.
 
@@ -172,8 +167,7 @@ Besondere Aufgaben nach Satz 2 Nummer 4 setzen deren Ausweisung und Festlegung i
 
 (3) Bei der Erbringung von allgemeinen Krankenhausleistungen durch nicht im Krankenhaus fest angestellte Ärztinnen und Ärzte hat das Krankenhaus sicherzustellen, dass diese für ihre Tätigkeit im Krankenhaus die gleichen Anforderungen erfüllen, wie sie auch für fest im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 
-
-## § 3 – Grundlagen
+# § 3 – Grundlagen
 
 Die voll- und teilstationären allgemeinen Krankenhausleistungen werden vergütet durch
 
@@ -183,15 +177,13 @@ Die voll- und teilstationären allgemeinen Krankenhausleistungen werden vergüte
 
 3. Entgelte nach § 6 Abs. 2 für neue Untersuchungs- und Behandlungsmethoden,
 
-3a.  
-ein Pflegebudget nach § 6a,
+3a. ein Pflegebudget nach § 6a,
 
 4. Zusatzentgelte für die Behandlung von Blutern,
 
 5. Zu- und Abschläge nach § 7 Abs. 1.
 
-
-## § 4 – Vereinbarung eines Erlösbudgets
+# § 4 – Vereinbarung eines Erlösbudgets
 
 (1) Das von den Vertragsparteien nach § 11 Abs. 1 zu vereinbarende Erlösbudget umfasst für voll- und teilstationäre Leistungen die Fallpauschalen nach § 7 Abs. 1 Satz 1 Nr. 1 und die Zusatzentgelte nach § 7 Abs. 1 Satz 1 Nr. 2. Es umfasst nicht die krankenhausindividuell zu vereinbarenden Entgelte nach § 6 Abs. 1 bis 2a, nicht die Zusatzentgelte für die Behandlung von Blutern, nicht die Zu- und Abschläge nach § 7 Absatz 1, nicht die Entgelte für Modellvorhaben nach § 63 des Fünften Buches Sozialgesetzbuch und nicht die Vergütung nach § 140a des Fünften Buches Sozialgesetzbuch für die integrierte Versorgung.
 
@@ -301,8 +293,7 @@ Zur Umsetzung der Sätze 1 und 3 vereinbaren die Vertragsparteien nach § 11 jä
 
 Werden die Bestätigungen nach Satz 14 nicht oder nicht vollständig vorgelegt, ist der zusätzliche Betrag vollständig zurückzuzahlen. Die Vorlage der Bestätigungen nach Satz 14 hat durch das Krankenhaus gegenüber den Vertragspartnern bis zum 28. Februar des jeweiligen Folgejahres zu erfolgen. Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit jährlich, erstmals zum 30. Juni 2022 über die Zahl der Vollzeitkräfte und den Umfang der aufgestockten Teilzeitstellen gesondert für Hebammen und für das Hebammen unterstützende Fachpersonal, die auf Grund der Finanzierung nach den Sätzen 1 und 3 in den Jahren 2021, 2022 und 2023 neu eingestellt oder deren vorhandene Teilzeitstellen aufgestockt wurden. Die Krankenkassen sind verpflichtet, dem Spitzenverband Bund der Krankenkassen die für die Berichterstattung nach Satz 17 erforderlichen Informationen über die Vereinbarungen der Vertragsparteien zur Neueinstellung oder Aufstockung vorhandener Teilzeitstellen von nach den Sätzen 1 und 3 finanziertem Personal zu übermitteln. Der Spitzenverband Bund der Krankenkassen legt das Verfahren für die Übermittlung fest.
 
-
-## § 5 – Vereinbarung und Abrechnung von Zu- und Abschlägen
+# § 5 – Vereinbarung und Abrechnung von Zu- und Abschlägen
 
 (1) Die nach § 9 Abs. 1 Satz 1 Nr. 3 vereinbarten Regelungen für bundeseinheitliche Zu- und Abschläge nach § 17b Absatz 1a des Krankenhausfinanzierungsgesetzes sind für die Vertragsparteien nach § 11 verbindlich. Auf Antrag einer Vertragspartei ist zu prüfen, ob bei dem Krankenhaus die Voraussetzungen für einen Zu- oder Abschlag vorliegen. Wurde für einen Tatbestand ein bundeseinheitlicher Zu- oder Abschlagsbetrag festgelegt, der für die Zwecke der Berechnung gegenüber den Patienten oder den Kostenträgern auf eine krankenhausindividuelle Bezugsgröße, beispielsweise die Fallzahl oder eine Erlössumme, umgerechnet werden muss, so vereinbaren die Vertragsparteien gemäß den bundeseinheitlichen Vereinbarungen den sich daraus ergebenden krankenhausindividuellen Abrechnungsbetrag oder -prozentsatz.
 
@@ -356,8 +347,7 @@ Der Zuschlagsbetrag ist das Zuschlagsvolumen, dividiert durch die voraussichtlic
 
 (5) Kann ein Zu- oder Abschlag nach Absatz 4 wegen der Schließung des Krankenhauses nicht oder nicht im notwendigen Umfang abgerechnet werden, wird der auf die gesetzliche Krankenversicherung entfallende Anteil des noch auszugleichenden Betrags den gesetzlichen Krankenkassen, deren Versicherte im Vorjahr im Krankenhaus voll- und teilstationär behandelt wurden, gesondert in Rechnung gestellt oder an diese zurückgezahlt. Auf die einzelne Krankenkasse entfällt davon der Teilbetrag, der ihrem entsprechenden Anteil an der Summe der Entgelte im Vorjahr entspricht. Die Vertragsparteien nach § 11 können eine abweichende Vereinbarung schließen.
 
-
-## § 6 – Vereinbarung sonstiger Entgelte
+# § 6 – Vereinbarung sonstiger Entgelte
 
 (1) Für Leistungen, die noch nicht mit den DRG-Fallpauschalen und Zusatzentgelten sachgerecht vergütet werden können, und für besondere Einrichtungen nach § 17b Absatz 1 Satz 10 des Krankenhausfinanzierungsgesetzes vereinbaren die Vertragsparteien nach § 11 fall- oder tagesbezogene Entgelte oder in eng begrenzten Ausnahmefällen Zusatzentgelte, sofern die Leistungen oder besonderen Einrichtungen nach Feststellung der Vertragsparteien nach § 9 oder in einer Verordnung nach § 17b Abs. 7 Satz 1 Nr. 3 des Krankenhausfinanzierungsgesetzes von der Anwendung der DRG-Fallpauschalen und Zusatzentgelte ausgenommen sind. Die Entgelte sind sachgerecht zu kalkulieren; die Empfehlungen nach § 9 Abs. 1 Satz 1 Nr. 4 sind zu beachten.
 
@@ -377,8 +367,7 @@ Nach Vereinbarung des Zusatzentgelts melden die an der Vereinbarung beteiligten 
 
 (4) Auf Verlangen der besonderen Einrichtung werden Leistungen für ausländische Patientinnen und Patienten, die mit dem Ziel einer Krankenhausbehandlung in die Bundesrepublik Deutschland einreisen, sowie Leistungen für Empfängerinnen und Empfänger von Gesundheitsleistungen nach dem Asylbewerberleistungsgesetz nicht im Rahmen der Erlössumme vergütet.
 
-
-## § 6a – Vereinbarung eines Pflegebudgets
+# § 6a – Vereinbarung eines Pflegebudgets
 
 (1) Die Vertragsparteien nach § 11 vereinbaren zur Finanzierung der Pflegepersonalkosten nach § 17b Absatz 4 des Krankenhausfinanzierungsgesetzes, die dem einzelnen Krankenhaus entstehen, ein Pflegebudget. Das Pflegebudget umfasst nicht
 
@@ -402,8 +391,7 @@ Das Pflegebudget ist zweckgebunden für die Finanzierung der Pflegepersonalkoste
 
 (6) Abweichend von Absatz 1 Satz 1 gehen bei der Vereinbarung des Pflegebudgets für das Jahr 2020 die Summe der krankenhausindividuell vereinbarten Mittel nach § 4 Absatz 8 und die Mittel nach § 4 Absatz 9 in dem Pflegebudget für das Jahr 2020 auf. Die Mittel nach § 4 Absatz 9 gehen nur dann in dem Pflegebudget für das Jahr 2020 auf, soweit diese den Pflegepersonalkosten nach Absatz 1 Satz 1 zuzuordnen sind und es sich um laufende Kosten handelt. Ist die für das Jahr 2020 zu vereinbarende Summe aus dem Gesamtbetrag nach § 4 Absatz 3 Satz 1 und dem zu vereinbarenden Pflegebudget um mehr als 2 Prozent und für das Jahr 2021 um mehr als 4 Prozent niedriger als der jeweils vereinbarte Vorjahreswert, ist für diese Jahre das Pflegebudget so zu erhöhen, dass damit die Minderung der Summe aus Gesamtbetrag und Pflegebudget für das Jahr 2020 auf 2 Prozent und für das Jahr 2021 auf 4 Prozent begrenzt wird. Diese Erhöhung des Pflegebudgets unterliegt nicht der Pflicht zur Rückzahlung für nicht zweckentsprechend verwendete Mittel nach der Vereinbarung nach § 9 Absatz 1 Nummer 8. Satz 3 findet keine Anwendung bei einer Minderung der Summe aus Gesamtbetrag und Pflegebudget auf Grund von Leistungsrückgängen.
 
-
-## § 7 – Entgelte für allgemeine Krankenhausleistungen
+# § 7 – Entgelte für allgemeine Krankenhausleistungen
 
 (1) Die allgemeinen Krankenhausleistungen werden gegenüber den Patienten oder ihren Kostenträgern mit folgenden Entgelten abgerechnet:
 
@@ -419,8 +407,7 @@ Das Pflegebudget ist zweckgebunden für die Finanzierung der Pflegepersonalkoste
 
 6. Entgelte für neue Untersuchungs- und Behandlungsmethoden, die noch nicht in die Entgeltkataloge nach § 9 Abs. 1 Satz 1 Nr. 1 und 2 aufgenommen worden sind (§ 6 Abs. 2),
 
-6a.  
-tagesbezogene Pflegeentgelte zur Abzahlung des Pflegebudgets nach § 6a,
+6a. tagesbezogene Pflegeentgelte zur Abzahlung des Pflegebudgets nach § 6a,
 
 7. Pflegezuschlag nach § 8 Absatz 10.
 
@@ -438,8 +425,7 @@ Mit diesen Entgelten werden alle für die Versorgung des Patienten erforderliche
 
 Die auf der Bundesebene vereinbarten Abrechnungsbestimmungen nach § 9 Abs. 1 Satz 1 Nr. 3 sind anzuwenden.
 
-
-## § 8 – Berechnung der Entgelte
+# § 8 – Berechnung der Entgelte
 
 (1) Die Entgelte für allgemeine Krankenhausleistungen sind für alle Benutzer des Krankenhauses einheitlich zu berechnen; § 17 Abs. 5 des Krankenhausfinanzierungsgesetzes bleibt unberührt. Bei Patienten, die im Rahmen einer klinischen Studie behandelt werden, sind die Entgelte für allgemeine Krankenhausleistungen nach § 7 zu berechnen; dies gilt auch bei klinischen Studien mit Arzneimitteln. Die Entgelte dürfen nur im Rahmen des Versorgungsauftrags berechnet werden; dies gilt nicht für die Behandlung von Notfallpatienten. Der Versorgungsauftrag des Krankenhauses ergibt sich
 
@@ -485,8 +471,7 @@ Ferner dürfen Entgelte für Leistungen nicht berechnet werden, wenn die Prüfun
 
 (11) Das Krankenhaus berechnet bei Patientinnen und Patienten, die im Zeitraum vom 1. Mai 2020 bis zum 31. Dezember 2020 zur voll- oder teilstationären Krankenhausbehandlung in das Krankenhaus aufgenommen werden, einen Zuschlag in Höhe von 0,42 Prozent des Rechnungsbetrags und weist diesen gesondert in der Rechnung aus. Der Zuschlag wird bei der Ermittlung der Erlösausgleiche nicht berücksichtigt.
 
-
-## § 9 – Vereinbarung auf Bundesebene
+# § 9 – Vereinbarung auf Bundesebene
 
 (1) Der Spitzenverband Bund der Krankenkassen und der Verband der Privaten Krankenversicherung gemeinsam vereinbaren mit der Deutschen Krankenhausgesellschaft (Vertragsparteien auf Bundesebene) mit Wirkung für die Vertragsparteien nach § 11 insbesondere
 
@@ -494,8 +479,7 @@ Ferner dürfen Entgelte für Leistungen nicht berechnet werden, wenn die Prüfun
 
 2. einen Katalog ergänzender Zusatzentgelte nach § 17b Absatz 1 Satz 7 des Krankenhausfinanzierungsgesetzes einschließlich der Vergütungshöhe,
 
-2a.  
-einen Pflegeerlöskatalog nach § 17b Absatz 4 Satz 5 des Krankenhausfinanzierungsgesetzes einschließlich der Bewertungsrelationen für die tagesbezogene Abzahlung des vereinbarten Pflegebudgets nach § 6a,
+2a. einen Pflegeerlöskatalog nach § 17b Absatz 4 Satz 5 des Krankenhausfinanzierungsgesetzes einschließlich der Bewertungsrelationen für die tagesbezogene Abzahlung des vereinbarten Pflegebudgets nach § 6a,
 
 3. die Abrechnungsbestimmungen für die Entgelte nach den Nummern 1, 2 und 2a sowie die Regelungen über Zu- und Abschläge,
 
@@ -541,8 +525,7 @@ b) im Falle einer erforderlichen Anschlussversorgung zur Beatmungsentwöhnung en
 
 (2) Kommt eine Vereinbarung zu Absatz 1 Satz 1 Nummer 1 und 2 ganz oder teilweise nicht zustande, gilt § 17b Absatz 7 des Krankenhausfinanzierungsgesetzes; in den übrigen Fällen entscheidet auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6 des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1b Satz 1 hat die Schiedsstelle bis zum 15. November des jeweiligen Jahres zu treffen. Kommt eine Vereinbarung nach Absatz 1a Nummer 5 oder Nummer 8 nicht zustande, kann auch das Bundesministerium für Gesundheit die Schiedsstelle anrufen. Kommt eine Vereinbarung nach Absatz 1c nicht fristgerecht zustande, entscheidet die Schiedsstelle abweichend von Satz 1 ohne Antrag einer Vertragspartei innerhalb von sechs Wochen.
 
-
-## § 10 – Vereinbarung auf Landesebene
+# § 10 – Vereinbarung auf Landesebene
 
 (1) Zur Bestimmung der Höhe der Fallpauschalen nach § 9 Abs. 1 Satz 1 Nr. 1 vereinbaren die in § 18 Abs. 1 Satz 2 des Krankenhausfinanzierungsgesetzes genannten Beteiligten (Vertragsparteien auf Landesebene) mit Wirkung für die Vertragsparteien nach § 11 jährlich einen landesweit geltenden Basisfallwert (Landesbasisfallwert) für das folgende Kalenderjahr. Dabei gehen sie von den Vereinbarungswerten der Krankenhäuser im Land für das laufende Kalenderjahr nach Anlage 1 Abschnitt B1 aus, insbesondere von der Summe der effektiven Bewertungsrelationen und der Erlössumme für Fallpauschalen (B1 laufende Nummer 3), und schätzen auf dieser Grundlage die voraussichtliche Entwicklung im folgenden Kalenderjahr; soweit Werte für einzelne Krankenhäuser noch nicht vorliegen, sind diese zu schätzen. Sie vereinbaren, dass Fehlschätzungen des Basisfallwerts bei der Vereinbarung des Basisfallwerts für das Folgejahr berichtigt werden. Die Vertragsparteien haben in der Vereinbarung festzulegen, zu welchen Tatbeständen und unter welchen Voraussetzungen im Folgejahr eine Verhandlung über eine Berichtigung aufgenommen wird. Bei einer Berichtigung ist zusätzlich zu der Berichtigung des vereinbarten Erlösvolumens (Basisberichtigung) ein entsprechender Ausgleich durchzuführen. Die Berichtigung nach den Sätzen 3 bis 5 ist nur durchzuführen, soweit im Rahmen der Vorgaben zur Beitragssatzstabilität bei der zu ändernden Vereinbarung des Vorjahres auch ohne eine Fehlschätzung eine Berücksichtigung des Betrags der Basisberichtigung zulässig gewesen wäre. Eine Veränderung der Summe der effektiven Bewertungsrelationen, die aus § 17b Absatz 4 des Krankenhausfinanzierungsgesetzes in Verbindung mit § 6a entsteht, ist im Erlösvolumen entsprechend verändernd zu berücksichtigen, so dass hieraus keine Veränderung des zu vereinbarenden Landesbasisfallwerts entsteht.
 
@@ -608,8 +591,7 @@ errechnet werden. Für das Jahr 2017 ist vor der Ermittlung des Angleichungsbetr
 
 (13) (weggefallen)
 
-
-## § 11 – Vereinbarung für das einzelne Krankenhaus
+# § 11 – Vereinbarung für das einzelne Krankenhaus
 
 (1) Nach Maßgabe der §§ 3 bis 6a und unter Beachtung des Versorgungsauftrags des Krankenhauses nach § 8 Absatz 1 Satz 3 und 4, der Beachtung der Prüfergebnisse nach § 275d des Fünften Buches Sozialgesetzbuch und der Einhaltung der Vorgaben des Mindestmengenkatalogs nach § 136b Absatz 1 Satz 1 Nummer 2 des Fünften Buches Sozialgesetzbuch regeln die Vertragsparteien nach § 18 Abs. 2 des Krankenhausfinanzierungsgesetzes (Vertragsparteien) in der Vereinbarung das Erlösbudget nach § 4, die Summe der Bewertungsrelationen, die sonstigen Entgelte nach § 6, die Erlössumme nach § 6 Absatz 3, das Pflegebudget nach § 6a, die Zu- und Abschläge und die Mehr- und Mindererlösausgleiche. Die Vereinbarung ist für einen zukünftigen Zeitraum (Vereinbarungszeitraum) zu schließen. Die Vereinbarung muss Bestimmungen enthalten, die eine zeitnahe Zahlung der Entgelte an das Krankenhaus gewährleisten; hierzu sollen insbesondere Regelungen über angemessene monatliche Teilzahlungen und Verzugszinsen bei verspäteter Zahlung getroffen werden. Die Vereinbarung kommt durch Einigung zwischen den Vertragsparteien zustande, die an der Verhandlung teilgenommen haben; sie ist schriftlich abzuschließen. In der Vereinbarung ist zu regeln, dass Mittel, die nicht zweckentsprechend für die Finanzierung der Tariferhöhungen von Pflegepersonal verwendet werden, zurückzuzahlen sind.
 
@@ -621,20 +603,17 @@ errechnet werden. Für das Jahr 2017 ist vor der Ermittlung des Angleichungsbetr
 
 (5) Die Vertragsparteien sind verpflichtet, wesentliche Fragen zum Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses sowie zur Höhe der Zu- und Abschläge nach § 5 so frühzeitig gemeinsam vorzuklären, dass die Verhandlung zügig durchgeführt werden kann.
 
-
-## § 12 – Vorläufige Vereinbarung
+# § 12 – Vorläufige Vereinbarung
 
 Können sich die Vertragsparteien insbesondere über die Höhe des Erlösbudgets, des Pflegebudgets oder über die Höhe sonstiger Entgelte nicht einigen und soll wegen der Gegenstände, über die keine Einigung erzielt werden konnte, die Schiedsstelle nach § 13 angerufen werden, schließen die Vertragsparteien eine Vereinbarung, soweit die Höhe unstrittig ist. Die auf dieser Vereinbarung beruhenden Entgelte sind zu erheben, bis die endgültig maßgebenden Entgelte in Kraft treten. Mehr- oder Mindererlöse des Krankenhauses infolge der erhobenen vorläufigen Entgelte werden durch Zu- oder Abschläge auf die Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums ausgeglichen.
 
-
-## § 13 – Schiedsstelle
+# § 13 – Schiedsstelle
 
 (1) Kommt eine Vereinbarung nach § 10 oder § 11 ganz oder teilweise nicht zustande, entscheidet die Schiedsstelle nach § 18a Abs. 1 des Krankenhausfinanzierungsgesetzes auf Antrag einer der in § 10 oder § 11 genannten Vertragsparteien. Sie ist dabei an die für die Vertragsparteien geltenden Rechtsvorschriften gebunden.
 
 (2) Die Schiedsstelle entscheidet innerhalb von sechs Wochen über die Gegenstände, über die keine Einigung erreicht werden konnte.
 
-
-## § 14 – Genehmigung
+# § 14 – Genehmigung
 
 (1) Die Genehmigung des vereinbarten oder von der Schiedsstelle nach § 13 festgesetzten landesweit geltenden Basisfallwerts nach § 10, des Erlösbudgets nach § 4, der Entgelte nach § 6, des Pflegebudgets nach § 6a und der krankenhausindividuell ermittelten Zu- und Abschläge ist von einer der Vertragsparteien bei der zuständigen Landesbehörde zu beantragen. Die zuständige Landesbehörde erteilt die Genehmigung, wenn die Vereinbarung oder Festsetzung den Vorschriften dieses Gesetzes sowie sonstigem Recht entspricht. Sie entscheidet über die Genehmigung des landesweit geltenden Basisfallwerts und des Fixkostendegressionsabschlags nach § 10 Absatz 13 innerhalb von vier Wochen nach Eingang des Antrags.
 
@@ -644,8 +623,7 @@ Können sich die Vertragsparteien insbesondere über die Höhe des Erlösbudgets
 
 (4) Im Hinblick auf die Genehmigung des landesweit geltenden Basisfallwerts ist der Verwaltungsrechtsweg nur für die Vertragsparteien auf Landesebene gegeben. Ein Vorverfahren findet nicht statt; die Klage hat keine aufschiebende Wirkung.
 
-
-## § 15 – Laufzeit
+# § 15 – Laufzeit
 
 (1) Die für das Kalenderjahr vereinbarten Fallpauschalen und Zusatzentgelte nach § 7 Abs. 1 Satz 1 Nr. 1 und 2 werden bei Patientinnen und Patienten abgerechnet, die ab dem 1. Januar in das Krankenhaus aufgenommen werden, soweit die Vertragsparteien auf Bundesebene nichts Abweichendes vereinbart haben. Die Fallpauschalen werden mit dem Landesbasisfallwert für das Kalenderjahr bewertet. Wird der Landesbasisfallwert für das Kalenderjahr erst nach diesem Zeitpunkt genehmigt, ist er ab dem ersten Tag des Monats anzuwenden, der auf die Genehmigung folgt. Bis dahin sind die Fallpauschalen mit dem bisher geltenden Landesbasisfallwert zu bewerten und in der sich ergebenden Entgelthöhe abzurechnen. Werden die Entgeltkataloge für die Fallpauschalen oder Zusatzentgelte nach § 7 Abs. 1 Satz 1 Nr. 1 und 2 so spät vereinbart oder durch Rechtsverordnung nach § 17b Abs. 7 des Krankenhausfinanzierungsgesetzes vorgegeben, dass eine erstmalige Abrechnung erst nach dem 1. Januar möglich ist, sind bis zum Inkrafttreten der neuen Entgeltkataloge die bisher geltenden Fallpauschalen oder Zusatzentgelte weiter abzurechnen.
 
@@ -673,11 +651,9 @@ Für krankenhausindividuelle voll- und teilstationäre Entgelte gemäß § 6, f�
 
 (3) Mehr- oder Mindererlöse infolge der Weitererhebung des bisherigen Landesbasisfallwerts und bisheriger Entgelte nach den Absätzen 1 und 2 werden grundsätzlich im restlichen Vereinbarungszeitraum ausgeglichen. Der Ausgleichsbetrag wird im Rahmen des Zu- oder Abschlags nach § 5 Abs. 4 abgerechnet.
 
+# § 16 – (weggefallen)
 
-## § 16 – (weggefallen)
-
-
-## § 17 – Wahlleistungen
+# § 17 – Wahlleistungen
 
 (1) Neben den Entgelten für die voll- und teilstationäre Behandlung dürfen andere als die allgemeinen Krankenhausleistungen als Wahlleistungen gesondert berechnet werden, wenn die allgemeinen Krankenhausleistungen durch die Wahlleistungen nicht beeinträchtigt werden und die gesonderte Berechnung mit dem Krankenhaus vereinbart ist. Diagnostische und therapeutische Leistungen dürfen als Wahlleistungen nur gesondert berechnet werden, wenn die Voraussetzungen des Satzes 1 vorliegen und die Leistungen von einem Arzt oder bei psychotherapeutischen Leistungen von einer Psychotherapeutin oder einem Psychotherapeuten, von einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten oder von einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten erbracht werden. Die Entgelte für Wahlleistungen dürfen in keinem unangemessenen Verhältnis zu den Leistungen stehen. Die Deutsche Krankenhausgesellschaft und der Verband der privaten Krankenversicherung können Empfehlungen zur Bemessung der Entgelte für nichtärztliche Wahlleistungen abgeben. Verlangt ein Krankenhaus ein unangemessen hohes Entgelt für nichtärztliche Wahlleistungen, kann der Verband der privaten Krankenversicherung die Herabsetzung auf eine angemessene Höhe verlangen; gegen die Ablehnung einer Herabsetzung ist der Zivilrechtsweg gegeben.
 
@@ -689,8 +665,7 @@ Für krankenhausindividuelle voll- und teilstationäre Entgelte gemäß § 6, f�
 
 (5) Bei Krankenhäusern, für die die Bundespflegesatzverordnung gilt, müssen die Wahlleistungsentgelte mindestens die dafür nach § 7 Abs. 2 Satz 2 Nr. 4, 5 und 7 der Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden Fassung abzuziehenden Kosten decken.
 
-
-## § 18 – Belegärzte
+# § 18 – Belegärzte
 
 (1) Belegärzte im Sinne dieses Gesetzes sind nicht am Krankenhaus angestellte Vertragsärzte, die berechtigt sind, ihre Patienten (Belegpatienten) im Krankenhaus unter Inanspruchnahme der hierfür bereitgestellten Dienste, Einrichtungen und Mittel stationär oder teilstationär zu behandeln, ohne hierfür vom Krankenhaus eine Vergütung zu erhalten. Leistungen des Belegarztes sind
 
@@ -706,8 +681,7 @@ Für krankenhausindividuelle voll- und teilstationäre Entgelte gemäß § 6, f�
 
 (3) Krankenhäuser mit Belegbetten, die nach § 121 Abs. 5 des Fünften Buches Sozialgesetzbuch zur Vergütung der belegärztlichen Leistungen mit Belegärzten Honorarverträge schließen, rechnen für die von Belegärzten mit Honorarverträgen behandelten Belegpatientinnen und -patienten die mit Bewertungsrelationen bewerteten Entgelte für Hauptabteilungen in Höhe von 80 Prozent ab. Bei diesen Krankenhäusern ist bei der Vereinbarung sonstiger Entgelte nach § 6 oder nach § 6 der Bundespflegesatzverordnung die Vergütung des Belegarztes einzubeziehen.
 
-
-## § 19 – Kostenerstattung der Ärzte
+# § 19 – Kostenerstattung der Ärzte
 
 (1) Soweit Belegärzte zur Erbringung ihrer Leistungen nach § 18 Ärzte des Krankenhauses in Anspruch nehmen, sind sie verpflichtet, dem Krankenhaus die entstehenden Kosten zu erstatten; dies gilt nicht in den Fällen des § 18 Absatz 3. Die Kostenerstattung kann pauschaliert werden. Soweit vertragliche Regelungen der Vorschrift des Satzes 1 entgegenstehen, sind sie anzupassen.
 
@@ -719,13 +693,11 @@ Für krankenhausindividuelle voll- und teilstationäre Entgelte gemäß § 6, f�
 
 (5) Beamtenrechtliche oder vertragliche Regelungen über die Entrichtung eines Entgelts bei der Inanspruchnahme von Einrichtungen, Personal und Material des Krankenhauses, soweit sie ein über die Kostenerstattung hinausgehendes Nutzungsentgelt festlegen, und sonstige Abgaben der Ärzte werden durch die Vorschriften der Absätze 1 bis 4 nicht berührt.
 
-
-## § 20 – Zuständigkeit der Krankenkassen auf Landesebene
+# § 20 – Zuständigkeit der Krankenkassen auf Landesebene
 
 Die in diesem Gesetz den Landesverbänden der Krankenkassen zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs. 5 des Fünften Buches Sozialgesetzbuch benannten Bevollmächtigten, für die knappschaftliche Krankenversicherung die Deutsche Rentenversicherung Knappschaft-Bahn-See und für die Krankenversicherung der Landwirte die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau wahr.
 
-
-## § 21 – Übermittlung und Nutzung von Daten
+# § 21 – Übermittlung und Nutzung von Daten
 
 (1) Das Krankenhaus übermittelt auf einem maschinenlesbaren Datenträger jeweils zum 31. März für das jeweils vorangegangene Kalenderjahr die Daten nach Absatz 2 an die vom Institut für das Entgeltsystem im Krankenhaus geführte Datenstelle auf Bundesebene.
 
@@ -781,8 +753,7 @@ Nach Abschluss der Plausibilitätsprüfung darf die Herstellung eines Personenbe
 
 (6) Kommt eine Vereinbarung nach Absatz 5 ganz oder teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Abs. 6 des Krankenhausfinanzierungsgesetzes.
 
-
-## Anlage 1 – Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)
+# Anlage 1 – Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)
 
 (Fundstelle: BGBl. I 2002, 1433 - 1437;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

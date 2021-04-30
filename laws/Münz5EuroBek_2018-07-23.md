@@ -1,10 +1,7 @@
-# [Münz5EuroBek 2018-07-23] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Subtropische Zone“)
-
-Ausfertigungsdatum: 02.07.2018
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Subtropische Zone“)
+% Ausfertigungsdatum: 02.07.2018
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 5-Euro-Sammlermünze „Subtropische Zone“ mit einem orangefarbenen Kunststoffring prägen zu lassen. Die Münze ist die zweite Ausgabe einer fünfteiligen Serie „Klimazonen der Erde“, in der von 2017 bis 2021 jeweils eine Ausgabe pro Jahr erscheint.
 
@@ -22,12 +19,10 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf der Bildseite stammt von dem Künstler Patrick Niesel aus Schwaig. Die Wertseite, die für alle Münzen der Serie verwendet wird, wurde von der Künstlerin Stefanie Radtke aus Leipzig gestaltet.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2018, 1211)

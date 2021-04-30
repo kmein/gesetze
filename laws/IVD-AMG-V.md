@@ -1,15 +1,11 @@
-# [IVD-AMG-V] Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatliche Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz  (In-vitro-Diagnostika-Verordnung nach dem Arzneimittelgesetz - IVD-AMG-V)
-
-Ausfertigungsdatum: 24.05.2000
-
+% Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatliche Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz  (In-vitro-Diagnostika-Verordnung nach dem Arzneimittelgesetz - IVD-AMG-V)
+% Ausfertigungsdatum: 24.05.2000
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 35 Abs. 1 Nr. 2 und 3 und Abs. 2 sowie des § 77 Abs. 4 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) in Verbindung mit Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1
+# § 1
 
 Die §§ 21 und 22 sowie die §§ 24 bis 34 des Arzneimittelgesetzes über die Zulassung und staatliche Chargenprüfung werden ausgedehnt auf
 
@@ -47,13 +43,11 @@ d) Toxoplasmose;
 
 4. Reagenzien und Produkte mit Reagenzien, einschließlich der entsprechenden Kalibrier- und Kontrollmaterialien, zum Nachweis, zur Bestätigung und zur quantitativen Bestimmung von Markern von HIV-Infektionen (HIV 1 und 2) sowie von Hepatitis B und C in Proben menschlichen Ursprungs.
 
-
-## § 2
+# § 2
 
 Für die Zulassung und staatliche Chargenprüfung von Tests zur In-vitro-Diagnostik nach § 1 ist das Paul-Ehrlich-Institut zuständig.
 
-
-## § 3
+# § 3
 
 Für Tests zur In-vitro-Diagnostik nach § 1 Nr. 1 Buchstabe b und Nr. 4, soweit solche nicht den bisherigen Vorschriften über die Zulassung und staatliche Chargenprüfung unterlagen, und die sich am 1. Juni 2000 in Verkehr befinden, ist bis zum 1. Dezember 2000 ein Antrag auf Zulassung nach folgenden Maßgaben zu stellen:
 
@@ -63,12 +57,10 @@ Für Tests zur In-vitro-Diagnostik nach § 1 Nr. 1 Buchstabe b und Nr. 4, soweit
 
 Die Tests dürfen so lange weiter ohne Zulassung und Freigabe der Charge in den Verkehr gebracht werden, bis die Zulassung abgelehnt oder das Inverkehrbringen aus anderen Gründen, insbesondere wegen nicht fristgerechter Antragstellung, untersagt wird.
 
-
-## § 4
+# § 4
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

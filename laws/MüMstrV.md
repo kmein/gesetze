@@ -1,20 +1,15 @@
-# [MüMstrV] Verordnung über die Meisterprüfung in den Teilen I und II im Müller-Handwerk  (Müllermeisterverordnung - MüMstrV)
-
-Ausfertigungsdatum: 11.10.2012
-
+% Verordnung über die Meisterprüfung in den Teilen I und II im Müller-Handwerk  (Müllermeisterverordnung - MüMstrV)
+% Ausfertigungsdatum: 11.10.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I S. 1341) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gegenstand
+# § 1 – Gegenstand
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen. Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die Prüfung in den Teilen I und II der Meisterprüfung im Müller-Handwerk.
 
-
-## § 2 – Meisterprüfungsberufsbild
+# § 2 – Meisterprüfungsberufsbild
 
 Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten und Kenntnisse zum Nachweis der beruflichen Handlungskompetenz zu berücksichtigen:
 
@@ -52,8 +47,7 @@ Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten un
 
 17. eine Nachkalkulation durchführen.
 
-
-## § 3 – Ziel und Gliederung des Teils I
+# § 3 – Ziel und Gliederung des Teils I
 
 (1) Durch die Prüfung in Teil I hat der Prüfling seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er komplexe berufliche Aufgabenstellungen lösen und dabei Tätigkeiten des Müller-Handwerks meisterhaft verrichten kann.
 
@@ -63,8 +57,7 @@ Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten un
 
 2. eine Situationsaufgabe.
 
-
-## § 4 – Meisterprüfungsprojekt
+# § 4 – Meisterprüfungsprojekt
 
 (1) Der Prüfling hat ein Meisterprüfungsprojekt durchzuführen, das einem Kundenauftrag entspricht. Die auftragsbezogenen Anforderungen werden vom Meisterprüfungsausschuss festgelegt. Hierzu sollen Vorschläge des Prüflings berücksichtigt werden. Auf dieser Grundlage erarbeitet der Prüfling ein Umsetzungskonzept, einschließlich einer Zeit- und Materialbedarfsplanung. Dieses hat er vor der Durchführung des Meisterprüfungsprojekts dem Meisterprüfungsausschuss zur Genehmigung vorzulegen. Der Meisterprüfungsausschuss prüft, ob das Umsetzungskonzept den auftragsbezogenen Anforderungen entspricht.
 
@@ -80,8 +73,7 @@ Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten un
 
 (4) Die Planungsunterlagen, bestehend aus Entwurf, Berechnung und Kalkulation, werden mit 30 Prozent, das Prozessdiagramm und die durchgeführten Arbeiten mit 60 Prozent und die Dokumentationsunterlagen, bestehend aus einem Prüfprotokoll, mit 10 Prozent gewichtet.
 
-
-## § 5 – Fachgespräch
+# § 5 – Fachgespräch
 
 Über das abgeschlossene Meisterprüfungsprojekt hat der Prüfling in einem Fachgespräch nachzuweisen, dass er befähigt ist,
 
@@ -91,8 +83,7 @@ Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten un
 
 3. mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu berücksichtigen.
 
-
-## § 6 – Situationsaufgabe
+# § 6 – Situationsaufgabe
 
 (1) Die Situationsaufgabe ist auftragsorientiert und vervollständigt den Nachweis der beruflichen Handlungskompetenz für die Meisterprüfung im Müller-Handwerk.
 
@@ -104,8 +95,7 @@ Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten un
 
 (3) Die Gesamtbewertung der Situationsaufgabe wird aus dem arithmetischen Mittel der Einzelbewertungen nach Absatz 2 gebildet.
 
-
-## § 7 – Prüfungsdauer und Bestehen des Teils I
+# § 7 – Prüfungsdauer und Bestehen des Teils I
 
 (1) Das Meisterprüfungsprojekt dauert zwei Arbeitstage. Das Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe höchstens sechs Stunden dauern.
 
@@ -113,8 +103,7 @@ Im Müller-Handwerk sind zum Zwecke der Meisterprüfung folgende Fertigkeiten un
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I der Meisterprüfung ist eine insgesamt ausreichende Prüfungsleistung, wobei die Prüfung weder im Meisterprüfungsprojekt noch im Fachgespräch noch in der Situationsaufgabe mit weniger als 30 Punkten bewertet worden sein darf.
 
-
-## § 8 – Ziel, Gliederung und Inhalt des Teils II
+# § 8 – Ziel, Gliederung und Inhalt des Teils II
 
 (1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2 Satz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er besondere fachtheoretische Kenntnisse im Müller-Handwerk zur Lösung komplexer beruflicher Aufgabenstellungen anwendet.
 
@@ -177,8 +166,7 @@ h) die gewerkspezifische Betriebs- und Lagerausstattung sowie logistische Prozes
 
 i) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen, Konsequenzen, insbesondere für die betriebsinterne Organisation sowie das betriebliche Personalwesen, aufzeigen und bewerten.
 
-
-## § 9 – Prüfungsdauer und Bestehen des Teils II
+# § 9 – Prüfungsdauer und Bestehen des Teils II
 
 (1) Die Prüfung in Teil II ist schriftlich durchzuführen und dauert in jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden täglich darf nicht überschritten werden.
 
@@ -192,21 +180,18 @@ i) den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen, Konse
 
 2. nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit weniger als 50 Punkten bewertet worden sind.
 
-
-## § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
+# § 10 – Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung
 
 (1) Die Vorschriften der Meisterprüfungsverfahrensverordnung vom 17. Dezember 2001 (BGBl. I S. 4154) in der jeweils geltenden Fassung bleiben unberührt.
 
 (2) Die Prüfung in den Teilen III und IV der Meisterprüfung bestimmt sich nach der Allgemeinen Meisterprüfungsverordnung vom 26. Oktober 2011 (BGBl. I S. 2149) in der jeweils geltenden Fassung.
 
-
-## § 11 – Übergangsvorschrift
+# § 11 – Übergangsvorschrift
 
 (1) Die bis zum 30. April 2013 begonnenen Prüfungsverfahren werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die Anmeldung zur Prüfung bis zum Ablauf des 1. November 2013, sind auf Verlangen des Prüflings die bis zum 30. April 2013 geltenden Vorschriften weiter anzuwenden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum 30. April 2013 geltenden Vorschriften nicht bestanden haben und sich bis zum 1. Mai 2015 zu einer Wiederholungsprüfung anmelden, können auf Verlangen die Wiederholungsprüfung nach den bis zum 30. April 2013 geltenden Vorschriften ablegen.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2013 in Kraft. Gleichzeitig tritt die Müllermeisterverordnung vom 3. Februar 1982 (BGBl. I S. 113) außer Kraft.

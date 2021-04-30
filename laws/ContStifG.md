@@ -1,15 +1,11 @@
-# [ContStifG] Gesetz über die Conterganstiftung für behinderte Menschen  (Conterganstiftungsgesetz - ContStifG)
-
-Ausfertigungsdatum: 13.10.2005
-
+% Gesetz über die Conterganstiftung für behinderte Menschen  (Conterganstiftungsgesetz - ContStifG)
+% Ausfertigungsdatum: 13.10.2005
  
-
-## § 1 – Name der Stiftung
+# § 1 – Name der Stiftung
 
 Die durch das Gesetz vom 17. Dezember 1971 (BGBl. I S. 2018, 1972 I S. 2045) (im Folgenden: Errichtungsgesetz), zuletzt geändert durch Artikel 19 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022), errichtete Stiftung "Hilfswerk für behinderte Kinder" erhält den Namen "Conterganstiftung für behinderte Menschen".
 
-
-## § 2 – Stiftungszweck
+# § 2 – Stiftungszweck
 
 Zweck der Stiftung ist es, behinderten Menschen, deren Fehlbildungen mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen (früher Chemie Grünenthal GmbH in Stolberg), durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können,
 
@@ -17,13 +13,11 @@ Zweck der Stiftung ist es, behinderten Menschen, deren Fehlbildungen mit der Ein
 
 2. ihnen durch die Förderung oder Durchführung von Forschungs- und Erprobungsvorhaben Hilfe zu gewähren, um ihre Teilhabe am Leben in der Gesellschaft zu unterstützen und die durch Spätfolgen hervorgerufenen Beeinträchtigungen zu mildern.
 
-
-## § 3 – Steuerbegünstigung
+# § 3 – Steuerbegünstigung
 
 Die Stiftung verfolgt ausschließlich und unmittelbar steuerbegünstigte Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
 
-
-## § 4 – Stiftungsvermögen
+# § 4 – Stiftungsvermögen
 
 (1) Das Stiftungsvermögen besteht aus
 
@@ -41,8 +35,7 @@ und dem daraus erwirtschafteten Vermögen.
 
 (2) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite anzunehmen. Die Stiftung wirbt um weitere Zuwendungen bei Dritten.
 
-
-## § 5 – Organe der Stiftung, Haftung
+# § 5 – Organe der Stiftung, Haftung
 
 (1) Organe der Stiftung sind
 
@@ -52,8 +45,7 @@ und dem daraus erwirtschafteten Vermögen.
 
 (2) Ehrenamtliche Organmitglieder haften gegenüber der Stiftung für einen Schaden, den sie bei der Wahrnehmung ihrer Pflichten verursacht haben, nur, wenn sie den Schaden vorsätzlich oder grob fahrlässig verursacht haben. Wenn ehrenamtliche Organmitglieder von Dritten auf Ersatz eines Schadens, den sie bei Wahrnehmung ihrer Pflichten verursacht haben, in Anspruch genommen werden, stellt die Stiftung sie von der Haftung frei, es sei denn, sie haben den Schaden grob fahrlässig oder vorsätzlich verursacht. Die Sätze 1 und 2 gelten entsprechend für ehemalige ehrenamtliche Organmitglieder.
 
-
-## § 6 – Stiftungsrat
+# § 6 – Stiftungsrat
 
 (1) Der Stiftungsrat besteht aus mindestens fünf und höchstens sieben Mitgliedern. Stellvertretung ist zulässig. Drei Mitglieder werden vom Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Arbeit und Soziales benannt. Zwei weitere Mitglieder werden vom Bundesministerium für Familie, Senioren, Frauen und Jugend auf Vorschlag der in § 2 bezeichneten Personen berufen. Bis zu zwei weitere Mitglieder kann das Bundesministerium für Familie, Senioren, Frauen und Jugend aus der Wissenschaft berufen. Die Sätze 3 bis 5 gelten auch für die Stellvertreterinnen und Stellvertreter.
 
@@ -71,8 +63,7 @@ und dem daraus erwirtschafteten Vermögen.
 
 (8) Der Stiftungsrat ist für Wahlen nach Absatz 2 und Beschlüsse nach Absatz 5 beschlussfähig, wenn die Hälfte der Mitglieder anwesend ist. Die weiteren Regelungen über erforderliche Mehrheiten und Beschlussfähigkeit trifft die Satzung.
 
-
-## § 7 – Stiftungsvorstand
+# § 7 – Stiftungsvorstand
 
 (1) Der Stiftungsvorstand besteht aus der oder dem Vorsitzenden und höchstens zwei weiteren Mitgliedern. Ein Mitglied des Stiftungsvorstandes muss selbst leistungsberechtigt im Sinne dieses Gesetzes sein.
 
@@ -88,18 +79,15 @@ und dem daraus erwirtschafteten Vermögen.
 
 (7) Das Nähere regelt die Satzung.
 
-
-## § 8 – Satzung
+# § 8 – Satzung
 
 Der Stiftungsrat kann die Satzung der Stiftung mit Genehmigung des Bundesministeriums für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Finanzen ändern.
 
-
-## § 9 – Verwendung der Mittel
+# § 9 – Verwendung der Mittel
 
 Die Mittel der Stiftung dürfen nur für die Stiftungszwecke verwendet werden.
 
-
-## § 10 – Aufsicht, Haushalt, Rechnungsprüfung
+# § 10 – Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Aufsicht des Bundesministeriums für Familie, Senioren, Frauen und Jugend.
 
@@ -107,8 +95,7 @@ Die Mittel der Stiftung dürfen nur für die Stiftungszwecke verwendet werden.
 
 (3) Rechnungsprüfungsbehörde ist der Bundesrechnungshof.
 
-
-## § 11 – Verwendung des Stiftungsvermögens
+# § 11 – Verwendung des Stiftungsvermögens
 
 Die Leistungen nach diesem Abschnitt sind aus dem Stiftungsvermögen zu erbringen. Es sind zu verwenden:
 
@@ -122,15 +109,13 @@ b) die Mittel nach § 4 Abs. 1 Nummer 4 in Höhe von 50 Millionen Euro und die d
 
 3. für die übrigen Leistungen nach diesem Abschnitt die Mittel nach § 4 Abs. 1 Nr. 1 mit Ausnahme der Mittel für die notwendigen Verwaltungskosten.
 
-
-## § 12 – Leistungsberechtigte Personen
+# § 12 – Leistungsberechtigte Personen
 
 (1) Leistungen wegen Fehlbildungen, die mit der Einnahme thalidomidhaltiger Präparate der Grünenthal GmbH, Aachen, durch die Mutter während der Schwangerschaft in Verbindung gebracht werden können, werden an die behinderten Menschen gewährt, die bei Inkrafttreten des Errichtungsgesetzes lebten, und nach Maßgabe des § 13 Abs. 5 Satz 2 an deren Erbinnen und Erben.
 
 (2) Wurden Leistungen nach § 13 des Errichtungsgesetzes nicht innerhalb der dort vorgesehenen Frist geltend gemacht, können die Conterganrente und eine Kapitalentschädigung für die Zeit ab 1. Juli 2009 beantragt werden.
 
-
-## § 13 – Art und Umfang der Leistungen an behinderte Menschen
+# § 13 – Art und Umfang der Leistungen an behinderte Menschen
 
 (1) Den in § 12 genannten leistungsberechtigten Personen stehen als Leistungen zu:
 
@@ -166,20 +151,17 @@ In leichten Fällen sind die Leistungen auf die Kapitalentschädigung zu beschr�
 
 (8) Für die Rückforderung zu Unrecht erbrachter Leistungen gelten die Vorschriften des Verwaltungsverfahrensgesetzes des Bundes entsprechend. § 118 Abs. 3 und 4 des Sechsten Buches Sozialgesetzbuch ist entsprechend anwendbar.
 
-
-## § 14 – Verzinsung
+# § 14 – Verzinsung
 
 Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2 Prozent über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs jährlich zu verzinsen.
 
-
-## § 15 – Verzicht, Anrechnung von Zahlungen Dritter
+# § 15 – Verzicht, Anrechnung von Zahlungen Dritter
 
 (1) Haben die leistungsberechtigte Person oder ihre gesetzlichen Vertreter ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Geltungsbereiches dieses Gesetzes, so erhalten sie Leistungen nach den Vorschriften dieses Gesetzes nur dann, wenn sie vorher schriftlich erklären, dass sie auf die Geltendmachung etwaiger Ansprüche gegen die Grünenthal GmbH, deren Gesellschafterinnen und Gesellschafter, Geschäftsführerinnen und Geschäftsführer und Angestellte, die auf die Einnahme thalidomidhaltiger Präparate zurückgeführt werden, unwiderruflich verzichten.
 
 (2) Auf die Leistungen nach diesem Gesetz werden Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate bereits von anderen möglicherweise Verantwortlichen geleistet worden sind. Auf die Kapitalentschädigung und die Conterganrente werden Zahlungen angerechnet, die wegen der Einnahme thalidomidhaltiger Präparate von Anderen, insbesondere von ausländischen Staaten, geleistet werden.
 
-
-## § 16 – Gang des Verfahrens
+# § 16 – Gang des Verfahrens
 
 (1) Leistungen werden auf Antrag gewährt. Eine Aberkennung von Leistungsansprüchen nach diesem Gesetz darf nur erfolgen, wenn die Ansprüche auf vorsätzlich unrichtigen oder vorsätzlich unvollständigen Angaben der leistungsberechtigten Person beruhen. Die Anrechnung von Zahlungen gemäß § 15 Absatz 2 bleibt unberührt. Die jährlichen Sonderzahlungen und die jährlichen Leistungen zur Deckung spezifischer Bedarfe werden auch ohne Antrag an die Personen geleistet, die eine Conterganrente erhalten.
 
@@ -193,20 +175,17 @@ Die Kapitalentschädigung nach § 13 Abs. 2 ist ab Antragstellung mit 2 Prozent 
 
 (6) Der Stiftungsvorstand setzt auf der Grundlage der Entscheidung und der Bewertung der Kommission nach Absatz 2 die Leistungen nach Maßgabe der Richtlinien nach § 13 Abs. 6 durch schriftlichen Verwaltungsakt fest.
 
-
-## § 17 – Behandlung von Leistungen nach diesem Gesetz bei der Anwendung anderer Gesetze
+# § 17 – Behandlung von Leistungen nach diesem Gesetz bei der Anwendung anderer Gesetze
 
 Leistungen nach diesem Abschnitt sind einkommensteuerfrei. Ansprüche auf solche Leistungen gehören nicht zum sonstigen Vermögen im Sinne des Bewertungsgesetzes.
 
-
-## § 18 – Verhältnis zu anderen Ansprüchen
+# § 18 – Verhältnis zu anderen Ansprüchen
 
 (1) Bei der Ermittlung oder Anrechnung von Einkommen, sonstigen Einnahmen und Vermögen nach anderen Gesetzen, insbesondere dem Zweiten, Dritten, Fünften, Neunten und Zwölften Buch Sozialgesetzbuch und dem Bürgerlichen Gesetzbuch, bleiben Leistungen nach diesem Gesetz außer Betracht.
 
 (2) Verpflichtungen Anderer, insbesondere Unterhaltspflichtiger und der Träger der Sozialhilfe oder anderer Sozialleistungen, werden durch dieses Gesetz nicht berührt. Der Übergang der Unterhaltsansprüche der leistungsberechtigten Person gegenüber ihrem Ehegatten, ihrem Lebenspartner, ihren Kindern oder ihren Eltern nach § 94 des Zwölften Buches Sozialgesetzbuch bedeutet eine unbillige Härte nach § 94 Absatz 3 Satz 1 Nummer 2 des Zwölften Buches Sozialgesetzbuch. Bei der Hilfe nach dem Fünften bis Neunten Kapitel des Zwölften Buches Sozialgesetzbuch ist der leistungsberechtigten Person und ihrem nicht getrennt lebenden Ehegatten oder Lebenspartner die Aufbringung der Mittel aus dem Einkommen nach § 19 Absatz 3, § 87 Absatz 1 und § 88 des Zwölften Buches Sozialgesetzbuch nicht zuzumuten. Der Einsatz des Vermögens der leistungsberechtigten Person und ihres nicht getrennt lebenden Ehegatten oder Lebenspartners nach § 19 Absatz 3, § 90 Absatz 3 Satz 1 des Zwölften Buches Sozialgesetzbuch stellt eine Härte dar. Für Eingliederungshilfebezieher nach Teil 2 des Neunten Buches Sozialgesetzbuch wird ein Beitrag nach § 92 des Neunten Buches Sozialgesetzbuch nicht erhoben. Das gilt auch für die nach diesem Gesetz leistungsberechtigten Personen, die nach Inkrafttreten des Bundesteilhabegesetzes Leistungen nach § 103 des Neunten Buches Sozialgesetzbuch erhalten. Auf Rechtsvorschriften beruhende Leistungen anderer Stellen, auf die kein Anspruch besteht, dürfen nicht deshalb versagt werden, weil nach diesem Gesetz Leistungen vorgesehen sind.
 
-
-## § 19 – Finanzielle Ausstattung
+# § 19 – Finanzielle Ausstattung
 
 Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
@@ -214,8 +193,7 @@ Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
 2. Zuwendungen nach § 4 Abs. 2, soweit nicht die oder der Zuwendende etwas anderes bestimmt hat.
 
-
-## § 20 – Förderungsmaßnahmen
+# § 20 – Förderungsmaßnahmen
 
 (1) Zur Erreichung des in § 2 Nr. 2 bezeichneten Zwecks kann die Stiftung Einzelvorhaben der wissenschaftlichen Forschung, Entwicklung und Erprobung von spezifischen Behandlungsmethoden und sonstigen Maßnahmen fördern oder durchführen.
 
@@ -223,23 +201,19 @@ Für Maßnahmen nach diesem Abschnitt sind zu verwenden
 
 (3) Ein Anspruch auf Förderung aus Mitteln der Stiftung besteht nicht.
 
-
-## § 21 – Vergabeplan
+# § 21 – Vergabeplan
 
 Der Stiftungsrat stellt mit Zustimmung des Bundesministeriums für Familie, Senioren, Frauen und Jugend jeweils für zwei Geschäftsjahre einen Vergabeplan auf, der den Finanzrahmen für die Förderung festlegt. Über die Ausführung des Plans im Einzelfall beschließt der Vorstand.
 
-
-## § 22 – Verfahren
+# § 22 – Verfahren
 
 Soweit nach diesem Gesetz keine speziellen Verfahrensregelungen getroffen sind, findet das Verwaltungsverfahrensgesetz des Bundes Anwendung.
 
-
-## § 23 – Rechtsweg
+# § 23 – Rechtsweg
 
 Für Streitigkeiten über Ansprüche nach diesem Gesetz ist der Verwaltungsrechtsweg gegeben.
 
-
-## § 24 – Übergangsvorschrift
+# § 24 – Übergangsvorschrift
 
 Soweit die Conterganstiftung Leistungen zur Deckung spezifischer Bedarfe nach der bis zum 31. Dezember 2016 geltenden Fassung des Gesetzes bewilligt hat, die
 
@@ -249,7 +223,6 @@ Soweit die Conterganstiftung Leistungen zur Deckung spezifischer Bedarfe nach de
 
 werden diese auf Leistungen nach § 13 Absatz 1 Satz 1 Nummer 3 angerechnet.
 
-
-## § 25 – Bericht
+# § 25 – Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag erstmalig nach zwei Jahren einen Bericht über die Auswirkungen dieses Gesetzes sowie über die gegebenenfalls notwendige Weiterentwicklung dieser Vorschriften, soweit möglich unter Nachweis der Verwendung der Mittel für spezifische Bedarfe durch die Betroffenen, vor. Der Bericht soll insbesondere auch eine Evaluation über die Struktur der Stiftung beinhalten. Danach erfolgt eine Berichtsvorlage im Abstand von vier Jahren. Der Bericht darf keine personenbezogenen Daten enthalten.

@@ -1,17 +1,13 @@
-# [KrWaffKontrGDV 1] Erste Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
-
-Ausfertigungsdatum: 01.06.1961
-
+% Erste Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
+% Ausfertigungsdatum: 01.06.1961
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Abs. 2 und 3 des Gesetzes über die Kontrolle von Kriegswaffen vom 20. April 1961 (Bundesgesetzbl. I S. 444) wird von der Bundesregierung  
 und auf Grund des § 14 Abs. 8 dieses Gesetzes wird vom Bundesminister für Wirtschaft  
 verordnet:
 
-
-## § 1
+# § 1
 
 (1) Die Befugnis zur Erteilung und zum Widerruf der Genehmigung in den Fällen der §§ 2, 3 Abs. 1 und 2 und des § 4a des Gesetzes wird
 
@@ -29,12 +25,10 @@ verordnet:
 
 § 1 Abs. 1 Nr. 1 Kursivdruck: Jetzt "Bundesministerium der Verteidigung"
 
-
-## § 2
+# § 2
 
 Die dem Bundesministerium für Wirtschaft und Energie nach § 14 Abs. 1 Nr. 1 des Gesetzes zustehenden Überwachungsbefugnisse werden auf das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

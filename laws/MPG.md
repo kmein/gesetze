@@ -1,10 +1,7 @@
-# [MPG] Gesetz über Medizinprodukte  (Medizinproduktegesetz - MPG)
-
-Ausfertigungsdatum: 02.08.1994
-
+% Gesetz über Medizinprodukte  (Medizinproduktegesetz - MPG)
+% Ausfertigungsdatum: 02.08.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |     |                                |
 |:----|:-------------------------------|
@@ -109,13 +106,11 @@ Ausfertigungsdatum: 02.08.1994
 |:-----|:----------------------|
 | § 44 | Übergangsbestimmungen |
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es, den Verkehr mit Medizinprodukten zu regeln und dadurch für die Sicherheit, Eignung und Leistung der Medizinprodukte sowie die Gesundheit und den erforderlichen Schutz der Patienten, Anwender und Dritter zu sorgen.
 
-
-## § 2 – Anwendungsbereich des Gesetzes
+# § 2 – Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz gilt für Medizinprodukte und deren Zubehör. Zubehör wird als eigenständiges Medizinprodukt behandelt.
 
@@ -139,8 +134,7 @@ Zweck dieses Gesetzes ist es, den Verkehr mit Medizinprodukten zu regeln und dad
 
 5. Transplantate oder Gewebe oder Zellen tierischen Ursprungs, es sei denn, ein Produkt wird unter Verwendung von abgetötetem tierischen Gewebe oder von abgetöteten Erzeugnissen hergestellt, die aus tierischen Geweben gewonnen wurden, oder es handelt sich um Medizinprodukte nach § 3 Nr. 4.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 1. Medizinprodukte sind alle einzeln oder miteinander verbunden verwendeten Instrumente, Apparate, Vorrichtungen, Software, Stoffe und Zubereitungen aus Stoffen oder andere Gegenstände einschließlich der vom Hersteller speziell zur Anwendung für diagnostische oder therapeutische Zwecke bestimmten und für ein einwandfreies Funktionieren des Medizinproduktes eingesetzten Software, die vom Hersteller zur Anwendung für Menschen mittels ihrer Funktionen zum Zwecke
 
@@ -232,8 +226,7 @@ c) veröffentlichten oder unveröffentlichten Berichten über sonstige klinische
 
 26. Einführer im Sinne dieses Gesetzes ist jede in der Europäischen Union ansässige natürliche oder juristische Person, die ein Medizinprodukt aus einem Drittstaat in der Europäischen Union in Verkehr bringt.
 
-
-## § 4 – Verbote zum Schutz von Patienten, Anwendern und Dritten
+# § 4 – Verbote zum Schutz von Patienten, Anwendern und Dritten
 
 (1) Es ist verboten, Medizinprodukte in den Verkehr zu bringen, zu errichten, in Betrieb zu nehmen, zu betreiben oder anzuwenden, wenn
 
@@ -251,13 +244,11 @@ c) veröffentlichten oder unveröffentlichten Berichten über sonstige klinische
 
 (+++ § 4 (F 25.5.2020): zur Anwendung bis 27.5.2025 vgl. § 99 Abs. 1 Nr. 1 MPDG +++)
 
-
-## § 5 – Verantwortlicher für das erstmalige Inverkehrbringen
+# § 5 – Verantwortlicher für das erstmalige Inverkehrbringen
 
 Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist der Hersteller oder sein Bevollmächtigter. Werden Medizinprodukte nicht unter der Verantwortung des Bevollmächtigten in den Europäischen Wirtschaftsraum eingeführt, ist der Einführer Verantwortlicher. Der Name oder die Firma und die Anschrift des Verantwortlichen müssen in der Kennzeichnung oder Gebrauchsanweisung des Medizinproduktes enthalten sein.
 
-
-## § 6 – Voraussetzungen für das Inverkehrbringen und die Inbetriebnahme
+# § 6 – Voraussetzungen für das Inverkehrbringen und die Inbetriebnahme
 
 (1) Medizinprodukte, mit Ausnahme von Sonderanfertigungen, Medizinprodukten aus Eigenherstellung, Medizinprodukten mit Sonderzulassung nach § 11 Absatz 1 oder nach § 7 Absatz 1 oder § 90 Absatz 3 des Medizinprodukterecht-Durchführungsgesetzes sowie Medizinprodukten, die zur klinischen Prüfung oder In-vitro-Diagnostika, die für Leistungsbewertungszwecke bestimmt sind, dürfen in Deutschland nur in den Verkehr gebracht oder in Betrieb genommen werden, wenn sie mit einer CE-Kennzeichnung nach Maßgabe des Absatzes 2 Satz 1 und des Absatzes 3 Satz 1 versehen sind. Über die Beschaffenheitsanforderungen hinausgehende Bestimmungen, die das Betreiben oder das Anwenden von Medizinprodukten betreffen, bleiben unberührt.
 
@@ -267,8 +258,7 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 
 (4) Die Durchführung von Konformitätsbewertungsverfahren lässt die zivil- und strafrechtliche Verantwortlichkeit des Verantwortlichen nach § 5 unberührt.
 
-
-## § 7 – Grundlegende Anforderungen
+# § 7 – Grundlegende Anforderungen
 
 (1) Die Grundlegenden Anforderungen sind für aktive implantierbare Medizinprodukte die Anforderungen des Anhangs 1 der Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17), die zuletzt durch Artikel 1 der Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, für In-vitro-Diagnostika die Anforderungen des Anhangs I der Richtlinie 98/79/EG und für die sonstigen Medizinprodukte die Anforderungen des Anhangs I der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. L 169 vom 12.7.1993, S. 1), die zuletzt durch Artikel 2 der Richtlinie 2007/47/EG (ABl. L 247 vom 21.9.2007, S. 21) geändert worden ist, in den jeweils geltenden Fassungen.
 
@@ -276,15 +266,13 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 
 (3) Bei Produkten, die vom Hersteller nicht nur als Medizinprodukt, sondern auch zur Verwendung entsprechend den Vorschriften über persönliche Schutzausrüstungen der Richtlinie 89/686/EWG bestimmt sind, müssen auch die einschlägigen grundlegenden Gesundheits- und Sicherheitsanforderungen dieser Richtlinie erfüllt werden.
 
-
-## § 8 – Harmonisierte Normen, Gemeinsame Technische Spezifikationen
+# § 8 – Harmonisierte Normen, Gemeinsame Technische Spezifikationen
 
 (1) Stimmen Medizinprodukte mit harmonisierten Normen oder ihnen gleichgestellten Monografien des Europäischen Arzneibuches oder Gemeinsamen Technischen Spezifikationen, die das jeweilige Medizinprodukt betreffen, überein, wird insoweit vermutet, dass sie die Bestimmungen dieses Gesetzes einhalten.
 
 (2) Die Gemeinsamen Technischen Spezifikationen sind in der Regel einzuhalten. Kommt der Hersteller in hinreichend begründeten Fällen diesen Spezifikationen nicht nach, muss er Lösungen wählen, die dem Niveau der Spezifikationen zumindest gleichwertig sind.
 
-
-## § 9 – CE-Kennzeichnung
+# § 9 – CE-Kennzeichnung
 
 (1) Die CE-Kennzeichnung ist für aktive implantierbare Medizinprodukte gemäß Anhang 9 der Richtlinie 90/385/EWG, für In-vitro-Diagnostika gemäß Anhang X der Richtlinie 98/79/EG und für die sonstigen Medizinprodukte gemäß Anhang XII der Richtlinie 93/42/EWG zu verwenden. Zeichen oder Aufschriften, die geeignet sind, Dritte bezüglich der Bedeutung oder der graphischen Gestaltung der CE-Kennzeichnung in die Irre zu leiten, dürfen nicht angebracht werden. Alle sonstigen Zeichen dürfen auf dem Medizinprodukt, der Verpackung oder der Gebrauchsanweisung des Medizinproduktes angebracht werden, sofern sie die Sichtbarkeit, Lesbarkeit und Bedeutung der CE-Kennzeichnung nicht beeinträchtigen.
 
@@ -292,8 +280,7 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 
 (3) Die CE-Kennzeichnung nach Absatz 1 Satz 1 muss deutlich sichtbar, gut lesbar und dauerhaft auf dem Medizinprodukt und, falls vorhanden, auf der Handelspackung sowie auf der Gebrauchsanweisung angebracht werden. Auf dem Medizinprodukt muss die CE-Kennzeichnung nicht angebracht werden, wenn es zu klein ist, seine Beschaffenheit dies nicht zulässt oder es nicht zweckmäßig ist. Der CE-Kennzeichnung muss die Kennnummer der Benannten Stelle hinzugefügt werden, die an der Durchführung des Konformitätsbewertungsverfahrens nach den Anhängen 2, 4 und 5 der Richtlinie 90/385/EWG, den Anhängen II, IV, V und VI der Richtlinie 93/42/EWG sowie den Anhängen III, IV, VI und VII der Richtlinie 98/79/EG beteiligt war, das zur Berechtigung zur Anbringung der CE-Kennzeichnung geführt hat. Bei Medizinprodukten, die eine CE-Kennzeichnung tragen müssen und in sterilem Zustand in den Verkehr gebracht werden, muss die CE-Kennzeichnung auf der Steril-Verpackung und gegebenenfalls auf der Handelspackung angebracht sein. Ist für ein Medizinprodukt ein Konformitätsbewertungsverfahren vorgeschrieben, das nicht von einer Benannten Stelle durchgeführt werden muss, darf der CE-Kennzeichnung keine Kennnummer einer Benannten Stelle hinzugefügt werden.
 
-
-## § 10 – Voraussetzungen für das erstmalige Inverkehrbringen und die Inbetriebnahme von Systemen und Behandlungseinheiten sowie für das Sterilisieren von Medizinprodukten
+# § 10 – Voraussetzungen für das erstmalige Inverkehrbringen und die Inbetriebnahme von Systemen und Behandlungseinheiten sowie für das Sterilisieren von Medizinprodukten
 
 (1) Medizinprodukte, die eine CE-Kennzeichnung tragen und die entsprechend ihrer Zweckbestimmung innerhalb der vom Hersteller vorgesehenen Anwendungsbeschränkungen zusammengesetzt werden, um in Form eines Systems oder einer Behandlungseinheit erstmalig in den Verkehr gebracht zu werden, müssen keinem Konformitätsbewertungsverfahren unterzogen werden. Wer für die Zusammensetzung des Systems oder der Behandlungseinheit verantwortlich ist, muss in diesem Fall eine Erklärung nach Maßgabe der Rechtsverordnung nach § 37 Abs. 1 abgeben.
 
@@ -303,8 +290,7 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 
 (4) Medizinprodukte, Systeme und Behandlungseinheiten gemäß der Absätze 1 und 3 sind nicht mit einer zusätzlichen CE-Kennzeichnung zu versehen. Wer Systeme oder Behandlungseinheiten nach Absatz 1 zusammensetzt oder diese sowie Medizinprodukte nach Absatz 3 sterilisiert, hat dem Medizinprodukt nach Maßgabe des § 7 die nach den Nummern 11 bis 15 des Anhangs 1 der Richtlinie 90/385/EWG, nach den Nummern 13.1, 13.3, 13.4 und 13.6 des Anhangs I der Richtlinie 93/42/EWG oder den Nummern 8.1, 8.3 bis 8.5 und 8.7 des Anhangs I der Richtlinie 98/79/EG erforderlichen Informationen beizufügen, die auch die von dem Hersteller der Produkte, die zu dem System oder der Behandlungseinheit zusammengesetzt wurden, mitgelieferten Hinweise enthalten müssen.
 
-
-## § 11 – Sondervorschriften für das Inverkehrbringen und die Inbetriebnahme
+# § 11 – Sondervorschriften für das Inverkehrbringen und die Inbetriebnahme
 
 (1) Abweichend von den Vorschriften des § 6 Abs. 1 und 2 kann die zuständige Bundesoberbehörde auf begründeten Antrag das erstmalige Inverkehrbringen oder die Inbetriebnahme einzelner In-vitro-Diagnostika, bei denen die Verfahren nach Maßgabe der Rechtsverordnung nach § 37 Abs. 1 nicht durchgeführt wurden, in Deutschland befristet zulassen, wenn deren Anwendung im Interesse des Gesundheitsschutzes liegt. Die Zulassung kann auf begründeten Antrag verlängert werden.
 
@@ -316,8 +302,7 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 
 (4) Durch Rechtsverordnung nach § 37 Abs. 4 können Regelungen für Betriebe und Einrichtungen erlassen werden, die Medizinprodukte in Deutschland in den Verkehr bringen oder lagern.
 
-
-## § 12 – Sonderanfertigungen, Medizinprodukte aus Eigenherstellung, Medizinprodukte zur klinischen Prüfung oder für Leistungsbewertungszwecke, Ausstellen
+# § 12 – Sonderanfertigungen, Medizinprodukte aus Eigenherstellung, Medizinprodukte zur klinischen Prüfung oder für Leistungsbewertungszwecke, Ausstellen
 
 (1) Sonderanfertigungen dürfen nur in den Verkehr gebracht oder in Betrieb genommen werden, wenn die Grundlegenden Anforderungen nach § 7, die auf sie unter Berücksichtigung ihrer Zweckbestimmung anwendbar sind, erfüllt sind und das für sie vorgesehene Konformitätsbewertungsverfahren nach Maßgabe der Rechtsverordnung nach § 37 Abs. 1 durchgeführt worden ist. Der Verantwortliche nach § 5 ist verpflichtet, der zuständigen Behörde auf Anforderung eine Liste der Sonderanfertigungen vorzulegen. Für die Inbetriebnahme von Medizinprodukten aus Eigenherstellung nach § 3 Nr. 21 und 22 finden die Vorschriften des Satzes 1 entsprechende Anwendung.
 
@@ -327,8 +312,7 @@ Verantwortlicher für das erstmalige Inverkehrbringen von Medizinprodukten ist d
 
 (4) Medizinprodukte, die nicht den Voraussetzungen nach § 6 Abs. 1 und 2 oder § 10 entsprechen, dürfen nur ausgestellt werden, wenn ein sichtbares Schild deutlich darauf hinweist, dass sie nicht den Anforderungen entsprechen und erst erworben werden können, wenn die Übereinstimmung hergestellt ist. Bei Vorführungen sind die erforderlichen Vorkehrungen zum Schutz von Personen zu treffen. Nach Satz 1 ausgestellte In-vitro-Diagnostika dürfen an Proben, die von einem Besucher der Ausstellung stammen, nicht angewendet werden.
 
-
-## § 13 – Klassifizierung von Medizinprodukten, Abgrenzung zu anderen Produkten
+# § 13 – Klassifizierung von Medizinprodukten, Abgrenzung zu anderen Produkten
 
 (1) Medizinprodukte mit Ausnahme der In-vitro-Diagnostika und der aktiven implantierbaren Medizinprodukte werden Klassen zugeordnet. Die Klassifizierung erfolgt nach den Klassifizierungsregeln des Anhangs IX der Richtlinie 93/42/EWG.
 
@@ -352,13 +336,11 @@ hat die Benannte Stelle der zuständigen Bundesoberbehörde die Angelegenheit zu
 
 (4) Die zuständige Behörde übermittelt alle Entscheidungen über die Klassifizierung von Medizinprodukten und zur Abgrenzung von Medizinprodukten zu anderen Produkten an das Bundesinstitut für Arzneimittel und Medizinprodukte zur zentralen Verarbeitung nach § 33. Dies gilt für Entscheidungen der zuständigen Bundesoberbehörde nach Absatz 2 und 3 entsprechend.
 
-
-## § 14 – Tätigkeiten im Zusammenhang mit Medizinprodukten
+# § 14 – Tätigkeiten im Zusammenhang mit Medizinprodukten
 
 Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz 5 betrieben und angewendet werden. Medizinprodukte dürfen nicht betrieben und angewendet werden, wenn sie Mängel aufweisen, durch die Patienten, Beschäftigte oder Dritte gefährdet werden können.
 
-
-## § 15 – Benennung und Überwachung der Stellen, Anerkennung und Beauftragung von Prüflaboratorien
+# § 15 – Benennung und Überwachung der Stellen, Anerkennung und Beauftragung von Prüflaboratorien
 
 (1) Bei der zuständigen Behörde kann ein Antrag auf Benennung als Benannte Stelle gestellt werden. Voraussetzung für die Benennung ist, dass die Befähigung der Stelle zur Wahrnehmung ihrer Aufgaben sowie die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG, des Anhangs XI der Richtlinie 93/42/EWG, des Anhangs IX der Richtlinie 98/79/EG und der Durchführungsverordnung (EU) Nr. 920/2013 der Kommission vom 24. September 2013 über die Benennung und Beaufsichtigung benannter Stellen gemäß der Richtlinie 90/385/EWG des Rates über aktive implantierbare medizinische Geräte und der Richtlinie 93/42/EWG des Rates über Medizinprodukte (ABl. L 253 vom 25.9.2013, S. 8) entsprechend den Verfahren, für die sie benannt werden soll, durch die zuständige Behörde in einem Benennungsverfahren festgestellt wurden. Die Benennung kann unter Auflagen erteilt werden und ist zu befristen. Die zuständige Behörde teilt der Europäischen Kommission die Benannten Stellen, die für Aufgaben im Zusammenhang mit der Durchführung von Konformitätsbewertungsverfahren nach Maßgabe der Rechtsverordnung nach § 37 Absatz 1 benannt wurden, sowie die Aufgabengebiete der Benannten Stellen mit.
 
@@ -374,8 +356,7 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 (+++ § 15 Abs. 2 Satz 2 bis 6 (F 25.5.2020): zur Anwendung bis 27.5.2024 vgl. § 99 Abs. 2 Satz 2 MPDG +++)
 
-
-## § 15a – Benennung und Überwachung von Konformitätsbewertungsstellen für Drittstaaten
+# § 15a – Benennung und Überwachung von Konformitätsbewertungsstellen für Drittstaaten
 
 (1) Mit der Benennung als Konformitätsbewertungsstelle für Drittstaaten ist eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft befugt, Aufgaben der Konformitätsbewertung im Bereich der Medizinprodukte für den oder die genannten Drittstaaten im Rahmen des jeweiligen Abkommens der Europäischen Gemeinschaft oder der Europäischen Union mit dritten Staaten oder Organisationen nach Artikel 216 des Vertrages über die Arbeitsweise der Europäischen Union wahrzunehmen. § 15 Absatz 1, 2 und 4 gilt entsprechend.
 
@@ -383,8 +364,7 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 (3) Die Benennung als Konformitätsbewertungsstelle für Drittstaaten kann unter Auflagen erteilt werden und ist zu befristen. Erteilung, Ablauf, Rücknahme, Widerruf und Erlöschen der Benennung sind der Europäischen Kommission sowie den in den jeweiligen Abkommen genannten Institutionen unverzüglich anzuzeigen.
 
-
-## § 16 – Erlöschen, Rücknahme, Widerruf und Ruhen der Benennung
+# § 16 – Erlöschen, Rücknahme, Widerruf und Ruhen der Benennung
 
 (1) Die Benennung erlischt mit Fristablauf, mit der Einstellung des Betriebs der Benannten Stelle oder durch Verzicht. Die Einstellung oder der Verzicht sind der zuständigen Behörde unverzüglich schriftlich mitzuteilen.
 
@@ -396,15 +376,13 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 (5) Die Absätze 1, 2 und 4 gelten für Konformitätsbewertungsstellen für Drittstaaten entsprechend.
 
-
-## § 17 – Geltungsdauer von Bescheinigungen der Benannten Stellen
+# § 17 – Geltungsdauer von Bescheinigungen der Benannten Stellen
 
 (1) Soweit die von einer Benannten Stelle im Rahmen eines Konformitätsbewertungsverfahrens nach Maßgabe der Rechtsverordnung nach § 37 Abs. 1 erteilte Bescheinigung eine begrenzte Geltungsdauer hat, kann die Geltungsdauer auf Antrag um jeweils höchstens fünf Jahre verlängert werden. Sollte diese Benannte Stelle nicht mehr bestehen oder andere Gründe den Wechsel der Benannten Stelle erfordern, kann der Antrag bei einer anderen Benannten Stelle gestellt werden.
 
 (2) Mit dem Antrag auf Verlängerung ist ein Bericht einzureichen, der Angaben darüber enthält, ob und in welchem Umfang sich die Beurteilungsmerkmale für die Konformitätsbewertung seit der Erteilung oder Verlängerung der Konformitätsbescheinigung geändert haben. Soweit nichts anderes mit der Benannten Stelle vereinbart wurde, ist der Antrag spätestens sechs Monate vor Ablauf der Gültigkeitsfrist zu stellen.
 
-
-## § 18 – Einschränkung, Aussetzung und Zurückziehung von Bescheinigungen, Unterrichtungspflichten
+# § 18 – Einschränkung, Aussetzung und Zurückziehung von Bescheinigungen, Unterrichtungspflichten
 
 (1) Stellt eine Benannte Stelle fest, dass die Voraussetzungen zur Ausstellung einer Bescheinigung vom Hersteller nicht oder nicht mehr erfüllt werden oder die Bescheinigung nicht hätte ausgestellt werden dürfen, schränkt sie unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit die ausgestellte Bescheinigung ein, setzt sie aus oder zieht sie zurück, es sei denn, dass der Verantwortliche durch geeignete Abhilfemaßnahmen die Übereinstimmung mit den Voraussetzungen gewährleistet. Die Benannte Stelle trifft die erforderlichen Maßnahmen unverzüglich.
 
@@ -422,8 +400,7 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 (4) Das Bundesinstitut für Arzneimittel und Medizinprodukte unterrichtet über eingeschränkte, verweigerte, ausgesetzte, wieder eingesetzte und zurückgezogene Bescheinigungen elektronisch die für den Verantwortlichen nach § 5 zuständige Behörde, die zuständige Behörde des Bundes, die Europäische Kommission, die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und gewährt den Benannten Stellen eine Zugriffsmöglichkeit auf diese Informationen.
 
-
-## § 19 – Klinische Bewertung, Leistungsbewertung
+# § 19 – Klinische Bewertung, Leistungsbewertung
 
 (1) Die Eignung von Medizinprodukten für den vorgesehenen Verwendungszweck ist durch eine klinische Bewertung anhand von klinischen Daten nach § 3 Nummer 25 zu belegen, soweit nicht in begründeten Ausnahmefällen andere Daten ausreichend sind. Die klinische Bewertung schließt die Beurteilung von unerwünschten Wirkungen sowie die Annehmbarkeit des in den Grundlegenden Anforderungen der Richtlinien 90/385/EWG und 93/42/EWG genannten Nutzen-/Risiko-Verhältnisses ein. Die klinische Bewertung muss gemäß einem definierten und methodisch einwandfreien Verfahren erfolgen und gegebenenfalls einschlägige harmonisierte Normen berücksichtigen.
 
@@ -435,15 +412,13 @@ Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37 Absatz
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 20 – Allgemeine Voraussetzungen zur klinischen Prüfung
+# § 20 – Allgemeine Voraussetzungen zur klinischen Prüfung
 
 (1) Mit der klinischen Prüfung eines Medizinproduktes darf in Deutschland erst begonnen werden, wenn die zuständige Ethik-Kommission diese nach Maßgabe des § 22 zustimmend bewertet und die zuständige Bundesoberbehörde diese nach Maßgabe des § 22a genehmigt hat. Bei klinischen Prüfungen von Medizinprodukten mit geringem Sicherheitsrisiko kann die zuständige Bundesoberbehörde von einer Genehmigung absehen. Das Nähere zu diesem Verfahren wird in einer Rechtsverordnung nach § 37 Absatz 2a geregelt. Die klinische Prüfung eines Medizinproduktes darf bei Menschen nur durchgeführt werden, wenn und solange
 
 1. die Risiken, die mit ihr für die Person verbunden sind, bei der sie durchgeführt werden soll, gemessen an der voraussichtlichen Bedeutung des Medizinproduktes für die Heilkunde ärztlich vertretbar sind,
 
-1a.  
-ein Sponsor oder ein Vertreter des Sponsors vorhanden ist, der seinen Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat,
+1a. ein Sponsor oder ein Vertreter des Sponsors vorhanden ist, der seinen Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat,
 
 2. die Person, bei der sie durchgeführt werden soll, ihre Einwilligung hierzu erteilt hat, nachdem sie durch einen Arzt, bei für die Zahnheilkunde bestimmten Medizinprodukten auch durch einen Zahnarzt, über Wesen, Bedeutung und Tragweite der klinischen Prüfung aufgeklärt worden ist und mit dieser Einwilligung zugleich erklärt, dass sie mit der im Rahmen der klinischen Prüfung erfolgenden Aufzeichnung von Gesundheitsdaten und mit der Einsichtnahme zu Prüfungszwecken durch Beauftragte des Auftraggebers oder der zuständigen Behörde einverstanden ist,
 
@@ -503,8 +478,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 21 – Besondere Voraussetzungen zur klinischen Prüfung
+# § 21 – Besondere Voraussetzungen zur klinischen Prüfung
 
 (1) Auf eine klinische Prüfung bei einer Person, die an einer Krankheit leidet, zu deren Behebung das zu prüfende Medizinprodukt angewendet werden soll, ist § 20 Absatz 1 bis 3 unter Maßgabe der Absätze 2 bis 5 anzuwenden.
 
@@ -518,8 +492,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 22 – Verfahren bei der Ethik-Kommission
+# § 22 – Verfahren bei der Ethik-Kommission
 
 (1) Die nach § 20 Absatz 1 Satz 1 erforderliche zustimmende Bewertung der Ethik-Kommission ist vom Sponsor bei der nach Landesrecht für den Prüfer zuständigen unabhängigen interdisziplinär besetzten Ethik-Kommission zu beantragen. Wird die klinische Prüfung von mehreren Prüfern durchgeführt, so ist der Antrag bei der für den Hauptprüfer oder Leiter der klinischen Prüfung zuständigen unabhängigen Ethik-Kommission zu stellen. Bei multizentrischen klinischen Prüfungen genügt ein Votum. Das Nähere zur Bildung, Zusammensetzung und Finanzierung der Ethik-Kommission wird durch Landesrecht bestimmt. Der Sponsor hat der Ethik-Kommission alle Angaben und Unterlagen vorzulegen, die diese zur Bewertung benötigt. Zur Bewertung der Unterlagen kann die Ethik-Kommission eigene wissenschaftliche Erkenntnisse verwerten, Sachverständige beiziehen oder Gutachten anfordern. Sie hat Sachverständige beizuziehen oder Gutachten anzufordern, wenn es sich um eine klinische Prüfung bei Minderjährigen handelt und sie nicht über eigene Fachkenntnisse auf dem Gebiet der Kinderheilkunde, einschließlich ethischer und psychosozialer Fragen der Kinderheilkunde, verfügt. Das Nähere zum Verfahren wird in einer Rechtsverordnung nach § 37 Absatz 2a geregelt.
 
@@ -537,8 +510,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 22a – Genehmigungsverfahren bei der Bundesoberbehörde
+# § 22a – Genehmigungsverfahren bei der Bundesoberbehörde
 
 (1) Die nach § 20 Absatz 1 Satz 1 erforderliche Genehmigung ist vom Sponsor bei der zuständigen Bundesoberbehörde zu beantragen. Der Antrag muss, jeweils mit Ausnahme der Stellungnahme der beteiligten Ethik-Kommission, bei aktiven implantierbaren Medizinprodukten die Angaben nach Nummer 2.2 des Anhangs 6 der Richtlinie 90/385/EWG und bei sonstigen Medizinprodukten die Angaben nach Nummer 2.2 des Anhangs VIII der Richtlinie 93/42/EWG enthalten. Zusätzlich hat der Sponsor alle Angaben und Unterlagen vorzulegen, die die zuständige Bundesoberbehörde zur Bewertung benötigt. Die Stellungnahme der Ethik-Kommission ist nachzureichen. Das Nähere zum Verfahren wird in einer Rechtsverordnung nach § 37 Absatz 2a geregelt.
 
@@ -560,8 +532,7 @@ Eine Einwilligung kann jederzeit widerrufen werden. Im Fall des Widerrufs der na
 
 (7) Die für die Genehmigung einer klinischen Prüfung zuständige Bundesoberbehörde unterrichtet die zuständige Ethik-Kommission, sofern ihr Informationen zu anderen klinischen Prüfungen vorliegen, die für die Bewertung der von der Ethik-Kommission begutachteten Prüfung von Bedeutung sind; dies gilt insbesondere für Informationen über abgebrochene oder sonst vorzeitig beendete Prüfungen. Dabei unterbleibt die Übermittlung personenbezogener Daten; ferner sind Betriebs- und Geschäftsgeheimnisse dabei zu wahren. Absatz 6 Satz 2 und 3 gilt entsprechend.
 
-
-## § 22b – Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung
+# § 22b – Rücknahme, Widerruf und Ruhen der Genehmigung oder der zustimmenden Bewertung
 
 (1) Die Genehmigung nach § 22a ist zurückzunehmen, wenn bekannt wird, dass ein Versagungsgrund nach § 22a Absatz 3 bei der Erteilung vorgelegen hat. Sie ist zu widerrufen, wenn nachträglich Tatsachen eintreten, die die Versagung nach § 22a Absatz 3 Nummer 2 oder Nummer 3 rechtfertigen würden. In den Fällen des Satzes 1 kann auch das Ruhen der Genehmigung befristet angeordnet werden.
 
@@ -587,8 +558,7 @@ Die Absätze 3 und 4 gelten entsprechend. Die zuständige Ethik-Kommission unter
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 22c – Änderungen nach Genehmigung von klinischen Prüfungen
+# § 22c – Änderungen nach Genehmigung von klinischen Prüfungen
 
 (1) Der Sponsor zeigt jede Änderung der Dokumentation der zuständigen Bundesoberbehörde an.
 
@@ -616,15 +586,13 @@ der angezeigten Änderungen.
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 23 – Durchführung der klinischen Prüfung
+# § 23 – Durchführung der klinischen Prüfung
 
 Neben den §§ 20 bis 22c gelten für die Durchführung klinischer Prüfungen von aktiven implantierbaren Medizinprodukten auch die Bestimmungen der Nummer 2.3 des Anhangs 7 der Richtlinie 90/385/EWG und für die Durchführung klinischer Prüfungen von sonstigen Medizinprodukten die Bestimmungen der Nummer 2.3 des Anhangs X der Richtlinie 93/42/EWG.
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 23a – Meldungen über Beendigung oder Abbruch von klinischen Prüfungen
+# § 23a – Meldungen über Beendigung oder Abbruch von klinischen Prüfungen
 
 (1) Innerhalb von 90 Tagen nach Beendigung einer klinischen Prüfung meldet der Sponsor der zuständigen Bundesoberbehörde die Beendigung der klinischen Prüfung.
 
@@ -636,15 +604,13 @@ Neben den §§ 20 bis 22c gelten für die Durchführung klinischer Prüfungen vo
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 23b – Ausnahmen zur klinischen Prüfung
+# § 23b – Ausnahmen zur klinischen Prüfung
 
 Die §§ 20 bis 23a sind nicht anzuwenden, wenn eine klinische Prüfung mit Medizinprodukten durchgeführt wird, die nach den §§ 6 und 10 die CE-Kennzeichnung tragen dürfen, es sei denn, diese Prüfung hat eine andere Zweckbestimmung des Medizinproduktes zum Inhalt oder es werden zusätzlich invasive oder andere belastende Untersuchungen durchgeführt.
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 24 – Leistungsbewertungsprüfung
+# § 24 – Leistungsbewertungsprüfung
 
 Auf Leistungsbewertungsprüfungen von In-vitro-Diagnostika sind die §§ 20 bis 23b entsprechend anzuwenden, wenn
 
@@ -658,8 +624,7 @@ In den übrigen Fällen ist die Einwilligung der Person, von der die Proben entn
 
 (+++ § 19 bis 24: zur Anwendung vgl. § 99 Abs. 4 Satz 1 MPDG +++)
 
-
-## § 25 – Allgemeine Anzeigepflicht
+# § 25 – Allgemeine Anzeigepflicht
 
 (1) Wer als Verantwortlicher im Sinne von § 5 Satz 1 und 2 seinen Sitz in Deutschland hat und Medizinprodukte mit Ausnahme derjenigen nach § 3 Nr. 8 erstmalig in den Verkehr bringt, hat dies vor Aufnahme der Tätigkeit unter Angabe seiner Anschrift der zuständigen Behörde anzuzeigen; dies gilt entsprechend für Betriebe und Einrichtungen, die Medizinprodukte, die bestimmungsgemäß keimarm oder steril zur Anwendung kommen, ausschließlich für andere aufbereiten.
 
@@ -679,8 +644,7 @@ In den übrigen Fällen ist die Einwilligung der Person, von der die Proben entn
 
 (6) Näheres zu den Absätzen 1 bis 5 regelt die Rechtsverordnung nach § 37 Abs. 8.
 
-
-## § 26 – Durchführung der Überwachung
+# § 26 – Durchführung der Überwachung
 
 (1) Betriebe und Einrichtungen mit Sitz in Deutschland, in denen Medizinprodukte hergestellt, klinisch geprüft, einer Leistungsbewertungsprüfung unterzogen, verpackt, ausgestellt, in den Verkehr gebracht, errichtet, betrieben, angewendet oder Medizinprodukte, die bestimmungsgemäß keimarm oder steril zur Anwendung kommen, aufbereitet werden, unterliegen insoweit der Überwachung durch die zuständigen Behörden. Dies gilt auch für Sponsoren und Personen, die die in Satz 1 genannten Tätigkeiten geschäftsmäßig ausüben, sowie für Personen und Personenvereinigungen, die Medizinprodukte für andere sammeln.
 
@@ -712,15 +676,13 @@ In den übrigen Fällen ist die Einwilligung der Person, von der die Proben entn
 
 (7) Die zuständige Behörde unterrichtet auf Anfrage das Bundesministerium für Gesundheit sowie die zuständigen Behörden der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum über durchgeführte Überprüfungen, deren Ergebnisse sowie die getroffenen Maßnahmen.
 
-
-## § 27 – Verfahren bei unrechtmäßiger und unzulässiger Anbringung der CE-Kennzeichnung
+# § 27 – Verfahren bei unrechtmäßiger und unzulässiger Anbringung der CE-Kennzeichnung
 
 (1) Stellt die zuständige Behörde fest, dass die CE-Kennzeichnung auf einem Medizinprodukt unrechtmäßig angebracht worden ist, ist der Verantwortliche nach § 5 verpflichtet, die Voraussetzungen für das rechtmäßige Anbringen der CE-Kennzeichnung nach Weisung der zuständigen Behörde zu erfüllen. Werden diese Voraussetzungen nicht erfüllt, so hat die zuständige Behörde das Inverkehrbringen dieses Medizinproduktes einzuschränken, von der Einhaltung bestimmter Auflagen abhängig zu machen, zu untersagen oder zu veranlassen, dass das Medizinprodukt vom Markt genommen wird. Sie unterrichtet davon die übrigen zuständigen Behörden in Deutschland und das Bundesministerium für Gesundheit, das die Europäische Kommission und die anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum hiervon unterrichtet.
 
 (2) Trägt ein Produkt unzulässigerweise die CE-Kennzeichnung als Medizinprodukt, trifft die zuständige Behörde die erforderlichen Maßnahmen nach Absatz 1 Satz 2. Absatz 1 Satz 3 gilt entsprechend.
 
-
-## § 28 – Verfahren zum Schutze vor Risiken
+# § 28 – Verfahren zum Schutze vor Risiken
 
 (1) Die nach diesem Gesetz zuständige Behörde trifft alle erforderlichen Maßnahmen zum Schutze der Gesundheit und zur Sicherheit von Patienten, Anwendern und Dritten vor Gefahren durch Medizinprodukte, soweit nicht das Atomgesetz oder eine darauf gestützte Rechtsverordnung für Medizinprodukte, die ionisierende Strahlen erzeugen oder radioaktive Stoffe enthalten, für die danach zuständige Behörde entsprechende Befugnisse vorsieht.
 
@@ -738,8 +700,7 @@ In den übrigen Fällen ist die Einwilligung der Person, von der die Proben entn
 
 (5) Maßnahmen nach Artikel 14b der Richtlinie 93/42/EWG und Artikel 13 der Richtlinie 98/79/EG trifft das Bundesministerium für Gesundheit durch Rechtsverordnung nach § 37 Abs. 6.
 
-
-## § 29 – Medizinprodukte-Beobachtungs- und -Meldesystem
+# § 29 – Medizinprodukte-Beobachtungs- und -Meldesystem
 
 (1) Die zuständige Bundesoberbehörde hat, soweit nicht eine oberste Bundesbehörde im Vollzug des Atomgesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zuständig ist, zur Verhütung einer Gefährdung der Gesundheit oder der Sicherheit von Patienten, Anwendern oder Dritten die bei der Anwendung oder Verwendung von Medizinprodukten auftretenden Risiken, insbesondere Nebenwirkungen, wechselseitige Beeinflussung mit anderen Stoffen oder Produkten, Gegenanzeigen, Verfälschungen, Funktionsfehler, Fehlfunktionen und technische Mängel zentral zu erfassen, auszuwerten und zu bewerten. Sie hat die zu ergreifenden Maßnahmen zu koordinieren, insbesondere, soweit sie alle schwerwiegenden unerwünschten Ereignisse während klinischer Prüfungen oder Leistungsbewertungsprüfungen von In-vitro-Diagnostika oder folgende Vorkommnisse betreffen:
 
@@ -755,8 +716,7 @@ In den übrigen Fällen ist die Einwilligung der Person, von der die Proben entn
 
 (4) Einzelheiten zur Durchführung der Aufgaben nach § 29 regelt der Sicherheitsplan nach § 37 Abs. 7.
 
-
-## § 30 – Sicherheitsbeauftragter für Medizinprodukte
+# § 30 – Sicherheitsbeauftragter für Medizinprodukte
 
 (1) Wer als Verantwortlicher nach § 5 Satz 1 und 2 seinen Sitz in Deutschland hat, hat unverzüglich nach Aufnahme der Tätigkeit eine Person mit der zur Ausübung ihrer Tätigkeit erforderlichen Sachkenntnis und der erforderlichen Zuverlässigkeit als Sicherheitsbeauftragten für Medizinprodukte zu bestimmen.
 
@@ -774,8 +734,7 @@ und eine mindestens zweijährige Berufserfahrung. Die Sachkenntnis ist auf Verla
 
 (5) Der Sicherheitsbeauftragte für Medizinprodukte darf wegen der Erfüllung der ihm übertragenen Aufgaben nicht benachteiligt werden.
 
-
-## § 31 – Medizinprodukteberater
+# § 31 – Medizinprodukteberater
 
 (1) Wer berufsmäßig Fachkreise fachlich informiert oder in die sachgerechte Handhabung der Medizinprodukte einweist (Medizinprodukteberater), darf diese Tätigkeit nur ausüben, wenn er die für die jeweiligen Medizinprodukte erforderliche Sachkenntnis und Erfahrung für die Information und, soweit erforderlich, für die Einweisung in die Handhabung der jeweiligen Medizinprodukte besitzt. Dies gilt auch für die fernmündliche Information.
 
@@ -789,8 +748,7 @@ und eine mindestens zweijährige Berufserfahrung. Die Sachkenntnis ist auf Verla
 
 (4) Der Medizinprodukteberater hat Mitteilungen von Angehörigen der Fachkreise über Nebenwirkungen, wechselseitige Beeinflussungen, Fehlfunktionen, technische Mängel, Gegenanzeigen, Verfälschungen oder sonstige Risiken bei Medizinprodukten aufzuzeichnen und unverzüglich dem Verantwortlichen nach § 5 Satz 1 und 2 oder dessen Sicherheitsbeauftragten für Medizinprodukte schriftlich oder elektronisch zu übermitteln.
 
-
-## § 32 – Aufgaben und Zuständigkeiten der Bundesoberbehörden im Medizinproduktebereich
+# § 32 – Aufgaben und Zuständigkeiten der Bundesoberbehörden im Medizinproduktebereich
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte ist insbesondere zuständig für
 
@@ -818,13 +776,11 @@ und eine mindestens zweijährige Berufserfahrung. Die Sachkenntnis ist auf Verla
 
 3. die Bundesoberbehörden, die zuständigen Behörden und Benannten Stellen wissenschaftlich zu beraten.
 
-
-## § 32a – Besondere Zuständigkeiten
+# § 32a – Besondere Zuständigkeiten
 
 Die Bearbeitung von Meldungen der für die Kontrolle der Außengrenzen zuständigen Behörden über Aussetzungen gemäß Artikel 27 Absatz 3 Satz 1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) obliegt der Überwachungsbehörde, die für die Zollstelle örtlich zuständig ist.
 
-
-## § 33 – Datenbankgestütztes Informationssystem, Europäische Datenbank
+# § 33 – Datenbankgestütztes Informationssystem, Europäische Datenbank
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte stellt den für Medizinprodukte zuständigen Behörden des Bundes und der Länder die zum Vollzug dieses Gesetzes erforderlichen Informationen zur Verfügung. Es stellt die erforderlichen Daten für die Europäische Datenbank im Sinne von Artikel 10b der Richtlinie 90/385/EWG, Artikel 14a der Richtlinie 93/42/EWG und Artikel 12 der Richtlinie 98/79/EG zur Verfügung. Eine Bereitstellung dieser Informationen für nicht-öffentliche Stellen ist zulässig, soweit dies die Rechtsverordnung nach § 37 Abs. 8 vorsieht.
 
@@ -842,25 +798,21 @@ Die Bearbeitung von Meldungen der für die Kontrolle der Außengrenzen zuständi
 
 (3) Das in Absatz 1 genannte Bundesinstitut ergreift im Einvernehmen mit dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit die notwendigen Maßnahmen, damit Daten nur dazu befugten Personen übermittelt werden oder diese Zugang zu diesen Daten erhalten.
 
-
-## § 34 – Ausfuhr
+# § 34 – Ausfuhr
 
 (1) Auf Antrag eines Herstellers oder Bevollmächtigten stellt die zuständige Behörde für die Ausfuhr eine Bescheinigung über die Verkehrsfähigkeit des Medizinproduktes in Deutschland aus.
 
 (2) Medizinprodukte, die einem Verbot nach § 4 Abs. 1 unterliegen, dürfen nur ausgeführt werden, wenn die zuständige Behörde des Bestimmungslandes die Einfuhr genehmigt hat, nachdem sie von der zuständigen Behörde über die jeweiligen Verbotsgründe informiert wurde.
 
-
-## § 35 – Gebühren und Auslagen
+# § 35 – Gebühren und Auslagen
 
 Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen sind Gebühren und Auslagen nach Maßgabe der Rechtsverordnung nach § 37 Absatz 9 zu erheben.
 
-
-## § 36 – Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission
+# § 36 – Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission
 
 Die für die Durchführung des Medizinprodukterechts zuständigen Behörden und Benannten Stellen arbeiten mit den zuständigen Behörden und Benannten Stellen der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Europäischen Kommission zusammen und erteilen einander die notwendigen Auskünfte, um eine einheitliche Anwendung der zur Umsetzung der Richtlinien 90/385/EWG, 93/42/EWG und 98/79/EG erlassenen Vorschriften zu erreichen.
 
-
-## § 37 – Verordnungsermächtigungen
+# § 37 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, zur Umsetzung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union durch Rechtsverordnung die Voraussetzungen für die Erteilung der Konformitätsbescheinigungen, die Durchführung der Konformitätsbewertungsverfahren und ihre Zuordnung zu Klassen von Medizinprodukten sowie Sonderverfahren für Systeme und Behandlungseinheiten zu regeln.
 
@@ -896,8 +848,7 @@ die Verschreibungspflicht vorzuschreiben. In der Rechtsverordnung nach Satz 1 k�
 
 1. Anforderungen an das Errichten, Betreiben, Anwenden und Instandhalten von Medizinprodukten festzulegen, Regelungen zu treffen über die Einweisung der Betreiber und Anwender, die sicherheitstechnischen Kontrollen, Funktionsprüfungen, Meldepflichten und Einzelheiten der Meldepflichten von Vorkommnissen und Risiken, das Bestandsverzeichnis und das Medizinproduktebuch sowie weitere Anforderungen festzulegen, soweit dies für das sichere Betreiben und die sichere Anwendung oder die ordnungsgemäße Instandhaltung notwendig ist,
 
-1a.  
-Anforderungen an die sichere Aufbereitung von bestimmungsgemäß keimarm oder steril zur Anwendung kommenden Medizinprodukten festzulegen und Regelungen zu treffen über
+1a. Anforderungen an die sichere Aufbereitung von bestimmungsgemäß keimarm oder steril zur Anwendung kommenden Medizinprodukten festzulegen und Regelungen zu treffen über
 
 a) zusätzliche Anforderungen an Aufbereiter, die Medizinprodukte mit besonders hohen Anforderungen an die Aufbereitung aufbereiten,
 
@@ -933,27 +884,23 @@ c) festzulegen, dass die Normen, Richtlinien und Empfehlungen oder deren Fundste
 
 (12) Die Rechtsverordnungen nach den Absätzen 6 und 10 bedürfen nicht der Zustimmung des Bundesrates bei Gefahr im Verzug oder wenn ihr unverzügliches Inkrafttreten zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist. Die Rechtsverordnungen nach den Absätzen 1 bis 3 können ohne Zustimmung des Bundesrates erlassen werden, wenn unvorhergesehene gesundheitliche Gefährdungen dies erfordern. Soweit die Rechtsverordnung nach Absatz 9 Gebühren und Auslagen von Bundesbehörden betrifft, bedarf sie nicht der Zustimmung des Bundesrates. Die Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht des Einvernehmens mit den jeweils beteiligten Bundesministerien. Sie treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden. Soweit der Strahlenschutz betroffen ist, bleibt Absatz 11 unberührt.
 
-
-## § 37a – Allgemeine Verwaltungsvorschriften
+# § 37a – Allgemeine Verwaltungsvorschriften
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes erforderlichen allgemeinen Verwaltungsvorschriften insbesondere zur Durchführung und Qualitätssicherung der Überwachung, zur Sachkenntnis der mit der Überwachung beauftragten Personen, zur Ausstattung, zum Informationsaustausch und zur Zusammenarbeit der Behörden.
 
-
-## § 38 – Anwendung und Vollzug des Gesetzes
+# § 38 – Anwendung und Vollzug des Gesetzes
 
 (1) Dieses Gesetz findet auf Einrichtungen, die der Versorgung der Bundeswehr mit Medizinprodukten dienen, entsprechende Anwendung.
 
 (2) Im Bereich der Bundeswehr obliegt der Vollzug dieses Gesetzes und die Überwachung den jeweils zuständigen Stellen und Sachverständigen der Bundeswehr.
 
-
-## § 39 – Ausnahmen
+# § 39 – Ausnahmen
 
 (1) Schreiben die Grundlegenden Anforderungen nach § 7 die Angabe des Verfalldatums vor, kann diese bei Medizinprodukten entfallen, die an die Bundeswehr abgegeben werden. Das Bundesministerium der Verteidigung stellt sicher, dass Qualität, Leistung und Sicherheit der Medizinprodukte gewährleistet sind. Satz 1 gilt entsprechend für Medizinprodukte, die zum Zweck des Zivil- und Katastrophenschutzes an die zuständigen Behörden des Bundes oder der Länder abgegeben werden. Die zuständigen Behörden stellen sicher, dass Qualität, Leistung und Sicherheit der Medizinprodukte gewährleistet sind.
 
 (2) Das Bundesministerium der Verteidigung kann für seinen Geschäftsbereich im Einvernehmen mit dem Bundesministerium für Gesundheit und, soweit der Arbeitsschutz betroffen ist, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales in Einzelfällen Ausnahmen von diesem Gesetz und auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zulassen, wenn Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union dem nicht entgegenstehen und dies zur Durchführung der besonderen Aufgaben gerechtfertigt ist und der Schutz der Gesundheit gewahrt bleibt.
 
-
-## § 40 – Strafvorschriften
+# § 40 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -979,8 +926,7 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 
 (+++ § 40 (Achter Abschnitt) (F 25.5.2020): Zur Anwendung vgl. § 99 Abs. 1 Nr. 3 MPDG +++)
 
-
-## § 41 – Strafvorschriften
+# § 41 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -998,8 +944,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 (+++ § 41 (Achter Abschnitt) (F 25.5.2020): Zur Anwendung vgl. § 99 Abs. 1 Nr. 3 MPDG +++)
 
-
-## § 42 – Bußgeldvorschriften
+# § 42 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine der in § 41 bezeichneten Handlungen fahrlässig begeht.
 
@@ -1041,15 +986,13 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
 (+++ § 42 (Achter Abschnitt) (F 25.5.2020): Zur Anwendung vgl. § 99 Abs. 1 Nr. 3 MPDG +++)
 
-
-## § 43 – Einziehung
+# § 43 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 40 oder § 41 oder eine Ordnungswidrigkeit nach § 42 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 (+++ § 43 (Achter Abschnitt) (F 25.5.2020): Zur Anwendung vgl. § 99 Abs. 1 Nr. 3 MPDG +++)
 
-
-## § 44 – Übergangsbestimmungen
+# § 44 – Übergangsbestimmungen
 
 (1) Medizinprodukte mit Verfalldatum, die vor dem 30. Juni 2007 zum Zweck des Zivil- und Katastrophenschutzes an die zuständigen Behörden des Bundes oder der Länder oder zur Durchführung ihrer besonderen Aufgaben an die Bundeswehr abgegeben wurden, dürfen auch nach Ablauf des Verfalldatums angewendet werden. Die zuständigen Behörden stellen sicher, dass Qualität, Leistung und Sicherheit der Medizinprodukte gewährleistet sind.
 

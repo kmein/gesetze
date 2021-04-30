@@ -1,18 +1,13 @@
-# [InstitutsVergV] Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten   (Institutsvergütungsverordnung - InstitutsVergV)
-
-Ausfertigungsdatum: 16.12.2013
-
+% Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten   (Institutsvergütungsverordnung - InstitutsVergV)
+% Ausfertigungsdatum: 16.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25a Absatz 6 des Kreditwesengesetzes, der durch Artikel 1 Nummer 48 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395) in das Kreditwesengesetz eingefügt worden ist, verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank und nach Anhörung der Spitzenverbände der Institute:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt vorbehaltlich des Absatzes 3 für alle Institute gemäß § 1 Absatz 1b und § 53 Absatz 1 des Kreditwesengesetzes, auf die § 25a des Kreditwesengesetzes anzuwenden ist, und für die Vergütung sämtlicher Mitarbeiter und Mitarbeiterinnen dieser Institute gemäß § 2 Absatz 7. Auf Zweigniederlassungen von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums gemäß § 53b Absatz 1 und 7 des Kreditwesengesetzes ist sie nicht anzuwenden.
 
@@ -28,8 +23,7 @@ Auf Grund des § 25a Absatz 6 des Kreditwesengesetzes, der durch Artikel 1 Numme
 
 3. aufgrund eines Tarifvertrages in einer Betriebs- oder Dienstvereinbarung vereinbart sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Vergütung im Sinne dieser Verordnung sind
 
@@ -97,8 +91,7 @@ Als Mitarbeiter und Mitarbeiterinnen im Sinne dieser Verordnung gelten auch Gesc
 
 (12) Gruppen, übergeordnete Unternehmen und nachgeordnete Unternehmen im Sinne dieser Verordnung sind solche gemäß § 10a Absatz 1 bis 3 des Kreditwesengesetzes.
 
-
-## § 3 – Verantwortlichkeiten; Beteiligung der Kontrolleinheiten
+# § 3 – Verantwortlichkeiten; Beteiligung der Kontrolleinheiten
 
 (1) Die Geschäftsleitung ist für die angemessene Ausgestaltung der Vergütungssysteme der Mitarbeiter und Mitarbeiterinnen, die keine Geschäftsleiter oder Geschäftsleiterinnen sind, nach Maßgabe des § 25a Absatz 1 Nummer 6 in Verbindung mit Absatz 5 des Kreditwesengesetzes und dieser Verordnung verantwortlich. Sie hat das Verwaltungs- oder Aufsichtsorgan mindestens einmal jährlich über die Ausgestaltung der Vergütungssysteme des Instituts zu informieren. Die Sätze 1 und 2 gelten bei bedeutenden Instituten gemäß § 25n des Kreditwesengesetzes auch in Bezug auf den Prozess der Ermittlung der Risikoträger und Risikoträgerinnen gemäß § 25a Absatz 5b des Kreditwesengesetzes sowie der Gruppen-Risikoträger und Gruppen-Risikoträgerinnen gemäß § 27 Absatz 2 Satz 1. Dem oder der Vorsitzenden des Verwaltungs- oder Aufsichtsorgans ist ein entsprechendes Auskunftsrecht gegenüber der Geschäftsleitung einzuräumen.
 
@@ -106,13 +99,11 @@ Als Mitarbeiter und Mitarbeiterinnen im Sinne dieser Verordnung gelten auch Gesc
 
 (3) Die Kontrolleinheiten sind im Rahmen ihrer Aufgaben bei der Ausgestaltung und der Überwachung der Vergütungssysteme sowie in bedeutenden Instituten gemäß § 25n des Kreditwesengesetzes auch in Bezug auf den Prozess der Ermittlung der Risikoträger und Risikoträgerinnen gemäß § 25a Absatz 5b des Kreditwesengesetzes sowie der Gruppen-Risikoträger und Gruppen-Risikoträgerinnen gemäß § 27 Absatz 2 Satz 1 angemessen zu beteiligen.
 
-
-## § 4 – Ausrichtung an der Strategie des Instituts
+# § 4 – Ausrichtung an der Strategie des Instituts
 
 Die Vergütungsstrategie und die Vergütungssysteme müssen auf die Erreichung der Ziele ausgerichtet sein, die in den Geschäfts- und Risikostrategien des jeweiligen Instituts niedergelegt sind. Dabei ist auch die Unternehmenskultur zu berücksichtigen. Die Vergütungsparameter müssen sich an den Strategien ausrichten und das Erreichen der strategischen Ziele unterstützen.
 
-
-## § 5 – Angemessenheit der Vergütung und der Vergütungssysteme
+# § 5 – Angemessenheit der Vergütung und der Vergütungssysteme
 
 (1) Die Vergütungssysteme sind angemessen ausgestaltet, wenn
 
@@ -175,8 +166,7 @@ Setzt sich die Vergütung aus mehreren Bestandteilen gemäß den Nummern 1 bis 3
 (+++ § 5 Abs. 1 Nr. 2, 4 u. 5: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)  
 (+++ § 5 Abs. 1 Nr. 3: Zur erstmaligen Anwendung vgl. § 28 Abs. 2 +++)
 
-
-## § 6 – Verhältnis von variabler zu fixer Vergütung; Billigung einer höheren Obergrenze gemäß § 25a Absatz 5 Satz 5 des Kreditwesengesetzes
+# § 6 – Verhältnis von variabler zu fixer Vergütung; Billigung einer höheren Obergrenze gemäß § 25a Absatz 5 Satz 5 des Kreditwesengesetzes
 
 (1) Besteht die Vergütung aus einer variablen und einer fixen Vergütung, müssen diese in einem angemessenen Verhältnis zueinander stehen. Das Verhältnis ist angemessen, wenn einerseits keine signifikante Abhängigkeit des Mitarbeiters oder der Mitarbeiterin von der variablen Vergütung besteht, die variable Vergütung aber andererseits einen wirksamen Verhaltensanreiz setzen kann.
 
@@ -190,8 +180,7 @@ Setzt sich die Vergütung aus mehreren Bestandteilen gemäß den Nummern 1 bis 3
 
 (+++ § 6 Abs. 2 Satz 2: Zur Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 7 – Voraussetzungen für die Festsetzung des Gesamtbetrags der variablen Vergütung und die Erdienung zurückbehaltener Vergütungsbestandteile
+# § 7 – Voraussetzungen für die Festsetzung des Gesamtbetrags der variablen Vergütung und die Erdienung zurückbehaltener Vergütungsbestandteile
 
 (1) Der Gesamtbetrag der variablen Vergütungen gemäß § 45 Absatz 2 Satz 1 Nummer 5a des Kreditwesengesetzes muss in einem formalisierten, transparenten und nachvollziehbaren Prozess unter angemessener und ihrem Aufgabenbereich entsprechender Beteiligung der Kontrolleinheiten festgesetzt werden. Die Verantwortlichkeiten gemäß § 3 gelten entsprechend. Bei der Festsetzung des Gesamtbetrags
 
@@ -207,22 +196,19 @@ dauerhaft aufrechtzuerhalten oder wiederherzustellen.
 
 (2) Eine Ermittlung und eine Erdienung von variabler Vergütung darf nur erfolgen, wenn und soweit zu den jeweiligen Zeitpunkten die Voraussetzungen gemäß Absatz 1 Satz 3 erfüllt sind. Ein späterer Ausgleich für eine Verringerung der variablen Vergütung ist nicht zulässig.
 
-
-## § 8 – Verbot der Einschränkung oder Aufhebung der Risikoadjustierung
+# § 8 – Verbot der Einschränkung oder Aufhebung der Risikoadjustierung
 
 (1) Die Risikoadjustierung der variablen Vergütung darf seitens der Institute nicht durch Absicherungs- oder sonstige Gegenmaßnahmen eingeschränkt oder aufgehoben werden. Insbesondere dürfen keine Instrumente oder Methoden angewendet werden, durch die Anforderungen dieser Verordnung umgangen werden.
 
 (2) Die Institute haben angemessene Compliance-Strukturen einzurichten, um Absicherungs- oder sonstige Gegenmaßnahmen seitens der Mitarbeiter und Mitarbeiterinnen zur Einschränkung oder Aufhebung der Risikoadjustierung der Vergütung zu verhindern. Angemessene Compliance-Strukturen bestehen insbesondere in einer Verpflichtung der Mitarbeiter und Mitarbeiterinnen, keine persönlichen Absicherungs- oder sonstigen Gegenmaßnahmen zu treffen, um die Risikoorientierung ihrer Vergütung einzuschränken oder aufzuheben, sowie bei bedeutenden Instituten gemäß § 25n des Kreditwesengesetzes in der Verpflichtung der Risikoträger und Risikoträgerinnen, private Depotkonten anzuzeigen. Dabei ist die Einhaltung dieser Verpflichtung risikoorientiert zumindest stichprobenartig durch die Kontrolleinheiten mit Compliance-Funktion gemäß § 2 Absatz 11 zu überprüfen; bei bedeutenden Instituten gemäß § 25n des Kreditwesengesetzes erfolgt die Überprüfung durch den Vergütungsbeauftragten gemäß den §§ 23 bis 25.
 
-
-## § 9 – Zusätzliche Anforderungen an die Vergütung der Mitarbeiter und Mitarbeiterinnen der Kontrolleinheiten
+# § 9 – Zusätzliche Anforderungen an die Vergütung der Mitarbeiter und Mitarbeiterinnen der Kontrolleinheiten
 
 (1) Die Vergütung der Mitarbeiter und Mitarbeiterinnen der Kontrolleinheiten muss so ausgestaltet sein, dass eine angemessene qualitative und quantitative Personalausstattung ermöglicht wird.
 
 (2) Bei der Ausgestaltung der Vergütung der Mitarbeiter und Mitarbeiterinnen der Kontrolleinheiten ist sicherzustellen, dass der Schwerpunkt auf dem fixen Vergütungsbestandteil liegt.
 
-
-## § 10 – Zusätzliche Anforderungen an die Vergütung von Geschäftsleitern und Geschäftsleiterinnen
+# § 10 – Zusätzliche Anforderungen an die Vergütung von Geschäftsleitern und Geschäftsleiterinnen
 
 (1) Das Verwaltungs- oder Aufsichtsorgan hat bei der Festsetzung der Vergütung des einzelnen Geschäftsleiters oder der einzelnen Geschäftsleiterin dafür zu sorgen, dass die Vergütung
 
@@ -236,8 +222,7 @@ dauerhaft aufrechtzuerhalten oder wiederherzustellen.
 
 (4) Die Vergütung, die Geschäftsleiter und Geschäftsleiterinnen für ihre berufliche Tätigkeit bei dem Institut erhalten, muss abschließend im Anstellungsvertrag festgelegt werden. Der Anstellungsvertrag und spätere Änderungen bedürfen der Schriftform.
 
-
-## § 11 – Grundsätze zu den Vergütungssystemen in den Organisationsrichtlinien; Dokumentationspflichten
+# § 11 – Grundsätze zu den Vergütungssystemen in den Organisationsrichtlinien; Dokumentationspflichten
 
 (1) Das Institut hat in seinen Organisationsrichtlinien Grundsätze zu den Vergütungssystemen festzulegen. Die Grundsätze umfassen insbesondere
 
@@ -257,22 +242,19 @@ dauerhaft aufrechtzuerhalten oder wiederherzustellen.
 
 3. an Kennzahlen anknüpfen, die Näherungswerte für den Erfolg des Instituts sein können; in diesem Fall muss das Institut darlegen können, dass diese Kennzahlen tatsächlich nicht vom Erfolg des Instituts abhängen.
 
-
-## § 12 – Überprüfung und Anpassung der Vergütungssysteme
+# § 12 – Überprüfung und Anpassung der Vergütungssysteme
 
 (1) Die Vergütungssysteme und die zugrunde gelegten Vergütungsparameter sind von dem Institut zumindest einmal jährlich auf ihre Angemessenheit, insbesondere auch ihre Vereinbarkeit mit den Geschäfts- und Risikostrategien, zu überprüfen. Dabei sind zumindest die diesbezüglichen Berichte der Internen Revision, der Prüfungsbericht des Abschlussprüfers gemäß § 26 Absatz 1 des Kreditwesengesetzes sowie in bedeutenden Instituten gemäß § 25n des Kreditwesengesetzes dieser Verordnung der Vergütungskontrollbericht gemäß § 24 Absatz 3 heranzuziehen. Die Überprüfung ist schriftlich oder elektronisch zu dokumentieren und das Überprüfungsergebnis dem Verwaltungs- oder Aufsichtsorgan vorzulegen.
 
 (2) Werden bei der Überprüfung Mängel festgestellt, ist zeitnah ein Maßnahmenplan zu erstellen und umzusetzen. Die ergriffenen Maßnahmen zur Behebung der festgestellten Mängel sind zu dokumentieren.
 
-
-## § 13 – Information über die Vergütungssysteme
+# § 13 – Information über die Vergütungssysteme
 
 (1) Die Mitarbeiter und Mitarbeiterinnen müssen schriftlich über die Ausgestaltung der für sie maßgeblichen Vergütungssysteme und insbesondere über die Ausgestaltung der für sie relevanten Vergütungsparameter in Kenntnis gesetzt werden. Die Schriftform ist auch bei einer elektronischen Übermittlung gewahrt.
 
 (2) Die weiteren Informationen zu den Vergütungssystemen, die gemäß Artikel 450 der Verordnung (EU) Nr. 575/2013 und ergänzend gemäß § 16 dieser Verordnung von den Instituten offenzulegen sind, sind allen Mitarbeitern und Mitarbeiterinnen zugänglich zu machen.
 
-
-## § 14 – Anpassung bestehender Vereinbarungen
+# § 14 – Anpassung bestehender Vereinbarungen
 
 (1) Das Institut hat darauf hinzuwirken, dass bestehende
 
@@ -286,8 +268,7 @@ die mit dieser Verordnung nicht vereinbar sind, soweit rechtlich zulässig, ange
 
 (2) Die Anpassung hat auf Grundlage einer für Dritte nachvollziehbaren fundierten juristischen Begutachtung der Rechtslage und unter Berücksichtigung der konkreten Erfolgsaussichten zu erfolgen.
 
-
-## § 15 – Aufgaben des Vergütungskontrollausschusses
+# § 15 – Aufgaben des Vergütungskontrollausschusses
 
 (1) Hat das Institut einen Vergütungskontrollausschuss gemäß § 25d Absatz 12 Satz 1 des Kreditwesengesetzes eingerichtet, so nimmt dieser insbesondere die Aufgaben gemäß den Absätzen 2 bis 5 sowie gemäß § 25d Absatz 12 Satz 2 des Kreditwesengesetzes wahr.
 
@@ -309,8 +290,7 @@ die mit dieser Verordnung nicht vereinbar sind, soweit rechtlich zulässig, ange
 
 (5) Der Vergütungskontrollausschuss hat das Aufsichts- oder Verwaltungsorgan bei der Erstellung der Beschlussvorschläge gemäß § 25a Absatz 5 Satz 6 des Kreditwesengesetzes zu unterstützen.
 
-
-## § 16 – Offenlegung
+# § 16 – Offenlegung
 
 (1) Unbeschadet der Offenlegungspflichten gemäß Artikel 450 der Verordnung (EU) Nr. 575/2013 haben bedeutende Institute gemäß § 25n des Kreditwesengesetzes, unterteilt nach den jeweiligen Geschäftsbereichen des Instituts, folgende Informationen offenzulegen:
 
@@ -338,11 +318,9 @@ c) gegebenenfalls einer Darstellung der wesentlichen Veränderungen in der Verg�
 
 2. in einem Drittstaat ansässig ist und von diesem gleichwertige Angaben auf konsolidierter Basis veröffentlicht werden.
 
+# § 17 – (weggefallen)
 
-## § 17 – (weggefallen)
-
-
-## § 18 – Anforderungen an Vergütungssysteme von Risikoträgern und Risikoträgerinnen in bedeutenden Instituten; Risikoausrichtung der Vergütungssysteme
+# § 18 – Anforderungen an Vergütungssysteme von Risikoträgern und Risikoträgerinnen in bedeutenden Instituten; Risikoausrichtung der Vergütungssysteme
 
 (1) Vergütungssysteme für Risikoträger und Risikoträgerinnen bedeutender Institute gemäß § 25n des Kreditwesengesetzes müssen zusätzlich den besonderen Anforderungen der Absätze 3 bis 5 und der §§ 19 bis 22 entsprechen, wobei die §§ 20 und 22 nur auf ermittelte variable Vergütungen von mehr als 50 000 Euro anzuwenden sind.
 
@@ -360,8 +338,7 @@ c) gegebenenfalls einer Darstellung der wesentlichen Veränderungen in der Verg�
 
 (+++ § 18: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 19 – Ermittlung der variablen Vergütung (Ex-ante-Risikoadjustierung)
+# § 19 – Ermittlung der variablen Vergütung (Ex-ante-Risikoadjustierung)
 
 (1) Bei der Ermittlung der variablen Vergütung sind der Gesamterfolg des Instituts oder, falls erforderlich, der Gruppe sowie der Erfolgsbeitrag der Organisationseinheit und der individuelle Erfolgsbeitrag angemessen zu berücksichtigen. Dabei ist ein angemessener Betrachtungszeitraum zugrunde zu legen, der mindestens ein Jahr betragen muss (Bemessungszeitraum). Bei Risikoträgern oder Risikoträgerinnen, die Geschäftsleiter oder Geschäftsleiterinnen sind, beträgt der Bemessungszeitraum mindestens drei Jahre. Dabei kann der Zurückbehaltungszeitraum auf den Bemessungszeitraum angerechnet werden, soweit er die Untergrenze aus § 20 Absatz 2 überschreitet; Satz 2 bleibt unberührt.
 
@@ -371,8 +348,7 @@ c) gegebenenfalls einer Darstellung der wesentlichen Veränderungen in der Verg�
 
 (+++ § 19 Abs. 1: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 20 – Zurückbehaltung, Anspruchs- und Auszahlungsvoraussetzungen, Rückforderung (Ex-post-Risikoadjustierung)
+# § 20 – Zurückbehaltung, Anspruchs- und Auszahlungsvoraussetzungen, Rückforderung (Ex-post-Risikoadjustierung)
 
 (1) Die Auszahlung eines erheblichen Teils, mindestens aber von 40 Prozent, der variablen Vergütung eines Risikoträgers oder einer Risikoträgerin muss über einen Zurückbehaltungszeitraum von mindestens drei Jahren gestreckt werden. Abhängig von der Stellung, den Aufgaben und den Tätigkeiten eines Risikoträgers oder einer Risikoträgerin sowie von der Höhe der variablen Vergütung und der Risiken, die ein Risikoträger oder eine Risikoträgerin begründen kann, erhöhen sich die Untergrenze des Zurückbehaltungszeitraums auf bis zu fünf Jahre und die Untergrenze des zurückzubehaltenden Anteils der variablen Vergütung auf bis zu 60 Prozent. Bei der Festlegung des Zurückbehaltungszeitraums und des zurückzubehaltenden Anteils der variablen Vergütung gemäß den Sätzen 1 und 2 sind der Geschäftszyklus, Art und Risikogehalt der Geschäftsaktivitäten, die diesbezüglich erwarteten Schwankungen, die Einflussnahmemöglichkeit der Risikoträger und Risikoträgerinnen hierauf sowie gegebenenfalls eine gemäß § 25a Absatz 5 des Kreditwesengesetzes gebilligte höhere Obergrenze für die variable Vergütung im Verhältnis zur fixen Vergütung zu berücksichtigen.
 
@@ -400,15 +376,13 @@ Die in Satz 1 genannten Instrumente sind mit einer angemessenen Sperrfrist von i
 
 (+++ § 20: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 21 – Vergütungen im Zusammenhang mit Ausgleichszahlungen
+# § 21 – Vergütungen im Zusammenhang mit Ausgleichszahlungen
 
 Vergütungen im Zusammenhang mit Ausgleichszahlungen für entgangene Ansprüche aus vorherigen Beschäftigungsverhältnissen gelten als garantierte variable Vergütung gemäß § 5 Absatz 5 und müssen unter Einbeziehung der besonderen Anforderungen gemäß den §§ 20 und 22 mit den langfristigen Interessen des Instituts in Einklang stehen.
 
 (+++ § 21: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 22 – Zusätzliche Leistungen zur Altersversorgung
+# § 22 – Zusätzliche Leistungen zur Altersversorgung
 
 (1) Zusätzliche Leistungen zur Altersversorgung, die anlässlich einer nicht ruhestandsbedingten Beendigung des Arbeits-, Geschäftsbesorgungs- oder Dienstverhältnisses an Risikoträger oder Risikoträgerinnen gewährt werden, müssen abweichend von § 20 in voller Höhe aus Instrumenten gemäß § 20 Absatz 5 Satz 1 Nummer 1 und 2 bestehen und vom Institut mindestens fünf Jahre zurückbehalten werden. § 18 Absatz 5 und § 20 Absatz 4 Nummer 2 und 3 gelten entsprechend.
 
@@ -418,8 +392,7 @@ Vergütungen im Zusammenhang mit Ausgleichszahlungen für entgangene Ansprüche 
 
 (+++ § 22: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 23 – Vergütungsbeauftragte in bedeutenden Instituten
+# § 23 – Vergütungsbeauftragte in bedeutenden Instituten
 
 (1) Bedeutende Institute haben eine angemessene, dauerhafte und wirksame Kontrolle der Vergütung der Mitarbeiter und Mitarbeiterinnen sicherzustellen. Hierfür hat die Geschäftsleitung nach Anhörung des Verwaltungs- oder Aufsichtsorgans einen Vergütungsbeauftragten oder eine Vergütungsbeauftragte zu bestellen. Vergütungsbeauftragte müssen die für ihre Tätigkeit erforderlichen Kenntnisse und Erfahrungen besitzen, insbesondere im Bereich der Vergütungssysteme und des Risikocontrollings. Zum Erhalt der zur Erfüllung ihrer Aufgaben erforderlichen Fachkunde sind Vergütungsbeauftragten die Teilnahme an Fort- und Weiterbildungsveranstaltungen zu ermöglichen und deren Kosten vom Institut zu übernehmen.
 
@@ -439,8 +412,7 @@ Vergütungen im Zusammenhang mit Ausgleichszahlungen für entgangene Ansprüche 
 
 (6) Für Vergütungsbeauftragte ist ein hinreichend qualifizierter Vertreter oder eine hinreichend qualifizierte Vertreterin zu bestimmen, auf den oder die die Regelungen der Absätze 1 bis 5 und der §§ 24 und 25 entsprechend anzuwenden sind.
 
-
-## § 24 – Aufgaben der Vergütungsbeauftragten
+# § 24 – Aufgaben der Vergütungsbeauftragten
 
 (1) Vergütungsbeauftragte haben die Angemessenheit der Vergütungssysteme der Mitarbeiter und Mitarbeiterinnen, die keine Geschäftsleiter oder Geschäftsleiterinnen sind, ständig zu überwachen. Zu diesem Zweck sind sie mit den zur wirksamen Ausübung ihrer Tätigkeit erforderlichen Befugnissen auszustatten sowie in die laufenden Prozesse der Vergütungssysteme einzubinden. Dies gilt sowohl für die konzeptionelle Neu- und Weiterentwicklung als auch für die laufende Anwendung der Vergütungssysteme. Sie sind verpflichtet, sich mit dem oder der Vorsitzenden des Vergütungskontrollausschusses oder, falls kein Vergütungskontrollausschuss eingerichtet wurde, mit dem oder der Vorsitzenden des Verwaltungs- oder Aufsichtsorgans eng abzustimmen.
 
@@ -448,20 +420,17 @@ Vergütungen im Zusammenhang mit Ausgleichszahlungen für entgangene Ansprüche 
 
 (3) Vergütungsbeauftragte haben mindestens einmal jährlich einen Bericht über die Angemessenheit der Ausgestaltung der Vergütungssysteme der Mitarbeiter und Mitarbeiterinnen, die keine Geschäftsleiter und Geschäftsleiterinnen sind, (Vergütungskontrollbericht) zu verfassen und diesen gleichzeitig der Geschäftsleitung, dem Verwaltungs- oder Aufsichtsorgan und dem Vergütungskontrollausschuss, sofern ein solcher eingerichtet ist, vorzulegen. Das Verwaltungs- oder Aufsichtsorgan oder der Vergütungskontrollausschuss bestimmt unbeschadet des Satzes 1 über den Turnus für die Erstellung des Vergütungskontrollberichtes. Soweit erforderlich, haben Vergütungsbeauftragte auch anlassbezogen Bericht zu erstatten.
 
-
-## § 25 – Personal- und Sachausstattung der Vergütungsbeauftragten
+# § 25 – Personal- und Sachausstattung der Vergütungsbeauftragten
 
 (1) Die Institute müssen Vergütungsbeauftragten eine angemessene quantitative und qualitative Personal- und Sachausstattung zur Verfügung stellen. Vergütungsbeauftragten unterstellte Mitarbeiter und Mitarbeiterinnen müssen die für ihre Tätigkeit erforderlichen Kenntnisse und Erfahrungen besitzen, insbesondere im Bereich der Vergütungssysteme und des Risikocontrollings. Durch geeignete Maßnahmen ist zu gewährleisten, dass das Qualifikationsniveau dieser Mitarbeiter und Mitarbeiterinnen die Ausübung der Tätigkeit ermöglicht.
 
 (2) Die Vergütungsbeauftragten gemäß Absatz 1 unterstellten Mitarbeiter und Mitarbeiterinnen sind jeweils mit den zur wirksamen Ausübung ihrer Tätigkeit erforderlichen Befugnissen auszustatten.
 
-
-## § 26 – Vergütungsbeauftragte in den Organisationsrichtlinien
+# § 26 – Vergütungsbeauftragte in den Organisationsrichtlinien
 
 Die Aufgaben und die organisatorische Einbindung des Vergütungsbeauftragten sind in den Organisationsrichtlinien des Instituts gemäß § 11 darzustellen.
 
-
-## § 27 – Gruppenweite Regelung der Vergütung
+# § 27 – Gruppenweite Regelung der Vergütung
 
 (1) Das übergeordnete Unternehmen einer Gruppe hat eine gruppenweite Vergütungsstrategie festzulegen, die die Anforderungen des § 25a Absatz 5 des Kreditwesengesetzes und der §§ 4 bis 13 dieser Verordnung in Bezug auf alle Mitarbeiter und Mitarbeiterinnen der gruppenangehörigen Unternehmen umsetzt, die nicht vom Anwendungsbereich des § 37 des Kapitalanlagegesetzbuchs erfasst sind. In nachgeordneten Unternehmen gelten vorbehaltlich der Regelungen in Absatz 2 sowohl § 1 dieser Verordnung als auch im Hinblick auf die Anforderungen des § 25a Absatz 5 des Kreditwesengesetzes § 2 des Kreditwesengesetzes entsprechend. Das übergeordnete Unternehmen hat die Offenlegungsanforderungen gemäß § 16 auf konsolidierter Ebene zu erfüllen. Unterliegt ein nachgeordnetes Unternehmen mit Sitz im Ausland nach der dortigen Rechtsordnung strengeren Anforderungen als im Inland, hat das übergeordnete Unternehmen dies bei der Festlegung der gruppenweiten Vergütungsstrategie zu berücksichtigen und darauf hinzuwirken, dass das nachgeordnete Unternehmen die strengeren Anforderungen einhält.
 
@@ -473,8 +442,7 @@ Die Aufgaben und die organisatorische Einbindung des Vergütungsbeauftragten sin
 
 (+++ § 27: Zur erstmaligen Anwendung vgl. § 28 Abs. 1 +++)
 
-
-## § 28 – Übergangsregelungen
+# § 28 – Übergangsregelungen
 
 (1) § 5 Absatz 1 Nummer 2, 4 und 5 sowie die §§ 18, 19 Absatz 1 und die §§ 20 bis 22 und 27 in der ab dem 4. August 2017 geltenden Fassung sind erstmals mit Beginn des nach diesem Zeitpunkt liegenden Bemessungszeitraums anzuwenden.
 
@@ -482,7 +450,6 @@ Die Aufgaben und die organisatorische Einbindung des Vergütungsbeauftragten sin
 
 (3) Die Offenlegungspflichten nach § 16 in der am 4. August 2017 in Kraft getretenen Fassung sind erstmals für die nach diesem Zeitpunkt beginnenden Bemessungszeiträume zu erfüllen.
 
-
-## § 29 – Inkrafttreten, Außerkrafttreten
+# § 29 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt die Instituts-Vergütungsverordnung vom 6. Oktober 2010 (BGBl. I S. 1374) außer Kraft.

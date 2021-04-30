@@ -1,18 +1,13 @@
-# [GenDG] Gesetz über genetische Untersuchungen bei Menschen  (Gendiagnostikgesetz - GenDG)
-
-Ausfertigungsdatum: 31.07.2009
-
+% Gesetz über genetische Untersuchungen bei Menschen  (Gendiagnostikgesetz - GenDG)
+% Ausfertigungsdatum: 31.07.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Zweck dieses Gesetzes ist es, die Voraussetzungen für genetische Untersuchungen und im Rahmen genetischer Untersuchungen durchgeführte genetische Analysen sowie die Verwendung genetischer Proben und Daten zu bestimmen und eine Benachteiligung auf Grund genetischer Eigenschaften zu verhindern, um insbesondere die staatliche Verpflichtung zur Achtung und zum Schutz der Würde des Menschen und des Rechts auf informationelle Selbstbestimmung zu wahren.
 
-
-## § 2 – Anwendungsbereich
+# § 2 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für genetische Untersuchungen und im Rahmen genetischer Untersuchungen durchgeführte genetische Analysen bei geborenen Menschen sowie bei Embryonen und Föten während der Schwangerschaft und den Umgang mit dabei gewonnenen genetischen Proben und genetischen Daten bei genetischen Untersuchungen zu medizinischen Zwecken, zur Klärung der Abstammung sowie im Versicherungsbereich und im Arbeitsleben.
 
@@ -26,8 +21,7 @@ a) über das Strafverfahren, über die internationale Rechtshilfe in Strafsachen
 
 b) des Infektionsschutzgesetzes und der auf Grund des Infektionsschutzgesetzes erlassenen Rechtsverordnungen.
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes
 
@@ -95,15 +89,13 @@ g) Bewerberinnen und Bewerber für ein Beschäftigungsverhältnis sowie Personen
 
 13. sind Arbeitgeber (Arbeitgeberinnen und Arbeitgeber) natürliche oder juristische Personen oder rechtsfähige Personengesellschaften, die Personen nach Nummer 12 beschäftigen, bei in Heimarbeit Beschäftigten und den ihnen Gleichgestellten die Auftraggeber oder Zwischenmeister oder bei Beschäftigten, die einem Dritten zur Arbeitsleistung überlassen werden, auch die Dritten.
 
-
-## § 4 – Benachteiligungsverbot
+# § 4 – Benachteiligungsverbot
 
 (1) Niemand darf wegen seiner oder der genetischen Eigenschaften einer genetisch verwandten Person, wegen der Vornahme oder Nichtvornahme einer genetischen Untersuchung oder Analyse bei sich oder einer genetisch verwandten Person oder wegen des Ergebnisses einer solchen Untersuchung oder Analyse benachteiligt werden.
 
 (2) Die Geltung von Benachteiligungsverboten oder Geboten der Gleichbehandlung nach anderen Vorschriften und Grundsätzen wird durch dieses Gesetz nicht berührt. Dies gilt auch für öffentlich-rechtliche Vorschriften, die dem Schutz bestimmter Personengruppen dienen.
 
-
-## § 5 – Qualitätssicherung genetischer Analysen
+# § 5 – Qualitätssicherung genetischer Analysen
 
 (1) Genetische Analysen im Rahmen genetischer Untersuchungen zur Klärung der Abstammung dürfen nur von Einrichtungen vorgenommen werden, die eine Akkreditierung für die Durchführung der genetischen Analysen durch eine hierfür allgemein anerkannte Stelle erhalten haben. Für eine Akkreditierung muss die Einrichtung insbesondere
 
@@ -119,13 +111,11 @@ Die Einrichtungen werden für die im Akkreditierungsantrag benannten Analysearte
 
 (2) Einrichtungen oder Personen, die genetische Analysen zu medizinischen Zwecken im Rahmen genetischer Untersuchungen vornehmen, müssen die in Absatz 1 Satz 2 Nr. 1 bis 4 genannten Anforderungen erfüllen.
 
-
-## § 6 – Abgabe genetischer Untersuchungsmittel
+# § 6 – Abgabe genetischer Untersuchungsmittel
 
 Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung des Bundesrates regeln, dass bestimmte, in der Rechtsverordnung zu bezeichnende genetische Untersuchungsmittel, die dazu dienen, genetische Untersuchungen vorzunehmen, zur Endanwendung nur an Personen und Einrichtungen abgegeben werden dürfen, die zu diesen Untersuchungen oder zu genetischen Analysen im Rahmen dieser Untersuchungen nach Maßgabe dieses Gesetzes berechtigt sind.
 
-
-## § 7 – Arztvorbehalt
+# § 7 – Arztvorbehalt
 
 (1) Eine diagnostische genetische Untersuchung darf nur durch Ärztinnen oder Ärzte und eine prädiktive genetische Untersuchung nur durch Fachärztinnen oder Fachärzte für Humangenetik oder andere Ärztinnen oder Ärzte, die sich beim Erwerb einer Facharzt-, Schwerpunkt- oder Zusatzbezeichnung für genetische Untersuchungen im Rahmen ihres Fachgebietes qualifiziert haben, vorgenommen werden.
 
@@ -133,15 +123,13 @@ Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung
 
 (3) Eine genetische Beratung nach § 10 darf nur durch in Absatz 1 genannte Ärztinnen oder Ärzte, die sich für genetische Beratungen qualifiziert haben, vorgenommen werden.
 
-
-## § 8 – Einwilligung
+# § 8 – Einwilligung
 
 (1) Eine genetische Untersuchung oder Analyse darf nur vorgenommen und eine dafür erforderliche genetische Probe nur gewonnen werden, wenn die betroffene Person in die Untersuchung und die Gewinnung der dafür erforderlichen genetischen Probe ausdrücklich und schriftlich gegenüber der verantwortlichen ärztlichen Person eingewilligt hat. Die Einwilligung nach Satz 1 umfasst sowohl die Entscheidung über den Umfang der genetischen Untersuchung als auch die Entscheidung, ob und inwieweit das Untersuchungsergebnis zur Kenntnis zu geben oder zu vernichten ist. Die Einwilligung nach Satz 1 umfasst auch die Einwilligung in die Verarbeitung genetischer Daten. Eine nach § 7 Abs. 2 beauftragte Person oder Einrichtung darf die genetische Analyse nur vornehmen, wenn ihr ein Nachweis der Einwilligung vorliegt.
 
 (2) Die betroffene Person kann ihre Einwilligung jederzeit mit Wirkung für die Zukunft schriftlich oder mündlich gegenüber der verantwortlichen ärztlichen Person widerrufen. Erfolgt der Widerruf mündlich, ist dieser unverzüglich zu dokumentieren. Die verantwortliche ärztliche Person hat der nach § 7 Abs. 2 beauftragten Person oder Einrichtung unverzüglich einen Nachweis des Widerrufs zu übermitteln.
 
-
-## § 9 – Aufklärung
+# § 9 – Aufklärung
 
 (1) Vor Einholung der Einwilligung hat die verantwortliche ärztliche Person die betroffene Person über Wesen, Bedeutung und Tragweite der genetischen Untersuchung aufzuklären. Der betroffenen Person ist nach der Aufklärung eine angemessene Bedenkzeit bis zur Entscheidung über die Einwilligung einzuräumen.
 
@@ -161,8 +149,7 @@ Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung
 
 (3) Die verantwortliche ärztliche Person hat den Inhalt der Aufklärung vor der genetischen Untersuchung zu dokumentieren.
 
-
-## § 10 – Genetische Beratung
+# § 10 – Genetische Beratung
 
 (1) Bei einer diagnostischen genetischen Untersuchung soll die verantwortliche ärztliche Person nach Vorliegen des Untersuchungsergebnisses der betroffenen Person eine genetische Beratung durch eine Ärztin oder einen Arzt, die oder der die Voraussetzungen nach § 7 Abs. 1 und 3 erfüllt, anbieten. Wird bei der betroffenen Person eine genetische Eigenschaft mit Bedeutung für eine Erkrankung oder gesundheitliche Störung festgestellt, die nach dem allgemein anerkannten Stand der Wissenschaft und Technik nicht behandelbar ist, gilt Satz 1 mit der Maßgabe, dass die verantwortliche ärztliche Person die Beratung anzubieten hat.
 
@@ -172,8 +159,7 @@ Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung
 
 (4) Die verantwortliche ärztliche Person oder die Ärztin oder der Arzt, die oder der die Beratung angeboten oder vorgenommen hat, hat den Inhalt der Beratung zu dokumentieren.
 
-
-## § 11 – Mitteilung der Ergebnisse genetischer Untersuchungen und Analysen
+# § 11 – Mitteilung der Ergebnisse genetischer Untersuchungen und Analysen
 
 (1) Das Ergebnis einer genetischen Untersuchung darf vorbehaltlich der Absätze 2 und 3 nur der betroffenen Person und nur durch die verantwortliche ärztliche Person oder die Ärztin oder den Arzt, die oder der die genetische Beratung durchgeführt hat, mitgeteilt werden.
 
@@ -183,8 +169,7 @@ Das Bundesministerium für Gesundheit kann durch Rechtsverordnung mit Zustimmung
 
 (4) Das Ergebnis der genetischen Untersuchung darf der betroffenen Person nicht mitgeteilt werden, soweit diese Person nach § 8 Abs. 1 Satz 1 in Verbindung mit Satz 2 entschieden hat, dass das Ergebnis der genetischen Untersuchung zu vernichten ist oder diese Person nach § 8 Abs. 2 ihre Einwilligung widerrufen hat.
 
-
-## § 12 – Aufbewahrung und Vernichtung der Ergebnisse genetischer Untersuchungen und Analysen
+# § 12 – Aufbewahrung und Vernichtung der Ergebnisse genetischer Untersuchungen und Analysen
 
 (1) Die Ergebnisse genetischer Untersuchungen und Analysen hat die verantwortliche ärztliche Person zehn Jahre in den Untersuchungsunterlagen über die betroffene Person aufzubewahren. Die verantwortliche ärztliche Person hat die Ergebnisse genetischer Untersuchungen und Analysen unverzüglich in den Untersuchungsunterlagen über die betroffene Person zu vernichten,
 
@@ -196,8 +181,7 @@ Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung schutzwürdige 
 
 (2) Absatz 1 gilt für die Aufbewahrung, Vernichtung und Einschränkung der Verarbeitung des Ergebnisses einer genetischen Analyse durch die nach § 7 Abs. 2 beauftragte Person oder Einrichtung entsprechend.
 
-
-## § 13 – Verwendung und Vernichtung genetischer Proben
+# § 13 – Verwendung und Vernichtung genetischer Proben
 
 (1) Eine genetische Probe darf nur für die Zwecke verwendet werden, für die sie gewonnen worden ist. Die verantwortliche ärztliche Person oder die nach § 7 Abs. 2 beauftragte Person oder Einrichtung hat die genetische Probe unverzüglich zu vernichten, sobald sie für diese Zwecke nicht mehr benötigt wird oder die betroffene Person ihre Einwilligung nach § 8 Abs. 2 widerrufen hat.
 
@@ -205,8 +189,7 @@ Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung schutzwürdige 
 
 (3) Wer eine genetische Probe verwendet, hat die erforderlichen technischen und organisatorischen Maßnahmen zu treffen, um eine unzulässige Verwendung der Probe auszuschließen.
 
-
-## § 14 – Genetische Untersuchungen bei nicht einwilligungsfähigen Personen
+# § 14 – Genetische Untersuchungen bei nicht einwilligungsfähigen Personen
 
 (1) Bei einer Person, die nicht in der Lage ist, Wesen, Bedeutung und Tragweite der genetischen Untersuchung zu erkennen und ihren Willen hiernach auszurichten, dürfen eine genetische Untersuchung zu medizinischen Zwecken sowie die Gewinnung der dafür erforderlichen genetischen Probe nur vorgenommen werden, wenn
 
@@ -230,8 +213,7 @@ Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung schutzwürdige 
 
 (3) Es dürfen nur die für den jeweiligen Untersuchungszweck erforderlichen Untersuchungen der genetischen Probe vorgenommen werden. Andere Feststellungen dürfen nicht getroffen werden. Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden Anwendung.
 
-
-## § 15 – Vorgeburtliche genetische Untersuchungen
+# § 15 – Vorgeburtliche genetische Untersuchungen
 
 (1) Eine genetische Untersuchung darf vorgeburtlich nur zu medizinischen Zwecken und nur vorgenommen werden, soweit die Untersuchung auf bestimmte genetische Eigenschaften des Embryos oder Fötus abzielt, die nach dem allgemein anerkannten Stand der Wissenschaft und Technik seine Gesundheit während der Schwangerschaft oder nach der Geburt beeinträchtigen, oder wenn eine Behandlung des Embryos oder Fötus mit einem Arzneimittel vorgesehen ist, dessen Wirkung durch bestimmte genetische Eigenschaften beeinflusst wird und die Schwangere nach § 9 aufgeklärt worden ist und diese nach § 8 Abs. 1 eingewilligt hat. Wird anlässlich einer Untersuchung nach Satz 1 oder einer sonstigen vorgeburtlichen Untersuchung das Geschlecht eines Embryos oder Fötus festgestellt, kann dies der Schwangeren mit ihrer Einwilligung nach Ablauf der zwölften Schwangerschaftswoche mitgeteilt werden.
 
@@ -249,15 +231,13 @@ Soweit Grund zu der Annahme besteht, dass durch eine Vernichtung schutzwürdige 
 
 Die §§ 1627 und 1901 Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden Anwendung.
 
-
-## § 16 – Genetische Reihenuntersuchungen
+# § 16 – Genetische Reihenuntersuchungen
 
 (1) Eine genetische Reihenuntersuchung darf nur vorgenommen werden, wenn mit der Untersuchung geklärt werden soll, ob die betroffenen Personen genetische Eigenschaften mit Bedeutung für eine Erkrankung oder gesundheitliche Störung haben, die nach dem allgemein anerkannten Stand der Wissenschaft und Technik vermeidbar oder behandelbar ist oder der vorgebeugt werden kann.
 
 (2) Mit einer genetischen Reihenuntersuchung nach Absatz 1 darf nur begonnen werden, wenn die Gendiagnostik-Kommission die Untersuchung in einer schriftlichen Stellungnahme bewertet hat. Die Gendiagnostik-Kommission prüft und bewertet anhand der ihr vorgelegten Unterlagen, ob die Voraussetzungen nach Absatz 1 vorliegen, das Anwendungskonzept für die Durchführung der Untersuchung dem allgemein anerkannten Stand der Wissenschaft und Technik entspricht und die Untersuchung in diesem Sinne ethisch vertretbar ist.
 
-
-## § 17 – Genetische Untersuchungen zur Klärung der Abstammung
+# § 17 – Genetische Untersuchungen zur Klärung der Abstammung
 
 (1) Eine genetische Untersuchung zur Klärung der Abstammung darf nur vorgenommen werden, wenn die Person, deren genetische Probe untersucht werden soll, zuvor über die Untersuchung aufgeklärt worden ist und in die Untersuchung und die Gewinnung der dafür erforderlichen genetischen Probe eingewilligt hat; für die Einwilligung gilt § 8 entsprechend. Die Aufklärung muss durch die für die Vornahme der Untersuchung verantwortliche Person erfolgen; für die Aufklärung gilt § 9 Abs. 2 Nr. 1 erster Halbsatz, Nr. 2 bis 5 und Abs. 3 entsprechend. Es dürfen nur die zur Klärung der Abstammung erforderlichen Untersuchungen an der genetischen Probe vorgenommen werden. Feststellungen über andere Tatsachen dürfen nicht getroffen werden.
 
@@ -291,8 +271,7 @@ Für die Aufklärung und die Einwilligung des Vertreters gelten Absatz 1 Satz 1 
 
 Auf die Aufklärung und die Einwilligung des Vertreters nach Absatz 3 Satz 1 Nr. 2 findet Absatz 3 Satz 2 in Verbindung mit Absatz 1 Satz 1 und 2 keine Anwendung, soweit er auf die Entscheidung, ob und inwieweit das Untersuchungsergebnis zur Kenntnis zu geben oder zu vernichten ist, nach § 8 Abs. 1 Satz 2 und auf § 9 Abs. 2 Nr. 2 und 5 verweist. Die Aufklärung nach den Absätzen 1 und 3 kann abweichend von Absatz 1 Satz 2 erster Halbsatz im Verfahren vor einer Auslandsvertretung von einer anderen als der für die Untersuchung verantwortlichen Person vorgenommen werden, die nicht die Anforderungen nach Absatz 4 erfüllen muss. Ergibt sich der Verdacht einer Straftat, dürfen abweichend von Absatz 5 das Ergebnis der genetischen Untersuchung und die genetische Probe auch nach einem Widerruf der Einwilligung zum Zwecke der Strafverfolgung übermittelt werden; § 11 Abs. 4, § 12 Abs. 1 Satz 4 und § 13 Abs. 1 finden in diesem Fall keine Anwendung.
 
-
-## § 18 – Genetische Untersuchungen und Analysen im Zusammenhang mit dem Abschluss eines Versicherungsvertrages
+# § 18 – Genetische Untersuchungen und Analysen im Zusammenhang mit dem Abschluss eines Versicherungsvertrages
 
 (1) Der Versicherer darf von Versicherten weder vor noch nach Abschluss des Versicherungsvertrages
 
@@ -304,8 +283,7 @@ Für die Lebensversicherung, die Berufsunfähigkeitsversicherung, die Erwerbsunf
 
 (2) Vorerkrankungen und Erkrankungen sind anzuzeigen; insoweit sind die §§ 19 bis 22 und 47 des Versicherungsvertragsgesetzes anzuwenden.
 
-
-## § 19 – Genetische Untersuchungen und Analysen vor und nach Begründung des Beschäftigungsverhältnisses
+# § 19 – Genetische Untersuchungen und Analysen vor und nach Begründung des Beschäftigungsverhältnisses
 
 Der Arbeitgeber darf von Beschäftigten weder vor noch nach Begründung des Beschäftigungsverhältnisses
 
@@ -313,8 +291,7 @@ Der Arbeitgeber darf von Beschäftigten weder vor noch nach Begründung des Besc
 
 2. die Mitteilung von Ergebnissen bereits vorgenommener genetischer Untersuchungen oder Analysen verlangen, solche Ergebnisse entgegennehmen oder verwenden.
 
-
-## § 20 – Genetische Untersuchungen und Analysen zum Arbeitsschutz
+# § 20 – Genetische Untersuchungen und Analysen zum Arbeitsschutz
 
 (1) Im Rahmen arbeitsmedizinischer Vorsorgeuntersuchungen dürfen weder
 
@@ -336,15 +313,13 @@ Absatz 2 Satz 2 gilt entsprechend.
 
 (4) Die §§ 7 bis 16 gelten entsprechend.
 
-
-## § 21 – Arbeitsrechtliches Benachteiligungsverbot
+# § 21 – Arbeitsrechtliches Benachteiligungsverbot
 
 (1) Der Arbeitgeber darf Beschäftigte bei einer Vereinbarung oder Maßnahme, insbesondere bei der Begründung des Beschäftigungsverhältnisses, beim beruflichen Aufstieg, bei einer Weisung oder der Beendigung des Beschäftigungsverhältnisses nicht wegen ihrer oder der genetischen Eigenschaften einer genetisch verwandten Person benachteiligen. Dies gilt auch, wenn sich Beschäftigte weigern, genetische Untersuchungen oder Analysen bei sich vornehmen zu lassen oder die Ergebnisse bereits vorgenommener genetischer Untersuchungen oder Analysen zu offenbaren.
 
 (2) Die §§ 15 und 22 des Allgemeinen Gleichbehandlungsgesetzes gelten entsprechend.
 
-
-## § 22 – Öffentlich-rechtliche Dienstverhältnisse
+# § 22 – Öffentlich-rechtliche Dienstverhältnisse
 
 Es gelten entsprechend
 
@@ -354,8 +329,7 @@ Es gelten entsprechend
 
 3. für den Bund und sonstige bundesunmittelbare Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts, die Dienstherrnfähigkeit besitzen, die für Arbeitgeber geltenden Vorschriften.
 
-
-## § 23 – Richtlinien
+# § 23 – Richtlinien
 
 (1) Beim Robert Koch-Institut wird eine interdisziplinär zusammengesetzte, unabhängige Gendiagnostik-Kommission eingerichtet, die sich aus 13 Sachverständigen aus den Fachrichtungen Medizin und Biologie, zwei Sachverständigen aus den Fachrichtungen Ethik und Recht sowie drei Vertretern der für die Wahrnehmung der Interessen der Patientinnen und Patienten, der Verbraucherinnen und Verbraucher und der Selbsthilfe behinderter Menschen auf Bundesebene maßgeblichen Organisationen zusammensetzt. Die Mitglieder und stellvertretenden Mitglieder der Gendiagnostik-Kommission werden vom Bundesministerium für Gesundheit für die Dauer von drei Jahren berufen. Die Kommission gibt sich eine Geschäftsordnung, in der das Nähere über das Verfahren der Gendiagnostik-Kommission und die Heranziehung externer Sachverständiger festgelegt wird; die Geschäftsordnung bedarf der Zustimmung des Bundesministeriums für Gesundheit. Vertreter des Bundesministeriums für Gesundheit sowie weitere Vertreter von Bundes- und Landesbehörden können mit beratender Stimme an den Sitzungen teilnehmen.
 
@@ -393,15 +367,13 @@ b) der auf dem Gebiet der Abstammungsbegutachtung erfahrenen ärztlichen und nic
 
 (5) Die Gendiagnostik-Kommission kann auf Anfrage von Personen oder Einrichtungen, die genetische Untersuchungen oder Analysen vornehmen, gutachtliche Stellungnahmen zu Einzelfragen der Auslegung und Anwendung ihrer Richtlinien abgeben.
 
-
-## § 24 – Gebühren und Auslagen
+# § 24 – Gebühren und Auslagen
 
 (1) Das Robert Koch-Institut erhebt für Stellungnahmen der Gendiagnostik-Kommission nach § 16 Abs. 2 und § 23 Abs. 5 zur Deckung des Verwaltungsaufwandes Gebühren und Auslagen.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die Höhe der Gebühren zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. In der Rechtsverordnung können Ermäßigungen und Befreiungen von Gebühren und Auslagen zugelassen und die Erstattung von Auslagen auch abweichend vom Bundesgebührengesetz geregelt werden.
 
-
-## § 25 – Strafvorschriften
+# § 25 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -419,18 +391,15 @@ b) der auf dem Gebiet der Abstammungsbegutachtung erfahrenen ärztlichen und nic
 
 (3) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt ist in den Fällen des Absatzes 1 Nr. 1 in Verbindung mit § 15 Abs. 1 Satz 1 und des Absatzes 1 Nr. 3 die Schwangere.
 
-
-## § 26 – Bußgeldvorschriften
+# § 26 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
 
 1. entgegen § 7 Absatz 1 oder 2, auch in Verbindung mit § 17 Absatz 4 Satz 2, oder entgegen § 17 Absatz 4 Satz 1 oder § 20 Absatz 1 Nummer 1 eine genetische Untersuchung oder Analyse vornimmt,
 
-1a.  
-entgegen § 13 Absatz 1 Satz 1 oder Absatz 2, jeweils auch in Verbindung mit § 17 Absatz 5, eine genetische Probe verwendet,
+1a. entgegen § 13 Absatz 1 Satz 1 oder Absatz 2, jeweils auch in Verbindung mit § 17 Absatz 5, eine genetische Probe verwendet,
 
-1b.  
-entgegen § 13 Absatz 1 Satz 2, auch in Verbindung mit § 17 Absatz 5, eine genetische Probe nicht oder nicht rechtzeitig vernichtet,
+1b. entgegen § 13 Absatz 1 Satz 2, auch in Verbindung mit § 17 Absatz 5, eine genetische Probe nicht oder nicht rechtzeitig vernichtet,
 
 2. entgegen § 16 Absatz 2 Satz 1 mit einer genetischen Reihenuntersuchung beginnt oder
 
@@ -440,8 +409,7 @@ entgegen § 13 Absatz 1 Satz 2, auch in Verbindung mit § 17 Absatz 5, eine gene
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden, soweit die Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung unmittelbar gilt.
 
-
-## § 27 – Inkrafttreten
+# § 27 – Inkrafttreten
 
 (1) Dieses Gesetz tritt am 1. Februar 2010 in Kraft, soweit in den folgenden Absätzen nichts Abweichendes bestimmt ist.
 

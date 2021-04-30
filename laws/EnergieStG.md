@@ -1,13 +1,9 @@
-# [EnergieStG] Energiesteuergesetz  (EnergieStG)
-
-Ausfertigungsdatum: 15.07.2006
-
+% Energiesteuergesetz  (EnergieStG)
+% Ausfertigungsdatum: 15.07.2006
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Steuergebiet, Energieerzeugnisse
+# § 1 – Steuergebiet, Energieerzeugnisse
 
 (1) Energieerzeugnisse unterliegen im Steuergebiet der Energiesteuer. Steuergebiet im Sinne dieses Gesetzes ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet von Büsingen und ohne die Insel Helgoland. Die Energiesteuer ist eine Verbrauchsteuer im Sinne der Abgabenordnung.
 
@@ -43,8 +39,7 @@ Satz 1 gilt nicht für Waren, die sich in einem Steueraussetzungsverfahren nach 
 
 (4) bis (11) (weggefallen)
 
-
-## § 1a – Sonstige Begriffsbestimmungen
+# § 1a – Sonstige Begriffsbestimmungen
 
 Im Sinn dieses Gesetzes ist oder sind:
 
@@ -78,8 +73,7 @@ b) beim Eingang von Energieerzeugnissen aus Drittgebieten der Ort, an dem die En
 
 13. Kohle: Waren der Positionen 2701, 2702 und 2704 der Kombinierten Nomenklatur;
 
-13a.  
-Biokraft- und Bioheizstoffe: Energieerzeugnisse ausschließlich aus Biomasse im Sinn der Biomasseverordnung. Energieerzeugnisse, die anteilig aus Biomasse hergestellt werden, gelten in Höhe dieses Anteils als Biokraft- oder Bioheizstoff. Fettsäuremethylester (Biodiesel) sind abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn sie aus biogenen Ölen oder Fetten gewonnen werden, die selbst Biomasse im Sinn der Biomasseverordnung sind und wenn ihre Eigenschaften mindestens den Anforderungen an Biodiesel nach § 5 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die durch Artikel 1 der Verordnung vom 1. Dezember 2014 (BGBl. I S. 1890) geändert worden ist, in der jeweils geltenden Fassung entsprechen. Biodiesel ist unter diesen Voraussetzungen in vollem Umfang als Biokraftstoff zu behandeln. Bioethanol ist abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn es sich um Ethylalkohol ex Unterposition 2207 10 00 der Kombinierten Nomenklatur handelt. Im Fall von Bioethanol, das fossilem Ottokraftstoff beigemischt wird, müssen die Eigenschaften des Bioethanols außerdem mindestens den Anforderungen der DIN EN 15376, Ausgabe März 2008, Ausgabe November 2009 oder Ausgabe April 2011, entsprechen. Im Fall von Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, müssen die Eigenschaften des Ethanolkraftstoffs (E85) außerdem mindestens den Anforderungen an Ethanolkraftstoff (E85) nach § 6 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus Bioethanol hergestellt werden, gelten für den Bioethanol-Anteil die Sätze 5 und 6 entsprechend. Pflanzenöl ist abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn seine Eigenschaften mindestens den Anforderungen an Pflanzenölkraftstoff nach § 9 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen. Hydrierte biogene Öle sind abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn sie aus biogenen Ölen oder Fetten gewonnen werden, die selbst Biomasse im Sinn der Biomasseverordnung sind, und wenn die Hydrierung nicht in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen erfolgt ist. Biomethan ist abweichend von Satz 1 nur dann Biokraftstoff, wenn es den Anforderungen an Erdgas nach § 8 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entspricht. Für Biokraftstoffe gilt § 11 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechend.
+13a. Biokraft- und Bioheizstoffe: Energieerzeugnisse ausschließlich aus Biomasse im Sinn der Biomasseverordnung. Energieerzeugnisse, die anteilig aus Biomasse hergestellt werden, gelten in Höhe dieses Anteils als Biokraft- oder Bioheizstoff. Fettsäuremethylester (Biodiesel) sind abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn sie aus biogenen Ölen oder Fetten gewonnen werden, die selbst Biomasse im Sinn der Biomasseverordnung sind und wenn ihre Eigenschaften mindestens den Anforderungen an Biodiesel nach § 5 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849), die durch Artikel 1 der Verordnung vom 1. Dezember 2014 (BGBl. I S. 1890) geändert worden ist, in der jeweils geltenden Fassung entsprechen. Biodiesel ist unter diesen Voraussetzungen in vollem Umfang als Biokraftstoff zu behandeln. Bioethanol ist abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn es sich um Ethylalkohol ex Unterposition 2207 10 00 der Kombinierten Nomenklatur handelt. Im Fall von Bioethanol, das fossilem Ottokraftstoff beigemischt wird, müssen die Eigenschaften des Bioethanols außerdem mindestens den Anforderungen der DIN EN 15376, Ausgabe März 2008, Ausgabe November 2009 oder Ausgabe April 2011, entsprechen. Im Fall von Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, müssen die Eigenschaften des Ethanolkraftstoffs (E85) außerdem mindestens den Anforderungen an Ethanolkraftstoff (E85) nach § 6 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus Bioethanol hergestellt werden, gelten für den Bioethanol-Anteil die Sätze 5 und 6 entsprechend. Pflanzenöl ist abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn seine Eigenschaften mindestens den Anforderungen an Pflanzenölkraftstoff nach § 9 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechen. Hydrierte biogene Öle sind abweichend von den Sätzen 1 und 2 nur dann Biokraftstoff, wenn sie aus biogenen Ölen oder Fetten gewonnen werden, die selbst Biomasse im Sinn der Biomasseverordnung sind, und wenn die Hydrierung nicht in einem raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen erfolgt ist. Biomethan ist abweichend von Satz 1 nur dann Biokraftstoff, wenn es den Anforderungen an Erdgas nach § 8 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entspricht. Für Biokraftstoffe gilt § 11 der Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und Brennstoffen entsprechend.
 
 14. Erdgas: Waren der Unterpositionen 2711 11 (verflüssigtes Erdgas) und 2711 21 der Kombinierten Nomenklatur und gasförmige Energieerzeugnisse, die beim Kohleabbau aufgefangen werden, ohne gasförmige Biokraft- und Bioheizstoffe;
 
@@ -97,8 +91,7 @@ Biokraft- und Bioheizstoffe: Energieerzeugnisse ausschließlich aus Biomasse im 
 
 DIN- und DIN-EN-Normen, auf die in diesem Gesetz verwiesen wird, sind im Beuth Verlag, Berlin, erschienen und beim Deutschen Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
-
-## § 2 – Steuertarif
+# § 2 – Steuertarif
 
 (1) Die Steuer beträgt  
   
@@ -159,8 +152,7 @@ wenn sie zum Verheizen oder zum Antrieb von Gasturbinen und Verbrennungsmotoren 
 
 (7) (weggefallen)
 
-
-## § 3 – Begünstigte Anlagen, Ortsfestigkeit und Nutzungsgrad
+# § 3 – Begünstigte Anlagen, Ortsfestigkeit und Nutzungsgrad
 
 (1) Begünstigte Anlagen sind ortsfeste Anlagen,
 
@@ -196,8 +188,7 @@ Abluftbehandlungsanlagen im Sinn des Satzes 2 Nummer 3 sind insbesondere Rauchga
 
 (6) Die gemäß § 2 Absatz 3 Satz 1 festgelegten Steuersätze für die Verwendung von Energieerzeugnissen als Kraftstoff in begünstigten Anlagen werden angewendet nach Maßgabe und bis zum Auslaufen der erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Allgemeine Gruppenfreistellungsverordnung; ABl. L 187 vom 26.6.2014, S. 1; L 283 vom 27.9.2014, S. 65) in der jeweils geltenden Fassung. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 3a – Sonstige begünstigte Anlagen
+# § 3a – Sonstige begünstigte Anlagen
 
 (1) Sonstige begünstigte Anlagen sind Arbeitsmaschinen und Fahrzeuge, die ausschließlich dem Güterumschlag in Seehäfen dienen.
 
@@ -205,8 +196,7 @@ Abluftbehandlungsanlagen im Sinn des Satzes 2 Nummer 3 sind insbesondere Rauchga
 
 (3) Die gemäß § 2 Absatz 3 Satz 1 festgelegten Steuersätze für die Verwendung von Energieerzeugnissen als Kraftstoff in sonstigen begünstigten Anlagen werden angewendet nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 3b – Staatliche Beihilfen
+# § 3b – Staatliche Beihilfen
 
 (1) Die Inanspruchnahme oder die Beantragung einer Steuerbefreiung, Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als staatliche Beihilfe anzusehen ist, ist nicht zulässig, solange derjenige, der die Energieerzeugnisse verwendet, zu einer Rückzahlung von Beihilfen auf Grund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser Rückforderungsanordnung nicht nachgekommen ist. Im Falle einer Steuerbefreiung oder der Inanspruchnahme einer Steuerermäßigung hat der Verwender dem zuständigen Hauptzollamt unverzüglich mitzuteilen, wenn er einer Rückforderungsanordnung im Sinn des Satzes 1 nicht nachkommt. Im Falle eines Antrages auf Steuerentlastung ist bei Antragstellung zu versichern, dass keine offenen Ansprüche nach Satz 1 bestehen.
 
@@ -220,8 +210,7 @@ Im Falle einer Steuerbefreiung oder Inanspruchnahme einer Steuerermäßigung hat
 
 (3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen oder von ihr zu genehmigen sind, sind in diesem Gesetz die §§ 3, 3a, 28 Absatz 1 Satz 1 Nummer 1 und 2 sowie die §§ 47a, 53a, 54, 55, 56 und 57.
 
-
-## § 4 – Anwendungsbereich
+# § 4 – Anwendungsbereich
 
 Die folgenden Energieerzeugnisse unterliegen dem Steueraussetzungsverfahren (§ 5):
 
@@ -251,8 +240,7 @@ c) 3826 00 10 und 3826 00 90
 
 der Kombinierten Nomenklatur, die dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden.
 
-
-## § 5 – Steueraussetzungsverfahren
+# § 5 – Steueraussetzungsverfahren
 
 (1) Die Steuer ist ausgesetzt (Steueraussetzungsverfahren) für Energieerzeugnisse im Sinn des § 4, die
 
@@ -268,8 +256,7 @@ der Kombinierten Nomenklatur, die dazu bestimmt sind, als Kraft- oder Heizstoff 
 
 (3) Steuerlagerinhaber im Sinn dieses Gesetzes sind Personen, denen die Erlaubnis erteilt worden ist, Energieerzeugnisse im Sinn des § 4 unter Steueraussetzung herzustellen (§ 6 Absatz 3) oder unter Steueraussetzung zu lagern (§ 7 Absatz 2).
 
-
-## § 6 – Herstellungsbetriebe für Energieerzeugnisse
+# § 6 – Herstellungsbetriebe für Energieerzeugnisse
 
 (1) Herstellungsbetriebe im Sinne dieses Gesetzes sind vorbehaltlich der Absätze 2 und 3 Betriebe, in denen Energieerzeugnisse im Sinn des § 4 hergestellt werden. Herstellungshandlungen sind das Gewinnen oder Bearbeiten und in den Fällen von § 4 Nummer 1, 7 und 9 das Bestimmen der Waren zur Verwendung als Kraft- oder Heizstoff.
 
@@ -301,8 +288,7 @@ b) beim Reinigen von Putzstoffen, Arbeitskleidung oder Altpapier,
 
 (4) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen nach Absatz 3 Satz 2 nicht mehr erfüllt ist oder eine angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann widerrufen werden, wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
-
-## § 7 – Lager für Energieerzeugnisse
+# § 7 – Lager für Energieerzeugnisse
 
 (1) Lager für Energieerzeugnisse im Sinne dieses Gesetzes sind vorbehaltlich Absatz 2 Betriebe, in denen Energieerzeugnisse im Sinn des § 4 unter Steueraussetzung gelagert werden. Das Lager muss dem Großhandel, dem Großhandelsvertrieb durch Hersteller, dem Mischen von Energieerzeugnissen, der Versorgung von Verwendern mit steuerfreien Energieerzeugnissen oder der Abgabe von Energieerzeugnissen nach § 2 Abs. 1 Nr. 8 Buchstabe a, Abs. 2 Nr. 2 oder Abs. 3 dienen.
 
@@ -326,8 +312,7 @@ sofern die dafür eingesetzten Fahrzeuge oder Anhänger nicht über eine Zulassu
 
 (7) Auf Antrag des Erdölbevorratungsverbandes nach § 2 Abs. 1 des Erdölbevorratungsgesetzes in der Fassung der Bekanntmachung vom 6. April 1998 (BGBl. I S. 679), zuletzt geändert durch Artikel 129 der Verordnung vom 25. November 2003 (BGBl. I S. 2304), in der jeweils geltenden Fassung ist zuzulassen, dass Energieerzeugnisse zur Erfüllung der Verbandszwecke unter Steueraussetzung gelagert werden.
 
-
-## § 8 – Entstehung der Steuer bei Entnahme in den steuerrechtlich freien Verkehr
+# § 8 – Entstehung der Steuer bei Entnahme in den steuerrechtlich freien Verkehr
 
 (1) Die Steuer entsteht dadurch, dass Energieerzeugnisse im Sinn des § 4 aus dem Steuerlager entfernt werden, ohne dass sich ein weiteres Steueraussetzungsverfahren anschließt, oder dass sie zum Ge- oder Verbrauch innerhalb des Steuerlagers entnommen werden (Entnahme in den steuerrechtlich freien Verkehr). Schließt sich an die Entnahme in den steuerrechtlich freien Verkehr ein Verfahren der Steuerbefreiung (§ 24 Abs. 1) an, kommt es zu keiner Steuerentstehung.
 
@@ -365,8 +350,7 @@ Die Unwirksamkeit des Steueraussetzungsverfahrens darf nicht vorsätzlich oder l
 
 (8) Für die nach Absatz 1 entstehende Steuer ist im Voraus Sicherheit zu leisten, wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
 
-
-## § 9 – Herstellung außerhalb eines Herstellungsbetriebes
+# § 9 – Herstellung außerhalb eines Herstellungsbetriebes
 
 (1) Werden Energieerzeugnisse im Sinn des § 4 außerhalb eines Herstellungsbetriebes hergestellt, entsteht die Steuer mit der Herstellung, es sei denn, es schließt sich ein Verfahren der Steuerbefreiung (§ 24 Absatz 1) an.
 
@@ -374,8 +358,7 @@ Die Unwirksamkeit des Steueraussetzungsverfahrens darf nicht vorsätzlich oder l
 
 (2) Steuerschuldner ist der Hersteller und, falls keine Anzeige nach Absatz 1a erstattet worden ist, jede an der Herstellung beteiligte Person; mehrere Steuerschuldner sind Gesamtschuldner. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig. Das Hauptzollamt kann auf Antrag eine § 8 Abs. 3 bis 6 entsprechende Regelung treffen; § 6 Abs. 3 Satz 2 und 3 und § 8 Abs. 7 gelten sinngemäß.
 
-
-## § 9a – Registrierte Empfänger
+# § 9a – Registrierte Empfänger
 
 (1) Registrierte Empfänger sind Personen, die Energieerzeugnisse unter Steueraussetzung
 
@@ -393,8 +376,7 @@ in ihren Betrieben im Steuergebiet zu gewerblichen Zwecken empfangen dürfen, we
 
 (5) Der Steuerschuldner hat für Energieerzeugnisse, für die in einem Monat die Steuer entstanden ist, eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Für die Fristen zur Abgabe der Steuererklärung und die Fälligkeit der Steuer gilt § 8 Absatz 3 bis 6 entsprechend.
 
-
-## § 9b – Registrierte Versender
+# § 9b – Registrierte Versender
 
 (1) Registrierte Versender sind Personen, die Energieerzeugnisse vom Ort der Einfuhr unter Steueraussetzung versenden dürfen.
 
@@ -402,8 +384,7 @@ in ihren Betrieben im Steuergebiet zu gewerblichen Zwecken empfangen dürfen, we
 
 (3) Die Erlaubnis ist zu widerrufen, wenn eine der in Absatz 2 Satz 2 genannten Voraussetzungen nicht mehr erfüllt ist oder eine geleistete Sicherheit nicht mehr ausreicht.
 
-
-## § 9c – Begünstigte
+# § 9c – Begünstigte
 
 (1) Begünstigte, die Energieerzeugnisse im Sinn des § 4 unter Steueraussetzung im Steuergebiet empfangen dürfen, sind vorbehaltlich des Absatzes 2
 
@@ -429,15 +410,13 @@ in ihren Betrieben im Steuergebiet zu gewerblichen Zwecken empfangen dürfen, we
 
 5. im Fall des Absatzes 1 Nummer 5 die Voraussetzungen für eine Steuerbefreiung nach den jeweiligen internationalen Übereinkommen für die internationalen Einrichtungen vorliegen.
 
-
-## § 9d – Beförderungen (Allgemeines)
+# § 9d – Beförderungen (Allgemeines)
 
 (1) Beförderungen gelten, soweit in diesem Gesetz oder den dazu ergangenen Rechtsverordnungen keine Ausnahmen vorgesehen sind, nur dann als unter Steueraussetzung durchgeführt, wenn sie mit einem elektronischen Verwaltungsdokument nach Artikel 21 der Systemrichtlinie erfolgen.
 
 (2) Unbeschadet Absatz 1 gelten in den Fällen des § 10 Absatz 1 Nummer 2 und des § 11 Absatz 1 Nummer 1 Buchstabe c Beförderungen nur dann als unter Steueraussetzung durchgeführt, wenn dem Inhaber des abgebenden Steuerlagers oder dem registrierten Versender eine Freistellungsbescheinigung nach Artikel 13 Absatz 1 der Systemrichtlinie vorliegt. Die Freistellungsbescheinigung ist während der Beförderung mitzuführen. Satz 2 gilt auch in den Fällen des § 11 Absatz 1 Nummer 2 Buchstabe c.
 
-
-## § 10 – Beförderungen im Steuergebiet
+# § 10 – Beförderungen im Steuergebiet
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet
 
@@ -455,8 +434,7 @@ in ihren Betrieben im Steuergebiet zu gewerblichen Zwecken empfangen dürfen, we
 
 (4) Die Beförderung unter Steueraussetzung beginnt, wenn die Energieerzeugnisse das abgebende Steuerlager verlassen oder am Ort der Einfuhr in den zollrechtlich freien Verkehr überführt worden sind. Sie endet mit der Aufnahme der Energieerzeugnisse in das empfangende Steuerlager oder mit der Übernahme der Energieerzeugnisse durch den Begünstigten (§ 9c).
 
-
-## § 11 – Beförderungen aus anderen und in andere Mitgliedstaaten
+# § 11 – Beförderungen aus anderen und in andere Mitgliedstaaten
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, befördert werden
 
@@ -494,11 +472,9 @@ im Steuergebiet;
 
 (4) In den Fällen des Absatzes 1 Nummer 1 beginnt die Beförderung unter Steueraussetzung, wenn die Energieerzeugnisse das abgebende Steuerlager verlassen oder am Ort der Einfuhr in den zollrechtlich freien Verkehr überführt worden sind. In den Fällen des Absatzes 1 Nummer 2 endet die Beförderung unter Steueraussetzung mit der Aufnahme der Energieerzeugnisse in das empfangende Steuerlager oder den Betrieb des registrierten Empfängers oder mit der Übernahme der Energieerzeugnisse durch den Begünstigten (§ 9c).
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Ausfuhr
+# § 13 – Ausfuhr
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen unter Steueraussetzung, auch über Drittländer oder Drittgebiete, aus Steuerlagern im Steuergebiet oder von registrierten Versendern vom Ort der Einfuhr im Steuergebiet zu einem Ort befördert werden, an dem die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen.
 
@@ -508,8 +484,7 @@ im Steuergebiet;
 
 (4) Die Beförderung unter Steueraussetzung beginnt, wenn die Energieerzeugnisse das abgebende Steuerlager verlassen oder am Ort der Einfuhr in den zollrechtlich freien Verkehr überführt worden sind. Sie endet, wenn die Energieerzeugnisse das Verbrauchsteuergebiet der Europäischen Gemeinschaft verlassen.
 
-
-## § 14 – Unregelmäßigkeiten während der Beförderung
+# § 14 – Unregelmäßigkeiten während der Beförderung
 
 (1) Als Unregelmäßigkeit gilt ein während der Beförderung unter Steueraussetzung eintretender Fall, mit Ausnahme der in § 8 Absatz 1a geregelten Fälle, auf Grund dessen die Beförderung oder ein Teil der Beförderung nicht ordnungsgemäß beendet werden kann.
 
@@ -551,8 +526,7 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 (8) Wird in den Fällen der Absätze 3 bis 5 vor Ablauf einer Frist von drei Jahren ab dem Tag, an dem die Beförderung begonnen hat, festgestellt, dass die Unregelmäßigkeit in einem anderen Mitgliedstaat eingetreten und die Steuer in diesem Mitgliedstaat nachweislich erhoben worden ist, wird die im Steuergebiet entrichtete Steuer auf Antrag erstattet.
 
-
-## § 15 – Verbringen zu gewerblichen Zwecken
+# § 15 – Verbringen zu gewerblichen Zwecken
 
 (1) Werden Energieerzeugnisse im Sinn des § 4 aus dem steuerrechtlich freien Verkehr eines Mitgliedstaats zu gewerblichen Zwecken bezogen, entsteht die Steuer dadurch, dass der Bezieher
 
@@ -578,8 +552,7 @@ Schließt sich an die Empfangnahme oder das Verbringen ein Verfahren der Steuerb
 
 (5) Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist am 25. Tag des auf die Entstehung folgenden Monats fällig. Wird das Verfahren nach Absatz 3 nicht eingehalten, ist die Steuer sofort fällig. Das Hauptzollamt kann zur Steuervereinfachung zulassen, dass der Steuerschuldner abweichend von Satz 1 die Steueranmeldung für Energieerzeugnisse, für die die Steuer in einem Monat entstanden ist, bis zum 15. Tag des auf die Entstehung folgenden Monats abgibt.
 
-
-## § 16 – Verbringen zu privaten Zwecken
+# § 16 – Verbringen zu privaten Zwecken
 
 (1) Energieerzeugnisse im Sinn des § 4, die eine Privatperson für ihren Eigenbedarf in einem anderen Mitgliedstaat im steuerrechtlich freien Verkehr erwirbt und selbst in das Steuergebiet befördert, sind steuerfrei. Die Steuerfreiheit ist jedoch ausgeschlossen für
 
@@ -591,8 +564,7 @@ Schließt sich an die Empfangnahme oder das Verbringen ein Verfahren der Steuerb
 
 (3) Für Energieerzeugnisse, für die die Steuer entstanden ist, hat der Steuerschuldner unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 17 – Entnahme aus Hauptbehältern
+# § 17 – Entnahme aus Hauptbehältern
 
 (1) Für Energieerzeugnisse, für die auf Grund der Ausnahmeregelungen des § 15 Abs. 4 Nr. 1 oder Abs. 4 Nr. 3 keine Steuer nach § 15 Abs. 1 oder 2 entstanden ist oder die nach § 16 Abs. 1 in Hauptbehältern von Fahrzeugen unversteuert in das Steuergebiet verbracht worden sind, entsteht die Steuer dadurch, dass sie
 
@@ -604,8 +576,7 @@ Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuers
 
 (2) Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig. Das Hauptzollamt kann auf Antrag im Einzelfall abweichende Fristen bestimmen; § 8 Abs. 7 gilt sinngemäß.
 
-
-## § 18 – Versandhandel
+# § 18 – Versandhandel
 
 (1) Versandhandel betreibt, wer Energieerzeugnisse im Sinn des § 4 aus dem steuerrechtlich freien Verkehr des Mitgliedstaats, in dem er seinen Sitz hat, an Privatpersonen in anderen Mitgliedstaaten liefert und den Versand der Energieerzeugnisse an den Erwerber selbst durchführt oder durch andere durchführen lässt (Versandhändler). Als Privatpersonen gelten alle Erwerber, die sich gegenüber dem Versandhändler nicht als Abnehmer ausweisen, deren innergemeinschaftliche Erwerbe nach den Vorschriften des Umsatzsteuergesetzes der Umsatzsteuer unterliegen.
 
@@ -621,8 +592,7 @@ Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuers
 
 (6) Wer als Versandhändler mit Sitz im Steuergebiet Energieerzeugnisse des steuerrechtlich freien Verkehrs in einen anderen Mitgliedstaat liefern will, hat dies vorher dem zuständigen Hauptzollamt anzuzeigen. Er hat Aufzeichnungen über die gelieferten Energieerzeugnisse zu führen und die von dem Mitgliedstaat geforderten Voraussetzungen für die Lieferung zu erfüllen.
 
-
-## § 18a – Unregelmäßigkeiten während der Beförderung im steuerrechtlich freien Verkehr
+# § 18a – Unregelmäßigkeiten während der Beförderung im steuerrechtlich freien Verkehr
 
 (1) Tritt während der Beförderung von Energieerzeugnissen nach § 15 Absatz 1 und 2 oder § 18 Absatz 2 im Steuergebiet eine Unregelmäßigkeit ein, entsteht die Steuer, es sei denn, die Energieerzeugnisse sind nachweislich an Personen im Steuergebiet abgegeben worden, die zum Bezug von steuerfreien Energieerzeugnissen berechtigt sind. Dies gilt auch, wenn während der Beförderung im Steuergebiet eine Unregelmäßigkeit festgestellt wurde, ohne dass sich der Ort, an dem sie begangen wurde, bestimmen lässt.
 
@@ -632,8 +602,7 @@ Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuers
 
 (4) Wird im Fall des Absatzes 1 Satz 2 vor Ablauf einer Frist von drei Jahren nach Beginn der Beförderung der Energieerzeugnisse der Ort der Unregelmäßigkeit festgestellt und liegt dieser in einem anderen Mitgliedstaat, wird die nach Absatz 3 erhobene Steuer auf Antrag des Steuerschuldners erlassen oder erstattet, wenn er den Nachweis über die Entrichtung der Steuer in diesem Mitgliedstaat vorlegt.
 
-
-## § 19 – Einfuhr
+# § 19 – Einfuhr
 
 (1) Einfuhr ist
 
@@ -659,13 +628,11 @@ und die dazu ergangenen Vorschriften;
 
 2. beim Eingang von Energieerzeugnissen im zollrechtlichen Status als Gemeinschaftswaren aus Drittgebieten in sinngemäßer Anwendung die nach Titel III Kapitel 1 bis 4 des Zollkodex vorgesehenen besonderen Verfahren der Zollüberwachung beim Eingang in das Zollgebiet der Gemeinschaft.
 
-
-## § 19a – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
+# § 19a – Unregelmäßigkeiten im zollrechtlichen Nichterhebungsverfahren
 
 Tritt in einem zollrechtlichen Nichterhebungsverfahren, in dem sich die Energieerzeugnisse im Sinn des § 4 befinden, eine Unregelmäßigkeit ein, gilt Artikel 215 des Zollkodex sinngemäß.
 
-
-## § 19b – Steuerentstehung, Steuerschuldner
+# § 19b – Steuerentstehung, Steuerschuldner
 
 (1) Die Steuer entsteht zum Zeitpunkt der Überführung der Energieerzeugnisse im Sinn des § 4 in den steuerrechtlich freien Verkehr durch die Einfuhr, es sei denn, die Energieerzeugnisse werden unmittelbar am Ort der Einfuhr in ein Verfahren der Steueraussetzung (§ 5) oder ein Verfahren der Steuerbefreiung (§ 24 Absatz 1) überführt. Die Steuer entsteht nicht, wenn die Energieerzeugnisse unter Steueraussetzung aus dem Steuergebiet oder einem anderen Mitgliedstaat über Drittländer oder Drittgebiete in das Steuergebiet befördert wurden.
 
@@ -681,8 +648,7 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 (4) Für Energieerzeugnisse, die in der Truppenverwendung (§ 19 Absatz 2 Nummer 1 Buchstabe e) zweckwidrig verwendet werden, finden abweichend von den Absätzen 1 bis 3 die Vorschriften des Truppenzollgesetzes Anwendung.
 
-
-## § 20 – Differenzversteuerung
+# § 20 – Differenzversteuerung
 
 (1) Werden nach § 2 Abs. 3 Satz 1 versteuerte Energieerzeugnisse, ausgenommen Erdgas, nicht zu den in § 2 Abs. 3 Satz 1 und 2 genannten Zwecken abgegeben oder verwendet, entsteht vorbehaltlich Absatz 3 und § 21 die Steuer in Höhe der Differenz zu dem zutreffenden Steuersatz des § 2 Abs. 1 oder 2. Kann der Verbleib der Energieerzeugnisse nicht festgestellt werden, gilt Satz 1 entsprechend.
 
@@ -692,8 +658,7 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 (4) Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuerschuldner sind Gesamtschuldner. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 21 – Entstehung der Steuer für gekennzeichnete Energieerzeugnisse
+# § 21 – Entstehung der Steuer für gekennzeichnete Energieerzeugnisse
 
 (1) Die Steuer entsteht für Energieerzeugnisse, die zugelassene Kennzeichnungsstoffe enthalten und die als Kraftstoff bereitgehalten, abgegeben, mitgeführt oder verwendet werden, in Höhe des Steuersatzes nach § 2 Abs. 1 Nr. 4 Buchstabe a. Satz 1 gilt nicht in den Fällen nach den §§ 3, 3a, 17 Abs. 1 Satz 1 Nr. 2, §§ 26, 27 Abs. 1 sowie in den nach § 66 Abs. 1 Nr. 12 zugelassenen Fällen. Zu versteuern ist abweichend von Satz 1
 
@@ -703,15 +668,13 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 
 (2) Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuerschuldner sind Gesamtschuldner. Im Falle des Absatzes 1 bleiben Steuern, die auf Grund von anderen als den dort genannten Tatbeständen entstanden sind, unberührt. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 22 – Entstehung der Steuer für Energieerzeugnisse im Sinn des § 4, Auffangtatbestand
+# § 22 – Entstehung der Steuer für Energieerzeugnisse im Sinn des § 4, Auffangtatbestand
 
 (1) Ist für Energieerzeugnisse im Sinn des § 4 eine Steuer nicht auf Grund einer sonstigen Bestimmung dieses Gesetzes entstanden, so entsteht sie dadurch, dass die Energieerzeugnisse als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben oder verwendet werden. Satz 1 gilt nicht für Gemische, die bei den in § 6 Abs. 2 Nr. 1 und 2 genannten Mischvorgängen entstanden sind.
 
 (2) Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuerschuldner sind Gesamtschuldner. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig. Das Hauptzollamt kann auf Antrag eine § 8 Absatz 3 bis 6 entsprechende Regelung treffen; § 6 Absatz 3 Satz 2 und 3 und § 8 Absatz 7 gelten sinngemäß.
 
-
-## § 23 – Entstehung der Steuer für sonstige Energieerzeugnisse
+# § 23 – Entstehung der Steuer für sonstige Energieerzeugnisse
 
 (1) Für andere als in § 4 genannte Energieerzeugnisse, ausgenommen Kohle und Erdgas, entsteht die Steuer vorbehaltlich § 20 Abs. 1 dadurch, dass sie
 
@@ -747,8 +710,7 @@ Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen nach § 1 Abs
 
 (6) Der Steuerschuldner hat für Energieerzeugnisse, für die in einem Monat die Steuer entstanden ist, eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Für die Fristen zur Abgabe der Steuererklärung und die Fälligkeit der Steuer gilt § 8 Abs. 3 bis 6 entsprechend. Wird das Verfahren nach Absatz 4 nicht eingehalten oder eine nach Absatz 5 angeforderte Sicherheit nicht geleistet, hat der Steuerschuldner für die entstandene Steuer unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 24 – Begriffsbestimmungen, Erlaubnis
+# § 24 – Begriffsbestimmungen, Erlaubnis
 
 (1) Verfahren der Steuerbefreiung sind die steuerfreie Verwendung und die steuerfreie Verteilung. Energieerzeugnisse, die nach den §§ 25 bis 29 steuerfrei verwendet werden dürfen, können zu diesen Zwecken steuerfrei abgegeben werden.
 
@@ -762,8 +724,7 @@ Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen nach § 1 Abs
 
 (6) Der Erlaubnisinhaber hat die Energieerzeugnisse, soweit er sie in seinem Betrieb verwenden will, unverzüglich aufzunehmen. Die Energieerzeugnisse dürfen nur zu dem in der Erlaubnis genannten Zweck verwendet oder abgegeben werden.
 
-
-## § 25 – Steuerbefreiung für Verwendungen zu anderen Zwecken
+# § 25 – Steuerbefreiung für Verwendungen zu anderen Zwecken
 
 (1) Energieerzeugnisse im Sinn des § 4 dürfen steuerfrei verwendet werden zu anderen Zwecken als
 
@@ -775,8 +736,7 @@ Eine steuerfreie Verwendung ist ausgeschlossen, wenn in der Verwendung eine Hers
 
 (2) Energieerzeugnisse dürfen steuerfrei verwendet werden als Probe zu Untersuchungszwecken.
 
-
-## § 26 – Steuerbefreiung für den Eigenverbrauch
+# § 26 – Steuerbefreiung für den Eigenverbrauch
 
 (1) Der Inhaber eines Betriebs, der andere Energieerzeugnisse als Kohle und Erdgas herstellt, darf Energieerzeugnisse innerhalb des Betriebsgeländes steuerfrei verwenden, wenn sie
 
@@ -790,8 +750,7 @@ Eine steuerfreie Verwendung ist ausgeschlossen, wenn in der Verwendung eine Hers
 
 (4) Absatz 1 gilt nicht für die in § 6 Absatz 2 genannten Vorgänge, es sei denn, diese Vorgänge finden in einem Herstellungsbetrieb (§ 6) oder in einem Gasgewinnungsbetrieb (§ 44 Absatz 3) statt.
 
-
-## § 27 – Steuerbefreiung, Schiff- und Luftfahrt
+# § 27 – Steuerbefreiung, Schiff- und Luftfahrt
 
 (1) Energieerzeugnisse der Unterpositionen 2707 99 99, 2710 19 43 bis 2710 19 99, 2710 20 11 bis 2710 20 39 und andere Schweröle der Unterposition 2710 20 90 der Kombinierten Nomenklatur dürfen steuerfrei verwendet werden in Wasserfahrzeugen
 
@@ -813,8 +772,7 @@ Dies gilt für Energieerzeugnisse der Unterpositionen 2710 19 43 bis 2710 19�
 
 (3) Die in Absatz 2 genannten Energieerzeugnisse dürfen steuerfrei verwendet werden in für Luftfahrzeuge bestimmten Triebwerken und Motoren bei deren Entwicklung und Herstellung.
 
-
-## § 28 – Steuerbefreiung für gasförmige Energieerzeugnisse
+# § 28 – Steuerbefreiung für gasförmige Energieerzeugnisse
 
 (1) Zu den in § 2 Absatz 3 Satz 1 genannten Zwecken dürfen steuerfrei verwendet werden:
 
@@ -828,18 +786,15 @@ Ein Mischen mit anderen Energieerzeugnissen im Betrieb des Verwenders unmittelba
 
 (2) Die Steuerbefreiung nach Absatz 1 Satz 1 Nummer 1 und 2 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen beihilferechtlichen Genehmigung der Europäischen Kommission. Das Auslaufen der Genehmigung ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
+# § 29 – (weggefallen)
 
-## § 29 – (weggefallen)
-
-
-## § 30 – Zweckwidrigkeit
+# § 30 – Zweckwidrigkeit
 
 (1) Die Steuer entsteht vorbehaltlich § 21 nach dem zutreffenden Steuersatz des § 2, wenn die Energieerzeugnisse entgegen der in der Erlaubnis genannten Zweckbestimmung verwendet oder abgegeben werden, nicht in den Betrieb aufgenommen werden oder der Verbleib der Energieerzeugnisse nicht festgestellt werden kann. Die Steuer entsteht nicht, wenn die Energieerzeugnisse untergegangen oder an Personen abgegeben worden sind, die zum Bezug von steuerfreien Energieerzeugnissen berechtigt sind. Darüber hinaus entsteht auch keine Steuer, wenn Energieerzeugnisse im Sinn des § 4 an Steuerlagerinhaber abgegeben werden. Schwund steht dem Untergang gleich.
 
 (2) Steuerschuldner ist der Erlaubnisinhaber, wenn er vor Entstehung der Steuer Besitz an den Energieerzeugnissen erlangt hat, sonst der Steuerlagerinhaber. Werden Energieerzeugnisse zu steuerfreien Zwecken an einen Nichtberechtigten abgegeben, ist daneben auch der Nichtberechtigte Steuerschuldner. Mehrere Steuerschuldner sind Gesamtschuldner. Der Steuerschuldner hat für Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig. Das Hauptzollamt kann für Energieerzeugnisse, die entsprechend der in der Erlaubnis genannten Zweckbestimmung verwendet worden sind, ohne dabei verbraucht zu werden, auf Antrag eine § 8 Absatz 3 bis 6 entsprechende Regelung treffen; § 6 Absatz 3 Satz 2 und 3 und § 8 Absatz 7 gelten sinngemäß.
 
-
-## § 31 – Begriffsbestimmungen, Anmeldung, Erlaubnis
+# § 31 – Begriffsbestimmungen, Anmeldung, Erlaubnis
 
 (1) Kohlebetriebe im Sinne dieses Gesetzes sind vorbehaltlich Absatz 2 Betriebe, in denen Kohle gewonnen oder bearbeitet wird. Kohlelieferer im Sinne dieses Gesetzes ist, wer Kohle gewerbsmäßig liefert.
 
@@ -851,8 +806,7 @@ Ein Mischen mit anderen Energieerzeugnissen im Betrieb des Verwenders unmittelba
 
 (5) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen nach Absatz 4 Satz 2 nicht mehr erfüllt ist oder eine angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann widerrufen werden, wenn eine geleistete Sicherheit nicht mehr ausreicht.
 
-
-## § 32 – Entstehung der Steuer
+# § 32 – Entstehung der Steuer
 
 (1) Die Steuer entsteht vorbehaltlich der §§ 34 und 35 dadurch, dass
 
@@ -878,32 +832,27 @@ Wird Kohle zu steuerfreien Zwecken an einen Nichtberechtigten geliefert, ist im 
 
 (4) Die Kohle gilt als geliefert im Sinne des Absatzes 1 Nr. 1, wenn deren Verbleib bei der Beförderung im Steuergebiet nicht festgestellt werden kann. Dies gilt nicht für untergegangene Kohle. Schwund steht dem Untergang gleich. Neben dem Steuerschuldner nach Absatz 2 Satz 1 Nr. 1 ist derjenige Steuerschuldner, der die Kohle verwendet. Mehrere Steuerschuldner sind Gesamtschuldner.
 
-
-## § 33 – Steueranmeldung, Fälligkeit
+# § 33 – Steueranmeldung, Fälligkeit
 
 (1) Der Steuerschuldner hat für Kohle, für die in einem Monat die Steuer nach § 32 Abs. 1 entstanden ist, bis zum 15. Tag des folgenden Monats eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer, die in einem Monat entstanden ist, ist am 25. Tag des folgenden Monats fällig.
 
 (2) In den Fällen des § 32 Abs. 4 hat der Steuerschuldner unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 34 – Verbringen in das Steuergebiet
+# § 34 – Verbringen in das Steuergebiet
 
 Wird Kohle aus einem Mitgliedstaat in das Steuergebiet verbracht, gelten die §§ 15, 16 Abs. 1 Satz 1 und Abs. 2 und § 18 sinngemäß, es sei denn, dass im Falle des § 15 die Kohle durch den Inhaber einer Erlaubnis nach § 31 Abs. 4 oder § 37 Abs. 1 bezogen, in Besitz gehalten oder verwendet wird. Abweichend von § 15 Absatz 2 Satz 2 muss bei der Beförderung von Kohle das dort genannte Begleitdokument nicht mitgeführt werden.
 
-
-## § 35 – Einfuhr
+# § 35 – Einfuhr
 
 Wird Kohle in das Steuergebiet eingeführt (§ 19), gelten die §§ 19a und 19b mit der Maßgabe sinngemäß, dass die Steuer nicht entsteht, wenn die Einfuhr durch den Inhaber einer Erlaubnis nach § 31 Absatz 4 oder § 37 Absatz 1 erfolgt oder sich die Abgabe an einen solchen unmittelbar an die Einfuhr anschließt.
 
-
-## § 36 – Steuerentstehung, Auffangtatbestand
+# § 36 – Steuerentstehung, Auffangtatbestand
 
 (1) Ist für Kohle eine Steuer nicht auf Grund einer sonstigen Bestimmung dieses Gesetzes entstanden, so entsteht sie dadurch, dass die Kohle im Steuergebiet als Kraft- oder Heizstoff verwendet wird.
 
 (2) Steuerschuldner ist derjenige, der die Kohle verwendet. Der Steuerschuldner hat für Kohle, für die die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 37 – Steuerbefreiung, Erlaubnis, Zweckwidrigkeit
+# § 37 – Steuerbefreiung, Erlaubnis, Zweckwidrigkeit
 
 (1) Wer Kohle steuerfrei in den Fällen des Absatzes 2 verwenden will, bedarf der Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen. Die Erlaubnis ist zu widerrufen, wenn die Voraussetzung nach Satz 2 nicht mehr erfüllt ist.
 
@@ -931,8 +880,7 @@ Satz 1 Nummer 3 gilt nicht für Kohle, die in Stromerzeugungsanlagen mit einer e
 
 (4) Kohle gilt als entgegen der in der Erlaubnis genannten Zweckbestimmung verwendet (Absatz 3), soweit die Erlaubnis zur steuerfreien Verwendung von Kohle nach § 37 Absatz 2 Satz 1 Nummer 4 in Verbindung mit § 51 Absatz 1 Nummer 1 oder der Fortbestand einer solchen Erlaubnis durch Angaben erwirkt worden ist, die in wesentlicher Hinsicht unrichtig oder unvollständig waren. Abweichend von Absatz 3 Satz 6 und 7 bestimmt das Hauptzollamt die Frist für die Abgabe der Steueranmeldung und den Zeitpunkt der Fälligkeit der Steuer.
 
-
-## § 38 – Entstehung der Steuer
+# § 38 – Entstehung der Steuer
 
 (1) Die Steuer entsteht dadurch, dass geliefertes oder selbst erzeugtes Erdgas im Steuergebiet zum Verbrauch aus dem Leitungsnetz entnommen wird, es sei denn, es schließt sich ein Verfahren der Steuerbefreiung (§ 44 Absatz 1) an. Gasgewinnungsbetriebe und Gaslager gelten mit der Maßgabe als dem Leitungsnetz zugehörig, dass ein dortiger Verbrauch von Erdgas als Entnahme aus dem Leitungsnetz gilt. Die Entnahme aus dem Leitungsnetz zur nicht leitungsgebundenen Weitergabe gilt als Entnahme zum Verbrauch.
 
@@ -958,8 +906,7 @@ Satz 1 Nummer 3 gilt nicht für Kohle, die in Stromerzeugungsanlagen mit einer e
 
 (6) Für die nach Absatz 1 entstehende Steuer ist im Voraus Sicherheit zu leisten, wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
 
-
-## § 39 – Steueranmeldung, Fälligkeit
+# § 39 – Steueranmeldung, Fälligkeit
 
 (1) Der Steuerschuldner hat für Erdgas, für das in einem Monat (Veranlagungsmonat) die Steuer nach § 38 Abs. 1 entstanden ist, bis zum 15. Tag des folgenden Monats eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer, die in einem Monat entstanden ist, ist am 25. Tag des folgenden Monats fällig.
 
@@ -975,36 +922,31 @@ Satz 1 Nummer 3 gilt nicht für Kohle, die in Stromerzeugungsanlagen mit einer e
 
 (7) Erfolgt die Anmeldung nach § 38 Abs. 3 nicht oder wird eine nach § 38 Abs. 6 angeforderte Sicherheit nicht geleistet, hat der Steuerschuldner unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 40 – Nicht leitungsgebundenes Verbringen
+# § 40 – Nicht leitungsgebundenes Verbringen
 
 (1) Wird Erdgas nicht leitungsgebunden aus einem Mitgliedstaat in das Steuergebiet verbracht, gelten die §§ 15, 16 Absatz 1 Satz 1 und Absatz 2 und § 18 sinngemäß mit der Maßgabe, dass im Fall des § 15 keine Steuer entsteht, wenn sich an die Empfangnahme oder das Verbringen ein Verfahren der Steuerbefreiung (§ 44 Absatz 1) anschließt. Abweichend von § 15 Absatz 2 Satz 2 muss bei der Beförderung von Erdgas das dort genannte Begleitdokument nicht mitgeführt werden.
 
 (2) Absatz 1 gilt nicht für verflüssigtes Erdgas, das im Anschluss an das Verbringen in das Steuergebiet in eine Anlage zur Wiederverdampfung von verflüssigtem Erdgas aufgenommen wird.
 
-
-## § 41 – Nicht leitungsgebundene Einfuhr
+# § 41 – Nicht leitungsgebundene Einfuhr
 
 (1) Wird Erdgas nicht leitungsgebunden in das Steuergebiet eingeführt (§ 19), gelten die §§ 19a und 19b sinngemäß mit der Maßgabe, dass keine Steuer entsteht, wenn das Erdgas unmittelbar am Ort der Einfuhr in ein Verfahren der Steuerbefreiung (§ 44 Absatz 1) überführt wird.
 
 (2) Absatz 1 gilt nicht für verflüssigtes Erdgas, dass im Anschluss an die Einfuhr in eine Anlage zur Wiederverdampfung von verflüssigtem Erdgas aufgenommen wird.
 
-
-## § 42 – Differenzversteuerung
+# § 42 – Differenzversteuerung
 
 (1) Wird nach § 2 Abs. 3 Satz 1 Nr. 4 versteuertes Erdgas nicht zu den in § 2 Abs. 3 Satz 1 und 2 genannten Zwecken abgegeben oder verwendet, entsteht die Steuer in Höhe der Differenz zu dem zutreffenden Steuersatz des § 2 Abs. 1 Nr. 7 oder Abs. 2 Nr. 1. Kann der Verbleib des Erdgases nicht festgestellt werden, gilt Satz 1 entsprechend.
 
 (2) Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Der Steuerschuldner hat für Erdgas, für das die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig. Das Hauptzollamt kann im Einzelfall auf Antrag eine § 39 entsprechende Regelung treffen.
 
-
-## § 43 – Steuerentstehung, Auffangtatbestand
+# § 43 – Steuerentstehung, Auffangtatbestand
 
 (1) Ist für Erdgas eine Steuer nicht auf Grund einer sonstigen Bestimmung dieses Gesetzes entstanden, so entsteht sie dadurch, dass das Erdgas als Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von Kraft- oder Heizstoffen abgegeben oder verwendet wird. Satz 1 gilt nicht für Gemische, die bei Mischvorgängen entstanden sind, die nach § 44 Abs. 3 Satz 2 nicht als Erdgasherstellung gelten.
 
 (2) Steuerschuldner ist, wer eine der genannten Handlungen vornimmt. Mehrere Steuerschuldner sind Gesamtschuldner. Der Steuerschuldner hat für Erdgas, für das die Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
 
-
-## § 44 – Steuerbefreiung, Erlaubnis, Zweckwidrigkeit
+# § 44 – Steuerbefreiung, Erlaubnis, Zweckwidrigkeit
 
 (1) Verfahren der Steuerbefreiung sind die steuerfreie Verwendung und im Fall des Absatzes 2b auch die steuerfreie Verteilung von Erdgas. Wer Erdgas nach Absatz 2, Absatz 2a oder Absatz 2b steuerfrei verwenden will, bedarf der Erlaubnis als Verwender. Wer Erdgas steuerfrei nach Absatz 2b abgeben will, bedarf der Erlaubnis als Verteiler. Die Erlaubnis wird auf Antrag unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken bestehen. Sie ist zu widerrufen, wenn die Voraussetzung nach Satz 4 nicht mehr erfüllt ist.
 
@@ -1024,13 +966,11 @@ Satz 1 Nummer 3 gilt nicht für Kohle, die in Stromerzeugungsanlagen mit einer e
 
 (4) Das Erdgas darf nur zu dem in der Erlaubnis genannten Zweck verwendet oder abgegeben werden. Wird Erdgas entgegen der in der Erlaubnis genannten Zweckbestimmung verwendet oder abgegeben, gilt § 30 sinngemäß.
 
-
-## § 45 – Begriffsbestimmung
+# § 45 – Begriffsbestimmung
 
 Die Steuerentlastung im Sinne dieses Gesetzes umfasst den Erlass, die Erstattung und die Vergütung einer entstandenen Steuer.
 
-
-## § 46 – Steuerentlastung beim Verbringen aus dem Steuergebiet
+# § 46 – Steuerentlastung beim Verbringen aus dem Steuergebiet
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 
@@ -1058,8 +998,7 @@ b) eine ordnungsgemäße Empfangsbestätigung sowie eine amtliche Bestätigung d
 
 (3) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse aus dem Steuergebiet verbracht oder ausgeführt hat.
 
-
-## § 47 – Steuerentlastung bei Aufnahme in Betriebe und bei steuerfreien Zwecken
+# § 47 – Steuerentlastung bei Aufnahme in Betriebe und bei steuerfreien Zwecken
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt
 
@@ -1089,15 +1028,13 @@ b) unter den Voraussetzungen des § 37 Absatz 2 Satz 1 Nummer 1 und 2 sowie Satz
 
 2. im Falle des Absatzes 1 Nr. 5 Buchstabe a der Inhaber des Kohlebetriebes,
 
-2a.  
-im Fall des Absatzes 1 Nummer 6 derjenige, der das Erdgas eingespeist hat,
+2a. im Fall des Absatzes 1 Nummer 6 derjenige, der das Erdgas eingespeist hat,
 
 3. im Übrigen derjenige, der die Energieerzeugnisse verwendet hat.
 
 Der zugelassene Einlagerer ist im Falle der Nummer 1 nur entlastungsberechtigt, soweit der Inhaber des Steuerlagers gegenüber dem Hauptzollamt schriftlich seinen Verzicht auf den Steuerentlastungsanspruch erklärt.
 
-
-## § 47a – Steuerentlastung für den Eigenverbrauch
+# § 47a – Steuerentlastung für den Eigenverbrauch
 
 (1) Eine teilweise Entlastung wird auf Antrag für nachweislich versteuerte Energieerzeugnisse gewährt, die unter den Voraussetzungen der §§ 26, 37 Absatz 2 Satz 1 Nummer 2, Satz 2 oder § 44 Absatz 2 zu den dort genannten Zwecken verwendet worden sind.
 
@@ -1133,8 +1070,7 @@ Eine weitere Steuerentlastung kann für diese Energieerzeugnisse nicht gewährt 
 
 (4) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (Allgemeine Gruppenfreistellungsverordnung; ABl. L 187 vom 26.6.2014, S. 1) in der jeweils geltenden Fassung. Das Auslaufen der Freistellungsanzeige wird vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt gegeben.
 
-
-## § 48 – Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem Gasöl
+# § 48 – Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem Gasöl
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich versteuerte Anteile in Gemischen aus ordnungsgemäß gekennzeichnetem Gasöl und anderem Gasöl bis auf den Betrag nach dem Steuersatz des § 2 Abs. 3 Satz 1 Nr. 1, wenn die Gemische
 
@@ -1146,8 +1082,7 @@ Dies gilt nicht für die Anteile von Gemischen, die bei Kraftstoffkontrollen in 
 
 (2) Entlastungsberechtigt ist der Inhaber des Betriebes, der vom Hauptzollamt zum Spülen zugelassen ist, für versehentlich entstandene Gemische der Verfügungsberechtigte.
 
-
-## § 49 – Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
+# § 49 – Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich nach § 2 Absatz 1 Nummer 4 versteuerte Gasöle bis zum Steuersatz des § 2 Absatz 3 Satz 1 Nummer 1, soweit diese
 
@@ -1163,11 +1098,9 @@ Die Steuerentlastung nach Satz 1 Nummer 2 wird nur gewährt, wenn die Steuerbela
 
 (4) Entlastungsberechtigt ist, wer die Energieerzeugnisse nach Absatz 1 oder Absatz 3 verwendet oder die Flüssiggase nach Absatz 2 abgegeben hat.
 
+# § 50 – (weggefallen)
 
-## § 50 – (weggefallen)
-
-
-## § 51 – Steuerentlastung für bestimmte Prozesse und Verfahren
+# § 51 – Steuerentlastung für bestimmte Prozesse und Verfahren
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und 10, Absatz 3 Satz 1 oder Absatz 4a versteuert worden sind und
 
@@ -1189,15 +1122,13 @@ verheizt worden sind.
 
 (2) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse verwendet hat.
 
-
-## § 52 – Steuerentlastung für die Schiff- und Luftfahrt
+# § 52 – Steuerentlastung für die Schiff- und Luftfahrt
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich versteuerte Energieerzeugnisse, die zu den in § 27 genannten Zwecken verwendet worden sind. In den Fällen des § 27 Abs. 1 Satz 1 Nr. 1 und 2 wird die Steuerentlastung für Energieerzeugnisse der Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten Nomenklatur nur gewährt, wenn diese ordnungsgemäß gekennzeichnet sind.
 
 (2) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse verwendet hat.
 
-
-## § 53 – Steuerentlastung für die Stromerzeugung
+# § 53 – Steuerentlastung für die Stromerzeugung
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Energieerzeugnisse, die
 
@@ -1221,8 +1152,7 @@ Abluftbehandlungsanlagen im Sinn des Satzes 3 Nummer 2 sind insbesondere Rauchga
 
 (4) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse zur Stromerzeugung verwendet hat. Verwender im Sinn des Satzes 1 ist nur diejenige Person, die die Energieerzeugnisse zum Betrieb einer Stromerzeugungsanlage in ihr einsetzt.
 
-
-## § 53a – Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
+# § 53a – Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
 
 (1) Eine teilweise Steuerentlastung wird auf Antrag gewährt für Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und 10, Absatz 3 Satz 1 oder Absatz 4a versteuert worden sind und die zur gekoppelten Erzeugung von Kraft und Wärme in ortsfesten Anlagen mit einem Monats- oder Jahresnutzungsgrad von mindestens 70 Prozent verheizt worden sind.
 
@@ -1298,11 +1228,9 @@ Eine Anlage zur Kraft-Wärme-Kopplung ist hocheffizient, wenn sie die Kriterien 
 
 (12) Die vollständige Steuerentlastung nach Absatz 6 wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen beihilferechtlichen Genehmigung der Europäischen Kommission. Das Auslaufen der Genehmigung ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
+# § 53b – (weggefallen)
 
-## § 53b – (weggefallen)
-
-
-## § 54 – Steuerentlastung für Unternehmen
+# § 54 – Steuerentlastung für Unternehmen
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Energieerzeugnisse, die nachweislich nach § 2 Absatz 3 Satz 1 Nummer 1, 3 bis 5 versteuert worden sind und von einem Unternehmen des Produzierenden Gewerbes im Sinne des § 2 Nr. 3 des Stromsteuergesetzes oder von einem Unternehmen der Land- und Forstwirtschaft im Sinne des § 2 Nr. 5 des Stromsteuergesetzes zu betrieblichen Zwecken verheizt oder in begünstigten Anlagen nach § 3 verwendet worden sind. Eine Steuerentlastung für Energieerzeugnisse, die zur Erzeugung von Wärme verwendet worden sind, wird jedoch nur gewährt, soweit die erzeugte Wärme nachweislich durch ein Unternehmen des Produzierenden Gewerbes oder ein Unternehmen der Land- und Forstwirtschaft genutzt worden ist.
 
@@ -1323,8 +1251,7 @@ Eine Anlage zur Kraft-Wärme-Kopplung ist hocheffizient, wenn sie die Kriterien 
 
 (5) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 55 – Steuerentlastung für Unternehmen in Sonderfällen
+# § 55 – Steuerentlastung für Unternehmen in Sonderfällen
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Energieerzeugnisse, die nachweislich nach § 2 Absatz 3 Satz 1 Nummer 1, 3 bis 5 versteuert worden sind und die von einem Unternehmen des Produzierenden Gewerbes im Sinne des § 2 Nr. 3 des Stromsteuergesetzes zu betrieblichen Zwecken verheizt oder in begünstigten Anlagen nach § 3 verwendet worden sind. Eine Steuerentlastung für Energieerzeugnisse, die zur Erzeugung von Wärme verwendet worden sind, wird jedoch nur gewährt, soweit die erzeugte Wärme nachweislich durch ein Unternehmen des Produzierenden Gewerbes genutzt worden ist.
 
@@ -1414,8 +1341,7 @@ für das Antragsjahr 2019 am 19.12.2018 getroffen, vgl. Bek. v. 19.12.2018 I 270
 für das Antragsjahr 2020 am 18.12.2019 getroffen, vgl. Bek. v. 18.12.2019 I 2941  
 und für das Antragsjahr 2021 am 2.12.2020 getroffen, vgl. Bek. v. 2.12.2020 I 2653 +++)
 
-
-## § 56 – Steuerentlastung für den Öffentlichen Personennahverkehr
+# § 56 – Steuerentlastung für den Öffentlichen Personennahverkehr
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für Benzine nach § 2 Abs. 1 Nr. 1, Gasöle nach § 2 Abs. 1 Nr. 4, Erdgas, Flüssiggase und gasförmige Kohlenwasserstoffe sowie ihnen nach § 2 Abs. 4 gleichgestellte Energieerzeugnisse, die nachweislich nach § 2 Abs. 1 Nr. 1, 4 oder Abs. 2 versteuert worden sind und die
 
@@ -1486,8 +1412,7 @@ Satz 1 gilt für Energieerzeugnisse nach § 2 Absatz 4 sinngemäß.
 
 (5) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
-
-## § 57 – Steuerentlastung für Betriebe der Land- und Forstwirtschaft
+# § 57 – Steuerentlastung für Betriebe der Land- und Forstwirtschaft
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich nach § 2 Abs. 1 Nr. 4 versteuerte Energieerzeugnisse, die in Betrieben der Land- und Forstwirtschaft zum Betrieb von
 
@@ -1569,11 +1494,9 @@ jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen
 
 (9) Die festgelegte Steuerentlastung nach Absatz 5 Nummer 1 wird angewendet nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
+# § 58 – (weggefallen)
 
-## § 58 – (weggefallen)
-
-
-## § 59 – Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
+# § 59 – Steuervergütung für Diplomatenbenzin und -dieselkraftstoff
 
 (1) Unter der Voraussetzung der Gegenseitigkeit wird den in Absatz 2 aufgeführten Dienststellen und Personen auf Antrag die Steuer für Benzin und Dieselkraftstoff vergütet, die sie als Kraftstoff für den Betrieb ihrer Kraftfahrzeuge aus öffentlichen Tankstellen erworben haben.
 
@@ -1589,8 +1512,7 @@ jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen
 
 2. Personen, die im Geltungsbereich dieses Gesetzes eine private Erwerbstätigkeit ausüben.
 
-
-## § 60 – Steuerentlastung bei Zahlungsausfall
+# § 60 – Steuerentlastung bei Zahlungsausfall
 
 (1) Eine Steuerentlastung wird auf Antrag dem Verkäufer von nachweislich nach § 2 Abs. 1 Nr. 1 bis 4 versteuerten Energieerzeugnissen für die im Verkaufspreis enthaltene Steuer gewährt, die beim Warenempfänger wegen Zahlungsunfähigkeit ausfällt, wenn
 
@@ -1612,8 +1534,7 @@ jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen
 
 (3) Die Steuerentlastung erfolgt unter der auflösenden Bedingung einer nachträglichen Leistung des Warenempfängers. Der Verkäufer hat dem Hauptzollamt nachträgliche Leistungen des Warenempfängers unverzüglich anzuzeigen. Führt die Leistung nicht zum Erlöschen der Forderung des Verkäufers, vermindert sich die Erstattung oder Vergütung um den Teil der Teilleistung, der dem Steueranteil an der ausgefallenen Forderung entspricht. Das Hauptzollamt kann anordnen, dass der Verkäufer seine Forderung gegen den Warenempfänger in Höhe des ausgefallenen Steuerbetrages an die Bundesrepublik Deutschland (Bundesfinanzverwaltung) abtritt.
 
-
-## § 61 – Steueraufsicht
+# § 61 – Steueraufsicht
 
 (1) Der Steueraufsicht im Sinne von § 209 der Abgabenordnung unterliegt,
 
@@ -1623,22 +1544,19 @@ jeweils unvermischt mit anderen Energieerzeugnissen, ausgenommen Biokraftstoffen
 
 (2) Die Amtsträger sind befugt, im öffentlichen Verkehr jederzeit, in Betriebsräumen und auf Betriebsgrundstücken während der Geschäfts- und Arbeitszeit unentgeltliche Proben aus Kraftfahrzeugtanks oder anderen Behältnissen zu entnehmen. Zur Probenahme dürfen die Amtsträger Fahrzeuge anhalten. Auf Verlangen haben die Betroffenen sich auszuweisen, die Herkunft des Energieerzeugnisses anzugeben und bei der Probenahme die erforderliche Hilfe zu leisten.
 
-
-## § 62 – Steuerliche Betriebsleiter, Steuerhilfspersonen
+# § 62 – Steuerliche Betriebsleiter, Steuerhilfspersonen
 
 (1) Der Steuerpflichtige kann sich zur Erfüllung seiner steuerlichen Pflichten Personen bedienen, die dem Betrieb oder dem Unternehmen nicht angehören (Steuerliche Betriebsleiter). Die Bestellung des steuerlichen Betriebsleiters wird erst wirksam, nachdem das Hauptzollamt zugestimmt hat.
 
 (2) Auf Antrag des Steuerpflichtigen kann das Hauptzollamt Personen, die von der Besteuerung nicht selbst betroffen werden, als Steuerhilfspersonen bestellen. Ihnen darf nur die Aufgabe übertragen werden, Tatsachen festzustellen, die für die Besteuerung erheblich sein können.
 
-
-## § 63 – Geschäftsstatistik
+# § 63 – Geschäftsstatistik
 
 (1) Nach näherer Bestimmung des Bundesministeriums der Finanzen stellen die Hauptzollämter für statistische Zwecke Erhebungen an und teilen die Ergebnisse dem Statistischen Bundesamt zur Auswertung mit.
 
 (2) Die Bundesfinanzbehörden können auch bereits aufbereitete Daten dem Statistischen Bundesamt zur Darstellung und Veröffentlichung für allgemeine Zwecke übermitteln.
 
-
-## § 64 – Bußgeldvorschriften
+# § 64 – Bußgeldvorschriften
 
 Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
 
@@ -1652,8 +1570,7 @@ Ordnungswidrig im Sinne des § 381 Abs. 1 Nr. 1 der Abgabenordnung handelt, wer 
 
 5. entgegen § 61 Abs. 2 Satz 3 sich nicht, nicht richtig oder nicht rechtzeitig ausweist, eine Angabe nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht oder nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig Hilfe leistet.
 
-
-## § 65 – Sicherstellung
+# § 65 – Sicherstellung
 
 (1) Sichergestellt werden können
 
@@ -1673,15 +1590,13 @@ können sichergestellt werden.
 
 (3) Die §§ 215 und 216 der Abgabenordnung gelten sinngemäß.
 
-
-## § 66 – Ermächtigungen
+# § 66 – Ermächtigungen
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Durchführung dieses Gesetzes durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1. die nach § 1a Satz 1 Nummer 2 anzuwendende Fassung der Kombinierten Nomenklatur neu zu bestimmen und den Wortlaut dieses Gesetzes sowie der Durchführungsverordnungen der geänderten Nomenklatur anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben,
 
-1a.  
-den Wortlaut dieses Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben,
+1a. den Wortlaut dieses Gesetzes an geänderte Fassungen oder Neufassungen des Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht ergeben,
 
 2. (weggefallen)
 
@@ -1801,11 +1716,9 @@ g) Näheres zur Ermittlung der Hocheffizienzkriterien, Abschreibungskriterien, z
 
 h) (weggefallen)
 
-11a.  
-(weggefallen)
+11a. (weggefallen)
 
-11b.  
-(weggefallen)
+11b. (weggefallen)
 
 12. zur Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens Regelungen zur Kennzeichnung von Energieerzeugnissen und zum Umgang mit gekennzeichneten Energieerzeugnissen zu erlassen, das Erteilen und das Erlöschen einer Erlaubnis und das zugehörige Erlaubnisverfahren im Übrigen sowie zur Verfahrensvereinfachung in bestimmten Fällen zu regeln, dass gekennzeichnete Energieerzeugnisse als Kraftstoff mitgeführt, bereitgehalten, abgegeben oder verwendet werden dürfen,
 
@@ -1829,8 +1742,7 @@ c) den Artikeln III bis V des Abkommens zwischen der Bundesrepublik Deutschland 
 
 Dabei kann es anordnen, dass bei einem Missbrauch für alle daran Beteiligten die Steuer entsteht und dass bei der Lieferung von versteuerten Energieerzeugnissen dem Lieferer die entrichtete Steuer erstattet oder vergütet wird,
 
-18a.  
-zur Verfahrensvereinfachung, zur Vermeidung unangemessener wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens Bestimmungen in Bezug auf die steuerliche Begünstigung internationaler Einrichtungen und derer Mitglieder zu erlassen und dabei insbesondere
+18a. zur Verfahrensvereinfachung, zur Vermeidung unangemessener wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens Bestimmungen in Bezug auf die steuerliche Begünstigung internationaler Einrichtungen und derer Mitglieder zu erlassen und dabei insbesondere
 
 a) die Voraussetzungen für die Gewährung einer Steuerbefreiung einschließlich der Begriffe näher zu bestimmen, das Verfahren der Steuerbefreiung zu regeln und Pflichten für die Abgabe, den Bezug und die Verwendung der Energieerzeugnisse vorzusehen,
 
@@ -1842,8 +1754,7 @@ c) vorzusehen, dass bei Abgabe der Energieerzeugnisse an Nichtbegünstigte eine 
 
 20. im Benehmen mit dem Bundesministerium des Innern, für Bau und Heimat alternativ zur qualifizierten elektronischen Signatur ein anderes sicheres Verfahren zuzulassen, das den Datenübermittler authentifiziert und die Vertraulichkeit und Integrität des elektronisch übermittelten Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis auf Veröffentlichungen sachverständiger Stellen geregelt werden,
 
-20a.  
-zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise, sonstige für das Verfahren erforderliche Daten oder zur Erfüllung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzvorschriften nach Nummer 21 erforderliche Daten ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
+20a. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen, Anträge, Anzeigen, Mitteilungen, Nachweise, sonstige für das Verfahren erforderliche Daten oder zur Erfüllung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzvorschriften nach Nummer 21 erforderliche Daten ganz oder teilweise durch Datenfernübertragung zu übermitteln sind oder übermittelt werden können, und dabei insbesondere Folgendes zu regeln:
 
 a) die Voraussetzungen für die Anwendung des Verfahrens der Datenfernübertragung,
 
@@ -1893,11 +1804,9 @@ g) die Einhaltung der in den ergänzenden Bestimmungen normierten Verpflichtunge
 
 (4) Das Bundesministerium der Finanzen erlässt die allgemeinen Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
+# § 66a – (weggefallen)
 
-## § 66a – (weggefallen)
-
-
-## § 66b – Ermächtigung zu § 55 Absatz 4, 5 und 8
+# § 66b – Ermächtigung zu § 55 Absatz 4, 5 und 8
 
 (1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung ohne Zustimmung des Bundesrates durch das Bundesamt für Wirtschaft und Ausfuhrkontrolle, die nationale Akkreditierungsstelle und die Zulassungsstelle nach § 28 des Umweltauditgesetzes zu vollziehende Bestimmungen zu § 55 Absatz 4, 5 und 8 zu erlassen.
 
@@ -1929,8 +1838,7 @@ g) die Einhaltung der in den ergänzenden Bestimmungen normierten Verpflichtunge
 
 4. die Zuständigkeit für die Entgegennahme der zu übermittelnden Erkenntnisse und Informationen.
 
-
-## § 66c – Bußgeldvorschriften
+# § 66c – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer Rechtsverordnung nach § 66 Absatz 1 Nummer 21 Buchstabe a bis c oder d oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
@@ -1938,11 +1846,9 @@ g) die Einhaltung der in den ergänzenden Bestimmungen normierten Verpflichtunge
 
 (3) Verwaltungsbehörde im Sinn des § 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
 
+# § 67 – (weggefallen)
 
-## § 67 – (weggefallen)
-
-
-## Anlage – (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität
+# Anlage – (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität
 
 (Fundstelle: BGBl. I 2012, 2441 - 2442)
 

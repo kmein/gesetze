@@ -1,10 +1,7 @@
-# [RiFlEtikettV] Verordnung über die Etikettierung von Rindfleisch und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern  (Rindfleischetikettierungsverordnung - RiFlEtikettV)
-
-Ausfertigungsdatum: 30.06.2009
-
+% Verordnung über die Etikettierung von Rindfleisch und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern  (Rindfleischetikettierungsverordnung - RiFlEtikettV)
+% Ausfertigungsdatum: 30.06.2009
  
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung sind:
 
@@ -14,8 +11,7 @@ Im Sinne dieser Verordnung sind:
 
 3. Fleisch: von Rindern jeglichen Alters stammende Fleischstücke, Fleischteilstücke und Fleischabschnitte sowie Rinderhackfleisch.
 
-
-## § 2 – Aufzeichnungspflichten
+# § 2 – Aufzeichnungspflichten
 
 (1) Marktteilnehmer haben Aufzeichnungen nach Absatz 3 zu führen, die Folgendes enthalten müssen:
 
@@ -35,21 +31,17 @@ Im Sinne dieser Verordnung sind:
 
 (4) Aufzeichnungen nach Absatz 1 und Nachweise nach Absatz 2 sind von den Marktbeteiligten mindestens ein Jahr aufzubewahren. Die Pflicht zur Aufbewahrung beginnt mit dem Zeitpunkt der Erstellung der Unterlagen oder im Fall der Übernahme von Angaben mit der Annahme der Ware. Andere Vorschriften, nach denen eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
 
+# §§ 3 bis 9 – (weggefallen)
 
-## §§ 3 bis 9 – (weggefallen)
-
-
-## § 9a – Etikettierung von Schlachtkörpern von weniger als zwölf Monate alten Rindern
+# § 9a – Etikettierung von Schlachtkörpern von weniger als zwölf Monate alten Rindern
 
 Schlachtkörper von weniger als zwölf Monate alten Rindern sind vom Marktteilnehmer unmittelbar nach der Schlachtung nach Maßgabe des § 3 der Rinderschlachtkörper-Handelsklassenverordnung zu kennzeichnen.
 
-
-## § 9b – Etikettierung von nicht vorverpacktem Fleisch von weniger als zwölf Monate alten Rindern im Einzelhandel
+# § 9b – Etikettierung von nicht vorverpacktem Fleisch von weniger als zwölf Monate alten Rindern im Einzelhandel
 
 Die Angaben nach Anhang VII Teil 1 Abschnitt IV Nummer 2 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) sind vom Marktteilnehmer am Ort des Verkaufs in geeigneter Weise und im gleichen Blickfeld zusammen mit den anderen verpflichtenden Angaben nach § 1 Nummer 1 auszuloben.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 11 Absatz 2 Nummer 3 des Rindfleischetikettierungsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -73,13 +65,10 @@ Ordnungswidrig im Sinne des § 11 Absatz 2 Nummer 3 des Rindfleischetikettierung
 
 10. entgegen § 9b eine Angabe nicht, nicht richtig, nicht vollständig oder nicht in der vorgeschriebenen Weise auslobt.
 
-
-## § 11 – Zuständige Verwaltungsbehörde
+# § 11 – Zuständige Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 11 des Rindfleischetikettierungsgesetzes wird auf die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) übertragen.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## Anlage – (weggefallen)
+# Anlage – (weggefallen)

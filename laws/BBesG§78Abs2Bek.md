@@ -1,20 +1,15 @@
-# [BBesG§78Abs2Bek] Bekanntmachung nach § 78 Absatz 2 des Bundesbesoldungsgesetzes
-
-Ausfertigungsdatum: 12.01.2016
-
+% Bekanntmachung nach § 78 Absatz 2 des Bundesbesoldungsgesetzes
+% Ausfertigungsdatum: 12.01.2016
  
-
-## ----
+# ----
 
 Nach § 78 Absatz 2 des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 19. Juni 2009 (BGBl. I S. 1434) werden die für Beamtinnen und Beamte bei den Postnachfolgeunternehmen ab 1. Januar 2016 geltenden Beträge des Familienzuschlages nach Anlage V sowie der Amts- und Stellenzulagen nach Anlage IX des Bundesbesoldungsgesetzes bekannt gemacht.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister des Innern
 
-
-## (Anlage V des BBesG)Gültig ab 1. Januar 2016 für Postnachfolgeunternehmen
+# (Anlage V des BBesG)Gültig ab 1. Januar 2016 für Postnachfolgeunternehmen
 
 (Fundstelle: BGBl. I 2016, 96)
 
@@ -39,8 +34,7 @@ Anrechnungsbetrag nach § 39 Absatz 2 Satz 1
 | – Besoldungsgruppen A 2 bis A 8:  | 112,10 Euro |
 | – Besoldungsgruppen A 9 bis A 12: | 119,00 Euro |
 
-
-## (Anlage IX des BBesG)Gültig ab 1. Januar 2016 für Postnachfolgeunternehmen
+# (Anlage IX des BBesG)Gültig ab 1. Januar 2016 für Postnachfolgeunternehmen
 
 (Fundstelle: BGBl. I 2016, 97 - 99)
 

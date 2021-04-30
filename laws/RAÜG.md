@@ -1,10 +1,7 @@
-# [RAÜG] Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt  (Raumfahrtaufgabenübertragungsgesetz - RAÜG)
-
-Ausfertigungsdatum: 08.06.1990
-
+% Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt  (Raumfahrtaufgabenübertragungsgesetz - RAÜG)
+% Ausfertigungsdatum: 08.06.1990
  
-
-## § 1 – Aufgabenübertragung
+# § 1 – Aufgabenübertragung
 
 (1) Die für Raumfahrtangelegenheiten zuständigen obersten Bundesbehörden verleihen dem Deutschen Zentrum für Luft- und Raumfahrt e.V. (DLR) die Befugnis, Verwaltungsaufgaben auf dem Gebiet der Raumfahrt im eigenen Namen und in den Handlungsformen des öffentlichen Rechts wahrzunehmen.
 
@@ -20,17 +17,14 @@ Ausfertigungsdatum: 08.06.1990
 
 (4) Das DLR unterliegt hinsichtlich der Durchführung der übertragenen Verwaltungsaufgaben auf dem Gebiet der Raumfahrt der Aufsicht der auftraggebenden obersten Bundesbehörden.
 
-
-## § 2
+# § 2
 
 Soweit das DLR im Rahmen der von ihm wahrgenommenen Aufgaben Haushaltsmittel weiterleitet, sollen ihm diese Mittel zur Bewirtschaftung übertragen werden.
 
-
-## § 3 – Prüfungsrecht des Bundesrechnungshofes
+# § 3 – Prüfungsrecht des Bundesrechnungshofes
 
 Der Bundesrechnungshof prüft die Haushalts- und Wirtschaftsführung des DLR. Für das Prüfungsverfahren gelten die §§ 89, 90, 91, 94, 95, 96 und 100 der Bundeshaushaltsordnung entsprechend.
 
-
-## § 4 – (Inkrafttreten)
+# § 4 – (Inkrafttreten)
 
 \-

@@ -1,13 +1,9 @@
-# [GGBefG] Gesetz über die Beförderung gefährlicher Güter  (Gefahrgutbeförderungsgesetz - GGBefG)
-
-Ausfertigungsdatum: 06.08.1975
-
+% Gesetz über die Beförderung gefährlicher Güter  (Gefahrgutbeförderungsgesetz - GGBefG)
+% Ausfertigungsdatum: 06.08.1975
  
+# § 1 – Geltungsbereich
 
-## § 1 – Geltungsbereich
-
-(1) Dieses Gesetz gilt für die Beförderung gefährlicher Güter mit Eisenbahn-, Magnetschwebebahn-, Straßen-, Wasser- und Luftfahrzeugen sowie für das Herstellen, Einführen und Inverkehrbringen von Verpackungen, Beförderungsbehältnissen und Fahrzeugen für die Beförderung gefährlicher Güter.  
-Es findet keine Anwendung auf die Beförderung
+(1) Dieses Gesetz gilt für die Beförderung gefährlicher Güter mit Eisenbahn-, Magnetschwebebahn-, Straßen-, Wasser- und Luftfahrzeugen sowie für das Herstellen, Einführen und Inverkehrbringen von Verpackungen, Beförderungsbehältnissen und Fahrzeugen für die Beförderung gefährlicher Güter. Es findet keine Anwendung auf die Beförderung
 
 1. innerhalb eines Betriebes oder mehrerer verbundener Betriebsgelände (Industrieparks), in denen gefährliche Güter hergestellt, bearbeitet, verarbeitet, aufgearbeitet, gelagert, verwendet oder entsorgt werden, soweit sie auf einem abgeschlossenen Gelände stattfindet,
 
@@ -23,15 +19,13 @@ Es findet keine Anwendung auf die Beförderung
 
 2. auf örtlichen Besonderheiten beruhende Sicherheitsvorschriften des Bundes, der Länder oder der Gemeinden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Gefährliche Güter im Sinne dieses Gesetzes sind Stoffe und Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder ihres Zustandes im Zusammenhang mit der Beförderung Gefahren für die öffentliche Sicherheit oder Ordnung, insbesondere für die Allgemeinheit, für wichtige Gemeingüter, für Leben und Gesundheit von Menschen sowie für Tiere und Sachen ausgehen können.
 
 (2) Die Beförderung im Sinne dieses Gesetzes umfasst nicht nur den Vorgang der Ortsveränderung, sondern auch die Übernahme und die Ablieferung des Gutes sowie zeitweilige Aufenthalte im Verlauf der Beförderung, Vorbereitungs- und Abschlusshandlungen (Verpacken und Auspacken der Güter, Be- und Entladen), Herstellen, Einführen und Inverkehrbringen von Verpackungen, Beförderungsmitteln und Fahrzeugen für die Beförderung gefährlicher Güter, auch wenn diese Handlungen nicht vom Beförderer ausgeführt werden. Ein zeitweiliger Aufenthalt im Verlauf der Beförderung liegt vor, wenn dabei gefährliche Güter für den Wechsel der Beförderungsart oder des Beförderungsmittels (Umschlag) oder aus sonstigen transportbedingten Gründen zeitweilig abgestellt werden. Auf Verlangen sind Beförderungsdokumente vorzulegen, aus denen Versand- und Empfangsort feststellbar sind. Wird die Sendung nicht nach der Anlieferung entladen, gilt das Bereitstellen der Ladung beim Empfänger zur Entladung als Ende der Beförderung. Versandstücke, Tankcontainer, Tanks und Kesselwagen dürfen während des zeitweiligen Aufenthaltes nicht geöffnet werden.
 
-
-## § 3 – Ermächtigungen
+# § 3 – Ermächtigungen
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen und allgemeine Verwaltungsvorschriften über die Beförderung gefährlicher Güter zu erlassen, insbesondere über
 
@@ -95,11 +89,9 @@ soweit dies zum Schutz gegen die von der Beförderung gefährlicher Güter ausge
 
 (5) In den Rechtsverordnungen nach Absatz 1 sind Ausnahmen für die Bundeswehr, in ihrem Auftrag hoheitlich tätige zivile Unternehmen, ausländische Streitkräfte, die Bundespolizei und die Polizeien, die Feuerwehren, die Einheiten und Einrichtungen des Katastrophenschutzes sowie die Kampfmittelräumdienste der Länder oder Kommunen zuzulassen, soweit dies Gründe der Verteidigung, polizeiliche Aufgaben oder die Aufgaben der Feuerwehren, des Katastrophenschutzes oder der Kampfmittelräumung erfordern. Ausnahmen nach Satz 1 sind für den Bundesnachrichtendienst zuzulassen, soweit er im Rahmen seiner Aufgaben für das Bundesministerium der Verteidigung tätig wird und soweit sicherheitspolitische Interessen dies erfordern.
 
+# § 4 – (weggefallen)
 
-## § 4 – (weggefallen)
-
-
-## § 5 – Zuständigkeiten
+# § 5 – Zuständigkeiten
 
 (1) Im Bereich der Eisenbahnen des Bundes, Magnetschwebebahnen, im Luftverkehr sowie auf dem Gebiet der See- und Binnenschiffahrt auf Bundeswasserstraßen einschließlich der bundeseigenen Häfen obliegt die Wahrnehmung der Aufgaben nach diesem Gesetz und nach den auf ihm beruhenden Rechtsvorschriften dem Bund in bundeseigener Verwaltung. Unberührt bleiben die Zuständigkeiten für die Hafenaufsicht (Hafenpolizei) in den nicht vom Bund betriebenen Stromhäfen an Bundeswasserstraßen.
 
@@ -115,8 +107,7 @@ soweit dies zum Schutz gegen die von der Beförderung gefährlicher Güter ausge
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass der Vollzug dieses Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen in Fällen, in denen gefährliche Güter durch die Bundeswehr, in ihrem Auftrag hoheitlich tätige zivile Unternehmen, ausländische Streitkräfte, den Bundesnachrichtendienst oder die Bundespolizei befördert werden, Bundesbehörden obliegt, soweit dies Gründe der Verteidigung, sicherheitspolitische Interessen oder die Aufgaben der Bundespolizei erfordern.
 
-
-## § 6 – Allgemeine Ausnahmen
+# § 6 – Allgemeine Ausnahmen
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur kann allgemeine Ausnahmen von den auf diesem Gesetz beruhenden Rechtsverordnungen durch Rechtsverordnung mit Zustimmung des Bundesrates zulassen für die Beförderung gefährlicher Güter mit
 
@@ -128,8 +119,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann allgemeine Au
 
 4. Luftfahrzeugen.
 
-
-## § 7 – Sofortmaßnahmen
+# § 7 – Sofortmaßnahmen
 
 (1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann die Beförderung bestimmter gefährlicher Güter mit Wasser- und Luftfahrzeugen untersagen oder nur unter Bedingungen und Auflagen gestatten, wenn sich die geltenden Sicherheitsvorschriften als unzureichend zur Einschränkung der von der Beförderung ausgehenden Gefahren herausstellen und eine Änderung der Rechtsvorschriften in dem nach § 3 vorgesehenen Verfahren nicht abgewartet werden kann. Allgemeine Anordnungen dieser Art trifft das Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates.
 
@@ -139,8 +129,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann allgemeine Au
 
 (4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann nach vorheriger Genehmigung der Kommission der Europäischen Gemeinschaften die Beförderung bestimmter gefährlicher Güter mit Eisenbahn- und Straßenfahrzeugen untersagen oder nur unter Bedingungen oder Auflagen gestatten, wenn sich die geltenden Sicherheitsvorschriften bei einem Unfall oder Zwischenfall als unzureichend herausgestellt haben und dringender Handlungsbedarf besteht. Satz 1 gilt sinngemäß für den Fall, dass sich bei der Beförderung von Gütern, die bisher nicht den Vorschriften für die Beförderung gefährlicher Güter unterworfen waren, eine Gefahr im Sinne von § 2 Abs. 1 herausstellt. Auf Grund von Satz 1 und 2 getroffene Anordnungen werden entsprechend der Festlegung der Kommission der Europäischen Gemeinschaften befristet.
 
-
-## § 7a – Anhörung
+# § 7a – Anhörung
 
 (1) Vor dem Erlass von Rechtsverordnungen nach den §§ 3, 6 und 7 sollen Sicherheitsbehörden und -organisationen angehört werden, insbesondere
 
@@ -162,8 +151,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann allgemeine Au
 
 (2) Verbände und Sachverständige der beteiligten Wirtschaft einschließlich der Verkehrswirtschaft sollen vor dem Erlass der Rechtsverordnungen nach Absatz 1 gehört werden. Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt den jeweiligen Umfang der Anhörung und die anzuhörenden Verbände und Sachverständigen.
 
-
-## § 7b – Beirat
+# § 7b – Beirat
 
 (1) Beim Bundesministerium für Verkehr und digitale Infrastruktur wird ein Gefahrgut-Verkehrs-Beirat (Beirat) eingesetzt.
 
@@ -185,8 +173,7 @@ angehören. Das Bundesministerium für Verkehr und digitale Infrastruktur die Za
 
 (4) Die Bundesministerien haben das Recht, in Sitzungen des Beirats vertreten zu sein und gehört zu werden.
 
-
-## § 8 – Maßnahmen der zuständigen Behörden
+# § 8 – Maßnahmen der zuständigen Behörden
 
 (1) Die jeweils für die Überwachung zuständige Behörde kann im Einzelfall die Anordnungen treffen, die zur Beseitigung festgestellter oder zur Verhütung künftiger Verstöße gegen dieses Gesetz oder gegen die nach diesem Gesetz erlassenen Rechtsverordnungen erforderlich sind. Sie kann insbesondere
 
@@ -198,8 +185,7 @@ angehören. Das Bundesministerium für Verkehr und digitale Infrastruktur die Za
 
 (2) Absatz 1 gilt für die Ladung entsprechend.
 
-
-## § 9 – Überwachung
+# § 9 – Überwachung
 
 (1) Die Beförderung gefährlicher Güter unterliegt der Überwachung durch die zuständigen Behörden.
 
@@ -221,8 +207,7 @@ angehören. Das Bundesministerium für Verkehr und digitale Infrastruktur die Za
 
 (5) Verantwortlicher für die Beförderung ist, wer als Unternehmer oder als Inhaber eines Betriebes gefährliche Güter verpackt, verlädt, versendet, befördert, entlädt, empfängt oder auspackt. Als Verantwortlicher gilt auch, wer als Unternehmer oder als Inhaber eines Betriebes Verpackungen, Beförderungsbehältnisse oder Fahrzeuge zur Beförderung gefährlicher Güter gemäß Absatz 3 herstellt, einführt oder in den Verkehr bringt.
 
-
-## § 9a – Amtshilfe und Datenschutz
+# § 9a – Amtshilfe und Datenschutz
 
 (1) Die Übermittlung personenbezogener Daten bei der Gewährung von Amtshilfe gegenüber zuständigen Behörden der Mitgliedstaaten der Europäischen Union und anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum im Rahmen der Überwachung der Beförderung gefährlicher Güter ist nur zulässig, soweit dies zur Verfolgung von schwerwiegenden oder wiederholten Verstößen gegen Vorschriften über die Beförderung gefährlicher Güter erforderlich ist.
 
@@ -256,8 +241,7 @@ Die in Absatz 5 bestimmten Stellen dürfen diese Daten verwenden, soweit es für
 
 (10) Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen und allgemeine Verwaltungsvorschriften über das Verfahren bei der Erhebung, Speicherung und Übermittlung der Daten nach Absatz 2 bis 9 zu erlassen.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -269,8 +253,7 @@ b) § 3 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 3, 4 Buchstabe a und b, Nr. 5 bi
 
 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-1a.  
-einer Rechtsverordnung nach § 6, § 7 Abs. 1 Satz 2 oder § 7 Abs. 2 in Verbindung mit § 7 Abs. 1 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+1a. einer Rechtsverordnung nach § 6, § 7 Abs. 1 Satz 2 oder § 7 Abs. 2 in Verbindung mit § 7 Abs. 1 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
 2. einer vollziehbaren Anordnung oder Auflage nach § 7 Abs. 1 Satz 1, auch in Verbindung mit § 7 Abs. 2, oder nach § 8 Abs. 1 Satz 2, auch in Verbindung mit § 8 Abs. 2, zuwiderhandelt,
 
@@ -286,13 +269,11 @@ einer Rechtsverordnung nach § 6, § 7 Abs. 1 Satz 2 oder § 7 Abs. 2 in Verbind
 
 (4) § 7 Abs. 4 Satz 2 des Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 5. Juli 2001 (BGBl. I S. 2026), das zuletzt durch Artikel 4 des Gesetzes vom 8. April 2008 (BGBl. I S. 706) geändert worden ist, bleibt unberührt.
 
-
-## § 11 – Strafvorschriften
+# § 11 – Strafvorschriften
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer eine in § 10 Abs. 1 Nr. 1 Buchstabe a bezeichnete vorsätzliche Handlung beharrlich wiederholt oder durch eine solche vorsätzliche Handlung Leben oder Gesundheit eines Anderen, ihm nicht gehörende Tiere oder fremde Sachen von bedeutendem Wert gefährdet.
 
-
-## § 12 – Kosten
+# § 12 – Kosten
 
 (1) Für Amtshandlungen einschließlich Prüfungen und Untersuchungen nach diesem Gesetz und den auf ihm beruhenden Rechtsvorschriften werden Kosten (Gebühren und Auslagen) erhoben. Das Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I S. 821) in der bis zum 14. August 2013 geltenden Fassung findet Anwendung.
 
@@ -302,11 +283,8 @@ Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer ein
 
 (4) Rechtsverordnungen über Kosten, deren Gläubiger der Bund ist, bedürfen nicht der Zustimmung des Bundesrates.
 
+# § 13 – (Änderungen anderer Gesetze)
 
-## § 13 – (Änderungen anderer Gesetze)
+# § 14 – (weggefallen)
 
-
-## § 14 – (weggefallen)
-
-
-## § 15 – (Inkrafttreten)
+# § 15 – (Inkrafttreten)

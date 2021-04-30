@@ -1,15 +1,11 @@
-# [BPräsSoldErnAnO] Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten
-
-Ausfertigungsdatum: 10.07.1969
-
+% Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Soldaten
+% Ausfertigungsdatum: 10.07.1969
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung vom 22. April 1969 (Bundesgesetzbl. I S. 313) ordne ich an:
 
-
-## Art 1
+# Art 1
 
 (1) Ich behalte mir das Recht zur Ernennung und Entlassung der Offiziere vor, die der Besoldungsordnung B angehören.
 
@@ -17,12 +13,10 @@ Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der Bekanntmachung
 
 (3) Für besondere Fälle behalte ich mir die Ernennung und Entlassung auch in den Fällen vor, in denen ich die Ausübung meiner Befugnisse übertragen habe.
 
-
-## Art 2
+# Art 2
 
 Die zur Durchführung dieser Anordnung erforderlichen Bestimmungen erlassen die Bundesminister der Verteidigung und des Innern.
 
-
-## Art 3
+# Art 3
 
 Diese Anordnung tritt am Tage nach ihrer Verkündung in Kraft.

@@ -1,15 +1,11 @@
-# [SolZG] Solidaritätszuschlaggesetz  (SolZG)
-
-Ausfertigungsdatum: 24.06.1991
-
+% Solidaritätszuschlaggesetz  (SolZG)
+% Ausfertigungsdatum: 24.06.1991
  
-
-## § 1 – Erhebung eines Solidaritätszuschlags
+# § 1 – Erhebung eines Solidaritätszuschlags
 
 Zur Einkommensteuer und zur Körperschaftsteuer wird ein Solidaritätszuschlag als Ergänzungsabgabe erhoben.
 
-
-## § 2 – Abgabepflicht
+# § 2 – Abgabepflicht
 
 Abgabepflichtig sind
 
@@ -19,8 +15,7 @@ Abgabepflichtig sind
 
 es sei denn, die jeweilige Steuerpflicht hat vor dem 14. Mai 1991 geendet.
 
-
-## § 3 – Bemessungsgrundlage
+# § 3 – Bemessungsgrundlage
 
 (1) Der Solidaritätszuschlag bemißt sich vorbehaltlich Absatz 2,
 
@@ -58,8 +53,7 @@ nach dem im Zeitraum vom 1. Juli 1991 bis 30. Juni 1992 zu erhebenden Steuerabzu
 
 (2) § 51a Abs. 2 des Einkommensteuergesetzes ist nicht anzuwenden. Steuerermäßigungen nach den §§ 21 und 26 des Berlinförderungsgesetzes mindern die Bemessungsgrundlage nicht.
 
-
-## § 4 – Tarifvorschriften
+# § 4 – Tarifvorschriften
 
 Der Solidaritätszuschlag beträgt in den Fällen  
 
@@ -71,7 +65,6 @@ Der Solidaritätszuschlag beträgt in den Fällen
   
 der Bemessungsgrundlage. Bruchteile eines Pfennigs bleiben außer Ansatz.
 
-
-## § 5 – Doppelbesteuerungsabkommen
+# § 5 – Doppelbesteuerungsabkommen
 
 Werden auf Grund eines Abkommens zur Vermeidung der Doppelbesteuerung im Geltungsbereich dieses Gesetzes erhobene Steuern vom Einkommen ermäßigt, so ist diese Ermäßigung zuerst auf den Solidaritätszuschlag zu beziehen.

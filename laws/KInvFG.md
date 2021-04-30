@@ -1,15 +1,11 @@
-# [KInvFG] Gesetz zur Förderung von Investitionen finanzschwacher Kommunen  (Kommunalinvestitionsförderungsgesetz - KInvFG)
-
-Ausfertigungsdatum: 24.06.2015
-
+% Gesetz zur Förderung von Investitionen finanzschwacher Kommunen  (Kommunalinvestitionsförderungsgesetz - KInvFG)
+% Ausfertigungsdatum: 24.06.2015
  
-
-## § 1 – Förderziel und Fördervolumen
+# § 1 – Förderziel und Fördervolumen
 
 Zum Ausgleich unterschiedlicher Wirtschaftskraft im Bundesgebiet unterstützt der Bund die Länder bei der Stärkung der Investitionstätigkeit finanzschwacher Gemeinden und Gemeindeverbände. Hierzu gewährt der Bund aus dem Sondervermögen „Kommunalinvestitionsförderungsfonds“ den Ländern Finanzhilfen für Investitionen finanzschwacher Gemeinden und Gemeindeverbände nach Artikel 104b Absatz 1 Nummer 2 des Grundgesetzes in Höhe von insgesamt 3,5 Milliarden Euro.
 
-
-## § 2 – Verteilung
+# § 2 – Verteilung
 
 Der in § 1 Satz 2 festgelegte Betrag wird nach folgenden Prozentsätzen auf die Länder aufgeteilt:  
   
@@ -33,8 +29,7 @@ Der in § 1 Satz 2 festgelegte Betrag wird nach folgenden Prozentsätzen auf die
 | Schleswig-Holstein     |  2,8439 |
 | Thüringen              | 2,1663. |
 
-
-## § 3 – Förderbereiche
+# § 3 – Förderbereiche
 
 Die Finanzhilfen werden trägerneutral für Maßnahmen in folgenden Bereichen gewährt:
 
@@ -64,8 +59,7 @@ d) Modernisierung von überbetrieblichen Berufsbildungsstätten.
 
 Einrichtungen gemäß Nummer 1 außerhalb der sozialen Daseinsvorsorge, die durch Gebühren und Beiträge vollständig zu finanzieren sind, können nicht gefördert werden.
 
-
-## § 4 – Doppelförderung
+# § 4 – Doppelförderung
 
 (1) Für Investitionen, die nach anderen Gesetzen und Verwaltungsvereinbarungen als Anteilsfinanzierung nach Artikel 104b des Grundgesetzes oder nach Artikel 91a des Grundgesetzes oder durch andere Förderprogramme des Bundes gefördert werden, können nicht gleichzeitig Finanzhilfen nach diesem Gesetz gewährt werden.
 
@@ -73,15 +67,13 @@ Einrichtungen gemäß Nummer 1 außerhalb der sozialen Daseinsvorsorge, die durc
 
 (3) Die geförderten Investitionen sollen unter Berücksichtigung der demografischen Veränderungen auch längerfristig nutzbar sein.
 
-
-## § 5 – Förderzeitraum
+# § 5 – Förderzeitraum
 
 (1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni 2015 begonnen werden. Vor dem 1. Juli 2015 begonnene Investitionen, aber noch nicht abgeschlossene Maßnahmen können gefördert werden, wenn gegenüber dem Bund erklärt wird, dass es sich um selbstständige Abschnitte eines laufenden Vorhabens handelt. Im Jahr 2022 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2021 vollständig abgenommen wurden und die im Jahr 2022 vollständig abgerechnet werden.
 
 (2) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren – im Folgenden Vorabfinanzierungs-ÖPP (Öffentlich Private Partnerschaft) –, Fördermittel für derartige Vorabfinanzierungs-ÖPP können bis zum 31. Dezember 2022 beantragt werden, wenn bis zum 31. Dezember 2023 die Abnahme und Abrechnung des Investitionsvorhabens erfolgt.
 
-
-## § 6 – Förderquote und Bewirtschaftung
+# § 6 – Förderquote und Bewirtschaftung
 
 (1) Der Bund beteiligt sich mit bis zu 90 Prozent, die Länder einschließlich der Gemeinden und Gemeindeverbände beteiligen sich mit mindestens 10 Prozent am Gesamtvolumen des öffentlichen Finanzierungsanteils der förderfähigen Kosten der Investitionen finanzschwacher Gemeinden und Gemeindeverbände eines Landes. Die Länder sind aufgefordert, dafür Sorge zu tragen, dass finanzschwache Gemeinden und Gemeindeverbände den Eigenfinanzierungsanteil erbringen können.
 
@@ -89,15 +81,13 @@ Einrichtungen gemäß Nummer 1 außerhalb der sozialen Daseinsvorsorge, die durc
 
 (3) Den Ländern obliegt jeweils entsprechend den landesspezifischen Gegebenheiten die Auswahl der finanzschwachen Gemeinden und Gemeindeverbände beziehungsweise den Stadtstaaten die Auswahl der förderfähigen Gebiete. Die Länder teilen dem Bundesministerium der Finanzen die Kriterien mit, anhand derer die Auswahl getroffen wurde.
 
-
-## § 7 – Prüfung der Mittelverwendung
+# § 7 – Prüfung der Mittelverwendung
 
 (1) Die zuständigen obersten Landesbehörden sind verpflichtet, dem Bundesministerium der Finanzen die zur Durchführung dieses Gesetzes erforderlichen Auskünfte zu erteilen. Das Prüfungsrecht des Bundesrechnungshofes gemeinsam mit dem jeweiligen Landesrechnungshof im Sinne des § 93 der Bundeshaushaltsordnung bleibt hiervon unberührt.
 
 (2) Die zuständigen obersten Landesbehörden übersenden dem Bundesministerium der Finanzen halbjährlich jeweils zum 1. April und zum 1. Oktober eines Jahres Übersichten über die zweckentsprechende Verwendung der Bundesmittel der abgeschlossenen Maßnahmen. Das Nähere regelt die Verwaltungsvereinbarung.
 
-
-## § 8 – Rückforderung
+# § 8 – Rückforderung
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen der §§ 3 bis 6 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Zurückgeforderte Mittel werden von dem jeweiligen Land an den Bund zurückgezahlt und können vorbehaltlich von Absatz 2 Satz 1 dem Land erneut zur Verfügung gestellt werden.
 
@@ -107,18 +97,15 @@ Einrichtungen gemäß Nummer 1 außerhalb der sozialen Daseinsvorsorge, die durc
 
 (4) Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium der Finanzen sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
 
-
-## § 9 – Verwaltungsvereinbarung
+# § 9 – Verwaltungsvereinbarung
 
 Die Einzelheiten des Verfahrens zur Durchführung dieses Gesetzes werden durch Verwaltungsvereinbarung geregelt. Die Inanspruchnahme der Finanzhilfen ist an das Inkrafttreten der Verwaltungsvereinbarung gebunden.
 
-
-## § 10 – Förderziel und Fördervolumen
+# § 10 – Förderziel und Fördervolumen
 
 Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbildender Schulen unterstützt der Bund die Länder bei der Stärkung der Investitionstätigkeit finanzschwacher Gemeinden und Gemeindeverbände. Hierzu gewährt er aus dem Sondervermögen „Kommunalinvestitionsförderungsfonds“ den Ländern Finanzhilfen für Investitionen finanzschwacher Gemeinden und Gemeindeverbände nach Artikel 104c des Grundgesetzes in Höhe von insgesamt 3,5 Milliarden Euro.
 
-
-## § 11 – Verteilung
+# § 11 – Verteilung
 
 (1) Der in § 10 Satz 2 festgelegte Betrag wird nach folgenden Prozentsätzen auf die Länder aufgeteilt:  
   
@@ -144,8 +131,7 @@ Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbil
 
 (2) Die Flächenländer legen im Einvernehmen mit dem Bund entsprechend den landesspezifischen Gegebenheiten die Auswahl der finanzschwachen Gemeinden und Gemeindeverbände, die Stadtstaaten dementsprechend die Auswahl der förderfähigen Gebiete fest.
 
-
-## § 12 – Förderbereich und Fördervoraussetzungen
+# § 12 – Förderbereich und Fördervoraussetzungen
 
 (1) Die Finanzhilfen werden trägerneutral für Maßnahmen zur Verbesserung der Schulinfrastruktur allgemeinbildender und berufsbildender Schulen gewährt.
 
@@ -157,20 +143,17 @@ Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbil
 
 (5) Investive Begleit- und Folgemaßnahmen werden nur gefördert, wenn sie in Zusammenhang mit den Maßnahmen nach Absatz 2 stehen.
 
-
-## § 13 – Förderzeitraum
+# § 13 – Förderzeitraum
 
 (1) Investitionen können gefördert werden, wenn sie nach dem 30. Juni 2017 begonnen werden. Vor dem 1. Juli 2017 begonnene, aber noch nicht abgeschlossene Investitionen können gefördert werden, wenn gegenüber dem Bund erklärt wird, dass es sich um selbstständige Abschnitte eines laufenden Vorhabens handelt. Im Jahr 2024 können Finanzhilfen nur für Investitionsvorhaben oder selbstständige Abschnitte von Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember 2023 vollständig abgenommen wurden und die im Jahr 2024 vollständig abgerechnet werden.
 
 (2) Förderfähig sind auch Investitionsvorhaben, bei denen sich die öffentliche Verwaltung zur Erledigung der von ihr wahrzunehmenden Aufgaben über den Lebenszyklus des Vorhabens eines Privaten im Rahmen einer vertraglichen Zusammenarbeit bedient. Dabei kann sie dem privaten Vertragspartner für den investiven Kostenanteil des Vorhabens eine einmalige Vorabfinanzierung gewähren. Fördermittel für derartige Vorabfinanzierungen der Öffentlich-Privaten Partnerschaften können bis zum 31. Dezember 2024 beantragt werden, wenn bis zum 31. Dezember 2025 die Abnahme und Abrechnung des Investitionsvorhabens erfolgen.
 
-
-## § 14 – Förderquote, Bewirtschaftung und Prüfung der Mittelverwendung
+# § 14 – Förderquote, Bewirtschaftung und Prüfung der Mittelverwendung
 
 § 4 Absatz 1 und 3, § 6 Absatz 1 und 2 sowie § 7 gelten auch für Finanzhilfen gemäß § 10 Satz 2.
 
-
-## § 15 – Rückforderung
+# § 15 – Rückforderung
 
 (1) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte einzelne Maßnahmen nicht die Voraussetzungen des § 4 Absatz 1 und 2, des § 6 Absatz 1 und 2, des § 11 Absatz 2 und des § 12 erfüllen und der zurückzuzahlende Betrag 1 000 Euro je Maßnahme übersteigt. Zurückgeforderte Mittel werden von dem jeweiligen Land an den Bund zurückgezahlt und können vorbehaltlich des Absatzes 2 Satz 1 dem Land erneut zur Verfügung gestellt werden.
 
@@ -180,7 +163,6 @@ Zur Verbesserung der Schulinfrastruktur allgemeinbildender Schulen und berufsbil
 
 (4) Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium der Finanzen sowie der Bundesrechnungshof ein Recht auf einzelfallbezogene Informationsbeschaffung einschließlich örtlicher Erhebungsbefugnisse.
 
-
-## § 16 – Verwaltungsvereinbarung
+# § 16 – Verwaltungsvereinbarung
 
 Die Einzelheiten des Verfahrens zur Durchführung des Kapitels 2 dieses Gesetzes werden durch Verwaltungsvereinbarung geregelt. Die Inanspruchnahme der Finanzhilfen ist an das Inkrafttreten der Verwaltungsvereinbarung gebunden.

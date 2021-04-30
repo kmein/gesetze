@@ -1,15 +1,11 @@
-# [GnO] Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrechts des Bundes
-
-Ausfertigungsdatum: 05.10.1965
-
+% Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrechts des Bundes
+% Ausfertigungsdatum: 05.10.1965
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 60 Abs. 2 und 3 des Grundgesetzes ordne ich an:
 
-
-## Art 1 – Vorbehaltene Gnadenentschließungen
+# Art 1 – Vorbehaltene Gnadenentschließungen
 
 Ich behalte mir vor, in rechtskräftig abgeschlossenen Strafsachen, Disziplinarsachen oder Ehrengerichtssachen, in denen das Begnadigungsrecht dem Bund zusteht, folgende Gnadenerweise selbst zu erteilen:
 
@@ -27,8 +23,7 @@ b) Aberkennung des Ruhegehalts oder Aberkennung der Rechte aus dem Gesetz zur Re
 
 5. die Aufhebung der gegen einen Rechtsanwalt beim Bundesgerichtshof erkannten Ausschließung aus der Rechtsanwaltschaft.
 
-
-## Art 2 – Übertragung von Gnadenbefugnissen
+# Art 2 – Übertragung von Gnadenbefugnissen
 
 (1) Soweit ich mir die Ausübung des Begnadigungsrechts des Bundes nicht vorbehalten habe, übertrage ich sie
 
@@ -64,17 +59,14 @@ b) in rechtskräftig abgeschlossenen Ordnungsstrafsachen ihres Geschäftsbereich
 
 (3) Die Ermächtigungen gelten nicht für Fälle von außerordentlicher Bedeutung; in diesen behalte ich mir vor, selbst zu entscheiden.
 
-
-## Art 3 – Weiterübertragung von Gnadenbefugnissen
+# Art 3 – Weiterübertragung von Gnadenbefugnissen
 
 Ich ermächtige die Bundesminister, denen ich die Ausübung des Begnadigungsrechts des Bundes übertragen habe, ihre Befugnisse allgemein oder im Einzelfall auf nachgeordnete Stellen zu übertragen.
 
-
-## Art 4 – Verfahren in Gnadensachen
+# Art 4 – Verfahren in Gnadensachen
 
 Die Bundesminister und die in Artikel 2 Abs. 1 Nr. 1 bezeichneten obersten Dienstbehörden bereiten die mir vorbehaltenen Entscheidungen in den Gnadensachen ihres Geschäftsbereichs vor. Ist eine zuständige Stelle nicht vorhanden oder erachtet sich keine Stelle für zuständig, so obliegt die Vorbereitung dem Bundesminister des Innern.
 
-
-## Art 5 – Schlußvorschrift
+# Art 5 – Schlußvorschrift
 
 Diese Anordnung tritt am Tage ihrer Verkündung in Kraft. Gleichzeitig wird die Anordnung über die Ausübung des Begnadigungsrechts des Bundes vom 10. Dezember 1952 (Bundesgesetzbl. I S. 790) aufgehoben.

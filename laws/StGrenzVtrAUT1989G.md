@@ -1,22 +1,17 @@
-# [StGrenzVtrAUT1989G] Gesetz zu dem Vertrag vom 3. April 1989 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze in der Sektion III des Grenzabschnittes "Scheibelberg-Bodensee" sowie in einem Teil des Grenzabschnittes "Dreieckmark-Dandlbachmündung" und des Grenzabschnittes "Saalach-Scheibelberg"
-
-Ausfertigungsdatum: 02.04.1993
-
+% Gesetz zu dem Vertrag vom 3. April 1989 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze in der Sektion III des Grenzabschnittes "Scheibelberg-Bodensee" sowie in einem Teil des Grenzabschnittes "Dreieckmark-Dandlbachmündung" und des Grenzabschnittes "Saalach-Scheibelberg"
+% Ausfertigungsdatum: 02.04.1993
  
-
-## Art 1
+# Art 1
 
 (1) Dem in Wien am 3. April 1989 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze in der Sektion III des Grenzabschnittes "Scheibelberg-Bodensee" sowie in einem Teil des Grenzabschnittes "Dreieckmark-Dandebachmündung" und des Grenzabschnittes "Saalach-Scheibelberg" wird zugestimmt.
 
 (2) Der Vertrag wird nachstehend mit einer Übersichtskarte der betreffenden Grenzabschnitte veröffentlicht. Die in den Artikeln 1, 2 und 3 des Vertrages genannten Anlagen liegen beim Auswärtigen Amt (Politisches Archiv) und beim Bayerischen Landesvermessungsamt sowie - in dem die jeweiligen Grenzabschnitte betreffenden Umfang - bei den für diese Grenzabschnitte jeweils zuständigen bayerischen Vermessungsämtern zur Einsicht bereit.
 
-
-## Art 2
+# Art 2
 
 In den Gebietsteilen, die nach den Artikel 2 und 3 des Vertrages der Bundesrepublik Deutschland zufallen, treten mit dem Zeitpunkt des Inkrafttretens des Vertrages die in den Regierungsbezirken Niederbayern und Oberbayern geltenden Vorschriften des Bundesrechts in Kraft. Gleichzeitig tritt das österreichische Recht in diesen Gebietsteilen außer Kraft.
 
-
-## Art 3
+# Art 3
 
 (1) Die Regierung des Freistaates Bayern wird ermächtigt, für die nach dem Vertrag der Bundesrepublik Deutschland zufallenden Gebietsteile durch Rechtsverordnung
 
@@ -26,8 +21,7 @@ In den Gebietsteilen, die nach den Artikel 2 und 3 des Vertrages der Bundesrepub
 
 (2) Die Regierung des Freistaates Bayern kann die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
-
-## Art 4
+# Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

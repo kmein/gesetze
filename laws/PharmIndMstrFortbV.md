@@ -1,15 +1,11 @@
-# [PharmIndMstrFortbV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie
-
-Ausfertigungsdatum: 26.08.2010
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie
+% Ausfertigungsdatum: 26.08.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), dessen Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die durch die berufliche Fortbildung zum „Geprüften Industriemeister – Fachrichtung Pharmazie“ und zur „Geprüften Industriemeisterin – Fachrichtung Pharmazie“ erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 10 durchführen.
 
@@ -29,8 +25,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Industriemeister – Fachrichtung Pharmazie“ oder “Geprüfte Industriemeisterin – Fachrichtung Pharmazie“.
 
-
-## § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
+# § 2 – Umfang der Industriemeisterqualifikation und Gliederung der Prüfung
 
 (1) Die Qualifikation zum „Geprüften Industriemeister – Fachrichtung Pharmazie“ und zur „Geprüften Industriemeisterin – Fachrichtung Pharmazie“ umfasst:
 
@@ -50,8 +45,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Im Prüfungsteil nach Absatz 3 Nummer 1 ist schriftlich in Form von anwendungsbezogenen Aufgabenstellungen gemäß § 4 zu prüfen. Im Prüfungsteil nach Absatz 3 Nummer 2 ist in Form von zwei handlungsspezifischen, integrierten Situationsaufgaben I und II sowie einer anwendungsbezogenen schriftlichen Ausarbeitung nach § 5 zu prüfen. Die Situationsaufgabe I wird schriftlich geprüft; die Situationsaufgabe II besteht aus einer schriftlichen Aufgabenstellung und einem Fachgespräch.
 
-
-## § 3 – Zulassungsvoraussetzungen
+# § 3 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist zuzulassen, wer Folgendes nachweist:
 
@@ -71,8 +65,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (4) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, berufspraktische Qualifikationen erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 4 – Fachrichtungsübergreifende Basisqualifikationen
+# § 4 – Fachrichtungsübergreifende Basisqualifikationen
 
 (1) Im Prüfungsteil „Fachrichtungsübergreifende Basisqualifikationen“ ist in folgenden Prüfungsbereichen zu prüfen:
 
@@ -110,8 +103,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 5. Unterscheiden von Kostenarten-, Kostenstellen- und Kostenträgerrechnung sowie Durchführen von Kalkulationsverfahren.
 
-(4) Im Prüfungsbereich „Anwenden von Methoden der Information, Kommunikation und Planung“ soll die Fähigkeit nachgewiesen werden, Projekte und Prozesse analysieren und transparent machen zu können. Dazu gehört, Daten aufbereiten, technische Unterlagen lesen sowie entsprechende Planungstechniken unterscheiden zu können. Es soll ferner die Fähigkeit nachgewiesen werden, angemessene Präsentationstechniken anwenden zu können.  
-In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
+(4) Im Prüfungsbereich „Anwenden von Methoden der Information, Kommunikation und Planung“ soll die Fähigkeit nachgewiesen werden, Projekte und Prozesse analysieren und transparent machen zu können. Dazu gehört, Daten aufbereiten, technische Unterlagen lesen sowie entsprechende Planungstechniken unterscheiden zu können. Es soll ferner die Fähigkeit nachgewiesen werden, angemessene Präsentationstechniken anwenden zu können. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 1. Erfassen, Analysieren und Aufbereiten von Prozess- und Produktionsdaten mit EDV-Systemen und Bewerten visualisierter Daten,
 
@@ -143,8 +135,7 @@ In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 (7) Wurde in nicht mehr als einer schriftlichen Prüfungsleistung in den in Absatz 1 Nummer 1 bis 4 genannten Prüfungsbereichen eine mangelhafte Leistung erbracht, ist in diesem Prüfungsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden schriftlichen Prüfungsleistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und nicht länger als 20 Minuten dauern. Die Bewertung der schriftlichen Prüfungsleistung und die der mündlichen Ergänzungsprüfung werden zu einer Bewertung der Prüfungsleistung zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Der Prüfungsteil „Handlungsspezifische Qualifikationen“ umfasst die Handlungsbereiche
 
@@ -184,9 +175,7 @@ In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 4. Qualitätsmanagement im regulierten Umfeld.
 
-(5) Im Handlungsbereich „Pharmazeutische Fertigung und Verpackung“ wird unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen die Situationsaufgabe I nach Absatz 6 und im Handlungsbereich „Organisation, Führung und Kommunikation“ unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen die Situationsaufgabe II nach Absatz 7 gestellt. Die Situationsaufgabe I und die Situationsaufgabe II sind so zu gestalten, dass die Qualifikationsschwerpunkte der Handlungsbereiche nach Absatz 1 Nummer 1 und 2 mindestens einmal thematisiert werden. Im Handlungsbereich „Spezialisierungsgebiete“ ist eine schriftliche Ausarbeitung nach Absatz 8 anzufertigen.  
-Die Prüfungsdauer für die Bearbeitung der schriftlichen Situationsaufgabe I beträgt mindestens vier Stunden. Die Prüfungsdauer für die Bearbeitung der schriftlichen Aufgabenstellung in der Situationsaufgabe II beträgt mindestens zwei Stunden und für das Fachgespräch mindestens 30 Minuten, höchstens 45 Minuten; für das Fachgespräch sind 45 Minuten Vorbereitungszeit einzuräumen.  
-Die Prüfungsdauer für die Situationsaufgaben I und II darf insgesamt nicht mehr als acht Stunden betragen. Die Prüfungsdauer für die schriftliche Ausarbeitung im Handlungsbereich „Spezialisierungsgebiete“ beträgt mindestens 75 und höchstens 90 Minuten.
+(5) Im Handlungsbereich „Pharmazeutische Fertigung und Verpackung“ wird unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen die Situationsaufgabe I nach Absatz 6 und im Handlungsbereich „Organisation, Führung und Kommunikation“ unter Berücksichtigung der fachrichtungsübergreifenden Basisqualifikationen die Situationsaufgabe II nach Absatz 7 gestellt. Die Situationsaufgabe I und die Situationsaufgabe II sind so zu gestalten, dass die Qualifikationsschwerpunkte der Handlungsbereiche nach Absatz 1 Nummer 1 und 2 mindestens einmal thematisiert werden. Im Handlungsbereich „Spezialisierungsgebiete“ ist eine schriftliche Ausarbeitung nach Absatz 8 anzufertigen. Die Prüfungsdauer für die Bearbeitung der schriftlichen Situationsaufgabe I beträgt mindestens vier Stunden. Die Prüfungsdauer für die Bearbeitung der schriftlichen Aufgabenstellung in der Situationsaufgabe II beträgt mindestens zwei Stunden und für das Fachgespräch mindestens 30 Minuten, höchstens 45 Minuten; für das Fachgespräch sind 45 Minuten Vorbereitungszeit einzuräumen. Die Prüfungsdauer für die Situationsaufgaben I und II darf insgesamt nicht mehr als acht Stunden betragen. Die Prüfungsdauer für die schriftliche Ausarbeitung im Handlungsbereich „Spezialisierungsgebiete“ beträgt mindestens 75 und höchstens 90 Minuten.
 
 (6) Kern der Situationsaufgabe I ist mit etwa zwei Dritteln der Handlungsbereich „Pharmazeutische Fertigung und Verpackung“, wobei der Qualifikationsschwerpunkt „Pharmazeutische Technologie“ den Kernpunkt bilden soll. Qualifikationsschwerpunkte des Handlungsbereiches „Organisation, Führung und Kommunikation“ sind mit bis zu einem Drittel integrativ einzubeziehen. Im Einzelnen kann die Situationsaufgabe I folgende Qualifikationsinhalte aus dem Handlungsbereich „Pharmazeutische Fertigung und Verpackung“ mit den Schwerpunkten nach den folgenden Nummern 1 bis 3 umfassen:
 
@@ -350,15 +339,13 @@ g) Mitwirken bei der Bearbeitung von internen und externen Reklamationen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 6 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder Satz 3 oder § 8 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -386,8 +373,7 @@ Aus den Bewertungen für die schriftliche Aufgabenstellung und für das Fachgesp
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -421,8 +407,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach der Anlage 2 Teil A und B.
 
@@ -436,8 +421,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jeder nicht bestandene Prüfungsteil kann zweimal wiederholt werden.
 
@@ -445,29 +429,25 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Zusatzqualifikationen
+# § 11 – Zusatzqualifikationen
 
 Wer die Prüfung nach dieser Verordnung bestanden hat, kann beantragen, die Prüfung in weiteren Spezialisierungsgebieten nach § 5 Absatz 4 abzulegen. Über die bestandene Prüfung ist eine Bescheinigung auszustellen. § 8 Absatz 1 gilt entsprechend.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschrift
+# § 12 – Übergangsvorschrift
 
 Die bis zum Ablauf des 30. September 2010 begonnenen Prüfungsverfahren können nach den bisherigen Vorschriften zu Ende geführt werden. Auf Antrag kann die zuständige Stelle die Wiederholungsprüfung auch nach dieser Verordnung durchführen; § 8 Absatz 2 findet in diesem Fall keine Anwendung.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten, Außerkrafttreten
+# § 13 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Oktober 2010 in Kraft. Gleichzeitig tritt die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Pharmazie vom 19. Mai 1989 (BGBl. I S. 982), die zuletzt durch Artikel 22 der Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2343 – 2344)
 
@@ -476,8 +456,7 @@ Diese Verordnung tritt am 1. Oktober 2010 in Kraft. Gleichzeitig tritt die Veror
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2344 – 2345)
 

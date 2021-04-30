@@ -1,15 +1,11 @@
-# [SchuVAbdrV] Verordnung über den Bezug von Abdrucken aus dem Schuldnerverzeichnis  (Schuldnerverzeichnisabdruckverordnung - SchuVAbdrV)
-
-Ausfertigungsdatum: 26.07.2012
-
+% Verordnung über den Bezug von Abdrucken aus dem Schuldnerverzeichnis  (Schuldnerverzeichnisabdruckverordnung - SchuVAbdrV)
+% Ausfertigungsdatum: 26.07.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 882g Absatz 8 der Zivilprozessordnung, der durch Artikel 1 Nummer 17 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Bewilligung des Bezugs von Abdrucken
+# § 1 – Bewilligung des Bezugs von Abdrucken
 
 (1) Abdrucke aus Schuldnerverzeichnissen dürfen nur Inhabern einer Bewilligung nach den Vorschriften dieses Abschnitts erteilt werden.
 
@@ -33,13 +29,11 @@ Auf Grund des § 882g Absatz 8 der Zivilprozessordnung, der durch Artikel 1 Numm
 
 Die Überlassung von Listen ist unzulässig, wenn bei den Listenbeziehern die Voraussetzungen der §§ 882f und 882g Absatz 1 und 2 der Zivilprozessordnung nicht erfüllt sind oder Versagungsgründe entsprechend Absatz 3 vorliegen.
 
-
-## § 2 – Zuständigkeit
+# § 2 – Zuständigkeit
 
 Über Anträge nach § 882g Absatz 1 Satz 1 der Zivilprozessordnung entscheidet der Leiter oder die Leiterin des zentralen Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung, bei dem das Schuldnerverzeichnis geführt wird.
 
-
-## § 3 – Antrag
+# § 3 – Antrag
 
 (1) Der Antrag ist schriftlich bei dem nach § 2 zuständigen Leiter oder der zuständigen Leiterin des zentralen Vollstreckungsgerichts zu stellen. Die zur Entscheidung über den Antrag erforderlichen Angaben sind auf Verlangen glaubhaft zu machen.
 
@@ -59,8 +53,7 @@ Die Überlassung von Listen ist unzulässig, wenn bei den Listenbeziehern die Vo
 
 7. die Angabe, ob Einzelauskünfte im automatisierten Abrufverfahren erteilt werden sollen.
 
-
-## § 4 – Speicherung von Daten des Antragstellers
+# § 4 – Speicherung von Daten des Antragstellers
 
 (1) Für die Bewilligung des Bezugs von Abdrucken sowie die Einrichtung und Ausgestaltung des Abrufverfahrens von Abdrucken können personenbezogene Daten des Antragstellers, insbesondere der Name des Antragstellers, das Datum des Antrags sowie die Angaben des Antragstellers nach § 3 Absatz 2 von dem zentralen Vollstreckungsgericht oder der nach § 882h Absatz 1 Satz 3 der Zivilprozessordnung zuständigen Stelle verarbeitet werden.
 
@@ -68,8 +61,7 @@ Die Überlassung von Listen ist unzulässig, wenn bei den Listenbeziehern die Vo
 
 (3) Die Frist für die Aufbewahrung oder Speicherung beträgt sechs Jahre ab dem Ende des Jahres, in dem der Antrag gestellt wurde. Nach Ablauf der Frist nach Satz 1 oder mit dem Fristablauf der Bewilligung nach § 5 Absatz 2 in Verbindung mit § 6 Absatz 1 sind die Angaben zu löschen.
 
-
-## § 5 – Bewilligung
+# § 5 – Bewilligung
 
 (1) Die Bewilligung ist nur gegenüber dem Antragsteller wirksam. Sie ist nicht übertragbar.
 
@@ -85,8 +77,7 @@ Die Überlassung von Listen ist unzulässig, wenn bei den Listenbeziehern die Vo
 
 (4) Die Bewilligung wird der Stelle mitgeteilt, die nach den jeweils maßgeblichen datenschutzrechtlichen Vorschriften für die Kontrolle des Beziehers der Abdrucke zuständig ist.
 
-
-## § 6 – Befristungen, Auflagen und Bedingungen
+# § 6 – Befristungen, Auflagen und Bedingungen
 
 (1) Die Bewilligung ist auf mindestens ein Jahr und höchstens sechs Jahre zu befristen.
 
@@ -96,8 +87,7 @@ Die Überlassung von Listen ist unzulässig, wenn bei den Listenbeziehern die Vo
 
 2. nach denen der Eintritt oder der Wegfall einer Vergünstigung oder Belastung von dem ungewissen Eintritt eines zukünftigen Ereignisses abhängt (Bedingung).
 
-
-## § 7 – Widerruf und Rücknahme von Bewilligungen
+# § 7 – Widerruf und Rücknahme von Bewilligungen
 
 (1) Für den Widerruf von Bewilligungen gilt § 49 Absatz 2, 3 und 6 Satz 1 und 2 des Verwaltungsverfahrensgesetzes entsprechend.
 
@@ -113,8 +103,7 @@ Sind aus den Abdrucken Listen gefertigt und weitergegeben worden, so ist die rec
 
 (4) Ist eine Bewilligung rechtskräftig widerrufen oder zurückgenommen, so sind Abdrucke sowie daraus gefertigte Dateien, Listen und sonstige Aufzeichnungen unverzüglich und ordnungsgemäß zu löschen oder zu vernichten. Bezieher der Abdrucke und Inhaber von Listen können dazu durch Zwangsgeld angehalten werden. Das einzelne Zwangsgeld darf den Betrag von 25 000 Euro nicht übersteigen. Ist die Verhängung von Zwangsgeld untunlich oder erfolglos, so ist die Ersatzvornahme anzuordnen.
 
-
-## § 8 – Inhalt von Abdrucken
+# § 8 – Inhalt von Abdrucken
 
 (1) Abdrucke werden als Vollabdruck oder als Teilabdruck erteilt. Der Vollabdruck enthält alle Eintragungen im Schuldnerverzeichnis. Der Teilabdruck enthält nur die seit der letzten Abdruckerstellung eingetretenen Änderungen.
 
@@ -122,8 +111,7 @@ Sind aus den Abdrucken Listen gefertigt und weitergegeben worden, so ist die rec
 
 (3) Die Abdrucke dürfen keine weiteren Mitteilungen enthalten.
 
-
-## § 9 – Erteilung und Aufbewahrung von Abdrucken
+# § 9 – Erteilung und Aufbewahrung von Abdrucken
 
 (1) Abdrucke gemäß § 882g Absatz 1 der Zivilprozessordnung werden grundsätzlich in elektronischer Form übermittelt. Es gelten die Datenübermittlungsregeln der Landesjustizverwaltung des Landes, in dem das Schuldnerverzeichnis geführt wird. Die elektronische Übermittlung der Daten erfolgt bundesweit einheitlich durch ein geeignetes Transportprotokoll sowie in einheitlich strukturierten Datensätzen.
 
@@ -161,8 +149,7 @@ Werden zur Übermittlung öffentliche Telekommunikationsnetze genutzt, ist ein g
 
 Satz 2 gilt auch für Vervielfältigungen und jede andere Form der Bearbeitung der Abdrucke, insbesondere zum Zweck ihrer Maschinenlesbarkeit.
 
-
-## § 10 – Einstweiliger Ausschluss vom Bezug von Abdrucken
+# § 10 – Einstweiliger Ausschluss vom Bezug von Abdrucken
 
 (1) Der Inhaber einer Bewilligung kann von dem Bezug von Abdrucken einstweilen ausgeschlossen werden, wenn Tatsachen bekannt werden, die eine hinreichende Wahrscheinlichkeit begründen, dass die Bewilligung alsbald widerrufen oder zurückgenommen wird.
 
@@ -170,8 +157,7 @@ Satz 2 gilt auch für Vervielfältigungen und jede andere Form der Bearbeitung d
 
 (3) Ein nach Absatz 2 Satz 3 unwirksam gewordener oder alsbald unwirksam werdender einstweiliger Ausschluss kann wiederholt erlassen werden, wenn während des Zeitraums, in dem der zuerst erlassene einstweilige Ausschluss wirksam war, ein Verfahren mit dem Ziel des Widerrufs oder der Rücknahme der Bewilligung gemäß § 7 zwar eingeleitet, aber noch nicht abgeschlossen wurde. Die Gesamtdauer des einstweiligen Ausschlusses darf in einem Verfahren nicht mehr als drei Monate betragen. Für den wiederholten einstweiligen Ausschluss gelten im Übrigen die Absätze 1 und 2.
 
-
-## § 11 – Inhalt von Listen
+# § 11 – Inhalt von Listen
 
 (1) Listen sind Zusammenstellungen von Angaben aus einem oder mehreren Abdrucken. Die Aufnahme anderer Angaben als solchen aus rechtmäßig bezogenen Abdrucken oder die Verknüpfung mit anderen Angaben ist unzulässig.
 
@@ -187,13 +173,11 @@ Auswahlmerkmale dürfen sich nur auf Eintragungen nach § 882b Absatz 2 und 3 de
 
 (4) Die Listen dürfen keine weiteren Mitteilungen enthalten.
 
-
-## § 12 – Anfertigung, Erteilung und Verwendung von Listen
+# § 12 – Anfertigung, Erteilung und Verwendung von Listen
 
 Listen sind unverzüglich nach dem Eingang der Abdrucke zu erstellen und den Beziehern zu überlassen. § 9 gilt entsprechend.
 
-
-## § 13 – Ausschluss vom Bezug von Listen
+# § 13 – Ausschluss vom Bezug von Listen
 
 (1) Die Kammern sind verpflichtet, einen Bezieher von Listen künftig vom Bezug auszuschließen, wenn ihm die Bewilligung zum Bezug von Abdrucken zu versagen wäre. Diesen Ausschluss teilen die Kammern ihren Aufsichtsbehörden mit.
 
@@ -201,8 +185,7 @@ Listen sind unverzüglich nach dem Eingang der Abdrucke zu erstellen und den Bez
 
 (3) Bei Verstößen gegen Absatz 1 kann die Bewilligung zum Bezug von Abdrucken gemäß § 7 widerrufen werden.
 
-
-## § 14 – Löschung in Abdrucken und Listen
+# § 14 – Löschung in Abdrucken und Listen
 
 (1) Löschungen gemäß § 882g Absatz 6 der Zivilprozessordnung führen die Bezieher von Abdrucken und Listen sowie die Inhaber sonstiger Aufzeichnungen im Sinne des § 882g Absatz 6 Satz 1 der Zivilprozessordnung eigenverantwortlich durch.
 
@@ -212,13 +195,11 @@ Listen sind unverzüglich nach dem Eingang der Abdrucke zu erstellen und den Bez
 
 (4) Löschungsmitteilungen nach Absatz 2 sind unverzüglich nach Zugang umzusetzen. Sie sind zu vernichten oder zu löschen, sobald sie umgesetzt sind. Es ist durch geeignete technische Maßnahmen sicherzustellen, dass gelöschte Datensätze nicht wiederhergestellt werden können. Die Sätze 1 bis 3 gelten entsprechend für die Mitteilungen an die Listenbezieher nach Absatz 3.
 
-
-## § 15 – Kontrolle von Löschungen in Abdrucken und Listen
+# § 15 – Kontrolle von Löschungen in Abdrucken und Listen
 
 Werden öffentlichen Stellen Tatsachen bekannt, die die Annahme rechtfertigen, dass einer Löschungspflicht nach § 882g Absatz 6 der Zivilprozessordnung nicht nachgekommen wurde, haben sie diese Tatsachen dem Leiter oder der Leiterin des zentralen Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung mitzuteilen, bei dem das Schuldnerverzeichnis geführt wird, dem die zu löschende Eintragung entnommen wurde. Die zuständige Stelle nach § 2 ergreift die Maßnahmen nach dieser Verordnung und benachrichtigt die für die Kontrolle über die Einhaltung der Datenschutzvorschriften zuständigen Stellen.
 
-
-## § 16 – Einrichtung
+# § 16 – Einrichtung
 
 (1) Bezieher von Abdrucken dürfen unter den Voraussetzungen des § 882g Absatz 4 der Zivilprozessordnung im automatisierten Abrufverfahren Einzelauskünfte aus den Abdrucken nach Maßgabe der Vorschriften dieses Abschnitts erteilen.
 
@@ -234,13 +215,11 @@ Werden öffentlichen Stellen Tatsachen bekannt, die die Annahme rechtfertigen, d
 
 (3) Für Anfragen im automatisierten Abrufverfahren dürfen nur Angaben verwendet werden, deren Eintragung in das Schuldnerverzeichnis nach § 882b Absatz 2 und 3 der Zivilprozessordnung zu erfolgen hätte.
 
-
-## § 17 – Ausgestaltung elektronischer Abrufverfahren
+# § 17 – Ausgestaltung elektronischer Abrufverfahren
 
 Der Bezieher von Abdrucken, der Einzelauskünfte im automatisierten Abrufverfahren erteilt (Auskunftsstelle), hat gemäß den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) geeignete technische und organisatorische Maßnahmen zu treffen. § 9 Absatz 2 gilt entsprechend.
 
-
-## § 18 – Ausschluss von der Abrufberechtigung
+# § 18 – Ausschluss von der Abrufberechtigung
 
 (1) Die Auskunftsstelle ist verpflichtet, den Abrufberechtigten vom Abrufverfahren auszuschließen, wenn ihr Tatsachen bekannt werden, die erkennen lassen, dass
 
@@ -260,17 +239,14 @@ Die Auskunftsstelle teilt der für die Kontrolle der datenschutzrechtlichen Vors
 
 (3) Bei Verstößen gegen Absatz 1 kann die Bewilligung gemäß § 7 widerrufen werden.
 
-
-## § 19 – Rechtsweg
+# § 19 – Rechtsweg
 
 Auf Entscheidungen des Leiters oder der Leiterin des zentralen Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung nach dieser Verordnung sind die §§ 23 bis 30 des Einführungsgesetzes zum Gerichtsverfassungsgesetz anzuwenden.
 
-
-## § 20 – Inkrafttreten
+# § 20 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

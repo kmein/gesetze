@@ -1,20 +1,15 @@
-# [VDV] Verordnung zu Vertrauensdiensten    (Vertrauensdiensteverordnung - VDV)
-
-Ausfertigungsdatum: 15.02.2019
-
+% Verordnung zu Vertrauensdiensten    (Vertrauensdiensteverordnung - VDV)
+% Ausfertigungsdatum: 15.02.2019
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 20 Absatz 1 und 2 Nummer 1 und 3 bis 6 des Vertrauensdienstegesetzes vom 18. Juli 2017 (BGBl. I S. 2745) verordnet die Bundesregierung:
 
-
-## § 1 – Anforderungen an die Barrierefreiheit
+# § 1 – Anforderungen an die Barrierefreiheit
 
 Barrierefreie Vertrauensdienste gemäß § 7 Absatz 1 des Vertrauensdienstegesetzes sind, soweit technisch möglich, für Menschen mit Behinderungen wahrnehmbar, bedienbar, verständlich und robust zu gestalten. Hinweise und Informationen zur Barrierefreiheit nach § 7 Absatz 2 des Vertrauensdienstegesetzes müssen barrierefrei, wahrnehmbar und verständlich sein. Dabei haben sie sich am Stand der Technik zu orientieren.
 
-
-## § 2 – Ausgestaltung der Deckungsvorsorge für qualifizierte Vertrauensdiensteanbieter
+# § 2 – Ausgestaltung der Deckungsvorsorge für qualifizierte Vertrauensdiensteanbieter
 
 (1) Die Deckungsvorsorge nach Artikel 24 Absatz 2 Buchstabe c zweite Alternative der Verordnung (EU) Nr. 910/2014 in Verbindung mit § 10 des Vertrauensdienstegesetzes kann erbracht werden
 
@@ -34,15 +29,13 @@ Barrierefreie Vertrauensdienste gemäß § 7 Absatz 1 des Vertrauensdienstegeset
 
 5. Die Vereinbarung eines Selbstbehaltes in Höhe von bis zu 1 Prozent der Mindestversicherungssumme ist zulässig.
 
-
-## § 3 – Dokumentation der Ausgabe qualifizierter Zertifikate für Vertrauensdienste
+# § 3 – Dokumentation der Ausgabe qualifizierter Zertifikate für Vertrauensdienste
 
 (1) Soweit der Vertrauensdiensteanbieter bei der Ausgabe qualifizierter Zertifikate die Identität oder Attribute an Hand öffentlicher und auf Dauer zugänglicher Register oder Dokumente überprüft, genügt es, dass er vermerkt, in welches Register oder Dokument er Einsicht genommen hat und ob die verarbeiteten Daten mit denen im Register übereinstimmen. Ein Auszug des Registers oder Dokuments muss nicht zur Dokumentation genommen werden.
 
 (2) Nach § 12 des Vertrauensdienstegesetzes erforderliche Vollmachten, Einwilligungen oder Bestätigungen müssen qualifiziert elektronisch signiert, qualifiziert elektronisch gesiegelt oder handschriftlich unterschrieben sein.
 
-
-## § 4 – Vorsorge für die dauerhafte Prüfbarkeit qualifizierter Zertifikate
+# § 4 – Vorsorge für die dauerhafte Prüfbarkeit qualifizierter Zertifikate
 
 (1) Qualifizierte Vertrauensdiensteanbieter haben Vorsorge zu treffen, dass die Zertifikate im Fall einer Betriebseinstellung im Sinne des § 16 Absatz 1 Satz 1 des Vertrauensdienstegesetzes einschließlich der Widerrufsinformationen von einem anderen qualifizierten Vertrauensdiensteanbieter oder der Bundesnetzagentur übernommen werden können. Der qualifizierte Vertrauensdiensteanbieter ist verpflichtet hierfür den Stand der Technik einzuhalten.
 
@@ -52,12 +45,10 @@ Barrierefreie Vertrauensdienste gemäß § 7 Absatz 1 des Vertrauensdienstegeset
 
 (4) Im Fall von § 14 Absatz 1 Nummer 3 des Vertrauensdienstegesetzes ist der Widerrufsgrund öffentlich zu dokumentieren und in die Widerrufslisten und Statusinformationen aufzunehmen.
 
-
-## § 5 – Anzeigen zu Signaturerstellungseinheiten nach Anhang II der Verordnung (EU) Nr. 910/2014
+# § 5 – Anzeigen zu Signaturerstellungseinheiten nach Anhang II der Verordnung (EU) Nr. 910/2014
 
 Benannte Stellen nach Artikel 30 Absatz 1 der Verordnung (EU) Nr. 910/2014 sind verpflichtet, der Bundesnetzagentur neue Zertifizierungen von Signaturerstellungseinheiten, Annullierungen der Zertifizierungen oder Informationen über nicht mehr zertifizierte Signaturerstellungseinheiten nach Anhang II der Verordnung (EU) Nr. 910/2014 unverzüglich anzuzeigen.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

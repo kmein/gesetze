@@ -1,10 +1,7 @@
-# [ZensTeG] Gesetz zur Erprobung eines registergestützten Zensus  (Zensustestgesetz - ZensTeG)
-
-Ausfertigungsdatum: 27.07.2001
-
+% Gesetz zur Erprobung eines registergestützten Zensus  (Zensustestgesetz - ZensTeG)
+% Ausfertigungsdatum: 27.07.2001
  
-
-## § 1 – Anordnung von Testerhebungen und -verfahren
+# § 1 – Anordnung von Testerhebungen und -verfahren
 
 (1) Zur Erprobung eines registergestützten Zensusverfahrens werden Testerhebungen, Untersuchungen von Registern und statistisch-methodische Untersuchungen als Bundesstatistik durchgeführt.
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 27.07.2001
 
 (3) Erhebungseinheiten sind Personen, Haushalte, Gebäude mit Wohnraum und Wohnungen.
 
-
-## § 2 – Testerhebung zur Prüfung von Mehrfachmeldungen in Melderegistern
+# § 2 – Testerhebung zur Prüfung von Mehrfachmeldungen in Melderegistern
 
 (1) Bei allen Meldebehörden wird zur Prüfung von Mehrfachmeldungen eine Stichprobenerhebung durchgeführt, die sich auf
 
@@ -93,8 +89,7 @@ o) Datum des Wohnungsstatuswechsels.
 
 (4) Die Meldebehörden übermitteln den zuständigen statistischen Ämtern der Länder gemeindeweise die Zahl der gemeldeten Einwohner nach Deutschen und Ausländern sowie Status der Wohnung zum Stichtag 5. Dezember 2001.
 
-
-## § 3 – Mehrfachfalluntersuchung durch die statistischen Ämter
+# § 3 – Mehrfachfalluntersuchung durch die statistischen Ämter
 
 (1) Die statistischen Ämter der Länder übermitteln die Angaben zu § 2 Abs. 2 nach Abschluss der Vollzähligkeits- und Vollständigkeitsprüfung unverzüglich an das Statistische Bundesamt.
 
@@ -120,8 +115,7 @@ c) Geburtsort,
 
 d) Anschrift der alleinigen oder Hauptwohnung am 5. Dezember 2001.
 
-
-## § 4 – Testerhebung zur Untersuchung von Über- und Untererfassungen in Melderegistern bei Meldebehörden und Personen in ausgewählten Gemeinden und Gebäuden
+# § 4 – Testerhebung zur Untersuchung von Über- und Untererfassungen in Melderegistern bei Meldebehörden und Personen in ausgewählten Gemeinden und Gebäuden
 
 (1) Zur Untersuchung von Über- und Untererfassungen in Melderegistern werden in ausgewählten Gemeinden und Gebäuden Stichprobenerhebungen bei Meldebehörden und bei Personen durchgeführt. Der Umfang der Stichprobe beträgt höchstens 570 Gemeinden und höchstens 38.000 Gebäude. Sie werden nach mathematischen Zufallsverfahren ausgewählt.
 
@@ -167,13 +161,11 @@ i) Ordnungsmerkmal der Meldebehörde für die gemeldete Person.
 
 (5) Die von den Meldebehörden übermittelten Daten nach Absatz 3 und die Angaben der befragten Personen nach Absatz 4 werden mittels der Hilfsmerkmale verglichen, um festzustellen, ob und in welchem Umfang die Melderegister Unter- oder Übererfassungen aufweisen.
 
-
-## § 5 – Unterstichprobe für Verfahrenstests und methodische Untersuchungen
+# § 5 – Unterstichprobe für Verfahrenstests und methodische Untersuchungen
 
 Für Verfahrenstests, statistisch-methodische Untersuchungen sowie weitere Qualitätsprüfungen werden Stichprobenerhebungen (Zusatzerhebungen bei Meldebehörden und Personen, §§ 6 und 9, eine Gebäude- und Wohnungsstichprobe, § 7, und eine Erhebung bei der Bundesanstalt für Arbeit, § 8) durchgeführt, die sich auf höchstens 230 Gemeinden und höchstens 16.000 Gebäude erstrecken. Die Gemeinden und Gebäude werden aus der Stichprobe nach § 4 Abs. 1 durch mathematische Zufallsverfahren ausgewählt.
 
-
-## § 6 – Zusatzerhebungen bei Meldebehörden in ausgewählten Gemeinden
+# § 6 – Zusatzerhebungen bei Meldebehörden in ausgewählten Gemeinden
 
 Bei den Meldebehörden der nach § 5 ausgewählten Gemeinden werden für die in den nach § 5 ausgewählten Gebäuden zu den Stichtagen 5. Dezember 2001 und 31. März 2002 gemeldeten Personen zusätzlich zu den Merkmalen nach § 4 Abs. 3 folgende Hilfsmerkmale erhoben:
 
@@ -199,8 +191,7 @@ Bei den Meldebehörden der nach § 5 ausgewählten Gemeinden werden für die in 
 
 11. Name und Anschrift des Wohnungsgebers.
 
-
-## § 7 – Postalische Gebäude- und Wohnungsstichprobe
+# § 7 – Postalische Gebäude- und Wohnungsstichprobe
 
 Bei der postalischen Gebäude- und Wohnungsstichprobe in den nach § 5 ausgewählten Gebäuden werden zum Stichtag 5. Dezember 2001 folgende Merkmale erhoben:
 
@@ -262,8 +253,7 @@ f) bei vom Eigentümer selbst genutzten Wohnungen: Datum des Einzugs,
 
 g) bei vermieteten Wohnungen: Beginn des Mietvertrags.
 
-
-## § 8 – Testerhebung bei der Bundesanstalt für Arbeit
+# § 8 – Testerhebung bei der Bundesanstalt für Arbeit
 
 Bei der Bundesanstalt für Arbeit werden aus der Datei für sozialversicherungspflichtig Beschäftigte, der Arbeitslosendatei und der Datei für Teilnehmer an Maßnahmen zur beruflichen Weiterbildung für die bei ihr in den nach § 5 ausgewählten Gebäuden geführten Personen zum Stichtag 5. Dezember 2001 folgende Merkmale erhoben:
 
@@ -287,8 +277,7 @@ b) Tag der Geburt,
 
 c) Straße und Hausnummer.
 
-
-## § 9 – Zusatzerhebung bei Personen in ausgewählten Gemeinden
+# § 9 – Zusatzerhebung bei Personen in ausgewählten Gemeinden
 
 Bei den in den nach § 5 ausgewählten Gebäuden wohnenden Personen werden zum Stichtag 5. Dezember 2001 zusätzlich zu den in § 4 Abs. 4 genannten Merkmalen folgende Merkmale erhoben:
 
@@ -332,8 +321,7 @@ c) Lage der Wohnung im Gebäude,
 
 d) Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung steht.
 
-
-## § 10 – Zusammenführung von Datensätzen aus den verschiedenen Erhebungen der Unterstichprobe durch die statistischen Ämter der Länder
+# § 10 – Zusammenführung von Datensätzen aus den verschiedenen Erhebungen der Unterstichprobe durch die statistischen Ämter der Länder
 
 (1) Die aus den Melderegistern übermittelten Datensätze nach § 4 Abs. 3 Nr. 1 der Personen, die in den nach § 5 ausgewählten Gebäuden gemeldet sind, sowie die Angaben aus der Gebäude- und Wohnungsstichprobe nach § 7 Nr. 1 werden mittels der Anschrift der ausgewählten Gebäude gebäudeweise zusammengeführt. Sie werden sodann mittels der übrigen Hilfsmerkmale nach § 6 in Verbindung mit § 4 Abs. 3 Nr. 2 und § 7 Nr. 2 Buchstabe b und e bis g personenweise den Wohnungsangaben zugeordnet und zu Haushalten generiert.
 
@@ -341,15 +329,13 @@ d) Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung steh
 
 (3) Zur Überprüfung der Qualität und Vollständigkeit der nach Absatz 2 erstellten Datensätze werden diese mit den Angaben aus der Erhebung nach § 9 in Verbindung mit § 4 Abs. 4 verglichen.
 
-
-## § 11 – Anschriftenübermittlung
+# § 11 – Anschriftenübermittlung
 
 (1) Für die Vorbereitung und Durchführung der Erhebungen nach § 4 Abs. 4 und § 9 übermitteln die Meldebehörden den statistischen Ämtern der Länder auf Anforderung für die in den ausgewählten Gebäuden gemeldeten Einwohner Namen, Vornamen, Geburtsjahr und Anschrift.
 
 (2) Für die Durchführung der Gebäude- und Wohnungsstichprobe nach § 7 übermitteln die Gemeinden, die für die Führung der Grundbücher zuständigen Stellen, die für die Führung der Liegenschaftskataster zuständigen Stellen, die Finanzbehörden, die für die Gebäudebrandschutzversicherung zuständigen juristischen Personen des öffentlichen Rechts oder die Versorgungs- und Entsorgungsbetriebe den zuständigen statistischen Ämtern der Länder auf Anforderung Namen und Vornamen oder Bezeichnung und Anschrift der Eigentümer, Erbbauberechtigten, Verwalter oder sonstigen Verfügungsberechtigten der in die Erhebung einbezogenen Gebäude.
 
-
-## § 12 – Erhebungsbeauftragte
+# § 12 – Erhebungsbeauftragte
 
 (1) Für die Erhebungen nach § 3 Abs. 3, § 4 Abs. 4 und § 9 können ehrenamtliche Erhebungsbeauftragte eingesetzt werden. Sie dürfen nicht in der unmittelbaren Nähe ihrer Wohnung eingesetzt werden (Nachbarschaft).
 
@@ -357,8 +343,7 @@ d) Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung steh
 
 (3) Die Erhebungsbeauftragten erhalten für die ehrenamtliche Tätigkeit eine Entschädigung, die als steuerfreie Aufwandsentschädigung im Sinne des § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes gilt.
 
-
-## § 13 – Auskunftspflicht
+# § 13 – Auskunftspflicht
 
 (1) Für die Testerhebungen besteht Auskunftspflicht, soweit in Absatz 8 nichts anderes bestimmt ist.
 
@@ -376,15 +361,13 @@ d) Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung steh
 
 (8) Die Auskünfte zu den Merkmalen nach § 2 Abs. 3 Nr. 2, § 7 Nr. 2 Buchstabe d, § 9 Nr. 2 Buchstabe d sowie zur Telekommunikationsnummer nach § 4 Abs. 4 sind freiwillig.
 
-
-## § 14 – Art der Auskunftserteilung beim Einsatz von Erhebungsbeauftragten
+# § 14 – Art der Auskunftserteilung beim Einsatz von Erhebungsbeauftragten
 
 (1) Soweit Erhebungsbeauftragte eingesetzt werden, können die Angaben zu den Erhebungen nach § 3 Abs. 3, § 4 Abs. 4 und § 9 mündlich gegenüber den Erhebungsbeauftragten oder schriftlich beantwortet werden. Die Angaben Namen und Vornamen der in der Wohnung lebenden Personen (§ 4 Abs. 4 in Verbindung mit § 4 Abs. 3 Nr. 2 Buchstabe a) und die Zahl der Haushalte in der Wohnung sowie die Zahl der Personen im Haushalt (§ 9 Nr. 1 Buchstabe c) sind auf Verlangen der Erhebungsbeauftragten mündlich mitzuteilen.
 
 (2) Bei schriftlicher Auskunftserteilung sind die ausgefüllten Erhebungsvordrucke unverzüglich den Erhebungsbeauftragten auszuhändigen oder in verschlossenem Umschlag zu übergeben oder innerhalb einer Woche bei dem zuständigen statistischen Landesamt abzugeben oder dorthin zu übersenden. Bei Abgabe in verschlossenem Umschlag sind Namen und Vornamen, Wohnort, Straße und Hausnummer auf dem Umschlag anzugeben.
 
-
-## § 15 – Löschung
+# § 15 – Löschung
 
 (1) Die Erhebungsunterlagen sowie die Angaben nach § 4 Abs. 2 und § 11 werden zum frühestmöglichen Zeitpunkt, spätestens zwei Jahre nach dem Stichtag 31. März 2002, vernichtet.
 
@@ -396,14 +379,12 @@ d) Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung steh
 
 (5) Die übrigen Hilfsmerkmale, mit Ausnahme der Hilfsmerkmale nach § 2 Abs. 3, dürfen gemeinsam mit den Erhebungsmerkmalen für methodische Untersuchungen und die Fortentwicklung eines registergestützten Zensuskonzeptes verwendet werden. Sie sind spätestens fünf Jahre nach dem Stichtag 31. März 2002 zu löschen.
 
-
-## § 16 – Zuständigkeiten
+# § 16 – Zuständigkeiten
 
 (1) Die Erhebungen nach § 2, § 3 Abs. 3, § 4 Abs. 3 und 4, §§ 6, 7 und 9 werden von den statistischen Ämtern der Länder durchgeführt.
 
 (2) Die Erhebung nach § 8 wird vom Statistischen Bundesamt durchgeführt.
 
-
-## § 17 – Aufbau einer Organisationsdatei
+# § 17 – Aufbau einer Organisationsdatei
 
 Die von den Meldebehörden erhobenen Hilfsmerkmale nach § 2 Abs. 3 dürfen für den Aufbau einer Organisationsdatei zur Vorbereitung und Durchführung eines registergestützten Zensus verwendet und aktualisiert werden.

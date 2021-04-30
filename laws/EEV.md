@@ -1,10 +1,7 @@
-# [EEV] Verordnung zur Durchführung des Erneuerbare-Energien-Gesetzes und des Windenergie-auf-See-Gesetzes  (Erneuerbare-Energien-Verordnung - EEV)
-
-Ausfertigungsdatum: 17.02.2015
-
+% Verordnung zur Durchführung des Erneuerbare-Energien-Gesetzes und des Windenergie-auf-See-Gesetzes  (Erneuerbare-Energien-Verordnung - EEV)
+% Ausfertigungsdatum: 17.02.2015
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung trifft Regelungen
 
@@ -16,15 +13,13 @@ Diese Verordnung trifft Regelungen
 
 4. zur Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen aufgrund des Erneuerbare-Energien-Gesetzes auf die Bundesnetzagentur und auf das Umweltbundesamt.
 
-
-## § 2 – Vermarktung durch die Übertragungsnetzbetreiber
+# § 2 – Vermarktung durch die Übertragungsnetzbetreiber
 
 Die Übertragungsnetzbetreiber dürfen den nach § 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes vergüteten Strom nur am Spotmarkt einer Strombörse nach Maßgabe der Erneuerbare-Energien-Ausführungsverordnung vermarkten. Sie müssen zur bestmöglichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
-
-## § 3 – Ermittlung der EEG-Umlage
+# § 3 – Ermittlung der EEG-Umlage
 
 (1) Die Übertragungsnetzbetreiber ermitteln die EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes transparent aus
 
@@ -44,8 +39,7 @@ Die EEG-Umlage für Strom, für den nach § 60 oder § 61 des Erneuerbare-Energi
 
 3. Zahlungen nach § 57 Absatz 3 des Erneuerbare-Energien-Gesetzes, soweit die Saldierung nach § 57 Absatz 4 des Erneuerbare-Energien-Gesetzes für den Übertragungsnetzbetreiber einen positiven Saldo ergeben hat,
 
-3a.  
-Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Absenkung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
+3a. Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur Absenkung der EEG-Umlage nach § 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,
 
 4. positive Differenzbeträge aus Zinsen nach Absatz 5,
 
@@ -101,20 +95,17 @@ Zahlungen der Bundesrepublik Deutschland an die Übertragungsnetzbetreiber zur A
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
-
-## § 3a – Ermittlung des Abzugs für Strom aus ausgeförderten Anlagen
+# § 3a – Ermittlung des Abzugs für Strom aus ausgeförderten Anlagen
 
 Die Übertragungsnetzbetreiber ermitteln den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes in entsprechender Anwendung der Bestimmungen nach § 3. Dabei ist der Wert des Abzugs so zu bestimmen, dass sich die nach § 3 Absatz 1 Satz 4 bei der Ermittlung der EEG-Umlage nicht berücksichtigten Einnahmen und Ausgaben ausgleichen.
 
-
-## § 4 – Beweislast
+# § 4 – Beweislast
 
 Ist die Notwendigkeit oder die Höhe der Aufwendungen nach § 3 oder § 3a streitig, trifft die Beweislast die Übertragungsnetzbetreiber.
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++)
 
-
-## § 5 – Veröffentlichung der EEG-Umlage
+# § 5 – Veröffentlichung der EEG-Umlage
 
 (1) Die Übertragungsnetzbetreiber müssen bis zum 15. Oktober eines Kalenderjahres die Höhe der EEG-Umlage für das folgende Kalenderjahr auf ihren Internetseiten veröffentlichen. Bei der Veröffentlichung sind in nicht personenbezogener Form auch anzugeben:
 
@@ -128,13 +119,11 @@ Ist die Notwendigkeit oder die Höhe der Aufwendungen nach § 3 oder § 3a strei
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) § 5 Abs 3: IdF d. Art. 11 Nr. 6 G v. 22.12.2016 I 3106 mWv 1.1.2017
 
-
-## § 5a – Veröffentlichung des Abzugs für Strom aus ausgeförderten Anlagen
+# § 5a – Veröffentlichung des Abzugs für Strom aus ausgeförderten Anlagen
 
 Die Übertragungsnetzbetreiber müssen bis zum 15. Oktober eines Kalenderjahres den Wert des Abzugs für Strom aus ausgeförderten Anlagen nach § 53 Absatz 2 des Erneuerbare-Energien-Gesetzes für das folgende Kalenderjahr auf ihren Internetseiten veröffentlichen. Im Übrigen ist § 5 entsprechend anzuwenden.
 
-
-## § 6 – Veröffentlichung der EEG-Vorausschau
+# § 6 – Veröffentlichung der EEG-Vorausschau
 
 (1) Die Übertragungsnetzbetreiber müssen bis zum 15. Oktober eines Kalenderjahres eine Vorausschau für die Entwicklung des Ausbaus der erneuerbaren Energien in den folgenden fünf Kalenderjahren erstellen und veröffentlichen. Diese Vorausschau muss mindestens die folgenden Angaben enthalten:
 
@@ -188,8 +177,7 @@ Die Strommengen, die voraussichtlich direkt vermarktet werden, sind zu berücksi
 
 (+++ §§ 2 bis 6: Zur Nichtanwendung vgl. § 42 Abs. 3 GEEV +++) § 6 Abs. 1 Satz 2 Nr. 1 Buchst. d: IdF d. Art. 17 Nr. 4 Buchst. a G v. 13.10.2016 I 2258 mWv 1.1.2017
 
-
-## § 7 – Herkunftsnachweisregister
+# § 7 – Herkunftsnachweisregister
 
 (1) Das Umweltbundesamt betreibt das Herkunftsnachweisregister nach § 79 Absatz 4 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Rechtsverordnung nach § 14.
 
@@ -201,15 +189,13 @@ Die Strommengen, die voraussichtlich direkt vermarktet werden, sind zu berücksi
 
 (+++ § 7 Abs. 2 bis 4: Zur Anwendung vgl. § 8 Abs. 2 +++) Abschnitt 3 (§§ 7 bis 12) und Abschnitt 4 (Überschrift vor § 13): Früher §§ 7 bis 9 gem. u. idF d. Art. 11 Nr. 7 G v. 22.12.2016 I 3106 mWv 1.1.2017
 
-
-## § 8 – Regionalnachweisregister
+# § 8 – Regionalnachweisregister
 
 (1) Das Umweltbundesamt errichtet und betreibt das Regionalnachweisregister nach § 79a Absatz 4 des Erneuerbare-Energien-Gesetzes nach Maßgabe der Rechtsverordnung nach § 14. Das Bundesministerium für Wirtschaft und Energie macht das Datum der Inbetriebnahme im Bundesanzeiger bekannt.
 
 (2) § 7 Absatz 2 bis 4 ist auf das Regionalnachweisregister entsprechend anzuwenden.
 
-
-## § 9 – Mindestinhalt von Herkunftsnachweisen
+# § 9 – Mindestinhalt von Herkunftsnachweisen
 
 Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten:
 
@@ -229,8 +215,7 @@ a) für die Anlage, in der der Strom erzeugt wurde, Investitionsbeihilfen geleis
 
 b) für die Strommenge in sonstiger Weise eine Förderung im Sinne von Artikel 2 Buchstabe k der Richtlinie 2009/28/EG des Europäischen Parlaments und des Rates vom 23. April 2009 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen und zur Änderung und anschließenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16) gezahlt oder erbracht wurde.
 
-
-## § 10 – Mindestinhalt von Regionalnachweisen
+# § 10 – Mindestinhalt von Regionalnachweisen
 
 Ein Regionalnachweis muss mindestens die folgenden Angaben enthalten:
 
@@ -248,8 +233,7 @@ a) für die Anlage, in der der Strom erzeugt wurde, Investitionsbeihilfen geleis
 
 b) der Anlagenbetreiber für die Strommenge eine Zahlung nach dem Erneuerbare-Energien-Gesetz beansprucht hat.
 
-
-## § 11 – Grundsätze für Herkunftsnachweise
+# § 11 – Grundsätze für Herkunftsnachweise
 
 (1) Die Ausstellung, Anerkennung und Übertragung von Herkunftsnachweisen erfolgen auf Antrag nach Maßgabe der Rechtsverordnung nach § 14.
 
@@ -257,13 +241,11 @@ b) der Anlagenbetreiber für die Strommenge eine Zahlung nach dem Erneuerbare-En
 
 (+++ § 11: Zur Anwendung vgl. § 12 +++)
 
-
-## § 12 – Grundsätze für Regionalnachweise
+# § 12 – Grundsätze für Regionalnachweise
 
 Auf die Ausstellung, Übertragung und Entwertung von Regionalnachweisen ist § 11 entsprechend anzuwenden mit der Maßgabe, dass das Umweltbundesamt Regionalnachweise nach ihrer Verwendung, spätestens aber 24 Monate nach Erzeugung der entsprechenden Strommenge, entwertet.
 
-
-## § 13 – Subdelegation an die Bundesnetzagentur
+# § 13 – Subdelegation an die Bundesnetzagentur
 
 Die Bundesnetzagentur wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie zu regeln:
 
@@ -283,8 +265,7 @@ b) Anlagen, die nach dem 31. Dezember 2015 in Betrieb genommen werden und deren 
 
 6. nähere Bestimmungen zur Zahlung der EEG-Umlage nach § 61 des Erneuerbare-Energien-Gesetzes, auch unter Einbeziehung der Netzbetreiber, die nicht Übertragungsnetzbetreiber sind, und die notwendigen Anpassungen bei den Mitteilungs- und Veröffentlichungspflichten.
 
-
-## § 14 – Subdelegation an das Umweltbundesamt
+# § 14 – Subdelegation an das Umweltbundesamt
 
 (1) Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium der Justiz und für Verbraucherschutz
 
@@ -316,8 +297,7 @@ b) Anforderungen zu regeln an die Ausstellung, Übertragung und Entwertung von R
 
 (2) Das Umweltbundesamt wird ermächtigt, durch Rechtsverordnung die für Amtshandlungen des Umweltbundesamtes im Zusammenhang mit der Ausstellung, Anerkennung, Übertragung und Entwertung von Herkunftsnachweisen und der Ausstellung, Übertragung und Entwertung von Regionalnachweisen sowie für die Nutzung des Herkunftsnachweisregisters und des Regionalnachweisregisters gebührenpflichtigen Tatbestände und Gebührensätze sowie die erstattungsfähigen Auslagen nach § 87 des Erneuerbare-Energien-Gesetzes zu bestimmen.
 
-
-## § 15 – Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie
+# § 15 – Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie
 
 Das Bundesamt für Seeschifffahrt und Hydrographie wird ermächtigt, durch Rechtsverordnung nach § 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für Flächen in der ausschließlichen Wirtschaftszone festzulegen
 

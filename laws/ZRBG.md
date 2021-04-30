@@ -1,10 +1,7 @@
-# [ZRBG] Gesetz zur Zahlbarmachung von Renten aus Beschäftigungen in einem Ghetto
-
-Ausfertigungsdatum: 20.06.2002
-
+% Gesetz zur Zahlbarmachung von Renten aus Beschäftigungen in einem Ghetto
+% Ausfertigungsdatum: 20.06.2002
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz gilt für Zeiten der Beschäftigung von Verfolgten in einem Ghetto, die sich dort zwangsweise aufgehalten haben, wenn
 
@@ -24,8 +21,7 @@ soweit für diese Zeiten nicht bereits eine Leistung aus einem System der sozial
 
 (4) Die auf Grund dieses Gesetzes gezahlten Renten gelten nicht als Leistungen der sozialen Sicherheit.
 
-
-## § 2 – Fiktion der Beitragszahlung
+# § 2 – Fiktion der Beitragszahlung
 
 (1) Für Zeiten der Beschäftigung von Verfolgten in einem Ghetto gelten Beiträge als gezahlt, und zwar
 
@@ -37,8 +33,7 @@ soweit für diese Zeiten nicht bereits eine Leistung aus einem System der sozial
 
 (2) Zusätzliche Entgeltpunkte für Beitragszeiten außerhalb des Bundesgebiets sind auf Grund von Ghetto-Beitragszeiten nicht zu ermitteln.
 
-
-## § 3 – Besonderheiten beim Rentenbeginn und Neufeststellung
+# § 3 – Besonderheiten beim Rentenbeginn und Neufeststellung
 
 (1) Ein Antrag auf Rente aus der gesetzlichen Rentenversicherung gilt als am 18. Juni 1997 gestellt. Bei Hinterbliebenenrenten gilt der Rentenantrag frühestens mit dem Todestag als gestellt, wenn der Verfolgte nach dem 17. Juni 1997 verstorben ist.
 
@@ -54,13 +49,11 @@ soweit für diese Zeiten nicht bereits eine Leistung aus einem System der sozial
 
 (7) Der zuständige Rentenversicherungsträger hat die Berechtigten über die Möglichkeit der Neufeststellung auf Antrag und die sich aus einer Neufeststellung ergebenden individuellen Auswirkungen auf den Rentenanspruch zu informieren.
 
-
-## § 4 – Auszahlung
+# § 4 – Auszahlung
 
 Renten mit Zeiten nach diesem Gesetz sollen nur unmittelbar an die Berechtigten gezahlt werden.
 
-
-## § 5 – Verzinsung
+# § 5 – Verzinsung
 
 (1) Fälligkeitszeitpunkt im Sinne von § 44 Absatz 1 des Ersten Buches Sozialgesetzbuch ist bei Renten mit Zeiten nach diesem Gesetz frühestens der 27. Juni 2002.
 

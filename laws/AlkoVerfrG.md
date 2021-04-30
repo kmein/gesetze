@@ -1,29 +1,23 @@
-# [AlkoVerfrG] Gesetz über die Verfrachtung alkoholischer Waren
-
-Ausfertigungsdatum: 14.04.1926
-
+% Gesetz über die Verfrachtung alkoholischer Waren
+% Ausfertigungsdatum: 14.04.1926
  
-
-## § 1
+# § 1
 
 (1) Alkoholische Waren im Sinne dieses Gesetzes sind Alkohol (Weingeist) und alkoholhaltige Flüssigkeiten, die zum Genuß oder zur Herstellung von Getränken geeignet sind. Alkoholische Waren sind auch Weine, weinähnliche und weinhaltige Getränke, Arzneiweine, Schaumweine und schaumweinähnliche Getränke, wenn ihr Alkoholgehalt 180 g in einem Liter oder 22 Raumhundertteile überschreitet. Bier und ähnliche Getränke mit einem Alkoholgehalt von weniger als 12 Raumhundertteilen, auch wirksam (vollständig) vergällter Spiritus und Lacke gelten nicht als alkoholische Waren.
 
 (2) Die Vorschriften dieses Gesetzes sind nicht anwendbar auf alkoholische Waren, die einen Teil des Mund- und Schiffsvorrats des sie befördernden Schiffes bilden oder Fahrgästen oder Mitgliedern der Schiffsbesatzung gehören, wenn diese Waren die für die Reise erforderliche Menge nicht überschreiten und bei der Einreise in einen der in § 3 genannten Staaten nach dessen Zollvorschriften angemeldet werden.
 
-
-## § 2
+# § 2
 
 (1) Schiffen von weniger als 100 Registertonnen Nettoraumgehalt ist die Beförderung alkoholischer Waren, insbesondere die Ausfuhr oder das sonstige Verbringen aus dem Geltungsbereich dieses Gesetzes, verboten.
 
 (2) Diese Vorschrift gilt nicht für mechanisch angetriebene Schiffe in regelmäßiger Linienfahrt und für die Beförderung auf Binnengewässern.
 
-
-## § 3
+# § 3
 
 Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt, die einem Staat angehören, der dem Abkommen zur Bekämpfung des Alkoholschmuggels vom 19. August 1925 beigetreten ist, dürfen alkoholische Waren nur ausführen oder sonst aus dem Geltungsbereich dieses Gesetzes verbringen, wenn sie im Besitz einer schriftlichen amtlichen Genehmigung der zuständigen Behörde des Heimatlandes sind.
 
-
-## § 4
+# § 4
 
 (1) Die in § 3 genannten Genehmigungen erteilt im Geltungsbereich dieses Gesetzes die Hafenbehörde des Heimathafens.
 
@@ -31,8 +25,7 @@ Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt, die einem Staat a
 
 (3) Die Genehmigung wird für die Dauer von 3 Jahren von dem Tage der Ausstellung ab erteilt; sie erlischt, wenn das Schiff den Reeder wechselt.
 
-
-## § 5
+# § 5
 
 Die Ausreise der in § 3 bezeichneten Schiffe aus dem Geltungsbereich dieses Gesetzes darf nur erfolgen,
 
@@ -42,8 +35,7 @@ Die Ausreise der in § 3 bezeichneten Schiffe aus dem Geltungsbereich dieses Ges
 
 3. wenn die in § 6 vorgeschriebenen Nachweise über die frühere Ausfuhr von alkoholischen Waren geführt sind.
 
-
-## § 6
+# § 6
 
 (1) Mit der in den §§ 3 und 4 genannten schriftlichen amtlichen Genehmigung ist ein Anhang durchnumerierter freier Blätter fest zu verbinden und darin die jedesmalige Menge, Art und Bestimmung der alkoholischen Waren, die auf den in § 3 erwähnten Schiffen ausgeführt oder sonst aus dem Geltungsbereich dieses Gesetzes verbracht werden sollen, zu verzeichnen. Dies Verzeichnis hat der Kapitän oder der Stellvertreter des Kapitäns zu unterschreiben und die Hafenbehörde des Ausgangshafens abzustempeln.
 
@@ -53,13 +45,11 @@ Die Ausreise der in § 3 bezeichneten Schiffe aus dem Geltungsbereich dieses Ges
 
 (4) Kann der Kapitän oder der Stellvertreter des Kapitäns infolge von Havarien oder aus anderen stichhaltigen Gründen den ordnungsmäßigen Nachweis nicht führen, so hat er diese Hinderungsgründe nachzuweisen.
 
-
-## § 7
+# § 7
 
 Die zur Durchführung der §§ 2 bis 6 erforderlichen Maßnahmen sind von den Regierungen der Küstenländer zu treffen. Die Zollverwaltung ist in dem durch die jeweiligen Verhältnisse gebotenen Umfang zu beteiligen.
 
-
-## § 8
+# § 8
 
 (1) Ordnungswidrig handelt, wer als Kapitän oder Stellvertreter des Kapitäns
 
@@ -73,12 +63,10 @@ Die zur Durchführung der §§ 2 bis 6 erforderlichen Maßnahmen sind von den Re
 
 (4) In den Fällen des Absatzes 1 Nr. 1 kann die Tat auch dann geahndet werden, wenn sie nicht im Geltungsbereich dieses Gesetzes begangen wird.
 
-
-## § 9
+# § 9
 
 Im Falle nachgewiesenen Mißbrauchs kann die in § 3 erwähnte Genehmigung deutschen Schiffen durch die Hafenbehörde, die sie erteilt hat, wieder entzogen werden.
 
-
-## § 10
+# § 10
 
 Dieses Gesetz tritt 30 Tage nach der Hinterlegung der deutschen Ratifikationsurkunde des in § 3 genannten Abkommens in Kraft.

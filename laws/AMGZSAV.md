@@ -1,10 +1,7 @@
-# [AMGZSAV] Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei sowie der Bereitschaftspolizeien der Länder  (AMG-Zivilschutzausnahmeverordnung - AMGZSAV)
-
-Ausfertigungsdatum: 17.06.2003
-
+% Verordnung über die Zulassung von Ausnahmen von Vorschriften des Arzneimittelgesetzes für die Bereiche des Zivil- und Katastrophenschutzes, der Bundeswehr, der Bundespolizei sowie der Bereitschaftspolizeien der Länder  (AMG-Zivilschutzausnahmeverordnung - AMGZSAV)
+% Ausfertigungsdatum: 17.06.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
 
@@ -14,8 +11,7 @@ das Bundesministerium für Gesundheit und Soziale Sicherung auf Grund des § 71 
 \-  
 das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf Grund des § 71 Abs. 2 in Verbindung mit Abs. 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) im Einvernehmen mit dem Bundesministerium des Innern und mit dem Bundesministerium der Verteidigung:
 
-
-## § 1 – Zweck und Anwendungsbereich der Verordnung
+# § 1 – Zweck und Anwendungsbereich der Verordnung
 
 (1) Zweck dieser Verordnung ist es, für die Herstellung, die Beschaffung, die Bevorratung, die Verteilung und die Abgabe von Arzneimitteln zur Durchführung der besonderen Aufgaben in den Bereichen der Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder, des Zivilschutzes, des Katastrophenschutzes sowie des § 79 Absatz 4a des Arzneimittelgesetzes, einschließlich der Teilnahme an internationalen Hilfsaktionen, Ausnahmen von den Vorschriften des Arzneimittelgesetzes zuzulassen.
 
@@ -23,8 +19,7 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 (3) Die Abgabe der von dieser Verordnung erfassten Arzneimittel zum Endverbrauch erfolgt unter der Verantwortung einer Person, die Arzt oder Ärztin, Tierarzt oder Tierärztin oder Apotheker oder Apothekerin ist.
 
-
-## § 2 – Ausnahmen vom Vierten Abschnitt des Arzneimittelgesetzes
+# § 2 – Ausnahmen vom Vierten Abschnitt des Arzneimittelgesetzes
 
 (1) Abweichend von § 21 Abs. 1 des Arzneimittelgesetzes dürfen in § 1 Abs. 2 genannte Arzneimittel auch dann in den Verkehr gebracht werden, wenn für sie weder eine Zulassung durch die nach § 77 Abs. 1, Abs. 2 oder Abs. 3 des Arzneimittelgesetzes zuständige Bundesoberbehörde noch eine Genehmigung für das Inverkehrbringen gemäß Artikel 3 Abs. 1 oder 2 der Verordnung (EWG) Nr. 2309/93 des Rates vom 22. Juli 1993 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und Überwachung von Human- und Tierarzneimitteln und zur Schaffung einer Europäischen Agentur für die Beurteilung von Arzneimitteln (ABl. EG Nr. L 214 S. 1) durch die Kommission der Europäischen Gemeinschaften oder den Rat der Europäischen Union erteilt ist, sofern das Inverkehrbringen nicht zugelassener Arzneimittel für die Erfüllung der in § 1 Absatz 1 genannten Aufgaben unverzichtbar ist.
 
@@ -34,15 +29,13 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 (4) Die Charge eines Serums, eines Impfstoffes oder eines Testallergens darf in den Fällen des Absatzes 1 abweichend von § 32 des Arzneimittelgesetzes an die zuständigen obersten Bundes- und Landesbehörden oder die von ihnen beauftragten Stellen abgegeben und von diesen weiter in den Verkehr gebracht werden. Dies gilt auch für die Charge einer Blutzubereitung nach Artikel 1 § 1 der Verordnung über die Einführung der staatlichen Chargenprüfung bei Blutzubereitungen vom 15. Juli 1994 (BGBl. I S. 1614). Der für die staatliche Chargenprüfung nach § 32 Abs. 1 des Arzneimittelgesetzes zuständigen Bundesoberbehörde sind vom pharmazeutischen Unternehmer Unterlagen über die Herstellung und Prüfung der Charge sowie Muster des Arzneimittels in einem zur Prüfung geeigneten Zustand einzureichen. Die Charge ist von der zuständigen Bundesoberbehörde entsprechend § 32 Abs.1 des Arzneimittelgesetzes zu prüfen. Das Ergebnis der Prüfung ist der die Arzneimittelbeschaffung veranlassenden Stelle mitzuteilen. Die Charge darf von den zuständigen obersten Bundes- oder Landesbehörden oder den von ihnen beauftragten Stellen bereits vor dem Vorliegen dieses Prüfungsergebnisses in den Verkehr gebracht werden, wenn dies ein angemessenes Mittel zur Abwehr einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben oder Gesundheit von Menschen ist.
 
-
-## § 3 – Ausnahmen vom Siebten Abschnitt des Arzneimittelgesetzes
+# § 3 – Ausnahmen vom Siebten Abschnitt des Arzneimittelgesetzes
 
 (1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes dürfen die in § 1 Abs. 2 genannten Arzneimittel vom pharmazeutischen Unternehmer und vom pharmazeutischen Großhändler unmittelbar an die zuständigen obersten Bundes- oder Landesbehörden oder an die von ihnen beauftragten Stellen abgegeben werden.
 
 (2) § 43 Abs. 1 Satz 1, § 48 Abs. 1 und § 49 Abs. 1 des Arzneimittelgesetzes finden auf die in § 1 Abs. 2 genannten Arzneimittel keine Anwendung.
 
-
-## § 4 – Ausnahmen vom Dreizehnten Abschnitt des Arzneimittelgesetzes
+# § 4 – Ausnahmen vom Dreizehnten Abschnitt des Arzneimittelgesetzes
 
 (1) § 73 Abs. 1 Satz 1 des Arzneimittelgesetzes findet keine Anwendung, wenn die in § 1 Abs. 2 genannten Arzneimittel von den zuständigen obersten Bundes- oder Landesbehörden oder den von ihnen beauftragten Stellen in den Geltungsbereich des Arzneimittelgesetzes verbracht werden.
 
@@ -50,8 +43,7 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 (3) § 72 Absatz 1 des Arzneimittelgesetzes findet keine Anwendung auf die zuständigen obersten Bundes- oder Landesbehörden oder die von ihnen beauftragten Stellen.
 
-
-## § 5 – Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
+# § 5 – Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
 
 (1) Abweichend von § 10 Abs. 1 Nr. 9 und Abs. 8 des Arzneimittelgesetzes dürfen die in § 1 Abs. 2 genannten Arzneimittel auch ohne Angabe des Verfallsdatums in den Verkehr gebracht werden, wenn aus den beigefügten Dokumenten eindeutig das Herstellungsdatum des Arzneimittels hervorgeht. Die zuständigen obersten Bundes- und Landesbehörden legen die Verwendbarkeitsdauer des jeweiligen Arzneimittels fest und stellen sicher, dass diese Informationen bis zur vollständigen Ausgabe oder Vernichtung der Arzneimittel aufbewahrt werden.
 
@@ -63,18 +55,15 @@ das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf 
 
 (4) § 9 Abs. 2 des Arzneimittelgesetzes findet auf die in § 1 Abs. 2 genannten Arzneimittel keine Anwendung.
 
-
-## § 5a – Ausnahmen vom Dritten Abschnitt des Arzneimittelgesetzes
+# § 5a – Ausnahmen vom Dritten Abschnitt des Arzneimittelgesetzes
 
 Bei Arzneimitteln nach § 1 Absatz 2, die im Geltungsbereich des Arzneimittelgesetzes hergestellt werden und zur Anwendung bei Menschen bestimmt sind, kann die zuständige Behörde im Benehmen mit der zuständigen Bundesoberbehörde Ausnahmen von den Anforderungen nach den §§ 13 bis 15 des Arzneimittelgesetzes zulassen, wenn dies zur Versorgung der Bevölkerung erforderlich ist und die Qualität, Wirksamkeit und Sicherheit der herzustellenden Arzneimittel gewährleistet ist.
 
-
-## § 6 – Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes
+# § 6 – Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes
 
 § 55 Abs. 8 des Arzneimittelgesetzes findet keine Anwendung, wenn die in § 1 Abs. 2 genannten Arzneimittel von den zuständigen obersten Bundes- oder Landesbehörden oder den von ihnen beauftragten Stellen im Geltungsbereich des Arzneimittelgesetzes zum Zwecke der Abgabe an den Verbraucher in den Verkehr gebracht werden, sofern diese Arzneimittel hinsichtlich der in ihnen enthaltenen Stoffe und hinsichtlich ihrer Darreichungsformen, Behältnisse und Umhüllungen, soweit sie mit den Arzneimitteln in Berührung kommen, zum Zeitpunkt ihrer Herstellung den anerkannten pharmazeutischen Regeln entsprachen.
 
-
-## § 7 – Ausnahmen vom Sechzehnten Abschnitt des Arzneimittelgesetzes
+# § 7 – Ausnahmen vom Sechzehnten Abschnitt des Arzneimittelgesetzes
 
 (1) § 84 Abs. 1 Nr. 2 des Arzneimittelgesetzes findet auf die in § 1 Abs. 2 genannten Arzneimittel keine Anwendung, sofern diese Arzneimittel unter Anwendung des § 5 Abs. 1, Abs. 2 oder Abs. 3 dieser Verordnung in den Verkehr gebracht werden.
 
@@ -86,12 +75,10 @@ Bei Arzneimitteln nach § 1 Absatz 2, die im Geltungsbereich des Arzneimittelges
 
 Pharmazeutische Unternehmer, Hersteller und Angehörige von Gesundheitsberufen haben die Folgen der auf § 2 Abs. 1 oder 4 gestützten Abweichungen von dem Vierten Abschnitt des Arzneimittelgesetzes nur bei grober Fahrlässigkeit oder Vorsatz zu vertreten. Im Übrigen bleibt die Haftung für schuldhaftes Handeln unberührt.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

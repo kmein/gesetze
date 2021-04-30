@@ -1,15 +1,11 @@
-# [RechPensV] Verordnung über die Rechnungslegung von Pensionsfonds  (Pensionsfonds-Rechnungslegungsverordnung - RechPensV)
-
-Ausfertigungsdatum: 25.02.2003
-
+% Verordnung über die Rechnungslegung von Pensionsfonds  (Pensionsfonds-Rechnungslegungsverordnung - RechPensV)
+% Ausfertigungsdatum: 25.02.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 330 Abs. 1 in Verbindung mit Abs. 3 und 5 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, Absatz 1 zuletzt geändert durch Artikel 91 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), Absatz 3 angefügt durch Artikel 1 Nr. 7 Buchstabe c des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1377) sowie Absatz 5 angefügt durch Artikel 16 Nr. 1 des Gesetzes vom 26. Juni 2001 (BGBl. I S. 1310), verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Abschnitt 1
 
@@ -257,18 +253,15 @@ Schlussvorschriften
 
 Übergangsvorschriften
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung ist auf Pensionsfonds im Sinne des § 236 Absatz 1 des Versicherungsaufsichtsgesetzes anzuwenden, für die nach § 341 Abs. 4 des Handelsgesetzbuchs die Vorschriften des Zweiten Unterabschnitts des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuchs entsprechend anzuwenden sind.
 
-
-## § 2 – Formblätter
+# § 2 – Formblätter
 
 Pensionsfonds haben an Stelle des § 266 des Handelsgesetzbuchs über die Gliederung der Bilanz das anliegende Formblatt 1 und an Stelle des § 275 des Handelsgesetzbuchs über die Gliederung der Gewinn- und Verlustrechnung das anliegende Formblatt 2 anzuwenden.
 
-
-## § 3 – Davon-Vermerke
+# § 3 – Davon-Vermerke
 
 In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
@@ -276,8 +269,7 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
 2. die Verbindlichkeiten gegenüber verbundenen Unternehmen und die Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht, jeweils zu den Posten "Verbindlichkeiten aus dem Pensionsfondsgeschäft" (Passivposten I Nr. I), "Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft" (Passivposten I Nr. II), "Verbindlichkeiten gegenüber Lebensversicherungsunternehmen" (Passivposten I Nr. III), "Verbindlichkeiten gegenüber Kreditinstituten" (Passivposten I Nr. IV) und "Sonstige Verbindlichkeiten" (Passivposten I Nr. V).
 
-
-## § 4 – Zusätze
+# § 4 – Zusätze
 
 (1) Wird in den Formblättern für die Bilanz und die Gewinn- und Verlustrechnung und in den folgenden Vorschriften der Zusatz "Brutto" verwendet, sind die Posten, Unterposten und Angaben einschließlich der Beträge anzugeben, die auf das in Rückversicherung gegebene Pensionsfondsgeschäft entfallen.
 
@@ -285,20 +277,17 @@ In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben:
 
 (3) Wird das Pensionsfondsgeschäft nicht in Rückversicherung gegeben, entfallen die in den Formblättern enthaltenen Zusätze "Brutto" und "Netto" und "für eigene Rechnung" sowie zusätzlich in der Bilanz bei den Passivposten E und F die mit einer arabischen Zahl versehenen Unterposten.
 
-
-## § 5 – Anwendung von Bestimmungen der Verordnung über die Rechnungslegung Versicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung
+# § 5 – Anwendung von Bestimmungen der Verordnung über die Rechnungslegung Versicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung
 
 Die §§ 6 bis 9 Satz 1, §§ 11, 12, 18 bis 20 und 22 bis 24 der Verordnung über die Rechnungslegung von Versicherungsunternehmen vom 8. November 1994 (BGBl. I S. 3378), die zuletzt durch Artikel 6 des Gesetzes vom 10. Dezember 2001 (BGBl. I S. 3414) geändert worden ist, in der jeweils geltenden Fassung sind entsprechend anzuwenden, § 6 Abs. 2 mit der Maßgabe, dass die Darstellung nur im Anhang zu erfolgen hat.
 
-
-## § 6 – Verträge bei Lebensversicherungsunternehmen
+# § 6 – Verträge bei Lebensversicherungsunternehmen
 
 (1) Im Posten "Verträge bei Lebensversicherungsunternehmen" sind Verträge auszuweisen, die von Pensionsfonds bei Lebensversicherungsunternehmen als Kapitalanlage zur Deckung von Verpflichtungen gegenüber den Versorgungsberechtigten eingegangen werden.
 
 (2) Der Wert der Verträge bei Lebensversicherungsunternehmen mit verbundenen Unternehmen und Unternehmen, mit denen ein Beteiligungsverhältnis besteht, ist im Anhang gesondert anzugeben.
 
-
-## § 7 – Sonstige Ausleihungen
+# § 7 – Sonstige Ausleihungen
 
 (1) Im Posten "Sonstige Ausleihungen" sind ohne Rücksicht auf ihre Laufzeit folgende Ausleihungen auszuweisen, soweit sie nicht im Posten "Ausleihungen an verbundene Unternehmen" oder im Posten "Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht" auszuweisen sind:
 
@@ -314,35 +303,29 @@ b) Darlehen und Gehaltsvorschüsse an Mitarbeiter (Arbeitnehmer und selbständig
 
 (2) Die übrigen Ausleihungen sind im Anhang aufzugliedern, wenn sie einen größeren Umfang haben.
 
-
-## § 8 – Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
+# § 8 – Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
 
 (1) Im Posten "Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern" sind diejenigen Kapitalanlagen auszuweisen, nach deren Wert sich die Verpflichtung des Pensionsfonds im Versorgungsfall entsprechend den Festlegungen im Pensionsfondsvertrag bestimmt (Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern).
 
 (2) Im Posten "Sonstiges Vermögen" sind insbesondere die fälligen, aber rückständigen und die auf die Zeit bis zum Abschlussstichtag entfallenden noch nicht fälligen Erträge der Kapitalanlagen nach Absatz 1 auszuweisen, soweit sie nicht bereits im Bilanzwert dieser Kapitalanlagen enthalten sind.
 
-
-## § 9 – Abrechnungsforderungen aus dem Rückversicherungsgeschäft
+# § 9 – Abrechnungsforderungen aus dem Rückversicherungsgeschäft
 
 Im Posten "Abrechnungsforderungen aus dem Rückversicherungsgeschäft" sind die sich aus den laufenden Abrechnungen mit den Rückversicherern und den Rückversicherungsmaklern ergebenden Forderungssalden aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft auszuweisen. Bei zum Abschlussstichtag gekündigten Rückversicherungsverträgen umfassen die Abrechnungssalden auch die auf diese entfallenden pensionsfondstechnischen Rückstellungen, sofern sie zum Abschlussstichtag abgelöst werden; erfolgt die Ablösung der pensionsfondstechnischen Rückstellungen erst zu einem späteren Abschlussstichtag oder Zeitpunkt, sind sie bis dahin unter den entsprechenden Unterposten der pensionsfondstechnischen Rückstellungen auszuweisen.
 
-
-## § 10 – Forderungen an Lebensversicherungsunternehmen
+# § 10 – Forderungen an Lebensversicherungsunternehmen
 
 Im Posten "Forderungen an Lebensversicherungsunternehmen" sind die sich aus den abgeschlossenen Verträgen zur Deckung von Verpflichtungen gegenüber den Versorgungsberechtigten ergebenden Forderungen auszuweisen, soweit sie nicht im Posten "Verträge bei Lebensversicherungsunternehmen" oder im Posten "Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern" enthalten sind.
 
-
-## § 11 – Sonstige Forderungen
+# § 11 – Sonstige Forderungen
 
 Im Posten "Sonstige Forderungen" sind Forderungen auszuweisen, die einem anderen Posten nicht zugeordnet werden können. Hierzu gehören auch die Forderungen aus der Vermittlung von Versicherungs- und Pensionsfondsverträgen, aus sonstigen Dienstleistungsverträgen, geleistete Kautionen, der einem Versicherungsverein auf Gegenseitigkeit oder einem Pensionsfonds auf Gegenseitigkeit als Gründungsstock zur Verfügung gestellte Betrag, Forderungen aus Regressen und Forderungen an Arbeitgeber, die nicht aus dem Pensionsfondsgeschäft herrühren.
 
-
-## § 12 – Pensionsfondstechnische Rückstellungen
+# § 12 – Pensionsfondstechnische Rückstellungen
 
 Die pensionsfondstechnischen Rückstellungen im Sinne dieser Verordnung entsprechen den versicherungstechnischen Rückstellungen im Sinne des Vierten Titels des Zweiten Unterabschnitts des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuchs.
 
-
-## § 13 – Deckungsrückstellung
+# § 13 – Deckungsrückstellung
 
 (1) Bei der Berechnung der Deckungsrückstellung sind für die Berücksichtigung der Risiken aus dem Pensionsfondsvertrag angemessene Sicherheitszuschläge anzusetzen.
 
@@ -352,13 +335,11 @@ Die pensionsfondstechnischen Rückstellungen im Sinne dieser Verordnung entsprec
 
 (4) Für die Berechnung der Rückstellung gelten im Übrigen die auf Grund des § 240 Satz 1 Nummer 12 des Versicherungsaufsichtsgesetzes erlassenen Vorschriften. Eine auf Grund dieser Vorschriften zu bildende Deckungsrückstellung ist nicht im Posten "Deckungsrückstellung", sondern unter dem Posten "Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern" im Unterposten "Deckungsrückstellung" auszuweisen, soweit nach den Festlegungen im Pensionsfondsvertrag die Bildung des Vermögens aus geleisteten Beiträgen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern erfolgt und der Wert des besagten Vermögens der zu bildenden Deckungsrückstellung mindestens entspricht.
 
-
-## § 14 – Rückstellung für noch nicht abgewickelte Versorgungsfälle
+# § 14 – Rückstellung für noch nicht abgewickelte Versorgungsfälle
 
 Für die Höhe der Rückstellung für noch nicht abgewickelte Versorgungsfälle gemäß § 341g Abs. 1 Satz 1 des Handelsgesetzbuchs sind die gegenüber dem Begünstigten bestehenden Verpflichtungen maßgebend; dazu gehören auch die Rückstellungen für noch nicht abgewickelte beendete Pensionsfondsverträge und Versorgungsverhältnisse.
 
-
-## § 15 – Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung
+# § 15 – Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung
 
 (1) Im Posten "Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung" sind die Rückstellungen für Beitragsrückerstattungen nach § 341e Abs. 2 Nr. 2 des Handelsgesetzbuchs auszuweisen. Hierzu gehören auch die Beträge, die zur Verrechnung mit künftigen Beiträgen bestimmt sind, soweit sie nicht im Wege der Direktgutschrift gewährt werden.
 
@@ -388,37 +369,31 @@ c) auf den Fonds für Schlussüberschussanteile (ohne die Beträge, die nach Buc
 
 4. die Verfahren zur Berechnung des Schlussüberschussanteilfonds sowie die gewählten Rechnungsgrundlagen.
 
-
-## § 16 – Sonstige pensionsfondstechnische Rückstellungen
+# § 16 – Sonstige pensionsfondstechnische Rückstellungen
 
 Zu dem Posten "Sonstige pensionsfondstechnische Rückstellungen" gehört insbesondere die Rückstellung für drohende Verluste; erreicht sie einen größeren Umfang, so ist sie in der Bilanz oder im Anhang getrennt auszuweisen.
 
-
-## § 17 – Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
+# § 17 – Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
 
 (1) Unter diesem Posten sind die pensionsfondstechnischen Rückstellungen für Verpflichtungen des Pensionsfonds auszuweisen, deren Wert sich nach dem für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern gehaltenen Vermögen entsprechend den Festlegungen im Pensionsfondsvertrag bestimmt.
 
 (2) Eine nach den auf Grund des § 240 des Versicherungsaufsichtsgesetzes erlassenen Vorschriften zu bildende Deckungsrückstellung ist im Posten "Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern" auszuweisen, soweit nach den Festlegungen im Pensionsfondsvertrag die Bildung des Vermögens aus geleisteten Beiträgen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern erfolgt und der Wert des besagten Vermögens der zu bildenden Deckungsrückstellung mindestens entspricht. Der Betrag der zu bildenden Deckungsrückstellung ist im Anhang anzugeben.
 
-
-## § 18 – Depotverbindlichkeiten aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft
+# § 18 – Depotverbindlichkeiten aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft
 
 (1) Im Posten "Depotverbindlichkeiten aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft" sind die Verbindlichkeiten gegenüber Rückversicherern in Höhe der Beträge auszuweisen, die vom bilanzierenden Pensionsfonds als Sicherheit einbehalten oder ihm vom Rückversicherer zu diesem Zweck belassen worden sind.
 
 (2) Die Depotverbindlichkeiten dürfen weder mit anderen Verbindlichkeiten gegenüber dem Rückversicherer zusammengefasst noch mit Forderungen an den Rückversicherer verrechnet werden.
 
-
-## § 19 – Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
+# § 19 – Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft
 
 Im Posten "Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft" sind die sich aus den laufenden Abrechnungen mit den Rückversicherern und den Rückversicherungsmaklern ergebenden Schuldsalden aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft auszuweisen. Im Übrigen gilt § 9 Satz 2.
 
-
-## § 20 – Verbindlichkeiten gegenüber Lebensversicherungsunternehmen
+# § 20 – Verbindlichkeiten gegenüber Lebensversicherungsunternehmen
 
 Im Posten "Verbindlichkeiten gegenüber Lebensversicherungsunternehmen" sind die sich aus den abgeschlossenen Verträgen zur Deckung von Verpflichtungen gegenüber den Versorgungsberechtigten ergebenden Verbindlichkeiten auszuweisen.
 
-
-## § 21 – Gebuchte Bruttobeiträge
+# § 21 – Gebuchte Bruttobeiträge
 
 (1) Im Unterposten "Gebuchte Bruttobeiträge" sind insbesondere folgende Beiträge auszuweisen:
 
@@ -434,8 +409,7 @@ Im Posten "Verbindlichkeiten gegenüber Lebensversicherungsunternehmen" sind die
 
 (2) Von den Beiträgen gemäß Absatz 1 sind die Abschreibungen von uneinbringlich gewordenen Beitragsforderungen an die Arbeitgeber und Arbeitnehmer sowie die Aufwendungen aus der Bildung und Erhöhung der Pauschalwertberichtigung zu den Beitragsforderungen an die Arbeitgeber und Arbeitnehmer abzusetzen. Die Beiträge gemäß Absatz 1 dürfen nicht um Beitragsrückerstattungen und Provisionen an die Vermittler gekürzt werden.
 
-
-## § 22 – Abgegebene Rückversicherungsbeiträge
+# § 22 – Abgegebene Rückversicherungsbeiträge
 
 Im Unterposten "Abgegebene Rückversicherungsbeiträge" sind folgende Beträge auszuweisen:
 
@@ -445,13 +419,11 @@ Im Unterposten "Abgegebene Rückversicherungsbeiträge" sind folgende Beträge a
 
 Von den Beträgen gemäß Satz 1 sind die bei Aufgabe oder Verminderung des in Rückversicherung gegebenen Pensionsfondsgeschäfts vom Rückversicherer erhaltenen Portefeuille-Austrittsbeiträge abzusetzen. Beiträge des Pensionsfonds für Verträge, die bei Lebensversicherungsunternehmen zur Deckung von Verpflichtungen gegenüber den Versorgungsberechtigten eingegangen werden, sind keine abgegebenen Rückversicherungsbeiträge.
 
-
-## § 23 – Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen
+# § 23 – Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen
 
 Im Posten "Nicht realisierte Gewinne aus Kapitalanlagen" oder im Posten "Nicht realisierte Verluste aus Kapitalanlagen" sind die nicht realisierten Gewinne oder Verluste aus den Kapitalanlagen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern auszuweisen.
 
-
-## § 24 – Sonstige pensionsfonds- technische Erträge für eigene Rechnung
+# § 24 – Sonstige pensionsfonds- technische Erträge für eigene Rechnung
 
 Im Posten "Sonstige pensionsfondstechnische Erträge für eigene Rechnung" sind die pensionsfondstechnischen Erträge auszuweisen, die einem anderen Posten nicht zugeordnet werden können. Hierzu gehören insbesondere:
 
@@ -465,8 +437,7 @@ b) nicht abgehobenen, verjährten Beitragsrückerstattungen,
 
 Von den vorstehenden Erträgen sind die Anteile der Rückversicherer abzusetzen.
 
-
-## § 25 – Aufwendungen für Versorgungsfälle für eigene Rechnung
+# § 25 – Aufwendungen für Versorgungsfälle für eigene Rechnung
 
 (1) Die Aufwendungen für Versorgungsfälle für eigene Rechnung umfassen die im Geschäftsjahr für Versorgungsfälle geleisteten Bruttozahlungen sowie die Veränderung der Brutto-Rückstellung für noch nicht abgewickelte Versorgungsfälle. Von den Bruttoaufwendungen gemäß Satz 1 sind die Anteile der Rückversicherer abzusetzen. Zu den Anteilen der Rückversicherer gehören nicht die vom Pensionsfonds empfangenen Leistungen aus Verträgen, die bei Lebensversicherungsunternehmen zur Deckung von Verpflichtungen gegenüber den Versorgungsberechtigten eingegangen werden.
 
@@ -478,8 +449,7 @@ Von den vorstehenden Erträgen sind die Anteile der Rückversicherer abzusetzen.
 
 (5) Ist das Ergebnis aus der Abwicklung der aus dem vorhergehenden Geschäftsjahr übernommenen Rückstellung für noch nicht abgewickelte Versorgungsfälle erheblich, so ist dieses nach Art und Höhe im Anhang zu erläutern.
 
-
-## § 26 – Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung
+# § 26 – Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung
 
 (1) Die Aufwendungen für die erfolgsabhängige Beitragsrückerstattung umfassen die Zuführungen zur Rückstellung für erfolgsabhängige Beitragsrückerstattung.
 
@@ -493,8 +463,7 @@ Von den in Absatz 1 und in Satz 1 bezeichneten Aufwendungen sind die Anteile der
 
 (3) Erreichen die erfolgsabhängigen und die erfolgsunabhängigen Beitragsrückerstattungen einen größeren Umfang, so sind sie im Anhang getrennt anzugeben.
 
-
-## § 27 – Aufwendungen für den Pensionsfondsbetrieb für eigene Rechnung
+# § 27 – Aufwendungen für den Pensionsfondsbetrieb für eigene Rechnung
 
 (1) Die gesamten Personal- und Sachaufwendungen des Unternehmens zuzüglich der kalkulatorischen Mietaufwendungen für die eigengenutzten Grundstücke und Bauten sind folgenden Funktionsbereichen zuzuordnen:
 
@@ -540,8 +509,7 @@ b) passiven Rückversicherung.
 
 (4) Von den Bruttoaufwendungen für den Pensionsfondsbetrieb sind die erhaltenen Provisionen und Gewinnbeteiligungen aus dem in Rückversicherung gegebenen Pensionsfondsgeschäft abzuziehen und gesondert auszuweisen. Hierzu gehören auch die vom Rückversicherer geleistete anteilige Erstattung der dem Pensionsfonds entstandenen originalen Aufwendungen für den Pensionsfondsbetrieb sowie die erhaltenen Aufbauprovisionen und anderen Aufbauzuschüsse.
 
-
-## § 28 – Sonstige pensionsfondstechnische Aufwendungen für eigene Rechnung
+# § 28 – Sonstige pensionsfondstechnische Aufwendungen für eigene Rechnung
 
 Im Posten "Sonstige pensionsfondstechnische Aufwendungen für eigene Rechnung" sind die pensionsfondstechnischen Aufwendungen auszuweisen, die einem anderen Posten nicht zugeordnet werden können. Hierzu gehören insbesondere:
 
@@ -553,13 +521,11 @@ Im Posten "Sonstige pensionsfondstechnische Aufwendungen für eigene Rechnung" s
 
 Von den vorstehenden Aufwendungen sind die Anteile der Rückversicherer abzusetzen.
 
-
-## § 29 – Erträge aus Kapitalanlagen
+# § 29 – Erträge aus Kapitalanlagen
 
 Als "Erträge aus Grundstücken, grundstücksgleichen Rechten und Bauten einschließlich der Bauten auf fremden Grundstücken" sind auch die kalkulatorischen Mieten für die eigengenutzten Grundstücke und Bauten auszuweisen.
 
-
-## § 30 – Aufwendungen für Kapitalanlagen
+# § 30 – Aufwendungen für Kapitalanlagen
 
 (1) Als Aufwendungen für die Verwaltung der Kapitalanlagen sind die dem Funktionsbereich "Verwaltung von Kapitalanlagen" zugeordneten Personal- und Sachaufwendungen auszuweisen.
 
@@ -575,8 +541,7 @@ Als "Erträge aus Grundstücken, grundstücksgleichen Rechten und Bauten einschl
 
 5. Schuldzinsen für Hypotheken auf den eigenen Grundbesitz.
 
-
-## § 31 – Sonstige Erträge
+# § 31 – Sonstige Erträge
 
 Im Posten "Sonstige Erträge" sind die nichtpensionsfondstechnischen Erträge auszuweisen, die einem anderen Posten nicht zugeordnet werden können. Hierzu gehören insbesondere:
 
@@ -592,8 +557,7 @@ a) zu den Kapitalanlagen gehörenden Forderungen herrühren, die im Posten "Ertr
 
 b) Beitragsforderungen an die Arbeitgeber und Arbeitnehmer herrühren, die im Posten "Gebuchte Bruttobeiträge" zu erfassen sind.
 
-
-## § 32 – Sonstige Aufwendungen
+# § 32 – Sonstige Aufwendungen
 
 Im Posten "Sonstige Aufwendungen" sind die nichtpensionsfondstechnischen Aufwendungen auszuweisen, die einem anderen Posten nicht zugeordnet werden können. Hierzu gehören insbesondere:
 
@@ -609,13 +573,11 @@ a) die zu den Kapitalanlagen gehörenden Forderungen betreffen, die im Posten "A
 
 b) die Beitragsforderungen an die Arbeitgeber und Arbeitnehmer betreffen, die im Posten "Gebuchte Bruttobeiträge" als Abzugsposten zu behandeln sind.
 
-
-## § 33 – Sonstige Steuern
+# § 33 – Sonstige Steuern
 
 Im Posten "Sonstige Steuern" sind Steuern auszuweisen, soweit es sich nicht um Steuern vom Einkommen und vom Ertrag handelt.
 
-
-## § 34 – Zusätzliche Erläuterungen
+# § 34 – Zusätzliche Erläuterungen
 
 (1) In den Anhang sind neben den nach § 341a in Verbindung mit den §§ 284 und 285 Nummer 1 bis 3a, 7, 9 bis 14a, 15a bis 30 sowie 32 bis 34 des Handelsgesetzbuchs die in dieser Verordnung zu den einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung vorgeschriebenen Angaben aufzunehmen. Außerdem sind die in diesem Abschnitt vorgeschriebenen Angaben zu machen.
 
@@ -657,8 +619,7 @@ leistungsbezogenen Pensionsplänen.
 
 (6) Im Anhang sind die Aufwendungen für Beiträge an den Pensionssicherungsverein anzugeben.
 
-
-## § 35 – Zusätzliche Pflichtangaben
+# § 35 – Zusätzliche Pflichtangaben
 
 Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im Anhang zusätzlich anzugeben:
 
@@ -692,13 +653,11 @@ c) Aufwendungen für im Aktivposten C enthaltene Lebensversicherungsverträge, d
 
 d) Aufwendungen für im Aktivposten D I enthaltene Verträge bei Lebensversicherungsunternehmen, die von Pensionsfonds zur Deckung von Verpflichtungen gegenüber den Versorgungsberechtigten eingegangen werden.
 
-
-## § 36 – Anwendung von Bestimmungen der Verordnung über die Rechnungslegung von Versicherungsunternehmen zum Zeitwert
+# § 36 – Anwendung von Bestimmungen der Verordnung über die Rechnungslegung von Versicherungsunternehmen zum Zeitwert
 
 Die §§ 54 bis 56 der Verordnung über die Rechnungslegung von Versicherungsunternehmen in der jeweils geltenden Fassung sind entsprechend anzuwenden.
 
-
-## § 37 – Lagebericht
+# § 37 – Lagebericht
 
 (1) In den Lagebericht sind zusätzlich zu den in § 289 des Handelsgesetzbuchs vorgeschriebenen Angaben folgende Angaben aufzunehmen:
 
@@ -710,8 +669,7 @@ Die §§ 54 bis 56 der Verordnung über die Rechnungslegung von Versicherungsunt
 
 (3) Zusätzlich ist der Pensionsfondsvertragsbestand nach dem anliegenden Muster 4 aufzugliedern.
 
-
-## § 38 – Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
+# § 38 – Konzernbilanz und Konzern-Gewinn- und Verlustrechnung
 
 (1) Soweit nicht die Besonderheiten des Konzerns Abweichungen bedingen, ist für die Aufstellung der Konzernbilanz das Formblatt 1 und für die Aufstellung der Konzern-Gewinn- und Verlustrechnung das Formblatt 2 anzuwenden.
 
@@ -723,13 +681,11 @@ Die §§ 54 bis 56 der Verordnung über die Rechnungslegung von Versicherungsunt
 
 entsprechend anzuwenden.
 
-
-## § 39 – Konzernanhang
+# § 39 – Konzernanhang
 
 § 59 der Verordnung über die Rechnungslegung von Versicherungsunternehmen ist entsprechend anzuwenden.
 
-
-## § 40 – Ordnungswidrigkeiten
+# § 40 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 341p in Verbindung mit § 341n Abs. 1 Nr. 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Pensionsfonds
 
@@ -753,8 +709,7 @@ b) einer Vorschrift des § 38 Abs. 2 Nr. 2 in Verbindung mit den §§ 6 bis 9 Sa
 
 c) entgegen § 39 in Verbindung mit § 59 Abs. 2 bis 4 der Verordnung über die Rechnungslegung von Versicherungsunternehmen eine Angabe nicht oder nicht richtig macht.
 
-
-## § 41 – Übergangsvorschriften
+# § 41 – Übergangsvorschriften
 
 (1) Die Vorschriften dieser Verordnung sind erstmals auf den Jahresabschluss und den Lagebericht sowie den Konzernabschluss von Pensionsfonds für das nach dem 31. Dezember 2001 beginnende Geschäftsjahr anzuwenden.
 
@@ -768,13 +723,11 @@ c) entgegen § 39 in Verbindung mit § 59 Abs. 2 bis 4 der Verordnung über die 
 
 (6) Die §§ 34 und 35 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2015 beginnen.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Formblatt 1
+# Formblatt 1
 
 (Inhalt: nicht darstellbares Formblatt)  
 
@@ -785,8 +738,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
 
-
-## Formblatt 2
+# Formblatt 2
 
 (Fundstelle: BGBl. I 2003, S. 258 - 259;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -946,8 +898,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Die Angaben ab Posten II 12 können statt in der nichtpensionsfondstechnischen
     Rechnung auch im Anhang gemacht werden. 
 
-
-## Muster 1
+# Muster 1
 
 (Inhalt: nicht darstellbares Formular)  
 
@@ -958,8 +909,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
 
-
-## Muster 2
+# Muster 2
 
 (Inhalt: nicht darstellbares Formular)  
 
@@ -970,8 +920,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
   
 
-
-## Muster 3
+# Muster 3
 
 (Fundstelle: BGBl. I 2003, 262)
 
@@ -1038,8 +987,7 @@ Aufwendungen insgesamt
 
  
 
-
-## Muster 4
+# Muster 4
 
 (Fundstelle: BGBl. I 2003, 263)
 

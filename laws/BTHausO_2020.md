@@ -1,20 +1,15 @@
-# [BTHausO 2020] Hausordnung des Deutschen Bundestages
-
-Ausfertigungsdatum: 29.06.2020
-
+% Hausordnung des Deutschen Bundestages
+% Ausfertigungsdatum: 29.06.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Artikels 40 des Grundgesetzes in Verbindung mit § 7 Absatz 2 der Geschäftsordnung des Deutschen Bundestages habe ich im Einvernehmen mit dem Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung die Hausordnung vom 7. August 2002 in der Fassung vom 18. Oktober 2018 (BGBl. I S. 2246) geändert und mache die geänderte Hausordnung in der Fassung vom 29. Juni 2020 bekannt:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Die Gebäude des Deutschen Bundestages (= der Verwaltung des Deutschen Bundestages auf Dauer oder vorübergehend unterstehende Gebäude, Gebäudeteile und Grundstücke, § 7 Absatz 2 der Geschäftsordnung des Deutschen Bundestages) dienen der parlamentarischen Arbeit. In ihnen übt der Präsident des Deutschen Bundestages das Hausrecht und die Polizeigewalt aus. Es gilt diese Hausordnung.
 
-
-## § 2 – Zutrittsberechtigung
+# § 2 – Zutrittsberechtigung
 
 (1) Zutritt zu den nicht für die Öffentlichkeit zugänglichen Gebäuden des Deutschen Bundestages haben
 
@@ -114,8 +109,7 @@ Für gelegentliche Besuche wird gegen Hinterlegung eines amtlichen Ausweises jew
 
 (12) Personen, die die geforderten Zuverlässigkeitsüberprüfungen oder Sicherheitsmaßnahmen ablehnen, haben keinen Zutritt.
 
-
-## § 3 – Plenarsaal
+# § 3 – Plenarsaal
 
 (1) Zutritt zum Plenarsaal des Deutschen Bundestages haben während der Sitzungen
 
@@ -129,8 +123,7 @@ c) der oder die Wehrbeauftragte des Deutschen Bundestages,
 
 3. auf Grund einer Einlasskarte zur Regierungs- oder Bundesratsbank Mitarbeiterinnen und Mitarbeiter der Regierungs- und Bundesratsmitglieder.
 
-(2) Soweit auf den Tribünen Bereiche für bestimmte Personen oder Gruppen vorgesehen sind (Presse, Diplomaten, ausländische Delegationen und Gäste des Deutschen Bundestages), stehen sie in erster Linie diesen Personen bzw. den Angehörigen dieser Gruppen zur Verfügung.  
-Darüber hinaus erhalten bevorzugt Zutritt
+(2) Soweit auf den Tribünen Bereiche für bestimmte Personen oder Gruppen vorgesehen sind (Presse, Diplomaten, ausländische Delegationen und Gäste des Deutschen Bundestages), stehen sie in erster Linie diesen Personen bzw. den Angehörigen dieser Gruppen zur Verfügung. Darüber hinaus erhalten bevorzugt Zutritt
 
 a) Mitglieder und ehemalige Mitglieder des Deutschen Bundestages, des Europäischen Parlaments und der Länderparlamente,
 
@@ -142,8 +135,7 @@ c) Besuchergruppen und Einzelbesucher, die vom Besucherdienst eingeladen oder zu
 
 (4) Für den Zutritt zur Ostlobby während der Sitzungen gilt Absatz 1 entsprechend. Zutritt haben auch die Mitarbeiterinnen und Mitarbeiter der Mitglieder und Fraktionen des Deutschen Bundestages sowie die zum Dienst in der Ostlobby eingeteilten Bediensteten des Deutschen Bundestages.
 
-
-## § 4 – Verhalten in Gebäuden
+# § 4 – Verhalten in Gebäuden
 
 (1) In den Gebäuden des Deutschen Bundestages sind Ruhe und Ordnung zu wahren. Die Besucher haben die Würde des Hauses zu achten und auf die Arbeit im Haus Rücksicht zu nehmen. Insbesondere sind alle Handlungen zu unterlassen, die geeignet sind, die Tätigkeit des Deutschen Bundestages, seiner Gremien, Organe und Einrichtungen zu stören.
 
@@ -159,8 +151,7 @@ c) Besuchergruppen und Einzelbesucher, die vom Besucherdienst eingeladen oder zu
 
 Abs. 6 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Schreibweise der amtlichen Kurzbezeichnung eingesetzt.
 
-
-## § 5 – Besondere Verhaltensregeln für die Besucher von Sitzungen des Deutschen Bundestages und seiner Gremien
+# § 5 – Besondere Verhaltensregeln für die Besucher von Sitzungen des Deutschen Bundestages und seiner Gremien
 
 (1) Einzelbesucher und Angehörige von Besuchergruppen haben vor dem Betreten Mäntel, Schirme, Koffer und Taschen sowie Geräte zur Aufzeichnung, Übermittlung, Übertragung oder Wiedergabe von Bild und Ton, Ferngläser und ähnliche Gegenstände an den Garderoben abzugeben. Dies gilt nicht für Handtaschen, wenn sie vorher einer Kontrolle unterzogen worden sind. An sitzungsfreien Tagen können Ausnahmen zugelassen werden.
 
@@ -168,8 +159,7 @@ Abs. 6 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Sc
 
 (3) Während der Sitzungen sind Beifalls- und Missfallenskundgebungen, Zwischenrufe, Verletzungen von Ordnung oder Anstand sowie Handlungen, die geeignet sind, den Ablauf der Sitzungen zu stören, untersagt.
 
-
-## § 6 – Bild- und Tonaufnahmen, Medien
+# § 6 – Bild- und Tonaufnahmen, Medien
 
 (1) Geräte zur Aufzeichnung, Übermittlung, Übertragung oder Wiedergabe von Bild und Ton dürfen nur mit Einwilligung des Präsidenten des Deutschen Bundestages und nach Maßgabe der vom Präsidenten in Ausübung seines Hausrechts erlassenen Regelungen zur Medienberichterstattung benutzt werden. Die unautorisierte Ablichtung persönlicher Unterlagen in der Weise, dass diese erkennbar oder lesbar sind, ist untersagt.
 
@@ -177,8 +167,7 @@ Abs. 6 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Sc
 
 (3) Bild- und Tonaufnahmen zu gewerblichen, insbesondere zu Werbezwecken sind untersagt; zu privaten Zwecken sind sie zulässig, soweit der Parlamentsbetrieb sowie die Persönlichkeitsrechte der im Gebäude Anwesenden hiervon nicht beeinträchtigt werden, in Sitzungssälen und -räumen nur während sitzungsfreier Zeiten. Die Rechte Dritter bleiben unberührt. Die zu privaten Zwecken aufgenommenen Bild- und Tonaufnahmen dürfen nur privat und nichtkommerziell verbreitet werden. Dies schließt private Internetseiten und internetbasierte soziale Medien ein. Die Bild- und Tonaufnahmen dürfen nicht in einem Umfeld veröffentlicht werden, das rechtswidrige, gewaltverherrlichende, pornografische, rassistische oder antisemitische Inhalte aufweist.
 
-
-## § 7 – Anordnungen des Ordnungspersonals, Hausverbot
+# § 7 – Anordnungen des Ordnungspersonals, Hausverbot
 
 (1) Die zuständigen Mitarbeiterinnen und Mitarbeiter haben die zum Schutze der parlamentarischen Arbeit erforderlichen Ordnungs- und Sicherungsaufgaben durchzuführen; ihren Weisungen ist Folge zu leisten.
 
@@ -186,8 +175,7 @@ Abs. 6 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Sc
 
 (3) Der Präsident des Deutschen Bundestages kann bei einem Verstoß gegen diese Hausordnung ein Hausverbot verhängen.
 
-
-## § 8 – Besondere Veranstaltungen, Pachtbetriebe
+# § 8 – Besondere Veranstaltungen, Pachtbetriebe
 
 (1) Über die Überlassung von Räumen des Bundestages für Veranstaltungen von Behörden, Organisationen oder anderen Stellen entscheidet der Präsident des Deutschen Bundestages. Das Verfahren bei der Vergabe und Nutzung von Räumen der Fraktionen bleibt unberührt.
 
@@ -197,20 +185,17 @@ Abs. 6 Satz 1 Kursivdruck: Auf Grund offensichtlicher Unrichtigkeit wurde die Sc
 
 (4) Soweit Dritten Räumlichkeiten auf Grund von Pacht- oder Mietverträgen überlassen werden, sind die entsprechenden vertraglichen Vereinbarungen maßgebend.
 
-
-## § 9 – Bibliothek, Archiv, Sondereinrichtungen
+# § 9 – Bibliothek, Archiv, Sondereinrichtungen
 
 Für die Benutzung der Bibliothek, der Archive und anderer Sondereinrichtungen sind die entsprechenden Benutzungsordnungen maßgebend.
 
-
-## § 10 – Schlussbestimmungen
+# § 10 – Schlussbestimmungen
 
 (1) Der Präsident des Deutschen Bundestages kann aus besonderem Anlass die Zutrittsberechtigungen von Besuchern oder Besuchergruppen einschränken oder versagen. Er entscheidet über Ausnahmen von den Bestimmungen dieser Hausordnung.
 
 (2) Der Präsident des Deutschen Bundestages kann in Ausübung seines Hausrechts ergänzende Regelungen erlassen.
 
-
-## Anhang – zur Hausordnung
+# Anhang – zur Hausordnung
 
 (Fundstelle: BGBl. I 2020, 1953)
 

@@ -1,10 +1,7 @@
-# [TVMindestlohn Steinmetz 3] Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Steinmetz- und Steinbildhauerhandwerk vom 25. Februar 2019 (TV Mindestlohn)
-
-Ausfertigungsdatum: 29.08.2019
-
+% Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Steinmetz- und Steinbildhauerhandwerk vom 25. Februar 2019 (TV Mindestlohn)
+% Ausfertigungsdatum: 29.08.2019
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 1 Räumlicher Geltungsbereich:
 
@@ -65,8 +62,7 @@ b) Schulabgänger, die innerhalb von 12 Monaten nach Beendigung ihrer Schulausbi
 
 c) Gewerbliches Reinigungspersonal, das ausschließlich für die Durchführung und Aufrechterhaltung von Sauberkeit, Ordnung und Sicherheit beschäftigt ist.
 
-
-## § 2 – Mindestlohn
+# § 2 – Mindestlohn
 
 (1) Dieser Mindestlohn ist Lohn im Sinne des § 5 Nummer 1 des Arbeitnehmer-Entsendegesetzes für alle von dem persönlichen Geltungsbereich dieses Tarifvertrags erfassten Arbeitnehmer.
 
@@ -80,8 +76,7 @@ c) Gewerbliches Reinigungspersonal, das ausschließlich für die Durchführung u
 
 (3) Höhere Lohnansprüche auf Grund anderer Tarifverträge oder einzelvertraglicher Vereinbarungen bleiben unberührt.
 
-
-## § 3 – Fälligkeit des Mindestlohnes
+# § 3 – Fälligkeit des Mindestlohnes
 
 (1) Der Anspruch auf den Mindestlohn wird spätestens zum 15. des Monats fällig, der dem Monat folgt, für den der Mindestlohn zu zahlen ist.
 
@@ -89,8 +84,7 @@ c) Gewerbliches Reinigungspersonal, das ausschließlich für die Durchführung u
 
 (3) Die Ausschlussfristen nach § 16 RTV gelten nicht für Ansprüche auf den Mindestlohn. Es gilt die gesetzliche Verjährung.
 
-
-## Anhang – (zur Anlage)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk (RTV) vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 2. Dezember 2009, in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. September 2019 geltenden Fassung:
+# Anhang – (zur Anlage)Auszug aus dem Rahmentarifvertrag für die gewerblichen Arbeitnehmer im Steinmetz- und Steinbildhauerhandwerk (RTV) vom 24. Mai 2000, zuletzt geändert durch Tarifvertrag vom 2. Dezember 2009, in der nach § 1 Absatz 1 der Verordnung maßgeblichen, am 1. September 2019 geltenden Fassung:
 
 (Fundstelle: BAnz AT 30.08.2019 V1)
 

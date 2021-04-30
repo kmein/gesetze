@@ -1,10 +1,7 @@
-# [ÜblG 1] Erstes Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund  (Erstes Überleitungsgesetz)
-
-Ausfertigungsdatum: 28.11.1950
-
+% Erstes Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund  (Erstes Überleitungsgesetz)
+% Ausfertigungsdatum: 28.11.1950
  
-
-## § 1
+# § 1
 
 (1) Der Bund trägt nach Maßgabe der §§ 21, 21a und 21b
 
@@ -20,8 +17,7 @@ Ausfertigungsdatum: 28.11.1950
 
 6. die Aufwendungen für Grenzdurchgangslager (§ 16),
 
-6a.  
-die Zuschüsse zur Kriegsgräberfürsorge, zum Suchdienst für Kriegsgefangene, Heimatvertriebene und heimatlose Ausländer und die Aufwendungen für den Rechtsschutz von Deutschen, die von ausländischen Behörden oder Gerichten im Zusammenhang mit den Kriegsereignissen verfolgt werden oder verurteilt worden sind,
+6a. die Zuschüsse zur Kriegsgräberfürsorge, zum Suchdienst für Kriegsgefangene, Heimatvertriebene und heimatlose Ausländer und die Aufwendungen für den Rechtsschutz von Deutschen, die von ausländischen Behörden oder Gerichten im Zusammenhang mit den Kriegsereignissen verfolgt werden oder verurteilt worden sind,
 
 7. die Aufwendungen für verdrängte Angehörige des öffentlichen Dienstes und für ehemalige berufsmäßige Wehrmachtsangehörige,
 
@@ -41,13 +37,11 @@ die Zuschüsse zur Kriegsgräberfürsorge, zum Suchdienst für Kriegsgefangene, 
 
 2. bei den in Absatz 1 Ziff. 8 bezeichneten Aufwendungen die Kosten für Bauvorhaben, die vor dem 1. April 1955 für Rechnung des Bundes begonnen, aber noch nicht beendet worden sind.
 
-
-## § 2
+# § 2
 
 (Durch Zeitablauf überholt)
 
-
-## § 3
+# § 3
 
 (1) Mit Wirkung ab 1. April 1950 gehen auf den Bund über:
 
@@ -73,8 +67,7 @@ die Zuschüsse zur Kriegsgräberfürsorge, zum Suchdienst für Kriegsgefangene, 
 
 (3) Die besondere Regelung für die Soforthilfeabgabe bleibt hiervon unberührt.
 
-
-## § 4
+# § 4
 
 (1) Die am 31. März 1950 in Geltung gewesenen bundes- und landesrechtlichen Bestimmungen über die in § 1 Abs. 1 aufgeführten Sachgebiete sind weiter anzuwenden, soweit in diesem Gesetz nichts anderes bestimmt ist oder nicht bundesgesetzliche Regelungen seit dem 1. April 1950 getroffen worden sind oder noch getroffen werden.
 
@@ -84,13 +77,11 @@ die Zuschüsse zur Kriegsgräberfürsorge, zum Suchdienst für Kriegsgefangene, 
 
 2. In Angelegenheiten von grundsätzlicher oder erheblicher finanzieller Bedeutung sind die obersten Landesbehörden hinsichtlich der wirtschaftlichen Verwaltung der Bundesmittel an die Weisungen der obersten Bundesbehörden gebunden. Der Vollzug der Weisungen ist durch die obersten Landesbehörden sicherzustellen.
 
-
-## § 5
+# § 5
 
 Besatzungskosten und Auftragsausgaben (§ 1 Abs. 1 Ziff. 1) sind die Aufwendungen für Zweckbestimmungen, die in dem der Bundesregierung vom Rat der Alliierten Hohen Kommission zugeleiteten Haushalt für die Besatzungskosten und Auftragsausgaben vorgesehen sind.
 
-
-## § 6
+# § 6
 
 (1) Aufwendungen im Sinne des § 1 Abs. 1 Ziff. 2 sind
 
@@ -124,8 +115,7 @@ Besatzungskosten und Auftragsausgaben (§ 1 Abs. 1 Ziff. 1) sind die Aufwendunge
 
 (4) Die Bundesregierung wird ermächtigt, die in Absatz 1 bezeichneten Aufwendungen durch eine mit Zustimmung des Bundesrates zu erlassende Rechtsverordnung näher zu bestimmen.
 
-
-## § 7
+# § 7
 
 (1) Aufwendungen der Kriegsfolgenhilfe sind die auf Grund gesetzlicher Anordnung von den Bezirksfürsorgeverbänden, den Landesfürsorgeverbänden oder den Ländern geleisteten Fürsorgekosten für Kriegsfolgenhilfe-Empfänger.
 
@@ -141,20 +131,17 @@ Besatzungskosten und Auftragsausgaben (§ 1 Abs. 1 Ziff. 1) sind die Aufwendunge
 
 5. Angehörige von Kriegsgefangenen und Vermißten.
 
-
-## § 8
+# § 8
 
 Fürsorgekosten sind die Pflichtleistungen, die im Rahmen der Verordnung über die Fürsorgepflicht in der Fassung vom 20. August 1953 (Bundesgesetzblatt I S. 967), der Reichsgrundsätze über Voraussetzung, Art und Maß der öffentlichen Fürsorge in der Fassung vom 20. August 1953 (Bundesgesetzbl. I S. 967) und der hierzu ergangenen Ausführungsvorschriften in Verbindung mit den durch die Fürsorgerechtsprechung entwickelten Grundsätzen nach den örtlich maßgebenden, über Anordnungen des Landes nicht hinausgehenden Richtsätzen und Richtlinien der öffentlichen Fürsorge gewährt werden.
 
 § 8 Kursivdruck: Reichsgrundsätze über Voraussetzung, Art und Maß der öffentlichen Fürsorge v. 4.12.1924 I 765 aufgeh. mit Ausnahme des § 6 Abs. 1 Buchst. d durch § 153 Abs. 2 Nr. 3 BSHG v. 30.6.1961 I 815, 841 2170-1; vgl. auch Abs. 3 u. 4 des vorgen. §; V über die Fürsorgepflicht v. 13.2.1924 I 100 aufgeh. durch § 153 Abs. 2 Nr. 2 BSHG v. 30.6.1961 I 815, 841 2170-1
 
-
-## § 9
+# § 9
 
 Fürsorgekosten sind sowohl Geldleistungen (laufende und einmalige Unterstützungen) als auch Sachleistungen der offenen und geschlossenen Fürsorge.
 
-
-## § 10
+# § 10
 
 Fürsorgekosten sind auch
 
@@ -172,22 +159,19 @@ c) Gesetz zur Bekämpfung der Geschlechtskrankheiten vom 23. Juli 1953 (Bundesge
 
 mit ihren Ausführungsbestimmungen.
 
-
-## § 11
+# § 11
 
 (1) Zur Kriegsfolgenhilfe gehören auch - soweit nicht die Bestimmung des § 15 oder des § 16 in Betracht kommt - die Kosten allgemeiner Fürsorgemaßnahmen für den Transport und für die lagermäßige Unterbringung und Versorgung von Heimatvertriebenen, Evakuierten, Zugewanderten aus der sowjetischen Besatzungszone und der Stadt Berlin und von Ausländern sowie Staatenlosen bis zur wohnungsgemäßen Unterbringung am Übernahmeort. Diese Kosten gelten als Kriegsfolgenhilfe ohne Rücksicht darauf, ob sie für unterstützte oder nichtunterstützte Personen aufgewendet worden sind.
 
 (2)
 
-
-## § 12
+# § 12
 
 Werden auf Grund landesrechtlicher Bestimmungen, die nach dem 8. Mai 1945 erlassen sind, an Stelle von Fürsorgeleistungen Leistungen gewährt, die nach anderen Grundsätzen als denen der Verordnung über die Fürsorgepflicht in der Fassung vom 20. August 1953 (Bundesgesetzbl. I S. 967) bemessen, insbesondere nicht von der im Einzelfall nachgewiesenen Hilfsbedürftigkeit abhängig gemacht worden sind, so übernimmt der Bund nur die Kosten, die bei Anwendung der Vorschriften der Fürsorgepflichtverordnung aufzuwenden gewesen wären. Das gleiche gilt für Fürsorgeleistungen, die Kriegsfolgenhilfe-Empfängern nach anderen Richtsätzen oder Richtlinien (§ 8) gewährt werden als den übrigen Empfängern der öffentlichen Fürsorge.
 
 § 12 Kursivdruck: V über die Fürsorgepflicht v. 13.2.1924 I 100 aufgeh. durch § 153 Abs. 2 Nr. 2 BSHG v. 30.6.1961 I 815, 841 2170-1
 
-
-## § 13
+# § 13
 
 Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
@@ -195,8 +179,7 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
 2. die in den §§ 8 bis 12 aufgeführten Fürsorgekosten näher zu bestimmen.
 
-
-## § 14
+# § 14
 
 (1) Der Bund trägt die Kosten der Umsiedlung Heimatvertriebener im Sinne des § 2 der Verordnung über die Umsiedlung von Heimatvertriebenen aus den Ländern Bayern, Niedersachsen und Schleswig-Holstein vom 29. November 1949 (Bundesgesetzbl. 1950 S. 4) und der Personen, die durch Gesetz oder durch Rechtsverordnung auf Grund des Artikels 119 des Grundgesetzes in die Umsiedlung einbezogen werden.
 
@@ -204,30 +187,25 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 
 (3) Kosten der Umsiedlung sind die Kosten des Transportes vom bisherigen Aufenthaltsort zum neuen Aufenthaltsort, der Verpflegung während der Reise, des Begleitpersonals und ein Überbrückungsgeld zur Deckung der ersten Bedürfnisse am Aufnahmeort, soweit diese Kosten nicht von anderer Seite, insbesondere von der Arbeitslosenversicherung zu tragen sind.
 
-
-## § 14a
+# § 14a
 
 (1) Der Bund trägt die Kosten der Auswanderung von Kriegsfolgenhilfe-Empfängern. Als Kriegsfolgenhilfe-Empfänger gelten die in § 7 Abs. 2 genannten Personen auch dann, wenn sie nicht von den Fürsorgeverbänden unterstützt werden, aber andere Sozialleistungen erhalten, oder wenn sie hilfsbedürftig im Sinne der Fürsorgepflichtverordnung (§ 8) sind.
 
 (2) Kosten der Auswanderung sind die Kosten des Transportes vom bisherigen Aufenthaltsort bis zum Grenzübertritt oder bis zur Einschiffung, der Verpflegung während der Reise, des Begleitpersonals, der vorgeschriebenen amtlichen Überprüfung und ärztlichen Untersuchung sowie der lagermäßigen Unterbringung und Versorgung.
 
-
-## § 15
+# § 15
 
 (1) Der Bund trägt die Kosten der Rückführung von Deutschen aus dem Ausland und aus den unter fremder Verwaltung stehenden deutschen Gebietsteilen und die Kosten der Durchführung der Verordnung über die Bereitstellung von Lagern und über die Verteilung der in das Bundesgebiet aufgenommenen Deutschen aus den unter fremder Verwaltung stehenden deutschen Gebietsteilen, aus Polen und der Tschechoslowakei auf die Länder des Bundesgebietes.
 
 (2) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates die Kosten der Rückführung im Sinne des Absatzes 1 näher zu bestimmen.
 
-
-## § 16
+# § 16
 
 Der Bund trägt die Kosten für die von der Bundesregierung als Grenzdurchgangslager von übergebietlicher Bedeutung anerkannten Einrichtungen.
 
+# §§ 16a bis 16c – (weggefallen)
 
-## §§ 16a bis 16c – (weggefallen)
-
-
-## § 17
+# § 17
 
 Zuschüsse zu den Lasten der Sozialversicherung (§ 1 Abs. 1 Ziff. 11) sind die auf Grund der folgenden Bestimmungen und der Verordnung über die Erstreckung von Sozialversicherungsrecht der Verwaltung des Vereinigten Wirtschaftsgebietes auf die Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau vom 12. Mai 1950 (Bundesgesetzbl. S. 179) zu leistenden Ausgaben:
 
@@ -249,8 +227,7 @@ h) Aufwendungen der Sozialversicherungsträger für Ausgleichsbeträge an die im
 
 i) Rentenauslagen für im Land Rheinland-Pfalz wohnende Berechtigte der früheren Lothringer Knappschaft.
 
-
-## § 18
+# § 18
 
 (1) Für den Übergang der in § 1 Abs. 1 dieses Gesetzes genannten Ausgaben und der in § 3 dieses Gesetzes genannten Einnahmen ist Stichtag der 1. April 1950. Alle bis zum 31. März 1950 eingegangenen Einnahmen und geleisteten Ausgaben werden in den Haushaltsrechnungen der Länder nachgewiesen. Alle ab 1. April 1950 eingehenden Einnahmen und alle ab 1. April 1950 geleisteten Ausgaben werden in der Haushaltsrechnung des Bundes nachgewiesen. Ausgleichsverbindlichkeiten zwischen den Ländern sowie solche, die zwischen dem Bund und den Ländern vor dem 1. April 1950 entstanden sind, werden hiervon nicht betroffen.
 
@@ -274,8 +251,7 @@ nicht decken, bleibt das Land mit dem Unterschiedsbetrag belastet.
 
 § 18 Abs. 3 Kursivdruck: § 2 durch Zeitablauf überholt.
 
-
-## § 19
+# § 19
 
 Für den Ertrag der Monopole gilt folgendes:
 
@@ -283,8 +259,7 @@ Für den Ertrag der Monopole gilt folgendes:
 
 2. Beträge, die vor dem 1. April 1950 von den Ländern entnommen sind, sind auf den zum 31. März 1950 festzustellenden Reingewinn anzurechnen. Soweit sie den Reingewinn übersteigen, sind sie unmittelbar nach Abschluß der Zwischenbilanz durch die Länder dem Bund zu erstatten.
 
-
-## § 20
+# § 20
 
 (1) Auf Ersuchen des Bundesministers der Finanzen hat der Bundesrechnungshof eine Überprüfung vorzunehmen, ob in einem Lande das finanzielle Ergebnis der Überleitung
 
@@ -296,15 +271,13 @@ Solche Prüfungen sind gemeinsam mit der obersten Rechnungsprüfungsbehörde des
 
 (2) Zur Entscheidung von grundsätzlichen Fragen, die bei diesen Prüfungen auftreten, kann bei Meinungsverschiedenheiten jede der beteiligten obersten Rechnungsprüfungsbehörden den Vereinigten Senat (§ 10 des Gesetzes über Errichtung und Aufgaben des Bundesrechnungshofes vom 27. November 1950 - Bundesgesetzbl. S. 765 -) anrufen.
 
-
-## § 21
+# § 21
 
 (1) Ausgaben für die in § 1 Abs. 1 Ziff. 1, 2, 7 bis 10 aufgeführten Sachgebiete sind für Rechnung des Bundes zu leisten. Die damit zusammenhängenden Einnahmen (§ 1 Abs. 2) sind an den Bund abzuführen.
 
 (2) Die Vorschrift des Absatzes 1 gilt auch für die in § 1 Abs. 1 Ziff. 3 zweiter Halbsatz bezeichneten Aufwendungen.
 
-
-## § 21a
+# § 21a
 
 (1) Die im Geltungsbereich des Gesetzes entstehenden Aufwendungen für die in § 1 Abs. 1 Ziff. 3 bis 6 aufgeführten Sachgebiete werden vom Bund durch Leistung von Pauschbeträgen an die Länder abgegolten. Die Abgeltung erfolgt in den Fällen des § 1 Abs. 1 Ziff. 3 zweiter Halbsatz gemäß § 21b, im übrigen gemäß den nachfolgenden Absätzen.
 
@@ -348,8 +321,7 @@ Ab 1. April 1969 fällt die Leistung von Pauschbeträgen weg.
 
 § 21a Abs. 2: Kursivdruck s. Fußnote zu § 10 Nr. 3 Buchst. a) u. Text zu § 10 Nr. 1
 
-
-## § 21b
+# § 21b
 
 (1) Für die in § 1 Abs. 1 Ziff. 3 zweiter Halbsatz bezeichneten Fürsorgekosten stehen den Ländern jährliche Pauschbeträge in Höhe der in ihrem Gebiet im Haushaltsjahr 1975 entstandenen Aufwendungen zu. Als Aufwendungen gelten auch Leistungen nach § 12 dieses Gesetzes und 75 vom Hundert der Leistungen nach den §§ 276 und 276a des Lastenausgleichsgesetzes in der Fassung der Bekanntmachung vom 1. Oktober 1969 (BGBl. I S. 1909), zuletzt geändert durch Artikel 35 des Einführungsgesetzes zur Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341), für die in § 7 Abs. 2 Ziff. 3 genannten Personen.
 
@@ -357,20 +329,17 @@ Ab 1. April 1969 fällt die Leistung von Pauschbeträgen weg.
 
 (3) Für die Feststellung der Pauschbeträge gilt § 21a Abs. 3, Abs. 6 Satz 1 und Abs. 7 entsprechend; danach entfällt eine nachträgliche Verrechnung von Einnahmen und Ausgaben der pauschalierten Leistungsbereiche aus der Zeit vor dem 1. Januar 1976.
 
-
-## § 22
+# § 22
 
 Die Ansprüche des Bundes auf den Ausgleich von Vorteilen, die den Ländern aus den Aufwendungen des Bundes auf Grund dieses Gesetzes zuwachsen, werden durch dieses Gesetz nicht berührt.
 
-
-## § 23
+# § 23
 
 (1) Mit Wirkung vom 1. April 1950 ab übernimmt der Bund die Anteile der Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und des bayerischen Kreises Lindau an den Ausgleichsforderungen der Bank deutscher Länder und der Postsparkassen unter sinngemäßer Anwendung der §§ 18 und 20. Die Vorschriften des § 5 Abs. 3 des Gesetzes über die Aufstellung und Ausführung des Bundeshaushaltsplans für das Rechnungsjahr 1949 sowie über die Haushaltsführung und über die vorläufige Rechnungsprüfung im Bereich der Bundesverwaltung (Haushaltsgesetz 1949 und Vorläufige Haushaltsordnung) vom 7. Juni 1950 (Bundesgesetzbl. S. 199) werden hierdurch nicht berührt.
 
 (2) Der Bund stellt statt der Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und des bayerischen Kreises Lindau die Schuldverschreibungen aus, die auf Grund von Artikel II der Gesetze Nr. 67 und der Verordnung Nr. 223 der Militärregierungen der Bank deutscher Länder zu übergeben sind. Der Bund erhält die nach Artikel IV der Gesetze Nr. 67 und der Verordnung Nr. 223 der Militärregierungen von der Gebietskörperschaft Groß-Berlin auszustellenden Schuldverschreibungen in voller Höhe.
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 994)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III  (BGBl. II 1990, 889, 994)  - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III  
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:  

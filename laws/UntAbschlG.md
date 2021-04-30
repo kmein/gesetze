@@ -1,15 +1,11 @@
-# [UntAbschlG] Gesetz über den Abschluß von Unterstützungen der Bürger der ehemaligen Deutschen Demokratischen Republik bei Gesundheitsschäden infolge medizinischer Maßnahmen  (Unterstützungsabschlußgesetz - UntAbschlG)
-
-Ausfertigungsdatum: 06.05.1994
-
+% Gesetz über den Abschluß von Unterstützungen der Bürger der ehemaligen Deutschen Demokratischen Republik bei Gesundheitsschäden infolge medizinischer Maßnahmen  (Unterstützungsabschlußgesetz - UntAbschlG)
+% Ausfertigungsdatum: 06.05.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anspruch auf Unterstützung
+# § 1 – Anspruch auf Unterstützung
 
 (1) Deutsche Staatsangehörige, die ihren Wohnsitz oder gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland haben und vor dem 3. Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet unter den in Absatz 2 genannten Voraussetzungen durch medizinische Betreuungsmaßnahmen einen erheblichen Gesundheitsschaden erlitten haben, erhalten auf Antrag Unterstützung zum Ausgleich der durch die Schädigung bedingten wirtschaftlichen Folgen.
 
@@ -23,20 +19,17 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 (3) Ein Anspruch auf Unterstützung besteht nicht, wenn dem Geschädigten ein zivilrechtlicher Schadensersatzanspruch zusteht.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Soweit in diesem Gesetz der Begriff Grad der Schädigungsfolgen verwandt wird, richtet sich die Bemessung nach § 30 Abs. 1 des Bundesversorgungsgesetzes.
 
 (2) Das Bruttoeinkommen im Sinne dieses Gesetzes bemißt sich nach § 9 der Berufsschadensausgleichsverordnung.
 
-
-## § 3 – Umfang der Unterstützung
+# § 3 – Umfang der Unterstützung
 
 Die Unterstützung besteht aus laufenden und einmaligen Zahlungen.
 
-
-## § 4 – Laufende Zahlungen
+# § 4 – Laufende Zahlungen
 
 (1) Laufende Zahlungen erhalten Geschädigte bei einem Grad der Schädigungsfolgen von 50 und deren Einkommen aus früherer oder gegenwärtiger Erwerbstätigkeit durch die Schädigungsfolgen gemindert ist (Einkommensverlust), wenn sie das 18. Lebensjahr vor Inkrafttreten dieses Gesetzes vollendet haben. Die laufende Zahlung wird in Höhe des Einkommensverlustes gewährt. Der Einkommensverlust ist der Unterschiedsbetrag zwischen dem Bruttoeinkommen aus gegenwärtiger und früherer Tätigkeit (derzeitiges Einkommen) und dem höheren Vergleichseinkommen. Das Vergleichseinkommen bemißt sich nach § 30 Abs. 5 des Bundesversorgungsgesetzes in Verbindung mit den §§ 2 bis 5 der Berufsschadensausgleichsverordnung und ist um 20 vom Hundert zu senken.
 
@@ -52,8 +45,7 @@ Die Unterstützung besteht aus laufenden und einmaligen Zahlungen.
 
 (7) Bereits nach der Anordnung über eine erweiterte materielle Unterstützung für Bürger bei Gesundheitsschäden infolge medizinischer Maßnahmen vom 28. Januar 1987 (GBl. I Nr. 4 S. 34) - EmU-Anordnung -, die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, geleistete monatliche Zahlungen sind anzurechnen. Dies gilt auch für Leistungen an Geschädigte, soweit bisher Pflegekostenbeiträge an Erziehungsberechtigte, Ehepartner oder andere Familienangehörige geleistet wurden. Sind die bisher gewährten Leistungen höher als die Leistungen nach diesem Gesetz, so werden die bisherigen Leistungen weiter gewährt, bis sie durch Anpassungen erreicht sind. Soweit Leistungen nach diesem Gesetz mit dem Folgemonat der Bekanntgabe nicht mehr zustehen, sind bereits gewährte Leistungen nicht zu erstatten.
 
-
-## § 5 – Einmalige Zahlungen
+# § 5 – Einmalige Zahlungen
 
 (1) Eine einmalige Zahlung erhalten Geschädigte, die wegen der Gesundheitsschädigung nur in beschränktem Umfang am gesellschaftlichen Leben teilnehmen können oder deren Wohlbefinden erheblich oder für längere Zeit beeinträchtigt wird und deren Grad der Schädigungsfolgen mindestens 20 beträgt. Die einmalige Zahlung beträgt bei einem Grad der Schädigungsfolgen  
 
@@ -67,13 +59,11 @@ Die Unterstützung besteht aus laufenden und einmaligen Zahlungen.
 
 (3) Bereits nach der EmU-Anordnung, die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, geleistete Abschlagszahlungen sind anzurechnen, vor dem 1. Juli 1990 gezahlte Beträge im Verhältnis 2:1.
 
-
-## § 6 – Härteregelung
+# § 6 – Härteregelung
 
 Soweit sich aus den Vorschriften dieses Gesetzes eine besondere Härte ergibt, kann mit Zustimmung der obersten Landesbehörde ein Ausgleich gewährt werden. Eine Härte kann insbesondere vorliegen, wenn eine bisherige Dauerleistung durch die Anwendung dieses Gesetzes wegfällt.
 
-
-## § 7 – Antragstellung, Änderung, Beendigung und Zahlung
+# § 7 – Antragstellung, Änderung, Beendigung und Zahlung
 
 (1) Anträge auf Gewährung einer Unterstützung nach diesem Gesetz können innerhalb von einem Jahr nach Verkündung dieses Gesetzes gestellt werden. In diesen Fällen beginnt die Zahlung mit Inkrafttreten dieses Gesetzes.
 
@@ -83,22 +73,19 @@ Soweit sich aus den Vorschriften dieses Gesetzes eine besondere Härte ergibt, k
 
 (4) Nach der EmU-Anordnung, die nach Anlage II Kapitel X Sachgebiet D Abschnitt III Nr. 6 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1220) mit Maßgaben fortgilt, bis zum 31. Dezember 1990 abschließend geregelte Ansprüche können nicht wieder aufgenommen werden.
 
-
-## § 8 – Zuständige Behörde
+# § 8 – Zuständige Behörde
 
 (1) Die Unterstützung nach diesem Gesetz obliegt den für die Durchführung des Bundesversorgungsgesetzes zuständigen Behörden. Die örtliche Zuständigkeit bestimmt sich nach Landesrecht.
 
 (2) Zur Gewährung der Unterstützung ist das Land verpflichtet, in dem der Geschädigte zum Zeitpunkt der medizinischen Betreuungsmaßnahme seinen Wohnsitz oder gewöhnlichen Aufenthalt hatte.
 
-
-## § 9 – Verfahren, Rechtsweg
+# § 9 – Verfahren, Rechtsweg
 
 (1) Das Gesetz über das Verwaltungsverfahren in der Kriegsopferversorgung, mit Ausnahme der §§ 3 und 4, das Erste und Zehnte Buch Sozialgesetzbuch sowie die Vorschriften des Sozialgerichtsgesetzes über das Vorverfahren sind entsprechend anzuwenden.
 
 (2) Über Streitigkeiten auf Grund dieses Gesetzes entscheiden die Gerichte der Sozialgerichtsbarkeit.
 
-
-## § 10 – Schlußbestimmungen, Inkrafttreten
+# § 10 – Schlußbestimmungen, Inkrafttreten
 
 (1) Abweichend von § 2 Absatz 2 und § 4 bemessen sich die laufenden Zahlungen ab dem 1. Juli 2011 wie folgt:  
 Zum 30. Juni 2011 wird der Betrag des jeweiligen Vergleichseinkommens abgesenkt um 20 vom Hundert festgestellt und dann jährlich mit dem in § 56 Absatz 1 Satz 1 des Bundesversorgungsgesetzes bestimmten Vomhundertsatz angepasst. Dabei ist § 15 Satz 3 des Bundesversorgungsgesetzes entsprechend anzuwenden. Die Maßgabe nach Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nummer 1 Buchstabe a des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067) ist nicht anzuwenden.

@@ -1,10 +1,7 @@
-# [AHStatDV] Verordnung zur Durchführung des Gesetzes über die Statistik des grenzüberschreitenden Warenverkehrs  (Außenhandelsstatistik-Durchführungsverordnung - AHStatDV)
-
-Ausfertigungsdatum: 02.04.1962
-
+% Verordnung zur Durchführung des Gesetzes über die Statistik des grenzüberschreitenden Warenverkehrs  (Außenhandelsstatistik-Durchführungsverordnung - AHStatDV)
+% Ausfertigungsdatum: 02.04.1962
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Abschnitt
 
@@ -230,8 +227,7 @@ Befreiungsliste .....................................
 
 Anlage zu § 31
 
-
-## § 1 – Verkehrsarten
+# § 1 – Verkehrsarten
 
 (1) Verkehrsarten sind
 
@@ -297,8 +293,7 @@ c) Luftumschlag (§ 5 Abs. 2).
 
 (4) Unter dem Merkmal Anmeldung sind Angaben zum Verfahren zu verstehen. Die Anmeldung hierzu erfolgt mit den Kurzbezeichnungen und Codes gemäß Anhang 38 der Verordnung (EWG) Nr. 2454/93.
 
-
-## § 2 – Freier Verkehr, ausländische Waren, Waren des freien Verkehrs
+# § 2 – Freier Verkehr, ausländische Waren, Waren des freien Verkehrs
 
 (1) Freier Verkehr ist der Warenverkehr im Erhebungsgebiet, ausgenommen mit solchen Waren, die aus dem Ausland in das Erhebungsgebiet verbracht und nicht als Einfuhr in den freien Verkehr angemeldet worden sind (ausländische Waren). Waren, die sich im freien Verkehr befinden (Waren des freien Verkehrs), werden ausländische Waren, wenn sie im Rahmen einer aktiven Veredelung Ersatzwaren - auch bei vorzeitiger Ausfuhr - werden oder wenn sie im Rahmen einer Veredelung in Freizonen im Sinne von Titel IV Kapitel 3 Abschnitt 1 der Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der Gemeinschaften (ABl. EG Nr. L 302 S. 1) in der jeweils gültigen Fassung durch ausländische Waren ersetzt werden; dabei werden die ausländischen Waren ohne besondere Anmeldung Waren des freien Verkehrs.
 
@@ -340,8 +335,7 @@ b) auf deutsche Seeschiffe oder deutsche Luftfahrzeuge, soweit die Waren noch ni
 
 (4) Ausfuhr aus dem freien Verkehr ist die Ausfuhr von Waren des freien Verkehrs, ausgenommen die Ausfuhr von Ersatzwaren bei vorzeitiger Ausfuhr (§ 4 Abs. 5), die Ausfuhr von Waren zur passiven Veredelung (§ 4 Abs. 7), die Ausfuhr von Waren nach wirtschaftlicher Lohnveredelung (§ 4 Abs. 11) sowie die Ausfuhr von Waren zur wirtschaftlichen Lohnveredelung (§ 4 Abs. 12).
 
-
-## § 3 – Lager
+# § 3 – Lager
 
 (1) Lager sind:
 
@@ -361,8 +355,7 @@ b) auf deutsche Seeschiffe oder deutsche Luftfahrzeuge, soweit die Waren noch ni
 
 (5) Werden in einem Lager Waren des freien Verkehrs und ausländische Waren miteinander vermischt oder vermengt, so ist das Gemisch oder Gemenge bei der Entnahme so zu behandeln, als ob die Waren getrennt gehalten worden wären. Bei der Entnahme in Teilmengen bleibt es dem Verfügungsberechtigten überlassen, die entnommene Teilmenge als Ware des freien Verkehrs oder als ausländische Ware zu behandeln, soweit im Zeitpunkt der Entnahme eine entsprechende Menge in dem Gemisch oder Gemenge enthalten ist. Die Sätze 1 und 2 sind entsprechend anzuwenden bei Gemischen oder Gemengen ausländischer Waren aus verschiedenen Einfuhrarten.
 
-
-## § 4 – Aktive und passive Veredelung, wirtschaftliche Lohnveredelung
+# § 4 – Aktive und passive Veredelung, wirtschaftliche Lohnveredelung
 
 (1) Aktive Veredelung ist die Be- oder Verarbeitung von ausländischen Waren im Erhebungsgebiet gemäß Titel IV Kapitel 2 Abschnitt 3 Buchstabe D der Verordnung (EWG) Nr. 2913/92 in der jeweils gültigen Fassung.
 
@@ -394,15 +387,13 @@ b) auf deutsche Seeschiffe oder deutsche Luftfahrzeuge, soweit die Waren noch ni
 
 (13) Einfuhr nach wirtschaftlicher Lohnveredelung ist das Verbringen von Waren in das Erhebungsgebiet, die als Ausfuhr zur wirtschaftlichen Lohnveredelung angemeldet oder im Ausland ganz oder zum Teil aus solchen Waren hergestellt worden sind.
 
-
-## § 5 – Seeumschlag, Luftumschlag
+# § 5 – Seeumschlag, Luftumschlag
 
 (1) Seeumschlag ist der Umschlag von Waren, die von See aus dem Ausland in einen Seehafen des Erhebungsgebietes eingehen, dort umgeladen werden und, ohne daß sie zu einer Einfuhrart angemeldet worden sind, von dort nach See in das Ausland ausgehen.
 
 (2) Luftumschlag ist der Umschlag von Waren, die aus dem Ausland im Luftverkehr auf einem Zollflugplatz des Erhebungsgebietes eingehen, dort umgeladen werden und, ohne daß sie zu einer Einfuhrart angemeldet worden sind, von dort im Luftverkehr in das Ausland ausgehen.
 
-
-## § 6 – Benennung der Ware
+# § 6 – Benennung der Ware
 
 (1) Unter Benennung der Ware sind die Warenbezeichnungen und die Nummer des Warenverzeichnisses für die Außenhandelsstatistik, im Warenverkehr mit Nichtgemeinschaftswaren und bei Waren, für die ein Zusatzcode anzugeben ist, die Warenbezeichnung und die Codenummer des Deutschen Gebrauchs-Zolltarifs zu verstehen.
 
@@ -416,8 +407,7 @@ eindeutig ergibt. Im allgemeinen ist die handelsübliche oder sprachgebräuchlic
 
 (3) Bei Zerstörung einer ausländischen Ware unter zollamtlicher Überwachung sowie bei Änderung der Beschaffenheit während einer Lagerung sind die Benennungen vor und nach der Zerstörung oder Änderung anzugeben.
 
-
-## § 7 – Menge der Waren
+# § 7 – Menge der Waren
 
 (1) Unter Menge der Waren ist die Eigenmasse, das Reingewicht und die Angabe nach einer besonderen Maßeinheit zu verstehen.
 
@@ -425,8 +415,7 @@ eindeutig ergibt. Im allgemeinen ist die handelsübliche oder sprachgebräuchlic
 
 (3) Das Reingewicht ist an Stelle der Eigenmasse anzugeben, wenn es handelsüblich und die Eigenmasse nicht bekannt ist. Die Menge nach einer besonderen Maßeinheit ist nur dann anzugeben, wenn diese im Warenverzeichnis für die Außenhandelsstatistik bei der betreffenden Warennummer vermerkt ist.
 
-
-## § 8 – Wert der Ware
+# § 8 – Wert der Ware
 
 (1) Unter dem Wert der Ware sind das in Rechnung gestellte Entgelt (Rechnungspreis) und der Statistische Wert (Grenzübergangswert) zu verstehen.
 
@@ -462,13 +451,11 @@ eindeutig ergibt. Im allgemeinen ist die handelsübliche oder sprachgebräuchlic
 
 (7) Der Rechnungspreis ist - soweit nach dem Anmeldeschein nichts anderes vorgesehen ist - für alle mit einem Anmeldeschein angemeldeten Warenpositionen in einer Summe und stets in der geschuldeten Währung anzugeben. Der Statistische Wert ist für jede Warenposition in den Jahren 1999 bis 2001 in Deutscher Mark oder Euro, ab dem Jahr 2002 in Euro anzugeben.
 
-
-## § 9 – Wertstellung
+# § 9 – Wertstellung
 
 Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der bestimmte Klauseln des Geschäftsvertrages ersichtlich werden) gemäß Anhang 38 der Verordnung (EWG) Nr. 2454/93 zu verstehen.
 
-
-## § 10 – Herstellungsland, Verbrauchsland, Herstellungsort, Zielort
+# § 10 – Herstellungsland, Verbrauchsland, Herstellungsort, Zielort
 
 (1) Unter Herstellungsland ist das Ursprungsland zu verstehen.
 
@@ -498,8 +485,7 @@ Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der bestimmte Klausel
 
 (10) Zielort im Erhebungsgebiet ist der Bestimmungsort, in dem die Sendung nach Kenntnis im Zeitpunkt der Anmeldung verbleiben soll; anzugeben sind jedoch nur die Bezeichnung und die Schlüsselnummer des Landes der Bundesrepublik Deutschland, in dem dieser Ort liegt.
 
-
-## § 11 – Versendungsland
+# § 11 – Versendungsland
 
 (1) Versendungsland ist das Land, aus dem die Waren in das Erhebungsgebiet verbracht worden sind, ohne daß sie in Durchfuhrländern anderen als den mit der Beförderung zusammenhängenden Aufenthalten oder Rechtsgeschäften unterworfen wurden. Ist dieses Land nicht bekannt, so gilt als Versendungsland das Ursprungsland.
 
@@ -507,27 +493,23 @@ Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der bestimmte Klausel
 
 (3) Die Länder sind mit den Bezeichnungen und Schlüsselnummern des Länderverzeichnisses für die Außenhandelsstatistik zu benennen.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13 – Anlaß der Warenbewegung
+# § 13 – Anlaß der Warenbewegung
 
 (1) Unter Anlaß der Warenbewegung ist die Art des Geschäfts (Angabe, aus der bestimmte Klauseln des Geschäftsvertrages ersichtlich werden) zu verstehen. Es ist anzugeben, ob es sich um Kauf, Verkauf, Kommission, Konsignation, aktive oder passive Veredelung oder um eine andere Art des Geschäfts handelt und ob die Waren gegen Entgelt oder ohne Entgelt geliefert werden. Bei unentgeltlichen Lieferungen ist der Grund der Unentgeltlichkeit anzugeben.
 
 (2) Anzugeben ist die Schlüsselnummer gemäß Anhang 38 der Verordnung (EWG) Nr. 2454/93.
 
-
-## § 14 – Einführer, Ausführer
+# § 14 – Einführer, Ausführer
 
 (1) Einführer ist, wer Waren aus dem Ausland in das Erhebungsgebiet verbringt oder verbringen läßt. Als Einführer gilt auch der Empfänger im Sinne des hier gebräuchlichen EG-Rechts. Liegt der Einfuhr ein Vertrag mit einer außerhalb des Erhebungsgebietes ansässigen Person über den Erwerb von Waren zum Zwecke der Einfuhr (Einfuhrvertrag) zugrunde, so ist nur der im Erhebungsgebiet ansässige Vertragspartner Einführer. Wer lediglich als Spediteur oder Frachtführer oder in einer ähnlichen Stellung bei dem Verbringen der Waren tätig wird, ist nicht Einführer.
 
 (2) Werden Waren im Ausfuhrverfahren gemäß Artikel 161 der Verordnung (EWG) Nr. 2913/92 ausgeführt, so ist Ausführer die gemäß Artikel 788 der Verordnung (EWG) Nr. 2454/93 bestimmte Person, soweit sie im Erhebungsgebiet ansässig ist. Andernfalls ist Ausführer, wer Waren nach dem Ausland verbringt oder verbringen läßt. Liegt der Ausfuhr ein Ausfuhrvertrag nach § 2 Absatz 2 des Außenwirtschaftsgesetzes mit einer außerhalb des Erhebungsgebietes ansässigen Person zugrunde, so ist nur der im Erhebungsgebiet ansässige Vertragspartner Ausführer. Wer lediglich als Spediteur oder Frachtführer oder in einer ähnlichen Stellung bei dem Verbringen von Waren tätig wird, ist nicht Ausführer.
 
-
-## § 15 – Anmeldepapiere, Teilsendungen
+# § 15 – Anmeldepapiere, Teilsendungen
 
 (1) Anmeldepapiere sind, soweit diese Verordnung nichts anderes bestimmt, die Anmeldescheine nach amtlichem Muster. Die Anmeldescheine sind in deutscher Sprache - nicht in roter Schrift - auszufüllen. Soweit es in den Anmeldescheinen bei den erfragten Tatbeständen vorgesehen ist, sind auch die amtlichen Schlüsselnummern anzugeben.
 
@@ -543,8 +525,7 @@ Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der bestimmte Klausel
 
 (7) Ein Anmeldeschein für die Lieferung von Schiffs- und Luftfahrzeugbedarf darf nur Waren umfassen, die von einem Lieferer entweder an Bord deutscher Fahrzeuge oder an Bord fremder Fahrzeuge geliefert werden; im übrigen gilt § 30 Abs. 1 Nr. 17.
 
-
-## § 16 – Allgemeine Pflichten und Vertretung der Auskunftspflichtigen
+# § 16 – Allgemeine Pflichten und Vertretung der Auskunftspflichtigen
 
 (1) Der Ausstellungspflichtige hat den ausgefüllten Anmeldeschein dem Anmeldepflichtigen unverzüglich zuzuleiten, damit dieser die Anmeldung nach § 6 des Gesetzes bewirken kann. Für den Ergänzungspflichtigen gilt dies sinngemäß. Läßt sich der Ausstellungspflichtige bei der Ausstellung des Anmeldescheines vertreten, so hat er seinem Vertreter die für die Ausstellung erforderlichen Angaben oder Unterlagen rechtzeitig zuzuleiten.
 
@@ -556,20 +537,17 @@ Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der bestimmte Klausel
 
 (3) Die Abgabe einer Erklärung nach Absatz 2 Nr. 2 entbindet die hierzu verpflichteten Personen nicht von der Verpflichtung zur ordnungsmäßigen Ausstellung eines Anmeldescheines und zu seiner Übergabe. Der Anmeldeschein ist unverzüglich, spätestens 2 Wochen nach Abgabe der Erklärung nachzureichen.
 
-
-## § 17
+# § 17
 
 (weggefallen)
 
-
-## § 18 – Erwerb und Veräußerung von Seeschiffen
+# § 18 – Erwerb und Veräußerung von Seeschiffen
 
 (1) Seeschiffe, die im Seeschiffsregister einzutragen sind und durch im Erhebungsgebiet ansässige Personen von im Ausland ansässigen Personen erworben werden, sind vom Erwerber mit einem Anmeldeschein für die Einfuhr unverzüglich nach Eintragung ins Seeschiffsregister bei der für den Ort der Registerbehörde (Amtsgericht) zuständigen Zollstelle, in Hamburg beim Hauptzollamt Hamburg-St. Annen, in Bremen beim Hauptzollamt Bremen-Ost, anzumelden.
 
 (2) Seeschiffe, die im Seeschiffsregister eingetragen sind und durch im Erhebungsgebiet ansässige Personen an im Ausland ansässige Personen veräußert werden, sind vom Verkäufer unverzüglich nach Löschung im Seeschiffsregister mit einem Anmeldeschein für die Ausfuhr bei der für den Ort der Registerbehörde (Amtsgericht) zuständigen Zollstelle, in Hamburg beim Hauptzollamt Hamburg-St. Annen, in Bremen beim Hauptzollamt Bremen-Ost, anzumelden.
 
-
-## § 19 – Lieferung von Schiffs- und Luftfahrzeugbedarf, Bestimmung der gelieferten Waren für deutsche oder fremde Fahrzeuge
+# § 19 – Lieferung von Schiffs- und Luftfahrzeugbedarf, Bestimmung der gelieferten Waren für deutsche oder fremde Fahrzeuge
 
 (1) Die Lieferung von Waren an Bord eines im Erhebungsgebiet oder aus verkehrstechnischen Gründen unmittelbar vor der Hoheitsgrenze liegenden zur Schiffahrt in das Ausland bestimmten Fahrzeuges oder an Bord deutscher Lotsendampfer oder Feuerschiffe außerhalb des Erhebungsgebietes sowie an Bord eines im Erhebungsgebiet liegenden im internationalen Flugverkehr eingesetzten Luftfahrzeuges, soweit sie zur Ausrüstung, zum Betrieb, zur Unterhaltung oder zur Ausbesserung des Fahrzeuges, zur Behandlung der Ladung oder zum Gebrauch oder Verbrauch während der Reise oder zum Verkauf an Reisende bestimmt sind (Schiffs- und Luftfahrzeugbedarf), ist - ausgenommen bei Lieferungen nach § 2 Abs. 3 Nr. 5 - nicht zu bestimmten Verkehrsarten, sondern als "Schiffs- und Luftfahrzeugbedarf" anzumelden. Dabei ist anzugeben, ob Waren des freien Verkehrs oder ausländische Waren geliefert werden, bei ausländischen Waren außerdem, ob diese vorher zu einer Einfuhrart angemeldet worden sind; die zuletzt angemeldete Einfuhrart ist anzugeben. Waren, die im Schiffbau zur Ausrüstung und Ausbesserung von Schiffen verwendet werden, gelten nicht als Schiffs- und Luftfahrzeugbedarf.
 
@@ -577,20 +555,17 @@ Unter Wertstellung sind die Lieferbedingungen (Angabe, aus der bestimmte Klausel
 
 (3) Für die Lieferung von Waren zum Gebrauch oder Verbrauch auf Anlagen oder Vorrichtungen, die im Bereich des deutschen Festlandsockels zur Aufsuchung und Gewinnung von Bodenschätzen errichtet sind, gelten die Absätze 1 und 2 sowie § 8 Abs. 2, § 15 Abs. 7 und § 30 Abs. 1 Nr. 17 sinngemäß.
 
-
-## § 20 – Ausländische Streitkräfte
+# § 20 – Ausländische Streitkräfte
 
 (1) Ausländische Waren, die durch eine im Erhebungsgebiet ansässige Person an eine in der Bundesrepublik Deutschland stationierte ausländische Truppe oder ein ziviles Gefolge (ausländische Streitkräfte) zu ihrer ausschließlichen Verwendung geliefert werden, sind bei der Überführung in den zollrechtlich freien Verkehr zur besonderen Verwendung als Einfuhr in den freien Verkehr mit dem Zusatz "ausländische Streitkräfte" anzumelden. Dasselbe gilt für ausländische Kraftfahrzeuge, die an Mitglieder einer Truppe oder eines zivilen Gefolges oder an die Angehörigen dieser Personen (Mitglieder der ausländischen Streitkräfte) zu ihrer ausschließlichen Verwendung aus Zollagern oder aus der aktiven Veredelung geliefert werden.
 
 (2) Werden ausländische Waren, die von den ausländischen Streitkräften sowie ihren Mitgliedern selbst eingeführt oder von ihnen als Nichtgemeinschaftswaren im Erhebungsgebiet erworben worden sind, an andere Personen veräußert und durch diese ausgeführt, so sind sie als Ausfuhr aus dem freien Verkehr mit dem Zusatz "ausländische Streitkräfte" anzumelden.
 
-
-## § 21 – Offshore-Lieferungen
+# § 21 – Offshore-Lieferungen
 
 Für den Warenverkehr nach dem Offshore-Abkommen gilt § 20 sinngemäß.
 
-
-## § 22 – Anmeldepflichtiger
+# § 22 – Anmeldepflichtiger
 
 (1) Zur Anmeldung ist in den nachstehenden Fällen verpflichtet
 
@@ -606,8 +581,7 @@ b) von Waren des Zwischenauslandsverkehrs, die im Ausland verblieben sind, der A
 
 (2) Die Vorschrift des § 30 bleibt unberührt.
 
-
-## § 23 – Ausstellungspflichtiger, Ergänzungspflichtiger
+# § 23 – Ausstellungspflichtiger, Ergänzungspflichtiger
 
 (1) Zur Ausstellung des Anmeldescheines ist in den nachstehenden Fällen verpflichtet
 
@@ -641,8 +615,7 @@ wenn ein Absender nicht vorhanden ist, der Besitzer der Waren im Zeitpunkt der A
 
 (4) Die Vorschrift des § 30 bleibt unberührt.
 
-
-## § 24 – Anmeldestellen
+# § 24 – Anmeldestellen
 
 (1) Anmeldestelle ist
 
@@ -686,8 +659,7 @@ b) von Waren, die nach See über die Häfen der in Buchstabe a genannten Städte
 
 (3) Die Vorschrift des § 30 bleibt unberührt.
 
-
-## § 25 – Zeitpunkt der Anmeldung
+# § 25 – Zeitpunkt der Anmeldung
 
 (1) Anzumelden ist in den nachstehenden Fällen
 
@@ -727,8 +699,7 @@ b) von Waren, die nach See über die Häfen der in Buchstabe a genannten Städte
 
 (3) Die Vorschriften der §§ 16 und 30 bleiben unberührt.
 
-
-## § 26 – Sicherung im Zollverfahren
+# § 26 – Sicherung im Zollverfahren
 
 (1) Werden Waren zu einem Zollverfahren angemeldet, so hat der Anmelder im Sinne der Verordnung (EWG) Nr. 2913/92 in der Zollanmeldung, soweit dies darin vorgesehen ist, anzugeben,
 
@@ -768,8 +739,7 @@ die zuletzt angemeldete Einfuhrart und die Bezeichnung der unveredelten Waren mi
 
 (4) Wer Waren übernimmt, die sich in einem Zollverfahren befinden, hat auf Anfordern der Zollstelle oder des Statistischen Bundesamtes Auskunft über Herkunft, Bestimmung und Verbleib der Waren zu geben.
 
-
-## § 27 – Sicherung im Freizonenverkehr
+# § 27 – Sicherung im Freizonenverkehr
 
 (1) Werden Waren, die aus dem Ausland von See in eine Freizone eingegangen sind, unmittelbar außenbords von einem Seeschiff oder vom Kai aus in das übrige Zollgebiet verbracht, so hat der Warenführer der Zollstelle der Freizone durch Vorlage der Beförderungspapiere oder Begleitpapiere, der Wiegenote oder anderer Unterlagen nachzuweisen, daß die Waren unmittelbar von einem Seeschiff oder vom Kai kommen; sind keine Papiere vorhanden, ist die Auskunft mündlich zu erteilen.
 
@@ -789,8 +759,7 @@ Die Übersicht hat die jeweils bis zum 15. und letzten Tage des Monats angenomme
 
 (3) Wer in einer Freizone Waren übernimmt, befördert oder weitergibt, hat auf Anfordern der Anmeldestelle oder des Statistischen Bundesamtes Auskunft über Herkunft, Bestimmung und Verbleib der Waren zu geben.
 
-
-## § 28 – Ladungsverzeichnisse, örtliche Schiffsmeldestellen
+# § 28 – Ladungsverzeichnisse, örtliche Schiffsmeldestellen
 
 (1) Soweit die in § 7 Abs. 2 des Gesetzes bezeichneten Ladungsverzeichnisse nicht in deutscher Sprache abgefaßt sind, kann die Anmeldestelle zur Vermeidung unbilliger Härten davon absehen, die Bezeichnung der geladenen Waren in deutscher Sprache zu fordern.
 
@@ -798,8 +767,7 @@ Die Übersicht hat die jeweils bis zum 15. und letzten Tage des Monats angenomme
 
 (3) Die örtlichen Schiffsmeldestellen sind verpflichtet, die eingehenden und ausgehenden Schiffe den Anmeldestellen auf Anfordern anzuzeigen.
 
-
-## § 29 – Andere Papiere als Anmeldescheine
+# § 29 – Andere Papiere als Anmeldescheine
 
 An die Stelle von Anmeldescheinen treten
 
@@ -817,8 +785,7 @@ c) bei der Vernichtung oder Zerstörung eingeführter Waren unter zollamtlicher 
 
 Liegen in den Fällen von Nummer 1 Buchstabe a im Zeitpunkt der Anmeldung noch keine Zollpapiere oder andere zollamtliche Unterlagen vor, so sind von dem Anmelder im Sinne der Verordnung (EWG) Nr. 2913/92 an Stelle von Anmeldescheinen Nachweisungen auszufüllen und abzugeben; die Richtigkeit der Angaben ist durch Unterschrift zu bestätigen.
 
-
-## § 30 – Vereinfachte Anmeldungen, Sammelanmeldungen
+# § 30 – Vereinfachte Anmeldungen, Sammelanmeldungen
 
 (1) Folgende Vereinfachungen sind zugelassen:
 
@@ -940,8 +907,7 @@ d) Die Verwendung einer Sammelwarennummer ist nicht zulässig, wenn die Mindesta
 
 (6) Eine Genehmigung zur Verwendung einer zulassungspflichtigen Sammelwarennummer wird auf schriftlichen oder elektronischen Antrag des Ein- oder Ausführers erteilt. In dem Antrag ist die Erfüllung der Zulässigkeitskriterien mittels geeigneter Unterlagen zu belegen. Für die Verwendung einer solchen Sammelwarennummer kann das Statistische Bundesamt weitere Kriterien festlegen. Die Verwendung zulassungspflichtiger Sammelwarennummern darf untersagt werden, wenn Genehmigungen widerrechtlich verwendet wurden. Hilfslieferungen öffentlicher oder privater Stellen sowie Warensendungen, die in den Befreiungslisten zur Außenhandelsstatistik beschrieben werden, können unter der dafür vorgesehenen Sammelwarennummer des Kapitels 99 des Warenverzeichnisses für die Außenhandelsstatistik angemeldet werden. Sie unterliegen keiner Wertgrenze und bedürfen keiner Genehmigung des Statistischen Bundesamtes. Sammelwarennummern des Kapitels 99 des Warenverzeichnisses für die Außenhandelsstatistik dürfen nicht genutzt werden für Waren, für die aufgrund der Vorschriften des Zollrechts, des Außenwirtschaftsrechts, des Ursprungsrechts, der Rechtsvorschriften über ein- und ausfuhrrechtliche Verbote und Beschränkungen und aufgrund anderer Rechtsvorschriften eine detaillierte Einreihung der einzelnen Waren in die Kombinierte Nomenklatur erforderlich ist. Die Zollstelle kann vom Anmelder im Rahmen der Zulässigkeitsprüfung eine detaillierte Zollanmeldung für entsprechende Waren und Bestimmungsländer verlangen.
 
-
-## § 30a – Auskunftspflicht zur Erhebung des Statistischen Wertes im innergemeinschaftlichen Warenverkehr
+# § 30a – Auskunftspflicht zur Erhebung des Statistischen Wertes im innergemeinschaftlichen Warenverkehr
 
 (1) Um zu ermitteln, wer verpflichtet ist, über den Statistischen Wert bei Kauf- oder Verkaufsgeschäften einschließlich Kommissions- und Konsignationsgeschäften im innergemeinschaftlichen Warenverkehr im Sinne des Artikels 8 Absatz 2 der Verordnung (EG) Nr. 1982/2004 Auskunft zu geben, wird jährlich ein Schwellenwert für den Wareneingang und für die Warenversendung festgelegt. Auskunftspflichtige zur Intrahandelsstatistik, deren Kauf- oder Verkaufsgeschäfte, einschließlich Kommissions- und Konsignationsgeschäften, den jeweiligen Schwellenwert übersteigen, müssen im kommenden Kalenderjahr bei den betreffenden Geschäften den Statistischen Wert angeben.
 
@@ -955,34 +921,28 @@ einschließlich Kommissions- und Konsignationsgeschäften, des vorangegangenen K
 
 (3) Das Statistische Bundesamt legt die Schwellenwerte am Ende eines Kalenderjahres anhand der Werte des vorangegangenen Kalenderjahres für das kommende Kalenderjahr fest.
 
-
-## § 31 – Befreiungen von der Anmeldung
+# § 31 – Befreiungen von der Anmeldung
 
 (1) Befreit von der Anmeldung sind die in der Anlage (Befreiungsliste) aufgeführten Fälle unter den dort bezeichneten Voraussetzungen.
 
 (2) Die Befreiungsschwelle im Sinne des Artikels 28 der Verordnung (EWG) Nr. 3330/91 richtet sich nach § 19 Abs. 1 des Umsatzsteuergesetzes in der jeweils gültigen Fassung. Wird im laufenden Kalenderjahr der in Satz 1 genannte Schwellenwert überschritten, so entfällt die damit verbundene Befreiung.
 
-
-## § 32 – (Übergangsvorschriften)
-
-\-
-
-
-## § 33 – (Inkrafttreten)
+# § 32 – (Übergangsvorschriften)
 
 \-
 
+# § 33 – (Inkrafttreten)
 
-## Anlage – (zu § 31)  Befreiungsliste
+\-
+
+# Anlage – (zu § 31)  Befreiungsliste
 
 Fundstelle des Originaltextes: BGBl. I 1989, 220 - 226;  
 bzgl. der einzelnen Änderungen vgl. Fußnote.
 
 I. Einfuhr, Ausfuhr, Durchfuhr
 
-Die Befreiungen erstrecken sich auf die jeweils vermerkten Verkehrsarten Einfuhr (E), Ausfuhr (A), Durchfuhr (D), einschließlich der Ausfuhr und Einfuhr im Zwischenauslandsverkehr; nicht befreit sind Waren, die bereits als Einfuhr auf Lager oder als Einfuhr zur aktiven Veredelung angemeldet worden sind und in eine andere Einfuhrart übergehen oder ausgeführt werden sollen - ausgenommen die Ausfuhr im Zwischenauslandsverkehr -, sowie Waren, die nach vorübergehender Verwendung im Erhebungsgebiet in eine Einfuhrart eingehen.  
-Voraussetzung für eine Befreiung bei der Ausfuhr sowie im Zwischenauslandsverkehr ist, daß der Ausstellungspflichtige in dem Beförderungspapier oder Begleitpapier, in der Zollanmeldung, auf dem Packstück oder gesondert in einem Begleitschreiben schriftlich erklärt, daß es sich um einen der nachstehenden Fälle handelt. Eine Erklärung entfällt, wenn sich die Voraussetzungen für die Anwendung der Befreiungsliste bereits aus der Art der Ausfuhrsendung oder aus sonstigen Umständen ergeben.  
-
+Die Befreiungen erstrecken sich auf die jeweils vermerkten Verkehrsarten Einfuhr (E), Ausfuhr (A), Durchfuhr (D), einschließlich der Ausfuhr und Einfuhr im Zwischenauslandsverkehr; nicht befreit sind Waren, die bereits als Einfuhr auf Lager oder als Einfuhr zur aktiven Veredelung angemeldet worden sind und in eine andere Einfuhrart übergehen oder ausgeführt werden sollen - ausgenommen die Ausfuhr im Zwischenauslandsverkehr -, sowie Waren, die nach vorübergehender Verwendung im Erhebungsgebiet in eine Einfuhrart eingehen. Voraussetzung für eine Befreiung bei der Ausfuhr sowie im Zwischenauslandsverkehr ist, daß der Ausstellungspflichtige in dem Beförderungspapier oder Begleitpapier, in der Zollanmeldung, auf dem Packstück oder gesondert in einem Begleitschreiben schriftlich erklärt, daß es sich um einen der nachstehenden Fälle handelt. Eine Erklärung entfällt, wenn sich die Voraussetzungen für die Anwendung der Befreiungsliste bereits aus der Art der Ausfuhrsendung oder aus sonstigen Umständen ergeben. 
  
 
 Einfuhr (E)

@@ -1,17 +1,13 @@
-# [InvZulG 2005] Investitionszulagengesetz 2005  (InvZulG 2005)
-
-Ausfertigungsdatum: 17.03.2004
-
+% Investitionszulagengesetz 2005  (InvZulG 2005)
+% Ausfertigungsdatum: 17.03.2004
  
-
-## § 1 – Anspruchsberechtigter, Fördergebiet
+# § 1 – Anspruchsberechtigter, Fördergebiet
 
 (1) Steuerpflichtige im Sinne des Einkommensteuergesetzes und des Körperschaftsteuergesetzes, die im Fördergebiet begünstigte Investitionen im Sinne des § 2 vornehmen, haben Anspruch auf eine Investitionszulage. Steuerpflichtige im Sinne des Körperschaftsteuergesetzes haben keinen Anspruch, soweit sie nach § 5 Abs. 1 Nr. 1 bis 9 und 11 bis 22 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit sind. Bei Personengesellschaften und Gemeinschaften tritt an die Stelle des Steuerpflichtigen die Gesellschaft oder die Gemeinschaft als Anspruchsberechtigte.
 
 (2) Fördergebiet sind die Länder Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen nach dem Gebietsstand vom 3. Oktober 1990.
 
-
-## § 2 – Betriebliche Investitionen
+# § 2 – Betriebliche Investitionen
 
 (1) Begünstigte Investitionen sind die Anschaffung und die Herstellung von neuen abnutzbaren beweglichen Wirtschaftsgütern des Anlagevermögens, die mindestens fünf Jahre nach ihrer Anschaffung oder Herstellung (Fünfjahreszeitraum)
 
@@ -77,20 +73,17 @@ Bei Investitionen, auf die der multisektorale Regionalbeihilferahmen für große
 
 Absatz 6 Satz 2 gilt entsprechend.
 
-
-## § 3 – Antrag auf Investitionszulage
+# § 3 – Antrag auf Investitionszulage
 
 (1) Der Antrag ist bei dem für die Besteuerung des Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu stellen. Ist eine Personengesellschaft oder Gemeinschaft Anspruchsberechtigter, so ist der Antrag bei dem Finanzamt zu stellen, das für die einheitliche und gesonderte Feststellung der Einkünfte zuständig ist.
 
 (2) Der Antrag ist nach amtlichem Vordruck zu stellen und vom Anspruchsberechtigten eigenhändig zu unterschreiben. In dem Antrag sind die Investitionen, für die eine Investitionszulage beansprucht wird, so genau zu bezeichnen, dass ihre Feststellung bei einer Nachprüfung möglich ist.
 
-
-## § 4 – Gesonderte Feststellung
+# § 4 – Gesonderte Feststellung
 
 Werden die in einem Betrieb im Sinne des § 2 erzielten Einkünfte nach § 180 Abs. 1 Nr. 2 Buchstabe b der Abgabenordnung gesondert festgestellt, sind die Bemessungsgrundlage und der Vomhundertsatz der Investitionszulage für Wirtschaftsgüter, die zum Anlagevermögen dieses Betriebs gehören, von dem für die gesonderte Feststellung zuständigen Finanzamt gesondert festzustellen. Die für die Feststellung erforderlichen Angaben sind in den Antrag nach § 3 Abs. 2 aufzunehmen.
 
-
-## § 5 – Anwendung der Abgabenordnung, Festsetzung und Auszahlung
+# § 5 – Anwendung der Abgabenordnung, Festsetzung und Auszahlung
 
 (1) Die für Steuervergütungen geltenden Vorschriften der Abgabenordnung sind entsprechend anzuwenden. Dies gilt nicht für § 163 der Abgabenordnung. In öffentlich-rechtlichen Streitigkeiten über die auf Grund dieses Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der Finanzrechtsweg, gegen die Versagung von Bescheinigungen ist der Verwaltungsrechtsweg gegeben.
 
@@ -112,33 +105,27 @@ und
 
 (3) Die Investitionszulage ist innerhalb eines Monats nach Bekanntgabe des Bescheids aus den Einnahmen an Einkommensteuer oder Körperschaftsteuer auszuzahlen.
 
-
-## § 6 – Verzinsung des Rückforderungsanspruchs
+# § 6 – Verzinsung des Rückforderungsanspruchs
 
 Ist der Bescheid über die Investitionszulage aufgehoben oder zuungunsten des Anspruchsberechtigten geändert worden, so ist der Rückzahlungsanspruch nach § 238 der Abgabenordnung vom Tag der Auszahlung der Investitionszulage, in den Fällen des § 175 Abs. 1 Satz 1 Nr. 2 der Abgabenordnung vom Tag des Eintritts des rückwirkenden Ereignisses an, zu verzinsen. Die Festsetzungsfrist beginnt mit Ablauf des Kalenderjahrs, in dem der Bescheid aufgehoben oder geändert worden ist.
 
-
-## § 7 – Verfolgung von Straftaten
+# § 7 – Verfolgung von Straftaten
 
 Für die Verfolgung einer Straftat nach den §§ 263 und 264 des Strafgesetzbuches, die sich auf die Investitionszulage bezieht, sowie der Begünstigung einer Person, die eine solche Straftat begangen hat, gelten die Vorschriften der Abgabenordnung über die Verfolgung von Steuerstraftaten entsprechend.
 
-
-## § 8 – Ertragsteuerliche Behandlung der Investitionszulage
+# § 8 – Ertragsteuerliche Behandlung der Investitionszulage
 
 Die Investitionszulage gehört nicht zu den Einkünften im Sinne des Einkommensteuergesetzes. Sie mindert nicht die steuerlichen Anschaffungs- und Herstellungskosten und nicht die Erhaltungsaufwendungen.
 
-
-## § 9 – Ermächtigung
+# § 9 – Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes in der jeweils geltenden Fassung mit neuem Datum bekannt zu machen.
 
-
-## § 10 – (Inkrafttreten)
+# § 10 – (Inkrafttreten)
 
 \-
 
-
-## Anlage 1 – (zu § 2 Abs. 1 Satz 9)
+# Anlage 1 – (zu § 2 Abs. 1 Satz 9)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2965
 
@@ -158,8 +145,7 @@ Sensible Sektoren sind:
 
 7. Verkehrssektor (Verordnung (EWG) Nr. 1107/70 des Rates vom 4. Juni 1970 über Beihilfen im Eisenbahn-, Straßen- und Binnenschiffsverkehr, ABl. EG Nr. L 130 S. 1, in der Fassung der Verordnung (EG) Nr. 543/97 des Rates vom 17. März 1997, ABl. EG Nr. L 84 S. 6, Mitteilung der Kommission "Leitlinien der Gemeinschaft für staatliche Beihilfen im Seeverkehr", ABl. EU Nr. C 13 S. 3 vom 17. Januar 2004, und Anwendung der Artikel 92 und 93 des EG-Vertrages sowie des Artikels 61 des EWR-Abkommens auf staatliche Beihilfen im Luftverkehr, ABl. EG Nr. C 350 S. 5 vom 10. Dezember 1994).
 
-
-## Anlage 2 – (zu § 2 Abs. 6 Satz 1 Nr. 2 und Abs. 7 Satz 1 Nr. 2)
+# Anlage 2 – (zu § 2 Abs. 6 Satz 1 Nr. 2 und Abs. 7 Satz 1 Nr. 2)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2965
 
@@ -173,8 +159,7 @@ kreisfreie Stadt Görlitz, Landkreis Niederschlesischer Oberlausitzkreis, Landkr
 im Freistaat Thüringen:  
 Landkreis Saale-Orla-Kreis, Landkreis Greiz.
 
-
-## Anlage 3 – (zu § 2 Abs. 7 Satz 1 Nr. 3)
+# Anlage 3 – (zu § 2 Abs. 7 Satz 1 Nr. 3)
 
 Fundstelle des Originaltextes: BGBl I 2005, 2966
 

@@ -1,10 +1,7 @@
-# [BLEG] Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung  (BLEG)
-
-Ausfertigungsdatum: 02.08.1994
-
+% Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung  (BLEG)
+% Ausfertigungsdatum: 02.08.1994
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |       |                                         |
 |-------|-----------------------------------------|
@@ -23,13 +20,11 @@ Ausfertigungsdatum: 02.08.1994
 | §§ 13 | bis 15 (weggefallen)                    |
 | § 16  | Berichtigung von Bezeichnungen          |
 
-
-## § 1 – Rechtsform, Name, Sitz
+# § 1 – Rechtsform, Name, Sitz
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (Bundesministerium) wird eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts durch Zusammenlegung der Bundesanstalt für landwirtschaftliche Marktordnung und des Bundesamtes für Ernährung und Forstwirtschaft errichtet. Die Anstalt trägt die Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung" (Bundesanstalt). Sie hat ihren Sitz in Bonn.
 
-
-## § 2 – Aufgaben
+# § 2 – Aufgaben
 
 (1) Die Bundesanstalt übernimmt die Aufgaben, die bisher der Bundesanstalt für landwirtschaftliche Marktordnung und dem Bundesamt für Ernährung und Forstwirtschaft übertragen waren. Zu ihren Aufgaben gehören:
 
@@ -51,22 +46,19 @@ Im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft (
 
 (2) Bei der Durchführung ihrer kaufmännischen und technischen Aufgaben soll sich die Bundesanstalt der Einrichtungen der Wirtschaft bedienen.
 
-
-## § 3 – Organe
+# § 3 – Organe
 
 (1) Organe der Bundesanstalt sind der Präsident und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe bestimmt die Satzung, soweit sie nicht durch dieses Gesetz geregelt sind.
 
-
-## § 4 – Präsident
+# § 4 – Präsident
 
 (1) Der Präsident führt die Geschäfte und verwaltet das Vermögen der Bundesanstalt in eigener Verantwortung nach Maßgabe dieses Gesetzes, der Satzung und den Weisungen des Bundesministeriums. Er vertritt die Bundesanstalt gerichtlich und außergerichtlich.
 
 (2) Der Präsident hat einen ständigen Vertreter (Vizepräsident).
 
-
-## § 5 – Verwaltungsrat
+# § 5 – Verwaltungsrat
 
 (1) Der Verwaltungsrat besteht aus bis zu 28 Mitgliedern, und zwar aus höchstens
 
@@ -102,8 +94,7 @@ Die Mitglieder des Verwaltungsrats müssen die Voraussetzungen für die Wählbar
 
 (4) Der Vertreter des Bundesministeriums führt den Vorsitz im Verwaltungsrat.
 
-
-## § 6 – Rechte und Aufgaben des Verwaltungsrats
+# § 6 – Rechte und Aufgaben des Verwaltungsrats
 
 (1) Der Verwaltungsrat
 
@@ -119,8 +110,7 @@ Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fac
 
 (4) Der Verwaltungsrat gibt sich eine Geschäftsordnung, die der Genehmigung des Bundesministeriums bedarf.
 
-
-## § 7 – Fachbeiräte
+# § 7 – Fachbeiräte
 
 (1) Für die fachlichen Bereiche können Fachbeiräte gebildet werden. Sie setzen sich zusammen aus sachverständigen Vertretern der Erzeuger, des Handels, der Verarbeitungsbetriebe und der Verbraucher, die auf Vorschlag der jeweiligen Spitzenverbände und, soweit nicht in diesen vertreten, auch der Bundesfachverbände vom Verwaltungsrat ernannt und abberufen werden. Außerdem gehören den Fachbeiräten Vertreter des Bundesministeriums und der Obersten Landesbehörden an; hinsichtlich ihrer Berufung und Abberufung gilt § 5 Abs. 3 entsprechend.
 
@@ -128,8 +118,7 @@ Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fac
 
 (3) § 6 Abs. 2 bis 4 gilt entsprechend.
 
-
-## § 8 – Satzungsgebung und Aufsicht
+# § 8 – Satzungsgebung und Aufsicht
 
 (1) Das Bundesministerium wird ermächtigt, hinsichtlich des Satzes 2 Nr. 5 und 6 im Einvernehmen mit dem Bundesministerium der Finanzen, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Satzung der Bundesanstalt zu erlassen. In die Satzung sind, soweit erforderlich, insbesondere Bestimmungen aufzunehmen über
 
@@ -149,8 +138,7 @@ Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fac
 
 (3) Erfüllt die Bundesanstalt ihre Aufgaben nicht oder nur ungenügend, so ist das Bundesministerium befugt, die Aufgaben selbst durchzuführen oder durch einen besonderen Beauftragten durchführen zu lassen.
 
-
-## § 9 – Verwaltungshaushaltsplan
+# § 9 – Verwaltungshaushaltsplan
 
 (1) Die Bundesanstalt weist die im Verwaltungsbereich zu erwartenden Einnahmen und voraussichtlich zu leistenden Ausgaben in einem Verwaltungshaushaltsplan aus. Auf die Aufstellung und Ausführung des Verwaltungshaushaltsplans, die Zahlungen, die Buchführung und die Rechnungslegung sind die für den Bund jeweils geltenden Bestimmungen entsprechend anzuwenden.
 
@@ -158,8 +146,7 @@ Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fac
 
 (3) Nach Ende des Haushaltsjahrs ist eine Rechnung über die Einnahmen und Ausgaben im Verwaltungsbereich aufzustellen. Die Rechnung ist vom Bundesministerium zu prüfen. Das Bundesministerium erteilt die Entlastung.
 
-
-## § 10 – Wirtschaftsplan, Kreditermächtigung
+# § 10 – Wirtschaftsplan, Kreditermächtigung
 
 (1) Die Bundesanstalt stellt die außerhalb des Verwaltungsbereichs bei den Aufgaben nach § 2 Abs. 1 voraussichtlich anfallenden Aufwendungen und Erträge vor Beginn des Haushaltsjahrs in einem Wirtschaftsplan dar. Der Wirtschaftsplan wird vom Präsidenten aufgestellt. Er bedarf der Genehmigung des Bundesministeriums
 
@@ -175,8 +162,7 @@ Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fac
 
 (5) (5) Zur Erfüllung ihrer Aufgabe nach § 2 Absatz 1 Satz 2 Nummer 2 erhält die Bundesanstalt Liquiditätshilfen des Bundes, um die erforderlichen Ausgaben zu leisten, soweit entsprechende Mittel aus dem Haushalt der Europäischen Union noch nicht zur Verfügung gestellt sind.
 
-
-## § 11 – Beamte
+# § 11 – Beamte
 
 (1) Die Bundesanstalt hat Dienstherrenfähigkeit. Ihre Beamten sind Bundesbeamte.
 
@@ -184,15 +170,12 @@ Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten aus dem fac
 
 (3) Oberste Dienstbehörde für den Präsidenten und den Vizepräsidenten der Bundesanstalt ist das Bundesministerium. Für die übrigen Beamten ist oberste Dienstbehörde der Präsident der Bundesanstalt.
 
-
-## § 12 – Angestellte, Arbeiter
+# § 12 – Angestellte, Arbeiter
 
 Auf die Angestellten und Arbeiter der Bundesanstalt sind die für Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
+# §§ 13 bis 15 – (weggefallen)
 
-## §§ 13 bis 15 – (weggefallen)
-
-
-## § 16 – Berichtigung von Bezeichnungen
+# § 16 – Berichtigung von Bezeichnungen
 
 Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, in Gesetzen und Rechtsverordnungen die Bezeichnungen "Bundesamt für Ernährung und Forstwirtschaft" und "Bundesanstalt für landwirtschaftliche Marktordnung" durch die Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung" zu ersetzen.

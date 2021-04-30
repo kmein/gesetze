@@ -1,15 +1,11 @@
-# [OstseeSHNSGBefV] Verordnung über das Befahren von Bundeswasserstraßen in bestimmten schleswig-holsteinischen Naturschutzgebieten im Bereich der Ostsee  (Ostsee-Schleswig-Holstein-Naturschutzgebietsbefahrensverordnung - OstseeSHNSGBefV)
-
-Ausfertigungsdatum: 27.09.2016
-
+% Verordnung über das Befahren von Bundeswasserstraßen in bestimmten schleswig-holsteinischen Naturschutzgebieten im Bereich der Ostsee  (Ostsee-Schleswig-Holstein-Naturschutzgebietsbefahrensverordnung - OstseeSHNSGBefV)
+% Ausfertigungsdatum: 27.09.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), der durch Artikel 522 Nummer 2 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Befahrensregelungen
+# § 1 – Befahrensregelungen
 
 (1) Im Bereich des Naturschutzgebietes „Dassower See, Inseln Buchhorst und Graswerder (Plönswerder)“ ist es untersagt, die in Lageplan 1 gekennzeichnete Sperrzone zu befahren.
 
@@ -45,8 +41,7 @@ Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der Fassung der Be
 (+++ § 1 Abs. 4 Nr. 1: zur Anwendung vgl. § 2 Abs. 3 +++)  
 (+++ § 1 Abs. 4 Nr. 2: zur Anwendung vgl. § 2 Abs. 3 +++)
 
-
-## § 2 – Ausnahmen und Befreiungen
+# § 2 – Ausnahmen und Befreiungen
 
 (1) Die Verbote des § 1 gelten nicht für notwendige Dienst- oder Forschungsfahrten im Auftrag oder mit Wasserfahrzeugen des Bundes oder eines Landes.
 
@@ -68,18 +63,15 @@ Befreiungen nach Satz 1 Nummer 1 müssen mit dem Schutzzweck dieser Verordnung v
 
 (5) Von den Verboten des § 1 kann abgewichen werden, soweit dies zur Abwehr einer unmittelbar drohenden Gefahr erforderlich ist.
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 1 einen der dort bezeichneten Bereiche befährt.
 
-
-## § 4 – Inkrafttreten; Außerkrafttreten
+# § 4 – Inkrafttreten; Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über das Befahren der Bundeswasserstraßen in dem Naturschutzgebiet „Dassower See, Inseln Buchhorst und Graswerder (Plönswerder)“ vom 9. Oktober 1991 (BGBl. I S. 1974), die durch Artikel 27 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, außer Kraft.
 
-
-## Anlage – (zu § 1 Absatz 11)
+# Anlage – (zu § 1 Absatz 11)
 
 (Fundstelle: BGBl. I 2016, 2182 - 2191)
 

@@ -1,10 +1,7 @@
-# [BinSchLV] Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt  (Lade- und Löschzeitenverordnung - BinSchLV)
-
-Ausfertigungsdatum: 23.11.1999
-
+% Verordnung über die Lade- und Löschzeiten sowie das Liegegeld in der Binnenschifffahrt  (Lade- und Löschzeitenverordnung - BinSchLV)
+% Ausfertigungsdatum: 23.11.1999
  
-
-## § 1 – Beginn der Ladezeit
+# § 1 – Beginn der Ladezeit
 
 (1) Hat der Frachtvertrag die Beförderung von anderem als flüssigem oder gasförmigem Gut zum Gegenstand, so beginnt die Ladezeit nach Ablauf des Tages, an dem der Frachtführer die Ladebereitschaft dem Absender oder der vereinbarten Meldestelle anzeigt.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 23.11.1999
 
 (3) Wird an dem Tag, an dem der Frachtführer seine Ladebereitschaft anzeigt, oder wird bei einer Voranmeldung noch vor Ablauf der Frist von zwei Stunden nach dem angemeldeten Zeitpunkt der Ladebereitschaft geladen, so beginnt die Ladezeit mit dem Beginn des Ladens.
 
-
-## § 2 – Dauer der Ladezeit
+# § 2 – Dauer der Ladezeit
 
 (1) Die Ladezeit beträgt eine Stunde für jeweils 45 Tonnen Rohgewicht der für ein Schiff bestimmten Sendung. Als ein Schiff im Sinne von Satz 1 ist auch ein Schub- oder Koppelverband anzusehen.
 
@@ -27,13 +23,11 @@ Ausfertigungsdatum: 23.11.1999
 
 (3) Absatz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtführer während der darin genannten Zeiten vereinbarungsgemäß oder auf Weisung des Absenders oder der Meldestelle ladebereit ist.
 
-
-## § 3 – Löschzeit
+# § 3 – Löschzeit
 
 Für die Bestimmung des Beginns der Entladezeit (Löschzeit) sowie ihrer Dauer sind die §§ 1 und 2 entsprechend mit der Maßgabe anzuwenden, dass an die Stelle des Absenders der Empfänger tritt.
 
-
-## § 4 – Liegegeld
+# § 4 – Liegegeld
 
 (1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt bei einem Schiff mit einer Tragfähigkeit bis zu 1 500 Tonnen für jede angefangene Stunde, während der der Frachtführer nach Ablauf der Lade- oder Löschzeit wartet, 0,05 Euro je Tonne Tragfähigkeit. Bei einem Schiff mit einer Tragfähigkeit über 1 500 Tonnen beträgt das für jede angefangene Stunde anzusetzende Liegegeld 75 Euro zuzüglich 0,02 Euro für jede über 1 500 Tonnen liegende Tonne.
 
@@ -41,15 +35,13 @@ Für die Bestimmung des Beginns der Entladezeit (Löschzeit) sowie ihrer Dauer s
 
 (3) Als ein Schiff im Sinne von Absatz 1 ist auch ein Schub- oder Koppelverband anzusehen.
 
-
-## § 5 – Beginn der Lade- und Löschzeit
+# § 5 – Beginn der Lade- und Löschzeit
 
 (1) Hat der Frachtvertrag die Beförderung flüssigen Gutes durch ein Tankschiff zum Gegenstand, so beginnen die Lade- und die Löschzeit jeweils in dem Zeitpunkt, in dem der Frachtführer die Lade- oder Löschbereitschaft anzeigt. Voraussetzung ist jedoch, dass der Frachtführer den Zeitpunkt der Lade- oder Löschbereitschaft mindestens acht Stunden zuvor voranmeldet. Die Voranmeldung und die Anzeige müssen montags bis freitags zwischen 7.00 Uhr und 16.00 Uhr oder samstags zwischen 7.00 Uhr und 13.00 Uhr dem Absender oder der vereinbarten Meldestelle zugehen.
 
 (2) Hat der Frachtführer den Zeitpunkt der Lade- oder Löschbereitschaft nicht oder nicht fristgerecht vorangemeldet, beginnt die Frist in dem in § 1 Absatz 1 genannten Zeitpunkt oder, wenn vor diesem Zeitpunkt geladen oder gelöscht wird, mit dem Beginn des Ladens oder Löschens.
 
-
-## § 6 – Dauer der Lade- und Löschzeit
+# § 6 – Dauer der Lade- und Löschzeit
 
 (1) Die gesamte Lade- und Löschzeit beträgt in der Tankschifffahrt bei einer für ein Schiff bestimmten Sendung mit einem Gewicht
 
@@ -76,8 +68,7 @@ Bei einer Sendung über 2 000 Tonnen erhöht sich die Lade- und Löschzeit um s
 
 Satz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtführer während der darin genannten Zeiten vereinbarungsgemäß oder auf Weisung der Meldestelle oder des Absenders lade- oder löschbereit ist.
 
-
-## § 7 – Liegegeld
+# § 7 – Liegegeld
 
 (1) Das dem Frachtführer geschuldete Standgeld (Liegegeld) beträgt für jede angefangene Stunde, in der der Frachtführer nach Ablauf der Lade- und Löschzeit wartet, bei Tankschiffen mit einer Tragfähigkeit  
 
@@ -111,5 +102,4 @@ bis zu 1 500 Tonnen 100 Euro,
 
 (4) Als ein Schiff im Sinne dieser Vorschrift ist auch ein Schub- oder Koppelverband anzusehen.
 
-
-## § 8 – (Inkrafttreten)
+# § 8 – (Inkrafttreten)

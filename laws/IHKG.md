@@ -1,10 +1,7 @@
-# [IHKG] Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
-
-Ausfertigungsdatum: 18.12.1956
-
+% Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern
+% Ausfertigungsdatum: 18.12.1956
  
-
-## § 1
+# § 1
 
 (1) Die Industrie- und Handelskammern haben, soweit nicht die Zuständigkeit der Organisationen des Handwerks nach Maßgabe des Gesetzes zur Ordnung des Handwerks (Handwerksordnung) vom 17. September 1953 (Bundesgesetzbl. I S. 1411) gegeben ist, die Aufgabe, das Gesamtinteresse der ihnen zugehörigen Gewerbetreibenden ihres Bezirkes wahrzunehmen, für die Förderung der gewerblichen Wirtschaft zu wirken und dabei die wirtschaftlichen Interessen einzelner Gewerbezweige oder Betriebe abwägend und ausgleichend zu berücksichtigen; dabei obliegt es ihnen insbesondere, durch Vorschläge, Gutachten und Berichte die Behörden zu unterstützen und zu beraten sowie für Wahrung von Anstand und Sitte des ehrbaren Kaufmanns zu wirken.
 
@@ -22,8 +19,7 @@ Ausfertigungsdatum: 18.12.1956
 
 (5) Nicht zu den Aufgaben der Industrie- und Handelskammern gehört die Wahrnehmung sozialpolitischer und arbeitsrechtlicher Interessen.
 
-
-## § 2
+# § 2
 
 (1) Zur Industrie- und Handelskammer gehören, sofern sie zur Gewerbesteuer veranlagt sind, natürliche Personen, Handelsgesellschaften, andere Personenmehrheiten und juristische Personen des privaten und des öffentlichen Rechts, welche im Bezirk der Industrie- und Handelskammer eine Betriebsstätte unterhalten (Kammerzugehörige).
 
@@ -43,8 +39,7 @@ c) Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis zu ein
 
 (6) (weggefallen)
 
-
-## § 3
+# § 3
 
 (1) Die Industrie- und Handelskammer ist Körperschaft des öffentlichen Rechts.
 
@@ -77,8 +72,7 @@ die für Gemeindeabgaben geltenden landesrechtlichen Vorschriften
 
 entsprechend anzuwenden. Durch Landesrecht kann Verfahren und Zuständigkeit für Einziehung und Beitreibung abweichend geregelt werden.
 
-
-## § 4
+# § 4
 
 Über die Angelegenheiten der Industrie- und Handelskammer beschließt, soweit nicht die Satzung etwas anderes bestimmt, die Vollversammlung. Der ausschließlichen Beschlußfassung durch die Vollversammlung unterliegen
 
@@ -100,8 +94,7 @@ entsprechend anzuwenden. Durch Landesrecht kann Verfahren und Zuständigkeit fü
 
 § 79 des Berufsbildungsgesetzes bleibt unberührt. Soweit nach Satz 2 Nr. 7 die elektronische Verkündung von Satzungsrecht vorgesehen ist, hat diese im Bundesanzeiger zu erfolgen.
 
-
-## § 5
+# § 5
 
 (1) Die Mitglieder der Vollversammlung werden von den Kammerzugehörigen gewählt.
 
@@ -111,27 +104,23 @@ entsprechend anzuwenden. Durch Landesrecht kann Verfahren und Zuständigkeit fü
 
 (4) Das Nähere über die Ausübung des aktiven und passiven Wahlrechts, über die Durchführung der Wahl sowie über Dauer und vorzeitige Beendigung der Mitgliedschaft zur Vollversammlung regelt die Wahlordnung. Sie muß Bestimmungen über die Aufteilung der Kammerzugehörigen in besondere Wahlgruppen sowie die Zahl der diesen zugeordneten Sitze in der Vollversammlung enthalten und dabei die wirtschaftlichen Besonderheiten des Kammerbezirks sowie die gesamtwirtschaftliche Bedeutung der Gewerbegruppen berücksichtigen.
 
-
-## § 6
+# § 6
 
 (1) Die Vollversammlung wählt aus ihrer Mitte den Präsidenten (Präses) und die von der Satzung zu bestimmende Zahl von weiteren Mitgliedern des Präsidiums.
 
 (2) Der Präsident (Präses) ist der Vorsitzende des Präsidiums. Er beruft die Vollversammlung ein und führt in ihr den Vorsitz.
 
-
-## § 7
+# § 7
 
 (1) Die Vollversammlung bestellt den Hauptgeschäftsführer.
 
 (2) Präsident (Präses) und Hauptgeschäftsführer vertreten nach näherer Bestimmung der Satzung die Industrie- und Handelskammer rechtsgeschäftlich und gerichtlich.
 
-
-## § 8
+# § 8
 
 Werden bei den Industrie- und Handelskammern zur Durchführung anderer als der in § 79 des Berufsbildungsgesetzes genannten Aufgaben Ausschüsse gebildet, so kann die Satzung bestimmen, daß in diese Ausschüsse auch Personen berufen werden, die nach § 5 Abs. 2 nicht wählbar sind.
 
-
-## § 9
+# § 9
 
 (1) Die Industrie- und Handelskammern erheben die Daten nach § 14 Absatz 8 Satz 1 Nummer 1 in Verbindung mit Satz 2 der Gewerbeordnung sowie der Rechtsverordnung nach § 14 Absatz 14 der Gewerbeordnung bei den Kammerzugehörigen oder öffentlichen Stellen, soweit diese Daten ihnen nicht von der zuständigen Behörde übermittelt worden sind. Bei nichtöffentlichen Stellen und aus allgemein zugänglichen Quellen dürfen Industrie- und Handelskammern die Daten nach § 14 Absatz 8 Satz 1 Nummer 1 in Verbindung mit Satz 2 der Gewerbeordnung sowie der Rechtsverordnung nach § 14 Absatz 14 der Gewerbeordnung erheben, wenn
 
@@ -165,8 +154,7 @@ Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die Stelle,
 
 (7) Für das Verändern, Einschränken der Verarbeitung oder Löschen der nach den Absätzen 1 und 2 erhobenen Daten sowie die Übermittlung der Daten nach Absatz 1 an öffentliche Stellen gelten unbeschadet der Verordnung (EU) 2016/679 die Datenschutzgesetze der Länder.
 
-
-## § 10 – Aufgabenübertragung und öffentlich-rechtlicher Zusammenschluss
+# § 10 – Aufgabenübertragung und öffentlich-rechtlicher Zusammenschluss
 
 (1) Industrie- und Handelskammern können Aufgaben, die ihnen auf Grund von Gesetz oder Rechtsverordnung obliegen, einvernehmlich einer anderen Industrie- und Handelskammer übertragen oder zur Erfüllung dieser Aufgaben untereinander öffentlich-rechtliche Zusammenschlüsse bilden oder sich daran beteiligen. § 1 Abs. 3b bleibt unberührt.
 
@@ -176,8 +164,7 @@ Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt die Stelle,
 
 (4) Die Regelungen dieses Gesetzes in § 1 Abs. 3a, § 3 Absatz 1, 2, 6, 7a und 8, § 4 Satz 1 und 2 Nr. 1 bis 5, 7 und 8 sowie in den §§ 6 und 7 sind auf öffentlich-rechtliche Zusammenschlüsse entsprechend anzuwenden.
 
-
-## § 11
+# § 11
 
 (1) Die Industrie- und Handelskammern unterliegen der Aufsicht des Landes darüber, daß sie sich bei Ausübung ihrer Tätigkeit im Rahmen der für sie geltenden Rechtsvorschriften (einschließlich der Satzung, der Wahl-, Beitrags-, Sonderbeitrags- und Gebührenordnung) halten. Die Aufsicht über den öffentlich-rechtlichen Zusammenschluss wird durch die Aufsichtsbehörde des Landes ausgeübt, in dem der Zusammenschluss seinen Sitz hat. § 1 Abs. 3a Satz 4 bleibt unberührt.
 
@@ -205,8 +192,7 @@ bedürfen der Genehmigung durch die Aufsichtsbehörde des Landes.
 
 § 11 Abs. 3 Kursivdruck: G v. 24.3.1934 I S. 235 u. V v. 5.7.1940 II S. 139 aufgeh. durch § 119 Abs. 2 Satz 1 Nr. 2 u. 7 Bundeshaushaltsordnung (BHO) v. 19.8.1969 I 1284 mWv 1.1.1970
 
-
-## § 12
+# § 12
 
 (1) Durch Landesrecht können ergänzende Vorschriften erlassen werden über
 
@@ -228,13 +214,11 @@ bedürfen der Genehmigung durch die Aufsichtsbehörde des Landes.
 
 (2) Vor der Entscheidung über Maßnahmen nach Absatz 1 Nr. 1 und 2 sind die Kammerzugehörigen gemäß § 2 Abs. 1 zu hören.
 
-
-## § 13
+# § 13
 
 Die Handelskammern Bremen und Hamburg sind berechtigt, ihre bisherige Bezeichnung weiterzuführen.
 
-
-## § 13a
+# § 13a
 
 (1) Kammerzugehörige, die am 31. Dezember 1993 nach § 2 Abs. 3 und § 3 Abs. 3 Satz 2 in der am 31. Dezember 1993 geltenden Fassung einer Industrie- und Handelskammer angehörten, können nach Maßgabe dieser Vorschriften weiterhin der Industrie- und Handelskammer angehören.
 
@@ -242,8 +226,7 @@ Die Handelskammern Bremen und Hamburg sind berechtigt, ihre bisherige Bezeichnun
 
 (3) Die Beitragsbefreiung in § 3 Abs. 3 Satz 4 ist nur auf Kammerzugehörige anzuwenden, deren Gewerbeanzeige nach dem 31. Dezember 2003 erfolgt.
 
-
-## § 13b
+# § 13b
 
 (1) Präsidiumsmitglieder und der Hauptgeschäftsführer einer Industrie- und Handelskammer bleiben auch nach Ablauf ihrer Amtszeit bis zur Bestellung ihrer Nachfolger im Amt. Entsprechendes gilt für die Mitglieder von Ausschüssen sowie einer Vollversammlung bis zur konstituierenden Sitzung einer neuen Vollversammlung. Regelungen in Gesetz oder Satzung über das Ausscheiden, insbesondere die Abwahl eines Präsidiumsmitglieds oder die Abberufung eines Hauptgeschäftsführers sowie über das Ausscheiden eines Ausschussmitglieds oder eines Vollversammlungsmitglieds, bleiben unberührt.
 
@@ -279,12 +262,10 @@ c) der Beschluss mit der nach der jeweiligen Satzung erforderlichen Mehrheit gef
 
 (6) Die Absätze 1 bis 5 sind ab dem 1. Januar 2022 nicht mehr anzuwenden.
 
-
-## § 14
+# § 14
 
 Bis zum 31. Dezember 1997 können die Beiträge der Kammerzugehörigen von den Industrie- und Handelskammern in dem in Artikel 3 des Einigungsvertrages genannten Gebiet im Anschluß an die in Anlage I Kapitel V Sachgebiet B Abschnitt III Nr. 4 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1000) angegebene Frist abweichend von § 3 Abs. 3 und 4 festgesetzt werden. Die Beitragsordnung und der Beitragsmaßstab bedürfen der Genehmigung der Aufsichtsbehörde.
 
-
-## § 15
+# § 15
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

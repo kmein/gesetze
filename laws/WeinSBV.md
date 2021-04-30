@@ -1,15 +1,11 @@
-# [WeinSBV] Weinrechtliche Straf- und Bußgeldverordnung  (WeinSBV)
-
-Ausfertigungsdatum: 20.02.2014
-
+% Weinrechtliche Straf- und Bußgeldverordnung  (WeinSBV)
+% Ausfertigungsdatum: 20.02.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 51 des Weingesetzes in der Fassung der Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Ordnungswidrigkeiten
+# § 1 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer gegen die Verordnung (EG) Nr. 1924/2006 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -17,8 +13,7 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 2. entgegen Artikel 3 Unterabsatz 1 in Verbindung mit Artikel 4 Absatz 3 Unterabsatz 2 bei einem Erzeugnis des Weinsektors mit einem Alkoholgehalt von mehr als 1,2 Volumenprozent eine dort genannte nährwertbezogene Angabe verwendet.
 
-
-## § 2 – Ordnungswidrigkeiten
+# § 2 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer gegen die Verordnung (EG) Nr. 1234/2007 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -30,13 +25,11 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 4. (weggefallen)
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 57 Absatz 1 Unterabsatz 1 der Verordnung (EG) Nr. 555/2008 Weintrauben oder ein daraus hergestelltes Erzeugnis einer anderen als einer dort genannten Bestimmung zuführt.
 
-
-## § 4 – Straftaten
+# § 4 – Straftaten
 
 Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird bestraft, wer gegen die Verordnung (EG) Nr. 1333/2008 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -44,8 +37,7 @@ Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird bestraft, wer ge
 
 2. entgegen Artikel 4 Absatz 1 in aromatisiertem Wein, einem aromatisierten weinhaltigen Getränk oder einem aromatisierten weinhaltigen Cocktail einen Lebensmittelzusatzstoff, der in Anhang II Teil E Nummer 14.2.7 aufgeführt ist, unter einer Bedingung verwendet, die dort für diesen Lebensmittelzusatzstoff nicht festgelegt ist.
 
-
-## § 5 – Ordnungswidrigkeiten
+# § 5 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer gegen die Verordnung (EG) Nr. 436/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -57,8 +49,7 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 4. als Person, die in Ausübung ihres Berufs Erzeugnisse des Weinsektors besitzt, entgegen Artikel 48 Absatz 1 oder Absatz 2 Satz 1 ein Begleitdokument, eine Kopie, ein Buch oder einen Beleg nicht oder nicht mindestens fünf Jahre aufbewahrt.
 
-
-## § 6 – Straftaten
+# § 6 – Straftaten
 
 (1) Nach § 48 Absatz 1 Nummer 3, Absatz 2, 3 des Weingesetzes wird bestraft, wer vorsätzlich oder fahrlässig entgegen Artikel 10 Absatz 2 der Verordnung (EG) Nr. 606/2009 ein dort genanntes Erzeugnis aufbewahrt.
 
@@ -70,8 +61,7 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 3. entgegen Anhang II Abschnitt A Nummer 3 oder Nummer 7, jeweils auch in Verbindung mit Abschnitt B Nummer 3 erster Gedankenstrich, eine Cuvée, einen Bestandteil einer Cuvée oder einen Qualitätsschaumwein anreichert oder süßt.
 
-
-## § 7 – Ordnungswidrigkeiten
+# § 7 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer gegen die Verordnung (EG) Nr. 606/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -87,13 +77,11 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 6. entgegen Anhang II Abschnitt A Nummer 10 Unterabsatz 2 Satz 1, auch in Verbindung mit Abschnitt B Nummer 3 erster Gedankenstrich oder Abschnitt C Nummer 8, die alkoholische Gärung einer Cuvée, eines Qualitätsschaumweins, eines Schaumweins oder eines Qualitätsschaumweins mit geschützter Ursprungsbezeichnung auslöst.
 
-
-## § 8 – Ordnungswidrigkeiten
+# § 8 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer vorsätzlich oder fahrlässig entgegen Artikel 69 Absatz 1 Unterabsatz 2 der Verordnung (EG) Nr. 607/2009 ein anderes Produkt in einer dort genannten Flasche vermarktet oder ausführt.
 
-
-## § 9 – Straftaten
+# § 9 – Straftaten
 
 Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird bestraft, wer gegen die Verordnung (EU) Nr. 1308/2013 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -119,8 +107,7 @@ Nach § 48 Absatz 1 Nummer 4, Absatz 2, 3 des Weingesetzes wird bestraft, wer ge
 
 11. entgegen Anhang VIII Teil II Abschnitt B Nummer 4 oder Nummer 5 ein dort genanntes Erzeugnis in den Verkehr bringt, zu einem in Anhang VII Teil II genannten Erzeugnis verarbeitet oder einem in Anhang VII Teil II genannten Erzeugnis zusetzt.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes handelt, wer gegen die Verordnung (EU) Nr. 1308/2013 verstößt, indem er vorsätzlich oder fahrlässig
 
@@ -144,18 +131,15 @@ Ordnungswidrig im Sinne des § 50 Absatz 2 Satz 1 Nummer 12 des Weingesetzes han
 
 10. entgegen Anhang VIII Teil II Abschnitt D Nummer 4 Tresterwein verwendet.
 
-
-## § 11 – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
+# § 11 – Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union
 
 Verweisungen in dieser Verordnung auf Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union beziehen sich auf die in der Anlage angegebenen Fassungen.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 11)Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+# Anlage – (zu § 11)Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
 
 (Fundstelle: BGBl. I 2014, 146)
 

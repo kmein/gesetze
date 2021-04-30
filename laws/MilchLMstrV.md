@@ -1,15 +1,11 @@
-# [MilchLMstrV] Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Milchwirtschaftlicher Laborant/Milchwirtschaftliche Laborantin
-
-Ausfertigungsdatum: 28.02.1991
-
+% Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Milchwirtschaftlicher Laborant/Milchwirtschaftliche Laborantin
+% Ausfertigungsdatum: 28.02.1991
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, verordnet der Bundesminister für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S. 1692):
 
-
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der Prüfungsteilnehmer die notwendigen Kenntnisse, Fertigkeiten und Erfahrungen hat, folgende Aufgaben eines Milchwirtschaftlichen Labormeisters als Fach- und Führungskraft im milchwirtschaftlichen Labor wahrzunehmen:
 
@@ -21,8 +17,7 @@ Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl.
 
 (2) Die erfolgreich abgelegte Meisterprüfung führt zum anerkannten Abschluß "Milchwirtschaftlicher Labormeister/Milchwirtschaftliche Labormeisterin".
 
-
-## § 1a – Zulassungsvoraussetzungen zur Meisterprüfung
+# § 1a – Zulassungsvoraussetzungen zur Meisterprüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -38,8 +33,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 2 – Gliederung der Meisterprüfung
+# § 2 – Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfaßt die Teile
 
@@ -53,8 +47,7 @@ nachweist.
 
 (3) Die Prüfungsaufgaben sollen sich auf praktische Fälle beziehen.
 
-
-## § 3 – Prüfungsanforderungen im Teil "Untersuchungs- und Verfahrenstechnik"
+# § 3 – Prüfungsanforderungen im Teil "Untersuchungs- und Verfahrenstechnik"
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er chemische, physikalische und mikrobiologische Untersuchungen von Milch, Milchprodukten und anderen Lebensmitteln sowie den damit verbundenen Einsatz von Geräten planen, durchführen und beurteilen kann. Hierbei soll er zeigen, daß er auch die Erfordernisse des Umweltschutzes berücksichtigen kann.
 
@@ -130,8 +123,7 @@ nachweist.
 
 (10) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als vier Stunden dauern.
 
-
-## § 4 – Prüfungsanforderungen im Teil "Laborführung"
+# § 4 – Prüfungsanforderungen im Teil "Laborführung"
 
 (1) Der Prüfungsteilnehmer soll nachweisen, daß er wirtschaftliche, rechtliche und soziale Zusammenhänge im Labor sowie die entsprechenden Verflechtungen von Labor und Betrieb erkennen, analysieren und beurteilen kann.
 
@@ -187,8 +179,7 @@ nachweist.
 
 (8) Bei der Lösung der betriebsbezogenen Situationsaufgabe soll der Prüfungsteilnehmer anhand von praxisnahen Fällen nachweisen, daß er die wirtschaftlichen, rechtlichen und sozialen Zusammenhänge in seinem Funktionsbereich erkennen, analysieren und beurteilen kann. Die Ergebnisse sind in einer unter Aufsicht anzufertigenden schriftlichen Arbeit darzustellen und in einem Prüfungsgespräch zu erläutern. Für die betriebsbezogene Situationsaufgabe stehen bis zu sechs Stunden zur Verfügung. Das Prüfungsgespräch soll je Prüfungsteilnehmer nicht länger als 30 Minuten dauern.
 
-
-## § 5 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+# § 5 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter führen kann sowie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
@@ -304,13 +295,11 @@ nachweist.
 
 (12) In der Fallstudie soll der Prüfling eine vom Prüfungsausschuss vorgegebene Situation der Mitarbeiterführung, die sich auf die in den Absätzen 7 und 8 aufgeführten Kompetenzen bezieht, analysieren, Handlungsoptionen entwickeln, schriftlich darlegen und diese in einem Fachgespräch erläutern. Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das darauf aufbauende Fachgespräch soll nicht länger als 20 Minuten dauern.
 
-
-## § 6 – Anrechnung anderer Prüfungsleistungen
+# § 6 – Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile nach § 3 Abs. 8, § 4 Abs. 6 und § 5 Absatz 9 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
-
-## § 7 – Bestehen der Meisterprüfung
+# § 7 – Bestehen der Meisterprüfung
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil "Untersuchungs- und Verfahrenstechnik" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 3 Abs. 9 und in der Prüfung gemäß § 3 Abs. 10 zu bilden; dabei hat die Note in der Prüfung gemäß § 3 Abs. 9 das doppelte Gewicht. Für den Teil "Laborführung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 4 Abs. 7 und in der Prüfung gemäß § 4 Abs. 8 zu bilden. Für den Teil „Berufsausbildung und Mitarbeiterführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in den Prüfungen nach § 5 Absatz 10 und 11 im Abschnitt Berufsausbildung sowie der Leistung in der Prüfung nach § 5 Absatz 12 im Abschnitt Mitarbeiterführung zu bilden, dabei ist die Note für den Abschnitt Berufsausbildung mit 60 Prozent und die Note für den Abschnitt Mitarbeiterführung mit 40 Prozent zu gewichten. Die Note für den Abschnitt Berufsausbildung ist als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 5 Absatz 10 und in der Prüfung nach § 5 Absatz 11 zu bilden; dabei hat die Note in der Prüfung nach § 5 Absatz 10 das doppelte Gewicht.
 
@@ -320,21 +309,18 @@ Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfung
 
 (4) Die Prüfungen nach § 3 Absatz 10, § 4 Absatz 7 und § 5 Absatz 11 sind jeweils durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die Ergänzungsprüfung soll jeweils nicht länger als 30 Minuten dauern. Bei der Ermittlung des Ergebnisses sind jeweils die bisherige Note der Prüfung und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 8 – Wiederholung der Prüfung
+# § 8 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag von der Prüfung in einzelnen Prüfungsteilen und in den einzelnen Prüfungen gemäß § 7 Abs. 1 zu befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note "ausreichend" bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nichtbestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 8a – Übergangsvorschriften
+# § 8a – Übergangsvorschriften
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 
 (2) Prüfungsteilnehmer, die die Prüfung nach den bis zum 28. Mai 2014 geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem 29. Mai 2014 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den am 28. Mai 2014 geltenden Vorschriften ablegen.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

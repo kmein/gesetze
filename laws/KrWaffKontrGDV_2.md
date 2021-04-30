@@ -1,15 +1,11 @@
-# [KrWaffKontrGDV 2] Zweite Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
-
-Ausfertigungsdatum: 01.06.1961
-
+% Zweite Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen
+% Ausfertigungsdatum: 01.06.1961
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes über die Kontrolle von Kriegswaffen vom 20. April 1961 (Bundesgesetzbl. I S. 444) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Antrag auf Erteilung einer Herstellungsgenehmigung
+# § 1 – Antrag auf Erteilung einer Herstellungsgenehmigung
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Herstellung von Kriegswaffen muß folgende Angaben enthalten:
 
@@ -37,8 +33,7 @@ Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes über die
 
 3. welche Sicherheits- und Geheimschutzmaßnahmen im Sinne des § 12 Abs. 1 des Gesetzes getroffen oder beabsichtigt sind.
 
-
-## § 2 – Antrag auf Erteilung einer Überlassungsgenehmigung
+# § 2 – Antrag auf Erteilung einer Überlassungsgenehmigung
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Überlassung der tatsächlichen Gewalt über Kriegswaffen an einen anderen muß folgende Angaben enthalten:
 
@@ -58,8 +53,7 @@ Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes über die
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
-
-## § 3 – Antrag auf Erteilung einer Erwerbsgenehmigung
+# § 3 – Antrag auf Erteilung einer Erwerbsgenehmigung
 
 (1) Der Antrag auf Erteilung einer Genehmigung zum Erwerb der tatsächlichen Gewalt über Kriegswaffen von einem anderen muß folgende Angaben enthalten:
 
@@ -83,8 +77,7 @@ Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes über die
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
-
-## § 4 – Antrag auf Erteilung einer Genehmigung zur Beförderung innerhalb des Bundesgebietes
+# § 4 – Antrag auf Erteilung einer Genehmigung zur Beförderung innerhalb des Bundesgebietes
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Beförderung von Kriegswaffen innerhalb des Bundesgebietes (§ 3 Abs. 1 und 2 des Gesetzes) muß folgende Angaben enthalten:
 
@@ -114,8 +107,7 @@ Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes über die
 
 (3) § 1 Abs. 2 gilt entsprechend.
 
-
-## § 5 – Antrag auf Erteilung einer Genehmigung zur Beförderung außerhalb des Bundesgebietes
+# § 5 – Antrag auf Erteilung einer Genehmigung zur Beförderung außerhalb des Bundesgebietes
 
 (1) Der Antrag auf Erteilung einer Genehmigung zur Beförderung von Kriegswaffen außerhalb des Bundesgebietes muß folgende Angaben enthalten:
 
@@ -139,8 +131,7 @@ Auf Grund des § 11 Abs. 4, § 12 Abs. 7 und § 14 Abs. 7 des Gesetzes über die
 
 (2) § 1 Abs. 2 gilt entsprechend.
 
-
-## § 5a – Antrag auf Erteilung einer Genehmigung für Auslandsgeschäfte
+# § 5a – Antrag auf Erteilung einer Genehmigung für Auslandsgeschäfte
 
 (1) Der Antrag auf Erteilung einer Genehmigung für Auslandsgeschäfte muß folgende Angaben enthalten:
 
@@ -170,15 +161,13 @@ Unterlagen, die sich auf diese Angaben beziehen, hat der Antragsteller auf Verla
 
 (4) § 1 Abs. 2 gilt entsprechend.
 
-
-## § 6 – Antragsform
+# § 6 – Antragsform
 
 (1) Der Antrag auf Erteilung einer Genehmigung ist in Textform zu stellen.
 
 (2) Ist mit der Durchführung eines Beschaffungs- oder Instandsetzungsauftrages, den ein in § 11 Abs. 2 Nr. 1, 2 und 3 des Gesetzes genanntes Bundesministerium oder eine ihm nachgeordnete Behörde vergibt, eine genehmigungsbedürftige Handlung verbunden, so gilt das schriftliche Angebot des Auftragnehmers als Antrag auf Erteilung der erforderlichen Genehmigung. Liegt kein schriftliches Angebot vor, so findet Satz 1 entsprechende Anwendung, wenn der Auftragnehmer den Auftrag schriftlich annimmt.
 
-
-## § 7 – Gleichzeitige Antragstellung
+# § 7 – Gleichzeitige Antragstellung
 
 (1) Liegen die Voraussetzungen für den Wegfall der Überlassungs- und Erwerbsgenehmigung nicht vor, so sollen
 
@@ -192,15 +181,13 @@ spätestens mit dem Antrag auf Genehmigung der Beförderung nach § 4 gestellt w
 
 (2) In den Fällen der Überlassung und des Erwerbs der tatsächlichen Gewalt über Kriegswaffen sollen der Antrag desjenigen, der die tatsächliche Gewalt überlassen will, und der Antrag desjenigen, der die tatsächliche Gewalt erwerben will, gleichzeitig gestellt werden.
 
-
-## § 8 – Dauergenehmigung
+# § 8 – Dauergenehmigung
 
 (1) Die Genehmigung kann einem Antragsteller ohne Beschränkung auf die Vornahme einer einzelnen Handlung für eine bestimmte Zeitdauer erteilt werden (Dauergenehmigung), wenn es wegen der mehrfachen Wiederholung von Handlungen der gleichen Art zweckmäßig ist und öffentliche Interessen nicht gefährdet werden.
 
 (2) Die Dauergenehmigung zur Herstellung der in Teil B der Kriegswaffenliste genannten Kriegswaffen kann ohne Beschränkung auf eine bestimmte Menge, die Dauergenehmigung zur Beförderung von Kriegswaffen kann ohne Beschränkung auf eine bestimmte Art und Menge erteilt werden. Andere Dauergenehmigungen können nur für eine bestimmte Art und Menge erteilt werden.
 
-
-## § 9 – Führung und Inhalt des Kriegswaffenbuches
+# § 9 – Führung und Inhalt des Kriegswaffenbuches
 
 (1) Wer zur Führung eines Kriegswaffenbuches verpflichtet ist, hat den Kriegswaffenbestand zu den nach § 10 Absatz 1 vorgeschriebenen Meldestichtagen, jede Bestandsveränderung und jede Beförderung ohne Bestandsveränderung in das Kriegswaffenbuch einzutragen. Die Eintragungen sind unverzüglich nach einem meldepflichtigen Ereignis vorzunehmen und müssen in nachvollziehbarer Weise erfolgen. Jede Berichtigung eines Eintrags muss als solche erkennbar sein und den ursprünglichen Eintrag unverändert lassen. Das Kriegswaffenbuch kann in Papierform oder elektronisch geführt werden.
 
@@ -242,8 +229,7 @@ spätestens mit dem Antrag auf Genehmigung der Beförderung nach § 4 gestellt w
 
 (7) Wer Kriegswaffen innerhalb des Bundesgebietes für einen anderen befördert oder Kriegswaffen außerhalb des Bundesgebietes mit deutschen Seeschiffen oder Luftfahrzeugen befördert oder im Geltungsbereich des Gesetzes keinen Wohnsitz und keine gewerbliche Niederlassung hat, ist nicht verpflichtet, ein Kriegswaffenbuch zu führen.
 
-
-## § 10 – Meldung der Kriegswaffenbestände
+# § 10 – Meldung der Kriegswaffenbestände
 
 (1) Jede Bestandsveränderung und die am 31. März und 30. September eines jeden Jahres (Meldestichtage) vorhandenen Kriegswaffenbestände (Bestandseinträge) sind dem Bundesamt für Wirtschaft und Ausfuhrkontrolle nach Waffentypen getrennt und mit den in § 9 Absatz 3 und 4 vorgeschriebenen Angaben binnen zwei Wochen nach den Meldestichtagen elektronisch zu melden. Dies gilt auch für den Fall, dass seit dem letzten Meldestichtag keine Bestandsveränderung eingetreten ist. Der Bestandseintrag ist auch dann anzugeben, wenn der Bestand im Meldezeitraum auf Null gesunken ist (Nullmeldung). Bleibt der Bestand im hierauf folgenden Meldezeitraum ohne Bestandsveränderung bei Null, so bedarf es keiner erneuten Nullmeldung. Die Meldepflicht nach Satz 1 gilt entsprechend für Beförderungen ohne Bestandsveränderungen.
 
@@ -257,35 +243,30 @@ spätestens mit dem Antrag auf Genehmigung der Beförderung nach § 4 gestellt w
 
 (6) Wer zur Führung eines Kriegswaffenbuches verpflichtet ist, hat die Richtigkeit und Vollständigkeit der Meldungen zu prüfen, das Ergebnis der Prüfung zu vermerken und mit einer Unterschrift zu versehen. Das Dokument ist elektronisch dem Bundesamt für Wirtschaft und Ausfuhrkontrolle binnen der in Absatz 1 genannten Zeiträume zu übermitteln.
 
-
-## § 11 – Aufbewahrungsfristen
+# § 11 – Aufbewahrungsfristen
 
 (1) Der zur Führung eines Kriegswaffenbuches Verpflichtete hat das Kriegswaffenbuch so lange aufzubewahren, wie er die tatsächliche Gewalt über Kriegswaffen innehat, mindestens jedoch zehn Jahre vom Tag der zuletzt vorgenommenen Eintragung an gerechnet.
 
 (2) Der Inhaber einer Genehmigung hat die Genehmigungsurkunde so lange aufzubewahren, wie er die tatsächliche Gewalt über die in der Urkunde genannten Kriegswaffen innehat, mindestens jedoch zehn Jahre vom Tag der Ausstellung an gerechnet. Ebenfalls aufzubewahren sind Unterlagen, die als Beleg für die Erfüllung von Nebenbestimmungen oder Auflagen zu der Genehmigung dienen.
 
-
-## § 12 – Nicht ausgenutzte Genehmigungen
+# § 12 – Nicht ausgenutzte Genehmigungen
 
 (1) Wird die genehmigte Handlung nicht oder nur teilweise ausgeführt, so hat der Inhaber der Genehmigung dies dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) spätestens zwei Wochen nach Ablauf einer in der Genehmigungsurkunde für die Ausführung der Handlung festgesetzten Frist mitzuteilen.
 
 (2) Absatz 1 gilt nicht in den Fällen der Beförderung von Kriegswaffen außerhalb des Bundesgebietes mit deutschen Seeschiffen oder Luftfahrzeugen.
 
-
-## § 13 – Kennzeichnungspflicht
+# § 13 – Kennzeichnungspflicht
 
 (1) Kriegswaffen, die im Bundesgebiet hergestellt, in das Bundesgebiet eingeführt oder sonst in das Bundesgebiet verbracht werden, müssen ein Zeichen des Herstellers oder des Einführers tragen. Das Zeichen ist an sichtbarer Stelle anzubringen und muß dauerhaft sein.
 
 (2) Kriegswaffen, die im Bundesgebiet hergestellt, in das Bundesgebiet eingeführt oder sonst in das Bundesgebiet verbracht werden, ausgenommen Waffen der Nummern 9, 14, 15, 31, 40 bis 43 und 46 bis 50 der Kriegswaffenliste, sollen außerdem eine fortlaufende Herstellungsnummer tragen.
 
-
-## § 14 – Gestellungs-, Anmelde- und Vorführungspflicht
+# § 14 – Gestellungs-, Anmelde- und Vorführungspflicht
 
 (1) Kriegswaffen sind, soweit sie nicht schon nach den Zollvorschriften zu gestellen sind, bei der Einfuhr, Ausfuhr und Durchfuhr den vom Bundesministerium der Finanzen bestimmen Zollstellen zu gestellen.
 
 (2) Beim sonstigen Verbringen von Kriegswaffen in das Bundesgebiet oder aus dem Bundesgebiet sind die Kriegswaffen den für die Überwachung dieses Verkehrs zuständigen Zolldienststellen vorzuführen.
 
-
-## § 15 – Inkrafttreten
+# § 15 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

@@ -1,10 +1,7 @@
-# [RED-G] Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus  (Rechtsextremismus-Datei-Gesetz - RED-G)
-
-Ausfertigungsdatum: 20.08.2012
-
+% Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus  (Rechtsextremismus-Datei-Gesetz - RED-G)
+% Ausfertigungsdatum: 20.08.2012
  
-
-## § 1 – Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus
+# § 1 – Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus
 
 (1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die Landeskriminalämter, die Verfassungsschutzbehörden des Bundes und der Länder sowie der Militärische Abschirmdienst führen beim Bundeskriminalamt zur Erfüllung ihrer jeweiligen gesetzlichen Aufgaben zur Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus, insbesondere zur Verhinderung und Verfolgung von Straftaten mit derartigem Hintergrund, eine gemeinsame standardisierte zentrale Datei.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 20.08.2012
 
 2. ihr Zugriff auf die Rechtsextremismus-Datei für die Wahrnehmung der Aufgaben nach Nummer 1 erforderlich und dies unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen und der Sicherheitsinteressen der beteiligten Behörden angemessen ist.
 
-
-## § 2 – Inhalt der Datei und Speicherungspflicht
+# § 2 – Inhalt der Datei und Speicherungspflicht
 
 Die beteiligten Behörden sind verpflichtet, bereits erhobene Daten nach § 3 Absatz 1 in der Datei nach § 1 zu speichern, wenn sie gemäß den für sie geltenden Rechtsvorschriften über polizeiliche oder nachrichtendienstliche Erkenntnisse (Erkenntnisse) verfügen, dass die Daten sich beziehen auf
 
@@ -35,8 +31,7 @@ bei denen Tatsachen die Annahme rechtfertigen, dass sie im Zusammenhang mit eine
 
 und die Kenntnis der Daten für die Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus erforderlich ist. Satz 1 gilt nur für Daten, die die beteiligten Behörden nach den für sie geltenden Rechtsvorschriften automatisiert verarbeiten dürfen.
 
-
-## § 3 – Zu speichernde Datenarten
+# § 3 – Zu speichernde Datenarten
 
 (1) In der Datei werden, soweit vorhanden, folgende Datenarten gespeichert:
 
@@ -119,8 +114,7 @@ von der Person betriebene oder maßgeblich zum Zweck ihrer Aktivitäten nach § 
 
 (4) Das Bundeskriminalamt legt die Kriterien und Kategorien für die zu speichernden Datenarten in den Fällen des Absatzes 1 Nummer 1 Buchstabe b Doppelbuchstabe gg, ii und ll in einer Verwaltungsvorschrift fest. Diese ist in der jeweils aktuellen Fassung im Bundesanzeiger zu veröffentlichen. Das Bundeskriminalamt kann Kriterien für die zu speichernden Datenarten in den weiteren Fällen des Absatzes 1 in derselben Verwaltungsvorschrift vorsehen.
 
-
-## § 4 – Beschränkte und verdeckte Speicherung
+# § 4 – Beschränkte und verdeckte Speicherung
 
 (1) Soweit besondere Geheimhaltungsinteressen oder besonders schutzwürdige Interessen des Betroffenen dies ausnahmsweise erfordern, darf eine beteiligte Behörde entweder von einer Speicherung der in § 3 Absatz 1 Nummer 1 Buchstabe b genannten erweiterten Grunddaten ganz oder teilweise absehen (beschränkte Speicherung) oder alle jeweiligen Daten zu in § 2 genannten Personen, rechtsextremistischen Vereinigungen und Gruppierungen, Sachen, Bankverbindungen, Anschriften, Telekommunikationsanschlüssen, Telekommunikationsendgeräten, Internetseiten oder Adressen für elektronische Post in der Weise eingeben, dass die anderen beteiligten Behörden im Falle einer Abfrage die Speicherung der Daten nicht erkennen und keinen Zugriff auf die gespeicherten Daten erhalten (verdeckte Speicherung). Über beschränkte und verdeckte Speicherungen entscheidet der jeweilige Behördenleiter oder ein von ihm besonders beauftragter Beamter des höheren Dienstes.
 
@@ -148,8 +142,7 @@ von der Person betriebene oder maßgeblich zum Zweck ihrer Aktivitäten nach § 
 
 durch Maßnahmen nach entsprechenden landesrechtlichen Regelungen erlangt wurden, sind verdeckt zu speichern. Sofern zu einer Person nach § 2 Satz 1 Nummer 1 und 2 oder einer Angabe nach § 2 Satz 1 Nummer 3 sowohl Daten nach Satz 1 als auch andere Daten zu speichern sind, müssen nur die Daten nach Satz 1 verdeckt gespeichert werden oder kann die einstellende Behörde von der Speicherung der Daten nach Satz 1 absehen (beschränkte Speicherung).
 
-
-## § 5 – Zugriff auf die Daten
+# § 5 – Zugriff auf die Daten
 
 (1) Die beteiligten Behörden dürfen die in der Datei nach § 1 gespeicherten Daten im automatisierten Verfahren nutzen, soweit dies zur Erfüllung der jeweiligen Aufgaben zur Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus erforderlich ist. Im Falle eines Treffers erhält die abfragende Behörde Zugriff
 
@@ -167,8 +160,7 @@ Auf die zu Personen gespeicherten erweiterten Grunddaten kann die abfragende Beh
 
 (4) Bei jeder Abfrage müssen der Zweck und die Dringlichkeit angegeben und dokumentiert werden und erkennbar sein.
 
-
-## § 6 – Weitere Verwendung der Daten
+# § 6 – Weitere Verwendung der Daten
 
 (1) Die abfragende Behörde darf die Daten, auf die sie Zugriff erhalten hat, zur Prüfung, ob der Treffer der gesuchten Person oder der gesuchten Angabe nach § 2 Satz 1 Nummer 3 zuzuordnen ist, für ein Ersuchen um Übermittlung von Erkenntnissen zur Wahrnehmung ihrer jeweiligen Aufgabe zur Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus und zu den Zwecken nach § 7 nutzen. Eine Nutzung zu einem anderen Zweck als zur Wahrnehmung ihrer jeweiligen Aufgabe zur Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus ist nur zulässig, soweit
 
@@ -182,8 +174,7 @@ Auf die zu Personen gespeicherten erweiterten Grunddaten kann die abfragende Beh
 
 (4) Soweit das Bundeskriminalamt, die Landeskriminalämter oder weitere beteiligte Polizeivollzugsbehörden nach § 1 Absatz 2 auf Ersuchen oder im Auftrag der das strafrechtliche Ermittlungsverfahren führenden Staatsanwaltschaft die Datei nach § 1 nutzen, übermitteln sie dieser die Daten, auf die sie Zugriff erhalten haben, für die Zwecke der Strafverfolgung. Sie darf die Daten für Ersuchen nach Absatz 1 Satz 1 verwenden. § 487 Absatz 3 der Strafprozessordnung gilt entsprechend.
 
-
-## § 7 – Erweiterte projektbezogene Datennutzung
+# § 7 – Erweiterte projektbezogene Datennutzung
 
 (1) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten erweitert nutzen, soweit dies im Rahmen eines bestimmten einzelfallbezogenen Projekts zur Sammlung und Auswertung von Informationen über eine konkrete rechtsextremistische Bestrebung, bei der bestimmte Tatsachen die Annahme rechtfertigen, dass sie darauf gerichtet ist, Gewalt anzuwenden oder Gewaltanwendung vorzubereiten und dadurch Gefahren für Leib, Leben oder Freiheit von Personen drohen, im Einzelfall erforderlich ist, um weitere Zusammenhänge des Einzelfalls aufzuklären.
 
@@ -217,13 +208,11 @@ aus der Datei abfragen sowie räumliche und sonstige Beziehungen zwischen Person
 
 (11) Die nach § 1 Absatz 1 berechtigten Landesbehörden sind nach Maßgabe landesrechtlicher Regelungen, die den Vorgaben der Absätze 1 bis 10 entsprechen, befugt, die in der Datei nach § 3 gespeicherten Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten zu den in den Absätzen 1 bis 3 genannten Zwecken erweitert zu nutzen. Satz 1 gilt auch für Landesbehörden, die durch eine Rechtsverordnung nach § 1 Absatz 2 zur Teilnahme an der Datei berechtigt werden.
 
-
-## § 8 – Übermittlung von Erkenntnissen
+# § 8 – Übermittlung von Erkenntnissen
 
 Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6 Absatz 1 Satz 1 oder von erweitert genutzten Daten nach § 7 zwischen den beteiligten Behörden richtet sich nach den jeweils geltenden Übermittlungsvorschriften.
 
-
-## § 9 – Datenschutzrechtliche Verantwortung
+# § 9 – Datenschutzrechtliche Verantwortung
 
 (1) Die datenschutzrechtliche Verantwortung für die in der Datei gespeicherten Daten, namentlich für die Rechtmäßigkeit der Erhebung, die Zulässigkeit der Eingabe sowie die Richtigkeit und Aktualität der Daten, trägt die Behörde, die die Daten eingegeben hat. Die Behörde, die die Daten eingegeben hat, muss erkennbar sein. Die Verantwortung für die Zulässigkeit der Abfrage trägt die abfragende Behörde. Die Verantwortung für die erweiterte Datennutzung nach § 7 trägt die Behörde, die die Daten zu diesen Zwecken verwendet.
 
@@ -231,8 +220,7 @@ Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6 Absatz 1 
 
 (3) Hat eine Behörde Anhaltspunkte dafür, dass Daten, die eine andere Behörde eingegeben hat, unrichtig sind, teilt sie dies umgehend der Behörde, die die Daten eingegeben hat, mit, die diese Mitteilung unverzüglich prüft und erforderlichenfalls die Daten unverzüglich berichtigt.
 
-
-## § 10 – Protokollierung, technische und organisatorische Maßnahmen
+# § 10 – Protokollierung, technische und organisatorische Maßnahmen
 
 (1) Das Bundeskriminalamt hat bei jedem Zugriff für Zwecke der Datenschutzkontrolle den Zeitpunkt, die Angaben, die die Feststellung der aufgerufenen Datensätze ermöglichen, sowie die für den Zugriff verantwortliche Behörde und den Zugriffszweck nach § 5 Absatz 4 oder § 7 zu protokollieren. Die Protokolldaten dürfen nur verwendet werden, soweit ihre Kenntnis für Zwecke der Datenschutzkontrolle, der Datensicherung, zur Sicherstellung eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage oder zum Nachweis der Kenntnisnahme bei Verschlusssachen erforderlich ist. Die ausschließlich für Zwecke nach Satz 1 gespeicherten Protokolldaten sind nach zwei Jahren zu löschen.
 
@@ -240,8 +228,7 @@ Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6 Absatz 1 
 
 (3) Das Bundeskriminalamt berichtet dem Deutschen Bundestag alle drei Jahre, erstmalig zum 1. August 2017, über den Datenbestand und die Nutzung der Rechtsextremismus-Datei. Der Bericht ist zeitgleich mit der Zuleitung an den Deutschen Bundestag über den Internetauftritt des Bundeskriminalamts zu veröffentlichen.
 
-
-## § 11 – Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
+# § 11 – Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 9 Absatz 1 des Bundesdatenschutzgesetzes der oder dem Bundesbeauftragten für den Datenschutz und die Informationsfreiheit. Die von den Ländern in die Rechtsextremismus-Datei eingegebenen Datensätze können auch von den jeweiligen Landesbeauftragten für den Datenschutz im Zusammenhang mit der Wahrnehmung ihrer Prüfungsaufgaben in den Ländern kontrolliert werden, soweit die Länder nach § 9 Absatz 1 verantwortlich sind. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit arbeitet insoweit mit den Landesbeauftragten für den Datenschutz zusammen.
 
@@ -249,8 +236,7 @@ Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6 Absatz 1 
 
 (3) Über die nicht verdeckt gespeicherten Daten erteilt das Bundeskriminalamt die Auskunft nach § 57 des Bundesdatenschutzgesetzes im Einvernehmen mit der Behörde, die die datenschutzrechtliche Verantwortung nach § 9 Absatz 1 Satz 1 trägt und die Zulässigkeit der Auskunftserteilung nach den für sie geltenden Rechtsvorschriften prüft. Die Auskunft zu verdeckt gespeicherten Daten richtet sich nach den für die Behörde, die die Daten eingegeben hat, geltenden Rechtsvorschriften.
 
-
-## § 12 – Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten
+# § 12 – Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten
 
 (1) Unrichtige Daten sind zu berichtigen.
 
@@ -260,8 +246,7 @@ Die Übermittlung von Erkenntnissen aufgrund eines Ersuchens nach § 6 Absatz 1 
 
 (4) Die eingebenden Behörden prüfen nach den Fristen, die für die Erkenntnisdaten gelten, und bei der Einzelfallbearbeitung, ob personenbezogene Daten zu berichtigen oder zu löschen sind.
 
-
-## § 13 – Festlegungen für die gemeinsame Datei
+# § 13 – Festlegungen für die gemeinsame Datei
 
 Das Bundeskriminalamt hat für die gemeinsame Datei im Einvernehmen mit den beteiligten Behörden Einzelheiten festzulegen zu
 
@@ -283,7 +268,6 @@ Das Bundeskriminalamt hat für die gemeinsame Datei im Einvernehmen mit den bete
 
 Die Festlegungen bedürfen der Zustimmung des Bundesministeriums des Innern, für Bau und Heimat, des Bundesministeriums der Verteidigung und der für die beteiligten Behörden der Länder zuständigen obersten Landesbehörden. Die oder der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit ist vor den Festlegungen anzuhören.
 
-
-## § 14 – Einschränkung von Grundrechten
+# § 14 – Einschränkung von Grundrechten
 
 Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.

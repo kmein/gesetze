@@ -1,25 +1,19 @@
-# [BeschMechAusbV] Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
-
-Ausfertigungsdatum: 12.07.1999
-
+% Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
+% Ausfertigungsdatum: 12.07.1999
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 35 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verfahrensmechaniker für Beschichtungstechnik/Verfahrensmechanikerin für Beschichtungstechnik wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -67,25 +61,21 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 22. Verfahren der Umwelttechnik.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 (1) Die Fertigkeiten und Kenntnisse nach § 4 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
 (2) Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen so vermittelt werden, daß der Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Abs. 2 des Berufsbildungsgesetzes befähigt wird, die insbesondere selbständiges Planen, Durchführen und Kontrollieren an seinem Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 nachzuweisen.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -93,8 +83,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (3) Der Prüfling soll in höchstens sieben Stunden eine Arbeitsaufgabe bearbeiten sowie in höchstens 15 Minuten hierüber ein Fachgespräch führen. Hierfür kommt insbesondere in Betracht: Komplettieren eines Werkstücks durch Verwendung vorgefertigter Teile unter Anwendung von Fertigungs- und Fügetechniken einschließlich Vor- und Nachbehandeln von Oberflächen unter Berücksichtigung der Regeln des Produktionsprozesses, der Sicherheit und des Gesundheitsschutzes bei der Arbeit. Dabei soll der Prüfling zeigen, daß er Oberflächen vorbereiten, beschichten und prüfen, Meßwerte erfassen und protokollieren sowie Arbeitsabläufe, insbesondere den Zusammenhang von Technik, Arbeitsorganisation, Umweltschutz und Wirtschaftlichkeit berücksichtigen kann. Durch das Fachgespräch soll der Prüfling zeigen, daß er fachbezogene Probleme und deren Lösungen darstellen, die für die Arbeitsaufgabe relevanten fachlichen Hintergründe aufzeigen sowie die Vorgehensweise bei der Ausführung der Arbeitsaufgabe begründen kann.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -130,23 +119,19 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (10) Die Prüfung ist bestanden, wenn jeweils in den Prüfungsteilen A und B mindestens ausreichende Leistungen erbracht wurden. Werden die Prüfungsleistungen in der betrieblichen Aufgabe einschließlich Dokumentation insgesamt, in dem Fachgespräch oder in einem der drei Prüfungsbereiche mit ungenügend bewertet, so ist die Prüfung nicht bestanden.
 
-
-## § 9 – Nichtanwenden von Vorschriften
+# § 9 – Nichtanwenden von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für den Ausbildungsberuf Lackierer - Holz und Metall/Lackiererin - Holz und Metall sind nicht mehr anzuwenden.
 
-
-## § 10 – Übergangsregelung
+# § 10 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung. Für Berufsausbildungsverhältnisse, die bis zum 31. Dezember 1999 beginnen, können die Vertragsparteien die Anwendung der bisherigen Vorschriften vereinbaren.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Beschichtungstechnik/zur Verfahrensmechanikerin für Beschichtungstechnik
 
 (Fundstelle: BGBl. I 1999, 1600 - 1606)
 

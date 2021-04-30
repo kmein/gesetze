@@ -1,15 +1,11 @@
-# [AufhFG] Gesetz zur Errichtung eines Fonds "Aufbauhilfe"  (Aufbauhilfefondsgesetz - AufhFG)
-
-Ausfertigungsdatum: 19.09.2002
-
+% Gesetz zur Errichtung eines Fonds "Aufbauhilfe"  (Aufbauhilfefondsgesetz - AufhFG)
+% Ausfertigungsdatum: 19.09.2002
  
-
-## § 1 – Errichtung des Fonds
+# § 1 – Errichtung des Fonds
 
 Es wird ein nationaler Solidaritätsfonds "Aufbauhilfe" als Sondervermögen des Bundes errichtet.
 
-
-## § 2 – Zweck und Mittelverwendung des Fonds
+# § 2 – Zweck und Mittelverwendung des Fonds
 
 (1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser vom August 2002 betroffenen Ländern zur Beseitigung der Hochwasserschäden und zum Wiederaufbau der zerstörten Regionen.
 
@@ -31,15 +27,13 @@ finanziert.
 
 (6) Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates eine Rechtsverordnung, insbesondere zur Regelung der Verteilung der Mittel und zur näheren Durchführung zu erlassen.
 
-
-## § 3 – Stellung im Rechtsverkehr
+# § 3 – Stellung im Rechtsverkehr
 
 (1) Der Fonds ist nicht rechtsfähig, er kann unter seinem Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Fonds ist der Sitz der Bundesregierung. Der Bundesminister der Finanzen verwaltet das Sondervermögen.
 
 (2) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen. Für die Verbindlichkeiten des Fonds haftet der Bund.
 
-
-## § 4 – Vermögen des Fonds und Finanzierung
+# § 4 – Vermögen des Fonds und Finanzierung
 
 (1) Die Finanzierung des Fonds erfolgt in gemeinsamer Verantwortung durch Beiträge aus dem Bundeshaushalt und den jeweiligen Haushalten der Länder.
 
@@ -70,23 +64,19 @@ finanziert.
 
 (5) Die Liquidität des Fonds wird durch den Bund sichergestellt.
 
-
-## § 5 – Wirtschaftsplan
+# § 5 – Wirtschaftsplan
 
 Alle Einnahmen und Ausgaben des Fonds werden in einem Wirtschaftsplan veranschlagt. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen.
 
-
-## § 6 – Jahresrechnung
+# § 6 – Jahresrechnung
 
 Der Bundesminister der Finanzen stellt am Schluss des Rechnungsjahres die Jahresrechnung für den Fonds auf und fügt sie als Anhang der Haushaltsrechnung des Bundes bei.
 
-
-## § 7 – Verwaltungskosten
+# § 7 – Verwaltungskosten
 
 Die Kosten für die Verwaltung des Fonds trägt der Bund.
 
-
-## § 8 – Auflösung des Fonds und anschließende Mittelverwendung
+# § 8 – Auflösung des Fonds und anschließende Mittelverwendung
 
 (1) Der Fonds wird mit Ablauf des Jahres 2006 aufgelöst. Das Vermögen des Fonds geht unter Beibehaltung der bisherigen Zweckbindung unverzüglich nach Aufstellung der Jahresrechnung 2006 im Jahr 2007 auf Bund und Länder als Teilgläubiger wie folgt über:
 
@@ -108,8 +98,7 @@ Hierbei finden der in der Vereinbarung zwischen Bund und Ländern vom 25. April 
 
 (6) Soweit Mittel vom Freistaat Sachsen nicht spätestens bis zum Ende des Jahres 2016 nach Absatz 2 verbraucht werden, sind diese abzüglich der zu diesem Zeitpunkt noch bestehenden Forderungen Betroffener entsprechend den Anteilen an den Einzahlungen in den Fonds nach § 4 bis zum Ablauf des Jahres 2017 an Bund und Länder zu erstatten. Bis spätestens zum Ende des Jahres 2020 sind alle nicht verbrauchten Mittel entsprechend Satz 1 an Bund und Länder zu erstatten.
 
-
-## Anlage – (zu § 8 Abs. 1 Satz 4)
+# Anlage – (zu § 8 Abs. 1 Satz 4)
 
  
 

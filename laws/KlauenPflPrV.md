@@ -1,15 +1,11 @@
-# [KlauenPflPrV] Verordnung über die Prüfungen zu den anerkannten Fortbildungsabschlüssen Geprüfter Klauenpfleger und Geprüfte Klauenpflegerin sowie Fachagrarwirt Klauenpflege und Fachagrarwirtin Klauenpflege  (Klauenpflege-Prüfungsverordnung - KlauenPflPrV)
-
-Ausfertigungsdatum: 07.02.2011
-
+% Verordnung über die Prüfungen zu den anerkannten Fortbildungsabschlüssen Geprüfter Klauenpfleger und Geprüfte Klauenpflegerin sowie Fachagrarwirt Klauenpflege und Fachagrarwirtin Klauenpflege  (Klauenpflege-Prüfungsverordnung - KlauenPflPrV)
+% Ausfertigungsdatum: 07.02.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 3 durch Artikel 232 Nummer 3 Buchstabe b der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die durch die berufliche Fortbildung zum Geprüften Klauenpfleger und zur Geprüften Klauenpflegerin erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 2 bis 9 durchführen. In der Fortbildungsprüfung ist eine erweiterte berufliche Handlungsfähigkeit nachzuweisen.
 
@@ -33,8 +29,7 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Klauenpfleger“ oder „Geprüfte Klauenpflegerin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -50,8 +45,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Prüfung
+# § 3 – Gliederung der Prüfung
 
 (1) Die Prüfung beinhaltet die Prüfungsteile:
 
@@ -63,15 +57,13 @@ nachweist.
 
 (2) Die Prüfung ist nach den §§ 4 bis 6 durchzuführen.
 
-
-## § 4 – Prüfungsteil „Tiergesundheit und Tierschutz“
+# § 4 – Prüfungsteil „Tiergesundheit und Tierschutz“
 
 (1) Der Prüfling soll nachweisen, dass er den Zustand von Klauen und die Durchführung von Klauenpflegearbeiten beurteilen und dabei insbesondere auch Zusammenhänge der Anatomie und Physiologie von Klauentieren, der Tierhaltung und Klauengesundheit sowie der Klauenkrankheiten, des Tierschutzes, der Tiergesundheit sowie von Tierseuchen darstellen und begründen kann.
 
 (2) Die Prüfung ist schriftlich durchzuführen. Dabei sind komplexe Fragestellungen aus den in Absatz 1 aufgeführten Inhalten zu bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 5 – Prüfungsteil „Funktionelle Klauenpflege“
+# § 5 – Prüfungsteil „Funktionelle Klauenpflege“
 
 (1) Der Prüfling soll nachweisen, dass er Maßnahmen der Klauenpflege unter Berücksichtigung der Tiergesundheit, des Tierschutzes, des Arbeits- und Gesundheitsschutzes und der einschlägigen Rechtsvorschriften einschließlich des jeweils damit verbundenen Einsatzes von Maschinen, Geräten und Betriebseinrichtungen qualitäts- und prozessorientiert sowie wirtschaftlich planen, durchführen und beurteilen kann.
 
@@ -99,8 +91,7 @@ nachweist.
 
 (3) Die Prüfung ist als praktische Arbeitsaufgabe durchzuführen. Bei der praktischen Arbeitsaufgabe sind eine gliedmaßen- und klauenspezifische Tierbeurteilung sowie Maßnahmen der funktionellen Klauenpflege durchzuführen und in einem anschließenden Fachgespräch zu erläutern. Das Fachgespräch erstreckt sich auf die Ergebnisse der Tierbeurteilung, den Verlauf und die Ergebnisse der Klauenpflege sowie auf die in Absatz 2 aufgeführten Inhalte. Die Prüfungszeit beträgt insgesamt 90 Minuten; in dieser Zeit soll das Fachgespräch in höchstens 20 Minuten geführt werden.
 
-
-## § 6 – Prüfungsteil „Rechtsgrundlagen, Wirtschafts- und Sozialkunde“
+# § 6 – Prüfungsteil „Rechtsgrundlagen, Wirtschafts- und Sozialkunde“
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge in seinem Aufgabenbereich erkennen, analysieren und beurteilen kann.
 
@@ -120,13 +111,11 @@ nachweist.
 
 (3) Die Prüfung ist schriftlich durchzuführen. Dabei sind komplexe praxisbezogene Fragestellungen aus den in Absatz 2 aufgeführten Inhalten zu bearbeiten. Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 7 – Anrechnung anderer Prüfungsleistungen
+# § 7 – Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung einzelner Prüfungsteile nach § 3 Absatz 1 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
-
-## § 8 – Bestehen der Prüfung
+# § 8 – Bestehen der Prüfung
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten.
 
@@ -142,15 +131,13 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">15 Prozent.</td><
 
 (5) Über das Bestehen der Prüfung ist ein Zeugnis nach dem Muster der Anlage 1 und der Anlage 2 auszustellen. Im Fall der Freistellung nach § 7 sind Ort und Datum sowie das Prüfungsgremium und die Bezeichnung der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von der Prüfung in einzelnen Prüfungsteilen nach § 3 Absatz 1 zu befreien, wenn die Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note „ausreichend“ bewertet worden sind und der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 10 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 10 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Zum Nachweis von Fertigkeiten, Kenntnissen und Fähigkeiten, die durch die berufliche Fortbildung zum Fachagrarwirt Klauenpflege und zur Fachagrarwirtin Klauenpflege erworben worden sind, kann die zuständige Stelle Prüfungen nach den §§ 11 bis 18 durchführen. In der Fortbildungsprüfung ist die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen.
 
@@ -176,15 +163,13 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">15 Prozent.</td><
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Fachagrarwirt Klauenpflege“ oder „Fachagrarwirtin Klauenpflege“.
 
-
-## § 11 – Zulassungsvoraussetzungen
+# § 11 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer einen Fortbildungsabschluss „Geprüfter Klauenpfleger“ oder „Geprüfte Klauenpflegerin“ sowie eine anschließende mindestens einjährige berufliche Praxis im Bereich der Klauenpflege nachweisen kann.
 
 (2) Abweichend von den in Absatz 1 genannten Voraussetzungen ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 12 – Gliederung und Inhalt der Prüfung
+# § 12 – Gliederung und Inhalt der Prüfung
 
 (1) Die Prüfung umfasst die Prüfungsteile:
 
@@ -196,15 +181,13 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">15 Prozent.</td><
 
 (2) Die Prüfung ist nach den §§ 13 bis 15 durchzuführen.
 
-
-## § 13 – Prüfungsteil „Rechtliche Bestimmungen“
+# § 13 – Prüfungsteil „Rechtliche Bestimmungen“
 
 (1) Der Prüfling soll nachweisen, dass er die berufsbezogenen Rechtsvorschriften, insbesondere aus den Bereichen Arbeits- und Sozialrecht, Unternehmensrecht, Steuerrecht, Veterinärrecht, Versicherungs- und Haftungsrecht, bei der Führung eines Klauenpflegebetriebes umsetzen und diese im Zusammenhang darstellen kann.
 
 (2) Die Prüfung ist schriftlich durchzuführen. Dabei sind komplexe Fragestellungen aus den in Absatz 1 aufgeführten Inhalten zu bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 14 – Prüfungsteil „Betriebs- und Unternehmensführung“
+# § 14 – Prüfungsteil „Betriebs- und Unternehmensführung“
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann. Hierbei soll auch gezeigt werden, dass Marktanforderungen, berufsbezogene Rechtsvorschriften sowie die Erfordernisse des Tierschutzes, des Umweltschutzes, der Arbeitssicherheit, des Verbraucher- und des Gesundheitsschutzes sowie der Nachhaltigkeit beachtet werden.
 
@@ -236,8 +219,7 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">15 Prozent.</td><
 
 (5) Der Prüfling soll komplexe Fragestellungen aus den in Absatz 2 aufgeführten Inhalten schriftlich bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 15 – Prüfungsteil „Mitarbeiterführung und Qualifizierung“
+# § 15 – Prüfungsteil „Mitarbeiterführung und Qualifizierung“
 
 (1) Der Prüfling soll nachweisen, dass er Mitarbeiter eines Klauenpflegebetriebes unter Anwendung berufs- und arbeitspädagogischer Grundsätze einarbeiten, anleiten und weiterbilden sowie Konflikte lösen kann.
 
@@ -259,13 +241,11 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: left;">15 Prozent.</td><
 
 (5) Der Prüfling soll komplexe Fragestellungen aus den in Absatz 2 aufgeführten Inhalten schriftlich bearbeiten. Die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 16 – Anrechnung anderer Prüfungsleistungen
+# § 16 – Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfling von der Prüfung einzelner Prüfungsbestandteile nach § 13 Absatz 2, § 14 Absatz 3 und § 15 Absatz 3 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht.
 
-
-## § 17 – Bestehen der Prüfung
+# § 17 – Bestehen der Prüfung
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Prüfungsteil „Betriebs- und Unternehmensführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 14 Absatz 4 und in der Prüfung nach § 14 Absatz 5 zu bilden; dabei hat die Note in der Prüfung nach § 14 Absatz 4 das doppelte Gewicht. Für den Prüfungsteil „Mitarbeiterführung und Qualifizierung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 15 Absatz 4 und in der Prüfung nach § 15 Absatz 5 zu bilden, dabei hat die Note in der Prüfung nach § 15 Absatz 4 das doppelte Gewicht.
 
@@ -281,27 +261,23 @@ und Qualifizierung</td><td style="text-align: left;">30 Prozent.</td></tr></tbod
 
 (5) Über das Bestehen der Prüfung ist ein Zeugnis nach dem Muster der Anlage 3 und der Anlage 4 auszustellen. Im Fall der Freistellung nach § 16 sind Ort und Datum sowie das Prüfungsgremium und die Bezeichnung der anderweitig abgelegten Prüfung im Zeugnis anzugeben.
 
-
-## § 18 – Wiederholung der Prüfung
+# § 18 – Wiederholung der Prüfung
 
 (1) Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von der Prüfung in einzelnen Prüfungsteilen nach § 12 Absatz 1 und in einzelnen Prüfungsbestandteilen nach § 17 Absatz 1 zu befreien, wenn die Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note „ausreichend“ bewertet worden sind und der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 19 – Inkrafttreten
+# § 19 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 8 Absatz 5)Muster
+# Anlage 1 – (zu § 8 Absatz 5)Muster
 
 (Fundstelle: BGBl. I 2011, 237)
 
 nach der Klauenpflege-Prüfungsverordnung vom 7. Februar 2011 (BGBl. I S. 232) bestanden.
 
-
-## Anlage 2 – (zu § 8 Absatz 5)Muster
+# Anlage 2 – (zu § 8 Absatz 5)Muster
 
 (Fundstelle: BGBl. I 2011, 238)
 
@@ -310,15 +286,13 @@ nach der Klauenpflege-Prüfungsverordnung vom 7. Februar 2011 (BGBl. I S. 232) m
 (Im Fall des § 7 ist einzufügen: „ „Der Prüfungsteilnehmer“ oder „Die Prüfungsteilnehmerin“ <a href="#F2_775007" class="FnR">*)</a></sup> wurde nach § 7 der oben genannten Verordnung im Hinblick auf die am ...........  in ...........   vor ...........   abgelegte Prüfung  ...........   in dem  
 Prüfungsteil ...........   freigestellt. “)                                          
 
-
-## Anlage 3 – (zu § 17 Absatz 5)Muster
+# Anlage 3 – (zu § 17 Absatz 5)Muster
 
 (Fundstelle: BGBl. I 2011, 239)
 
 nach der Klauenpflege-Prüfungsverordnung vom 7. Februar 2011 (BGBl. I S. 232) bestanden.
 
-
-## Anlage 4 – (zu § 17 Absatz 5)Muster
+# Anlage 4 – (zu § 17 Absatz 5)Muster
 
 (Fundstelle: BGBl. I 2011, 240)
 

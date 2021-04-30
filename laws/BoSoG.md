@@ -1,10 +1,7 @@
-# [BoSoG] Gesetz über die Sonderung unvermessener und überbauter Grundstücke nach der Karte  (Bodensonderungsgesetz - BoSoG)
-
-Ausfertigungsdatum: 20.12.1993
-
+% Gesetz über die Sonderung unvermessener und überbauter Grundstücke nach der Karte  (Bodensonderungsgesetz - BoSoG)
+% Ausfertigungsdatum: 20.12.1993
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Durch einen mit Sonderungsbescheid festgestellten Sonderungsplan kann bei Grundstücken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet bestimmt werden,
 
@@ -16,8 +13,7 @@ Durch einen mit Sonderungsbescheid festgestellten Sonderungsplan kann bei Grunds
 
 4. wie die dinglichen Rechtsverhältnisse an im Zusammenhang bebauten nicht der Zuordnung unterliegenden Grundstücken, die nicht im räumlichen und funktionalen Zusammenhang mit dem Gegenstand eines Zuordnungsplans gemäß § 2 Abs. 2a bis 2c des Vermögenszuordnungsgesetzes stehen, mit den tatsächlichen Nutzungsverhältnissen in Einklang gebracht werden (komplexe Bodenneuordnung).
 
-
-## § 2 – Unvermessenes Eigentum
+# § 2 – Unvermessenes Eigentum
 
 (1) Die Reichweite unvermessenen Eigentums bestimmt sich nach dem Ergebnis einer Einigung der betroffenen Grundeigentümer. Die Einigung bedarf der Form des § 313 des Bürgerlichen Gesetzbuchs, wenn sie nicht im Zuge des Bodensonderungsverfahrens von der Sonderungsbehörde oder einer von dieser beauftragten Person oder Stelle (§ 8 Abs. 1 Satz 2) protokolliert wird; diese darf nicht zur Umgehung der erforderlichen Teilungsgenehmigung führen. Die Einigung bedarf der Zustimmung der bei dem Grundbuchamt bekannten Inhaber von beschränkten dinglichen Rechten an den betroffenen Grundstücken. Die Zustimmung gilt als erteilt, wenn der Einigung nicht nach Aufforderung der Sonderungsbehörde dieser gegenüber innerhalb einer Frist von vier Wochen widersprochen wird. Der Widerspruch ist unbeachtlich, wenn nicht konkrete Anhaltspunkte für eine von der Einigung abweichende materielle Rechtslage angeführt werden.
 
@@ -25,8 +21,7 @@ Durch einen mit Sonderungsbescheid festgestellten Sonderungsplan kann bei Grunds
 
 (3) Kann auch der Besitzstand nicht ermittelt werden oder ist offensichtlich, daß er die Eigentumsverhältnisse nicht darstellen kann, so ist jedem der betroffenen Grundeigentümer ein gleich großes Stück der streitigen Fläche zuzuteilen. Hiervon kann nach billigem Ermessen abgewichen werden, wenn die Zuteilung nach Satz 1 zu einem Ergebnis führt, das mit den feststehenden Umständen nicht in Einklang zu bringen ist.
 
-
-## § 3 – Unvermessene Nutzungsrechte
+# § 3 – Unvermessene Nutzungsrechte
 
 (1) Bei unvermessenen dinglichen Nutzungsrechten bestimmt sich der räumliche Umfang der Befugnis zur Ausübung des Rechtes nach dem Inhalt der Nutzungsrechtsurkunde.
 
@@ -34,13 +29,11 @@ Durch einen mit Sonderungsbescheid festgestellten Sonderungsplan kann bei Grunds
 
 (3) Läßt sich der räumliche Umfang der Befugnis zur Ausübung des Nutzungsrechts aus dem Inhalt der Nutzungsrechtsurkunde nicht entnehmen und ist eine Einigung nicht zu erzielen, so bestimmt sich die Befugnis zur Ausübung des Nutzungsrechts nach Artikel 233 § 4 Abs. 3 Satz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, soweit nicht eine hierüber hinausgehende Zuweisung oder Verleihung nachgewiesen wird. § 2 Abs. 3 gilt sinngemäß.
 
-
-## § 4 – Vollzug des Sachenrechtsbereinigungsgesetzes
+# § 4 – Vollzug des Sachenrechtsbereinigungsgesetzes
 
 In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden dinglichen Rechtsverhältnisse nach dem Sachenrechtsbereinigungsgesetz.
 
-
-## § 5 – Bodenneuordnung
+# § 5 – Bodenneuordnung
 
 (1) Durch Bodenneuordnung können aus Grundstücken, die nicht der Vermögenszuordnung unterliegen, oder Teilen hiervon neue Grundstücke gebildet, beschränkte dingliche Rechte daran begründet oder solche Grundstücke mit Grundstücken vereinigt werden, die Gegenstand eines Zuordnungsplanes sind.
 
@@ -56,8 +49,7 @@ In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden dinglichen Recht
 
 (7) Ein Bodensonderungsverfahren ist unzulässig, solange ein Verfahren nach dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes oder dem Flurbereinigungsgesetz anhängig ist oder wenn die Bodeneigentumsverhältnisse in einem behördlichen Verfahren nach dem 2. Oktober 1990 neu geordnet worden sind. Ein Bodensonderungsverfahren kann durchgeführt werden, wenn ein Verfahren nach dem Vermögenszuordnungsgesetz anhängig ist; jedoch darf der Sonderungsbescheid erst in Kraft gesetzt werden, wenn der Zuordnungsbescheid ergangen ist.
 
-
-## § 6 – Ablauf des Sonderungsverfahrens
+# § 6 – Ablauf des Sonderungsverfahrens
 
 (1) Die Sonderungsbehörde (§ 10) legt unvermessenes Eigentum, unvermessene Nutzungsrechte, den räumlichen Umfang von Ansprüchen nach dem Sachenrechtsbereinigungsgesetz oder von neu zu ordnenden dinglichen Rechtsverhältnissen in einem Sonderungsbescheid (§ 7) fest. Diese Festlegung erfolgt in den Fällen des § 1 Nr. 1, 3 und 4 von Amts wegen, in den Fällen des § 1 Nr. 2 auf Ersuchen der nach dem Sachenrechtsbereinigungsgesetz zuständigen Stelle, in den Fällen des § 1 Nr. 3 auch auf Ersuchen des Präsidenten der Oberfinanzdirektion, der den Zuordnungsplan durch Zuordnungsbescheid erlassen hat oder auf Antrag einer der in § 5 Abs. 4 genannten Stellen. In den Fällen des § 1 Nr. 1 und 2 erfolgt die Festlegung auch auf Antrag eines der betroffenen Grundeigentümer, Inhaber von dinglichen Nutzungsrechten oder Anspruchsberechtigten nach dem Sachenrechtsbereinigungsgesetz (Planbetroffenen). Die Ausübung des Antragsrechts privater Antragsteller ist pfändbar.
 
@@ -67,15 +59,13 @@ In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden dinglichen Recht
 
 (4) In Verfahren nach § 1 Nr. 3 und 4 kann die Sonderungsbehörde anordnen, daß über die dinglichen Rechte an Grundstücken und grundstücksgleichen Rechten bis zum Abschluß des Verfahrens nur mit ihrer Genehmigung verfügt werden darf; die Genehmigung ist zu erteilen, wenn die Verfügung die Durchführung des Verfahrens nicht beeinträchtigen wird. Die Anordnung hindert Verfügungen über das dingliche Recht an dem Grundstück oder grundstücksgleichen Recht nur, wenn im Grundbuch ein Zustimmungsvorbehalt unter Angabe dieser Vorschrift eingetragen ist. Das Grundbuchamt trägt den Zustimmungsvorbehalt nur auf Ersuchen der Sonderungsbehörde ein.
 
-
-## § 7 – Inhalt des Sonderungsbescheids und des Sonderungsplans
+# § 7 – Inhalt des Sonderungsbescheids und des Sonderungsplans
 
 (1) Der Sonderungsbescheid stellt den Sonderungsplan verbindlich fest. Der Sonderungsplan ist Bestandteil des Bescheids. § 3a des Verwaltungsverfahrensgesetzes findet keine Anwendung.
 
 (2) Der Sonderungsplan besteht aus einer Grundstückskarte (§ 8 Abs. 2) und einer Grundstücksliste (§ 8 Abs. 3). Er dient vom Zeitpunkt seiner Feststellung bis zur Übernahme in das Liegenschaftskataster als amtliches Verzeichnis der Grundstücke im Sinne von § 2 Abs. 2 der Grundbuchordnung. Er tritt in Ansehung der aufgeführten Grundstücke an die Stelle eines vorhandenen Ersatzes für das amtliche Verzeichnis.
 
-
-## § 8 – Aufstellung des Sonderungsplans
+# § 8 – Aufstellung des Sonderungsplans
 
 (1) Die Sonderungsbehörde erstellt für das von ihr festgelegte Plangebiet einen Entwurf des Sonderungsplans. Sie kann die Vorbereitung der im Sonderungsverfahren zu treffenden Entscheidungen öffentlich bestellten Vermessungsingenieuren sowie Personen oder Stellen übertragen, die nach den landesrechtlichen Vorschriften zur Ausführung von Katastervermessungen befugt sind. Das Recht, die Grundstücke zu betreten, richtet sich nach den für das Plangebiet geltenden landesrechtlichen Vorschriften über die Katastervermessung.
 
@@ -89,8 +79,7 @@ In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden dinglichen Recht
 
 (6) Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Gestaltung des Sonderungsplans, auch durch Bestimmung von Mustern, unter Berücksichtigung der für die Führung des Liegenschaftskatasters bestehenden Vorschriften festzulegen.
 
-
-## § 9 – Erlaß des Sonderungsbescheids
+# § 9 – Erlaß des Sonderungsbescheids
 
 (1) Nach Ablauf der in § 8 Abs. 4 und 5 genannten Frist stellt die Sonderungsbehörde den Sonderungsplan durch einen Bescheid verbindlich fest. Der Sonderungsplan ist Bestandteil des Bescheids. Sofern den nach § 8 Abs. 4 und 5 erhobenen Einwänden nicht gefolgt wird, ist dies zu begründen.
 
@@ -100,23 +89,19 @@ In den Fällen des § 1 Nr. 2 bestimmen sich die festzulegenden dinglichen Recht
 
 (4) Der nach anderen Vorschriften vorgeschriebenen Genehmigung für die Teilung von Grundstücken bedarf es bei einer Entscheidung durch Sonderungsbescheid nicht.
 
-
-## § 10 – Sonderungsbehörde
+# § 10 – Sonderungsbehörde
 
 Sonderungsbehörde ist in den Fällen des § 1 Nr. 3 und 4 die Gemeinde, im übrigen die für die Führung des Liegenschaftskatasters zuständige Behörde. Die Sonderungsbehörde kann ihre Befugnis zur Durchführung eines Sonderungsverfahrens für das ganze Gemeindegebiet oder Teile desselben für einzelne Verfahren oder auf Dauer auf eine andere geeignete Behörde übertragen. Die Einzelheiten der Übertragung einschließlich der Mitwirkungsrechte der Sonderungsbehörde können in einer Vereinbarung zwischen ihr und der anderen Behörde geregelt werden.
 
-
-## § 11 – Besonderheiten bei der ergänzenden Bodenneuordnung
+# § 11 – Besonderheiten bei der ergänzenden Bodenneuordnung
 
 Ist bei Einleitung des Sonderungsverfahrens nach § 5 Abs. 2 ein Zuordnungsbescheid nach § 2 Abs. 2b des Vermögenszuordnungsgesetzes bereits ergangen, so kann die Grundstückskarte durch entsprechende grafische Darstellungen im Zuordnungsplan ersetzt werden. Liegt ein Zuordnungsbescheid nach § 2 Abs. 2b des Vermögenszuordnungsgesetzes noch nicht vor, so können Zuordnungs- und Sonderungsplan verbunden werden. In beiden Fällen ist in dem Plan grafisch das Gebiet der Zuordnung von dem der Sonderung abzugrenzen. Der Sonderungsbescheid ist auf die grafisch als Sonderungsgebiet abgegrenzten Teile des Zuordnungsplans oder des einheitlichen Plans zu beschränken.
 
-
-## § 12 – Aussetzung von Verfahren
+# § 12 – Aussetzung von Verfahren
 
 Die Sonderungsbehörde kann ein Verfahren nach diesem Gesetz aussetzen, soweit im Plangebiet ein Verfahren nach dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes, dem Flurbereinigungsgesetz, dem Vierten Teil des Baugesetzbuchs oder nach dem Sachenrechtsbereinigungsgesetz eingeleitet ist oder wird. Die Sonderungsbehörde erhält über die Einleitung eines solchen Verfahrens eine Nachricht; sie benachrichtigt ihrerseits die betreffenden Behörden über die Einleitung eines Sonderungsverfahrens.
 
-
-## § 13 – Umfang der Grundstücksrechte im Sonderungsgebiet
+# § 13 – Umfang der Grundstücksrechte im Sonderungsgebiet
 
 (1) Mit Bestandskraft des Sonderungsbescheids haben die Grundstücke den in dem Sonderplan bezeichneten Umfang. Zu diesem Zeitpunkt werden unabhängig von der späteren Eintragung im Grundbuch in einem Sonderungsplan nach § 4 oder § 5 enthaltene Bestimmungen über die Änderung, Aufhebung oder Begründung von Eigentums- und beschränkten dinglichen Rechten an Grundstücken und grundstücksgleichen Rechten oder von Baulasten im Gebiet des Sonderungsplans wirksam.
 
@@ -130,13 +115,11 @@ Die Sonderungsbehörde kann ein Verfahren nach diesem Gesetz aussetzen, soweit i
 
 2. das neu gebildete Grundstück für die Rückübertragung geteilt werden müßte.
 
-
-## § 14 – Bereicherungsausgleich
+# § 14 – Bereicherungsausgleich
 
 In den Fällen des § 1 Nr. 1 kann, soweit der festgestellte Umfang des Grundstücks oder der Befugnis zur Ausübung des dinglichen Nutzungsrechts nicht auf einer Einigung beruht und nicht im Einklang mit den früheren Eigentums- oder dinglichen Nutzungsrechtsverhältnissen steht, jeder benachteiligte Eigentümer oder Inhaber von dinglichen Nutzungsrechten von dem auf seine Kosten begünstigten Eigentümer oder Inhaber eines dinglichen Nutzungsrechts die Übertragung des diesem zugewiesenen Teils des Grundstückseigentums oder dinglichen Nutzungsrechts oder eine entsprechende Übertragung solcher Rechte nach Maßgabe der Vorschriften über die ungerechtfertigte Bereicherung verlangen. Teilungsgenehmigungen auch nach Landesrecht sind zur Erfüllung dieser Ansprüche nicht erforderlich.
 
-
-## § 15 – Ausgleich für Rechtsverlust
+# § 15 – Ausgleich für Rechtsverlust
 
 (1) Demjenigen, der durch die Bodenneuordnung (§ 5) ein dingliches Recht an einem Grundstück oder ein selbständiges Gebäudeeigentum verliert, steht gegen den Träger der Sonderungsbehörde im Umfang des Verlustes nur die in dem Sachenrechtsbereinigungsgesetz für den Ankaufsfall vorgesehenen Ansprüche zu. Bei Grundstücken, für die vermögensrechtliche Ansprüche angemeldet worden sind, steht dieser Anspruch demjenigen zu, dem das Eigentum an dem Grundstück ohne die Bodenneuordnung aufgrund der Anmeldung zurückzuübertragen gewesen wäre; aus diesem Betrag sind die aus dem Vermögensgesetz folgenden Verpflichtungen des Berechtigten zu erfüllen.
 
@@ -150,18 +133,15 @@ In den Fällen des § 1 Nr. 1 kann, soweit der festgestellte Umfang des Grundst�
 
 (6) Über Entschädigungsansprüche und Ausgleichspflichten nach dieser Vorschrift kann ganz oder teilweise gesondert entschieden werden.
 
-
-## § 16 – Einrede der Sonderung
+# § 16 – Einrede der Sonderung
 
 Soweit ein Sonderungsverfahren nach diesem Gesetz anhängig und nicht ausgesetzt ist, kann Ansprüchen aus § 919 oder § 920 des Bürgerlichen Gesetzbuchs oder auf Feststellung des Eigentums die Einrede der Sonderung entgegengehalten werden.
 
-
-## § 17 – Kosten
+# § 17 – Kosten
 
 Die Kosten des Verwaltungsverfahrens tragen, soweit nichts Besonderes bestimmt ist, die Eigentümer der in den Sonderungsplan aufgenommenen Grundstücke im Verhältnis der Größe der Grundstücke. In den Fällen des § 3 tragen Eigentümer und Nutzer die auf das Grundstück entfallenden Kosten zu gleichen Teilen. Die Behörde kann eine abweichende Verteilung der Kosten nach billigem Ermessen namentlich dann anordnen, wenn die Rechtsverfolgung ganz oder teilweise mutwillig erscheint. Die Berichtigung des Grundbuchs ist kostenfrei. Im übrigen gilt § 108 Abs. 1 und 2 des Flurbereinigungsgesetzes sinngemäß.
 
-
-## § 18 – Antrag auf gerichtliche Entscheidung
+# § 18 – Antrag auf gerichtliche Entscheidung
 
 (1) Sonderungsbescheide sowie sonstige Bescheide nach diesem Gesetz können von Planbetroffenen nur durch Antrag auf gerichtliche Entscheidung angefochten werden. Über den Antrag entscheidet eine Zivilkammer des Landgerichts, in dessen Bezirk die Sonderungsbehörde ihren Sitz hat. Der Antrag kann erst nach vorausgegangenem Verwaltungsvorverfahren nach dem 8. Abschnitt der Verwaltungsgerichtsordnung gestellt werden, für das die Stelle zuständig ist, die nach dem Landesrecht die allgemeine Aufsicht über die Sonderungsbehörde führt. Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren Einzelheiten zu regeln und hierbei auch von den Bestimmungen der Verwaltungsgerichtsordnung abzuweichen, soweit dies für Verfahren nach diesem Gesetz erforderlich ist, sowie die Zuständigkeit für das Verwaltungsvorverfahren anders zu bestimmen.
 
@@ -173,8 +153,7 @@ Die Kosten des Verwaltungsverfahrens tragen, soweit nichts Besonderes bestimmt i
 
 (5) Auf das Verfahren sind die Vorschriften des § 217 Abs. 4, des § 218 Abs. 1, des § 221 Abs. 2 und 3, des § 222 Abs. 1 und 2 sowie der §§ 227 und 228 des Baugesetzbuchs sinngemäß anzuwenden. Im übrigen gelten die bei Klagen in bürgerlichen Rechtsstreitigkeiten anzuwendenden Vorschriften entsprechend. § 78 der Zivilprozeßordnung findet auf Gebietskörperschaften und die Sonderungsbehörden keine Anwendung.
 
-
-## § 19 – Rechtsmittel
+# § 19 – Rechtsmittel
 
 (1) Gegen die Entscheidung des Landgerichts ist das Rechtsmittel der Beschwerde zulässig, wenn die Entscheidung auf einer Verletzung des Rechts beruht und der Wert des Beschwerdegegenstandes 5.000 Euro übersteigt. Die Vorschriften der §§ 546, 547, 559, 561 der Zivilprozeßordnung finden entsprechende Anwendung.
 
@@ -182,8 +161,7 @@ Die Kosten des Verwaltungsverfahrens tragen, soweit nichts Besonderes bestimmt i
 
 (3) Über die Beschwerde entscheidet ein Zivilsenat des Oberlandesgerichts. Will das Oberlandesgericht von einer aufgrund dieses Gesetzes ergangenen Entscheidung eines anderen Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es die Sache unter Begründung seiner Rechtsauffassung dem Bundesgerichtshof vor. Dieser entscheidet in diesen Fällen an Stelle des Oberlandesgerichts.
 
-
-## § 20 – Unterrichtung anderer Stellen, Fortschreibung
+# § 20 – Unterrichtung anderer Stellen, Fortschreibung
 
 (1) Soweit die Sonderungsbehörde nicht für die Führung des Liegenschaftskatasters zuständig ist, übersendet sie dieser Behörde eine beglaubigte Abschrift des Sonderungsbescheides und bis zu dessen Übernahme in das Liegenschaftskataster auch Nachweise über Veränderungen nach Absatz 2.
 
@@ -191,19 +169,16 @@ Die Kosten des Verwaltungsverfahrens tragen, soweit nichts Besonderes bestimmt i
 
 (3) Eine beglaubigte Abschrift des Sonderungsplans erhält auch das Grundbuchamt. Diesem sind Veränderungen des Sonderungsplans wie Veränderungen im amtlichen Verzeichnis nachzuweisen. Soweit das Grundbuchamt der für die Führung des Liegenschaftskatasters zuständigen Behörde Veränderungen im Grundbuch nachzuweisen hat, erteilt es diese Nachweise bis zur Übernahme des Sonderungsplans in das amtliche Verzeichnis der nach Absatz 2 für die Fortschreibung zuständigen Stelle.
 
-
-## § 21 – Verhältnis zu anderen Verfahren
+# § 21 – Verhältnis zu anderen Verfahren
 
 Verfahren nach diesem Gesetz stehen Verfahren nach dem Baugesetzbuch, dem 8. Abschnitt des Landwirtschaftsanpassungsgesetzes, dem Flurbereinigungsgesetz oder den Zuordnungsvorschriften nicht entgegen.
 
-
-## § 22 – Überleitungsbestimmung
+# § 22 – Überleitungsbestimmung
 
 (1) Bis zum Erlaß des Sachenrechtsbereinigungsgesetzes behält sich die Sonderungsbehörde eine endgültige Entscheidung über Ansprüche nach § 14 vor. Sie kann den Begünstigten die Zahlung oder Hinterlegung von Abschlägen aufgeben.
 
 (2) In einem Sonderungsbescheid nach diesem Gesetz kann auch bestimmt werden, auf welchen Grundstücken sich Gebäudeeigentum nach Artikel 233 § 2b des Einführungsgesetzes zum Bürgerlichen Gesetzbuche befindet.
 
-
-## § 23 – Verordnungsermächtigung
+# § 23 – Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die grundbuchmäßige Behandlung von Anteilen an ungetrennten Hofräumen zu regeln.

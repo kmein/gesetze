@@ -1,15 +1,11 @@
-# [TeleGebV] Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik  (Telematikgebührenverordnung)
-
-Ausfertigungsdatum: 04.09.2017
-
+% Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik  (Telematikgebührenverordnung)
+% Ausfertigungsdatum: 04.09.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches Sozialgesetzbuch, der durch Artikel 1 Nummer 12 Buchstabe e des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2408) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Gebührenerhebung; Entstehung der Gebührenschuld
+# § 1 – Gebührenerhebung; Entstehung der Gebührenschuld
 
 (1) Die Gesellschaft für Telematik erhebt für von ihr erbrachte individuell zurechenbare öffentliche Leistungen nach § 291b Absatz 1a bis 1c und 1e des Fünften Buches Sozialgesetzbuch Gebühren und Auslagen nach den folgenden Vorschriften.
 
@@ -17,8 +13,7 @@ Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches Sozialgesetzbuch, der
 
 (3) Wird ein Antrag zurückgenommen, entsteht die Gebührenschuld für eine individuell zurechenbare öffentliche Leistung nach Absatz 1 mit der Rücknahme des Antrags.
 
-
-## § 2 – Gebührenschuldner
+# § 2 – Gebührenschuldner
 
 (1) Zur Zahlung der Gebühren und zur Erstattung der Auslagen ist derjenige verpflichtet, der
 
@@ -30,8 +25,7 @@ Auf Grund des § 291b Absatz 1d Satz 3 des Fünften Buches Sozialgesetzbuch, der
 
 (2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
-
-## § 3 – Höhe der Gebühr
+# § 3 – Höhe der Gebühr
 
 (1) Die Gebühr beträgt für
 
@@ -69,15 +63,13 @@ Für die Bemessung der konkreten Gebühr gilt § 9 Absatz 1 des Bundesgebühreng
 
 (4) Den Gebühren und Auslagen ist die gesetzliche Umsatzsteuer hinzuzurechnen.
 
-
-## § 4 – Gebührenbefreiung und Gebührenermäßigung
+# § 4 – Gebührenbefreiung und Gebührenermäßigung
 
 (1) Auf Antrag des Gebührenschuldners kann die Gebühr ganz oder teilweise erlassen werden, wenn an der beantragten Zulassung oder Bestätigung ein besonderes öffentliches Interesse besteht und der Antragsteller einen den Gebühren und dem Entwicklungsaufwand angemessenen wirtschaftlichen Nutzen nicht erwarten kann. Satz 1 gilt für Auslagen entsprechend.
 
 (2) Zur Einführung eines neuen technischen Stands der Telematikinfrastruktur kann die Gesellschaft für Telematik beschließen, abweichend von § 3 Absatz 1 Satz 2 für alle Zulassungen und Bestätigungen, die sie in einem von ihr zu benennenden Zeitraum erlässt, die Gebühren um einen von ihr zu benennenden Faktor zu ermäßigen.
 
-
-## § 5 – Gebühren in besonderen Fällen
+# § 5 – Gebühren in besonderen Fällen
 
 (1) Wird ein Antrag aus formalen Gründen abgelehnt, beträgt die Gebühr 50 Euro. Wird ein Antrag aus inhaltlichen Gründen abgelehnt, entspricht die Gebühr dem Prüfaufwand, der bis zur Entscheidung über die Ablehnung angefallen ist. Die Gebühr ist jedoch begrenzt auf den Höchstsatz, der für die beantragte individuell zurechenbare öffentliche Leistung vorgesehen ist.
 
@@ -87,22 +79,18 @@ Für die Bemessung der konkreten Gebühr gilt § 9 Absatz 1 des Bundesgebühreng
 
 (4) Für die Rücknahme oder den Widerruf einer Zulassung oder Bestätigung kann, soweit der Adressat dies zu vertreten hat, eine Gebühr bis zur Höhe des für die jeweilige Zulassung oder Bestätigung vorgesehenen Höchstsatzes erhoben werden.
 
-
-## § 6 – Auslagen
+# § 6 – Auslagen
 
 Als Auslagen werden die Kosten gesondert in der tatsächlich entstandenen Höhe erhoben, die nicht bereits in die Gebühr einbezogen sind, und im Zusammenhang mit dem Zulassungs- oder Bestätigungsverfahren bei Geschäften außerhalb des Dienstsitzes entstehen für die Vergütungen, die den Mitarbeitern der Gesellschaft für Telematik auf Grund gesetzlicher oder vertraglicher Bestimmungen zu gewähren sind, oder die für die Bereitstellung von Räumen entstehen.
 
-
-## § 7 – Anwendung des Bundesgebührengesetzes
+# § 7 – Anwendung des Bundesgebührengesetzes
 
 Die §§ 14, 16 bis 19 und 21 des Bundesgebührengesetzes zur Fälligkeit, zum Säumniszuschlag, zur Stundung, zur Niederschlagung, zum Erlass, zur Verjährung und zur Erstattung sind entsprechend anzuwenden.
 
-
-## § 8 – Übergangsregelung
+# § 8 – Übergangsregelung
 
 Für individuell zurechenbare öffentliche Leistungen, die vor Inkrafttreten dieser Verordnung vorgenommen worden sind, können Gebühren und Auslagen nach Maßgabe dieser Verordnung erhoben werden, sofern bei diesen Leistungen unter Hinweis auf den bevorstehenden Erlass dieser Verordnung eine Festsetzung von Gebühren und Auslagen ausdrücklich vorbehalten und der Antragsteller über die voraussichtliche Höhe der Gebühren und Auslagen informiert worden ist. Bei individuell zurechenbaren öffentlichen Leistungen, die vor dem 29. Dezember 2015 beantragt worden sind, dürfen die Gebühren und Auslagen die in dem am 28. Dezember 2015 geltenden Entgeltkatalog der Gesellschaft für Telematik für diese Leistungen vorgesehenen Beträge nicht übersteigen.
 
-
-## § 9 – Inkrafttreten
+# § 9 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

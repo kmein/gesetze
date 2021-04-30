@@ -1,15 +1,11 @@
-# [FrStllgV] Verordnung über die Befreiung bestimmter Beförderungsfälle von den Vorschriften des Personenbeförderungsgesetzes  (Freistellungs-Verordnung)
-
-Ausfertigungsdatum: 30.08.1962
-
+% Verordnung über die Befreiung bestimmter Beförderungsfälle von den Vorschriften des Personenbeförderungsgesetzes  (Freistellungs-Verordnung)
+% Ausfertigungsdatum: 30.08.1962
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 58 Abs. 1 Nr. 1 des Personenbeförderungsgesetzes vom 21. März 1961 (Bundesgesetzbl. I S. 241) wird mit Zustimmung der Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 Von den Vorschriften des Personenbeförderungsgesetzes werden freigestellt
 
@@ -61,17 +57,14 @@ Satz 1 Nummer 4 gilt für entgeltliche Beförderungen mit einem Kraftomnibus nur
 
 § 1 Satz 1 Nr. 5: Gilt nicht in Berlin gemäß § 2
 
-
-## § 2
+# § 2
 
 Diese Verordnung - mit Ausnahme des § 1 Nr. 5 - gilt nach § 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 66 des Personenbeförderungsgesetzes auch im Land Berlin.
 
-
-## § 3
+# § 3
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

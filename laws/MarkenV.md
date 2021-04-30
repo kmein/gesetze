@@ -1,15 +1,11 @@
-# [MarkenV] Verordnung zur Ausführung des Markengesetzes  (Markenverordnung - MarkenV)
-
-Ausfertigungsdatum: 11.05.2004
-
+% Verordnung zur Ausführung des Markengesetzes  (Markenverordnung - MarkenV)
+% Ausfertigungsdatum: 11.05.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 65 Abs. 1 Nr. 2 bis 10 und 13 sowie des § 138 Abs. 1 des Markengesetzes vom 25. Oktober 1994 (BGBl. 1994 I S. 3084, 1995 I S. 156), von denen § 65 Abs. 1 zuletzt durch Artikel 2 Abs. 9 des Gesetzes vom 12. März 2004 (BGBl. I S. 390) geändert worden ist, in Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl. I S. 514) verordnet das Deutsche Patent- und Markenamt:
 
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Teil 1
 
@@ -480,22 +476,19 @@ Inkrafttreten, Außerkrafttreten
 Anhang  
 (weggefallen)
 
-
-## § 1 – Verfahren in Markenangelegenheiten
+# § 1 – Verfahren in Markenangelegenheiten
 
 (1) Für die im Markengesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt (Markenangelegenheiten) gelten ergänzend zu den Bestimmungen des Markengesetzes und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
 
 (2) DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen Patent- und Markenamt archivmäßig gesichert niedergelegt.
 
-
-## § 2 – Form der Anmeldung
+# § 2 – Form der Anmeldung
 
 (1) Die Anmeldung kann schriftlich oder elektronisch eingereicht werden. Für die schriftliche Anmeldung ist das vom Deutschen Patent- und Markenamt herausgegebene Formblatt zu verwenden. Für die elektronische Einreichung ist die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
 
 (2) Für jede Marke ist eine gesonderte Anmeldung erforderlich.
 
-
-## § 3 – Inhalt der Anmeldung
+# § 3 – Inhalt der Anmeldung
 
 (1) Die Anmeldung muss enthalten:
 
@@ -511,8 +504,7 @@ Anhang
 
 2. eine Ausstellungspriorität in Anspruch genommen, so ist eine entsprechende Erklärung abzugeben sowie der Tag der erstmaligen Zurschaustellung und die Ausstellung anzugeben.
 
-
-## § 4 – Anmeldung von Kollektiv- oder Gewährleistungsmarken
+# § 4 – Anmeldung von Kollektiv- oder Gewährleistungsmarken
 
 (1) Falls die Eintragung als Kollektiv- oder Gewährleistungsmarke beantragt wird, muss eine entsprechende Erklärung bei der Anmeldung abgegeben werden.
 
@@ -522,8 +514,7 @@ Anhang
 
 (4) Die Absätze 2 und 3 gelten auch für Satzungsänderungen nach Eintragung.
 
-
-## § 5 – Angaben zum Anmelder und zu seinem Vertreter
+# § 5 – Angaben zum Anmelder und zu seinem Vertreter
 
 (1) Die Anmeldung muss zum Anmelder folgende Angaben enthalten:
 
@@ -543,8 +534,7 @@ Wenn der Anmelder seinen Wohnsitz oder Sitz im Ausland hat, so ist bei der Angab
 
 (4) Ist ein Vertreter bestellt, so gelten hinsichtlich der Angaben zum Vertreter die Absätze 1 und 2 entsprechend. Hat das Deutsche Patent- und Markenamt dem Vertreter die Nummer einer allgemeinen Vollmacht zugeteilt, so soll diese zusätzlich angegeben werden.
 
-
-## § 6 – Angaben zur Markenform
+# § 6 – Angaben zur Markenform
 
 In der Anmeldung ist anzugeben, ob die Marke als
 
@@ -564,8 +554,7 @@ In der Anmeldung ist anzugeben, ob die Marke als
 
 in das Register eingetragen werden soll.
 
-
-## § 6a – Markendarstellung
+# § 6a – Markendarstellung
 
 (1) Die Marke bedarf einer Darstellung, die den Erfordernissen des § 8 Absatz 1 des Markengesetzes genügt. Die Darstellung kann in Papierform oder auf einem Datenträger eingereicht werden. Der Datenträger muss vom Deutschen Patent- und Markenamt auslesbar sein. Die beim Deutschen Patent- und Markenamt lesbaren Datenträgertypen und Formatierungen werden auf der Internetseite www.dpma.de bekannt gegeben. Ist nach Maßgabe dieser Verordnung die Einreichung mehrerer Ansichten möglich, müssen alle Ansichten in einer einzigen Datei enthalten sein. Ist der Datenträger nicht lesbar, gilt die Darstellung als nicht eingereicht.
 
@@ -573,8 +562,7 @@ in das Register eingetragen werden soll.
 
 (3) Ist die Darstellung einer Markenform durch verschiedene Mittel möglich, entscheidet der Anmelder über die Art der Darstellung. Wird die gleiche Darstellung der Marke auf Papier und auf einem Datenträger eingereicht, ist die Darstellung auf einem Datenträger für den Schutzgegenstand maßgeblich. Für die Bestimmung des Anmeldetages ist in den Fällen des Satzes 2 das zuerst eingereichte Darstellungsmittel maßgeblich.
 
-
-## § 6b – Markenbeschreibung
+# § 6b – Markenbeschreibung
 
 (1) Für alle Markenformen außer Wortmarken im Sinne des § 7 kann mit der Markenanmeldung zur Erläuterung der Markendarstellung eine Markenbeschreibung eingereicht werden.
 
@@ -584,13 +572,11 @@ in das Register eingetragen werden soll.
 
 (4) Die Markenbeschreibung darf bis zu 150 Wörter enthalten und ist auf einem gesonderten Blatt im Format 21 x 29,7 Zentimeter (DIN A4) einzureichen. Sie muss aus einem fortlaufenden Text bestehen und darf keine grafischen oder sonstigen Gestaltungselemente enthalten.
 
-
-## § 7 – Wortmarken
+# § 7 – Wortmarken
 
 Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent- und Markenamt verwendeten üblichen Druckschrift eingetragen werden soll, so ist die Marke in der Anmeldung in üblichen Schriftzeichen (Buchstaben, Zahlen oder sonstige Zeichen) wiederzugeben. Die beim Deutschen Patent- und Markenamt üblichen Schriftzeichen werden auf der Internetseite www.dpma.de bekannt gegeben.
 
-
-## § 8 – Bildmarken
+# § 8 – Bildmarken
 
 (1) Wenn der Anmelder angibt, dass die Marke als Wort-Bild-Marke oder reine Bildmarke eingetragen werden soll, so ist der Anmeldung eine grafische Darstellung der Marke beizufügen. Soll die Marke in Schwarz-Weiß eingetragen werden, so ist die grafische Darstellung in Schwarz-Weiß einzureichen. Soll die Marke in Farbe eingetragen werden, so ist die grafische Darstellung in Farbe einzureichen und die Farben sind in der Anmeldung zu bezeichnen.
 
@@ -607,8 +593,7 @@ Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent- und Marken
 (+++ § 8: Zur Anwendung vgl. §§ 12 Abs. 2, 12a Abs. 2 +++)  
 (+++ § 8 Abs. 2 bis 6: Zur Anwendung vgl. §§ 9 Abs. 4, 10 Abs. 3, 11 Abs. 3 +++)
 
-
-## § 9 – Dreidimensionale Marken
+# § 9 – Dreidimensionale Marken
 
 (1) Wenn der Anmelder angibt, dass die Marke als dreidimensionale Marke eingetragen werden soll, so ist der Anmeldung eine Darstellung der Marke beizufügen, die den Erfordernissen des § 8 Absatz 1 des Markengesetzes genügt. Soll die Marke in Schwarz-Weiß eingetragen werden, so ist die Darstellung in Schwarz-Weiß einzureichen. Soll die Marke in Farbe eingetragen werden, so ist die Darstellung in Farbe einzureichen und die Farben sind in der Anmeldung zu bezeichnen.
 
@@ -620,8 +605,7 @@ Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent- und Marken
 
 (+++ § 9: Zur Anwendung vgl. §§ 12 Abs. 2, 12a Abs. 2 +++)
 
-
-## § 10 – Farbmarken
+# § 10 – Farbmarken
 
 (1) Wenn der Anmelder angibt, dass die Marke als Farbmarke eingetragen werden soll, so ist der Anmeldung einer einfarbigen abstrakten Farbmarke ein Farbmuster beizufügen. Die Farbe ist mit der Nummer eines international anerkannten Farbklassifikationssystems zu bezeichnen.
 
@@ -631,8 +615,7 @@ Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent- und Marken
 
 (+++ § 10: Zur Anwendung vgl. §§ 12 Abs. 2, 12a Abs. 2 +++)
 
-
-## § 11 – Klangmarken
+# § 11 – Klangmarken
 
 (1) Wenn der Anmelder angibt, dass die Marke als Klangmarke eingetragen werden soll, so ist der Anmeldung eine Darstellung auf einem Datenträger oder eine grafische Darstellung der Klangmarke beizufügen.
 
@@ -642,30 +625,25 @@ Wenn der Anmelder angibt, dass die Marke in der vom Deutschen Patent- und Marken
 
 (+++ § 11: Zur Anwendung vgl. §§ 12 Abs. 2, 12a Abs. 2 +++)
 
-
-## § 12 – Positionsmarken, Kennfadenmarken, Mustermarken, Bewegungsmarken, Multimediamarken, Hologrammmarken
+# § 12 – Positionsmarken, Kennfadenmarken, Mustermarken, Bewegungsmarken, Multimediamarken, Hologrammmarken
 
 (1) Wenn der Anmelder angibt, dass die Marke als Positionsmarke, Kennfadenmarke, Mustermarke, Bewegungsmarke, Multimediamarke oder als Hologrammmarke eingetragen werden soll, so ist der Anmeldung eine Darstellung der Marke beizufügen, die den Erfordernissen des § 8 Absatz 1 des Markengesetzes genügt.
 
 (2) Für die Form der Darstellung gelten die §§ 8 bis 11 entsprechend.
 
-
-## § 12a – Sonstige Markenformen
+# § 12a – Sonstige Markenformen
 
 (1) Meldet der Anmelder eine Marke an, die nicht unter die Markenformen der §§ 7 bis 12 fällt, kann die Marke als sonstige Marke eingetragen werden. Der Anmeldung ist eine Darstellung der Marke beizufügen, die den Erfordernissen des § 8 Absatz 1 des Markengesetzes genügt. Unter den Voraussetzungen des § 6a Absatz 2 kann die Darstellung auch durch Text erfolgen.
 
 (2) Für die Form der Darstellung gelten im Übrigen die §§ 8 bis 11 entsprechend.
 
-
-## § 13 – Muster und Modelle
+# § 13 – Muster und Modelle
 
 Der Anmeldung dürfen keine Muster oder Modelle der mit der Marke versehenen Gegenstände oder der Marke selbst beigefügt werden.
 
+# § 14 – (weggefallen)
 
-## § 14 – (weggefallen)
-
-
-## § 15 – Fremdsprachige Anmeldungen, Darstellungen mit nichtlateinischen Schriftzeichen
+# § 15 – Fremdsprachige Anmeldungen, Darstellungen mit nichtlateinischen Schriftzeichen
 
 (1) Anmeldungen, die in fremder Sprache eingereicht werden, wird ein Anmeldetag nach § 33 Absatz 1 des Markengesetzes zuerkannt, sofern die Voraussetzungen des § 32 Absatz 2 des Markengesetzes erfüllt sind.
 
@@ -677,8 +655,7 @@ Der Anmeldung dürfen keine Muster oder Modelle der mit der Marke versehenen Geg
 
 (5) Die Prüfung der Anmeldung und alle weiteren Verfahren vor dem Deutschen Patent- und Markenamt finden auf Grundlage der deutschen Übersetzung statt.
 
-
-## § 16 – Fremdsprachige Dokumente
+# § 16 – Fremdsprachige Dokumente
 
 (1) Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
 
@@ -696,25 +673,21 @@ sind nur auf Anforderung des Deutschen Patent- und Markenamts nachzureichen. Das
 
 (5) Wird die Übersetzung im Sinne der Absätze 2 bis 4 nach Ablauf der Frist eingereicht, so gilt das fremdsprachige Dokument als zum Zeitpunkt des Eingangs der Übersetzung eingegangen. Wird keine Übersetzung eingereicht, so gilt das fremdsprachige Dokument als nicht eingegangen.
 
-
-## § 17 – Berufung auf eine im Ursprungsland eingetragene Marke
+# § 17 – Berufung auf eine im Ursprungsland eingetragene Marke
 
 (1) Beruft sich der Anmelder auf eine im Ursprungsland eingetragene Marke nach Artikel 6 quinquies der Pariser Verbandsübereinkunft, so kann die entsprechende Erklärung auch noch nach der Anmeldung abgegeben werden.
 
 (2) Der Anmelder hat eine von der zuständigen Behörde ausgestellte Bescheinigung über die Eintragung im Ursprungsland vorzulegen.
 
-
-## § 18 – Verschiebung des Zeitrangs bei Verkehrsdurchsetzung
+# § 18 – Verschiebung des Zeitrangs bei Verkehrsdurchsetzung
 
 Ergibt sich bei der Prüfung, dass die Voraussetzungen für die Verschiebung des Zeitrangs nach § 37 Abs. 2 des Markengesetzes gegeben sind, so unterrichtet das Deutsche Patent- und Markenamt den Anmelder entsprechend. In den Akten der Anmeldung wird der Tag vermerkt, der für die Bestimmung des Zeitrangs maßgeblich ist. Der Anmeldetag nach § 33 Abs. 1 des Markengesetzes bleibt im Übrigen unberührt.
 
-
-## § 19 – Klassifizierung
+# § 19 – Klassifizierung
 
 Die Klassifizierung der Waren und Dienstleistungen richtet sich nach der vom Deutschen Patent- und Markenamt im Bundesanzeiger bekannt gemachten jeweils gültigen Fassung der Klasseneinteilung und der alphabetischen Listen der Waren und Dienstleistungen gemäß dem in der Genfer Fassung vom 13. Mai 1977 des Abkommens vom 15. Juni 1957 von Nizza über die internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken (BGBl. 1981 II S. 358, 359) festgelegten Klassifikationssystem (Nizza-Klassifikation).
 
-
-## § 20 – Verzeichnis der Waren und Dienstleistungen
+# § 20 – Verzeichnis der Waren und Dienstleistungen
 
 (1) Die Waren und Dienstleistungen sind so zu bezeichnen, dass die Klassifizierung jeder einzelnen Ware oder Dienstleistung in eine Klasse der Klasseneinteilung nach § 19 möglich ist.
 
@@ -728,18 +701,15 @@ Die Klassifizierung der Waren und Dienstleistungen richtet sich nach der vom Deu
 
 (6) Das Verzeichnis der Waren und Dienstleistungen ist bei der schriftlichen Anmeldung in Schriftgrad 11 Punkt und mit einem Zeilenabstand von eineinhalb Zeilen abzufassen.
 
-
-## § 21 – Entscheidung über die Klassifizierung
+# § 21 – Entscheidung über die Klassifizierung
 
 (1) Sind die Waren und Dienstleistungen in der Anmeldung nicht zutreffend klassifiziert, so entscheidet das Deutsche Patent- und Markenamt über die Klassifizierung.
 
 (2) Das Deutsche Patent- und Markenamt legt als Leitklasse die Klasse der Klasseneinteilung fest, auf der der Schwerpunkt der Anmeldung liegt. Es ist insoweit an eine Angabe des Anmelders über die Leitklasse nicht gebunden. Das Deutsche Patent- und Markenamt berücksichtigt eine vom Anmelder angegebene Leitklasse bei der Gebührenzahlung.
 
+# § 22 – (weggefallen)
 
-## § 22 – (weggefallen)
-
-
-## § 23 – Veröffentlichungen zur Anmeldung
+# § 23 – Veröffentlichungen zur Anmeldung
 
 (1) Die Veröffentlichung der Anmeldung einer Marke umfasst folgende Angaben:
 
@@ -771,15 +741,13 @@ Die Klassifizierung der Waren und Dienstleistungen richtet sich nach der vom Deu
 
 (3) Die Veröffentlichung kann in elektronischer Form erfolgen.
 
-
-## § 24 – Ort und Form des Registers
+# § 24 – Ort und Form des Registers
 
 (1) Das Register wird beim Deutschen Patent- und Markenamt geführt.
 
 (2) Seit dem 1. August 1999 wird das Register in Form einer elektronischen Datenbank betrieben.
 
-
-## § 25 – Inhalt des Registers
+# § 25 – Inhalt des Registers
 
 In das Register werden eingetragen:
 
@@ -823,8 +791,7 @@ In das Register werden eingetragen:
 
 20. der Tag der Veröffentlichung der Eintragung,
 
-20a.  
-der Beginn und das Ende der Benutzungsschonfrist nach den §§ 26 und 43 Absatz 1 des Markengesetzes,
+20a. der Beginn und das Ende der Benutzungsschonfrist nach den §§ 26 und 43 Absatz 1 des Markengesetzes,
 
 21. wenn nach Ablauf der Widerspruchsfrist kein Widerspruch gegen die Eintragung der Marke erhoben worden ist, eine entsprechende Angabe,
 
@@ -882,14 +849,11 @@ b) bei teilweiser Nichtigkeitserklärung und Löschung der Marke eine entspreche
 
 34. Angaben über dingliche Rechte (§ 29 des Markengesetzes),
 
-34a.  
-Angaben über Lizenzen, einschließlich den Namen, die Rechtsform sowie die Anschrift des Wohnsitzes oder Sitzes des Lizenznehmers,
+34a. Angaben über Lizenzen, einschließlich den Namen, die Rechtsform sowie die Anschrift des Wohnsitzes oder Sitzes des Lizenznehmers,
 
-34b.  
-Erklärungen über die Lizenz- oder Veräußerungsbereitschaft,
+34b. Erklärungen über die Lizenz- oder Veräußerungsbereitschaft,
 
-34c.  
-Angaben über Markensatzungen von Kollektiv- oder Gewährleistungsmarken,
+34c. Angaben über Markensatzungen von Kollektiv- oder Gewährleistungsmarken,
 
 35. Angaben über Maßnahmen der Zwangsvollstreckung (§ 29 Abs. 1 Nr. 2 des Markengesetzes) und die Erfassung der Marke durch ein Insolvenzverfahren (§ 29 Abs. 3 des Markengesetzes),
 
@@ -897,13 +861,11 @@ Angaben über Markensatzungen von Kollektiv- oder Gewährleistungsmarken,
 
 37. Berichtigungen von Eintragungen im Register (§ 45 Abs. 1 des Markengesetzes).
 
-
-## § 26 – Urkunde, Bescheinigungen
+# § 26 – Urkunde, Bescheinigungen
 
 Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung der Marke in das Register nach § 25 der DPMA-Verordnung eine Bescheinigung über die in das Register eingetragenen Angaben. Nicht grafische Markendarstellungen und Markensatzungen werden dabei durch einen Verweis auf das Markenregister ersetzt.
 
-
-## § 27 – Veröffentlichungen zu Eintragungen im Register
+# § 27 – Veröffentlichungen zu Eintragungen im Register
 
 (1) Eintragungen im Register gemäß § 25 werden in regelmäßig erscheinenden Übersichten vom Deutschen Patent- und Markenamt veröffentlicht.
 
@@ -913,18 +875,15 @@ Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung der Marke
 
 (4) Der erstmaligen Veröffentlichung einer eingetragenen Marke ist ein Hinweis auf die Möglichkeit des Widerspruchs (§ 42 des Markengesetzes) beizufügen. Dieser Hinweis wird wiederholt, wenn die eingetragene Marke wegen erheblicher Mängel der Erstveröffentlichung erneut veröffentlicht wird. Der Hinweis kann für alle Marken, die nach den Sätzen 1 und 2 veröffentlicht werden, gemeinsam erfolgen.
 
+# § 28 – (weggefallen)
 
-## § 28 – (weggefallen)
-
-
-## § 29 – Form des Widerspruchs
+# § 29 – Form des Widerspruchs
 
 (1) Für jede Marke, geschäftliche Bezeichnung, geschützte Ursprungsbezeichnung oder geografische Angabe, wegen der gegen die Eintragung einer Marke Widerspruch erhoben wird (Widerspruchskennzeichen), ist ein gesonderter Widerspruch erforderlich. Gehören alle Widerspruchskennzeichen demselben Inhaber, so liegt nur ein Widerspruch vor.
 
 (2) Der Widerspruch soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
-
-## § 30 – Inhalt des Widerspruchs
+# § 30 – Inhalt des Widerspruchs
 
 (1) Der Widerspruch muss Angaben enthalten, die es erlauben, die Identität der angegriffenen Marke, des Widerspruchskennzeichens sowie des oder der Widersprechenden festzustellen. Bei den weder angemeldeten noch eingetragenen Widerspruchskennzeichen sind zu deren Identifizierung die Art, die Darstellung, die Form, der Zeitrang, der Gegenstand sowie der Inhaber des geltend gemachten Kennzeichenrechts anzugeben.
 
@@ -950,27 +909,23 @@ Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung der Marke
 
 10. die Waren und Dienstleistungen, gegen die der Widerspruch sich richtet.
 
-
-## § 31 – Gemeinsame Entscheidung über mehrere Widersprüche
+# § 31 – Gemeinsame Entscheidung über mehrere Widersprüche
 
 Über mehrere Widersprüche kann gemeinsam entschieden werden.
 
-
-## § 32 – Aussetzung
+# § 32 – Aussetzung
 
 (1) Das Deutsche Patent- und Markenamt kann das Verfahren über einen Widerspruch außer in den in § 43 Abs. 3 des Markengesetzes genannten Fällen auch dann aussetzen, wenn dies sachdienlich ist.
 
 (2) Eine Aussetzung kommt insbesondere in Betracht, wenn dem Widerspruch voraussichtlich stattzugeben wäre und der Widerspruch auf eine angemeldete Marke gestützt worden ist oder vor dem Deutschen Patent- und Markenamt ein Verfalls- und Nichtigkeitsverfahren anhängig ist.
 
-
-## § 33 – Teilübergang einer eingetragenen Marke
+# § 33 – Teilübergang einer eingetragenen Marke
 
 (1) Betrifft der Übergang des durch die Eintragung einer Marke begründeten Rechts nur einen Teil der eingetragenen Waren und Dienstleistungen, so sind in dem Antrag auf Eintragung des Rechtsübergangs nach § 28 der DPMA-Verordnung die Waren und Dienstleistungen anzugeben, auf die sich der Rechtsübergang bezieht.
 
 (2) Im Übrigen ist § 36 Absatz 1 bis 4 und 6 entsprechend anzuwenden.
 
-
-## § 34 – Rechtsübergang, dingliche Rechte, Insolvenzverfahren und Maßnahmen der Zwangsvollstreckung bei Anmeldungen
+# § 34 – Rechtsübergang, dingliche Rechte, Insolvenzverfahren und Maßnahmen der Zwangsvollstreckung bei Anmeldungen
 
 (1) Der Übergang von Rechten, dingliche Rechte, Maßnahmen der Zwangsvollstreckung oder Insolvenzverfahren werden in den Akten der Anmeldung vermerkt.
 
@@ -978,8 +933,7 @@ Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung der Marke
 
 (3) Betrifft der Übergang des durch die Anmeldung einer Marke begründeten Rechts nur einen Teil der Waren und Dienstleistungen, für die die Marke angemeldet worden ist, so sind in dem Antrag auf Vermerk eines Teilübergangs die Waren und Dienstleistungen anzugeben, auf die sich der Rechtsübergang bezieht. Im Übrigen ist § 35 Absatz 1 bis 4 und 6 entsprechend anzuwenden.
 
-
-## § 35 – Teilung von Anmeldungen
+# § 35 – Teilung von Anmeldungen
 
 (1) Eine angemeldete Marke kann nach § 40 Abs. 1 des Markengesetzes in zwei oder mehrere Anmeldungen geteilt werden. Für jeden abgetrennten Teil ist eine gesonderte Teilungserklärung erforderlich. Die Teilungserklärung soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -993,8 +947,7 @@ Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung der Marke
 
 (6) In Bezug auf die ursprüngliche Anmeldung gestellte Anträge gelten auch für die abgetrennte Anmeldung fort.
 
-
-## § 36 – Teilung von Eintragungen
+# § 36 – Teilung von Eintragungen
 
 (1) Eine eingetragene Marke kann nach § 46 Abs. 1 des Markengesetzes in zwei oder mehrere Eintragungen geteilt werden. Für jeden abgetrennten Teil ist eine gesonderte Teilungserklärung einzureichen. Die Teilungserklärung soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -1012,13 +965,11 @@ Der Inhaber einer Marke erhält neben der Urkunde über die Eintragung der Marke
 
 (+++ § 36 Abs. 1 bis 4 u. 6: Zur Anwendung vgl. § 33 Abs. 2 +++)
 
-
-## § 37 – Verlängerung durch Gebührenzahlung
+# § 37 – Verlängerung durch Gebührenzahlung
 
 Bei der Zahlung der Verlängerungsgebühren nach § 47 Abs. 3 des Markengesetzes sind die Registernummer und der Name des Inhabers der Marke sowie der Verwendungszweck anzugeben.
 
-
-## § 38 – Antrag auf teilweise Verlängerung
+# § 38 – Antrag auf teilweise Verlängerung
 
 (1) Soll die Verlängerung der Schutzdauer einer eingetragenen Marke nur für einen Teil der Waren und Dienstleistungen bewirkt werden, für die die Marke eingetragen ist, so kann der Inhaber der Marke einen entsprechenden Antrag stellen.
 
@@ -1032,8 +983,7 @@ Bei der Zahlung der Verlängerungsgebühren nach § 47 Abs. 3 des Markengesetzes
 
 4. die Waren und Dienstleistungen, für die die Schutzdauer verlängert werden soll.
 
-
-## § 39 – Verzicht
+# § 39 – Verzicht
 
 (1) Der Antrag auf vollständige oder teilweise Löschung einer Marke nach § 48 Abs. 1 des Markengesetzes soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts gestellt werden.
 
@@ -1047,13 +997,11 @@ Bei der Zahlung der Verlängerungsgebühren nach § 47 Abs. 3 des Markengesetzes
 
 4. falls eine Teillöschung beantragt wird, entweder die Waren und Dienstleistungen, die gelöscht werden sollen, oder die Waren und Dienstleistungen, für die die Marke nicht gelöscht werden soll.
 
-
-## § 40 – Zustimmung Dritter
+# § 40 – Zustimmung Dritter
 
 Für die nach § 48 Abs. 2 des Markengesetzes erforderliche Zustimmung eines im Register eingetragenen Inhabers eines Rechts an der Marke reicht die Abgabe einer von dieser Person oder ihrem Vertreter unterschriebenen Zustimmungserklärung aus. Eine Beglaubigung der Erklärung oder der Unterschrift ist nicht erforderlich. Die Zustimmung kann auch auf andere Weise nachgewiesen werden.
 
-
-## § 41 – Verfall
+# § 41 – Verfall
 
 (1) Der Antrag auf Erklärung des Verfalls einer Marke nach § 53 Absatz 1 des Markengesetzes soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts gestellt werden.
 
@@ -1069,8 +1017,7 @@ Für die nach § 48 Abs. 2 des Markengesetzes erforderliche Zustimmung eines im 
 
 5. der Verfallsgrund nach § 49 des Markengesetzes.
 
-
-## § 42 – Nichtigkeit wegen absoluter Schutzhindernisse und älterer Rechte
+# § 42 – Nichtigkeit wegen absoluter Schutzhindernisse und älterer Rechte
 
 (1) Für den Antrag auf Nichtigkeit wegen absoluter Schutzhindernisse und älterer Rechte nach § 53 Absatz 1 des Markengesetzes gilt § 41 dieser Verordnung entsprechend.
 
@@ -1096,8 +1043,7 @@ Bei weder angemeldeten noch eingetragenen älteren Rechten sind zumindest die Ar
 
 5. der Name und die Anschrift des Inhabers des älteren Rechts.
 
-
-## § 42a – Eintragung einer Lizenz
+# § 42a – Eintragung einer Lizenz
 
 (1) Der Antrag auf Eintragung der Erteilung einer Lizenz nach § 30 Absatz 6 Satz 1 des Markengesetzes soll unter Verwendung des vom Deutschen Patent- und Markenamt bereitgestellten Formblatts gestellt werden.
 
@@ -1117,13 +1063,11 @@ Bei weder angemeldeten noch eingetragenen älteren Rechten sind zumindest die Ar
 
 (3) Die nach § 30 Absatz 6 des Markengesetzes erforderliche Zustimmung des Markeninhabers oder des Lizenznehmers bedarf der Schriftform.
 
-
-## § 42b – Änderung oder Löschung einer Lizenz
+# § 42b – Änderung oder Löschung einer Lizenz
 
 Der Antrag auf Änderung oder Löschung einer nach § 30 Absatz 6 des Markengesetzes eingetragenen Lizenz muss die Registernummer der Marke und die Bezeichnung der Lizenz, die geändert oder gelöscht werden soll, enthalten.
 
-
-## § 42c – Erklärung der Lizenzierungs- oder Veräußerungsbereitschaft
+# § 42c – Erklärung der Lizenzierungs- oder Veräußerungsbereitschaft
 
 (1) Der Anmelder oder der im Register eingetragene Markeninhaber kann gegenüber dem Deutschen Patent- und Markenamt seine unverbindliche Bereitschaft zur Vergabe von Lizenzen oder zur Veräußerung des Markenrechts schriftlich erklären. Die Erklärung wird in das Register eingetragen.
 
@@ -1131,30 +1075,25 @@ Der Antrag auf Änderung oder Löschung einer nach § 30 Absatz 6 des Markengese
 
 (3) Erklärungen nach Absatz 1 können jederzeit gegenüber dem Deutschen Patent- und Markenamt schriftlich zurückgenommen werden.
 
-
-## § 43 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen
+# § 43 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen
 
 Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Registrierung einer in das Register eingetragenen Marke nach Artikel 3 des Madrider Markenabkommens beim Deutschen Patent- und Markenamt sind die vom Internationalen Büro der Weltorganisation für geistiges Eigentum herausgegebenen amtlichen Formblätter zu verwenden.
 
-
-## § 44 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen
+# § 44 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Protokoll zum Madrider Markenabkommen
 
 Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Registrierung einer beim Deutschen Patent- und Markenamt angemeldeten oder in das Register eingetragenen Marke nach Artikel 3 des Protokolls zum Madrider Markenabkommen sind die vom Internationalen Büro der Weltorganisation für geistiges Eigentum herausgegebenen amtlichen Formblätter zu verwenden.
 
-
-## § 45 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen
+# § 45 – Anträge und sonstige Mitteilungen im Verfahren der internationalen Registrierung nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen
 
 Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Registrierung einer beim Deutschen Patent- und Markenamt in das Register eingetragenen Marke sowohl nach Artikel 3 des Madrider Markenabkommens als auch nach Artikel 3 des Protokolls zum Madrider Markenabkommen sind die vom Internationalen Büro der Weltorganisation für geistiges Eigentum herausgegebenen amtlichen Formblätter zu verwenden.
 
-
-## § 46 – Schutzverweigerung
+# § 46 – Schutzverweigerung
 
 (1) Wird einer international registrierten Marke, deren Schutz nach Artikel 3ter des Madrider Markenabkommens oder nach Artikel 3ter des Protokolls zum Madrider Markenabkommen auf das Gebiet der Bundesrepublik Deutschland erstreckt worden ist, der Schutz ganz oder teilweise verweigert und wird diese Schutzverweigerung dem Internationalen Büro der Weltorganisation für geistiges Eigentum zur Weiterleitung an den Inhaber der internationalen Registrierung übermittelt, so wird die Frist, innerhalb derer ein Inlandsvertreter bestellt werden muss, damit der Schutz nicht endgültig verweigert wird, auf vier Monate ab dem Tag der Absendung der Mitteilung der Schutzverweigerung durch das Internationale Büro der Weltorganisation für geistiges Eigentum festgesetzt.
 
 (2) Wird die Schutzverweigerung endgültig, weil der Inhaber der international registrierten Marke keinen Inlandsvertreter bestellt hat, so ist eine gegen die Schutzverweigerung gegebene Erinnerung oder Beschwerde beim Deutschen Patent- und Markenamt innerhalb eines weiteren Monats nach Ablauf der in Absatz 1 genannten Frist einzulegen. Der Schutzverweigerung muss eine entsprechende Rechtsmittelbelehrung beigefügt sein. § 61 Abs. 2 des Markengesetzes ist entsprechend anzuwenden.
 
-
-## § 47 – Eintragungsantrag
+# § 47 – Eintragungsantrag
 
 (1) Der Antrag auf Eintragung einer geografischen Angabe oder einer Ursprungsbezeichnung nach Artikel 49 der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21. November 2012 über Qualitätsregelungen für Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils geltenden Fassung muss unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -1172,8 +1111,7 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 6. die Spezifikation nach Artikel 7 Absatz 1 der Verordnung (EU) Nr. 1151/2012 gemäß Formblatt.
 
-
-## § 48 – Veröffentlichung des Antrags
+# § 48 – Veröffentlichung des Antrags
 
 (1) In der Veröffentlichung des Antrags (§ 130 Abs. 4 des Markengesetzes) sind mindestens anzugeben:
 
@@ -1189,8 +1127,7 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 (2) In der Veröffentlichung ist auf die Möglichkeit des Einspruchs nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 49 Absatz 3 der Verordnung (EU) Nr. 1151/2012 hinzuweisen.
 
-
-## § 49 – Nationaler Einspruch
+# § 49 – Nationaler Einspruch
 
 (1) Der Einspruch nach § 130 Abs. 4 des Markengesetzes in Verbindung mit Artikel 49 Absatz 3 der Verordnung (EU) Nr. 1151/2012 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -1206,8 +1143,7 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 5. die Gründe, auf die sich der Einspruch stützt.
 
-
-## § 50 – Einspruch
+# § 50 – Einspruch
 
 (1) Der Einspruch nach § 131 des Markengesetzes in Verbindung mit Artikel 51 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1151/2012 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -1225,13 +1161,11 @@ Für Anträge und für sonstige Mitteilungen im Verfahren der internationalen Re
 
 (3) Der Einspruch ist innerhalb von zwei Monaten nach Einreichung zu begründen. Die Gründe nach Artikel 10 Absatz 1 der Verordnung (EU) Nr. 1151/2012, auf welche der Einspruch gestützt wird, sind anzugeben.
 
-
-## § 51 – Einspruchsverfahren
+# § 51 – Einspruchsverfahren
 
 Das Deutsche Patent- und Markenamt unterrichtet unverzüglich nach Ablauf der Einspruchsfrist das Bundesministerium der Justiz und für Verbraucherschutz über die eingegangenen Einsprüche durch Übersendung der Einsprüche mit den erforderlichen Unterlagen. Nachgereichte Einspruchsbegründungen werden unverzüglich weitergeleitet.
 
-
-## § 52 – Änderungen der Spezifikation
+# § 52 – Änderungen der Spezifikation
 
 (1) Der Antrag auf Änderung der Spezifikation gemäß Artikel 53 der Verordnung (EU) Nr. 1151/2012 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -1253,8 +1187,7 @@ Das Deutsche Patent- und Markenamt unterrichtet unverzüglich nach Ablauf der Ei
 
 (3) Für Anträge nach Artikel 53 Absatz 2 Satz 1 der Verordnung (EU) Nr. 1151/2012 gelten im Übrigen die §§ 48 bis 51 entsprechend.
 
-
-## § 53 – Löschungsantrag
+# § 53 – Löschungsantrag
 
 (1) Der Antrag auf Löschung einer eingetragenen geografischen Angabe oder Ursprungsbezeichnung nach Artikel 54 Absatz 1 der Verordnung (EU) Nr. 1151/2012 soll unter Verwendung des vom Deutschen Patent- und Markenamt herausgegebenen Formblatts eingereicht werden.
 
@@ -1270,25 +1203,20 @@ Das Deutsche Patent- und Markenamt unterrichtet unverzüglich nach Ablauf der Ei
 
 5. Gründe für die Löschung.
 
-
-## § 54 – Akteneinsicht
+# § 54 – Akteneinsicht
 
 In den Verfahren nach der Verordnung (EU) Nr. 1151/2012 gewährt das Deutsche Patent- und Markenamt Einsicht in die Akten.
 
+# § 55 – (weggefallen)
 
-## § 55 – (weggefallen)
-
-
-## § 56 – Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
+# § 56 – Übergangsregelung aus Anlass des Inkrafttretens dieser Verordnung
 
 Für Markenanmeldungen, die vor Inkrafttreten dieser Verordnung eingereicht worden sind, gelten die Vorschriften der Markenverordnung vom 30. November 1994 (BGBl. I S. 3555), zuletzt geändert durch die Verordnung vom 1. September 2003 (BGBl. I S. 1701).
 
-
-## § 57 – Übergangsregelung für künftige Änderungen
+# § 57 – Übergangsregelung für künftige Änderungen
 
 Für Markenanmeldungen, die vor Inkrafttreten von Änderungen dieser Verordnung eingereicht worden sind, gelten die Vorschriften dieser Verordnung in ihrer bis dahin geltenden Fassung.
 
-
-## § 58 – Inkrafttreten, Außerkrafttreten
+# § 58 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Juni 2004 in Kraft.

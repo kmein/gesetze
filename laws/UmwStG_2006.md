@@ -1,10 +1,7 @@
-# [UmwStG 2006] Umwandlungssteuergesetz
-
-Ausfertigungsdatum: 07.12.2006
-
+% Umwandlungssteuergesetz
+% Ausfertigungsdatum: 07.12.2006
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Erster Teil  
 Allgemeine Vorschriften
@@ -199,8 +196,7 @@ Bekanntmachungserlaubnis
 
 § 28
 
-
-## § 1 – Anwendungsbereich und Begriffsbestimmungen
+# § 1 – Anwendungsbereich und Begriffsbestimmungen
 
 (1) Der Zweite bis Fünfte Teil gilt nur für
 
@@ -272,8 +268,7 @@ die Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das Statut d
 
 der Wert, der sich nach den steuerrechtlichen Vorschriften über die Gewinnermittlung in einer für den steuerlichen Übertragungsstichtag aufzustellenden Steuerbilanz ergibt oder ergäbe.
 
-
-## § 2 – Steuerliche Rückwirkung
+# § 2 – Steuerliche Rückwirkung
 
 (1) Das Einkommen und das Vermögen der übertragenden Körperschaft sowie des übernehmenden Rechtsträgers sind so zu ermitteln, als ob das Vermögen der Körperschaft mit Ablauf des Stichtags der Bilanz, die dem Vermögensübergang zu Grunde liegt (steuerlicher Übertragungsstichtag), ganz oder teilweise auf den übernehmenden Rechtsträger übergegangen wäre. Das Gleiche gilt für die Ermittlung der Bemessungsgrundlagen bei der Gewerbesteuer.
 
@@ -285,8 +280,7 @@ der Wert, der sich nach den steuerrechtlichen Vorschriften über die Gewinnermit
 
 (+++ § 2 Abs. 4: Zur erstmaligen Anwendung vgl. § 27 Abs. 9, 10, 12 +++)
 
-
-## § 3 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
+# § 3 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
 (1) Bei einer Verschmelzung auf eine Personengesellschaft oder natürliche Person sind die übergehenden Wirtschaftsgüter, einschließlich nicht entgeltlich erworbener und selbst geschaffener immaterieller Wirtschaftsgüter, in der steuerlichen Schlussbilanz der übertragenden Körperschaft mit dem gemeinen Wert anzusetzen. Für die Bewertung von Pensionsrückstellungen gilt § 6a des Einkommensteuergesetzes.
 
@@ -302,8 +296,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 (3) Haben die Mitgliedstaaten der Europäischen Union bei Verschmelzung einer unbeschränkt steuerpflichtigen Körperschaft Artikel 10 der Richtlinie 2009/133/EG anzuwenden, ist die Körperschaftsteuer auf den Übertragungsgewinn gemäß § 26 des Körperschaftsteuergesetzes um den Betrag ausländischer Steuer zu ermäßigen, der nach den Rechtsvorschriften eines anderen Mitgliedstaats der Europäischen Union erhoben worden wäre, wenn die übertragenen Wirtschaftsgüter zum gemeinen Wert veräußert worden wären. Satz 1 gilt nur, soweit die übertragenen Wirtschaftsgüter einer Betriebsstätte der übertragenden Körperschaft in einem anderen Mitgliedstaat der Europäischen Union zuzurechnen sind und die Bundesrepublik Deutschland die Doppelbesteuerung bei der übertragenden Körperschaft nicht durch Freistellung vermeidet.
 
-
-## § 4 – Auswirkungen auf den Gewinn des übernehmenden Rechtsträgers
+# § 4 – Auswirkungen auf den Gewinn des übernehmenden Rechtsträgers
 
 (1) Der übernehmende Rechtsträger hat die auf ihn übergegangenen Wirtschaftsgüter mit dem in der steuerlichen Schlussbilanz der übertragenden Körperschaft enthaltenen Wert im Sinne des § 3 zu übernehmen. Die Anteile an der übertragenden Körperschaft sind bei dem übernehmenden Rechtsträger zum steuerlichen Übertragungsstichtag mit dem Buchwert, erhöht um Abschreibungen, die in früheren Jahren steuerwirksam vorgenommen worden sind, sowie um Abzüge nach § 6b des Einkommensteuergesetzes und ähnliche Abzüge, höchstens mit dem gemeinen Wert, anzusetzen. Auf einen sich daraus ergebenden Gewinn finden § 8b Abs. 2 Satz 4 und 5 des Körperschaftsteuergesetzes sowie § 3 Nr. 40 Satz 1 Buchstabe a Satz 2 und 3 des Einkommensteuergesetzes Anwendung.
 
@@ -322,8 +315,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 (+++ § 4 Abs. 2 Satz 2: Zur erstmaligen Anwendung vgl. § 27 Abs. 5 Satz 1 u. Abs. 10 +++)  
 (+++ § 4 Abs. 6 Satz 4 bis 6, Abs. 7 Satz 2: Zur erstmaligen Anwendung vgl. § 27 Abs. 8 +++)
 
-
-## § 5 – Besteuerung der Anteilseigner der übertragenden Körperschaft
+# § 5 – Besteuerung der Anteilseigner der übertragenden Körperschaft
 
 (1) Hat der übernehmende Rechtsträger Anteile an der übertragenden Körperschaft nach dem steuerlichen Übertragungsstichtag angeschafft oder findet er einen Anteilseigner ab, so ist sein Gewinn so zu ermitteln, als hätte er die Anteile an diesem Stichtag angeschafft.
 
@@ -331,8 +323,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 (3) Gehören an dem steuerlichen Übertragungsstichtag Anteile an der übertragenden Körperschaft zum Betriebsvermögen eines Anteilseigners, ist der Gewinn so zu ermitteln, als seien die Anteile an diesem Stichtag zum Buchwert, erhöht um Abschreibungen sowie um Abzüge nach § 6b des Einkommensteuergesetzes und ähnliche Abzüge, die in früheren Jahren steuerwirksam vorgenommen worden sind, höchstens mit dem gemeinen Wert, in das Betriebsvermögen des übernehmenden Rechtsträgers überführt worden. § 4 Abs. 1 Satz 3 gilt entsprechend.
 
-
-## § 6 – Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
+# § 6 – Gewinnerhöhung durch Vereinigung von Forderungen und Verbindlichkeiten
 
 (1) Erhöht sich der Gewinn des übernehmenden Rechtsträgers dadurch, dass der Vermögensübergang zum Erlöschen von Forderungen und Verbindlichkeiten zwischen der übertragenden Körperschaft und dem übernehmenden Rechtsträger oder zur Auflösung von Rückstellungen führt, so darf der übernehmende Rechtsträger insoweit eine den steuerlichen Gewinn mindernde Rücklage bilden. Die Rücklage ist in den auf ihre Bildung folgenden drei Wirtschaftsjahren mit mindestens je einem Drittel gewinnerhöhend aufzulösen.
 
@@ -340,33 +331,28 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 
 (3) Die Anwendung der Absätze 1 und 2 entfällt rückwirkend, wenn der übernehmende Rechtsträger den auf ihn übergegangenen Betrieb innerhalb von fünf Jahren nach dem steuerlichen Übertragungsstichtag in eine Kapitalgesellschaft einbringt oder ohne triftigen Grund veräußert oder aufgibt. Bereits erteilte Steuerbescheide, Steuermessbescheide, Freistellungsbescheide oder Feststellungsbescheide sind zu ändern, soweit sie auf der Anwendung der Absätze 1 und 2 beruhen.
 
-
-## § 7 – Besteuerung offener Rücklagen
+# § 7 – Besteuerung offener Rücklagen
 
 Dem Anteilseigner ist der Teil des in der Steuerbilanz ausgewiesenen Eigenkapitals abzüglich des Bestands des steuerlichen Einlagekontos im Sinne des § 27 des Körperschaftsteuergesetzes, der sich nach Anwendung des § 29 Abs. 1 des Körperschaftsteuergesetzes ergibt, in dem Verhältnis der Anteile zum Nennkapital der übertragenden Körperschaft als Einnahmen aus Kapitalvermögen im Sinne des § 20 Abs. 1 Nr. 1 des Einkommensteuergesetzes zuzurechnen. Dies gilt unabhängig davon, ob für den Anteilseigner ein Übernahmegewinn oder Übernahmeverlust nach § 4 oder § 5 ermittelt wird.
 
-
-## § 8 – Vermögensübergang auf einen Rechtsträger ohne Betriebsvermögen
+# § 8 – Vermögensübergang auf einen Rechtsträger ohne Betriebsvermögen
 
 (1) Wird das übertragene Vermögen nicht Betriebsvermögen des übernehmenden Rechtsträgers, sind die infolge des Vermögensübergangs entstehenden Einkünfte bei diesem oder den Gesellschaftern des übernehmenden Rechtsträgers zu ermitteln. Die §§ 4, 5 und 7 gelten entsprechend.
 
 (2) In den Fällen des Absatzes 1 sind § 17 Abs. 3 und § 22 Nr. 2 des Einkommensteuergesetzes nicht anzuwenden.
 
-
-## § 9 – Formwechsel in eine Personengesellschaft
+# § 9 – Formwechsel in eine Personengesellschaft
 
 Im Falle des Formwechsels einer Kapitalgesellschaft in eine Personengesellschaft sind die §§ 3 bis 8 und 10 entsprechend anzuwenden. Die Kapitalgesellschaft hat für steuerliche Zwecke auf den Zeitpunkt, in dem der Formwechsel wirksam wird, eine Übertragungsbilanz, die Personengesellschaft eine Eröffnungsbilanz aufzustellen. Die Bilanzen nach Satz 2 können auch für einen Stichtag aufgestellt werden, der höchstens acht Monate vor der Anmeldung des Formwechsels zur Eintragung in ein öffentliches Register liegt (Übertragungsstichtag); § 2 Absatz 3 und 4 gilt entsprechend.
 
 (+++ § 9 Satz 3: Zur erstmaligen Anwendung vgl. § 27 Abs. 10 +++)  
 (+++ § 9 Satz 3: Zur Anwendung vgl. § 27 Abs. 15 +++)
 
-
-## § 10 – (weggefallen)
+# § 10 – (weggefallen)
 
 \-
 
-
-## § 11 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
+# § 11 – Wertansätze in der steuerlichen Schlussbilanz der übertragenden Körperschaft
 
 (1) Bei einer Verschmelzung oder Vermögensübertragung (Vollübertragung) auf eine andere Körperschaft sind die übergehenden Wirtschaftsgüter, einschließlich nicht entgeltlich erworbener oder selbst geschaffener immaterieller Wirtschaftsgüter, in der steuerlichen Schlussbilanz der übertragenden Körperschaft mit dem gemeinen Wert anzusetzen. Für die Bewertung von Pensionsrückstellungen gilt § 6a des Einkommensteuergesetzes.
 
@@ -382,8 +368,7 @@ Anteile an der übernehmenden Körperschaft sind mindestens mit dem Buchwert, er
 
 (3) § 3 Abs. 2 Satz 2 und Abs. 3 gilt entsprechend.
 
-
-## § 12 – Auswirkungen auf den Gewinn der übernehmenden Körperschaft
+# § 12 – Auswirkungen auf den Gewinn der übernehmenden Körperschaft
 
 (1) Die übernehmende Körperschaft hat die auf sie übergegangenen Wirtschaftsgüter mit dem in der steuerlichen Schlussbilanz der übertragenden Körperschaft enthaltenen Wert im Sinne des § 11 zu übernehmen. § 4 Abs. 1 Satz 2 und 3 gilt entsprechend.
 
@@ -395,8 +380,7 @@ Anteile an der übernehmenden Körperschaft sind mindestens mit dem Buchwert, er
 
 (5) Im Falle des Vermögensübergangs in den nicht steuerpflichtigen oder steuerbefreiten Bereich der übernehmenden Körperschaft gilt das in der Steuerbilanz ausgewiesene Eigenkapital abzüglich des Bestands des steuerlichen Einlagekontos im Sinne des § 27 des Körperschaftsteuergesetzes, der sich nach Anwendung des § 29 Abs. 1 des Körperschaftsteuergesetzes ergibt, als Einnahme im Sinne des § 20 Abs. 1 Nr. 1 des Einkommensteuergesetzes.
 
-
-## § 13 – Besteuerung der Anteilseigner der übertragenden Körperschaft
+# § 13 – Besteuerung der Anteilseigner der übertragenden Körperschaft
 
 (1) Die Anteile an der übertragenden Körperschaft gelten als zum gemeinen Wert veräußert und die an ihre Stelle tretenden Anteile an der übernehmenden Körperschaft gelten als mit diesem Wert angeschafft.
 
@@ -408,13 +392,11 @@ Anteile an der übernehmenden Körperschaft sind mindestens mit dem Buchwert, er
 
 Die Anteile an der übernehmenden Körperschaft treten steuerlich an die Stelle der Anteile an der übertragenden Körperschaft. Gehören die Anteile an der übertragenden Körperschaft nicht zu einem Betriebsvermögen, treten an die Stelle des Buchwerts die Anschaffungskosten.
 
-
-## § 14 – (weggefallen)
+# § 14 – (weggefallen)
 
 \-
 
-
-## § 15 – Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
+# § 15 – Aufspaltung, Abspaltung und Teilübertragung auf andere Körperschaften
 
 (1) Geht Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung oder durch Teilübertragung auf andere Körperschaften über, gelten die §§ 11 bis 13 vorbehaltlich des Satzes 2 und des § 16 entsprechend. § 11 Abs. 2 und § 13 Abs. 2 sind nur anzuwenden, wenn auf die Übernehmerinnen ein Teilbetrieb übertragen wird und im Falle der Abspaltung oder Teilübertragung bei der übertragenden Körperschaft ein Teilbetrieb verbleibt. Als Teilbetrieb gilt auch ein Mitunternehmeranteil oder die Beteiligung an einer Kapitalgesellschaft, die das gesamte Nennkapital der Gesellschaft umfasst.
 
@@ -424,18 +406,15 @@ Die Anteile an der übernehmenden Körperschaft treten steuerlich an die Stelle 
 
 (+++ § 15 Abs. 3: Zur erstmaligen Anwendung vgl. § 27 Abs. 5 Satz 1 u. Abs. 10 +++)
 
-
-## § 16 – Aufspaltung oder Abspaltung auf eine Personengesellschaft
+# § 16 – Aufspaltung oder Abspaltung auf eine Personengesellschaft
 
 Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung auf eine Personengesellschaft übergeht, gelten die §§ 3 bis 8, 10 und 15 entsprechend. § 10 ist für den in § 40 Abs. 2 Satz 3 des Körperschaftsteuergesetzes bezeichneten Teil des Betrags im Sinne des § 38 des Körperschaftsteuergesetzes anzuwenden.
 
-
-## § 17 – (weggefallen)
+# § 17 – (weggefallen)
 
 \-
 
-
-## § 18 – Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
+# § 18 – Gewerbesteuer bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft
 
 (1) Die §§ 3 bis 9 und 16 gelten bei Vermögensübergang auf eine Personengesellschaft oder auf eine natürliche Person sowie bei Formwechsel in eine Personengesellschaft auch für die Ermittlung des Gewerbeertrags. Der maßgebende Gewerbeertrag der übernehmenden Personengesellschaft oder natürlichen Person kann nicht um Fehlbeträge des laufenden Erhebungszeitraums und die vortragsfähigen Fehlbeträge der übertragenden Körperschaft im Sinne des § 10a des Gewerbesteuergesetzes gekürzt werden.
 
@@ -443,15 +422,13 @@ Soweit Vermögen einer Körperschaft durch Aufspaltung oder Abspaltung auf eine 
 
 (3) Wird der Betrieb der Personengesellschaft oder der natürlichen Person innerhalb von fünf Jahren nach der Umwandlung aufgegeben oder veräußert, unterliegt ein Aufgabe- oder Veräußerungsgewinn der Gewerbesteuer, auch soweit er auf das Betriebsvermögen entfällt, das bereits vor der Umwandlung im Betrieb der übernehmenden Personengesellschaft oder der natürlichen Person vorhanden war. Satz 1 gilt entsprechend, soweit ein Teilbetrieb oder ein Anteil an der Personengesellschaft aufgegeben oder veräußert wird. Der auf den Aufgabe- oder Veräußerungsgewinnen im Sinne der Sätze 1 und 2 beruhende Teil des Gewerbesteuer-Messbetrags ist bei der Ermäßigung der Einkommensteuer nach § 35 des Einkommensteuergesetzes nicht zu berücksichtigen.
 
-
-## § 19 – Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
+# § 19 – Gewerbesteuer bei Vermögensübergang auf eine andere Körperschaft
 
 (1) Geht das Vermögen der übertragenden Körperschaft auf eine andere Körperschaft über, gelten die §§ 11 bis 15 auch für die Ermittlung des Gewerbeertrags.
 
 (2) Für die vortragsfähigen Fehlbeträge der übertragenden Körperschaft im Sinne des § 10a des Gewerbesteuergesetzes gelten § 12 Abs. 3 und § 15 Abs. 3 entsprechend.
 
-
-## § 20 – Einbringung von Unternehmensteilen in eine Kapitalgesellschaft oder Genossenschaft
+# § 20 – Einbringung von Unternehmensteilen in eine Kapitalgesellschaft oder Genossenschaft
 
 (1) Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in eine Kapitalgesellschaft oder eine Genossenschaft (übernehmende Gesellschaft) eingebracht und erhält der Einbringende dafür neue Anteile an der Gesellschaft (Sacheinlage), gelten für die Bewertung des eingebrachten Betriebsvermögens und der neuen Gesellschaftsanteile die nachfolgenden Absätze.
 
@@ -491,8 +468,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen Schlussbi
 (+++ § 20 Abs. 8: Zur Anwendung vgl. § 27 Abs. 13 +++)  
 (+++ § 20 Abs. 9: Zur Anwendung vgl. § 27 Abs. 5 Satz 1 u. Abs. 10 +++)
 
-
-## § 21 – Bewertung der Anteile beim Anteilstausch
+# § 21 – Bewertung der Anteile beim Anteilstausch
 
 (1) Werden Anteile an einer Kapitalgesellschaft oder einer Genossenschaft (erworbene Gesellschaft) in eine Kapitalgesellschaft oder Genossenschaft (übernehmende Gesellschaft) gegen Gewährung neuer Anteile an der übernehmenden Gesellschaft eingebracht (Anteilstausch), hat die übernehmende Gesellschaft die eingebrachten Anteile mit dem gemeinen Wert anzusetzen. Abweichend von Satz 1 können die eingebrachten Anteile auf Antrag mit dem Buchwert oder einem höheren Wert, höchstens jedoch mit dem gemeinen Wert, angesetzt werden, wenn
 
@@ -518,8 +494,7 @@ Der Antrag ist spätestens bis zur erstmaligen Abgabe der Steuererklärung bei d
 
 (+++ § 21 Abs. 1: Zur erstmaligen Anwendung vgl. § 27 Abs. 14 +++)
 
-
-## § 22 – Besteuerung des Anteilseigners
+# § 22 – Besteuerung des Anteilseigners
 
 (1) Soweit in den Fällen einer Sacheinlage unter dem gemeinen Wert (§ 20 Abs. 2 Satz 2) der Einbringende die erhaltenen Anteile innerhalb eines Zeitraums von sieben Jahren nach dem Einbringungszeitpunkt veräußert, ist der Gewinn aus der Einbringung rückwirkend im Wirtschaftsjahr der Einbringung als Gewinn des Einbringenden im Sinne von § 16 des Einkommensteuergesetzes zu versteuern (Einbringungsgewinn I); § 16 Abs. 4 und § 34 des Einkommensteuergesetzes sind nicht anzuwenden. Die Veräußerung der erhaltenen Anteile gilt insoweit als rückwirkendes Ereignis im Sinne von § 175 Abs. 1 Satz 1 Nr. 2 der Abgabenordnung. Einbringungsgewinn I ist der Betrag, um den der gemeine Wert des eingebrachten Betriebsvermögens im Einbringungszeitpunkt nach Abzug der Kosten für den Vermögensübergang den Wert, mit dem die übernehmende Gesellschaft dieses eingebrachte Betriebsvermögen angesetzt hat, übersteigt, vermindert um jeweils ein Siebtel für jedes seit dem Einbringungszeitpunkt abgelaufene Zeitjahr. Der Einbringungsgewinn I gilt als nachträgliche Anschaffungskosten der erhaltenen Anteile. Umfasst das eingebrachte Betriebsvermögen auch Anteile an Kapitalgesellschaften oder Genossenschaften, ist insoweit § 22 Abs. 2 anzuwenden; ist in diesen Fällen das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung des Gewinns aus der Veräußerung der erhaltenen Anteile ausgeschlossen oder beschränkt, sind daneben auch die Sätze 1 bis 4 anzuwenden. Die Sätze 1 bis 5 gelten entsprechend, wenn
 
@@ -564,8 +539,7 @@ zuzurechnen sind. Erbringt er den Nachweis nicht, gelten die Anteile im Sinne de
 (+++ § 22: Zur Nichtanwendung vgl. § 27 Abs. 4 +++)  
 (+++ § 22 Abs. 1 Satz 6 Nr. 2, 4 u. 5: Zur erstmaligen Anwendung vgl. § 27 Abs. 14 +++)
 
-
-## § 23 – Auswirkungen bei der übernehmenden Gesellschaft
+# § 23 – Auswirkungen bei der übernehmenden Gesellschaft
 
 (1) Setzt die übernehmende Gesellschaft das eingebrachte Betriebsvermögen mit einem unter dem gemeinen Wert liegenden Wert (§ 20 Abs. 2 Satz 2, § 21 Abs. 1 Satz 2) an, gelten § 4 Abs. 2 Satz 3 und § 12 Abs. 3 erster Halbsatz entsprechend.
 
@@ -587,8 +561,7 @@ Bei einer Erhöhung der Anschaffungskosten oder Herstellungskosten auf Grund rü
 
 (+++ § 23: Zur Nichtanwendung vgl. § 27 Abs. 4 +++)
 
-
-## § 24 – Einbringung von Betriebsvermögen in eine Personengesellschaft
+# § 24 – Einbringung von Betriebsvermögen in eine Personengesellschaft
 
 (1) Wird ein Betrieb oder Teilbetrieb oder ein Mitunternehmeranteil in eine Personengesellschaft eingebracht und wird der Einbringende Mitunternehmer der Gesellschaft, gelten für die Bewertung des eingebrachten Betriebsvermögens die Absätze 2 bis 4.
 
@@ -615,18 +588,15 @@ b) 500 000 Euro, höchstens jedoch den Buchwert des eingebrachten Betriebsverm�
 (+++ § 24: Zur Anwendung vgl. § 27 Abs. 4, 5 +++)  
 (+++ § 24 Abs. 2: Zur erstmaligen Anwendung vgl. § 27 Abs. 14 +++)
 
-
-## § 25 – Entsprechende Anwendung des Sechsten Teils
+# § 25 – Entsprechende Anwendung des Sechsten Teils
 
 In den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesellschaft oder Genossenschaft im Sinne des § 190 des Umwandlungsgesetzes vom 28. Oktober 1994 (BGBl. I S. 3210, 1995 I S. 428), das zuletzt durch Artikel 10 des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3214) geändert worden ist, in der jeweils geltenden Fassung oder auf Grund vergleichbarer ausländischer Vorgänge gelten §§ 20 bis 23 entsprechend. § 9 Satz 2 und 3 ist entsprechend anzuwenden.
 
-
-## § 26 – (weggefallen)
+# § 26 – (weggefallen)
 
 \-
 
-
-## § 27 – Anwendungsvorschriften
+# § 27 – Anwendungsvorschriften
 
 (1) Diese Fassung des Gesetzes ist erstmals auf Umwandlungen und Einbringungen anzuwenden, bei denen die Anmeldung zur Eintragung in das für die Wirksamkeit des jeweiligen Vorgangs maßgebende öffentliche Register nach dem 12. Dezember 2006 erfolgt ist. Für Einbringungen, deren Wirksamkeit keine Eintragung in ein öffentliches Register voraussetzt, ist diese Fassung des Gesetzes erstmals anzuwenden, wenn das wirtschaftliche Eigentum an den eingebrachten Wirtschaftsgütern nach dem 12. Dezember 2006 übergegangen ist.
 
@@ -664,7 +634,6 @@ In den Fällen des Formwechsels einer Personengesellschaft in eine Kapitalgesell
 
 (15) § 9 Satz 3 sowie § 20 Absatz 6 Satz 1 und 3 sind mit der Maßgabe anzuwenden, dass an die Stelle des Zeitraums von acht Monaten ein Zeitraum von zwölf Monaten tritt, wenn die Anmeldung zur Eintragung oder der Abschluss des Einbringungsvertrags im Jahr 2020 erfolgt. Erlässt das Bundesministerium der Justiz und für Verbraucherschutz eine Rechtsverordnung auf Grundlage des § 8 in Verbindung mit § 4 des Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie vom 27. März 2020 (BGBl. I S. 569, 570), wird das Bundesministerium der Finanzen ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die Geltung des Satzes 1 für Anmeldungen zur Eintragung und Einbringungsvertragsabschlüsse zu verlängern, die bis zu dem Tag erfolgen, der in der Rechtsverordnung des Bundesministeriums der Justiz und für Verbraucherschutz festgelegt wurde.
 
-
-## § 28 – Bekanntmachungserlaubnis
+# § 28 – Bekanntmachungserlaubnis
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut dieses Gesetzes und der zu diesem Gesetz erlassenen Rechtsverordnungen in der jeweils geltenden Fassung satzweise nummeriert mit neuem Datum und in neuer Paragraphenfolge bekannt zu machen und dabei Unstimmigkeiten im Wortlaut zu beseitigen.

@@ -1,15 +1,11 @@
-# [WpÜGBMV] Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilung und der Veröffentlichung der Entscheidung einer Zielgesellschaft nach § 1 Abs. 5 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes  (WpÜG-Beaufsichtigungsmitteilungsverordnung)
-
-Ausfertigungsdatum: 13.10.2006
-
+% Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilung und der Veröffentlichung der Entscheidung einer Zielgesellschaft nach § 1 Abs. 5 Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes  (WpÜG-Beaufsichtigungsmitteilungsverordnung)
+% Ausfertigungsdatum: 13.10.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001 (BGBl. I S. 3822), der durch Artikel 1 Nr. 2 des Gesetzes vom 8. Juli 2006 (BGBl. I S. 1426) eingefügt worden ist, in Verbindung mit § 1 Nr. 2 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der zuletzt durch Artikel 1 der Verordnung vom 17. Juli 2006 (BGBl. I S. 1699) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-
-## § 1 – Mitteilung
+# § 1 – Mitteilung
 
 (1) Die Zielgesellschaft hat ihre Entscheidung nach § 1 Abs. 5 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes der Bundesanstalt für Finanzdienstleistungsaufsicht spätestens am ersten Tag des Handels ihrer stimmberechtigten Wertpapiere an einem organisierten Markt im Inland mitzuteilen.
 
@@ -25,8 +21,7 @@ Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des Wertpapiererwerbs-
 
 (3) Die Mitteilung hat schriftlich zu erfolgen.
 
-
-## § 2 – Veröffentlichung
+# § 2 – Veröffentlichung
 
 (1) Die Zielgesellschaft hat ihre Entscheidung nach § 1 Abs. 5 Satz 1 des Wertpapiererwerbs- und Übernahmegesetzes mit dem in § 2 Abs. 2 vorgesehenen Inhalt unverzüglich nach der Zulassung der stimmberechtigten Wertpapiere zum Handel an einem organisierten Markt im Inland zu veröffentlichen.
 
@@ -38,7 +33,6 @@ Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des Wertpapiererwerbs-
 
 in deutscher Sprache vorzunehmen. Eine Veröffentlichung in anderer Weise darf nicht vor der Veröffentlichung nach Satz 1 vorgenommen werden.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

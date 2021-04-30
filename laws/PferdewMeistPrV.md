@@ -1,17 +1,11 @@
-# [PferdewMeistPrV] Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin  (Pferdewirtmeisterprüfungsverordnung - PferdewMeistPrV)
-
-Ausfertigungsdatum: 27.10.2015
-
+% Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin  (Pferdewirtmeisterprüfungsverordnung - PferdewMeistPrV)
+% Ausfertigungsdatum: 27.10.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetzes, dessen Absatz 3 zuletzt durch Artikel 436 Nummer 4 Buchstabe b der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -37,8 +31,9 @@ Auf Grund des § 53 Absatz 3 in Verbindung mit Absatz 2 des Berufsbildungsgesetz
 
  
 
+ 
 
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Mit der Prüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin soll die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachgewiesen werden.
 
@@ -104,8 +99,7 @@ l) Unterstützen der beruflichen Weiterbildung von Mitarbeitern und Mitarbeiteri
 
 (4) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister oder Pferdewirtschaftsmeisterin mit Angabe der nach § 2 gewählten Fachrichtung.
 
-
-## § 2 – Fachrichtungen
+# § 2 – Fachrichtungen
 
 Der Prüfling wählt für die Prüfung eine der folgenden Fachrichtungen:
 
@@ -119,8 +113,7 @@ Der Prüfling wählt für die Prüfung eine der folgenden Fachrichtungen:
 
 5. Spezialreitweisen.
 
-
-## § 3 – Voraussetzungen für die Zulassung zur Prüfung
+# § 3 – Voraussetzungen für die Zulassung zur Prüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer Folgendes nachweist:
 
@@ -134,8 +127,7 @@ Der Prüfling wählt für die Prüfung eine der folgenden Fachrichtungen:
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen ist zur Prüfung auch zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, eine berufliche Handlungsfähigkeit erworben zu haben, die die Zulassung zur Prüfung rechtfertigt.
 
-
-## § 4 – Gliederung der Meisterprüfung
+# § 4 – Gliederung der Meisterprüfung
 
 Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
@@ -145,8 +137,7 @@ Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
 3. Berufsausbildung und Mitarbeiterführung.
 
-
-## § 5 – Anforderungen und Prüfungsinhalte
+# § 5 – Anforderungen und Prüfungsinhalte
 
 (1) Der Prüfling soll nachweisen, dass er die Haltung, den Einsatz und die Zucht von Pferden, die Ausbildung von Pferden und Kunden sowie sonstige Dienstleistungsangebote einschließlich des jeweils damit verbundenen Einsatzes von Arbeitskräften, Maschinen, Geräten, Betriebseinrichtungen und Betriebsstoffen planen, durchführen und beurteilen kann. Hierbei soll der Prüfling zeigen, dass er die entsprechenden Maßnahmen qualitätsorientiert und wirtschaftlich unter Beachtung von Anforderungen des Marktes, berufsbezogenen Rechtsvorschriften, der Erfordernisse des Tierschutzes und des Tierwohls, des Umwelt- und Naturschutzes, der Arbeitssicherheit, der Nachhaltigkeit sowie des Verbraucher- und Gesundheitsschutzes durchführen kann.
 
@@ -174,8 +165,7 @@ Die Meisterprüfung umfasst die folgenden Prüfungsteile:
 
 11. Berücksichtigen der rechtlichen Bestimmungen und Regelungen der Pferdewirtschaft.
 
-
-## § 6 – Struktur der Prüfung
+# § 6 – Struktur der Prüfung
 
 Die Prüfung besteht aus
 
@@ -183,8 +173,7 @@ Die Prüfung besteht aus
 
 2. einer schriftlichen Prüfung nach § 8.
 
-
-## § 7 – Arbeitsprojekt
+# § 7 – Arbeitsprojekt
 
 (1) Mit der Durchführung des Arbeitsprojekts soll der Prüfling nachweisen, dass er in der Lage ist, ausgehend von konkreten betrieblichen Situationen die komplexen Zusammenhänge der Pferdehaltung, des Pferdeeinsatzes, der Dienstleistungen, der Produktion sowie der Vermarktung bezogen auf die von ihm gewählte Fachrichtung (§ 2) zu erfassen und zu analysieren sowie Lösungsvorschläge für betriebliche Probleme zu erstellen und umzusetzen.
 
@@ -198,15 +187,13 @@ Die Prüfung besteht aus
 
 (6) Für die Durchführung des Arbeitsprojekts steht dem Prüfling ein Zeitraum von zwölf Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 120 Minuten dauern.
 
-
-## § 8 – Schriftliche Prüfung
+# § 8 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den in § 5 Absatz 2 aufgeführten Inhalten. Bei der Wahl der Aufgaben ist die vom Prüfling gewählte Fachrichtung (§ 2) zu beachten.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 180 Minuten.
 
-
-## § 9 – Anforderungen und Prüfungsinhalte
+# § 9 – Anforderungen und Prüfungsinhalte
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und beurteilen sowie Entwicklungsmöglichkeiten aufzeigen kann.
 
@@ -234,8 +221,7 @@ Die Prüfung besteht aus
 
 11. Anwenden der betriebswirtschaftlichen Buchführung und der steuerlichen Buchführung unter Beachtung von Steuerarten und -verfahren.
 
-
-## § 10 – Struktur der Prüfung
+# § 10 – Struktur der Prüfung
 
 Die Prüfung besteht aus
 
@@ -243,8 +229,7 @@ Die Prüfung besteht aus
 
 2. einer schriftlichen Prüfung nach § 12.
 
-
-## § 11 – Arbeitsprojekt
+# § 11 – Arbeitsprojekt
 
 (1) Im Arbeitsprojekt soll der Prüfling eine komplexe betriebswirtschaftliche Aufgabe in einem pferdewirtschaftlichen Betrieb bearbeiten. Das Projekt soll für die weitere Entwicklung des Gesamtbetriebes oder eines wesentlichen Teils des Betriebes von Bedeutung sein.
 
@@ -258,15 +243,13 @@ Die Prüfung besteht aus
 
 (6) Für die Durchführung des Arbeitsprojekts steht dem Prüfling ein Zeitraum von sechs Monaten zur Verfügung. Das Fachgespräch soll nicht länger als 45 Minuten dauern.
 
-
-## § 12 – Schriftliche Prüfung
+# § 12 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit mit komplexen praxisbezogenen Aufgaben aus den in § 9 Absatz 2 aufgeführten Inhalten. Bei der Wahl der Aufgaben ist die vom Prüfling gewählte Fachrichtung (§ 2) zu beachten.
 
 (2) Die Bearbeitungszeit für die schriftliche Prüfung beträgt 180 Minuten.
 
-
-## § 13 – Anforderungen und Handlungsfelder
+# § 13 – Anforderungen und Handlungsfelder
 
 (1) In der Prüfung soll der Prüfling nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter und Mitarbeiterinnen führen kann sowie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
@@ -374,8 +357,7 @@ Die Prüfung besteht aus
 
 7. Führungsstile kennen und das eigene Führungsverhalten kritisch beurteilen.
 
-
-## § 14 – Struktur der Prüfung
+# § 14 – Struktur der Prüfung
 
 (1) Der Prüfungsteil Berufsausbildung und Mitarbeiterführung gliedert sich in folgende Abschnitte:
 
@@ -391,8 +373,7 @@ Die Prüfung besteht aus
 
 (3) Die Prüfung im Abschnitt Mitarbeiterführung besteht aus einer Fallstudie (§ 17).
 
-
-## § 15 – Praktischer Teil
+# § 15 – Praktischer Teil
 
 (1) Der praktische Teil besteht aus der Durchführung einer Ausbildungssituation und einem Fachgespräch.
 
@@ -400,15 +381,13 @@ Die Prüfung besteht aus
 
 (3) Für die schriftliche Planung der Ausbildungssituation steht ein Zeitraum von sieben Tagen zur Verfügung. Für die praktische Durchführung der Ausbildungssituation stehen 60 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 30 Minuten dauern.
 
-
-## § 16 – Schriftlicher Teil
+# § 16 – Schriftlicher Teil
 
 (1) Im schriftlichen Teil soll der Prüfling fallbezogene Aufgaben unter Aufsicht bearbeiten. Die Aufgaben sollen sich auf die in § 13 Absatz 3 bis 6 beschriebenen Kompetenzen beziehen.
 
 (2) Die Bearbeitungszeit für den schriftlichen Teil beträgt 150 Minuten.
 
-
-## § 17 – Fallstudie
+# § 17 – Fallstudie
 
 (1) In der Fallstudie soll der Prüfling eine Situation der Mitarbeiterführung bearbeiten. Die Situation wird vom Prüfungsausschuss vorgegeben und muss sich auf die in § 13 Absatz 7 und 8 beschriebenen Kompetenzen beziehen.
 
@@ -416,35 +395,32 @@ Die Prüfung besteht aus
 
 (3) Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das Fachgespräch soll nicht länger als 20 Minuten dauern.
 
-
-## § 18 – Befreiung von Prüfungsleistungen
+# § 18 – Befreiung von Prüfungsleistungen
 
 Für die Befreiung von einzelnen Prüfungsteilen nach § 4 oder von Prüfungen nach den §§ 7 und 8, den §§ 11 und 12 sowie den §§ 15 bis 17 ist § 56 Absatz 2 des Berufsbildungsgesetzes entsprechend anzuwenden.
 
-
-## § 19 – Bewertungen in den Prüfungen
+# § 19 – Bewertungen in den Prüfungen
 
 (1) Die drei Prüfungsteile nach § 4 sind gesondert zu bewerten.
 
 (2) Für die Bewertung des Prüfungsteils „Pferdehaltung, Pferdeeinsatz, Pferdezucht und Dienstleistungen“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 7) und der Bewertung der schriftlichen Prüfung (§ 8) nach folgender Formel zu bilden:  
   
-![](../normengrafiken/bgbl1_2015/j1825-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1825-1_0010.jpg)
 
 (3) Für die Bewertung des Prüfungsteils „Betriebs- und Unternehmensführung“ ist eine Note aus der Bewertung des Arbeitsprojektes (§ 11) und der Bewertung der schriftlichen Prüfung (§ 12) nach folgender Formel zu bilden:  
   
-![](../normengrafiken/bgbl1_2015/j1825-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1825-1_0020.jpg)
 
 (4) Im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“ ist zunächst eine Note für die Bewertung des Abschnitts „Berufsausbildung“ aus der Bewertung der Ausbildungssituation (§ 15) und der Bewertung der schriftlichen Prüfung (§ 16) nach folgender Formel zu bilden:  
   
-![](../normengrafiken/bgbl1_2015/j1825-1_0030.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1825-1_0030.jpg)  
 Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und Mitarbeiterführung“ eine Note aus der Bewertung der Leistung im Abschnitt Berufsausbildung nach Satz 1 und der Bewertung der Fallstudie (§ 17) nach folgender Formel zu bilden:  
   
-![](../normengrafiken/bgbl1_2015/j1825-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2015/j1825-1_0040.jpg)
 
 (5) Über die Gesamtleistung in der Prüfung ist eine Note zu bilden; sie wird als arithmetisches Mittel aus den Noten für die einzelnen Prüfungsteile errechnet. Im Falle der Befreiung von einzelnen Prüfungsbestandteilen nach § 18 entfällt diese Verpflichtung.
 
-
-## § 20 – Bestehen der Meisterprüfung und Zeugnisse
+# § 20 – Bestehen der Meisterprüfung und Zeugnisse
 
 (1) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil (§ 4) mindestens die Note „ausreichend“ erzielt hat.
 
@@ -462,8 +438,7 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 2. Befreiungen nach § 18, wobei jede Befreiung mit Ort, Datum und der Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung anzugeben ist.
 
-
-## § 21 – Mündliche Ergänzungsprüfung
+# § 21 – Mündliche Ergänzungsprüfung
 
 (1) Die Prüfungen nach den §§ 8, 12 und 16 sind jeweils durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung insgesamt ausschlaggebend sein kann.
 
@@ -471,8 +446,7 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 (3) Für die Ermittlung des Ergebnisses sind jeweils die bisherige Note der Prüfung und die Note der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 22 – Wiederholung der Meisterprüfung
+# § 22 – Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden wurde, kann zweimal wiederholt werden.
 
@@ -482,14 +456,12 @@ Anschließend ist für die Bewertung des Prüfungsteils „Berufsausbildung und 
 
 2. der Prüfling sich innerhalb von zwei Jahren, gerechnet vom Tag der Feststellung des Ergebnisses der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 23 – Übergangsvorschriften
+# § 23 – Übergangsvorschriften
 
 (1) Die bis zum Ablauf des 31. Dezember 2015 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 
 (2) Prüflinge, die die Prüfung nach den bis zum Ablauf des 31. Dezember 2015 geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem 1. Januar 2016 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den bis zum Ablauf des 31. Dezember 2015 geltenden Vorschriften ablegen.
 
-
-## § 24 – Inkrafttreten, Außerkrafttreten
+# § 24 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft. Gleichzeitig tritt die Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Pferdewirt vom 4. Februar 1980 (BGBl. I S. 131), die zuletzt durch Artikel 9 der Verordnung vom 21. Mai 2014 (BGBl. I S. 548) geändert worden ist, außer Kraft.

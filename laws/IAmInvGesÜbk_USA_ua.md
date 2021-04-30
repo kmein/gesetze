@@ -1,5 +1,3 @@
-# [IAmInvGesÜbk USA/ua] Übereinkommen zur Errichtung der Interamerikanischen Investitionsgesellschaft
-
-Ausfertigungsdatum: 19.11.1984
-
+% Übereinkommen zur Errichtung der Interamerikanischen Investitionsgesellschaft
+% Ausfertigungsdatum: 19.11.1984
  

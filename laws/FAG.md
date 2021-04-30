@@ -1,10 +1,7 @@
-# [FAG] Gesetz über den Finanzausgleich zwischen Bund und Ländern  (Finanzausgleichsgesetz - FAG)
-
-Ausfertigungsdatum: 20.12.2001
-
+% Gesetz über den Finanzausgleich zwischen Bund und Ländern  (Finanzausgleichsgesetz - FAG)
+% Ausfertigungsdatum: 20.12.2001
  
-
-## § 1 – Anteile von Bund und Ländern an der Umsatzsteuer
+# § 1 – Anteile von Bund und Ländern an der Umsatzsteuer
 
 (1) Das Aufkommen der Umsatzsteuer wird auf Bund, Länder und Gemeinden nach folgenden Prozentsätzen aufgeteilt:  
   
@@ -73,37 +70,31 @@ Euro.</td></tr></tbody></table>
 
 (5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696) verringern sich die in Absatz 2 genannten Beträge für den Bund im Jahr 2020 um 993 Millionen Euro und in den Jahren 2021 und 2022 um jeweils 1993 Millionen Euro; die in Absatz 2 genannten Beträge für die Länder erhöhen sich entsprechend im Jahr 2020 um 993 Millionen Euro und in den Jahren 2021 und 2022 um jeweils 1993 Millionen Euro.
 
-
-## § 2 – Verteilung der Umsatzsteuer unter den Ländern
+# § 2 – Verteilung der Umsatzsteuer unter den Ländern
 
 Der Länderanteil an der Umsatzsteuer wird vorbehaltlich des gemäß § 4 durchzuführenden Finanzkraftausgleichs nach dem Verhältnis ihrer Einwohnerzahlen auf die Länder verteilt. Hierbei sind die Einwohnerzahlen zugrunde zu legen, die das Statistische Bundesamt zum 30. Juni des Kalenderjahres, für das der Ausgleich durchgeführt wird (Ausgleichsjahr), festgestellt hat.
 
-
-## § 3 – Verteilung der Gewerbesteuerumlage unter den Ländern
+# § 3 – Verteilung der Gewerbesteuerumlage unter den Ländern
 
 Die Gewerbesteuerumlage steht den Ländern insoweit zu, als die Gewerbesteuer in dem Gebiet des einzelnen Landes vereinnahmt wird.
 
-
-## § 4 – Finanzkraftausgleich
+# § 4 – Finanzkraftausgleich
 
 Der Verteilung der Umsatzsteuer unter den Ländern ist ein angemessener Ausgleich der unterschiedlichen Finanzkraftverhältnisse hinzuzurechnen. Zu diesem Zweck erfolgt die Verteilung der Umsatzsteuer gemäß § 2 nach der Hinzurechnung von Zuschlägen zu und Abschlägen von der Finanzkraft.
 
-
-## § 5 – Abschläge und Zuschläge zum Zweck des Finanzkraftausgleichs
+# § 5 – Abschläge und Zuschläge zum Zweck des Finanzkraftausgleichs
 
 (1) Abschläge werden von den Ländern erhoben, deren Finanzkraftmesszahl im Ausgleichsjahr ihre Ausgleichsmesszahl übersteigt.
 
 (2) Zuschläge werden den Ländern gewährt, deren Finanzkraftmesszahl im Ausgleichsjahr ihre Ausgleichsmesszahl nicht erreicht.
 
-
-## § 6 – Finanzkraftmesszahl, Ausgleichsmesszahl
+# § 6 – Finanzkraftmesszahl, Ausgleichsmesszahl
 
 (1) Die Finanzkraftmesszahl eines Landes ist die Summe der Einnahmen des Landes nach § 7 und der Steuereinnahmen seiner Gemeinden nach § 8.
 
 (2) Die Ausgleichsmesszahl eines Landes ist die Summe der beiden Messzahlen, die zum Ausgleich der Einnahmen der Länder nach § 7 und zum Ausgleich der Steuereinnahmen der Gemeinden nach § 8 getrennt festgestellt werden. Die Messzahlen ergeben sich aus den auszugleichenden Einnahmen je Einwohner der Ländergesamtheit, vervielfacht mit der Einwohnerzahl des Landes; hierbei sind die nach § 9 gewerteten Einwohnerzahlen zugrunde zu legen.
 
-
-## § 7 – Einnahmen der Länder aus Steuern und Förderabgabe
+# § 7 – Einnahmen der Länder aus Steuern und Förderabgabe
 
 (1) Als Steuereinnahmen eines Landes gelten die ihm im Ausgleichsjahr zugeflossenen Einnahmen
 
@@ -121,8 +112,7 @@ Als Steuereinnahme eines Landes gilt ebenfalls seine Steuerkraftzahl der Grunder
 
 (3) Die Einnahmen nach den Absätzen 1 und 2 werden in den Ländern gekürzt, in denen die Veränderungsrate der Steuereinnahmen nach Absatz 1 Satz 1 bis 4 je Einwohner im Ausgleichsjahr gegenüber dem dem Ausgleichsjahr vorausgehenden Kalenderjahr die entsprechende Veränderungsrate der Ländergesamtheit übersteigt. Dabei sind die Einwohnerzahlen maßgebend, die das Statistische Bundesamt jeweils zum 30. Juni des Ausgleichsjahres und des dem Ausgleichsjahr vorausgehenden Kalenderjahres festgestellt hat. Der Kürzungsbetrag wird auf 12 Prozent des Betrages festgesetzt, der sich ergibt, wenn die Veränderungsrate der Steuereinnahmen eines Landes nach Absatz 1 Satz 1 bis 4 je Einwohner im Ausgleichsjahr, soweit sie die entsprechende Veränderungsrate der Ländergesamtheit übersteigt, vervielfacht wird mit den Steuereinnahmen des Landes nach Absatz 1 Satz 1 bis 4 je Einwohner des dem Ausgleichsjahr vorausgehenden Kalenderjahres sowie mit der Einwohnerzahl des Ausgleichsjahres.
 
-
-## § 8 – Steuereinnahmen der Gemeinden
+# § 8 – Steuereinnahmen der Gemeinden
 
 (1) Als Steuereinnahmen der Gemeinden eines Landes gelten nach Maßgabe des Absatzes 3
 
@@ -136,8 +126,7 @@ Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die Feststellunge
 
 (3) Die Steuereinnahmen der Gemeinden eines Landes nach Absatz 1 werden je für sich auf 75 Prozent herabgesetzt.
 
-
-## § 9 – Einwohnerzahl
+# § 9 – Einwohnerzahl
 
 (1) Der Ausgleichsmesszahl eines Landes wird die Einwohnerzahl (Wohnbevölkerung) zugrunde gelegt, die das Statistische Bundesamt zum 30. Juni des Ausgleichsjahres festgestellt hat.
 
@@ -145,15 +134,13 @@ Für die von den Gemeinden geleistete Gewerbesteuerumlage sind die Feststellunge
 
 (3) Bei der Ermittlung der Messzahlen zum Ausgleich der Steuereinnahmen der Gemeinden nach § 8 werden die Einwohnerzahlen der Länder Berlin, Bremen und Hamburg mit 135 Prozent, die Einwohnerzahl des Landes Mecklenburg-Vorpommern mit 105 Prozent, die Einwohnerzahl des Landes Brandenburg mit 103 Prozent, die Einwohnerzahl des Landes Sachsen-Anhalt mit 102 Prozent und die Einwohnerzahlen der übrigen Länder mit 100 Prozent gewertet.
 
-
-## § 10 – Bemessung der Zu- und Abschläge
+# § 10 – Bemessung der Zu- und Abschläge
 
 (1) Die Höhe des Zuschlags, der einem Land zu gewähren ist, beträgt 63 Prozent des Betrags, um den die Ausgleichsmesszahl dieses Landes seine Finanzkraftmesszahl übersteigt.
 
 (2) Die Höhe des Abschlags, der von einem Land zu erheben ist, beträgt 63 Prozent des Betrags, um den die Finanzkraftmesszahl dieses Landes seine Ausgleichsmesszahl übersteigt. Soweit die Höhe des Abschlags eines Landes seinen nach § 2 ermittelten Anteil übersteigt, ist der Unterschiedsbetrag von diesem Land aufzubringen.
 
-
-## § 11 – Bundesergänzungszuweisungen
+# § 11 – Bundesergänzungszuweisungen
 
 (1) Der Bund gewährt aus seinen Mitteln leistungsschwachen Ländern Bundesergänzungszuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs sowie zum Ausgleich von Sonderlasten nach Maßgabe der Absätze 2 bis 6.
 
@@ -201,13 +188,11 @@ Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem
 
 § 11 idF d. G v. 20.12.2001 I 3955, 3956: Nach Maßgabe der Entscheidungsformel mit Art. 107 Abs. 2 Satz 3 GG vereinbar gem. BVerfGE v. 19.10.2006 I 2652 - 2 BvF 3/03 -
 
-
-## § 12 – Feststellung der Umsatzsteueranteile
+# § 12 – Feststellung der Umsatzsteueranteile
 
 Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die endgültige Höhe der Länderanteile an der Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
 
-
-## § 13 – Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres
+# § 13 – Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres
 
 Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden während des Ausgleichsjahres aufgrund vorläufiger Bemessungsgrundlagen vorgenommen. Die vorläufigen Anteile an der Umsatzsteuer sowie die vorläufigen Zuschläge zu und Abschläge von der Finanzkraft werden nach den §§ 2 sowie 4 bis 10 ermittelt; jedoch werden zugrunde gelegt
 
@@ -217,8 +202,7 @@ Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden während des
 
 3. die Einwohnerzahlen nach § 9 Abs. 1, die das Statistische Bundesamt zum 30. Juni des Jahres festgestellt hat, das dem Ausgleichsjahr vorausgeht; sind diese nicht rechtzeitig verfügbar, die vom Statistischen Bundesamt zuletzt festgestellten Einwohnerzahlen.
 
-
-## § 14 – Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs
+# § 14 – Zahlungsverkehr zum Vollzug der Umsatzsteuerverteilung und des Finanzkraftausgleichs
 
 (1) Der Zahlungsverkehr wird während des Ausgleichsjahres in der Weise abgewickelt, dass die Ablieferung des Bundesanteils an der durch Landesfinanzbehörden verwalteten Umsatzsteuer um die Beträge erhöht oder ermäßigt wird, die nach der vorläufigen Bemessung der nach dem Verhältnis der Einwohnerzahlen der Länder verteilten Länderanteile an der Umsatzsteuer nach § 2 Satz 1 sowie der vorläufig erhobenen Abschläge und der vorläufig gewährten Zuschläge nach § 10 zu verrechnen sind. Soweit der Anspruch eines Landes aus diesen Verrechnungen durch den Bundesanteil an der Umsatzsteuer nicht voll gedeckt wird, überweist das Bundesministerium der Finanzen diesem Land den nicht gedeckten Teil des vorläufigen Ausgleichsanspruchs in monatlichen Teilbeträgen. Soweit die Verpflichtung eines Landes aus diesen Verrechnungen über dem Aufkommen der von Landesfinanzbehörden verwalteten Umsatzsteuer liegt, ist der darüber liegende Teil von dem Land dem Bundesministerium der Finanzen in monatlichen Teilbeträgen zu überweisen. Die für die Aufteilung des Umsatzsteueraufkommens auf Bund, Länder und Gemeinden in § 1 Absatz 2 genannten Beträge werden gesondert im Rahmen des Zahlungsverkehrs der Einfuhrumsatzsteuer nach Absatz 2 berücksichtigt; Entsprechendes gilt für unterjährige Gesetzesänderungen mit Auswirkungen auf die Umsatzsteueranteile nach § 1 Absatz 1 im laufenden Ausgleichsjahr.
 
@@ -228,33 +212,28 @@ Die Verteilung der Umsatzsteuer und der Finanzkraftausgleich werden während des
 
 (4) Das Nähere bestimmt das Bundesministerium der Finanzen jährlich in einer Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.
 
-
-## § 15 – Endgültige Abrechnung der Umsatzsteuerverteilung und des Finanzkraftausgleichs
+# § 15 – Endgültige Abrechnung der Umsatzsteuerverteilung und des Finanzkraftausgleichs
 
 Unterschiede zwischen den vorläufig gezahlten und den endgültig festgestellten Ausgleichszahlungen werden durch Überweisungen ausgeglichen, die mit dem Inkrafttreten der in § 12 vorgesehenen Rechtsverordnung fällig werden. Das Bundesministerium der Finanzen trifft die für den Überweisungsverkehr erforderlichen Anordnungen.
 
-
-## § 16 – Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
+# § 16 – Zahlungsverkehr zum Vollzug der Bundesergänzungszuweisungen
 
 (1) Auf die Bundesergänzungszuweisungen nach § 11 Absatz 2 und 5 werden am 15. März, 15. Juni, 15. September und 15. Dezember Abschlagszahlungen nach Maßgabe der Verhältnisse des jeweils vorhergehenden Abrechnungszeitraums entrichtet. Gleichzeitig werden die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
 
 (2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3, 4 und 6 sind mit je einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und 15. Dezember fällig.
 
-
-## § 17 – Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer
+# § 17 – Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer
 
 (1) Die Höhe des Gemeindeanteils am Aufkommen der durch Bundesfinanzbehörden und Landesfinanzbehörden verwalteten Umsatzsteuer und seine Verteilung nach Ländern nach § 5a des Gemeindefinanzreformgesetzes werden beim Bundesministerium der Finanzen jeweils nach Ablauf eines Monats berechnet. Der Gemeindeanteil an der durch Bundesfinanzbehörden verwalteten Einfuhrumsatzsteuer wird den Ländern zusammen mit dem Länderanteil an der Einfuhrumsatzsteuer nach § 14 Abs. 2 in monatlichen Teilbeträgen überwiesen. Dabei wird er dergestalt länderweise verteilt, dass bei dem einzelnen Land zusammen mit dem Gemeindeanteil an der durch Landesfinanzbehörden verwalteten Umsatzsteuer der insgesamt seinen Gemeinden zustehende Anteil erreicht wird. Ist der Gemeindeanteil an der durch Landesfinanzbehörden verwalteten Umsatzsteuer bei dem einzelnen Land höher als der seinen Gemeinden insgesamt zustehende Anteil an der Umsatzsteuer, wird der darüber hinausgehende Betrag mit dem Anteil des Landes an der Einfuhrumsatzsteuer verrechnet. § 14 Absatz 1 Satz 4 bleibt unberührt.
 
 (2) Näheres kann das Bundesministerium der Finanzen durch Rechtsverordnung bestimmen, die der Zustimmung des Bundesrates bedarf.
 
-
-## § 18 – Berichts- und Auskunftspflichten
+# § 18 – Berichts- und Auskunftspflichten
 
 (1) Über Struktur und Höhe des Finanzkraftausgleichs sowie der Zuweisungen gemäß § 11 im Ausgleichsjahr unterrichtet die Bundesregierung im Folgejahr den Bundestag und den Bundesrat.
 
 (2) Die zuständigen Landesbehörden sind verpflichtet, dem Bundesministerium der Finanzen alle zur Durchführung dieses Gesetzes angeforderten Auskünfte zu erteilen. Die oberste Rechnungsprüfungsbehörde des Landes hat die sachliche Richtigkeit der zur Feststellung der Finanzkraft des Landes erforderlichen Angaben zu bestätigen.
 
-
-## § 19 – Vollzug und Abrechnung der Ausgleichsjahre vor dem 1. Januar 2020
+# § 19 – Vollzug und Abrechnung der Ausgleichsjahre vor dem 1. Januar 2020
 
 Für den Vollzug und die Abrechnung der Umsatzsteuerverteilung, des Finanzausgleichs und der Bundesergänzungszuweisungen für die vor dem 1. Januar 2020 liegenden Ausgleichsjahre findet das Gesetz über den Finanzausgleich zwischen Bund und Ländern vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) in der am 31. Dezember des jeweiligen Ausgleichsjahres geltenden Fassung weiterhin Anwendung.

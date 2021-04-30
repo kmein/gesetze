@@ -1,10 +1,7 @@
-# [PflSchMAnwLuftFzgV] Verordnung über die Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen
-
-Ausfertigungsdatum: 27.06.2013
-
+% Verordnung über die Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen
+% Ausfertigungsdatum: 27.06.2013
  
-
-## § 1 – Antrag
+# § 1 – Antrag
 
 (1) Der Antrag auf Genehmigung der Anwendung eines Pflanzenschutzmittels mit einem Luftfahrzeug nach § 18 Absatz 2 des Pflanzenschutzgesetzes ist schriftlich oder elektronisch mit folgenden Angaben und beizufügenden Unterlagen zu stellen:
 
@@ -36,8 +33,7 @@ Ausfertigungsdatum: 27.06.2013
 
 (3) Angaben zur Bekämpfungsnotwendigkeit sind nicht erforderlich, wenn sie der zuständigen Behörde bereits vorliegen oder diese die Bekämpfung des Schadorganismus nach § 8 des Pflanzenschutzgesetzes angeordnet hat.
 
-
-## § 2 – Genehmigungsverfahren
+# § 2 – Genehmigungsverfahren
 
 (1) Die zuständige Behörde entscheidet im Rahmen der Genehmigung nach § 18 Absatz 2 des Pflanzenschutzgesetzes über
 
@@ -57,13 +53,11 @@ Die Genehmigung ist zu befristen.
 
 (3) Auflagen im Sinne des § 18 Absatz 2 Satz 3 sind insbesondere die Pflicht zur Information der zuständigen Behörde über den Anwendungszeitpunkt und über Anhaltspunkte, die auf eine Gefahr für Mensch, Tier oder Naturhaushalt schließen lassen, sowie der Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung von Auflagen.
 
-
-## § 3 – Unterrichtung der Öffentlichkeit
+# § 3 – Unterrichtung der Öffentlichkeit
 
 Die zuständige Behörde stellt sicher, dass die Öffentlichkeit in geeigneter Weise und rechtzeitig über die genehmigten Anwendungen von Pflanzenschutzmitteln mit Luftfahrzeugen, insbesondere über die genehmigten Pflanzenschutzmittel und Zusatzstoffe, den Wirkungsbereich, die zu behandelnde Kultur, die Anwendungszeitpunkte, die zu behandelnden Flächen sowie die erteilten Auflagen, unterrichtet wird.
 
-
-## § 4 – Verfahren für die Genehmigung eines Pflanzenschutzmittels für die Anwendung mit Luftfahrzeugen
+# § 4 – Verfahren für die Genehmigung eines Pflanzenschutzmittels für die Anwendung mit Luftfahrzeugen
 
 (1) Dem Antrag auf Genehmigung nach § 18 Absatz 3 Nummer 2 in Verbindung mit Absatz 4 des Pflanzenschutzgesetzes sind, soweit beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit keine ausreichenden Informationen insbesondere aus Verfahren zur Erteilung von Genehmigungen oder Zulassungen nach der Verordnung (EG) Nr. 1107/2009 vorliegen, folgende zusätzliche Unterlagen beizufügen:
 

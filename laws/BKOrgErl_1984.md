@@ -1,22 +1,15 @@
-# [BKOrgErl 1984] Organisationserlaß des Bundeskanzlers
-
-Ausfertigungsdatum: 17.12.1984
-
+% Organisationserlaß des Bundeskanzlers
+% Ausfertigungsdatum: 17.12.1984
  
+# I.
 
-## I.
+Der Staatssekretär beim Bundeskanzler wird zum Beauftragten für die Nachrichtendienste bestellt. Er untersteht dem Bundeskanzler unmittelbar. Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt. Dem Beauftragten ist zur Erfüllung seiner Aufgaben eine Abteilung des Bundeskanzleramtes fachaufsichtlich unterstellt.
 
-Der Staatssekretär beim Bundeskanzler wird zum Beauftragten für die Nachrichtendienste bestellt. Er untersteht dem Bundeskanzler unmittelbar.  
-Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt.  
-Dem Beauftragten ist zur Erfüllung seiner Aufgaben eine Abteilung des Bundeskanzleramtes fachaufsichtlich unterstellt.
-
-
-## II.
+# II.
 
 Dem Staatssekretär beim Bundeskanzler und Beauftragten für die Nachrichtendienste ist der Bundesnachrichtendienst unterstellt.
 
-
-## III.
+# III.
 
 Dem Beauftragten für die Nachrichtendienste obliegt die Koordinierung und Intensivierung der Zusammenarbeit des Bundesnachrichtendienstes, des Bundesamtes für Verfassungsschutz und des Militärischen Abschirmdienstes untereinander und ihre ressortübergreifende Zusammenarbeit mit anderen Behörden und Dienststellen.
 
@@ -46,7 +39,6 @@ d) das Recht zu unmittelbaren Besprechungen mit den Leitern der Dienste und dere
 
 Den dienstaufsichtsführenden Ressorts ist von allen an die Dienste gerichteten Auskunftsersuchen und dem sonstigen Schriftwechsel mindestens gleichzeitig Kenntnis zu geben.
 
-
-## IV.
+# IV.
 
 Das Bundesministerium des Innern und das Bundesministerium der Verteidigung unterrichten den Beauftragten für die Nachrichtendienste über nachrichtendienstliche Verdachtsfälle und andere besondere Vorkommnisse aus dem Bereich des Bundesamtes für Verfassungsschutz und des Militärischen Abschirmdienstes, die bei ihrem Bekanntwerden das politische oder öffentliche Interesse finden könnten und deshalb für den Bundeskanzler von Bedeutung sein können (§§ 3, 15 Geschäftsordnung der Bundesregierung).

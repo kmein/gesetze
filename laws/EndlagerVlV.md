@@ -1,20 +1,15 @@
-# [EndlagerVlV] Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle  (Endlagervorausleistungsverordnung - EndlagerVlV)
-
-Ausfertigungsdatum: 28.04.1982
-
+% Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle  (Endlagervorausleistungsverordnung - EndlagerVlV)
+% Ausfertigungsdatum: 28.04.1982
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 21b Abs. 3 in Verbindung mit § 54 des Atomgesetzes in der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053), von denen § 21b Abs. 3 durch Gesetz vom 20. August 1980 (BGBl. I S. 1556) eingefügt worden ist und § 54 durch das gleiche Gesetz geändert worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Erhebung von Vorausleistungen
+# § 1 – Erhebung von Vorausleistungen
 
 Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung radioaktiver Abfälle erhebt das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach dieser Verordnung Vorausleistungen auf die nach § 21b des Atomgesetzes zu entrichtenden Beiträge.
 
-
-## § 2 – Vorausleistungspflichtige
+# § 2 – Vorausleistungspflichtige
 
 (1) Die Vorausleistungen werden von demjenigen erhoben, dem eine Genehmigung nach den §§ 6, 7 oder 9 des Atomgesetzes oder nach § 12 Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist, wenn auf Grund der genehmigten Tätigkeit mit einem Anfall von radioaktiven Abfällen, die an ein Endlager abgeliefert werden müssen, zu rechnen ist. Die Vorausleistungspflicht bleibt auch dann bestehen, wenn eine Genehmigung nach Satz 1 zwar nicht mehr vorliegt, aber auf Grund der Ausnutzung der erteilten Genehmigung radioaktive Abfälle, die an ein Endlager abgeliefert werden müssen, angefallen sind. Wenn auf Grund einer genehmigten Tätigkeit nach Satz 1 radioaktive Abfälle angefallen sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber als auch nach Satz 1 ein derzeitiger Genehmigungsinhaber vorausleistungspflichtig sind, haften diese gesamtschuldnerisch. Soweit die Finanzierungspflicht für Anlagen zur Endlagerung radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes auf den Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes übergegangen ist, ist der Fonds anstelle des Genehmigungsinhabers vorausleistungspflichtig.
 
@@ -24,8 +19,7 @@ Zur Deckung des notwendigen Aufwandes für Anlagen zur Endlagerung radioaktiver 
 
 (4) Von der Erhebung von Vorausleistungen kann abgesehen werden, wenn sich auf Grund der genehmigungsbedürftigen Tätigkeit oder des Betriebs der Anlage nur kleine Mengen an radioaktiven Abfällen mit geringer spezifischer Aktivität ergeben.
 
-
-## § 3 – Art und Umfang des Aufwandes
+# § 3 – Art und Umfang des Aufwandes
 
 Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden ist für
 
@@ -41,8 +35,7 @@ Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden
 
 6. die Errichtung, die Erweiterung und die Erneuerung.
 
-
-## § 4 – Ermittlung des Aufwandes, Erhebungsverfahren
+# § 4 – Ermittlung des Aufwandes, Erhebungsverfahren
 
 (1) Der notwendige Aufwand ist einzeln für jede Anlage nach den tatsächlich entstandenen Kosten zu ermitteln und abzurechnen.
 
@@ -58,8 +51,7 @@ Die Vorausleistungen können erhoben werden, wenn notwendiger Aufwand entstanden
 
 Bei der Erhebung nach Satz 1 Nr. 2 ist die Zahlung nach Satz 1 Nr. 1 anzurechnen, eine zu viel entrichtete Zahlung wird dem Vorausleistungspflichtigen unverzinst erstattet.
 
-
-## § 5 – Vorausleistungsbescheid
+# § 5 – Vorausleistungsbescheid
 
 (1) Die Vorausleistungen werden durch Bescheid erhoben. Gegen Verwaltungsakte nach dieser Vorschrift findet ein Vorverfahren statt. Über den Widerspruch entscheidet das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
@@ -67,8 +59,7 @@ Bei der Erhebung nach Satz 1 Nr. 2 ist die Zahlung nach Satz 1 Nr. 1 anzurechnen
 
 (3) (weggefallen)
 
-
-## § 6 – Verteilung des Aufwandes
+# § 6 – Verteilung des Aufwandes
 
 (1) Der notwendige Aufwand wird wie folgt verteilt:
 
@@ -96,15 +87,13 @@ c) zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Ge
 
 (5)Die Verteilung des Aufwandes ist im Abstand von jeweils drei Jahren zu überprüfen. Bei erheblichen Abweichungen ist eine Anpassung mit Wirkung auch für die Vergangenheit durch Novellierung dieser Verordnung vorzunehmen.
 
-
-## § 7 – Fälligkeit der Vorausleistungen
+# § 7 – Fälligkeit der Vorausleistungen
 
 (1) Die Vorausleistung und der Vorausleistungsabschlag werden einen Monat nach Zustellung des Vorausleistungsbescheides fällig, sofern nicht Teilzahlungen vorgesehen sind.
 
 (2) Werden die Vorausleistungen und die Vorausleistungsabschläge nicht innerhalb von zwei Wochen nach Ablauf des Fälligkeitstages entrichtet, ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von 1 Prozent des rückständigen Betrages zu entrichten. Der Säumniszuschlag wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die Säumnis länger als drei Tage beträgt. Wird die Festsetzung einer Vorausleistung aufgehoben oder geändert, bleiben die bis dahin verwirkten Säumniszuschläge unberührt.
 
-
-## § 8 – Erstattung der Vorausleistungen
+# § 8 – Erstattung der Vorausleistungen
 
 (1) Die Vorausleistungen sind zu erstatten, falls die in § 2 Abs. 1 Satz 1 genannte Genehmigung nicht mehr vorliegt und keine radioaktiven Abfälle angefallen sind, die an ein Endlager abgeliefert werden müssen. Bei der Erstattung werden die Vorausleistungen mit 3 Prozent über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs verzinst.
 
@@ -112,18 +101,15 @@ c) zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst eine Ge
 
 (3) Im Falle des Absatzes 1 Satz 1 unterbleibt eine Erstattung, wenn durch Vereinbarung zwischen dem Erstattungsberechtigten und einem oder mehreren Vorausleistungspflichtigen die zu erstattenden Vorausleistungen mit Wirkung zum jeweiligen Zahlungszeitpunkt der Vorausleistungen übertragen worden sind; übertragene Vorausleistungen sind dabei wie eigene Vorausleistungen zu behandeln.
 
-
-## § 9 – Anrechnung der Vorausleistungen
+# § 9 – Anrechnung der Vorausleistungen
 
 Die nach dieser Verordnung erhobenen Vorausleistungen werden auf Beiträge und Vorausleistungen, die im Rahmen einer abschließenden Regelung nach § 21b des Atomgesetzes erhoben werden, angerechnet. Dabei werden die Vorausleistungen bis zum Bemessungszeitraum 2001 mit 3 Prozent über dem Diskontsatz der Deutschen Bundesbank verzinst. Die Vorausleistungen ab dem Bemessungszeitraum 2002 werden mit 3 Prozent über dem Basiszins nach § 247 des Bürgerlichen Gesetzbuchs verzinst. Dabei wird der Zins jährlich bis zum Bemessungszeitraum 2002 nachträglich dem zu verzinsenden Betrag hinzugerechnet. Der sich ergebende Gesamtbetrag aus Zins und Zinseszins bis zum Bemessungszeitraum 2002 sowie die anfallenden Zinsen ab dem Bemessungszeitraum 2003 werden neben dem in § 3 aufgeführten notwendigen Aufwand als weiterer notwendiger Aufwand in die Beitragsberechnung einbezogen.
 
-
-## § 10 – Vorausleistungen für vor Inkrafttreten der Verordnung entstandenen Aufwand
+# § 10 – Vorausleistungen für vor Inkrafttreten der Verordnung entstandenen Aufwand
 
 Vorausleistungen werden erhoben für den ab 1. Januar 1977 entstandenen notwendigen Aufwand. Der gesamte Aufwand für den vor Inkrafttreten dieser Verordnung liegenden Zeitraum wird nach § 4 ermittelt und zu zwei Dritteln nach Inkrafttreten dieser Verordnung erhoben. Ein Drittel dieses Aufwandes wird bei der erstmaligen Erhebung von Vorausleistungen für den Aufwand, der nach Inkrafttreten dieser Verordnung entstanden ist, miterhoben.
 
-
-## § 11 – Bemessungszeiträume 1977 bis 2003
+# § 11 – Bemessungszeiträume 1977 bis 2003
 
 (1) Die Vorausleistungen für die Bemessungszeiträume 1977 bis 2002 werden auf der Grundlage dieser Verordnung vom Bundesamt für Strahlenschutz neu berechnet und durch Verwaltungsakt festgestellt. Soweit bei Vorausleistungspflichtigen die von ihnen insgesamt für die Bemessungszeiträume 1977 bis 2002 erbrachten Vorausleistungen die nach Satz 1 neu berechneten Vorausleistungen übersteigen, ist dieser Differenzbetrag unverzinst vom Bundesamt für Strahlenschutz innerhalb eines Zeitraumes von fünf Jahren in fünf gleichen Jahresraten, beginnend im Kalenderjahr 2005, diesen Vorausleistungspflichtigen zu erstatten. Soweit bei Vorausleistungspflichtigen die von ihnen insgesamt für die Bemessungszeiträume 1977 bis 2002 erbrachten Vorausleistungen die nach Satz 1 neu berechneten Vorausleistungen unterschreiten, ist dieser Differenzbetrag vom Bundesamt für Strahlenschutz innerhalb eines Zeitraumes von fünf Jahren in fünf gleichen Jahresraten, beginnend im Kalenderjahr 2005, von diesen Vorausleistungspflichtigen zu erheben.
 
@@ -131,8 +117,7 @@ Vorausleistungen werden erhoben für den ab 1. Januar 1977 entstandenen notwendi
 
 (3) Für den Bemessungszeitraum 2003 werden die Vorausleistungen im Kalenderjahr 2004 nach § 4 Abs. 1 und 2 Satz 3 und Absatz 3 Satz 1 Nr. 2 erhoben und der notwendige Aufwand nach § 6 verteilt.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 

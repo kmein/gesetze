@@ -1,15 +1,11 @@
-# [MedBVSV] Verordnung zur Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie   (Medizinischer Bedarf Versorgungssicherstellungsverordnung - MedBVSV)
-
-Ausfertigungsdatum: 25.05.2020
-
+% Verordnung zur Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie   (Medizinischer Bedarf Versorgungssicherstellungsverordnung - MedBVSV)
+% Ausfertigungsdatum: 25.05.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b und c in Verbindung mit Absatz 3 Satz 2 des Infektionsschutzgesetzes, der durch Artikel 1 Nummer 4 des Gesetzes vom 27. März 2020 (BGBl. I S. 587) neu gefasst worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Zweck der Verordnung und Begriffsbestimmungen
+# § 1 – Zweck der Verordnung und Begriffsbestimmungen
 
 (1) Diese Verordnung dient der Sicherstellung der Versorgung der Bevölkerung mit Produkten des medizinischen Bedarfs während der vom Deutschen Bundestag am 28. März 2020 festgestellten epidemischen Lage von nationaler Tragweite.
 
@@ -17,15 +13,13 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b und c in Verbindung mit Absa
 
 (3) Bundesministerium im Sinne dieser Verordnung ist das Bundesministerium für Gesundheit.
 
-
-## § 2 – Beschaffung und Abgabe durch Behörden des Bundes
+# § 2 – Beschaffung und Abgabe durch Behörden des Bundes
 
 (1) Das Bundesministerium kann zu dem in § 1 Absatz 1 genannten Zweck Produkte des medizinischen Bedarfs auch für Stellen außerhalb der Bundesverwaltung selbst oder durch beauftragte Stellen zentral beschaffen, lagern, herstellen und in den Verkehr bringen.
 
 (2) Von den Abnehmern der Produkte des medizinischen Bedarfs nach Absatz 1 Satz 1 oder den von diesen benannten Stellen soll ein angemessener Ersatz der Aufwendungen verlangt werden. Durch die Regelung bleiben haushaltsrechtliche Vorgaben unberührt.
 
-
-## § 3 – Ausnahmen vom Arzneimittelgesetz und der Arzneimittelhandelsverordnung zur Beschaffung und Abgabe gemäß § 2
+# § 3 – Ausnahmen vom Arzneimittelgesetz und der Arzneimittelhandelsverordnung zur Beschaffung und Abgabe gemäß § 2
 
 (1) § 8 Absatz 3, die §§ 10, 11, 11a und 21 Absatz 1, § 21a Absatz 1 und 9, § 32 Absatz 1, die §§ 43, 47 und 72 Absatz 1 und 4, § 72a Absatz 1, § 72b Absatz 1 und 2, § 72c Absatz 1, die §§ 73a, 78 und 94 des Arzneimittelgesetzes (AMG) sowie § 4a Absatz 1 und § 6 Absatz 1 der Arzneimittelhandelsverordnung (AM-HandelsV) gelten nicht für das Bundesministerium, die von ihm beauftragten Stellen und für Personen, von denen das Bundesministerium oder eine von ihm beauftragte Stelle die Arzneimittel beschafft, wenn das Bundesministerium oder eine von ihm beauftragte Stelle nach § 2 Absatz 1 Arzneimittel oder Wirk-, Ausgangs- und Hilfsstoffe beschafft und in den Verkehr bringt.
 
@@ -35,8 +29,7 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b und c in Verbindung mit Absa
 
 (4) Abweichend von § 84 AMG unterliegen pharmazeutische Unternehmer, Hersteller und Angehörige von Gesundheitsberufen hinsichtlich der Auswirkungen der Anwendung der in § 1 Absatz 2 genannten Produkte nicht der Haftung, wenn diese Produkte durch das Bundesministerium als Reaktion auf die vermutete oder bestätigte Verbreitung des SARS-CoV-2-Erregers in den Verkehr gebracht werden und nach den Gegebenheiten des Einzelfalls die auf Absatz 1 gestützten Abweichungen vom Arzneimittelgesetz geeignet sind, den Schaden zu verursachen. Pharmazeutische Unternehmer, Hersteller und Angehörige von Gesundheitsberufen haben die Folgen der auf Absatz 1 gestützten Abweichungen vom Arzneimittelgesetz nur bei grober Fahrlässigkeit oder Vorsatz zu vertreten. Im Übrigen bleiben die Haftung für schuldhaftes Handeln sowie die Haftung für fehlerhafte Produkte nach den Vorschriften des Produkthaftungsgesetzes unberührt.
 
-
-## § 4 – Weitere Ausnahmen vom Arzneimittelgesetz, von der Arzneimittel- und Wirkstoffherstellungsverordnung und der Arzneimittel-Härtefall-Verordnung sowie Anordnung von Maßnahmen
+# § 4 – Weitere Ausnahmen vom Arzneimittelgesetz, von der Arzneimittel- und Wirkstoffherstellungsverordnung und der Arzneimittel-Härtefall-Verordnung sowie Anordnung von Maßnahmen
 
 (1) Die nach § 77 AMG zuständige Bundesoberbehörde kann im Einzelfall anordnen, dass abweichend von den §§ 10 und 11 AMG Arzneimittel ohne eine Kennzeichnung und Packungsbeilage in den Verkehr gebracht werden dürfen, wenn dies zur Sicherstellung der Versorgung mit Arzneimitteln erforderlich ist. § 11a AMG findet auf diese Arzneimittel keine Anwendung. Die zuständige Bundesoberbehörde veröffentlicht in diesen Fällen die erforderlichen Produktinformationen in geeigneter Weise und barrierefrei.
 
@@ -56,8 +49,7 @@ Auf Grund des § 5 Absatz 2 Nummer 4 Buchstabe a, b und c in Verbindung mit Absa
 
 (9) Die für die Überwachung des Verkehrs mit Arzneimitteln nach § 64 AMG zuständige Behörde kann im Einzelfall Abweichungen von § 52b Absatz 2 und 3 AMG und den §§ 4, 4a und 6 AM-HandelsV gestatten, wenn die jeweilige Ausnahme von den genannten Vorschriften zur Sicherstellung der Versorgung der Bevölkerung mit Arzneimitteln erforderlich ist.
 
-
-## § 5 – Ausnahmen vom Transfusionsgesetz
+# § 5 – Ausnahmen vom Transfusionsgesetz
 
 Das Paul-Ehrlich-Institut wird ermächtigt, im Einvernehmen mit dem Robert Koch-Institut und mit Zustimmung des Bundesministeriums angepasst an die vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes (IfSG) festgestellte epidemische Lage von nationaler Tragweite
 
@@ -67,18 +59,15 @@ Das Paul-Ehrlich-Institut wird ermächtigt, im Einvernehmen mit dem Robert Koch-
 
 Das Paul-Ehrlich-Institut hat die abweichenden Festlegungen nach den Nummern 1 und 2 barrierefrei auf seiner Internetseite bekanntzumachen.
 
-
-## § 6 – Ausnahmen von der AMG-Kostenverordnung
+# § 6 – Ausnahmen von der AMG-Kostenverordnung
 
 Von der Erhebung von Gebühren nach § 1 der AMG-Kostenverordnung für Beratungsgespräche, Verfahren der Zulassung von Arzneimitteln einschließlich Änderungs- und Verlängerungsverfahren sowie für Genehmigungsverfahren für klinische Prüfungen und für Tätigkeiten im Rahmen der Sammlung und Bewertung von Arzneimittelrisiken wird abgesehen, sofern Gegenstand des jeweiligen Beratungsgesprächs oder des jeweiligen Verfahrens ein Arzneimittel zur Behandlung, Vorbeugung oder zur Diagnose von COVID-19 ist.
 
-
-## § 7 – Ausnahmen von der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz
+# § 7 – Ausnahmen von der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz
 
 Von der Erhebung von Gebühren nach den §§ 2, 4, 4a und 5 der Kostenverordnung für Amtshandlungen des Paul-Ehrlich-Instituts nach dem Arzneimittelgesetz für Beratungsgespräche, Verfahren der Zulassung oder der Genehmigung von Arzneimitteln einschließlich Änderungs- und Verlängerungsverfahren sowie für Genehmigungsverfahren für klinische Prüfungen und für Tätigkeiten im Rahmen der Sammlung und Bewertung von Arzneimittelrisiken wird abgesehen, sofern Gegenstand des jeweiligen Beratungsgesprächs oder des jeweiligen Verfahrens ein Arzneimittel zur Behandlung, Vorbeugung oder zur Diagnose von COVID-19 ist.
 
-
-## § 8 – Ausnahmen von der GCP-Verordnung
+# § 8 – Ausnahmen von der GCP-Verordnung
 
 (1) Die nach § 77 AMG zuständige Bundesoberbehörde kann im Einzelfall Ausnahmen von den Regelungen des § 5 der GCP-Verordnung (GCP-V) über die Kennzeichnung von klinischen Prüfpräparaten gestatten, sofern Gegenstand der jeweiligen klinischen Prüfung ein Arzneimittel zur Vorbeugung, Diagnose oder Behandlung von COVID-19 ist.
 
@@ -86,8 +75,7 @@ Von der Erhebung von Gebühren nach den §§ 2, 4, 4a und 5 der Kostenverordnung
 
 (3) Abweichend von § 10 Absatz 3 Satz 1 GCP-V gilt eine Änderung einer von der zuständigen Bundesoberbehörde genehmigten oder von der zuständigen Ethik-Kommission zustimmend bewerteten klinischen Prüfung nicht als genehmigt, wenn die zuständige Bundesoberbehörde dem Sponsor innerhalb von höchstens 20 Tagen nach Eingang des ordnungsgemäßen Änderungsantrags keine mit Gründen versehenen Einwände gegen die Änderung übermittelt.
 
-
-## § 9 – Bereitstellung von persönlichen Schutzausrüstungen im Kontext der COVID-19-Bedrohung
+# § 9 – Bereitstellung von persönlichen Schutzausrüstungen im Kontext der COVID-19-Bedrohung
 
 (1) Soweit es zur Bewältigung der vom Deutschen Bundestag nach § 5 Absatz 1 Satz 1 IfSG festgestellten epidemischen Lage von nationaler Tragweite und der damit verbundenen Mangelsituation erforderlich ist, dürfen persönliche Schutzausrüstungen im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) 2016/425 des Europäischen Parlaments und des Rates vom 9. März 2016 über persönliche Schutzausrüstungen und zur Aufhebung der Richtlinie 89/686/EWG des Rates (ABl. L 81 vom 31.3.2016, S. 51), die in den Vereinigten Staaten von Amerika, Kanada, Australien oder Japan verkehrsfähig sind, auf dem deutschen Markt durch einen Wirtschaftsakteur im Sinne des Artikels 3 Nummer 8 der Verordnung (EU) 2016/425 bereitgestellt werden. Die Verkehrsfähigkeit der persönlichen Schutzausrüstungen in der Bundesrepublik Deutschland kontrolliert die zuständige Marktüberwachungsbehörde nach § 24 Absatz 1 des Produktsicherheitsgesetzes (ProdSG).
 
@@ -97,7 +85,6 @@ Von der Erhebung von Gebühren nach den §§ 2, 4, 4a und 5 der Kostenverordnung
 
 (4) Persönliche Schutzausrüstungen, die nach Maßgabe von Absatz 1 Satz 2 oder Absatz 2 Satz 2 von der zuständigen Marktüberwachungsbehörde nach § 24 ProdSG als verkehrsfähig angesehen werden, dürfen abweichend von § 2 Absatz 1 Nummer 1 der PSA-Benutzungsverordnung durch den Arbeitgeber ausgewählt und den Beschäftigten bereitgestellt werden.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft; sie tritt nach § 5 Absatz 4 Satz 1 des Infektionsschutzgesetzes außer Kraft.

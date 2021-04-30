@@ -1,10 +1,7 @@
-# [BGH/BPatGERVV] Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht  (BGH/BPatGERVV)
-
-Ausfertigungsdatum: 24.08.2007
-
+% Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht  (BGH/BPatGERVV)
+% Ausfertigungsdatum: 24.08.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen
 
@@ -14,13 +11,11 @@ auf Grund des § 130a Abs. 2 Satz 1 der Zivilprozessordnung in der Fassung der B
 \-  
 auf Grund des § 125a Abs. 2 Satz 1 des Patentgesetzes, der durch Artikel 4 Abs. 1 Nr. 2 des Gesetzes vom 19. Juli 2002 (BGBl. I S. 2681) eingefügt worden ist, des § 21 Abs. 1 des Gebrauchsmustergesetzes, der zuletzt durch Artikel 4 Abs. 42 Nr. 1 des Gesetzes vom 5. Mai 2004 (BGBl. I S. 718) geändert worden ist, in Verbindung mit § 125a Abs. 2 Satz 1 des Patentgesetzes, der durch Artikel 4 Abs. 1 Nr. 2 des Gesetzes vom 19. Juli 2002 (BGBl. I S. 2681) eingefügt worden ist, und des § 95a Abs. 2 Satz 1 des Markengesetzes, der durch Artikel 4 Abs. 3 Nr. 2 des Gesetzes vom 19. Juli 2002 (BGBl. I S. 2681) eingefügt worden ist, das Bundesministerium der Justiz:
 
-
-## § 1 – Zulassung der elektronischen Kommunikation
+# § 1 – Zulassung der elektronischen Kommunikation
 
 Bei den in der Anlage bezeichneten Gerichten können elektronische Dokumente in den dort jeweils für sie näher bezeichneten Verfahrensarten und ab dem dort für sie angegebenen Datum eingereicht werden.
 
-
-## § 2 – Form der Einreichung
+# § 2 – Form der Einreichung
 
 (1) Zur Entgegennahme elektronischer Dokumente sind elektronische Poststellen der Gerichte bestimmt. Die elektronischen Poststellen sind über die auf den Internetseiten
 
@@ -68,8 +63,7 @@ Nähere Informationen zu den bearbeitbaren Versionen der zulässigen Dateiformat
 
 (6) Sofern strukturierte Daten übermittelt werden, sollen sie im Unicode-Zeichensatz UTF 8 (Unicode Transformation Format) codiert sein.
 
-
-## § 3 – Bekanntgabe der Betriebsvoraussetzungen
+# § 3 – Bekanntgabe der Betriebsvoraussetzungen
 
 Die Gerichte geben auf den in § 2 Abs. 1 Satz 2 genannten Internetseiten bekannt:
 
@@ -81,13 +75,11 @@ Die Gerichte geben auf den in § 2 Abs. 1 Satz 2 genannten Internetseiten bekann
 
 4. die zusätzlichen Angaben, die bei der Übermittlung oder bei der Bezeichnung des einzureichenden elektronischen Dokuments gemacht werden sollen, um die Zuordnung innerhalb des adressierten Gerichts und die Weiterverarbeitung zu gewährleisten.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2007 in Kraft.
 
-
-## Anlage – (zu § 1)
+# Anlage – (zu § 1)
 
 (Fundstelle: BGBl. I 2007, 2132;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

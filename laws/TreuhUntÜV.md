@@ -1,15 +1,11 @@
-# [TreuhUntÜV] Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt  (Treuhandunternehmensübertragungsverordnung - TreuhUntÜV)
-
-Ausfertigungsdatum: 20.12.1994
-
+% Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt  (Treuhandunternehmensübertragungsverordnung - TreuhUntÜV)
+% Ausfertigungsdatum: 20.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 23a Abs. 1, 2 und 3 Satz 3 Halbsatz 2 des Treuhandgesetzes, der durch Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt worden ist, verordnet die Bundesregierung:
 
-
-## § 1 – Übertragung von Aufgaben
+# § 1 – Übertragung von Aufgaben
 
 (1) Die der Treuhandanstalt auf Grund des Treuhandgesetzes und des Artikels 25 des Einigungsvertrages zugewiesenen unternehmensbezogenen Aufgaben werden zu den in § 2 genannten Zeitpunkten auf das Bundesministerium der Finanzen übertragen, soweit die in § 2 bezeichneten Unternehmen einschließlich ihrer Beteiligungen betroffen sind. Das Bundesministerium der Finanzen nimmt diese Aufgaben im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem jeweils zuständigen Bundesministerium wahr.
 
@@ -23,8 +19,7 @@ Auf Grund des § 23a Abs. 1, 2 und 3 Satz 3 Halbsatz 2 des Treuhandgesetzes, der
 
 4. die Wahrnehmung der Rechte und Pflichten aus Verwaltungsvereinbarungen mit den in Artikel 1 Abs. 1 des Einigungsvertrages genannten Ländern oder dem Land Berlin zur Komplementärfinanzierung von Maßnahmen zur Beseitigung von ökologischen Altlasten und von Maßnahmen zur Verbesserung der Umwelt im Rahmen des § 249h des Arbeitsförderungsgesetzes, soweit diese sich auf die in Anlage 1 bis 3 bezeichneten Gesellschaften und ihre Unternehmensbeteiligungen beziehen.
 
-
-## § 2 – Übertragung von Unternehmensbeteiligungen
+# § 2 – Übertragung von Unternehmensbeteiligungen
 
 (1) Die Geschäftsanteile der Treuhandanstalt an der im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 53659 eingetragenen BMGB Beteiligungs-Management-Gesellschaft Berlin mbH mit Sitz in Berlin werden mit Wirkung vom 30. Dezember 1994 auf den Bund übertragen.
 
@@ -34,20 +29,17 @@ Auf Grund des § 23a Abs. 1, 2 und 3 Satz 3 Halbsatz 2 des Treuhandgesetzes, der
 
 (4) Die Aktien der Treuhandanstalt an der im Handelsregister des Amtsgerichts Berlin-Charlottenburg unter HRB 34165 eingetragenen Deutsche Kreditbank Aktiengesellschaft mit Sitz in Berlin werden mit Wirkung vom 1. Januar 1995 auf den Bund übertragen.
 
-
-## § 3 – Haftung im Innenverhältnis
+# § 3 – Haftung im Innenverhältnis
 
 (1) Im Innenverhältnis haftet für die nach § 23a Abs. 3 des Treuhandgesetzes auf den jeweiligen Rechtsnachfolger übergegangenen Verbindlichkeiten allein der Bund, soweit es sich um Verbindlichkeiten aus Finanzierungszusagen der Treuhandanstalt unmittelbar zugunsten von Unternehmen handelt.
 
 (2) Ferner haftet im Innenverhältnis allein der Bund für die nach § 23a Abs. 3 des Treuhandgesetzes auf den jeweiligen Rechtsnachfolger übergegangenen Verbindlichkeiten, soweit diese nicht durch das übertragene Vermögen gedeckt sind.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Anlage 1 – (zu § 2 Abs. 2)
+# Anlage 1 – (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
@@ -67,8 +59,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 | Schröder & Partner GmbH & Co. Management KG                                    | Berlin | HRA 25204              | Berlin-Charlottenburg |
 | Schröder & Partner GmbH                                                        | Berlin | HRB 46996              | Berlin-Charlottenburg |
 
-
-## Anlage 2 – (zu § 2 Abs. 2)
+# Anlage 2 – (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
@@ -80,8 +71,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 | MKM Mansfelder Kupfer und Messing GmbH | Hettstedt  | HRB 7208               | Halle-Saalkreis |
 | Dampfkesselbau Hohenthurm GmbH         | Hohenthurm | HRB 554                | Halle-Saalkreis |
 
-
-## Anlage 3 – (zu § 2 Abs. 2)
+# Anlage 3 – (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3911
 
@@ -95,8 +85,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3911
 | Kali und Salz Gesellschaft mit beschränkter Haftung | Sondershausen    | HRB 2999               | Mühlhausen      |
 | Caprolactam Leuna GmbH                              | Leuna            | HRB 7846               | Halle-Saalkreis |
 
-
-## Anlage 4 – (zu § 2 Abs. 2)
+# Anlage 4 – (zu § 2 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3912
 
@@ -109,8 +98,7 @@ Fundstelle des Originaltextes: BGBl. I 1994, 3912
 | Energiewerke Nord GmbH                                                                    | Rubenow | HRB 90                 | Stralsund             |
 | Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft mbH                          | Berlin  | HRB 52334              | Berlin-Charlottenburg |
 
-
-## Anlage 5 – (zu § 2 Abs. 3)
+# Anlage 5 – (zu § 2 Abs. 3)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3912
 

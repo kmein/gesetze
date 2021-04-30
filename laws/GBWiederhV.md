@@ -1,15 +1,11 @@
-# [GBWiederhV] Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher und Urkunden
-
-Ausfertigungsdatum: 26.07.1940
-
+% Verordnung über die Wiederherstellung zerstörter oder abhanden gekommener Grundbücher und Urkunden
+% Ausfertigungsdatum: 26.07.1940
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 123 der Grundbuchordnung verordne ich folgendes:
 
-
-## § 1
+# § 1
 
 (1) Ist ein Grundbuch ganz oder teilweise zerstört oder abhanden gekommen, so hat das Grundbuchamt es von Amts wegen wiederherzustellen. Das gleiche gilt für eine ganz oder teilweise zerstörte oder abhanden gekommene Urkunde, auf die eine Eintragung Bezug nimmt. Urkunden, auf die eine Eintragung sich gründet, ohne auf die Urkunde Bezug zu nehmen, kann das Grundbuchamt wiederherstellen, wenn es dies für angezeigt hält.
 
@@ -17,23 +13,19 @@ Auf Grund des § 123 der Grundbuchordnung verordne ich folgendes:
 
 (3) § 1 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit gilt auch, soweit die Grundbuchführung den Amtsgerichten noch nicht übertragen ist.
 
-
-## § 2
+# § 2
 
 Sind die Grundakten oder das Handblatt des zerstörten oder abhanden gekommenen Grundbuchs vorhanden und ergibt sich aus ihnen der Inhalt des Grundbuchs zweifelsfrei, so ist das Grundbuch nach dem Inhalt der Grundakten oder des Handblatts wiederherzustellen.
 
-
-## § 3
+# § 3
 
 Kann das Grundbuch nicht nach § 2 wiederhergestellt werden, so ist nach den §§ 4 bis 10 zu verfahren.
 
-
-## § 4
+# § 4
 
 Das Grundbuchamt hat die zuständige Behörde um Übersendung eines beglaubigten Auszugs aus dem nach § 2 Abs. 2 der Grundbuchordnung für die Bezeichnung der Grundstücke im Grundbuch maßgebenden amtlichen Verzeichnis oder, wenn dieses Verzeichnis vom Grundbuchamt selbst geführt wird, um Übersendung der sonstigen, für die Kennzeichnung des Grundstücks erforderlichen Unterlagen zu ersuchen, soweit ihm der Auszug oder die Unterlagen nicht schon zur Verfügung stehen.
 
-
-## § 5
+# § 5
 
 (1) Über den Inhalt des Grundbuchblatts ist unbeschadet des § 26 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit schriftlich oder mündlich zu hören,
 
@@ -51,13 +43,11 @@ c) der Eigenbesitzer.
 
 (5) Zeigt der Eigentümer oder der sonst Betroffene dem Grundbuchamt die Eintragung von beschränkten dinglichen Rechten oder sonstigen Beschränkungen an, so ist der von der Eintragung Begünstigte davon in Kenntnis zu setzen.
 
-
-## § 6
+# § 6
 
 Nach Abschluß der Ermittlungen kann das Grundbuchamt ein Aufgebot erlassen.
 
-
-## § 7
+# § 7
 
 In das Aufgebot sind aufzunehmen:
 
@@ -69,20 +59,17 @@ c) die Bezeichnung des Eigenbesitzers;
 
 d) die Aufforderung an die Personen, die nicht gemäß § 5 Abs. 1 als Eigentümer oder Eigenbesitzer gehört oder deren Rechte nicht gemäß § 5 Abs. 5 vom Eigentümer oder dem sonst Betroffenen angezeigt worden sind, Eintragungen, die zu ihren oder ihres Rechtsvorgängers Gunsten im Grundbuch bestanden haben, binnen einer vom Grundbuchamt zu bestimmenden Frist von mindestens sechs Wochen anzumelden und glaubhaft zu machen, widrigenfalls sie Gefahr laufen würden, bei der Wiederherstellung des Grundbuchs nicht berücksichtigt zu werden.
 
-
-## § 8
+# § 8
 
 (1) Das Aufgebot ist an die für den Aushang von Bekanntmachungen des Grundbuchamts bestimmte Stelle anzuheften und einmal in dem für die amtlichen Bekanntmachungen des Grundbuchamts bestimmten Blatt zu veröffentlichen. Das Grundbuchamt kann anordnen, daß die Veröffentlichung mehrere Male und noch in anderen Blättern zu erfolgen habe oder, falls das Grundstück nur einen geringen Wert hat, daß sie ganz unterbleibe.
 
 (2) Das Aufgebot ist in der Gemeinde, in deren Bezirk das Grundstück liegt, an der für amtliche Bekanntmachungen bestimmten Stelle anzuheften oder in sonstiger ortsüblicher Weise bekanntzumachen.
 
-
-## § 9
+# § 9
 
 Das Grundbuch darf, wenn ein Aufgebotsverfahren nicht stattgefunden hat, erst wiederhergestellt werden, nachdem in der Gemeinde, in deren Bezirk das Grundstück liegt, das Bevorstehen der Wiederherstellung und der Name der als Eigentümer oder sonstige Berechtigte Einzutragenden öffentlich bekanntgemacht und seit der Bekanntmachung ein Monat verstrichen ist; die Art der Bekanntmachung bestimmt das Grundbuchamt.
 
-
-## § 10
+# § 10
 
 (1) Nach Ablauf der Frist des § 7 oder des § 9 und nach Abschluß etwa erforderlicher weiterer Ermittlungen ist das Grundbuch wiederherzustellen.
 
@@ -98,8 +85,7 @@ c) äußerstenfalls der, dessen jetziges Eigentum nach Lage der Sache dem Grundb
 
 (4) Das Grundbuchamt kann in den Fällen des Absatzes 2 Buchstaben b und c sowie Absatzes 3 Satz 2 für Beteiligte, deren Rechte nicht oder nicht mit dem in Anspruch genommenen Inhalt oder Rang im Grundbuch eingetragen werden, einen Widerspruch eintragen.
 
-
-## § 11
+# § 11
 
 (1) Ist eine Urkunde, auf die eine Eintragung Bezug nimmt, ganz oder teilweise zerstört oder abhanden gekommen, so ist die Urkunde an Hand der Urschrift, einer Ausfertigung oder einer beglaubigten Abschrift oder, falls dies nicht möglich ist, auf Grund einer Einigung der Beteiligten wiederherzustellen.
 
@@ -109,28 +95,23 @@ c) äußerstenfalls der, dessen jetziges Eigentum nach Lage der Sache dem Grundb
 
 (4) Die Wiederherstellung der Urkunde kann unterbleiben, wenn bei Wiederherstellung des Grundbuchs von der Bezugnahme auf die Urkunde abgesehen wird.
 
-
-## § 12
+# § 12
 
 Für die Wiederherstellung einer Urkunde, auf die eine Eintragung sich gründet, ohne auf die Urkunde Bezug zu nehmen, gilt § 11 Abs. 1, Abs. 2 Halbsatz 1 und Abs. 3 entsprechend.
 
-
-## § 13
+# § 13
 
 Das Verfahren nach dieser Verordnung ist kostenfrei.
 
-
-## § 14
+# § 14
 
 Die Beschwerde gegen die Wiederherstellung des Grundbuchblatts ist unzulässig. Im Wege der Beschwerde kann jedoch verlangt werden, daß das Grundbuchamt angewiesen wird, nach § 10 Abs. 4, § 11 Abs. 2 dieser Verordnung oder § 53 der Grundbuchordnung einen Widerspruch einzutragen oder eine Löschung vorzunehmen.
 
-
-## § 15
+# § 15
 
 Wird vor der Wiederherstellung des Grundbuchs die Eintragung einer Rechtsänderung beantragt, so erstreckt sich, wenn die Rechtsänderung bei der Wiederherstellung eingetragen wird, die Wirksamkeit der Eintragung auf den Zeitpunkt zurück, den das Grundbuchamt im Einzelfall bestimmt. Dieser Zeitpunkt ist bei der Eintragung im Grundbuch zu vermerken.
 
-
-## § 16
+# § 16
 
 (1) Die Zwangsversteigerung eines Grundstücks, dessen Grundbuch ganz oder teilweise zerstört oder abhanden gekommen ist, kann vor der Wiederherstellung des Grundbuchs angeordnet werden, wenn durch Urkunden glaubhaft gemacht wird, daß der Schuldner als Eigentümer des Grundstücks eingetragen war oder daß er Erbe des eingetragenen Eigentümers ist.
 
@@ -138,12 +119,10 @@ Wird vor der Wiederherstellung des Grundbuchs die Eintragung einer Rechtsänderu
 
 (3) Der Versteigerungstermin darf erst nach der Wiederherstellung des Grundbuchblatts bestimmt werden.
 
-
-## § 17
+# § 17
 
 Die Verordnung tritt am 15. August 1940 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Reichsminister der Justiz

@@ -1,17 +1,11 @@
-# [CoronaEinreiseV] Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag  (Coronavirus-Einreiseverordnung - CoronaEinreiseV)
-
-Ausfertigungsdatum: 13.01.2021
-
+% Verordnung zum Schutz vor einreisebedingten Infektionsgefahren in Bezug auf das Coronavirus SARS-CoV-2 nach Feststellung einer epidemischen Lage von Nationaler Tragweite durch den Deutschen Bundestag  (Coronavirus-Einreiseverordnung - CoronaEinreiseV)
+% Ausfertigungsdatum: 13.01.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 36 Absatz 8 Satz 1 bis 3 und Absatz 10 Satz 1 Nummer 1 Buchstabe a, c und d, Nummer 2 Buchstabe a, b, c, d, g und i und Nummer 3 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), der durch Artikel 1 Nummer 18 Buchstabe d des Gesetzes vom 18. November 2020 (BGBl. I S. 2397) neu gefasst worden ist, verordnet die Bundesregierung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -33,8 +27,9 @@ Auf Grund des § 36 Absatz 8 Satz 1 bis 3 und Absatz 10 Satz 1 Nummer 1 Buchstab
 
  
 
+ 
 
-## § 1 – Anmeldepflicht
+# § 1 – Anmeldepflicht
 
 (1) Personen, die in die Bundesrepublik Deutschland einreisen wollen und sich in den letzten zehn Tagen vor der Einreise in einem Risikogebiet nach § 2 Nummer 17 des Infektionsschutzgesetzes mit einem erhöhten Risiko für eine Infektion mit dem Coronavirus SARS-CoV-2 (Risikogebiet) aufgehalten haben, sind verpflichtet, der zuständigen Behörde im Sinne des Infektionsschutzgesetzes vor der Einreise ihre personenbezogenen Angaben nach § 2 Nummer 16 des Infektionsschutzgesetzes, das Datum ihrer voraussichtlichen Einreise, ihre Aufenthaltsorte der zehn Tage vor und die geplanten Aufenthaltsorte der zehn Tage nach der Einreise und das für die Einreise genutzte Reisemittel durch Nutzung des vom Robert Koch-Institut nach § 36 Absatz 9 Satz 1 des Infektionsschutzgesetzes eingerichteten elektronischen Melde- und Informationssystems unter https://www.einreiseanmeldung.de (digitale Einreiseanmeldung) mitzuteilen.
 
@@ -48,8 +43,7 @@ Auf Grund des § 36 Absatz 8 Satz 1 bis 3 und Absatz 10 Satz 1 Nummer 1 Buchstab
 
 (+++ § 1: Zur Geltung vgl. § 2 Abs. 1 +++)
 
-
-## § 2 – Ausnahmen von der Anmeldepflicht
+# § 2 – Ausnahmen von der Anmeldepflicht
 
 (1) § 1 gilt vorbehaltlich der Absätze 3 und 4 nicht für Personen, die
 
@@ -71,8 +65,7 @@ Auf Grund des § 36 Absatz 8 Satz 1 bis 3 und Absatz 10 Satz 1 Nummer 1 Buchstab
 
 (4) Absatz 1 findet auf Einreisende aus Risikogebieten nach § 3 Absatz 2 Satz 1 Nummer 2 (Virusvarianten-Gebiet) keine Anwendung.
 
-
-## § 3 – Test- und Nachweispflicht
+# § 3 – Test- und Nachweispflicht
 
 (1) Personen, die in die Bundesrepublik Deutschland eingereist sind und sich in den letzten zehn Tagen vor der Einreise in einem Risikogebiet aufgehalten haben, das weder ein Hochinzidenzgebiet noch ein Virusvarianten-Gebiet im Sinne von Absatz 2 Satz 1 ist, müssen spätestens 48 Stunden nach ihrer Einreise über einen Nachweis nach Absatz 3 verfügen und diesen auf Anforderung der zuständigen Behörde im Sinne des Infektionsschutzgesetzes, die bis zu zehn Tage nach Einreise erfolgen kann, vorlegen. Bei Einreise vorliegende Nachweise nach Absatz 3 sind auf Anforderung der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörden im Rahmen der grenzpolizeilichen Aufgabenwahrnehmung zum Zwecke der Überprüfung vorzulegen. Für Personen, die zum Zwecke einer Arbeitsaufnahme in die Bundesrepublik Deutschland einreisen, kann auch der Arbeitgeber oder ein sonstiger Dritter den Nachweis nach § 3 Absatz 3 erbringen.
 
@@ -95,8 +88,7 @@ haben bei Einreise einen Nachweis nach Absatz 3 mitzuführen und auf Anforderung
 (+++ § 3: Zur Nichtgeltung vgl. § 4 Abs. 4 +++)  
 (+++ § 3 Abs. 2 Satz 2: Zur Geltung vgl. § 6 Abs. 2 Satz 1 +++)
 
-
-## § 4 – Ausnahmen von der Test- und Nachweispflicht
+# § 4 – Ausnahmen von der Test- und Nachweispflicht
 
 (1) Von § 3 Absatz 1 nicht erfasst sind:
 
@@ -148,13 +140,11 @@ In begründeten Einzelfällen kann die zuständige Behörde auf Antrag weitere A
 
 (7) Die Absätze 5 und 6 gelten für die Ausnahme nach Absatz 3a entsprechend.
 
-
-## § 5 – Informationspflichten der Verkehrsunternehmen
+# § 5 – Informationspflichten der Verkehrsunternehmen
 
 Unternehmen, die Personen im grenzüberschreitenden Eisenbahn-, Bus-, Flug- oder Schiffsverkehr in die Bundesrepublik Deutschland befördern (Beförderer) und Betreiber von Flugplätzen, Häfen, Personenbahnhöfen und Omnibusbahnhöfen haben im Rahmen ihrer betrieblichen und technischen Möglichkeiten sicherzustellen, dass Reisenden die auf der Internetseite https://www.rki.de/covid-19-bmg-merkblatt enthaltenen Informationen barrierefrei zur Verfügung gestellt werden.
 
-
-## § 6 – Pflichten der Beförderer im Zusammenhang mit der Beförderung
+# § 6 – Pflichten der Beförderer im Zusammenhang mit der Beförderung
 
 (1) Beförderer, die Personen aus einem Risikogebiet in die Bundesrepublik Deutschland befördern, haben vor der Beförderung die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 1 Absatz 2 zu kontrollieren. Die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 1 Absatz 2 sind im Rahmen der betrieblichen und technischen Möglichkeiten auf Plausibilität der personenbezogenen Angaben zu prüfen. Die vollständig ausgefüllten Ersatzmitteilungen nach § 1 Absatz 2 sind bei Beförderungen aus einem Risikogebiet, in dem der Schengen-Besitzstand vollständig angewandt wird, einzusammeln und unverzüglich durch die Beförderer an die zuständige Behörde im Sinne des Infektionsschutzgesetzes oder an die von dieser beauftragte Behörde oder Stelle zu übermitteln. Beförderer, die Personen aus einem Risikogebiet außerhalb von Staaten, die den Schengen-Besitzstand vollständig anwenden, in die Bundesrepublik Deutschland befördern, haben die beförderten Personen darauf hinzuweisen, dass die Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder die vollständig ausgefüllte Ersatzmitteilung nach § 1 Absatz 2 im Rahmen der Einreisekontrolle der mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragten Behörde auf deren Anforderung hin vorzulegen ist und die vollständig ausgefüllte Ersatzmitteilung nach § 1 Absatz 2 an diese zum Zwecke der stichprobenhaften Überprüfung und Überlassung an die zuständige Behörde im Sinne des Infektionsschutzgesetzes oder an die von dieser beauftragte Behörde oder Stelle auszuhändigen ist. Beförderer haben die Beförderungen aus einem Risikogebiet in die Bundesrepublik Deutschland zu unterlassen, wenn die zu befördernden Personen im Rahmen der Kontrolle nach Satz 1 keine Bestätigung der erfolgreichen digitalen Einreiseanmeldung oder keine vollständig ausgefüllte Ersatzmitteilung nach § 1 Absatz 2 vorgelegt haben; dies gilt auch, wenn nach Prüfung nach Satz 2 die angegebenen Daten offensichtlich unrichtig sind. Im grenzüberschreitenden Eisenbahnverkehr oder im grenzüberschreitenden Kurzstreckenseeverkehr aus einem Risikogebiet kann die Vorlage in Abweichung von Satz 5 auch noch während der Beförderung erfolgen.
 
@@ -162,20 +152,17 @@ Unternehmen, die Personen im grenzüberschreitenden Eisenbahn-, Bus-, Flug- oder
 
 (3) Die Absätze 1 und 2 gelten nicht im Öffentlichen Personennahverkehr.
 
-
-## § 7 – Auskunftspflicht der Beförderer
+# § 7 – Auskunftspflicht der Beförderer
 
 (1) Beförderer haben die bei ihnen vorhandenen Daten zu Personen, die sie aus einem Risikogebiet befördert haben, bis zu 30 Tage nach Ankunft der einreisenden Personen der zuständigen Behörde im Sinne des Infektionsschutzgesetzes auf deren Anforderung zu übermitteln; dies gilt für elektronisch gespeicherte Daten zur Identifikation der beförderten Personen, deren Kontaktdaten sowie für Passagierlisten und Sitzpläne.
 
 (2) Beförderer sind verpflichtet, gegenüber dem Robert Koch-Institut eine für Rückfragen der zuständigen Gesundheitsämter oder der sonstigen vom Land als zuständige Behörde im Sinne des Infektionsschutzgesetzes bestimmten Stellen erreichbare Kontaktstelle zu benennen.
 
-
-## § 8 – Informationspflichten der Mobilfunknetzbetreiber
+# § 8 – Informationspflichten der Mobilfunknetzbetreiber
 
 Ein Betreiber eines öffentlichen Mobilfunknetzes ist im Rahmen des technisch Möglichen verpflichtet, seinen Kunden, die sich nach Nutzung eines ausländischen Mobilfunknetzes nach mehr als 24 Stunden wieder in sein Mobilfunknetz einbuchen, sowie Nutzern ausländischer Mobilfunknetze, die sich in sein Mobilfunknetz einbuchen, unverzüglich und barrierefrei eine Kurznachricht der Bundesregierung mit Inhalt und Absenderkennung nach Satz 2 am Netzabschlusspunkt seines Mobilfunknetzes zur Verfügung zu stellen, in der auf die in der Bundesrepublik Deutschland geltenden Einreise- und Infektionsschutzbestimmungen im Zusammenhang mit dem Coronavirus SARS-CoV-2 sowie auf die zu beachtenden Infektionsschutzmaßnahmen zur Verhinderung der Verbreitung des Coronavirus SARS-CoV-2 hingewiesen wird. Inhalt und Absenderkennung der Kurznachricht werden den Betreibern von der Bundesregierung zur Verfügung gestellt.
 
-
-## § 9 – Ordnungswidrigkeiten
+# § 9 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -197,17 +184,15 @@ Ordnungswidrig im Sinne des § 73 Absatz 1a Nummer 24 des Infektionsschutzgesetz
 
 9. entgegen § 7 Absatz 2 eine Kontaktstelle nicht oder nicht rechtzeitig benennt.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 14. Januar 2021 in Kraft; sie tritt mit der Aufhebung der Feststellung der epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag nach § 5 Absatz 1 Satz 2 des Infektionsschutzgesetzes außer Kraft.
 
 (2) Die Verordnung zur Testpflicht von Einreisenden aus Risikogebieten vom 4. November 2020 (BAnz AT 06.11.2020 V1), die Coronavirus-Schutzverordnung vom 21. Dezember 2020 (BAnz AT 21.12.2020 V4), die durch Artikel 1 der Verordnung vom 6. Januar 2021 (BAnz AT 06.01.2021 V1) geändert worden ist, und die Anordnungen betreffend den Reiseverkehr nach Feststellung einer epidemischen Lage von nationaler Tragweite durch den Deutschen Bundestag vom 5. November 2020 (BAnz AT 06.11.2020 B5) treten mit Ablauf des 13. Januar 2021 außer Kraft.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BAnz AT 13.01.2021 V1)
 
 Ersatzmitteilung  
-![](../normengrafiken/banzat_2021/20210113v1_01.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/banzat_2021/20210113v1_01.jpg)

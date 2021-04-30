@@ -1,10 +1,7 @@
-# [BVLÜV] Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  (BVL-Übertragungsverordnung - BVLÜV)
-
-Ausfertigungsdatum: 21.02.2003
-
+% Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit  (BVL-Übertragungsverordnung - BVLÜV)
+% Ausfertigungsdatum: 21.02.2003
  
-
-## § 1
+# § 1
 
 Die Befugnis zum Verkehr
 
@@ -92,8 +89,7 @@ f) des Artikels 19 Absatz 6 der Verordnung (EG) Nr. 183/2005,
 
 wird dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übertragen. Die in Satz 1 Nummer 1 bis 4, 5 Buchstabe a bis d und f und Nummer 6 genannten Rechtsakte der Europäischen Gemeinschaft und der Europäischen Union sind in der jeweils geltenden Fassung anzuwenden.
 
-
-## § 2
+# § 2
 
 § 1 gilt nicht, soweit das Bundesministerium für Ernährung und Landwirtschaft
 
@@ -107,8 +103,7 @@ b) im Benehmen mit der zuständigen obersten Landesbehörde dieser übertragen h
 
 2. eine in § 1 genannte Befugnis durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden übertragen hat.
 
-
-## § 3
+# § 3
 
 Dem Bundesamt für Verbraucherschutz und Lebensmittelsicherheit wird die Befugnis zum Erlass von Rechtsverordnungen nach
 

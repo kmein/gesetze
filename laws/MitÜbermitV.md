@@ -1,15 +1,11 @@
-# [MitÜbermitV] Verordnung zu Mitteilungs- und Übermittlungspflichten zu gesundheitlich nicht erwünschten Stoffen  (Mitteilungs- und Übermittlungsverordnung - MitÜbermitV)
-
-Ausfertigungsdatum: 28.12.2011
-
+% Verordnung zu Mitteilungs- und Übermittlungspflichten zu gesundheitlich nicht erwünschten Stoffen  (Mitteilungs- und Übermittlungsverordnung - MitÜbermitV)
+% Ausfertigungsdatum: 28.12.2011
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 44a Absatz 3 in Verbindung mit § 75 Absatz 4 Satz 2 des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 22. August 2011 (BGBl. I S. 1770) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 
-
-## § 1 – Mitteilungspflicht
+# § 1 – Mitteilungspflicht
 
 Die Verpflichtung zur Mitteilung von Untersuchungsergebnissen nach § 44a Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches besteht
 
@@ -29,8 +25,7 @@ c) in Anlage 3 Nummer 1 bis 6 genannten Kongenere.
 
 Soweit die Untersuchung mit einer Untersuchungsmethode vorgenommen worden ist, mit der sich die in Satz 1 Nummer 1 bis 4 bezeichneten Kongenere nicht ermitteln lassen, besteht die Verpflichtung zur Mitteilung von Untersuchungsergebnissen nach § 44a Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches nur für Dibenzo-p-dioxine, Dibenzofurane und dioxinähnliche polychlorierte Biphenyle als Stoffgruppe.
 
-
-## § 2 – Mitteilungen der Lebensmittel- und Futtermittelunternehmer
+# § 2 – Mitteilungen der Lebensmittel- und Futtermittelunternehmer
 
 (1) Die Mitteilung nach § 44a Absatz 1 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches (Mitteilung) zu den in § 1 genannten Stoffen muss die Daten nach Maßgabe der Anlage 4 enthalten.
 
@@ -44,8 +39,7 @@ Soweit die Untersuchung mit einer Untersuchungsmethode vorgenommen worden ist, m
 
 (4) Die Mitteilung ist innerhalb von 14 Tagen abzugeben, nach dem der zur Mitteilung Verpflichtete Kenntnis von einer mitteilungspflichtigen Tatsache erhalten hat. Eine mitteilungspflichtige Tatsache liegt erst vor, wenn das zugrunde liegende Untersuchungsergebnis endgültig feststeht. Abweichend von Satz 1 und 2 ist die Mitteilung unverzüglich abzugeben, wenn ein für das jeweilige Lebensmittel oder Futtermittel in einer auf Grund des Lebensmittel- und Futtermittelgesetzbuches erlassenen Rechtsverordnung oder in einem unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der Europäischen Union festgesetzter Höchstgehalt überschritten worden ist.
 
-
-## § 3 – Übermittlungen der zuständigen Behörden
+# § 3 – Übermittlungen der zuständigen Behörden
 
 (1) Die Übermittlung in anonymisierter Form nach § 44a Absatz 2 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches (Übermittlung) ist
 
@@ -57,23 +51,19 @@ elektronisch vorzunehmen.
 
 (2) Die Übermittlung ist bis zum 15. Tag eines Monats für den Vormonat vorzunehmen.
 
-
-## § 4 – Nicht mehr anzuwendende Vorschriften
+# § 4 – Nicht mehr anzuwendende Vorschriften
 
 § 75 Absatz 4 Satz 1 des Lebensmittel- und Futtermittelgesetzbuches ist nicht mehr anzuwenden.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Mai 2012 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a)Kongenere von Dibenzo-p-dioxinen und Dibenzofuranen
+# Anlage 1 – (zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a)Kongenere von Dibenzo-p-dioxinen und Dibenzofuranen
 
 (Fundstelle: BGBl. I 2012, 60)  
   
@@ -87,20 +77,17 @@ O = Octa
 CDD = Chlordibenzodioxin  
 CDF = Chlordibenzofuran
 
-
-## Anlage 2 – (zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b)Kongenere von dioxinähnlichen polychlorierten Biphenylen
+# Anlage 2 – (zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b)Kongenere von dioxinähnlichen polychlorierten Biphenylen
 
 (Fundstelle: BGBl. I 2012, 61)  
   
 
-
-## Anlage 3 – (zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c)Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen
+# Anlage 3 – (zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c)Kongenere von nicht dioxinähnlichen polychlorierten Biphenylen
 
 (Fundstelle: BGBl. I 2012, 62)  
   
 
-
-## Anlage 4 – (zu § 2 Absatz 1 Satz 1)
+# Anlage 4 – (zu § 2 Absatz 1 Satz 1)
 
 (Fundstelle: BGBl. I 2012, 63 - 65)  
   
@@ -127,8 +114,7 @@ ja/nein</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style=
 
 <span id="FnA1-f776017_01"></span><a href="#FnR.FnA1-f776017_01" class="Footnote">*)</a>  
 a) Die Konzentration ist in den Fällen des § 1 Nummer 1, 2 und 4 Buchstabe a und b wie folgt anzugeben:  
-Dioxine (Summe aus polychlorierten Dibenzo-p-dioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)), und Summe aus Dioxinen und dioxinähnlichen PCB (Summe aus PCDD, PCDF und polychlorierten Biphenylen (PCB), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)). WHO-TEF zur Risikobewertung beim Menschen basierend auf den Schlussfolgerungen der Expertensitzung des Internationalen Programms der WHO zur Chemikaliensicherheit (IPCS) im Juni 2005 in Genf (Martin van den Berg et al., The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).  
-  
+Dioxine (Summe aus polychlorierten Dibenzo-p-dioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)), und Summe aus Dioxinen und dioxinähnlichen PCB (Summe aus PCDD, PCDF und polychlorierten Biphenylen (PCB), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)). WHO-TEF zur Risikobewertung beim Menschen basierend auf den Schlussfolgerungen der Expertensitzung des Internationalen Programms der WHO zur Chemikaliensicherheit (IPCS) im Juni 2005 in Genf (Martin van den Berg et al., The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Kongener</th><th style="text-align: left;">TEF Wert</th><th style="text-align: left;">Kongener</th><th style="text-align: left;">TEF Wert</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Dibenzo-p-dioxine<br />
 und Dibenzofurane</td><td style="text-align: left;"> </td><td style="text-align: left;">Dioxinähnliche PCB</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">2,3,7,8-TCDD</td><td style="text-align: left;">1</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">1,2,3,7,8-PeCDD</td><td style="text-align: left;">1</td><td style="text-align: left;">Non-ortho PCBs</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">1,2,3,4,7,8-HxCDD</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 77</td><td style="text-align: left;">0.0001</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,6,7,8-HxCDD</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 81</td><td style="text-align: left;">0.0003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,7,8,9-HxCDD</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 126</td><td style="text-align: left;">0.1</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,4,6,7,8-HpCDD</td><td style="text-align: left;">0.01</td><td style="text-align: left;">PCB 169</td><td style="text-align: left;">0.03</td></tr><tr class="even"><td style="text-align: left;">OCDD</td><td style="text-align: left;">0.0003</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Mono-ortho PCB</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">2,3,7,8-TCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 105</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,7,8-PeCDF</td><td style="text-align: left;">0.03</td><td style="text-align: left;">PCB 114</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">2,3,4,7,8-PeCDF</td><td style="text-align: left;">0.3</td><td style="text-align: left;">PCB 118</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,4,7,8-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 123</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,6,7,8-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 156</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,7,8,9-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 157</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">2,3,4,6,7,8-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 167</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,4,6,7,8-HpCDF</td><td style="text-align: left;">0.01</td><td style="text-align: left;">PCB 189</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,4,7,8,9-HpCDF</td><td style="text-align: left;">0.01</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">OCDF</td><td style="text-align: left;">0.0003</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr></tbody></table>
@@ -150,16 +136,14 @@ b) Konzentrationsobergrenzen: Konzentrationsobergrenzen werden unter der Annahme
 
 c) Im Fall des § 1 Satz 2 sind die Konzentrationen in Biologischen Toxizitätsäquivalenten (BEQ) anzugeben, soweit die Konzentrationen im Rahmen der Untersuchung ermittelt worden sind.
 
-
-## Anlage 5 – (zu § 3 Absatz 1 Nummer 1)
+# Anlage 5 – (zu § 3 Absatz 1 Nummer 1)
 
 (Fundstelle: BGBl. I 2012, 66 - 68)  
   
 
 Im Rahmen der Übermittlung amtlicher Untersuchungsergebnisse sind mindestens die in der nachfolgenden Tabelle als Pflichtfelder markierten Angaben zu machen. Die übrigen Angaben können zusätzlich gemacht werden.
 
-Die Datenübermittlung erfolgt – unter Verwendung der einheitlichen BVL-Kodierkataloge – über das Datenmeldeportal https://meldestelle.bvl.bund.de/datenmeldeportal. Soweit dies nicht möglich ist, ist ein vom BVL auf seiner Internetseite www.bvl.bund.de zur Verfügung gestelltes Formular zu nutzen. In diese Tabelle sind für die einzelnen Feldinhalte Kodes aus den einheitlichen BVL-Kodierkatalogen oder – sofern diese Kodes nicht verfügbar sind – Freitext einzutragen. Die Datenübermittlung erfolgt dann per E-Mail an die Meldestelle des BVL (meldestelle@bvl.bund.de).  
-  
+Die Datenübermittlung erfolgt – unter Verwendung der einheitlichen BVL-Kodierkataloge – über das Datenmeldeportal https://meldestelle.bvl.bund.de/datenmeldeportal. Soweit dies nicht möglich ist, ist ein vom BVL auf seiner Internetseite www.bvl.bund.de zur Verfügung gestelltes Formular zu nutzen. In diese Tabelle sind für die einzelnen Feldinhalte Kodes aus den einheitlichen BVL-Kodierkatalogen oder – sofern diese Kodes nicht verfügbar sind – Freitext einzutragen. Die Datenübermittlung erfolgt dann per E-Mail an die Meldestelle des BVL (meldestelle@bvl.bund.de).   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 7%" /><col style="width: 31%" /><col style="width: 15%" /><col style="width: 46%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Nr.</th><th style="text-align: left;">Feldinhalt</th><th style="text-align: center;">Pflichtfeld<span id="FnR.FnA1-f776017_02"></span><a href="#FnA1-f776017_02" class="FnR">1)</a></sup></th><th style="text-align: left;">Erläuterungen</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;"> 1</td><td style="text-align: left;">Meldende Stelle (Amtskennung)</td><td style="text-align: center;">x</td><td style="text-align: left;">Behörde, die die Daten an das BVL liefert</td></tr><tr class="even"><td style="text-align: center;"> 2</td><td style="text-align: left;">Probennummer</td><td style="text-align: center;">x</td><td style="text-align: left;">Labor- bzw. amtsinterne Probennummer</td></tr><tr class="odd"><td style="text-align: center;"> 3</td><td style="text-align: left;">Teilprobennummer</td><td style="text-align: center;">x</td><td style="text-align: left;">Werden Teile einer Probe unabhängig voneinander untersucht, so werden Teilproben gebildet. Falls keine Teilproben angelegt wurden, erfolgt der Eintrag „00“.</td></tr><tr class="even"><td style="text-align: center;"> 4</td><td style="text-align: left;">Art des untersuchten Erzeugnisses (Matrix)</td><td style="text-align: center;">x</td><td style="text-align: left;">Art des untersuchten Lebensmittels oder Futtermittels einschließlich Be- und Verarbeitungszustand.<br />
 Bei Futtermitteln:<br />
@@ -179,13 +163,11 @@ Matrixkode)</td><td style="text-align: center;"> </td><td style="text-align: le
 – 88 % Trockensubstanz</td></tr><tr class="even"><td style="text-align: center;">22</td><td style="text-align: left;">Fettgehalt, soweit Bezugsparameter Fettgehalt</td><td style="text-align: center;">(x)</td><td style="text-align: left;">Angabe des Fettgehaltes in %</td></tr><tr class="odd"><td style="text-align: center;">23</td><td style="text-align: left;">Trockensubstanz, soweit Bezugsparameter 88 % Trockensubstanz</td><td style="text-align: center;">(x)</td><td style="text-align: left;">Angabe der Trockensubstanz in %</td></tr><tr class="even"><td style="text-align: center;">24</td><td style="text-align: left;">Messergebniskennung (numerisch oder alphanumerisch)</td><td style="text-align: center;">x</td><td style="text-align: left;">Angabe, ob ein numerisches oder alphanumerisches (z. B. „nicht nachweisbar“) Messergebnis vorliegt</td></tr><tr class="odd"><td style="text-align: center;">25</td><td style="text-align: left;">Angabe des Messergebnisses<span id="FnR.FnA1-f776017_03"></span><a href="#FnA1-f776017_03" class="FnR">2)</a></sup></td><td style="text-align: center;">x</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: center;">26</td><td style="text-align: left;">Bewertung des Messergebnisses</td><td style="text-align: center;">x</td><td style="text-align: left;">Bewertung des Messergebnisses in Bezug auf Höchstgehalte etc.</td></tr><tr class="odd"><td style="text-align: center;">27</td><td style="text-align: left;">Untersuchungsverfahren (Methodensammlung)</td><td style="text-align: center;">x</td><td style="text-align: left;">Angaben zum analytischen Verfahren, mit dem die Untersuchung durchgeführt wurde</td></tr><tr class="even"><td style="text-align: center;">28</td><td style="text-align: left;">Prinzip des Untersuchungsverfahrens (Einzelmethode)</td><td style="text-align: center;">x</td><td style="text-align: left;">Angaben zum Messprinzip der Methode, mit der die Untersuchung durchgeführt wurde</td></tr><tr class="odd"><td style="text-align: center;">29</td><td style="text-align: left;">Bestimmungsgrenze (LOQ)</td><td style="text-align: center;">x</td><td style="text-align: left;">Angabe in identischer Einheit zum Messergebnis</td></tr><tr class="even"><td style="text-align: center;">30</td><td style="text-align: left;">Probenaufarbeitung (Probevorbereitung)</td><td style="text-align: center;"> </td><td style="text-align: left;">Angaben zur Aufarbeitung der Probe für die Untersuchung</td></tr><tr class="odd"><td style="text-align: center;">31</td><td style="text-align: left;">Messunsicherheit</td><td style="text-align: center;">x</td><td style="text-align: left;">Messunsicherheit der verwendeten Methode in Prozent</td></tr><tr class="even"><td style="text-align: center;">32</td><td style="text-align: left;">Wiederfindungsrate</td><td style="text-align: center;"> </td><td style="text-align: left;">Wiederfindungsrate der verwendeten Methode in Prozent</td></tr><tr class="odd"><td style="text-align: center;">33</td><td style="text-align: left;">Kommentar</td><td style="text-align: center;"> </td><td style="text-align: left;">Eintrag zusätzlicher Informationen möglich</td></tr></tbody></table>
 
 <span id="FnA1-f776017_02"></span><a href="#FnR.FnA1-f776017_02" class="Footnote">1)</a>  
-Der Eintrag „x“ kennzeichnet Pflichtangaben ohne Einschränkungen.  
-Der Eintrag „(x)“ kennzeichnet Pflichtangaben nach Maßgabe der in Spalte 1 jeweils genannten Einschränkungen.
+Der Eintrag „x“ kennzeichnet Pflichtangaben ohne Einschränkungen. Der Eintrag „(x)“ kennzeichnet Pflichtangaben nach Maßgabe der in Spalte 1 jeweils genannten Einschränkungen.
 
 <span id="FnA1-f776017_03"></span><a href="#FnR.FnA1-f776017_03" class="Footnote">2)</a>  
 a) Die Konzentration ist in den Fällen des § 1 Nummer 1, 2 und 4 Buchstabe a und b wie folgt anzugeben:  
-Dioxine (Summe aus polychlorierten Dibenzo-p-dioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)), und Summe aus Dioxinen und dioxinähnlichen PCB (Summe aus PCDD, PCDF und polychlorierten Biphenylen (PCB), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)). WHO-TEF zur Risikobewertung beim Menschen basierend auf den Schlussfolgerungen der Expertensitzung des Internationalen Programms der WHO zur Chemikaliensicherheit (IPCS) im Juni 2005 in Genf (Martin van den Berg et al., The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).  
-  
+Dioxine (Summe aus polychlorierten Dibenzo-p-dioxinen (PCDD) und polychlorierten Dibenzofuranen (PCDF), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)), und Summe aus Dioxinen und dioxinähnlichen PCB (Summe aus PCDD, PCDF und polychlorierten Biphenylen (PCB), ausgedrückt in WHO-Toxizitätsäquivalenten unter Verwendung der WHO-Toxizitätsäquivalenzfaktoren (WHO-TEF)). WHO-TEF zur Risikobewertung beim Menschen basierend auf den Schlussfolgerungen der Expertensitzung des Internationalen Programms der WHO zur Chemikaliensicherheit (IPCS) im Juni 2005 in Genf (Martin van den Berg et al., The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223-241 (2006)).   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Kongener</th><th style="text-align: left;">TEF Wert</th><th style="text-align: left;">Kongener</th><th style="text-align: left;">TEF Wert</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Dibenzo-p-dioxine<br />
 und Dibenzofurane</td><td style="text-align: left;"> </td><td style="text-align: left;">Dioxinähnliche PCB</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">2,3,7,8-TCDD</td><td style="text-align: left;">1</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">1,2,3,7,8-PeCDD</td><td style="text-align: left;">1</td><td style="text-align: left;">Non-ortho PCBs</td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">1,2,3,4,7,8-HxCDD</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 77</td><td style="text-align: left;">0.0001</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,6,7,8-HxCDD</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 81</td><td style="text-align: left;">0.0003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,7,8,9-HxCDD</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 126</td><td style="text-align: left;">0.1</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,4,6,7,8-HpCDD</td><td style="text-align: left;">0.01</td><td style="text-align: left;">PCB 169</td><td style="text-align: left;">0.03</td></tr><tr class="even"><td style="text-align: left;">OCDD</td><td style="text-align: left;">0.0003</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;"> </td><td style="text-align: left;"> </td><td style="text-align: left;">Mono-ortho PCB</td><td style="text-align: left;"> </td></tr><tr class="odd"><td style="text-align: left;">2,3,7,8-TCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 105</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,7,8-PeCDF</td><td style="text-align: left;">0.03</td><td style="text-align: left;">PCB 114</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">2,3,4,7,8-PeCDF</td><td style="text-align: left;">0.3</td><td style="text-align: left;">PCB 118</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,4,7,8-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 123</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,6,7,8-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 156</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,7,8,9-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 157</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">2,3,4,6,7,8-HxCDF</td><td style="text-align: left;">0.1</td><td style="text-align: left;">PCB 167</td><td style="text-align: left;">0.00003</td></tr><tr class="even"><td style="text-align: left;">1,2,3,4,6,7,8-HpCDF</td><td style="text-align: left;">0.01</td><td style="text-align: left;">PCB 189</td><td style="text-align: left;">0.00003</td></tr><tr class="odd"><td style="text-align: left;">1,2,3,4,7,8,9-HpCDF</td><td style="text-align: left;">0.01</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">OCDF</td><td style="text-align: left;">0.0003</td><td style="text-align: left;"> </td><td style="text-align: left;"> </td></tr></tbody></table>

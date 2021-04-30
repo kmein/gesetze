@@ -1,15 +1,11 @@
-# [StVOuaVsAusnV 2] Zweite Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
-
-Ausfertigungsdatum: 28.02.1989
-
+% Zweite Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften
+% Ausfertigungsdatum: 28.02.1989
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 1 und Nr. 3 in Verbindung mit Abs. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, Nummer 1 geändert durch Artikel 1 Nr. 3 des Gesetzes vom 13. Mai 1986 (BGBl. I S. 700), Nummer 3 zuletzt geändert durch Gesetz vom 6. April 1980 (BGBl. I S. 413), Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S. 721) und geändert durch Artikel 22 Nr. 3 der Verordnung vom 26. November 1986 (BGBl. I S. 2089), wird nach Anhörung der zuständigen obersten Landesbehörden verordnet:
 
-
-## § 1
+# § 1
 
 (1) Zugmaschinen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 60 km/h und Anhänger hinter diesen Zugmaschinen sind von der Zulassungspflicht nach § 3 Abs. 1 Satz 1 der Fahrzeug-Zulassungsverordnung ausgenommen, wenn sie
 
@@ -39,32 +35,26 @@ verwendet werden. Dies gilt nur, wenn für jede eingesetzte Zugmaschine ein eige
 
 3. die Fahrzeuge bei der Verwendung nach Absatz 1 Satz 1 Nr. 2 einschließlich An- und Abfahrten für eine Geschwindigkeit von nicht mehr als 25 km/h nach § 58 der Straßenverkehrs-Zulassungs-Ordnung gekennzeichnet sind.
 
-
-## § 2
+# § 2
 
 (weggefallen)
 
-
-## § 3
+# § 3
 
 \-
 
-
-## § 4
-
-(weggefallen)
-
-
-## § 5
+# § 4
 
 (weggefallen)
 
+# § 5
 
-## § 6
+(weggefallen)
+
+# § 6
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr

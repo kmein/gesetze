@@ -1,25 +1,19 @@
-# [ZupfinstrumentAusbV] Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin   (Zupfinstrumentenmacherausbildungsverordnung - ZupfinstrumentAusbV)
-
-Ausfertigungsdatum: 30.06.2014
-
+% Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin   (Zupfinstrumentenmacherausbildungsverordnung - ZupfinstrumentAusbV)
+% Ausfertigungsdatum: 30.06.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Absatz 1 der Handwerksordnung, der zuletzt durch Artikel 146 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Zupfinstrumentenmacher und Zupfinstrumentenmacherin wird nach § 25 der Handwerksordnung zur Ausbildung für das Gewerbe der Anlage B Abschnitt 1 Nummer 51 Zupfinstrumentenmacher der Handwerksordnung staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Fachrichtungen der Berufsausbildung
+# § 3 – Fachrichtungen der Berufsausbildung
 
 (1) Die Berufsausbildung wird in einer der beiden folgenden Fachrichtungen durchgeführt:
 
@@ -29,8 +23,7 @@ Die Berufsausbildung dauert drei Jahre.
 
 (2) Die Berufsausbildung ist auch für den Bau von Zupfinstrumenten, die weder Gitarren noch Harfen sind, möglich. In diesem Fall sind für die Berufsausbildung die Ausbildungsinhalte sowie für die Zwischen- und Gesellenprüfung die Regelungen für die Fachrichtung Gitarrenbau entsprechend anzuwenden.
 
-
-## § 4 – Struktur und Inhalte der Berufsausbildung
+# § 4 – Struktur und Inhalte der Berufsausbildung
 
 (1) Die Berufsausbildung gliedert sich in
 
@@ -116,15 +109,13 @@ Die Berufsausbildung dauert drei Jahre.
 
 9. Kundenorientierung und Verkaufen von Instrumenten.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit).
 
 (2) Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere dann zulässig, wenn betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
+# § 6 – Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, was insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 7 und 8 oder den §§ 7 und 9 nachzuweisen.
 
@@ -132,8 +123,7 @@ Die Berufsausbildung dauert drei Jahre.
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll am Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -173,8 +163,7 @@ j) fachliche Hintergründe aufzuzeigen und die Vorgehensweise bei der Durchführ
 
 3. die Prüfungszeit beträgt insgesamt sieben Stunden; innerhalb dieser Zeit soll das situative Fachgespräch höchstens 15 Minuten dauern und die Bearbeitungszeit für die schriftlichen Aufgaben 120 Minuten betragen.
 
-
-## § 8 – Gesellenprüfung in der Fachrichtung Gitarrenbau
+# § 8 – Gesellenprüfung in der Fachrichtung Gitarrenbau
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er
 
@@ -272,8 +261,7 @@ j) Fehler und Störungen festzustellen, Ursachen zu ermitteln und Maßnahmen zur
 
 (7) Für Zupfinstrumente, die weder Gitarren noch Harfen sind, sind die Absätze 1 bis 6 entsprechend anzuwenden.
 
-
-## § 9 – Gesellenprüfung in der Fachrichtung Harfenbau
+# § 9 – Gesellenprüfung in der Fachrichtung Harfenbau
 
 (1) Durch die Gesellenprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Gesellenprüfung soll der Prüfling nachweisen, dass er
 
@@ -367,8 +355,7 @@ j) Fehler und Störungen festzustellen, Ursachen zu ermitteln und Maßnahmen zur
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 10 – Gewichtung der Prüfungsbereiche, Bestehen der Gesellenprüfung
+# § 10 – Gewichtung der Prüfungsbereiche, Bestehen der Gesellenprüfung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -400,18 +387,15 @@ j) Fehler und Störungen festzustellen, Ursachen zu ermitteln und Maßnahmen zur
 
 Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.
 
-
-## § 11 – Bestehende Ausbildungsverhältnisse
+# § 11 – Bestehende Ausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bereits bestehen, können nach den Vorschriften dieser Verordnung unter Anrechnung der bisher absolvierten Ausbildungszeit fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2014 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Zupfinstrumentenmacher/zur Zupfinstrumentenmacherin vom 27. Januar 1997 (BGBl. I S. 85) außer Kraft.
 
-
-## Anlage – (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin
+# Anlage – (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Zupfinstrumentenmacher und zur Zupfinstrumentenmacherin
 
 (Fundstelle: BGBl. I 2014, 880 - 886)
 

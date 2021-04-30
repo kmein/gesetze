@@ -1,10 +1,7 @@
-# [APAstErG] Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle
-
-Ausfertigungsdatum: 31.03.2016
-
+% Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle
+% Ausfertigungsdatum: 31.03.2016
  
-
-## § 1 – Organisation
+# § 1 – Organisation
 
 (1) Beim Bundesamt für Wirtschaft und Ausfuhrkontrolle wird eine Abschlussprüferaufsichtsstelle eingerichtet.
 
@@ -22,15 +19,13 @@ Ausfertigungsdatum: 31.03.2016
 
 (+++ § 1 Abs. 4: Zur Anwendung vgl. § 3 Abs. 3 +++)
 
-
-## § 2 – In der Abschlussprüferaufsichtsstelle tätige Arbeitnehmerinnen und Arbeitnehmer sowie Auszubildende
+# § 2 – In der Abschlussprüferaufsichtsstelle tätige Arbeitnehmerinnen und Arbeitnehmer sowie Auszubildende
 
 (1) Auf in der Abschlussprüferaufsichtsstelle tätige Arbeitnehmerinnen und Arbeitnehmer sowie Auszubildende sind die für Arbeitnehmerinnen und Arbeitnehmer sowie Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 (2) In der Abschlussprüferaufsichtsstelle tätige Arbeitnehmerinnen und Arbeitnehmer können mit Zustimmung des Bundesministeriums für Wirtschaft und Energie, die der im Einvernehmen mit dem Bundesministerium der Finanzen zu erteilenden Einwilligung des Bundesministeriums des Innern, für Bau und Heimat bedarf, auch oberhalb der höchsten tarifvertraglichen Entgeltgruppe in einem außertariflichen Arbeitsverhältnis beschäftigt werden, soweit dies für die Durchführung der Aufgaben der Abschlussprüferaufsichtsstelle erforderlich ist. Satz 1 gilt für die sonstige Gewährung von über- oder außertariflichen Leistungen entsprechend.
 
-
-## § 3 – Fachbeirat
+# § 3 – Fachbeirat
 
 (1) Bei der Abschlussprüferaufsichtsstelle wird ein Fachbeirat gebildet. Er berät die Abschlussprüferaufsichtsstelle bei der Erfüllung ihrer Aufgaben. Er kann auch Empfehlungen zur allgemeinen Weiterentwicklung der Aufsichtspraxis einbringen.
 
@@ -42,8 +37,7 @@ Ausfertigungsdatum: 31.03.2016
 
 (5) Die Mitglieder des Fachbeirats erhalten Ersatz ihrer Reisekosten. Das Bundesreisekostengesetz findet entsprechende Anwendung.
 
-
-## § 4 – Gebühren; Verordnungsermächtigung
+# § 4 – Gebühren; Verordnungsermächtigung
 
 (1) Die Abschlussprüferaufsichtsstelle erhebt für individuell zurechenbare öffentliche Leistungen Gebühren und Auslagen nach Maßgabe dieses Gesetzes und der Gebührenverordnung nach Absatz 3.
 
@@ -51,8 +45,7 @@ Ausfertigungsdatum: 31.03.2016
 
 (3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die Höhe der Gebühren und Auslagen sowie die Stelle, die die Gebühren und Auslagen einzieht, festzulegen. Die Gebühren sind regelmäßig, mindestens alle fünf Jahre, zu überprüfen und soweit erforderlich anzupassen. Bei einer Anpassung gelten für eine individuell zurechenbare öffentliche Leistung, die bereits beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, die bisherigen Vorschriften fort.
 
-
-## § 5 – Übergang der im Bereich der Aufsicht über die Prüfer von Unternehmen von öffentlichem Interesse tätigen Wirtschaftsprüfer
+# § 5 – Übergang der im Bereich der Aufsicht über die Prüfer von Unternehmen von öffentlichem Interesse tätigen Wirtschaftsprüfer
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle tritt zum 17. Juni 2016 kraft Gesetzes und nach Maßgabe der folgenden Absätze in die Rechte und Pflichten der zu diesem Zeitpunkt zwischen der Wirtschaftsprüferkammer und den übergehenden Beschäftigten bestehenden Arbeitsverhältnisse ein.
 
@@ -66,8 +59,7 @@ Ausfertigungsdatum: 31.03.2016
 
 (4) Ein Widerspruchsrecht der übergehenden Beschäftigten nach Absatz 2 gegen den Übergang ihrer Arbeitsverhältnisse ist ausgeschlossen.
 
-
-## § 6 – Übergang der weiteren im Bereich der Aufsicht über Prüfer von Unternehmen von öffentlichem Interesse tätigen Beschäftigten
+# § 6 – Übergang der weiteren im Bereich der Aufsicht über Prüfer von Unternehmen von öffentlichem Interesse tätigen Beschäftigten
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle tritt zum 17. Juni 2016 kraft Gesetzes und nach Maßgabe der folgenden Absätze in die Rechte und Pflichten der zu diesem Zeitpunkt zwischen der Wirtschaftsprüferkammer und den übergehenden Beschäftigten bestehenden Arbeitsverhältnisse ein.
 
@@ -91,7 +83,6 @@ Ausfertigungsdatum: 31.03.2016
 
 (4) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle unterrichtet die übergehenden Beschäftigten nach Absatz 2 vor dem Übergang über die rechtlichen, wirtschaftlichen und sozialen Folgen des Übergangs. Die Beschäftigten können dem Übergang ihrer Arbeitsverhältnisse widersprechen. Der Widerspruch kann gegenüber dem bisherigen Arbeitgeber oder dem Bundesamt für Wirtschaft und Ausfuhrkontrolle innerhalb eines Monats nach der Unterrichtung schriftlich erklärt werden.
 
-
-## § 7 – Auflösung der Abschlussprüferaufsichtskommission
+# § 7 – Auflösung der Abschlussprüferaufsichtskommission
 
 Die Abschlussprüferaufsichtskommission ist aufgelöst. Die amtierenden Mitglieder der Abschlussprüferaufsichtskommission sind abberufen.

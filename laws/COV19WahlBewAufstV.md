@@ -1,20 +1,15 @@
-# [COV19WahlBewAufstV] Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie  (COVID-19-Wahlbewerberaufstellungsverordnung)
-
-Ausfertigungsdatum: 28.01.2021
-
+% Verordnung über die Aufstellung von Wahlbewerbern und die Wahl der Vertreter für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag unter den Bedingungen der COVID-19-Pandemie  (COVID-19-Wahlbewerberaufstellungsverordnung)
+% Ausfertigungsdatum: 28.01.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 52 Absatz 1 und 4 des Bundeswahlgesetzes, der zuletzt durch Artikel 1 des Gesetzes vom 28. Oktober 2020 (BGBl. I S. 2264) geändert worden ist, verordnet das Bundesministerium des Innern, für Bau und Heimat unter Berücksichtigung des Beschlusses des Bundestages vom 28. Januar 2021:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für die Aufstellung von Wahlbewerbern und die Wahl von Vertretern für die Vertreterversammlungen für die Wahl zum 20. Deutschen Bundestag.
 
-
-## § 2 – Möglichkeit zur Abweichung von Bestimmungen des Bundeswahlgesetzes und der Bundeswahlordnung
+# § 2 – Möglichkeit zur Abweichung von Bestimmungen des Bundeswahlgesetzes und der Bundeswahlordnung
 
 (1) Die Wahlvorschlagsträger führen die Wahl von Wahlbewerbern und von Vertretern für die Vertreterversammlungen in eigener Verantwortung nach ihren Satzungen und den gesetzlichen Bestimmungen nach Maßgabe dieser Verordnung durch.
 
@@ -22,22 +17,19 @@ Diese Verordnung gilt für die Aufstellung von Wahlbewerbern und die Wahl von Ve
 
 (3) Für andere Kreiswahlvorschläge im Sinne des § 20 Absatz 3 des Bundeswahlgesetzes gelten die Bestimmungen dieser Verordnung entsprechend.
 
-
-## § 3 – Möglichkeit zur Abweichung von Bestimmungen der Satzungen der Parteien
+# § 3 – Möglichkeit zur Abweichung von Bestimmungen der Satzungen der Parteien
 
 (1) Sofern die Satzung einer Partei die nach dieser Verordnung zugelassenen Verfahren nicht vorsieht oder andere Regelungen enthält und aufgrund der Umstände, die zu der Feststellung des Deutschen Bundestages nach § 52 Absatz 4 Satz 1 des Bundeswahlgesetzes geführt haben, nicht mehr rechtzeitig geändert werden kann, kann von diesen Satzungsbestimmungen im Rahmen des nach § 2 Zulässigen abgewichen werden. Dabei kann auch von der satzungsgemäßen Zahl der Vertreter in der Vertreterversammlung abgewichen werden oder die in der Satzung gewählte Form der Versammlung im Sinne des § 21 Absatz 1 des Bundeswahlgesetzes gewechselt werden. Soweit in den Satzungen Mindestzahlen an Teilnehmern für die Beschlussfähigkeit von Mitglieder- und Vertreterversammlungen vorgegeben sind, können diese verringert werden.
 
 (2) Den Beschluss über die Möglichkeit zur Abweichung von den Bestimmungen der Satzungen trifft für alle Gliederungen der Partei im Land der Landesvorstand. Der Beschluss des Landesvorstandes kann durch den Landesparteitag aufgehoben werden.
 
-
-## § 4 – Wahlgrundsätze und Verfahrensgrundsätze
+# § 4 – Wahlgrundsätze und Verfahrensgrundsätze
 
 (1) Die Wahlgrundsätze sowie die Regeln des Bundeswahlgesetzes und der Bundeswahlordnung über die Wahl von Wahlbewerbern und von Vertretern für die Vertreterversammlungen bleiben bei den in dieser Verordnung zugelassenen Verfahren ansonsten unberührt.
 
 (2) Die Stimmberechtigten sind rechtzeitig über die Besonderheiten des nach Bestimmungen dieser Verordnung gewählten Verfahrens zu unterrichten.
 
-
-## § 5 – Versammlungen mit elektronischer Kommunikation
+# § 5 – Versammlungen mit elektronischer Kommunikation
 
 (1) Versammlungen zur Wahl von Wahlbewerbern und von Vertretern für die Vertreterversammlungen können mit Ausnahme der Schlussabstimmung ganz oder teilweise im Wege elektronischer Kommunikation durchgeführt werden. Zulässig ist insbesondere
 
@@ -51,15 +43,13 @@ Diese Verordnung gilt für die Aufstellung von Wahlbewerbern und die Wahl von Ve
 
 (3) Wenn einzelne oder alle Teilnehmer nur durch einseitige Bild- und Tonübertragung an der Versammlung teilnehmen, sind die Wahrnehmung des Vorschlagsrechts der Vorschlagsberechtigten, das Vorstellungsrecht der Bewerber und die Befragung zumindest schriftlich, elektronisch oder fernmündlich zu gewährleisten.
 
-
-## § 6 – Schriftliches Verfahren
+# § 6 – Schriftliches Verfahren
 
 (1) Das Verfahren zur Wahl von Wahlbewerbern und von Vertretern für die Vertreterversammlungen kann im schriftlichen Verfahren durchgeführt werden. Vorstellung und Befragung können dabei unter Nutzung elektronischer Medien erfolgen.
 
 (2) Das Vorschlagsrecht der Vorschlagsberechtigten, das Vorstellungsrecht der Bewerber und der Zugang der Stimmberechtigten zu Angaben über Person und Programm der Bewerber ist in schriftlicher Form zu gewährleisten.
 
-
-## § 7 – Schlussabstimmung
+# § 7 – Schlussabstimmung
 
 (1) Die Schlussabstimmung über einen Wahlvorschlag kann im Wege der Urnenwahl, der Briefwahl oder einer Kombination aus Brief- und Urnenwahl durchgeführt werden, auch wenn dies nach der Satzung der Partei nicht vorgesehen ist.
 
@@ -67,8 +57,7 @@ Diese Verordnung gilt für die Aufstellung von Wahlbewerbern und die Wahl von Ve
 
 (3) Soweit die Satzungen der Parteien keine einschlägigen Regelungen zur Abstimmung im Wege der Briefwahl enthalten, finden die Bestimmungen zur Zurückweisung von Wahlbriefen sowie die Auslegungsregeln des § 39 Absatz 4 und 5 des Bundeswahlgesetzes entsprechende Anwendung.
 
-
-## § 8 – Entsprechende Anwendung von Bestimmungen und Mustern, Prüfung durch Wahlorgane
+# § 8 – Entsprechende Anwendung von Bestimmungen und Mustern, Prüfung durch Wahlorgane
 
 (1) Soweit sich Vorschriften und Muster nach dem Bundeswahlgesetz und der Bundeswahlordnung auf die Aufstellung von Wahlbewerbern oder die Wahl von Vertretern für die Vertreterversammlungen in Versammlungen beziehen, gelten diese für nach den Bestimmungen dieser Verordnung durchgeführte Verfahren entsprechend.
 
@@ -76,13 +65,11 @@ Diese Verordnung gilt für die Aufstellung von Wahlbewerbern und die Wahl von Ve
 
 (3) Die Wahlorgane prüfen die von den Wahlvorschlagsträgern eingereichten Wahlvorschläge anhand der Vorschriften des Bundeswahlgesetzes und der Bundeswahlordnung nach Maßgabe der besonderen Vorschriften dieser Verordnung.
 
-
-## § 9 – Übergangsvorschriften
+# § 9 – Übergangsvorschriften
 
 Stellt der Deutsche Bundestag fest, dass die Voraussetzungen des § 52 Absatz 4 Satz 1 des Bundeswahlgesetzes nicht mehr vorliegen, so kann bei Verfahren, die vor der Feststellung nach den Bestimmungen dieser Verordnung begonnen oder durchgeführt wurden, von den Abweichungsmöglichkeiten dieser Verordnung für einen Monat ab der Feststellung weiter Gebrauch gemacht werden. Die Frist verlängert sich, wenn ansonsten die Abgabe des Wahlvorschlages nicht mehr in der Frist von § 19 des Bundeswahlgesetzes möglich wäre. Die Feststellung des Deutschen Bundestages nach Satz 1 wird im Bundesgesetzblatt veröffentlicht.
 
-
-## § 10 – Inkrafttreten, Außerkrafttreten
+# § 10 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

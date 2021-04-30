@@ -1,15 +1,11 @@
-# [FinRVV] Verordnung über Finanzrückversicherungsverträge und Verträge ohne hinreichenden Risikotransfer  (Finanzrückversicherungsverordnung - FinRVV)
-
-Ausfertigungsdatum: 18.04.2016
-
+% Verordnung über Finanzrückversicherungsverträge und Verträge ohne hinreichenden Risikotransfer  (Finanzrückversicherungsverordnung - FinRVV)
+% Ausfertigungsdatum: 18.04.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 170 Satz 1 in Verbindung mit Satz 3 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung ist auf Versicherungsunternehmen mit Sitz im Inland und auf Niederlassungen von Versicherungsunternehmen eines Drittstaates im Sinne des § 7 Nummer 6 des Versicherungsaufsichtsgesetzes anzuwenden.
 
@@ -17,8 +13,7 @@ Auf Grund des § 170 Satz 1 in Verbindung mit Satz 3 des Versicherungsaufsichtsg
 
 (3) Auf kleinere Vereine im Sinne des § 210 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes ist diese Verordnung nicht anzuwenden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Für diese Verordnung gelten die folgenden Begriffsbestimmungen:
 
@@ -36,15 +31,13 @@ Auf Grund des § 170 Satz 1 in Verbindung mit Satz 3 des Versicherungsaufsichtsg
 
 (2) Die Differenz der Barwerte der Zahlungsströme zwischen Vorversicherer und Rückversicherer unter einem Rückversicherungsvertrag wird berechnet, indem der Barwert der Schadenzahlungen, Rückversicherungsprovisionen, Kostenerstattungen und sonstigen Zahlungen, die der Rückversicherer an den Vorversicherer auf Grund des Vertrages zu leisten hat, vom Barwert der an den Rückversicherer zu leistenden Beiträge und sonstigen Leistungen abgezogen wird. Zahlungsströme, die der Begleichung von Kosten dienen, die den Vertragsparteien durch Zahlungen an Dritte, die nicht Vertragspartei sind, entstehen, bleiben bei der Ermittlung der Barwerte ebenso außer Betracht wie die Verwaltungskosten des Rückversicherers. Dies gilt insbesondere auch für Zahlungen, die der Rückversicherer aus Leistungen des Vorversicherers, insbesondere aus den Rückversicherungsbeiträgen, finanziert. Die Rückversicherungsbeiträge sind daher entsprechend anteilig zu kürzen. Soweit die Kosten dem Unternehmen der Höhe nach nicht bekannt sind, sind diese gewissenhaft zu schätzen.
 
-
-## § 3 – Unternehmensinterne Kriterien für Finanzrückversicherungsverträge
+# § 3 – Unternehmensinterne Kriterien für Finanzrückversicherungsverträge
 
 (1) Die Versicherungsunternehmen haben geeignete interne Kriterien zu entwickeln, nach denen sie zusätzlich zu den gesetzlichen Kriterien Rückversicherungsverträge als Finanzrückversicherungsverträge einordnen. Die internen Kriterien müssen sich in die internen Prozesse des Unternehmens einfügen und so beschaffen sein, dass eine einheitliche Anwendung im Versicherungsunternehmen gewährleistet ist. Im Falle von Versicherungsunternehmen, die einer Gruppenaufsicht unterliegen, sollen sich die internen Kriterien auch in die gruppenbezogenen internen Prozesse einfügen und eine gruppenweit einheitliche Anwendung ermöglichen.
 
 (2) Die Aufsichtsbehörde kann die Anwendung anderer oder zusätzlicher Kriterien anordnen, wenn die vom Versicherungsunternehmen verwendeten internen Kriterien nicht geeignet sind, Rückversicherungsverträge zu identifizieren, die die Merkmale des § 167 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes erfüllen.
 
-
-## § 4 – Allgemeine Anforderungen an den hinreichenden Risikotransfer
+# § 4 – Allgemeine Anforderungen an den hinreichenden Risikotransfer
 
 (1) Der hinreichende Risikotransfer eines Finanzrückversicherungsvertrages ist durch eine Risikoprüfung (Risikotransfertest) zu belegen, es sei denn, der Finanzrückversicherungsvertrag hat für beide Vertragsparteien eine nur unwesentliche wirtschaftliche Bedeutung. Im Rahmen des Risikotransfertests sind Verträge, die eine wirtschaftliche Verbindung zu anderen Verträgen zwischen denselben Vertragsparteien besitzen, als wirtschaftliche Einheit zu betrachten. Die Gründe, die zu der Einschätzung geführt haben, dass eine nur unwesentliche Bedeutung vorliegt, sowie das Ergebnis der Prüfung, ob eine wirtschaftliche Verbindung zu anderen Verträgen besteht, sind von der jeweiligen Vertragspartei zu dokumentieren.
 
@@ -72,8 +65,7 @@ Das Kriterium des Satzes 1 Nummer 1 ist insbesondere dann erfüllt, wenn der rü
 
 (+++ § 4: Zur Anwendung vgl. § 9 +++)
 
-
-## § 5 – Durchführung und Dokumentation des Risikotransfertests
+# § 5 – Durchführung und Dokumentation des Risikotransfertests
 
 (1) Ein nach § 4 Absatz 1 erforderlicher Risikotransfertest ist zum Zeitpunkt des Vertragsschlusses und zum Zeitpunkt jeder Änderung des Vertragsinhalts, soweit die Änderung den Risikotransfer beeinflussen kann, durchzuführen.
 
@@ -95,8 +87,7 @@ In diesem Fall gilt der hinreichende Risikotransfer als nachgewiesen.
 
 (+++ § 5: Zur Anwendung vgl. § 9 +++)
 
-
-## § 6 – Mindestbestimmungen in Finanzrückversicherungsverträgen
+# § 6 – Mindestbestimmungen in Finanzrückversicherungsverträgen
 
 (1) Das Versicherungsunternehmen hat eine Bestimmung in den Finanzrückversicherungsvertrag aufzunehmen, wonach
 
@@ -112,8 +103,7 @@ Die Bestimmung hat ferner vorzusehen, dass Nachträge nur schriftlich erfolgen u
 
 (+++ § 6: Zur Anwendung vgl. § 9 +++)
 
-
-## § 7 – Interne Verwaltungs- und Rechnungslegungsverfahren
+# § 7 – Interne Verwaltungs- und Rechnungslegungsverfahren
 
 (1) Das Versicherungsunternehmen hat im Rahmen des Risikomanagementsystems und des internen Kontrollsystems geeignete interne Verwaltungs- und Rechnungslegungsverfahren festzulegen, die eine angemessene Identifikation, Bewertung, Überwachung, Steuerung und Kontrolle der aus Finanzrückversicherungsverträgen und aus Finanzrückversicherungsgeschäften erwachsenden Risiken sicherstellen und eine Berichterstattung darüber ermöglichen. Dies umfasst auch die Überwachung der Einhaltung rechtlicher Rahmenbedingungen, insbesondere einer angemessenen Rechnungslegung und einer zutreffenden Datierung dieser Verträge.
 
@@ -125,8 +115,7 @@ Die Bestimmung hat ferner vorzusehen, dass Nachträge nur schriftlich erfolgen u
 
 3. Festlegungen zu den Berichtspflichten an den Vorstand.
 
-
-## § 8 – Dokumentation der Verträge zur Finanzrückversicherung
+# § 8 – Dokumentation der Verträge zur Finanzrückversicherung
 
 (1) Das Versicherungsunternehmen hat in geeigneter Form und nachprüfbar zu dokumentieren
 
@@ -146,12 +135,10 @@ Die Bestimmung hat ferner vorzusehen, dass Nachträge nur schriftlich erfolgen u
 
 (+++ § 8: Zur Anwendung vgl. § 9 +++)
 
-
-## § 9 – Übergangsvorschrift
+# § 9 – Übergangsvorschrift
 
 Die §§ 4 bis 6 und § 8 finden nur auf solche Verträge Anwendung, die nach dem 25. Juli 2008 abgeschlossen werden.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

@@ -1,20 +1,15 @@
-# [BergMAusbV] Verordnung über die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau
-
-Ausfertigungsdatum: 22.06.1979
-
+% Verordnung über die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau
+% Ausfertigungsdatum: 22.06.1979
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 1 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Berg- und Maschinenmannes und der Berg- und Maschinenfrau wird staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer, Fachrichtungen
+# § 2 – Ausbildungsdauer, Fachrichtungen
 
 Die Ausbildung dauert zwei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -24,8 +19,7 @@ Die Ausbildung dauert zwei Jahre. Es kann zwischen den Fachrichtungen
 
 gewählt werden.
 
-
-## § 3 – Ausbildungsberufsbild
+# § 3 – Ausbildungsberufsbild
 
 (1) Gegenstand der für beide Fachrichtungen gemeinsamen Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -101,23 +95,19 @@ c) Montieren, Demontieren und Instandhalten von Fördereinrichtungen,
 
 d) Instandhalten von Rohr- und Schlauchleitungen.
 
-
-## § 4 – Ausbildungsrahmenplan
+# § 4 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 3 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine vom Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit eine berufsfeldbezogene Grundbildung vorausgegangen ist oder betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplans für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Berichtsheft
+# § 6 – Berichtsheft
 
 Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende hat das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 7 – Zwischenprüfung
+# § 7 – Zwischenprüfung
 
 (1) Während der Berufsausbildung ist eine Zwischenprüfung durchzuführen. Sie soll nach dem ersten Ausbildungsjahr stattfinden.
 
@@ -127,8 +117,7 @@ Der Auszubildende hat ein Berichtsheft in Form eines Ausbildungsnachweises zu f�
 
 (4) Zum Nachweis der Kenntnisse soll der Prüfling praxisbezogene Aufgaben aus den Prüfungsfächern Technologie und Technische Mathematik in insgesamt höchstens 90 Minuten schriftlich lösen. Soweit die schriftliche Kenntnisprüfung programmiert durchgeführt wird, kann von dieser Prüfungsdauer abgewichen werden.
 
-
-## § 8 – Abschlußprüfung
+# § 8 – Abschlußprüfung
 
 (1) Die Abschlußprüfung erstreckt sich auf die in der Anlage zu § 4 genannten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -265,21 +254,17 @@ Wirtschafts- und Sozialkunde.
 
 (8) Die Prüfung ist bestanden, wenn jeweils in der Fertigkeits- und der Kenntnisprüfung mindestens ausreichende Leistungen erbracht sind.
 
+# §§ 9 und 10 – (weggefallen)
 
-## §§ 9 und 10 – (weggefallen)
-
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau
 
 (Fundstelle: BGBl. I 1979, 841 - 848;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -935,8 +920,7 @@ x
 
  
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
+# Anhang EV – Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III  (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
 

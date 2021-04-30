@@ -1,23 +1,17 @@
-# [AltvPIBV] Verordnung zum Produktinformationsblatt und zu weiteren Informationspflichten bei zertifizierten Altersvorsorge- und Basisrentenverträgen nach dem Altersvorsorgeverträge-Zertifizierungsgesetz  (Altersvorsorge-Produktinformationsblattverordnung - AltvPIBV)
-
-Ausfertigungsdatum: 27.07.2015
-
+% Verordnung zum Produktinformationsblatt und zu weiteren Informationspflichten bei zertifizierten Altersvorsorge- und Basisrentenverträgen nach dem Altersvorsorgeverträge-Zertifizierungsgesetz  (Altersvorsorge-Produktinformationsblattverordnung - AltvPIBV)
+% Ausfertigungsdatum: 27.07.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Satz 1 des Altersvorsorgeverträge-Zertifizierungsgesetzes vom 26. Juni 2001 (BGBl. I S. 1310, 1322), das durch Artikel 2 Absatz 8 des Gesetzes vom 1. April 2015 (BGBl. I S. 434) geändert worden ist, in Verbindung mit § 1 Absatz 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Justiz und für Verbraucherschutz:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Produktbezeichnung
+# § 1 – Produktbezeichnung
 
 Die Produktbezeichnung im Sinne des § 7 Absatz 1 Satz 2 Nummer 1 des Gesetzes ist der vom Anbieter vergebene Name.
 
-
-## § 2 – Produkttyp
+# § 2 – Produkttyp
 
 (1) Zur Benennung des Produkttyps nach § 7 Absatz 1 Satz 2 Nummer 2 des Gesetzes dürfen folgende Bezeichnungen verwendet werden:
 
@@ -51,8 +45,7 @@ Bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Ges
 
 4. Basisrente-Erwerbsminderung.
 
-
-## § 3 – Produktbeschreibung
+# § 3 – Produktbeschreibung
 
 (1) Die Produktbeschreibung nach § 7 Absatz 1 Satz 2 Nummer 2 des Gesetzes hat Folgendes zu enthalten:
 
@@ -68,8 +61,7 @@ Bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Ges
 
 (5) Bei Basisrentenverträgen nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes ist anzugeben, ob und inwiefern die Höhe der zugesagten Rente vom Alter des Vertragspartners bei Eintritt des Versicherungsfalls abhängt.
 
-
-## § 4 – Wesentliche Bestandteile des Vertrags
+# § 4 – Wesentliche Bestandteile des Vertrags
 
 (1) Wesentliche Bestandteile des Vertrags im Sinne des § 7 Absatz 1 Satz 2 Nummer 6 des Gesetzes sind:
 
@@ -97,8 +89,7 @@ Bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Ges
 
 (5) Sollen die tatsächlichen Vertragsdaten von den Daten im Produktinformationsblatt abweichen, muss der Anbieter dem Vertragspartner vor seiner Vertragserklärung ein neues Produktinformationsblatt ausstellen. Dies gilt nicht, wenn der Vertragsbeginn vom geplanten Vertragsbeginn um weniger als sechs Monate abweichen soll. In diesem Fall muss der Anbieter nur auf Wunsch des Vertragspartners ein neues Produktinformationsblatt ausstellen. § 7c des Gesetzes bleibt hiervon unberührt.
 
-
-## § 5 – Chancen-Risiko-Klassen
+# § 5 – Chancen-Risiko-Klassen
 
 (1) Altersvorsorge- und Basisrentenverträge sind nach § 7 Absatz 1 Satz 2 Nummer 7 des Gesetzes in Chancen-Risiko-Klassen (CRK) einzuordnen (Klassifizierung). Dies gilt nicht für Altersvorsorgeverträge in Form eines Darlehens, Altersvorsorgeverträge im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Gesetzes und Basisrentenverträge nach § 10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb des Einkommensteuergesetzes.
 
@@ -122,15 +113,13 @@ den Verzicht auf weitere Überprüfungen nach Satz 1 beantragen, wenn er bei Ste
 
 (4) Die für die Klassifizierung anzuwendenden weitergehenden Kriterien sowie der im Produktinformationsblatt zu verwendende Beschreibungstext der Chancen-Risiko-Klassen sind Bestandteil der Festlegung des Simulationsverfahrens. Die Kriterien und der Beschreibungstext werden mindestens auf den Internetseiten der Produktinformationsstelle Altersvorsorge veröffentlicht.
 
-
-## § 6 – Effektiver Jahreszins
+# § 6 – Effektiver Jahreszins
 
 (1) Bei Altersvorsorgeverträgen in Form eines Darlehens und bei Altersvorsorgeverträgen im Sinne des § 1 Absatz 1a Satz 1 Nummer 3 des Gesetzes sind die Gesamtkosten als jährlicher Prozentsatz des Kredits nach § 6 Absatz 1 der Preisangabenverordnung in der Fassung der Bekanntmachung vom 18. Oktober 2002 (BGBl. I S. 4197), die zuletzt durch Artikel 7 des Gesetzes vom 20. September 2013 (BGBl. I S. 3642) geändert worden ist, in der jeweils geltenden Fassung anzugeben. Für das Altersvorsorgevermögen, mit dem das Darlehen getilgt wird, ist der vertraglich garantierte Betrag dieses Vermögens zum voraussichtlichen Zeitpunkt der Darlehenstilgung anzusetzen.
 
 (2) In die Berechnung des Prozentsatzes sind alle Kosten für den Vertragspartner einschließlich aller auf den Vertrag zu leistenden Altersvorsorgebeiträge einzubeziehen, es sei denn, die Kosten fallen unter eine Ausnahme des § 6 Absatz 4 der Preisangabenverordnung.
 
-
-## § 7 – Kostenangabe
+# § 7 – Kostenangabe
 
 (1) Bei der Kostenangabe nach § 7 Absatz 1 Satz 2 Nummer 9 des Gesetzes sind die Abschluss- und Vertriebskosten zusätzlich als Gesamtbetrag auszuweisen. Abschluss- und Vertriebskosten für eine geplante Einmalzahlung oder für eine geplante einmalige Tilgungsleistung zu Vertragsbeginn sind in den Gesamtbetrag nach Satz 1 einzurechnen, unabhängig davon, ob die Einzahlung auf einer Eigenleistung des Vertragspartners oder auf einer Kapitalübertragung aus einem anderen Vertrag beruht.
 
@@ -138,8 +127,7 @@ den Verzicht auf weitere Überprüfungen nach Satz 1 beantragen, wenn er bei Ste
 
 (3) Die jeweiligen Geldbeträge sind in Euro anzugeben.
 
-
-## § 8 – Angaben zum Preis-Leistungs-Verhältnis
+# § 8 – Angaben zum Preis-Leistungs-Verhältnis
 
 Die Angaben zum Preis-Leistungs-Verhältnis nach § 7 Absatz 1 Satz 2 Nummer 10 des Gesetzes müssen Folgendes beinhalten:
 
@@ -155,8 +143,7 @@ Die Angaben zum Preis-Leistungs-Verhältnis nach § 7 Absatz 1 Satz 2 Nummer 10 
 
 6. die zu Beginn der Auszahlungsphase nach Abzug der Kosten berechnete monatliche Leistung einschließlich Überschussanteilen, die sich bei den vorgegebenen Wertentwicklungen nach § 10 Absatz 2 unter Berücksichtigung der Beitragszusage nach § 1 Satz 1 Nummer 3 des Gesetzes sowie weiterer Leistungsversprechen ergibt, sofern die Leistung bereits bezifferbar ist.
 
-
-## § 9 – Annahmen für die Angaben zum Preis-Leistungs-Verhältnis
+# § 9 – Annahmen für die Angaben zum Preis-Leistungs-Verhältnis
 
 (1) Die Berechnungen für die Angaben nach den §§ 7, 8, 11 und 12 sind unter Berücksichtigung von Annahmen zur Entwicklung des Vertrags vorzunehmen. Die Annahmen zu den der Berechnung zugrunde liegenden Eigenbeiträgen und bei Altersvorsorgeverträgen zu den der Berechnung zugrunde liegenden Altersvorsorgezulagen sowie das Kindesalter, bis zu dem eine Kinderzulage berücksichtigt wird, sind entsprechend den Angaben des Vertragspartners, die er zu folgenden Punkten macht, zu treffen und auszuweisen:
 
@@ -174,8 +161,7 @@ Die Angaben zum Preis-Leistungs-Verhältnis nach § 7 Absatz 1 Satz 2 Nummer 10 
 
 (4) Bei einer geplanten Beitragsdynamisierung sind der Anfangs- und der Endbeitrag in Euro anzugeben. Sofern der Endbeitrag noch nicht feststeht, ist statt der Angabe des Endbeitrags auf die Dynamisierung hinzuweisen.
 
-
-## § 10 – Berechnungen für die Angaben zum Preis-Leistungs-Verhältnis
+# § 10 – Berechnungen für die Angaben zum Preis-Leistungs-Verhältnis
 
 (1) Den Berechnungen für die Angaben nach den §§ 7, 8 Nummer 3 sowie § 11 Absatz 1 sind in Abhängigkeit von den Chancen-Risiko-Klassen folgende jährliche Wertentwicklungen vor Abzug der Kosten zugrunde zu legen:
 
@@ -217,8 +203,7 @@ Die für die Berechnung verwendete Gesamtwertentwicklung des Vertrags ist auf de
 
 (7) Die Beträge nach § 8 Nummer 1, 2, 5 und 6 sind in Euro anzugeben. Die Minderung der Wertentwicklung nach § 8 Nummer 3 ist auf zwei Nachkommastellen kaufmännisch zu runden.
 
-
-## § 11 – Informationen zum Anbieterwechsel und zur Kündigung des Vertrags
+# § 11 – Informationen zum Anbieterwechsel und zur Kündigung des Vertrags
 
 (1) Zum Anbieterwechsel und zur Kündigung des Vertrags nach § 7 Absatz 1 Satz 2 Nummer 13 des Gesetzes sind folgende Informationen zu geben:
 
@@ -240,8 +225,7 @@ c) das Verhältnis der unter den Buchstaben b und a genannten Werte zueinander i
 
 (3) Ist bei Basisrentenverträgen oder bei Altersvorsorgeverträgen nach § 1 Absatz 1a des Gesetzes ein Anbieterwechsel ausgeschlossen, so ist darauf hinzuweisen. In diesem Fall müssen die Informationen nach Absatz 1 nicht gegeben werden.
 
-
-## § 12 – Informationen bei Zusatzabsicherungen
+# § 12 – Informationen bei Zusatzabsicherungen
 
 (1) Die zusätzlichen Angaben nach § 7 Absatz 1 Satz 3 des Gesetzes bei ergänzenden Absicherungen umfassen insbesondere:
 
@@ -253,15 +237,13 @@ c) das Verhältnis der unter den Buchstaben b und a genannten Werte zueinander i
 
 (2) Ergeben sich nach der Ausstellung des Produktinformationsblatts Leistungsausschlüsse, beispielsweise aufgrund einer danach vorgenommenen Risikoprüfung, so hat der Anbieter dem Vertragspartner ein neues Produktinformationsblatt auszustellen.
 
-
-## § 13 – Form des Produktinformationsblatts
+# § 13 – Form des Produktinformationsblatts
 
 (1) Das Produktinformationsblatt ist nach amtlich vorgeschriebenem Muster zu erstellen, das durch ein Schreiben des Bundesministeriums der Finanzen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium der Justiz und für Verbraucherschutz im Bundessteuerblatt Teil I veröffentlicht wird.
 
 (2) Es ist in deutscher, allgemeinverständlicher Sprache abzufassen. Die mitzuteilenden Informationen muss der Vertragspartner verstehen können, ohne dass er zusätzliche Dokumente heranziehen muss. Sie müssen eindeutig und dürfen nicht irreführend sein. Werbende Inhalte sind im Produktinformationsblatt unzulässig.
 
-
-## § 14 – Muster-Produktinformationsblatt
+# § 14 – Muster-Produktinformationsblatt
 
 (1) Im Muster-Produktinformationsblatt sind statt der individuellen Werte nach § 7 Absatz 4 des Gesetzes die folgenden Annahmen zugrunde zu legen:
 
@@ -291,8 +273,7 @@ Bei Altersvorsorgeverträgen ist zusätzlich eine einmalig gezahlte Grundzulage 
 
 (2) Für Laufzeiten unterhalb der Mindestlaufzeit des angebotenen Tarifs muss kein Muster-Produktinformationsblatt erstellt werden. In den verbleibenden Muster-Produktinformationsblättern für diesen Tarif ist auf die Mindestlaufzeit und die dadurch bedingte Nichterstellung des betreffenden Muster-Produktinformationsblatts hinzuweisen.
 
-
-## § 15 – Information vor der Auszahlungsphase des Altersvorsorgevertrags
+# § 15 – Information vor der Auszahlungsphase des Altersvorsorgevertrags
 
 Der Anbieter hat den Vertragspartner nach Maßgabe des § 7b Absatz 1 Satz 1 Nummer 1 des Gesetzes über Folgendes schriftlich zu informieren:
 
@@ -310,8 +291,7 @@ Der Anbieter hat den Vertragspartner nach Maßgabe des § 7b Absatz 1 Satz 1 Num
 
 7. die Höhe der Prämie für eine Verrentung nach Beginn der Auszahlungsphase.
 
-
-## § 16 – Berechnungen für die Information vor der Auszahlungsphase des Altersvorsorgevertrags
+# § 16 – Berechnungen für die Information vor der Auszahlungsphase des Altersvorsorgevertrags
 
 (1) Den Berechnungen für die Angaben nach § 15 sind folgende Werte zugrunde zu legen:
 
@@ -337,7 +317,6 @@ Weicht der tatsächliche Wert zu Beginn der Auszahlungsphase von der Angabe nach
 
 (4) Bei Verträgen, die ab dem in § 14 Absatz 6 Satz 2 des Gesetzes genannten Anwendungszeitpunkt abgeschlossen worden sind, ist für die Angabe der in der Auszahlungsphase anfallenden Kosten nach § 7b Absatz 1 Satz 1 Nummer 2 des Gesetzes eine Aufstellung der Kosten nach § 2a des Gesetzes getrennt für jeden Gliederungspunkt vorzusehen.
 
-
-## § 17 – Inkrafttreten
+# § 17 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.

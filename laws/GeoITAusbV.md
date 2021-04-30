@@ -1,18 +1,13 @@
-# [GeoITAusbV] Verordnung über die Berufsausbildung in der Geoinformationstechnologie
-
-Ausfertigungsdatum: 30.05.2010
-
+% Verordnung über die Berufsausbildung in der Geoinformationstechnologie
+% Ausfertigungsdatum: 30.05.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnen das Bundesministerium für Wirtschaft und Technologie und das Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung der Ausbildungsberufe
+# § 1 – Staatliche Anerkennung der Ausbildungsberufe
 
 Die Ausbildungsberufe
 
@@ -22,13 +17,11 @@ Die Ausbildungsberufe
 
 werden nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt. Soweit die Ausbildung im Bereich des öffentlichen Dienstes stattfindet, sind sie Ausbildungsberufe des öffentlichen Dienstes. Im Übrigen sind sie Ausbildungsberufe der gewerblichen Wirtschaft.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildungen dauern jeweils drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Ausbildungen gliedern sich wie folgt:
 
@@ -42,8 +35,7 @@ a) Vermessung,
 
 b) Bergvermessung.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -108,8 +100,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 6. Qualitätsmanagement und Kundenorientierung.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 6 und 7 nachzuweisen.
 
@@ -117,8 +108,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Zwischenprüfung
+# § 6 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
@@ -142,8 +132,7 @@ kann;
 
 3. die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 7 – Abschlussprüfung
+# § 7 – Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -257,8 +246,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 8 – Gewichtungs- und Bestehensregelungen
+# § 8 – Gewichtungs- und Bestehensregelungen
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
 
@@ -282,8 +270,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 9 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsbildung sind mindestens die im Ausbildungsrahmenplan (Anlage 2) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -358,8 +345,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 6. Qualitätsmanagement und Kundenorientierung.
 
-
-## § 10 – Durchführung der Berufsausbildung
+# § 10 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 11, 12 und 14 nachzuweisen.
 
@@ -367,8 +353,7 @@ Integrative Fertigkeiten, Kenntnisse und Fähigkeiten nach § 3 Nummer 2:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 11 – Zwischenprüfung
+# § 11 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres stattfinden.
 
@@ -392,8 +377,7 @@ kann;
 
 3. die Prüfungszeit beträgt 120 Minuten.
 
-
-## § 12 – Abschlussprüfung in der Fachrichtung Vermessung
+# § 12 – Abschlussprüfung in der Fachrichtung Vermessung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -473,8 +457,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Vermessung
+# § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Vermessung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
 
@@ -497,8 +480,7 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 14 – Abschlussprüfung in der Fachrichtung Bergvermessung
+# § 14 – Abschlussprüfung in der Fachrichtung Bergvermessung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen.
 
@@ -578,8 +560,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 15 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Bergvermessung
+# § 15 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Bergvermessung
 
 (1) Die Prüfungsbereiche sind wie folgt zu gewichten:  
 
@@ -602,22 +583,18 @@ bewertet worden sind.
 
 (4) Auf Antrag des Prüflings ist die Prüfung in einem der mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 16 – Bestehende Berufsausbildungsverhältnisse
+# § 16 – Bestehende Berufsausbildungsverhältnisse
 
 Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung in den Ausbildungsberufen Kartograph/Kartographin, Vermessungstechniker/Vermessungstechnikerin sowie Bergvermessungstechniker/Bergvermessungstechnikerin bestehen, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 17 – Inkrafttreten, Außerkrafttreten
+# § 17 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig treten die Verordnung über die Berufsausbildung zum Kartographen/zur Kartographin vom 4. März 1997 (BGBl. I S. 536), die Verordnung über die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin vom 17. Dezember 1994 (BGBl. I S. 3889) und die Bergvermessungstechniker-Ausbildungsverordnung vom 28. Januar 1993 (BGBl. I S. 137) außer Kraft.
 
-
-## Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Geomatiker/zur Geomatikerin
+# Anlage 1 – (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Geomatiker/zur Geomatikerin
 
 (Fundstelle: BGBl. I 2010, 701 - 706)
 
-
-## Anlage 2 – (zu § 9 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin
+# Anlage 2 – (zu § 9 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Vermessungstechniker/zur Vermessungstechnikerin
 
 (Fundstelle: BGBl. I 2010, 707 - 712)

@@ -1,22 +1,17 @@
-# [FzTV] Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie deren Kennzeichnung  (Fahrzeugteileverordnung - FzTV)
-
-Ausfertigungsdatum: 12.08.1998
-
+% Verordnung über die Prüfung und Genehmigung der Bauart von Fahrzeugteilen sowie deren Kennzeichnung  (Fahrzeugteileverordnung - FzTV)
+% Ausfertigungsdatum: 12.08.1998
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 Buchstabe b und Abs. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, die Eingangsworte in Absatz 1 Nr. 3 zuletzt geändert durch Artikel 1 Nr. 10 Buchstabe a Doppelbuchstabe ee Dreifachbuchstabe aaa des Gesetzes vom 24. April 1998 (BGBl. I S. 747), Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S. 721) und geändert gemäß Artikel 22 Nr. 3 der Verordnung vom 26. November 1986 (BGBl. I S. 2089), verordnet das Bundesministerium für Verkehr, hinsichtlich § 6 Abs. 3 nach Anhörung der zuständigen obersten Landesbehörden:
 
-
-## § 1 – Arten der Genehmigung von Fahrzeugteilen
+# § 1 – Arten der Genehmigung von Fahrzeugteilen
 
 (1) Die in § 22a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung vorgeschriebene Genehmigung der Bauart von Fahrzeugteilen kann für die Bauart eines Typs (Allgemeine Bauartgenehmigung) oder eines einzelnen Fahrzeugteils (Bauartgenehmigung im Einzelfall - Einzelgenehmigung -) erteilt werden.
 
 (2) Der in § 22a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung vorgeschriebenen Genehmigung steht die Genehmigung gleich, die ein anderer Staat für die Bauart eines der in § 22a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung genannten Fahrzeugteils unter Beachtung der mit der Bundesrepublik Deutschland vereinbarten Bedingungen erteilt hat.
 
-
-## § 2 – Zulässigkeit der Bauartgenehmigung
+# § 2 – Zulässigkeit der Bauartgenehmigung
 
 (1) Für reihenweise zu fertigende oder gefertigte Fahrzeugteile kann die Bauartgenehmigung dem Hersteller nach einer auf seine Kosten vorgenommenen Prüfung allgemein erteilt werden, wenn er die Gewähr für eine zuverlässige Ausübung der durch die Bauartgenehmigung verliehenen Befugnisse bietet. Bei Herstellung eines Typs durch mehrere Beteiligte kann diesen die Bauartgenehmigung gemeinsam erteilt werden. Für Fahrzeugteile, die im Ausland hergestellt worden sind, kann die Bauartgenehmigung erteilt werden
 
@@ -30,8 +25,7 @@ In den Fällen des Satzes 3 Nr. 1 und 2 muß der Beauftragte seinen Sitz in eine
 
 (2) Der Antragsteller nach Absatz 1 hat gegenüber dem Kraftfahrt-Bundesamt den Nachweis zu erbringen, daß in bezug auf die Übereinstimmung der reihenweise gefertigten Fahrzeugteile mit dem genehmigten Typ ein ausreichendes Qualitätssicherungssystem zugrunde liegt. Dieses liegt auch vor, wenn es den Grundsätzen der harmonisierten Norm EN ISO 9002 oder einem gleichwertigen Standard entspricht; §§ 19, 20 und 21 des Artikels 1 der Zwanzigsten Verordnung zur Änderung straßenverkehrsrechtlicher Vorschriften (Verordnung über die EG-Typgenehmigung für Fahrzeuge und Fahrzeugteile) vom 9. Dezember 1994 (BGBl. I S. 3755), geändert durch Artikel 2 der Verordnung vom 12. August 1997 (BGBl. I S. 2051), in der jeweils geltenden Fassung, sind entsprechend anzuwenden.
 
-
-## § 3 – Anträge auf Bauartgenehmigung und Prüfung
+# § 3 – Anträge auf Bauartgenehmigung und Prüfung
 
 (1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich oder elektronisch unter Angabe der Typbezeichnung beim Kraftfahrt-Bundesamt zu stellen. Dem Antrag ist das Gutachten der Prüfstelle nach § 6 beizufügen.
 
@@ -39,15 +33,13 @@ In den Fällen des Satzes 3 Nr. 1 und 2 muß der Beauftragte seinen Sitz in eine
 
 (3) Bei Prüfungen im Genehmigungsverfahren nach § 7 Abs. 2 sind dem Antrag auf Bauartgenehmigung die in den Bedingungen für das jeweilige Genehmigungsverfahren vorgeschriebenen Unterlagen und Muster beizufügen.
 
-
-## § 4 – Erteilung der Bauartgenehmigung
+# § 4 – Erteilung der Bauartgenehmigung
 
 (1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung schriftlich oder elektronisch. In der Bauartgenehmigung werden der genehmigte Typ, das zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des Verwaltungsverfahrensgesetzes) und, soweit erforderlich, Ausnahmen von den Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung festgelegt.
 
 (2) Abweichungen vom genehmigten Typ sind nur zulässig, wenn die Bauartgenehmigung durch einen entsprechenden Nachtrag ergänzt worden ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich oder elektronisch erklärt, daß für die vorgesehene Änderung eine Nachtragsgenehmigung nicht erforderlich ist.
 
-
-## § 5 – Prüfstellen
+# § 5 – Prüfstellen
 
 (1) Für die Prüfungen sind Prüfstellen zuständig. Prüfstelle ist
 
@@ -59,8 +51,7 @@ In den Fällen des Satzes 3 Nr. 1 und 2 muß der Beauftragte seinen Sitz in eine
 
 (2) Abweichend von Absatz 1 werden auch Prüfungen anerkannt, die von den zuständigen Prüfstellen eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum durchgeführt und bescheinigt sind und mit denen die nach dieser Verordnung vorgeschriebenen Anforderungen gleichermaßen dauerhaft erreicht werden.
 
-
-## § 6 – Aufgaben der Prüfstelle
+# § 6 – Aufgaben der Prüfstelle
 
 (1) Die Prüfstelle hat zu prüfen, ob die Fahrzeugteile den Anforderungen entsprechen, die zur Einhaltung der Bestimmungen über den Bau und Betrieb von Fahrzeugen und Fahrzeugteilen zu stellen sind. Bei Fahrzeugteilen, die auch in eingebautem Zustand geprüft werden müssen, bestimmt die Prüfstelle das Nähere über die Durchführung.
 
@@ -68,8 +59,7 @@ In den Fällen des Satzes 3 Nr. 1 und 2 muß der Beauftragte seinen Sitz in eine
 
 (3) Das Kraftfahrt-Bundesamt kann Ergänzungen zur Prüfung anordnen, insbesondere vom Antragsteller weitere sachdienliche Muster und Unterlagen anfordern oder bestimmen, daß Fahrzeugteile auch in eingebautem Zustand zu prüfen sind.
 
-
-## § 7 – Prüfzeichen
+# § 7 – Prüfzeichen
 
 (1) Das Prüfzeichen besteht aus einer Wellenlinie von drei Perioden, einem oder zwei Kennbuchstaben, einer Nummer und, soweit erforderlich, zusätzlichen Zeichen. Der Kennbuchstabe bezeichnet die Art der Fahrzeugteile nach folgender Aufstellung:
 
@@ -111,15 +101,13 @@ Werden Fahrzeugteile aus zwei unterschiedlichen Arten gemeinsam genehmigt, so en
 
 (4) Das zugeteilte Prüfzeichen ist auf jedem dem genehmigten Typ entsprechenden Fahrzeugteil in der vorgeschriebenen Anordnung gut lesbar, dauerhaft und jederzeit feststellbar anzubringen; dies gilt auch für das entsprechend der Bauartgenehmigung an- oder eingebaute Fahrzeugteil.
 
-
-## § 8 – Verwahrung und Rückgabe der Muster und Unterlagen
+# § 8 – Verwahrung und Rückgabe der Muster und Unterlagen
 
 (1) Ist die Bauartgenehmigung erteilt worden, so ist je eine Ausfertigung der nach § 3 eingereichten und von der Prüfstelle geprüften und bestätigten Unterlagen beim Kraftfahrt-Bundesamt zu verwahren. Waren nach Anlage 1 zwei oder mehr Muster einzureichen, so hat die Prüfstelle je zwei Muster des genehmigten Fahrzeugteils mit dem Prüfzeichen zu versehen. Ein mit dem Prüfzeichen versehenes Muster ist bei der Prüfstelle zu verwahren, das andere und etwa vorgelegte weitere Muster sowie nicht mehr benötigte Unterlagen sind dem Antragsteller zurückzugeben. Die Prüfstelle hat dem Kraftfahrt-Bundesamt auf Verlangen das dem Hersteller zurückzugebende Muster vorzulegen. In diesem Fall versieht das Kraftfahrt-Bundesamt das Muster mit dem durch die Bauartgenehmigung zugeteilten Prüfzeichen und gibt es dem Antragsteller zurück. Mit Zustimmung des Kraftfahrt-Bundesamtes kann davon abgesehen werden, ein Muster bei der Prüfstelle aufzubewahren. In diesen Fällen hat der Antragsteller auf Verlangen des Kraftfahrt-Bundesamtes oder der Prüfstelle ein Muster oder Teile davon aufzubewahren und dem Kraftfahrt-Bundesamt oder der Prüfstelle auf Anforderung zur Verfügung zu stellen.
 
 (2) Ist der Antrag auf Erteilung der Bauartgenehmigung abgelehnt worden, so sind die Muster und auf Antrag auch die sonstigen Unterlagen dem Antragsteller erst dann auszuhändigen, wenn die Ablehnung unanfechtbar geworden ist.
 
-
-## § 9 – Übereinstimmung der Produktion
+# § 9 – Übereinstimmung der Produktion
 
 (1) Das Kraftfahrt-Bundesamt kann die in den einzelnen Produktionsstätten angewandten Verfahren zur Kontrolle der Übereinstimmung der Produktion (Qualitätssicherungssysteme) überprüfen. Ist ein nach § 2 Abs. 2 Satz 2 zertifiziertes Qualitätssicherungssystem nachgewiesen, so gilt dies nur in begründeten Fällen.
 
@@ -127,8 +115,7 @@ Werden Fahrzeugteile aus zwei unterschiedlichen Arten gemeinsam genehmigt, so en
 
 (3) Die Kosten der Überprüfung nach Absatz 1 Satz 1 trägt der Inhaber der Genehmigung, wenn ein Verstoß gegen die Vorschriften des § 2 Abs. 2 festgestellt wird. Die Kosten der Proben nach Absatz 2, ihrer Entnahme, ihres Versandes und der Prüfung trägt der Inhaber der Genehmigung, wenn ein Verstoß gegen die Vorschriften über die Bauartgenehmigung oder die Prüfzeichen festgestellt wird.
 
-
-## § 10 – Nachträgliche Nebenbestimmungen, Widerruf, Rücknahme und Erlöschen der Allgemeinen Bauartgenehmigung
+# § 10 – Nachträgliche Nebenbestimmungen, Widerruf, Rücknahme und Erlöschen der Allgemeinen Bauartgenehmigung
 
 (1) Das Kraftfahrt-Bundesamt kann zur Beseitigung aufgetretener Mängel und zur Gewährleistung der Vorschriftsmäßigkeit auch bereits im Verkehr befindlicher Fahrzeugteile nachträglich Nebenbestimmungen anordnen.
 
@@ -148,25 +135,21 @@ Werden Fahrzeugteile aus zwei unterschiedlichen Arten gemeinsam genehmigt, so en
 
 (5) Ist die Allgemeine Bauartgenehmigung erloschen, kann das Kraftfahrt-Bundesamt die Veräußerung der aufgrund einer solchen Genehmigung hergestellten Fahrzeugteile zur Verwendung im Straßenverkehr im Geltungsbereich dieser Verordnung untersagen und hierüber die für die Zulassung und Überwachung zuständigen Stellen unterrichten.
 
-
-## § 11 – Antrag auf Einzelgenehmigung
+# § 11 – Antrag auf Einzelgenehmigung
 
 Gehört eines der in § 22a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung genannten Fahrzeugteile nicht zu einem genehmigten Typ, so kann eine Einzelgenehmigung unter Vorlage des Gutachtens eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder der Prüfstelle (§ 5) bei der nach § 68 der Straßenverkehrs-Zulassungs-Ordnung zuständigen Verwaltungsbehörde (Zulassungsbehörde) beantragt werden. § 6 Abs. 1 ist entsprechend anzuwenden.
 
-
-## § 12 – Prüfung durch die Verwaltungsbehörde (Zulassungsbehörde)
+# § 12 – Prüfung durch die Verwaltungsbehörde (Zulassungsbehörde)
 
 (1) Die Zulassungsbehörde ist an das Gutachten des amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder der Prüfstelle nicht gebunden.
 
 (2) Die Zulassungsbehörde trifft die zur Prüfung etwa erforderlichen weiteren Maßnahmen. Sie kann hierzu die Vorführung des Fahrzeugteils sowie die Vorlage eines weiteren Gutachtens verlangen und ähnliche Anordnungen erlassen.
 
-
-## § 13 – Erteilung der Einzelgenehmigung
+# § 13 – Erteilung der Einzelgenehmigung
 
 Die Verwaltungsbehörde (Zulassungsbehörde) erteilt die Einzelgenehmigung, indem sie auf dem Gutachten des amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder der Prüfstelle unter Angabe von Ort und Datum vermerkt: "Einzelgenehmigung erteilt". Etwaige Beschränkungen oder Ausnahmen von den Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung sind in den Vermerk aufzunehmen. Wird das Fahrzeugteil an einem Kraftfahrzeug oder Kraftfahrzeuganhänger verwendet, so ist die Einzelgenehmigung in den Fahrzeugbrief und in den Fahrzeugschein einzutragen und in den etwa ausgestellten Anhängerverzeichnissen kenntlich zu machen.
 
-
-## § 14 – Widerruf, Rücknahme und Erlöschen der Einzelgenehmigung
+# § 14 – Widerruf, Rücknahme und Erlöschen der Einzelgenehmigung
 
 (1) Die Einzelgenehmigung erlischt bei Rückgabe, nach Ablauf einer etwa festgesetzten Frist, bei Rücknahme oder Widerruf durch die nach § 68 der Straßenverkehrs-Zulassungs-Ordnung zuständige Verwaltungsbehörde (Zulassungsbehörde), ferner dann, wenn sie den jeweils geltenden Rechtsvorschriften nicht mehr entspricht und dies durch die zuständige Stelle festgestellt worden ist.
 
@@ -174,20 +157,17 @@ Die Verwaltungsbehörde (Zulassungsbehörde) erteilt die Einzelgenehmigung, inde
 
 (3) Nach dem Erlöschen der Einzelgenehmigung ist der Genehmigungsvermerk (§ 13) der Zulassungsbehörde zur Löschung unaufgefordert vorzulegen, nötigenfalls von dieser einzuziehen.
 
-
-## § 15 – Bisherige Genehmigungen
+# § 15 – Bisherige Genehmigungen
 
 Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem 19. November 1998 erteilt worden sind, bleiben gültig. Die §§ 10 und 14 gelten sinngemäß.
 
-
-## § 16 – Inkrafttreten, Außerkrafttreten
+# § 16 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 19. November 1998 in Kraft.
 
 (2)
 
-
-## Anlage 1 – (zu § 3 Abs. 2)Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
+# Anlage 1 – (zu § 3 Abs. 2)Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
 
 (Fundstelle: BGBl. I 1998, 2146 - 2152)
 
@@ -731,8 +711,7 @@ Zeichnung(en) und Beschreibung der Wirkungsweise in zweifacher Ausfertigung.
 
  
 
-
-## Anlage 2 Teil 1 – (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+# Anlage 2 Teil 1 – (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
@@ -909,8 +888,7 @@ Pfaffenwaldring 12
 
 70569 Stuttgart
 
-
-## Anlage 2 Teil 2 – (zu § 7 Abs. 3)  Kennbuchstaben, die nicht mehr zugeteilt werden
+# Anlage 2 Teil 2 – (zu § 7 Abs. 3)  Kennbuchstaben, die nicht mehr zugeteilt werden
 
 (Fundstelle: BGBl. I 1998, 2154)
 
@@ -921,8 +899,7 @@ Pfaffenwaldring 12
 - Einrichtungen zur Verbindung von Fahrzeugen;<br />
 Übernahme durch DEKRA e.V.</td></tr></tbody></table>
 
-
-## Anlage 3 – (zu § 7 Abs. 1)Muster für das Prüfzeichen
+# Anlage 3 – (zu § 7 Abs. 1)Muster für das Prüfzeichen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2155
 

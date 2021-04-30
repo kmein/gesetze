@@ -1,10 +1,7 @@
-# [PKHFV] Verordnung zur Verwendung eines Formulars für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe  (Prozesskostenhilfeformularverordnung - PKHFV)
-
-Ausfertigungsdatum: 06.01.2014
-
+% Verordnung zur Verwendung eines Formulars für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe  (Prozesskostenhilfeformularverordnung - PKHFV)
+% Ausfertigungsdatum: 06.01.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Es verordnen auf Grund
 
@@ -14,15 +11,13 @@ des § 117 Absatz 3 der Zivilprozessordnung, der zuletzt durch Artikel 1 Nummer 
 –  
 des § 11a Absatz 2 des Arbeitsgerichtsgesetzes, der zuletzt durch Artikel 7 Nummer 2 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533) geändert worden ist, das Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Formular
+# § 1 – Formular
 
 (1) Für die Erklärung der Partei über ihre persönlichen und wirtschaftlichen Verhältnisse nach § 117 Absatz 2 Satz 1 oder nach § 120a Absatz 1 Satz 3 der Zivilprozessordnung ist das in der Anlage bestimmte Formular zu verwenden.
 
 (2) Absatz 1 gilt nicht für die Erklärung einer Partei kraft Amtes, einer juristischen Person oder einer parteifähigen Vereinigung.
 
-
-## § 2 – Vereinfachte Erklärung
+# § 2 – Vereinfachte Erklärung
 
 (1) Ein minderjähriges unverheiratetes Kind, das in einer Abstammungssache nach § 169 des Gesetzes über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit oder in einem Verfahren über den Unterhalt seine Rechte verfolgen oder verteidigen oder das einen Unterhaltsanspruch vollstrecken will, kann die Erklärung gemäß § 117 Absatz 2 Satz 1 oder § 120a Absatz 1 Satz 3 der Zivilprozessordnung ohne Benutzung des in der Anlage bestimmten Formulars abgeben, wenn es über Einkommen und Vermögen, das nach § 115 der Zivilprozessordnung einzusetzen ist, nicht verfügt. Die Erklärung des Kindes muss in diesem Fall enthalten:
 
@@ -38,8 +33,7 @@ Die vereinfachte Erklärung im Antragsvordruck für das vereinfachte Verfahren z
 
 (2) Eine Partei, die nach dem Zwölften Buch Sozialgesetzbuch laufende Leistungen zum Lebensunterhalt bezieht, muss die Abschnitte E bis J des in der Anlage bestimmten Formulars nicht ausfüllen, wenn sie der Erklärung den zum Zeitpunkt der Antragstellung aktuellen Bewilligungsbescheid des Sozialamtes beifügt, es sei denn, das Gericht ordnet dies ausdrücklich an.
 
-
-## § 3 – Zulässige Abweichungen
+# § 3 – Zulässige Abweichungen
 
 (1) Folgende Abweichungen von dem in der Anlage bestimmten Formular und dem Hinweisblatt zu dem Formular sind zulässig:
 
@@ -51,18 +45,15 @@ Die vereinfachte Erklärung im Antragsvordruck für das vereinfachte Verfahren z
 
 (3) Wird das Hinweisblatt zu dem Formular nach Absatz 1 Nummer 2 in einer abweichenden Fassung verwendet, so ist die Bezeichnung „Allgemeine Fassung“ unten auf der ersten Seite des Hinweisblattes und des Formulars durch eine Bezeichnung des Gerichtszweiges und des Bundeslandes oder durch eine Bezeichnung der Behörde zu ersetzen, in dem oder der die abweichende Fassung des Hinweisblattes verwendet wird.
 
-
-## § 4 – Inkrafttreten, Außerkrafttreten
+# § 4 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Prozesskostenhilfevordruckverordnung vom 17. Oktober 1994 (BGBl. I S. 3001), die zuletzt durch Artikel 36 des Gesetzes vom 27. Dezember 2003 (BGBl. I S. 3022) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage
+# Anlage
 
 (Fundstelle: BGBl. I 2014, 36 - 44)
 
@@ -78,8 +69,7 @@ Wozu Prozess- oder Verfahrenskostenhilfe?
   
 
   
-Wenn Sie eine Klage erheben oder einen Antrag bei Gericht stellen wollen, müssen Sie in der Regel Gerichtskosten zahlen. Schreibt das Gesetz eine anwaltliche Vertretung vor oder ist aus anderen Gründen eine anwaltliche Vertretung notwendig, kommen die Kosten hierfür hinzu. Entsprechende Kosten entstehen Ihnen auch dann, wenn Sie sich in einem Gerichtsverfahren verteidigen.  
-  
+Wenn Sie eine Klage erheben oder einen Antrag bei Gericht stellen wollen, müssen Sie in der Regel Gerichtskosten zahlen. Schreibt das Gesetz eine anwaltliche Vertretung vor oder ist aus anderen Gründen eine anwaltliche Vertretung notwendig, kommen die Kosten hierfür hinzu. Entsprechende Kosten entstehen Ihnen auch dann, wenn Sie sich in einem Gerichtsverfahren verteidigen.   
 Die Prozess- oder Verfahrenskostenhilfe soll Ihnen die Verfolgung oder Verteidigung Ihrer Rechte ermöglichen, wenn Sie diese Kosten nicht oder nur teilweise aufbringen können. Sie kann auch dann bewilligt werden, wenn Sie zur Durchsetzung eines Anspruchs die Zwangsvollstreckung betreiben müssen.
 
 Wer erhält Prozess- oder Verfahrenskostenhilfe?  
@@ -88,8 +78,7 @@ Wer erhält Prozess- oder Verfahrenskostenhilfe?
 Dazu schreibt das Gesetz für die Prozesskostenhilfe vor:
 
   
-“Eine Partei, die nach ihren persönlichen und wirtschaftlichen Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder nur in Raten aufbringen kann, erhält auf Antrag Prozesskostenhilfe, wenn die beabsichtigte Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint.  
-  
+“Eine Partei, die nach ihren persönlichen und wirtschaftlichen Verhältnissen die Kosten der Prozessführung nicht, nur zum Teil oder nur in Raten aufbringen kann, erhält auf Antrag Prozesskostenhilfe, wenn die beabsichtigte Rechtsverfolgung oder Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet und nicht mutwillig erscheint.   
 Mutwillig ist die Rechtsverfolgung oder Rechtsverteidigung, wenn eine Partei, die keine Prozesskostenhilfe beansprucht, bei verständiger Würdigung aller Umstände von der Rechtsverfolgung oder Rechtsverteidigung absehen würde, obwohl eine hinreichende Aussicht auf Erfolg besteht.”
 
   
@@ -112,10 +101,8 @@ Was ist Prozess- oder Verfahrenskostenhilfe?
   
 
   
-Prozess- oder Verfahrenskostenhilfe ist eine staatliche Fürsorgeleistung im Bereich der Rechtspflege. Wenn Sie Prozess- oder Verfahrenskostenhilfe erhalten, müssen Sie für die Gerichtskosten und die Kosten der eigenen anwaltlichen Vertretung je nach Ihren persönlichen und wirtschaftlichen Verhältnissen keine Zahlungen oder nur Teilzahlungen leisten. Aus Ihrem Einkommen müssen Sie gegebenenfalls bis höchstens 48 Monatsraten zahlen. Die Höhe dieser Monatsraten ist gesetzlich festgelegt.  
-  
-Die Kosten Ihrer anwaltlichen Vertretung werden dann übernommen, wenn das Gericht Ihnen einen Rechtsanwalt, eine Rechtsanwältin oder eine andere beiordnungsfähige Person beiordnet. Dies muss besonders beantragt werden. Der Rechtsanwalt oder die Rechtsanwältin muss grundsätzlich in dem Bezirk des Gerichts niedergelassen sein. Andernfalls kann das Gericht dem Beiordnungsantrag nur entsprechen, wenn weitere Kosten nicht entstehen.  
-  
+Prozess- oder Verfahrenskostenhilfe ist eine staatliche Fürsorgeleistung im Bereich der Rechtspflege. Wenn Sie Prozess- oder Verfahrenskostenhilfe erhalten, müssen Sie für die Gerichtskosten und die Kosten der eigenen anwaltlichen Vertretung je nach Ihren persönlichen und wirtschaftlichen Verhältnissen keine Zahlungen oder nur Teilzahlungen leisten. Aus Ihrem Einkommen müssen Sie gegebenenfalls bis höchstens 48 Monatsraten zahlen. Die Höhe dieser Monatsraten ist gesetzlich festgelegt.   
+Die Kosten Ihrer anwaltlichen Vertretung werden dann übernommen, wenn das Gericht Ihnen einen Rechtsanwalt, eine Rechtsanwältin oder eine andere beiordnungsfähige Person beiordnet. Dies muss besonders beantragt werden. Der Rechtsanwalt oder die Rechtsanwältin muss grundsätzlich in dem Bezirk des Gerichts niedergelassen sein. Andernfalls kann das Gericht dem Beiordnungsantrag nur entsprechen, wenn weitere Kosten nicht entstehen.   
 Verbessern sich Ihre Verhältnisse wesentlich, können Sie auch nachträglich bis zum Ablauf von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens zu Zahlungen herangezogen werden. Verschlechtern sich Ihre Verhältnisse, ist auch eine Verringerung von festgesetzten Raten möglich.
 
   
@@ -125,32 +112,25 @@ Sie sind während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier 
 Welche Risiken sind zu beachten?
 
   
-Wenn Sie ein Gerichtsverfahren führen müssen, sollten Sie sich zunächst möglichst genau über die Höhe der zu erwartenden Gerichts- und Anwaltskosten informieren. Dies gilt auch bei Prozess- oder Verfahrenskostenhilfe. Sie schließt nicht jedes Kostenrisiko aus.  
-  
-Insbesondere erstreckt sie sich nicht auf die Kosten, die die Gegenseite zum Beispiel für ihre anwaltliche Vertretung aufwendet. Verlieren Sie das Gerichtsverfahren, so müssen Sie der Gegenseite diese Kosten in der Regel auch dann erstatten, wenn Ihnen Prozess- oder Verfahrenskostenhilfe bewilligt worden ist. Eine Ausnahme gilt in der Arbeitsgerichtsbarkeit: Hier muss man in der ersten Instanz die Kosten der gegnerischen Prozessvertretung auch dann nicht erstatten, wenn man unterliegt.  
-  
+Wenn Sie ein Gerichtsverfahren führen müssen, sollten Sie sich zunächst möglichst genau über die Höhe der zu erwartenden Gerichts- und Anwaltskosten informieren. Dies gilt auch bei Prozess- oder Verfahrenskostenhilfe. Sie schließt nicht jedes Kostenrisiko aus.   
+Insbesondere erstreckt sie sich nicht auf die Kosten, die die Gegenseite zum Beispiel für ihre anwaltliche Vertretung aufwendet. Verlieren Sie das Gerichtsverfahren, so müssen Sie der Gegenseite diese Kosten in der Regel auch dann erstatten, wenn Ihnen Prozess- oder Verfahrenskostenhilfe bewilligt worden ist. Eine Ausnahme gilt in der Arbeitsgerichtsbarkeit: Hier muss man in der ersten Instanz die Kosten der gegnerischen Prozessvertretung auch dann nicht erstatten, wenn man unterliegt.   
 Schon für eine anwaltliche Vertretung im Verfahren über die Prozess- oder Verfahrenskostenhilfe entstehen Kosten. Diese müssen Sie begleichen, wenn Ihrem Antrag nicht entsprochen wird. Das Gleiche gilt für bereits entstandene und noch entstehende Gerichtskosten.
 
 Wie erhält man Prozess- oder Verfahrenskostenhilfe?
 
   
-Erforderlich ist ein Antrag. In dem Antrag müssen Sie das Streitverhältnis ausführlich und vollständig darstellen. Aus dem Antrag muss sich für das Gericht die vom Gesetz geforderte “hinreichende Aussicht auf Erfolg” (siehe oben) schlüssig ergeben. Die Beweismittel sind anzugeben. Zu diesen Fragen sollten Sie sich, wenn nötig, anwaltlich beraten lassen. Lassen Sie sich dabei auch über das Beratungshilfegesetz informieren, nach dem Personen mit geringem Einkommen und Vermögen eine kostenfreie oder wesentlich verbilligte Rechtsberatung und außergerichtliche Vertretung beanspruchen können.  
-  
-Dem Antrag müssen Sie außerdem eine Erklärung über Ihre persönlichen und wirtschaftlichen Verhältnisse (Familienverhältnisse, Beruf, Vermögen, Einkommen und Lasten) sowie entsprechende Belege in Kopie beifügen. Für diese Erklärung müssen Sie das vorliegende Formular benutzen. Prozess- oder Verfahrenskostenhilfe kann grundsätzlich nur für die Zeit nach Vorlage des vollständigen Antrags einschließlich dieser Erklärung und aller notwendigen Belege bewilligt werden. Das Formular ist von jeder Antragstellerin bzw. jedem Antragsteller gesondert auszufüllen. Bei Minderjährigen sind deren persönliche und wirtschaftliche Verhältnisse sowie die der unterhaltsverpflichteten Personen auf weiteren Exemplaren des Formulars anzugeben.  
-  
+Erforderlich ist ein Antrag. In dem Antrag müssen Sie das Streitverhältnis ausführlich und vollständig darstellen. Aus dem Antrag muss sich für das Gericht die vom Gesetz geforderte “hinreichende Aussicht auf Erfolg” (siehe oben) schlüssig ergeben. Die Beweismittel sind anzugeben. Zu diesen Fragen sollten Sie sich, wenn nötig, anwaltlich beraten lassen. Lassen Sie sich dabei auch über das Beratungshilfegesetz informieren, nach dem Personen mit geringem Einkommen und Vermögen eine kostenfreie oder wesentlich verbilligte Rechtsberatung und außergerichtliche Vertretung beanspruchen können.   
+Dem Antrag müssen Sie außerdem eine Erklärung über Ihre persönlichen und wirtschaftlichen Verhältnisse (Familienverhältnisse, Beruf, Vermögen, Einkommen und Lasten) sowie entsprechende Belege in Kopie beifügen. Für diese Erklärung müssen Sie das vorliegende Formular benutzen. Prozess- oder Verfahrenskostenhilfe kann grundsätzlich nur für die Zeit nach Vorlage des vollständigen Antrags einschließlich dieser Erklärung und aller notwendigen Belege bewilligt werden. Das Formular ist von jeder Antragstellerin bzw. jedem Antragsteller gesondert auszufüllen. Bei Minderjährigen sind deren persönliche und wirtschaftliche Verhältnisse sowie die der unterhaltsverpflichteten Personen auf weiteren Exemplaren des Formulars anzugeben.   
 Das Gericht entscheidet, ob Ihnen Prozess- oder Verfahrenskostenhilfe bewilligt wird. Da die Mittel für Prozess- oder Verfahrenskostenhilfe von der Allgemeinheit durch Steuern aufgebracht werden, muss es prüfen, ob Sie einen Anspruch auf Prozess- oder Verfahrenskostenhilfe haben. Das Formular soll diese Prüfung erleichtern. Haben Sie daher bitte Verständnis dafür, dass Sie Ihre persönlichen und wirtschaftlichen Verhältnisse darlegen müssen.
 
-Lesen Sie das Formular sorgfältig durch und füllen Sie es gewissenhaft aus.  
-  
+Lesen Sie das Formular sorgfältig durch und füllen Sie es gewissenhaft aus.   
 Die Ausfüllhinweise zum Formular finden Sie im Folgenden. Wenn Sie beim Ausfüllen Schwierigkeiten haben, können Sie anwaltliche Hilfe in Anspruch nehmen oder sich an das Gericht wenden. Sollte der Raum im Formular nicht ausreichen, können Sie die Angaben auf einem Extrablatt machen. Bitte weisen Sie in dem betreffenden Feld auf das beigefügte Blatt hin.
 
 Wichtig:  
-Das Gericht kann Sie auffordern, fehlende Belege nachzureichen und Ihre Angaben an Eides statt zu versichern. Wenn Sie angeforderte Belege nicht nachreichen, kann dies dazu führen, dass Ihr Antrag auf Bewilligung von Prozess- oder Verfahrenskostenhilfe zurückgewiesen wird.  
-  
+Das Gericht kann Sie auffordern, fehlende Belege nachzureichen und Ihre Angaben an Eides statt zu versichern. Wenn Sie angeforderte Belege nicht nachreichen, kann dies dazu führen, dass Ihr Antrag auf Bewilligung von Prozess- oder Verfahrenskostenhilfe zurückgewiesen wird.   
 Wenn Sie unvollständige oder unrichtige Angaben machen, kann dies auch dazu führen, dass schon bewilligte Prozess- oder Verfahrenskostenhilfe wieder aufgehoben wird und Sie die angefallenen Kosten nachzahlen müssen. Dies droht Ihnen auch dann, wenn Sie während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens dem Gericht wesentliche Verbesserungen Ihrer wirtschaftlichen Lage oder eine Änderung Ihrer Anschrift nicht unaufgefordert und unverzüglich mitteilen. Wenn Sie bewusst unrichtige oder unvollständige Angaben machen, kann dies auch als Straftat verfolgt werden.
 
-Füllen Sie das Formular bitte in allen Teilen vollständig aus. Wenn Fragen zu verneinen sind, kreuzen Sie bitte das dafür vorgesehene Kästchen an. Bitte fügen Sie die notwendigen Belege in Kopie nach dem jeweils neuesten Stand bei, nummerieren Sie sie und tragen Sie die Nummer in dem dafür vorgesehenen Kästchen am Rand jeweils ein.  
-
+Füllen Sie das Formular bitte in allen Teilen vollständig aus. Wenn Fragen zu verneinen sind, kreuzen Sie bitte das dafür vorgesehene Kästchen an. Bitte fügen Sie die notwendigen Belege in Kopie nach dem jeweils neuesten Stand bei, nummerieren Sie sie und tragen Sie die Nummer in dem dafür vorgesehenen Kästchen am Rand jeweils ein. 
 A  
 Bitte bezeichnen Sie die Erwerbstätigkeit, aus der Sie Einnahmen (Abschnitt E des Formulars) beziehen.
 
@@ -181,22 +161,17 @@ Einnahmen aus nichtselbständiger Arbeit sind insbesondere Lohn oder Gehalt. Anz
 
 1. Lohn- oder Gehaltsabrechnungen der Arbeitsstelle für die letzten zwölf Monate vor der Antragstellung;
 
-2. falls vorhanden, der letzte Bescheid des Finanzamts über die Einkommensteuer, sonst die elektronische Lohnsteuerbescheinigung, aus der die Brutto- und Nettobezüge des Vorjahres ersichtlich sind.  
-
+2. falls vorhanden, der letzte Bescheid des Finanzamts über die Einkommensteuer, sonst die elektronische Lohnsteuerbescheinigung, aus der die Brutto- und Nettobezüge des Vorjahres ersichtlich sind. 
 <!-- -->
 
   
 Einnahmen aus selbständiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft sind mit einem aktuellen Monatsbetrag anzugeben. Das Gleiche gilt für die Eintragung der entsprechenden Betriebsausgaben als Abzüge unter Abschnitt F. Stellen Sie die Monatsbeträge bitte auf einem Extrablatt anhand eines Zwischenabschlusses mit dem sich ergebenden Reingewinn dar. Saisonale oder sonstige Schwankungen im Betriebsergebnis sind durch angemessene Zu- oder Abschläge zu berücksichtigen. In das Formular setzen Sie bitte die Monatsbeträge der Einnahmen und der Betriebsausgaben ein, die Sie daraus zeitanteilig errechnet haben. Falls das Gericht dies anfordert, müssen Sie die Betriebseinnahmen mit den entsprechenden Umsatzsteuer-
 
   
-voranmeldungen und die Betriebsausgaben mit den angefallenen Belegen nachweisen. Der letzte Jahresabschluss und der letzte Steuerbescheid, aus dem sich die erzielten Einkünfte ergeben, sind in Kopie beizufügen.  
-  
-Wenn Sie Einnahmen aus Vermietung und Verpachtung sowie aus Kapitalvermögen (z. B. Sparzinsen, Dividenden) haben, tragen Sie bitte ein Zwölftel der voraussichtlichen Jahreseinnahmen ein.  
-  
-Wenn Sie Unterhaltszahlungen für sich und Kinder beziehen, ist bei Ihrer Angabe nur der für Ihren Unterhalt bestimmte Betrag einzutragen. Die für die Kinder bestimmten Beträge geben Sie bitte in der vorletzten Spalte des Abschnitts D an. Die Frage nach dem Bezug von Unterhalt ist auch dann zu bejahen, wenn Ihnen die Leistungen nicht als Unterhaltsrente, sondern als Naturalleistung (z. B. freie Wohnung, Verpflegung, sonstige Versorgung im elterlichen Haushalt; Leistungen des Partners bzw. der Partnerin einer eheähnlichen Lebensgemeinschaft) gewährt werden. Der geschätzte Wert dieser Leistungen ist unter Abschnitt E einzutragen.  
-  
-Bezüglich der Einnahmen aus Renten, Arbeitslosengeld, Arbeitslosengeld II, Krankengeld, Elterngeld, Ausbildungsförderung oder anderen Sozialleistungen sind der letzte Bewilligungsbescheid und die Unterlagen, aus denen sich die derzeitige Höhe der Leistungen ergibt, in Kopie beizufügen.  
-  
+voranmeldungen und die Betriebsausgaben mit den angefallenen Belegen nachweisen. Der letzte Jahresabschluss und der letzte Steuerbescheid, aus dem sich die erzielten Einkünfte ergeben, sind in Kopie beizufügen.   
+Wenn Sie Einnahmen aus Vermietung und Verpachtung sowie aus Kapitalvermögen (z. B. Sparzinsen, Dividenden) haben, tragen Sie bitte ein Zwölftel der voraussichtlichen Jahreseinnahmen ein.   
+Wenn Sie Unterhaltszahlungen für sich und Kinder beziehen, ist bei Ihrer Angabe nur der für Ihren Unterhalt bestimmte Betrag einzutragen. Die für die Kinder bestimmten Beträge geben Sie bitte in der vorletzten Spalte des Abschnitts D an. Die Frage nach dem Bezug von Unterhalt ist auch dann zu bejahen, wenn Ihnen die Leistungen nicht als Unterhaltsrente, sondern als Naturalleistung (z. B. freie Wohnung, Verpflegung, sonstige Versorgung im elterlichen Haushalt; Leistungen des Partners bzw. der Partnerin einer eheähnlichen Lebensgemeinschaft) gewährt werden. Der geschätzte Wert dieser Leistungen ist unter Abschnitt E einzutragen.   
+Bezüglich der Einnahmen aus Renten, Arbeitslosengeld, Arbeitslosengeld II, Krankengeld, Elterngeld, Ausbildungsförderung oder anderen Sozialleistungen sind der letzte Bewilligungsbescheid und die Unterlagen, aus denen sich die derzeitige Höhe der Leistungen ergibt, in Kopie beizufügen.   
 Anzugeben mit ihrem Geldwert sind hier ferner alle sonstigen, in den vorhergehenden Zeilen des Formulars nicht erfassten Einnahmen, auch Naturalleistungen (z. B. Deputate, freie Verpflegung und sonstige Sachbezüge; freie Wohnung jedoch nur, wenn unter Abschnitt H Wohnkosten angegeben werden).
 
 F  
@@ -218,8 +193,7 @@ Die allgemeinen Lebenshaltungskosten (z. B. Lebensmittel, Kleidung, Telefon oder
 <!-- -->
 
 G  
-Hier sind alle Bankkonten, Grundeigentum, Kraftfahrzeuge, Bargeldbeträge, Lebensversicherungen, private Rentenversicherungen und sonstigen Vermögenswerte (auch im Ausland angelegte) anzugeben, die Ihnen, Ihrem Ehegatten/eingetragenen Lebenspartner bzw. Ihrer Ehegattin/ eingetragenen Lebenspartnerin jeweils allein oder gemeinsam gehören. Sollten eine oder mehrere Personen Miteigentümer sein, bitte den Anteil bezeichnen, der Ihnen, Ihrem Ehegatten/eingetragenen Lebenspartner oder Ihrer Ehegattin/eingetragenen Lebenspartnerin gehört. Geeignete Belege sind in Kopie beizufügen. Darüber hinaus kann das Gericht aus begründetem Anlass weitere Belege (zum Beispiel Kontoauszüge für einen längeren, zurückliegenden Zeitraum) anfordern.  
-  
+Hier sind alle Bankkonten, Grundeigentum, Kraftfahrzeuge, Bargeldbeträge, Lebensversicherungen, private Rentenversicherungen und sonstigen Vermögenswerte (auch im Ausland angelegte) anzugeben, die Ihnen, Ihrem Ehegatten/eingetragenen Lebenspartner bzw. Ihrer Ehegattin/ eingetragenen Lebenspartnerin jeweils allein oder gemeinsam gehören. Sollten eine oder mehrere Personen Miteigentümer sein, bitte den Anteil bezeichnen, der Ihnen, Ihrem Ehegatten/eingetragenen Lebenspartner oder Ihrer Ehegattin/eingetragenen Lebenspartnerin gehört. Geeignete Belege sind in Kopie beizufügen. Darüber hinaus kann das Gericht aus begründetem Anlass weitere Belege (zum Beispiel Kontoauszüge für einen längeren, zurückliegenden Zeitraum) anfordern.   
 Prozess- oder Verfahrenskostenhilfe kann Ihnen auch dann bewilligt werden, wenn zwar Vermögenswerte vorhanden sind, diese aber zur Sicherung einer angemessenen Lebensgrundlage oder einer angemessenen Vorsorge dienen. Derartige Vermögenswerte sind zum Beispiel
 
 \-  
@@ -237,25 +211,18 @@ kleinere Barbeträge oder Geldwerte (Stand Januar 2014: Beträge bis insgesamt 2
   
 Diese Vermögenswerte müssen Sie aber trotzdem angeben!  
   
-Hausrat, Kleidung und Gegenstände, die für die Berufsausbildung oder die Berufsausübung benötigt werden, müssen nur dann angegeben werden, wenn sie den Rahmen des Üblichen übersteigen oder wenn es sich um Gegenstände von höherem Wert handelt.  
-  
-Ist bebautes Grundvermögen vorhanden, geben Sie bitte auch die jeweilige Gesamtfläche an, die für Wohnzwecke bzw. einen gewerblichen Zweck genutzt wird, nicht nur die von Ihnen und Ihren Angehörigen (oben Abschnitt D) genutzte Fläche.  
-  
-Bei Grundvermögen ist der Verkehrswert (nicht Einheits- oder Brandversicherungswert) anzugeben, bei Bauspar-, Bank-, Giro-, Sparkonten und dergleichen der derzeitige Kontostand, bei Wertpapieren die Anzahl, die Wertpapierkennnummer sowie der derzeitige Kurswert und bei einer Lebensversicherung der Rückkaufswert. Entsprechende Belege (z. B. Bescheinigungen von Banken oder Versicherungen) sind in Kopie beizufügen.  
-  
-Unter “Sonstige Vermögenswerte” fallen außerdem Forderungen, in Scheidungsverfahren insbesondere auch der Anspruch aus Zugewinnausgleich.  
-  
+Hausrat, Kleidung und Gegenstände, die für die Berufsausbildung oder die Berufsausübung benötigt werden, müssen nur dann angegeben werden, wenn sie den Rahmen des Üblichen übersteigen oder wenn es sich um Gegenstände von höherem Wert handelt.   
+Ist bebautes Grundvermögen vorhanden, geben Sie bitte auch die jeweilige Gesamtfläche an, die für Wohnzwecke bzw. einen gewerblichen Zweck genutzt wird, nicht nur die von Ihnen und Ihren Angehörigen (oben Abschnitt D) genutzte Fläche.   
+Bei Grundvermögen ist der Verkehrswert (nicht Einheits- oder Brandversicherungswert) anzugeben, bei Bauspar-, Bank-, Giro-, Sparkonten und dergleichen der derzeitige Kontostand, bei Wertpapieren die Anzahl, die Wertpapierkennnummer sowie der derzeitige Kurswert und bei einer Lebensversicherung der Rückkaufswert. Entsprechende Belege (z. B. Bescheinigungen von Banken oder Versicherungen) sind in Kopie beizufügen.   
+Unter “Sonstige Vermögenswerte” fallen außerdem Forderungen, in Scheidungsverfahren insbesondere auch der Anspruch aus Zugewinnausgleich.   
 Sollte der Einsatz oder die Verwertung eines Vermögensgegenstandes für Sie und Ihre Familie eine besondere Härte bedeuten, erläutern Sie dies bitte auf einem Extrablatt.
 
 <!-- -->
 
 H  
-Wenn Wohnkosten geltend gemacht werden, geben Sie bitte die Wohnfläche, die Zahl der Zimmer und die Gesamtzahl der Personen, die den Wohnraum bewohnen, an. Die Kosten bitte wie im Formular vorgesehen aufschlüsseln.  
-  
-Mietnebenkosten sind – außer den gesondert anzugebenden Heizungskosten – die auf die Mieter umgelegten Betriebskosten (z. B. Grundsteuer, Wasserversorgung, Entwässerung, Straßenreinigung, Müllbeseitigung, Schornsteinfeger, Aufzug, Allgemeinstrom, Hausreinigung, Gemeinschaftsantenne usw.). Nicht hierzu gehören jedoch Gas- oder Stromkosten für die eigene Wohnung (soweit es sich nicht um Heizkosten handelt), Telefon oder GEZ.  
-  
-Zu der Belastung aus Fremdmitteln bei Wohneigentum gehören insbesondere die Raten für Darlehen, die für den Bau, den Kauf oder die Erhaltung aufgenommen worden sind. Nebenkosten sind auch hier außer den gesondert anzugebenden Heizungskosten die Betriebskosten.  
-  
+Wenn Wohnkosten geltend gemacht werden, geben Sie bitte die Wohnfläche, die Zahl der Zimmer und die Gesamtzahl der Personen, die den Wohnraum bewohnen, an. Die Kosten bitte wie im Formular vorgesehen aufschlüsseln.   
+Mietnebenkosten sind – außer den gesondert anzugebenden Heizungskosten – die auf die Mieter umgelegten Betriebskosten (z. B. Grundsteuer, Wasserversorgung, Entwässerung, Straßenreinigung, Müllbeseitigung, Schornsteinfeger, Aufzug, Allgemeinstrom, Hausreinigung, Gemeinschaftsantenne usw.). Nicht hierzu gehören jedoch Gas- oder Stromkosten für die eigene Wohnung (soweit es sich nicht um Heizkosten handelt), Telefon oder GEZ.   
+Zu der Belastung aus Fremdmitteln bei Wohneigentum gehören insbesondere die Raten für Darlehen, die für den Bau, den Kauf oder die Erhaltung aufgenommen worden sind. Nebenkosten sind auch hier außer den gesondert anzugebenden Heizungskosten die Betriebskosten.   
 Sollten Sie sich den Wohnraum mit einer anderen Person als einem unterhaltsberechtigten Angehörigen (oben Abschnitt D) teilen, tragen Sie bitte nur die auf Sie entfallenden anteiligen Beträge ein. Die notwendigen Belege (z. B. Mietvertrag, Darlehensurkunden, Nebenkostenabrechnung) müssen in Kopie beigefügt werden.
 
 <!-- -->

@@ -1,20 +1,15 @@
-# [DSPV] Verordnung zur Berechnung der durchschnittlichen Strompreise für die Besondere Ausgleichsregelung nach dem Erneuerbare-Energien-Gesetz  (Besondere-Ausgleichsregelung-Durchschnittsstrompreis-Verordnung - DSPV)
-
-Ausfertigungsdatum: 17.02.2016
-
+% Verordnung zur Berechnung der durchschnittlichen Strompreise für die Besondere Ausgleichsregelung nach dem Erneuerbare-Energien-Gesetz  (Besondere-Ausgleichsregelung-Durchschnittsstrompreis-Verordnung - DSPV)
+% Ausfertigungsdatum: 17.02.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 94 Nummer 2 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) verordnet das Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Ausschließlich zu dem Zweck, die maßgeblichen Stromkosten im Rahmen der Stromkostenintensität nach § 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes zu berechnen, regelt die Verordnung insbesondere, wie die durchschnittlichen Strompreise von stromkostenintensiven Unternehmen mit ähnlichen Stromverbräuchen berechnet und angewandt werden.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinn dieser Verordnung ist oder sind
 
@@ -40,8 +35,7 @@ Im Sinn dieser Verordnung ist oder sind
 
 11. "Vollbenutzungsstunden" das mittels entnommener elektrischer Arbeit mengengewichtete arithmetische Mittel der Benutzungsdauern aller Antragsabnahmestellen eines antragstellenden Unternehmens im Nachweiszeitraum; die Benutzungsdauer einer Abnahmestelle ist der Quotient aus jeweils an dieser Abnahmestelle im Nachweiszeitraum entnommener elektrischer Arbeit und der in diesem Zeitraum höchsten Last der Entnahme; beträgt der Nachweiszeitraum weniger als ein Jahr, wird die entnommene elektrische Arbeit linear auf ein Jahr hochgerechnet.
 
-
-## § 3 – Berechnungsmethode für durchschnittliche Strompreise
+# § 3 – Berechnungsmethode für durchschnittliche Strompreise
 
 (1) Die Berechnung der durchschnittlichen Strompreise von stromkostenintensiven Unternehmen mit ähnlichen Stromverbräuchen, anhand derer die maßgeblichen Stromkosten im Rahmen der Stromkostenintensität nach § 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes berechnet werden, erfolgt auf Grundlage der Angaben aller antragstellenden Unternehmen zu:
 
@@ -67,8 +61,7 @@ b) sieben weitere zueinander gleich große Untergruppen von antragstellenden Unt
 
 (4) Für alle Untergruppen nach Absatz 3 wird aus den unternehmensspezifischen Strompreisen nach Absatz 2 der antragstellenden Unternehmen, die in die Untergruppe entfallen, zuzüglich der vollen EEG-Umlage nach § 60 des Erneuerbare-Energien-Gesetzes, der vollen KWKG-Umlage nach § 26 des Kraft-Wärme-Kopplungsgesetzes und der vollen Offshore-Netzumlage nach § 17f Absatz 5 des Energiewirtschaftsgesetzes für das dem Antragsjahr vorangegangene Kalenderjahr ein durchschnittlicher Strompreis in Cent pro Kilowattstunde berechnet. Die Berechnung nach Satz 1 erfolgt auf Grundlage der Daten, die einen Monat vor Veröffentlichung vorliegen und nicht nach Absatz 1 Satz 4 unberücksichtigt geblieben sind.
 
-
-## § 4 – Anwendung der Berechnungsmethode; Bekanntmachung der Ergebnisse
+# § 4 – Anwendung der Berechnungsmethode; Bekanntmachung der Ergebnisse
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle berechnet jährlich anhand der Berechnungsmethode nach § 3 auf Grundlage der Angaben aus den Antragsverfahren des vorangegangenen Kalenderjahres die durchschnittlichen Strompreise, die in den Antragsverfahren auf Begrenzung der EEG-Umlage für das auf die Berechnung folgende Kalenderjahr bei der Ermittlung der Stromkostenintensität eines antragstellenden Unternehmens zugrunde gelegt werden.
 
@@ -76,15 +69,13 @@ b) sieben weitere zueinander gleich große Untergruppen von antragstellenden Unt
 
 (3) Angaben, die im Antragsjahr 2015 von antragstellenden Unternehmen gemacht wurden und die nicht nach § 64 Absatz 3 Nummer 1 Buchstabe c des Erneuerbare-Energien-Gesetzes von einem Wirtschaftsprüfer, einer Wirtschaftsprüfungsgesellschaft, einem vereidigten Buchprüfer oder einer Buchprüfungsgesellschaft zu bescheinigen waren, können für die Berechnung der durchschnittlichen Strompreise bis zum 29. Februar 2016 vom Bundesamt für Wirtschaft und Ausfuhrkontrolle herangezogen werden.
 
-
-## § 5 – Zugrundelegung der durchschnittlichen Strompreise im Antragsverfahren
+# § 5 – Zugrundelegung der durchschnittlichen Strompreise im Antragsverfahren
 
 (1) In einem Antragsverfahren auf Begrenzung der EEG-Umlage wird für ein antragstellendes Unternehmen bei der Berechnung seiner Stromkostenintensität nach § 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes derjenige durchschnittliche Strompreis zugrunde gelegt, der für die Untergruppe nach § 3 Absatz 4 errechnet wurde, in deren Bandbreite sich sowohl die Strombezugsmengen zuzüglich der Mengen, die nach § 61 des Erneuerbare-Energien-Gesetzes umlagepflichtig sind, als auch die Vollbenutzungsstunden des antragstellenden Unternehmens bewegen. Kann ein antragstellendes Unternehmen die Angaben nach § 3 Absatz 1 Satz 1 Nummer 3 für eine Antragsabnahmestelle nicht nach § 6 Absatz 1 Nummer 2 nachweisen, wird für diese Antragsabnahmestelle eine Benutzungsdauer von 8 760 Stunden angenommen. Stellt ein Unternehmen einen Antrag nach § 63 in Verbindung mit § 64 Absatz 5a des Erneuerbare-Energien-Gesetzes auf Begrenzung der EEG-Umlage, wird abweichend von Satz 1 bei der Berechnung seiner Stromkostenintensität derjenige durchschnittliche Strompreis zugrunde gelegt, der für die Untergruppe nach § 3 Absatz 4 der Verordnung errechnet wurde, in deren Bandbreite sich sowohl die Strombezugsmengen zuzüglich der Mengen, die das Unternehmen selbst erzeugt und selbst verbraucht, als auch die Vollbenutzungsstunden des antragstellenden Unternehmens bewegen.
 
 (2) Die maßgeblichen Stromkosten eines antragstellenden Unternehmens werden nach § 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes errechnet, indem der durchschnittliche Strompreis, der nach Absatz 1 für das antragstellende Unternehmen maßgeblich ist, mit dem arithmetischen Mittel des Stromverbrauchs des antragstellenden Unternehmens in den letzten drei abgeschlossenen Geschäftsjahren multipliziert wird. Für die Begrenzungsjahre 2022 bis 2024 ist bei der Berechnung nach Satz 1 § 103 Absatz 1 in Verbindung mit § 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes anzuwenden. Als Stromverbrauch nach Satz 1 werden selbst verbrauchte Strommengen des antragstellenden Unternehmens berücksichtigt, die von einem Elektrizitätsversorgungsunternehmen oder einem anderen Dritten geliefert wurden oder die nach § 61 des Erneuerbare-Energien-Gesetzes umlagepflichtig sind. Abweichend von Satz 3 werden als Stromverbrauch nach Satz 1 in den Fällen einer Antragstellung nach § 63 in Verbindung mit § 64 Absatz 5a des Erneuerbare-Energien-Gesetzes selbst verbrauchte Strommengen des antragstellenden Unternehmens berücksichtigt, die von einem Elektrizitätsversorgungsunternehmen oder einem anderen Dritten geliefert oder die von dem antragstellenden Unternehmen selbst erzeugt wurden.
 
-
-## § 6 – Nachweispflichten
+# § 6 – Nachweispflichten
 
 (1) Angaben der antragstellenden Unternehmen müssen ab dem Antragsjahr 2016 bei der Antragstellung nach § 66 Absatz 1 und Absatz 3 in Verbindung mit § 64a Absatz 2 Nummer 2 des Erneuerbare-Energien-Gesetzes beim Bundesamt für Wirtschaft und Ausfuhrkontrolle wie folgt nachgewiesen werden:
 
@@ -112,7 +103,6 @@ Die Nachweise nach Satz 1 Nummer 1, 2 und 3 Buchstabe a sind auf Verlangen des B
 
 5. Angaben zu den in den letzten drei abgeschlossenen Geschäftsjahren jeweils von einem Elektrizitätsversorgungsunternehmen oder einem anderen Dritten gelieferten oder von dem antragstellenden Unternehmen selbst erzeugten und selbst verbrauchten sowie weitergeleiteten Strommengen einschließlich der Angabe, für welche selbst erzeugten und selbst verbrauchten Strommengen des antragstellenden Unternehmens nach § 61 des Erneuerbare-Energien-Gesetzes die EEG-Umlage entrichtet wurde.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

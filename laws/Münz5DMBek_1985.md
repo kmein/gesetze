@@ -1,10 +1,7 @@
-# [Münz5DMBek 1985] Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Europäisches Jahr der Musik 1985)
-
-Ausfertigungsdatum: 26.03.1985
-
+% Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Europäisches Jahr der Musik 1985)
+% Ausfertigungsdatum: 26.03.1985
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1, veröffentlichten bereinigten Fassung wird aus Anlaß des Europäischen Jahres der Musik 1985 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt. Die Auflage der Münze beträgt 8,35 Millionen Stück. Die Prägung erfolgt in der Staatlichen Münze Stuttgart.
 
@@ -30,8 +27,7 @@ angebracht.
 
 (8) Der Entwurf der Münze stammt von Herwig Otto, Rodenbach.
 
-(9) Dies wird namens der Bundesregierung bekanntgemacht.  
-  
+(9) Dies wird namens der Bundesregierung bekanntgemacht.   
 Der Bundesminister der Finanzen  
   
 Abbildung der Münze  

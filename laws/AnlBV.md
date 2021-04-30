@@ -1,10 +1,7 @@
-# [AnlBV] Verordnung über das Anlaufen der inneren Gewässer der Bundesrepublik Deutschland aus Seegebieten seewärts der Grenze des deutschen Küstenmeeres und das Auslaufen  (Anlaufbedingungsverordnung - AnlBV)
-
-Ausfertigungsdatum: 18.02.2004
-
+% Verordnung über das Anlaufen der inneren Gewässer der Bundesrepublik Deutschland aus Seegebieten seewärts der Grenze des deutschen Küstenmeeres und das Auslaufen  (Anlaufbedingungsverordnung - AnlBV)
+% Ausfertigungsdatum: 18.02.2004
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Schiffe, die aus Seegebieten seewärts der Grenze des deutschen Küstenmeeres kommend die inneren Gewässer der Bundesrepublik Deutschland anlaufen, aus diesen auslaufen oder in diesen verkehren, haben zur Verhütung, Entdeckung, Überwachung und Verringerung von Verschmutzungen der Meeresumwelt durch Schiffe sowie zur Erhöhung der Sicherheit und Leichtigkeit des Seeverkehrs und zur Verhütung von Unfällen die in der Anlage genannten Bedingungen für das An- und Auslaufen einzuhalten.
 
@@ -24,15 +21,13 @@ Ausfertigungsdatum: 18.02.2004
 
 (4) Diese Verordnung gilt ferner nicht für Bunker auf Schiffen unter 1 000 BRZ, Bordvorräte und Schiffsausrüstung.
 
-
-## § 2 – Folgen von Verstößen
+# § 2 – Folgen von Verstößen
 
 (1) Ein Schiff, dessen Schiffsführer, Betreiber oder Agent die in der Anlage festgelegten Bedingungen für das An- und Auslaufen nicht erfüllt hat, wird von der jeweils zuständigen Verkehrszentrale zunächst auf diesen Umstand hingewiesen. Werden die vorgeschriebenen Meldungen dennoch nicht abgegeben, können die zuständigen Behörden diesen Umstand als hinreichenden Verdacht eines Verstoßes gegen die anwendbaren Schiffssicherheitsvorschriften ansehen und eine Kontrolle des Schiffes im Bereich der deutschen Hoheitsbefugnisse durchführen.
 
 (2) Jedes Schiff, dessen Betreiber, Agent oder Schiffsführer gegen die Meldepflicht nach Nummer 2.1.2 oder 2.2.2 der Anlage verstößt, wird im deutschen Bestimmungshafen einer erweiterten Überprüfung im Sinne des Artikels 14 der Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über die Hafenstaatkontrolle (Neufassung) (ABl. L 131 vom 28.5.2009, S. 57) in der jeweils geltenden Fassung unterzogen.
 
-
-## § 3 – Ordnungswidrigkeiten
+# § 3 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 15 Abs. 1 Nr. 2 des Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 1 Abs. 1 in Verbindung mit den Nummern 2.1.1, 2.1.2, 2.2.1 oder 2.2.2 der Anlage eine Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
@@ -40,8 +35,7 @@ Ausfertigungsdatum: 18.02.2004
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
-
-## Anlage – (zu § 1 Abs. 1)
+# Anlage – (zu § 1 Abs. 1)
 
 (Fundstelle: BGBl. I 2004, 301 – 305;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -405,8 +399,7 @@ Die in den jeweiligen Lotsverordnungen vorgesehenen Interpolationsmöglichkeiten
 9  
 (weggefallen)
 
-
-## Anhang – (zu § 1 Abs. 1 Nr. 1.17)
+# Anhang – (zu § 1 Abs. 1 Nr. 1.17)
 
 (Inhalt: Nicht darstellbare topographische Karte,  
 Fundstelle: BGBl. I 2005, 2297)

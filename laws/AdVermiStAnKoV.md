@@ -1,15 +1,11 @@
-# [AdVermiStAnKoV] Verordnung über die Anerkennung von Adoptionsvermittlungsstellen in freier Trägerschaft sowie die im Adoptionsvermittlungsverfahren zu erstattenden Kosten  (Adoptionsvermittlungsstellenanerkennungs- und Kostenverordnung - AdVermiStAnKoV)
-
-Ausfertigungsdatum: 04.05.2005
-
+% Verordnung über die Anerkennung von Adoptionsvermittlungsstellen in freier Trägerschaft sowie die im Adoptionsvermittlungsverfahren zu erstattenden Kosten  (Adoptionsvermittlungsstellenanerkennungs- und Kostenverordnung - AdVermiStAnKoV)
+% Ausfertigungsdatum: 04.05.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 4 und Abs. 2 des Adoptionsvermittlungsgesetzes in der Fassung der Bekanntmachung vom 22. Dezember 2001 (BGBl. 2002 I S. 354) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 
-
-## § 1 – Anerkennung als Adoptionsvermittlungsstelle
+# § 1 – Anerkennung als Adoptionsvermittlungsstelle
 
 (1) Der Antrag auf Anerkennung als Adoptionsvermittlungsstelle nach § 2 Absatz 3 des Adoptionsvermittlungsgesetzes muss insbesondere enthalten:
 
@@ -35,8 +31,7 @@ Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 4 und Abs. 2 des Adoptionsvermittlun
 
 (3) Verlegt die Adoptionsvermittlungsstelle in freier Trägerschaft ihren Sitz in den Zuständigkeitsbereich einer anderen zentralen Adoptionsstelle eines Landesjugendamtes, so bedarf sie der erneuten Anerkennung durch die nunmehr zuständige zentrale Adoptionsstelle des Landesjugendamtes. Sofern binnen eines Monats nach der Sitzverlegung ein Antrag auf erneute Anerkennung gestellt worden ist, gilt die bisherige Anerkennung bis zur Entscheidung über den Antrag auf erneute Anerkennung fort. Bis zur Entscheidung nach Satz 2 bleibt die bisher zuständige zentrale Adoptionsstelle für Entscheidungen nach § 4 Abs. 3 Satz 1 und 2 des Adoptionsvermittlungsgesetzes zuständig.
 
-
-## § 2 – Zulassung als anerkannte Auslandsvermittlungsstelle
+# § 2 – Zulassung als anerkannte Auslandsvermittlungsstelle
 
 (1) Der Antrag auf Zulassung als anerkannte Auslandsvermittlungsstelle nach § 2a Absatz 4 Nummer 2 des Adoptionsvermittlungsgesetzes muss zusätzlich zu den nach § 1 Absatz 1 geforderten Angaben insbesondere enthalten:
 
@@ -62,8 +57,7 @@ Auf Grund des § 9c Abs. 1 Satz 1 und 2 Nr. 4 und Abs. 2 des Adoptionsvermittlun
 
 (4) Können aufgrund des Verfahrensstandes die Unterlagen nach Absatz 1 Nummer 3 bis 5 noch nicht vorgelegt werden, kann die Anerkennung als Auslandsvermittlungsstelle auf ein Jahr befristet mit der Auflage erteilt werden, innerhalb dieser Zeit die fehlenden Unterlagen nachzureichen. Die Frist kann in begründeten Ausnahmefällen verlängert werden.
 
-
-## § 3 – Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes
+# § 3 – Unterrichtung der zentralen Adoptionsstelle des Landesjugendamtes
 
 Die Adoptionsvermittlungsstelle in freier Trägerschaft hat der zentralen Adoptionsstelle des Landesjugendamtes, die die Anerkennung oder die Zulassung erteilt hat, wesentliche Änderungen gegenüber den Angaben nach § 1 Abs. 1 und § 2 Abs. 1 unverzüglich mitzuteilen. Dies sind insbesondere:
 
@@ -87,8 +81,7 @@ Die Adoptionsvermittlungsstelle in freier Trägerschaft hat der zentralen Adopti
 
 10. Auflösung der Adoptionsvermittlungsstelle in freier Trägerschaft.
 
-
-## § 4 – Bericht an die zentrale Adoptionsstelle des Landesjugendamtes
+# § 4 – Bericht an die zentrale Adoptionsstelle des Landesjugendamtes
 
 (1) Die Adoptionsvermittlungsstelle in freier Trägerschaft hat der zentralen Adoptionsstelle des Landesjugendamtes, die die Anerkennung oder Zulassung erteilt hat, nach Ablauf eines jeden Kalenderjahres bis spätestens 31. März des folgenden Jahres einen ausführlichen Bericht vorzulegen, der insbesondere folgende Angaben enthalten muss:
 
@@ -112,8 +105,7 @@ Die Adoptionsvermittlungsstelle in freier Trägerschaft hat der zentralen Adopti
 
 (2) Die zentrale Adoptionsstelle des Landesjugendamtes kann die Frist nach Absatz 1 in begründeten Fällen verlängern.
 
-
-## § 5 – Gebühren
+# § 5 – Gebühren
 
 Führen staatliche Adoptionsvermittlungsstellen das Adoptionsvermittlungsverfahren durch, sind folgende Gebühren zu erheben:
 
@@ -121,8 +113,7 @@ Führen staatliche Adoptionsvermittlungsstellen das Adoptionsvermittlungsverfahr
 
 2. für die Durchführung eines internationalen Adoptionsvermittlungsverfahrens einschließlich einer länderspezifischen Eignungsprüfung nach § 7c Absatz 1 des Adoptionsvermittlungsgesetzes 1 200 Euro.
 
-
-## § 6 – Erstattung von Auslagen
+# § 6 – Erstattung von Auslagen
 
 Bei internationalen Adoptionsvermittlungsverfahren erhebt die staatliche Adoptionsvermittlungsstelle folgende Auslagen:
 
@@ -132,12 +123,10 @@ Bei internationalen Adoptionsvermittlungsverfahren erhebt die staatliche Adoptio
 
 3. Vergütung von Sachverständigen.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

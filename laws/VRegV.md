@@ -1,15 +1,11 @@
-# [VRegV] Verordnung über das Zentrale Vorsorgeregister  (Vorsorgeregister-Verordnung - VRegV)
-
-Ausfertigungsdatum: 21.02.2005
-
+% Verordnung über das Zentrale Vorsorgeregister  (Vorsorgeregister-Verordnung - VRegV)
+% Ausfertigungsdatum: 21.02.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 78a Abs. 3 der Bundesnotarordnung, der durch Artikel 2b des Gesetzes vom 23. April 2004 (BGBl. I S. 598) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Inhalt des Zentralen Vorsorgeregisters
+# § 1 – Inhalt des Zentralen Vorsorgeregisters
 
 (1) Die Bundesnotarkammer stellt die Eintragung folgender personenbezogener Daten im Zentralen Vorsorgeregister sicher:
 
@@ -69,8 +65,7 @@ c) hinsichtlich Art und Umfang medizinischer Versorgung.
 
 (3) Die Eintragung erfolgt unter Angabe ihres Datums.
 
-
-## § 2 – Eintragungsantrag
+# § 2 – Eintragungsantrag
 
 (1) Die Eintragung erfolgt auf schriftlichen Antrag des Vollmachtgebers. Der Antrag hat mindestens die Angaben nach § 1 Abs. 1 Nr. 1 Buchstabe a, c bis g zu enthalten. Sollen auch Angaben über den Bevollmächtigten eingetragen werden, muss der Antrag zudem mindestens die Angaben nach § 1 Abs. 1 Nr. 2 Buchstabe a, c und e enthalten. Die Angaben nach § 1 Abs. 3 werden unabhängig von dem Antrag eingetragen.
 
@@ -78,20 +73,17 @@ c) hinsichtlich Art und Umfang medizinischer Versorgung.
 
 (3) In Zweifelsfällen hat die Bundesnotarkammer sich von der Identität des Antragstellers zu überzeugen. Im Übrigen prüft sie die Richtigkeit der mit dem Antrag übermittelten Angaben nicht.
 
-
-## § 3 – Vorschuss, Antragsrücknahme bei Nichtzahlung
+# § 3 – Vorschuss, Antragsrücknahme bei Nichtzahlung
 
 (1) Die Bundesnotarkammer kann die Zahlung eines zur Deckung der Gebühren hinreichenden Vorschusses verlangen. Sie kann die Vornahme der Eintragung von der Zahlung oder Sicherstellung des Vorschusses abhängig machen.
 
 (2) Wird ein verlangter Vorschuss innerhalb angemessener Frist nicht gezahlt, gilt der Antrag als zurückgenommen. Die Frist sowie die Rechtsfolge der Fristversäumnis sind mit dem Verlangen des Vorschusses mitzuteilen. Die Frist darf 30 Tage nicht unterschreiten.
 
-
-## § 4 – Benachrichtigung des Bevollmächtigten
+# § 4 – Benachrichtigung des Bevollmächtigten
 
 Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen Bevollmächtigten, der nicht schriftlich in die Speicherung der Daten zu seiner Person eingewilligt hat, schriftlich über die nach § 1 Abs. 1 Nr. 1 Buchstabe a, c, g und Nr. 2 bis 6 gespeicherten Daten zu unterrichten. Artikel 14 der Verordnung (EU) 2016/679 bleibt unberührt.
 
-
-## § 5 – Änderung, Ergänzung und Löschung von Eintragungen
+# § 5 – Änderung, Ergänzung und Löschung von Eintragungen
 
 (1) Änderungen, Ergänzungen und Löschungen von Eintragungen erfolgen auf schriftlichen Antrag des Vollmachtgebers. § 2 Abs. 2, 3 und § 3 gelten entsprechend.
 
@@ -101,8 +93,7 @@ Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen Bevollmächt
 
 (4) Eintragungen sind 110 Jahre nach der Geburt des Vollmachtgebers zu löschen.
 
-
-## § 6 – Auskunft an die Betreuungsgerichte und die Landgerichte als Beschwerdegerichte
+# § 6 – Auskunft an die Betreuungsgerichte und die Landgerichte als Beschwerdegerichte
 
 (1) Die Auskunft aus dem Register erfolgt im Wege eines automatisierten Abrufverfahrens, sofern die Bundesnotarkammer zuvor mit der jeweiligen Landesjustizverwaltung schriftlich Festlegungen zu den technischen und organisatorischen Maßnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 getroffen hat. § 2 Abs. 2 Satz 2 gilt entsprechend.
 
@@ -110,8 +101,7 @@ Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen Bevollmächt
 
 (3) In den Fällen des Absatzes 2 erteilt die Bundesnotarkammer die Auskunft aus dem Register schriftlich oder elektronisch. Hierbei sind die erforderlichen Maßnahmen zu treffen, um die Authentizität des Ersuchens zu prüfen und die Vertraulichkeit der Auskunft zu gewährleisten.
 
-
-## § 7 – Protokollierung der Auskunftserteilungen
+# § 7 – Protokollierung der Auskunftserteilungen
 
 (1) Die Zulässigkeit der Auskunftsersuchen prüft die Bundesnotarkammer nur, wenn sie dazu nach den Umständen des Einzelfalls Anlass hat. Für die Kontrolle der Zulässigkeit der Ersuchen und für die Sicherstellung der ordnungsgemäßen Datenverarbeitung protokolliert die Bundesnotarkammer alle nach § 6 erteilten Auskünfte elektronisch. Zu protokollieren sind die Daten zur Person des Vollmachtgebers, das ersuchende Betreuungsgericht oder das Landgericht als Beschwerdegericht, dessen Geschäftszeichen, der Zeitpunkt des Ersuchens sowie die übermittelten Daten.
 
@@ -119,17 +109,14 @@ Nach Eingang des Eintragungsantrags hat die Bundesnotarkammer einen Bevollmächt
 
 (3) Die Protokolle werden nach Ablauf des auf ihre Erstellung folgenden Kalenderjahres gelöscht. Das Bundesministerium der Justiz und für Verbraucherschutz löscht Protokolle, die ihm nach Absatz 1 Satz 4 zur Verfügung gestellt worden sind, ein Jahr nach ihrem Eingang, sofern sie nicht für weitere, bereits eingeleitete Prüfungen benötigt werden.
 
-
-## § 8 – Aufbewahrung von Dokumenten
+# § 8 – Aufbewahrung von Dokumenten
 
 Die ein einzelnes Eintragungs- oder Auskunftsverfahren betreffenden Dokumente hat die Bundesnotarkammer fünf Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Schluss des Kalenderjahres, in dem die letzte Verfügung zur Sache ergangen ist oder die Angelegenheit ihre Erledigung gefunden hat. Nach Ablauf der Aufbewahrungsfrist sind die Dokumente zu vernichten.
 
-
-## § 9 – Betreuungsverfügungen
+# § 9 – Betreuungsverfügungen
 
 Im Zentralen Vorsorgeregister können auch Betreuungsverfügungen unabhängig von der Eintragung einer Vollmacht registriert werden. Die §§ 1 bis 8 gelten entsprechend.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

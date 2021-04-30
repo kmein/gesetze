@@ -1,15 +1,11 @@
-# [NotSan-APrV] Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter  (NotSan-APrV)
-
-Ausfertigungsdatum: 16.12.2013
-
+% Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter  (NotSan-APrV)
+% Ausfertigungsdatum: 16.12.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 11 des Notfallsanitätergesetzes vom 22. Mai 2013 (BGBl. I S. 1348) verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Gliederung der Ausbildung, Gliederung der Ergänzungsausbildung
+# § 1 – Gliederung der Ausbildung, Gliederung der Ergänzungsausbildung
 
 (1) Die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter nach § 5 Absatz 1 Satz 2 des Notfallsanitätergesetzes umfasst mindestens
 
@@ -39,15 +35,13 @@ Die Ausbildung nach Satz 1 besteht zu zwei Dritteln der nach § 32 Absatz 2 Satz
 
 (4) Die regelmäßige und erfolgreiche Teilnahme an den Ausbildungsveranstaltungen nach Absatz 1 oder Absatz 3 ist durch eine Bescheinigung nach dem Muster der Anlage 5 nachzuweisen.
 
-
-## § 2 – Theoretischer und praktischer Unterricht, praktische Ausbildung
+# § 2 – Theoretischer und praktischer Unterricht, praktische Ausbildung
 
 (1) Durch den Unterricht nach § 1 Absatz 1 Nummer 1 werden die Schülerinnen und Schüler befähigt, auf der Grundlage fachlichen Wissens und Könnens sowie auf der Grundlage des allgemein anerkannten Standes rettungsdienstlicher, medizinischer und weiterer bezugswissenschaftlicher Erkenntnisse die anfallenden Aufgaben zielorientiert, sachgerecht, methodengeleitet und selbständig zu lösen sowie das Ergebnis zu beurteilen. Während des Unterrichts ist die Entwicklung der zur Ausübung des Berufs erforderlichen Personal-, Sozial- und Selbstkompetenz zu fördern. Daneben muss den Schülerinnen und Schülern ausreichend Möglichkeit gegeben werden, die zur Erreichung des Ausbildungsziels nach § 4 des Notfallsanitätergesetzes erforderlichen Fertigkeiten zu entwickeln und einzuüben.
 
 (2) Durch die praktische Ausbildung nach § 1 Absatz 1 Nummer 2 und 3 werden die Schülerinnen und Schüler befähigt, die im Unterricht nach Absatz 1 erworbenen Kenntnisse zu vertiefen und zu lernen, diese Kenntnisse bei der späteren beruflichen Tätigkeit anzuwenden, um die zur Erreichung des Ausbildungsziels nach § 4 des Notfallsanitätergesetzes erforderliche Handlungskompetenz zu entwickeln.
 
-
-## § 3 – Praxisanleitung; Praxisbegleitung
+# § 3 – Praxisanleitung; Praxisbegleitung
 
 (1) Die Einrichtungen der praktischen Ausbildung stellen die Praxisanleitung der Schülerinnen und Schüler nach § 5 Absatz 3 Satz 3 des Notfallsanitätergesetzes durch geeignete Fachkräfte gemäß Satz 2 sicher. Zur Praxisanleitung geeignet sind Personen, die
 
@@ -73,8 +67,7 @@ Die Voraussetzungen von Satz 2 Nummer 1 Buchstabe c gelten als erfüllt, wenn al
 
 2. die praxisanleitenden Personen zu beraten sowie sie bei der Erfüllung ihrer Aufgaben nach Absatz 2 Satz 1 und 2 zu unterstützen.
 
-
-## § 4 – Staatliche Prüfung, staatliche Ergänzungsprüfung
+# § 4 – Staatliche Prüfung, staatliche Ergänzungsprüfung
 
 (1) Die staatliche Prüfung für die Ausbildung nach § 1 Absatz 1 umfasst jeweils einen schriftlichen, einen mündlichen und einen praktischen Teil.
 
@@ -84,8 +77,7 @@ Die Voraussetzungen von Satz 2 Nummer 1 Buchstabe c gelten als erfüllt, wenn al
 
 (4) Die staatliche Ergänzungsprüfung nach § 32 Absatz 2 Satz 1 des Notfallsanitätergesetzes findet an der Schule statt, an der der Prüfling an der weiteren Ausbildung teilgenommen hat. Hat der Prüfling an keiner weiteren Ausbildung teilgenommen, bestimmt die zuständige Behörde die Schule, an der er die staatliche Ergänzungsprüfung ablegt. Die zuständige Behörde kann festlegen, dass die staatliche Ergänzungsprüfung nur durchgeführt wird, wenn daran mindestens 15 Prüflinge teilnehmen.
 
-
-## § 5 – Prüfungsausschuss
+# § 5 – Prüfungsausschuss
 
 (1) Bei jeder Schule wird ein Prüfungsausschuss gebildet, der mindestens aus folgenden Mitgliedern besteht:
 
@@ -109,8 +101,7 @@ Für die staatliche Ergänzungsprüfung gilt Satz 1 entsprechend.
 
 (4) Die zuständige Behörde kann Sachverständige sowie Beobachterinnen und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 6 – Zulassung zur Prüfung
+# § 6 – Zulassung zur Prüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleiterin oder dem Schulleiter fest. Der Prüfungsbeginn der staatlichen Prüfung soll nicht früher als drei Monate vor dem Ende der Ausbildung liegen; im Falle der staatlichen Ergänzungsprüfung darf die Prüfung erst nach dem vollständigen Abschluss der weiteren Ausbildung durchgeführt werden. Satz 2 zweiter Halbsatz gilt nicht, wenn der Prüfling keine weitere Ausbildung abgeleistet hat.
 
@@ -126,8 +117,7 @@ Satz 1 Nummer 2 gilt nicht für Personen, die auf Grund des § 32 Absatz 2 Satz 
 
 (3) Die Zulassung zur staatlichen Prüfung sowie die Prüfungstermine sollen dem Prüfling spätestens zwei Wochen, im Falle der staatlichen Ergänzungsprüfung spätestens vier Wochen, vor Prüfungsbeginn schriftlich mitgeteilt werden.
 
-
-## § 6a – Nachteilsausgleich
+# § 6a – Nachteilsausgleich
 
 (1) Die besonderen Belange von zu prüfenden Personen mit Behinderung oder Beeinträchtigung sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
@@ -141,13 +131,11 @@ Satz 1 Nummer 2 gilt nicht für Personen, die auf Grund des § 32 Absatz 2 Satz 
 
 (6) Die Entscheidung der zuständigen Behörde wird der zu prüfenden Person in geeigneter Weise bekannt gegeben.
 
-
-## § 7 – Niederschrift
+# § 7 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 8 – Benotung der staatlichen Prüfung
+# § 8 – Benotung der staatlichen Prüfung
 
 Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und in der praktischen Prüfung nach den §§ 15 bis 17 werden wie folgt benotet:
 
@@ -163,8 +151,7 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 6. „ungenügend“ (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 9 – Bestehen und Wiederholung der staatlichen Prüfung
+# § 9 – Bestehen und Wiederholung der staatlichen Prüfung
 
 (1) Die staatliche Prüfung ist bestanden, wenn jeder der nach § 4 Absatz 1 vorgeschriebenen Prüfungsteile bestanden ist.
 
@@ -174,13 +161,11 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 (4) Hat der Prüfling die schriftliche Aufsichtsarbeit nach § 15 Absatz 1 Satz 1 Nummer 2, ein Fallbeispiel des praktischen Teils der Prüfung oder alle Teile der Prüfung zu wiederholen, so darf er zur Wiederholungsprüfung nur zugelassen werden, wenn er an einer zusätzlichen Ausbildung teilgenommen hat. Dauer und Inhalt der zusätzlichen Ausbildung bestimmt die oder der Vorsitzende des Prüfungsausschusses. Die zusätzliche Ausbildung darf einschließlich der für die Prüfung erforderlichen Zeit die in § 17 Absatz 2 des Notfallsanitätergesetzes festgelegte Dauer von einem Jahr nicht überschreiten; Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen. Der Prüfling hat seinem Antrag auf Zulassung zur Wiederholungsprüfung einen Nachweis über die zusätzliche Ausbildung beizufügen.
 
-
-## § 10 – Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
+# § 10 – Bestehen und Wiederholung der staatlichen Ergänzungsprüfung
 
 Die staatliche Ergänzungsprüfung ist bestanden, wenn jeder der nach § 4 Absatz 3 vorgeschriebenen Prüfungsteile bestanden ist. Wer die staatliche Ergänzungsprüfung bestanden hat, erhält ein Zeugnis nach dem Muster der Anlage 7. Wer die staatliche Ergänzungsprüfung nicht bestanden hat, erhält von der oder dem Vorsitzenden des Prüfungsausschusses eine schriftliche Mitteilung. Die mündliche Prüfung und jedes Fallbeispiel der praktischen Prüfung können einmal wiederholt werden, wenn die Leistung des Prüflings nicht mit „bestanden“ bewertet wurde. § 9 Absatz 4 Satz 1 und 2 gilt entsprechend. Die Dauer der zusätzlichen Ausbildung darf ein Drittel der Stunden nicht überschreiten, die für die weitere Ausbildung gemäß § 32 Absatz 2 Satz 2 des Notfallsanitätergesetzes vorgesehen sind. Die Wiederholungsprüfung ist innerhalb eines angemessenen Zeitraums durchzuführen, der von der zuständigen Behörde festgelegt wird. Er darf die Dauer von zwölf Monaten nicht überschreiten.
 
-
-## § 11 – Rücktritt von der Prüfung
+# § 11 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung oder einem Teil der Prüfung zurück, so hat er der oder dem Vorsitzenden des Prüfungsausschusses den Grund für seinen Rücktritt unverzüglich schriftlich mitzuteilen.
 
@@ -188,25 +173,21 @@ Die staatliche Ergänzungsprüfung ist bestanden, wenn jeder der nach § 4 Absat
 
 (3) Genehmigt die oder der Vorsitzende des Prüfungsausschusses den Rücktritt nicht oder teilt der Prüfling den Grund für den Rücktritt nicht unverzüglich mit, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht bestanden. § 9 Absatz 3 und § 10 gelten entsprechend.
 
-
-## § 12 – Versäumnisfolgen
+# § 12 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin, gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung oder einen Teil der Prüfung, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 9 Absatz 3 und § 10 gelten entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung oder der betreffende Teil der Prüfung als nicht begonnen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft die oder der Vorsitzende des Prüfungsausschusses. § 11 Absatz 1 und Absatz 2 Satz 2 und 3 gilt entsprechend.
 
-
-## § 13 – Ordnungsverstöße und Täuschungsversuche
+# § 13 – Ordnungsverstöße und Täuschungsversuche
 
 Die oder der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder eine Täuschung versucht haben, den betreffenden Teil der Prüfung für nicht bestanden erklären; § 9 Absatz 3 und § 10 gelten entsprechend. Eine solche Entscheidung ist im Falle der Störung der Prüfung nur bis zum Abschluss der gesamten Prüfung, im Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluss der Prüfung zulässig.
 
-
-## § 14 – Prüfungsunterlagen
+# § 14 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfling nach Abschluss der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 15 – Schriftlicher Teil der Prüfung
+# § 15 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der staatlichen Prüfung erstreckt sich auf die folgenden Themenbereiche der Anlage 1:
 
@@ -220,8 +201,7 @@ Der Prüfling hat zu jedem dieser Themenbereiche in jeweils einer Aufsichtsarbei
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von der oder dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüferinnen oder Fachprüfern gemäß § 5 Absatz 1 Satz 1 Nummer 3 zu benoten. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Note für die einzelne Aufsichtsarbeit. Aus den Noten der drei Aufsichtsarbeiten bildet die oder der Vorsitzende des Prüfungsausschusses die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der drei Aufsichtsarbeiten mindestens mit „ausreichend“ benotet wird.
 
-
-## § 16 – Mündlicher Teil der Prüfung
+# § 16 – Mündlicher Teil der Prüfung
 
 (1) In der mündlichen Prüfung hat der Prüfling seine berufliche Handlungskompetenz, die sich in den Dimensionen Fach-, Sozial- und Selbstkompetenz entfaltet, nachzuweisen.
 
@@ -239,8 +219,7 @@ Der Prüfling hat zu jedem dieser Themenbereiche in jeweils einer Aufsichtsarbei
 
 (5) Die oder der Vorsitzende des Prüfungsausschusses kann mit Zustimmung des Prüflings die Anwesenheit von Zuhörerinnen und Zuhörern beim mündlichen Teil der Prüfung gestatten, wenn ein berechtigtes Interesse besteht.
 
-
-## § 17 – Praktischer Teil der Prüfung
+# § 17 – Praktischer Teil der Prüfung
 
 (1) Im praktischen Teil der Prüfung hat der Prüfling nachzuweisen, dass er in der Lage ist, die während der Ausbildung erworbenen Kenntnisse und Fertigkeiten in der beruflichen Praxis anzuwenden und befähigt ist, die Aufgaben in der Notfallversorgung gemäß § 4 des Notfallsanitätergesetzes auszuführen.
 
@@ -268,8 +247,7 @@ Eines der Fallbeispiele muss aus dem Bereich der internistischen Notfälle, eine
 
 (6) Jedes Fallbeispiel wird von mindestens zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 5 Absatz 1 Satz 1 Nummer 4 ist und die Voraussetzung des § 3 Absatz 1 Satz 2 Nummer 1 erfüllt, abgenommen und benotet. Aus den Noten der Fachprüferinnen oder Fachprüfer bildet die oder der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern die Prüfungsnote für jedes Fallbeispiel. Aus diesen Noten bildet die oder der Vorsitzende des Prüfungsausschusses die Gesamtnote für den praktischen Teil der Prüfung. Der praktische Teil der Prüfung ist bestanden, wenn jedes Fallbeispiel mindestens mit „ausreichend“ benotet wird.
 
-
-## § 18 – Mündlicher Teil der Ergänzungsprüfung
+# § 18 – Mündlicher Teil der Ergänzungsprüfung
 
 (1) Der mündliche Teil der Ergänzungsprüfung erstreckt sich auf die folgenden Themenbereiche der Anlage 1:
 
@@ -283,15 +261,13 @@ Eines der Fallbeispiele muss aus dem Bereich der internistischen Notfälle, eine
 
 (3) Die Prüfung zu jedem Themenbereich wird von mindestens zwei Fachprüferinnen oder Fachprüfern abgenommen und bewertet. § 16 Absatz 4 Satz 1 und 2 gilt entsprechend. Der mündliche Teil der Ergänzungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen oder Fachprüfer jeden Themenbereich gemeinsam mit der oder dem Vorsitzenden des Prüfungsausschusses übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen genügt. Kommen die Fachprüferinnen oder Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet die oder der Vorsitzende des Prüfungsausschusses nach Rücksprache mit den Fachprüferinnen oder Fachprüfern über das Bestehen.
 
-
-## § 19 – Praktischer Teil der Ergänzungsprüfung
+# § 19 – Praktischer Teil der Ergänzungsprüfung
 
 (1) Der praktische Teil der Ergänzungsprüfung erstreckt sich auf die Übernahme aller anfallenden Aufgaben einer fachgerechten rettungsmedizinischen Notfallversorgung bei zwei vorgegebenen Fallbeispielen. Eines der Fallbeispiele stammt aus dem Bereich der traumatologischen Notfälle und eines aus dem Bereich internistischer Notfälle. § 17 Absatz 1, 2 Satz 2, Absatz 3 bis 5 gilt entsprechend.
 
 (2) Jedes Fallbeispiel wird von mindestens zwei Fachprüferinnen oder Fachprüfern, von denen eine oder einer Fachprüferin oder Fachprüfer nach § 5 Absatz 1 Satz 1 Nummer 4 ist und die Voraussetzung des § 3 Absatz 1 Satz 2 Nummer 1 erfüllt, abgenommen und bewertet. Der praktische Teil der Ergänzungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüferinnen oder Fachprüfer jedes Fallbeispiel übereinstimmend mit „bestanden“ bewerten. § 18 Absatz 3 Satz 4 und 5 gilt entsprechend.
 
-
-## § 20 – Sonderregelungen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 20 – Sonderregelungen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Personen, die über einen Ausbildungsnachweis aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum verfügen und eine Erlaubnis nach § 1 Absatz 1 des Notfallsanitätergesetzes beantragen, können zum Nachweis, dass die Voraussetzungen nach § 2 Absatz 1 Nummer 2 des Notfallsanitätergesetzes vorliegen, eine von der zuständigen Behörde ihres Herkunftsmitgliedstaates ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass der antragstellenden Person die Ausübung des Berufs, der dem des Notfallsanitäters entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder des Satzes 2 von Tatsachen Kenntnis, die außerhalb des Geltungsbereichs des Notfallsanitätergesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Absatz 1 Nummer 2 des Notfallsanitätergesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaates zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -305,8 +281,7 @@ Eines der Fallbeispiele muss aus dem Bereich der internistischen Notfälle, eine
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 21 – Anpassungsmaßnahmen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 21 – Anpassungsmaßnahmen für Inhaberinnen und Inhaber von Ausbildungsnachweisen aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Personen, die eine Erlaubnis nach § 1 Absatz 1 des Notfallsanitätergesetzes beantragen und
 
@@ -322,8 +297,7 @@ können zum Ausgleich von wesentlichen Unterschieden, die von der zuständigen B
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 24 Absatz 3 des Notfallsanitätergesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 6 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 20 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 22 – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 22 – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Personen, die eine Erlaubnis nach § 1 Absatz 1 des Notfallsanitätergesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fertigkeiten ausgeglichen werden konnten, die die antragstellenden Personen im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 3 Satz 6 des Notfallsanitätergesetzes vorliegenden Umstände nicht durchgeführt wird.
 
@@ -349,8 +323,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 20
 
 (7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 11 erteilt.
 
-
-## § 23 – Fristen, Bescheide, Durchführungsbestimmungen
+# § 23 – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis als Notfallsanitäterin oder Notfallsanitäter nach § 1 Absatz 1 des Notfallsanitätergesetzes in Verbindung mit § 2 Absatz 3, 4, 4a oder Absatz 5 des Notfallsanitätergesetzes kurzfristig, spätestens vier Monate nach Vorlage der für Entscheidungen nach § 2 des Notfallsanitätergesetzes erforderlichen Unterlagen zu entscheiden. Im Falle des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -366,28 +339,23 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 20
 
 (3) Die Eignungsprüfung nach § 21 Absatz 3 und die Kenntnisprüfung nach § 22 Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 4 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass antragstellende Personen die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 7, 11 bis 14 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
-
-## § 24 – Erlaubnisurkunde
+# § 24 – Erlaubnisurkunde
 
 Sind die Voraussetzungen nach § 2 des Notfallsanitätergesetzes oder nach § 32 Absatz 2 des Notfallsanitätergesetzes für die Erteilung der Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des Notfallsanitätergesetzes erfüllt, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 12 aus.
 
-
-## § 25 – Übergangsvorschrift
+# § 25 – Übergangsvorschrift
 
 Eine bis einschließlich 31. Dezember 2014 begonnene Ausbildung zur Rettungsassistentin oder zum Rettungsassistenten wird nach den bisher geltenden Vorschriften abgeschlossen.
 
-
-## § 26 – Inkrafttreten, Außerkrafttreten
+# § 26 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft. Die Ausbildungs- und Prüfungsverordnung für Rettungsassistentinnen und Rettungsassistenten vom 7. November 1989 (BGBl. I S. 1966), die zuletzt durch Artikel 20 des Gesetzes vom 2. Dezember 2007 (BGBl. I S. 2686) geändert worden ist, tritt mit Ablauf des 31. Dezember 2014 außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Absatz 1 Nummer 1)Theoretischer und praktischer Unterricht
+# Anlage 1 – (zu § 1 Absatz 1 Nummer 1)Theoretischer und praktischer Unterricht
 
 (Fundstelle: BGBl. I 2013, 4289 - 4292)
 
@@ -950,8 +918,7 @@ Stundenzahl insgesamt
 
 1 920
 
-
-## Anlage 2 – (zu § 1 Absatz 1 Nummer 2)Praktische Ausbildung in genehmigten Lehrrettungswachen
+# Anlage 2 – (zu § 1 Absatz 1 Nummer 2)Praktische Ausbildung in genehmigten Lehrrettungswachen
 
 (Fundstelle: BGBl. I 2013, 4293)
 
@@ -993,8 +960,7 @@ Stundenzahl insgesamt
 
 Während der praktischen Ausbildung sind die Themenbereiche 1 bis 10 des theoretischen und praktischen Unterrichts der Anlage 1 einzuüben und zu vertiefen. Hierzu sind einsatzfreie Zeiten, aber auch praktische Einsätze zu nutzen.
 
-
-## Anlage 3 – (zu § 1 Absatz 1 Nummer 3)Praktische Ausbildung in geeigneten Krankenhäusern
+# Anlage 3 – (zu § 1 Absatz 1 Nummer 3)Praktische Ausbildung in geeigneten Krankenhäusern
 
 (Fundstelle: BGBl. I 2013, 4294 - 4295;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1303,8 +1269,7 @@ Stundenzahl insgesamt
 
 Die praktische Ausbildung beinhaltet in allen Funktionsbereichen die Grundregeln der Hygiene und des Infektionsschutzes, Maßnahmen der Krankenbeobachtung und Patientenüberwachung inklusive der dazu notwendigen Geräte, den Umgang mit Medikamenten sowie Maßnahmen zu ihrer Vorbereitung und Applikation, den Ablauf einer allgemeinen Patientenaufnahme sowie der Patientenübergabe, die Dokumentation, den Dienstablauf und die räumlichen Besonderheiten. Die Schülerinnen und Schüler sind in allen Funktionsbereichen zu befähigen, in dem für den Notfallsanitäterberuf erforderlichen Umfang die hierzu notwendigen Maßnahmen zu kennen und selbständig oder unter Anleitung durchzuführen.
 
-
-## Anlage 4 – (zu § 1 Absatz 3)Weitere Ausbildung nach § 32 Absatz 2 Satz 2 des Notfallsanitätergesetzes
+# Anlage 4 – (zu § 1 Absatz 3)Weitere Ausbildung nach § 32 Absatz 2 Satz 2 des Notfallsanitätergesetzes
 
 (Fundstelle: BGBl. I 2013, 4296)
 
@@ -1334,14 +1299,12 @@ Die praktische Ausbildung beinhaltet in allen Funktionsbereichen die Grundregeln
 
  
 
-
-## Anlage 5 – (zu § 1 Absatz 4)
+# Anlage 5 – (zu § 1 Absatz 4)
 
 (Fundstelle: BGBl. I 2013, 4297)
 
   
-. . . . . . . . . . . . . . . . . . . .  
-(Bezeichnung der Schule)
+. . . . . . . . . . . . . . . . . . . . (Bezeichnung der Schule)
 
 mit Erfolg an dem theoretischen und praktischen Unterricht sowie an der praktischen Ausbildung für Notfallsanitäterinnen und Notfallsanitäter gemäß
 
@@ -1356,8 +1319,7 @@ mit Erfolg an dem theoretischen und praktischen Unterricht sowie an der praktisc
 
 teilgenommen.
 
-Die Ausbildung ist – nicht – über die nach dem Notfallsanitätergesetz zulässigen Fehlzeiten hinaus – um . . .  
- . . . . . . . . . Stunden<span id="FnR.f783705_01"></span><a href="#f783705_01" class="FnR">*</a></sup> – unterbrochen worden.
+Die Ausbildung ist – nicht – über die nach dem Notfallsanitätergesetz zulässigen Fehlzeiten hinaus – um . . .  . . . . . . . . . Stunden<span id="FnR.f783705_01"></span><a href="#f783705_01" class="FnR">*</a></sup> – unterbrochen worden.
 
  
 
@@ -1365,8 +1327,7 @@ Die Ausbildung ist – nicht – über die nach dem Notfallsanitätergesetz zul�
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 6 – (zu § 9 Absatz 2 Satz 1)
+# Anlage 6 – (zu § 9 Absatz 2 Satz 1)
 
 (Fundstelle: BGBl. I 2013, 4298)
 
@@ -1393,8 +1354,7 @@ Sie/Er hat folgende Prüfungsnoten erhalten:
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
-
-## Anlage 7 – (zu § 10 Satz 2)
+# Anlage 7 – (zu § 10 Satz 2)
 
 (Fundstelle: BGBl. I 2013, 4299)
 
@@ -1412,21 +1372,18 @@ des Prüfungsausschusses
 
 . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-
-## Anlage 8 – (zu § 21 Absatz 2)
+# Anlage 8 – (zu § 21 Absatz 2)
 
 (Fundstelle: BGBl. I 2013, 4300)
 
   
-. . . . . . . . . . . . . . . . . . . . . . .  
-Bezeichnung der Einrichtung
+. . . . . . . . . . . . . . . . . . . . . . . Bezeichnung der Einrichtung
 
  
 
 . . . . . . . . . . . . . . . . . . . . . . . .
 
-
-## Anlage 9 – (zu § 21 Absatz 3)
+# Anlage 9 – (zu § 21 Absatz 3)
 
 (Fundstelle: BGBl. I 2013, 4301)
 
@@ -1441,13 +1398,11 @@ des Prüfungsausschusses
 
 \_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 10 – (zu § 22 Absatz 2)
+# Anlage 10 – (zu § 22 Absatz 2)
 
 (Fundstelle: BGBl. I 2013, 4302)
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . .  
-Bezeichnung der Einrichtung
+. . . . . . . . . . . . . . . . . . . . . . . . . . . Bezeichnung der Einrichtung
 
  
 
@@ -1455,8 +1410,7 @@ Bezeichnung der Einrichtung
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 11 – (zu § 22 Absatz 7)
+# Anlage 11 – (zu § 22 Absatz 7)
 
 (Fundstelle: BGBl. I 2013, 4303)
 
@@ -1471,8 +1425,7 @@ des Prüfungsausschusses
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-## Anlage 12 – (zu § 24)
+# Anlage 12 – (zu § 24)
 
 (Fundstelle: BGBl. I 2013, 4304)
 

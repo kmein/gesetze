@@ -1,15 +1,11 @@
-# [MinÖlBewV] Mineralölbewirtschaftungs-Verordnung  (MinÖlBewV)
-
-Ausfertigungsdatum: 19.04.1988
-
+% Mineralölbewirtschaftungs-Verordnung  (MinÖlBewV)
+% Ausfertigungsdatum: 19.04.1988
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8, der §§ 3 und 5 Abs. 1, des § 6, des § 8 Abs. 1 und 6 und der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (BGBl. I S. 1069), von denen die §§ 5, 6, 9 und 21 Nr. 2 durch das Zuständigkeitsanpassungs-Gesetz vom 18. März 1975 (BGBl. I S. 705) geändert worden sind, verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Produkte
+# § 1 – Produkte
 
 (1) Inhaber von Unternehmen der Mineralölwirtschaft mit einer Betriebsstätte im Geltungsbereich dieser Verordnung, die im Rahmen ihres Geschäftsbetriebes die in der Anlage aufgeführten Produkte (Produkte) gewinnen, herstellen, bearbeiten, verarbeiten, beziehen, liefern oder in Rohrleitungen weiterleiten (Unternehmer), können von der zuständigen Behörde verpflichtet werden,
 
@@ -23,13 +19,11 @@ Auf Grund des § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8, der §§ 3 und 5 Abs. 1, des
 
 (3) Inhaber von anderen Unternehmen der gewerblichen Wirtschaft, die im Rahmen ihres Geschäftsbetriebes Produkte zur Herstellung von Waren oder in sonstiger Weise für ihre Unternehmenszwecke einsetzen, stehen bezüglich der bei ihnen lagernden Produkte dem Unternehmer nach Absatz 1 gleich.
 
-
-## § 2 – Anlagen
+# § 2 – Anlagen
 
 Unternehmer nach § 1 Abs. 1 können von der zuständigen Behörde verpflichtet werden, ihre Anlagen, technischen Einrichtungs- und sonstigen Gegenstände, die für die Gewinnung, Herstellung, Bearbeitung, Verarbeitung, Weiterleitung in Rohrleitungen, Lieferung oder Verwendung von Produkten erforderlich sind oder vorgehalten werden, instandzuhalten, instandzusetzen, abzugeben, zu verbringen, zur Herstellung bestimmter Produkte zu verwenden oder dieses zu unterlassen.
 
-
-## § 3 – Umfang der Verpflichtung
+# § 3 – Umfang der Verpflichtung
 
 Verpflichtungen nach den §§ 1 und 2 sind nur zulässig,
 
@@ -39,8 +33,7 @@ Verpflichtungen nach den §§ 1 und 2 sind nur zulässig,
 
 Sie sind auf das unerläßliche Maß zu beschränken.
 
-
-## § 4 – Allgemeine Verbrauchseinschränkung
+# § 4 – Allgemeine Verbrauchseinschränkung
 
 (1) Schränkt das Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung nach § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8 des Wirtschaftssicherstellungsgesetzes den Verbrauch oder die Verwendung von Produkten zeitlich oder mengenmäßig ein (Bewirtschaftung), so darf der Unternehmer über diese Produkte nur verfügen, sie beziehen oder verwenden, soweit
 
@@ -54,8 +47,7 @@ Sie sind auf das unerläßliche Maß zu beschränken.
 
 (2) Die Entnahme von Produkten durch den Unternehmer für eigene Zwecke steht der Verfügung nach Absatz 1 gleich.
 
-
-## § 5 – Genehmigungen
+# § 5 – Genehmigungen
 
 (1) In der Rechtsverordnung nach § 4 Abs. 1 kann die Verfügung des Unternehmers über Produkte, deren Bezug oder Verwendung insgesamt oder hinsichtlich bestimmter Arten oder Tatbestände allgemein genehmigt werden, soweit dadurch die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung, der Bundeswehr, der verbündeten Streitkräfte und der öffentlichen Verwaltung erforderliche Versorgung mit Produkten nicht gefährdet wird. Dies gilt insbesondere für Produkte, die
 
@@ -75,8 +67,7 @@ Sie sind auf das unerläßliche Maß zu beschränken.
 
 In der Rechtsverordnung ist zu bestimmen, ob und inwieweit die Abgabe dem Halter des Kraftfahrzeugs auf seine Zuteilung nach § 6 anzurechnen ist.
 
-
-## § 6 – Bezugscheine
+# § 6 – Bezugscheine
 
 (1) Für den Bezug von nach § 4 Abs. 1 bewirtschafteten Produkten können die zuständigen Behörden zur Deckung des nach § 3 Nr. 1 bestehenden Bedarfs auf Antrag Bezugscheine im Rahmen der gegebenen Versorgungslage erteilen. In den Fällen des § 9 Abs. 1 Nr. 1 Buchstabe b kann das Bundesministerium für Wirtschaft und Energie die dort genannten obersten Bundesbehörden und Dienststellen ermächtigen, bis zur Höhe der ihnen zugewiesenen Mengen Bezugscheine selbst auszustellen. Das Bundesministerium für Wirtschaft und Energie oder die für die gewerbliche Wirtschaft zuständige oberste Landesbehörde können ein anderes Verfahren zulassen, wenn der Nachweis der Lieferung und des Bezuges bewirtschafteter Produkte sichergestellt ist.
 
@@ -90,8 +81,7 @@ In der Rechtsverordnung ist zu bestimmen, ob und inwieweit die Abgabe dem Halter
 
 (6) Der Unternehmer hat die ihm ausgehändigten Bezugscheine durch einen Vermerk zu entwerten, ein Jahr aufzubewahren und innerhalb dieser Frist der zuständigen Behörde auf Anforderung vorzulegen.
 
-
-## § 7 – Meldung des Aufkommens und der Verarbeitung
+# § 7 – Meldung des Aufkommens und der Verarbeitung
 
 (1) Um die für Zwecke der Verteidigung, insbesondere zur Deckung des Bedarfs der Zivilbevölkerung, der Bundeswehr und der verbündeten Streitkräfte erforderliche Versorgung mit Produkten sicherzustellen, haben nach § 1 Abs. 1 verpflichtete Unternehmer der zuständigen Behörde für den abgelaufenen, den laufenden und den nächsten Monat folgende Angaben zu melden:
 
@@ -135,8 +125,7 @@ Als Produkte im Sinne der Nummern 1 und 2 gelten auch andere zur Herstellung von
 
 (5) Die zuständige Behörde kann Einzelangaben an das Bundesministerium für Wirtschaft und Energie weiterleiten, soweit dieses sie zur Erfüllung der in Absatz 1 genannten Zwecke benötigt.
 
-
-## § 8 – Besondere Meldepflichten
+# § 8 – Besondere Meldepflichten
 
 (1) Für die in § 7 Abs. 1 genannten Zwecke haben Unternehmer, die eine öffentliche Tankstelle oder Bunkerstation für die Schiffahrt betreiben, der zuständigen Behörde ihre Bestände an bewirtschafteten Produkten erstmalig zum Zeitpunkt des Beginns der Bewirtschaftung nach § 4 zu melden.
 
@@ -150,8 +139,7 @@ Als Produkte im Sinne der Nummern 1 und 2 gelten auch andere zur Herstellung von
 
 (3) Die zuständige Behörde kann bestimmen, daß und zu welchem Zeitpunkt erneut Meldungen abzugeben sind.
 
-
-## § 9 – Zuständige Behörde
+# § 9 – Zuständige Behörde
 
 (1) Zuständig sind
 
@@ -195,8 +183,7 @@ b) gegenüber Bunkerstationen, wenn sie bewirtschaftete Produkte an Schiffe im S
 
 (+++ § 9 Abs. 2 und 5: Zur Anwendung vgl. § 11 Abs. 3 +++)
 
-
-## § 10 – Zuwiderhandlungen
+# § 10 – Zuwiderhandlungen
 
 (1) Wer vorsätzlich oder fahrlässig
 
@@ -218,8 +205,7 @@ begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsges
 
 (2) Zuständige Verwaltungsbehörde im Sinne des § 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1 die Behörde, die den Bescheid erlassen hat, in den Fällen des Absatzes 1 Nr. 3, 6 und 7 die für die Entgegennahme des Antrags oder der Meldung zuständige Behörde, in Fällen des Absatzes 1 Nr. 2, 4 und 5, soweit die Zuwiderhandlungen mit dem Schiffsbetrieb auf Bundeswasserstraßen in Zusammenhang stehen, die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, im übrigen die Behörden der allgemeinen Verwaltung auf der Kreisstufe. Die übergeordnete Behörde ist in den Fällen des § 9 Abs. 4 zuständig.
 
-
-## § 11 – Inkrafttreten und Anwendbarkeit
+# § 11 – Inkrafttreten und Anwendbarkeit
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -227,8 +213,7 @@ begeht eine Zuwiderhandlung im Sinne des § 18 des Wirtschaftssicherstellungsges
 
 (3) § 9 Abs. 2 und 5 ist mit dem Inkrafttreten anwendbar.
 
-
-## Anlage – zur Mineralölbewirtschaftungs-Verordnung  Liste der Produkte gemäß § 1 Abs. 1
+# Anlage – zur Mineralölbewirtschaftungs-Verordnung  Liste der Produkte gemäß § 1 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1988, 534
 

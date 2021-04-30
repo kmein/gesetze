@@ -1,35 +1,27 @@
-# [KrimBekAbkUSAAG] Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
-
-Ausfertigungsdatum: 11.09.2009
-
+% Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
+% Ausfertigungsdatum: 11.09.2009
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Bestimmung der nationalen Kontaktstelle
+# § 1 – Bestimmung der nationalen Kontaktstelle
 
 Nationale Kontaktstelle nach Artikel 6 Abs. 1, Artikel 9 Abs. 1 und Artikel 10 Abs. 7 des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität (BGBl. 2009 II S. 1010, 1011) ist das Bundeskriminalamt.
 
-
-## § 2 – Datenschutzrechtliche Verantwortung für den automatisierten Datenabruf
+# § 2 – Datenschutzrechtliche Verantwortung für den automatisierten Datenabruf
 
 Die Verantwortung für die Zulässigkeit eines vom Bundeskriminalamt als nationaler Kontaktstelle durchgeführten automatisierten Abrufs nach Artikel 4 oder Artikel 7 des Abkommens vom 1. Oktober 2008 trägt innerstaatlich die Stelle, die das Bundeskriminalamt um die Durchführung des Abrufs ersucht hat.
 
-
-## § 3 – Zustimmung zur zweckändernden Verwendung und zur Weitergabe von Daten an Dritte
+# § 3 – Zustimmung zur zweckändernden Verwendung und zur Weitergabe von Daten an Dritte
 
 (1) Über die Erteilung der Zustimmung nach Artikel 13 Abs. 1 Buchstabe d und Abs. 2 des Abkommens vom 1. Oktober 2008 entscheidet das Bundeskriminalamt.
 
 (2) Die Zustimmung nach Artikel 13 Abs. 1 Buchstabe d und Abs. 2 des Abkommens vom 1. Oktober 2008 kann nur unter den Voraussetzungen erteilt werden, die für die Übermittlung von Daten durch das Bundeskriminalamt nach § 27 Abs. 1 des Bundeskriminalamtgesetzes gelten. Handelt es sich um Daten, die dem Bundeskriminalamt von einer anderen innerstaatlichen Stelle übermittelt worden sind, entscheidet das Bundeskriminalamt über die Erteilung der Zustimmung im Benehmen mit dieser Stelle.
 
-
-## § 4 – Automatisierter Abruf von DNA-Identifizierungsmustern
+# § 4 – Automatisierter Abruf von DNA-Identifizierungsmustern
 
 DNA-Identifizierungsmuster dürfen über die Vorschriften des Bundeskriminalamtgesetzes hinaus auch für einen automatisierten Abruf nach Artikel 7 des Abkommens vom 1. Oktober 2008 verwendet werden.
 
-
-## § 5 – Rechte des Betroffenen auf Geltendmachung von Auskunfts-, Berichtigungs-, Sperrungs-  und Löschungsansprüchen gegenüber den Vereinigten Staaten von Amerika durch das Bundeskriminalamt
+# § 5 – Rechte des Betroffenen auf Geltendmachung von Auskunfts-, Berichtigungs-, Sperrungs-  und Löschungsansprüchen gegenüber den Vereinigten Staaten von Amerika durch das Bundeskriminalamt
 
 (1) Auf Antrag des Betroffenen und bei Nachweis seiner Identität macht die Bundesrepublik Deutschland, vertreten durch das Bundeskriminalamt, bei der zuständigen nationalen Kontaktstelle der Vereinigten Staaten von Amerika ihre Rechte auf Auskunftserteilung nach Artikel 18 des Abkommens vom 1. Oktober 2008 in Bezug auf die zur Person des Betroffenen übermittelten Daten geltend.
 

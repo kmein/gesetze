@@ -1,15 +1,11 @@
-# [GAufzV] Verordnung zu Art, Inhalt und Umfang von Aufzeichnungen im Sinne des § 90 Absatz 3 der Abgabenordnung  (Gewinnabgrenzungsaufzeichnungs-Verordnung - GAufzV)
-
-Ausfertigungsdatum: 12.07.2017
-
+% Verordnung zu Art, Inhalt und Umfang von Aufzeichnungen im Sinne des § 90 Absatz 3 der Abgabenordnung  (Gewinnabgrenzungsaufzeichnungs-Verordnung - GAufzV)
+% Ausfertigungsdatum: 12.07.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 90 Absatz 3 Satz 11 der Abgabenordnung, der durch Artikel 1 Nummer 2 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Grundsätze der Aufzeichnungspflicht
+# § 1 – Grundsätze der Aufzeichnungspflicht
 
 (1) Der Steuerpflichtige hat in den Aufzeichnungen, die über die Geschäftsbeziehungen im Sinne des § 1 Absatz 4 des Außensteuergesetzes zu erstellen sind, sämtliche Tatsachen anzugeben, die für die Vereinbarung von Bedingungen für Geschäftsvorfälle, insbesondere von Verrechnungspreisen, steuerliche Bedeutung haben. Die Aufzeichnungspflicht beschränkt sich nicht auf die zivilrechtlichen Beziehungen. Die Aufzeichnungspflicht bezieht sich auch auf Geschäftsvorfälle, die keinen Leistungsaustausch zum Gegenstand haben, wie Vereinbarungen über Arbeitnehmerentsendungen. Aufzeichnungen, die im Wesentlichen unverwertbar sind (§ 162 Absatz 3 und 4 der Abgabenordnung), sind als nicht erstellt zu behandeln.
 
@@ -17,8 +13,7 @@ Auf Grund des § 90 Absatz 3 Satz 11 der Abgabenordnung, der durch Artikel 1 Num
 
 (3) Für die Angemessenheitsdokumentation nach § 90 Absatz 3 Satz 2 der Abgabenordnung hat der Steuerpflichtige für jeden Geschäftsvorfall entsprechend der von ihm gewählten Verrechnungspreismethode Aufzeichnungen zu erstellen und Vergleichsdaten heranzuziehen, soweit solche Daten im Zeitpunkt der Vereinbarung des jeweiligen Geschäftsvorfalls bei ihm oder bei ihm nahestehenden Personen vorhanden sind oder soweit er sich solche Daten mit zumutbarem Aufwand aus ihm frei zugänglichen Quellen beschaffen kann. Zu den Vergleichsdaten im Sinne des Satzes 1 gehören insbesondere Daten zu vergleichbaren Geschäftsvorfällen, die der Steuerpflichtige oder eine ihm nahestehende Person mit fremden Dritten abgeschlossen hat, und zu vergleichbaren Geschäftsvorfällen zwischen fremden Dritten, zum Beispiel Preise und Geschäftsbedingungen, Kostenaufteilungen, Gewinnaufschläge, Bruttospannen, Nettospannen, Gewinnaufteilungen. Zusätzlich sind Aufzeichnungen über innerbetriebliche Daten zu erstellen, die eine Plausibilitätskontrolle der vom Steuerpflichtigen vereinbarten Verrechnungspreise ermöglichen, wie zum Beispiel Prognoserechnungen und Daten zur Absatz-, Gewinn- und Kostenplanung. Hat der Steuerpflichtige die von ihm und den ihm nahestehenden Personen ausgeübten Funktionen, übernommenen Risiken und eingesetzten wesentlichen Vermögenswerte in ihrer Bedeutung für einen Geschäftsvorfall gewichtet, muss diese Gewichtung widerspruchsfrei sein; in solchen Fällen müssen für jeden am Geschäftsvorfall Beteiligten die ausgeübten Funktionen, das Ausmaß der tatsächlich übernommenen Risiken und die Höhe der tatsächlich eingesetzten wesentlichen Vermögenswerte quantitativ nachvollziehbar dargestellt werden.
 
-
-## § 2 – Art, Inhalt und Umfang der Aufzeichnungen
+# § 2 – Art, Inhalt und Umfang der Aufzeichnungen
 
 (1) Aufzeichnungen über Geschäftsbeziehungen können in Papierform oder elektronisch erstellt werden. Sie sind ordnungsmäßig zu führen und aufzubewahren. Sie müssen das ernsthafte Bemühen des Steuerpflichtigen belegen, seine Geschäftsbeziehungen unter Beachtung des Fremdvergleichsgrundsatzes zu gestalten. Die Aufzeichnungen müssen es daher einem sachverständigen Dritten ermöglichen, innerhalb einer angemessenen Frist festzustellen, welche Sachverhalte der Steuerpflichtige im Zusammenhang mit seinen Geschäftsbeziehungen verwirklicht hat und ob und inwieweit er dabei den Fremdvergleichsgrundsatz beachtet hat.
 
@@ -38,8 +33,7 @@ Eine Zusammenfassung ist auch zulässig bei ursächlich zusammenhängenden Gesch
 
 (6) Aufzeichnungen sollen im Regelfall nur für die Zwecke der Durchführung einer Außenprüfung angefordert werden. Die Anforderung soll die Geschäftsbereiche und die Geschäftsbeziehungen des Steuerpflichtigen bezeichnen, die Gegenstand der Außenprüfung sein sollen. In der Anforderung sollen auch die Art und der Umfang der angeforderten Aufzeichnungen inhaltlich hinreichend bestimmt werden. Die Anforderung kann zusammen mit der Prüfungsanordnung erfolgen und jederzeit nachgeholt, ergänzt oder geändert werden (§ 90 Absatz 3 Satz 10 der Abgabenordnung).
 
-
-## § 3 – Zeitnahe Erstellung von Aufzeichnungen bei außergewöhnlichen Geschäftsvorfällen
+# § 3 – Zeitnahe Erstellung von Aufzeichnungen bei außergewöhnlichen Geschäftsvorfällen
 
 (1) Aufzeichnungen über außergewöhnliche Geschäftsvorfälle im Sinne des § 90 Absatz 3 Satz 8 der Abgabenordnung sind zeitnah erstellt, wenn sie im engen zeitlichen Zusammenhang mit dem Geschäftsvorfall gefertigt werden. Sie gelten als noch zeitnah erstellt, wenn sie innerhalb von sechs Monaten nach Ablauf des Wirtschaftsjahres gefertigt werden, in dem sich der Geschäftsvorfall ereignet hat.
 
@@ -55,8 +49,7 @@ Eine Zusammenfassung ist auch zulässig bei ursächlich zusammenhängenden Gesch
 
 5. der Abschluss von Umlageverträgen.
 
-
-## § 4 – Landesspezifische, unternehmensbezogene Dokumentation
+# § 4 – Landesspezifische, unternehmensbezogene Dokumentation
 
 (1) Der Steuerpflichtige hat nach Maßgabe der §§ 1 bis 3 folgende Aufzeichnungen, soweit sie für die Prüfung von Geschäftsbeziehungen des Steuerpflichtigen im Sinne des § 90 Absatz 3 Satz 1 und 2 der Abgabenordnung steuerlich von Bedeutung sind, zu erstellen:
 
@@ -128,15 +121,13 @@ f) Auflistung und Beschreibung verwendeter vergleichbarer interner oder externer
 
 (3) Verwendet der Steuerpflichtige für die Bestimmung seiner Verrechnungspreise Datenbanken, muss er die von ihm dabei verwendete Suchstrategie, die dabei verwendeten Suchkriterien, das Suchergebnis und den außerhalb der Datenbank durchgeführten weiteren Selektionsprozess (Suchprozess) umfassend offenlegen. Der gesamte Suchprozess des Steuerpflichtigen muss nachvollziehbar und zum Zeitpunkt der Außenprüfung prüfbar sein. Die Konfiguration der Datenbank, mit der der konkrete Suchprozess durchgeführt wurde, ist vollständig zu dokumentieren. § 147 Absatz 6 der Abgabenordnung gilt sinngemäß.
 
-
-## § 5 – Stammdokumentation
+# § 5 – Stammdokumentation
 
 (1) Steuerpflichtige, die nach § 90 Absatz 3 Satz 3 und 4 der Abgabenordnung eine Stammdokumentation zu erstellen haben, haben die in der Anlage zu dieser Verordnung aufgeführten Aufzeichnungen zu erstellen und entsprechende Unterlagen vorzulegen, um der Finanzbehörde einen Überblick über die Art der weltweiten Geschäftstätigkeit der Unternehmensgruppe und über die Systematik der Verrechnungspreisbestimmung, die die Unternehmensgruppe anwendet, zu ermöglichen. Der Steuerpflichtige kann auch Aufzeichnungen verwenden, die von einem anderen Unternehmen derselben Unternehmensgruppe erstellt wurden. Soweit erforderlich, sind diese Aufzeichnungen um weitere Angaben entsprechend der Anlage zu dieser Verordnung zu ergänzen. § 2 Absatz 5 bleibt unberührt.
 
 (2) Der Steuerpflichtige soll bei der Erstellung der Stammdokumentation eine vernünftige kaufmännische Beurteilung zugrunde legen, um die mit der Stammdokumentation verbundenen Ziele mit angemessenem Aufwand zu erreichen.
 
-
-## § 6 – Anwendungsregelungen für kleinere Unternehmen und für Steuerpflichtige mit anderen als Gewinneinkünften
+# § 6 – Anwendungsregelungen für kleinere Unternehmen und für Steuerpflichtige mit anderen als Gewinneinkünften
 
 (1) Für Steuerpflichtige, die aus Geschäftsbeziehungen andere Einkünfte als Gewinneinkünfte beziehen, und für kleinere Unternehmen gelten die in § 90 Absatz 3 Satz 1 bis 4 und 8 der Abgabenordnung und die in dieser Verordnung bezeichneten Aufzeichnungspflichten vorbehaltlich Satz 2 als erfüllt, soweit die gegenüber den Finanzbehörden zu erteilenden Auskünfte den Anforderungen des § 2 Absatz 1 entsprechen und durch die Vorlage vorhandener Unterlagen auf Anforderung des Finanzamts belegt werden. Die in § 90 Absatz 3 Satz 7 und 8 der Abgabenordnung genannten Fristen sind einzuhalten.
 
@@ -150,23 +141,19 @@ Werden die in Satz 1 genannten Beträge in einem Wirtschaftsjahr überschritten,
 
 (3) Zusammenhängende inländische Unternehmen im Sinne der §§ 13, 18 und 19 der Betriebsprüfungsordnung vom 15. März 2000 (BStBl I S. 368) in der jeweils geltenden Fassung und inländische Betriebsstätten von dem Steuerpflichtigen nahestehenden Personen sind für die Prüfung der Betragsgrenzen nach Absatz 2 zusammenzurechnen.
 
-
-## § 7 – Schlussvorschrift
+# § 7 – Schlussvorschrift
 
 Diese Verordnung ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 2016 beginnen.
 
-
-## § 8 – Inkrafttreten, Außerkrafttreten
+# § 8 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Gewinnabgrenzungsaufzeichnungsverordnung vom 13. November 2003 (BGBl. I S. 2296), die zuletzt durch Artikel 7 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) geändert worden ist, außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 5)Umfang der Stammdokumentation
+# Anlage – (zu § 5)Umfang der Stammdokumentation
 
 (Fundstelle: BGBl. I 2017, 2371)
 

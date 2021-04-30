@@ -1,12 +1,7 @@
-# [SeeVersNachwG] Gesetz über bestimmte Versicherungsnachweise in der Seeschifffahrt   (Seeversicherungsnachweisgesetz - SeeVersNachwG)
-
-Ausfertigungsdatum: 04.06.2013
-
+% Gesetz über bestimmte Versicherungsnachweise in der Seeschifffahrt   (Seeversicherungsnachweisgesetz - SeeVersNachwG)
+% Ausfertigungsdatum: 04.06.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -14,8 +9,9 @@ Ausfertigungsdatum: 04.06.2013
 
  
 
+ 
 
-## § 1 – Zielsetzung des Gesetzes
+# § 1 – Zielsetzung des Gesetzes
 
 Dieses Gesetz regelt
 
@@ -27,8 +23,7 @@ b) Wrackbeseitigungskosten im Sinne des Internationalen Übereinkommens von Nair
 
 2. die Anwendung der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24).
 
-
-## § 2 – Versicherungspflicht für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens
+# § 2 – Versicherungspflicht für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens
 
 (1) Der Schiffseigentümer eines Schiffes mit einer Bruttoraumzahl von mindestens 300, das
 
@@ -40,8 +35,7 @@ hat eine dem Artikel 3 Buchstabe b und dem Artikel 4 Absatz 3 der Richtlinie 200
 
 (2) Schiffseigentümer eines Schiffes ist der im Schiffsregister eingetragene Eigentümer oder jede andere Person, die für den Betrieb des Schiffes verantwortlich ist.
 
-
-## § 3 – Nachweis einer Versicherung für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens
+# § 3 – Nachweis einer Versicherung für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens
 
 (1) Das Bestehen einer Versicherung nach § 2 Absatz 1 für Seeforderungen im Sinne des Haftungsbeschränkungsübereinkommens ist durch eine vom Versicherer auszustellende Bescheinigung (Versicherungsbescheinigung) nachzuweisen.
 
@@ -49,8 +43,7 @@ hat eine dem Artikel 3 Buchstabe b und dem Artikel 4 Absatz 3 der Richtlinie 200
 
 (3) Der Schiffseigentümer eines Schiffes nach § 2 Absatz 1 Satz 1 hat sicherzustellen, dass die Versicherungsbescheinigung an Bord ist. Der Schiffsführer ist verpflichtet, die Versicherungsbescheinigung an Bord mitzuführen und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 4 – Versicherungspflicht für Wrackbeseitigungskosten nach dem Wrackbeseitigungsübereinkommen
+# § 4 – Versicherungspflicht für Wrackbeseitigungskosten nach dem Wrackbeseitigungsübereinkommen
 
 Der eingetragene Eigentümer eines Schiffes im Sinne des Artikels 1 Absatz 2 des Wrackbeseitigungsübereinkommens mit einer Bruttoraumzahl von mindestens 300, das
 
@@ -62,8 +55,7 @@ hat eine dem Artikel 12 Absatz 1 des Wrackbeseitigungsübereinkommens entspreche
 
 (+++ § 4: Zur Anwendung vgl. § 14 Abs. 1 iVm Bek. v. 12.3.2015 I 320 +++)
 
-
-## § 5 – Nachweis einer Versicherung für die Haftung nach dem Wrackbeseitigungsübereinkommen
+# § 5 – Nachweis einer Versicherung für die Haftung nach dem Wrackbeseitigungsübereinkommen
 
 (1) Das Bestehen einer Versicherung oder sonstigen finanziellen Sicherheit nach § 4 für die Haftung nach dem Wrackbeseitigungsübereinkommen ist durch eine von dem nach Artikel 12 Absatz 2 Satz 2 des Übereinkommens zuständigen Vertragsstaat auszustellende Bescheinigung (Wrackbeseitigungshaftungsbescheinigung) nachzuweisen.
 
@@ -81,15 +73,13 @@ Satz 1 gilt entsprechend für den eingetragenen Eigentümer eines Schiffes, das 
 
 (+++ § 5: Zur Anwendung vgl. § 14 Abs. 1 iVm Bek. v. 12.3.2015 I 320 +++)
 
-
-## § 6 – Nachweis einer Versicherung für die Unfallhaftung von Beförderern in Bezug auf Tod und Körperverletzung von Reisenden auf See
+# § 6 – Nachweis einer Versicherung für die Unfallhaftung von Beförderern in Bezug auf Tod und Körperverletzung von Reisenden auf See
 
 Der Beförderer, der die Beförderung nach Artikel 3 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 1 der Verordnung (EG) Nr. 392/2009 ganz oder teilweise tatsächlich durchführt, hat sicherzustellen, dass die Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit für die Unfallhaftung von Beförderern in Bezug auf Tod und Körperverletzung von Reisenden auf See nach Artikel 3 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 2 der Verordnung (EG) Nr. 392/2009 (Personenhaftungsbescheinigung) an Bord ist. Der Schiffsführer ist verpflichtet, die Personenhaftungsbescheinigung an Bord mitzuführen und der zuständigen Behörde auf Verlangen vorzulegen. Dies gilt auch für die Bescheinigung nach Artikel 3 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 15 der Verordnung (EG) Nr. 392/2009.
 
 (+++ § 6: Zur Anwendung vgl. § 13 +++)
 
-
-## § 7 – Behördliche Maßnahmen
+# § 7 – Behördliche Maßnahmen
 
 (1) Wird
 
@@ -107,8 +97,7 @@ nicht an Bord mitgeführt oder kann sie auf Verlangen nicht vorgelegt werden, so
 
 (+++ § 7 Abs. 1 Nr. 2: Zur Anwendung vgl. § 14 Abs. 1 iVm Bek. v. 12.3.2015 I 320 +++)
 
-
-## § 8 – Behördliche Zuständigkeiten
+# § 8 – Behördliche Zuständigkeiten
 
 (1) § 3 Absatz 3, § 5 Absatz 1 bis 3, die §§ 6 und 7 und Artikel 3 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 2 der Verordnung (EG) Nr. 392/2009 werden durch den Bund ausgeführt.
 
@@ -116,8 +105,7 @@ nicht an Bord mitgeführt oder kann sie auf Verlangen nicht vorgelegt werden, so
 
 (3) Die Wahrnehmung der Aufgaben nach § 3 Absatz 3, § 5 Absatz 3 und den §§ 6 und 7 obliegt der Berufsgenossenschaft für Transport und Verkehrswirtschaft. Die §§ 6 und 9e des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), in der jeweils geltenden Fassung, sind entsprechend anzuwenden.
 
-
-## § 9 – Verordnungsermächtigung
+# § 9 – Verordnungsermächtigung
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen zu erlassen über
 
@@ -129,8 +117,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (+++ § 9 Nr. 1: Zur Anwendung vgl. § 14 Abs. 1 +++)
 
-
-## § 10 – Datenschutzregelung
+# § 10 – Datenschutzregelung
 
 (1) Die zur Ausstellung, Einziehung und Kontrolle der Versicherungsbescheinigungen, Wrackbeseitigungshaftungsbescheinigungen und Personenhaftungsbescheinigungen zuständigen Stellen dürfen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist, die in § 9e Absatz 1 Satz 1 Nummer 1, 3, 7, 8 und 13 des Seeaufgabengesetzes genannten Daten einschließlich personenbezogener Daten auch unter Zuhilfenahme und Auswertung automatischer Schiffsidentifikationssysteme erheben. Sie dürfen nur zu dem in Satz 1 genannten Zweck verarbeitet werden, zu dem sie erhoben worden sind.
 
@@ -140,15 +127,13 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (4) (weggefallen)
 
-
-## § 11 – Strafvorschriften
+# § 11 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird bestraft, wer entgegen Artikel 3 Absatz 1 in Verbindung mit Anhang I Artikel 4bis</sup> Absatz 1 der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24) eine Versicherung oder sonstige finanzielle Sicherheit nicht aufrechterhält.
 
 (2) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
-
-## § 12 – Bußgeldvorschriften
+# § 12 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -172,8 +157,7 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, 
 
 (+++ § 12: Zur Anwendung vgl. § 14 Abs. 1 iVm Bek v. 12.3.2015 I 320 +++)
 
-
-## § 13 – Anwendung der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See
+# § 13 – Anwendung der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von Reisenden auf See
 
 Die Verordnung (EG) Nr. 392/2009 und § 6 sind
 
@@ -183,8 +167,7 @@ Die Verordnung (EG) Nr. 392/2009 und § 6 sind
 
 anzuwenden.
 
-
-## § 14 – Übergangsregelung
+# § 14 – Übergangsregelung
 
 (1) Die §§ 4, 5 und 7 Absatz 1 Nummer 2, § 12, soweit er sich auf die §§ 4 und 5 bezieht, und Rechtsverordnungen auf Grund des § 9 Nummer 1 sind erst ab dem Tag anzuwenden, an dem das Wrackbeseitigungsübereinkommen für die Bundesrepublik Deutschland in Kraft tritt.
 

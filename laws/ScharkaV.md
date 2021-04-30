@@ -1,22 +1,17 @@
-# [ScharkaV] Verordnung zur Bekämpfung der Scharkakrankheit
-
-Ausfertigungsdatum: 07.06.1971
-
+% Verordnung zur Bekämpfung der Scharkakrankheit
+% Ausfertigungsdatum: 07.06.1971
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Nr. 1, 3 bis 5, 7 und 13 des Pflanzenschutzgesetzes vom 10. Mai 1968 (Bundesgesetzbl. I S. 352), geändert durch das Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), wird im Einvernehmen mit dem Bundesminister für Jugend, Familie und Gesundheit mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1
+# § 1
 
 (1) Verfügungsberechtigte und Besitzer von Pflanzen einschließlich abgetrennter Früchte und Samen sind verpflichtet, der zuständigen Behörde das Auftreten und den Verdacht des Auftretens der Scharkakrankheit oder des Erregers dieser Krankheit unter Angabe der Pflanzenart sowie des Standorts und des Umfangs des Bestandes der Pflanzen unverzüglich zu melden. Für Pflanzen, die höchstens drei Jahre lang an ihrem Standort stehen, erstreckt sich die Meldepflicht auch auf ihre Herkunft.
 
 (2) Wer Pflanzen, die der Art nach für die Scharkakrankheit anfällig sind, gewerbsmäßig anzieht oder vertreibt, ist verpflichtet, diese Pflanzen unter Angabe der Art sowie des Standorts der zuständigen Behörde zu melden, wenn sie eine solche Meldung anordnet.
 
-
-## § 2
+# § 2
 
 (1) Verfügungsberechtigte und Besitzer von Pflanzen sind verpflichtet, von der Scharkakrankheit befallene oder des Befalls mit der Scharkakrankheit verdächtige Pflanzen zu vernichten, soweit die zuständige Behörde dies zur Bekämpfung der Scharkakrankheit oder zur Verhütung ihrer Ausbreitung anordnet.
 
@@ -26,13 +21,11 @@ Auf Grund des § 3 Abs. 1 Nr. 1, 3 bis 5, 7 und 13 des Pflanzenschutzgesetzes vo
 
 (4) Die Absätze 1 bis 3 gelten nicht für Früchte.
 
-
-## § 3
+# § 3
 
 Auf Grundstücken, die von der Scharkakrankheit befallen oder des Befalls mit der Scharkakrankheit verdächtig sind, und auf benachbarten Anbauflächen dürfen Pflanzen, die der Art nach für die Scharkakrankheit anfällig sind, nicht angepflanzt oder aufgeschult werden, soweit die zuständige Behörde zur Bekämpfung der Scharkakrankheit das Anpflanzen oder Aufschulen für die Dauer von höchstens einem Jahr verbietet.
 
-
-## § 4
+# § 4
 
 Verfügungsberechtigte und Besitzer von Pflanzen sind verpflichtet, wenn und soweit die zuständige Behörde es zur Bekämpfung der Scharkakrankheit oder zur Verhütung ihrer Ausbreitung anordnet,
 
@@ -40,38 +33,32 @@ Verfügungsberechtigte und Besitzer von Pflanzen sind verpflichtet, wenn und sow
 
 2. Unterlagenaustriebe von Pflanzen, die der Art nach für die Scharkakrankheit anfällig sind, während einer bestimmten Zeit nach der Veredlung an den Pflanzen zu belassen.
 
-
-## § 5
+# § 5
 
 (1) Das Züchten und Halten des Erregers der Scharkakrankheit sowie das Arbeiten mit diesem Schadorganismus sind verboten.
 
 (2) Die zuständige Behörde kann im Einzelfall für wissenschaftliche Untersuchungen, zur Artbestimmung des Schadorganismus und für Züchtungsvorhaben Ausnahmen von Absatz 1 genehmigen, soweit hierdurch die Bekämpfung der Scharkakrankheit nicht beeinträchtigt wird. Vor der Entscheidung ist das Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen, zu hören.
 
-
-## § 6
+# § 6
 
 Ordnungswidrig im Sinne des § 68 Absatz 1 Nummer 3 Buchstabe a des Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 1 Abs. 1 eine Meldung nicht, nicht unverzüglich oder nicht vollständig erstattet,
 
-1a.  
-einer vollziehbaren Anordnung nach § 1 Absatz 2, § 2 Absatz 1, § 3 oder § 4 zuwiderhandelt,
+1a. einer vollziehbaren Anordnung nach § 1 Absatz 2, § 2 Absatz 1, § 3 oder § 4 zuwiderhandelt,
 
 2. entgegen § 2 Abs. 2 befallene oder befallsverdächtige Pflanzen nicht in der vorgeschriebenen oder zugelassenen Weise vernichtet,
 
-2a.  
-einer mit einer Genehmigung nach § 2 Absatz 2 Satz 2 oder § 5 Absatz 2 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
+2a. einer mit einer Genehmigung nach § 2 Absatz 2 Satz 2 oder § 5 Absatz 2 Satz 1 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 3. entgegen § 2 Abs. 3 Satz 1 befallene oder befallsverdächtige Pflanzen von ihrem Standort entfernt oder
 
 4. entgegen § 5 Abs. 1 den Erreger der Scharkakrankheit züchtet oder hält oder mit ihm arbeitet.
 
-
-## § 7
+# § 7
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

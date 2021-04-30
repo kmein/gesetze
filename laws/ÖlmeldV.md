@@ -1,15 +1,11 @@
-# [ÖlmeldV] Verordnung zur Ermittlung der zum Internationalen Entschädigungsfonds für Ölverschmutzungsschäden nach dem Ölschadengesetz beitragspflichtigen Ölmengen  (Ölmeldeverordnung)
-
-Ausfertigungsdatum: 10.06.1996
-
+% Verordnung zur Ermittlung der zum Internationalen Entschädigungsfonds für Ölverschmutzungsschäden nach dem Ölschadengesetz beitragspflichtigen Ölmengen  (Ölmeldeverordnung)
+% Ausfertigungsdatum: 10.06.1996
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 5 Abs. 7 des Ölschadengesetzes vom 30. September 1988 (BGBl. I S. 1770, 1995 I S. 2084) sowie auf Grund des Artikels 7 Abs. 7 des Gesetzes vom 18. März 1975 zu den Internationalen Übereinkommen vom 29. November 1969 über die zivilrechtliche Haftung für Ölverschmutzungsschäden und vom 18. Dezember 1971 über die Errichtung eines Internationalen Fonds zur Entschädigung für Ölverschmutzungsschäden (BGBl. 1975 II S. 301) verordnet das Bundesministerium für Wirtschaft im Einvernehmen mit dem Bundesministerium der Justiz:
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -19,8 +15,7 @@ Im Sinne dieser Verordnung ist
 
 3. Meldepflichtiger jede Person, die nach § 5 Abs. 2 des Ölschadengesetzes verpflichtet ist, Angaben über den Erhalt von Öl zu machen.
 
-
-## § 2 – Inhalt der Meldepflicht
+# § 2 – Inhalt der Meldepflicht
 
 (1) Der Meldepflichtige hat bis spätestens zum 28. Februar eines Jahres folgende Angaben zu machen:
 
@@ -36,22 +31,18 @@ b) die nach einer Seebeförderung in einem Hafen oder Umschlagplatz eines Nichtv
 
 (2) Die Meldung hat auf den vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebenen Vordrucken zu erfolgen.
 
-
-## § 3 – Assoziierungsverhältnis
+# § 3 – Assoziierungsverhältnis
 
 Der Meldepflichtige hat auf Verlangen Auskunft darüber zu erteilen, ob die Voraussetzungen des § 5 Abs. 5 des Ölschadengesetzes vorliegen.
 
-
-## § 4 – Schätzung
+# § 4 – Schätzung
 
 Im Fall der Schätzung des Ölerhalts einer beitragspflichtigen Person nach § 5 Abs. 3 des Ölschadengesetzes soll die Dauer der Nachfrist zwei Wochen nicht überschreiten.
 
-
-## § 5 – Änderungen der Vertragszugehörigkeit
+# § 5 – Änderungen der Vertragszugehörigkeit
 
 Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) teilt den im Vorjahr beitragspflichtigen sowie den sonst für eine Beitragspflicht in Betracht kommenden Personen die Änderung der Vertragszugehörigkeit eines Staates mit.
 
-
-## § 6 – Inkrafttreten, Außerkrafttreten
+# § 6 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

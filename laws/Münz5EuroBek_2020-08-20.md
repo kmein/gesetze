@@ -1,10 +1,7 @@
-# [Münz5EuroBek 2020-08-20] Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Subpolare Zone“)
-
-Ausfertigungsdatum: 20.08.2020
-
+% Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Subpolare Zone“)
+% Ausfertigungsdatum: 20.08.2020
  
-
-## ----
+# ----
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 5-Euro-Sammlermünze „Subpolare Zone“ mit einem türkisfarbenen Kunststoffring prägen zu lassen. Die Münze ist die vierte Ausgabe einer fünfteiligen Serie „Klimazonen der Erde“, in der von 2017 bis 2021 jeweils eine Ausgabe pro Jahr erscheint.
 
@@ -22,13 +19,11 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 Der Entwurf der Bildseite stammt von der Künstlerin Natalie Tekampe aus Egenhofen. Die Wertseite, die für alle Münzen der Serie verwendet wird, wurde von der Künstlerin Stefanie Radtke aus Leipzig gestaltet.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Finanzen
 
-
-## ----
+# ----
 
 (Fundstelle: BGBl. I 2020, 2012)
 

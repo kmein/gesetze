@@ -1,20 +1,15 @@
-# [DIFG] Gesetz zur Errichtung des Sondervermögens „Digitale Infrastruktur“  (Digitalinfrastrukturfondsgesetz - DIFG)
-
-Ausfertigungsdatum: 17.12.2018
-
+% Gesetz zur Errichtung des Sondervermögens „Digitale Infrastruktur“  (Digitalinfrastrukturfondsgesetz - DIFG)
+% Ausfertigungsdatum: 17.12.2018
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
 
-
-## § 1 – Errichtung des Sondervermögens
+# § 1 – Errichtung des Sondervermögens
 
 Es wird ein Sondervermögen des Bundes mit der Bezeichnung „Digitale Infrastruktur“ errichtet.
 
-
-## § 2 – Zweck des Sondervermögens
+# § 2 – Zweck des Sondervermögens
 
 Aus dem Sondervermögen werden geleistet:
 
@@ -24,15 +19,13 @@ Aus dem Sondervermögen werden geleistet:
 
 3. Finanzhilfen an die Länder für gesamtstaatlich bedeutsame Investitionen sowie besondere, mit diesen unmittelbar verbundene, befristete Ausgaben der Länder und Gemeinden (Gemeindeverbände) zur Steigerung der Leistungsfähigkeit der kommunalen digitalen Bildungsinfrastruktur in Schulen.
 
-
-## § 3 – Stellung im Rechtsverkehr
+# § 3 – Stellung im Rechtsverkehr
 
 (1) Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen im Rechtsverkehr handeln, klagen und verklagt werden. Der allgemeine Gerichtsstand des Sondervermögens ist der Sitz der Bundesregierung. Das Bundesministerium der Finanzen verwaltet das Sondervermögen. Es kann sich dabei anderer Bundesbehörden oder Dritter bedienen.
 
 (2) Das Sondervermögen ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten zu trennen.
 
-
-## § 4 – Vermögen des Sondervermögens und Finanzierung
+# § 4 – Vermögen des Sondervermögens und Finanzierung
 
 (1) Dem Sondervermögen fließen die Einnahmen des Bundes zu, die sich
 
@@ -44,13 +37,11 @@ aus bis zum 31. Dezember 2025 erfolgten Frequenzzuteilungen für den drahtlosen 
 
 (2) Das Sondervermögen kann Zuweisungen nach Maßgabe des Haushaltsgesetzes erhalten. Der Bund stellt dem Sondervermögen im Jahr 2018 einen Betrag in Höhe von 2,4 Milliarden Euro zur Verfügung. Der Bund stellt dem Sondervermögen bis 2025 einen Betrag in Höhe von 5 Milliarden Euro, abzüglich der Verwaltungsausgaben der Mobilfunkinfrastrukturgesellschaft, zur Verfügung. Die Mittel dienen dem Ausbau des Mobilfunknetzes in den Bereichen, in denen den Mobilfunkbetreibern keine Ausbauverpflichtung obliegt.
 
-
-## § 5 – Rücklagen
+# § 5 – Rücklagen
 
 Das Sondervermögen kann zur Erfüllung des gesetzlichen Zwecks Rücklagen bilden.
 
-
-## § 6 – Wirtschaftsplan, Haushaltsrecht, Mittelverwendung
+# § 6 – Wirtschaftsplan, Haushaltsrecht, Mittelverwendung
 
 (1) Alle Einnahmen und Ausgaben des Sondervermögens werden in einem Wirtschaftsplan veranschlagt, der für das Jahr 2018 Anlage zu diesem Gesetz ist und ab dem Wirtschaftsjahr 2019 dem Einzelplan 60 als Anlage beizufügen ist. Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. Er wird zusammen mit dem Haushaltsgesetz festgestellt. Der dem Sondervermögen zur Verfügung gestellte Betrag verbleibt bis zur Auszahlung unverzinslich im Kassenbereich des Bundes und wird bedarfsgerecht über das Sondervermögen ausgezahlt.
 
@@ -66,27 +57,22 @@ Finanzhilfen an Länder für gesamtstaatlich bedeutsame Investitionen sowie beso
 
 (4) Einnahmen des Sondervermögens aus § 4 Absatz 1 werden in Höhe von 70 Prozent für die Titelgruppe 01 und in Höhe von 30 Prozent für die Titelgruppe 02 bereitgestellt. Soweit die Maßnahmen der Titelgruppe 02 vollständig finanziert sind, fließen alle Einnahmen des Sondervermögens der Titelgruppe 01 zu.
 
-
-## § 7 – Jahresrechnung
+# § 7 – Jahresrechnung
 
 Das Bundesministerium der Finanzen stellt am Schluss eines jeden Rechnungsjahres die Rechnung über die Einnahmen und Ausgaben des Sondervermögens auf und fügt sie den Übersichten zur Haushaltsrechnung des Bundes bei.
 
-
-## § 8 – Verwaltungskosten
+# § 8 – Verwaltungskosten
 
 Die Kosten für die Verwaltung des Sondervermögens trägt der Bund.
 
-
-## § 9 – Auflösung
+# § 9 – Auflösung
 
 Das Sondervermögen gilt am 31. Dezember des Jahres, in dem seine Mittel nach § 4 für die Erfüllung seiner gesetzlichen Aufgaben vollständig verbraucht sind, als aufgelöst.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Dezember 2018 in Kraft.
 
-
-## Anlage 1 – Wirtschaftsplan des Sondervermögens Digitale Infrastruktur
+# Anlage 1 – Wirtschaftsplan des Sondervermögens Digitale Infrastruktur
 
 (Fundstelle: BGBl. I 2018, 2527)

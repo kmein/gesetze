@@ -1,17 +1,13 @@
-# [BeamtVÜV] Verordnung über beamtenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands  (Beamtenversorgungs-Übergangsverordnung - BeamtVÜV)
-
-Ausfertigungsdatum: 11.03.1991
-
+% Verordnung über beamtenversorgungsrechtliche Übergangsregelungen nach Herstellung der Einheit Deutschlands  (Beamtenversorgungs-Übergangsverordnung - BeamtVÜV)
+% Ausfertigungsdatum: 11.03.1991
  
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung regelt die Versorgung im Sinne des Beamtenversorgungsgesetzes und der hierzu erlassenen Rechts- und Verwaltungsvorschriften, die in der Anlage zu dieser Verordnung aufgeführt sind. Sie gilt für Beamte und Richter, die nach Inkrafttreten des Einigungsvertrages von ihrer ersten Ernennung oder Wiederernennung an in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet) verwendet oder in das Beitrittsgebiet versetzt wurden. Sie gilt nach Maßgabe der §§ 3 und 4 auch für Beamte und Richter aus dem früheren Bundesgebiet sowie für Beamte und Richter im Ruhestand, die im Beitrittsgebiet tätig werden.
 
 (2) Die in Anlage I Kapitel XIX Sachgebiet A Abschnitt III Nr. 9 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1142) sowie die in § 2 Absatz 2 bis 6 genannten Maßgaben gelten nicht für Beamte und Richter, deren Versetzung oder Neuernennung in unmittelbarem zeitlichen Anschluß (§ 85 Abs. 9 des Beamtenversorgungsgesetzes in der ab 1. Januar 1992 geltenden Fassung) an ein öffentlich-rechtliches Dienstverhältnis im früheren Bundesgebiet erfolgt.
 
-
-## § 2 – Maßgaben
+# § 2 – Maßgaben
 
 (1) Das Beamtenversorgungsgesetz gilt unbeschadet der Regelungen in Anlage I Kapitel XIX Sachgebiet A Abschnitt III Nummer 9 des Einigungsvertrags vom 31. August 1990 (BGBl. 1990 II S. 885, 1142) mit den in den folgenden Absätzen bestimmten weiteren Maßgaben.
 
@@ -33,15 +29,13 @@ Ausfertigungsdatum: 11.03.1991
 
 (10) Die Maßgaben der Absätze 2 bis 9 gelten auch für den Fall, dass ein Beamter zu einem Dienstherrn mit Sitz im bisherigen Geltungsbereich des Bundesrechts übertritt.
 
-
-## § 3 – Verwendung von Beamten und Richtern
+# § 3 – Verwendung von Beamten und Richtern
 
 (1) Die Zeit der Verwendung eines Beamten oder eines Richters aus dem früheren Bundesgebiet zum Zwecke der Aufbauhilfe im Beitrittsgebiet wird doppelt als ruhegehaltfähige Dienstzeit berücksichtigt, wenn sie ununterbrochen mindestens ein Jahr gedauert hat.
 
 (2) Die Regelung des Absatzes 1 ist bis zum 31. Dezember 1995 befristet. Sie gilt nicht für eine Verwendung, die nach dem 31. Dezember 1994 beginnt.
 
-
-## § 4 – Verwendung von Beamten und Richtern im Ruhestand
+# § 4 – Verwendung von Beamten und Richtern im Ruhestand
 
 (1) Für Beamte und Richter im Ruhestand, die wegen ihrer besonderen Fachkenntnisse zum Zwecke der Aufbauhilfe im Beitrittsgebiet verwendet werden, findet § 53 des Beamtenversorgungsgesetzes ab dem 3. Oktober 1990 keine Anwendung. Ab dem 1. August 1991 findet § 53 des Beamtenversorgungsgesetzes auf diese Beschäftigungsverhältnisse insoweit Anwendung, als die Summe von Versorgungsbezügen und Verwendungseinkommen eine Höchstgrenze von 130 v. H. der ruhegehaltfähigen Dienstbezüge überschreitet, nach denen sich das Ruhegehalt bemißt. Die erhöhte Höchstgrenze wird ab 1. August 1991 auf die Mindestkürzungsgrenze des § 53 Abs. 2 Nr. 1 des Beamtenversorgungsgesetzes angewandt.
 
@@ -51,11 +45,9 @@ Ausfertigungsdatum: 11.03.1991
 
 (4) Erwirbt ein Beamter oder Richter im Ruhestand infolge einer Verwendung im Beitrittsgebiet neben seinem früheren Versorgungsbezug einen neuen Versorgungsbezug, kann er unwiderruflich auf den neuen Versorgungsbezug verzichten.
 
+# § 5 – (Inkrafttreten)
 
-## § 5 – (Inkrafttreten)
-
-
-## Anlage – (zu § 1 Abs. 1)Verzeichnis der zum Beamtenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften
+# Anlage – (zu § 1 Abs. 1)Verzeichnis der zum Beamtenversorgungsgesetz erlassenen Rechts- und Verwaltungsvorschriften
 
 A. Gesetze
 

@@ -1,10 +1,7 @@
-# [KredAnstWiAG] Gesetz über die Kreditanstalt für Wiederaufbau
-
-Ausfertigungsdatum: 05.11.1948
-
+% Gesetz über die Kreditanstalt für Wiederaufbau
+% Ausfertigungsdatum: 05.11.1948
  
-
-## § 1 – Rechtsform, Bezeichnung, Sitz und Kapital
+# § 1 – Rechtsform, Bezeichnung, Sitz und Kapital
 
 (1) Die Kreditanstalt für Wiederaufbau (Anstalt) ist eine Anstalt des öffentlichen Rechts. Sie hat ihren Sitz in Frankfurt am Main und kann eine Zweigniederlassung in Berlin und in Bonn errichten. Im Geschäfts- und Rechtsverkehr kann sie die Bezeichnung „KfW“ verwenden.
 
@@ -16,13 +13,11 @@ Ausfertigungsdatum: 05.11.1948
 
 (5) Die Anteile am Grundkapital können nicht verpfändet und nur unter den Beteiligten abgetreten werden.
 
-
-## § 1a – Haftung des Bundes
+# § 1a – Haftung des Bundes
 
 Der Bund haftet für die von der Bank aufgenommenen Darlehen und begebenen Schuldverschreibungen, die als Festgeschäfte ausgestalteten Termingeschäfte, die Rechte aus Optionen und andere Kredite an die Anstalt, sowie für Kredite an Dritte, soweit sie von der Anstalt ausdrücklich gewährleistet werden.
 
-
-## § 2 – Aufgaben und Geschäfte
+# § 2 – Aufgaben und Geschäfte
 
 (1) Die Anstalt hat die Aufgabe,
 
@@ -82,8 +77,7 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (4) Die Beschränkungen des Absatzes 3 gelten nicht, soweit es sich um ein Geschäft handelt, an dem ein staatliches Interesse der Bundesrepublik Deutschland besteht und das der Anstalt im Einzelfall von der Bundesregierung zugewiesen wird.
 
-
-## § 3 – Durchführung der Geschäfte
+# § 3 – Durchführung der Geschäfte
 
 (1) Bei der Gewährung von Finanzierungen nach § 2 Abs. 1 Nr. 1 Buchstabe a bis f sind Kreditinstitute oder andere Finanzierungsinstitutionen einzuschalten; mit Zustimmung des Verwaltungsrates können Finanzierungen unmittelbar gewährt werden. Die Finanzierungen nach § 2 Abs. 1 Nr. 1 Buchstabe a bis f werden mittel- und langfristig gewährt; in Ausnahmefällen können sie mit Zustimmung des Verwaltungsrates kurzfristig gewährt werden. Exportfinanzierungen nach § 2 Abs. 1 Nr. 4 Buchstabe b außerhalb von Staaten, in denen nach näherer Bestimmung der Satzung vom 2. Mai 2003 kein ausreichendes Finanzierungsangebot besteht, hat die Anstalt nach näherer Bestimmung der Satzung vom 2. Mai 2003 mit Kreditinstituten oder anderen Finanzierungsinstitutionen gemeinsam durchzuführen. Bei der Durchführung ihrer Geschäfte hat die Anstalt im Verhältnis zu Kreditinstituten oder Finanzierungsinstitutionen das gemeinschaftsrechtliche Diskriminierungsverbot zu beachten.
 
@@ -93,8 +87,7 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (4) Finanzierungen für fremde Rechnung bedürfen nicht der Zustimmung des Verwaltungsrates nach Absatz 1 oder 2.
 
-
-## § 4 – Mittelbeschaffung
+# § 4 – Mittelbeschaffung
 
 (1) Zur Beschaffung der erforderlichen Mittel kann die Anstalt insbesondere Schuldverschreibungen ausgeben und Darlehen aufnehmen.
 
@@ -102,15 +95,13 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (3) Die von der Anstalt ausgegebenen, auf inländische Währung lautenden Schuldverschreibungen sind zur Anlegung von Mündelgeld geeignet.
 
-
-## § 5 – Organe
+# § 5 – Organe
 
 (1) Organe der Anstalt sind der Vorstand und der Verwaltungsrat.
 
 (2) Aufgaben und Befugnisse der Organe regelt, soweit das Gesetz nichts anderes bestimmt, die Satzung.
 
-
-## § 6 – Vorstand
+# § 6 – Vorstand
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die Vorstandsmitglieder werden vom Verwaltungsrat bestellt und abberufen.
 
@@ -124,8 +115,7 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (6) Gegenüber den Mitgliedern des Vorstandes vertritt der Verwaltungsrat, vertreten durch seinen Vorsitzenden, die Anstalt gerichtlich und außergerichtlich.
 
-
-## § 7 – Verwaltungsrat
+# § 7 – Verwaltungsrat
 
 (1) Der Verwaltungsrat der Anstalt besteht aus
 
@@ -151,15 +141,13 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (5) Der Verwaltungsrat kann seine Befugnisse außer in den Fällen des Absatzes 4 Satz 1 und 2 und der §§ 8, 9 und 10 widerruflich auf Ausschüsse übertragen. Das Nähere bestimmt die Satzung.
 
-
-## § 7a – Mittelstandsrat
+# § 7a – Mittelstandsrat
 
 (1) Bei der Kreditanstalt für Wiederaufbau wird ein Mittelstandsrat gebildet. Er besteht aus dem Bundesminister für Wirtschaft und Energie als Vorsitzendem, dem Bundesminister der Finanzen als Stellvertreter des Vorsitzenden, dem Beauftragten der Bundesregierung für den Aufbau Ost, zwei durch den Bundesrat zu benennenden Vertretern, vier weiteren vom Bundesministerium für Wirtschaft und Energie bestellten Mitgliedern und jeweils einem vom Bundesministerium der Finanzen sowie einem vom Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bestellten Mitglied.
 
 (2) Der Mittelstandsrat konkretisiert den staatlichen Auftrag der Mittelstandsbank nach § 2 Abs. 2. Er berät und beschließt über Vorschläge zur Förderung des Mittelstandes unter Berücksichtigung der Gesamtgeschäftsplanung der Anstalt.
 
-
-## § 8 – Satzung
+# § 8 – Satzung
 
 (1) Die Satzung der Anstalt wird vom Vorstand aufgestellt und vom Verwaltungsrat beschlossen. Sie bedarf der Genehmigung der Rechtsaufsicht (§ 12 Abs. 1 Satz 1).
 
@@ -167,8 +155,7 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (3) Die Satzung und ihre Änderungen sind von der Anstalt im Bundesanzeiger zu veröffentlichen.
 
-
-## § 9 – Jahres- und Konzernabschluss
+# § 9 – Jahres- und Konzernabschluss
 
 (1) Auf den Jahresabschluß und den Lagebericht, den Konzernabschluß und den Konzernlagebericht sowie deren Prüfung und Offenlegung sind die §§ 340a bis 340o des Handelsgesetzbuchs entsprechend anzuwenden. Der Abschlußprüfer wird auf Vorschlag des Verwaltungsrats von der Rechtsaufsicht im Einvernehmen mit dem Bundesrechnungshof bestellt.
 
@@ -178,8 +165,7 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (4) Den zuständigen Stellen der Bundesrepublik Deutschland stehen die in § 55 Abs. 2 des Haushaltsgrundsätzegesetzes und in § 112 Abs. 2 der Bundeshaushaltsordnung aufgeführten Rechte zu.
 
-
-## § 10 – Reingewinn
+# § 10 – Reingewinn
 
 (1) Eine Gewinnausschüttung findet nicht statt.
 
@@ -187,22 +173,19 @@ Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind ihr nicht g
 
 (3) Der weitere Reingewinn ist einer gesondert auszuweisenden Rücklage zuzuweisen.
 
-
-## § 11 – Rechtsstellung
+# § 11 – Rechtsstellung
 
 (1) Der Anstalt stehen in bezug auf Besteuerung, Errichtung von Bauten, Unterbringung und Mietverhältnisse über Gebäude die gleichen Rechte wie der Deutschen Bundesbank zu. Die Anstalt ist berechtigt, die Bezeichnungen "Bank" und "Bankengruppe" zu führen.
 
 (2) Die Vorschriften des Handelsgesetzbuchs über die Eintragung in das Handelsregister sind auf die Anstalt nicht anzuwenden.
 
-
-## § 12 – Rechtsaufsicht
+# § 12 – Rechtsaufsicht
 
 Das Bundesministerium der Finanzen übt die Rechtsaufsicht über die Anstalt im Benehmen mit dem Bundesministerium für Wirtschaft und Energie aus. Die Aufsichtsbehörde ist befugt, alle Anordnungen zu treffen, um den Geschäftsbetrieb der Anstalt mit den Gesetzen, der Satzung und den sonstigen Bestimmungen im Einklang zu halten.
 
 (2) Der Nachweis der Befugnis zur Vertretung der Anstalt wird durch eine mit Dienstsiegel versehene Bestätigung des Bundesministeriums der Finanzen geführt.
 
-
-## § 12a – Verordnungsermächtigung; Anordnungsbefugnis
+# § 12a – Verordnungsermächtigung; Anordnungsbefugnis
 
 (1) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen mit dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, dass die folgenden nicht bereits für die Anstalt geltenden bankaufsichtsrechtlichen Vorschriften zur Gewährleistung der Durchführung eines ordnungsgemäßen Geschäftsbetriebs der Anstalt auf die Anstalt und die zu bildende Institutsgruppe, Finanzholding-Gruppe oder gemischte Finanzholding-Gruppe ganz oder teilweise entsprechend anzuwenden sind:
 
@@ -262,19 +245,16 @@ Bei der Bestimmung der entsprechend anzuwendenden bankaufsichtsrechtlichen Vorsc
 
 4. den Organen der gruppenangehörigen Unternehmen nach Nummer 3 und gegenüber den Mitgliedern dieser Organe.
 
-
-## § 12b – Finanzierungen durch ein rechtlich selbständiges Unternehmen
+# § 12b – Finanzierungen durch ein rechtlich selbständiges Unternehmen
 
 Finanzierungen gemäß § 2 Abs. 1 Nr. 4 Satz 3 sind spätestens ab dem 1. Januar 2008 von einem rechtlich selbstständigen Unternehmen ohne öffentliche Unterstützung durchzuführen. Zu diesem Zeitpunkt bereits vereinbarte Finanzierungen dürfen in der Anstalt noch abgewickelt werden.
 
-
-## § 13 – Auflösung
+# § 13 – Auflösung
 
 (1) Die Anstalt kann nur durch Gesetz aufgelöst werden.
 
 (2) Übersteigt im Falle der Auflösung das nach Berichtigung sämtlicher Verbindlichkeiten verbleibende Vermögen den Betrag des eingezahlten Grundkapitals, so ist der Überschuss bis zur Höhe der bei Auflösung der Anstalt ausgewiesenen gesetzlichen Rücklage und der gesondert auszuweisenden Rücklage zunächst zum Ausgleich der Verluste und der Aufwendungen zu verwenden, die dem Bund oder dem ERP-Sondervermögen bei Entwicklungskrediten der Anstalt oder durch die Inanspruchnahme aus Gewährleistungen für solche Kredite entstanden sind. Von dem dann verbleibenden Rest ist ein Betrag bis zur Höhe der bei Auflösung der Anstalt ausgewiesenen, einzelnen Anteilseignern zuzurechnenden Kapitalrücklagen und Sonderrücklagen an die hieraus Berechtigten zu verteilen. Im Übrigen ist das Vermögen im Verhältnis der Anteile am Grundkapital zu verteilen.
 
-
-## § 14 – Inkrafttreten
+# § 14 – Inkrafttreten
 
 Dieses Gesetz tritt mit seiner Verkündung in Kraft.

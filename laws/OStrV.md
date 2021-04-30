@@ -1,13 +1,9 @@
-# [OStrV] Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch künstliche optische Strahlung  (Arbeitsschutzverordnung zu künstlicher optischer Strahlung - OStrV)
-
-Ausfertigungsdatum: 19.07.2010
-
+% Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch künstliche optische Strahlung  (Arbeitsschutzverordnung zu künstlicher optischer Strahlung - OStrV)
+% Ausfertigungsdatum: 19.07.2010
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt zum Schutz der Beschäftigten bei der Arbeit vor tatsächlichen oder möglichen Gefährdungen ihrer Gesundheit und Sicherheit durch optische Strahlung aus künstlichen Strahlungsquellen. Sie betrifft insbesondere die Gefährdungen der Augen und der Haut.
 
@@ -15,8 +11,7 @@ Ausfertigungsdatum: 19.07.2010
 
 (3) Das Bundesministerium der Verteidigung kann für Beschäftigte, für die tatsächliche oder mögliche Gefährdungen ihrer Gesundheit und Sicherheit durch künstliche optische Strahlung bestehen, Ausnahmen von den Vorschriften dieser Verordnung zulassen, soweit öffentliche Belange dies zwingend erfordern, insbesondere für Zwecke der Verteidigung oder zur Erfüllung zwischenstaatlicher Verpflichtungen der Bundesrepublik Deutschland. In diesem Fall ist gleichzeitig festzulegen, wie die Sicherheit und der Gesundheitsschutz der Beschäftigten nach dieser Verordnung auf andere Weise gewährleistet werden können.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Optische Strahlung ist jede elektromagnetische Strahlung im Wellenlängenbereich von 100 Nanometer bis 1 Millimeter. Das Spektrum der optischen Strahlung wird unterteilt in ultraviolette Strahlung, sichtbare Strahlung und Infrarotstrahlung:
 
@@ -48,8 +43,7 @@ Ausfertigungsdatum: 19.07.2010
 
 (12) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende und sonstige in Ausbildungseinrichtungen tätige Personen, die bei ihren Tätigkeiten künstlicher optischer Strahlung ausgesetzt sind, gleich.
 
-
-## § 3 – Gefährdungsbeurteilung
+# § 3 – Gefährdungsbeurteilung
 
 (1) Bei der Beurteilung der Arbeitsbedingungen nach § 5 des Arbeitsschutzgesetzes hat der Arbeitgeber zunächst festzustellen, ob künstliche optische Strahlung am Arbeitsplatz von Beschäftigten auftritt oder auftreten kann. Ist dies der Fall, hat er alle hiervon ausgehenden Gefährdungen für die Gesundheit und Sicherheit der Beschäftigten zu beurteilen. Er hat die auftretenden Expositionen durch künstliche optische Strahlung am Arbeitsplatz zu ermitteln und zu bewerten. Für die Beschäftigten ist in jedem Fall eine Gefährdung gegeben, wenn die Expositionsgrenzwerte nach § 6 überschritten werden. Der Arbeitgeber kann sich die notwendigen Informationen beim Hersteller oder Inverkehrbringer der verwendeten Arbeitsmittel oder mit Hilfe anderer ohne Weiteres zugänglicher Quellen beschaffen. Lässt sich nicht sicher feststellen, ob die Expositionsgrenzwerte nach § 6 eingehalten werden, hat er den Umfang der Exposition durch Berechnungen oder Messungen nach § 4 festzustellen. Entsprechend dem Ergebnis der Gefährdungsbeurteilung hat der Arbeitgeber Schutzmaßnahmen nach dem Stand der Technik festzulegen.
 
@@ -85,8 +79,7 @@ Ausfertigungsdatum: 19.07.2010
 
 (4) Der Arbeitgeber hat die Gefährdungsbeurteilung unabhängig von der Zahl der Beschäftigten vor Aufnahme der Tätigkeit in einer Form zu dokumentieren, die eine spätere Einsichtnahme ermöglicht. In der Dokumentation ist anzugeben, welche Gefährdungen am Arbeitsplatz auftreten können und welche Maßnahmen zur Vermeidung oder Minimierung der Gefährdung der Beschäftigten durchgeführt werden müssen. Der Arbeitgeber hat die ermittelten Ergebnisse aus Messungen und Berechnungen in einer Form aufzubewahren, die eine spätere Einsichtnahme ermöglicht. Für Expositionen durch künstliche ultraviolette Strahlung sind entsprechende Unterlagen mindestens 30 Jahre aufzubewahren.
 
-
-## § 4 – Messungen und Berechnungen
+# § 4 – Messungen und Berechnungen
 
 (1) Der Arbeitgeber hat sicherzustellen, dass Messungen und Berechnungen nach dem Stand der Technik fachkundig geplant und durchgeführt werden. Dazu müssen Messverfahren und -geräte sowie eventuell erforderliche Berechnungsverfahren
 
@@ -96,8 +89,7 @@ Ausfertigungsdatum: 19.07.2010
 
 (2) Die durchzuführenden Messungen können auch eine Stichprobenerhebung umfassen, die für die persönliche Exposition der Beschäftigten repräsentativ ist.
 
-
-## § 5 – Fachkundige Personen, Laserschutzbeauftragter
+# § 5 – Fachkundige Personen, Laserschutzbeauftragter
 
 (1) Der Arbeitgeber hat sicherzustellen, dass die Gefährdungsbeurteilung, die Messungen und die Berechnungen nur von fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber nicht selbst über die entsprechenden Kenntnisse, hat er sich fachkundig beraten zu lassen.
 
@@ -111,15 +103,13 @@ Ausfertigungsdatum: 19.07.2010
 
 Bei der Wahrnehmung seiner Aufgaben arbeitet der Laserschutzbeauftragte mit der Fachkraft für Arbeitssicherheit und dem Betriebsarzt zusammen.
 
-
-## § 6 – Expositionsgrenzwerte für künstliche optische Strahlung
+# § 6 – Expositionsgrenzwerte für künstliche optische Strahlung
 
 (1) Die Expositionsgrenzwerte für inkohärente künstliche optische Strahlung entsprechen den festgelegten Werten im Anhang I der Richtlinie 2006/25/EG des Europäischen Parlaments und des Rates vom 5. April 2006 über Mindestvorschriften zum Schutz von Sicherheit und Gesundheit der Arbeitnehmer vor der Gefährdung durch physikalische Einwirkungen (künstliche optische Strahlung) (19. Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 114 vom 27.4.2006, S. 38) in der jeweils geltenden Fassung.
 
 (2) Die Expositionsgrenzwerte für Laserstrahlung entsprechen den festgelegten Werten im Anhang II der Richtlinie 2006/25/EG des Europäischen Parlaments und des Rates vom 5. April 2006 über Mindestvorschriften zum Schutz von Sicherheit und Gesundheit der Arbeitnehmer vor der Gefährdung durch physikalische Einwirkungen (künstliche optische Strahlung) (19. Einzelrichtlinie im Sinne des Artikels 16 Absatz 1 der Richtlinie 89/391/EWG) (ABl. L 114 vom 27.4.2006, S. 38) in der jeweils geltenden Fassung.
 
-
-## § 7 – Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch künstliche optische Strahlung
+# § 7 – Maßnahmen zur Vermeidung und Verringerung der Gefährdungen von Beschäftigten durch künstliche optische Strahlung
 
 (1) Der Arbeitgeber hat die nach § 3 Absatz 1 Satz 7 festgelegten Schutzmaßnahmen nach dem Stand der Technik durchzuführen, um Gefährdungen der Beschäftigten auszuschließen oder so weit wie möglich zu verringern. Dazu sind die Entstehung und die Ausbreitung künstlicher optischer Strahlung vorrangig an der Quelle zu verhindern oder auf ein Minimum zu reduzieren. Bei der Durchführung der Maßnahmen hat der Arbeitgeber dafür zu sorgen, dass die Expositionsgrenzwerte für die Beschäftigten gemäß § 6 nicht überschritten werden. Technische Maßnahmen zur Vermeidung oder Verringerung der künstlichen optischen Strahlung haben Vorrang vor organisatorischen und individuellen Maßnahmen. Persönliche Schutzausrüstungen sind dann zu verwenden, wenn technische und organisatorische Maßnahmen nicht ausreichen oder nicht anwendbar sind.
 
@@ -145,8 +135,7 @@ Bei der Wahrnehmung seiner Aufgaben arbeitet der Laserschutzbeauftragte mit der 
 
 (4) Werden die Expositionsgrenzwerte trotz der durchgeführten Maßnahmen nach Absatz 1 überschritten, hat der Arbeitgeber unverzüglich weitere Maßnahmen nach Absatz 2 durchzuführen, um die Exposition der Beschäftigten auf einen Wert unterhalb der Expositionsgrenzwerte zu senken. Der Arbeitgeber hat die Gefährdungsbeurteilung nach § 3 zu wiederholen, um die Gründe für die Grenzwertüberschreitung zu ermitteln. Die Schutzmaßnahmen sind so anzupassen, dass ein erneutes Überschreiten der Grenzwerte verhindert wird.
 
-
-## § 8 – Unterweisung der Beschäftigten
+# § 8 – Unterweisung der Beschäftigten
 
 (1) Bei Gefährdungen der Beschäftigten durch künstliche optische Strahlung am Arbeitsplatz stellt der Arbeitgeber sicher, dass die betroffenen Beschäftigten eine Unterweisung erhalten, die auf den Ergebnissen der Gefährdungsbeurteilung beruht und die Aufschluss über die am Arbeitsplatz auftretenden Gefährdungen gibt. Sie muss vor Aufnahme der Beschäftigung, danach in regelmäßigen Abständen, mindestens jedoch jährlich, und sofort bei wesentlichen Änderungen der gefährdenden Tätigkeit erfolgen. Die Unterweisung muss mindestens folgende Informationen enthalten:
 
@@ -166,13 +155,11 @@ Die Unterweisung muss in einer für die Beschäftigten verständlichen Form und 
 
 (2) Können bei Tätigkeiten am Arbeitsplatz die Grenzwerte nach § 6 für künstliche optische Strahlung überschritten werden, stellt der Arbeitgeber sicher, dass die betroffenen Beschäftigten arbeitsmedizinisch beraten werden. Die Beschäftigten sind dabei auch über den Zweck der arbeitsmedizinischen Vorsorgeuntersuchungen zu informieren und darüber, unter welchen Voraussetzungen sie Anspruch auf diese haben. Die Beratung kann im Rahmen der Unterweisung nach Absatz 1 erfolgen. Falls erforderlich, hat der Arbeitgeber den Arzt nach § 7 Absatz 1 der Verordnung zur arbeitsmedizinischen Vorsorge zu beteiligen.
 
-
-## § 9 – Beratung durch den Ausschuss für Betriebssicherheit
+# § 9 – Beratung durch den Ausschuss für Betriebssicherheit
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der Sicherheit und des Gesundheitsschutzes bei künstlicher optischer Strahlung durch den Ausschuss nach § 21 der Betriebssicherheitsverordnung beraten. § 21 Absatz 5 und 6 der Betriebssicherheitsverordnung gilt entsprechend.
 
-
-## § 10 – Ausnahmen
+# § 10 – Ausnahmen
 
 (1) Die zuständige Behörde kann auf schriftlichen Antrag des Arbeitgebers Ausnahmen von den Vorschriften des § 7 zulassen, wenn die Durchführung der Vorschrift im Einzelfall zu einer unverhältnismäßigen Härte führen würde und die Abweichung mit dem Schutz der Beschäftigten vereinbar ist. Diese Ausnahmen können mit Nebenbestimmungen verbunden werden, die unter Berücksichtigung der besonderen Umstände gewährleisten, dass die Gefährdungen, die sich aus den Ausnahmen ergeben können, auf ein Minimum reduziert werden. Die Ausnahmen sind spätestens nach vier Jahren zu überprüfen; sie sind aufzuheben, sobald die Umstände, die sie gerechtfertigt haben, nicht mehr gegeben sind. Der Antrag des Arbeitgebers muss mindestens Angaben enthalten zu
 
@@ -190,8 +177,7 @@ Der Antrag des Arbeitgebers kann in Papierform oder elektronisch übermittelt we
 
 (2) Eine Ausnahme nach Absatz 1 Satz 1 kann auch im Zusammenhang mit Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
 
-
-## § 11 – Straftaten und Ordnungswidrigkeiten
+# § 11 – Straftaten und Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 25 Absatz 1 Nummer 1 des Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -205,8 +191,7 @@ Der Antrag des Arbeitgebers kann in Papierform oder elektronisch übermittelt we
 
 5. entgegen § 5 Absatz 2 Satz 1 einen Laserschutzbeauftragten nicht schriftlich bestellt,
 
-5a.  
-entgegen § 5 Absatz 2 Satz 2 einen Laserschutzbeauftragten bestellt, der nicht über die für seine Aufgaben erforderlichen Fachkenntnisse verfügt,
+5a. entgegen § 5 Absatz 2 Satz 2 einen Laserschutzbeauftragten bestellt, der nicht über die für seine Aufgaben erforderlichen Fachkenntnisse verfügt,
 
 6. entgegen § 7 Absatz 3 Satz 1 einen Arbeitsbereich nicht kennzeichnet,
 

@@ -1,12 +1,7 @@
-# [MTBG] Gesetz über die Berufe in der medizinischen Technologie  (MT-Berufe-Gesetz - MTBG)
-
-Ausfertigungsdatum: 24.02.2021
-
+% Gesetz über die Berufe in der medizinischen Technologie  (MT-Berufe-Gesetz - MTBG)
+% Ausfertigungsdatum: 24.02.2021
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -106,18 +101,17 @@ Ausfertigungsdatum: 24.02.2021
 
  
 
+ 
 
-## §§ 1 bis 68 – (zukünftig in Kraft)
+# §§ 1 bis 68 – (zukünftig in Kraft)
 
 (+++ §§ 1 bis 68: Treten gem. Art. 15 Abs. 1 G v. 3.3.2021 I 274 am 1.1.2023 in Kraft +++)
 
-
-## §§ 70 bis 76 – (zukünftig in Kraft)
+# §§ 70 bis 76 – (zukünftig in Kraft)
 
 (+++ §§ 70 bis 76: Treten gem. Art. 15 Abs. 1 G v. 3.3.2021 I 274 am 1.1.2023 in Kraft +++)
 
-
-## § 69 – Ermächtigung zum Erlass einer Ausbildungs- und Prüfungsverordnung
+# § 69 – Ermächtigung zum Erlass einer Ausbildungs- und Prüfungsverordnung
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, in einer Ausbildungs- und Prüfungsverordnung, die der Zustimmung des Bundesrates bedarf, Folgendes zu regeln:
 

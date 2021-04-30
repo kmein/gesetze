@@ -1,10 +1,7 @@
-# [AusglV] Verordnung über die Einkommensfeststellung nach dem Bundesversorgungsgesetz  (Ausgleichsrentenverordnung - AusglV)
-
-Ausfertigungsdatum: 11.01.1961
-
+% Verordnung über die Einkommensfeststellung nach dem Bundesversorgungsgesetz  (Ausgleichsrentenverordnung - AusglV)
+% Ausfertigungsdatum: 11.01.1961
  
-
-## § 1 – Einkommen
+# § 1 – Einkommen
 
 (1) Einkommen, das bei der Feststellung der Ausgleichsrente zu berücksichtigen ist, sind alle Einkünfte in Geld oder Geldeswert ohne Rücksicht auf ihre Quelle und Rechtsnatur, soweit nicht das Bundesversorgungsgesetz, diese Verordnung oder andere Rechtsvorschriften vorschreiben, daß bestimmte Einkünfte bei der Feststellung der Ausgleichsrente unberücksichtigt bleiben. Dabei ist es unerheblich, ob sie der Steuerpflicht unterliegen oder bei der Bemessung einer anderen Leistung berücksichtigt werden.
 
@@ -34,8 +31,7 @@ Ausfertigungsdatum: 11.01.1961
 
 (4) Die Einkünfte im Sinne des Absatzes 3 Satz 1 und 2 sind getrennt nach den Einkunftsarten des § 2 Abs. 1 des Einkommensteuergesetzes zu ermitteln. Abzüge sind nur insoweit zulässig, als dies in dieser Verordnung oder in anderen Rechtsvorschriften bestimmt ist. Ein Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht vorzunehmen.
 
-
-## § 2 – Nicht zu berücksichtigende Einkünfte
+# § 2 – Nicht zu berücksichtigende Einkünfte
 
 (1) Bei der Feststellung der Ausgleichsrente bleiben unberücksichtigt
 
@@ -115,8 +111,7 @@ Ausfertigungsdatum: 11.01.1961
 
 (2) Ansprüche auf die in Absatz 1 genannten Leistungen bleiben bei der Feststellung der Ausgleichsrente ebenfalls unberücksichtigt.
 
-
-## § 3 – Bewertung von Sachbezügen
+# § 3 – Bewertung von Sachbezügen
 
 (1) Die Bewertung von Einkünften, die nicht in Geld bestehen (Wohnung, Verpflegung, Heizung und sonstige Sachbezüge), richtet sich nach der Sozialversicherungsentgeltverordnung in der jeweils geltenden Fassung; freie Beleuchtung ist nicht zu bewerten. Für die Bewertung der freien Wohnung gilt § 2 Abs. 3 der Sozialversicherungsentgeltverordnung; § 2 Abs. 4 der Sozialversicherungsentgeltverordnung bleibt unberücksichtigt. Die nach den Sätzen 1 und 2 festgelegten Werte sind jeweils in der Zeit vom 1. Juli des Geltungsjahres der Sozialversicherungsentgeltverordnung bis zum 30. Juni des Folgejahres maßgebend. Enthalten die Sachbezüge keine freie Kost, so ist in der Zeit vom 1. Juli 1990 bis 30. Juni 1991 die freie Wohnung mit 28 vom Hundert und die freie Heizung mit 7 vom Hundert und in der Zeit vom 1. Juli 1991 bis 30. Juni 1992 die freie Wohnung mit 31 vom Hundert und die freie Heizung mit 9 vom Hundert des jeweils maßgebenden Wertes nach § 1 Abs. 1 der in diesen Zeiträumen gültigen Sachbezugsverordnungen zu bewerten. Bei der Bewertung sonstiger Sachbezüge ist § 3 Abs. 3 der Sozialversicherungsentgeltverordnung nicht anzuwenden.
 
@@ -126,20 +121,17 @@ Ausfertigungsdatum: 11.01.1961
 
 (4) Absatz 1 gilt nicht, soweit durch den Wert eines Sachguts die Höhe einer Geldleistung festgelegt wird oder ein Sachbezug nach Art und Menge nicht zum Verbrauch durch den Berechtigten, sondern zur Erzielung eines Geldbetrags bestimmt ist. Als Einkommen ist die Geldleistung oder der erzielte Geldbetrag zu berücksichtigen.
 
-
-## § 4 – Unterhaltsansprüche
+# § 4 – Unterhaltsansprüche
 
 (1) Als übrige Einkünfte im Sinne des § 33 Abs. 1 des Bundesversorgungsgesetzes sind bei Schwerbeschädigten auch die Leistungen des Ehegatten oder des Lebenspartners aufgrund eines bürgerlich-rechtlichen Unterhaltsanspruchs zu berücksichtigen. Ist der Unterhalt nicht gerichtlich festgesetzt, so gilt für die Bewertung des Unterhaltsanspruchs, dass der unterhaltspflichtige Ehegatte oder Lebenspartner von seinem Bruttoeinkommen mindestens den Betrag, der in der Anrechnungsverordnung bei Beschädigten der Stufenzahl 170 als Höchstbetrag der übrigen Einkünfte zugeordnet ist, monatlich behält; dabei bleiben Einkünfte der in § 2 genannten Art unberücksichtigt.
 
 (2) Als übrige Einkünfte im Sinne des § 33 Abs. 1 des Bundesversorgungsgesetzes sind ferner die Unterhaltsleistungen des früheren Ehegatten oder Lebenspartners aufgrund eines bürgerlich-rechtlichen Unterhaltsanspruchs zu berücksichtigen.
 
-
-## § 5
+# § 5
 
 (weggefallen)
 
-
-## § 6 – Werbungskosten bei Einkünften aus nichtselbständiger Arbeit
+# § 6 – Werbungskosten bei Einkünften aus nichtselbständiger Arbeit
 
 (1) Bei Einkünften aus nichtselbständiger Arbeit gilt als Bruttoeinkommen im Sinne des § 33 Abs. 1 des Bundesversorgungsgesetzes ein um die nach Maßgabe der Absätze 2 bis 4 ermittelten Werbungskosten verminderter Betrag, soweit der Gesamtbetrag der zu berücksichtigenden Werbungskosten höher ist als 15 Euro monatlich.
 
@@ -159,20 +151,17 @@ für jeden vollen Kilometer, den die Wohnung von der Arbeitsstätte entfernt lie
 
 (4) Ist der Schwerbeschädigte außerhalb des Ortes beschäftigt, an dem er einen eigenen Hausstand unterhält, so sind die durch Führung eines doppelten Haushalts nachweislich entstehenden Mehraufwendungen sowie die unter Ausnutzung bestehender Tarifvergünstigungen entstehenden tatsächlichen Fahrtkosten der zweiten Wagenklasse für wöchentlich eine Familienheimfahrt zu berücksichtigen, sofern nicht zur Abgeltung dieser Mehraufwendungen eine Entschädigung im Sinne des § 2 Nr. 7 gewährt wird. Ein eigener Hausstand ist dann anzunehmen, wenn der Schwerbeschädigte eine Wohnung mit eigener oder selbstbeschaffter Möbelausstattung besitzt. Bei Unverheirateten ist die Unterhaltung eines eigenen Hausstands auch dann anzunehmen, wenn sie nachweislich ganz oder überwiegend die Kosten für einen Haushalt tragen, den sie gemeinsam mit nächsten Angehörigen, insbesondere mit Kindern oder Eltern, führen; die Voraussetzungen sind nur erfüllt, wenn das Finanzamt Mehraufwendungen infolge des doppelten Haushalts als Werbungskosten im Sinne des Einkommensteuergesetzes anerkannt hat oder den Umständen nach anerkennen würde.
 
-
-## § 7
+# § 7
 
 (weggefallen)
 
-
-## § 8 – Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
+# § 8 – Einkünfte aus Land- und Forstwirtschaft, Gewerbebetrieb und selbständiger Arbeit
 
 (1) Bei Einkünften aus Land- und Forstwirtschaft (§§ 13 bis 14 des Einkommensteuergesetzes), aus Gewerbebetrieb (§§ 15 bis 17 des Einkommensteuergesetzes) und aus selbständiger Arbeit (§ 18 des Einkommensteuergesetzes) gelten die Gewinne, die der Veranlagung zur Einkommensteuer zugrunde gelegt worden sind, als Bruttoeinkommen im Sinne des § 33 Abs. 1 des Bundesversorgungsgesetzes. Ein Verlustausgleich zwischen einzelnen Einkunftsarten ist nicht vorzunehmen (§ 1 Abs. 4). Den Gewinnen sind erhöhte Absetzungen nach den §§ 7b bis 7d und 7h bis 7k des Einkommensteuergesetzes, nach den §§ 82a, 82g und 82i der Einkommensteuer-Durchführungsverordnung, nach den §§ 14 bis 15 des Berlinförderungsgesetzes und nach den §§ 7 und 12 des Schutzbaugesetzes hinzuzurechnen, soweit sie die nach § 7 Abs. 1 oder 4 des Einkommensteuergesetzes zulässigen Absetzungen für Abnutzung übersteigen. Ferner sind Sonderabschreibungen nach den §§ 7e bis 7g des Einkommensteuergesetzes, § 3 des Zonenrandförderungsgesetzes, den §§ 76, 81, 82d und 82f der Einkommensteuer-Durchführungsverordnung sowie die nach § 3 des Zonenrandförderungsgesetzes gebildeten Rücklagen hinzuzurechnen. Freibeträge für Veräußerungsgewinne nach den §§ 14, 14a, 16 Abs. 4, § 17 Abs. 3 und § 18 Abs. 3 des Einkommensteuergesetzes und Freibeträge nach § 13 Abs. 3 des Einkommensteuergesetzes sind nicht zu berücksichtigen.
 
 (2) Findet eine Veranlagung zur Einkommensteuer nicht statt, so hat der Schwerbeschädigte die Gewinne nachzuweisen. Ist er hierzu nicht in der Lage, so sind die Gewinne im Benehmen mit dem Finanzamt zu schätzen.
 
-
-## § 9 – Einkünfte von Land- und Forstwirten, deren Gewinne nach Durchschnittsätzen ermittelt werden
+# § 9 – Einkünfte von Land- und Forstwirten, deren Gewinne nach Durchschnittsätzen ermittelt werden
 
 (1) Als Bruttoeinkommen der Land- und Forstwirte, deren Gewinne auf Grund von Vorschriften des Einkommensteuerrechts nach Durchschnittsätzen zu ermitteln sind, gilt abweichend von § 8 die Summe der nach den Absätzen 2 bis 7 ermittelten Einnahmen und einnahmegleichen Werte, vermindert um die nach Absatz 8 abzugsfähigen Belastungen und Ausgaben.
 
@@ -222,22 +211,19 @@ Den Schuldzinsen nach Nummer 1 steht bei gewährter Kapitalabfindung nach den §
 
 (10) Ist der gesamte Betrieb gepachtet, so sind bei der Wertermittlung nach den Absätzen 4 und 5 die für den Verpächter maßgebenden Vergleichswerte anzusetzen; ist der Einheitswert für einzelne zugepachtete Nutzflächen nicht bekannt, so ist vom durchschnittlichen Hektarwert der entsprechenden Nutzung der Eigentumsfläche auszugehen.
 
-
-## § 10 – Einkünfte aus Arbeit bei Familienangehörigen
+# § 10 – Einkünfte aus Arbeit bei Familienangehörigen
 
 (1) Die auf Gewinn gerichtete Arbeit, die von einem Familienangehörigen eines land- oder forstwirtschaftlichen oder gewerblichen Unternehmers oder eines in selbständiger Arbeit Stehenden geleistet wird, gilt als nichtselbständige Arbeit im Sinne des § 19 Abs. 1 Nr. 1 des Einkommensteuergesetzes. Wird keine oder eine unverhältnismäßig geringe Vergütung gewährt, so ist der Wert der Arbeitsleistung unter Berücksichtigung der Gesamtverhältnisse zu schätzen. Dabei dient die einem Gleichaltrigen für eine gleichartige Arbeit gleichen Umfangs in einem fremden Unternehmen ortsüblich gewährte Vergütung als Bewertungsmaßstab. In angemessenem Umfang sind verwertbare Arbeitskraft des Schwerbeschädigten und wirtschaftliche Leistungsfähigkeit des Unternehmens zu berücksichtigen.
 
 (2) Unternehmer im Sinne des Absatzes 1 ist derjenige, für dessen Rechnung das Unternehmen geht.
 
-
-## § 11 – Einkünfte aus Kapitalvermögen
+# § 11 – Einkünfte aus Kapitalvermögen
 
 (1) Einkünfte aus Kapitalvermögen (§ 20 des Einkommensteuergesetzes) sind der Überschuß der Einnahmen über die Werbungskosten (§§ 8 und 9 des Einkommensteuergesetzes). Pauschbeträge nach § 9a des Einkommensteuergesetzes können nicht abgesetzt werden.
 
 (2) Einkünfte im Sinne des Absatzes 1 bleiben unberücksichtigt, soweit sie insgesamt jährlich 307 Euro nicht übersteigen.
 
-
-## § 12 – Einkünfte aus Haus- und Grundbesitz sowie aus Untervermietung
+# § 12 – Einkünfte aus Haus- und Grundbesitz sowie aus Untervermietung
 
 (1) Einkünfte aus Haus- und Grundbesitz sind der Überschuss der jährlichen Einnahmen über die Werbungskostenpauschale. Die Einnahmen bestehen aus der Kaltmiete ohne die umlagefähigen Betriebskosten oder der Pacht. Die von dem Gesamtbetrag der Einnahmen abzusetzende Werbungskostenpauschale beträgt 50 vom Hundert dieses Gesamtbetrages.
 
@@ -245,13 +231,11 @@ Den Schuldzinsen nach Nummer 1 steht bei gewährter Kapitalabfindung nach den §
 
 (3) Als Einkünfte aus der Vermietung möblierter Zimmer sind 20 vom Hundert der Einnahmen nach Absatz 1 Satz 2 anzusetzen; die Abnutzung der Einrichtungsgegenstände ist hierbei berücksichtigt. Bei Untervermietung leeren Wohnraums gelten die erzielten Einnahmen nur insoweit als Einkünfte, als sie die anteilige Kaltmiete nach Absatz 1 Satz 2 übersteigen. Die Absätze 1 und 2 gelten nicht.
 
-
-## § 13
+# § 13
 
 (weggefallen)
 
-
-## § 14 – Anwendung der Vorschriften des ersten Abschnitts
+# § 14 – Anwendung der Vorschriften des ersten Abschnitts
 
 (1) Die Vorschriften der §§ 1 bis 12 gelten entsprechend für Witwen, Witwer, hinterbliebene Lebenspartner und Waisen, soweit sich aus dem Bundesversorgungsgesetz oder den folgenden Bestimmungen nichts anderes ergibt.
 
@@ -261,21 +245,18 @@ Den Schuldzinsen nach Nummer 1 steht bei gewährter Kapitalabfindung nach den §
 
 (4) Bei der Feststellung der nach § 44 Abs. 2 des Bundesversorgungsgesetzes wiederaufgelebten Witwenausgleichsrente gelten Versorgungs- und Rentenansprüche, die sich aus der früheren Ehe oder Lebenspartnerschaft herleiten, auch insoweit als Einkommen, als auf sie Ansprüche aus der neuen Ehe oder Lebenspartnerschaft anzurechnen sind. Dagegen bleiben Leistungen, die sich aus der neuen Ehe oder Lebenspartnerschaft herleiten und nach § 44 Abs. 5 des Bundesversorgungsgesetzes anzurechnen sind, unberücksichtigt.
 
-
-## § 15 – Sondervorschriften für Witwen, Witwer, hinterbliebene Lebenspartner und Waisen
+# § 15 – Sondervorschriften für Witwen, Witwer, hinterbliebene Lebenspartner und Waisen
 
 (1) Entstehen während der beruflichen Abwesenheit einer Witwe, eines Witwers oder eines hinterbliebenen Lebenspartners Kosten durch die Bewahrung von Kindern bis zum Ende der Volksschulpflicht oder von körperlich oder geistig gebrechlichen Kindern, so gilt als Bruttoeinkommen ein um die notwendigen Aufwendungen verminderter Betrag des unter Berücksichtigung der Vorschriften dieser Verordnung festgestellten Einkommens.
 
 (2) Als übrige Einkünfte im Sinne des § 47 Abs. 2 in Verbindung mit § 33 Abs. 1 des Bundesversorgungsgesetzes gelten bei Waisen auch Leistungen auf Grund eines bürgerlich-rechtlichen Unterhaltsanspruchs gegen die Eltern. Ist ein Unterhaltsbetrag nicht gerichtlich festgesetzt, so ist bei der Bewertung des Anspruchs, ausgenommen beim Anspruch eines nichtehelichen Kindes gegen seinen Vater, davon auszugehen, daß ein Elternteil von seinem Bruttoeinkommen mindestens den Betrag, der in der Anrechnungsverordnung bei Beschädigten der Stufenzahl 170 als Höchstbetrag der übrigen Einkünfte zugeordnet ist, monatlich behält. Dabei bleiben Einkünfte der in § 2 genannten Art unberücksichtigt; § 14 Abs. 2 findet Anwendung. Der in Satz 2 genannte Betrag erhöht sich für jedes weitere unterhaltsberechtigte Kind um den Betrag, der in der Anrechnungsverordnung bei Beschädigten der Stufenzahl 5 als Höchstbetrag der übrigen Einkünfte zugeordnet ist.
 
-
-## § 16
+# § 16
 
 (1) Die Vorschriften der §§ 1 bis 12 gelten entsprechend für Eltern, soweit sich aus dem Bundesversorgungsgesetz oder den folgenden Bestimmungen nichts anderes ergibt.
 
 (2) § 2 Abs. 1 Nr. 10 gilt nur insoweit, als § 55 Abs. 1 Satz 1 Buchstabe c des Bundesversorgungsgesetzes nicht entgegensteht.
 
-
-## Anlage – zu § 3  Vorschriften zur Bestimmung des Wertes von Sachbezügen
+# Anlage – zu § 3  Vorschriften zur Bestimmung des Wertes von Sachbezügen
 
 \-

@@ -1,15 +1,11 @@
-# [SaAusbV 2005] Verordnung über die Berufsausbildung zum Sattler/zur Sattlerin
-
-Ausfertigungsdatum: 23.03.2005
-
+% Verordnung über die Berufsausbildung zum Sattler/zur Sattlerin
+% Ausfertigungsdatum: 23.03.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, und des § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Sattler/Sattlerin wird
 
@@ -19,8 +15,7 @@ Der Ausbildungsberuf Sattler/Sattlerin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
@@ -32,13 +27,11 @@ Die Ausbildung dauert drei Jahre. Es kann zwischen den Fachrichtungen
 
 gewählt werden.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 8 bis 11 nachzuweisen.
 
-
-## § 4 – Ausbildungsberufsbild
+# § 4 – Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -96,34 +89,28 @@ b) Vorrichten von Außen- und Innenmaterialien,
 
 c) Herstellen und Reparieren von Lederwaren.
 
-
-## § 5 – Ausbildungsrahmenplan
+# § 5 – Ausbildungsrahmenplan
 
 Die in § 4 genannten Fertigkeiten und Kenntnisse sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhaltes ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 6 – Ausbildungsplan
+# § 6 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplanes für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 7 – Berichtsheft
+# § 7 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 8 – Zwischenprüfung
+# § 8 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
 (2) Die Zwischenprüfung erstreckt sich auf die in der Anlage für die ersten 18 Monate aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
 (3) Der Prüfling soll in insgesamt höchstens sechs Stunden eine Arbeitsaufgabe, die einem Kundenauftrag entspricht, durchführen. Hierfür kommt insbesondere in Betracht:  
-Bearbeiten eines Werkstücks aus Leder oder anderen Materialien einschließlich Anfertigen von Schablonen, Zuschneiden von Werkstoffen und Zusammenfügen unter Anwendung von Nähtechniken.  
-Bei der Durchführung der Arbeitsaufgabe soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
+Bearbeiten eines Werkstücks aus Leder oder anderen Materialien einschließlich Anfertigen von Schablonen, Zuschneiden von Werkstoffen und Zusammenfügen unter Anwendung von Nähtechniken. Bei der Durchführung der Arbeitsaufgabe soll der Prüfling zeigen, dass er die Arbeitsschritte planen, Arbeitsmittel festlegen, technische Unterlagen nutzen sowie Anforderungen der Sicherheit und des Gesundheitsschutzes bei der Arbeit, des Umweltschutzes und der Wirtschaftlichkeit berücksichtigen kann.
 
-
-## § 9 – Abschlussprüfung/Gesellenprüfung in der Fachrichtung Fahrzeugsattlerei
+# § 9 – Abschlussprüfung/Gesellenprüfung in der Fachrichtung Fahrzeugsattlerei
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -171,8 +158,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht wurden. Innerhalb der schriftlichen Prüfung müssen in zwei der Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht werden.
 
-
-## § 10 – Abschlussprüfung/Gesellenprüfung in der Fachrichtung Reitsportsattlerei
+# § 10 – Abschlussprüfung/Gesellenprüfung in der Fachrichtung Reitsportsattlerei
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -220,8 +206,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht wurden. Innerhalb der schriftlichen Prüfung müssen in zwei der Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht werden.
 
-
-## § 11 – Abschlussprüfung/Gesellenprüfung in der Fachrichtung Feintäschnerei
+# § 11 – Abschlussprüfung/Gesellenprüfung in der Fachrichtung Feintäschnerei
 
 (1) Die Abschlussprüfung/Gesellenprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -267,33 +252,27 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und 
 
 (7) Die Prüfung ist bestanden, wenn jeweils im praktischen und schriftlichen Teil der Prüfung mindestens ausreichende Leistungen erbracht sind. Innerhalb der schriftlichen Prüfung müssen in zwei der Prüfungsbereiche nach Absatz 3 mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich dürfen keine ungenügenden Leistungen erbracht werden.
 
-
-## § 11a – Fortsetzung der Berufsausbildung
+# § 11a – Fortsetzung der Berufsausbildung
 
 Nach erfolgreichem Abschluss der Berufsausbildung zur Fachkraft für Lederverarbeitung nach der Verordnung über die Berufsausbildung zur Fachkraft für Lederverarbeitung vom 14. Februar 2011 (BGBl. I S. 255) kann die Ausbildungsdauer einer Berufsausbildung zum Sattler oder zur Sattlerin um ein Jahr verkürzt werden.
 
-
-## § 12 – Nichtanwendung von Vorschriften
+# § 12 – Nichtanwendung von Vorschriften
 
 Die bisher festgelegten Berufsbilder, Berufsbildungspläne und Prüfungsanforderungen für die Ausbildungsberufe Feinsattler/Feinsattlerin, Feintäschner/Feintäschnerin, Täschner/Täschnerin sind vorbehaltlich des § 13 nicht mehr anzuwenden.
 
-
-## § 13 – Übergangsregelung
+# § 13 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 13a – Weitere Übergangsvorschrift
+# § 13a – Weitere Übergangsvorschrift
 
 Berufsausbildungsverhältnisse, die bis zum Ablauf des 31. Juli 2011 begründet wurden, können unter Anrechnung der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser Verordnung fortgesetzt werden, wenn die Vertragsparteien dies vereinbaren.
 
-
-## § 14 – Inkrafttreten, Außerkrafttreten
+# § 14 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
-
-## Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Sattler/zur Sattlerin
+# Anlage – (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Sattler/zur Sattlerin
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 918 - 923;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)

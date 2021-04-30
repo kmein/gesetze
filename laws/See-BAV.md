@@ -1,10 +1,7 @@
-# [See-BAV] Verordnung über die Berufsausbildung in der Seeschifffahrt  (See-Berufsausbildungsverordnung - See-BAV)
-
-Ausfertigungsdatum: 10.09.2013
-
+% Verordnung über die Berufsausbildung in der Seeschifffahrt  (See-Berufsausbildungsverordnung - See-BAV)
+% Ausfertigungsdatum: 10.09.2013
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund
 
@@ -14,10 +11,7 @@ des § 92 des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868) im Einverne
 –  
 des § 9 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2 und mit Absatz 2 Satz 3 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), von denen § 9 Absatz 1 Satz 1 Nummer 3 zuletzt durch Artikel 2 Absatz 1 Nummer 6 des Gesetzes vom 20. April 2013 (BGBl. I S. 868) neu gefasst, § 9 Absatz 1 Satz 2 zuletzt durch Artikel 2 Nummer 9 des Gesetzes vom 4. Juni 2013 (BGBl. I S. 1471) geändert und § 9 Absatz 2 Satz 3 durch Artikel 2 Absatz 1 Nummer 6 des Gesetzes vom 20. April 2013 (BGBl. I S. 868) eingefügt worden ist, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -25,8 +19,9 @@ des § 9 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2 und mit Absatz 2 Satz
 
  
 
+ 
 
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) „STCW-Übereinkommen“ bedeutet das Internationale Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II S. 297, 298) in der jeweils geltenden Fassung.
 
@@ -34,13 +29,11 @@ des § 9 Absatz 1 Satz 1 Nummer 3 in Verbindung mit Satz 2 und mit Absatz 2 Satz
 
 (3) „Unterstützungsebene“ bezeichnet die Verantwortungsebene, zu der typischerweise gehört, dass ein Besatzungsmitglied nach Weisung des Kapitäns oder eines Schiffsoffiziers zugewiesene Aufgaben, Pflichten und Verantwortung wahrnimmt.
 
-
-## § 2 – Berufsbezeichnung, staatliche Anerkennung
+# § 2 – Berufsbezeichnung, staatliche Anerkennung
 
 Der Ausbildungsberuf in der Seeschifffahrt „Schiffsmechaniker“ oder „Schiffsmechanikerin“ ist staatlich anerkannt.
 
-
-## § 3 – Aufgaben der zuständigen Stelle
+# § 3 – Aufgaben der zuständigen Stelle
 
 Die Berufsbildungsstelle Seeschifffahrt e. V.
 
@@ -54,8 +47,7 @@ Die Berufsbildungsstelle Seeschifffahrt e. V.
 
 5. unterstützt das Bundesamt für Seeschifffahrt und Hydrographie bei der Anerkennung von ausländischen Befähigungszeugnissen und Befähigungsnachweisen, soweit Facharbeiterberufe des Decksdienstes oder des Maschinendienstes betroffen sind.
 
-
-## § 4 – Ausbildungsdauer
+# § 4 – Ausbildungsdauer
 
 (1) Die Berufsausbildung dauert drei Jahre.
 
@@ -63,8 +55,7 @@ Die Berufsbildungsstelle Seeschifffahrt e. V.
 
 (3) Wird die Berufsausbildung in einem Ausbildungsjahr um mehr als acht Wochen unterbrochen, so verlängert sich die Ausbildung in dem entsprechenden Ausbildungsjahr um den Zeitraum der Unterbrechung.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind die folgenden Fertigkeiten, Kenntnisse und Fähigkeiten:
 
@@ -102,13 +93,11 @@ f) Wartung und Instandsetzung,
 
 g) Bearbeiten von Metallen.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen nach der in der Anlage 1 enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) so vermittelt werden, dass Auszubildende zur Ausübung einer qualifizierten beruflichen Tätigkeit befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren am Arbeitsplatz einschließt. Diese Befähigung ist auch in den Prüfungen nach den §§ 14 und 15 nachzuweisen.
 
-
-## § 7 – Ausbilder, Ausbildender
+# § 7 – Ausbilder, Ausbildender
 
 (1) Zum Ausbilder oder zur Ausbilderin (Ausbilder) können unbeschadet der sich aus den nachstehenden Vorschriften ergebenden Anforderungen nur Schiffsoffiziere und Schiffsmechaniker bestellt werden, die auf folgenden Teilgebieten der Berufs- und Arbeitspädagogik eine Ausbildung nachweisen:
 
@@ -142,8 +131,7 @@ Die in § 5 genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen nach der 
 
 Eine angemessene Zeit der praktischen Tätigkeit ist gegeben, wenn zu erwarten ist, dass der Ausbilder auf Grund seiner persönlichen und beruflichen Reife in der Lage ist, einem Auszubildenden die für den Ausbildungsberuf erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten zu vermitteln.
 
-
-## § 8 – Ausbildungsstätte Schiff
+# § 8 – Ausbildungsstätte Schiff
 
 Ein Schiff ist als Ausbildungsstätte von der zuständigen Stelle als Ausbildungsstätte anzuerkennen, wenn die folgenden Anforderungen erfüllt werden:
 
@@ -157,8 +145,7 @@ Ein Schiff ist als Ausbildungsstätte von der zuständigen Stelle als Ausbildung
 
 5. an Bord des Schiffes sind mindestens zwei deutschsprachige Ausbilder im Sinne des § 7 vorhanden, die ausdrücklich mit der Durchführung der Ausbildung an Bord beauftragt sind, von denen einer ein Schiffsmechaniker sein soll.
 
-
-## § 9 – Eignung der Ausbildungsstätten
+# § 9 – Eignung der Ausbildungsstätten
 
 (1) Auszubildende dürfen nur eingestellt und ausgebildet werden, wenn
 
@@ -178,8 +165,7 @@ Ein Schiff ist als Ausbildungsstätte von der zuständigen Stelle als Ausbildung
 
 (6) Vor der Untersagung sind die Beteiligten nach Maßgabe des § 28 des Verwaltungsverfahrensgesetzes zu hören.
 
-
-## § 10 – Berufsausbildung außerhalb der Ausbildungsstätte
+# § 10 – Berufsausbildung außerhalb der Ausbildungsstätte
 
 (1) Die zuständige Stelle überwacht die Durchführung der überbetrieblichen Ausbildung auf der Grundlage des Ausbildungsrahmenplans, soweit die erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten nicht in vollem Umfang in der Ausbildungsstätte vermittelt werden können. Die Ausbildung außerhalb der Ausbildungsstätte ist unter Beachtung der Pflicht der Auszubildenden zum Besuch des Berufsschulunterrichts zu gestalten.
 
@@ -193,8 +179,7 @@ Ein Schiff ist als Ausbildungsstätte von der zuständigen Stelle als Ausbildung
 
 2. in der Brandabwehr und Rettung sowie Gefahrenabwehr 80 Stunden in zwei Wochen.
 
-
-## § 11 – Ausbildungsnachweis
+# § 11 – Ausbildungsnachweis
 
 (1) Der Ausbildungsnachweis dient dem Nachweis der praktischen Ausbildung und Seefahrtzeit nach den Abschnitten A-II/1, A-II/5, A-III/1 und A-III/5 des STCW-Codes in Verbindung mit Regel VII/2 der Anlage zum STCW-Übereinkommen. Er setzt sich zusammen aus dem betrieblichen Ausbildungsplan und dem Tätigkeitsnachweis. Der Ausbildungsnachweis ist von dem Auszubildenden zu unterzeichnen und von den Ausbildern gegenzuzeichnen.
 
@@ -202,13 +187,11 @@ Ein Schiff ist als Ausbildungsstätte von der zuständigen Stelle als Ausbildung
 
 (3) Der Tätigkeitsnachweis ist von dem Auszubildenden als Ausbildungsnachweis handschriftlich zu führen. Ihm ist Gelegenheit zu geben, den Tätigkeitsnachweis während der Arbeitszeit zu führen. Der Tätigkeitsnachweis ist von dem Auszubildenden zu unterzeichnen und von den Ausbildern regelmäßig und spätestens am Ende des Borddienstes der Auszubildenden oder der Ausbilder gegenzuzeichnen.
 
-
-## § 12 – Bordzeugnis
+# § 12 – Bordzeugnis
 
 Ausbilder oder Ausbildende haben Auszubildenden bei jedem Ende des Borddienstes der Auszubildenden oder der Ausbilder ein Bordzeugnis auszustellen, mindestens jedoch ein Zeugnis in jedem Ausbildungsjahr. Es soll Angaben enthalten über Art und Dauer der Berufsausbildung sowie die erworbenen Fertigkeiten, Kenntnisse und Fähigkeiten der Auszubildenden.
 
-
-## § 13 – Abschlussprüfung
+# § 13 – Abschlussprüfung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2 und ist für Auszubildende gebührenfrei. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden Lehrstoff vertraut ist. Die Abschlussprüfung kann zweimal wiederholt werden.
 
@@ -218,8 +201,7 @@ Ausbilder oder Ausbildende haben Auszubildenden bei jedem Ende des Borddienstes 
 
 (4) Nach bestandener Abschlussprüfung ist den Prüflingen ein Abschlusszeugnis nach dem von der zuständigen Stelle bekannt gegebenen Muster auszustellen.
 
-
-## § 14 – Abschlussprüfung Teil 1
+# § 14 – Abschlussprüfung Teil 1
 
 (1) Die Abschlussprüfung Teil 1 soll frühestens drei Monate vor und spätestens drei Monate nach Ablauf der Hälfte der Ausbildungsdauer nach § 4 stattfinden, eine verlängerte Ausbildung nach § 4 Absatz 2 oder 3 ist dabei zu berücksichtigen. Sie erstreckt sich auf die in Anlage 1 für das erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten einschließlich der Anforderungen nach den Abschnitten A-II/4, A-III/4 und A-VI/2 Absatz 1 des STCW-Codes und auf den im Berufsschulunterricht nach dem Rahmenlehrplan zu vermittelnden Lehrstoff.
 
@@ -263,8 +245,7 @@ c) Rettung.
 
 (5) Für den Erwerb der Befähigungsnachweise nach den Regeln II/4, III/4 und VI/2 Absatz 1 der Anlage zum STCW-Übereinkommen müssen die Prüfungsstücke und Arbeitsproben nach Absatz 3 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a und c und Absatz 4 Nummer 1, 2 und 5 mindestens mit jeweils ausreichenden Leistungen bewertet sein.
 
-
-## § 15 – Abschlussprüfung Teil 2
+# § 15 – Abschlussprüfung Teil 2
 
 (1) Zur Abschlussprüfung Teil 2 ist von der zuständigen Stelle zuzulassen:
 
@@ -322,13 +303,11 @@ d) Rettung.
 
 (5) Die schriftliche Prüfung ist auf Antrag des Prüflings oder auf Anordnung des Prüfungsausschusses durch eine mündliche Prüfung in höchstens drei Prüfungsgebieten von jeweils höchstens 25 Minuten Dauer zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die schriftliche Prüfung hat gegenüber der mündlichen das doppelte Gewicht.
 
-
-## § 16 – Prüfungsausschüsse
+# § 16 – Prüfungsausschüsse
 
 Für die Abnahme der Abschlussprüfung Teil 1 und Teil 2 errichtet die zuständige Stelle Prüfungsausschüsse.
 
-
-## § 17 – Zusammensetzung und Berufung eines Prüfungsausschusses
+# § 17 – Zusammensetzung und Berufung eines Prüfungsausschusses
 
 (1) Ein Prüfungsausschuss besteht aus mindestens fünf Mitgliedern. Die Mitglieder müssen für die Prüfungsgebiete sachkundig und für die Mitwirkung im Prüfungswesen geeignet sein.
 
@@ -342,15 +321,13 @@ Für die Abnahme der Abschlussprüfung Teil 1 und Teil 2 errichtet die zuständi
 
 (6) Die Tätigkeit im Prüfungsausschuss ist ehrenamtlich. Für Aufwendungen, die im Zusammenhang mit der Prüfungstätigkeit entstehen, und für Zeitversäumnisse ist, soweit eine Entschädigung nicht von anderer Seite gewährt wird, von der zuständigen Stelle eine angemessene Entschädigung zu zahlen, deren Höhe von der zuständigen Stelle mit Genehmigung des Bundesministeriums für Verkehr und digitale Infrastruktur festgesetzt wird.
 
-
-## § 18 – Vorsitz, Beschlussfähigkeit, Abstimmung des Prüfungsausschusses
+# § 18 – Vorsitz, Beschlussfähigkeit, Abstimmung des Prüfungsausschusses
 
 (1) Der Prüfungsausschuss wählt ein Mitglied, das den Vorsitz führt, und ein weiteres Mitglied, das den Vorsitz stellvertretend übernimmt. Der Vorsitz und das ihn stellvertretende Mitglied sollen nicht derselben Mitgliedergruppe angehören.
 
 (2) Der Prüfungsausschuss ist beschlussfähig, wenn zwei Drittel der Mitglieder, mindestens drei, mitwirken. Er beschließt mit der Mehrheit der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des vorsitzenden Mitglieds den Ausschlag.
 
-
-## § 19 – Anmeldung zur Abschlussprüfung
+# § 19 – Anmeldung zur Abschlussprüfung
 
 (1) Die zuständige Stelle setzt die Prüfungstermine für ein Jahr im Voraus unter Berücksichtigung des Ablaufs der Berufsausbildung und des Schuljahres fest und gibt sie einschließlich der Anmeldefristen in geeigneter Weise rechtzeitig bekannt.
 
@@ -358,8 +335,7 @@ Für die Abnahme der Abschlussprüfung Teil 1 und Teil 2 errichtet die zuständi
 
 (3) Die Zulassung, die Prüfungstermine und der Prüfungsort sind den Prüflingen rechtzeitig mitzuteilen. Eine Zulassung kann von der zuständigen Stelle widerrufen werden, wenn sie auf Grund gefälschter Unterlagen oder falscher Angaben erteilt wurde.
 
-
-## § 20 – Zulassung zur Abschlussprüfung Teil 2 in besonderen Fällen
+# § 20 – Zulassung zur Abschlussprüfung Teil 2 in besonderen Fällen
 
 (1) Zur Abschlussprüfung Teil 2 ist auch zuzulassen, wer nachweist
 
@@ -409,20 +385,17 @@ Zusätzlich zu einer der in Satz 1 bezeichneten Anforderung müssen vom Bewerber
 
 (3) Die Zulassung zur Abschlussprüfung Teil 2 ist in Fällen, in denen die Abschlussprüfung aus Gründen, die weder von den Auszubildenden noch den Ausbildenden zu vertreten sind, erst nach Ablauf der Ausbildungsdauer nach § 4 Absatz 1 durchgeführt werden kann, als genehmigte Verlängerung der Ausbildungsdauer im Sinne des § 4 Absatz 2 zu werten.
 
-
-## § 21 – Prüfungsaufgaben
+# § 21 – Prüfungsaufgaben
 
 (1) Die zuständige Stelle errichtet einen Aufgabenerstellungsausschuss aus Mitgliedern der Prüfungsausschüsse, der für die Arbeitsproben, Prüfungsstücke und sonstigen Prüfungsgebiete Aufgaben entwickelt. Bei Aufgaben, die Ausbildungsnormen nach den Regeln II/5 und III/5 der Anlage zum STCW-Übereinkommen betreffen, ist das Bundesamt für Seeschifffahrt und Hydrographie zu beteiligen.
 
 (2) Der Prüfungsausschuss wählt vor Beginn der Prüfung aus den Aufgaben nach Absatz 1 die zu bearbeitenden Aufgaben aus.
 
-
-## § 22 – Nichtöffentlichkeit der Abschlussprüfungen
+# § 22 – Nichtöffentlichkeit der Abschlussprüfungen
 
 Die Abschlussprüfungen sind nicht öffentlich. Vertreter des Bundesministeriums für Verkehr und digitale Infrastruktur, des Bundesministeriums für Ernährung und Landwirtschaft, des Bundesamtes für Seeschifffahrt und Hydrographie und der zuständigen Stelle können anwesend sein. Der Prüfungsausschuss kann im Einvernehmen mit der zuständigen Stelle die Anwesenheit anderer Personen zulassen. Bei der Beratung über das Prüfungsergebnis dürfen nur die Mitglieder des Prüfungsausschusses anwesend sein.
 
-
-## § 23 – Leitung und Aufsicht der Abschlussprüfungen
+# § 23 – Leitung und Aufsicht der Abschlussprüfungen
 
 (1) Die Abschlussprüfung wird unter Leitung des vorsitzenden Mitglieds vom gesamten Prüfungsausschuss durchgeführt. Der Prüfungsausschuss gibt die erlaubten Arbeits- und Hilfsmittel zu Beginn einer Prüfung bekannt.
 
@@ -436,8 +409,7 @@ Die Abschlussprüfungen sind nicht öffentlich. Vertreter des Bundesministeriums
 
 (6) Soweit Personen mit einer körperlichen, geistigen oder seelischen Beeinträchtigung an der Abschlussprüfung teilnehmen, sind deren besondere Belange bei der Prüfung zu berücksichtigen.
 
-
-## § 24 – Bewertung der Prüfungsleistungen
+# § 24 – Bewertung der Prüfungsleistungen
 
 (1) Die Leistungen in den praktischen und schriftlichen Teilen der Abschlussprüfung werden wie folgt bewertet:
 
@@ -455,8 +427,7 @@ Die Abschlussprüfungen sind nicht öffentlich. Vertreter des Bundesministeriums
 
 (2) Jede Prüfungsleistung ist vom Prüfungsausschuss einzeln zu beurteilen und zu bewerten. Bei den Arbeitsproben erfolgt die Bewertung auf Grund der Berichte nach § 23 Absatz 3 Satz 2.
 
-
-## § 25 – Nichtbestehen und Wiederholung der Abschlussprüfung Teil 2
+# § 25 – Nichtbestehen und Wiederholung der Abschlussprüfung Teil 2
 
 (1) Werden in den schriftlichen Prüfungsgebieten, den einzelnen Arbeitsproben oder Prüfungsstücken von dem Prüfling keine ausreichenden Leistungen erbracht, so sind die nicht bestandenen Prüfungsteile auf Antrag des Prüflings zu wiederholen. Der Antrag muss innerhalb von zwei Jahren nach dem Zeitpunkt der erfolglos abgelegten Prüfung zur Wiederholungsprüfung gestellt werden.
 
@@ -468,8 +439,7 @@ Die Abschlussprüfungen sind nicht öffentlich. Vertreter des Bundesministeriums
 
 (5) Die Vorschriften über die Anmeldung zur Prüfung nach § 19 Absatz 2 gelten entsprechend. Bei der Anmeldung sind Ort und Datum der vorausgegangenen Abschlussprüfung anzugeben.
 
-
-## § 26 – Rücktritt von der Abschlussprüfung, Nichtteilnahme
+# § 26 – Rücktritt von der Abschlussprüfung, Nichtteilnahme
 
 (1) Prüfungsbewerber und Prüfungsbewerberinnen können nach erfolgter Anmeldung vor Beginn der Abschlussprüfung durch schriftliche Erklärung gegenüber der zuständigen Stelle zurücktreten. In diesem Fall gilt die Abschlussprüfung als nicht abgelegt.
 
@@ -479,37 +449,31 @@ Die Abschlussprüfungen sind nicht öffentlich. Vertreter des Bundesministeriums
 
 (4) Über das Vorliegen eines wichtigen Grundes entscheidet der Prüfungsausschuss. Als wichtige Gründe gelten insbesondere Krankheit, Unfall und Todesfall in der Familie.
 
-
-## § 27 – Ordnungsverstöße und Täuschungsversuche, Ausschluss von der Abschlussprüfung
+# § 27 – Ordnungsverstöße und Täuschungsversuche, Ausschluss von der Abschlussprüfung
 
 (1) Der Prüfungsausschuss kann einen Prüfling, der eine ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuchs schuldig gemacht hat, nach dessen Anhörung von der Prüfung ausschließen und die Leistungen in dem betreffenden Prüfungsteil als nicht ausreichend erklären. Eine solche Erklärung ist nach Ablauf von einem Jahr nach Abschluss der Prüfung nicht mehr zulässig.
 
 (2) Der Prüfungsausschuss ist berechtigt, erkennbar unter Alkohol- oder Drogeneinwirkung stehende Prüflinge, insbesondere wenn sie sich selbst oder andere gefährden, nach deren Anhörung von der weiteren Prüfung auszuschließen.
 
-
-## § 28 – Prüfungsunterlagen
+# § 28 – Prüfungsunterlagen
 
 (1) Die zuständige Stelle gewährt Prüflingen auf Anfrage Einsicht in die sie betreffenden Prüfungsunterlagen.
 
 (2) Die schriftlichen Prüfungsarbeiten sind ein Jahr, die Niederschriften nach § 23 Absatz 5 sind zehn Jahre aufzubewahren. Der Ablauf der vorgenannten Fristen wird durch das Einlegen eines Rechtsmittels gehemmt.
 
-
-## § 29 – Übergangsregelung
+# § 29 – Übergangsregelung
 
 Vor dem 15. September 2013 begonnene Ausbildungsverhältnisse können nach bisher geltenden Ausbildungsvorschriften weitergeführt und beendet werden, es sei denn, die Parteien vereinbaren schriftlich die Anwendung dieser Verordnung.
 
+# § 30 – Änderung der Schiffsbesetzungsverordnung
 
-## § 30 – Änderung der Schiffsbesetzungsverordnung
-
-
-## § 31 – Inkrafttreten, Außerkrafttreten
+# § 31 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 15. September 2013 in Kraft.
 
 (2) Gleichzeitig tritt die Schiffsmechaniker-Ausbildungsverordnung vom 12. April 1994 (BGBl. I S. 797), die zuletzt durch Artikel 29 Nummer 4 des Gesetzes vom 25. Juli 2013 (BGBl. I S. 2749) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Schiffsmechaniker und zur Schiffsmechanikerin
+# Anlage 1 – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Schiffsmechaniker und zur Schiffsmechanikerin
 
 (Fundstelle: BGBl. I 2013, 3574 – 3585)
 
@@ -517,8 +481,7 @@ Vor dem 15. September 2013 begonnene Ausbildungsverhältnisse können nach bishe
 
 Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -783,8 +746,7 @@ im 1. Jahr
 
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
-Lfd.  
-Nr.
+Lfd. Nr.
 
 Teil des  
 Ausbildungsberufsbildes
@@ -1803,8 +1765,7 @@ Kehlnähte an Blechen und Rohren aus Stahl schweißen
 
  
 
-
-## Anlage 2 – (zu § 10 Absatz 2)Berufsausbildung außerhalb der Ausbildungsstätte
+# Anlage 2 – (zu § 10 Absatz 2)Berufsausbildung außerhalb der Ausbildungsstätte
 
 (Fundstelle: BGBl. I 2013, 3586 – 3590)
 
@@ -2180,25 +2141,21 @@ Ausbildung im Lichtbogenschweißen, Gasschmelzschweißen und Löten ohne Zertifi
 
  
 
-........................................  
-Name des Auszubildenden
+........................................ Name des Auszubildenden
 
  
 
  
 
-........................................  
- Vorname
+........................................  Vorname
 
  
 
-............................................................  
-Ausbildende Reederei
+............................................................ Ausbildende Reederei
 
  
 
-............................................................  
-Berufsausbildungsvertrag-Nummer beziehungsweise Bezeichnung der Ausbildung
+............................................................ Berufsausbildungsvertrag-Nummer beziehungsweise Bezeichnung der Ausbildung
 
  
 
@@ -2210,23 +2167,19 @@ an der überbetrieblichen Ausbildungsstätte in:
 
  
 
-............................................................  
-an einer 7-wöchigen/11-wöchigen<span id="FnR.FnA3-Fn782450_04"></span><a href="#FnA3-Fn782450_04" class="FnR">*</a></sup> Ausbildung in der Metallbearbeitung teilgenommen.
+............................................................ an einer 7-wöchigen/11-wöchigen<span id="FnR.FnA3-Fn782450_04"></span><a href="#FnA3-Fn782450_04" class="FnR">*</a></sup> Ausbildung in der Metallbearbeitung teilgenommen.
 
  
 
-Bemerkungen: ............................................................  
-..................................................................................
+Bemerkungen: ............................................................ ..................................................................................
 
  
 
-........................................  
-Ort und Datum
+........................................ Ort und Datum
 
  
 
-............................................................  
-Unterschrift und Stempel der überbetrieblichen Ausbildungsstätte
+............................................................ Unterschrift und Stempel der überbetrieblichen Ausbildungsstätte
 
   
   
@@ -2249,8 +2202,7 @@ Nicht Zutreffendes streichen.
 
  
 
-
-## Anlage 3 – (zu § 10 Absatz 3)Berufsausbildung außerhalb der Ausbildungsstätte
+# Anlage 3 – (zu § 10 Absatz 3)Berufsausbildung außerhalb der Ausbildungsstätte
 
 (Fundstelle: BGBl. I 2013, 3591 – 3593)
 

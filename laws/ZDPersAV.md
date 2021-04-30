@@ -1,15 +1,11 @@
-# [ZDPersAV] Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst  (Zivildienst-Personalaktenverordnung - ZDPersAV)
-
-Ausfertigungsdatum: 10.10.2002
-
+% Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst  (Zivildienst-Personalaktenverordnung - ZDPersAV)
+% Ausfertigungsdatum: 10.10.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 36 Abs. 8 des Zivildienstgesetzes in der Fassung der Bekanntmachung vom 28. September 1994 (BGBl. I S. 2811), der durch Artikel 29 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist, verordnet das Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 Diese Verordnung gilt für die Personalakten
 
@@ -17,8 +13,7 @@ Diese Verordnung gilt für die Personalakten
 
 2. der Wehrpflichtigen, der Berufssoldatinnen und Berufssoldaten, der Soldatinnen und Soldaten auf Zeit sowie der Reservistinnen und der Reservisten, die einen Antrag nach § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, sobald dieser Antrag beim Bundesamt für den Zivildienst (Bundesamt) eingegangen ist.
 
-
-## § 2 – Grundakte, Teilakten, Nebenakten
+# § 2 – Grundakte, Teilakten, Nebenakten
 
 (1) Die Personalakte ist nach sachlichen und organisatorischen Gesichtspunkten in Grundakte, Teilakten und Nebenakten gegliedert.
 
@@ -30,8 +25,7 @@ Diese Verordnung gilt für die Personalakten
 
 (5) Nebenakten führen die für die Durchführung des Zivildienstes zuständigen Verwaltungsstellen der Verbände der freien Wohlfahrtspflege, die Zivildienstgruppen des Bundesamtes und die Beschäftigungsstellen. Nebenakten enthalten Unterlagen, die die Durchführung des Zivildienstes (Personalplanung, -führung und -bearbeitung) betreffen, für die Aufgabenerfüllung der Verwaltungsstelle, der Zivildienstgruppe oder der Beschäftigungsstelle erforderlich sind und deren Original oder Doppel sich in der Grundakte oder in einer Teilakte befinden.
 
-
-## § 3 – Tauglichkeitsakte
+# § 3 – Tauglichkeitsakte
 
 (1) Die Tauglichkeitsakte dient der personenbezogenen Dokumentation ärztlicher Unterlagen, die die Tauglichkeit des Zivildienstpflichtigen betreffen.
 
@@ -39,8 +33,7 @@ Diese Verordnung gilt für die Personalakten
 
 (3) Einsicht nehmen dürfen nur die Ärzte und Ärztinnen sowie das sonstige Personal des Ärztlichen Dienstes und des für die Heilfürsorge zuständigen Referats sowie der fachaufsichtlich vorgesetzte Arzt oder die fachaufsichtlich vorgesetzte Ärztin. Wird die Tauglichkeitsakte in einem Rechtsstreit beigezogen, darf auch das für die Durchführung des Rechtsstreits zuständige Personal Einsicht nehmen.
 
-
-## § 4 – Sachakten
+# § 4 – Sachakten
 
 (1) Als Sachakten gehören nicht zu der Personalakte
 
@@ -52,8 +45,7 @@ Diese Verordnung gilt für die Personalakten
 
 (2) Sachakten nach Absatz 1 Nr. 1 und 2 sind von der zuständigen Organisationseinheit des Bundesamtes zu führen.
 
-
-## § 5 – Weitergabe der Personalakte
+# § 5 – Weitergabe der Personalakte
 
 (1) Für die Rückgabe der Personalakte gilt § 12 Abs. 2 bis 4 des Kriegsdienstverweigerungsgesetzes.
 
@@ -61,8 +53,7 @@ Diese Verordnung gilt für die Personalakten
 
 (3) Liegt ein Antrag auf Versorgung nach den §§ 47 bis 48 des Zivildienstgesetzes vor, übersendet das Bundesamt, sofern der Antragsteller einwilligt, dem zuständigen Versorgungsamt eine Ablichtung der Tauglichkeitsakte und der für das Verfahren erforderlichen Teile der Heilfürsorgeakte.
 
-
-## § 6 – Aufbewahrung der Personalakte
+# § 6 – Aufbewahrung der Personalakte
 
 (1) Die Personalakte wird während der Bearbeitung vom zuständigen Personal und im Übrigen in einer Registratur aufbewahrt und vor unbefugter Einsicht geschützt. Vor und nach Ableistung des Zivildienstes wird die Personalakte in der Zentralregistratur des Bundesamtes aufbewahrt.
 
@@ -72,8 +63,7 @@ Diese Verordnung gilt für die Personalakten
 
 (4) Die in den Verwaltungsstellen der Verbände oder den Zivildienstgruppen geführten Nebenakten sind in Registraturen, die nur dem Personal dieser Stellen zugänglich sind, aufzubewahren.
 
-
-## § 7 – Aufbewahrungsfristen; Vernichtung der Personalakte
+# § 7 – Aufbewahrungsfristen; Vernichtung der Personalakte
 
 (1) Die Grundakte und die Tauglichkeitsakte sind bis zum Ablauf des Jahres, in dem die Kriegsdienstverweigerin oder der Kriegsdienstverweigerer das 45. Lebensjahr vollendet hat, aufzubewahren. Danach sind sie dem Bundesarchiv zur Übernahme anzubieten. Grundakte und Tauglichkeitsakte, die vom Bundesarchiv nicht übernommen werden, sind zu vernichten. Im Übrigen gilt § 12 Abs. 2 und 4 des Kriegsdienstverweigerungsgesetzes.
 
@@ -89,8 +79,7 @@ Diese Verordnung gilt für die Personalakten
 
 (7) Erhält das Bundesamt Kenntnis davon, dass ein Zivildienstpflichtiger verstorben ist, ohne versorgungsberechtigte Hinterbliebene zu hinterlassen, ist die Personalakte fünf Jahre nach Ablauf des Todesjahres zu vernichten.
 
-
-## § 8 – Ersetzung der Urschrift
+# § 8 – Ersetzung der Urschrift
 
 (1) Die Grundakte und die Tauglichkeitsakte können nach Vollendung des 32. Lebensjahres des Zivildienstpflichtigen zur Ersetzung der Urschrift mikroverfilmt oder in sonstiger Weise auf Bild- oder andere Datenträger übertragen werden, wenn sichergestellt ist, dass
 
@@ -106,8 +95,7 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (4) Der Datenträger ist zu vernichten, sobald die Voraussetzungen für die Vernichtung der Personalakte nach § 7 für sämtliche auf dem Datenträger gespeicherten Personalunterlagen erfüllt sind.
 
-
-## § 9 – Erhebung, Verarbeitung und Nutzung personenbezogener Daten
+# § 9 – Erhebung, Verarbeitung und Nutzung personenbezogener Daten
 
 (1) Personenbezogene Daten dürfen nur für Zwecke der Durchführung des Zivildienstgesetzes und des Kriegsdienstverweigerungsgesetzes sowie zur Einleitung oder Durchführung von Verfahren zum Widerruf der Anerkennung als Kriegsdienstverweigerer erhoben, verarbeitet oder genutzt werden.
 
@@ -115,8 +103,7 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (3) Das Bundesamt übersendet Zivildienstpflichtigen und sonstigen Personen, die einen Antrag nach § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, auf Antrag eine Zusammenstellung der zu ihrer Person gespeicherten Daten.
 
-
-## § 10 – Zugriff auf gespeicherte personenbezogene Daten
+# § 10 – Zugriff auf gespeicherte personenbezogene Daten
 
 (1) Das Personal des Bundesamtes darf nur auf die gespeicherten personenbezogenen Daten Zugriff haben, die zur Erledigung seiner Aufgaben erforderlich sind.
 
@@ -124,8 +111,7 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (3) Die erforderlichen Kontrollmaßnahmen richten sich nach der Anlage zu § 9 Satz 1 des Bundesdatenschutzgesetzes.
 
-
-## § 11 – Übermittlung personenbezogener Daten durch das Bundesamt
+# § 11 – Übermittlung personenbezogener Daten durch das Bundesamt
 
 (1) Das Bundesamt übermittelt die Entscheidung über den Antrag einer Reservistin oder eines Wehrpflichtigen auf Anerkennung als Kriegsdienstverweigerin oder Kriegsdienstverweigerer an das zuständige Kreiswehrersatzamt. Bei Soldatinnen und Wehrpflichtigen, die Soldaten sind, ist die Entscheidung über den Antrag der oder dem Disziplinarvorgesetzten zu übermitteln.
 
@@ -155,8 +141,7 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (14) Ein automatisierter Abruf personenbezogener Daten ist nicht zulässig.
 
-
-## § 12 – Löschung von Daten
+# § 12 – Löschung von Daten
 
 (1) Für die Löschung automatisiert verarbeiteter personenbezogener Daten von Zivildienstpflichtigen und sonstigen Personen, die einen Antrag nach § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, gelten dieselben Fristen wie für die Vernichtung der entsprechenden Akten.
 
@@ -166,8 +151,7 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (4) Die im Zusammenhang mit der Durchführung von Einführungsdiensten von den Zivildienstschulen gespeicherten personenbezogenen Daten sind spätestens sechs Monate nach Lehrgangsende zu löschen. Die Aufbewahrungsfristen der zahlungsbegründenden Unterlagen für die abgerechneten Einführungslehrgänge bleiben hiervon unberührt. Die im Zusammenhang mit der Durchführung von staatsbürgerlichen Bildungsveranstaltungen gespeicherten personenbezogenen Daten der Teilnehmer sind spätestens ein Jahr nach der letzten Anmeldung zu löschen.
 
-
-## § 13 – Akteneinsicht
+# § 13 – Akteneinsicht
 
 (1) Zivildienstpflichtige und sonstige Personen, die einen Antrag nach § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, können auch nach ihrem Ausscheiden aus dem Zivildienstverhältnis und nach der Entscheidung über den Antrag Einsicht in ihre vollständige Personalakte verlangen. Ihren Bevollmächtigten ist Einsicht zu gewähren, soweit dienstliche Gründe nicht entgegenstehen. Dies gilt auch für Hinterbliebene, wenn ein berechtigtes Interesse glaubhaft gemacht wird. Für Auskünfte aus der Personalakte gelten die Sätze 2 und 3 entsprechend.
 
@@ -175,8 +159,7 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (3) Die Fertigung von Kopien oder Abschriften durch den Antragsteller ist zulässig, soweit dienstliche Gründe nicht entgegenstehen.
 
-
-## § 14 – Auskunftserteilung
+# § 14 – Auskunftserteilung
 
 (1) Auskünfte an Dritte über personenbezogene Daten von Zivildienstpflichtigen und sonstigen Personen, die einen Antrag nach § 2 des Kriegsdienstverweigerungsgesetzes gestellt haben, dürfen nur erteilt werden, wenn
 
@@ -192,12 +175,10 @@ Die Ersetzung der Urschrift ist bei anerkannten Kriegsdienstverweigerinnen und K
 
 (2) Die Betroffenen sind außer im Falle des § 36 Abs. 3 Satz 8 des Zivildienstgesetzes über den Inhalt und den Empfänger oder die Empfängerin der Auskunft schriftlich zu informieren.
 
-
-## § 15 – Entbindung von der ärztlichen Schweigepflicht
+# § 15 – Entbindung von der ärztlichen Schweigepflicht
 
 Personenbezogene medizinische Daten, die im Rahmen der Gewährung der Heilfürsorge oder anlässlich von Nach-, Einstellungs-, Dienstfähigkeits- und Entlassungsuntersuchungen festgestellt werden, dürfen von den medizinischen Einrichtungen, behandelnden oder mit der Erstellung von Gutachten beauftragten Ärzten und Ärztinnen dem Ärztlichen Dienst und dem für die Gewährung der Heilfürsorge zuständigen Personal des Bundesamtes offenbart werden, soweit dies insbesondere zur Beurteilung der Verwendungs- und Dienstfähigkeit des Zivildienstpflichtigen oder zur Abrechnung der Kosten erforderlich ist.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

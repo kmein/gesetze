@@ -1,18 +1,13 @@
-# [TNV] Telekommunikations-Nummerierungsverordnung  (TNV)
-
-Ausfertigungsdatum: 05.02.2008
-
+% Telekommunikations-Nummerierungsverordnung  (TNV)
+% Ausfertigungsdatum: 05.02.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 66 Abs. 4 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), der durch Artikel 2 Nr. 16 des Gesetzes vom 18. Februar 2007 (BGBl. I S. 106) geändert worden ist, verordnet die Bundesregierung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Nummernplan
+# § 1 – Nummernplan
 
 (1) Die Bundesnetzagentur legt in einem Nummernplan für jeden Nummernraum fest, wie dieser strukturiert und ausgestaltet ist. Dazu bestimmt sie insbesondere:
 
@@ -34,8 +29,7 @@ Auf Grund des § 66 Abs. 4 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGB
 
 (3) Vor der Festlegung nach Absatz 1 ist eine öffentliche Anhörung durchzuführen. Hiervon kann in Ausnahmefällen abgesehen werden, insbesondere wenn Maßnahmen zur Strukturierung und Ausgestaltung des Nummernraums im öffentlichen Interesse erfolgen.
 
-
-## § 2 – Nummerierungskonzept
+# § 2 – Nummerierungskonzept
 
 Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung jährlich ein Nummerierungskonzept über die Entwicklungen auf dem Telekommunikationsmarkt und deren Auswirkungen auf den Nummernplan. Das Nummerierungskonzept soll insbesondere enthalten:
 
@@ -51,8 +45,7 @@ Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung jährlich ein
 
 6. konkrete Planungen zu Änderungen des Nummernplans.
 
-
-## § 3 – Änderungen des Nummernplans
+# § 3 – Änderungen des Nummernplans
 
 (1) Die Bundesnetzagentur kann den Nummernplan ganz oder teilweise mit Wirkung für die Zukunft ändern, soweit dies der Erreichung der Ziele der Regulierung nach § 2 Abs. 2 des Telekommunikationsgesetzes dient und unter Berücksichtigung der Belange im Sinne des § 66 Abs. 4 Satz 3 des Telekommunikationsgesetzes erforderlich ist. Die Änderungen sollen sich an dem Nummerierungskonzept orientieren.
 
@@ -60,8 +53,7 @@ Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung jährlich ein
 
 (3) Vor Änderungen des Nummernplans, die nicht bereits vollständig im Nummerierungskonzept beschrieben sind, ist eine öffentliche Anhörung durchzuführen. § 1 Abs. 3 Satz 2 gilt entsprechend.
 
-
-## § 4 – Nummernzuteilung
+# § 4 – Nummernzuteilung
 
 (1) Jede Nutzung von Nummern bedarf einer vorherigen Zuteilung, soweit für den jeweiligen Nummernraum ein Nummernplan erlassen worden ist. Die Allgemeinverfügung nach § 1 ist für den Zuteilungsnehmer auch dann verbindlich, wenn die Zuteilung darauf nicht ausdrücklich Bezug nimmt. Nummern des internationalen Nummernplans, die von internationalen Organisationen vergeben werden, gelten als zugeteilt.
 
@@ -89,8 +81,7 @@ Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung jährlich ein
 
 (9) Sowohl direkte, originäre und allgemeine Zuteilungsnehmer als auch vom originären Zuteilungsnehmer Beauftragte sind für die Nutzung einer Nummer entsprechend der Festlegungen im Nummernplan verantwortlich.
 
-
-## § 5 – Ausgestaltung des Antragsverfahrens
+# § 5 – Ausgestaltung des Antragsverfahrens
 
 (1) Die Bundesnetzagentur kann für Anträge auf Nummernzuteilung eine bestimmte Antragsform festlegen sowie einen Zeitrahmen bestimmen, in dem Anträge vor dem gewünschten Wirksamwerden der Zuteilung gestellt werden können. Antragsform und Zeitrahmen sind entsprechend § 7 zu veröffentlichen.
 
@@ -102,8 +93,7 @@ Die Bundesnetzagentur veröffentlicht nach öffentlicher Anhörung jährlich ein
 
 (5) Die Entscheidung über einen Antrag auf Zuteilung von Nummern soll innerhalb von drei Wochen nach Eingang eines Antrags erfolgen.
 
-
-## § 6 – Besondere Ablehnungsgründe
+# § 6 – Besondere Ablehnungsgründe
 
 Die Bundesnetzagentur kann einen Antrag auf Zuteilung einer Nummer ablehnen,
 
@@ -119,13 +109,11 @@ b) die Einhaltung gesetzlicher Vorschriften und der von ihr erteilten Bedingunge
 
 4. in Fällen von Anträgen auf originäre Zuteilung von Nummern, wenn dem Antragsteller bereits Nummern derselben Nummernart zugeteilt sind, der Anteil der daraus abgeleiteten Zuteilungen nicht das von der Bundesnetzagentur für diese Nummernart im Nummernplan geforderte Maß erreicht hat und der konkrete Bedarf aus den dem Antragsteller originär zugeteilten Nummern gedeckt werden kann.
 
-
-## § 7 – Bekanntmachungen über Zuteilungen
+# § 7 – Bekanntmachungen über Zuteilungen
 
 Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummern bekannt. Sie kann unter Wahrung der berechtigten Interessen der Betroffenen bekannt machen, welche Nummern und Blöcke von Nummern welchem Zuteilungsnehmer direkt oder originär zugeteilt sind. Die Fundstelle der Bekanntmachung ist im Amtsblatt bekannt zu machen.
 
-
-## § 8 – Abgeleitete Zuteilung von Nummern
+# § 8 – Abgeleitete Zuteilung von Nummern
 
 (1) Jedermann hat im Rahmen der für die Nummernzuteilung geltenden Regelungen, einschließlich der dem originären Zuteilungsnehmer von der Bundesnetzagentur auferlegten Verpflichtungen, Anspruch auf diskriminierungsfreie abgeleitete Zuteilung von Nummern.
 
@@ -137,8 +125,7 @@ Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummer
 
 (5) Nummern, die vor dem 1. Januar 1998 vom Anbieter vergeben wurden, gelten als abgeleitet zugeteilt.
 
-
-## § 9 – Rückgabe, Widerruf und Rückfall
+# § 9 – Rückgabe, Widerruf und Rückfall
 
 (1) Direkt oder originär zugeteilte Nummern, die dauerhaft nicht genutzt werden, sind unverzüglich durch schriftliche Erklärung gegenüber der Bundesnetzagentur zurückzugeben.
 
@@ -154,13 +141,11 @@ Die Bundesnetzagentur macht im Internet den Stand der von ihr zugeteilten Nummer
 
 (4) Soweit die Bundesnetzagentur nicht für bestimmte Nummernarten im Nummernplan eine kürzere Frist vorsieht, gelten Nummern als dauerhaft nicht genutzt, wenn sie innerhalb von zwölf Monaten nicht genutzt wurden oder wenn beginnend mit dem Zeitpunkt der Zuteilung oder der letzten Nutzung für zwölf Monate keine Nutzung geplant ist. Ein Block von originär zugeteilten Nummern wird genutzt, wenn mindestens eine Nummer abgeleitet zugeteilt ist und genutzt wird. Eine Nummer wird genutzt, wenn sie ordnungsgemäß in einem öffentlichen Telekommunikationsnetz geschaltet ist und bei ihrer Anwahl ein dem Zweck der Nummer entsprechender Dienst oder eine dem Zweck der Nummer entsprechende Funktion erbracht wird.
 
-
-## § 10 – Datenaustauschverfahren
+# § 10 – Datenaustauschverfahren
 
 Die Bundesnetzagentur kann Anbieter von öffentlichen Telekommunikationsdiensten verpflichten, für einzelne Nummernräume, Nummernbereiche oder Nummernteilbereiche Auskunft über Schaltung, Rufnummernmitnahme nach § 46 des Telekommunikationsgesetzes und Abschaltung von Nummern zu erteilen. Die Auskunftsverpflichtung erstreckt sich nicht auf personenbezogene Daten. An Stelle der Erteilung einer Auskunft kann die Bundesnetzagentur Anbieter von öffentlichen Telekommunikationsdiensten zur Gewährung eines jederzeitigen Zugriffs auf eine Datenbank mit diesen Informationen verpflichten. Die Anforderungen an den Datenaustausch veröffentlicht die Bundesnetzagentur in einer technischen Richtlinie, die sie nach Anhörung der betroffenen Kreise erlässt. Eine Entschädigung für Auskunftsverpflichtungen nach Satz 1 und die Mitwirkung nach Satz 3 wird nicht gewährt.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 149 Abs. 1 Nr. 13 des Telekommunikationsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -170,18 +155,15 @@ Ordnungswidrig im Sinne des § 149 Abs. 1 Nr. 13 des Telekommunikationsgesetzes 
 
 3. entgegen § 4 Abs. 8 Satz 1 oder 2 in einem Telekommunikationsnetz eine Nummer schaltet.
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 Bis zum Erlass eines Nummernplans nach § 1 Abs. 1 gelten die im Amtsblatt des Bundesministeriums für Post und Telekommunikation, der Regulierungsbehörde für Telekommunikation und Post sowie der Bundesnetzagentur veröffentlichten und in der Anlage zu dieser Verordnung aufgelisteten Regelungen, soweit sie Vorgaben zur Strukturierung und Ausgestaltung von Nummernräumen und Nummernbereichen enthalten, als Nummernplan. Nummern, für die kein Nummernplan besteht, dürfen bis zum Erlass eines entsprechenden Nummernplans genutzt werden.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 12)
+# Anlage – (zu § 12)
 
 ( Fundstelle: BGBl. I 2008, 145 - 148 )
 

@@ -1,27 +1,21 @@
-# [PBLEntgV] Postbankleistungsentgeltverordnung  (PBLEntgV)
-
-Ausfertigungsdatum: 13.12.2007
-
+% Postbankleistungsentgeltverordnung  (PBLEntgV)
+% Ausfertigungsdatum: 13.12.2007
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 10 Abs. 2 des Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325, 2353), der zuletzt durch Artikel 2 Nr. 4 des Gesetzes vom 14. September 2005 (BGBl. I S. 2746) geändert worden ist, verordnet das Bundesministerium der Finanzen nach Anhörung des Vorstands der Deutschen Postbank AG im Einvernehmen mit dem Bundesministerium des Innern:
 
-
-## § 1 – Persönlicher Geltungsbereich, leistungsbezogene Entgelte
+# § 1 – Persönlicher Geltungsbereich, leistungsbezogene Entgelte
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen Bank AG beschäftigt sind, kann ein nicht ruhegehaltfähiges leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
-
-## § 2 – Leistungsentgelt
+# § 2 – Leistungsentgelt
 
 (1) Das Leistungsentgelt nach § 1 wird als Jahresbetrag für erzielte Leistungen im abgelaufenen Kalenderjahr gewährt. Seine Höhe wird auf der Grundlage der Zielbewertung nach § 5 oder einer Leistungsbeurteilung nach § 7 ermittelt.
 
 (2) Das Leistungsentgelt wird mit den Dienstbezügen für den Monat Mai des auf den Beurteilungszeitraum folgenden Jahres gezahlt. Beurteilungszeitraum ist grundsätzlich das Kalenderjahr. Das Leistungsentgelt wird nicht auf die Besoldung angerechnet.
 
-
-## § 3 – Leistungsbudget
+# § 3 – Leistungsbudget
 
 (1) Für jede Laufbahngruppe mit Ausnahme derjenigen im Filialvertrieb wird ein Leistungsbudget ermittelt, das 60 Prozent der Summe aller monatlichen Endgrundgehälter und Grundgehälter der zu der jeweiligen Laufbahngruppe gehörenden Beamtinnen und Beamten beträgt. Teilzeitanteile werden zu einem Vollzeitäquivalent zusammengefasst. Stichtag für die Zuordnung zu einer Laufbahngruppe und die Bestimmung der jeweiligen monatlichen Endgrundgehälter und Grundgehälter ist der 31. Dezember des jeweiligen Beurteilungszeitraums.
 
@@ -29,8 +23,7 @@ Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen Bank AG bes
 
 (3) Der Gesamtbetriebsrat wird über die Höhe der nach den Absätzen 1 und 2 ermittelten Leistungsbudgets und die Anzahl der Beamtinnen und Beamten je Leistungsbudget unterrichtet.
 
-
-## § 4 – Ermittlung des Zahlbetrages
+# § 4 – Ermittlung des Zahlbetrages
 
 (1) Zur Ermittlung der auf die einzelnen Beamtinnen und Beamten entfallenden Zahlbeträge wird für jede Laufbahngruppe gesondert jede Beamtin und jeder Beamte entsprechend der jeweiligen Zielbewertungsstufe oder der Leistungsbewertungsstufe mit folgenden Faktoren gewichtet:  
   
@@ -68,8 +61,7 @@ Teilzeitbeschäftigte werden auf Vollzeitbeschäftigte umgerechnet.
 
 (4) Der Anspruch auf Leistungsentgelt vermindert sich für die Zeiten, in denen der Beamtin oder dem Beamten keine Bezüge zugestanden haben. Die Minderung beträgt ein Zwölftel für jeden Kalendermonat, in dem sie oder er nicht mindestens 15 Kalendertage in einem aktiven Beamtenverhältnis gestanden und Bezüge erhalten hat. Die Sätze 1 und 2 sind nicht anzuwenden auf Zeiten nach der Mutterschutz- und Elternzeitverordnung, im Fall von Elternzeit ohne Dienstbezüge jedoch nur auf die Zeit bis zur Vollendung des zwölften Lebensmonats des Kindes. Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen, die die Beamtin oder der Beamte zu vertreten hat, weniger als drei Monate bestanden, ist der Faktor 0,5 nach Absatz 1 anzuwenden.
 
-
-## § 5 – Zielbewertung
+# § 5 – Zielbewertung
 
 (1) Die Zielbewertung erfolgt nach den in § 4 Abs. 1 festgelegten Zielerreichungsstufen entsprechend dem Verhältnis der Zielvereinbarung nach § 6 zur Zielerreichung. Die Zielbewertung muss innerhalb von acht Wochen nach Ablauf des Beurteilungszeitraums abgeschlossen sein und der Beamtin oder dem Beamten im Rahmen eines Gesprächs eröffnet worden sein. Das Gespräch ist von derjenigen oder demjenigen, die oder der die Dienstvorgesetztenbefugnisse wahrnimmt, einer Beauftragten oder einem Beauftragten zu führen. Das Ergebnis der Zielbewertung wird der Beamtin oder dem Beamten auch schriftlich mitgeteilt.
 
@@ -77,8 +69,7 @@ Teilzeitbeschäftigte werden auf Vollzeitbeschäftigte umgerechnet.
 
 (3) Der Gesamtbetriebsrat erhält bis zum 15. April des auf den Beurteilungszeitraum folgenden Kalenderjahres eine auf Laufbahngruppen bezogene Zusammenstellung der erreichten Zielbewertungsstufen in anonymisierter Form.
 
-
-## § 6 – Zielvereinbarung
+# § 6 – Zielvereinbarung
 
 (1) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem Beamten wahrnimmt, schließt mit ihr oder ihm im ersten Quartal des Beurteilungszeitraums schriftlich eine Zielvereinbarung. Dies kann auch durch eine Beauftragte oder einen Beauftragten geschehen. Die Zielvereinbarung nennt drei bis fünf Ziele für den Beurteilungszeitraum. Dies können quantitative, qualitative, individuelle oder Gruppenziele sein. Die Ziele müssen nachvollziehbar, klar zuzuordnen, unmittelbar auf die Tätigkeit bezogen und von der Beamtin oder dem Beamten direkt beeinflussbar sein. Werden Zeile unterschiedlich gewichtet, ist jedes Ziel mit mindestens 20 Prozent und höchstens 40 Prozent zu gewichten. Tritt ein Ereignis ein, das Einfluss auf die Zielbewertung hat und das nicht von der Beamtin oder dem Beamten zu vertreten ist, sind die Ziele und deren Gewichtung nach den Regeln dieser Verordnung einvernehmlich anzupassen. Die Beamtin oder der Beamte erhält über die bis dahin erreichten Ziele ein Zwischenergebnis.
 
@@ -88,8 +79,7 @@ Teilzeitbeschäftigte werden auf Vollzeitbeschäftigte umgerechnet.
 
 (4) Der oder dem Vorsitzenden des örtlichen Betriebsrats und deren oder dessen Stellvertretung werden die Ziele in anonymisierter Form mitgeteilt. Die Deutsche Bank AG kann Ziele ausdrücklich als geheimhaltungsbedürftig kennzeichnen.
 
-
-## § 7 – Leistungsbeurteilung
+# § 7 – Leistungsbeurteilung
 
 (1) Die Leistungsbeurteilung berücksichtigt folgende Kriterien:
 
@@ -109,8 +99,7 @@ Die Leistungsbeurteilung ist unter Verwendung eines Formblatts nach den vorgenan
 
 (3) § 5 Abs. 3 gilt entsprechend.
 
-
-## § 8 – Einigungsverfahren für Zielbewertung und Leistungsbeurteilung
+# § 8 – Einigungsverfahren für Zielbewertung und Leistungsbeurteilung
 
 (1) Die Beamtin oder der Beamte kann gegen die Zielbewertung nach § 5 oder gegen die Leistungsbeurteilung nach § 7 innerhalb einer Ausschlussfrist von zwei Wochen nach ihrer Bekanntgabe schriftlich bei derjenigen oder demjenigen, die oder der die Dienstvorgesetztenbefugnisse wahrnimmt, Gegenvorstellung erheben.
 
@@ -122,13 +111,11 @@ Die Leistungsbeurteilung ist unter Verwendung eines Formblatts nach den vorgenan
 
 (5) Die Einigungskommission tritt auf Verlangen einer Seite unverzüglich auch dann zusammen, wenn in einem Zeitraum von zwei Wochen nach einem Zielvereinbarungsgespräch nach § 6 Abs. 2 Satz 1 keine Zielvereinbarung geschlossen wird. Die Absätze 1 bis 4 gelten entsprechend.
 
-
-## § 9 – Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
+# § 9 – Leistungsentgelt bei nicht zu vertretender Verhinderung an der Dienstverrichtung
 
 Eine Zielbewertung oder Leistungsbeurteilung entfällt, wenn die Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen von ihr oder ihm nicht zu vertretenden Gründen im Beurteilungszeitraum weniger als drei Monate aktiven Dienst verrichtet hat. In diesem Fall gilt die im vorangegangenen Beurteilungszeitraum zuerkannte Ziel- oder Leistungsbewertungsstufe nach § 4 Absatz 1 als erreicht. Ist im vorangegangenen Beurteilungszeitraum keine Zielbewertung oder Leistungsbeurteilung erfolgt, so gilt die Leistungsbewertungsstufe „Erfüllt stets die Anforderungen“ als erreicht.
 
-
-## § 10 – Leistungszulage für Tätigkeiten im Filialbetrieb
+# § 10 – Leistungszulage für Tätigkeiten im Filialbetrieb
 
 (1) Beamtinnen und Beamte, denen eine Tätigkeit im Filialvertrieb zugewiesen ist, erhalten eine monatliche Leistungszulage (Filialzulage).
 

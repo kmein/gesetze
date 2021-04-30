@@ -1,10 +1,7 @@
-# [SVLFÜG] Gesetz zu Übergangsregelungen zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
-
-Ausfertigungsdatum: 12.04.2012
-
+% Gesetz zu Übergangsregelungen zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+% Ausfertigungsdatum: 12.04.2012
  
-
-## § 1 – Übertritt des Personals
+# § 1 – Übertritt des Personals
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau tritt mit Auflösung der bisherigen Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung in die Dienstverhältnisse ein, die zu diesem Zeitpunkt zwischen den Trägern der landwirtschaftlichen Sozialversicherung oder dem Spitzenverband der landwirtschaftlichen Sozialversicherung einerseits und den dort beschäftigten Dienstordnungsangestellten andererseits bestehen. Die §§ 16 bis 19 des Beamtenstatusgesetzes sowie die §§ 134 bis 137 des Bundesbeamtengesetzes gelten entsprechend mit der Maßgabe, dass Dienstordnungsangestellte, die ein Amt der Bundesbesoldungsordnung A wahrnehmen, nur dann in den einstweiligen Ruhestand versetzt werden können, wenn sie der Ruhestandsversetzung zustimmen, das 55. Lebensjahr vollendet haben und ihnen derselbe oder ein gleichwertiger Dienstposten am bisherigen Dienstort nicht angeboten werden kann.
 
@@ -18,13 +15,11 @@ Ausfertigungsdatum: 12.04.2012
 
 (6) Die Neuorganisation ist sozialverträglich umzusetzen. Bei der Aufstellung der neuen Dienstordnung hat die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau einen sozialverträglichen Personalübergang zu gewährleisten; dabei sind die entsprechenden Regelungen für Tarifangestellte zu berücksichtigen.
 
-
-## § 2 – Geschäftsführer
+# § 2 – Geschäftsführer
 
 Die Geschäftsführerin oder der Geschäftsführer und die stellvertretende Geschäftsführerin oder der stellvertretende Geschäftsführer des Spitzenverbandes der landwirtschaftlichen Sozialversicherung, die am 31. Dezember 2012 amtieren, nehmen die Aufgaben der Geschäftsführung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bis zum Ablauf der am 1. Januar 2013 laufenden Wahlperiode der Selbstverwaltungsorgane der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau wahr. Abweichend von Satz 1 können die Geschäftsführerin oder der Geschäftsführer und die stellvertretende Geschäftsführerin oder der stellvertretende Geschäftsführer bis zum 31. März 2013 neu gewählt werden. Scheiden die Geschäftsführerin oder der Geschäftsführer oder die stellvertretende Geschäftsführerin oder der stellvertretende Geschäftsführer vor Eintritt in den Ruhestand aus ihrem Amt aus, ist § 136 des Bundesbeamtengesetzes entsprechend anzuwenden.
 
-
-## § 3 – Sonstige personalrechtliche Übergangsregelungen
+# § 3 – Sonstige personalrechtliche Übergangsregelungen
 
 (1) Für die nach § 1 Absatz 1 übergetretenen Dienstordnungsangestellten gilt die Dienstordnung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung, bis sich die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau eine neue Dienstordnung gegeben hat.
 
@@ -38,13 +33,11 @@ Die Geschäftsführerin oder der Geschäftsführer und die stellvertretende Gesc
 
 (6) Die Amtszeit der Personalvertretungen der bundesunmittelbaren Träger der landwirtschaftlichen Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen Sozialversicherung, deren regelmäßige Amtszeit im Jahr 2012 endet, wird bis zum 31. Dezember 2012 verlängert.
 
-
-## § 4 – Übergangsregelungen zu den Selbstverwaltungsorganen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+# § 4 – Übergangsregelungen zu den Selbstverwaltungsorganen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
 Bis zum Ablauf der am 1. Januar 2013 laufenden Wahlperiode richten sich die Bildung und das Verfahren der Selbstverwaltungsorgane der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau nach den §§ 5 und 6. Im Übrigen gelten die Vorschriften des Ersten und Zweiten Titels des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch.
 
-
-## § 5 – Vertreterversammlung
+# § 5 – Vertreterversammlung
 
 (1) Die Vertreterversammlung besteht aus 81 Mitgliedern. Die Vertreterversammlung tritt spätestens am 31. Januar 2013 zusammen.
 
@@ -62,13 +55,11 @@ Bis zum Ablauf der am 1. Januar 2013 laufenden Wahlperiode richten sich die Bild
 
 Das Nähere bestimmt die Satzung.
 
-
-## § 6 – Vorstand
+# § 6 – Vorstand
 
 Die am 31. Dezember 2012 amtierenden Mitglieder des Vorstandes des Spitzenverbandes der landwirtschaftlichen Sozialversicherung werden Mitglieder des Vorstandes der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau. Die Vertreterversammlung wählt 18 weitere Vorstandsmitglieder. Jede der am 31. Dezember 2012 bestehenden Verwaltungsgemeinschaften von Trägern der landwirtschaftlichen Sozialversicherung ist mit drei Mitgliedern vertreten, die unterschiedlichen Gruppen angehören. Die Mitglieder des Vorstandes müssen je zu einem Drittel der Gruppe der versicherten Arbeitnehmer, der Gruppe der Arbeitgeber und der Gruppe der Selbständigen ohne fremde Arbeitskräfte angehören.
 
-
-## § 7 – Beiräte
+# § 7 – Beiräte
 
 (1) Bei den Geschäftsstellen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau werden für die Dauer der am 1. Januar 2013 laufenden Wahlperiode Regionalbeiräte gebildet. Bei der für die Belange des Gartenbaus zuständigen Geschäftsstelle wird für diesen Zeitraum ein Beirat für den Gartenbau gebildet.
 
@@ -98,8 +89,7 @@ Die am 31. Dezember 2012 amtierenden Mitglieder des Vorstandes des Spitzenverban
 
 (7) Entscheidungen der Selbstverwaltungsorgane der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, die von den Vorschlägen der Beiräte nach Absatz 5 Nummer 3 und Absatz 6 abweichen, bedürfen einer Mehrheit von mindestens 60 Prozent der Stimmen der satzungsmäßigen Mitgliederzahl.
 
-
-## § 8 – Errichtungsausschuss
+# § 8 – Errichtungsausschuss
 
 (1) Zum Aufbau der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau wird ein Errichtungsausschuss gebildet. Die Mitglieder des Vorstandes des Spitzenverbandes der landwirtschaftlichen Sozialversicherung werden Mitglieder des Errichtungsausschusses. Die Vertreterversammlung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung wählt aus ihrer Mitte 18 weitere Mitglieder. Jede Verwaltungsgemeinschaft von Trägern der landwirtschaftlichen Sozialversicherung ist mit drei Mitgliedern vertreten, die unterschiedlichen Gruppen angehören. Die Mitglieder des Errichtungsausschusses müssen je zu einem Drittel der Gruppe der versicherten Arbeitnehmer, der Gruppe der Arbeitgeber und der Gruppe der Selbständigen ohne fremde Arbeitskräfte angehören. Die Geschäftsführerin oder der Geschäftsführer und die stellvertretende Geschäftsführerin oder der stellvertretende Geschäftsführer des Spitzenverbandes der landwirtschaftlichen Sozialversicherung sowie das Bundesministerium für Arbeit und Soziales und das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz gehören dem Errichtungsausschuss mit beratender Stimme an.
 
@@ -119,8 +109,7 @@ Die am 31. Dezember 2012 amtierenden Mitglieder des Vorstandes des Spitzenverban
 
 (4) Der Errichtungsausschuss legt dem Bundesversicherungsamt spätestens am 31. Oktober 2012 den Entwurf der Satzung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau vor.
 
-
-## § 9 – Haushaltsplan 2013
+# § 9 – Haushaltsplan 2013
 
 (1) Für das Haushaltsjahr 2013 wird der Haushaltsplan der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau vom Vorstand des Spitzenverbandes der landwirtschaftlichen Sozialversicherung getrennt für die Versicherungszweige landwirtschaftliche Unfallversicherung, Alterssicherung der Landwirte, landwirtschaftliche Krankenversicherung und landwirtschaftliche Pflegeversicherung aufgestellt. Die Vertreterversammlung des Spitzenverbandes der landwirtschaftlichen Sozialversicherung stellt ihn fest.
 
@@ -128,8 +117,7 @@ Die am 31. Dezember 2012 amtierenden Mitglieder des Vorstandes des Spitzenverban
 
 (3) Der Haushaltsplan der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bedarf der Genehmigung des Bundesversicherungsamtes im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz und dem Bundesministerium für Arbeit und Soziales. Der vom Vorstand des Spitzenverbandes der landwirtschaftlichen Sozialversicherung aufgestellte Haushaltsplan ist spätestens am 1. Oktober 2012 dem Bundesversicherungsamt vorzulegen. Die Aufsichtsbehörde kann die Genehmigung des Haushaltsplans auch für einzelne Ansätze versagen, soweit gegen Gesetz oder sonstiges für den Versicherungsträger maßgebendes Recht verstoßen wird, die Leistungsfähigkeit des Versicherungsträgers zur Erfüllung seiner Verpflichtungen gefährdet wird oder die Bewertungs- oder Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind; die Besonderheiten des Versicherungsträgers sind hierbei zu berücksichtigen.
 
-
-## § 10 – Sondervermögen
+# § 10 – Sondervermögen
 
 (1) Aus dem Vermögen, das nach § 3 Absatz 2 des Gesetzes zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau auf die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau übergegangen ist, werden für eine Übergangszeit bis zum 31. Dezember 2017 für die landwirtschaftliche Unfallversicherung und die landwirtschaftliche Krankenversicherung jeweils getrennte Sondervermögen gebildet. Diese bestehen aus Betriebsmitteln und aus Mitteln der Rücklage. Die Sondervermögen werden den Zuständigkeitsbereichen der am 31. Dezember 2012 bestehenden landwirtschaftlichen Berufsgenossenschaften und landwirtschaftlichen Krankenkassen zugeordnet. Die Verwaltung der Sondervermögen erfolgt durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau nach den für sie geltenden Rechtsvorschriften. Erträge aus den Sondervermögen fließen dem Vermögen der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau zu. Die Sondervermögen dienen den in § 221b Absatz 5 des Siebten Buches Sozialgesetzbuch und § 64 Absatz 6 des Zweiten Gesetzes über die Krankenversicherung der Landwirte genannten Zwecken.
 

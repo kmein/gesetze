@@ -1,15 +1,11 @@
-# [TierErzHaVerbG] Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen  (Tiererzeugnisse-Handels-Verbotsgesetz - TierErzHaVerbG)
-
-Ausfertigungsdatum: 08.12.2008
-
+% Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen  (Tiererzeugnisse-Handels-Verbotsgesetz - TierErzHaVerbG)
+% Ausfertigungsdatum: 08.12.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Aufgabenübertragung
+# § 1 – Aufgabenübertragung
 
 (1) Der Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) obliegt die Durchführung
 
@@ -21,8 +17,7 @@ Im Rahmen der Zuständigkeit nach Satz 1 obliegt der Bundesanstalt auch die Durc
 
 (2) Im Übrigen obliegt die Durchführung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie der Vorschriften der in Absatz 1 bezeichneten Rechtsakte der Europäischen Union den nach Landesrecht zuständigen Behörden (Landesbehörden).
 
-
-## § 2 – Eingriffsbefugnisse
+# § 2 – Eingriffsbefugnisse
 
 (1) Stellt die nach § 1 jeweils zuständige Behörde einen Verstoß gegen
 
@@ -44,8 +39,7 @@ b) zu vernichten ist, soweit ein Zurückbringen nach Buchstabe a nicht möglich 
 
 (3) Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 1 Satz 2 haben keine aufschiebende Wirkung.
 
-
-## § 3 – Pelztiere
+# § 3 – Pelztiere
 
 (1) Pelztiere im Sinne des Absatzes 2 dürfen ohne Erlaubnis der zuständigen Behörde nicht gehalten oder gezüchtet werden. Die Erlaubnis darf nur erteilt werden, soweit
 
@@ -69,8 +63,7 @@ Die §§ 1 und 2 des Tierschutzgesetzes bleiben unberührt. Die Erlaubnis ist au
 
 Für die vorläufige Erlaubnis gelten abweichend von Absatz 3 für die Rücknahme und den Widerruf der Erlaubnis die verwaltungsverfahrensrechtlichen Vorschriften über die Rücknahme und den Widerruf von Verwaltungsakten.
 
-
-## § 4 – Trächtige Tiere
+# § 4 – Trächtige Tiere
 
 Es ist verboten, ein Säugetier, ausgenommen Schafe und Ziegen, das sich im letzten Drittel der Trächtigkeit befindet, zum Zweck der Schlachtung abzugeben. Das Verbot gilt nicht, wenn die Tötung eines solchen Tieres
 
@@ -80,8 +73,7 @@ Es ist verboten, ein Säugetier, ausgenommen Schafe und Ziegen, das sich im letz
 
 Im Falle des Satzes 2 Nummer 2 hat der Tierarzt dem Tierhalter unverzüglich eine Bescheinigung auszuhändigen, aus der sich dessen Voraussetzungen einschließlich der von ihm festgestellten Indikation ergeben. Die Bescheinigung ist vom Tierhalter mindestens drei Jahre aufzubewahren.
 
-
-## § 5 – Auskunfts- und Duldungspflichten
+# § 5 – Auskunfts- und Duldungspflichten
 
 (1) Natürliche und juristische Personen sowie nicht rechtsfähige Personenvereinigungen haben der nach § 1 jeweils zuständigen Behörde auf Verlangen die Auskünfte zu erteilen, die zur Durchführung der Aufgaben erforderlich sind, die der Behörde durch dieses Gesetz übertragen worden sind.
 
@@ -99,8 +91,7 @@ Im Falle des Satzes 2 Nummer 2 hat der Tierarzt dem Tierhalter unverzüglich ein
 
 (5) Die nach § 1 jeweils zuständige Behörde kann anordnen, dass der Auskunftspflichtige ein Produkt, bei dem der hinreichende Verdacht besteht, dass es sich um ein Katzen- oder Hundefell oder ein Produkt, das solche Felle enthält, oder ein Robbenerzeugnis handelt, auf seine Kosten untersuchen zu lassen und das Ergebnis der Untersuchung vorzulegen hat.
 
-
-## § 6 – Mitwirkung der Zollbehörden
+# § 6 – Mitwirkung der Zollbehörden
 
 (1) Die Zollbehörden wirken mit bei der Überwachung
 
@@ -130,18 +121,15 @@ der sich bei der Wahrnehmung ihrer Aufgaben nach Absatz 1 ergibt, den nach § 1 
 
 3. in den Fällen eines Verdachts nach Nummer 2 anordnen, dass Sendungen mit in Nummer 1 bezeichneten Produkten oder Erzeugnissen auf Kosten und Gefahr des Verfügungsberechtigten der nach § 1 jeweils zuständigen Behörde vorgelegt werden.
 
-
-## § 7 – Bußgeldvorschriften
+# § 7 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. einer vollziehbaren Anordnung nach § 2 Abs. 1 Satz 2 Nr. 2 zuwiderhandelt,
 
-1a.  
-eine Tätigkeit ohne die nach § 3 Absatz 1 Satz 1 erforderliche Erlaubnis ausübt oder einer mit einer solchen Erlaubnis verbundenen vollziehbaren Auflage zuwiderhandelt,
+1a. eine Tätigkeit ohne die nach § 3 Absatz 1 Satz 1 erforderliche Erlaubnis ausübt oder einer mit einer solchen Erlaubnis verbundenen vollziehbaren Auflage zuwiderhandelt,
 
-1b.  
-entgegen § 4 Satz 1 ein Säugetier abgibt,
+1b. entgegen § 4 Satz 1 ein Säugetier abgibt,
 
 2. entgegen § 5 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
@@ -161,8 +149,7 @@ entgegen § 4 Satz 1 ein Säugetier abgibt,
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt, soweit das Gesetz durch diese ausgeführt wird.
 
-
-## § 8 – Verordnungsermächtigungen
+# § 8 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, soweit es zur Verwirklichung
 
@@ -184,8 +171,7 @@ erforderlich ist, die Überwachung durch die nach § 1 jeweils zuständige Behö
 
 (4) Rechtsverordnungen bedürfen abweichend von Absatz 1 der Zustimmung des Bundesrates, wenn den Landesbehörden die Durchführung obliegt.
 
-
-## § 9 – Gebühren und Auslagen
+# § 9 – Gebühren und Auslagen
 
 (1) Die nach § 1 jeweils zuständige Behörde erhebt für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz, den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, der Verordnung (EG) Nr. 1523/2007, der Verordnung (EG) Nr. 1007/2009 oder den zur Durchführung der Verordnung (EG) Nr. 1523/2007 oder der Verordnung (EG) Nr. 1007/2009 erlassenen Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union kostendeckende Gebühren und Auslagen. Bei der Bemessung der Höhe der Gebühren nach Satz 1 ist auch der mit den Mitwirkungshandlungen der Bundesfinanzverwaltung verbundene Verwaltungsaufwand zu berücksichtigen.
 
@@ -193,18 +179,15 @@ erforderlich ist, die Überwachung durch die nach § 1 jeweils zuständige Behö
 
 (3) Durch Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft nach § 22 Absatz 4 des Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
-
-## § 10 – Verkündung von Rechtsverordnungen
+# § 10 – Verkündung von Rechtsverordnungen
 
 Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz 1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger verkündet werden.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1 Satz 2 Nummer 2)Anforderungen an die Haltung von Pelztieren
+# Anlage – (zu § 3 Absatz 1 Satz 2 Nummer 2)Anforderungen an die Haltung von Pelztieren
 
 (BGBl. I 2017, 2149 — 2150)
 

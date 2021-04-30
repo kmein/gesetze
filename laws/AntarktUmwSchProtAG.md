@@ -1,15 +1,11 @@
-# [AntarktUmwSchProtAG] Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag  (Umweltschutzprotokoll-Ausführungsgesetz)
-
-Ausfertigungsdatum: 22.09.1994
-
+% Gesetz zur Ausführung des Umweltschutzprotokolls vom 4. Oktober 1991 zum Antarktis-Vertrag  (Umweltschutzprotokoll-Ausführungsgesetz)
+% Ausfertigungsdatum: 22.09.1994
  
-
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 Ziele dieses Gesetzes sind der umfassende Schutz der antarktischen Umwelt und der abhängigen und verbundenen Ökosysteme sowie die Bewahrung der Antarktis als ein dem Frieden und der Wissenschaft gewidmetes Naturreservat.
 
-
-## § 2 – Begriffsbestimmungen, Gebote und Verbote
+# § 2 – Begriffsbestimmungen, Gebote und Verbote
 
 (1) Im Sinne dieses Gesetzes sind:
 
@@ -35,8 +31,7 @@ bewegliche Sachen, auch flüssige und gasförmige, derer sich der Besitzer entle
 
 (2) Die in den §§ 17, 18, 20 bis 24, 26, 29, 32 und 34 und in Rechtsverordnungen nach § 5 Abs. 7 genannten Gebote und Verbote gelten für Teilnehmer einer Tätigkeit nach Absatz 1 Nr. 2 und für natürliche Personen mit Wohnsitz oder gewöhnlichem Aufenthalt im Gebiet der Bundesrepublik Deutschland.
 
-
-## § 3 – Allgemeine Genehmigungspflicht
+# § 3 – Allgemeine Genehmigungspflicht
 
 (1) Jede Tätigkeit nach § 2 Abs. 1 Nr. 2, die von
 
@@ -88,8 +83,7 @@ besorgen läßt.
 
 (8) Über die Erteilung der Genehmigung entscheidet das Umweltbundesamt. Es holt vor der Entscheidung die Stellungnahmen der Behörden ein, deren Aufgabenbereich durch die Tätigkeit berührt wird. Vor der Entscheidung ist dem Alfred-Wegener-Institut für Polar- und Meeresforschung Gelegenheit zur Äußerung zu geben.
 
-
-## § 4 – Allgemeines Verfahren
+# § 4 – Allgemeines Verfahren
 
 (1) Der Antragsteller muß zur Begründung seines Genehmigungsantrages die geplante Tätigkeit im einzelnen beschreiben und zugleich angeben, ob sie voraussichtlich Auswirkungen auf die in § 3 Abs. 4 genannten Schutzgüter haben wird und welche Schutzgüter voraussichtlich betroffen sind. Die Angabe, daß die Tätigkeit keine Auswirkungen auf diese Schutzgüter haben wird, ist zu begründen.
 
@@ -109,8 +103,7 @@ auf die in § 3 Abs. 4 genannten Schutzgüter besorgen läßt. Das Umweltbundesa
 
 (5) Im Falle des Absatzes 3 Nr. 2 oder 3 unterrichtet das Umweltbundesamt den Antragsteller über die Erforderlichkeit einer Umwelterheblichkeitsprüfung gemäß § 7 oder einer Umweltverträglichkeitsprüfung gemäß § 8. Das Umweltbundesamt soll mit dem Antragsteller den Gegenstand, Umfang und Methoden der Umweltverträglichkeitsprüfung sowie sonstige für die Durchführung der Umweltverträglichkeitsprüfung erhebliche Fragen erörtern. Hierzu können andere Behörden, Sachverständige und Dritte hinzugezogen werden. Das Umweltbundesamt soll den Antragsteller über den voraussichtlichen Untersuchungsrahmen einer Umweltverträglichkeitsprüfung sowie über Art und Umfang der voraussichtlich beizubringenden Unterlagen unterrichten. Verfügt das Umweltbundesamt über Informationen, die für die Beibringung der Unterlagen zweckdienlich sind, soll es diese Informationen dem Antragsteller zur Verfügung stellen.
 
-
-## § 5 – Verhütung der Meeresverschmutzung
+# § 5 – Verhütung der Meeresverschmutzung
 
 (1) Wird im Rahmen einer Tätigkeit im Sinne des § 2 Abs. 1 Nr. 2 ein Schiff eingesetzt, so berücksichtigt das Umweltbundesamt bei seiner Genehmigung hinsichtlich der von der Seeschiffahrt ausgehenden Gefahren für die Meeresumwelt eine Stellungnahme des Bundesamtes für Seeschiffahrt und Hydrographie. Abweichungen von dieser Stellungnahme sind zu begründen.
 
@@ -146,8 +139,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (10) Strengere Regelungen nach dem Gesetz vom 23. Dezember 1981 zu dem Internationalen Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe von 1973 und dem Protokoll von 1978 zu diesem Übereinkommen (BGBl. 1982 II S. 2) und dem Gesetz zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge (BGBl. 1977 II S. 165) über den Schutz der Meeresumwelt finden Anwendung.
 
-
-## § 6 – Forschungstätigkeiten
+# § 6 – Forschungstätigkeiten
 
 (1) Tätigkeiten der wissenschaftlichen Forschung in der Antarktis und ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die lediglich weniger als geringfügige oder vorübergehende Auswirkungen gemäß § 4 Abs. 3 Nr. 1 besorgen lassen, sind abweichend von § 3 Abs. 1 dem Umweltbundesamt spätestens 3 Monate vor Beginn schriftlich oder elektronisch anzuzeigen. Die Anzeige hat darzulegen, daß die Tätigkeit lediglich weniger als geringfügige oder vorübergehende Auswirkungen auf die Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1 gilt entsprechend.
 
@@ -159,8 +151,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (5) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung Zusammensetzung, Berufung und Verfahren der Kommission zu regeln.
 
-
-## § 7 – Genehmigungsverfahren mit Umwelterheblichkeitsprüfung
+# § 7 – Genehmigungsverfahren mit Umwelterheblichkeitsprüfung
 
 (1) Tätigkeiten, die voraussichtlich zumindest geringfügige oder vorübergehende Auswirkungen haben werden, sind einer Umwelterheblichkeitsprüfung zu unterziehen, sofern das Umweltbundesamt nicht aufgrund seiner Beurteilung gemäß § 4 Abs. 3 Satz 1 eine Umweltverträglichkeitsprüfung für erforderlich hält. Hierzu hat der Antragsteller Unterlagen mit folgenden Angaben vorzulegen:
 
@@ -174,8 +165,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (4) Das Umweltbundesamt hat auf Antrag die Genehmigung, die Unterlagen nach Absatz 1 einschließlich der Darstellung nach § 4 Abs. 2 Satz 2 mit Ausnahme der Unterlagen nach § 4 Abs. 2 Satz 1 und im Fall des § 6 Abs. 4 auch die Stellungnahme der Kommission zugänglich zu machen.
 
-
-## § 8 – Genehmigungsverfahren mit Umweltverträglichkeitsprüfung
+# § 8 – Genehmigungsverfahren mit Umweltverträglichkeitsprüfung
 
 (1) Tätigkeiten, die mehr als geringfügige oder vorübergehende Auswirkungen erwarten lassen, bedürfen einer Umweltverträglichkeitsprüfung.
 
@@ -207,8 +197,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 12. Name und Anschrift der Person oder Organisation, die die Untersuchung vorgelegt hat, sowie die Anschrift, an die Stellungnahmen dazu zu richten sind.
 
-
-## § 9 – Öffentliche Auslegung, Einwendungen
+# § 9 – Öffentliche Auslegung, Einwendungen
 
 (1) Der Antrag auf Erteilung der Genehmigung und die Untersuchung nach § 8 Abs. 3 sind, mit Ausnahme der Unterlagen nach § 4 Abs. 2 Satz 1, am Sitz des Umweltbundesamtes neunzig Tage zur Einsicht auszulegen. Während der Auslegungsfrist können beim Umweltbundesamt Einwendungen zu der Untersuchung schriftlich, elektronisch oder zur Niederschrift abgegeben werden. Schriftliche oder elektronische Einwendungen sollen auch in englischer Sprache eingebracht werden. Wird eine Übersetzung in die englische Sprache nicht unverzüglich eingebracht, so kann das Umweltbundesamt auf Kosten des Einwenders selbst eine solche beschaffen und von diesem hierfür in Höhe der voraussichtlich entstehenden Kosten einen Vorschuß verlangen. Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen.
 
@@ -220,22 +209,19 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (3) Nach Ablauf der Auslegungsfrist sind die rechtzeitig erhobenen Einwendungen zu dem Genehmigungsantrag mit dem Antragsteller und den Einwendern zu erörtern.
 
-
-## § 10 – Unterrichtung der Parteien des Umweltschutzprotokolls zum Antarktis-Vertrag und des Ausschusses für Umweltschutz
+# § 10 – Unterrichtung der Parteien des Umweltschutzprotokolls zum Antarktis-Vertrag und des Ausschusses für Umweltschutz
 
 (1) Die Untersuchung nach § 8 Abs. 3 wird jeder Vertragspartei des Umweltschutzprotokolls zum Antarktis-Vertrag übermittelt. Bei der Übermittlung ist darauf hinzuweisen, daß etwaige Stellungnahmen innerhalb einer Frist von neunzig Tagen abzugeben sind.
 
 (2) Die Untersuchung nach § 8 Abs. 3 wird dem Ausschuß für Umweltschutz im Sinne des Artikels 11 des Umweltschutzprotokolls zum Antarktis-Vertrag übermittelt.
 
-
-## § 11 – Beratung durch eine Konsultativtagung der Vertragsparteien des Antarktis-Vertrages
+# § 11 – Beratung durch eine Konsultativtagung der Vertragsparteien des Antarktis-Vertrages
 
 (1) Über den Antrag auf Genehmigung einer Tätigkeit, die gemäß § 8 einer Umweltverträglichkeitsprüfung bedarf, darf erst entschieden werden, wenn eine Konsultativtagung der Vertragsparteien des Antarktis-Vertrages ausreichend Gelegenheit hatte, die Unterlagen nach § 8 Abs. 3 zu prüfen. Ausreichende Gelegenheit zur Prüfung besteht nur, wenn die Untersuchung nach § 8 Abs. 3 dem Ausschuß für Umweltschutz mindestens einhundertundzwanzig Tage vor Beginn der Konsultativtagung zuging. Das Umweltbundesamt hat vor der Entscheidung die Stellungnahme der Konsultativtagung abzuwarten und diese bei ihrer Entscheidung zu berücksichtigen.
 
 (2) Absatz 1 Satz 1 gilt nicht, wenn binnen 15 Monaten nach Zugang der Unterlagen an den Ausschuß für Umweltschutz keine Konsultativtagung stattfindet oder die Beratung über die Unterlagen in dieser Frist nicht abgeschlossen werden kann.
 
-
-## § 12 – Genehmigung nach Umweltverträglichkeitsprüfung
+# § 12 – Genehmigung nach Umweltverträglichkeitsprüfung
 
 (1) Das Umweltbundesamt erarbeitet auf der Grundlage der Untersuchung nach § 8 Abs. 3, der Stellungnahmen anderer Vertragsparteien des Umweltschutzprotokolls zum Antarktis-Vertrag, der Stellungnahme der Konsultativtagung der Antarktis-Vertragsstaaten, der Stellungnahmen anderer Stellen und der Einwendungen eine zusammenfassende Darstellung der Auswirkungen der Tätigkeit auf die in § 3 Abs. 4 dieses Gesetzes genannten Schutzgüter einschließlich der Wechselwirkungen. Die Ergebnisse eigener Ermittlungen sind einzubeziehen. Die eingeholten Stellungnahmen anderer Stellen und die Einwendungen sind gesondert darzustellen.
 
@@ -243,8 +229,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (3) In der Begründung der Genehmigung ist eine Bewertung der voraussichtlichen Beeinträchtigungen im Vergleich zu den Vorteilen der geplanten Tätigkeit aufzunehmen. Weicht das Umweltbundesamt vom Ergebnis der Untersuchung oder von Stellungnahmen anderer Stellen oder der Konsultativtagung der Antarktis-Vertragsstaaten ab, sind die Gründe hierfür darzustellen. Die Feststellung über die Verkehrs- und Betriebssicherheit der Schiffe nach § 5 Abs. 2 bleibt unberührt.
 
-
-## § 13 – Unterrichtung Dritter
+# § 13 – Unterrichtung Dritter
 
 (1) Genehmigungen nach § 12 Abs. 2 sind mit Begründung und allen entscheidungserheblichen Unterlagen
 
@@ -254,8 +239,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (2) Eine Tätigkeit, für die eine Genehmigung nach § 12 Abs. 2 erteilt worden ist, darf erst nach Ablauf von sechzig Tagen nach der Übermittlung der in Absatz 1 genannten Unterlagen an die Vertragsparteien des Antarktis-Vertrages begonnen werden.
 
-
-## § 14 – Überwachung und Überprüfung
+# § 14 – Überwachung und Überprüfung
 
 (1) Das Umweltbundesamt ist zuständig für die Überwachung der Einhaltung dieses Gesetzes und der erteilten Genehmigungen.
 
@@ -263,8 +247,7 @@ sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Auswärtigen Amt und dem Bundesministerium für Bildung und Forschung die Ausgestaltung der Überwachung, die Zusammenarbeit mit den anderen Behörden hierbei und die Einsetzung von Umweltbeauftragten bei Tätigkeiten in der Antarktis durch Rechtsverordnung zu regeln.
 
-
-## § 15 – Regelmäßige Unterrichtungen
+# § 15 – Regelmäßige Unterrichtungen
 
 (1) Dem Ausschuß für Umweltschutz nach Artikel 11 des Umweltschutzprotokolls zum Antarktis-Vertrag sowie den Vertragsparteien dieses Protokolls sind jährlich
 
@@ -278,8 +261,7 @@ zu übermitteln.
 
 (2) Das Umweltbundesamt hat die in Absatz 1 genannten Angaben zur allgemeinen Einsicht bereitzuhalten.
 
-
-## § 16 – Umweltverträglichkeitsprüfungen anderer Vertragsparteien
+# § 16 – Umweltverträglichkeitsprüfungen anderer Vertragsparteien
 
 (1) Unterlagen zu Umweltverträglichkeitsprüfungen, die von anderen Vertragsparteien des Umweltschutzprotokolls zum Antarktis-Vertrag übermittelt werden, sind vom Umweltbundesamt den in § 3 Abs. 8 genannten Stellen zuzuleiten. Diesen ist dabei Gelegenheit zur Stellungnahme innerhalb von dreißig Tagen zu geben.
 
@@ -287,8 +269,7 @@ zu übermitteln.
 
 (3) Rechtzeitig abgegebene Stellungnahmen sind an die betreffenden Vertragsparteien weiterzuleiten.
 
-
-## § 17 – Erhaltung der antarktischen Tier- und Pflanzenwelt
+# § 17 – Erhaltung der antarktischen Tier- und Pflanzenwelt
 
 (1) Es ist verboten, in der Antarktis
 
@@ -334,8 +315,7 @@ f) eine sonstige Handlung, die zu einer erheblichen nachteiligen Veränderung de
 
 (8) Das Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden Meeresschätze der Antarktis (BGBl. 1982 II S. 420) bleibt unberührt, soweit der Beifang von Vögeln betroffen ist.
 
-
-## § 18 – Verbringen von Tieren und Pflanzen in die Antarktis
+# § 18 – Verbringen von Tieren und Pflanzen in die Antarktis
 
 (1) Es ist verboten, Hunde in die Antarktis zu verbringen.
 
@@ -349,20 +329,17 @@ f) eine sonstige Handlung, die zu einer erheblichen nachteiligen Veränderung de
 
 (6) Wer nichtheimische Tiere oder Pflanzen oder Erde ohne Genehmigung in die Antarktis verbringt oder vor Inkrafttreten dieses Gesetzes in die Antarktis verbracht hat, hat diese unverzüglich zu entfernen oder durch Verbrennung keimfrei zu entsorgen. Ausnahmen darf das Umweltbundesamt nur genehmigen, wenn die Exemplare für die heimische Tier- und Pflanzenwelt keine Gefahr darstellen.
 
-
-## § 19 – Ausfuhrüberwachung
+# § 19 – Ausfuhrüberwachung
 
 (1) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Überwachung der Ausfuhr von Erde, Tieren oder Pflanzen zur Verbringung in die Antarktis mit. Die genannten Behörden können Erde, Tiere oder Pflanzen einschließlich deren Beförderungs- und Verpackungsmittel bei der Ausfuhr anhalten.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung die Einzelheiten der Überwachung der Verbote nach den §§ 17 und 18 zu regeln. Es kann dabei insbesondere Pflichten zur Anzeige, Anmeldung, zu Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen.
 
-
-## § 20 – Verbringen von Stoffen und Erzeugnissen
+# § 20 – Verbringen von Stoffen und Erzeugnissen
 
 Polystyrolkügelchen, Polystyrolspäne oder ähnlich beschaffenes Verpackungsmaterial sowie Polychlorbiphenyle (PCBs) und Schädlingsbekämpfungsmittel dürfen nicht auf das Land oder das Schelfeis verbracht oder in das Wasser eingebracht werden.
 
-
-## § 21 – Grundsätze der Vermeidung und Entsorgung von Abfällen
+# § 21 – Grundsätze der Vermeidung und Entsorgung von Abfällen
 
 (1) Die Entstehung und Entsorgung von Abfällen in der Antarktis sind soweit wie möglich zu vermeiden.
 
@@ -372,8 +349,7 @@ Polystyrolkügelchen, Polystyrolspäne oder ähnlich beschaffenes Verpackungsmat
 
 (4) Abfälle, die aus der Antarktis entfernt werden, sind in die Bundesrepublik Deutschland oder in ein anderes Land zu verbringen, in dem Vorkehrungen für ihre Beseitigung im Einklang mit einschlägigen internationalen Übereinkommen getroffen worden sind. Soweit sie in die Bundesrepublik Deutschland verbracht werden, bleibt § 13 des Abfallgesetzes unberührt. § 14 Abs. 3 der Strahlenschutzverordnung findet keine Anwendung.
 
-
-## § 22 – Entfernung von Abfällen aus der Antarktis
+# § 22 – Entfernung von Abfällen aus der Antarktis
 
 (1) Die folgenden in der Antarktis erzeugten Abfälle sind aus der Antarktis zu entfernen:
 
@@ -403,8 +379,7 @@ Polystyrolkügelchen, Polystyrolspäne oder ähnlich beschaffenes Verpackungsmat
 
 (3) Es ist verboten, sich der in Absatz 1 genannten Abfälle in der Antarktis zu entledigen.
 
-
-## § 23 – Abfallverbrennung
+# § 23 – Abfallverbrennung
 
 (1) Brennbare Abfälle, die nicht aus der Antarktis entfernt werden, sind in Abfallverbrennungsanlagen so zu behandeln, daß schädliche Emissionen soweit wie möglich vermieden werden. Die bei der Verbrennung entstehenden festen Rückstände sind Abfälle im Sinne des § 22 Abs. 1 Nr. 8.
 
@@ -412,8 +387,7 @@ Polystyrolkügelchen, Polystyrolspäne oder ähnlich beschaffenes Verpackungsmat
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, unter Berücksichtigung der einschlägigen Empfehlungen des Ausschusses für Umweltschutz nach Artikel 11 des Umweltschutzprotokolls zum Antarktis-Vertrag und des Wissenschaftlichen Ausschusses für Antarktisforschung (Scientific Committee on Antarctic Research) durch Rechtsverordnung Emissionsgrenzwerte und technische Anforderungen an Anlagen im Sinne des Absatzes 1 festzulegen.
 
-
-## § 24 – Entsorgung flüssiger Abfälle
+# § 24 – Entsorgung flüssiger Abfälle
 
 (1) In der Antarktis erzeugte flüssige Haushaltsabfälle oder andere flüssige, nicht in § 22 Abs. 1 aufgezählte Abfälle, sind soweit wie möglich aus der Antarktis zu entfernen.
 
@@ -421,25 +395,21 @@ Polystyrolkügelchen, Polystyrolspäne oder ähnlich beschaffenes Verpackungsmat
 
 (3) Die Entsorgung von Abfällen im Sinne des Absatzes 1 in das Meer bedarf der Genehmigung.
 
-
-## § 25 – Feldlager
+# § 25 – Feldlager
 
 In Feldlagern erzeugte Abfälle sind soweit irgend möglich zu den Unterstützungsstationen oder -schiffen zur Entsorgung zu bringen.
 
-
-## § 26 – Abfallagerung
+# § 26 – Abfallagerung
 
 Alle aus der Antarktis zu entfernenden oder anderweitig zu entsorgenden Abfälle sind so zu lagern, daß sie nicht in die Umwelt gelangen können.
 
-
-## § 27 – Arbeitsstätten und Abfallagerstätten
+# § 27 – Arbeitsstätten und Abfallagerstätten
 
 (1) Frühere und bestehende Abfallagerstätten an Land und aufgegebene Arbeitsstätten sind vorbehaltlich des Absatzes 2 von den Erzeugern der Abfälle und den Benutzern der Anlagen und Stätten zu reinigen. Dies gilt nicht, soweit die Entfernung von Bauwerken oder Abfällen größere Umweltbeeinträchtigungen zur Folge hätte, als wenn die Bauwerke oder Abfälle an Ort und Stelle verbleiben.
 
 (2) Bauwerke, die als historische Stätten oder Denkmale bezeichnet sind, dürfen nicht entfernt oder verändert werden.
 
-
-## § 28 – Planung
+# § 28 – Planung
 
 (1) Das Umweltbundesamt erstellt im Benehmen mit dem Alfred-Wegener-Institut ein System der Abfallklassifikation, um Abfälle, die bei Tätigkeiten der in § 3 Abs. 1 genannten Personen in der Antarktis anfallen, dokumentieren zu können und um Untersuchungen über die Umweltauswirkungen wissenschaftlicher Tätigkeiten einschließlich von Unterstützungstätigkeiten zu erleichtern. Dieses System teilt die Abfälle mindestens in folgende Gruppen ein:
 
@@ -473,8 +443,7 @@ Für kleine Boote, die beim Betrieb einer festen Station oder eines Schiffes ben
 
 (6) Für jede Station und Arbeitsstätte ist eine geeignete Person zum Abfallbeauftragten zu bestellen. Der Abfallbeauftragte überwacht die Durchführung der Pläne über Abfallverringerung und -entsorgung und unterbreitet Vorschläge für ihre Fortschreibung; er übermittelt dem Umweltbundesamt jährlich die Angaben, die dieses zur Erfüllung der Aufgaben nach den Absätzen 1 und 2 benötigt.
 
-
-## § 29 – Schutz und Verwaltung von Gebieten, historischen Stätten und Denkmälern
+# § 29 – Schutz und Verwaltung von Gebieten, historischen Stätten und Denkmälern
 
 (1) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit den Bundesministerien für Bildung und Forschung und für Wirtschaft und Energie durch Rechtsverordnung entsprechend den Empfehlungen der Konsultativtagung des Antarktis-Vertrages
 
@@ -490,8 +459,7 @@ zu benennen.
 
 (3) Das Beschädigen, Entfernen oder Zerstören von in Rechtsverordnungen nach Absatz 1 Nr. 3 genannten historischen Stätten und Denkmälern ist verboten.
 
-
-## § 30 – Genehmigungen
+# § 30 – Genehmigungen
 
 (1) Das Umweltbundesamt kann Ausnahmen von dem Verbot nach § 29 Abs. 2 genehmigen, wenn die vom Antragsteller beabsichtigte Tätigkeit den Anforderungen des Verwaltungsplans entspricht, der gemäß Artikel 5 der Anlage V des Umweltschutzprotokolls zum Antarktis-Vertrag von der Konsultativtagung der Antarktis-Vertragsstaaten für das Gebiet erstellt wurde. Der Genehmigung sind die einschlägigen Abschnitte des Verwaltungsplans beizufügen. Sie enthält Angaben über Größe und Lage des Gebiets, benennt die genehmigten Tätigkeiten, Genehmigungsbehörde, -datum und -ort sowie sonstige im Verwaltungsplan festgelegte Voraussetzungen.
 
@@ -501,20 +469,17 @@ zu benennen.
 
 (4) Das Umweltbundesamt informiert die Vertragsparteien und den Ausschuß für Umweltschutz bis Ende November jeden Jahres über Zahl und Art der im Zeitraum vom 1. Juli bis 30. Juni erteilten Genehmigungen.
 
-
-## § 31 – Verwaltungspläne
+# § 31 – Verwaltungspläne
 
 Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5 der Anlage V des Umweltschutzprotokolls zum Antarktis-Vertrag ist das Umweltbundesamt im Benehmen mit dem Alfred-Wegener-Institut für Polar- und Meeresforschung zuständig.
 
-
-## § 32 – Bergbauverbot
+# § 32 – Bergbauverbot
 
 (1) Die Prospektion, Exploration, Erschließung oder Gewinnung von Bodenschätzen in der Antarktis ist verboten.
 
 (2) Absatz 1 gilt nicht für wissenschaftliche Forschungstätigkeiten.
 
-
-## § 33 – Schulung
+# § 33 – Schulung
 
 (1) Der Antragsteller und der nach § 6 Abs. 1 Anzeigende haben sicherzustellen, daß alle Teilnehmer der Tätigkeit aufgrund geeigneter Schulung über ausreichende Kenntnisse hinsichtlich des Umweltschutzes in der Antarktis und der Vorschriften dieses Gesetzes verfügen.
 
@@ -522,8 +487,7 @@ Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5 der Anla
 
 (3) Das Umweltbundesamt stellt allen Personen, die sich in der Antarktis befinden oder sie zu betreten beabsichtigen, Informationsmaterialien zur Verfügung, um sicherzustellen, daß sie die Bestimmungen der §§ 17, 18 und 29 verstehen und befolgen. Diese Informationen sollen insbesondere verbotene Aktivitäten aufführen und Listen der besonders geschützten Arten, der besonders geschützten und verwalteten Gebiete sowie der historischen Stätten und Denkmäler umfassen.
 
-
-## § 34 – Inspektionen
+# § 34 – Inspektionen
 
 (1) Das Auswärtige Amt ist im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Verkehr und digitale Infrastruktur, dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und dem Bundesministerium für Bildung und Forschung zuständig für die Durchführung von Inspektionen gemäß Artikel 14 des Umweltschutzprotokolls zum Antarktis-Vertrag und die Erstellung der Inspektionsberichte.
 
@@ -531,15 +495,13 @@ Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5 der Anla
 
 (3) Wer eine Tätigkeit in der Antarktis durchführt, ist verpflichtet, mit den die Inspektion durchführenden Beobachtern aus den Mitgliedstaaten des Antarktis-Vertrages zusammenzuarbeiten und ihnen Zugang zu allen Teilen von Stationen, Einrichtungen, Ausrüstungen, Schiffen und Luftfahrzeugen, die nach Artikel VII Abs. 3 des Antarktis-Vertrages zur Inspektion offenstehen, sowie zu allen geführten Aufzeichnungen, die aufgrund des Umweltschutzprotokolls zum Antarktis-Vertrag verlangt werden, zu gewähren.
 
-
-## § 35 – Gebühren- und Auslagenregelung
+# § 35 – Gebühren- und Auslagenregelung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen werden Gebühren und Auslagen erhoben.
 
 (2) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Dabei soll bei individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz, die Vorhaben der wissenschaftlichen Forschung betreffen, von der Erhebung von Gebühren und Auslagen abgesehen werden.
 
-
-## § 36 – Bußgeldvorschriften
+# § 36 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -589,8 +551,7 @@ Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5 der Anla
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 Nr. 1, 3 bis 20 das Umweltbundesamt und in den Fällen des Absatzes 1 Nr. 2 das Bundesamt für Seeschiffahrt und Hydrographie.
 
-
-## § 37 – Strafvorschriften
+# § 37 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer eine in § 36 Abs. 1 Nr. 1 bis 4 oder 9 bis 19 bezeichnete Handlung gewerbs- oder gewohnheitsmäßig begeht.
 
@@ -602,23 +563,19 @@ Für die Erstellung von Verwaltungsplänen nach Maßgabe des Artikels 5 der Anla
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn die Tat nach § 324, 326, 330 oder 330a des Strafgesetzbuches mit gleicher oder schwererer Strafe bedroht ist.
 
-
-## § 38 – Einziehung
+# § 38 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 36 oder eine Straftat nach § 37 begangen worden, so können Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten und § 74a des Strafgesetzbuches sind anzuwenden.
 
-
-## § 39 – Schiedsverfahren
+# § 39 – Schiedsverfahren
 
 Das Auswärtige Amt ist zuständig für das im Anhang des Umweltschutzprotokolls zum Antarktis-Vertrag geregelte Schiedsverfahren.
 
-
-## § 40 – Berichtspflicht
+# § 40 – Berichtspflicht
 
 Die Erarbeitung des jährlichen Berichts nach Artikel 17 des Umweltschutzprotokolls zum Antarktis-Vertrag obliegt dem Umweltbundesamt.
 
-
-## § 41 – Notfälle
+# § 41 – Notfälle
 
 (1) Die Regelungen dieses Gesetzes finden keine Anwendung in Notfällen, in denen der Schutz von Menschenleben oder die Sicherheit von Schiffen, Luftfahrzeugen oder hochwertiger Ausrüstungen oder Einrichtungen, oder der Schutz der Umwelt
 
@@ -630,8 +587,7 @@ b) eine nach den §§ 17 bis 31 verbotene Tätigkeit erfordern.
 
 (3) Wer in der Antarktis eine Tätigkeit nach Absatz 1 durchführt, hat dem Umweltbundesamt unverzüglich die für die Unterrichtung nach Absatz 2 notwendigen Angaben zu machen.
 
-
-## § 42 – Inkrafttreten
+# § 42 – Inkrafttreten
 
 (1) § 5 Abs. 7 und § 6 Abs. 5 dieses Gesetzes treten am Tage nach der Verkündung in Kraft. Im übrigen tritt dieses Gesetz an dem Tage in Kraft, an dem das Umweltschutzprotokoll vom 4. Oktober 1991 zum Antarktis-Vertrag für die Bundesrepublik Deutschland in Kraft tritt.
 

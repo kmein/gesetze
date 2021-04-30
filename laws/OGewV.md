@@ -1,18 +1,13 @@
-# [OGewV] Verordnung zum Schutz der Oberflächengewässer   (Oberflächengewässerverordnung - OGewV)
-
-Ausfertigungsdatum: 20.06.2016
-
+% Verordnung zum Schutz der Oberflächengewässer   (Oberflächengewässerverordnung - OGewV)
+% Ausfertigungsdatum: 20.06.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Zweck
+# § 1 – Zweck
 
 Diese Verordnung dient dem Schutz der Oberflächengewässer und der wirtschaftlichen Analyse der Nutzungen ihres Wassers.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
@@ -44,8 +39,7 @@ Spezifische synthetische und spezifische nichtsynthetische Schadstoffe, die in A
 
 Konzentration eines Stoffes in einem Oberflächenwasserkörper, die nicht oder nur sehr gering durch menschliche Tätigkeiten beeinflusst ist.
 
-
-## § 3 – Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
+# § 3 – Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
 
 Nach Maßgabe der Anlage 1 werden folgende Bestimmungen zum 22. Dezember 2019 durch die zuständige Behörde überprüft und gegebenenfalls aktualisiert:
 
@@ -61,8 +55,7 @@ Nach Maßgabe der Anlage 1 werden folgende Bestimmungen zum 22. Dezember 2019 du
 
 Die Bestimmungen werden danach alle sechs Jahre überprüft und gegebenenfalls aktualisiert.
 
-
-## § 4 – Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen; Bestandsaufnahme der Emissionen, Einleitungen und Verluste
+# § 4 – Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen; Bestandsaufnahme der Emissionen, Einleitungen und Verluste
 
 (1) Nach Maßgabe der Anlage 2 wird Folgendes zum 22. Dezember 2019 durch die zuständige Behörde überprüft und gegebenenfalls aktualisiert:
 
@@ -88,8 +81,7 @@ Danach erfolgen alle sechs Jahre eine Überprüfung und gegebenenfalls eine Aktu
 
 (3) Der Referenzzeitraum für die Erfassung der Werte in den aktualisierten Bestandsaufnahmen ist das Jahr, vor dem die Aktualisierung abzuschließen ist. Für prioritäre Stoffe oder bestimmte andere Schadstoffe, die jeweils Wirkstoffe im Sinne des Artikels 2 Absatz 2 der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 652/2014 (ABl. L 189 vom 27.6.2014, S. 1) geändert worden ist, sind, kann auch der Durchschnittswert der letzten drei Jahre vor Abschluss der Aktualisierung verwendet werden.
 
-
-## § 5 – Einstufung des ökologischen Zustands und des ökologischen Potenzials
+# § 5 – Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
 (1) Die Einstufung des ökologischen Zustands eines Oberflächenwasserkörpers richtet sich nach den in Anlage 3 aufgeführten Qualitätskomponenten. Die zuständige Behörde stuft den ökologischen Zustand eines Oberflächenwasserkörpers nach Maßgabe von Anlage 4 Tabellen 1 bis 5 in die Klassen sehr guter, guter, mäßiger, unbefriedigender oder schlechter Zustand ein.
 
@@ -105,13 +97,11 @@ Danach erfolgen alle sechs Jahre eine Überprüfung und gegebenenfalls eine Aktu
 
 2. Für die zum 22. Dezember 2015 zu aktualisierenden Maßnahmenprogramme und Bewirtschaftungspläne nach § 84 Absatz 1 des Wasserhaushaltsgesetzes sind abweichend von Satz 1 für die in Nummer 1 genannten Stoffe mit den Nummern 2, 3, 6, 14, 21, 35, 41 und 44 die Umweltqualitätsnormen nach Anlage 5 der Oberflächengewässerverordnung vom 20. Juli 2011 (BGBl. I S. 1429) zugrunde zu legen; diese sind für die Erreichung des guten ökologischen Zustands bis zum 22. Dezember 2021 maßgeblich.
 
-
-## § 6 – Einstufung des chemischen Zustands
+# § 6 – Einstufung des chemischen Zustands
 
 Die Einstufung des chemischen Zustands eines Oberflächenwasserkörpers richtet sich nach den in Anlage 8 Tabelle 2 aufgeführten Umweltqualitätsnormen. Erfüllt der Oberflächenwasserkörper diese Umweltqualitätsnormen, stuft die zuständige Behörde den chemischen Zustand als gut ein. Andernfalls ist der chemische Zustand als nicht gut einzustufen. Abweichend von Satz 1 werden die Stoffe Nummer 34 bis Nummer 45 der Anlage 8 Tabelle 2 und deren Umweltqualitätsnormen erst ab dem 22. Dezember 2018 berücksichtigt.
 
-
-## § 7 – Anforderungen bei überarbeiteten Umweltqualitätsnormen und bei Umweltqualitätsnormen für neue Stoffe
+# § 7 – Anforderungen bei überarbeiteten Umweltqualitätsnormen und bei Umweltqualitätsnormen für neue Stoffe
 
 (1) Abweichend von § 29 Absatz 1 Satz 1 des Wasserhaushaltsgesetzes ist der gute chemische Zustand zu erreichen
 
@@ -125,15 +115,13 @@ Bis zum 22. Dezember 2021 gelten für die in Anlage 8 Tabelle 1 Spalte 4 aufgef�
 
 (3) Für Stoffe nach Absatz 1 Satz 1 Nummer 2 erstellt die zuständige Behörde bis zum 22. Dezember 2018 ein zusätzliches Überwachungsprogramm nach Maßgabe des § 10 sowie ein vorläufiges Maßnahmenprogramm. In den aktualisierten Maßnahmenprogrammen und Bewirtschaftungsplänen nach § 84 Absatz 1 des Wasserhaushaltsgesetzes, die bis zum 22. Dezember 2021 zu erstellen sind, sind die Stoffe nach Absatz 1 Satz 1 Nummer 2 zu berücksichtigen.
 
-
-## § 8 – Oberflächenwasserkörper, die der Trinkwassergewinnung dienen
+# § 8 – Oberflächenwasserkörper, die der Trinkwassergewinnung dienen
 
 (1) Unabhängig von den Bestimmungen der §§ 5 und 6 sind die Oberflächenwasserkörper, die für die Trinkwassergewinnung genutzt werden, mit dem Ziel zu bewirtschaften, eine Verschlechterung ihrer Qualität zu verhindern und so den für die Gewinnung von Trinkwasser erforderlichen Umfang der Aufbereitung zu verringern.
 
 (2) Die Oberflächenwasserkörper, die der Trinkwassergewinnung dienen, sind im Bewirtschaftungsplan auf Karten darzustellen.
 
-
-## § 9 – Normen für die Überwachung der Qualitätskomponenten; Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
+# § 9 – Normen für die Überwachung der Qualitätskomponenten; Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien
 
 (1) Die Methoden, die zur Überwachung der biologischen, hydromorphologischen und allgemeinen physikalisch-chemischen Qualitätskomponenten verwendet werden, müssen den Normen entsprechen, die in Anhang V Nummer 1.3.6 der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), die zuletzt durch die Richtlinie 2014/101/EU (ABl. L 311 vom 31.10.2014, S. 32) geändert worden ist, genannt sind.
 
@@ -141,8 +129,7 @@ Bis zum 22. Dezember 2021 gelten für die in Anlage 8 Tabelle 1 Spalte 4 aufgef�
 
 (3) Laboratorien, die an der Überwachung biologischer, chemischer oder physikalisch-chemischer Qualitätskomponenten mitwirken, haben die erforderlichen qualitätssichernden Maßnahmen zu ergreifen, um eine hinreichende Zuverlässigkeit und Genauigkeit der Überwachungsergebnisse sicherzustellen. Die Laboratorien haben insbesondere die Anforderungen nach Anlage 9 Nummer 2 zu erfüllen.
 
-
-## § 10 – Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz
+# § 10 – Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz
 
 (1) Die Überwachung der Oberflächenwasserkörper hinsichtlich ihres ökologischen Zustands oder ihres ökologischen Potenzials, ihres chemischen Zustands sowie die Überwachung der Oberflächenwasserkörper, die der Trinkwassergewinnung dienen, richten sich nach Anlage 10. Die Überwachungsprogramme werden von der zuständigen Behörde regelmäßig überprüft und gegebenenfalls aktualisiert.
 
@@ -150,8 +137,7 @@ Bis zum 22. Dezember 2021 gelten für die in Anlage 8 Tabelle 1 Spalte 4 aufgef�
 
 (3) Das Netz zur Überwachung des ökologischen und des chemischen Zustands sowie des ökologischen Potenzials ist im Bewirtschaftungsplan auf Karten darzustellen.
 
-
-## § 11 – Überwachung von Stoffen der Beobachtungsliste
+# § 11 – Überwachung von Stoffen der Beobachtungsliste
 
 (1) Die zuständigen Behörden überwachen die Stoffe der von der Europäischen Kommission erstellten Beobachtungsliste nach Artikel 8b der Richtlinie 2008/105/EG des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Umweltqualitätsnormen im Bereich der Wasserpolitik und zur Änderung und anschließenden Aufhebung der Richtlinien des Rates 82/176/EWG, 83/513/EWG, 84/156/EWG, 84/491/EWG und 86/280/EWG sowie zur Änderung der Richtlinie 2000/60/EG (ABl. L 348 vom 24.12.2008, S. 84), die zuletzt durch die Richtlinie 2013/39/EU des Europäischen Parlaments und des Rates vom 12. August 2013 (ABl. L 226 vom 24.8.2013, S. 1) geändert worden ist, an Überwachungsstellen, die für den jeweiligen Stoff repräsentativ sind. Hierbei sind die Überwachungsmatrizes maßgeblich und die Analysenmethoden zu verwenden, die in der Beobachtungsliste festgelegt sind. Die Laboratorien, die an der Überwachung der Stoffe der Beobachtungsliste mitwirken, haben mit geeigneten qualitätssichernden Maßnahmen eine hinreichende Zuverlässigkeit und Genauigkeit der Überwachungsergebnisse sicherzustellen und insbesondere die Anforderungen nach Anlage 9 Nummer 2 zu erfüllen. Bei der Bestimmung der Überwachungsfrequenz und bei der zeitlichen Planung der Überwachung eines jeden Stoffes berücksichtigt die zuständige Behörde die typischen Arten der Verwendung und das Vorkommen des jeweiligen Stoffes. Die repräsentativen Überwachungsstellen nach Satz 1 sind nach Maßgabe von Anlage 11 festzulegen.
 
@@ -167,8 +153,7 @@ Bis zum 22. Dezember 2021 gelten für die in Anlage 8 Tabelle 1 Spalte 4 aufgef�
 
 Danach sind die Informationen nach Satz 1 dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit alle zwölf Monate zu übermitteln, solange der Stoff in der Beobachtungsliste aufgeführt ist.
 
-
-## § 12 – Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands
+# § 12 – Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands
 
 (1) Die zuständige Behörde stellt den ökologischen Zustand oder das ökologische Potenzial eines Oberflächenwasserkörpers auf einer gesonderten Karte nach Maßgabe von Anlage 12 Nummer 1 dar. Der chemische Zustand ist auf einer gesonderten Karte nach Maßgabe von Anlage 12 Nummer 2 darzustellen. Wird der ökologische Zustand oder das ökologische Potenzial eines Oberflächenwasserkörpers schlechter als gut eingestuft, sind die für die Einstufung maßgebenden biologischen Qualitätskomponenten und flussgebietsspezifischen Schadstoffe nach Maßgabe von Anlage 12 Nummer 1.3 und 1.4 zu kennzeichnen oder in geeigneter anderer Weise darzustellen. Wird der chemische Zustand als nicht gut eingestuft, sind die maßgebenden Stoffe nach Maßgabe von Anlage 12 Nummer 2 zu kennzeichnen oder in geeigneter anderer Weise darzustellen.
 
@@ -176,8 +161,7 @@ Danach sind die Informationen nach Satz 1 dem Bundesministerium für Umwelt, Nat
 
 (3) Die zuständige Behörde kennzeichnet nach Maßgabe von Anlage 12 Nummer 3 Oberflächenwasserkörper, bei denen die Einhaltung der Umweltqualitätsnormen von Schadstoffen unter Berücksichtigung der natürlichen Hintergrundkonzentrationen festgestellt wurde.
 
-
-## § 13 – Zusätzliche Inhalte der Bewirtschaftungspläne; elektronisch zugängliches Portal
+# § 13 – Zusätzliche Inhalte der Bewirtschaftungspläne; elektronisch zugängliches Portal
 
 (1) In die aktualisierten Bewirtschaftungspläne nach § 84 Absatz 1 des Wasserhaushaltsgesetzes sind zusätzlich zu den Informationen nach § 83 Absatz 2 des Wasserhaushaltsgesetzes folgende Informationen aufzunehmen:
 
@@ -193,8 +177,7 @@ b) Informationen über die Leistung dieser Analysenmethoden in Bezug auf die in 
 
 (2) Die Bundesanstalt für Gewässerkunde macht die aktualisierten Bewirtschaftungspläne und den Zwischenbericht nach Artikel 15 Absatz 3 der Richtlinie 2000/60/EG über ein zentrales Portal im Internet der Öffentlichkeit zugänglich.
 
-
-## § 14 – Bewirtschaftungsziele für Stickstoff
+# § 14 – Bewirtschaftungsziele für Stickstoff
 
 (1) Die Bewirtschaftungspläne und Maßnahmenprogramme in den Flussgebietseinheiten richten sich zum Schutz der Meeresgewässer an dem Ziel aus, dass folgende Jahresmittelwerte für Gesamtstickstoff nicht überschritten werden:
 
@@ -212,15 +195,13 @@ b) bei Flüssen, deren Mündungsbereich sich außerhalb des Bundesgebiets befind
 
 (2) Die zuständige Behörde des Landes, in dem sich die Messstellen und Punkte nach Absatz 1 befinden, überwacht die Einhaltung der Anforderungen nach Absatz 1 nach Maßgabe von Anlage 10 Nummer 4 Tabelle 1.
 
-
-## § 15 – Ermittlung langfristiger Trends
+# § 15 – Ermittlung langfristiger Trends
 
 (1) Im Rahmen der Überwachung nach § 10 ermittelt die zuständige Behörde nach Maßgabe von Anlage 13 Nummer 1 bis 4 den langfristigen Trend der Konzentrationen derjenigen in Anlage 8 Tabelle 1 aufgeführten Stoffe, die dazu neigen, sich in Biota, Schwebstoffen oder Sedimenten anzureichern. Dies betrifft insbesondere die Stoffe nach Anlage 8 Tabelle 1 Spalte 6. Diese Stoffe sind im Regelfall mindestens alle drei Jahre in Biota, Schwebstoffen oder Sedimenten zu überwachen, es sei denn, die zuständige Behörde legt auf Grund des aktuellen Wissensstands ein anderes Intervall fest.
 
 (2) Im Rahmen der Aktualisierung des Maßnahmenprogramms nach § 84 Absatz 1 des Wasserhaushaltsgesetzes sind Maßnahmen vorzusehen, mit denen sichergestellt wird, dass die in Absatz 1 genannten Konzentrationen in den betreffenden Biota, Schwebstoffen oder Sedimenten nicht signifikant ansteigen. Ein signifikanter Anstieg liegt vor, wenn die Voraussetzungen nach Anlage 13 Nummer 5 erfüllt sind.
 
-
-## § 16 – Wirtschaftliche Analyse der Wassernutzungen
+# § 16 – Wirtschaftliche Analyse der Wassernutzungen
 
 (1) Die wirtschaftlichen Analysen der Wassernutzungen nach Artikel 5 Absatz 1 dritter Gedankenstrich der Richtlinie 2000/60/EG, die signifikante Auswirkungen auf den Zustand der Oberflächengewässer haben, sind zum 22. Dezember 2019 und danach alle sechs Jahre zu überprüfen und gegebenenfalls zu aktualisieren.
 
@@ -232,8 +213,7 @@ b) bei Flüssen, deren Mündungsbereich sich außerhalb des Bundesgebiets befind
 
 (3) Bei unverhältnismäßigem Aufwand, insbesondere unter Berücksichtigung der Kosten für die Erhebung der betreffenden Daten, können dabei auch Schätzungen der Menge, der Preise und der Kosten im Zusammenhang mit den Wasserdienstleistungen, Schätzungen der einschlägigen Investitionen einschließlich der entsprechenden Vorausplanungen sowie Schätzungen der potenziellen Kosten der Maßnahmen für das Maßnahmenprogramm zugrunde gelegt werden.
 
-
-## Anlage 1 – (zu § 3 Satz 1, § 5 Absatz 2 Satz 1)Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
+# Anlage 1 – (zu § 3 Satz 1, § 5 Absatz 2 Satz 1)Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen
 
 (Fundstelle: BGBl. I 2016,1379 - 1381)
 
@@ -385,8 +365,7 @@ Ist es auf Grund eines hohen Maßes an natürlicher Veränderlichkeit einer Qual
 
 Anlage 1 Nr. 2.2 Typ 88 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde hinter dem Wort "z.B" ein fehlender Punkt eingefügt
 
-
-## Anlage 2 – (zu § 4 Absatz 1)Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen
+# Anlage 2 – (zu § 4 Absatz 1)Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen
 
 (Fundstelle: BGBl. I 2016,1382)
 
@@ -448,8 +427,7 @@ Einschätzung von Bodennutzungsstrukturen, einschließlich der größten städti
 
 Es ist zu beurteilen, bei welchen Oberflächenwasserkörpern auf Grund der in Nummer 1 zusammengestellten Belastungen das Risiko besteht, dass sie die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 des Wasserhaushaltsgesetzes nicht erreichen, die für sie festgelegt worden sind. Dieser Beurteilung sind die nach Nummer 1 gesammelten Daten sowie andere einschlägige Informationen einschließlich vorhandener Daten aus der Umweltüberwachung zugrunde zu legen. Die Beurteilung kann durch Modellierungstechniken unterstützt werden. Für Oberflächenwasserkörper nach Satz 1 ist, soweit erforderlich, eine zusätzliche Beschreibung vorzunehmen, um die Überwachungsprogramme nach Anlage 10 und die Maßnahmenprogramme nach § 82 des Wasserhaushaltsgesetzes weiterzuentwickeln.
 
-
-## Anlage 3 – (zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1)Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
+# Anlage 3 – (zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1)Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
 (Fundstelle: BGBl. I 2016,1383 - 1384)
 
@@ -661,8 +639,7 @@ Allgemeine physikalisch-chemische Qualitätskomponenten
 Qualitäts-  
 komponentengruppe
 
-
-## Anlage 4 – (zu § 5 Absatz 1 Satz 2, Absatz 2 Satz 2, § 10 Absatz 2 Satz 1)Einstufung des ökologischen Zustands und des ökologischen Potenzials
+# Anlage 4 – (zu § 5 Absatz 1 Satz 2, Absatz 2 Satz 2, § 10 Absatz 2 Satz 1)Einstufung des ökologischen Zustands und des ökologischen Potenzials
 
 (Fundstelle: BGBl. I 2016,1385 - 1396)
 
@@ -835,8 +812,7 @@ Die Werte für die Temperatur und der pH-Wert gehen nicht über den Bereich hina
 Die Nährstoffkonzentrationen gehen nicht über die Werte hinaus, bei denen die Funktionsfähigkeit des Ökosystems und die Einhaltung der oben beschriebenen Werte für die biologischen Qualitätskomponenten gewährleistet sind.</td><td> </td></tr><tr class="odd"><td style="text-align: left;">Spezifische synthetische Schadstoffe</td><td>Die Konzentrationen liegen bei nahe null oder zumindest unter der Nachweisgrenze der allgemein gebräuchlichen fortschrittlichsten Analysenmethoden.</td><td>Die Konzentrationen sind nicht höher als die Umweltqualitätsnormen nach Anlage 6.</td><td>Bedingungen, unter denen die oben für die biologischen Qualitätskomponenten beschriebenen Werte erreicht werden können.</td></tr><tr class="even"><td style="text-align: left;">Spezifische nicht<br />
 synthetische Schadstoffe</td><td>Die Konzentrationen bleiben in dem Bereich, der normalerweise bei Vorliegen der Referenzbedingungen mit dem Oberflächengewässertyp einhergeht, der am ehesten mit dem betreffenden künstlichen oder erheblich veränderten Gewässer vergleichbar ist (Hintergrundwerte).</td><td>Die Konzentrationen sind nicht höher als die Umweltqualitätsnormen nach Anlage 6.</td><td>Bedingungen, unter denen die oben für die biologischen Qualitätskomponenten beschriebenen Werte erreicht werden können.</td></tr></tbody></table>
 
-
-## Anlage 5 – (zu § 5 Absatz 3)Bewertungsverfahren und Grenzwerte der ökologischen Qualitätsquotienten für die verschiedenen Gewässertypen
+# Anlage 5 – (zu § 5 Absatz 3)Bewertungsverfahren und Grenzwerte der ökologischen Qualitätsquotienten für die verschiedenen Gewässertypen
 
 (Fundstelle: BGBl. I 2016,1397 - 1409)
 
@@ -1610,8 +1586,7 @@ die ökologischen Qualitätsquotienten gelten für diesen Gewässertyp in Schles
 <span id="FnA3-f793919_48"></span><a href="#FnR.FnA3-f793919_48" class="Footnote">9</a>  
 die ökologischen Qualitätsquotienten gelten für diesen Gewässertyp von Darsser Schwelle bis zur polnischen Grenze
 
-
-## Anlage 6 – (zu § 2 Nummer 6, § 5 Absatz 5 Satz 1 und 2, § 10 Absatz 2 Satz 1)Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
+# Anlage 6 – (zu § 2 Nummer 6, § 5 Absatz 5 Satz 1 und 2, § 10 Absatz 2 Satz 1)Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
 
 (Fundstelle: BGBl. I 2016,1410 - 1413)
 
@@ -2881,8 +2856,7 @@ CAS = Chemical Abstracts Service, internationale Registriernummer für chemische
 Umweltqualitätsnormen für Wasser sind, wenn nicht ausdrücklich anders bestimmt, als Gesamtkonzentrationen in der gesamten Wasserprobe ausgedrückt.
 
 <span id="FnA1-f793919_51"></span><a href="#FnR.FnA1-f793919_51" class="Footnote">3</a>  
-Werden Schwebstoffe mittels Durchlaufzentrifuge entnommen, beziehen sich die Umweltqualitätsnormen auf die Gesamtprobe.  
-Werden Sedimente und Schwebstoffe mittels Absetzbecken oder Sammelkästen entnommen, beziehen sich die Umweltqualitätsnormen  
+Werden Schwebstoffe mittels Durchlaufzentrifuge entnommen, beziehen sich die Umweltqualitätsnormen auf die Gesamtprobe. Werden Sedimente und Schwebstoffe mittels Absetzbecken oder Sammelkästen entnommen, beziehen sich die Umweltqualitätsnormen  
 
 1. bei Metallen auf die Fraktion kleiner als 63 µm
 
@@ -2898,8 +2872,7 @@ Nur soweit die Erhebung von Schwebstoff- oder Sedimentdaten nicht möglich ist.
 
 (+++ Anlage 6 Nr 2: Zur Anwendung vgl. Anlage 10 Nr 5.1 +++)
 
-
-## Anlage 7 – (zu § 5 Absatz 4 Satz 2)Allgemeine physikalisch-chemische Qualitätskomponenten
+# Anlage 7 – (zu § 5 Absatz 4 Satz 2)Allgemeine physikalisch-chemische Qualitätskomponenten
 
 (Fundstelle: BGBl. I 2016,1414 - 1423)
 
@@ -4858,8 +4831,7 @@ Sind bei den einzelnen Parametern Konzentrationsbereiche angegeben, ist jeweils 
 
 Anlage 7 Nr. 1.2 Fußn 5 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde hinter dem Wort "z.B" ein fehlender Punkt eingefügt
 
-
-## Anlage 8 – (zu § 2 Nummer 4 und 5, § 6 Satz 1,§ 7 Absatz 1 Nummer 1 und 2, § 10 Absatz 2 Satz 2,§ 13 Absatz 1 Nummer 2a, § 15 Absatz 1 Satz 1 und 2)Umweltqualitätsnormen zur Beurteilung des chemischen Zustands
+# Anlage 8 – (zu § 2 Nummer 4 und 5, § 6 Satz 1,§ 7 Absatz 1 Nummer 1 und 2, § 10 Absatz 2 Satz 2,§ 13 Absatz 1 Nummer 2a, § 15 Absatz 1 Satz 1 und 2)Umweltqualitätsnormen zur Beurteilung des chemischen Zustands
 
 (Fundstelle: BGBl. I 2016,1424 - 1431)
 
@@ -7347,8 +7319,7 @@ Bei der Gruppe der polycyclischen aromatischen Kohlenwasserstoffe (Nummer 28) be
 <span id="FnA2-f793919_108"></span><a href="#FnR.FnA2-f793919_108" class="Footnote">7</a>  
 PCDD: polychlorierte Dibenzoparadioxine; PCDF: polychlorierte Dibenzofurane; PCB-DL: dioxinähnliche polychlorierte Biphenyle; TEQ: Toxizitätsäquivalente nach den Toxizitätsäquivalenzfaktoren der Weltgesundheitsorganisation von 2005; (van den Berg, M. (2006) et. al.: the 2005 World Health Reevalution of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds veröffentlicht in toxicological sciences 93(2), 223-241 (2006).
 
-
-## Anlage 9 – (zu § 9 Absatz 2 und 3 Satz 2, § 11 Absatz 1 Satz 3,§ 13 Absatz 1 Nummer 2 Buchstabe a und b)Anforderungen an Analysenmethoden, an Laboratorien und an die Beurteilung der Überwachungsergebnisse
+# Anlage 9 – (zu § 9 Absatz 2 und 3 Satz 2, § 11 Absatz 1 Satz 3,§ 13 Absatz 1 Nummer 2 Buchstabe a und b)Anforderungen an Analysenmethoden, an Laboratorien und an die Beurteilung der Überwachungsergebnisse
 
 (Fundstelle: BGBl. I 2016,1432 - 1433)
 
@@ -7422,8 +7393,7 @@ Ist der für Nickel oder Blei ermittelte Jahresdurchschnitt größer oder gleich
 
 (+++ Anlage 9 Nr. 3.1 und 3.3: Zur Anwendung vgl. Anlage 8 Nr. 3 +++)
 
-
-## Anlage 10 – (zu § 10 Absatz 1 Satz 1 und Absatz 2 Satz 1,§ 13 Absatz 1 Nummer 3, § 14 Absatz 2)Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz; zusätzliche Überwachungsanforderungen
+# Anlage 10 – (zu § 10 Absatz 1 Satz 1 und Absatz 2 Satz 1,§ 13 Absatz 1 Nummer 3, § 14 Absatz 2)Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz; zusätzliche Überwachungsanforderungen
 
 (Fundstelle: BGBl. I 2016,1434 - 1438)
 
@@ -7564,8 +7534,7 @@ Oberflächenwasserkörper, die Habitat- oder Artenschutzgebiete nach § 7 Absatz
 
 Die Überwachung wird durchgeführt, um das Ausmaß und die Auswirkungen aller relevanten signifikanten Belastungen und erforderlichenfalls die Veränderungen des Zustands infolge der Maßnahmenprogramme zu beurteilen. Die Überwachung ist so lange fortzuführen, bis die Gebiete die wasserbezogenen Anforderungen der Rechtsvorschriften erfüllen, nach denen sie ausgewiesen worden sind, und bis sie die für sie geltenden Bewirtschaftungsziele erreichen.
 
-
-## Anlage 11 – (zu § 11 Absatz 1 Satz 5)Anforderungen an die Festlegung der repräsentativen Überwachungsstellen für Stoffe der Beobachtungsliste
+# Anlage 11 – (zu § 11 Absatz 1 Satz 5)Anforderungen an die Festlegung der repräsentativen Überwachungsstellen für Stoffe der Beobachtungsliste
 
 (Fundstelle: BGBl. I 2016,1439)
 
@@ -7583,8 +7552,7 @@ In den Flussgebietseinheiten können unter Beachtung von Satz 1 von Satz 2 abwei
 
 Innerhalb der Flussgebietseinheiten koordinieren die zuständigen Behörden der Länder untereinander die Festlegung der Überwachungsstellen unter Berücksichtigung der in Satz 3 Nummer 1 und 2 genannten Kriterien.
 
-
-## Anlage 12 – (zu § 8 Absatz 2,§ 12 Absatz 1, Absatz 2 Satz 1 und Absatz 3)Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Kennzeichnung von Oberflächenwasserkörpern
+# Anlage 12 – (zu § 8 Absatz 2,§ 12 Absatz 1, Absatz 2 Satz 1 und Absatz 3)Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Kennzeichnung von Oberflächenwasserkörpern
 
 (Fundstelle: BGBl. I 2016,1440 - 1441)
 
@@ -7646,8 +7614,7 @@ Im Fall von § 12 Absatz 1 Satz 4 sind die für die Einstufung maßgebenden Stof
 
 Oberflächenwasserkörper, für deren Einstufung eine natürliche Hintergrundkonzentration maßgebend war, werden auf den Karten nach Nummer 1 oder Nummer 2 mit einem H und der Legende „Einstufung unter Berücksichtigung natürlicher Hintergrundkonzentrationen“ gekennzeichnet.
 
-
-## Anlage 13 – (zu § 15 Absatz 1 Satz 1 und Absatz 2 Satz 2)Ermittlung langfristiger Trends
+# Anlage 13 – (zu § 15 Absatz 1 Satz 1 und Absatz 2 Satz 2)Ermittlung langfristiger Trends
 
 (Fundstelle: BGBl. I 2016,1442)
 
@@ -7697,10 +7664,9 @@ Für eine Trendanalyse sind Werte aus mindestens fünf Jahren erforderlich.
 Der Trend wird anhand folgender statistischer Verfahren ausgewertet:
 
 5.1  
-Liegt eine Normalverteilung der Messergebnisse vor, wird der Trend mittels linearer Regression ermittelt. Die Signifikanz wird mit Hilfe eines t-Tests ermittelt, mit dem die Nullhypothese, d. h. dass die Steigung der Regressionsgeraden null ist, getestet wird. Trifft die Nullhypothese zu bzw. ist sie nicht mit der geforderten Sicherheit widerlegbar, liegt kein signifikanter Trend vor.  
-  
+Liegt eine Normalverteilung der Messergebnisse vor, wird der Trend mittels linearer Regression ermittelt. Die Signifikanz wird mit Hilfe eines t-Tests ermittelt, mit dem die Nullhypothese, d. h. dass die Steigung der Regressionsgeraden null ist, getestet wird. Trifft die Nullhypothese zu bzw. ist sie nicht mit der geforderten Sicherheit widerlegbar, liegt kein signifikanter Trend vor.   
 
-![](../normengrafiken/bgbl1_2016/j1373-1_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2016/j1373-1_0010.jpg)
 
 r =  
 Korrelationskoeffizient

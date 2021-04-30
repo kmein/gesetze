@@ -1,15 +1,11 @@
-# [TourFachwPrV] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte Tourismusfachwirtin
-
-Ausfertigungsdatum: 09.02.2012
-
+% Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte Tourismusfachwirtin
+% Ausfertigungsdatum: 09.02.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 des Berufsbildungsgesetzes, von denen § 53 Absatz 1 durch Artikel 232 Nummer 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Tourismusfachwirt und zur Geprüften Tourismusfachwirtin nach den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -39,8 +35,7 @@ Auf Grund des § 53 Absatz 1 in Verbindung mit Absatz 2 und des § 30 Absatz 5 d
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Fortbildungsabschluss „Geprüfter Tourismusfachwirt“ oder „Geprüfte Tourismusfachwirtin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Prüfung ist zuzulassen, wer
 
@@ -58,8 +53,7 @@ nachweist.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung zuzulassen, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben zu haben, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -89,8 +83,7 @@ nachweist.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 4 – Inhalte der Prüfung
+# § 4 – Inhalte der Prüfung
 
 (1) Im Handlungsbereich „Unternehmensführung und -entwicklung“ soll die Fähigkeit nachgewiesen werden, Geschäftsprozesse der Tourismuswirtschaft mithilfe des Qualitätsmanagements zu analysieren und mitzugestalten sowie Teilprozesse zu steuern. Unternehmensziele und -strategien sollen unter Beachtung wirtschaftlicher und rechtlicher Rahmenbedingungen sowie der Aspekte der Qualitätsoptimierung und Nachhaltigkeit umgesetzt, evaluiert und kommuniziert werden. Vertriebsorientierte Strategien zur Stärkung der Marktposition sind unter Anwendung des Projektmanagements zu entwickeln und umzusetzen. Hierfür sollen unternehmerische Entscheidungen vorbereitet werden. Dabei soll die Fähigkeit nachgewiesen werden, Marktentwicklungen zu identifizieren und sich auf verändernde Markterfordernisse einzustellen sowie den Wandel im Unternehmen mitzugestalten und zu fördern. In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
@@ -160,15 +153,13 @@ nachweist.
 
 4. Planen und Umsetzen von Veranstaltungen unter Berücksichtigung spezifischer Rahmenbedingungen.
 
-
-## § 5 – Befreiung von einzelnen Prüfungsbestandteilen
+# § 5 – Befreiung von einzelnen Prüfungsbestandteilen
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 6 und 7 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 6 Absatz 2 Satz 2 oder Absatz 3 Satz 2 oder § 7 Absatz 4 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 6 – Bewerten der Prüfungsleistungen
+# § 6 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -188,8 +179,7 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bestehen der Prüfung, Gesamtnote
+# § 7 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in der schriftlichen Prüfung und in der mündlichen Prüfung jeweils mindestens 50 Punkte erreicht worden sind.
 
@@ -205,8 +195,7 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Zeugnisse
+# § 8 – Zeugnisse
 
 (1) Wer die Prüfung nach § 7 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -220,8 +209,7 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Wiederholung der Prüfung
+# § 9 – Wiederholung der Prüfung
 
 (1) Ist die Prüfung nicht bestanden, kann sie zweimal wiederholt werden.
 
@@ -229,15 +217,13 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Ausbildereignung
+# § 10 – Ausbildereignung
 
 Wer die Prüfung zum Geprüften Tourismusfachwirt oder zur Geprüften Tourismusfachwirtin nach dieser Verordnung bestanden hat, ist vom schriftlichen Teil der Prüfung der nach dem Berufsbildungsgesetz erlassenen Ausbilder-Eignungsverordnung befreit.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Übergangsvorschriften
+# § 11 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Tourismusfachwirt (IHK)/zur Tourismusfachwirtin (IHK) können bis zum 31. Dezember 2015 nach den bisherigen Vorschriften zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 30. Juni 2014 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -245,22 +231,19 @@ Wer die Prüfung zum Geprüften Tourismusfachwirt oder zur Geprüften Tourismusf
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 6 und 7)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2363 - 2364)
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 8)Zeugnisinhalte
+# Anlage 2 – (zu § 8)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2364 - 2365)
 

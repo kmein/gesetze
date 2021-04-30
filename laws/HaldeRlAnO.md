@@ -1,15 +1,11 @@
-# [HaldeRlAnO] Anordnung über Halden und Restlöcher
-
-Ausfertigungsdatum: 02.10.1980
-
+% Anordnung über Halden und Restlöcher
+% Ausfertigungsdatum: 02.10.1980
  
-
-## Eingangsformel
+# Eingangsformel
 
 Zur Gewährleistung der öffentlichen Sicherheit an Halden und Restlöchern wird im Einvernehmen mit den Leitern der zuständigen zentralen staatlichen Organe und den Vorsitzenden der Räte der Bezirke folgendes angeordnet:
 
-
-## § 1
+# § 1
 
 (1) Diese Anordnung regelt die Aufgaben, Rechte und Pflichten der Betriebe und Organe sowie die Aufgaben und Befugnisse der zuständigen staatlichen Organe bezüglich der
 
@@ -31,8 +27,7 @@ d) Restlöcher, die als industrielle Absetzanlagen genutzt werden.
 
 (3) Bei Halden im Sinne des Abs. 1 Buchst. a, die nicht dauerhaft entstehen oder entstanden sind, kann die Bergbehörde in Abstimmung mit dem Rat des Bezirkes entscheiden, in welchem Umfang die Bestimmungen dieser Anordnung anzuwenden sind. Der Rat des Bezirkes kann diese Aufgabe dem Rat des Kreises übertragen.
 
-(4) Diese Anordnung gilt auch für Bürger hinsichtlich ihres Verhaltens an Bereichen von Halden und Restlöchern.  
--------  
+(4) Diese Anordnung gilt auch für Bürger hinsichtlich ihres Verhaltens an Bereichen von Halden und Restlöchern. -------  
 
 \*1) Für Bergbauhalden gelten neben den zutreffenden Bestimmungen dieser Anordnung die besonderen Bestimmungen der Bergbausicherheit
 
@@ -54,8 +49,7 @@ Arbeitsschutz- und Brandschutzanordnung 122/1 vom 5. Oktober 1973
 
 \*3) Z.Z. gilt die Anordnung vom 22. Mai 1969 über Vorbereitung, Bau, Betrieb und Instandhaltung sowie Außerbetriebsetzung industrieller Absetzanlagen (GBl. II Nr. 47 S. 297).
 
-
-## § 2
+# § 2
 
 Betriebe und Organe im Sinne dieser Anordnung sind:
 
@@ -65,13 +59,11 @@ b) Rechtsträger, Nutzer oder Eigentümer von Grundstücken, auf denen sich Hald
 
 c) gemäß § 25 Abs. 3 dieser Anordnung Verpflichtete für Halden und Restlöcher, die nicht von Kombinaten, Betrieben, Genossenschaften, wirtschaftsleitenden und staatlichen Organen und Einrichtungen geplant, betrieben oder stillgelegt bzw. geplant oder hergestellt wurden (nachfolgend Althalden und -restlöcher genannt).
 
-
-## § 3 – Begriffsbestimmungen
+# § 3 – Begriffsbestimmungen
 
 Es gelten die Begriffsbestimmungen gemäß Anlage 1.
 
-
-## § 4
+# § 4
 
 (1) Halden und Restlöcher sind so zu gestalten und in einem solchen Zustand zu erhalten, daß
 
@@ -81,8 +73,7 @@ b) den landeskulturellen Anforderungen \*1) und den Forderungen des Strahlenschu
 
 c) die Art der Nutzung gewährleistet wird, die vom Rat des Bezirkes bzw. vom Rat des Kreises in Abstimmung mit dem Rat der Gemeinde oder der Stadt bzw. des Stadtbezirkes festgelegt wurde.
 
-(2) Die Erfüllung der Forderungen gemäß Abs. 1 ist im Stadium der Vorbereitung von Investitionen, bei der Projektierung und der Betriebsplanung sowie beim Betreiben von Halden und beim Entstehen von Restlöchern zu gewährleisten.  
--------  
+(2) Die Erfüllung der Forderungen gemäß Abs. 1 ist im Stadium der Vorbereitung von Investitionen, bei der Projektierung und der Betriebsplanung sowie beim Betreiben von Halden und beim Entstehen von Restlöchern zu gewährleisten. -------  
 
 \*1) Z.Z. gelten:
 
@@ -104,13 +95,11 @@ Sechste Durchführungsverordnung vom 11. September 1975 zum Landeskulturgesetz -
 
 \*2) Z.Z. gilt die Anordnung vom 17. November 1980 zur Gewährleistung des Strahlenschutzes bei Halden und industriellen Absetzanlagen und bei der Verwendung darin abgelagerter Materialien (GBl. I Nr. 34 S. 347).
 
-
-## § 5
+# § 5
 
 (1) Für die territoriale Eingliederung, die Wiedernutzbarmachung der Bodenflächen, vorrangig für die land- und forstwirtschaftliche Nutzung, und die Folgenutzung von Bergbauhalden und Restlöchern von Betrieben und Organen gemäß § 2 Buchst. a gelten die bergrechtlichen Bestimmungen über die Wiedernutzbarmachung \*).
 
-(2) Für Althalden und -restlöcher und für Nichtbergbauhalden trifft der Rat des Bezirkes in Abstimmung mit dem Rat des Kreises und der Bergbehörde die erforderlichen Regelungen insbesondere über die territoriale Einordnung, die Folgenutzung und die notwendigen Maßnahmen zur Gewährleistung der öffentlichen Sicherheit.  
--------  
+(2) Für Althalden und -restlöcher und für Nichtbergbauhalden trifft der Rat des Bezirkes in Abstimmung mit dem Rat des Kreises und der Bergbehörde die erforderlichen Regelungen insbesondere über die territoriale Einordnung, die Folgenutzung und die notwendigen Maßnahmen zur Gewährleistung der öffentlichen Sicherheit. -------  
 
 \*) Z.Z. gelten:
 
@@ -122,15 +111,13 @@ Anordnung vom 10. April 1970 über die Wiederurbarmachung bergbaulich genutzter 
 
 Anordnung vom 23. Februar 1971 über die Rekultivierung bergbaulich genutzter Bodenflächen - Rekultivierungsanordnung - (GBl. II Nr. 30 S. 245).
 
-
-## § 6
+# § 6
 
 (1) Der Betriebsleiter bzw. der Leiter des Organs hat Halden und Restlöcher dem Rat der zuständigen Gemeinde oder der Stadt bzw. des zuständigen Stadtbezirkes zwecks Dokumentation im bezirklichen Planungskataster anzuzeigen.
 
 (2) Die Anzeige hat die Angaben gemäß § 15 Abs. 2 Buchstaben a bis h zu enthalten, wie sie für die technische Dokumentation gefordert werden. Bei übersichtlichen Verhältnissen kann der Standort (Buchst. c) in einer Lageskizze dargestellt werden.
 
-
-## § 7
+# § 7
 
 (1) Der Betriebsleiter bzw. der Leiter des Organs hat der Bergbehörde Arbeiten oder Maßnahmen an
 
@@ -168,8 +155,7 @@ Der Bergbehörde sind auf Verlangen weitere Unterlagen insbesondere zu § 15 Abs
 
 (5) Die Bergbehörde erteilt entsprechend den Erfordernissen Verfügungen zu den angezeigten Arbeiten oder Maßnahmen.
 
-(6) Die Anzeige an die Bergbehörde entbindet nicht von Genehmigungen, Anzeigen und Bestätigungen auf Grund anderer Rechtsvorschriften, wie für Deponien zur schadlosen Beseitigung toxischer Abprodukte und anderer Schadstoffe \*1), zur Gewährleistung des Strahlenschutzes bei der Lagerung und Verwendung radioaktiver Haldenmaterialien \*2).  
--------  
+(6) Die Anzeige an die Bergbehörde entbindet nicht von Genehmigungen, Anzeigen und Bestätigungen auf Grund anderer Rechtsvorschriften, wie für Deponien zur schadlosen Beseitigung toxischer Abprodukte und anderer Schadstoffe \*1), zur Gewährleistung des Strahlenschutzes bei der Lagerung und Verwendung radioaktiver Haldenmaterialien \*2). -------  
 
 \*1) Z.Z. gilt die Zweite Durchführungsbestimmung vom 21. April 1977 zur Sechsten Durchführungsverordnung zum Landeskulturgesetz - Schadlose Beseitigung toxischer Abprodukte und anderer Schadstoffe - (GBl. I Nr. 15 S. 161).
 
@@ -177,8 +163,7 @@ Der Bergbehörde sind auf Verlangen weitere Unterlagen insbesondere zu § 15 Abs
 
 \*2) Z.Z. gilt die Erste Durchführungsbestimmung vom 26. November 1969 zur Strahlenschutzverordnung (GBl. II Nr. 99 S. 635).
 
-
-## § 8 – Haldenauflageflächen
+# § 8 – Haldenauflageflächen
 
 (1) Vor dem Anlegen von Halden ist im Rahmen der Standortfestlegung zu entscheiden, in welchem Umfang, in welcher Art bzw. ob Vorkehrungen zu treffen sind, wie
 
@@ -196,8 +181,7 @@ e) Prüfen auf das Vorhandensein von rutschungsbegünstigenden Verhältnissen im
 
 (3) Es ist von dem Grundsatz der geringstmöglichen Inanspruchnahme von land- und forstwirtschaftlicher Nutzfläche auszugehen.
 
-
-## § 9
+# § 9
 
 (1) Die Höhe bleibender Einzelböschungen geplanter und betriebener Halden darf nicht größer als 10 m sein.
 
@@ -227,8 +211,7 @@ nicht übersteigen.
 
 (8) Die Querneigung und Breite von Bermen zwischen bleibenden Einzelböschungen sind so zu wählen, daß sie für die Wasserableitung und erforderlichenfalls für ein Befahren mit Fahrzeugen geeignet sind.
 
-
-## § 10
+# § 10
 
 (1) Geplante bleibende Einzelböschungen und Böschungssysteme von Halden und Restlöchern sind auf der Grundlage von Standsicherheitsnachweisen bzw. Standsicherheitseinschätzungen zu gestalten, wenn
 
@@ -256,8 +239,7 @@ f) die Bergbehörde es fordert.
 
 (3) Standsicherheitsnachweise und Standsicherheitseinschätzungen für Böschungen und Böschungssysteme sind durch Sachverständige für Böschungen, die gemäß den geltenden Rechtsvorschriften \*1) von der Obersten Bergbehörde anerkannt sind, anzufertigen oder zu bestätigen.
 
-(4) Standsicherheitsnachweise und Standsicherheitseinschätzungen sind in Anlehnung an die Gliederung in den Rechtsvorschriften und anderen Bestimmungen der Bergbausicherheit \*2) anzufertigen.  
--------  
+(4) Standsicherheitsnachweise und Standsicherheitseinschätzungen sind in Anlehnung an die Gliederung in den Rechtsvorschriften und anderen Bestimmungen der Bergbausicherheit \*2) anzufertigen. -------  
 
 \*1) Z.Z. gilt die Anordnung vom 24. April 1974 über die Rechte, Pflichten und die Anerkennung von Sachverständigen der Obersten Bergbehörde - Sachverständigenanordnung - (GBl. I Nr. 23 S. 245).
 
@@ -265,13 +247,11 @@ f) die Bergbehörde es fordert.
 
 \*2) Z.Z. gilt die Anlage 5 der Arbeitsschutz- und Brandschutzanordnung 122/1 vom 5. Oktober 1973 - Bergbausicherheit im Bergbau über Tage - (Sonderdruck Nr. 768 des Gesetzblattes) i.d.F. der Änderungsanordnung Nr. 1 vom 28. März 1978 (GBl. I Nr. 12 S. 156).
 
-
-## § 11
+# § 11
 
 Sind zur Folgenutzung aus volkswirtschaftlichen und territorialen Erfordernissen Maßnahmen hinsichtlich der Gestaltung von Böschungen notwendig, die über die Bestimmungen der Anordnung vom 10. April 1970 über die Wiederurbarmachung bergbaulich genutzter Bodenflächen - Wiederurbarmachungsanordnung - (GBl. II Nr. 38 S. 279) oder über die auf der Grundlage des § 5 Abs. 2 dieser Anordnung getroffenen Festlegungen hinausgehen und während des Betreibens der Halde oder dem Entstehen des Restloches dem Betrieb oder Organ zusätzliche Aufwendungen verursachen, so sind diese Maßnahmen rechtzeitig zwischen dem Folgenutzer und dem Betrieb oder Organ vertraglich zu regeln. Der Folgenutzer trägt die Kosten dieser zusätzlichen Maßnahmen.
 
-
-## § 12 – Sicherheitsabstand
+# § 12 – Sicherheitsabstand
 
 (1) Der Sicherheitsabstand (S)
 
@@ -285,8 +265,7 @@ ist so zu bemessen, daß diese Objekte nicht gefährdet werden.
 
 (3) Ist der Nachweis der Standsicherheit gemäß § 10 Absätze 1 und 2 durch einen Standsicherheitsnachweis bzw. eine Standsicherheitseinschätzung nicht erforderlich, so kann als Sicherheitsabstand der Richtwert verwendet werden, wie er sich aus Anlage 2 ergibt.
 
-(4) Durch die Festlegungen der Absätze 1 bis 3 werden die auf Grund anderer Rechtsvorschriften und Bestimmungen einzuhaltenden Abstände, wie zu Verkehrsbauten \*), aus hygienischen Gründen zu Wohn- und Arbeitsstätten, nicht berührt.  
--------  
+(4) Durch die Festlegungen der Absätze 1 bis 3 werden die auf Grund anderer Rechtsvorschriften und Bestimmungen einzuhaltenden Abstände, wie zu Verkehrsbauten \*), aus hygienischen Gründen zu Wohn- und Arbeitsstätten, nicht berührt. -------  
 
 \*) Z.Z. gelten:
 
@@ -302,8 +281,7 @@ Verordnung vom 22. August 1974 über die öffentlichen Straßen - Straßenverord
 
 Verordnung vom 12. Dezember 1978 zur Gewährleistung von Ordnung und Sicherheit in der Umgebung von Verkehrsanlagen (GBl. I 1979 Nr. 2 S. 9).
 
-
-## § 13 – Wasserableitung, Erosionsschutz
+# § 13 – Wasserableitung, Erosionsschutz
 
 (1) Schädigende Wasseransammlungen auf Halden und Bermen, z.B. von der Schneeschmelze, von Starkregen, aus technischen Einrichtungen, sowie Lösungsaustritte am Haldenfuß sind geordnet abzuleiten.
 
@@ -313,8 +291,7 @@ Verordnung vom 12. Dezember 1978 zur Gewährleistung von Ordnung und Sicherheit 
 
 (4) Bei geneigter Haldenauflagefläche sind Vorkehrungen, wie Gräben und Rohrleitungen, zu treffen, um einen Anstau von Oberflächenwasser vor der Haldenunterkante oder dessen Eindringen in die Halde zu vermeiden.
 
-
-## § 14 – Absperrungen und Verbotsschilder
+# § 14 – Absperrungen und Verbotsschilder
 
 (1) Solange an oder auf Halden sowie an oder in Restlöchern Bereiche vorhanden sind, in denen eine Gefahr durch
 
@@ -340,13 +317,11 @@ zu sichern und zusätzlich durch Verkehrszeichen nach den Bestimmungen über das
 
 (5) Das unberechtigte Betreten der abgesperrten oder mit Verbotsschildern gekennzeichneten Bereiche an Halden und Restlöchern ist verboten. Das Betreten ist nur Personen gestattet, die dazu auf Grund von Rechtsvorschriften oder einer schriftlichen Genehmigung des Betriebsleiters bzw. des Leiters des Organs berechtigt sind und die vom Betriebsleiter bzw. vom Leiter des Organs festzulegenden Verhaltensanforderungen kennen. Absperrungen und Verbotsschilder dürfen nicht unberechtigt verändert, beseitigt oder in sonstiger Weise in ihrer Wirksamkeit beeinträchtigt werden.
 
-(6) Der Betriebsleiter bzw. der Leiter des Organs und die von diesem schriftlich beauftragten Mitarbeiter des Betriebes bzw. des Organs haben das Recht, von Personen, die Absperrungen oder Verbotsschilder mißachten oder diese verändern, beseitigen oder in sonstiger Weise in ihrer Wirksamkeit beeinträchtigen, die Personalien festzustellen und den gemäß § 28 Absätze 5 und 6 zuständigen Ordnungsstrafbefugten Vorschläge für die Einleitung von Ordnungsstrafverfahren zu unterbreiten. Die Geltendmachung von Ansprüchen aus Besitz- und Eigentumsstörungen bleibt davon unberührt.  
--------  
+(6) Der Betriebsleiter bzw. der Leiter des Organs und die von diesem schriftlich beauftragten Mitarbeiter des Betriebes bzw. des Organs haben das Recht, von Personen, die Absperrungen oder Verbotsschilder mißachten oder diese verändern, beseitigen oder in sonstiger Weise in ihrer Wirksamkeit beeinträchtigen, die Personalien festzustellen und den gemäß § 28 Absätze 5 und 6 zuständigen Ordnungsstrafbefugten Vorschläge für die Einleitung von Ordnungsstrafverfahren zu unterbreiten. Die Geltendmachung von Ansprüchen aus Besitz- und Eigentumsstörungen bleibt davon unberührt. -------  
 
 \*) Z.Z. gilt die Verordnung vom 26. Mai 1977 über das Verhalten im Straßenverkehr (Straßenverkehrs-Ordnung - StVO -) (GBl. I Nr. 20 S. 257).
 
-
-## § 15
+# § 15
 
 (1) Für Halden und Restlöcher ist eine technische Dokumentation anzufertigen.
 
@@ -382,8 +357,7 @@ betriebene klassifizierte Halden,
 \-  
 Restlöcher und stillgelegte Halden, an denen Anzeichen für Gefahren für die öffentliche Sicherheit und die Volkswirtschaft erkannt werden.
 
-
-## § 16
+# § 16
 
 (1) Die zeichnerischen Unterlagen, wie Lagepläne, Risse, sind wie folgt anzufertigen:
 
@@ -415,13 +389,11 @@ b) in geringerer Entfernung von der Haldenunterkante bzw. Restlochoberkante als 
 
 befinden.
 
-
-## § 17
+# § 17
 
 Für betriebene Nichtbergbauhalden hat der Betriebsleiter bzw. der Leiter des Organs eine Regelung festzulegen und zu aktualisieren, die insbesondere Maßnahmen über das sichere Betreiben und die Kontrolle zu enthalten hat.
 
-
-## § 18
+# § 18
 
 (1) Bleibende Einzelböschungen und Böschungssysteme von Halden und Restlöchern sind mindestens jährlich zu kontrollieren.
 
@@ -443,27 +415,23 @@ f) die Sicherung gegen abrollendes Material.
 
 (4) Über das Ergebnis der Kontrollen sowie über die Durchführung von Maßnahmen ist durch die vom Betriebsleiter bzw. vom Leiter des Organs einzusetzenden Kontroll- bzw. Durchführungsbeauftragten unter Angabe des Datums und ihrer Namen Nachweis zu führen.
 
-
-## § 19
+# § 19
 
 Bei Anzeichen von Rutschungen in der Nähe von zu schützenden Objekten sind die Böschungen bzw. Böschungssysteme einschließlich der gefährdeten Bereiche oberhalb und unterhalb von Böschungen durch spezielle Überwachungsmaßnahmen zu kontrollieren.
 
-
-## § 20
+# § 20
 
 (1) Werden bei Kontrollen gemäß den §§ 18 und 19 Anzeichen festgestellt, die eine Verminderung der Standsicherheit der Böschungen bzw. eine Verringerung der Sicherheitsabstände bewirken, so sind die Kontrollfristen gemäß § 18 Abs. 1 zu verkürzen und die erforderlichen Unterhaltungs- und Sicherungsmaßnahmen einzuleiten.
 
 (2) Wird durch Standsicherheitsnachweise oder Standsicherheitseinschätzungen bzw. durch Ergebnisse vorangegangener Kontrollmaßnahmen begründet, daß die Böschungen eine hohe Standsicherheit besitzen und eine Verringerung nicht zu erwarten ist, können die Fristen für Kontrollmaßnahmen gemäß § 18 bis zu 3 Jahren bei Halden und Restlöchern gemäß § 7 Abs. 1 durch die Bergbehörde auf Grund eines Antrages des Betriebsleiters bzw. des Leiters des Organs verlängert werden.
 
-
-## § 21
+# § 21
 
 (1) Werden an Halden und Restlöchern Anzeichen erkannt, die auf eine von diesen für die öffentliche Sicherheit oder die Volkswirtschaft ausgehende Gefahr hinweisen, sind neben den im § 20 Abs. 1 genannten Maßnahmen weitere, wie teilweiser Haldenabtrag, Errichtung von Stützbauwerken, Umleitung von Verkehrswegen, organisatorisch soweit vorzubereiten, daß eine unverzügliche Bekämpfung der Gefahr bei deren Auftreten gewährleistet wird.
 
 (2) Die notwendigen Maßnahmen zur Bekämpfung der Gefahren an Halden und Restlöchern sind übersichtlich in einem Plan festzulegen. Dieser Plan ist mit dem Volkspolizei-Kreisamt, den Organen der Zivilverteidigung und je nach Art der Gefahr mit der Bergbehörde, der staatlichen Hygieneinspektion, den Organen der staatlichen Gewässeraufsicht und dem Staatlichen Amt für Atomsicherheit und Strahlenschutz abzustimmen.
 
-
-## § 22
+# § 22
 
 (1) Der Betriebsleiter bzw. der Leiter des Organs hat Rutschungen an Halden und Restlöchern mit Auswirkungen auf die öffentliche Sicherheit und die Volkswirtschaft unmittelbar nach deren Feststellung dem Rat der Gemeinde, der Stadt bzw. des Stadtbezirkes anzuzeigen.
 
@@ -483,8 +451,7 @@ d) Name und Anschrift der die Anzeige abgebenden Person.
 
 (5) Über andere Gefahren für die öffentliche Sicherheit und die Volkswirtschaft, die von Halden und Restlöchern ausgehen, wie Brände, Gasentwicklungen, Verseuchungen, hat das örtliche Staatsorgan gemäß Abs. 2 das zuständige Organ gemäß § 21 Abs. 2 zu unterrichten.
 
-
-## § 23
+# § 23
 
 (1) Für Althalden und -restlöcher, von denen eine Gefahr für die öffentliche Sicherheit und die Volkswirtschaft ausgehen kann, plant der Rat des Bezirkes im Rahmen der Fünfjahrpläne und Jahresvolkswirtschaftspläne entsprechend den Schwerpunkten die notwendig vorbeugenden, dauerhaft wirksamen Sicherungsmaßnahmen zur Vermeidung oder Verminderung von Schäden oder anderer nachteiliger Einwirkungen. Zu den Sicherungsmaßnahmen gehören auch erforderliche Standsicherheitsnachweise bzw. Standsicherheitseinschätzungen. Die Sicherungsmaßnahmen sind mit der Bergbehörde abzustimmen.
 
@@ -492,8 +459,7 @@ d) Name und Anschrift der die Anzeige abgebenden Person.
 
 (3) Auf der Grundlage der beschlossenen Pläne beauftragt der Rat des Bezirkes in Abstimmung mit den Räten der Kreise Betriebe, Organe oder Einrichtungen mit der Durchführung der Sicherungsmaßnahmen.
 
-
-## § 24 – Wechsel des Rechtsträgers, Nutzers oder Eigentümers
+# § 24 – Wechsel des Rechtsträgers, Nutzers oder Eigentümers
 
 (1) Halden und Restlöcher sind bei Wechsel des Rechtsträgers, Nutzers oder Eigentümers in einem den Bestimmungen dieser Anordnung entsprechenden Zustand zu übergeben.
 
@@ -505,8 +471,7 @@ b) beim Wechsel des Rechtsträgers, Nutzers oder Eigentümers die technische Dok
 
 wenn der Übernehmende für die Kontrolle, Unterhaltung und Sicherung die Verantwortung trägt.
 
-
-## § 25 – Verantwortung
+# § 25 – Verantwortung
 
 (1) Nutzen mehrere Betriebe und Organe gleichzeitig Halden oder Restlöcher, ist die Abgrenzung der Verantwortung zwischen den beteiligten Betrieben und Organen vertraglich zu regeln. Kommt kein Vertrag zwischen den beteiligten Betrieben und Organen zustande, legt der Rat des Bezirkes die Verantwortung fest. Der Rat des Bezirkes kann den Räten der Kreise diese Aufgabe übertragen.
 
@@ -514,13 +479,11 @@ wenn der Übernehmende für die Kontrolle, Unterhaltung und Sicherung die Verant
 
 (3) Für Althalden und -restlöcher schließt der Rat des Bezirkes in Übereinstimmung mit der Bergbehörde Verträge mit Betrieben und Organen zur Übertragung und Übernahme der Verantwortung ab.
 
-
-## § 26 – Ersatzpflicht
+# § 26 – Ersatzpflicht
 
 Die Ersatzpflicht für Schäden, die durch Halden oder Restlöcher verursacht werden, regelt sich nach wirtschaftsrechtlichen bzw. zivilrechtlichen Bestimmungen, falls es sich um Bergschäden handelt, nach den bergrechtlichen Bestimmungen. Die Verpflichtung der Rechtsträger, Nutzer oder Eigentümer, gemäß § 325 des Zivilgesetzbuches der Deutschen Demokratischen Republik vom 19. Juni 1975 (GBl. I Nr. 27 S. 465) zur Abwendung unmittelbar drohender Schäden und Gefahren die erforderlichen Maßnahmen zu treffen, bleibt unberührt.
 
-
-## § 27 – Staatliche Kontrolle
+# § 27 – Staatliche Kontrolle
 
 (1) Die Oberste Bergbehörde und die Bergbehörden sowie die zuständigen örtlichen Staatsorgane sind berechtigt, im Rahmen ihrer sich aus dieser Anordnung ergebenden Zuständigkeiten Halden und Restlöcher zu betreten, Auskünfte zu fordern, Einblick in Unterlagen zu nehmen sowie Verfügungen und Anweisungen bzw. Auflagen zu erteilen. Die von den Vorsitzenden der Räte der Kreise schriftlich beauftragten Mitarbeiter des Rates des Kreises, der Gemeinde, der Stadt oder des Stadtbezirkes und die Mitarbeiter der Obersten Bergbehörde und der Bergbehörden sowie die zuständigen Mitarbeiter der Räte der Bezirke sind berechtigt, von Personen, die gegen Vorschriften dieser Anordnung oder auf ihrer Grundlage erlassener Verfügungen und Anweisungen bzw. Auflagen verstoßen, die Personalien festzustellen. Die Befugnisse anderer staatlicher Organe und der gewerkschaftlichen Kontrollorgane des Gesundheits- und Arbeitsschutzes auf Grund spezieller Rechtsvorschriften bleiben unberührt.
 
@@ -530,8 +493,7 @@ Die Ersatzpflicht für Schäden, die durch Halden oder Restlöcher verursacht we
 
 (4) Die Beschwerde hat aufschiebende Wirkung, wenn in der angefochtenen Entscheidung die aufschiebende Wirkung nicht ausdrücklich wegen einer bestehenden Gefährdung ausgeschlossen wurde.
 
-
-## § 28 – Ordnungsstrafbestimmungen
+# § 28 – Ordnungsstrafbestimmungen
 
 (1) Wer als Betriebsleiter bzw. Leiter eines Organs oder zuständiger leitender Mitarbeiter vorsätzlich oder fahrlässig
 
@@ -571,8 +533,7 @@ eine Verwarnung mit Ordnungsgeld von 1 bis 20 M ausgesprochen werden.
 
 (7) Für die Durchführung der Ordnungsstrafverfahren und den Ausspruch von Ordnungsstrafmaßnahmen gilt das Gesetz vom 12. Januar 1968 zur Bekämpfung von Ordnungswidrigkeiten - OWG - (GBl. I Nr. 3 S. 101).
 
-
-## § 29
+# § 29
 
 (1) Auf Antrag des Betriebsleiters bzw. des Leiters des Organs ist
 
@@ -586,8 +547,7 @@ berechtigt, in Ausnahmefällen aus zwingenden Gründen befristete Sonderregelung
 
 (3) Sonderregelungen und Genehmigungen, die auf der Grundlage der Anordnung vom 2. April 1968 zur Gewährleistung der öffentlichen Sicherheit und zum Schutz der Volkswirtschaft an Halden und Restlöchern (GBl. II Nr. 38 S. 225) erteilt wurden, bleiben, wenn sie den Bestimmungen dieser Anordnung widersprechen, bis auf Widerruf, längstens aber bis zum Ablauf der Frist, für die sie erteilt worden sind, in Kraft.
 
-
-## § 30
+# § 30
 
 (1) Die Anzeigen gemäß § 6 sind bis 31. Juli 1981 beim Rat der Gemeinde oder der Stadt bzw. des Stadtbezirkes zu erstatten. Geplante Halden oder Restlöcher sind spätestens 4 Wochen vor dem Betreiben bzw. Herstellen und die Stillegung ist spätestens 8 Wochen vorher anzuzeigen.
 
@@ -599,8 +559,7 @@ berechtigt, in Ausnahmefällen aus zwingenden Gründen befristete Sonderregelung
 
 (5) Die Weiterleitung der Anzeigen gemäß § 6 zwecks Dokumentation im bezirklichen Planungskataster regelt der Rat des Bezirkes.
 
-
-## § 31
+# § 31
 
 (1) Diese Anordnung tritt am 1. Februar 1981 in Kraft.
 
@@ -610,13 +569,11 @@ a) Anordnung vom 2. April 1968 zur Gewährleistung der öffentlichen Sicherheit 
 
 b) § 21 der Anordnung vom 24. April 1974 über die Rechte, Pflichten und die Anerkennung von Sachverständigen der Obersten Bergbehörde - Sachverständigenanordnung - (GBl. I Nr. 23 S. 245).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage 1 – zu § 3 vorstehender Anordnung  Begriffsbestimmungen
+# Anlage 1 – zu § 3 vorstehender Anordnung  Begriffsbestimmungen
 
 Im Sinne dieser Anordnung gelten folgende Begriffsbestimmungen:
 
@@ -714,8 +671,7 @@ h) Anzeichen für Rutschungen erkannt oder andere Umstände wahrgenommen werden,
 
 30. "Zu schützende Objekte" - Bauwerke, Anlagen und Einrichtungen, wie Straßen, Bahnlinien, Vorfluter und andere Gewässer, Wohn- und öffentliche Gebäude, Fabrikanlagen, Werkstätten, Versorgungsleitungen.
 
-
-## Anlage 2 – zu § 12 Abs. 3 vorstehender Anordnung  Richtwerte für den Sicherheitsabstand (S)
+# Anlage 2 – zu § 12 Abs. 3 vorstehender Anordnung  Richtwerte für den Sicherheitsabstand (S)
 
 a) Von der Haldenunterkante ergibt sich der Sicherheitsabstand in Abhängigkeit von der örtlichen Haldenhöhe (hö) und der Generalneigung (im Verhältnis von 1:n ausgedrückt) bzw. von der Höhe und Neigung einer Einzelböschung bei einem Einfallen der Auflagefläche bis 6 Grad in die Böschung oder aus der Böschung aus der Formel bis zu einem Verhältnis 1:n von 1:3
 
@@ -742,8 +698,7 @@ c) Von der Oberkante von Restlöchern im gewachsenen Lockergestein beträgt der 
 
 d) Von der Oberkante von Restlöchern im Festgestein beträgt der Sicherheitsabstand 1/3 der örtlichen Restlochtiefe, mindestens jedoch 3 m.
 
-
-## Anlage 3 – zu § 16 Abs. 1 Buchst. c vorstehender Anordnung  Grundsätze für zeichnerische Unterlagen
+# Anlage 3 – zu § 16 Abs. 1 Buchst. c vorstehender Anordnung  Grundsätze für zeichnerische Unterlagen
 
 1. In der rechten unteren Blattecke der zeichnerischen Unterlagen sind anzugeben:
 
@@ -792,13 +747,11 @@ e) Nutzungsarten für Bereiche.
 
 8. Auf jedem Blatt der zeichnerischen Unterlagen ist die Nordrichtung einzutragen.
 
-
-## Anlage 4 – zu § 14 Abs. 3 vorstehender AnordnungVerbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
+# Anlage 4 – zu § 14 Abs. 3 vorstehender AnordnungVerbotsschild des Betretens der Gefahrenbereiche an oder auf Halden sowie an oder in Restlöchern
 
 (Fundstelle: GBl. DDR I 1982, 363)
 
-
-## Anhang EV – Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III  (BGBl. II 1990, 885, 1202)
+# Anhang EV – Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III  (BGBl. II 1990, 885, 1202)
 
 Abschnitt III  
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:

@@ -1,15 +1,11 @@
-# [SchauAusnV] Vierte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften  (Schausteller-Ausnahmeverordnung - SchauAusnV)
-
-Ausfertigungsdatum: 19.02.2021
-
+% Vierte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften  (Schausteller-Ausnahmeverordnung - SchauAusnV)
+% Ausfertigungsdatum: 19.02.2021
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 Absatz 1 Nummer 3 erster Halbsatz und Buchstabe d in Verbindung mit Absatz 2a und in Verbindung mit Absatz 3 des Straßenverkehrsgesetzes, von denen Absatz 1 im Satzteil vor Nummer 1 zuletzt durch Artikel 1 Nummer 6 Buchstabe a Doppelbuchstabe aa des Gesetzes vom 28. November 2014 (BGBl. I S. 1802) und Absatz 2a zuletzt durch Artikel 325 Nummer 2 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden sind, verordnen das Bundesministerium für Verkehr und digitale Infrastruktur und das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit nach Anhörung der zuständigen obersten Landesbehörden:
 
-
-## § 1
+# § 1
 
 (1) Der Inhaber einer Reisegewerbekarte nach § 55 Absatz 1 Nummer 2 der Gewerbeordnung darf Lastkraftwagen mit einer zulässigen Gesamtmasse über 7,5 Tonnen sowie Lastkraftwagen mit Anhänger für die Zwecke seiner Tätigkeit als Schausteller oder nach Schaustellerart abweichend von
 
@@ -23,7 +19,6 @@ führen oder in seinem Auftrag führen lassen.
 
 (3) Lässt der Inhaber einer Reisegewerbekarte nach § 55 Absatz 1 Nummer 2 der Gewerbeordnung eine andere Person ein in Absatz 1 genanntes Fahrzeug in seinem Auftrag führen, gilt für diese Person Absatz 2 mit der Maßgabe, dass an die Stelle der Reisegewerbekarte eine Zweitschrift oder eine beglaubigte Kopie der Reisegewerbekarte tritt.
 
-
-## § 2
+# § 2
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

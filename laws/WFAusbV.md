@@ -1,17 +1,11 @@
-# [WFAusbV] Verordnung über die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau   (Werkfeuerwehrausbildungsverordnung - WFAusbV)
-
-Ausfertigungsdatum: 22.05.2015
-
+% Verordnung über die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau   (Werkfeuerwehrausbildungsverordnung - WFAusbV)
+% Ausfertigungsdatum: 22.05.2015
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 und des § 6 des Berufsbildungsgesetzes, die durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -23,25 +17,23 @@ Auf Grund des § 4 Absatz 1 und des § 6 des Berufsbildungsgesetzes, die durch A
 
  
 
+ 
 
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf des Werkfeuerwehrmannes und der Werkfeuerwehrfrau wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Berufsausbildung dauert drei Jahre.
 
-
-## § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
+# § 3 – Gegenstand der Berufsausbildung und Ausbildungsrahmenplan
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) genannten Fertigkeiten, Kenntnisse und Fähigkeiten. Von der Organisation der Berufsausbildung, wie sie im Ausbildungsrahmenplan vorgegeben ist, darf abgewichen werden, wenn und soweit betriebspraktische Besonderheiten oder Gründe, die in der Person des oder der Auszubildenden liegen, die Abweichung erfordern.
 
 (2) Die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden die berufliche Handlungsfähigkeit nach § 1 Absatz 3 des Berufsbildungsgesetzes erlangen. Die berufliche Handlungsfähigkeit schließt insbesondere selbständiges Planen, Durchführen und Kontrollieren ein.
 
-
-## § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
+# § 4 – Struktur der Berufsausbildung, Ausbildungsberufsbild
 
 (1) Die Berufsausbildung gliedert sich in:
 
@@ -99,20 +91,17 @@ Die Fertigkeiten, Kenntnisse und Fähigkeiten werden in Berufsbildpositionen als
 
 11. Holzbauarbeiten für den Feuerwehreinsatz.
 
-
-## § 5 – Ausbildungsplan
+# § 5 – Ausbildungsplan
 
 Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage des Ausbildungsrahmenplans für jeden Auszubildenden und für jede Auszubildende einen Ausbildungsplan zu erstellen.
 
-
-## § 6 – Schriftlicher Ausbildungsnachweis
+# § 6 – Schriftlicher Ausbildungsnachweis
 
 (1) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Dazu ist ihnen während der Ausbildungszeit Gelegenheit zu geben.
 
 (2) Die Ausbildenden haben den Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
+# § 7 – Ziel, Aufteilung in zwei Teile und Zeitpunkt
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat.
 
@@ -120,8 +109,7 @@ Die Ausbildenden haben spätestens zu Beginn der Ausbildung auf der Grundlage de
 
 (3) Teil 1 soll in der Mitte des zweiten Ausbildungsjahres durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
-
-## § 8 – Inhalt von Teil 1
+# § 8 – Inhalt von Teil 1
 
 Teil 1 der Abschlussprüfung erstreckt sich auf
 
@@ -129,8 +117,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 2. den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnissen und Fähigkeiten entspricht.
 
-
-## § 9 – Prüfungsbereich von Teil 1
+# § 9 – Prüfungsbereich von Teil 1
 
 (1) Teil 1 der Abschlussprüfung findet im Prüfungsbereich Handwerkliche Arbeiten statt.
 
@@ -156,8 +143,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (5) Die Prüfungszeit beträgt insgesamt 555 Minuten. Die Bearbeitungszeit für die Arbeitsaufgabe beträgt 420 Minuten; innerhalb dieser Zeit soll das auftragsbezogene Fachgespräch höchstens zehn Minuten dauern. Die Bearbeitungszeit für die schriftlichen Aufgaben beträgt 135 Minuten.
 
-
-## § 10 – Inhalt von Teil 2
+# § 10 – Inhalt von Teil 2
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf
 
@@ -167,8 +153,7 @@ Teil 1 der Abschlussprüfung erstreckt sich auf
 
 (2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, nur insoweit einbezogen werden, als es für die Feststellung der beruflichen Handlungsfähigkeit erforderlich ist.
 
-
-## § 11 – Prüfungsbereiche von Teil 2
+# § 11 – Prüfungsbereiche von Teil 2
 
 Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
@@ -180,8 +165,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 4. Wirtschafts- und Sozialkunde.
 
-
-## § 12 – Prüfungsbereich Brandbekämpfung und Menschenrettung
+# § 12 – Prüfungsbereich Brandbekämpfung und Menschenrettung
 
 (1) Im Prüfungsbereich Brandbekämpfung und Menschenrettung soll der Prüfling nachweisen, dass er in der Lage ist, Funktionen und Aufgaben in taktischen Feuerwehreinheiten nach Feuerwehr-Dienstvorschriften wahrzunehmen und dabei
 
@@ -205,8 +189,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (4) Die Prüfungszeit beträgt insgesamt 90 Minuten. Innerhalb dieser Zeit sollen die auftragsbezogenen Fachgespräche zusammen höchstens zehn Minuten dauern.
 
-
-## § 13 – Prüfungsbereich Technische Hilfeleistung und ABC-Einsatz
+# § 13 – Prüfungsbereich Technische Hilfeleistung und ABC-Einsatz
 
 (1) Im Prüfungsbereich Technische Hilfeleistung und ABC-Einsatz soll der Prüfling nachweisen, dass er in der Lage ist, Funktionen und Aufgaben in taktischen Feuerwehreinheiten nach Feuerwehr-Dienstvorschriften wahrzunehmen und dabei
 
@@ -228,8 +211,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (4) Die Prüfungszeit beträgt insgesamt 90 Minuten. Innerhalb dieser Zeit sollen die auftragsbezogenen Fachgespräche zusammen höchstens zehn Minuten dauern.
 
-
-## § 14 – Prüfungsbereich Grundlagen und Techniken der Gefahrenabwehr
+# § 14 – Prüfungsbereich Grundlagen und Techniken der Gefahrenabwehr
 
 (1) Im Prüfungsbereich Grundlagen und Techniken der Gefahrenabwehr soll der Prüfling nachweisen, dass er in der Lage ist,
 
@@ -249,8 +231,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 195 Minuten.
 
-
-## § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
+# § 15 – Prüfungsbereich Wirtschafts- und Sozialkunde
 
 (1) Im Prüfungsbereich Wirtschafts- und Sozialkunde soll der Prüfling nachweisen, dass er in der Lage ist, allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darzustellen und zu beurteilen.
 
@@ -258,8 +239,7 @@ Teil 2 der Abschlussprüfung findet in folgenden Prüfungsbereichen statt:
 
 (3) Die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
+# § 16 – Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -300,18 +280,15 @@ der Gefahrenabwehr</td><td style="text-align: right;">mit 20 Prozent,</td></tr><
 
 Bei der Ermittlung der Ergebnisse für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2:1 zu gewichten.
 
-
-## § 17 – Übergangsregelung
+# § 17 – Übergangsregelung
 
 Berufsausbildungsverhältnisse nach der Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli 2009 (BGBl. I S. 1747), die vor Ablauf des 31. Juli 2015 begonnen worden sind, werden nach den bis dahin geltenden Vorschriften zu Ende geführt.
 
-
-## § 18 – Inkrafttreten, Außerkrafttreten
+# § 18 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2015 in Kraft. Gleichzeitig tritt die Verordnung über die Entwicklung und Erprobung des Ausbildungsberufes Werkfeuerwehrmann/Werkfeuerwehrfrau vom 7. Juli 2009 (BGBl. I S. 1747) außer Kraft.
 
-
-## Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau
+# Anlage – (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau
 
 (Fundstelle: BGBl. I 2015, 834 - 841)
 

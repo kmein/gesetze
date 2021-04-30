@@ -1,15 +1,11 @@
-# [BGVPLTErG] Gesetz zur Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
-
-Ausfertigungsdatum: 19.10.2013
-
+% Gesetz zur Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation
+% Ausfertigungsdatum: 19.10.2013
  
-
-## § 1 – Errichtung, Zuständigkeit
+# § 1 – Errichtung, Zuständigkeit
 
 Zum 1. Januar 2016 wird als gewerbliche Berufsgenossenschaft die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation errichtet. Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist für die in § 121 Absatz 2 des Siebten Buches Sozialgesetzbuch genannten Unternehmen zuständig.
 
-
-## § 2 – Eingliederung der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft
+# § 2 – Eingliederung der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft
 
 (1) Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für Transport und Verkehrswirtschaft werden zum 1. Januar 2016 in die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation eingegliedert.
 
@@ -17,15 +13,13 @@ Zum 1. Januar 2016 wird als gewerbliche Berufsgenossenschaft die Berufsgenossens
 
 (3) Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für Transport und Verkehrswirtschaft werden aufgelöst.
 
-
-## § 3 – Sitz und Satzung
+# § 3 – Sitz und Satzung
 
 (1) Der Sitz der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation wird durch die Satzung bestimmt.
 
 (2) Die Satzung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation bedarf der Genehmigung des Bundesamtes für Soziale Sicherung.
 
-
-## § 4 – Dienstrechtliche Vorschriften
+# § 4 – Dienstrechtliche Vorschriften
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation hat Dienstherrnfähigkeit. Die Beamtinnen und Beamten sind Bundesbeamtinnen und Bundesbeamte. § 144 Satz 2 des Siebten Buches Sozialgesetzbuch findet keine Anwendung.
 
@@ -35,8 +29,7 @@ Zum 1. Januar 2016 wird als gewerbliche Berufsgenossenschaft die Berufsgenossens
 
 (4) Oberste Dienstbehörde für den Geschäftsführer und seinen Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für die übrigen Beamten der Vorstand der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, der seine Befugnisse ganz oder teilweise auf den Geschäftsführer übertragen kann.
 
-
-## § 5 – Übertragene Aufgaben, Verordnungsermächtigung
+# § 5 – Übertragene Aufgaben, Verordnungsermächtigung
 
 (1) Der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation werden folgende weitere Aufgaben übertragen:
 
@@ -58,15 +51,13 @@ für die in § 121 Absatz 2 Nummer 3 bis 8 des Siebten Buches Sozialgesetzbuch g
 
 (6) Das Nähere zur Aufgabenübertragung nach den Absätzen 1 bis 5 bestimmt das Bundesministerium der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
-
-## § 6 – Kosten bei Errichtung
+# § 6 – Kosten bei Errichtung
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation sowie der Eingliederung der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft erforderlich sind, werden sonstige Abgaben und Gerichtskosten in Grundbuchsachen nicht erhoben.
 
 (2) Die Abgaben- und Gerichtskostenfreiheit nach Absatz 1 ist von der zuständigen Stelle ohne Nachprüfung anzuerkennen, wenn die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation bestätigt, dass die Maßnahme der Durchführung dieses Gesetzes dient.
 
-
-## § 7 – Übertritt des Personals
+# § 7 – Übertritt des Personals
 
 (1) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation tritt mit Auflösung der Berufsgenossenschaft für Transport und Verkehrswirtschaft in die Dienstverhältnisse ein, die zu diesem Zeitpunkt zwischen der Berufsgenossenschaft für Transport und Verkehrswirtschaft und ihren Dienstordnungsangestellten bestehen. Die §§ 134 bis 137 des Bundesbeamtengesetzes gelten entsprechend.
 
@@ -76,13 +67,11 @@ für die in § 121 Absatz 2 Nummer 3 bis 8 des Siebten Buches Sozialgesetzbuch g
 
 (4) Die Neuorganisation ist sozialverträglich umzusetzen. Für die von der Unfallkasse Post und Telekom übergetretenen Beschäftigten gelten die §§ 26 bis 28 des Bundesanstalt Post-Gesetzes entsprechend.
 
-
-## § 8 – Geschäftsführer
+# § 8 – Geschäftsführer
 
 Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für Transport und Verkehrswirtschaft können für einen Übergangszeitraum von bis zu zehn Jahren nach der Fusion abweichend von § 36 Absatz 2 erster Halbsatz und Absatz 4 des Vierten Buches Sozialgesetzbuch eine besondere Regelung über die weitere Tätigkeit der bisherigen Geschäftsführerinnen und Geschäftsführer und ihrer Stellvertreterinnen und Stellvertreter als Geschäftsführerin oder Geschäftsführer und Stellvertreterin oder Stellvertreter der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation sowie über die jeweilige Zuständigkeit vereinbaren; dabei kann die Zahl der stellvertretenden Geschäftsführerinnen und Geschäftsführer bis zu vier Personen betragen oder eine aus bis zu fünf Personen bestehende Geschäftsführung gebildet werden. Die Vereinbarung bedarf der Genehmigung durch das Bundesamt für Soziale Sicherung.
 
-
-## § 9 – Sonstige personalrechtliche Übergangsregelungen
+# § 9 – Sonstige personalrechtliche Übergangsregelungen
 
 (1) Die Dienstordnung der Berufsgenossenschaft für Transport und Verkehrswirtschaft gilt fort.
 
@@ -92,35 +81,29 @@ Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für Transport und
 
 (4) Bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation wird im Zeitraum der regelmäßigen Personalratswahlen nach § 27 Absatz 1 des Bundespersonalvertretungsgesetzes im Jahr 2016 eine Personalvertretung gewählt. Die bisherigen Personalvertretungen der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft nehmen die Aufgaben der Personalvertretung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation wahr, bis sich die Personalvertretung konstituiert hat. Für die Jugend- und Auszubildendenvertretungen, die Schwerbehindertenvertretungen sowie die Gleichstellungsbeauftragten gelten die Sätze 1 und 2 entsprechend.
 
-
-## § 10 – Übergangsregelungen zu den Selbstverwaltungsorganen
+# § 10 – Übergangsregelungen zu den Selbstverwaltungsorganen
 
 Bis zum Ablauf der am 1. Januar 2016 laufenden Wahlperiode richten sich die Bildung und das Verfahren der Selbstverwaltungsorgane der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation nach den §§ 11 und 12. Im Übrigen gelten die Vorschriften des Ersten und Zweiten Titels des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch.
 
-
-## § 11 – Vertreterversammlung
+# § 11 – Vertreterversammlung
 
 (1) Die am 31. Dezember 2015 amtierenden Mitglieder der Vertreterversammlungen der Unfallkasse Post und Telekom und der Berufsgenossenschaft für Transport und Verkehrswirtschaft werden Mitglieder der Vertreterversammlung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation. Das Gleiche gilt für die am 31. Dezember 2015 amtierenden stellvertretenden Mitglieder der in Satz 1 genannten Vertreterversammlungen.
 
 (2) Die Vertreterversammlung tritt spätestens am 31. Januar 2016 erstmals zusammen. Für die erste Sitzung der Vertreterversammlung gelten die §§ 73 und 74 der Wahlordnung für die Sozialversicherung entsprechend mit der Maßgabe, dass die oder der Vorsitzende des Vorstandes der Berufsgenossenschaft für Transport und Verkehrswirtschaft die Aufgaben der oder des Vorsitzenden des Wahlausschusses wahrnimmt.
 
-
-## § 12 – Vorstand
+# § 12 – Vorstand
 
 Die am 31. Dezember 2015 amtierenden Mitglieder des Vorstandes der Unfallkasse Post und Telekom und des Vorstandes der Berufsgenossenschaft für Transport und Verkehrswirtschaft werden Mitglieder des Vorstandes der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation. Das Gleiche gilt für die am 31. Dezember 2015 amtierenden stellvertretenden Mitglieder der in Satz 1 genannten Vorstände.
 
-
-## § 13 – Gefahrtarif- und Beitragsgestaltung
+# § 13 – Gefahrtarif- und Beitragsgestaltung
 
 Die Unfallkasse Post und Telekom und die Berufsgenossenschaft für Transport und Verkehrswirtschaft können eine Vereinbarung über die Gefahrtarif- und Beitragsgestaltung für einen Übergangszeitraum nach der Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation abschließen. Sie legen die Vereinbarung dem Bundesamt für Soziale Sicherung vor. § 118 Absatz 1 Satz 4 und 6 sowie Absatz 4 Satz 1 des Siebten Buches Sozialgesetzbuch findet entsprechend Anwendung.
 
-
-## § 14 – Haushalt
+# § 14 – Haushalt
 
 Der Haushaltsplan der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation besteht für das Haushaltsjahr 2016 aus zwei Teilhaushalten. Abweichend von § 70 Absatz 1 des Vierten Buches Sozialgesetzbuch wird im Jahr 2015 der Teilhaushalt für den Zuständigkeitsbereich der früheren Unfallkasse Post und Telekom von deren Vorstand aufgestellt und von deren Vertreterversammlung festgestellt. Der Teilhaushalt für den Zuständigkeitsbereich der früheren Berufsgenossenschaft für Transport und Verkehrswirtschaft wird von deren Vorstand aufgestellt und von deren Vertreterversammlung festgestellt. Beide Teilhaushalte werden im Jahr 2016 zu einem Gesamthaushalt zusammengeführt. Dieser wird vom Vorstand der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation aufgestellt und von deren Vertreterversammlung festgestellt.
 
-
-## § 15 – Übernahme weiterer Aufgaben für die Mitgliedsunternehmen
+# § 15 – Übernahme weiterer Aufgaben für die Mitgliedsunternehmen
 
 Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation kann nach Maßgabe entgeltlicher Geschäftsbesorgungsverträge, die sie mit ihren in § 121 Absatz 2 Nummer 3 bis 8 des Siebten Buches Sozialgesetzbuch genannten Mitgliedsunternehmen schließt, für diese folgende weitere Aufgaben übernehmen:
 

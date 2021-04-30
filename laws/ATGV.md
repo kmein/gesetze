@@ -1,15 +1,11 @@
-# [ATGV] Auslandstrennungsgeldverordnung  (ATGV)
-
-Ausfertigungsdatum: 27.06.2018
-
+% Auslandstrennungsgeldverordnung  (ATGV)
+% Ausfertigungsdatum: 27.06.2018
  
-
-## § 1 – Regelungsgegenstand
+# § 1 – Regelungsgegenstand
 
 Diese Verordnung regelt die bei grenzüberschreitenden dienstlichen Maßnahmen erforderlichen Abweichungen von den allgemein für Bundesbedienstete geltenden Vorschriften über die Gewährung von Trennungsgeld.
 
-
-## § 2 – Anwendungsbereich, Zweck
+# § 2 – Anwendungsbereich, Zweck
 
 (1) Auslandstrennungsgeld wird aus Anlass von Umsetzungen, Abordnungen, Versetzungen und versetzungsgleichen Maßnahmen (§ 3 Absatz 2 des Bundesumzugskostengesetzes) vom Inland ins Ausland, im Ausland und vom Ausland ins Inland gewährt. Der Abordnung stehen gleich
 
@@ -29,8 +25,7 @@ Bei Einstellungen ins Ausland und im Ausland bei vorübergehender Dauer des Dien
 
 (3) Auslandstrennungsgeld wird nur gewährt, wenn bei Maßnahmen nach Absatz 1 der neue Dienstort ein anderer als der bisherige ist, es sei denn, dass die Wohnung am neuen Dienstort oder im Einzugsgebiet der neuen Dienststätte liegt. Die Wohnung liegt im Einzugsgebiet der neuen Dienststätte, wenn sie auf einer üblicherweise befahrenen Strecke weniger als 30 Kilometer von ihr entfernt ist.
 
-
-## § 3 – Berechtigte
+# § 3 – Berechtigte
 
 (1) Berechtigt sind
 
@@ -50,8 +45,7 @@ Bei Einstellungen ins Ausland und im Ausland bei vorübergehender Dauer des Dien
 
 3. ehrenamtliche Richter.
 
-
-## § 4 – Voraussetzungen für die Gewährung von Auslandstrennungsgeld
+# § 4 – Voraussetzungen für die Gewährung von Auslandstrennungsgeld
 
 (1) Auslandstrennungsgeld wird gewährt, wenn die berechtigte Person in häuslicher Gemeinschaft lebt
 
@@ -73,8 +67,7 @@ Auslandstrennungsgeld wird nur gewährt, wenn die berechtigte Person eine Wohnun
 
 (+++ § 4: Zur Nichtanwendung vgl. § 12 Abs. 7 +++)
 
-
-## § 5 – Auslandstrennungsgeld nach Zusage der Umzugskostenvergütung
+# § 5 – Auslandstrennungsgeld nach Zusage der Umzugskostenvergütung
 
 (1) Nach uneingeschränkter Zusage der Umzugskostenvergütung wird Auslandstrennungsgeld gewährt, wenn die berechtigte Person seit dem Tag des Wirksamwerdens der Zusage oder, falls für die berechtigte Person günstiger, der dienstlichen Maßnahme nach § 2 Absatz 1 uneingeschränkt umzugswillig ist und sich ständig um eine Wohnung bemüht, aber wegen Wohnungsmangels am neuen Dienstort und im Einzugsgebiet der neuen Dienststätte oder aus zwingenden persönlichen Gründen nach § 12 Absatz 3 des Bundesumzugskostengesetzes vorübergehend nicht umziehen kann. Der Umzug darf nicht durch unangemessene Ansprüche an die Wohnung oder aus anderen nicht zwingenden Gründen verzögert werden.
 
@@ -84,8 +77,7 @@ Auslandstrennungsgeld wird nur gewährt, wenn die berechtigte Person eine Wohnun
 
 (+++ § 5: Zur Nichtanwendung vgl. § 12 Abs. 7 +++)
 
-
-## § 6 – Arten des Auslandstrennungsgelds
+# § 6 – Arten des Auslandstrennungsgelds
 
 Als Auslandstrennungsgeld werden gewährt:
 
@@ -107,8 +99,7 @@ c) Abgeltung auslandstrennungsbedingten Mehraufwands (§ 9),
 
 (+++ § 6: Zur Nichtanwendung vgl. § 12 Abs. 7 +++)
 
-
-## § 7 – Auslandstrennungstagegeld
+# § 7 – Auslandstrennungstagegeld
 
 (1) Als Auslandstrennungstagegeld wird gewährt
 
@@ -130,8 +121,7 @@ c) Abgeltung auslandstrennungsbedingten Mehraufwands (§ 9),
 
 (+++ § 7: Zur Nichtanwendung vgl. § 12 Abs. 7 +++)
 
-
-## § 8 – Auslandstrennungsübernachtungsgeld
+# § 8 – Auslandstrennungsübernachtungsgeld
 
 (1) Als Auslandstrennungsübernachtungsgeld wird gewährt
 
@@ -145,8 +135,7 @@ c) Abgeltung auslandstrennungsbedingten Mehraufwands (§ 9),
 
 (+++ § 8: Zur Nichtanwendung vgl. § 12 Abs. 7 +++)
 
-
-## § 9 – Auslandstrennungsbedingter Mehraufwand
+# § 9 – Auslandstrennungsbedingter Mehraufwand
 
 (1) Bei Maßnahmen nach § 2 Absatz 1 im Ausland und vom Ausland ins Inland wird der auslandstrennungsbedingte Mehraufwand einer getrennten Haushaltsführung wie folgt abgegolten:
 
@@ -166,15 +155,13 @@ Erhält eine berücksichtigungsfähige Person selbst einen Auslandszuschlag oder
 
 (+++ § 9: Zur Nichtanwendung vgl. § 12 Abs. 7 +++)
 
-
-## § 10 – Vorwegumzug
+# § 10 – Vorwegumzug
 
 (1) Wird ein Umzug, für den eine uneingeschränkte Umzugskostenvergütung zugesagt ist, aus Anlass einer Maßnahme nach § 2 Absatz 1 vor deren Wirksamwerden durchgeführt, wird Auslandstrennungsgeld in entsprechender Anwendung der §§ 7, 8 und 9 Absatz 1 Nummer 2 ab dem Tag nach dem Eintreffen der zur häuslichen Gemeinschaft gehörenden Personen am neuen Dienst- oder Wohnort bis zum Ablauf des Tages der Beendigung der Dienstantrittsreise der berechtigten Person, längstens jedoch für sechs Monate gewährt.
 
 (2) Das Auslandstrennungstagegeld nach § 7 wird für die berechtigte Person am bisherigen Dienst- oder Wohnort berechnet. Das Auslandstrennungsübernachtungsgeld nach § 8 für eine Unterkunft am neuen Dienst- oder Wohnort im Ausland umfasst alle unmittelbar mit der Nutzung zusammenhängenden Nebenkosten. Der auslandstrennungsbedingte Mehraufwand nach § 9 Absatz 1 Nummer 2 wird berechnet nach dem künftigen Auslandszuschlag der berechtigten Person am neuen Dienst- oder Wohnort im Ausland.
 
-
-## § 11 – Entschädigung bei täglicher Rückkehr zum Wohnort
+# § 11 – Entschädigung bei täglicher Rückkehr zum Wohnort
 
 (1) Eine berechtigte Person, die täglich an ihren Wohnort zurückkehrt oder der die tägliche Rückkehr zuzumuten ist, erhält Fahrtkostenerstattung oder Wegstreckenentschädigung wie bei Dienstreisen.
 
@@ -182,8 +169,7 @@ Erhält eine berücksichtigungsfähige Person selbst einen Auslandszuschlag oder
 
 (3) Muss der Berechtigte aus dienstlichen Gründen am Dienstort übernachten, werden die nachgewiesenen notwendigen Mehraufwendungen erstattet.
 
-
-## § 12 – Auslandstrennungsgeld in Sonderfällen
+# § 12 – Auslandstrennungsgeld in Sonderfällen
 
 (1) Haben beide Ehegatten oder Lebenspartner Anspruch auf Auslandstrennungsgeld nach dieser Verordnung, kann jede berechtigte Person nur Leistungen wie eine nach § 4 Absatz 2 berechtigte Person erhalten; Reisebeihilfen für Heimfahrten werden nach § 13 Absatz 1 Satz 1 gewährt. Wenn Personen im Sinne des § 4 Absatz 1 Satz 1 Nummer 1 bis 3, die in häuslicher Gemeinschaft mit der berechtigten Person leben, in der bisherigen Wohnung verbleiben, erhält einer der Ehegatten oder Lebenspartner Auslandstrennungsgeld wie eine nach § 4 Absatz 1 berechtigte Person. Steht dem Ehegatten oder Lebenspartner einer berechtigten Person Trennungsgeld nach § 3 der Trennungsgeldverordnung oder eine entsprechende Entschädigung nach den Vorschriften eines anderen Dienstherrn zu, gelten die Sätze 1 und 2 entsprechend.
 
@@ -207,8 +193,7 @@ Erhält eine berücksichtigungsfähige Person selbst einen Auslandszuschlag oder
 
 (+++ § 12 Abs. 3: Zur Anwendung vgl. § 14 Abs. 2 und 3 +++)
 
-
-## § 13 – Reisebeihilfen für Heimfahrten
+# § 13 – Reisebeihilfen für Heimfahrten
 
 (1) Eine nach § 4 Absatz 1 berechtigte Person erhält für jeweils drei Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine Heimfahrt. Eine nach § 4 Absatz 2 berechtigte Person erhält für jeweils sechs Monate der getrennten Haushaltsführung eine Reisebeihilfe für eine Heimfahrt. Die oberste Dienstbehörde kann insbesondere unter Berücksichtigung der Besonderheiten des Dienstortes und der persönlichen Situation des Betroffenen Ausnahmen zulassen; dies gilt auch für Fälle des § 12 Absatz 7.
 
@@ -228,8 +213,7 @@ Dies gilt entsprechend für eine Wohnungsbesichtigungsreise an den neuen Diensto
 
 (6) Einer nach § 4 Absatz 1 berechtigten Person werden als Reisebeihilfe die entstandenen notwendigen Fahrtkosten zwischen dem neuen Dienst- oder Wohnort und dem Wohnort einer Person nach § 4 Absatz 1 Satz 1 Nummer 1 bis 3, die mit der berechtigen Person in häuslicher Gemeinschaft lebt, oder einem Ort im Inland auf dem kürzesten Weg bis zur Höhe der billigsten Fahrkarte der allgemein niedrigsten Klasse eines regelmäßig verkehrenden Beförderungsmittels erstattet. Einer nach § 4 Absatz 2 berechtigten Person werden die entstandenen notwendigen Fahrtkosten nach Maßgabe von Satz 1 zwischen dem neuen Dienst- oder Wohnort und dem bisherigen Dienst- oder Wohnort oder einem Ort im Inland erstattet. In diesem Kostenrahmen wird eine Reisebeihilfe auch für eine Reise zum Urlaubsort einer Person nach § 4 Absatz 1 Satz 1 Nummer 1, die mit der berechtigten Person in häuslicher Gemeinschaft lebt, gewährt. Mögliche Fahrpreisermäßigungen sind zu berücksichtigen. Soweit dienstliche Beförderungsmittel unentgeltlich benutzt werden können, werden Fahrtkosten nicht erstattet.
 
-
-## § 14 – Anspruchszeitraum
+# § 14 – Anspruchszeitraum
 
 (1) Auslandstrennungsgeld wird grundsätzlich vom Tag nach Beendigung der Dienstantrittsreise zum neuen Dienstort bis zu dem Tag gezahlt, an dem die maßgebenden Voraussetzungen wegfallen. Bei Maßnahmen nach § 2 Absatz 1 vom Ausland ins Inland wird abweichend hiervon das Auslandstrennungsgeld ab dem Tag des Beginns der Dienstantrittsreise gezahlt. Satz 2 gilt entsprechend für die Rückreise zum alten Dienstort aus Anlass der Aufhebung einer Abordnung vom Ausland ins Inland.
 
@@ -243,8 +227,7 @@ Dies gilt entsprechend für eine Wohnungsbesichtigungsreise an den neuen Diensto
 
 (6) Ändert sich für einen Inlandstrennungsgeldempfänger auf Grund einer Maßnahme nach § 2 Absatz 1 vom Inland ins Ausland der neue Dienstort für längstens zwölf Monate, können nachgewiesene notwendige Kosten für das Beibehalten der Unterkunft im Inland an Stelle von § 4 Absatz 6 der Trennungsgeldverordnung erstattet werden, wenn dem Berechtigten die Aufgabe der Unterkunft nicht zuzumuten ist.
 
-
-## § 15 – Verfahrensvorschriften
+# § 15 – Verfahrensvorschriften
 
 (1) Das Auslandstrennungsgeld wird auf schriftlichen oder elektronischen Antrag gewährt. Der Antrag kann nur innerhalb einer Ausschlussfrist von einem Jahr gestellt werden. Die Frist beginnt mit dem Tag des Dienstantritts, bei Zahlung von Reisekostenvergütung für diesen Tag mit dem Tag nach dem Dienstantritt.
 
@@ -254,7 +237,6 @@ Dies gilt entsprechend für eine Wohnungsbesichtigungsreise an den neuen Diensto
 
 (4) Die oberste Dienstbehörde bestimmt die zuständige Behörde für die Bewilligung und Zahlung des Auslandstrennungsgelds.
 
-
-## § 16 – Übergangsregelungen
+# § 16 – Übergangsregelungen
 
 Auslandstrennungsgeld für dienstliche Maßnahmen nach § 2 Absatz 1, die bis zum Tag vor dem Inkrafttreten dieser Verordnung begonnen haben, wird nach den bisherigen Vorschriften gewährt oder weiter gewährt.

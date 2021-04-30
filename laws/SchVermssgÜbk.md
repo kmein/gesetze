@@ -1,5 +1,3 @@
-# [SchVermssgÜbk] Übereinkommen über ein einheitliches System der Schiffsvermessung
-
-Ausfertigungsdatum: 10.06.1947
-
+% Übereinkommen über ein einheitliches System der Schiffsvermessung
+% Ausfertigungsdatum: 10.06.1947
  

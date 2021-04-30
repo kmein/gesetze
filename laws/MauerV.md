@@ -1,15 +1,11 @@
-# [MauerV] Verordnung nach § 6 des Mauergrundstücksgesetzes  (Mauergrundstücksverordnung - MauerV)
-
-Ausfertigungsdatum: 02.08.2001
-
+% Verordnung nach § 6 des Mauergrundstücksgesetzes  (Mauergrundstücksverordnung - MauerV)
+% Ausfertigungsdatum: 02.08.2001
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 6 des Mauergrundstücksgesetzes vom 15. Juli 1996 (BGBl. I S. 980) verordnet das Bundesministerium der Finanzen:
 
-
-## § 1 – Mittel des Fonds nach § 5 des Mauergrundstücksgesetzes
+# § 1 – Mittel des Fonds nach § 5 des Mauergrundstücksgesetzes
 
 (1) Dem Fonds stehen die Einnahmen aus der Veräußerung der Mauer- und Grenzgrundstücke abzüglich der Leistungen an Berechtigte nach § 3 Abs. 1 und 2 des Mauergrundstücksgesetzes und der Nebenkosten nach § 2 Abs. 2 des Mauergrundstücksgesetzes zu.
 
@@ -29,8 +25,7 @@ Hinsichtlich der Zahlungsmodalitäten nach § 3 des Mauergrundstücksgesetzes is
 
 (3) Von den Einnahmen ist ein Rückbehalt für Ausgaben nach Absatz 2 Satz 2 abzuziehen, bevor dem Fonds Mittel zugewiesen werden. Das Bundesministerium der Finanzen setzt den Rückbehalt nach dem absehbaren Bedarf fest.
 
-
-## § 2 – Zweckbestimmung und Verteilung der Mittel
+# § 2 – Zweckbestimmung und Verteilung der Mittel
 
 (1) Die Mittel des Fonds werden für Projekte verwendet, die wirtschaftlichen, sozialen und kulturellen Zwecken in dem in Artikel 3 des Einigungsvertrages genannten Gebiet (Beitrittsgebiet) dienen. Die Mittel dürfen nicht für die Erfüllung von rechtlichen Verpflichtungen eingesetzt werden.
 
@@ -53,26 +48,22 @@ Hinsichtlich der Zahlungsmodalitäten nach § 3 des Mauergrundstücksgesetzes is
 
 (6) Ergänzungen zu den Verfahrensbestimmungen dieser Rechtsverordnung können durch Verwaltungsvereinbarung geregelt werden.
 
-
-## § 3 – Status, Verwaltung und Vertretung des Fonds
+# § 3 – Status, Verwaltung und Vertretung des Fonds
 
 (1) Das Bundesministerium der Finanzen verwaltet den Fonds und vertritt ihn nach außen. Der Fonds ist nicht rechtsfähig, kann aber unter seinem Namen im rechtsgeschäftlichen Verkehr handeln und klagen oder verklagt werden.
 
 (2) Der Fonds ist von dem übrigen Vermögen des Bundes, seinen Rechten und Verbindlichkeiten getrennt zu halten. Der Bund haftet nicht für die Verbindlichkeiten des Fonds.
 
-
-## § 4 – Wirtschaftsplan und Jahresrechnung
+# § 4 – Wirtschaftsplan und Jahresrechnung
 
 (1) Das Bundesministerium der Finanzen stellt jährlich einen Wirtschaftsplan auf. Eine Übersicht wird dem Bundeshaushalt als Anlage beigefügt.
 
 (2) Das Bundesministerium der Finanzen stellt am Schluss eines jeden Rechnungsjahres die Jahresrechnung (Haushalts- und Vermögensrechnung) für den Fonds auf. Eine Übersicht ist der Jahresrechnung des Bundes beizufügen.
 
-
-## § 5 – Schlussabrechnung
+# § 5 – Schlussabrechnung
 
 Mit der vollständigen Verteilung der Mittel endet der Fonds. Die Auflösung des Fonds wird im Bundesgesetzblatt bekannt gegeben.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

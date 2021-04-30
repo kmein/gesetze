@@ -1,10 +1,7 @@
-# [AM-HandelsV] Verordnung über den Großhandel und die Arzneimittelvermittlung  (Arzneimittelhandelsverordnung - AM-HandelsV)
-
-Ausfertigungsdatum: 10.11.1987
-
+% Verordnung über den Großhandel und die Arzneimittelvermittlung  (Arzneimittelhandelsverordnung - AM-HandelsV)
+% Ausfertigungsdatum: 10.11.1987
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,25 +13,21 @@ des § 54 Abs. 1 bis 2a des Arzneimittelgesetzes, dessen Überschrift sowie Absa
 
 mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung findet Anwendung auf Betriebe und Einrichtungen, soweit sie Großhandel mit Arzneimitteln treiben, soweit nicht nach § 1 Abs. 2 der Arzneimittel- und Wirkstoffherstellungsverordnung vom 3. November 2006 (BGBl. I S. 2523), deren Vorschriften Anwendung finden. Die Verordnung findet auch Anwendung auf Arzneimittelvermittler im Sinne von § 4 Absatz 22a des Arzneimittelgesetzes, soweit diese Verordnung dies bestimmt.
 
-
-## § 1a – Qualitätssicherungssystem
+# § 1a – Qualitätssicherungssystem
 
 Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebspraxis von Arzneimitteln einhalten und hierfür ein funktionierendes Qualitätssicherungssystem entsprechend Art und Umfang der durchgeführten Tätigkeiten betreiben, das die aktive Beteiligung der Geschäftsführung vorsieht. Das Qualitätssicherungssystem muss insbesondere gewährleisten, dass Arzneimittel nur von hierfür berechtigten Betrieben und Einrichtungen bezogen und nur an solche geliefert werden, die Qualität der Arzneimittel auch während Lagerung und Transport nicht nachteilig beeinflusst wird, Verwechslungen vermieden werden und ein ausreichendes System der Rückverfolgung einschließlich der Durchführung eines Rückrufs besteht. Die nach § 2 Abs. 1 bestellte verantwortliche Person muss insbesondere dafür Sorge tragen, dass Bezug und Auslieferung der Arzneimittel gemäß den §§ 4a und 6 erfolgen und die schriftlichen oder elektronischen Verfahrensbeschreibungen in regelmäßigen Abständen geprüft, erforderlichenfalls an den Stand von Wissenschaft und Technik angepasst und befolgt werden. Soweit nach dieser Verordnung anstelle der Schriftform elektronische Verfahren eingesetzt werden dürfen, ist sicherzustellen, dass die elektronischen Dokumente für die jeweiligen Empfänger jederzeit leicht zugänglich sind und dass sie in hinreichender Weise vor unbefugten Manipulationen geschützt sind.
 
-
-## § 2 – Personal
+# § 2 – Personal
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, hat für jede Betriebsstätte mindestens eine Person zu bestellen, die für den ordnungsgemäßen Betrieb, insbesondere für die Einhaltung der Vorschriften der §§ 1a, 4 bis 7c dieser Verordnung verantwortlich ist.
 
 (2) Personal muß mit ausreichender fachlicher Qualifikation und in ausreichender Zahl vorhanden sein, um die Einhaltung der Vorschriften dieser Verordnung zu ermöglichen. Es darf nur entsprechend seiner Ausbildung und seinen Kenntnissen beschäftigt werden und ist über die beim Umgang mit Arzneimitteln gebotene Sorgfalt regelmäßig zu unterweisen.
 
-
-## § 3 – Beschaffenheit, Größe und Einrichtung der Betriebsräume
+# § 3 – Beschaffenheit, Größe und Einrichtung der Betriebsräume
 
 (1) Die Betriebsräume müssen nach Art, Größe, Zahl, Lage, Zustand und Einrichtung einen ordnungsgemäßen Betrieb des Großhandels mit Arzneimitteln gewährleisten.
 
@@ -50,8 +43,7 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 3. die mit der Aufsicht betrauten Personen.
 
-
-## § 4 – Umfüllen, Abpacken und Kennzeichnen von Arzneimitteln
+# § 4 – Umfüllen, Abpacken und Kennzeichnen von Arzneimitteln
 
 (1) Es dürfen nur solche Arzneimittel zum Zwecke der Abgabe umgefüllt oder abgepackt werden, deren erforderliche Qualität festgestellt ist.
 
@@ -61,8 +53,7 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (4) Arzneimittel, die zur Anwendung bei Menschen bestimmt und keine Fertigarzneimittel sind, dürfen nur in den Verkehr gebracht werden, wenn ihre Behältnisse und, soweit verwendet, die äußeren Umhüllungen nach § 10 Abs. 1 Nr. 1, 2, 4, 8 und 9 des Arzneimittelgesetzes in gut lesbarer Schrift, in deutscher Sprache und auf dauerhafte Weise gekennzeichnet sind. Zur Anwendung bei Tieren bestimmte Arzneimittel, die keine Fertigarzneimittel sind, dürfen nur in den Verkehr gebracht werden, wenn die Behältnisse und, soweit verwendet, die äußeren Umhüllungen mit den Angaben nach den §§ 10 und 11 des Arzneimittelgesetzes versehen sind.
 
-
-## § 4a – Bezug und Rücknahme von Arzneimitteln
+# § 4a – Bezug und Rücknahme von Arzneimitteln
 
 (1) Arzneimittel dürfen nur von zur Abgabe von Arzneimitteln berechtigten Betrieben erworben werden.
 
@@ -80,8 +71,7 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (4) Arzneimittel können aus Betrieben und Einrichtungen, die über eine Erlaubnis nach § 52a des Arzneimittelgesetzes oder nach dem Apothekengesetz verfügen oder die sonst zur Abgabe an den Verbraucher berechtigt sind, zurückgenommen werden.
 
-
-## § 5 – Lagerung
+# § 5 – Lagerung
 
 (1) Arzneimittel sind so zu lagern, daß ihre Qualität nicht nachteilig beeinflußt wird und Verwechslungen vermieden werden. Die für bestimmte Arzneimittel erforderliche Lagertemperatur ist durch Kühleinrichtungen oder sonstige Maßnahmen sicherzustellen. Lagerungshinweise sind zu beachten.
 
@@ -91,8 +81,7 @@ Betriebe und Einrichtungen müssen die EU-Leitlinien für die Gute Vertriebsprax
 
 (4) Arzneimittel, die nicht verkehrsfähig sind, sind zu vernichten oder, soweit eine Rückgabe an den Lieferanten vorgesehen ist, zurückzugeben.
 
-
-## § 6 – Auslieferung
+# § 6 – Auslieferung
 
 (1) Soweit durch Rechtsvorschrift nichts anderes zugelassen ist, dürfen Lieferungen von Arzneimitteln nur an Betriebe und Einrichtungen erfolgen, die über eine Erlaubnis nach § 13 oder nach § 52a des Arzneimittelgesetzes oder eine Erlaubnis nach Artikel 40 oder eine Genehmigung nach Artikel 77 der Richtlinie 2001/83/EG oder eine Erlaubnis nach Artikel 44 oder eine Genehmigung nach Artikel 65 der Richtlinie 2001/82/EG verfügen oder die zur Abgabe an den Endverbraucher befugt sind. Abweichend von Satz 1 dürfen Lieferungen von Arzneimitteln auch an das Bundesministerium für Gesundheit oder an von diesem beauftragte Stellen erfolgen, wenn das Bundesministerium für Gesundheit oder eine von ihm beauftragte Stelle Arzneimittel nach § 79 Absatz 4a des Arzneimittelgesetzes beschafft hat. Liefern Großhändler Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, an Personen mit Sitz außerhalb der Europäischen Union oder eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum, haben sie sich zu vergewissern, dass die Empfänger nach den anwendbaren Rechts- und Verwaltungsvorschriften ihres Staates befugt sind, Arzneimittel zum Großhandel oder zur Abgabe an die Öffentlichkeit zu erhalten.
 
@@ -126,8 +115,7 @@ Die nach den Sätzen 1 bis 4 beizufügenden Unterlagen und erforderlichen Angabe
 
 (3) Während des Transports der Arzneimittel ist bis zur Übergabe in den Verantwortungsbereich des Empfängers dafür Sorge zu tragen, dass kein Unbefugter Zugriff zu den Arzneimitteln hat und die Qualität der Arzneimittel nicht beeinträchtigt wird.
 
-
-## § 7 – Dokumentation
+# § 7 – Dokumentation
 
 (1) Über jeden Bezug und jede Abgabe von Arzneimitteln sind Aufzeichnungen in Form von Einkaufs-/Verkaufsrechnungen, in rechnergestützter Form oder in jeder sonstigen Form zu führen, die die Angaben nach § 6 Abs. 2 enthalten.
 
@@ -139,15 +127,13 @@ Die nach den Sätzen 1 bis 4 beizufügenden Unterlagen und erforderlichen Angabe
 
 (4) Bei der Aufbewahrung der Aufzeichnungen auf Datenträgern muß insbesondere sichergestellt sein, daß die Daten während der Dauer der Aufbewahrungsfrist verfügbar sind und innerhalb einer angemessenen Frist lesbar gemacht werden können.
 
-
-## § 7a – Rückrufplan, Rückrufe von Arzneimitteln
+# § 7a – Rückrufplan, Rückrufe von Arzneimitteln
 
 (1) Wer einen Arzneimittelgroßhandel betreibt, muß einen Rückrufplan bereithalten, der die Durchführung jedes Rückrufes eines Arzneimittels gewährleistet, der nach Angaben der zuständigen Behörden oder des pharmazeutischen Unternehmers erfolgt.
 
 (2) Der Rückrufplan und die hierzu erforderlichen organisatorischen Abläufe müssen schriftlich oder elektronisch festgelegt sein. Über die Durchführung von Rückrufen müssen Aufzeichnungen geführt werden. § 7 Abs. 3 gilt entsprechend.
 
-
-## § 7b – Rücknahme von Arzneimitteln
+# § 7b – Rücknahme von Arzneimitteln
 
 (1) Nimmt der Betreiber eines Arzneimittelgroßhandels gelieferte Arzneimittel vom Empfänger zurück, so sind diese bis zu einer Entscheidung über ihre weitere Verwendung getrennt von den zur Abgabe bestimmten Beständen zu lagern.
 
@@ -169,20 +155,17 @@ Die nach den Sätzen 1 bis 4 beizufügenden Unterlagen und erforderlichen Angabe
 
 (4) Die Prüfung und Entscheidung nach Absatz 3 muß durch dafür besonders eingewiesenes Personal erfolgen. Die Prüfanweisung und die organisatorischen Abläufe sind schriftlich oder elektronisch festzulegen.
 
-
-## § 7c – Selbstinspektion
+# § 7c – Selbstinspektion
 
 (1) Um die Beachtung der Vorschriften dieser Verordnung sicherzustellen, müssen regelmäßig Selbstinspektionen durchgeführt werden. Über die Selbstinspektionen und anschließend ergriffene Maßnahmen müssen Aufzeichnungen geführt und aufbewahrt werden.
 
 (2) Die nach § 2 Abs. 1 bestellte Person hat sich zu vergewissern, dass Arzneimittel nur von Lieferanten bezogen werden, die für den Handel mit Arzneimitteln befugt sind.
 
-
-## § 8 – Dienstbereitschaft in Krisenzeiten
+# § 8 – Dienstbereitschaft in Krisenzeiten
 
 Die zuständige Behörde kann die Dienstbereitschaft für Arzneimittelgroßhandelsbetriebe anordnen, wenn und solange die notwendige Belieferung der Apotheken und tierärztlichen Hausapotheken mit Arzneimitteln sonst ernstlich gefährdet wäre. Die Anordnung ist zu befristen; sie kann verlängert werden.
 
-
-## § 9 – Anforderungen an Arzneimittelvermittler
+# § 9 – Anforderungen an Arzneimittelvermittler
 
 (1) Die §§ 1a und 7a gelten entsprechend. § 7 Absatz 1, 3 und Absatz 4 gilt entsprechend mit der Maßgabe, dass die Aufzeichnungen über die getätigten Handelsvorgänge zu führen sind.
 
@@ -190,8 +173,7 @@ Die zuständige Behörde kann die Dienstbereitschaft für Arzneimittelgroßhande
 
 (3) Über jeden Verdacht einer Arzneimittelfälschung sind die zuständige Behörde und der jeweilige Zulassungsinhaber unverzüglich zu informieren.
 
-
-## § 10 – Ordnungswidrigkeiten
+# § 10 – Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -233,8 +215,7 @@ c) entgegen § 7 Absatz 3 Satz 5 oder 6, auch in Verbindung mit § 9 Absatz 1 Sa
 
 d) entgegen § 9 Absatz 3 die zuständige Behörde nicht oder nicht rechtzeitig informiert.
 
-
-## § 11 – Übergangsbestimmungen
+# § 11 – Übergangsbestimmungen
 
 (1) Arzneimittel, die vor dem Inkrafttreten dieser Verordnung nicht den Vorschriften dieser Verordnung entsprechend umgefüllt, abgepackt oder gekennzeichnet wurden, dürfen noch bis zum 31. Dezember 1988 in den Verkehr gebracht werden.
 
@@ -252,15 +233,12 @@ d) entgegen § 9 Absatz 3 die zuständige Behörde nicht oder nicht rechtzeitig 
 
 (6) Wer bei Wirksamwerden des Beitritts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet einen Großhandel mit Arzneimitteln im Sinne des § 9 Abs. 1 betreibt, dem gilt die amtliche Anerkennung im Sinne des § 9 vorläufig als erteilt. Die vorläufige amtliche Anerkennung erlischt, wenn nicht bis zum 30. Juni 1991 die Erteilung einer endgültigen amtlichen Anerkennung beantragt wird und, im Falle rechtzeitiger Antragstellung, mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit

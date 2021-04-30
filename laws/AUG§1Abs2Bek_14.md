@@ -1,10 +1,7 @@
-# [AUG§1Abs2Bek 14] Vierzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
-
-Ausfertigungsdatum: 14.08.1992
-
+% Vierzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes
+% Ausfertigungsdatum: 14.08.1992
  
-
-## ----
+# ----
 
 Auf Grund des § 1 Abs. 2 des Auslandsunterhaltsgesetzes vom 19. Dezember 1986 (BGBl. I S. 2563) wird bekanntgemacht, daß die Gegenseitigkeit im Sinne dieses Gesetzes im Verhältnis zu folgenden Staaten verbürgt ist:
 
@@ -18,6 +15,5 @@ Virginia;
 
 Neuschottland.
 
-Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 11. Mai 1992 (BGBl. I S. 991).  
-  
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 11. Mai 1992 (BGBl. I S. 991).   
 Der Bundesminister der Justiz

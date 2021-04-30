@@ -1,10 +1,7 @@
-# [ZerlG] Zerlegungsgesetz  (ZerlG)
-
-Ausfertigungsdatum: 06.08.1998
-
+% Zerlegungsgesetz  (ZerlG)
+% Ausfertigungsdatum: 06.08.1998
  
-
-## § 1 – Unmittelbare Steuerberechtigung
+# § 1 – Unmittelbare Steuerberechtigung
 
 (1) Der Anspruch auf die Einkommensteuer oder die Körperschaftsteuer für ein Kalenderjahr steht unmittelbar dem Lande zu, in dem der Steuerpflichtige mit Ablauf des 10. Oktober dieses Jahres seinen Wohnsitz oder den Ort der Leitung hat. § 19 Abs. 1 und 2 sowie § 20 der Abgabenordnung gelten sinngemäß. Auszahlungsbeträge des Körperschaftsteuerguthabens mindern und Körperschaftsteuererhöhungsbeträge erhöhen die Körperschaftsteuer im Sinne des Satzes 1.
 
@@ -16,15 +13,13 @@ Ausfertigungsdatum: 06.08.1998
 
 (4) Die Vorschriften über die Zerlegung der Körperschaftsteuer (§§ 2 bis 6) und über die Zerlegung der Lohnsteuer (§ 7) bleiben unberührt.
 
-
-## § 1a – Unmittelbare Steuerberechtigung für die Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
+# § 1a – Unmittelbare Steuerberechtigung für die Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
 
 (1) Der Anspruch auf die Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes, soweit durch Rechtsverordnung zu § 19 Abs. 6 der Abgabenordnung für die Einkommensbesteuerung von Personen, die beschränkt steuerpflichtig oder nach § 1 Abs. 3 des Einkommensteuergesetzes unbeschränkt steuerpflichtig sind und ausschließlich mit Einkünften im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes zu veranlagen sind, einer Finanzbehörde die örtliche Zuständigkeit übertragen worden ist, steht unmittelbar dem Land zu, in dem der Steuerpflichtige seinen letzten inländischen Wohnsitz, sofern kein letzter inländischer Wohnsitz feststellbar ist, den letzten inländischen Tätigkeitsort hatte.
 
 (2) § 1 Abs. 3 Satz 1 und 2 und § 8a Abs. 4 gelten entsprechend. Die Überweisungen erfolgen monatlich und sind am 15. des Folgemonats zu leisten.
 
-
-## § 2 – Grundlagen der Zerlegung der Körperschaftsteuer
+# § 2 – Grundlagen der Zerlegung der Körperschaftsteuer
 
 (1) Bei Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne der § 1 und 2 Nr. 1 des Körperschaftsteuergesetzes (Körperschaften), die im Veranlagungszeitraum im Geltungsbereich dieses Gesetzes außerhalb des nach § 1 Abs. 1 steuerberechtigten Landes eine Betriebsstätte, mehrere Betriebsstätten oder Teile von Betriebsstätten unterhalten haben, ist die auf die Einkünfte aus Gewerbebetrieb entfallende nach Abzug anzurechnender Steuerabzugsbeträge und anzurechnender Körperschaftsteuer verbleibende Körperschaftsteuer durch das für die Veranlagung zuständige Finanzamt (Erhebungsfinanzamt) auf die beteiligten Länder zu zerlegen, wenn sie mindestens einen absoluten Betrag von 500 000 Euro erreicht. Dabei sind die Vorschriften der § 28 bis 31 und des § 33 des Gewerbesteuergesetzes entsprechend anzuwenden. Die Zerlegungsmaßstäbe sind als Prozentsätze, die auf drei Stellen hinter dem Komma zu runden sind, zu berechnen. In den Fällen des § 37 Abs. 5 und des § 38 Abs. 5 bis 9 des Körperschaftsteuergesetzes in der jeweils geltenden Fassung ist die verbleibende Körperschaftsteuer im Sinne des Satzes 1 um einen Auszahlungsbetrag gemindert und um einen Körperschaftsteuererhöhungsbetrag erhöht. Maßgeblich ist die verbleibende Körperschaftsteuer, die für den Veranlagungszeitraum festgesetzt wird, in dem der Auszahlungsbetrag nach § 37 Abs. 5 Satz 4 des Körperschaftsteuergesetzes zu erstatten ist und der Körperschaftsteuererhöhungsbetrag nach § 38 Abs. 6 bis 10 des Körperschaftsteuergesetzes zu entrichten ist. Ein Betrag nach § 37 Absatz 6 Satz 3 des Körperschaftsteuergesetzes erhöht und ein Betrag nach § 38 Abs. 10 des Körperschaftsteuergesetzes vermindert die verbleibende Körperschaftsteuer im Sinne des Satzes 1; Satz 5 gilt insoweit entsprechend.
 
@@ -38,8 +33,7 @@ Ausfertigungsdatum: 06.08.1998
 
 (+++ § 2 Abs. 3: Zur Anwendung vgl. § 12 Abs. 2 +++)
 
-
-## § 3 – Zerlegung der verbleibenden Körperschaftsteuer
+# § 3 – Zerlegung der verbleibenden Körperschaftsteuer
 
 (1) Das Erhebungsfinanzamt zerlegt die verbleibende Körperschaftsteuer auf die beteiligten Länder, sobald die erste Steuerfestsetzung für den Veranlagungszeitraum durchgeführt worden ist, und setzt die Zerlegungsanteile der einzelnen Länder fest.
 
@@ -51,8 +45,7 @@ Ausfertigungsdatum: 06.08.1998
 
 (5) Stellt sich nachträglich heraus, daß ein Land bei der Zerlegung nicht oder mit einem unzutreffenden Zerlegungsmaßstab berücksichtigt worden ist, oder ist bei der Zerlegung der verbleibenden Körperschaftsteuer ein Fehler unterlaufen, so ist die Zerlegung der verbleibenden Körperschaftsteuer zu ändern.
 
-
-## § 4 – Zerlegung der Körperschaftsteuer-Vorauszahlungen
+# § 4 – Zerlegung der Körperschaftsteuer-Vorauszahlungen
 
 (1) Sofern die Voraussetzungen für eine Zerlegung der Körperschaftsteuer vorliegen, zerlegt das beauftragte Finanzamt (§ 6 Absatz 1) die im Kalendervierteljahr eingehenden Körperschaftsteuer-Vorauszahlungen auf die beteiligten Länder.
 
@@ -62,8 +55,7 @@ Ausfertigungsdatum: 06.08.1998
 
 (+++ § 4 Abs. 1: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
-
-## § 5 – Abrechnung der Zerlegung
+# § 5 – Abrechnung der Zerlegung
 
 (1) Das beauftragte Finanzamt rechnet mit Ablauf des Kalendervierteljahres, in dem die verbleibende Körperschaftsteuer abzüglich etwaiger niedergeschlagener oder erlassener Beträge getilgt oder erstattet worden ist, die Zerlegungsanteile ab. Der Zahlungs- oder Erstattungsanspruch gegenüber den anderen Ländern ergibt sich aus dem Unterschied zwischen dem jeweiligen Zerlegungsanteil und den Zahlungen oder Erstattungen auf Grund der Zerlegung der Körperschaftsteuer-Vorauszahlungen. Etwaige erlassene oder niedergeschlagene Beträge sind im Verhältnis der Zerlegungsanteile wie Vorauszahlungen abzurechnen.
 
@@ -73,8 +65,7 @@ Ausfertigungsdatum: 06.08.1998
 
 (+++ § 5 Abs. 1 Satz 1: Zur Anwendung vgl. § 12 Abs. 3 +++)
 
-
-## § 6 – Verfahrensrechtliche Vorschriften
+# § 6 – Verfahrensrechtliche Vorschriften
 
 (1) Die oberste Finanzbehörde des Landes beauftragt ein Finanzamt mit der Wahrnehmung der Rechte des Landes an der Zerlegung (beauftragtes Finanzamt).
 
@@ -92,8 +83,7 @@ Ausfertigungsdatum: 06.08.1998
 
 (+++ § 6 Abs. 7: Zur erstmaligen Anwendung vgl. § 12 Abs. 2 Satz 4 +++)
 
-
-## § 7 – Zerlegung der Lohnsteuer
+# § 7 – Zerlegung der Lohnsteuer
 
 (1) Die von einem Land vereinnahmte Lohnsteuer wird insoweit zerlegt, als sie von den Bezügen der in den anderen Ländern ansässigen unbeschränkt steuerpflichtigen Arbeitnehmer insgesamt einbehalten worden ist. Die Zerlegungsanteile der einzelnen Länder bemessen sich nach Prozentsätzen der vereinnahmten Lohnsteuer. Die Prozentsätze sind nach den Verhältnissen im Feststellungszeitraum festzusetzen. Feststellungszeitraum ist jeweils das Kalenderjahr.
 
@@ -117,8 +107,7 @@ Ausfertigungsdatum: 06.08.1998
 
 (8) Die Vorschriften der § 185 bis 189 der Abgabenordnung sind auf das Verfahren bei der Zerlegung der Lohnsteuer nicht anzuwenden.
 
-
-## § 8 – Zerlegung der Kapitalertragsteuer
+# § 8 – Zerlegung der Kapitalertragsteuer
 
 (1) Der Länder- und Gemeindeanteil am Aufkommen der Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes werden kalendervierteljährlich zerlegt. Die Zerlegungsanteile bemessen sich nach Prozentsätzen des nach Wohnsitz oder Sitz des Steuerschuldners auf das jeweilige Land entfallenden Anteils am Aufkommen nach Satz 1. Zur Ermittlung der Prozentsätze hat die die Kapitalerträge auszahlende Stelle (Zahlstelle) anhand der ihr vorliegenden Unterlagen unter Anwendung der Postleitzahlen des Wohnsitzes oder Sitzes die auf die einzelnen Länder entfallende Kapitalertragsteuer festzustellen. Bei Personenhandelsgesellschaften ist für die Zuordnung auf den Sitz der Gesellschaft, bei sonstigen Personenmehrheiten auf die von der Zahlstelle geführte Anschrift abzustellen. Die Zahlstelle hat die festgestellten Daten bis zum zehnten des auf den Zufluss der Kapitalerträge folgenden Monats an das nach § 44 Abs. 1 Satz 5 des Einkommensteuergesetzes zuständige Finanzamt entsprechend den Maßgaben des § 45a Abs. 1 Satz 1 und 4 des Einkommensteuergesetzes zu übermitteln.
 
@@ -127,8 +116,7 @@ Ausfertigungsdatum: 06.08.1998
 (+++ § 8 F. 14.8.2007: Zur erstmaligen Anwendung vgl. § 12 Abs. 4 Satz 2 F. 20.12.2008 +++)  
 (+++ § 8 Abs. 1 Satz 5: Zur erstmaligen Anwendung vgl. § 12 Abs. 4 Satz 3 +++)
 
-
-## § 8a – Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
+# § 8a – Zerlegung der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes nach Maßgabe der zu § 19 Abs. 6 der Abgabenordnung erlassenen Rechtsverordnung
 
 (1) Der Länder- und Gemeindeanteil am Aufkommen der Einkommensteuer auf Einkünfte im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes wird nach den Absätzen 2 bis 5 zerlegt, soweit durch Rechtsverordnung zu § 19 Abs. 6 der Abgabenordnung für die Einkommensbesteuerung von Personen, die beschränkt steuerpflichtig oder nach § 1 Abs. 3 des Einkommensteuergesetzes unbeschränkt steuerpflichtig sind und ausschließlich mit Einkünften im Sinne des § 49 Abs. 1 Nr. 7 und 10 des Einkommensteuergesetzes zu veranlagen sind, einer Finanzbehörde die örtliche Zuständigkeit übertragen worden ist und eine unmittelbare Zuordnung nach § 1a nicht möglich ist.
 
@@ -161,25 +149,21 @@ Ausfertigungsdatum: 06.08.1998
 
 2012 erfolgt die endgültige Zerlegung für die Jahre 2009 bis 2011. Hierbei werden die nach Absatz 2 ermittelten Zerlegungsanteile für das Jahr 2012 auch für die Jahre 2009 bis 2011 zu Grunde gelegt. Die Abweichungsbeträge zu den Zahlungen auf der Grundlage der vorläufigen Zerlegungen für die Jahre 2009 bis 2011 sind am 15. Januar 2012 auszugleichen.
 
-
-## § 9 – Zahlungen im Clearingverfahren
+# § 9 – Zahlungen im Clearingverfahren
 
 Die sich im Rahmen der Clearingverfahren ergebenden Zahlungen sind von den zahlungspflichtigen Ländern bis zum Ende des auf das jeweilige Kalendervierteljahr folgenden Monats an die obersten Finanzbehörden der empfangsberechtigten Länder zu überweisen.
 
-
-## § 10 – Erlöschen der Ansprüche
+# § 10 – Erlöschen der Ansprüche
 
 (1) Die Ansprüche nach den §§ 1 und 8 erlöschen, wenn sie nicht bis zum Ablauf des dritten auf die Vereinnahmung der Steuer folgenden Kalenderjahres geltend gemacht werden.
 
 (2) Die Ansprüche nach § 7 erlöschen, wenn sie nicht bis zum Ablauf des vierten auf die Vereinnahmung der Steuer folgenden Kalenderjahres geltend gemacht werden.
 
-
-## § 11 – Rechtsweg
+# § 11 – Rechtsweg
 
 Für die Entscheidung von Rechtsstreitigkeiten auf Grund dieses Gesetzes ist der Finanzrechtsweg gegeben.
 
-
-## § 12 – Anwendung
+# § 12 – Anwendung
 
 (1) Die vorstehende Fassung dieses Gesetzes ist, soweit in Satz 2 und in Absatz 2 nichts anderes geregelt ist, erstmals für den Veranlagungszeitraum 2015 anzuwenden. Für die Zerlegung der Lohnsteuer und des Zinsabschlags ist die vorstehende Fassung dieses Gesetzes erstmals für das Kalenderjahr 2015 anzuwenden.
 

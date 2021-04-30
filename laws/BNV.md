@@ -1,15 +1,11 @@
-# [BNV] Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten auf Zeit  (Bundesnebentätigkeitsverordnung - BNV)
-
-Ausfertigungsdatum: 22.04.1964
-
+% Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten auf Zeit  (Bundesnebentätigkeitsverordnung - BNV)
+% Ausfertigungsdatum: 22.04.1964
  
-
-## § 1 – (weggefallen)
+# § 1 – (weggefallen)
 
 \-
 
-
-## § 2 – Nebentätigkeit im öffentlichen Dienst
+# § 2 – Nebentätigkeit im öffentlichen Dienst
 
 (1) Nebentätigkeit im öffentlichen Dienst ist jede für den Bund, ein Land oder andere Körperschaften, Anstalten oder Stiftungen des öffentlichen Rechts im Bundesgebiet (einschließlich des Landes Berlin) oder für Verbände von solchen ausgeübte Nebentätigkeit; ausgenommen ist eine Nebentätigkeit für öffentlich-rechtliche Religionsgesellschaften oder deren Verbände.
 
@@ -21,13 +17,11 @@ Ausfertigungsdatum: 22.04.1964
 
 3. natürliche oder juristische Personen, die der Wahrung von Belangen einer juristischen Person oder eines Verbandes im Sinne des Absatzes 1 Halbsatz 1 dient.
 
-
-## § 3 – Zulässigkeit von Nebentätigkeiten im Bundesdienst
+# § 3 – Zulässigkeit von Nebentätigkeiten im Bundesdienst
 
 Aufgaben, die für den Bund oder bundesunmittelbare Körperschaften, Anstalten oder Stiftungen des öffentlichen Rechts wahrgenommen werden, sind grundsätzlich in ein Hauptamt einzuordnen. Sie sollen nicht als Nebentätigkeit zugelassen werden, wenn sie mit dem Hauptamt in Zusammenhang stehen.
 
-
-## § 4 – Vergütung
+# § 4 – Vergütung
 
 (1) Vergütung für eine Nebentätigkeit ist jede Gegenleistung in Geld oder geldwerten Vorteilen, auch wenn kein Rechtsanspruch auf sie besteht.
 
@@ -39,8 +33,7 @@ Aufgaben, die für den Bund oder bundesunmittelbare Körperschaften, Anstalten o
 
 (3) Pauschalierte Aufwandsentschädigungen sind in vollem Umfang, Tage- und Übernachtungsgelder insoweit, als sie die Beträge nach Absatz 2 Nr. 1 übersteigen, als Vergütung anzusehen.
 
-
-## § 5 – Allgemeine Erteilung, Widerruf der Genehmigung
+# § 5 – Allgemeine Erteilung, Widerruf der Genehmigung
 
 (1) Die zur Übernahme einer oder mehrerer Nebenbeschäftigungen gegen Vergütung erforderliche Genehmigung gilt allgemein als erteilt, wenn die Nebenbeschäftigungen insgesamt geringen Umfang haben, außerhalb der Dienstzeit ausgeübt werden und kein gesetzlicher Versagungsgrund vorliegt. Der Umfang einer oder mehrerer Nebenbeschäftigungen ist als gering anzusehen, wenn die Vergütung hierfür insgesamt 100 Euro im Monat nicht übersteigt und die zeitliche Beanspruchung durch eine oder mehrere Nebenbeschäftigungen in der Woche ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit nicht überschreitet. In diesen Fällen ist die Nebenbeschäftigung dem Dienstvorgesetzten anzuzeigen, es sei denn, daß es sich um eine einmalige, gelegentliche Nebenbeschäftigung handelt.
 
@@ -48,8 +41,7 @@ Aufgaben, die für den Bund oder bundesunmittelbare Körperschaften, Anstalten o
 
 (3) Wird eine Genehmigung widerrufen oder eine als genehmigt geltende Nebenbeschäftigung oder eine nicht genehmigungspflichtige Nebentätigkeit untersagt, so soll dem Beamten eine angemessene Frist zur Abwicklung der Nebentätigkeit eingeräumt werden, soweit die dienstlichen Interessen dies gestatten.
 
-
-## § 6 – Vergütungen für Nebentätigkeiten und Ablieferungspflicht
+# § 6 – Vergütungen für Nebentätigkeiten und Ablieferungspflicht
 
 (1) Für eine Nebentätigkeit im Bundesdienst (§ 3) wird grundsätzlich eine Vergütung nicht gewährt. Ausnahmen können zugelassen werden für
 
@@ -86,8 +78,7 @@ Voraussetzung ist, daß der Beamte für diese Aufwendungen keinen Auslagenersatz
 
 (5) Die Verpflichtungen nach den Absätzen 3 und 4 treffen auch Ruhestandsbeamte und frühere Beamte insoweit, als die Vergütungen für vor der Beendigung des Beamtenverhältnisses ausgeübte Nebentätigkeiten gewährt sind.
 
-
-## § 7 – Ausnahmen von § 6
+# § 7 – Ausnahmen von § 6
 
 § 6 ist mit Ausnahme des Absatzes 1 Satz 3 nicht anzuwenden auf Vergütungen für
 
@@ -101,13 +92,11 @@ Voraussetzung ist, daß der Beamte für diese Aufwendungen keinen Auslagenersatz
 
 5. Tätigkeiten, die während eines unter Wegfall der Besoldung gewährten Urlaubs ausgeübt werden.
 
-
-## § 8 – Abrechnung über die Vergütung aus Nebentätigkeiten
+# § 8 – Abrechnung über die Vergütung aus Nebentätigkeiten
 
 Die Beamten haben nach Ablauf eines jeden Kalenderjahres ihrem Dienstvorgesetzten eine Abrechnung über die ihnen zugeflossenen Vergütungen im Sinne des § 6 vorzulegen, wenn die Vergütungen 500 Euro (brutto) im Kalenderjahr übersteigen. In den Fällen des § 6 Abs. 5 sind auch Ruhestandsbeamte und frühere Beamte hierzu verpflichtet.
 
-
-## § 9 – Genehmigungspflicht
+# § 9 – Genehmigungspflicht
 
 (1) Der Beamte bedarf der vorherigen schriftlichen Genehmigung seiner obersten Dienstbehörde oder der von ihr beauftragten Behörde, wenn er bei der Ausübung einer Nebentätigkeit Einrichtungen, Personal oder Material seines Dienstherrn in Anspruch nehmen will.
 
@@ -117,8 +106,7 @@ Die Beamten haben nach Ablauf eines jeden Kalenderjahres ihrem Dienstvorgesetzte
 
 (4) Die Genehmigung darf nur erteilt werden, wenn ein öffentliches oder wissenschaftliches Interesse an der Ausübung der Nebentätigkeit besteht. Die Genehmigung ist widerruflich; sie kann befristet werden. In dem Genehmigungsbescheid ist der Umfang der zugelassenen Inanspruchnahme anzugeben. Die Genehmigung darf nur unter der Auflage erteilt werden, daß ein Entgelt für die Inanspruchnahme von Einrichtungen, Personal oder Material gezahlt wird; § 10 Abs. 1 Satz 2 bleibt unberührt.
 
-
-## § 10 – Grundsätze für die Bemessung des Entgelts
+# § 10 – Grundsätze für die Bemessung des Entgelts
 
 (1) Für die Inanspruchnahme von Einrichtungen, Personal oder Material des Dienstherrn hat der Beamte ein angemessenes Entgelt zu entrichten. Auf die Entrichtung eines Entgelts kann verzichtet werden
 
@@ -132,8 +120,7 @@ Die Beamten haben nach Ablauf eines jeden Kalenderjahres ihrem Dienstvorgesetzte
 
 (3) Nehmen mehrere Beamte Einrichtungen, Personal oder Material des Dienstherrn gemeinschaftlich in Anspruch, sind sie als Gesamtschuldner zur Entrichtung des Entgelts verpflichtet.
 
-
-## § 11 – Allgemeines Entgelt
+# § 11 – Allgemeines Entgelt
 
 (1) Das Entgelt außerhalb des in § 12 geregelten Bereichs wird pauschaliert nach einem Vomhundertsatz der für die Nebentätigkeit bezogenen (Brutto-) Vergütung bemessen. Es beträgt im Regelfall  
 
@@ -160,8 +147,7 @@ Die Beamten haben nach Ablauf eines jeden Kalenderjahres ihrem Dienstvorgesetzte
 
 festzusetzen. Der Beamte muß den Nachweis innerhalb einer Ausschlußfrist von drei Monaten nach Festsetzung des Entgelts erbringen. Die Entscheidung trifft die oberste Dienstbehörde. Sie kann diese Befugnis auf unmittelbar nachgeordnete Behörden übertragen.
 
-
-## § 12 – Entgelt für ärztliche und zahnärztliche Nebentätigkeiten
+# § 12 – Entgelt für ärztliche und zahnärztliche Nebentätigkeiten
 
 (1) Das Entgelt (Kostenerstattung und Vorteilsausgleich) für ärztliche und zahnärztliche Nebentätigkeiten in Krankenhäusern und in den sanitätsdienstlichen Einrichtungen der Bundeswehr ist zu pauschalieren, soweit in den Absätzen 2 und 3 nichts anderes bestimmt oder zugelassen wird. Für ärztliche und zahnärztliche Nebentätigkeiten in anderen Tätigkeitsbereichen richtet sich die Höhe des Entgelts nach den allgemeinen Bestimmungen des § 11.
 
@@ -169,24 +155,20 @@ festzusetzen. Der Beamte muß den Nachweis innerhalb einer Ausschlußfrist von d
 
 (3) Der Vorteilsausgleich beträgt 20 vom Hundert der im Kalenderjahr aus der Nebentätigkeit erzielten Einnahmen bis 100.000 Euro, die dem Beamten nach Abzug der nach Absatz 2 zu erstattenden Kosten verbleiben, und 30 vom Hundert von dem darüber hinausgehenden Mehrbetrag. Bei einem Honorarverzicht ist ein Vorteilsausgleich nicht zu entrichten.
 
-
-## § 13 – Festsetzung des Entgelts
+# § 13 – Festsetzung des Entgelts
 
 (1) Das zu zahlende Entgelt wird von der für die Genehmigung nach § 9 Abs. 1 zuständigen oder der von ihr mit seiner Berechnung beauftragten Stelle nach dem Ende der Inanspruchnahme, mindestens jedoch halbjährlich festgesetzt. Ist die Höhe des Entgelts bereits im Zeitpunkt der Genehmigung zu übersehen, so soll das Entgelt zugleich mit der Genehmigung festgesetzt werden. Das Entgelt wird einen Monat nach der Festsetzung fällig, im Falle des Satzes 2 einen Monat nach dem Ende der Inanspruchnahme, mindestens jedoch halbjährlich.
 
 (2) Der Beamte ist verpflichtet, das Ende der Inanspruchnahme der nach § 9 Abs. 1 zuständigen Stelle unverzüglich schriftlich oder elektronisch anzuzeigen. Er hat die für die Berechnung des Entgelts notwendigen Aufzeichnungen zu führen und mit den zur Glaubhaftmachung notwendigen Belegen unverzüglich nach Beendigung, bei fortlaufender Inanspruchnahme mindestens halbjährlich vorzulegen. Diese Unterlagen sind fünf Jahre, vom Tage der Festsetzung des Entgelts an gerechnet, aufzubewahren.
 
-
-## § 14 – Geltung für Berufssoldaten und Soldaten auf Zeit
+# § 14 – Geltung für Berufssoldaten und Soldaten auf Zeit
 
 Diese Verordnung gilt für Berufssoldaten und Soldaten auf Zeit entsprechend.
 
-
-## § 15 – (weggefallen)
+# § 15 – (weggefallen)
 
 \-
 
-
-## § 16
+# § 16
 
 (Inkrafttreten)

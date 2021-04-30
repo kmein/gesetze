@@ -1,23 +1,17 @@
-# [StVZO] Straßenverkehrs-Zulassungs-Ordnung  (StVZO)
-
-Ausfertigungsdatum: 26.04.2012
-
+% Straßenverkehrs-Zulassungs-Ordnung  (StVZO)
+% Ausfertigungsdatum: 26.04.2012
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
+# §§ 1 bis 15l – (weggefallen)
 
-
-## §§ 1 bis 15l – (weggefallen)
-
-
-## § 16 – Grundregel der Zulassung
+# § 16 – Grundregel der Zulassung
 
 (1) Zum Verkehr auf öffentlichen Straßen sind alle Fahrzeuge zugelassen, die den Vorschriften dieser Verordnung und der Straßenverkehrs-Ordnung entsprechen, soweit nicht für die Zulassung einzelner Fahrzeugarten ein Erlaubnisverfahren vorgeschrieben ist.
 
 (2) Schiebe- und Greifreifenrollstühle, Rodelschlitten, Kinderwagen, Roller, Kinderfahrräder und ähnliche nicht motorbetriebene oder mit einem Hilfsantrieb ausgerüstete ähnliche Fortbewegungsmittel mit einer bauartbedingten Höchstgeschwindigkeit von nicht mehr als 6 km/h sind nicht Fahrzeuge im Sinne dieser Verordnung.
 
-
-## § 17 – Einschränkung und Entziehung der Zulassung
+# § 17 – Einschränkung und Entziehung der Zulassung
 
 (1) Erweist sich ein Fahrzeug, das nicht in den Anwendungsbereich der Fahrzeug-Zulassungsverordnung fällt, als nicht vorschriftsmäßig, so kann die Verwaltungsbehörde dem Eigentümer oder Halter eine angemessene Frist zur Behebung der Mängel setzen und nötigenfalls den Betrieb des Fahrzeugs im öffentlichen Verkehr untersagen oder beschränken; der Betroffene hat das Verbot oder die Beschränkung zu beachten.
 
@@ -31,11 +25,9 @@ Ausfertigungsdatum: 26.04.2012
 
 anordnen und wenn nötig mehrere solcher Anordnungen treffen.
 
+# § 18 – (weggefallen)
 
-## § 18 – (weggefallen)
-
-
-## § 19 – Erteilung und Wirksamkeit der Betriebserlaubnis
+# § 19 – Erteilung und Wirksamkeit der Betriebserlaubnis
 
 (1) Die Betriebserlaubnis ist zu erteilen, wenn das Fahrzeug den Vorschriften dieser Verordnung, den zu ihrer Ausführung erlassenen Anweisungen des Bundesministeriums für Verkehr und digitale Infrastruktur und den Vorschriften der Verordnung (EWG) Nr. 3821/85 des Rates vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L 370 vom 31.12.1985, S. 8), die zuletzt durch die Verordnung (EU) Nr. 1266/2009 (ABl. L 339 vom 22.12.2009, S. 3) geändert worden ist, entspricht. Die Betriebserlaubnis ist ferner zu erteilen, wenn das Fahrzeug anstelle der Vorschriften dieser Verordnung die Einzelrichtlinien in ihrer jeweils geltenden Fassung erfüllt, die
 
@@ -107,8 +99,7 @@ Werden bei Teilen nach Nummer 1 oder 2 in der Betriebserlaubnis, der Bauartgeneh
 
 (7) Die Absätze 2 bis 6 gelten entsprechend für die EG-Typgenehmigung.
 
-
-## § 20 – Allgemeine Betriebserlaubnis für Typen
+# § 20 – Allgemeine Betriebserlaubnis für Typen
 
 (1) Für reihenweise zu fertigende oder gefertigte Fahrzeuge kann die Betriebserlaubnis dem Hersteller nach einer auf seine Kosten vorgenommenen Prüfung allgemein erteilt werden (Allgemeine Betriebserlaubnis), wenn er die Gewähr für zuverlässige Ausübung der dadurch verliehenen Befugnisse bietet. Bei Herstellung eines Fahrzeugtyps durch mehrere Beteiligte kann die Allgemeine Betriebserlaubnis diesen gemeinsam erteilt werden. Für die Fahrzeuge, die außerhalb des Geltungsbereichs dieser Verordnung hergestellt worden sind, kann die Allgemeine Betriebserlaubnis erteilt werden
 
@@ -140,8 +131,7 @@ In den Fällen des Satzes 3 Nummer 2 muss der Beauftragte des Herstellers in ein
 
 (6) Das Kraftfahrt-Bundesamt kann jederzeit bei Herstellern oder deren Beauftragten oder bei Händlern die Erfüllung der mit der Allgemeinen Betriebserlaubnis verbundenen Pflichten nachprüfen oder nachprüfen lassen. In den Fällen des Absatzes 1 Satz 3 Nummer 1 und 2 kann das Kraftfahrt-Bundesamt die Erteilung der Allgemeinen Betriebserlaubnis davon abhängig machen, dass der Hersteller oder sein Beauftragter sich verpflichtet, die zur Nachprüfung nach Satz 1 notwendigen Maßnahmen zu ermöglichen. Die Kosten der Nachprüfung trägt der Inhaber der Allgemeinen Betriebserlaubnis, wenn ihm ein Verstoß gegen die mit der Erlaubnis verbundenen Pflichten nachgewiesen wird.
 
-
-## § 21 – Betriebserlaubnis für Einzelfahrzeuge
+# § 21 – Betriebserlaubnis für Einzelfahrzeuge
 
 (1) Gehört ein Fahrzeug nicht zu einem genehmigten Typ, so hat der Verfügungsberechtigte die Betriebserlaubnis bei der nach Landesrecht zuständigen Behörde zu beantragen. Mit dem Antrag auf Erteilung der Betriebserlaubnis ist der nach Landesrecht zuständigen Behörde das Gutachten eines amtlich anerkannten Sachverständigen für den Kraftfahrzeugverkehr oder eines nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse benannten Technischen Dienstes vorzulegen. Das Gutachten muss die technische Beschreibung des Fahrzeugs in dem Umfang enthalten, der für die Ausfertigung der Zulassungsbescheinigung Teil I und Teil II erforderlich ist. Dem Gutachten ist eine Anlage beizufügen, in der die technischen Vorschriften angegeben sind, auf deren Grundlage dem Fahrzeug eine Betriebserlaubnis erteilt werden kann. In den Fällen des § 19 Absatz 2 sind in dieser Anlage zusätzlich die Änderungen darzustellen, die zum Erlöschen der früheren Betriebserlaubnis geführt haben. In dem Gutachten bescheinigt die oder der amtlich anerkannte Sachverständige für den Kraftfahrzeugverkehr oder der nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse benannte Technische Dienst, dass sie oder er das Fahrzeug im Gutachten richtig beschrieben hat und dass das Fahrzeug gemäß § 19 Absatz 1 vorschriftsmäßig ist; die Angaben aus dem Gutachten überträgt die Genehmigungsbehörde in die Zulassungsbescheinigung Teil I und, soweit vorgesehen, in die Zulassungsbescheinigung Teil II.
 
@@ -157,8 +147,7 @@ In den Fällen des Satzes 3 Nummer 2 muss der Beauftragte des Herstellers in ein
 
 (6) Abweichend von Absatz 4 Satz 1 bedarf es für Fahrzeuge, die für die Bundeswehr zugelassen werden, nicht der Vorlage einer Zulassungsbescheinigung Teil II, wenn ein amtlich anerkannter Sachverständiger für den Kraftfahrzeugverkehr oder ein nach § 30 der EG-Fahrzeuggenehmigungsverordnung zur Prüfung von Gesamtfahrzeugen der jeweiligen Fahrzeugklasse benannter Technischer Dienst eine Datenbestätigung entsprechend Muster 2d ausgestellt hat.
 
-
-## § 21a – Anerkennung von Genehmigungen und Prüfzeichen auf Grund internationaler Vereinbarungen und von Rechtsakten der Europäischen Gemeinschaften
+# § 21a – Anerkennung von Genehmigungen und Prüfzeichen auf Grund internationaler Vereinbarungen und von Rechtsakten der Europäischen Gemeinschaften
 
 (1) Im Verfahren auf Erteilung der Betriebserlaubnis werden Genehmigungen und Prüfzeichen anerkannt, die ein ausländischer Staat für Ausrüstungsgegenstände oder Fahrzeugteile oder in Bezug auf solche Gegenstände oder Teile für bestimmte Fahrzeugtypen unter Beachtung der mit der Bundesrepublik Deutschland vereinbarten Bedingungen erteilt hat. Dasselbe gilt für Genehmigungen und Prüfzeichen, die das Kraftfahrt-Bundesamt für solche Gegenstände oder Teile oder in Bezug auf diese für bestimmte Fahrzeugtypen erteilt, wenn das Genehmigungsverfahren unter Beachtung der von der Bundesrepublik Deutschland mit ausländischen Staaten vereinbarten Bedingungen durchgeführt worden ist. § 22a bleibt unberührt.
 
@@ -168,16 +157,13 @@ In den Fällen des Satzes 3 Nummer 2 muss der Beauftragte des Herstellers in ein
 
 (3) Mit einem Prüfzeichen der in den Absätzen 1 bis 2 erwähnten Art darf ein Ausrüstungsgegenstand oder ein Fahrzeugteil nur gekennzeichnet sein, wenn er der Genehmigung in jeder Hinsicht entspricht. Zeichen, die zu Verwechslungen mit einem solchen Prüfzeichen Anlass geben können, dürfen an Ausrüstungsgegenständen oder Fahrzeugteilen nicht angebracht sein.
 
-
-## § 21b – Anerkennung von Prüfungen auf Grund von Rechtsakten der Europäischen Gemeinschaften
+# § 21b – Anerkennung von Prüfungen auf Grund von Rechtsakten der Europäischen Gemeinschaften
 
 Im Verfahren auf Erteilung der Betriebserlaubnis werden Prüfungen anerkannt, die auf Grund harmonisierter Vorschriften nach § 19 Absatz 1 Satz 2 durchgeführt und bescheinigt worden sind.
 
+# § 21c – (weggefallen)
 
-## § 21c – (weggefallen)
-
-
-## § 22 – Betriebserlaubnis für Fahrzeugteile
+# § 22 – Betriebserlaubnis für Fahrzeugteile
 
 (1) Die Betriebserlaubnis kann auch gesondert für Teile von Fahrzeugen erteilt werden, wenn der Teil eine technische Einheit bildet, die im Erlaubnisverfahren selbstständig behandelt werden kann. Dürfen die Teile nur an Fahrzeugen bestimmter Art, eines bestimmten Typs oder nur bei einer bestimmten Art des Ein- oder Anbaus verwendet werden, ist die Betriebserlaubnis dahingehend zu beschränken. Die Wirksamkeit der Betriebserlaubnis kann davon abhängig gemacht werden, dass der Ein- oder Anbau abgenommen worden ist. Die Abnahme ist von einem amtlich anerkannten Sachverständigen oder Prüfer für den Kraftfahrzeugverkehr oder von einem Kraftfahrzeugsachverständigen oder Angestellten nach Nummer 4 der Anlage VIIIb durchführen zu lassen. In den Fällen des Satzes 3 ist durch die abnehmende Stelle nach Satz 4 auf dem Nachweis (§ 19 Absatz 4 Satz 1) darüber der ordnungsgemäße Ein- oder Anbau unter Angabe des Fahrzeugherstellers und -typs sowie der Fahrzeug-Identifizierungsnummer zu bestätigen.
 
@@ -190,15 +176,13 @@ Der gleiche Vermerk ist unter kurzer Bezeichnung des genehmigten Teils in dem na
 
 (3) Anstelle einer Betriebserlaubnis nach Absatz 1 können auch Teile zum nachträglichen An- oder Einbau (§ 19 Absatz 3 Nummer 1 Buchstabe b oder Nummer 3) im Rahmen einer Allgemeinen Betriebserlaubnis für ein Fahrzeug oder eines Nachtrags dazu (§ 20) genehmigt werden; die Absätze 1, 2 Satz 2 und 3 gelten entsprechend. Der Nachtrag kann sich insoweit auch auf Fahrzeuge erstrecken, die vor Genehmigung des Nachtrags hergestellt worden sind.
 
-
-## § 22a – Bauartgenehmigung für Fahrzeugteile
+# § 22a – Bauartgenehmigung für Fahrzeugteile
 
 (1) Die nachstehend aufgeführten Einrichtungen, gleichgültig ob sie an zulassungspflichtigen oder an zulassungsfreien Fahrzeugen verwendet werden, müssen in einer amtlich genehmigten Bauart ausgeführt sein:
 
 1. Heizungen in Kraftfahrzeugen, ausgenommen elektrische Heizungen sowie Warmwasserheizungen, bei denen als Wärmequelle das Kühlwasser des Motors verwendet wird (§ 35c Absatz 1);
 
-1a.  
-Luftreifen (§ 36 Absatz 2);
+1a. Luftreifen (§ 36 Absatz 2);
 
 2. Gleitschutzeinrichtungen (§ 37 Absatz 1 Satz 2);
 
@@ -226,28 +210,23 @@ f) Verbindungseinrichtungen an Anbaugeräten, die an land- oder forstwirtschaftl
 
 8. Begrenzungsleuchten (§ 51 Absatz 1 und 2, § 53b Absatz 1);
 
-8a.  
-Spurhalteleuchten (§ 51 Absatz 4);
+8a. Spurhalteleuchten (§ 51 Absatz 4);
 
-8b.  
-Seitenmarkierungsleuchten (§ 51a Absatz 6);
+8b. Seitenmarkierungsleuchten (§ 51a Absatz 6);
 
 9. Parkleuchten, Park-Warntafeln (§ 51c);
 
-9a.  
-Umrissleuchten (§ 51b);
+9a. Umrissleuchten (§ 51b);
 
 10. Nebelscheinwerfer (§ 52 Absatz 1);
 
 11. Kennleuchten für blaues Blinklicht (§ 52 Absatz 3);
 
-11a.  
-nach vorn wirkende Kennleuchten für rotes Blinklicht mit nur einer Hauptausstrahlrichtung (Anhaltesignal) (§ 52 Absatz 3a);
+11a. nach vorn wirkende Kennleuchten für rotes Blinklicht mit nur einer Hauptausstrahlrichtung (Anhaltesignal) (§ 52 Absatz 3a);
 
 12. Kennleuchten für gelbes Blinklicht (§ 52 Absatz 4);
 
-12a.  
-Rückfahrscheinwerfer (§ 52a);
+12a. Rückfahrscheinwerfer (§ 52a);
 
 13. Schlussleuchten (§ 53 Absatz 1 und 6, § 53b);
 
@@ -257,27 +236,23 @@ Rückfahrscheinwerfer (§ 52a);
 
 16. Warndreiecke und Warnleuchten (§ 53a Absatz 1 und 3);
 
-16a.  
-Nebelschlussleuchten (§ 53d);
+16a. Nebelschlussleuchten (§ 53d);
 
 17. Fahrtrichtungsanzeiger (Blinkleuchten) (§ 53b Absatz 5, § 54);
 
-17a.  
-Tragbare Blinkleuchten und rot-weiße Warnmarkierungen für Hubladebühnen (§ 53b Absatz 5);
+17a. Tragbare Blinkleuchten und rot-weiße Warnmarkierungen für Hubladebühnen (§ 53b Absatz 5);
 
 18. Lichtquellen für bauartgenehmigungspflichtige lichttechnische Einrichtungen, soweit die Lichtquellen nicht fester Bestandteil der Einrichtungen sind (§ 49a Absatz 6, § 67 Absatz 6 dieser Verordnung, § 22 Absatz 4 und 5 der Straßenverkehrs-Ordnung);
 
 19. Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz – Einsatzhorn – (§ 55 Absatz 3);
 
-19a.  
-Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz (Anhaltehorn) (§ 55 Absatz 3a);
+19a. Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz (Anhaltehorn) (§ 55 Absatz 3a);
 
 20. Fahrtschreiber (§ 57a);
 
 21. Beleuchtungseinrichtungen für Kennzeichen (§ 10 der Fahrzeug-Zulassungsverordnung);
 
-21a.  
-Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10 Fahrzeugzulassungs-Verordnung);
+21a. Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10 Fahrzeugzulassungs-Verordnung);
 
 22. Lichtmaschinen, Scheinwerfer für Abblendlicht, auch mit Fernlichtfunktion oder auch mit Tagfahrlichtfunktion, Schlussleuchten, auch mit Bremslichtfunktion, Fahrtrichtungsanzeiger, rote, gelbe und weiße Rückstrahler, Pedalrückstrahler und retroreflektierende Streifen an Reifen, Felgen oder in den Speichen, weiß retroreflektierende Speichen oder Speichenhülsen für Fahrräder und Fahrradanhänger (§ 67 Absatz 1 bis 5, § 67a Absatz 1);
 
@@ -309,16 +284,13 @@ Beleuchtungseinrichtungen für transparente amtliche Kennzeichen (§ 10 Fahrzeug
 
 (6) Die Absätze 2 und 5 gelten entsprechend für Einrichtungen, die einer EWG-Bauartgenehmigung bedürfen.
 
-
-## § 23 – Gutachten für die Einstufung eines Fahrzeugs als Oldtimer
+# § 23 – Gutachten für die Einstufung eines Fahrzeugs als Oldtimer
 
 Zur Einstufung eines Fahrzeugs als Oldtimer im Sinne des § 2 Nummer 22 der Fahrzeug-Zulassungsverordnung ist ein Gutachten eines amtlich anerkannten Sachverständigen oder Prüfers oder Prüfingenieurs erforderlich. Die Begutachtung ist nach einer im Verkehrsblatt nach Zustimmung der zuständigen obersten Landesbehörden bekannt gemachten Richtlinie durchzuführen und das Gutachten nach einem in der Richtlinie festgelegten Muster auszufertigen. Im Rahmen der Begutachtung ist auch eine Untersuchung im Umfang einer Hauptuntersuchung nach § 29 durchzuführen, es sei denn, dass mit der Begutachtung gleichzeitig ein Gutachten nach § 21 erstellt wird. Für das Erteilen der Prüfplakette gilt § 29 Absatz 3.
 
+# §§ 24 bis 28 – (weggefallen)
 
-## §§ 24 bis 28 – (weggefallen)
-
-
-## § 29 – Untersuchung der Kraftfahrzeuge und Anhänger
+# § 29 – Untersuchung der Kraftfahrzeuge und Anhänger
 
 (1) Die Halter von zulassungspflichtigen Fahrzeugen im Sinne des § 3 Absatz 1 der Fahrzeug-Zulassungsverordnung und kennzeichenpflichtigen Fahrzeugen nach § 4 Absatz 2 und 3 Satz 2 der Fahrzeug-Zulassungsverordnung haben ihre Fahrzeuge auf ihre Kosten nach Maßgabe der Anlage VIII in Verbindung mit Anlage VIIIa in regelmäßigen Zeitabständen untersuchen zu lassen. Ausgenommen sind
 
@@ -370,8 +342,7 @@ vermerkt werden.
 
 (+++ § 29: Zur Anwendung vgl. § 72 Abs. 2 Nr. 1 +++)
 
-
-## § 29a – Datenübermittlung
+# § 29a – Datenübermittlung
 
 Die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach § 29 berechtigten Personen sind verpflichtet, nach Abschluss einer Hauptuntersuchung oder einer Sicherheitsprüfung die in § 34 Absatz 1 der Fahrzeug-Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister zu übermitteln. Darüber hinaus müssen die zur Durchführung von Hauptuntersuchungen nach § 29 berechtigten Personen nach Abschluss einer Hauptuntersuchung die in § 34 Absatz 2 der Fahrzeug-Zulassungsverordnung genannten Daten an das Kraftfahrt-Bundesamt zur Speicherung im Zentralen Fahrzeugregister übermitteln. Die jeweilige Übermittlung hat
 
@@ -381,11 +352,9 @@ Die zur Durchführung von Hauptuntersuchungen oder Sicherheitsprüfungen nach §
 
 zu erfolgen.
 
+# §§ 29b bis 29h – (weggefallen)
 
-## §§ 29b bis 29h – (weggefallen)
-
-
-## § 30 – Beschaffenheit der Fahrzeuge
+# § 30 – Beschaffenheit der Fahrzeuge
 
 (1) Fahrzeuge müssen so gebaut und ausgerüstet sein, dass
 
@@ -407,8 +376,7 @@ zu erfolgen.
 
 in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anhang IV der Richtlinie 2007/46/EG, in Anhang II der Typgenehmigungsrichtlinie 2003/37/EG und in Anhang I der Richtlinie 2002/24/EG genannten Einzelrichtlinien wird unter Angabe der Kurzbezeichnungen und der ersten Fundstelle aus dem Amtsblatt der Europäischen Gemeinschaften vom Bundesministerium für Verkehr und digitale Infrastruktur im Verkehrsblatt bekannt gemacht und fortgeschrieben. Die in Satz 1 genannten Einzelrichtlinien sind jeweils ab dem Zeitpunkt anzuwenden, zu dem sie in Kraft treten und nach Satz 2 bekannt gemacht worden sind. Soweit in einer Einzelrichtlinie ihre verbindliche Anwendung vorgeschrieben ist, ist nur diese Einzelrichtlinie maßgeblich.
 
-
-## § 30a – Durch die Bauart bestimmte Höchstgeschwindigkeit sowie maximales Drehmoment und maximale Nutzleistung des Motors
+# § 30a – Durch die Bauart bestimmte Höchstgeschwindigkeit sowie maximales Drehmoment und maximale Nutzleistung des Motors
 
 (1) Kraftfahrzeuge müssen entsprechend dem Stand der Technik so gebaut und ausgerüstet sein, dass technische Veränderungen, die zu einer Änderung der durch die Bauart bestimmten Höchstgeschwindigkeit (Geschwindigkeit, die von einem Kraftfahrzeug nach seiner vom Hersteller konstruktiv vorgegebenen Bauart oder infolge der Wirksamkeit zusätzlicher technischer Maßnahmen auf ebener Bahn bei bestimmungsgemäßer Benutzung nicht überschritten werden kann) führen, wesentlich erschwert sind. Sofern dies nicht möglich ist, müssen Veränderungen leicht erkennbar gemacht werden.
 
@@ -418,8 +386,7 @@ in seiner jeweils geltenden Fassung genannt sind. Die jeweilige Liste der in Anh
 
 (3) Bei Kraftfahrzeugen nach Artikel 1 der Richtlinie 2002/24/EG sind zur Ermittlung der durch die Bauart bestimmten Höchstgeschwindigkeit sowie zur Ermittlung des maximalen Drehmoments und der maximalen Nutzleistung des Motors die im Anhang zu dieser Vorschrift genannten Bestimmungen anzuwenden.
 
-
-## § 30b – Berechnung des Hubraums
+# § 30b – Berechnung des Hubraums
 
 Der Hubraum ist wie folgt zu berechnen:
 
@@ -431,8 +398,7 @@ Der Hubraum ist wie folgt zu berechnen:
 
 4. Folgt der zu rundenden Stelle eine der Ziffern 0 bis 4, so ist abzurunden, folgt eine der Ziffern 5 bis 9, so ist aufzurunden.
 
-
-## § 30c – Vorstehende Außenkanten, Frontschutzsysteme
+# § 30c – Vorstehende Außenkanten, Frontschutzsysteme
 
 (1) Am Umriss der Fahrzeuge dürfen keine Teile so hervorragen, dass sie den Verkehr mehr als unvermeidbar gefährden.
 
@@ -442,8 +408,7 @@ Der Hubraum ist wie folgt zu berechnen:
 
 (4) An Personenkraftwagen, Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen mit mindestens vier Rädern, einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h und einer zulässigen Gesamtmasse von nicht mehr als 3,5 t angebrachte Frontschutzsysteme müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
-
-## § 30d – Kraftomnibusse
+# § 30d – Kraftomnibusse
 
 (1) Kraftomnibusse sind Kraftfahrzeuge zur Personenbeförderung mit mehr als acht Sitzplätzen außer dem Fahrersitz.
 
@@ -453,15 +418,13 @@ Der Hubraum ist wie folgt zu berechnen:
 
 (4) Kraftomnibusse mit Stehplätzen, die die Beförderung von Fahrgästen auf Strecken mit zahlreichen Haltestellen ermöglichen und mehr als 22 Fahrgastplätze haben, müssen zusätzlich den Vorschriften über technische Einrichtungen für die Beförderung von Personen mit eingeschränkter Mobilität nach den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen. Dies gilt für andere Kraftomnibusse, die mit technischen Einrichtungen für die Beförderung von Personen mit eingeschränkter Mobilität ausgestattet sind, entsprechend.
 
-
-## § 31 – Verantwortung für den Betrieb der Fahrzeuge
+# § 31 – Verantwortung für den Betrieb der Fahrzeuge
 
 (1) Wer ein Fahrzeug oder einen Zug miteinander verbundener Fahrzeuge führt, muss zur selbstständigen Leitung geeignet sein.
 
 (2) Der Halter darf die Inbetriebnahme nicht anordnen oder zulassen, wenn ihm bekannt ist oder bekannt sein muss, dass der Führer nicht zur selbstständigen Leitung geeignet oder das Fahrzeug, der Zug, das Gespann, die Ladung oder die Besetzung nicht vorschriftsmäßig ist oder dass die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung leidet.
 
-
-## § 31a – Fahrtenbuch
+# § 31a – Fahrtenbuch
 
 (1) Die nach Landesrecht zuständige Behörde kann gegenüber einem Fahrzeughalter für ein oder mehrere auf ihn zugelassene oder künftig zuzulassende Fahrzeuge die Führung eines Fahrtenbuchs anordnen, wenn die Feststellung eines Fahrzeugführers nach einer Zuwiderhandlung gegen Verkehrsvorschriften nicht möglich war. Die Verwaltungsbehörde kann ein oder mehrere Ersatzfahrzeuge bestimmen.
 
@@ -485,8 +448,7 @@ b) sonst zuständigen Personen
 
 das Fahrtenbuch auf Verlangen jederzeit an dem von der anordnenden Stelle festgelegten Ort zur Prüfung auszuhändigen und es sechs Monate nach Ablauf der Zeit, für die es geführt werden muss, aufzubewahren.
 
-
-## § 31b – Überprüfung mitzuführender Gegenstände
+# § 31b – Überprüfung mitzuführender Gegenstände
 
 Führer von Fahrzeugen sind verpflichtet, zuständigen Personen auf Verlangen folgende mitzuführende Gegenstände vorzuzeigen und zur Prüfung des vorschriftsmäßigen Zustands auszuhändigen:
 
@@ -498,20 +460,17 @@ Führer von Fahrzeugen sind verpflichtet, zuständigen Personen auf Verlangen fo
 
 4. Warndreiecke und Warnleuchten (§ 53a Absatz 2),
 
-4a.  
-Warnweste (§ 53a Absatz 2),
+4a. Warnweste (§ 53a Absatz 2),
 
 5. tragbare Blinkleuchten (§ 53b Absatz 5) und windsichere Handlampen (§ 54b),
 
 6. Leuchten und Rückstrahler (§ 53b Absatz 1 Satz 4 Halbsatz 2 und Absatz 2 Satz 4 Halbsatz 2).
 
-
-## § 31c – Überprüfung von Fahrzeuggewichten
+# § 31c – Überprüfung von Fahrzeuggewichten
 
 Kann der Führer eines Fahrzeugs auf Verlangen einer zuständigen Person die Einhaltung der für das Fahrzeug zugelassenen Achslasten und Gesamtgewichte nicht glaubhaft machen, so ist er verpflichtet, sie nach Weisung dieser Person auf einer Waage oder einem Achslastmesser (Radlastmesser) feststellen zu lassen. Nach der Wägung ist dem Führer eine Bescheinigung über das Ergebnis der Wägung zu erteilen. Die Kosten der Wägung fallen dem Halter des Fahrzeugs zur Last, wenn ein zu beanstandendes Übergewicht festgestellt wird. Die prüfende Person kann von dem Führer des Fahrzeugs eine der Überlastung entsprechende Um- oder Entladung fordern; dieser Auflage hat der Fahrzeugführer nachzukommen; die Kosten hierfür hat der Halter zu tragen.
 
-
-## § 31d – Gewichte, Abmessungen und Beschaffenheit ausländischer Fahrzeuge
+# § 31d – Gewichte, Abmessungen und Beschaffenheit ausländischer Fahrzeuge
 
 (1) Ausländische Kraftfahrzeuge und ihre Anhänger müssen in Gewicht und Abmessungen den §§ 32 und 34 entsprechen.
 
@@ -521,13 +480,11 @@ Kann der Führer eines Fahrzeugs auf Verlangen einer zuständigen Person die Ein
 
 (4) Die Luftreifen ausländischer Kraftfahrzeuge und Anhänger, deren Zulassungsbescheinigung oder Internationaler Zulassungsschein von einem Mitgliedstaat der Europäischen Union oder von einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ausgestellt worden ist und die in der Richtlinie 89/459/EWG des Rates vom 18. Juli 1989 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Profiltiefe der Reifen an bestimmten Klassen von Kraftfahrzeugen und deren Anhängern (ABl. L 226 vom 3.8.1989, S. 4) genannt sind, müssen beim Hauptprofil der Lauffläche eine Profiltiefe von mindestens 1,6 Millimeter aufweisen; als Hauptprofil gelten dabei die breiten Profilrillen im mittleren Bereich der Lauffläche, der etwa drei Viertel der Laufflächenbreite einnimmt.
 
-
-## § 31e – Geräuscharme ausländische Kraftfahrzeuge
+# § 31e – Geräuscharme ausländische Kraftfahrzeuge
 
 Ausländische Kraftfahrzeuge, die zur Geräuschklasse G 1 im Sinne der Nummer 3.2.1 der Anlage XIV gehören, gelten als geräuscharm; sie dürfen mit dem Zeichen „Geräuscharmes Kraftfahrzeug“ gemäß Anlage XV gekennzeichnet sein. Für andere ausländische Fahrzeuge gilt § 49 Absatz 3 Satz 2 und 3 entsprechend.
 
-
-## § 32 – Abmessungen von Fahrzeugen und Fahrzeugkombinationen
+# § 32 – Abmessungen von Fahrzeugen und Fahrzeugkombinationen
 
 (1) Bei Kraftfahrzeugen und Anhängern einschließlich mitgeführter austauschbarer Ladungsträger (§ 42 Absatz 3) darf die höchstzulässige Breite über alles – ausgenommen bei Schneeräumgeräten und Winterdienstfahrzeugen – folgende Maße nicht überschreiten:  
   
@@ -581,8 +538,7 @@ Die Fahrzeughöhe ist nach der ISO-Norm 612-1978, Definition Nummer 6.3 zu ermit
 
 1. nachgiebige Antennen und
 
-2. Scheren- oder Stangenstromabnehmer in gehobener Stellung.  
-
+2. Scheren- oder Stangenstromabnehmer in gehobener Stellung. 
 Bei Fahrzeugen mit Achshubeinrichtung ist die Auswirkung dieser Einrichtung zu berücksichtigen.
 
 (3) Bei Kraftfahrzeugen und Anhängern einschließlich mitgeführter austauschbarer Ladungsträger und aller im Betrieb mitgeführter Ausrüstungsteile (§ 42 Absatz 3) darf die höchstzulässige Länge über alles folgende Maße nicht überschreiten:  
@@ -676,8 +632,7 @@ Zugmaschinen mit Anhängern
 bei Zügen, die aus einem Lastkraftwagen und einem Anhänger zur Güterbeförderung bestehen,
 
   
-18,75 m.  
-  
+18,75 m.   
 
  
 
@@ -713,8 +668,7 @@ größter Abstand zwischen dem vordersten äußeren Punkt der Ladefläche hinter
   
   
   
-16,40 m.  
-  
+16,40 m.   
 
  
 
@@ -761,8 +715,7 @@ Bei Fahrzeugen mit Aufbau – bei Lastkraftwagen jedoch ohne Führerhaus – gel
 
 15. Stangenstromabnehmer von Elektrofahrzeugen sowie
 
-16. äußere Sonnenblenden.  
-  
+16. äußere Sonnenblenden.   
 
 Dies gilt jedoch nur, wenn durch die genannten Einrichtungen die Ladefläche weder direkt noch indirekt verlängert wird. Einrichtungen, die bei Fahrzeugkombinationen hinten am Zugfahrzeug oder vorn am Anhänger angebracht sind, sind dagegen bei den Längen oder Teillängen von Fahrzeugkombinationen mit zu berücksichtigen; sie dürfen diesen Längen nicht zugeschlagen werden.
 
@@ -807,16 +760,13 @@ Höhe:
 
 Länge:
 
-4,00 m.  
-  
+4,00 m.   
 
-
-## § 32a – Mitführen von Anhängern
+# § 32a – Mitführen von Anhängern
 
 Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförderung (Omnibusanhänger), mitgeführt werden. Es dürfen jedoch hinter Zugmaschinen zwei Anhänger mitgeführt werden, wenn die für Züge mit einem Anhänger zulässige Länge nicht überschritten wird. Hinter Sattelkraftfahrzeugen darf kein Anhänger mitgeführt werden. Hinter Kraftomnibussen darf nur ein lediglich für die Gepäckbeförderung bestimmter Anhänger mitgeführt werden.
 
-
-## § 32b – Unterfahrschutz
+# § 32b – Unterfahrschutz
 
 (1) Kraftfahrzeuge, Anhänger und Fahrzeuge mit austauschbaren Ladungsträgern mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h, bei denen der Abstand von der hinteren Begrenzung bis zur letzten Hinterachse mehr als 1 000 mm beträgt und bei denen in unbeladenem Zustand entweder das hintere Fahrgestell in seiner ganzen Breite oder die Hauptteile der Karosserie eine lichte Höhe von mehr als 550 mm über der Fahrbahn haben, müssen mit einem hinteren Unterfahrschutz ausgerüstet sein.
 
@@ -842,8 +792,7 @@ Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförde
 
 2. Fahrzeuge, deren Verwendungszweck mit den Bestimmungen für den vorderen Unterfahrschutz nicht vereinbar ist.
 
-
-## § 32c – Seitliche Schutzvorrichtungen
+# § 32c – Seitliche Schutzvorrichtungen
 
 (1) Seitliche Schutzvorrichtungen sind Einrichtungen, die verhindern sollen, dass Fußgänger, Rad- oder Kraftradfahrer seitlich unter das Fahrzeug geraten und dann von den Rädern überrollt werden können.
 
@@ -861,8 +810,7 @@ Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförde
 
 (4) Die seitlichen Schutzvorrichtungen müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
-
-## § 32d – Kurvenlaufeigenschaften
+# § 32d – Kurvenlaufeigenschaften
 
 (1) Kraftfahrzeuge und Fahrzeugkombinationen müssen so gebaut und eingerichtet sein, dass einschließlich mitgeführter austauschbarer Ladungsträger (§ 42 Absatz 3) die bei einer Kreisfahrt von 360 Grad überstrichene Ringfläche mit einem äußeren Radius von 12,50 m keine größere Breite als 7,20 m hat. Dabei muss die vordere – bei hinterradgelenkten Fahrzeugen die hintere – äußerste Begrenzung des Kraftfahrzeugs auf dem Kreis von 12,50 m Radius geführt werden.
 
@@ -870,13 +818,11 @@ Hinter Kraftfahrzeugen darf nur ein Anhänger, jedoch nicht zur Personenbeförde
 
 (3) Bei Kraftomnibussen ist bei stehendem Fahrzeug auf dem Boden eine Linie entlang der senkrechten Ebene zu ziehen, die die zur Außenseite des Kreises gerichtete Fahrzeugseite tangiert. Bei Kraftomnibussen, die als Gelenkfahrzeug ausgebildet sind, müssen die zwei starren Teile parallel zu dieser Ebene ausgerichtet sein. Fährt das Fahrzeug aus einer Geradeausbewegung in die in Absatz 1 beschriebene Kreisringfläche ein, so darf kein Teil mehr als 0,60 m über die senkrechte Ebene hinausragen.
 
-
-## § 33 – Schleppen von Fahrzeugen
+# § 33 – Schleppen von Fahrzeugen
 
 Fahrzeuge, die nach ihrer Bauart zum Betrieb als Kraftfahrzeug bestimmt sind, dürfen nicht als Anhänger betrieben werden.
 
-
-## § 34 – Achslast und Gesamtgewicht
+# § 34 – Achslast und Gesamtgewicht
 
 (1) Die Achslast ist die Gesamtlast, die von den Rädern einer Achse oder einer Achsgruppe auf die Fahrbahn übertragen wird.
 
@@ -1033,8 +979,7 @@ b)
 
 Achsabstände mehr als 1,3 m und nicht mehr als 1,4 m
 
-24,00 t.  
-  
+24,00 t.   
 
 Sind Fahrzeuge mit anderen Reifen als den in Satz 1 genannten versehen, so darf die Achslast höchstens 4,00 t betragen.
 
@@ -1135,8 +1080,7 @@ Kraftfahrzeuge mit zwei gelenkten Achsen und mit einer Doppelachslast nach Absat
 
 Kraftfahrzeuge mit mehr als vier Achsen unter Beachtung der Vorschriften in Nummer 3
 
-32,00 t.  
-  
+32,00 t.   
 
 (5a) Abweichend von Absatz 5 gelten für die zulässigen Gewichte von Kraftfahrzeugen nach § 30a Absatz 3 die im Anhang zu dieser Vorschrift genannten Bestimmungen.
 
@@ -1273,27 +1217,23 @@ so gelten als zulässiges Gesamtgewicht 28,00 t, 36,00 t, 38,00 t, 35,00 t, 40,0
 
 (11) Für Hubachsen oder Lastverlagerungsachsen sind die im Anhang zu dieser Vorschrift genannten Bestimmungen anzuwenden.
 
-
-## § 34a – Besetzung, Beladung und Kennzeichnung von Kraftomnibussen
+# § 34a – Besetzung, Beladung und Kennzeichnung von Kraftomnibussen
 
 (1) In Kraftomnibussen dürfen nicht mehr Personen und Gepäck befördert werden, als in der Zulassungsbescheinigung Teil I Sitz- und Stehplätze eingetragen sind und die jeweilige Summe der im Fahrzeug angeschriebenen Fahrgastplätze sowie die Angaben für die Höchstmasse des Gepäcks ausweisen.
 
 (2) Auf Antrag des Verfügungsberechtigten oder auf Grund anderer Vorschriften können abweichend von den nach Absatz 1 jeweils zulässigen Platzzahlen auf die Einsatzart der Kraftomnibusse abgestimmte verminderte Platzzahlen festgelegt werden. Die verminderten Platzzahlen sind in der Zulassungsbescheinigung Teil I einzutragen und im Fahrzeug an gut sichtbarer Stelle in gut sichtbarer Schrift anzuschreiben.
 
-
-## § 34b – Laufrollenlast und Gesamtgewicht von Gleiskettenfahrzeugen
+# § 34b – Laufrollenlast und Gesamtgewicht von Gleiskettenfahrzeugen
 
 (1) Bei Fahrzeugen, die ganz oder teilweise auf endlosen Ketten oder Bändern laufen (Gleiskettenfahrzeuge), darf die Last einer Laufrolle auf ebener Fahrbahn 2,00 t nicht übersteigen. Gefederte Laufrollen müssen bei Fahrzeugen mit einem Gesamtgewicht von mehr als 8 t so angebracht sein, dass die Last einer um 60 mm angehobenen Laufrolle bei stehendem Fahrzeug nicht mehr als doppelt so groß ist wie die auf ebener Fahrbahn zulässige Laufrollenlast. Bei Fahrzeugen mit ungefederten Laufrollen und Gleisketten, die außen vollständig aus Gummiband bestehen, darf der Druck der Auflagefläche der Gleiskette auf die ebene Fahrbahn 0,8 N/mm² nicht übersteigen. Als Auflagefläche gilt nur derjenige Teil einer Gleiskette, der tatsächlich auf einer ebenen Fahrbahn aufliegt. Die Laufrollen von Gleiskettenfahrzeugen können sowohl einzeln als auch über das gesamte Laufwerk abgefedert werden. Das Gesamtgewicht von Gleiskettenfahrzeugen darf 32,00 t nicht übersteigen.
 
 (2) Gleiskettenfahrzeuge dürfen die Fahrbahn zwischen der ersten und letzten Laufrolle höchstens mit 9,00 t je Meter belasten.
 
-
-## § 35 – Motorleistung
+# § 35 – Motorleistung
 
 Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei Sattelkraftfahrzeugen und Lastkraftwagenzügen muss eine Motorleistung von mindestens 5,0 kW, bei Zugmaschinen und Zugmaschinenzügen – ausgenommen für land- oder forstwirtschaftliche Zwecke – von mindestens 2,2 kW je Tonne des zulässigen Gesamtgewichts des Kraftfahrzeugs und der jeweiligen Anhängelast vorhanden sein; dies gilt nicht für die mit elektrischer Energie angetriebenen Fahrzeuge sowie für Kraftfahrzeuge – auch mit Anhänger – mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h.
 
-
-## § 35a – Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder, Rollstuhlnutzer und Rollstühle
+# § 35a – Sitze, Sicherheitsgurte, Rückhaltesysteme, Rückhalteeinrichtungen für Kinder, Rollstuhlnutzer und Rollstühle
 
 (1) Der Sitz des Fahrzeugführers und sein Betätigungsraum sowie die Einrichtungen zum Führen des Fahrzeugs müssen so angeordnet und beschaffen sein, dass das Fahrzeug – auch bei angelegtem Sicherheitsgurt oder Verwendung eines anderen Rückhaltesystems – sicher geführt werden kann.
 
@@ -1329,15 +1269,13 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (+++ § 35a Abs. 4a iVm Abs. 4b: Zur Anwendung vgl. § 72 Abs. 2 Nr. 1b Satz 2 +++)
 
-
-## § 35b – Einrichtungen zum sicheren Führen der Fahrzeuge
+# § 35b – Einrichtungen zum sicheren Führen der Fahrzeuge
 
 (1) Die Einrichtungen zum Führen der Fahrzeuge müssen leicht und sicher zu bedienen sein.
 
 (2) Für den Fahrzeugführer muss ein ausreichendes Sichtfeld unter allen Betriebs- und Witterungsverhältnissen gewährleistet sein.
 
-
-## § 35c – Heizung und Lüftung
+# § 35c – Heizung und Lüftung
 
 (1) Geschlossene Führerräume in Kraftfahrzeugen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h müssen ausreichend beheizt und belüftet werden können.
 
@@ -1345,13 +1283,11 @@ Bei Lastkraftwagen sowie Kraftomnibussen einschließlich Gepäckanhänger, bei S
 
 (3) Während der Fahrt dürfen mit Flüssiggas (LPG) betriebene Heizanlagen in Kraftfahrzeugen und Anhängern, deren Verbrennungsheizgeräte und Gasversorgungssysteme ausschließlich für den Betrieb bei stillstehendem Fahrzeug bestimmt sind, nicht in Betrieb sein und die Ventile der Flüssiggasflaschen müssen geschlossen sein.
 
-
-## § 35d – Einrichtungen zum Auf- und Absteigen an Fahrzeugen
+# § 35d – Einrichtungen zum Auf- und Absteigen an Fahrzeugen
 
 Die Beschaffenheit der Fahrzeuge muss sicheres Auf- und Absteigen ermöglichen.
 
-
-## § 35e – Türen
+# § 35e – Türen
 
 (1) Türen und Türverschlüsse müssen so beschaffen sein, dass beim Schließen störende Geräusche vermeidbar sind.
 
@@ -1361,13 +1297,11 @@ Die Beschaffenheit der Fahrzeuge muss sicheres Auf- und Absteigen ermöglichen.
 
 (4) Türen müssen während der Fahrt geschlossen sein.
 
-
-## § 35f – Notausstiege in Kraftomnibussen
+# § 35f – Notausstiege in Kraftomnibussen
 
 Notausstiege in Kraftomnibussen sind innen und außen am Fahrzeug zu kennzeichnen. Notausstiege und hand- oder fremdkraftbetätigte Betriebstüren müssen sich in Notfällen bei stillstehendem oder mit einer Geschwindigkeit von maximal 5 km/h fahrendem Kraftomnibus jederzeit öffnen lassen; ihre Zugänglichkeit ist beim Betrieb der Fahrzeuge sicherzustellen. Besondere Einrichtungen zum Öffnen der Notausstiege und der Betriebstüren in Notfällen (Notbetätigungseinrichtungen) müssen als solche gekennzeichnet und ständig betriebsbereit sein; an diesen Einrichtungen oder in ihrer Nähe sind eindeutige Bedienungsanweisungen anzubringen.
 
-
-## § 35g – Feuerlöscher in Kraftomnibussen
+# § 35g – Feuerlöscher in Kraftomnibussen
 
 (1) In Kraftomnibussen muss mindestens ein Feuerlöscher, in Doppeldeckfahrzeugen müssen mindestens zwei Feuerlöscher mit einer Füllmasse von jeweils 6 kg in betriebsfertigem Zustand mitgeführt werden. Zulässig sind nur Feuerlöscher, die mindestens für die Brandklassen  
   
@@ -1388,8 +1322,7 @@ amtlich zugelassen sind.
 
 (4) Die Fahrzeughalter müssen die Feuerlöscher durch fachkundige Prüfer mindestens einmal innerhalb von zwölf Monaten auf Gebrauchsfähigkeit prüfen lassen. Beim Prüfen, Nachfüllen und bei Instandsetzung der Feuerlöscher müssen die Leistungswerte und technischen Merkmale, die dem jeweiligen Typ zugrunde liegen, gewährleistet bleiben. Auf einem am Feuerlöscher befestigten Schild müssen der Name des Prüfers und der Tag der Prüfung angegeben sein.
 
-
-## § 35h – Erste-Hilfe-Material in Kraftfahrzeugen
+# § 35h – Erste-Hilfe-Material in Kraftfahrzeugen
 
 (1) In Kraftomnibussen sind Verbandkästen, die selbst und deren Inhalt an Erste-Hilfe-Material dem Normblatt DIN 13 164, Ausgabe Januar 1998 oder Ausgabe Januar 2014 entsprechen, mitzuführen, und zwar mindestens
 
@@ -1403,20 +1336,17 @@ amtlich zugelassen sind.
 
 (4) Abweichend von den Absätzen 1 und 3 darf auch anderes Erste-Hilfe-Material mitgeführt werden, das bei gleicher Art, Menge und Beschaffenheit mindestens denselben Zweck zur Erste-Hilfe-Leistung erfüllt.
 
-
-## § 35i – Gänge, Anordnung von Fahrgastsitzen und Beförderung von Fahrgästen in Kraftomnibussen
+# § 35i – Gänge, Anordnung von Fahrgastsitzen und Beförderung von Fahrgästen in Kraftomnibussen
 
 (1) In Kraftomnibussen müssen die Fahrgastsitze so angeordnet sein, dass der Gang in Längsrichtung frei bleibt. Im Übrigen müssen die Anordnung der Fahrgastsitze und ihre Mindestabmessungen sowie die Mindestabmessungen der für Fahrgäste zugänglichen Bereiche der Anlage X entsprechen.
 
 (2) In Kraftomnibussen dürfen Fahrgäste nicht liegend befördert werden. Dies gilt nicht für Kinder in Kinderwagen.
 
-
-## § 35j – Brennverhalten der Innenausstattung bestimmter Kraftomnibusse
+# § 35j – Brennverhalten der Innenausstattung bestimmter Kraftomnibusse
 
 Die Innenausstattung von Kraftomnibussen, die weder für Stehplätze ausgelegt noch für die Benutzung im städtischen Verkehr bestimmt und mit mehr als 22 Sitzplätzen ausgestattet sind, muss den im Anhang zu dieser Vorschrift genannten Bestimmungen über das Brennverhalten entsprechen.
 
-
-## § 36 – Bereifung und Laufflächen
+# § 36 – Bereifung und Laufflächen
 
 (1) Maße und Bauart der Reifen von Fahrzeugen müssen den Betriebsbedingungen, besonders der Belastung und der durch die Bauart bestimmten Höchstgeschwindigkeit des Fahrzeugs, entsprechen. Sind land- oder forstwirtschaftliche Kraftfahrzeuge und Kraftfahrzeuge des Straßenunterhaltungsdienstes mit Reifen ausgerüstet, die nur eine niedrigere Höchstgeschwindigkeit zulassen, müssen diese Fahrzeuge entsprechend § 58 für diese Geschwindigkeit gekennzeichnet sein. Reifen oder andere Laufflächen dürfen keine Unebenheiten haben, die eine feste Fahrbahn beschädigen können. Eiserne Reifen müssen abgerundete Kanten haben und daran verwendete Nägel müssen eingelassen sein.
 
@@ -1428,7 +1358,7 @@ Die Innenausstattung von Kraftomnibussen, die weder für Stehplätze ausgelegt n
 
 1. durch deren Laufflächenprofil, Laufflächenmischung oder Bauart vor allem die Fahreigenschaften bei Schnee gegenüber normalen Reifen hinsichtlich ihrer Eigenschaft beim Anfahren, bei der Stabilisierung der Fahrzeugbewegung und beim Abbremsen des Fahrzeugs verbessert werden, und
 
-2. die mit dem Alpine-Symbol ![](../normengrafiken/bgbl1_2017/j1282-1_0010.jpg) (Bergpiktogramm mit Schneeflocke) nach der Regelung Nr. 117 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung der Reifen hinsichtlich der Rollgeräuschemissionen und der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes (ABl. L 218 vom 12.8.2016, S. 1) gekennzeichnet sind.
+2. die mit dem Alpine-Symbol ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j1282-1_0010.jpg) (Bergpiktogramm mit Schneeflocke) nach der Regelung Nr. 117 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung der Reifen hinsichtlich der Rollgeräuschemissionen und der Haftung auf nassen Oberflächen und/oder des Rollwiderstandes (ABl. L 218 vom 12.8.2016, S. 1) gekennzeichnet sind.
 
 (4a) Abweichend von § 36 Absatz 4 gelten bis zum Ablauf des 30. September 2024 als Reifen für winterliche Wetterverhältnisse auch Luftreifen im Sinne des Absatzes 2, die
 
@@ -1458,7 +1388,7 @@ im Blickfeld des Fahrzeugführers angegeben oder angezeigt wird und
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0010.jpg) |
 
   
 dabei bedeutet f den Mindestbetrag der Zunahme des Eindrucks in Millimetern und P die höchstzulässige statische Belastung in Kilogramm. Die höchstzulässige statische Belastung darf 100 N/mm der Grundflächenbreite des Reifens nicht übersteigen; sie darf jedoch 125 N/mm betragen, wenn die Fahrzeuge eine Höchstgeschwindigkeit von 8 km/h nicht überschreiten und entsprechende Geschwindigkeitsschilder (§ 58) angebracht sind. Die Flächenpressung ist unter der höchstzulässigen statischen Belastung ohne Berücksichtigung der Aussparung auf der Lauffläche zu ermitteln. Die Vorschriften über das Arbeitsvermögen gelten nicht für Gummireifen an Elektrokarren mit gefederter Triebachse und einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 20 km/h sowie deren Anhänger.
@@ -1491,8 +1421,7 @@ e) für land- oder forstwirtschaftliche Arbeitsgeräte und für Fahrzeuge zur Be
 
 beschränkt; sind die Laufflächen von Gleisketten gummigepolstert oder bestehen die Gleisketten außen vollständig aus Gummiband und sind die Laufrollen mit 40 mm hohen Gummireifen versehen oder besonders abgefedert, so ist die Geschwindigkeit nicht beschränkt.
 
-
-## § 36a – Radabdeckungen, Ersatzräder
+# § 36a – Radabdeckungen, Ersatzräder
 
 (1) Die Räder von Kraftfahrzeugen und ihren Anhängern müssen mit hinreichend wirkenden Abdeckungen (Kotflügel, Schmutzfänger oder Radeinbauten) versehen sein.
 
@@ -1516,15 +1445,13 @@ beschränkt; sind die Laufflächen von Gleisketten gummigepolstert oder bestehen
 
 (3) Für außen an Fahrzeugen mitgeführte Ersatzräder müssen Halterungen vorhanden sein, die die Ersatzräder sicher aufnehmen und allen betriebsüblichen Beanspruchungen standhalten können. Die Ersatzräder müssen gegen Verlieren durch zwei voneinander unabhängige Einrichtungen gesichert sein. Die Einrichtungen müssen so beschaffen sein, dass eine von ihnen wirksam bleibt, wenn die andere – insbesondere durch Bruch, Versagen oder Bedienungsfehler – ausfällt.
 
-
-## § 37 – Gleitschutzeinrichtungen und Schneeketten
+# § 37 – Gleitschutzeinrichtungen und Schneeketten
 
 (1) Einrichtungen, die die Greifwirkung der Räder bei Fahrten außerhalb befestigter Straßen erhöhen sollen (so genannte Bodengreifer und ähnliche Einrichtungen), müssen beim Befahren befestigter Straßen abgenommen werden, sofern nicht durch Auflegen von Schutzreifen oder durch Umklappen der Greifer oder durch Anwendung anderer Mittel nachteilige Wirkungen auf die Fahrbahn vermieden werden. Satz 1 gilt nicht, wenn zum Befahren befestigter Straßen Gleitschutzeinrichtungen verwendet werden, die so beschaffen und angebracht sind, dass sie die Fahrbahn nicht beschädigen können; die Verwendung kann durch die Bauartgenehmigung (§ 22a) auf Straßen mit bestimmten Decken und auf bestimmte Zeiten beschränkt werden.
 
 (2) Einrichtungen, die das sichere Fahren auf schneebedeckter oder vereister Fahrbahn ermöglichen sollen (Schneeketten), müssen so beschaffen und angebracht sein, dass sie die Fahrbahn nicht beschädigen können. Schneeketten aus Metall dürfen nur bei elastischer Bereifung (§ 36 Absatz 3 und 8) verwendet werden. Schneeketten müssen die Lauffläche des Reifens so umspannen, dass bei jeder Stellung des Rades ein Teil der Kette die ebene Fahrbahn berührt. Die die Fahrbahn berührenden Teile der Ketten müssen kurze Glieder haben, deren Teilung etwa das Drei- bis Vierfache der Drahtstärke betragen muss. Schneeketten müssen sich leicht auflegen und abnehmen lassen und leicht nachgespannt werden können.
 
-
-## § 38 – Lenkeinrichtung
+# § 38 – Lenkeinrichtung
 
 (1) Die Lenkeinrichtung muss leichtes und sicheres Lenken des Fahrzeugs gewährleisten; sie ist, wenn nötig, mit einer Lenkhilfe zu versehen. Bei Versagen der Lenkhilfe muss die Lenkbarkeit des Fahrzeugs erhalten bleiben.
 
@@ -1534,8 +1461,7 @@ beschränkt; sind die Laufflächen von Gleisketten gummigepolstert oder bestehen
 
 (4) Selbstfahrende Arbeitsmaschinen und Stapler mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h dürfen abweichend von Absatz 1 entsprechend den Baumerkmalen ihres Fahrgestells entweder den Vorschriften, die nach Absatz 2 für Lastkraftwagen oder nach Absatz 3 Satz 1 für land- oder forstwirtschaftliche Zugmaschinen angewendet werden dürfen, entsprechen. Selbstfahrende Arbeitsmaschinen und Stapler mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 40 km/h dürfen abweichend von Absatz 1 den Vorschriften, die nach Absatz 2 für Lastkraftwagen anzuwenden sind, entsprechen.
 
-
-## § 38a – Sicherungseinrichtungen gegen unbefugte Benutzung von Kraftfahrzeugen
+# § 38a – Sicherungseinrichtungen gegen unbefugte Benutzung von Kraftfahrzeugen
 
 (1) Personenkraftwagen sowie Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen mit einem zulässigen Gesamtgewicht von nicht mehr als 3,5 t – ausgenommen land- oder forstwirtschaftliche Zugmaschinen und Dreirad-Kraftfahrzeuge – müssen mit einer Sicherungseinrichtung gegen unbefugte Benutzung, Personenkraftwagen zusätzlich mit einer Wegfahrsperre ausgerüstet sein. Die Sicherungseinrichtung gegen unbefugte Benutzung und die Wegfahrsperre müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
@@ -1543,18 +1469,15 @@ beschränkt; sind die Laufflächen von Gleisketten gummigepolstert oder bestehen
 
 (3) Sicherungseinrichtungen gegen unbefugte Benutzung und Wegfahrsperren an Kraftfahrzeugen, für die sie nicht vorgeschrieben sind, müssen den vorstehenden Vorschriften entsprechen.
 
-
-## § 38b – Fahrzeug-Alarmsysteme
+# § 38b – Fahrzeug-Alarmsysteme
 
 In Personenkraftwagen sowie in Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen mit einem zulässigen Gesamtgewicht von nicht mehr als 2,00 t eingebaute Fahrzeug-Alarmsysteme müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen. Fahrzeug-Alarmsysteme in anderen Kraftfahrzeugen müssen sinngemäß den vorstehenden Vorschriften entsprechen.
 
-
-## § 39 – Rückwärtsgang
+# § 39 – Rückwärtsgang
 
 Kraftfahrzeuge – ausgenommen einachsige Zug- oder Arbeitsmaschinen mit einem zulässigen Gesamtgewicht von nicht mehr als 400 kg sowie Krafträder mit oder ohne Beiwagen – müssen vom Führersitz aus zum Rückwärtsfahren gebracht werden können.
 
-
-## § 39a – Betätigungseinrichtungen, Kontrollleuchten und Anzeiger
+# § 39a – Betätigungseinrichtungen, Kontrollleuchten und Anzeiger
 
 (1) Die in Personenkraftwagen und Kraftomnibussen sowie Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen – ausgenommen land- oder forstwirtschaftliche Zugmaschinen – eingebauten Betätigungseinrichtungen, Kontrollleuchten und Anzeiger müssen eine Kennzeichnung haben, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht.
 
@@ -1562,8 +1485,7 @@ Kraftfahrzeuge – ausgenommen einachsige Zug- oder Arbeitsmaschinen mit einem z
 
 (3) Land- oder forstwirtschaftliche Zugmaschinen müssen Betätigungseinrichtungen haben, deren Einbau, Position, Funktionsweise und Kennzeichnung den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht.
 
-
-## § 40 – Scheiben, Scheibenwischer, Scheibenwascher, Entfrostungs- und Trocknungsanlagen für Scheiben
+# § 40 – Scheiben, Scheibenwischer, Scheibenwascher, Entfrostungs- und Trocknungsanlagen für Scheiben
 
 (1) Sämtliche Scheiben – ausgenommen Spiegel sowie Abdeckscheiben von lichttechnischen Einrichtungen und Instrumenten – müssen aus Sicherheitsglas bestehen. Als Sicherheitsglas gilt Glas oder ein glasähnlicher Stoff, deren Bruchstücke keine ernstlichen Verletzungen verursachen können. Scheiben aus Sicherheitsglas, die für die Sicht des Fahrzeugführers von Bedeutung sind, müssen klar, lichtdurchlässig und verzerrungsfrei sein.
 
@@ -1571,8 +1493,7 @@ Kraftfahrzeuge – ausgenommen einachsige Zug- oder Arbeitsmaschinen mit einem z
 
 (3) Dreirädrige Kleinkrafträder und dreirädrige oder vierrädrige Kraftfahrzeuge mit Führerhaus nach § 30a Absatz 3 müssen mit Scheiben, Scheibenwischer, Scheibenwascher, Entfrostungs- und Trocknungsanlagen ausgerüstet sein, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
-
-## § 41 – Bremsen und Unterlegkeile
+# § 41 – Bremsen und Unterlegkeile
 
 (1) Kraftfahrzeuge müssen zwei voneinander unabhängige Bremsanlagen haben oder eine Bremsanlage mit zwei voneinander unabhängigen Bedienungseinrichtungen, von denen jede auch dann wirken kann, wenn die andere versagt. Die voneinander unabhängigen Bedienungseinrichtungen müssen durch getrennte Übertragungsmittel auf verschiedene Bremsflächen wirken, die jedoch in oder auf derselben Bremstrommel liegen können. Können mehr als zwei Räder gebremst werden, so dürfen gemeinsame Bremsflächen und (ganz oder teilweise) gemeinsame mechanische Übertragungseinrichtungen benutzt werden; diese müssen jedoch so gebaut sein, dass beim Bruch eines Teils noch mindestens zwei Räder, die nicht auf derselben Seite liegen, gebremst werden können. Alle Bremsflächen müssen auf zwangsläufig mit den Rädern verbundene, nicht auskuppelbare Teile wirken. Ein Teil der Bremsflächen muss unmittelbar auf die Räder wirken oder auf Bestandteile, die mit den Rädern ohne Zwischenschaltung von Ketten oder Getriebeteilen verbunden sind. Dies gilt nicht, wenn die Getriebeteile (nicht Ketten) so beschaffen sind, dass ihr Versagen nicht anzunehmen und für jedes in Frage kommende Rad eine besondere Bremsfläche vorhanden ist. Die Bremsen müssen leicht nachstellbar sein oder eine selbsttätige Nachstelleinrichtung haben.
 
@@ -1680,8 +1601,7 @@ Unterlegkeile müssen sicher zu handhaben und ausreichend wirksam sein. Sie müs
 
 (20) Abweichend von den Absätzen 1 bis 11, 12 Satz 1, 2, 3 und 5, den Absätzen 13, 17 bis 19 müssen land- oder forstwirtschaftliche Zugmaschinen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h den im Anhang zu dieser Vorschrift genannten Bestimmungen über Bremsanlagen entsprechen. Selbstfahrende Arbeitsmaschinen und Stapler mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h dürfen den Vorschriften über Bremsanlagen nach Satz 1 entsprechen.
 
-
-## § 41a – Druckgasanlagen und Druckbehälter
+# § 41a – Druckgasanlagen und Druckbehälter
 
 (1) Kraftfahrzeugtypen, die mit speziellen Ausrüstungen oder Bauteilen für die Verwendung von
 
@@ -1731,8 +1651,7 @@ Nach der Gassystemeinbauprüfung haben Halter von Kraftfahrzeugen mit Ausrüstun
 
 (8) Druckbehälter für Druckluftbremsanlagen und Nebenaggregate müssen die im Anhang zu dieser Vorschrift genannten Bestimmungen erfüllen. Sie dürfen auch aus anderen Werkstoffen als Stahl und Aluminium hergestellt werden, wenn sie den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen und für sie die gleiche Sicherheit und Gebrauchstüchtigkeit nachgewiesen ist. Druckbehälter sind entsprechend des Anhangs zu kennzeichnen.
 
-
-## § 41b – Automatischer Blockierverhinderer
+# § 41b – Automatischer Blockierverhinderer
 
 (1) Ein automatischer Blockierverhinderer ist der Teil einer Betriebsbremsanlage, der selbsttätig den Schlupf in der Drehrichtung des Rads an einem oder mehreren Rädern des Fahrzeugs während der Bremsung regelt.
 
@@ -1754,8 +1673,7 @@ Andere Fahrzeuge, die hinsichtlich ihrer Baumerkmale des Fahrgestells den in den
 
 (5) Absatz 2 gilt nicht für Anhänger mit Auflaufbremse sowie für Kraftfahrzeuge mit mehr als vier Achsen.
 
-
-## § 42 – Anhängelast hinter Kraftfahrzeugen und Leergewicht
+# § 42 – Anhängelast hinter Kraftfahrzeugen und Leergewicht
 
 (1) Die gezogene Anhängelast darf bei
 
@@ -1773,8 +1691,7 @@ des ziehenden Fahrzeugs noch den etwa vom Hersteller des ziehenden Fahrzeugs ang
 
 (3) Das Leergewicht ist das Gewicht des betriebsfertigen Fahrzeugs ohne austauschbare Ladungsträger (Behälter, die dazu bestimmt und geeignet sind, Ladungen aufzunehmen und auf oder an verschiedenen Trägerfahrzeugen verwendet zu werden, wie Container, Wechselbehälter), aber mit zu 90 Prozent gefüllten eingebauten Kraftstoffbehältern und zu 100 Prozent gefüllten Systemen für andere Flüssigkeiten (ausgenommen Systeme für gebrauchtes Wasser) einschließlich des Gewichts aller im Betrieb mitgeführten Ausrüstungsteile (zum Beispiel Ersatzräder und -bereifung, Ersatzteile, Werkzeug, Wagenheber, Feuerlöscher, Aufsteckwände, Planengestell mit Planenbügeln und Planenlatten oder Planenstangen, Plane, Gleitschutzeinrichtungen, Belastungsgewichte), bei anderen Kraftfahrzeugen als Kraftfahrzeugen nach § 30a Absatz 3 zuzüglich 75 kg als Fahrergewicht. Austauschbare Ladungsträger, die Fahrzeuge miteinander verbinden oder Zugkräfte übertragen, sind Fahrzeugteile.
 
-
-## § 43 – Einrichtungen zur Verbindung von Fahrzeugen
+# § 43 – Einrichtungen zur Verbindung von Fahrzeugen
 
 (1) Einrichtungen zur Verbindung von Fahrzeugen müssen so ausgebildet und befestigt sein, dass die nach dem Stand der Technik erreichbare Sicherheit – auch bei der Bedienung der Kupplung – gewährleistet ist. Die Zuggabel von Mehrachsanhängern muss bodenfrei sein. Die Zugöse dieser Anhänger muss jeweils in Höhe des Kupplungsmauls einstellbar sein; dies gilt bei anderen Kupplungsarten sinngemäß. Die Sätze 2 und 3 gelten nicht für Anhänger hinter Elektrokarren mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h, wenn das zulässige Gesamtgewicht des Anhängers nicht mehr als 2 t beträgt.
 
@@ -1796,8 +1713,7 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 
 (5) Einrichtungen zur Verbindung von Fahrzeugen an zweirädrigen oder dreirädrigen Kraftfahrzeugen nach § 30a Absatz 3 und ihre Anbringung an diesen Kraftfahrzeugen müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
-
-## § 44 – Stützeinrichtung und Stützlast
+# § 44 – Stützeinrichtung und Stützlast
 
 (1) An Sattelanhängern muss eine Stützeinrichtung vorhanden sein oder angebracht werden können. Wenn Sattelanhänger so ausgerüstet sind, dass die Verbindung der Kupplungsteile sowie der elektrischen Anschlüsse und der Bremsanschlüsse selbsttätig erfolgen kann, müssen die Anhänger eine Stützeinrichtung haben, die sich nach dem Ankuppeln des Anhängers selbsttätig vom Boden abhebt.
 
@@ -1805,8 +1721,7 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 
 (3) Bei Starrdeichselanhängern (einschließlich Zentralachsanhängern) mit einem zulässigen Gesamtgewicht von nicht mehr als 3,5 t darf die vom ziehenden Fahrzeug aufzunehmende Mindeststützlast nicht weniger als 4 Prozent des tatsächlichen Gesamtgewichts des Anhängers betragen; sie braucht jedoch nicht mehr als 25 kg zu betragen. Die technisch zulässige Stützlast des Zugfahrzeugs ist vom Hersteller festzulegen; sie darf – ausgenommen bei Krafträdern – nicht geringer als 25 kg sein. Bei Starrdeichselanhängern (einschließlich Zentralachsanhängern) mit einem zulässigen Gesamtgewicht von mehr als 3,5 t darf die vom ziehenden Fahrzeug aufzunehmende Mindeststützlast nicht weniger als 4 Prozent des tatsächlichen Gesamtgewichts des Anhängers betragen, sie braucht jedoch nicht mehr als 500 kg zu betragen. Die maximal zulässige Stützlast darf bei diesen Anhängern – ausgenommen bei Starrdeichselanhängern (einschließlich Zentralachsanhängern), die für eine Höchstgeschwindigkeit von nicht mehr als 40 km/h gekennzeichnet sind (§ 58) und land- oder forstwirtschaftlichen Arbeitsgeräten – höchstens 15 Prozent des tatsächlichen Gesamtgewichts des Starrdeichselanhängers (einschließlich Zentralachsanhängers), aber nicht mehr als 2,00 t betragen. Bei allen Starrdeichselanhängern (einschließlich Zentralachsanhängern) darf weder die für die Anhängekupplung oder die Zugeinrichtung noch die vom Hersteller des ziehenden Fahrzeugs angegebene Stützlast überschritten werden.
 
-
-## § 45 – Kraftstoffbehälter
+# § 45 – Kraftstoffbehälter
 
 (1) Kraftstoffbehälter müssen korrosionsfest sein. Sie müssen bei doppeltem Betriebsüberdruck, mindestens aber bei einem Überdruck von 0,3 bar, dicht sein. Weichgelötete Behälter müssen auch nach dem Ausschmelzen des Lotes zusammenhalten. Auftretender Überdruck oder den Betriebsdruck übersteigender Druck muss sich durch geeignete Einrichtungen (Öffnungen, Sicherheitsventile und dergleichen) selbsttätig ausgleichen. Entlüftungsöffnungen sind gegen Hindurchschlagen von Flammen zu sichern. Am Behälter weich angelötete Teile müssen zugleich vernietet, angeschraubt oder in anderer Weise sicher befestigt sein. Kraftstoff darf aus dem Füllverschluss oder den zum Ausgleich von Überdruck bestimmten Einrichtungen auch bei Schräglage, Kurvenfahrt oder Stößen nicht ausfließen.
 
@@ -1818,8 +1733,7 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 
 (4) Für Kraftstoffbehälter in Kraftfahrzeugen nach § 30a Absatz 3 und deren Einbau sowie für den Einbau der Kraftstoffzufuhrleitungen in diesen Kraftfahrzeugen gelten die im Anhang zu dieser Vorschrift genannten Bestimmungen.
 
-
-## § 46 – Kraftstoffleitungen
+# § 46 – Kraftstoffleitungen
 
 (1) Kraftstoffleitungen sind so auszuführen, dass Verwindungen des Fahrzeugs, Bewegungen des Motors und dergleichen keinen nachteiligen Einfluss auf die Haltbarkeit ausüben.
 
@@ -1829,8 +1743,7 @@ In jedem Fall muss die Herstellung einer betriebssicheren Verbindung leicht und 
 
 (4) Bei Kraftomnibussen dürfen Kraftstoffleitungen nicht im Fahrgast- oder Führerraum liegen. Bei diesen Fahrzeugen darf der Kraftstoff nicht durch Schwerkraft gefördert werden.
 
-
-## § 47 – Abgase
+# § 47 – Abgase
 
 (1) Kraftfahrzeuge mit Fremdzündungsmotor oder Selbstzündungsmotor mit mindestens vier Rädern, einer zulässigen Gesamtmasse von mindestens 400 kg und einer bauartbedingten Höchstgeschwindigkeit von mindestens 50 km/h – mit Ausnahme von land- oder forstwirtschaftlichen Zug- und Arbeitsmaschinen sowie anderen Arbeitsmaschinen und Staplern –, soweit sie in den Anwendungsbereich der Richtlinie 70/220/EWG des Rates vom 20. März 1970 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die Verunreinigung der Luft durch Emissionen von Kraftfahrzeugmotoren (ABl. L 76 vom 6.4.1970, S. 1), die zuletzt durch die Richtlinie 2006/96//EG (ABl. L 363 vom 20.12.2006, S. 81) geändert worden ist, fallen, müssen hinsichtlich ihres Abgasverhaltens und der Anforderungen in Bezug auf die Kraftstoffe den Vorschriften dieser Richtlinie entsprechen.
 
@@ -1915,19 +1828,15 @@ entsprechen, gelten als schadstoffarm.
 (+++ § 47 Abs. 8c: Zur Anwendung vgl. § 72 Abs. 2 Nr. 4 +++)  
 § 47 Abs. 1 Kursivdruck: Müsste richtig lauten "Richtlinie 2006/96/EG"
 
+# § 47a – (weggefallen)
 
-## § 47a – (weggefallen)
+# § 47b – (weggefallen)
 
-
-## § 47b – (weggefallen)
-
-
-## § 47c – Ableitung von Abgasen
+# § 47c – Ableitung von Abgasen
 
 Die Mündungen von Auspuffrohren dürfen nur nach oben, nach hinten, nach hinten unten oder nach hinten links bis zu einem Winkel von 45 Grad zur Fahrzeuglängsachse gerichtet sein; sie müssen so angebracht sein, dass das Eindringen von Abgasen in das Fahrzeuginnere nicht zu erwarten ist. Auspuffrohre dürfen weder über die seitliche noch über die hintere Begrenzung der Fahrzeuge hinausragen.
 
-
-## § 47d – Kohlendioxidemissionen, Kraftstoffverbrauch, Reichweite, Stromverbrauch
+# § 47d – Kohlendioxidemissionen, Kraftstoffverbrauch, Reichweite, Stromverbrauch
 
 (1) Für Kraftfahrzeuge, die in den Anwendungsbereich der Richtlinie 80/1268/EWG des Rates vom 16. Dezember 1980 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den Kraftstoffverbrauch von Kraftfahrzeugen (ABl. L 375 vom 31.12.1980, S. 36), geändert durch die im Anhang zu dieser Vorschrift genannten Bestimmungen sowie in den Anwendungsbereich der Verordnung (EG) Nr. 715/2007, die durch die Verordnung (EG) Nr. 692/2008 geändert worden ist, fallen, sind die Werte für die Kohlendioxidemissionen, den Kraftstoffverbrauch, die Reichweite und den Stromverbrauch gemäß den Anforderungen dieser Vorschriften zu ermitteln.
 
@@ -1935,29 +1844,25 @@ Die Mündungen von Auspuffrohren dürfen nur nach oben, nach hinten, nach hinten
 
 (+++ § 47d: Zur Anwendung vgl. § 72 Abs. 2 Nr. 5 +++)
 
-
-## § 47e – Genehmigung, Nachrüstung und Nachfüllen von Klimaanlagen
+# § 47e – Genehmigung, Nachrüstung und Nachfüllen von Klimaanlagen
 
 Kraftfahrzeuge mit Klimaanlage, die in den Anwendungsbereich der Richtlinie 2006/40/EG des Europäischen Parlaments und des Rates vom 17. Mai 2006 über Emissionen aus Klimaanlagen in Kraftfahrzeugen und zur Änderung der Richtlinie 70/156/EWG (ABl. L 161 vom 14.6.2006, S. 12) und der Verordnung (EG) Nr. 706/2007 der Kommission vom 21. Juni 2007 zur Festlegung von Verwaltungsvorschriften für die EG-Typgenehmigung von Kraftfahrzeugen und eines harmonisierten Verfahrens für die Messung von Leckagen aus bestimmten Klimaanlagen nach der Richtlinie 2006/40/EG des Europäischen Parlaments und des Rates (ABl. L 161 vom 22.6.2007, S. 33) fallen, haben mit Wirkung vom 1. Juni 2012 den Vorschriften dieser Verordnung zu entsprechen.
 
 (+++ § 47e: Zur Anwendung vgl. § 72 Abs. 2 Nr. 6 +++)
 
-
-## § 47f – Kraftstoffe, emissionsbedeutsame Betriebsstoffe und Systeme zur Verringerung der Stickoxid-Emissionen
+# § 47f – Kraftstoffe, emissionsbedeutsame Betriebsstoffe und Systeme zur Verringerung der Stickoxid-Emissionen
 
 (1) Ein Kraftfahrzeug darf nur mit den vom Hersteller in der Betriebsanleitung oder in anderen für den Fahrzeughalter bestimmten Unterlagen angegebenen Qualitäten von flüssigen, gasförmigen oder festen Kraftstoffen betrieben werden. Abweichend von Satz 1 darf ein Kraftfahrzeug mit anderen Qualitäten von flüssigen, gasförmigen oder festen Kraftstoffen nur betrieben werden, sofern die Einhaltung der Anforderungen des § 38 Absatz 1 des Bundes-Immissionsschutzgesetzes an das Fahrzeug sichergestellt ist.
 
 (2) Absatz 1 gilt auch für ergänzende Betriebsstoffe, die zur Einhaltung von Emissionsvorschriften erforderlich sind. Die Manipulation eines Systems zur Verringerung der Stickoxid-Emissionen und der Betrieb eines Kraftfahrzeugs und seiner Komponenten ohne ein sich verbrauchendes Reagens oder mit einem ungeeigneten sich verbrauchenden Reagens ist verboten, sofern das Fahrzeug über ein Emissionsminderungssystem verfügt, das die Nutzung eines sich verbrauchenden Reagens erfordert.
 
-
-## § 48 – Emissionsklassen für Kraftfahrzeuge
+# § 48 – Emissionsklassen für Kraftfahrzeuge
 
 (1) Kraftfahrzeuge, für die nachgewiesen wird, dass die Emissionen gasförmiger Schadstoffe und luftverunreinigender Partikel oder die Geräuschemissionen den Anforderungen der in der Anlage XIV genannten Emissionsklassen entsprechen, werden nach Maßgabe der Anlage XIV in Emissionsklassen eingestuft.
 
 (2) Partikelminderungssysteme, die für eine Nachrüstung von mit Selbstzündungsmotor angetriebenen Nutzfahrzeugen oder mobilen Maschinen und Geräten vorgesehen sind, müssen den Anforderungen der Anlage XXVI oder XXVII entsprechen und nach Maßgabe der jeweiligen Anlage geprüft, genehmigt und eingebaut werden.
 
-
-## § 49 – Geräuschentwicklung und Schalldämpferanlage
+# § 49 – Geräuschentwicklung und Schalldämpferanlage
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen so beschaffen sein, dass die Geräuschentwicklung das nach dem jeweiligen Stand der Technik unvermeidbare Maß nicht übersteigt.
 
@@ -1995,8 +1900,7 @@ gekennzeichnet sind. Satz 1 gilt nicht für
 
 (5) Technischer Dienst und Prüfstelle im Sinne der in den Absätzen 2 und 3 genannten Regelwerke ist das Institut für Fahrzeugtechnik beim Technischen Überwachungs-Verein Bayern Sachsen e. V., Westendstr. 199, 80686 München. Es können auch andere Technische Prüfstellen für den Kraftfahrzeugverkehr oder von der obersten Landesbehörde anerkannte Stellen prüfen. Der Technische Dienst ist über alle Prüfungen zu unterrichten. In Zweifelsfällen ist er zu beteiligen; bei allen Fragen der Anwendung ist er federführend.
 
-
-## § 49a – Lichttechnische Einrichtungen, allgemeine Grundsätze
+# § 49a – Lichttechnische Einrichtungen, allgemeine Grundsätze
 
 (1) An Kraftfahrzeugen und ihren Anhängern dürfen nur die vorgeschriebenen und die für zulässig erklärten lichttechnischen Einrichtungen angebracht sein. Als lichttechnische Einrichtungen gelten auch Leuchtstoffe und rückstrahlende Mittel. Die lichttechnischen Einrichtungen müssen vorschriftsmäßig und fest angebracht sowie ständig betriebsfertig sein. Lichttechnische Einrichtungen an Kraftfahrzeugen und Anhängern, auf die sich die Richtlinie 76/756/EWG des Rates vom 27. Juli 1976 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über den Anbau der Beleuchtungs- und Lichtsignaleinrichtungen für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. L 262 vom 27.9.1976, S. 1), die zuletzt durch die Richtlinie 2008/89/EG (ABl. L 257 vom 24.9.2008, S. 14) geändert worden ist, bezieht, müssen den technischen Vorschriften der Absätze 2, 5 und 6 und der Anhänge 3 bis 11 der ECE-Regelung Nr. 48 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung der Fahrzeuge hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 323 vom 6.12.2011, S. 46) entsprechen.
 
@@ -2064,8 +1968,7 @@ Der Leuchtenträger muss rechtwinklig zur Fahrbahn und zur Längsmittelebene des
 
 (11) Für die Bestimmung der „leuchtenden Fläche“, der „Lichtaustrittsfläche“ und der „Winkel der geometrischen Sichtbarkeit“ gelten die Begriffsbestimmungen in Anhang I der Richtlinie 76/756/EWG.
 
-
-## § 50 – Scheinwerfer für Fern- und Abblendlicht
+# § 50 – Scheinwerfer für Fern- und Abblendlicht
 
 (1) Für die Beleuchtung der Fahrbahn darf nur weißes Licht verwendet werden.
 
@@ -2109,8 +2012,7 @@ Die Einschaltung des Fernlichts muss durch eine blau leuchtende Lampe im Blickfe
 
 ausgerüstet sein.
 
-
-## § 51 – Begrenzungsleuchten, vordere Rückstrahler, Spurhalteleuchten
+# § 51 – Begrenzungsleuchten, vordere Rückstrahler, Spurhalteleuchten
 
 (1) Kraftfahrzeuge – ausgenommen Krafträder ohne Beiwagen und Kraftfahrzeuge mit einer Breite von weniger als 1 000 mm – müssen zur Kenntlichmachung ihrer seitlichen Begrenzung nach vorn mit zwei Begrenzungsleuchten ausgerüstet sein, bei denen der äußerste Punkt der leuchtenden Fläche nicht mehr als 400 mm von der breitesten Stelle des Fahrzeugumrisses entfernt sein darf. Zulässig sind zwei zusätzliche Begrenzungsleuchten, die Bestandteil der Scheinwerfer sein müssen. Beträgt der Abstand des äußersten Punktes der leuchtenden Fläche der Scheinwerfer von den breitesten Stellen des Fahrzeugumrisses nicht mehr als 400 mm, so genügen in die Scheinwerfer eingebaute Begrenzungsleuchten. Das Licht der Begrenzungsleuchten muss weiß sein; es darf nicht blenden. Die Begrenzungsleuchten müssen auch bei Fernlicht und Abblendlicht ständig leuchten. Bei Krafträdern mit Beiwagen muss eine Begrenzungsleuchte auf der äußeren Seite des Beiwagens angebracht sein. Krafträder ohne Beiwagen dürfen im Scheinwerfer eine Leuchte nach Art der Begrenzungsleuchten führen; Satz 5 ist nicht anzuwenden. Begrenzungsleuchten an einachsigen Zug- oder Arbeitsmaschinen sind nicht erforderlich, wenn sie von Fußgängern an Holmen geführt werden oder ihre durch die Bauart bestimmte Höchstgeschwindigkeit 30 km/h nicht übersteigt und der Abstand des äußersten Punktes der leuchtenden Fläche der Scheinwerfer von der breitesten Stelle des Fahrzeugumrisses nicht mehr als 400 mm beträgt.
 
@@ -2120,8 +2022,7 @@ ausgerüstet sein.
 
 (4) An Anhängern darf am hinteren Ende der beiden Längsseiten je eine nach vorn wirkende Leuchte für weißes Licht (Spurhalteleuchte) angebracht sein.
 
-
-## § 51a – Seitliche Kenntlichmachung
+# § 51a – Seitliche Kenntlichmachung
 
 (1) Kraftfahrzeuge – ausgenommen Personenkraftwagen – mit einer Länge von mehr als 6 m sowie Anhänger müssen an den Längsseiten mit nach der Seite wirkenden gelben, nicht dreieckigen Rückstrahlern ausgerüstet sein. Mindestens je einer dieser Rückstrahler muss im mittleren Drittel des Fahrzeugs angeordnet sein; der am weitesten vorn angebrachte Rückstrahler darf nicht mehr als 3 m vom vordersten Punkt des Fahrzeugs, bei Anhängern vom vordersten Punkt der Zugeinrichtung entfernt sein. Zwischen zwei aufeinanderfolgenden Rückstrahlern darf der Abstand nicht mehr als 3 m betragen. Der am weitesten hinten angebrachte Rückstrahler darf nicht mehr als 1 m vom hintersten Punkt des Fahrzeugs entfernt sein. Die Höhe über der Fahrbahn (höchster Punkt der leuchtenden Fläche) darf nicht mehr als 900 mm betragen. Lässt die Bauart des Fahrzeugs das nicht zu, so dürfen die Rückstrahler höher angebracht sein, jedoch nicht höher als 1 500 mm. Krankenfahrstühle müssen an den Längsseiten mit mindestens je einem gelben Rückstrahler ausgerüstet sein, der nicht höher als 600 mm, jedoch so tief wie möglich angebracht sein muss. Diese Rückstrahler dürfen auch an den Speichen der Räder angebracht sein.
 
@@ -2143,8 +2044,7 @@ ausgerüstet sein.
 
 (7) Zusätzlich zu den nach Absatz 1 vorgeschriebenen Einrichtungen sind Fahrzeugkombinationen mit Nachläufern zum Transport von Langmaterial über ihre gesamte Länge (einschließlich Ladung) durch gelbes retroreflektierendes Material, das mindestens dem Typ 2 des Normblattes DIN 67 520 Teil 2, Ausgabe Juni 1994, entsprechen muss, seitlich kenntlich zu machen in Form von Streifen, Bändern, Schlauch- oder Kabelumhüllungen oder in ähnlicher Ausführung. Kurze Unterbrechungen, die durch die Art der Ladung oder die Konstruktion der Fahrzeuge bedingt sind, sind zulässig. Die Einrichtungen sind so tief anzubringen, wie es die konstruktive Beschaffenheit der Fahrzeuge und der Ladung zulässt. Abweichend von Absatz 6 sind an Nachläufern von Fahrzeugkombinationen zum Transport von Langmaterial an den Längsseiten soweit wie möglich vorne und hinten jeweils eine Seitenmarkierungsleuchte anzubringen.
 
-
-## § 51b – Umrissleuchten
+# § 51b – Umrissleuchten
 
 (1) Umrissleuchten sind Leuchten, die die Breite über alles eines Fahrzeugs deutlich anzeigen. Sie sollen bei bestimmten Fahrzeugen die Begrenzungs- und Schlussleuchten ergänzen und die Aufmerksamkeit auf besondere Fahrzeugumrisse lenken.
 
@@ -2162,8 +2062,7 @@ ausgerüstet sein.
 
 (6) Umrissleuchten dürfen nicht an Fahrzeugen und Anbaugeräten angebracht werden, deren Breite über alles nicht mehr als 1,80 m beträgt.
 
-
-## § 51c – Parkleuchten, Park-Warntafeln
+# § 51c – Parkleuchten, Park-Warntafeln
 
 (1) Parkleuchten und Park-Warntafeln zeigen die seitliche Begrenzung eines geparkten Fahrzeugs an.
 
@@ -2185,8 +2084,7 @@ An Fahrzeugen, die nicht breiter als 2 000 mm und nicht länger als 6 000 mm s
 
 (5) Park-Warntafeln, deren wirksame Teile nur bei parkenden Fahrzeugen sichtbar sein dürfen, müssen auf der dem Verkehr zugewandten Seite des Fahrzeugs oder Zuges möglichst niedrig und nicht höher als 1 000 mm (höchster Punkt der leuchtenden Fläche) so angebracht sein, dass sie mit dem Umriss des Fahrzeugs, Zuges oder der Ladung abschließen. Abweichungen von nicht mehr als 100 mm nach innen sind zulässig. Rückstrahler und amtliche Kennzeichen dürfen durch Park-Warntafeln nicht verdeckt werden.
 
-
-## § 52 – Zusätzliche Scheinwerfer und Leuchten
+# § 52 – Zusätzliche Scheinwerfer und Leuchten
 
 (1) Außer mit den in § 50 vorgeschriebenen Scheinwerfern zur Beleuchtung der Fahrbahn dürfen mehrspurige Kraftfahrzeuge mit zwei Nebelscheinwerfern für weißes oder hellgelbes Licht ausgerüstet sein, Krafträder, auch mit Beiwagen, mit nur einem Nebelscheinwerfer. Sie dürfen nicht höher als die am Fahrzeug befindlichen Scheinwerfer für Abblendlicht angebracht sein. Sind mehrspurige Kraftfahrzeuge mit Nebelscheinwerfern ausgerüstet, bei denen der äußere Rand der Lichtaustrittsfläche mehr als 400 mm von der breitesten Stelle des Fahrzeugumrisses entfernt ist, so müssen die Nebelscheinwerfer so geschaltet sein, dass sie nur zusammen mit dem Abblendlicht brennen können. Nebelscheinwerfer müssen einstellbar und an dafür geeigneten Teilen der Fahrzeuge so befestigt sein, dass sie sich nicht unbeabsichtigt verstellen können. Sie müssen so eingestellt sein, dass eine Blendung anderer Verkehrsteilnehmer nicht zu erwarten ist. Die Blendung gilt als behoben, wenn die Beleuchtungsstärke in einer Entfernung von 25 m vor jedem einzelnen Nebelscheinwerfer auf einer Ebene senkrecht zur Fahrbahn in Höhe der Scheinwerfermitte und darüber bei Nennspannung an den Klemmen der Scheinwerferlampe nicht mehr als 1 lx beträgt.
 
@@ -2246,8 +2144,7 @@ Kraftfahrzeuge des Vollzugsdienstes des Bundesamtes für Güterverkehr dürfen m
 
 Das Heckwarnsystem muss unabhängig von der übrigen Fahrzeugbeleuchtung eingeschaltet werden können und darf nur im Stand oder bei Schrittgeschwindigkeit betrieben werden. Der Betrieb des Heckwarnsystems ist durch eine Kontrollleuchte im Fahrerhaus anzuzeigen. Es ist ein deutlich sichtbarer Hinweis anzubringen, dass das Heckwarnsystem nur zur Absicherung der Einsatzstelle verwendet werden und das Einschalten nur im Stand oder bei Schrittgeschwindigkeit erfolgen darf.
 
-
-## § 52a – Rückfahrscheinwerfer
+# § 52a – Rückfahrscheinwerfer
 
 (1) Der Rückfahrscheinwerfer ist eine Leuchte, die die Fahrbahn hinter und gegebenenfalls neben dem Fahrzeug ausleuchtet und anderen Verkehrsteilnehmern anzeigt, dass das Fahrzeug rückwärts fährt oder zu fahren beginnt.
 
@@ -2273,8 +2170,7 @@ Das Heckwarnsystem muss unabhängig von der übrigen Fahrzeugbeleuchtung eingesc
 
 (7) Werden Rückfahrscheinwerfer an Fahrzeugen angebracht, für die sie nicht vorgeschrieben sind, müssen sie den Vorschriften der Absätze 2, 4 und 5 entsprechen.
 
-
-## § 53 – Schlussleuchten, Bremsleuchten, Rückstrahler
+# § 53 – Schlussleuchten, Bremsleuchten, Rückstrahler
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen hinten mit zwei ausreichend wirkenden Schlussleuchten für rotes Licht ausgerüstet sein. Krafträder ohne Beiwagen brauchen nur eine Schlussleuchte zu haben. Der niedrigste Punkt der leuchtenden Fläche der Schlussleuchten darf nicht tiefer als 350 mm, bei Krafträdern nicht tiefer als 250 mm, und der höchste Punkt der leuchtenden Fläche nicht höher als 1 500 mm, bei Arbeitsmaschinen, Staplern und land- oder forstwirtschaftlichen Zugmaschinen nicht höher als 1 900 mm über der Fahrbahn liegen. Wenn die Form des Aufbaus die Einhaltung dieser Maße nicht zulässt, darf der höchste Punkt der leuchtenden Fläche nicht höher als 2 100 mm über der Fahrbahn liegen. Die Schlussleuchten müssen möglichst weit voneinander angebracht, der äußerste Punkt der leuchtenden Fläche darf nicht mehr als 400 mm von der breitesten Stelle des Fahrzeugumrisses entfernt sein. Mehrspurige Kraftfahrzeuge und ihre Anhänger dürfen mit zwei zusätzlichen Schlussleuchten ausgerüstet sein. Vorgeschriebene Schlussleuchten dürfen an einer gemeinsamen Sicherung nicht angeschlossen sein.
 
@@ -2326,8 +2222,7 @@ mit Rückstrahlern ausgerüstet sein, wie sie nach Absatz 4 Satz 1 und 8 für Kr
 
 ist zulässig. An Fahrzeugen der Klassen N<sub>2</sub>, N<sub>3</sub>, O<sub>3</sub> und O<sub>4</sub>, die in Satz 1 Nummer 3 nicht genannt sind, müssen seitlich weiße oder gelbe, hinten rote oder gelbe auffällige Markierungen, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen, angebracht werden. Bei den in Satz 1 Nummer 3 und Satz 2 genannten Fahrzeugen ist in Verbindung mit der Konturmarkierung Werbung auch aus andersfarbigen retroreflektierenden Materialien auf den Seitenflächen der Fahrzeuge zulässig, die den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht.
 
-
-## § 53a – Warndreieck, Warnleuchte, Warnblinkanlage, Warnweste
+# § 53a – Warndreieck, Warnleuchte, Warnblinkanlage, Warnweste
 
 (1) Warndreiecke und Warnleuchten müssen tragbar, standsicher und so beschaffen sein, dass sie bei Gebrauch auf ausreichende Entfernung erkennbar sind. Warndreiecke müssen rückstrahlend sein; Warnleuchten müssen gelbes Blinklicht abstrahlen, von der Lichtanlage des Fahrzeugs unabhängig sein und eine ausreichende Brenndauer haben. Warnwesten müssen der Norm DIN EN 471:2003+A1:2007, Ausgabe März 2008 oder der Norm EN ISO 20471:2013 entsprechen. Die Warneinrichtungen müssen in betriebsfertigem Zustand sein.
 
@@ -2356,8 +2251,7 @@ eine Warnweste.
 
 (5) Warnblinkanlagen an Fahrzeugen, für die sie nicht vorgeschrieben sind, müssen den Vorschriften des Absatzes 4 entsprechen.
 
-
-## § 53b – Ausrüstung und Kenntlichmachung von Anbaugeräten und Hubladebühnen
+# § 53b – Ausrüstung und Kenntlichmachung von Anbaugeräten und Hubladebühnen
 
 (1) Anbaugeräte, die seitlich mehr als 400 mm über den äußersten Punkt der leuchtenden Flächen der Begrenzungs- oder der Schlussleuchten des Fahrzeugs hinausragen, müssen mit Begrenzungsleuchten (§ 51 Absatz 1), Schlussleuchten (§ 53 Absatz 1) und Rückstrahlern (§ 53 Absatz 4) ausgerüstet sein. Die Leuchten müssen so angebracht sein, dass der äußerste Punkt ihrer leuchtenden Fläche nicht mehr als 400 mm von der äußersten Begrenzung des Anbaugeräts und der höchste Punkt der leuchtenden Fläche nicht mehr als 1 500 mm von der Fahrbahn entfernt sind. Der äußerste Punkt der leuchtenden Fläche der Rückstrahler darf nicht mehr als 400 mm von der äußersten Begrenzung des Anbaugeräts, der höchste Punkt der leuchtenden Fläche nicht mehr als 900 mm von der Fahrbahn entfernt sein. Die Leuchten und die Rückstrahler dürfen außerhalb der Zeit, in der Beleuchtung nötig ist (§ 17 Absatz 1 der Straßenverkehrs-Ordnung), abgenommen sein; sie müssen im oder am Fahrzeug mitgeführt werden.
 
@@ -2369,15 +2263,13 @@ eine Warnweste.
 
 (5) Hubladebühnen und ähnliche Einrichtungen, außer solchen an Kraftomnibussen, müssen während ihres Betriebs durch zwei Blinkleuchten für gelbes Licht mit einer Lichtstärke von nicht weniger als 50 cd und nicht mehr als 200 cd und mit gut sichtbaren rot-weißen Warnmarkierungen kenntlich gemacht werden. Die Blinkleuchten und die Warnmarkierungen müssen – bezogen auf die Arbeitsstellung der Einrichtung – möglichst am hinteren Ende und soweit außen wie möglich angebracht sein. Die Blinkleuchten müssen in Arbeitsstellung der Einrichtung mindestens in den Winkelbereichen sichtbar sein, die für hinten an Fahrzeugen angeordnete Fahrtrichtungsanzeiger in § 49a Absatz 1 Satz 4 gefordert werden. Die Blinkleuchten müssen eine flache Abböschung haben. Die Blinkleuchten müssen während des Betriebs der Einrichtung selbsttätig und unabhängig von der übrigen Fahrzeugbeleuchtung Warnblinklicht abstrahlen. Die rot-weißen Warnmarkierungen müssen retroreflektierend sein und brauchen nur nach hinten zu wirken. Bei Fahrzeugen, bei denen fest angebaute Blinkleuchten mit dem Verwendungszweck oder der Bauweise der Hubladebühne unvereinbar sind und bei Fahrzeugen, bei denen eine Nachrüstung mit zumutbarem Aufwand nicht möglich ist, muss mindestens eine tragbare Blinkleuchte als Sicherungseinrichtung von Hubladebühnen oder ähnlichen Einrichtungen mitgeführt, aufgestellt und zweckentsprechend betrieben werden.
 
-
-## § 53c – Tarnleuchten
+# § 53c – Tarnleuchten
 
 (1) Fahrzeuge der Bundeswehr, der Bundespolizei, der Polizei und des Katastrophenschutzes dürfen zusätzlich mit den zum Tarnlichtkreis gehörenden Leuchten – Tarnscheinwerfer, Tarnschlussleuchten, Abstandsleuchten und Tarnbremsleuchten – versehen sein.
 
 (2) Die Tarnleuchten dürfen nur einschaltbar sein, wenn die übrige Fahrzeugbeleuchtung abgeschaltet ist.
 
-
-## § 53d – Nebelschlussleuchten
+# § 53d – Nebelschlussleuchten
 
 (1) Die Nebelschlussleuchte ist eine Leuchte, die rotes Licht abstrahlt und das Fahrzeug bei dichtem Nebel von hinten besser erkennbar macht.
 
@@ -2391,8 +2283,7 @@ eine Warnweste.
 
 (6) In einem Zug brauchen nur die Nebelschlussleuchten am letzten Anhänger zu leuchten. Die Abschaltung der Nebelschlussleuchten am Zugfahrzeug oder am ersten Anhänger ist aber nur dann zulässig, wenn die jeweilige Ab- bzw. Wiedereinschaltung selbsttätig durch Aufstecken bzw. Abziehen des Steckers für die Anhängerbeleuchtung erfolgt.
 
-
-## § 54 – Fahrtrichtungsanzeiger
+# § 54 – Fahrtrichtungsanzeiger
 
 (1) Kraftfahrzeuge und ihre Anhänger müssen mit Fahrtrichtungsanzeigern ausgerüstet sein. Die Fahrtrichtungsanzeiger müssen nach dem Einschalten mit einer Frequenz von 1,5 Hz ± 0,5 Hz (90 Impulse ± 30 Impulse in der Minute) zwischen hell und dunkel sowie auf derselben Fahrzeugseite – ausgenommen an Krafträdern mit Wechselstromlichtanlage – in gleicher Phase blinken. Sie müssen so angebracht und beschaffen sein, dass die Anzeige der beabsichtigten Richtungsänderung unter allen Beleuchtungs- und Betriebsverhältnissen von anderen Verkehrsteilnehmern, für die ihre Erkennbarkeit von Bedeutung ist, deutlich wahrgenommen werden kann. Fahrtrichtungsanzeiger brauchen ihre Funktion nicht zu erfüllen, solange sie Warnblinklicht abstrahlen.
 
@@ -2444,20 +2335,17 @@ d) Sitzkarren (§ 3 Absatz 2 Satz 1 Nummer 2 Buchstabe i der Fahrzeug-Zulassungs
 
 (6) Fahrtrichtungsanzeiger an Fahrzeugen, für die sie nicht vorgeschrieben sind, müssen den vorstehenden Vorschriften entsprechen.
 
-
-## § 54a – Innenbeleuchtung in Kraftomnibussen
+# § 54a – Innenbeleuchtung in Kraftomnibussen
 
 (1) Kraftomnibusse müssen eine Innenbeleuchtung haben; diese darf die Sicht des Fahrzeugführers nicht beeinträchtigen.
 
 (2) Die für Fahrgäste bestimmten Ein- und Ausstiege müssen ausreichend ausgeleuchtet sein, solange die jeweilige Fahrgasttür nicht geschlossen ist.
 
-
-## § 54b – Windsichere Handlampe
+# § 54b – Windsichere Handlampe
 
 In Kraftomnibussen muss außer den nach § 53a Absatz 1 erforderlichen Warneinrichtungen eine von der Lichtanlage des Fahrzeugs unabhängige windsichere Handlampe mitgeführt werden.
 
-
-## § 55 – Einrichtungen für Schallzeichen
+# § 55 – Einrichtungen für Schallzeichen
 
 (1) Kraftfahrzeuge müssen mindestens eine Einrichtung für Schallzeichen haben, deren Klang gefährdete Verkehrsteilnehmer auf das Herannahen eines Kraftfahrzeugs aufmerksam macht, ohne sie zu erschrecken und andere mehr als unvermeidbar zu belästigen. Ist mehr als eine Einrichtung für Schallzeichen angebracht, so muss sichergestellt sein, dass jeweils nur eine Einrichtung betätigt werden kann. Die Umschaltung auf die eine oder andere Einrichtung darf die Abgabe einer Folge von Klängen verschiedener Grundfrequenzen nicht ermöglichen.
 
@@ -2475,15 +2363,13 @@ In Kraftomnibussen muss außer den nach § 53a Absatz 1 erforderlichen Warneinri
 
 (6) Mofas müssen mit mindestens einer helltönenden Glocke ausgerüstet sein. Radlaufglocken und andere Einrichtungen für Schallzeichen sind nicht zulässig.
 
-
-## § 55a – Elektromagnetische Verträglichkeit
+# § 55a – Elektromagnetische Verträglichkeit
 
 (1) Personenkraftwagen, Kraftomnibusse, Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen mit mindestens vier Rädern und einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h – ausgenommen land- oder forstwirtschaftliche Zugmaschinen, Muldenkipper, Flurförderzeuge, Elektrokarren und Autoschütter – sowie ihre Anhänger müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen über die elektromagnetische Verträglichkeit entsprechen. Satz 1 gilt entsprechend für andere Fahrzeuge, die hinsichtlich ihrer Baumerkmale des Fahrgestells und ihrer elektrischen Ausrüstung den genannten Fahrzeugen gleichzusetzen sind, sowie für Bauteile und selbstständige technische Einheiten, die zum Einbau in den genannten Fahrzeugen bestimmt sind.
 
 (2) Kraftfahrzeuge nach § 30a Absatz 3 sowie zum Einbau in diese Fahrzeuge bestimmte selbstständige technische Einheiten müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen über die elektromagnetische Verträglichkeit entsprechen.
 
-
-## § 56 – Spiegel und andere Einrichtungen für indirekte Sicht
+# § 56 – Spiegel und andere Einrichtungen für indirekte Sicht
 
 (1) Kraftfahrzeuge müssen nach Maßgabe der Absätze 2 bis 3 Spiegel oder andere Einrichtungen für indirekte Sicht haben, die so beschaffen und angebracht sind, dass der Fahrzeugführer nach rückwärts, zur Seite und unmittelbar vor dem Fahrzeug – auch beim Mitführen von Anhängern – alle für ihn wesentlichen Verkehrsvorgänge beobachten kann.
 
@@ -2505,8 +2391,7 @@ die vorgeschriebenen sowie vorhandenen gemäß Anhang III Nummer 2.1.1 der im An
 
 (3) Nicht erforderlich sind Spiegel bei einachsigen Zugmaschinen, einachsigen Arbeitsmaschinen, offenen Elektrokarren mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h sowie mehrspurigen Kraftfahrzeugen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h und mit offenem Führerplatz, der auch beim Mitführen von unbeladenen oder beladenen Anhängern nach rückwärts Sicht bietet.
 
-
-## § 57 – Geschwindigkeitsmessgerät und Wegstreckenzähler
+# § 57 – Geschwindigkeitsmessgerät und Wegstreckenzähler
 
 (1) Kraftfahrzeuge müssen mit einem im unmittelbaren Sichtfeld des Fahrzeugführers liegenden Geschwindigkeitsmessgerät ausgerüstet sein. Dies gilt nicht für
 
@@ -2518,8 +2403,7 @@ die vorgeschriebenen sowie vorhandenen gemäß Anhang III Nummer 2.1.1 der im An
 
 (3) Das Geschwindigkeitsmessgerät darf mit einem Wegstreckenzähler verbunden sein, der die zurückgelegte Strecke in Kilometern anzeigt. Die vom Wegstreckenzähler angezeigte Wegstrecke darf von der tatsächlich zurückgelegten Wegstrecke ± 4 Prozent abweichen.
 
-
-## § 57a – Fahrtschreiber und Kontrollgerät
+# § 57a – Fahrtschreiber und Kontrollgerät
 
 (1) Mit einem nach dem Mess- und Eichgesetz in Verkehr gebrachten Fahrtschreiber sind auszurüsten
 
@@ -2551,8 +2435,7 @@ Dies gilt nicht für
 
 (+++ § 57a Abs. 1: Zur Anwendung vgl. § 72 Abs. 2 Nr. 6a F. 10.5.2012 +++)
 
-
-## § 57b – Prüfung der Fahrtschreiber und Kontrollgeräte
+# § 57b – Prüfung der Fahrtschreiber und Kontrollgeräte
 
 (1) Halter, deren Kraftfahrzeuge mit einem Fahrtschreiber nach § 57a Absatz 1 oder mit einem Kontrollgerät nach der Verordnung (EWG) Nr. 3821/85 ausgerüstet sein müssen, haben auf ihre Kosten die Fahrtschreiber oder die Kontrollgeräte nach Maßgabe des Absatzes 2 und der Anlagen XVIII und XVIIIa darauf prüfen zu lassen, dass Einbau, Zustand, Messgenauigkeit und Arbeitsweise vorschriftsmäßig sind. Bestehen keine Bedenken gegen die Vorschriftsmäßigkeit, so hat der Hersteller oder die Werkstatt auf oder neben dem Fahrtschreiber oder dem Kontrollgerät gut sichtbar und dauerhaft ein Einbauschild anzubringen. Das Einbauschild muss plombiert sein, es sei denn, dass es sich nicht ohne Vernichtung der Angaben entfernen lässt. Der Halter hat dafür zu sorgen, dass das Einbauschild die vorgeschriebenen Angaben enthält, plombiert sowie vorschriftsmäßig angebracht und weder verdeckt noch verschmutzt ist.
 
@@ -2562,8 +2445,7 @@ Dies gilt nicht für
 
 (4) Wird der Fahrtschreiber oder das Kontrollgerät vom Fahrzeughersteller eingebaut, so hat dieser, sofern er hierfür nach Anlage XVIIIc amtlich anerkannt ist, die Einbauprüfung nach Maßgabe der Anlage XVIIIa durchzuführen und das Gerät zu kalibrieren. Die Einbauprüfung und Kalibrierung kann abweichend von Satz 1 auch durch einen hierfür anerkannten Fahrzeugimporteur durchgeführt werden. Die Einbauprüfung darf nur an einer Prüfstelle durchgeführt werden, die den in Anlage XVIIIb festgelegten Anforderungen entspricht.
 
-
-## § 57c – Ausrüstung von Kraftfahrzeugen mit Geschwindigkeitsbegrenzern und ihre Benutzung
+# § 57c – Ausrüstung von Kraftfahrzeugen mit Geschwindigkeitsbegrenzern und ihre Benutzung
 
 (1) Geschwindigkeitsbegrenzer sind Einrichtungen, die im Kraftfahrzeug in erster Linie durch die Steuerung der Kraftstoffzufuhr zum Motor die Fahrzeughöchstgeschwindigkeit auf den eingestellten Wert beschränken.
 
@@ -2587,8 +2469,7 @@ Dies gilt nicht für
 
 (5) Der Geschwindigkeitsbegrenzer muss so beschaffen sein, dass er nicht ausgeschaltet werden kann.
 
-
-## § 57d – Einbau und Prüfung von Geschwindigkeitsbegrenzern
+# § 57d – Einbau und Prüfung von Geschwindigkeitsbegrenzern
 
 (1) Geschwindigkeitsbegrenzer dürfen in Kraftfahrzeuge nur eingebaut und geprüft werden von hierfür amtlich anerkannten
 
@@ -2640,8 +2521,7 @@ Der Fahrzeugführer hat die Bescheinigung über die Prüfung des Geschwindigkeit
 
 (9) Die oberste Landesbehörde, die von ihr bestimmten oder die nach Landesrecht zuständigen Stellen üben die Aufsicht über die Inhaber der Anerkennung aus. Die Aufsichtsbehörde kann selbst prüfen oder durch von ihr bestimmte Sachverständige prüfen lassen, ob insbesondere die Voraussetzungen für die Anerkennung gegeben sind, ob der Einbau und die Prüfungen ordnungsgemäß durchgeführt und ob die sich sonst aus der Anerkennung oder den Nebenbestimmungen ergebenden Pflichten erfüllt werden.
 
-
-## § 58 – Geschwindigkeitsschilder
+# § 58 – Geschwindigkeitsschilder
 
 (1) Ein Geschwindigkeitsschild gibt die zulässige Höchstgeschwindigkeit des betreffenden Fahrzeugs in Kilometer je Stunde an.
 
@@ -2669,8 +2549,7 @@ Die Vorschrift des § 36 Absatz 1 Satz 2 bleibt unberührt.
 
 (5) Die Geschwindigkeitsschilder müssen an beiden Längsseiten und an der Rückseite des Fahrzeugs angebracht werden. An land- oder forstwirtschaftlichen Zugmaschinen und ihren Anhängern genügt ein Geschwindigkeitsschild an der Fahrzeugrückseite; wird es wegen der Art des Fahrzeugs oder seiner Verwendung zeitweise verdeckt oder abgenommen, so muss ein Geschwindigkeitsschild an der rechten Längsseite vorhanden sein.
 
-
-## § 59 – Fabrikschilder, sonstige Schilder, Fahrzeug-Identifizierungsnummer
+# § 59 – Fabrikschilder, sonstige Schilder, Fahrzeug-Identifizierungsnummer
 
 (1) An allen Kraftfahrzeugen und Anhängern muss an zugänglicher Stelle am vorderen Teil der rechten Seite gut lesbar und dauerhaft ein Fabrikschild mit folgenden Angaben angebracht sein:
 
@@ -2704,21 +2583,17 @@ Satz 3 Nummer 3 ist entsprechend anzuwenden, wenn nach dem Austausch die Fahrzeu
 
 (3) Ist eine Fahrzeug-Identifizierungsnummer nicht vorhanden oder lässt sie sich nicht mit Sicherheit feststellen, so kann die Zulassungsbehörde eine Nummer zuteilen. Absatz 2 gilt für diese Nummer entsprechend.
 
-
-## § 59a – Nachweis der Übereinstimmung mit der Richtlinie 96/53/EG
+# § 59a – Nachweis der Übereinstimmung mit der Richtlinie 96/53/EG
 
 (1) Fahrzeuge, die in Artikel 1 der Richtlinie 96/53/EG des Rates vom 25. Juli 1996 zur Festlegung der höchstzulässigen Abmessungen für bestimmte Straßenfahrzeuge im innerstaatlichen und grenzüberschreitenden Verkehr in der Gemeinschaft sowie zur Festlegung der höchstzulässigen Gewichte im grenzüberschreitenden Verkehr (ABl. L 235 vom 17.9.1996, S. 59), die durch die Richtlinie 2002/7/EG (ABl. L 67 vom 9.3.2002, S. 47) geändert worden ist, genannt sind und mit dieser Richtlinie übereinstimmen, müssen mit einem Nachweis dieser Übereinstimmung versehen sein. Der Nachweis muss den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.
 
 (2) Die auf dem Nachweis der Übereinstimmung angeführten Werte müssen mit den am einzelnen Fahrzeug tatsächlich gemessenen übereinstimmen.
 
+# § 60 – (weggefallen)
 
-## § 60 – (weggefallen)
+# § 60a – (weggefallen)
 
-
-## § 60a – (weggefallen)
-
-
-## § 61 – Halteeinrichtungen für Beifahrer sowie Fußstützen und Ständer von zweirädrigen Kraftfahrzeugen
+# § 61 – Halteeinrichtungen für Beifahrer sowie Fußstützen und Ständer von zweirädrigen Kraftfahrzeugen
 
 (1) Zweirädrige Kraftfahrzeuge, auf denen ein Beifahrer befördert werden darf, müssen mit einem Haltesystem für den Beifahrer ausgerüstet sein, das den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht.
 
@@ -2726,8 +2601,7 @@ Satz 3 Nummer 3 ist entsprechend anzuwenden, wenn nach dem Austausch die Fahrzeu
 
 (3) Jedes zweirädrige Kraftfahrzeug muss mindestens mit einem Ständer ausgerüstet sein, der den im Anhang zu dieser Vorschrift genannten Bestimmungen entspricht.
 
-
-## § 61a – Besondere Vorschriften für Anhänger hinter Fahrrädern mit Hilfsmotor
+# § 61a – Besondere Vorschriften für Anhänger hinter Fahrrädern mit Hilfsmotor
 
 Anhänger hinter Fahrrädern mit Hilfsmotor werden bei Anwendung der Bau- und Betriebsvorschriften wie Anhänger hinter Fahrrädern behandelt, wenn
 
@@ -2737,42 +2611,35 @@ Anhänger hinter Fahrrädern mit Hilfsmotor werden bei Anwendung der Bau- und Be
 
 Auf andere Anhänger hinter Fahrrädern mit Hilfsmotor sind die Vorschriften über Anhänger hinter Kleinkrafträdern anzuwenden.
 
-
-## § 62 – Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen
+# § 62 – Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen
 
 Elektrische Einrichtungen von elektrisch angetriebenen Kraftfahrzeugen müssen so beschaffen sein, dass bei verkehrsüblichem Betrieb der Fahrzeuge durch elektrische Einwirkung weder Personen verletzt noch Sachen beschädigt werden können.
 
-
-## § 63 – Anwendung der für Kraftfahrzeuge geltenden Vorschriften
+# § 63 – Anwendung der für Kraftfahrzeuge geltenden Vorschriften
 
 Die Vorschriften über Abmessungen, Achslast, Gesamtgewicht und Bereifung von Kraftfahrzeugen und ihren Anhängern (§§ 32, 34, 36 Absatz 1) gelten für andere Straßenfahrzeuge entsprechend. Für die Nachprüfung der Achslasten gilt § 31c mit der Abweichung, dass der Umweg zur Waage nicht mehr als 2 km betragen darf.
 
-
-## § 63a – Beschreibung von Fahrrädern
+# § 63a – Beschreibung von Fahrrädern
 
 (1) Ein Fahrrad ist ein Fahrzeug mit mindestens zwei Rädern, das ausschließlich durch die Muskelkraft auf ihm befindlicher Personen mit Hilfe von Pedalen oder Handkurbeln angetrieben wird.
 
 (2) Als Fahrrad gilt auch ein Fahrzeug im Sinne des Absatzes 1, das mit einer elektrischen Trethilfe ausgerüstet ist, die mit einem elektromotorischen Hilfsantrieb mit einer größten Nenndauerleistung von 0,25 kW ausgestattet ist, dessen Unterstützung sich mit zunehmender Fahrzeuggeschwindigkeit progressiv verringert und beim Erreichen einer Geschwindigkeit von 25 km/h oder wenn der Fahrer mit dem Treten oder Kurbeln einhält, unterbrochen wird. Die Anforderungen des Satzes 1 sind auch dann erfüllt, wenn das Fahrrad über einen Hilfsantrieb im Sinne des Satzes 1 verfügt, der eine Beschleunigung des Fahrzeugs auf eine Geschwindigkeit von bis zu 6 km/h, auch ohne gleichzeitiges Treten oder Kurbeln des Fahrers, ermöglicht (Anfahr- oder Schiebehilfe).
 
-
-## § 64 – Lenkeinrichtung, sonstige Ausrüstung und Bespannung
+# § 64 – Lenkeinrichtung, sonstige Ausrüstung und Bespannung
 
 (1) Fahrzeuge müssen leicht lenkbar sein. § 35a Absatz 1, Absatz 10 Satz 1 und 4 und § 35d Absatz 1 sind entsprechend anzuwenden, soweit nicht die Beschaffenheit der zu befördernden Güter eine derartige Ausrüstung der Fahrzeuge ausschließt.
 
 (2) Die Bespannung zweispänniger Fuhrwerke, die (nur) eine Deichsel (in der Mitte) haben, mit nur einem Zugtier ist unzulässig, wenn die sichere und schnelle Einwirkung des Gespannführers auf die Lenkung des Fuhrwerks nicht gewährleistet ist; dies kann durch Anspannung mit Kumtgeschirr oder mit Sielen mit Schwanzriemen oder Hinterzeug, durch Straffung der Steuerkette und ähnliche Mittel erreicht werden. Unzulässig ist die Anspannung an den Enden der beiden Ortscheite (Schwengel) der Bracke (Waage) oder nur an einem Ortscheit der Bracke, wenn diese nicht mit einer Kette oder dergleichen festgelegt ist. Bei Pferden ist die Verwendung sogenannter Zupfleinen (Stoßzügel) unzulässig.
 
-
-## § 64a – Einrichtungen für Schallzeichen
+# § 64a – Einrichtungen für Schallzeichen
 
 Fahrräder und Schlitten müssen mit mindestens einer helltönenden Glocke ausgerüstet sein; ausgenommen sind Handschlitten. Andere Einrichtungen für Schallzeichen dürfen an diesen Fahrzeugen nicht angebracht sein. An Fahrrädern sind auch Radlaufglocken nicht zulässig.
 
-
-## § 64b – Kennzeichnung
+# § 64b – Kennzeichnung
 
 An jedem Gespannfahrzeug – ausgenommen Kutschwagen, Personenschlitten und fahrbare land- oder forstwirtschaftliche Arbeitsgeräte – müssen auf der linken Seite Vorname, Zuname und Wohnort (Firma und Sitz) des Besitzers in unverwischbarer Schrift deutlich angegeben sein.
 
-
-## § 65 – Bremsen
+# § 65 – Bremsen
 
 (1) Alle Fahrzeuge müssen eine ausreichende Bremse haben, die während der Fahrt leicht bedient werden kann und ihre Wirkung erreicht, ohne die Fahrbahn zu beschädigen. Fahrräder müssen zwei voneinander unabhängige Bremsen haben. Bei Handwagen und Schlitten sowie bei land- oder forstwirtschaftlichen Arbeitsmaschinen, die nur im Fahren Arbeit leisten können (zum Beispiel Pflüge, Drillmaschinen, Mähmaschinen), ist eine Bremse nicht erforderlich.
 
@@ -2780,13 +2647,11 @@ An jedem Gespannfahrzeug – ausgenommen Kutschwagen, Personenschlitten und fahr
 
 (3) Sperrhölzer, Hemmschuhe und Ketten dürfen nur als zusätzliche Hilfsmittel und nur dann verwendet werden, wenn das Fahrzeug mit einer gewöhnlichen Bremse nicht ausreichend gebremst werden kann.
 
-
-## § 66 – Rückspiegel
+# § 66 – Rückspiegel
 
 Lastfahrzeuge müssen einen Spiegel für die Beobachtung der Fahrbahn nach rückwärts haben. Dies gilt nicht, wenn eine zweckentsprechende Anbringung des Rückspiegels an einem Fahrzeug technisch nicht möglich ist, ferner nicht für land- oder forstwirtschaftliche Maschinen.
 
-
-## § 66a – Lichttechnische Einrichtungen
+# § 66a – Lichttechnische Einrichtungen
 
 (1) Während der Dämmerung, der Dunkelheit oder wenn die Sichtverhältnisse es sonst erfordern, müssen die Fahrzeuge
 
@@ -2806,8 +2671,7 @@ führen; an Krankenfahrstühlen müssen diese Leuchten zu jeder Zeit fest angebr
 
 (6) Leuchten und Rückstrahler dürfen nicht verdeckt oder verschmutzt sein; die Leuchten dürfen nicht blenden.
 
-
-## § 67 – Lichttechnische Einrichtungen an Fahrrädern
+# § 67 – Lichttechnische Einrichtungen an Fahrrädern
 
 (1) Fahrräder dürfen nur dann im öffentlichen Straßenverkehr in Betrieb genommen werden, wenn sie mit den vorgeschriebenen und bauartgenehmigten lichttechnischen Einrichtungen ausgerüstet sind. Für abnehmbare Scheinwerfer und Leuchten gilt Absatz 2 Satz 4. Fahrräder müssen für den Betrieb des Scheinwerfers und der Schlussleuchte mit einer Lichtmaschine, einer Batterie oder einem wieder aufladbaren Energiespeicher oder einer Kombination daraus als Energiequelle ausgerüstet sein. Alle lichttechnischen Einrichtungen, mit Ausnahme von Batterien und wieder aufladbaren Energiespeichern, müssen den Anforderungen des § 22a genügen. Die Nennspannung der Energiequelle muss verträglich mit der Spannung der verwendeten aktiven lichttechnischen Einrichtungen sein.
 
@@ -2831,8 +2695,7 @@ Schlussleuchte und Rückstrahler dürfen in einem Gerät verbaut sein. Schlussle
 
 3. mindestens zwei um 180 Grad versetzt angebrachten, nach der Seite wirkenden gelben Speichenrückstrahlern an den Speichen des Vorderrades und des Hinterrades
 
-kenntlich gemacht sein.  
-Zusätzlich zu der Mindestausrüstung mit einer der Absicherungsarten dürfen Sicherungsmittel aus den anderen Absicherungsarten angebracht sein. Werden mehr als zwei Speichenrückstrahler an einem Rad angebracht, so sind sie am Radumfang gleichmäßig zu verteilen. Zusätzliche nach der Seite wirkende bauartgenehmigte gelbe rückstrahlende Mittel sind zulässig. Nach vorne und nach hinten wirkende Fahrtrichtungsanzeiger, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88) sowie Anordnung der Bedienteile nach der Regelung Nr. 60 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Vorschriften für die Genehmigung zweirädriger Krafträder und Fahrräder mit Hilfsmotor hinsichtlich der vom Fahrzeugführer betätigten Bedienteile und der Kennzeichnung von Bedienteilen, Kontrollleuchten und Anzeigevorrichtungen (ABl. L 297 vom 15.10.2014, S. 23), sind nur bei mehrspurigen Fahrrädern oder solchen mit einem Aufbau, der Handzeichen des Fahrers ganz oder teilweise verdeckt, zulässig.
+kenntlich gemacht sein. Zusätzlich zu der Mindestausrüstung mit einer der Absicherungsarten dürfen Sicherungsmittel aus den anderen Absicherungsarten angebracht sein. Werden mehr als zwei Speichenrückstrahler an einem Rad angebracht, so sind sie am Radumfang gleichmäßig zu verteilen. Zusätzliche nach der Seite wirkende bauartgenehmigte gelbe rückstrahlende Mittel sind zulässig. Nach vorne und nach hinten wirkende Fahrtrichtungsanzeiger, genehmigt nach der Regelung Nr. 50 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Bedingungen für die Genehmigung von Begrenzungsleuchten, Schlussleuchten, Bremsleuchten, Fahrtrichtungsanzeigern und Beleuchtungseinrichtungen für das hintere Kennzeichenschild für Fahrzeuge der Klasse L (ABl. L 97 vom 29.3.2014, S. 1) und angebaut nach der Regelung Nr. 74 der Wirtschaftskommission der Vereinten Nationen für Europa (UN/ECE) – Einheitliche Bedingungen für die Genehmigung von Fahrzeugen der Klasse L 1 hinsichtlich des Anbaus der Beleuchtungs- und Lichtsignaleinrichtungen (ABl. L 166 vom 18.6.2013, S. 88) sowie Anordnung der Bedienteile nach der Regelung Nr. 60 der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) – Einheitliche Vorschriften für die Genehmigung zweirädriger Krafträder und Fahrräder mit Hilfsmotor hinsichtlich der vom Fahrzeugführer betätigten Bedienteile und der Kennzeichnung von Bedienteilen, Kontrollleuchten und Anzeigevorrichtungen (ABl. L 297 vom 15.10.2014, S. 23), sind nur bei mehrspurigen Fahrrädern oder solchen mit einem Aufbau, der Handzeichen des Fahrers ganz oder teilweise verdeckt, zulässig.
 
 (6) Schlussleuchte und Scheinwerfer dürfen nur gemeinsam einzuschalten sein, wenn sie mit Hilfe einer Lichtmaschine betrieben werden. Bei eingeschalteter Standlichtfunktion darf auch die Schlussleuchte allein leuchten. In den Scheinwerfern und Leuchten dürfen nur die nach ihrer Bauart dafür bestimmten Leuchtmittel verwendet werden.
 
@@ -2852,8 +2715,7 @@ Lichttechnische Einrichtung<br />
 [mm]</th><th style="text-align: center;">Maximale Höhe<br />
 [mm]</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;">Scheinwerfer für Abblendlicht</td><td style="text-align: center;">400</td><td style="text-align: center;">1 200</td></tr><tr class="even"><td style="text-align: left;">Rückstrahler vorne</td><td style="text-align: center;">400</td><td style="text-align: center;">1 200</td></tr><tr class="odd"><td style="text-align: left;">Hinten: Schlussleuchte, Rückstrahler</td><td style="text-align: center;">250</td><td style="text-align: center;">1 200</td></tr></tbody></table>
 
-
-## § 67a – Lichttechnische Einrichtungen an Fahrradanhängern
+# § 67a – Lichttechnische Einrichtungen an Fahrradanhängern
 
 (1) An Fahrradanhängern dürfen nur die vorgeschriebenen und bauartgenehmigten lichttechnischen Einrichtungen angebracht sein. Lichttechnische Einrichtungen dürfen nicht verdeckt sein.
 
@@ -2895,8 +2757,7 @@ ausgerüstet werden.
 
 (6) Absatz 2 gilt nicht für Fahrradanhänger, die vor dem 1. Januar 2018 in Verkehr gebracht werden.
 
-
-## § 68 – Zuständigkeiten
+# § 68 – Zuständigkeiten
 
 (1) Diese Verordnung wird von den nach Landesrecht zuständigen Behörden ausgeführt.
 
@@ -2904,11 +2765,9 @@ ausgerüstet werden.
 
 (3) Die Zuständigkeiten der Verwaltungsbehörden und höheren Verwaltungsbehörden auf Grund dieser Verordnung, werden für die Dienstbereiche der Bundeswehr, der Bundespolizei, der Bundesanstalt Technisches Hilfswerk und der Polizei durch deren Dienststellen nach Bestimmung der Fachminister wahrgenommen. Für den Dienstbereich der Polizei kann die Zulassung von Kraftfahrzeugen und ihrer Anhänger nach Bestimmung der Fachminister durch die nach Absatz 1 zuständigen Behörden vorgenommen werden.
 
+# § 69 – (weggefallen)
 
-## § 69 – (weggefallen)
-
-
-## § 69a – Ordnungswidrigkeiten
+# § 69a – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 62 Absatz 1 Nummer 7 des Bundes-Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 47f Absatz 1, auch in Verbindung mit Absatz 2 Satz 1, oder entgegen § 47f Absatz 2 Satz 2 ein Kraftfahrzeug betreibt.
 
@@ -2916,8 +2775,7 @@ ausgerüstet werden.
 
 1. entgegen § 17 Absatz 1 einem Verbot, ein Fahrzeug in Betrieb zu setzen, zuwiderhandelt oder Beschränkungen nicht beachtet,
 
-1a.  
-entgegen § 19 Absatz 5 Satz 1 ein Fahrzeug in Betrieb nimmt oder als Halter dessen Inbetriebnahme anordnet oder zulässt,
+1a. entgegen § 19 Absatz 5 Satz 1 ein Fahrzeug in Betrieb nimmt oder als Halter dessen Inbetriebnahme anordnet oder zulässt,
 
 2. einer vollziehbaren Anordnung oder Auflage nach § 29 Absatz 7 Satz 5 in Verbindung mit Satz 4 zuwiderhandelt,
 
@@ -2957,27 +2815,21 @@ verstößt,
 
 1. des § 30 über allgemeine Beschaffenheit von Fahrzeugen;
 
-1a.  
-des § 30c Absatz 1 und 4 über vorstehende Außenkanten, Frontschutzsysteme;
+1a. des § 30c Absatz 1 und 4 über vorstehende Außenkanten, Frontschutzsysteme;
 
-1b.  
-des § 30d Absatz 3 über die Bestimmungen für Kraftomnibusse oder des § 30d Absatz 4 über die technischen Einrichtungen für die Beförderung von Personen mit eingeschränkter Mobilität in Kraftomnibussen;
+1b. des § 30d Absatz 3 über die Bestimmungen für Kraftomnibusse oder des § 30d Absatz 4 über die technischen Einrichtungen für die Beförderung von Personen mit eingeschränkter Mobilität in Kraftomnibussen;
 
-1c.  
-des § 31d Absatz 2 über die Ausrüstung ausländischer Kraftfahrzeuge mit Sicherheitsgurten, des § 31d Absatz 3 über die Ausrüstung ausländischer Kraftfahrzeuge mit Geschwindigkeitsbegrenzern oder deren Benutzung oder des § 31d Absatz 4 Satz 1 über die Profiltiefe der Reifen ausländischer Kraftfahrzeuge;
+1c. des § 31d Absatz 2 über die Ausrüstung ausländischer Kraftfahrzeuge mit Sicherheitsgurten, des § 31d Absatz 3 über die Ausrüstung ausländischer Kraftfahrzeuge mit Geschwindigkeitsbegrenzern oder deren Benutzung oder des § 31d Absatz 4 Satz 1 über die Profiltiefe der Reifen ausländischer Kraftfahrzeuge;
 
 2. des § 32 Absatz 1 bis 4 oder 9, auch in Verbindung mit § 31d Absatz 1, über Abmessungen von Fahrzeugen und Fahrzeugkombinationen;
 
 3. der §§ 32a, 42 Absatz 2 Satz 1 über das Mitführen von Anhängern, des § 33 über das Schleppen von Fahrzeugen, des § 43 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1, Absatz 3, 4 Satz 1 oder 3 über Einrichtungen zur Verbindung von Fahrzeugen oder des § 44 Absatz 1, 2 Satz 1 oder Absatz 3 über Stützeinrichtungen und Stützlast von Fahrzeugen;
 
-3a.  
-des § 32b Absatz 1, 2 oder 4 über Unterfahrschutz;
+3a. des § 32b Absatz 1, 2 oder 4 über Unterfahrschutz;
 
-3b.  
-des § 32c Absatz 2 über seitliche Schutzvorrichtungen;
+3b. des § 32c Absatz 2 über seitliche Schutzvorrichtungen;
 
-3c.  
-des § 32d Absatz 1 oder 2 Satz 1 über Kurvenlaufeigenschaften;
+3c. des § 32d Absatz 1 oder 2 Satz 1 über Kurvenlaufeigenschaften;
 
 4. des § 34 Absatz 3 Satz 3 über die zulässige Achslast oder das zulässige Gesamtgewicht bei Fahrzeugen oder Fahrzeugkombinationen, des § 34 Absatz 8 über das Gewicht auf einer oder mehreren Antriebsachsen, des § 34 Absatz 9 Satz 1 über den Achsabstand, des § 34 Absatz 11 über Hubachsen oder Lastverlagerungsachsen, jeweils auch in Verbindung mit § 31d Absatz 1, des § 34b über die Laufrollenlast oder das Gesamtgewicht von Gleiskettenfahrzeugen oder des § 42 Absatz 1 oder Absatz 2 Satz 2 über die zulässige Anhängelast;
 
@@ -2987,17 +2839,13 @@ des § 32d Absatz 1 oder 2 Satz 1 über Kurvenlaufeigenschaften;
 
 7. des § 35a Absatz 1 über Anordnung oder Beschaffenheit des Sitzes des Fahrzeugführers, des Betätigungsraums oder der Einrichtungen zum Führen des Fahrzeugs für den Fahrer, der Absätze 2, 3, 4, 5 Satz 1 oder Absatz 7 über Sitze und deren Verankerungen, Kopfstützen, Sicherheitsgurte und deren Verankerungen oder über Rückhaltesysteme, des Absatzes 4a über Rollstuhlstellplätze, Rollstuhl-Rückhaltesysteme, Rollstuhlnutzer-Rückhaltesysteme, Verankerungen und Sicherheitsgurte, des Absatzes 8 Satz 1 über die Anbringung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen, vor denen ein betriebsbereiter Airbag eingebaut ist, oder Satz 2 oder 4 über die Warnung vor der Verwendung von nach hinten gerichteten Rückhalteeinrichtungen für Kinder auf Beifahrersitzen mit Airbag, des Absatzes 9 Satz 1 über einen Sitz für den Beifahrer auf Krafträdern oder des Absatzes 10 über die Beschaffenheit von Sitzen, ihrer Lehnen und ihrer Befestigungen sowie der selbsttätigen Verriegelung von klappbaren Sitzen und Rückenlehnen und der Zugänglichkeit der Entriegelungseinrichtung oder des Absatzes 11 über Verankerungen der Sicherheitsgurte und Sicherheitsgurte von dreirädrigen oder vierrädrigen Kraftfahrzeugen; oder des Absatzes 13 über die Pflicht zur nach hinten oder seitlich gerichteten Anbringung von Rückhalteeinrichtungen für Kinder bis zu einem Alter von 15 Monaten
 
-7a.  
-des § 35b Absatz 1 über die Beschaffenheit der Einrichtungen zum Führen von Fahrzeugen oder des § 35b Absatz 2 über das Sichtfeld des Fahrzeugführers;
+7a. des § 35b Absatz 1 über die Beschaffenheit der Einrichtungen zum Führen von Fahrzeugen oder des § 35b Absatz 2 über das Sichtfeld des Fahrzeugführers;
 
-7b.  
-des § 35c über Heizung und Belüftung, des § 35d über Einrichtungen zum Auf- und Absteigen an Fahrzeugen, des § 35e Absatz 1 bis 3 über Türen oder des § 35f über Notausstiege in Kraftomnibussen;
+7b. des § 35c über Heizung und Belüftung, des § 35d über Einrichtungen zum Auf- und Absteigen an Fahrzeugen, des § 35e Absatz 1 bis 3 über Türen oder des § 35f über Notausstiege in Kraftomnibussen;
 
-7c.  
-des § 35g Absatz 1 oder 2 über Feuerlöscher in Kraftomnibussen oder des § 35h Absatz 1 bis 3 über Erste-Hilfe-Material in Kraftfahrzeugen;
+7c. des § 35g Absatz 1 oder 2 über Feuerlöscher in Kraftomnibussen oder des § 35h Absatz 1 bis 3 über Erste-Hilfe-Material in Kraftfahrzeugen;
 
-7d.  
-des § 35i Absatz 1 Satz 1 oder 2, dieser in Verbindung mit Nummer 2 Satz 2, 4, 8 oder 9, Nummer 3.1 Satz 1, Nummer 3.2 Satz 1 oder 2, Nummer 3.3, 3.4 Satz 1 oder 2 oder Nummer 3.5 Satz 2, 3 oder 4 der Anlage X, über Gänge oder die Anordnung von Fahrgastsitzen in Kraftomnibussen oder des § 35i Absatz 2 Satz 1 über die Beförderung liegender Fahrgäste ohne geeignete Rückhalteeinrichtungen;
+7d. des § 35i Absatz 1 Satz 1 oder 2, dieser in Verbindung mit Nummer 2 Satz 2, 4, 8 oder 9, Nummer 3.1 Satz 1, Nummer 3.2 Satz 1 oder 2, Nummer 3.3, 3.4 Satz 1 oder 2 oder Nummer 3.5 Satz 2, 3 oder 4 der Anlage X, über Gänge oder die Anordnung von Fahrgastsitzen in Kraftomnibussen oder des § 35i Absatz 2 Satz 1 über die Beförderung liegender Fahrgäste ohne geeignete Rückhalteeinrichtungen;
 
 8. des § 36 Absatz 1 Satz 1 oder 3 bis 4, Absatz 3 Satz 1 oder 3 bis 5, Absatz 5 Satz 1 oder Absatz 6 oder 2 über Bereifung, des § 36 Absatz 10 Satz 1 bis 4 über Gleisketten von Gleiskettenfahrzeugen oder Satz 6 über deren zulässige Höchstgeschwindigkeit, des § 36a Absatz 1 über Radabdeckungen oder Absatz 3 über die Sicherung von außen am Fahrzeug mitgeführten Ersatzrädern oder des § 37 Absatz 1 Satz 1 über Gleitschutzeinrichtungen oder Absatz 2 über Schneeketten;
 
@@ -3005,23 +2853,19 @@ des § 35i Absatz 1 Satz 1 oder 2, dieser in Verbindung mit Nummer 2 Satz 2, 4, 
 
 10. des § 38a über die Sicherung von Kraftfahrzeugen gegen unbefugte Benutzung;
 
-10a.  
-des § 38b über Fahrzeug-Alarmsysteme;
+10a. des § 38b über Fahrzeug-Alarmsysteme;
 
 11. des § 39 über Einrichtungen zum Rückwärtsfahren;
 
-11a.  
-des § 39a über Betätigungseinrichtungen, Kontrollleuchten und Anzeiger;
+11a. des § 39a über Betätigungseinrichtungen, Kontrollleuchten und Anzeiger;
 
 12. des § 40 Absatz 1 über die Beschaffenheit von Scheiben, des § 40 Absatz 2 über Anordnung und Beschaffenheit von Scheibenwischern oder des § 40 Absatz 3 über Scheiben, Scheibenwischer, Scheibenwascher, Entfrostungs- und Trocknungsanlagen von dreirädrigen Kleinkrafträdern und dreirädrigen und vierrädrigen Kraftfahrzeugen mit Führerhaus;
 
 13. des § 41 Absatz 1 bis 13, 15 Satz 1, 3 oder 4, Absatz 16 oder 17 über Bremsen oder des § 41 Absatz 14 über Ausrüstung mit Unterlegkeilen, ihre Beschaffenheit und Anbringung;
 
-13a.  
-des § 41a Absatz 8 über die Sicherheit und Kennzeichnung von Druckbehältern;
+13a. des § 41a Absatz 8 über die Sicherheit und Kennzeichnung von Druckbehältern;
 
-13b.  
-des § 41b Absatz 2 über die Ausrüstung mit automatischen Blockierverhinderern oder des § 41b Absatz 4 über die Verbindung von Anhängern mit einem automatischen Blockierverhinderer mit Kraftfahrzeugen;
+13b. des § 41b Absatz 2 über die Ausrüstung mit automatischen Blockierverhinderern oder des § 41b Absatz 4 über die Verbindung von Anhängern mit einem automatischen Blockierverhinderer mit Kraftfahrzeugen;
 
 14. des § 45 Absatz 1 oder 2 Satz 1 über Kraftstoffbehälter oder des § 46 über Kraftstoffleitungen;
 
@@ -3033,37 +2877,27 @@ des § 41b Absatz 2 über die Ausrüstung mit automatischen Blockierverhinderern
 
 18. des § 49a Absatz 1 bis 4, 5 Satz 1, Absatz 6, 8, 9 Satz 2, Absatz 9a oder 10 Satz 1 über die allgemeinen Bestimmungen für lichttechnische Einrichtungen;
 
-18a.  
-des § 50 Absatz 1, 2 Satz 1, 6 Halbsatz 2 oder Satz 7, Absatz 3 Satz 1 oder 2, Absatz 5, 6 Satz 1, 3, 4 oder 6, Absatz 6a Satz 2 bis 5 oder Absatz 9 über Scheinwerfer für Fern- oder Abblendlicht oder Absatz 10 über Scheinwerfer mit Gasentladungslampen;
+18a. des § 50 Absatz 1, 2 Satz 1, 6 Halbsatz 2 oder Satz 7, Absatz 3 Satz 1 oder 2, Absatz 5, 6 Satz 1, 3, 4 oder 6, Absatz 6a Satz 2 bis 5 oder Absatz 9 über Scheinwerfer für Fern- oder Abblendlicht oder Absatz 10 über Scheinwerfer mit Gasentladungslampen;
 
-18b.  
-des § 51 Absatz 1 Satz 1, 4 bis 6, Absatz 2 Satz 1, 4 oder Absatz 3 über Begrenzungsleuchten oder vordere Rückstrahler;
+18b. des § 51 Absatz 1 Satz 1, 4 bis 6, Absatz 2 Satz 1, 4 oder Absatz 3 über Begrenzungsleuchten oder vordere Rückstrahler;
 
-18c.  
-des § 51a Absatz 1 Satz 1 bis 7, Absatz 3 Satz 1, Absatz 4 Satz 2, Absatz 6 Satz 1 oder Absatz 7 Satz 1 oder 3 über die seitliche Kenntlichmachung von Fahrzeugen oder des § 51b Absatz 2 Satz 1 oder 3, Absatz 5 oder 6 über Umrissleuchten;
+18c. des § 51a Absatz 1 Satz 1 bis 7, Absatz 3 Satz 1, Absatz 4 Satz 2, Absatz 6 Satz 1 oder Absatz 7 Satz 1 oder 3 über die seitliche Kenntlichmachung von Fahrzeugen oder des § 51b Absatz 2 Satz 1 oder 3, Absatz 5 oder 6 über Umrissleuchten;
 
-18d.  
-des § 51c Absatz 3 bis 5 Satz 1 oder 3 über Parkleuchten oder Park-Warntafeln;
+18d. des § 51c Absatz 3 bis 5 Satz 1 oder 3 über Parkleuchten oder Park-Warntafeln;
 
-18e.  
-des § 52 Absatz 1 Satz 2 bis 5 über Nebelscheinwerfer, des § 52 Absatz 2 Satz 2 oder 3 über Suchscheinwerfer, des § 52 Absatz 5 Satz 2 über besondere Beleuchtungseinrichtungen an Krankenkraftwagen, des § 52 Absatz 7 Satz 2 oder 4 über Arbeitsscheinwerfer oder des § 52 Absatz 9 Satz 2 über Vorzeltleuchten an Wohnwagen oder Wohnmobilen;
+18e. des § 52 Absatz 1 Satz 2 bis 5 über Nebelscheinwerfer, des § 52 Absatz 2 Satz 2 oder 3 über Suchscheinwerfer, des § 52 Absatz 5 Satz 2 über besondere Beleuchtungseinrichtungen an Krankenkraftwagen, des § 52 Absatz 7 Satz 2 oder 4 über Arbeitsscheinwerfer oder des § 52 Absatz 9 Satz 2 über Vorzeltleuchten an Wohnwagen oder Wohnmobilen;
 
-18f.  
-des § 52a Absatz 2 Satz 1 oder 3, Absatz 4, 5 oder 7 über Rückfahrscheinwerfer;
+18f. des § 52a Absatz 2 Satz 1 oder 3, Absatz 4, 5 oder 7 über Rückfahrscheinwerfer;
 
-18g.  
-des § 53 Absatz 1 Satz 1, 3 bis 5 oder 7 über Schlussleuchten, des § 53 Absatz 2 Satz 1, 5 oder 6 über Bremsleuchten, des § 53 Absatz 4 Satz 1 bis 4 oder 6 über Rückstrahler, des § 53 Absatz 5 Satz 1 oder 2 über die Anbringung von Schlussleuchten, Bremsleuchten und Rückstrahlern, des § 53 Absatz 5 Satz 3 über die Kenntlichmachung von nach hinten hinausragenden Geräten, des § 53 Absatz 6 Satz 2 über Schlussleuchten an Anhängern hinter einachsigen Zug- oder Arbeitsmaschinen, des § 53 Absatz 8 über Schlussleuchten, Bremsleuchten, Rückstrahler und Fahrtrichtungsanzeiger an abgeschleppten betriebsunfähigen Fahrzeugen oder des § 53 Absatz 9 Satz 1 über das Verbot der Anbringung von Schlussleuchten, Bremsleuchten oder Rückstrahlern an beweglichen Fahrzeugteilen;
+18g. des § 53 Absatz 1 Satz 1, 3 bis 5 oder 7 über Schlussleuchten, des § 53 Absatz 2 Satz 1, 5 oder 6 über Bremsleuchten, des § 53 Absatz 4 Satz 1 bis 4 oder 6 über Rückstrahler, des § 53 Absatz 5 Satz 1 oder 2 über die Anbringung von Schlussleuchten, Bremsleuchten und Rückstrahlern, des § 53 Absatz 5 Satz 3 über die Kenntlichmachung von nach hinten hinausragenden Geräten, des § 53 Absatz 6 Satz 2 über Schlussleuchten an Anhängern hinter einachsigen Zug- oder Arbeitsmaschinen, des § 53 Absatz 8 über Schlussleuchten, Bremsleuchten, Rückstrahler und Fahrtrichtungsanzeiger an abgeschleppten betriebsunfähigen Fahrzeugen oder des § 53 Absatz 9 Satz 1 über das Verbot der Anbringung von Schlussleuchten, Bremsleuchten oder Rückstrahlern an beweglichen Fahrzeugteilen;
 
 19. des § 53a Absatz 1, 2 Satz 1, Absatz 3 Satz 2, Absatz 4 oder 5 über Warndreiecke, Warnleuchten, Warnblinkanlagen und Warnwesten oder des § 54b über die zusätzliche Mitführung einer Handlampe in Kraftomnibussen;
 
-19a.  
-des § 53b Absatz 1 Satz 1 bis 3, 4 Halbsatz 2, Absatz 2 Satz 1 bis 3, 4 Halbsatz 2, Absatz 3 Satz 1, Absatz 4 oder 5 über die Ausrüstung oder Kenntlichmachung von Anbaugeräten oder Hubladebühnen;
+19a. des § 53b Absatz 1 Satz 1 bis 3, 4 Halbsatz 2, Absatz 2 Satz 1 bis 3, 4 Halbsatz 2, Absatz 3 Satz 1, Absatz 4 oder 5 über die Ausrüstung oder Kenntlichmachung von Anbaugeräten oder Hubladebühnen;
 
-19b.  
-des § 53c Absatz 2 über Tarnleuchten;
+19b. des § 53c Absatz 2 über Tarnleuchten;
 
-19c.  
-des § 53d Absatz 2 bis 5 über Nebelschlussleuchten;
+19c. des § 53d Absatz 2 bis 5 über Nebelschlussleuchten;
 
 20. des § 54 Absatz 1 Satz 1 bis 3, Absatz 1a Satz 1, Absatz 2, 3, 4 Nummer 1 Satz 1, 4, Nummer 2, 3 Satz 1, Nummer 4 oder Absatz 6 über Fahrtrichtungsanzeiger;
 
@@ -3077,21 +2911,17 @@ des § 53d Absatz 2 bis 5 über Nebelschlussleuchten;
 
 25. des § 57 Absatz 1 Satz 1 oder Absatz 2 Satz 1 über das Geschwindigkeitsmessgerät, des § 57a Absatz 1 Satz 1, Absatz 1a oder 2 Satz 1 über Fahrtschreiber;
 
-25a.  
-des § 57a Absatz 3 Satz 2 über das Betreiben des Kontrollgeräts;
+25a. des § 57a Absatz 3 Satz 2 über das Betreiben des Kontrollgeräts;
 
-25b.  
-des § 57c Absatz 2 oder 5 über die Ausrüstung oder Benutzung der Geschwindigkeitsbegrenzer;
+25b. des § 57c Absatz 2 oder 5 über die Ausrüstung oder Benutzung der Geschwindigkeitsbegrenzer;
 
 26. des § 58 Absatz 2 oder 5 Satz 1, jeweils auch in Verbindung mit § 36 Absatz 1 Satz 2, oder Absatz 3 oder 5 Satz 2 Halbsatz 2 über Geschwindigkeitsschilder an Kraftfahrzeugen oder Anhängern oder des § 59 Absatz 1 Satz 1, Absatz 1a, 1b, 2 oder 3 Satz 2 über Fabrikschilder oder Fahrzeug-Identifizierungsnummern;
 
-26a.  
-des § 59a über den Nachweis der Übereinstimmung mit der Richtlinie 96/53/EG;
+26a. des § 59a über den Nachweis der Übereinstimmung mit der Richtlinie 96/53/EG;
 
 27. des § 61 Absatz 1 über Halteeinrichtungen für Beifahrer oder Absatz 3 über Ständer von zweirädrigen Kraftfahrzeugen;
 
-27a.  
-des § 61a über Anhänger hinter Fahrrädern mit Hilfsmotor oder
+27a. des § 61a über Anhänger hinter Fahrrädern mit Hilfsmotor oder
 
 28. des § 62 über die Beschaffenheit von elektrischen Einrichtungen der elektrisch angetriebenen Kraftfahrzeuge.
 
@@ -3111,8 +2941,7 @@ des § 61a über Anhänger hinter Fahrrädern mit Hilfsmotor oder
 
 7. des § 66 über Rückspiegel;
 
-7a.  
-des § 66a über lichttechnische Einrichtungen;
+7a. des § 66a über lichttechnische Einrichtungen;
 
 8. des § 67 über lichttechnische Einrichtungen an Fahrrädern oder
 
@@ -3128,64 +2957,47 @@ des § 66a über lichttechnische Einrichtungen;
 
 4. entgegen § 31a Absatz 2 als Halter oder dessen Beauftragter im Fahrtenbuch nicht vor Beginn der betreffenden Fahrt die erforderlichen Angaben einträgt oder nicht unverzüglich nach Beendigung der betreffenden Fahrt Datum und Uhrzeit der Beendigung mit seiner Unterschrift einträgt,
 
-4a.  
-entgegen § 31a Absatz 3 ein Fahrtenbuch nicht aushändigt oder nicht aufbewahrt,
+4a. entgegen § 31a Absatz 3 ein Fahrtenbuch nicht aushändigt oder nicht aufbewahrt,
 
-4b.  
-entgegen § 31b mitzuführende Gegenstände nicht vorzeigt oder zur Prüfung nicht aushändigt,
+4b. entgegen § 31b mitzuführende Gegenstände nicht vorzeigt oder zur Prüfung nicht aushändigt,
 
-4c.  
-gegen eine Vorschrift des § 31c Satz 1 oder 4 Halbsatz 2 über Pflichten zur Feststellung der zugelassenen Achslasten oder über das Um- oder Entladen bei Überlastung verstößt,
+4c. gegen eine Vorschrift des § 31c Satz 1 oder 4 Halbsatz 2 über Pflichten zur Feststellung der zugelassenen Achslasten oder über das Um- oder Entladen bei Überlastung verstößt,
 
-4d.  
-als Fahrpersonal oder Halter gegen eine Vorschrift des § 35g Absatz 3 über das Vertrautsein mit der Handhabung von Feuerlöschern oder als Halter gegen eine Vorschrift des § 35g Absatz 4 über die Prüfung von Feuerlöschern verstößt,
+4d. als Fahrpersonal oder Halter gegen eine Vorschrift des § 35g Absatz 3 über das Vertrautsein mit der Handhabung von Feuerlöschern oder als Halter gegen eine Vorschrift des § 35g Absatz 4 über die Prüfung von Feuerlöschern verstößt,
 
 5. entgegen § 36 Absatz 7 Satz 1 einen Luftreifen nicht, nicht vollständig oder nicht in der vorgeschriebenen Weise kennzeichnet,
 
-5a.  
-entgegen § 41a Absatz 5 Satz 1 eine Gassystemeinbauprüfung, entgegen Absatz 5 Satz 3 eine Begutachtung oder entgegen Absatz 6 Satz 2 eine Gasanlagenprüfung nicht durchführen lässt,
+5a. entgegen § 41a Absatz 5 Satz 1 eine Gassystemeinbauprüfung, entgegen Absatz 5 Satz 3 eine Begutachtung oder entgegen Absatz 6 Satz 2 eine Gasanlagenprüfung nicht durchführen lässt,
 
-5b.  
-(weggefallen)
+5b. (weggefallen)
 
-5c.  
-(weggefallen)
+5c. (weggefallen)
 
-5d.  
-entgegen § 49 Absatz 2a Satz 1 Auspuffanlagen, Austauschauspuffanlagen oder Einzelteile dieser Austauschauspuffanlagen als unabhängige technische Einheiten für Krafträder verwendet oder zur Verwendung feilbietet oder veräußert oder entgegen § 49 Absatz 4 Satz 1 den Schallpegel im Nahfeld nicht feststellen lässt,
+5d. entgegen § 49 Absatz 2a Satz 1 Auspuffanlagen, Austauschauspuffanlagen oder Einzelteile dieser Austauschauspuffanlagen als unabhängige technische Einheiten für Krafträder verwendet oder zur Verwendung feilbietet oder veräußert oder entgegen § 49 Absatz 4 Satz 1 den Schallpegel im Nahfeld nicht feststellen lässt,
 
-5e.  
-entgegen § 49 Absatz 3 Satz 2, auch in Verbindung mit § 31e Satz 2, ein Fahrzeug kennzeichnet oder entgegen § 49 Absatz 3 Satz 3, auch in Verbindung mit § 31e Satz 2, ein Zeichen anbringt,
+5e. entgegen § 49 Absatz 3 Satz 2, auch in Verbindung mit § 31e Satz 2, ein Fahrzeug kennzeichnet oder entgegen § 49 Absatz 3 Satz 3, auch in Verbindung mit § 31e Satz 2, ein Zeichen anbringt,
 
-5f.  
-entgegen § 52 Absatz 6 Satz 3 die Bescheinigung nicht mitführt oder zur Prüfung nicht aushändigt,
+5f. entgegen § 52 Absatz 6 Satz 3 die Bescheinigung nicht mitführt oder zur Prüfung nicht aushändigt,
 
 6. als Halter oder dessen Beauftragter gegen eine Vorschrift des § 57a Absatz 2 Satz 2 Halbsatz 2 oder 3 oder Satz 3 über die Ausfüllung und Verwendung von Schaublättern oder als Halter gegen eine Vorschrift des § 57a Absatz 2 Satz 4 über die Vorlage und Aufbewahrung von Schaublättern verstößt,
 
-6a.  
-als Halter gegen eine Vorschrift des § 57a Absatz 3 Satz 2 in Verbindung mit Artikel 14 der Verordnung (EWG) Nr. 3821/85 über die Aushändigung, Aufbewahrung oder Vorlage von Schaublättern verstößt,
+6a. als Halter gegen eine Vorschrift des § 57a Absatz 3 Satz 2 in Verbindung mit Artikel 14 der Verordnung (EWG) Nr. 3821/85 über die Aushändigung, Aufbewahrung oder Vorlage von Schaublättern verstößt,
 
-6b.  
-als Halter gegen eine Vorschrift des § 57b Absatz 1 Satz 1 über die Pflicht, Fahrtschreiber oder Kontrollgeräte prüfen zu lassen, oder des § 57b Absatz 1 Satz 4 über die Pflichten bezüglich des Einbauschildes verstößt,
+6b. als Halter gegen eine Vorschrift des § 57b Absatz 1 Satz 1 über die Pflicht, Fahrtschreiber oder Kontrollgeräte prüfen zu lassen, oder des § 57b Absatz 1 Satz 4 über die Pflichten bezüglich des Einbauschildes verstößt,
 
-6c.  
-als Kraftfahrzeugführer entgegen § 57a Absatz 2 Satz 2 Halbsatz 1 Schaublätter vor Antritt der Fahrt nicht bezeichnet oder entgegen Halbsatz 3 mit Vermerken versieht, entgegen Satz 3 andere Schaublätter verwendet, entgegen Satz 4 Halbsatz 1 Schaublätter nicht vorlegt oder entgegen Satz 5 ein Ersatzschaublatt nicht mitführt,
+6c. als Kraftfahrzeugführer entgegen § 57a Absatz 2 Satz 2 Halbsatz 1 Schaublätter vor Antritt der Fahrt nicht bezeichnet oder entgegen Halbsatz 3 mit Vermerken versieht, entgegen Satz 3 andere Schaublätter verwendet, entgegen Satz 4 Halbsatz 1 Schaublätter nicht vorlegt oder entgegen Satz 5 ein Ersatzschaublatt nicht mitführt,
 
-6d.  
-als Halter entgegen § 57d Absatz 2 Satz 1 den Geschwindigkeitsbegrenzer nicht prüfen lässt,
+6d. als Halter entgegen § 57d Absatz 2 Satz 1 den Geschwindigkeitsbegrenzer nicht prüfen lässt,
 
-6e.  
-als Fahrzeugführer entgegen § 57d Absatz 2 Satz 3 eine Bescheinigung über die Prüfung des Geschwindigkeitsbegrenzers nicht mitführt oder nicht aushändigt,
+6e. als Fahrzeugführer entgegen § 57d Absatz 2 Satz 3 eine Bescheinigung über die Prüfung des Geschwindigkeitsbegrenzers nicht mitführt oder nicht aushändigt,
 
 7. gegen die Vorschrift des § 70 Absatz 3a über die Mitführung oder Aufbewahrung sowie die Aushändigung von Urkunden über Ausnahmegenehmigungen verstößt oder
 
 8. entgegen § 71 vollziehbaren Auflagen nicht nachkommt, unter denen eine Ausnahmegenehmigung erteilt worden ist.
 
+# § 69b – (weggefallen)
 
-## § 69b – (weggefallen)
-
-
-## § 70 – Ausnahmen
+# § 70 – Ausnahmen
 
 (1) Ausnahmen können genehmigen
 
@@ -3223,13 +3035,11 @@ f) Bestätigung, dass die unter Buchstabe d aufgeführten Fahrzeuge sich in Deut
 
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu bestimmen, dass abweichend von Absatz 1 Nummer 1 anstelle der höheren Verwaltungsbehörden und abweichend von Absatz 2 anstelle der obersten Straßenbaubehörden andere Behörden zuständig sind. Sie können diese Ermächtigung auf oberste Landesbehörden übertragen.
 
-
-## § 71 – Auflagen bei Ausnahmegenehmigungen
+# § 71 – Auflagen bei Ausnahmegenehmigungen
 
 Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Auflagen verbunden werden; der Betroffene hat den Auflagen nachzukommen.
 
-
-## § 72 – Übergangsbestimmungen
+# § 72 – Übergangsbestimmungen
 
 (1) Für Fahrzeuge sowie für Systeme, Bauteile und selbstständige technische Einheiten für diese Fahrzeuge, die vor dem 5. Mai 2012 erstmals in den Verkehr gekommen sind, gelten die zum Zeitpunkt ihrer Zulassung geltenden Vorschriften einschließlich der für diese Fahrzeuge erlassenen Nachrüstvorschriften fort.
 
@@ -3239,26 +3049,21 @@ Die Genehmigung von Ausnahmen von den Vorschriften dieser Verordnung kann mit Au
 
 ist anzuwenden ab dem 1. Juli 2012. Bis zu diesem Datum gilt § 29 in der vor dem 1. Juli 2012 geltenden Fassung. Anlässlich von Hauptuntersuchungen sind die auf den vorderen Kennzeichen nach den bis einschließlich 31. Dezember 2009 geltenden Vorschriften des § 47a Absatz 3 und 5 angebrachten Plaketten von den die Hauptuntersuchung durchführenden Personen zu entfernen.
 
-1a.  
-§ 33 (Schleppen von Fahrzeugen)
+1a. § 33 (Schleppen von Fahrzeugen)
 
 Vor dem 1. August 2013 erteilte Ausnahmegenehmigungen gelten bis zu ihrer Befristung weiter.
 
-1b.  
-§ 35a Absatz 2, 3, 4 und 5a (Sitzverankerungen, Sitze, Kopfstützen, Verankerungen für Sicherheitsgurte sowie Sicherheitsgurte oder Rückhaltesysteme)
+1b. § 35a Absatz 2, 3, 4 und 5a (Sitzverankerungen, Sitze, Kopfstützen, Verankerungen für Sicherheitsgurte sowie Sicherheitsgurte oder Rückhaltesysteme)
 
 Für Kraftfahrzeuge, die vor dem 1. November 2013 eine nationale Typgenehmigung oder Einzelgenehmigung erhalten haben und vor dem 1. Januar 2014 erstmals in den Verkehr kommen, bleibt § 35a Absatz 2, 3 und 4 in der bisher geltenden Fassung anwendbar. § 35a Absatz 4a in Verbindung mit Absatz 4b ist ab dem 1. September 2016 für alle Personenkraftwagen anzuwenden, bei denen ein Einbau, Umbau oder eine Nachrüstung mit Rollstuhlstellplätzen, Rollstuhl-Rückhaltesystemen oder Rollstuhlnutzer-Rückhaltesystemen erfolgt. 35a Absatz 4a Satz 7 in Verbindung mit Absatz 4b ist bis einschließlich 31. August 2017 abweichend erfüllt, wenn ersatzweise zur DIN-Norm 75078-2:2015-04 die DIN-Norm 75078-2:1999 angewendet wird.
 
-1c.  
-§ 35c Absatz 2 (Heizanlagen in Fahrzeugen der Klassen M, N und O)
+1c. § 35c Absatz 2 (Heizanlagen in Fahrzeugen der Klassen M, N und O)
 
 gilt spätestens für Fahrzeuge und ihre Heizanlagen, die ab dem 1. August 2013 genehmigt werden. Für Fahrzeuge und ihre Heizanlagen, die vor dem 1. August 2013 genehmigt wurden, bleibt § 35c in der bisher geltenden Fassung anwendbar.
 
-1d.  
-§ 36 Absatz 4a tritt am 1. Oktober 2024 außer Kraft.
+1d. § 36 Absatz 4a tritt am 1. Oktober 2024 außer Kraft.
 
-1e.  
-§ 45 Absatz 1a (Einbau des Kraftstoffbehälters)
+1e. § 45 Absatz 1a (Einbau des Kraftstoffbehälters)
 
 gilt nicht für den serienmäßigen Einbau in reihenweise gefertigte Fahrzeuge, für die eine Allgemeine Betriebserlaubnis erteilt worden ist und die vor dem 1. Januar 1990 erstmals in den Verkehr gekommen sind.
 
@@ -3274,8 +3079,7 @@ a) Die Anforderungen zur Gewährleistung der vollen Wirkung der Vorkehrungen fü
 
 b) Die Änderungen der Richtlinie 2008/74/EG sind ab dem 1. Juni 2012 für von diesem Tage an erstmals in den Verkehr kommende Fahrzeuge anzuwenden.
 
-3a.  
-§ 47 Absatz 6b (Abgasemissionen schwerer Nutzfahrzeuge, Euro VI) ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden. Des Weiteren gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der OBD-Schwellenwerte für NO<sub>x</sub> und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1, unter „Letztes Zulassungsdatum“ genannten Termine.
+3a. § 47 Absatz 6b (Abgasemissionen schwerer Nutzfahrzeuge, Euro VI) ist hinsichtlich der Vorschriften der Verordnung (EG) Nr. 595/2009 und der Verordnung (EU) Nr. 582/2011 für erstmals in den Verkehr kommende Fahrzeuge mit einer Einzelgenehmigung ab dem 1. Dezember 2017 anzuwenden. Des Weiteren gelten für diese Fahrzeuge hinsichtlich der Überwachungsanforderungen für Reagensqualität und -verbrauch sowie der OBD-Schwellenwerte für NO<sub>x</sub> und Partikel die in der Verordnung (EU) Nr. 582/2011, Anhang I, Anlage 9, Tabelle 1, unter „Letztes Zulassungsdatum“ genannten Termine.
 
 4. § 47 Absatz 8c (Abgasemissionen von land- oder forstwirtschaftlichen Zugmaschinen)
 
@@ -3301,28 +3105,23 @@ b) Klimaanlagen, die in Fahrzeuge eingebaut sind, für die ab dem 1. Januar 2011
 
 c) Fahrzeuge mit einer Einzelgenehmigung, die ab dem 1. Januar 2017 erstmals in den Verkehr gebracht werden sollen, ist die Zulassung zu verweigern, wenn deren Klimaanlagen mit einem fluorierten Treibhausgas mit einem GWP-Wert über 150 befüllt sind. Bei Fahrzeugen mit einer Einzelgenehmigung, die vor dem 1. Januar 2017 erstmals in den Verkehr kommen sollen und deren Klimaanlagen mit einem fluorierten Treibhausgas mit einem GWP-Wert über 150 befüllt sind, findet der Nachweis der Leckagerate gemäß Artikel 7 der Verordnung (EG) Nr. 706/2007 keine Anwendung.
 
-6a.  
-§ 49a Absatz 1 Satz 4 (geometrische Sichtbarkeit)
+6a. § 49a Absatz 1 Satz 4 (geometrische Sichtbarkeit)
 
 tritt in Kraft am 1. November 2013 für die von diesem Tage an erstmals in den Verkehr kommenden Fahrzeuge. Fahrzeuge, die vor diesem Termin erstmals in den Verkehr gekommen sind, dürfen § 49a Absatz 1 Satz 4 in der vor dem 1. August 2013 geltenden Fassung entsprechen.
 
-6b.  
-§ 53 Absatz 10 Satz 1 Nummer 3 (Kennzeichnung von Fahrzeugen mit Konturmarkierungen)
+6b. § 53 Absatz 10 Satz 1 Nummer 3 (Kennzeichnung von Fahrzeugen mit Konturmarkierungen)
 
 Auf Fahrzeuge, die bis zum 1. November 2013 gekennzeichnet werden, bleibt § 53 Absatz 10 Satz 1 Nummer 3 in der bisher geltenden Fassung anwendbar.
 
-6c.  
-§ 53 Absatz 10 Satz 2 (auffällige Markierungen)
+6c. § 53 Absatz 10 Satz 2 (auffällige Markierungen)
 
 Für Fahrzeuge, die vor dem 10. Juli 2011 erstmals in den Verkehr gekommen sind, kann Absatz 10 Satz 1 Nummer 3 mit der zugehörigen Übergangsvorschrift angewendet werden.
 
-6d.  
-§ 53a Absatz 2 Nummer 3 (Warnwesten)
+6d. § 53a Absatz 2 Nummer 3 (Warnwesten)
 
 ist spätestens ab dem 1. Juli 2014 anzuwenden.
 
-6e.  
-§ 57a Absatz 1 (Fahrtschreiber)
+6e. § 57a Absatz 1 (Fahrtschreiber)
 
 tritt außer Kraft am 1. Januar 2013 für erstmals in den Verkehr kommende Kraftfahrzeuge.
 
@@ -3374,16 +3173,13 @@ ist ab dem 1. Juli 2012 anzuwenden. Bis zu diesem Datum gilt Anlage VIIId in der
 
 ist ab dem 1. Juli 2012 anzuwenden.
 
-
-## § 73 – Technische Festlegungen
+# § 73 – Technische Festlegungen
 
 Soweit in dieser Verordnung auf DIN- oder ISO-Normen Bezug genommen wird, sind diese im Beuth Verlag GmbH, Burggrafenstraße 6, 10787 Berlin, VDE-Bestimmungen auch im VDE-Verlag, Bismarckstr. 33, 10625 Berlin, erschienen. Sie sind beim Deutschen Patent-und Markenamt in München archivmäßig gesichert niedergelegt.
 
+# Anlage I bis VII – (weggefallen)
 
-## Anlage I bis VII – (weggefallen)
-
-
-## Anlage VIII – (§ 29 Absatz 1 bis 4, 7, 9, 11 und 13)Untersuchung der Fahrzeuge
+# Anlage VIII – (§ 29 Absatz 1 bis 4, 7, 9, 11 und 13)Untersuchung der Fahrzeuge
 
 (Fundstelle: BGBl. I 2012, 734 - 740;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3911,8 +3707,7 @@ Folgende Daten müssen gelöscht werden, es sei denn, dass der Löschung gesetzl
 Zweitschriften der Untersuchungsberichte nach § 29 Absatz 10 Satz 3 auch bei elektronischer Speicherung nach der in Nummer 3.1.5.2.2 Satz 2 genannten Zeitdauer oder
 
 3.1.5.2.2  
-die unter den Nummern 3.1.5.1.2, 3.1.5.1.6 und 3.1.5.1.12 aufgeführten Daten unverzüglich nach der Speicherung der Zweitschriften der Untersuchungsberichte.  
-Die Zeitdauer umfasst den für das Fahrzeug vorgeschriebenen Zeitabstand der Hauptuntersuchungen, gerechnet vom Monat der Ausstellung des Untersuchungsberichts, verlängert um drei Monate.
+die unter den Nummern 3.1.5.1.2, 3.1.5.1.6 und 3.1.5.1.12 aufgeführten Daten unverzüglich nach der Speicherung der Zweitschriften der Untersuchungsberichte. Die Zeitdauer umfasst den für das Fahrzeug vorgeschriebenen Zeitabstand der Hauptuntersuchungen, gerechnet vom Monat der Ausstellung des Untersuchungsberichts, verlängert um drei Monate.
 
 3.1.5.3  
 Dem Untersuchungsbericht ist der Nachweis über die Durchführung der Untersuchung der Abgase nach Nummer 3.1.1.1 beizufügen oder es sind alle erforderlichen Angaben einschließlich des angewendeten Prüfverfahrens in den Untersuchungsbericht zu übernehmen.
@@ -4037,8 +3832,7 @@ Die nach Nummer 4.3 Satz 3 zuständigen Stellen führen einen Nachweis über die
 (+++ Anlage VIII: Zur Anwendung vgl. § 72 Abs. 2 Nr. 7 +++)  
 Anlage VIII Nr. 2.6 Satz 2 Kursivdruck: Änderungsanweisung d. Art. 1 Nr. 9 Buchst. j DBuchst. aa V v. 10.5.2012 I 1086 mWv 1.6.2012 nicht durchführbar, sie müsste richtig lauten "In Satz 2 wird das Wort "Zulassungszeitraums" durch das Wort "Betriebszeitraums" ersetzt."
 
-
-## Anlage VIIIa – (§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2)Durchführung der Hauptuntersuchung
+# Anlage VIIIa – (§ 29 Absatz 1 und 3, Anlage VIII Nummer 1.2)Durchführung der Hauptuntersuchung
 
 (Fundstelle: BGBl. I 2012, 1105 - 1114)
 
@@ -4617,8 +4411,7 @@ Ausführung</td><td style="text-align: left;"> </td><td style="text-align: left
 
 (+++ Anlage VIIIa: Zur Anwendung vgl. § 72 Abs. 2 Nr. 8 +++)
 
-
-## Anlage VIIIb – (Anlage VIII Nummer 3.1 und 3.2)Anerkennung von Überwachungsorganisationen
+# Anlage VIIIb – (Anlage VIII Nummer 3.1 und 3.2)Anerkennung von Überwachungsorganisationen
 
 (Fundstelle: BGBl. I 2012, 748 - 751;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4782,8 +4575,7 @@ Die mit der Prüfung beauftragten Personen sind befugt, Grundstücke und Geschä
 9.3  
 Die Überwachungsorganisation hat auf Verlangen der Aufsichtsbehörde für das betreffende Anerkennungsgebiet einen Beauftragten zu bestellen. Dieser ist Ansprechpartner der Anerkennungsbehörde und Aufsichtsbehörde. Er muss Erklärungen mit Wirkung für und gegen die Überwachungsorganisation abgeben und entgegennehmen können. Er muss weiter die Möglichkeit haben, Angaben, Aufzeichnungen und Nachweise über die von der Überwachungsorganisation im Anerkennungsgebiet durchgeführten HU, SP und Abnahmen zu machen und der Aufsichtsbehörde auf Verlangen vorzulegen. Mit Zustimmung der zuständigen Anerkennungsbehörde kann der Beauftragte auch für den Bereich mehrerer Anerkennungsgebiete ganz oder teilweise bestellt werden.
 
-
-## Anlage VIIIc – (Anlage VIII Nummer 3.1.1.1 und 3.2)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Sicherheitsprüfungen und/oder Untersuchungen der Abgase sowie Schulung der verantwortlichen Personen und Fachkräfte
+# Anlage VIIIc – (Anlage VIII Nummer 3.1.1.1 und 3.2)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Sicherheitsprüfungen und/oder Untersuchungen der Abgase sowie Schulung der verantwortlichen Personen und Fachkräfte
 
 (Fundstelle: BGBl. I 2012, 752 - 755;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5055,8 +4847,7 @@ Veränderungen bei anerkannten Kraftfahrzeugwerkstätten, die ihre Anerkennung b
 9.2  
 Veränderungen bei Schulungsstätten, die Einfluss auf die Schulung haben, sind den in Nummer 7.2 genannten Stellen unaufgefordert zu melden. Bei Zuwiderhandlungen können die in Nummer 8.2 genannten Stellen die Durchführungen von Schulungen untersagen.
 
-
-## Anlage VIIId – (Anlage VIII Nummer 4)Untersuchungsstellen zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase und wiederkehrenden Gasanlagenprüfungen
+# Anlage VIIId – (Anlage VIII Nummer 4)Untersuchungsstellen zur Durchführung von Hauptuntersuchungen, Sicherheitsprüfungen, Untersuchungen der Abgase und wiederkehrenden Gasanlagenprüfungen
 
 (Fundstelle: BGBl. I 2012, 756 - 761;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5186,8 +4977,7 @@ Abweichungen nach 4.2:
 (+++ Anlage VIIId: Zur Anwendung vgl. § 72 Abs. 2 Nr. 9 +++)  
 Anlage VIIId Nr. 4.1: IdF d. Art. 1 Nr. 13 Buchst. f V v. 10.5.2012 I 1086 mWv 1.6.2012; bzgl. Kursivdruck - Änderungsanweisung hätte ggf. richtig lauten müssen "In Nummer 4.1 wird die Angabe "Nummern 5, 6, 11, 13 bis 16 und 18 bis 25" durch die Angabe "Nummern 5, 6, 10, 12 bis 15 und 17 bis 26" ersetzt."
 
-
-## Anlage VIIIe – (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3) Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen
+# Anlage VIIIe – (zu Anlage VIIIa Nummer 1 und 3 sowie Anlage VIIIb Nummer 2.3) Bereitstellung von Vorgaben für die Durchführung von Hauptuntersuchungen und Sicherheitsprüfungen; Auswertung von Erkenntnissen
 
 (Fundstelle: BGBl. I 2012, 1115 - 1118)
 
@@ -5396,13 +5186,12 @@ Erläuterungen zur einheitlichen Anwendung der Vorschriften werden in einer Rich
 
 (+++ Anlage VIIIe: Zur Anwendung vgl. § 72 Abs. 2 Nr. 10 +++)
 
-
-## Anlage IX – (zu § 29 Absatz 2, 3, 5 bis 8)Prüfplakette für die Untersuchung von Kraftfahrzeugen und Anhängern
+# Anlage IX – (zu § 29 Absatz 2, 3, 5 bis 8)Prüfplakette für die Untersuchung von Kraftfahrzeugen und Anhängern
 
 (Fundstelle: BGBl. I 2012, 762;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-![](../normengrafiken/bgbl1_2017/j0522-1_0170.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j0522-1_0170.jpg)
 
 Vorgeschriebene Abmessungen der Prüfplakette:
 
@@ -5441,11 +5230,9 @@ Die Farben wiederholen sich für die folgenden Durchführungsjahre jeweils in di
 
 5. (weggefallen)
 
+# Anlage IXa – (weggefallen)
 
-## Anlage IXa – (weggefallen)
-
-
-## Anlage IXb – (§ 29 Absatz 2 bis 8)Prüfmarke und SP-Schild für die Durchführung von Sicherheitsprüfungen
+# Anlage IXb – (§ 29 Absatz 2 bis 8)Prüfmarke und SP-Schild für die Durchführung von Sicherheitsprüfungen
 
 (Fundstelle: BGBl. I 2012, 765 - 768)
 
@@ -5468,8 +5255,7 @@ Es sind unsichtbare Schriftmerkmale und zusätzlich eine Herstellerkennzeichnung
 Prüfmarken in Festkörperausführung  
   
 
-Die Umrandung des Pfeiles, der Text „SP“ und die Jahreszahl müssen mindestens 0,3 mm positiv erhaben sein. Auf der Rückseite der Prüfmarke muss eine zusätzliche Kennzeichnung aufgebracht werden. In die Kennzeichnung sind der Hersteller und das Produktjahr in Form einer Zahlenkombination einzubringen.  
-  
+Die Umrandung des Pfeiles, der Text „SP“ und die Jahreszahl müssen mindestens 0,3 mm positiv erhaben sein. Auf der Rückseite der Prüfmarke muss eine zusätzliche Kennzeichnung aufgebracht werden. In die Kennzeichnung sind der Hersteller und das Produktjahr in Form einer Zahlenkombination einzubringen.   
 
 Dies gilt nicht, wenn die Prüfmarken die Anforderungen nach Nummer 2.1.1 erfüllen.
 
@@ -5492,11 +5278,9 @@ Es muss gewährleistet sein, dass sich Prüfmarken bei ordnungsgemäßer Anbring
 Echtheitserkennbarkeit im Anlieferungszustand  
   
 
-Die Verarbeiter von Prüfmarken (Zulassungsbehörden, Technische Prüfstellen, Überwachungsorganisationen, anerkannte Kfz-Werkstätten) müssen im Anlieferungszustand die systembedingte Echtheit erkennen können. Dies wird durch ein genau definiertes und gekennzeichnetes Schutzpapier auf der Rückseite der Prüfmarken oder durch die auf der Rückseite der Festkörper aufgebrachten fälschungserschwerenden Schriftmerkmale nach Nummer 2.1.2 Absatz 1 sichergestellt.  
-  
+Die Verarbeiter von Prüfmarken (Zulassungsbehörden, Technische Prüfstellen, Überwachungsorganisationen, anerkannte Kfz-Werkstätten) müssen im Anlieferungszustand die systembedingte Echtheit erkennen können. Dies wird durch ein genau definiertes und gekennzeichnetes Schutzpapier auf der Rückseite der Prüfmarken oder durch die auf der Rückseite der Festkörper aufgebrachten fälschungserschwerenden Schriftmerkmale nach Nummer 2.1.2 Absatz 1 sichergestellt.   
 
-In der Sichtfläche der Prüfmarke ist eine nicht aufdringliche und das Gesamtbild nicht störende fälschungserschwerende Produktkennzeichnung eingebracht.  
-  
+In der Sichtfläche der Prüfmarke ist eine nicht aufdringliche und das Gesamtbild nicht störende fälschungserschwerende Produktkennzeichnung eingebracht.   
 
 Die Prüfmarken sind in übersichtlich zählbaren Behältnissen verpackt.
 
@@ -5504,11 +5288,9 @@ Die Prüfmarken sind in übersichtlich zählbaren Behältnissen verpackt.
 Anbringung der Prüfmarken und SP-Schilder  
   
 
-Die individuelle Beschriftung des SP-Schildes mit der Fahrzeug-Identifizierungsnummer erfolgt mit einem dokumentenechten Permanentschreiber. Diese Beschriftung ist durch eine Schutzfolie zu sichern. Beim Ablösen der Schutzfolie muss sich das Feld „Fzg.-Ident.-Nummer“ so zerstören, dass eine Wiederverwendung auch unter Korrekturen nicht möglich ist. Bei Ausführung des SP-Schildes als Festkörper aus Kunststoff oder Metall können die Zeichen auch positiv oder negativ erhaben aufgebracht werden; eine zusätzliche Schutzfolie ist dann entbehrlich.  
-  
+Die individuelle Beschriftung des SP-Schildes mit der Fahrzeug-Identifizierungsnummer erfolgt mit einem dokumentenechten Permanentschreiber. Diese Beschriftung ist durch eine Schutzfolie zu sichern. Beim Ablösen der Schutzfolie muss sich das Feld „Fzg.-Ident.-Nummer“ so zerstören, dass eine Wiederverwendung auch unter Korrekturen nicht möglich ist. Bei Ausführung des SP-Schildes als Festkörper aus Kunststoff oder Metall können die Zeichen auch positiv oder negativ erhaben aufgebracht werden; eine zusätzliche Schutzfolie ist dann entbehrlich.   
 
-Das SP-Schild ist gut sichtbar am Fahrzeugheck in Fahrtrichtung hinten links anzubringen. Die Anbringungshöhe ist so zu wählen, dass sich die Oberkante des SP-Schildes mindestens 300 mm und maximal 1 800 mm über der Fahrbahn befindet. Die rechte Kante des SP-Schildes darf nicht mehr als 800 mm vom äußersten Punkt des hinteren Fahrzeugumrisses entfernt sein. Davon kann nur abgewichen werden, wenn die Bauart des Fahrzeugs diese Anbringung nicht zulässt.  
-  
+Das SP-Schild ist gut sichtbar am Fahrzeugheck in Fahrtrichtung hinten links anzubringen. Die Anbringungshöhe ist so zu wählen, dass sich die Oberkante des SP-Schildes mindestens 300 mm und maximal 1 800 mm über der Fahrbahn befindet. Die rechte Kante des SP-Schildes darf nicht mehr als 800 mm vom äußersten Punkt des hinteren Fahrzeugumrisses entfernt sein. Davon kann nur abgewichen werden, wenn die Bauart des Fahrzeugs diese Anbringung nicht zulässt.   
 
 Die Prüfmarke ist auf der Kreisfläche oder in dem Haltering des SP-Schildes so anzubringen, dass die Pfeilspitze auf den Monat zeigt, in dem das Fahrzeug zur nächsten Sicherheitsprüfung nach den Vorschriften der Anlage VIII vorzuführen ist.
 
@@ -5518,8 +5300,7 @@ Bezug von Prüfmarken
 
 Die Hersteller von Prüfmarken beliefern ausschließlich die Zulassungsbehörden, die Technischen Prüfstellen, die Überwachungsorganisationen und die für die Anerkennung von Werkstätten zur Durchführung von Sicherheitsprüfungen zuständigen Stellen. Die Anerkennungsstellen nach Nummer 1.1 Anlage VIIIc beliefern die zur Durchführung von Sicherheitsprüfungen anerkannten Werkstätten. Die zuständige oberste Landesbehörde oder die von ihr bestimmten oder nach Landesrecht zuständigen Stellen können Abweichendes bestimmen.
 
-
-## Anlage X – (zu § 35e Absatz 4, §§ 35f, 35i)Fahrgasttüren, Notausstiege, Gänge und Anordnung von Fahrgastsitzen in Kraftomnibussen
+# Anlage X – (zu § 35e Absatz 4, §§ 35f, 35i)Fahrgasttüren, Notausstiege, Gänge und Anordnung von Fahrgastsitzen in Kraftomnibussen
 
 (Fundstelle: BGBl. I 2012, 769 - 776)
 
@@ -5551,8 +5332,7 @@ mit bis zu 16 Fahrgastplätzen
 Gänge und Innenraumhöhe über Plattformen  
   
 
-Gang ist der Bereich im Innenraum von Kraftomnibussen, der mehr als 400 mm von den Fahrgasttüren entfernt ist. Er muss den Fahrgästen den Zugang zu jedem Sitz/jeder Sitzreihe ermöglichen.  
-  
+Gang ist der Bereich im Innenraum von Kraftomnibussen, der mehr als 400 mm von den Fahrgasttüren entfernt ist. Er muss den Fahrgästen den Zugang zu jedem Sitz/jeder Sitzreihe ermöglichen.   
 
 Der Gang umfasst nicht den bis zu 300 mm tiefen Raum vor einem Sitz/einer Sitzreihe, der für die Füße der sitzenden Fahrgäste bestimmt ist, sowie den Raum vor der letzten Sitzreihe oder Sitzbank, der nur von denjenigen Fahrgästen benutzt wird, die diese Sitze einnehmen.
 
@@ -5567,8 +5347,7 @@ Die Messvorrichtung muss bei der Prüfung senkrecht geführt werden.</td></tr></
 
   
 
-Die Abmessungen der Messvorrichtung sind der Tabelle zu entnehmen. Die Innenraumhöhe über Plattformen muss der für den Gang geforderten Mindesthöhe (Gesamthöhe der Messvorrichtung) entsprechen.  
-  
+Die Abmessungen der Messvorrichtung sind der Tabelle zu entnehmen. Die Innenraumhöhe über Plattformen muss der für den Gang geforderten Mindesthöhe (Gesamthöhe der Messvorrichtung) entsprechen.   
 
 Abmessungen der Messvorrichtung \[mm\]
 
@@ -5582,8 +5361,7 @@ Reduzierung möglich bei Kraftomnibussen mit Heckmotor für den Teil des Gangs h
 Reduzierung möglich bei Eineinhalbdeck- und Doppeldeck-Kraftomnibussen für den Gang zur Heckbank des Unterdecks und im Oberdeck.
 
 <span id="FnA1-f776225_24"></span><a href="#FnR.FnA1-f776225_24" class="Footnote">4)</a>  
-220 mm bei seitlich bewegbaren Sitzen.  
-Bei ausgefahrenen Sitzen muss ein Fußraum mit den lichten Maßen von 350 mm in der Breite und 200 mm in der Höhe vorhanden sein. Die Sitze müssen sich auch in belastetem Zustand von einer erwachsenen Person mit vertretbarem Kraftaufwand verstellen lassen.
+220 mm bei seitlich bewegbaren Sitzen. Bei ausgefahrenen Sitzen muss ein Fußraum mit den lichten Maßen von 350 mm in der Breite und 200 mm in der Höhe vorhanden sein. Die Sitze müssen sich auch in belastetem Zustand von einer erwachsenen Person mit vertretbarem Kraftaufwand verstellen lassen.
 
   
   
@@ -5599,8 +5377,7 @@ Fahrgastsitze
 Sitzmaße  
   
 
-Die Abmessungen für jeden Sitzplatz müssen den in der nachfolgenden Aufstellung und in der Skizze zusammengefassten Abmessungen entsprechen. Alle Maße beziehen sich auf unbelastete Sitz- und Lehnenpolster.  
-  
+Die Abmessungen für jeden Sitzplatz müssen den in der nachfolgenden Aufstellung und in der Skizze zusammengefassten Abmessungen entsprechen. Alle Maße beziehen sich auf unbelastete Sitz- und Lehnenpolster.   
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 57%" /><col style="width: 8%" /><col style="width: 34%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">Breite des Sitzpolsters auf jeder Seite –<br />
 gemessen ab einer durch die Mitte des betreffenden Sitzes verlaufenden Vertikalebene</td><td style="text-align: left;">F≧</td><td style="text-align: left;">200 mm für Einzelsitze<br />
@@ -5625,7 +5402,7 @@ des höchsten Punktes des Sitzpolsters berührt</td><td style="text-align: left;
 
 |                                                    |     |
 |:---------------------------------------------------|:----|
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0030.jpg) |     |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0030.jpg) |     |
 
 3.2
 
@@ -5640,11 +5417,9 @@ b) im Bereich oberhalb der Rückenlehne und
 
 c) im Bereich oberhalb des Fußraums des sitzenden Fahrgastes (bis 300 mm vor der Vorderkante des Sitzes)
 
-mindestens 1 350 mm betragen.  
-  
+mindestens 1 350 mm betragen.   
 
-In den Bereich oberhalb des Fußraums darf die Rückenlehne eines Sitzes hineinragen.  
-  
+In den Bereich oberhalb des Fußraums darf die Rückenlehne eines Sitzes hineinragen.   
 
 Geringfügige Einschränkungen des Freiraums (zum Beispiel für Leitungskanäle) sind zulässig.
 
@@ -5653,8 +5428,7 @@ Geringfügige Einschränkungen des Freiraums (zum Beispiel für Leitungskanäle)
 Zwischenabstand der Sitze  
   
 
-Unbelastete Sitz- und Lehnenpolster müssen den nachfolgend angegebenen Maßen entsprechen; dabei muss in einer durch die Mitte des einzelnen Sitzplatzes verlaufenden Vertikalebene gemessen werden.  
-  
+Unbelastete Sitz- und Lehnenpolster müssen den nachfolgend angegebenen Maßen entsprechen; dabei muss in einer durch die Mitte des einzelnen Sitzplatzes verlaufenden Vertikalebene gemessen werden.   
 
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 60%" /><col style="width: 40%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;">gleichgerichtete Sitze:<br />
 Abstand zwischen der Vorderseite der Rückenlehne eines Sitzes und der Rückseite der Rückenlehne davor –<br />
@@ -5671,28 +5445,25 @@ H<sub>2</sub>≧ 1 300 mm</td></tr></tbody></table>
   
   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0040.jpg)
 
 3.4
 
 Sitze hinter Trennwänden  
   
 
-Bei Sitzen hinter einer festen Trennwand muss zwischen dieser und der Vorderseite der Rückenlehne – gemessen in einer horizontalen Ebene, die die Oberfläche des nächsten Punktes des Sitzpolsters berührt – ein freier Abstand von mindestens 630 mm vorhanden sein.  
-  
+Bei Sitzen hinter einer festen Trennwand muss zwischen dieser und der Vorderseite der Rückenlehne – gemessen in einer horizontalen Ebene, die die Oberfläche des nächsten Punktes des Sitzpolsters berührt – ein freier Abstand von mindestens 630 mm vorhanden sein.   
 
-Im Bereich vom Boden bis zu einer Ebene, die 150 mm höher ist, muss der Abstand zwischen der Trennwand und dem Sitz mindestens 350 mm betragen (siehe Abbildung). Dieser Freiraum kann durch Einrichtung einer Nische in der Trennwand oder durch Rückwärtsverlagerung des Unterteils des Sitzes oder durch eine Kombination dieser beiden Möglichkeiten geschaffen werden. Wird ein Freiraum unter dem Sitz vorgesehen, so soll dieser aufwärts über die 150-mm-Ebene hinaus entlang der den vorderen Rand des Sitzaufbaus berührenden und unmittelbar unterhalb der Vorderkante des Sitzpolsters verlaufenden geneigten Ebene weitergeführt werden.  
-  
+Im Bereich vom Boden bis zu einer Ebene, die 150 mm höher ist, muss der Abstand zwischen der Trennwand und dem Sitz mindestens 350 mm betragen (siehe Abbildung). Dieser Freiraum kann durch Einrichtung einer Nische in der Trennwand oder durch Rückwärtsverlagerung des Unterteils des Sitzes oder durch eine Kombination dieser beiden Möglichkeiten geschaffen werden. Wird ein Freiraum unter dem Sitz vorgesehen, so soll dieser aufwärts über die 150-mm-Ebene hinaus entlang der den vorderen Rand des Sitzaufbaus berührenden und unmittelbar unterhalb der Vorderkante des Sitzpolsters verlaufenden geneigten Ebene weitergeführt werden.   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0050.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0050.jpg)
 
 3.5
 
 Sitze in Längsrichtung  
   
 
-Sitze in Längsrichtung sind zulässig. Für die Sitze, wie Sitz- und Lehnenpolster, sind dieselben Mindestabmessungen, wie in Nummer 3.1 angegeben und dargestellt anzuwenden. Der Freiraum über den Sitzen ist gemäß Nummer 3.2 einzuhalten.  
-  
+Sitze in Längsrichtung sind zulässig. Für die Sitze, wie Sitz- und Lehnenpolster, sind dieselben Mindestabmessungen, wie in Nummer 3.1 angegeben und dargestellt anzuwenden. Der Freiraum über den Sitzen ist gemäß Nummer 3.2 einzuhalten.   
 
 Am Beginn und Ende von Sitzbänken sowie nach jeweils zwei Sitzen müssen Armlehnen oder sonstige Halteeinrichtungen angebracht werden, die keine scharfen Kanten aufweisen und abgepolstert sind.
 
@@ -5702,8 +5473,7 @@ Abmessungen der Fahrgasttüren und des Bereichs bis zum Beginn des Gangs
 
 4.1
 
-Die Fahrgasttüren müssen die nachfolgend angegebenen Mindestabmessungen haben.  
-  
+Die Fahrgasttüren müssen die nachfolgend angegebenen Mindestabmessungen haben.   
 
 Geringfügige Abrundungen oder Einschränkungen an den oberen Ecken sind zulässig.
 
@@ -5736,11 +5506,10 @@ Der Bereich ab der Seitenwand, in die die Fahrgasttüren eingebaut sind, ist bis
 Messvorrichtung für Kraftomnibusse mit Stehplätzen und für Kraftomnibusse ohne Stehplätze mit mehr als 16 Fahrgastplätzen (Maße in mm)  
   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0060.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0060.jpg)  
   
 
-Im Falle der Benutzung der Messvorrichtung mit A = 1 100 mm und A<sub>1</sub> = 1 200 mm bei Kraftomnibussen nach Nummer 1.1 und 1.2.1 kann alternativ ein konischer Übergang mit 500 mm Höhe und der Breite 400 mm auf 550 mm gewählt werden.  
-  
+Im Falle der Benutzung der Messvorrichtung mit A = 1 100 mm und A<sub>1</sub> = 1 200 mm bei Kraftomnibussen nach Nummer 1.1 und 1.2.1 kann alternativ ein konischer Übergang mit 500 mm Höhe und der Breite 400 mm auf 550 mm gewählt werden.   
 
 <table width="100%" style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 17%" /><col style="width: 41%" /><col style="width: 42%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Maße für<br />
 A und A<sub>1</sub><br />
@@ -5760,7 +5529,7 @@ Reduzierung auf 1 100 mm bei Eineinhalbdeck- und Doppeldeck-Kraftomnibussen fü
 Messvorrichtung für Kraftomnibusse ohne Stehplätze mit bis zu 16 Fahrgastplätzen (Maße in mm)  
   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0070.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0070.jpg)  
 
 <table style="border: none;"><colgroup><col style="width: 22%" /><col style="width: 36%" /><col style="width: 42%" /></colgroup><tbody><tr class="odd"><td style="text-align: left;"> </td><td style="text-align: left;">Verschieben der unteren Platte<br />
 nach rechts oder links innerhalb<br />
@@ -5772,14 +5541,11 @@ es ist die bei Verschiebung nach links maximal zulässige Stellung dargestellt</
 
 Die jeweilige Messvorrichtung muss aufrecht stehend von der Ausgangsposition aus parallel zur Türöffnung geführt werden, bis die erste Stufe erreicht ist. Die Ausgangsposition ist die Stelle, wo die dem Fahrzeuginneren zugewandte Seite der Messvorrichtung die äußerste Kante der Tür berührt. Danach ist sie rechtwinklig zur wahrscheinlichen Bewegungsrichtung einer den Einstieg benutzenden Person zu bewegen. Wenn die Mittellinie der Messvorrichtung 400 mm von der Ausgangsposition zurückgelegt hat, ist bei Kraftomnibussen mit Stehplätzen und bei Kraftomnibussen ohne Stehplätze mit mehr als 16 Fahrgastplätzen die Höhe der oberen Platte vom Maß A auf das Maß A<sub>1</sub> zu vergrößern. Bei Kraftomnibussen ohne Stehplätze mit bis zu 16 Fahrgastplätzen ist A<sub>1</sub> = A (= 700 mm).
 
-Wenn die Messvorrichtung mehr als 400 mm zurücklegen muss, um den Fußboden (Gang) zu erreichen, ist sie so lange weiter vertikal und rechtwinklig zur wahrscheinlichen Bewegungsrichtung einer den Einstieg benutzenden Person fortzubewegen, bis die Messvorrichtung den Fußboden (Gang) berührt.  
-  
+Wenn die Messvorrichtung mehr als 400 mm zurücklegen muss, um den Fußboden (Gang) zu erreichen, ist sie so lange weiter vertikal und rechtwinklig zur wahrscheinlichen Bewegungsrichtung einer den Einstieg benutzenden Person fortzubewegen, bis die Messvorrichtung den Fußboden (Gang) berührt.   
 
-Ob die Bedingungen des Zugangs von der senkrechten Ebene der Messvorrichtung zum Gang hin eingehalten werden, ist mit Hilfe der für den Gang maßgebenden zylindrischen Messvorrichtung (siehe Nummer 2) zu prüfen. Dabei ist die Ausgangsposition für die zylindrische Messvorrichtung die Stelle, wo sie die Messvorrichtung nach Nummer 4 berührt.  
-  
+Ob die Bedingungen des Zugangs von der senkrechten Ebene der Messvorrichtung zum Gang hin eingehalten werden, ist mit Hilfe der für den Gang maßgebenden zylindrischen Messvorrichtung (siehe Nummer 2) zu prüfen. Dabei ist die Ausgangsposition für die zylindrische Messvorrichtung die Stelle, wo sie die Messvorrichtung nach Nummer 4 berührt.   
 
-Der freie Durchgangsspielraum für die Messvorrichtung darf den Bereich bis 300 mm vor einem Sitz und bis zur Höhe des höchsten Punktes des Sitzpolsters nicht beanspruchen.  
-  
+Der freie Durchgangsspielraum für die Messvorrichtung darf den Bereich bis 300 mm vor einem Sitz und bis zur Höhe des höchsten Punktes des Sitzpolsters nicht beanspruchen.   
 
 Sitze im Bereich der vorderen Fahrgasttüren (§ 35b Absatz 2) dürfen zur Prüfung weggeklappt werden, soweit dies einfach und ohne großen Kraftaufwand möglich und die Betätigungsart klar ersichtlich ist.
 
@@ -5879,8 +5645,7 @@ Bei Kraftomnibussen, die als Gelenkfahrzeug gebaut sind, ist jedes starre Teil d
 
 5.2.2.2
 
-Bei Kraftomnibussen, die als sogenannte Eineinhalbdeck-Kraftomnibusse oder Doppeldeck-Kraftomnibusse gebaut sind (Beförderung der Fahrgäste auf zwei Ebenen), ist jedes Fahrzeugdeck im Hinblick auf die Mindestanzahl der vorzusehenden Notausstiege als ein Einzelfahrzeug anzusehen; dabei ist die Anzahl der Fahrgastplätze je Fahrzeugdeck zugrunde zu legen.  
-  
+Bei Kraftomnibussen, die als sogenannte Eineinhalbdeck-Kraftomnibusse oder Doppeldeck-Kraftomnibusse gebaut sind (Beförderung der Fahrgäste auf zwei Ebenen), ist jedes Fahrzeugdeck im Hinblick auf die Mindestanzahl der vorzusehenden Notausstiege als ein Einzelfahrzeug anzusehen; dabei ist die Anzahl der Fahrgastplätze je Fahrzeugdeck zugrunde zu legen.   
 
 Für die Mindestanzahl der Notluken im Fahrzeugdach ist die Gesamtzahl der Fahrgastplätze des Kraftomnibusses maßgebend.
 
@@ -6011,17 +5776,13 @@ Dem Fahrzeugführer muss sinnfällig angezeigt werden, wenn Nottüren, die auße
 
 Eine Verriegelung der Notfenster, Notluken und Nottüren (zum Beispiel für das Parken) ist zulässig; es muss dann jedoch sichergestellt sein, dass sie stets von innen durch den normalen Öffnungsmechanismus zu öffnen sind.
 
+# Anlage XI – (zu § 47a)(weggefallen)
 
-## Anlage XI – (zu § 47a)(weggefallen)
+# Anlage XIa – (zu § 47a)(weggefallen)
 
+# Anlage XIb – (zu § 47a Absatz 2 und § 47b Absatz 2)(weggefallen)
 
-## Anlage XIa – (zu § 47a)(weggefallen)
-
-
-## Anlage XIb – (zu § 47a Absatz 2 und § 47b Absatz 2)(weggefallen)
-
-
-## Anlage XII – (§ 34 Absatz 4 Nummer 2 Buchstabe d, Absatz 5 Nummer 2 Buchstabe b und Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)Bedingungen für die Gleichwertigkeit von Luftfederungen und bestimmten anderen Federungssystemen an der (den) Antriebsachse(n) des Fahrzeugs
+# Anlage XII – (§ 34 Absatz 4 Nummer 2 Buchstabe d, Absatz 5 Nummer 2 Buchstabe b und Nummer 3 Buchstabe b, Absatz 6 Nummer 3 Buchstabe b)Bedingungen für die Gleichwertigkeit von Luftfederungen und bestimmten anderen Federungssystemen an der (den) Antriebsachse(n) des Fahrzeugs
 
 (Fundstelle: BGBl. I 2012, 778 - 779)
 
@@ -6061,25 +5822,23 @@ Definition von Frequenz und Dämpfung
 
 In dieser Definition wird von einer gefederten Masse M Kilogramm (kg) über einer Antriebsachse oder einer Achsgruppe ausgegangen. Die Achse oder die Achsgruppe hat einen vertikalen Gesamtdruck zwischen Straßenoberfläche und gefederter Masse von K Newton/Meter (N/m) und einen Gesamtdämpfungskoeffizienten von C Newton pro Meter und Sekunde (N/ms). Z ist der Weg der gefederten Masse in vertikaler Richtung. Die Bewegungsgleichung für die freie Schwingung der gefederten Masse lautet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0080.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0080.jpg "Abbildung")
 
 Die Frequenz der Schwingung der gefederten Masse F rad/s ist:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0090.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0090.jpg "Abbildung")
 
 Die Dämpfung ist kritisch, wenn C = Co ist, wobei
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0100.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0100.jpg "Abbildung")
 
-ist.  
-  
+ist.   
 
-Das Dämpfungsverhältnis als Bruchteil des kritischen Wertes ist C/Co.  
-  
+Das Dämpfungsverhältnis als Bruchteil des kritischen Wertes ist C/Co.   
 
 Die kurzzeitige freie vertikale Schwingung der gefederten Masse ergibt die in Abbildung 2 dargestellte gedämpfte Sinuskurve. Die Frequenz lässt sich durch Messung der für sämtliche zu beobachtenden Schwingungszyklen benötigten Zeit ermitteln. Die Dämpfung wird durch Messung der aufeinanderfolgenden Schwingungspeaks, die in derselben Richtung auftreten, ermittelt. Wenn die Amplitudenpeaks des ersten und des zweiten Schwingungszyklus A<sub>1</sub> und A<sub>2</sub> sind, beträgt das Dämpfungsverhältnis D
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0110.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0110.jpg "Abbildung")
 
 Dabei ist ln der natürliche Logarithmus des Amplitudenverhältnisses.
 
@@ -6097,23 +5856,21 @@ c) am Fahrgestell hochgezogen werden, so dass die gefederte Masse um 80 mm über
 
 d) anderen Verfahren unterzogen werden, sofern ihre Gleichwertigkeit vom Hersteller gegenüber der zuständigen technischen Behörde zufriedenstellend nachgewiesen wurde.
 
-Das Fahrzeug sollte zwischen Antriebsachse und Fahrgestell senkrecht über der Achse mit einem Schwingungsschreiber versehen werden. Anhand der Zeitspanne zwischen der ersten und der zweiten Kompressionsspitze lassen sich einerseits die Frequenz F und andererseits das Amplitudenverhältnis und damit dann die Dämpfung ermitteln. Bei Doppelantriebsachsen sollten Schwingungsschreiber zwischen jeder Antriebsachse und dem Fahrgestell senkrecht über diesen Achsen angebracht werden.  
-  
+Das Fahrzeug sollte zwischen Antriebsachse und Fahrgestell senkrecht über der Achse mit einem Schwingungsschreiber versehen werden. Anhand der Zeitspanne zwischen der ersten und der zweiten Kompressionsspitze lassen sich einerseits die Frequenz F und andererseits das Amplitudenverhältnis und damit dann die Dämpfung ermitteln. Bei Doppelantriebsachsen sollten Schwingungsschreiber zwischen jeder Antriebsachse und dem Fahrgestell senkrecht über diesen Achsen angebracht werden.   
 
 Abbildung 1
 
 Schwelle für Federprüfungen
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0120.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0120.jpg)
 
 Abbildung 2
 
 Gedämpfte Sinuskurve bei einer kurzzeitigen freien Schwingung
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0130.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0130.jpg)
 
-
-## Anlage XIII – (§ 34a Absatz 3)Zulässige Zahl von Sitzplätzen und Stehplätzen in Kraftomnibussen
+# Anlage XIII – (§ 34a Absatz 3)Zulässige Zahl von Sitzplätzen und Stehplätzen in Kraftomnibussen
 
 (Fundstelle: BGBl. I 2012, 780)
 
@@ -6135,8 +5892,7 @@ a) Bei der Berechnung der zulässigen Zahl der Plätze sind unter Berücksichtig
 
 b) Das für die Gepäckbeförderung zu berücksichtigende Gewicht kann sowohl ganz als auch in einem im Fahrzeugschein festgelegten Anteil zusätzlich zu der nach Abschnitt a zulässigen Zahl der Plätze für die Personenbeförderung nutzbar gemacht werden, wenn der entsprechende Gepäckraum beim Betrieb der Kraftomnibusse nicht für die Gepäckbeförderung genutzt wird.
 
-
-## Anlage XIV – (zu § 48)Emissionsklassen für Kraftfahrzeuge
+# Anlage XIV – (zu § 48)Emissionsklassen für Kraftfahrzeuge
 
 (Fundstelle: BGBl. I 2012, 781 - 786;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6164,8 +5920,7 @@ Die Geräuschemissionen sind Grundlage für die Geräuschklassen.
 2.3  
 EEV Klassen
 
-Optionale Emissionsanforderungen sind Grundlage für die EEV Klassen.  
-  
+Optionale Emissionsanforderungen sind Grundlage für die EEV Klassen.   
 
 2.4  
 Partikelminderungsklassen  
@@ -6235,8 +5990,7 @@ Zur Schadstoffklasse S 2 gehören Kraftfahrzeuge, die
 
 12. mit Motoren ausgerüstet sind, die der Richtlinie 2000/25/EG entsprechen und die bei den Emissionen die in der Tabelle im Abschnitt 4.2.3 des Anhangs I der Richtlinie 97/68/EG genannten Grenzwerte nicht überschreiten.
 
-Der Anwendungsbereich und die Anforderungen der in Nummer 1 genannten Richtlinie können auf alle Kraftfahrzeuge nach Nummer 1 (Anwendungsbereich) ausgedehnt werden.  
-  
+Der Anwendungsbereich und die Anforderungen der in Nummer 1 genannten Richtlinie können auf alle Kraftfahrzeuge nach Nummer 1 (Anwendungsbereich) ausgedehnt werden.   
 
 Fahrzeuge, die die Anforderungen der Schadstoffklasse S 2 erfüllen, erfüllen auch die Anforderungen der Schadstoffklasse S 1.
 
@@ -6337,8 +6091,7 @@ Zur Geräuschklasse G 1 gehören Kraftfahrzeuge, die
 
 4. der Anlage XXI
 
-entsprechen.  
-  
+entsprechen.   
 
 Der Anwendungsbereich und die Anforderungen der vorgenannten Richtlinie können auf alle Kraftfahrzeuge nach Nummer 1 ausgedehnt werden.
 
@@ -6436,12 +6189,11 @@ Zur Partikelminderungsklasse PMK 4 gehören Kraftfahrzeuge, die zur Schadstoffkl
 
 Anlage XIV Nr. 1 Satz 2 (bezeichnet als Nr. 1): IdF d. Art. 1 Nr. 15 Buchst. a V v. 10.5.2012 I 1086 mWv 1.6.2012; bzgl. Kursivdruck - Änderungsanweisung enthielt in der einzufügenden Angabe "im Sinne der ... Anlage XXIX," ein überflüssiges Kommazeichen
 
-
-## Anlage XV – (zu § 49 Absatz 3)Zeichen „Geräuscharmes Kraftfahrzeug“
+# Anlage XV – (zu § 49 Absatz 3)Zeichen „Geräuscharmes Kraftfahrzeug“
 
 (Fundstelle: BGBl. I 2012, 787)
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0140.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0140.jpg)
 
 Buchstabe „G“ hinsichtlich Schriftart und -größe gemäß DIN 1451, Teil 2, Ausgabe Februar 1986 (Bezugsquelle siehe § 73). Schriftgröße h = 125 mm. Die Farbtöne sind dem Farbtonregister RAL 840 HR des RAL Deutsches Institut für Gütersicherung und Kennzeichnung e. V., Siegburger Straße 39, 53757 St. Augustin, zu entnehmen, und zwar ist als Farbton zu wählen für weiß: RAL 9001 und für grün: RAL 6001. Die Farben dürfen nicht retroreflektierend sein.
 
@@ -6449,8 +6201,7 @@ Ergänzungsbestimmung:
 
 Das Zeichen ist an der Fahrzeugvorderseite sichtbar und fest anzubringen; es darf zusätzlich auch an der Fahrzeugrückseite angebracht sein.
 
-
-## Anlage XVI – (zu § 47 Absatz 2 Satz 2)Maßnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen
+# Anlage XVI – (zu § 47 Absatz 2 Satz 2)Maßnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen
 
 (Fundstelle: BGBl. I 2012, 788 - 802)
 
@@ -6655,13 +6406,12 @@ Kraftstoff
 
 Als Kraftstoff ist der Bezugskraftstoff nach den technischen Daten des Anhangs V zu benützen.
 
-3.3.  
-Prüfraum
+3.3. Prüfraum
 
 3.3.1  
 Die absolute Temperatur T in Kelvin des Prüfraums und der atmosphärische Druck H in Torr sind festzustellen. Dann ist der Faktor F zu ermitteln, der wie folgt bestimmt ist:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0150.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0150.jpg "Abbildung")
 
 3.3.2  
 Eine Prüfung ist nur anzuerkennen, wenn 0,98 ≤ F ≤ 1,02 ist.
@@ -6678,10 +6428,10 @@ Grenzwerte
 Für jede der sechs Drehzahlen, bei denen Messungen der Absorptionskoeffizienten nach Nummer 2.1 vorgenommen werden, wird der Nennwert des Luftdurchsatzes G in Liter/Sekunde nach den folgenden Formeln berechnet:
 
 –  
-für Zweitaktmotoren G = ![](../normengrafiken/bgbl1_2012/j0679-1_0160.jpg "Abbildung")
+für Zweitaktmotoren G = ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0160.jpg "Abbildung")
 
 –  
-für Viertaktmotoren G =![](../normengrafiken/bgbl1_2012/j0679-1_0170.jpg "Abbildung")
+für Viertaktmotoren G =![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0170.jpg "Abbildung")
 
 V: Hubraum des Motors in Liter,
 
@@ -6752,7 +6502,7 @@ Bezeichnungen
 3.2  
 Sind die Absorptionskoeffizienten in m–1</sup> und die effektive Länge des Lichtstrahls in Meter ausgedrückt, so ist der korrigierte Wert X<sub>L</sub> der kleinere der beiden nachfolgenden Ausdrücke:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0180.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0180.jpg "Abbildung")
 
 Anmerkung: Der Kraftstoff darf nur durch direkte Destillation gewonnen werden; er braucht nicht entschwefelt zu sein; er darf keinerlei Zusatzstoffe enthalten.
 
@@ -6821,7 +6571,7 @@ oder durch Vergleich mit einem anderen Trübungsmessgerätetyp, dessen effektive
 3.5.2  
 Der Zusammenhang zwischen der linearen Skala mit der Teilung 0 bis 100 und dem Absorptionskoeffizienten k ist durch die Formel
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0190.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0190.jpg "Abbildung")
 
 gegeben. Dabei bedeutet N einen Ablesewert auf der linearen Skala und k den entsprechenden Wert des Absorptionskoeffizienten.
 
@@ -6924,7 +6674,7 @@ Bei bekannter Länge L<sub>0</sub>, gefüllt mit demselben Prüfgas, gibt die li
 4.2.6  
 Die effektive Länge wird dann
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0200.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0200.jpg "Abbildung")
 
 4.2.7  
 Die Prüfung muss mit mindestens vier Prüfgasen so wiederholt werden, dass sie zu Werten führt, die auf der linearen Skala in regelmäßigen Abständen zwischen 20 und 80 liegen.
@@ -6940,8 +6690,7 @@ In diesem Anhang sind der Aufbau und die Verwendung der Trübungsmessgeräte fes
 2  
 Teilstrom-Trübungsmessgerät
 
-2.1.  
-Aufbau für die Prüfungen bei gleichbleibenden Drehzahlen
+2.1. Aufbau für die Prüfungen bei gleichbleibenden Drehzahlen
 
 2.1.1  
 Das Verhältnis des Querschnitts der Sonde zum Querschnitt des Auspuffrohrs muss mindestens 0,05 betragen. Der im Auspuffrohr am Eingang der Sonde gemessene Gegendruck darf nicht mehr als 735 Pa betragen.
@@ -6993,7 +6742,7 @@ Die Verbindungsleitungen zum Trübungsmessgerät müssen, wie bei den Teilstrom-
 3.3  
 Vor dem Trübungsmessgerät ist eine Kühleinrichtung zulässig.
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0210.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0210.jpg)
 
 Das gezeigte Kennzeichen bedeutet, dass der korrigierte Wert des Absorptionskoeffizienten 1,30 m–1</sup> beträgt.
 
@@ -7065,8 +6814,7 @@ korrigierter Absorptionswert:  ..........   m–1</sup>
 
  ..........  Fotografie(n) des Motors.
 
-
-## Anlage XVII – (zu § 41a Absatz 5 und 6)Gassystemeinbauprüfungen und sonstige Gasanlagenprüfungen
+# Anlage XVII – (zu § 41a Absatz 5 und 6)Gassystemeinbauprüfungen und sonstige Gasanlagenprüfungen
 
 (Fundstelle: BGBl. I 2012, 803)
 
@@ -7132,8 +6880,7 @@ Die Prüfungen dürfen nur an Untersuchungsstellen durchgeführt werden, die den
 3.2  
 Die zuständige oberste Landesbehörde oder die von ihr bestimmten oder nach Landesrecht zuständigen Stellen oder die zuständige Anerkennungsstelle können selbst überprüfen oder durch von ihr bestimmte sachverständige Personen oder Stellen überprüfen lassen, ob die für die Untersuchungsstellen geltenden Vorschriften eingehalten sind. Die mit den Prüfungen beauftragten Personen sind befugt, Grundstücke und Geschäftsräume, die zur Untersuchungsstelle gehören, während der Geschäfts- und Betriebszeiten zu betreten, dort Überprüfungen und Besichtigungen vorzunehmen. Der Inhaber der Untersuchungsstelle oder der Nutzer der Untersuchungsstelle hat diese Maßnahmen zu dulden und, soweit erforderlich, die beauftragten Personen zu unterstützen. Der Inhaber oder der Nutzer hat die Kosten der Überprüfung zu tragen.
 
-
-## Anlage XVIIa – (zu § 41a Absatz 7 und Anlage VIII Nummer 3.1.1.2)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder von wiederkehrenden und sonstigen Gasanlagenprüfungen sowie Schulung der verantwortlichen Personen und Fachkräfte
+# Anlage XVIIa – (zu § 41a Absatz 7 und Anlage VIII Nummer 3.1.1.2)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Gassystemeinbauprüfungen oder von wiederkehrenden und sonstigen Gasanlagenprüfungen sowie Schulung der verantwortlichen Personen und Fachkräfte
 
 (Fundstelle: BGBl. I 2012, 804 - 806;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7301,8 +7048,7 @@ Veränderungen bei anerkannten Kraftfahrzeugwerkstätten, die ihre Anerkennung b
 9.2  
 Veränderungen bei Schulungsstätten, die Einfluss auf die Schulung haben, sind den in Nummer 7.2 genannten Stellen unaufgefordert zu melden. Bei Zuwiderhandlungen können die in Nummer 8.2 genannten Stellen die Durchführungen von Schulungen untersagen.
 
-
-## Anlage XVIII – (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgeräte
+# Anlage XVIII – (zu § 57b Absatz 1)Prüfung der Fahrtschreiber und Kontrollgeräte
 
 (Fundstelle: BGBl. I 2012, 807 - 809)
 
@@ -7449,8 +7195,7 @@ Unternehmen, das die Daten zur Übermittlung bereithält:
 
 Datum, Unterschrift, Firmenstempel  
 
-
-## Anlage XVIIIa – (zu § 57b Absatz 1)Durchführung der Prüfungen von Fahrtschreibern und Kontrollgeräten
+# Anlage XVIIIa – (zu § 57b Absatz 1)Durchführung der Prüfungen von Fahrtschreibern und Kontrollgeräten
 
 (Fundstelle: BGBl. I 2012, 810 - 813)
 
@@ -7728,8 +7473,7 @@ Wert der gesetzlich vorgeschriebenen Abregelgeschwindigkeit des Fahrzeugs.
 
 Nach der Kalibrierung muss ein Ausdruck der technischen Daten am Kontrollgerät sowie ein Download der Werkstattkartendaten erstellt werden. Das Kalibrierungsprotokoll muss zusammen mit dem Prüfnachweis für drei Jahre aufbewahrt werden.
 
-
-## Anlage XVIIIb – (zu § 57b Absatz 3 und 4)Prüfstellen für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte
+# Anlage XVIIIb – (zu § 57b Absatz 3 und 4)Prüfstellen für die Durchführung von Prüfungen der Fahrtschreiber und Kontrollgeräte
 
 (Fundstelle: BGBl. I 2012, 814)
 
@@ -7797,8 +7541,7 @@ c) Technische Daten und Prüfanleitungen der in Frage kommenden Fahrtschreiber u
 
 d) eine Übersicht über die erfolgte Schulung der zur Prüfung eingesetzten Fachkräfte unter Angabe der Art der Schulung und des Datums, bis zu dem die Schulung der jeweiligen Fachkraft spätestens erneut durchgeführt werden muss.
 
-
-## Anlage XVIIIc – (zu § 57b Absatz 3 und 4)Anerkennung von Fahrtschreiber- oder Kontrollgeräteherstellern und von Fahrzeugherstellern oder Fahrzeugimporteuren zur Durchführung von Prüfungen
+# Anlage XVIIIc – (zu § 57b Absatz 3 und 4)Anerkennung von Fahrtschreiber- oder Kontrollgeräteherstellern und von Fahrzeugherstellern oder Fahrzeugimporteuren zur Durchführung von Prüfungen
 
 (Fundstelle: BGBl. I 2012, 815 - 816;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7851,8 +7594,7 @@ Die Anerkennung ist zu widerrufen, wenn nachträglich eine der in Nummer 2 genan
 6  
 Aufsicht
 
-6.1.  
-Die Anerkennungsstelle übt die Aufsicht über die anerkannten Unternehmen aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
+6.1. Die Anerkennungsstelle übt die Aufsicht über die anerkannten Unternehmen aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
 
 a) ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
 
@@ -7870,8 +7612,7 @@ Schlussbestimmungen
 
 Die zur Durchführung der Prüfung anerkannten Fahrtschreiber- oder Kontrollgerätehersteller sowie die anerkannten Fahrzeughersteller und Importeure haben alle Veränderungen, die ihre Anerkennung beeinflussen können, der Anerkennungsstelle unverzüglich und unaufgefordert mitzuteilen.
 
-
-## Anlage XVIIId – (zu § 57b Absatz 3 und 4)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen sowie Schulung der mit der Prüfung beauftragten Fachkräfte
+# Anlage XVIIId – (zu § 57b Absatz 3 und 4)Anerkennung von Kraftfahrzeugwerkstätten zur Durchführung von Prüfungen sowie Schulung der mit der Prüfung beauftragten Fachkräfte
 
 (Fundstelle: BGBl. I 2012, 817 - 819;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8005,8 +7746,7 @@ Die Anerkennung ist zu widerrufen, wenn eine der in Nummer 2 genannten Vorausset
 7  
 Aufsicht
 
-7.1.  
-Die Anerkennungsstelle übt die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
+7.1. Die Anerkennungsstelle übt die Aufsicht über die anerkannten Kraftfahrzeugwerkstätten aus. Mindestens alle 2 Jahre prüft sie oder lässt prüfen,
 
 a) ob die sich aus der Anerkennung ergebenden Pflichten, insbesondere hinsichtlich der getroffenen Sicherheitsmaßnahmen und des Umganges mit Werkstattkarten, erfüllt werden,
 
@@ -8062,8 +7802,7 @@ Veränderungen bei anerkannten Kraftfahrzeugwerkstätten, die ihre Anerkennung b
 10.2  
 Veränderungen bei Schulungsstätten, die Einfluss auf die Durchführung der Schulungen haben können, sind den nach Nummer 8.2 zuständigen Stellen unaufgefordert zu melden.
 
-
-## Anlage XIX – (§ 19 Absatz 3 Nummer 4)Teilegutachten
+# Anlage XIX – (§ 19 Absatz 3 Nummer 4)Teilegutachten
 
 (Fundstelle: BGBl. I 2012, 820;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8096,11 +7835,9 @@ Stellen, die die Einrichtung und die Anwendung von Qualitätssicherungssystemen 
 
 Unberührt bleibt die Akkreditierung von Zertifizierungsstellen, die durch einen anderen Mitgliedstaat erteilt ist.
 
+# Anlage XX – (weggefallen)
 
-## Anlage XX – (weggefallen)
-
-
-## Anlage XXI – (§ 49 Absatz 3)Kriterien für lärmarme Kraftfahrzeuge
+# Anlage XXI – (§ 49 Absatz 3)Kriterien für lärmarme Kraftfahrzeuge
 
 (Fundstelle: BGBl. I 2012, 822 - 824)
 
@@ -8158,7 +7895,7 @@ Abbildung 1
 
 Markierung der Messstrecke für das Messen des Fahrgeräuschs
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0220.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0220.jpg)
 
 2.2.3
 
@@ -8187,7 +7924,7 @@ Abbildung 2
 
 Lage der Messpunkte für das Messen des Rundumgeräuschs
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0230.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0230.jpg)
 
 2.2.4
 
@@ -8217,8 +7954,7 @@ Hinsichtlich der Messgeräte und aller akustischen Randbedingungen bei der Messu
 
 Anlage XXI Fußn. 2) Kursivdruck: Müsste richtig "Entfällt" lauten
 
-
-## Anlage XXII – (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungssysteme (NOx-Minderungssysteme) mit hoher Minderungsleistung zur Einhaltung eines Emissionswerts von weniger als 270 mg/km NOx für Kraftfahrzeuge mit Selbstzündungsmotor (NOxMS-Pkw)
+# Anlage XXII – (zu § 47 Absatz 3b und 3c) Anforderungen an Stickoxid-Minderungssysteme (NOx-Minderungssysteme) mit hoher Minderungsleistung zur Einhaltung eines Emissionswerts von weniger als 270 mg/km NOx für Kraftfahrzeuge mit Selbstzündungsmotor (NOxMS-Pkw)
 
 1  
 Allgemeines
@@ -9240,8 +8976,7 @@ Ausführende Stelle: (Name, Anschrift und ggf. Kontrollnummer der nach Anlage VI
 
 Ort, Datum, Unterschrift und ggf. Prüfstempel mit Kennnummer der verantwortlichen Person, die den ordnungsgemäßen Einbau aller Teile und die einwandfreie Funktion des NO<sub>x</sub>MS-Pkw bestätigt.
 
-
-## Anlage XXIII – (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase und Partikel von Kraftfahrzeugen mit Fremdzündungsmotoren und Selbstzündungsmotoren (Definition schadstoffarmer Personenkraftwagen)
+# Anlage XXIII – (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase und Partikel von Kraftfahrzeugen mit Fremdzündungsmotoren und Selbstzündungsmotoren (Definition schadstoffarmer Personenkraftwagen)
 
 (Fundstelle: BGBl. I 2012, 826 - 887)
 
@@ -9626,7 +9361,7 @@ Figur 1
 
 Prüfablauf für Fahrzeuge mit Fremdzündungsmotoren
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0260.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0260.jpg)
 
   
   
@@ -9637,7 +9372,7 @@ Prüfablauf für Fahrzeuge mit Fremdzündungsmotoren
 
 Verdunstungsemissionen
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0270.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0270.jpg)
 
   
   
@@ -9646,7 +9381,7 @@ Figur 3
 
 Prüfablauf für Fahrzeuge mit Selbstzündungsmotoren
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0280.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0280.jpg)
 
 3.2.3  
 Prüfung der Verdunstungsemissionen
@@ -9756,7 +9491,7 @@ Schema eines Probenahme- und Analysesystems
 
 zur Bestimmung gasförmiger Emissionen bei Pkw mit Ottomotoren
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0290.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0290.jpg)
 
 3.4.2.6  
 Die Entnahmeeinrichtung muss gasdicht sein. Sie muss so beschaffen sein und aus solchen Werkstoffen bestehen, dass die Konzentrationen der Abgasbestandteile in den verdünnten Abgasen nicht beeinflusst werden. Beeinflusst ein Geräteteil (Wärmetauscher, Ventilator usw.) die Konzentration eines luftverunreinigenden Gases in den verdünnten Gasen, so muss die Probe dieses Gases vor diesem Teil entnommen werden, wenn die Beeinflussung nicht ausgeschaltet werden kann.
@@ -10207,7 +9942,7 @@ Schema eines Probenahme- und Analysesystems
 
 zur Bestimmung gas- und partikelförmiger Emissionen bei Pkw mit Dieselmotoren
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0300.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0300.jpg)
 
 3.6.3.2.2  
 Vorbereitungen auf die Prüffahrten
@@ -10379,12 +10114,12 @@ Die Verzögerungsphasen der Fahrkurve werden bei eingelegtem Gang, eingekuppelte
 
   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0310.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0310.jpg)
 
   
   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0320.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0320.jpg)
 
   
 
@@ -10430,7 +10165,7 @@ Wiederholung der beschriebenen Vorgänge so lange, bis der Leistungsbereich auf 
 
 Berechnung der aufgenommenen Leistung nach folgender Formel:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0330.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0330.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -10453,7 +10188,7 @@ Diagramm der angezeigten Leistung bei 80 km/h in Abhängigkeit von der aufgenomm
 
   
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0340.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0340.jpg)
 
 3.9.2  
 Fahrwiderstand eines Fahrzeugs
@@ -10532,11 +10267,11 @@ e) Bestimmung des Mittelwerts T<sub>1</sub> aus t<sub>1</sub> und t<sub>2</sub>.
 
 f) Diese Prüfung ist so oft zu wiederholen, dass die statistische Genauigkeit (p) für den Mittelwert
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0350.jpg "Abbildung") gleich oder kleiner 2 % ist (p ≤ 2 %).
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0350.jpg "Abbildung") gleich oder kleiner 2 % ist (p ≤ 2 %).
 
 Die statistische Genauigkeit wird definiert durch:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0360.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0360.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -10547,23 +10282,23 @@ n:
 Anzahl der Prüfungen
 
 s:  
-Standardabweichung, ![](../normengrafiken/bgbl1_2012/j0679-1_0370.jpg "Abbildung")
+Standardabweichung, ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0370.jpg "Abbildung")
 
 |                                                                |     |      |      |      |      |      |
 |:---------------------------------------------------------------|:---:|:----:|:----:|:----:|:----:|:----:|
 | n                                                              |  4  |  5   |  6   |  7   |  8   |  9   |
 | t                                                              | 3,2 | 2,8  | 2,6  | 2,5  | 2,4  | 2,3  |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0380.jpg "Abbildung") | 1,6 | 1,25 | 1,06 | 0,94 | 0,85 | 0,77 |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0380.jpg "Abbildung") | 1,6 | 1,25 | 1,06 | 0,94 | 0,85 | 0,77 |
 
 |                                                                |      |      |      |      |      |      |
 |:---------------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 | n                                                              |  10  |  11  |  12  |  13  |  14  |  15  |
 | t                                                              | 2,3  | 2,2  | 2,2  | 2,2  | 2,2  | 2,2  |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0390.jpg "Abbildung") | 0,73 | 0,66 | 0,64 | 0,61 | 0,59 | 0,57 |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0390.jpg "Abbildung") | 0,73 | 0,66 | 0,64 | 0,61 | 0,59 | 0,57 |
 
 g) Berechnung der Leistung nach der Formel:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0400.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0400.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -10630,7 +10365,7 @@ c) Die Veränderungen des Drehmoments C(t) und der Geschwindigkeit in Abhängigk
 
 d) Das maßgebliche Drehmoment C<sub>t1</sub> ist das mittlere Drehmoment, ermittelt nach folgender Formel:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0410.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0410.jpg "Abbildung")
 
 e) Durchführung der Prüfung in der anderen Fahrtrichtung zur Bestimmung von C<sub>t2</sub>.
 
@@ -10669,7 +10404,7 @@ Aufstellung der Arbeitsgleichung
 
 Die an der (den) Rolle(n) auftretenden Kräfte lassen sich durch folgende Gleichung ausdrücken:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0420.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0420.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -10693,7 +10428,7 @@ Diese Formel wird unter Nummer 3.9.3.5.3 für Prüfstände mit mechanisch simuli
 
 Die Gesamtschwungmasse wird durch folgende Formel ausgedrückt:
 
-hierbei kann ![](../normengrafiken/bgbl1_2012/j0679-1_0430.jpg "Abbildung")
+hierbei kann ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0430.jpg "Abbildung")
 
 I<sub>M</sub>  
 mit herkömmlichen Methoden berechnet oder gemessen werden,
@@ -10740,17 +10475,17 @@ Erläuterung zur Aufstellung der Arbeitsgleichungen.
 3.9.3.5.1  
 Kräftegleichgewicht auf der Straße
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0440.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0440.jpg "Abbildung")
 
 3.9.3.5.2  
 Kräftegleichgewicht auf dem Prüfstand mit mechanisch simulierten Schwungmassen
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0450.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0450.jpg "Abbildung")
 
 3.9.3.5.3  
 Kräftegleichgewicht auf dem Prüfstand mit nicht mechanisch (elektrisch) simulierten Schwungmassen
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0460.jpg "Abbildung")  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0460.jpg "Abbildung")  
 
 In diesen Formeln bedeuten:
 
@@ -10769,26 +10504,26 @@ In diesen Formeln bedeuten:
 | F<sub>s</sub>:                                                 | resultierende Kraft bei konstanter Geschwindigkeit                                                                                          |
 | C<sub>1</sub>:                                                 | resultierendes Drehmoment der elektrisch simulierten Schwungmassen                                                                          |
 | F<sub>1</sub>:                                                 | resultierende Kraft der elektrisch simulierten Schwungmassen                                                                                |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0470.jpg "Abbildung") | Winkelbeschleunigung der Antriebsräder                                                                                                      |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0480.jpg "Abbildung") | Winkelbeschleunigung der nicht angetriebenen Räder                                                                                          |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0490.jpg "Abbildung") | Winkelbeschleunigung des Prüfstands mit mechanischen Schwungmassen                                                                          |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0500.jpg "Abbildung") | Winkelbeschleunigung des Prüfstands mit elektrischen Schwungmassen                                                                          |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0470.jpg "Abbildung") | Winkelbeschleunigung der Antriebsräder                                                                                                      |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0480.jpg "Abbildung") | Winkelbeschleunigung der nicht angetriebenen Räder                                                                                          |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0490.jpg "Abbildung") | Winkelbeschleunigung des Prüfstands mit mechanischen Schwungmassen                                                                          |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0500.jpg "Abbildung") | Winkelbeschleunigung des Prüfstands mit elektrischen Schwungmassen                                                                          |
 | ƴ:                                                             | lineare Beschleunigung                                                                                                                      |
 | r<sub>1</sub>:                                                 | Reifenradius der Antriebsräder unter Last                                                                                                   |
 | r<sub>2</sub>:                                                 | Reifenradius der nicht angetriebenen Räder unter Last                                                                                       |
 | Rm:                                                            | Rollenradius des Prüfstands mit mechanischen Schwungmassen                                                                                  |
 | Re:                                                            | Rollenradius des Prüfstands mit elektrischen Schwungmassen                                                                                  |
 | k<sub>1</sub>:                                                 | Koeffizient, der von der Getriebeübersetzung und den verschiedenen Schwungmassen der Kraftübertragung sowie vom „Wirkungsgrad“ abhängig ist |
-| k<sub>2</sub>:                                                 | Übersetzungsverhältnis der Kraftübertragung![](../normengrafiken/bgbl1_2012/j0679-1_0510.jpg "Abbildung") „Wirkungsgrad“                    |
+| k<sub>2</sub>:                                                 | Übersetzungsverhältnis der Kraftübertragung![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0510.jpg "Abbildung") „Wirkungsgrad“                    |
 | k<sub>3</sub>:                                                 | Übersetzungsverhältnis der Kraftübertragung · „Wirkungsgrad“                                                                                |
 
 Unter der Annahme, dass die beiden Prüfstandtypen (siehe die Nummern 3.9.3.5.2 und 3.9.3.5.3) die gleichen Merkmale aufweisen, erhält man folgende vereinfachte Formel:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0520.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0520.jpg "Abbildung")
 
 hierbei ist
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0530.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0530.jpg "Abbildung")
 
 3.10  
 Beschreibung der Gas- und Partikelentnahmesysteme
@@ -11149,7 +10884,7 @@ Figur 6
 
 Schaltschema für NO<sub>2</sub>-NO-Konverterprüfung
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0540.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0540.jpg)
 
   
 
@@ -11165,7 +10900,7 @@ Bei noch immer ausgeschaltetem Ozonisator wird auch die Zufuhr von Sauerstoff un
 
 Der Wirkungsgrad (Z) des NO<sub>2</sub>-Konverters wird wie folgt berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0550.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0550.jpg "Abbildung")
 
 Der so erhaltene Wert darf nicht kleiner als 95 Prozent sein. Der Wirkungsgrad ist mindestens einmal pro Woche zu überprüfen.
 
@@ -11194,8 +10929,7 @@ b) während des Kalibrierens muss eine konstante Temperatur aufrechterhalten wer
 
 c) alle Anschlussrohrleitungen zwischen dem Durchflussmesser und der CVS-Pumpe müssen dicht sein.
 
-Bei der Prüfung zur Bestimmung der Abgasemissionen kann durch Messung dieser Pumpenkennwerte der Durchfluss aus der Kalibriergleichung berechnet werden.  
-
+Bei der Prüfung zur Bestimmung der Abgasemissionen kann durch Messung dieser Pumpenkennwerte der Durchfluss aus der Kalibriergleichung berechnet werden. 
   
   
 
@@ -11203,7 +10937,7 @@ Figur 7
 
 Schematische Darstellung einer Kalibriervorrichtung für CVS-Geräte
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0560.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0560.jpg)
 
   
 
@@ -11234,7 +10968,7 @@ Die Luftdurchflussmenge Q<sub>s</sub> an jedem Prüfpunkt wird nach den Angaben 
 
 Die Luftdurchflussmenge wird dann auf den Pumpendurchsatz V<sub>o</sub> in m³ je Umdrehung bei absoluter Temperatur und absolutem Druck am Pumpeneinlass umgerechnet.
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0570.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0570.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -11255,7 +10989,7 @@ Pumpendrehzahl in min–1</sup>
 
 Zur Kompensierung der gegenseitigen Beeinflussung der Druckschwankungen mit der Pumpendrehzahl und den Rückströmverlusten der Pumpe wird die Korrelationsfunktion (x<sub>o</sub>) zwischen der Pumpendrehzahl (n), der Druckdifferenz zwischen Ein- und Auslass der Pumpe und dem absoluten Druck am Pumpenauslass mit folgender Formel berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0580.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0580.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -11283,7 +11017,7 @@ Kalibrierung des Venturi-Rohrs mit kritischer Strömung (CFV)
 
 Bei der Kalibrierung des CFV-Venturi-Rohrs bezieht man sich auf die Durchflussgleichung für ein Venturi-Rohr mit kritischer Strömung:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0590.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0590.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11327,7 +11061,7 @@ Die bei der Kalibrierung aufgezeichneten Messwerte sind für die nachstehenden B
 
 Es sind die Werte des Kalibrierkoeffizienten K<sub>v</sub> für jeden Messpunkt zu berechnen:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0600.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0600.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11430,7 +11164,7 @@ Kalibrierung
 
 Mit dem in Nummer 3.12.1 beschriebenen Verfahren lässt sich die zeitliche Änderung der Kohlenwasserstoffmenge in der Prüfkammer wie folgt berechnen:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0610.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0610.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11460,7 +11194,7 @@ Berechnung der Verdunstungsemissionen nach Nummer 3.6
 
 Die in den Nummern 3.6.2.2 und 3.6.2.4 beschriebene Prüfung der Tankatmungsverluste und der Verdunstungsemissionen beim Heißabstellen ermittelt die emittierte Kohlenwasserstoffmenge mithilfe folgender Gleichung:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0620.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0620.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11499,7 +11233,7 @@ Allgemeines
 
 Die während der Prüfung in der Fahrkurve I emittierten Massen gasförmiger und fester luftverunreinigender Stoffe werden mit nachstehender Gleichung berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0630.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0630.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11526,7 +11260,7 @@ während der Fahrkurve I gemessene Fahrstrecke der Phase 2 (Stabilisierungsphase
 
 Die während der Prüfung in der Fahrkurve II emittierten Massen gasförmiger Luftverunreinigungen werden mit nachstehender Gleichung berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0640.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0640.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11541,7 +11275,7 @@ während der Fahrkurve II gemessene Fahrstrecke in km
 
 Die in den einzelnen Testphasen emittierten Massen luftverunreinigender Gase werden nach folgender Gleichung berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0650.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0650.jpg "Abbildung")
 
 dabei bedeuten:
 
@@ -11549,7 +11283,7 @@ dabei bedeuten:
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | m<sub>i</sub>:                                                 | emittierte Menge der gasförmigen Luftverunreinigung i in g/Testphase                                                                                          |
 | V<sub>verd</sub>:                                              | Volumen der verdünnten Abgase korrigiert auf Normalbedingungen (273,2 K, 101,33 kPa) in I/Testphase                                                           |
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0660.jpg "Abbildung") | rel. Dichte der gasförmigen Luftverunreinigung unter Normalbedingungen (273,2 K, 101,33 kPa)                                                                  |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0660.jpg "Abbildung") | rel. Dichte der gasförmigen Luftverunreinigung unter Normalbedingungen (273,2 K, 101,33 kPa)                                                                  |
 | k<sub>H</sub>:                                                 | Feuchtigkeitskorrekturfaktor für die Berechnung der emittierten Stickoxidmengen (bei CH und CO keine Feuchtekorrektur zulässig)                               |
 | C<sub>i</sub>:                                                 | Konzentration der gasförmigen Luftverunreinigung in den verdünnten Abgasen, ausgedrückt in ppm und korrigiert mit deren Konzentration in der Verdünnungsluft. |
 
@@ -11564,7 +11298,7 @@ Es sind Kennwerte, mit denen das Volumen des Durchflusses ermittelt werden kann,
 3.13.2.2  
 Berechnungen des Volumens bei einem Entnahmesystem mit Verdrängerpumpe. Das bei den Entnahmesystemen mit Verdrängerpumpe gemessene Volumen der verdünnten Abgase ist mit folgender Formel zu berechnen:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0670.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0670.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -11580,11 +11314,11 @@ Zahl der Umdrehungen der Pumpe während der Prüfung
 3.13.2.3  
 Korrektur des Volumens der verdünnten Abgase auf Normalbedingungen. Das Volumen der verdünnten Abgase wird durch folgende Formel auf Normalbedingungen korrigiert:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0680.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0680.jpg "Abbildung")
 
 hierbei bedeuten:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0690.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0690.jpg "Abbildung")
 
 P<sub>B</sub>:  
 Luftdruck im Prüfraum in kPa
@@ -11598,7 +11332,7 @@ Mittlere Temperatur in K der verdünnten Abgase beim Eintritt in die Verdränger
 3.13.3  
 Berechnung der korrigierten Konzentration luftverunreinigender Gase im Auffangbeutel
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0700.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0700.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -11616,7 +11350,7 @@ Verdünnungsfaktor
 
 Der Verdünnungsfaktor wird wie folgt berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0710.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0710.jpg "Abbildung")
 
 hierbei bedeuten:
 
@@ -11634,11 +11368,11 @@ Berechnung des Feuchtekorrekturfaktors für NO
 
 Um die Auswirkungen der Feuchte auf die für die Stickoxide erzielten Ergebnisse zu korrigieren, ist folgende Formel anzuwenden:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0720.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0720.jpg "Abbildung")
 
 wobei
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0730.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0730.jpg "Abbildung")
 
 In diesen Formeln bedeuten:
 
@@ -11659,13 +11393,13 @@ Bestimmung der mittleren CH-Konzentration bei Selbstzündungsmotoren
 
 Zur Bestimmung der Masse der CH-Emissionen für Dieselmotoren wird die mittlere CH-Konzentration mit Hilfe folgender Formel berechnet:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0740.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0740.jpg "Abbildung")
 
 hierbei bedeuten:
 
 |                                                                 |                                                                                                                       |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| ![](../normengrafiken/bgbl1_2012/j0679-1_0750.jpg "Abbildung"): | Integral der vom beheizten HFID-Analysator während der Prüfzeit (t<sub>2</sub> – t<sub>1</sub>) aufgezeichneten Werte |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0750.jpg "Abbildung"): | Integral der vom beheizten HFID-Analysator während der Prüfzeit (t<sub>2</sub> – t<sub>1</sub>) aufgezeichneten Werte |
 | C<sub>e</sub>:                                                  | CH-Konzentration, gemessen in den verdünnten Abgasen in ppm                                                           |
 | C<sub>e</sub>:                                                  | ersetzt direkt C<sub>CH</sub> in allen entsprechenden Gleichungen                                                     |
 
@@ -11719,7 +11453,7 @@ Figur 8
 
 Programm für den Fahrbetrieb
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0760.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0760.jpg)
 
   
 
@@ -11890,8 +11624,7 @@ Dauertest (Verschlechterungsfaktor/-wert)   ..........
 
 Anlage XXIII Abschn. 3.4.2.5 Kursivdruck: Müsste richtig "repräsentative" lauten
 
-
-## Anlage XXIV – (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- und Selbstzündungsmotoren
+# Anlage XXIV – (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- und Selbstzündungsmotoren
 
 (Fundstelle: BGBl. I 2012, 888 - 897)
 
@@ -12221,8 +11954,7 @@ ggf. Angaben über Auflagen für den Betrieb (z. B. unverbleiter Kraftstoff).
 
 5. Bestätigung des Antragstellers, dass die Funktionsfähigkeit des Abgasreinigungssystems über eine angemessene Lebensdauer bei bestimmungsgemäßer Verwendung gewährleistet ist.
 
-
-## Anlage XXV – (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- oder Selbstzündungsmotoren
+# Anlage XXV – (zu § 47)Maßnahmen gegen die Verunreinigung der Luft durch Gase von Kraftfahrzeugen mit Fremd- oder Selbstzündungsmotoren
 
 (Fundstelle: BGBl. I 2012, 898 - 899)
 
@@ -12343,8 +12075,7 @@ In Anhang VI gilt als Abschnitt 1 Folgendes:
 
 Es sind die Prüfkraftstoffe entsprechend den Spezifikationen nach Nummer 5 der Anlage XXIII zu verwenden.
 
-
-## Anlage XXVI – (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Kraftfahrzeugen mit Selbstzündungsmotor
+# Anlage XXVI – (zu § 47 Absatz 3a)Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Kraftfahrzeugen mit Selbstzündungsmotor
 
 (Fundstelle: BGBl. I 2012, 900 - 915)
 
@@ -13197,8 +12928,7 @@ gekennzeichnet werden darf/dürfen. Verwendete Unterlagen für die jeweilige Bew
 
 Es ist nicht zu erwarten, dass sich das Abgasverhalten des Fahrzeugs bei bestimmungsgemäßem Betrieb in einem Zeitraum von bis zu fünf Jahren oder bis zu einer Kilometerleistung von 100 000 km, je nachdem, welches Kriterium zuerst erreicht wird, wesentlich verschlechtern wird.
 
-Technischer Dienst:   ..........  
-Datum, Unterschrift:   ..........
+Technischer Dienst:   .......... Datum, Unterschrift:   ..........
 
 1. Es ist ein formloser Antrag auf Erteilung einer Allgemeinen Betriebserlaubnis für ein Partikelminderungssystem bei der Genehmigungsbehörde zu stellen.
 
@@ -13299,8 +13029,7 @@ Durch die Ausrüstung mit dem unter Nummer 3 beschriebenen Partikelminderungssys
 
 Ort, Datum, Unterschrift der verantwortlichen Person nach § 29 Absatz 12 oder § 47a Absatz 3 StVZO
 
-
-## Anlage XXVII – (zu § 48 Absatz 2 und Anlage XIV Nummer 3.4)Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Nutzfahrzeugen sowie von mobilen Maschinen und Geräten mit Selbstzündungsmotor
+# Anlage XXVII – (zu § 48 Absatz 2 und Anlage XIV Nummer 3.4)Maßnahmen gegen die Verunreinigung der Luft durch Partikel von Nutzfahrzeugen sowie von mobilen Maschinen und Geräten mit Selbstzündungsmotor
 
 (Fundstelle: BGBl. I 2012, 916 - 929)
 
@@ -13507,11 +13236,11 @@ Der Nachweis für einen kontinuierlich ablaufenden Regenerationsprozess gilt als
 
 Die Varianz berechnet sich wie folgt:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0770.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0770.jpg "Abbildung")
 
 mit:
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0780.jpg "Abbildung")
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0780.jpg "Abbildung")
 
 und:
 
@@ -13789,7 +13518,7 @@ b) durch einen amtlich anerkannten Sachverständigen oder Prüfer für den Kraft
 
 zu bestätigen.
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0790.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0790.jpg)
 
 Fahrzeughersteller:
 
@@ -13888,8 +13617,7 @@ Durch die Ausrüstung mit dem unter Nummer 3 beschriebenen Partikelminderungssys
 –  
 „PMK 2 nachger. m. Typ: (eintragen); KBA (Nr. eintragen), ab (Datum)“<a href="#FnA1-F776225_111" class="FnR">*)</a></sup>
 
-Ausführende Stelle:   ..........  
-  ..........
+Ausführende Stelle:   ..........   ..........
 
 (Name, Anschrift, Kontrollnummer der anerkannten AU-Werkstatt)
 
@@ -13922,20 +13650,15 @@ Zur Bestimmung der Partikelemission bei periodisch regenerierenden Systemen wird
 1.2  
 Die Bestimmung der effektiven Wichtungsfaktoren entfällt bei der Beurteilung von periodisch regenerierenden Systemen nach Nummer 6.
 
-
-## Anlage XXVIII – (§ 35a Absatz 8)Beispiel für einen Warnhinweis vor der Verwendung einer nach hinten gerichteten Rückhalteeinrichtung für Kinder auf Beifahrerplätzen mit Airbag
+# Anlage XXVIII – (§ 35a Absatz 8)Beispiel für einen Warnhinweis vor der Verwendung einer nach hinten gerichteten Rückhalteeinrichtung für Kinder auf Beifahrerplätzen mit Airbag
 
 (Fundstelle: BGBl. I 2012, 930)
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0800.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0800.jpg)
 
-Anmerkungen: Das Piktogramm ist rot.  
-Sitz, Kindersitz und Umrandung des Airbags sind schwarz.  
-Das Wort Airbag und der Airbag sind weiß.  
-Der Durchmesser des Piktogramms beträgt mindestens 60 mm.
+Anmerkungen: Das Piktogramm ist rot. Sitz, Kindersitz und Umrandung des Airbags sind schwarz. Das Wort Airbag und der Airbag sind weiß. Der Durchmesser des Piktogramms beträgt mindestens 60 mm.
 
-
-## Anlage XXIX – (zu § 20 Absatz 3a Satz 4)EG-Fahrzeugklassen
+# Anlage XXIX – (zu § 20 Absatz 3a Satz 4)EG-Fahrzeugklassen
 
 (Fundstelle: BGBl. I 2012, 931 - 935)
 
@@ -14084,14 +13807,14 @@ Definitionen und Skizzen der Bodenfreiheit. (Definitionen für den vorderen und 
 4.5.1  
 Die „Bodenfreiheit zwischen den Achsen“ ist der kleinste Abstand zwischen der Standebene und dem niedrigsten festen Punkt des Fahrzeugs. Mehrachsaggregate gelten als eine einzige Achse.
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0810.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0810.jpg)
 
 4.5.2  
 Die „Bodenfreiheit unter einer Achse“ ist durch die Scheitelhöhe eines Kreisbogens bestimmt, der durch die Mitte der Aufstandsfläche der Reifen einer Achse (der Innenreifen bei Zwillingsreifen) geht und den niedrigsten Festpunkt zwischen den Rädern berührt.
 
 Kein starres Teil des Fahrzeugs darf in den gestrichelten Kreisabschnitt der Zeichnung hineinragen. Gegebenenfalls ist die Bodenfreiheit mehrerer Achsen in der Reihenfolge ihrer Anordnung anzugeben, beispielsweise 280/250/250.
 
-![](../normengrafiken/bgbl1_2012/j0679-1_0820.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j0679-1_0820.jpg)
 
 4.6  
 Kombinierte Bezeichnung
@@ -14252,17 +13975,14 @@ Beispiel: Bei einer gezogenen auswechselbaren Maschine der Klasse Sb2 beträgt d
 
 Die Einteilung gilt nicht für speziell zum Einsatz in der Forstwirtschaft bestimmte Maschinen wie Seilschlepper (Skidder) und Rückezüge (Forwarder) nach ISO-Norm 6814:2000, für Forstmaschinen auf Fahrgestell für Erdbaumaschinen nach ISO-Norm 6165:2001und für auswechselbare Maschinen, die im öffentlichen Straßenverkehr von einem anderen Fahrzeug in vollständig angehobener Stellung mitgeführt werden.
 
-
-## Anhang
+# Anhang
 
 (Fundstelle: BGBl. I 2012, 936 - 947;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+# Muster 1 bis 2c – (weggefallen)
 
-## Muster 1 bis 2c – (weggefallen)
-
-
-## Muster 2d – (§ 20)Vorbemerkungen
+# Muster 2d – (§ 20)Vorbemerkungen
 
 (Fundstelle: BGBl. I 2012, 949 - 951)
 
@@ -14287,5 +14007,4 @@ Die Übereinstimmung mit der unter Feld K und (6) angegebenen ABE und dem gleich
 •  
 Für die Zulassung ist ein Gutachten/Teilgutachten erforderlich.
 
-
-## Muster 3 bis 13 – (weggefallen)
+# Muster 3 bis 13 – (weggefallen)

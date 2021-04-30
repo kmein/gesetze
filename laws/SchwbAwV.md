@@ -1,10 +1,7 @@
-# [SchwbAwV] Schwerbehindertenausweisverordnung  (SchwbAwV)
-
-Ausfertigungsdatum: 15.05.1981
-
+% Schwerbehindertenausweisverordnung  (SchwbAwV)
+% Ausfertigungsdatum: 15.05.1981
  
-
-## § 1 – Gestaltung des Ausweises
+# § 1 – Gestaltung des Ausweises
 
 (1) Der Ausweis im Sinne des § 152 Absatz 5 des Neunten Buches Sozialgesetzbuch über die Eigenschaft als schwerbehinderter Mensch, den Grad der Behinderung und weitere gesundheitliche Merkmale, die Voraussetzung für die Inanspruchnahme von Rechten und Nachteilsausgleichen nach dem Neunten Buch Sozialgesetzbuch oder nach anderen Vorschriften sind, wird nach dem in der Anlage zu dieser Verordnung abgedruckten Muster 1 ausgestellt. Der Ausweis ist mit einem fälschungssicheren Aufdruck in der Grundfarbe grün versehen.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 15.05.1981
 
 (5) Der Ausweis ist als Identifikationskarte nach dem in der Anlage zu dieser Verordnung abgedruckten Muster 5 auszustellen.
 
-
-## § 2 – Zugehörigkeit zu Sondergruppen
+# § 2 – Zugehörigkeit zu Sondergruppen
 
 (1) Im Ausweis ist die Bezeichnung "Kriegsbeschädigt" einzutragen, wenn der schwerbehinderte Mensch wegen eines Grades der Schädigungsfolgen von mindestens 50 Anspruch auf Versorgung nach dem Bundesversorgungsgesetz hat.
 
@@ -36,8 +32,7 @@ wenn der schwerbehinderte Mensch wegen eines Grades der Schädigungsfolgen von m
 
 Beim Zusammentreffen der Voraussetzungen für die Eintragung der Bezeichnung nach Absatz 1 und des Merkzeichens nach Satz 1 Nr. 2 ist die Bezeichnung "Kriegsbeschädigt" einzutragen, es sei denn, der schwerbehinderte Mensch beantragt die Eintragung des Merkzeichens "EB".
 
-
-## § 3 – Weitere Merkzeichen
+# § 3 – Weitere Merkzeichen
 
 (1) Im Ausweis sind auf der Rückseite folgende Merkzeichen einzutragen:  
 
@@ -81,8 +76,7 @@ Beim Zusammentreffen der Voraussetzungen für die Eintragung der Bezeichnung nac
 
 (2) Ist der schwerbehinderte Mensch zur Mitnahme einer Begleitperson im Sinne des § 229 Absatz 2 des Neunten Buches Sozialgesetzbuch berechtigt, sind auf der Vorderseite des Ausweises das Merkzeichen „B“ und der Satz „Die Berechtigung zur Mitnahme einer Begleitperson ist nachgewiesen“ einzutragen.
 
-
-## § 3a – Beiblatt
+# § 3a – Beiblatt
 
 (1) Zum Ausweis für schwerbehinderte Menschen, die das Recht auf unentgeltliche Beförderung im öffentlichen Personenverkehr in Anspruch nehmen können, ist auf Antrag ein Beiblatt nach dem in der Anlage zu dieser Verordnung abgedruckten Muster 2 in der Grundfarbe weiß auszustellen. Das Beiblatt ist Bestandteil des Ausweises und nur zusammen mit dem Ausweis gültig.
 
@@ -94,15 +88,13 @@ Beim Zusammentreffen der Voraussetzungen für die Eintragung der Bezeichnung nac
 
 (5) (weggefallen)
 
-
-## § 4 – Sonstige Eintragungen
+# § 4 – Sonstige Eintragungen
 
 (1) Die Eintragung von Sondervermerken zum Nachweis von weiteren Voraussetzungen für die Inanspruchnahme von Rechten und Nachteilsausgleichen, die schwerbehinderten Menschen nach landesrechtlichen Vorschriften zustehen, ist zulässig.
 
 (2) Die Eintragung von Merkzeichen oder sonstigen Vermerken, die in dieser Verordnung (§§ 2, 3, 4 Abs. 1 und § 5 Abs. 3) nicht vorgesehen sind, ist unzulässig.
 
-
-## § 5 – Lichtbild
+# § 5 – Lichtbild
 
 (1) Der Ausweis ist mit einem Bild des schwerbehinderten Menschen zu versehen, wenn dieser das 10. Lebensjahr vollendet hat. Hierzu hat der schwerbehinderte Mensch ein Passbild beizubringen.
 
@@ -110,8 +102,7 @@ Beim Zusammentreffen der Voraussetzungen für die Eintragung der Bezeichnung nac
 
 (3) In Ausweisen ohne Lichtbild ist in dem für das Lichtbild vorgesehenen Raum der Vermerk "Ohne Lichtbild gültig" einzutragen.
 
-
-## § 6 – Gültigkeitsdauer
+# § 6 – Gültigkeitsdauer
 
 (1) Auf der Rückseite des Ausweises ist als Beginn der Gültigkeit des Ausweises einzutragen:
 
@@ -131,49 +122,41 @@ Beim Zusammentreffen der Voraussetzungen für die Eintragung der Bezeichnung nac
 
 (7) Der Kalendermonat und das Kalenderjahr, bis zu deren Ende der Ausweis gültig sein soll, sind auf der Vorderseite des Ausweises einzutragen.
 
-
-## § 7 – Verwaltungsverfahren
+# § 7 – Verwaltungsverfahren
 
 Für die Ausstellung und Einziehung des Ausweises sind die für die Kriegsopferversorgung maßgebenden Verwaltungsverfahrensvorschriften entsprechend anzuwenden, soweit sich aus § 152 Absatz 5 des Neunten Buches Sozialgesetzbuch nichts Abweichendes ergibt.
 
-
-## § 8 – Ausweis für sonstige freifahrtberechtigte Personen
+# § 8 – Ausweis für sonstige freifahrtberechtigte Personen
 
 (1) Der Ausweis für Personen im Sinne des Artikels 2 Abs. 1 des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr vom 9. Juli 1979 (BGBl. I S. 989), soweit sie nicht schwerbehinderte Menschen im Sinne des § 2 Abs. 2 des Neunten Buches Sozialgesetzbuch sind, wird nach dem in der Anlage zu dieser Verordnung abgedruckten Muster 4 ausgestellt. Der Ausweis ist mit einem fälschungssicheren Aufdruck in der Grundfarbe grün versehen und durch einen halbseitigen orangefarbenen Flächenaufdruck gekennzeichnet. Zusammen mit dem Ausweis ist ein Beiblatt auszustellen, das mit einer Wertmarke nach dem in der Anlage zu dieser Verordnung abgedruckten Muster 3 versehen ist.
 
 (2) Für die Ausstellung des Ausweises nach Absatz 1 gelten die Vorschriften des § 1 Absatz 3 und 5, § 2, § 3 Absatz 1 Nummer 6 und Absatz 2, § 4 Absatz 2, § 5 und § 6 Absatz 2, 3, 4 und 7 sowie des § 7 entsprechend, soweit sich aus Artikel 2 Abs. 2 und 3 des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr nichts Besonderes ergibt.
 
-
-## § 9 – Übergangsregelung
+# § 9 – Übergangsregelung
 
 Bis zum 31. Dezember 2014 ausgestellte Ausweise, die keine Identifikationskarten nach § 1 Absatz 5 sind, bleiben bis zum Ablauf ihrer Gültigkeitsdauer gültig, es sei denn, sie sind einzuziehen. Sie können gegen eine Identifikationskarte umgetauscht werden. Ausgestellte Beiblätter bleiben bis zum Ablauf ihrer Gültigkeit gültig.
 
-
-## Muster 1
+# Muster 1
 
 (Fundstelle: BGBl I 1991, 1743;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 (Vorderseite) (nicht darstellbares Ausweisformular)  
 (Rückseite) (nicht darstellbares Ausweisformular)  
-Der Ausweis ist amtlicher Nachweis für die Eigenschaft als schwerbehinderter Mensch, den Grad der Behinderung, die auf ihm eingetragenen weiteren gesundheitlichen Merkmale und die Zugehörigkeit zu Sondergruppen. Er dient dem Nachweis für die Inanspruchnahme von Rechten und Nachteilsausgleichen, die schwerbehinderten Menschen nach dem Neunten Buch Sozialgesetzbuch oder nach anderen Vorschriften zustehen.  
-Änderungen in den für die Eintragungen maßgebenden Verhältnissen sind der ausstellenden Behörde unverzüglich mitzuteilen. Nach Aufforderung ist der Ausweis, der Eigentum der ausstellenden Behörde bleibt, zum Zwecke der Berichtigung oder Einziehung vorzulegen. Die mißbräuchliche Verwendung ist strafbar.
+Der Ausweis ist amtlicher Nachweis für die Eigenschaft als schwerbehinderter Mensch, den Grad der Behinderung, die auf ihm eingetragenen weiteren gesundheitlichen Merkmale und die Zugehörigkeit zu Sondergruppen. Er dient dem Nachweis für die Inanspruchnahme von Rechten und Nachteilsausgleichen, die schwerbehinderten Menschen nach dem Neunten Buch Sozialgesetzbuch oder nach anderen Vorschriften zustehen. Änderungen in den für die Eintragungen maßgebenden Verhältnissen sind der ausstellenden Behörde unverzüglich mitzuteilen. Nach Aufforderung ist der Ausweis, der Eigentum der ausstellenden Behörde bleibt, zum Zwecke der Berichtigung oder Einziehung vorzulegen. Die mißbräuchliche Verwendung ist strafbar.
 
-
-## Muster 2
+# Muster 2
 
 (Fundstelle: BGBl. I 2012, 1276)
 
-![](../normengrafiken/bgbl1_2012/j1275-1_0020.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j1275-1_0020.jpg)
 
-
-## Muster 3
+# Muster 3
 
 (Inhalt: nicht darstellbares Muster,  
 Fundstelle: BGBl I 1991, 1744)
 
-
-## Muster 4
+# Muster 4
 
 (Fundstelle: BGBl I 1991, 1745;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -181,9 +164,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   
 (Vorderseite) (nicht darstellbares Ausweisformular)  
 (Rückseite)  
-Der Ausweis ist amtlicher Nachweis für die Zugehörigkeit des Ausweisinhabers oder der Ausweisinhaberin zu den freifahrtberechtigten Personen im Sinne des Artikels 2 Abs. 1 des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr vom 9. Juli 1979 (BGBl. I S. 989).  
-Gegen Vorzeigen dieses Ausweises und des mit einer Wertmarke versehenen Beiblattes ist der Ausweisinhaber oder die Ausweisinhaberin im Nahverkehr im Sinne des § 147 abs. 1 des Neunten Buches Sozialgesetzbuch unentgeltlich zu befördern.  
-Das gleiche gilt im Nah- und Fernverkehr im Sinne des § 147 des Neunten Buches Sozialgesetzbuch für die Beförderung
+Der Ausweis ist amtlicher Nachweis für die Zugehörigkeit des Ausweisinhabers oder der Ausweisinhaberin zu den freifahrtberechtigten Personen im Sinne des Artikels 2 Abs. 1 des Gesetzes über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr vom 9. Juli 1979 (BGBl. I S. 989). Gegen Vorzeigen dieses Ausweises und des mit einer Wertmarke versehenen Beiblattes ist der Ausweisinhaber oder die Ausweisinhaberin im Nahverkehr im Sinne des § 147 abs. 1 des Neunten Buches Sozialgesetzbuch unentgeltlich zu befördern. Das gleiche gilt im Nah- und Fernverkehr im Sinne des § 147 des Neunten Buches Sozialgesetzbuch für die Beförderung
 
 1. einer Begleitperson des Ausweisinhabers oder der Ausweisinhaberin, wenn dieser infolge einer Behinderung in seiner Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt und infolgedessen auf eine ständige Begleitung angewiesen ist, sofern dies im Ausweis mit dem Merkzeichen B eingetragen ist, und
 
@@ -191,14 +172,13 @@ Das gleiche gilt im Nah- und Fernverkehr im Sinne des § 147 des Neunten Buches 
 
 Änderungen in den für die Eintragungen maßgebenden Verhältnissen sind der ausstellenden Behörde unverzüglich mitzuteilen. Nach Aufforderung ist der Ausweis, der Eigentum der ausstellenden Behörde bleibt, zum Zwecke der Berichtigung oder Einziehung vorzulegen. Die mißbräuchliche Verwendung ist strafbar.
 
-
-## Muster 5
+# Muster 5
 
 (Fundstelle: BGBl. I 2012, 1277)
 
-![](../normengrafiken/bgbl1_2012/j1275-1_0030.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j1275-1_0030.jpg)
 
-![](../normengrafiken/bgbl1_2012/j1275-1_0040.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2012/j1275-1_0040.jpg)
 
 Spezifikationen:  
   

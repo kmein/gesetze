@@ -1,17 +1,13 @@
-# [HWG] Gesetz über die Werbung auf dem Gebiete des Heilwesens  (Heilmittelwerbegesetz - HWG)
-
-Ausfertigungsdatum: 11.07.1965
-
+% Gesetz über die Werbung auf dem Gebiete des Heilwesens  (Heilmittelwerbegesetz - HWG)
+% Ausfertigungsdatum: 11.07.1965
  
-
-## § 1
+# § 1
 
 (1) Dieses Gesetz findet Anwendung auf die Werbung für
 
 1. Arzneimittel im Sinne des § 2 des Arzneimittelgesetzes,
 
-1a.  
-Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes,
+1a. Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes,
 
 2. andere Mittel, Verfahren, Behandlungen und Gegenstände, soweit sich die Werbeaussage auf die Erkennung, Beseitigung oder Linderung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden bei Mensch oder Tier bezieht, sowie operative plastisch-chirurgische Eingriffe, soweit sich die Werbeaussage auf die Veränderung des menschlichen Körpers ohne medizinische Notwendigkeit bezieht.
 
@@ -31,13 +27,11 @@ Medizinprodukte im Sinne des § 3 des Medizinproduktegesetzes,
 
 (8) Das Gesetz findet ferner keine Anwendung auf die auf Anforderung einer Person erfolgende Übermittlung der nach den §§ 10 bis 11a des Arzneimittelgesetzes für Arzneimittel vorgeschriebenen vollständigen Informationen, des genehmigten und veröffentlichten Schulungsmaterials für Arzneimittel nach § 34 Absatz 1f des Arzneimittelgesetzes und des öffentlichen Beurteilungsberichts für Arzneimittel nach § 34 Absatz 1a Satz 1 Nummer 2 des Arzneimittelgesetzes und auf die Bereitstellung dieser Informationen im Internet.
 
-
-## § 2
+# § 2
 
 Fachkreise im Sinne dieses Gesetzes sind Angehörige der Heilberufe oder des Heilgewerbes, Einrichtungen, die der Gesundheit von Mensch oder Tier dienen, oder sonstige Personen, soweit sie mit Arzneimitteln, Medizinprodukten, Verfahren, Behandlungen, Gegenständen oder anderen Mitteln erlaubterweise Handel treiben oder sie in Ausübung ihres Berufes anwenden.
 
-
-## § 3
+# § 3
 
 Unzulässig ist eine irreführende Werbung. Eine Irreführung liegt insbesondere dann vor,
 
@@ -59,13 +53,11 @@ b) über die Person, Vorbildung, Befähigung oder Erfolge des Herstellers, Erfin
 
 gemacht werden.
 
-
-## § 3a
+# § 3a
 
 Unzulässig ist eine Werbung für Arzneimittel, die der Pflicht zur Zulassung unterliegen und die nicht nach den arzneimittelrechtlichen Vorschriften zugelassen sind oder als zugelassen gelten. Satz 1 findet auch Anwendung, wenn sich die Werbung auf Anwendungsgebiete oder Darreichungsformen bezieht, die nicht von der Zulassung erfasst sind.
 
-
-## § 4
+# § 4
 
 (1) Jede Werbung für Arzneimittel im Sinne des § 2 Abs. 1 oder Abs. 2 Nr. 1 des Arzneimittelgesetzes muß folgende Angaben enthalten:
 
@@ -83,8 +75,7 @@ Unzulässig ist eine Werbung für Arzneimittel, die der Pflicht zur Zulassung un
 
 7. Warnhinweise, soweit sie für die Kennzeichnung der Behältnisse und äußeren Umhüllungen vorgeschrieben sind,
 
-7a.  
-bei Arzneimitteln, die nur auf ärztliche, zahnärztliche oder tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis "Verschreibungspflichtig",
+7a. bei Arzneimitteln, die nur auf ärztliche, zahnärztliche oder tierärztliche Verschreibung abgegeben werden dürfen, der Hinweis "Verschreibungspflichtig",
 
 8. die Wartezeit bei Arzneimitteln, die zur Anwendung bei Tieren bestimmt sind, die der Gewinnung von Lebensmitteln dienen.
 
@@ -102,20 +93,17 @@ Eine Werbung für traditionelle pflanzliche Arzneimittel, die nach dem Arzneimit
 
 (6) Die Absätze 1, 1a, 3 und 5 gelten nicht für eine Erinnerungswerbung. Eine Erinnerungswerbung liegt vor, wenn ausschließlich mit der Bezeichnung eines Arzneimittels oder zusätzlich mit dem Namen, der Firma, der Marke des pharmazeutischen Unternehmers oder dem Hinweis: "Wirkstoff:"geworben wird.
 
-
-## § 4a
+# § 4a
 
 (1) Unzulässig ist es, in der Packungsbeilage eines Arzneimittels für andere Arzneimittel oder andere Mittel zu werben.
 
 (2) Unzulässig ist es auch, außerhalb der Fachkreise für die im Rahmen der vertragsärztlichen Versorgung bestehende Verordnungsfähigkeit eines Arzneimittels zu werben.
 
-
-## § 5
+# § 5
 
 Für homöopathische Arzneimittel, die nach dem Arzneimittelgesetz registriert oder von der Registrierung freigestellt sind, darf mit der Angabe von Anwendungsgebieten nicht geworben werden.
 
-
-## § 6
+# § 6
 
 Unzulässig ist eine Werbung, wenn
 
@@ -125,8 +113,7 @@ Unzulässig ist eine Werbung, wenn
 
 3. aus der Fachliteratur entnommene Zitate, Tabellen oder sonstige Darstellungen nicht wortgetreu übernommen werden.
 
-
-## § 7
+# § 7
 
 (1) Es ist unzulässig, Zuwendungen und sonstige Werbegaben (Waren oder Leistungen) anzubieten, anzukündigen oder zu gewähren oder als Angehöriger der Fachkreise anzunehmen, es sei denn, dass
 
@@ -152,25 +139,21 @@ Werbegaben für Angehörige der Heilberufe sind unbeschadet des Satzes 1 nur dan
 
 (3) Es ist unzulässig, für die Entnahme oder sonstige Beschaffung von Blut-, Plasma- oder Gewebespenden zur Herstellung von Blut- und Gewebeprodukten und anderen Produkten zur Anwendung bei Menschen mit der Zahlung einer finanziellen Zuwendung oder Aufwandsentschädigung zu werben.
 
-
-## § 8
+# § 8
 
 Das Teleshopping im Sinne des § 1 Absatz 3a sowie die Werbung für das Teleshopping sind unzulässig. Die Werbung für das Beziehen bestimmter Arzneimittel im Wege der Einzeleinfuhr nach § 73 Absatz 2 Nummer 6a oder Absatz 3 des Arzneimittelgesetzes ist unzulässig. Die Übersendung von Listen nicht zugelassener oder nicht registrierter Arzneimittel, deren Einfuhr aus einem anderen Mitgliedstaat oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nur ausnahmsweise zulässig ist, an Apotheker oder Betreiber einer tierärztlichen Hausapotheke ist zulässig, soweit die Listen nur Informationen über die Bezeichnung, die Packungsgrößen, die Wirkstärke und den Preis dieses Arzneimittels enthalten.
 
-
-## § 9
+# § 9
 
 Unzulässig ist eine Werbung für die Erkennung oder Behandlung von Krankheiten, Leiden, Körperschäden oder krankhaften Beschwerden, die nicht auf eigener Wahrnehmung an dem zu behandelnden Menschen oder Tier beruht (Fernbehandlung). Satz 1 ist nicht anzuwenden auf die Werbung für Fernbehandlungen, die unter Verwendung von Kommunikationsmedien erfolgen, wenn nach allgemein anerkannten fachlichen Standards ein persönlicher ärztlicher Kontakt mit dem zu behandelnden Menschen nicht erforderlich ist.
 
-
-## § 10
+# § 10
 
 (1) Für verschreibungspflichtige Arzneimittel darf nur bei Ärzten, Zahnärzten, Tierärzten, Apothekern und Personen, die mit diesen Arzneimitteln erlaubterweise Handel treiben, geworben werden.
 
 (2) Für Arzneimittel, die psychotrope Wirkstoffe mit der Gefahr der Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die Schlaflosigkeit oder psychische Störungen zu beseitigen oder die Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht geworben werden. Dies gilt auch für Arzneimittel, die zur Notfallkontrazeption zugelassen sind.
 
-
-## § 11
+# § 11
 
 (1) Außerhalb der Fachkreise darf für Arzneimittel, Verfahren, Behandlungen, Gegenstände oder andere Mittel nicht geworben werden
 
@@ -212,8 +195,7 @@ Für Medizinprodukte gilt Satz 1 Nr. 7 bis 9, 11 und 12 entsprechend. Ferner dar
 
 (2) Außerhalb der Fachkreise darf für Arzneimittel zur Anwendung bei Menschen nicht mit Angaben geworben werden, die nahe legen, dass die Wirkung des Arzneimittels einem anderen Arzneimittel oder einer anderen Behandlung entspricht oder überlegen ist.
 
-
-## § 12
+# § 12
 
 (1) Außerhalb der Fachkreise darf sich
 
@@ -229,18 +211,15 @@ Satz 1 Nummer 2 gilt nicht für die Werbung für In-vitro-Diagnostika gemäß An
 
 (2) Die Werbung für andere Mittel, Verfahren, Behandlungen oder Gegenstände außerhalb der Fachkreise darf sich nicht auf die Erkennung, Beseitigung oder Linderung der in der Anlage aufgeführten Krankheiten oder Leiden beziehen. Dies gilt nicht für die Werbung für Verfahren oder Behandlungen in Heilbädern, Kurorten und Kuranstalten.
 
-
-## § 13
+# § 13
 
 Die Werbung eines Unternehmens mit Sitz außerhalb des Geltungsbereichs dieses Gesetzes ist unzulässig, wenn nicht ein Unternehmen mit Sitz oder eine natürliche Person mit gewöhnlichem Aufenthalt im Geltungsbereich dieses Gesetzes oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, die nach diesem Gesetz unbeschränkt strafrechtlich verfolgt werden kann, ausdrücklich damit betraut ist, die sich aus diesem Gesetz ergebenden Pflichten zu übernehmen.
 
-
-## § 14
+# § 14
 
 Wer dem Verbot der irreführenden Werbung (§ 3) zuwiderhandelt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-
-## § 15
+# § 15
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -252,8 +231,7 @@ Wer dem Verbot der irreführenden Werbung (§ 3) zuwiderhandelt, wird mit Freihe
 
 4. entgegen § 7 Abs. 1 und 3 eine mit Zuwendungen oder sonstigen Werbegaben verbundene Werbung betreibt,
 
-4a.  
-entgegen § 7 Abs. 1 als Angehöriger der Fachkreise eine Zuwendung oder sonstige Werbegabe annimmt,
+4a. entgegen § 7 Abs. 1 als Angehöriger der Fachkreise eine Zuwendung oder sonstige Werbegabe annimmt,
 
 5. entgegen § 8 Satz 1 oder Satz 2 Teleshopping oder eine dort genannte Werbung betreibt,
 
@@ -271,23 +249,19 @@ entgegen § 7 Abs. 1 als Angehöriger der Fachkreise eine Zuwendung oder sonstig
 
 (3) Die Ordnungswidrigkeit nach Absatz 1 kann mit einer Geldbuße bis zu fünfzigtausend Euro, die Ordnungswidrigkeit nach Absatz 2 mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
 
-
-## § 16
+# § 16
 
 Werbematerial und sonstige Gegenstände, auf die sich eine Straftat nach § 14 oder eine Ordnungswidrigkeit nach § 15 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
-
-## § 17
+# § 17
 
 Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
-
-## § 18
+# § 18
 
 (weggefallen)
 
-
-## Anlage – (zu § 12)  Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
+# Anlage – (zu § 12)  Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2599
 

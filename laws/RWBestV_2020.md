@@ -1,10 +1,7 @@
-# [RWBestV 2020] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2020  (Rentenwertbestimmungsverordnung 2020 - RWBestV 2020)
-
-Ausfertigungsdatum: 08.06.2020
-
+% Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2020  (Rentenwertbestimmungsverordnung 2020 - RWBestV 2020)
+% Ausfertigungsdatum: 08.06.2020
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -25,34 +22,29 @@ des § 95 Absatz 1 Satz 2 des Siebten Buches Sozialgesetzbuch in der vorstehend 
 
 verordnet die Bundesregierung:
 
-
-## § 1 – Aktueller Rentenwert und aktueller Rentenwert (Ost) in der gesetzlichen Rentenversicherung
+# § 1 – Aktueller Rentenwert und aktueller Rentenwert (Ost) in der gesetzlichen Rentenversicherung
 
 (1) Der aktuelle Rentenwert beträgt ab dem 1. Juli 2020 34,19 Euro.
 
 (2) Der aktuelle Rentenwert (Ost) beträgt ab dem 1. Juli 2020 33,23 Euro.
 
-
-## § 2 – Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
+# § 2 – Sicherungsniveau vor Steuern in der gesetzlichen Rentenversicherung
 
 Das Sicherungsniveau vor Steuern beträgt für das Jahr 2020 48,21 Prozent.
 
-
-## § 3 – Allgemeiner Rentenwert und allgemeiner Rentenwert (Ost) in der Alterssicherung der Landwirte
+# § 3 – Allgemeiner Rentenwert und allgemeiner Rentenwert (Ost) in der Alterssicherung der Landwirte
 
 (1) Der allgemeine Rentenwert in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2020 15,79 Euro.
 
 (2) Der allgemeine Rentenwert (Ost) in der Alterssicherung der Landwirte beträgt ab dem 1. Juli 2020 15,32 Euro.
 
-
-## § 4 – Anpassungsfaktor in der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+# § 4 – Anpassungsfaktor in der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2020 anzupassenden Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44 Absatz 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt 1,0345.
 
 (2) Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das Pflegegeld der gesetzlichen Unfallversicherung im Sinne des § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch für Versicherungsfälle, die vor dem 1. Juli 2020 eingetreten sind, werden zum 1. Juli 2020 angepasst. Der Anpassungsfaktor beträgt 1,0420.
 
-
-## § 5 – Pflegegeld der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
+# § 5 – Pflegegeld der gesetzlichen Unfallversicherung in den alten Ländern und den neuen Ländern
 
 Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2020 an
 
@@ -60,12 +52,10 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli 2020 an
 
 2. für Versicherungsfälle, auf die § 215 Absatz 5 des Siebten Buches Sozialgesetzbuch anzuwenden ist, zwischen 369 Euro und 1 483 Euro.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2020 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

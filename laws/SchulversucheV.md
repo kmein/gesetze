@@ -1,15 +1,11 @@
-# [SchulversucheV] Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten, an denen Schulversuche durchgeführt werden  (SchulversucheV)
-
-Ausfertigungsdatum: 27.06.1979
-
+% Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten, an denen Schulversuche durchgeführt werden  (SchulversucheV)
+% Ausfertigungsdatum: 27.06.1979
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 2 Abs. 3 Nr. 2 des Bundesausbildungsförderungsgesetzes in der Fassung der Bekanntmachung vom 9. April 1976 (BGBl. I S. 989) verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
-
-## § 1 – Ausbildungsstätten
+# § 1 – Ausbildungsstätten
 
 (1) Ausbildungsförderung nach dem Bundesausbildungsförderungsgesetz wird geleistet für den Besuch
 
@@ -19,8 +15,7 @@ Auf Grund des § 2 Abs. 3 Nr. 2 des Bundesausbildungsförderungsgesetzes in der 
 
 (2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung im Rahmen eines von der zuständigen Landesbehörde genehmigten Schulversuchs oder an einer zugelassenen Versuchsschule durchgeführt wird.
 
-
-## § 2 – Förderungsrechtliche Stellung der Auszubildenden
+# § 2 – Förderungsrechtliche Stellung der Auszubildenden
 
 (1) Die Auszubildenden an den in § 1 Nr. 1 bezeichneten Ausbildungsstätten erhalten Ausbildungsförderung
 
@@ -38,12 +33,10 @@ Für die Teilnahme an einem Praktikum im Sinne des § 2 Abs. 4 des Gesetzes, das
 
 2. im vierten Ausbildungsjahr wie Studenten an Hochschulen.
 
-
-## § 3 – Berlin-Klausel
+# § 3 – Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im Land Berlin.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1979 in Kraft.

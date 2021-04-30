@@ -1,28 +1,21 @@
-# [KStoffVerfMAusbV 2012] Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
-
-Ausfertigungsdatum: 21.05.2012
-
+% Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
+% Ausfertigungsdatum: 21.05.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik wird nach § 4 Absatz 1 des Berufsbildungsgesetzes staatlich anerkannt.
 
-
-## § 2 – Dauer der Berufsausbildung
+# § 2 – Dauer der Berufsausbildung
 
 Die Ausbildung dauert drei Jahre.
 
-
-## § 3 – Struktur der Berufsausbildung
+# § 3 – Struktur der Berufsausbildung
 
 Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die Ausbildung in einer der Fachrichtungen
 
@@ -40,8 +33,7 @@ Die Berufsausbildung gliedert sich in gemeinsame Ausbildungsinhalte und in die A
 
 7. Kunststofffenster.
 
-
-## § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
+# § 4 – Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
@@ -219,8 +211,7 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 7. Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse.
 
-
-## § 5 – Durchführung der Berufsausbildung
+# § 5 – Durchführung der Berufsausbildung
 
 (1) Die in dieser Verordnung genannten Fertigkeiten, Kenntnisse und Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbstständiges Planen, Durchführen und Kontrollieren einschließt. Diese Befähigung ist auch in Prüfungen nach den §§ 6 bis 33 nachzuweisen.
 
@@ -228,15 +219,13 @@ Gemeinsame integrative Fertigkeiten, Kenntnisse und Fähigkeiten:
 
 (3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen Ausbildungsnachweis während der Ausbildungszeit zu führen. Die Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig durchzusehen.
 
-
-## § 6 – Abschlussprüfung in der Fachrichtung Formteile
+# § 6 – Abschlussprüfung in der Fachrichtung Formteile
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 7 – Teil 1 der Abschlussprüfung in der Fachrichtung Formteile
+# § 7 – Teil 1 der Abschlussprüfung in der Fachrichtung Formteile
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -266,8 +255,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden; davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Formteile
+# § 8 – Teil 2 der Abschlussprüfung in der Fachrichtung Formteile
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -373,8 +361,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Formteile
+# § 9 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Formteile
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -407,15 +394,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 10 – Abschlussprüfung in der Fachrichtung Halbzeuge
+# § 10 – Abschlussprüfung in der Fachrichtung Halbzeuge
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 11 – Teil 1 der Abschlussprüfung in der Fachrichtung Halbzeuge
+# § 11 – Teil 1 der Abschlussprüfung in der Fachrichtung Halbzeuge
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -445,8 +430,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden; davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge
+# § 12 – Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -552,8 +536,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Halbzeuge
+# § 13 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Halbzeuge
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -586,15 +569,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 14 – Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
+# § 14 – Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 15 – Teil 1 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
+# § 15 – Teil 1 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -624,8 +605,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden; davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 16 – Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
+# § 16 – Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -735,8 +715,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 17 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Mehrschichtkautschukteile
+# § 17 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Mehrschichtkautschukteile
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -770,15 +749,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 18 – Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
+# § 18 – Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 19 – Teil 1 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
+# § 19 – Teil 1 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -808,8 +785,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden; davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 20 – Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
+# § 20 – Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -909,8 +885,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 21 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Compound- und Masterbatchherstellung
+# § 21 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Compound- und Masterbatchherstellung
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -943,15 +918,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 22 – Abschlussprüfung in der Fachrichtung Bauteile
+# § 22 – Abschlussprüfung in der Fachrichtung Bauteile
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 23 – Teil 1 der Abschlussprüfung in der Fachrichtung Bauteile
+# § 23 – Teil 1 der Abschlussprüfung in der Fachrichtung Bauteile
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -981,8 +954,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden; davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 24 – Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile
+# § 24 – Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -1084,8 +1056,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 25 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Bauteile
+# § 25 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Bauteile
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1119,15 +1090,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 26 – Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
+# § 26 – Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 27 – Teil 1 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
+# § 27 – Teil 1 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -1157,8 +1126,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden; davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 28 – Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
+# § 28 – Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -1264,8 +1232,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 29 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Faserverbundtechnologie
+# § 29 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Faserverbundtechnologie
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1298,15 +1265,13 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 30 – Abschlussprüfung in der Fachrichtung Kunststofffenster
+# § 30 – Abschlussprüfung in der Fachrichtung Kunststofffenster
 
 (1) Die Abschlussprüfung besteht aus den beiden zeitlich auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen, dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit dem im Berufsschulunterricht zu vermittelnden, für die Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten, Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit einbezogen werden, als es für die Feststellung der Berufsbefähigung erforderlich ist.
 
 (2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der Abschlussprüfung mit 25 Prozent und Teil 2 der Abschlussprüfung mit 75 Prozent gewichtet.
 
-
-## § 31 – Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofffenster
+# § 31 – Teil 1 der Abschlussprüfung in der Fachrichtung Kunststofffenster
 
 (1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -1336,8 +1301,7 @@ kann;
 
 3. die Prüfungszeit beträgt insgesamt acht Stunden, davon für die Erstellung des Prüfungsproduktes sechseinhalb Stunden und für die schriftlich zu lösenden Aufgaben 90 Minuten.
 
-
-## § 32 – Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster
+# § 32 – Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -1433,8 +1397,7 @@ kann;
 
 3. die Prüfungszeit beträgt 60 Minuten.
 
-
-## § 33 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofffenster
+# § 33 – Gewichtungs- und Bestehensregelungen in der Fachrichtung Kunststofffenster
 
 (1) Die einzelnen Prüfungsbereiche sind wie folgt zu gewichten:
 
@@ -1469,13 +1432,11 @@ bewertet worden sind.
 
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2 der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 34 – Inkrafttreten, Außerkrafttreten
+# § 34 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt die Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik/zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik vom 7. April 2006 (BGBl. I S. 905, 1293) außer Kraft.
 
-
-## Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
+# Anlage – (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und Kautschuktechnik
 
 (Fundstelle: BGBl. I 2012, 1185 - 1200)
 
@@ -1493,11 +1454,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -1717,11 +1676,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -1902,11 +1859,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -2071,11 +2026,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -2244,11 +2197,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -2367,11 +2318,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -2474,11 +2423,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -2676,11 +2623,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 
@@ -2825,11 +2770,9 @@ Fertigkeiten, Kenntnisse und Fähigkeiten
 Zeitliche Richtwerte  
 in Wochen
 
-1\. bis 18.  
-Monat
+1\. bis 18. Monat
 
-19\. bis 36.  
-Monat
+19\. bis 36. Monat
 
 1
 

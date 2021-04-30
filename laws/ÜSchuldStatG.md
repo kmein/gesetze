@@ -1,20 +1,15 @@
-# [ÜSchuldStatG] Gesetz über die Statistik der Überschuldung privater Personen  (Überschuldungsstatistikgesetz - ÜSchuldStatG)
-
-Ausfertigungsdatum: 22.12.2011
-
+% Gesetz über die Statistik der Überschuldung privater Personen  (Überschuldungsstatistikgesetz - ÜSchuldStatG)
+% Ausfertigungsdatum: 22.12.2011
  
-
-## § 1 – Art und Zweck
+# § 1 – Art und Zweck
 
 Zur Darstellung und Bewertung der Situation überschuldeter privater Personen wird eine Bundesstatistik durchgeführt.
 
-
-## § 2 – Durchführung
+# § 2 – Durchführung
 
 Die Daten werden vom Statistischen Bundesamt erhoben und aufbereitet.
 
-
-## § 3 – Erhebungseinheiten
+# § 3 – Erhebungseinheiten
 
 Erhebungseinheiten sind
 
@@ -26,13 +21,11 @@ Erhebungseinheiten sind
 
 4. Personen, für die von den Schuldner- oder Insolvenzberatungsstellen nach den Nummern 1 bis 3 eine Beratung dokumentiert ist.
 
-
-## § 4 – Periodizität
+# § 4 – Periodizität
 
 Die Erhebungen werden jährlich für das vorangegangene Kalenderjahr (Berichtsjahr) durchgeführt, erstmals für das Berichtsjahr 2011.
 
-
-## § 5 – Erhebungsmerkmale, Berichtszeitpunkte und -zeiträume
+# § 5 – Erhebungsmerkmale, Berichtszeitpunkte und -zeiträume
 
 (1) Für die Schuldner- und Insolvenzberatungsstellen nach § 3 Nummer 1 bis 3 werden folgende Erhebungsmerkmale erfasst:
 
@@ -104,8 +97,7 @@ Die Angaben zu den Nummern 1 bis 4 werden zum 31. Dezember des Berichtsjahres, d
 
 Die Angaben zu den Nummern 2 und 3 werden zum 31. Dezember des Berichtsjahres oder zum Zeitpunkt der Beendigung der Beratung, die Angaben zu den Nummern 4, 22 und 23 werden für das Berichtsjahr und die Angaben zu den Nummern 7 bis 21 und 24 werden zu Beginn der Beratung erfasst.
 
-
-## § 6 – Hilfsmerkmale
+# § 6 – Hilfsmerkmale
 
 Hilfsmerkmale der Erhebung sind
 
@@ -119,8 +111,7 @@ Hilfsmerkmale der Erhebung sind
 
 Die Angaben nach den Nummern 1, 3 und 4 dürfen beim Statistischen Bundesamt gespeichert werden, bis die Beratung der Personen bei den Schuldner- oder Insolvenzberatungsstellen beendet ist und die entsprechenden Angaben für die Überschuldungsstatistik vom Statistischen Bundesamt abschließend aufbereitet und geprüft sind.
 
-
-## § 7 – Auskunftserteilung
+# § 7 – Auskunftserteilung
 
 (1) Die Erteilung der Auskunft nach den §§ 5 und 6 durch die Schuldner- oder Insolvenzberatungsstellen zur Durchführung der Überschuldungsstatistik an das Statistische Bundesamt ist freiwillig.
 
@@ -128,15 +119,13 @@ Die Angaben nach den Nummern 1, 3 und 4 dürfen beim Statistischen Bundesamt ges
 
 (3) Die Auskunft soll dem Statistischen Bundesamt spätestens bis zum 15. Februar des auf das Berichtsjahr folgenden Kalenderjahres elektronisch erteilt werden.
 
-
-## § 8 – Übermittlung von Tabellen und Einzelangaben an oberste Bundes- oder Landesbehörden oder an Statistikstellen der Gemeinden oder Gemeindeverbände
+# § 8 – Übermittlung von Tabellen und Einzelangaben an oberste Bundes- oder Landesbehörden oder an Statistikstellen der Gemeinden oder Gemeindeverbände
 
 (1) Für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung dürfen den obersten Bundes- oder Landesbehörden vom Statistischen Bundesamt Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit einzelne Tabellenfelder nur einen einzigen Fall ausweisen. Für die Regelung von Einzelfällen dürfen diese Tabellen nicht übermittelt werden.
 
 (2) Für ausschließlich kommunalstatistische Zwecke darf das Statistische Bundesamt den für statistische Aufgaben zuständigen Stellen der Gemeinden oder Gemeindeverbände (Statistikstellen) auf Ersuchen für deren Zuständigkeitsbereich Einzelangaben zu den Erhebungsmerkmalen übermitteln. Die Übermittlung ist nur zulässig, wenn das Statistikgeheimnis durch gesetzlich vorgeschriebene Maßnahmen, insbesondere zur räumlichen, organisatorischen und personellen Trennung der Statistikstellen von den für nichtstatistische Aufgaben zuständigen Stellen der Gemeinden oder Gemeindeverbände, gewährleistet ist.
 
-
-## § 9 – Bericht
+# § 9 – Bericht
 
 Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember 2014 einen Bericht vor, in dem sie darlegt,
 
@@ -146,7 +135,6 @@ Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Dezember 2014 einen
 
 Der Bericht darf keine personenbezogenen Daten enthalten.
 
-
-## § 10 – Inkrafttreten
+# § 10 – Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2012 in Kraft.

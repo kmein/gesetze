@@ -1,15 +1,11 @@
-# [NSGSylV] Verordnung über die Festsetzung des Naturschutzgebietes „Sylter Außenriff – Östliche Deutsche Bucht“   (NSGSylV)
-
-Ausfertigungsdatum: 22.09.2017
-
+% Verordnung über die Festsetzung des Naturschutzgebietes „Sylter Außenriff – Östliche Deutsche Bucht“   (NSGSylV)
+% Ausfertigungsdatum: 22.09.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 57 Absatz 2 in Verbindung mit Absatz 1 und 3, § 56 Absatz 1, § 32 Absatz 2 und 3, § 20 Absatz 2, § 22 Absatz 1 sowie § 23 Absatz 1 und Absatz 2 Satz 1 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), von denen § 57 Absatz 2 durch Artikel 421 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
-
-## § 1 – Erklärung zum Naturschutzgebiet
+# § 1 – Erklärung zum Naturschutzgebiet
 
 Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels wird zum Naturschutzgebiet erklärt. Das Naturschutzgebiet erhält die Bezeichnung „Sylter Außenriff – Östliche Deutsche Bucht“. Es ist Teil des zusammenhängenden europäischen ökologischen Netzes „Natura 2000“ und vereint die Gebiete
 
@@ -17,8 +13,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 2. „Östliche Deutsche Bucht“, als Europäisches Vogelschutzgebiet nach Artikel 3 Absatz 2 Buchstabe a der Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom 30. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7), die durch die Richtlinie 2013/17/EU (ABl. L 158 vom 10.6.2013, S. 193) geändert worden ist, registriert.
 
-
-## § 2 – Schutzgegenstand
+# § 2 – Schutzgegenstand
 
 (1) Das Naturschutzgebiet „Sylter Außenriff – Östliche Deutsche Bucht“ hat eine Fläche von 5 603 Quadratkilometern und liegt in der südlichen Nordsee. Es umfasst die Außengründe vor Sylt und Amrum und den Moränenrücken der nordöstlichen Flanken des Elbe-Urstromtals.
 
@@ -34,8 +29,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 (7) Die Bestimmungen nach den Absätzen 2 bis 5 haben Vorrang gegenüber der Darstellung in der Übersichtskarte nach Anlage 2.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 (1) Die Unterschutzstellung des Meeresgebietes als Naturschutzgebiet dient der Verwirklichung der Erhaltungsziele der Natura 2000-Gebiete durch dauerhafte Bewahrung des Meeresgebietes, der Vielfalt seiner für diese Gebiete maßgeblichen Lebensräume, Lebensgemeinschaften und Arten sowie der besonderen Eigenart der den nordfriesischen Inseln vorgelagerten Flachwasserbereiche der südlichen Nordsee und der Hangbereiche des sich westlich anschließenden Elbe-Urstromtals.
 
@@ -51,8 +45,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 5. der Funktion für die Vernetzung der benthischen Lebensgemeinschaften in der Deutschen Bucht.
 
-
-## § 4 – Schutzzweck des Bereiches I
+# § 4 – Schutzzweck des Bereiches I
 
 (1) Zu den im Bereich I des Naturschutzgebietes verfolgten Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die Wiederherstellung eines günstigen Erhaltungszustands
 
@@ -82,8 +75,7 @@ Das in § 2 näher bezeichnete Meeresgebiet im Bereich der deutschen ausschließ
 
 5. einer hohen Vitalität der Individuen und arttypischen Altersstruktur des Bestandes der Fische und Rundmäuler sowie der räumlichen und zeitlichen Verbreitungsmuster und Bestandsdichten ihrer natürlichen Nahrungsgrundlagen.
 
-
-## § 5 – Schutzzweck des Bereiches II
+# § 5 – Schutzzweck des Bereiches II
 
 (1) Zu den im Bereich II des Naturschutzgebietes verfolgten Schutzzwecken gehören die Erhaltung oder, soweit erforderlich, die Wiederherstellung eines günstigen Erhaltungszustands
 
@@ -141,8 +133,7 @@ j) Tordalk (Alca torda, EU-Code A200), sowie
 
 4. der natürlichen Qualität der Lebensräume mit ihren jeweiligen artspezifischen ökologischen Funktionen, ihrer Unzerschnittenheit und räumlichen Wechselbeziehungen sowie des ungehinderten Zugangs zu angrenzenden und benachbarten Meeresbereichen.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Vorbehaltlich des § 7 sind verboten
 
@@ -172,8 +163,7 @@ b) im Gebiet südlich von Bereich I in der Zeit vom 1. Oktober bis zum 15. Mai s
 
 3. Maßnahmen, die zur Erfüllung öffentlicher Aufgaben im Rahmen der Gefahrenabwehr, der Strafverfolgung, der Zollverwaltung, der Gewährleistung der Sicherheit und Leichtigkeit des Schiffsverkehrs, der Strahlenschutzvorsorge, der Seevermessung, meereskundlicher Untersuchungen und Überwachungen, der Untersuchung und Überwachung von Einrichtungen und Anlagen einschließlich Voruntersuchungen, der Fischereiaufsicht und -datenerhebung zur Sicherung der Fischbestände, des Katastrophenschutzes, der Kampfmittelbeseitigung und der Unfallbekämpfung einschließlich des Seenotrettungswesens erforderlich sind; § 34 des Bundesnaturschutzgesetzes bleibt unberührt.
 
-
-## § 7 – Zulässigkeit von bestimmten Projekten und Plänen
+# § 7 – Zulässigkeit von bestimmten Projekten und Plänen
 
 (1) Projekte
 
@@ -209,15 +199,13 @@ gelten die Absätze 1 bis 3 entsprechend.
 
 (+++ § 7 Abs. 6 Satz 1: Zur Anwendung vgl. § 9 Abs. 6 +++)
 
-
-## § 8 – Ausnahmen und Befreiungen
+# § 8 – Ausnahmen und Befreiungen
 
 (1) Von den Verboten des § 6 Absatz 1 und 2 kann das Bundesamt für Naturschutz im Einzelfall auf Antrag eine Ausnahme erteilen, soweit die Handlung nach § 34 Absatz 2 des Bundesnaturschutzgesetzes nicht zu erheblichen Beeinträchtigungen der für den Schutzzweck nach den §§ 4 und 5 maßgeblichen Bestandteile des Gebietes führen kann.
 
 (2) Von den Verboten des § 6 Absatz 1 und 2 kann das Bundesamt für Naturschutz auf Antrag nach Maßgabe des § 67 des Bundesnaturschutzgesetzes eine Befreiung gewähren.
 
-
-## § 9 – Bewirtschaftungsplan
+# § 9 – Bewirtschaftungsplan
 
 (1) Die zur Erreichung des Schutzzwecks nach den §§ 4 und 5 notwendigen Maßnahmen einschließlich der erforderlichen Wiederherstellungsmaßnahmen werden in einem Bewirtschaftungsplan dargestellt. Der Plan kann auch die zur Erreichung des Schutzzwecks nach § 3 notwendigen Maßnahmen enthalten. Er bestimmt ferner die Kontrolle des Maßnahmenerfolgs.
 
@@ -231,8 +219,7 @@ gelten die Absätze 1 bis 3 entsprechend.
 
 (6) § 7 Absatz 6 Satz 1 findet keine Anwendung.
 
-
-## § 10 – Weitergehende Vorschriften
+# § 10 – Weitergehende Vorschriften
 
 Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zählen insbesondere
 
@@ -244,13 +231,11 @@ Weitergehende Vorschriften bleiben von dieser Verordnung unberührt. Hierzu zäh
 
 4. die Vorschrift des § 329 Absatz 4 des Strafgesetzbuches.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt die Verordnung über die Festsetzung des Naturschutzgebietes „Östliche Deutsche Bucht“ vom 15. September 2005 (BGBl. I S. 2782), die zuletzt durch Artikel 2 Absatz 111 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) geändert worden ist, außer Kraft.
 
-
-## Anlage 1 – (zu § 2 Absatz 2, 4 und 5)
+# Anlage 1 – (zu § 2 Absatz 2, 4 und 5)
 
 (Fundstelle: BGBl. I 2017, 3428)
 
@@ -284,8 +269,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Gleichzeitig tritt 
 | SYL13 | 55° 02' 54,0" N | 7° 15' 24,0" E |
 | SYL1  | 55° 14' 03,9" N | 7° 12' 37,9" E |
 
-
-## Anlage 2 – (zu § 2 Absatz 6)Übersichtskarte des Naturschutzgebietes
+# Anlage 2 – (zu § 2 Absatz 6)Übersichtskarte des Naturschutzgebietes
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 63 v. 27.9.2017)
 

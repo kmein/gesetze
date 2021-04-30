@@ -1,10 +1,7 @@
-# [RVBundDiszRAnO] Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
-
-Ausfertigungsdatum: 19.10.2006
-
+% Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
+% Ausfertigungsdatum: 19.10.2006
  
-
-## ----
+# ----
 
 Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1 Satz 2 und des § 84 Satz 2 des Bundesdisziplinargesetzes vom 9. Juli 2001 (BGBl. I S. 1510), zuletzt geändert durch Artikel 11 des Gesetzes vom 22. April 2005 (BGBl. I S. 1106), wird dem Direktorium der Deutschen Rentenversicherung Bund die Befugnis übertragen,
 
@@ -20,8 +17,7 @@ Auf Grund des § 33 Abs. 5, des § 34 Abs. 2 Satz 2, des § 42 Abs. 1 Satz 2 und
 
 Diese Anordnung tritt rückwirkend am 1. Oktober 2005 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Für den Trägerausschuss des Vorstandes der Deutschen Rentenversicherung Bund  
 Der Vorsitzende

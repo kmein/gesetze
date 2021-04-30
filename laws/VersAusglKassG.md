@@ -1,22 +1,17 @@
-# [VersAusglKassG] Gesetz über die Versorgungsausgleichskasse  (VersAusglKassG)
-
-Ausfertigungsdatum: 15.07.2009
-
+% Gesetz über die Versorgungsausgleichskasse  (VersAusglKassG)
+% Ausfertigungsdatum: 15.07.2009
  
-
-## § 1 – Aufgabe
+# § 1 – Aufgabe
 
 Aufgabe der Versorgungsausgleichskasse ist es ausschließlich, die Versorgung der ausgleichsberechtigten Person bei der externen Teilung eines Anrechts im Sinne des Betriebsrentengesetzes durchzuführen, wenn die ausgleichsberechtigte Person ihr Wahlrecht hinsichtlich der Zielversorgung nach § 15 des Versorgungsausgleichsgesetzes nicht ausübt.
 
-
-## § 2 – Rechtsform, anzuwendendes Recht
+# § 2 – Rechtsform, anzuwendendes Recht
 
 (1) Die Versorgungsausgleichskasse ist eine Pensionskasse im Sinne des § 232 des Versicherungsaufsichtsgesetzes in der Rechtsform eines Versicherungsvereins auf Gegenseitigkeit.
 
 (2) Auf sie ist das Versicherungsaufsichtsgesetz anzuwenden, sofern dieses Gesetz nichts anderes bestimmt.
 
-
-## § 3 – Besondere Bestimmungen
+# § 3 – Besondere Bestimmungen
 
 (1) Die erstmalige Erlaubnis zum Geschäftsbetrieb durch die Bundesanstalt für Finanzdienstleistungsaufsicht bedarf der Zustimmung des Bundesministeriums für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium der Justiz und für Verbraucherschutz. Das Bundesministerium für Arbeit und Soziales macht die Erteilung der Erlaubnis nach Satz 1 im Bundesgesetzblatt bekannt.
 
@@ -26,8 +21,7 @@ Aufgabe der Versorgungsausgleichskasse ist es ausschließlich, die Versorgung de
 
 (4) Die Versorgungsausgleichskasse gehört einem Sicherungsfonds nach § 221 Absatz 1 des Versicherungsaufsichtsgesetzes an.
 
-
-## § 4 – Leistungsumfang
+# § 4 – Leistungsumfang
 
 (1) Die von der Versorgungsausgleichskasse durchgeführte Versicherung muss die Voraussetzungen nach § 1 Absatz 1 Satz 1 Nummer 2 und 4 Buchstabe a des Altersvorsorgeverträge-Zertifizierungsgesetzes erfüllen.
 
@@ -39,14 +33,12 @@ Aufgabe der Versorgungsausgleichskasse ist es ausschließlich, die Versorgung de
 
 § 4 Abs. 2 (Kursivdruck): IdF d. Art. 2 Abs. 19 Nr. 3 G v. 1.4.2015 I 434 mWv 1.1.2016; aufgrund offensichtl. Unrichtigkeit (doppeltes Wort) wurden in der Änderungsanweisung die Wörter: "nach der gemäß § 235 Absatz 1 Satz 1 Nummer 4 des Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung" durch die Wörter: "der gemäß § 235 Absatz 1 Satz 1 Nummer 4 des Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung" ersetzt.
 
-
-## § 5 – Beschränkung des Anrechts
+# § 5 – Beschränkung des Anrechts
 
 (1) Ein bei der Versorgungsausgleichskasse bestehendes Anrecht ist nicht übertragbar, nicht beleihbar und nicht veräußerbar. Es darf vorbehaltlich des Satzes 3 nicht vorzeitig verwertet werden. Die Versorgungsausgleichskasse kann ein Anrecht ohne Zustimmung der ausgleichsberechtigten Person bis zu der Wertgrenze in § 3 Absatz 2 Satz 1 des Betriebsrentengesetzes abfinden.
 
 (2) Eine Fortsetzung der Versorgung mit eigenen Beiträgen ist nicht möglich.
 
-
-## § 6 – Bilanzierung von Rückdeckungsversicherungen
+# § 6 – Bilanzierung von Rückdeckungsversicherungen
 
 Verträge, die von der Versorgungsausgleichskasse nach § 3 Absatz 3 bei Lebensversicherungsunternehmen eingegangen werden, sind abweichend von § 341b Absatz 1 bis 3 des Handelsgesetzbuchs mit dem Zeitwert unter Berücksichtigung des Grundsatzes der Vorsicht zu bewerten.

@@ -1,15 +1,11 @@
-# [ChemikAusbErprobV] Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Chemikanten/zur Chemikantin
-
-Ausfertigungsdatum: 12.06.2002
-
+% Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Chemikanten/zur Chemikantin
+% Ausfertigungsdatum: 12.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 212 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 3 – Teil 2 der Abschlussprüfung
+# § 3 – Teil 2 der Abschlussprüfung
 
 (1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage zur Verordnung über die Berufsausbildung zum Chemikanten/zur Chemikantin vom 27. Februar 2001 (BGBl. I S. 350) aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist. Fertigkeiten und Kenntnisse, die bereits Gegenstand von Teil 1 der Abschlussprüfung gewesen sind, sollen nur einbezogen werden, soweit es für die gemäß § 38 des Berufsbildungsgesetzes zu treffende Feststellung der Berufsbefähigung erforderlich ist.
 
@@ -73,7 +69,6 @@ Wirtschafts- und Sozialkunde</td><td style="text-align: right;">20 Prozent.</td>
 
 (7) Der praktische und der schriftliche Teil von Teil 2 der Abschlussprüfung haben dasselbe Gewicht.
 
-
-## § 5 – Übergangsregelung
+# § 5 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bis zum 31. Juli 2009 begonnen werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.

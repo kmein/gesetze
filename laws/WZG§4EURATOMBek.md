@@ -1,20 +1,15 @@
-# [WZG§4EURATOMBek] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 01.04.1964
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 01.04.1964
  
-
-## ----
+# ----
 
 Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574) wird bekanntgemacht, daß die in der Anlage wiedergegebenen Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM) von der Eintragung als Warenzeichen ausgeschlossen sind.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage – Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM)
+# Anlage – Bezeichnungen der Europäischen Atomgemeinschaft (EURATOM)
 
 1. Kennzeichen:
 

@@ -1,10 +1,7 @@
-# [BKADV] Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes gespeichert werden dürfen  (BKA-Daten-Verordnung - BKADV)
-
-Ausfertigungsdatum: 04.06.2010
-
+% Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes gespeichert werden dürfen  (BKA-Daten-Verordnung - BKADV)
+% Ausfertigungsdatum: 04.06.2010
  
-
-## § 1 – Personendaten von Beschuldigten und andere zur Identifizierung geeignete Merkmale
+# § 1 – Personendaten von Beschuldigten und andere zur Identifizierung geeignete Merkmale
 
 (1) Personendaten von Beschuldigten im Sinne des § 8 Absatz 1 Nummer 1 des Bundeskriminalamtgesetzes sind
 
@@ -80,8 +77,7 @@ f) Schuhgröße,
 
 8. Angaben zu Identitätsdokumenten wie Personalausweis, Reisepass und andere die Identitätsfeststellung fördernde Urkunden (Geburts-, Heirats- oder Sterbeurkunde).
 
-
-## § 2 – Weitere personenbezogene Daten von Beschuldigten und personenbezogene Daten von Personen, die einer Straftat verdächtig sind
+# § 2 – Weitere personenbezogene Daten von Beschuldigten und personenbezogene Daten von Personen, die einer Straftat verdächtig sind
 
 (1) Weitere personenbezogene Daten von Beschuldigten im Sinne des § 8 Absatz 2 des Bundeskriminalamtgesetzes sind
 
@@ -177,18 +173,15 @@ f) Zusatzinformationen für die automatisierte Übernahme in andere Dateien wie 
 
 2. die in Absatz 1 genannten Daten.
 
-
-## § 3 – Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des Bundeskriminalamtgesetzes
+# § 3 – Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des Bundeskriminalamtgesetzes
 
 Personenbezogene Daten im Sinne des § 8 Absatz 4 Satz 2 des Bundeskriminalamtgesetzes sind die in § 1 Absatz 1 Nummer 1 bis 3, 7, 9, 10, 13, 14, 18, 19 und 20 genannten, der Kontaktaufnahme dienenden Daten sowie die Telefon- und Telefaxnummer.
 
-
-## § 4 – Personenbezogene Daten sonstiger Personen
+# § 4 – Personenbezogene Daten sonstiger Personen
 
 Personenbezogene Daten sonstiger Personen im Sinne des § 8 Absatz 5 des Bundeskriminalamtgesetzes sind die in den §§ 1 und 2 genannten Daten.
 
-
-## § 5 – Personenbezogene Daten, die bei der Durchführung erkennungsdienstlicher Maßnahmen erhoben worden sind
+# § 5 – Personenbezogene Daten, die bei der Durchführung erkennungsdienstlicher Maßnahmen erhoben worden sind
 
 (1) Personenbezogene Daten, die bei der Durchführung erkennungsdienstlicher Maßnahmen erhoben worden sind, im Sinne des § 8 Absatz 6 des Bundeskriminalamtgesetzes sind
 
@@ -282,8 +275,7 @@ d) das Katalogfeld mit dem Eintrag, für welche internationalen Datenabgleiche n
 
 (8) Absatz 7 gilt entsprechend für Personen, deren DNA-Identifizierungsmuster dem Bundeskriminalamt durch ausländische Behörden für die in § 8 Absatz 6 Satz 1 zweite Alternative des Bundeskriminalamtgesetzes genannten Zwecke übermittelt worden ist.
 
-
-## § 6 – Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung
+# § 6 – Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung
 
 (1) Personenbezogene Daten zur Fahndung und polizeilichen Beobachtung im Sinne des § 9 Absatz 1 des Bundeskriminalamtgesetzes sind
 
@@ -355,8 +347,7 @@ e) Prüfung ausländerrechtlicher Maßnahmen, und
 
 4. andere Personen, die in einer Beziehung zur ausgeschriebenen Sache stehen, wie Leasingnehmer.
 
-
-## § 7 – Personenbezogene Daten zum Zwecke des Nachweises von Personen, die einer richterlich angeordneten Freiheitsentziehung unterliegen
+# § 7 – Personenbezogene Daten zum Zwecke des Nachweises von Personen, die einer richterlich angeordneten Freiheitsentziehung unterliegen
 
 Personenbezogene Daten zum Zwecke des Nachweises von Personen, die wegen des Verdachts oder des Nachweises einer rechtswidrigen Tat, einer richterlich angeordneten Freiheitsentziehung unterliegen, im Sinne des § 9 Absatz 2 des Bundeskriminalamtgesetzes sind
 
@@ -368,8 +359,7 @@ Personenbezogene Daten zum Zwecke des Nachweises von Personen, die wegen des Ver
 
 4. Angaben zur Haftnotierung wie Art und Anlass der Freiheitsentziehung, Einweisungsbehörde, Haftanstalt, Beginn und Ende der Haft.
 
-
-## § 8 – Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbekannten Toten
+# § 8 – Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbekannten Toten
 
 Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbekannten Toten im Sinne des § 9 Absatz 3 des Bundeskriminalamtgesetzes sind
 
@@ -389,8 +379,7 @@ Personenbezogene Daten von Vermissten, unbekannten hilflosen Personen und unbeka
 
 Zu den Daten gemäß § 5 Absatz 1 Satz 1 dürfen Personalien und Angaben zur Erreichbarkeit von Angehörigen, Kontaktpersonen sowie Betreuerinnen und Betreuern der vermissten Person, die im Fall des Auffindens benachrichtigt werden müssen, gespeichert werden.
 
-
-## § 9 – Dateien des Bundeskriminalamts nach den §§ 8 und 9 des Bundeskriminalamtgesetzes
+# § 9 – Dateien des Bundeskriminalamts nach den §§ 8 und 9 des Bundeskriminalamtgesetzes
 
 (1) Das Bundeskriminalamt führt auf der Grundlage von § 8 des Bundeskriminalamtgesetzes zur Erfüllung seiner Aufgaben Dateien der Zentralstelle,
 
@@ -428,8 +417,7 @@ dienen (Gewalttäterdateien),
 
 dienen.
 
-
-## § 10 – Speicherung der Daten in den Dateien der Zentralstelle
+# § 10 – Speicherung der Daten in den Dateien der Zentralstelle
 
 (1) Das Bundeskriminalamt kann in der nach § 34 des Bundeskriminalamtgesetzes erforderlichen Errichtungsanordnung festlegen, dass die folgenden Daten in einer Datei nach § 9 Absatz 1 gespeichert werden dürfen:
 
@@ -463,8 +451,7 @@ Für personenbezogene Daten von Personen, die einer Straftat verdächtig sind, g
 
 2. in der DNA-Analyse-Datei Daten gemäß § 5 Absatz 5.
 
-
-## § 11 – Speicherung der Daten in sonstigen Dateien der Zentralstelle
+# § 11 – Speicherung der Daten in sonstigen Dateien der Zentralstelle
 
 (1) Das Bundeskriminalamt kann in der nach § 34 des Bundeskriminalamtgesetzes erforderlichen Errichtungsanordnung festlegen, dass Daten gemäß § 6 Absatz 1 Nummer 1 bis 6 in einer Datei, die der Fahndung nach Personen oder der polizeilichen Beobachtung dient, gespeichert werden dürfen. Abweichend von Satz 1 richtet sich für Ausschreibungen nach Artikel 24 der Verordnung (EG) Nr. 1987/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 381 vom 28.12.2006, S. 4) sowie für Ausschreibungen nach Artikel 26, 32, 34, 36 und 38 des Beschlusses 2007/533/JI des Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II) (ABl. L 205 vom 7.8.2007, S. 63) die Art der Daten, die das Bundeskriminalamt im nationalen Teil des Schengener Informationssystems verarbeiten darf, nach Artikel 20 Absatz 2 und 3 und Artikel 27 des Ratsbeschlusses 2007/533/JI und nach Artikel 20 Absatz 2 der Verordnung (EG) Nr. 1987/2006.
 

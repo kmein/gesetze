@@ -1,15 +1,11 @@
-# [PatBeteiligungsV] Verordnung zur Beteiligung von Patientinnen und Patienten in der Gesetzlichen Krankenversicherung  (Patientenbeteiligungsverordnung - PatBeteiligungsV)
-
-Ausfertigungsdatum: 19.12.2003
-
+% Verordnung zur Beteiligung von Patientinnen und Patienten in der Gesetzlichen Krankenversicherung  (Patientenbeteiligungsverordnung - PatBeteiligungsV)
+% Ausfertigungsdatum: 19.12.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 140g in Verbindung mit § 140f Abs. 2 Satz 3 des Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), die durch Artikel 1 Nr. 118 des Gesetzes vom 14. November 2003 (BGBl. I S. 2190) eingefügt worden sind, verordnet das Bundesministerium für Gesundheit und Soziale Sicherung:
 
-
-## § 1 – Anforderungen an maßgebliche Organisationen auf Bundesebene
+# § 1 – Anforderungen an maßgebliche Organisationen auf Bundesebene
 
 Maßgebliche Organisationen für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen auf Bundesebene im Sinne des § 140f des Fünften Buches Sozialgesetzbuch sind Organisationen, die
 
@@ -27,8 +23,7 @@ Maßgebliche Organisationen für die Wahrnehmung der Interessen der Patientinnen
 
 7. gemeinnützige Zwecke verfolgen.
 
-
-## § 2 – Anerkannte Organisationen
+# § 2 – Anerkannte Organisationen
 
 (1) Als maßgebliche Organisationen für die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe chronisch kranker und behinderter Menschen auf Bundesebene gelten:
 
@@ -44,13 +39,11 @@ Maßgebliche Organisationen für die Wahrnehmung der Interessen der Patientinnen
 
 (3) Absatz 2 Satz 2 gilt entsprechend, wenn der Gemeinsame Bundesausschuss berechtigte Zweifel hat, dass eine der in Absatz 1 genannten oder nach § 3 anerkannten Organisationen die in § 1 Nr. 1 bis 7 genannten Kriterien noch erfüllt.
 
-
-## § 3 – Anerkennung weiterer Organisationen
+# § 3 – Anerkennung weiterer Organisationen
 
 Das Bundesministerium für Gesundheit kann auf Antrag weitere Organisationen, die nicht Mitglied der in § 2 Abs. 1 genannten Verbände sind, als maßgebliche Organisation auf Bundesebene anerkennen, wenn die antragstellende Organisation die in § 1 Nr. 1 bis 7 aufgeführten Kriterien erfüllt und diese nachweist. Die Anerkennung erfolgt durch Verwaltungsakt.
 
-
-## § 4 – Verfahren der Beteiligung
+# § 4 – Verfahren der Beteiligung
 
 (1) Die in § 2 Abs. 1 genannten und die nach § 3 anerkannten Organisationen benennen zur Wahrnehmung der in § 140f Abs. 2 und 3 des Fünften Buches Sozialgesetzbuch genannten Mitberatungsrechte einvernehmlich zu spezifischen Themen sachkundige Personen, von denen mindestens die Hälfte selbst Betroffene sein sollen. Dabei ist das Einvernehmen kenntlich zu machen. Die sachkundigen Personen haben ein Mitberatungsrecht, aber kein Stimmrecht.
 
@@ -58,12 +51,10 @@ Das Bundesministerium für Gesundheit kann auf Antrag weitere Organisationen, di
 
 (3) Die Beteiligung nach § 140f Abs. 4 des Fünften Buches Sozialgesetzbuch muss frühzeitig erfolgen. Dazu werden den in § 2 Abs. 1 genannten und den nach § 3 anerkannten Organisationen die erforderlichen Unterlagen rechtzeitig und vollständig zur Verfügung gestellt und ihnen eine angemessene Frist zur Stellungnahme eingeräumt.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

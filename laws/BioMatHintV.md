@@ -1,15 +1,11 @@
-# [BioMatHintV] Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren  (Biomaterial-Hinterlegungsverordnung - BioMatHintV)
-
-Ausfertigungsdatum: 24.01.2005
-
+% Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren  (Biomaterial-Hinterlegungsverordnung - BioMatHintV)
+% Ausfertigungsdatum: 24.01.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der zuletzt durch Artikel 7 Nr. 16 Buchstabe b und c des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden ist, und des § 4 Abs. 7 des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), der zuletzt durch Artikel 8 Nr. 1 Buchstabe a, c und d des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden ist, jeweils in Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl. I S. 514), verordnet das Deutsche Patent- und Markenamt:
 
-
-## § 1 – Notwendigkeit der Hinterlegung; biologisches Material
+# § 1 – Notwendigkeit der Hinterlegung; biologisches Material
 
 (1) Betrifft eine Erfindung biologisches Material, das der Öffentlichkeit nicht zugänglich ist und in der Patent- oder Gebrauchsmusteranmeldung nicht so beschrieben werden kann, dass ein Fachmann diese Erfindung danach ausführen kann, oder beinhaltet die Erfindung die Verwendung eines solchen Materials, so gilt die Beschreibung für die Anwendung des Patent- oder Gebrauchsmusterrechts nur dann als ausreichend, wenn
 
@@ -23,13 +19,11 @@ Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der Bekanntmachung 
 
 (3) Ist das biologische Material bereits von einem Dritten hinterlegt worden, so bedarf es keiner weiteren Hinterlegung, sofern durch die erste Hinterlegung die Ausführbarkeit der weiteren Erfindung für den in § 7 festgelegten Zeitraum sichergestellt ist.
 
-
-## § 2 – Anerkannte Hinterlegungsstellen
+# § 2 – Anerkannte Hinterlegungsstellen
 
 Anerkannt sind die internationalen Hinterlegungsstellen, die diesen Status nach Artikel 7 des Budapester Vertrags vom 28. April 1977 über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren (BGBl. 1980 II S. 1104) in seiner jeweils geltenden Fassung erworben haben, und solche wissenschaftlich anerkannten Einrichtungen, welche die Gewähr für eine ordnungsgemäße Aufbewahrung und Herausgabe von Proben nach Maßgabe dieser Verordnung bieten und rechtlich, wirtschaftlich und organisatorisch vom Anmelder und vom Hinterleger unabhängig sind.
 
-
-## § 3 – Nachreichen des Aktenzeichens der Hinterlegung
+# § 3 – Nachreichen des Aktenzeichens der Hinterlegung
 
 (1) Ist bereits aufgrund der Anmeldeunterlagen eine eindeutige Zuordnung der Anmeldung zu dem hinterlegten biologischen Material möglich, so kann das Aktenzeichen der Hinterlegung nachgereicht werden
 
@@ -39,15 +33,13 @@ Anerkannt sind die internationalen Hinterlegungsstellen, die diesen Status nach 
 
 (2) Die Frist zur Nachreichung endet jedoch spätestens einen Monat nach der Mitteilung an den Anmelder, dass ein Recht auf Akteneinsicht nach § 31 Abs. 1 Satz 1 des Patentgesetzes besteht, oder im Fall der vorzeitigen Offenlegung spätestens mit der Abgabe der Erklärung des Anmelders nach § 31 Absatz 2 Satz 1 Nummer 1 des Patentgesetzes.
 
-
-## § 4 – Freigabeerklärung
+# § 4 – Freigabeerklärung
 
 (1) Der Anmelder hat das hinterlegte biologische Material der Hinterlegungsstelle ab dem Tag der Anmeldung zur Herausgabe von Proben nach § 5 für die in § 7 festgelegte Aufbewahrungsdauer durch Abgabe einer unwiderruflichen Erklärung vorbehaltlos zur Verfügung zu stellen. Im Fall einer Dritthinterlegung muss der Anmelder durch Vorlage von Urkunden nachweisen, dass das hinterlegte biologische Material vom Hinterleger nach Satz 1 zur Verfügung gestellt worden ist.
 
 (2) Der Anmelder hat sich gegenüber der Hinterlegungsstelle unwiderruflich zu verpflichten, eine nach § 9 erforderlich werdende erneute Hinterlegung vorzunehmen oder durch einen Dritten vornehmen zu lassen.
 
-
-## § 5 – Zugang zu biologischem Material
+# § 5 – Zugang zu biologischem Material
 
 (1) Das hinterlegte biologische Material wird durch Herausgabe einer Probe auf Antrag zugänglich gemacht
 
@@ -77,8 +69,7 @@ c) für den Anmelder oder einen sonstigen Dritten, wenn dieser aufgrund einer En
 
 (6) Das Deutsche Patent- und Markenamt übermittelt der Hinterlegungsstelle und dem Anmelder oder Schutzrechtsinhaber und im Fall der Dritthinterlegung auch dem Hinterleger eine Kopie des Antrags mit der in Absatz 5 Satz 2 vorgesehenen Bestätigung.
 
-
-## § 6 – Verpflichtungserklärung
+# § 6 – Verpflichtungserklärung
 
 (1) Eine Probe wird nur dann herausgegeben, wenn der Antragsteller sich gegenüber dem Anmelder und im Fall der Dritthinterlegung auch gegenüber dem Hinterleger verpflichtet, für die Dauer der Wirkung sämtlicher Schutzrechte, die auf das hinterlegte biologische Material Bezug nehmen,
 
@@ -88,18 +79,15 @@ c) für den Anmelder oder einen sonstigen Dritten, wenn dieser aufgrund einer En
 
 (2) Wird die Probe an einen unabhängigen Sachverständigen herausgegeben, so hat dieser die Verpflichtungserklärung nach Absatz 1 abzugeben. Gegenüber dem Sachverständigen ist der Antragsteller als Dritter im Sinne des Absatzes 1 Nr. 1 anzusehen.
 
-
-## § 7 – Aufbewahrungsdauer
+# § 7 – Aufbewahrungsdauer
 
 Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang des letzten Antrags auf Abgabe einer Probe aufzubewahren, mindestens jedoch fünf Jahre über die gesetzlich bestimmte maximale Schutzdauer aller Schutzrechte, die auf das hinterlegte biologische Material Bezug nehmen, hinaus.
 
-
-## § 8 – Hinterlegung nach Maßgabe des Budapester Vertrags
+# § 8 – Hinterlegung nach Maßgabe des Budapester Vertrags
 
 Im Fall einer Hinterlegung nach dem Budapester Vertrag richten sich die Freigabeerklärung, die Herausgabe von Proben, die Verpflichtungserklärung und die Aufbewahrungsdauer ausschließlich nach den Regeln des Budapester Vertrags und der zu diesem ergangenen Ausführungsordnung (BGBl. 1980 II S. 1104, 1122) in ihrer jeweils geltenden Fassung.
 
-
-## § 9 – Erneute Hinterlegung
+# § 9 – Erneute Hinterlegung
 
 (1) Ist das nach dieser Verordnung hinterlegte biologische Material bei der anerkannten Hinterlegungsstelle nicht mehr zugänglich, so ist eine erneute Hinterlegung unter denselben Bedingungen wie denen des Budapester Vertrags zulässig und auf Anforderung der Hinterlegungsstelle vorzunehmen.
 
@@ -107,17 +95,14 @@ Im Fall einer Hinterlegung nach dem Budapester Vertrag richten sich die Freigabe
 
 (3) Jeder erneuten Hinterlegung ist eine vom Hinterleger unterzeichnete Erklärung beizufügen, in der bestätigt wird, dass das erneut hinterlegte biologische Material das Gleiche wie das ursprünglich hinterlegte Material ist.
 
-
-## § 10 – Zusammenarbeit mit dem Deutschen Patent- und Markenamt
+# § 10 – Zusammenarbeit mit dem Deutschen Patent- und Markenamt
 
 Das Deutsche Patent- und Markenamt gibt den Hinterlegungsstellen alle Informationen, die zur Erfüllung ihrer Aufgaben erforderlich sind.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Diese Verordnung findet keine Anwendung auf Patent- oder Gebrauchsmusteranmeldungen, die vor ihrem Inkrafttreten eingereicht worden sind.
 
-
-## § 12 – Inkrafttreten
+# § 12 – Inkrafttreten
 
 Diese Verordnung tritt am 28. Februar 2005 in Kraft.

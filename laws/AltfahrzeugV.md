@@ -1,10 +1,7 @@
-# [AltfahrzeugV] Verordnung über die Überlassung, Rücknahme und umweltverträgliche Entsorgung von Altfahrzeugen  (Altfahrzeug-Verordnung - AltfahrzeugV)
-
-Ausfertigungsdatum: 04.07.1997
-
+% Verordnung über die Überlassung, Rücknahme und umweltverträgliche Entsorgung von Altfahrzeugen  (Altfahrzeug-Verordnung - AltfahrzeugV)
+% Ausfertigungsdatum: 04.07.1997
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Diese Verordnung gilt für Fahrzeuge und Altfahrzeuge einschließlich ihrer Bauteile und Werkstoffe. Unbeschadet von § 3 Abs. 4 gilt dies unabhängig davon, wie das Fahrzeug während seiner Nutzung gewartet oder repariert worden ist und ob es mit vom Hersteller gelieferten Bauteilen oder mit anderen Bauteilen bestückt ist, wenn deren Einbau als Ersatz-, Austausch- oder Nachrüstteile den einschlägigen Vorschriften über die Zulassung von Fahrzeugen zum Verkehr auf öffentlichen Straßen entspricht.
 
@@ -16,8 +13,7 @@ Ausfertigungsdatum: 04.07.1997
 
 (5) Den Vorschriften dieser Verordnung unterliegen die Wirtschaftsbeteiligten sowie die Besitzer, Eigentümer und Letzthalter von Altfahrzeugen.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 (1) Im Sinne dieser Verordnung bezeichnet der Begriff
 
@@ -27,8 +23,7 @@ Ausfertigungsdatum: 04.07.1997
 
 3. "Hersteller" den Hersteller von Fahrzeugen laut Fahrzeugbrief oder laut Zulassungsbescheinigung Teil II oder den gewerblichen Importeur eines Fahrzeugs und den Hersteller oder gewerblichen Importeur von Fahrzeugteilen und -werkstoffen sowie deren Rechtsnachfolger;
 
-3a.  
-„Bevollmächtigter“ ist jede im Geltungsbereich der Verordnung niedergelassene natürliche oder juristische Person oder Personengesellschaft, die ein Hersteller ohne Niederlassung im Geltungsbereich der Verordnung beauftragt hat, in eigenem Namen sämtliche Aufgaben wahrzunehmen, um die Herstellerpflichten nach dieser Verordnung zu erfüllen;
+3a. „Bevollmächtigter“ ist jede im Geltungsbereich der Verordnung niedergelassene natürliche oder juristische Person oder Personengesellschaft, die ein Hersteller ohne Niederlassung im Geltungsbereich der Verordnung beauftragt hat, in eigenem Namen sämtliche Aufgaben wahrzunehmen, um die Herstellerpflichten nach dieser Verordnung zu erfüllen;
 
 4. "Vermeidung" Maßnahmen zur Verringerung der Menge und der Umweltschädlichkeit von Altfahrzeugen, ihren Werkstoffen und Substanzen;
 
@@ -93,8 +88,7 @@ für Kraftfahrzeuge der Klasse N1: Leergewicht gemäß Fahrzeugbrief oder Zulass
 
 2. der Betrieb Entsorgungsfachbetrieb ist und die Einhaltung der Anforderungen dieser Verordnung geprüft und dies im Überwachungszertifikat ausgewiesen ist.
 
-
-## § 3 – Rücknahmepflichten
+# § 3 – Rücknahmepflichten
 
 (1) Hersteller von Fahrzeugen sind verpflichtet, alle Altfahrzeuge ihrer Marke vom Letzthalter zurückzunehmen. Satz 1 gilt im Fall der Bevollmächtigung nach § 10a für den Bevollmächtigten mit der Maßgabe, dass alle Altfahrzeuge der Marke des jeweils vertretenen Herstellers vom Letzthalter zurückzunehmen sind. Die Hersteller von Fahrzeugen oder im Fall der Bevollmächtigung nach § 10a die Bevollmächtigten müssen die in Satz 1 bezeichneten Altfahrzeuge ab Überlassung an eine anerkannte Rücknahmestelle oder an einen anerkannten Demontagebetrieb, der vom Hersteller oder im Fall der Bevollmächtigung nach § 10a vom Bevollmächtigten zur Rücknahme bestimmt worden ist, unentgeltlich zurücknehmen.
 
@@ -124,8 +118,7 @@ für Kraftfahrzeuge der Klasse N1: Leergewicht gemäß Fahrzeugbrief oder Zulass
 
 (8) Die Hersteller von Fahrzeugen sind verpflichtet, die finanziellen und organisatorischen Mittel vorzuhalten, um ihren Pflichten nach dieser Verordnung nachzukommen. Zur Bewertung ihrer Finanzverwaltung haben sie geeignete Mechanismen zur Selbstkontrolle einzurichten.
 
-
-## § 4 – Überlassungspflichten
+# § 4 – Überlassungspflichten
 
 (1) Wer sich eines Fahrzeugs entledigt, entledigen will oder entledigen muss, ist verpflichtet, dieses nur einer anerkannten Annahmestelle, einer anerkannten Rücknahmestelle oder einem anerkannten Demontagebetrieb zu überlassen.
 
@@ -137,8 +130,7 @@ für Kraftfahrzeuge der Klasse N1: Leergewicht gemäß Fahrzeugbrief oder Zulass
 
 (5) Die Überlassung von Altfahrzeugen nach den Absätzen 1 bis 3 ist von der nach § 2 Abs. 1 Nr. 1 der Nachweisverordnung bestimmten Nachweispflicht ausgenommen.
 
-
-## § 5 – Entsorgungspflichten
+# § 5 – Entsorgungspflichten
 
 (1) Die Wirtschaftsbeteiligten stellen sicher, dass bezogen auf das durchschnittliche Fahrzeugleergewicht aller pro Jahr überlassenen Altfahrzeuge folgende Zielvorgaben erreicht werden:
 
@@ -170,8 +162,7 @@ Die Hersteller von Fahrzeugen oder deren Bevollmächtigte veröffentlichen jähr
 
 (5) Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie Empfehlungen zur einheitlichen Durchführung der Überprüfung bekanntgeben.
 
-
-## § 6 – Sachverständige
+# § 6 – Sachverständige
 
 Bescheinigungen nach § 5 Absatz 3 Satz 1 darf nur erteilen, wer
 
@@ -181,8 +172,7 @@ Bescheinigungen nach § 5 Absatz 3 Satz 1 darf nur erteilen, wer
 
 3. in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassen ist, seine Tätigkeit im Inland nur vorübergehend und gelegentlich ausüben will und seine Berufsqualifikation vor Aufnahme der Tätigkeit entsprechend den §§ 13a und 13b der Gewerbeordnung hat nachprüfen lassen; Verfahren nach dieser Nummer können über eine einheitliche Stelle abgewickelt werden.
 
-
-## § 7 – Mitteilungspflichten
+# § 7 – Mitteilungspflichten
 
 (1) Die Betreiber von Annahmestellen, Rücknahmestellen, Demontagebetrieben, Schredderanlagen und sonstigen Anlagen zur weiteren Behandlung haben die jeweils gültige Bescheinigung nach § 5 Abs. 3 Satz 1 einschließlich des Prüfberichts oder das jeweils gültige Überwachungszertifikat einer technischen Überwachungsorganisation oder einer Entsorgergemeinschaft einschließlich des Prüfberichts sowie die gemäß § 28 Absatz 1 der Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298), die zuletzt durch Artikel 5 Absatz 5 des Gesetzes vom 23. Oktober 2020 (BGBl. I S. 2232) geändert worden ist, erteilte Nummer der für die Überwachung des jeweiligen Betriebs zuständigen Behörde unverzüglich vorzulegen. Sind Annahmestellen oder Rücknahmestellen Kraftfahrzeugwerkstätten, legt die jeweils zuständige Kraftfahrzeug-Innung die Bescheinigung einschließlich des Prüfberichts der für die Überwachung des Betriebs zuständigen Behörde vor.
 
@@ -208,8 +198,7 @@ Bei Demontagebetrieben, die von einem oder mehreren Herstellern oder deren Bevol
 
 (3) Der Sachverständige (§ 6) teilt der für die Überwachung des jeweiligen Betriebs zuständigen Behörde mindestens 14 Tage vor der Überprüfung zur Erteilung der Bescheinigung nach § 5 Abs. 3 den Überprüfungstermin mit. Satz 1 gilt entsprechend bei Betrieben gemäß § 2 Abs. 2 Nr. 2.
 
-
-## § 8 – Abfallvermeidung
+# § 8 – Abfallvermeidung
 
 (1) Zur Förderung der Abfallvermeidung sind
 
@@ -221,8 +210,7 @@ Bei Demontagebetrieben, die von einem oder mehreren Herstellern oder deren Bevol
 
 (2) Werkstoffe und Bauteile von Fahrzeugen, die nach dem 1. Juli 2003 in Verkehr gebracht werden, dürfen kein Blei, Quecksilber, Kadmium oder sechswertiges Chrom enthalten. Satz 1 gilt nicht in den in Anhang II der Richtlinie 2000/53/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über Altfahrzeuge (ABl. EG Nr. L 269 S. 34) in der jeweils geltenden Fassung genannten Fällen unter den dort genannten Bedingungen, wobei die Entscheidung 2005/438/EG der Kommission in der jeweils geltenden Fassung zu beachten ist.
 
-
-## § 9 – Kennzeichnungsnormen und Demontageinformationen
+# § 9 – Kennzeichnungsnormen und Demontageinformationen
 
 (1) Die Hersteller von Fahrzeugen sind verpflichtet, in Absprache mit der Werkstoff- und Zulieferindustrie Kennzeichnungsnormen für Bauteile und Werkstoffe nach Festlegung durch die Europäische Kommission gemäß Artikel 8 Abs. 2 der Richtlinie 2000/53/EG des Europäischen Parlaments und des Rates vom 18. September 2000 über Altfahrzeuge (ABl. EG Nr. L 269 S. 34) zu verwenden, um insbesondere die Identifizierung derjenigen Bauteile und Werkstoffe zu erleichtern, die wiederverwendet oder verwertet werden können.
 
@@ -230,8 +218,7 @@ Bei Demontagebetrieben, die von einem oder mehreren Herstellern oder deren Bevol
 
 (3) Unbeschadet der Wahrung der Geschäfts- und Betriebsgeheimnisse sind die Hersteller von Fahrzeugbauteilen verpflichtet, den anerkannten Demontagebetrieben auf Anforderung angemessene Informationen zur Demontage, Lagerung und Prüfung von wiederverwendbaren Teilen zur Verfügung zu stellen.
 
-
-## § 10 – Informationspflichten
+# § 10 – Informationspflichten
 
 (1) Die Hersteller von Fahrzeugen oder deren Bevollmächtigte sind verpflichtet, in Zusammenarbeit mit den jeweiligen Wirtschaftsbeteiligten in geeigneter Weise Informationen zu veröffentlichen über
 
@@ -247,13 +234,11 @@ Die jeweiligen Wirtschaftsbeteiligten sind verpflichtet, den Herstellern oder de
 
 (2) Der Hersteller von Fahrzeugen oder dessen Bevollmächtigter hat diese Informationen den potenziellen Fahrzeugkäufern zugänglich zu machen. Die Informationen sind in die Werbeschriften für das neue Fahrzeug aufzunehmen.
 
-
-## § 10a – Bevollmächtigung
+# § 10a – Bevollmächtigung
 
 Hersteller von Fahrzeugen, die keine Niederlassung im Geltungsbereich dieser Verordnung haben, können einen Bevollmächtigten mit der Wahrnehmung ihrer Pflichten nach § 3 Absatz 1, 3 und 5, § 5 Absatz 1 Satz 2, § 9 Absatz 2 und § 10 beauftragen. Die Aufgabenerfüllung durch den Bevollmächtigten erfolgt im eigenen Namen. Jeder Hersteller darf nur einen Bevollmächtigten beauftragen. Die Beauftragung nach Satz 1 hat schriftlich und in deutscher Sprache zu erfolgen.
 
-
-## § 11 – Ordnungswidrigkeiten
+# § 11 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -301,8 +286,7 @@ Hersteller von Fahrzeugen, die keine Niederlassung im Geltungsbereich dieser Ver
 
 6. entgegen § 7 Absatz 1 eine Bescheinigung oder ein Überwachungszertifikat nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt.
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) § 5 Absatz 1 Satz 2 gilt erstmals für die Daten des Kalenderjahres 2019.
 
@@ -310,8 +294,7 @@ Hersteller von Fahrzeugen, die keine Niederlassung im Geltungsbereich dieser Ver
 
 (3) Sachverständige und Sachverständigenorganisationen, die aufgrund von § 6 nicht mehr über die erforderliche Zulassung verfügen und deren Befähigung zur Erteilung der Bescheinigungen nach § 5 Abs. 3 Satz 1 vor Inkrafttreten dieser Verordnung rechtmäßig festgestellt war, dürfen noch bis zum Ablauf von zwei Monaten nach Inkrafttreten der Verordnung Bescheinigungen erteilen. Diese müssen mit einer Geltungsdauer von längstens sechs Monaten befristet werden.
 
-
-## Anhang – Anforderungen an die Annahme und Rücknahme von Altfahrzeugen, an die ordnungsgemäße und schadlose Verwertung von Altfahrzeugen und Restkarossen sowie an die ordnungsgemäße und schadlose Entsorgung der dabei anfallenden Abfälle
+# Anhang – Anforderungen an die Annahme und Rücknahme von Altfahrzeugen, an die ordnungsgemäße und schadlose Verwertung von Altfahrzeugen und Restkarossen sowie an die ordnungsgemäße und schadlose Entsorgung der dabei anfallenden Abfälle
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2221 - 2225;  
 bzgl. der einzelnen Änderungen vgl. Fußnote

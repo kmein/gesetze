@@ -1,15 +1,11 @@
-# [LegRegG] Gesetz über die Registrierung von Betrieben zur Haltung von Legehennen  (Legehennenbetriebsregistergesetz - LegRegG)
-
-Ausfertigungsdatum: 12.09.2003
-
+% Gesetz über die Registrierung von Betrieben zur Haltung von Legehennen  (Legehennenbetriebsregistergesetz - LegRegG)
+% Ausfertigungsdatum: 12.09.2003
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Registrierung von Betrieben zur Haltung von Legehennen zum Zweck der Kennzeichnung von Eiern. Es dient auch der Umsetzung und Durchführung von Rechtsakten der Europäischen Gemeinschaft oder Europäischen Union im Anwendungsbereich des Satzes 1.
 
@@ -19,8 +15,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 2. Betriebe mit weniger als 350 Legehennen, sofern die Betriebe Eier in den Verkehr bringen, die nach Anhang VII Teil VI Abschnitt III Nr. 1 der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) zu kennzeichnen sind.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind:
 
@@ -36,8 +31,7 @@ Raum zur dauerhaften Unterbringung von Legehennen einschließlich zugehöriger A
 
 eine aus einem Stall oder mehreren Ställen bestehende örtliche, wirtschaftliche und seuchenhygienische Einheit zur Erzeugung von Eiern.
 
-
-## § 3 – Betriebsaufnahme, Registrierung
+# § 3 – Betriebsaufnahme, Registrierung
 
 (1) Ein Betrieb im Sinne des § 1 Abs. 2 darf erst aufgenommen werden, wenn der Inhaber des Betriebes diesen zuvor nach Maßgabe des Absatzes 2 der nach Landesrecht zuständigen Behörde unter Angabe der bei Betriebsaufnahme vorhandenen Ställe angezeigt hat. Die Aufnahme der Legehennenhaltung in einem weiteren Stall ist erst zulässig, wenn der Inhaber des Betriebes vor der ersten Aufstallung den Stall der zuständigen Behörde nach Maßgabe des Absatzes 2 angezeigt hat.
 
@@ -71,8 +65,7 @@ b) einem im Betrieb beschäftigten Halter gehören oder für die ein im Betrieb 
 
 (4) Die zuständige Landesbehörde kann verlangen, dass für Anzeigen nach Absatz 2 und Änderungsanzeigen nach Absatz 3 die von ihr hierfür vorgesehenen und zur Verfügung gestellten Vordrucke zu verwenden sind.
 
-
-## § 4 – Kennnummer
+# § 4 – Kennnummer
 
 (1) Die zuständige Behörde teilt dem Inhaber des Betriebes nach Abgabe der Anzeige nach § 3 Abs. 1 für jeden Stall unverzüglich eine Kennnummer mit. Die Kennnummer setzt sich aus Kennungen für das Haltungssystem und den Mitgliedstaat, einer einheitlichen Identifizierungsnummer für den Betrieb (Betriebsnummer) und einer fortlaufenden Identifizierungsnummer für den Stall (Stallnummer) zusammen.
 
@@ -80,8 +73,7 @@ b) einem im Betrieb beschäftigten Halter gehören oder für die ein im Betrieb 
 
 (3) Erfordert eine Änderungsanzeige nach § 3 Abs. 3 die Zuteilung einer neuen Kennnummer, teilt die zuständige Behörde diese dem Inhaber des Betriebes mit.
 
-
-## § 5 – Registerführung, Datenübermittlung, Datenlöschung
+# § 5 – Registerführung, Datenübermittlung, Datenlöschung
 
 (1) Die zuständige Behörde führt ein Register der Betriebe nach § 1 Abs. 2 mit den nach § 3 erhobenen Daten und den nach § 4 mitgeteilten Kennnummern.
 
@@ -113,13 +105,11 @@ soweit die Übermittlung zu dem jeweils genannten Zweck erforderlich ist. Die Ü
 
 (4) Im Falle einer Betriebsaufgabe sind die diesen Betrieb betreffenden Daten für die Dauer von drei Jahren aufzubewahren. Die Frist beginnt mit Ablauf des 31. Dezember desjenigen Jahres, in das die Aufgabe des Betriebes fällt. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu löschen. Vorschriften, nach denen eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
 
-
-## § 6 – Inverkehrbringen von Eiern
+# § 6 – Inverkehrbringen von Eiern
 
 Ab dem 1. Januar 2004 darf der Inhaber eines Betriebes im Sinne des § 1 Abs. 2 Eier nur aus einem Stall in Verkehr bringen, für den ihm eine Kennnummer mitgeteilt worden ist.
 
-
-## § 7 – Überwachung, Befugnisse der zuständigen Behörde
+# § 7 – Überwachung, Befugnisse der zuständigen Behörde
 
 (1) Die Beachtung der Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie der in § 1 Abs. 1 Satz 2 genannten Rechtsakte, soweit sie unmittelbare Geltung besitzen, unterliegt der Aufsicht der zuständigen Behörde.
 
@@ -149,8 +139,7 @@ Ab dem 1. Januar 2004 darf der Inhaber eines Betriebes im Sinne des § 1 Abs. 2 
 
 (5) Wer zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 8 – Verordnungsermächtigungen
+# § 8 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -166,13 +155,11 @@ Ab dem 1. Januar 2004 darf der Inhaber eines Betriebes im Sinne des § 1 Abs. 2 
 
 (3) Rechtsverordnungen nach Absatz 1 können ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur Umsetzung oder Durchführung von in § 1 Abs. 2 genannten Rechtsakten erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert werden.
 
-
-## § 9 – Außenverkehr
+# § 9 – Außenverkehr
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und dritter Staaten sowie den Organen und Einrichtungen der Europäischen Union obliegt dem Bundesministerium. Es kann diese Befugnis auf die Bundesanstalt für Landwirtschaft und Ernährung oder durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden übertragen. Die obersten Landesbehörden können die Befugnis nach Satz 2 auf andere Landesbehörden übertragen.
 
-
-## § 10 – Bußgeldvorschriften
+# § 10 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -194,19 +181,16 @@ Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und dritter S
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2, 3, 4 und 7 mit einer Geldbuße bis zu zehntausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
-
-## § 11 – Einziehung
+# § 11 – Einziehung
 
 Ist eine Ordnungswidrigkeit nach § 10 Abs. 1 begangen worden, so können Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. § 23 des Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
-
-## § 12 – Übergangsregelungen
+# § 12 – Übergangsregelungen
 
 (1) Abweichend von § 3 Abs. 1 Satz 1 sind Inhaber von Betrieben zur Haltung von Legehennen mit weniger als 350 Legehennen, die am 14. Februar 2008 bestehen und die ausschließlich Eier der Güteklasse B erzeugen, verpflichtet, die Anzeige nach § 3 Abs. 1 Satz 1 unter Angabe aller vorhandenen Ställe und der nach § 26 Abs. 2 der Viehverkehrsverordnung erteilten Registriernummer des Betriebs bis zum 14. April 2008 abzugeben.
 
 (2) Zu dem in § 1 Abs. 1 Satz 1 genannten Zweck übermittelt die für die Durchführung der Viehverkehrsverordnung zuständige Behörde der nach diesem Gesetz zuständigen Behörde die nach der Viehverkehrsverordnung zur Registrierung des Betriebes erhobenen Daten.
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

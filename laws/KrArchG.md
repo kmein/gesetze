@@ -1,10 +1,7 @@
-# [KrArchG] Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts
-
-Ausfertigungsdatum: 06.01.1988
-
+% Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts
+% Ausfertigungsdatum: 06.01.1988
  
-
-## § 1 – Archivierung von Unterlagen aus dem Lastenausgleich
+# § 1 – Archivierung von Unterlagen aus dem Lastenausgleich
 
 (1) Im Bundesarchiv wird ein Zentralarchiv für den Lastenausgleich (Lastenausgleichsarchiv) errichtet. Das Lastenausgleichsarchiv übernimmt als Archivgut für die wissenschaftliche Forschung bedeutsame Unterlagen aus dem Bereich des Lastenausgleichs.
 
@@ -12,19 +9,16 @@ Ausfertigungsdatum: 06.01.1988
 
 (3) Das Nähere über das abzugebende Schriftgut sowie den Inhalt des Übergabeverzeichnisses bestimmt das für Kultur und Medien zuständige Mitglied der Bundesregierung durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-
-## § 2 – Übernahme von Unterlagen der Heimatortskarteien
+# § 2 – Übernahme von Unterlagen der Heimatortskarteien
 
 (1) Das Lastenausgleichsarchiv übernimmt die Unterlagen der Heimatortskarteien des Kirchlichen Suchdienstes.
 
 (2) Der Kirchliche Suchdienst übergibt die Bestände seiner Heimatortskarteien dem Lastenausgleichsarchiv, sobald die ihm von der Bundesrepublik Deutschland übertragenen Aufgaben abgeschlossen sind.
 
-
-## § 3 – Berlin-Klausel
+# § 3 – Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-
-## § 4 – Inkrafttreten
+# § 4 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

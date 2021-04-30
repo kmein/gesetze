@@ -1,10 +1,7 @@
-# [WZG§4NBek 1986] Bekanntmachung zu § 4 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 02.01.1986
-
+% Bekanntmachung zu § 4 des Warenzeichengesetzes
+% Ausfertigungsdatum: 02.01.1986
  
-
-## ----
+# ----
 
 (1) Auf Grund des § 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird bekanntgemacht, daß das in der Anlage wiedergegebene Kennzeichen des Nordischen Ministerrats von der Eintragung als Warenzeichen ausgeschlossen ist.
 
@@ -12,13 +9,11 @@ Ausfertigungsdatum: 02.01.1986
 
 (3) Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 27. August 1985 (BGBl. I S. 1896).
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesminister der Justiz
 
-
-## Anlage
+# Anlage
 
 (Inhalt: Nicht darstellbares Warenzeichen,
 

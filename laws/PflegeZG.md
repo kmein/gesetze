@@ -1,15 +1,11 @@
-# [PflegeZG] Gesetz über die Pflegezeit  (Pflegezeitgesetz - PflegeZG)
-
-Ausfertigungsdatum: 28.05.2008
-
+% Gesetz über die Pflegezeit  (Pflegezeitgesetz - PflegeZG)
+% Ausfertigungsdatum: 28.05.2008
  
-
-## § 1 – Ziel des Gesetzes
+# § 1 – Ziel des Gesetzes
 
 Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedürftige nahe Angehörige in häuslicher Umgebung zu pflegen und damit die Vereinbarkeit von Beruf und familiärer Pflege zu verbessern.
 
-
-## § 2 – Kurzzeitige Arbeitsverhinderung
+# § 2 – Kurzzeitige Arbeitsverhinderung
 
 (1) Beschäftigte haben das Recht, bis zu zehn Arbeitstage der Arbeit fernzubleiben, wenn dies erforderlich ist, um für einen pflegebedürftigen nahen Angehörigen in einer akut aufgetretenen Pflegesituation eine bedarfsgerechte Pflege zu organisieren oder eine pflegerische Versorgung in dieser Zeit sicherzustellen.
 
@@ -19,8 +15,7 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (+++ Zur Anwendung vgl. § 9 F. 2020-05-19 +++)
 
-
-## § 3 – Pflegezeit und sonstige Freistellungen
+# § 3 – Pflegezeit und sonstige Freistellungen
 
 (1) Beschäftigte sind von der Arbeitsleistung vollständig oder teilweise freizustellen, wenn sie einen pflegebedürftigen nahen Angehörigen in häuslicher Umgebung pflegen (Pflegezeit). Der Anspruch nach Satz 1 besteht nicht gegenüber Arbeitgebern mit in der Regel 15 oder weniger Beschäftigten.
 
@@ -38,8 +33,7 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (+++ Zur Anwendung vgl. § 9 F. 2020-05-19 +++)
 
-
-## § 4 – Dauer der Inanspruchnahme
+# § 4 – Dauer der Inanspruchnahme
 
 (1) Die Pflegezeit nach § 3 beträgt für jeden pflegebedürftigen nahen Angehörigen längstens sechs Monate (Höchstdauer). Für einen kürzeren Zeitraum in Anspruch genommene Pflegezeit kann bis zur Höchstdauer verlängert werden, wenn der Arbeitgeber zustimmt. Eine Verlängerung bis zur Höchstdauer kann verlangt werden, wenn ein vorgesehener Wechsel in der Person des Pflegenden aus einem wichtigen Grund nicht erfolgen kann. Pflegezeit und Familienpflegezeit nach § 2 des Familienpflegezeitgesetzes dürfen gemeinsam die Gesamtdauer von 24 Monaten je pflegebedürftigem nahen Angehörigen nicht überschreiten. Die Pflegezeit wird auf Berufsbildungszeiten nicht angerechnet.
 
@@ -49,8 +43,7 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (4) Der Arbeitgeber kann den Erholungsurlaub, der der oder dem Beschäftigten für das Urlaubsjahr zusteht, für jeden vollen Kalendermonat der vollständigen Freistellung von der Arbeitsleistung um ein Zwölftel kürzen.
 
-
-## § 4a – Erneute Pflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
+# § 4a – Erneute Pflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 (1) Abweichend von § 4 Absatz 1 Satz 2 und 3 können Beschäftigte einmalig nach einer beendeten Pflegezeit zur Pflege oder Betreuung desselben pflegebedürftigen Angehörigen Pflegezeit erneut, jedoch insgesamt nur bis zur Höchstdauer nach § 4 Absatz 1 Satz 1 in Anspruch nehmen, wenn die Gesamtdauer nach § 4 Absatz 1 Satz 4 nicht überschritten wird und die Inanspruchnahme der beendeten Pflegezeit auf der Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie erfolgte.
 
@@ -58,15 +51,13 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (3) Abweichend von § 3 Absatz 3 Satz 6 muss sich die Pflegezeit nicht unmittelbar an die Familienpflegezeit oder an die Freistellung nach § 2 Absatz 5 des Familienpflegezeitgesetzes anschließen, wenn die Familienpflegezeit oder Freistellung auf Grund der Sonderregelungen aus Anlass der COVID-19-Pandemie erfolgte und die Gesamtdauer nach § 4 Absatz 1 Satz 4 nicht überschritten wird.
 
-
-## § 5 – Kündigungsschutz
+# § 5 – Kündigungsschutz
 
 (1) Der Arbeitgeber darf das Beschäftigungsverhältnis von der Ankündigung, höchstens jedoch zwölf Wochen vor dem angekündigten Beginn, bis zur Beendigung der kurzzeitigen Arbeitsverhinderung nach § 2 oder der Freistellung nach § 3 nicht kündigen.
 
 (2) In besonderen Fällen kann eine Kündigung von der für den Arbeitsschutz zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle ausnahmsweise für zulässig erklärt werden. Die Bundesregierung kann hierzu mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften erlassen.
 
-
-## § 6 – Befristete Verträge
+# § 6 – Befristete Verträge
 
 (1) Wenn zur Vertretung einer Beschäftigten oder eines Beschäftigten für die Dauer der kurzzeitigen Arbeitsverhinderung nach § 2 oder der Freistellung nach § 3 eine Arbeitnehmerin oder ein Arbeitnehmer eingestellt wird, liegt hierin ein sachlicher Grund für die Befristung des Arbeitsverhältnisses. Über die Dauer der Vertretung nach Satz 1 hinaus ist die Befristung für notwendige Zeiten einer Einarbeitung zulässig.
 
@@ -76,8 +67,7 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (4) Wird im Rahmen arbeitsrechtlicher Gesetze oder Verordnungen auf die Zahl der beschäftigten Arbeitnehmerinnen und Arbeitnehmer abgestellt, sind bei der Ermittlung dieser Zahl Arbeitnehmerinnen und Arbeitnehmer, die nach § 2 kurzzeitig an der Arbeitsleistung verhindert oder nach § 3 freigestellt sind, nicht mitzuzählen, solange für sie auf Grund von Absatz 1 eine Vertreterin oder ein Vertreter eingestellt ist. Dies gilt nicht, wenn die Vertreterin oder der Vertreter nicht mitzuzählen ist. Die Sätze 1 und 2 gelten entsprechend, wenn im Rahmen arbeitsrechtlicher Gesetze oder Verordnungen auf die Zahl der Arbeitsplätze abgestellt wird.
 
-
-## § 7 – Begriffsbestimmungen
+# § 7 – Begriffsbestimmungen
 
 (1) Beschäftigte im Sinne dieses Gesetzes sind
 
@@ -99,13 +89,11 @@ Ziel des Gesetzes ist, Beschäftigten die Möglichkeit zu eröffnen, pflegebedü
 
 (4) Pflegebedürftig im Sinne dieses Gesetzes sind Personen, die die Voraussetzungen nach den §§ 14 und 15 des Elften Buches Sozialgesetzbuch erfüllen. Pflegebedürftig im Sinne von § 2 sind auch Personen, die die Voraussetzungen nach den §§ 14 und 15 des Elften Buches Sozialgesetzbuch voraussichtlich erfüllen.
 
-
-## § 8 – Unabdingbarkeit
+# § 8 – Unabdingbarkeit
 
 Von den Vorschriften dieses Gesetzes kann nicht zuungunsten der Beschäftigten abgewichen werden.
 
-
-## § 9 – Sonderregelungen aus Anlass der COVID-19-Pandemie
+# § 9 – Sonderregelungen aus Anlass der COVID-19-Pandemie
 
 (1) Abweichend von § 2 Absatz 1 haben Beschäftigte das Recht, in dem Zeitraum vom 29. Oktober 2020 bis einschließlich 30. Juni 2021 bis zu 20 Arbeitstage der Arbeit fernzubleiben, wenn die akute Pflegesituation auf Grund der COVID-19-Pandemie aufgetreten ist. Der Zusammenhang wird vermutet.
 

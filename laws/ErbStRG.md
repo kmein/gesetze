@@ -1,5 +1,3 @@
-# [ErbStRG] Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts
-
-Ausfertigungsdatum: 17.04.1974
-
+% Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts
+% Ausfertigungsdatum: 17.04.1974
  

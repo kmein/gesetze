@@ -1,15 +1,11 @@
-# [VSBInfoV] Verordnung über Informations- und Berichtspflichten nach dem Verbraucherstreitbeilegungsgesetz   (Verbraucherstreitbeilegungs-Informationspflichtenverordnung - VSBInfoV)
-
-Ausfertigungsdatum: 28.02.2016
-
+% Verordnung über Informations- und Berichtspflichten nach dem Verbraucherstreitbeilegungsgesetz   (Verbraucherstreitbeilegungs-Informationspflichtenverordnung - VSBInfoV)
+% Ausfertigungsdatum: 28.02.2016
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 42 Absatz 1 Nummer 1 bis 4 des Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S. 254) verordnet das Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie:
 
-
-## § 1 – Antrag auf Anerkennung als private Verbraucherschlichtungsstelle
+# § 1 – Antrag auf Anerkennung als private Verbraucherschlichtungsstelle
 
 Der Antrag einer Einrichtung auf Anerkennung als Verbraucherschlichtungsstelle muss insbesondere folgende Informationen enthalten:
 
@@ -37,13 +33,11 @@ d) ob sie ihre Zuständigkeit für die in § 4 Absatz 4 des Verbraucherstreitbei
 
 8. Angaben zur Rechtswirkung des Ergebnisses des Streitbeilegungsverfahrens, insbesondere inwieweit das Ergebnis verbindlich ist, und zu den Kosten des Streitbeilegungsverfahrens.
 
-
-## § 2 – Angaben für die Liste der Verbraucherschlichtungsstellen
+# § 2 – Angaben für die Liste der Verbraucherschlichtungsstellen
 
 Für die Liste der Verbraucherschlichtungsstellen nach § 32 Absatz 2 Nummer 2, Absatz 3 Nummer 2 und § 33 Absatz 1 des Verbraucherstreitbeilegungsgesetzes sind die Angaben nach § 1 Nummer 1 und 5 bis 8 zu übermitteln.
 
-
-## § 3 – Webseite der Verbraucherschlichtungsstelle
+# § 3 – Webseite der Verbraucherschlichtungsstelle
 
 Die Verbraucherschlichtungsstelle veröffentlicht die folgenden Informationen leicht zugänglich auf ihrer Webseite:
 
@@ -63,8 +57,7 @@ Die Verbraucherschlichtungsstelle veröffentlicht die folgenden Informationen le
 
 8. die Verknüpfung per Link auf die Webseite der Europäischen Kommission mit der Liste der Verbraucherschlichtungsstellen sowie die Verknüpfung per Link auf die Webseite zu der Europäischen Plattform zur Online-Streitbeilegung.
 
-
-## § 4 – Tätigkeitsbericht der Verbraucherschlichtungsstelle
+# § 4 – Tätigkeitsbericht der Verbraucherschlichtungsstelle
 
 (1) Der Tätigkeitsbericht der Verbraucherschlichtungsstelle (§ 34 Absatz 1 des Verbraucherstreitbeilegungsgesetzes) muss insbesondere folgende Informationen enthalten:
 
@@ -92,8 +85,7 @@ f) wenn bekannt, Anteil der grenzübergreifenden Streitigkeiten,
 
 (2) Der Tätigkeitsbericht ist ab Anerkennung oder Einrichtung der Verbraucherschlichtungsstelle für jedes Kalenderjahr, jedoch erstmals für das Jahr 2016, bis zum 1. Februar des Folgejahres zu veröffentlichen.
 
-
-## § 5 – Evaluationsbericht der Verbraucherschlichtungsstelle
+# § 5 – Evaluationsbericht der Verbraucherschlichtungsstelle
 
 (1) Der Evaluationsbericht der Verbraucherschlichtungsstelle (§ 34 Absatz 2 Satz 1 des Verbraucherstreitbeilegungsgesetzes) muss ergänzend zum Tätigkeitsbericht insbesondere folgende Informationen enthalten:
 
@@ -107,8 +99,7 @@ f) wenn bekannt, Anteil der grenzübergreifenden Streitigkeiten,
 
 (2) Der Evaluationsbericht ist erstmals zum 1. Februar 2018 zu übermitteln und danach zum 1. Februar jedes geraden Kalenderjahres ab Anerkennung oder Einrichtung der Verbraucherschlichtungsstelle jeweils für die zwei vorangegangenen Kalenderjahre.
 
-
-## § 6 – Verbraucherschlichtungsbericht und Auswertung der Evaluationsberichte der Verbraucherschlichtungsstellen
+# § 6 – Verbraucherschlichtungsbericht und Auswertung der Evaluationsberichte der Verbraucherschlichtungsstellen
 
 (1) Der Verbraucherschlichtungsbericht der Zentralen Anlaufstelle (§ 35 Absatz 1 des Verbraucherstreitbeilegungsgesetzes) enthält insbesondere folgende Informationen:
 
@@ -120,12 +111,10 @@ f) wenn bekannt, Anteil der grenzübergreifenden Streitigkeiten,
 
 (2) Für den Inhalt der Auswertung der gemäß § 35 Absatz 2 des Verbraucherstreitbeilegungsgesetzes zu erstellenden Evaluationsberichte der Verbraucherschlichtungsstellen gilt Absatz 1 entsprechend.
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Diese Verordnung tritt am 1. April 2016 in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

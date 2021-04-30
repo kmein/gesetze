@@ -1,15 +1,11 @@
-# [ÄApprO 2002] Approbationsordnung für Ärzte
-
-Ausfertigungsdatum: 27.06.2002
-
+% Approbationsordnung für Ärzte
+% Ausfertigungsdatum: 27.06.2002
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der Bekanntmachung vom 16. April 1987 (BGBl. I S. 1218), zuletzt geändert durch Artikel 8 des Gesetzes vom 27. April 1993 (BGBl. I S. 512) in Verbindung mit Artikel 1 Nr. 1 des Gesetzes vom 27. September 1993 (BGBl. I S. 1666), verordnet das Bundesministerium für Gesundheit:
 
-
-## § 1 – Ziele und Gliederung der ärztlichen Ausbildung
+# § 1 – Ziele und Gliederung der ärztlichen Ausbildung
 
 (1) Ziel der ärztlichen Ausbildung ist der wissenschaftlich und praktisch in der Medizin ausgebildete Arzt, der zur eigenverantwortlichen und selbständigen ärztlichen Berufsausübung, zur Weiterbildung und zu ständiger Fortbildung befähigt ist. Die Ausbildung soll grundlegende Kenntnisse, Fähigkeiten und Fertigkeiten in allen Fächern vermitteln, die für eine umfassende Gesundheitsversorgung der Bevölkerung erforderlich sind. Die Ausbildung zum Arzt wird auf wissenschaftlicher Grundlage und praxis- und patientenbezogen durchgeführt. Sie soll
 
@@ -60,8 +56,7 @@ Die Regelstudienzeit im Sinne des § 10 Abs. 2 des Hochschulrahmengesetzes betr�
 
 Die in § 27 genannten Fächer und Querschnittsbereiche werden von der Universität zwischen dem Bestehen des Ersten Abschnitts der Ärztlichen Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung geprüft.
 
-
-## § 2 – Unterrichtsveranstaltungen
+# § 2 – Unterrichtsveranstaltungen
 
 (1) Die Universität vermittelt eine Ausbildung, die den in § 1 Abs. 1 genannten Zielen entspricht und die es den Studierenden ermöglicht, die dazu erforderlichen Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben, die in den in dieser Verordnung vorgesehenen Prüfungen gefordert werden. Zu diesem Zweck werden unter Berücksichtigung der Vorgaben der Anlage 1 zu dieser Verordnung neben Vorlesungen insbesondere praktische Übungen und Seminare durchgeführt. Darüber hinaus kann die Universität weitere Unterrichtsformen, z. B. gegenstandsbezogene Studiengruppen, vorsehen. Praktische Übungen umfassen den Unterricht am Krankenbett, Praktika und Blockpraktika.
 
@@ -89,8 +84,7 @@ Bei der praktischen Unterweisung am Patienten entfällt je die Hälfte der Unter
 
 (9) Lehrveranstaltungen sind regelmäßig auf ihren Erfolg zu evaluieren. Die Ergebnisse sind bekannt zu geben.
 
-
-## § 3 – Praktisches Jahr
+# § 3 – Praktisches Jahr
 
 (1) Das Praktische Jahr nach § 1 Absatz 2 Satz 1 Nummer 1 findet nach Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung statt. Es beginnt jeweils in der zweiten Hälfte der Monate Mai und November. Die Ausbildung gliedert sich in Ausbildungsabschnitte von je 16 Wochen
 
@@ -118,8 +112,7 @@ Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentl
 
 (7) Die Ausbildung nach Absatz 1 ist regelmäßig auf ihren Erfolg zu evaluieren. Die Ergebnisse sind bekannt zu geben.
 
-
-## § 4 – Durchführung des Praktischen Jahres in außeruniversitären Einrichtungen
+# § 4 – Durchführung des Praktischen Jahres in außeruniversitären Einrichtungen
 
 (1) Sofern das Praktische Jahr nach § 3 Abs. 1 in Verbindung mit § 3 Abs. 2 Satz 1 in Krankenhäusern, die nicht Krankenhäuser der Universität sind, durchgeführt wird, muss in der Abteilung, in der die Ausbildung erfolgen soll, eine ausreichende Anzahl von Ärzten sowohl für die ärztliche Versorgung als auch für die Ausbildungsaufgaben zur Verfügung stehen. Ferner müssen regelmäßige pathologisch-anatomische Demonstrationen durch einen Facharzt für Pathologie und klinische Konferenzen gewährleistet sein. Zur Ausbildung auf den Fachgebieten der Inneren Medizin und der Chirurgie sind nur Abteilungen oder Einheiten geeignet, die über mindestens 60 Behandlungsplätze mit unterrichtsgeeigneten Patienten verfügen. Auf diesen Abteilungen muss außerdem eine konsiliarische Betreuung durch nicht vertretene Fachärzte, insbesondere für Augenheilkunde, für Hals-, Nasen-, Ohrenheilkunde, für Neurologie und für diagnostische Radiologie oder Strahlentherapie sichergestellt sein.
 
@@ -129,8 +122,7 @@ Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentl
 
 (4) Für die Durchführung der praktischen Ausbildung in Lehrpraxen und anderen Einrichtungen der ambulanten ärztlichen Krankenversorgung nach § 3 Absatz 2a legen die Universitäten die Anforderungen im Einvernehmen mit der nach Landesrecht zuständigen Stelle fest.
 
-
-## § 5 – Ausbildung in erster Hilfe
+# § 5 – Ausbildung in erster Hilfe
 
 (1) Die Ausbildung in erster Hilfe (§ 1 Abs. 2 Satz 1 Nr. 2) soll durch theoretischen Unterricht und praktische Unterweisungen gründliches Wissen und praktisches Können in erster Hilfe vermitteln.
 
@@ -148,8 +140,7 @@ Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentl
 
 (3) Die Teilnahme an einer Ausbildung in erster Hilfe ist bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen.
 
-
-## § 6 – Krankenpflegedienst
+# § 6 – Krankenpflegedienst
 
 (1) Der dreimonatige Krankenpflegedienst (§ 1 Abs. 2 Satz 1 Nr. 3) ist vor Beginn des Studiums oder während der unterrichtsfreien Zeiten des Studiums vor der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung in einem Krankenhaus oder einer Rehabilitationseinrichtung mit einem vergleichbaren Pflegeaufwand abzuleisten. Er hat den Zweck, den Studienanwärter oder Studierenden in Betrieb und Organisation eines Krankenhauses einzuführen und ihn mit den üblichen Verrichtungen der Krankenpflege vertraut zu machen. Der Krankenpflegedienst kann in drei Abschnitten zu jeweils einem Monat abgeleistet werden.
 
@@ -169,8 +160,7 @@ Die Ausbildung nach Satz 3 kann in Teilzeit mit 50 oder 75 Prozent der wöchentl
 
 (4) Die Ableistung des Krankenpflegedienstes ist bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen. In den Fällen des Absatzes 1 erfolgt der Nachweis durch eine Bescheinigung nach Anlage 5 zu dieser Verordnung.
 
-
-## § 7 – Famulatur
+# § 7 – Famulatur
 
 (1) Die Famulatur hat den Zweck, die Studierenden mit der ärztlichen Patientenversorgung in Einrichtungen der ambulanten und stationären Krankenversorgung vertraut zu machen.
 
@@ -188,18 +178,15 @@ Satz 1 Nummer 3 ist auf Studierende, die bis zum 10. Juni 2015 erstmals den Antr
 
 (4) Die viermonatige Famulatur (§ 1 Absatz 2 Satz 1 Nummer 4) ist während der unterrichtsfreien Zeiten zwischen dem Bestehen des Ersten Abschnitts der Ärztlichen Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung abzuleisten. Sie ist bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung in den Fällen des Absatzes 2 durch Bescheinigungen nach dem Muster der Anlage 6 zu dieser Verordnung nachzuweisen.
 
-
-## § 8 – Einrichtung der für das Prüfungswesen zuständigen Stelle
+# § 8 – Einrichtung der für das Prüfungswesen zuständigen Stelle
 
 Die in § 1 Abs. 2 Satz 1 Nr. 5 vorgesehenen Prüfungen werden vor der nach Landesrecht zuständigen Stelle abgelegt.
 
-
-## § 9 – Zuständige Stelle
+# § 9 – Zuständige Stelle
 
 Die nach § 1 Abs. 2 Satz 1 Nr. 5 vorgesehenen Prüfungen werden vor der zuständigen Stelle des Landes abgelegt, in dem der Prüfling im Zeitpunkt der Meldung zur Prüfung Medizin studiert oder zuletzt Medizin studiert hat. Bei Prüfungsbewerbern, bei denen Zeiten eines verwandten Studiums oder eines im Ausland betriebenen Medizinstudiums oder verwandten Studiums und gegebenenfalls die im Rahmen eines solchen Studiums abgelegten Prüfungen nach § 12 angerechnet werden können, gilt, sofern eine Zuständigkeit nach Satz 1 nicht gegeben ist, § 12 Abs. 4 Satz 2 bis 4 entsprechend. Wiederholungsprüfungen werden vor der zuständigen Stelle des Landes abgelegt, bei der die Prüfung nicht bestanden worden ist. Ausnahmen können zugelassen werden. Die Entscheidung trifft die zuständige Stelle des Landes, bei der nunmehr die Zulassung beantragt wird, im Benehmen mit der nach Satz 1, 2 oder 3 zuvor zuständigen Stelle.
 
-
-## § 10 – Meldung und Zulassung zur Prüfung
+# § 10 – Meldung und Zulassung zur Prüfung
 
 (1) Über die Zulassung zu einem Prüfungsabschnitt nach § 1 Abs. 2 Satz 1 Nr. 5 entscheidet die nach Landesrecht zuständige Stelle.
 
@@ -251,8 +238,7 @@ Soweit die in Nummer 1 Buchstabe c und d, in Nummer 2 Buchstabe b und c oder in 
 
 (7) Rechtfertigen Tatsachen die Annahme, dass beim Prüfungsbewerber ein Grund vorliegt, der zur Versagung der Approbation als Arzt wegen Fehlens einer der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3 der Bundesärzteordnung führen würde, so kann die nach Landesrecht zuständige Stelle die Vorlage weiterer Unterlagen, insbesondere ärztlicher Zeugnisse oder eines Führungszeugnisses verlangen. Sofern Zweifel an der Prüfungsfähigkeit bestehen, kann die nach Landesrecht zuständige Stelle von einem Prüfungsbewerber die Vorlage einer ärztlichen Bescheinigung auch durch einen von dieser Stelle benannten Arzt verlangen. Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 11 – Versagung der Zulassung
+# § 11 – Versagung der Zulassung
 
 Die Zulassung ist zu versagen, wenn
 
@@ -264,8 +250,7 @@ Die Zulassung ist zu versagen, wenn
 
 4. ein Grund vorliegt, der nach § 10 Absatz 7 Satz 2 eine ordnungsgemäße Prüfungsteilnahme nicht erwarten lässt oder zur Versagung der Approbation als Arzt wegen Fehlens einer der Voraussetzungen des § 3 Abs. 1 Satz 1 Nr. 2 und 3 der Bundesärzteordnung führen würde.
 
-
-## § 12 – Anrechnung von Studienzeiten und Studienleistungen
+# § 12 – Anrechnung von Studienzeiten und Studienleistungen
 
 (1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben ist, ganz oder teilweise an:
 
@@ -279,8 +264,7 @@ Die Zulassung ist zu versagen, wenn
 
 (4) Die Anrechnung oder Anerkennung erfolgt auf Antrag. Zuständig für die Entscheidungen nach den Absätzen 1 bis 3 ist die zuständige Stelle des Landes, in dem der Antragsteller für das Studium der Medizin eingeschrieben oder zugelassen ist. Bei Studierenden, die eine Einschreibung oder Zulassung für das Medizinstudium bei einer Universität im Inland noch nicht erlangt haben, ist die zuständige Stelle des Landes zuständig, in dem der Antragsteller geboren ist. Ergibt sich hiernach keine Zuständigkeit, so ist die zuständige Stelle des Landes Nordrhein-Westfalen zuständig.
 
-
-## § 13 – Art und Bewertung der Prüfung
+# § 13 – Art und Bewertung der Prüfung
 
 (1) Geprüft wird
 
@@ -305,8 +289,7 @@ Die Zulassung ist zu versagen, wenn
 
 (4) Für die Ärztliche Prüfung ist unter Berücksichtigung der Noten für den Ersten, Zweiten und Dritten Abschnitt der Ärztlichen Prüfung eine Gesamtnote nach Maßgabe des § 33 Abs. 1 zu bilden. Eine Gesamtnote wird nicht gebildet, wenn eine im Ausland abgelegte Prüfung nach § 12 als Erster Abschnitt oder Zweiter Abschnitt der Ärztlichen Prüfung angerechnet worden ist. Die Anrechnung ist auf dem Zeugnis über die Ärztliche Prüfung nach dem Muster der Anlage 12 zu dieser Verordnung zu vermerken.
 
-
-## § 14 – Schriftliche Prüfung
+# § 14 – Schriftliche Prüfung
 
 (1) In der schriftlichen Prüfung hat der Prüfling unter Aufsicht schriftlich gestellte Aufgaben zu lösen. Er hat dabei anzugeben, welche der mit den Aufgaben vorgelegten Antworten er für zutreffend hält. Die schriftliche Prüfung kann auch rechnergestützt durchgeführt werden.
 
@@ -351,8 +334,7 @@ der darüber hinaus gestellten Prüfungsfragen zutreffend beantwortet hat.
 
 (10) Die nach Landesrecht zuständige Stelle teilt den Universitäten mit, welche Prüflinge den Ersten Abschnitt der Ärztlichen Prüfung bestanden haben.
 
-
-## § 15 – Mündlich-praktische Prüfung
+# § 15 – Mündlich-praktische Prüfung
 
 (1) Der mündlich-praktische Teil des Ersten Abschnitts der Ärztlichen Prüfung und der Dritte Abschnitt der Ärztlichen Prüfung werden jeweils vor einer Prüfungskommission abgelegt. Die Prüfungskommissionen werden von der nach Landesrecht zuständigen Stelle bestellt. Die Prüfungskommissionen bestehen jeweils aus dem Vorsitzenden und
 
@@ -380,34 +362,29 @@ Für den Vorsitzenden und die weiteren Mitglieder sind Stellvertreter zu bestell
 
 (10) Die nach Landesrecht zuständige Stelle kann Aufgaben, die ihr nach dieser Verordnung bei der Durchführung mündlich-praktischer Prüfungen obliegen, einem oder mehreren von ihr zu bestellenden Beauftragten an der Universität übertragen. Die Beauftragten der nach Landesrecht zuständigen Stelle und die für sie zu bestellenden Vertreter sollen Hochschullehrer sein. Die Universitäten stellen sicher, dass die mündlich-praktischen Prüfungen den Anforderungen nach dieser Verordnung entsprechen.
 
-
-## § 16 – Prüfungstermine
+# § 16 – Prüfungstermine
 
 (1) Der schriftliche Teil des Ersten Abschnitts der Ärztlichen Prüfung wird im März und August, der Zweite Abschnitt der Ärztlichen Prüfung wird im April und Oktober durchgeführt. Der mündlich-praktische Teil des Ersten Abschnitts der Ärztlichen Prüfung wird jeweils in der vorlesungsfreien Zeit, erforderlichenfalls auch in der letzten Woche vor Beginn der vorlesungsfreien Zeit, der Dritte Abschnitt der Ärztlichen Prüfung wird jeweils in den Monaten Mai bis Juni und November bis Dezember durchgeführt.
 
 (2) Wiederholungen der schriftlichen Prüfungen werden im Rahmen der nach Absatz 1 Satz 1 für die schriftlichen Prüfungen festgesetzten Prüfungstermine durchgeführt. Für Nach- und Wiederholungen mündlich-praktischer Prüfungen können Prüfungstermine auch außerhalb der in Absatz 1 Satz 2 genannten Prüfungszeiten vorgesehen werden.
 
-
-## § 17 – Ladung zu den Prüfungsterminen
+# § 17 – Ladung zu den Prüfungsterminen
 
 Die Ladung zur schriftlichen Prüfung wird dem Prüfling spätestens sieben, die Ladung zur mündlich-praktischen Prüfung spätestens fünf Kalendertage vor dem Prüfungstermin zugestellt.
 
-
-## § 18 – Rücktritt von der Prüfung
+# § 18 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von einem Prüfungsabschnitt oder einem Prüfungsteil zurück, so hat er die Gründe für seinen Rücktritt unverzüglich der nach Landesrecht zuständigen Stelle mitzuteilen. Genehmigt die nach Landesrecht zuständige Stelle den Rücktritt, so gilt der Prüfungsabschnitt oder der Prüfungsteil als nicht unternommen. Die Genehmigung ist nur zu erteilen, wenn ein wichtiger Grund vorliegt. Die nach Landesrecht zuständige Stelle kann im Falle einer Krankheit die Vorlage einer ärztlichen Bescheinigung auch durch einen von ihr benannten Arzt verlangen.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterlässt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt der Prüfungsabschnitt oder Prüfungsteil als nicht bestanden.
 
-
-## § 19 – Versäumnisfolgen
+# § 19 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er die Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, so hat er den Prüfungsabschnitt oder den Prüfungsteil nicht bestanden. Liegt ein wichtiger Grund für das Verhalten des Prüflings vor, so gilt der Prüfungsabschnitt oder der Prüfungsteil als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft die nach Landesrecht zuständige Stelle. § 18 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
-## § 20 – Wiederholung von Prüfungen
+# § 20 – Wiederholung von Prüfungen
 
 (1) Die einzelnen Teile des Ersten Abschnitts der Ärztlichen Prüfung, der Zweite und der Dritte Abschnitt der Ärztlichen Prüfung können jeweils zweimal wiederholt werden. Eine weitere Wiederholung ist auch nach erneutem Medizinstudium nicht zulässig. Ein bestandener Prüfungsabschnitt oder ein bestandener Prüfungsteil darf nicht wiederholt werden.
 
@@ -415,15 +392,13 @@ Die Ladung zur schriftlichen Prüfung wird dem Prüfling spätestens sieben, die
 
 (3) Eine Teilnahme an einem der Abschnitte der Ärztlichen Prüfung ist unzulässig, sofern eine Prüfung im Rahmen der ärztlichen Ausbildung nach den Vorschriften der ehemaligen Deutschen Demokratischen Republik endgültig nicht bestanden worden ist und die ärztliche Ausbildung im Geltungsbereich des Grundgesetzes der Bundesrepublik Deutschland nicht vor dem 3. Oktober 1990 aufgenommen wurde.
 
-
-## § 21 – Nichtbestehen der Prüfung
+# § 21 – Nichtbestehen der Prüfung
 
 (1) Ist der Dritte Abschnitt der Ärztlichen Prüfung nicht bestanden, entscheidet die nach Landesrecht zuständige Stelle unverzüglich, ob und wie lange der Prüfling erneut an einer Ausbildung nach § 3 teilzunehmen hat. Dem Prüfling ist die Entscheidung rechtzeitig mitzuteilen. Die Dauer der Ausbildung kann mindestens vier, höchstens sechs Monate betragen.
 
 (2) Die nach Landesrecht zuständigen Stellen unterrichten den Prüfling und die nach Landesrecht zuständigen Stellen der anderen Länder schriftlich, wenn ein Prüfungsabschnitt oder Prüfungsteil endgültig nicht bestanden worden ist und nicht mehr wiederholt werden kann. Die Mitteilung an den Prüfling hat den Hinweis zu enthalten, dass er auch nach einem erneuten Studium der Medizin zu der Prüfung nicht mehr zugelassen werden kann.
 
-
-## § 22 – Inhalt des Ersten Abschnitts der Prüfung
+# § 22 – Inhalt des Ersten Abschnitts der Prüfung
 
 (1) Der schriftliche Teil des Ersten Abschnitts der Ärztlichen Prüfung betrifft folgende Stoffgebiete:  
 
@@ -438,15 +413,13 @@ Die Ladung zur schriftlichen Prüfung wird dem Prüfling spätestens sieben, die
 
 (3) Die Prüfung der naturwissenschaftlichen und theoretischen Grundlagen ist im schriftlichen und mündlich-praktischen Teil in Verbindung mit klinischen Fragestellungen auf die medizinisch relevanten Ausbildungsinhalte zu konzentrieren.
 
-
-## § 23 – Schriftliche Aufsichtsarbeit
+# § 23 – Schriftliche Aufsichtsarbeit
 
 (1) Die Prüfung findet an zwei aufeinander folgenden Tagen statt. Die Prüfung dauert an beiden Prüfungstagen vier Stunden. Auf den ersten Prüfungstag entfallen die Stoffgebiete I und II, auf den zweiten die Stoffgebiete III und IV.
 
 (2) Die Anzahl der in der Aufsichtsarbeit zu bearbeitenden Fragen und ihre Verteilung auf die einzelnen Stoffgebiete ergeben sich aus der Anlage 9 zu dieser Verordnung. Die Fragen müssen auf den in der Anlage 10 zu dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
-
-## § 24 – Mündlich-praktischer Teil der Prüfung
+# § 24 – Mündlich-praktischer Teil der Prüfung
 
 (1) Die mündlich-praktische Prüfung dauert bei maximal vier Prüflingen mindestens 45, höchstens 60 Minuten je Prüfling.
 
@@ -463,8 +436,7 @@ die für die Fortsetzung des Studiums notwendigen Kenntnisse und Fähigkeiten be
 
 (3) Die Prüfungskommission soll dem Prüfling vor dem Prüfungstermin praktische Aufgaben stellen und ihm aufgeben, deren Ergebnisse bei der Prüfung mündlich oder mittels Vorlage eines schriftlichen Berichts darzulegen und zu begründen.
 
-
-## § 25 – Bewertung der Prüfungsleistungen
+# § 25 – Bewertung der Prüfungsleistungen
 
 Die nach Landesrecht zuständige Stelle ermittelt die Note für den Ersten Abschnitt der Ärztlichen Prüfung wie folgt:  
 Die Note für die schriftliche Aufsichtsarbeit und die Note für den mündlich-praktischen Teil werden addiert und die Summe wird durch zwei geteilt. Die Note wird bis auf die erste Stelle hinter dem Komma errechnet. Die Note lautet  
@@ -479,13 +451,11 @@ Die Note für die schriftliche Aufsichtsarbeit und die Note für den mündlich-p
   
 wenn die Prüfung nach § 13 Abs. 3 bestanden ist.
 
-
-## § 26 – Zeugnis
+# § 26 – Zeugnis
 
 Über das Bestehen des Ersten Abschnitts der Ärztlichen Prüfung wird ein Zeugnis nach dem Muster der Anlage 11 zu dieser Verordnung erteilt.
 
-
-## § 27 – Zulassung zum Zweiten Abschnitt der Ärztlichen Prüfung
+# § 27 – Zulassung zum Zweiten Abschnitt der Ärztlichen Prüfung
 
 (1) Zum Zweiten Abschnitt der Ärztlichen Prüfung wird unbeschadet § 3 Abs. 5 und § 10 Abs. 4 Satz 1 Nr. 2 zugelassen, wer die Leistungsnachweise für die in den Sätzen 4 und 5 genannten Fächer und Querschnittsbereiche zwischen dem Bestehen des Ersten Abschnitts der Ärztlichen Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung erbracht hat. Die Universitäten regeln in ihren Studienordnungen das Nähere zu den Anforderungen und zum Verfahren bei der Erbringung der Leistungsnachweise nach den Sätzen 4 und 5. Sie können sich aufgrund vertraglicher Vereinbarungen der Einrichtung nach § 14 Abs. 3 Satz 2 bedienen. Die zu erbringenden Leistungsnachweise umfassen folgende Fächer:
 
@@ -583,8 +553,7 @@ Die Universitäten legen in ihren Studienordnungen das Nähere über die Vermitt
 
 (5) Die in den Absätzen 1 bis 4 genannten Leistungsnachweise sind zu benoten. Für die Benotung der Leistungsnachweise gilt § 13 Abs. 2 entsprechend. Die Noten der Leistungsnachweise werden auf dem Zeugnis nach dem Muster der Anlage 12 zu dieser Verordnung gesondert ausgewiesen.
 
-
-## § 28 – Schriftliche Prüfung
+# § 28 – Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung erstreckt sich auf die Kenntnisse und Fähigkeiten der Studierenden, derer ein Arzt zur eigenverantwortlichen und selbstständigen Tätigkeit bedarf. Die Prüfung wird fallbezogen, insbesondere durch Fallstudien, gestaltet. Prüfungsgegenstand sind insbesondere
 
@@ -604,13 +573,11 @@ problemorientierte Fragestellungen.
 
 (3) Die Anzahl der in der Aufsichtsarbeit im Antwort-Wahl-Verfahren zu bearbeitenden Fragen beträgt 320. Die Aufgaben müssen auf die in Absatz 1 festgelegten Anforderungen und auf den in der Anlage 15 zu dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
-
-## § 29 – Zeugnis
+# § 29 – Zeugnis
 
 Über das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung wird ein Zeugnis nach dem Muster der Anlage 11a zu dieser Verordnung erteilt.
 
-
-## § 30 – Mündlich-praktische Prüfung
+# § 30 – Mündlich-praktische Prüfung
 
 (1) Die mündlich-praktische Prüfung findet an zwei Tagen statt. Sie dauert an beiden Tagen bei maximal vier Prüflingen jeweils mindestens 45, höchstens 60 Minuten je Prüfling. Am ersten Prüfungstag erfolgt die praktische Prüfung mit Patientenvorstellung.
 
@@ -636,18 +603,15 @@ problemorientierte Fragestellungen.
 
 (4) Die Prüfungskommission hat dem Prüfling vor dem Prüfungstermin einen oder mehrere Patienten zur Anamneseerhebung und Untersuchung zuzuweisen. Der Prüfling hat hierüber einen Bericht zu fertigen, der Anamnese, Diagnose, Prognose, Behandlungsplan sowie eine Epikrise des Falles enthält. Der Bericht ist unverzüglich nach Fertigstellung von einem Mitglied der Prüfungskommission gegenzuzeichnen und beim Prüfungstermin vorzulegen. Er ist Gegenstand der Prüfung und in die Bewertung einzubeziehen.
 
-
-## § 31 – (weggefallen)
+# § 31 – (weggefallen)
 
 \-
 
-
-## § 32 – Zeugnis
+# § 32 – Zeugnis
 
 Über das Bestehen des Dritten Abschnitts der Ärztlichen Prüfung wird ein Zeugnis nach dem Muster der Anlage 12 zu dieser Verordnung erteilt.
 
-
-## § 33 – Gesamtnote und Zeugnis für die Ärztliche Prüfung
+# § 33 – Gesamtnote und Zeugnis für die Ärztliche Prüfung
 
 (1) Die nach Landesrecht zuständige Stelle ermittelt die Gesamtnote für die bestandene Ärztliche Prüfung wie folgt:  
   
@@ -663,8 +627,7 @@ Die Zahlenwerte für den Ersten, den Zweiten und den Dritten Abschnitt der Ärzt
 
 (2) Über das Bestehen der Ärztlichen Prüfung wird ein Zeugnis nach dem Muster der Anlage 12 zu dieser Verordnung erteilt.
 
-
-## § 34 – Erlaubnis nach § 10 Absatz 1 der Bundesärzteordnung
+# § 34 – Erlaubnis nach § 10 Absatz 1 der Bundesärzteordnung
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs nach § 10 Absatz 1 der Bundesärzteordnung ist an die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes zu richten. Beantragt der Antragsteller erstmalig die Erteilung der Erlaubnis, hat er dem Antrag folgende Unterlagen beizufügen:
 
@@ -712,8 +675,7 @@ Die Nachweise nach Satz 2 Nummer 7 und 8 dürfen bei ihrer Vorlage nicht älter 
 
 (8) Die Erlaubnis wird nach dem Muster der Anlage 16 zu dieser Verordnung ausgestellt.
 
-
-## § 35 – Erlaubnis nach § 10 Absatz 1a der Bundesärzteordnung
+# § 35 – Erlaubnis nach § 10 Absatz 1a der Bundesärzteordnung
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs nach § 10 Absatz 1a der Bundesärzteordnung ist an die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes zu richten. Beantragt der Antragsteller erstmals die Erteilung der Erlaubnis, hat er dem Antrag die folgenden Unterlagen beizufügen:
 
@@ -733,8 +695,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (4) Die zuständige Behörde versieht die Erlaubnis mit den Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung des nach Absatz 3 bewerteten Ausbildungsstandes des Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit auszuschließen. § 34 Absatz 2, 5 Satz 2 und 3, Absatz 6 bis 8 gilt entsprechend.
 
-
-## § 35a – Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
+# § 35a – Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
 
 (1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs nach § 10 Absatz 5 der Bundesärzteordnung ist an die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes zu richten. Der Antragsteller hat dem Antrag die folgenden Unterlagen beizufügen:
 
@@ -758,8 +719,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (3) Die Erlaubnis wird nach dem Muster der Anlage 17 zu dieser Verordnung ausgestellt.
 
-
-## § 36 – Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung
+# § 36 – Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung
 
 (1) Die Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung bezieht sich auf die Fächer einschließlich der Querschnittsbereiche, in denen die zuständige Behörde wesentliche Unterschiede nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung festgestellt hat. In der Eignungsprüfung hat der Antragsteller an praktischen Aufgaben nachzuweisen, dass er in diesen Fächern einschließlich der Querschnittsbereiche über die Kenntnisse und Fähigkeiten, auch in der ärztlichen Gesprächsführung, verfügt, die zur Ausübung des ärztlichen Berufs erforderlich sind.
 
@@ -775,8 +735,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (7) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden. Sie kann in jedem Fach einschließlich der Querschnittsbereiche jeweils zweimal wiederholt werden. Über den Verlauf der Prüfung jedes Antragstellers ist eine von allen Mitgliedern der Prüfungskommission zu unterzeichnende Niederschrift nach dem Muster der Anlage 18 zu dieser Verordnung anzufertigen, aus der der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen der Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende schwere Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 3 der Bundesärzteordnung zuständigen Behörde des Landes zu.
 
-
-## § 37 – Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung
+# § 37 – Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung
 
 (1) Die Prüfung bezieht sich auf die Fächer Innere Medizin und Chirurgie. Die Fragestellungen sollen ergänzend folgende Aspekte berücksichtigen: Notfallmedizin, Klinische Pharmakologie/Pharmakotherapie, Bildgebende Verfahren, Strahlenschutz, Rechtsfragen der ärztlichen Berufsausübung. Zusätzlich kann die zuständige Behörde in dem Bescheid nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung ein Fach oder einen Querschnittsbereich als prüfungsrelevant festlegen, in dem sie wesentliche Unterschiede festgestellt hat und das oder der von den in Satz 1 und 2 aufgeführten Prüfungsthemen nicht umfasst ist. Die Prüfung erstreckt sich dann zusätzlich auch auf dieses Fach oder diesen Querschnittsbereich. Die Fragestellungen sind zunächst auf die Patientenvorstellung zu beziehen. Dann sind dem Antragsteller fächerübergreifend weitere praktische Aufgaben mit Schwerpunkt auf den für den ärztlichen Beruf wichtigsten Krankheitsbildern und Gesundheitsstörungen zu stellen. In der Prüfung hat der Antragsteller fallbezogen zu zeigen, dass er über die Kenntnisse und Fähigkeiten, auch in der ärztlichen Gesprächsführung, verfügt, die zur Ausübung des Berufs des Arztes erforderlich sind.
 
@@ -792,8 +751,7 @@ Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung d
 
 (7) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten werden. Sie kann zweimal wiederholt werden. Über den Verlauf der Prüfung jedes Antragstellers ist eine von allen Mitgliedern der Prüfungskommission zu unterzeichnende Niederschrift nach dem Muster der Anlage 19 zu dieser Verordnung anzufertigen, aus der der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen der Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende schwere Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 3 der Bundesärzteordnung zuständigen Behörde des Landes zu.
 
-
-## § 38 – Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnung
+# § 38 – Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnung
 
 Der Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnung enthält folgende Angaben:
 
@@ -805,8 +763,7 @@ Der Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnu
 
 4. eine Begründung, warum die wesentlichen Unterschiede nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die der Antragsteller im Rahmen seiner ärztlichen Berufspraxis der durch lebenslanges Lernen im Sinne des § 3 Absatz 2 Satz 5 der Bundesärzteordnung erworben hat.
 
-
-## § 39 – Antrag auf Approbation
+# § 39 – Antrag auf Approbation
 
 (1) Der Antrag auf die Approbation als Arzt ist an die zuständige Stelle des Landes zu richten, in dem der Antragsteller den Dritten Abschnitt der Ärztlichen Prüfung bestanden hat. Dem Antrag sind beizufügen:
 
@@ -834,13 +791,11 @@ Der Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnu
 
 (5) Über den Antrag nach § 3 Absatz 1 der Bundesärzteordnung ist kurzfristig, spätestens drei Monate nach Vorlage der nach den Absätzen 1 und 2 sowie § 3 Absatz 6 der Bundesärzteordnung vom Antragsteller vorzulegenden Unterlagen, zu entscheiden. Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen. Die zuständige Behörde bestätigt den Antragstellern nach § 3 Absatz 1 bis 3 und § 14b der Bundesärzteordnung binnen eines Monats nach Eingang des Antrags den Antragseingang und den Empfang der Unterlagen und teilt ihm mit, welche Unterlagen fehlen.
 
-
-## § 40 – Approbationsurkunde
+# § 40 – Approbationsurkunde
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 14 zu dieser Verordnung ausgestellt. Sie ist dem Antragsteller gegen Empfangsbekenntnis auszuhändigen oder mit Zustellungsurkunde zuzustellen.
 
-
-## § 41 – Modellstudiengang
+# § 41 – Modellstudiengang
 
 (1) Die nach Landesrecht zuständige Stelle kann einen Modellstudiengang zulassen, der von den Vorschriften dieser Verordnung dahingehend abweicht, dass
 
@@ -876,13 +831,11 @@ Die Approbationsurkunde wird nach dem Muster der Anlage 14 zu dieser Verordnung 
 
 (3) Von den Studierenden des Modellstudiengangs sind die in § 10 Abs. 4 Satz 1 Nr. 1 genannten Unterlagen bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung vorzulegen. An Stelle einer Gesamtnote wird in den Fällen des Absatzes 1 Nr. 1 ein Zeugnis nach dem Muster der Anlage 12 zu dieser Verordnung erteilt, wobei neben der Note für den Dritten Abschnitt der Ärztlichen Prüfung die Überprüfungsergebnisse der nach Absatz 2 Nr. 3 durchgeführten und dem Ersten Abschnitt der Ärztlichen Prüfung gleichwertigen Prüfungen getrennt aufgeführt werden.
 
-
-## § 42 – Anwendung bisherigen Rechts
+# § 42 – Anwendung bisherigen Rechts
 
 Die Approbationsordnung für Ärzte in der Fassung der Bekanntmachung vom 14. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel 8 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467), findet, soweit in den nachfolgenden Vorschriften nichts Abweichendes bestimmt ist, Anwendung für Studierende, die vor dem 1. Oktober 2003 ihr Studium der Medizin bereits aufgenommen haben.
 
-
-## § 43 – Abweichende Regelungen für die Prüfungen
+# § 43 – Abweichende Regelungen für die Prüfungen
 
 (1) Studierende nach § 42, die am 1. Oktober 2003 die Ärztliche Vorprüfung noch nicht bestanden haben, legen diese bis zum 30. April 2006 nach der Approbationsordnung für Ärzte in der Fassung der Bekanntmachung vom 14. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel 8 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467), ab. Für das weitere Studium nach Bestehen der Ärztlichen Vorprüfung gelten die Vorschriften dieser Verordnung. Ist eine Berechnung der Bestehensgrenzen nach § 14 Abs. 6 der Approbationsordnung für Ärzte in der Fassung der Bekanntmachung vom 14. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel 8 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467), für Studierende nach Satz 1 nicht mehr möglich, weil nicht mehr als 15 Prozent der Prüfungsteilnehmer nach der Mindeststudienzeit von zwei Jahren die Ärztliche Vorprüfung zu diesem Zeitpunkt ablegen, so ist die Ärztliche Vorprüfung bestanden, wenn der Prüfling mindestens 60 Prozent der gestellten Prüfungsfragen zutreffend beantwortet hat oder wenn die Zahl der vom Prüfling zutreffend beantworteten Fragen um nicht mehr als 12 Prozent die durchschnittlichen Prüfungsleistungen aller Prüflinge des betreffenden Prüfungsdurchgangs unterschreitet.
 
@@ -908,25 +861,21 @@ Der Zahlenwert für den Zweiten Abschnitt wird mit fünf vervielfacht und zu der
 
 (11) § 14 Absatz 6 ist für Studierende, die die Ausbildung nach § 3 Absatz 1 spätestens in der zweiten Hälfte des Monats August 2013 aufgenommen haben, mit der Maßgabe anzuwenden, dass die durchschnittlichen Prüfungsleistungen der Prüflinge zugrunde zu legen sind, die nach der Mindeststudienzeit von sechs Jahren erstmals an dem Zweiten Abschnitt der Ärztlichen Prüfung teilgenommen haben. Satz 2 gilt entsprechend für Studierende in einem Modellstudiengang nach § 41, in dem der Zweite Abschnitt der Ärztlichen Prüfung frühestens nach einem Medizinstudium von sechs Jahren abzulegen ist. Ist eine Berechnung der Bestehensgrenzen nach § 14 Absatz 6 für Studierende nach den Sätzen 1 und 2 nicht mehr möglich, weil nicht mehr als 15 Prozent der Prüfungsteilnehmer nach der Mindeststudienzeit von sechs Jahren den Zweiten Abschnitt der Ärztlichen Prüfung zu diesem Zeitpunkt ablegen, so ist dieser Prüfungsteil bestanden, wenn der Prüfling mindestens 60 Prozent der gestellten Prüfungsfragen zutreffend beantwortet hat. Bis einschließlich 31. Dezember 2015 ist der Prüfungsteil nach Satz 3 auch bestanden, wenn die Zahl der vom Prüfling zutreffend beantworteten Fragen um nicht mehr als 15 Prozent die durchschnittlichen Prüfungsleistungen aller Prüflinge des betreffenden Prüfungsdurchgangs unterschreitet.
 
-
-## § 44 – Inkrafttreten, Außerkrafttreten
+# § 44 – Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 
 (2) Mit dem in Absatz 1 genannten Zeitpunkt tritt vorbehaltlich der Vorschriften des Siebenten Abschnitts dieser Verordnung die Approbationsordnung für Ärzte in der Fassung der Bekanntmachung vom 14. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel 8 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467), außer Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9)  Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
+# Anlage 1 – (zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9)  Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2420
 
-I.  
-1. Naturwissenschaftliche Grundlagen der Medizin
+I. 1. Naturwissenschaftliche Grundlagen der Medizin
 
 1.1  
 Praktikum der Physik für Mediziner
@@ -965,8 +914,7 @@ III. Praktikum der medizinischen Terminologie
 
 mit einer Gesamtstundenzahl von insgesamt mindestens 630 Stunden.
 
-
-## Anlage 2 – (zu § 2 Abs. 7 Satz 1)Bescheinigung
+# Anlage 2 – (zu § 2 Abs. 7 Satz 1)Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2421;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -989,8 +937,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     von:
     bis: 
 
-an der genannten Unterrichtsveranstaltung regelmäßig und mit Erfolg teilgenommen und die in Verbindung mit dieser Veranstaltung in der Studienordnung ggf. weiter dazu vorgeschriebenen Veranstaltungen regelmäßig besucht.  
-
+an der genannten Unterrichtsveranstaltung regelmäßig und mit Erfolg teilgenommen und die in Verbindung mit dieser Veranstaltung in der Studienordnung ggf. weiter dazu vorgeschriebenen Veranstaltungen regelmäßig besucht. 
     Ort, Datum
     ...............................................................................
     ......................................................  Siegel/Stempel
@@ -1004,23 +951,20 @@ an der genannten Unterrichtsveranstaltung regelmäßig und mit Erfolg teilgenomm
 
 2) Soweit vorgesehen.
 
-
-## Anlage 2a – (zu § 2 Absatz 7 Satz 1)Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
+# Anlage 2a – (zu § 2 Absatz 7 Satz 1)Bescheinigung zur Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2012, 1546)
 
 hat an nachstehenden Unterrichtsveranstaltungen regelmäßig und mit Erfolg teilgenommen und die in Verbindung mit diesen Veranstaltungen in der Studienordnung ggf. weiter dazu vorgeschriebenen Veranstaltungen regelmäßig besucht:
 
-
-## Anlage 2b – (zu § 2 Absatz 7 Satz 1)Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
+# Anlage 2b – (zu § 2 Absatz 7 Satz 1)Bescheinigung zur Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2012, 1547 – 1548)
 
 hat die folgenden Leistungsnachweise an der                              (Universität) mit den nachstehenden  
 Ergebnissen erbracht:
 
-
-## Anlage 3 – (zu § 2 Abs. 8 Satz 2)
+# Anlage 3 – (zu § 2 Abs. 8 Satz 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2422
 
@@ -1105,8 +1049,7 @@ Als Wahlfächer für die Zulassung zum Zweiten Abschnitt der Ärztlichen Prüfun
 | \- Urologie                                          |
 | \- Visceralchirurgie                                 |
 
-
-## Anlage 4 – (zu § 3 Absatz 5 sowie § 10 Absatz 4 und 5)Bescheinigung über das Praktische Jahr
+# Anlage 4 – (zu § 3 Absatz 5 sowie § 10 Absatz 4 und 5)Bescheinigung über das Praktische Jahr
 
 (Fundstelle: BGBl. I 2012, 1549; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
@@ -1154,8 +1097,7 @@ Das Krankenhaus, die ärztliche Praxis bzw. die Einrichtung der ambulanten Krank
 □  
  Die Ausbildung ist an einem Krankenhaus der Universität durchgeführt worden.
 
-
-## Anlage 5 – (zu § 6 Abs. 4 Satz 2)Zeugnis über den Krankenpflegedienst
+# Anlage 5 – (zu § 6 Abs. 4 Satz 2)Zeugnis über den Krankenpflegedienst
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2424)
 
@@ -1188,8 +1130,7 @@ Das Krankenhaus, die ärztliche Praxis bzw. die Einrichtung der ambulanten Krank
     ...............................................................................
                  (Unterschrift des Leiters des Pflegedienstes) 
 
-
-## Anlage 6 – (zu § 7 Abs. 4 Satz 2)Zeugnis über die Tätigkeit als Famulus
+# Anlage 6 – (zu § 7 Abs. 4 Satz 2)Zeugnis über die Tätigkeit als Famulus
 
 (Fundstelle: BGBl. I 2002, 2425; bzgl. einzelner Änderungen vgl. Fußnote)
 
@@ -1218,8 +1159,7 @@ Das Krankenhaus, die ärztliche Praxis bzw. die Einrichtung der ambulanten Krank
      öffentlicher Stelle          Arztes/Ärzte
      Siegel) 
 
-
-## Anlage 7 – (zu § 15 Abs. 8, § 41 Abs. 2 Nr. 9)  Niederschrift über den mündlich-praktischen Teil des Ersten Abschnitts der Ärztlichen Prüfung
+# Anlage 7 – (zu § 15 Abs. 8, § 41 Abs. 2 Nr. 9)  Niederschrift über den mündlich-praktischen Teil des Ersten Abschnitts der Ärztlichen Prüfung
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2426;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1258,8 +1198,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
       Mitglieds/der weiteren Mitglieder      Prüfungskommission)
       der Prüfungskommission) 
 
-
-## Anlage 8 – (zu § 15 Abs. 8)Niederschrift über den Dritten Abschnitt der Ärztlichen Prüfung
+# Anlage 8 – (zu § 15 Abs. 8)Niederschrift über den Dritten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2002, 2427;  
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1299,8 +1238,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
      (Unterschriften der weiteren           (Unterschrift der/des Vorsitzenden der
       Mitglieder der Prüfungskommission)     Prüfungskommission) 
 
-
-## Anlage 9 – (zu § 23 Abs. 2 Satz 1, § 41 Abs. 2 Nr. 9)  Anzahl und Verteilung der Prüfungsfragen im Ersten Abschnitt der Ärztlichen Prüfung
+# Anlage 9 – (zu § 23 Abs. 2 Satz 1, § 41 Abs. 2 Nr. 9)  Anzahl und Verteilung der Prüfungsfragen im Ersten Abschnitt der Ärztlichen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2428
 
@@ -1317,8 +1255,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 2428
 | IV\.  | Grundlagen der Medizinischen Psychologie und der Medizinischen Soziologie |
 |       | 60 Fragen                                                                 |
 
-
-## Anlage 10 – (zu § 23 Abs. 2 Satz 2, § 41 Abs. 2 Nr. 9)  Prüfungsstoff für den Ersten Abschnitt der Ärztlichen Prüfung
+# Anlage 10 – (zu § 23 Abs. 2 Satz 2, § 41 Abs. 2 Nr. 9)  Prüfungsstoff für den Ersten Abschnitt der Ärztlichen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2429
 
@@ -1336,8 +1273,7 @@ das Verständnis von Krankheitsentstehung, -bewältigung und -prävention,
 \-  
 die Gestaltung der Arzt-Patient-Beziehung.
 
-I.  
-Physik für Mediziner und Physiologie
+I. Physik für Mediziner und Physiologie
 
 Zell- und Gewebephysiologie. Funktionsweisen des Herz-Kreislauf-Systems, Atmungssystems, Verdauungssystems, Ausscheidungssystems, endokrinen Systems, Fortpflanzungssystems, zentralen und peripheren Nervensystems (einschließlich der Sinne), Muskel-Skelett-Systems, Blut-Lymph-Systems und des Abwehrsystems des Menschen. Zusammenwirken der Systeme. Adaptive Mechanismen. Lebensaltersabhängige Besonderheiten. Angewandte Physiologie einschließlich Ernährungs-, Sport-, Arbeits- und Umweltphysiologie.
 
@@ -1359,8 +1295,7 @@ IV. Grundlagen der Medizinischen Psychologie und der Medizinischen Soziologie
 
 Psychobiologische Grundlagen des Verhaltens und Erlebens. Wahrnehmung, Lernen, Emotionen, Motivation, Psychomotorik. Persönlichkeit, Entwicklung, Sozialisation. Soziales Verhalten, Einstellungen, Interaktion und Kommunikation, Rollenbeziehungen. Soziale Schichtung, Bevölkerungsstruktur, Morbiditätsstruktur. Strukturen des Gesundheitswesens. Grundlagen psychologischer und soziologischer Methodik.
 
-
-## Anlage 11 – (zu § 2 Abs. 8, § 26, § 41 Abs. 2 Nr. 9)
+# Anlage 11 – (zu § 2 Abs. 8, § 26, § 41 Abs. 2 Nr. 9)
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2430)
 
@@ -1395,8 +1330,7 @@ Psychobiologische Grundlagen des Verhaltens und Erlebens. Wahrnehmung, Lernen, E
               ................................................
                             (Unterschrift) 
 
-
-## Anlage 11a – (zu § 2 Absatz 8 Satz 4, § 27 Absatz 5 Satz 3 und § 29)
+# Anlage 11a – (zu § 2 Absatz 8 Satz 4, § 27 Absatz 5 Satz 3 und § 29)
 
 (Fundstelle: BGBl. I 2012, 1550 - 1552)
 
@@ -1412,8 +1346,7 @@ Der/Die Studierende der Medizin ..........
 
 geboren am .......... in ..........
 
-hat den Zweiten Abschnitt der Ärztlichen Prüfung am ..........  
-in .......... mit der Note „ .......... “ abgelegt.
+hat den Zweiten Abschnitt der Ärztlichen Prüfung am .......... in .......... mit der Note „ .......... “ abgelegt.
 
 (Rückseite)
 
@@ -1424,13 +1357,10 @@ Er/Sie hat bei der Benotung der Leistungsnachweise für den Zweiten Abschnitt de
   
   
   
- .........., den ..........  
-  
-..............................  
-(Unterschrift)
+ .........., den ..........   
+.............................. (Unterschrift)
 
-
-## Anlage 12 – (zu § 13 Absatz 4, §§ 32, 33 Absatz 2, § 41 Absatz 3 und § 43 Absatz 2 Satz 7)
+# Anlage 12 – (zu § 13 Absatz 4, §§ 32, 33 Absatz 2, § 41 Absatz 3 und § 43 Absatz 2 Satz 7)
 
 (Fundstelle: BGBl. I 2012, 1553)
 
@@ -1442,8 +1372,7 @@ Der/Die Studierende der Medizin ..........
 
 geboren am .......... in ..........
 
-hat den Dritten Abschnitt der Ärztlichen Prüfung am ..........  
-in .......... mit der Note „ .......... “ abgelegt.
+hat den Dritten Abschnitt der Ärztlichen Prüfung am .......... in .......... mit der Note „ .......... “ abgelegt.
 
 Unter Berücksichtigung der Prüfungsnoten für den Ersten Abschnitt und den Zweiten Abschnitt der Ärztlichen Prüfung<span id="FnR.F777369_01"></span><a href="#F777369_01" class="FnR">1)</a></sup> hat er/sie die Ärztliche Prüfung mit der Gesamtnote „ .......... “ (.......... ) am ..........   
 bestanden.<span id="FnR.F777369_02"></span><a href="#F777369_02" class="FnR">2)</a></sup>
@@ -1452,26 +1381,21 @@ bestanden.<span id="FnR.F777369_02"></span><a href="#F777369_02" class="FnR">2)<
 
 Herr/Frau ..........
 
-hat das Medizinstudium an der ..........  
-abgeschlossen.<span id="FnR.F777369_03"></span><a href="#F777369_03" class="FnR">3)</a></sup>
+hat das Medizinstudium an der .......... abgeschlossen.<span id="FnR.F777369_03"></span><a href="#F777369_03" class="FnR">3)</a></sup>
 
      Siegel oder Stempel
 
   
   
   
-.......... , den ..........  
-  
-..........  
-(Unterschrift)
+.......... , den ..........   
+.......... (Unterschrift)
 
-
-## Anlage 13
+# Anlage 13
 
 (weggefallen)
 
-
-## Anlage 14 – (zu § 40 Satz 1)Approbationsurkunde
+# Anlage 14 – (zu § 40 Satz 1)Approbationsurkunde
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 2434)
 
@@ -1496,15 +1420,13 @@ abgeschlossen.<span id="FnR.F777369_03"></span><a href="#F777369_03" class="FnR"
                       ........................................
                                   (Unterschrift) 
 
-
-## Anlage 15 – (zu § 28 Absatz 3 Satz 2)Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
+# Anlage 15 – (zu § 28 Absatz 3 Satz 2)Prüfungsstoff für den Zweiten Abschnitt der Ärztlichen Prüfung
 
 (Fundstelle: BGBl. I 2002, 2435; bzgl. der einzelnen Änderungen vgl. Fußnote)
 
  
 
-Die Prüfungsaufgaben sollen unter Aspekten der allgemeinen ärztlichen Tätigkeit auf die wichtigsten Krankheitsbilder und Gesundheitsstörungen abgestellt sein. Dies sind insbesondere solche, die sich durch ihre Verbreitung, ihre Folgen für den Einzelnen oder die Gesellschaft auszeichnen.  
-Hierzu zählen
+Die Prüfungsaufgaben sollen unter Aspekten der allgemeinen ärztlichen Tätigkeit auf die wichtigsten Krankheitsbilder und Gesundheitsstörungen abgestellt sein. Dies sind insbesondere solche, die sich durch ihre Verbreitung, ihre Folgen für den Einzelnen oder die Gesellschaft auszeichnen. Hierzu zählen
 
 \-  
 Krankheiten des Blutes, der blutbildenden Organe, des Kreislaufsystems, der Atmungsorgane, der Verdauungsorgane, der Drüsen mit innerer Sekretion, des Stoffwechsels und der Nieren. Immunologische und allergische Krankheiten, Krankheiten des rheumatischen Formenkreises, Infektionskrankheiten, Geschwulstkrankheiten.
@@ -1553,14 +1475,10 @@ Arbeitsmedizinische Untersuchungen. Analyse von Arbeitsplatz- und Berufsbelastun
 \-  
 Medizinische Begutachtung. Rechtsfragen der ärztlichen Berufsausübung.
 
+# Anlage 16 – (zu § 34 Absatz 8)Erlaubnis nach § 10 Absatz 1 oder Absatz 1a der Bundesärzteordnung
 
-## Anlage 16 – (zu § 34 Absatz 8)Erlaubnis nach § 10 Absatz 1 oder Absatz 1a der Bundesärzteordnung
+# Anlage 17 – (zu § 35a Absatz 3)Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
 
+# Anlage 18 – (zu § 36 Absatz 7)Niederschrift über die staatliche Eignungsprüfung nach § 36 der Approbationsordnung für Ärzte
 
-## Anlage 17 – (zu § 35a Absatz 3)Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
-
-
-## Anlage 18 – (zu § 36 Absatz 7)Niederschrift über die staatliche Eignungsprüfung nach § 36 der Approbationsordnung für Ärzte
-
-
-## Anlage 19 – (zu § 37 Absatz 7)Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte
+# Anlage 19 – (zu § 37 Absatz 7)Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte

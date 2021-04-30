@@ -1,20 +1,15 @@
-# [FFG] Gesetz über Maßnahmen zur Förderung des deutschen Films   (Filmförderungsgesetz - FFG)
-
-Ausfertigungsdatum: 23.12.2016
-
+% Gesetz über Maßnahmen zur Förderung des deutschen Films   (Filmförderungsgesetz - FFG)
+% Ausfertigungsdatum: 23.12.2016
  
+# Inhaltsübersicht
 
-## Inhaltsübersicht
-
-
-## § 1 – Filmförderungsanstalt
+# § 1 – Filmförderungsanstalt
 
 (1) Die Filmförderungsanstalt fördert als bundesweit tätige Filmförderungseinrichtung die Struktur der deutschen Filmwirtschaft und die kreativ-künstlerische Qualität des deutschen Films als Voraussetzung für seinen Erfolg im Inland und im Ausland. Sie ist eine bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts.
 
 (2) Die Filmförderungsanstalt hat ihren Sitz in Berlin.
 
-
-## § 2 – Aufgaben der Filmförderungsanstalt
+# § 2 – Aufgaben der Filmförderungsanstalt
 
 Die Filmförderungsanstalt hat die Aufgabe,
 
@@ -38,8 +33,7 @@ Die Filmförderungsanstalt hat die Aufgabe,
 
 Die Filmförderungsanstalt wirkt bei der Wahrnehmung ihrer Aufgaben auf die Belange der Geschlechtergerechtigkeit hin.
 
-
-## § 3 – Aufgabenerfüllung
+# § 3 – Aufgabenerfüllung
 
 (1) Die Filmförderungsanstalt gewährt Förderhilfen nach Maßgabe der Kapitel 4 bis 9.
 
@@ -49,13 +43,11 @@ Die Filmförderungsanstalt wirkt bei der Wahrnehmung ihrer Aufgaben auf die Bela
 
 (4) Die Filmförderungsanstalt darf zur Erfüllung ihrer Aufgaben zwei- und mehrseitige Kooperationsvereinbarungen mit den für die Filmförderung zuständigen Stellen anderer Staaten und mit den Filmfördereinrichtungen der Länder abschließen, um deutsch-ausländische Filmprojektentwicklungen zu unterstützen.
 
-
-## § 4 – Dienstleistungen für andere Einrichtungen
+# § 4 – Dienstleistungen für andere Einrichtungen
 
 Die Filmförderungsanstalt darf gegen Erstattung der Kosten Maßnahmen der Film- und Medienförderung für Behörden und öffentlich-rechtliche Einrichtungen, für andere Filmfördereinrichtungen sowie für sonstige branchennahe Einrichtungen durchführen. Dies gilt auch für Maßnahmen auf dem Gebiet des Filmwesens, die sich aus der Mitgliedschaft der Bundesrepublik Deutschland in internationalen und supranationalen Organisationen ergeben.
 
-
-## § 5 – Organe der Filmförderungsanstalt
+# § 5 – Organe der Filmförderungsanstalt
 
 Organe der Filmförderungsanstalt sind
 
@@ -65,8 +57,7 @@ Organe der Filmförderungsanstalt sind
 
 3. der Vorstand.
 
-
-## § 6 – Zusammensetzung
+# § 6 – Zusammensetzung
 
 (1) Der Verwaltungsrat besteht aus 36 Mitgliedern. Die Mitglieder werden wie folgt benannt:
 
@@ -138,15 +129,13 @@ Löst sich eine entsendende Organisation auf, geht das Recht der Benennung auf d
 
 (4) Die benennungsberechtigten Organisationen und Verfassungsorgane können bei Vorliegen eines wichtigen Grundes die Benennung widerrufen und eine andere Person benennen. Die Benennung eines von mehreren Organisationen gemeinsam benannten Mitglieds kann nur von den zuständigen Organisationen gemeinsam widerrufen werden. Scheidet ein Mitglied oder ein stellvertretendes Mitglied vorzeitig aus, so wird für den Rest der Amtszeit eine Nachfolge benannt.
 
-
-## § 7 – Berufung, Amtszeit
+# § 7 – Berufung, Amtszeit
 
 (1) Die für Kultur und Medien zuständige oberste Bundesbehörde beruft die Mitglieder des Verwaltungsrats und die stellvertretenden Mitglieder des Verwaltungsrats für fünf Jahre.
 
 (2) Die Mitglieder und stellvertretenden Mitglieder des Verwaltungsrats sind an Aufträge und Weisungen nicht gebunden.
 
-
-## § 8 – Aufgaben, Satzung, Richtlinien
+# § 8 – Aufgaben, Satzung, Richtlinien
 
 (1) Der Verwaltungsrat beschließt über alle grundsätzlichen Fragen, die zum Aufgabenbereich der Filmförderungsanstalt gehören, verabschiedet den Haushalt der Filmförderungsanstalt und beschließt Richtlinien nach diesem Gesetz sowie die Satzung der Filmförderungsanstalt nach Maßgabe des Absatzes 4.
 
@@ -172,8 +161,7 @@ Dabei ist sicherzustellen, dass den Grundsätzen sparsamer Wirtschaftsführung R
 
 (+++ § 8 Abs. 5 Satz 2 u. 3: zur Anwendung vgl. § 13 Abs. 5 u. § 31 Satz 2 +++)
 
-
-## § 9 – Vorsitz, Beschlussfähigkeit, Einberufung, Rechte, Geschäftsordnung
+# § 9 – Vorsitz, Beschlussfähigkeit, Einberufung, Rechte, Geschäftsordnung
 
 (1) Der Verwaltungsrat wählt aus seiner Mitte eine Vorsitzende oder einen Vorsitzenden und eine stellvertretende Vorsitzende oder einen stellvertretenden Vorsitzenden.
 
@@ -185,15 +173,13 @@ Dabei ist sicherzustellen, dass den Grundsätzen sparsamer Wirtschaftsführung R
 
 (5) Der Verwaltungsrat gibt sich eine Geschäftsordnung, in der auch die Arbeit der Ausschüsse gemäß § 10 geregelt wird. Die Geschäftsordnung bedarf der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde.
 
-
-## § 10 – Ausschüsse
+# § 10 – Ausschüsse
 
 (1) Der Verwaltungsrat kann Ausschüsse bilden, wenn dem eine Mehrheit von zwei Dritteln seiner Mitglieder zustimmt. Jeder Ausschuss besteht aus fünf bis 15 Mitgliedern oder stellvertretenden Mitgliedern des Verwaltungsrats.
 
 (2) Die Ausschüsse bereiten die Beschlüsse des Verwaltungsrats im jeweiligen Aufgabenbereich vor. Sie berichten dem Verwaltungsrat regelmäßig.
 
-
-## § 11 – Befangenheit
+# § 11 – Befangenheit
 
 (1) Steht ein Mitglied des Verwaltungsrats zu einem Dritten in einem persönlichen Näheverhältnis oder in vertraglichen oder organschaftlichen Beziehungen, die geeignet sind, Misstrauen gegen eine unparteiische Amtsausübung zu rechtfertigen (Befangenheit), so darf dieses Mitglied nicht an Beschlüssen mitwirken, insbesondere nicht an Beschlüssen über die Gewährung von Förderhilfen, die den Dritten begünstigen können. § 20 des Verwaltungsverfahrensgesetzes bleibt unberührt.
 
@@ -201,8 +187,7 @@ Dabei ist sicherzustellen, dass den Grundsätzen sparsamer Wirtschaftsführung R
 
 (+++ § 11: zur Anwendung vgl. § 14 Abs. 5 u. § 25 Abs. 2 +++)
 
-
-## § 12 – Vorsitz, Zusammensetzung, Amtszeit, Geschäftsordnung
+# § 12 – Vorsitz, Zusammensetzung, Amtszeit, Geschäftsordnung
 
 (1) Das Präsidium besteht aus zehn Mitgliedern.
 
@@ -234,8 +219,7 @@ Für die Besetzung des Präsidiums gilt § 5 Absatz 2 in Verbindung mit § 4 Abs
 
 (5) Das Präsidium gibt sich eine Geschäftsordnung. Die Geschäftsordnung bedarf der Genehmigung durch die für Kultur und Medien zuständige oberste Bundesbehörde.
 
-
-## § 13 – Aufgaben, Rechte
+# § 13 – Aufgaben, Rechte
 
 (1) Das Präsidium überwacht die Tätigkeit des Vorstands. Dies gilt auch für das Handeln des Vorstands bei den Einrichtungen nach § 3 Absatz 3 Satz 2.
 
@@ -247,8 +231,7 @@ Für die Besetzung des Präsidiums gilt § 5 Absatz 2 in Verbindung mit § 4 Abs
 
 (5) Über Widersprüche gegen Entscheidungen des Präsidiums entscheidet das Präsidium. Für Entscheidungen über Widersprüche gilt § 8 Absatz 5 Satz 2 und 3 entsprechend.
 
-
-## § 14 – Beschlussfähigkeit, Verfahren, Befangenheit
+# § 14 – Beschlussfähigkeit, Verfahren, Befangenheit
 
 (1) Das Präsidium ist beschlussfähig, wenn mindestens sechs Mitglieder anwesend sind.
 
@@ -260,8 +243,7 @@ Für die Besetzung des Präsidiums gilt § 5 Absatz 2 in Verbindung mit § 4 Abs
 
 (5) Die Vorschriften zur Befangenheit nach § 11 gelten für die Mitglieder des Präsidiums entsprechend.
 
-
-## § 15 – Bestellung, Amtsdauer, Geschäftsordnung
+# § 15 – Bestellung, Amtsdauer, Geschäftsordnung
 
 (1) Der Vorstand besteht aus einer Person. Er hat eine erste und eine zweite Stellvertretung.
 
@@ -273,8 +255,7 @@ Für die Besetzung des Präsidiums gilt § 5 Absatz 2 in Verbindung mit § 4 Abs
 
 (5) Das Präsidium beschließt eine Geschäftsordnung für den Vorstand und seine Stellvertretungen. In der Geschäftsordnung kann vorgesehen werden, dass die Filmförderungsanstalt auch durch zwei vom Vorstand Bevollmächtigte gemeinsam vertreten werden kann. Die Geschäftsordnung bedarf der Genehmigung durch die für Kultur und Medien zuständige oberste Bundesbehörde.
 
-
-## § 16 – Aufgaben, Rechte
+# § 16 – Aufgaben, Rechte
 
 (1) Der Vorstand führt die Geschäfte der Filmförderungsanstalt in eigener Verantwortung nach Maßgabe der Beschlüsse des Präsidiums und des Verwaltungsrats.
 
@@ -286,8 +267,7 @@ Für die Besetzung des Präsidiums gilt § 5 Absatz 2 in Verbindung mit § 4 Abs
 
 (5) Der Vorstand und seine Stellvertretungen sind berechtigt, ohne Stimmrecht an den Sitzungen des Verwaltungsrats und seiner Ausschüsse sowie an den Sitzungen des Präsidiums teilzunehmen. Sie müssen auf ihr Verlangen jederzeit angehört werden. Die Sätze 1 und 2 gelten nicht, wenn persönliche Angelegenheiten des Vorstands oder von dessen jeweiliger Stellvertretung betroffen sind.
 
-
-## § 17 – Förderentscheidungen
+# § 17 – Förderentscheidungen
 
 (1) Der Vorstand entscheidet, soweit in diesem Gesetz nichts Abweichendes geregelt ist, über Förderhilfen für die Erfüllung der allgemeinen Aufgaben der Filmförderungsanstalt gemäß § 3 Absatz 2 bis zu einem Betrag von 50 000 Euro. Das Präsidium kann den Betrag durch einstimmigen Beschluss erhöhen.
 
@@ -323,8 +303,7 @@ f) der Kinoprojektförderung nach den §§ 134 bis 137 und den §§ 140 bis 144,
 
 (3) Vor einer Entscheidung auf Zuerkennung von Förderhilfen nach § 73 oder § 76, jeweils in Verbindung mit § 83 Absatz 2, hat der Vorstand das Präsidium zu unterrichten. Verlangen wenigstens vier Mitglieder des Präsidiums innerhalb von zwei Wochen nach Zugang der Mitteilung des Vorstands schriftlich oder elektronisch bei der oder dem Vorsitzenden des Verwaltungsrats die Entscheidung des Verwaltungsrats, entscheidet der Verwaltungsrat anstelle des Vorstands.
 
-
-## § 18 – Widersprüche gegen Entscheidungen des Vorstands
+# § 18 – Widersprüche gegen Entscheidungen des Vorstands
 
 (1) Über Widersprüche gegen Entscheidungen des Vorstands im Rahmen der Referenzförderung nach den §§ 73 bis 99 und nach den §§ 127 bis 133 entscheidet der Verwaltungsrat mit einfacher Mehrheit, wenn die Entscheidungen auf den Regelungen zur Nichtförderbarkeit von Filmen nach § 46 beruhen.
 
@@ -334,15 +313,13 @@ f) der Kinoprojektförderung nach den §§ 134 bis 137 und den §§ 140 bis 144,
 
 (4) Über Widersprüche gegen sonstige Entscheidungen des Vorstands entscheidet der Vorstand.
 
-
-## § 19 – Entscheidungen zu Sperrfristen
+# § 19 – Entscheidungen zu Sperrfristen
 
 (1) Der Vorstand entscheidet über Anträge auf Verkürzung der Sperrfristen nach § 54 Absatz 1 oder § 55 Absatz 2 oder auf Nichtanwendung der Sperrfristen nach § 56 Absatz 1. Der Vorstand hat bei grundsätzlichen Fragen zur Anwendung der Sperrfristenregelungen vor seiner Entscheidung das Präsidium zu befassen.
 
 (2) Das Präsidium entscheidet über Anträge auf außerordentliche Verkürzung der Sperrfristen nach § 55 Absatz 1 und 3 und die Folgen einer Sperrfristverletzung nach § 57. Dem Antrag auf außerordentliche Verkürzung der Sperrfrist nach § 55 Absatz 1 und 3 kann nur mit Zustimmung der Vertreterin oder des Vertreters der Kinos stattgegeben werden. Satz 2 gilt auch für Entscheidungen im Widerspruchsverfahren.
 
-
-## § 20 – Ständige Förderkommissionen
+# § 20 – Ständige Förderkommissionen
 
 Folgende ständige Förderkommissionen werden eingerichtet:
 
@@ -352,8 +329,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 3. die Kommission für Kinoförderung.
 
-
-## § 21 – Vorschläge für die Besetzung der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
+# § 21 – Vorschläge für die Besetzung der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
 
 (1) Die im Verwaltungsrat vertretenen Verfassungsorgane und Organisationen können für die Besetzung der Kommission für Produktions- und Drehbuchförderung je Verwaltungsratsmitglied jeweils bis zu zwei Personen und für die Besetzung der Kommission für Verleih-, Vertriebs- und Videoförderung je Verwaltungsratsmitglied jeweils eine Person vorschlagen. Satz 1 gilt hinsichtlich der nach § 6 Absatz 1 Satz 2 Nummer 5, 9 und 17 gemeinsam benennungsberechtigten Organisationen mit der Maßgabe, dass diese jeweils nur gemeinsam Personen vorschlagen können. Hinsichtlich des Verbands der Filmverleiher e. V. gilt Satz 1 mit der Maßgabe, dass dieser nur gemeinsam mit der Arbeitsgemeinschaft Verleih e. V. Personen vorschlagen kann.
 
@@ -361,8 +337,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (3) Die nach Absatz 1 vorgeschlagenen Personen müssen auf dem Gebiet des Filmwesens sachkundig sein sowie über maßgebliche und aktuelle Praxiserfahrung in der Film- und Kinowirtschaft verfügen. Mit Ausnahme der Betreiber von Kinos müssen sie jeweils die Mitwirkung an mindestens drei oder die Verwertung von mindestens zwölf verfilmten programmfüllenden Kinoprojekten nachweisen können. Näheres zur erforderlichen Expertise der vorgeschlagenen Personen regelt die Satzung.
 
-
-## § 22 – Bestellung der Mitglieder der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
+# § 22 – Bestellung der Mitglieder der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
 
 (1) Aus den nach § 21 Absatz 1 vorgeschlagenen Personen wählt und bestellt der Verwaltungsrat mit der Mehrheit seiner Mitglieder für den Zeitraum von drei Jahren (Amtszeit) 42 Personen zu Mitgliedern der Kommission für Produktions- und Drehbuchförderung und 20 Personen zu Mitgliedern der Kommission für Verleih-, Vertriebs- und Videoförderung.
 
@@ -374,8 +349,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (5) Näheres zum Verfahren regelt die Satzung.
 
-
-## § 23 – Bestellung der Mitglieder der Kommission für Kinoförderung
+# § 23 – Bestellung der Mitglieder der Kommission für Kinoförderung
 
 (1) Die im Verwaltungsrat vertretenen Verbände der Kinowirtschaft schlagen insgesamt mindestens zehn Personen für die Besetzung der Kommission für Kinoförderung vor. Ein Verband muss jeweils genauso viele Frauen wie Männer vorschlagen. Ist die Anzahl der vorgeschlagenen Personen ungerade, darf das Ungleichgewicht zwischen Frauen und Männern jeweils nur eine Person betragen.
 
@@ -385,8 +359,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (4) Unter den nach Absatz 3 gewählten ordentlichen Mitgliedern und den stellvertretenden Mitgliedern müssen jeweils mindestens eine Frau und mindestens ein Mann sein.
 
-
-## § 24 – Verbot der Personenidentität, Abberufung, Neubestellung
+# § 24 – Verbot der Personenidentität, Abberufung, Neubestellung
 
 (1) Ein und dieselbe Person darf nur in einer einzigen Förderkommission Mitglied sein.
 
@@ -398,15 +371,13 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (5) Die Mitglieder der Förderkommissionen können einmal wiederbestellt werden. Eine Person kann später erneut als Mitglied bestellt werden, wenn seit Beendigung ihrer Mitgliedschaft fünf Jahre vergangen sind. Die Sätze 1 und 2 gelten entsprechend für die stellvertretenden Mitglieder der Kommission für Kinoförderung.
 
-
-## § 25 – Geschäftsordnung, Befangenheit
+# § 25 – Geschäftsordnung, Befangenheit
 
 (1) Der Verwaltungsrat beschließt eine Geschäftsordnung, die für alle Förderkommissionen gilt. Die Geschäftsordnung bedarf der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde.
 
 (2) § 11 gilt für die Mitglieder der Förderkommissionen entsprechend.
 
-
-## § 26 – Kommission für Produktions- und Drehbuchförderung
+# § 26 – Kommission für Produktions- und Drehbuchförderung
 
 (1) Die Kommission für Produktions- und Drehbuchförderung entscheidet über Förderhilfen im Rahmen der Projektfilmförderung nach den §§ 59 bis 72, über Förderhilfen im Rahmen der Drehbuch- und Treatmentförderung nach den §§ 100 bis 106 sowie über Förderhilfen im Rahmen der Förderung der Drehbuchfortentwicklung nach den §§ 107 bis 114, soweit dies nicht nach § 17 in die Zuständigkeit des Vorstands fällt.
 
@@ -418,8 +389,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (+++ § 26 Abs. 4: zur Anwendung vgl. § 27 Abs. 3 +++)
 
-
-## § 27 – Kommission für Verleih-, Vertriebs- und Videoförderung
+# § 27 – Kommission für Verleih-, Vertriebs- und Videoförderung
 
 (1) Die Kommission für Verleih-, Vertriebs- und Videoförderung entscheidet über Förderhilfen im Rahmen der Projektabsatzförderung nach den §§ 115 bis 126, soweit dies nicht nach § 17 in die Zuständigkeit des Vorstands fällt.
 
@@ -427,8 +397,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (3) Die Kommission für Verleih-, Vertriebs- und Videoförderung ist bei Anwesenheit von drei Mitgliedern beschlussfähig. Sie fasst ihre Beschlüsse mit der Mehrheit der anwesenden Mitglieder. § 26 Absatz 4 gilt entsprechend.
 
-
-## § 28 – Verfahren zur Besetzung der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
+# § 28 – Verfahren zur Besetzung der Kommission für Produktions- und Drehbuchförderung und der Kommission für Verleih-, Vertriebs- und Videoförderung
 
 (1) Der Vorstand bestimmt für jede Sitzung der Kommission für Produktions- und Drehbuchförderung je eine Vertreterin oder einen Vertreter aus den Bereichen der Kinowirtschaft, der Verleih- und Vertriebswirtschaft, der Videowirtschaft und der Fernsehwirtschaft sowie mindestens einen Hersteller und mindestens eine Drehbuchautorin oder einen Drehbuchautoren oder eine Dramaturgin oder einen Dramaturgen. Hierbei bestimmt der Vorstand für jede Sitzung jeweils mindestens drei Frauen und mindestens drei Männer. Er stellt auch sicher, dass ein in Finanzierungsfragen sachkundiges Mitglied an jeder Sitzung der Kommission teilnimmt.
 
@@ -436,8 +405,7 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (3) Die Besetzung der Kommissionen erfolgt in Abstimmung mit dem Präsidium. Näheres zum Verfahren regelt die Satzung.
 
-
-## § 29 – Kommission für Kinoförderung
+# § 29 – Kommission für Kinoförderung
 
 (1) Die Kommission für Kinoförderung entscheidet über Förderhilfen im Rahmen der Kinoprojektförderung nach den §§ 134 bis 137 und 140 bis 144, soweit dies nicht nach § 17 in die Zuständigkeit des Vorstands fällt.
 
@@ -445,18 +413,15 @@ Folgende ständige Förderkommissionen werden eingerichtet:
 
 (3) Den Vorsitz führt der Vorstand oder eine seiner Stellvertretungen ohne Stimmrecht.
 
-
-## § 30 – Weitere Förderkommissionen
+# § 30 – Weitere Förderkommissionen
 
 Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen obersten Bundesbehörde für die Umsetzung von zwei- oder mehrseitigen zwischenstaatlichen Abkommen der Bundesrepublik Deutschland über die Gemeinschaftsproduktion von Filmen weitere Förderkommissionen einsetzen.
 
-
-## § 31 – Widersprüche gegen Entscheidungen der Förderkommissionen
+# § 31 – Widersprüche gegen Entscheidungen der Förderkommissionen
 
 Über Widersprüche gegen Entscheidungen der Förderkommissionen entscheidet die jeweilige Förderkommission. § 8 Absatz 5 Satz 2 und 3 gilt entsprechend.
 
-
-## § 32 – Satzung
+# § 32 – Satzung
 
 (1) Die Satzung der Filmförderungsanstalt regelt, soweit dieses Gesetz keine Bestimmung trifft und die haushaltsrechtlichen Vorschriften des Bundes nicht entgegenstehen, das Nähere über
 
@@ -474,8 +439,7 @@ Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen 
 
 2. die Mitglieder der Förderkommissionen und die stellvertretenden Mitglieder der Kommission für Kinoförderung für die Prüfung von Anträgen eine Vergütung erhalten.
 
-
-## § 33 – Wirtschaftsplan
+# § 33 – Wirtschaftsplan
 
 (1) Der Verwaltungsrat stellt jährlich vor Beginn des Wirtschaftsjahres einen Wirtschaftsplan nach den Grundsätzen einer sparsamen Wirtschaftsführung fest. Darin sind, getrennt nach Zweckbestimmung und Ansatz, alle voraussichtlichen Einnahmen und Ausgaben der Filmförderungsanstalt im kommenden Wirtschaftsjahr zu veranschlagen. Der Wirtschaftsplan muss in Einnahmen und Ausgaben ausgeglichen sein. Der Wirtschaftsplan bedarf der Genehmigung der für Kultur und Medien zuständigen obersten Bundesbehörde.
 
@@ -485,8 +449,7 @@ Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen 
 
 (4) Das Wirtschaftsjahr ist das Kalenderjahr. Ist bis zum Schluss eines Wirtschaftsjahres der Wirtschaftsplan für das folgende Jahr noch nicht festgestellt, so bedürfen Ausgaben der Zustimmung des Verwaltungsrats.
 
-
-## § 34 – Haushalts- und Wirtschaftsführung
+# § 34 – Haushalts- und Wirtschaftsführung
 
 (1) Der Wirtschaftsplan ist sparsam und wirtschaftlich auszuführen.
 
@@ -496,8 +459,7 @@ Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen 
 
 2. für die Ausgabe ein unvorhergesehenes und unabweisbares Bedürfnis vorliegt.
 
-
-## § 35 – Rücklagen
+# § 35 – Rücklagen
 
 (1) Zur Sicherung ihrer Haushaltswirtschaft und zur Erfüllung ihrer Aufgaben kann die Filmförderungsanstalt Rücklagen bilden. Von den bei der Erstellung des Wirtschaftsplans zu erwartenden Einnahmen aus der Filmabgabe dürfen nicht mehr als 10 Prozent der Rücklage zugeführt werden. Die Beschränkung nach Satz 2 gilt nicht für Rücklagen, die aufgrund von gegen die Abgabebescheide eingelegten Rechtsmitteln gebildet werden.
 
@@ -505,15 +467,13 @@ Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen 
 
 (3) Über die Bildung sowie Auflösung und Verwendung von Rücklagen beschließt der Verwaltungsrat mit einer Mehrheit von zwei Dritteln der Stimmen, mindestens aber der Mehrheit seiner Mitglieder.
 
-
-## § 36 – Stundung, Niederschlagung und Erlass von Ansprüchen
+# § 36 – Stundung, Niederschlagung und Erlass von Ansprüchen
 
 (1) Für die Stundung, die Niederschlagung und den Erlass von Ansprüchen der Filmförderungsanstalt gilt, soweit in diesem Gesetz nichts Abweichendes geregelt ist, § 59 Absatz 1 der Bundeshaushaltsordnung entsprechend. § 59 Absatz 2 der Bundeshaushaltsordnung findet keine Anwendung.
 
 (2) Die Niederschlagung und der Erlass von Ansprüchen bedürfen der Zustimmung des Verwaltungsrats. Abweichend von Satz 1 kann der Vorstand die Zahlungsverpflichtung eines Schuldners bis zur Höhe von jährlich 250 Euro niederschlagen.
 
-
-## § 37 – Rechnungslegung und Prüfung der Jahresrechnung
+# § 37 – Rechnungslegung und Prüfung der Jahresrechnung
 
 (1) Der Vorstand hat über alle Einnahmen und Ausgaben sowie über das Vermögen und die Schulden der Filmförderungsanstalt und deren Veränderungen im abgelaufenen Wirtschaftsjahr Rechnung zu legen. Die Jahresrechnung ist der für Kultur und Medien zuständigen obersten Bundesbehörde vorzulegen.
 
@@ -523,8 +483,7 @@ Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen 
 
 (4) Die Prüfung der Jahresrechnung ist nach den vom Institut der Wirtschaftsprüfer entwickelten Prüfungsstandards durchzuführen. Der Prüfbericht ist dem Verwaltungsrat, der für Kultur und Medien zuständigen obersten Bundesbehörde und dem Bundesrechnungshof vorzulegen. § 109 Absatz 2 der Bundeshaushaltsordnung findet keine Anwendung.
 
-
-## § 38 – Aufsicht
+# § 38 – Aufsicht
 
 (1) Die Filmförderungsanstalt untersteht der Rechtsaufsicht der für Kultur und Medien zuständigen obersten Bundesbehörde. Die Aufsichtsbehörde ist befugt, Anordnungen zu treffen, um den Geschäftsbetrieb der Filmförderungsanstalt mit dem geltenden Recht in Einklang zu halten.
 
@@ -532,13 +491,11 @@ Das Präsidium kann im Einvernehmen mit der für Kultur und Medien zuständigen 
 
 (3) Kommt die Filmförderungsanstalt ihren Verpflichtungen nicht nach, so ist die Aufsichtsbehörde befugt, die Aufgaben durch einen besonderen Beauftragten durchführen zu lassen oder sie selbst durchzuführen.
 
-
-## § 39 – Zweckbindung der Fördermittel
+# § 39 – Zweckbindung der Fördermittel
 
 Die Fördermittel sind ausschließlich für den bestimmten Förderzweck zu verwenden. Ansprüche auf Gewährung oder Auszahlung von Fördermitteln sind nur zur Zwischenfinanzierung der jeweils geförderten Maßnahme an Banken oder sonstige Kreditinstitute abtretbar oder verpfändbar.
 
-
-## § 40 – Begriffsbestimmungen
+# § 40 – Begriffsbestimmungen
 
 (1) Ein Film ist programmfüllend, wenn er eine Vorführdauer von mindestens 79 Minuten, bei Kinderfilmen von mindestens 59 Minuten hat. Maßgeblich ist die Vorführdauer des Films einschließlich des Vor- und Abspanns.
 
@@ -562,8 +519,7 @@ Die Fördermittel sind ausschließlich für den bestimmten Förderzweck zu verwe
 
 (11) Bezahlfernsehen gegen pauschales Entgelt ist ein linearer Dienst, bei dem Filme innerhalb eines festgelegten Programmangebots gegen ein unabhängig von der Nutzung des einzelnen Films zu zahlendes Entgelt angeboten werden.
 
-
-## § 41 – Filmbezogene allgemeine Fördervoraussetzungen
+# § 41 – Filmbezogene allgemeine Fördervoraussetzungen
 
 (1) Förderhilfen werden nach Maßgabe dieses Gesetzes für die Herstellung, den Absatz, das Abspiel und die Digitalisierung von Filmen gewährt, wenn
 
@@ -603,8 +559,7 @@ g) die Handlung oder die Stoffvorlage befasst sich mit Künstlerinnen oder Küns
 
 (5) Der Vorstand kann Ausnahmen von den Voraussetzungen des Absatzes 1 Nummer 1 und 6 sowie des Absatzes 2 zulassen, wenn die Gesamtwürdigung des Films dies rechtfertigt. Bei programmfüllenden Filmen kann er auch Ausnahmen von der Voraussetzung des Absatzes 1 Nummer 2 zulassen.
 
-
-## § 42 – Internationale Koproduktionen
+# § 42 – Internationale Koproduktionen
 
 (1) Förderhilfen werden nach Maßgabe dieses Gesetzes auch für die Herstellung, den Absatz, das Abspiel und die Digitalisierung von Filmen gewährt, die unter der Voraussetzung des § 41 Absatz 1 Nummer 1 und 2 gemeinsam mit mindestens einem Hersteller mit Sitz oder Wohnsitz außerhalb des Geltungsbereichs dieses Gesetzes hergestellt werden oder worden sind und
 
@@ -642,8 +597,7 @@ f) die Handlung oder die Stoffvorlage befasst sich mit Fragen religiöser oder p
 
 g) die Handlung oder die Stoffvorlage befasst sich mit wissenschaftlichen Themen oder natürlichen Phänomenen.
 
-
-## § 43 – Internationale Kofinanzierungen
+# § 43 – Internationale Kofinanzierungen
 
 Förderhilfen werden nach Maßgabe dieses Gesetzes auch für die Herstellung, den Absatz und das Abspiel von Filmen gewährt, die mit mindestens einem Hersteller mit Wohnsitz oder Sitz außerhalb des Geltungsbereichs dieses Gesetzes hergestellt werden oder worden sind und zu deren Herstellung der Hersteller im Sinne des § 41 Absatz 1 Nummer 1 nur einen finanziellen Beitrag geleistet hat, wenn
 
@@ -653,8 +607,7 @@ Förderhilfen werden nach Maßgabe dieses Gesetzes auch für die Herstellung, de
 
 3. der Beitrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 dem in dem Abkommen festgelegten Mindestanteil entspricht.
 
-
-## § 44 – Förderfähigkeit von internationalen Koproduktionen und Kofinanzierungen
+# § 44 – Förderfähigkeit von internationalen Koproduktionen und Kofinanzierungen
 
 (1) Für internationale Koproduktionen im Sinne des § 42 oder internationale Kofinanzierungen im Sinne des § 43 werden Förderhilfen nur gewährt, wenn der Hersteller im Sinne des § 41 Absatz 1 Nummer 1
 
@@ -678,8 +631,7 @@ Artikel 10 des Europäischen Übereinkommens über die Gemeinschaftsproduktion v
 
 (4) Die Förderhilfen dürfen in keinem Fall den finanziellen Beitrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 überschreiten.
 
-
-## § 45 – Fördervoraussetzungen bei internationalen Kofinanzierungen
+# § 45 – Fördervoraussetzungen bei internationalen Kofinanzierungen
 
 (1) Internationale Kofinanzierungen im Sinne des § 43 nehmen an der Förderung nach diesem Gesetz nur teil, wenn ein von der Bundesrepublik Deutschland abgeschlossenes zwei- oder mehrseitiges zwischenstaatliches Abkommen die Förderung internationaler Kofinanzierungen ausdrücklich vorsieht und soweit und solange die Gegenseitigkeit mit den Staaten, in denen die anderen Beteiligten ihren Wohnsitz oder Sitz haben, verbürgt ist.
 
@@ -687,32 +639,27 @@ Artikel 10 des Europäischen Übereinkommens über die Gemeinschaftsproduktion v
 
 (3) Soweit im Fall einer internationalen Kofinanzierung der finanzielle Beitrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 25 Prozent der gesamten Herstellungskosten übersteigt, bleibt der übersteigende Teil bei der Bemessung der Förderung unberücksichtigt.
 
-
-## § 46 – Nicht förderfähige Filme
+# § 46 – Nicht förderfähige Filme
 
 Förderhilfen dürfen nicht gewährt werden, wenn der Referenzfilm, der neue Film oder das Filmvorhaben verfassungsfeindliche oder gesetzwidrige Inhalte enthalten. Gleiches gilt für Referenzfilme, neue Filme oder Filmvorhaben, die unter Berücksichtigung des dramaturgischen Aufbaus, des Drehbuchs, der Gestaltung, der schauspielerischen Leistungen, der Animation, der Kameraführung oder des Schnitts nach dem Gesamteindruck von geringer Qualität sind. Nicht zu fördern sind ferner Referenzfilme, neue Filme und Filmvorhaben, die einen pornographischen oder gewaltverherrlichenden Schwerpunkt haben oder offenkundig religiöse Gefühle tiefgreifend und unangemessen verletzen.
 
-
-## § 47 – Barrierefreie Fassung
+# § 47 – Barrierefreie Fassung
 
 (1) Förderhilfen für die Herstellung und die Digitalisierung von Filmen dürfen nur gewährt werden, wenn bis zur Erstaufführung in einem Kino wenigstens eine Endfassung des Films als barrierefreie Fassung hergestellt wird. Förderhilfen für Kinos und den Absatz von Filmen dürfen nur gewährt werden, wenn barrierefreie Fassungen in geeigneter Weise und in angemessenem Maße zugänglich gemacht werden.
 
 (2) Der Vorstand kann Ausnahmen von den in Absatz 1 genannten Voraussetzungen zulassen, wenn die Gesamtwürdigung des Vorhabens dies rechtfertigt.
 
-
-## § 48 – Herstellung der Kopien
+# § 48 – Herstellung der Kopien
 
 Förderhilfen dürfen nur gewährt werden, wenn die Kopien, die für die Auswertung im Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz bestimmt sind, in einem dieser Staaten hergestellt werden, es sei denn, dass hierfür die technischen Voraussetzungen nicht gegeben sind.
 
-
-## § 49 – Archivierung
+# § 49 – Archivierung
 
 (1) Der Hersteller oder Verleiher eines nach diesem Gesetz geförderten Films ist verpflichtet, der Bundesrepublik Deutschland eine technisch einwandfreie analoge oder unkomprimierte digitale Kopie des Films in einem archivfähigen Format unentgeltlich zu übereignen, sofern diese Verpflichtung nicht schon anderweitig begründet oder erfüllt ist. Soweit der Hersteller oder Verleiher nach Maßgabe dieses Gesetzes zur Herstellung einer barrierefreien Fassung des Films verpflichtet ist, gilt Satz 1 auch für die barrierefreie Fassung. Näheres regeln Bestimmungen des Bundesarchivs.
 
 (2) Die Kopien werden vom Bundesarchiv für Zwecke der Filmförderung im Sinne dieses Gesetzes verwahrt. Sie können für die filmkundliche Auswertung zur Verfügung gestellt werden.
 
-
-## § 50 – Ausschluss von Personen von der Förderung
+# § 50 – Ausschluss von Personen von der Förderung
 
 (1) Folgende natürliche oder juristische Personen können für bis zu fünf Jahre nach Begehung des Verstoßes von der Förderung ausgeschlossen werden:
 
@@ -726,8 +673,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (2) Von der Förderung ausgeschlossen sind juristische Personen, die einer Rückforderungsanordnung aufgrund eines früheren Beschlusses der Europäischen Kommission zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer Unvereinbarkeit mit dem Binnenmarkt nicht nachgekommen sind.
 
-
-## § 51 – Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+# § 51 – Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 
 (1) Auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 stellt das Bundesamt für Wirtschaft und Ausfuhrkontrolle eine Bescheinigung darüber aus, dass ein Film den Vorschriften des § 41, der §§ 42 und 44 oder der §§ 43 bis 45 entspricht. Zur Prüfung der Voraussetzungen nach § 41 Absatz 1 Nummer 5 und 7 oder nach § 42 Absatz 3 in Verbindung mit § 41 Absatz 1 Nummer 5 und 7 hat die Filmförderungsanstalt für das Bundesamt für Wirtschaft und Ausfuhrkontrolle auf dessen Anforderung eine gutachterliche Stellungnahme zu erstellen. In dem Antrag ist nachzuweisen, dass der Film entsprechend § 41 Absatz 1 Nummer 6 in deutscher Sprache im Inland oder als deutscher Beitrag im Hauptwettbewerb oder in einer Nebenreihe auf einem Festival welturaufgeführt worden ist.
 
@@ -737,8 +683,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (4) Die Bescheinigung enthält keine Aussage über die Förderfähigkeit des Films.
 
-
-## § 52 – Vorläufige Projektbescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
+# § 52 – Vorläufige Projektbescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 durch eine vorläufige Projektbescheinigung bestätigen, dass ein Film den Vorschriften des § 41, der §§ 42 und 44 oder der §§ 43 bis 45 voraussichtlich entsprechen wird, wenn die bei Antragstellung eingereichten Unterlagen dies erkennen lassen.
 
@@ -746,8 +691,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (3) Die vorläufige Bescheinigung enthält keine Aussage über die Förderfähigkeit des Films.
 
-
-## § 53 – Regelmäßige Sperrfristen
+# § 53 – Regelmäßige Sperrfristen
 
 (1) Wer Projektfilm-, Referenzfilm-, Kurzfilm- oder Absatzfördermittel nach diesem Gesetz in Anspruch nimmt, darf den mit diesen Mitteln hergestellten oder ausgewerteten Film oder Teile desselben zum Schutz der einzelnen Verwertungsstufen vor Ablauf der in Absatz 2 genannten Sperrfristen weder durch Bildträger im Inland oder in deutscher Sprachfassung im Ausland noch im Fernsehen oder in sonstiger Weise auswerten oder auswerten lassen. Satz 1 gilt nur für programmfüllende Filme.
 
@@ -763,8 +707,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (+++ § 53: zur Anwendung vgl. § 56 Abs. 1 +++)
 
-
-## § 54 – Ordentliche Verkürzung der Sperrfristen
+# § 54 – Ordentliche Verkürzung der Sperrfristen
 
 (1) Sofern filmwirtschaftliche Belange dem nicht entgegenstehen, können die regelmäßigen Sperrfristen auf Antrag nach folgenden Maßgaben verkürzt werden:
 
@@ -778,8 +721,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (3) Der Antrag auf Verkürzung der Sperrfrist für frei empfangbares Fernsehen kann bei Filmen mit einer überdurchschnittlichen Finanzierungsbeteiligung eines Fernsehveranstalters, deren Herstellungskosten das Zweifache des Durchschnitts der Herstellungskosten aller im Vorjahr nach § 59 geförderten Filmvorhaben übersteigen, abweichend von Absatz 2 bereits vor Drehbeginn gestellt werden. Die Verkürzung der Sperrfrist vor Beginn der regulären Erstaufführung setzt voraus, dass die Kinoauswertung durch eine im Verhältnis zu den Herstellungskosten angemessene Kopienzahl sichergestellt ist und die Herstellung des Films im besonderen filmwirtschaftlichen Interesse liegt.
 
-
-## § 55 – Außerordentliche Verkürzung der Sperrfristen
+# § 55 – Außerordentliche Verkürzung der Sperrfristen
 
 (1) Für einzelne Projekte, für deren wirtschaftlichen Erfolg eine abweichende Verwertungsfolge erforderlich ist, können die regelmäßigen Sperrfristen auf Antrag in begründeten Ausnahmefällen über die in § 54 Absatz 1 genannten Fristen hinaus verkürzt werden oder entfallen, wenn
 
@@ -793,8 +735,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (4) Die Filmförderungsanstalt legt spätestens zum 30. Juni 2019 einen Evaluierungsbericht vor, wie sich Verkürzungen nach Absatz 1 oder Absatz 3 auf den Zuschauererfolg dieser Filme im Kino ausgewirkt haben.
 
-
-## § 56 – Nichtanwendung der Sperrfristenregelungen
+# § 56 – Nichtanwendung der Sperrfristenregelungen
 
 (1) § 53 findet auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 keine Anwendung, wenn
 
@@ -806,8 +747,7 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (3) Der Antrag ist unzulässig, wenn der Hersteller im Sinne des § 41 Absatz 1 Nummer 1 als natürliche oder juristische Person oder eine mit dieser gesellschaftsrechtlich verbundene juristische Person innerhalb der letzten vier Jahre vor Antragstellung einen entsprechenden Antrag für einen anderen Film gestellt hat.
 
-
-## § 57 – Verletzung der Sperrfristen
+# § 57 – Verletzung der Sperrfristen
 
 (1) Werden die Sperrfristen verletzt, so hat die Filmförderungsanstalt den Förderbescheid ganz oder teilweise zu widerrufen.
 
@@ -815,20 +755,17 @@ Gleiches gilt für eine juristische Person, die mit einer juristischen Person na
 
 (3) Bereits ausgezahlte Fördermittel sind zurückzufordern.
 
-
-## § 58 – Ermächtigung des Verwaltungsrats
+# § 58 – Ermächtigung des Verwaltungsrats
 
 Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des § 55 Absatz 1 und 3, der §§ 56 und 57 durch Richtlinie bestimmen.
 
-
-## § 59 – Förderhilfen
+# § 59 – Förderhilfen
 
 (1) Projektfilmförderung kann gewährt werden, wenn ein Filmvorhaben einen programmfüllenden Film erwarten lässt, der besonders geeignet erscheint, die Qualität und die Wirtschaftlichkeit des deutschen Films zu verbessern. Es sollen Filmvorhaben aller Art gefördert werden, darunter in angemessenem Umfang auch Projekte von talentierten Nachwuchskräften, Kinderfilmprojekte, die auf Originalstoffen beruhen, und Projekte, die auch zur Ausstrahlung im Fernsehen geeignet sind.
 
 (2) Bei Filmvorhaben, die einen nicht programmfüllenden Film mit einer Vorführzeit von mehr als 30 Minuten erwarten lassen, kann der Vorstand auf Antrag Ausnahmen von der Voraussetzung zulassen, dass der Film programmfüllend sein muss, wenn die Gesamtwürdigung des Films dies rechtfertigt.
 
-
-## § 60 – Art und Höhe, Mindestförderquote
+# § 60 – Art und Höhe, Mindestförderquote
 
 (1) Als Förderhilfen für die Herstellung eines Films werden bedingt rückzahlbare zinslose Darlehen bis zu 1 Million Euro gewährt. Die Mindestförderhöhe beträgt grundsätzlich 200 000 Euro und bei Dokumentarfilmen 100 000 Euro. Wenn die antragstellende Person eine geringere Fördersumme beantragt, können auch Darlehen in geringerer Höhe gewährt werden. Auf Antrag kann die Kommission für Produktions- und Drehbuchförderung in besonders begründeten Fällen Ausnahmen von den Sätzen 1 und 2 zulassen.
 
@@ -838,15 +775,13 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (4) Für dasselbe Filmvorhaben gewährte Förderhilfen für die Drehbuchfortentwicklung nach § 107 sind auf die Projektfilmförderung anzurechnen. Dies gilt auch für den Fall, dass nach § 85 Absatz 1 Förderhilfen nach § 73 oder § 76 für die Vorbereitung desselben Filmvorhabens verwendet werden.
 
-
-## § 61 – Auswahl von Vorhaben
+# § 61 – Auswahl von Vorhaben
 
 (1) Können nicht alle geeigneten Filmvorhaben angemessen gefördert werden, so wählt die Kommission für Produktions- und Drehbuchförderung die ihr am besten erscheinenden Vorhaben im Rahmen einer Gesamtwürdigung aus.
 
 (2) Bei der Entscheidung über die Auswahl der zu fördernden Vorhaben sollen insbesondere die Qualität des Drehbuchs, die zu erwartenden Besucherzahlen, die relative Wirtschaftlichkeit des Vorhabens sowie die Zugangsmöglichkeiten zu anderen Förderhilfen nach diesem Gesetz berücksichtigt werden. Im Übrigen kann die Höhe der bei anderen nach diesem Gesetz geförderten Vorhaben geleisteten Tilgungen der antragstellenden Person berücksichtigt werden.
 
-
-## § 62 – Einbeziehung von Gemeinschaftsproduktionen
+# § 62 – Einbeziehung von Gemeinschaftsproduktionen
 
 (1) Filmvorhaben, die als Gemeinschaftsproduktion mit Herstellern verwirklicht werden sollen, die ihren Wohnsitz oder Sitz in einem Staat haben, mit dem ein zwischenstaatliches Abkommen im Sinne des § 42 Absatz 1 Nummer 2 besteht oder die ihren Sitz in einem Staat haben, mit dessen für die Filmförderung zuständigen Stellen eine Kooperationsvereinbarung im Sinne des § 3 Absatz 4 besteht, können bei Verbürgung der Gegenseitigkeit im Rahmen der hierfür zur Verfügung stehenden Mittel gesondert eine Förderhilfe erhalten.
 
@@ -854,8 +789,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (3) Förderhilfen nach Absatz 1 können auch als Zuschuss gewährt werden.
 
-
-## § 63 – Eigenanteil des Herstellers
+# § 63 – Eigenanteil des Herstellers
 
 (1) Projektfilmförderung nach § 59 wird nur gewährt, wenn der Hersteller an den im Kostenplan angegebenen und von der Filmförderungsanstalt anerkannten Kosten einen nach dem Produktionsumfang, der Kapitalausstattung und bisherigen Produktionstätigkeit des Herstellers angemessenen Eigenanteil trägt. Der Eigenanteil muss mindestens 5 Prozent der von der Filmförderungsanstalt anerkannten Kosten betragen. Bei internationalen Koproduktionen nach § 42 ist bei der Berechnung des Eigenanteils der Finanzierungsanteil des deutschen Herstellers zugrunde zu legen. Satz 3 gilt entsprechend für Filme, die unter Mitwirkung eines öffentlich-rechtlichen Fernsehveranstalters hergestellt werden.
 
@@ -881,8 +815,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 63: zur Anwendung vgl. § 84 Abs. 1 +++)
 
-
-## § 64 – Ausnahmen beim Eigenanteil
+# § 64 – Ausnahmen beim Eigenanteil
 
 (1) Der Vorstand kann auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 für dessen zwei erste programmfüllende Filme Ausnahmen von § 63 Absatz 1 Satz 1 zulassen.
 
@@ -890,8 +823,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 64: zur Anwendung vgl. § 84 Abs. 1 +++)
 
-
-## § 65 – Bürgschaften
+# § 65 – Bürgschaften
 
 (1) Auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 kann der Vorstand Bürgschaften zur Besicherung der vertraglich vereinbarten Rückzahlungsverpflichtung des Herstellers wegen Nichtfertigstellung des Films gegenüber einem Fernsehveranstalter übernehmen.
 
@@ -905,8 +837,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 65: zur Anwendung vgl. § 86 +++)
 
-
-## § 66 – Antrag
+# § 66 – Antrag
 
 (1) Projektfilmförderung wird auf Antrag gewährt. Antragsberechtigt ist der Hersteller im Sinne des § 41 Absatz 1 Nummer 1.
 
@@ -918,8 +849,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 66 Abs. 2: zur Anwendung vgl. § 82 Abs. 1, § 94 Abs. 1 u. § 109 Abs. 2 +++)
 
-
-## § 67 – Bewilligung
+# § 67 – Bewilligung
 
 (1) Der Bescheid über die Bewilligung der Förderhilfen nach § 59 ist mit Auflagen zu verbinden, um sicherzustellen, dass die in den folgenden Absätzen genannten Voraussetzungen erfüllt werden. Die antragstellende Person kann die Erfüllung dieser Voraussetzungen bis zur Auszahlung der Förderhilfe nachholen.
 
@@ -945,8 +875,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 67 Abs. 1 i.V.m. Abs. 10: zur Anwendung vgl. § 83 Abs. 3 +++)
 
-
-## § 68 – Förderzusage, Form
+# § 68 – Förderzusage, Form
 
 (1) Der Vorstand kann auf Antrag aufgrund des Drehbuchs, der Stab- und Besetzungsliste sowie des Kosten- und Finanzierungsplans die Gewährung von Förderhilfen nach § 59 auch für solche Filmvorhaben zusagen, deren Finanzierung noch nicht gesichert ist (Förderzusage).
 
@@ -956,15 +885,13 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (4) Die Förderzusage bedarf der Schriftform.
 
-
-## § 69 – Auszahlung
+# § 69 – Auszahlung
 
 (1) Die Auszahlung der Förderhilfen erfolgt in bis zu vier Raten. Die Auszahlung der Schlussrate erfolgt nach Vorlage des Verwendungsnachweises und Prüfung der Schlusskosten. Der Förderempfänger hat der Filmförderungsanstalt die Auslagen für die Schlusskostenprüfung zu erstatten.
 
 (2) Die Filmförderungsanstalt hat die Auszahlung der Förderhilfe zu versagen, wenn der Hersteller zum jeweiligen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen sowie die Erfüllung der Auflagen nach § 67 nachweist. Die Auszahlung ist insbesondere zu versagen, wenn die ordnungsgemäße Finanzierung des Filmvorhabens nicht gewährleistet ist.
 
-
-## § 70 – Schlussprüfung
+# § 70 – Schlussprüfung
 
 (1) Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprechend verwendet wurden, insbesondere, ob
 
@@ -978,8 +905,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (2) Der Hersteller eines Films, der nach diesem Gesetz gefördert worden ist, ist verpflichtet, innerhalb von zwei Jahren nach Auszahlung des Darlehens oder eines Teilbetrags davon der Filmförderungsanstalt elf Kopien des Films auf digitalen Bildträgern zur Prüfung vorzulegen. Die Filmförderungsanstalt kann die Frist um höchstens ein Jahr verlängern, wenn der Hersteller nachweist, dass er die Frist aus von ihm nicht zu vertretenden Gründen nicht einhalten kann. Die Filmförderungsanstalt kann ganz oder teilweise auf die Vorlage der Kopien verzichten und bestimmen, dass der Film auf anderem Wege zugänglich gemacht wird.
 
-
-## § 71 – Tilgung des Darlehens
+# § 71 – Tilgung des Darlehens
 
 (1) Das Darlehen ist zu tilgen, sobald und soweit die Erlöse des Herstellers aus der Verwertung des Films mehr als 5 Prozent der im Kostenplan angegebenen und von der Filmförderungsanstalt anerkannten Kosten betragen. Der Vorstand kann bei einem Eigenanteil des Herstellers, der 5 Prozent übersteigt, günstigere Tilgungsbedingungen festlegen.
 
@@ -989,8 +915,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (4) Zehn Jahre nach der Erstaufführung des Films erlischt die Verpflichtung zur Tilgung des Darlehens.
 
-
-## § 72 – Sonstige Rückzahlungspflicht
+# § 72 – Sonstige Rückzahlungspflicht
 
 (1) Der Hersteller hat das Darlehen ferner zurückzuzahlen, wenn
 
@@ -1008,8 +933,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (2) Wurde die nach § 67 Absatz 2 zulässige Förderintensität überschritten und der Film sowohl von der Filmförderungsanstalt als auch von anderen mit öffentlichen Mitteln finanzierten Fördereinrichtungen gefördert, erfolgt die Rückzahlung entsprechend dem Verhältnis der einzelnen Förderbeträge.
 
-
-## § 73 – Förderhilfen, Referenzpunkte
+# § 73 – Förderhilfen, Referenzpunkte
 
 (1) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Films mit Herstellungskosten bis zu 8 Millionen Euro gewährt, wenn der Film mindestens 150 000 Referenzpunkte erreicht hat. Für Filme mit Herstellungskosten von mehr als 8 Millionen Euro und weniger als 20 Millionen Euro beträgt die maßgebliche Referenzpunktzahl 300 000, für Filme mit Herstellungskosten von mehr als 20 Millionen Euro 500 000. Hat der Referenzfilm das Prädikat „besonders wertvoll“ der Deutschen Film- und Medienbewertung erreicht, reduziert sich die zu erreichende Referenzpunktzahl jeweils um 50 000 Referenzpunkte.
 
@@ -1017,8 +941,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (3) Der Vorstand kann auf Antrag abweichend von Absatz 1 nicht programmfüllende Filme mit einer Vorführzeit von mehr als 30 Minuten im Rahmen der Referenzfilmförderung zulassen, wenn die Gesamtwürdigung des jeweiligen Films dies rechtfertigt.
 
-
-## § 74 – Zuschauererfolg
+# § 74 – Zuschauererfolg
 
 (1) Die Referenzpunktzahl aus dem Zuschauererfolg entspricht bei programmfüllenden Filmen der Besucherzahl im Zeitraum eines Jahres nach der Erstaufführung in einem Kino im Inland gegen Entgelt. Es sind nur solche Besucherinnen und Besucher zu berücksichtigen, die den marktüblichen Eintrittspreis bezahlt haben. Besucherinnen und Besucher von Veranstaltungen, bei denen die Eintrittskarte für die Filmaufführung nur gemeinsam mit einer Eintrittskarte für eine andere Veranstaltung erworben werden kann, werden nur dann berücksichtigt, wenn die Filmaufführung den Schwerpunkt der Aufführung darstellt.
 
@@ -1026,8 +949,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 74: zur Anwendung vgl. § 127 Abs. 2 +++)
 
-
-## § 75 – Erfolge bei Festivals und Preise
+# § 75 – Erfolge bei Festivals und Preise
 
 (1) Die Berücksichtigung des Erfolgs bei Festivals und Preisen setzt bei programmfüllenden Filmen voraus, dass der Film im Inland eine Besucherzahl von mindestens 50 000 erreicht hat.
 
@@ -1045,8 +967,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 75: zur Anwendung vgl. § 127 Abs. 2 +++)
 
-
-## § 76 – Förderhilfen, Referenzpunkte
+# § 76 – Förderhilfen, Referenzpunkte
 
 (1) Referenzfilmförderung wird dem Hersteller eines programmfüllenden Kinder- oder Erstlingsfilms sowie dem Hersteller eines programmfüllenden Films mit Herstellungskosten bis zu 1 Million Euro (Filme mit niedrigen Herstellungskosten) gewährt, wenn der Film nach Maßgabe des § 73 Absatz 2 mindestens 50 000 Referenzpunkte erreicht hat. Hat der Referenzfilm das Prädikat „besonders wertvoll“ der Deutschen Film- und Medienbewertung erreicht, reduziert sich die zu erreichende Referenzpunktzahl auf 25 000 Referenzpunkte.
 
@@ -1054,8 +975,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (3) Der Vorstand kann auf Antrag abweichend von den Absätzen 1 und 2 nicht programmfüllende Filme mit einer Vorführzeit von mehr als 30 Minuten im Rahmen der Referenzfilmförderung zulassen, wenn die Gesamtwürdigung des jeweiligen Films dies rechtfertigt.
 
-
-## § 77 – Zuschauererfolg
+# § 77 – Zuschauererfolg
 
 (1) Bei Erstlingsfilmen und Filmen mit niedrigen Herstellungskosten entspricht die Referenzpunktzahl aus dem Zuschauererfolg der Besucherzahl im Zeitraum eines Jahres nach der Erstaufführung in einem Kino im Inland gegen Entgelt. Es sind nur solche Besucherinnen und Besucher zu berücksichtigen, die den marktüblichen Eintrittspreis bezahlt haben. Besucherinnen und Besucher von Veranstaltungen, bei denen die Eintrittskarte für die Filmaufführung nur gemeinsam mit einer Eintrittskarte für eine andere Veranstaltung erworben werden kann, werden nur dann berücksichtigt, wenn die Filmaufführung den Schwerpunkt der Aufführung darstellt.
 
@@ -1067,8 +987,7 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 77: zur Anwendung vgl. § 127 Abs. 2 +++)
 
-
-## § 78 – Erfolge bei Festivals und Preise
+# § 78 – Erfolge bei Festivals und Preise
 
 (1) Die Berücksichtigung des Erfolgs bei Festivals und Preisen setzt voraus, dass der Dokumentar-, Kinder- oder Erstlingsfilm oder Film mit niedrigen Herstellungskosten im Inland eine Besucherzahl von mindestens 25 000 erreicht hat.
 
@@ -1076,25 +995,21 @@ Der Verwaltungsrat kann Einzelheiten zu den Bestimmungen des § 54 Absatz 3, des
 
 (+++ § 78: zur Anwendung vgl. § 127 Abs. 2 +++)
 
-
-## § 79 – Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz
+# § 79 – Einbeziehung von Filmen aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz
 
 Ist die Gegenseitigkeit verbürgt, so können in die Referenzfilmförderung nach § 73 Absatz 1 und § 76 Absatz 1 jährlich bis zu drei Filme aus anderen Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz einbezogen werden. Dabei ist jeweils nur die im Inland erreichte Besucherzahl maßgebend. Die Erfolge bei Festivals und Preisen werden nicht berücksichtigt.
 
-
-## § 80 – Verteilung der Referenzpunkte
+# § 80 – Verteilung der Referenzpunkte
 
 (1) Die für die Referenzfilmförderung zur Verfügung stehenden Mittel werden auf die berechtigten Hersteller nach dem Verhältnis verteilt, in dem die Referenzpunkte der einzelnen Filme zueinander stehen.
 
 (2) Erreicht ein Film in einem Kalenderjahr weniger als 10 000 Referenzpunkte, werden diese nur dann berücksichtigt, wenn sie zusammen mit noch nicht berücksichtigten Referenzpunkten aus anderen Kalenderjahren mindestens 10 000 Referenzpunkte ergeben.
 
-
-## § 81 – Art und Höhe
+# § 81 – Art und Höhe
 
 Referenzfilmförderung wird als Zuschuss gewährt. Die Höchstfördersumme beträgt 2 Millionen Euro.
 
-
-## § 82 – Antrag
+# § 82 – Antrag
 
 (1) Referenzfilmförderung wird auf Antrag gewährt. Antragsberechtigt ist der Hersteller im Sinne des § 41 Absatz 1 Nummer 1. § 66 Absatz 2 gilt entsprechend.
 
@@ -1102,8 +1017,7 @@ Referenzfilmförderung wird als Zuschuss gewährt. Die Höchstfördersumme betr�
 
 (3) Mit Antragstellung ist nachzuweisen, dass der Referenzfilm die jeweils geltenden Voraussetzungen der §§ 41 bis 48 erfüllt. Sofern Mittel zur Kapitalaufstockung verwendet werden sollen, muss die antragstellende Person dem Antrag nachprüfbare Unterlagen über den wirtschaftlichen Zustand ihres Unternehmens beifügen.
 
-
-## § 83 – Zuerkennung
+# § 83 – Zuerkennung
 
 (1) Die Förderhilfen werden in den ersten drei Monaten nach dem Schluss eines Kalenderjahres den Herstellern der Referenzfilme durch Bescheid zuerkannt, die im abgelaufenen Kalenderjahr die Voraussetzungen für die Zuerkennung nachgewiesen haben. Dem Grunde nach kann die Zuerkennung schon vorher erfolgen.
 
@@ -1113,32 +1027,27 @@ Referenzfilmförderung wird als Zuschuss gewährt. Die Höchstfördersumme betr�
 
 (+++ § 83 Abs. 1 u. 2: zur Anwendung vgl. § 129 +++)
 
-
-## § 84 – Verwendung
+# § 84 – Verwendung
 
 (1) Der Hersteller hat die Förderhilfen spätestens bis zum Ablauf von drei Jahren nach Erlass des jeweiligen Zuerkennungsbescheids vorrangig für die Herstellung neuer programmfüllender Filme im Sinne der §§ 41 bis 48 zu verwenden. Die §§ 63 und 64 gelten entsprechend.
 
 (2) Ist der Betrag für eine internationale Koproduktion zuerkannt worden, bei der die Beteiligung des Herstellers nach § 41 Absatz 1 Nummer 1 nach § 42 weniger als 50 Prozent betragen hat, so darf der Betrag nur für die Finanzierung eines Films verwendet werden, an dem die Beteiligung des Herstellers nach § 41 Absatz 1 Nummer 1 nach § 42 mindestens 50 Prozent beträgt oder größer ist als die Beteiligung jedes anderen Koproduzenten.
 
-
-## § 85 – Besondere Verwendungsmöglichkeiten
+# § 85 – Besondere Verwendungsmöglichkeiten
 
 (1) Der Vorstand kann auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 gestatten, dass die nach § 73 oder § 76 zuerkannten Förderhilfen bis zu 75 Prozent, in jedem Fall aber bis zu 100 000 Euro, für besonders aufwendige Maßnahmen der Stoffbeschaffung, der Drehbuchbeschaffung oder -entwicklung oder in sonstiger Weise für die Vorbereitung eines neuen programmfüllenden Films im Sinne der §§ 41 bis 48 verwendet werden.
 
 (2) Der Vorstand kann auf Antrag des Herstellers im Sinne des § 41 Absatz 1 Nummer 1 auch gestatten, dass bis zu 75 Prozent der nach § 73 oder § 76 zuerkannten Förderhilfen, insgesamt jedoch für dasselbe Unternehmen in einem Zeitraum von fünf Jahren nicht mehr als 500 000 Euro, im Interesse der Strukturverbesserung des Unternehmens des Herstellers für eine nicht nur kurzfristige Aufstockung des Eigenkapitals verwendet werden.
 
-
-## § 86 – Bürgschaften
+# § 86 – Bürgschaften
 
 § 65 gilt im Rahmen der Referenzfilmförderung entsprechend.
 
-
-## § 87 – Begonnene Maßnahmen
+# § 87 – Begonnene Maßnahmen
 
 Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, können sie auch für bereits begonnene Maßnahmen verwendet werden. Dies gilt nicht, wenn die Maßnahme vor dem Antrag auf Zuerkennung nach § 82 Absatz 2 begonnen wurde. Eine Verwendung der Förderhilfen für bereits abgeschlossene Maßnahmen ist nicht möglich.
 
-
-## § 88 – Auszahlung
+# § 88 – Auszahlung
 
 (1) Die Filmförderungsanstalt zahlt die Förderhilfen nach den §§ 73 und 76 bedarfsgerecht in bis zu drei Raten an die antragstellende Person aus, sobald nachgewiesen ist, dass die Förderhilfen eine den Bestimmungen dieses Gesetzes entsprechende Verwendung finden. Die Auszahlung der Schlussrate erfolgt nach Vorlage des Verwendungsnachweises und Prüfung der Schlusskosten. Der Förderempfänger hat der Filmförderungsanstalt die Auslagen für die Schlusskostenprüfung zu erstatten.
 
@@ -1146,8 +1055,7 @@ Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, 
 
 (+++ § 88 Abs. 1: zur Anwendung vgl. § 97 Abs. 1 +++)
 
-
-## § 89 – Schlussprüfung
+# § 89 – Schlussprüfung
 
 (1) Die Filmförderungsanstalt prüft, ob die Förderhilfen zweckgemäß verwendet wurden, bei der Herstellung eines neuen Films insbesondere, ob
 
@@ -1157,8 +1065,7 @@ Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, 
 
 (2) Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, ist der Hersteller verpflichtet, innerhalb von zwei Jahren nach Auszahlung der Förderhilfen oder eines Teilbetrags davon der Filmförderungsanstalt eine Kopie des neuen Films auf digitalem Bildträger zur Prüfung vorzulegen. Die Filmförderungsanstalt kann die Frist um höchstens ein Jahr verlängern, wenn der Hersteller nachweist, dass er die Frist aus von ihm nicht zu vertretenden Gründen nicht einhalten kann. Die Filmförderungsanstalt kann ganz oder teilweise auf die Vorlage der Kopien verzichten und bestimmen, dass der Film auf anderem Wege zugänglich gemacht wird.
 
-
-## § 90 – Rückzahlungspflicht
+# § 90 – Rückzahlungspflicht
 
 Der Hersteller ist zur Rückzahlung der nach § 73 oder § 76 zuerkannten Förderhilfen verpflichtet, wenn
 
@@ -1176,15 +1083,13 @@ Der Hersteller ist zur Rückzahlung der nach § 73 oder § 76 zuerkannten Förde
 
 Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige Förderintensität überschritten und der Film sowohl von der Filmförderungsanstalt als auch von anderen mit öffentlichen Mitteln finanzierten Fördereinrichtungen gefördert, erfolgt die Rückzahlung entsprechend dem Verhältnis der einzelnen Förderbeträge.
 
-
-## § 91 – Referenzförderung
+# § 91 – Referenzförderung
 
 (1) Referenzförderung wird dem Hersteller eines Kurzfilms sowie eines nicht programmfüllenden Kinderfilms gewährt, wenn der Film nach Maßgabe des Absatzes 2 mindestens 15 Referenzpunkte erreicht. Bei Filmen mit mindestens 40 Referenzpunkten werden die Referenzpunkte mit dem Faktor 1,5 multipliziert.
 
 (2) Die Referenzpunkte werden aus dem Erfolg bei international und national bedeutsamen Festivals und Preisen ermittelt. Für die Auszeichnung mit dem Prädikat „besonders wertvoll“ der Deutschen Film- und Medienbewertung erhält ein Film zehn Referenzpunkte.
 
-
-## § 92 – Erfolge bei Festivals und Preise
+# § 92 – Erfolge bei Festivals und Preise
 
 (1) Der Erfolg bei international und national bedeutsamen Festivals und Preisen wird wie folgt berücksichtigt:
 
@@ -1194,15 +1099,13 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 
 (2) Bei der Berechnung der Referenzpunktzahl nach Absatz 1 werden nur solche Erfolge berücksichtigt, die innerhalb von zwei Jahren nach Fertigstellung des Films erreicht wurden. Wird ein Film auf einem Festival mit einem Preis ausgezeichnet, bleiben Teilnahme und Nominierung unberücksichtigt. Die nach Absatz 1 zu berücksichtigenden Preise und Festivals legt der Verwaltungsrat durch Richtlinie fest.
 
-
-## § 93 – Förderart, Verteilung der Referenzpunkte
+# § 93 – Förderart, Verteilung der Referenzpunkte
 
 (1) Referenzförderung für Kurzfilme und nicht programmfüllende Kinderfilme wird als Zuschuss gewährt.
 
 (2) Die für die Förderung zur Verfügung stehenden Mittel werden auf die berechtigten Hersteller nach dem Verhältnis verteilt, in dem die Referenzpunkte der einzelnen Filme zueinander stehen.
 
-
-## § 94 – Antrag
+# § 94 – Antrag
 
 (1) Referenzförderung für Kurzfilme und nicht programmfüllende Kinderfilme wird auf Antrag gewährt. Antragsberechtigt ist der Hersteller im Sinne des § 41 Absatz 1 Nummer 1. Ist dieser eine juristische Person des öffentlichen Rechts oder eine juristische Person des privaten Rechts, an der eine oder mehrere juristische Personen des öffentlichen Rechts direkt oder indirekt beteiligt sind, so ist er nicht antragsberechtigt. § 66 Absatz 2 gilt entsprechend.
 
@@ -1210,15 +1113,13 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 
 (3) Die antragstellende Person hat nachzuweisen, dass der Referenzfilm die jeweils geltenden Voraussetzungen der §§ 41 bis 48 erfüllt.
 
-
-## § 95 – Zuerkennung
+# § 95 – Zuerkennung
 
 (1) Die Förderhilfen werden in den ersten drei Monaten nach dem Schluss eines Kalenderjahres den Herstellern der Referenzfilme durch Bescheid zuerkannt, die im abgelaufenen Kalenderjahr die Voraussetzungen für die Zuerkennung nachgewiesen haben.
 
 (2) Der Bescheid über die Zuerkennung der Förderhilfen ist mit Auflagen, deren Erfüllung bis zur Auszahlung nachgeholt werden kann, zu verbinden, um sicherzustellen, dass der neue Film den jeweils geltenden Voraussetzungen der §§ 41 bis 48 entspricht. Der Bescheid ist zudem für den Fall der Verwendung der Förderhilfen für einen programmfüllenden Film mit den in § 67 vorgesehenen Auflagen zu verbinden.
 
-
-## § 96 – Verwendung
+# § 96 – Verwendung
 
 (1) Der Hersteller hat die Förderhilfe bis spätestens zum Ablauf von zwei Jahren nach dem Erlass des Zuerkennungsbescheids in vollem Umfang zur Herstellung neuer Kurzfilme oder neuer programmfüllender Filme im Sinne der §§ 41 bis 48 zu verwenden.
 
@@ -1226,15 +1127,13 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 
 (3) Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, können sie auch für bereits begonnene Maßnahmen verwendet werden. Dies gilt nicht, wenn die Maßnahme vor dem Antrag auf Zuerkennung nach § 82 Absatz 2 begonnen wurde. Eine Verwendung der Förderhilfen für bereits abgeschlossene Maßnahmen ist nicht möglich.
 
-
-## § 97 – Auszahlung
+# § 97 – Auszahlung
 
 (1) Für die Auszahlung der Förderhilfen gilt § 88 Absatz 1 entsprechend.
 
 (2) Die Filmförderungsanstalt hat die Auszahlung der Förderhilfen zu versagen, wenn die antragstellende Person zum jeweiligen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen sowie die Einhaltung der nach § 95 Absatz 2 erteilten Auflagen nachweist. Die Auszahlung ist insbesondere zu versagen, wenn die ordnungsgemäße Finanzierung des Filmvorhabens nicht gewährleistet ist.
 
-
-## § 98 – Schlussprüfung
+# § 98 – Schlussprüfung
 
 (1) Die Filmförderungsanstalt prüft, ob die Förderhilfen zweckgemäß verwendet wurden, bei der Herstellung eines neuen Films insbesondere, ob
 
@@ -1244,8 +1143,7 @@ Wurde die nach § 83 Absatz 3 Satz 2 in Verbindung mit § 67 Absatz 2 zulässige
 
 (2) Werden die Förderhilfen für die Herstellung neuer Filme nach § 84 verwendet, ist der Hersteller verpflichtet, innerhalb von zwei Jahren nach Auszahlung der Förderhilfen oder eines Teilbetrags davon der Filmförderungsanstalt eine Kopie des neuen Films auf digitalem Bildträger zur Prüfung vorzulegen. Die Filmförderungsanstalt kann die Frist um höchstens ein Jahr verlängern, wenn der Hersteller nachweist, dass er die Frist aus von ihm nicht zu vertretenden Gründen nicht einhalten kann. Die Filmförderungsanstalt kann ganz oder teilweise auf die Vorlage der Kopien verzichten und bestimmen, dass der Film auf anderem Wege zugänglich gemacht wird.
 
-
-## § 99 – Rückzahlung
+# § 99 – Rückzahlung
 
 Der Hersteller ist zur Rückzahlung der nach den § 91 zuerkannten Förderhilfen verpflichtet, wenn
 
@@ -1261,8 +1159,7 @@ Der Hersteller ist zur Rückzahlung der nach den § 91 zuerkannten Förderhilfen
 
 6. Auszahlungshindernisse nach § 97 Absatz 2 nachträglich eingetreten oder bekannt geworden sind.
 
-
-## § 100 – Förderhilfen
+# § 100 – Förderhilfen
 
 (1) Die Filmförderungsanstalt kann für die Herstellung von Drehbüchern für programmfüllende Filme Förderhilfen bis zu 25 000 Euro an die Drehbuchautorin oder den Drehbuchautor gewähren, wenn ein Film zu erwarten ist, der geeignet erscheint, die Qualität und Wirtschaftlichkeit des deutschen Films zu verbessern. In besonderen Fällen können Förderhilfen bis zu 35 000 Euro gewährt werden.
 
@@ -1272,41 +1169,35 @@ Der Hersteller ist zur Rückzahlung der nach den § 91 zuerkannten Förderhilfen
 
 (4) Die Förderhilfen werden nicht gewährt, wenn das Vorhaben in der betreffenden Entwicklungsstufe bereits von anderer Stelle gefördert wird. Förderungen der Projektentwicklung oder Produktionsvorbereitung von anderer Stelle sind unbeachtlich, soweit sie nicht ausschließlich ein Vorhaben nach Absatz 1 oder 2 betreffen.
 
-
-## § 101 – Förderart, Auswahl von Vorhaben
+# § 101 – Förderart, Auswahl von Vorhaben
 
 (1) Die Förderhilfen werden als Zuschuss gewährt.
 
 (2) Können nicht alle geeigneten Vorhaben angemessen gefördert werden, so wählt die Kommission für Produktions- und Drehbuchförderung die ihr am besten erscheinenden Projekte im Rahmen einer Gesamtwürdigung aus.
 
-
-## § 102 – Antrag
+# § 102 – Antrag
 
 (1) Die Drehbuch- und Treatmentförderung wird auf Antrag gewährt.
 
 (2) Antragsberechtigt für eine Förderung sind Drehbuchautorinnen und Drehbuchautoren, wenn sie ihre Autorenschaft an mindestens zwei verfilmten Drehbüchern zu programmfüllenden Filmen nachweisen können, die in europäischen Kinos ausgewertet worden sind. Drehbuchautorinnen oder Drehbuchautoren, die nicht die Voraussetzungen von Satz 1 erfüllen, sind nur gemeinsam mit einem Hersteller im Sinne von § 41 Absatz 1 Satz 1 Nummer 1 antragsberechtigt, wenn der Hersteller mindestens einen programmfüllenden Film hergestellt hat und dieser Film in europäischen Kinos ausgewertet wurde.
 
-
-## § 103 – Verwendung
+# § 103 – Verwendung
 
 Die Inanspruchnahme der Förderhilfe verpflichtet die antragstellende Person, das Drehbuch, das Treatment, die vergleichbare Darstellung oder die erste Drehbuchfassung im Fall der Verfilmung nur zur Herstellung eines programmfüllenden Films im Sinne der §§ 41 bis 48 zu verwerten. Das Recht der antragstellenden Person, das Drehbuch, das Treatment, die vergleichbare Darstellung oder die erste Drehbuchfassung zu anderen Zwecken als dem der Verfilmung zu verwerten, bleibt unberührt.
 
-
-## § 104 – Auszahlung
+# § 104 – Auszahlung
 
 (1) Die Auszahlung der Förderhilfen erfolgt in bis zu vier Raten ab ihrer Zuerkennung entsprechend dem Fortschritt der jeweiligen Vorhabenentwicklung an die antragstellende Drehbuchautorin oder den antragstellenden Drehbuchautor.
 
 (2) Die Filmförderungsanstalt hat die Auszahlung der Förderhilfen zu versagen, wenn die antragstellende Person zum jeweiligen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen nachweist.
 
-
-## § 105 – Schlussprüfung
+# § 105 – Schlussprüfung
 
 (1) Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckgemäß verwendet worden sind, insbesondere, ob das Drehbuch, das Treatment, die vergleichbare Darstellung oder die erste Drehbuchfassung im Wesentlichen dem im Antrag beschriebenen Vorhaben entspricht.
 
 (2) Die antragstellende Person ist verpflichtet, das Treatment oder die vergleichbare Darstellung nach Ablauf von einem Jahr, das Drehbuch oder die Drehbuchfassung nach Ablauf von zwei Jahren nach Erlass des Bewilligungsbescheids zur Prüfung vorzulegen. Der Vorstand kann die Fristen nach Satz 1 auf Antrag verlängern.
 
-
-## § 106 – Rückzahlung
+# § 106 – Rückzahlung
 
 Die Förderhilfen nach § 100 sind zurückzuzahlen, wenn
 
@@ -1318,8 +1209,7 @@ Die Förderhilfen nach § 100 sind zurückzuzahlen, wenn
 
 4. das Drehbuch entgegen § 103 verwertet worden ist.
 
-
-## § 107 – Förderhilfen
+# § 107 – Förderhilfen
 
 (1) Die Filmförderungsanstalt kann im Rahmen einer Spitzenförderung für die Fortentwicklung eines Drehbuchs für programmfüllende Filme bis zur Drehreife Förderhilfen bis zu 75 000 Euro gewähren, wenn ein Film zu erwarten ist, der besonders geeignet erscheint, die Qualität und Wirtschaftlichkeit des deutschen Films zu verbessern. Auf Antrag können weitere Förderhilfen bis zu einer Höhe von 25 000 Euro gewährt werden. Insgesamt kann pro Kalenderjahr die Fortentwicklung von bis zu zehn Drehbüchern gefördert werden.
 
@@ -1327,32 +1217,27 @@ Die Förderhilfen nach § 100 sind zurückzuzahlen, wenn
 
 (3) Die Förderhilfen werden nicht gewährt, wenn die Fortentwicklung des Drehbuchs bereits von anderer Stelle gefördert wird.
 
-
-## § 108 – Förderart, Auswahl von Vorhaben
+# § 108 – Förderart, Auswahl von Vorhaben
 
 (1) Die Förderhilfen werden als Zuschuss gewährt.
 
 (2) Können nicht alle geeigneten Vorhaben angemessen gefördert werden, so wählt die Kommission für Produktions- und Drehbuchförderung die ihr am besten erscheinenden Projekte im Rahmen einer Gesamtwürdigung aus.
 
-
-## § 109 – Antrag
+# § 109 – Antrag
 
 (1) Die Drehbuchfortentwicklungsförderung wird auf Antrag gewährt.
 
 (2) Antragsberechtigt sind Hersteller im Sinne von § 41 Absatz 1 Satz 1 Nummer 1 gemeinsam mit einer Drehbuchautorin oder einem Drehbuchautoren. Der Hersteller muss nachweisen, dass er mindestens einen programmfüllenden Film hergestellt hat und dieser Film in europäischen Kinos ausgewertet worden ist. Für den Hersteller gilt § 66 Absatz 2 entsprechend. Die Drehbuchautorin oder der Drehbuchautor muss die eigene Autorenschaft an mindestens einem verfilmten Drehbuch zu einem programmfüllenden Film nachweisen, der in europäischen Kinos ausgewertet worden ist.
 
-
-## § 110 – Sachverständige Begleitung
+# § 110 – Sachverständige Begleitung
 
 Die Filmförderungsanstalt gewährleistet die sachverständige Begleitung der Fortentwicklung eines Drehbuchs durch mindestens ein Mitglied der Kommission für Produktions- und Drehbuchförderung.
 
-
-## § 111 – Verwendung
+# § 111 – Verwendung
 
 Die Inanspruchnahme der Förderhilfe verpflichtet die antragstellenden Personen, das fortentwickelte Drehbuch im Fall der Verfilmung nur zur Herstellung eines programmfüllenden Films im Sinne der §§ 41 bis 48 zu verwerten. Das Recht der antragstellenden Personen, das fortentwickelte Drehbuch zu anderen Zwecken als dem der Verfilmung zu verwerten, bleibt unberührt.
 
-
-## § 112 – Auszahlung
+# § 112 – Auszahlung
 
 (1) Die Auszahlung der Förderhilfen erfolgt in mehreren Raten ab ihrer Bewilligung nach den zwischen der Filmförderungsanstalt und den antragstellenden Personen im Rahmen eines Entwicklungskonzepts vereinbarten Auszahlungszeitpunkten. Die Auszahlung erfolgt an den antragstellenden Hersteller im Sinne des § 109 Absatz 2 Satz 1.
 
@@ -1362,8 +1247,7 @@ Die Inanspruchnahme der Förderhilfe verpflichtet die antragstellenden Personen,
 
 (4) Die Filmförderungsanstalt hat die Auszahlung der Förderhilfen zu versagen, wenn die antragstellenden Personen zum jeweiligen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen nachweisen.
 
-
-## § 113 – Schlussprüfung, Rückzahlung
+# § 113 – Schlussprüfung, Rückzahlung
 
 (1) Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckgemäß verwendet wurden, insbesondere, ob das Drehbuch im Wesentlichen mit dem vereinbarten Entwicklungskonzept übereinstimmt.
 
@@ -1379,13 +1263,11 @@ Die Inanspruchnahme der Förderhilfe verpflichtet die antragstellenden Personen,
 
 4. das Drehbuch entgegen § 111 verwertet worden ist.
 
-
-## § 114 – Ermächtigung des Verwaltungsrats
+# § 114 – Ermächtigung des Verwaltungsrats
 
 Die Einzelheiten der Drehbuchfortentwicklungsförderung werden durch eine Richtlinie des Verwaltungsrats geregelt.
 
-
-## § 115 – Förderhilfen
+# § 115 – Förderhilfen
 
 Die Filmförderungsanstalt kann Förderhilfen gewähren für
 
@@ -1395,8 +1277,7 @@ Die Filmförderungsanstalt kann Förderhilfen gewähren für
 
 3. den Absatz von Filmen im Sinne der §§ 41 bis 48 mittels entgeltlicher Videoabrufdienste.
 
-
-## § 116 – Verwendung für den Verleih und Vertrieb
+# § 116 – Verwendung für den Verleih und Vertrieb
 
 (1) Die Förderhilfen nach § 115 Nummer 1 für den Verleih und Vertrieb können verwendet werden
 
@@ -1416,8 +1297,7 @@ Die Filmförderungsanstalt kann Förderhilfen gewähren für
 
 (3) Abweichend von § 115 Nummer 1 kann die Filmförderungsanstalt Förderhilfen gemäß Absatz 1 Nummer 5 auch für den Verleih und Vertrieb von Kurzfilmen gewähren.
 
-
-## § 117 – Verwendung für den Videoabsatz
+# § 117 – Verwendung für den Videoabsatz
 
 Die Förderhilfen nach § 115 Nummer 2 und 3 für den Videoabsatz können verwendet werden
 
@@ -1427,8 +1307,7 @@ Die Förderhilfen nach § 115 Nummer 2 und 3 für den Videoabsatz können verwen
 
 3. für Maßnahmen nach § 116 Absatz 1 Nummer 2 bis 6, wobei für Maßnahmen nach § 116 Absatz 1 Nummer 5 und 6 im Rahmen der Videoabsatzförderung auch deutsche Filmklassiker und in begrenztem Umfang auch ausländische Filme berücksichtigt werden können, soweit dabei jeweils die Werbung mit aktuellen deutschen Filmen im Mittelpunkt der Maßnahmen steht.
 
-
-## § 118 – Art und Höhe
+# § 118 – Art und Höhe
 
 (1) Die Förderhilfen werden als bedingt rückzahlbare, zinslose Darlehen mit einer Laufzeit von bis zu zehn Jahren gewährt. Die Auswertung des Films kann als Gesamtmaßnahme mit Förderhilfen nach § 115 Nummer 1 bis 3 gefördert werden. Dabei kann die antragstellende Person die nach § 116 Absatz 1 Nummer 1 oder § 117 Nummer 1 gewährten Förderhilfen wahlweise zur Deckung von Vorkosten nach § 116 Absatz 1 Nummer 1 oder zur Deckung von Herausbringungskosten nach § 117 Nummer 1 bis zur Höhe der jeweils geltenden Höchstbeträge nach Absatz 2 Satz 1 verwenden.
 
@@ -1440,18 +1319,15 @@ Die Förderhilfen nach § 115 Nummer 2 und 3 für den Videoabsatz können verwen
 
 § 118 Abs. 2 Satz 2 Kursivdruck: wegen offensichtlicher Unrichtigkeit wurde nach § 116 der Zusatz "Absatz 1" ergänzt.
 
-
-## § 119 – Auswahl von Vorhaben
+# § 119 – Auswahl von Vorhaben
 
 Können nicht alle geeigneten Vorhaben angemessen gefördert werden, so wählt die Kommission für Verleih-, Vertriebs- und Videoförderung die ihr am besten erscheinenden Vorhaben im Rahmen einer Gesamtwürdigung aus. Bei der Entscheidung über die Auswahl der zu fördernden Vorhaben können insbesondere die Höhe der bei anderen nach diesem Gesetz geförderten Vorhaben geleisteten Tilgungen der antragstellenden Person sowie die relative Wirtschaftlichkeit des Vorhabens berücksichtigt werden.
 
-
-## § 120 – Einbeziehung von Gemeinschaftsproduktionen und ausländischen Filmen
+# § 120 – Einbeziehung von Gemeinschaftsproduktionen und ausländischen Filmen
 
 Förderhilfen nach § 115 Nummer 1 können im Rahmen der hierfür zur Verfügung stehenden Mittel auch solche Filme erhalten, deren Herstellung nach § 62 Absatz 1 gefördert worden ist, sowie nach Maßgabe von zwischenstaatlichen Verleih-Abkommen auch andere Filme, die in einem anderen Mitgliedstaat der Europäischen Union oder in einem anderen Staat hergestellt worden sind, sofern die Gegenseitigkeit verbürgt ist.
 
-
-## § 121 – Antrag
+# § 121 – Antrag
 
 (1) Die Förderhilfen werden auf Antrag gewährt. Förderhilfen nach § 115 Nummer 1 bis 3 können für denselben Film gleichzeitig beantragt werden.
 
@@ -1467,8 +1343,7 @@ Förderhilfen nach § 115 Nummer 1 können im Rahmen der hierfür zur Verfügung
 
 (3) Nicht antragsberechtigt sind Unternehmen im Sinne des Absatzes 2 Nummer 2 und 3, wenn sie die gesetzliche Verpflichtung zur Zahlung einer Abgabe nach § 152 oder § 153 nicht erfüllt haben.
 
-
-## § 122 – Bewilligung
+# § 122 – Bewilligung
 
 Der Bescheid über die Bewilligung der Förderhilfen ist mit Auflagen zu versehen, deren Erfüllung bis zur Auszahlung nachgeholt werden kann, um sicherzustellen, dass
 
@@ -1480,20 +1355,17 @@ Der Verwaltungsrat bestimmt durch Richtlinie, wann eine angemessene Anzahl von F
 
 (+++ § 122: zur Anwendung vgl. § 129 +++)
 
-
-## § 123 – Auszahlung
+# § 123 – Auszahlung
 
 (1) Die Auszahlung der Förderhilfen erfolgt in bis zu zwei Raten an die antragstellende Person.
 
 (2) Die Filmförderungsanstalt hat die Auszahlung der Förderhilfen zu versagen, wenn die antragstellende Person zum jeweiligen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen sowie der Auflagen nach § 122 nachweist. Die Auszahlung ist insbesondere zu versagen, wenn die ordnungsgemäße Finanzierung der Maßnahme nicht gesichert ist.
 
-
-## § 124 – Schlussprüfung
+# § 124 – Schlussprüfung
 
 Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprechend verwendet worden sind, insbesondere, ob die im Wege des Verleihs, Vertriebs oder Videoabsatzes verwerteten Filme den Anforderungen der §§ 41 bis 48 entsprechen.
 
-
-## § 125 – Tilgung des Darlehens
+# § 125 – Tilgung des Darlehens
 
 (1) Die für den Verleih und Vertrieb gewährten Darlehen sind aus tatsächlich bei der antragstellenden Person eingehenden Erlösen aus der Verwertung des Films nach Deckung der von der antragstellenden Person in Form von Vorkosten oder Minimumgarantien aufgebrachten Eigenmittel sowie gegebenenfalls eines dem Hersteller eingeräumten Erlöskorridors zu Lasten des Produzentenanteils zu tilgen.
 
@@ -1505,8 +1377,7 @@ Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprec
 
 (5) Zehn Jahre nach der Erstaufführung des Films erlischt die Verpflichtung zur Tilgung des Darlehens.
 
-
-## § 126 – Sonstige Rückzahlungspflicht
+# § 126 – Sonstige Rückzahlungspflicht
 
 (1) Die Förderhilfen sind zurückzuzahlen, wenn
 
@@ -1520,8 +1391,7 @@ Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprec
 
 (2) Wurde die nach § 122 Satz 1 Nummer 1 zulässige Förderintensität überschritten und das Vorhaben sowohl von der Filmförderungsanstalt als auch von anderen mit öffentlichen Mitteln finanzierten Fördereinrichtungen gefördert, erfolgt die Rückzahlung entsprechend dem Verhältnis der einzelnen Förderbeträge.
 
-
-## § 127 – Förderhilfen, Referenzpunkte
+# § 127 – Förderhilfen, Referenzpunkte
 
 (1) Referenzförderung wird für den Verleih eines programmfüllenden Films im Sinne der §§ 41 bis 48 gewährt, wenn der Film innerhalb eines Zeitraumes von einem Jahr nach Erstaufführung in einem deutschen Kino 100 000 Referenzpunkte erreicht hat.
 
@@ -1531,22 +1401,19 @@ Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprec
 
 (4) Die für die Referenzförderung zur Verfügung stehenden Mittel werden auf die berechtigten Verleihunternehmen nach dem Verhältnis verteilt, in dem die Referenzpunkte der einzelnen Filme zueinander stehen.
 
-
-## § 128 – Art der Förderhilfe, Antrag
+# § 128 – Art der Förderhilfe, Antrag
 
 (1) Die Förderhilfen werden auf Antrag als Zuschuss gewährt. Antragsberechtigt sind Verleihunternehmen.
 
 (2) Der Antrag ist spätestens drei Monate nach Verstreichen der Zeiträume nach § 74 Absatz 1 Satz 1, § 75 Absatz 4 und § 77 Absatz 2 Satz 1 zu stellen. Er wird bei der Zuerkennung nach § 129 nur dann im Kalenderjahr der Antragstellung berücksichtigt, wenn er bis zum 31. Januar des Jahres der Antragstellung gestellt wurde. Die Frist nach Satz 2 ist eine Ausschlussfrist.
 
-
-## § 129 – Zuerkennung
+# § 129 – Zuerkennung
 
 Für die Zuerkennung der Förderhilfen gelten § 83 Absatz 1 und 2 und § 129 in Verbindung mit § 122 entsprechend.
 
 (+++ § 129: zur Anwendung vgl. § 129 +++)
 
-
-## § 130 – Verwendung
+# § 130 – Verwendung
 
 (1) Die Förderhilfen sind vorrangig für den Verleih eines neuen Films im Sinne der §§ 41 bis 48 zu verwenden.
 
@@ -1568,20 +1435,17 @@ Für die Zuerkennung der Förderhilfen gelten § 83 Absatz 1 und 2 und § 129 in
 
 (3) Der Vorstand kann auf Antrag gestatten, dass bis zu 75 Prozent der Förderhilfen, in jedem Fall aber bis zu 100 000 Euro, im Interesse der Strukturverbesserung des Unternehmens für eine nicht nur kurzfristige Aufstockung des Eigenkapitals verwendet werden können. In einem Zeitraum von fünf Jahren darf ein Unternehmen jedoch insgesamt nicht mehr als 500 000 Euro für diesen Zweck erhalten.
 
-
-## § 131 – Auszahlung
+# § 131 – Auszahlung
 
 (1) Die Filmförderungsanstalt zahlt die Förderhilfen bedarfsgerecht in bis zu zwei Raten aus, sobald nachgewiesen ist, dass diese eine den Bestimmungen dieses Gesetzes entsprechende Verwendung finden.
 
 (2) Die Auszahlung der Förderhilfen ist zu versagen, wenn die antragstellende Person zum jeweiligen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen sowie die Erfüllung der Auflage nach § 129 in Verbindung mit § 122 nachweist. Die Auszahlung ist insbesondere zu versagen, wenn die ordnungsgemäße Finanzierung der Maßnahme nicht gesichert ist.
 
-
-## § 132 – Begonnene Maßnahmen
+# § 132 – Begonnene Maßnahmen
 
 Werden die Förderhilfen für den Verleih eines neuen Films nach § 130 Absatz 1 und 2 verwendet, können sie auch für bereits begonnene Maßnahmen verwendet werden. Dies gilt nicht, wenn die Maßnahme vor dem Antrag auf Zuerkennung nach § 128 Absatz 2 begonnen wurde. Eine Verwendung der Förderhilfen für bereits abgeschlossene Maßnahmen ist nicht möglich.
 
-
-## § 133 – Schlussprüfung, Rückzahlung
+# § 133 – Schlussprüfung, Rückzahlung
 
 (1) Die Filmförderungsanstalt prüft, ob die gewährten Förderhilfen zweckentsprechend verwendet worden sind, insbesondere, ob die im Wege des Verleihs, Vertriebs oder Videoabsatzes verwerteten Filme den Anforderungen der §§ 41 bis 48 entsprechen.
 
@@ -1597,8 +1461,7 @@ Werden die Förderhilfen für den Verleih eines neuen Films nach § 130 Absatz 1
 
 Wurde die nach § 122 Satz 1 Nummer 1 zulässige Förderintensität überschritten und das Vorhaben sowohl von der Filmförderungsanstalt als auch von anderen mit öffentlichen Mitteln finanzierten Fördereinrichtungen gefördert, erfolgt die Rückzahlung entsprechend dem Verhältnis der einzelnen Förderbeträge.
 
-
-## § 134 – Förderhilfen
+# § 134 – Förderhilfen
 
 Die Filmförderungsanstalt kann Förderhilfen gewähren
 
@@ -1616,8 +1479,7 @@ Die Filmförderungsanstalt kann Förderhilfen gewähren
 
 7. für die medienpädagogische Begleitung von Kindern und Jugendlichen bei zur Aufführung für das Kino bestimmten Filmprogrammen im Kino.
 
-
-## § 135 – Art und Höhe
+# § 135 – Art und Höhe
 
 (1) Die Filmförderungsanstalt kann für Maßnahmen nach § 134 Nummer 1 und 2 Förderhilfen zu mindestens 70 Prozent als unbedingt rückzahlbares zinsloses Darlehen mit einer Laufzeit von bis zu zehn Jahren und zu höchstens 30 Prozent als Zuschuss gewähren. Förderhilfen für Maßnahmen zur Modernisierung und Verbesserung von Kinos nach § 134 Nummer 1, die der Herstellung von Barrierefreiheit im Sinne des § 4 des Behindertengleichstellungsgesetzes dienen, werden abweichend von Satz 1 insgesamt als Zuschuss gewährt.
 
@@ -1625,8 +1487,7 @@ Die Filmförderungsanstalt kann Förderhilfen gewähren
 
 (3) Förderhilfen für Maßnahmen nach § 134 Nummer 3 bis 7 werden als Zuschuss gewährt. Die Zuschüsse für Maßnahmen nach § 134 Nummer 3 und 4 dürfen höchstens 200 000 Euro, nach § 134 Nummer 5 und 7 höchstens 5 000 Euro und nach § 134 Nummer 6 höchstens 2 000 Euro betragen.
 
-
-## § 136 – Erlass von Restschulden
+# § 136 – Erlass von Restschulden
 
 (1) Statt einer Förderhilfe nach § 134 Nummer 1 kann die Filmförderungsanstalt einem Kino für Maßnahmen zur Modernisierung und Verbesserung sowie zur Neuerrichtung auf Antrag einmalig bis zu 50 Prozent einer zum 1. Januar 2017 bei der Filmförderungsanstalt bestehenden Restschuld aus einem laufenden Darlehen für eine frühere Förderung erlassen, wenn der Kinobetreiber
 
@@ -1642,13 +1503,11 @@ Die Höhe des Forderungserlasses nach Satz 1 darf die anerkennungsfähigen Koste
 
 (2) Die Filmförderungsanstalt entscheidet durch Vorbescheid über den Forderungserlass nach Absatz 1 dem Grunde nach und kann dabei festlegen, dass der Kinobetreiber bis zum Nachweis der Maßnahme nach Absatz 1 Satz 1 Nummer 4 das laufende Darlehen mit reduzierter Rate tilgt. Der Vorbescheid nach Satz 1 wird unwirksam, wenn das Kino die Durchführung der Maßnahmen nach Absatz 1 Satz 1 Nummer 4 nicht spätestens zwölf Monate nach Zustellung des Vorbescheids nachweist.
 
-
-## § 137 – Auswahl von Projekten
+# § 137 – Auswahl von Projekten
 
 Können nicht alle geeigneten Vorhaben angemessen gefördert werden, so wählt die Kommission für Kinoförderung die ihr am besten erscheinenden Vorhaben aus. Der Verwaltungsrat legt durch Richtlinie fest, welche Kriterien bei der Auswahl der Vorhaben zu berücksichtigen sind.
 
-
-## § 138 – Förderhilfen
+# § 138 – Förderhilfen
 
 Die Filmförderungsanstalt gewährt Förderhilfen an Kinos, die mindestens 5 000 Referenzpunkte erreichen. Die Referenzpunkte für die Förderung nach Satz 1 setzen sich folgendermaßen zusammen:
 
@@ -1656,15 +1515,13 @@ Die Filmförderungsanstalt gewährt Förderhilfen an Kinos, die mindestens 5 00
 
 2. Zwei Referenzpunkte pro Besucherin oder Besucher erhalten Kinos, in denen das entgeltliche Abspiel von Filmen nach § 41 oder den §§ 42, 44 den 1,75-fachen Wert des Zuschauermarktanteils des deutschen Films im vergangenen Kalenderjahr erreicht hat.
 
-
-## § 139 – Art und Höhe, Verteilung der Referenzpunkte
+# § 139 – Art und Höhe, Verteilung der Referenzpunkte
 
 (1) Die Förderhilfen werden als Zuschuss gewährt.
 
 (2) Die für die Referenzkinoförderung zur Verfügung stehenden Mittel werden nach dem Verhältnis verteilt, in dem die Referenzpunkte der einzelnen Kinos zueinander stehen.
 
-
-## § 140 – Antrag
+# § 140 – Antrag
 
 (1) Kinoförderung nach den §§ 134 und 138 wird auf Antrag gewährt. Antragsberechtigt ist, wer in der Bundesrepublik Deutschland ein Kino betreibt.
 
@@ -1674,15 +1531,13 @@ Die Filmförderungsanstalt gewährt Förderhilfen an Kinos, die mindestens 5 00
 
 (4) Der Antrag auf Kinoreferenzförderung nach § 138 ist spätestens bis zum 15. März des Kalenderjahres zu stellen, das auf das Kalenderjahr folgt, auf welches sich der Förderantrag bezieht. Die Frist nach Satz 1 ist eine Ausschlussfrist.
 
-
-## § 141 – Zuerkennung der Kinoreferenzförderung
+# § 141 – Zuerkennung der Kinoreferenzförderung
 
 (1) Die Förderhilfen werden in den ersten drei Monaten nach dem Schluss eines Kalenderjahres den antragstellenden Personen durch Bescheid zuerkannt, die im abgelaufenen Kalenderjahr die Voraussetzungen für die Zuerkennung nachgewiesen haben. Dem Grunde nach kann die Zuerkennung schon vorher erfolgen.
 
 (2) Steht dem Grunde nach fest, dass ein Kino eine hinreichende Referenzpunktzahl erreicht hat, kann der Vorstand nach Maßgabe der Haushaltslage der Filmförderungsanstalt bis zu 70 Prozent des Referenzwertes des Vorjahres vorab zuerkennen.
 
-
-## § 142 – Auszahlung
+# § 142 – Auszahlung
 
 (1) Die Auszahlung der Förderhilfen im Rahmen der Kinoprojektförderung erfolgt in bis zu vier Raten an die antragstellende Person.
 
@@ -1690,13 +1545,11 @@ Die Filmförderungsanstalt gewährt Förderhilfen an Kinos, die mindestens 5 00
 
 (3) Die Filmförderungsanstalt hat die Auszahlung der Förderhilfen nach den §§ 134 und 138 zu versagen, wenn die antragstellende Person zum jeweils maßgeblichen Auszahlungszeitpunkt nicht das Vorliegen sämtlicher Antrags- und Fördervoraussetzungen nachweist. Die Auszahlung ist insbesondere zu versagen, wenn die ordnungsgemäße Finanzierung der Maßnahme nicht gesichert ist.
 
-
-## § 143 – Verwendung der Kinoreferenzförderung
+# § 143 – Verwendung der Kinoreferenzförderung
 
 Förderhilfen nach § 138 sollen vorrangig für neue Maßnahmen im Sinne des § 134 verwendet werden. Sie können auch für Werbemaßnahmen für deutsche Filme und Filme aus Mitgliedstaaten der Europäischen Union oder aus einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder aus der Schweiz gewährt werden. Die Förderhilfen können jeweils für Maßnahmen verwendet werden, die nach Antragstellung begonnen wurden, auch wenn die betreffende Maßnahme zum Zeitpunkt der Zuerkennung bereits abgeschlossen ist.
 
-
-## § 144 – Schlussprüfung, Rückzahlung
+# § 144 – Schlussprüfung, Rückzahlung
 
 (1) Die Filmförderungsanstalt prüft, ob die gemäß den §§ 134 und 138 gewährten Förderhilfen zweckentsprechend verwendet worden sind.
 
@@ -1708,8 +1561,7 @@ Förderhilfen nach § 138 sollen vorrangig für neue Maßnahmen im Sinne des § 
 
 3. Auszahlungshindernisse nach § 142 Absatz 3 nachträglich eingetreten oder bekannt geworden sind.
 
-
-## § 145 – Vorgaben für Richtlinie
+# § 145 – Vorgaben für Richtlinie
 
 (1) Einzelheiten zur Unterstützung der Digitalisierung des deutschen Filmerbes im Sinne des § 2 Satz 1 Nummer 3 kann der Verwaltungsrat durch Richtlinie regeln.
 
@@ -1717,37 +1569,31 @@ Förderhilfen nach § 138 sollen vorrangig für neue Maßnahmen im Sinne des § 
 
 (3) Die Förderhilfen können nur auf Antrag gewährt werden. Antragsberechtigt ist die Inhaberin oder der Inhaber der für die beabsichtigte Auswertung erforderlichen Rechte an dem zu digitalisierenden Film für das Inland.
 
-
-## § 146 – Filmabgabe
+# § 146 – Filmabgabe
 
 (1) Die Filmförderungsanstalt finanziert sich im Wesentlichen durch die Erhebung einer nach Untergruppen von Abgabeschuldnern differenziert ausgestalteten Filmabgabe.
 
 (2) Die Filmförderungsanstalt kann darüber hinaus Zuwendungen von dritter Seite entgegennehmen, sofern der Zuwendungszweck mit der Erfüllung der Aufgaben nach § 3 Absatz 2 in Einklang steht. Die Zuwendungen sind den Einnahmen der Filmförderungsanstalt zuzuführen und nach Maßgabe des § 159 zu verwenden, es sei denn, dass der Zuwendungsgeber etwas anderes bestimmt.
 
-
-## § 147 – Verhältnis der Abgabevorschriften zueinander
+# § 147 – Verhältnis der Abgabevorschriften zueinander
 
 Erfüllt ein Abgabeschuldner mehrere Abgabetatbestände, so bestehen die Abgabepflichten nebeneinander.
 
-
-## § 148 – Erhebung der Filmabgabe
+# § 148 – Erhebung der Filmabgabe
 
 Die Filmabgabe wird durch Bescheid erhoben. Widerspruch und Anfechtungsklage gegen den Bescheid über die Erhebung der Filmabgabe haben keine aufschiebende Wirkung.
 
-
-## § 149 – Fälligkeit
+# § 149 – Fälligkeit
 
 (1) Die Filmabgabe der Kinos, der Videoprogrammanbieter und der Anbieter von Videoabrufdiensten nach den §§ 151 bis 153 ist monatlich jeweils bis zum Zehnten des folgenden Monats an die Filmförderungsanstalt zu zahlen.
 
 (2) Die Filmabgabe der Fernsehveranstalter und Programmvermarkter nach den §§ 154 bis 156 ist halbjährlich jeweils zum 1. Januar und zum 1. Juli eines Jahres an die Filmförderungsanstalt zu zahlen.
 
-
-## § 150 – Begriffsbestimmung Kinofilm
+# § 150 – Begriffsbestimmung Kinofilm
 
 Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder in seinem Ursprungsland gegen Entgelt im Kino aufgeführt wurde.
 
-
-## § 151 – Filmabgabe der Kinos
+# § 151 – Filmabgabe der Kinos
 
 (1) Wer entgeltliche Vorführungen von Filmen mit einer Laufzeit von mehr als 58 Minuten veranstaltet, hat für jede Spielstelle vom Nettoumsatz aus dem Verkauf von Eintrittskarten eine Filmabgabe zu entrichten, wenn dieser durch den Veranstalter erzielte Umsatz je Spielstelle im Jahr 100 000 Euro übersteigt.
 
@@ -1763,8 +1609,7 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (4) Für die Berechnung der Filmmieten ist die Berechnungsgrundlage um die Filmabgabe zu vermindern. Hierbei können die Vertragsparteien vereinbaren, dass bei der Berechnung der Filmabgabe an Stelle der konkreten Abgabesätze der einzelnen Leinwände der durchschnittliche Abgabesatz der Betriebsstätte zugrunde gelegt wird. Falls der Veranstalter Mieter oder Pächter eines Kinos ist und die Höhe seines Umsatzes Grundlage für die Berechnung der Miete oder Pacht ist, gilt Satz 1 auch für die Berechnung der Miete oder Pacht. Der Veranstalter hat gegenüber seinem Vertragspartner die Höhe der Filmabgabe nachzuweisen.
 
-
-## § 152 – Filmabgabe der Videoprogrammanbieter
+# § 152 – Filmabgabe der Videoprogrammanbieter
 
 (1) Wer als Inhaber der Lizenzrechte Bildträger, die mit Filmen mit einer Laufzeit von mehr als 58 Minuten bespielt sind, in der Bundesrepublik Deutschland zur Vermietung oder zum Weiterverkauf in den Verkehr bringt oder unmittelbar an Letztverbraucher verkauft (Videoprogrammanbieter), hat vom Nettoumsatz mit abgabepflichtigen Bildträgern eine Filmabgabe zu entrichten. Dies gilt nur für Videoprogrammanbieter, deren Nettoumsatz mit abgabepflichtigen Bildträgern 500 000 Euro im Jahr übersteigt und bei denen ein Anteil von mindestens 2 Prozent dieses Nettoumsatzes auf Kinofilme entfällt.
 
@@ -1776,8 +1621,7 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (3) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
-
-## § 153 – Filmabgabe der Anbieter von Videoabrufdiensten
+# § 153 – Filmabgabe der Anbieter von Videoabrufdiensten
 
 (1) Inhaber von Lizenzrechten mit Sitz oder Niederlassung im Inland, die zu gewerblichen Zwecken hergestellte Kinofilme mittels entgeltlicher oder werbefinanzierter Videoabrufdienste verwerten, haben vom in Deutschland erzielten Nettoumsatz mit der Verwertung von Kinofilmen eine Filmabgabe zu entrichten, wenn dieser 500 000 Euro im Jahr übersteigt.
 
@@ -1791,15 +1635,13 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (4) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
-
-## § 154 – Filmabgabe der öffentlich-rechtlichen Fernsehveranstalter
+# § 154 – Filmabgabe der öffentlich-rechtlichen Fernsehveranstalter
 
 (1) Die öffentlich-rechtlichen Fernsehveranstalter haben eine Filmabgabe in Höhe von 3 Prozent ihrer Kosten für die Ausstrahlung von Kinofilmen des vorletzten Jahres zu zahlen. Zu den Kosten zählen die Lizenzkosten, anteilige Programmverbreitungs- und Verwaltungskosten sowie Koproduktionsbeiträge zu Kinofilmen.
 
 (2) Bemessungsgrundlage der Abgabe der in der Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland zusammengeschlossenen Fernsehveranstalter sind die Kosten aller dieser Fernsehveranstalter für die Ausstrahlung von Kinofilmen insgesamt. Die Höhe der Abgaben der einzelnen in der Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland zusammengeschlossenen Fernsehveranstalter bemisst sich nach der Zulieferverpflichtung der jeweiligen Fernsehveranstalter zum Ersten Fernsehprogramm.
 
-
-## § 155 – Filmabgabe der Veranstalter frei empfangbarer Fernsehprogramme privaten Rechts
+# § 155 – Filmabgabe der Veranstalter frei empfangbarer Fernsehprogramme privaten Rechts
 
 (1) Die Veranstalter frei empfangbarer Fernsehprogramme privaten Rechts haben für Fernsehprogramme mit einem Kinofilmanteil von mindestens 2 Prozent eine Filmabgabe zu leisten, wenn ihr Nettowerbeumsatz 750 000 Euro übersteigt.
 
@@ -1817,8 +1659,7 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (3) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
-
-## § 156 – Filmabgabe der Veranstalter von Bezahlfernsehen und der Programmvermarkter
+# § 156 – Filmabgabe der Veranstalter von Bezahlfernsehen und der Programmvermarkter
 
 (1) Die Veranstalter von Bezahlfernsehen gegen pauschales Entgelt haben eine Filmabgabe in Höhe von 0,25 Prozent ihrer Nettoumsätze mit Abonnementverträgen mit Letztverbraucherinnen und Letztverbrauchern in Deutschland im vorletzten Jahr zu leisten, soweit diese Umsätze nicht auf die Erbringung technischer Leistungen entfallen und 750 000 Euro im Jahr übersteigen.
 
@@ -1830,18 +1671,15 @@ Ein Kinofilm im Sinne der §§ 152 bis 156 ist ein Film, der in Deutschland oder
 
 (5) Für die Bestimmung der Umsatzgrenzen ist der Umsatz des Vorjahres zugrunde zu legen. Ist der Umsatz nur während eines Teils des Vorjahres erzielt worden, wird der Jahresumsatz errechnet, indem der durchschnittliche monatliche Umsatz des Vorjahres mit der Zahl zwölf multipliziert wird. Liegen keine Vorjahresumsätze vor, können die Umsatzgrenzen anhand der Monatsumsätze im Abgabejahr errechnet werden.
 
-
-## § 157 – Medialeistungen
+# § 157 – Medialeistungen
 
 Die Fernsehveranstalter können bis zu 40 Prozent ihrer Abgaben nach den §§ 154, 155 und 156 Absatz 1 und 2 in Form von Werbezeiten für Kinofilme (Medialeistungen) erbringen. Hierbei muss der Wert der Medialeistungen nach dem Bruttolistenpreis den Wert der ersetzten Barleistungen um die Hälfte überschreiten.
 
-
-## § 158 – Zusätzliche Leistungen der Fernsehveranstalter und Programmvermarkter
+# § 158 – Zusätzliche Leistungen der Fernsehveranstalter und Programmvermarkter
 
 Über die sich aus den §§ 154 bis 156 ergebenden Beträge hinausgehende Zahlungen oder sonstige Leistungen der Fernsehveranstalter und Programmvermarkter werden in Verträgen mit der Filmförderungsanstalt vereinbart.
 
-
-## § 159 – Aufteilung der Einnahmen auf die Förderarten
+# § 159 – Aufteilung der Einnahmen auf die Förderarten
 
 (1) Von den Einnahmen der Filmförderungsanstalt sind bis zu 10 Prozent für die Erfüllung der Aufgaben nach § 3 Absatz 2 zu verwenden. Über die konkrete Aufteilung der Mittel entscheidet das Präsidium auf Vorschlag des Vorstands.
 
@@ -1873,25 +1711,21 @@ Die prozentualen Anteile beziehen sich auf die Einnahmen der Filmförderungsanst
 
 (6) Für die in Absatz 1, die in Absatz 2 Nummer 1 bis 4, die in Absatz 2 Nummer 5 und 6 sowie die in Absatz 2 Nummer 7 und 8 genannten Förderbereiche dürfen jeweils nicht mehr als 50 Millionen Euro im Kalenderjahr bewilligt werden.
 
-
-## § 160 – Verwendung der Filmabgabe der Fernsehveranstalter und Programmvermarkter
+# § 160 – Verwendung der Filmabgabe der Fernsehveranstalter und Programmvermarkter
 
 Die Einnahmen der Filmförderungsanstalt aus der Filmabgabe der Fernsehveranstalter und Programmvermarkter nach den §§ 154 bis 156 und 158 sind nach anteiligem Abzug der Verwaltungskosten und der Aufwendungen nach § 159 Absatz 1 für die Projektfilmförderung zu verwenden. Für den Fall, dass diese Mittel die nach Maßgabe des § 159 Absatz 2 Nummer 1 für die Projektfilmförderung zur Verfügung stehenden Mittel übersteigen, sind diese Einnahmen abweichend von § 159 Absatz 2 Satz 1 dennoch in voller Höhe für die Projektfilmförderung zu verwenden. Der Anteil der für die anderen Förderarten zu verwendenden Einnahmen reduziert sich entsprechend.
 
-
-## § 161 – Ermächtigung des Verwaltungsrats
+# § 161 – Ermächtigung des Verwaltungsrats
 
 (1) Soweit dieses Gesetz keine Bestimmung trifft, obliegt die Entscheidung über die Verteilung der Mittel auf die einzelnen Förderarten dem Verwaltungsrat.
 
 (2) Im Rahmen der insgesamt zur Verfügung stehenden Mittel kann der Verwaltungsrat bei der Beschlussfassung über den Wirtschaftsplan die Prozentsätze des § 159 Absatz 2 um bis zu 25 Prozent über- oder unterschreiten (Abweichungsspielraum). Stehen der Filmförderungsanstalt für denselben Förderzweck Mittel aus dem Bundeshaushalt zur Verfügung, können die Prozentsätze des § 159 Absatz 2 um bis zu 20 Prozent unterschritten werden. Jede Abweichung ist im Rahmen des Abweichungsspielraums anderer Ansätze auszugleichen.
 
-
-## § 162 – Verwendung von Tilgungen
+# § 162 – Verwendung von Tilgungen
 
 Die Einnahmen aus der Tilgung von Darlehen und aus sonstigen Rückzahlungen von Förderungen sind grundsätzlich dem gleichen Verwendungszweck zuzuführen. Über Ausnahmen von Satz 1 entscheidet der Verwaltungsrat im Rahmen des Abweichungsspielraums nach § 161 Absatz 2. Der Verwaltungsrat kann nach Satz 2 insbesondere entscheiden, dass ein Teil der Einnahmen aus der Tilgung von Darlehen nach § 71 den Mitteln für die Referenzfilmförderung zugeführt werden soll.
 
-
-## § 163 – Verwendung von Rücklagen, Überschüssen und nicht verbrauchten Haushaltsmitteln
+# § 163 – Verwendung von Rücklagen, Überschüssen und nicht verbrauchten Haushaltsmitteln
 
 (1) Alle nicht im Wirtschaftsplan vorgesehenen Einnahmen (Überschüsse), nicht verbrauchte Haushaltsmittel sowie aufgelöste Rücklagen sind entsprechend der prozentualen Aufteilung für die Verwendung der Einnahmen aus der Filmabgabe nach § 159 zu verwenden.
 
@@ -1901,8 +1735,7 @@ Die Einnahmen aus der Tilgung von Darlehen und aus sonstigen Rückzahlungen von 
 
 (4) Die Beschlüsse des Verwaltungsrats nach den Absätzen 2 und 3 ergehen mit einer Mehrheit von zwei Dritteln der Stimmen, mindestens aber der Mehrheit seiner Mitglieder.
 
-
-## § 164 – Auskünfte
+# § 164 – Auskünfte
 
 (1) Wer nach diesem Gesetz eine Filmabgabe zu leisten hat, muss der Filmförderungsanstalt die für die Durchführung dieses Gesetzes erforderlichen Auskünfte erteilen und entsprechende Unterlagen vorlegen. Dies gilt auch für Personen, die eine Filmabgabe nur deshalb nicht zu leisten haben, weil die in § 151 Absatz 1, § 152 Absatz 1 Satz 2, § 153, § 155 Absatz 1 Satz 1 oder § 156 Absatz 1 genannten Umsatzgrenzen nicht erreicht werden oder der Kinofilmanteil unter den in § 152 Absatz 1 Satz 2, § 155 Absatz 1 Satz 1 oder § 156 Absatz 4 Satz 2 genannten Umsatzgrenzen liegt, oder bei denen das Vorliegen der sonstigen Voraussetzungen für eine Abgabepflicht nur bei Erteilung entsprechender Auskünfte geprüft werden kann. Die Auskunftspflicht erstreckt sich auf
 
@@ -1938,8 +1771,7 @@ Die Einnahmen aus der Tilgung von Darlehen und aus sonstigen Rückzahlungen von 
 
 (3) Wer eine Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle beantragt, muss dem Bundesamt für Wirtschaft und Ausfuhrkontrolle die zur Prüfung der Voraussetzungen der §§ 41 bis 45 erforderlichen Auskünfte erteilen und entsprechende Unterlagen sowie den Nachweis nach § 51 Absatz 1 Satz 2 vorlegen. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt, der Filmförderungsanstalt und der für Kultur und Medien zuständigen obersten Bundesbehörde die entsprechenden Daten zu übermitteln.
 
-
-## § 165 – Zeitpunkt und Form der Meldepflicht
+# § 165 – Zeitpunkt und Form der Meldepflicht
 
 (1) Die Auskünfte der Kinos und der Videowirtschaft nach § 164 Absatz 1 Nummer 5 bis 10 sind monatlich, jeweils bis zum Zehnten des darauf folgenden Monats, nach Auswertungsart getrennt kostenfrei zu erteilen. Die Auskünfte der Fernsehveranstalter und Programmvermarkter nach § 164 Absatz 1 Nummer 2, 11 und 12 sind jährlich bis zum 31. Juli des Folgejahres zu erteilen. Die Auskünfte über die Erlöse nach § 164 Absatz 2 Satz 2 Nummer 2 sind halbjährlich, jeweils für die erste Hälfte des Kalenderjahres bis zum Ablauf des Monats August desselben Kalenderjahres und für die zweite Hälfte des Kalenderjahres bis zum Ablauf des Monats Februar des folgenden Kalenderjahres, zu erteilen.
 
@@ -1947,8 +1779,7 @@ Die Einnahmen aus der Tilgung von Darlehen und aus sonstigen Rückzahlungen von 
 
 (3) Im Übrigen erfolgt die Auskunftserteilung aufgrund und nach Maßgabe der Anforderung der Filmförderungsanstalt oder des Bundesamtes für Wirtschaft und Ausfuhrkontrolle.
 
-
-## § 166 – Kontrolle der gemeldeten Daten
+# § 166 – Kontrolle der gemeldeten Daten
 
 (1) Die Filmförderungsanstalt ist berechtigt, die nach § 164 erteilten Auskünfte zu überprüfen. Sie darf Dritte, bei denen es sich auch um natürliche Personen oder juristische Personen privaten Rechts handeln kann, mit der Überprüfung beauftragen. Die Auskunftspflichtigen sind verpflichtet, der Filmförderungsanstalt Unterlagen zum Nachweis der Richtigkeit der Auskünfte nach § 164 zur Verfügung zu stellen.
 
@@ -1958,13 +1789,11 @@ Die Einnahmen aus der Tilgung von Darlehen und aus sonstigen Rückzahlungen von 
 
 (4) Die zur Auskunft verpflichtete Person kann die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-
-## § 167 – Schätzung
+# § 167 – Schätzung
 
 Weigert sich eine zur Auskunft verpflichtete Person, eine Auskunft nach § 164 bis zu dem in § 165 Absatz 1 bestimmten Zeitpunkt zu erteilen oder entsprechende Unterlagen vorzulegen, kann die Filmförderungsanstalt die für die Festsetzung der Filmabgabe erforderlichen Feststellungen auch im Wege der Schätzung treffen oder gewährte Förderhilfen zurückverlangen.
 
-
-## § 168 – Übermittlung und Veröffentlichung von Daten
+# § 168 – Übermittlung und Veröffentlichung von Daten
 
 (1) Auf Anforderung hat die Filmförderungsanstalt der für Kultur und Medien zuständigen obersten Bundesbehörde Daten, die für die Förderung oder die Erhebung der Filmabgabe erforderlich sind, zu übermitteln. Daten im Sinne des Satzes 1 sind
 
@@ -1998,13 +1827,11 @@ j) die Höhe der seitens einer natürlichen oder juristischen Person zu leistend
 
 (4) Die Filmförderungsanstalt ist berechtigt, der Europäischen Kommission alle zur Prüfung der beihilferechtlichen Zulässigkeit der gewährten Förderhilfen notwendigen Daten zu übermitteln.
 
-
-## § 169 – Förderbericht
+# § 169 – Förderbericht
 
 Die Filmförderungsanstalt erstellt anhand der Angaben nach § 164 jährlich einen Förderbericht und leitet diesen der für Kultur und Medien zuständigen obersten Bundesbehörde zu und veröffentlicht diesen. Der Förderbericht enthält eine statistische Auswertung der Informationen zur Anwendbarkeit von Branchentarifverträgen oder vergleichbaren sozialen Standards nach § 67 Absatz 11.
 
-
-## § 170 – Übergangsregelungen
+# § 170 – Übergangsregelungen
 
 (1) Ansprüche nach diesem Gesetz, die vor dem 1. Januar 2017 entstanden sind, werden nach den bis zum 31. Dezember 2016 geltenden Vorschriften abgewickelt. Im Rahmen der Darlehenstilgung zurückgezahlte Fördermittel, die nach dem Filmförderungsgesetz in der bis zum 31. Dezember 2016 geltenden Fassung als Zuschuss für neue Vorhaben rückgewährt werden konnten, können nur bis zum 31. Dezember 2018 abgerufen werden.
 
@@ -2016,8 +1843,7 @@ Die Filmförderungsanstalt erstellt anhand der Angaben nach § 164 jährlich ein
 
 (5) Eine am 31. Dezember 2016 bestehende Mitgliedschaft in der Unterkommission für die Förderung des Filmabspiels wird bei Bestellung für die Kommission für Kinoförderung im Rahmen der Prüfung nach § 24 Absatz 5 berücksichtigt.
 
-
-## § 171 – Beendigung der Filmförderung
+# § 171 – Beendigung der Filmförderung
 
 (1) Die Erhebung der Filmabgabe endet am 31. Dezember 2021. Die Filmförderungsanstalt legt der für Kultur und Medien zuständigen obersten Bundesbehörde spätestens zum 31. Dezember 2019 einen Evaluierungsbericht zur Entwicklung des Abgabeaufkommens vor dem Hintergrund der wirtschaftlichen Situation des Filmmarktes in Deutschland vor und veröffentlicht den Bericht.
 
@@ -2027,7 +1853,6 @@ Die Filmförderungsanstalt erstellt anhand der Angaben nach § 164 jährlich ein
 
 (4) Ist über den letzten Antrag auf Gewährung von Förderhilfen für programmfüllende Dokumentar- und Kinderfilme entschieden worden, so gehen das Vermögen und die Verbindlichkeiten der Filmförderungsanstalt auf die Bundesrepublik Deutschland über. Der Zeitpunkt wird von der für Kultur und Medien zuständigen obersten Bundesbehörde im Bundesanzeiger bekannt gemacht. Das Bundesamt für Wirtschaft und Ausfuhrkontrolle nimmt die verbleibenden Aufgaben der Filmförderungsanstalt wahr. Das verbleibende Vermögen ist nach Maßgabe der von der für Kultur und Medien zuständigen obersten Bundesbehörde zu erlassenden Bestimmungen für die Förderung der Filmwirtschaft zu verwenden.
 
-
-## § 172 – Inkrafttreten, Außerkrafttreten
+# § 172 – Inkrafttreten, Außerkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 2017 in Kraft. Gleichzeitig tritt das Filmförderungsgesetz in der Fassung der Bekanntmachung vom 24. August 2004 (BGBl. I S. 2277), das zuletzt durch Artikel 1 des Gesetzes vom 7. August 2013 (BGBl. I S. 3082) geändert worden ist, außer Kraft.

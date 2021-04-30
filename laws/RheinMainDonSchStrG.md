@@ -1,25 +1,19 @@
-# [RheinMainDonSchStrG] Gesetz über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse
-
-Ausfertigungsdatum: 29.11.1967
-
+% Gesetz über den rechtlichen Status der Rhein-Main-Donau-Großschiffahrtsstraße zwischen dem Main und Nürnberg und über die damit zusammenhängenden Eigentumsverhältnisse
+% Ausfertigungsdatum: 29.11.1967
  
-
-## § 1 – (weggefallen)
-
-\-
-
-
-## § 2 – (weggefallen)
+# § 1 – (weggefallen)
 
 \-
 
+# § 2 – (weggefallen)
 
-## § 3 – Durchleiten von Wasser
+\-
+
+# § 3 – Durchleiten von Wasser
 
 Über ein etwaiges Durchleiten von Wasser für wasserwirtschaftliche oder landeskulturelle Zwecke durch die Bundeswasserstraße über den normalen Wasserabfluß hinaus und die damit zusammenhängenden Fragen bleibt eine Vereinbarung zwischen dem Bund und Bayern vorbehalten.
 
-
-## § 4 – Eigentumsverhältnisse
+# § 4 – Eigentumsverhältnisse
 
 (1) Das Eigentum an den in § 1 Abs. 1 und 2 bezeichneten Strecken steht dem Bund zu. Das gilt auch für die kanalisierte Regnitz von km 3,70 rechts bis 170 m oberhalb der Brückenachse des Wehres Bamberg.
 
@@ -29,17 +23,14 @@ Ausfertigungsdatum: 29.11.1967
 
 (4) Das Grundbuch wird auf Grund eines gemeinsamen Ersuchens des Bundes und Bayerns berichtigt. Ein Übergang des Eigentums und der anderen Rechte ist von Abgaben und Kosten befreit.
 
-
-## § 5 – Sperrtor bei Bug
+# § 5 – Sperrtor bei Bug
 
 Das Sperrtor im linken Regnitzarm bei Bug gehört zur Bundeswasserstraße. Die Betriebsordnung wird im Einvernehmen zwischen dem Bund und Bayern aufgestellt.
 
-
-## § 6 – (weggefallen)
+# § 6 – (weggefallen)
 
 \-
 
-
-## § 7 – Inkrafttreten
+# § 7 – Inkrafttreten
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

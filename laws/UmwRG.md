@@ -1,10 +1,7 @@
-# [UmwRG] Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG  (Umwelt-Rechtsbehelfsgesetz - UmwRG)
-
-Ausfertigungsdatum: 07.12.2006
-
+% Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG  (Umwelt-Rechtsbehelfsgesetz - UmwRG)
+% Ausfertigungsdatum: 07.12.2006
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Dieses Gesetz ist anzuwenden auf Rechtsbehelfe gegen folgende Entscheidungen:
 
@@ -20,11 +17,9 @@ eine Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung (UVP) beste
 
 2. Genehmigungen für Anlagen, die in Spalte c des Anhangs 1 der Verordnung über genehmigungsbedürftige Anlagen mit dem Buchstaben G gekennzeichnet sind, gegen Entscheidungen nach § 17 Absatz 1a des Bundes-Immissionsschutzgesetzes, gegen Erlaubnisse nach § 8 Absatz 1 des Wasserhaushaltsgesetzes für Gewässerbenutzungen, die mit einem Vorhaben im Sinne der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17) verbunden sind, sowie gegen Planfeststellungsbeschlüsse für Deponien nach § 35 Absatz 2 des Kreislaufwirtschaftgesetzes;
 
-2a.  
-Genehmigungen für Anlagen nach § 23b Absatz 1 Satz 1 oder § 19 Absatz 4 des Bundes-Immissionsschutzgesetzes oder Zulassungen für Betriebspläne nach § 57d Absatz 1 des Bundesberggesetzes;
+2a. Genehmigungen für Anlagen nach § 23b Absatz 1 Satz 1 oder § 19 Absatz 4 des Bundes-Immissionsschutzgesetzes oder Zulassungen für Betriebspläne nach § 57d Absatz 1 des Bundesberggesetzes;
 
-2b.  
-Entscheidungen über die Zulässigkeit von Vorhaben, die benachbarte Schutzobjekte im Sinne des § 3 Absatz 5d des Bundes-Immissionsschutzgesetzes darstellen und die innerhalb des angemessenen Sicherheitsabstands zu einem Betriebsbereich nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes verwirklicht werden sollen und einer Zulassung nach landesrechtlichen Vorschriften bedürfen;
+2b. Entscheidungen über die Zulässigkeit von Vorhaben, die benachbarte Schutzobjekte im Sinne des § 3 Absatz 5d des Bundes-Immissionsschutzgesetzes darstellen und die innerhalb des angemessenen Sicherheitsabstands zu einem Betriebsbereich nach § 3 Absatz 5a des Bundes-Immissionsschutzgesetzes verwirklicht werden sollen und einer Zulassung nach landesrechtlichen Vorschriften bedürfen;
 
 3. Entscheidungen nach dem Umweltschadensgesetz;
 
@@ -62,8 +57,7 @@ Die Sätze 1 und 2 gelten nicht, wenn eine Entscheidung im Sinne dieses Absatzes
 
 beziehen.
 
-
-## § 2 – Rechtsbehelfe von Vereinigungen
+# § 2 – Rechtsbehelfe von Vereinigungen
 
 (1) Eine nach § 3 anerkannte inländische oder ausländische Vereinigung kann, ohne eine Verletzung in eigenen Rechten geltend machen zu müssen, Rechtsbehelfe nach Maßgabe der Verwaltungsgerichtsordnung gegen eine Entscheidung nach § 1 Absatz 1 Satz 1 oder deren Unterlassen einlegen, wenn die Vereinigung
 
@@ -99,8 +93,7 @@ Bei einer ausländischen Vereinigung gelten die Voraussetzungen der Nummer 3 als
 
 und der Verstoß Belange berührt, die zu den Zielen gehören, die die Vereinigung nach ihrer Satzung fördert. Bei Entscheidungen nach § 1 Absatz 1 Satz 1 Nummer 1 oder 4 muss zudem eine Pflicht zur Durchführung einer Umweltprüfung im Sinne von § 2 Absatz 10 des Gesetzes über die Umweltverträglichkeitsprüfung bestehen.
 
-
-## § 3 – Anerkennung von Vereinigungen
+# § 3 – Anerkennung von Vereinigungen
 
 (1) Auf Antrag wird einer inländischen oder ausländischen Vereinigung die Anerkennung zur Einlegung von Rechtbehelfen nach diesem Gesetz erteilt. Die Anerkennung ist zu erteilen, wenn die Vereinigung
 
@@ -120,8 +113,7 @@ In der Anerkennung ist der satzungsgemäße Aufgabenbereich, für den die Anerke
 
 (3) Für eine inländische Vereinigung mit einem Tätigkeitsbereich, der nicht über das Gebiet eines Landes hinausgeht, wird die Anerkennung durch die zuständige Behörde des Landes ausgesprochen.
 
-
-## § 4 – Verfahrensfehler
+# § 4 – Verfahrensfehler
 
 (1) Die Aufhebung einer Entscheidung über die Zulässigkeit eines Vorhabens nach § 1 Absatz 1 Satz 1 Nummer 1 bis 2b kann verlangt werden, wenn
 
@@ -169,20 +161,17 @@ Auf Rechtsbehelfe von Personen und Vereinigungen nach Satz 1 Nummer 1 ist Absatz
 
 (5) Für Rechtsbehelfe gegen Entscheidungen im Sinne des § 1 Absatz 1 Satz 1 Nummer 3, 5 und 6 gelten bei Verfahrensfehlern die jeweiligen fachrechtlichen Regelungen sowie die Regelungen des Verwaltungsverfahrensgesetzes.
 
-
-## § 5 – Missbräuchliches oder unredliches Verhalten im Rechtsbehelfsverfahren
+# § 5 – Missbräuchliches oder unredliches Verhalten im Rechtsbehelfsverfahren
 
 Einwendungen, die eine Person oder eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 erstmals im Rechtsbehelfsverfahren erhebt, bleiben unberücksichtigt, wenn die erstmalige Geltendmachung im Rechtsbehelfsverfahren missbräuchlich oder unredlich ist.
 
-
-## § 6 – Klagebegründungsfrist
+# § 6 – Klagebegründungsfrist
 
 Eine Person oder eine Vereinigung im Sinne des § 4 Absatz 3 Satz 1 hat innerhalb einer Frist von zehn Wochen ab Klageerhebung die zur Begründung ihrer Klage gegen eine Entscheidung im Sinne von § 1 Absatz 1 Satz 1 oder gegen deren Unterlassen dienenden Tatsachen und Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn die Voraussetzung nach § 87b Absatz 3 Satz 1 Nummer 2 der Verwaltungsgerichtsordnung erfüllt ist. § 87b Absatz 3 Satz 2 und 3 der Verwaltungsgerichtsordnung gilt entsprechend. Die Frist nach Satz 1 kann durch den Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden, wenn die Person oder die Vereinigung in dem Verfahren, in dem die angefochtene Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte.
 
 (+++ § 6: Zur Nichtanwendung vgl. § 17e Abs. 5 Satz 6 FStrG F 29.11.2018 +++) (+++ § 6: Zur Nichtanwendung vgl. § 18e Abs. 5 Satz 6 AEG 1994 F 29.11.2018 +++) (+++ § 6: Zur Nichtanwendung vgl. § 14e Abs. 5 Satz 6 WaStRG F 29.11.2018 +++)
 
-
-## § 7 – Besondere Bestimmungen für Rechtsbehelfe gegen bestimmte Entscheidungen
+# § 7 – Besondere Bestimmungen für Rechtsbehelfe gegen bestimmte Entscheidungen
 
 (1) Ist für Entscheidungen nach § 1 Absatz 1 Satz 1 Nummer 5 oder 6 nach den geltenden Rechtsvorschriften keine öffentliche Bekanntmachung vorgeschrieben, so hat die zuständige Behörde die im Einzelfall getroffene Entscheidung mit Rechtsbehelfsbelehrung einer oder mehreren genau zu bezeichnenden Personen oder Vereinigungen bekannt zu geben, wenn dies beantragt wird
 
@@ -202,8 +191,7 @@ Die Kosten der Bekanntgabe hat der Antragsteller zu tragen.
 
 (6) Absatz 2 Satz 1 und 3 sowie die Absätze 4 und 5 gelten auch für Rechtsbehelfe von Personen und Vereinigungen nach § 4 Absatz 3 Satz 1 Nummer 1.
 
-
-## § 8 – Überleitungsvorschrift
+# § 8 – Überleitungsvorschrift
 
 (1) Dieses Gesetz gilt für Rechtsbehelfe gegen Entscheidungen nach § 1 Absatz 1 Satz 1 Nummer 1 und 2, die nach dem 25. Juni 2005 ergangen sind oder hätten ergehen müssen. Abweichend von Satz 1 ist § 6 nur auf solche in Satz 1 genannten Rechtsbehelfe anzuwenden, die nach dem 28. Januar 2013 erhoben worden sind.
 

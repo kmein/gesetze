@@ -1,10 +1,7 @@
-# [ÖDZustG] Gesetz über die Zuständigkeit auf dem Gebiet des Rechts des öffentlichen Dienstes
-
-Ausfertigungsdatum: 20.08.1960
-
+% Gesetz über die Zuständigkeit auf dem Gebiet des Rechts des öffentlichen Dienstes
+% Ausfertigungsdatum: 20.08.1960
  
-
-## § 1
+# § 1
 
 (1) Die in Gesetzen vorgesehenen Zuständigkeiten des Bundesministers der Finanzen auf dem Gebiet des Rechts des öffentlichen Dienstes gehen auf den Bundesminister des Innern über. Dies gilt insbesondere, vorbehaltlich der Absätze 2 und 3, für alle Zuständigkeiten des Bundesministers der Finanzen in folgenden Gesetzen:
 
@@ -46,33 +43,27 @@ Ausfertigungsdatum: 20.08.1960
 
 (3)
 
-
-## § 2
+# § 2
 
 \-
 
-
-## § 3
+# § 3
 
 Die in tarifrechtlichen Regelungen des öffentlichen Dienstes vorgesehenen Zuständigkeiten des Bundesministers der Finanzen gehen auf den Bundesminister des Innern über.
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5
+# § 5
 
 Der Bundesminister des Innern wird ermächtigt, die durch §§ 1 und 2 geänderten Vorschriften in der vom Inkrafttreten dieses Gesetzes ab geltenden Fassung bekanntzumachen.
 
-
-## § 6
+# § 6
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
 
-
-## § 7
+# § 7
 
 (1) Dieses Gesetz tritt mit Ausnahme des § 2 mit Wirkung vom 31. Oktober 1957 ab in Kraft; Maßnahmen, die bis zum Tage nach seiner Verkündung auf Grund der bisherigen Zuständigkeitsregelung getroffen worden sind, sind wirksam.
 

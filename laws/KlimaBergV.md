@@ -1,20 +1,15 @@
-# [KlimaBergV] Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen  (Klima-Bergverordnung - KlimaBergV)
-
-Ausfertigungsdatum: 09.06.1983
-
+% Bergverordnung zum Schutz der Gesundheit gegen Klimaeinwirkungen  (Klima-Bergverordnung - KlimaBergV)
+% Ausfertigungsdatum: 09.06.1983
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und e, Nr. 5 Buchstabe b, § 67 Nr. 1 und 8 und § 68 Abs. 2 Nr. 1 und 3 sowie Abs. 3 Nr. 1, auch in Verbindung mit § 126 Abs. 1 Satz 1 und Abs. 3 und § 129 Abs. 1, sowie des § 176 Abs. 3 Satz 3 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310) wird im Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung gilt für untertägige Betriebe mit Ausnahme der Hohlraumbauten.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -24,8 +19,7 @@ Im Sinne dieser Verordnung ist
 
 3. Effektivtemperatur der in Abhängigkeit von der Trockentemperatur, der Feuchttemperatur und der Wettergeschwindigkeit nach dem Schaubild der Anlage 1 ermittelte Klimawert in Grad C.
 
-
-## § 3 – Zulässige Beschäftigungszeit
+# § 3 – Zulässige Beschäftigungszeit
 
 Wird, auch nachdem Maßnahmen nach § 61 Abs. 1 Satz 2 Nr. 1 des Bundesberggesetzes getroffen worden sind,
 
@@ -41,8 +35,7 @@ a) 7 Stunden, wenn sie täglich mehr als 5 Stunden bei Trockentemperaturen über
 
 b) 6 1/2 Stunden, wenn sie täglich mehr als 4 Stunden bei Trockentemperaturen über 46 Grad C bis 52 Grad C verbringen.
 
-
-## § 4 – Obere Klimawerte für eine Beschäftigung außerhalb des Salzbergbaus
+# § 4 – Obere Klimawerte für eine Beschäftigung außerhalb des Salzbergbaus
 
 (1) Bei Effektivtemperaturen von mehr als 30 Grad C dürfen außerhalb des Salzbergbaus Personen nicht beschäftigt werden.
 
@@ -62,15 +55,13 @@ b) 6 1/2 Stunden, wenn sie täglich mehr als 4 Stunden bei Trockentemperaturen �
 
 2. ein Überschreiten der in Absatz 3 festgelegten Betriebsdauer genehmigen, soweit dies wegen unvorhergesehener Ereignisse trotz zusätzlicher Maßnahmen zur Einhaltung der Frist unvermeidlich ist.
 
-
-## § 5 – Obere Temperaturwerte für eine Beschäftigung im Salzbergbau
+# § 5 – Obere Temperaturwerte für eine Beschäftigung im Salzbergbau
 
 (1) Bei Trockentemperaturen von mehr als 52 Grad C oder Feuchttemperaturen von mehr als 27 Grad C dürfen im Salzbergbau Personen nicht beschäftigt werden.
 
 (2) In Einzelfällen kann die zuständige Behörde Ausnahmen von Absatz 1 zulassen, wenn durch besondere Einrichtungen sichergestellt ist, daß für den einzelnen Beschäftigten die Temperaturbelastung in ihrer physiologischen Gesamtwirkung nicht so groß ist, wie bei einer Trockentemperatur von mehr als 52 Grad C oder einer Feuchttemperatur von mehr als 27 Grad C.
 
-
-## § 6 – Anrechnung von Zeiten für die nichtmaschinelle Fahrung
+# § 6 – Anrechnung von Zeiten für die nichtmaschinelle Fahrung
 
 Auf die nach § 3 oder § 4 Abs. 2 Nr. 2 für eine Verkürzung der Beschäftigungszeiten maßgebenden Zeiten und die Beschäftigungszeiten selbst sind die Zeiten für die nichtmaschinelle Fahrung in Wettern von mehr als
 
@@ -80,8 +71,7 @@ Auf die nach § 3 oder § 4 Abs. 2 Nr. 2 für eine Verkürzung der Beschäftigun
 
 insoweit anzurechnen, als sie insgesamt mehr als 15 Minuten betragen.
 
-
-## § 7 – Zusätzliche Pausen
+# § 7 – Zusätzliche Pausen
 
 (1) Neben den gesetzlichen Pausen sind zusätzliche Pausen zu gewähren
 
@@ -99,8 +89,7 @@ b) von 30 Minuten bei Trockentemperaturen von mehr als 46 Grad C.
 
 (2) Die Pausen sind auf die Beschäftigungszeiten anzurechnen.
 
-
-## § 8 – Eingewöhnungszeit
+# § 8 – Eingewöhnungszeit
 
 (1) Der Unternehmer darf Personen, die
 
@@ -116,8 +105,7 @@ mit Arbeiten im Leistungslohn erst nach einer Eingewöhnungszeit von 2 Wochen be
 
 (2) Während der Eingewöhnungszeit sollen außerhalb des Salzbergbaus täglich mehr als 2 1/2 Stunden oder im Salzbergbau täglich mehr als 4 Stunden unter den Temperatur- oder Klimabedingungen nach Absatz 1 Nr. 1 oder 2 verbracht werden.
 
-
-## § 9 – Besondere Personengruppen
+# § 9 – Besondere Personengruppen
 
 (1) Personen, die noch keine 21 Jahre oder mehr als 50 Jahre alt sind, dürfen
 
@@ -133,8 +121,7 @@ nicht beschäftigt werden.
 
 2. eine entsprechende Bescheinigung dem Unternehmer vorliegt.
 
-
-## § 10 – Arbeiten in Notfällen
+# § 10 – Arbeiten in Notfällen
 
 Die §§ 3, 4 Abs. 1 und § 5 Abs. 1 gelten nicht
 
@@ -148,8 +135,7 @@ b) Abwendung einer Gefahr für Leben oder Gesundheit von Personen oder
 
 c) Abwendung eines erheblichen Schadens an bedeutenden Betriebseinrichtungen bei einem unvorhergesehenen Ereignis, wenn mit einer kurzen Einsatzzeit zu rechnen ist.
 
-
-## § 11 – Ermittlung der Temperaturwerte
+# § 11 – Ermittlung der Temperaturwerte
 
 (1) An jedem belegten Betriebspunkt, an dem
 
@@ -183,11 +169,9 @@ b) 2 Wochen, sobald eine Effektivtemperatur von 29 Grad C überschritten wird,
 
 (7) Die Absätze 1 bis 6 gelten entsprechend für nicht belegte Betriebspunkte, an denen regelmäßig eine nichtmaschinelle Fahrung stattfindet und an denen außerhalb des Salzbergbaus mit einer Effektivtemperatur von mehr als 29 Grad C oder im Salzbergbau mit einer Trockentemperatur von mehr als 37 Grad C zu rechnen ist.
 
+# § 12 – (weggefallen)
 
-## § 12 – (weggefallen)
-
-
-## § 13 – Aufzeichnungen
+# § 13 – Aufzeichnungen
 
 (1) Der Unternehmer hat nach Maßgabe der von der zuständigen Behörde herausgegebenen Vordrucke Aufzeichnungen zu führen über
 
@@ -207,8 +191,7 @@ b) im Salzbergbau bei einer Trockentemperatur von mehr als 28 Grad C.
 
 (3) Gleichwertige Aufzeichnungen auf Grund anderer Rechtsvorschriften gelten als Nachweise im Sinne des Absatzes 1 Nr. 1.
 
-
-## § 14 – Bekanntmachung
+# § 14 – Bekanntmachung
 
 Der Unternehmer hat dafür zu sorgen, daß alle Personen, die unter Tage
 
@@ -218,8 +201,7 @@ Der Unternehmer hat dafür zu sorgen, daß alle Personen, die unter Tage
 
 beschäftigt werden sollen oder beschäftigt sind, von den Vorschriften dieser Verordnung Kenntnis erhalten.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 145 Abs. 3 Nr. 2 des Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -245,11 +227,9 @@ beschäftigt werden sollen oder beschäftigt sind, von den Vorschriften dieser V
 
 (3) Die Absätze 1 und 2 gelten nicht für Untergrundspeicher und Versuchsgruben.
 
+# § 16 – (weggefallen)
 
-## § 16 – (weggefallen)
-
-
-## § 17 – Inkrafttreten, abgelöste Vorschriften
+# § 17 – Inkrafttreten, abgelöste Vorschriften
 
 (1) Diese Verordnung tritt am 1. Januar 1984 in Kraft.
 
@@ -263,14 +243,12 @@ Bergverordnung des Landesoberbergamts Nordrhein-Westfalen zum Schutz der Gesundh
 4. Saarland  
 § 19 der Bergpolizeiverordnung des Oberbergamts für das Saarland und das Land Rheinland-Pfalz für die Steinkohlenbergwerke vom 1. Juni 1976 (Amtsblatt des Saarlandes S. 600).
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Wirtschaft
 
-
-## Anlage 1
+# Anlage 1
 
 (Fundstelle: BGBl. I 1983, 690)
 
-![](../normengrafiken/bgbl1_1983/j0690_0010.jpg)
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1983/j0690_0010.jpg)

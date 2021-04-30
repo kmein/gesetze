@@ -1,17 +1,13 @@
-# [JFDG] Gesetz zur Förderung von Jugendfreiwilligendiensten  (Jugendfreiwilligendienstegesetz - JFDG)
-
-Ausfertigungsdatum: 16.05.2008
-
+% Gesetz zur Förderung von Jugendfreiwilligendiensten  (Jugendfreiwilligendienstegesetz - JFDG)
+% Ausfertigungsdatum: 16.05.2008
  
-
-## § 1 – Fördervoraussetzungen
+# § 1 – Fördervoraussetzungen
 
 (1) Jugendfreiwilligendienste fördern die Bildungsfähigkeit der Jugendlichen und gehören zu den besonderen Formen des bürgerschaftlichen Engagements. Ein Jugendfreiwilligendienst wird gefördert, wenn die in den §§ 2 bis 8 genannten Voraussetzungen erfüllt sind und der Dienst von einem nach § 10 zugelassenen Träger durchgeführt wird. Die Förderung dient dazu, die Härten und Nachteile zu beseitigen, die mit der Ableistung des Jugendfreiwilligendienstes im Sinne dieses Gesetzes verbunden sind.
 
 (2) Jugendfreiwilligendienste im Sinne des Gesetzes sind das freiwillige soziale Jahr (FSJ) und das freiwillige ökologische Jahr (FÖJ).
 
-
-## § 2 – Freiwillige
+# § 2 – Freiwillige
 
 (1) Freiwillige im Sinne dieses Gesetzes sind Personen, die
 
@@ -35,22 +31,19 @@ Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der allgemeinen Rentenv
 
 (2) Als Freiwillige gelten auch Personen, die durch einen nach § 10 zugelassenen Träger des Jugendfreiwilligendienstes darauf vorbereitet werden, einen Jugendfreiwilligendienst im Ausland zu leisten (Vorbereitungsdienst), für den Vorbereitungsdienst nur Leistungen erhalten, die dieses Gesetz vorsieht, und neben dem Vorbereitungsdienst keine Tätigkeit gegen Entgelt ausüben sowie die Voraussetzungen des Absatzes 1 Nummer 1 und 3 erfüllen.
 
-
-## § 3 – Freiwilliges soziales Jahr
+# § 3 – Freiwilliges soziales Jahr
 
 (1) Das freiwillige soziale Jahr wird als überwiegend praktische Hilfstätigkeit, die an Lernzielen orientiert ist, in gemeinwohlorientierten Einrichtungen geleistet, insbesondere in Einrichtungen der Wohlfahrtspflege, in Einrichtungen der Kinder- und Jugendhilfe, einschließlich der Einrichtungen für außerschulische Jugendbildung und Einrichtungen für Jugendarbeit, in Einrichtungen der Gesundheitspflege, in Einrichtungen der Kultur und Denkmalpflege oder in Einrichtungen des Sports.
 
 (2) Das freiwillige soziale Jahr wird pädagogisch begleitet. Die pädagogische Begleitung wird von einer zentralen Stelle eines nach § 10 zugelassenen Trägers des Jugendfreiwilligendienstes sichergestellt mit dem Ziel, soziale, kulturelle und interkulturelle Kompetenzen zu vermitteln und das Verantwortungsbewusstsein für das Gemeinwohl zu stärken.
 
-
-## § 4 – Freiwilliges ökologisches Jahr
+# § 4 – Freiwilliges ökologisches Jahr
 
 (1) Das freiwillige ökologische Jahr wird als überwiegend praktische Hilfstätigkeit, die an Lernzielen orientiert ist, in geeigneten Stellen und Einrichtungen geleistet, die im Bereich des Natur- und Umweltschutzes einschließlich der Bildung zur Nachhaltigkeit tätig sind.
 
 (2) Das freiwillige ökologische Jahr wird pädagogisch begleitet. Die pädagogische Begleitung wird von einer zentralen Stelle eines nach § 10 zugelassenen Trägers des Jugendfreiwilligendienstes sichergestellt mit dem Ziel, soziale, kulturelle und interkulturelle Kompetenzen zu vermitteln und das Verantwortungsbewusstsein für das Gemeinwohl zu stärken. Im freiwilligen ökologischen Jahr sollen insbesondere der nachhaltige Umgang mit Natur und Umwelt gestärkt und Umweltbewusstsein entwickelt werden, um ein kompetentes Handeln für Natur und Umwelt zu fördern.
 
-
-## § 5 – Jugendfreiwilligendienste im Inland
+# § 5 – Jugendfreiwilligendienste im Inland
 
 (1) Das freiwillige soziale Jahr und das freiwillige ökologische Jahr im Inland werden in der Regel für eine Dauer von zwölf zusammenhängenden Monaten geleistet. Die Mindestdauer bei demselben nach § 10 anerkannten Träger beträgt sechs Monate, der Dienst kann bis zu der Gesamtdauer von insgesamt 18 Monaten verlängert werden. Der Träger kann den Jugendfreiwilligendienst im Rahmen des pädagogischen Gesamtkonzepts auch unterbrochen zur Ableistung in Abschnitten anbieten, wenn ein Abschnitt mindestens drei Monate dauert.
 
@@ -60,8 +53,7 @@ Angemessen ist ein Taschengeld, wenn es 6 Prozent der in der allgemeinen Rentenv
 
 (4) Zur Durchführung des Jugendfreiwilligendienstes nach diesem Gesetz schließen zugelassene Träger und Einsatzstellen eine vertragliche Vereinbarung. Die Vereinbarung legt fest, in welcher Weise Träger und Einsatzstellen die Ziele des Dienstes, insbesondere soziale Kompetenz, Persönlichkeitsbildung sowie die Förderung der Bildungs- und Beschäftigungsfähigkeit der Freiwilligen gemeinsam verfolgen.
 
-
-## § 6 – Jugendfreiwilligendienst im Ausland
+# § 6 – Jugendfreiwilligendienst im Ausland
 
 (1) Ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr im Sinne dieses Gesetzes kann auch im Ausland geleistet werden.
 
@@ -77,18 +69,15 @@ Die pädagogische Begleitung soll in der Weise erfolgen, dass jeweils in der Bun
 
 (3) Der Dienst muss nach Maßgabe des § 11 Abs. 1 mit dem Träger vereinbart und gestaltet werden. § 11 Abs. 2 findet keine Anwendung. Die Höchstdauer der Entsendung beträgt 18 Monate. Für die Zahl zusätzlicher Seminartage gilt § 5 Absatz 2 Satz 3 und 4 entsprechend.
 
-
-## § 7 – Kombinierter Jugendfreiwilligendienst
+# § 7 – Kombinierter Jugendfreiwilligendienst
 
 Ein kombinierter Jugendfreiwilligendienst im In- und Ausland kann vom Träger angeboten werden, wenn insgesamt eine Dauer von 18 zusammenhängenden Monaten nicht überschritten wird und die Einsatzabschnitte im In- und Ausland jeweils mindestens drei Monate dauern. Der Dienst ist für den Gesamtzeitraum nach § 11 Abs. 1 mit dem Träger zu vereinbaren und zu gestalten. § 11 Abs. 2 findet keine Anwendung. Die pädagogische Begleitung soll nach Maßgabe des § 6 erfolgen; Zwischenseminare können auch im Inland stattfinden. § 5 Abs. 2 gilt für kürzer oder länger als zwölf Monate dauernde Dienste entsprechend.
 
-
-## § 8 – Zeitliche Ausnahmen
+# § 8 – Zeitliche Ausnahmen
 
 Der Jugendfreiwilligendienst nach den §§ 5, 6 und 7 kann ausnahmsweise bis zu einer Dauer von 24 Monaten geleistet werden, wenn dies im Rahmen eines besonderen pädagogischen Konzepts begründet ist.
 
-
-## § 9 – Förderung
+# § 9 – Förderung
 
 Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologischen Jahres richtet sich nach folgenden Rechtsnormen:
 
@@ -124,8 +113,7 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologisch
 
 16. § 14c des Gesetzes über den Zivildienst der Kriegsdienstverweigerer (Anerkannte Kriegsdienstverweigerer).
 
-
-## § 10 – Träger
+# § 10 – Träger
 
 (1) Als Träger des freiwilligen sozialen Jahres im Inland im Sinne dieses Gesetzes sind zugelassen:
 
@@ -153,8 +141,7 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologisch
 
 (5) Bestehende Zulassungen von Trägern nach dem Gesetz zur Förderung eines freiwilligen sozialen Jahres oder nach dem Gesetz zur Förderung eines freiwilligen ökologischen Jahres bleiben unberührt.
 
-
-## § 11 – Vereinbarung, Bescheinigung, Zeugnis
+# § 11 – Vereinbarung, Bescheinigung, Zeugnis
 
 (1) Der zugelassene Träger des Jugendfreiwilligendienstes und die oder der Freiwillige schließen vor Beginn des Jugendfreiwilligendienstes eine schriftliche Vereinbarung ab. Sie muss enthalten:
 
@@ -180,15 +167,12 @@ Die Förderung des freiwilligen sozialen Jahres und des freiwilligen ökologisch
 
 (4) Bei Beendigung des Jugendfreiwilligendienstes kann die Freiwillige oder der Freiwillige von dem Träger ein schriftliches Zeugnis über die Art und Dauer des Jugendfreiwilligendienstes fordern. Die Einsatzstelle soll bei der Zeugniserstellung angemessen beteiligt werden; im Falle des § 11 Abs. 2 ist das Zeugnis im Einvernehmen mit der Einsatzstelle zu erstellen. Das Zeugnis ist auf Verlangen auf die Leistungen und die Führung während der Dienstzeit zu erstrecken. Dabei sind in das Zeugnis berufsqualifizierende Merkmale des Jugendfreiwilligendienstes aufzunehmen.
 
-
-## § 12 – Datenschutz
+# § 12 – Datenschutz
 
 Der Träger des Jugendfreiwilligendienstes darf personenbezogene Daten nach § 11 Abs. 1 Satz 2 verarbeiten, soweit dies für die Förderung nach § 9 in Verbindung mit den dort genannten Vorschriften erforderlich ist. Die Daten sind nach Abwicklung des Jugendfreiwilligendienstes zu löschen.
 
-
-## § 13 – Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen
+# § 13 – Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen
 
 Für eine Tätigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Bundesurlaubsgesetz entsprechend anzuwenden. Für Schäden bei der Ausübung ihrer Tätigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.
 
-
-## § 15 – (weggefallen)
+# § 15 – (weggefallen)

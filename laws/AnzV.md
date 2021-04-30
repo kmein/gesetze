@@ -1,10 +1,7 @@
-# [AnzV] Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz  (Anzeigenverordnung - AnzV)
-
-Ausfertigungsdatum: 19.12.2006
-
+% Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz  (Anzeigenverordnung - AnzV)
+% Ausfertigungsdatum: 19.12.2006
  
-
-## Eingangsformel
+# Eingangsformel
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet
 
@@ -16,8 +13,7 @@ auf Grund des § 31 Abs. 1 Satz 1 Nr. 1 des Kreditwesengesetzes in der Fassung d
 
 jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der zuletzt durch die Verordnung vom 17. November 2005 (BGBl. I S. 3187) geändert worden ist:
 
-
-## § 1 – Einreichungsverfahren
+# § 1 – Einreichungsverfahren
 
 (1) Die Anzeigen und die Unterlagen, die nach dem Kreditwesengesetz zu erstatten oder vorzulegen sind und durch diese Verordnung näher bestimmt werden, sind vorbehaltlich abweichender Bestimmungen in dieser Verordnung jeweils in einfacher Ausfertigung der Aufsichtsbehörde im Sinne des § 1 Absatz 5 des Kreditwesengesetzes (Aufsichtsbehörde) und der für das Institut zuständigen Hauptverwaltung der Deutschen Bundesbank einzureichen. Anzeigen und Vorlagen von Unterlagen von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften nach § 12a Absatz 1 Satz 3 und § 24 Absatz 3a des Kreditwesengesetzes sind der Hauptverwaltung, in deren Bereich das übergeordnete Unternehmen nach § 10a Absatz 2 Satz 1 des Kreditwesengesetzes oder das konglomeratsangehörige Unternehmen aus der Banken- und Wertpapierdienstleistungsbranche mit der höchsten Bilanzsumme seinen Sitz hat, einzureichen.
 
@@ -25,8 +21,7 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 (3) Soweit die Europäische Zentralbank Aufsichtsbehörde im Sinne des § 1 Absatz 5 Nummer 1 des Kreditwesengesetzes ist, sind § 24 Absatz 3c und § 24a Absatz 4a des Kreditwesengesetzes zu beachten.
 
-
-## § 2 – Rechtsträgerkennung
+# § 2 – Rechtsträgerkennung
 
 (1) Zur Identifizierung im Meldewesen benötigen die folgenden Unternehmen eine Rechtsträgerkennung:
 
@@ -50,11 +45,9 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 (6) Übergeordnete Unternehmen einer Gruppe im Sinne des § 10a Absatz 1 Satz 1 des Kreditwesengesetzes haben sicherzustellen, dass alle Mitglieder ihrer Gruppe, für die sie nach der Verordnung (EU) Nr. 575/2013 oder nach dem Kreditwesengesetz Informationen an die Bundesanstalt oder an die Deutsche Bundesbank zu melden haben, die Pflichten nach den Absätzen 1 und 3 bis 5 erfüllen.
 
+# § 3 – (weggefallen)
 
-## § 3 – (weggefallen)
-
-
-## § 4 – Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des Kreditwesengesetzes
+# § 4 – Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des Kreditwesengesetzes
 
 (1) Anzeigen nach § 24 Absatz 1 Nummer 17 und Absatz 1b Satz 2 des Kreditwesengesetzes müssen enthalten:
 
@@ -72,8 +65,7 @@ jeweils in Verbindung mit § 1 Nr. 5 der Verordnung zur Übertragung von Befugni
 
 2. sich die rechtsgeschäftliche Änderung der Kreditbedingungen auf eine Anpassung des Zinssatzes entsprechend der Entwicklung des Marktzinses beschränkt.
 
-
-## § 5 – Anzeigen nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes (Bestellung von Personen)
+# § 5 – Anzeigen nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes (Bestellung von Personen)
 
 (1) Für Anzeigen nach § 24 Absatz 1 Nummer 1 des Kreditwesengesetzes über die Absicht, einen Geschäftsleiter zu bestellen und eine Person zur Einzelvertretung des Instituts in dessen gesamtem Geschäftsbereich zu ermächtigen, sowie über den Vollzug, die Aufgabe oder die Änderung einer solchen Absicht haben
 
@@ -97,8 +89,7 @@ zu verwenden.
 
 (5) Mit Einreichung der nach den §§ 5a und 5b der Anzeige beizufügenden Unterlagen bestätigt das anzeigende Institut, dass die Unterlagen nach seinem Kenntnisstand richtig sind.
 
-
-## § 5a – Lebenslauf der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+# § 5a – Lebenslauf der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
 (1) Den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes ist ein aussagekräftiger Lebenslauf der genannten Personen beizufügen. Der Lebenslauf muss lückenlos, vollständig und wahr sein. Er muss eigenhändig unterzeichnet und mit einem Datum versehen sein.
 
@@ -124,8 +115,7 @@ Der Schwerpunkt des Lebenslaufs hat auf den Stationen des Berufslebens zu liegen
 
 (3) Bei einer Anzeige nach § 24 Absatz 1 Nummer 1 des Kreditwesengesetzes sind in dem Lebenslauf bei der Art der jeweiligen Tätigkeit insbesondere der Umfang der Vertretungsmacht dieser Person, ihre internen Entscheidungskompetenzen und die ihr innerhalb des Unternehmens unterstellten Geschäftsbereiche darzulegen. Sofern vorhanden, sind dem Lebenslauf Arbeitszeugnisse über unselbständige Tätigkeiten, die in den letzten drei Jahren vor Abgabe der Anzeige ausgeübt wurden, beizufügen.
 
-
-## § 5b – Erklärungen der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Personen und des anzeigenden Instituts
+# § 5b – Erklärungen der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Personen und des anzeigenden Instituts
 
 (1) Ein Institut, bei dem die Bundesanstalt Aufsichtsbehörde ist, hat den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes eine Erklärung der dort genannten Personen beizufügen, ob nach deren Kenntnis
 
@@ -163,8 +153,7 @@ b) einem Mitglied des Verwaltungs- oder Aufsichtsorgans des anzeigenden Unterneh
 
 (5) Ein Institut, bei dem die Europäische Zentralbank Aufsichtsbehörde ist, hat den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes zudem einen von der angezeigten Person vollständig und wahrheitsgemäß ausgefüllten „Fragebogen zur Beurteilung der fachlichen Qualifikation, persönlichen Zuverlässigkeit und ausreichenden zeitlichen Verfügbarkeit – durch die angezeigte Person auszufüllen“ nach Anlage 11 beizufügen.
 
-
-## § 5c – Führungszeugnis der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+# § 5c – Führungszeugnis der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
 (1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes genannten Personen haben bei der Bundesanstalt ein Führungszeugnis zur Vorlage bei einer Behörde gemäß § 30 Absatz 5 oder § 30b des Bundeszentralregistergesetzes einzureichen.
 
@@ -176,15 +165,13 @@ b) einem Mitglied des Verwaltungs- oder Aufsichtsorgans des anzeigenden Unterneh
 
 (5) Sofern die Dokumente nicht in deutscher Sprache ausgestellt sind, bedarf es grundsätzlich zusätzlich zum Original einer Übersetzung in die deutsche Sprache. Die Übersetzung muss beglaubigt oder von einem öffentlich bestellten oder beeidigten Dolmetscher oder Übersetzer angefertigt sein. Die Bundesanstalt kann auf die Übersetzung von Unterlagen in englischer Sprache verzichten.
 
-
-## § 5d – Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
+# § 5d – Auszug aus dem Gewerbezentralregister der nach § 24 Absatz 1 Nummer 1 und 15 des Kreditwesengesetzes anzuzeigenden Person
 
 (1) Die in den Anzeigen der Absicht einer Bestellung oder Ermächtigung nach § 24 Absatz 1 Nummer 1 und den Anzeigen nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes genannten Personen haben bei der Bundesanstalt einen Auszug aus dem Gewerbezentralregister nach § 150 der Gewerbeordnung einzureichen. Satz 1 gilt nicht, wenn die Person keinen Wohnsitz in Deutschland hat oder gehabt hat oder keine berufliche Tätigkeit in Deutschland ausübt oder ausgeübt hat.
 
 (2) Der Registerauszug darf zum Zeitpunkt der Erstattung der Anzeige nach § 24 Absatz 1 Nummer 1 oder zum Zeitpunkt der Bestellung nach § 24 Absatz 1 Nummer 15 des Kreditwesengesetzes nicht älter als drei Monate sein. Maßgeblich ist das Datum der Ausstellung des Registerauszuges.
 
-
-## § 5e – Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)
+# § 5e – Anzeigen nach § 24 Absatz 1 Nummer 2 und 15a des Kreditwesengesetzes (Ausscheiden von Personen)
 
 (1) Für Anzeigen nach § 24 Absatz 1 Nummer 2 des Kreditwesengesetzes haben
 
@@ -202,13 +189,11 @@ zu verwenden. In dem Formular sind jeweils die Gründe für das Ausscheiden oder
 
 zu verwenden. In dem Formular sind jeweils die Gründe für das Ausscheiden anzugeben.
 
-
-## § 5f – Geschäftsleiter-Vertreter im Verhinderungsfall
+# § 5f – Geschäftsleiter-Vertreter im Verhinderungsfall
 
 Die Bestimmungen nach den §§ 5 bis 5e gelten auch für die Bestellung und das Ausscheiden eines Geschäftsleiter-Vertreters, der im Fall der Verhinderung eines Geschäftsleiters dessen Funktion ausüben soll.
 
-
-## § 6 – Anzeigen nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes (Zweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat)
+# § 6 – Anzeigen nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes (Zweigstelle und grenzüberschreitender Dienstleistungsverkehr ohne Errichtung einer Zweigstelle im Drittstaat)
 
 Die Anzeige nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes muss enthalten:
 
@@ -220,8 +205,7 @@ Die Anzeige nach § 24 Abs. 1 Nr. 6 des Kreditwesengesetzes muss enthalten:
 
 Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige zusammengefasst werden, solange deren Übersichtlichkeit erhalten bleibt.
 
-
-## § 7 – Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 des Kreditwesengesetzes (bedeutende Beteiligungen an anderen Unternehmen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
+# § 7 – Anzeigen von Instituten nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13, § 24 Absatz 1a Nummer 1 und 2 sowie § 31 Absatz 3 des Kreditwesengesetzes (bedeutende Beteiligungen an anderen Unternehmen, aktivische enge Verbindungen, Beteiligungen an oder Unternehmensbeziehungen mit Unternehmen mit Sitz im Ausland, Befreiungen)
 
 (1) Einzelanzeigen von Instituten über aktivische Beteiligungsverhältnisse nach § 12a Absatz 1 Satz 3, § 24 Absatz 1 Nummer 12 und 13 und § 31 Absatz 3 des Kreditwesengesetzes sind mit dem Formular „Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -249,8 +233,7 @@ Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige 
 
 (7) (weggefallen)
 
-
-## § 8 – Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen an dem eigenen Institut und passivische enge Verbindungen)
+# § 8 – Anzeigen nach § 24 Abs. 1 Nr. 10 und 12 und § 24 Abs. 1a Nr. 1 und 3 des Kreditwesengesetzes (bedeutende Beteiligungen an dem eigenen Institut und passivische enge Verbindungen)
 
 (1) Einzelanzeigen über passivische Beteiligungsverhältnisse nach § 24 Abs. 1 Nr. 10 und 12 des Kreditwesengesetzes sind mit dem Formular "Passivische Beteiligungsanzeige" nach Anlage 5 dieser Verordnung einzureichen. Bei Änderungen des Beteiligungsverhältnisses sind Einzelanzeigen einzureichen, wenn
 
@@ -266,8 +249,7 @@ Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige 
 
 (3) § 7 Abs. 3, 4 und 6 gilt entsprechend mit der Maßgabe, dass auch die Unternehmensbeziehung des Instituts zum Schwesterunternehmen eine komplexe Beteiligungsstruktur im Sinne des § 7 Abs. 4 Satz 3 darstellt.
 
-
-## § 9 – Sammelanzeigen nach § 24 Abs. 1a Nr. 4 des Kreditwesengesetzes (Anzahl inländischer Zweigstellen)
+# § 9 – Sammelanzeigen nach § 24 Abs. 1a Nr. 4 des Kreditwesengesetzes (Anzahl inländischer Zweigstellen)
 
 (1) Die Anzeige der Anzahl inländischer Zweigstellen nach § 24 Abs. 1a Nr. 4 des Kreditwesengesetzes ist jährlich bis zum 31. Januar des Folgejahres nach dem Stand vom 31. Dezember des Vorjahres einzureichen. Der Aufsichtsbehörde ist die Anzeige nur auf Verlangen einzureichen.
 
@@ -279,13 +261,11 @@ Mehrere zeitgleich einzureichende Anzeigen nach Satz 1 können in einer Anzeige 
 
 3. ausschließlich dem Betreiben von Geschäften dienen, die keine Bankgeschäfte oder Finanzdienstleistungen sind.
 
-
-## § 10 – Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
+# § 10 – Anzeigen nach § 24 Abs. 2 des Kreditwesengesetzes (Vereinigung von Instituten)
 
 Die Absicht von Instituten, sich zu vereinigen, ist von den beteiligten Instituten nach § 24 Abs. 2 des Kreditwesengesetzes anzuzeigen, sobald auf Grund der geführten Verhandlungen anzunehmen ist, dass die Vereinigung zustande kommen wird. Das Scheitern der Fusionsverhandlungen ist unverzüglich mitzuteilen. Gleiches gilt bei erfolgreichen Fusionsverhandlungen für den rechtlichen Vollzug der Vereinigung.
 
-
-## § 10a – Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes (Weitere Tätigkeiten der Mitglieder eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts von erheblicher Bedeutung)
+# § 10a – Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes (Weitere Tätigkeiten der Mitglieder eines Verwaltungs- oder Aufsichtsorgans eines CRR-Instituts von erheblicher Bedeutung)
 
 Für Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes haben die Mitglieder von Verwaltungs- oder Aufsichtsorganen von CRR-Instituten, die bedeutend im Sinne des § 1 Absatz 3c des Kreditwesengesetzes sind, von Finanzholding-Gesellschaften und von gemischten Finanzholding-Gesellschaften
 
@@ -295,8 +275,7 @@ Für Anzeigen nach § 24 Absatz 2a des Kreditwesengesetzes haben die Mitglieder 
 
 zu verwenden.
 
-
-## § 11 – Anzeigen nach § 24 Abs. 3 Satz 1 des Kreditwesengesetzes (Geschäftsleiter und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen)
+# § 11 – Anzeigen nach § 24 Abs. 3 Satz 1 des Kreditwesengesetzes (Geschäftsleiter und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen)
 
 (1) Für Anzeigen nach § 24 Absatz 3 Satz 1 Nummer 1 des Kreditwesengesetzes haben die Geschäftsleiter und die Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft führen,
 
@@ -308,8 +287,7 @@ zu verwenden.
 
 (2) Anzeigen nach § 24 Abs. 3 Satz 1 Nr. 2 des Kreditwesengesetzes sind mit dem Formular "Beteiligungen von Geschäftsleitern und Personen, die die Geschäfte einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft tatsächlich führen" nach Anlage 7 dieser Verordnung einzureichen. Eine Änderungsanzeige ist nur abzugeben, wenn die Beteiligung 30 Prozent oder 50 Prozent des Kapitals des Unternehmens erreicht, über- oder unterschreitet. § 7 Abs. 5 und 6 gilt entsprechend.
 
-
-## § 12 – Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes (Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitenden Dienstleistungsverkehrs in einem anderen Staat des Europäischen Wirtschaftsraums)
+# § 12 – Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes (Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitenden Dienstleistungsverkehrs in einem anderen Staat des Europäischen Wirtschaftsraums)
 
 (1) Anzeigen nach § 24a Abs. 1, 3 und 4 des Kreditwesengesetzes sind für jeden Staat des Europäischen Wirtschaftsraums gesondert einzureichen. Den Anzeigen nach § 24a Abs. 1 und 3 des Kreditwesengesetzes an die Aufsichtsbehörde sind im Fall der Aufnahmestaaten Österreich, Liechtenstein und Luxemburg eine zweite Ausfertigung und im Fall der übrigen Staaten des Europäischen Wirtschaftsraums eine Übersetzung in eine Amtssprache des Aufnahmestaates beizufügen. Sofern die Änderungsanzeige nach § 24a Abs. 4 des Kreditwesengesetzes an die zuständige Behörde des Aufnahmestaates nicht in einer Amtssprache dieses Staates abgefasst ist, ist dieser eine amtlich beglaubigte Übersetzung in eine solche Amtssprache beizufügen.
 
@@ -335,13 +313,11 @@ zu verwenden.
 
 Satz 1 gilt für die nach § 24a Abs. 4 des Kreditwesengesetzes anzuzeigenden Änderungen der Verhältnisse bestehender Zweigniederlassungen entsprechend.
 
-
-## § 13 – Vorlage von Unterlagen nach § 26 des Kreditwesengesetzes (Jahresabschlüsse, Lage- und Prüfungsberichte)
+# § 13 – Vorlage von Unterlagen nach § 26 des Kreditwesengesetzes (Jahresabschlüsse, Lage- und Prüfungsberichte)
 
 Bei der Einreichung des festgestellten Jahresabschlusses ist der Tag der Feststellung anzugeben.
 
-
-## § 14 – Anzeigen und Vorlage von Unterlagen nach § 32 Abs. 1 des Kreditwesengesetzes (Anträge auf Erlaubnis)
+# § 14 – Anzeigen und Vorlage von Unterlagen nach § 32 Abs. 1 des Kreditwesengesetzes (Anträge auf Erlaubnis)
 
 (1) Anträge und Unterlagen nach § 32 Abs. 1 des Kreditwesengesetzes sind der Bundesanstalt in dreifacher Ausfertigung einzureichen.
 
@@ -385,8 +361,7 @@ einzureichen.
 
 (8) Auf Verlangen der Bundesanstalt sind weitere Auskünfte zu erteilen und Unterlagen vorzulegen, soweit dies für die Beurteilung erforderlich ist, dass keine Gründe für die Versagung der beantragten Erlaubnis bestehen.
 
-
-## § 15 – Anzeigen nach § 53a Satz 2 und 5 des Kreditwesengesetzes (Repräsentanzen von Instituten mit Sitz im Ausland)
+# § 15 – Anzeigen nach § 53a Satz 2 und 5 des Kreditwesengesetzes (Repräsentanzen von Instituten mit Sitz im Ausland)
 
 (1) Anzeigen über die Errichtung einer Repräsentanz nach § 53a Satz 2 des Kreditwesengesetzes müssen die folgenden Angaben enthalten:
 
@@ -420,8 +395,7 @@ b) Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz 2 des Kreditwesengese
 
 c) Zahlungsdienste im Sinne des § 1 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes,
 
-2a.  
-eine Erklärung, dass im Inland der Name oder die Firma des Instituts nur mit dem Zusatz „Repräsentanz“ verwendet wird,
+2a. eine Erklärung, dass im Inland der Name oder die Firma des Instituts nur mit dem Zusatz „Repräsentanz“ verwendet wird,
 
 3. der letzte Jahresabschluss und Lagebericht des Instituts und
 
@@ -439,25 +413,21 @@ Die Unterlagen nach Absatz 2 Satz 1 Nr. 3 und 4 sind nur auf Verlangen der Bunde
 
 (3) Eine Änderungsanzeige nach § 53a Satz 5 des Kreditwesengesetzes ist auch bei Änderungen, die sich während des Bestehens der Repräsentanz gegenüber den Angaben in der Errichtungsanzeige nach § 53a Satz 2 des Kreditwesengesetzes ergeben, einzureichen.
 
-
-## § 16 – Anzeigen nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a des Kreditwesengesetzes (Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
+# § 16 – Anzeigen nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a des Kreditwesengesetzes (Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften)
 
 (1) Für Einzelanzeigen einer Finanzholding-Gesellschaft oder einer gemischten Finanzholding-Gesellschaft nach § 12a Absatz 1 Satz 3 und nach § 24 Absatz 3a Satz 4 und 5 des Kreditwesengesetzes ist das Formular „Aktivische Beteiligungsanzeige“ nach Anlage 3 dieser Verordnung zu verwenden. Sammelanzeigen nach § 24 Absatz 3a Satz 2 und 5 des Kreditwesengesetzes sind nach dem Stand vom 31. Dezember des Vorjahres bis zum 15. Juni des Folgejahres als Sammlung fortlaufend nummerierter Teilanzeigen mit dem Formular "Aktivische Beteiligungsanzeige" nach Anlage 3 dieser Verordnung einzureichen. § 7 Abs. 1 Satz 2 und Abs. 3 bis 6 gilt entsprechend.
 
 (2) Für die Anzeigen nach § 24 Absatz 3a Satz 1 Nummer 1, 2, 4 und 5 und Satz 5 des Kreditwesengesetzes über die Absicht der Bestellung einer Person, die die Geschäfte der Finanzholding-Gesellschaft oder gemischten Finanzholding-Gesellschaft tatsächlich führen soll oder das Ausscheiden dieser Person und über die Bestellung oder das Ausscheiden eines Mitglieds oder stellvertretenden Mitglieds des Verwaltungs-oder Aufsichtsorgans gelten die §§ 5 bis 5f entsprechend.
 
-
-## § 16a – Übergangsvorschrift
+# § 16a – Übergangsvorschrift
 
 Unternehmen im Sinne des § 2 Absatz 1, für die das international von Aufsichtsbehörden anerkannte System zur Identifizierung von Rechtsträgern noch keine Vergabe einer Kennung ermöglicht, müssen die Rechtsträgerkennung erst erwerben, sobald die Vergabe auch für diese Unternehmen zugelassen ist.
 
-
-## § 17 – Inkrafttreten, Außerkrafttreten
+# § 17 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 31. Dezember 2006 in Kraft.
 
-
-## Anlage 1 – (zu § 5 Abs. 1 Nr. 1, § 5e Abs. 1 Satz 1 Nr. 1 AnzV)
+# Anlage 1 – (zu § 5 Abs. 1 Nr. 1, § 5e Abs. 1 Satz 1 Nr. 1 AnzV)
 
 (Fundstelle: BGBl. I 2018, 1728 — 1729)
 
@@ -497,8 +467,7 @@ oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellscha
 <span id="FnA1-f804292_01_03"></span><a href="#FnR.FnA1-f804292_01_03" class="Footnote">3</a>  
 beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich haftender Gesellschafter, Geschäftsleiter-Vertreter im Verhinderungsfall, Prokurist
 
-
-## Anlage 2 – (zu § 5 Abs. 2 Nr. 1, § 5e Abs. 2 Satz 1 Nr. 1 AnzV)PVVALSI
+# Anlage 2 – (zu § 5 Abs. 2 Nr. 1, § 5e Abs. 2 Satz 1 Nr. 1 AnzV)PVVALSI
 
 (Fundstelle: BGBl. I 2018, 1730 — 1731)
 
@@ -531,8 +500,7 @@ oder Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft
 <span id="FnA1-f804292_01_06"></span><a href="#FnR.FnA1-f804292_01_06" class="Footnote">3</a>  
 beispielsweise Aufsichtsratsmitglied, Verwaltungsratsmitglied, Aufsichtsratsvorsitzende(r), Verwaltungsratsvorsitzende(r), Beiratsmitglied
 
-
-## Anlage 2a – (zu § 5b Abs. 3 AnzV)PVZLSI
+# Anlage 2a – (zu § 5b Abs. 3 AnzV)PVZLSI
 
 (Fundstelle: BGBl. I 2018, 1732 — 1734)
 
@@ -736,8 +704,7 @@ Ich versichere die Richtigkeit und Vollständigkeit meiner Angaben. Über nachtr
 <br />
 </td><td style="text-align: left;"> </td></tr><tr class="even"><td style="text-align: left;">Ort/Datum</td><td style="text-align: left;">eigenhändige Unterschrift</td></tr></tbody></table>
 
-
-## Anlage 3 – (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
+# Anlage 3 – (zu § 7 Abs. 1 und 2 sowie § 16 Abs. 1 AnzV)
 
 (Fundstelle: BGBl. I 2016, 2809 — 2811)
 
@@ -901,8 +868,7 @@ Servicefeld für die elektronische Einreichung.
 Für mittelbar gehaltene Beteiligungen gilt: Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen unmittelbar gehaltenen Beteiligungsquoten zwischen den Beteiligungsunternehmen. Die Kette beginnt mit der unmittelbar gehaltenen Beteiligung des anzeigepflichtigen Instituts und endet mit dem anzuzeigenden mittelbar gehaltenen Beteiligungsunternehmen unter Nummer 3.
 
 <span id="FnA1-F796418_F11"></span><a href="#FnR.FnA1-F796418_F11" class="Footnote">11</a>  
-Angaben zu den Beteiligungsquoten sind immer zu machen. Der Hauptvordruck ist dabei nur geeignet für einfache mittelbare Beteiligungsverhältnisse bis zu maximal vier Hierarchieebenen. Für komplexe Beteiligungsstrukturen oder mittelbare Beteiligungsverhältnisse über mehr als vier Ebenen sind die Angaben zu den Beteiligungsquoten in der Anlage für komplexe Beteiligungsstrukturen zu machen. In diesem Fall ist Nummer 4 des Hauptvordrucks nicht auszufüllen. Ggf. ist zusätzlich ein Organigramm beizufügen.  
-Die Anlage für komplexe Beteiligungsstrukturen ist in jedem Fall einzureichen, wenn  
+Angaben zu den Beteiligungsquoten sind immer zu machen. Der Hauptvordruck ist dabei nur geeignet für einfache mittelbare Beteiligungsverhältnisse bis zu maximal vier Hierarchieebenen. Für komplexe Beteiligungsstrukturen oder mittelbare Beteiligungsverhältnisse über mehr als vier Ebenen sind die Angaben zu den Beteiligungsquoten in der Anlage für komplexe Beteiligungsstrukturen zu machen. In diesem Fall ist Nummer 4 des Hauptvordrucks nicht auszufüllen. Ggf. ist zusätzlich ein Organigramm beizufügen. Die Anlage für komplexe Beteiligungsstrukturen ist in jedem Fall einzureichen, wenn  
 – in den Beteiligungsstrukturen Treuhandverhältnisse vorkommen,  
 – Beteiligungen gleichzeitig unmittelbar und mittelbar oder über mehrere Beteiligungsketten gehalten werden,  
 – sich die Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens nicht aus der Höhe des Kapital- und/oder Stimmrechtsanteils herleiten lässt.
@@ -939,8 +905,7 @@ Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommand
 
 Diese Seite ist nicht mit einzureichen.
 
-
-## Anlage 4 – (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1 AnzV)
+# Anlage 4 – (zu § 7 Abs. 4, § 8 Abs. 3 und § 16 Abs. 1 AnzV)
 
 (Fundstelle: BGBl. I 2016, 2812 — 2813)
 
@@ -1230,9 +1195,7 @@ Sofern die Anlage für komplexe Beteiligungsstrukturen beigefügt ist, sind in N
 Führt eine mittelbare Beteiligungsbeziehung über mehrere Beteiligungsketten vom Institut zum Beteiligungsunternehmen (bei aktivischer Beteiligung) bzw. vom Anteilseigner zum Institut oder zum ausländischen nachgeordneten Unternehmen oder vom gemeinsamen Mutterunternehmen zum Schwesterunternehmen (bei passivischer Beteiligungsanzeige), so ist nur eine Anzeige mit einer Anlage für komplexe Beteiligungsstrukturen einzureichen, die alle vorhandenen Beteiligungsketten darstellt.
 
 <span id="FnA1-F796418_A4_03"></span><a href="#FnR.FnA1-F796418_A4_03" class="Footnote">C</a>  
-Die Unternehmensliste enthält alle Unternehmen, die in der Beteiligungsstruktur vorkommen.  
-Das anzeigepflichtige Institut steht bei aktivischen Beteiligungen immer an erster Stelle, bei passivischen an letzter Stelle. Bei der Anzeige von Schwesterunternehmen steht das gemeinsame Mutterunternehmen an erster und das Schwesterunternehmen an letzter Stelle. Bei der Anzeige einer bedeutenden Beteiligung eines Dritten an einem nachgeordneten ausländischen Unternehmen steht der Anteilseigner an erster und das nachgeordnete ausländische Unternehmen an letzter Stelle.  
-Die Anzahl der Zeilen in der Unternehmensliste und der Beteiligungsstruktur ist bei Bedarf beliebig erweiterbar.
+Die Unternehmensliste enthält alle Unternehmen, die in der Beteiligungsstruktur vorkommen. Das anzeigepflichtige Institut steht bei aktivischen Beteiligungen immer an erster Stelle, bei passivischen an letzter Stelle. Bei der Anzeige von Schwesterunternehmen steht das gemeinsame Mutterunternehmen an erster und das Schwesterunternehmen an letzter Stelle. Bei der Anzeige einer bedeutenden Beteiligung eines Dritten an einem nachgeordneten ausländischen Unternehmen steht der Anteilseigner an erster und das nachgeordnete ausländische Unternehmen an letzter Stelle. Die Anzahl der Zeilen in der Unternehmensliste und der Beteiligungsstruktur ist bei Bedarf beliebig erweiterbar.
 
 <span id="FnA1-F796418_A4_04"></span><a href="#FnR.FnA1-F796418_A4_04" class="Footnote">D</a>  
 Ist das Beteiligungsunternehmen ein Tochterunternehmen des anzeigepflichtigen Instituts, ist „Tochter“ einzutragen. Ist das Beteiligungsunternehmen ein Mutterunternehmen, ist „Mutter“ einzutragen; bei Unternehmensbeziehungen zu Schwesterunternehmen ist „Schwester" einzutragen.
@@ -1260,8 +1223,7 @@ Die Fußnoten 6 bis 17 entsprechen den Fußnoten in Anlage 3 (aktivische Beteili
 
 Diese Seite ist nicht mit einzureichen.
 
-
-## Anlage 5 – (zu § 8 Abs. 1 und 2 AnzV)
+# Anlage 5 – (zu § 8 Abs. 1 und 2 AnzV)
 
 (Fundstelle: BGBl. I 2016, 2814 — 2816)
 
@@ -1352,8 +1314,7 @@ Die Beteiligung an dem Institut (bei Anzeigen nach § 24 Abs. 1a Nr. 3 KWG: an d
   
 □ ja
 
-Falls „ja“ angekreuzt wurde, sind in der Unternehmensliste der Anlage für komplexe Beteiligungsstrukturen nähere Angaben zu den anderen Personen oder Unternehmen zu machen.  
-  
+Falls „ja“ angekreuzt wurde, sind in der Unternehmensliste der Anlage für komplexe Beteiligungsstrukturen nähere Angaben zu den anderen Personen oder Unternehmen zu machen.   
 
 Nur auszufüllen, wenn keine oder weniger als 10 Prozent der Kapital- oder Stimmrechtsanteile gehalten werden
 
@@ -1391,8 +1352,7 @@ Servicefeld für die elektronische Einreichung.
 Einzutragen ist die vollständige Beteiligungskette mit den jeweiligen unmittelbaren Beteiligungsquoten zwischen den Beteiligungsunternehmen. Die Kette beginnt in der ersten Zeile mit dem anzuzeigenden Anteilseigner laut Nummer 3 und endet mit dem anzeigepflichtigen Institut. In der ersten Zeile ist neben der Firma des Anteilseigners lediglich dessen Verhältnis zum Institut anzugeben. Ab der zweiten Zeile sind auch die Angaben zu den Anteilen auszufüllen.
 
 <span id="FnA1-F796418_F511"></span><a href="#FnR.FnA1-F796418_F511" class="Footnote">11</a>  
-Angaben zu den Beteiligungsquoten sind immer zu machen. Der Hauptvordruck ist dabei nur geeignet für einfache mittelbare Beteiligungsverhältnisse bis zu maximal drei Hierarchieebenen. Für komplexe Beteiligungsstrukturen oder mittelbare Beteiligungsverhältnisse über mehr als drei Ebenen sind die Angaben zu den Beteiligungsquoten in der Anlage für komplexe Beteiligungsstrukturen zu machen. In diesem Fall ist die Tabelle unter Nummer 5 des Hauptvordrucks nicht auszufüllen. Die durchgerechnete Kapitalquote unter Nummer 5 des Hauptvordrucks ist in jedem Fall anzugeben. Ggf. ist zusätzlich ein Organigramm beizufügen.  
-Die Anlage für komplexe Beteiligungsstrukturen ist in jedem Fall einzureichen, wenn  
+Angaben zu den Beteiligungsquoten sind immer zu machen. Der Hauptvordruck ist dabei nur geeignet für einfache mittelbare Beteiligungsverhältnisse bis zu maximal drei Hierarchieebenen. Für komplexe Beteiligungsstrukturen oder mittelbare Beteiligungsverhältnisse über mehr als drei Ebenen sind die Angaben zu den Beteiligungsquoten in der Anlage für komplexe Beteiligungsstrukturen zu machen. In diesem Fall ist die Tabelle unter Nummer 5 des Hauptvordrucks nicht auszufüllen. Die durchgerechnete Kapitalquote unter Nummer 5 des Hauptvordrucks ist in jedem Fall anzugeben. Ggf. ist zusätzlich ein Organigramm beizufügen. Die Anlage für komplexe Beteiligungsstrukturen ist in jedem Fall einzureichen, wenn  
 – in den Beteiligungsstrukturen Treuhandverhältnisse vorkommen,  
 – die Beteiligung von einem Anteilseigner gleichzeitig unmittelbar und mittelbar oder über mehrere Beteiligungsketten gehalten wird,  
 – sich die Tochtereigenschaft eines zwischengeschalteten Beteiligungsunternehmens nicht aus der Höhe des Kapital- und/oder Stimmrechtsanteils herleiten lässt,  
@@ -1422,8 +1382,7 @@ Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommand
 
 Diese Seite ist nicht mit einzureichen.
 
-
-## Anlage 6 – (zu § 10a Nr. 1, § 11 Abs. 1 Nr. 1 AnzV)NTLSI
+# Anlage 6 – (zu § 10a Nr. 1, § 11 Abs. 1 Nr. 1 AnzV)NTLSI
 
 (Fundstelle: BGBl. I 2018, 1735 — 1736)
 
@@ -1457,8 +1416,7 @@ Mandate in Beiräten sind anzugeben, wenn die Aufgaben und Befugnisse des Beirat
 <span id="FnA1-f804292_01_10"></span><a href="#FnR.FnA1-f804292_01_10" class="Footnote">4</a>  
 Sofern eine einheitliche Identifikationsnummer „Legal Entity Identifier“ (LEI) existiert, ist diese anzugeben. Vorläufer der LEI, sog. Pre-LEI, sind ebenfalls anzugeben.
 
-
-## Anlage 7 – (zu § 11 Abs. 2 AnzV)
+# Anlage 7 – (zu § 11 Abs. 2 AnzV)
 
 (Fundstelle: BGBl. I 2016, 2819 — 2820)
 
@@ -1559,8 +1517,7 @@ Namensaktien, vinkulierte Namensaktien, ohne Nennkapital, Komplementär, Kommand
 
 Diese Seite ist nicht mit einzureichen.
 
-
-## Anlage 8 – (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSI
+# Anlage 8 – (zu § 5 Abs. 1 Nr. 2, § 5e Abs. 1 Satz 1 Nr. 2 AnzV)PVGSI
 
 (Fundstelle: BGBl. I 2018, 1737 — 1738)
 
@@ -1605,8 +1562,7 @@ oder der Finanzholding-Gesellschaft oder der gemischten Finanzholding-Gesellscha
 <span id="FnA1-f804292_01_13"></span><a href="#FnR.FnA1-f804292_01_13" class="Footnote">3</a>  
 beispielsweise Vorstandsmitglied, Geschäftsführer, persönlich haftender Gesellschafter, Geschäftsleiter-Vertreter im Verhinderungsfall, Prokurist
 
-
-## Anlage 9 – (zu § 5 Abs. 2 Nr. 2, § 5e Abs. 2 Satz 1 Nr. 2 AnzV)PVVASI
+# Anlage 9 – (zu § 5 Abs. 2 Nr. 2, § 5e Abs. 2 Satz 1 Nr. 2 AnzV)PVVASI
 
 (Fundstelle: BGBl. I 2018, 1739 — 1740)
 
@@ -1643,8 +1599,7 @@ oder Finanzholding-Gesellschaft oder gemischte Finanzholding-Gesellschaft
 <span id="FnA1-f804292_01_16"></span><a href="#FnR.FnA1-f804292_01_16" class="Footnote">3</a>  
 beispielsweise Aufsichtsratsmitglied, Verwaltungsratsmitglied, Aufsichtsratsvorsitzende(r), Verwaltungsratsvorsitzende(r), Beiratsmitglied
 
-
-## Anlage 10 – (zu § 5b Abs. 4 AnzV)PVFU
+# Anlage 10 – (zu § 5b Abs. 4 AnzV)PVFU
 
 (Fundstelle: BGBl. I 2018, 1741 — 1744)
 
@@ -1841,8 +1796,7 @@ Zur Erstattung der Anzeige nach § 24 Abs. 1 Nr. 1, § 24 Abs. 1 Nr. 15, § 24 A
 –  
 Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualifikation, Zuverlässigkeit oder ausreichende zeitliche Verfügbarkeit der angezeigten Person auswirken kann. Soweit die Änderung nicht in Erfüllung der Anzeigepflichten nach dem KWG gemeldet wird (z. B. die Annahme eines weiteren Mandats), erfolgt die Information grundsätzlich durch das beaufsichtigte Unternehmen.
 
-
-## Anlage 11 – (zu § 5b Abs. 5 AnzV)PVFP
+# Anlage 11 – (zu § 5b Abs. 5 AnzV)PVFP
 
 (Fundstelle: BGBl. I 2018, 1745 — 1754)
 
@@ -2093,8 +2047,7 @@ i. Hat die Geschäftsleitung oder das Verwaltungs- oder Aufsichtsorgan des beauf
 □ JA  
 □ NEIN
 
-Falls JA, erläutern Sie dies bitte näher: Bitte geben Sie dabei den Inhalt und das Ergebnis der Beratungen an.  
-  
+Falls JA, erläutern Sie dies bitte näher: Bitte geben Sie dabei den Inhalt und das Ergebnis der Beratungen an.   
 
 3.  Erfahrung
 
@@ -2401,8 +2354,7 @@ d. Haben oder hatten Sie oder eine Ihnen persönlich nahestehende Person in den 
 □ JA  
 □ NEIN
 
-Falls JA, erläutern Sie dies bitte näher. Bitte geben Sie im Falle einer aktiven Geschäftsbeziehung an, welchen (finanziellen) Wert die Beziehung für das betreffende Unternehmen des Mitglieds oder seine engen persönlichen oder geschäftlichen Beziehungen hat.  
-  
+Falls JA, erläutern Sie dies bitte näher. Bitte geben Sie im Falle einer aktiven Geschäftsbeziehung an, welchen (finanziellen) Wert die Beziehung für das betreffende Unternehmen des Mitglieds oder seine engen persönlichen oder geschäftlichen Beziehungen hat.   
 
 e. Haben Sie (persönlich oder durch ein eng mit Ihnen verbundenes Unternehmen) oder eine Ihnen persönlich nahestehende Person ein wesentliches finanzielles Interesse (z. B. durch Beteiligungen, durch sonstiges Investment) an dem beaufsichtigten Unternehmen, dessen Mutter- oder Tochterunternehmen, einem Kunden oder einem Konkurrenzunternehmen des beaufsichtigten Unternehmens?
 
@@ -2551,8 +2503,7 @@ b. Wurde Ihnen durch eine zuständige Behörde die Genehmigung erteilt, ein zus�
 □ JA  
 □ NEIN
 
-c. Übersicht über Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und sonstige berufliche Tätigkeiten.  
-Bitte geben Sie zuerst das angezeigte Mandat an, danach alle Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und zuletzt alle sonstigen beruflichen Tätigkeiten.
+c. Übersicht über Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und sonstige berufliche Tätigkeiten. Bitte geben Sie zuerst das angezeigte Mandat an, danach alle Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und zuletzt alle sonstigen beruflichen Tätigkeiten.
 
 a)  
 Unternehmen (bitte markieren Sie börsennotierte Unternehmen mit einem \*)
@@ -2777,8 +2728,7 @@ Zu Erklärung der Person:
 –  
 Eine wesentliche Änderung ist eine Änderung, die sich auf die fachliche Qualifikation, Zuverlässigkeit oder ausreichende zeitliche Verfügbarkeit der angezeigten Person auswirken kann. Soweit die Änderung nicht in Erfüllung der Anzeigepflichten nach dem KWG gemeldet wird (z. B. die Annahme eines weiteren Mandats), erfolgt die Information grundsätzlich durch das beaufsichtigte Unternehmen.
 
-
-## Anlage 12 – (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSI
+# Anlage 12 – (zu § 10a Nr. 2, § 11 Abs. 1 Nr. 2 AnzV)NTSI
 
 (Fundstelle: BGBl. I 2018, 1755 — 1757)
 
@@ -2823,8 +2773,7 @@ b. Wurde Ihnen durch eine zuständige Behörde die Genehmigung erteilt, ein zus�
 □ NEIN
 
 c.   
-Übersicht über Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und sonstige berufliche Tätigkeiten.  
-Bitte geben Sie zuerst das angezeigte Mandat an, danach alle Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und zuletzt alle sonstigen beruflichen Tätigkeiten.
+Übersicht über Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und sonstige berufliche Tätigkeiten. Bitte geben Sie zuerst das angezeigte Mandat an, danach alle Geschäftsleitermandate, Mandate in Verwaltungs- und Aufsichtsorganen und zuletzt alle sonstigen beruflichen Tätigkeiten.
 
 a)  
 Unternehmen (bitte markieren Sie börsennotierte Unternehmen mit einem \*)

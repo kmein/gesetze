@@ -1,10 +1,7 @@
-# [COVInsAG] Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz  (COVID-19-Insolvenzaussetzungsgesetz - COVInsAG)
-
-Ausfertigungsdatum: 27.03.2020
-
+% Gesetz zur vorübergehenden Aussetzung der Insolvenzantragspflicht und zur Begrenzung der Organhaftung bei einer durch die COVID-19-Pandemie bedingten Insolvenz  (COVID-19-Insolvenzaussetzungsgesetz - COVInsAG)
+% Ausfertigungsdatum: 27.03.2020
  
-
-## § 1 – Aussetzung der Insolvenzantragspflicht
+# § 1 – Aussetzung der Insolvenzantragspflicht
 
 (1) Die Pflicht zur Stellung eines Insolvenzantrags nach § 15a der Insolvenzordnung und nach § 42 Absatz 2 des Bürgerlichen Gesetzbuchs ist bis zum 30. September 2020 ausgesetzt. Dies gilt nicht, wenn die Insolvenzreife nicht auf den Folgen der Ausbreitung des SARS-CoV-2-Virus (COVID-19-Pandemie) beruht oder wenn keine Aussichten darauf bestehen, eine bestehende Zahlungsunfähigkeit zu beseitigen. War der Schuldner am 31. Dezember 2019 nicht zahlungsunfähig, wird vermutet, dass die Insolvenzreife auf den Auswirkungen der COVID-19-Pandemie beruht und Aussichten darauf bestehen, eine bestehende Zahlungsunfähigkeit zu beseitigen. Ist der Schuldner eine natürliche Person, so ist § 290 Absatz 1 Nummer 4 der Insolvenzordnung mit der Maßgabe anzuwenden, dass auf die Verzögerung der Eröffnung des Insolvenzverfahrens im Zeitraum zwischen dem 1. März 2020 und dem 30. September 2020 keine Versagung der Restschuldbefreiung gestützt werden kann. Die Sätze 2 und 3 gelten entsprechend.
 
@@ -12,8 +9,7 @@ Ausfertigungsdatum: 27.03.2020
 
 (3) Vom 1. Januar 2021 bis zum 30. April 2021 ist die Pflicht zur Stellung eines Insolvenzantrags nach Maßgabe des Absatzes 1 für die Geschäftsleiter solcher Schuldner ausgesetzt, die im Zeitraum vom 1. November 2020 bis zum 28. Februar 2021 einen Antrag auf die Gewährung finanzieller Hilfeleistungen im Rahmen staatlicher Hilfsprogramme zur Abmilderung der Folgen der COVID-19-Pandemie gestellt haben. War eine Antragstellung aus rechtlichen oder tatsächlichen Gründen innerhalb des Zeitraums nicht möglich, gilt Satz 1 auch für Schuldner, die nach den Bedingungen des staatlichen Hilfsprogramms in den Kreis der Antragsberechtigten fallen. Die Sätze 1 und 2 gelten nicht, wenn offensichtlich keine Aussicht auf Erlangung der Hilfeleistung besteht oder die erlangbare Hilfeleistung für die Beseitigung der Insolvenzreife unzureichend ist.
 
-
-## § 2 – Folgen der Aussetzung
+# § 2 – Folgen der Aussetzung
 
 (1) Soweit nach § 1 Absatz 1 die Pflicht zur Stellung eines Insolvenzantrags ausgesetzt ist,
 
@@ -45,13 +41,11 @@ e) (weggefallen)
 
 (5) Ist die Pflicht zur Stellung eines Insolvenzantrags nach § 1 Absatz 3 ausgesetzt, gelten die Absätze 1 bis 3 entsprechend, jedoch Absatz 1 Nummer 1 nur mit der Maßgabe, dass an die Stelle der darin genannten Vorschriften § 15b Absatz 1 bis 3 der Insolvenzordnung tritt.
 
-
-## § 3 – Eröffnungsgrund bei Gläubigerinsolvenzanträgen
+# § 3 – Eröffnungsgrund bei Gläubigerinsolvenzanträgen
 
 Bei zwischen dem 28. März 2020 und dem 28. Juni 2020 gestellten Gläubigerinsolvenzanträgen setzt die Eröffnung des Insolvenzverfahrens voraus, dass der Eröffnungsgrund bereits am 1. März 2020 vorlag.
 
-
-## § 4 – Prognosezeitraum für die Überschuldungsprüfung
+# § 4 – Prognosezeitraum für die Überschuldungsprüfung
 
 Abweichend von § 19 Absatz 2 Satz 1 der Insolvenzordnung ist zwischen dem 1. Januar 2021 und dem 31. Dezember 2021 anstelle des Zeitraums von zwölf Monaten ein Zeitraum von vier Monaten zugrunde zu legen, wenn die Überschuldung des Schuldners auf die COVID-19-Pandemie zurückzuführen ist. Dies wird vermutet, wenn
 
@@ -61,8 +55,7 @@ Abweichend von § 19 Absatz 2 Satz 1 der Insolvenzordnung ist zwischen dem 1. Ja
 
 3. der Umsatz aus der gewöhnlichen Geschäftstätigkeit im Kalenderjahr 2020 im Vergleich zum Vorjahr um mehr als 30 Prozent eingebrochen ist.
 
-
-## § 5 – Anwendung des bisherigen Rechts
+# § 5 – Anwendung des bisherigen Rechts
 
 (1) Auf Eigenverwaltungsverfahren, die zwischen dem 1. Januar 2021 und dem 31. Dezember 2021 beantragt werden, sind, soweit in den folgenden Absätzen und § 6 nichts anderes bestimmt ist, die §§ 270 bis 285 der Insolvenzordnung in der bis zum 31. Dezember 2020 geltenden Fassung weiter anzuwenden, wenn die Zahlungsunfähigkeit oder Überschuldung des Schuldners auf die COVID-19-Pandemie zurückzuführen ist.
 
@@ -92,8 +85,7 @@ Satz 1 gilt entsprechend, wenn die nach Satz 1 Nummer 2 und 3 zu bescheinigenden
 
 (7) Ordnet das Gericht die vorläufige Eigenverwaltung oder Eigenverwaltung an, so ist die Insolvenzrechtliche Vergütungsverordnung in der bis zum 31. Dezember 2020 geltenden Fassung anzuwenden. Dies gilt auch, wenn die vorläufige Eigenverwaltung oder Eigenverwaltung aufgehoben wird.
 
-
-## § 6 – Erleichterter Zugang zum Schutzschirmverfahren
+# § 6 – Erleichterter Zugang zum Schutzschirmverfahren
 
 Die Zahlungsunfähigkeit eines Schuldners steht der Anwendung des § 270b der Insolvenzordnung in der bis zum 31. Dezember 2020 geltenden Fassung bei einem zwischen dem 1. Januar 2021 und dem 31. Dezember 2021 gestellten Insolvenzantrag nicht entgegen, wenn in der Bescheinigung nach § 270b Absatz 1 Satz 3 der Insolvenzordnung in der bis zum 31. Dezember 2020 geltenden Fassung auch bestätigt wird, dass
 
@@ -105,7 +97,6 @@ Die Zahlungsunfähigkeit eines Schuldners steht der Anwendung des § 270b der In
 
 Satz 1 gilt entsprechend, wenn die nach Satz 1 Nummer 2 und 3 zu bescheinigenden Voraussetzungen zwar nicht oder nicht vollständig vorliegen, aus der Bescheinigung jedoch hervorgeht, dass aufgrund von Besonderheiten, die im Schuldner oder in der Branche, der er angehört, begründet sind oder aufgrund sonstiger Umstände oder Verhältnisse, dennoch davon ausgegangen werden kann, dass die Zahlungsunfähigkeit auf die COVID-19-Pandemie zurückzuführen ist. § 5 Absatz 7 gilt entsprechend.
 
-
-## § 7 – Sicherstellung der Gläubigergleichbehandlung bei Stützungsmaßnahmen anlässlich der COVID-19-Pandemie
+# § 7 – Sicherstellung der Gläubigergleichbehandlung bei Stützungsmaßnahmen anlässlich der COVID-19-Pandemie
 
 Der Umstand, dass Forderungen im Zusammenhang mit staatlichen Leistungen stehen, die im Rahmen von staatlichen Programmen zur Bewältigung der COVID-19-Pandemie gewährt wurden, ist für sich allein kein geeignetes Kriterium für die Einbeziehung in den Restrukturierungsplan nach § 8 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes oder die Abgrenzung der Gruppen nach § 9 des Unternehmensstabilisierungs- und -restrukturierungsgesetzes oder § 222 der Insolvenzordnung. Staatliche Leistungen im Sinne von Satz 1 sind sämtliche Finanzhilfen einschließlich der Gewährung von Darlehen und die Übernahme einer Bürgschaft, einer Garantie oder eine sonstige Übernahme des Ausfallrisikos bezüglich von Forderungen Dritter, die durch öffentliche Anstalten, Körperschaften oder Rechtsträgern öffentlicher Sondervermögen sowie im Mehrheitsbesitz des Bundes, der Länder oder der Kommunen stehenden Rechtsträger gewährt werden. Soweit im Rahmen einer staatlichen Leistung das Ausfallrisiko übernommen worden ist, ist die besicherte Forderung als eine Forderung anzusehen, die nach Satz 1 im Zusammenhang mit staatlichen Leistungen steht.

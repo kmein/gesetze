@@ -1,15 +1,11 @@
-# [FMStFV] Verordnung zur Durchführung des Stabilisierungsfondsgesetzes  (Finanzmarktstabilisierungsfonds-Verordnung - FMStFV)
-
-Ausfertigungsdatum: 20.10.2008
-
+% Verordnung zur Durchführung des Stabilisierungsfondsgesetzes  (Finanzmarktstabilisierungsfonds-Verordnung - FMStFV)
+% Ausfertigungsdatum: 20.10.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 4 Abs. 2 Satz 1 in Verbindung mit § 3a Abs. 5 Satz 1, des § 4 Abs. 4 Satz 1, des § 6 Abs. 4, des § 7 Abs. 3, des § 8 Abs. 2 und des § 10 Abs. 2 des Finanzmarktstabilisierungsfondsgesetzes vom 17. Oktober 2008 (BGBl. I S. 1982) verordnet die Bundesregierung:
 
-
-## § 1 – Verwaltung des Finanzmarktstabilisierungsfonds
+# § 1 – Verwaltung des Finanzmarktstabilisierungsfonds
 
 (1) Der Bundesrepublik Deutschland – Finanzagentur GmbH (Finanzagentur) wird mit Inkrafttreten dieser Verordnung die Entscheidung über Maßnahmen nach dem Stabilisierungsfondsgesetz vom 17. Oktober 2008 (BGBl. I S. 1982) und die Verwaltung des Finanzmarktstabilisierungsfonds (Fonds) übertragen; § 4 Abs. 1 Satz 2 des Stabilisierungsfondsgesetzes bleibt unberührt.
 
@@ -53,8 +49,7 @@ vor. Der Lenkungsausschuss kann sich im Rahmen des § 4 Abs. 1 Satz 2 des Stabil
 
 (5) Formvorgaben, Fristen und weitere Einzelheiten des Verfahrens der Gewährung von Stabilisierungsmaßnahmen werden von der Finanzagentur nach Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
-
-## § 2 – Garantieübernahme
+# § 2 – Garantieübernahme
 
 (1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors oder einer Zweckgesellschaft, die Risikopositionen eines solchen Unternehmens übernommen hat, Garantien oder sonstige Gewährleistungen in jeder geeigneten Form für ab Inkrafttreten des Stabilisierungsfondsgesetzes begebene Schuldtitel oder begründete sonstige Verbindlichkeiten übernehmen, um Liquiditätsengpässe des begünstigten Unternehmens zu beheben und dessen Refinanzierung am Kapitalmarkt zu unterstützen. In Abstimmung mit dem Unternehmen kann die Garantiegewährung auch in anderer als der ursprünglich beantragten Form erfolgen.
 
@@ -73,8 +68,7 @@ vor. Der Lenkungsausschuss kann sich im Rahmen des § 4 Abs. 1 Satz 2 des Stabil
 
 6. Die Obergrenze für die Garantieübernahme bezogen auf ein einzelnes Unternehmen des Finanzsektors und seine verbundenen Unternehmen orientiert sich an dessen Eigenmittelausstattung.
 
-
-## § 3 – Rekapitalisierung
+# § 3 – Rekapitalisierung
 
 (1) Der Fonds kann sich auf Antrag eines Unternehmens des Finanzsektors in jeder geeigneten Form an dessen Rekapitalisierung beteiligen. In Abstimmung mit dem Unternehmen kann die Rekapitalisierung auch in anderer als der ursprünglich beantragten Form erfolgen. Der Fonds kann Leistungen vorab erbringen und diese anschließend einer übernommenen Einlagepflicht zuordnen. Die Rekapitalisierung erfolgt vorrangig durch Stärkung des Kernkapitals.
 
@@ -89,8 +83,7 @@ vor. Der Lenkungsausschuss kann sich im Rahmen des § 4 Abs. 1 Satz 2 des Stabil
 
 (3) (weggefallen)
 
-
-## § 4 – Risikoübernahme
+# § 4 – Risikoübernahme
 
 (1) Der Fonds kann auf Antrag eines Unternehmens des Finanzsektors oder einer Zweckgesellschaft, die Risikopositionen eines solchen Unternehmens übernommen hat, in jeder geeigneten Form vor dem 1. Juni 2014 erworbene Risikopositionen nebst zugehöriger Sicherheiten erwerben. In Abstimmung mit dem Unternehmen kann die Risikoübernahme auch in anderer als der beantragten Form erfolgen.
 
@@ -109,8 +102,7 @@ vor. Der Lenkungsausschuss kann sich im Rahmen des § 4 Abs. 1 Satz 2 des Stabil
 
 6. Die Obergrenze für die Risikoübernahme, bezogen auf ein einzelnes Unternehmen des Finanzsektors und seine verbundenen Unternehmen, liegt vorbehaltlich einer Entscheidung des Lenkungsausschusses im Einzelfall bei 5 Milliarden Euro.
 
-
-## § 5 – Bedingungen für Stabilisierungsmaßnahmen
+# § 5 – Bedingungen für Stabilisierungsmaßnahmen
 
 (1) An Unternehmen des Finanzsektors, die Stabilisierungsmaßnahmen des Fonds in Anspruch nehmen, sollen Anforderungen gestellt werden, um eine solide und umsichtige Geschäftspolitik zu gewährleisten. Dasselbe gilt für Unternehmen des Finanzsektors, die von einer Garantie- oder Risikoübernahme zugunsten von Zweckgesellschaften mittelbar begünstigt werden. Bedingungen für Stabilisierungsmaßnahmen müssen dem Grundsatz der Verhältnismäßigkeit entsprechen und haben sich insbesondere an der Art, der Höhe und der Dauer der in Anspruch genommenen Stabilisierungsmaßnahme sowie an der wirtschaftlichen Situation des Unternehmens auszurichten.
 
@@ -149,7 +141,6 @@ d) Erfolgsziele, Ausübungspreise für Aktienoptionsprogramme und andere Paramet
 
 (9) Laufzeit, Art und Umfang der konkreten Maßnahme sollen unter Berücksichtigung des Andauerns der Finanzmarktkrise gestaltet werden.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt unmittelbar mit ihrer Verkündung in Kraft.

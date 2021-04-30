@@ -1,15 +1,11 @@
-# [HWirtMeistPrV] Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Hauswirtschafter/Hauswirtschafterin
-
-Ausfertigungsdatum: 28.07.2005
-
+% Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Hauswirtschafter/Hauswirtschafterin
+% Ausfertigungsdatum: 28.07.2005
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 und 2 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931) verordnen das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft und das Bundesministerium für Wirtschaft und Arbeit nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
 (1) Die Meisterprüfung für den Beruf Hauswirtschafter/ Hauswirtschafterin ist eine berufliche Fortbildungsprüfung gemäß § 1 Abs. 4 des Berufsbildungsgesetzes. Durch sie ist festzustellen, ob der Prüfling die auf einen beruflichen Aufstieg abzielende erweiterte berufliche Handlungsfähigkeit besitzt, folgende Aufgaben eines Meisters/einer Meisterin der Hauswirtschaft als Fach- und Führungskraft in hauswirtschaftlichen Betrieben unterschiedlicher Strukturen personenorientiert, wirtschaftlich und nachhaltig wahrzunehmen, auf sich verändernde Anforderungen und Rahmenbedingungen zu reagieren sowie sachgerecht zu informieren und zu beraten:
 
@@ -33,8 +29,7 @@ Auf Grund des § 53 Abs. 3 in Verbindung mit Abs. 1 und 2 des Berufsbildungsgese
 
 (2) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss Meister der Hauswirtschaft/Meisterin der Hauswirtschaft.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -48,8 +43,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung der Meisterprüfung
+# § 3 – Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfasst die Teile
 
@@ -61,8 +55,7 @@ nachweist.
 
 (2) Die Meisterprüfung ist gemäß den §§ 4 bis 6 durchzuführen.
 
-
-## § 4 – Prüfungsanforderungen im Teil "Hauswirtschaftliche Versorgungs- und Betreuungsleistungen"
+# § 4 – Prüfungsanforderungen im Teil "Hauswirtschaftliche Versorgungs- und Betreuungsleistungen"
 
 (1) Der Prüfling soll nachweisen, dass er hauswirtschaftliche Versorgungs- und Betreuungsleistungen in einem betrieblichen Kontext planen, diese umsetzen und steuern sowie die Ergebnisse beurteilen kann. Als Versorgungs- und Betreuungsleistungen kommen insbesondere die folgenden Bereiche in Betracht:
 
@@ -96,8 +89,7 @@ Hierbei soll der Prüfling zeigen, dass er die entsprechenden Maßnahmen qualit�
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu komplexen praxisbezogenen Fragestellungen aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als 180 Minuten dauern. Sie ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung von Bedeutung ist. Im Falle einer ungenügenden Leistung in der schriftlichen Prüfung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll je Prüfling nicht länger als 30 Minuten dauern.
 
-
-## § 5 – Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
+# § 5 – Prüfungsanforderungen im Teil "Betriebs- und Unternehmensführung"
 
 (1) Der Prüfling soll nachweisen, dass er wirtschaftliche, rechtliche und soziale Zusammenhänge im Betrieb erkennen, analysieren und bewerten sowie Entwicklungsmöglichkeiten aufzeigen kann. Dabei sind auch Grundsätze des Personal- und Qualitätsmanagements zu berücksichtigen.
 
@@ -127,8 +119,7 @@ Hierbei soll der Prüfling zeigen, dass er die entsprechenden Maßnahmen qualit�
 
 (5) Die schriftliche Prüfung besteht aus einer unter Aufsicht anzufertigenden Arbeit zu komplexen praxisbezogenen Fragestellungen aus den in Absatz 2 aufgeführten Inhalten und soll nicht länger als 180 Minuten dauern. Sie ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung von Bedeutung ist. Im Falle einer ungenügenden Leistung in der schriftlichen Prüfung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll je Prüfling nicht länger als 30 Minuten dauern.
 
-
-## § 6 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+# § 6 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
 (1) Der Prüfling soll nachweisen, dass er die Bedeutung der Berufsbildung und Mitarbeiterführung für den Unternehmenserfolg erkennen, Auszubildende ausbilden und Mitarbeiter führen kann.
 
@@ -248,15 +239,13 @@ e) Konflikte und Konfliktbewältigung.
 
 (5) Im schriftlichen Teil soll der Prüfling in höchstens drei Stunden fallbezogene Aufgaben aus mehreren Handlungsfeldern des Absatzes 2 Nr. 1 bis 7 sowie mindestens eine Aufgabe aus dem Handlungsfeld des Absatzes 2 Nr. 8 bearbeiten. Er ist durch eine mündliche Prüfung zu ergänzen, wenn dieser für das Bestehen der Prüfung von Bedeutung ist. Im Falle einer ungenügenden Gesamtleistung im schriftlichen Teil der Prüfung besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll je Prüfling nicht länger als 30 Minuten dauern.
 
-
-## § 7 – Anrechnung anderer Prüfungsleistungen
+# § 7 – Anrechnung anderer Prüfungsleistungen
 
 (1) Auf Antrag kann die zuständige Stelle den Prüfling von der Ablegung einzelner Prüfungsleistungen gemäß § 4 Abs. 3 und § 5 Abs. 3 befreien, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht. Eine Freistellung vom Arbeitsprojekt gemäß § 4 Abs. 4 und von der Situationsaufgabe gemäß § 5 Abs. 4 ist nicht zulässig.
 
 (2) Von der Prüfung im Teil "Berufsausbildung und Mitarbeiterführung" ist der Prüfling auf Antrag von der zuständigen Stelle freizustellen, wenn er eine auf Grund des Berufsbildungsgesetzes oder der Handwerksordnung geregelte Prüfung bestanden hat, deren Inhalt den in den §§ 2 und 3 der Ausbilder-Eignungsverordnung nach dem Berufsbildungsgesetz genannten Anforderungen entspricht. Wer eine sonstige staatliche, staatlich anerkannte oder von einer öffentlich-rechtlichen Körperschaft abgenommene Prüfung bestanden hat, deren Inhalt den in den §§ 2 und 3 der Ausbilder-Eignungsverordnung genannten Anforderungen entspricht, kann auf Antrag von der zuständigen Stelle von der Prüfung im Teil "Berufsausbildung und Mitarbeiterführung" befreit werden.
 
-
-## § 8 – Bewerten der Prüfungsleistungen und Bestehen der Meisterprüfung
+# § 8 – Bewerten der Prüfungsleistungen und Bestehen der Meisterprüfung
 
 (1) Die drei Prüfungsteile sind gesondert zu bewerten. Für den Teil "Hauswirtschaftliche Versorgungs- und Betreuungsleistungen" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 4 Abs. 4 und in der Prüfung gemäß § 4 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 4 Abs. 4 das doppelte Gewicht. Für den Teil "Betriebs- und Unternehmensführung" ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung gemäß § 5 Abs. 4 und in der Prüfung gemäß § 5 Abs. 5 zu bilden; dabei hat die Note in der Prüfung gemäß § 5 Abs. 4 das doppelte Gewicht. Für den Teil "Berufsausbildung und Mitarbeiterführung" ist eine Note als arithmetisches Mittel aus der Bewertung der Leistungen in der Prüfung nach § 6 Abs. 4 und in der Prüfung nach § 6 Abs. 5 zu bilden; dabei hat die Note in der Prüfung nach § 6 Abs. 4 das doppelte Gewicht.
 
@@ -264,21 +253,18 @@ e) Konflikte und Konfliktbewältigung.
 
 (3) Die Prüfung ist bestanden, wenn der Prüfling in jedem Prüfungsteil mindestens die Note "ausreichend" erzielt hat. Sie ist nicht bestanden, wenn in der gesamten Prüfung mindestens eine der Leistungen in den Prüfungen gemäß Absatz 1 mit "ungenügend" oder mehr als eine dieser Leistungen mit "mangelhaft" benotet worden ist.
 
-
-## § 9 – Wiederholung der Meisterprüfung
+# § 9 – Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfling auf Antrag von den Prüfungsleistungen in den einzelnen Prüfungen gemäß § 8 Abs. 1 und von Prüfungsteilen zu befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note "ausreichend" bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 10 – Übergangsvorschrift
+# § 10 – Übergangsvorschrift
 
 (1) Die bei Inkrafttreten dieser Verordnung begonnenen Prüfungsverfahren sind nach den bisherigen Vorschriften zu Ende zu führen.
 
 (2) Prüfungsteilnehmer, die die Prüfung nach den bis zum Inkrafttreten dieser Verordnung geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem Tag des Inkrafttretens dieser Verordnung zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den bisherigen Vorschriften ablegen.
 
-
-## § 11 – Inkrafttreten, Außerkrafttreten
+# § 11 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. November 2005 in Kraft.

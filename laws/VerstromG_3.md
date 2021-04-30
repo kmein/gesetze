@@ -1,15 +1,11 @@
-# [VerstromG 3] Gesetz über die weitere Sicherung des Einsatzes von Gemeinschaftskohle in der Elektrizitätswirtschaft  (Drittes Verstromungsgesetz)
-
-Ausfertigungsdatum: 13.12.1974
-
+% Gesetz über die weitere Sicherung des Einsatzes von Gemeinschaftskohle in der Elektrizitätswirtschaft  (Drittes Verstromungsgesetz)
+% Ausfertigungsdatum: 13.12.1974
  
-
-## § 1 – Bestimmung des Steinkohleneinsatzes
+# § 1 – Bestimmung des Steinkohleneinsatzes
 
 Im Interesse der Sicherheit der Elektrizitätsversorgung soll der Anteil der Gemeinschaftskohle an der Erzeugung von elektrischer Energie und Fernwärme in Kraftwerken im Geltungsbereich dieses Gesetzes in einer Höhe erhalten werden, die eine Abnahme deutscher Steinkohle durch die Elektrizitätswirtschaft in den Jahren 1981 bis 1985 in Höhe von 191 Millionen Tonnen Steinkohleneinheiten (SKE), in den Jahren 1986 bis 1990 in Höhe von 215 Millionen Tonnen SKE und in den Jahren 1991 bis 1995 in Höhe von 232,5 Millionen Tonnen SKE gewährleistet.
 
-
-## § 2 – Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes
+# § 2 – Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes
 
 (1) Es wird ein unselbständiges Sondervermögen des Bundes mit dem Namen "Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes" gebildet. Das Sondervermögen wird vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) verwaltet.
 
@@ -37,8 +33,7 @@ Außer für die in Satz 1 genannten Zwecke sowie für die Tilgung und Verzinsung
 
 (6) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird als Verwalter des Sondervermögens ermächtigt, mit Einwilligung des Bundesministeriums der Finanzen Kredite zur Aufrechterhaltung der Zahlungsfähigkeit sowie zur Tilgung von Verbindlichkeiten des Sondervermögens bis zur Höhe von sechs Milliarden Deutsche Mark aufzunehmen. Bis zu dieser Höhe kann die Ermächtigung wiederholt in Anspruch genommen werden. Die Kredite werden aus Mitteln des Sondervermögens verzinst und getilgt. Für Verbindlichkeiten des Sondervermögens haftet der Bund; ihre Abwicklung wird durch Gesetz geregelt. Für die Verwaltung des Sondervermögens gelten die Vorschriften über die Verwaltung der Bundesschuld entsprechend.
 
-
-## § 3 – Zuschüsse zum Ausgleich der Mehrkosten
+# § 3 – Zuschüsse zum Ausgleich der Mehrkosten
 
 (1) Für Kraftwerke, auf die § 1 Abs. 1 Satz 1 Nr. 2 des Gesetzes zur Sicherung des Steinkohleneinsatzes in der Elektrizitätswirtschaft vom 5. September 1966 (BGBl. I S. 545) - im folgenden: Zweites Verstromungsgesetz - anzuwenden ist, erfolgt der Ausgleich der Mehrkosten nach den Bestimmungen des Zweiten Verstromungsgesetzes. Die in den gemäß § 1 Abs. 6 des Zweiten Verstromungsgesetzes erteilten Zusagen enthaltene Begrenzung der Zuschußhöhe entfällt für Steinkohlenmengen, die nach dem 31. Dezember 1974 in Kraftwerken eingesetzt werden; jedoch werden die Zuschüsse zu den sonstigen Betriebsmehrkosten auf 40 Deutsche Mark je eingesetzter Tonne SKE begrenzt.
 
@@ -70,8 +65,7 @@ Außer für die in Satz 1 genannten Zwecke sowie für die Tilgung und Verzinsung
 
 gewährt. Rechtsansprüche auf Ausgleich der Mehrkosten werden durch dieses Gesetz nicht unmittelbar begründet.
 
-
-## § 4 – Zuschüsse zu Investitionskosten und zu Stromtransportkosten
+# § 4 – Zuschüsse zu Investitionskosten und zu Stromtransportkosten
 
 (1) Wird mit dem Bau eines Kraftwerks über ein Megawatt Nennleistung bis zum 31. Dezember 1983 begonnen und erfolgt die Inbetriebnahme bis zum 31. Dezember 1987, kann ein Zuschuß zu den Investitionskosten in Höhe von 180 Deutsche Mark je Kilowatt installierter Kraftwerksleistung gewährt werden. Für
 
@@ -83,8 +77,7 @@ kann der in Satz 1 genannte Zuschuß und ein Zuschlag bis zur Höhe der zusätzl
 
 (2) Zuschüsse zu Stromtransportkosten können Elektrizitätsversorgungsunternehmen für die Zeit bis zum 31. Dezember 1987 gewährt werden, die auf Grund einer Vereinbarung Elektrizität von Kraftwerken im Sinne des § 3 Abs. 1 bis 3 beziehen, wenn die Vereinbarung über den Elektrizitätsbezug geeignet ist, zur Sicherung des Einsatzes von Gemeinschaftskohle in diesen Kraftwerken beizutragen. Das Nähere bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien.
 
-
-## § 5 – Zuschüsse für Zusatzmengen
+# § 5 – Zuschüsse für Zusatzmengen
 
 (1) Für den Bezug der Zusatzmenge (Absatz 6 Nr. 2) in den Jahren 1981 bis 1995 können Zuschüsse in Höhe des Unterschiedsbetrages je Tonne SKE zwischen dem Preis der Zusatzmenge frei Kraftwerk und dem um 6 DM erhöhten durchschnittlichen Preis für Drittlandskohle frei Grenze gezahlt werden, soweit sich aus Absatz 2 nichts anderes ergibt. Dabei kann beim Bezug von Ballastkohle der Preis der entsprechenden Vollwertkohle zugrunde gelegt werden. Als Bezug von Zusatzmenge gilt auch die Lieferung von Gemeinschaftskohle aus eigener Förderung an ein unternehmenseigenes Kraftwerk. Zuschüsse nach § 16 Abs. 2, die für die Zusatzmenge gezahlt werden, sind anzurechnen.
 
@@ -122,13 +115,11 @@ die Gewährung von Zuschüssen nach § 3b dieses Gesetzes in der Fassung vom 19 
 
 (11) Die Zuschüsse nach § 3b dieses Gesetzes in der Fassung vom 19. Dezember 1977 (BGBl. I S. 2750) werden nach dem 31. Dezember 1980 nicht mehr gewährt; an ihre Stelle treten die Zuschüsse nach den Absätzen 1 bis 9.
 
-
-## § 6
+# § 6
 
 (weggefallen)
 
-
-## § 7 – Zuschüsse für eine Verstromungsreserve
+# § 7 – Zuschüsse für eine Verstromungsreserve
 
 (1) Zuschüsse können auch für Gemeinschaftskohle gezahlt werden, die innerhalb der nach § 5 Abs. 6 Nr. 1 festgelegten Gesamtmenge zur Einlagerung in eine Verstromungsreserve in der Zeit vom 1. Januar 1981 bis zum 31. Dezember 1985 von Unternehmen der öffentlichen Elektrizitätswirtschaft bezogen wird. Diese Zuschüsse werden für höchstens insgesamt 6 Millionen Tonnen SKE und längstens bis zum 31. Dezember 1990 gewährt. Ein Zuschuß wird nicht gewährt, soweit die betriebsnotwendigen Vorräte ohne die Menge unterschritten werden.
 
@@ -142,8 +133,7 @@ die Gewährung von Zuschüssen nach § 3b dieses Gesetzes in der Fassung vom 19 
 
 (6) Das Nähere bestimmt das Bundesministerium für Wirtschaft und Energie durch Richtlinien.
 
-
-## § 8 – Ausgleichsabgabe
+# § 8 – Ausgleichsabgabe
 
 (1) Die Mittel des Sondervermögens werden durch eine Ausgleichsabgabe aufgebracht.
 
@@ -191,8 +181,7 @@ Durch die Aufnahme von Vorschriften über angemessene Vorauszahlungen ist sicher
 
 (7) Rechtsverordnungen, durch die der Prozentsatz der Ausgleichsabgabe nach Absatz 4 auf über 4,5 vom Hundert festgesetzt wird, bedürfen der Zustimmung des Bundestages.
 
-
-## § 9 – Zahlung, Verzinsung und Beitreibung der Ausgleichsabgabe
+# § 9 – Zahlung, Verzinsung und Beitreibung der Ausgleichsabgabe
 
 (1) Die Ausgleichsabgabe ist für jeden Monat bis zum 16. des folgenden Monats an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) zu zahlen. Eine Aufrechnung gegen die Abgabeschuld findet nicht statt.
 
@@ -204,8 +193,7 @@ Durch die Aufnahme von Vorschriften über angemessene Vorauszahlungen ist sicher
 
 (3) Ausgleichsabgabe und Zinsen können nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes vom 27. April 1953 (BGBl. I S. 157), zuletzt geändert durch das Kostenermächtigungs-Änderungsgesetz vom 23. Juni 1970 (BGBl. I S. 805), beigetrieben werden.
 
-
-## § 10 – Weitergabe der Belastung
+# § 10 – Weitergabe der Belastung
 
 (1) Beruht die Lieferung von Elektrizität an Endverbraucher auf einem Vertrag, der vor dem Inkrafttreten dieses Gesetzes oder einer Rechtsverordnung nach § 8 Abs. 4 Satz 1 oder Satz 3 abgeschlossen worden ist, so kann das Elektrizitätsversorgungsunternehmen im Falle der erstmaligen Festsetzung oder der Heraufsetzung der Ausgleichsabgabe eine Anhebung des Entgelts für die Elektrizitätslieferungen verlangen, für die die erstmalig festgesetzte oder erhöhte Ausgleichsabgabe zu entrichten ist. Die Anhebung darf bei einer erstmaligen Festsetzung der Ausgleichsabgabe den nach § 8 Abs. 5 maßgebenden Prozentsatz, bei einer Heraufsetzung der Ausgleichsabgabe die Erhöhung dieses Prozentsatzes nicht überschreiten. Im Fall der Herabsetzung der Ausgleichsabgabe vermindert sich das Entgelt für Elektrizitätslieferungen, für die lediglich die herabgesetzte Ausgleichsabgabe zu entrichten ist, entsprechend.
 
@@ -213,8 +201,7 @@ Durch die Aufnahme von Vorschriften über angemessene Vorauszahlungen ist sicher
 
 (3) Gibt das Elektrizitätsversorgungsunternehmen die sich aus der Ausgleichsabgabe ergebende Belastung an Endverbraucher weiter, so sind der nach § 8 Abs. 3a Satz 2 oder 3 und Abs. 5 maßgebende Prozentsatz und der absolute Betrag der Belastung unter der Bezeichnung "Ausgleichsabgabe zur Sicherung der Elektrizitätsversorgung nach dem Dritten Verstromungsgesetz" in den Rechnungen über Elektrizitätslieferungen gesondert auszuweisen.
 
-
-## § 11 – Härteklausel
+# § 11 – Härteklausel
 
 (1) Das Elektrizitätsversorgungsunternehmen darf eine Anhebung des Entgelts nach § 10 Abs. 1 nicht verlangen, wenn ein Unternehmen, das als Endverbraucher Elektrizität abnimmt, durch eine Bescheinigung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) nachweist, daß die sich aus der Anhebung seines Entgelts ergebende Belastung eine unbillige Härte bedeuten würde.
 
@@ -226,13 +213,11 @@ Durch die Aufnahme von Vorschriften über angemessene Vorauszahlungen ist sicher
 
 (5) Bei der Feststellung des Prozentsatzes nach § 8 Abs. 4 bleiben Erlöse von Lieferungen von Elektrizität an Endverbraucher und der Wert der von Eigenerzeugern selbst verbrauchten Elektrizität entsprechend den Feststellungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) nach Absatz 2 außer Betracht.
 
-
-## § 12
+# § 12
 
 (weggefallen)
 
-
-## § 13 – Melde- und Auskunftspflichten
+# § 13 – Melde- und Auskunftspflichten
 
 (1) Die Betreiber von Kraftwerken, die Lieferanten von in Kraftwerken eingesetzter Steinkohle, von schwerem Heizöl, Erdgas und sonstigen Energieträgern sowie die Abgabeschuldner nach § 8 Abs. 2 haben dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) auf Verlangen unverzüglich die Auskünfte zu erteilen und die Unterlagen vorzulegen, die erforderlich sind, um
 
@@ -272,8 +257,7 @@ Durch die Aufnahme von Vorschriften über angemessene Vorauszahlungen ist sicher
 
 (9) Weigert sich ein Unternehmen, eine Auskunft zu erteilen oder entsprechende Unterlagen vorzulegen, so kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die erforderlichen Feststellungen im Wege der Schätzung treffen.
 
-
-## § 14 – Beirat
+# § 14 – Beirat
 
 (1) Bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird ein Beirat gebildet. Er berät das Bundesministerium für Wirtschaft und Energie bei der Festsetzung des Prozentsatzes nach § 8 Abs. 4 und das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bei der Durchführung des Gesetzes.
 
@@ -319,8 +303,7 @@ Für jedes Mitglied ist ein Stellvertreter zu berufen. Scheidet ein Mitglied ode
 
 (5) Der Beirat kann mit Zustimmung des Präsidenten des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) Ausschüsse einsetzen.
 
-
-## § 15 – Ordnungswidrigkeiten
+# § 15 – Ordnungswidrigkeiten
 
 (1) (weggefallen)
 
@@ -338,13 +321,11 @@ Für jedes Mitglied ist ein Stellvertreter zu berufen. Scheidet ein Mitglied ode
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
 
-
-## § 16 – (weggefallen)
+# § 16 – (weggefallen)
 
 \-
 
-
-## § 17 – Begriffsbestimmungen
+# § 17 – Begriffsbestimmungen
 
 (1) Ein Kraftwerk im Sinne dieses Gesetzes ist eine Anlage zur Erzeugung elektrischer Energie mittels Dampf oder Dampf und Gas oder Verbrennungsmotoren. Unerheblich ist es, ob der Dampf oder das Gas in einer Turbogeneratorenanlage völlig zur Stromerzeugung ausgenutzt oder nach nur teilweiser Ausnutzung für andere Zwecke, zum Beispiel für Heiz- und Fabrikationsdampf, genutzt wird.
 
@@ -356,12 +337,10 @@ Für jedes Mitglied ist ein Stellvertreter zu berufen. Scheidet ein Mitglied ode
 
 (5) Drittlandskohle im Sinne dieses Gesetzes ist die außerhalb des Bereichs der Europäischen Gemeinschaft für Kohle und Stahl gewonnene Steinkohle.
 
-
-## § 18 – (weggefallen)
+# § 18 – (weggefallen)
 
 \-
 
-
-## § 19
+# § 19
 
 (Inkrafttreten)

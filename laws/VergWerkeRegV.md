@@ -1,22 +1,17 @@
-# [VergWerkeRegV] Verordnung über das Register vergriffener Werke  (VergWerkeRegV)
-
-Ausfertigungsdatum: 10.04.2014
-
+% Verordnung über das Register vergriffener Werke  (VergWerkeRegV)
+% Ausfertigungsdatum: 10.04.2014
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13e Absatz 5 des Urheberrechtswahrnehmungsgesetzes, der durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3728) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und mit dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Antragstellung
+# § 1 – Antragstellung
 
 (1) Der Antrag auf Eintragung von Werken in das Register vergriffener Werke nach § 51 Absatz 1 Nummer 4 des Verwertungsgesellschaftengesetzes muss die Angaben nach § 52 Absatz 1 Satz 2 Nummer 1 bis 5 des Verwertungsgesellschaftengesetzes enthalten.
 
 (2) Die Verwertungsgesellschaft reicht den Antrag elektronisch über die vom Deutschen Patent- und Markenamt zur Verfügung gestellte Schnittstelle ein.
 
-
-## § 2 – Kosten
+# § 2 – Kosten
 
 (1) Für jede Eintragung in das Register wird eine Gebühr in Höhe von 1 Euro erhoben.
 
@@ -28,7 +23,6 @@ Auf Grund des § 13e Absatz 5 des Urheberrechtswahrnehmungsgesetzes, der durch A
 
 (5) Die §§ 5, 6 Absatz 1, § 8 Absatz 2, § 10 Absatz 1, § 12 Absatz 1 und 4 sowie § 13 der DPMA-Verwaltungskostenverordnung sind entsprechend anzuwenden.
 
-
-## § 3 – Inkrafttreten
+# § 3 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

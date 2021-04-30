@@ -1,20 +1,15 @@
-# [RVChilAbkG] Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung
-
-Ausfertigungsdatum: 06.08.1993
-
+% Gesetz zu dem Abkommen vom 5. März 1993 zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung
+% Ausfertigungsdatum: 06.08.1993
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in Bonn am 5. März 1993 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Chile über Rentenversicherung wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und Durchführung des Abkommens insbesondere über folgende Gegenstände Regelungen getroffen werden:
 
@@ -28,8 +23,7 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des 
 
 5. die gegenseitige Umrechnung von Versicherungszeiten nach den Rechtsvorschriften beider Vertragsstaaten.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

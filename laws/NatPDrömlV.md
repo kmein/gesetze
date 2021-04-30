@@ -1,22 +1,17 @@
-# [NatPDrömlV] Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark "Drömling"
-
-Ausfertigungsdatum: 12.09.1990
-
+% Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark "Drömling"
+% Ausfertigungsdatum: 12.09.1990
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des Art. 6 § 6 Nr. 1 des Umweltrahmengesetzes vom 29. Juni 1990 (GBl. I Nr. 42 S. 649) in Verbindung mit §§ 12, 13, 15 und 16 des Bundesnaturschutzgesetzes wird verordnet:
 
-
-## § 1 – Festsetzung
+# § 1 – Festsetzung
 
 (1) In dem in § 2 näher bezeichneten Umfang werden im Drömling Naturschutzgebiete und ein Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark festgesetzt.
 
 (2) Der Naturpark erhält die Bezeichnung Naturpark "Drömling".
 
-
-## § 2 – Flächenbeschreibung und Abgrenzung
+# § 2 – Flächenbeschreibung und Abgrenzung
 
 (1) Der Drömling ist die nacheiszeitlich ausgeräumte Aller-Ohre-Talmulde, die in der Folge mit Niedermoortorfen über fluviatilen Sedimenten aufgefüllt wurde. Die stark grund- und hochwassergeprägten Böden wurden durch unterschiedliche Nutzungsformen, Nutzungsdauer und Nutzungsintensität verändert. Bis heute hat sich hier eine stark strukturierte Landschaft mit Erlenbrüchen, Weidengebüsch, Hecken, Röhrichten, Großseggenriedern, Hochstaudenfluren, Brachen und durch Beweiden und Mahd genutzte extensive Feuchtgrünländer erhalten. Diese verschiedenen Landschaftsstrukturen werden von einer Vielzahl teilweise abzugsloser Beetgräben durchzogen und haben größte Bedeutung als Lebensraum für zahlreiche vom Aussterben bedrohte und gefährdete Tier- und Pflanzenarten und repräsentieren flächendeckend schützenswerte Lebensräume. Zugleich stellt der Drömling durch die historische Kultivierung des Moores eine einmalige Kulturlandschaft dar. Wasserbau, Kulturtechnik und Siedlungstechnik haben hier bedeutsame Zeugen der Kulturgeschichte geschaffen.
 
@@ -42,8 +37,7 @@ Die genannte Bahnlinie Richtung Oebisfelde bis zu einem nach 1.100 m die Bahnlin
 
 (4) Die Grenze des Naturparkes ist in einer Karte M 1:50.000, die als Anlage Bestandteil dieser Verordnung ist, dargestellt. Darüber hinaus ist die Grenze des Naturschutzparkes in topographischen Karten M 1:10.000 rot eingetragen, die bei der obersten Naturschutzbehörde archivmäßig verwahrt und auf die Bezug genommen wird. Weitere Ausfertigungen befinden sich bei den Kreisverwaltungen und bei der Naturparkverwaltung. Bei den genannten Behörden sind die Karten während der Sprechzeiten allgemein zugänglich.
 
-
-## § 3 – Schutzzweck
+# § 3 – Schutzzweck
 
 Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
 
@@ -65,8 +59,7 @@ Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
 
 9. Die Entwicklung von Teilen des Naturparkes vorrangig unter dem Aspekt der Naturbeobachtung und der Erholung, die auf die Sicherung der spezifischen Naturschutzzwecke abgestimmt ist.
 
-
-## § 4 – Schutzzonen
+# § 4 – Schutzzonen
 
 (1) Das Gebiet des Naturparkes wird in 3 Schutzzonen gegliedert:  
 
@@ -170,8 +163,7 @@ d) Im Osten die Ackergrenze 190 m nach Südwest, dann 140 m nach West bis zum Gr
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 4 genannten Karten eingetragen.
 
-
-## § 5 – Gebote
+# § 5 – Gebote
 
 (1) Im Naturpark gelten nachfolgende allgemeingültige Gebote:
 
@@ -213,8 +205,7 @@ In der Schutzzone I des Naturparkes ist die ungestörte natürliche Entwicklung 
 5. Die durch den Anglerverband bewirtschaftete Gewässerfläche in Schutzzone II ist nicht zu erweitern und möglichst in einen nutzungsfreien Zustand zu überführen.
 
 (4) Spezielle Gebote für Schutzzone III:  
-In der Schutzzone III sind alle Maßnahmen geboten, die einer Abwendung negativer Auswirkungen aller Art auf die Zonen I und II und dem landschaftsverträglichen Bildungstourismus dienen.  
-Dazu gehören:
+In der Schutzzone III sind alle Maßnahmen geboten, die einer Abwendung negativer Auswirkungen aller Art auf die Zonen I und II und dem landschaftsverträglichen Bildungstourismus dienen. Dazu gehören:
 
 1. Die Einrichtung touristensteuernder Objekte (z.B. Naturlehrpfade, Ruheplätze, Aussichtspunkte, Angelplätze, Reitstützpunkte, Informationstafeln) und die Wegemarkierung und -beschilderung.
 
@@ -224,8 +215,7 @@ Dazu gehören:
 
 4. Die Schaffung eines Biotopverbundnetzes vor allem im Bereich größerer Agrarflächen.
 
-
-## § 6 – Verbote
+# § 6 – Verbote
 
 (1) Allgemeingültige Verbote:  
 Im Naturpark ist es verboten:
@@ -285,8 +275,7 @@ In Schutzzone II ist es grundsätzlich verboten:
 
 3. Das Aussetzen nichteinheimischer Fischarten im offenen Grabensystem im gesamten Naturpark. Das Aussetzen heimischer Fischarten ist nur mit Genehmigung der Naturparkverwaltung zulässig.
 
-
-## § 7 – Ausnahmen
+# § 7 – Ausnahmen
 
 (1) Ausgenommen von den Verboten des § 6 bleiben:
 
@@ -304,8 +293,7 @@ In Schutzzone II ist es grundsätzlich verboten:
 
 (2) Weiter bleiben die zum Zeitpunkt des Inkrafttretens der Verordnung auf Grund besonderer Genehmigungen und Rechte zulässigen Maßnahmen unberührt. Soweit diese Maßnahmen mit dem Schutzzweck des Naturparkes (§ 3) nicht vereinbar sind, sollen sie im Rahmen der rechtlichen Möglichkeiten so schnell wie möglich abgebaut werden.
 
-
-## § 8 – Befreiungen
+# § 8 – Befreiungen
 
 (1) Von den Verboten des § 6 kann auf Antrag im Einzelfall Befreiung gewährt werden, wenn
 
@@ -319,8 +307,7 @@ b) zu einer nicht gewollten Beeinträchtigung von Natur und Landschaft führen w
 
 (2) Zuständig für die Erteilung der Befreiung ist die Aufsichtsbehörde der Naturparkverwaltung; die Aufsichtsbehörde kann diese Aufgabe ganz oder teilweise delegieren.
 
-
-## § 9 – Einvernehmen
+# § 9 – Einvernehmen
 
 Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei:
 
@@ -330,34 +317,28 @@ Das Einvernehmen mit der Naturparkverwaltung ist herzustellen bei:
 
 3. der Aufstellung von Bauleitplänen.
 
-
-## § 10 – Entschädigung
+# § 10 – Entschädigung
 
 Werden Eigentümern oder anderen Nutzungsberechtigten durch diese Verordnung oder durch Maßnahmen auf Grund dieser Verordnung Beschränkungen ihrer Nutzungsrechte oder Pflichten in einem Ausmaß auferlegt, das über die Sozialbindung des Eigentums hinausgeht, so haben sie Anspruch auf Entschädigung. Diese muß die Vermögensnachteile, die durch die Maßnahmen verursacht wurden, angemessen ausgleichen.
 
-
-## § 11 – Vorrang dieser Verordnung
+# § 11 – Vorrang dieser Verordnung
 
 Die Bestimmungen dieser Verordnung gehen den Bestimmungen der bestehenden naturschutzrechtlichen Beschlüsse, Verordnungen oder Anordnungen für dieses Gebiet vor.
 
-
-## § 12 – Schlußbestimmung
+# § 12 – Schlußbestimmung
 
 Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Ministerrat der Deutschen Demokratischen Republik
 
-
-## Anlage
+# Anlage
 
 (Inhalt: nicht darstellbare Karte,  
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1478)
 
-
-## Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
+# Anhang EV – Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)  (BGBl. II 1990, 885, 1239)
 
 Artikel 3  
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9 Abs. 4 des Vertrags gilt entsprechend. ...

@@ -1,15 +1,11 @@
-# [BäAusbV 2004] Verordnung über die Berufsausbildung zum Bäcker/zur Bäckerin
-
-Ausfertigungsdatum: 21.04.2004
-
+% Verordnung über die Berufsausbildung zum Bäcker/zur Bäckerin
+% Ausfertigungsdatum: 21.04.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 25 Abs. 1 in Verbindung mit Abs. 2 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074), der zuletzt durch Artikel 1 Nr. 26 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2934) geändert worden ist, und § 25 Abs. 1 in Verbindung mit Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, jeweils in Verbindung mit Artikel 4 des Gesetzes vom 20. Juli 2000 (BGBl. I S. 1045), verordnet das Bundesministerium für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesministerium für Bildung und Forschung:
 
-
-## § 1 – Staatliche Anerkennung des Ausbildungsberufes
+# § 1 – Staatliche Anerkennung des Ausbildungsberufes
 
 Der Ausbildungsberuf Bäcker/Bäckerin wird
 
@@ -19,25 +15,21 @@ Der Ausbildungsberuf Bäcker/Bäckerin wird
 
 staatlich anerkannt.
 
-
-## § 2 – Ausbildungsdauer
+# § 2 – Ausbildungsdauer
 
 (1) Die Ausbildung dauert drei Jahre.
 
 (2) Auszubildende, denen der Besuch eines nach landesrechtlichen Vorschriften eingeführten schulischen Berufsgrundbildungsjahres nach einer Verordnung gemäß § 27a Abs. 1 der Handwerksordnung und § 29 Abs. 1 des Berufsbildungsgesetzes als erstes Jahr der Berufsausbildung anzurechnen ist, beginnen die betriebliche Ausbildung im zweiten Ausbildungsjahr.
 
-
-## § 3 – Zielsetzung der Berufsausbildung
+# § 3 – Zielsetzung der Berufsausbildung
 
 Die in dieser Verordnung genannten Fertigkeiten und Kenntnisse sollen bezogen auf Arbeits- und Geschäftsprozesse vermittelt werden. Sie sollen so vermittelt werden, dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1 Abs. 2 des Berufsbildungsgesetzes befähigt werden, die insbesondere selbständiges Planen, Durchführen und Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den Prüfungen nach den §§ 9 und 10 nachzuweisen.
 
-
-## § 4 – Berufsfeldbreite Grundbildung
+# § 4 – Berufsfeldbreite Grundbildung
 
 Die Ausbildung im ersten Ausbildungsjahr vermittelt eine berufsfeldbreite Grundbildung, wenn die betriebliche Ausbildung nach dieser Verordnung und die Ausbildung in der Berufsschule nach den landesrechtlichen Vorschriften über das Berufsgrundbildungsjahr erfolgen.
 
-
-## § 5 – Ausbildungsberufsbild
+# § 5 – Ausbildungsberufsbild
 
 Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und Kenntnisse:
 
@@ -83,23 +75,19 @@ Gegenstand der Berufsausbildung sind mindestens die folgenden Fertigkeiten und K
 
 21. Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe.
 
-
-## § 6 – Ausbildungsrahmenplan
+# § 6 – Ausbildungsrahmenplan
 
 Die Fertigkeiten und Kenntnisse nach § 5 sollen nach der in der Anlage enthaltenen Anleitung zur sachlichen und zeitlichen Gliederung der Berufsausbildung (Ausbildungsrahmenplan) vermittelt werden. Eine von dem Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung des Ausbildungsinhalts ist insbesondere zulässig, soweit betriebspraktische Besonderheiten die Abweichung erfordern.
 
-
-## § 7 – Ausbildungsplan
+# § 7 – Ausbildungsplan
 
 Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
-
-## § 8 – Berichtsheft
+# § 8 – Berichtsheft
 
 Die Auszubildenden haben ein Berichtsheft in Form eines Ausbildungsnachweises zu führen. Ihnen ist Gelegenheit zu geben, das Berichtsheft während der Ausbildungszeit zu führen. Die Ausbildenden haben das Berichtsheft regelmäßig durchzusehen.
 
-
-## § 9 – Zwischenprüfung
+# § 9 – Zwischenprüfung
 
 (1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung durchzuführen. Sie soll vor dem Ende des zweiten Ausbildungsjahres stattfinden.
 
@@ -119,8 +107,7 @@ Bei der Durchführung der Aufgaben soll der Prüfling zeigen, dass er Arbeiten p
 
 (4) In höchstens 150 Minuten soll der Prüfling Aufgaben schriftlich bearbeiten, die sich auf die praktischen Aufgaben beziehen. Dabei soll der Prüfling zeigen, dass er Arbeitsschritte planen, Arbeitsmittel festlegen, Rohstoffe beurteilen, Mengen bestimmen sowie lebensmittelrechtliche Vorschriften und Maßnahmen der Qualitätssicherung berücksichtigen kann.
 
-
-## § 10 – Gesellenprüfung, Abschlussprüfung
+# § 10 – Gesellenprüfung, Abschlussprüfung
 
 (1) Die Gesellenprüfung, Abschlussprüfung erstreckt sich auf die in der Anlage aufgeführten Fertigkeiten und Kenntnisse sowie auf den im Berufsschulunterricht vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
 
@@ -181,18 +168,15 @@ Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge aus der Berufs- 
 
 jeweils mindestens ausreichende Leistungen erbracht wurden. In zwei der Prüfungsbereiche des Prüfungsteils B müssen mindestens ausreichende Leistungen, in dem weiteren Prüfungsbereich des Prüfungsteils B dürfen keine ungenügenden Leistungen erbracht worden sein.
 
-
-## § 11 – Übergangsregelung
+# § 11 – Übergangsregelung
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-
-## § 12 – Inkrafttreten, Außerkrafttreten
+# § 12 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
-
-## Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
+# Anlage – (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
 
 (Fundstelle: BGBl. I 2004, 635 - 641)
 

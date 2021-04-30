@@ -1,15 +1,11 @@
-# [PflvDV] Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch  (Pflegevorsorgezulage-Durchführungsverordnung - PflvDV)
-
-Ausfertigungsdatum: 20.12.2012
-
+% Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch  (Pflegevorsorgezulage-Durchführungsverordnung - PflvDV)
+% Ausfertigungsdatum: 20.12.2012
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 130 des Elften Buches Sozialgesetzbuch, der durch Artikel 1 Nummer 49 des Gesetzes vom 23. Oktober 2012 (BGBl. I S. 2246) eingefügt worden ist, verordnet das Bundesministerium für Gesundheit im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Arbeit und Soziales:
 
-
-## § 1 – Zentrale Stelle
+# § 1 – Zentrale Stelle
 
 (1) Bei der Deutschen Rentenversicherung Bund wird die zentrale Stelle im Sinne des Vierzehnten Kapitels des Elften Buches Sozialgesetzbuch eingerichtet. Die zentrale Stelle nimmt die sich aus dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch ergebenden Aufgaben wahr.
 
@@ -25,8 +21,7 @@ Auf Grund des § 130 des Elften Buches Sozialgesetzbuch, der durch Artikel 1 Num
 
 4. der Zahl der im jeweiligen Kalenderjahr gemäß § 127 Absatz 2 Satz 1 Nummer 7 des Elften Buches Sozialgesetzbuch ruhend gestellten Verträge.
 
-
-## § 2 – Bekanntgabe gegenüber Versicherungsunternehmen
+# § 2 – Bekanntgabe gegenüber Versicherungsunternehmen
 
 (1) Kommt die zentrale Stelle zu dem Ergebnis, dass kein Anspruch auf Zulage besteht, gibt sie dem Versicherungsunternehmen das Prüfergebnis durch Datensatz bekannt. Das Prüfergebnis kann auch durch Abweisung des nach § 128 Absatz 1 Satz 4 des Elften Buches Sozialgesetzbuch übermittelten Datensatzes bekannt gegeben werden, wenn der Datensatz um eine in dem vom Bundesministerium für Gesundheit veröffentlichten Fehlerkatalog besonders gekennzeichnete Fehlermeldung ergänzt wird. Ist der Datensatz mit einer nicht besonders gekennzeichneten Fehlermeldung von der zentralen Stelle abgewiesen worden und übermittelt das Versicherungsunternehmen bis zum 30. Juni des Kalenderjahres, das auf das Beitragsjahr folgt, keinen fehlerfreien Datensatz, gilt auch diese Abweisung des Datensatzes als Bekanntgabe des Prüfergebnisses.
 
@@ -40,8 +35,7 @@ Auf Grund des § 130 des Elften Buches Sozialgesetzbuch, der durch Artikel 1 Num
 
 (6) Im Fall eines Antrags auf Festsetzung nach §128 Absatz 2 Satz 9 des Elften Buches Sozialgesetzbuch übermittelt die zentrale Stelle das Ergebnis der Festsetzung an das Versicherungsunternehmen durch Datensatz.
 
-
-## § 3 – Mitteilungspflichten des Versicherungsunternehmens gegenüber der zentralen Stelle
+# § 3 – Mitteilungspflichten des Versicherungsunternehmens gegenüber der zentralen Stelle
 
 (1) Das Versicherungsunternehmen ist verpflichtet, in dem Zeitraum vom 1. Januar bis zum 31. März des Kalenderjahres, das auf das Beitragsjahr folgt, der zentralen Stelle einen Antragsdatensatz zur Feststellung der Anspruchsberechtigung auf Auszahlung der Zulage zu übermitteln. Der Antragsdatensatz umfasst den nach § 128 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch erforderlichen Antrag und die in § 128 Absatz 1 Satz 4 des Elften Buches Sozialgesetzbuch genannten Daten. Sind in einem Versicherungsvertrag mehrere Personen versichert, so ist für jede Person, für die eine Zulage beantragt wird, ein gesonderter Antragsdatensatz zu übermitteln.
 
@@ -51,8 +45,7 @@ Auf Grund des § 130 des Elften Buches Sozialgesetzbuch, der durch Artikel 1 Num
 
 (4) Das Versicherungsunternehmen übermittelt der zentralen Stelle jährlich bis zum 31. März die Zahl der im vorangegangenen Kalenderjahr gekündigten und die Zahl der gemäß § 127 Absatz 2 Satz 1 Nummer 7 des Elften Buches Sozialgesetzbuch ruhend gestellten Verträge geförderter privater Pflege-Zusatzversicherungen.
 
-
-## § 4 – Antragsverfahren
+# § 4 – Antragsverfahren
 
 (1) Das Versicherungsunternehmen hat bei Vorliegen der Bevollmächtigung nach § 128 Absatz 1 Satz 2 des Elften Buches Sozialgesetzbuch sowie der sonstigen Voraussetzungen die Zulage für die versicherte Person zu beantragen. Die Bevollmächtigung nach § 128 Absatz 1 Satz 2 des Elften Buches Sozialgesetzbuch wirkt gleichzeitig als Bevollmächtigung nach § 37 Absatz 1 Satz 2 des Zehnten Buches Sozialgesetzbuch. Eine Beantragung unmittelbar durch die versicherte Person gegenüber der zentralen Stelle ist nicht möglich.
 
@@ -68,27 +61,23 @@ Die Bestätigung und die Verpflichtung bedürfen der Schriftform, soweit nicht w
 
 (4) Erlangt das Versicherungsunternehmen Kenntnis davon, dass die versicherte Person ins Ausland verzogen ist, darf es einen Antragsdatensatz nur übermitteln, wenn ihm für den Zeitraum, für den eine Pflegevorsorgezulage beantragt werden soll, ein geeigneter Nachweis darüber vorliegt, dass die Zulageberechtigung nach § 126 Satz 1 des Elften Buches Sozialgesetzbuch besteht. § 3 Absatz 2 gilt entsprechend.
 
-
-## § 5 – Festsetzungsverfahren
+# § 5 – Festsetzungsverfahren
 
 Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle dem Versicherungsunternehmen einen Datensatz nach § 128 Absatz 3 Satz 1 des Elften Buches Sozialgesetzbuch übersendet hat.
 
-
-## § 6 – Änderung des Prüfergebnisses
+# § 6 – Änderung des Prüfergebnisses
 
 (1) Das Prüfergebnis nach § 2 Absatz 1 sowie das Prüfergebnis nach § 2 Absatz 3 können aufgehoben oder geändert werden, solange über einen Antrag auf Festsetzung nach § 128 Absatz 2 Satz 9 des Elften Buches Sozialgesetzbuch zu dem jeweiligen Prüfergebnis noch nicht bindend entschieden wurde.
 
 (2) Das Prüfergebnis nach § 2 Absatz 2 sowie das Prüfergebnis nach § 2 Absatz 4 sind zu ändern, wenn das Versicherungsunternehmen nach § 3 Absatz 2 einen Antragsdatensatz geändert oder storniert hat. Satz 1 gilt entsprechend, wenn die versicherte Person bei dem Versicherungsunternehmen vor Ablauf des 13. Monats nach Übermittlung eines der in Satz 1 benannten Prüfergebnisse einen Antrag auf Änderung des Prüfergebnisses stellt; § 3 Absatz 3 gilt entsprechend.
 
-
-## § 7 – Auszahlung der Zulagen, Auszahlungsreferenzdatei
+# § 7 – Auszahlung der Zulagen, Auszahlungsreferenzdatei
 
 (1) Die Zulagen werden jeweils am 20. April und am 20. Dezember eines Jahres durch die zentrale Stelle zur Zahlung angewiesen. § 26 des Zehnten Buches Sozialgesetzbuch gilt entsprechend. Zum jeweiligen Auszahlungstermin werden Zulagen angewiesen, die von der zentralen Stelle bis zum Ablauf des Kalendermonats, der dem Auszahlungstermin vorangeht, berechnet wurden.
 
 (2) Spätestens mit der Anweisung der Auszahlung der Zulagen wird dem Versicherungsunternehmen eine Auszahlungsreferenzdatei zur Verfügung gestellt. Form und Inhalt der Auszahlungsreferenzdatei legt die zentrale Stelle fest.
 
-
-## § 8 – Zulagenrückforderungen
+# § 8 – Zulagenrückforderungen
 
 (1) Das Versicherungsunternehmen hat die ihm mitgeteilten Rückforderungen bis zum nächstfolgenden 10. Juni und 10. Dezember in einem Betrag an die zentrale Stelle zu zahlen. Spätestens mit Anweisung der Zahlung hat das Versicherungsunternehmen der zentralen Stelle eine Rückzahlungsreferenzdatei zu übermitteln. Form und Inhalt der Rückzahlungsreferenzdatei legt die zentrale Stelle fest.
 
@@ -98,15 +87,13 @@ Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle dem Versic
 
 (4) Eine Festsetzung des zurückgeforderten Betrags erfolgt durch die zentrale Stelle gegenüber dem Versicherungsnehmer, sofern die Rückzahlung nach Absatz 1 oder Absatz 3 ganz oder teilweise nicht möglich oder nicht erfolgt ist.
 
-
-## § 9 – Art der Datenübermittlung
+# § 9 – Art der Datenübermittlung
 
 (1) Nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch oder nach dieser Verordnung vorgeschriebene Übermittlungen von Daten und von ergehenden Anzeigen, Bekanntgaben oder Mitteilungen zwischen der zentralen Stelle und den Versicherungsunternehmen oder seinen Auftragsverarbeitern nach § 12 Absatz 3 erfolgen in Form von amtlich vorgeschriebenen Datensätzen durch amtlich bestimmte Datenfernübertragung.
 
 (2) Absatz 1 gilt nicht für die Übermittlung von Daten sowie von ergehenden Anzeigen und Mitteilungen nach § 2 Absatz 2 und 5, § 3 Absatz 3 und 4, § 7 Absatz 2, § 8 Absatz 1 und § 13.
 
-
-## § 10 – Technisches Übermittlungsformat
+# § 10 – Technisches Übermittlungsformat
 
 (1) Die Datensätze sind im XML-Format zu übermitteln.
 
@@ -114,8 +101,7 @@ Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle dem Versic
 
 (3) Die zentrale Stelle kann unter Vorbehalt der Genehmigung des Bundesministeriums für Gesundheit für einzelne oder alle Datensätze die Verwendung eines anderen Zeichensatzes und die dafür erforderliche Codierung bestimmen. Der Zeitpunkt der erstmaligen Verwendung wird in Abstimmung mit der zentralen Stelle mindestens sechs Monate vorher vom Bundesministerium für Gesundheit im Bundesanzeiger bekannt gegeben.
 
-
-## § 11 – Verfahren der Datenübermittlung, Schnittstellen
+# § 11 – Verfahren der Datenübermittlung, Schnittstellen
 
 (1) Bei der elektronischen Übermittlung der Datensätze durch Datenfernübertragung nach § 9 Absatz 1 sind die für den jeweiligen Übermittlungszeitpunkt bestimmten Schnittstellen ordnungsgemäß zu bedienen. Die für die Datenübermittlung erforderlichen Schnittstellen und die dazugehörige Dokumentation werden nach Genehmigung des Bundesministeriums für Gesundheit über das Internet in einem geschützten Bereich der zentralen Stelle zur Verfügung gestellt.
 
@@ -123,8 +109,7 @@ Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle dem Versic
 
 (3) Die technischen Einrichtungen für die Datenübermittlung stellt jede übermittelnde Stelle für ihren Bereich bereit.
 
-
-## § 12 – Übermittlung durch Datenfernübertragung
+# § 12 – Übermittlung durch Datenfernübertragung
 
 (1) Bei der Datenfernübertragung sind dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Authentifizierung der übermittelnden und empfangenden Stelle gewährleisten. Bei der Nutzung allgemein zugänglicher Netze sind Verschlüsselungsverfahren zu verwenden. Die zentrale Stelle bestimmt nach Anhörung des Verbandes der privaten Krankenversicherung e. V. das einzusetzende Verschlüsselungsverfahren, das dem jeweiligen Stand der Technik entsprechen muss.
 
@@ -134,8 +119,7 @@ Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle dem Versic
 
 (4) Der nach Absatz 3 mit der Datenfernübertragung beauftragte Auftragsverarbeiter gilt als Empfangsbevollmächtigter für Mitteilungen der zentralen Stelle an das Versicherungsunternehmen, solange dieses nicht widerspricht.
 
-
-## § 13 – Identifikation der am Verfahren Beteiligten
+# § 13 – Identifikation der am Verfahren Beteiligten
 
 (1) Das Versicherungsunternehmen hat der zentralen Stelle anzuzeigen:
 
@@ -159,17 +143,14 @@ Das Festsetzungsverfahren ist nur zulässig, wenn die zentrale Stelle dem Versic
 
 (4) Jede Änderung der Daten nach den Absätzen 1 und 2 ist der zentralen Stelle von den am Verfahren Beteiligten unter Angabe ihrer Kundennummer unverzüglich anzuzeigen.
 
-
-## § 14 – Aufzeichnungs- und Aufbewahrungsfristen
+# § 14 – Aufzeichnungs- und Aufbewahrungsfristen
 
 Die zentrale Stelle und die Versicherungsunternehmen haben die übermittelten Daten aufzuzeichnen und für die Dauer von sechs Jahren nach dem Ende des Jahres, in dem die Übermittlung erfolgt ist, geordnet aufzubewahren. Die Aufzeichnungen sind nach Ablauf der in Satz 1 genannten Aufbewahrungsfrist zu löschen oder zu vernichten.
 
-
-## § 15 – Verwaltungs- und Abschlusskosten
+# § 15 – Verwaltungs- und Abschlusskosten
 
 In Tarifen der förderfähigen Pflege-Zusatzversicherung dürfen die eingerechneten unmittelbaren Abschlusskosten gemäß § 8 Absatz 1 Nummer 1 der Kalkulationsverordnung das Zweifache der auf den ersten Monat entfallenden Bruttoprämie insgesamt nicht übersteigen. Mittelbare Abschlusskosten, Schadenregulierungskosten und sonstige Verwaltungskosten gemäß § 8 Absatz 1 Nummer 2 bis 4 der Kalkulationsverordnung dürfen bis zu einer Höhe von 10 Prozent der Bruttoprämie insgesamt eingerechnet werden.
 
-
-## § 16 – Inkrafttreten
+# § 16 – Inkrafttreten
 
 Diese Verordnung tritt am 4. Januar 2013 in Kraft.

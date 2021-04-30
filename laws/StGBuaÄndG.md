@@ -1,20 +1,15 @@
-# [StGBuaÄndG] Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des Gerichtsverfassungsgesetzes, der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes
-
-Ausfertigungsdatum: 18.08.1976
-
+% Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des Gerichtsverfassungsgesetzes, der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes
+% Ausfertigungsdatum: 18.08.1976
  
-
-## ----
+# ----
 
 Artikel 1 bis 4
 
-
-## Art 5
+# Art 5
 
 \-
 
-
-## Art 6 – Übergangsregelung
+# Art 6 – Übergangsregelung
 
 (1) (weggefallen)
 
@@ -30,12 +25,10 @@ zu begehen.
 
 (3) (weggefallen)
 
-
-## Art 7
+# Art 7
 
 (weggefallen)
 
-
-## Art 8 – Inkrafttreten
+# Art 8 – Inkrafttreten
 
 Dieses Gesetz tritt einen Monat nach der Verkündung in Kraft; Artikel 5 und Artikel 6 Abs. 2 treten jedoch erst am 1. Januar 1977 in Kraft.

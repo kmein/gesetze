@@ -1,15 +1,11 @@
-# [GrÄndStVtr SN/TH] Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze
-
-Ausfertigungsdatum: 11.02.1992
-
+% Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze
+% Ausfertigungsdatum: 11.02.1992
  
-
-## Eingangsformel
+# Eingangsformel
 
 Um den historischen und kulturellen Verflechtungen von Gemeinden zum Freistaat Sachsen zu entsprechen, schließen der Freistaat Sachsen und das Land Thüringen, vertreten durch ihre Ministerpräsidenten, auf der Grundlage von Artikel 1 Abs. 1 des Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag - vom 31. August 1990 (BGBl. II S. 889) in Verbindung mit § 2 Abs. 2 und 3 des Verfassungsgesetzes zur Bildung von Ländern in der Deutschen Demokratischen Republik vom 22. Juli 1990 (GBl. I Nr. 51 S. 955), das aufgrund von Artikel 9 Abs. 2 in Verbindung mit Anlage II Kapitel II Sachgebiet A Abschnitt II des Einigungsvertrages fortgeltendes Recht ist, folgenden Staatsvertrag:
 
-
-## Art 1
+# Art 1
 
 (1) Die nachfolgend aufgeführten Gemeinden werden aus dem Land Thüringen ausgegliedert und in den Freistaat Sachsen eingegliedert:
 
@@ -41,8 +37,7 @@ Unterreichenau.
 
 (3) Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze sind aus der Anlage 1 zu diesem Vertrag ersichtlich.
 
-
-## Art 2
+# Art 2
 
 (1) Die in Artikel 1 Abs. 1 genannten Gemeinden werden im Freistaat Sachsen zunächst in den Landkreis Plauen aufgenommen.
 
@@ -60,8 +55,7 @@ Unterreichenau.
 
 (8) Im übrigen werden die Sächsische Staatsregierung und die Thüringer Landesregierung dafür Sorge tragen, daß die mit dem Übergang der in Artikel 1 Abs. 1 genannten Gemeinden zusammenhängenden Fragen möglichst innerhalb von sechs Monaten nach dem Wechsel der Landeszugehörigkeit geregelt werden.
 
-
-## Art 3
+# Art 3
 
 (1) Das in den in Artikel 1 Abs. 1 genannten Gemeinden gelegene gemeindliche Verwaltungsvermögen geht mit allen Rechten, Lasten und Verpflichtungen auf die entsprechenden Körperschaften des öffentlichen Rechts im Freistaat Sachsen über. Im Zusammenhang mit diesem Übergang durchzuführende Rechtshandlungen sind frei von nach Landesrecht zu erhebenden Abgaben und Gebühren.
 
@@ -69,18 +63,15 @@ Unterreichenau.
 
 (3) Verbindlichkeiten, die sich für das Land Thüringen aus Förderzusagen, Bewilligungsbescheiden und Verpflichtungsermächtigungen ergeben, die vor Inkrafttreten des Vertrages den in Artikel 1 Abs. 1 genannten Gemeinden oder ihren Einwohnern erteilt wurden, übernimmt der Freistaat Sachsen, soweit in den Anlagen zum Vertrag nichts anderes bestimmt ist. Gleiches gilt für Verbindlichkeiten gegenüber juristischen Personen, die dort ihren Sitz haben oder sich dort betätigen. Die Vertragsparteien sind sich einig, daß die genannten Verbindlichkeiten ermittelt und durch eine besondere Vereinbarung nachträglich geregelt werden.
 
-
-## Art 4
+# Art 4
 
 Die betroffenen Gemeinden und Landkreise sind verpflichtet, möglichst innerhalb von sechs Monaten nach dem Wechsel der Landeszugehörigkeit der in Artikel 1 Abs. 1 genannten Gemeinden die mit dem Übergang zusammenhängenden Fragen der Verwaltung wie die Übergabe von Akten, Urkunden, Registern und dergleichen durch Vereinbarung zu regeln sowie die für die Berichtigung des Grundbuchs erforderlichen Erklärungen abzugeben. Die Vereinbarungen bedürfen der Genehmigung der jeweils zuständigen Rechtsaufsichtsbehörde. Die Verpflichtung nach Satz 1 trifft auch sämtliche Landesbehörden einschließlich der Gerichte.
 
-
-## Art 5
+# Art 5
 
 Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage 1 (Artikel 1 Abs. 3) werden bei dem Landesvermessungsamt Sachsen, bei dem Thüringer Landesverwaltungsamt - Landesvermessungsamt - und bei den Landratsämtern der in den Artikeln 1 und 2 genannten Landkreise aufbewahrt und können von jedermann eingesehen werden.
 
-
-## Art 6
+# Art 6
 
 (1) Dieser Vertrag bedarf der Ratifikation. Die Ratifikationsurkunden werden unverzüglich ausgetauscht, sobald der Sächsische Landtag und der Thüringer Landtag diesem Vertrag durch Gesetz zugestimmt haben.
 
@@ -88,27 +79,24 @@ Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage 1 (Artikel
 
 (3) Der Staatsvertrag tritt am Tag nach dem Austausch der Ratifikationsurkunden in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 |                                     |                        |
 |:-----------------------------------:|:----------------------:|
 |      Für den Freistaat Sachsen      | Für das Land Thüringen |
 | Stellvertretender Ministerpräsident |     Innenminister      |
 
-
-## Anlage 1
+# Anlage 1
 
   
 (Fundstelle: BGBl. I 1993, 218 - 219)
 
   
   
-![](../normengrafiken/bgbl1_1993/j0218_0010.jpg)  
+![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_1993/j0218_0010.jpg)  
   
 
-
-## Anlage 2 – Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums
+# Anlage 2 – Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums
 
 1. Der Freistaat Sachsen verpflichtet sich, entsprechend den im Auftrag des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums zwischen den betroffenen Schulämtern Schleiz, Greiz und Zeulenroda für Thüringen sowie Plauen-Land für Sachsen am 8. August 1991 getroffenen Festlegungen, die in der Polytechnischen Oberschule Elsterberg, der Polytechnischen Oberschule Mühltroff und der Polytechnischen Oberschule Pausa beschäftigten Lehrer und Erzieher, die sich bis zum 31. August 1991 gegenüber den zuständigen Schulämtern schriftlich für einen Wechsel in den sächsischen Schuldienst entschieden haben, mit Inkrafttreten diese Vertrages zu übernehmen. Sachsen erhält von Thüringen eine Liste dieser Lehrer und Erzieher.
 
@@ -120,17 +108,13 @@ Die Anlagen sind Bestandteil des Vertrages. Ausfertigungen der Anlage 1 (Artikel
 
 5. Entsprechend bisheriger Praxis in der Bundesrepublik Deutschland werden keine Gastschulbeiträge für Schüler der vertragschließenden Länder erhoben.
 
-
-## Anlage 3 – Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums für Landwirtschaft und Forsten
+# Anlage 3 – Geschäftsbereich des Sächsischen Staatsministeriums für Landwirtschaft, Ernährung und Forsten und des Thüringer Ministeriums für Landwirtschaft und Forsten
 
 Bereich Landwirtschaft  
-Fördermaßnahmen, für die Haushaltsmittel bereits bewilligt wurden, sind vom Land Thüringen bis zur Verwendungsprüfung durchzuführen. Dies gilt auch für eine eventuelle Nachfinanzierung. Nach Abschluß der Verwendungsprüfung sind die abgeschlossenen Akten an den Freistaat Sachsen abzugeben.  
-Das Land Thüringen verzichtet auf eine Rückforderung der Fördermittel.  
-Bereich Forsten  
+Fördermaßnahmen, für die Haushaltsmittel bereits bewilligt wurden, sind vom Land Thüringen bis zur Verwendungsprüfung durchzuführen. Dies gilt auch für eine eventuelle Nachfinanzierung. Nach Abschluß der Verwendungsprüfung sind die abgeschlossenen Akten an den Freistaat Sachsen abzugeben. Das Land Thüringen verzichtet auf eine Rückforderung der Fördermittel. Bereich Forsten  
 Der Freistaat Sachsen verpflichtet sich, die für die vom Land Thüringen an ihn abzugebenden Waldflächen anteilmäßig entfallenden forstlichen Fach- und Arbeitskräfte zu übernehmen. Grundlage für die Personalübernahme sind die Mittelwerte, die sich aus den Personalschlüsseln des Freistaates Sachsen und des Landes Thüringen für Forstpersonal ergeben. Die Festlegung der Liste des zu übernehmenden Personals bleibt einer späteren Verwaltungsvereinbarung gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
 
-
-## Anlage 4 – Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Umweltministeriums
+# Anlage 4 – Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Umweltministeriums
 
 1. Die Bereitstellung von Fördermitteln für wasserwirtschaftliche Maßnahmen erfolgt im Rahmen der durch Zuwendungsbescheide festgelegten Fördersummen für 1991 durch das Land Thüringen.
 
@@ -157,12 +141,10 @@ Trinkwasserschutzzone III Trinkwassertalsperre Zeulenroda
 
 Die sächsischen Behörden erklären die Bereitschaft zur Mitwirkung beim effektiven Trinkwasserschutz im Bereich der Talsperre Zeulenroda.
 
-
-## Anlage 5 – Geschäftsbereich des Sächsischen Staatsministeriums für Soziales, Gesundheit und Familie und des Thüringer Ministeriums für Soziales und Gesundheit
+# Anlage 5 – Geschäftsbereich des Sächsischen Staatsministeriums für Soziales, Gesundheit und Familie und des Thüringer Ministeriums für Soziales und Gesundheit
 
 Der Freistaat Sachsen verpflichtet sich, die Arbeitskräfte des Kinderkurheims in Pausa zu übernehmen, sofern sie bei Inkrafttreten des Vertrages im Dienst des Landes Thüringen stehen und die Arbeitsverhältnisse über diesen Tag hinaus andauern. Die Festlegung der Liste des zu übernehmenden Personals bleibt einer späteren Verwaltungsvereinbarung gemäß Artikel 2 Abs. 8 des Staatsvertrages vorbehalten.
 
-
-## Protokollnotiz zum Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze
+# Protokollnotiz zum Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze
 
 Die hohen vertragschließenden Parteien stimmen darin überein, daß Cunsdorf nur dann Gegenstand dieses Vertrages wird, wenn die gesetzlichen Voraussetzungen für eine Umgliederung (Bürgerbefragung, Gemeindevertretungsbeschluß und vorheriger Abtrennungsbeschluß der Gemeinde Schönbach) bis zum 18. Februar 1992 erfüllt sind.

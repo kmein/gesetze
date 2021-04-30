@@ -1,22 +1,17 @@
-# [FischWiMeistPrV] Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Fischwirt
-
-Ausfertigungsdatum: 21.12.1978
-
+% Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Fischwirt
+% Ausfertigungsdatum: 21.12.1978
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 81 Abs. 4 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der durch Artikel 53 Nr. 2 des Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden ist, und unter Berücksichtigung des § 28 des Ausbildungsplatzförderungsgesetzes vom 7. September 1976 (BGBl. I S. 2658) wird im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft verordnet:
 
-
-## § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Meisterprüfung und Bezeichnung des Abschlusses
 
 (1) Durch die Meisterprüfung ist festzustellen, ob der Prüfungsteilnehmer die erforderlichen Kenntnisse und Fertigkeiten hat, einen Fischereibetrieb selbständig zu führen, die in der Fischereiwirtschaft vorkommenden Arbeiten meisterhaft auszuführen und Auszubildende ordnungsgemäß auszubilden.
 
 (2) Die erfolgreich abgelegte Meisterprüfung führt zum anerkannten Abschluss Fischwirtschaftsmeister/Fischwirtschaftsmeisterin.
 
-
-## § 1a – Zulassungsvoraussetzungen zur Meisterprüfung
+# § 1a – Zulassungsvoraussetzungen zur Meisterprüfung
 
 (1) Zur Meisterprüfung ist zuzulassen, wer
 
@@ -32,8 +27,7 @@ nachweist.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten Voraussetzungen kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass er Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben hat, die die Zulassung zur Prüfung rechtfertigen.
 
-
-## § 2 – Gliederung der Meisterprüfung
+# § 2 – Gliederung der Meisterprüfung
 
 (1) Die Meisterprüfung umfaßt einen praktischen Teil, einen fachtheoretischen Teil, einen wirtschaftlichen und rechtlichen Teil sowie den Teil "Berufsausbildung und Mitarbeiterführung".
 
@@ -47,8 +41,7 @@ nachweist.
 
 (6) Prüfungsteilnehmer, die im Besitz des Befähigungszeugnisses für Seeschiffer in der Küstenfischerei (BKu) oder des Befähigungszeugnisses für Kapitäne in der kleinen Hochseefischerei (BK) sind, erworben auf Grund der Schiffsbesetzungs- und Ausbildungsordnung vom 19. August 1970 (BGBl. I S. 1253), zuletzt geändert durch Verordnung vom 21. Dezember 1976 (BGBl. I S. 3678), können auf Antrag durch den Prüfungsausschuß vom praktischen Teil der Prüfung befreit werden.
 
-
-## § 3 – Prüfungsanforderungen im praktischen Teil
+# § 3 – Prüfungsanforderungen im praktischen Teil
 
 (1) In der praktischen Prüfung ist ein Arbeitseinsatz durchzuführen.
 
@@ -62,8 +55,7 @@ nachweist.
 
 Der Prüfungsteilnehmer kann den Produktionsbereich wählen. Er hat die Planung der Arbeiten schriftlich niederzulegen.
 
-
-## § 4 – Prüfungsanforderungen im fachtheoretischen Teil
+# § 4 – Prüfungsanforderungen im fachtheoretischen Teil
 
 (1) Die Prüfung im fachtheoretischen Teil erstreckt sich auf folgende Prüfungsfächer:
 
@@ -113,8 +105,7 @@ Der Prüfungsteilnehmer kann den Produktionsbereich wählen. Er hat die Planung 
 
 (6) Die schriftliche Prüfung soll nicht länger als vier Stunden, die mündliche Prüfung für den einzelnen Prüfungsteilnehmer nicht länger als 45 Minuten dauern.
 
-
-## § 5 – Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil
+# § 5 – Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil
 
 (1) Die Prüfung im wirtschaftlichen und rechtlichen Teil erstreckt sich auf folgende Prüfungsfächer:
 
@@ -174,8 +165,7 @@ b) Steuerverfahren: Steuertermine, Steuerpflichten, insbesondere Steuererklärun
 
 (6) Die schriftliche Prüfung soll nicht länger als vier Stunden, die mündliche Prüfung für den einzelnen Prüfungsteilnehmer nicht länger als 45 Minuten dauern.
 
-
-## § 6 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
+# § 6 – Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"
 
 (1) Der Prüfling soll nachweisen, dass er Zusammenhänge der Berufsbildung und Mitarbeiterführung erkennen, Auszubildende ausbilden und Mitarbeiter führen kann sowie über entsprechende fachliche, methodische und didaktische Fähigkeiten verfügt.
 
@@ -291,13 +281,11 @@ b) Steuerverfahren: Steuertermine, Steuerpflichten, insbesondere Steuererklärun
 
 (12) In der Fallstudie soll der Prüfling eine vom Prüfungsausschuss vorgegebene Situation der Mitarbeiterführung, die sich auf die in den Absätzen 7 und 8 aufgeführten Kompetenzen bezieht, analysieren, Handlungsoptionen entwickeln, schriftlich darlegen und diese in einem Fachgespräch erläutern. Für die Bearbeitung der Fallstudie stehen 120 Minuten zur Verfügung. Das darauf aufbauende Fachgespräch soll nicht länger als 20 Minuten dauern.
 
-
-## § 7 – Anrechnung anderer Prüfungsleistungen
+# § 7 – Anrechnung anderer Prüfungsleistungen
 
 Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfungsteilnehmerin von der Prüfung einzelner Prüfungsbestandteile nach § 3 Abs. 1, § 4 Abs. 1, § 5 Abs. 1 und § 6 Absatz 9 freistellen, wenn in den letzten fünf Jahren vor Antragstellung vor einer zuständigen Stelle, einer öffentlichen oder staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen Prüfungsausschuss eine Prüfung mit Erfolg abgelegt wurde, die den Anforderungen der entsprechenden Prüfungsinhalte nach dieser Verordnung entspricht. § 2 Abs. 6 bleibt unberührt.
 
-
-## § 8 – Bestehen der Meisterprüfung
+# § 8 – Bestehen der Meisterprüfung
 
 (1) Die vier Prüfungsteile sind gesondert zu bewerten. Für den fachtheoretischen sowie den wirtschaftlichen und rechtlichen Teil ist das arithmetische Mittel aus der Bewertung für die einzelnen Prüfungsfächer zu bilden. Sind in einem Prüfungsfach schriftliche und mündliche Prüfungsleistungen erbracht worden, so ist aus den Bewertungen für diese Leistungen das arithmetische Mittel zu bilden; schriftliche und mündliche Prüfungsleistungen haben das gleiche Gewicht. Für den Teil „Berufsausbildung und Mitarbeiterführung“ ist eine Note als arithmetisches Mittel aus den Bewertungen der Leistungen in den Prüfungen nach § 6 Absatz 10 und 11 im Abschnitt Berufsausbildung sowie der Leistung in der Prüfung nach § 6 Absatz 12 im Abschnitt Mitarbeiterführung zu bilden, dabei ist die Note für den Abschnitt Berufsausbildung mit 60 Prozent und die Note für den Abschnitt Mitarbeiterführung mit 40 Prozent zu gewichten. Die Note für den Abschnitt Berufsausbildung ist als arithmetisches Mittel aus den Bewertungen der Leistungen in der Prüfung nach § 6 Absatz 10 und in der Prüfung nach § 6 Absatz 11 zu bilden; dabei hat die Note in der Prüfung nach § 6 Absatz 10 das doppelte Gewicht. Das Ergebnis der Bewertungen ist in den Prüfungsteilen, den Prüfungsfächern sowie in den Prüfungen nach § 6 Absatz 10 bis 12 in Noten auszuweisen.
 
@@ -305,26 +293,22 @@ Auf Antrag kann die zuständige Stelle den Prüfungsteilnehmer oder die Prüfung
 
 (3) Die Prüfung nach § 6 Absatz 11 ist durch eine mündliche Prüfung zu ergänzen, wenn diese für das Bestehen der Prüfung den Ausschlag geben kann. Die Ergänzungsprüfung soll nicht länger als 30 Minuten dauern. Bei der Ermittlung des Ergebnisses ist die bisherige Note der Prüfung und die Note der Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
-
-## § 9 – Wiederholung der Meisterprüfung
+# § 9 – Wiederholung der Meisterprüfung
 
 (1) Eine Meisterprüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 
 (2) In der Wiederholungsprüfung ist der Prüfungsteilnehmer auf Antrag von der Prüfung in einzelnen Prüfungsteilen und Prüfungsfächern sowie von den Prüfungen nach § 6 Absatz 10 bis 12 zu befreien, wenn seine Leistungen darin in einer vorangegangenen Prüfung mindestens mit der Note "ausreichend" bewertet worden sind und er sich innerhalb von zwei Jahren, gerechnet vom Tage der Beendigung der nicht bestandenen Prüfung an, zur Wiederholungsprüfung anmeldet.
 
-
-## § 10 – Übergangsvorschriften
+# § 10 – Übergangsvorschriften
 
 (1) Die bis zum 28. Mai 2014 begonnenen Prüfungsverfahren können nach den bis dahin geltenden Vorschriften zu Ende geführt werden.
 
 (2) Prüfungsteilnehmer, die die Prüfung nach den bis zum 28. Mai 2014 geltenden Vorschriften nicht bestanden haben und sich innerhalb von zwei Jahren ab dem 29. Mai 2014 zu einer Wiederholungsprüfung anmelden, können die Wiederholungsprüfung nach den am 28. Mai 2014 geltenden Vorschriften ablegen.
 
-
-## § 11 – Inkrafttreten
+# § 11 – Inkrafttreten
 
 Diese Verordnung tritt am 1. März 1979 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten

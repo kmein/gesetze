@@ -1,25 +1,19 @@
-# [FoltÜbkFakProtG] Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
-
-Ausfertigungsdatum: 26.08.2008
-
+% Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
+% Ausfertigungsdatum: 26.08.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:
 
-
-## Art 1
+# Art 1
 
 Dem in New York am 20. September 2006 von der Bundesrepublik Deutschland unterzeichneten Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen vom 10. Dezember 1984 gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe (BGBl. 1990 II S. 246) wird zugestimmt. Das Protokoll wird nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
-
-## Art 2
+# Art 2
 
 Die Aufgaben des Nationalen Präventionsmechanismus nach Artikel 3 des Protokolls werden im Zuständigkeitsbereich der Länder durch eine von diesen einzurichtende Kommission und im Zuständigkeitsbereich des Bundes durch eine vom Bundesministerium der Justiz einzurichtende Bundesstelle wahrgenommen.
 
-
-## Art 3
+# Art 3
 
 (1) Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
 

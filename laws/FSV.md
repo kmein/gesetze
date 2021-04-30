@@ -1,10 +1,7 @@
-# [FSV] Verordnung über die Voraussetzungen für die Stillegung von Flächen bei Bezug einer Rente aus der Alterssicherung der Landwirte oder einer Produktionsaufgaberente  (Flächenstillegungsverordnung - FSV)
-
-Ausfertigungsdatum: 25.11.1994
-
+% Verordnung über die Voraussetzungen für die Stillegung von Flächen bei Bezug einer Rente aus der Alterssicherung der Landwirte oder einer Produktionsaufgaberente  (Flächenstillegungsverordnung - FSV)
+% Ausfertigungsdatum: 25.11.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund
 
@@ -16,8 +13,7 @@ des § 2 Abs. 4 des Gesetzes zur Förderung der Einstellung der landwirtschaftli
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Forsten:
 
-
-## § 1 – Stillegung bei Bezug einer Rente aus der Alterssicherung der Landwirte
+# § 1 – Stillegung bei Bezug einer Rente aus der Alterssicherung der Landwirte
 
 (1) Eine landwirtschaftlich genutzte Fläche ist nur stillgelegt, wenn jede landwirtschaftliche Nutzung und jeglicher Anbau von Kulturpflanzen nicht nur vorübergehend eingestellt wird (nachhaltiges Brachlegen).
 
@@ -41,8 +37,7 @@ Werden auf der stillgelegten Fläche Tätigkeiten verrichtet, die auf öffentlic
 
 2. die Flächen in extensiv zu nutzendes Grünland umgewandelt werden.
 
-
-## § 2 – Stillegung bei Bezug einer Produktionsaufgaberente
+# § 2 – Stillegung bei Bezug einer Produktionsaufgaberente
 
 Ein Leistungsempfänger nach dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit kann eine Fläche nur
 
@@ -52,8 +47,7 @@ Ein Leistungsempfänger nach dem Gesetz zur Förderung der Einstellung der landw
 
 stillegen.
 
-
-## § 3 – Pflichten bei Flächenstillegung
+# § 3 – Pflichten bei Flächenstillegung
 
 (1) Legt der Empfänger einer Rente aus der Alterssicherung der Landwirte oder einer Produktionsaufgaberente eine Fläche nach § 1 Abs. 1 still, ist er verpflichtet,
 
@@ -79,17 +73,14 @@ Soweit Grünland brachgelegt wird, gilt Satz 1 Nr. 2 bis 6; Satz 1 Nr. 5 gilt nu
 
 (3) Bei einer erstmaligen Aufforstung nach § 2 Nr. 2 ist der Leistungsempfänger verpflichtet, die erstmals aufgeforstete Fläche fachgerecht zu pflegen.
 
-
-## § 4
+# § 4
 
 \-
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am 1. Januar 1995 in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.

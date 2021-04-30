@@ -1,10 +1,7 @@
-# [GüKG] Güterkraftverkehrsgesetz  (GüKG)
-
-Ausfertigungsdatum: 22.06.1998
-
+% Güterkraftverkehrsgesetz  (GüKG)
+% Ausfertigungsdatum: 22.06.1998
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 1\.
 
@@ -246,8 +243,7 @@ Gebühren und Auslagen
 
 Ermächtigungen zum Erlass von Durchführungsbestimmungen
 
-
-## § 1 – Begriffsbestimmungen
+# § 1 – Begriffsbestimmungen
 
 (1) Güterkraftverkehr ist die geschäftsmäßige oder entgeltliche Beförderung von Gütern mit Kraftfahrzeugen, die einschließlich Anhänger ein höheres zulässiges Gesamtgewicht als 3,5 Tonnen haben.
 
@@ -271,8 +267,7 @@ Ermächtigungen zum Erlass von Durchführungsbestimmungen
 
 (4) Güterkraftverkehr, der nicht Werkverkehr im Sinne der Absätze 2 und 3 darstellt, ist gewerblicher Güterkraftverkehr.
 
-
-## § 2 – Ausnahmen
+# § 2 – Ausnahmen
 
 (1) Die Vorschriften dieses Gesetzes finden keine Anwendung auf
 
@@ -310,8 +305,7 @@ c) mit land- und forstwirtschaftlichen Fahrzeugen mit einer bauartbedingten Höc
 
 (2) § 14 bleibt unberührt.
 
-
-## § 3 – Erlaubnispflicht
+# § 3 – Erlaubnispflicht
 
 (1) Der gewerbliche Güterkraftverkehr ist erlaubnispflichtig, soweit sich nicht aus dem unmittelbar geltenden europäischen Gemeinschaftsrecht etwas anderes ergibt.
 
@@ -345,18 +339,15 @@ geregelt werden.
 
 (7) Die nach Landesrecht zuständigen Behörden führen dieses Gesetz, die Verordnungen (EG) Nr. 1071/2009 und (EG) Nr. 1072/2009 und die auf diesem Gesetz beruhenden Verordnungen aus, soweit nicht etwas anderes bestimmt ist. Örtlich zuständig ist die Behörde, in deren Zuständigkeitsbereich das Unternehmen seine Niederlassung im Sinne von Artikel 5 der Verordnung (EG) Nr. 1071/2009 hat. Soweit keine Niederlassung besteht, richtet sich die Zuständigkeit nach dem Wohnsitz des Betroffenen.
 
-
-## § 4 – Unterrichtung der Berufsgenossenschaft
+# § 4 – Unterrichtung der Berufsgenossenschaft
 
 Die nach Landesrecht zuständige Behörde hat der zuständigen Berufsgenossenschaft unverzüglich die Erteilung der Erlaubnis mitzuteilen. Die Anzeigepflicht des Unternehmers nach § 192 des Siebten Buches Sozialgesetzbuch bleibt unberührt.
 
-
-## § 5 – Erlaubnispflicht und Gemeinschaftslizenz
+# § 5 – Erlaubnispflicht und Gemeinschaftslizenz
 
 Die Gemeinschaftslizenz nach Artikel 3 und 4 der Verordnung (EG) Nr. 1072/2009 gilt für Unternehmer, deren Unternehmenssitz im Inland liegt, als Erlaubnis nach § 3, es sei denn, es handelt sich um eine Beförderung zwischen dem Inland und einem Staat, der weder Mitglied der Europäischen Union noch anderer Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum, noch die Schweiz ist.
 
-
-## § 6 – Grenzüberschreitender Güterkraftverkehr durch Gebietsfremde
+# § 6 – Grenzüberschreitender Güterkraftverkehr durch Gebietsfremde
 
 Ein Unternehmer, dessen Unternehmen seinen Sitz nicht im Inland hat, ist für den grenzüberschreitenden gewerblichen Güterkraftverkehr von der Erlaubnispflicht nach § 3 befreit, soweit er Inhaber der jeweils erforderlichen Berechtigung ist. Berechtigungen sind die
 
@@ -370,8 +361,7 @@ Ein Unternehmer, dessen Unternehmen seinen Sitz nicht im Inland hat, ist für de
 
 5. Drittstaatengenehmigung.
 
-
-## § 7 – Mitführungs- und Aushändigungspflichten im gewerblichen Güterkraftverkehr
+# § 7 – Mitführungs- und Aushändigungspflichten im gewerblichen Güterkraftverkehr
 
 (1) Der Unternehmer hat dafür zu sorgen, dass bei einer Güterbeförderung im Inland, für die eine Erlaubnis nach § 3 oder eine Berechtigung nach § 6 erforderlich ist, während der gesamten Fahrt folgende Dokumente und Nachweise mitgeführt werden:
 
@@ -389,8 +379,7 @@ Die Dokumente oder Nachweise nach Satz 1 Nummer 1 und 2 dürfen nicht in Folie e
 
 (3) (weggefallen)
 
-
-## § 7a – Haftpflichtversicherung
+# § 7a – Haftpflichtversicherung
 
 (1) Der Unternehmer ist verpflichtet, eine Haftpflichtversicherung abzuschließen und aufrechtzuerhalten, die die gesetzliche Haftung wegen Güter- und Verspätungsschäden nach dem Vierten Abschnitt des Vierten Buches des Handelsgesetzbuches während Beförderungen, bei denen der Be- und Entladeort im Inland liegt, versichert.
 
@@ -408,8 +397,7 @@ Die Dokumente oder Nachweise nach Satz 1 Nummer 1 und 2 dürfen nicht in Folie e
 
 (5) (weggefallen)
 
-
-## § 7b – Einsatz von ordnungsgemäß beschäftigtem Fahrpersonal
+# § 7b – Einsatz von ordnungsgemäß beschäftigtem Fahrpersonal
 
 (1) Ein Unternehmer, dessen Unternehmen seinen Sitz im Inland hat, darf bei Fahrten im Inland im gewerblichen Güterkraftverkehr einen Angehörigen eines Staates, der weder Mitglied der Europäischen Union, eines anderen Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum noch Schweizer Staatsangehöriger ist, nur als Fahrpersonal einsetzen, wenn dieser im Besitz eines Aufenthaltstitels nach § 4 Abs. 3 des Aufenthaltsgesetzes, einer Aufenthaltsgestattung oder einer Duldung ist, die zur Ausübung der Beschäftigung berechtigen, oder eines solchen nicht bedarf (§ 4 Abs. 3 Satz 3 des Aufenthaltsgesetzes) oder im Besitz einer von einer inländischen Behörde ausgestellten gültigen Fahrerbescheinigung nach Artikel 5 der Verordnung (EG) Nr. 1072/2009 ist. Der Unternehmer hat dafür zu sorgen, dass ausländisches Fahrpersonal
 
@@ -423,8 +411,7 @@ mitführt. Der Aufenthaltstitel kann für Zwecke dieses Gesetzes durch eine von 
 
 (3) Die Fahrerbescheinigung nach Artikel 5 der Verordnung (EG) Nr. 1072/2009 wird von der nach Landesrecht zuständigen Behörde erteilt.
 
-
-## § 7c – Verantwortung des Auftraggebers
+# § 7c – Verantwortung des Auftraggebers
 
 Wer zu einem Zwecke, der seiner gewerblichen oder selbständigen beruflichen Tätigkeit zuzurechnen ist, einen Frachtvertrag oder einen Speditionsvertrag mit einem Unternehmen abgeschlossen hat, darf Leistungen aus diesem Vertrag nicht ausführen lassen, wenn er weiß oder fahrlässig nicht weiß, dass der Unternehmer
 
@@ -442,13 +429,11 @@ durchführt.
 
 Die Wirksamkeit eines zu diesem Zwecke geschlossenen Vertrages wird durch einen Verstoß gegen Satz 1 nicht berührt.
 
-
-## § 7d
+# § 7d
 
 (weggefallen)
 
-
-## § 8 – Vorläufige Weiterführung der Güterkraftverkehrsgeschäfte
+# § 8 – Vorläufige Weiterführung der Güterkraftverkehrsgeschäfte
 
 (1) Nach dem Tode des Unternehmers darf der Erbe die Güterkraftverkehrsgeschäfte vorläufig weiterführen. Das gleiche gilt für den Testamentsvollstrecker, Nachlaßpfleger oder Nachlaßverwalter während einer Testamentsvollstreckung, Nachlaßpflegschaft oder Nachlaßverwaltung.
 
@@ -456,20 +441,17 @@ Die Wirksamkeit eines zu diesem Zwecke geschlossenen Vertrages wird durch einen 
 
 (3) Im Falle der Erwerbs- oder Geschäftsunfähigkeit des Unternehmers oder des Verkehrsleiters darf ein Dritter, bei dem die Voraussetzungen nach den Artikeln 6 und 8 der Verordnung (EG) Nr. 1071/2009 noch nicht festgestellt worden sind, die Güterkraftverkehrsgeschäfte bis zu sechs Monate nach Feststellung der Erwerbs- oder Geschäftsunfähigkeit weiterführen. Die Frist kann auf Antrag einmal um drei Monate verlängert werden.
 
-
-## § 9 – Erlaubnis- und Versicherungsfreiheit
+# § 9 – Erlaubnis- und Versicherungsfreiheit
 
 Der Werkverkehr ist erlaubnisfrei. Es besteht keine Versicherungspflicht.
 
-
-## § 10 – Organisation
+# § 10 – Organisation
 
 (1) Das Bundesamt für Güterverkehr (Bundesamt) ist eine selbständige Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur. Es wird von dem Präsidenten geleitet.
 
 (2) Der Aufbau des Bundesamtes wird durch das Bundesministerium für Verkehr und digitale Infrastruktur geregelt.
 
-
-## § 11 – Aufgaben
+# § 11 – Aufgaben
 
 (1) Das Bundesamt erledigt Verwaltungsaufgaben des Bundes auf dem Gebiet des Verkehrs, die ihm durch dieses Gesetz, durch andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen sind.
 
@@ -519,8 +501,7 @@ eingehalten werden, soweit diese Überwachung im Rahmen der Maßnahmen nach § 1
 
 (4) Allgemeine Verwaltungsvorschriften zu den Aufgaben nach Absatz 2 Nr. 3 Buchstabe j und k werden von der Bundesregierung mit Zustimmung des Bundesrates erlassen.
 
-
-## § 12 – Befugnisse
+# § 12 – Befugnisse
 
 (1) Soweit dies zur Durchführung der Aufgaben nach § 11 Abs. 2 erforderlich ist, kann das Bundesamt insbesondere auf Straßen, auf Autohöfen und an Tankstellen Überwachungsmaßnahmen im Wege von Stichproben durchführen. Zu diesem Zweck dürfen seine Beauftragten Kraftfahrzeuge zur Güterbeförderung anhalten, die Identität des Fahrpersonals durch Überprüfung der mitgeführten Ausweispapiere feststellen sowie verlangen, dass die Zulassungsdokumente des Fahrzeugs, der Führerschein des Fahrpersonals und die nach diesem Gesetz oder sonstigen Rechtsvorschriften bei Fahrten im Güterkraftverkehr mitzuführenden Nachweise, Berechtigungen oder Bescheinigungen zur Prüfung ausgehändigt werden. Das Fahrpersonal hat, soweit erforderlich, den Beauftragten des Bundesamtes unverzüglich die zur Erfüllung der Überwachungsaufgabe erforderlichen Auskünfte wahrheitsgemäß nach bestem Wissen und Gewissen zu erteilen, vorhandene Hilfsmittel zur Verfügung zu stellen, Zutritt zum Fahrzeug zu gestatten sowie Hilfsdienste zu leisten. Die Verpflichtung nach Satz 3 besteht nicht, soweit ihre Erfüllung für das Fahrpersonal oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen die Gefahr einer Verfolgung wegen einer Straftat oder Ordnungswidrigkeit begründet.
 
@@ -554,14 +535,11 @@ Absatz 1 Satz 3 und 4 gilt entsprechend.
 
 2. §§ 21, 22 oder 22b des Straßenverkehrsgesetzes,
 
-2a.  
-§§ 10, 10a oder § 11 des Schwarzarbeitsbekämpfungsgesetzes,
+2a. §§ 10, 10a oder § 11 des Schwarzarbeitsbekämpfungsgesetzes,
 
-2b.  
-§ 404 Abs. 2 Nr. 3 und 4 des Dritten Buches Sozialgesetzbuch,
+2b. § 404 Abs. 2 Nr. 3 und 4 des Dritten Buches Sozialgesetzbuch,
 
-2c.  
-(weggefallen)
+2c. (weggefallen)
 
 3. § 24 des Straßenverkehrsgesetzes, die nach dem auf Grund des § 26a des Straßenverkehrsgesetzes erlassenen Bußgeldkatalog in der Regel mit Geldbußen von mindestens sechzig Euro geahndet werden,
 
@@ -575,8 +553,7 @@ bei denen das Bundesamt nicht Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 
 
 (7) Erfolgen Werbemaßnahmen, veröffentlichte Anzeigen oder Angebote ohne Angabe von Namen und Anschrift und bestehen in vorgenannten Fällen Anhaltspunkte für ungenehmigten Güterkraftverkehr oder die Aufforderung hierzu, können das Bundesamt oder die nach § 21a zuständigen Behörden von demjenigen, der die Werbemaßnahmen, die Anzeigen oder das Angebot veröffentlicht hat, Auskunft über Namen und Anschrift des Auftraggebers verlangen.
 
-
-## § 13 – Untersagung der Weiterfahrt
+# § 13 – Untersagung der Weiterfahrt
 
 (1) Das Bundesamt kann die Fortsetzung der Fahrt untersagen, soweit dies zur Wahrnehmung der ihm nach § 11 Abs. 2 Nr. 1 oder 3 übertragenen Aufgaben erforderlich ist.
 
@@ -588,8 +565,7 @@ bei denen das Bundesamt nicht Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 
 
 (3) Widerspruch und Anfechtungsklage gegen die Untersagung der Weiterfahrt nach den Absätzen 1 und 2 haben keine aufschiebende Wirkung.
 
-
-## § 14 – Marktbeobachtung
+# § 14 – Marktbeobachtung
 
 (1) Das Bundesamt beobachtet und begutachtet die Entwicklung des Marktgeschehens im Verkehr (Marktbeobachtung). Die Marktbeobachtung umfasst den Eisenbahn-, Straßen- und Binnenschiffsgüterverkehr, den Luftverkehr sowie die Logistik. Mit der Marktbeobachtung sollen Entwicklungen auf dem Verkehrs- und Logistikmarkt frühzeitig erkannt werden. Es besteht keine Auskunftspflicht.
 
@@ -599,8 +575,7 @@ bei denen das Bundesamt nicht Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 
 
 (4) Die vom Bundesamt im Rahmen der Marktbeobachtung gewonnenen personenbezogenen Daten dürfen nur für Zwecke der Marktbeobachtung gespeichert und verwendet werden.
 
-
-## § 14a – Durchführung von Beihilfeverfahren
+# § 14a – Durchführung von Beihilfeverfahren
 
 Das Bundesamt ist zuständig für die Durchführung von Beihilfeprogrammen des Bundes nach
 
@@ -610,15 +585,13 @@ Das Bundesamt ist zuständig für die Durchführung von Beihilfeprogrammen des B
 
 Die Zuständigkeit des Bundesamtes nach Satz 1 umfasst sämtliche Aufgaben im Zusammenhang mit der Beihilfegewährung.
 
-
-## § 14b – Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
+# § 14b – Durchführung von Verfahren nach der Verordnung (EU) Nr. 1214/2011
 
 (1) Das Bundesamt für Güterverkehr ist zuständig für die Aufgaben nach den Artikeln 4, 11, 12, 21 und 22 der Verordnung (EU) Nr. 1214/2011 des Europäischen Parlaments und des Rates vom 16. November 2011 über den gewerbsmäßigen grenzüberschreitenden Straßentransport von Euro-Bargeld zwischen den Mitgliedstaaten des Euroraums (ABl. L 316 vom 29.11.2011, S. 1).
 
 (2) Bei der Kontrolle der Einhaltung der Bestimmungen nach Artikel 21 gilt § 12 Absatz 4, 5 und 6 Satz 1 Nummer 1 bis 4 und Satz 2 und 3 entsprechend; bei der Verfolgung von Zuwiderhandlungen gilt § 20 entsprechend.
 
-
-## § 15 – Datei über Unternehmen des gewerblichen Güterkraftverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen (Verkehrsunternehmensdatei)
+# § 15 – Datei über Unternehmen des gewerblichen Güterkraftverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen (Verkehrsunternehmensdatei)
 
 (1) Das Bundesamt führt die Verkehrsunternehmensdatei über alle im Inland niedergelassenen Unternehmen des gewerblichen Güterkraftverkehrs und des gewerblichen Personenverkehrs mit Kraftomnibussen, um unmittelbar feststellen zu können, über welche Berechtigungen (Erlaubnis nach § 3, Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1072/2009, CEMT-Genehmigung, CEMT-Umzugsgenehmigung, bilaterale Genehmigung für den grenzüberschreitenden gewerblichen Güterkraftverkehr, Gemeinschaftslizenz nach Artikel 4 der Verordnung (EG) Nr. 1073/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum grenzüberschreitenden Personenkraftverkehrsmarkt und zur Änderung der Verordnung (EG) Nr. 561/2006 (ABl. L 300 vom 14.11.2009, S. 88) sowie Genehmigungen nach dem Personenbeförderungsgesetz zur Beförderung von Personen mit Kraftomnibussen im Linienverkehr oder im Gelegenheitsverkehr) die jeweiligen Unternehmer verfügen. Die Verkehrsunternehmensdatei muss nach näherer Bestimmung durch Rechtsverordnung gemäß Absatz 7 einen allgemein zugänglichen Teil enthalten.
 
@@ -660,8 +633,7 @@ verarbeiten, soweit dies zur Erfüllung der genannten Aufgaben erforderlich ist.
 
 6. zu den nach § 9 des Bundesdatenschutzgesetzes erforderlichen technischen und organisatorischen Maßnahmen.
 
-
-## § 15a – Werkverkehrsdatei
+# § 15a – Werkverkehrsdatei
 
 (1) Das Bundesamt führt eine Datei über alle im Inland niedergelassenen Unternehmen, die Werkverkehr mit Lastkraftwagen, Zügen (Lastkraftwagen und Anhänger) und Sattelkraftfahrzeugen durchführen, deren zulässiges Gesamtgewicht 3,5 Tonnen übersteigt, um unmittelbar feststellen zu können, welche Unternehmen Werkverkehr mit größeren Kraftfahrzeugen betreiben.
 
@@ -699,8 +671,7 @@ verarbeiten, soweit dies zur Erfüllung der genannten Aufgaben erforderlich ist.
 
 (7) Die nach Absatz 3 gespeicherten Daten sind zu löschen, wenn sie für die in Absatz 4 genannten Aufgaben nicht mehr benötigt werden, spätestens aber ein Jahr, nachdem sich der Unternehmer beim Bundesamt abgemeldet hat.
 
-
-## § 16 – Datei über abgeschlossene Bußgeldverfahren
+# § 16 – Datei über abgeschlossene Bußgeldverfahren
 
 (1) Das Bundesamt darf zum Zweck der Verfolgung und Ahndung weiterer Ordnungswidrigkeiten derselben betroffenen Person sowie zum Zweck der Beurteilung der Zuverlässigkeit des Unternehmers und der Verkehrsleiter folgende personenbezogenen Daten über abgeschlossene Bußgeldverfahren, bei denen es Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist, speichern und verändern:
 
@@ -726,8 +697,7 @@ Das Bundesamt darf diese Daten verwenden, soweit es für die in Satz 1 genannten
 
 1. an in- und ausländische öffentliche Stellen, soweit dies für die Entscheidung über den Zugang zum Beruf des Güter- und Personenkraftverkehrsunternehmers erforderlich ist,
 
-1a.  
-bei Verstößen gegen Vorschriften zur Verhinderung illegaler Beschäftigung und Vorschriften für die Sozialversicherung an die Bundesagentur für Arbeit, die Hauptzollämter, die Einzugsstellen und die Träger der Rentenversicherung sowie die Ausländerbehörden, soweit dies zur Vorbereitung und Durchführung weiterer Ermittlungen, insbesondere von Betriebskontrollen, erforderlich ist,
+1a. bei Verstößen gegen Vorschriften zur Verhinderung illegaler Beschäftigung und Vorschriften für die Sozialversicherung an die Bundesagentur für Arbeit, die Hauptzollämter, die Einzugsstellen und die Träger der Rentenversicherung sowie die Ausländerbehörden, soweit dies zur Vorbereitung und Durchführung weiterer Ermittlungen, insbesondere von Betriebskontrollen, erforderlich ist,
 
 2. auf Ersuchen an Gerichte und die Behörden, die hinsichtlich der in § 11 genannten Aufgaben Verwaltungsbehörde nach § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten sind, soweit dies zur Verfolgung und Ahndung von Ordnungswidrigkeiten erforderlich ist.
 
@@ -739,8 +709,7 @@ bei Verstößen gegen Vorschriften zur Verhinderung illegaler Beschäftigung und
 
 (8) Das Bundesamt hat die nach Absatz 1 Satz 1 gespeicherten Daten zwei Jahre nach dem Eintritt der Rechtskraft des Bußgeldbescheides oder der gerichtlichen Entscheidung zu löschen, wenn in dieser Zeit keine weiteren Eintragungen im Sinne des Absatzes 1 Satz 1 Nr. 4 hinzugekommen sind. Sie sind spätestens fünf Jahre nach ihrer Speicherung zu löschen.
 
-
-## § 17 – Nationale Kontaktstelle und europäischer Informationsaustausch
+# § 17 – Nationale Kontaktstelle und europäischer Informationsaustausch
 
 (1) Das Bundesamt ist nationale Kontaktstelle nach Artikel 18 Absatz 1 der Verordnung (EG) Nr. 1071/2009.
 
@@ -756,31 +725,25 @@ bei Verstößen gegen Vorschriften zur Verhinderung illegaler Beschäftigung und
 
 (7) Den Inhalt der für die Zwecke der Absätze 2 bis 5 erforderlichen Informationen sowie die Einzelheiten der Kommunikation zwischen den beteiligten inländischen Stellen und dem Bundesamt einschließlich der Vorgaben über den Aufbau der Datensätze und der Datenstruktur regeln Durchführungsbestimmungen, die vom Bundesamt mit Zustimmung des Bundesministeriums für Verkehr und digitale Infrastruktur erlassen und geändert werden.
 
-
-## § 17a – Zuständigkeit für die Durchführung internationalen Verkehrsrechts
+# § 17a – Zuständigkeit für die Durchführung internationalen Verkehrsrechts
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das Bundesamt als die für die Bundesrepublik Deutschland zuständige Stelle zu bestimmen, soweit eine solche Bestimmung auf dem Gebiet des Verkehrs zur Durchführung von Rechtsakten der Europäische Union oder eines internationalen Abkommens erforderlich ist.
 
-
-## § 18 – Grenzkontrollen
+# § 18 – Grenzkontrollen
 
 Die für die Kontrolle an der Grenze zuständigen Stellen sind berechtigt, Kraftfahrzeuge zurückzuweisen, wenn die nach diesem Gesetz erforderlichen Unterlagen, deren Mitführung vorgeschrieben ist, trotz Aufforderung nicht vorgelegt werden.
 
-
-## § 19 – Bußgeldvorschriften
+# § 19 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1. entgegen § 2 Abs. 1a Satz 1 nicht dafür sorgt, dass ein Begleitpapier oder ein sonstiger Nachweis mitgeführt wird,
 
-1a.  
-entgegen § 2 Abs. 1a Satz 2 das Begleitpapier oder den sonstigen Nachweis nicht mitführt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig zugänglich macht,
+1a. entgegen § 2 Abs. 1a Satz 2 das Begleitpapier oder den sonstigen Nachweis nicht mitführt, nicht oder nicht rechtzeitig aushändigt oder nicht oder nicht rechtzeitig zugänglich macht,
 
-1b.  
-ohne Erlaubnis nach § 3 Abs. 1 gewerblichen Güterkraftverkehr betreibt,
+1b. ohne Erlaubnis nach § 3 Abs. 1 gewerblichen Güterkraftverkehr betreibt,
 
-1c.  
-einer vollziehbaren Auflage nach § 3 Absatz 4 zuwiderhandelt,
+1c. einer vollziehbaren Auflage nach § 3 Absatz 4 zuwiderhandelt,
 
 2. einer Rechtsverordnung nach § 3 Abs. 6 Nr. 2 Buchstabe c, Nr. 3 oder 4 oder § 23 Abs. 3 Satz 1 oder Abs. 5 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
@@ -788,11 +751,9 @@ einer vollziehbaren Auflage nach § 3 Absatz 4 zuwiderhandelt,
 
 4. entgegen § 7 Absatz 1 Satz 2 ein dort genanntes Dokument oder einen dort genannten Nachweis einschweißt oder mit einer Schutzschicht überzieht,
 
-4a.  
-entgegen § 7 Absatz 1a Satz 1 eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
+4a. entgegen § 7 Absatz 1a Satz 1 eine Erklärung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
 
-4b.  
-entgegen § 7 Absatz 1a Satz 2 nicht dafür sorgt, dass die Erklärung während der Beförderung mitgeführt wird,
+4b. entgegen § 7 Absatz 1a Satz 2 nicht dafür sorgt, dass die Erklärung während der Beförderung mitgeführt wird,
 
 5. entgegen
 
@@ -804,20 +765,15 @@ ein dort genanntes Dokument, einen dort genannten Nachweis, einen Pass, ein sons
 
 6. (weggefallen)
 
-6a.  
-entgegen § 7a Abs. 4 Satz 1 nicht dafür sorgt, dass ein dort genannter Nachweis mitgeführt wird,
+6a. entgegen § 7a Abs. 4 Satz 1 nicht dafür sorgt, dass ein dort genannter Nachweis mitgeführt wird,
 
-6b.  
-entgegen § 7a Abs. 4 Satz 2 ein Versicherungsnachweis nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
+6b. entgegen § 7a Abs. 4 Satz 2 ein Versicherungsnachweis nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
-6c.  
-entgegen § 7b Abs. 1 Satz 1 einen Angehörigen eines dort genannten Staates als Fahrpersonal einsetzt,
+6c. entgegen § 7b Abs. 1 Satz 1 einen Angehörigen eines dort genannten Staates als Fahrpersonal einsetzt,
 
-6d.  
-entgegen § 7b Abs. 1 Satz 2 nicht dafür sorgt, dass das ausländische Fahrpersonal eine dort genannte Unterlage mitführt,
+6d. entgegen § 7b Abs. 1 Satz 2 nicht dafür sorgt, dass das ausländische Fahrpersonal eine dort genannte Unterlage mitführt,
 
-6e.  
-entgegen § 7b Abs. 2 eine dort genannte Unterlage nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
+6e. entgegen § 7b Abs. 2 eine dort genannte Unterlage nicht mitführt oder nicht oder nicht rechtzeitig aushändigt,
 
 7. entgegen § 12 Abs. 1 Satz 3 oder Abs. 5 Satz 1 Nr. 1, § 15 Abs. 3 Satz 3 oder § 21a Abs. 3 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erteilt,
 
@@ -831,20 +787,15 @@ entgegen § 7b Abs. 2 eine dort genannte Unterlage nicht mitführt oder nicht od
 
 12. einer vollziehbaren Untersagung nach § 13 Absatz 1 oder Absatz 2 zuwiderhandelt,
 
-12a.  
-entgegen § 15a Abs. 2 und 3 sein Unternehmen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anmeldet,
+12a. entgegen § 15a Abs. 2 und 3 sein Unternehmen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anmeldet,
 
-12b.  
-entgegen § 15a Abs. 3 die Angaben auf Verlangen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachweist,
+12b. entgegen § 15a Abs. 3 die Angaben auf Verlangen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachweist,
 
-12c.  
-entgegen § 15a Abs. 5 Änderungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
+12c. entgegen § 15a Abs. 5 Änderungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig mitteilt,
 
-12d.  
-entgegen § 15a Abs. 5 Änderungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachweist oder
+12d. entgegen § 15a Abs. 5 Änderungen nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig nachweist oder
 
-12e.  
-entgegen § 15a Abs. 6 sein Unternehmen nicht rechtzeitig abmeldet.
+12e. entgegen § 15a Abs. 6 sein Unternehmen nicht rechtzeitig abmeldet.
 
 (1a) Ordnungswidrig handelt, wer
 
@@ -910,8 +861,7 @@ eine Leistung ausführen lässt.
 
 (7) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 6c, Absatzes 1a Nr. 2 und des Absatzes 4 Nr. 1 und 3 mit einer Geldbuße bis zu zweihunderttausend Euro, in den Fällen der Absätze 5 und 6 mit einer Geldbuße bis zu hunderttausend Euro, in den Fällen des Absatzes 1 Nr. 1b, 12, des Absatzes 1a Nr. 1, des Absatzes 2 Nr. 1 und des Absatzes 4 Nr. 2 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden. Sie können auf der Grundlage und nach Maßgabe internationaler Übereinkünfte auch dann geahndet werden, wenn sie im Bereich gemeinsamer Grenzabfertigungsanlagen außerhalb des räumlichen Geltungsbereiches dieses Gesetzes begangen werden.
 
-
-## § 20 – Befugnisse des Bundesamtes bei der Verfolgung von Zuwiderhandlungen
+# § 20 – Befugnisse des Bundesamtes bei der Verfolgung von Zuwiderhandlungen
 
 (1) Bei der Durchführung der Überwachungsaufgaben nach § 11 haben das Bundesamt und seine Beauftragten Zuwiderhandlungen gegen die gesetzlichen Vorschriften zu erforschen und zu verfolgen. Die Beauftragten des Bundesamtes haben insoweit die Rechte und Pflichten der Beamten des Polizeivollzugsdienstes nach den Vorschriften der Strafprozeßordnung und nach dem Gesetz über Ordnungswidrigkeiten. § 163 der Strafprozeßordnung und § 53 des Gesetzes über Ordnungswidrigkeiten bleiben unberührt.
 
@@ -919,8 +869,7 @@ eine Leistung ausführen lässt.
 
 (2) In den Fällen des Absatzes 1 Satz 1 können auch das Bundesamt und seine Beauftragten die Verwarnung nach § 56 des Gesetzes über Ordnungswidrigkeiten erteilen. § 57 Abs. 1 des Gesetzes über Ordnungswidrigkeiten gilt entsprechend.
 
-
-## § 21 – Zuständigkeiten für die Ahndung von Zuwiderhandlungen
+# § 21 – Zuständigkeiten für die Ahndung von Zuwiderhandlungen
 
 (1) Wird eine Zuwiderhandlung in einem Unternehmen begangen, das seinen Sitz im Inland hat, ist Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die von der Landesregierung bestimmte Behörde. Die Landesregierung kann die Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
 
@@ -930,8 +879,7 @@ eine Leistung ausführen lässt.
 
 (4) § 405 des Dritten Buches Sozialgesetzbuch bleibt unberührt.
 
-
-## § 21a – Aufsicht
+# § 21a – Aufsicht
 
 (1) Der Unternehmer des gewerblichen Güterkraftverkehrs und alle am Beförderungsvertrag Beteiligten unterliegen wegen der Erfüllung der gesetzlichen Vorschriften der Aufsicht der nach Landesrecht zuständigen Behörde.
 
@@ -945,8 +893,7 @@ Die in Satz 1 genannten Personen haben diese Maßnahmen zu gestatten.
 
 (3) Die in Absatz 2 genannten Personen haben den Beauftragten der Aufsichtsbehörden auf Verlangen alle für die Durchführung der Aufsicht erforderlichen Auskünfte zu erteilen, Nachweise zu erbringen, Hilfsmittel zu stellen und Hilfsdienste zu leisten. § 12 Abs. 1 Satz 3 und 4 gilt entsprechend.
 
-
-## § 22 – Gebühren und Auslagen
+# § 22 – Gebühren und Auslagen
 
 (1) Für Amtshandlungen nach diesem Gesetz, nach den auf diesem Gesetz beruhenden Rechtsvorschriften, nach Rechtsakten der Europäischen Gemeinschaften sowie auf Grund internationaler Abkommen und diese ergänzender nationaler Rechtsvorschriften sind Gebühren und Auslagen nach den Bestimmungen des Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden Fassung und der Rechtsverordnung nach Absatz 2 zu erheben.
 
@@ -954,8 +901,7 @@ Die in Satz 1 genannten Personen haben diese Maßnahmen zu gestatten.
 
 (3) Auskünfte nach § 19 des Bundesdatenschutzgesetzes werden unentgeltlich erteilt.
 
-
-## § 23 – Ermächtigungen zum Erlaß von Durchführungsbestimmungen
+# § 23 – Ermächtigungen zum Erlaß von Durchführungsbestimmungen
 
 (1) Die Bundesregierung erläßt mit Zustimmung des Bundesrates die allgemeinen Verwaltungsvorschriften, die zur Durchführung von Rechtsakten der Europäischen Union, dieses Gesetzes und der auf diesem Gesetz beruhenden Rechtsverordnungen erforderlich sind.
 
@@ -965,8 +911,7 @@ Die in Satz 1 genannten Personen haben diese Maßnahmen zu gestatten.
 
 1. der Zugang zum Beruf des Güterkraftverkehrsunternehmers und zum Markt des Güterkraftverkehrs, insbesondere die Voraussetzungen für die Erteilung, die Rücknahme und den Widerruf von Genehmigungen, den Erlaß von Nebenbestimmungen, das zugehörige Verfahren einschließlich der Durchführung von Anhörungen und der Behandlung wesentlicher Änderungen nach Erteilung der Genehmigungen sowie die Bedingungen für den Fahrzeugeinsatz geregelt werden,
 
-1a.  
-die Voraussetzungen für die Erteilung, die Rücknahme und den Widerruf von Fahrerbescheinigungen, den Erlass von Nebenbestimmungen, das zugehörige Verfahren einschließlich der Durchführung von Anhörungen und der Behandlung wesentlicher Änderungen nach Erteilung der Fahrerbescheinigungen, die Bedingungen für den Einsatz des Fahrpersonals sowie die Überwachung der Erteilungsvoraussetzungen geregelt werden,
+1a. die Voraussetzungen für die Erteilung, die Rücknahme und den Widerruf von Fahrerbescheinigungen, den Erlass von Nebenbestimmungen, das zugehörige Verfahren einschließlich der Durchführung von Anhörungen und der Behandlung wesentlicher Änderungen nach Erteilung der Fahrerbescheinigungen, die Bedingungen für den Einsatz des Fahrpersonals sowie die Überwachung der Erteilungsvoraussetzungen geregelt werden,
 
 2. für Unternehmer, deren Unternehmen ihren Sitz in einem Staat haben, der weder Mitglied der Europäischen Union noch anderer Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum ist, der Zugang zum Markt des Güterkraftverkehrs und die Bedingungen bei der Durchführung des Güterkraftverkehrs abweichend von den Bestimmungen dieses Gesetzes geregelt sowie der vorübergehende oder dauernde Ausschluß vom Güterkraftverkehr vorgesehen wird, wenn wiederholt oder schwerwiegend gegen im Inland geltende Vorschriften verstoßen wird,
 
@@ -982,10 +927,8 @@ Rechtsverordnungen nach den Nummern 1 bis 3 bedürfen der Zustimmung des Bundesr
 
 1. das Vorliegen von grenzüberschreitendem kombiniertem Verkehr einschließlich der Bestimmung des nächstgelegenen geeigneten Bahnhofs sowie die Pflicht zur Mitführung und Aushändigung von Papieren geregelt werden, die dem Nachweis der Erfüllung der Berufszugangsvoraussetzungen und der Durchführung von kombiniertem Verkehr dienen,
 
-1a.  
-Besonderheiten, insbesondere genehmigungsrechtliche Erleichterungen, vorgesehen werden sowie
+1a. Besonderheiten, insbesondere genehmigungsrechtliche Erleichterungen, vorgesehen werden sowie
 
 2. Bestimmungen zur Gewährleistung zwischenstaatlicher Gegenseitigkeit oder gleicher Wettbewerbsbedingungen eingeführt werden.
 
-
-## §§ 24 u. 25 – (weggefallen)
+# §§ 24 u. 25 – (weggefallen)

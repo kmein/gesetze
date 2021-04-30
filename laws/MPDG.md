@@ -1,10 +1,7 @@
-# [MPDG] Gesetz zur Durchführung unionsrechtlicher Vorschriften betreffend Medizinprodukte  (Medizinprodukterecht-Durchführungsgesetz - MPDG)
-
-Ausfertigungsdatum: 28.04.2020
-
+% Gesetz zur Durchführung unionsrechtlicher Vorschriften betreffend Medizinprodukte  (Medizinprodukterecht-Durchführungsgesetz - MPDG)
+% Ausfertigungsdatum: 28.04.2020
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
  
 
@@ -49,16 +46,14 @@ Ausfertigungsdatum: 28.04.2020
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ Inhaltsübersicht: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 1 – Zweck des Gesetzes
+# § 1 – Zweck des Gesetzes
 
 Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9).
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 1: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 2 – Anwendungsbereich des Gesetzes
+# § 2 – Anwendungsbereich des Gesetzes
 
 (1) Dieses Gesetz ist anzuwenden auf Produkte im Anwendungsbereich der Verordnung (EU) 2017/745. Für In-vitro-Diagnostika ist bis einschließlich 25. Mai 2022 das Medizinproduktegesetz in der bis einschließlich 25. Mai 2020 geltenden Fassung anzuwenden.
 
@@ -67,8 +62,7 @@ Dieses Gesetz dient der Durchführung und Ergänzung der Verordnung (EU) 2017/74
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 2: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 3 – Ergänzende Begriffsbestimmungen
+# § 3 – Ergänzende Begriffsbestimmungen
 
 Ergänzend zu den Begriffsbestimmungen des Artikels 2 der Verordnung (EU) 2017/745 bezeichnet im Sinne dieses Gesetzes der Ausdruck
 
@@ -95,8 +89,7 @@ d) außerhalb eines klinischen Entwicklungsplans nach Anhang XIV Teil A Ziffer 1
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 3: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 4 – Ergänzende Anzeigepflichten
+# § 4 – Ergänzende Anzeigepflichten
 
 (1) Betriebe und Einrichtungen, die Produkte, die bestimmungsgemäß keimarm oder steril zur Anwendung kommen, ausschließlich für andere aufbereiten, oder Gesundheitseinrichtungen, die Einmalprodukte nach Artikel 17 Absatz 3 der Verordnung (EU) 2017/745 aufbereiten oder aufbereiten lassen, haben dies vor Aufnahme der Tätigkeit unter Angabe ihrer Anschrift der zuständigen Behörde über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 anzuzeigen, sofern sie nicht nach Artikel 31 der Verordnung (EU) 2017/745 zur Registrierung verpflichtet sind.
 
@@ -107,8 +100,7 @@ d) außerhalb eines klinischen Entwicklungsplans nach Anhang XIV Teil A Ziffer 1
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 4: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 5 – Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung
+# § 5 – Aufbewahrung von Unterlagen im Fall der Beendigung der Geschäftstätigkeit; Verordnungsermächtigung
 
 (1) Hersteller und Bevollmächtigte, die ihren Sitz im Geltungsbereich dieses Gesetzes haben, stellen sicher, dass, auch wenn sie ihre Geschäftstätigkeit eingestellt haben oder ihre Geschäftstätigkeit aus anderen Gründen beendet wird, der zuständigen Behörde die in den nachfolgenden Vorschriften genannten Unterlagen innerhalb der dort bestimmten Zeiträume zur Verfügung stehen:
 
@@ -133,8 +125,7 @@ d) außerhalb eines klinischen Entwicklungsplans nach Anhang XIV Teil A Ziffer 1
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 5: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 6 – Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung
+# § 6 – Klassifizierung von Produkten, Feststellung des rechtlichen Status, Einstufung von Produkten der Klasse I, Genehmigungspflicht einer klinischen Prüfung
 
 (1) Meinungsverschiedenheiten zwischen einem Hersteller und seiner Benannten Stelle über die Klassifizierung einzelner Produkte in Anwendung des Anhangs VIII der Verordnung (EU) 2017/745 sind der zuständigen Bundesoberbehörde nach Maßgabe von Artikel 51 Absatz 2 der Verordnung (EU) 2017/745 zur Entscheidung vorzulegen.
 
@@ -171,8 +162,7 @@ Satz 1 gilt für Entscheidungen der zuständigen Bundesoberbehörde nach den Abs
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 6: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 7 – Sonderzulassung, Verordnungsermächtigung
+# § 7 – Sonderzulassung, Verordnungsermächtigung
 
 (1) Unter den in Artikel 59 Absatz 1 der Verordnung (EU) 2017/745 genannten Voraussetzungen kann die zuständige Bundesoberbehörde auf Antrag das Inverkehrbringen oder die Inbetriebnahme von Produkten, bei denen die Verfahren nach Maßgabe von Artikel 52 der Verordnung (EU) 2017/745 nicht durchgeführt wurden, im Geltungsbereich dieses Gesetzes zulassen (Sonderzulassung). Der Antrag ist zu begründen.
 
@@ -203,8 +193,7 @@ c) den Mindestinhalt der Informationen zur Aufklärung der betroffenen Patienten
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 7: Inkraft gem. Art. 17 Abs. 4 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 2 G v. 19.5.2020 I 1018 mWv 24.4.2020 +++)
 
-
-## § 8 – Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen
+# § 8 – Sprachenregelung für die EU-Konformitätserklärung und für Produktinformationen
 
 (1) Der Hersteller hat für Produkte, die im Geltungsbereich dieses Gesetzes auf dem Markt bereitgestellt werden, die EU-Konformitätserklärung nach Artikel 19 Absatz 1 der Verordnung (EU) 2017/745 in deutscher oder in englischer Sprache zur Verfügung zu stellen.
 
@@ -215,8 +204,7 @@ c) den Mindestinhalt der Informationen zur Aufklärung der betroffenen Patienten
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 8: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 9 – Sondervorschriften für angepasste Produkte
+# § 9 – Sondervorschriften für angepasste Produkte
 
 (1) Unbeschadet der für Händler und Importeure nach der Verordnung (EU) 2017/745 geltenden Pflichten hat jede natürliche oder juristische Person, die ein serienmäßig hergestelltes Produkt an die in einer schriftlichen Verordnung festgelegten spezifischen Charakteristika und Bedürfnisse einer individuellen Patientin oder eines individuellen Patienten anpasst, Folgendes zu dokumentieren:
 
@@ -237,24 +225,21 @@ Die Dokumentation ist zehn Jahre aufzubewahren. Auf Verlangen ist die Dokumentat
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 9: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 10 – Freiverkaufszertifikate
+# § 10 – Freiverkaufszertifikate
 
 Auf Antrag des Herstellers oder seines Bevollmächtigten stellt die zuständige Behörde ein Freiverkaufszertifikat nach Artikel 60 Absatz 1 der Verordnung (EU) 2017/745 aus. Ein Freiverkaufszertifikat kann auch für Produkte ausgestellt werden, die nach Artikel 120 Absatz 3 der Verordnung (EU) 2017/745 in Verkehr gebracht werden. Satz 2 gilt entsprechend für Produkte, die vor dem 26. Mai 2020 nach den die Richtlinie 90/385/EWG des Rates vom 20. Juni 1990 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über aktive implantierbare medizinische Geräte (ABl. L 189 vom 20.7.1990, S. 17) und die Richtlinie 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in Verkehr gebracht wurden und bis zum 27. Mai 2025 weiter auf dem Markt bereitgestellt oder in Betrieb genommen werden dürfen.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 10: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 11 – Betreiben und Anwenden von Produkten
+# § 11 – Betreiben und Anwenden von Produkten
 
 Produkte und Produkte nach § 2 Absatz 2 dürfen nicht betrieben oder angewendet werden, wenn sie Mängel aufweisen, durch die Patienten, Beschäftigte oder Dritte gefährdet werden können. Produkte und Produkte nach § 2 Absatz 2 dürfen nur nach Maßgabe der Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 6 betrieben und angewendet werden.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 11: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 12 – Verbote zum Schutz von Patienten, Anwendern und Dritten
+# § 12 – Verbote zum Schutz von Patienten, Anwendern und Dritten
 
 Es ist verboten, ein Produkt in den Verkehr zu bringen, in Betrieb zu nehmen, auf dem Markt bereitzustellen, zu betreiben oder anzuwenden, wenn
 
@@ -265,8 +250,7 @@ Es ist verboten, ein Produkt in den Verkehr zu bringen, in Betrieb zu nehmen, au
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 12: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 13 – Verbote zum Schutz vor Fälschungen und Täuschungen
+# § 13 – Verbote zum Schutz vor Fälschungen und Täuschungen
 
 (1) Es ist verboten, gefälschte Produkte sowie gefälschte Teile und Komponenten im Sinne von Artikel 23 der Verordnung (EU) 2017/745 herzustellen, zu lagern, in den Geltungsbereich dieses Gesetzes zu verbringen, zur Abgabe anzubieten, in den Verkehr zu bringen, in den Betrieb zu nehmen, auf dem Markt bereitzustellen oder aus dem Geltungsbereich dieses Gesetzes zu verbringen.
 
@@ -275,8 +259,7 @@ Es ist verboten, ein Produkt in den Verkehr zu bringen, in Betrieb zu nehmen, au
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 13: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 14 – Abgabe von Prüfprodukten
+# § 14 – Abgabe von Prüfprodukten
 
 Ein Prüfprodukt darf zum Zwecke der Durchführung einer klinischen Prüfung an Ärzte, Zahnärzte oder sonstige Personen, die auf Grund ihrer beruflichen Qualifikation zur Durchführung dieser Prüfungen befugt sind, nur abgegeben werden, wenn
 
@@ -287,8 +270,7 @@ Ein Prüfprodukt darf zum Zwecke der Durchführung einer klinischen Prüfung an 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 14: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 15 – Bereitstellen von Sonderanfertigungen auf dem Markt
+# § 15 – Bereitstellen von Sonderanfertigungen auf dem Markt
 
 Sonderanfertigungen dürfen nur auf dem Markt bereitgestellt werden, wenn sie
 
@@ -299,8 +281,7 @@ Sonderanfertigungen dürfen nur auf dem Markt bereitgestellt werden, wenn sie
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 15: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 16 – Ausstellen von Produkten
+# § 16 – Ausstellen von Produkten
 
 (1) Produkte, die nicht die Anforderungen der Verordnung (EU) 2017/745 erfüllen, dürfen nur ausgestellt werden, wenn ein gut sichtbares Schild ausdrücklich darauf hinweist, dass diese Produkte lediglich zu Ausstellungs- und Vorführzwecken bestimmt sind und erst bereitgestellt werden können, wenn ihre Konformität mit der Verordnung (EU) 2017/745 hergestellt ist.
 
@@ -309,8 +290,7 @@ Sonderanfertigungen dürfen nur auf dem Markt bereitgestellt werden, wenn sie
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 16: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 17 – Sprachenregelung für Konformitätsbewertungsstellen
+# § 17 – Sprachenregelung für Konformitätsbewertungsstellen
 
 In deutscher oder englischer Sprache haben die Konformitätsbewertungsstellen einzureichen:
 
@@ -321,8 +301,7 @@ In deutscher oder englischer Sprache haben die Konformitätsbewertungsstellen ei
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 17: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 18 – Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung
+# § 18 – Anerkennung von Prüflaboratorien; Widerruf und Rücknahme der Anerkennung
 
 (1) Ein Prüflaboratorium, das von einer Benannten Stelle nach Maßgabe von Artikel 37 Absatz 1 der Verordnung (EU) 2017/745 beauftragt wird, bestimmte Aufgaben im Zusammenhang mit Konformitätsbewertungen zu übernehmen, kann bei der für Benannte Stellen zuständigen Behörde die Anerkennung als Prüflaboratorium beantragen. Der Antrag und die für die Durchführung des Anerkennungsverfahrens erforderlichen Unterlagen sind in deutscher oder englischer Sprache einzureichen.
 
@@ -345,8 +324,7 @@ Die Einstellung des Betriebs oder der Verzicht sind der für Benannte Stellen zu
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 18: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 19 – Überwachung anerkannter Prüflaboratorien
+# § 19 – Überwachung anerkannter Prüflaboratorien
 
 (1) Die für Benannte Stellen zuständige Behörde überwacht die Einhaltung der auf die anerkannten Prüflaboratorien anwendbaren Anforderungen des Anhangs VII der Verordnung (EU) 2017/745.
 
@@ -357,8 +335,7 @@ Die Einstellung des Betriebs oder der Verzicht sind der für Benannte Stellen zu
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 19: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 20 – Benennung von Konformitätsbewertungsstellen für Drittstaaten; Widerruf und Rücknahme der Benennung
+# § 20 – Benennung von Konformitätsbewertungsstellen für Drittstaaten; Widerruf und Rücknahme der Benennung
 
 (1) Eine natürliche oder juristische Person oder eine rechtsfähige Personengesellschaft kann bei der für Benannte Stellen zuständigen Behörde die Benennung als Konformitätsbewertungsstelle für Drittstaaten im Bereich der Medizinprodukte im Rahmen eines Abkommens der Europäischen Gemeinschaft oder der Europäischen Union mit Drittstaaten oder Organisationen nach Artikel 216 des Vertrages über die Arbeitsweise der Europäischen Union beantragen. Der Antrag und die für die Durchführung des Benennungsverfahrens erforderlichen Unterlagen sind in deutscher oder englischer Sprache einzureichen.
 
@@ -383,8 +360,7 @@ Die Einstellung des Betriebs oder der Verzicht sind der für Benannte Stellen zu
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 20: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 21 – Überwachung benannter Konformitätsbewertungsstellen für Drittstaaten
+# § 21 – Überwachung benannter Konformitätsbewertungsstellen für Drittstaaten
 
 (1) Die für Benannte Stellen zuständige Behörde überwacht die Konformitätsbewertungsstellen für Drittstaaten.
 
@@ -397,40 +373,35 @@ Die Einstellung des Betriebs oder der Verzicht sind der für Benannte Stellen zu
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 21: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 22 – Befugnisse der für Benannte Stellen zuständigen Behörde
+# § 22 – Befugnisse der für Benannte Stellen zuständigen Behörde
 
 Die Beauftragten der für Benannte Stellen zuständigen Behörde sind befugt, zu den üblichen Betriebs- und Geschäftszeiten im Rahmen der Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, den §§ 19 und 21 Grundstücke und Geschäftsräume der Benannten Stellen, ihrer Zweigstellen und Unterauftragnehmer, der anerkannten Prüflaboratorien sowie der benannten Konformitätsbewertungsstellen für Drittstaaten zu betreten und zu besichtigen. Das Betretensrecht erstreckt sich auch auf Grundstücke und Geschäftsräume des Herstellers, soweit die Überwachung beim Hersteller erfolgt.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 22: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 23 – Auskunftsverweigerungsrecht
+# § 23 – Auskunftsverweigerungsrecht
 
 Eine Person, die im Rahmen der Überwachung nach Artikel 44 der Verordnung (EU) 2017/745, § 19 Absatz 3 oder § 21 Absatz 3 zur Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihr selbst oder einer ihrer in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen die Gefahr zuziehen würde, wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden. Die verpflichtete Person ist über ihr Recht zur Verweigerung der Auskunft zu belehren.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 23: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 24 – Allgemeine ergänzende Voraussetzungen
+# § 24 – Allgemeine ergänzende Voraussetzungen
 
 Über die Voraussetzungen der Verordnung (EU) 2017/745 hinaus darf eine klinische Prüfung von Produkten zu einem der in Artikel 62 Absatz 1 dieser Verordnung genannten Zwecke und über die Voraussetzungen des Artikels 82 Absatz 1 der Verordnung (EU) 2017/745 hinaus darf eine sonstige klinische Prüfung nur durchgeführt werden, wenn und solange die weiteren Voraussetzungen nach diesem Abschnitt vorliegen.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 24: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 25 – Sponsor oder rechtlicher Vertreter des Sponsors
+# § 25 – Sponsor oder rechtlicher Vertreter des Sponsors
 
 Bei ausschließlich national durchgeführten oder bei national und in Drittstaaten durchgeführten klinischen Prüfungen und sonstigen klinischen Prüfungen muss ein Sponsor oder ein rechtlicher Vertreter des Sponsors im Sinne von Artikel 62 Absatz 2 Unterabsatz 1 der Verordnung (EU) 2017/745 vorhanden sein, der seinen Sitz in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 25: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 26 – Versicherungsschutz
+# § 26 – Versicherungsschutz
 
 (1) Zugunsten der von einer klinischen Prüfung oder einer sonstigen klinischen Prüfung betroffenen Personen ist eine Versicherung bei einem Versicherer, der in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum Geschäftsbetrieb zugelassen ist, abzuschließen.
 
@@ -443,16 +414,14 @@ Bei ausschließlich national durchgeführten oder bei national und in Drittstaat
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 26: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 27 – Verbot der Durchführung bei untergebrachten Personen
+# § 27 – Verbot der Durchführung bei untergebrachten Personen
 
 Die Person, bei der eine klinische Prüfung oder eine sonstige klinische Prüfung durchgeführt werden soll, darf nicht auf Grund einer behördlichen Anordnung oder einer gerichtlichen Anordnung oder Genehmigung freiheitsentziehend untergebracht sein.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 27: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 28 – Einwilligung in die Teilnahme
+# § 28 – Einwilligung in die Teilnahme
 
 (1) Ergänzend zu den Artikeln 63 und 82 Absatz 1 der Verordnung (EU) 2017/745 gelten für die Einwilligung des Prüfungsteilnehmers oder, falls dieser nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, seines gesetzlichen oder rechtsgeschäftlichen Vertreters die Vorgaben nach den Absätzen 2 bis 6.
 
@@ -473,8 +442,7 @@ Die Person, bei der eine klinische Prüfung oder eine sonstige klinische Prüfun
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 28: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 29 – Einwilligung in die Verarbeitung personenbezogener Daten
+# § 29 – Einwilligung in die Verarbeitung personenbezogener Daten
 
 Der Prüfungsteilnehmer oder, falls dieser nicht in der Lage ist, eine Einwilligung nach Aufklärung zu erteilen, sein gesetzlicher oder rechtsgeschäftlicher Vertreter muss ausdrücklich schriftlich oder elektronisch in die mit der Teilnahme an einer klinischen Prüfung oder einer sonstigen klinischen Prüfung verbundene Verarbeitung von personenbezogenen Daten, insbesondere von Gesundheitsdaten, einwilligen. Er ist über Zweck und Umfang der Verarbeitung dieser Daten aufzuklären, insbesondere darüber, dass
 
@@ -501,8 +469,7 @@ b) sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer nicht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 29: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 30 – Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung oder sonstigen klinischen Prüfung
+# § 30 – Prüfer, Hauptprüfer und Leiter einer klinischen Prüfung oder sonstigen klinischen Prüfung
 
 (1) Soll eine klinische Prüfung oder sonstige klinische Prüfung von mehreren Prüfern in einer Prüfstelle durchgeführt werden, so bestimmt der Sponsor einen Prüfer als Hauptprüfer. Soll die klinische Prüfung oder sonstige klinische Prüfung in Deutschland in mehreren Prüfstellen durchgeführt werden, so bestimmt der Sponsor einen Leiter der klinischen Prüfung oder sonstigen klinischen Prüfung.
 
@@ -523,8 +490,7 @@ b) sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer nicht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 30: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 31 – Beginn einer klinischen Prüfung
+# § 31 – Beginn einer klinischen Prüfung
 
 (1) Eine klinische Prüfung von Produkten, die nach den Klassifizierungsregeln des Anhangs VIII Kapitel III der Verordnung (EU) 2017/745 der Klasse I zugeordnet sind, oder von nicht invasiven Produkten, die nach den Klassifizierungsregeln des Anhangs VIII Kapitel III der Verordnung (EU) 2017/745 der Klasse IIa zugeordnet sind, darf erst begonnen werden, wenn
 
@@ -541,8 +507,7 @@ b) sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer nicht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 31: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 32 – Anforderungen an die Ethik-Kommissionen
+# § 32 – Anforderungen an die Ethik-Kommissionen
 
 (1) Stellungnahmen nach Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU) 2017/745 dürfen nur öffentlich-rechtliche, nach Landesrecht gebildete Ethik-Kommissionen abgeben, die den Anforderungen nach den Absätzen 2 bis 4 entsprechen.
 
@@ -579,8 +544,7 @@ b) sicherzustellen, dass schutzwürdige Interessen der Prüfungsteilnehmer nicht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 32: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 33 – Antrag bei der Ethik-Kommission
+# § 33 – Antrag bei der Ethik-Kommission
 
 (1) Die nach Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU) 2017/745 erforderliche Stellungnahme einer Ethik-Kommission ist vom Sponsor über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 zu beantragen bei
 
@@ -603,8 +567,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 33: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 34 – Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
+# § 34 – Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission prüft, ob der Antrag ordnungsgemäß ist.
 
@@ -615,8 +578,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 34: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 35 – Ethische Bewertung der beantragten klinischen Prüfung
+# § 35 – Ethische Bewertung der beantragten klinischen Prüfung
 
 (1) Die zuständige Ethik-Kommission hat die Aufgabe, den Prüfplan und die erforderlichen Unterlagen insbesondere unter ethischen und rechtlichen Gesichtspunkten zu beraten und zu prüfen, ob folgende Voraussetzungen erfüllt werden:
 
@@ -633,8 +595,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 35: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 36 – Frist zur Stellungnahme der Ethik-Kommission
+# § 36 – Frist zur Stellungnahme der Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission übermittelt dem Sponsor ihre Stellungnahme innerhalb einer Frist von 30 Tagen nach Eingang des ordnungsgemäßen Antrags.
 
@@ -645,8 +606,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 36: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 37 – Stellungnahme der Ethik-Kommission
+# § 37 – Stellungnahme der Ethik-Kommission
 
 (1) Die Stellungnahme der zuständigen Ethik-Kommission muss ein eindeutiges Votum im Sinne einer Zustimmung oder Ablehnung enthalten.
 
@@ -662,8 +622,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 37: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 38 – Antrag
+# § 38 – Antrag
 
 (1) Der Antrag nach Artikel 70 Absatz 1 der Verordnung (EU) 2017/745 ist vom Sponsor bei der zuständigen Bundesoberbehörde in deutscher oder englischer Sprache zu stellen. Der Antrag muss die in Anhang XV Kapitel II der Verordnung (EU) 2017/745 genannten Angaben und Unterlagen sowie die Stellungnahme der zuständigen Ethik-Kommission enthalten. Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder rechtsgeschäftlichen Vertreter bestimmt sind, sind in deutscher Sprache einzureichen.
 
@@ -672,8 +631,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 38: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 39 – Umfang der Prüfung des Antrags
+# § 39 – Umfang der Prüfung des Antrags
 
 (1) Die zuständige Bundesoberbehörde prüft bei klinischen Prüfungen den Prüfplan und die erforderlichen Unterlagen nach Maßgabe des Artikels 71 Absatz 1 bis 3 der Verordnung (EU) 2017/745 mit Ausnahme der in Artikel 62 Absatz 4 Buchstabe c, d, f bis k, Absatz 6 und 7 der Verordnung (EU) 2017/745 genannten Aspekte.
 
@@ -684,16 +642,14 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 39: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 40 – Zugang der Ethik-Kommission zu Mitteilungen
+# § 40 – Zugang der Ethik-Kommission zu Mitteilungen
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht der nach § 33 Absatz 1 zuständigen Ethik-Kommission in geeigneter Form den unverzüglichen Zugang zu der Mitteilung des Sponsors über eine wesentliche Änderung nach Artikel 75 der Verordnung (EU) 2017/745.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 40: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 41 – Stellungnahme der Ethik-Kommission
+# § 41 – Stellungnahme der Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission prüft die wesentliche Änderung entsprechend § 35 Absatz 1.
 
@@ -708,16 +664,14 @@ Das Bundesinstitut für Arzneimittel und Medizinprodukte ermöglicht der nach §
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 41: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 42 – Entscheidung der Bundesoberbehörde
+# § 42 – Entscheidung der Bundesoberbehörde
 
 Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75 Absatz 3 Buchstabe a der Verordnung (EU) 2017/745 genannten Gründe eine wesentliche Änderung der klinischen Prüfung ab, unterrichtet sie den Sponsor innerhalb von 37 Tagen nach Erhalt der Mitteilung über eine wesentliche Änderung. Die Frist verlängert sich um sieben Tage, wenn sich die zuständige Bundesoberbehörde durch Sachverständige beraten lässt. In diesem Fall teilt sie dem Sponsor spätestens 20 Tage nach Erhalt der Mitteilung über die wesentliche Änderung mit, dass sich die Frist auf Grund der Beratung durch Sachverständige verlängert, und weist zugleich darauf hin, dass sich damit auch die Frist nach Artikel 75 Absatz 3 der Verordnung (EU) 2017/745 entsprechend verlängert.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 42: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 43 – Korrekturmaßnahmen der Ethik-Kommission
+# § 43 – Korrekturmaßnahmen der Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission hat ihre zustimmende Stellungnahme zurückzunehmen, wenn sie davon Kenntnis erlangt, dass zum Zeitpunkt der Abgabe der Stellungnahme ein Ablehnungsgrund nach § 37 Absatz 2 Nummer 2 oder 3 vorgelegen hat. Sie hat ihre zustimmende Stellungnahme zu widerrufen, wenn sie Kenntnis erlangt, dass nachträglich Tatsachen eingetreten sind, die eine Ablehnung nach § 37 Absatz 2 Nummer 2 oder 3 rechtfertigen. Im Übrigen bleiben die den §§ 48 und 49 des Verwaltungsverfahrensgesetzes entsprechenden landesgesetzlichen Vorschriften unberührt.
 
@@ -728,8 +682,7 @@ Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75 Absatz 3 Bu
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 43: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 44 – Korrekturmaßnahmen der Bundesoberbehörde
+# § 44 – Korrekturmaßnahmen der Bundesoberbehörde
 
 (1) Die zuständige Bundesoberbehörde hat für alle Meldungen nach Artikel 80 Absatz 2 und 3 der Verordnung (EU) 2017/745 eine Bewertung vorzunehmen und insbesondere festzustellen, ob Korrekturmaßnahmen zu veranlassen sind.
 
@@ -738,8 +691,7 @@ Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75 Absatz 3 Bu
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 44: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 45 – Weitere Vorgaben für Korrekturmaßnahmen der Bundesoberbehörde
+# § 45 – Weitere Vorgaben für Korrekturmaßnahmen der Bundesoberbehörde
 
 (1) Die Genehmigung einer klinischen Prüfung ist zurückzunehmen, wenn bekannt wird, dass bei der Erteilung der Genehmigung ein Versagungsgrund nach Artikel 71 Absatz 4 Buchstabe b, c oder d der Verordnung (EU) 2017/745 vorlag, der die von der zuständigen Bundesoberbehörde nach § 39 Absatz 1 zu prüfenden Aspekte betrifft. In diesen Fällen kann auch das Ruhen der Genehmigung befristet angeordnet werden. Im Übrigen bleibt § 48 des Verwaltungsverfahrensgesetzes unberührt.
 
@@ -757,8 +709,7 @@ Lehnt die zuständige Bundesoberbehörde aus einem der in Artikel 75 Absatz 3 Bu
 (+++ § 45: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)  
 § 45 Abs. 1 Satz 1 u. Abs. 2 Satz 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "Bundesoberhörde" durch das Wort "Bundesoberbehörde" ersetzt
 
-
-## § 46 – Verbot der Fortsetzung
+# § 46 – Verbot der Fortsetzung
 
 Die klinische Prüfung darf nicht fortgesetzt werden, wenn
 
@@ -771,8 +722,7 @@ Die klinische Prüfung darf nicht fortgesetzt werden, wenn
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 46: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 47 – Anforderungen an sonstige klinische Prüfungen
+# § 47 – Anforderungen an sonstige klinische Prüfungen
 
 (1) Eine sonstige klinische Prüfung eines Produktes darf auch bei Vorliegen der Voraussetzungen des Artikels 82 Absatz 1 der Verordnung (EU) 2017/745 und des Abschnitts 1 nur durchgeführt werden, wenn und solange
 
@@ -801,8 +751,7 @@ Die klinische Prüfung darf nicht fortgesetzt werden, wenn
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 47: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 48 – Antrag bei der Ethik-Kommission
+# § 48 – Antrag bei der Ethik-Kommission
 
 (1) Die nach Artikel 82 Absatz 1 in Verbindung mit Artikel 62 Absatz 4 Buchstabe b der Verordnung (EU) 2017/745 erforderliche Stellungnahme einer Ethik-Kommission ist vom Sponsor über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 vor der Erstattung einer Anzeige nach § 53 zu beantragen
 
@@ -827,8 +776,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 48: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 49 – Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
+# § 49 – Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission prüft, ob der Antrag ordnungsgemäß ist.
 
@@ -839,8 +787,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 49: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 50 – Ethische Bewertung der beantragten sonstigen klinischen Prüfung
+# § 50 – Ethische Bewertung der beantragten sonstigen klinischen Prüfung
 
 (1) Die zuständige Ethik-Kommission hat die Aufgabe, den Prüfplan und die erforderlichen Unterlagen insbesondere unter ethischen und rechtlichen Gesichtspunkten zu beraten und zu prüfen, ob die Voraussetzungen nach Abschnitt 1 und § 47 Absatz 1 sowie nach Artikel 62 Absatz 3 Unterabsatz 1, Absatz 4 Buchstabe c, d, f, h und Absatz 6 der Verordnung (EU) 2017/745 erfüllt werden.
 
@@ -853,8 +800,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 50: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 51 – Frist zur Stellungnahme der Ethik-Kommission
+# § 51 – Frist zur Stellungnahme der Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission übermittelt dem Sponsor ihre Stellungnahme innerhalb einer Frist von 30 Tagen nach Eingang des ordnungsgemäßen Antrags.
 
@@ -865,8 +811,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 51: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 52 – Stellungnahme der Ethik-Kommission
+# § 52 – Stellungnahme der Ethik-Kommission
 
 (1) Die Stellungnahme der zuständigen Ethik-Kommission muss ein klares Votum im Sinne einer Zustimmung oder Ablehnung enthalten.
 
@@ -882,8 +827,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 52: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 53 – Anzeige einer sonstigen klinischen Prüfung bei der zuständigen Bundesoberbehörde
+# § 53 – Anzeige einer sonstigen klinischen Prüfung bei der zuständigen Bundesoberbehörde
 
 (1) Eine sonstige klinische Prüfung ist nach § 47 Absatz 2 Nummer 2 vom Sponsor bei der zuständigen Bundesoberbehörde über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 anzuzeigen.
 
@@ -894,8 +838,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 53: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 54 – Anzeige von Änderungen
+# § 54 – Anzeige von Änderungen
 
 (1) Der Sponsor hat Änderungen in den nach § 48 Absatz 2 und § 53 Absatz 2 eingereichten Unterlagen der zuständigen Bundesoberbehörde und der zuständigen Ethik-Kommission über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 unverzüglich anzuzeigen. Mit der Anzeige übermittelt der Sponsor eine aktualisierte Fassung der betreffenden Angaben und Unterlagen und kennzeichnet die Änderungen in aktualisierten Unterlagen eindeutig.
 
@@ -904,8 +847,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 54: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 55 – Antrag bei der Ethik-Kommission bei wesentlichen Änderungen
+# § 55 – Antrag bei der Ethik-Kommission bei wesentlichen Änderungen
 
 (1) Beabsichtigt der Sponsor eine Änderung, die wahrscheinlich wesentliche Auswirkungen auf die Sicherheit, die Gesundheit oder die Rechte der Prüfungsteilnehmer haben wird, beantragt der Sponsor bei der zuständigen Ethik-Kommission über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 eine Stellungnahme zu der angezeigten Änderung. Der Antrag muss unter Vorlage der aktualisierten Unterlagen nach § 54 Absatz 1 und unter Angabe der Gründe für die Änderung erfolgen.
 
@@ -914,8 +856,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 55: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 56 – Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
+# § 56 – Prüfung der Ordnungsmäßigkeit des Antrags durch die Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission prüft, ob der Antrag vollständig und ordnungsgemäß ist.
 
@@ -926,8 +867,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 56: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 57 – Prüfung der beantragten wesentlichen Änderungen
+# § 57 – Prüfung der beantragten wesentlichen Änderungen
 
 (1) Die zuständige Ethik-Kommission prüft die wesentliche Änderung entsprechend § 50 Absatz 1.
 
@@ -938,8 +878,7 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 57: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 58 – Frist zur Stellungnahme der Ethik-Kommission bei wesentlichen Änderungen
+# § 58 – Frist zur Stellungnahme der Ethik-Kommission bei wesentlichen Änderungen
 
 (1) Die zuständige Ethik-Kommission nimmt gegenüber dem Sponsor innerhalb von 37 Tagen nach Eingang eines ordnungsgemäßen Änderungsantrags Stellung. Werden zusätzliche Informationen angefordert, ist der Ablauf der Frist vom Zeitpunkt der Absendung des Informationsersuchens nach § 57 Absatz 2 Satz 1 bis zum Eingang der zusätzlichen Informationen gehemmt.
 
@@ -950,16 +889,14 @@ Unterlagen, die für den Prüfungsteilnehmer oder seinen gesetzlichen oder recht
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 58: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 59 – Vornahme von wesentlichen Änderungen
+# § 59 – Vornahme von wesentlichen Änderungen
 
 Der Sponsor darf die beantragte wesentliche Änderung frühestens 38 Tage nach Erhalt der Mitteilung der zuständigen Ethik-Kommission über den Eingang des ordnungsgemäßen Antrags vornehmen, es sei denn, die zuständige Ethik-Kommission hat innerhalb der Frist nach § 51 Absatz 1 eine ablehnende Stellungnahme abgegeben.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 59: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 60 – Korrekturmaßnahmen der Ethik-Kommission
+# § 60 – Korrekturmaßnahmen der Ethik-Kommission
 
 (1) Die zuständige Ethik-Kommission hat ihre zustimmende Stellungnahme zurückzunehmen, wenn sie nachträglich davon Kenntnis erlangt, dass zum Zeitpunkt der Abgabe der Stellungnahme ein Ablehnungsgrund nach § 52 Absatz 2 Nummer 2 oder 3 vorgelegen hat. Im Übrigen bleibt die § 48 des Verwaltungsverfahrensgesetzes entsprechende landesgesetzliche Vorschrift unberührt.
 
@@ -972,16 +909,14 @@ Der Sponsor darf die beantragte wesentliche Änderung frühestens 38 Tage nach E
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 60: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 61 – Verbot der Fortsetzung
+# § 61 – Verbot der Fortsetzung
 
 Die sonstige klinische Prüfung darf nicht fortgesetzt werden, wenn die Stellungnahme der zuständigen Ethik-Kommission zurückgenommen oder widerrufen wurde.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 61: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 62 – Pflichten des Prüfers oder Hauptprüfers
+# § 62 – Pflichten des Prüfers oder Hauptprüfers
 
 (1) Der Prüfer oder Hauptprüfer stellt sicher, dass
 
@@ -1006,8 +941,7 @@ b) gegen unbefugten oder unrechtmäßigen Zugriff, unbefugte und unrechtmäßige
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 62: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 63 – Meldepflichten des Prüfers oder Hauptprüfers
+# § 63 – Meldepflichten des Prüfers oder Hauptprüfers
 
 Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder sonstigen klinischen Prüfung unverzüglich
 
@@ -1018,8 +952,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 63: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 64 – Melde- und Mitteilungspflichten des Sponsors bei einer sonstigen klinischen Prüfung
+# § 64 – Melde- und Mitteilungspflichten des Sponsors bei einer sonstigen klinischen Prüfung
 
 (1) Der Sponsor meldet über das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 der zuständigen Bundesoberbehörde unverzüglich
 
@@ -1034,8 +967,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 64: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 65 – Verarbeitung und Pseudonymisierung personenbezogener Daten
+# § 65 – Verarbeitung und Pseudonymisierung personenbezogener Daten
 
 (1) Die zuständigen Behörden dürfen personenbezogene Daten von Sponsoren, Prüfern, Hauptprüfern, Leitern von klinischen Prüfungen oder sonstigen klinischen Prüfungen verarbeiten, soweit dies zur Erfüllung ihrer Überwachungsaufgaben nach den §§ 68 und 69 erforderlich ist.
 
@@ -1050,8 +982,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 65: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 66 – Eigenverantwortliche korrektive Maßnahmen
+# § 66 – Eigenverantwortliche korrektive Maßnahmen
 
 (1) Treten während einer klinischen Prüfung oder einer sonstigen klinischen Prüfung Umstände auf, die die Sicherheit der Prüfungsteilnehmer, der Anwender oder Dritter beeinträchtigen können, ergreifen der Sponsor sowie der Prüfer oder Hauptprüfer, der die klinische Prüfung oder die sonstige klinische Prüfung durchführt, unverzüglich alle erforderlichen Sicherheitsmaßnahmen, um die Prüfungsteilnehmer, Anwender oder Dritte vor unmittelbarer oder mittelbarer Gefahr zu schützen.
 
@@ -1060,8 +991,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 66: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 67 – Informationsaustausch
+# § 67 – Informationsaustausch
 
 Über Meldungen, die nach Artikel 80 Absatz 2 Buchstabe a der Verordnung (EU) 2017/745 oder § 64 Absatz 1 Nummer 1 eingehen, informiert das Bundesinstitut für Arzneimittel und Medizinprodukte die Behörden, die zuständig sind
 
@@ -1074,8 +1004,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 67: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 68 – Überwachung von klinischen Prüfungen und sonstigen klinischen Prüfungen durch die zuständige Behörde
+# § 68 – Überwachung von klinischen Prüfungen und sonstigen klinischen Prüfungen durch die zuständige Behörde
 
 (1) Die zuständige Behörde überprüft in angemessenem Umfang, ob Betriebe und Einrichtungen, die Produkte klinisch prüfen, und Sponsoren die Verpflichtungen, die ihnen nach der Verordnung (EU) 2017/745 sowie nach diesem Gesetz und den auf seiner Grundlage erlassenen Rechtsverordnungen obliegen, einhalten und ob die klinische Prüfung oder sonstige klinische Prüfung gemäß dem genehmigten, zustimmend bewerteten oder angezeigten Prüfplan durchgeführt wird. Sie überwacht die vom Sponsor nach § 66 durchgeführten Maßnahmen.
 
@@ -1087,8 +1016,7 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ § 68: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)  
 § 68 Abs. 3 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort "angeordnetete" durch das Wort "angeordnete" ersetzt
 
-
-## § 69 – Korrekturmaßnahmen der Bundesoberbehörden
+# § 69 – Korrekturmaßnahmen der Bundesoberbehörden
 
 (1) Die zuständige Bundesoberbehörde bewertet die Meldungen nach § 64, um festzustellen, ob die Fortführung einer sonstigen klinischen Prüfung ein unvertretbares Risiko für die Gesundheit und Sicherheit der Prüfungsteilnehmer, der Anwender oder anderer Personen darstellt. Sie bewertet ferner, ob vom Sponsor oder Prüfer eigenverantwortlich durchgeführte Maßnahmen zur Beseitigung oder Verringerung des unvertretbaren Risikos ausreichend sind. Die zuständige Bundesoberbehörde kann vom Sponsor oder Prüfer alle für die Sachverhaltsaufklärung oder Risikobewertung erforderlichen Auskünfte und Unterlagen verlangen. Die zuständige Bundesoberbehörde informiert die zuständige Ethik-Kommission über das Ergebnis ihrer Risikobewertung sowie über etwaige ihr bekannt gewordene Tatsachen, die die Annahme rechtfertigen, dass die Voraussetzungen des Artikels 82 Absatz 1 der Verordnung (EU) 2017/745 oder des § 47 Absatz 1 nicht mehr gegeben sind.
 
@@ -1103,16 +1031,14 @@ Der Prüfer oder Hauptprüfer meldet dem Sponsor einer klinischen Prüfung oder 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 69: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 70 – Kontaktstelle
+# § 70 – Kontaktstelle
 
 Die Kontaktstelle im Sinne des Artikels 62 Absatz 4 Buchstabe g der Verordnung (EU) 2017/745 ist bei der nach § 85 zuständigen Bundesoberbehörde einzurichten.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 70: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 71 – Durchführung der Vigilanzaufgaben
+# § 71 – Durchführung der Vigilanzaufgaben
 
 (1) Die zuständige Bundesoberbehörde nimmt die Aufgaben nach den Artikeln 87 bis 90 der Verordnung (EU) 2017/745 zentral wahr, soweit nicht nach dem Atomgesetz, dem Strahlenschutzgesetz oder einer auf Grund des Atomgesetzes oder des Strahlenschutzgesetzes erlassenen Rechtsverordnung für Medizinprodukte, die ionisierende Strahlen erzeugen oder radioaktive Stoffe enthalten, eine andere Behörde zuständig ist.
 
@@ -1139,8 +1065,7 @@ Die zuständige Bundesoberbehörde hat wissenschaftliche Untersuchungen durchzuf
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 71: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 72 – Zusammenarbeit und Mitwirkungspflichten im Rahmen der Risikobewertung
+# § 72 – Zusammenarbeit und Mitwirkungspflichten im Rahmen der Risikobewertung
 
 (1) Die zuständige Bundesoberbehörde nimmt ihre Risikobewertung möglichst in Zusammenarbeit mit dem Hersteller vor.
 
@@ -1159,8 +1084,7 @@ Die zuständige Bundesoberbehörde hat wissenschaftliche Untersuchungen durchzuf
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 72: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 73 – Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung
+# § 73 – Ergänzende Herstellerpflichten im Rahmen der Vigilanz; Sprachenregelung
 
 (1) Ergreifen Hersteller im Geltungsbereich dieses Gesetzes Sicherheitskorrekturmaßnahmen, sind die Sicherheitsanweisungen im Feld nach Artikel 89 Absatz 8 der Verordnung (EU) 2017/745 in deutscher Sprache abzufassen.
 
@@ -1169,8 +1093,7 @@ Die zuständige Bundesoberbehörde hat wissenschaftliche Untersuchungen durchzuf
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 73: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 74 – Verfahren zum Schutz vor Risiken
+# § 74 – Verfahren zum Schutz vor Risiken
 
 (1) Kommt die zuständige Bundesoberbehörde nach Durchführung der Risikobewertung zu dem Schluss, dass von dem Produkt ein unvertretbares Risiko ausgeht, fordert sie die betroffenen Wirtschaftsakteure auf, alle Korrekturmaßnahmen zu ergreifen, die zum Schutz der Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte erforderlich sind und teilt das Ergebnis der Risikobewertung der zuständigen Behörde mit. Ergreift der betroffene Wirtschaftsakteur keine angemessenen Korrekturmaßnahmen, führt die zuständige Behörde eine Bewertung nach Artikel 94 der Verordnung (EU) 2017/745 durch und trifft nach Maßgabe von Artikel 95 der Verordnung (EU) 2017/745 alle Maßnahmen, die zum Schutz der Gesundheit oder Sicherheit von Patienten, Anwendern oder anderen Personen oder zum Schutz der öffentlichen Gesundheit vor Gefahren durch Produkte erforderlich sind. Die zuständige Behörde sorgt für die Mitteilung nach Artikel 95 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2017/745.
 
@@ -1197,16 +1120,14 @@ Die zuständige Bundesoberbehörde hat wissenschaftliche Untersuchungen durchzuf
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 74: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 75 – Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745
+# § 75 – Maßnahmen eines anderen Mitgliedstaats nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745
 
 Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen Wirtschaftsakteur nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745, teilt die zuständige Bundesoberbehörde der Europäischen Kommission und den anderen Mitgliedstaaten alle nach Artikel 95 Absatz 6 Unterabsatz 1 der Verordnung (EU) 2017/745 erforderlichen Informationen mit.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 75: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 76 – Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745
+# § 76 – Verfahren zur Erhebung von Einwänden nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 gegen Maßnahmen eines anderen Mitgliedstaats und zur Verhängung von Maßnahmen nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745
 
 (1) Hat ein anderer Mitgliedstaat der Europäischen Union gegenüber einem Wirtschaftsakteur Maßnahmen nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 angeordnet, entscheidet die zuständige Bundesoberbehörde im Einvernehmen mit der zuständigen Behörde, ob dagegen Einwände nach Artikel 95 Absatz 6 Unterabsatz 2 der Verordnung (EU) 2017/745 zu erheben sind.
 
@@ -1217,8 +1138,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 76: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 77 – Durchführung der Überwachung
+# § 77 – Durchführung der Überwachung
 
 (1) Der Überwachung durch die zuständigen Behörden unterliegen
 
@@ -1248,8 +1168,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 77: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 78 – Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten
+# § 78 – Anordnungsbefugnisse der zuständigen Behörden im Rahmen der Überwachung; Informationspflichten
 
 (1) Unbeschadet der Vorschriften der Verordnung (EU) 2017/745 zur Marktüberwachung und des § 74 Absatz 1 Satz 2 und Absatz 2 ergreift die zuständige Behörde die Maßnahmen, die notwendig sind, um einen Verstoß zu beseitigen und künftigen Verstößen vorzubeugen. Die zuständige Behörde ist insbesondere befugt
 
@@ -1272,8 +1191,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 78: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 79 – Behördliche Befugnisse im Rahmen der Durchführung der Vigilanz und der Überwachung
+# § 79 – Behördliche Befugnisse im Rahmen der Durchführung der Vigilanz und der Überwachung
 
 (1) Die mit der Risikobewertung und der Überwachung beauftragten Personen sind befugt,
 
@@ -1295,8 +1213,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 79: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 80 – Duldungs- und Mitwirkungspflichten im Rahmen der Vigilanz und der Überwachung; Auskunftsverweigerungsrecht
+# § 80 – Duldungs- und Mitwirkungspflichten im Rahmen der Vigilanz und der Überwachung; Auskunftsverweigerungsrecht
 
 (1) Wer der Überwachung nach § 77 Absatz 1 unterliegt, hat Maßnahmen nach § 79 Absatz 1 zu dulden und ist verpflichtet, die beauftragten Personen sowie die sonstigen in der Überwachung tätigen Personen bei der Erfüllung ihrer Aufgaben zu unterstützen, insbesondere diesen Personen die Produkte zugänglich zu machen, erforderliche Prüfungen zu gestatten, hierfür benötigte Mitarbeiter und Hilfsmittel bereitzustellen, Auskünfte zu erteilen und Unterlagen vorzulegen. Satz 1 gilt für die in § 72 Absatz 4 genannten Personen im Rahmen der Risikobewertung.
 
@@ -1305,8 +1222,7 @@ Trifft ein anderer Mitgliedstaat der Europäischen Union Maßnahmen gegen einen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 80: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 81 – Zuständige Behörden für die Meldepflichten der Importeure und Händler
+# § 81 – Zuständige Behörden für die Meldepflichten der Importeure und Händler
 
 In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2 Unterabsatz 2 oder Absatz 7 der Verordnung (EU) 2017/745 informiert der Importeur und in Erfüllung der Informationspflichten nach Artikel 14 Absatz 2 Unterabsatz 2 und Absatz 4 der Verordnung (EU) 2017/745 informiert der Händler
 
@@ -1317,8 +1233,7 @@ In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2 Unterabsatz 2 o
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 81: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 82 – Präventive Gesundheitsschutzmaßnahmen
+# § 82 – Präventive Gesundheitsschutzmaßnahmen
 
 (1) Präventive Gesundheitsschutzmaßnahmen nach Artikel 98 der Verordnung (EU) 2017/745 trifft das Bundesministerium für Gesundheit durch Rechtsverordnung nach § 88 Absatz 2, soweit die Gesundheitsschutzmaßnahme die Untersagung, Beschränkung oder die sonstige Beauflagung der Bereitstellung auf dem Markt oder die Inbetriebnahme von betroffenen Produkten oder Produktkategorien betrifft.
 
@@ -1329,8 +1244,7 @@ In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2 Unterabsatz 2 o
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 82: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 83 – Medizinprodukteberater
+# § 83 – Medizinprodukteberater
 
 (1) Wer berufsmäßig Fachkreise fachlich informiert oder in die sachgerechte Handhabung der Medizinprodukte einweist (Medizinprodukteberater), darf diese Tätigkeit nur ausüben, wenn er die für die jeweiligen Medizinprodukte erforderliche Sachkenntnis und Erfahrung für die Information und, soweit erforderlich, für die Einweisung in die Handhabung der jeweiligen Medizinprodukte besitzt. Dies gilt auch für die fernmündliche Information.
 
@@ -1347,8 +1261,7 @@ In Erfüllung der Informationspflichten nach Artikel 13 Absatz 2 Unterabsatz 2 o
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 83: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 84 – Beratungspflichten der zuständigen Bundesoberbehörde
+# § 84 – Beratungspflichten der zuständigen Bundesoberbehörde
 
 Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, Hersteller, Bevollmächtigte, Importeure, Sponsoren und Benannte Stellen in Fragen der Sicherheit von Produkten zu beraten. Die Beratung der zuständigen Behörden umfasst auch Fragen der klinischen Bewertung, des klinischen Nachweises einschließlich der Bewertung des Nutzen-Risiko-Verhältnisses sowie Fragen der Bewertung von Risiken gefälschter Produkte.
 
@@ -1356,8 +1269,7 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 84: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 85 – Zuständigkeiten und Aufgaben der Behörden
+# § 85 – Zuständigkeiten und Aufgaben der Behörden
 
 (1) Zuständige Behörden im Sinne der Verordnung (EU) 2017/745 und dieses Gesetzes sind, soweit in den Absätzen 2 bis 6 nichts anderes bestimmt ist, die Behörden der Länder.
 
@@ -1391,8 +1303,7 @@ Die zuständige Bundesoberbehörde hat die Aufgabe, die zuständigen Behörden, 
 
 13. die Bewertung von Maßnahmen, die andere Mitgliedstaaten der Europäischen Union nach Artikel 95 Absatz 4 der Verordnung (EU) 2017/745 ergriffen haben, einschließlich der Informationsübermittlung nach Artikel 95 Absatz 6 der Verordnung (EU) 2017/745 und der Erhebung von Einwänden nach Artikel 95 Absatz 7 der Verordnung (EU) 2017/745,
 
-13a.  
-die Anordnung von Maßnahmen nach § 82 Absatz 3,
+13a. die Anordnung von Maßnahmen nach § 82 Absatz 3,
 
 14. die zentrale Erfassung von Meldungen der Angehörigen der Gesundheitsberufe, der Anwender und Patienten nach Artikel 87 Absatz 10 Unterabsatz 2 der Verordnung (EU) 2017/745 sowie die Durchführung der Verfahren nach Artikel 87 Absatz 11 der Verordnung (EU) 2017/745 in Verbindung mit der Rechtsverordnung nach § 88 Absatz 1 Satz 1 Nummer 7,
 
@@ -1420,8 +1331,7 @@ die Anordnung von Maßnahmen nach § 82 Absatz 3,
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 85: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 86 – Deutsches Medizinprodukteinformations- und Datenbanksystem
+# § 86 – Deutsches Medizinprodukteinformations- und Datenbanksystem
 
 (1) Das Deutsche Medizinprodukteinformations- und Datenbanksystem (DMIDS) dient insbesondere für
 
@@ -1479,8 +1389,7 @@ Die volle Funktionalität des Deutschen Medizinprodukteinformations- und Datenba
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 86: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 87 – Gebühren und Auslagen; Verordnungsermächtigung
+# § 87 – Gebühren und Auslagen; Verordnungsermächtigung
 
 (1) Für individuell zurechenbare öffentliche Leistungen nach der Verordnung (EU) 2017/745, nach diesem Gesetz sowie nach den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen sind Gebühren und Auslagen nach Maßgabe der Rechtsverordnung nach Absatz 2 zu erheben.
 
@@ -1490,8 +1399,7 @@ Die volle Funktionalität des Deutschen Medizinprodukteinformations- und Datenba
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 87: Inkraft gem. Art. 17 Abs. 3 Nr. 1 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 3 G v. 19.5.2020 I 1018 mWv 23.5.2020 +++)
 
-
-## § 88 – Verordnungsermächtigungen
+# § 88 – Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit, soweit Fragen des Schutzes vor ionisierender oder nichtionisierender Strahlung betroffen sind oder wenn die Regelungen Medizinprodukte betreffen, bei deren Herstellung radioaktive Stoffe oder ionisierende Strahlen verwendet werden, mit dem Bundesministerium für Arbeit und Soziales, soweit Fragen des Arbeitsschutzes betroffen sind, und mit dem Bundesministerium des Innern, für Bau und Heimat, soweit Fragen des Datenschutzes oder der Informationssicherheit betroffen sind, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
@@ -1599,8 +1507,7 @@ Die Rechtsverordnungen nach Satz 1 Nummer 2 bis 4 können ohne Zustimmung des Bu
 (+++ § 88 (Kap. 7): Zur Anwendung vgl. § 99 Abs. 1 Eingangssatz iVm Abs. 1 Nr. 6 +++)  
 (+++ § 88: Inkraft gem. Art. 17 Abs. 1 Satz 1 Nr. 1 G v. 28.4.2020 I 960 mWv 23.5.2020 +++)
 
-
-## § 89 – Allgemeine Verwaltungsvorschriften
+# § 89 – Allgemeine Verwaltungsvorschriften
 
 Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes erforderlichen allgemeinen Verwaltungsvorschriften, insbesondere zur Durchführung und Qualitätssicherung der Überwachung, zur Sachkenntnis der mit der Überwachung beauftragten Personen, zur Ausstattung, zum Informationsaustausch und zur Zusammenarbeit der Behörden.
 
@@ -1608,8 +1515,7 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 89: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 90 – Anwendung und Vollzug des Gesetzes, Zuständigkeiten
+# § 90 – Anwendung und Vollzug des Gesetzes, Zuständigkeiten
 
 (1) Im Bereich des Betreibens und Anwendens sind die Vorschriften dieses Gesetzes und die Vorschriften der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen auf Einrichtungen, die der Versorgung der Bundeswehr mit Produkten dienen, entsprechend anzuwenden.
 
@@ -1620,8 +1526,7 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 (+++ Hinweis: Das Inkrafttreten d. § 90 Abs. 1 u. 2 ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 90 Abs. 1 u. 2: Inkraft gem. Art. 17 Abs. 1 Nr. 2 Satz 2 G v. 28.4.2020 I 960 G v. 19.5.2020 I 1018 mWv 26.5.2020 +++)
 
-
-## § 91 – Ausnahmen
+# § 91 – Ausnahmen
 
 (1) Schreiben die grundlegenden Sicherheits- und Leistungsanforderungen nach Anhang I der Verordnung (EU) 2017/745 die Angabe eines Datums vor, bis zu dem das Produkt sicher verwendet werden kann, und soll das Produkt nach Ablauf dieses Datums zur Durchführung besonderer Aufgaben der Bundeswehr oder zum Zweck des Zivil- und Katastrophenschutzes angewendet werden, stellen die zuständigen Bundesministerien oder, soweit Produkte an Länder abgegeben wurden, die zuständigen Behörden der Länder sicher, dass Qualität, Leistung und Sicherheit der Produkte gewährleistet sind.
 
@@ -1630,8 +1535,7 @@ Die Bundesregierung erlässt mit Zustimmung des Bundesrates die zur Durchführun
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 91: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 92 – Strafvorschriften
+# § 92 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer
 
@@ -1686,8 +1590,7 @@ c) aus grobem Eigennutz für sich oder einen anderen Vermögensvorteile großen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 92: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 93 – Strafvorschriften
+# § 93 – Strafvorschriften
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird bestraft, wer
 
@@ -1738,8 +1641,7 @@ c) aus grobem Eigennutz für sich oder einen anderen Vermögensvorteile großen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 93: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 94 – Bußgeldvorschriften
+# § 94 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer eine in § 93 bezeichnete Handlung fahrlässig begeht.
 
@@ -1788,16 +1690,14 @@ c) aus grobem Eigennutz für sich oder einen anderen Vermögensvorteile großen 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 94: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 95 – Einziehung
+# § 95 – Einziehung
 
 Gegenstände, auf die sich eine Straftat nach § 92 oder § 93 oder eine Ordnungswidrigkeit nach § 94 bezieht, können eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 95: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 96 – Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745
+# § 96 – Übergangsvorschrift aus Anlass von Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745
 
 (1) Unbeschadet des Artikels 120 Absatz 8 der Verordnung (EU) 2017/745 gelten für die Registrierung von Produkten § 25 Absatz 1, 4 und 5 und § 33 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung sowie die Rechtsverordnung nach § 37 Absatz 8 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung bis zu dem in Artikel 123 Absatz 3 Buchstabe e der Verordnung (EU) 2017/745 genannten Datum.
 
@@ -1806,8 +1706,7 @@ Gegenstände, auf die sich eine Straftat nach § 92 oder § 93 oder eine Ordnung
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 96: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 97 – Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745
+# § 97 – Regelungen für den Fall fehlender Funktionalität der Europäischen Datenbank für Medizinprodukte nach Artikel 33 der Verordnung (EU) 2017/745
 
 (1) Ist eine Mitteilung der Europäischen Kommission nach Artikel 34 Absatz 3 der Verordnung (EU) 2017/745 nicht bis zum 26. Mai 2020 im Amtsblatt der Europäischen Union veröffentlicht worden, gilt
 
@@ -1834,16 +1733,14 @@ b) die in Artikel 123 Absatz 3 Buchstabe d der Verordnung (EU) 2017/745 genannte
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 97: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 98 – Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte
+# § 98 – Übergangsregelung für das Deutsche Informations- und Datenbanksystem über Medizinprodukte
 
 Soweit das Deutsche Medizinprodukteinformations- und Datenbanksystem nach § 86 am 26. Mai 2020 nicht voll funktionsfähig ist, teilt das Bundesministerium für Gesundheit mit, wie die in diesem Gesetz und die in den auf seiner Grundlage erlassenen Rechtsverordnungen genannten und mit dem Deutschen Medizinprodukteinformations- und Datenbanksystem in Zusammenhang stehenden Pflichten, soweit sie von der fehlenden Funktionalität des Deutschen Medizinprodukteinformations- und Datenbanksystems betroffen sind, wahrgenommen werden sollen. Die Mitteilung erfolgt durch Bekanntmachung, die im Bundesanzeiger veröffentlicht wird.
 
 (+++ Hinweis: Das Inkrafttreten ist gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 idF d. Art. 15 Abs. 2 Nr. 1 G v. 19.5.2020 I 1018 auf den 26.5.2021 verschoben worden +++)  
 (+++ § 98: Inkraft gem. Art. 17 Abs. 1 Satz 2 G v. 28.4.2020 I 960 mWv 26.5.2020 +++)
 
-
-## § 99 – Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör
+# § 99 – Sonstige Übergangsregelungen für Medizinprodukte und deren Zubehör
 
 (1) Für Medizinprodukte und deren Zubehör im Sinne von § 3 Nummer 1, 2, 3 und 9 des Medizinproduktegesetzes in der bis einschließlich 25. Mai 2020 geltenden Fassung, die vor dem 26. Mai 2020 nach den die Richtlinien 90/385/EWG und 93/42/EWG umsetzenden nationalen Vorschriften rechtmäßig in den Verkehr gebracht oder in Betrieb genommen wurden, sind folgende Vorschriften anzuwenden:
 

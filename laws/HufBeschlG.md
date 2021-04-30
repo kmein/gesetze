@@ -1,10 +1,7 @@
-# [HufBeschlG] Gesetz über den Beschlag von Hufen und Klauen  (Hufbeschlaggesetz - HufBeschlG)
-
-Ausfertigungsdatum: 19.04.2006
-
+% Gesetz über den Beschlag von Hufen und Klauen  (Hufbeschlaggesetz - HufBeschlG)
+% Ausfertigungsdatum: 19.04.2006
  
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 (1) Die Gesundheit von Huf- und Klauentieren, insbesondere die Leistungsfähigkeit ihres Bewegungsapparates, ist durch einen sach-, fach- und tiergerechten Huf- und Klauenbeschlag zu erhalten und zu fördern. Dazu werden die Berechtigung zur Ausübung des Beschlages von Hufen und Klauen und die damit verbundene staatliche Anerkennung sowie die staatliche Anerkennung von Hufbeschlaglehrschmieden/ Hufbeschlaglehrschmiedinnen und Hufbeschlagschulen geregelt.
 
@@ -14,8 +11,7 @@ Ausfertigungsdatum: 19.04.2006
 
 2. Verrichtungen, die lediglich die üblichen, alltäglichen Reinigungs- und Pflegearbeiten an Hufen und Klauen zum Gegenstand haben.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieses Gesetzes sind
 
@@ -27,8 +23,7 @@ die Gesamtheit aller Verrichtungen an einem Huf zum Zweck des Schutzes, der Gesu
 
 die Gesamtheit aller Verrichtungen bei der Anbringung, Instandsetzung oder Entfernung eines Beschlages an der Klaue eines Tieres, wenn dieses Tier als Zug-, Last- oder Reittier verwendet werden soll.
 
-
-## § 3 – Hufbeschlagschmiede/Hufbeschlagschmiedinnen, Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
+# § 3 – Hufbeschlagschmiede/Hufbeschlagschmiedinnen, Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
 
 (1) Der Huf- und Klauenbeschlag darf nur von geprüften und staatlich anerkannten Hufbeschlagschmieden/Hufbeschlagschmiedinnen ausgeübt werden.
 
@@ -40,8 +35,7 @@ die Gesamtheit aller Verrichtungen bei der Anbringung, Instandsetzung oder Entfe
 
 § 3 Abs. 1 u. 2: IVm § 2 Nr. 1 dieses G nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG unvereinbar und nichtig gem. BVerfGE v. 3.7.2007 I 2771 - 1 BvR 2186/06 -
 
-
-## § 4 – Anerkennung der Hufbeschlagschmiede/Hufbeschlagschmiedinnen
+# § 4 – Anerkennung der Hufbeschlagschmiede/Hufbeschlagschmiedinnen
 
 (1) Als Hufbeschlagschmied/Hufbeschlagschmiedin wird staatlich anerkannt, wer
 
@@ -59,8 +53,7 @@ nachweist.
 
 (3) Zur Vertiefung der theoretischen und praktischen Ausbildung finden Teile der Ausbildung an staatlich anerkannten Ausbildungsstätten (Hufbeschlagschulen) statt.
 
-
-## § 5 – Anerkennung der Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
+# § 5 – Anerkennung der Hufbeschlaglehrschmiede/Hufbeschlaglehrschmiedinnen
 
 (1) Als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin wird staatlich anerkannt, wer
 
@@ -78,8 +71,7 @@ nachweist.
 
 (2) Die Fortbildung zum Hufbeschlaglehrschmied/zur Hufbeschlaglehrschmiedin hat zum Ziel, Hufbeschlagschmiede/Hufbeschlagschmiedinnen zu befähigen, als Lehrkraft an Hufbeschlagschulen praktische und theoretische Unterweisungen im Rahmen der Ausbildung von Hufbeschlagschmieden/Hufbeschlagschmiedinnen in pädagogisch geeigneter Art und Weise vorzunehmen sowie besonders anspruchsvolle Arbeiten des Huf- und Klauenbeschlages unter Beachtung der Anforderungen und Belange der Tiergesundheit, des Tierschutzes und des Arbeits- und Unfallschutzes sowie des zeitgemäßen Standes der Technik durchzuführen.
 
-
-## § 6 – Hufbeschlagschulen
+# § 6 – Hufbeschlagschulen
 
 (1) Hufbeschlagschulen dürfen nur betrieben werden, wenn sie staatlich anerkannt sind.
 
@@ -97,8 +89,7 @@ nachweist.
 
 § 6 Abs. 1: IVm § 2 Nr. 1 dieses G nach Maßgabe der Entscheidungsformel mit Art. 12 Abs. 1 GG unvereinbar und nichtig gem. BVerfGE v. 3.7.2007 I 2771 - 1 BvR 2186/06 -
 
-
-## § 7 – Widerruf der Anerkennungen
+# § 7 – Widerruf der Anerkennungen
 
 (1) Die Anerkennung als Hufbeschlagschmied/Hufbeschlagschmiedin oder als Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin ist zu widerrufen, wenn Tatsachen vorliegen, aus denen sich ergibt, dass die betroffene Person die für die Ausübung des Berufes erforderliche Zuverlässigkeit nicht besitzt, insbesondere wenn sie wiederholt oder gröblich gegen Vorschriften zum Schutz der Tiere verstoßen hat. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und Widerruf unberührt.
 
@@ -106,8 +97,7 @@ nachweist.
 
 (3) Eine Anerkennung kann durch die Behörde, die die Anerkennung aufgehoben hat, erneut erteilt werden, soweit die Voraussetzungen für die Aufhebung entfallen sind.
 
-
-## § 8 – Ermächtigungen
+# § 8 – Ermächtigungen
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen Vorschriften über
 
@@ -127,8 +117,7 @@ zu erlassen. In Rechtsverordnungen nach Satz 1 können Ausnahmen von Anforderung
 
 (4) Die Landesregierungen werden ferner ermächtigt, durch Rechtsverordnung die zuständigen Behörden zu bestimmen; sie können diese Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden übertragen.
 
-
-## § 9 – Bußgeldvorschriften
+# § 9 – Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
@@ -148,15 +137,13 @@ zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvo
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 3 und 4 Buchstabe b mit einer Geldbuße bis zu fünftausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu dreitausend Euro geahndet werden.
 
-
-## § 10 – Übergangsregelungen
+# § 10 – Übergangsregelungen
 
 (1) Die bis zum Ablauf des 31. Dezember 2006 nach bisherigem Recht erworbenen Prüfungszeugnisse und staatlichen Anerkennungen für Hufbeschlagschmiede/Hufbeschlagschmiedinnen, Hufbeschlaglehrmeister/Hufbeschlaglehrmeisterinnen und Hufbeschlaglehrschmieden gelten als Prüfungszeugnisse und staatliche Anerkennungen nach diesem Gesetz fort.
 
 (2) Wer am 31. Dezember 2006 rechtmäßig eine huf- oder klauenpflegerische Tätigkeit, ausgenommen die dauerhafte Anbringung von Huf- oder Klauenschutzmaterialien, gewerbsmäßig ausübt, bleibt dazu im bisherigen Umfang der ausgeübten Tätigkeit weiterhin berechtigt. Die zuständige Behörde kann eine Tätigkeit nach Satz 1 untersagen, soweit die betroffene Person bei der Ausübung der Tätigkeit in gröblicher Weise oder wiederholt gegen Bestimmungen dieses Gesetzes oder gegen sonstige tierschutzrechtliche Vorschriften verstoßen hat; im Übrigen bleiben die gewerberechtlichen Vorschriften unberührt.
 
-
-## § 11 – Aufhebung von Vorschriften
+# § 11 – Aufhebung von Vorschriften
 
 (1) Es werden aufgehoben:
 

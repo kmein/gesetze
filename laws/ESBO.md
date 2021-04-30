@@ -1,10 +1,7 @@
-# [ESBO] Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen  (ESBO)
-
-Ausfertigungsdatum: 25.02.1972
-
+% Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen  (ESBO)
+% Ausfertigungsdatum: 25.02.1972
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 Geltungsbereich
 
@@ -236,13 +233,11 @@ Räder
 
 Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
 
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 3 Abs. 1 und des § 8a Abs. 3 des Allgemeinen Eisenbahngesetzes vom 29. März 1951 (Bundesgesetzbl. I S. 225, 438), zuletzt geändert durch Artikel 141 des Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), in Verbindung mit § 1 der Verordnung über die Ermächtigung des Bundesministers für Verkehr zum Erlaß von Rechtsverordnungen auf dem Gebiet des Eisenbahnwesens vom 28. September 1955 (Bundesgesetzbl. I S. 654) wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Geltungsbereich
+# § 1 – Geltungsbereich
 
 (1) Diese Verordnung gilt für die schmalspurigen Eisenbahnen des öffentlichen Verkehrs in der Bundesrepublik Deutschland.
 
@@ -250,13 +245,11 @@ Auf Grund des § 3 Abs. 1 und des § 8a Abs. 3 des Allgemeinen Eisenbahngesetzes
 
 (3) Die Vorschriften für Neubauten gelten auch für umfassende Umbauten bestehender Bahnanlagen und Fahrzeuge; sie sollen auch bei der Unterhaltung und Erneuerung berücksichtigt werden.
 
-
-## § 2 – Allgemeine Anforderungen
+# § 2 – Allgemeine Anforderungen
 
 Die Vorschriften des § 2 der EBO gelten entsprechend.
 
-
-## § 3 – Ausnahmen, Genehmigungen
+# § 3 – Ausnahmen, Genehmigungen
 
 (1) Ausnahmen können zulassen
 
@@ -278,13 +271,11 @@ b) für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 2. für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
-
-## § 4 – Begriffserklärungen für Bahnanlagen
+# § 4 – Begriffserklärungen für Bahnanlagen
 
 § 4 der EBO über Begriffserklärungen gilt entsprechend.
 
-
-## § 5 – Spurweite
+# § 5 – Spurweite
 
 (1) Die Spurweite ist der kleinste Abstand der Innenflächen der Schienenköpfe im Bereich von 0 bis 14 mm unter Schienenoberkante (SO).
 
@@ -294,8 +285,7 @@ b) für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
 
 (4) In Bogen mit Halbmessern unter 175 m sind die Mindestwerte der Spurweite zu vergrößern, wenn es die Bauart der Fahrzeuge erfordert; die Höchstmaße nach Absatz 3 dürfen jedoch nicht überschritten werden.
 
-
-## § 6 – Gleisbogen
+# § 6 – Gleisbogen
 
 (1) Der Bogenhalbmesser in durchgehenden Hauptgleisen soll bei Neubauten nicht weniger als 50 m betragen.
 
@@ -337,18 +327,15 @@ von 750 mm.
 
 (4) Jede Änderung der Überhöhung ist durch eine Rampe zu vermitteln, deren Neigung nicht größer sein darf als 1:300.
 
-
-## § 7 – Gleisneigung
+# § 7 – Gleisneigung
 
 Die Vorschriften des § 7 der EBO gelten entsprechend.
 
-
-## § 8 – Belastbarkeit des Oberbaus und der Bauwerke
+# § 8 – Belastbarkeit des Oberbaus und der Bauwerke
 
 Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen Radsatzlast und dem jeweils zugelassenen Fahrzeuggewicht je Längeneinheit bei der zugelassenen Geschwindigkeit aufnehmen können.
 
-
-## § 9 – Umgrenzung des lichten Raumes
+# § 9 – Umgrenzung des lichten Raumes
 
 (1) Die Mittellinie der Umgrenzung des lichten Raumes nach Anlage 1 ist in der Mitte zwischen beiden Schienen anzunehmen, in Bogen mit Spurerweiterung in der Mitte der erweiterten Spur. Der lichte Raum muß auch bei abgenutzten Schienen vorhanden sein.
 
@@ -386,8 +373,7 @@ Oberbau und Bauwerke müssen Fahrzeuge mit der jeweils zugelassenen Radsatzlast 
 
 (15) Für Gleise mit Rollfahrzeugbetrieb gelten die Vorschriften der Absätze 2 bis 14 sinngemäß, jedoch muß der lichte Raum nach Anlage 1 Bild 3 freigehalten und in Bogen nach Anlage 3 vergrößert werden. Voraussetzung dafür ist, daß Regelfahrzeuge auf Rollwagen auch in der Längsrichtung symmetrisch verladen werden.
 
-
-## § 10 – Gleisabstand
+# § 10 – Gleisabstand
 
 (1) Der Abstand von Gleisen gleicher Spurweite ohne Rollfahrzeugbetrieb muß in der Geraden und in Bogen mit Halbmessern über 5.000 m mindestens betragen
 
@@ -482,18 +468,15 @@ bei Neubauten
 
 (10) Die Vorschriften der Absätze 1 bis 9 sind bei drei- und vierschienigen Gleisen sowie für den Abstand zwischen Eisenbahngleisen und Straßenbahngleisen sinngemäß anzuwenden.
 
-
-## § 11 – Bahnübergänge
+# § 11 – Bahnübergänge
 
 Die Vorschriften des § 11 und der Anlage 4 der EBO gelten entsprechend.
 
-
-## § 12 – Höhengleiche Kreuzungen von Schienenbahnen
+# § 12 – Höhengleiche Kreuzungen von Schienenbahnen
 
 Die Vorschriften des § 12 der EBO gelten entsprechend.
 
-
-## § 13 – Bahnsteige, Rampen, Bahnhofsname
+# § 13 – Bahnsteige, Rampen, Bahnhofsname
 
 (1) Feste Gegenstände auf Personenbahnsteigen (Säulen und dgl.) müssen bis zu einer Höhe von 2,50 m über dem Bahnsteig mindestens um die halbe Breite der Fahrzeugbegrenzung + 850 mm von Gleismitte entfernt sein; bei Rollfahrzeugbetrieb müssen sie bis zu einer Höhe von h + 3,05 m über Schienenoberkante des Schmalspurgleises mindestens 2,70 m von Gleismitte entfernt sein. Ausnahmen von diesen Mindestmaßen sind zulässig (§ 3 Abs. 1 Nr. 2). Das Maß "h" bestimmt sich nach Anlage 1 Bild 3.
 
@@ -505,28 +488,23 @@ Die Vorschriften des § 12 der EBO gelten entsprechend.
 
 (5) Die Bahnanlagen für den Personenverkehr sind zu beleuchten; bei einfachen Verhältnissen darf hierauf verzichtet werden.
 
-
-## § 14 – Signale und Weichen
+# § 14 – Signale und Weichen
 
 Die Vorschriften des § 14 der EBO gelten entsprechend.
 
-
-## § 15 – Zugbeeinflussung
+# § 15 – Zugbeeinflussung
 
 Die zuständigen Eisenbahnaufsichtsbehörden können die Ausrüstung mit Zugbeeinflussung oder technischen Einrichtungen, durch die ein Zug selbsttätig zum Halten gebracht werden kann, vorschreiben, wenn die örtlichen Verhältnisse oder eine besondere Gefahrensituation dies erfordern.
 
-
-## § 16 – Fernmeldeanlagen
+# § 16 – Fernmeldeanlagen
 
 Die Vorschriften des § 16 der EBO gelten entsprechend.
 
-
-## § 17 – Untersuchen und Überwachen der Bahn
+# § 17 – Untersuchen und Überwachen der Bahn
 
 Die Vorschriften des § 17 der EBO gelten entsprechend.
 
-
-## § 18 – Einteilung der Fahrzeuge, Begriffserklärungen
+# § 18 – Einteilung der Fahrzeuge, Begriffserklärungen
 
 (1) Die Fahrzeuge werden entsprechend ihrer Zweckbestimmung nach Regelfahrzeugen und Nebenfahrzeugen unterschieden. Regelfahrzeuge müssen den nachstehenden Bauvorschriften entsprechen. Nebenfahrzeuge brauchen diesen Vorschriften nur insoweit zu entsprechen, als es für den Sonderzweck, dem sie dienen sollen, erforderlich ist.
 
@@ -548,22 +526,19 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (6) Rollfahrzeuge sind Nebenfahrzeuge, mit denen Regelspurwagen auf Schmalspurbahnen befördert werden; sie werden in Rollböcke und Rollwagen eingeteilt.
 
-
-## § 19 – Radsatzlasten und Fahrzeuggewichte je Längeneinheit
+# § 19 – Radsatzlasten und Fahrzeuggewichte je Längeneinheit
 
 (1) Die Radsatzlasten und die Fahrzeuggewichte je Längeneinheit dürfen nicht größer sein, als es die Belastbarkeit des Oberbaus und der Bauwerke zuläßt. Das gilt auch für beladene Rollfahrzeuge.
 
 (2) Die Radsatzlast ist der auf einen Radsatz, das Fahrzeuggewicht je Längeneinheit der auf 1,00 m Fahrzeuglänge entfallende Anteil der Gesamtlast. Die Fahrzeuglänge ist hierbei über die nicht eingedrückten Puffer zu messen.
 
-
-## § 20 – Radsatzabstand und Bogenlauf
+# § 20 – Radsatzabstand und Bogenlauf
 
 (1) Der feste Radsatzabstand neuer Fahrzeuge ohne Drehgestelle muß mindestens 2.000 mm betragen. Bei Kleinlokomotiven darf der feste Radsatzabstand bis auf 1.500 mm verringert werden, wenn sie nur dort verwendet werden, wo die Bauart der Weichen und Kreuzungen solche Radsatzabstände zuläßt.
 
 (2) Die Radsätze der Fahrzeuge müssen so beschaffen und gelagert sein, daß die Gleisbogen einwandfrei durchfahren werden können.
 
-
-## § 21 – Räder und Radsätze
+# § 21 – Räder und Radsätze
 
 (1) Die Räder eines Radsatzes dürfen auf der Radsatzwelle seitlich nicht verschiebbar sein.
 
@@ -575,8 +550,7 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (5) Bei neuen Rädern, die aus einem Stück gefertigt sind, muß die Mindestdicke der Teile, die die Radreifen ersetzen, durch eine Rille gekennzeichnet sein, die auf der äußern Stirnfläche eingedreht ist (vgl. Anlage 5).
 
-
-## § 22 – Begrenzung der Fahrzeuge
+# § 22 – Begrenzung der Fahrzeuge
 
 (1) Die Fahrzeuge dürfen die in Anlage 1 Bild 1 und 2 angegebenen Begrenzungen nicht überschreiten, soweit in den nachstehenden Absätzen nichts anderes zugelassen ist.
 
@@ -604,8 +578,7 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (11) Bei Fahrzeugen auf Zahnstangenstrecken ist die Fahrzeugbegrenzung im unteren Teil so weit einzuschränken, wie es die Zahnstange erfordert.
 
-
-## § 23 – Bremsen
+# § 23 – Bremsen
 
 (1) Triebfahrzeuge und andere führende Fahrzeuge müssen eine durchgehende Bremse und eine Feststellbremse (Handbremse, Federspeicherbremse) haben. Bei Kleinlokomotiven genügt eine in der Bremsstellung feststellbare Fußbremse. Die Ausrüstung der sonstigen Fahrzeuge mit Bremsen hat sich nach den örtlichen und betrieblichen Verhältnissen der Bahn zu richten.
 
@@ -619,8 +592,7 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 
 (6) Kurbeln oder Handräder von Handbremsen müssen beim Drehen im Sinne des Uhrzeigers die Bremsen anziehen.
 
-
-## § 24 – Zug- und Stoßeinrichtungen
+# § 24 – Zug- und Stoßeinrichtungen
 
 (1) Die Fahrzeuge außer Rollfahrzeugen müssen an beiden Enden federnde Zug- und Stoßeinrichtungen haben.
 
@@ -633,27 +605,23 @@ Die Vorschriften des § 17 der EBO gelten entsprechend.
 40 m beim Grundmaß der Spurweite von 750 mm  
 nicht hintereinandergreifen können.
 
-
-## § 25 – Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+# § 25 – Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
 
 (1) An den Stirnseiten neu zu bauender Fahrzeuge außer Rollböcken muß auf jeder Seite der Zugeinrichtung ein Raum nach Anlage 6 freigehalten werden.
 
 (2) Außerhalb dieses Raumes müssen alle festen Teile von der Stoßebene des ganz eingedrückten Puffers mindestens 40 mm entfernt bleiben. Hiervon ausgenommen sind die Teile der Wulstübergänge.
 
-
-## § 26
+# § 26
 
 (weggefallen)
 
-
-## § 27 – Beschaffenheit der Fahrzeuge
+# § 27 – Beschaffenheit der Fahrzeuge
 
 (1) Der tragende Teil des Aufbaus neu zu bauender Fahrzeuge und die Innenausstattung neu zu bauender Triebfahrzeuge und Reisezugwagen dürfen nicht aus splitternden und leicht entflammbaren Werkstoffen bestehen. Brandübertragungen müssen durch eine entsprechende bauliche Konstruktion erschwert werden.
 
 (2) Brennbare Fußböden der Fahrzeuge müssen gegen Bremsfunken geschützt werden.
 
-
-## § 28 – Ausrüstung der Triebfahrzeuge
+# § 28 – Ausrüstung der Triebfahrzeuge
 
 Triebfahrzeuge und andere führende Fahrzeuge müssen folgende Ausrüstung haben:
 
@@ -663,15 +631,13 @@ Triebfahrzeuge und andere führende Fahrzeuge müssen folgende Ausrüstung haben
 
 3. Geschwindigkeitsanzeiger,
 
-3a.  
-Zugbeeinflussung oder technische Einrichtung, durch die ein Zug selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung oder technischen Einrichtungen verkehren, auf denen eine solche Ausrüstung nach § 15 vorgeschrieben worden ist,
+3a. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf Strecken mit Zugbeeinflussung oder technischen Einrichtungen verkehren, auf denen eine solche Ausrüstung nach § 15 vorgeschrieben worden ist,
 
 4. Sicherheitsfahrschaltung, die im Geschwindigkeitsbereich von 20 km/h und mehr anspricht und den Zug oder das einzeln fahrende Triebfahrzeug bei Dienstunfähigkeit des Triebfahrzeugführers selbsttätig anhält. Die Ausrüstung ist nur erforderlich, wenn das Fahrzeug in Zügen einmännig besetzt werden soll. Kleinlokomotiven brauchen nicht mit Sicherheitsfahrschaltung ausgerüstet zu sein,
 
 5. Funkenfänger und verschließbare Aschkasten, wenn feste oder flüssige Brennstoffe verfeuert werden.
 
-
-## § 29 – Ausrüstung der Wagen
+# § 29 – Ausrüstung der Wagen
 
 (1) Die Vorschriften für Personenwagen gelten auch für Triebwagen.
 
@@ -693,18 +659,15 @@ Zugbeeinflussung oder technische Einrichtung, durch die ein Zug selbsttätig zum
 
 (10) Wagen sollen auf jeder Langseite mindestens einen Tritt und einen Handgriff für Rangierer haben.
 
-
-## § 30
-
-(weggefallen)
-
-
-## § 31
+# § 30
 
 (weggefallen)
 
+# § 31
 
-## § 32 – Abnahme und Untersuchung der Fahrzeuge
+(weggefallen)
+
+# § 32 – Abnahme und Untersuchung der Fahrzeuge
 
 (1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie abgenommen worden sind.
 
@@ -718,13 +681,11 @@ Zugbeeinflussung oder technische Einrichtung, durch die ein Zug selbsttätig zum
 
 (6) Über die Untersuchungen der Fahrzeuge sind Aufschreibungen zu führen.
 
-
-## § 33 – Überwachungsbedürftige Anlagen der Fahrzeuge
+# § 33 – Überwachungsbedürftige Anlagen der Fahrzeuge
 
 Die Vorschriften des § 33 der EBO gelten entsprechend.
 
-
-## § 34 – Begriff, Art und Länge der Züge
+# § 34 – Begriff, Art und Länge der Züge
 
 (1) Züge sind die auf die freie Strecke übergehenden, aus Regelfahrzeugen bestehenden, durch Maschinenkraft bewegten Einheiten und einzeln fahrenden Triebfahrzeuge. Geeignete Nebenfahrzeuge dürfen wie Züge behandelt und in Züge eingestellt werden.
 
@@ -736,8 +697,7 @@ Die Vorschriften des § 33 der EBO gelten entsprechend.
 
 (5) Ein Zug darf nicht länger sein, als es seine Bremsverhältnisse, Zug- und Stoßeinrichtungen und die Bahnanlagen zulassen. Bei bestehenden Bahnsteigen dürfen Reisezüge nur dann länger als die Bahnsteige sein, wenn die Sicherheit durch betriebliche Anweisungen gewährleistet ist.
 
-
-## § 35 – Ausrüsten der Züge mit Bremsen
+# § 35 – Ausrüsten der Züge mit Bremsen
 
 (1) Die Züge mit einer Höchstgeschwindigkeit von mehr als 50 km/h müssen mit durchgehender selbsttätiger Bremse gefahren werden.
 
@@ -757,8 +717,7 @@ Die Vorschriften des § 33 der EBO gelten entsprechend.
 
 (7) Bevor ein mit durchgehender Bremse fahrender Zug den Anfangsbahnhof verläßt, ist eine Bremsprobe vorzunehmen. Die Bremsprobe ist zu wiederholen, so oft der Führerstand gewechselt oder der Zug ergänzt oder getrennt wird, es sei denn, daß Fahrzeuge nur am Schluß abgehängt werden. Für Züge, die während mehrerer Fahrten unverändert bleiben, sind Ausnahmen zulässig (§ 3 Abs. 1 Nr. 2).
 
-
-## § 36 – Zusammenstellen der Züge
+# § 36 – Zusammenstellen der Züge
 
 (1) Die Radsatzlast und das Fahrzeuggewicht je Längeneinheit der Fahrzeuge dürfen nicht größer sein, als es für die zu befahrende Bahnstrecke zugelassen ist.
 
@@ -770,23 +729,19 @@ Die Vorschriften des § 33 der EBO gelten entsprechend.
 
 (5) Leere Rollböcke sind untereinander und mit anderen Schmalspurfahrzeugen durch Kuppelstangen zu kuppeln. Das gleiche gilt für leere und beladene Rollwagen ohne Zug- und Stoßeinrichtung.
 
-
-## § 37
+# § 37
 
 (weggefallen)
 
-
-## § 38 – Fahrordnung
+# § 38 – Fahrordnung
 
 Auf zweigleisigen Bahnen ist in der Regel rechts zu fahren.
 
-
-## § 39 – Zugfolge
+# § 39 – Zugfolge
 
 Die Vorschriften des § 39 der EBO gelten entsprechend.
 
-
-## § 40 – Fahrgeschwindigkeit
+# § 40 – Fahrgeschwindigkeit
 
 (1) Die Geschwindigkeit, mit der ein Zug höchstens fahren darf (zulässige Geschwindigkeit), ist abhängig von
 
@@ -861,8 +816,7 @@ R = Bogenhalbmesser in m
 
 (9) Für Probefahrten (Versuchsfahrten) sind Ausnahmen von vorstehenden Vorschriften zulässig (§ 3 Abs. 1 Nr. 2), ausgenommen von der Vorschrift in Absatz 6.
 
-
-## § 41 – Schieben und Nachschieben der Züge
+# § 41 – Schieben und Nachschieben der Züge
 
 (1) Züge gelten betrieblich als geschoben, wenn das Triebfahrzeug nicht an der Spitze läuft und nicht von der Spitze aus gesteuert wird.
 
@@ -874,23 +828,19 @@ R = Bogenhalbmesser in m
 
 (5) Züge mit Schemelwagen, die durch Steifkupplung oder durch die Ladung selbst verbunden sind, und Züge mit Rollfahrzeugen, die nicht durchgehend mit Zug- und Stoßeinrichtung gekuppelt sind, dürfen nicht nachgeschoben werden.
 
-
-## § 42 – Rangieren, Hemmschuhe
+# § 42 – Rangieren, Hemmschuhe
 
 Die Vorschriften des § 42 der EBO gelten entsprechend.
 
-
-## § 43 – Sichern stillstehender Fahrzeuge
+# § 43 – Sichern stillstehender Fahrzeuge
 
 Die Vorschriften des § 43 der EBO gelten entsprechend.
 
-
-## § 44 – Mitfahren im Führerraum
+# § 44 – Mitfahren im Führerraum
 
 Die Vorschriften des § 44 der EBO gelten entsprechend.
 
-
-## § 45 – Besetzen der Triebfahrzeuge
+# § 45 – Besetzen der Triebfahrzeuge
 
 (1) Arbeitende Triebfahrzeuge müssen während der Fahrt mit einem Triebfahrzeugführer besetzt sein; bei Kleinlokomotiven dürfen die Aufgaben des Triebfahrzeugführers auch von einem Bediener von Kleinlokomotiven wahrgenommen werden. Direkt gesteuerte Triebfahrzeuge (§ 18 Abs. 4 Nr. 1) dürfen unbesetzt bleiben; bei direkter Steuerung durch Fernsteuerungseinrichtungen sollen keine Fahrzeuge befördert werden, die mit Reisenden besetzt sind.
 
@@ -916,8 +866,7 @@ Die Vorschriften des § 44 der EBO gelten entsprechend.
 
 (6)
 
-
-## § 46 – Besetzen der Züge mit Zugbegleitern
+# § 46 – Besetzen der Züge mit Zugbegleitern
 
 (1) Die Züge sind mit mindestens einem Zugbegleiter zu besetzen, soweit in den Absätzen 2 und 3 nichts anderes zugelassen ist.
 
@@ -947,18 +896,15 @@ Die Züge müssen gezogen oder von der Spitze aus gesteuert werden, und alle Fah
 
 (4) Im Falle des Absatzes 3 Nr. 3 dürfen bis zu fünf Wagen, im Falle der Nummer 4 aber bis zu 10 Fahrzeuge angehängt werden. Sie sind an die durchgehende Bremse anzuschließen und sollen nicht mit Reisenden besetzt sein.
 
-
-## § 47 – Personal
+# § 47 – Personal
 
 Die Vorschriften der §§ 47 bis 54 der EBO gelten entsprechend.
 
-
-## § 48 – Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen
+# § 48 – Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen
 
 Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
-
-## § 49 – Ordnungswidrigkeiten
+# § 49 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt, wer entgegen den Vorschriften des § 48 vorsätzlich  
 1.
@@ -983,31 +929,26 @@ Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
 
-
-## § 50 – Inkrafttreten
+# § 50 – Inkrafttreten
 
 (1) Diese Verordnung tritt am ersten Tag des auf die Verkündung folgenden Kalendermonats in Kraft.
 
 (2)
 
-
-## § 51
+# § 51
 
 \-
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister für Verkehr
 
-
-## Anlage 1 – Bild 1, 2 und 3  (Zu den §§ 9 und 22)   Umgrenzung des lichten Raumes
+# Anlage 1 – Bild 1, 2 und 3  (Zu den §§ 9 und 22)   Umgrenzung des lichten Raumes
 
 (Inhalt: nicht darstellbare Abbildungen,  
 Fundstelle: BGBl I 1972, 280 - 281)
 
-
-## Anlage 2 – (zu den §§ 9 und 10)
+# Anlage 2 – (zu den §§ 9 und 10)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 282
 
@@ -1177,8 +1118,7 @@ mm
 
 Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der Vergrößerung sind auf volle 5 mm aufzurunden.
 
-
-## Anlage 3 – (zu den §§ 9 und 10)   Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
+# Anlage 3 – (zu den §§ 9 und 10)   Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
 
 (Fundstelle: BGBl. I 1972, 283 - 284)
 
@@ -2004,20 +1944,17 @@ unter 20 bis 15
 
 890
 
-
-## Anlage 4 – (zu § 21)Radsatz
+# Anlage 4 – (zu § 21)Radsatz
 
 (Inhalt: nicht darstellbare Abbildung,  
 Fundstelle: BGBl I 1972, 285)
 
-
-## Anlage 5 – (zu § 21)Räder
+# Anlage 5 – (zu § 21)Räder
 
 (Inhalt: nicht darstellbare Abbildungen,  
 Fundstelle: BGBl I 1972, 286)
 
-
-## Anlage 6 – (zu § 25)Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+# Anlage 6 – (zu § 25)Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
 
 (Inhalt: nicht darstellbare Abbildungen,  
 Fundstelle: BGBl I 1972, 287)

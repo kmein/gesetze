@@ -1,20 +1,15 @@
-# [AMVLBV] Verordnung mit arzneimittelrechtlichen Vorschriften über die Arzneimittelverwendung in landwirtschaftlichen Betrieben
-
-Ausfertigungsdatum: 17.07.2015
-
+% Verordnung mit arzneimittelrechtlichen Vorschriften über die Arzneimittelverwendung in landwirtschaftlichen Betrieben
+% Ausfertigungsdatum: 17.07.2015
  
-
-## § 1 – Ermittlung der bundesweiten Kennzahlen
+# § 1 – Ermittlung der bundesweiten Kennzahlen
 
 Die Kennzahlen der bundesweiten halbjährlichen Therapiehäufigkeit nach § 58c Absatz 4 Satz 1 des Arzneimittelgesetzes berechnet das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit nach den in der Anlage aufgeführten Anforderungen und Einzelheiten.
 
-
-## § 2 – Auskunftserteilung
+# § 2 – Auskunftserteilung
 
 Die zuständige Behörde teilt dem Tierhalter die ermittelte betriebliche halbjährliche Therapiehäufigkeit nach § 58c Absatz 1 des Arzneimittelgesetzes spätestens bis zu dem in § 58c Absatz 2 Satz 1 des Arzneimittelgesetzes aufgeführten Zeitpunkt mit. Die Mitteilung nach Satz 1 kann mit Zustimmung des Tierhalters nach Maßgabe des § 10 des Bundesdatenschutzgesetzes im automatisierten Abrufverfahren erfolgen.
 
-
-## § 3 – Schriftlicher Plan
+# § 3 – Schriftlicher Plan
 
 (1) Der schriftliche Plan nach § 58d Absatz 2 Satz 1 Nummer 2 des Arzneimittelgesetzes hat mindestens folgende Angaben zu enthalten:
 
@@ -44,13 +39,11 @@ g) der Art und Weise der Verabreichung von Arzneimitteln, die antibakteriell wir
 
 (2) Der Plan ist der zuständigen Behörde schriftlich oder elektronisch zu übermitteln.
 
-
-## § 4 – Löschung der Daten
+# § 4 – Löschung der Daten
 
 Die in § 58c Absatz 6 Satz 1 des Arzneimittelgesetzes genannten Daten sind nach Ablauf der Frist des § 58c Absatz 6 Satz 1 des Arzneimittelgesetzes durch geeignete technische Mittel oder Maßnahmen vollständig zu löschen.
 
-
-## Anlage – (zu § 1)Ermittlung der Kennzahlen
+# Anlage – (zu § 1)Ermittlung der Kennzahlen
 
 (Fundstelle: BGBl. I 2015, 1381)
 

@@ -1,10 +1,7 @@
-# [KoStrukStatG] Gesetz über Kostenstrukturstatistik  (KoStrukStatG)
-
-Ausfertigungsdatum: 12.05.1959
-
+% Gesetz über Kostenstrukturstatistik  (KoStrukStatG)
+% Ausfertigungsdatum: 12.05.1959
  
-
-## § 1
+# § 1
 
 (1) In den Wirtschaftsbereichen „Arzt- und Zahnarztpraxen“ sowie „Praxen von psychologischen Psychotherapeutinnen und -therapeuten“ werden jährlich Kostenstrukturerhebungen als Bundesstatistik durchgeführt. Die jährliche Durchführung der Erhebungen erfolgt erstmals für das Jahr 2021. Die Erhebungen erstrecken sich auf die folgenden Wirtschaftszweige nach Anhang I zur Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG über bestimmte Bereiche der Statistik (ABl. L 393 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2019/1243 (ABl. L 198 vom 25.7.2019, S. 241) geändert worden ist, in der jeweils geltenden Fassung sowie in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige in der jeweils geltenden Fassung:
 
@@ -22,11 +19,9 @@ Ausfertigungsdatum: 12.05.1959
 
 (4) Das Statistische Bundesamt übermittelt den statistischen Ämtern der Länder die Einzeldatensätze für ihr Land für Sonderaufbereitungen auf regionaler Ebene.
 
+# § 2 – (weggefallen)
 
-## § 2 – (weggefallen)
-
-
-## § 3
+# § 3
 
 (1) Die Kostenstrukturerhebungen nach § 1 erfassen folgende Tatbestände:
 
@@ -44,13 +39,11 @@ b) der Bruttoinvestitionen in Sachanlagen und immaterielle Vermögensgegenständ
 
 (3) (weggefallen)
 
-
-## § 4
+# § 4
 
 Die Angaben zu den in § 3 Abs. 1 und 2 bezeichneten Tatbeständen beziehen sich jeweils auf ein dem Erhebungsjahr vorangegangenes Kalenderjahr oder Geschäftsjahr.
 
-
-## § 5
+# § 5
 
 (1) Für die Erhebungen nach § 1 besteht Auskunftspflicht. Auskunftspflichtig sind die Inhaberinnen und Inhaber oder Leitungen der Unternehmen und der Einrichtungen zur Ausübung einer freiberuflichen Tätigkeit. Die Angaben zu § 6 Nummer 2 sind freiwillig.
 
@@ -60,8 +53,7 @@ Die Angaben zu den in § 3 Abs. 1 und 2 bezeichneten Tatbeständen beziehen sich
 
 (4) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 3 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
-
-## § 6
+# § 6
 
 Hilfsmerkmale der Erhebungen nach § 1 sind
 
@@ -69,15 +61,12 @@ Hilfsmerkmale der Erhebungen nach § 1 sind
 
 2. Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden Personen.
 
-
-## § 7
+# § 7
 
 Die Kostenstrukturstatistik wird vom Statistischen Bundesamt durchgeführt.
 
+# §§ 8 und 9 – (weggefallen)
 
-## §§ 8 und 9 – (weggefallen)
-
-
-## § 10
+# § 10
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.

@@ -1,15 +1,11 @@
-# [WFachwPrV] Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin
-
-Ausfertigungsdatum: 26.08.2008
-
+% Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin
+% Ausfertigungsdatum: 26.08.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen § 53 Abs. 1 durch Artikel 232 Nr. 3 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie:
 
-
-## § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
+# § 1 – Ziel der Prüfung und Bezeichnung des Abschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum Geprüften Wirtschaftsfachwirt/zur Geprüften Wirtschaftsfachwirtin nach den §§ 2 bis 10 durchführen, in denen die auf einen beruflichen Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
@@ -23,8 +19,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Ber
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten Abschluss „Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin“.
 
-
-## § 2 – Zulassungsvoraussetzungen
+# § 2 – Zulassungsvoraussetzungen
 
 (1) Zur Teilprüfung „Wirtschaftsbezogene Qualifikationen“ nach § 3 Abs. 1 Nr. 1 ist zuzulassen, wer Folgendes nachweist:
 
@@ -46,8 +41,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Ber
 
 (4) Abweichend von den Absätzen 1 und 2 Nr. 2 kann zur Prüfung auch zugelassen werden, wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft macht, dass Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche Handlungsfähigkeit) erworben worden sind, die eine Zulassung zur Prüfung rechtfertigen.
 
-
-## § 3 – Gliederung und Durchführung der Prüfung
+# § 3 – Gliederung und Durchführung der Prüfung
 
 (1) Die Gesamtprüfung beinhaltet folgende Teilprüfungen:
 
@@ -83,8 +77,7 @@ Auf Grund des § 53 Abs. 1 in Verbindung mit Abs. 2 und des § 30 Abs. 5 des Ber
 
 (6) Das situationsbezogene Fachgespräch mit Präsentation nach Absatz 5 wird inhaltlich aufbauend auf die Aufgabenstellung nach § 5 durchgeführt und soll nicht länger als 30 Minuten dauern. Es soll sich inhaltlich auf die Qualifikations- und Handlungsbereiche nach den Absätzen 2 und 3 beziehen, der Schwerpunkt soll auf Absatz 3 Nr. 5 liegen. Es ist eine Vorbereitungszeit von höchstens 30 Minuten zu gewähren. Die Präsentation geht mit einem Drittel in die Bewertung der mündlichen Prüfung ein. Die mündliche Prüfung wird erst nach dem erfolgreichen Abschluss der schriftlichen Teilprüfungen nach den Absätzen 4 und 5 durchgeführt.
 
-
-## § 4 – Wirtschaftsbezogene Qualifikationen
+# § 4 – Wirtschaftsbezogene Qualifikationen
 
 (1) Im Qualifikationsbereich „Volks- und Betriebswirtschaft“ sollen zum einen grundlegende volkswirtschaftliche Zusammenhänge und ihre Bedeutung für die betriebliche Praxis beurteilt werden können. Zum anderen müssen grundlegende betriebliche Funktionen und Funktionsbereiche und deren Zusammenwirken im Betrieb verstanden werden. Weiterhin soll der Vorgang einer Existenzgründung erfasst und in seiner Gesamtheit strukturiert werden können. In diesem Rahmen können geprüft werden:
 
@@ -137,8 +130,7 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 
 (6) Wurden in nicht mehr als einem Qualifikationsbereich mangelhafte Prüfungsleistungen erbracht, ist in diesem Qualifikationsbereich eine mündliche Ergänzungsprüfung anzubieten. Bei einer oder mehreren ungenügenden Leistungen besteht diese Möglichkeit nicht. Die Ergänzungsprüfung soll anwendungsbezogen durchgeführt werden und in der Regel nicht länger als 15 Minuten dauern. Die Bewertungen der schriftlichen Prüfungsleistung und der mündlichen Ergänzungsprüfung werden zu einer Note zusammengefasst. Dabei wird die Bewertung der schriftlichen Prüfungsleistung doppelt gewichtet.
 
-
-## § 5 – Handlungsspezifische Qualifikationen
+# § 5 – Handlungsspezifische Qualifikationen
 
 (1) Im Handlungsbereich „Betriebliches Management“ soll die Fähigkeit nachgewiesen werden, die Bedeutung betrieblicher Planungsprozesse für die Zukunftssicherung eines Unternehmens oder einer Wirtschaftsorganisation einordnen, deren Auswirkungen auf die Organisations- und Personalentwicklung erklären, Informationstechnologie und Wissensmanagement als notwendige Basis einer lernenden Organisation verstehen und Managementtechniken zur effektiven Prozesssteuerung einsetzen zu können. In diesem Zusammenhang können folgende Qualifikationsinhalte geprüft werden:
 
@@ -204,15 +196,13 @@ Die Gesamtdauer soll jedoch 330 Minuten nicht überschreiten.
 
 (6) Die schriftliche Prüfung in den in den Absätzen 1 bis 5 beschriebenen Handlungsbereichen wird auf der Grundlage einer betrieblichen Situationsbeschreibung mit zwei aufeinander abgestimmten, gleichgewichtig daraus abgeleiteten Aufgabenstellungen durchgeführt. Die gesamte Bearbeitungsdauer soll 480 Minuten nicht unterschreiten und 510 Minuten nicht überschreiten. Die Punktebewertung für das Ergebnis der schriftlichen Prüfungsleistung ist aus den beiden gleichgewichtigen schriftlichen Teilergebnissen zu bilden.
 
-
-## § 6 – Befreiung von der Ablegung einzelner Prüfungsbestandteile
+# § 6 – Befreiung von der Ablegung einzelner Prüfungsbestandteile
 
 Wird die zu prüfende Person nach § 56 Absatz 2 des Berufsbildungsgesetzes von der Ablegung einzelner Prüfungsbestandteile befreit, bleiben diese Prüfungsbestandteile für die Anwendung der §§ 7 und 8 außer Betracht. Für die übrigen Prüfungsbestandteile erhöhen sich die Anteile nach § 7 Absatz 2 Satz 2 oder Absatz 3 Satz 3 oder § 8 Absatz 4 Satz 2 entsprechend ihrem Verhältnis zueinander. Allein diese Prüfungsbestandteile sind den Entscheidungen des Prüfungsausschusses zugrunde zu legen.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 7 – Bewerten der Prüfungsleistungen
+# § 7 – Bewerten der Prüfungsleistungen
 
 (1) Jede Prüfungsleistung ist nach Maßgabe der Anlage 1 mit Punkten zu bewerten.
 
@@ -236,8 +226,7 @@ Aus den einzelnen Bewertungen des situationsbezogenen Fachgesprächs und der Pr�
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 8 – Bestehen der Prüfung, Gesamtnote
+# § 8 – Bestehen der Prüfung, Gesamtnote
 
 (1) Die Prüfung ist bestanden, wenn ohne Rundung in den folgenden Prüfungsleistungen jeweils mindestens 50 Punkte erreicht worden sind:
 
@@ -271,8 +260,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 9 – Zeugnisse
+# § 9 – Zeugnisse
 
 (1) Wer die Prüfung nach § 8 Absatz 1 bestanden hat, erhält von der zuständigen Stelle zwei Zeugnisse nach Maßgabe der Anlage 2 Teil A und B.
 
@@ -286,8 +274,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 10 – Wiederholung der Prüfung
+# § 10 – Wiederholung der Prüfung
 
 (1) Jede Teilprüfung, die nicht bestanden ist, kann zweimal wiederholt werden. Einzelne Prüfungsteile können vor Abschluss des jeweiligen Prüfungsverfahrens wiederholt werden.
 
@@ -295,8 +282,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 11 – Ausbildereignung
+# § 11 – Ausbildereignung
 
 (1) Wer die Teilprüfung „Handlungsspezifische Qualifikationen“ erfolgreich abgeschlossen hat, kann beantragen, eine zusätzliche Prüfung zum Nachweis der berufs- und arbeitspädagogischen Qualifikationen abzulegen. Diese besteht aus einer Präsentation oder der praktischen Durchführung einer Ausbildungssituation und einem Prüfungsgespräch. Die zu prüfende Person wählt dazu eine Ausbildungssituation aus. Die Auswahl und Gestaltung der Ausbildungssituation ist in dem Gespräch zu begründen. Die Dauer der praktischen Prüfung soll höchstens 30 Minuten betragen. Die Konzeption der Durchführung der praktischen Ausbildungseinheit ist vorab schriftlich einzureichen. Die zusätzliche Prüfung ist bestanden, wenn mindestens ausreichende Leistungen erbracht wurden.
 
@@ -304,8 +290,7 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 12 – Übergangsvorschriften
+# § 12 – Übergangsvorschriften
 
 (1) Begonnene Prüfungsverfahren zum Geprüften Wirtschaftsfachwirt/zur Geprüften Wirtschaftsfachwirtin, zum Wirtschaftsfachwirt (IHK)/zur Wirtschaftsfachwirtin (IHK) und zum Fachwirt für Betriebliches Management (IHK)/zur Fachwirtin für Betriebliches Management (IHK) können nach den bisherigen Vorschriften bis zum Ablauf des 31. Dezember 2011 zu Ende geführt werden. Im Übrigen kann bei der Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2009 die Anwendung der bisherigen Vorschriften beantragt werden.
 
@@ -313,15 +298,13 @@ Die Gesamtpunktzahl ist kaufmännisch auf eine ganze Zahl zu runden. Der gerunde
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## § 13 – Inkrafttreten
+# § 13 – Inkrafttreten
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
+# Anlage 1 – (zu den §§ 7 und 8)Bewertungsmaßstab und -schlüssel
 
 (Fundstelle: BGBl. I 2019, 2306 – 2307)
 
@@ -330,8 +313,7 @@ Diese Verordnung tritt am 1. September 2008 in Kraft.
 
 (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-
-## Anlage 2 – (zu § 9)Zeugnisinhalte
+# Anlage 2 – (zu § 9)Zeugnisinhalte
 
 (Fundstelle: BGBl. I 2019, 2307)
 

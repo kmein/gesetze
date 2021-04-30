@@ -1,30 +1,23 @@
-# [EG-PKHVV] Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden Verkehr  (EG-Prozesskostenhilfevordruckverordnung - EG-PKHVV)
-
-Ausfertigungsdatum: 21.12.2004
-
+% Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden Verkehr  (EG-Prozesskostenhilfevordruckverordnung - EG-PKHVV)
+% Ausfertigungsdatum: 21.12.2004
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 1077 Abs. 2 der Zivilprozessordnung, der durch Artikel 1 Nr. 4 des Gesetzes vom 15. Dezember 2004 (BGBl. I S. 3392) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
-
-## § 1 – Vordrucke
+# § 1 – Vordrucke
 
 Für die Erklärung der Partei sowie für die Übermittlung derartiger Anträge nach Artikel 13 der Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug durch Festlegung gemeinsamer Mindestvorschriften für die Prozesskostenhilfe in derartigen Streitsachen (ABl. EG Nr. L 26 S. 41, ABl. EU Nr. L 32 S. 15) werden die in der Anlage bestimmten Vordrucke eingeführt.
 
-
-## § 2 – Inkrafttreten
+# § 2 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage – (zu § 1)Formular für die Übermittlung eines Antrags auf Prozesskostenhilfe
+# Anlage – (zu § 1)Formular für die Übermittlung eines Antrags auf Prozesskostenhilfe
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3539 - 3541
 
@@ -140,8 +133,7 @@ Fundstelle des Originaltextes: BGBl. I 2004, 3539 - 3541
     Datum:
     Unterschrift: 
 
-
-## Anlage – (zu § 1)Formular für Anträge auf Prozesskostenhilfe in einem anderen Mitgliedstaat der Europäischen Union
+# Anlage – (zu § 1)Formular für Anträge auf Prozesskostenhilfe in einem anderen Mitgliedstaat der Europäischen Union
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3542 - 3547
 

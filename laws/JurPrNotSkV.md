@@ -1,15 +1,11 @@
-# [JurPrNotSkV] Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung
-
-Ausfertigungsdatum: 03.12.1981
-
+% Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung
+% Ausfertigungsdatum: 03.12.1981
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 3 des Gesetzes vom 16. August 1980 (BGBl. I S. 1451) neu gefaßten § 5d Abs. 1 Satz 5 des Deutschen Richtergesetzes wird mit Zustimmung des Bundesrates verordnet:
 
-
-## § 1 – Notenstufen und Punktzahlen
+# § 1 – Notenstufen und Punktzahlen
 
 Die einzelnen Leistungen in der ersten und zweiten Prüfung sind mit einer der folgenden Noten und Punktzahlen zu bewerten:  
 
@@ -23,8 +19,7 @@ Die einzelnen Leistungen in der ersten und zweiten Prüfung sind mit einer der f
 | mangelhaft       | eine an erheblichen Mängeln leidende, im ganzen nicht mehr brauchbare Leistung         | = 1 bis 3 Punkte   |
 | ungenügend       | eine völlig unbrauchbare Leistung                                                      | = 0 Punkte.        |
 
-
-## § 2 – Bildung von Gesamtnoten
+# § 2 – Bildung von Gesamtnoten
 
 (1) Soweit Einzelbewertungen zu einer Gesamtbewertung zusammengefaßt werden, ist die Gesamtnote bis auf zwei Dezimalstellen ohne Auf- oder Abrundung rechnerisch zu ermitteln.
 
@@ -40,24 +35,20 @@ Die einzelnen Leistungen in der ersten und zweiten Prüfung sind mit einer der f
 |   1.50 - 3.99 | mangelhaft       |
 |      0 - 1.49 | ungenügend.      |
 
-
-## § 3 – Übergangsvorschrift
+# § 3 – Übergangsvorschrift
 
 (1) Die §§ 1 und 2 sind auf Prüfungen anzuwenden, die nach dem 1. Januar 1983 begonnen werden, soweit nicht das Landesrecht einen früheren Zeitpunkt für die Anwendung bestimmt. Das Ablegen von Prüfungsleistungen nach § 5d Abs. 3 des Deutschen Richtergesetzes gilt nicht als Beginn der Prüfung.
 
 (2) Für Wiederholungsprüfungen kann das Landesrecht abweichende Regelungen vorsehen.
 
-
-## § 4
+# § 4
 
 (weggefallen)
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesminister der Justiz

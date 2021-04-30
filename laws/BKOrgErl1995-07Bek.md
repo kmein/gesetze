@@ -1,10 +1,7 @@
-# [BKOrgErl1995-07Bek] Bekanntmachung des Organisationserlasses des Bundeskanzlers
-
-Ausfertigungsdatum: 20.07.1995
-
+% Bekanntmachung des Organisationserlasses des Bundeskanzlers
+% Ausfertigungsdatum: 20.07.1995
  
-
-## ----
+# ----
 
 Nachstehend mache ich in Vertretung des Chefs des Bundeskanzleramtes den Organisationserlaß des Bundeskanzlers vom 18. Juli 1995 bekannt, der mit Wirkung vom 19. Juli 1995 in Kraft tritt:  
 "Gemäß § 9 der Geschäftsordnung ordne ich mit sofortiger Wirkung folgendes an:  

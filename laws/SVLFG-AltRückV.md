@@ -1,15 +1,11 @@
-# [SVLFG-AltRückV] Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau  (SVLFG-Altersrückstellungsverordnung - SVLFG-AltRückV)
-
-Ausfertigungsdatum: 06.11.2017
-
+% Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau  (SVLFG-Altersrückstellungsverordnung - SVLFG-AltRückV)
+% Ausfertigungsdatum: 06.11.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 7 Absatz 2 des Gesetzes zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der durch Artikel 446 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit § 1 der SVLFGG-Übertragungsverordnung vom 6. Oktober 2016 (BGBl. I S. 2216), verordnet das Bundesamt für Soziale Sicherung im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft:
 
-
-## § 1 – Bildung der Altersrückstellungen
+# § 1 – Bildung der Altersrückstellungen
 
 (1) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bildet Altersrückstellungen für den in § 7 Absatz 1 Satz 1 und 4 des Gesetzes zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau genannten Personenkreis. Dies gilt nach § 7 Absatz 1 Satz 2 des Gesetzes zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau nicht für die Beschäftigten, für die bereits Altersrückstellungen auf der Grundlage der §§ 172c und 219a des Siebten Buches Sozialgesetzbuch gebildet werden.
 
@@ -29,8 +25,7 @@ Auf Grund des § 7 Absatz 2 des Gesetzes zur Errichtung der Sozialversicherung f
 
 (+++ § 1: Zur Anwendung vgl. § 4 Abs. 2 +++)
 
-
-## § 2 – Höhe und Überprüfung der Zuweisungssätze
+# § 2 – Höhe und Überprüfung der Zuweisungssätze
 
 (1) Erforderlich ist ein Zuweisungssatz, der in jährlich gleichbleibender Höhe zum Aufbau des benötigten Deckungskapitals führt.
 
@@ -38,7 +33,7 @@ Auf Grund des § 7 Absatz 2 des Gesetzes zur Errichtung der Sozialversicherung f
 
 |                                                    |
 |:--------------------------------------------------:|
-| ![](../normengrafiken/bgbl1_2017/j3765-1_0010.jpg) |
+| ![](https://www.gesetze-im-internet.de/normengrafiken/bgbl1_2017/j3765-1_0010.jpg) |
 
 |     |     |     |                                                                                                                                                                                               |
 |:----|:----|:----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,19 +48,16 @@ Solange der jährliche Zuweisungssatz kleiner oder gleich Null ist, sind keine Z
 
 (3) Die Höhe des Deckungskapitals, der Altersrückstellungen und des erforderlichen jährlichen Zuweisungssatzes sind bei wesentlichen Änderungen der Berechnungsgrundlagen, spätestens aber alle fünf Jahre zu überprüfen. Der Zuweisungssatz ist anzupassen, sobald sich auf Grund einer Überprüfung die Höhe des zum 31. Dezember 2039 aufzubauenden Deckungskapitals verändert.
 
-
-## § 3 – Zahlverfahren
+# § 3 – Zahlverfahren
 
 Die jährlichen Zuweisungssätze sind dem Deckungskapital bis zum 31. Dezember des für die Zuführung maßgeblichen Kalenderjahres zuzuführen.
 
-
-## § 4 – Übergangsvorschriften
+# § 4 – Übergangsvorschriften
 
 (1) Für Versorgungsleistungen, die vor dem 1. Januar 2040 zu erbringen sind, sind keine Altersrückstellungen nach § 1 zu bilden.
 
 (2) Für die in § 1 Absatz 1 genannten Personen, deren Beschäftigungsverhältnis zur Sozialversicherung für Landwirtschaft, Forsten und Gartenbau am 31. Dezember 2017 bereits bestanden hat, ist § 1 mit der Maßgabe anzuwenden, dass auch der Abzug eines Barwerts fiktiver, auf das Jahr 2018 kalkulierter Jahresprämien zulässig ist, wenn die Voraussetzung des § 1 Absatz 2 Satz 2 erfüllt ist.
 
-
-## § 5 – Inkrafttreten
+# § 5 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

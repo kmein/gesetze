@@ -1,20 +1,15 @@
-# [ZirkRegV] Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von Tieren an wechselnden Orten  (Zirkusregisterverordnung - ZirkRegV)
-
-Ausfertigungsdatum: 06.03.2008
-
+% Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von Tieren an wechselnden Orten  (Zirkusregisterverordnung - ZirkRegV)
+% Ausfertigungsdatum: 06.03.2008
  
-
-## Eingangsformel
+# Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz verordnet auf Grund des § 16 Abs. 6 Satz 2 und 3 in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes in der Fassung der Bekanntmachung vom 18. Mai 2006 (BGBl. I S. 1206, 1313), von denen § 16 Abs. 6 Satz 2 und 3 durch das Gesetz vom 18. Dezember 2007 (BGBl. I S. 3001, 2008 I S. 47) neugefasst worden ist, nach Anhörung der Tierschutzkommission:
 
-
-## § 1 – Anwendungsbereich
+# § 1 – Anwendungsbereich
 
 Diese Verordnung regelt die Erhebung und Verwendung personenbezogener Daten im automatisierten Verfahren zum Zwecke der Überwachung der Einhaltung der tierschutzrechtlichen Bestimmungen durch Betriebe im Sinne von § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes.
 
-
-## § 2 – Begriffsbestimmungen
+# § 2 – Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist
 
@@ -22,8 +17,7 @@ Im Sinne dieser Verordnung ist
 
 2. kontrollierende Behörde: die für die Kontrolle nach § 16 Abs. 1 Nr. 4 des Tierschutzgesetzes zuständige Behörde.
 
-
-## § 3 – Datenerhebung
+# § 3 – Datenerhebung
 
 (1) Die erteilende Behörde erhebt vor Erteilung einer Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes, wenn die Tätigkeit an wechselnden Orten ausgeübt wird, folgende Daten:
 
@@ -45,8 +39,7 @@ Im Sinne dieser Verordnung ist
 
 2. die in Absatz 1 genannten Daten.
 
-
-## § 4 – Datenverwendung
+# § 4 – Datenverwendung
 
 (1) Die in § 3 genannten Daten speichert die erteilende oder die kontrollierende Behörde in einem automatisierten Verfahren, das die Übermittlung der Daten durch Abruf ermöglicht. Zusätzlich speichert die erteilende oder kontrollierende Behörde im automatisierten Verfahren folgende Daten:
 
@@ -74,8 +67,7 @@ Im Sinne dieser Verordnung ist
 
 (5) Die erteilende Behörde erteilt dem Inhaber der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes auf Antrag Auskunft über die ihn betreffenden in Absatz 1 genannten Daten.
 
-
-## § 5 – Löschung
+# § 5 – Löschung
 
 (1) Die Daten nach den §§ 3 und 4 Abs. 1 Satz 2 Nr. 1 bis 7 sind, vorbehaltlich des Absatzes 3, ein Jahr nachdem der Inhaber der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes das Zurschaustellen der Tiere oder das für diese Zwecke Zurverfügungstellen eingestellt hat, zu löschen. Erlangt die zuständige Behörde hiervon erst nach Ablauf eines Jahres Kenntnis, sind die Daten unverzüglich zu löschen.
 
@@ -83,12 +75,10 @@ Im Sinne dieser Verordnung ist
 
 (3) Die Daten nach § 3 Abs. 1 und § 4 Abs. 1 Satz 2 Nr. 8 sind durch die zuständige Behörde ein Jahr nach der unanfechtbaren Ablehnung eines Antrags auf Erteilung einer Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d zu löschen.
 
-
-## § 6 – Inkrafttreten
+# § 6 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

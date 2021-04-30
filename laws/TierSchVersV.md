@@ -1,12 +1,7 @@
-# [TierSchVersV] Verordnung zum Schutz von zu Versuchszwecken oder zu anderen wissenschaftlichen Zwecken verwendeten Tieren  (Tierschutz-Versuchstierverordnung - TierSchVersV)
-
-Ausfertigungsdatum: 01.08.2013
-
+% Verordnung zum Schutz von zu Versuchszwecken oder zu anderen wissenschaftlichen Zwecken verwendeten Tieren  (Tierschutz-Versuchstierverordnung - TierSchVersV)
+% Ausfertigungsdatum: 01.08.2013
  
-
-## Inhaltsübersicht
-
- 
+# Inhaltsübersicht
 
  
 
@@ -32,8 +27,9 @@ Ausfertigungsdatum: 01.08.2013
 
  
 
+ 
 
-## § 1 – Anforderungen an die Haltung von Wirbeltieren und Kopffüßern
+# § 1 – Anforderungen an die Haltung von Wirbeltieren und Kopffüßern
 
 (1) Der Leiter einer Einrichtung oder der Verantwortliche für einen Betrieb, in der oder in dem Wirbeltiere oder Kopffüßer gehalten werden, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, hat sicherzustellen, dass
 
@@ -55,8 +51,7 @@ Soweit Artikel 33 Absatz 2 in Verbindung mit Anhang III der Richtlinie 2010/63/E
 
 (3) Anhang A des Europäischen Übereinkommens vom 18. März 1986 zum Schutz der für Versuche und andere wissenschaftliche Zwecke verwendeten Wirbeltiere bleibt unberührt.
 
-
-## § 2 – Anforderungen an die Tötung von Wirbeltieren und Kopffüßern
+# § 2 – Anforderungen an die Tötung von Wirbeltieren und Kopffüßern
 
 (1) In § 1 Absatz 1 bezeichnete Wirbeltiere und Kopffüßer dürfen nur
 
@@ -86,8 +81,7 @@ Satz 1 gilt nicht für das Töten von Tieren,
 
 2. im Falle der Tötung eines Tieres im Rahmen seiner Verwendung in einem Tierversuch wissenschaftlich begründet dargelegt ist, dass die Anwendung dieses Verfahrens im Hinblick auf den Zweck des Tierversuchs unerlässlich und ethisch vertretbar ist.
 
-
-## § 3 – Anforderungen an die Sachkunde
+# § 3 – Anforderungen an die Sachkunde
 
 (1) Der Leiter einer Einrichtung oder der Verantwortliche für einen Betrieb im Sinne des § 1 Absatz 1 hat sicherzustellen, dass
 
@@ -99,8 +93,7 @@ verfügen. Satz 1 gilt nicht für Personen, die die dort genannten Tätigkeiten 
 
 (2) Der nach Absatz 1 Satz 1 Verpflichtete hat außerdem sicherzustellen, dass sich Personen nach Absatz 1 Satz 1 im Hinblick auf die dort genannten Kenntnisse und Fähigkeiten und Personen, die in der Einrichtung oder dem Betrieb mit der Durchführung von Tierversuchen an Wirbeltieren oder Kopffüßern betraut sind, im Hinblick auf die nach § 16 Absatz 1 Satz 1 erforderlichen Kenntnisse und Fähigkeiten regelmäßig fortbilden.
 
-
-## § 4 – Organisationspflichten
+# § 4 – Organisationspflichten
 
 Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 Satz 1 und 2 des Tierschutzgesetzes hat der Träger der Einrichtung oder der für den Betrieb Verantwortliche eine oder mehrere Personen vor Ort zu bestellen, die
 
@@ -116,8 +109,7 @@ b) die Personen, die Tierversuche durchführen, die Anforderungen des § 7 Absat
 
 erfüllen und diesbezüglich fortlaufend geschult werden.
 
-
-## § 5 – Tierschutzbeauftragte
+# § 5 – Tierschutzbeauftragte
 
 (1) Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 des Tierschutzgesetzes hat der Träger der Einrichtung oder der für den Betrieb Verantwortliche vor Aufnahme der Tätigkeit einen oder mehrere Tierschutzbeauftragte zu bestellen und die Bestellung der zuständigen Behörde anzuzeigen. In der Anzeige sind entsprechend den Anforderungen des Absatzes 6 Satz 3 auch die Stellung und die Befugnisse des Tierschutzbeauftragten anzugeben.
 
@@ -149,8 +141,7 @@ Sie haben sicherzustellen, dass sich der Tierschutzbeauftragte regelmäßig fort
 
 (6) Der Tierschutzbeauftragte ist bei der Erfüllung seiner Aufgaben weisungsfrei. Er darf wegen der Erfüllung seiner Aufgaben nicht benachteiligt werden. Seine Stellung und seine Befugnisse sind durch Satzung, innerbetriebliche Anweisung oder in ähnlicher Form zu regeln. Dabei ist sicherzustellen, dass der Tierschutzbeauftragte seine Vorschläge oder Bedenken unmittelbar der in der Einrichtung oder in dem Betrieb entscheidenden Stelle vortragen kann. Werden mehrere Tierschutzbeauftragte bestellt, so sind ihre Aufgabenbereiche festzulegen.
 
-
-## § 6 – Tierschutzausschuss
+# § 6 – Tierschutzausschuss
 
 (1) Für Einrichtungen und Betriebe im Sinne des § 10 Absatz 1 Satz 1 und 2 des Tierschutzgesetzes hat der Träger der Einrichtung oder der für den Betrieb Verantwortliche vor Aufnahme der Tätigkeit einen Tierschutzausschuss zu bestellen. Dem Tierschutzausschuss gehören mindestens an
 
@@ -176,8 +167,7 @@ Ferner kann der Tierschutzausschuss das Personal der Einrichtung oder des Betrie
 
 (3) Der Träger der Einrichtung oder der für den Betrieb Verantwortliche hat sicherzustellen, dass über Empfehlungen des Tierschutzausschusses, die dieser im Rahmen der Erfüllung seiner in Absatz 2 Satz 1 genannten Aufgaben abgibt, sowie über alle Entscheidungen, die im Hinblick auf diese Empfehlungen getroffen werden, Aufzeichnungen geführt und diese mindestens drei Jahre lang aufbewahrt werden. Die Aufzeichnungen sind der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 7 – Führen von Aufzeichnungen
+# § 7 – Führen von Aufzeichnungen
 
 (1) Wer zum Führen von Aufzeichnungen nach § 11a Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes verpflichtet ist, hat in den Betriebs- oder Geschäftsräumen ein Kontrollbuch nach Maßgabe der Sätze 2 und 3 zu führen. In das Kontrollbuch nach Satz 1 ist jede Bestandsveränderung mit folgenden Angaben dauerhaft einzutragen:
 
@@ -207,8 +197,7 @@ Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß.
 
 (2) Die in Absatz 1 genannten Aufzeichnungen sind, gerechnet ab dem Beginn des Jahres, das auf die Entstehung der Aufzeichnung folgt, mindestens fünf Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 8 – Besondere Aufzeichnungen bei Hunden, Katzen und Primaten
+# § 8 – Besondere Aufzeichnungen bei Hunden, Katzen und Primaten
 
 (1) Unbeschadet des § 7 hat der zum Führen von Aufzeichnungen nach § 11a Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes Verpflichtete bei Hunden, Katzen und Primaten jeweils gesonderte Aufzeichnungen nach Maßgabe des Satzes 2 und des Absatzes 2 Nummer 1 zu führen. Die Aufzeichnungen umfassen bezogen auf das jeweilige Tier alle wesentlichen fortpflanzungsbezogenen, tiermedizinischen und das Verhalten des Tieres betreffenden Informationen sowie Angaben zu den Versuchsvorhaben, in denen es verwendet worden ist.
 
@@ -222,8 +211,7 @@ Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß.
 
 4. die Aufzeichnungen, soweit sie nicht nach Nummer 2 weitergegeben wurden, nach der Unterbringung oder dem Verbringen des Tieres nach § 10 oder andernfalls nach dem Tod des Tieres drei Jahre lang aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 9 – Kennzeichnung von Hunden, Katzen und Primaten
+# § 9 – Kennzeichnung von Hunden, Katzen und Primaten
 
 (1) Wer Hunde, Katzen oder Primaten, die zur Verwendung in Tierversuchen bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu wissenschaftlichen Zwecken verwendet zu werden, züchtet, hat das jeweilige Tier spätestens zum Zeitpunkt des Absetzens unter Verwendung derjenigen Methode, die für den Versuchszweck geeignet ist und die bei dem jeweiligen Tier die geringsten Schmerzen, Leiden und Schäden verursacht, dauerhaft so zu kennzeichnen, dass seine Identität festgestellt werden kann.
 
@@ -231,8 +219,7 @@ Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß.
 
 (3) Wer nach Absatz 1 oder Absatz 2 Tiere zu kennzeichnen hat, hat ein Verzeichnis der gekennzeichneten Tiere nach Art, Datum und Kennzeichnung zu führen und dies der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 10 – Anderweitige Unterbringung oder Freilassung von Wirbeltieren und Kopffüßern
+# § 10 – Anderweitige Unterbringung oder Freilassung von Wirbeltieren und Kopffüßern
 
 (1) Wirbeltiere oder Kopffüßer, die in Tierversuchen verwendet worden sind oder die dazu bestimmt gewesen sind, in Tierversuchen verwendet zu werden, deren Verwendung jedoch nicht mehr vorgesehen ist, können dauerhaft außerhalb einer Einrichtung oder eines Betriebs im Sinne des § 1 Absatz 1 untergebracht, in ein für die jeweilige Tierart geeignetes Haltungssystem oder, im Falle von aus der Natur entnommenen Tieren, einen geeigneten Lebensraum verbracht werden, wenn
 
@@ -244,8 +231,7 @@ Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß.
 
 (2) Wer nach Absatz 1 Tiere unterbringt, muss über ein Programm für eine solche Unterbringung verfügen, in dessen Rahmen die Gewöhnung der unterzubringenden Tiere gewährleistet wird. Soweit dies aus Gründen des Tierschutzes erforderlich ist, dürfen aus der Natur entnommene Tiere nur im Rahmen eines Auswilderungsprogramms in einen geeigneten Lebensraum verbracht werden.
 
-
-## § 11 – Erlaubnisvoraussetzungen
+# § 11 – Erlaubnisvoraussetzungen
 
 (1) Die Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes darf nur erteilt werden, wenn
 
@@ -269,8 +255,7 @@ Im Falle des Satzes 1 Nummer 1 sind die erforderlichen fachlichen Kenntnisse und
 
 (2) Die Erlaubnis kann, soweit es zum Schutz der Tiere erforderlich ist, unter Befristungen, Bedingungen und Auflagen erteilt werden.
 
-
-## § 12 – Beantragen der Erlaubnis
+# § 12 – Beantragen der Erlaubnis
 
 In dem Antrag auf Erteilung der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 des Tierschutzgesetzes sind anzugeben
 
@@ -288,15 +273,13 @@ In dem Antrag auf Erteilung der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 1 de
 
 Dem Antrag sind Nachweise über die Kenntnisse und Fähigkeiten nach § 11 Absatz 1 Satz 1 Nummer 1 beizufügen.
 
-
-## § 13 – Erlaubnisbescheid, Anzeige von Änderungen
+# § 13 – Erlaubnisbescheid, Anzeige von Änderungen
 
 (1) In dem Erlaubnisbescheid sind die Personen nach § 12 Satz 1 Nummer 4 und 6 anzugeben.
 
 (2) Wechselt eine der in Absatz 1 genannten Personen, so hat der Inhaber der Erlaubnis diese Änderung der zuständigen Behörde unverzüglich anzuzeigen. Die Erlaubnis ist innerhalb eines Monats ab Eingang der Änderungsanzeige zu widerrufen, wenn auf Grund der angezeigten Änderungen die Voraussetzungen für die Erteilung der Erlaubnis nicht mehr vorliegen. Satz 1 gilt entsprechend für eine Änderung der nach § 12 Satz 1 Nummer 2 angegebenen Sachverhalte, es sei denn es ist ausgeschlossen, dass sich diese Änderung nachteilig auf das Wohlergehen der Tiere auswirkt.
 
-
-## § 14 – Geltung für Tiere in einem frühen Entwicklungsstadium
+# § 14 – Geltung für Tiere in einem frühen Entwicklungsstadium
 
 Die §§ 7 bis 9 des Tierschutzgesetzes sowie die §§ 15 bis 43 gelten auch für die Durchführung von Tierversuchen, einschließlich der Genehmigung und Anzeige von Versuchsvorhaben,
 
@@ -310,8 +293,7 @@ verwendet werden oder verwendet werden sollen oder
 
 2. in denen andere als in Nummer 1 genannte Wirbeltiere in einem Entwicklungsstadium vor der Geburt oder dem Schlupf verwendet werden oder verwendet werden sollen, wenn die Tiere über dieses Entwicklungsstadium hinaus weiterleben sollen und nach der Geburt oder dem Schlupf infolge der Verwendung voraussichtlich Schmerzen oder Leiden empfinden oder Schäden erleiden werden.
 
-
-## § 15 – Anforderungen an Räumlichkeiten und Anlagen
+# § 15 – Anforderungen an Räumlichkeiten und Anlagen
 
 (1) Tierversuche an Wirbeltieren und Kopffüßern dürfen nur in den Räumlichkeiten einer Einrichtung oder eines Betriebs im Sinne des § 1 Absatz 1 durchgeführt werden. § 2 Absatz 1 Satz 2 gilt entsprechend. Abweichend von Satz 1 darf ein Tierversuch außerhalb einer Einrichtung oder eines Betriebs durchgeführt werden, wenn wissenschaftlich begründet dargelegt ist, dass dies im Hinblick auf den Zweck des Versuchs erforderlich ist.
 
@@ -321,8 +303,7 @@ verwendet werden oder verwendet werden sollen oder
 
 2. durch ihre Gestaltung, Konstruktion und Funktionsweise gewährleisten, dass die Tierversuche zielgerichtet durchgeführt werden, um unter Verwendung der geringstmöglichen Anzahl an Tieren sowie unter Verursachung der geringstmöglichen Schmerzen, Leiden und Schäden zuverlässige Ergebnisse zu erzielen.
 
-
-## § 16 – Anforderungen an die Sachkunde
+# § 16 – Anforderungen an die Sachkunde
 
 (1) Tierversuche an Wirbeltieren und Kopffüßern dürfen nur von Personen durchgeführt werden, die über die Kenntnisse und Fähigkeiten nach Anlage 1 Abschnitt 3 verfügen. Darüber hinaus dürfen Tierversuche nur
 
@@ -344,8 +325,7 @@ durchgeführt werden. Die Sätze 2 und 3 gelten nicht für Tierversuche nach § 
 
 (3) Tierversuche dürfen nur durchgeführt werden, wenn die Personen, von denen das Versuchsvorhaben und die beabsichtigten Tierversuche geplant worden sind, über die hierfür erforderlichen Kenntnisse und Fähigkeiten einschließlich der Kenntnisse und Fähigkeiten nach Anlage 1 Abschnitt 3 verfügen und diese der zuständigen Behörde auf Verlangen nachweisen.
 
-
-## § 17 – Schmerzlinderung und Betäubung
+# § 17 – Schmerzlinderung und Betäubung
 
 (1) Bei der Durchführung von Versuchen an Wirbeltieren und Kopffüßern ist durch Anwendung schmerzlindernder Mittel oder Verfahren sicherzustellen, dass Schmerzen und Leiden bei dem verwendeten Tier auf das geringstmögliche Maß vermindert werden.
 
@@ -359,8 +339,7 @@ Die Betäubung darf bei Wirbeltieren nur von einer Person, die die Voraussetzung
 
 (3) Ist bei einem betäubten Wirbeltier oder Kopffüßer damit zu rechnen, dass mit Abklingen der Betäubung Schmerzen auftreten, so muss das Tier rechtzeitig mit schmerzlindernden Mitteln oder Verfahren behandelt werden. Dies gilt, soweit ethisch vertretbar, nicht, wenn wissenschaftlich begründet dargelegt wird, dass die Behandlung mit schmerzlindernden Mitteln oder Verfahren mit dem Zweck des Tierversuchs unvereinbar ist. Bei einem nicht betäubten Wirbeltier oder Kopffüßer dürfen keine Mittel angewandt werden, durch die das Äußern von Schmerzen verhindert oder beeinträchtigt wird.
 
-
-## § 18 – Erneutes Verwenden von Wirbeltieren und Kopffüßern
+# § 18 – Erneutes Verwenden von Wirbeltieren und Kopffüßern
 
 (1) Ein Wirbeltier oder ein Kopffüßer, das oder der bereits in einem Versuchsvorhaben verwendet worden ist, darf in einem weiteren Versuchsvorhaben, für das auch ein zuvor noch nicht verwendetes Tier verwendet werden könnte, nur dann verwendet werden, wenn
 
@@ -380,15 +359,13 @@ Die Betäubung darf bei Wirbeltieren nur von einer Person, die die Voraussetzung
 
 3. zuvor einer tierärztlichen Untersuchung unterzogen worden ist.
 
-
-## § 19 – Verwenden gezüchteter Wirbeltiere und Kopffüßer
+# § 19 – Verwenden gezüchteter Wirbeltiere und Kopffüßer
 
 (1) Wirbeltiere und Kopffüßer dürfen in Tierversuchen nur verwendet werden, wenn sie für einen solchen Zweck gezüchtet worden sind. Die zuständige Behörde kann, soweit es mit dem Schutz der Tiere vereinbar ist, Ausnahmen hiervon genehmigen, wenn wissenschaftlich begründet dargelegt ist, dass die Verwendung von anderen als nach Satz 1 gezüchteten Tieren erforderlich ist.
 
 (2) Absatz 1 Satz 1 gilt nicht für die Verwendung von Pferden, Rindern, Schweinen, Schafen, Ziegen, Hühnern, Tauben, Puten, Enten, Gänsen oder Fischen, ausgenommen Zebrabärblinge.
 
-
-## § 20 – Verwenden wildlebender Tiere
+# § 20 – Verwenden wildlebender Tiere
 
 (1) Aus der Natur entnommene Tiere dürfen in Tierversuchen nicht verwendet werden. Die zuständige Behörde kann Ausnahmen hiervon genehmigen, wenn der Zweck des Versuchs nicht durch die Verwendung anderer Tiere erreicht werden kann.
 
@@ -396,8 +373,7 @@ Die Betäubung darf bei Wirbeltieren nur von einer Person, die die Voraussetzung
 
 (3) Wird bei oder nach dem Einfangen nach Absatz 2 festgestellt, dass das Tier verletzt ist oder sich in einem schlechten gesundheitlichen Zustand befindet, so ist es einem Tierarzt oder einer anderen sachkundigen Person vorzustellen und es sind Maßnahmen zu ergreifen, um Schmerzen, Leiden und Schäden des Tieres auf das mit dem Zweck des Tierversuchs vereinbare, geringstmögliche Maß zu vermindern.
 
-
-## § 21 – Verwenden herrenloser oder verwilderter Haustiere
+# § 21 – Verwenden herrenloser oder verwilderter Haustiere
 
 Herrenlose oder verwilderte Tiere von Tierarten, die üblicherweise in menschlicher Obhut gehalten werden, dürfen in Tierversuchen nicht verwendet werden. Die zuständige Behörde kann Ausnahmen hiervon genehmigen, wenn
 
@@ -405,8 +381,7 @@ Herrenlose oder verwilderte Tiere von Tierarten, die üblicherweise in menschlic
 
 2. wissenschaftlich begründet dargelegt ist, dass der Zweck des Tierversuchs nur durch die Verwendung eines Tieres nach Satz 1 erreicht werden kann.
 
-
-## § 22 – Verwenden geschützter Tierarten
+# § 22 – Verwenden geschützter Tierarten
 
 In Anhang A der Verordnung (EG) Nr. 338/97 des Rates vom 9. Dezember 1996 über den Schutz von Exemplaren wildlebender Tier- und Pflanzenarten durch Überwachung des Handels (ABl. L 61 vom 3.3.1997, S. 1) in der jeweils geltenden Fassung aufgeführte Wirbeltiere, die nicht Primaten sind, und Kopffüßer dürfen in Tierversuchen nicht verwendet werden. Satz 1 gilt nicht, wenn
 
@@ -422,8 +397,7 @@ dient und
 
 Satz 1 gilt nicht für in Gefangenschaft geborene und gezüchtete Tiere oder künstlich vermehrte Tiere nach Artikel 7 Absatz 1 der Verordnung (EG) Nr. 338/97. Satz 2 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
-
-## § 23 – Verwenden von Primaten
+# § 23 – Verwenden von Primaten
 
 (1) Primaten dürfen in Tierversuchen nicht verwendet werden.
 
@@ -475,29 +449,25 @@ b) dieser Zweck nicht durch die Verwendung anderer Tierarten als Menschenaffen e
 
 Satz 1 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
-
-## § 24 – Herkunft zu verwendender Primaten
+# § 24 – Herkunft zu verwendender Primaten
 
 (1) Primaten, die in Anhang II Spalte 1 der Richtlinie 2010/63/EU aufgeführt sind, dürfen ab dem in Anhang II Spalte 2 der Richtlinie 2010/63/EU jeweils genannten Zeitpunkt nur in Tierversuchen verwendet werden, wenn sie Nachkommen von in Gefangenschaft gezüchteten Primaten sind oder wenn sie aus sich selbst erhaltenden Kolonien im Sinne des Artikels 10 Absatz 1 Unterabsatz 3 der Richtlinie 2010/63/EU stammen.
 
 (2) Abweichend von Absatz 1 kann die zuständige Behörde die Verwendung von in Anhang II Spalte 1 der Richtlinie 2010/63/EU aufgeführten Primaten anderer Abstammung oder Herkunft genehmigen, wenn wissenschaftlich begründet dargelegt ist, dass die Verwendung dieser Primaten erforderlich ist.
 
-
-## § 25 – Durchführung besonders belastender Tierversuche
+# § 25 – Durchführung besonders belastender Tierversuche
 
 (1) Tierversuche an Wirbeltieren oder Kopffüßern, die bei den verwendeten Tieren zu voraussichtlich länger anhaltenden oder sich wiederholenden erheblichen Schmerzen oder Leiden führen, dürfen nur durchgeführt werden, wenn die angestrebten Ergebnisse vermuten lassen, dass sie für wesentliche Bedürfnisse von Mensch oder Tier einschließlich der Lösung wissenschaftlicher Probleme von hervorragender Bedeutung sein werden.
 
 (2) Tierversuche nach Absatz 1 dürfen nicht durchgeführt werden, wenn die erheblichen Schmerzen oder Leiden länger anhalten und nicht gelindert werden können. Abweichend von Satz 1 kann die zuständige Behörde die Durchführung eines Tierversuchs nach Satz 1 genehmigen, soweit die Voraussetzungen des Absatzes 1 vorliegen und wissenschaftlich begründet dargelegt ist, dass die Durchführung des Tierversuchs wegen der Bedeutung der angestrebten Erkenntnisse unerlässlich ist.
 
-
-## § 26 – Genehmigungen in besonderen Fällen
+# § 26 – Genehmigungen in besonderen Fällen
 
 (1) Eine Genehmigung nach § 23 Absatz 3 oder 5 oder § 25 Absatz 2 Satz 2 wird von der zuständigen Behörde unter dem Vorbehalt erteilt, dass die Genehmigung im Falle einer Entscheidung der Europäischen Kommission nach Artikel 55 Absatz 4 Unterabsatz 2 Buchstabe b der Richtlinie 2010/63/EU widerrufen wird.
 
 (2) Erteilt die zuständige Behörde eine Genehmigung nach Absatz 1, so hat sie dies dem Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium) unverzüglich mitzuteilen. Die Mitteilung nach Satz 1 enthält eine ausführliche Begründung für die Entscheidung der zuständigen Behörde im Hinblick auf das Vorliegen der jeweiligen Genehmigungsvoraussetzungen. Das Bundesministerium unterrichtet nach Eingang der Mitteilung nach Satz 1 die Europäische Kommission nach Artikel 55 Absatz 4 Unterabsatz 1 der Richtlinie 2010/63/EU auf der Grundlage der Mitteilung der zuständigen Behörde nach Satz 2.
 
-
-## § 27 – Zweckerreichung
+# § 27 – Zweckerreichung
 
 (1) Sobald der Zweck eines Tierversuchs erreicht ist, sind Maßnahmen zu ergreifen, um die Schmerzen, Leiden und Schäden der verwendeten Tiere auf das geringstmögliche Maß zu vermindern.
 
@@ -507,8 +477,7 @@ Satz 1 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
 2. die Dauer und die Intensität der Schmerzen und Leiden der Tiere auf das geringstmögliche Maß vermindert und der Tod unter größtmöglicher Vermeidung von Schmerzen und Leiden gewährleistet wird.
 
-
-## § 28 – Verfahren nach Abschluss, Nachbehandlung
+# § 28 – Verfahren nach Abschluss, Nachbehandlung
 
 (1) Nach Abschluss eines Tierversuchs entscheidet ein Tierarzt oder eine andere sachkundige Person darüber, ob ein verwendetes Wirbeltier oder ein verwendeter Kopffüßer, dessen weitere Verwendung in dem jeweiligen Versuchsvorhaben nicht mehr vorgesehen ist, am Leben bleiben oder, wenn ein vernünftiger Grund dafür vorliegt, getötet werden soll. Sind Primaten, Einhufer, Paarhufer, Hunde, Hamster, Katzen, Kaninchen oder Meerschweinchen verwendet worden, so sind diese unverzüglich einem Tierarzt zur Untersuchung vorzustellen.
 
@@ -518,15 +487,13 @@ Satz 1 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
 (4) Soll ein Tier nach Abschluss eines Tierversuchs am Leben erhalten werden, so muss es seinem Gesundheitszustand entsprechend gepflegt und untergebracht und dabei von einem Tierarzt oder einer anderen sachkundigen Person beobachtet und erforderlichenfalls medizinisch versorgt werden.
 
-
-## § 29 – Führen von Aufzeichnungen zu Tierversuchen
+# § 29 – Führen von Aufzeichnungen zu Tierversuchen
 
 (1) In den nach § 9 Absatz 5 Satz 1 des Tierschutzgesetzes zu führenden Aufzeichnungen sind für jedes Versuchsvorhaben, in dem Wirbeltiere, Kopffüßer oder Zehnfußkrebse verwendet werden, der Zweck sowie die Zahl und die Art der verwendeten Tiere und die Art und Durchführung der Tierversuche sowie die Namen der Personen, die die Tierversuche durchgeführt haben, anzugeben. Werden Wirbeltiere verwendet, so ist auch ihre Herkunft einschließlich des Namens und der Anschrift des Vorbesitzers anzugeben. Bei Hunden, Katzen und Primaten sind zusätzlich das Geschlecht, eine an dem Tier vorgenommene Kennzeichnung nach § 9 und bei Hunden und Katzen die Rasse anzugeben.
 
 (2) Die Aufzeichnungen nach Absatz 1 sind von den Personen, die die Tierversuche durchgeführt haben, und von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter zu unterzeichnen. Werden die Aufzeichnungen elektronisch erstellt, sind sie unverzüglich nach Abschluss jedes Teilversuchs des Versuchsvorhabens auszudrucken und von dem Leiter des Versuchsvorhabens oder seinem Stellvertreter zu unterzeichnen. Die §§ 239 und 261 des Handelsgesetzbuchs gelten sinngemäß. Aufzeichnungen zu einem Versuchsvorhaben sind fünf Jahre lang, beginnend mit dem Abschluss des Tierversuchs, aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
-
-## § 30 – Pflichten des Leiters
+# § 30 – Pflichten des Leiters
 
 (1) Der Leiter des Versuchsvorhabens oder im Falle dessen Verhinderung sein Stellvertreter hat sicherzustellen, dass die Vorschriften der §§ 15 bis 25 und 27 bis 29 eingehalten werden.
 
@@ -538,8 +505,7 @@ Satz 1 gilt nicht für Tierversuche, die der Grundlagenforschung dienen.
 
 durchgeführt wird. Dabei hat er sicherzustellen, dass im Falle einer diesbezüglichen Abweichung geeignete Abhilfemaßnahmen ergriffen und über die Abweichungen und die ergriffenen Abhilfemaßnahmen Aufzeichnungen geführt werden.
 
-
-## § 31 – Beantragen der Genehmigung
+# § 31 – Beantragen der Genehmigung
 
 (1) Der Antrag auf Genehmigung eines Versuchsvorhabens nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes ist schriftlich bei der zuständigen Behörde zu stellen. In dem Antrag
 
@@ -571,8 +537,7 @@ b) in welchen Schweregrad der Versuch eingestuft wird,
 
 (2) Dem Antrag ist eine Zusammenfassung des Versuchsvorhabens mit den Angaben nach § 41 Absatz 1 Satz 2 beizufügen.
 
-
-## § 32 – Genehmigungsverfahren, Bearbeitungsfristen
+# § 32 – Genehmigungsverfahren, Bearbeitungsfristen
 
 (1) Die zuständige Behörde hat innerhalb von 40 Arbeitstagen ab dem Eingang eines den Anforderungen des § 31 entsprechenden Antrags dem Antragsteller ihre Entscheidung über den Antrag mitzuteilen. Soweit der Umfang und die Schwierigkeit der Prüfung des Vorliegens der Voraussetzungen nach § 8 Absatz 1 Satz 2 des Tierschutzgesetzes dies rechtfertigen, kann die zuständige Behörde den in Satz 1 genannten Zeitraum einmalig um bis zu 15 Arbeitstage nach Maßgabe des Absatzes 2 Satz 3 verlängern.
 
@@ -584,8 +549,7 @@ b) in welchen Schweregrad der Versuch eingestuft wird,
 
 (5) Absatz 4 gilt für die zuständige Stelle der Bundeswehr entsprechend mit der Maßgabe, dass die Kommission nach § 15 Absatz 3 Satz 2 des Tierschutzgesetzes zu beteiligen ist. Die Sicherheitsbelange der Bundeswehr sind zu berücksichtigen. Sollen Tierversuche im Auftrag der Bundeswehr durchgeführt werden, so ist die Kommission hiervon ebenfalls zu unterrichten und ihr vor Auftragserteilung Gelegenheit zur Stellungnahme zu geben; § 15 Absatz 1 des Tierschutzgesetzes bleibt unberührt. Die für die Genehmigung des Versuchsvorhabens zuständige Landesbehörde ist davon in Kenntnis zu setzen. Die zuständige Stelle der Bundeswehr sendet auf Anforderung die Stellungnahme zu.
 
-
-## § 33 – Genehmigungsbescheid, Befristung
+# § 33 – Genehmigungsbescheid, Befristung
 
 (1) Der Genehmigungsbescheid enthält
 
@@ -605,8 +569,7 @@ b) in welchen Schweregrad der Versuch eingestuft wird,
 
 worden sind.
 
-
-## § 34 – Anzeige von Änderungen genehmigter Versuchsvorhaben
+# § 34 – Anzeige von Änderungen genehmigter Versuchsvorhaben
 
 (1) Änderungen genehmigter Versuchsvorhaben bedürfen keiner erneuten Genehmigung, soweit
 
@@ -624,8 +587,7 @@ Die Änderungen dürfen nicht vor Ablauf von zwei Wochen nach Eingang der Anzeig
 
 (3) Andere als die in Absatz 1 Satz 1 und Absatz 2 Satz 1 genannten Änderungen bedürfen der Genehmigung durch die zuständige Behörde. Für die Genehmigung der Änderungen gelten § 8 Absatz 1 Satz 2 des Tierschutzgesetzes und die §§ 31 bis 33 entsprechend.
 
-
-## § 35 – Rückblickende Bewertung von Versuchsvorhaben
+# § 35 – Rückblickende Bewertung von Versuchsvorhaben
 
 (1) Genehmigt die zuständige Behörde ein Versuchsvorhaben, so kann sie zugleich festlegen, dass das Versuchsvorhaben nach seinem Abschluss durch die zuständige Behörde zu bewerten ist und zu welchem Zeitpunkt diese Bewertung vorzunehmen ist. Eine Bewertung nach Satz 1 ist vorzusehen, wenn das Versuchsvorhaben die Durchführung von
 
@@ -649,8 +611,7 @@ beinhaltet.
 
 5. ob sich hieraus Schlussfolgerungen im Hinblick auf die Anforderungen gemäß § 7 Absatz 1 Satz 2 und § 7a Absatz 2 Nummer 2, 4 und 5 des Tierschutzgesetzes ergeben.
 
-
-## § 36 – Anzeige von Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes
+# § 36 – Anzeige von Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes
 
 (1) In der Anzeige eines Versuchsvorhabens nach § 8a Absatz 1 des Tierschutzgesetzes sind anzugeben:
 
@@ -668,8 +629,7 @@ Die Anzeige hat schriftlich zu erfolgen.
 
 (4) Ein nach § 8a Absatz 1 des Tierschutzgesetzes angezeigtes Versuchsvorhaben darf nicht nach Ablauf von fünf Jahren nach Ablauf der in Absatz 2 genannten Frist oder nach Eingang der Mitteilung nach Absatz 2 durchgeführt werden.
 
-
-## § 37 – Sammelanzeige, Anzeige von Änderungen angezeigter Versuchsvorhaben
+# § 37 – Sammelanzeige, Anzeige von Änderungen angezeigter Versuchsvorhaben
 
 (1) Ist die Durchführung mehrerer gleichartiger Versuchsvorhaben nach § 8a Absatz 1 des Tierschutzgesetzes beabsichtigt, so genügt die Anzeige des ersten Versuchsvorhabens, wenn in der Anzeige zusätzlich die voraussichtliche Zahl der Versuchsvorhaben angegeben wird. Bis zum 15. Februar eines Jahres hat der Anzeigende der zuständigen Behörde die Zahl der im vorhergegangenen Kalenderjahr durchgeführten Versuchsvorhaben sowie Art und Zahl der insgesamt verwendeten Tiere anzugeben.
 
@@ -677,13 +637,11 @@ Die Anzeige hat schriftlich zu erfolgen.
 
 (3) § 36 Absatz 4 gilt entsprechend.
 
-
-## § 38 – Prüfung angezeigter Versuchsvorhaben oder deren Änderungen
+# § 38 – Prüfung angezeigter Versuchsvorhaben oder deren Änderungen
 
 Im Falle des Eingangs einer Anzeige nach § 36 Absatz 1 prüft die zuständige Behörde innerhalb der in § 36 Absatz 2 genannten Frist, ob im Hinblick auf das angezeigte Versuchsvorhaben die in § 8 Absatz 1 Satz 2 Nummer 1 bis 8 des Tierschutzgesetzes genannten Voraussetzungen vorliegen oder ob die Durchführung des Versuchsvorhabens nach § 16a Absatz 2 des Tierschutzgesetzes zu untersagen ist. Satz 1 gilt im Falle der Anzeige von Änderungen nach § 34 Absatz 1 Satz 1 Nummer 4 oder § 37 Absatz 2 Satz 1 entsprechend mit der Maßgabe, dass die Prüfung innerhalb von zwei Wochen durchgeführt wird.
 
-
-## § 39 – Anzeige von Versuchsvorhaben an Zehnfußkrebsen
+# § 39 – Anzeige von Versuchsvorhaben an Zehnfußkrebsen
 
 (1) In der Anzeige eines Versuchsvorhabens nach § 8a Absatz 3 des Tierschutzgesetzes sind anzugeben:
 
@@ -703,8 +661,7 @@ Im Falle des Eingangs einer Anzeige nach § 36 Absatz 1 prüft die zuständige B
 
 (3) Im Falle des Eingangs einer Anzeige nach Absatz 1 Satz 1 prüft die zuständige Behörde, ob im Hinblick auf das angezeigte Versuchsvorhaben die Einhaltung der Vorschriften des § 7 Absatz 1 Satz 2 und 3 und § 7a Absatz 1 und 2 Nummer 1, 2, 4 und 5 des Tierschutzgesetzes, des § 20 Absatz 1 und der §§ 27 und 28 Absatz 3 und 4 sichergestellt ist oder ob die Durchführung des Versuchsvorhabens nach § 16a Absatz 2 des Tierschutzgesetzes zu untersagen ist.
 
-
-## § 40 – Aufbewahrungspflicht
+# § 40 – Aufbewahrungspflicht
 
 Der Inhaber einer Genehmigung oder, im Falle von Versuchsvorhaben nach § 8a Absatz 1 oder 3 des Tierschutzgesetzes, der Anzeigende hat
 
@@ -714,8 +671,7 @@ Der Inhaber einer Genehmigung oder, im Falle von Versuchsvorhaben nach § 8a Abs
 
 mindestens drei Jahre über das Ende der Geltungsdauer der Genehmigung oder, bei Versuchsvorhaben nach § 8a Absatz 1 oder 3 des Tierschutzgesetzes, über den Ablauf der in § 36 Absatz 4, auch in Verbindung mit § 39 Absatz 1 Satz 2, genannten Frist hinaus aufzubewahren. Im Falle von Versuchsvorhaben, die einer Bewertung nach § 35 unterzogen werden sollen, sind die in Satz 1 genannten Dokumente bis zum Abschluss der Bewertung aufzubewahren, soweit der Abschluss der Bewertung erst nach Ablauf der in Satz 1 genannten Frist erfolgt.
 
-
-## § 41 – Veröffentlichung von Zusammenfassungen
+# § 41 – Veröffentlichung von Zusammenfassungen
 
 (1) Die zuständige Behörde übermittelt dem Bundesinstitut für Risikobewertung (Bundesinstitut) innerhalb von drei Monaten nach Erteilung einer Genehmigung nach § 8 Absatz 1 Satz 1 des Tierschutzgesetzes eine Zusammenfassung zu dem genehmigten Versuchsvorhaben zum Zwecke der Veröffentlichung durch das Bundesinstitut. In der Zusammenfassung ist auf der Grundlage der Angaben im Genehmigungsantrag Folgendes darzustellen:
 
@@ -733,8 +689,7 @@ Die Zusammenfassung darf keine einrichtungs- oder personenbezogenen Daten enthal
 
 (2) Die Zusammenfassung wird innerhalb von zwölf Monaten nach der Übermittlung durch die zuständige Behörde durch das Bundesinstitut im Internet veröffentlicht. Die entsprechende Internetseite wird durch das Bundesinstitut im Bundesanzeiger bekannt gemacht.
 
-
-## § 42 – Tierversuchskommissionen
+# § 42 – Tierversuchskommissionen
 
 (1) Die Mehrheit der Mitglieder der nach § 15 Absatz 1 Satz 2 und Absatz 3 Satz 2 des Tierschutzgesetzes einzuberufenden Kommissionen muss die für die Beurteilung von Tierversuchen erforderlichen Fachkenntnisse der Veterinärmedizin, der Medizin oder einer naturwissenschaftlichen Fachrichtung haben.
 
@@ -742,13 +697,11 @@ Die Zusammenfassung darf keine einrichtungs- oder personenbezogenen Daten enthal
 
 (3) In die Kommissionen nach § 15 Absatz 3 Satz 2 des Tierschutzgesetzes sollen auch Mitglieder berufen werden, die auf Grund von Vorschlägen der Tierschutzorganisationen ausgewählt worden sind und auf Grund ihrer Erfahrungen zur Beurteilung von Tierschutzfragen geeignet sind.
 
-
-## § 43 – Unterrichtung des Bundesministeriums
+# § 43 – Unterrichtung des Bundesministeriums
 
 Die nach Landesrecht zuständigen Behörden unterrichten das Bundesministerium über Fälle grundsätzlicher Bedeutung bei der Genehmigung von Versuchsvorhaben, insbesondere über die Fälle, in denen die Genehmigung von Versuchsvorhaben mit der Begründung versagt worden ist, dass die Voraussetzungen des § 7a Absatz 2 Nummer 3 des Tierschutzgesetzes nicht erfüllt waren, oder in denen die Kommission nach § 15 Absatz 1 des Tierschutzgesetzes oder der Tierschutzbeauftragte Bedenken hinsichtlich des Vorliegens dieser Voraussetzungen erhoben haben. Personenbezogene Daten dürfen nicht übermittelt werden.
 
-
-## § 44 – Ordnungswidrigkeiten
+# § 44 – Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 18 Absatz 1 Nummer 3 Buchstabe a des Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
@@ -782,8 +735,7 @@ Die nach Landesrecht zuständigen Behörden unterrichten das Bundesministerium �
 
 10. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 1 nicht sicherstellt,
 
-10a.  
-entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 2 nicht sicherstellt,
+10a. entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 2 nicht sicherstellt,
 
 11. entgegen § 36 Absatz 2 oder Absatz 4 ein Versuchsvorhaben durchführt,
 
@@ -795,8 +747,7 @@ entgegen § 30 Absatz 1 die Einhaltung der Vorschriften des § 29 Absatz 2 nicht
 
 15. entgegen § 40 ein dort genanntes Dokument nicht oder nicht für die vorgeschriebene Dauer aufbewahrt.
 
-
-## § 45 – Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU
+# § 45 – Aufgaben nach Artikel 49 der Richtlinie 2010/63/EU
 
 Das Bundesinstitut berät die zuständigen Behörden und die Tierschutzausschüsse nach § 6 in Angelegenheiten, die mit dem Erwerb, der Zucht, der Unterbringung oder der Pflege von Wirbeltieren und Kopffüßern nach § 1 Absatz 1 oder der Verwendung von Wirbeltieren und Kopffüßern in Tierversuchen zusammenhängen, und gewährleistet, dass diesbezüglich ein Austausch über bewährte Praktiken stattfindet. Darüber hinaus tauscht es mit in anderen Mitgliedstaaten der Europäischen Union eingerichteten Ausschüssen nach Artikel 49 Absatz 1 der Richtlinie 2010/63/EU Informationen über
 
@@ -806,18 +757,15 @@ Das Bundesinstitut berät die zuständigen Behörden und die Tierschutzausschüs
 
 einschließlich diesbezüglicher bewährter Praktiken, aus.
 
-
-## § 46 – Beratung zu Alternativen zu Tierversuchen
+# § 46 – Beratung zu Alternativen zu Tierversuchen
 
 Das Bundesinstitut berät die zuständigen Behörden in Angelegenheiten, die mit Alternativen zu Tierversuchen zusammenhängen.
 
-
-## § 47 – Unberührtheitsklausel
+# § 47 – Unberührtheitsklausel
 
 Die Vorschriften des Naturschutzrechts, des Jagdrechts und des Fischereirechts bleiben unberührt.
 
-
-## § 48 – Übergangsvorschriften
+# § 48 – Übergangsvorschriften
 
 (1) Die §§ 1 und 3 bis 6 gelten für Einrichtungen und Betriebe, in denen am 12. August 2013 Wirbeltiere oder Kopffüßer,
 
@@ -839,8 +787,7 @@ gehalten werden, ab dem 1. Januar 2014. Satz 1 gilt auch für Einrichtungen und 
 
 worden ist.
 
-
-## Anlage 1 – Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
+# Anlage 1 – Kenntnisse und Fähigkeiten, die für die Pflege oder das Töten von Tieren oder die Planung oder die Durchführung von Tierversuchen erforderlich sind
 
 (Fundstelle: BGBl. I 2013, 3140 - 3141)
 
@@ -916,13 +863,11 @@ worden ist.
 
 15. Biometrische Statistik.
 
-
-## Anlage 2 – (zu § 2 Absatz 2)Tötungsverfahren
+# Anlage 2 – (zu § 2 Absatz 2)Tötungsverfahren
 
 (Fundstelle: BGBl. I 2013, 3142 - 3143)
 
-1. Zur Tötung von Tieren einer der in Zeile 1 der Tabelle genannten Tierkategorien dürfen nur diejenigen Verfahren angewendet werden, die in Spalte 1 Zeile 2 bis 9 gelistet sind und die in der die jeweilige Tierkategorie betreffenden Spalte mit einem Kreuz (+) bezeichnet sind, unter Beachtung der in den Anmerkungen enthaltenen Maßgaben. Hierbei ist immer die am wenigsten belastende Methode zu wählen, soweit dieses mit dem Versuchszweck vereinbar ist.  
-  
+1. Zur Tötung von Tieren einer der in Zeile 1 der Tabelle genannten Tierkategorien dürfen nur diejenigen Verfahren angewendet werden, die in Spalte 1 Zeile 2 bis 9 gelistet sind und die in der die jeweilige Tierkategorie betreffenden Spalte mit einem Kreuz (+) bezeichnet sind, unter Beachtung der in den Anmerkungen enthaltenen Maßgaben. Hierbei ist immer die am wenigsten belastende Methode zu wählen, soweit dieses mit dem Versuchszweck vereinbar ist.   
 
 |                                                                               |                                              Fische                                              |                         Amphibien                          |                                            Reptilien                                             |                                              Vögel                                               |                                            Nagetiere                                             |                                            Kaninchen                                            |                               Hunde, Katzen, Frettchen und Füchse                                |                                         Große Säugetiere                                         |                         Primaten                          |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------:|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|

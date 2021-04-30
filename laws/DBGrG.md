@@ -1,17 +1,13 @@
-# [DBGrG] Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft  (Deutsche Bahn Gründungsgesetz - DBGrG)
-
-Ausfertigungsdatum: 27.12.1993
-
+% Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft  (Deutsche Bahn Gründungsgesetz - DBGrG)
+% Ausfertigungsdatum: 27.12.1993
  
-
-## § 1 – Errichtung der Gesellschaft
+# § 1 – Errichtung der Gesellschaft
 
 (1) Aus dem Bundeseisenbahnvermögen sind in Erfüllung der in § 20 Abs. 1 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S. 2378) enthaltenen Verpflichtungen mit Ausnahme der dort genannten Liegenschaften die Teile, die zum Erbringen von Eisenbahnverkehrsleistungen und zum Betreiben der Eisenbahninfrastruktur notwendig sind, auf eine dadurch gegründete neue Aktiengesellschaft auszugliedern. Die in Satz 1 ausgenommenen Liegenschaften sind jedoch bei der Prüfung der Ausgliederung durch das Registergericht, wie in § 10 Abs. 4 für die Eröffnungsbilanz festgelegt, zu berücksichtigen.
 
 (2) Die Aktiengesellschaft führt die Firma "Deutsche Bahn Aktiengesellschaft".
 
-
-## § 2 – Ausgliederung aus dem Vermögen der Deutsche Bahn Aktiengesellschaft, Auflösung der Deutsche Bahn Aktiengesellschaft
+# § 2 – Ausgliederung aus dem Vermögen der Deutsche Bahn Aktiengesellschaft, Auflösung der Deutsche Bahn Aktiengesellschaft
 
 (1) Aus der Deutsche Bahn Aktiengesellschaft sind frühestens in drei Jahren, spätestens in fünf Jahren nach ihrer Eintragung im Handelsregister die gemäß § 25 gebildeten Bereiche auf dadurch neu gegründete Aktiengesellschaften auszugliedern.
 
@@ -25,8 +21,7 @@ Ausfertigungsdatum: 27.12.1993
 
 (3) Für die Veräußerung von bis zu 49,9 vom Hundert der Anteile und Stimmrechte an den nach den Absätzen 1 und 2 gebildeten Aktiengesellschaften, deren Tätigkeit den Bau, die Unterhaltung und das Betreiben von Schienenwegen umfaßt, ist die Ermächtigung auf Grund eines Gesetzes, das der Zustimmung des Bundesrates bedarf, erforderlich. In dem Gesetz ist festzulegen, ob 49,9 oder ein geringerer Teil vom Hundert der Anteile auf einmal oder in Stufen veräußert werden soll.
 
-
-## § 3 – Gegenstand des Unternehmens
+# § 3 – Gegenstand des Unternehmens
 
 (1) Gegenstand des Unternehmens der Gesellschaft ist
 
@@ -40,8 +35,7 @@ Ausfertigungsdatum: 27.12.1993
 
 (3) Die Gesellschaft kann sich an Unternehmen gleicher oder verwandter Art beteiligen sowie solche Unternehmen gründen und erwerben. Sie kann unbeschadet der in § 2 genannten Verpflichtung Teile des Gegenstandes ihres Unternehmens im Sinne des Absatzes 1 ganz oder teilweise in solche Unternehmen ausgliedern und sich auf Leitungsaufgaben beschränken.
 
-
-## § 4 – Ausgliederungsplan
+# § 4 – Ausgliederungsplan
 
 (1) Der Vorstand des Bundeseisenbahnvermögens hat spätestens einen Monat nach Inkrafttreten dieses Gesetzes einen Ausgliederungsplan aufzustellen, der notariell beurkundet werden muß. Der Ausgliederungsplan ist unverzüglich nach seiner notariellen Beurkundung dem Bundesministerium für Verkehr zuzuleiten.
 
@@ -59,25 +53,21 @@ Ausfertigungsdatum: 27.12.1993
 
 (3) Im Ausgliederungsplan muß die Satzung der Deutsche Bahn Aktiengesellschaft enthalten sein oder festgestellt werden.
 
-
-## § 5 – Anwendung des Gründungsrechts
+# § 5 – Anwendung des Gründungsrechts
 
 (1) Auf die Gründung der Deutsche Bahn Aktiengesellschaft sind die für ihre Rechtsform geltenden Gründungsvorschriften anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt. Den Gründern steht die Bundesrepublik Deutschland gleich.
 
 (2) Das Bundesministerium für Verkehr bestellt den ersten Aufsichtsrat, den ersten Vorstand sowie für das erste Voll- oder Rumpfgeschäftsjahr den ersten Abschlußprüfer.
 
-
-## § 6 – Wirksamwerden des Ausgliederungsplanes
+# § 6 – Wirksamwerden des Ausgliederungsplanes
 
 Der Ausgliederungsplan wird nur wirksam, wenn ihm das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium der Finanzen schriftlich zustimmt.
 
-
-## § 7 – Anmeldung und Eintragung im Register
+# § 7 – Anmeldung und Eintragung im Register
 
 Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktiengesellschaft haben die Deutsche Bahn Aktiengesellschaft bei dem Gericht, in dessen Bezirk sie ihren Sitz haben soll, zur Eintragung in das Handelsregister anzumelden. Der Anmeldung sind außer den sonst erforderlichen Unterlagen auch in Ausfertigung oder öffentlich beglaubigter Abschrift oder, soweit sie nicht notariell beurkundet werden müssen, in Urschrift oder Abschrift der Ausgliederungsplan sowie die Zustimmungserklärung des Bundesministeriums für Verkehr beizufügen.
 
-
-## § 8 – Wirkung der Eintragung
+# § 8 – Wirkung der Eintragung
 
 (1) Die Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister hat folgende Wirkung:
 
@@ -89,8 +79,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (2) Mängel der Ausgliederung lassen die Wirkungen der Eintragung nach Absatz 1 unberührt.
 
-
-## § 9 – Schutz der Gläubiger
+# § 9 – Schutz der Gläubiger
 
 (1) Durch den Übergang der Verbindlichkeiten auf die Deutsche Bahn Aktiengesellschaft wird das Bundeseisenbahnvermögen von der Haftung für diese Verbindlichkeiten nicht befreit. § 418 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden. Die Deutsche Bahn Aktiengesellschaft und das Bundeseisenbahnvermögen haften für diese Verbindlichkeiten als Gesamtschuldner. Im Verhältnis der Gesamtschuldner zueinander ist die Deutsche Bahn Aktiengesellschaft allein verpflichtet.
 
@@ -98,8 +87,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (3) Für Verbindlichkeiten des Bundeseisenbahnvermögens, die nicht auf die Deutsche Bahn Aktiengesellschaft übergegangen sind, haftet die Gesellschaft nicht.
 
-
-## § 10 – Eröffnungsbilanz
+# § 10 – Eröffnungsbilanz
 
 (1) Die Eröffnungsbilanz der Deutsche Bahn Aktiengesellschaft ist auf den Tag ihrer Eintragung im Handelsregister zu erstellen. Für die Frist zur Aufstellung gilt § 264 Abs. 1 Satz 3 des Handelsgesetzbuchs entsprechend.
 
@@ -109,8 +97,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (4) Die auf Grund des § 21 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen auf die Deutsche Bahn Aktiengesellschaft übergangenen Liegenschaften sind, soweit ihre Erfassung und Bewertung wegen der besonderen Verhältnisse im Bereich des Bundeseisenbahnvermögens bis zur Aufstellung der Eröffnungsbilanz nicht vorgenommen werden konnten, in ihrer Bilanz zunächst nur mit einem auf insgesamt fünf Milliarden Deutsche Mark lautenden Betrag auszuweisen, wobei nur der reine Grundstückswert berücksichtigt ist. Stehen bei der Aufstellung späterer Jahresabschlüsse bis einschließlich des Jahresabschlusses für das Jahr 2001 der Bestand und der tatsächliche Wert der einzelnen Liegenschaften fest, so ist in entsprechender Anwendung des § 36 Abs. 1 Satz 1 des D-Markbilanzgesetzes der jeweils tatsächliche Wert anzusetzen und der Gewinn in die Kapitalrücklage gemäß § 272 des Handelsgesetzbuchs einzustellen. In diesen Fällen gilt die Eröffnungsbilanz als geändert.
 
-
-## § 11 – Steuerliche Vorschriften
+# § 11 – Steuerliche Vorschriften
 
 (1) Die steuerrechtliche Eröffnungsbilanz entspricht der geprüften handelsrechtlichen Eröffnungsbilanz (§ 242 Abs. 1 des Handelsgesetzbuchs) der Deutsche Bahn Aktiengesellschaft; die folgenden Besonderheiten sind zu beachten. § 5 Abs. 2, 3, 4 und 5 und § 6a des Einkommensteuergesetzes sind anzuwenden. Rückstellungen nach § 249 Abs. 1 Satz 3 und Abs. 2 des Handelsgesetzbuchs dürfen nicht gebildet werden. § 9 Abs. 2 Satz 3 und Abs. 3 des D-Markbilanzgesetzes ist nicht anzuwenden. Die Berichtigung von Ansätzen nach § 10 Abs. 4 Satz 2 führt zu einer Berichtigung der steuerlichen Eröffnungsbilanz und etwaiger Folgebilanzen. Sind bereits Steuerbescheide erlassen worden, so sind sie zu ändern, soweit die Berichtigung von Bilanz- oder Wertansätzen zu einem geänderten Gewinn oder Verlust führt oder sich auf die Feststellung von Einheitswerten auswirkt.
 
@@ -118,8 +105,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (3) Die Absätze 1 und 2 gelten für Gesellschaften, die im Wege der Ausgliederung nach § 2 Abs. 1 errichtet werden, entsprechend.
 
-
-## § 12 – Beamte
+# § 12 – Beamte
 
 (1) Beurlaubungen von Beamten des Bundeseisenbahnvermögens zur Wahrnehmung einer Tätigkeit bei der Deutsche Bahn Aktiengesellschaft dienen dienstlichen Interessen.
 
@@ -139,15 +125,13 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (9) Das Bundeseisenbahnvermögen kann die Zuweisung im Einzelfall im Einvernehmen mit der Deutsche Bahn Aktiengesellschaft aufheben oder eine anderweitige Verwendung vorsehen. Voraussetzung für die Aufhebung einer Zuweisung ist, daß beim Bundeseisenbahnvermögen eine Planstelle zur Verfügung steht.
 
-
-## § 13 – Rechtsaufsicht
+# § 13 – Rechtsaufsicht
 
 (1) Dem Präsidenten des Bundeseisenbahnvermögens obliegt die Aufsicht darüber, daß die Deutsche Bahn Aktiengesellschaft bei der Wahrnehmung der Befugnisse, die ihr auf Grund des § 12 Abs. 6 zur Ausübung übertragen sind, die beamtenrechtlichen Bestimmungen dieses Gesetzes und anderer Gesetze und Verordnungen beachtet. Im Rahmen dieser Aufsicht steht dem Präsidenten des Bundeseisenbahnvermögens ein uneingeschränktes Recht auf Unterrichtung durch den Vorstand oder Aufsichtsrat und ein Weisungsrecht gegenüber der Deutsche Bahn Aktiengesellschaft zu.
 
 (2) Werden durch ein Handeln oder Unterlassen der Deutsche Bahn Aktiengesellschaft beamtenrechtliche Bestimmungen verletzt, soll der Präsident des Bundeseisenbahnvermögens zunächst darauf hinwirken, daß die Gesellschaft die Rechtsverletzung behebt. Kommt die Gesellschaft dem innerhalb einer gesetzten Frist nicht nach, kann der Präsident des Bundeseisenbahnvermögens die Rechtsverletzung selbst beheben. In diesem Falle gehen die der Gesellschaft zur Ausübung übertragenen Befugnisse auf den Präsidenten des Bundeseisenbahnvermögens über. Die Rechte und Pflichten des Betriebs- oder Gesamtbetriebsrats sowie der zuständigen besonderen Personalvertretung blieben unberührt.
 
-
-## § 14 – Arbeitnehmer
+# § 14 – Arbeitnehmer
 
 (1) Der Vorstand des Bundeseisenbahnvermögens stellt vor Anmeldung der Deutsche Bahn Aktiengesellschaft zur Eintragung in das Handelsregister eine Liste auf, in der die Dienststellen oder Teile einer Dienststelle, die als Betriebe oder Betriebsteile im Sinne des § 613a Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs auf die Deutsche Bahn Aktiengesellschaft mit ihrer Eintragung im Handelsregister übergehen, enthalten sind. Eine Abschrift der Liste ist der Anmeldung der Gesellschaft zur Eintragung in das Handelsregister beizufügen und den Arbeitnehmern des Bundeseisenbahnvermögens in geeigneter Weise schriftlich bekanntzugeben.
 
@@ -161,8 +145,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (6) § 8 Abs. 3 des Einkommensteuergesetzes gilt entsprechend für die Arbeitnehmer der früheren Sondervermögen Deutsche Bundesbahn und Deutsche Reichsbahn, deren Arbeitsverhältnisse wegen Erreichens der Altersgrenze oder Zuerkennung einer Rente geendet haben.
 
-
-## § 15 – Übergangsmandat der örtlichen Personalräte
+# § 15 – Übergangsmandat der örtlichen Personalräte
 
 (1) Die örtlichen Personalräte in den Dienststellen, die als Betriebe oder Betriebsteile auf die Deutsche Bahn Aktiengesellschaft übergehen, bleiben übergangsweise bestehen. Sie gelten ab dem Zeitpunkt des Übergangs als Betriebsräte und haben die Rechte und Pflichten nach dem Betriebsverfassungsgesetz; § 17 Abs. 2 bleibt unberührt. Das Übergangsmandat endet, sobald in den Betrieben oder Betriebsteilen der Deutsche Bahn Aktiengesellschaft ein Betriebsrat gewählt und das Wahlergebnis bekannt gegeben ist, spätestens drei Monate nach dem Zeitpunkt des Übergangs.
 
@@ -170,8 +153,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (3) Absatz 1 Satz 1 und 3 sowie Absatz 2 gelten für die örtlichen Schwerbehindertenvertretungen entsprechend.
 
-
-## § 16 – Überleitung von Dienstleistungsüberlassungsverträgen
+# § 16 – Überleitung von Dienstleistungsüberlassungsverträgen
 
 (1) § 12 Abs. 2 gilt nicht für Beamte, die im Zeitpunkt der Eintragung der Deutsche Bahn Aktiengesellschaft in das Handelsregister auf Grund eines zwischen einer bisherigen Bundeseisenbahn und einem anderen Unternehmen bestehenden Dienstleistungsüberlassungsvertrages einem anderen Unternehmen zur Dienstleistung überlassen worden sind.
 
@@ -181,8 +163,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (4) Bei Aufhebung oder sonstiger Beendigung bestehender Dienstleistungsüberlassungsverträge finden § 12 Abs. 1 und 2 sowie § 14 Abs. 2 bis 4 entsprechend Anwendung.
 
-
-## § 17 – Personalvertretung, Schwerbehindertenvertretung
+# § 17 – Personalvertretung, Schwerbehindertenvertretung
 
 (1) Zur Wahrung der Interessen der Beamten, die gemäß § 12 Abs. 2 und 3 der Deutsche Bahn Aktiengesellschaft zugewiesen sind, gegenüber den sie betreffenden Entscheidungen und Maßnahmen des Bundeseisenbahnvermögens werden beim Bundeseisenbahnvermögen besondere Personalvertretungen gebildet, die ausschließlich von den der Deutsche Bahn Aktiengesellschaft zugewiesenen Beamten gewählt werden. Das Bundeseisenbahnvermögen bestimmt durch Verwaltungsanordnung die Zusammensetzung des Kreises der zugewiesenen Beamten, für den jeweils eine besondere Personalvertretung zuständig ist; die zuständige besondere Personalvertretung wirkt mit bei der Entscheidung des Bundeseisenbahnvermögens. Im übrigen finden die Vorschriften des Bundespersonalvertretungsgesetzes sinngemäß Anwendung.
 
@@ -202,8 +183,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (9) Bis zur Wahl zu den Personalvertretungen nach Absatz 1 ist der nach § 8 Abs. 2 und 3 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen gebildete gemeinsame Hauptpersonalrat zuständig.
 
-
-## § 18 – Öffentlich-rechtliche Amtsverhältnisse
+# § 18 – Öffentlich-rechtliche Amtsverhältnisse
 
 (1) Die Amtsverhältnisse der Personen, die nach den §§ 8, 9a und 19a des Bundesbahngesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 431-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 6 Abs. 129 des Eisenbahnneuordnungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378) geändert worden ist, in einem öffentlich-rechtlichen Amtsverhältnis zum Bund stehen, enden mit der Eintragung der gemäß § 1 Abs. 1 gegründeten Deutsche Bahn Aktiengesellschaft in das Handelsregister. Die die Rechtsverhältnisse der in Satz 1 genannten Personen näher regelnden Amtsverträge nach § 8a Abs. 3 des Bundesbahngesetzes gehen als Anstellungsverträge zum gleichen Zeitpunkt mit allen Rechten und Pflichten auf die Deutsche Bahn Aktiengesellschaft über; die Bestimmungen des § 8a Abs. 1 und 2 sowie des § 8b Abs. 1 Satz 2 und 3, Abs. 2 des Bundesbahngesetzes gelten sinngemäß fort mit der Maßgabe, daß an die Stelle des Endes des Amtsverhältnisses das Ende der ursprünglichen Amtszeit tritt.
 
@@ -221,20 +201,17 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (8) Versorgungsansprüche aus Amtsvertrag bestehen nicht, wenn ein ehemaliger Amtsträger nach § 19a in Verbindung mit § 8b des Bundesbahngesetzes für die Zeit nach dem Ende des Amtsvertrages gemäß Absatz 1 Satz 2 und vor Vollendung des 63. Lebensjahres ein Angebot der Deutsche Bahn Aktiengesellschaft oder von Unternehmen nach § 2 Abs. 1 oder § 3 Abs. 3 auf Weiterbeschäftigung in vergleichbaren und entsprechend vergüteten Funktionen wie im Amtsvertrag ablehnt, ohne wegen Dienstunfähigkeit daran gehindert zu sein. Satz 1 gilt auch, wenn er nachfolgende entsprechende Angebote auf Weiterbeschäftigung ablehnt. Für die anderen ehemaligen Amtsträger nach § 19a des Bundesbahngesetzes gilt Satz 1 entsprechend mit der Maßgabe, daß sie ihre Versorgungsansprüche lediglich aus dem beendeten Amtsvertrag nach Absatz 1 Satz 2 verlieren.
 
-
-## § 19 – Geltung arbeitsrechtlicher Vorschriften
+# § 19 – Geltung arbeitsrechtlicher Vorschriften
 
 (1) Die Beamten des Bundeseisenbahnvermögens, die nach § 12 Abs. 2 und 3 der Deutsche Bahn Aktiengesellschaft zugewiesen sind, gelten für die Anwendung von Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat, für die Anwendung des Betriebsverfassungsgesetzes und des Sprecherausschußgesetzes als Arbeitnehmer der Deutsche Bahn Aktiengesellschaft. Sie gelten für die Anwendung der Vorschriften über die Schwerbehindertenvertretung als Beschäftigte der Deutsche Bahn Aktiengesellschaft.
 
 (2) Soweit die Deutsche Bahn Aktiengesellschaft Verpflichtungen, die ihr nach dem Betriebsverfassungsgesetz und dem Sprecherausschußgesetz vom 20. Dezember 1988 (BGBl. I S. 2316) sowie nach den Vorschriften über die Vertretung der Arbeitnehmer im Aufsichtsrat und über die Schwerbehindertenvertretung obliegen, deshalb nicht erfüllen kann, weil sie nicht Dienstherr der ihr gemäß § 12 Abs. 2 und 3 zugewiesenen Beamten ist, treffen diese Verpflichtungen das Bundeseisenbahnvermögen.
 
-
-## § 20
+# § 20
 
 (weggefallen)
 
-
-## § 21 – Personalkosten
+# § 21 – Personalkosten
 
 (1) Die Deutsche Bahn Aktiengesellschaft leistet an das Bundeseisenbahnvermögen für die ihr gemäß § 12 Abs. 2 und 3 zugewiesenen Beamten Zahlungen in Höhe der Aufwendungen, die sie für die Arbeitsleistung vergleichbarer, von der Gesellschaft neu einzustellender Arbeitnehmer unter Einbeziehung der Arbeitgeberanteile zur gesetzlichen Sozialversicherung sowie der betrieblichen Altersversorgung erbringt oder erbringen müßte. Soweit von der Deutsche Bahn Aktiengesellschaft nach § 12 Abs. 7 anderweitige Bezüge gezahlt werden, die nicht auf die Besoldung angerechnet werden, ist bei der Berechnung der von der Deutsche Bahn Aktiengesellschaft nach Satz 1 zu leistenden Zahlungen mindestens von der Höhe der Dienstbezüge des zugewiesenen Beamten ohne Einbeziehung von Anteilen zur Sozialversicherung sowie zur betrieblichen Altersversorgung auszugehen. Außerdem erstattet sie dem Bundeseisenbahnvermögen anteilige Personalverwaltungskosten. Bis zum Inkrafttreten eines Tarifvertrages bei der Deutsche Bahn Aktiengesellschaft sind die gemäß § 14 Abs. 3 fortgeltenden Tarifverträge Grundlage für die Höhe der Zahlungen nach Satz 1.
 
@@ -258,8 +235,7 @@ Die Mitglieder des Vorstandes und des Aufsichtsrates der Deutsche Bahn Aktienges
 
 (9) Die Deutsche Bahn Aktiengesellschaft legt jährlich Rechnung über die Personalkosten nach den Absätzen 1 bis 6, wobei sie eine Bestätigung des für die Prüfung des Jahresabschlusses bestellten Abschlußprüfers beifügt. Auf Verlangen des Bundeseisenbahnvermögens sind die Personalkosten der Deutsche Bahn Aktiengesellschaft durch einen im Einvernehmen mit ihr zu beauftragenden Wirtschaftsprüfer oder eine Wirtschaftsprüfungsgesellschaft festzustellen; dieser oder diese dürfen nicht Abschlußprüfer gemäß Satz 1 sein. Die Kosten dieses Wirtschaftsprüfers oder der Wirtschaftsprüfungsgesellschaft tragen das Bundeseisenbahnvermögen und die Deutsche Bahn Aktiengesellschaft je zur Hälfte.
 
-
-## § 22 – Übernahme von Altlasten
+# § 22 – Übernahme von Altlasten
 
 (1) Der Bund leistet einen Beitrag zum Abbau der wirtschaftlichen und ökologischen Altlasten im Bereich des bisherigen Sondervermögens Deutsche Reichsbahn und gewährt zu diesem Zweck der Deutsche Bahn Aktiengesellschaft für neun Jahre ab dem Zeitpunkt der Geschäftsaufnahme Zuwendungen
 
@@ -277,28 +253,23 @@ Hinsichtlich des vorübergehend erhöhten Personalbedarfs aus Gründen des in de
 
 (4) Einzelheiten der Mitwirkung der in Absatz 3 Satz 2 genannten Länder bei der Durchführung des Absatzes 1 Satz 1 Nr. 2 werden in einem Verwaltungsabkommen des Bundes mit diesen Länder geregelt.
 
-
-## § 23 – Anwendung von Vorschriften auf ausgegliederte Gesellschaften
+# § 23 – Anwendung von Vorschriften auf ausgegliederte Gesellschaften
 
 Die §§ 12, 13, 17, 19, 21 und 22 gelten entsprechend für die nach § 2 Abs. 1 ausgegliederten Gesellschaften. Für nach § 3 Abs. 3 ausgegliederte Gesellschaften gilt Satz 1 mit der Maßgabe, daß der neue Rechtsträger Geschäftstätigkeiten im Sinne des § 3 Abs. 1 Nr. 1 oder 2 ausübt.
 
-
-## § 24 – Rechtsverordnungen
+# § 24 – Rechtsverordnungen
 
 Rechtsverordnungen auf Grund des zweiten Abschnitts dieses Gesetzes bedürfen nicht der Zustimmung des Bundesrates.
 
-
-## § 25 – Interne Gliederung
+# § 25 – Interne Gliederung
 
 Innerhalb der Deutsche Bahn Aktiengesellschaft sind mindestens die Bereiche "Personennahverkehr", "Personenfernverkehr", "Güterverkehr" und "Fahrweg" organisatorisch und rechnerisch voneinander zu trennen. Die Vermögenswerte sind den jeweiligen Bereichen zuzuordnen.
 
-
-## § 26 – Beteiligung an Sozialeinrichtungen, Anerkennung
+# § 26 – Beteiligung an Sozialeinrichtungen, Anerkennung
 
 Die Deutsche Bahn Aktiengesellschaft hat spätestens nach Ablauf von sechs Monaten nach ihrer Eintragung im Handelsregister gegenüber dem Bundeseisenbahnvermögen zu erklären, ob sie sich an der Bahnversicherungsanstalt Abteilung B und an einzelnen der in der Anlage zu § 15 Abs. 2 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen aufgeführten betrieblichen Sozialeinrichtungen oder Selbsthilfeeinrichtungen des Bundeseisenbahnvermögens beteiligt oder diese anerkennt.
 
-
-## § 27 – Prüfungsrechte des Bundesrechnungshofes
+# § 27 – Prüfungsrechte des Bundesrechnungshofes
 
 (1) Die Prüfung der Betätigung des Bundes bei der Deutsche Bahn Aktiengesellschaft sowie bei den durch Ausgliederung gemäß § 2 Abs. 1 oder § 3 Abs. 3 errichteten Gesellschaften richtet sich nach § 92 der Bundeshaushaltsordnung.
 

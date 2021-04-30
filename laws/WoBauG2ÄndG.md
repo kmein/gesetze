@@ -1,10 +1,7 @@
-# [WoBauG2ÄndG] Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes, anderer wohnungsbaurechtlicher Vorschriften und über die Rückerstattung von Baukostenzuschüssen
-
-Ausfertigungsdatum: 21.07.1961
-
+% Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes, anderer wohnungsbaurechtlicher Vorschriften und über die Rückerstattung von Baukostenzuschüssen
+% Ausfertigungsdatum: 21.07.1961
  
-
-## Inhaltsübersicht
+# Inhaltsübersicht
 
 |               |                                                                        |
 |:--------------|:-----------------------------------------------------------------------|
@@ -19,48 +16,39 @@ Ausfertigungsdatum: 21.07.1961
 | Artikel IX:   | Geltung in Berlin                                                      |
 | Artikel X:    | Inkrafttreten                                                          |
 
-
-## § 1
+# § 1
 
 Auf Familienheime, die bis zum 31. Dezember 1961 bezugsfertig geworden sind, findet § 45 des Zweiten Wohnungsbaugesetzes in der bisherigen Fassung weiterhin Anwendung.
 
-
-## §§ 2 und 3 – (weggefallen)
+# §§ 2 und 3 – (weggefallen)
 
 \-
 
-
-## § 1
+# § 1
 
 Hat ein Mieter oder für ihn ein Dritter dem Vermieter mit Rücksicht auf die Vermietung einer Wohnung auf Grund vertraglicher Verpflichtung einen verlorenen Zuschuß, insbesondere einen verlorenen Baukostenzuschuß, geleistet, und wird das Mietverhältnis nach dem 31. Oktober 1965 beendigt, so hat der Vermieter die Leistung, soweit sie nicht durch die Dauer des Mietverhältnisses als getilgt anzusehen ist, nach Maßgabe des § 347 des Bürgerlichen Gesetzbuchs zurückzuerstatten. Erfolgt die Beendigung des Mietverhältnisses wegen eines Umstandes, den der Vermieter nicht zu vertreten hat, so hat er die Leistung nach den Vorschriften über die Herausgabe einer ungerechtfertigten Bereicherung zurückzuerstatten.
 
-
-## § 2
+# § 2
 
 Beruht der Zuschuß auf einer nach dem Inkrafttreten dieses Gesetzes getroffenen Vereinbarung, so gilt ein Betrag in Höhe einer Jahresmiete durch eine Mietdauer von vier Jahren von der Leistung an als getilgt. Dabei ist die ortsübliche Miete für Wohnungen gleicher Art, Finanzierungsweise, Lage und Ausstattung zur Zeit der Leistung maßgebend. Leistungen, die den Betrag einer Vierteljahresmiete nicht erreichen, bleiben außer Betracht.
 
-
-## § 3
+# § 3
 
 Beruht der Zuschuß auf einer vor dem Inkrafttreten dieses Gesetzes getroffenen Vereinbarung, so gilt er als für eine Mietdauer gewährt, die unter Berücksichtigung aller Umstände, insbesondere der Höhe des Zuschusses und der laufenden Miete, der Billigkeit entspricht.
 
-
-## § 4
+# § 4
 
 Der Anspruch auf Rückerstattung verjährt nach Ablauf eines Jahres von der Beendigung des Mietverhältnisses an.
 
-
-## § 5
+# § 5
 
 Eine von den Vorschriften der §§ 1 bis 4 zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
-
-## § 6
+# § 6
 
 Die §§ 1 bis 5 gelten nicht für verlorene Zuschüsse, die wegen ihrer Unzulässigkeit nach anderen Vorschriften zurückzuerstatten sind.
 
-
-## § 7
+# § 7
 
 Bei Wohnraum, der nach dem 20. Juni 1948 bezugsfertig geworden ist, hat es sein Bewenden:
 
@@ -68,13 +56,11 @@ a) bei § 1 in der Fassung vom 21. Juli 1961 (Bundesgesetzbl. I S. 1041), wenn d
 
 b) bei § 1 in der Fassung des Artikels III Nr. 8 des Zweiten Gesetzes zur Änderung mietrechtlicher Vorschriften vom 14. Juli 1964 (Bundesgesetzbl. I S. 457), wenn das Mietverhältnis in der Zeit vom 1. August 1964 bis zum 31. Oktober 1965 endigt und im Zeitpunkt der Beendigung das Mieterschutzgesetz nach seinem § 54 Abs. 2, 3 unanwendbar ist.
 
-
-## § 1
+# § 1
 
 Artikel I und II gelten nicht im Saarland.
 
-
-## § 2
+# § 2
 
 Das Gesetz Nr. 696, Wohnungsbaugesetz für das Saarland vom 17. Juli 1959 (Amtsblatt des Saarlandes S. 1349) wird wie folgt geändert:
 
@@ -282,17 +268,14 @@ Aufwendungen für Miet- und Lastenbeihilfen nach §§ 36 bis 40, die dem Saarlan
 
 Der bisherige Absatz 4 wird Absatz 5.
 
-
-## § 3
+# § 3
 
 Auf Familienheime, die bis zum 31. Dezember 1961 bezugsfertig geworden sind, findet § 27 des Wohnungsbaugesetzes für das Saarland in der bisherigen Fassung weiterhin Anwendung.
 
-
-## § 4
+# § 4
 
 Die Regierung des Saarlandes wird ermächtigt, das Wohnungsbaugesetz für das Saarland in der geltenden Fassung und in neuer Paragraphenfolge bekanntzumachen und dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
-
-## § 5
+# § 5
 
 \-

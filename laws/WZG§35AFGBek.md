@@ -1,5 +1,3 @@
-# [WZG§35AFGBek] Bekanntmachung zu § 35 des Warenzeichengesetzes
-
-Ausfertigungsdatum: 21.07.1967
-
+% Bekanntmachung zu § 35 des Warenzeichengesetzes
+% Ausfertigungsdatum: 21.07.1967
  

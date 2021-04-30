@@ -1,15 +1,11 @@
-# [IDÜV] Verordnung über die Übermittlung von Indexdaten der Landesjustizverwaltungen an das Transparenzregister  (Indexdatenübermittlungsverordnung - IDÜV)
-
-Ausfertigungsdatum: 12.07.2017
-
+% Verordnung über die Übermittlung von Indexdaten der Landesjustizverwaltungen an das Transparenzregister  (Indexdatenübermittlungsverordnung - IDÜV)
+% Ausfertigungsdatum: 12.07.2017
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 22 Absatz 3 Satz 1 des Geldwäschegesetzes vom 23. Juni 2017 (BGBl. I S. 1822) verordnet das Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:
 
-
-## § 1 – Übermittlung von Indexdaten zu Eintragungen im Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister
+# § 1 – Übermittlung von Indexdaten zu Eintragungen im Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister
 
 (1) Die Landesjustizverwaltungen übermitteln dem Transparenzregister folgende Indexdaten zu Eintragungen im Handels-, Partnerschafts- und Genossenschaftsregister gemäß § 22 Absatz 1 Satz 1 Nummer 4 bis 8 des Geldwäschegesetzes:
 
@@ -31,8 +27,7 @@ Auf Grund des § 22 Absatz 3 Satz 1 des Geldwäschegesetzes vom 23. Juni 2017 (B
 
 (+++ § 1 Abs. 2 u. 3: zur Anwendung vgl. § 2 Satz 2 +++)
 
-
-## § 2 – Übermittlung von Indexdaten zu Bekanntmachungen aus dem Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister
+# § 2 – Übermittlung von Indexdaten zu Bekanntmachungen aus dem Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister
 
 Die Landesjustizverwaltungen übermitteln dem Transparenzregister folgende Indexdaten zu Bekanntmachungen aus dem Handels-, Partnerschafts-, und Genossenschaftsregister:
 
@@ -54,43 +49,36 @@ Die Landesjustizverwaltungen übermitteln dem Transparenzregister folgende Index
 
 § 1 Absatz 2 und 3 gelten entsprechend.
 
-
-## § 3 – Art der Datenübermittlung
+# § 3 – Art der Datenübermittlung
 
 (1) Die Indexdaten sind in einem zwischen dem Betreiber des Transparenzregisters und den Landesjustizverwaltungen vereinbarten strukturierten Format zu übermitteln.
 
 (2) Die Landesjustizverwaltungen übermitteln dem Transparenzregister die Indexdaten über eine nach dem Stand der Technik gesicherte, zwischen dem Betreiber des Transparenzregisters und den Landesjustizverwaltungen vereinbarte Verbindung der Datenfernübertragung.
 
-
-## § 4 – Form der Indexdaten
+# § 4 – Form der Indexdaten
 
 Die Landesjustizverwaltungen stellen sicher, dass die übermittelten Indexdaten ohne Aufbereitung oder Veränderung den Zugang zu den Originaldaten nach § 22 Absatz 1 Satz 1 Nummer 4 bis 8 des Geldwäschegesetzes und eine Suche nach § 23 Absatz 4 des Geldwäschegesetzes im Transparenzregister ermöglichen.
 
-
-## § 5 – Änderung und Aktualisierung der Daten
+# § 5 – Änderung und Aktualisierung der Daten
 
 (1) Die Landesjustizverwaltungen übermitteln Änderungen der Indexdaten zu Eintragungen im Handels-, Partnerschafts- und Genossenschaftsregister (§ 1 Absatz 1) unverzüglich. Für Änderungen der Indexdaten zu Eintragungen im Vereinsregister (§ 1 Absatz 2) gilt Satz 1 entsprechend.
 
 (2) Die Indexdaten zu Bekanntmachungen aus dem Handels-, Partnerschafts-, Genossenschafts- und Vereinsregister (§ 2) sind täglich zu aktualisieren. Die Landesjustizverwaltungen können in Absprache mit dem Betreiber des Transparenzregisters eine häufigere Aktualisierung oder eine vollständige Neuübermittlung vornehmen, wenn dadurch der Betrieb des Transparenzregisters nicht beeinträchtigt wird.
 
-
-## § 6 – Sicherheit
+# § 6 – Sicherheit
 
 (1) Kommt es während einer Datenübermittlung zu Störungen oder Unterbrechungen, soll dies der übermittelnden Stelle angezeigt und eine erneute Übermittlung verlangt werden.
 
 (2) Der Betreiber des Transparenzregisters erstellt im Einvernehmen mit dem Bundesamt für Sicherheit in der Informationstechnik ein Sicherheitskonzept für das Transparenzregister.
 
-
-## § 7 – Übergangsregelung
+# § 7 – Übergangsregelung
 
 § 1 Absatz 2, auch in Verbindung mit § 2 Satz 2 und § 5 Absatz 1 Satz 2, ist erst ab dem 26. Juni 2018 anzuwenden.
 
-
-## § 8 – Inkrafttreten
+# § 8 – Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-
-## Schlussformel
+# Schlussformel
 
 Der Bundesrat hat zugestimmt.

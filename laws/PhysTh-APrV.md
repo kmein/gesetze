@@ -1,15 +1,11 @@
-# [PhysTh-APrV] Ausbildungs- und Prüfungsverordnung für Physiotherapeuten  (PhysTh-APrV)
-
-Ausfertigungsdatum: 06.12.1994
-
+% Ausbildungs- und Prüfungsverordnung für Physiotherapeuten  (PhysTh-APrV)
+% Ausfertigungsdatum: 06.12.1994
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 13 Abs. 2 und 3 in Verbindung mit § 12 Abs. 1 Satz 8 und 9 des Masseur- und Physiotherapeutengesetzes vom 26. Mai 1994 (BGBl. I S. 1084) verordnet das Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 
-
-## § 1 – Ausbildung
+# § 1 – Ausbildung
 
 (1) Die dreijährige Ausbildung der Physiotherapeuten umfaßt mindestens den in der Anlage 1 aufgeführten theoretischen und praktischen Unterricht von 2.900 Stunden und die aufgeführte praktische Ausbildung von 1.600 Stunden. In den Fällen des § 12 Abs. 2 des Masseur- und Physiotherapeutengesetzes und für Umschüler nach § 18 Satz 2 des Gesetzes sind die Stundenzahlen entsprechend zu verringern, wobei sich der Unterricht auf alle Fächer der Anlage 1 erstrecken muß.
 
@@ -19,15 +15,13 @@ Auf Grund des § 13 Abs. 2 und 3 in Verbindung mit § 12 Abs. 1 Satz 8 und 9 des
 
 (4) Die regelmäßige und erfolgreiche Teilnahme an den Ausbildungsveranstaltungen nach Absatz 1 oder 2 ist durch eine Bescheinigung nach dem Muster der Anlage 4 nachzuweisen. Im Falle des Fernunterrichts nach Absatz 2 Satz 4 ist der Bescheinigung nach Satz 1 eine Bescheinigung des Fernlehrinstituts beizufügen, aus der sich die erfolgreiche Teilnahme am Fernunterricht ergibt.
 
-
-## § 2 – Staatliche Prüfung
+# § 2 – Staatliche Prüfung
 
 (1) Die staatliche Prüfung für die Ausbildungen nach § 9 und § 12 Abs. 1 des Masseur- und Physiotherapeutengesetzes umfaßt jeweils einen schriftlichen, einen mündlichen und einen praktischen Teil. Die Prüfung für die Ausbildungen nach § 12 Abs. 1 des Gesetzes besteht aus einer Ergänzungsprüfung, die in zwei Teilabschnitten abgelegt werden kann.
 
 (2) Der Prüfling legt die Prüfung bei der Schule für Physiotherapeuten (Schule) ab, an der er die Ausbildung abschließt. Die zuständige Behörde, in deren Bereich die Prüfung oder ein Teil der Prüfung abgelegt werden soll, kann aus wichtigem Grund Ausnahmen zulassen. Die Vorsitzenden der beteiligten Prüfungsausschüsse sind vorher zu hören.
 
-
-## § 3 – Prüfungsausschuß
+# § 3 – Prüfungsausschuß
 
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus folgenden Mitgliedern besteht:
 
@@ -51,8 +45,7 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (4) Die zuständige Behörde kann Sachverständige und Beobachter zur Teilnahme an allen Prüfungsvorgängen entsenden.
 
-
-## § 4 – Zulassung zur Prüfung
+# § 4 – Zulassung zur Prüfung
 
 (1) Der Vorsitzende entscheidet auf Antrag des Prüflings über die Zulassung zur Prüfung und setzt die Prüfungstermine im Benehmen mit der Schulleitung fest. Der Prüfungsbeginn soll nicht früher als zwei Monate vor dem Ende der Ausbildung liegen. Wird die Prüfung als Ergänzungsprüfung und in Teilabschnitten abgelegt, darf der Termin für den ersten Abschnitt der Prüfung nicht vor dem Abschluß des theoretischen und praktischen Unterrichts liegen. Der zweite Abschnitt der Prüfung darf erst nach dem Abschluß der praktischen Ausbildung durchgeführt werden.
 
@@ -66,13 +59,11 @@ dem Prüfungsausschuß sollen diejenigen Fachprüfer angehören, die den Prüfli
 
 (4) Die besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
 
-
-## § 5 – Niederschrift
+# § 5 – Niederschrift
 
 Über die Prüfung ist eine Niederschrift zu fertigen, aus der Gegenstand, Ablauf und Ergebnisse der Prüfung und etwa vorkommende Unregelmäßigkeiten hervorgehen.
 
-
-## § 6 – Benotung
+# § 6 – Benotung
 
 Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und praktischen Prüfung werden wie folgt benotet:
 
@@ -94,8 +85,7 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 \-  
 "ungenügend" (6), wenn die Leistung den Anforderungen nicht entspricht und selbst die Grundkenntnisse so lückenhaft sind, daß die Mängel in absehbarer Zeit nicht behoben werden können.
 
-
-## § 7 – Bestehen und Wiederholung der Prüfung
+# § 7 – Bestehen und Wiederholung der Prüfung
 
 (1) Die Prüfung ist bestanden, wenn jeder der nach § 2 Abs. 1 vorgeschriebenen Prüfungsteile bestanden ist.
 
@@ -105,32 +95,27 @@ Die schriftlichen Aufsichtsarbeiten sowie die Leistungen in der mündlichen und 
 
 (4) Hat der Prüfling eine Fächergruppe der praktischen Prüfung oder die gesamte praktische Prüfung zu wiederholen, so darf er zur Prüfung nur zugelassen werden, wenn er an einer weiteren Ausbildung teilgenommen hat, deren Dauer und Inhalt vom Vorsitzenden des Prüfungsausschusses im Benehmen mit den Fachprüfern bestimmt werden. Die weitere Ausbildung darf einschließlich der für die Prüfung erforderlichen Zeit die Dauer von einem Jahr nicht überschreiten. Ein Nachweis über die Teilnahme an der weiteren Ausbildung ist dem Antrag des Prüflings auf Zulassung zur Wiederholungsprüfung beizufügen. Die Wiederholungsprüfung muß spätestens zwölf Monate nach der letzten Prüfung abgeschlossen sein; Ausnahmen kann die zuständige Behörde in begründeten Fällen zulassen.
 
-
-## § 8 – Rücktritt von der Prüfung
+# § 8 – Rücktritt von der Prüfung
 
 (1) Tritt ein Prüfling nach seiner Zulassung von der Prüfung zurück, so hat er die Gründe für seinen Rücktritt unverzüglich dem Vorsitzenden des Prüfungsausschusses schriftlich mitzuteilen. Genehmigt der Vorsitzende den Rücktritt, so gilt die Prüfung als nicht unternommen. Die Genehmigung ist zu erteilen, wenn wichtige Gründe vorliegen. Im Falle einer Krankheit kann die Vorlage einer ärztlichen Bescheinigung verlangt werden.
 
 (2) Wird die Genehmigung für den Rücktritt nicht erteilt oder unterläßt es der Prüfling, die Gründe für seinen Rücktritt unverzüglich mitzuteilen, so gilt die Prüfung als nicht bestanden. § 7 Abs. 3 gilt entsprechend.
 
-
-## § 9 – Versäumnisfolgen
+# § 9 – Versäumnisfolgen
 
 (1) Versäumt ein Prüfling einen Prüfungstermin oder gibt er eine Aufsichtsarbeit nicht oder nicht rechtzeitig ab oder unterbricht er die Prüfung, so gilt die Prüfung als nicht bestanden, wenn nicht ein wichtiger Grund vorliegt; § 7 Abs. 3 gilt entsprechend. Liegt ein wichtiger Grund vor, so gilt die Prüfung als nicht unternommen.
 
 (2) Die Entscheidung darüber, ob ein wichtiger Grund vorliegt, trifft der Vorsitzende des Prüfungsausschusses. § 8 Abs. 1 Satz 1 und 4 gilt entsprechend.
 
-
-## § 10 – Ordnungsverstöße und Täuschungsversuche
+# § 10 – Ordnungsverstöße und Täuschungsversuche
 
 Der Vorsitzende des Prüfungsausschusses kann bei Prüflingen, die die ordnungsgemäße Durchführung der Prüfung in erheblichem Maße gestört oder sich eines Täuschungsversuchs schuldig gemacht haben, den betreffenden Teil der Prüfung für "nicht bestanden" erklären; § 7 Abs. 3 gilt entsprechend. Eine solche Entscheidung ist im Falle der Störung der Prüfung nur bis zum Abschluß der gesamten Prüfung, im Falle eines Täuschungsversuchs nur innerhalb von drei Jahren nach Abschluß der Prüfung zulässig.
 
-
-## § 11 – Prüfungsunterlagen
+# § 11 – Prüfungsunterlagen
 
 Auf Antrag ist dem Prüfungsteilnehmer nach Abschluß der Prüfung Einsicht in seine Prüfungsunterlagen zu gewähren. Schriftliche Aufsichtsarbeiten sind drei, Anträge auf Zulassung zur Prüfung und Prüfungsniederschriften zehn Jahre aufzubewahren.
 
-
-## § 12 – Schriftlicher Teil der Prüfung
+# § 12 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -146,8 +131,7 @@ Der Prüfling hat in den vier Fächergruppen in jeweils einer Aufsichtsarbeit sc
 
 (2) Die Aufgaben für die Aufsichtsarbeiten werden von dem Vorsitzenden des Prüfungsausschusses auf Vorschlag der Schule ausgewählt. Jede Aufsichtsarbeit ist von mindestens zwei Fachprüfern zu benoten. Aus den Noten der Fachprüfer bildet der Vorsitzende des Prüfungsausschusses im Benehmen mit den Fachprüfern die Note für die einzelne Aufsichtsarbeit sowie aus den Noten der vier Aufsichtsarbeiten die Prüfungsnote für den schriftlichen Teil der Prüfung. Der schriftliche Teil der Prüfung ist bestanden, wenn jede der vier Aufsichtsarbeiten mindestens mit "ausreichend" benotet wird.
 
-
-## § 13 – Mündlicher Teil der Prüfung
+# § 13 – Mündlicher Teil der Prüfung
 
 (1) Der mündliche Teil der Prüfung erstreckt sich auf folgende Fächer:
 
@@ -163,8 +147,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den Fäc
 
 (3) Der Vorsitzende des Prüfungsausschusses kann auf begründeten Antrag die Anwesenheit von Zuhörern beim mündlichen Teil der Prüfung gestatten.
 
-
-## § 14 – Praktischer Teil der Prüfung
+# § 14 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -186,8 +169,7 @@ der Prüfling hat an einem Patienten aus den medizinischen Fachgebieten Chirurgi
 
 (3) Der praktische Teil der Prüfung soll innerhalb von vier Wochen abgeschlossen sein.
 
-
-## § 15 – Schriftlicher Teil der Prüfung
+# § 15 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf folgende Fächergruppen:
 
@@ -201,8 +183,7 @@ Der Prüfling hat in beiden Fächergruppen in jeweils einer Aufsichtsarbeit schr
 
 (3) § 12 Abs. 2 gilt entsprechend.
 
-
-## § 16 – Mündlicher Teil der Prüfung
+# § 16 – Mündlicher Teil der Prüfung
 
 (1) Für Prüflinge, die die staatliche Prüfung nach § 4 Abs. 2 des Masseur- und Physiotherapeutengesetzes bestanden haben, erstreckt sich der mündliche Teil der Prüfung auf das Fach Physiologie. Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. Die Prüfung soll für den Prüfling nicht länger als zehn Minuten dauern.
 
@@ -220,8 +201,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den Fäc
 
 (4) § 13 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 17 – Praktischer Teil der Prüfung
+# § 17 – Praktischer Teil der Prüfung
 
 (1) Der praktische Teil der Prüfung erstreckt sich auf die in § 14 Abs. 1 Nr. 1 und 3 genannten Fächergruppen.
 
@@ -229,8 +209,7 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den Fäc
 
 (3) § 14 Abs. 2 und 3 gilt entsprechend.
 
-
-## § 18 – Schriftlicher Teil der Prüfung
+# § 18 – Schriftlicher Teil der Prüfung
 
 (1) Der schriftliche Teil der Prüfung erstreckt sich auf das Fach Methodische Anwendung der Physiotherapie in den medizinischen Fachgebieten. Der Prüfling hat in einer Aufsichtsarbeit, für die 180 Minuten zur Verfügung stehen, schriftlich gestellte Fragen zu beantworten. Die Aufsichtsführenden werden von der Schulleitung bestellt.
 
@@ -238,20 +217,17 @@ Die Prüflinge werden einzeln oder in Gruppen bis zu fünf geprüft. In den Fäc
 
 (3) § 12 Abs. 2 gilt entsprechend.
 
-
-## § 19 – Mündlicher und praktischer Teil der Prüfung
+# § 19 – Mündlicher und praktischer Teil der Prüfung
 
 (1) Für den mündlichen Teil der Prüfung gilt § 16 entsprechend.
 
 (2) Für den praktischen Teil der Prüfung gilt § 17 entsprechend.
 
-
-## § 20 – Erlaubnisurkunde
+# § 20 – Erlaubnisurkunde
 
 Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und Physiotherapeutengesetzes für die Erteilung der Erlaubnis zur Führung der Berufsbezeichnung nach § 1 Nr. 2 des Gesetzes vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem Muster der Anlage 6 aus.
 
-
-## § 21 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
+# § 21 – Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Nr. 2 des Masseur- und Physiotherapeutengesetzes beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs. 1 Nr. 2 dieses Gesetzes vorliegen, eine von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder einen von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn ein solcher nicht beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs, der dem des Physiotherapeuten entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt worden ist. Hat die für die Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des Masseur- und Physiotherapeutengesetzes eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 dieses Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
 
@@ -265,8 +241,7 @@ Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und Physiotherapeutenge
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome, für deren Anerkennung sich nach dem Recht der Europäischen Union eine Gleichstellung ergibt.
 
-
-## § 21a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+# § 21a – Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 2 des Masseur- und Physiotherapeutengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges Lernen nach § 2 Absatz 3 Satz 7 des Masseur- und Physiotherapeutengesetzes erworben haben.
 
@@ -276,8 +251,7 @@ Liegen die Voraussetzungen nach § 2 Abs. 1 des Masseur- und Physiotherapeutenge
 
 (4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 13a Absatz 3 Satz 6 des Masseur- und Physiotherapeutengesetzes einer Eignungsprüfung zu unterziehen haben. Abweichend von Absatz 3 Satz 11 ist dabei sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß § 21 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
 
-
-## § 21b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+# § 21b – Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 Nummer 2 des Masseur- und Physiotherapeutengesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf Grund der in § 2 Absatz 2 Satz 5 des Masseur- und Physiotherapeutengesetzes vorliegenden Umstände nicht durchgeführt wird.
 
@@ -303,8 +277,7 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach dem Muster der Anlage 8 erteilt.
 
-
-## § 21c – Fristen, Bescheide, Durchführungsbestimmungen
+# § 21c – Fristen, Bescheide, Durchführungsbestimmungen
 
 (1) Die zuständige Behörde hat über Anträge auf Erteilung einer Erlaubnis als Physiotherapeutin oder Physiotherapeut nach § 1 Absatz 1 Nummer 2 des Masseur- und Physiotherapeutengesetzes in Verbindung mit § 2 Absatz 2, 3, 4a oder Absatz 5 des Masseur- und Physiotherapeutengesetzes kurzfristig, spätestens vier Monate, nach Vorlage der für Entscheidungen nach § 2 des Masseur- und Physiotherapeutengesetzes erforderlichen Unterlagen zu entscheiden. Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten erfolgen.
 
@@ -320,18 +293,15 @@ Der mündliche Teil der Prüfung soll für den einzelnen Prüfling mindestens 15
 
 (3) Die Prüfungen nach § 21a Absatz 3 und § 21b Absatz 3 finden in Form einer staatlichen Prüfung vor einer staatlichen Prüfungskommission statt. Die Länder können zur Durchführung der Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach § 2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können. Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§ 5, 8 bis 11 für die Durchführung der Prüfungen nach Satz 1 entsprechend.
 
-
-## § 22 – Inkrafttreten, Außerkrafttreten
+# § 22 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig tritt, soweit sich nicht aus § 16 Abs. 2 des Masseur- und Physiotherapeutengesetzes etwas anderes ergibt, die Ausbildungs- und Prüfungsordnung für Krankengymnasten vom 7. Dezember 1960 (BGBl. I S. 885), zuletzt geändert durch Anlage I Kapitel X Sachgebiet D Abschnitt II Nr. 15 des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1080), außer Kraft.
 
-
-## Schlußformel
+# Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
-
-## Anlage 1 – (zu § 1 Abs. 1)
+# Anlage 1 – (zu § 1 Abs. 1)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3791 - 3796
 
@@ -1781,8 +1751,7 @@ Stunden insgesamt
 
 1.600
 
-
-## Anlage 2 – (zu § 1 Abs. 2 Satz 1)
+# Anlage 2 – (zu § 1 Abs. 2 Satz 1)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3797 - 3799
 
@@ -2432,8 +2401,7 @@ Stunden insgesamt
 
 700
 
-
-## Anlage 3 – (zu § 1 Abs. 2 Satz 2)
+# Anlage 3 – (zu § 1 Abs. 2 Satz 2)
 
 Fundstelle des Originaltextes: BGBl. I 1994, 3800 - 3801
 
@@ -2787,8 +2755,7 @@ Stunden insgesamt
 
 400
 
-
-## Anlage 4 – (zu § 1 Abs. 4)
+# Anlage 4 – (zu § 1 Abs. 4)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3802)
 
@@ -2828,8 +2795,7 @@ Stunden insgesamt
     .....
     *) Nichtzutreffendes streichen. 
 
-
-## Anlage 5 – (zu § 7 Abs. 2 Satz 1)
+# Anlage 5 – (zu § 7 Abs. 2 Satz 1)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3803)
 
@@ -2860,8 +2826,7 @@ Stunden insgesamt
     .....................................................
     (Unterschrift des Vorsitzenden des Prüfungsausschusses) 
 
-
-## Anlage 6 – (zu § 20)
+# Anlage 6 – (zu § 20)
 
 (Fundstelle des Originaltextes: BGBl. I 1994, 3804)
 
@@ -2885,13 +2850,11 @@ Stunden insgesamt
     .....................................................
     (Unterschrift) 
 
-
-## Anlage 6a – (zu § 21a Absatz 2)
+# Anlage 6a – (zu § 21a Absatz 2)
 
 (Fundstelle: BGBl. I 2016, 934)
 
-............................................................................................................  
-
+............................................................................................................ 
 (Bezeichnung der Einrichtung)
 
 Bescheinigung  
@@ -2905,19 +2868,16 @@ Geburtsdatum        Geburtsort
 
 .........................................................................................................................................................
 
-hat in der Zeit vom ............................................................................ bis .............................................................................  
-regelmäßig an dem nach § 21a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Physiotherapeuten von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+hat in der Zeit vom ............................................................................ bis ............................................................................. regelmäßig an dem nach § 21a Absatz 2 der Ausbildungs- und Prüfungsverordnung für Physiotherapeuten von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
 
 Ort, Datum
 
 ......................................................................................................... (Stempel)
 
-..........................................................................................................  
-
+.......................................................................................................... 
 Unterschrift(en) der Einrichtung
 
-
-## Anlage 6b – (zu § 21a Absatz 3)
+# Anlage 6b – (zu § 21a Absatz 3)
 
 (Fundstelle: BGBl. I 2016, 934)
 
@@ -2953,12 +2913,9 @@ Ort, Datum
 
 ............................................................................................................................. (Siegel)
 
-.............................................................................................................................  
-
+............................................................................................................................. 
 (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
 
+# Anlage 7 – (zu § 21b Absatz 2)
 
-## Anlage 7 – (zu § 21b Absatz 2)
-
-
-## Anlage 8 – (zu § 21b Absatz 7)
+# Anlage 8 – (zu § 21b Absatz 7)

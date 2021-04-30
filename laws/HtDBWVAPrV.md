@@ -1,17 +1,11 @@
-# [HtDBWVAPrV] Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –  (HtDBWVAPrV)
-
-Ausfertigungsdatum: 31.03.2010
-
+% Verordnung über die Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik –  (HtDBWVAPrV)
+% Ausfertigungsdatum: 31.03.2010
  
-
-## Eingangsformel
+# Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 Absatz 1 der Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284) verordnet das Bundesministerium der Verteidigung:
 
-
-## Inhaltsübersicht
-
-  
+# Inhaltsübersicht
 
   
 
@@ -45,8 +39,9 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom
 
   
 
+  
 
-## § 1 – Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
+# § 1 – Ziel, Bestandteile und Schwerpunkte des Vorbereitungsdienstes
 
 (1) Ziel des Vorbereitungsdienstes ist es, die für eine vielseitige Verwendung in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes der Bundeswehr erforderlichen allgemeinen und wehrtechnischen Kenntnisse und Fähigkeiten zu vermitteln.
 
@@ -68,8 +63,7 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom
 
 (4) Die Referendarinnen und Referendare sind zum Selbststudium verpflichtet; das Selbststudium ist zu fördern.
 
-
-## § 2 – Schwerbehinderte und diesen gleichgestellte behinderte Menschen
+# § 2 – Schwerbehinderte und diesen gleichgestellte behinderte Menschen
 
 (1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen werden im Auswahlverfahren sowie für die Erbringung von Leistungsnachweisen und für die Teilnahme an Prüfungen Erleichterungen gewährt, die ihrer Behinderung angemessen sind. Hierauf sind sie durch die Einstellungsbehörde rechtzeitig hinzuweisen. Art und Umfang der Erleichterungen sind mit ihnen und der Schwerbehindertenvertretung rechtzeitig zu erörtern, sofern dies zeitlich möglich ist. Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen herabgesetzt werden.
 
@@ -77,15 +71,13 @@ Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des Bundesbeamtengesetzes vom
 
 (3) Entscheidungen über Prüfungserleichterungen trifft das Oberprüfungsamt.
 
-
-## § 3 – Einstellungsbehörde
+# § 3 – Einstellungsbehörde
 
 (1) Einstellungsbehörde ist das Bundesamt für Wehrtechnik und Beschaffung. Es ist zuständig für die Ausschreibung, die Durchführung des Auswahlverfahrens, die Einstellung und die Betreuung der Referendarinnen und Referendare. Es entscheidet über die Verlängerung oder Verkürzung des Vorbereitungsdienstes (§§ 15 und 16 der Bundeslaufbahnverordnung).
 
 (2) Das Bundesministerium der Verteidigung kann die Zuständigkeiten nach Absatz 1 auf Behörden in seinem Geschäftsbereich übertragen.
 
-
-## § 4 – Einstellungsvoraussetzungen
+# § 4 – Einstellungsvoraussetzungen
 
 In den Vorbereitungsdienst kann eingestellt werden, wer
 
@@ -93,8 +85,7 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 2. ein mit einem Master abgeschlossenes Hochschulstudium oder einen gleichwertigen Abschluss in einer Fachrichtung besitzt, die einem der Fachgebiete nach § 1 Absatz 3 Satz 2 zugeordnet werden kann.
 
-
-## § 5 – Ausschreibung, Bewerbung
+# § 5 – Ausschreibung, Bewerbung
 
 (1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.
 
@@ -114,8 +105,7 @@ c) Kopien der Zeugnisse, die bei Beendigung des Grundwehrdienstes und nach Wehr�
 
 d) Kopien der Zeugnisse über berufliche Tätigkeiten.
 
-
-## § 6 – Auswahlverfahren
+# § 6 – Auswahlverfahren
 
 (1) Vor der Entscheidung über die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den Vorbereitungsdienst geeignet sind.
 
@@ -139,8 +129,7 @@ Die Mitglieder der Auswahlkommission sind unabhängig und nicht weisungsgebunden
 
 (6) Die Mitglieder und Ersatzmitglieder der Auswahlkommission, die der Einstellungsbehörde, dem Bundesamt für Informationsmanagement und Informationstechnik der Bundeswehr oder einer diesen Stellen nachgeordneten Dienststelle angehören, werden von der Einstellungsbehörde und dem Bundesamt für Informationsmanagement und Informationstechnik der Bundeswehr für die Dauer von fünf Jahren bestellt; Wiederbestellung ist zulässig. Die Mitglieder und Ersatzmitglieder der Auswahlkommission, die einer anderen Behörde im Geschäftsbereich des Bundesministeriums der Verteidigung angehören, werden durch das Bundesministerium der Verteidigung bestellt.
 
-
-## § 7 – Einstellung in den Vorbereitungsdienst
+# § 7 – Einstellung in den Vorbereitungsdienst
 
 Vor der Einstellung haben die Bewerberinnen und Bewerber dafür zu sorgen, dass die Einstellungsbehörde folgende Unterlagen erhält:
 
@@ -158,13 +147,11 @@ b) in geordneten wirtschaftlichen Verhältnissen lebt.
 
 Die Kosten des Gesundheitszeugnisses trägt die Einstellungsbehörde. Statt die Kosten zu übernehmen, kann die Bundeswehrverwaltung die Einstellungsuntersuchung selbst vornehmen.
 
-
-## § 8 – Dauer des Vorbereitungsdienstes
+# § 8 – Dauer des Vorbereitungsdienstes
 
 Der Vorbereitungsdienst soll die Mindestdauer von 18 Monaten nicht überschreiten.
 
-
-## § 9 – Gliederung des Vorbereitungsdienstes
+# § 9 – Gliederung des Vorbereitungsdienstes
 
 (1) Der Vorbereitungsdienst gliedert sich in Lehrveranstaltungen und eine praktische Ausbildung. Im Einzelnen sind folgende Ausbildungsabschnitte vorzusehen:
 
@@ -196,18 +183,15 @@ Der Vorbereitungsdienst soll die Mindestdauer von 18 Monaten nicht überschreite
 
 (4) Während des Vorbereitungsdienstes werden die Referendarinnen und Referendare einem Einstufungstest in Englisch oder Französisch unterzogen.
 
-
-## § 10 – Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
+# § 10 – Lehrgang „Aufgaben und Organisation der Bundeswehr und Statusfragen“
 
 Die Referendarinnen und Referendare werden mit den Rechten und Pflichten der Beamtinnen und Beamten vertraut gemacht. Sie erhalten einen Überblick über das Beamten-, Besoldungs-, Reisekosten-, Umzugs- und Beihilferecht, über die Aufgaben, die Organisation und die rechtlichen Grundlagen der Bundeswehr, insbesondere des Rüstungsbereichs, sowie über die Arbeitsabläufe in der Bundeswehrverwaltung und die Einbindung der Bundesrepublik Deutschland in internationale und überstaatliche Organisationen. Die Referendarinnen und Referendare sollen am Ende des Lehrgangs über ein Grundwissen verfügen, auf dem die weitere Ausbildung aufbaut. Einzelheiten regelt der Lehrplan.
 
-
-## § 11 – Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes
+# § 11 – Vorstellung der Verwendungsmöglichkeiten in der Fachrichtung Wehrtechnik des höheren technischen Verwaltungsdienstes
 
 Die Referendarinnen und Referendare werden bei verschiedenen Dienststellen des Rüstungsbereichs in deren Organisation, Aufgaben und Ausstattung eingeführt. Außerdem werden die zukünftigen Einsatzmöglichkeiten im nationalen und internationalen Rüstungsbereich aufgezeigt. Einzelheiten regelt der Ausbildungsrahmenplan, den die Einstellungsbehörde mit Zustimmung des Bundesministeriums der Verteidigung erstellt.
 
-
-## § 12 – Lehrgänge „Bundeswehr und Sicherheitspolitik“, „Technisches Projektmanagement“, „Wirtschaftlichkeit im Projektmanagement“ und „Führungs- und Lenkungsaufgaben“
+# § 12 – Lehrgänge „Bundeswehr und Sicherheitspolitik“, „Technisches Projektmanagement“, „Wirtschaftlichkeit im Projektmanagement“ und „Führungs- und Lenkungsaufgaben“
 
 (1) Im Lehrgang „Bundeswehr und Sicherheitspolitik“ werden den Referendarinnen und Referendaren sicherheitspolitische Aspekte und allgemeine bundeswehrspezifische Themen vermittelt.
 
@@ -219,13 +203,11 @@ Die Referendarinnen und Referendare werden bei verschiedenen Dienststellen des R
 
 (5) Die Referendarinnen und Referendare werden befähigt, die allgemeinen fachgebietsübergreifenden Aufgaben im Bereich der Wehrtechnik, Funktionen im technischen Projektmanagement sowie Führungsfunktionen in der Bundeswehrverwaltung wahrzunehmen. Einzelheiten regelt der Lehrplan.
 
-
-## § 13 – Lehrgang „Allgemeine Systemtechnik“
+# § 13 – Lehrgang „Allgemeine Systemtechnik“
 
 Die Referendarinnen und Referendare lernen die Anforderungen, die sich aus der vernetzten Operationsführung, der notwendigen Interoperabilität verschiedener Systeme und den gemeinsamen Einsätzen mit den Streitkräften verbündeter Staaten ergeben, kennen. Darüber hinaus werden Kenntnisse der in der Bundeswehr eingeführten Waffensysteme sowie der Waffenwirkungen und des Schutzes gegen Waffensysteme und Waffenwirkungen vermittelt. Einzelheiten regelt der Lehrplan.
 
-
-## § 14 – Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
+# § 14 – Lehrgang „Fachtechnische Grundlagen einzelner wehrtechnischer Fachgebiete“
 
 (1) Behandelt werden im Wesentlichen:
 
@@ -267,18 +249,15 @@ b) Rohrwaffen, Flugkörper, Raketen und Handfeuerwaffen.
 
 (2) Die Referendarinnen und Referendare werden befähigt, die im Hochschulstudium erworbenen Kenntnisse, ergänzt um die Besonderheiten der Wehrtechnik, in ihrem wehrtechnischen Fachgebiet anzuwenden. Einzelheiten regelt der Lehrplan.
 
-
-## § 15 – Lehrgang „Systemtechnik Land“, „Systemtechnik Luft“, „Systemtechnik See“ oder „Systemtechnik Informationstechnologie“
+# § 15 – Lehrgang „Systemtechnik Land“, „Systemtechnik Luft“, „Systemtechnik See“ oder „Systemtechnik Informationstechnologie“
 
 Den Referendarinnen und Referendaren werden, aufbauend auf den wehrtechnischen Fachkenntnissen und den fachgebietsübergreifenden Grundlagen, das zur Planung von Rüstungsprojekten erforderliche Systemverständnis und die erforderlichen Systemkenntnisse in einem der Bereiche Systemtechnik Land, Systemtechnik Luft, Systemtechnik See oder Systemtechnik Informationstechnologie vermittelt. Die Zuordnung der Referendarinnen und Referendare zu einem der Lehrgänge erfolgt durch die Einstellungsbehörde. Einzelheiten regelt der Lehrplan.
 
-
-## § 16 – Lehrgang „Rechtsgrundlagen in der Praxis“
+# § 16 – Lehrgang „Rechtsgrundlagen in der Praxis“
 
 Den Referendarinnen und Referendaren werden die Rechts- und Verwaltungskenntnisse vermittelt, die für die spätere Aufgabenwahrnehmung, insbesondere in Projektleitungen mit einer Vielzahl von Schnittstellen zum nichttechnischen Bereich, erforderlich sind. Einzelheiten regelt der Lehrplan.
 
-
-## § 17 – Praktische Ausbildung
+# § 17 – Praktische Ausbildung
 
 (1) Die Referendarinnen und Referendare sollen in der Einstellungsbehörde, im Bundesamt für Informationsmanagement und Informationstechnik der Bundeswehr sowie bei den jeweils nachgeordneten wehrtechnischen oder wehrwissenschaftlichen Dienststellen oder dem Marinearsenal ihre im Studium erworbenen Kenntnisse praktisch anwenden. Der Schwerpunkt liegt hierbei auf der vorgesehenen Erstverwendung der Referendarinnen und Referendare. Sie sollen ihr Wissen um wehrtechnische, wirtschaftliche und soziale Kenntnisse ergänzen. Das in den Lehrgängen erworbene Wissen soll vor Anfertigung der schriftlichen Aufsichtsarbeiten nach § 23 interdisziplinär in der Praxis angewandt und vertieft werden. Die Referendarinnen und Referendare werden mit den besonderen Belangen der Bundeswehrverwaltung vertraut gemacht. Außerdem dient die praktische Ausbildung dem Erwerb praktischer Kenntnisse in Verwaltungs- und Haushaltsangelegenheiten sowie im Vergabe- und Vertragsrecht. Die Inhalte der praktischen Ausbildung regelt der Ausbildungsrahmenplan.
 
@@ -288,8 +267,7 @@ Den Referendarinnen und Referendaren werden die Rechts- und Verwaltungskenntniss
 
 (4) Aufgaben, die nicht dem Zweck der Ausbildung entsprechen, dürfen den Referendarinnen und Referendaren nicht übertragen werden.
 
-
-## § 18 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
+# § 18 – Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder
 
 (1) Mit der Ausbildung darf nur betraut werden, wer über die erforderlichen Fähigkeiten und Kenntnisse verfügt und entsprechend seiner Persönlichkeit geeignet ist.
 
@@ -301,8 +279,7 @@ Den Referendarinnen und Referendaren werden die Rechts- und Verwaltungskenntniss
 
 (5) Die Referendarinnen und Referendare sind in den einzelnen Ausbildungsstationen Beamtinnen und Beamten oder Beschäftigten zur Unterweisung und Anleitung zuzuteilen. Diesen Ausbilderinnen und Ausbildern dürfen nicht mehr Referendarinnen und Referendare zugewiesen werden, als sie mit Sorgfalt ausbilden können. Soweit erforderlich, werden sie von anderen Dienstgeschäften entlastet. Die Ausbilderinnen und Ausbilder unterrichten die Ausbildungsbeauftragten regelmäßig über den erreichten Ausbildungsstand.
 
-
-## § 19 – Oberprüfungsamt
+# § 19 – Oberprüfungsamt
 
 (1) Das Oberprüfungsamt für den höheren technischen Verwaltungsdienst führt die Große Staatsprüfung durch.
 
@@ -314,8 +291,7 @@ Den Referendarinnen und Referendaren werden die Rechts- und Verwaltungskenntniss
 
 (5) Die Leitung der Abteilung Wehrtechnik unterstützt die Direktorin oder den Direktor bei der Wahrnehmung der Aufgaben.
 
-
-## § 20 – Prüfungskommissionen
+# § 20 – Prüfungskommissionen
 
 (1) Für die schriftlichen Aufsichtsarbeiten, die Praxisarbeit und die mündliche Prüfung wird jeweils eine Prüfungskommission eingerichtet. Es können mehrere Prüfungskommissionen eingerichtet werden, wenn dies erforderlich ist wegen
 
@@ -349,8 +325,7 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (6) Die Prüfungskommission für die mündliche Prüfung ist beschlussfähig, wenn alle Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 
-
-## § 21 – Große Staatsprüfung
+# § 21 – Große Staatsprüfung
 
 (1) In der Großen Staatsprüfung ist festzustellen, ob die Referendarinnen und Referendare für den höheren technischen Verwaltungsdienst der Bundeswehr befähigt sind. Insbesondere haben die Referendarinnen und Referendare nachzuweisen, dass sie
 
@@ -370,15 +345,13 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (3) Die Große Staatsprüfung ist nichtöffentlich. Angehörige des Oberprüfungsamts können teilnehmen. Das Bundesministerium der Verteidigung kann gestatten, dass andere mit der Ausbildung von Referendarinnen und Referendaren für den höheren technischen Verwaltungsdienst in der Bundeswehrverwaltung befasste Personen während der mündlichen Prüfung anwesend sind. Das Oberprüfungsamt ist in diesem Fall rechtzeitig darüber zu unterrichten. Auf Wunsch von schwerbehinderten und diesen gleichgestellten behinderten Referendarinnen und Referendaren kann während ihrer mündlichen Prüfung die Schwerbehindertenvertretung anwesend sein. Bei der Beratung über die Bewertung der Prüfungsleistungen dürfen nur die Mitglieder der Prüfungskommission anwesend sein. Die Aufsichtsbefugnisse des Oberprüfungsamts und des Bundesministeriums der Verteidigung bleiben hiervon unberührt.
 
-
-## § 22 – Prüfungsort, Prüfungstermin
+# § 22 – Prüfungsort, Prüfungstermin
 
 (1) Die Termine für die Aushändigung und Präsentation der Praxisarbeit werden von der Ausbildungsleitung nach Maßgabe des § 24 festgesetzt.
 
 (2) Das Oberprüfungsamt setzt Ort und Zeit der schriftlichen Aufsichtsarbeiten und der mündlichen Prüfung fest. Die Ausbildungsleitung sorgt dafür, dass die Referendarinnen und Referendare hierüber rechtzeitig informiert werden.
 
-
-## § 23 – Schriftliche Aufsichtsarbeiten
+# § 23 – Schriftliche Aufsichtsarbeiten
 
 (1) Durch die schriftlichen Aufsichtsarbeiten sollen die Referendarinnen und Referendare zeigen, dass sie Aufgaben aus dem Bereich der Wehrtechnik rasch und sicher erfassen, in kurzer Frist mit den zugelassenen Hilfsmitteln lösen und das Ergebnis knapp und übersichtlich darstellen können. Die Aufgaben der Aufsichtsarbeiten bestimmt das Oberprüfungsamt auf Vorschlag der Einstellungsbehörde; die Lehrabteilungen der Bundesakademie für Wehrverwaltung und Wehrtechnik unterstützen die Erarbeitung der Aufgaben.
 
@@ -406,8 +379,7 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (10) Das Oberprüfungsamt gibt das Ergebnis der jeweiligen Aufsichtsarbeit den Referendarinnen und Referendaren spätestens zwei Monate nach dem Prüfungstag schriftlich bekannt.
 
-
-## § 24 – Praxisarbeit
+# § 24 – Praxisarbeit
 
 (1) Die Praxisarbeit soll erkennen lassen, dass die Referendarin oder der Referendar zur selbständigen Bearbeitung von und zur Mitarbeit an Projekten und Aufgaben der Ausbildungsdienststelle innerhalb einer vorgegebenen Zeit fähig ist. Die Ergebnisse der Arbeit und ihre Bewertung durch die Prüfungskommission sind schriftlich zu dokumentieren. Die Praxisarbeit ist den Prüfenden im Rahmen einer Präsentation vorzustellen. Die Dauer der Präsentation soll 30 Minuten nicht überschreiten.
 
@@ -425,15 +397,13 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (8) Die Verfasserin oder der Verfasser der Praxisarbeit kann frühestens fünf Jahre nach Beendigung des Vorbereitungsdienstes verlangen, dass ihr oder ihm die Arbeit überlassen wird.
 
-
-## § 25 – Zulassung zur mündlichen Prüfung
+# § 25 – Zulassung zur mündlichen Prüfung
 
 (1) Das Oberprüfungsamt lässt Referendarinnen und Referendare zur mündlichen Prüfung zu, wenn die Aufsichtsarbeiten und die Praxisarbeit jeweils mit mindestens „ausreichend (5 Rangpunkte)“ bewertet worden sind.
 
 (2) Die Ausbildungsleitung teilt den Referendarinnen und Referendaren im Auftrag des Oberprüfungsamts die Zulassung oder Nichtzulassung rechtzeitig vor der mündlichen Prüfung mit.
 
-
-## § 26 – Mündliche Prüfung
+# § 26 – Mündliche Prüfung
 
 (1) In der mündlichen Prüfung sollen die Referendarinnen und Referendare neben dem speziellen wehrtechnischen Wissen und Können in ihrem Fachgebiet vor allem Verständnis für wehrtechnische, wirtschaftliche und rechtliche Zusammenhänge erkennen lassen. Dabei sollen sie auch Urteilsvermögen, Sicherheit im Auftreten und Ausdrucksfähigkeit beweisen.
 
@@ -449,8 +419,7 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (7) Die Mitglieder der Prüfungskommission haben den Ablauf der Prüfung schriftlich oder elektronisch zu dokumentieren.
 
-
-## § 27 – Verhinderung, Rücktritt, Säumnis
+# § 27 – Verhinderung, Rücktritt, Säumnis
 
 (1) Wer durch eine Erkrankung oder sonstige nicht von ihm zu vertretende Umstände an der Prüfung oder an Teilen der Prüfung nicht teilnehmen kann, hat dies unverzüglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines amts-, vertrauens- oder personalärztlichen Zeugnisses oder eines Zeugnisses einer beamteten Ärztin oder eines beamteten Arztes nachzuweisen; ein privatärztliches Zeugnis kann anerkannt werden.
 
@@ -460,8 +429,7 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (4) Versäumen Referendarinnen oder Referendare ohne ausreichende Entschuldigung einen Prüfungsteil ganz oder teilweise, entscheidet das Oberprüfungsamt, ob die nicht erbrachte Prüfungsleistung nachgeholt werden kann oder mit „ungenügend (0 Rangpunkte)“ bewertet wird oder ob die gesamte Prüfung für nicht bestanden erklärt wird.
 
-
-## § 28 – Täuschung, Ordnungsverstoß
+# § 28 – Täuschung, Ordnungsverstoß
 
 (1) Referendarinnen oder Referendaren, die bei den Aufsichtsarbeiten, der Praxisarbeit oder in der mündlichen Prüfung täuschen, eine Täuschung versuchen oder dazu beitragen oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem Vorbehalt einer abweichenden Entscheidung des Oberprüfungsamts oder der Prüfungskommission nach Absatz 2 gestattet werden; bei einer erheblichen Störung können sie von der weiteren Teilnahme an dem betreffenden Teil der Prüfung ausgeschlossen werden.
 
@@ -473,8 +441,7 @@ Mindestens eine Beamtin oder ein Beamter soll demselben wehrtechnischen Fachgebi
 
 (5) Die Referendarin oder der Referendar ist vor der Entscheidung nach den Absätzen 2 bis 4 zu hören.
 
-
-## § 29 – Bewertung von Prüfungsleistungen
+# § 29 – Bewertung von Prüfungsleistungen
 
 (1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet:  
   
@@ -499,8 +466,7 @@ Durchschnittsrangpunktzahlen werden aus den Rangpunkten errechnet; sie werden au
 <table style="border-collapse: collapse;border-top: 0.5pt solid ; border-bottom: 0.5pt solid ; border-left: 0.5pt solid ; border-right: 0.5pt solid ; "><colgroup><col style="width: 60%" /><col style="width: 40%" /></colgroup><thead><tr class="header"><th style="text-align: center;">Prozentualer Anteil<br />
 der Leistungspunkte</th><th style="text-align: center;">Rangpunkte</th></tr></thead><tbody><tr class="odd"><td style="text-align: center;">93,70 bis 100,00</td><td style="text-align: center;">15</td></tr><tr class="even"><td style="text-align: center;">87,50 bis  93,69</td><td style="text-align: center;">14</td></tr><tr class="odd"><td style="text-align: center;">83,40 bis  87,49</td><td style="text-align: center;">13</td></tr><tr class="even"><td style="text-align: center;">79,20 bis  83,39</td><td style="text-align: center;">12</td></tr><tr class="odd"><td style="text-align: center;">75,00 bis  79,19</td><td style="text-align: center;">11</td></tr><tr class="even"><td style="text-align: center;">70,90 bis  74,99</td><td style="text-align: center;">10</td></tr><tr class="odd"><td style="text-align: center;">66,70 bis  70,89</td><td style="text-align: center;"> 9</td></tr><tr class="even"><td style="text-align: center;">62,50 bis  66,69</td><td style="text-align: center;"> 8</td></tr><tr class="odd"><td style="text-align: center;">58,40 bis  62,49</td><td style="text-align: center;"> 7</td></tr><tr class="even"><td style="text-align: center;">54,20 bis  58,39</td><td style="text-align: center;"> 6</td></tr><tr class="odd"><td style="text-align: center;">50,00 bis  54,19</td><td style="text-align: center;"> 5</td></tr><tr class="even"><td style="text-align: center;">41,70 bis  49,99</td><td style="text-align: center;"> 4</td></tr><tr class="odd"><td style="text-align: center;">33,40 bis  41,69</td><td style="text-align: center;"> 3</td></tr><tr class="even"><td style="text-align: center;">25,00 bis  33,39</td><td style="text-align: center;"> 2</td></tr><tr class="odd"><td style="text-align: center;">12,50 bis  24,99</td><td style="text-align: center;"> 1</td></tr><tr class="even"><td style="text-align: center;"> 0,00 bis  12,49</td><td style="text-align: center;"> 0</td></tr></tbody></table>
 
-
-## § 30 – Gesamtergebnis
+# § 30 – Gesamtergebnis
 
 (1) Die Große Staatsprüfung ist bestanden, wenn jeder Prüfungsteil nach § 21 Absatz 2 mindestens mit „ausreichend (5 Rangpunkte oder Durchschnittsrangpunktzahl 5)“ bewertet worden ist.
 
@@ -520,8 +486,7 @@ Soweit die abschließend errechnete Durchschnittsrangpunktzahl mindestens 5 oder
 
 (4) Das Gesamtergebnis der Großen Staatsprüfung ist schriftlich oder elektronisch zu dokumentieren.
 
-
-## § 31 – Zeugnisse, Ende des Beamtenverhältnisses
+# § 31 – Zeugnisse, Ende des Beamtenverhältnisses
 
 (1) Das Oberprüfungsamt erteilt den Referendarinnen und Referendaren, die die Prüfung bestanden haben, einen schriftlichen Bescheid über das Gesamtergebnis der Großen Staatsprüfung. Dem Bescheid ist ein Zeugnis beizufügen, das mindestens die Abschlussnote, die Durchschnittsrangpunktzahl sowie die Angabe enthält, dass die Große Staatsprüfung bestanden worden ist. Ist die Prüfung nicht bestanden, teilt das Oberprüfungsamt dies den Referendarinnen und Referendaren schriftlich mit. Der Bescheid nach Satz 1 und die Mitteilung nach Satz 3 sind mit einer Rechtsbehelfsbelehrung zu versehen.
 
@@ -533,38 +498,32 @@ Soweit die abschließend errechnete Durchschnittsrangpunktzahl mindestens 5 oder
 
 (5) Wer die Prüfung endgültig nicht bestanden hat, erhält von der Einstellungsbehörde ein Dienstzeugnis, das auch die Dauer der Ausbildung und die Ausbildungsinhalte umfasst.
 
-
-## § 32 – Erwerb der Laufbahnbefähigung
+# § 32 – Erwerb der Laufbahnbefähigung
 
 Mit Bestehen der Großen Staatsprüfung erwerben die Referendarinnen und Referendare die Befähigung für den höheren technischen Verwaltungsdienst. Sie sind berechtigt, die Berufsbezeichnung „Bauassessorin“ oder „Bauassessor“ zu führen.
 
-
-## § 33 – Prüfungsakten, Einsichtnahme
+# § 33 – Prüfungsakten, Einsichtnahme
 
 (1) Eine Ausfertigung des Prüfungszeugnisses ist mit den Aufsichtsarbeiten, der Dokumentation der Praxisarbeit und der schriftlichen Dokumentation der Großen Staatsprüfung zu den Prüfungsakten zu nehmen. Die Prüfungsakten werden beim Oberprüfungsamt oder einer von ihm bestimmten Stelle nach Beendigung des Vorbereitungsdienstes mindestens fünf Jahre aufbewahrt. Sie sind spätestens zehn Jahre nach Beendigung des Vorbereitungsdienstes zu vernichten.
 
 (2) Die Referendarinnen und Referendare können nach Abschluss der mündlichen Prüfung Einsicht in die sie betreffenden Teile der Prüfungsakten nehmen.
 
-
-## § 34 – Wiederholung
+# § 34 – Wiederholung
 
 (1) Wer Prüfungsteile nicht bestanden hat, kann diese innerhalb von drei Monaten nach Mitteilung des Ergebnisses einmal wiederholen; das Oberprüfungsamt kann in begründeten Fällen eine zweite Wiederholung zulassen. Eine Wiederholung ist ausgeschlossen, wenn die Prüfungskommission eine Empfehlung nach Absatz 2 Satz 1 ausspricht.
 
 (2) Empfiehlt die Prüfungskommission bei der Festsetzung der Prüfungsergebnisse die Wiederholung einzelner Ausbildungsabschnitte, sind hierfür angemessene Fristen festzulegen und der individuelle Ausbildungsplan neu aufzustellen. Erst nach Absolvierung der festgelegten Ausbildungsabschnitte ist die Prüfung zu wiederholen. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verlängert.
 
-
-## § 35 – Aufstiegsverfahren
+# § 35 – Aufstiegsverfahren
 
 (1) Die Einstellungsbehörde gibt in einer Ausschreibung die Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren für die Teilnahme am Vorbereitungsdienst und für die Teilnahme an Hochschulausbildungen nach § 39 der Bundeslaufbahnverordnung durchgeführt werden. Für das Auswahlverfahren gilt § 6 entsprechend. Über die Zulassung zum Aufstieg entscheidet die personalbearbeitende Dienststelle im Einvernehmen mit dem Bundesministerium der Verteidigung. Dabei ist das Ergebnis des Auswahlverfahrens zu berücksichtigen.
 
 (2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung nach § 39 Absatz 3 der Bundeslaufbahnverordnung.
 
-
-## § 36 – Übergangsregelung
+# § 36 – Übergangsregelung
 
 Referendarinnen und Referendare, die ihren Vorbereitungsdienst vor dem 1. Dezember 2009 begonnen haben, setzen ihn nach den bisher geltenden Bestimmungen fort. Aufstiegsbeamtinnen und Aufstiegsbeamte, die ihre Aufstiegsausbildung vor dem 1. Dezember 2009 begonnen haben, setzen sie nach den bisher geltenden Bestimmungen fort.
 
-
-## § 37 – Inkrafttreten, Außerkrafttreten
+# § 37 – Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Dezember 2009 in Kraft. Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Dienst in der Bundeswehrverwaltung – Fachrichtung Wehrtechnik – vom 6. März 2002 (BGBl. I S. 1051), die zuletzt durch Artikel 3 Absatz 28 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist, außer Kraft.
